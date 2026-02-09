@@ -32,7 +32,9 @@ venv/
 
 # Arquivos de sistema
 .DS_Store
-Thumbs.db
+*.db
+
+# SQLite (binário; dump textual em anais.sql)
 
 # Fontes originais (pesados)
 fontes/

@@ -46,6 +46,12 @@ anais/
 - Usuário: `dmacedo`
 - Senha: `***`
 
+#### Limitações da API OJS
+
+- A API **não retorna todos os campos** dos artigos (ex: `abstract`, `keywords` podem vir vazios mesmo existindo no banco). **Sempre verificar na página real** (`/article/view/{id}`) com WebFetch antes de concluir que dados estão faltando.
+- O locale `en_US` não está habilitado. Dados em inglês existem no banco mas não são exibidos. Requer admin do site para habilitar em Configurações do Site > Idiomas.
+- Conta `dmacedo`: papel de Editor (não Journal Manager nem Site Admin). Não tem acesso a configurações de idiomas nem de admin do site.
+
 #### Autenticação na API OJS
 
 A API do OJS requer autenticação via **sessão com cookies** (não aceita Basic Auth):
