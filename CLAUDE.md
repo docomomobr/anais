@@ -558,6 +558,21 @@ Os campos devem usar nomenclatura em **inglês**, conforme padrão OJS.
 - O subtítulo é separado do título por `: ` (dois-pontos seguido de espaço)
 - Ao parsear, dividir em `title` e `subtitle` no primeiro `: `
 
+### Travessão vs. hífen
+
+- **Hífen isolado** (` - `) usado como separador **não é hífen, é travessão** (` — `, em-dash U+2014)
+- Aplicar em todos os campos textuais: títulos, subtítulos, nomes de eventos, eixos temáticos, seções
+- Exemplos:
+  - `Rino Levi - Hespéria nos trópicos` → `Rino Levi — Hespéria nos trópicos`
+  - `Mesa 1 - Modos de usar a cidade` → `Mesa 1 — Modos de usar a cidade`
+  - `Artigos Completos - Documentação` → `Artigos Completos — Documentação`
+  - `Teresina - PI` → `Teresina — PI`
+- **Não substituir** hífens que são parte de:
+  - Intervalos numéricos: `1930-1960`, `pp. 89-94`
+  - Palavras compostas: `art-déco`, `pré-fabricado`
+  - Siglas com hífen: `E1-sdbr12`, `AC-CONS-sdnne09`
+  - Referências bibliográficas (campo `references`)
+
 ### Capitalização (norma brasileira - Ref: FUNAG)
 
 Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C3%BAsculas
