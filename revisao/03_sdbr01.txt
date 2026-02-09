@@ -1,0 +1,50 @@
+# LEVA 3 — Títulos, subtítulos e autores: sdbr01
+# 7 artigos
+#
+# Formato:
+#   ID
+#   T: título
+#   S: subtítulo
+#   A: autor1; autor2; ...
+#   X: seção
+#   (linha em branco separa artigos)
+
+sdbr01-001
+T: O 1º Seminário Docomomo_Brasil
+S: proposta, realização, memória
+A: José Carlos Huapaya Espinoza; Caio Anderson da Silva de Almeida
+X: Parte 01
+
+sdbr01-002
+T: O Patrimônio Histórico e Artístico do SPHAN
+A: Silvana Rubino
+X: Parte 02
+
+sdbr01-003
+T: Modernidade pragmática 1922-1943
+A: Hugo Segawa
+X: Parte 02
+
+sdbr01-004
+T: Por uma cidade com alma brasileira
+S: a Arquitetura de Rino Levi
+A: Renato Luiz Sobral Anelli
+X: Parte 02
+
+sdbr01-005
+T: Arquitetura moderna
+S: uma análise de residências da Praia do Canto
+A: Ana Paula de Oliveira Bringuente
+X: Parte 02
+
+sdbr01-006
+T: O Conjunto JK
+S: uma Torre Eiffel nos trópicos?
+A: Thaís Velloso Cougo Pimentel
+X: Parte 02
+
+sdbr01-007
+T: A constituição da Arquitetura moderna em São Paulo
+S: uma experiência coletiva
+A: Carlos Alberto Ferreira Martins
+X: Parte 02

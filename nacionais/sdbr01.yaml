@@ -1,9 +1,9 @@
-# 1º Seminário Docomomo Brasil - Salvador (1995)
+# 1º Seminário Docomomo Brasil - sdbr01
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01
 
 issue:
-  slug: sdbr01
+  slug: "sdbr01"
   title: "1º Seminário Docomomo Brasil"
   subtitle: "Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil"
   description: "Docomomo Brasil/Organizadores José Carlos Huapaya Espinoza; Alexandre Pajeú Moura — Edição comemorativa 25 anos de Docomomo Brasil. Salvador, BA."
@@ -18,65 +18,81 @@ issue:
   source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01"
 
 articles:
-  - title: "O 1º Seminário Docomomo_Brasil"
-    subtitle: "proposta, realização, memória"
-    authors:
-      - givenname: "José Carlos"
-        familyname: "Huapaya Espinoza"
-      - givenname: "Caio Anderson"
-        familyname: "da Silva de Almeida"
-    section: "Parte 01"
-    pages: "8-13"
-    locale: "pt-BR"
+- title: O 1º Seminário Docomomo_Brasil
+  subtitle: proposta, realização, memória
+  authors:
+  - givenname: José Carlos
+    familyname: Huapaya Espinoza
+  - givenname: Caio Anderson
+    familyname: da Silva de Almeida
+  section: Parte 01
+  pages: 8-13
+  locale: pt-BR
 
-  - title: "O Patrimônio Histórico e Artístico do SPHAN"
-    authors:
-      - givenname: "Silvana"
-        familyname: "Rubino"
-    section: "Parte 02"
-    pages: "15-24"
-    locale: "pt-BR"
+- title: O Patrimônio Histórico e Artístico do SPHAN
+  authors:
+  - givenname: Silvana
+    familyname: Rubino
+  section: Parte 02
+  pages: 15-24
+  locale: pt-BR
+  references:
+  - CONSIDERAÇÕES FINAIS ANDRADE, Mário de (1981). Cartas de trabalho. Brasília, MEC/SPHAN/ Fundação Nacional Pró-Memória. Publicações SPHAN no. 33. Não é a intenção deste trabalho tecer críticas à ação
+  - ANDRADE, Rodrigo Mello Franco de (1986) Rodrigo e seus tempos. do SPHAN, mas refletir um pouco sobre esta. Se a Rio de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória, questão para Rodrigo ao fundar uma instituição, formar Publicações SPHAN no. 37. um corpo técnico, iniciar um trabalho de pesquisa
+  - ANDRADE, Rodrigo Mello Franco de (1987) Rodrigo e o SPHAN. Rio e documentação era romper com o amadorismo de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória. que detectava em nos anos trinta, hoje temos mais Publicações SPHAN no. 38 de cinqüenta anos de experiência acumulada, e é
+  - 'BOURDIEU, Pierre (1988) Lições de Aula. São Paulo, Editora Ática. consenso que o SPHAN foi uma experiência intelectual e institucional extremamente bem sucedida. Ao LÉVI-STRAUSS, Claude (1976) O Pensamento Selvagem. São Paulo, organizar, catalogar, classificar e salvar, resíduos da Companhia Editora Nacional. história passada e presente, o SPHAN realiza um duplo RUBINO, Silvana (1995) “Clube de Pesquisadores: a Sociedade de movimento: nos permite uma recomposição de quatro Etnografia e Folclore e a Sociedade de Sociologia” in MICELI, Sergio séculos de Brasil e nos dá um retrato de si próprio, (org.) História das Ciências Sociais no Brasil. volume II. São Paulo, Editora Sumaré (no preto). de uma geração que marcou a experiência cultural brasileira deste século e com quem continuamos a dialogar, implícita ou explicitamente. NOTAS 1 Aula proferida por Rodrigo Mello Franco de Andrade no Instituto “Como é um lugar quando ninguém passa por ele?’ Guarujá-Bertioga em 1961 onde ele cunhou essa definição “clássica”: escreveu o poeta Carlos Drummond de Andrade, “O que se denomina patrimônio histórico e artístico nacional representa parte muito relevante e expressiva do acervo aludido, por ser o espólio'
+  - dos bens materiais móveis e imóveis aqui produzidos por nossos antepassados, com valor de obras de arte erudita e popular, ou vinculados a personagens e fatos memoráveis da história do Brasil. São documentos de identidade da nação brasileira.” In ANDRADE, R. :1987,57
+  - 4 ANDRADE, R. (1987:48)
+  - 5 ANDRADE, R.1985:254.
+  - '6 Essas categorias estão definidas no decreto-lei no. 25: 1º) no livro do Tombo Arqueológico, Etnográfico e Paisagístico, as coisas pertencentes às categorias de arte arqueológica, etnográfica, ameríndia e popular (...); 2º) no livro do Tombo Histórico, as coisas de interesse histórico e as obras de arte histórica; 3º) no livro do Tombo das Belas-Artes, as coisas de arte erudita nacional ou estrangeira; 4º) no livro do Tombo das Artes Aplicadas, as obras que se incluem na categoria artes aplicadas, nacionais ou estrangeiras.”'
+  - 7 Me refiro ao projeto do deputado estadual Paulo Duarte, que pretendia criar um serviço estadual de patrimônio com base no anteprojeto de Mário de Andrade, muito colado neste e em cooperação com o governo federal. Este projeto tramitou pela assembléia paulista no ano de 1937 e ainda não havia sido votado quando esta foi extinta pelo Estado Novo.
+  - 8 A ordem régia de Dona Maria I determinava que o governador da Capitania de Minas Gerais mandasse fazer “urnas memórias anuais
+  - dos novos estabelecimentos, fatos e casas mais notáveis e dignos de história que tivessem sucedido desde a fundação desta capitania.” Esse documento se perdeu e alguns fragmentos são conhecidos por sua transcrição em um estudo que Rodrigo Bretas, bisavô de Rodrigo Mello Franco de Andrade, realizou sobre o Aleijadinho.
+  - 9 “Programa”, Revista do Patrimônio Histórico e Artístico Nacional no. 1, Rio de janeiro, 1937.
+  - 10 Processo de tombamento da Igreja de São Francisco de Assis, da Pampulha. Arquivo SPHAN.
+  - '11 “Proposta de tombamento: Edifício-sede do Ministério da Educação”, de 3 de março de 1948. Arquivo SPHAN.'
 
-  - title: "Modernidade pragmática 1922-1943"
-    authors:
-      - givenname: "Hugo"
-        familyname: "Segawa"
-    section: "Parte 02"
-    pages: "25-40"
-    locale: "pt-BR"
+- title: Modernidade pragmática 1922-1943
+  authors:
+  - givenname: Hugo
+    familyname: Segawa
+  section: Parte 02
+  pages: 25-40
+  locale: pt-BR
 
-  - title: "Por uma cidade com alma brasileira"
-    subtitle: "a Arquitetura de Rino Levi"
-    authors:
-      - givenname: "Renato Luiz"
-        familyname: "Sobral Anelli"
-    section: "Parte 02"
-    pages: "41-57"
-    locale: "pt-BR"
+- title: Por uma cidade com alma brasileira
+  subtitle: a Arquitetura de Rino Levi
+  authors:
+  - givenname: Renato Luiz
+    familyname: Sobral Anelli
+  section: Parte 02
+  pages: 41-57
+  locale: pt-BR
 
-  - title: "Arquitetura moderna"
-    subtitle: "uma análise de residências da Praia do Canto"
-    authors:
-      - givenname: "Ana Paula"
-        familyname: "de Oliveira Bringuente"
-    section: "Parte 02"
-    pages: "58-73"
-    locale: "pt-BR"
+- title: Arquitetura moderna
+  subtitle: uma análise de residências da Praia do Canto
+  authors:
+  - givenname: Ana Paula
+    familyname: de Oliveira Bringuente
+  section: Parte 02
+  pages: 58-73
+  locale: pt-BR
 
-  - title: "O Conjunto JK"
-    subtitle: "uma Torre Eiffel nos trópicos?"
-    authors:
-      - givenname: "Thaís Velloso"
-        familyname: "Cougo Pimentel"
-    section: "Parte 02"
-    pages: "74-80"
-    locale: "pt-BR"
+- title: O Conjunto JK
+  subtitle: uma Torre Eiffel nos trópicos?
+  authors:
+  - givenname: Thaís Velloso
+    familyname: Cougo Pimentel
+  section: Parte 02
+  pages: 74-80
+  locale: pt-BR
 
-  - title: "A constituição da Arquitetura moderna em São Paulo"
-    subtitle: "uma experiência coletiva"
-    authors:
-      - givenname: "Carlos Alberto"
-        familyname: "Ferreira Martins"
-    section: "Parte 02"
-    pages: "81-92"
-    locale: "pt-BR"
+- title: A constituição da Arquitetura moderna em São Paulo
+  subtitle: uma experiência coletiva
+  authors:
+  - givenname: Carlos Alberto
+    familyname: Ferreira Martins
+  section: Parte 02
+  pages: 81-92
+  locale: pt-BR
+
