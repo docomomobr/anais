@@ -1,0 +1,355 @@
+{
+    "itemsMax": 14,
+    "items": [
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/29",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_29_pt_BR.png"
+            },
+            "datePublished": "2025-12-20 18:20:11",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">4\u00b0 Semin\u00e1rio Docomomo Brasil: anais: a arquitetura moderna brasileira e os processos regionais de industrializa\u00e7\u00e3o [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Maria Marta Camisassa. Vi\u00e7osa: UFV, 2001.</span></p>"
+            },
+            "galleys": [],
+            "id": 29,
+            "identification": "4\u00ba Semin\u00e1rio Docomomo Brasil, Vi\u00e7osa, 2001",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr04",
+            "title": {
+                "pt_BR": "4\u00ba Semin\u00e1rio Docomomo Brasil, Vi\u00e7osa, 2001"
+            },
+            "volume": 4,
+            "year": 2001
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/18",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_18_pt_BR.png"
+            },
+            "datePublished": "2025-12-20 01:09:07",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">13\u00b0 Semin\u00e1rio Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um s\u00f3 mundo [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Jos\u00e9 Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-66843-06-4</span></p>"
+            },
+            "galleys": [],
+            "id": 18,
+            "identification": "13\u00b0 Semin\u00e1rio Docomomo Brasil, Bahia, 2019",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr13",
+            "title": {
+                "pt_BR": "13\u00b0 Semin\u00e1rio Docomomo Brasil, Bahia, 2019"
+            },
+            "volume": 13,
+            "year": 2019
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/23",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_23_pt_BR.png"
+            },
+            "datePublished": "2025-12-19 01:36:59",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">Docomomo \u2014 Brasil: novas formula\u00e7\u00f5es no campo da arquitetura e urbanismo [recurso eletr\u00f4nico]&nbsp; / organizadores: Jos\u00e9 Carlos Huapaya Espinoza, R\u00f4mulo Marques, Thiscianne Pessoa \u2014 Teresina: EDUFPI, 2019. 244p.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-509-0555-6</span></p>"
+            },
+            "galleys": [
+                {
+                    "file": null,
+                    "id": 13,
+                    "isApproved": null,
+                    "label": "EDI\u00c7\u00c3O COMPLETA",
+                    "locale": "pt_BR",
+                    "pub-id::publisher-id": null,
+                    "publicationId": null,
+                    "seq": null,
+                    "submissionFileId": null,
+                    "urlPublished": "https://publicacoes.docomomobrasil.com/anais/issue/view/23/13",
+                    "urlRemote": null
+                }
+            ],
+            "id": 23,
+            "identification": "2\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1997",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02",
+            "title": {
+                "pt_BR": "2\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1997"
+            },
+            "volume": 2,
+            "year": 1997
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/13",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_13_pt_BR.png"
+            },
+            "datePublished": "2025-12-19 01:36:54",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletr\u00f4nico]: docomomo Brasil/Organizadores Jos\u00e9 Carlos Huapaya Espinoza; Alexandre Paje\u00fa Moura. \u2014 Salvador, BA: Instituto de Arquitetos do Brasil, Departamento da Bahia, PPGAU/UFBA, 2020. 98p. il.&nbsp;</span></p>\r\n<p><span style=\"font-weight: 400;\">Edi\u00e7\u00e3o comemorativa 25 anos de Docomomo Brasil.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-66843-07-1</span></p>"
+            },
+            "galleys": [
+                {
+                    "file": null,
+                    "id": 12,
+                    "isApproved": null,
+                    "label": "EDI\u00c7\u00c3O COMPLETA",
+                    "locale": "pt_BR",
+                    "pub-id::publisher-id": null,
+                    "publicationId": null,
+                    "seq": null,
+                    "submissionFileId": null,
+                    "urlPublished": "https://publicacoes.docomomobrasil.com/anais/issue/view/13/12",
+                    "urlRemote": null
+                }
+            ],
+            "id": 13,
+            "identification": "1\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1995",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01",
+            "title": {
+                "pt_BR": "1\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1995"
+            },
+            "volume": 1,
+            "year": 1995
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/28",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_28_pt_BR.png"
+            },
+            "datePublished": "2025-12-19 01:21:37",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">11\u00b0 Semin\u00e1rio Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-415-0803-2</span></p>"
+            },
+            "galleys": [],
+            "id": 28,
+            "identification": "11\u00ba Semin\u00e1rio Docomomo Brasil, Recife, 2016",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr11",
+            "title": {
+                "pt_BR": "11\u00ba Semin\u00e1rio Docomomo Brasil, Recife, 2016"
+            },
+            "volume": 11,
+            "year": 2016
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/20",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_20_pt_BR.png"
+            },
+            "datePublished": "2025-12-18 16:57:38",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">14\u00b0 Semin\u00e1rio Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da arquitetura moderna no Brasil [recurso eletr\u00f4nico] / coordena\u00e7\u00e3o: Celma Chaves, Cybelle Miranda. Bel\u00e9m: Universidade Federal do Par\u00e1, Faculdade de Arquitetura e Urbanismo, Programa de P\u00f3s-Gradua\u00e7\u00e3o em Arquitetura e Urbanismo, 2021.</span></p>\r\n<p><span style=\"font-weight: 400;\">Disponivel tamb\u00e9m em: https://13docomomobrasil.ufba.br/</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-65-00-40027-4</span></p>"
+            },
+            "galleys": [],
+            "id": 20,
+            "identification": "14\u00ba Semin\u00e1rio Docomomo Brasil, Bel\u00e9m, 2021",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr14",
+            "title": {
+                "pt_BR": "14\u00ba Semin\u00e1rio Docomomo Brasil, Bel\u00e9m, 2021"
+            },
+            "volume": 14,
+            "year": 2021
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/19",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_19_pt_BR.png"
+            },
+            "datePublished": "2025-12-18 16:05:54",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">15\u00b0 Semin\u00e1rio Docomomo Brasil: anais: arquitetura e urbanismo e a reconstru\u00e7\u00e3o do Estado e da sociedade [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Ivo Renato Giroto et al.. S\u00e3o Carlos, SP: IAU e FAU \u2014 Universidade de S\u00e3o Paulo, 2023.</span></p>\r\n<p><span style=\"font-weight: 400;\">Disponivel tamb\u00e9m em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN: 978-65-272-0196-0</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\">DOI: 10.29327/1344945</span></p>"
+            },
+            "galleys": [],
+            "id": 19,
+            "identification": "15\u00ba Semin\u00e1rio Docomomo Brasil, S\u00e3o Carlos e S\u00e3o Paulo, 2023",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr15",
+            "title": {
+                "pt_BR": "15\u00ba Semin\u00e1rio Docomomo Brasil, S\u00e3o Carlos e S\u00e3o Paulo, 2023"
+            },
+            "volume": 15,
+            "year": 2023
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/15",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_15_pt_BR.png"
+            },
+            "datePublished": "2013-05-05 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">10\u00b0 Semin\u00e1rio Docomomo Brasil: anais: arquitetura moderna e internacional: conex\u00f5es brutalistas 1955-75. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-60188-14-7</span></p>"
+            },
+            "galleys": [],
+            "id": 15,
+            "identification": "10\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2013",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr10",
+            "title": {
+                "pt_BR": "10\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2013"
+            },
+            "volume": 10,
+            "year": 2013
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/22",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_22_pt_BR.png"
+            },
+            "datePublished": "2011-10-10 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">9\u00b0 Semin\u00e1rio DOCOMOMO Brasil: anais: interdisciplinaridade e experi\u00eancias de documenta\u00e7\u00e3o e preserva\u00e7\u00e3o do patrim\u00f4nio recente [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. \u2014 Bras\u00edlia: UnB-FAU, 2011. 1 DVD (4 \u00be pol.)</span></p>\r\n<p><span style=\"font-weight: 400;\">Produ\u00e7\u00e3o do N\u00facleo DOCOMOMO Bras\u00edlia</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-60762-04-0</span></p>"
+            },
+            "galleys": [],
+            "id": 22,
+            "identification": "9\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2011",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr09",
+            "title": {
+                "pt_BR": "9\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2011"
+            },
+            "volume": 9,
+            "year": 2011
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/24",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_24_pt_BR.png"
+            },
+            "datePublished": "2009-10-11 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">8\u00b0 Semin\u00e1rio DOCOMOMO Brasil: anais: cidade moderna e contempor\u00e2nea: s\u00edntese e paradoxo das artes [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Roberto Segre et al.. \u2014 Rio de Janeiro: Docomomo-RJ; Prourb/UFRJ, 2009. 1 DVD (4 \u00be pol.)</span></p>\r\n<p><span style=\"font-weight: 400;\">Produ\u00e7\u00e3o do N\u00facleo DOCOMOMO Rio de Janeiro</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-88027-11-4</span></p>"
+            },
+            "galleys": [],
+            "id": 24,
+            "identification": "8\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2009",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr08",
+            "title": {
+                "pt_BR": "8\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2009"
+            },
+            "volume": 8,
+            "year": 2009
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/21",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_21_pt_BR.png"
+            },
+            "datePublished": "2007-10-09 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">7\u00b0 Semin\u00e1rio Docomomo Brasil: anais: o moderno j\u00e1 passado, o passado no moderno: reciclagem, requalifica\u00e7\u00e3o, rearquitetura [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani \u2013 Porto Alegre: PROPAR-UFRGS, 2007.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 978-85-60188-06-2</span></p>"
+            },
+            "galleys": [],
+            "id": 21,
+            "identification": "7\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2007",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr07",
+            "title": {
+                "pt_BR": "7\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2007"
+            },
+            "volume": 7,
+            "year": 2007
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/17",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_17_pt_BR.png"
+            },
+            "datePublished": "2005-01-01 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">6\u00b0 Semin\u00e1rio Docomomo Brasil: anais: moderno e nacional, arquitetura e urbanismo [recurso eletr\u00f4nico] / organiza\u00e7\u00e3o: Jos\u00e9 Pess\u00f4a, Eduardo Vasconcellos, Elisabete Reis, Maria Lobo. Niter\u00f3i: P\u00f3s Gradua\u00e7\u00e3o em Arquitetura e Urbanismo UFF, 2005.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 85-99618-01-6</span></p>"
+            },
+            "galleys": [],
+            "id": 17,
+            "identification": "6\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2005",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr06",
+            "title": {
+                "pt_BR": "6\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2005"
+            },
+            "volume": 6,
+            "year": 2005
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/16",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_16_pt_BR.png"
+            },
+            "datePublished": "2003-01-01 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">Anais do 5\u00b0 Semin\u00e1rio Docomomo Brasil [arquivo de computador / comiss\u00e3o organizadora Hugo Segawa\u2026 [et al.] S\u00e3o Carlos: SAP/EESC/USP, 2003. 1 CD-ROM</span></p>\r\n<p><span style=\"font-weight: 400;\">\u201cArquitetura e urbanismo modernos: projeto e preserva\u00e7\u00e3o\u201d</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 85-85205-43-1</span></p>"
+            },
+            "galleys": [],
+            "id": 16,
+            "identification": "5\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2003",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr05",
+            "title": {
+                "pt_BR": "5\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 2003"
+            },
+            "volume": 5,
+            "year": 2003
+        },
+        {
+            "_href": "https://publicacoes.docomomobrasil.com/anais/api/v1/issues/14",
+            "coverImageAltText": {
+                "pt_BR": ""
+            },
+            "coverImageUrl": {
+                "pt_BR": "https://publicacoes.docomomobrasil.com/public/journals/2/cover_issue_14_pt_BR.png"
+            },
+            "datePublished": "1999-01-01 00:00:00",
+            "description": {
+                "pt_BR": "<p><span style=\"font-weight: 400;\">3\u00b0 Semin\u00e1rio Docomomo Brasil: anais: a perman\u00eancia do moderno [recurso eletr\u00f4nico] /. S\u00e3o Carlos: EESC, 1999.</span></p>\r\n<p><span style=\"font-weight: 400;\">ISBN 85-85205-56-3</span></p>"
+            },
+            "galleys": [],
+            "id": 14,
+            "identification": "3\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1999",
+            "number": null,
+            "publishedUrl": "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03",
+            "title": {
+                "pt_BR": "3\u00b0 Semin\u00e1rio Docomomo Brasil, S\u00e3o Paulo, 1999"
+            },
+            "volume": 3,
+            "year": 1999
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+# 3º Seminário Docomomo Brasil - São Paulo (1999)
+# Espelho dos metadados publicados no OJS
+# Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03
+
+issue:
+  slug: sdbr03
+  title: "3º Seminário Docomomo Brasil"
+  subtitle: "A permanência do moderno"
+  description: "Anais do 3º Seminário Docomomo Brasil. São Carlos: EESC."
+  year: 1999
+  volume: 1
+  number: 3
+  date_published: 1999-01-01
+  isbn: "85-85205-56-3"
+  editors: []
+  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03"
+
+articles:
+  - title: "Arquitetura da infraestrutura da saúde em Santa Catarina 1935/1945"
+    authors:
+      - givenname: "Ana Albano"
+        familyname: "Amora"
+    pages: "1-12"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna"
+    subtitle: "ruptura ou continuidade"
+    authors:
+      - givenname: "Anat"
+        familyname: "Falbel"
+      - givenname: "Ana Gabriela"
+        familyname: "Godinho Lima"
+    pages: "1-8"
+    locale: "pt-BR"
+
+  - title: "O passado mora ao lado"
+    subtitle: "Lúcio Costa e o projeto do Grand Hotel de Ouro Preto, 1938/40"
+    authors:
+      - givenname: "Carlos Eduardo"
+        familyname: "Dias Comas"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna em Araraquara"
+    subtitle: "inventário"
+    authors:
+      - givenname: "Eduardo"
+        familyname: "Lauand Sobrinho"
+      - givenname: "Francisco José"
+        familyname: "Santoro"
+      - givenname: "René Antonio"
+        familyname: "Nusdeu"
+    pages: "1-7"
+    locale: "pt-BR"
+
+  - title: "Teorias e práticas \"modernistas\" nas disciplinas de projeto"
+    authors:
+      - givenname: "Maísa"
+        familyname: "Veloso"
+    pages: "1-9"
+    locale: "pt-BR"
+
+  - title: "O Laboratório de Ensaio de Materiais da Escola Politécnica de São Paulo 1926-1934"
+    authors:
+      - givenname: "Daniela de Souza"
+        familyname: "Coelho Pereira Bastos"
+      - givenname: "Jan Radvany"
+        familyname: "Florez"
+    pages: "1-8"
+    locale: "pt-BR"
+
+  - title: "Rumo ao moderno"
+    subtitle: "uma historiografia da Arquitetura moderna em São Paulo até 1945"
+    authors:
+      - givenname: "Maria Lucia"
+        familyname: "Bressan Pinheiro"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura moderna na cidade de Bauru (São Paulo)"
+    subtitle: "projetos do arquiteto Fernando Pinho"
+    authors:
+      - givenname: "Rosío Fernández"
+        familyname: "Baca Salcedo"
+      - givenname: "Paula"
+        familyname: "da Cruz Landim Y Goya"
+      - givenname: "Melissa Ramos"
+        familyname: "da Silva Oliveira"
+      - givenname: "Karina"
+        familyname: "Trevisan Fernandes"
+      - givenname: "Ricardo"
+        familyname: "Peron Leite Ferraz"
+    pages: "1-10"
+    locale: "pt-BR"
+
+  - title: "O Edifício Esther"
+    authors:
+      - givenname: "Marcos J."
+        familyname: "Carrilho"
+    pages: "1-5"
+    locale: "pt-BR"
+
+  - title: "A paixão do início na Arquitetura de Paulo Mendes da Rocha"
+    authors:
+      - givenname: "Denise Chini"
+        familyname: "Solot"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "O estilo moderno na Arquitetura de Pernambuco"
+    authors:
+      - givenname: "Geraldo"
+        familyname: "Gomes"
+    pages: null
+    locale: "pt-BR"
+
+  - title: "O Codepac e a luta pela preservação de edifícios modernos em Bauru – SP"
+    authors:
+      - givenname: "Nilson"
+        familyname: "Ghirardello"
+    pages: "1-5"
+    locale: "pt-BR"
+
+  - title: "Textos do Urbanismo moderno no Plano Diretor Santos - 1968"
+    authors:
+      - givenname: "Luiz Antonio"
+        familyname: "de Paula Nunes"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "Convênio Escolar"
+    subtitle: "a Arquitetura moderna a serviço do ensino público"
+    authors:
+      - givenname: "Mirthes"
+        familyname: "Baffi"
+    pages: "1-10"
+    locale: "pt-BR"
+
+  - title: "Suburbanização e revitalização"
+    subtitle: "dois estudos de caso na Alemanha"
+    authors:
+      - givenname: "Ana Lucia"
+        familyname: "Vieira dos Santos"
+      - givenname: "Anna Carla"
+        familyname: "Mello da Rocha"
+      - givenname: "Carmem Valéria"
+        familyname: "Celano"
+      - givenname: "Eduardo"
+        familyname: "Rocha de Oliveira Filho"
+      - givenname: "Flávia"
+        familyname: "Brito do Nascimento"
+      - givenname: "Liane"
+        familyname: "Flemming"
+      - givenname: "Sandra"
+        familyname: "Lemos Coelho"
+      - givenname: "Marcia Botelho"
+        familyname: "Junqueira"
+      - givenname: "Cêça"
+        familyname: "Guimaraens"
+      - givenname: "Gustavo"
+        familyname: "da Rocha Peixoto"
+    pages: "1-12"
+    locale: "pt-BR"
+
+  - title: "Inventário de Arquitetura moderna no Vale do Paraíba e Alto Tietê"
+    authors:
+      - givenname: "Benedito"
+        familyname: "Assagra Ribas de Mello"
+      - givenname: "Marcia"
+        familyname: "David"
+      - givenname: "Ademir"
+        familyname: "Pereira dos Santos"
+      - givenname: "Alexandre"
+        familyname: "Penedo"
+      - givenname: "Carlos"
+        familyname: "Lunardi"
+      - givenname: "João Francisco"
+        familyname: "Chavedar"
+      - givenname: "Jorge"
+        familyname: "Simões Pires"
+      - givenname: "Luciana"
+        familyname: "Yui"
+      - givenname: "Roberto"
+        familyname: "Bianchi Jr."
+      - givenname: "Sônia"
+        familyname: "Di Maio"
+      - givenname: "Valéria B."
+        familyname: "Pedroso dos Santos"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "Modernismo tardio nas transformações do centro de Salvador nos anos 60"
+    authors:
+      - givenname: "Alejandra"
+        familyname: "Hernández Muñoz"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "Trocando gato por lebre"
+    subtitle: "quando os instrumentos legais de preservação não preservam o que deve ser preservado"
+    authors:
+      - givenname: "Luiz Manuel"
+        familyname: "do Eirado Amorim"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "Brutalismo"
+    subtitle: "a última trincheira do movimento moderno"
+    authors:
+      - givenname: "Fernando"
+        familyname: "Freitas Fuão"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "A verticalização e a origem do movimento moderno em Fortaleza"
+    authors:
+      - givenname: "Margarida Julia"
+        familyname: "Farias de Salles Andrade"
+    pages: "1-10"
+    locale: "pt-BR"
+
+  - title: "Tecidos habitacionais em Amsterdã"
+    authors:
+      - givenname: "Lizete Maria"
+        familyname: "Rubano"
+    pages: "1-21"
+    locale: "pt-BR"
+
+  - title: "Conjunto Residencial de Deodoro"
+    subtitle: "a experiência moderna da Fundação da Casa Popular"
+    authors:
+      - givenname: "Sálua"
+        familyname: "Kairuz Manoel"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "Conjunto Residencial da Lagoinha"
+    subtitle: "o impacto da construção de um Hof na capital mineira"
+    authors:
+      - givenname: "Rodrigo Otávio"
+        familyname: "Santana de Jesus"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "A difusão da Arquitetura moderna em Campo Grande"
+    authors:
+      - givenname: "Ângelo Marcos"
+        familyname: "Vieira de Arruda"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "Sobre intervenções arquitetônicas em edifícios e ambientes urbanos modernos"
+    subtitle: "análise crítica de algumas obras de Paulo Mendes da Rocha"
+    authors:
+      - givenname: "Ruth Verde"
+        familyname: "Zein"
+    pages: "1-12"
+    locale: "pt-BR"
+
+  - title: "A importância do decoro urbano na Arquitetura de Rino Levi"
+    subtitle: "o caso das residências"
+    authors:
+      - givenname: "Célia Helena"
+        familyname: "Castro Gonsales"
+    pages: "1-16"
+    locale: "pt-BR"
+
+  - title: "Inventário do Patrimônio Urbano e Cultural de Betim"
+    authors:
+      - givenname: "Jurema"
+        familyname: "Marteleto Rugani"
+      - givenname: "Leonardo"
+        familyname: "Barci Castriota"
+    pages: "1-15"
+    locale: "pt-BR"
+
+  - title: "A participação da Escola de Arquitetura na construção do pensamento moderno em Belo Horizonte"
+    authors:
+      - givenname: "Patrícia Pimenta"
+        familyname: "Azevedo Ribeiro"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna e pesquisa tecnológica"
+    subtitle: "a contribuição do IPT (1934-1964)"
+    authors:
+      - givenname: "Nicole"
+        familyname: "Boehringer"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "Volumes modernos x fachadas contemporâneas"
+    authors:
+      - givenname: "Naia Alban"
+        familyname: "Suarez"
+    pages: "1-9"
+    locale: "pt-BR"
+
+  - title: "O moderno como opção estilística"
+    subtitle: "a gradual assimilação das linguagens despojadas de ornamentos na Arquitetura residencial do bairro Jardim América em São Paulo nas décadas de 20 a 40"
+    authors:
+      - givenname: "Silvia Ferreira"
+        familyname: "Santos Wolff"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "Instituto Moreira Salles – Rio de Janeiro"
+    subtitle: "projeto e obra de restauro, reforma e adaptação"
+    authors:
+      - givenname: "Maria Luiza"
+        familyname: "Dutra"
+      - givenname: "Walter"
+        familyname: "Arruda de Menezes"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura entre o renascimento do moderno e o luto da modernidade"
+    authors:
+      - givenname: "Carlos Antônio"
+        familyname: "Leite Brandão"
+    pages: "1-10"
+    locale: "pt-BR"
+
+  - title: "Conhecendo a Arquitetura moderna potiguar"
+    subtitle: "um esforço conjunto"
+    authors:
+      - givenname: "Edja Bezerra"
+        familyname: "Faria Trigueiro"
+    pages: "1-7"
+    locale: "pt-BR"
+
+  - title: "Cinco questões sobre o movimento moderno no ensino de Teoria e História da Arquitetura e do Urbanismo"
+    authors:
+      - givenname: "Lélia"
+        familyname: "Vasconcellos"
+    pages: "1-9"
+    locale: "pt-BR"
+
+  - title: "ABCP e ABNT"
+    subtitle: "contribuição histórica à construção econômica"
+    authors:
+      - givenname: "Ana Carolina"
+        familyname: "Sawaya Kaphan"
+      - givenname: "Luciana"
+        familyname: "Massami Inoue"
+    pages: "1-12"
+    locale: "pt-BR"
+
+  - title: "Sobre miscigenação, falta de tradição e orquídeas"
+    subtitle: "a nacionalização da Arquitetura moderna brasileira nas revistas de Arquitetura de língua alemã"
+    authors:
+      - givenname: "Márcio"
+        familyname: "Correia Campos"
+    pages: "1-10"
+    locale: "pt-BR"
+
+  - title: "Plano Diretor de 1945 elaborado para Ribeirão Preto"
+    subtitle: "proposta do engenheiro José de Oliveira Reis"
+    authors:
+      - givenname: "Ozório"
+        familyname: "Calil Júnior"
+      - givenname: "Luiz"
+        familyname: "Ferrarini Júnior"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "Aspectos de preservação da obra de Frank Lloyd Wright dentro do quadro da conservação do patrimônio moderno nos E.U.A."
+    authors:
+      - givenname: "Paulo Yassuhide"
+        familyname: "Fujioka"
+    pages: "1-19"
+    locale: "pt-BR"
+
+  - title: "No olho do furacão"
+    subtitle: "as permanências do moderno no entorno do prédio do Ministério"
+    authors:
+      - givenname: "Cêça"
+        familyname: "Guimaraens"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna"
+    subtitle: "(con)tradições e (inov)ações"
+    authors:
+      - givenname: "Elisabete"
+        familyname: "Rodrigues dos Reis"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "O tombo da praça?"
+    authors:
+      - givenname: "Marcos Leite"
+        familyname: "Almeida"
+    pages: "1-6"
+    locale: "pt-BR"
+
+  - title: "Localismo crítico e cosmopolitismo arquitetônico"
+    subtitle: "Mário de Andrade e a informação moderna de Arquitetura (1925-1929)"
+    authors:
+      - givenname: "José Tavares"
+        familyname: "Correia de Lira"
+    pages: "1-29"
+    locale: "pt-BR"
+
+  - title: "Modernidade, Modernismo e modernização"
+    subtitle: "as fábricas modernas da Via Anchieta"
+    authors:
+      - givenname: "Miguel Antônio"
+        familyname: "Buzzar"
+      - givenname: "Lucia Noemia"
+        familyname: "Simoni"
+    pages: "1-5"
+    locale: "pt-BR"
+
+  - title: "Os impasses da Arquitetura paulista recente"
+    authors:
+      - givenname: "Luiz"
+        familyname: "Recamán"
+    pages: "1-14"
+    locale: "pt-BR"
+
+  - title: "O pórtico clássico como terminal aéreo"
+    subtitle: "o projeto dos Irmãos Roberto para o aeroporto Santos Dumont"
+    authors:
+      - givenname: "Cláudio"
+        familyname: "Calovi Pereira"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "O Modernismo e o núcleo fabril"
+    subtitle: "o plano da cidade operária da F.N.M. de Attílio Correia Lima"
+    authors:
+      - givenname: "Telma"
+        familyname: "de Barros Correia"
+    pages: "1-12"
+    locale: "pt-BR"
+
+  - title: "Os princípios modernos aplicados à Arquitetura"
+    subtitle: "um estudo das escolas paulistanas nas décadas de 40, 50 e 60"
+    authors:
+      - givenname: "Ana Gabriela"
+        familyname: "Godinho Lima"
+    pages: "1-8"
+    locale: "pt-BR"
+
+  - title: "Edifício Esther"
+    subtitle: "impactos dolosos de seu tombamento"
+    authors:
+      - givenname: "Fernando"
+        familyname: "Atique"
+    pages: "1-9"
+    locale: "pt-BR"
+
+  - title: "Cidade Operária de Monlevade"
+    subtitle: "novos conceitos de morar"
+    authors:
+      - givenname: "Fábio José"
+        familyname: "Martins de Lima"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "Preservação da Arquitetura dos primeiros modernos em Curitiba"
+    subtitle: "experiência de legislação de preservação de bens culturais modernos"
+    authors:
+      - givenname: "Luís Salvador"
+        familyname: "Gnoato"
+    pages: "1-8"
+    locale: "pt-BR"
+
+  - title: "Estilo ou causa? Como, quando e onde?"
+    subtitle: "os conceitos e limites da historiografia nacional sobre o movimento moderno"
+    authors:
+      - givenname: "Sônia"
+        familyname: "Marques"
+      - givenname: "Guilah"
+        familyname: "Naslavsky"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "O Setor Sul em Goiânia"
+    subtitle: "o espaço público abandonado"
+    authors:
+      - givenname: "Juliana"
+        familyname: "Costa Mota"
+    pages: "1-13"
+    locale: "pt-BR"
+
+  - title: "A modernidade na Arquitetura contemporânea brasileira"
+    subtitle: "repercussões do grupo mineiro"
+    authors:
+      - givenname: "Raquel Dias"
+        familyname: "Vieira Braga"
+    pages: "1-11"
+    locale: "pt-BR"
+
+  - title: "Reconhecimento e preservação da Arquitetura Art-Déco no Estado de São Paulo"
+    authors:
+      - givenname: "Vitor José"
+        familyname: "Baptista Campos"
+    pages: "1-6"
+    locale: "pt-BR"
+
+  - title: "Palácio Gustavo Capanema"
+    subtitle: "processo de restauração e revitalização"
+    authors:
+      - givenname: "Paulo Eduardo"
+        familyname: "Vidal Leite Ribeiro"
+    pages: "1-11"
+    locale: "pt-BR"

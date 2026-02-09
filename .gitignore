@@ -1,0 +1,38 @@
+# Binários e arquivos grandes
+*.pdf
+*.docx
+*.doc
+*.odt
+*.ppt
+*.rar
+*.zip
+
+# Imagens
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+*.svg
+
+# XMLs de importação (gerados)
+**/xml_lotes/
+
+# Python cache e venvs
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Credenciais
+*.pem
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Fontes originais (pesados)
+fontes/

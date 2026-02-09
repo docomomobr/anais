@@ -1,0 +1,25 @@
+# Artigo faltante do 15º Seminário Docomomo Brasil - São Carlos/São Paulo (2023)
+# Para adicionar ao OJS em publicacoes.docomomobrasil.com/anais
+# Issue: sdbr15
+
+articles:
+  - title: "Discípulo de uma escola?"
+    subtitle: "Alexandre Maçães e os edifícios residenciais unifamiliares à luz da LUOS 1983 na cidade do Recife-PE"
+    authors:
+      - givenname: "Liliana"
+        familyname: "Adrião"
+        email: "liliana.adriao@ufpe.br"
+        affiliation: "Universidade Federal de Pernambuco - UFPE"
+        primary_contact: true
+      - givenname: "Arthur"
+        familyname: "Monte"
+        email: "arthurcandman@gmail.com"
+        affiliation: "Faculdade de Ciências Humanas - ESUDA"
+        primary_contact: false
+      - givenname: "Giovanna"
+        familyname: "Numeriano"
+        email: "gi.numeriano@gmail.com"
+        affiliation: "Faculdade de Ciências Humanas - ESUDA"
+        primary_contact: false
+    file: "alexandre_macaes.pdf"
+    locale: "pt-BR"

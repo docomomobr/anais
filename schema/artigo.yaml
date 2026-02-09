@@ -1,0 +1,236 @@
+# Schema de Artigo - Anais Docomomo Brasil
+# Versão: 1.0
+# Data: 2026-02-03
+#
+# Este schema define a estrutura completa de um artigo dos anais,
+# compatível com OJS Native XML e momopedia_br.
+#
+# Campos obrigatórios: id, seminario, titulo, autores, locale
+# Campos recomendados: resumo, palavras_chave, texto
+#
+# Convenções:
+# - Nomes de campos em português (sem acento): titulo, resumo, etc.
+# - Valores textuais em UTF-8 com acentos
+# - Datas em formato ISO: YYYY-MM-DD
+# - Locale em formato BCP-47: pt-BR, en-US, es-ES
+
+# ============================================================================
+# IDENTIFICAÇÃO
+# ============================================================================
+
+id: sdbr15-001                    # ID único: sdbr{NN}-{NNN}
+seminario: sdbr15                 # Slug do seminário (referência ao issue)
+ojs_id: "692"                     # ID no OJS (article_id), se disponível
+
+# ============================================================================
+# METADADOS BIBLIOGRÁFICOS
+# ============================================================================
+
+titulo: "Arquiteturas de Assistência Pública e Saúde em Salvador durante o Período Vargas (1930-1945)"
+subtitulo: null                   # Subtítulo separado (após primeiro ":")
+locale: pt-BR                     # Idioma principal do artigo
+
+# Títulos em outros idiomas (opcional)
+titulo_en: "Architectures of public assistance and health in Salvador during the Vargas period (1930-1945)"
+titulo_es: "Arquitecturas de asistencia pública y salud en Salvador durante la Era Vargas (1930-1945)"
+
+secao: "Artigos Completos"        # Seção do seminário (session_ref no OJS)
+paginas: "1-15"                   # Intervalo de páginas no anais
+
+# ============================================================================
+# AUTORES
+# ============================================================================
+# Lista estruturada de autores com todos os campos do OJS
+# O primeiro autor é o contato principal (primary_contact: true)
+
+autores:
+  - givenname: "Ana Carolina"
+    familyname: "de Souza Bierrenbach"
+    email: "acbierrenbach@gmail.com"
+    affiliation: "FAUFBA / PPGAU-UFBA"
+    country: BR
+    orcid: null                   # Formato: 0000-0000-0000-0000
+    bio: "Doutora em Projetos Arquitetônicos pela ETSAB-UPC. Professora Associada IV da FAUFBA e PPGAU-UFBA."
+    primary_contact: true
+
+  # Exemplo com múltiplos autores:
+  # - givenname: "João"
+  #   familyname: "Silva"
+  #   email: "joao@exemplo.com"
+  #   affiliation: "Departamento de Arquitetura, UFMG"
+  #   country: BR
+  #   orcid: "0000-0001-2345-6789"
+  #   bio: "Mestrando em Arquitetura pela UFMG"
+  #   primary_contact: false
+
+# ============================================================================
+# RESUMOS
+# ============================================================================
+
+resumo: |
+  Durante o governo Vargas (1930-1945) é instalada uma rede de equipamentos
+  de assistência pública e de saúde em Salvador. Ao se constatar a existência
+  dessa rede, questiona-se por quem, como, com quais intenções e com quais
+  características arquitetônicas foi instituída. Uma vez que se nota que o
+  Estado tem um papel fundamental para a sua realização, realiza-se uma
+  leitura que parte da apresentação das suas estruturas políticas, das
+  diretrizes existentes, das intenções dos seus promotores e as relaciona
+  com as características arquitetônicas da rede soteropolitana.
+
+resumo_en: |
+  During the Vargas administration (1930-1945), a network of public assistance
+  and health care facilities was installed in Salvador. Once the existence of
+  this network is verified, the article questions by whom, how, with what
+  intentions and with what architectural characteristics it was instituted.
+
+resumo_es: |
+  Durante la administración Vargas (1930-1945) se instaló una red de equipos
+  de asistencia pública y salud en Salvador. Una vez que se verifica la
+  existencia de esta red, se cuestiona por quién, cómo, con qué intenciones
+  y con qué características arquitectónicas se instituyó.
+
+# ============================================================================
+# PALAVRAS-CHAVE
+# ============================================================================
+
+palavras_chave:
+  - Era Vargas
+  - Políticas estatais
+  - Arquitetura moderna
+
+palavras_chave_en:
+  - Vargas Administration
+  - State Policies
+  - Modern Architecture
+
+palavras_chave_es:
+  - Administración Vargas
+  - Políticas públicas
+  - Arquitectura Moderna
+
+# ============================================================================
+# TEXTO COMPLETO
+# ============================================================================
+# O texto integral do artigo, extraído do PDF.
+# Preserva estrutura: títulos de seção em linhas separadas, parágrafos vazios.
+# Imagens são referenciadas por placeholder: [IMAGEM: img-005-006.jpg]
+
+texto: |
+  ARQUITETURAS DE ASSISTÊNCIA PÚBLICA E SAÚDE EM SALVADOR
+  DURANTE O PERÍODO VARGAS (1930-1945)
+
+  Em uma crônica denominada Um sonho russo, Assis Chateaubriand relata com
+  entusiasmo a existência de uma rede de equipamentos públicos em Salvador
+  durante o primeiro período Vargas (1930-1945), comparando-a com realizações
+  "russas":
+
+  [CITAÇÃO]
+  [imaginem] tudo aquilo que vemos nas revistas, folhetos e [álbuns] da
+  propaganda [soviética]: escolas, maternidades, abrigos, 'pouponnieres',
+  creches, e [colônias] de férias, traduzindo o esforço permanente do Estado
+  no amparo e defesa da criança...
+  (CHATEAUBRIAND, 1936, p.02)
+  [/CITAÇÃO]
+
+  [IMAGEM: img-005-006.jpg]
+
+  De fato, nota-se que é instalada uma rede de equipamentos de assistência
+  pública e de saúde na cidade. O presente texto questiona por quem, como,
+  com quais intenções e com quais características arquitetônicas foi
+  realizada tal rede.
+
+  [...]
+
+# ============================================================================
+# REFERÊNCIAS BIBLIOGRÁFICAS
+# ============================================================================
+# Lista de referências citadas no artigo (extraídas da seção final do PDF)
+
+referencias:
+  - "CHATEAUBRIAND, Assis. Um sonho russo. O Jornal, Rio de Janeiro, p.02, 05 jan. 1936."
+  - "FAUSTO, Boris. A Revolução de 1930. São Paulo: Brasiliense, 1972."
+  - "FONSECA, Cristina. Saúde no Governo Vargas (1930-1945). Rio de Janeiro: Fiocruz, 2007."
+  - "SEGAWA, Hugo M. Arquitetura na Era Vargas: o avesso da unidade pretendida. In: PESSÔA, J. et al. Moderno e Nacional. Niterói: EDUFF, 2006, p.83-101."
+  # ... (lista completa)
+
+# ============================================================================
+# IMAGENS
+# ============================================================================
+# Imagens extraídas do PDF com metadados
+
+imagens:
+  - arquivo: "img-001-000.jpg"    # Nome do arquivo extraído
+    pagina: 1                     # Página do PDF
+    largura: 648                  # Pixels
+    altura: 209
+    legenda: null                 # Legenda extraída (se disponível)
+    credito: null                 # Crédito/fonte (se disponível)
+    descricao: null               # Descrição manual (curadoria)
+    uso_aprovado: false           # Aprovado para uso em verbetes
+
+  - arquivo: "img-005-006.jpg"
+    pagina: 5
+    largura: 800
+    altura: 600
+    legenda: "Hospital Santa Terezinha, Salvador, década de 1940"
+    credito: "Acervo Diário de Notícias"
+    descricao: "Fachada principal do hospital após inauguração"
+    uso_aprovado: true
+
+# ============================================================================
+# ARQUIVOS
+# ============================================================================
+# PDFs e outros arquivos associados ao artigo
+
+arquivos:
+  pdf:
+    url: "https://publicacoes.docomomobrasil.com/anais/article/download/692/599"
+    nome: "sdbr15-001.pdf"        # Nome local normalizado
+    tamanho: 2456789              # Bytes
+    hash_sha256: null             # Para verificação de integridade
+
+  texto_extraido: "data/textos/sdbr15-001.txt"
+  imagens_dir: "data/imagens-artigos/sdbr15-001/"
+
+# ============================================================================
+# URLs E IDENTIFICADORES
+# ============================================================================
+
+url: "https://publicacoes.docomomobrasil.com/anais/article/view/692"
+doi: null                         # DOI do artigo (se disponível)
+
+# ============================================================================
+# METADADOS DE PROCESSAMENTO
+# ============================================================================
+# Campos internos para controle do pipeline
+
+status: extracted                 # pending | fetched | extracted | analyzed | reviewed
+data_criacao: 2026-01-14
+data_atualizacao: 2026-02-03
+
+# Flags de qualidade
+flags:
+  titulo_revisado: true           # Título verificado manualmente
+  autores_completos: true         # Todos os campos de autor preenchidos
+  resumo_disponivel: true
+  texto_extraido: true
+  referencias_parseadas: true
+  imagens_extraidas: true
+
+# ============================================================================
+# ENTIDADES RELACIONADAS (momopedia)
+# ============================================================================
+# Preenchido durante análise para a momopedia
+
+entidades:
+  estuda: []                      # Entidades que o artigo ESTUDA (tema central)
+  menciona: []                    # Entidades apenas MENCIONADAS
+
+# Exemplo preenchido:
+# entidades:
+#   estuda:
+#     - niemeyer-oscar
+#     - palacio-alvorada
+#   menciona:
+#     - lucio-costa
+#     - brazil-builds

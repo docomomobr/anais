@@ -1,0 +1,722 @@
+# 4º Seminário Docomomo Brasil - Viçosa (2001)
+# Espelho dos metadados publicados no OJS
+# Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr04
+
+issue:
+  slug: sdbr04
+  title: "4º Seminário Docomomo Brasil"
+  subtitle: "A Arquitetura moderna brasileira e os processos regionais de industrialização"
+  description: "Anais do 4º Seminário Docomomo Brasil. Viçosa: UFV."
+  year: 2001
+  volume: 1
+  number: 4
+  date_published: 2001-01-01
+  isbn: null
+  editors:
+    - "Maria Marta Camisassa"
+  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr04"
+
+articles:
+  # SUBTEMA 1 – Engajamento das Artes Plásticas na Modernização da Arquitetura
+  - title: "Williams – Costa"
+    subtitle: "Arquitetura, técnica e natureza"
+    authors:
+      - givenname: "Maria Martina"
+        familyname: "Acosta"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Entre a cor e o esmalte"
+    subtitle: "sobre a azulejaria moderna em Pernambuco"
+    authors:
+      - givenname: "Luiz"
+        familyname: "Amorim"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Ainda modernos?"
+    subtitle: "arquiteto Gustavo Penna e sua modernidade"
+    authors:
+      - givenname: "Raquel Dias"
+        familyname: "Vieira Braga"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Unilabor e a Capela Cristo Operário"
+    authors:
+      - givenname: "Mauro"
+        familyname: "Claro"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura moderna em São Paulo e o diálogo com o concretismo"
+    authors:
+      - givenname: "Fernanda"
+        familyname: "Fernandes"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Residência Rivadávia de Mendonça"
+    authors:
+      - givenname: "Cristiane Souza"
+        familyname: "Gonçalves"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Francisco Bolonha, modernidade insigne"
+    authors:
+      - givenname: "Oigres Leici"
+        familyname: "Cordeiro de Macedo"
+      - givenname: "Hugo"
+        familyname: "Segawa"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A comunhão entre as Artes Plásticas e a moderna Arquitetura religiosa brasileira"
+    authors:
+      - givenname: "Fábio"
+        familyname: "Müller"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Os salões, a Escola e as obras"
+    authors:
+      - givenname: "Guilah"
+        familyname: "Naslavsky"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "As vanguardas artísticas e a Arquitetura paulista nos anos 50/60"
+    authors:
+      - givenname: "Ricardo"
+        familyname: "Rocha"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A estratégia de Lina Bo Bardi"
+    authors:
+      - givenname: "Eduardo Pierrotti"
+        familyname: "Rossetti"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A representação pictórica do trabalhador brasileiro em obras da Arquitetura moderna brasileira"
+    authors:
+      - givenname: "Fábio Lopes"
+        familyname: "de Souza Santos"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A expressão artística moderna de caráter público na Arquitetura e no espaço urbano de São Paulo"
+    authors:
+      - givenname: "M. Eleonora"
+        familyname: "Ulian de Paula Simões"
+      - givenname: "Roberto"
+        familyname: "Righi"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A Academia de Belas Artes do Rio de Janeiro"
+    authors:
+      - givenname: "Helena Cunha"
+        familyname: "de Uzeda"
+    section: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  # SUBTEMA 2 – Novas Práticas Urbanísticas e Desenho Urbano Moderno
+  - title: "A construção da centralidade"
+    subtitle: "labirinto de galerias em Juiz de Fora"
+    authors:
+      - givenname: "José Gustavo"
+        familyname: "Francis Abdalla"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Planejamento em Urubupungá"
+    subtitle: "as vilas de Jupiá"
+    authors:
+      - givenname: "Cláudia"
+        familyname: "Gomes de Araújo"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "O Plano do Escritório Saturnino de Brito para Campo Grande-MS em 1938"
+    authors:
+      - givenname: "Ângelo Marcos"
+        familyname: "Vieira de Arruda"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A presença dos princípios do Urbanismo modernista nos projetos dos campi"
+    authors:
+      - givenname: "Marlice Nazareth"
+        familyname: "Soares de Azevedo"
+      - givenname: "Estefânia Neiva"
+        familyname: "Mello"
+      - givenname: "Danielle Barros"
+        familyname: "de Moura Benedicto"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A introdução do movimento moderno no Brasil e a ambivalência dos modelos de habitação"
+    authors:
+      - givenname: "Mary Helle"
+        familyname: "Moda Balleiras"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "W3 Sul"
+    authors:
+      - givenname: "Lucia"
+        familyname: "Borges"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A escola paulista e os bairros-jardim"
+    authors:
+      - givenname: "Candido Malta"
+        familyname: "Campos"
+      - givenname: "José Geraldo"
+        familyname: "Simões"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "O moderno marca a expansão da cidade"
+    authors:
+      - givenname: "Ozorio"
+        familyname: "Calil Júnior"
+      - givenname: "Karla"
+        familyname: "Sanches"
+      - givenname: "Luiz"
+        familyname: "Ferrarini Júnior"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Os apartamentos do Parque Guinle e a cidade moderna brasileira"
+    authors:
+      - givenname: "Carlos Eduardo"
+        familyname: "Comas"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Radburn na Natal dos anos 30"
+    authors:
+      - givenname: "Ana Caroline"
+        familyname: "Dantas"
+      - givenname: "Angela L."
+        familyname: "de A. Ferreira"
+      - givenname: "Anna Rachel"
+        familyname: "Baracho Eduardo"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Urbanismo modernista no Brasil"
+    subtitle: "revisitando suas articulações internacionais"
+    authors:
+      - givenname: "Marco Aurélio A."
+        familyname: "de Filgueiras Gomes"
+      - givenname: "Fábio José"
+        familyname: "Martins de Lima"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A modernidade da obra de Roberto Burle Marx"
+    authors:
+      - givenname: "Maria Eliza A."
+        familyname: "Guerra"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Vanguarda, utopia e realidade nos complexos industriais da Bahia moderna"
+    authors:
+      - givenname: "Alejandra"
+        familyname: "Hernández Muñoz"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "O Departamento de Habitação Popular da Prefeitura do Distrito Federal"
+    authors:
+      - givenname: "Flávia"
+        familyname: "Brito do Nascimento"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Os arranha-céus de Belo Horizonte e a metrópole moderna"
+    authors:
+      - givenname: "Juliana"
+        familyname: "Cardoso Nery"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Urbanismo moderno no Brasil dos anos 20"
+    authors:
+      - givenname: "Luiz Mauro"
+        familyname: "do Carmo Passos"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Formas urbanas"
+    subtitle: "referências históricas no projeto de Le Corbusier"
+    authors:
+      - givenname: "Eloísa Petti"
+        familyname: "Pinheiro"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "O Urbanismo modernista na cidade do Rio de Janeiro"
+    authors:
+      - givenname: "Vera F."
+        familyname: "Rezende"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "As propostas modernas ligadas à habitação de interesse social"
+    authors:
+      - givenname: "Lizete Maria"
+        familyname: "Rubano"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Mutações, fluxos e metáforas de um ícone urbano"
+    authors:
+      - givenname: "Roberto"
+        familyname: "Segre"
+      - givenname: "José"
+        familyname: "Barki"
+      - givenname: "Andréa"
+        familyname: "Borde"
+      - givenname: "Jose"
+        familyname: "Kós"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "O espaço universitário e o movimento moderno de Arquitetura"
+    authors:
+      - givenname: "Lélia"
+        familyname: "Mendes de Vasconcellos"
+    section: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  # SUBTEMA 3 – Industrialização Brasileira e Novas Técnicas Construtivas
+  - title: "Arquitetura e sociedade em São Paulo 1956-1968"
+    authors:
+      - givenname: "André Augusto"
+        familyname: "de Almeida Alves"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Mil e uma utilidades"
+    subtitle: "a fábrica da Bombril em Pernambuco"
+    authors:
+      - givenname: "Izabel Fraga"
+        familyname: "do Amaral"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Arquitetura paraibana modernista, sim senhor"
+    authors:
+      - givenname: "Maria Helena"
+        familyname: "de Andrade Azevedo"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Rodrigo Lefèvre, Arquitetura, técnica e historiografia"
+    authors:
+      - givenname: "Miguel Antonio"
+        familyname: "Buzzar"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Uma breve avaliação do início das relações da indústria e da Arquitetura moderna no Brasil"
+    authors:
+      - givenname: "Mônica Junqueira"
+        familyname: "de Camargo"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A modernidade arquitetônica das vilas operárias em Cataguases"
+    authors:
+      - givenname: "Maria Marta"
+        familyname: "dos Santos Camisassa"
+      - givenname: "Marcione"
+        familyname: "Carletto"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Salvador e o moderno não-industrial"
+    authors:
+      - givenname: "Márcio"
+        familyname: "Correia Campos"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "O espaço da produção industrial na obra de Elifas Lopes Martins em Uberlândia"
+    authors:
+      - givenname: "Maria Beatriz"
+        familyname: "Camargo Cappello"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A Casa São Luiz para a Velhice, 1935"
+    authors:
+      - givenname: "Ana Lúcia"
+        familyname: "Cerávolo"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Carlos Lack, um pioneiro da moderna Arquitetura no interior de São Paulo"
+    authors:
+      - givenname: "Mauro"
+        familyname: "Ferreira"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "O Instituto de Pesquisas Tecnológicas de São Paulo e a moderna construção em concreto"
+    authors:
+      - givenname: "Maria Lúcia"
+        familyname: "Caira Gitahy"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A incorporação do brise-soleil à Arquitetura brasileira"
+    authors:
+      - givenname: "Gogliardo"
+        familyname: "Vieira Maragno"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Arquitetura residencial moderna potiguar"
+    authors:
+      - givenname: "Alexandra Consulin"
+        familyname: "Seabra de Melo"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Arquitetura verticalizada em São Paulo"
+    subtitle: "a contribuição pioneira de Rino Levi"
+    authors:
+      - givenname: "Maria Lúcia"
+        familyname: "Bressan Pinheiro"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Modernidade invisível"
+    subtitle: "o racionalismo sem forma da Companhia Construtora de Santos"
+    authors:
+      - givenname: "Hugo"
+        familyname: "Segawa"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Industrialização das construções na obra de Artigas e Cascaldi"
+    authors:
+      - givenname: "Alexandre"
+        familyname: "Rodrigues Seixas"
+      - givenname: "Carlos Alberto"
+        familyname: "Ferreira Martins"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A pré-fabricação na Arquitetura moderna em Pernambuco"
+    authors:
+      - givenname: "Geraldo"
+        familyname: "Gomes da Silva"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Arquitetura da razão e da técnica"
+    authors:
+      - givenname: "Francisco Sales"
+        familyname: "Trajano Filho"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Estática, ética e estética na Arquitetura paulista brutalista"
+    authors:
+      - givenname: "Ruth Verde"
+        familyname: "Zein"
+    section: "Industrialização Brasileira e Novas Técnicas Construtivas"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  # SUBTEMA 4 – Uma Forma Moderna de Uso dos Espaços
+  - title: "Flexibilidade espacial"
+    subtitle: "do princípio ao mito"
+    authors:
+      - givenname: "Luiz"
+        familyname: "Amorim"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Espaço como projeto social"
+    subtitle: "a qualificação dos espaços nas residências projetadas por Vilanova Artigas"
+    authors:
+      - givenname: "Paulo César"
+        familyname: "Castral"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "O Departamento de Habitação Popular do Distrito Federal 1946/1960"
+    authors:
+      - givenname: "Marcos"
+        familyname: "de Oliveira Costa"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna em Manguinhos"
+    subtitle: "memória e preservação"
+    authors:
+      - givenname: "Renato"
+        familyname: "da Gama-Rosa Costa"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A aliança entre modernidade e tradição no desenho do Park Hotel de Friburgo"
+    authors:
+      - givenname: "Cristovão"
+        familyname: "Fernandes Duarte"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A curva do começo"
+    subtitle: "considerações sobre o Pavilhão Brasileiro na Feira de Nova Iorque (1939)"
+    authors:
+      - givenname: "Carlos Eduardo"
+        familyname: "Feferman"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura moderna em Bauru"
+    subtitle: "um projeto de Zenon Lotufo"
+    authors:
+      - givenname: "Rosio Fernández"
+        familyname: "Baca Salcedo"
+      - givenname: "Nilson"
+        familyname: "Ghirardello"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Meu quarto, meu mundo"
+    subtitle: "espaço doméstico na alvorada do terceiro milênio"
+    authors:
+      - givenname: "Franciney"
+        familyname: "Carreiro de França"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Edifício fabril dos anos 50 em São Paulo"
+    subtitle: "preservação e novos usos"
+    authors:
+      - givenname: "Arlete Maria"
+        familyname: "Francisco"
+      - givenname: "Carlos Alberto"
+        familyname: "Ferreira Martins"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Parque Guinle"
+    subtitle: "considerações de uma proposta de restauração"
+    authors:
+      - givenname: "Jorge Eduardo"
+        familyname: "Hue"
+      - givenname: "Flávia"
+        familyname: "Brito do Nascimento"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Produção versus reprodução"
+    subtitle: "dois pesos e duas medidas da Arquitetura moderna brasileira"
+    authors:
+      - givenname: "Fernando L. C."
+        familyname: "Lara"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Cria-se e projeta-se um Museu"
+    subtitle: "dois espaços arquitetônicos para o MAM baiano"
+    authors:
+      - givenname: "Luiz Carlos"
+        familyname: "de Laurentiz"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna nos trópicos"
+    subtitle: "exemplos em Pernambuco"
+    authors:
+      - givenname: "Daniele"
+        familyname: "Abreu e Lima"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Sistematização do banco de dados da produção arquitetônica em Uberlândia"
+    authors:
+      - givenname: "Cíntia Maria"
+        familyname: "Lopes"
+      - givenname: "Greiceana"
+        familyname: "Marques Dias de Morais"
+      - givenname: "Patrícia Pimenta"
+        familyname: "Azevedo Ribeiro"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Por uma Arquitetura social"
+    subtitle: "a influência de Richard Neutra em prédios escolares no Brasil"
+    authors:
+      - givenname: "Claudia"
+        familyname: "Loureiro"
+      - givenname: "Luiz"
+        familyname: "Amorim"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Dois projetos, dois arquitetos, duas palavras"
+    authors:
+      - givenname: "Paulo Roberto"
+        familyname: "Masseran"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Quando os ares modernos chegam à esplanada"
+    subtitle: "o IPASE e a Vila Ferroviária em Natal-RN"
+    authors:
+      - givenname: "Valério Augusto"
+        familyname: "Soares de Medeiros"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Transformações do espaço habitacional"
+    subtitle: "casos da sua assimilação pelo programa unifamiliar"
+    authors:
+      - givenname: "Ana Cristina"
+        familyname: "Fernandes Vaz Milheiro"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "Algumas questões sobre o espaço residencial brasileiro e a Arquitetura moderna nos anos 50"
+    authors:
+      - givenname: "Alexandre"
+        familyname: "Penedo"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "O desenho do espaço moderno"
+    subtitle: "a Arquitetura de Oscar Niemeyer"
+    authors:
+      - givenname: "Rodrigo"
+        familyname: "Queiroz"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A evolução do espaço de habitar moderno brasileiro"
+    authors:
+      - givenname: "Tânia Liani"
+        familyname: "Beisl Ramos"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Palácio Gustavo Capanema"
+    subtitle: "a revitalização do palácio moderno"
+    authors:
+      - givenname: "Paulo Eduardo"
+        familyname: "Vidal Leite Ribeiro"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "Um modelo para habitar ou habitar um modelo?"
+    authors:
+      - givenname: "Helga"
+        familyname: "Santos Da Silva"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-3"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura residencial de João Jorge Coury em Uberlândia"
+    authors:
+      - givenname: "Patricia Pimenta"
+        familyname: "Azevedo Ribeiro"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"
+
+  - title: "O alvo do olhar estrangeiro"
+    authors:
+      - givenname: "Nelci"
+        familyname: "Tinem"
+    section: "Uma Forma Moderna de Uso dos Espaços"
+    pages: "1-2"
+    locale: "pt-BR"

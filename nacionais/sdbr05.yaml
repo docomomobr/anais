@@ -1,0 +1,418 @@
+# 5º Seminário Docomomo Brasil - São Carlos (2003)
+# Espelho dos metadados publicados no OJS
+# Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr05
+
+issue:
+  slug: sdbr05
+  title: "5º Seminário Docomomo Brasil"
+  subtitle: "Arquitetura e Urbanismo modernos: projeto e preservação"
+  year: 2003
+  date_published: 2003-01-01
+  isbn: "85-85205-43-1"
+  editors:
+    - "Hugo Segawa"
+  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr05"
+
+articles:
+  - title: "Um percurso na obra do arquiteto Fernando Ferreira Pinho"
+    authors:
+      - givenname: "Adalberto"
+        familyname: "da Silva Retto Júnior"
+    locale: "pt-BR"
+
+  - title: "Uma visão sobre alojamentos universitários no Brasil"
+    authors:
+      - givenname: "Adalberto José"
+        familyname: "Vilela Júnior"
+    locale: "pt-BR"
+
+  - title: "Brasília superquadras residenciais"
+    authors:
+      - givenname: "Alex Carvalho"
+        familyname: "Brino"
+    locale: "pt-BR"
+
+  - title: "A obra de Giancarlo Palanti no Brasil"
+    authors:
+      - givenname: "Aline Coelho"
+        familyname: "Sanches"
+    locale: "pt-BR"
+
+  - title: "Entre o racional e pitoresco"
+    authors:
+      - givenname: "Amanda Cristina"
+        familyname: "Franco"
+    locale: "pt-BR"
+
+  - title: "Os restauros de Lina Bo Bardi"
+    authors:
+      - givenname: "Ana Carolina"
+        familyname: "de Souza Bierrenbach"
+    locale: "pt-BR"
+
+  - title: "O jardim moderno de Burle Marx"
+    authors:
+      - givenname: "Ana Rita"
+        familyname: "Sá Carneiro"
+      - givenname: "Aline"
+        familyname: "de Figueirôa Silva"
+      - givenname: "Pricylla Amorim"
+        familyname: "Girão"
+    locale: "pt-BR"
+
+  - title: "CBI-Esplanada"
+    subtitle: "memória e futuro de um edifício moderno em São Paulo"
+    authors:
+      - givenname: "Anat"
+        familyname: "Falbel"
+      - givenname: "Celso Eduardo"
+        familyname: "Ohno"
+    locale: "pt-BR"
+
+  - title: "Reproduzindo modelos"
+    authors:
+      - givenname: "Andrey Rosenthal"
+        familyname: "Schlee"
+    locale: "pt-BR"
+
+  - title: "A popularização dos elementos da casa moderna em Campo Grande"
+    authors:
+      - givenname: "Ângelo Marcos Vieira"
+        familyname: "de Arruda"
+    locale: "pt-BR"
+
+  - title: "Acervos Azevedo Moura & Gertum e João Alberto Fonseca da Silva"
+    authors:
+      - givenname: "Anna Paula Moura"
+        familyname: "Canez"
+      - givenname: "Eline Maria Moura Pereira"
+        familyname: "Caixeta"
+      - givenname: "Margot Inês Villas Boas"
+        familyname: "Caruccio"
+      - givenname: "Raquel Rodrigues"
+        familyname: "Lima"
+      - givenname: "Viviane Villas Boas"
+        familyname: "Maglia"
+    locale: "pt-BR"
+
+  - title: "As pioneiras escolas modernas do SENAI"
+    authors:
+      - givenname: "Artemis Rodrigues Fontana"
+        familyname: "Ferraz"
+    locale: "pt-BR"
+
+  - title: "Aperfeiçoamento tipológico, referência contextual e Arquitetura Moderna"
+    authors:
+      - givenname: "Carlos Eduardo Dias"
+        familyname: "Comas"
+      - givenname: "Anna Paula"
+        familyname: "Canez"
+      - givenname: "Glenio Vianna"
+        familyname: "Bohrer"
+    locale: "pt-BR"
+
+  - title: "Preservando o patrimônio da Vila Operária do Saco dos Limões"
+    authors:
+      - givenname: "Carolina Palermo"
+        familyname: "Szücs"
+      - givenname: "Luciana Monte Alegre"
+        familyname: "Trivella"
+      - givenname: "Marina Ester Fialho"
+        familyname: "de Souza"
+    locale: "pt-BR"
+
+  - title: "Tipologias arquitetônicas de estruturas espaciais em Brasília"
+    authors:
+      - givenname: "Cláudia Estrela"
+        familyname: "Porto"
+    locale: "pt-BR"
+
+  - title: "Oscar Niemeyer e o mercado imobiliário de São Paulo na década de 1950"
+    authors:
+      - givenname: "Daniela Viana"
+        familyname: "Leal"
+    locale: "pt-BR"
+
+  - title: "Tensão Moderno/Popular em Lina Bo Bardi"
+    authors:
+      - givenname: "Eduardo Pierrotti"
+        familyname: "Rossetti"
+    locale: "pt-BR"
+
+  - title: "O Parque do Ibirapuera"
+    authors:
+      - givenname: "Fabiano Lemes"
+        familyname: "de Oliveira"
+    locale: "pt-BR"
+
+  - title: "O edifício residencial e a Arquitetura brasileira (1945/55)"
+    authors:
+      - givenname: "Fernanda Jung"
+        familyname: "Drebes"
+    locale: "pt-BR"
+
+  - title: "Brasília da Carta de Atenas à cidade de muros"
+    authors:
+      - givenname: "Frederico Rosa Borges"
+        familyname: "de Holanda"
+    locale: "pt-BR"
+
+  - title: "Arquitetura Moderna em Pernambuco entre 1945-1970"
+    authors:
+      - givenname: "Guilah"
+        familyname: "Naslavsky"
+    locale: "pt-BR"
+
+  - title: "Identidade nacional ou regional?"
+    authors:
+      - givenname: "Guilah"
+        familyname: "Naslavsky"
+      - givenname: "Izabel"
+        familyname: "Amaral"
+    locale: "pt-BR"
+
+  - title: "Pelos salões das Bienais e pelas ruas do Brasil"
+    authors:
+      - givenname: "Helio Luiz"
+        familyname: "Herbst Junior"
+    locale: "pt-BR"
+
+  - title: "A produção de painéis em mosaico no período pós-guerra em São Paulo"
+    authors:
+      - givenname: "Isabel Ruas Pereira"
+        familyname: "Coelho"
+    locale: "pt-BR"
+
+  - title: "A casa bandeirista de Luiz Saia no IV Centenário de São Paulo"
+    authors:
+      - givenname: "João Clark A."
+        familyname: "Sodré"
+    locale: "pt-BR"
+
+  - title: "Brasília e o tombamento de uma idéia"
+    authors:
+      - givenname: "José Simões"
+        familyname: "de Belmont Pessôa"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura Moderna e o Sesquicentenário de Emancipação Política do Paraná"
+    authors:
+      - givenname: "Josilena Maria Zanello"
+        familyname: "Gonçalves"
+    locale: "pt-BR"
+
+  - title: "Proposta de preservação da Arquitetura Moderna em Curitiba"
+    authors:
+      - givenname: "Luís Salvador Petrucci"
+        familyname: "Gnoato"
+    locale: "pt-BR"
+
+  - title: "Registros"
+    subtitle: "as residências modernistas em Aracaju nas décadas de 50 e 60"
+    authors:
+      - givenname: "Juliana Cardoso"
+        familyname: "Nery"
+    locale: "pt-BR"
+
+  - title: "A didática dos museus de Lina Bo Bardi na Bahia"
+    authors:
+      - givenname: "Juliano Aparecido"
+        familyname: "Pereira"
+    locale: "pt-BR"
+
+  - title: "Novo Museu fundando o lugar moderno"
+    authors:
+      - givenname: "Leonardo Tossiaki"
+        familyname: "Oba"
+    locale: "pt-BR"
+
+  - title: "Modernidade ultrajada"
+    authors:
+      - givenname: "Lucia Maria Borges"
+        familyname: "de Oliveira"
+      - givenname: "Maria Amélia"
+        familyname: "de Mello Galvão"
+    locale: "pt-BR"
+
+  - title: "As casas cariocas e a Arquitetura Moderna"
+    authors:
+      - givenname: "Márcia"
+        familyname: "Heck"
+    locale: "pt-BR"
+
+  - title: "A preservação do edifício do Museu de Arte de São Paulo"
+    authors:
+      - givenname: "Marcos José"
+        familyname: "Carrilho"
+    locale: "pt-BR"
+
+  - title: "Estádios brasileiros de futebol"
+    authors:
+      - givenname: "Marcos Paulo"
+        familyname: "Cereto"
+    locale: "pt-BR"
+
+  - title: "Três edifícios de habitação para a Formaespaço"
+    authors:
+      - givenname: "Maria Isabel"
+        familyname: "Imbronito"
+    locale: "pt-BR"
+
+  - title: "Dilemas na preservação da Arquitetura Moderna"
+    authors:
+      - givenname: "Maria Lucia Bressan"
+        familyname: "Pinheiro"
+    locale: "pt-BR"
+
+  - title: "Arquitetura do sagrado em Francisco Bologna"
+    authors:
+      - givenname: "Marcia Aparecida"
+        familyname: "da Costa Poppe"
+      - givenname: "Beatriz Santos"
+        familyname: "de Oliveira"
+    locale: "pt-BR"
+
+  - title: "Expressões e vestígios modernistas na capital fluminense"
+    authors:
+      - givenname: "Marlice Nazareth Soares"
+        familyname: "de Azevedo"
+      - givenname: "Danielle"
+        familyname: "Bendicto"
+      - givenname: "Silvio"
+        familyname: "Leal Júnior"
+    locale: "pt-BR"
+
+  - title: "Casas não são ilhas"
+    authors:
+      - givenname: "Flavia Brito"
+        familyname: "do Nascimento"
+      - givenname: "Nabil"
+        familyname: "Bonduki"
+    locale: "pt-BR"
+
+  - title: "Análise tipológica da produção de habitação econômica no Brasil (1930-1964)"
+    authors:
+      - givenname: "Ana Paula"
+        familyname: "Koury"
+      - givenname: "Nabil"
+        familyname: "Bonduki"
+      - givenname: "Sálua Kairuz"
+        familyname: "Manoel"
+    locale: "pt-BR"
+
+  - title: "Reconhecimento, valor de mercado e habitabilidade da Arquitetura Moderna"
+    authors:
+      - givenname: "Naia Alban"
+        familyname: "Suarez"
+      - givenname: "Nivaldo V."
+        familyname: "de Andrade Junior"
+    locale: "pt-BR"
+
+  - title: "Marquises modernas"
+    authors:
+      - givenname: "Nilson"
+        familyname: "Ghirardello"
+    locale: "pt-BR"
+
+  - title: "\"Estilo funcional\""
+    authors:
+      - givenname: "Pasqualino Romano"
+        familyname: "Magnavita"
+    locale: "pt-BR"
+
+  - title: "A idéia de uma casa brasileira"
+    authors:
+      - givenname: "Miguel Antônio"
+        familyname: "Buzzar"
+    locale: "pt-BR"
+
+  - title: "Edifício do Pavilhão de Óbitos do Recife"
+    authors:
+      - givenname: "Paulo Raposo"
+        familyname: "Andrade"
+      - givenname: "Andréa Nascimento Dornelas"
+        familyname: "Câmara"
+      - givenname: "Luciano L."
+        familyname: "Medina"
+    locale: "pt-BR"
+
+  - title: "Presença da Arquitetura Moderna em Juiz de Fora"
+    authors:
+      - givenname: "Raquel Dias Vieira"
+        familyname: "Braga"
+      - givenname: "Fabio José Martins"
+        familyname: "de Lima"
+    locale: "pt-BR"
+
+  - title: "A restauração do Refeitório Central da Fundação Oswaldo Cruz"
+    authors:
+      - givenname: "Renato"
+        familyname: "da Gama-Rosa Costa"
+      - givenname: "Cristina"
+        familyname: "Ribeiro"
+      - givenname: "Alexandre"
+        familyname: "Pessoa"
+      - givenname: "Beatriz Naomi"
+        familyname: "Onishi"
+      - givenname: "Leonardo"
+        familyname: "de Almeida"
+    locale: "pt-BR"
+
+  - title: "Edifício Louveira"
+    authors:
+      - givenname: "René"
+        familyname: "Galesi"
+      - givenname: "Candido Malta"
+        familyname: "Campos"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura Moderna e a morte no Brasil"
+    authors:
+      - givenname: "Ricardo"
+        familyname: "de Souza Rocha"
+    locale: "pt-BR"
+
+  - title: "Desenhando uma nova cidade"
+    authors:
+      - givenname: "Rodrigo Santos"
+        familyname: "de Faria"
+    locale: "pt-BR"
+
+  - title: "Um caso exemplar"
+    subtitle: "a Garagem de Barcos do Clube Santapaula"
+    authors:
+      - givenname: "Ruth Verde"
+        familyname: "Zein"
+      - givenname: "Lêda Brandão"
+        familyname: "de Oliveira"
+    locale: "pt-BR"
+
+  - title: "Uma arquiteta, duas capitais, dois projetos de museu"
+    authors:
+      - givenname: "Silvana Barbosa"
+        familyname: "Rubino"
+    locale: "pt-BR"
+
+  - title: "Plano piloto para a Barra da Tijuca e Baixada de Jacarepaguá"
+    authors:
+      - givenname: "Vera F."
+        familyname: "Rezende"
+      - givenname: "Gerônimo"
+        familyname: "Leitão"
+    locale: "pt-BR"
+
+  - title: "A trajetória profissional do arquiteto Victor Reif"
+    authors:
+      - givenname: "Ivy Smits"
+        familyname: "Rebouças"
+      - givenname: "Roberto"
+        familyname: "Righi"
+    locale: "pt-BR"
+
+  - title: "Arquitetura Moderna no cinema pós-guerra"
+    authors:
+      - givenname: "Ana Luisa"
+        familyname: "Rolim"
+      - givenname: "Isabella Leite"
+        familyname: "Trindade"
+    locale: "pt-BR"

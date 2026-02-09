@@ -1,0 +1,116 @@
+# Schema de Seminário (Issue) - Anais Docomomo Brasil
+# Versão: 1.0
+# Data: 2026-02-03
+#
+# Este schema define a estrutura de uma edição dos anais (seminário),
+# compatível com OJS Native XML.
+
+# ============================================================================
+# IDENTIFICAÇÃO
+# ============================================================================
+
+slug: sdbr15                      # ID único: sdbr{NN} ou sdnne{NN}, sdsul{NN}, etc.
+ojs_id: null                      # ID da issue no OJS
+
+# ============================================================================
+# METADADOS BIBLIOGRÁFICOS
+# ============================================================================
+
+titulo: "15º Seminário Docomomo Brasil"
+subtitulo: "Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade"
+descricao: |
+  Recurso eletrônico. São Carlos e São Paulo: IAU e FAU — Universidade de São Paulo.
+  ISSN: (pendente). ISBN: 978-65-272-0196-0.
+
+# Dados de publicação
+ano: 2023
+volume: 1                         # Número do volume (geralmente 1)
+numero: 15                        # Número da edição (= número do seminário)
+data_publicacao: 2023-11-15       # Data de publicação (YYYY-MM-DD)
+
+# Identificadores
+isbn: "978-65-272-0196-0"
+issn: null
+doi: "10.29327/1344945"
+
+# ============================================================================
+# EVENTO
+# ============================================================================
+
+evento:
+  nome: "15º Seminário Docomomo Brasil"
+  local: "São Carlos e São Paulo"
+  instituicao: "IAU-USP e FAU-USP"
+  data_inicio: 2023-11-13
+  data_fim: 2023-11-17
+  cidade: "São Carlos"
+  estado: "SP"
+  pais: BR
+
+# ============================================================================
+# ORGANIZADORES
+# ============================================================================
+
+editores:
+  - nome: "Ivo Renato Giroto"
+    instituicao: "FAU-USP"
+    email: null
+
+organizadores:
+  - "Instituto de Arquitetura e Urbanismo da USP (IAU-USP)"
+  - "Faculdade de Arquitetura e Urbanismo da USP (FAU-USP)"
+  - "Docomomo Brasil"
+
+# ============================================================================
+# SEÇÕES
+# ============================================================================
+# Seções (tracks) do seminário, com ref para OJS
+
+secoes:
+  - ref: "artigos-completos"
+    titulo: "Artigos Completos"
+    descricao: "Artigos completos submetidos e aprovados pelo comitê científico"
+
+  - ref: "resumos-expandidos"
+    titulo: "Resumos Expandidos"
+    descricao: "Resumos expandidos de pesquisas em andamento"
+
+  - ref: "sessao-tematica"
+    titulo: "Sessão Temática"
+    descricao: "Artigos de sessões temáticas especiais"
+
+# ============================================================================
+# FONTES
+# ============================================================================
+
+fontes:
+  ojs: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr15"
+  wordpress: null                 # URL no WordPress (se houver)
+  site_evento: null               # Site original do evento
+  pdf_completo: null              # PDF dos anais completos (se houver)
+
+# ============================================================================
+# ESTATÍSTICAS
+# ============================================================================
+
+estatisticas:
+  total_artigos: 101
+  artigos_por_secao:
+    artigos-completos: 98
+    resumos-expandidos: 3
+  autores_unicos: null            # A calcular
+  instituicoes: null              # A calcular
+
+# ============================================================================
+# METADADOS DE PROCESSAMENTO
+# ============================================================================
+
+status: migrado                   # pendente | em_processamento | migrado | revisado
+data_criacao: 2026-01-14
+data_atualizacao: 2026-02-03
+
+flags:
+  artigos_indexados: true
+  pdfs_disponiveis: true
+  metadados_completos: true
+  migrado_ojs: true

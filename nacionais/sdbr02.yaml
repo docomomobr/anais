@@ -1,0 +1,208 @@
+# 2º Seminário Docomomo Brasil - Salvador (1997)
+# Espelho dos metadados publicados no OJS
+# Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02
+
+issue:
+  slug: sdbr02
+  title: "2º Seminário Docomomo Brasil"
+  subtitle: "Docomomo — Brasil: novas formulações no campo da Arquitetura e Urbanismo"
+  description: "Docomomo — Brasil: novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico]. Teresina: EDUFPI."
+  year: 1997
+  volume: 1
+  number: 2
+  date_published: 1997-01-01
+  isbn: "978-85-509-0555-6"
+  editors:
+    - "José Carlos Huapaya Espinoza"
+    - "Rômulo Marques"
+    - "Thiscianne Pessoa"
+  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02"
+
+articles:
+  - title: "Introdução ao projeto"
+    authors:
+      - givenname: "José Carlos"
+        familyname: "Huapaya Espinoza"
+      - givenname: "Rômulo"
+        familyname: "Marques"
+      - givenname: "Thiscianne"
+        familyname: "Pessoa"
+    pages: "4-12"
+    locale: "pt-BR"
+
+  - title: "O processo de digitalização dos Anais"
+    subtitle: "método, técnica e dificuldades"
+    authors:
+      - givenname: "Caio Anderson"
+        familyname: "da Silva de Almeida"
+      - givenname: "Gabriela Sales"
+        familyname: "Otremba"
+    pages: "13-19"
+    locale: "pt-BR"
+
+  - title: "Vertentes da Modernidade no Brasil"
+    authors:
+      - givenname: "Hugo"
+        familyname: "Segawa"
+    pages: "21-28"
+    locale: "pt-BR"
+
+  - title: "Paradoxos entrelaçados"
+    subtitle: "as torres para o futuro e a tradição nacional"
+    authors:
+      - givenname: "Cêça"
+        familyname: "de Guimaraens"
+    pages: "29-41"
+    locale: "pt-BR"
+
+  - title: "O Arquivo da City em São Paulo"
+    authors:
+      - givenname: "Silvia F."
+        familyname: "Santos Wolff"
+    pages: "42-51"
+    locale: "pt-BR"
+
+  - title: "Lina Bo Bardi"
+    subtitle: "a Casa Valéria Cirell e a poética do abrigo"
+    authors:
+      - givenname: "Maria de Fátima"
+        familyname: "Campello"
+    pages: "52-63"
+    locale: "pt-BR"
+
+  - title: "Arquitetura moderna em São José dos Campos"
+    authors:
+      - givenname: "Alexandre"
+        familyname: "Penedo"
+    pages: "64-74"
+    locale: "pt-BR"
+
+  - title: "Do arquiteto integral à equipe multidisciplinar"
+    authors:
+      - givenname: "Renato"
+        familyname: "Anelli"
+    pages: "75-89"
+    locale: "pt-BR"
+
+  - title: "Espaço público, habitação social e Arquitetura moderna"
+    authors:
+      - givenname: "Nabil"
+        familyname: "Bonduki"
+    pages: "90-102"
+    locale: "pt-BR"
+
+  - title: "A gestão do tempo e a organização da cidade"
+    authors:
+      - givenname: "Telma"
+        familyname: "de Barros Correia"
+    pages: "103-113"
+    locale: "pt-BR"
+
+  - title: "Inventário de Arquitetura moderna no Vale do Paraíba"
+    authors:
+      - givenname: "Alberto"
+        familyname: "Xavier"
+      - givenname: "Hugo"
+        familyname: "Segawa"
+    pages: "114-117"
+    locale: "pt-BR"
+
+  - title: "Arquitetura e metrópole"
+    authors:
+      - givenname: "Carlos Alberto"
+        familyname: "Ferreira Martins"
+    pages: "118-124"
+    locale: "pt-BR"
+
+  - title: "O fim dos CIAM e a produção arquitetônica como crítica na década de 50"
+    authors:
+      - givenname: "Ana Claudia"
+        familyname: "Castilho Barone"
+      - givenname: "Ana Lúcia"
+        familyname: "Duarte Lanna"
+    pages: "125-129"
+    locale: "pt-BR"
+
+  - title: "A estância moderna internacional"
+    authors:
+      - givenname: "José Oswaldo"
+        familyname: "Soares de Oliveira"
+    pages: "130-142"
+    locale: "pt-BR"
+
+  - title: "Arquitetura em São Paulo nos anos 50"
+    subtitle: "a síntese das artes"
+    authors:
+      - givenname: "Fernanda"
+        familyname: "Fernandes"
+    pages: "143-148"
+    locale: "pt-BR"
+
+  - title: "Artigas"
+    subtitle: "um caminho da Arquitetura brasileira"
+    authors:
+      - givenname: "Miguel"
+        familyname: "Buzzar"
+    pages: "149-159"
+    locale: "pt-BR"
+
+  - title: "Tradição e modernidade no desenho da cidade estadonovista brasileira"
+    authors:
+      - givenname: "Fernando Diniz"
+        familyname: "Moreira"
+      - givenname: "Guilah"
+        familyname: "Naslavsky"
+    pages: "160-184"
+    locale: "pt-BR"
+
+  - title: "A posição do Brasil quanto à Arquitetura contemporânea na América Latina"
+    authors:
+      - givenname: "Ana"
+        familyname: "Lima"
+    pages: "185-189"
+    locale: "pt-BR"
+
+  - title: "A Arquitetura moderna na orla santista 1930/1970"
+    authors:
+      - givenname: "Jaqueline"
+        familyname: "Fernandéz Alves"
+    pages: "190-193"
+    locale: "pt-BR"
+
+  - title: "Dilemas do centro urbano de Brasília"
+    authors:
+      - givenname: "Gunter"
+        familyname: "Kohlsdorf"
+    pages: "194-206"
+    locale: "pt-BR"
+
+  - title: "As três faces modernistas de Brasília"
+    authors:
+      - givenname: "Maria Elaine"
+        familyname: "Kohlsdorf"
+    pages: "207-217"
+    locale: "pt-BR"
+
+  - title: "A determinação negativa do movimento moderno"
+    authors:
+      - givenname: "Frederico"
+        familyname: "de Holanda"
+    pages: "218-229"
+    locale: "pt-BR"
+
+  - title: "Modernidade e tradição"
+    subtitle: "o projeto da Malagueira em Évora, Portugal"
+    authors:
+      - givenname: "Juan Antonio"
+        familyname: "Zapatel"
+    pages: "230-237"
+    locale: "pt-BR"
+
+  - title: "Intervenções contemporâneas na Arquitetura e no Urbanismo modernos"
+    authors:
+      - givenname: "Sonia"
+        familyname: "Marques"
+      - givenname: "Kátia"
+        familyname: "Vainsencher"
+    pages: "238-243"
+    locale: "pt-BR"
