@@ -1,18 +1,24 @@
 #!/usr/bin/env python3
-"""Deduplicação de autores em 3 fases.
+"""Deduplicação de autores em 5 fases.
 
 Fase 0: Enriquecer nomes usando pilotis.db (match por email).
   - Se o Pilotis tem nome mais completo, atualiza givenname/familyname.
   - Não faz merge, apenas melhora a qualidade dos dados.
 
-Fase 1: Merge por variantes (mesmo familyname, givenname é prefixo/abreviação).
+Fase 1: Merge por último sobrenome (detecta familyname mal separado).
+  - Agrupa pelo último token do familyname normalizado.
+  - Compara nome completo (givenname+familyname) concatenado.
+  - Detecta: 'Ana | Carolina Bierrenbach' vs 'Ana Carolina de Souza | Bierrenbach'.
+  - Corrige a partição (givenname/familyname) do registro mantido.
+
+Fase 2: Merge por variantes (mesmo familyname, givenname é prefixo/abreviação).
   - Automático para alta confiança (nome curto → nome longo).
   - Pula casos onde givenname curto tem ≤1 palavra (ex: "Ana Lima" — ambíguo).
 
-Fase 2: Relatório de casos ambíguos para revisão manual.
+Fase 3: Relatório de casos ambíguos para revisão manual.
 
 Uso:
-    python3 scripts/dedup_authors.py           # Executa fases 0+1, relata fase 2
+    python3 scripts/dedup_authors.py           # Executa fases 0+1+2, relata fase 3
     python3 scripts/dedup_authors.py --report  # Apenas relatório (sem alterar DB)
     python3 scripts/dedup_authors.py --dry-run # Mostra o que faria (sem alterar DB)
 """
@@ -22,10 +28,13 @@ import os
 import sys
 import re
 import unicodedata
+from collections import defaultdict
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DB_PATH = os.path.join(BASE, 'anais.db')
 PILOTIS_PATH = os.path.join(BASE, '..', 'financeiro', 'pilotis', 'dados', 'data', 'pilotis.db')
+
+PARTICLES = {'de', 'da', 'do', 'das', 'dos', 'e', 'del', 'von'}
 
 
 def strip_accents(s):
@@ -105,6 +114,61 @@ def confidence(gn_short, gn_long):
     return 'alta'
 
 
+def full_name_tokens(gn, fn):
+    """Retorna tokens normalizados do nome completo, sem partículas."""
+    full = normalize_name(f'{gn} {fn}')
+    return [t for t in full.split() if t not in PARTICLES]
+
+
+def full_name_compatible(short_tokens, long_tokens):
+    """Verifica se dois nomes completos (sem partículas) são compatíveis.
+
+    Regras:
+    - Primeiro token do curto deve casar com primeiro do longo
+      (curto pode ser abreviação do longo, mas NÃO o contrário)
+    - Último token deve ser igual (garantido pelo agrupamento)
+    - Tokens do meio do curto devem aparecer no meio do longo (em ordem)
+    """
+    if not short_tokens or not long_tokens:
+        return False
+
+    # Primeiro token: curto pode ser abreviação do longo, não o contrário
+    s0, l0 = short_tokens[0], long_tokens[0]
+    if s0 != l0:
+        if len(s0) >= 1 and l0.startswith(s0):
+            pass  # OK: curto abrevia longo (ex: "a" → "ana")
+        else:
+            return False  # Rejeita: "matheus" vs "m", "julia" vs "margarida"
+
+    # Último token deve ser igual
+    if short_tokens[-1] != long_tokens[-1]:
+        return False
+
+    # Se curto tem só 2 tokens (primeiro + último), já casou ambos
+    if len(short_tokens) <= 2:
+        return True
+
+    # Tokens do meio do curto devem aparecer no meio do longo (em ordem)
+    short_middle = short_tokens[1:-1]
+    long_middle = long_tokens[1:-1]
+    j = 0
+    for s in short_middle:
+        found = False
+        while j < len(long_middle):
+            l = long_middle[j]
+            j += 1
+            if s == l:
+                found = True
+                break
+            # Abreviação: curto abrevia longo
+            if len(s) >= 1 and l.startswith(s):
+                found = True
+                break
+        if not found:
+            return False
+    return True
+
+
 def get_author_articles(cur, author_id):
     """Retorna lista de (seminar_slug, article_title) do autor."""
     cur.execute('''
@@ -165,7 +229,7 @@ def merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_f
         cur.execute(f'UPDATE authors SET {sets} WHERE id = ?',
                     list(updates.values()) + [keep_id])
 
-    # 4. Atualizar givenname se remove é mais completo
+    # 4. Atualizar givenname/familyname se remove é mais completo
     best_gn = longer_name(keep_gn, remove_gn)
     if best_gn != keep_gn:
         cur.execute('UPDATE authors SET givenname = ? WHERE id = ?', (best_gn, keep_id))
@@ -176,6 +240,26 @@ def merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_f
 
     # 6. Deletar autor removido
     cur.execute('DELETE FROM authors WHERE id = ?', (remove_id,))
+
+
+def split_name_canonical(full_tokens_with_particles):
+    """Dada lista de tokens (com partículas), separa em (givenname, familyname).
+
+    Regra brasileira: familyname = último token (exceto sufixos).
+    Partículas ficam no givenname.
+    """
+    suffixes = {'filho', 'junior', 'neto', 'sobrinho'}
+    if not full_tokens_with_particles:
+        return '', ''
+    parts = full_tokens_with_particles
+    last = parts[-1].lower()
+    if last in suffixes and len(parts) >= 3:
+        fn = f'{parts[-2]} {parts[-1]}'
+        gn = ' '.join(parts[:-2])
+    else:
+        fn = parts[-1]
+        gn = ' '.join(parts[:-1])
+    return gn, fn
 
 
 # ─── Fase 0: Enriquecer com Pilotis ────────────────────────────
@@ -219,7 +303,6 @@ def split_pilotis_name(full_name):
 
     last = parts[-1]
     if last.lower() in suffixes and len(parts) >= 3:
-        # Ex: "Eduardo Mendes Guimarães Junior" → gn="Eduardo Mendes", fn="Guimarães Junior"
         fn = f'{parts[-2]} {parts[-1]}'
         gn = ' '.join(parts[:-2])
     else:
@@ -272,8 +355,6 @@ def phase0_enrich(cur, dry_run=False):
         fn_n = normalize_name(fn)
         pfn_n = normalize_name(p_fn)
         if fn_n != pfn_n:
-            # Familynames diferentes — pode ser nome de casada, etc.
-            # Não atualizar automaticamente, apenas reportar
             continue
 
         # Pilotis givenname é mais completo?
@@ -293,11 +374,9 @@ def phase0_enrich(cur, dry_run=False):
                 print(f'  ENRIQUECER: "{gn} {fn}" → "{best_gn} {fn}" (pilotis: {pilotis_full})')
         else:
             if existing:
-                # Nome-alvo já existe: merge aid → existing
                 merge_authors(cur, existing[0], aid, best_gn, fn, gn, fn, 'pilotis_merge')
                 print(f'  ⊕ "{gn} {fn}" (id={aid}) → merged em "{best_gn} {fn}" (id={existing[0]})')
             else:
-                # Apenas atualizar givenname
                 try:
                     cur.execute('''
                         INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source)
@@ -313,11 +392,147 @@ def phase0_enrich(cur, dry_run=False):
     return enriched
 
 
-# ─── Fase 1: Merge por variantes ────────────────────────────────
+# ─── Fase 1: Merge por último sobrenome ──────────────────────────
 
-def phase1_merge(cur, dry_run=False):
-    """Fase 1: Merge automático de variantes de nome."""
-    print('=== Fase 1: Merge de variantes de nome ===')
+def phase1_last_surname(cur, dry_run=False):
+    """Fase 1: Merge por último token do familyname.
+
+    Detecta familynames mal separados onde parte do nome ficou no familyname.
+    Ex: 'Ana | Carolina Bierrenbach' vs 'Ana Carolina de Souza | Bierrenbach'.
+
+    Compara nomes completos concatenados (sem partículas) como subsequência.
+    Ao fazer merge, corrige a partição givenname/familyname do registro mantido.
+    """
+    print('=== Fase 1: Merge por último sobrenome ===')
+
+    cur.execute('SELECT id, givenname, familyname FROM authors ORDER BY id')
+    authors = cur.fetchall()
+
+    # Agrupar pelo sobrenome-chave do familyname.
+    # Se último token é sufixo (filho, junior, neto, etc.), usar penúltimo.
+    suffixes = {'filho', 'fo', 'junior', 'jr', 'neto', 'sobrinho', 'segundo', 'terceiro'}
+    by_last = defaultdict(list)
+    for aid, gn, fn in authors:
+        tokens = normalize_name(fn).split()
+        if not tokens:
+            continue
+        key = tokens[-1]
+        if key in suffixes and len(tokens) >= 2:
+            key = tokens[-2]
+        by_last[key].append((aid, gn, fn))
+
+    merge_count = 0
+    skip_count = 0
+    processed = set()
+    groups_checked = 0
+    pairs_compared = 0
+    pairs_same_fn = 0
+
+    for last_token, group in sorted(by_last.items()):
+        if len(group) < 2:
+            continue
+        groups_checked += 1
+
+        for i in range(len(group)):
+            for j in range(i + 1, len(group)):
+                id1, gn1, fn1 = group[i]
+                id2, gn2, fn2 = group[j]
+
+                pairs_compared += 1
+
+                # Pular se mesmo familyname (já tratado pela fase 2)
+                if normalize_name(fn1) == normalize_name(fn2):
+                    pairs_same_fn += 1
+                    continue
+
+                pair = (min(id1, id2), max(id1, id2))
+                if pair in processed:
+                    continue
+
+                # Tokens do nome completo (sem partículas)
+                tokens1 = full_name_tokens(gn1, fn1)
+                tokens2 = full_name_tokens(gn2, fn2)
+
+                if not tokens1 or not tokens2:
+                    continue
+
+                # Determinar curto e longo
+                if len(tokens1) <= len(tokens2):
+                    short_t, long_t = tokens1, tokens2
+                    short_id, long_id = id1, id2
+                    short_gn, short_fn = gn1, fn1
+                    long_gn, long_fn = gn2, fn2
+                else:
+                    short_t, long_t = tokens2, tokens1
+                    short_id, long_id = id2, id1
+                    short_gn, short_fn = gn2, fn2
+                    long_gn, long_fn = gn1, fn1
+
+                # Verificar compatibilidade dos nomes completos
+                if not full_name_compatible(short_t, long_t):
+                    continue
+
+                processed.add(pair)
+
+                # Confiança: exigir ≥2 tokens reais no nome curto
+                real_short = [t for t in short_t if len(t) > 1]
+                if len(real_short) <= 1:
+                    skip_count += 1
+                    continue
+
+                # Verificar se ambos ainda existem
+                cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (short_id,))
+                r1 = cur.fetchone()
+                cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (long_id,))
+                r2 = cur.fetchone()
+                if not r1 or not r2:
+                    continue
+
+                # Keep = mais completo (long), remove = short
+                keep_id, keep_gn, keep_fn = long_id, long_gn, long_fn
+                remove_id, remove_gn, remove_fn = short_id, short_gn, short_fn
+
+                arts_keep = get_author_articles(cur, keep_id)
+                arts_remove = get_author_articles(cur, remove_id)
+
+                if dry_run:
+                    print(f'  MERGE: "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts)')
+                else:
+                    merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn,
+                                  remove_gn, remove_fn, 'dedup_phase1_lastsurname')
+
+                    # Corrigir a partição do nome mantido:
+                    # usar o nome completo mais longo para repartir corretamente
+                    full_tokens_raw = normalize_name(f'{keep_gn} {keep_fn}').split()
+                    # Reconstruir com casing original
+                    orig_parts = f'{keep_gn} {keep_fn}'.split()
+                    new_gn, new_fn = split_name_canonical(orig_parts)
+                    if new_fn and normalize_name(new_fn) != normalize_name(keep_fn):
+                        cur.execute('UPDATE authors SET givenname = ?, familyname = ? WHERE id = ?',
+                                    (new_gn, new_fn, keep_id))
+
+                    print(f'  ⊕ "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts)')
+                    merge_count += 1
+
+    print(f'  Grupos com ≥2 autores: {groups_checked}')
+    print(f'  Pares comparados:      {pairs_compared} ({pairs_same_fn} mesmo familyname, {pairs_compared - pairs_same_fn} familyname diferente)')
+    print(f'  Compatíveis:           {len(processed)}')
+    if dry_run:
+        print(f'  Merges previstos:      {len(processed) - skip_count}')
+        print(f'  Baixa confiança:       {skip_count} (pulados)')
+    else:
+        print(f'  Merges executados:     {merge_count}')
+        print(f'  Baixa confiança:       {skip_count} (pulados)')
+
+    print()
+    return merge_count
+
+
+# ─── Fase 2: Merge por variantes ────────────────────────────────
+
+def phase2_merge(cur, dry_run=False):
+    """Fase 2: Merge automático de variantes de nome (mesmo familyname)."""
+    print('=== Fase 2: Merge de variantes de nome ===')
 
     cur.execute('SELECT COUNT(*) FROM authors')
     before = cur.fetchone()[0]
@@ -384,7 +599,7 @@ def phase1_merge(cur, dry_run=False):
         if dry_run:
             print(f'  MERGE: "{keep_gn} {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} {remove_fn}" ({len(arts_remove)} arts)')
         else:
-            merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_fn, 'dedup_phase1')
+            merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_fn, 'dedup_phase2')
             merge_count += 1
 
     if dry_run:
@@ -395,18 +610,18 @@ def phase1_merge(cur, dry_run=False):
         cur.execute('SELECT COUNT(*) FROM authors')
         after = cur.fetchone()[0]
         print(f'  Merges executados: {merge_count}')
-        print(f'  Baixa confiança:   {skip_low} (pulados → fase 2)')
+        print(f'  Baixa confiança:   {skip_low} (pulados → fase 3)')
         print(f'  Autores depois:    {after}')
 
     print()
     return merge_count, skip_low
 
 
-# ─── Fase 2: Relatório de ambíguos ──────────────────────────────
+# ─── Fase 3: Relatório de ambíguos ──────────────────────────────
 
-def phase2_report(cur):
-    """Fase 2: Lista casos ambíguos (baixa confiança) para revisão manual."""
-    print('=== Fase 2: Casos ambíguos (revisão manual) ===')
+def phase3_report(cur):
+    """Fase 3: Lista casos ambíguos (baixa confiança) para revisão manual."""
+    print('=== Fase 3: Casos ambíguos (revisão manual) ===')
 
     cur.execute('''
         SELECT a1.id, a1.givenname, a1.familyname,
@@ -470,14 +685,17 @@ def main():
     # Fase 0
     enriched = phase0_enrich(cur, dry_run=dry_run or report_only)
 
-    # Fase 1
-    merges, low_conf = phase1_merge(cur, dry_run=dry_run or report_only)
+    # Fase 1 — merge por último sobrenome (corrige partição errada)
+    merges_p1 = phase1_last_surname(cur, dry_run=dry_run or report_only)
+
+    # Fase 2 — merge por variantes (mesmo familyname)
+    merges_p2, low_conf = phase2_merge(cur, dry_run=dry_run or report_only)
 
     if not dry_run and not report_only:
         conn.commit()
 
-    # Fase 2
-    ambiguous = phase2_report(cur)
+    # Fase 3
+    ambiguous = phase3_report(cur)
 
     # Resumo final
     cur.execute('SELECT COUNT(*) FROM authors')
@@ -489,7 +707,8 @@ def main():
     print(f'Autores antes:    {total_before}')
     if not dry_run and not report_only:
         print(f'Enriquecidos:     {enriched}')
-        print(f'Merges:           {merges}')
+        print(f'Merges fase 1:    {merges_p1} (último sobrenome)')
+        print(f'Merges fase 2:    {merges_p2} (variantes)')
         print(f'Autores depois:   {total_after}')
         print(f'Variantes reg.:   {variants}')
     print(f'Ambíguos:         {ambiguous} (revisão manual)')
