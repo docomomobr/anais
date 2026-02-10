@@ -591,15 +591,22 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 | Categoria | Regra | Exemplos |
 |-----------|-------|----------|
 | Nomes próprios | MAIÚSCULA | Maria, Brasília, UFMT, Docomomo |
-| Adjetivos pátrios | minúscula | brasileiro, francês, português |
+| Adjetivos pátrios (isolados) | minúscula | brasileiro, francês, português |
+| Adjetivos pátrios em expressão consolidada | Maiúscula | Arquitetura Moderna **Brasileira**, Escola **Paulista** |
 | Disciplinas/áreas do saber | Maiúscula | Arquitetura, Urbanismo, História |
 | Movimentos/períodos históricos | Maiúscula | Modernismo, Renascimento, Art Déco |
-| Expressões consolidadas | Maiúscula | Educação Patrimonial, Patrimônio Cultural |
+| Conceitos substantivados (período/ideia) | Maiúscula | Modernidade, Brutalismo |
+| Expressões consolidadas | Maiúscula | Educação Patrimonial, Patrimônio Cultural, Movimento Moderno, Arquitetura Moderna |
 | Regiões geográficas | Maiúscula | Nordeste, Norte, Sudeste |
 | Artigos/preposições/conjunções | minúscula | o, a, de, da, e, ou, para |
 | Palavras comuns | minúscula | edifício, casa, projeto, estudo |
 | Siglas | MAIÚSCULA | BNB, SESI, SENAI, IPHAN, VANT |
 | Séculos (algarismos romanos) | MAIÚSCULA | XX, XXI, XIX, XVIII |
+
+**Consistência em expressões consolidadas:**
+- Quando um adjetivo pátrio ou toponímico faz parte de uma expressão consolidada capitalizada, ele também deve ser capitalizado para manter a consistência. Ex: "Arquitetura Moderna Brasileira" (não "Arquitetura Moderna brasileira"), "Urbanismo Moderno Paulista" (não "Urbanismo Moderno paulista").
+- Da mesma forma, "Moderna/Moderno" deve acompanhar a capitalização de "Arquitetura/Urbanismo": "Arquitetura Moderna" (não "Arquitetura moderna"), "Urbanismo Moderno" (não "Urbanismo moderno").
+- "Modernidade" substantivado (como período ou conceito histórico) leva maiúscula: "a Modernidade brasileira", "imagens da Modernidade paulistana". Quando usado como qualidade abstrata genérica, minúscula: "a modernidade do projeto".
 
 ---
 
