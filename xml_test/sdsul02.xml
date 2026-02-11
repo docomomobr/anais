@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsul02-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">A ponte</title>
+        <abstract locale="pt_BR">O II Seminário Docomomo Sul quer recordar a importância técnica, formal e simbólica do concreto armado na arquitetura moderna e, para tanto, busca examinar, revisar e discutir a maneira como arquitetos e engenheiros da região reagiram à ambivalência do material. Trata-se de tema pouco explorado e uma oportunidade impar para o resgate de experiências pioneiras e que, certamente, tornaram-se referência para o desenvolvimento de uma arquitetura moderna no Rio Grande do Sul. Nesse sentido, o artigo mergulha no universo relacionado com o projeto e a execução da Ponte Internacional Mauá, erguida sobre o rio Jaguarão, na linha de fronteira entre o Brasil e o Uruguai. Inaugurada em 1930, a Ponte permite toda uma discussão a respeito das condições técnicas de execução, naquele momento, de uma grande obra em concreto armado no sul do Brasil. Em 1913, o eng. Rudolf Ahrons, como base em sondagens geológicas e em plantas hidrográficas, desenhou o Projeto da ponte de cimento armado para o rio Jaguarão. Ahrons era professor de Construções Civis, Hidráulica e Resistência de Materiais na Escola de Engenharia de Porto Alegre e, em 1912, havia assumido a cadeira de Construções de Ferro e Cimento Armado. Seu projeto corresponde ao da Ponte erguida anos mais tarde, com exceção das duas alfândegas. Em 1918, uma Comissão Mista apresentou relatório justificativo para o uso de concreto armado na obra. Em 1927, o uruguaio Quinto Bonomi Filho foi nomeado Engenheiro Chefe e o engenheiro carioca Arnaldo Pimenta da Cunha foi indicado como Delegado Brasileiro. No mesmo ano foi contratada a firma E. KEMNITZ &amp; CIA (do eng. alemão Erhard Kemnitz) para a execução da Ponte. Inúmeras foram as dificuldades enfrentadas durante os dois anos de obras, do transporte dos materiais à ausência de mão de obra qualificada. Mesmo assim, os seus 2.113m de comprimento foram executados (sendo 276m sobre o rio Jaguarão) no mais puro e bem elaborado concreto armado.</abstract>
+        <abstract locale="en_US">The II Docomomo Sul Seminary wants to recall the technical, formal and symbolic importance of reinforced concrete in the modern architecture, and to do so, it seeks to examine, review and discuss the way architects and engineers in the region reacted to the ambivalence of the material. It deals about a little explored theme and a unique opportunity for the ransom of pioneer experiences that certainly became reference for the development of the modern architecture in Rio Grande do Sul. Accordingly, the article deepens into the universe related to the design and building of the Maua International Bridge, built over the Jaguarão river, the frontier line between Brazil and Uruguay. Inaugurated in 1930, the bridge enables a whole discussion about the technical conditions of implementation, at that moment, a great work in reinforced concrete in southern Brazil. In 1913, Engineer Rudolf Ahrons, based on geological drillings and hydrographic plants, designed the Project of the bridge built on reinforced concrete over the Jaguarão river. Ahrons was a professor of Civil Constructions, Hydraulic and Resistance of Materials in the Porto Alegre Engineering School and in 1912, had assumed the chair of Iron and Reinforced Concrete Constructions. His project was the bridge built years later, with the exception of two customhouses. In 1918, a Commission submitted a report justifying the use of reinforced concrete on the work. In 1927, the Uruguayan Quinto Bonomi Filho was appointed Chief Engineer and the Brazilian Engineer Arnaldo Pimenta da Cunha was appointed as Brazilian delegate. In the same year, the company E. KEMNITZ &amp; CIA (from Eng. Kemnitz German Erhard) was contracted for the construction of the Bridge. Many difficulties were faced during the two years of works, from the transport of material to the lack of qualified workforce. Still, its 2,113 m of length were constructed (276 m on the Jaguarão river) in the most pure and well-executed reinforced concrete.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Ponte Internacional Mauá</keyword>
+          <keyword>Rudolf Ahrons</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Maua International Bridge</keyword>
+          <keyword>Rudolf Ahrons</keyword>
+          <keyword>Reinforced Concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andrey Rosenthal</givenname>
+            <familyname locale="pt_BR">Schlee</familyname>
+            <affiliation locale="pt_BR">UnB</affiliation>
+            <country>BR</country>
+            <email>andreysc@terra.com.br</email>
+            <orcid>https://orcid.org/0000-0003-1190-4534</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsul02-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">A obra do escritório de Jacques Pilon no centro de São Paulo</title>
+        <abstract locale="pt_BR">Segundo um levantamento preliminar, entre os anos de 1935 e 1960, inserido no amplo processo de verticalização do centro da cidade de São Paulo, o escritório do arquiteto francês Jacques Pilon produziu na região central da cidade em torno de 60 edifícios. Inicialmente associados a um período de transição entre a arquitetura clássica e a moderna, os edifícios já introduziam conceitos como racionalização da estrutura, amplas aberturas para iluminação e ventilação e respeito às normativas norte-americanas de instalações prediais. Considerando os cerca de vinte e cinco anos de produção de seu escritório, a produção pessoal mais representativa de Jacques Pilon como arquiteto se concentra na primeira década, entre 1934 e 1945. Após este período passou a contar com a colaboração de arquitetos experientes e qualificados, que modificaram a linguagem da arquitetura produzida em seu escritório. Assim, gradativamente, os projetos passaram a contar cada vez menos com sua participação efetiva como arquiteto, que passou a se dedicar às atividades gerenciais de seu escritório. Através da leitura da expressiva produção do escritório de Jacques Pilon no centro de São Paulo, tem-se uma amostragem significativa do processo de verticalização da cidade, bem como da gradual inserção da arquitetura moderna e sua evolução na cidade, sobretudo nos edifícios comerciais e de apartamentos.</abstract>
+        <abstract locale="en_US">According to a preliminary view, the office of the French architect Jacques Pilon has projected around 60 buildings – trough the large process of verticalization in the Sao Paulo downtown – between 1935 and 1945. Initially associated to a transition period between classic and modern architecture, the buildings has already introduced concepts as the racionalization of structures, large openings for light and ventilation; and, respect to the North-American rules of buildings installations. During the 25 years of productions in his office, the most personal and representative works of Jacques Pilon as architect between 1934 and 1945. After this period there were the collaboration of qualified and experienced architects whom modified the architecture language of his office. Therefore, the projects gradually had a lack of the effective Pilon’s participation as architect and he dedicated himself to activities of management in his office. Through the reading of the expressive production of the Jacques Pilon’s office in Sao Paulo downtown, it is possible to realize a massive sampling of the verticalization process of the city, as the gradual insertion of modern architecture and its evolution in the city, mainly in the commercials and apartment buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Jacques Pilon</keyword>
+          <keyword>verticalização</keyword>
+          <keyword>centro de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Jacques Pilon</keyword>
+          <keyword>verticalization</keyword>
+          <keyword>São Paulo Downtown</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tiago Seneme</givenname>
+            <familyname locale="pt_BR">Franco</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>tiagofranco82@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsul02-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Alcides Rocha Miranda</title>
+        <subtitle locale="pt_BR">Igreja em Nova Friburgo</subtitle>
+        <abstract locale="pt_BR">A obra do arquiteto e artista plástico Alcides Rocha Miranda conta com diversos exemplos de edificações religiosas. A sua primeira obra dentro desse campo foi o Altar-Monumento para o Congresso Eucarístico Internacional, em 1955, no Rio de Janeiro, com risco inicial de Lucio Costa. No mesmo ano ele projetou a Igreja e Centro Social Nossa Senhora das Graças em Nova Friburgo, Rio de Janeiro. A Igreja apresenta um volume com cobertura curva apoiada em planos laterais inclinados; plasticidade explorada através do concreto armado, nesse caso, aparente. A primeira aproximação de Rocha Miranda com a técnica estrutural do concreto armado se deu nas aulas com Emilio Baumgart na Escola Nacional de Belas Artes. A volumetria resultante da Igreja evoca a forma de uma tenda presente também em outras edificações da mesma década, e apresenta características de ambas “escolas” modernas brasileiras, carioca e paulista.</abstract>
+        <abstract locale="en_US">Alcides Rocha Miranda – A church on Nova Friburgo The work of the architect and plastic artist Alcides Rocha Miranda accounts with several examples of religious edifications. His first work within this area was the Altar-Monumento for the Congresso Eucarístico Internacional, in 1955, in Rio de Janeiro, with initial drawing of Lucio Costa. In the same year he projected the Church and Social Center Nossa Senhora das Graças in Nova Friburgo, Rio de Janeiro. The church presents a volume with a curve ceiling supported by inclined lateral walls; plasticity explored through structured concrete, in this case, apparent. The first approximation of Rocha Miranda with the structured concrete technique happened during Emilio Baumgart´s classes in the Escola Nacional de Belas Artes. The volumetric result of the church evokes a form of a tent among other edifications of the same decade, and presents characteristics of Brazilian modern “schools”, carioca and paulista.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Alcides Rocha Miranda</keyword>
+          <keyword>concreto aparente</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Alcides Rocha Miranda</keyword>
+          <keyword>apparent concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Liege Alvares</givenname>
+            <familyname locale="pt_BR">Sieben</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>sieben@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsul02-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">A construção da forma livre</title>
+        <subtitle locale="pt_BR">visões opostas sobre o uso do concreto armado na Arquitetura Contemporânea no Brasil</subtitle>
+        <abstract locale="pt_BR">Este trabalho tem como objetivo identificar duas concepções de uso do concreto armado para a construção da forma arquitetônica no Brasil. Um pretende explorar o fato do concreto ser armado com aço e poder resistir a esforços de tração, enquanto a outra defende uma postura mais austera, recomendando formas estruturais que aproveitem a capacidade do concreto à compressão, reduzindo os esforços de tração e o uso de armaduras. Identificamos a crítica de Pier Luigi Nervi à concepção estrutural na obra de Niemeyer como um dos momentos onde se constituem os principais argumentos que seriam utilizados nas críticas posteriores. Acompanhamos o seu desdobramento na crítica e na produção projetual de Paulo Mendes da Rocha, Joaquim Guedes, Sergio Ferro, Jorge Wilheim, Miguel Juliano, Carlos Fayet, Cláudio Araújo, Carlos Eduardo Comas e Luis Américo Gaudenzi, Eduardo Longo, Joan Villà entre as décadas de 1950 e 1990.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <affiliation locale="pt_BR">EESC-USP</affiliation>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsul02-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Reidy</title>
+        <subtitle locale="pt_BR">dois projetos, dois países e um princípio</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta reflexões acerca da sistematicidade nas obras de Affonso Reidy. Entende-se por sistematicidade, neste caso, o desenvolvimento de um modo de projetar que possa resolver o maior número possível de questões relativas à plástica e ao sistema estrutural, independente do tema arquitetônico envolvido. No trabalho será analisada a utilização do concreto em duas obras específicas – a Escola BrasilParaguai (1952) e MAM (1953) - cujas possibilidades plásticas e estruturais são potencializadas por meio de desenho diferenciado que resolve tanto estrutura, como espaço e elementos de proteção, podendo ser aplicado de modo sistemático dentro da obra. Na Escola, o arquiteto organiza seu projeto na barra que contém os espaços seriais (o programa apresenta uma organização que se revela na própria estrutura, através da repetição das salas de aula, por exemplo) e reserva para as atividades especiais (ginásio e auditório) uma solução volumétrica diferenciada, utilizando em ambos um desenho especial. Já no museu, mesmo sem a serialidade estar vinculada ao programa, a barra organiza o espaço e, através de uma estrutura reticulada e serial, fornece um caráter diferenciado, oferecendo destaque à barra, colocando-a em evidência, através de sua estrutura. Tanto na escola, quanto na primeira ou na versão construída do museu tem, no desenho do pórtico, um espaço para a produção de um elemento com aspectos escultóricos, o que dá ao material e a estrutura uma relevância no conjunto, principalmente quando, se percebe a flexibilidade do concreto como elemento capaz de vencer vãos de diferente ordens e assumir um variado leque de configurações formais. Embora seja possível observar a aproximação à influência corbusiana, através da utilização do concreto aparente, não é esta referência que define a importância de Reidy, mas o modo em que seus projetos são desenvolvidos, transcendendo esta filiação. Nos seus projetos aparecem uma quantidade restrita de elementos que vão sendo recombinados e desenvolvidos, de modo diferente em cada situação particular. O elemento universal desse repertório é o edifício linear, usualmente um bloco retangular que aparece em vários tamanhos, alturas e secções, utilizado de modo isolado, combinado com outros, dobrado ou curvado para adaptar-se ao programa ou ao sítio. O repertório proposto por Le Corbusier gradualmente se refina e amplia nos trabalhos dos arquitetos brasileiros e na obra de Reidy isso não é diferente, na medida em que enfrenta de forma diferenciada cada programa arquitetônico específico. Em cada projeto, não apenas a sistematicidade e estrutura adotadas oferecem pleno significado à obra, mas também das relações estabelecidas entre programa e lugar, bem como estrutura e partido. O passo crucial em cada projeto de Reidy parece ser o estabelecimento de relações formais e funcionais entre as partes, assim como entre o todo e os elementos do entorno. Desta forma o estudo destes aspectos são relevantes para a discussão sobre a arquitetura.</abstract>
+        <abstract locale="en_US">This article presents reflections concerning the systematicity in Affonso Reidy's works. It’s understands each other for sistematicidade, in this case, the development in a way of projecting that it can solve the largest possible number of relative subjects to the plastic surgery and the structural system, independent of the involved architectural theme. In the work the use of the concrete will be analyzed in two specific works - the Escola Brasil-Paraguai (1952) and MAM (1953) - whose plastic possibilities and you structure they are made possible through drawing differentiated that solves so much structure, as space and protection elements, could be applied inside in a systematic way of the work. In the School, the architect organizes your project in the bar that contains the spaces seriais (the program presents an organization that is revealed in the own structure, through the repetition of the class rooms, for instance) and he reserves for the special activities (gym and auditorium) a solution differentiated volumétrica, using in both a special drawing. Already in the museum, even without the serialidade to be linked to the program, the bar organizes the space and, through a structure that have lines and interrupted hibs and serial, it supplies a differentiated character, offering prominence to the bar, placing it in evidence, through your structure. So much in the school, as in the first or in the built version of the museum has, in the drawing of the porch, a space for the production of an element with sculptural aspects, what gives to the material and the structure a relevance in the group, mainly when, it is noticed the flexibility of the concrete as element capable to win empty spaces of different orders and to assume a varied fan of formal configurations. Although it is possible to observe the approach to the influence, through the use of apparent concrete, it is not this reference that defines the importance of Reidy, but the way in that your projects are 2 developed, transcending this filiation. It’s projects appear in a restricted amount of elements that are being recombinant and developed, in different way in each private situation. The universal element of that repertoire is the lineal building, usually a rectangular block that he/she appears in several sizes, heights and sections, used in an isolated way, combined with other, bent or curved to adapt it to the program or the ranch. The repertoire proposed for Le Corbusier gradually it is refined and it enlarges in the Brazilian architects' works and in the work of Reidy that is not different, in the measure in that faces in a differentiated way each specific architectural program. In each project, not just the sistematicidade and it structures adopted they offer full meaning to the work, but also of the established relationships between program and place, as well as it structures and party. The crucial step in each project of Reidy seems to be the establishment of formal relationships and you work among the parts, as well as between the whole and the elements of the I spill. This way the study of these aspects is important for the discussion on the architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>projeto arquitetônico</keyword>
+          <keyword>sistematicidade</keyword>
+          <keyword>concreto</keyword>
+          <keyword>Affonso Reidy</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Project</keyword>
+          <keyword>way of projecting</keyword>
+          <keyword>concrete</keyword>
+          <keyword>Affonso Reidy</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elisa Moraes</givenname>
+            <familyname locale="pt_BR">Souto</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>anesouto@ig.com.br</email>
+            <orcid>https://orcid.org/0000-0002-4486-4324</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alex Carvalho</givenname>
+            <familyname locale="pt_BR">Brino</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>brino@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0004-9497-2691</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsul02-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">O suporte na arquitetura de Rino Levi</title>
+        <subtitle locale="pt_BR">da grelha tridimensional ao dom-ino</subtitle>
+        <abstract locale="pt_BR">Os temas fundamentais da arquitetura moderna, principalmente as potencialidades das novas técnicas construtivas e de seu elemento mais emblemático, a estrutura em esqueleto são constantemente abordados nos projetos e escritos de Rino Levi. Esse assunto adquire, como em geral na arquitetura moderna, além dos arquitetônicos, nuances ideológicos e simbólicos que representam, como diz o arquiteto, os ideais de absoluta revelação da cultura e da arte do século XX e o desejo de liberdade inerente ao espírito do homem moderno. Na arquitetura de Rino Levi, a adoção da estrutura em esqueleto passa por um processo que vai de um esquema mais clássico herdado dos italianos, antigos colegas de Scuola,, a uma mais corbusiana estratégia de construção espacial a partir da arquitetura carioca em meados dos anos 40. A forte influência classicista refletida na arquitetura de Levi em uma primeira fase é indicativa dos motivos para a quase indiferença pela planta livre e sua adesão ao uso retórico da coluna - onde a tradicional manifestação explícita da estrutura e suas juntas leva a arquitetura de novo a uma categoria tectônica primária. Ao longo dos anos quarenta e cinqüenta, o conteúdo essencial a ser representado e assim um dos principais fundamentos da projetação arquitetônica de Rino Levi, já não são “os novos tempos” percebidos com a unidade das décadas anteriores, mas uma modernidade dotada de crescente complexidade. A utilização do esquema dom-ino com sua potencialidade espacial que permite uma contraposição entre ordenação geométrica da estrutura e composição topológica de paredes, respondendo às necessidades modernas de comodidade indica essa mudança.</abstract>
+        <abstract locale="en_US">The fundamental themes of modern architecture, especially the potentialities of the new building techniques and of their most emblematic element, the freestanding structural frame, are constantly approached in Rino Levi’s projects and writings. This subject acquires, as it usually does in modern architecture, in addition to the architectural aspects, ideological and symbolical nuances which represent, according to the architect, the ideals of absolute revelation of culture and art of the 20th century, as well as the yearning for freedom inherent to the modern man’s spirit. In Rino Levi’s architecture, the adoption of the structural frame undergoes a process which moves from a more classical scheme inherited from the Italians, Scuola’s old colleagues, to a more corbusian strategy of spatial construction, beginning with the carioca architecture from the mid-forties on. The strong classicist influence reflected in Levi’s architecture in a initial stage indicates the motives for the almost indifference for the open floor plan as well as his attachment to the rhetorical use of the column – where the traditional explicit manifestation of the structure and its joints drives architecture again to a primary tectonic category. Along the forties and fifties, the essential content to be represented – and thus one of the main foundations of Rino Levi’s architectural projecting – is not “the new times” anymore, but a modernity endowed with growing complexity. The use of the dom-ino scheme, with its spatial potentiality that allows a contraposition between geometric arrangement of the structure and topological composition of the walls – answering to the modern needs of convenience – indicates this change.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Rino Levi</keyword>
+          <keyword>estrutura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Rino Levi</keyword>
+          <keyword>structure</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Célia Helena Castro</givenname>
+            <familyname locale="pt_BR">Gonsales</familyname>
+            <affiliation locale="pt_BR">UFPel</affiliation>
+            <country>BR</country>
+            <email>celia.gonsales@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9249-1390</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsul02-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">Da utopia ao concreto</title>
+        <subtitle locale="pt_BR">os prédios habitacionais lineares e curvilíneos de Affonso Reidy como experiência tipológica e construtiva</subtitle>
+        <abstract locale="pt_BR">A obra exemplar de Affonso Reidy, Conjunto Residencial Prefeito Mendes de Moraes, ou simplesmente “Pedregulho”, no Rio de Janeiro, com aproximadamente sessenta anos de existência, constitui-se em um dos mais significativos experimentos arquitetônicos realizados no quadro da arquitetura modernista brasileira. O conjunto caracterizou-se como uma rica experimentação e exploração tipológica e construtiva dentro do idioma modernista, referenciando-se, especialmente, a proposições corbusianas, justificando-se abordá-lo através de novos pontos de vista. Interessa especificamente a este trabalho enfocar o bloco A do conjunto, como exemplar de um tipo arquitetônico proposto por Reidy, o prédio habitacional sinuoso e de crescimento linear potencialmente ilimitado, enquanto um interessante caso de aplicação do concreto armado. O exemplo revela uma síntese entre os extremos da plástica livre e da repetição modular sistemática e geometricamente ordenada, que o material e suas tecnologias e processos típicos permitem. O sistema estrutural adotado permitiu rigorosa sistematização de células e componentes, simultaneamente possibilitando sutis inflexões e curvaturas contínuas. Ensejou a criação de construção similar a uma macro–estrutura sobre pilotis, potencialmente expansível conforme direções variáveis e adaptável a diferenciações do terreno natural e do sítio urbanizado. O tipo proposto, depois replicado no conjunto Gávea e outros projetos, situa-se em uma escala entre o urbano e o campo do objeto autônomo arquitetônico, rompendo limites convencionais das práticas e das concepções arquitetônicas e urbanísticas em termos funcionais, estéticos e construtivos. Estes prédios, provavelmente inspirados nos projetos oníricos de viadutos habitáveis sinuosos corbusianos originados no Rio de Janeiro e Argel, invocam uma rica poética de interação entre paisagem e construção, fundamental no imaginário e no ideário de Le Corbusier. Entretanto, as propostas de Reidy deles se afastam enquanto conjunto de proposições lúcidas e realistas, aplicadas rigorosamente à solução de programas definidos e pragmáticos, utilizando o concreto armado como meio de realização de uma invenção improvável.</abstract>
+        <abstract locale="en_US">The exemplary work of Reidy, the Pedregulho housing complex, now approximately sixty years old, is one of the most important architectural experiments produced in the scope of the Brazilian architectural modern movement. The complex constitutes a rich exploration of architectural morphology and building technical solutions, cleverly encompassing references to the work of other architects of the movement, especially Le Corbusier. This text discusses specifically the “A” building” of Pedregulho, a “serpentine” housing development of potentially indefinite linear growth, as an outstanding example of the use of reinforced concrete, both in aesthetical and building terms, exploring the extremes of plastic freedom and modular systematic repetition that this material and its respective technologies and building processes allow. The expansion is facilitated by the structural modules geometric repetition, but, at the same time, subtle inflexions and curves can be obtained, enhancing the adaptation to site and urban surroundings. The material and its structural system also allow the creation of a building similar to “macrostructures”, integrating various types of housing, pedestrian paths, common spaces and facilities, blurring the conventional limits between the architectural object and the urban system both in terms of design and use.The building was probably meant by Reidy as a type of housing solution to be applied at least in the typical situation encountered in Rio, as the Gávea building and the project for Catacumba which he also designed, seem to prove. The Reidy proposal was inspired by the curvilinear housing viaducts conceived in Rio (1929 and 1936) and Algiers, the most radical and oneiric Corbusian urban proposals. Reidy accomplished the superior task of adapting Le Corbusier’ architectural poetics into lucid and pragmatic propositions, retainining one of the deepest meanings of modern movement’s ideology, the paradoxical relationship between nature and construction. A obra exemplar de Reidy, o Conjunto Residencial Prefeito Mendes de Moraes, mais conhecido por Pedregulho, no bairro de São Cristóvão, no Rio de Janeiro, hoje com aproximadamente sessenta anos de existência, constitui-se em um dos mais significativos experimentos arquitetônicos realizados no quadro da arquitetura modernista brasileira. O conjunto caracterizou-se, como foi freqüente na obra de Reidy, como uma rica experimentação e exploração tipológica e construtiva dentro do idioma modernista, referenciando-se, especialmente, a proposições corbusianas. Interessa a este trabalho enfocar um tipo arquitetônico proposto por Reidy, o prédio habitacional sinuoso e de crescimento linear potencialmente ilimitado, como o Bloco A de Pedregulho, que apareceria depois no único volume construído do Conjunto Gávea e no projeto não realizado de Catacumbas. Este tipo será visto enquanto caso significativo de aplicação do concreto armado, situando-se entre os extremos da plástica livre e da repetição modular geometricamente ordenada, que o material e as tecnologias e processos a ele próprios permitem. A expansão é dada basicamente através de módulos estruturais que se repetem, mas que são, ao mesmo tempo, passíveis de sutis inflexões e curvaturas. Do mesmo modo, o sistema estrutural adotado possibilita a criação de construção similar a uma megaestrutura, embora em dimensões e com amplitude funcional reduzida. Elevada por pilotis, potencialmente expansível em direções variáveis e adaptável à morfologia do terreno natural e do entorno urbanizado, esta estrutura se adequaria à diversidade do sítio de implantação. Do mesmo modo, poderia absorver parte dos equipamentos urbanos complementares à habitação social, idealizados por Reidy. O conjunto Pedregulho também representa, estética, construtiva e funcionalmente, a aplicação do concreto em uma escala situada entre o urbano e o campo do objeto discreto arquitetônico, expandindo os limites convencionais das práticas e das concepções arquitetônicas e urbanísticas. O conjunto Pedregulho possibilita entender a importância da obra de Reidy no quadro da arquitetura modernista brasileira, como exemplar significativo de uma concepção peculiar do autor sobre o ideário modernista em termos não só das questões relativas a correlações entre lugar, forma e função, mas, especialmente, das atitudes sistemáticas do arquiteto na aplicação das técnicas e materiais dentro do processo de construção. Embora Reidy seja unanimemente considerado como membro do trio de pioneiros do modernismo arquitetural brasileiro, juntamente com Lucio Costa e Oscar Niemeyer, sua obra é relativamente menos estudada, talvez devido em parte a sua menor</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gilberto Flores</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <affiliation locale="pt_BR">FA-UFRGS</affiliation>
+            <country>BR</country>
+            <email>cabweb@terra.com.br</email>
+            <orcid>https://orcid.org/0009-0007-8650-593X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsul02-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Arquitetura Moderna em Porto Alegre</title>
+        <subtitle locale="pt_BR">considerações sobre a flexibilidade em planta e o uso de grelha de concreto em fachadas de edifícios residenciais da década de 50</subtitle>
+        <abstract locale="pt_BR">O artigo proposto visa analisar alguns exemplares de arquitetura moderna em Porto Alegre construídos entre 1930 a 1970 e que fizeram uso da técnica do concreto armado. O uso do concreto possibilitou o balanço de elementos que compõem as fachadas, dando uma nova volumetria aos prédios. Pode-se observar que o limite vertical dos edifícios, constituído por várias camadas, passou a contar muitas vezes com elementos fixos de concreto – grelhas ritmadas, utilizadas muitas vezes como proteção solar, os brise-soleil, ou apenas como elemento de emolduração das aberturas. As obras eleitas para análise são aquelas de cunho prioritariamente residencial que possuem em suas fachadas ou parte delas grelhas de concreto. Componentes esses presentes nas teorias de Le Corbusier como no edifício de apartamentos para Argel (1933), e que aparecem em obras locais como no Edifício Santa Terezinha (1950), projeto do arquiteto Holanda Mendonça; Edifício Esplanada (1952) de Fresnedo Siri e Ed. Paglioli (1957) de Remo Irace e Miguel Irace. Nesse artigo, pretende-se identificar a relação entre as grelhas e os interiores dos projetos, se há correspondência direta entre a camada da grelha e o ambiente interno que a faceia. Ainda tratar-se-á de averiguar se a capacidade de flexibilidade em planta dos projetos sofre influência pelo uso de grelhas nas fachadas, ou seja, se um projeto torna-se mais facilmente adaptável ou mutável quando faz uso de tais elementos.</abstract>
+        <abstract locale="en_US">This article aims to analyze some examples of Porto Alegre’s modern architecture buildings built between 1930 and 1970 that made use of reinforced concrete technique. The use of concrete made possible the balancing of the elements that compose the façades, giving a new volumetric shape to the building. It can be observed that the external layer of a building, that has many layers in its vertical limit, started to have often fixed parts in concrete- rhythmed grates, used as sun protection, the brise-soleils, or just as a frame all over the windows. The examples chosen to be analyzed are those mainly residential buildings that have concrete grates in their façades or in a part of it. These components can be seen in Corbusier’ s theories such as at the Apartments’ Building of Argel (1933), and at local examples like at Santa Terezinha (1950) ,design of the architect Holanda Mendonça; Esplanada Building( 1952) designed by Fresnedo Siri and Paglioli( 1957) designed by Remo Irace and Miguel Irace. In the text, it is intended to identify the relationship between the grate on façade and the interiors of the projects, if there is a straight connection between them. Furthermore, it will be verified if the capacity of flexibility in the project’s plan suffers influence by the use of those elements. That is, if a building that owns grids on its façade becomes more easily adaptable or changeable when it makes use of such elements.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>brise-soleils ou grelhas de concreto</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>flexibilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>brise-soleils</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>flexibility</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Wainberg</givenname>
+            <familyname locale="pt_BR">Finkelstein</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>cris.finkelstein@terra.com.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsul02-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Viver nas alturas</title>
+        <abstract locale="pt_BR">Com a difusão da arquitetura moderna o conceito de terraço-jardim foi adotado por outros arquitetos. No Brasil, foi utilizado por Lúcio Costa e a equipe responsável pelo projeto da sede do Ministério da Educação e da Saúde. Em Porto Alegre, Emil Bered, no edifício de apartamentos Rio Grande do Sul, trata a cobertura sobre a garagem, como um terraço para uso infantil. Na época, o uso do concreto como laje de cobertura era evitado em Porto Alegre devido as dificuldades técnicas na execução da impermeabilização.</abstract>
+        <abstract locale="en_US">With the spread of modern architecture, the concept of terrace-garden was adopted by other architects. In Brazil, was used by Lucio Costa and the team responsible for the design of the headquarters of the Ministry of Education and Health. In Porto Alegre, Emil Bered in the “Rio Grande do Sul” building, uses flat roof on the garage as a terrace to child use.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>cobertura</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>diretrizes urbanísticas</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>rooftop</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>urban guidelines</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Clarissa Martins de Lucena Santafé</givenname>
+            <familyname locale="pt_BR">Aguiar</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>claguiar@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsul02-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Banco de Londres e América do Sul</title>
+        <subtitle locale="pt_BR">detalhes construtivos e solução estrutural</subtitle>
+        <abstract locale="pt_BR">Em 1960 foi proposto um concurso para o projeto da nova sede central do Banco de Londres e América do Sul, em Buenos Aires. Constava nas bases do concurso, a necessidade de um edifício que transmitisse a integridade, eficiência e confiança - presentes nas operações do banco - por meio de uma expressão arquitetônica clara e concisa, que não recorresse a imagens do passado. Exigiam flexibilidade, além da preocupação com os materiais utilizados, que não exigissem grandes manutenções. A direção do banco considerou que o projeto de Clorindo Testa, Santiago Sánchez Elía, Federico Peralta Ramos e Alfredo Agostini, não era somente o que melhor resolvia os aspectos funcionais e tectônicos, mas também, se adequava aos princípios simbólicos propostos. Sendo assim, em agosto de 1966, foi inaugurado um dos maiores exemplos de arquitetura moderna em terras sul-americanas. O uso escultórico e funcional do concreto armado é uma característica da concepção estrutural desta obra que se define como um exemplo de uma planta livre, com as inumeráveis possibilidades de organização. Em linhas gerais, o projeto é concebido como um grande espaço unificado, organizado mediante seis bandejas. As duas primeiras destinadas ao uso público, e os quatro níveis seguintes destinados ao uso interno do Banco. Todas elas estão dispostas em dois grupos paralelos. Os esforços demandados para a execução da sede central do Banco de Londres e América do Sul, além da extraordinária qualidade de sua confecção, tornam de grande interesse a análise da sua estrutura. Diante do exposto, este trabalho tem como objetivo um minucioso exame da solução estrutural da sede central do Banco de Londres da América do Sul. Pretende-se oferecer maiores explicações técnicas sobre a estrutura de concreto armado e demonstrar alguns dos detalhes construtivos empregados nessa obra singular da arquitetura moderna argentina.</abstract>
+        <abstract locale="en_US">In 1960 a competition was proposed to design the new headquarters of the Bank of London and South America in Buenos Aires. The terms of the competition included the need for a building that would impart integrity, efficiency and trust – present in the bank operations – by means of a clear and concise architectural expression that did not use images from the past. It required flexibility, besides concern about the materials used, which were to require little maintenance. The Bank board of directors considered that the project by Clorindo Testa, Santiago Sánchez Elía, Federico Peralta Ramos and Alfredo Agostini, was not only the one which best solved the functional and tectonic aspects, it also responded best to the symbolic principles proposed. Thus, in August 1966 one of the greatest examples of modern architecture in South America was inaugurated. The sculptoric and functional use of reinforced concrete is a characteristic of the structural concept of this work which is defined as an example of a free plan with many different possibilities of organization. On general lines the project is conceived as a large unified space, organized with six trays. The two first are for public use and the four next levels are for internal use by the Bank. All of them are disposed in two parallel groups. Because of the efforts required to build the headquarters of the Bank of London and South America and the extraordinary quality of the work done, it is very interesting to analyze the structure. Therefore, the purpose of the present paper is to examine in detail the structural solution of the central headquarters of the Bank of London in South America. It is intended to provide further technical explanations about the reinforced concreted structure and demonstrate a few of the constructive details used in this unique building of modern Argentine architecture. Banco de Londres e América do Sul: detalhes construtivos e solução estrutural Fig. 01. Banco de Londres e América do Sul, vista da esquina das Ruas Bartolomé Mitre e Reconquista. (Fonte: Acervo da autora. Junho,2007) “...Apostavam em uma imagem de futuro, e se tratava da sede central do Banco de Londres e América do Sul, uma instituição caracterizada justamente pela força e tradição na Argentina. A adoção de uma imagem de futuro constituía uma troca radical no caráter até então conservador das sedes financeiras e foi motor principal da empresa, mas não deixava de ser resolvida como um monumento. Seria em última instância, um monumento à modernidade.”1 A sede central do Banco de Londres e América do Sul, uma das criações mais notáveis internacionalmente, e talvez a mais relevante da Argentina quanto à criatividade e tecnologia, foi projetada, em 1960, pelo arquiteto Clorindo Testa junto dos arquitetos Santiago Sánchez Elía, Federico Peralta Ramos e Alfredo Agostini - escritório SEPRA. Constitui uma megaestrutura de concreto armado, cujos parâmetros de alta qualidade de execução e de detalhamento são nitidamente percebidos. 1 LIERNUR, Jorge Francisco. Arquitectura em la Argentina del siglo XX – La construción de la modernidad. Buenos Aires: Fondo Nacional de las artes, 2001</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cassandra Salton</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>cassandrasaltoncoradin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-6366-2696</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsul02-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Emílio Henrique Baumgart</title>
+        <subtitle locale="pt_BR">o pai do concreto armado no Brasil</subtitle>
+        <abstract locale="pt_BR">Seu trabalho no campo do concreto armado abriu novas perspectivas para a utilização da técnica construti- va, sendo autor do projeto de estruturas de obras pioneiras da engenharia brasileira. Dois de seus projetos tiveram significado mundial sob o aspecto do avanço da técnica: o edifício A Noite, na praça Mauá no Rio de Janeiro, que com seus 24 andares se tornou na época o mais alto do mundo em estruturas de concreto armado; e a ponte sobre o Rio do Peixe, entre Herval d´Oeste e Joaçaba. A ponte possuia o maior vão livre conhecido na época (68,5m) e foi construída por um método revolucionário devido a sua altura em relação ao rio e às suas repetidas cheias. Outro projeto representativo da personalidade inovadora de Baumgart é a concepção da estrutura do Ministério da Educação e Saúde Pública, arquitetura de Lucio Costa e equipe, onde uma das características inéditas foi a adoção de reforços invertidos na periferia dos pilares possibilitou a execução de uma laje plana na base.</abstract>
+        <abstract locale="en_US">The article is a report of life and structures calculated / designed by brazilian engineer Emilio Henrique Baumgart. His work, in the field of reinforced concrete, opened up new prospects for the constructive use of the technique, and author of the design of structures for the pioneering works of Brazilian engineering. Two projects had global significance under the aspect of the art: the building called “A Noite”, the square Maua in Rio de Janeiro, which with its 24 floors at the time became the highest in the world of reinforced concrete structures, and bridge on the Rio do Peixe, between Herval d’Oeste and Joaçaba. The bridge will have the largest free span in the world (68.5 m) and was built by a revolutionary method because of its height from the river and its repeated floods. Another project representative of the personality of Baumgart is the innovative design of the structure of the Ministry of Education and Public Health, architecture of Lucio Costa and team, where one of the novel feature was the adoption of reinforcements reversed on the periphery of the pillars enabled the implementation of a flat slab the base. It is also important to list more attention to detail and other work of the engineer, who was the author of more than 500 structural projects (tanks, hangars, garages, warehouses, floating, swimming pools, etc. and more than a hundred bridges and viaducts).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>engenharia</keyword>
+          <keyword>Baumgart</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>concrete</keyword>
+          <keyword>engineering</keyword>
+          <keyword>Baumgart</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsul02-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Brutalismo no paralelo 33</title>
+        <subtitle locale="pt_BR">Unidad Diego Portales, Santiago — Chile</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maribel Aliaga</givenname>
+            <familyname locale="pt_BR">Fuentes</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>marialiaga@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8244-8412</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsul02-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Ecletismo, ferro e concreto</title>
+        <subtitle locale="pt_BR">um arquivo-belvedere em Porto Alegre</subtitle>
+        <abstract locale="pt_BR">O advento de novas tecnologias de construção (como o concreto armado e as estruturas de ferro) em Porto Alegre ocorre em paralelo com o apogeu da arquitetura eclética na cidade, nas duas primeiras décadas do século XX. Edifícios desta época, com exuberantes exteriores historicistas, são sustentados por estruturas de concreto armado e/ou metal. Dentre estas obras pioneiras na capital gaúcha, está o Arquivo Público do Estado do Rio Grande do Sul, que combina os aspectos de inovação tecnológica com preocupações urbanísticas relacionadas à reconfiguração do centro da cidade.</abstract>
+        <abstract locale="en_US">The arrival of new building techniques in Porto Alegre (such as reinforced concrete and iron frames) happened at a time when eclectic architecture was in its peak in the city (1900-1920). At that time, buildings with impressive revivalist exterior decoration are supported by reinforced concrete structures and/or iron frames. The State Public Archives is among these pioneer works in Porto Alegre. This building combines the issue of technological innovation with urban concerns related to the reconfiguration of the downtown area of the city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Eclética</keyword>
+          <keyword>Arquitetura de Porto Alegre</keyword>
+          <keyword>Affonso Hebert</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Arquitetura Eclética</keyword>
+          <keyword>Arquitetura de Porto Alegre</keyword>
+          <keyword>Affonso Hebert. ECLETISMO</keyword>
+          <keyword>FERRO E CONCRETO: UM ARQUIVO-BELVEDERE EM PORTO ALEGRE É curioso notar que a afirmação do concreto armado na construção civil em Porto Alegre coincide com o apogeu da arquitetura eclética na cidade. A empresa construtora de Rudolf Ahrons</keyword>
+          <keyword>através de seus arquitetos Hermann Otto Menchen e Theo Wiedersphan</keyword>
+          <keyword>foi responsável por grande número de edifícios monumentais em estilo eclético na capital gaúcha nas duas primeiras décadas do século XX. Dentre os muitos imigrantes alemães que trabalharam nesta empresa</keyword>
+          <keyword>encontra-se o engenheiro Alfred Haessler</keyword>
+          <keyword>responsável pelos projetos estruturais em concreto armado neste período. Desse modo</keyword>
+          <keyword>em Porto Alegre combina-se o surgimento de uma ornamentação historicista exuberante com o uso de técnicas construtivas modernas</keyword>
+          <keyword>como demonstrado no salão principal da Delegacia Fiscal (Wiedersphan</keyword>
+          <keyword>1913)</keyword>
+          <keyword>onde vigamentos</keyword>
+          <keyword>arcos e lajes em concreto armado permitem grandes vãos livres cobertos por zenitais</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudio Calovi</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>pereira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9488-0859</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Samantha Sonza</givenname>
+            <familyname locale="pt_BR">Diefenbach</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>samantha.diefenbach@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsul02-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Matéria bruta</title>
+        <subtitle locale="pt_BR">Clorindo Testa e o Centro Cívico de Santa Rosa, La Pampa, 1955-1963</subtitle>
+        <abstract locale="pt_BR">Situado em meio ao pampa argentino, distante seiscentos quilômetros de Buenos Aires na direção sudoeste, o Centro Cívico certamente tem merecido menos páginas de críticos e estudiosos que as outras duas grandes obras de Testa no mesmo período, o Banco de Londres (1959) e a Biblioteca Nacional (1962), ambos na Capital Federal. O presente texto dá continuidade ao estudo realizado sobre o Centro Cívico de Santa Rosa, apresentado no Docomomo Brasil em 2007. Tendo em vista o temário e os parâmetros geográficos e cronológicos propostos pelo seminário, o trabalho concentra-se sobre os elementos resultantes da primeira etapa de consolidação deste conjunto arquitetônico moderno, construídos em concreto aparente entre 1956-1963: Casa de Governo, Estação Terminal de Ônibus e cobertura central. As primeiras fotografias tomadas do Centro Cívico, publicadas no segundo número de Summa em 1963, e mesmo aquelas publicadas por Francisco Bullrich em 1968, ou Bayon e Gasparini em 1977, mostram um conjunto variado porém harmônico, em que a nudez do concreto bruto funcionava como um tema geral de composição executado em diferentes modulações, unificando as superfícies ásperas dos parabolóides da cobertura central e as tramas múltiplas da fachada da Casa de Governo. Por outro lado, como sistema construtivo, no que se refere à concepção tipológica, o uso do concreto no Centro Cívico contrapõe duas situações características do desenvolvimento da arquitetura moderna internacional e latino-americana: a barra repetitiva e a grande cobertura espacial.</abstract>
+        <abstract locale="en_US">Situated in the middle of Argentinian pampas, 600 kilometers to the south of Buenos Aires, Santa Rosa's Civic Center has been less discussed as an academical subject than other contemporary Testa's great works such as London Bank (1959) and National Library (1962), both in Capital Federal. This paper follows former studies on that subject presented at Docomomo Brasil in 2007. Concerning the Docomomo South purposes, and according to the geographic and chronological parameters proposed by this seminar, this article focuses on the results of the first competition for the Civic Center: the Government House, the Bus Station and the covered central space, all of them built in exposed reinforced concrete between 1955-1963. The first photos taken from the Civic Center, published in the second issue of Summa architectural magazine in 1963, and so the ones published by Francisco Bullrich in 1968, or Bayón and Gasparini in 1977, show a varied but harmonious ensemble. The naked reinforced concrete works as the general theme of the composition, played in different ways, but also unifying unlike architectural elements such as the concrete covering of paraboloid shells and the rich texture of the grid of the Government House. On the other side, as a constructive system, the use of reinforced concrete in the Civic Center opposes two characteristics situations in the development of modern architecture in Latin-American and international scene: the linear repetitive block and the big spatial covering.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Clorindo Testa</keyword>
+          <keyword>Centro Cívico</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Clorindo Testa</keyword>
+          <keyword>Civic Center</keyword>
+          <keyword>reinforced concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudia Piantá Costa</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>cabral@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0079-1861</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsul02-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Experiências em concreto armado na África Portuguesa</title>
+        <subtitle locale="pt_BR">influências do Brasil</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Cristina Fernandes Vaz</givenname>
+            <familyname locale="pt_BR">Milheiro</familyname>
+            <affiliation locale="pt_BR">FAUTL</affiliation>
+            <country>BR</country>
+            <email>avmilheiro@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-7213-0478</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsul02-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">A miragem da industrialização</title>
+        <subtitle locale="pt_BR">abrindo a mata virgem a facão: alguns casos do brutalismo paulista</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ruth Verde</givenname>
+            <familyname locale="pt_BR">Zein</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>rvzein@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0923-4914</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsul02-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">O Centro Administrativo do Estado do Rio Grande do Sul</title>
+        <subtitle locale="pt_BR">curva de concreto marcando a paisagem</subtitle>
+        <abstract locale="pt_BR">O Centro Administrativo do Estado do Rio Grande do Sul, em Porto Alegre, foi projetado em 1972, por Charles René Hugaud, Ivânio Fontoura, Leopoldo Constanzo e Luís Carlos Macchi Silva, tendo a obra atingido o estágio atual em meados dos anos 1980. O bloco mais alto foi construído parcialmente, ficando com 22 dos 32 andares previstos, além de outras partes não terem sido completadas conforme o projeto. O principal material que caracteriza sua expressão formal é o concreto. Com sua forma singular, com dois volumes semelhantes posicionados de modo antimétrico em relação à coluna de circulação vertical, cada um com faixas horizontais de vidro e concreto arrematadas por placas de concreto nos lados menores, verticais nos lados mais próximos do centro e com perfil curvo nas extremidades mais afastadas deste, o incompleto edifício com 22 andares tornou-se um elemento marcante na paisagem de Porto Alegre. Localizado em área de aterro junto ao Guaíba, logo ao sul da península que constitui o centro da cidade, está em um espaço bastante amplo, num entorno aberto, no qual aparece como elemento mais destacado, com alta visibilidade. Sua silhueta curva chama especialmente a atenção. Apesar de poder ser visto por todos os lados, o ângulo que permite ver com mais clareza a forma geral é a partir do nordeste, ângulo do qual costuma ser retratado em cartões postais e obras artísticas. Deste ângulo, de certa distância, pode ser visto junto com a histórica Ponte de Pedra e o Monumento aos Açorianos, formando um conjunto que lhe acrescenta significado como um símbolo da cidade, apesar de, tendo ficado incompleto, apresentar detalhes bastante insatisfatórios. O presente trabalho analisa a presença e significação da obra em questão na cidade, considerando formas de representação da obra na imprensa e por outros meios, como cartões postais.</abstract>
+        <abstract locale="en_US">The Administrative Centre of the State of Rio Grande do Sul, in Porto Alegre, was designed in 1972 by Charles René Hugaud, Ivânio Fontoura, Leopoldo Constanzo e Luís Carlos Macchi Silva, and reached its present size in the mid-1980s. Its highest structure was partially built, reaching 22 of the intended 32 storeys. Other parts of the complex were also not completed as designed. The main building material which characterizes its formal expression is concrete. With its singular form, with two identical volumes positioned in an antimetrical way in relation to the tower of the elevators, each of these two volumes being made up of horizontal stripes of glass and concrete flanked by vertical and curved concrete walls at opposite sides, the incomplete 22 storey building became a marking element in the townscape of Porto Alegre. Situated in an area reclaimed from the Guaíba River, at the south of the peninsula where the city centre is located, it stands in an ample, open space, being highly visible and appearing as the most conspicuous element. The attention is especially caught by its curved silhouette. Although it may be seen from all sides, the angle from which the general form is perceived most clearly is from the northeast, angle from which it is usually seen in postcards and works of art. From the northeast, from a distance, it may be seen together with the historical Stone Bridge and the Monument to the Azoreans, forming an ensemble which adds meaning to it as a symbol of the city, despite the fact that, having remained incomplete, it presents details which are quite unsatisfactory. The present work analyzes the presence and significance of this building in the city, considering forms of representation in the press and by other means, such as postcards.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Centro Administrativo do Estado do Rio Grande do Sul</keyword>
+          <keyword>concreto armado</keyword>
+          <keyword>significado na paisagem</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Administrative Centre of the State of Rio Grande do Sul</keyword>
+          <keyword>reinforced concrete</keyword>
+          <keyword>meaning in the townscape</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Holmer</givenname>
+            <familyname locale="pt_BR">Fiore</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>fiore@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9222-2695</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsul02-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Máquinas de Vender Máquinas</title>
+        <subtitle locale="pt_BR">formas aerodinâmicas em revendas de automóveis e oficinas mecânicas em Caxias do Sul</subtitle>
+        <abstract locale="pt_BR">Formas sinuosas e aerodinâmicas caracterizam a maior parte das revendas de automóveis e oficinas mecânicas construídas em Caxias do Sul, Rio Grande do Sul, nas décadas de 1940 e 50. Buscando corresponder ao arrojo formal dos automóveis que ali eram comercializados, inicialmente, esses edifícios assumiram uma linguagem Art Déco com inflexão expressionista e, a partir do domínio do concreto armado, arriscaram inusitadas experiências estruturais com linguagem modernista. No conjunto, esses exemplares assumiram um certo papel de vanguarda na cidade, introduzindo um vocabulário arquitetônico que foi sendo gradativamente assimilado e incorporado pela população (COSTA, 2001; SEGAWA, 1999). Entre diversos exemplares com estes programas, o edifício da Brasdiesel (1958) merece especial atenção, pela complexidade do programa e tentativa de expressão escultórica do concreto. Por ter um programa similar ao industrial, o edifício ensaia a racionalização do sistema estrutural, reticulando pilares e vigas, que buscam alcançar grandes vãos livres. Diante do possível valor patrimonial destes edifícios, este trabalho objetiva identificá-los e examinar como incorporaram o uso do concreto e, mais especificamente, como a Brasdiesel explora as possibilidades escultóricas de seu uso. Uma pesquisa iconográfica inicial sobre os referidos edifícios permite analisar suas semelhanças e especificidades. A partir de uma breve revisão bibliográfica, busca-se discutir as experiências estruturais com o uso do concreto na arquitetura moderna brasileira e a ocorrência de programas arquitetônicos similares no Brasil e no Rio Grande do Sul. De modo conclusivo, é discutida a relação entre a produção caxiense, gaúcha e brasileira. Em Caxias do Sul, com o uso do concreto, a arquitetura das concessionárias ganhou expressão e, ao mesmo tempo, deu expressão ao produto comercializado. Tornou-se promotora de um tipo de publicidade, como “uma máquina de vender máquinas”.</abstract>
+        <abstract locale="en_US">Curvilinear and aerodynamical forms mark the majority of car dealerships and autoshops built in Caxias do Sul, Rio Grande do Sul, in the 1940s and 1950s. Trying to reflect the design audacity of the cars sold there, at first these buildings used an Art Deco language with an expressionist flavor, and after the dominance of the concrete structures, they would carry unusual structural modernist experimentations. As a whole these buildings would assume a certain avant-gard role in the city, introducing an architectural vocabulary that would be gradually assimilated by the population (COSTA, 2001; SEGAWA, 1999). Among several examples, the Brasdiesel (1958) building deserves special attention due to the complexity of its program and to its use of concrete as a sculptural expression. As its architectural program was close to an industrial model, for instance, the building’s design experimented with the rationalization of the structural system, setting a grid for columns and beams to cover large free spans. Referring to possible patrimony value of these buildings, this work aims to identify them and examines their use of concrete, focusing on how the Brasdiesel building used its sculptural capacity. An initial iconographic study of these buildings leads to the analysis of similarities and specificities. A brief literature review sets the context of these experiments with concrete structures in modern Brazilian architecture and the existence of similar architectural programs in Brazil and in Rio Grande do Sul. The paper concludes with a discussion on the relationships between the production of such architectural vocabulary in the national, state, and local contexts. In Caxias do Sul, with the use of concrete, the architecture of the dealerships got and, at the same time, gave expression to the marketed product. It became promoter of a type of advertising, as &quot;a machine to sell machines.&quot;</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>concessionárias</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>car dealerships</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elísia da</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <affiliation locale="pt_BR">UCS</affiliation>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4829-5699</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsul02-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A casa unifamiliar em Florianópolis</title>
+        <subtitle locale="pt_BR">um modo de ser moderno</subtitle>
+        <abstract locale="pt_BR">Florianópolis, na década de 50, era uma pequena cidade que procurava reafirmar-se, no cenário local e nacional, como capital do Estado de Santa Catarina. Para tanto, foi necessário criar uma nova imagem de cidade em pleno progresso. A arquitetura mostrou-se como ferramenta eficaz neste processo e o centro da cidade foi o palco escolhido. Novos edifícios com linguagem modernista - símbolo de desenvolvimento no Brasil naqueles anos - começaram a ser construídos. O uso do concreto armado foi trazido para a Ilha aos poucos. Não por falta de vontade por parte dos profissionais que atuavam na região - atentos às novidades trazidas pelas revistas de arquitetura - mas sim, pela dificuldade de encontrar o material e pela falta de mão de obra qualificada para tratar com o mesmo. Apesar de todas as dificuldades e limitações, os novos edifícios conseguiam retratar uma vontade de ser modernos. A cidade foi crescendo e novos loteamentos surgiram em algumas regiões centrais que naquela época ainda eram ocupadas por chácaras. Novas casas foram construídas nestes loteamentos, geralmente para famílias abastadas, atentas ao ciclo desenvolvimentista que percorria todo o país. Estas famílias procuravam arquitetos que construíssem de uma maneira mais &quot;limpa&quot;, ou seja, com linguagem modernista. O presente trabalho aborda o assunto analisando alguns exemplares residenciais, localizados em um destes loteamentos, e construídos nesta época de transição, na qual a casa tradicional , com paredes auto- portantes, deu lugar à moderna, construída com estrutura de concreto armado. Serão apresentados dois projetos que trazem, em maior ou menor grau, linguagem modernista. O objetivo deste estudo, além de resgatar a qualidade destes projetos, é enfatizar sua importância histórica, tanto para Florianópolis, quanto para o Brasil, por retratarem a difusão da arquitetura moderna pelo país.</abstract>
+        <abstract locale="en_US">This work approaches the subject by showing some examples of houses located in one of the lots mentioned, built during those times of changes, when the traditional houses with its self-supporting walls gave place to the modern model of house, structured with reinforced concrete. Two architecture plans will be presented, carrying the modern language in a bigger or smaller degree. The purpose of the study, more than rescuing and evidencing the quality of the projects, is to emphasize their historical relevance, not only to Florianopolis but to Brazil itself, by portraiting the spreading of the modern architecture over the country.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>inventário</keyword>
+          <keyword>projeto arquitetônico residencial</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Inventory</keyword>
+          <keyword>Architecture house plan</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Josicler Orbem</givenname>
+            <familyname locale="pt_BR">Alberton</familyname>
+            <affiliation locale="pt_BR">UNIVALI</affiliation>
+            <country>BR</country>
+            <email>arquiteta.josicler@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0001-8645-2013</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsul02-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Composição de planos no edifício Annes Dias nº 154</title>
+        <abstract locale="pt_BR">O trabalho compreende uma análise morfológica sistemática do edifício de escritórios Annes Dias no 154, de autoria do arquiteto argentino Armando d’Ans, construído em 1955, situado na região central de Porto Alegre, RS, Brasil. O objeto da análise insere-se entre a segunda e a última partição cronológica proposta para o II Seminário DOCOMOMO Sul, intitulado Plasticidade e Industrialização na Arquitetura do Cone Sul Americano. Estruturado em concreto armado, o edifício Annes Dias no 154 pode ser entendido como uma “composição de planos em intersecção”, que, segundo Colin Rowe em seu ensaio Chicago Frame, referindo-se às operações wrightianas para concepção de formas, afirma que “se trata de uma das questões mais importantes da arquitetura no século XX”. A análise morfológica do edifício pretende lançar uma visada objetiva sobre o mesmo, a partir de critérios previamente estabelecidos, quais sejam: tipo, implantação, altura, estrutura, circulações, geometria básica, composição tripartite – em base, corpo e coroamento –, balanços estruturais, e, por fim, fechamentos externos. Como hipótese a ser confirmada, o trabalho oferece a oposição estabelecida à vertente corbusiana de composição – vide ossatura Dom-ino e Cinco Pontos de uma Nova Arquitetura – , que pressupõe a sucessiva justaposição de lajes trespassadas por colunas, que ora se desnudam, ora se eclipsam pelos fechamentos externos. Tais operações não se verificam no edifício Annes Dias no 154, e, por isso mesmo, o tornam valioso no contexto da Arquitetura Moderna no período em questão.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Moderna</keyword>
+          <keyword>planos</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe de Souza L.</givenname>
+            <familyname locale="pt_BR">Pacheco</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>pacheco.felipe@terra.com.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul02-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">O concreto na pré-fabricação</title>
+        <subtitle locale="pt_BR">a construção da Universidade de Brasília</subtitle>
+        <abstract locale="pt_BR">2 O concreto na pré-fabricação: a construção da Universidade de Brasília Em 1970 foi lançado o documentário didático chamado Universidade de Brasília: Primeira experiência em pré-moldado (1962-70), realizado por Heinz Forthmann que teve como assessor técnico João Filgueiras Lima. Ele foi produzido dentro de um contexto em que a pré-fabricação era entendida como uma nova possibilidade para a arquitetura no país. Foi em meio a estas questões que a Universidade de Brasília foi criada em 1960 e esta tecnologia tornou-se um dos motes principais de seus edifícios. Quando esta Universidade estava iniciando suas atividades acadêmicas, em 1962, foi também criado o Centro de Planejamento (CEPLAN) com o objetivo intervir em todas as questões relacionadas à arquitetura na UnB, seja esta entendida sob seu aspecto construtivo ou acadêmico. Este centro tornou-se uma base de trabalho de Oscar Niemeyer em Brasília. Mas já havia, logo no início da concepção do CEPLAN, uma outra função: criar um grande centro de construção industrializada, um centro de tecnologia que seria usado pela universidade. Este artigo apresenta uma fase pouco analisada da obra de Oscar Niemeyer quando, ao lado de João Filgueiras Lima, desenvolveu inúmeras obras tendo como base a tecnologia da pré-fabricação. O percurso adotado para a análise parte do resgate dos principais projetos desenvolvidos para a UnB tendo como destaque o projeto do Instituto Central de Ciências do arquiteto Oscar Niemeyer. Este projeto tornou-se a matriz de diversos outros do mesmo arquiteto no Brasil e no Exterior e, além de se destacar como uma das grandes estruturas pré-fabricadas feitas no Brasil, ainda representa o acesso do país aos debates internacionais nas áreas de arquitetura e educação no campo das universidades naquela época. Para este estudo, portanto, foram analisadas as publicações nacionais e internacionais com o intuito de visualizar os limites e as possibilidades dos debates que ocorriam sobre o tema na década de 1960. Através de uma abordagem comparada, percebe-se as semelhanças e singularidades do projeto da UnB e entende-se sua contribuição efetiva no panorama nacional e internacional.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>UnB</keyword>
+          <keyword>pré-fabricação</keyword>
+          <keyword>Oscar Niemeyer</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Klaus Chaves</givenname>
+            <familyname locale="pt_BR">Alberto</familyname>
+            <affiliation locale="pt_BR">CES-JF</affiliation>
+            <country>BR</country>
+            <email>klauschavesalberto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-2845-8307</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul02-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">A caixa de concreto para a casa do aço</title>
+        <subtitle locale="pt_BR">Escritório-Parque Usiminas</subtitle>
+        <abstract locale="pt_BR">Bons exemplos de transcendência ao uso exclusivamente estrutural do concreto armado sempre foram comuns na Arquitetura Moderna. É possível elencar um vasto número de experiências empregando esse material dúctil e resistente, demonstrando seu vigor e plasticidade e a capacidade que demonstra ter de ser reinventado a cada obra, chegando-se à criação de arquiteturas tão simples quanto sofisticadas. Com peculiar refinamento plástico e um conhecimento programático-funcional adquirido por décadas no exercício profissional, o húngaro radicado em Belo Horizonte, Brasil, István Farkasvölgyi (1933-2005), dedicou- se a desenvolver sua arquitetura buscando afirmar uma linguagem pessoal que, inscrita sob o signo das principais referências arquitetônicas de sua época, obteve resultados peculiares e de grande interesse. Neste estudo serão destacados dois momentos importantes de suas realizações empregando extensivamente o concreto armado aparente, ambos de início dos anos 1970: o edifício-sede da Usiminas e um conjunto de edifícios residenciais em Belo Horizonte. Algumas modificações físicas vêm sendo incorporadas ao edifício-sede da Usiminas e é premente a necessidade de se re-valorizar essa obra como patrimônio da arquitetura moderna brasileira para incrementar uma atitude de respeito pelas suas características peculiares. A série de edifícios de apartamentos tem resultados de alta qualidade e excelente habitabilidade, muito valorizados até os dias de hoje por seus usuários, todos compartilhando em comum os materiais utilizados e a estrutura e demais elementos em concreto deixado à vista. A tônica que permeia suas obras está na maneira especial de se conceber a estrutura, atribuindo ao concreto um papel importante como elemento de caracterização plástica e aproveitamento máximo em cuidadosos detalhes. Suas obras residenciais são queridas e bem usadas pelos seus proprietários, ao menos no que tange à sua aparência exterior e áreas comuns, embora tenham sofrido pequenas e toleráveis modificações, considerando-se seu uso estritamente privativo, ao contrário da Usiminas, de uso público e de responsabilidade social.</abstract>
+        <abstract locale="en_US">Good examples of surpassing the merely structural use of reinforced concrete have always been common in modern architecture. It is possible to cast a vast number of experiments making use of this resistant and ductile material, proving its stiffness and plasticity and the capacity it demonstrates to be reinvented on every new project, making possible the creation of not only simple but also sophisticated works of architecture. With a peculiar plastic refinement and a functional-programmatic knowledge acquired during decades of professional exercise, the Hungarian rooted in Belo Horizonte, Brazil, István Farkasvölgyi (1933-2005) devoted himself to develop his architecture in the search to express a personal language that, inscribed under the label of the main architectonic references in his lifetime, achieved unique results of significant interest. In this study two important moments of his extensively apparent reinforced concrete use will be highlighted, both from the beginning of the 70’s: the building of Usiminas’ headquarters and a set of residential buildings in Belo Horizonte. Some physical alterations have been being incorporated to the Usiminas’ headquarters, and it is imperative to reevaluate this building as a Brazilian modern architecture heritage to stimulate an attitude of respect for its peculiar attributes. The set of residential buildings showed results of high quality and excellent habitability, much recognized by its dwellers up to these days. All of the buildings share the same materials, the structure and the remaining apparent concrete elements. The hallmark of Farkasvölgyi´s work is the special way he conceived the structure, attributing to concrete an important role as an element of plastic characteristics and maximum exploitation in careful details. His residential works are beloved and well employed by their dwellers, at least in their exterior aspect and common areas, although they have suffered minor and tolerable alterations, considering its strictly private use, in opposition to the Usiminas’ Headquarters, considered of public use and social responsibility.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto armado</keyword>
+          <keyword>expressão plástica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>2 reinforced concrete</keyword>
+          <keyword>plastic expression A caixa de concreto para a casa do aço: Escritório-Parque Usiminas Bons exemplos de transcendência ao uso exclusivamente estrutural do concreto armado sempre foram comuns na Arquitetura Moderna. É possível elencar um vasto número de experiências empregando esse material dúctil e resistente</keyword>
+          <keyword>demonstrando seu vigor e plasticidade e a capacidade que demonstra ter de ser reinventado a cada obra</keyword>
+          <keyword>ceombinando-se sua maleabilidade estrutural e funcional com suas possibilidades formais</keyword>
+          <keyword>através da exploração de texturas</keyword>
+          <keyword>relevos</keyword>
+          <keyword>opacidades</keyword>
+          <keyword>brilhos</keyword>
+          <keyword>rugosidades</keyword>
+          <keyword>transparências e cores - chegando-se à criação de arquiteturas tão simples quanto sofisticadas. A receita fica mais potente se combinada com cuidadosas relações métricas internas à obra visando se obter razões proporcionais corretas entre as partes envolvidas</keyword>
+          <keyword>potencializando as questões compositivas enquanto ingrediente enriquecedor dos resultados</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Álvaro Pompeiano de Magalhães</givenname>
+            <familyname locale="pt_BR">Drummond</familyname>
+            <affiliation locale="pt_BR">EA-UFMG</affiliation>
+            <country>BR</country>
+            <email>alvarodru@hotmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul02-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Paisagens Desoladas</title>
+        <subtitle locale="pt_BR">Quatro Máscaras de Concreto em Deriva</subtitle>
+        <abstract locale="pt_BR">PAISAGENS DESOLADAS Quatro Máscaras de Concreto em Deriva Pode-se entender quatro construções em concreto armado como objetos em deriva pelo Planalto Central do Brasil? Todas elas configuram situações que entendemos como de difícil ancoragem, “máscaras” do que foram ou do que deveriam ser ao criarem lugares em zonas urbanas cambiantes e limítrofes. O autor, Paulo Mendes da Rocha, premiado com o II Prêmio Mies van der Rohe de Arquitetura Latino-americana (2000) e o Prêmio Pritzker (2006). Em deriva estão: o Jóquei Clube de Goiás (1962), a residência Bento Odilon Moreira (1963), o Estádio Serra Dourada (1973) e o Terminal Rodoviário (1986). Propõe-se aqui uma reflexão sobre as contingências que pairam sobre estas quatro obras neste início do século XXI, suas promessas, mal-entendidos e dissabores. Este argumento se desenvolve com o suporte de imagens atuais, que ajudam a tecer suas histórias e ilustram suas situações, revelando que as características singulares parecem não ter sido entendidas no contexto cultural da cidade, durante todos estes anos. São projetos nos quais a escala do tecido urbano não se submete aquilo que é normativo, mas a uma releitura topológica do lugar. Neles, o avanço da cidade sobre o território existente estabelece novas regras implícitas que, ao conformarem novas “paisagens urbanas”, colocam em cheque qualquer condição de continuidade que não dialogue com a nova pré-existência. São antigos vazios, terrains vagues, que foram transpostos por edificios-episódios urbanos, criando novas e próprias tensões. Sugerem e materializam o entendimento de que toda a cidade também é feita de exceções e não somente produto da regra.</abstract>
+        <abstract locale="en_US">DESOLATE LANDSCAPES Four Concrete Masks in The Dèrive Can we take four buildings in reinforced concrete on Brazil’s central plateau as objects in the dérive? All of them configure situations that we understand as of a difficult anchorage, “masks” of what they were or should be when create places in changing and limited urban zones. The author Paulo Mendes da Rocha was awarded a prize in the II Prize Mies van der Rohe of Architecture Latin American (2000) and in Prize Pritzker (2006). A dérive are found: Jóquei Clube de Goiás (1962), Bento Odilon Moreira’s residence (1963), Estádio Serra Dourada (1973), and Terminal Rodoviário (1986). What is proposed here is a reflection of the contingencies that, on the beginning of the 21st century, maintain the projects’ promises, misunderstandings and displeasures. The argument is developed with the actual images’ support, that help to weave its histories and that still illustrate its actual situation, revealing that its singular characteristics, in between all those years, seam not to have been understood in the cultural context of the city. They are projects which urban’ scales does not submit to what is normative, but to a new topological reading of the space. The advancement of the city over the existent territory in these projects establishes new implicit rules that, when forming new “urban landscapes”, challenge any possibility of continuity that is not a new pre-existence. They are ancient empty spaces, terrains vagues that were transported to urban episode-buildings, creating some new and proper tensions. The projects suggest and materialize the understanding that all cities are also made of exceptions and it’s not only a product of a rule.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>cultura arquitetônica</keyword>
+          <keyword>espaço urbano</keyword>
+          <keyword>imaginário urbano</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architectural culture</keyword>
+          <keyword>urban space</keyword>
+          <keyword>urban imaginary</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Artur</givenname>
+            <familyname locale="pt_BR">D'Aló Frota</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>arturfav@yahoo.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eline Maria Moura Pereira</givenname>
+            <familyname locale="pt_BR">Caixeta</familyname>
+            <affiliation locale="pt_BR">UCG</affiliation>
+            <country>BR</country>
+            <email>caixeta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9147-3927</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Christine Ramos</givenname>
+            <familyname locale="pt_BR">Mahler</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>christinermahler@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-4565-5556</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul02-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">O concreto na linguagem de Oscar Niemeyer</title>
+        <abstract locale="pt_BR">Este trabalho descreve a relação do concreto armado com as estratégias compositivas utilizadas pelo arquiteto Oscar Niemeyer. A partir modelo de Gramática de formas, aborda-se o uso do concreto como um dos componentes da semântica e sintaxe empregadas na linguagem arquitetônica de Niemeyer. A gramática que codifica a linguagem de Niemeyer tem sido explorada em pesquisas recentes [Mayer, 2003; Mayer, Turkienicz, 2005a; 2006] onde são examinados edifícios produzidos por Niemeyer a partir de 1943 identificando: 1. o concreto mediando a relação entre vocabulário (semântica) e forma arquitetônica resultante (sintaxe). 2. diferenças e semelhanças na linguagem de Niemeyer no uso do concreto durante todo o período. O estudo demonstrou que a plasticidade do concreto permitiu a Niemeyer atingir múltiplos objetivos relacionados à percepção e a relação da forma arquitetônica com o programa e o contexto: a] liberdade Plástica b] exploração do aparente paradoxo entre o concreto e a percepção de leveza; c] unidade plástica; d] percepção espacial de contraste e] a relação com o ambiente Como desenvolvimento do estudo sugere-se que a adoção de abordagens generativas sobre precedentes arquitetônicos poderiam ser úteis para a validação de hipóteses sobre a relação entre vocabulario e sintaxe na linguagem arquitetônica de Niemeyer .</abstract>
+        <abstract locale="en_US">This paper describes the relationship of reinforced concrete with the compositional strategies used by the architect Oscar Niemeyer. From model of Shape Grammar, approaches the use of concrete as a component of semantics and syntax employed in architectural language of Niemeyer. The grammar that codifies Niemeyer’s language has been exploited in recent research [Mayer, 2003; Mayer, Turkienicz, 2005a; 2005b; 2006] where buildings designed by Niemeyer from 1943 was examined in order to identify: 1. the concrete mediating the relationship between vocabulary (semantics) and resulting architectural shape (syntax). 2. The differences and similarities in the use of concrete in the language of Niemeyer during the studied period. The study has shown that the plasticity of the concrete allowed Niemeyer to achieve multiple goals related to the perception of shape and the relationship with the program and architectural context: a] plastic freedom b] in the perception of lightness c] in the relation with the landscape d] in the perception of spatial contrast e] in the plastic unity As possible development suggests that, the generative approach on architectural precedents study could be useful in the validation of various hypotheses on the relationship between vocabulary and syntax of Niemeyer architectural language.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>linguagem</keyword>
+          <keyword>gramática</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Niemeyer</keyword>
+          <keyword>grammar</keyword>
+          <keyword>language</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rosirene</givenname>
+            <familyname locale="pt_BR">Mayer</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>mayer@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Benamy</givenname>
+            <familyname locale="pt_BR">Turkienicz</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>turkienicz@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3675-5408</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsul02-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Estrutura e construção do Ministério da Educação e Saúde Pública</title>
+        <abstract locale="pt_BR">O estudo faz também um resgate do material gráfico existente nos arquivos do IPHAN que tratam da estrutura do Ministério (onde dados dimensionais e projetuais são de autoria do próprio Baumgart), juntamente com imagens da obra na década de 1940. Com o auxílio deste material, foi gerada uma série de representações tridimensionais da estrutura, que além do esqueleto também compreende as lâminas verticais dos quebra- sóis da fachada norte, as fundações rasas e as empenas cegas das fachadas leste e oeste (que funcionam como contraventamento).</abstract>
+        <abstract locale="en_US">The theme of this article is the construction and structure of reinforced concrete in the current building Gustavo Capanema in Rio de Janeiro, which was headquarters of the Ministry of Education and Public Health to change the federal capital to Brasilia. The project of the Ministry had as the main structural challenges bracing the building, connecting the floor with pilotis the block of exhibitions, the bark of coverage of the auditorium and reduced thickness of the slab block of offices - which should provide a free roof of beams or capitals, as the current practice in most modern designs. Moreover, should also deal of constructive precedence of each of the elements above and apply them in the design of Emilio Baumgart, engineer responsible for the structural part of the building. The study is also a redemption of existing graphic material in the archives of IPHAN which deal with the structure of the Ministry (where dimensional and design data by Baumgart), along with images of the work in the 40’s. With the aid of this material was generated a series of three-dimensional representations of the structure, which besides the skeleton also includes the slides of vertical brises, foundations and blind facades of east and west (which function as bracing).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>Ministério</keyword>
+          <keyword>estrutura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>concrete</keyword>
+          <keyword>Ministry</keyword>
+          <keyword>structure</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsul02-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Niemeyer e Artigas</title>
+        <subtitle locale="pt_BR">aproximações e divergências na busca da expressão formal da estrutura</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <affiliation locale="pt_BR">UNISINOS</affiliation>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alex Carvalho</givenname>
+            <familyname locale="pt_BR">Brino</familyname>
+            <affiliation locale="pt_BR">UNIVATES</affiliation>
+            <country>BR</country>
+            <email>brino@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0004-9497-2691</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsul02-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">O Edifício Teruszkin</title>
+        <abstract locale="pt_BR">O Edifício Teruszkin, com 19 pavimentos, localizado no centro de Porto Alegre, projetado em 1958 pela arquiteta Ivone Manske e pelo engenheiro Paulo Levacov, se insere na década e meia revisionista que questiona uma unidade ortodoxa a partir de meados dos anos 1950 mas segue, desde o ponto de vista compositivo, os preceitos corbuseanos desenvolvidos no Brasil pela Escola Carioca. Adota o tipo arquitetônico desenvolvido a partir da Lever House: uma torre de escritórios sobre uma base comercial articulada ao passeio público. Em sua configuração, transparece o paradoxo da plasticidade X industrialização surgida a partir da ambivalência própria do concreto armado: Sua capacidade em instrumentar a padronização dos elementos de arquitetura, supostamente passíveis de produção em série e em massa se revela no sistema estrutural reticulado do edifício, sobretudo na torre, expressão máxima do triunfo da técnica sobre a natureza. A fachada modular da base, com esquadrias de alumínio é análoga à dos edifícios corbuseanos da década de 1930, que representam um giro em relação às villas da década de 1920. (FRAMPTON, 1997) A plasticidade do material, ou seja, a capacidade de moldar-se a diversas formas, constituindo veículo de expressão escultórica, aparece nos extremos do edifício e na transição entre torre e base, em marquises e pilares diferenciados revestidos de granito ou pastilhas cerâmicas coloridas. Apesar da sua qualidade construtiva e compositiva, semelhante aos edifícios modernistas que, a partir dos anos 1950, verticalizam o centro da cidade sobre bases majestosas contextualizadas com a cidade tradicional, o Edifício Teruszkin é pouco conhecido e nunca foi publicado. Acredita-se que, através da sua documentação e análise crítica, este e outros exemplares similares e até então anônimos possam ser incorporados ao patrimônio moderno, contribuindo com sua valorização e preservação.</abstract>
+        <abstract locale="en_US">With 21 pavements downtown, the Teruszkin building was projected in 1958, by the architect Ivone Manske and the engineer Paulo Levacov. This building is inserted in the revisionist movement of the decade. It questions an orthodox unity from the 1950’s on, and on the other hand, follows the principles of Le Corbusier from the point of composition developed in Brazil by the Cariocan School. They adopt the architectonic type of Lever House: an office tower over a commercial basis articulated to the public side walk. Its configuration, however shows a paradox of plasticity vs industrialization resulting from the ambivalence of the steel concrete itself. Their skill to deal with the standardization of the elements of architecture to be produced in large scale, is revealed through the structural reticular system in the building, in the tower overall, as the utmost expression of triumph over nature. The modulated façade of the basis, with aluminium frames is similar to the Corbusian buildings of the 1930’s decade, representing a turn-over as to the Villas of the 1920’s decade. (FRAMPTON, 1997): The Plasticity of the materials or better, the capacity of moulding different shapes giving way to sculptural expressions which appears on the extremes of the building and the transition between tower and basis, in marquees and differentiated pillars, covered in granite or colored ceramic pastilles. The Teruszkin building is not well known in spite of its modernist constructive and compositive quality, wich from the 1950’s on, verticalized downtown on majestic basis, contextualized with the traditional city. We believe that through documentation and critical analysis this building and many others alike, anonymous, might be incorporated into modern patrimony as a contributing factor for their evaluation and preservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>edifício</keyword>
+          <keyword>moderno</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>building</keyword>
+          <keyword>modern</keyword>
+          <keyword>steel concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andréa Soler</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>andreasolermachado@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0243-7946</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsul02-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Da Refinaria à Secretaria</title>
+        <subtitle locale="pt_BR">racionalismo estrutural, socialismo nacional e modernismo regional em obras públicas de Fayet, Araújo &amp; Moojen - 1962 a 1970</subtitle>
+        <abstract locale="pt_BR">A idéia de Arquitetura Moderna Gaúcha não se desenvolveu em termos de sistemas compositivos e elementos formais próprios, suficientes para sustentação de escola arquitetônica regional irradiadora e de um corpo disciplinar hereditário que fizesse jus à uma identidade formal. Em obras inaugurais de determinados expedientes da Arquitetura Moderna no Rio Grande do Sul, como a Refinaria Alberto Pasqualini (Canoas, 1962-68), de Carlos Fayet, Cláudio Araújo, Moacyr Moojen Marques e Miguel Pereira, epítetos de comedimento, rigor, racionalidade, economicidade, pragmatismo, frugalismo e sobriedade dão vazão à certa maneira de compreender e proceder mediante o problema arquitetônico, reveladora dos pormenores da Arquitetura Brasileira no sul. Se na Petrobrás o movimento “O petróleo é nosso” encontrou arquitetos simpáticos à corrente social da qual a Arquitetura Moderna Brasileira era uma causa, no projeto para a SMOV (Moojen, Vallandro e Ferreira, 1966), os meios arquitetônicos racionalizados, a idéia de arquitetura e urbanismo modernos como ferramentas sociais renovadoras e o exercício do oficio competente, encontraram uma das sedes. Projetada no aterro, para abrigar a nova Secretaria Municipal de Obras e Viação, graças ao crescimento do planejamento conseqüente da realização e implantação do plano de 1959, a idéia de um edifício próprio para as secretarias foi uma iniciativa dos funcionários. A necessidade funcional e o caráter simbólico implícito sustentaram os mesmos postulados de racionalidade conceptiva da Petrobrás, neste caso mais determinado pelo axioma da flexibilidade espacial e possibilidade de apropriação pelos usuários, como nas investigações modulares de Aldo van Eick, do que a horizontalidade e vazio da planta livre disposta pelo vão misieano. Composição acadêmica de base, piano nobile e ático, modulação severa, exus-esqueletus racionalizado, planta livre, integração de sistemas e instalações à arquitetura, pré-fabricação em concreto, uso de elementos industrializados, prestam tributo a Frank Lloyd Wright, Mies ou Le Corbusier, mas como conseqüência.</abstract>
+        <abstract locale="en_US">The idea of a “Gaucha” Modern Architecture was not developed on its own formal elements and composition systems, sufficient to support a regional, spreading architectural experience and a hereditary disciplinar corpus that could be worth of a formal identity. Certain inaugural works of Rio Grande do Sul Modern Architecture, like Alberto Pasqualini Refinery (Canoas, 1962-68), designed by Carlos Fayet, Claudio Araujo, Moacyr Moojen Marques and Miguel Pereira, allow manners of understanding and proceeding through the architectural problem by epithets of rigorousness, rationality, economicity, pragmatism and sobriety, unmasking particularities of South Brazilian Architecture. If “Oil is Ours” movement at Petrobras had supporter architects of the social thought which had the Brazilian Modern Architecture as a purpose, at the same time the SMOV project (Moojen, Vallandro and Ferreira, 1966) was representative of a rational architecture, including the concept of modern architecture and urbanism as regenerating social tools and also a competent professional practice. Built over a landfill, the new Municipal Office of Works and Traffic headquarters was an initiative leaded by its own public functionaries, due to the expansion allowed by the application of 1959 Director Plan. Functional requirements and an implicit symbolic character supported the same rational concept applied at Petrobras, but in this case determined more by spatial flexibility and user’s adaptation – like Aldo van Eyck modular investigations – than Miesian free-plan voids and horizontality. Academic composition of basement, piano nobile and attic; rigorous modulation; rational exoskeleton; free-plan; integration between architecture, installations and subsystems; precast concrete; industrialized elements – all these items can be seen as tributes to Frank Lloyd Wright, Mies or Corbusier, but as a consequence.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura no Sul</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>South Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sérgio Moacir</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <affiliation locale="pt_BR">FA-UFRGS</affiliation>
+            <country>BR</country>
+            <email>marques@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0355-7923</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsul02-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Pilotis, pilar, pilastra</title>
+        <subtitle locale="pt_BR">variações brasileiras</subtitle>
+        <abstract locale="pt_BR">Pilotis, pilar, pilastra: variações brasileiras Este trabalho discute a proposição do pilotis por Le Corbusier no contexto dos Cinco Pontos da arquitetura, destacando a adoção original de Lucio Costa de pilares livres na base do edifício como recurso compositivo inteiramente distinto. Se para Le Corbusier os pilotis assumem caráter imaterial ao delimitar o vazio que “eleva” a edificação do solo, em aparente contradição com a materialidade do concreto armado que dá forma à estrutura independente, para Lucio Costa a seqüência de pilares constitui reinterpretação de um repertório arquitetônico que evoca a sala hipóstila, o pórtico, a colunata. Nesse sentido, em oposição à atitude vanguardista de rejeição dos modos tradicionais de composição, o arquiteto brasileiro inova sem afastar-se da noção de continuidade histórica de uma “nova arquitetura” que parte das práticas que a antecederam.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>pilotis</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>composição arquitetônica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>pilotis</keyword>
+          <keyword>modernisme</keyword>
+          <keyword>composition architecturale</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rogério de Castro</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>oliveira@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsul02-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Tecnologia das construções em cascas</title>
+        <abstract locale="pt_BR">Esta pesquisa avalia a evolução do processo de construção das cascas em concreto armado através de uma análise comparativa de projetos onde a forma da casca foi o elemento determinante na concepção arquitetônica, construídos entre 1950 e 1960, com projetos onde a modelagem em elementos finitos determinou a forma, construídos entre 1970 e 1980. A pesquisa foi realizada em conjunto com a análise de projetos de arquitetos renomados como Píer Luigi Nervi, Felix Candela em comparação com a tecnologia utilizada na arquitetura paulista por arquitetos como Miguel Juliano e Jorge Wilhem no projeto do Palácio das Convenções do Anhembi. Cada um à sua maneira procurou soluções arquitetônicas onde a estrutura tem um papel preponderante, e se valeram essencialmente das estruturas espaciais em cascas. Apesar das construções em cascas de concreto serem consideradas marcos arquitetônico deixaram de ser construídas ao longo do tempo devido a fatores que vão desde o custo de construção com formas e escoramentos até o custo de manutenção das grandes superfícies com impermeabilização e conseqüentemente com corrosão da armadura. A pesquisa conclui que as construções em cascas sofrerão um novo impulso, a partir da evolução da tecnologia do concreto com o desenvolvimento do micro-concreto estrutural menos poroso que os concretos utilizados no período de 50 a 70, e da evolução dos programas por elemento finitos que permitirá modelagens das cascas em diferentes formas.</abstract>
+        <abstract locale="en_US">This research evaluates the evolution of the process of reinforced concrete shells roofs' construction through a comparative analysis of projects where the form of the shells was the decisive element in the architectural conception, built from 1950 to1960, with projects where the numerical simulation in finite elements determined the form, built from 1970 to1980. The research was accomplished together with the analysis of renowned architects' projects like Píer Luigi Nervi, Félix Candela in comparison to the technology used in the architecture from São Paulo by architects as Miguel Juliano and Jorge Wilhem in the project of the Palace of the Conventions of Anhembi. Each one did his own way and tried architectural solutions where the structure has a preponderant paper, and they were both essential to the space structures in shells. This was done despite the fact that the constructions in concrete shells have been considered architectural marks, they were not built any longer due to some factors that vary from the construction cost with forms and supports to the cost of maintenance of the great surfaces with making them waterproof and consequently with steel's corrosion. The research concludes that the shells' constructions will give a new pulse, starting from the concrete's technology evolution with the less porous structural development of the personal computer-concrete than the concretes used in the period from 50 to 70, and the evolution of the programs for finite element that will allow a numerical simulation of the shells in different forms.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>coberturas em casca</keyword>
+          <keyword>estruturas em cascas</keyword>
+          <keyword>cascas de concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>shells roofs</keyword>
+          <keyword>shell structure</keyword>
+          <keyword>reinforced concrete shell</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Célia Regina Moretti</givenname>
+            <familyname locale="pt_BR">Meirelles</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>cerellesm@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4477-3895</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Hernán</givenname>
+            <familyname locale="pt_BR">Medrano</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>medrano@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Henrique</givenname>
+            <familyname locale="pt_BR">Dinis</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>dinis@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3683-5707</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsul02-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Arquitetura Moderna, Patrimônio Histórico e concreto armado</title>
+        <abstract locale="pt_BR">O exame das relações entre o ideário do Movimento Moderno no Brasil e sua repercussão na formação do acervo e na prática de preservação do Patrimônio Histórico brasileiro constitui o ponto de partida para o exame de obras de restauração realizadas em São Paulo. Esta análise se concentra na utilização de estruturas de concreto armado para a consolidação de edifícios antigos, tanto em seus pressupostos e como em suas implicações.</abstract>
+        <abstract locale="en_US">The relations between the Brazilian Modern Movement ideals and its influence on the establishment of a set of samples for being preserved and its conservation practice are the main concern of the analysis developed. The approach is concentrated on the use of reinforced concrete structures for building conservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>patrimônio histórico</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsul02-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Opus caementicius</title>
+        <subtitle locale="pt_BR">da insuspeita sutileza das pedras brutas</subtitle>
+        <abstract locale="pt_BR">O grande sucesso e aceitação do concreto, desde as primeiras versões do material obtidas na Antiguidade, deveu-se a grande plasticidade da mistura e à sua capacidade de endurecimento , levando à obtenção de uma &quot;pedra artificial&quot; de forte resistência. A arquitetura denominada brutalista, na sua reiterada afirmação da verdade estrutural e construtiva, toma o nome da imagem do concreto aparente, a partir da sua denominação em francês, béton brut. O texto pretende levantar questões sobre a brutalidade consensual do concreto aparente, através de breves considerações sobre a origem construtiva e etimológica da palavra, demorando-se especialmente nas superfícies trabalhadas esteticamente fazendose uso de diferentes recursos de revestimento e textura. No contexto dessa discussão, analisa-se o projeto e o processo construtivo da torre da caixa d´água do SESC- fábrica da Pompéia, projeto de Lina Bo Bardi.</abstract>
+        <abstract locale="en_US">The word Brutalism comes from the French word for rough concrete - béton brut. A sense of brutality is suggested by heavy structures, but mainly by unrefined molded surfaces, often using off-form concrete that reveals timber markings. This paper examines the provenance of the concrete construction techniques and include questions about the hardness of the concrete; the methods for texturing a concrete surface and for manipulating color and texture; rustication versus stereotomy; architectural concrete used to express sculptural forms, details and textural impressions. The question of appearance of the concrete is debated in terms of applied decoration and aesthetics research. In this context, the paper concludes with a discussion on Lina Bardi´s design for the cylindrical water tower of the Sesc-fábrica da Pompéia.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>brutalidade e verdade do concreto</keyword>
+          <keyword>estetização do concreto bruto</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cecília Rodrigues</givenname>
+            <familyname locale="pt_BR">dos Santos</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsul02-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Belo e suave, bruto e sublime</title>
+        <subtitle locale="pt_BR">notas sobre a plasticidade do concreto armado brasileiro</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Dias</givenname>
+            <familyname locale="pt_BR">Comas</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>ccomas@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-7368-7603</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsul02-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Vanguarda com gelo</title>
+        <subtitle locale="pt_BR">concreto aparente e gosto eclético</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marta Silveira</givenname>
+            <familyname locale="pt_BR">Peixoto</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>marta@martapeixoto.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2213-7740</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsul02-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Hormigón, Industrialización, Vivienda</title>
+        <subtitle locale="pt_BR">Sert y la Ciudad de los Motores</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Alberto Ferreira</givenname>
+            <familyname locale="pt_BR">Martins</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>cmartins@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0003-4321-2057</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

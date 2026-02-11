@@ -320,6 +320,24 @@ curl -s -b /tmp/wp_cookies.txt \
 
 O OJS 3.3 usa um formato XML específico para importação em lote (Native XML Plugin). A estrutura abaixo foi validada a partir de exports reais do sistema.
 
+### Padrões e recomendações da documentação PKP
+
+Fontes: [Code4Lib/Oregon State migration](https://journal.code4lib.org/articles/15988), [PKP Forum](https://forum.pkp.sfu.ca/t/native-xml-plugin-import-file-size-error/29542), [pkp-lib #7898](https://github.com/pkp/pkp-lib/issues/7898), [pkp-lib #3276](https://github.com/pkp/pkp-lib/issues/3276)
+
+| Aspecto | Recomendação |
+|---------|-------------|
+| Aspecto | Recomendação |
+|---------|-------------|
+| Agrupamento (só metadados) | **1 XML por issue** (edição/seminário) funciona quando não há PDFs embutidos. Migração Code4Lib importou 93 issues inteiras assim |
+| Agrupamento (com PDFs) | **1 artigo por XML**. PDFs em base64 aumentam ~37% o tamanho; um seminário com 65 PDFs de 2MB cada geraria ~170MB, muito acima do limite. Abordagem validada no sdbr12 (82 XMLs, 1 artigo cada) |
+| Tamanho máximo upload | Padrão **8 MB** (definido por `upload_max_filesize` e `post_max_size` do PHP, não pelo plugin). Configurável pelo admin do servidor |
+| Issues múltiplas | **Nunca 2+ issues no mesmo XML** — pode causar corrupção no banco (limitação documentada) |
+| Importação via web | Sujeita a timeout de sessão e rate limiting. Na prática, falha após ~6-7 importações consecutivas mesmo com XMLs pequenos (~100-500KB). Importação de 850 artigos sem PDFs levou 2h+ e não completou. Funciona para lotes muito pequenos (3-5 XMLs) com delays de 10-30s |
+| Importação via CLI | `php tools/importExport.php NativeImportExportPlugin import arquivo.xml journal_path admin_user` — evita todos os problemas de sessão web. Requer SSH. Disponível no teste, **não disponível na produção** |
+| Validação | Erros de importação nem sempre são claros. Testar com 1-2 XMLs antes de rodar o lote completo |
+| Pós-importação | A "edição atual" (current issue) precisa ser definida manualmente |
+| Submissões órfãs | Importações falhadas podem deixar submissões sem publicação. Verificar com: `SELECT s.submission_id FROM submissions s LEFT JOIN publications p ON s.current_publication_id = p.publication_id WHERE p.publication_id IS NULL` |
+
 ### Estrutura geral do arquivo
 
 ```xml

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdrj04" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdrj04</id>
+  <description locale="pt_BR">4º Seminário Docomomo Rio: anais: o moderno no Rio: do risco ao risco [recurso eletrônico] / organização: Andréa de Lacerda Pessôa Borde, Maria Helena Röhe Salomon, Renato da Gama-Rosa Costa. Rio de Janeiro: Núcleo Docomomo Rio, 2018. 279 p. ISBN 978-85-88027-42-8</description>
+  <issue_identification>
+    <volume>4</volume>
+    <number>4</number>
+    <year>2017</year>
+    <title locale="pt_BR">4º Seminário Docomomo Rio, Rio de Janeiro, 2017</title>
+  </issue_identification>
+  <date_published>2017-10-31</date_published>
+  <last_modified>2017-10-31</last_modified>
+  <sections>
+    <section ref="E1-sdrj04" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">73</id>
+      <abbrev locale="pt_BR">E1-sdrj04</abbrev>
+      <title locale="pt_BR">Eixo 1 — O risco moderno no Rio</title>
+    </section>
+    <section ref="E2-sdrj04" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">74</id>
+      <abbrev locale="pt_BR">E2-sdrj04</abbrev>
+      <title locale="pt_BR">Eixo 2 — O moderno em risco no Rio</title>
+    </section>
+    <section ref="SEC75-sdrj04" seq="2" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">75</id>
+      <abbrev locale="pt_BR">SEC75-sdrj04</abbrev>
+      <title locale="pt_BR">Workshop</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdrj04-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">A Casa Lota de Macedo Soares</title>
+        <subtitle locale="pt_BR">contribuições modernas na arquitetura contemporânea carioca</subtitle>
+        <abstract locale="pt_BR">Este artigo busca construir um comparativo entre duas residências: a Casa Lota (Arq. Sérgio Bernardes) e a Casa Varanda (Arq. Carla Juaçaba). A primeira, considerada exemplar da arquitetura moderna, e a segunda, uma referência contemporânea carioca. O método de comparação possibilitou observar as aproximações entre as duas residências, bem como a relação entre arquiteturas modernas e contemporâneas, através de análise gráfica e textual. Autores como Ching (1993), Clark &amp; Pause (1997) e Florio (2002) serviram de base para esta investigação. O redesenho dos projetos e a análise dos princípios de forma, espaço e ordem auxiliaram na elaboração de diagramas sintéticos interpretativos, sobre os quais foram desenvolvidos textos que explicam e questionam os aspectos de cada proposta. O discurso dos problemas, das soluções, bem como das lições de arquitetura de cada estudo de caso permitiu a apreciação do papel do projeto como portador de ideias e intenções. Assim, podese dizer que a relevância deste estudo não reside somente na pesquisa histórica, crítica e projetual, mas também em um contexto mais amplo da arquitetura moderna brasileira.</abstract>
+        <abstract locale="en_US">This article seeks to build a comparative between two residences: The Lota House (Architect Sérgio Bernardes) and The Varanda House (Architect Carla Juaçaba). The first one, considered an example of modern architecture, and the second, a contemporary reference. The comparison method allows to observe the approximations between the residences, as well as the relation between modern and contemporary architectures in Rio de Janeiro. Authors such as Ching (1993), Clark &amp; Pause (1997) and Florio (2002) served as the basis for this research. The redesign of the projects and the principles of shape, space and order helped in the production of interpretative synthetic diagrams, on which texts were elaborated that explain and question the aspects of each proposal. The speech, as well as the architecture lessons of each case study allowed the appreciation of the project role as the carrier of ideas and intentions. It is possible to say that the relevance of this article does not reside only in the theoretical framework, critical and project, but also in a wider context of the Brazilian modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Residencial Moderna</keyword>
+          <keyword>Sérgio Bernardes</keyword>
+          <keyword>Análise Gráfica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Residential Architecture</keyword>
+          <keyword>Sérgio Bernardes</keyword>
+          <keyword>Graphic Analyses</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Pauline Fonini</givenname>
+            <familyname locale="pt_BR">Felin</familyname>
+            <affiliation locale="pt_BR">UCS</affiliation>
+            <country>BR</country>
+            <email>felin@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Monika Maria</givenname>
+            <familyname locale="pt_BR">Stumpp</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>stumpp@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5017-770X</orcid>
+          </author>
+        </authors>
+        <pages>9-25</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdrj04-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">O apartamento carioca na década de 1920 e o primeiro edifício moderno de habitação coletiva</title>
+        <abstract locale="pt_BR">O artigo analisa o início da produção de edifícios de apartamentos pela iniciativa privada no município do Rio de Janeiro, ao longo da década de 1920. Serão analisados os projetos das unidades habitacionais do Edifício Praia do Flamengo (1923), Edifício Glória (1924), Edifício Tamandaré (1928), Edifício Itaoca (1928), Edifício Barão de São Félix (1929), Edifício Paissandú (1929) e Edifício Morro de Santo Antônio (1929). A organização funcional das plantas aponta para a existência de um período de definição programática e de especialização nos espaços internos dos apartamentos, que nas décadas seguintes se consolidou e foi amplamente difundido com o padrão burguês de tripartição em áreas social, íntima e de serviços. Especialmente, o artigo analisará o projeto do Edifício Morro de Santo Antônio, de autoria do arquiteto Marcelo Roberto. Estilisticamente vinculado à produção internacional do modernista, o edifício de sete pavimentos, térreo comercial e unidades duplex reflete de maneira emblemática as contradições e inovações que marcaram o período inicial de produção de apartamentos na cidade.</abstract>
+        <abstract locale="en_US">The article analyses the beginning of the production of apartment buildings by the private sector in the municipality of Rio de Janeiro during the 1920s. The study analyzes the projects of the dwellings of the Praia do Flamengo Building (1923), Glória Building (1924), Tamandaré Building (1928), Itaoca Building (1928), Barão de São Félix Building (1929), Paissandú Building (1929) and Morro de Santo Antônio Building (1929). The functional organization of the floor plans points to the existence of a period of programmatic and zoning definition in the internal spaces of the apartments, which in the following decades was consolidated and widely diffused with the bourgeois standard of tripartism in social, intimate and service sectors. Specifically, the article analyzes the project of the Morro de Santo Antônio Building, by the architect Marcelo Roberto. Stylistically linked to the international production of the modern movement, the seven-storey building, with commercial ground floor and duplex units reflect in an emblematic way the contradictions and innovations that marked the initial period of production of apartments in this city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>apartamento</keyword>
+          <keyword>habitação coletiva</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>apartment</keyword>
+          <keyword>collective housing</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tatiana de Souza</givenname>
+            <familyname locale="pt_BR">Gaspar</familyname>
+            <country>BR</country>
+            <email>gaspar@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>26-44</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdrj04-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Contribuição à questão do gênero na habitação e no urbanismo modernos no Rio de Janeiro</title>
+        <subtitle locale="pt_BR">Carmen Portinho</subtitle>
+        <abstract locale="pt_BR">Este trabalho é parte da tese de doutorado desenvolvida pela autora e propõe a análise da trajetória teórica e profissional de uma mulher pioneira da arquitetura e do urbanismo modernos no Rio de Janeiro sob o atual enfoque da perspectiva de gênero. A aproximação à teoria e à prática do trabalho de Carmen Portinho oferece visibilidade a uma figura de crucial importância para a emancipação feminina e para o desenvolvimento da política de habitação social e o planejamento urbano da nossa cidade. Graças a seu pensamento feminista a engenheira e planejadora urbana coloca muita atenção às necessidades de mulheres e crianças. Sua obra vai abordar temas amplamente tratados nos Estados Unidos e na Europa a partir do período entre guerras com destaque aos conceitos discutidos nos primeiros Congressos Internacionais de Arquitetura Moderna (CIAMs). Se por um lado, a analise da produção de políticas e projetos habitacionais nos leva a detectar um claro posicionamento sobre uma nova maneira de viver a cidade, por outro, a perspectiva de gênero torna-se uma ferramenta valiosa para o projeto urbano da habitação. A luta pela igualdade de gênero é um direito humano e por isso deve ser entendido como abordagem imprescindível ao direito à cidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Habitação social</keyword>
+          <keyword>Perspectiva de Gênero</keyword>
+          <keyword>Carmen Portinho. Marcela Marques Abla PROURB-FAU-UFRJ | Rio de Janeiro-RJ</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcela Marques</givenname>
+            <familyname locale="pt_BR">Abla</familyname>
+            <country>BR</country>
+            <email>abla@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>45-64</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdrj04-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Arquitetura em risco</title>
+        <subtitle locale="pt_BR">um estudo sobre a obra de Antonio Virzi no Rio de Janeiro e sua importância como patrimônio de uma moderna arquitetura carioca</subtitle>
+        <abstract locale="pt_BR">Antonio Virzi (1882-1954) contribuiu enormemente para o desenvolvimento arquitetônico e cultural do Rio de Janeiro no início do século XX. Pioneiro na construção de uma estética inovadora e original em consonância com o espírito de um novo tempo, seus projetos romperam com o academicismo historicista dominante e estabeleceram uma importante transição entre dois séculos. Apesar disso, o arquiteto ainda recebe pouco destaque na historiografia arquitetônica disponível. Desse modo, este trabalho pretende lançar luz à sua produção arquitetônica, contribuindo para a divulgação e preservação de sua obra e o reconhecimento da mesma como patrimônio (ameaçado) de uma moderna arquitetura carioca. Para isso, o artigo foi elaborado em três etapas distintas: a primeira apresenta um panorama geral sobre Antonio Virzi e seu tempo; a segunda ressalta a influência do movimento Arts and Crafts, do Art Nouveau e do Art Déco em sua obra, destacando sua importância na passagem do Ecletismo em direção ao Modernismo; a terceira e última realiza um estudo de caso do Villino Silveira (1915), abrindo perspectivas sobre a sua preservação.</abstract>
+        <abstract locale="en_US">Antonio Virzi (1882-1954) collaborated significantly to the architectural and cultural development of Rio de Janeiro in the early twentieth century. Pioneer in the execution of an innovative and original aesthetic in harmony with the spirit of a new era, his designs broke with the dominant historicist academicism and established an important transition between two centuries. Despite this, the architect still receives little attention in the architectural historiography. Thus, this work intends to clarify his architectural production, contributing to the dissemination and preservation of his work and recognition as a (threatened) patrimony of a modern Carioca architecture. For this, the article was elaborated in three distinct parts: the first part presents a general overview on Antonio Virzi and his time; the second part emphasizes the influence of Arts and Crafts movement, Art Nouveau and Art Déco in his work, pointing to his importance in the passage from Eclecticism towards Modernism; the third and last stage makes a study of Villino Silveira (1915), opening perspectives on its preservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Antonio Virzi, Arquitetura</keyword>
+          <keyword>Rio de Janeiro. Gabriel Botelho Neves da Rosa UFF / UNIGRANRIO | Niterói-RJ</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Antonio Virzi</keyword>
+          <keyword>Architecture</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gabriel Botelho Neves da</givenname>
+            <familyname locale="pt_BR">Rosa</familyname>
+            <country>BR</country>
+            <email>rosa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Giulia Gobbi Fernandes</givenname>
+            <familyname locale="pt_BR">Schiavini</familyname>
+            <country>BR</country>
+            <email>schiavini@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>65-81</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdrj04-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">A magia das imagens</title>
+        <subtitle locale="pt_BR">representações do Brasil em Brazil Builds</subtitle>
+        <abstract locale="pt_BR">O presente artigo versa sobre os processos de afirmação do Movimento Moderno no Brasil e pretende investigar de que modo o uso da fotografia pode contribuir para a afirmação de conceitos nem sempre explicitados em textos. O objeto de estudo é o seminal livro-catálogo Brazil Builds, editado em 1943 por ocasião da realização de uma exposição homônima no Museu de Arte Moderna de Nova York (MoMA), e tem como suporte teórico as reflexões formuladas por Vilém Flusser em A filosofia da caixa-preta: ensaios para uma futura filosofia da fotografia (1985). Interessa-nos examinar de que modo o referido livro-catálogo incutiu um determinado modo de se pensar a arquitetura moderna brasileira, valendo-se da análise de uma pequena amostra de projetos implantados na cidade do Rio de Janeiro. Por essa seleção de imagens pretende-se equacionar a contribuição da publicação para suprimir o tempo da narrativa, valendo-se do encantamento emanado pela fotografia.</abstract>
+        <abstract locale="en_US">This article deals with the processes of affirmation of the Modern Movement in Brazil and intends to investigate how the use of photography can contribute to the affirmation of concepts not always explicit in texts. The object of study is the seminal catalog Brazil Builds, published on the occasion of an eponymous exhibition held in 1943 at the New York Museum of Modern Art (MoMA), and has as theoretical support the reflections formulated by Vilém Flusser in A filosofia da caixa-preta: ensaios para uma futura filosofia da fotografia (1985). We are more interested in examining how the aforementioned bookcatalog instilled a certain way of thinking about modern Brazilian architecture, using a small sample of projects implanted in the city of Rio de Janeiro. Through this selection of pictures, it is intended to equate the contribution of the publication to suppress the time of the narrative, using the enchantment emanated by the photography.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>fotografia</keyword>
+          <keyword>identidade</keyword>
+          <keyword>arquitetura brasileira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>photography</keyword>
+          <keyword>identity</keyword>
+          <keyword>Brazilian architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Helio</givenname>
+            <familyname locale="pt_BR">Herbst</familyname>
+            <affiliation locale="pt_BR">UFRRJ</affiliation>
+            <country>BR</country>
+            <email>herbst@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2274-840X</orcid>
+          </author>
+        </authors>
+        <pages>82-97</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdrj04-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">A arquitetura hospitalar protomoderna no Instituto Nise da Silveira</title>
+        <abstract locale="pt_BR">O local onde hoje funciona o Instituto Municipal de Assistência à Saúde Nise da Silveira acompanhou as transformações nos conceitos relativos aos tratamentos psiquiátricos ao longo do século XX e foi, a partir de 1944, o principal centro de assistência a cidadãos com transtornos mentais no Brasil. A instituição é atualmente um dos cinco polos municipais de referência para emergência e internação, sendo responsável pela assistência à saúde mental no subúrbio carioca.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Modernismo</keyword>
+          <keyword>protomodernismo</keyword>
+          <keyword>psiquiatria</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luiz Paulo Leal de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>oliveira@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>98-121</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdrj04-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">BIM do Palácio Gustavo Capanema, Rio de Janeiro-RJ</title>
+        <subtitle locale="pt_BR">estudos da evolução histórica construtiva 1937-1945</subtitle>
+        <abstract locale="pt_BR">As ferramentas digitais estão cada vez mais integradas aos projetos arquitetônicos permitindo a criação de modelos geométricos mais fidedignos, ampliando as possibilidades de atuação profissional na área patrimonial e facilitando o acesso aos bens culturais. Nesse contexto, tornam-­se um importante instrumento no estudo da cidade e da preservação do seu patrimônio cultural arquitetônico, à medida que permitem diferentes abordagens como na aquisição de dados, destacando a fotogrametria digital, o DSM (Dense Stereo Matching) e o escaneamento a laser 3D, e também na integração desses dados, no qual destaca-­se a plataforma BIM (Building Information Modelling). Nesse sentido, a plataforma BIM é como um catalisador de tecnologias digitais permitindo incorporar no modelo dados multifuncionais, cronológicos e multi-­representação. O modelo BIM do patrimônio cultural edificado ou HBIM (Historic ou Heritage BIM) é uma forma de preservação da memória da edificação, servindo como base para projetos de restauração, intervenção e manutenção. Entretanto, no Brasil ainda são raras as pesquisas na área de BIM na preservação do patrimônio, especialmente para a arquitetura moderna. Atualmente patrimônio moderno encontra-­se em considerável risco por fatores como: a falta de proteção e tombamento;; fragilidade e pouca durabilidade das instalações e dos materiais empregados;; e a falta de conscientização de grande maioria da população em relação á preservação de obras desse período. Nesse contexto, o objetivo desse trabalho é apresentar resultados da pesquisa de investigação do processo de projeto do Palácio Gustavo Capanema 1945, importante exemplo da arquitetura moderna erguido na cidade do Rio de Janeiro, projetado pela equipe do arquiteto Lúcio Costa e consultoria do arquiteto Le Corbusier. Essa investigação será representada através da criação do modelo BIM do edifício desenvolvido a partir do levantamento cadastral de 1996 em CAD 2D, documentação histórica, medição direta, dados de fotogrametria e DSM. Os resultados são os registros das principais alterações pelas quais passou o projeto, desde a concepção em 1937 até a definição da edificação construída 1945, reunindo aspectos históricos, construtivos e cronológicos em um único modelo parametrizado. Além disso o trabalho destaca as principais dificuldades encontradas e as possibilidades oferecidas pelo uso de modelos HBIM em uma comunidade mais ampla. É possível gerar modelos para aplicações específicas, incluindo: AECO (Arquitetura, Engenharia, Construção e Operação);; instalações de museus e projetos de divulgação e também para experiências de RV (Realidade Virtual) e RA (Realidade Aumentada).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Virtual</keyword>
+          <keyword>HBIM</keyword>
+          <keyword>Tecnologias Digitais</keyword>
+          <keyword>Documentação Digital</keyword>
+          <keyword>Palácio Gustavo Capanema Cristiane Lopes Canuto Arquiteta</keyword>
+          <keyword>Mestre PROARQ/FAU/UFRJ</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Lopes</givenname>
+            <familyname locale="pt_BR">Canuto</familyname>
+            <affiliation locale="pt_BR">PROARQ-UFRJ</affiliation>
+            <country>BR</country>
+            <email>cricanuto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7341-1623</orcid>
+          </author>
+        </authors>
+        <pages>122-126</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdrj04-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2017-10-31" section_ref="E1-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">As escolas dos anos 1950</title>
+        <abstract locale="pt_BR">Os estudos da arquitetura moderna brasileira, embora citem com frequência as edificações escolares construídas no Rio de Janeiro nas décadas de 1930, 1940 e 1950, pouco revelam as razões de sua referência como um projeto modernizador tanto a nível arquitetônico quanto pedagógico. O entrelaçamento entre as diversas memórias abriu um campo de interseções de vários caminhos que formam uma rede de relações e encontros culturais, sociais, políticas que interagem dinamicamente favorecendo o enriquecimento e a formação de expressões das concepções modernas em arquitetura materializadas no Brasil. No Brasil da década de 1950 se desenvolveu com as marcas da queda do Estado Novo e pelos planos desenvolvimentistas e a esperança de que, através deles, o país superaria o atraso econômico e social. No plano federal a política se consolida e se expande com a gestão de Juscelino Kubistchek, cujo como símbolo é à mudança da capital para o interior do país com a construção de Brasília. As escolas do Distrito Federal construídas nessa década do século XX, durante um regime político democrático, que se instalou com o fim do regime autoritário do Estado Novo e com a promulgação da constituição de 1946, muito avançou em relação a forma e a função em comparação as duas décadas anteriores. Valendo-se dos princípios modernistas e, no campo pedagógico, da preocupação do governo em valorizar a função socializadora da escola, os arquitetos desse período desenvolvem projetos visando atender as necessidades de uma sociedade urbana-industrial que crescia pós-guerra. A arquitetura adquire, com isso, o papel fundamental no desenvolvimento institucional do país e inovador para história da arquitetura escolar carioca, através dos edifícios realizados no Distrito Federal entre 1952 e 1957. A arquitetura moderna com essas escolas adquire abrangência até então desconhecida. Novos e importantes rumos foram estabelecidos às edificações escolares, incorporando princípios e diretrizes em sintonia com propostas educacionais já implantadas na década de 30 e também com posturas mais avançadas – ressaltando novas características ao edifício escolar, projetado segundo os princípios da arquitetura moderna. Eram discutidas propostas para uma nova escola. Tomando-se parâmetro os modelos pedagógicos e experiências europeias, e, retomando alguns conceitos já introduzidos nas escolas de 1932: a criança como referencial central de todas as reflexões e a educação entendida de forma mais abrangente, com a incorporação das atividades complementares à educação formal, como às físicas e o bem estar corporal, aspectos fundamentais para a formação do indivíduo. Tais conceitos geram uma correspondência em termos espaciais. O espaço escolar foi enriquecido com a adequação do edifício a escala da criança, iluminados e ventilados adequadamente e integrados a natureza. As edificações escolares são construídas com estrutura em concreto armado independente, tendo muitas vezes o pavimento disposto sobre pilotis, ampliando os espaços no térreo. Nas fachadas são utilizados grandes painéis em azulejos e brisesoleil , e pilares/pilotis aparentes. Assim, reiterando a década de 30 e 40 prosseguiam os arquitetos a reflexão sobre a articulação clara e racional e a relação de continuidade entre exterior e interior agora então alcançada. Esse quadro no processo escolar realizava-se durante a intensificação do processo de industrialização e o deslocamento populacional para o subúrbio, fatores definidores dos anos 50. Foram construídas 104 novas escolas, dentre as quais encontramos exemplares significativos que materializam e articulam a simbiose entre arquitetura e educação. Nas escolas da década de 50, integração da edificação escolar com a cidade é muito mais próxima em exemplos distintos, enfatizando a busca dos arquitetos e dos educadores de incorpora a escola à malha urbana, como um importante equipamento urbano. Nessa realidade, pretendemos discorrer sobre os processos que geraram a materialização dessas edificações, bem como, sua relação com a cidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura escolar</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>arquitetura moderna carioca</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Noemia Lucia Barradas</givenname>
+            <familyname locale="pt_BR">Fernandes</familyname>
+            <country>BR</country>
+            <email>fernandes@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4088-1805</orcid>
+          </author>
+        </authors>
+        <pages>127-133</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdrj04-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Riscos para o Patrimônio Moderno na cidade do Rio de Janeiro influenciados pelas mudanças climáticas</title>
+        <abstract locale="pt_BR">O tema das mudanças climáticas tem sido foco de pesquisas em vários campos do conhecimento, como saúde e meio ambiente, mas em relação ao patrimônio cultural as discussões no cenário nacional ainda se encontram muito restritas. O objetivo do presente trabalho é apresentar os cenários previstos para a cidade do Rio de Janeiro considerando os impactos das mudanças climáticas e analisar de que forma as alterações podem afetar os edifícios e sítios históricos modernos existentes na cidade, levando em conta suas características e vulnerabilidades. As pesquisas indicam a possibilidade de aumento da temperatura do ar, da intensidade e quantidade de chuva, da frequência de eventos meteorológicos extremos e do nível do mar. A combinação entre os cenários previstos e as características específicas da arquitetura moderna carioca – tais como a ausência de elementos tradicionais de proteção contra as intempéries; o uso extensivo de concreto armado; a combinação de técnicas modernas e materiais tradicionais; e a proximidade com o mar – representam ameaças que podem impactar significativamente esses bens. Nesse contexto, a adoção de abordagens preventivas focadas na gestão dos riscos identificados revela-se fundamental para garantir a conservação do patrimônio moderno carioca.</abstract>
+        <abstract locale="en_US">Climate change has been the focus of research in various fields of knowledge, such as health and environment, but in relation to cultural heritage discussions on the national scene are still very restricted. The objective of this paper is to present the scenarios for the city of Rio de Janeiro considering the impacts of climate change and to analyze how changes can impact modern buildings and sites, taking into account their characteristics and vulnerabilities. Research indicates the possibility of increasing in air temperature; rainfall intensity and amount; frequency of extreme weather events and sea level rise. The combination of the predicted scenarios and the specific characteristics of modern Rio architecture - such as the absence of traditional elements of protection against the weather; the extensive use of reinforced concrete; the combination of modern techniques and traditional materials; and proximity to the sea - represent threats that can significantly impact these assets. In this context, the adoption of preventive approaches focused on the management of identified risks proves to be fundamental to guarantee the conservation of Rio’s modern heritage.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>gestão de riscos</keyword>
+          <keyword>mudanças climáticas</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>risk management</keyword>
+          <keyword>climate change</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carla Maria Teixeira</givenname>
+            <familyname locale="pt_BR">Coelho</familyname>
+            <country>BR</country>
+            <email>coelho@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>134-149</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdrj04-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Usos contemporâneos do Patrimônio Moderno da saúde</title>
+        <subtitle locale="pt_BR">o caso do Albergue da Boa Vontade e do Instituto Vital Brazil</subtitle>
+        <abstract locale="pt_BR">O objetivo do artigo é contribuir para o debate sobre o uso contemporâneo dos edifícios modernos projetados para atender a um programa específico relacionado à saúde. Pretende-se apresentar e refletir sobre os casos específicos do Albergue da Boa Vontade (Rio de Janeiro) e do Instituto Vital Brazil (Niterói).</abstract>
+        <abstract locale="en_US">This paper aims to contribute to the debate on the contemporary use of modern buildings designed to meet a specific health-related program. It intends to present and reflect upon the specific cases of Albergue da Boa Vontade (Rio de Janeiro, Brazil) and Instituto Vital Brazil (Niterói, Brazil).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Moderno da Saúde</keyword>
+          <keyword>Albergue da Boa Vontade</keyword>
+          <keyword>Instituto Vital Brazil</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Heritage of Health</keyword>
+          <keyword>Albergue da Boa Vontade</keyword>
+          <keyword>Instituto Vital Brazil</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Barbara Cortizo de</givenname>
+            <familyname locale="pt_BR">Aguiar</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>aguiar@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Priscila Fonseca da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>sem-email-5@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Rosana Soares</givenname>
+            <familyname locale="pt_BR">Zouain</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>zouain@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1227-2228</orcid>
+          </author>
+        </authors>
+        <pages>150-167</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdrj04-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Desafios da preservação do Patrimônio Moderno</title>
+        <subtitle locale="pt_BR">o caso do Pavilhão Arthur Neiva</subtitle>
+        <abstract locale="pt_BR">Pretende-se, com este artigo, apresentar o Pavilhão Arthur Neiva, os principais estudos e intervenções realizados desde sua construção, e a análise do seu estado de conservação, a fim de contribuir para os recentes debates sobre os riscos, vulnerabilidades e desafios que envolvem a preservação do patrimônio moderno no Brasil na atualidade.</abstract>
+        <abstract locale="en_US">The aim of this article is to present the Arthur Neiva Pavilion, the main studies and interventions carried out since its construction, and the analysis of its conservation status, in order to contribute to the recent debates on the risks, vulnerabilities and challenges that involve the preservation of modern heritage in Brazil today.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio moderno</keyword>
+          <keyword>Pavilhão Arthur Neiva</keyword>
+          <keyword>Plano de conservação preventiva</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern heritage</keyword>
+          <keyword>Arthur Neiva Pavilion</keyword>
+          <keyword>Preventive Conservation Plan</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Barbara Cortizo de</givenname>
+            <familyname locale="pt_BR">Aguiar</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>aguiar@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Elisabete Edelvita Chaves da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>esilva@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Inês El-Jaick</givenname>
+            <familyname locale="pt_BR">Andrade</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>andrade@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9012-6421</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Rosana Soares</givenname>
+            <familyname locale="pt_BR">Zouain</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>zouain@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1227-2228</orcid>
+          </author>
+        </authors>
+        <pages>168-184</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdrj04-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Preservação da arquitetura moderna</title>
+        <subtitle locale="pt_BR">a Cidade Universitária da UFRJ</subtitle>
+        <abstract locale="pt_BR">As Cidades Universitárias no Brasil foram um grande campo de experimentação e atuação da arquitetura moderna. A Universidade do Brasil1 é um marco nessa trajetória, pois configura o ponto de partida do projeto educacional e político na tentativa da criação de um modelo para as Cidades Universitárias Brasileiras, encampado pelo Ministro Gustavo Capanema quando a frente do Ministério da Educação.</abstract>
+        <abstract locale="en_US">The University campuses in Brazil were a great field of experimentation and modern architecture. The University of Brazil is a historic mark in this trajectory, since it constitutes the starting point of the educational and political project in the attempt to create a model for the Brazilian University Cities, chaired by the Minister Gustavo Capanema while in the Ministry of Education.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Preservação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Cidade Universitária</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Preservation</keyword>
+          <keyword>Modern architecture</keyword>
+          <keyword>University campus</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Patricia Cavalcante</givenname>
+            <familyname locale="pt_BR">Cordeiro</familyname>
+            <country>BR</country>
+            <email>cordeiro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>185-200</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdrj04-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Preservação da arquitetura moderna na Fundação Oswaldo Cruz</title>
+        <subtitle locale="pt_BR">o caso do antigo Pavilhão da Febre Amarela</subtitle>
+        <abstract locale="pt_BR">A presente comunicação pretende contribuir para o debate sobre os desafios relacionados à preservação da arquitetura moderna, a partir da apresentação do estudo que vem sendo realizado sobre o antigo Pavilhão da Febre Amarela (atual Pavilhão Henrique Aragão), construído entre 1954 e 1960, no campus da Fundação Oswaldo Cruz (Fiocruz) em Manguinhos, no Rio de Janeiro.</abstract>
+        <abstract locale="en_US">This paper intends to contribute to the debate on the challenges related to the preservation of modern architecture, based on the presentation of the study that has been carried out on the Yellow Fever Pavilion (known as Henrique Aragão Pavilion), built between 1954 and 1960 at the Oswaldo Cruz Foundation (Fiocruz) campus in Manguinhos, Rio de Janeiro.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio moderno</keyword>
+          <keyword>conservação preventiva</keyword>
+          <keyword>Pavilhão da Febre Amarela</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern heritage</keyword>
+          <keyword>preventive conservation</keyword>
+          <keyword>Yellow Fever Pavilion Rosana Soares Zaouain Departamento de Patrimônio Histórico da Casa de Oswaldo Cruz/Fiocruz (DPH/COC/Fiocruz) | Rio de Janeiro- RJ| rosana.zouain@fiocruz.br</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rosana Soares</givenname>
+            <familyname locale="pt_BR">Zouain</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>zouain@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1227-2228</orcid>
+          </author>
+        </authors>
+        <pages>201-217</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdrj04-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">O Moderno Modesto Carioca, mas nem tanto</title>
+        <subtitle locale="pt_BR">do risco ao risco</subtitle>
+        <abstract locale="pt_BR">O presente artigo pretende atualizar a discussão do conceito de modesto no âmbito da Arquitetura Moderna do Rio de Janeiro, apresentada no 8º Seminário DOCOMOMO Brasil (2009). Este debate amplia a base de ideias que se apoia nas definições de manifestações arquitetônicas modestas, presentes na literatura especializada de conservação de áreas urbanas.</abstract>
+        <abstract locale="en_US">This article intends to update the discussion of the concept of modest Modern Architecture of Rio de Janeiro, presented at the 8th Seminar DOCOMOMO Brazil (2009). This debate will broaden the ideas which are based on the definitions of lesser buildings, presented in the specialized literature of conservation of urban areas.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura modesta</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Rio de Janeiro City</keyword>
+          <keyword>Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julio Cesar Ribeiro</givenname>
+            <familyname locale="pt_BR">Sampaio</familyname>
+            <affiliation locale="pt_BR">UFRRJ</affiliation>
+            <country>BR</country>
+            <email>sampaio@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8923-2606</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Claudio Antonio Santos Lima</givenname>
+            <familyname locale="pt_BR">Carlos</familyname>
+            <country>BR</country>
+            <email>carlos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Cristiane Souza</givenname>
+            <familyname locale="pt_BR">Gonçalves</familyname>
+            <country>BR</country>
+            <email>goncalves@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>218-234</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdrj04-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Edifício Jorge Machado Moreira</title>
+        <subtitle locale="pt_BR">Movimento Moderno em chamas</subtitle>
+        <abstract locale="pt_BR">O Edifício Jorge Machado Moreira, onde funciona a FAU, a Reitoria e outras unidades acadêmicas e administrativas da UFRJ, é um marco da Escola Carioca de arquitetura moderna. Desgastado pela crônica falta de manutenção e, obsoleto em seus sistemas prediais, o prédio há muito precisa de reformas.</abstract>
+        <abstract locale="en_US">The Jorge Machado Moreira Building, where the FAU, the Rectory and other academic and administrative units of UFRJ operate, is a landmark of the Carioca School of modern architecture. Worn out by the chronic lack of maintenance and obsolete in its systems, the building, has long, needs repairs.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>Jorge Machado Moreira</keyword>
+          <keyword>restauração</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>Jorge Machado Moreira</keyword>
+          <keyword>restoration</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paulo</givenname>
+            <familyname locale="pt_BR">Jardim</familyname>
+            <country>BR</country>
+            <email>jardim@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>235-256</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdrj04-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2017-10-31" section_ref="E2-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Parque do Flamengo</title>
+        <subtitle locale="pt_BR">patrimônio paisagístico moderno para a contemporaneidade</subtitle>
+        <abstract locale="pt_BR">O presente trabalho desenvolve um ensaio sobre o processo de preservação do patrimônio moderno e dinâmicas paisagísticas através do Parque do Flamengo. O objetivo da reflexão de construir argumentos para defender uma mudança no processo de tombamento do espaço livre público, a fim de promover sua potencialização e a vitalidade social na contemporaneidade, mantendo as premissas políticas e projetuais do projeto moderno, bem como preservar o traço original de Burle Marx. Este trabalho tem como objetivo então estudar o parque como uma paisagem contemporânea, entendendo quais são os elementos originais do projeto da década de 1960, quais são as variações posteriores ao projeto que geraram a paisagem atual, quais são os problemas paisagísticos gerados pelo abandono e quais seriam as transformações necessárias ao parque para potencializar os ideais projetuais de espaço público sem descaracterizar os padrões do desenho moderno. Por esta razão trabalha-se o conceito de estrutura paisagística, identificando os elementos espaciais em camadas articuladas, comparando o projeto original ao estado atual da paisagem. A hipótese defendida pelo estudo é a de que a manutenção, o aprofundamento quanto às qualidades paisagísticas e a consolidação quando ao ideal projetado destes elementos espaciais seria uma possibilidade mais eficiente para a preservação do patrimônio moderno paisagístico, se comparados a abordagens teóricas similares à analise de estruturas arquitetônicas. O problema da preservação fica claro ao longo do debate público quanto a Marina da Gloria, onde os órgãos de patrimônio defendiam a conversão do espaço, mesmo que não atendidas as previsão conceituais do projeto original, frente a uma pressão política e econômica pela transformação de um trecho do parque, que no fim das contas ocorreu também sem considerar as estruturas projetadas e as existentes. Vinicius Ferreira Mattos, MSc Laboratório de Patrimônio Cultural e Cidade Contemporânea, PROURB / UFRJ - Rio de Janeiro vinicius.ferreira.mattos@gmail.com INTRODUÇÃO O presente trabalho desenvolve um ensaio sobre o processo de preservação do patrimônio moderno e dinâmicas paisagísticas através do Parque do Flamengo. O objetivo da reflexão de construir argumentos para defender uma mudança no processo de tombamento do espaço livre público, a fim de promover sua potencialização e a vitalidade social na contemporaneidade, mantendo as premissas políticas e projetuais do projeto moderno, bem como preservar o traço original de Burle Marx. Este trabalho tem como objetivo então estudar o parque como uma paisagem contemporânea, entendendo quais são os elementos originais do projeto da década de 1960, quais são as variações posteriores ao projeto que geraram a paisagem atual, quais são os problemas paisagísticos gerados pelo abandono e quais seriam as transformações necessárias ao parque para potencializar os ideais projetuais de espaço público sem descaracterizar os padrões do desenho moderno. Por esta razão trabalha-se o conceito de estrutura paisagística, identificando os elementos espaciais em camadas articuladas, comparando o projeto original ao estado atual da paisagem A hipótese defendida pelo estudo é a de que a manutenção, o aprofundamento quanto às qualidades paisagísticas e a consolidação quando ao ideal projetado destes elementos espaciais seria uma possibilidade mais eficiente para a preservação do patrimônio moderno paisagístico, se comparados a abordagens teóricas similares à análise de estruturas arquitetônicas. O problema da preservação fica claro ao longo do debate público quanto a Marina da Glória, onde os órgãos de patrimônio defendiam a conversão do espaço, mesmo que não atendidas as previsões conceituais do projeto original, frente a uma pressão política e econômica pela transformação de um trecho do parque, que no fim das contas ocorreu também sem considerar as estruturas projetadas e as existentes. Quanto ao percurso do trabalho, são apresentadas uma imersão histórica e uma abordagem projetual empírica, baseada na observação da paisagem contemporânea e do projeto paisagístico original. Assim apresenta-se um breve quadro teórico sobre o problema da preservação patrimonial do espaço público, como a teoria da arquitetura da paisagem compreende o conceito de espaço público e quais são os dispositivos projetuais necessários para uma aproximação contemporânea. Partindo destes dispositivos o estudo aborda o processo histórico de transformação da paisagem e de consolidação do projeto, analisando relatos da época e os documentos apresentados pelos autores no processo de tombamento. Depois o estudo se foca na análise da estrutura paisagística, levantando cada um dos elementos em camadas e apresentando suas questões espaciais, funcionais, técnicas e formais através de uma breve descrição e de diagramas. São levantados como camadas o aterro, as vias pedonais e rodoviárias, os espaços superfícies, a massa vegetal e os elementos edificados. Na quarta etapa são organizadas propostas de transformação da paisagem, apresentando suas justificativas espaciais relacionadas às estruturas paisagísticas, quais serão seus impactos, positivos e negativos sobre a preservação do patrimônio. O PATRIMÔNIO E O PAISAGISMO CONTEMPORÂNEO A dificuldade do debate sobre a preservação de patrimônios culturais e arquitetônicos e espaços públicos está na contradição existente entre o valor de um determinado momento histórico e a necessidade da apropriação humana cultural para a valorização do público. Esta cultura e o modo com o que observamos o patrimônio estão em constante mudança, assim outra característica que ressalta esta dificuldade é que, como argumentada por Carlos Nelson1, são estes espaços públicos os locais da contradição e da prática política, desde o início da civilização ocidental, espaços que se transformam a medida que suas culturas se transformam. Entendido o espaço como um espaço público, sua preservação deve, a priori, se basear na preservação do bem público como este espaço incompleto. O paisagista Alex Wall argumenta que a paisagem urbana é resultado da relação entre as atividades urbanas e a superfície que as suporta.2 Contemporaneamente os espaços urbanos por todo o mundo estão expondo esta superfície através de uma série de novos arranjos espaciais e sociais, principalmente relacionados à escala dos territórios urbanizados, o impacto dos sistemas de transportes, os novos modos de apropriação do espaço gerados pelos novos meios de comunicação e pela predominância do consumo como um elemento social. Segundo Wall, para enfrentar e refletir sobre estes espaços em constante transformação, as SANTOS, Carlos Nelson Ferreira dos. “Preservar não é tombar; renovar não é pôr tudo abaixo” in Revista Projeto. São Paulo: Projeto, 1986 WALL, Alex. “Programming the Urban Surface” in Recovering Landscape. New York: Princeton Architectural Press, 1999 categorias tipológicas como praça ou parque perdem o sentido e propõe a possibilidade de usar como elementos funcionais que agem como dispositivos programáticos como reconstruir incorporar, conectar ou intensificar. Outro a explorar a relevância destes espaços contemporâneos para a arquitetura da paisagem é o paisagista James Corner, um dos seguidores de Iam McHarg, que apresenta uma produção teórica sobre a possibilidade de aplicação do método das chamadas paisagísticas ecológicas de McHarg (1960) para analisar e projetar os espaços culturais paisagísticos. Em seu texto Terra Fluxos3, Corner argumenta que o protagonismo do espaço público na arquitetura da paisagem contemporânea está na sua capacidade de responder aos fluxos, intensos ou rarefeitos, e na sua capacidade de ser transformar através da resposta dada ao fluxo. Assim, ao refletir sobre o projeto e o espaço livre resultante de um projeto paisagístico na contemporaneidade devemos procurar, portanto, estes dispositivos que intensificam a prática pública e entender formas de transformar aqueles que a repelem. Para isso é necessário entender os espaços como estruturas eidéticas e funcionais e analisar o seu impacto sobre a paisagem. Entendemos que este seria o papel do projeto paisagístico na contemporaneidade. Este é o ponto relevante sobre a possibilidade de preservação de um patrimônio cultural paisagístico e a necessidade de prever a sua transformação. CORNER, James. “Terra Fluxus” in Landscape Urbanism Reader. New York: Princeton Architectural Press, 2005</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vinicius Ferreira</givenname>
+            <familyname locale="pt_BR">Mattos</familyname>
+            <affiliation locale="pt_BR">PROURB-UFRJ</affiliation>
+            <country>BR</country>
+            <email>vinicius.ferreira.mattos@gmail.com</email>
+          </author>
+        </authors>
+        <pages>257-274</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2017-10-31" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdrj04-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2017-10-31" section_ref="SEC75-sdrj04" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Riscos e aprendizados do Moderno Universitário</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato</givenname>
+            <familyname locale="pt_BR">da Gama-Rosa Costa</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2569-0912</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andréa de Lacerda Pessôa</givenname>
+            <familyname locale="pt_BR">Borde</familyname>
+            <affiliation locale="pt_BR">PROURB-UFRJ</affiliation>
+            <country>BR</country>
+            <email>borde@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4169-9722</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Cristina</givenname>
+            <familyname locale="pt_BR">Coelho</familyname>
+            <affiliation locale="pt_BR">COC-Fiocruz</affiliation>
+            <country>BR</country>
+            <email>ccoelho@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>275-278</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

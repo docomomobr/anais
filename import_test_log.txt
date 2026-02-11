@@ -1,0 +1,173 @@
+Ambiente: test (https://docomomo.ojs.com.br/index.php/ojs)
+
+Login...
+CSRF: 4c57bd1b4dc9...
+
+Carregando issues do servidor...
+  55 issues encontradas
+  sdnne02: OK (33 arts, issue 2)
+  sdnne05: OK (32 arts, issue 3)
+    [sessão expirou, re-login...]
+    [sessão expirou, re-login...]
+  sdnne07: 12 issue(s), 0 arts — apagar (esperado: 65)
+    [sessão expirou, re-login...]
+    [sessão expirou, re-login...]
+  sdnne08: 5 issue(s), 0 arts — apagar (esperado: 41)
+  sdnne09: ERRO na contagem — pulando (verificar manualmente)
+    [sessão expirou, re-login...]
+  sdnne10: OK (86 arts, issue 7)
+  sdrj04: OK (17 arts, issue 1)
+  sdsp03: OK (75 arts, issue 8)
+  sdsp05: OK (69 arts, issue 9)
+  sdsp06: OK (37 arts, issue 10)
+    [sessão expirou, re-login...]
+  sdsp07: OK (43 arts, issue 11)
+    [sessão expirou, re-login...]
+  sdsp08: 4 issue(s), 8 arts — apagar (esperado: 40)
+    [sessão expirou, re-login...]
+  sdsp09: ERRO na contagem — pulando (verificar manualmente)
+  sdsul01: OK (48 arts, issue 14)
+    [sessão expirou, re-login...]
+  sdsul02: 4 issue(s), 0 arts — apagar (esperado: 35)
+    [sessão expirou, re-login...]
+  sdsul03: 5 issue(s), 0 arts — apagar (esperado: 39)
+  sdsul04: OK (46 arts, issue 17)
+  sdsul05: 4 issue(s), 0 arts — apagar (esperado: 37)
+    [sessão expirou, re-login...]
+  sdsul06: ERRO na contagem — pulando (verificar manualmente)
+    [sessão expirou, re-login...]
+  sdsul07: OK (46 arts, issue 20)
+  sdsul08: OK (51 arts, issue 21)
+
+34 issues para apagar:
+  issue 49 (sdnne07): vazia
+  issue 51 (sdnne07): vazia
+  issue 4 (sdnne07): vazia
+  issue 53 (sdnne07): vazia
+  issue 55 (sdnne07): vazia
+  issue 23 (sdnne07): vazia
+  issue 25 (sdnne07): vazia
+  issue 48 (sdnne07): vazia
+  issue 52 (sdnne07): vazia
+  issue 54 (sdnne07): vazia
+  issue 24 (sdnne07): vazia
+  issue 48 (sdnne07): vazia
+  issue 27 (sdnne08): vazia
+  issue 50 (sdnne08): vazia
+  issue 5 (sdnne08): vazia
+  issue 26 (sdnne08): vazia
+  issue 28 (sdnne08): vazia
+  issue 12 (sdsp08): vazia
+  issue 29 (sdsp08): 4 arts
+  issue 31 (sdsp08): 4 arts
+  issue 31 (sdsp08): 4 arts
+  issue 36 (sdsul02): vazia
+  issue 35 (sdsul02): vazia
+  issue 37 (sdsul02): vazia
+  issue 22 (sdsul02): vazia
+  issue 38 (sdsul03): vazia
+  issue 40 (sdsul03): vazia
+  issue 16 (sdsul03): vazia
+  issue 39 (sdsul03): vazia
+  issue 16 (sdsul03): vazia
+  issue 42 (sdsul05): vazia
+  issue 18 (sdsul05): vazia
+  issue 41 (sdsul05): vazia
+  issue 43 (sdsul05): vazia
+
+Apagando...
+    [sessão expirou, re-login...]
+    issue 49 (sdnne07) apagada
+    issue 51 (sdnne07) apagada
+    issue 4 (sdnne07) apagada
+    issue 53 (sdnne07) apagada
+    issue 55 (sdnne07) apagada
+    issue 23 (sdnne07) apagada
+    issue 25 (sdnne07) apagada
+    issue 48 (sdnne07) apagada
+    issue 52 (sdnne07) apagada
+    issue 54 (sdnne07) apagada
+    issue 24 (sdnne07) apagada
+    issue 48 (sdnne07) apagada
+    issue 27 (sdnne08) apagada
+    issue 50 (sdnne08) apagada
+    issue 5 (sdnne08) apagada
+    issue 26 (sdnne08) apagada
+    issue 28 (sdnne08) apagada
+    issue 12 (sdsp08) apagada
+    apagando 4 artigos da issue 29 (sdsp08)...
+    issue 29 (sdsp08) apagada
+    apagando 4 artigos da issue 31 (sdsp08)...
+    issue 31 (sdsp08) apagada
+    issue 31 (sdsp08) apagada
+    issue 36 (sdsul02) apagada
+    issue 35 (sdsul02) apagada
+    issue 37 (sdsul02) apagada
+    issue 22 (sdsul02) apagada
+    issue 38 (sdsul03) apagada
+    issue 40 (sdsul03) apagada
+    issue 16 (sdsul03) apagada
+    issue 39 (sdsul03) apagada
+    issue 16 (sdsul03) apagada
+    issue 42 (sdsul05) apagada
+    issue 18 (sdsul05) apagada
+    issue 41 (sdsul05) apagada
+    issue 43 (sdsul05) apagada
+Limpeza concluída.
+
+9 seminários para importar:
+
+[1/9] sdnne07 (317,070 bytes, esperado: 65 arts)
+    FALHOU: resposta vazia (sessão expirou?)
+    PARANDO. Limpando issue recém-criada...
+    issue 56 (sdnne07) apagada
+
+--- Tentativa 2026-02-11 (antes da liberação WAF) ---
+
+Upload sdsul06.xml (80KB): OK (temporaryFileId=77)
+importBounce: HTTP 200
+import (GET): resposta vazia (0 bytes). WAF interceptava a resposta.
+
+SSH testado:
+  - Porta 22: Connection timed out (96.30.204.146 e docomomo.ojs.com.br)
+  - Portas alternativas (2222, 2200, 8022, 22222, 222): todas fechadas
+
+--- Liberação Cloudflare WAF (2026-02-11) ---
+
+Solicitado ao provedor: liberar IPs no Cloudflare (Security > WAF > Tools > IP Access Rules > Allow)
+  - IPv4: 189.6.108.8
+  - IPv6: 2804:14c:6585:6b2d::/64
+Provedor confirmou atendimento.
+
+--- Tentativa 2026-02-11 (após liberação WAF) ---
+
+Teste 1 - sdsul06.xml (metadata only, 80KB):
+  Upload: OK (temporaryFileId=78)
+  Import: HTTP 500, corpo vazio, 0.73s
+
+Teste 2 - sdsp09.xml (metadata only, 109KB):
+  Upload: OK (temporaryFileId=80)
+  Import: HTTP 500, corpo vazio, 0.73s
+
+Teste 3 - sdsul06_single_v2.xml (1 artigo + PDF base64, 530KB):
+  Upload: OK (temporaryFileId=82)
+  Import: HTTP 500, corpo vazio, 0.74s
+
+Teste 4 - sdsul06.xml novamente (metadata only):
+  Upload: OK (temporaryFileId=84)
+  Import: HTTP 500, corpo vazio, 0.79s
+
+Teste com XML com PDF e ordem errada (article_galley após pages):
+  Upload: OK (temporaryFileId=81)
+  Import: HTTP 200, erro de validação XSD (esperado, ordem corrigida depois)
+
+Conclusão: WAF liberado (requests chegam ao PHP), mas o processamento de importação
+retorna HTTP 500 em TODOS os XMLs — metadata-only ou com PDF.
+Causa provável: erro no PHP do servidor (memória, banco, ou permissões).
+Solicitar ao provedor verificação dos logs de erro Apache/PHP.
+
+Issues órfãs criadas por tentativas: 58, 62, 63, 64, 65.
+DELETE via API e grid falhou (403/404). Precisam ser limpas pelo provedor ou via banco.
+
+Schema XSD documentado: ver memory/import_ojs_procedure.md.
+Ordem correta com PDF: authors → article_galley → pages (pages na extensão OJS, após representation).

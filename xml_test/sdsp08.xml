@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsp08-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Homenagem à Odiléa Toscano (1934-2015)</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sara</givenname>
+            <familyname locale="pt_BR">Goldchmit</familyname>
+            <country>BR</country>
+            <email>goldchmit@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9515-5029</orcid>
+          </author>
+        </authors>
+        <pages>19-21</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsp08-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">João Walter Toscano a partir de seu acervo</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vitor</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>lima@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">João Bittar</givenname>
+            <familyname locale="pt_BR">Fiammenghi</familyname>
+            <country>BR</country>
+            <email>fiammenghi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8810-0855</orcid>
+          </author>
+        </authors>
+        <pages>22-30</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsp08-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">O arquiteto Ubyrajara Gilioli</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jasmine Luiza Souza</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6156-4086</orcid>
+          </author>
+        </authors>
+        <pages>31-42</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsp08-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Francisco José Santoro</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Kröhling Pinheiro Borges</givenname>
+            <familyname locale="pt_BR">Bernardi</familyname>
+            <country>BR</country>
+            <email>bernardi@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maísa Fonseca</givenname>
+            <familyname locale="pt_BR">de Almeida</familyname>
+            <country>BR</country>
+            <email>almeida@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8824-1738</orcid>
+          </author>
+        </authors>
+        <pages>43-56</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsp08-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">O patrimônio arquitetônico da universidade de São Paulo</title>
+        <subtitle locale="pt_BR">o caso do campus de São Carlos</subtitle>
+        <abstract locale="pt_BR">O artigo apresenta uma análise das obras arquitetônicas do campus da USP em São Carlos, produzidas antes e depois do Plano de Ação do Governo Carvalho Pinto (PAGE) no período 1954 até 2012. Os edifícios do campus representam, em diferentes momentos, concepções culturais que constituem um patrimônio singular das linguagens arquitetônicas presentes em 68 anos da existência da Universidade na cidade. Tomase como ponto de partida o início das obras do Edifício E1 e o término da construção do Centro de Convenções na Área ll.</abstract>
+        <abstract locale="en_US">The article presents an analysis of the architectural works of the USP campus in São Carlos, produced before and after the Carvalho Pinto Government Action Plan (PAGE) from 1954 to 2012. The campus’ buildings represent, at different times, cultural conceptions that consists in a unique heritage of architectural languages present in the 68 years of USP’s existence. The starting point is the beginning of the works on Building E1 and the completion of the construction of the Convention Center in Area ll.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plano de Ação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Universidade de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Action Plan</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>University of São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia</givenname>
+            <familyname locale="pt_BR">Simabukuro</familyname>
+            <country>BR</country>
+            <email>simabukuro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0540-8366</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+        <pages>57-70</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsp08-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">Acervo do instituto de arquitetos do Brasil – departamento São Paulo (IAB-SP)</title>
+        <subtitle locale="pt_BR">estratégias e desafios de gestão e difusão documental</subtitle>
+        <abstract locale="pt_BR">O Departamento de São Paulo do Instituto de Arquitetos do Brasil (IABsp) constituiu, ao longo de sua história, um valoroso acervo documental. Os recentes esforços da equipe responsável por seu acervo têm reconhecido a importância de sua preservação e, da mesma forma, têm discutido sobre as especificidades das coleções de arquitetura e urbanismo. O presente artigo pretende, a partir do caso do IABsp, apresentar seu acervo e as estratégias empreendidas no âmbito de sua gestão e extroversão, em vias de refletir sobre os desafios colocados a arquitetas, arquitetos e urbanistas pelos acervos de nosso campo disciplinar.</abstract>
+        <abstract locale="en_US">The São Paulo Department of the Instituto de Arquitetos do Brasil (IABsp) constituted, throughout its history, a valuable documentary collection. The recent efforts of the team responsible for its collection have recognized the importance of its preservation and, in the same way, have discussed the specificities of architecture and urbanism collections. This article intends, based on the case of the IABsp, to present its collection and the strategies undertaken within the scope of its management and extroversion, in order to reflect on the challenges posed to architects and urban planners by the collections of our disciplinary field.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio</keyword>
+          <keyword>Acervo de Arquitetura e Urbanismo</keyword>
+          <keyword>Profissão</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Heritage</keyword>
+          <keyword>Architecture and Urbanism Collection</keyword>
+          <keyword>Profession</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sabrina Studart Fontenele</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Allan Pedro dos Santos</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Emerson</givenname>
+            <familyname locale="pt_BR">Fioravante</familyname>
+            <country>BR</country>
+            <email>fioravante@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>71-85</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsp08-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A escrita da historiografia da Arquitetura Moderna através da pesquisa documental em acervo de projetos</title>
+        <subtitle locale="pt_BR">um estudo sobre a cidade de Ribeirão Preto, e as possibilidades de contribuição</subtitle>
+        <abstract locale="pt_BR">Evidencia a importância da investigação documental, em especial em acervos de projetos arquitetônicos, para a escrita da historiografia da arquitetura através da experiência de pesquisa baseada no acervo do Arquivo Público e Histórico de Ribeirão Preto (APHRP). Traz para o debate projetos aprovados para a construção na cidade do interior paulista nas primeiras décadas do século XX, que mostram elementos Art Déco e de outras correntes em voga que buscavam uma nova linguagem para arquitetura. Mostra através destes projetos como a ornamentação eclética vai dando lugar para as linhas geométricas e a simplificação das fachadas, simultaneamente com o aparecimento de novas técnicas construtivas, como o caso do concreto armado na cidade, nestes anos considerados precoces, precursores ou iniciantes da formação do movimento moderno.</abstract>
+        <abstract locale="en_US">It highlights the importance of documentary research, especially in architectural project collections, for the writing of the historiography of architecture through the research experience based on the collection of the Public and Historical Archive of Ribeirão Preto (APHRP). It brings to the debate projects approved for construction in the city of São Paulo in the first decades of the 20th century, which show elements of Art Déco and other trends in vogue that sought a new language for architecture. It shows through these projects how the eclectic ornamentation gives way to geometric lines and the simplification of the facades, simultaneously with the emergence of new construction techniques, such as the case of reinforced concrete in the city, in these years considered early, precursors or beginners of the formation of the modern movement.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Pesquisa documental</keyword>
+          <keyword>Historiografia da arquitetura</keyword>
+          <keyword>Arquivo Público e Histórico de Ribeirão Preto (APHRP)</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentary research</keyword>
+          <keyword>Historiography of architecture</keyword>
+          <keyword>Public and Historical Archive of Ribeirão Preto (APHRP)</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina Gleria</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>lima@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>86-103</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsp08-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">A verticalização paulistana pelo acervo da FAUUSP</title>
+        <subtitle locale="pt_BR">uma experiência de pesquisa integrada</subtitle>
+        <abstract locale="pt_BR">Este artigo relata uma experiência de pesquisa sobre o processo de verticalização de São Paulo entre os anos de 1920 a 1957, através da análise da documentação existente nos acervos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP). O objetivo principal é compreender as soluções adotadas e suas relações com as legislações urbanísticas e códigos de obras vigentes através do exame de alguns edifícios verticais paradigmáticos da cidade. A escolha dos edifícios busca, portanto, qualificar o Acervo da FAUUSP enquanto espaço acessível de pesquisa, ensino e extensão fonte primária fundamental a inúmeras pesquisas e interpretações sobre a cidade e sua arquitetura.</abstract>
+        <abstract locale="en_US">This article reports a research experience on the verticalization process of São Paulo between the years 1920 and 1957, through the analysis of existing documentation in the funds of the Faculty of Architecture and Urbanism of the University of São Paulo (FAUUSP). The main objective is to understand the solutions adopted and their relationship with the current urban legislation and building codes through the examination of some paradigmatic vertical buildings in the city. The choice of buildings therefore seeks to qualify the FAUUSP Collection as an accessible space for research, teaching and extension, a fundamental primary source for countless investigations and interpretations of the city and its architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervo FAUUSP</keyword>
+          <keyword>Verticalização</keyword>
+          <keyword>São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>FAUUSP Collection</keyword>
+          <keyword>Verticalization</keyword>
+          <keyword>São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rebeca Guglielmo</givenname>
+            <familyname locale="pt_BR">Santana</familyname>
+            <country>BR</country>
+            <email>santana@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">André Góes Monteiro</givenname>
+            <familyname locale="pt_BR">Antonio</familyname>
+            <country>BR</country>
+            <email>antonio@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ivo Renato</givenname>
+            <familyname locale="pt_BR">Giroto</familyname>
+            <country>BR</country>
+            <email>giroto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-5062-0107</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Helena Aparecida Ayoub</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5145-5900</orcid>
+          </author>
+        </authors>
+        <pages>104-120</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsp08-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Portal digital para difusão dos acervos da FAUUSP</title>
+        <abstract locale="pt_BR">O artigo tem por objetivo apresentar o portal de difusão dos acervos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Desenvolvido com a plataforma Omeka S, a partir do qual se pode fazer o compartilhamento e a colaboração na organização dos dados e das informações organizadas e estruturadas. Como parte da discussão, apresenta o histórico do acervo e discute a importância dos arquivos e coleções de Design e Arquitetura. Apresenta também um tópico especial de metadados, especificamente o Dublin Core, padrão adotado pela FAUUSP. Os resultados são discutidos e as perspectivas para a continuidade da plataforma também são comentadas.</abstract>
+        <abstract locale="en_US">This article aims to present the site for dissemination of the collections of Faculty of Architecture and Urbanism of the University of São Paulo (FAUUSP). Developed with the Omeka S framework from which data and information are organized and structured. As part of the discussion, it summarizes the collections history and discusses the importance of Architecture and Design archives. A special topic of metadata, specifically Dublin Core, which is the standard adopted by FAUUSP. The results are discussed and the perspectives for the continuity of the platform are also commented on.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plataforma digital</keyword>
+          <keyword>Acervos</keyword>
+          <keyword>FAUUSP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Digital platform</keyword>
+          <keyword>Collections</keyword>
+          <keyword>FAUUSP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gisele Ferreira de</givenname>
+            <familyname locale="pt_BR">Brito</familyname>
+            <country>BR</country>
+            <email>brito@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-3721-8068</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eduardo Augusto</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Leandro Manuel Reis</givenname>
+            <familyname locale="pt_BR">Velloso</familyname>
+            <country>BR</country>
+            <email>velloso@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>121-135</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsp08-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Jorge Caron</title>
+        <subtitle locale="pt_BR">uma análise do acervo pessoal do arquiteto</subtitle>
+        <abstract locale="pt_BR">O presente artigo visa apresentar a pesquisa em andamento, realizada no Instituto de Arquitetura e Urbanismo da Universidade de São Paulo, referente ao manuseio, digitalização e criação do acervo digital do arquivo pessoal de Jorge Caron (1936-2000). Arquiteto e Urbanista, designer, cenógrafo, artista plástico e educador, atuou nos seus últimos dez anos de vida como professor do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos. O trabalho a seguir é uma reflexão sobre a pesquisa de acesso e digitalização de seu acervo, cuja finalidade é contribuir para a historiografia da arquitetura moderna, trazendo à luz documentos, obras e pensamentos do arquiteto, ainda pouco difundidos. Além disso, o trabalho incitou algumas questões como o debate entre o acervo físico e digital, fomentado pelo manuseio e digitalização do acervo. De certo modo, a pesquisa insere-se no panorama atual em discussão acerca dos acervos de arquitetura no Brasil.</abstract>
+        <abstract locale="en_US">This article aims to present the research in progress, carried out at the Institute of Architecture and Urbanism of the University of São Paulo, regarding the handling, digitization and creation of a digital collection of the personal archive of Jorge Caron (1936-2000). Architect and Urbanist, he has a versatile profile, working as a designer, set designer, plastic artist and educator. The access and digitization of its collection aims to contribute to the historiography of architecture, bringing to light the works of Jorge Caron. In addition, there are also some debates intrinsic to the research, such as the debate between physical and digital, fostered by the handling and digitization of the collection, and the debate about architectural collections in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Jorge Caron</keyword>
+          <keyword>Acervos de arquitetura</keyword>
+          <keyword>Acervo digital</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Jorge Caron</keyword>
+          <keyword>Architecture collections</keyword>
+          <keyword>Digital collection</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Amanda Saba</givenname>
+            <familyname locale="pt_BR">Ruggiero</familyname>
+            <country>BR</country>
+            <email>ruggiero@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8483-0359</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Yasmin Natália</givenname>
+            <familyname locale="pt_BR">Migliati</familyname>
+            <country>BR</country>
+            <email>migliati@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1846-7832</orcid>
+          </author>
+        </authors>
+        <pages>136-151</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsp08-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">A importância dos acervos de Arquitetura para a historiografia</title>
+        <subtitle locale="pt_BR">a pesquisa sobre Eduardo Kneese de Mello</subtitle>
+        <abstract locale="pt_BR">O presente artigo busca ressaltar as particularidades, dificuldades e reveses comumente encontrados durante a realização de pesquisas na área da História da Arquitetura, principalmente quando o objeto de estudo não se trata de um(a) arquiteto(a) “consagrado(a)” pela historiografia. Estas questões são exemplificadas por meio da pesquisa realizada para resgatar a trajetória profissional de Eduardo Kneese de Mello. Constata-se, portanto, que a falta de acervos e arquivos organizados é um fator complicador para aquele que se propõe a (re)escrever a história. Propõe-se, desse modo, um debate sobre a relação existente entre historiografia e documentação para a escrita da História, buscando caminhos facilitadores para os pesquisadores que objetivam preencher algumas lacunas existentes no campo historiográfico, em especial sobre Arquitetura Moderna Paulistana.</abstract>
+        <abstract locale="en_US">This article seeks to highlight the particularities, difficulties and setbacks commonly encountered during research in the area of the History of Architecture, especially when the object of study is not a “consecrated” architect by historiography. These issues are exemplified by research to rescue the professional trajectory of Eduardo Kneese de Mello. It appears, therefore, that the lack of organized collections and archives is a complicating factor for those who propose to (re)write history. In this way, a debate on the existing relationship between historiography and documentation for the writing of History is proposed, seeking facilitating paths for researchers who aim to fill some existing gaps in the historiographical field, especially on Modern Architecture from São Paulo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Historiografia</keyword>
+          <keyword>Documentação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Historiography</keyword>
+          <keyword>Documentation</keyword>
+          <keyword>Modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Aline Nassaralla</givenname>
+            <familyname locale="pt_BR">Regino</familyname>
+            <country>BR</country>
+            <email>regino@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1242-8832</orcid>
+          </author>
+        </authors>
+        <pages>152-166</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsp08-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Jacques Pilon e Giancarlo Palanti</title>
+        <subtitle locale="pt_BR">pesquisa e os desafios da extroversão das coleções da seção técnica de materiais iconográficos da biblioteca da FAUUSP</subtitle>
+        <abstract locale="pt_BR">O presente trabalho discorre sobre o projeto de cultura e extensão intitulado &quot;Coleções de projetos: ensino, aprendizado, prática e difusão - Coleções Jacques Pilon e Giancarlo Palanti&quot;, realizado entre setembro de 2020 e agosto de 2021 com fomento do Programa Unificado de Bolsas de Estudo para Estudantes de Graduação (PUB) da Universidade de São Paulo. Este projeto visa democratizar o acesso ao acervo da Seção Técnica de Materiais Iconográficos da Biblioteca da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP) através de sua disponibilização on-line no Portal Acervos. Ao longo do trabalho é apresentada a metodologia das atividades realizadas, bem como feita uma reflexão sobre a importância da difusão e acesso a estes acervos e o protagonismo de instituições públicas neste processo, sobretudo em meio aos ataques direcionados à ciência e à cultura no Brasil atual.</abstract>
+        <abstract locale="en_US">The present work discusses the culture and extension project entitled “Project collections: teaching, learning, practice and dissemination - Jacques Pilon and Giancarlo Palanti collections”, held between september 2020 and august 2021, promoted by University of São Paulo’s Unified Scholarship Program (PUB). It intends to democratize access to the collection of Technical Section of Iconographic Materials at the Library of Architecture and Urbanism School of University of São Paulo (FAUUSP), through its on-line availability at Portal Acervos. Throughout this work, we have presented the methodology of the project’s activities, as well as a reflection about the importance of dissemination and access to these collections and the protagonism of public institutions, especially amidst the current attacks directed towards science and culture in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos</keyword>
+          <keyword>Biblioteca</keyword>
+          <keyword>Difusão</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collections</keyword>
+          <keyword>Library</keyword>
+          <keyword>Dissemination</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Joana Mello de Carvalho e</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>joana-mello@uol.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniel Alves da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Fernando Prudente</givenname>
+            <familyname locale="pt_BR">Comparini</familyname>
+            <country>BR</country>
+            <email>comparini@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>167-180</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsp08-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Hernani do Val Penteado e a variação estilística</title>
+        <abstract locale="pt_BR">Considerações sobre o convívio de diferentes opções estilísticas na obra de um mesmo arquiteto, Hernani do Val Penteado. Autor do Aeroporto de Congonhas e de outros prédios modernos, também foi responsável pela realização de complexos projetos em estilo neocolonial. Parte de sua produção, de meados do século XX, está reunida em acervos públicos utilizados para os estudos que permitiram a preservação oficial de edificações de sua autoria e a ampliação do conhecimento sobre a gradual afirmação da arquitetura moderna.</abstract>
+        <abstract locale="en_US">This text considers about the coexistence of different stylistic options in the work of the same architect, Hernani do Val Penteado. Author of Congonhas Airport and other modern buildings, he was also responsible for projects in neocolonial style. Part of its production of mid 20th century is gathered in public collections used for studies that allowed the official preservation of some of these buildings and also the expansion of knowledge about the gradual affirmation of modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Hernani do Val Penteado</keyword>
+          <keyword>Neocolonial</keyword>
+          <keyword>Arquitetura moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Hernani do Val Penteado</keyword>
+          <keyword>Neocolonial</keyword>
+          <keyword>Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+        </authors>
+        <pages>181-194</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsp08-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">O acervo da FAUUSP e a formação estudantil. O trabalho com as coleções de Oswaldo Arthur Bratke e Rino Levi</title>
+        <abstract locale="pt_BR">As fontes primárias são recursos potentes para a pesquisa e o estudo da arquitetura. Enquanto as obras proporcionam o contato com dimensão espacial e a materialidade, fundamentais para a compreensão do objeto arquitetônico, os desenhos permitem o acompanhamento do processo de elaboração, revelando as múltiplas tomadas de decisão que permeiam uma determinada obra, além da oportunidade de relacionar com a bibliografia de referência. Aos estudantes de graduação, o trabalho permite ainda a aproximação com as questões de conservação, processamento e difusão dos acervos, abrindo novas perspectivas de trabalho. Alguns docentes em conjunto com a Seção Técnica de Materiais Iconográficos vem realizando vários projetos com os estudantes, dos quais comentaremos: Ocupação Rino Levi, em 2019, com o estudante Fernando Prudente Comparini e equipe; Coleção Rino Levi, em 2020, com o estudante Alexandre Martins e a Coleção Oswaldo Arthur Bratke, em 2021, com a estudante Thais Ribeiro da Cruz, co-autora deste artigo.</abstract>
+        <abstract locale="en_US">Primary sources are powerful subsidies for research and the study of architecture. While the buildings provide contact with the spatial dimension and materiality, fundamental for the understanding of the architectural object, the drawings allow following the elaboration process, revealing the multiple decision-making that permeate a certain building, It also gives the opportunity to relate to the reference bibliography. For undergraduate students, the work also allows them to approach issues of conservation, processing and dissemination of collections, opening new perspectives for work. Some professors together with the Technical Section of Iconographic Materials have been carrying out several projects with the students, of which we will comment: Occupation Rino Levi, in 2019, with student Fernando Prudente Comparini and team; Collection Rino Levi, in 2020, with the student Alexandre Martins and the Collection Oswaldo Arthur Bratke, in 2021, with the student Thais Ribeiro da Cruz, coauthor of this article.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos</keyword>
+          <keyword>Ensino de arquitetura</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collections</keyword>
+          <keyword>Architecture teaching</keyword>
+          <keyword>Modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mônica Junqueira</givenname>
+            <familyname locale="pt_BR">de Camargo</familyname>
+            <country>BR</country>
+            <email>junqueira.monica@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2625-5074</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Thais Ribeiro da</givenname>
+            <familyname locale="pt_BR">Cruz</familyname>
+            <country>BR</country>
+            <email>cruz@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>195-210</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsp08-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">O edifício do SENAI de Sorocaba</title>
+        <subtitle locale="pt_BR">do projeto ao estado de conservação atual</subtitle>
+        <abstract locale="pt_BR">No sentido de reconhecer o patrimônio moderno da cidade de Sorocaba foi realizada a leitura e análise de edifícios construídos entre as décadas de 1950 e 1980, verificando o estado de conservação e histórico. Entre esses está o edifício do Sistema Nacional de Aprendizagem Industrial (SENAI), construído em 1965 e projetado pelo arquiteto Lúcio Grinover e equipe. Ao realizar a leitura do projeto na Revista Acrópole e confrontá-la com edifício atual, observou-se que uma nova cobertura foi adicionada ao edifício, ocultando os paraboloides da laje dos laboratórios e outras alterações. Nesse sentido, objetiva-se apresentar o acervo fotográfico da Biblioteca do SENAI como fonte que documenta as intervenções realizadas no edifício. Por meio das imagens, verificou-se um problema de infiltração que existia na laje sobre os paraboloides, motivando a implantação de outra cobertura. Ressalta-se a importância do acervo da instituição como fonte de pesquisa e documentação, bem como a necessidade de reconhecer o edifício como exemplar da arquitetura moderna sorocabana.</abstract>
+        <abstract locale="en_US">To recognize the modern heritage of the city of Sorocaba, the reading and analysis of buildings built between the 1950s and 1980s was carried out, verifying the state of conservation and history. Among these is the building of the National Industrial Learning System (SENAI), built in 1965 and designed by architect Lúcio Grinover and his team. When reading the project in Revista Acrópole and comparing it with the current building, it was observed that a new cover was added to the building, hiding the paraboloids of the laboratory slab and other changes. In this sense, the objective is to present the photographic collection of the SENAI Library as a source that documents the interventions carried out in the building. Through the images, there was an infiltration problem that existed in the slab over the paraboloids, motivating the implementation of another cover. We emphasize the importance of the institution's collection as a source of research and documentation, as well as the need to recognize the building as an example of modern architecture in Sorocaba.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+          <keyword>Manifestações Patológicas em Concreto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Modern Heritage</keyword>
+          <keyword>Pathologies in concrete buildings</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Taiana Car</givenname>
+            <familyname locale="pt_BR">Vidotto</familyname>
+            <country>BR</country>
+            <email>vidotto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-7498-3789</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rodrigo Henrique</givenname>
+            <familyname locale="pt_BR">Geraldo</familyname>
+            <country>BR</country>
+            <email>geraldo@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>211-224</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsp08-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Edifício Nova Central</title>
+        <abstract locale="pt_BR">A presente comunicação refere-se ao Edifício Sede do Banco Bradesco, projeto de 1962 do arquiteto Carlos Lemos (1925), localizado no centro da cidade de São Paulo – SP. Tal edifício, projetado originalmente para ser hotel e fazer parte do complexo turístico formado juntamente com o edifício Copan, encontra-se vinculado à vertiginosa verticalização do centro, ocorrida especialmente na segunda metade do século XX. Ao discorrer brevemente sobre o contexto histórico, fatos relacionados ao projeto, e o trabalho desenvolvido pela equipe do escritório MLD Restauração Arquitetônica Integrada (MLD RAI) acerca do edifício, pretende-se apresentar os resultados obtidos e destacar a importância das etapas de pesquisa histórica, resgate documental, redesenho, cronologia arquitetônica e do projeto de intervenção conservativa dentro do campo da preservação contemporânea do patrimônio cultural edificado contribuindo, também, para um debate a respeito da relevância da preservação do patrimônio moderno e de seu legado.</abstract>
+        <abstract locale="en_US">The following communication refers to the Bradesco Bank Headquarters building, designed by the architect Carlos Lemos (1925) in 1962, located in the city center of São Paulo – SP. Originally conceived to be a hotel part of a touristic complex together with the Copan building, the design is entangled with the vertiginous verticalization of the city center, especially during the second half of the 20th century. The intention is to showcase, by the presentation of the historical context of the building and the conservation project made by the MLD Restauração Arquitetônica Integrada (MLD RAI) architectural office, the importance of the historical and documental research, redrawing, building chronology and conservation project inside of the contemporary preservation of cultural heritage, and also contribute to the debate about the importance of the preservation of modern heritage and its legacy.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Cultural</keyword>
+          <keyword>Conservação Histórica</keyword>
+          <keyword>Arquitetura – conservação e restauro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Cultural Heritage</keyword>
+          <keyword>Historical Conservation</keyword>
+          <keyword>Architecture – conservation and restoration</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza</givenname>
+            <familyname locale="pt_BR">Dutra</familyname>
+            <country>BR</country>
+            <email>dutra@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniel Luiz Vieira</givenname>
+            <familyname locale="pt_BR">Carcavalli</familyname>
+            <country>BR</country>
+            <email>carcavalli@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Diego Petrini</givenname>
+            <familyname locale="pt_BR">Pinheiro</familyname>
+            <country>BR</country>
+            <email>pinheiro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>225-238</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsp08-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Do pó viemos e para o pó não voltaremos – o que ninguém sabe sobre o edifício Pirapama (Recife-PE)</title>
+        <abstract locale="pt_BR">Atualmente conservação da arquitetura moderna é abordada com grande relevância para o patrimônio, não só brasileiro, mas de todo o mundo. Apesar dos vários desafios para conservação dessa arquitetura, a preservação da dimensão material é ainda o principal problema a ser enfrentado e aquele que acarreta mais discussões entre os profissionais envolvidos. Nesse artigo, apresentaremos o edifício Pirapama, marco da verticalização do Bairro da Boa Vista na cidade do Recife-PE, projetado pelo arquiteto português Delfim Fernandes Amorim, tratando sobre suas particularidades e atual estado de conservação. O edifício Pirapama trata-se de uma obra notável da arquitetura moderna pernambucana.</abstract>
+        <abstract locale="en_US">Currently, conservation of modern architecture is approached with great relevance for the heritage, not only Brazilian, but from all over the world. Despite the various challenges for the conservation of this architecture, the preservation of the material dimension is still the main problem to be faced and the one that causes more discussions among the professionals involved. In this article, we will present the Pirapama building, a landmark in the verticalization of Bairro da Boa Vista in the city of Recife-PE, designed by the Portuguese architect Delfim Fernandes Amorim, dealing with its particularities and current state of conservation. The Pirapama building is a remarkable work of Pernambuco's modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Edifício</keyword>
+          <keyword>Conservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Building</keyword>
+          <keyword>Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Lúcia Herbster</givenname>
+            <familyname locale="pt_BR">Pinto</familyname>
+            <country>BR</country>
+            <email>fernanda.hpinto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5637-3920</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Liliana de Souza</givenname>
+            <familyname locale="pt_BR">Adrião</familyname>
+            <country>BR</country>
+            <email>liliana.adriao@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7002-8207</orcid>
+          </author>
+        </authors>
+        <pages>239-249</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsp08-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">A Modernidade em dois atos</title>
+        <subtitle locale="pt_BR">o Teatro Municipal de Araraquara</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta o Teatro Clodoaldo Medina construído entre 1974 e 1977 em Araraquara, São Paulo. A partir do acesso aos acervos de seus autores, os arquitetos Francisco José Santoro (1944) e Arnaldo Gonzales Palamone Lepre (1924-2001), a documentação inédita dessa obra lança olhar para a produção moderna no interior paulista e busca somar esforços aos seus processos de documentação e divulgação.</abstract>
+        <abstract locale="en_US">This paper presents the Clodoaldo Medina Theater built between 1974 and 1977 in Araraquara, São Paulo. Through the collections of its authors, the architects Francisco José Santoro (1944) and Arnaldo Gonzales Palamone Lepre (1924-2001), the unpublished documentation of this work takes a look at modern production in the interior of São Paulo and seeks to add efforts to its processes of documentation and dissemination.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>brutalismo</keyword>
+          <keyword>acervos</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Brutalism</keyword>
+          <keyword>Collections</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Kröhling Pinheiro Borges</givenname>
+            <familyname locale="pt_BR">Bernardi</familyname>
+            <country>BR</country>
+            <email>bernardi@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>250-266</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsp08-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A casa de uma arquiteta moderna, estudo da residência Nadir de Carvalho (1975)</title>
+        <abstract locale="pt_BR">Maria Nadir de Carvalho (1952-2021), arquiteta e urbanista, contribuiu para o desenvolvimento da arquitetura moderna residencial no Estado do Paraná. Para este trabalho, o objetivo é a análise historiográfica e análise decompositiva do projeto arquitetônico da sua própria residência. Concebida em 1975 por Nadir, a casa está localizada em um terreno urbano de generosas proporções, em um bairro residencial de Curitiba e se caracteriza pelo uso do concreto armado aparente. Além da materialidade, a obra também se destaca pelo partido arquitetônico adotado, solução que remete a produção residencial realizada em São Paulo, podendo ser nomeada como Escola Paulista. O artigo se estrutura inicialmente com uma breve descrição sobre o processo de inserção do ideário moderno na arquitetura de Curitiba, a biografia da arquiteta e a apresentação do projeto de sua residência através das análises</abstract>
+        <abstract locale="en_US">Nadir de Carvalho (1952-2021), architect and urbanist, contributed for the development of modern residential architecture in the state of Paraná. For this article, the goal is the historiographical analysis and the architectural decompositional analysis of the project of her own residence. Designed in 1975 by Nadir, the house is located on an urban plot of generous proportions in a residential neighborhood of Curitiba and is characterized by the use of concrete. Besides the materiality, the project also stands out for the architectural design adopted, a solution that refers to residential production built in São Paulo, that can be named as Escola Paulista. The article is initially structured with a brief description of the process of inserting modern concepts into the architecture of Curitiba, the Nadir's biography and the presentation of her residence Project through analysis.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna em Curitiba</keyword>
+          <keyword>Casa do Arquiteto</keyword>
+          <keyword>Maria Nadir de Carvalho</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture in Curitiba</keyword>
+          <keyword>Architect’s house</keyword>
+          <keyword>Maria Nadir de Carvalho</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe Taroh Inoue</givenname>
+            <familyname locale="pt_BR">Sanquetta</familyname>
+            <country>BR</country>
+            <email>sem-email-2@example.com</email>
+            <orcid>https://orcid.org/0000-0003-4771-3588</orcid>
+          </author>
+        </authors>
+        <pages>267-281</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsp08-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">A importância dos acervos iconográficos para a compreensão do processo projetual na Arquitetura</title>
+        <subtitle locale="pt_BR">o exemplo do edifício São Luiz, de Marcello Fragelli</subtitle>
+        <abstract locale="pt_BR">Considerando a importância dos acervos iconográficos para a produção de conhecimento no campo da arquitetura, este trabalho resulta da pesquisa de mestrado em andamento, que tem o Edifício São Luiz – sede da Promon Engenharia, projetada por Marcello Fragelli – como objeto de estudo no contexto da produção de edifícios de grande porte às margens do Rio Pinheiros, em São Paulo, SP. Este artigo aborda a leitura de desenhos obtidos nos acervos iconográficos da biblioteca da FAUUSP e da Promon Engenharia e se apoia no conceito de projeto como pesquisa.</abstract>
+        <abstract locale="en_US">Considering the importance of the iconographic collections for the production of knowledge in the architectural field, this work results from the master’s degree research currently in course, which has the São Luiz Building – the Promon Engineering Office headquarters, designed by Marcello Fragelli – as its object of study in the context of the production of large-scale office buildings aside the Pinheiros River, in São Paulo, Brazil. This article undertakes the analysis of architectural drawings obtained at FAUUSP’s Library Iconographic Collection and Promon Engineering’s Iconographic Collection, relying on the concept of project design as research.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos iconográficos</keyword>
+          <keyword>Edifício São Luiz</keyword>
+          <keyword>Marcello Fragelli</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Iconographic collections</keyword>
+          <keyword>São Luiz Building</keyword>
+          <keyword>Marcello Fragelli</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mario Tavares Moura</givenname>
+            <familyname locale="pt_BR">Filho</familyname>
+            <country>BR</country>
+            <email>moura_filho@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tatiana</givenname>
+            <familyname locale="pt_BR">Sakurai</familyname>
+            <country>BR</country>
+            <email>sem-email-2@example.com</email>
+            <orcid>https://orcid.org/0000-0001-5769-7492</orcid>
+          </author>
+        </authors>
+        <pages>282-297</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsp08-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Reflexões sobre a casa Broos</title>
+        <subtitle locale="pt_BR">o processo projetual através dos desenhos do acervo</subtitle>
+        <abstract locale="pt_BR">Apresentação e análise do projeto original da casa do arquiteto Hans Broos no Morumbi (São Paulo, 1972-83), e sua comparação com a situação atual da construção, através dos desenhos da residência que se encontram no acervo do arquiteto. Ainda que a casa já foi estudada por outros pesquisadores, sua particular distribuição interna, usos e cômodos, sempre levantou questionamentos sobre sua conformação. O estudo aqui apresentado se debruça sobre o longo processo de projeto da casa, mais de 10 anos, analisando os documentos gráficos do acervo, especialmente as plantas em suas diferentes versões, desde 1972 até 1983, para entender, e explicar, as transformações que deram origem à casa como é hoje. O estudo comprova que a experiência de projeto da casa Broos deve ser assumido como um projeto de vida em relação com a arquitetura, ou, vice-versa, assumido como uma comprovação da capacidade da arquitetura para atender à vida.</abstract>
+        <abstract locale="en_US">Report and analysis of the original project of architect Hans Broos House in Morumbi (São Paulo, 1972-83) and its relationship with the current situation of the building, through the drawings of the residence in the architect's collection. Although the house has already been studied by other researchers, its particular internal distribution, uses and rooms, have always raised questions about its conformation. The study presented here focuses on the long process of designing the house, more than 10 years, analyzing the graphic documents of the collection, especially the plans in their different versions, from 1972 to 1983, to understand and explain the transformations that gave rise to the house as it is. today. The study proves that the experience of the Broos house design must be assumed as a life project in relation to architecture, or conversely, assumed as a proof of architecture's ability to meet life.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Hans Broos</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Brutalismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Hans Broos</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Brutalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando Guillermo</givenname>
+            <familyname locale="pt_BR">Vázquez Ramos</familyname>
+            <country>BR</country>
+            <email>prof.vazquez@usjt.br</email>
+            <orcid>https://orcid.org/0000-0003-3472-5598</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Carolina Buim Azevedo</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <country>BR</country>
+            <email>marques@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>298-315</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsp08-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">A preservação e destruição das obras do arquiteto Ayrton Lolô Cornelsen</title>
+        <abstract locale="pt_BR">O presente artigo tem como objetivo descrever de forma narrativa algumas obras do arquiteto paranaense Ayrton Lolô Cornelsen para posteriormente demonstrar a preservação de suas edificações. Arquiteto nascido em 1922, ainda é pouco conhecido fora do âmbito da arquitetura paranaense, embora possa ser comparado quantitativamente e qualitativamente a outros arquitetos brasileiros contemporâneos a este. A importância desse trabalho surge da observância da destruição de algumas obras do arquiteto, tanto demolições percebidas ao longo de sua carreira, mas sobretudo da significativa perda de edificações nos últimos anos. O anexo do restaurante do passeio público em Curitiba e o Autódromo Internacional do Paraná construído na década de 1960 são exemplo de construções que foram demolidas nos últimos cinco anos. Além disso a própria morte do arquiteto em 2020, mostra a real lacuna desse legado. Assim o presente trabalho pretende ressaltar e documentar as recentes perdas desse acervo construído, bem como atentar para a importância de criar mecanismos de preservação para evitar futuras destruições das edificações do arquiteto.</abstract>
+        <abstract locale="en_US">This article aims to describe in a narrative way some works by the Paraná architect Ayrton Lolô Cornelsen to later demonstrate the preservation of his buildings. Architect born in 1922, he is still little known outside the scope of Paraná architecture, although he can be compared quantitatively and qualitatively to other contemporary Brazilian architects. The importance of this work arises from the observance of the destruction of some of the architect's buildings, both demolitions perceived throughout his career, but above all the significant loss of buildings in recent years. The annex to the public promenade restaurant in Curitiba and the Autódromo Internacional do Paraná built in the 1960s are examples of works that were demolished in the last five years. In addition, the architect's death in 2020 shows the real loss of this legacy. Thus, the present work intends to highlight and document the recent losses of this built collection, as well as to pay attention to the importance of creating preservation mechanisms to avoid future losses of the architect´s buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Paranaense</keyword>
+          <keyword>Modernismo</keyword>
+          <keyword>Patrimônio</keyword>
+          <keyword>Ayrton Lolô Cornelsen</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Paraná architecture</keyword>
+          <keyword>Modernism</keyword>
+          <keyword>Patrimony</keyword>
+          <keyword>Ayrton Lolô Cornelsen</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Márcia Maria</givenname>
+            <familyname locale="pt_BR">Cavalieri</familyname>
+            <country>BR</country>
+            <email>cavalieri@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>316-330</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsp08-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">MASP</title>
+        <subtitle locale="pt_BR">desafios da preservação e salvaguarda. Adequação às normas de segurança contra incêndio e restauro das fachadas do Museu de Arte de São Paulo</subtitle>
+        <abstract locale="pt_BR">Este trabalho registra a metodologia adotada e os resultados obtidos, até o momento, no projeto e na execução de adequação do edifício do MASP às normas de segurança contra incêndio, e tem como objetivo contribuir para o debate sobre a preservação de edifícios modernos. A adequação do edifício do MASP para garantir a operação segura do museu, que atualmente recebe um fluxo de visitantes muito superior ao fluxo original, assim como o atendimento às normas de segurança contra incêndio, foram propostos em respeito à concepção original da edificação, em concreto, vidro e aço. Para a intervenção nas fachadas do volume elevado, foi desenvolvida uma metodologia de investigação dos sistemas e dos detalhes executivos originais, que instruíram as decisões de projeto e execução de acordo com os preceitos e com os desafios da preservação.</abstract>
+        <abstract locale="en_US">This report chronicles the methodology and the progress of the interventions implemented at the São Paulo Museum of Art (MASP) to comply with the fire protection code. The increase in visitors’ numbers in recent years and the adequacy of the fire protection code demand the proposal of interventions on the MASP building following the building’s original inception in concrete, iron, and glass. A prospection methodology of the existing façade system was proposed and guided the project and implementation decisions.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Restauro</keyword>
+          <keyword>Fachadas</keyword>
+          <keyword>MASP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Restoration</keyword>
+          <keyword>Facades</keyword>
+          <keyword>MASP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Miriam</givenname>
+            <familyname locale="pt_BR">Elwing</familyname>
+            <country>BR</country>
+            <email>elwing@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Marta</givenname>
+            <familyname locale="pt_BR">Ditolvo</familyname>
+            <country>BR</country>
+            <email>ditolvo@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Maria Aparecida</givenname>
+            <familyname locale="pt_BR">Soukef</familyname>
+            <country>BR</country>
+            <email>soukef@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>331-350</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsp08-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Espaço como objeto de conservação</title>
+        <subtitle locale="pt_BR">um estudo diacrônico do Pavilhão Ciccillo Matarazzo (1954-2021)</subtitle>
+        <abstract locale="pt_BR">Este artigo discute a questão do espaço como objeto de conservação da arquitetura moderna com base no Pavilhão Ciccillo Matarazzo, projeto de Oscar Niemeyer de 1954, que abriga a Bienal de São Paulo desde 1957. A discussão se suporta em um estudo diacrônico do edifício realizado junto ao Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo, cujo redesenho dos planos das exposições permitiu reconstituir os planos do edifício no ano de cada Bienal. O estudo demonstrou que, apesar de as exposições serem realizadas no mesmo edifício, sua espacialidade é substancialmente alterada ao longo das décadas. Além do mapeamento destas alterações, o artigo reflete sobre as implicações configuracionais às funções genéricas do edifício, e sobre como esse caso pode contribuir para pensar a conservação do espaço de modo mais amplo.</abstract>
+        <abstract locale="en_US">This paper discusses the issue of space as an object of conservation of modern architecture based on the Ciccillo Matarazzo Pavilion, a 1954 project by Oscar Niemeyer, which has housed the Bienal de São Paulo since 1957. The discussion is based on a diachronic study of the building carried out together to the Arquivo Histórico Wanda Svevo of the Fundação Bienal de São Paulo, whose redrawing of the exhibition plans made it possible to reconstitute the plans of the building in the year of each Bienal. The study showed that, despite the exhibitions being held in the same building, its spatiality is substantially changed over the decades. In addition to mapping these changes, the paper reflects on the configurational implications for the generic functions of the building, and on how this case can contribute to thinking about space conservation in a broader way.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Conservação</keyword>
+          <keyword>Espaço</keyword>
+          <keyword>Pavilhão Ciccillo Matarazzo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Ciccillo Matarazzo Pavilion</keyword>
+          <keyword>Conservation</keyword>
+          <keyword>Space</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lívia Morais</givenname>
+            <familyname locale="pt_BR">Nóbrega</familyname>
+            <country>BR</country>
+            <email>nobrega@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luiz Manuel do Eirado</givenname>
+            <familyname locale="pt_BR">Amorim</familyname>
+            <country>BR</country>
+            <email>amorim@ufpe.br</email>
+            <orcid>https://orcid.org/0000-0003-0393-6106</orcid>
+          </author>
+        </authors>
+        <pages>351-368</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsp08-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">O uso da grelha nos edifícios residenciais de MMM Roberto</title>
+        <subtitle locale="pt_BR">da regularidade à distorção</subtitle>
+        <abstract locale="pt_BR">Apesar do paralelismo com o grupo de Lucio Costa que projeta o edifício do Ministério de Educação, a historiografia em torno do Escritório MMM Roberto apresenta escassez de material gráfico e analítico. A segunda fase do escritório é exemplar: alinhados com Le Corbusier em favor de uma construção qualificada, os projetos reiteram a distinção entre arquitetura e construção via esquema Dom-ino e os cinco pontos. Fica implícita a dualidade entre a disposição das paredes, segundo a conveniência do programa, e a ordem unitária e geométrica da grelha, que comanda a locação dos suportes no espaço. O artigo analisa dois projetos residenciais com emprego extremo da grelha. No edifício Angel Ramirez, esta é absolutamente regular; no edifício Dona Fátima e Finúsia, comparecem nítidas distorções. Se na obra corbusiana é a promenade architecturale o agente modificador, na obra dos Roberto é a adaptação da barra às divisas e à densificação do programa.</abstract>
+        <abstract locale="en_US">Despite the parallelism with Lucio Costa's group that designed the Ministry of Education building, the historiography about the MMM Roberto Office shows shortage of graphic and analytical material. The second period of the office is exemplary: aligned with Le Corbusier in favor of qualified construction, the projects reforce the distinction between architecture and construction through the Dom-ino type structure and the five points. The duality between the walls arrangements’is implicit, according to the program’s arrangment, and the Unity order and geometrics of the grid, which governs the supports’ location in the space.The article analyzes two residential projects with extreme use of the grid. On one hand the Angel Ramirez building, it’s absolutely regular,on the other hand the Dona Fátima and Finúsia building, there’re clear distortions. If in Corbusier’s work the promenade architecturale is the modifying agent, in Roberto's work it’s theblockmodification to the limits of the plot and the densification of the program.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Edifício moderno</keyword>
+          <keyword>Escritório MMM Roberto</keyword>
+          <keyword>Grelha de apoios</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Building</keyword>
+          <keyword>MMM Roberto</keyword>
+          <keyword>the Grid’s supports</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luísa Dresch</givenname>
+            <familyname locale="pt_BR">Prediger</familyname>
+            <country>BR</country>
+            <email>prediger@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+        </authors>
+        <pages>369-384</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsp08-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Arquitetura e cidade no processo de modernização</title>
+        <subtitle locale="pt_BR">Londrina e sua produção moderna na década de 1950</subtitle>
+        <abstract locale="pt_BR">A partir da ideia de cidade enquanto agente modernizador, que utiliza como instrumento o processo de modernização, e o conceito de cidade como fonte e foco de criação cultural, a extensa produção de alta qualidade média da arquitetura brasileira nos anos de 1950 tornase evidente em diferentes cidades e contextos do cenário nacional. É o caso de Londrina, no norte do Paraná, cuja produção, sobretudo na década de 1950 – em virtude do êxito da cultura cafeeira –, evidencia a dimensão moderna da cidade através de suas obras arquitetônicas concomitantemente ao seu processo de modernização. Diante disso, este trabalho propõe a análise de alguns exemplares da arquitetura moderna em Londrina, entre os anos de 1950: o mercado Shangri-lá, a Estação Rodoviária, o Edifício ECB, o Edifício Autolon e o Edifício Sahão. As obras marcam o panorama da cidade de Londrina e revelam aspectos da modernização da cidade frente à sua formação.</abstract>
+        <abstract locale="en_US">From the idea of the city as a modernizing agent, which uses the modernization process as an instrument, and the concept of the city as a source and focus of cultural creation, the extensive production of high average quality of Brazilian architecture in the 1950s becomes evident in different cities and contexts of the national scenario. This is the case of Londrina, in the north of Paraná, whose production, especially in the 1950s - due to the success of the coffee culture -, highlights the modern dimension of the city through its architectural works concomitantly with its modernization process. Therefore, this work proposes the analysis of some examples of modern architecture in Londrina, between the 1950s: the Shangri-lá market, the Bus Station, the ECB Building, the Autolon Building and the Sahão Building. The works mark the panorama of the city of Londrina and reveal aspects of the modernization of the city in the face of its formation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Modernização</keyword>
+          <keyword>Cidade</keyword>
+          <keyword>Londrina</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modernization</keyword>
+          <keyword>City</keyword>
+          <keyword>Londrina</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Millan</givenname>
+            <familyname locale="pt_BR">Fachi</familyname>
+            <country>BR</country>
+            <email>fachi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4203-5335</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+        <pages>385-399</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsp08-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Cia. City</title>
+        <subtitle locale="pt_BR">acervo e pesquisas</subtitle>
+        <abstract locale="pt_BR">O presente texto procura iluminar o potencial que o arquivo da empresa loteadora Cia. City, atuante há mais de cem anos na cidade de São Paulo, possui para a realização de pesquisas a respeito de arquitetura e urbanismo desse período. O artigo refere-se a alguns trabalhos específicos que demonstram como a documentação desta empresa sobre o desenho do parcelamento do solo no modelo garden city e da venda de suas terras em lotes tem alimentado o estudo, a preservação e o conhecimento sobre modelos urbanísticos e padrões arquitetônicos nessa cidade nas últimas décadas.</abstract>
+        <abstract locale="en_US">The present text seeks to illuminate the potential that the file of the lottery company Cia. City, at the point where the building is located in the city of São Paulo, it is possible to carry out a respect for the architecture and urbanism of that period. The article to some specific works refers to a lot of the sale of its lands in model and the lot of urbanistic models and patterns. We developed in this city in the last decades.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Cia</keyword>
+          <keyword>City</keyword>
+          <keyword>Acervos</keyword>
+          <keyword>Preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Cia City</keyword>
+          <keyword>Collections Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Aline Nassaralla</givenname>
+            <familyname locale="pt_BR">Regino</familyname>
+            <country>BR</country>
+            <email>regino@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1242-8832</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Roseli Maria Martin</givenname>
+            <familyname locale="pt_BR">D'Elboux</familyname>
+            <country>BR</country>
+            <email>delboux@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5217-2806</orcid>
+          </author>
+        </authors>
+        <pages>400-413</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsp08-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Intervenções arquitetônicas em residências modernas no Nordeste brasileiro</title>
+        <subtitle locale="pt_BR">estudos de casos em Campina Grande, PB</subtitle>
+        <abstract locale="pt_BR">O texto pretende expor dois estudos de casos de intervenções em residências modernas projetadas e construídas na cidade de Campina Grande, agreste da Paraíba, para exemplificar as investigações que vêm sendo desenvolvidas pelo grupo de pesquisa arquitetura e lugar, vinculado à UFCG/ Universidade Federal de Campina Grande. Justificase a apresentação do trabalho nesse seminário, como uma maneira de refletir sobre os desafios encontrados para a documentação e conservação do patrimônio residencial moderno no nordeste brasileiro, onde a falta de uma política preservacionista municipal vem dando espaço à demolições e descaracterizações de um acervo ainda não inventariado e desprotegido, e que a cada dia se apaga na paisagem urbana e na memória dos cidadãos. Como metodologia da pesquisa, esta se apoia em autores que discutem sobre a documentação patrimonial, o projeto de restauro, os estudos de patologias construtivas – que dão o suporte aos projetos de intervenção no patrimônio edificado, conforme será visto.</abstract>
+        <abstract locale="en_US">The text intends to present two case studies of interventions in modern residences designed and built in the city of Campina Grande, agreste of Paraíba, to exemplify the investigations that have been developed by the research group architecture and place, linked to the UFCG / Federal University of Campina Great. The presentation of the work in this seminar is justified as a way to reflect on the challenges encountered for the documentation and conservation of modern residential heritage in the Brazilian northeast, where the lack of a municipal preservationist policy has given space to demolitions and de-characterizations of a collection. not yet inventoried and unprotected, and that is erased every day in the urban landscape and in the memory of citizens. As a research methodology, this is supported by authors who discuss heritage documentation, the restoration project, studies of constructive pathologies - which support intervention projects in the built heritage, as will be seen.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Intervenção</keyword>
+          <keyword>Conservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Intervention</keyword>
+          <keyword>Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+          </author>
+        </authors>
+        <pages>414-427</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsp08-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Levantamentos digitais como metodologia de identificação da Arquitetura Moderna no centro de Ribeirão Preto</title>
+        <abstract locale="pt_BR">Apresenta os processos e resultados de investigação empreendida para a identificação de exemplares representativos da Arquitetura Moderna no centro da cidade de Ribeirão Preto, a partir de metodologia envolvendo levantamentos de campo em plataformas digitais e pesquisas em banco de dados da Prefeitura Municipal de Ribeirão Preto. Utiliza como estudo de caso o trabalho de Iniciação Científica intitulado “Uma história não contada: o reconhecimento da Arquitetura Moderna no Quadrilátero Central de Ribeirão Preto entre as décadas de 1940 e 1960”, desenvolvido ao longo dos anos 2019 e 2020, junto ao curso de Arquitetura e Urbanismo da Universidade Paulista, em Ribeirão Preto. Além do mapeamento das edificações modernas existentes, foi possível analisar a diversa configuração formal e programática assumida por essa produção e verificar os principais períodos de sua concepção no centro de Ribeirão Preto.</abstract>
+        <abstract locale="en_US">Presents the processes and results of investigation undertaken to identify representative examples of Modern Architecture in the city center of Ribeirão Preto, based on methodology involving field surveys on digital platforms and research in databases of the Municipality of Ribeirão Preto. It uses as a case study the scientific initiation research &quot;An untold story: the recognition of Modern Architecture in the Central Quadrangle of Ribeirão Preto between the 1940s and 1960s&quot; developed over the years 2019 and 2020, in the Architecture and Urbanism course at Universidade Paulista, in Ribeirão Preto. In addition to mapping the existing modern buildings, it was possible to analyze the different formal and programmatic configuration assumed by this practice and verify the main periods of its conception in the center of Ribeirão Preto.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Levantamentos digitais</keyword>
+          <keyword>Ribeirão Preto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Digital surveys</keyword>
+          <keyword>Ribeirão Preto</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Laura Marques dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>dos_santos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tatiana de Souza</givenname>
+            <familyname locale="pt_BR">Gaspar</familyname>
+            <country>BR</country>
+            <email>gaspar@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>428-442</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsp08-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Deambular pelo moderno</title>
+        <subtitle locale="pt_BR">o caminhar como preservação da Arquitetura Moderna de Curitiba</subtitle>
+        <abstract locale="pt_BR">Lineu Castello, em seu livro “A percepção de lugar”, introduz a escrita com uma interessante frase de uma entrevista de Denise Scott Brown e Robert Venturi à Hans Obrist e Rem Koolhaas que menciona que os arquitetos, ao serem sensíveis ao seu tempo, gostam de analisar o que lhes estimula, pois, esse estímulo será relevante. Este artigo partiu de uma pesquisa que busca artifícios para promover um caráter identitário à cidade, através de um Promenade Urbano que valoriza a arquitetura moderna de Curitiba. A partir de tais análises, o centro da cidade de Curitiba é escolhido para abrigar um passeio deambulatório pela arquitetura moderna com intenção de instigar a percepção dos transeuntes ao os levar para espaços de encontro, com a arquitetura e com o outro. Um modesto e despojado convite à reflexão de como os arquitetos poderão entregar resultados pertinentes para os prementes desafios arquitetônicos.</abstract>
+        <abstract locale="en_US">Lineu Castello, in his book “Rethiking the meaning of a place”, starts his writing with an interesting sentence from an interview by Denise Scott Brown and Robert Venturi to Hans Obrist and Rem Koolhaas that mentions that architects, being sensitive to their time, like to analyze what stimulates them, because this stimulus will be relevant. This article started from a research that seeks artifices to promote an identity character to the city, through an Urban Promenade that values the modern architecture of Curitiba. Based on these analyses, the city center of Curitiba is chosen to host a walking tour of modern architecture to instigate people perceptions by taking them to spaces, where they can meet architecture and other people. A modest and uncluttered invitation to reflect on how architects can deliver relevant results for pressing architectural challenges.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Moderna</keyword>
+          <keyword>Deambular</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture</keyword>
+          <keyword>Modern</keyword>
+          <keyword>Walkability</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabela Ignacio de</givenname>
+            <familyname locale="pt_BR">Moura</familyname>
+            <country>BR</country>
+            <email>moura@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Karina Scussiato</givenname>
+            <familyname locale="pt_BR">Pimentel</familyname>
+            <country>BR</country>
+            <email>pimentel@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>443-457</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsp08-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Centro Histórico de São Paulo</title>
+        <subtitle locale="pt_BR">documentação e estudos de reabilitação</subtitle>
+        <abstract locale="pt_BR">A pesquisa &quot;Centro Histórico de São Paulo: documentação e estudos de reabilitação” apresentada aqui, tem como objetivos principais avaliar o potencial de aproveitamento e reabilitação das estruturas urbanas e arquitetônicas da área central a partir do início do século XIX, e contribuir para preservação e gestão do patrimônio construído do Centro Histórico de São Paulo. Os dados e informações reunidos a partir do levantamento sistemático das edificações e da estrutura urbana, de estudos bibliográficos, dos levantamentos de fontes arquivísticas e de levantamentos de campo, são organizados no Banco de Dados do Centro Histórico de São Paulo.</abstract>
+        <abstract locale="en_US">The research &quot;Historical Center of São Paulo: documentation and rehabilitation studies&quot; presented here, has as main objectives to evaluate the potential for use and rehabilitation of urban and architectural structures in the central area from the beginning of the 19th century, and to contribute to the preservation and management of the built heritage of the Historic Center of São Paulo The data and information gathered from the systematic survey of buildings and urban structure, bibliographic studies, surveys of archival sources and field surveys, are organized in the Database of the Historic Center of São Paulo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Documentação</keyword>
+          <keyword>Banco de Dados</keyword>
+          <keyword>Preservação do Centro Histórico de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentation</keyword>
+          <keyword>Database</keyword>
+          <keyword>Preservation of the Historic Center of São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alessandro José Castroviejo</givenname>
+            <familyname locale="pt_BR">Ribeiro</familyname>
+            <country>BR</country>
+            <email>ribeiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9552-766X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Cecília Rodrigues</givenname>
+            <familyname locale="pt_BR">dos Santos</familyname>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+        </authors>
+        <pages>458-471</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsp08-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Patrimônio ferroviário de birigui</title>
+        <subtitle locale="pt_BR">potencialidades contemporâneas de conservação e preservação</subtitle>
+        <abstract locale="pt_BR">Com a perspectiva da apreensão e cognição das multiplicidades, heterogeneidades e diversidades espaciais, se reconhecem as potencialidades do conjunto modernista do Patrimônio Ferroviário de Birigui. Esse bem patrimonial foi construído no início da década de 1970. Seu processo, marcado pelas territorialidades, desterritorialidades e reterritorialidades, foram identificadas pela experimentação espacial. Desse modo, o conjunto arquitetônico ferroviário é apreendido por meio das práticas de derivas juntamente com a realização de cartografias expressivas de forças e afetos mapeando as relações entre os indivíduos e sua ambiência, com suas multiplicidades presentes nos seus territórios, em constante movimento e transformação. Assim, a possibilidade de ativar esse espaço com seus corpos singulares atravessados pelos afetos, identificados e reconhecidos, pode estimular as sensações de pertencimento com o lugar, potencializando a valorização, conservação e preservação do patrimônio ferroviário da cidade.</abstract>
+        <abstract locale="en_US">The perspective of apprehension and cognition of multiplicities, heterogeneities and spatial diversities, the potential of the modernist set of the Birigui Railway Heritage is recognized. This heritage asset was built in the early 1970s. Its process, marked by territorialities, deterritorialities and reterritorialities, were identified by spatial experimentation. In this way, the railway architectural ensemble is apprehended through the practices of drifting together with the realization of expressive cartographies of forces and affections mapping the relationships between individuals and their environment, with their multiplicities present in their territories, in constant movement and transformation. Thus, the possibility of activating this space with their unique bodies crossed by affections, identified and recognized, can stimulate feelings of belonging to the place, enhancing the appreciation, conservation and preservation of the city's railway heritage.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio</keyword>
+          <keyword>Deriva</keyword>
+          <keyword>Cartografia</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Patrimony</keyword>
+          <keyword>Driftage</keyword>
+          <keyword>Cartography</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evelyn Caroline da Silva</givenname>
+            <familyname locale="pt_BR">Camara</familyname>
+            <country>BR</country>
+            <email>camara@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0005-2217-5500</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Hélio</givenname>
+            <familyname locale="pt_BR">Hirao</familyname>
+            <country>BR</country>
+            <email>hirao@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-0052-6788</orcid>
+          </author>
+        </authors>
+        <pages>472-484</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsp08-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">O papel da galeria de Design na preservação do móvel moderno brasileiro</title>
+        <subtitle locale="pt_BR">a experiência da bossa furniture</subtitle>
+        <abstract locale="pt_BR">Ao longo da última década, a recente valorização do Móvel Moderno Brasileiro vem sendo abordada no campo do resgate histórico e preservação da produção. Entretanto, o cenário geral se caracteriza pela ausência de publicações, exposições e pesquisas relacionadas ao mercado de design do Brasil no mesmo período. A tradição das casas de antiguidades e o tempo de mercado consolidaram as galerias, mas ainda existem poucas iniciativas de discussões acerca da salvaguarda, memória e identidade da rica produção brasileira da década de 1950. O presente artigo pretende abordar a experiência da galeria de atuação internacional Bossa Furniture, investigando suas iniciativas de preservação, comunicação e pesquisa referente à sua coleção de mobiliário moderno brasileiro.</abstract>
+        <abstract locale="en_US">Over the last decade, the recent appreciation of Brazilian Modern Furniture has become an object of research. Still, in the field of historical recovery and preservation of production, the general scenario is the absence of publications, exhibitions, and research related to the design market in Brazil. The tradition of the antique market as well as their logevity consolidated the galleries. However, we still have few initiatives for discussions about the rich Brazilian production's safeguard, memory, and identity. The present article intends to approach the experience of the international gallery Bossa Furniture, investigating its initiatives regarding preservation, communication, and investigation of its collection of modern Brazilian furniture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Design brasileiro</keyword>
+          <keyword>Móvel Moderno</keyword>
+          <keyword>Catalogação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian design</keyword>
+          <keyword>Mid-century furniture</keyword>
+          <keyword>Design collection</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ariel Brasileiro</givenname>
+            <familyname locale="pt_BR">Lins</familyname>
+            <country>BR</country>
+            <email>lins@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Isabela Ferreira</givenname>
+            <familyname locale="pt_BR">Milagre</familyname>
+            <country>BR</country>
+            <email>milagre@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>485-499</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsp08-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Gare do oriente</title>
+        <subtitle locale="pt_BR">âncora arquitetônica, dinâmica na expo98</subtitle>
+        <abstract locale="pt_BR">Este artigo aborda aspectos conceituais e físicos relacionados à concepção arquitetônica dentro do recinto da Expo98, destacando o projeto da Gare Intermodal de Lisboa (GIL) ou Gare do Oriente, observando sua relevância como espaço público, como edifício e como interposto de movimentos e dinâmicas dentro da cidade de Lisboa. De autoria do arquiteto espanhol Santiago Calatrava, a obra é o principal meio de chegada ao local, utilizando-se metrô, trem ou ônibus, possuindo grande estrutura que definiu um dos principais acessos, à época, à Expo98, e hoje, ao bairro denominado Parque das Nações, localizado na antiga zona oriental de Lisboa. O projeto caracteriza-se como espécie de viaduto interrompido, fazendo uma relação da cidade com o rio e de Lisboa com este novo bairro. As coberturas em ferro e vidro lembram um conjunto de árvores, e sua circulação é efetuada de modo linear, sugerindo uma espécie de “T” ou cruz. Investiga-se, nesta descrição pormenorizada, o processo de escolha do projeto referido, as inspirações de Santiago Calatrava, seu autor, e as exigências fundamentais e funcionais do complexo. Revela, na consequência, a interligação entre o programa de necessidades e o projeto, juntamente com o aprofundamento de alguns aspectos sobre a Gare do Oriente e suas relações com o lugar, destacando, em sua metodologia, um estudo analítico que compreende: Implantação e acessos; fluxos internos; usos e funções; equilíbrios; estruturas; e geometrias; concluindo com algumas evidências observadas neste artigo.</abstract>
+        <abstract locale="en_US">This article addresses conceptual and physical aspects related to the architectural conception within the enclosure of Expo98, highlighting the project of Gare Intermodal de Lisboa (GIL) or Gare do Oriente, noting its relevance as a public space, as a building and as an interposition of movements and dynamics within the city of Lisbon. Authored by the Spanish architect Santiago Calatrava, the work is the main means of arrival to the place, using subway, train, or bus, possessing great structure that defined one of the main accesses, at the time, to Expo98, and today, to the neighborhood called Parque das Nações, located in the old east of Lisbon. The project is characterized as a kind of interrupted viaduct, making a relationship between the city and the river and Lisbon with this new neighborhood. The iron and glass roofs resemble a set of trees, and their circulation is made in a linear way, suggesting a kind of &quot;T&quot; or cross. This detailed description investigates the process of choosing the referred project, the inspirations of Santiago Calatrava, its author, and the fundamental and functional requirements of the complex. It reveals, in consequence, the interconnection between the program of needs and the project, along with the deepening of some aspects about the Gare do Oriente and its relations with the place, highlighting, in its methodology, an analytical study that includes Implantation and accesses; internal flows; uses and functions; balances; structures; and geometries; concluding with some evidence observed in this article.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Expo98</keyword>
+          <keyword>Gare do Oriente</keyword>
+          <keyword>Parque das Nações</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Expo98</keyword>
+          <keyword>Gare do Oriente</keyword>
+          <keyword>Parque das Nações</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Oreste</givenname>
+            <familyname locale="pt_BR">Bortolli Junior</familyname>
+            <country>BR</country>
+            <email>bortolli_junior@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4430-4124</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Gerson Fernandes</givenname>
+            <familyname locale="pt_BR">Brancaliao</familyname>
+            <country>BR</country>
+            <email>brancaliao@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>500-517</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsp08-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Arquitetura e as bienais</title>
+        <subtitle locale="pt_BR">o acervo do arquivo histórico wanda svevo</subtitle>
+        <abstract locale="pt_BR">As Bienais de Arquitetura apresentam-se como oportunidades para estudos em diversos campos além da própria Arquitetura. São capazes de reunir e revelar a cultura arquitetônica, aspectos da prática profissional e da relação do arquiteto com a sociedade. Para estimular pesquisas que explorem estas exposições, este artigo adotou o objetivo de mapear os documentos relativos às Bienais Internacionais de Arquitetura de São Paulo (BIA) e às suas antecessoras, as Exposições Internacionais de Arquitetura (EIA), no Arquivo Histórico Wanda Svevo, o maior acervo dedicado às Bienais de São Paulo e a fonte mais rica e acessível sobre estes eventos. Através deste mapeamento, revelou-se o volume de documentos relativos a estas exposições e sua extensão da 1ª EIA (1951) à 7ª BIA (2007).</abstract>
+        <abstract locale="en_US">Architecture Biennials offer study opportunities in multiple fields beyond Architecture itself. They can bring together and reveal the architectural culture, aspects of professional practice, and the relations between architects and society. To encourage further research, this work maps the documents relating to the São Paulo International Architecture Biennials (BIA) and the International Architecture Exhibitions (EIA) in Wanda Svevo Historical Archive. This Archive holds the most notable collection of São Paulo Biennials and is the most accessible source about these events. This mapping revealed the number of related documents and their extension from the first EIA (1951) to the seventh BIA (2007).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Bienal de Arquitetura</keyword>
+          <keyword>Arquivo Histórico</keyword>
+          <keyword>História da Arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture Biennial</keyword>
+          <keyword>Historical Archive</keyword>
+          <keyword>Architecture History</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Raíssa Armelin</givenname>
+            <familyname locale="pt_BR">Lopes</familyname>
+            <country>BR</country>
+            <email>armelin_lopes@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Maria Reis de Góes</givenname>
+            <familyname locale="pt_BR">Monteiro</familyname>
+            <country>BR</country>
+            <email>monteiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7345-9558</orcid>
+          </author>
+        </authors>
+        <pages>518-533</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdsp08-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">Certidões vintenárias como fontes documentais</title>
+        <subtitle locale="pt_BR">alternativas para a compreensão histórica de um patrimônio arquitetônico de Niemeyer no interior do Rio de Janeiro</subtitle>
+        <abstract locale="pt_BR">O artigo trata do papel das certidões vintenárias como importantes fontes de pesquisa para a investigação no campo da arquitetura e urbanismo, em particular como alternativa para a compreensão histórica de patrimônios arquitetônicos que não possuem um amplo acervo disponível para consulta; utilizando como exemplo a pesquisa de uma casa moderna projetada por Oscar Niemeyer em 1949, no Rio de Janeiro entre os municípios de Mendes e Vassouras. Recentemente “descoberta”, a casa permanece desconhecida ou ignorada pela crítica em função do reduzido número de fontes documentais sobre a mesma e às dissonâncias presentes entre os autores que já a abordaram como perdida ou demolida. Dessa forma, a utilização de certidões vintenárias do imóvel atuou como ferramenta essencial não só para organizar e subsidiar lacunas, mas também como método de historicização de um patrimônio cuja história não se conhece em profundidade.</abstract>
+        <abstract locale="en_US">The article deals with the role of vintage certainties as important sources of research for research in the field of architecture and urbanism, in particular as an alternative for a historical understanding of architectural heritage that does not have a wide collection available for consultation; using as an example the research of a modern house designed by Oscar Niemeyer in 1949, in Rio de Janeiro, between the municipalities of Mendes and Vassouras. Recently “discovered”, the house remains unknown by critics based on the reduced number of documentary sources about the same and the dissonances present between the authors that are going to be addressed as lost or demolished. In this way, the use of current heritage certainties as an essential tool not only to organize and subsidize gaps, but also as a method of historicizing a heritage whose history is not known in depth.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Fontes documentais</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Modern architecture</keyword>
+          <keyword>Documentary sources</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia</givenname>
+            <familyname locale="pt_BR">Andrade</familyname>
+            <country>BR</country>
+            <email>andrade@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>534-548</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdsp08-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Concurso como prática</title>
+        <subtitle locale="pt_BR">o processo de pesquisa</subtitle>
+        <abstract locale="pt_BR">Em setembro de 2021, no Museu Oscar Niemeyer, em Curitiba, foi aberta ao público a exposição “Concurso como prática: a presença da arquitetura paranaense”, de autoria de Fábio Domingos Batista, Alexandre Ruiz Rosa e Marina Oba, com curadoria de Elisabete França. O objetivo do presente artigo é apresentar os métodos, as fontes, e os acervos que integraram os processos de investigação e fundamentação da Exposição, conduzidos por Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich e Julia Centeno.</abstract>
+        <abstract locale="en_US">In September 2021, at the Oscar Niemeyer Museum, in Curitiba, the exhibition “Contest as a practice: the presence of Paraná architecture” was opened to the public, made by Fábio Domingos Batista, Alexandre Ruiz Rosa and Marina Oba, curated by Elisabete França. The purpose of this article is to present the methods, sources, and collections that integrated the research and foundation processes of the Exhibition, conducted by Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich and Julia Centeno.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Concurso</keyword>
+          <keyword>Exposição</keyword>
+          <keyword>Acervo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Contest</keyword>
+          <keyword>Exhibition</keyword>
+          <keyword>Archive</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Beatriz Agostini</givenname>
+            <familyname locale="pt_BR">Teixeira</familyname>
+            <country>BR</country>
+            <email>teixeira@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marina</givenname>
+            <familyname locale="pt_BR">Oba</familyname>
+            <country>BR</country>
+            <email>oba@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Daniela</givenname>
+            <familyname locale="pt_BR">Moro</familyname>
+            <country>BR</country>
+            <email>moro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>549-561</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdsp08-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">A pesquisa historiográfica como propulsora da discussão sobre a importância dos acervos de concursos públicos de anteprojetos</title>
+        <abstract locale="pt_BR">Este ensaio tem por objetivo validar a pertinência da pesquisa historiográfica como propulsora da discussão sobre a importância dos acervos de concursos públicos de anteprojetos como ferramenta de investigação arquitetônica. Para tanto, concentra-se na pesquisa historiográfica desenvolvida sobre o concurso proposto para a edificação da Biblioteca Nacional, realizado em 1961, sendo a entrega efetiva dos anteprojetos em 1962. Há 60 anos o anteprojeto premiado foi o desenvolvido por Clorindo Testa, Francisco Bullrich e Alicia D. Cazzaniga. A escolha desse objeto de estudo é relevante como contribuição para a pesquisa, em andamento, da presente autora, que se concentra na apreciação da arquitetura latino americana, especialmente sobre a obra de Clorindo Testa.</abstract>
+        <abstract locale="en_US">This essay aims to validate the relevance of historiographical research as a propeller of the discussion about the importance of the collections of public tenders of preliminary projects as a tool for architectural investigation. To this end, it focuses on the historiographical research carried out on the tender proposed for the construction of the National Library, held in 1961, with the effective delivery of the preliminary projects in 1962. Sixty years ago, the winning draft was the one developed by Clorindo Testa, Francisco Bullrich and Alicia D. Cazzaniga. The choice of this object of study is relevant as a contribution to the research, in progress, of the present author, which focuses on the appreciation of Latin American architecture, especially on the work of Clorindo Testa.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervo</keyword>
+          <keyword>Concurso</keyword>
+          <keyword>Biblioteca Nacional</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collection</keyword>
+          <keyword>Contest</keyword>
+          <keyword>National Library</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cassandra Salton</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <country>BR</country>
+            <email>cassandrasaltoncoradin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-6366-2696</orcid>
+          </author>
+        </authors>
+        <pages>562-577</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdsp08-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Narrativas da Modernidade</title>
+        <subtitle locale="pt_BR">o problema das &quot;escolas&quot; e os acervos na historiografia da Arquitetura</subtitle>
+        <abstract locale="pt_BR">Este trabalho tem como objetivo discutir algumas das questões que envolvem a produção da história da arquitetura moderna no contexto recente, identificando rupturas e permanências da historiografia das últimas décadas em relação à construção canônica sobre o modernismo. Neste sentido o texto resgata alguns aspectos da historiografia do século XX e aborda a construção do modernismo como um movimento, para discutir a permanência e o uso da ideia de “escolas” de arquitetura na historiografia brasileira e a valorização mundial dos acervos dos grandes nomes da arquitetura moderna do país.</abstract>
+        <abstract locale="en_US">This work aims to discuss some of the issues that involve the production of the history of modern architecture in the current context, identifying ruptures and continuities in the historiography of recent decades in relation to the canonical construction of modernism. In this sense, the text rescues some aspects of 20th century historiography and addresses the construction of modernism as a movement, to discuss the permanence and use of the idea of “schools” of architecture in Brazilian historiography and the worldwide appreciation of the collections of the great names of the country's modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Historiografia</keyword>
+          <keyword>Arquitetura paulista</keyword>
+          <keyword>Acervos de arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Historiography</keyword>
+          <keyword>São Paulo architecture</keyword>
+          <keyword>Architectural collections</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luz de Lucca</givenname>
+            <familyname locale="pt_BR">Neto</familyname>
+            <country>BR</country>
+            <email>lucca_neto@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>578-593</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdsp08-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">O concurso e o projeto premiado para a sede da SBPC (1978)</title>
+        <abstract locale="pt_BR">Em 1978 o Instituto de Arquitetos do Brasil (IAB São Paulo) organizou o concurso nacional para a sede da Sociedade Brasileira para o Progresso da Ciência (SBPC), vencido por uma equipe de arquitetos sediados em Curitiba. Embora não-construída, a proposta vencedora foi considerada simples e coerente com o orçamento estipulado, e se mostra pragmática e eficaz. Mas o que propuseram os autores do projeto merecedor da premiação? Que pensamento arquitetônico e que estratégia projetual construíram a sua proposta? Partindo do redesenho da proposta e da sua análise formal e contextual, este trabalho explora um certame pouco conhecido da história e da historiografia da arquitetura brasileira. Ao investigar as ideias que sustentaram esta edificação este trabalho revela que, embora simples, esta arquitetura já evidenciava revisões e distanciamentos do ideário modernista, a partir da acomodação do programa e da consideração do caráter da obra.</abstract>
+        <abstract locale="en_US">In 1978, the Institute of Architects of Brazil (IAB São Paulo) organized the national design competition for the headquarters of the Brazilian Society for the Progress of Science (SBPC), which was won by a team of architects based in Curitiba. Although not built, the winning proposal was considered simple and consistent with the budget; and it proved to be pragmatic and effective. But what was the outstanding aspect of that proposal? Which architectural thought and design strategy did support that proposal? Based upon the redesign and the formal and contextual analysis of the original proposal, this paper explores a littleknown event in the history and historiography of Brazilian architecture. By investigating the ideas that supported that design, this paper reveals that, although simple, that architecture already evidenced revision and distancing of the modernist ideology, regarding the accommodation of the program and the consideration of the building’s character.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Estratégia projetual</keyword>
+          <keyword>Curitiba</keyword>
+          <keyword>Metodologia de projeto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Design strategy</keyword>
+          <keyword>Curitiba</keyword>
+          <keyword>Design methodology</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabella Caroline</givenname>
+            <familyname locale="pt_BR">Januário</familyname>
+            <country>BR</country>
+            <email>sem-email-1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-1650-8293</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andryelle de Carvalho</givenname>
+            <familyname locale="pt_BR">Ptaszek</familyname>
+            <country>BR</country>
+            <email>ptaszek@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Renato Leão</givenname>
+            <familyname locale="pt_BR">Rego</familyname>
+            <country>BR</country>
+            <email>rego@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1822-2907</orcid>
+          </author>
+        </authors>
+        <pages>594-610</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -39,6 +39,18 @@ SIGLAS = {
     'gt', 'ii', 'iii', 'iv', 'xx', 'xxi', 'xix', 'xviii', 'xvii', 'xvi',
     'us', 'mapi', 'tfa', 'vant', 'cuca', 'lic',
     'pmcmv',
+    # Institutos e órgãos
+    'iapi', 'iapc', 'ibc', 'iab', 'sbpc', 'fumest',
+    # Edifícios e conjuntos
+    'crusp', 'maesa', 'iceia', 'sqs', 'ibit',
+    # Empresas e organizações
+    'texaco', 'ancap', 'ucovi',
+    # Tecnologia e sistemas
+    'bim', 'brt',
+    # Universidades e escolas
+    'ufsm', 'fabico', 'fde',
+    # Outros
+    'mmm', 'ee', 'jk', 'cap', 'mon', 'fam', 'efsc', 'f1', 'mm',
 }
 
 # Nomes próprios (capitalizar)
@@ -61,13 +73,39 @@ NOMES_PROPRIOS = {
     'bina', 'fonyat',
     'tarsila',
     'glauber',
+    # Arquitetos — SP e regionais
+    'levi', 'rino', 'eduardo', 'kneese', 'mello',
+    'pilon', 'broos', 'franz', 'libeskind',
+    'gregori', 'gregório', 'zolko', 'toscano',
+    'joaquim', 'liliana', 'guedes', 'mendes', 'andrade',
+    'gastão', 'caron', 'miranda', 'alcides', 'sanovicz',
+    'hans', 'christiano', 'neves', 'penteado',
+    'barbosa', 'santoro', 'palanti', 'marcello', 'fragelli',
+    'gilioli', 'ubyrajara', 'odiléa',
+    'ferraz', 'millan', 'zanuso',
+    # Arquitetos — Sul e Rio da Prata
+    'bonet', 'fayet', 'gandolfi', 'vilamajó', 'linzmeyer', 'leo',
+    # Arquitetos — N/NE
+    'vital', 'modesto', 'david', 'zélia', 'nobre', 'furtado',
+    'palumbo', 'athos', 'bulcão', 'hélio', 'duarte',
+    'geraldo', 'santana', 'césar', 'milton', 'wallig',
+    'pedrosa', 'cleon', 'arialdo', 'pinho', 'alcyr', 'meira',
+    'kátia', 'pinto', 'sebastião', 'lins',
+    # Arquitetos — RJ
+    'moreira', 'arthur', 'soares', 'lota', 'portinho',
+    'machado', 'neiva',
     # Arquitetos estrangeiros
     'corbusier', 'mies', 'rohe', 'gropius', 'wright', 'aalto', 'kahn', 'koenig',
     'marius', 'duintjer', 'schiphol',
     'nicia', 'bormann', 'nélida', 'nélia', 'romero',
+    'perret', 'piacentini', 'capua',
+    'irace', 'otaegui',
+    # Industriais e personalidades
+    'olivetti', 'ciccillo', 'matarazzo', 'abramo', 'eberle',
     # Políticos
     'kubitschek', 'juscelino', 'vargas', 'getúlio', 'capanema', 'gustavo',
     'janary', 'nunes', 'sarney',
+    'kennedy',
     # Outros nomes relevantes
     'reginaldo', 'esteves',
     'amaro', 'fiuza', 'fiúza',
@@ -93,6 +131,27 @@ NOMES_PROPRIOS = {
     'pedro', 'dora',
     'alberto', 'carlos',
     'josé', 'jorge',
+    'rodrigues', 'souza', 'almeida', 'longo', 'severo', 'fonseca', 'marcos',
+    'francisco', 'batista', 'maurício', 'melo', 'magalhães',
+    'virzi', 'félix',
+    'giacomo', 'dico',
+    'beckenkamp', 'kormann',
+    # sdnne05
+    'armando', 'holanda', 'cavalcanti', 'neudson',
+    'antônio', 'antonio', 'araújo', 'araujo',
+    'wandenkolk', 'tinoco',
+    'miguel', 'caddah',
+    'diógenes', 'rebouças',
+    'ernani', 'henrique',
+    'claudio', 'cláudio', 'massa',
+    'farias', 'lagos',
+    'joão', 'pessoa',
+    'vivaldão', 'machadão',
+    'barroso', 'almirante',
+    'chile', 'argentina', 'uruguai', 'paraguai', 'colômbia', 'venezuela',
+    'méxico', 'peru', 'bolívia', 'equador', 'cuba',
+    'frança', 'itália', 'alemanha', 'espanha', 'portugal', 'inglaterra',
+    'houssay',
     # Lugares - cidades e estados
     'brasil', 'brazil', 'brasília', 'brasilia', 'rio', 'janeiro', 'paulo',
     'belo', 'horizonte', 'salvador', 'recife', 'fortaleza', 'curitiba',
@@ -106,9 +165,23 @@ NOMES_PROPRIOS = {
     'grande',  # em "Campina Grande"
     'nordeste', 'norte', 'sul', 'sudeste',
     'amazônia', 'amazônico',
+    # Cidades — SP
+    'santos', 'campinas', 'araraquara', 'maringá', 'londrina', 'guarujá', 'jaú',
+    # Cidades — Sul e Cone Sul
+    'canoas', 'caracas', 'montevidéu', 'farroupilha', 'caxias',
+    # Cidades — N/NE
+    'maceió', 'macapá',
     # Bairros e localidades
     'pampulha', 'pedregulho', 'pici', 'anauá', 'taumanan',
     'ceilândia', 'ludovicense',
+    'higienópolis', 'pompeia', 'califórnia', 'sinimbú',
+    'capitólio', 'friburgo', 'imbé',
+    # Rios e acidentes geográficos
+    'tietê', 'jacuí', 'goitá',
+    # Regiões
+    'cariri',
+    # Estados
+    'pará',
     # Obras/Edifícios
     'itamaraty', 'planalto', 'alvorada', 'congresso',
     'copan', 'guinle', 'ibirapuera', 'castelão',
@@ -165,6 +238,15 @@ EXPRESSOES_CONSOLIDADAS = {
     'passo da pátria': 'Passo da Pátria',
     'centro de exportadores': 'Centro de Exportadores',
     'hospital universitário': 'Hospital Universitário',
+    # sdnne05
+    'joão pessoa': 'João Pessoa',
+    'ouro preto': 'Ouro Preto',
+    'vila serra do navio': 'Vila Serra do Navio',
+    'vila amazonas': 'Vila Amazonas',
+    'cabo branco': 'Cabo Branco',
+    'chapéu de palha': 'Chapéu de Palha',
+    'porto alegre': 'Porto Alegre',
+    'viña del mar': 'Viña del Mar',
 }
 
 # Palavras compostas com hífen
@@ -259,6 +341,17 @@ def normalizar_texto(texto, eh_subtitulo=False):
                 p_fake = normalizar_palavra(parte, i if j == 0 else 1, inicio_frase=(i == 0 and j == 0) and not eh_subtitulo)
                 partes_norm.append(p_fake)
             resultado.append('-'.join(partes_norm))
+        elif '/' in palavra and not palavra.startswith('http'):
+            # Tratar cada parte da barra
+            partes = palavra.split('/')
+            partes_norm = []
+            for j, parte in enumerate(partes):
+                if parte:
+                    p_norm = normalizar_palavra(parte, i if j == 0 else 1, inicio_frase=(i == 0 and j == 0) and not eh_subtitulo)
+                    partes_norm.append(p_norm)
+                else:
+                    partes_norm.append(parte)
+            resultado.append('/'.join(partes_norm))
         else:
             inicio_frase = (i == 0) and not eh_subtitulo
             palavra_norm = normalizar_palavra(palavra, i, inicio_frase)

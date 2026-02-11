@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsul05-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Para além da “difusão” da Arquitetura Moderna Brasileira</title>
+        <subtitle locale="pt_BR">um esforço de categorização</subtitle>
+        <abstract locale="pt_BR">O artigo busca refletir sobre determinadas “categorias” associadas ao processo normalmente chamado de “difusão” ou “recepção” da Arquitetura Moderna Brasileira, verificado no país durante os anos 1950-60. A leitura e análise de uma série de trabalhos originários da pós-graduação (dissertações de mestrado e teses de doutorado), permitiram ampliar o escopo de discussão sobre o tema da “difusão” e mostrar que a narrativa que vem se construindo sobre o tema a partir da ideia de irradiação – em outras palavras, de uma arquitetura que se dissemina a partir do eixo Rio de Janeiro/São Paulo –, já não dá conta de expressar a complexidade, o alcance e os significados do fenômeno. Essas pesquisas – em número crescente desde os anos 1990, e acompanhando as discussões realizadas no âmbito dos seminários DOCOMOMO e a expansão dos programas de pós-graduação em arquitetura e urbanismo – têm trazido contribuições importantes para o tema, mergulhando em fontes primárias (jornais, revistas, propagandas, documentos oficiais etc.) dos mais variados locais do país, e revelando que outros vetores são fundamentais para uma adequada compreensão do fenômeno e de seu caráter nacional. Dentre as categorias investigadas, podemos citar: a criação de novos cursos (não apenas de arquitetura, mas também de engenharia) e de novos ambientes de discussão; o protagonismo exercido por algumas figuras-chave; os profissionais migrantes e as figuras-chave que têm ficado em segundo plano; o papel do Estado (via legislação ou via construção direta); a participação da incorporação imobiliária e dos periódicos especializados de arquitetura; e a circulação de ideias para além do âmbito profissional de arquitetura, seja através de profissionais sem o domínio de ofício, seja a partir de publicações de fácil acesso e consumo – usualmente chamada de “popularização” da arquitetura moderna brasileira. A leitura dos diversos trabalhos da pós-graduação tem evidenciado um campo maior de discussões em torno do tema da “difusão”: os contatos pessoais, as relações de parentesco, as viagens realizadas por arquitetos e outros profissionais etc., informações que em geral não apresentam destaque nos trabalhos, mas que indicam uma multiplicidade de relações que contribuíram para o alcance e complexidade do fenômeno.</abstract>
+        <abstract locale="en_US">This paper aims to consider certain &quot;categories&quot; associated with the process usually called &quot;diffusion&quot; or &quot;reception&quot; of Brazilian Modern Architecture, during the 1950-60’s decades. A series of studies conducted in the architecture’s graduate programs has contributed to extend the discussion about “diffusion” and to show that the dominant narrative is considering an idea of “irradiation” – in other words, the idea of an architecture which spreads from Rio de Janeiro and Sao Paulo - that no longer expresses the complexity and the scope and meaning of the large phenomenon. These surveys - in increasing numbers since the 1990s, and following the discussions held under the DOCOMOMO seminars and the expansion of graduate programs in architecture and urbanism - have made important contributions to the subject, exploring primary sources (newspapers, magazines, advertisements, official documents etc.) of various parts of the country, and revealing that other vectors are essential to a proper understanding of the phenomenon and its national character. Among the investigated categories, we can mention: the creation of new undergraduate courses (not only architecture, but also engineering) and new discussion environments, the role played by some key figures, migrants and other professionals who have stayed in the background, the buildings and urban legislations conducted by the State, the share of real state and specialized architectural journals and circulation of ideas beyond professional architecture framework (even by professionals without the craft domain), either from easy access and consumer publications - usually considered into &quot;popular modernist architecture&quot; in Brazil. The studies have also shown an increased field of discussions opportunities around the theme of &quot;diffusion&quot;: personal contacts and other relationships, the trips made by architects and other professionals etc. These information feature with less importance in the works, but indicates a multiplicity of relationships that contributed to the scope and complexity of the phenomenon.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Difusão. Recepção. Arquitetura Moderna Brasileira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Diffusion. Reception. Brazilian Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Adriana Leal de</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <affiliation locale="pt_BR">UNICEP</affiliation>
+            <country>BR</country>
+            <email>lalmeida@sc.usp.br</email>
+            <orcid>https://orcid.org/0009-0004-4822-5767</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carlos Alberto Ferreira</givenname>
+            <familyname locale="pt_BR">Martins</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>cmartins@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0003-4321-2057</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsul05-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Faculdade de Engenharia de Montevidéu</title>
+        <subtitle locale="pt_BR">um novo uso para a velha sala de máquinas</subtitle>
+        <abstract locale="pt_BR">Localizado dentro do Parque Rodó, em Montevidéu, o edifício sede da Faculdade de Engenharia da Universidade da República tem projeto do arquiteto Julio Vilamajó (1894-1948) e abriga todas as funções dos cursos de engenharia, física e matemática da universidade desde 1944. Na década de 1990, sob condução do arquiteto Gustavo Scheps (1954-), passou por uma reforma em parte de seus interiores, foco de análise deste trabalho. Totalmente construído em concreto armado, o edifício projetado por Vilamajó está implantado junto a um dos limites do parque público, relacionando-se tanto com a cidade como com o Rio da Prata. A volumetria combina grandes volumes elevados do solo aliados a estruturas pousadas no chão. O espaço livre do térreo estabelece a relação visual entre o rio e a cidade e garante a circulação de pedestres dentro do parque. A plasticidade do edifício resulta da própria estrutura exteriorizada, o que deixa aparentes tanto a forma quando a matéria que o compõem. No início da década de 1990, devido à necessidade de ampliar as áreas para salas de pesquisa e administração na faculdade, optou-se por uma intervenção arquitetônica que gerasse um aproveitamento melhor do espaço disponível na sala de máquinas. A cargo da tarefa, o decano da Faculdade de Arquitetura da Universidade da República Gustavo Scheps optou por projetar um jogo de passarelas suspensas que levam às salas, construídas com pés-direitos mais baixos, adequados aos novos serviços Observando a dupla intervenção, tanto do ponto de vista da materialidade quanto no que diz respeito à adoção do novo uso, percebe-se que mais do que estabelecer uma combinação harmoniosa do contemporâneo com o moderno, o autor firmou um diálogo franco entre os dois períodos, percebido tanto pelo aspecto dos materiais utilizados na intervenção quanto pelo uso gerado. Este artigo objetiva documentar visita e levantamento fotográfico atual realizado no edifício pela autora, além interpretar a reforma sob o ponto de vista do desafio de projetar no construído, uma vez que qualquer intervenção exerce um papel modificador à arquitetura existente. Foi analisada a intervenção in loco com base em visita guiada por Gustavo Scheps. O estudo procura compreender a maneira como o autor lidou com os novos aspectos do programa de necessidades, a tecnologia utilizada para a construção do projeto de intervenção e a maneira como ele lidou com o caráter formal do projeto em relação ao edifício existente.</abstract>
+        <abstract locale="en_US">Placed within the Rodó Park in Montevideo, the headquarters building of National University’s Faculty of Engeneering was desingned by Julio Vilamajó (1894-1948) and receives all engineering, physics and mathematics courses from the university since 1944. In the 1990s, under the work of the architect Gustavo Scheps (1954-), underwent a renovation of its interior, which its focus of analysis of this work. Fully built in reinforced concrete, the building designed by Vilamajó is implanted along one of the limits of the public park, relating both to the city and to the River Plate. The shape combines high ground volumes with structures on the floor. The unfilled floor space establishes a visual relationship between the river and the city and ensures pedestrian circulation within the park. The plasticity of the building results from the externalized structure, which makes apparent the form as much as the material. In the early 1990s, due to the need to expand areas for research and administration in the college, it was decided for an architectural intervention that would generate a better use of the available space in the engine’s room. At charge of the task, the Dean of the National University’s Architecture Faculty Gustavo Scheps, chose to design a suspended walkways that lead to the rooms, built with lower ceiling heights, suitable for new services. Observing the double intervention, of both the materiality point of view and the adoption of the new use, it is clear that more then establish a harmonious blend of contemporary and modern, the author firmed a dialogue between the two periods, perceived both by the appearance of the materials used in the intervention and the new use generated. This article aims to document current view of the building by visit and photographic analyses by the author, in addition to interpret the reform under the point of view of the challenge of designing in the built, since any intervention modifies the existing architecture. It was analyz</abstract>
+        <keywords locale="pt_BR">
+          <keyword>rearquitetura</keyword>
+          <keyword>concreto aparente</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Cristina</givenname>
+            <familyname locale="pt_BR">Castagna</familyname>
+            <country>BR</country>
+            <email>castagna@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0973-9744</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsul05-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Casa Curutchet</title>
+        <subtitle locale="pt_BR">um mimo poético de Le Corbusier à América Latina</subtitle>
+        <abstract locale="pt_BR">Em Setembro de 1948, Pedro Curutchet encomendou uma casa-consultório a Le Corbusier por intermédio de sua irmã que viajava com freqüência a Paris. O médico-cirurgião argentino, progressista e revolucionário, interessado em Le Corbusier a partir do Plano de 1929 para Buenos Aires, era um cliente ideal; e o encargo, um triplo desafio: além da distância entre o arquiteto e o local jamais visitado durante o processo de projeto, existia a dificuldade de acomodar um programa duplo em terreno pequeno inserido em um contexto tradicional consolidado. Entretanto, a dificuldade se tornou uma oportunidade de rememorar a viagem de 1929, e aplicar as estratégias compositivas desenvolvidas pelo ateliê da Rue de Sèvres 35, em Paris, na Usine Duvall e na Unité d’habitación de Marseille, um período de transição entre a fertilidade teórica do final dos anos 1920 e os grandes trabalhos dos anos 1950. O objetivo desse trabalho é examinar e discutir o projeto, de acordo com as tres linhas de pensamento de Le Corbusier - a tipologia, a sintaxe dos cinco pontos e a abordagem técnica -, as suas referências dentro do próprio trabalho corbusiano, e alguns aspectos da obra, restauração e preservação de um dos exemplares mais importantes da arquitetura moderna dos anos 1930-70 abaixo do paralelo 22.</abstract>
+        <abstract locale="en_US">In 1948, the Argentine doctor-surgeon Pedro Curutchet ordered a home-office to Le Corbusier through his sister who frequently has been traveled to Paris. It was a triple challenge: in addition to the distance between the architect and the place, which has never been visited during the design process, there was the difficulty of accommodating a double program in small plot inserted in a traditional consolidated context. However, the difficulty has become an opportunity to recall the journey of 1929, and apply the compositional strategies developed in Usine Duvall and Unité d'habitación de Marseille’ s designs by the studio in the Rue de Sèvres 35, in Paris, in a transition’s period between theoretical fertility of the late 1920s and the great works of the 1950s. The aim of this study is to examine and discuss the project according to Le Corbusier’s three lines of thought - type, five point’s syntax and technical approach - the Le Corbusier's references within his work and some aspects of the building construction, restoration and preservation of one of the most important examples of 1930-70s modern architecture below parallel 22. Key words: Curutchet house, Le Corbusier, Latin America. 2 Casa Curutchet: um mimo poético de Le Corbusier à América Latina Em Setembro de 1948, Pedro Curutchet encomendou uma casa-consultório a Le Corbusier por intermédio de sua irmã que viajava com freqüência a Paris. O médico-cirurgião argentino, progressista e revolucionário, interessado em Le Corbusier a partir do Plano de 1929 para Buenos Aires (Broadbent 2013, 19), era um cliente ideal; e o encargo, um triplo desafio: além da distância entre o arquiteto e o local jamais visitado durante o processo de projeto, existia a dificuldade de acomodar um programa duplo - residência e consultório - em terreno pequeno, inserido entre divisas, em um contexto tradicional consolidado, o que resultaria em uma solução com uma única fachada - circunstancia inédita na produção anterior do autor. En</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa Curutchet</keyword>
+          <keyword>Le Corbusier</keyword>
+          <keyword>América Latina</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andréa Soler</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <country>BR</country>
+            <email>andreasolermachado@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0243-7946</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Sílvia</givenname>
+            <familyname locale="pt_BR">Corrêa</familyname>
+            <country>BR</country>
+            <email>correa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4286-3667</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Angelina</givenname>
+            <familyname locale="pt_BR">Blömker</familyname>
+            <country>BR</country>
+            <email>blomker@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Adriana</givenname>
+            <familyname locale="pt_BR">Sabadi</familyname>
+            <country>BR</country>
+            <email>sabadi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1595-343X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsul05-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Como qualificar sem descaracterizar</title>
+        <subtitle locale="pt_BR">estudo de caso no edifício da Secretaria Municipal de Obras e Viação em Porto Alegre</subtitle>
+        <abstract locale="pt_BR">A reabilitação da arquitetura moderna tende a transformar-se num campo especializado de crescente demanda. Muitos dos edifícios desse período têm sido demolidos ou refuncionalizados, mas nem sempre a conservação dos aspectos originais ou da significância cultural das obras é respeitada. Na maior parte das vezes, a justificativa da necessidade de melhoria dos aspectos de conforto ambiental e eficiência energética se sobrepõe às questões da visualidade. A nova materialidade das intervenções, em geral, não busca desenvolver soluções que respeitem aspectos da linguagem arquitetônica da obra ou projeto original. Isto é, várias intervenções sobre o patrimônio moderno contrariam pressupostos do campo da conservação, que supervaloriza a integridade das obras mesmo que em detrimento de suas condições de conforto ambiental. Um ponto central da discussão é como equilibrar aspectos econômicos, de eficiência e conforto com decisões sobre o que conservar, manter ou renovar. Uma das características do período moderno foi a grande experimentação construtiva, quando os arquitetos buscavam conhecer os limites de materiais até então pouco explorados, como o concreto e o vidro. Em decorrência de vícios de projeto ou dos desgastes ocorridos com o tempo, as fachadas são, em geral, o ponto mais crítico das edificações ainda em uso. A maior parte dos edifícios públicos do período moderno em Porto Alegre está em péssimo estado de conservação e sem condições de habitabilidade para seus usuários. Em termos de conforto térmico e luminoso, podem ser considerados extremamente inadequados. Dentro desse contexto, o edifício escolhido como objeto para desenvolvimento de pesquisa, cujo objetivo é verificar como requalificar os aspectos ambientais e tecnológicos de um edifício exemplar da arquitetura moderna sem descaracterizá-la em relação aos seus valores históricos e artísticos, foi a sede da Secretaria Municipal de Obras e Viação. De autoria dos arquitetos Moojen, Vallandro e Ferreira, o edifício foi projetado e executado entre os anos de 1966 e 1970. Possui os elementos mais representativos das construções do período moderno, como as fachadas independentes compostas de esquadrias envidraçadas e contínuas apoiadas sobre painéis pré-fabricados de concreto. Com planta livre, contendo apenas um núcleo central de sanitários e circulações verticais, o edifício é coordenado por um módulo de 1,25m x 1,25m, tanto nos elementos estruturais e de fachada quanto nos elementos internos, como divisórias e forros, por exemplo. O rigor do desenho, inclusive do mobiliário, é um dos grandes valores da obra. Como em muitas edificações de uso público no Brasil, a edificação carece de manutenção continuada e o desgaste dos elementos da fachada são visíveis. Alterações externas foram realizadas na década de 1980, sem consulta aos autores, quando foram retiradas as esquadrias originais com montantes em ferro e substituídas por outras em alumínio. A nova subdivisão dos montantes e vidros modificou a aparência da fachada, sem resolver as questões de ganho térmico e falta de estanqueidade à água e sonora identificadas até hoje no edifício através de uma avaliação pós-ocupação. A discussão apresentada neste artigo simula alternativas de intervenção nas fachadas, desenvolvidas em 2014 por alunos do Mestrado Internacional “Facade Design and Construction” da Detmolder Schule für Architektur und Innenarchitektur, na Alemanha. Utilizando o estudo de caso como estratégia metodológica, neste edifício com problemas típicos dos sistemas construtivos do período moderno foram analisadas e comparadas simulações do projeto original e do estado atual de desempenho da fachada com outras duas alternativas de intervenção, cuja variável seria a maior ou menor interferência visual na obra, verificando suas consequências na concepção arquitetônica original. Resultados preliminares apontam para o desenvolvimento de novos materiais como melhor estratégia para equilibrar o conflito entre a manutenção da imagem da obra e a melhoria dos aspectos de conforto e eficiência energética.</abstract>
+        <abstract locale="en_US">The rehabilitation of modern architecture buildings tends to become a specialized field of growing demand all over the world. Many of the buildings from this time have been demolished or have new uses, but not always the unique modern elements or cultural significance have been respected. In most cases, the reason is the need to improve environmental comfort aspects and energy efficiency and these aspects have been more important than visually issues. In general, the proposed new materiality interventions do not seek to develop solutions that respect aspects of the architectural language or original design. That is, several interventions on the modern heritage contradict assumptions of the field of conservation, which sometimes overestimates the integrity of works even at the expense of their environmental comfort conditions. A central point of the discussion is how to balance economic, efficiency and comfort aspects concerned to the decisions about what to preserve, maintain or renew. One of the main features from modern time practice was the great constructive experimentation, when architects sought to know the limits of materials not well explored until then, like concrete and glass. Because of design defects or wear occurring over time, the facades are generally the most critical building´s element that still in use. Most of the public buildings from the modern time in Porto Alegre face serious problems from lack of maintenance and are inadequate for users in terms of lighting or thermal comfort. This paper aims to present the first results of an ongoing research project which the main goal is to verify how requalify environmental and technological aspects of an exemplary building of modern architecture time without unconfiguring it in relation to its historical and artistic values. In this context, the building chosen as a research case study was the headquarters building of the Secretaria Municipal de Obras e Viação designed by Moojen, Vallandro and Ferreira architects and built between the years 1966 and 1970. The building presents the most representative elements of the modern architecture, as the composite independent façade glazing and continuous frames supported on prefabricated concrete panels, for example. The open floor plan contains only a core group of sanitariums and vertical circulations. A 1,25m x 1,25m module coordinates the structural, facade and internal elements, such as partitions and ceilings. The rigorous coordination of the design, that includes the furniture, is one of the great values of work. As many public buildings in Brazil, this one lacks continued maintenance and wear of the facade elements are visible. External changes were made in the 1980s, without consulting the authors. The original window iron frames were taken away and replaced by aluminum ones. A new design of the window frames and new glass proprieties changed the appearance and materiality of the façade, without solving the issues of heat gain, water leaking and noise from outside identified on a post occupancy evaluation. This article is based on simulation of alternative facades interventions developed in 2014 by students of the International Master &quot;Facade Design and Construction&quot; of Detmolder Schule für Architektur und Innenarchitektur, in Germany. Using the case study as a methodological strategy, this study analyzes and compares simulations of original project and the current façade´s thermal and energy performance with two other alternatives, which variable in respect to the bigger or smaller visual interference. The simulations allow us to check the consequences of the interventions on the original architectural design. Preliminary results point to the development of new materials as the best strategy to balance the conflict between the image of the work of maintaining and improving the aspects of comfort and energy efficiency.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>requalificação de edifícios</keyword>
+          <keyword>conforto ambiental</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>building rehabilitation, environmental comfort</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Betina Tschiedel</givenname>
+            <familyname locale="pt_BR">Martau</familyname>
+            <country>BR</country>
+            <email>betina.martau@ufrgs.br</email>
+            <orcid>https://orcid.org/0000-0001-6440-8126</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernando Duro da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>duro@unisinos.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsul05-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">A flexibilidade como atributo da Arquitetura Moderna Brasileira e sua vigência na contemporaneidade</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna. Arquitetura Moderna Brasileira. Flexibilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture. Modern Architecture in Brazil. Flexibility</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Bruno Melo</givenname>
+            <familyname locale="pt_BR">Braga</familyname>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-3140-2195</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsul05-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">A preservação do “não moderno” como parte do processo de preservação da cidade moderna</title>
+        <subtitle locale="pt_BR">o caso de Maringá, PR</subtitle>
+        <abstract locale="pt_BR">O período de colonização da cidade de Maringá - PR coincide com o auge da arquitetura moderna brasileira. Enquanto algumas cidades como São Paulo e Rio de Janeiro expunham ícones da arquitetura moderna brasileira, Maringá acabara sua gestação e “nascia” pelo plano colonizador da empresa Cia de Terras Norte do Paraná, de capital britânico. Este empreendimento, de cunho capitalista, almejava a ocupação de terras por meio da venda de glebas, distribuídas ao longo de uma rede de cidades dentre as quais destaca-se Maringá, traçada pelo engenheiro Jorge de Macedo Vieira sob o ideário da cidade-jardim de Howard. As facilidades de compra de lotes proporcionadas pela Cia. atraíram a preferência de imigrantes (japoneses, alemães, árabes e portugueses, dentre outros), que viam a oportunidade de se tornarem pequenos proprietários agrícolas. A arquitetura colonizadora de Maringá constituía-se principalmente de edificações de madeira, abundante na região, que revelavam como as técnicas construtivas tradicionais dos imigrantes se adaptavam às condições físicas e culturais encontradas pelos colonizadores. A partir de 1960, com o fim do período colonizador e a escassez da madeira, a “Maringá Moderna”, desde seu projeto de implantação, inseriu-se no contexto modernizador que avançara praticamente todo o país e tinha como principal preceito o rompimento com a arquitetura produzida anteriormente. No curto período marcado por transformações culturais e ideológicas, Maringá vê surgir entre as antigas edificações de madeira símbolos da chegada de uma forma de projetar e construir marcada pelo emprego de novos materiais e técnicas construtivas, pela aparência abstrata que renegava a imagem tradicional da casa, linhas horizontais e outros elementos característicos da arquitetura moderna. A arquitetura de madeira dos colonizadores, não moderna e não condizente com a nova estética ou preceitos, inicia um processo de extinção gerada pela falta de manutenção e descaso por parte do movimento modernista. A cidade moderna tenta apagar ou excluir seu passado, e seus objetos representativos, em prol da modernização desmedida, uma tensão constante entre o antigo e o moderno. A história não deve ser vista de forma linear, sob uma ótica positivista onde movimentos culturais e arquitetônicos (materiais e técnicas) são simplesmente substituídos com a passagem do tempo, onde as antigas edificações de madeira devem dar espaço às edificações modernistas, considerando apenas os avanços científicos, mas como processos que se sobrepuseram e que são continuamente sobrepostos, delineados por conceitos e valores que fogem ao campo científico e se voltam para outras áreas como economia, sociologia e antropologia. Assim, não cabe a rejeição da arquitetura vernácula em madeira e suas técnicas construtivas, pelo fato de constituírem parte intrínseca da história que permite compreender como se deu o processo de colonização de Maringá, e como preservação da própria configuração dela na qualidade de Cidade Moderna. Esta preservação poderia ser assegurada pelas legislações nacionais e internacionais, que compreendem e instituem o registro de bens culturais que atuem como testemunho de uma civilização particular, saberes e conhecimentos, e modos de fazer enraizados no cotidiano das comunidades. Propõe-se aqui, por meio de levantamento bibliográfico e análise de conceitos presentes na historiografia, na questão de patrimônio e preservação, o estudo de uma relação equilibrada entre os ideais de modernidade presentes na cidade de Maringá e a preservação do patrimônio cultural da arquitetura em madeira, de forma que o avanço não seja tolhido em detrimento da conservação, e vice-versa. Preservar hoje a arquitetura em madeira na cidade moderna consiste em componente essencial para a sua historiografia e incentiva, a preservação de exemplares da arquitetura moderna. Esta uma herança, acumulada por gerações, que reflete em suas particularidades inseridas no todo, temas que vão além das questões relacionadas ao avanço tecnológico e a própria arquitetura.</abstract>
+        <abstract locale="en_US">The period of colonization of the city Maringá-Paraná-Brazil coincides with the best moment of the Brazilian modern architecture. While some cities like São Paulo and Rio de Janeiro exposed icons of modern architecture, Maringá was born by the settler Companhia Melhoramentos Norte do Paraná, of British capital. This capitalist enterprise wanted the occupation of land by sale of plots of farmland distributed throughout a network of cities among which Maringá stands out, designed by the engineer Jorge de Macedo Vieira under the ideals of the City-Garden of Howard. The facilities to purchase lands offered by the settler attracted immigrants like Japanese, Germans, Arabs and Portuguese, among others, who saw the opportunity to become agricultural smallholders. The architecture of Maringá consisted mainly of wooden buildings, abundant in the region, which showed how the tradicional construction techniques of the immigrants adapted to the physical and cultural conditions encountered by the settlers. From 1960 on, with the end of the colonizing period and the scarcity of wood, &quot;Maringá Moderna&quot;, since its deployment project, entered in the context of modernization that had advanced all over the country and had as its main precept the breakup with the architecture produced earlier. In the short period marked by cultural and ideological transformations, Maringá sees, between the old wooden buildings, symbols of the arrival of a way of designing and building marked by the use of new materials and construction techniques arising, by abstract appearance that refused the image of traditional home, horizontal lines, and other characteristic elements of modern architecture. The wooden architecture of the colonizers, not modern and not harmonic with the new aesthetic or precepts, starts a process of extinction generated by the lack of maintenance and negligence on the part of the modernist movement. The modern city tries to erase or delete its past, and its representative objects, on behalf of a constant modernization, a tension between the antique and the modern. The history should not be seen in a linear manner, under a positivist perspective in which cultural and architectural movements (materials and techniques) are simply replaced with the passage of time, where the old wooden buildings should be replaced by modernist buildings, considering only the scientific advances, but as processes that overlapped and are continually overlapping, delineated by concepts and values that escape from the scientific field and turn to other areas such as economy, sociology and anthropology. Then, it is not worth it the rejection of the vernacular architecture in wood and its constructive techniques, given the fact that they are an intrinsic part of the history that allows us to understand how the process of the colonization of Maringá was, and how to preserve its own configuration as a modern city. This preservation could be ensured by national and international legislations, which understand and establish the registry of cultural assets that act as evidence of a particular civilization, knowledge and expertise, and ways of doing rooted on the daily routine of the communities. It is proposed, through bibliographical survey and analysis of concepts in historiography, on the matter of heritage and preservation, the study of a balanced relationship between the ideals of modernity existent in Maringá and the preservation of the cultural heritage of the wooden architecture, so that the advance is not stunted at the expense of conservation, and vice versa. Today, preserving the wooden architecture in modern city consists of essential component to its historiography and encourages the preservation of examples modern architecture. This inheritance, accumulated for generations, which reflects in their particularities, themes that go beyond issues related to technological advancement and the architecture itself.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura em Madeira</keyword>
+          <keyword>Patrimônio Cultural</keyword>
+          <keyword>Cidade Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>wooden Architecture</keyword>
+          <keyword>Cultural Heritage</keyword>
+          <keyword>modern city</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Camila Thiemi Nakamura</givenname>
+            <familyname locale="pt_BR">Gonino</familyname>
+            <affiliation locale="pt_BR">UEM</affiliation>
+            <country>BR</country>
+            <email>camila.nakamura@ymail.com</email>
+            <orcid>https://orcid.org/0000-0002-2559-9879</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Dias</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">UEM</affiliation>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsul05-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">Paredes opacas carregadas</title>
+        <subtitle locale="pt_BR">O retorno do limite “não moderno”.</subtitle>
+        <abstract locale="pt_BR">Quando Ferraz (2013, p. 121) afirmou que, na ocasião da inauguração do Centro de Lazer Fábrica da Pompéia, uma &quot;bomba&quot; havia explodido no ambiente arquitetônico brasileiro, ele tinha razão, a “bomba” era realmente impactante. O bloco esportivo, com seus 40 metros de vão livre, une estrutura de tecnologia avançada à parede portante. Esse tipo de operação, em que a parede acumula funções de estrutura e vedação, diverge dos fundamentos iniciais da arquitetura moderna no país. Lúcio Costa, em Razões da Nova Arquitetura, publicado em 1936, afirmava que a revolução imposta pela técnica do concreto armado tinha libertadoas paredes da sua função estrutural secular, dando a elas um novo papel, o de simples vedação. A destituição da parede portante em detrimento da estrutura independente combinada com fechamentos leves dissipava o limite entre interior e exterior. As paredes opacas, carregadas, resistentes, que enquadravam a natureza, privatizavam os interiores e controlavam a luz deram lugar a placas leves, finas e, na maioria dos casos, transparentes. No entanto, a partir da segunda metade do século XX, a parede portante gradualmente voltou ao vocabulário arquitetônico de ponta.Este trabalho pretende analisar o conjunto esportivo projetado por Lina Bo Bardi para o Sesc Pompéia enquadrando-o como episódio significativo na investigação do retorno dos limites opacos carregados à arquitetura moderna.</abstract>
+        <abstract locale="en_US">When Ferraz (2013, p. 121) said that, in the inauguration of the Leisure Centre of Pompéia Factory, a &quot;bomb&quot; had exploded in the Brazilian architectural environment, he was right, the &quot;bomb&quot; was really impressive. The sports block, with its 30 meters spans, combines advanced technology structure to the bearing wall. This kind of operation, in which the wall accumulates structure and enclosure functions, diverges from the initial foundations of modern architecture in Brazil. Lúcio Costa, in Razões da Nova Arquitetura, published in 1936, said that the revolution imposed by the reinforced concrete technique had released walls from its ancient structural function, giving them a new role, the enclosure one. The destitution of the bearing in detriment to independent structure combined with light enclosure dissipated the boundary between interior and exterior. Opaque, heavy, resistant walls, that framed nature, privatized interiors and controlled the light, gave rise to soft, thin and most of cases transparent plates. However, from the second half of the twentieth century, gradually bearing wall returned to architectural vocabulary. This work intends to analyze the sports block designed by Lina Bo Bardi to the SESC Pompéia framing it as a significant episode in the investigation of return of opaque heavy limits to modern architecture. Key words: bearing wall, Lina Bo Bardi, SescPompéia Paredes opacas carregadas: o retorno do limite “não moderno” Em 1982, uma bomba explodiu no ambiente arquitetônico brasileiro, mais especificamente em São Paulo. Essa bomba era o Centro de Lazer Fábrica da Pompéia, hoje conhecido simplesmente como Sesc Pompéia. Por que bomba? Porque era inenquadrável nas gavetas da arquitetura corrente. Era estranho. Era feio? Fora de escala? Bruto, mas também delicado? Seguramente era algo que não fazia parte do universo possível, alcançável às mãos dos arquitetos atuantes. Foi de fato uma bomba, um choque. (FERRAZ, 2013, p. 121) Ferraz tinha razão, a “b</abstract>
+        <keywords locale="pt_BR">
+          <keyword>parede portante</keyword>
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>Sesc Pompéia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Binatto de</givenname>
+            <familyname locale="pt_BR">Castro</familyname>
+            <country>BR</country>
+            <email>sem-email-53@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsul05-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Cidade das Artes no Rio de Janeiro</title>
+        <subtitle locale="pt_BR">combinações de elementos modernos em meio a distorções contemporâneas</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna brasileira</keyword>
+          <keyword>transformações na estrutura tipo Dom-ino</keyword>
+          <keyword>nova abstração formal</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian modern architecture</keyword>
+          <keyword>changes in the Dom-ino type structure</keyword>
+          <keyword>new formal abstraction</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsul05-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Heranças na arquitetura de Vilamajó</title>
+        <abstract locale="pt_BR">. Ensaio sobre a Casa Vilamajó (1930), residência projetada e construída para uso próprio pelo arquiteto uruguaio Julio Vilamajó (1894-1948). Vinculado à Faculdade de Arquitetura da UdelaR – Universidad de la República, o imóvel encontra-se protegido pelas leis de preservação daquele país. Declarado monumento histórico nacional em 1990, passou por primoroso processo de recuperação, restauro (imóvel), reconfecção (mobiliário) e adaptação para novo uso, reabrindo suas portas como Museu Casa Vilamajó em 2012. A casa, tida como um dos primeiros exemplares modernistas montevideanos, representa a interpretação particular do arquiteto em relação ao ideário modernista dos anos 1920, havendo ocupado um lugar central no cômputo de sua obra (formado em 1915). Estão nela presentes os quinze anos de experiência acumulada, seja no exercício da profissão, seja no âmbito acadêmico, seja nos anos em que viveu na Europa (1921-1924). Buscando dar um sentido à proposição de modernidade da Casa Vilamajó, encontramos reminiscências das raízes árabes e hispânicas, visualizamos uma tradução do vocabulário moderno via Dudock e Le Corbusier. Também, nos apercebemos de sua composição mais flexível onde os “eixos” deixam de reger simetrias. Reencontramos o tema das casas estúdio, tão caro aos setores de vanguarda. Vemos uma casa compacta, de espaços reduzidos, tão significativos à racionalidade moderna. O estudo realizado, apresentado em forma de ensaio, compõe junto a outros três (Argentina, México, Brasil), nossa tese de doutoramento intitulada “Quatro interpretações da casa moderna na América Latina”, defendida em 2010.</abstract>
+        <abstract locale="en_US">. Essay on &quot;Casa Vilamajó&quot; (1930), residence designed and constructed for personal use by the Uruguayan architect Julio Vilamajó (1894-1948). Linked to the School of Architecture of UdelaR – University of the Republic –, the house is protected by Uruguay's law. The house, which was declared a national historical monument in 1990, has undergone a great process of renovation, restoration, remaking of furnishings and adaptation for its new usage and it was reopen as the Museum of Casa Vilamajó in 2012. The house, considered one of the first examples of Montevideo's modernism, represents a particular interpretation of the architect of the ideal modernism of the 1920s, having occupied a central position in his works. In Casa Vilamajó, are present the fifteen years of accumulated work in architecture, being it through the exercise of the profession, being it through the academic works or the years of residence in Europe (1921-24). Aiming to make sense of modernist propositions of the Casa Vilamajó, we findreminiscences in the Arab and Hispanic roots, as well as seeing a translation of modern vocabulary through Dudock and Le Corbusier. Furthermore, we can perceive a mor &quot;flexible&quot; composition, in which the axis does not determine simmetry. It is also possible to see once again the theme &quot;studio houses&quot; which has been quite important to an avant-gard architecture. We see then, a compact house, which reduced spaces are quite dear to modern rationality. The essay at hand is part of a series, alongside three other texts (Argentina, Mexico and Brazil), that forms our doctoral thesis titled &quot;Four interprations of the modernist house in Latin America&quot;, from 2010.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Julio Vilamajó</keyword>
+          <keyword>modernismo na América Latina</keyword>
+          <keyword>casa-museu</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Julio Vilamajó</keyword>
+          <keyword>modernism in Latin America</keyword>
+          <keyword>museum-house</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Claudia Virginia</givenname>
+            <familyname locale="pt_BR">Stinco</familyname>
+            <country>BR</country>
+            <email>stinco@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6380-299X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsul05-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Herança brutalista</title>
+        <subtitle locale="pt_BR">a casa do arquiteto Edenor Buchholz em Porto Alegre</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>casas da arquitetura moderna</keyword>
+          <keyword>brutalismo</keyword>
+          <keyword>arquitetura moderna em porto alegre</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Daniel Pitta</givenname>
+            <familyname locale="pt_BR">Fischmann</familyname>
+            <country>BR</country>
+            <email>fischmann@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0002-8082-4853</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsul05-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Viollet-le-Duc e a Villa Canoas</title>
+        <abstract locale="pt_BR">A manifestação de Oscar Niemeyer na Villa Canoas, da década de 50, apresenta-se como ímpar na conformação do quadro da Arquitetura Moderna Brasileira. Sua singularidade não é arbitrária, pode ser entendida como um pot-pourri que acomoda influências heterogêneas. Heterogeneidade essa que aponta hereditariedades que permitem inúmeras investigações. Avisamos desde já que esse escrito não pretende abordar todos os campos de inflexões do caso carioca, trataremos nesse caso em particular, da filiação com o Racionalismo Estrutural, mais precisamente Eugène Emmanuel Viollet-le-Duc. A saber, o teórico francês em seus escritos identifica diversas regras ou lições de uma boa arquitetura, sua narrativa determinista encontra na manifestação de cada povo uma arquitetura que é fruto de uma construção racional, racionalidade essa que pode ser lida como progresso técnico; isto é, a forma é circunstanciada pela ciência, mais precisamente pela estrutura. Identificamos algumas dessas leis, elas serão norteadoras da nossa abordagem, partindo de visadas gerais para visões pontuais da fonte em pauta. Ao dizer visadas gerais, estou falando que alguns desses princípios não são exclusividades de Viollet-le-Duc, pois são ser encontrados ao longo da história das formas, mas, nos apoiamos nesses paradigmas, uma vez que que eles nos valham para ilustrar um campo de aproximações. Por fim, lembramos que a filiação da Arquitetura Moderna Brasileira, não termina em Viollet-le-Duc, esse campo é muito mais amplo e complexo, ou seja, essa investigação, chamada por nós de fontes pretende expandir para melhor compreendermos a aproximação do caso brasileiro com o Racionalismo Estrutural.</abstract>
+        <abstract locale="en_US">Oscar Niemeyer’s manifestation on Villa Canoas, in the 50’s, presents itself as unique on the resignation of the Brazilian Modern Architecture scheme. It’s singularity is not arbitrary, can be acknowledged as pot-pourri that accommodate heterogeneous influences. This heterogeneity pointing hereditariedades that allow a wide range of investigation. It’s important to advise that this document does not intend to address all the inflection fields of the carioca case, which will have a particular approach, from the filiation with the Structural Rationalism, more precisely Eugène Emmanuel Viollet-le-Duc. The French Theorist, in his works, identify numerous rules or lesson of the good architecture, his determinist narrative finds on each people manifestation one architecture that’s the result of a rational construction, this rationality can be seen as the technical progression, which means, it’s shape is detailed by science, more precisely by it’s structure. It’s identified some of those rules, those will guide our approach, starting from general points of view for more focused ones. Those general points of view are not exclusively Viollet-le-Duc’s, once they can be found throughout history of shapes, but we rely on those paradigms, since they can be validated to show a field of approximation. Lastly, it`s recalled that the Brazilian Modern Architecture filiation does not end with Viollet-leDuc, this field of study is more broader and complex, this study, defined by the scholars as resources, intend to expand it to better comprehend the proximity of the Brazilian case and the Structural Rationalism.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa das Canoas. Arquitetura Moderna Brasileira. Racionalismo Estrutural</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Casa das Canoas. Brazilian Modern Architecture. Structural Rationalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Diego Henrique de Oliveira</givenname>
+            <familyname locale="pt_BR">Soares</familyname>
+            <country>BR</country>
+            <email>soares@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsul05-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">A persistência da tradição disciplinar moderna na arquitetura de Oscar Niemeyer para as artes performativas</title>
+        <subtitle locale="pt_BR">O Teatro Popular Oscar Niemeyer em Niterói e o Teatro Raul Cortez em Duque de Caxias</subtitle>
+        <abstract locale="pt_BR">Nas propostas para as artes performativas, Niemeyer manipula formas criando espaços mágicos seja em arena ou em palco frontal. Há algumas opiniões críticas sobre as dificuldades acústicas ou às dispersões que soluções inusitadas causam no espectador, mas seus teatros são obras que persistem na tradição disciplinar moderna como se pretende examinar neste paper à luz das cinco razões teóricas da arquitetura do arquiteto proposta por Mahfuz (2007) e da última fase de sua produção que “acompanha, de algum modo, a recuperação da própria arquitetura moderna e o seu entendimento como polifonia” (Comas, 2012). Nas obras em exame, percebe-se um conteúdo literário e artístico que ainda potencializa os preceitos do Movimento Moderno acentuado pela busca da integração entre arquitetura e artes. Nas volumetrias e interior dos dois teatros, para além da sensação visual provocada pela forma, cor e textura, verificase o uso de diferentes linguagens. Um dos partidos adotados nos dois teatros foi abrir para o exterior a parede posterior do palco, permitindo que os espetáculos possam ser usufruídos concomitantemente pelos espectadores do auditório e pelo público nas praças adjacentes. Tal solução adequa-se à sugestão de Le Corbusier formulada no Congresso Architecture et Dramaturgie na Sorbonne (1948) e acentua a persistência da tradição disciplinar moderna na arquitetura de Niemeyer para as artes performativas. Apesar de estes teatros terem sido concluídos já no século XXI, ambos expressam continuidade aos conceitos abraçados pelo arquiteto desde os anos 1940. Inaugurado em 2006, em Duque de Caxias, o Teatro Raul Cortez exibe forma inusitada com uma rampa que contorna metade da fachada circular levando ao auditório (448 lugares). Existe um acesso independente para os camarins e sala de ensaio no pavimento semienterrado que apresenta planta livre, permitindo subdivisões para depósito de equipamentos de cenografia. Uma enorme porta metálica na parede posterior da caixa cênica abre-se para o exterior, possibilitando aos espectadores partilhar o espetáculo com o público na praça. Tal como algumas obras mais antigas de Niemeyer, este teatro também impacta o transeunte, mas em total harmonia com a praça do centro de Caxias, sobre a qual o arquiteto projetou uma biblioteca completando o complexo do Centro Cultural. Integrando as obras do Caminho Niemeyer, em Niterói, o Teatro Popular permite descortinar a baía de Guanabara pelo painel de vidro e brises metálicos de uma das fachadas, enquanto a outra, em azulejo amarelo com pinturas de Niemeyer, acentua a integração entre artes e arquitetura, evocando seu próprio projeto para a igreja de São Francisco de Assis na Pampulha (1943), marco da moderna arquitetura religiosa brasileira. Construído em concreto armado, o prédio é uma grande cobertura curva que se origina nas empenas do edifício. Do térreo parte uma rampa helicoidal escultórica de concreto que leva ao foyer do teatro e deste, ao auditório de 400 lugares distribuídos pela plateia e balcão. Também reversível, o palco se abre para o grande pátio que comporta dez mil espectadores. O volume do teatro não é totalmente fechado, conferindo rara leveza à edificação. O paper examina o valor simbólico das formas de grande visibilidade, propondo enriquecer a história da arquitetura moderna e a tecer comentários de crítica construtiva quanto a questões funcionais internas, investigadas pelas entrevistas realizadas, pretendendo encaminhá-los à Fundação Oscar Niemeyer para as providências possíveis. Bibliografia Architecture et Dramaturgie. Paris: Flammarion, 1950. Mahfuz, Edson da Cunha. “Cinco razões para olhar com atenção a obra de Oscar Niemeyer”. AU Arquitetura e Urbanismo,165, 76-79, dez. 2007.Pini, 2007. Niemeyer, Oscar. “O espaço indefinível”. Arquitetura IAB-RJ n. 81, jun. 1998, ano 29, 20-21. Comas, Carlos Eduardo. “Oscar Niemeyer.Um arquiteto e quatro fases”. AU 226, jan.2012. http://au.pini.com.br/arquitetura-urbanismo/226/artigo276015-1.aspx (Abril 12, 2015)</abstract>
+        <abstract locale="en_US">In his proposals for the performing arts Niemeyer manipulates forms creating magical spaces either in the arena shape or in the proscenium arch theater. Though some critical opinions on acoustic problems or audience’s dispersion due to unusual solutions, his theaters persist in the modern disciplinary tradition as examined in this paper based on the five theoretical reasons for his architecture (Mahfuz, 2007), and on the architect’s last phase production, which “follows, in a way, the recovery of the modern architecture itself and its understanding as polyphony&quot; (Comas, 2012). In the buildings under debate, a literary and artistic content enhances the precepts of the Modern Movement marked by the integration between architecture and art. The external shape and the inner space of the two theaters expose, in addition to a strong visual sensation caused by form, color, and texture, the use of different languages. One of the design decisions adopted in the two theaters was the opening of the rear wall of the stage to the outside, allowing shows to be enjoyed simultaneously by spectators inside the auditorium and the public in the adjacent squares. This solution probably follows Le Corbusier's suggestion at the Architecture et Dramaturgie Conference in the Sorbonne (1948) and stresses the persistence of modern disciplinary tradition in Niemeyer's architecture for the performing arts. Despite have been completed in the first decade of this century these theaters express continuity on the concepts embraced by Niemeyer since the 1940s. Opened in 2006, in Duque de Caxias, the Raul Cortez Theatre was designed with an unusual shape and a ramp that surrounds half of the circular facade leading to the auditorium (448 seats). There is a separate access to the dressing rooms and rehearsal room in the semi-buried floor which presents a free plan, allowing subdivisions for the set designs equipment. A huge metal door in the back wall of the scenic box opens to the outside, allowing spectators to share the show with the public in the square. As Niemeyer’s oldest works, this theater also impacts the viewer, but in total harmony with the main square of Duque de Caxias city, where he also built a library to complete the cultural complex. Integrating the works planned for the Caminho Niemeyer in Niteroi, the Popular Theatre allows unveiling Guanabara Bay through the glass panel and the metallic louvers on one of the facades, while the other, in yellow tile with Niemeyer’s own paintings, emphasizes the dialogue between architecture and art, evoking his own design for the church of St. Francis of Assisi in Pampulha (1943), landmark of modern Brazilian religious architecture. Built in reinforced concrete, the building is a large curve coverage that originates the building gables. A sculptural helical concrete ramp leads to the foyer and to the 400-seat-auditorium (parterre and balcony). Also reversible, the stage opens onto the patio that holds ten thousand spectators. The theater is not fully enclosed, providing a rare lightness to the building. This paper examines the symbolic value of unusual forms of high visibility, aims to collaborate with the history of modern architecture and to produce constructive criticism on internal functional issues, reported in interviews with set designers, intending to inform the Oscar Niemeyer Foundation for possible actions. Bibliography Architecture et Dramaturgie. Paris: Flammarion, 1950. Mahfuz, Edson da Cunha. “Cinco razões para olhar com atenção a obra de Oscar Niemeyer”. AU 165, 76-79, Dez. 2007. Niemeyer, Oscar. “O espaço indefinível”. Arquitetura IAB-RJ n. 81, Jun. 1998, ano 29, 20-21. Comas, Carlos Eduardo. “Oscar Niemeyer.Um arquiteto e quatro fases”. AU 226, Jan.2012. http://au.pini.com.br/arquitetura-urbanismo/226/artigo276015-1.aspx (April12, 2015)</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>arquitetura teatral</keyword>
+          <keyword>história da arquitetura. TRC</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Theatre Architecture</keyword>
+          <keyword>History of Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evelyn Furquim Werneck</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">UNIRIO</affiliation>
+            <country>BR</country>
+            <email>evelyn.lima@unirio.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsul05-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Reciclagem na Arquitetura Moderna</title>
+        <subtitle locale="pt_BR">o conjunto da Pampulha</subtitle>
+        <abstract locale="pt_BR">De autoria de um dos mais importantes arquitetos brasileiros, Oscar Niemeyer, o Conjunto da Pampulha já se encontrou mais de uma vez ameaçado por intervenções descaracterizadoras e adaptações para usos contraditórios. Muitas são as justificativas que apoiam o estudo documental do projeto em questão e trazem para a pauta a discussão sobre como o tema patrimônio moderno é abordado entre profissionais, gestores e população em geral. Talvez, a maior delas resida na nomeação do Conjunto à Patrimônio Mundial da UNESCO, em 2015. No contexto de intervenção em uma obra arquitetônica construída, é de suma importância diferenciar, em termos gerais, as intervenções de restauro, reforma e reciclagem. Este artigo trata-se de um recorte da Dissertação de Mestrado intitulada “Reciclagem no Patrimônio Moderno Brasileiro: o caso da Pampulha de Niemeyer”, defendida em fevereiro de 2015 pelo Programa de Pós-Graduação em Arquitetura (PROPAR) da UFRGS. Sobre os edifícios que compõe esse conjunto, é necessário pontuar o inegável e substancial. O Cassino da Pampulha convertido em Museu de Arte da Pampulha precisou passar por remodelações utilitárias para atender ao novo uso. A Casa do Baile, há muito não utilizada para seu fim original, em abandono e deterioração visível durante a década de 80, também recebeu apropriação às condições de usabilidade atuais com novo projeto aprovado pelo arquiteto criador. O que se seguiu com o Iate Clube não é menos grave: modificações irresponsáveis somadas à clara falta de interesse patrimonial da administração do Clube privado transformaram-no em uma espécie de ruína Moderna. Já a Igreja de São Francisco de Assis continua com seu uso inalterado e permanece com certa dignidade às margens da Lagoa da Pampulha – ainda que isso não garanta a permanência do edifício no cotidiano da cidade, A Residência Juscelino Kubistchek, encomendada pelo então prefeito da cidade de Belo Horizonte em 1940, abrigou a família Kubistchek por poucos anos, mas a venda para um amigo da família guardou-a em estado bastante próximo do original. O edifício projetado para abrigar o Iate Golfe Clube é hoje território mantido pela Fundação ZooBotânica de Belo Horizonte, apresentando-se em mau estado de conservação e com ocupação sem devidos cuidados. Com esses dados em mente é que entro em uma reflexão sobre a natureza das mais impactantes intervenções feitas nesses edifícios e quais resultados trouxeram mais bônus do que ônus.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Pampulha. Reciclagem. Arquitetura</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Royer</givenname>
+            <familyname locale="pt_BR">Voigt</familyname>
+            <country>BR</country>
+            <email>voigt@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsul05-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Três contradições sobre a prática de preservação</title>
+        <subtitle locale="pt_BR">as intervenções no edifício da FAU-USP entre 2007 e 2015</subtitle>
+        <abstract locale="pt_BR">Em 2015, ano do centenário de seu arquiteto, João Batista Vilanova Artigas, a FAU-USP entregou o mais recente pacote de obras de preservação no prédio da faculdade. A partir da análise dos processos utilizados nessas intervenções, serão exploradas aqui três questões sobre a prática contemporânea de restauro: (1) Preservação não tem apenas uma dimensão física; (2) Restauro demanda projeto com intensões precisas e desenhos em diferentes escalas (3) Pesquisas técnicas, teóricas e atuação dos órgãos de patrimônio não vêm a reboque das obras. Essas questões mostram as contradições e as distâncias entre a teoria e a prática de preservação. Os projetos para o Edifício Vilanova Artigas, a partir de 2007, foram feitos sem interface com a comunidade, antes da criação de estruturas participativas, e destituídos de relação com o ensino na instituição. Durante as obras, as atividades acadêmicas não se relacionaram com o canteiro interior ao edifício. Sem um projeto único – capaz de integrar as diferentes intervenções na construção de 21.000m² – a FAU consolidou um processo iniciado logo após sua inauguração em 1969: o edifício foi convertido em uma colagem desconexa de diferentes projetos, cada um com uma autoria. As múltiplas intervenções então seguiram abordagens diferentes de restauro. A sequência de etapas adotada ignorou processos de aprovação em órgãos de patrimônio e desenvolvimento de pesquisas técnicas para a fachada, convertida em uma colcha de retalhos. Esse trabalho discute o paradoxo de como que o próprio lugar de ensino de arquitetura negligenciou teorias de restauro.</abstract>
+        <abstract locale="en_US">In 2015, the year of centenary of its architect, João Batista Vilanova Artigas, FAU-USP (School of Architecture and Urban Planning of the University of São Paulo) delivered the most recent group of preservation works in the institution’s building. Analyzing processes applied in these interventions, this article explore three issues about the preservation contemporary practice: (1) Preservation does not have only a physical dimension; (2) Preservation demands project embedded in precise intentions and drawings in different scales; (3) Legal procedures in institutions for heritage preservation, and also technical and theoretical research, do not succeed construction works. These issues reveal contradictions and gaps between preservation theory and practice. The projects for the Vilanova Artigas Building, since 2007, were done without proper interface with the community, before the creation of participatory instances and neglecting connections with the education. Along the construction works, academic activities did not created a relationship with the construction site in place. Without a comprehensive project to integrate these different interventions in the existing 21.000-square-meters, FAU consolidated a process that had been started just after its inauguration in 1969: the building was converted in an assemblage of disconnected projects, with multiple authorships. Thus, the multiple interventions followed different preservation approaches. Adopted jobs sequence also ignored regular legal procedures in heritage institutes and the development of technical research for the façades, which had gained a patchwork appearance. This article discusses the paradox about how the place for architecture learning had neglected project tools and technical research.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gabriel</givenname>
+            <familyname locale="pt_BR">Kogan</familyname>
+            <country>BR</country>
+            <email>gabrielkogan@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0409-3924</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsul05-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Brutalismo demi-sec</title>
+        <subtitle locale="pt_BR">Residência Mário Petrelli</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Forte Gandolfi</keyword>
+          <keyword>Grupo Paraná</keyword>
+          <keyword>Arquitetura Moderna em Curitiba</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Humberto</givenname>
+            <familyname locale="pt_BR">Carta</familyname>
+            <country>BR</country>
+            <email>carta@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsul05-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">CRUSP e Colina</title>
+        <subtitle locale="pt_BR">modulação e construção em dois conjuntos residenciais pré-moldados</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>pré-moldado</keyword>
+          <keyword>industrialização</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>concrete</keyword>
+          <keyword>precast</keyword>
+          <keyword>industrialization</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsul05-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Habitar o Patrimônio Moderno</title>
+        <subtitle locale="pt_BR">o caso do Pedregulho</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio moderno</keyword>
+          <keyword>Pedregulho</keyword>
+          <keyword>habitação moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern heritage</keyword>
+          <keyword>Gravel</keyword>
+          <keyword>modern housing</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Kátia Fernanda</givenname>
+            <familyname locale="pt_BR">Marchetto</familyname>
+            <country>BR</country>
+            <email>sem-email-1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-5119-5977</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsul05-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">A materialidade na arquitetura de Eduardo de Almeida</title>
+        <subtitle locale="pt_BR">Biblioteca Brasiliana: 2000/2013</subtitle>
+        <abstract locale="pt_BR">O presente artigo pretende apresentar a Biblioteca Brasiliana, projetada por Eduardo de Almeida, arquiteto pertencente à segunda geração de arquitetos modernos, profundo conhecedor das técnicas construtivas utilizadas em sua arquitetura e suas relações com a solução formal de cada projeto, utilizando inovações com extrema sensibilidade e precisão. O prédio da Biblioteca Brasiliana da USP é recente, inaugurado no ano de 2013. A edificação foi construída a partir da vontade do advogado e bibliófilo José Mindlin de doar sua coleção de livros à Universidade de São Paulo ainda em meados dos anos dois mil. A Biblioteca Brasiliana é na verdade uma edificação destinada a abrigar a biblioteca pessoal de Guita e José Mindlin, o Instituto de Estudos Brasileiros, o Sistema Integrado de Bibliotecas da Universidade de São Paulo e uma Biblioteca central de obras raras e especiais da USP. De fácil percepção nas obras de Eduardo de Almeida, a adoção de formas elementares e de geometria regular como princípio organizativo, como se vê no projeto da Biblioteca Brasiliana, com seus prismas retangulares da IEB, da Biblioteca Guita e José Mindlin, do café, livraria e exposições e o prisma circular do Auditório, é também um princípio de projeto largamente utilizado por Louis Kahn e Mies Van der Rohe, entre outros, em suas obras. Com esquema formal claro e sintético, filiado aos preceitos Miesianos, é apresentado na Biblioteca Brasiliana, formas elementares, legiveis em plantas baixas simples e concisas. A busca e estudo de proporções confortáveis ao usuário, estudadas exaustivamente ao longo da obra de Eduardo de Almeida e percebidas na Brasiliana, são reflexos da referência à obra de Mies, destacada pela clareza, elementaridade, precisão e transparência. Com um projeto horizontal, que preenche o terreno onde está inserida e mantendo boa parte do espaço no térreo como público, oferecendo acesso e passagem adequados entre as duas vias paralelas ao terreno, a Biblioteca Brasiliana apresenta mesma solução a obras icônicas, como o Museu de Arte de São Paulo (1957-68), de Lina Bo Bardi, que apresenta um embasamento, abaixo do nível de acesso predominantemente aberto e público, formando uma praça e eleva os serviços principais, no caso do MASP, espaço de exposições e no caso da Brasiliana, acervos e espaços de apoio à leitura. Projetado sobre uma malha modular de um metro e vinte e cinco centímetros, o prisma retangular tem dimensão aproximada de cento e setenta e cinco por quarenta metros e altura aproximada de vinte e dois metros, sendo percebida com clareza esta modulação a partir da estrutura do edifício. Produzido com poucos materiais, basicamente concreto, aço e vidro, há um uso racional para cada um. O concreto, aparente, é utilizado para a estrutura principal (composta por pilares, vigas e lajes) e vedações opacas. O vidro foi utilizado como elemento de vedação transparente, tanto nas laterais quanto na cobertura e o aço, foi utilizado nas circulações verticais e horizontais junto aos mezaninos, na estrutura e vedação da cobertura e como elemento de sombreamento nas faces norte e sul. A Biblioteca Brasiliana é, segundo Eduardo de Almeida, a sua obra mais relevante e icônica, e apresenta um extrato do conjunto da obra do arquiteto que, durante décadas, tem apresentado edificações com qualidade, sofisticação e precisão. A arquitetura de Eduardo de Almeida dá continuidade a um determinado segmento da arquitetura moderna brasileira por sua qualidade tectônica e formal constituindo validade na cena contemporânea.</abstract>
+        <abstract locale="en_US">This article aims to present the Brasiliana Library, designed by Eduardo de Almeida, architect belonging to the second generation of modern architects, deep knowledge of the construction techniques used in its architecture and its relations with the formal solution of each project, using innovations with extreme sensitivity and precision. The USP Brasiliana Library building is new, inaugurated in 2013. The building was built from the will of lawyer and bibliophile José Mindlin to donate his collection of books to the University of São Paulo still in the mid-two thousand. Brasiliana Library is actually a building designed to house the library staff Guita and José Mindlin, the Institute for Brazilian Studies, the Integrated Library System of the University of São Paulo and a central library of rare and special works of the USP. It is evident in the works of Eduardo de Almeida, the adoption of elementary forms and regular geometry as organizing principle, as shown in the Brasiliana Library project, with its rectangular prisms of IEB, the Guita and José Mindlin Library, cafe, bookstore and exhibitions and circular prism of the Auditorium, is also a design principle widely used by Louis Kahn and Mies Van der Rohe, among others, in his works. With clear and synthetic formal scheme, affiliated to the Milesians precepts is presented in Brasiliana Library, elementary forms, readable in simple and concise floorplans. The search for comfortable proportions to the user, thoroughly studied along the Eduardo de Almeida's work and perceived in Brasiliana, are reflections of the reference to the work of Mies, highlighted by the clarity, elementarity, accuracy and transparency. With a horizontal design that fills the terrain where it is located and keeping much of the space on the ground as a public offering adequate access and passage between the two parallel paths to ground, Brasiliana Library presents the same solution of iconic works such as the Museum of art of São Paulo (1957-</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Eduardo de Almeida</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura Contemporânea</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Leandro Rahmeier</givenname>
+            <familyname locale="pt_BR">Marchetto</familyname>
+            <country>BR</country>
+            <email>marchetto@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Jânerson Figueira</givenname>
+            <familyname locale="pt_BR">Coelho</familyname>
+            <country>BR</country>
+            <email>coelho@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsul05-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Herança industrial moderna</title>
+        <subtitle locale="pt_BR">o caso da Fábrica Olivetti</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>indústria moderna brasileira</keyword>
+          <keyword>patrimônio moderno</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>brazilian modern industry</keyword>
+          <keyword>modern heritage</keyword>
+          <keyword>preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Manuela</givenname>
+            <familyname locale="pt_BR">Catafesta</familyname>
+            <country>BR</country>
+            <email>catafesta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3285-7941</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsul05-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Sergio Bernardes, Brasília e o “milagre” (1968/73)</title>
+        <subtitle locale="pt_BR">O experimentalismo dos projetos para o Instituto Brasileiro do Café – IBC e o Ministério da Marinha – MM</subtitle>
+        <abstract locale="pt_BR">A produção do arquiteto carioca Sergio Bernardes (1919/2002) é tão vasta quanto desconhecida. Assertivo e questionador, desde o início da carreira mostrou-se avesso à formatações conceituais, estilísticas ou projetuais, sendo destacado por Bruand como um arquiteto “acessível às influências externas”, caracterizado pela “falta de preconceitos teóricos e de uma linha bem definida, fruto de uma abertura de espírito e uma disponibilidade tão completas que às vezes beiravam a utopia e a dispersão.” (BRUAND, 1991, 289) Graduado em 1948 pela Universidade do Brasil, atuou até os anos 1990 no campo alargado do projeto com significativa mudança da escala projetual nos anos 1960/70. Experimentando o aço como partido estrutural da arquitetura, aventurou-se pelo universo das geometrias não euclidianas, pendurou pavilhões como ponte e residenciais como teleférico; testou materiais leves na construção; impulsionou a produção industrial desenvolvendo elementos para fabricação em série. Num caminho ambicioso entre associações multidisciplinares do conhecimento, pesquisa laboratorial e investigação experimental no canteiro, perseguiu, a partir de 1965, uma espécie de idealismo sistêmico fundamentado num virtuosismo tecnológico e visionário. Ação projetual que indica um diálogo sintonizado com algumas das principais correntes arquitetônicas que marcavam a pluralidade do cenário internacional do período, como a utopia tecnológica do grupo inglês Achigram, o “design tecnocrático” (FRAMPTON, 2000, 342) de Buckminster Fuller e o universo da “arquitetura móvel”. (COHEN, 2013, 386) Esta, representada, entre outras vertentes, pelo metabolismo japonês e pelas megaestruturas em geral. Nesse caminho, Sergio Bernardes apostou alto na renovação de sua arquitetura no contexto brasileiro dos anos 1960/70, aproveitando-se de sua proximidade com o poder (público) militar, principalmente, durante o período de pujança econômica (alta concentração de riquezas) e desenvolvimento progressista do país sob a Ditadura – o assim chamado período do “milagre brasileiro” (1968/73). Momento em que o arquiteto assume protagonismo na construção da então recém-inaugurada capital federal – Brasília. Este artigo analisa dois projetos de Sergio Bernardes para Brasília, ambos realizados no período do “milagre” – a sede do Instituto Brasileiro do Café – IBC (1968) e o edifício do Ministério da Marinha – MM (1970/73), tendo como objetivo entender em que medida eles dialogam com os referenciais anteriormente citados, e até que ponto, significam uma “herança (proposta) inovadora” no quadro da arquitetura brasileira após 1960.</abstract>
+        <abstract locale="en_US">The production of the Brazilian and native of Rio de Janeiro architect Sergio Bernades is as vast as unknown. Assertive and questioner, since the beginning of his career, he presented himself against the conceptual, stylistic and projective formats, being considered by Bruand as an accessible architect to the “ external influences”, featured by “the lack of theoretical concepts&quot; and a well defined line, the result of the openness of the spirit and some availability so complete that sometimes put a border on utopia and on dispersal” (BRUAND, 1991, 289). Graduated in 1948 at the Universidade do Brasil, he worked until 1990s in the large field of the project, with abrupt change, in the architectonical scale of the 1960s and 1970s. Starting from the experimentation of more restrict and defined programs, he interspersed a complex universe of the megastructures and headed prospective and visionary to the territory scale. By experimenting steel as structural source of Architecture, he threw himself into the universe of the non euclidianas geometries; he hung pavilions as bridges, houses as cable cars; tested light materials in the construction, and increased the industrial production through the development of elements for series manufacturing. Through an ambitious way of multidisciplined associations of knowledge, laboratorial research and experimental investigation of the construction site, he pursued, since 1965, some type of systemic idealism, based on a technological and visionary virtuousism. A projectual act that indicates a sintonized dialogue with some of the main architectonical schools that signalized the plurality of the international scene of the time, along with the technological utopia of the English group Achigram, the “technocratic design” (FRAMPTON, 2000, 342) of Buckminster Fuller and the universe of the “mobile architecture”. (COHEN, 2013, 386) This one represented, among other facets, through the japanese metabolism and through the megastructuras in general. On this way, Sergio Bernardes truly believed in the renovation of his Architecture in the context of the 1960s and 70s, taking advantage of the good relationship he had with the Military Public Service, especially, during the period of “economical force” (concentration of incomes) and the progressive development of the country 2 during the Dictatorship Era, the “brazilian miracle” (1968/73). A moment in which, the architect takes over the just built, Federal Capital, Brasilia. This article analises two of Sergio Bernardes' projects for Brasilia, both finished by the time of &quot;miracle” – Instituto Brasileiro do Café – IBC (1968/71) e Ministério da Marinha – MM (1970/73), aiming to understand in what level they dialogue with the already mentioned referential ones, and in what extend, they are a inovative heritage (proposal), in the Brazilian da Architecture Scene after the 1960's.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Sergio Bernardes</keyword>
+          <keyword>Brasília</keyword>
+          <keyword>experimentalismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Sergio Bernardes</keyword>
+          <keyword>Brasilia</keyword>
+          <keyword>experimentalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcelo Augusto Felicetti da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul05-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Do imaginário do século XIX ao imaginário da arquitetura moderna</title>
+        <subtitle locale="pt_BR">o caso da Casa Canoas</subtitle>
+        <abstract locale="pt_BR">O estudo pretende demonstrar, primeiro, que os arquitetos modernos brasileiros herdaram, ou se apropriaram da concepção da arquitetura do século XIX e, segundo, que a transmissão dessa concepção deu-se não somente no plano mais consciente da teoria mas também, e principalmente, no plano do imaginário. A comparação direta de duas obras representativas do pensamento dos séculos XIX e XX permite demonstrar através da prática da composição arquitetônica que a concepção do século XIX, e o racionalismo estrutural em particular, constitui uma das grandes fontes da arquitetura do século XX, ou pelo menos da arquitetura moderna brasileira. De um lado, o Farol de Bréhat de Léonce Reynaud representa a materialização dos princípios fundamentais do racionalismo estrutural do século XIX; de outro, a Casa Canoas de Oscar Niemeyer exemplifica a prática da composição na arquitetura moderna brasileira. Mais precisamente, o Farol de Bréhat deriva clara e significativamente do imaginário do século XIX, neste caso do imaginário saint-simoniano do autor e de outros grandes representantes de sua época. Edificado sobre um pequeno rochedo rodeado pelo mar e que fica submerso na maré alta, o Farol de Bréhat é apresentado pelo próprio Reynaud como um monumento heroico implantado em plena natureza selvagem, como revelação da beleza. Uma beleza que emerge da sua própria composição, uma torre bipartida situada entre o céu e a terra materializando um pensamento que se alimenta da diversidade e do dinamismo da própria da natureza, o qual, por sua vez, emana de um imaginário que prenuncia a mais perfeita unidade entre a natureza inanimada e a vida social, que proclama a redenção da humanidade. Quanto à Casa Canoas que se situa igualmente entre a terra e o céu, ou quase, ela compõe também uma “natureza artificial mais natural que a Natureza mesma” (Comas). Uma criação que testemunha um pensamento elevado e que manifesta o ideal, ou imaginário saint-simoniano do qual nasce o Farol de Bréhat e que a arquitetura moderna herdou do século XIX.</abstract>
+        <abstract locale="en_US">The study intends to demonstrate, first, that the Brazilian modern architects inherited or appropriated themselves the nineteenth century architecture conception and, second, that the transmission of this conception took place not only at the more conscious plan of theory but also, and mainly, the imaginary plan. The direct comparison of two representative works of the thought of the nineteenth and twentieth centuries allows to demonstrate through the practice of architectural composition that the conception of the nineteenth century and the structural rationalism in particular, constitute one of the major sources of twentieth century architecture, or at least Brazilian modern architecture. On one hand, the Bréhat’s Lighthouse by Léonce Reynaud represents the materialization of the fundamental principles of structural rationalism of the nineteenth century; on the other, the Canoes House by Oscar Niemeyer exemplifies the practice of composition in Brazilian modern architecture. More precisely, the Bréhat’s Lighthouse derives clearly and significantly from the nineteenth century imaginary, in this case of the Saint-Simonian author's imaginary and others major representatives of his time. Built on a small cliff surrounded by the sea and that is submerged at high tide, the Bréhat’s Lighthouse is presented by Reynaud himself as a heroic monument implanted in full wild nature, as a revelation of beauty. A beauty that emerges from its own composition, a bipartite tower located between heaven and earth materializing a thought that feeds from diversity and dynamism of nature which, in turn, emanates from an imaginary that foreshadows the most perfect unity between the inanimate nature and social life, which proclaims the redemption of humanity. Regarding the Canoes House which lies equally between the earth and the sky, or almost, it also makes up an “artificial nature more natural than the very Nature” (Comas). A creation that witness a high thought and shows the ideal, or Saint-Simonian imaginary from which is born the Bréhat’s Lighthouse and that modern architecture inherited from the nineteenth century.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Brasileira. Racionalismo Estrutural. Dimensão Imaginária</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian Modern Architecture. Structural Rationalism. Imaginary Dimension</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcelo</givenname>
+            <familyname locale="pt_BR">Puppi</familyname>
+            <country>BR</country>
+            <email>puppi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5834-4293</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul05-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Banking architecture, late modernism and exposed concrete in Porto Alegre — Brazil</title>
+        <abstract locale="pt_BR">O presente trabalho busca reconhecer e analisar a arquitetura bancária Porto Alegre, influenciada pela pratica do concreto aparente e uma modernidade de características já bastante diversificadas; uma produção que se concentrou nos anos setenta, mas atingiu parcialmente as décadas adjacentes. Essa é a arquitetura da estrutura monumentalizada, da experimentação formal, do alto teor artesanal presente. Este último merece destaque pela sua existência dentre dois Brasis, o colonial e o industrial – e de forma curiosa ainda foi capaz de gerar riqueza no detalhe arquitetônico, um desdobramento autóctone próprio de uma modernidade de raízes brasileiras, mas que transcende um certo folclore tropical. O fenômeno da “arquitetura bancária” ocorrido em todo País, cujo epicentro foi São Paulo, contextualiza esta experiência gaúcha e periférica. Havia naquele período certa dualidade no processo operativo de projeto. Por um lado, existia a notabilidade artística do autor, a autoria da composição particular, o projeto solucionado de modo “artesanal”; por outro, havia os modelos genéricos, quase institucionalizados, de uso corrente e estandardizados para satisfazer a demanda de projetos modernos em escala global. Dois caminhos antagônicos tendo como fatores fundamentais a cultura local de elaboração de projeto e as limitações climáticas, técnicas e econômicas próprias do estado gaúcho. Era o momento, segundo Luis H. H. Luccas, quando se tornava assimétrica a comparação entre arquitetura como concepção individual artesanal ou como projeto coletivo. E a vertente do concreto aparente, dita “brutalista”, em ascensão resgatava a manufatura artesanal dos componentes, seus aspectos primitivos e suas imprecisões, como sinônimo de excepcionalidade, audácia, expressão e novidade. Entretanto, a concepção do concreto enquanto pedra falsa, ou ao menos como um material de envelhecimento rápido e patológico sob condições subtropicais, fatalmente não sobreviveu a intervenções que mascarassem seu sentido. Enfim, este trabalho busca demonstrar que a Escola Paulista não era a única nem a principal influência dos arquitetos locais. Fica evidente, no entanto, a influência direta de mestres europeus exercida sobre os profissionais locais, destacadamente para a presença subjacente de matrizes miesianas e para a tactilidade madura corbusiana. Embora os arquitetos trabalhassem em torno de utopias artísticas, os exemplares mais bem-sucedidos na criação da forma foram justamente os exemplares de composição elementar. Isso contribui em alguma medida com a revisão, o sentido e o prosseguimento da genealogia da arquitetura moderna como um fenômeno ainda a traduzir para os dias de hoje.</abstract>
+        <abstract locale="en_US">This study aims to recognize and analyze the banking architecture Porto Alegre, a production concentrated in the Seventies which used exposed rough concrete as the main characteristic and late modern features. Brutalist features appeared through monumentalized structures, formal experimentations, and high level of artisanal content applied. This last one deserves special attention due to its existence inside two antagonist Brazils: the colonial and the industrial. Curiously, this apparent contradiction (or duality) was still able to generate high architectural standards, reveling itself as an autochthonous development from Brazilian Modern Architecture, which transcended the general image of a tropical folklore. There was at that time a certain duality in the operating process of design. On the one hand, the architect searched for and artistic notability through particular compositions, so-called &quot;artisanal&quot; mode. On the other, there were the generic architectural models almost institutionalized, usual and standardized to meet the modern designs demand on a global scale. Two opposing methods dealing with fundamental local factors as the designing culture, and the climate technical and economic limitations typical in South Brazil. According to Luis H. H. Luccas the postwar period marks the asymmetric comparison between architecture as an individual design development or as a collective project. In addition, the rising exposed concrete movement so-called &quot;brutalist&quot; rescued that artisanal manufacture included in the components, with its primitive aspects and its inaccuracies, as a synonym of uniqueness, boldness, expression and novelty. This is a &quot;romantic&quot; aesthetic that countered the synthetic, homogeneous and systematic architectural language developed earlier through international standards. The design of concrete as faux stone, or at least as fast and pathological aging of material under subtropical conditions, fatally did not survive to constructive interventions, which would mask its meaning. Finally, this paper seeks to show that the so-called “Paulista School” was not the only or the main influence for local architects. Miesian matrices and Corbusien tactilities are more feasible. Although the local architects worked around some artistic utopias, the most successful forms used actually elementary compositions. This contributes to the review, the meaning and the continuation of the Brazilian modern architecture as a phenomenon to translate to nowadays.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Bancária</keyword>
+          <keyword>Porto Alegre</keyword>
+          <keyword>Anos Setenta</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture Bank</keyword>
+          <keyword>Porto Alegre</keyword>
+          <keyword>Seventy years</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Amado</givenname>
+            <familyname locale="pt_BR">Petroli</familyname>
+            <country>BR</country>
+            <email>petrolim@ufl.edu</email>
+            <orcid>https://orcid.org/0000-0002-5891-5911</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul05-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Bernard Rudofsky</title>
+        <subtitle locale="pt_BR">duas casas em São Paulo, 1939-41</subtitle>
+        <abstract locale="pt_BR">O arquiteto austríaco Bernard Rudofsky (1905-1988) é conhecido sobretudo por sua contribuição crítica e teórica, em especial através da exposição organizada por ele no Museu de Arte Moderna (MoMA) de Nova Iorque em 1964, Architecture Without Architects, com base nos relatos e fotografias de suas inúmeras viagens ao redor do mundo, mas contando também com o conteúdo acumulado de décadas de sua pesquisa sobre a arquitetura “vernácula, anônima, espontânea, indígena, rural”. Mais de duas décadas antes disto, entre dezembro de 1938 e abril de 1941, Rudofsky residiu em São Paulo, após ter vivido e trabalhado por alguns anos na Itália – onde foi profundamente influenciado pela arquitetura e pelo estilo de vida do Mediterrâneo. Durante este período no Brasil, Rudofsky trabalhou em alguns projetos, com destaque para as Casas Frontini e Arnstein, que fizeram parte da emblemática exposição Brazil Builds, organizada por Philip Goodwin também no MoMA em 1943. Apesar disso, as ideias e principalmente a obra arquitetônica de Rudofsky são, no entanto, pouco conhecidas no Brasil, mesmo tendo o arquiteto austríaco vivido e trabalhado no país durante um momento chave para o desenvolvimento da arquitetura moderna brasileira. O objetivo deste texto é ampliar o conhecimento atual em relação à obra projetual de Rudofsky, com foco específico nestas duas casas idealizadas e construídas pelo arquiteto em São Paulo. Através da análise das estratégias arquitetônicas utilizadas por Rudofsky - sobretudo a utilização de pátios e da articulação dos ambientes internos com os externos - pretende-se apresentar as diversas relações entre estas estratégias e as ideias e conceitos domésticos preconizados pelo arquiteto durante toda a sua carreira, tais como a valorização da intimidade, da comodidade, e do contato sensorial dos moradores com o sol, a luz, o ar e a água dentro do espaço privado.</abstract>
+        <abstract locale="en_US">The Austrian architect Bernard Rudofsky (1905-1988) is best known for his critical and theoretical contribution, especially through the exhibition organized by him at the Museum of Modern Art (MoMA) in New York in 1964, Architecture Without Architects, based on reports and photographs of his many trips around the world, but also relying on the accumulated content from decades of his research on the &quot;vernacular, anonymous, spontaneous, indigenous, rural&quot; architecture. More than two decades before that, between December 1938 and April 1941, Rudofsky lived in São Paulo, after having lived and worked for a few years in Italy - where he was deeply influenced by the architecture and the lifestyle of the Mediterranean. During this period in Brazil, Rudofsky worked on a few projects, particularly the Frontini and Arnstein Houses, which were part of the emblematic exhibition Brazil Builds, organized by Philip Goodwin also at MoMA in 1943. Nevertheless, the ideas and especially the architectural work of Rudofsky are, however, little known in Brazil, even though the Austrian architect lived and worked in the country during a key moment in the development of Modern Brazilian Architecture. The purpose of this paper is to expand the current knowledge regarding the architectural design work of Rudofsky, with specific focus on these two houses idealized and built by the architect in São Paulo. Through the analysis of the architectural strategies used by Rudofsky - especially the use of courtyards and the articulation between indoor and outdoor spaces - it is intended to present the various relationships between these strategies and the domestic ideas and concepts advocated by the architect throughout his career, such as the appreciation of intimacy, comfort, and the sensory contact of the residents with sunlight, air and water within the private space.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Bernard Rudofsky</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Brazil Builds</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Bernard Rudofsky</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Brazil Builds</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Dornelles dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul05-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Quando os fios se entrelaçam, se desenha a trama das construções modernas</title>
+        <keywords locale="pt_BR">
+          <keyword>Construções moderna</keyword>
+          <keyword>América do Sul</keyword>
+          <keyword>Arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Buildings</keyword>
+          <keyword>South America</keyword>
+          <keyword>Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza Macedo Xavier</givenname>
+            <familyname locale="pt_BR">de Freitas</familyname>
+            <country>BR</country>
+            <email>freitas@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1504-0756</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsul05-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">O moderno é atual</title>
+        <subtitle locale="pt_BR">o caso do Conjunto Residencial da Rua Grécia</subtitle>
+        <abstract locale="pt_BR">O trabalho apresenta o Conjunto Residencial na rua Grécia, em Cotia/SP, projetado em 2001 por Joan Villà e Silvia Chile, a partir de uma iniciativa privada onde a premissa era construir o máximo com o menor custo. Esse projeto deveria, dentro do orçamento proposto pela empresa contratante, adequar o terreno às edificações, construir as habitações e elementos de apoio, além de toda a infraestrutura necessária no local – o terreno era parte de uma chácara e não possuía nenhuma estrutura. As limitações financeiras foram determinantes para as atitudes projetuais, como a utilização de materiais baratos na construção, ajustes mínimos no aclive do terreno e o fato de não optarem pela construção de vias internas para circulação de veículos. Um dos pontos altos do projeto está na tecnologia adotada, os painéis préfabricados em tijolo cerâmico desenvolvidos por Joan Villà na UNICAMP, São Paulo. O projeto merece reconhecimento e estudo, já que foi o primeiro conjunto habitacional popular agraciado pelo Instituto dos Arquitetos do Brasil (IAB) com o prêmio Carlos Barjas Milan, em 2002. As análises apresentadas seguem os critérios conforme metodologia aplicada por Josep Maria Montaner no livro Herramientas para habitar el presente, de 2013. Os itens de análise, cidade, sociedade e tecnologia, por exemplo, englobam as características básicas que se pede à habitação contemporânea, num momento em que se constrói uma grande quantidade de edificações, porém sem nenhum critério. Essa reflexão é feita pela consciência de que é necessário plantar uma cultura de habitação, é preciso educar para que a habitação seja entendida como parte da cidade, conformadora do tecido urbano e como lugar para habitar o presente, alojar nosso passado e projetar o futuro. O passado e todas as características do Movimento Moderno, que construiu milhões de habitações de interesse social no país, é muito importante para o resultado da arquitetura atual. Apesar das críticas em relação à construção em terrenos muito distantes dos centros, apartamentos pouco flexíveis e sem exploração de tecnologias construtivas adequadas, há de ser levada em conta toda a qualidade e a grandiosidade que esse período teve na história da arquitetura da habitação. Tal pensamento é relatado no livro Plus, do grupo de arquitetos franceses liderado por Anne Lacaton e Frederic Druot, e apresenta uma visão muito atual da situação da habitação de interesse social e como os projetos vêm mostando evoluções em relação ao que se buscava fazer pelo pensamento Moderno. É inevitável pensar na arquitetura atual sem pensar no Modernismo – industrialização, planta livre, estrutura independente. Esses quesitos fazem parte e são indispensáveis para a formação desse novo modo de projetar e construir. Conforme bibliografia adotada, esse trabalho analisa o projeto do Residencial Cotia, a fim de descrever características da arquitetura contemporânea e apresentar os pontos em que o projeto retoma os preceitos do Movimento Moderno. Além disso, apresentar a relevância dessa produção contemporânea em relação à cidade e à população, que foram desconsiderados por muito tempo, tanto pelas ações governamentais quanto pela academia. O Residencial em Cotia apresenta qualidades projetuais, construtivas e demonstra certa qualidade arquitetônica que pouco se encontra, quando o assunto é habitação de interesse social contemporânea.</abstract>
+        <abstract locale="en_US">The work presents the Residential Complex on the Grecia’s street, Cotia, designed in 2001 by Joan Villà and Silvia Chile, from a private initiative where the premise was to build the most with the least cost. This project should, within the proposed budget by the contracting company, suit the terrain to buildings, construction of housing and support elements, as well as the necessary infrastructure in place - the land was part of a farm and had no structure. Financial constraints were instrumental in the projective attitudes, such as the use of cheap materials in construction, minor adjustments in the land slope and the fact that not opt for the construction of internal roads for vehicles. One of the highlights of the project is the technology adopted, the prefabricated panels in ceramic brick designed by Joan Villà in Campinas, São Paulo. The project deserves recognition and study, as it was the first social housing awarded by the Institute of Architects of Brazil (IAB) with the prize Carlos Barjas Milan in 2002. The analyzes presented following the criteria as applied methodology by Josep Maria Montaner in book Herramientas para habitar el presente. The item for analysis, city, society and technology, for example, include the basic features that are required to contemporary housing, when you build a lot of buildings, but without any criteria. This reflection is made by the awareness that it is necessary to plant a culture of housing, it is necessary to educate so that housing is seen as part of the city, forming the urban fabric and as a place to live the present, accommodate our past and plan the future. The question of the past and all the modern movement characteristics, which built millions of social housing in the country, are very important to the outcome of the current architecture. Despite the criticism of the construction in remote land of the centers, inflexible apartments and without exploitation of appropriate building technologies, it has to be taken</abstract>
+        <keywords locale="pt_BR">
+          <keyword>habitação social</keyword>
+          <keyword>industrialização</keyword>
+          <keyword>Movimento Moderno</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mariana Comerlato</givenname>
+            <familyname locale="pt_BR">Jardim</familyname>
+            <country>BR</country>
+            <email>jardim@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsul05-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Wiener Werkbundsiedlung</title>
+        <subtitle locale="pt_BR">Vienna Housing Strategies after the Collapse of the Austrian Empire – Social Housing in Wien, 1920</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Markus</givenname>
+            <familyname locale="pt_BR">Tomaselli</familyname>
+            <affiliation locale="pt_BR">TU Wien</affiliation>
+            <country>BR</country>
+            <email>tomaselli@tuwien.ac.at</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsul05-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Escolas modernas em São Paulo</title>
+        <subtitle locale="pt_BR">Passado e Presente. o FDE sob a ótica das experiências de Rino Levi, Vilanova Artigas e João Walter Toscano</subtitle>
+        <abstract locale="pt_BR">A construção de escolas e edifícios docentes na metade do século XX permitiu aos arquitetos modernos o desenvolvimento de uma série de atributos, muitos deles com viés meio-ambiental. Especificamente no estado de São Paulo, nomes como Rino Levi, Vilanova Artigas, João Walter Toscano e Paulo Mendes da Rocha esboçaram, na resolução de programas docentes, elementos e estratégias de projeto que perduraram ao longo do século XX, chegando a influenciar novas experiências no século XXI. A partir da análise dos aspectos primordiais de edifícios como o Instituto Superior de Filosofia Sedes Sapientiae (19401942) – de Rino Levi, a Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959) – de João Walter Toscano ou a Escola Estadual de Itanhaém (1960-1961) – de Vilanova Artigas, é possível entender quais foram as bases sobre as quais se organizam alguns projetos contemporâneos de autoria de jovens arquitetos realizados no estado de São Paulo. Nesse sentido, as escolas promovidas pela Fundação para o Desenvolvimento da Educação (FDE) – da Secretaria de Educação do Estado de São Paulo – oferecem um amplo campo de pesquisa e comparação. Em centros como Escola Professora Selma Maria Martins Cunha (Grupo SP Arquitetos), A Escola Jardim Maria Helena (+ K Arquitetos) e a Escola de Ensino Fundamental FDE Campinas F1 (MMBB Arquitetos) é possível perceber nitidamente os “ecos” da arquitetura moderna supracitada. Se comparados esses grupos de escolas de diferentes épocas, algumas estratégias formais se reiteram,: arranjos gerais de implantação, volumetrias, configurações de salas de aulas e espaços de convívio, definições de espaços abertos e estruturas portantes. Determinados atributos arquitetônicos de controle meio-ambiental também são constantes e repetem-se em projetos tanto de um período como de outro. Os elementos que talvez saltem à vista mais rápido são os cobogós. Rino Levi aplicou na fachada oeste do bloco de salas de aula na Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959) uma série de cobogós formados por elementos vazados de cimento, os quais protegem o interior da incidência solar excessiva mas permitem que a circulação tenha ventilação e luminosidade filtrada. O mesmo acontece na escola Jardim Maria Helena (2006), projetada pelo escritório + K Arquitetos. A Escola Professora Selma Maria Martins Cunha (2008) distribui-se sobre um terreno de geometria irregular em dois blocos que refletem as partes do programa, formando um “L”: um bloco de salas de aula e espaços administrativos e um bloco que contém a cancha poliesportiva. O mesmo foi pensado para a Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959), na qual o edifício assenta-se no recortado terreno por intermédio da fragmentação do programa em duas alas lineares, gerando diferentes pátios e espaços abertos. A utilização da estrutura como elemento de controle da incidência solar também parece ser uma constante na arquiteturas escolares de diferentes épocas aqui comparadas. A estrutura de pórticos com pilares de geometria triangular, lajes e vigas de concreto armado da Escola Estadual de Itanhaém (1960-1961) definem quase que totalmente o edifício construído. A proeminência da parte superior dos pilares na direção do perímetro da planta recebe lajes de cobertura que projetam sombra nas fachadas, controlando a incidência solar no interior das salas de aula. O mesmo pode ser visto na Escola de Ensino Fundamental Campinas F1 (2004), na qual a fachada norte fica protegida do sol pela projeção da cobertura. Nos projetos referidos abundam os principais atributos da arquitetura moderna brasileira: o emprego de rampas e a estipulação de percursos, os pilotis, a integração com os espaços abertos e com o entorno e o controle da incidência dos ventos e do sol. Quando colocados em relação conformam um edifício verdadeiramente sustentável, no qual os entraves meio-ambientais próprios do lugar são resolvidos com dispositivos arquitetônicos elementares.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>/key words: arquitetura escolar</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>sustentabilidade</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nicolás Sica</givenname>
+            <familyname locale="pt_BR">Palermo</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>nicolas.sica@ufrgs.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsul05-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Hangar para o Aeroporto Nacional de Buenos Aires</title>
+        <subtitle locale="pt_BR">como Pier Luigi Nervi tentou implantar seu sistema construtivo na América do Sul</subtitle>
+        <abstract locale="pt_BR">O projeto para o hangar do Aeroporto Nacional de Buenos Aires, realizado em 1951 por Pier Luigi Nervi, foi uma das tentativas do arquiteto italiano de difundir suas novas técnicas construtivas na aparentemente promissora América do Sul. Sua relação com o continente é decorrente da amizade com Pietro Maria Bardi, jornalista italiano residente no Brasil. Existem registros de duas viagens de Nervi para o Brasil e a Argentina: em 1950 e 1951. Na primeira, Nervi recebe o prêmio honoris causa pela Faculdade de Arquitetura de Buenos Aires, onde promove um ciclo de palestras que resulta na publicação El lenguaje architectonico. Naquela oportunidade, o engenheiro também submete uma proposta ao concurso promovido pelo governo argentino para o hangar do Aeroporto de Buenos Aires. O edital requisitava dois hangares de 90m de vão e portão de 70m. Nervi propõe um único hangar com vão de 180m e aberto ao longo do maior lado. A estrutura é uma fina abóbada curva formada pelas peças do Sistema Nervi, encaixadas em pilares inclinados de concreto armado. De Buenos Aires segue para São Paulo, a convite de Bardi, onde contribui com projetos de Lina Bo. Na segunda viagem, Nervi apresenta numerosos estudos sobre a compatibilidade do sistema proposto para ao hangar com o contexto produtivo local, e acaba perseguindo algumas possibilidades mais simples, dada a dificuldade de importar uma técnica construtiva tão peculiar. O projeto não se concretiza, mas fica claro que Nervi estava pondo em prática uma lúcida estratégia de construção de sua fama internacional que atuava em diversos níveis: academia, publicações, prêmios e projetos. Apesar do fracasso na implantação do Sistema Nervi na Argentina, o arquiteto abriu a discussão sobre a relação entre técnica construtiva e linguagem arquitetônica, e sobre a necessidade de estudos experimentais, já que o cálculo estático se mostrava insuficiente para estruturas hiperestáticas. Essa herança acabou influenciando a prática de diversos arquitetos sul-americanos como Eládio Dieste e Amancio Williams, que tiveram significativo papel na ampliação do conceito da resistência pela forma, e conseguiram desenvolver novas técnicas construtivas compatíveis com o contexto do seus país.</abstract>
+        <abstract locale="en_US">The design for the Buenos Aires National Airport hangar was made in 1951 by Pier Luigi Nervi and was one of the attempts by the Italian architect to spread his new construction techniques in the promising South America. His relation with the continent is due to his friendship with Pietro Maria Bardi. Nervi traveled to Brazil and Argentina two times: one in 1950 and then again in 1951. In his first trip, Nervi was awarded by the Faculty of Architecture of Buenos Aires where he promotes a lecture that resulted in the publication El lenguaje architectonico. He also submited a proposal to the contest promoted by the Argentine government for the Buenos Aires Airport hangar, in which two hangars with 90m and 70m gate were demanded. Nervi proposed a single hangar with 180m and open on the wider dimension. The structure is a thin curved dome formed by parts of the Nervi’s System suportted by inclined pillars of reinforced concrete. From Buenos Aires, he went to São Paulo following the invitation of Bardi where he contributed with a lot of Lina Bo's projects. On his second trip, Nervi showed numerous studies comparing the system proposed for the hangar with the local context as he tried to come up with a simpler possibility, given the difficulty of importing this peculiar construction technique. The project was not executed, but it was clear that Nervi was putting into practice an intentonal strategy of building his international fame and was acting on several levels: academy, publications, awards and projects. Despite the failure in the implementation of Nervi's System in Argentina, the architect opened the discussion on the relation between construction techniques and architectural language, and the need for experimental studies, as the static calculation was insufficient to complex structures. This inheritance influenced the practice of several South American architects such as Eladio Dieste and Amancio Williams, who had a significant role in expanding the concept of resistance by the form, and were able to develop new construction techniques compatible with the context of their countries.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Nervi</keyword>
+          <keyword>hangar</keyword>
+          <keyword>pré-fabricado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Nervi</keyword>
+          <keyword>hangar</keyword>
+          <keyword>prefabricated</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paula Bem</givenname>
+            <familyname locale="pt_BR">Olivo</familyname>
+            <country>BR</country>
+            <email>olivo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2147-9332</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsul05-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">A Casa Varanda</title>
+        <subtitle locale="pt_BR">reverberação moderna na produção contemporânea brasileira</subtitle>
+        <abstract locale="pt_BR">Este artigo busca construir um comparativo entre duas residências: a Casa Lota (Arq. Sérgio Bernardes) e a Casa Varanda (Arq. Carla Juaçaba). A primeira, considerada exemplar da arquitetura moderna, e a segunda, uma referência contemporânea. O método de comparação possibilita observar a similaridade entre as duas residências, bem como a relação entre arquiteturas modernas e contemporâneas, através de análise gráfica e textual. Num primeiro olhar, observa-se que a Casa Varanda apresenta similaridades com a Casa Lota, na horizontalidade, no uso de materiais leves e no emprego de varandas, reinterpretada no projeto de um modo diverso – a casa é a própria varanda que se abre para o exterior, por meio de painéis de vidro. À luz destes comentários, o artigo objetiva identificar como a Casa Lota e as casas anteriores de Sérgio Bernardes interferem na concepção da Casa Varanda. A qual ganha destaque por nela, hipoteticamente, estarem hibridizadas referências à arquitetura residencial moderna na produção contemporânea brasileira. Em um contexto mais amplo, o artigo busca identificar a tradição moderna à luz da vertente da arquitetura norte-americana. A configuração em linha e o uso de materiais naturais nas casas de Wright, bem como o uso de estrutura metálica e transparência central na Casa Farnsworth de Mies Van der Rohe são claramente identificados na arquitetura de Bernardes. O programa Case Study Houses que empregava estruturas metálicas leves, treliças aparentes e tecnologia pré-fabricada também repercutiu nas decisões projetuais de ambas as casas, que, por sua vez, não se distanciam da tradição do Movimento moderno europeu. Desta forma, o processo de investigação comparativo parte de estudos sistemáticos dos princípios de forma, espaço e ordem que geram diagramas sintéticos interpretativos, sobre os quais foram elaborados textos que explicam e questionam os aspectos de cada proposta. O discurso dos problemas, das soluções, bem como das lições de arquitetura de cada estudo de caso permitiu a apreciação do papel do projeto como portador de ideias e intenções. Assim, pode-se dizer que a relevância desse estudo não reside somente na pesquisa histórica, crítica e projetual, mas também em um contexto mais amplo da arquitetura moderna brasileira.</abstract>
+        <abstract locale="en_US">This article seeks to build a comparison between two houses: the House Lota (Arq Sergio Bernardes.) and Varanda House (Arq Carla Juaçaba.). The first, considered exemplary of modern architecture, and the second, a contemporary reference. The comparison method makes it possible to observe the similarity between the two residences as well as the relationship between modern and contemporary architecture through textual and graphical analysis. At first glance, it is observed that the Varanda House has similarities with the Lota House, in horizontality, the use of lightweight materials and the use of balconies, reinterpreted in the project in a different way - the house is the very balcony that opens to the exterior through glass panels. In light of these comments, the article aims to identify how Lota’s House and the former houses of Sergio Bernardes interfere in the design of the Varanda’s House. Which is highlighted by it hypothetically be hybridized references to modern residential architecture in contemporary Brazilian production. In a broader context, the article seeks to identify the modern tradition to shed light on the American architecture. The line configuration and the use of natural materials in Wright houses, as well as the use of metal structure and central transparency in Mies Farnsworth House Van der Rohe are clearly identified in the Bernardes architecture. The Case Study Houses program employing light metal structures, exposed trusses and prefabricated technology also reflected in projective decisions of both houses, which, in turn, do not move away from the tradition of modern European Movement. Thus, the process of comparative research of systematic studies of the principles of form, space and order to generate synthetic interpretative diagrams, on which were prepared texts that explain and question aspects of each proposal. Speaking of problems, solutions and the architecture lessons from each case study allowed the assessment of the project's role as bearer of ideas and intentions. Thus, it can be said that the relevance of this study lies not only in historical research, criticism and architectural design, but also in a broader context of modern Brazilian architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Residencial Moderna</keyword>
+          <keyword>Sérgio Bernardes</keyword>
+          <keyword>Análise Gráfica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Residential Modern Architecture</keyword>
+          <keyword>Sergio Bernardes</keyword>
+          <keyword>Graphical Analysis</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Pauline Fonini</givenname>
+            <familyname locale="pt_BR">Felin</familyname>
+            <country>BR</country>
+            <email>felin@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Monika Maria</givenname>
+            <familyname locale="pt_BR">Stumpp</familyname>
+            <country>BR</country>
+            <email>stumpp@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5017-770X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsul05-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Museu Oscar Niemeyer</title>
+        <subtitle locale="pt_BR">o anexo como protagonista</subtitle>
+        <abstract locale="pt_BR">O artigo trata do edifício “Olho” (2000-2002) projeto de Oscar Niemeyer pelo qual transformou em Museu uma sua própria obra anterior – o edifício Humberto Castelo Branco, originalmente projetado, em 1967, foi concebido para abrigar o Instituto de Educação do Paraná, em Curitiba. Entretanto, acabou por razões políticas e longo período, abrigando secretarias do Estado. A proposição para utilização, como Museu ocorreu mais de três décadas após o projeto original. Em 2002, o então governador Jaime Lerner convidou o arquiteto para desenvolver a ampliação e reconversão do prédio para transformá-lo em Museu. O artigo confronta algumas interpretações dos procedimentos projetuais de O. N. por meio de verificações do desenvolvimento da solução proposta no ano 2002, em relação ao repertório e condutas compositivas observáveis em 1967. Localiza-se na continuidade dos temas apresentados no 7º DOCOMOMO Brasil e no III PROJETAR que trataram de reciclagem- rearquitetura requalificação -, ambos realizados em Porto Alegre, em 2007. O edifício pré-existente, embora contivesse uma arquitetura de qualidade foi durante muito tempo desconsiderado na historiografia das obras do arquiteto. Basta lembrar sua ausência no livro de J. Ma. Botey (1996) tido como um dos que melhor registraram os trabalhos de O.N. Entretanto, a sua proposição é pioneira na obra de O.N. a conter um volume de grande porte, definido por uma caixa completamente fechada (edifício viga). Suas paredes laterais e as alveolares internas funcionam como vigas possibilitando grandes vãos e balanços apoiando-se em 24 pilares piramidais truncados, permitindo um térreo livre. Esta proposta ensaiou o projeto do edifício das salas de aula da Universidade de Costantine (1969-1972). A reconversão do edifício à função museológica ocorreu por meio do projeto de reformulação interno e da constituição de um “anexo” realizando requalificando a antiga obra e ainda expandindo seu uso público. A definição do edifício “Olho” como “anexo” é discutível. Anexos são categorizados, nos dicionários de arquitetura, como peças suplementares ou apêndices para edificações existentes. Quase sempre se configuram como novas alas, adições de corpos menores ou construções para receber programas adicionais. Em seu aceite ao convite de Jaime Lerner Niemeyer condicionou seu projeto à execução de um novo prédio que viesse a ser um símbolo de uma hodierna instituição cultural. Formou-se uma disposição de tornar a pretendida ampliação ou “anexo” numa deliberada definição: a nova construção deveria ter papel de protagonista em relação ao Edifício pré-existente. O artigo dentro deste pressuposto conduz uma leitura dos elementos e procedimentos que O. N. teria se utilizado (ou não) em termos de novas proposições para a reciclagem do moderno edifício de 1967. A análise destas ações será conduzida a partir de três interpretações predominantes, dentro de reconhecidos procedimentos de O. N. em seus trabalhos. A primeira é a de que nas obras mais recente utilizou repertórios e procedimentos compositivos com os quais já havia constituído em sua linguagem. A segunda é de que ampliou, entre a obra inicial e o projeto de reciclagem, seu repertório arquitetônico, tanto no modo de adequar programas museológicos, como no repertório de formas estruturas tectônicas de que se utilizou. A terceira se baseia em que o protagonismo do “anexo” se deve não só à reutilização de elementos do arsenal próprio, já constituído ao longo de sua carreira, mas a novas relações entre eles que foram capazes de empreender na reciclagem novas relações entre os componentes de sua linguagem, não se fixando apenas nas meras aparências de seus elementos. O que se manifesta entre elementos conhecidos de seu repertório como as barras, as cascas, os cálices, edifícios circulares, torres, calotas, rampas e pérgolas orgânicas etc. é a proposição da expansão do Museu Oscar Niemeyer não como “anexo”, mas que reverbera como protagonista o qual por meio de novas relações com o lugar, com as pré-existências modernas atualiza e obra e conduz a uma reconversão qualificada.</abstract>
+        <abstract locale="en_US">The article deals with the building &quot;The Eye&quot; (2000-2002) a project by Oscar Niemeyer by which turned into a museum one of his own earlier work - the building Humberto Castelo Branco, originally designed in 1967, was designed to house the Institute of Education of Paraná, in Curitiba. However, for political reasons, it housed for a long time several state secretariats. The proposition to it use as a museum occurred more than three decades after the original design. In 2002, the then State Governor Jaime Lerner invited the architect to develop the expansion and the conversion of the building into a museum. The article confronts some interpretations of Oscar Niemeyer’s projective procedures through verifications on the development of solutions proposed in 2002, in relation to the repertoire and compositional behaviors observable in 1967. It is located in the continuity of the topics presented in the 7th DOCOMOMO Brazil and III PROJETAR which dealt with building recycling- rearchitecture, requalification - both held in Porto Alegre in 2007. The pre-existing building, though it contained quality architecture, has long been overlooked in the historiography of the works of the architect. We just need to note its absence in the book of J. Ma. Botey (1996), considered one of the best in recording the work of Oscar Niemeyer. Still, its proposition is pioneering in the work of O.N. to contain a large volume, defined by a completely closed box (chevron building). Its sidewalls and the cellular internal walls function as beams enabling large spans and balances relying on 24 truncated pyramidal pillars, allowing a free ground. This proposal worked as a rehearsal for the building design of the classrooms of the University of Costantine (1969-1972). The conversion of the building to a museological function occurred through a project of internal restructuring and the establishment of an &quot;annex&quot; requalifying the old work and still expanding its public use. The definition of the buil</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Museu Oscar Niemeyer- Oscar Niemeyer- Projeto de arquitetura</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rafael Antonio Cunha</givenname>
+            <familyname locale="pt_BR">Perrone</familyname>
+            <affiliation locale="pt_BR">FAU-USP</affiliation>
+            <country>BR</country>
+            <email>racperrone@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8087-9948</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Simone</givenname>
+            <familyname locale="pt_BR">Neiva</familyname>
+            <affiliation locale="pt_BR">UVV</affiliation>
+            <country>BR</country>
+            <email>simoneiva@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3791-4888</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsul05-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Esplanada ontem, hoje, amanhã</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna em Porto Alegre</keyword>
+          <keyword>Román Fresnedo Siri</keyword>
+          <keyword>Edifício Esplanada</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rafael Saldanha</givenname>
+            <familyname locale="pt_BR">Duarte</familyname>
+            <country>BR</country>
+            <email>duarte@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsul05-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Uso e re-uso do Museu Oscar Niemeyer MON</title>
+        <abstract locale="pt_BR">Oscar Niemeyer projetou em 1967, um edifício para o Instituto de Educação do Paraná IEP em Curitiba, que nunca foi usado como escola. A obra foi implantada junto ao Cívico de Curitiba, projetado pela equipe de David Azambuja, discípulos de Lucio Costa, no início da década de 1950. Dois anos depois, coma mesma tipologia Niemeyer projetou o bloco de salas de aula da Universidade de Constantine, na Argélia. No período em que o arquiteto residiu fora do Brasil, explorou os limites do uso de estruturas de concreto armado, uma das premissas do “brutalismo”. O bloco principal de 205 metros por 45 metros, em concreto aparente pintado de branco, composto por três conjuntos de aula, mais tarde transformadas em salas de exposições, foi executado com vigas-paredes de 5,50 metros de altura com vão central de 65 metros e balanços laterais de 20 metros. Conforme croquis original do arquiteto, o conjunto arquitetônico teria outros blocos complementares. Durante a elaboração do projeto estrutural Niemeyer solicitou que as marcas de madeira das formas da estrutura deveriam ficar expostas, típica postura “brutalista”. Em 1978 o edifício teve seu primeiro uso como sede das Secretarias de Estado. Esta adaptação foi elaborada por Luiz Forte Netto, arquiteto paulista formado no Mackenzie e um dos criadores do curso de arquitetura da UFPR. Para atender as solicitações de intelectuais da cidade, depois do edifício ficar desocupado, Niemeyer foi convidado em 2002, para transformá-lo em museu de arte. Principal solicitação do novo programa, o salão principal de exposições destinado principalmente para obras contemporâneas, com amplo pé-direto, composto por duas formas curvas, foi executado sobre um pedestal que marca a identidade do museu. Contrastando com o despojado edifício linear e apesar de menos utilizado para exposições o desenho desta sala se transformou em ícone urbano. O pilotis sob a grande estrutura de concreto armado é o local mais interessante do Museu Oscar Niemeyer MON e um dos mais importantes espaços públicos da cidade. Em uma década, o projeto de re-uso de Niemeyer transformou o edifício em um dos museus mais freqüentados do Brasil.</abstract>
+        <abstract locale="en_US">Oscar Niemeyer designed a building for the Instituto de Educação do Paraná- IEP (Paraná Education Institute) in Curitiba in 1967, which has never been used as a school. This building is located next to the Civic Center, projected by David Azambuja team, Lucio Costa’s disciples, in the early 1950’s. Two years later, using the same typology, Niemeyer designed the classroom pavilion at Constantine University in Argel. During the period when the architect lived abroad from Brazil, he explored the use of naked concrete structure at its most, an essential concept of “Brutalism”. The main pavilion of the IEP, painted white, measuring 205m x 45m, was originally conceived to hold classrooms, being refurbished into exhibition rooms. This structure was built with beam-walls of 5,50m high, a central inner space of 65m and side balances of 20m. According to the original sketch, the architectural work should have more complementary pavilions. During the structural project of the building, Niemeyer has made another request: the wood signs of the structure should be apparent, one of “Brutalism” characteristics. In 1978, the building was firstly occupied as the headquarters of State Secretaries. This adaptation was designed by Luiz Forte Netto, an architect from São Paulo state, graduated at Mackenzie University, and one of the founders of the Architecture School at Paraná Federal University - UFPR. After the building became vacant, in order to meeting the requests made by the city intellectuals, Niemeyer was invited to transform the building into an art museum in 2002. The main request of the new program was that the main exhibition room, meant to contemporary art, should have a high ceiling, made up of two curving shapes. This main room, built on a pedestal, became the symbol of the museum. According to his usual work methods, Niemeyer used geometric shapes contrasting with the free design of the footbridges access. The most interesting space of Oscar Niemeyer Museum – MON is the pilotis under the giant concrete structure, one of the most important public spaces in the city. In a decade, Niemeyer’s re-used project transformed this building into one of the most visited museums in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Brutalismo</keyword>
+          <keyword>museu</keyword>
+          <keyword>re-uso</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brutalism</keyword>
+          <keyword>museum</keyword>
+          <keyword>re-use</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís Salvador</givenname>
+            <familyname locale="pt_BR">Gnoato</familyname>
+            <country>BR</country>
+            <email>gnoato@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1223-4328</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsul05-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Além do tijolo em Solano Benítez</title>
+        <abstract locale="pt_BR">Em meio à atual ascensão da arquitetura de peles, em que o desenho das fachadas é privilegiado em detrimento das soluções estruturais, a obra do paraguaio Solano Benítez segue caminho oposto, aproximando-se da tradição moderna de Le Corbusier e, principalmente, das escolas brasileiras de arquitetura carioca e paulista. Benítez é um dos arquitetos latino-americanos mais reconhecidos da atualidade. Sua obra singular baseia-se no uso corajoso e inventivo do tijolo. Contudo, a maioria das observações acerca de sua produção diz respeito apenas às conotações usuais desse material – familiaridade, segurança, proteção, aconchego. Além disso, apesar do tijolo ser universal, muitas análises utilizam os termos “local” e “regional” para referir-se à obra de Benítez, partindo do pressuposto de que basta utilizar tijolo para que uma arquitetura esteja em conformidade com materiais e conhecimentos do lugar onde está inserida. Um dos aspectos negligenciados nessas análises é justamente a importância das soluções estruturais nas concepções de seus projetos. Embora não haja protagonismo da estrutura em relação aos fechamentos - uma vez que, muitas vezes, os elementos estruturais estão dentro de paredes de fachada, muros laterais ou divisórias internas -, são as soluções estruturais que norteiam as decisões na prancheta e no canteiro de obras. Este artigo visa contribuir para o preenchimento dessa lacuna por meio da análise de duas residências projetadas pelo arquiteto paraguaio - Abu &amp; Font (2004-06) e Las Anitas (2006-08) -, que consistem em exemplares representativos da exploração da autonomia e racionalidade da estrutura independente em benefício das composições formais dos edifícios, explorando, dessa maneira, a hipótese da persistência da tradição moderna na prática contemporânea.</abstract>
+        <abstract locale="en_US">In a context of rise of skin architecture, in which the design of the facades is privileged in detriment of structural solutions, the work of the Paraguayan Solano Benítez follows the opposite way, approaching the modern tradition of Le Corbusier and, mainly, of Brazilian architecture schools of Rio and São Paulo. Benítez is currently one of the most recognized Latin American architects. His unique work is based on bold and inventive use of brick. However, most of the comments about his production concerns the usual connotations of this material - familiarity, security, protection, warmth. Moreover, despite brick being universal, many analyzes use the terms &quot;local&quot; and &quot;regional&quot; to refer to the work of Benítez, assuming that the simple use of brick is enough for an architecture to be in conformity with materials and knowledge of where it is located. One of the overlooked aspects in these analyzes is precisely the importance of structural solutions in the conception of their projects. Although there is no role of the structure in relation to the locks - since often the structural elements are inside façade walls, boundary walls or interior walls - the structural solutions are that guide the decisions on the drawing board and on the construction site. This article aims to contribute to filling this blank through the analysis of two residences designed by the Paraguayan architect - Abu &amp; Font (200406) and Las Anitas (2006-08) - which consist of representative examples of the exploitation of autonomy and rationality independent structure for the benefit of formal compositions of buildings, exploring, thus, the hypothesis of the persistence of the modern tradition in contemporary practice. Key words: brick, Solano Benítez, Paraguay. Além do tijolo em Solano Benítez Solano Benítez é um dos arquitetos latino-americanos mais reconhecidos da atualidade. Sua obra singular e inusitada baseia-se no uso corajoso e inventivo do tijolo cerâmico aparente. Benítez graduou-se em</abstract>
+        <keywords locale="pt_BR">
+          <keyword>tijolo</keyword>
+          <keyword>Solano Benítez</keyword>
+          <keyword>Paraguai</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Suelen</givenname>
+            <familyname locale="pt_BR">Camerin</familyname>
+            <country>BR</country>
+            <email>camerin@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4598-1354</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsul05-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Lina Bo Bardi</title>
+        <subtitle locale="pt_BR">de Salvador ao Benin</subtitle>
+        <abstract locale="pt_BR">Casa do Benin em Salvador e Casa do Brasil no Benin. Estas foram duas idealizações integrantes do projeto de recuperação do Centro Histórico de Salvador nos anos 1980, realizadas pela arquiteta Lina Bo Bardi. Como se sabe, Lina esteve em Salvador entre finais de 1950 e 1964, período no qual recuperou o Solar do Unhão. Para a própria Lina, o trabalho que desenvolveu no “polígono da seca”, no qual está inserida a recuperação do Unhão, foi seu projeto mais importante, embora interrompido pela ditadura. Nos anos 1980, momento no qual no Brasil, e certamente na Bahia, as questões culturais passam a ser tratadas com foco na diversidade, Lina volta a Salvador para liderar a recuperação do seu centro histórico. Ou seja, a arquiteta, por uma segunda vez, desenvolve um trabalho também de intervenção no patrimônio arquitetônico e urbano soteropolitano. Embora o clima cultural naquele momento não fosse o mesmo dos anos 1950, este era um período de certa maneira atípico da vida do país como um todo, uma vez que o mesmo saía de considerável período de ditadura. Marcado assim pela abertura política, o Brasil era dominado por uma força e um clima novos, plenos de esperanças, no qual a atenção aos valores culturais mais populares começam a sobressair. Assim, integrante deste projeto, a criação da Casa do Benin na Bahia e sua irmã no continente africano tinham a intenção de comemorar e reafirmar o intercâmbio cultural entre os dois países, intercâmbio existente desde a época da escravidão, quando do Benin vinha a maior parte dos negros africanos construir o Brasil-Colônia e que, retornando ao seu país de origem, levavam também as marcas culturais do Brasil para a África. O trabalho em questão analisa a obra da Casa do Benin em Salvador, realizada a partir de intervenção em edifício colonial, e o projeto da Casa do Brasil no Benin. Os principais objetivos são estabelecer os meios de intervenção utilizados pela arquiteta Lina Bo Bardi na construção de uma narrativa e suas referências, bem como ressaltar o contexto histórico que os gerou. Lina Bo Bardi: from Salvador to Benin</abstract>
+        <abstract locale="en_US">House of Benin in Salvador and House of Brazil (or Bahia) in Benin, were two idealizations, members of the recovery project of the Historic Center of Salvador in the 1980s, conducted by the architect Lina Bo Bardi. As is known, Lina was in Salvador between late 1950 and 1964, a period in which she regained Solar Unhão. For Lina herself, the work she developed at “polígono da seca” or &quot;drought polygon&quot;, in which the recovery of Unhão is inserted, was her most important project, although interrupted by the dictatorship. In the 1980s, a period which in Brazil and, certainly in Bahia, as cultural issues began to be dealt with a focus on diversity, Lina returns to Salvador to lead the recovery of its historic center. That is, the architect, for a second time, also develops a work of intervention in the architectural heritage and urban Soteropolitano. Although the cultural atmosphere at that moment was not the same as the 1950's, this was, in a sense, an atypical period of the country’s life as a whole, since it was coming out of a considerable period of dictatorship. Marked so by this political opening, Brazil was dominated by a force and a new atmosphere, full of hope, in which the attention to the most popular cultural values began to stand out. Thus, as part of this project, the creation of the House of Benin in Bahia and its sister on the African continent, both had the intention to celebrate and reaffirm the cultural exchange between the two countries, which had existed since the time of slavery, when most Africans were sent from Benin to build the Colonial Brazil and, returning to their country of origin, they would also carry cultural marks from Brazil to Africa. The project involved analyzes the work of the House of Benin in Salvador conducted from intervention in colonial building, and the House of Bahia project in Benin. The main purposes are to establish the means of intervention used by the architect Lina Bo Bardi in the construction of a narrative, its refer</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Suely de Oliveira Figueirêdo</givenname>
+            <familyname locale="pt_BR">Puppi</familyname>
+            <country>BR</country>
+            <email>puppi@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0001-7224-670X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsul05-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Jaime Lerner em Maringá</title>
+        <subtitle locale="pt_BR">arquitetura e cidade</subtitle>
+        <abstract locale="pt_BR">A atuação profissional de Jaime Lerner é conhecida pelas intervenções urbanas propostas em Curitiba, que se deram por sua formação de engenheiro e arquiteto, acrescida aos cargos executivos que ocupou na vida política. Entretanto, o início de sua carreira é marcado por um projeto arquitetônico no interior do estado, concebendo o Centro Esportivo Municipal de Maringá, CEMM, em 1961. Nos anos 1970 projetou a Universidade de Maringá, UMA e em 1974 uma trincheira, ligando um espaço ao outro, trabalhos que, por suas soluções, integraram-se ao espaço urbano. O projeto urbanístico da cidade (1945) definiu traços de modernidade alinhadas aos preceitos de cidade jardim, com desenho setorizado e previu para a área central, as funções cívicas, comerciais e a zona esportiva. A universidade foi implantada à norte do limite da área que abrangeu o plano. O CEMM teve seu partido arquitetônico pautado no “estádio em terra”, expressão usada por Lerner para a solução estrutural adotada, instalado ao redor do campo de futebol, na posição mais centralizada da quadra e com escala dominante. O ginásio de esportes teve seu posicionamento alterado conforme o andamento do projeto, e, em uma das soluções projetuais, teve forte influência do desenho do Clube Atlético Paulistano. A ocupação da quadra do CEMM é um composto de construção e vazio que permite o uso coletivo, com eventos, feiras, conformando o cenário para reuniões públicas, conceito estabelecido nessa etapa inicial e que permanece até os dias de hoje. O desenvolvimento dos projetos se deu pela constituição de equipe com os arquitetos Domingos Henrique Bongestabs e Marcos Loureiro Prado. A Universidade de Maringá foi fundada em 1969, cuja origem coincide com as altas taxas de crescimento econômico no país no Milagre Brasileiro, período de investimentos e a proliferação de obras pelo Brasil, incluindo escolas e o espaço universitário, ainda que politicamente vivêssemos em regime de repressão. A concepção do projeto arquitetônico da universidade, não construída, deu-se pela mesma equipe e está pautada numa implantação moderna, monumental e setorizada, formada predominantemente por dois blocos extensos que convergem para uma praça cívica, verificando-se influência do ICC da UNB na configuração das edificações. A vida profissional de Lerner é acompanhada de diversos arranjos nas constituições de equipes e parcerias, pois em Maringá, além de Bongestabs e Prado, há ainda a associação com o arquiteto Manoel Coelho para o desenvolvimento do projeto da Trincheira (1974). Esses projetos possuem certo atrelamento aos preceitos do Team 10, fruto do estágio que Lerner fizera em Paris com George Candilis, integrante do grupo, e que se posicionava em defesa da cidade. Uma postura crítica sobre o urbanismo, buscando novas definições frente a complexidade das cidades. São propostas que representam para Maringá, soluções que adotaram a escala da urbanidade, interpretaram o traçado urbanístico e suas decisões valorizam a vida nas ruas, a apropriação do vazio e a convivência com a diversidade de funções.</abstract>
+        <abstract locale="en_US">The work of Jaime Lerner is known for urban interventions proposed in Curitiba, resulted from his engineering and architecture graduation, and the executive positions he held in political career. However, the beginning of his professional work is marked by an architectural project in the state, the Municipal Sports Center of Maringá, CEMM in 1961. In the 1970s he designed the University of Maringá, UMA and in 1974 a trench connecting one space to another, by its solutions, these works have integrated the urban space. The urban planning of the city (1945) defined a modern style aligned with the garden city principles, with sectored areas and established for the center area both the civic functions, commercial and sports area. The university was located to the northern edge of the city plan. The CEMM had its architectural concept ruled the &quot;stadium on ground&quot;, an expression used by Lerner for the structural solution adopted, installed around the soccer field, located at the center position of the square and with a prevalent scale. The gymnasium had its position changed as the project progresses, and one of the design solutions had strong influence of the Paulistano Athletic Club design. The occupation of CEMM`s block is composed by construction and void that allows the collective use, with events, market-place, thus it is allowed the scenery for public meetings, concept established since this early stage, which remains until this day. The project was developed by the team constituted with the architects Domingos Henrique Bongestabs and Marcos Loureiro Prado. The University of Maringá was founded in 1969, its origin coincides with the high rates of economic growth in the country in the Brazilian Miracle period of investment and the proliferation of works within Brazil, including schools and the university area, although in the political area we lived in repression regime. The conception of the architectural design of the university, not built, was made by the same team and is ruled by a modern implantation, monumental and sectored, predominantly formed by two large blocks which converge to a civic square, verifying influence of the ICC UNB in the buildings’ configuration. The professional life of Lerner is marked by several arrangements in the constitutions of teams and partnerships, such as in Maringa, beyond Bongestabs and Prado, there was the association with the architect Manoel Coelho for the development of trench project (1974). These projects have some linkage to the precepts of Team 10, resulted by the internship Lerner did in Paris with George Candilis, member of the group, who was positioned in defense of the city. A critical stance on urban planning, seeking new definitions forward the complexity of cities. These proposals represent to Maringa, solutions that have adopted the urbanity scale, interpreted the urban layout and its decisions value the life on the streets, the appropriation of empty areas and the diversity of functions.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna em Maringá</keyword>
+          <keyword>Jaime Lerner em Maringá</keyword>
+          <keyword>Edifícios públicos em Maringá</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture in Maringa</keyword>
+          <keyword>Jaime Lerner in Maringa</keyword>
+          <keyword>public buildings in Maringa</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tânia Nunes Galvão</givenname>
+            <familyname locale="pt_BR">Verri</familyname>
+            <affiliation locale="pt_BR">UEM</affiliation>
+            <country>BR</country>
+            <email>tngverri@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdsul05-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">A permanência do transitório</title>
+        <subtitle locale="pt_BR">os pavilhões do Brasil e do Chile para a Expo 92 – Sevilha</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Pavilhões de exposição</keyword>
+          <keyword>Expo´92 – Sevilha</keyword>
+          <keyword>Arquitetura Latino Americana</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Exhibition Pavilions</keyword>
+          <keyword>Expo´92 - Sevilla</keyword>
+          <keyword>Latin American Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Thaís Luft da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdsul05-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Referências da Modernidade no edifício para a Biblioteca Municipal de Maringá</title>
+        <abstract locale="pt_BR">Este artigo analisa o edifício projetado para a Biblioteca Municipal de Maringá a partir da noção de circulação de ideias em arquitetura, manifestada na incorporação das formas da modernidade. Compreender o processo de difusão, assimilação, rejeição e transformação dessas ideias é necessário para o entendimento da arquitetura produzida no interior do país a partir da metade do século XX, no contexto da modernização das cidades interioranas. O edifício, inaugurado em 1975, está referenciado na arquitetura modernista e do concreto aparente, fazendo ressoar a produção de arquitetos paulistas e curitibanos das décadas de 1960 e 1970. O trabalho se desenvolveu através de uma pesquisa correlacional entre a biblioteca e seus antecedentes arquitetônicos.</abstract>
+        <abstract locale="en_US">This article analyzes the Maringá library building regarding the diffusion of architectural ideas, manifested in the incorporation of modern forms. Understanding the process of diffusion, assimilation, rejection and transformation of these ideas is necessary to comprehend the architecture developed in the mid-twentieth century inner cities, when urban modernization was noticed. The building, opened in 1975, is referenced in the modernist architecture and béton brut aesthetics, which resonates the works of architects from São Paulo and Curitiba of the 1960s and 1970. The work was developed through a correlational research between the library and its architectural antecedents. Key words: Architecture diffusion. Modern architecture. Northern Paraná. Referências da modernidade no edifício para a Biblioteca Municipal de Maringá Introdução Este trabalho trata da incorporação das ideias da modernidade no edifício projetado para a sede da Biblioteca Municipal e para a Secretaria de Educação e Cultura de Maringá, cidade nova planejada localizada no norte do Paraná fundada em 1947. Essa região teve uma ocupação planejada pautada pela colonização sistemática, que imprimiu aspecto inovador para as novas cidades implantadas. Adaptando a noção de cidades satélites foram consideradas quatro cidades principais e outras menores, dependentes e interligadas. Maringá é uma dessas quatro cidades, projetada pelo engenheiro Jorge de Macedo Vieira em 1945-47, que aplicou elementos do urbanismo moderno, como aspectos formais do garden city e do city beautiful (BONFATO, 2003; REGO, 2012). Nesse mesmo sentido, o anseio de se aproximar da paisagem dos grandes centros urbanos fez com que alguns edifícios construídos na cidade também recebessem aspectos da moderna arquitetura brasileira, prestigiada e intensamente divulgada pelo país. Assim, discute-se como a arquitetura produzida nas metrópoles brasileiras serviu de referência para o projeto da biblioteca, em um processo denominado circulação</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Circulação de Ideias. Arquitetura Moderna. Norte do Paraná</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vanessa Calazans da</givenname>
+            <familyname locale="pt_BR">Rosa</familyname>
+            <country>BR</country>
+            <email>rosa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Renato Leão</givenname>
+            <familyname locale="pt_BR">Rego</familyname>
+            <country>BR</country>
+            <email>rego@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1822-2907</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>
