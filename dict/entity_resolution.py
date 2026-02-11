@@ -2,11 +2,16 @@
 """
 Entity Resolution — reconhecimento de variantes de nome da mesma pessoa.
 
-Identifica que "M.B. Cappello", "Maria Beatriz Cappello" e "Maria B. C. Cappello"
-são a mesma pessoa. Funciona por comparação de familyname + análise de prefixos
-e abreviações no givenname.
+Trata a tipologia de erro #3 (ambiguidade de entidades) aplicada a nomes de
+autores, conforme descrito em dict/documentacao/ner_fontes.md.
 
-Pode ser importado como módulo ou usado standalone para testar pares de nomes.
+Identifica que "M.B. Cappello", "Maria Beatriz Cappello" e "Maria B. C. Cappello"
+são a mesma pessoa. Técnicas:
+  - Comparação de familyname exato (normalizado, sem acentos)
+  - Jaro-Winkler no familyname (threshold >= 0.92) para variantes ortográficas
+  - Análise de prefixos e abreviações no givenname
+  - Coautoria: co-aparição no mesmo artigo = pessoas diferentes (sinal negativo)
+  - Coautores compartilhados = sinal positivo (reforça match JW)
 
 Uso como módulo:
     from dict.entity_resolution import is_variant, is_abbreviation_of, normalize_name

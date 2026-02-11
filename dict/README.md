@@ -14,6 +14,23 @@ Usado nos Anais Docomomo Brasil e projetado para reuso em outros projetos (Momop
 > `init_db.py` e rodar `--reset`, ou inserir diretamente no `dict.db` via
 > SQLite.
 
+## Tipologias de erro tratadas
+
+O pipeline aborda 5 tipologias de erro em metadados bibliográficos
+(ref: [ner_fontes.md](documentacao/ner_fontes.md)):
+
+| # | Tipologia | Status | Tratamento |
+|---|-----------|--------|------------|
+| 1 | **OCR / digitação** (substituição de caracteres, fusão de palavras) | Fora de escopo | Dados vêm de Word/Even3, não de OCR. Erros residuais corrigidos na revisão humana (`revisao/`) |
+| 2 | **Variância terminológica** ("Concreto Aparente" vs "Béton Brut") | Fora de escopo | Normalizamos capitalização, não vocabulário. Termos preservados como no original |
+| 3 | **Ambiguidade de entidades** ("igreja" genérico vs "Igreja da Pampulha") | ✅ Coberto | dict.db distingue por categoria: expressões consolidadas, movimentos, lugares, nomes próprios |
+| 4 | **Inconsistência de capitalização** (CAIXA ALTA, Title Case errado) | ✅ Core | `normalizar.py` aplica regras FUNAG em 3 passadas (palavras → expressões → toponímicos) |
+| 5 | **Multilíngue / diacríticos** (acentos, mistura de idiomas) | Parcial | <2% dos títulos são en/es. Acentos preservados. Travessão normalizado (hífen → em-dash) |
+
+A tipologia 4 é o núcleo do módulo. As tipologias 1 e 2 são tratadas pela revisão humana
+e estão fora do escopo da normalização automática. A tipologia 3 é resolvida pelo dicionário
+de entidades (dict.db). A tipologia 5 é marginal na escala do projeto.
+
 ## Regras de capitalização
 
 Tudo minúscula, exceto:

@@ -2,19 +2,25 @@
 """
 Biblioteca de normalização FUNAG de maiúsculas/minúsculas.
 
-Lê dicionário de nomes/siglas/lugares/expressões do dict.db.
-Pode ser importada como módulo ou usada standalone para testar textos.
+Trata as tipologias de erro #3 (ambiguidade de entidades) e #4 (capitalização)
+descritas em dict/documentacao/ner_fontes.md. Lê dicionário do dict.db.
 
-Regras:
+Passadas:
+  1a — palavra a palavra: siglas, nomes, lugares, áreas, movimentos
+  2a — expressões consolidadas (regex multi-palavra)
+  3a — toponímicos contextuais (capitalizados após movimento/área/expressão)
+
+Regras FUNAG:
 - Tudo minúscula, exceto:
   - Primeira letra do título: maiúscula
-  - Primeira letra do subtítulo: minúscula (regra FUNAG)
-  - Siglas: maiúsculas (BNH, USP, IPHAN)
-  - Nomes próprios: capitalizado (Niemeyer, Brasília, Pedregulho)
-  - Áreas do saber: Maiúscula (Arquitetura, Urbanismo)
-  - Movimentos/períodos: Maiúscula (Modernismo, Art Déco)
+  - Primeira letra do subtítulo: minúscula
+  - Siglas: MAIÚSCULAS (BNH, USP, IPHAN)
+  - Nomes próprios: Capitalizado (Niemeyer, Brasília)
+  - Áreas do saber: Capitalizado (Arquitetura, Urbanismo)
+  - Movimentos/períodos: Capitalizado (Modernismo, Art Déco)
   - Expressões consolidadas: forma canônica (Patrimônio Moderno)
-  - Lugares: capitalizado (Fortaleza, Bahia)
+  - Lugares: Capitalizado (Fortaleza, Bahia)
+  - Toponímicos após movimento/área: Capitalizado (Brutalismo Paulista)
 
 Uso como módulo:
     from dict.normalizar import normalizar_texto
