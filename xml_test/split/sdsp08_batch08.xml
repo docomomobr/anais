@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdsp08-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">Certidões vintenárias como Fontes documentais</title>
+        <subtitle locale="pt_BR">alternativas para a compreensão histórica de um Patrimônio Arquitetônico de niemeyer no interior do Rio de Janeiro</subtitle>
+        <abstract locale="pt_BR">O artigo trata do papel das certidões vintenárias como importantes fontes de pesquisa para a investigação no campo da arquitetura e urbanismo, em particular como alternativa para a compreensão histórica de patrimônios arquitetônicos que não possuem um amplo acervo disponível para consulta; utilizando como exemplo a pesquisa de uma casa moderna projetada por Oscar Niemeyer em 1949, no Rio de Janeiro entre os municípios de Mendes e Vassouras. Recentemente “descoberta”, a casa permanece desconhecida ou ignorada pela crítica em função do reduzido número de fontes documentais sobre a mesma e às dissonâncias presentes entre os autores que já a abordaram como perdida ou demolida. Dessa forma, a utilização de certidões vintenárias do imóvel atuou como ferramenta essencial não só para organizar e subsidiar lacunas, mas também como método de historicização de um patrimônio cuja história não se conhece em profundidade.</abstract>
+        <abstract locale="en_US">The article deals with the role of vintage certainties as important sources of research for research in the field of architecture and urbanism, in particular as an alternative for a historical understanding of architectural heritage that does not have a wide collection available for consultation; using as an example the research of a modern house designed by Oscar Niemeyer in 1949, in Rio de Janeiro, between the municipalities of Mendes and Vassouras. Recently “discovered”, the house remains unknown by critics based on the reduced number of documentary sources about the same and the dissonances present between the authors that are going to be addressed as lost or demolished. In this way, the use of current heritage certainties as an essential tool not only to organize and subsidize gaps, but also as a method of historicizing a heritage whose history is not known in depth.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Fontes documentais</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Modern architecture</keyword>
+          <keyword>Documentary sources</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia</givenname>
+            <familyname locale="pt_BR">Andrade</familyname>
+            <country>BR</country>
+            <email>andrade@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>534-548</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdsp08-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Concurso como prática</title>
+        <subtitle locale="pt_BR">o processo de pesquisa</subtitle>
+        <abstract locale="pt_BR">Em setembro de 2021, no Museu Oscar Niemeyer, em Curitiba, foi aberta ao público a exposição “Concurso como prática: a presença da arquitetura paranaense”, de autoria de Fábio Domingos Batista, Alexandre Ruiz Rosa e Marina Oba, com curadoria de Elisabete França. O objetivo do presente artigo é apresentar os métodos, as fontes, e os acervos que integraram os processos de investigação e fundamentação da Exposição, conduzidos por Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich e Julia Centeno.</abstract>
+        <abstract locale="en_US">In September 2021, at the Oscar Niemeyer Museum, in Curitiba, the exhibition “Contest as a practice: the presence of Paraná architecture” was opened to the public, made by Fábio Domingos Batista, Alexandre Ruiz Rosa and Marina Oba, curated by Elisabete França. The purpose of this article is to present the methods, sources, and collections that integrated the research and foundation processes of the Exhibition, conducted by Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich and Julia Centeno.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Concurso</keyword>
+          <keyword>Exposição</keyword>
+          <keyword>Acervo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Contest</keyword>
+          <keyword>Exhibition</keyword>
+          <keyword>Archive</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Beatriz Agostini</givenname>
+            <familyname locale="pt_BR">Teixeira</familyname>
+            <country>BR</country>
+            <email>teixeira@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marina</givenname>
+            <familyname locale="pt_BR">Oba</familyname>
+            <country>BR</country>
+            <email>oba@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Daniela</givenname>
+            <familyname locale="pt_BR">Moro</familyname>
+            <country>BR</country>
+            <email>moro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>549-561</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdsp08-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">A pesquisa historiográfica como propulsora da Discussão sobre a importância dos acervos de concursos públicos de anteprojetos</title>
+        <abstract locale="pt_BR">Este ensaio tem por objetivo validar a pertinência da pesquisa historiográfica como propulsora da discussão sobre a importância dos acervos de concursos públicos de anteprojetos como ferramenta de investigação arquitetônica. Para tanto, concentra-se na pesquisa historiográfica desenvolvida sobre o concurso proposto para a edificação da Biblioteca Nacional, realizado em 1961, sendo a entrega efetiva dos anteprojetos em 1962. Há 60 anos o anteprojeto premiado foi o desenvolvido por Clorindo Testa, Francisco Bullrich e Alicia D. Cazzaniga. A escolha desse objeto de estudo é relevante como contribuição para a pesquisa, em andamento, da presente autora, que se concentra na apreciação da arquitetura latino americana, especialmente sobre a obra de Clorindo Testa.</abstract>
+        <abstract locale="en_US">This essay aims to validate the relevance of historiographical research as a propeller of the discussion about the importance of the collections of public tenders of preliminary projects as a tool for architectural investigation. To this end, it focuses on the historiographical research carried out on the tender proposed for the construction of the National Library, held in 1961, with the effective delivery of the preliminary projects in 1962. Sixty years ago, the winning draft was the one developed by Clorindo Testa, Francisco Bullrich and Alicia D. Cazzaniga. The choice of this object of study is relevant as a contribution to the research, in progress, of the present author, which focuses on the appreciation of Latin American architecture, especially on the work of Clorindo Testa.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervo</keyword>
+          <keyword>Concurso</keyword>
+          <keyword>Biblioteca Nacional</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collection</keyword>
+          <keyword>Contest</keyword>
+          <keyword>National Library</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cassandra Salton</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <country>BR</country>
+            <email>cassandrasaltoncoradin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-6366-2696</orcid>
+          </author>
+        </authors>
+        <pages>562-577</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdsp08-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Narrativas da Modernidade</title>
+        <subtitle locale="pt_BR">o problema das &quot;escolas&quot; e os acervos na historiografia da Arquitetura</subtitle>
+        <abstract locale="pt_BR">Este trabalho tem como objetivo discutir algumas das questões que envolvem a produção da história da arquitetura moderna no contexto recente, identificando rupturas e permanências da historiografia das últimas décadas em relação à construção canônica sobre o modernismo. Neste sentido o texto resgata alguns aspectos da historiografia do século XX e aborda a construção do modernismo como um movimento, para discutir a permanência e o uso da ideia de “escolas” de arquitetura na historiografia brasileira e a valorização mundial dos acervos dos grandes nomes da arquitetura moderna do país.</abstract>
+        <abstract locale="en_US">This work aims to discuss some of the issues that involve the production of the history of modern architecture in the current context, identifying ruptures and continuities in the historiography of recent decades in relation to the canonical construction of modernism. In this sense, the text rescues some aspects of 20th century historiography and addresses the construction of modernism as a movement, to discuss the permanence and use of the idea of “schools” of architecture in Brazilian historiography and the worldwide appreciation of the collections of the great names of the country's modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Historiografia</keyword>
+          <keyword>Arquitetura paulista</keyword>
+          <keyword>Acervos de arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Historiography</keyword>
+          <keyword>São Paulo architecture</keyword>
+          <keyword>Architectural collections</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luz de Lucca</givenname>
+            <familyname locale="pt_BR">Neto</familyname>
+            <country>BR</country>
+            <email>lucca_neto@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>578-593</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdsp08-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">O concurso e o projeto premiado para a sede da SBPC (1978)</title>
+        <abstract locale="pt_BR">Em 1978 o Instituto de Arquitetos do Brasil (IAB São Paulo) organizou o concurso nacional para a sede da Sociedade Brasileira para o Progresso da Ciência (SBPC), vencido por uma equipe de arquitetos sediados em Curitiba. Embora não-construída, a proposta vencedora foi considerada simples e coerente com o orçamento estipulado, e se mostra pragmática e eficaz. Mas o que propuseram os autores do projeto merecedor da premiação? Que pensamento arquitetônico e que estratégia projetual construíram a sua proposta? Partindo do redesenho da proposta e da sua análise formal e contextual, este trabalho explora um certame pouco conhecido da história e da historiografia da arquitetura brasileira. Ao investigar as ideias que sustentaram esta edificação este trabalho revela que, embora simples, esta arquitetura já evidenciava revisões e distanciamentos do ideário modernista, a partir da acomodação do programa e da consideração do caráter da obra.</abstract>
+        <abstract locale="en_US">In 1978, the Institute of Architects of Brazil (IAB São Paulo) organized the national design competition for the headquarters of the Brazilian Society for the Progress of Science (SBPC), which was won by a team of architects based in Curitiba. Although not built, the winning proposal was considered simple and consistent with the budget; and it proved to be pragmatic and effective. But what was the outstanding aspect of that proposal? Which architectural thought and design strategy did support that proposal? Based upon the redesign and the formal and contextual analysis of the original proposal, this paper explores a littleknown event in the history and historiography of Brazilian architecture. By investigating the ideas that supported that design, this paper reveals that, although simple, that architecture already evidenced revision and distancing of the modernist ideology, regarding the accommodation of the program and the consideration of the building’s character.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Estratégia projetual</keyword>
+          <keyword>Curitiba</keyword>
+          <keyword>Metodologia de projeto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Design strategy</keyword>
+          <keyword>Curitiba</keyword>
+          <keyword>Design methodology</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabella Caroline</givenname>
+            <familyname locale="pt_BR">Januário</familyname>
+            <country>BR</country>
+            <email>sem-email-1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-1650-8293</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andryelle de Carvalho</givenname>
+            <familyname locale="pt_BR">Ptaszek</familyname>
+            <country>BR</country>
+            <email>ptaszek@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Renato Leão</givenname>
+            <familyname locale="pt_BR">Rego</familyname>
+            <country>BR</country>
+            <email>rego@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1822-2907</orcid>
+          </author>
+        </authors>
+        <pages>594-610</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

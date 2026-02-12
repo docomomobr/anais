@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdnne08-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Gênero e Arquitetura</title>
+        <subtitle locale="pt_BR">Uma análise sobre as discussões de gênero nos seminários DOCOMOMO Norte-Nordeste 2006-2018</subtitle>
+        <abstract locale="pt_BR">A discussão sobre questões de gênero se faz necessária uma vez que permite analisar as relações sociais em seus diversos âmbitos. No campo da arquitetura, observa-se a invisibilização da mulher enquanto profissional ao longo da história. Este artigo se propõe explorar de que forma as questões de gênero e a representatividade feminina vêm sendo abordada nos Seminários Docomomo Norte/Nordeste, considerando sua abrangência e importância regional e nacional para a área da arquitetura e do urbanismo. Nesse sentido, surgem os seguintes questionamentos: em que momento o evento incorpora as discussões de gênero? Existem mulheres na Comissão Científica? Qual a proporção entre autores homens e mulheres de trabalhos aceitos? Qual abordagem destes quando tratam questões de gênero? A partir do levantamento e da análise de todas as comunicações apresentadas nas últimas sete edições (2006 - 2018), pretende-se responder às questões de partida com gráficos e dados sistematizados. Tais resultados podem servir como indicadores do reflexo da situação da mulher na sociedade, no mercado de trabalho e no meio acadêmico da arquitetura e urbanismo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Docomomo Norte/Nordeste</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Urbanismo Moderno</keyword>
+          <keyword>Gênero</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Carlos Huapaya</givenname>
+            <familyname locale="pt_BR">Espinoza</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>jhuapayae@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6776-8821</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo (2012), Professor Adjunto da Faculdade de Arquitetura da  Universidade Federal da Bahia - FAUFBA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Jaiane Damasceno</givenname>
+            <familyname locale="pt_BR">Eloy</familyname>
+            <country>BR</country>
+            <email>jaielloy@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Bacharelado Interdisciplinar em Artes, Instituto de Humanidades, Artes e Ciências  Professor Milton Santos da Universidade Federal da Bahia – IHAC.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Marcella Galo</givenname>
+            <familyname locale="pt_BR">Araújo</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>marcellagaraujo@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia –  FAUFBA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Marcelo Henrique Silva</givenname>
+            <familyname locale="pt_BR">Rodrigues</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>marcelohsrodrigues@gmail.com</email>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia –  FAUFBA.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdnne08-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Modernidade, individualização e Arquitetura</title>
+        <subtitle locale="pt_BR">considerações sobre as áreas especiais do cemitério campo da esperança (Brasília-DF)</subtitle>
+        <abstract locale="pt_BR">No recôndito da Região Centro-Oeste do Brasil está localizado o cemitério Campo da Esperança, inicialmente chamado de cemitério sul, que representa um elemento fundamental da configuração da escala bucólica de Brasília. Ele foi previsto no Relatório do Plano Piloto (RPP), situado na extremidade oeste da Asa Sul e projetado por Lucio Costa, que determinou, entre as diretrizes projetuais, o estabelecimento de um gabarito baixo para as construções tumulares e a edificação de sepulturas rasas e lápides singelas, desprovidas de “ostentação”. Outrossim, o arquiteto designou a criação de “quadras especiais”, em que seriam sepultadas “personalidades” e onde em geral verifica-se, nas Áreas Especiais do Setor “A”, uma arquitetura tumular diferenciada, cujo breve estudo de caso configurou o objetivo desta investigação. Para tanto, recorreu-se a matérias jornalísticas publicadas no Distrito Federal na década de 1960 a fim de reconstituir a história da formação desse cemitério, das quais o exame, associado à análise de documentos técnicos, registros fotográficos e visitas in loco, permitiu concluir que a renúncia à ostentação propalada por Costa está relacionada a uma das características fundamentais da arquitetura moderna: o abandono de referências aparentes do passado imediato, já que nos cemitérios do século XIX aquela era materializada por meio de mausoléus verticalizados de grandes dimensões; no entanto, uma vez que a arquitetura tumular dessas Áreas Especiais aparentemente pretendeu individualizar a memória das autoridades e personagens ilustres envolvidas na construção de Brasília, essa ostentação, impedida de ser verticalizada, foi horizontalmente moldada na linguagem formal modernista da cidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Lucio Costa</keyword>
+          <keyword>Plano Piloto</keyword>
+          <keyword>arquitetura cemiterial</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Leonardo</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>arq.leonardo.oliveira@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3202-9281</orcid>
+            <biography locale="pt_BR">Doutorado em andamento em Arquitetura, PROPAR/UFRGS</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdnne08-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">O cenário moderno goianiense</title>
+        <subtitle locale="pt_BR">as casas do privê atlântico</subtitle>
+        <abstract locale="pt_BR">As residências modernas goianienses, projetadas por arquitetos formados no Rio de Janeiro, São Paulo e Belo Horizonte que vieram para Goiânia a partir de 1950, causaram impacto na cidade por representarem ruptura ao ecletismo das construções existentes e se associarem à modernização da capital. Apesar das grandes mudanças, há poucas publicações que se dedicam a discutir o assunto. Portanto, o objetivo é resgatar o projeto de casas modernas goianienses, enfatizando os projetos da década de 1970, quando a capital recebeu grande demanda habitacional. Como estudo de caso, serão analisadas as casas do Condomínio Privê Atlântico, inicialmente concebido como conjunto e construído em 1978, em Goiânia. De autoria dos arquitetos Silas Varizo e Edeni Reis da Silva, trata-se de um projeto singular por apresentar nove casas-tipo, concebidas de modo a permitir possíveis ampliações, dentro dos preceitos de racionalidade. Silas Varizo, formado na Universidade do Brasil, mudou-se para Goiânia em 1960, onde projetou importantes obras como a Caixa Econômica Estadual, além de diversas residências, como a casa de Carlos Cunha, projetada em 1963 em parceria com Armando Norman. Pretende-se analisar, em específico, os ambientes da sala de estar, varanda e cozinha, para compreender o espaço doméstico moderno e as modificações em relação às primeiras casas modernistas da cidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>História da Arquitetura e da Cidade</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Espaço Doméstico</keyword>
+          <keyword>Habitação Popular</keyword>
+          <keyword>Brasil</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eline Maria Moura Pereira</givenname>
+            <familyname locale="pt_BR">Caixeta</familyname>
+            <country>BR</country>
+            <email>caixeta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9147-3927</orcid>
+            <biography locale="pt_BR">Doutora em História da Arquitetura e da Cidade (2000), Departament de Composició Arquitectònica – Universitat Politècnica de Catalunya.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carolina Vivas da Costa</givenname>
+            <familyname locale="pt_BR">Milagre</familyname>
+            <country>BR</country>
+            <email>cv.arquiteta@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9635-9426</orcid>
+            <biography locale="pt_BR">Mestranda em Projeto e Cidade (2021), Programa Projeto e Cidade, Faculdade de Artes Visuais, Universidade Federal de Goiás.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdnne08-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">O Modernismo arquitetônico e as transformações na forma de morar</title>
+        <subtitle locale="pt_BR">a origem da profissionalização da Arquitetura de interiores no Ceará</subtitle>
+        <abstract locale="pt_BR">O objetivo do artigo é abordar a origem da profissionalização da arquitetura de interiores no Estado do Ceará, que remonta à década de 1950, evidenciando seus principais personagens, ou seja, profissionais que foram precursores nesse ramo de atuação e aqueles que deram continuidade à atividade, assim como algumas das obras emblemáticas realizadas no período. O trabalho pretende elaborar uma síntese dessa atuação, no intuito de articular as histórias desses agentes com as mudanças na forma de morar da sociedade fortalezense. Os resultados alcançados - parte de uma pesquisa mais ampla ora em andamento - foram obtidos a partir do estudo de obras de referência, revisão da literatura sobre o tema, do exame de publicações sobre decoração da época e, sobretudo, da realização de entrevistas com pessoas que participaram do processo, envolvendo profissionais que iniciaram a atividade, clientes e jornalistas, assim como os primeiros arquitetos que passaram a atuar na área. A pesquisa é relevante no sentido de estabelecer um resgate das práticas profissionais relacionadas à profissão, revelando também aspectos concernentes à evolução das formas de habitar e se apropriar dos espaços arquitetônicos no contexto local. Trata-se de uma contribuição original, face à quase inexistente sistematização sobre o tema na cidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura de Interiores</keyword>
+          <keyword>profissionais precursores</keyword>
+          <keyword>formas de morar</keyword>
+          <keyword>Fortaleza</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Beatriz Helena Nogueira</givenname>
+            <familyname locale="pt_BR">Diógenes</familyname>
+            <country>BR</country>
+            <email>bhdiogenes@secrel.com.br</email>
+            <orcid>https://orcid.org/0000-0003-4305-5485</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Márcia Gadelha</givenname>
+            <familyname locale="pt_BR">Cavalcante</familyname>
+            <affiliation locale="pt_BR">UFC</affiliation>
+            <country>BR</country>
+            <email>marciacavalcante@ufc.br</email>
+            <orcid>https://orcid.org/0000-0001-9851-3151</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo (2015),</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Tania de Freitas</givenname>
+            <familyname locale="pt_BR">Vasconcelos</familyname>
+            <affiliation locale="pt_BR">FAUUSP</affiliation>
+            <country>BR</country>
+            <email>taniafvasconcelos@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-3182-3558</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo (FAUUSP, 2007),</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Letícia Campos</givenname>
+            <familyname locale="pt_BR">Dias</familyname>
+            <affiliation locale="pt_BR">UFC</affiliation>
+            <country>BR</country>
+            <email>leticiacamposdias96@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6774-1821</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista (2020),</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdnne08-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">O processo histórico de ocupação do Amazonas e os indícios de culturas construtivas tradicionais nas obras de severiano Porto</title>
+        <abstract locale="pt_BR">Este artigo tem como foco a investigação, em contexto histórico, de culturas construtivas tradicionais e suas manifestações no Estado do Amazonas. Nesta perspectiva é proposta a identificação das características mais marcantes das principais tradições no ato de construir amazonenses (referentes às técnicas, sistemas e materiais construtivos autóctones) e dos vestígios destas tradições presentes em algumas obras do arquiteto Severiano Porto. Obras como o Restaurante Chapéu de Palha (1967), o Centro de Proteção Ambiental de Balbina (1985) e a Aldeia Infantil SOS de Manaus (1994), por exemplo, ressaltam aspectos culturais e regionais vernaculares apesar de construídas sob o contexto moderno do século XX. Esta investigação, se dá por meio de estudos bibliográficos e contextualizações históricas além de antigos relatos de viajantes à região. Para isto, é demarcado, por um lado, o estudo do processo histórico de ocupação e colonização do Amazonas, a fim de levantar os aspectos construtivos tradicionais dos povos caboclos e ribeirinhos da região e, por outro lado, uma apreciação reflexiva diante das obras de Severiano Porto destacando quais destes aspectos foram expressos e difundidos ao contexto moderno do século XX. Por fim, esta pesquisa busca contribuir de forma acadêmica e social em futuras pesquisas sobre o tema abordado.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Cultura construtiva</keyword>
+          <keyword>Arquitetura vernacular</keyword>
+          <keyword>Colonização do Amazonas</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luísa Amanda de M.</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">UFRN</affiliation>
+            <country>BR</country>
+            <email>luisa.amanda59@yahoo.com</email>
+            <orcid>https://orcid.org/0000-0002-8273-5646</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rubenilson Brazão</givenname>
+            <familyname locale="pt_BR">Teixeira</familyname>
+            <affiliation locale="pt_BR">UFRN</affiliation>
+            <country>BR</country>
+            <email>rubenilson.teixeira@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8472-9197</orcid>
+            <biography locale="pt_BR">Doutor e professor do Programa de Pós-Graduação em Arquitetura e Urbanismo (PPGAU) da Universidade Federal do Rio Grande do Norte (UFRN).</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

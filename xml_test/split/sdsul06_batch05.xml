@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre: Marcavisual, 2019. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-85-61965-77-8</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>6</number>
+    <year>2019</year>
+    <title locale="pt_BR">6º Seminário Docomomo Sul, Porto Alegre, 2019</title>
+  </issue_identification>
+  <date_published>2019-11-07</date_published>
+  <last_modified>2019-11-07</last_modified>
+  <sections>
+    <section ref="AC-sdsul06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">30</id>
+      <abbrev locale="pt_BR">AC-sdsul06</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul06-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Niemeyer reconsiderado. o terreno como artefato</title>
+        <keywords locale="pt_BR">
+          <keyword>Topografia</keyword>
+          <keyword>Niemeyer</keyword>
+          <keyword>Lucio Costa</keyword>
+          <keyword>Arquitetura Moderna Brasileira</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Dias</givenname>
+            <familyname locale="pt_BR">Comas</familyname>
+            <country>BR</country>
+            <email>ccomas@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-7368-7603</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marcos Leite</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <country>BR</country>
+            <email>almeida.marcos.arq@gmail.com</email>
+          </author>
+        </authors>
+        <pages>312-323</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul06-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Sede administrativa da sanepar</title>
+        <subtitle locale="pt_BR">projeto, restauro e retrofit</subtitle>
+        <abstract locale="pt_BR">As empresas estatais constituídas a partir da década de 1950 foram importantes instrumentos de infraestrutura no processo de industrialização do Paraná como forma de superar a dependência econômica centrada na monocultura do café, sujeita a frequentes geadas. Neste contexto destacamse as sedes administrativas da CELEPAR (1964) projetada por Rubens Meister, da TELEPAR (1966) e da COPEL (1970), projetadas por Lubomir Ficinski. A criação do Curso de Arquitetura e Urbanismo na UFPR (1962) impulsionou a realização de significativo acervo de projetos desenvolvidos pelos professores e pelos novos graduados. Esses profissionais, pela participação em concursos nacionais de arquitetura, ficaram conhecidos como “Grupo do Paraná.” O edifício sede da PETROBRAS no Rio de Janeiro (1968), principal estatal brasileira, projetada por Roberto Gandolfi, José Sanchotene e Abrão Assad, exerceu grande influência na concepção de projetos desta geração de arquitetos. A sede da SANEPAR (1982), projetada por Braulio Carollo e Salvador Gnoato, adota princípios “brutalistas” no uso da estrutura em concreto aparente e na distribuição racional das instalações de infraestrutura do edifício. A mesma equipe foi contratada em 2017 para o restauro do concreto aparente e para o Retrofit de suas instalações, com o objetivo de obter o certificado de eficiência energética.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>sedes administrativas das estatais</keyword>
+          <keyword>“Grupo do Paraná” e Brutalismo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís Salvador</givenname>
+            <familyname locale="pt_BR">Gnoato</familyname>
+            <country>BR</country>
+            <email>gnoato@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1223-4328</orcid>
+          </author>
+        </authors>
+        <pages>324-335</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul06-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Llao llao</title>
+        <subtitle locale="pt_BR">luxuoso, pampeiro, moderno, tudo junto e misturado</subtitle>
+        <abstract locale="pt_BR">O Hotel Llao Llao (1936-38), projeto de Alejandro Bustillo, foi concebido como uma casa de campo de proporções excepcionais e fazia parte de uma empreitada bem maior, que pretendia transformar Bariloche em uma cidade pitoresca de montanha. Os interiores estiveram a cargo do próprio arquiteto em conjunto com a empresa COMTE, que trouxe a colaboração do decorador francês Jean-Michel Frank. Eles teriam que desenvolver uma linha de móveis rústicos, sólidos e que não fizessem maior conexão com nenhum dos estilos tradicionais estrangeiros de campo ou montanha europeus, nem dos novos estilos semelhantes criados na América do Norte naquela época. Os móveis do Llao Llao deveriam ser originais, com madeiras e couros locais, com desenho de linhas simples e severas e estofamento de couro de animais nativos. A intenção essencial era o uso de materiais locais e desenhos inéditos. Mas, assim como o projeto do edifício, o mobiliário do Llao Llao também atestava seu alinhamento aos tempos modernos além de amparar-se nos modelos tradicionais. Bustillo e Frank compartilhavam o entendimento de que fazer uma obra ao mesmo tempo contemporânea, luxuosa e local não implicava na adoção de um cardápio determinado de formas, mas no uso de soluções autênticas, coerentes e articuladas não apenas com sua utilidade, mas também com os processos e materiais de sua execução. E que da atemporalidade e simplicidade do classicismo deveria ser extraída a base para um estilo que mantivesse valor e resistisse àqueles tempos de mudança para fundar sobre ela uma nova - mas não inventada - arquitetura argentina. A observação atenta do projeto e de seus interiores ampara a comprovação deste argumento.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Llao Llao</keyword>
+          <keyword>Alejandro Bustillo</keyword>
+          <keyword>Jean-Michel Frank</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marta Silveira</givenname>
+            <familyname locale="pt_BR">Peixoto</familyname>
+            <country>BR</country>
+            <email>marta@martapeixoto.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2213-7740</orcid>
+          </author>
+        </authors>
+        <pages>336-342</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul06-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Alejandro bustillo e victoria ocampo</title>
+        <subtitle locale="pt_BR">a casa de Palermo chico</subtitle>
+        <abstract locale="pt_BR">A casa que Alejandro Bustillo (1889-1992) construiu para a escritora Victoria Ocampo (1890-1979) em 1929 é a primeira obra moderna registrada pelo Guía Patrimonio Cultural de Buenos Aires. Contudo, o próprio guia considera a casa como uma modernidade de segunda linha, ou modernidade “lado B”, seguindo a nomenclatura proposta pelo VI Seminário DOCOMOMO Sul. De fato, rondam a história da casa de Palermo Chico tanto a suspeita da obra apócrifa, feita a contragosto por Alejandro Bustillo, um prestigioso arquiteto acadêmico, para uma cliente cuja participação no projeto parece ter extrapolado o rol usualmente consentido, quanto o fantasma ilustre de uma outra casa, encomendada por Ocampo a Le Corbusier e nunca construída. Entretanto, numa visão retrospectiva, não deixa de ser intrigante que essa casa moderna, feita por um arquiteto passadista e por uma leiga, não pareça hoje tão deslocada, quando comparada a muitos dos exemplos publicados por Hitchcock e Johnson na famosa exposição The International Style em 1932, num conjunto tantas vezes identificado e descrito como a expressão de uma vanguarda que a América Latina estava distante de poder acompanhar.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa Ocampo</keyword>
+          <keyword>Alejandro Bustillo</keyword>
+          <keyword>vanguarda</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudia Piantá Costa</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <country>BR</country>
+            <email>cabral@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0079-1861</orcid>
+          </author>
+        </authors>
+        <pages>343-352</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

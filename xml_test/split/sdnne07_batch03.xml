@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdnne07-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Caminhos da Arquitetura Moderna em Fortaleza</title>
+        <abstract locale="pt_BR">O presente artigo trata da trajetória do arquiteto e artista Nearco Araújo (1936) em Fortaleza. Natural de Manacapuru, Amazonas, migrou para Fortaleza na década de 1950, tendo trabalhado como desenhista até o seu ingresso na segunda turma da recém fundada Escola de Artes e Arquitetura da UFC (1965), onde se formou em 1971. A atuação de Nearco foi bem diversificada e compreende as atividades profissionais de arquiteto, com projetos modernos emblemáticos em Fortaleza, a sua participação como docente no Curso de Arquitetura da UFC e as atividades como artista plástico. Embora ele tenha obtido reconhecido destaque no campo das artes, devido às diversas exposições individuais e coletivas que participou, nos âmbitos local, nacional e internacional, além de prêmios e publicações obtidas, a sua produção arquitetônica e atividade didática ainda carecem de um estudo mais aprofundando, de modo a resgatar sua contribuição para o modernismo em Fortaleza. Neste sentido, o trabalho tem como objetivo investigar a trajetória profissional do arquiteto, enfatizando a análise crítica da sua produção arquitetônica. Para tanto, discute a sua formação e referências, a prática docente e profissional, incluindo a influência recíproca entre a arte e a arquitetura, bem como a análise e documentação das obras mais emblemáticas.</abstract>
+        <abstract locale="en_US">This article deals with the trajectory of the architect and artist Nearco Araújo (1936) in Fortaleza. Born in Manacapuru, Amazonas, he migrated to Fortaleza in the 1950s, having worked as a draftsman until his entry into the second class of the newly founded UFC School of Arts and Architecture (1965), where he graduated in 1971. Nearco's activities were well diversified and include professional activities as an architect, with modern emblematic projects in Fortaleza, his participation as a lecturer in the UFC Architecture Course and his activities as a plastic artist. Although he has been recognized in the field of arts, due to the various individual and collective exhibitions he has participated in, at local, national and international levels, in addition to prizes and publications obtained, his architectural production and didactic activity still need further study , in order to redeem his contribution to modernism in Fortaleza. In this sense, the work aims to investigate the professional trajectory of the architect, emphasizing the critical analysis of his architectural production. To this end, it discusses its formation and references, the teaching and professional practice, including the reciprocal influence between art and architecture, as well as the analysis and documentation of the most emblematic works</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>Nearco Araújo</keyword>
+          <keyword>Fortaleza-Ce</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>Nearco Araújo</keyword>
+          <keyword>Fortaleza-Ce (Brasil)</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Beatriz Helena Nogueira</givenname>
+            <familyname locale="pt_BR">Diógenes</familyname>
+            <country>BR</country>
+            <email>bhdiogenes@secrel.com.br</email>
+            <orcid>https://orcid.org/0000-0003-4305-5485</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo FAUUSP (2012)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Alexandre</givenname>
+            <familyname locale="pt_BR">Paiva</familyname>
+            <country>BR</country>
+            <email>paiva_ricardo@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-0332-097X</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo FAUUSP (2011)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdnne07-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Campina, imagem e História</title>
+        <subtitle locale="pt_BR">o caso dos postais</subtitle>
+        <abstract locale="pt_BR">O artigo que se pretende apresentar, com o título “Campina, Imagem E História: O Caso Dos Postais”, possui como objeto de estudo, um conjunto de três cartões-postais, coletados em um acervo particular mais extenso, pertencente ao Sr. Sérgio Ricardo Marcelino de Oliveira, e que deram origem a uma análise arquitetônica e urbanística, com enfoque patrimonial, das relações que permeiam a arquitetura, a cidade e a fotografia, na cidade de Campina Grande, no agreste da Paraíba, durante os anos 60 e 70 do século XX. O trabalho vem sendo desenvolvido por integrantes do grupo de pesquisa Arquitetura e Lugar (GRUPAL), vinculado ao Curso de Arquitetura e Urbanismo da UFCG e cadastrado no CNPq. O trabalho se encaixa no eixo temático “Modernidade, Lugar e Ambiente”. Justifica-se pelo ineditismo do tema abordado em estudos sobre a arquitetura e a cidade, além de denunciar a necessidade imediata de se debater a questão patrimonial moderna em Campina Grande, que anda sofrendo perdas irreparáveis em suas arquiteturas, que são descaracterizadas e demolidas. Dessa maneira, o trabalho se propõe a contrastar as distintas realidades de épocas - um passado orientado por um progresso moderno, presente nas imagens da cidade que se desenvolvia e modernizava, e um presente de descaracterizações e perdas - que desrespeita a história, e a memória dos espaços urbanos e suas arquiteturas.</abstract>
+        <abstract locale="en_US">The article that intends to present, with the title &quot;Campina, Image and History: The Case of Postcards&quot;, has as object of study, a set of three postcards, collected in a more extensive private collection, pertaining to Mr. Sérgio Ricardo Marcelino de Oliveira, and that gave origin to an architectural and urbanistic analysis, with a patrimonial focus, of the relations that permeate the architecture, the city and the photography, in the city of Campina Grande, in the agreste of the Paraíba, during years 60 and 70 of the 20th century. The work has been developed by members of the research group Architecture and Place (GRUPAL), linked to the Architecture and Urbanism Course of UFCG and registered at CNPq. The work fits the thematic axis &quot;Modernity, Place and Environment&quot;. It is justified by the novelty of the theme addressed in studies on architecture and the city, as well as denouncing the immediate need to debate the modern patrimonial issue in Campina Grande, which is suffering irreparable losses in its architectures, which are decharacterized and demolishedIn this way, the work proposes to contrast the different realities of epochs - a past guided by a modern progress, present in the images of the city that was developing and modernized, and a present of decharacterizations and losses - that disrespects history, and memory of urban spaces and their architectures.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Cartografia, Conservação do Patrimônio</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Cartography, Heritage Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Igor</givenname>
+            <familyname locale="pt_BR">Michel Bruno Dantas</familyname>
+            <country>BR</country>
+            <email>igordantax@gmail.com</email>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo pela UFCG</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em Projetos arquitetônicos. ETSAB. UPC Professora adjunta do curso de arquitetura e urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdnne07-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Por um Brutalismo social</title>
+        <abstract locale="pt_BR">Frank Algot Eugen Svensson (1934-2018) foi um arquiteto e urbanista de orientação política esquerdista que realizou projetos importantes no cenário brasileiro, mas ainda é pouco explorado pela historiografia. Além de exercer a função de arquiteto, Svensson foi professor da UnB e escreveu importantes livros como Arquitetura, Criação e Necessidade (1992) e Visão de Mundo: Arquitetura (2001). Em 1961 – em decorrência de seu trabalho de graduação ter sido exposto na VI Bienal de São Paulo e ganhado o prêmio internacional destinado a escolas de arquitetura – Svensson foi convidado para atuar na Superintendência do Desenvolvimento do Nordeste – SUDENE, na sede de Recife, sob o plano de Celso Furtado. Durante seu período de atividade em Pernambuco (1963- 1970), seja enquanto servidor público ou como profissional liberal (em sociedade com Marcos Domingues), contribuiu com importantes projetos para a consolidação da arquitetura moderna em Pernambuco, projetos estes que procuraram unir sua peculiar visão de arquitetura como manifestação social alinhada com referências à arquitetura do brutalismo em ascensão naquele período. Sendo assim, esse artigo procura contextualizar e examinar tanto a produção quanto o percurso de Svensson em Pernambuco.</abstract>
+        <abstract locale="en_US">Frank Algot Eugen Svensson (1934-2018) was an architect and urbanist with left-wing political orientation who developed important projects in the brazilian scene, but is still poorly explored by historiography. Besides working as an architect, Svensson was a professor at UnB and wrote important books such as Arquitetura, Criação e Necessidade (1992) andVisão de Mundo: Arquitetura (2001). In 1961 - as a result of his undergraduate work being exhibited at the VI São Paulo Biennial and winning the international award for architecture schools - Svensson was invited to work at the Superintendency of Development of the Nordeste - SUDENE, headquartered in Recife, under the plan of Celso Furtado. During his period of activity in Pernambuco (1963-1970), whether as a public servant or as a liberal professional (in partnership with Marcos Domingues), he contributed with important projects for the consolidation of modern architecture in Pernambuco, projects that seek to unite his peculiar vision of architecture as a social manifestation aligned with references to the architecture of the brutalism in ascension in that period. Thus, this article looks for contextualize and examine both the production and the course of Svensson in Pernambuco.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Frank Svensson</keyword>
+          <keyword>Pernambuco</keyword>
+          <keyword>SUDENE</keyword>
+          <keyword>brutalismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Frank Svensson</keyword>
+          <keyword>Pernambuco</keyword>
+          <keyword>SUDENE</keyword>
+          <keyword>brutalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Teresa</givenname>
+            <familyname locale="pt_BR">Raquel Dutra Cahú</familyname>
+            <affiliation locale="pt_BR">UNICAP</affiliation>
+            <country>BR</country>
+            <email>teresacahu@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3077-7884</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Aristóteles</givenname>
+            <familyname locale="pt_BR">de Siqueira Campos Cantalice II</familyname>
+            <affiliation locale="pt_BR">MDU-UFPE</affiliation>
+            <country>BR</country>
+            <email>cantalice2@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-2730-0890</orcid>
+            <biography locale="pt_BR">Doutor em Desenvolvimento Urbano (2015)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdnne07-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">O edifício Centro de Exportadores do Ceará</title>
+        <abstract locale="pt_BR">Localizado em área central, próximo a edificações de grande valor histórico para a cidade de Fortaleza, o edifício Centro de Exportadores do Ceará já abrigou, além da instituição que lhe deu nome, a sede do extinto Banco do Ceará (Bancesa) e hoje acolhe diversos setores da Secretaria da Fazenda (SEFAZ), após passar por um processo de retrofit, em 2006. O projeto, elaborado pelo arquiteto José Neudson Braga em 1962, aderiu ao vocabulário moderno nacional e apresenta uma rígida modulação e racionalidade estrutural, que acompanhou as mudanças pelas quais passou o centro da cidade. Os atributos modernos de flexibilidade dessa edificação possibilitaram novos programas e soluções de adaptação para a nova demanda. Esse artigo se propõe a elaborar uma análise do edificio Centro de Exportadores do Ceará e suas transformações ao longo dos anos, com o intuito de indicar novas práticas de valorização arquitetônica em função de novos usos, como fator de sobrevivência da arquitetura moderna local, que gradativamente vem se deteriorando e desaparecendo. A relevância desse estudo se sustenta na necessidade de se conhecer e refletir sobre o processo de (re)utilização e proteção do patrimônio moderno, tendo em vista a memória da cidade, ela própria um espaço de cultura.</abstract>
+        <abstract locale="en_US">Located in a central area, close to the buildings of great historical value for the city of Fortaleza, the Ceará Exporters Center building already housed, besides the institution that gave it its name, the headquarters of the extinct Banco do Ceará (Bancesa). (SEFAZ), after undergoing a retrofit process in 2006. The project, elaborated by the architect José Neudson Braga in 1962, adhered to the modern national vocabulary and presents a rigid structural modulation and rational-age that accompanied the changes through which the center of the city passed. The modern flexibility attributes of this building enabled new programs and solutions to adapt to the new demand. This article proposes to elaborate an analysis of the building of the Center of Exporters of Ceará and its transformations over the years, in order to indicate new practices of architectural valuation in function of new uses as a survival factor of the modern local architecture, which has gradually deteriorated and disappeared. The relevance of this study is based on the need to know and reflect on the process of (re) utilization and protection of modern patrimony, considering the memory of the city, itself a cultural space.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Centro de Exportadores do Ceará</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>flexibilidade</keyword>
+          <keyword>novos usos</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Center of Exporters of Ceará</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>flexibility</keyword>
+          <keyword>new uses</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane de Araújo Alves</givenname>
+            <familyname locale="pt_BR">Siqueira</familyname>
+            <country>BR</country>
+            <email>cristianealvessiqueira@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0003-0668-9980</orcid>
+            <biography locale="pt_BR">Mestrando em Arquitetura e Urbanismo e Design pela UFC</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Beatriz Helena Nogueira</givenname>
+            <familyname locale="pt_BR">Diógenes</familyname>
+            <country>BR</country>
+            <email>bhdiogenes@secrel.com.br</email>
+            <orcid>https://orcid.org/0000-0003-4305-5485</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo pela FAUUSP (2012)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdnne07-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">A 'Modernidade apropriada' em Lúcio Costa e severiano Porto</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lilian Vidal</givenname>
+            <familyname locale="pt_BR">Freitas</familyname>
+            <country>BR</country>
+            <email>lilian.freitas@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Vitor Vasconcelos</givenname>
+            <familyname locale="pt_BR">Viana</familyname>
+            <country>BR</country>
+            <email>vitor.viana@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ricardo Alexandre</givenname>
+            <familyname locale="pt_BR">Paiva</familyname>
+            <country>BR</country>
+            <email>paiva_ricardo@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-0332-097X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

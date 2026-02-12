@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre: Marcavisual, 2019. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-85-61965-77-8</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>6</number>
+    <year>2019</year>
+    <title locale="pt_BR">6º Seminário Docomomo Sul, Porto Alegre, 2019</title>
+  </issue_identification>
+  <date_published>2019-11-07</date_published>
+  <last_modified>2019-11-07</last_modified>
+  <sections>
+    <section ref="AC-sdsul06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">30</id>
+      <abbrev locale="pt_BR">AC-sdsul06</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsul06-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">A pré-moldagem brasileira e o lado b das obras de Oscar niemeyer em Brasília</title>
+        <abstract locale="pt_BR">É indiscutível que, entre todas as obras realizadas por Oscar Niemeyer em Brasília, os palácios da nova capital constituem marcos reconhecidos como patrimônio cultural e arquitetônico do país. O Palácio da Alvorada e os palácios da Praça dos Três Poderes são realizações de primeira ordem, sendo sucesso de público e de crítica, figurando em qualquer lista das principais obras realizadas por Niemeyer. Ao se estabelecer uma relação com a indústria da música, esses palácios estariam no topo da parada de sucessos, sendo os mais tocados e os mais reconhecidos pelo público. Essa consagração é confirmada até mesmo pelo próprio autor, que sempre procurou dar destaque para essas composições do que para outras, consideradas de menor importância. Por outro lado, as obras da Universidade de Brasília, que foram criadas dois anos depois do “lançamento” da nova capital, acabaram entrando para um universo mais underground, raramente citadas nos textos de seu criador, nas suas entrevistas ou palestras. Seriam, dentro da relação do mercado fonográfico, composições “lado B”. Esses edifícios, construídos em concreto pré-moldado e sem a estética palaciana de seus grandes hits em concreto armado, tem uma “pegada” absolutamente distinta, conferida justamente pela utilização industrial dos “instrumentos”, agora mais cadenciados e intencionalmente mais repetitivos, mas em nenhum momento deixar de levar em consideração a harmonia e o ritmo já característicos de seu repertório. Busca-se identificar, a partir de obras menos cultuadas de Brasília, semelhanças e diferenças de um sistema estrutural à brasileira, que privilegia grandes vãos, um menor número de apoios verticais e que tem como alvo uma maior qualidade e versatilidade dos espaços.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>estrutura</keyword>
+          <keyword>sistema construtivo</keyword>
+          <keyword>concreto</keyword>
+          <keyword>pré-moldado</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+        <pages>241-254</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsul06-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Fortuna. o lado b da virtuosa estação de hidroaviões</title>
+        <abstract locale="pt_BR">Tendo em vista a demanda de prover as principais cidades brasileiras com terminais aeroportuários, à semelhança de Salvador, Porto Alegre e São Paulo, o Departamento de Aeronáutica Civil (1931), órgão administrativo encarregado das normas de aviação comercial vinculado ao Ministério de Aviação e Obras Públicas do Rio de Janeiro, preparou dois editais de concurso, tanto para a Estação de Passageiros do Aeroporto Santos Dumont, que seria a estação terrestre, quanto para a marítima, a Estação de Hidroaviões. Enquanto aeródromos iam sendo construídos, a prioridade era dada aos hidroaviões, em virtude das pistas terrestres existentes à época serem inseguras, curtas e sem pavimentação, utilizadas apenas para pequenas aeronaves. Mas essa prioridade iria mudar rapidamente. O primeiro passo em direção à concretização do serviço aeroportuário foi dado, em 1933, com a aprovação do orçamento, tornando público o anteprojeto preliminar que consistia na escolha do local e previsão de infraestrutura, exigindo a construção de um quebra-mar, e o lançamento de mais de 2,7 milhões de metros cúbicos de areia na área conquistada do mar. Já no emblemático ano de 1936, pelo Decreto Nº 1150, com as obras em andamento, o local chamado de Ponta do Calabouço – área da baía da Guanabara ganha por aterro –, passou a chamarse Santos Dumont, marcando um contexto de desenvolvimento e modernidade republicana que não combinavam com a nomenclatura calabouço, cuja conexão com a passado escravocrata se preferia esquecer. Porém, antes do edital para a construção do aeroporto, foi publicado o edital para o concurso público da Estação de Hidroaviões do Aeroporto Santos-Dumont. Com o apoio do Instituto dos Arquitetos do Brasil (IAB), que elaborou todo o processo, 17 propostas foram analisadas, sendo que uma delas foi escolhida com louvor em razão das premissas: “boa circulação de público e passageiros, serviço bem localizado e um sistema construtivo bem definido”, plenamente em conformidade com o edital. Era fevereiro de 1937, e o primeiro lugar foi dado à Attílio Corrêa Lima e equipe. Por acreditar que o transporte aéreo no Rio de Janeiro seguiria na linha dos hidroaviões, atendendo inclusive ao tráfego aéreo internacional, a obra marítima foi priorizada, sendo concluída em um ano (1938). Isto em comparação com a estação terrestre que, maior, demorou sete anos para ser finalizada, passando na sequência a operar isoladamente com a extinção precoce dos hidroaviões. Assim, a principal adversidade da Estação de Hidroaviões foi operar durante breves quatro anos, dando lugar à estação de aeroaviões, mas houve outras. A efemeridade da operação na Estação de Hidroaviões relaciona-se com a fortuna albertiana e a reflexão a respeito do ímpetos e desejos que deveriam ser controlados, especialmente tratando-se de obras públicas.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Ponta do Calabouço</keyword>
+          <keyword>Estação de Hidroaviões</keyword>
+          <keyword>Fortuna</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Leonora</givenname>
+            <familyname locale="pt_BR">Romano</familyname>
+            <country>BR</country>
+            <email>arqlolo.romano@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-2612-4488</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Cláudio Calovi</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <country>BR</country>
+            <email>pereira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9488-0859</orcid>
+          </author>
+        </authors>
+        <pages>255-267</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsul06-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Museu de arte do Rio</title>
+        <subtitle locale="pt_BR">sobre dimensão patrimonial e projeto</subtitle>
+        <abstract locale="pt_BR">O Museu de Arte do Rio, que também abriga a Escola do Olhar, é um projeto de Bernardes+Jacobsen Arquitetura inaugurado em março de 2013. Reutiliza três prédios contíguos situados na Praça Mauá, com funções e configurações contrastes: o edifício eclético denominado Palacete Dom João VI, inaugurado em 1916, antiga Inspetoria de Portos e Canais do Ministério da Marinha; o bloco moderno projetado no final dos anos trinta por Saturnino de Brito para a Polícia Marítima, posteriormente convertido em Hospital da Polícia Civil; e o embarque coberto do Terminal Rodoviário Mariano Procópio, inaugurado em 1950. As construções se inserem em pouco mais de três décadas, podendo ser consideradas coetâneas. Os autores definiram o antigo hospital como Escola do Olhar e edifício eclético como museu pelas afinidades espaciais e funcionais. A partir disso, buscou-se dar unidade ao conjunto heterogêneo reduzindo um pavimento do antigo hospital e unindo os dois edifícios através da grande laje ondulada “flutuante” que identifica a obra; e o funcionamento do complexo foi definido a partir do fluxo, levando os visitantes ao terraço-mirante para o percurso “de cima para baixo”. A reflexão analisa questões específicas da intervenção, com destaque para a relação entre a estratégia de projeto adotada e a avaliação subjetiva dos bens efetuada por eles, que relega a promissora marquise de embarque à condição de cobertura de apoios e serviços. Converge a isto a abordagem segregadora da intervenção, prejudicando a apropriação do local pelos usuários e a correspondente segurança, que eram metas implícitas da revitalização daquela área. De modo genérico, o estudo busca demonstrar a importância da avaliação patrimonial para a intervenção, associando ao valor histórico-artístico os critérios mais recentes de viés identitário, que abrangem outros níveis de historicidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Museu de Arte do Rio</keyword>
+          <keyword>intervenções em preexistências</keyword>
+          <keyword>reciclagem</keyword>
+          <keyword>reuso</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís Henrique Haas</givenname>
+            <familyname locale="pt_BR">Luccas</familyname>
+            <country>BR</country>
+            <email>luccas@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9860-3509</orcid>
+          </author>
+        </authors>
+        <pages>268-280</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsul06-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Pavilhão aviação S.t.a.r</title>
+        <subtitle locale="pt_BR">Uma Estrela pouco conhecida na constelação de obras sobre Le Corbusier</subtitle>
+        <abstract locale="pt_BR">Dentro de um quadro amplo de determinados fundamentos do Movimento Moderno, consubstanciados na rica produção projetual, teórica e artística de Le Corbusier, a realização de projetos para Pavilhões do mestre suíço carrega conteúdos emblemáticos de alguns destes princípios, de sua própria obra e de seu pensamento. Evidencia-se que o arquiteto se utilizava do caráter representativo e da oportunidade proveniente deste tipo de obra para prospecção e divulgação de suas teorias e pensamentos. O projeto para o Pavilhão S.T.A.R. e um dos que reflete este conceito. Durante o período do entre guerras, Le Corbusier estava desenvolvendo estudos sobre a industrialização da construção, para a fabricação de casas para trabalhadores. Entre os anos de 1928 e 1929 o arquiteto desenvolve juntamente com Pierre Jeanneret e Charlotte Perriand o projeto para as Maisons Loucheur, casas econômicas, padronizadas para serem produzidas em série. O desenvolvimento dessa habitação exigiu um estudo minucioso das necessidades dos moradores bem como dos padrões construtivos. Os estudos feitos no atelier da rue de Sèvres quanto ao sistema construtivo partem das experiências já realizadas pela equipe em construções a seco sendo o Pavilhão para as Indústrias Nestlé uma delas. Os arquitetos desenvolvem para a estrutura resistente da Maisons Loucheur um sistema de pilares e vigas metálicos que sustentavam lajes e paredes também prémoldadas, sistema no qual os arquitetos basearam-se para a construção do Pavilhão S.T.A.R., desenvolvido pouco tempo depois do fim deste projeto. Apesar da existência de bibliografia vasta e abundante sobre Le Corbusier e sua obra, esta obra e pouco mencionada. O Pavilhão foi construído em junho de 1930. A investigação sobre este pouquíssimo conhecido projeto de Le Corbusier, parece ser mais um dos buracos negros, que persistem em aparecer, na aparente infinita constelação de estudos sobre o mestre suíço.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mônica Luce</givenname>
+            <familyname locale="pt_BR">Bohrer</familyname>
+            <country>BR</country>
+            <email>monica@bml8.com.br</email>
+            <orcid>https://orcid.org/0000-0002-0885-804X</orcid>
+          </author>
+        </authors>
+        <pages>281-296</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsul06-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Arquitetura industrial na obra de gregório zolko</title>
+        <subtitle locale="pt_BR">cinco casos de estudo</subtitle>
+        <abstract locale="pt_BR">Nascido em São Paulo em 23 de março de 1932, o arquiteto Gregório Zolko tem uma vasta produção ligada à modernidade paulista. Formado na Universidade de Illinois, nos Estados Unidos da América, sua prática como arquiteto se notabilizou por algumas obras que se tornaram muito conhecidas dentro e fora do Brasil, como o caso da Assembleia Legislativa do Rio Grande do Sul – o Palácio Farroupilha, em Porto Alegre, (1967) ou do Edifício das Emissoras Associadas, em São Paulo (1959). Seu escritório, chamado Constructa Planejamento e Arquitetura Ltda, foi fundado em junto ao seu sócio Wolfgang Schoedon em 1962. Em 65 anos de atividades, Zolko trabalhou com as mais diversas tipologias arquitetônicas: edifícios residenciais e comerciais, projetos de interiores, reformas e projetos de edifícios industriais. Com um total de 147 obras catalogadas, encontra-se no trabalho do arquiteto um expressivo número de edifícios com grande interesse arquitetônico que ainda não estão devidamente estudadas. O objetivo deste artigo é jogar luz sobre esse recorte na obra do arquiteto, focando na análise de cinco casos concretos: a Fábrica Amortex (São Paulo,1972), a Industria Empax (São Paulo,1974), a Industria Tecelagem Santaconstancia (São Paulo, 1974), Fábrica Fundinox (São Paulo, 1974) e a Indústria de Ferramentas Belzer (Guarulhos, 1976). O “Lado B” da obra de Gregório Zolko, especificamente os 44 edifícios industriais desenvolvidos em seu escritório, oferecem uma considerável gama de soluções construtivas, programáticas e bioclimáticas, exemplares tanto para o tipo em questão quanto para arquiteturas com outras naturezas programáticas.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna paulista</keyword>
+          <keyword>arquitetura industrial</keyword>
+          <keyword>Gregório Zolko</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nicolás Sica</givenname>
+            <familyname locale="pt_BR">Palermo</familyname>
+            <country>BR</country>
+            <email>nicolas.sica@ufrgs.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo José Rossin de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>ricardorossin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0007-5815-866X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Fernando Guillermo</givenname>
+            <familyname locale="pt_BR">Vázquez Ramos</familyname>
+            <country>BR</country>
+            <email>prof.vazquez@usjt.br</email>
+            <orcid>https://orcid.org/0000-0003-3472-5598</orcid>
+          </author>
+        </authors>
+        <pages>297-311</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsul02-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Emílio Henrique baumgart</title>
+        <subtitle locale="pt_BR">o pai do concreto armado no Brasil</subtitle>
+        <abstract locale="pt_BR">Seu trabalho no campo do concreto armado abriu novas perspectivas para a utilização da técnica construti- va, sendo autor do projeto de estruturas de obras pioneiras da engenharia brasileira. Dois de seus projetos tiveram significado mundial sob o aspecto do avanço da técnica: o edifício A Noite, na praça Mauá no Rio de Janeiro, que com seus 24 andares se tornou na época o mais alto do mundo em estruturas de concreto armado; e a ponte sobre o Rio do Peixe, entre Herval d´Oeste e Joaçaba. A ponte possuia o maior vão livre conhecido na época (68,5m) e foi construída por um método revolucionário devido a sua altura em relação ao rio e às suas repetidas cheias. Outro projeto representativo da personalidade inovadora de Baumgart é a concepção da estrutura do Ministério da Educação e Saúde Pública, arquitetura de Lucio Costa e equipe, onde uma das características inéditas foi a adoção de reforços invertidos na periferia dos pilares possibilitou a execução de uma laje plana na base.</abstract>
+        <abstract locale="en_US">The article is a report of life and structures calculated / designed by brazilian engineer Emilio Henrique Baumgart. His work, in the field of reinforced concrete, opened up new prospects for the constructive use of the technique, and author of the design of structures for the pioneering works of Brazilian engineering. Two projects had global significance under the aspect of the art: the building called “A Noite”, the square Maua in Rio de Janeiro, which with its 24 floors at the time became the highest in the world of reinforced concrete structures, and bridge on the Rio do Peixe, between Herval d’Oeste and Joaçaba. The bridge will have the largest free span in the world (68.5 m) and was built by a revolutionary method because of its height from the river and its repeated floods. Another project representative of the personality of Baumgart is the innovative design of the structure of the Ministry of Education and Public Health, architecture of Lucio Costa and team, where one of the novel feature was the adoption of reinforcements reversed on the periphery of the pillars enabled the implementation of a flat slab the base. It is also important to list more attention to detail and other work of the engineer, who was the author of more than 500 structural projects (tanks, hangars, garages, warehouses, floating, swimming pools, etc. and more than a hundred bridges and viaducts).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>engenharia</keyword>
+          <keyword>Baumgart</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>concrete</keyword>
+          <keyword>engineering</keyword>
+          <keyword>Baumgart</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsul02-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Brutalismo no paralelo 33</title>
+        <subtitle locale="pt_BR">unidad Diego portales, Santiago — Chile</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maribel Aliaga</givenname>
+            <familyname locale="pt_BR">Fuentes</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>marialiaga@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8244-8412</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsul02-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Ecletismo, ferro e concreto</title>
+        <subtitle locale="pt_BR">um arquivo-belvedere em Porto Alegre</subtitle>
+        <abstract locale="pt_BR">O advento de novas tecnologias de construção (como o concreto armado e as estruturas de ferro) em Porto Alegre ocorre em paralelo com o apogeu da arquitetura eclética na cidade, nas duas primeiras décadas do século XX. Edifícios desta época, com exuberantes exteriores historicistas, são sustentados por estruturas de concreto armado e/ou metal. Dentre estas obras pioneiras na capital gaúcha, está o Arquivo Público do Estado do Rio Grande do Sul, que combina os aspectos de inovação tecnológica com preocupações urbanísticas relacionadas à reconfiguração do centro da cidade.</abstract>
+        <abstract locale="en_US">The arrival of new building techniques in Porto Alegre (such as reinforced concrete and iron frames) happened at a time when eclectic architecture was in its peak in the city (1900-1920). At that time, buildings with impressive revivalist exterior decoration are supported by reinforced concrete structures and/or iron frames. The State Public Archives is among these pioneer works in Porto Alegre. This building combines the issue of technological innovation with urban concerns related to the reconfiguration of the downtown area of the city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Eclética</keyword>
+          <keyword>Arquitetura de Porto Alegre</keyword>
+          <keyword>Affonso Hebert</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Arquitetura Eclética</keyword>
+          <keyword>Arquitetura de Porto Alegre</keyword>
+          <keyword>Affonso Hebert. ECLETISMO</keyword>
+          <keyword>FERRO E CONCRETO: UM ARQUIVO-BELVEDERE EM PORTO ALEGRE É curioso notar que a afirmação do concreto armado na construção civil em Porto Alegre coincide com o apogeu da arquitetura eclética na cidade. A empresa construtora de Rudolf Ahrons</keyword>
+          <keyword>através de seus arquitetos Hermann Otto Menchen e Theo Wiedersphan</keyword>
+          <keyword>foi responsável por grande número de edifícios monumentais em estilo eclético na capital gaúcha nas duas primeiras décadas do século XX. Dentre os muitos imigrantes alemães que trabalharam nesta empresa</keyword>
+          <keyword>encontra-se o engenheiro Alfred Haessler</keyword>
+          <keyword>responsável pelos projetos estruturais em concreto armado neste período. Desse modo</keyword>
+          <keyword>em Porto Alegre combina-se o surgimento de uma ornamentação historicista exuberante com o uso de técnicas construtivas modernas</keyword>
+          <keyword>como demonstrado no salão principal da Delegacia Fiscal (Wiedersphan</keyword>
+          <keyword>1913)</keyword>
+          <keyword>onde vigamentos</keyword>
+          <keyword>arcos e lajes em concreto armado permitem grandes vãos livres cobertos por zenitais</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudio Calovi</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>pereira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9488-0859</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Samantha Sonza</givenname>
+            <familyname locale="pt_BR">Diefenbach</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>samantha.diefenbach@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsul02-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Matéria bruta</title>
+        <subtitle locale="pt_BR">clorindo testa e o centro cívico de Santa Rosa, La pampa, 1955-1963</subtitle>
+        <abstract locale="pt_BR">Situado em meio ao pampa argentino, distante seiscentos quilômetros de Buenos Aires na direção sudoeste, o Centro Cívico certamente tem merecido menos páginas de críticos e estudiosos que as outras duas grandes obras de Testa no mesmo período, o Banco de Londres (1959) e a Biblioteca Nacional (1962), ambos na Capital Federal. O presente texto dá continuidade ao estudo realizado sobre o Centro Cívico de Santa Rosa, apresentado no Docomomo Brasil em 2007. Tendo em vista o temário e os parâmetros geográficos e cronológicos propostos pelo seminário, o trabalho concentra-se sobre os elementos resultantes da primeira etapa de consolidação deste conjunto arquitetônico moderno, construídos em concreto aparente entre 1956-1963: Casa de Governo, Estação Terminal de Ônibus e cobertura central. As primeiras fotografias tomadas do Centro Cívico, publicadas no segundo número de Summa em 1963, e mesmo aquelas publicadas por Francisco Bullrich em 1968, ou Bayon e Gasparini em 1977, mostram um conjunto variado porém harmônico, em que a nudez do concreto bruto funcionava como um tema geral de composição executado em diferentes modulações, unificando as superfícies ásperas dos parabolóides da cobertura central e as tramas múltiplas da fachada da Casa de Governo. Por outro lado, como sistema construtivo, no que se refere à concepção tipológica, o uso do concreto no Centro Cívico contrapõe duas situações características do desenvolvimento da arquitetura moderna internacional e latino-americana: a barra repetitiva e a grande cobertura espacial.</abstract>
+        <abstract locale="en_US">Situated in the middle of Argentinian pampas, 600 kilometers to the south of Buenos Aires, Santa Rosa's Civic Center has been less discussed as an academical subject than other contemporary Testa's great works such as London Bank (1959) and National Library (1962), both in Capital Federal. This paper follows former studies on that subject presented at Docomomo Brasil in 2007. Concerning the Docomomo South purposes, and according to the geographic and chronological parameters proposed by this seminar, this article focuses on the results of the first competition for the Civic Center: the Government House, the Bus Station and the covered central space, all of them built in exposed reinforced concrete between 1955-1963. The first photos taken from the Civic Center, published in the second issue of Summa architectural magazine in 1963, and so the ones published by Francisco Bullrich in 1968, or Bayón and Gasparini in 1977, show a varied but harmonious ensemble. The naked reinforced concrete works as the general theme of the composition, played in different ways, but also unifying unlike architectural elements such as the concrete covering of paraboloid shells and the rich texture of the grid of the Government House. On the other side, as a constructive system, the use of reinforced concrete in the Civic Center opposes two characteristics situations in the development of modern architecture in Latin-American and international scene: the linear repetitive block and the big spatial covering.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Clorindo Testa</keyword>
+          <keyword>Centro Cívico</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Clorindo Testa</keyword>
+          <keyword>Civic Center</keyword>
+          <keyword>reinforced concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudia Piantá Costa</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>cabral@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0079-1861</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsul02-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Experiências em concreto armado na África portuguesa</title>
+        <subtitle locale="pt_BR">influências do Brasil</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Cristina Fernandes Vaz</givenname>
+            <familyname locale="pt_BR">Milheiro</familyname>
+            <affiliation locale="pt_BR">FAUTL</affiliation>
+            <country>BR</country>
+            <email>avmilheiro@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-7213-0478</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

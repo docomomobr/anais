@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsul02-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">A miragem da industrialização</title>
+        <subtitle locale="pt_BR">abrindo a Mata virgem a facão: Alguns casos do Brutalismo Paulista</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ruth Verde</givenname>
+            <familyname locale="pt_BR">Zein</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>rvzein@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0923-4914</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsul02-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">O centro administrativo do estado do Rio Grande do Sul</title>
+        <subtitle locale="pt_BR">curva de concreto marcando a paisagem</subtitle>
+        <abstract locale="pt_BR">O Centro Administrativo do Estado do Rio Grande do Sul, em Porto Alegre, foi projetado em 1972, por Charles René Hugaud, Ivânio Fontoura, Leopoldo Constanzo e Luís Carlos Macchi Silva, tendo a obra atingido o estágio atual em meados dos anos 1980. O bloco mais alto foi construído parcialmente, ficando com 22 dos 32 andares previstos, além de outras partes não terem sido completadas conforme o projeto. O principal material que caracteriza sua expressão formal é o concreto. Com sua forma singular, com dois volumes semelhantes posicionados de modo antimétrico em relação à coluna de circulação vertical, cada um com faixas horizontais de vidro e concreto arrematadas por placas de concreto nos lados menores, verticais nos lados mais próximos do centro e com perfil curvo nas extremidades mais afastadas deste, o incompleto edifício com 22 andares tornou-se um elemento marcante na paisagem de Porto Alegre. Localizado em área de aterro junto ao Guaíba, logo ao sul da península que constitui o centro da cidade, está em um espaço bastante amplo, num entorno aberto, no qual aparece como elemento mais destacado, com alta visibilidade. Sua silhueta curva chama especialmente a atenção. Apesar de poder ser visto por todos os lados, o ângulo que permite ver com mais clareza a forma geral é a partir do nordeste, ângulo do qual costuma ser retratado em cartões postais e obras artísticas. Deste ângulo, de certa distância, pode ser visto junto com a histórica Ponte de Pedra e o Monumento aos Açorianos, formando um conjunto que lhe acrescenta significado como um símbolo da cidade, apesar de, tendo ficado incompleto, apresentar detalhes bastante insatisfatórios. O presente trabalho analisa a presença e significação da obra em questão na cidade, considerando formas de representação da obra na imprensa e por outros meios, como cartões postais.</abstract>
+        <abstract locale="en_US">The Administrative Centre of the State of Rio Grande do Sul, in Porto Alegre, was designed in 1972 by Charles René Hugaud, Ivânio Fontoura, Leopoldo Constanzo e Luís Carlos Macchi Silva, and reached its present size in the mid-1980s. Its highest structure was partially built, reaching 22 of the intended 32 storeys. Other parts of the complex were also not completed as designed. The main building material which characterizes its formal expression is concrete. With its singular form, with two identical volumes positioned in an antimetrical way in relation to the tower of the elevators, each of these two volumes being made up of horizontal stripes of glass and concrete flanked by vertical and curved concrete walls at opposite sides, the incomplete 22 storey building became a marking element in the townscape of Porto Alegre. Situated in an area reclaimed from the Guaíba River, at the south of the peninsula where the city centre is located, it stands in an ample, open space, being highly visible and appearing as the most conspicuous element. The attention is especially caught by its curved silhouette. Although it may be seen from all sides, the angle from which the general form is perceived most clearly is from the northeast, angle from which it is usually seen in postcards and works of art. From the northeast, from a distance, it may be seen together with the historical Stone Bridge and the Monument to the Azoreans, forming an ensemble which adds meaning to it as a symbol of the city, despite the fact that, having remained incomplete, it presents details which are quite unsatisfactory. The present work analyzes the presence and significance of this building in the city, considering forms of representation in the press and by other means, such as postcards.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Centro Administrativo do Estado do Rio Grande do Sul</keyword>
+          <keyword>concreto armado</keyword>
+          <keyword>significado na paisagem</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Administrative Centre of the State of Rio Grande do Sul</keyword>
+          <keyword>reinforced concrete</keyword>
+          <keyword>meaning in the townscape</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Holmer</givenname>
+            <familyname locale="pt_BR">Fiore</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>fiore@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9222-2695</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsul02-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Máquinas de vender máquinas</title>
+        <subtitle locale="pt_BR">formas aerodinâmicas em revendas de automóveis e oficinas mecânicas em Caxias do Sul</subtitle>
+        <abstract locale="pt_BR">Formas sinuosas e aerodinâmicas caracterizam a maior parte das revendas de automóveis e oficinas mecânicas construídas em Caxias do Sul, Rio Grande do Sul, nas décadas de 1940 e 50. Buscando corresponder ao arrojo formal dos automóveis que ali eram comercializados, inicialmente, esses edifícios assumiram uma linguagem Art Déco com inflexão expressionista e, a partir do domínio do concreto armado, arriscaram inusitadas experiências estruturais com linguagem modernista. No conjunto, esses exemplares assumiram um certo papel de vanguarda na cidade, introduzindo um vocabulário arquitetônico que foi sendo gradativamente assimilado e incorporado pela população (COSTA, 2001; SEGAWA, 1999). Entre diversos exemplares com estes programas, o edifício da Brasdiesel (1958) merece especial atenção, pela complexidade do programa e tentativa de expressão escultórica do concreto. Por ter um programa similar ao industrial, o edifício ensaia a racionalização do sistema estrutural, reticulando pilares e vigas, que buscam alcançar grandes vãos livres. Diante do possível valor patrimonial destes edifícios, este trabalho objetiva identificá-los e examinar como incorporaram o uso do concreto e, mais especificamente, como a Brasdiesel explora as possibilidades escultóricas de seu uso. Uma pesquisa iconográfica inicial sobre os referidos edifícios permite analisar suas semelhanças e especificidades. A partir de uma breve revisão bibliográfica, busca-se discutir as experiências estruturais com o uso do concreto na arquitetura moderna brasileira e a ocorrência de programas arquitetônicos similares no Brasil e no Rio Grande do Sul. De modo conclusivo, é discutida a relação entre a produção caxiense, gaúcha e brasileira. Em Caxias do Sul, com o uso do concreto, a arquitetura das concessionárias ganhou expressão e, ao mesmo tempo, deu expressão ao produto comercializado. Tornou-se promotora de um tipo de publicidade, como “uma máquina de vender máquinas”.</abstract>
+        <abstract locale="en_US">Curvilinear and aerodynamical forms mark the majority of car dealerships and autoshops built in Caxias do Sul, Rio Grande do Sul, in the 1940s and 1950s. Trying to reflect the design audacity of the cars sold there, at first these buildings used an Art Deco language with an expressionist flavor, and after the dominance of the concrete structures, they would carry unusual structural modernist experimentations. As a whole these buildings would assume a certain avant-gard role in the city, introducing an architectural vocabulary that would be gradually assimilated by the population (COSTA, 2001; SEGAWA, 1999). Among several examples, the Brasdiesel (1958) building deserves special attention due to the complexity of its program and to its use of concrete as a sculptural expression. As its architectural program was close to an industrial model, for instance, the building’s design experimented with the rationalization of the structural system, setting a grid for columns and beams to cover large free spans. Referring to possible patrimony value of these buildings, this work aims to identify them and examines their use of concrete, focusing on how the Brasdiesel building used its sculptural capacity. An initial iconographic study of these buildings leads to the analysis of similarities and specificities. A brief literature review sets the context of these experiments with concrete structures in modern Brazilian architecture and the existence of similar architectural programs in Brazil and in Rio Grande do Sul. The paper concludes with a discussion on the relationships between the production of such architectural vocabulary in the national, state, and local contexts. In Caxias do Sul, with the use of concrete, the architecture of the dealerships got and, at the same time, gave expression to the marketed product. It became promoter of a type of advertising, as &quot;a machine to sell machines.&quot;</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>concessionárias</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>car dealerships</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elísia da</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <affiliation locale="pt_BR">UCS</affiliation>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4829-5699</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsul02-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A casa unifamiliar em Florianópolis</title>
+        <subtitle locale="pt_BR">um modo de ser moderno</subtitle>
+        <abstract locale="pt_BR">Florianópolis, na década de 50, era uma pequena cidade que procurava reafirmar-se, no cenário local e nacional, como capital do Estado de Santa Catarina. Para tanto, foi necessário criar uma nova imagem de cidade em pleno progresso. A arquitetura mostrou-se como ferramenta eficaz neste processo e o centro da cidade foi o palco escolhido. Novos edifícios com linguagem modernista - símbolo de desenvolvimento no Brasil naqueles anos - começaram a ser construídos. O uso do concreto armado foi trazido para a Ilha aos poucos. Não por falta de vontade por parte dos profissionais que atuavam na região - atentos às novidades trazidas pelas revistas de arquitetura - mas sim, pela dificuldade de encontrar o material e pela falta de mão de obra qualificada para tratar com o mesmo. Apesar de todas as dificuldades e limitações, os novos edifícios conseguiam retratar uma vontade de ser modernos. A cidade foi crescendo e novos loteamentos surgiram em algumas regiões centrais que naquela época ainda eram ocupadas por chácaras. Novas casas foram construídas nestes loteamentos, geralmente para famílias abastadas, atentas ao ciclo desenvolvimentista que percorria todo o país. Estas famílias procuravam arquitetos que construíssem de uma maneira mais &quot;limpa&quot;, ou seja, com linguagem modernista. O presente trabalho aborda o assunto analisando alguns exemplares residenciais, localizados em um destes loteamentos, e construídos nesta época de transição, na qual a casa tradicional , com paredes auto- portantes, deu lugar à moderna, construída com estrutura de concreto armado. Serão apresentados dois projetos que trazem, em maior ou menor grau, linguagem modernista. O objetivo deste estudo, além de resgatar a qualidade destes projetos, é enfatizar sua importância histórica, tanto para Florianópolis, quanto para o Brasil, por retratarem a difusão da arquitetura moderna pelo país.</abstract>
+        <abstract locale="en_US">This work approaches the subject by showing some examples of houses located in one of the lots mentioned, built during those times of changes, when the traditional houses with its self-supporting walls gave place to the modern model of house, structured with reinforced concrete. Two architecture plans will be presented, carrying the modern language in a bigger or smaller degree. The purpose of the study, more than rescuing and evidencing the quality of the projects, is to emphasize their historical relevance, not only to Florianopolis but to Brazil itself, by portraiting the spreading of the modern architecture over the country.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>inventário</keyword>
+          <keyword>projeto arquitetônico residencial</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Inventory</keyword>
+          <keyword>Architecture house plan</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Josicler Orbem</givenname>
+            <familyname locale="pt_BR">Alberton</familyname>
+            <affiliation locale="pt_BR">UNIVALI</affiliation>
+            <country>BR</country>
+            <email>arquiteta.josicler@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0001-8645-2013</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsul02-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Composição de planos no edifício annes Dias nº 154</title>
+        <abstract locale="pt_BR">O trabalho compreende uma análise morfológica sistemática do edifício de escritórios Annes Dias no 154, de autoria do arquiteto argentino Armando d’Ans, construído em 1955, situado na região central de Porto Alegre, RS, Brasil. O objeto da análise insere-se entre a segunda e a última partição cronológica proposta para o II Seminário DOCOMOMO Sul, intitulado Plasticidade e Industrialização na Arquitetura do Cone Sul Americano. Estruturado em concreto armado, o edifício Annes Dias no 154 pode ser entendido como uma “composição de planos em intersecção”, que, segundo Colin Rowe em seu ensaio Chicago Frame, referindo-se às operações wrightianas para concepção de formas, afirma que “se trata de uma das questões mais importantes da arquitetura no século XX”. A análise morfológica do edifício pretende lançar uma visada objetiva sobre o mesmo, a partir de critérios previamente estabelecidos, quais sejam: tipo, implantação, altura, estrutura, circulações, geometria básica, composição tripartite – em base, corpo e coroamento –, balanços estruturais, e, por fim, fechamentos externos. Como hipótese a ser confirmada, o trabalho oferece a oposição estabelecida à vertente corbusiana de composição – vide ossatura Dom-ino e Cinco Pontos de uma Nova Arquitetura – , que pressupõe a sucessiva justaposição de lajes trespassadas por colunas, que ora se desnudam, ora se eclipsam pelos fechamentos externos. Tais operações não se verificam no edifício Annes Dias no 154, e, por isso mesmo, o tornam valioso no contexto da Arquitetura Moderna no período em questão.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Moderna</keyword>
+          <keyword>planos</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe de Souza L.</givenname>
+            <familyname locale="pt_BR">Pacheco</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>pacheco.felipe@terra.com.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

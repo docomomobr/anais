@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul03" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul03</id>
+  <description locale="pt_BR">3º Seminário Docomomo Sul: anais: madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani, Sérgio Marques. Porto Alegre: PROPAR-UFRGS, 2010. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/. ISBN 978-85-60188-11-6</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>3</number>
+    <year>2010</year>
+    <title locale="pt_BR">3º Seminário Docomomo Sul, Porto Alegre, 2010</title>
+  </issue_identification>
+  <date_published>2010-11-08</date_published>
+  <last_modified>2010-11-08</last_modified>
+  <sections>
+    <section ref="SEC22-sdsul03" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">22</id>
+      <abbrev locale="pt_BR">SEC22-sdsul03</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdsul03-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">A singularidade no edifício industrial</title>
+        <subtitle locale="pt_BR">o anonimato da Madeira?</subtitle>
+        <abstract locale="pt_BR">A preocupação modernista em tornar claros os princípios e processos de construção é particularmente presente em edifícios industriais. Entre os recursos utilizados para realizar uma arquitetura, cujos elementos constituintes sejam identificados facilmente, as lógicas e sistemas industrializados de construção, como a pré-fabricação, tem sido uma escolha recorrente. Entretanto, essa lógica de pré-fabricação, muitas vezes encontrou, no Brasil, dificuldades como a insuficiência e até mesmo ausência de técnicas e recursos industrializados de qualidade. Comumente, a Arquitetura Moderna, realizada no País, apresentou um acentuado grau de dependência a métodos artesanais de modelagem de suas estruturas, em concreto e, de seus detalhes construtivos. Tanto o desenho, como a execução dos moldes, são feitos, em grande parte, com métodos e técnicas artesanais. Esta dificuldade, no entanto, pode ser encarada, como um aspecto positivo, pois, possibilita emergir um importante valor: a singularidade, que, por sua vez, é um valor que não deveria ser comum nos edifícios industriais, particularmente aqueles produzidos nos países industrializados. Todavia, contrariando esta realidade, o edifício da AGTEC, Comércio de Indústria Ltda., localizado em Recife e construído em 1976, com projeto de Glauco Campelo e Vital Pessoa de Melo, é uma obra que apresenta os vestígios da modelagem in loco, em fôrmas de madeira, fato que contribui para revelar suas opções construtivas e ao mesmo tempo lhe confere significado. As técnicas artesanais de carpintaria desempenham um importante papel na Arquitetura Moderna e, indicam que a sua matéria-prima, as peças laminadas em madeira, não são tão anônimas assim. Esse testemunho “gravado”, nas superfícies dos edifícios, transmite mensagens, próprias de cada obra. O presente artigo pretende encontrar algumas das mensagens deste singular edifício.</abstract>
+        <abstract locale="en_US">The concern of modern architects of making clear the principles and methods of construction is particularly evident in industrial buildings. Among the strategies to create an architecture in which its constituting parts were clearly evident, the logic of industrial system of construction, such as the prefabrication of its parts, was commonly used. However, in Brazil, the logic of prefabrication usually met obstacles, such as the lack of techniques and workmanship. Usually, local modern architecture presented a high dependence on handcrafted methods in the modeling of concrete structures and its details. The design and the casting execution are made with handcrafted methods and techniques. These apparent shortcomings, however, could be seen through a positive angle since it makes possible the appearance of an important value: singularity, which, on its own, is not a value usually associated with industrial buildings, particularly those produced in developed countries. Nevertheless, opposing this notion, the building of AGTEC, Comércio de Indústria Ltda., located in Recife and designed by the architects Glauco Campelo and Vital Pessoa de Melo in Recife in 1976 is a work which present the vestiges of in loco wood casting, a fact which reveals the building methods and provides significance to the building. Carpentry techniques play an important role in modern architecture and prove that its material, laminated wood pieces, are not so anonymous as previously thought. This recorded evidence in the surfaces of the buildings transmits different messages for each building. This paper attempts to discuss some of these messages in a singular building, the AGTEC.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Edifício Industrial</keyword>
+          <keyword>Detalhamento</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renata Maria Vieira</givenname>
+            <familyname locale="pt_BR">Caldas</familyname>
+            <affiliation locale="pt_BR">UFPE</affiliation>
+            <country>BR</country>
+            <email>renatavcaldas@terra.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernando Diniz</givenname>
+            <familyname locale="pt_BR">Moreira</familyname>
+            <affiliation locale="pt_BR">UFPE</affiliation>
+            <country>BR</country>
+            <email>fmoreira@hotlink.com.br</email>
+            <orcid>https://orcid.org/0000-0002-1387-4036</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdsul03-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Conjunto residencial da universidade de São Paulo (CRUSP), 1963</title>
+        <abstract locale="pt_BR">As cidades universitárias do século XX apresentam-se como campos férteis para experimentação de princípios do ideário modernista, contemplando grandes extensões territoriais nas quais, em geral, reproduzem-se princípios do urbanismo moderno. Neste contexto, as residências estudantis, como desdobramento da questão da habitação massiva moderna, recebem especial atenção nos planos de desenvolvimento dos campi, utilizando-se de recursos compositivos modernos e de novas tecnologias construtivas. No Brasil, o Conjunto Residencial Armando Salles de Oliveira (CRUSP), projetado por Eduardo Kneese de Mello, Sidney de Oliveira e Joel Ramalho Junior, apresenta-se como um importante exemplar concebido segundo princípios modernos no qual a exploração de novas tecnologias construtivas – o pioneirismo na utilização da pré-fabricação no país – é traço determinante do projeto. O complexo, concluído em 1963 para suprir a demanda por alojamento para atletas nos jogos pan-americanos, situa-se a leste do Campus da Universidade de São Paulo, junto à Reitoria, e é composto por barras erguidas sobre pilotis, conectadas por passeios cobertos e interligadas às atividades cotidianas dos estudantes – o restaurante universitário, a biblioteca e a área de esportes. Kneese de Mello foi pioneiro na produção (através de sua empresa UNISECO) e na utilização de elementos pré-fabricados em grande escala no país. A adoção de um esqueleto estrutural composto por um misto de elementos industrializados e de peças de concreto moldado em loco, propicia independência das vedações externas e do layout interno. A arquitetura de interiores é caracterizada pelo uso de elementos de madeira que absorvem, através de diferentes aplicações – painéis divisórios, mobiliário, mobiliário/divisório – as variações de uso necessárias à execução de diferentes atividades no alojamento. A madeira adquire um viés industrial, através do projeto e detalhamento dos elementos de forma precisa e rigorosa, possibilitando uma produção/reprodução sistemática e atemporal. O objetivo do trabalho é investigar os recursos projetuais - compositivos e técnicos empregados nos setores do CRUSP nos quais o uso extensivo da madeira é verificado e de que forma o pensamento industrial que pautou as diversas escalas do conjunto se reflete na utilização deste material. “(...) parece-me que se deve procurar reduzir ao mínimo, ou à simples montagem, o trabalho na obra, e aumentar ao máximo a participação da indústria, onde os materiais poderão ser produzidos mais rapidamente, com melhor qualidade e melhor preço.” (KNEESE DE MELLO in REGINO: 2006, pg. 293).</abstract>
+        <abstract locale="en_US">Twentieth century’s University campuses present themselves as fertile fields for experimentation within the principles of modernist ideas, contemplating large territorial extensions which reproduce, in general, the principles of modern urbanism. In this context, residential halls received special attention in development plans of campuses as part of modernist mass housing, using modernist compositive resources and new building technologies. In Brazil, the Housing Armando Salles de Oliveira (CRUSP), designed by Eduardo Kneese de Mello, Joel Ramalho Junior and Sidney de Oliveira is an important example designed according to modernist principles, on which the exploration of new construction technologies - the pioneering use of prefabrication in the country - is crucial trait of the project. The complex, completed in 1963 to meet the demand for accommodation for athletes at the Pan American Games, is located east of the Campus of Universidade de São Paulo, next to the Rectory, and consists os slabs raised on stilts, linked by covered promenades and connected to the students’ daily activities - the university cafeteria, library and sports area. Kneese de Mello was a pioneer in the production (through his company UNISECO) and the use of prefabricated elements at large scale in the country. The adoption of a skeleton composed
+of a mixture of industrial elements and pieces of concrete cast in site provides independence from the external envelope and the internal layout. The interiors are characterized by the use of wooden elements that absorb changes in use through different applications - division panels, furniture, furniture / divisive - for the implementation of different activities at the facilities. The wood acquires an industrial character through the design and detailing of elements in a precise and rigorous way, enabling a systematic and timeless production / reproduction. The goal of this paper is to investigate the design resources employed at CRUSP, both compositional and technical, where the extensive use of wood is verified, and the way the industrial view that guided the various scales of the building complex is reflected in the use of this material. “(...) parece-me que se deve procurar reduzir ao mínimo, ou à simples montagem, o trabalho na obra, e aumentar ao máximo a participação da indústria, onde os materiais poderão ser produzidos mais rapidamente, com melhor qualidade e melhor preço.” (KNEESE DE MELLO in REGINO: 2006, pg.293).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>alojamento universitário</keyword>
+          <keyword>madeira</keyword>
+          <keyword>pré-fabricação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>university housing</keyword>
+          <keyword>timber</keyword>
+          <keyword>pre-fabrication</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renata Santiago</givenname>
+            <familyname locale="pt_BR">Ramos</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>arq.renataramos@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdsul03-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">Arquitectura moderna en madera en el sur de Chile</title>
+        <subtitle locale="pt_BR">1930-1970</subtitle>
+        <abstract locale="pt_BR">La investigación que se presenta tuvo como objetivo estudiar el desarrollo de la Arquitectura Moderna en Madera en el sur de Chile, desde la Región del Bío-Bío hasta la Región de los Ríos. La irrupción de los postulados del Movimiento Moderno y el desarrollo de la Arquitectura Moderna en el sur Del país se produce con fuerza a partir de la década del “30 y hasta tardíamente mediados de los “70 del siglo XX. Lo singular de estos procesos en el sur del país, es que la Arquitectura Moderna no se reproduce en forma ortodoxa, tal cual su fuente original, sino reinterpretada, tamizada por la cultura local. Los modelos originales, prototipos del modernismo emergente por esos años, son reelaborados por la mano de obra local, con los materiales locales, utilizando la madera, material tradicional de la zona sur del país. Dentro de este período, es posible distinguir con claridad al menos dos etapas. La primera, que va desde mediados de la década del “30 hasta el terremoto de 1960 puede ser llamada la etapa de la Primera Modernidad, en que se</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitectura Moderna en madera</keyword>
+          <keyword>Patrimonio arquitectónico y urbano</keyword>
+          <keyword>Arquitectura del Sur de Chile</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Roberto</givenname>
+            <familyname locale="pt_BR">Burdiles Allende</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>rburdile@ubiobio.cl</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Gonzalo</givenname>
+            <familyname locale="pt_BR">Cerda Brintrup</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>cerda@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4174-7421</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Iván</givenname>
+            <familyname locale="pt_BR">Cartes Siade</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>cartes@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Edward</givenname>
+            <familyname locale="pt_BR">Rojas Vega</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>rojas@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Jorge</givenname>
+            <familyname locale="pt_BR">Lobos Contreras</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>lobos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="5" id="6">
+            <givenname locale="pt_BR">Luciana Correa de</givenname>
+            <familyname locale="pt_BR">Paula</familyname>
+            <affiliation locale="pt_BR">UBB</affiliation>
+            <country>BR</country>
+            <email>correa@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdsul03-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Uma casa, três projetos, cinquenta anos</title>
+        <subtitle locale="pt_BR">a casa de Ipanema 1958/2008</subtitle>
+        <abstract locale="pt_BR">No final da década de 1950, Moacyr Moojen Marques planejou com a família, construção de casa para veraneio e finais de semana, no balneário Ipanema, sul da capital. O terreno escolhido, em cull-de-sac, no loteamento inicial do velho Juca Batista, possuía já adulta uma expressiva Timbaúva, decisiva para a opção. O projeto, apesar da singeleza imaginada para um bangalow de madeira de uso sazonal, inseriu-se no desenho despojado das casas racionalistas produzidas na Califórnia nas décadas de 1940 a 1960, a exemplo do study cases houses program, conectadas ao contexto gaúcho pela via da arquitetura produzida por paulistas como Oswaldo Bratke, Rino Levi e a vinda de Richard Neutra a Porto Alegre. A tipologia de casa moderna térrea ladeada por pérgolas e pátios delimitados por muros prolongados, horizontalidade acentuada, planta livre na área social e cozinha americana integrada, recheava o imaginário da classe média da década de 1950, ilustrado com imagens publicitárias da vida moderna, provida de automóveis, televisores, eletrodomésticos e móveis de perna palito. Do modelo norte-americano a casa ainda é herdeira, do racionalismo construtivo condicionado pela estrutura baloon-frame e fechamentos laterais de madeira. O projeto original define um núcleo “molhado” com banheiro, cozinha, área de serviço e paredes de divisa de alvenaria e a envolvente externa e demais paredes internas, configuradas por um esqueleto de madeira modulado a cada metro e meio e fechamento lateral com tábuas de pinho na horizontal, originalmente à vista, tratadas com verniz. Cobertura de fibro-cimento, forrada pelas mesmas peças de madeira aparente. No final da década de 1980, após usos intermitentes e significativa deterioração, um projeto de renovação transformou-a em residência permanente. A intervenção, além da restauração dos elementos originais como tijolos à vista, madeiras da estrutura, fôrros, fachadas e esquadrias, agregou nova garagem, área de serviço, banheiro de serviço, ampliação da cozinha e banheiro social. O novo projeto, seguiu a trilha da racionalidade construtiva, modulando os acréscimos construídos, com blocos e combogós de concreto. Os elementos industrializados brutos deixados à vista contrastam com a calidez da madeira e tijolos, inserindo no ambiente termos próprios do brutalismo paulista dos anos 1950, e/ou da arquitetura produzida na região do Ticino, na década de 1980. A casa original, entre medianeiras, transversal ao terreno, recebeu novos planos de fachada com os elementos de concreto, intermediados por área de transição com as fachadas de madeira originais, restauradas. Duas fachadas, duas gerações, duas arquiteturas. No final da década de 1990, o terreno original foi acrescido com uma fatia de três metros e meio de frente, na face oeste. Nesta parcela anexada, um terceiro projeto determinou a criação de nova garagem, área de lazer integrada à piscina nos fundos, quarto de casal e ateliê. A fatia, no pavimento térreo com planta livre, permite um futuro incremento do ateliê como atividade predominante. No segundo pavimento, quarto e ateliê unidos por passarela, com vazios, permitem a penetração de luz zenital de sheds, na cobertura. A materialidade e a dimensão tectônica, pautam estratégia de projeto e caráter arquitetônico. Na nova divisa oeste, a parede é constituída de lajes de concreto com nervuras colocadas na vertical (Palcas PI), sustentando vigas calhas longitudinais e transversais de concreto pré-fabricadas. Junto à casa existente, na estrutura do entrepiso, da cobertura e do fechamento lateral, aço na forma de pilares tubulares, vigas em “I” e tubos de dez por cinco centímetros. Telhas e paredes laterais, com painéis térmicos de aço duplado. A tipologia e conceito da casa pavilhão, com filiação às construções de uso industrial, impõe ao conjunto anterior, elemento principal dominante, mas que segue, principalmente na racionalidade construtiva, a continuidade cronológica.</abstract>
+        <abstract locale="en_US">In the late fifties, Moacyr Moojen Marques planned with his family the construction of a Summer and weekend house, in balneary Ipanema, in the south of the capital. The chosen building site, in cull-de-sac, located in the inicial neighbourhood of the old Juca Batista, had an already adult and expressive Timbaúva tree, that was decisive to the choice. The design, in spite of the simplicity imagined to a wooden bangalow of seasonal use, was</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa de Madeira</keyword>
+          <keyword>Residencia Unifamiliar</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Wooden House</keyword>
+          <keyword>Single Family Residence</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sérgio Moacir</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <affiliation locale="pt_BR">FA-UFRGS</affiliation>
+            <country>BR</country>
+            <email>marques@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0355-7923</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

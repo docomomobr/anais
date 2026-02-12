@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdnne07-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Do Centro de Saúde dr. Paulo Ramos ao Hospital Universitário presidente Dutra</title>
+        <abstract locale="pt_BR">O século XX foi marcado por inovações no modo de fazer arquitetura, suas linguagens carregavam dife- rentes características e influências. Em São Luís, capital do Maranhão, esta época foi notabilizada pela ! inserção de edifícios modernos dentro do conjunto colonial dos séculos XVII e XVIII para abrigar sedes dos órgãos públicos governamentais. Os novos edifícios trouxeram um diferente panorama arquitetônico, mudaram o traçado urbano, inovaram no modo de implantação dos prédios, na composição de suas fa- chadas, valorizando elementos geométricos, alterando o consolidado skyline da capital. Este artigo visa convidar o leitor para conhecer as modernidades de São Luís em sua abordagem no âmbito da saúde, in- seridas no contexto da Era Vargas e de suas influências posteriores, através da análise de dois estudos de casos: o Centro de Saúde Dr. Paulo Ramos, inaugurado pelo governador Paulo Ramos, em 1941, junta- mente com o pronto-socorro Getúlio Vargas; e o Hospital Universitário Presidente Dutra, 1961, sendo inaugurado pelo então presidente Jânio Quadros, pertecendo ao Instituto Nacional de Assistência Médica e da Previdência Social (INAMPS). É importantíssimo analisar uma abordagem do caminho em que as influências do moderno percorreram e desenvolvem-se nos objetos de estudo, entendendo como essa lin- guagem foi aceita e reflete nos dias atuais.</abstract>
+        <abstract locale="en_US">The twentieth century was marked by innovations in the way of doing architecture, languages carried different characteristics and influences. In São Luís, this era was notable for the insertion of moderns buildings within the colonial set of the XVII and XVIII centuries to receive government public agencies. Those new buildings brought a different architectural panorama, changed the urban design, innovated in the way of implantation of buildings, in the composition of their facades, valuing geometric elements, changing the capital’s consolidated skyline. This article aims to invite the reader to know the modernities of São Luís in its approach in the health’s field, inserted in the context of the Era Vargas and its later influences, through the analysis of two cases studies: Dr. Paulo Ramos Health Center, inaugurated by the head of state of Maranhão, Paulo Ramos, in 1941, along with the emergency room Getúlio Vargas; and the Presidente Dutra University Hospital, 1961, inaugurated by the president Jânio Quadros, belonging to the National Institute of Medical Assistance and Social Security (INAMPS). It is very important to analyze the route the modern’s influences has traveled and developed in the objects of study, understanding how this language was accepted and reflected in nowadays.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>arquitetura da saúde</keyword>
+          <keyword>século XX</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>health architecture</keyword>
+          <keyword>twentieth century</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ágatha</givenname>
+            <familyname locale="pt_BR">Ferreira</familyname>
+            <affiliation locale="pt_BR">FAU-UEMA</affiliation>
+            <country>BR</country>
+            <email>agatha.ferreira.00@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-1362-5240</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo pela Universidade Estadual do Maranhão</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Grete Soares</givenname>
+            <familyname locale="pt_BR">Pflueger</familyname>
+            <affiliation locale="pt_BR">PROURB-UFRJ</affiliation>
+            <country>BR</country>
+            <email>grete@elo.com</email>
+            <orcid>https://orcid.org/0000-0002-9376-8689</orcid>
+            <biography locale="pt_BR">Doutora em Urbanismo (2011) pela Universidade Federal do Rio de Janeiro</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Larissa</givenname>
+            <familyname locale="pt_BR">de Miranda Teixeira Mota</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>larissatmota@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5434-2215</orcid>
+            <biography locale="pt_BR">Mestranda em Teoria</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Mayara</givenname>
+            <familyname locale="pt_BR">Lemos</familyname>
+            <affiliation locale="pt_BR">FAU-UEMA</affiliation>
+            <country>BR</country>
+            <email>mayaralemos02@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0312-3543</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Rodrigo José de Oliveira</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>rodrigo.silva@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdnne07-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Intervenção na caixa D'Água de Olinda</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Natalia</givenname>
+            <familyname locale="pt_BR">Miranda Vieira</familyname>
+            <country>BR</country>
+            <email>mirandavieira@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Gabriela</givenname>
+            <familyname locale="pt_BR">Souto Maior dos Santos</familyname>
+            <country>BR</country>
+            <email>soutomaiordossantos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdnne07-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Tradição do Nordeste brasileiro na obra de três arquitetas</title>
+        <abstract locale="pt_BR">Buscando construir uma história da arquitetura na América Latina mais ampla e diversa, Torre (2002) apontou a ausência da contribuição das mulheres no discurso cultural, especialmente aquelas que trazem juntas as culturas indígena, ibero-americana e africana. Muitas trajetórias de mulheres que atuaram no Nordeste e fizeram dessa região seu campo de pesquisa ainda permanecem ausente das historiografias nacionais. Nordeste foi um conceito inventado para explicar a alteridade brasileira (Albuquerque Jr., 2009), foi o local de destino dos modernistas brasileiros, tal como a missão folclórica de Mário de Andra- de (1938). Lina Bo Bardi percebeu a cultura popular do Nordeste como mais oriental do que ocidental (Pereira, 2008), tal como o sociológo Gilberto Freyre usou o Oriente não como Said (1979), mas para explicar a cultura brasileira (Burke and Pallares-Burke, 2008). Cultura vernacular do Nordeste foi a maté- ria prima utilizada por arquitetas que atuaram na região, Janete Costa e Neide Mota de Azevedo. Migra- ções, gênero e regionalismo têm convergido para explicar o trabalho de arquitetas em busca de espaço no campo profissional (Hynen 2013; Lee e Siddiqi, 2018). Aqui discute-se como as arquitetas Lina, Janete e Neide utilizaram a tradição nativa do Nordeste em suas obras modernas.</abstract>
+        <abstract locale="en_US">Torre (2002) pointed out the absence of women's contribution to cultural discourse, especially those that bring indigenous, Ibero-American and African cultures together. Many trajectories of women who worked in the Northeast and made this region their field of research still remain absent from national historiographies. Northeast was a concept invented to explain Brazilian otherness (Albuquerque Jr., 2009), it was the destination of the Brazilian modernists, as was the folkloric mission of Mário de Andrade (1938). Lina Bo Bardi perceived the popular culture of the Northeast as more Eastern than Western (Pereira, 2008), as sociologist Gilberto Freyre used the Orient not as Said (1979), but to explain Brazilian culture (Burke and Pallares-Burke, 2008). Vernacular culture of the Northeast was the raw material used by architects who worked in the region, Janete Costa and Neide Mota de Azevedo. Migration, gender and regionalism have converged to explain the work of architects in search of space in the professional field (Hynen 2013, Lee and Siddiqi, 2018). Here it is discussed how the architects Lina, Janet and Neide used the native tradition of the Northeast in their modern works.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>gênero</keyword>
+          <keyword>artesanato</keyword>
+          <keyword>migrações, Nordeste</keyword>
+          <keyword>alteridade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>gender</keyword>
+          <keyword>crafts</keyword>
+          <keyword>migrations, Northeast</keyword>
+          <keyword>otherness</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Guilah</givenname>
+            <familyname locale="pt_BR">Naslavsky</familyname>
+            <affiliation locale="pt_BR">DAU-UFPE</affiliation>
+            <country>BR</country>
+            <email>guilahn@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0003-3367-9657</orcid>
+            <biography locale="pt_BR">Professora Associada</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdnne07-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">A produção escrita do arquiteto Roberto Castelo</title>
+        <abstract locale="pt_BR">O arquiteto Roberto Martins Castelo é um dos nomes de maior expressão da arquitetura moderna no Ceará. Apesar de não possuir uma produção de projetos tão extensa, algumas de suas obras são exemplares significativos da produção do período, como a Assembleia Legislativa do Ceará e o Instituto Médico Legal. Além de sua atuação na prática de projetos, Roberto também possui um intenso envolvimento com o ensino e, mais recentemente, com a produção escrita. Tendo em vista o ! desconhecimento desta última e reconhecendo seu valor como acervo de documentação da trajetória do arquiteto, o objetivo deste trabalho é analisar as principais reflexões teóricas trazidas por Roberto em seus textos, de forma a relacioná-los com os outros aspectos de sua atuação. Dessa maneira, será apresentado inicialmente um breve resumo da sua formação na UnB, de forma a contextualizar de onde partem suas principais convicções, além de uma breve descrição de sua atuação prática e docente, para, posteriormente, estruturar a análise de seu pensamento a partir de três eixos principais: ensino, formação social e sistemática teórica. Pretende-se, ao fim, mostrar a importância de sua formação em Brasília na consolidação de suas convicções e pensamento, apontando como estes estão presentes de forma coerente em sua atuação projetual, docente e escrita.</abstract>
+        <abstract locale="en_US">The architect Roberto Martins Castelo is one of the most expressive names of modern architecture in Ceará. Despite not having such an extensive production of projects, some of his works are exemplary examples of the production of the period, such as the Legislative Assembly of Ceará and the Legal Medical Institute. In addition to his design practice, Roberto also has an intense involvement with teaching and, more recently, with written production. The objective of this work is to analyze the main theoretical reflections brought by Roberto in his texts, in order to relate them with the other aspects of his work. In this way, a brief summary of his graduation at UnB will be presented initially, in order to contextualize his main convictions, besides a brief description of its practical and teaching action, and later to structure the analysis of his thinking from three main axes: teaching, social formation and theoretical systematics. In the end, it is intended to show the importance of his formation in Brasilia in consolidating his convictions and thinking, pointing out how these are present in a coherent way on how he proceeds in design, teaching and writing.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna no Ceará</keyword>
+          <keyword>Roberto Castelo</keyword>
+          <keyword>Teoria do arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture in Ceará</keyword>
+          <keyword>Roberto Castelo</keyword>
+          <keyword>Theory of Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Bruno Melo</givenname>
+            <familyname locale="pt_BR">Braga</familyname>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-3140-2195</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo pelo PPGAU-UFC (2017)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Igor Lima</givenname>
+            <familyname locale="pt_BR">Ribeiro</familyname>
+            <affiliation locale="pt_BR">Rede Arquitetos</affiliation>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo pelo PPGAU-UFC (2018)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdnne07-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Um legado do Urbanismo Moderno em São Luís</title>
+        <abstract locale="pt_BR">O presente estudo aborda o projeto do arquiteto Lúcio Costa para um bairro novo que seria construído na capital maranhense na década de 1970, denominado Novo Polo Urbano de São Luís (NPU), hoje quase desconhecido no meio profissional e acadêmico maranhense, apresentando suas características e buscando entender seus conceitos e suas relações com a produção anterior do urbanista. Ao analisar a trajetória profissional do arquiteto, a pesquisa evidencia o contexto cultural de sua atuação e identifica a abordagem, os elementos e características presentes nos projetos de urbanismo do arquiteto para outras cidades e países. Em um segundo momento, o estudo apresenta e analisa as notas e os desenhos técnicos - plantas, elevações e perspectivas do projeto urbanístico do Novo Polo Urbano de São Luís (NPU), com foco nas similaridades, correspondências e inovações da proposta de Lúcio Costa para a área de expansão da cidade em relação aos seus projetos anteriores. Por fim, a pesquisa demonstra o valor do projeto como um legado cultural do modernismo brasileiro para a cidade de São Luís.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Urbanismo moderno</keyword>
+          <keyword>Novo Polo Urbano</keyword>
+          <keyword>Lúcio Costa</keyword>
+          <keyword>São Luís</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Antonio Viana</givenname>
+            <familyname locale="pt_BR">Lopes</familyname>
+            <country>BR</country>
+            <email>jose.lopes@undb.edu.br</email>
+            <biography locale="pt_BR">Mestre em Desenvolvimento Urbano e Regional (UFPE/2004)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Paulo Henrique Correia Silva Sá</givenname>
+            <familyname locale="pt_BR">Vale</familyname>
+            <affiliation locale="pt_BR">UNDB</affiliation>
+            <country>BR</country>
+            <email>phdevale@gmail.com</email>
+            <biography locale="pt_BR">Arquiteto e Urbanista</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

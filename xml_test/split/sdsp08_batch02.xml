@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsp08-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">Acervo do instituto de arquitetos do Brasil – departamento São Paulo (IAB-SP)</title>
+        <subtitle locale="pt_BR">estratégias e desafios de gestão e difusão documental</subtitle>
+        <abstract locale="pt_BR">O Departamento de São Paulo do Instituto de Arquitetos do Brasil (IABsp) constituiu, ao longo de sua história, um valoroso acervo documental. Os recentes esforços da equipe responsável por seu acervo têm reconhecido a importância de sua preservação e, da mesma forma, têm discutido sobre as especificidades das coleções de arquitetura e urbanismo. O presente artigo pretende, a partir do caso do IABsp, apresentar seu acervo e as estratégias empreendidas no âmbito de sua gestão e extroversão, em vias de refletir sobre os desafios colocados a arquitetas, arquitetos e urbanistas pelos acervos de nosso campo disciplinar.</abstract>
+        <abstract locale="en_US">The São Paulo Department of the Instituto de Arquitetos do Brasil (IABsp) constituted, throughout its history, a valuable documentary collection. The recent efforts of the team responsible for its collection have recognized the importance of its preservation and, in the same way, have discussed the specificities of architecture and urbanism collections. This article intends, based on the case of the IABsp, to present its collection and the strategies undertaken within the scope of its management and extroversion, in order to reflect on the challenges posed to architects and urban planners by the collections of our disciplinary field.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio</keyword>
+          <keyword>Acervo de Arquitetura e Urbanismo</keyword>
+          <keyword>Profissão</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Heritage</keyword>
+          <keyword>Architecture and Urbanism Collection</keyword>
+          <keyword>Profession</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sabrina Studart Fontenele</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Allan Pedro dos Santos</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Emerson</givenname>
+            <familyname locale="pt_BR">Fioravante</familyname>
+            <country>BR</country>
+            <email>fioravante@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>71-85</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsp08-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A escrita da historiografia da Arquitetura Moderna através da pesquisa documental em acervo de projetos</title>
+        <subtitle locale="pt_BR">um estudo sobre a Cidade de Ribeirão Preto, e as possibilidades de contribuição</subtitle>
+        <abstract locale="pt_BR">Evidencia a importância da investigação documental, em especial em acervos de projetos arquitetônicos, para a escrita da historiografia da arquitetura através da experiência de pesquisa baseada no acervo do Arquivo Público e Histórico de Ribeirão Preto (APHRP). Traz para o debate projetos aprovados para a construção na cidade do interior paulista nas primeiras décadas do século XX, que mostram elementos Art Déco e de outras correntes em voga que buscavam uma nova linguagem para arquitetura. Mostra através destes projetos como a ornamentação eclética vai dando lugar para as linhas geométricas e a simplificação das fachadas, simultaneamente com o aparecimento de novas técnicas construtivas, como o caso do concreto armado na cidade, nestes anos considerados precoces, precursores ou iniciantes da formação do movimento moderno.</abstract>
+        <abstract locale="en_US">It highlights the importance of documentary research, especially in architectural project collections, for the writing of the historiography of architecture through the research experience based on the collection of the Public and Historical Archive of Ribeirão Preto (APHRP). It brings to the debate projects approved for construction in the city of São Paulo in the first decades of the 20th century, which show elements of Art Déco and other trends in vogue that sought a new language for architecture. It shows through these projects how the eclectic ornamentation gives way to geometric lines and the simplification of the facades, simultaneously with the emergence of new construction techniques, such as the case of reinforced concrete in the city, in these years considered early, precursors or beginners of the formation of the modern movement.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Pesquisa documental</keyword>
+          <keyword>Historiografia da arquitetura</keyword>
+          <keyword>Arquivo Público e Histórico de Ribeirão Preto (APHRP)</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentary research</keyword>
+          <keyword>Historiography of architecture</keyword>
+          <keyword>Public and Historical Archive of Ribeirão Preto (APHRP)</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina Gleria</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>lima@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>86-103</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsp08-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">A verticalização paulistana pelo acervo da FAUUSP</title>
+        <subtitle locale="pt_BR">Uma experiência de pesquisa integrada</subtitle>
+        <abstract locale="pt_BR">Este artigo relata uma experiência de pesquisa sobre o processo de verticalização de São Paulo entre os anos de 1920 a 1957, através da análise da documentação existente nos acervos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP). O objetivo principal é compreender as soluções adotadas e suas relações com as legislações urbanísticas e códigos de obras vigentes através do exame de alguns edifícios verticais paradigmáticos da cidade. A escolha dos edifícios busca, portanto, qualificar o Acervo da FAUUSP enquanto espaço acessível de pesquisa, ensino e extensão fonte primária fundamental a inúmeras pesquisas e interpretações sobre a cidade e sua arquitetura.</abstract>
+        <abstract locale="en_US">This article reports a research experience on the verticalization process of São Paulo between the years 1920 and 1957, through the analysis of existing documentation in the funds of the Faculty of Architecture and Urbanism of the University of São Paulo (FAUUSP). The main objective is to understand the solutions adopted and their relationship with the current urban legislation and building codes through the examination of some paradigmatic vertical buildings in the city. The choice of buildings therefore seeks to qualify the FAUUSP Collection as an accessible space for research, teaching and extension, a fundamental primary source for countless investigations and interpretations of the city and its architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervo FAUUSP</keyword>
+          <keyword>Verticalização</keyword>
+          <keyword>São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>FAUUSP Collection</keyword>
+          <keyword>Verticalization</keyword>
+          <keyword>São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rebeca Guglielmo</givenname>
+            <familyname locale="pt_BR">Santana</familyname>
+            <country>BR</country>
+            <email>santana@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">André Góes Monteiro</givenname>
+            <familyname locale="pt_BR">Antonio</familyname>
+            <country>BR</country>
+            <email>antonio@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ivo Renato</givenname>
+            <familyname locale="pt_BR">Giroto</familyname>
+            <country>BR</country>
+            <email>giroto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-5062-0107</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Helena Aparecida Ayoub</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5145-5900</orcid>
+          </author>
+        </authors>
+        <pages>104-120</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsp08-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Portal digital para difusão dos acervos da FAUUSP</title>
+        <abstract locale="pt_BR">O artigo tem por objetivo apresentar o portal de difusão dos acervos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Desenvolvido com a plataforma Omeka S, a partir do qual se pode fazer o compartilhamento e a colaboração na organização dos dados e das informações organizadas e estruturadas. Como parte da discussão, apresenta o histórico do acervo e discute a importância dos arquivos e coleções de Design e Arquitetura. Apresenta também um tópico especial de metadados, especificamente o Dublin Core, padrão adotado pela FAUUSP. Os resultados são discutidos e as perspectivas para a continuidade da plataforma também são comentadas.</abstract>
+        <abstract locale="en_US">This article aims to present the site for dissemination of the collections of Faculty of Architecture and Urbanism of the University of São Paulo (FAUUSP). Developed with the Omeka S framework from which data and information are organized and structured. As part of the discussion, it summarizes the collections history and discusses the importance of Architecture and Design archives. A special topic of metadata, specifically Dublin Core, which is the standard adopted by FAUUSP. The results are discussed and the perspectives for the continuity of the platform are also commented on.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plataforma digital</keyword>
+          <keyword>Acervos</keyword>
+          <keyword>FAUUSP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Digital platform</keyword>
+          <keyword>Collections</keyword>
+          <keyword>FAUUSP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gisele Ferreira de</givenname>
+            <familyname locale="pt_BR">Brito</familyname>
+            <country>BR</country>
+            <email>brito@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-3721-8068</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eduardo Augusto</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Leandro Manuel Reis</givenname>
+            <familyname locale="pt_BR">Velloso</familyname>
+            <country>BR</country>
+            <email>velloso@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>121-135</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsp08-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Jorge caron</title>
+        <subtitle locale="pt_BR">Uma análise do acervo pessoal do arquiteto</subtitle>
+        <abstract locale="pt_BR">O presente artigo visa apresentar a pesquisa em andamento, realizada no Instituto de Arquitetura e Urbanismo da Universidade de São Paulo, referente ao manuseio, digitalização e criação do acervo digital do arquivo pessoal de Jorge Caron (1936-2000). Arquiteto e Urbanista, designer, cenógrafo, artista plástico e educador, atuou nos seus últimos dez anos de vida como professor do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos. O trabalho a seguir é uma reflexão sobre a pesquisa de acesso e digitalização de seu acervo, cuja finalidade é contribuir para a historiografia da arquitetura moderna, trazendo à luz documentos, obras e pensamentos do arquiteto, ainda pouco difundidos. Além disso, o trabalho incitou algumas questões como o debate entre o acervo físico e digital, fomentado pelo manuseio e digitalização do acervo. De certo modo, a pesquisa insere-se no panorama atual em discussão acerca dos acervos de arquitetura no Brasil.</abstract>
+        <abstract locale="en_US">This article aims to present the research in progress, carried out at the Institute of Architecture and Urbanism of the University of São Paulo, regarding the handling, digitization and creation of a digital collection of the personal archive of Jorge Caron (1936-2000). Architect and Urbanist, he has a versatile profile, working as a designer, set designer, plastic artist and educator. The access and digitization of its collection aims to contribute to the historiography of architecture, bringing to light the works of Jorge Caron. In addition, there are also some debates intrinsic to the research, such as the debate between physical and digital, fostered by the handling and digitization of the collection, and the debate about architectural collections in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Jorge Caron</keyword>
+          <keyword>Acervos de arquitetura</keyword>
+          <keyword>Acervo digital</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Jorge Caron</keyword>
+          <keyword>Architecture collections</keyword>
+          <keyword>Digital collection</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Amanda Saba</givenname>
+            <familyname locale="pt_BR">Ruggiero</familyname>
+            <country>BR</country>
+            <email>ruggiero@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8483-0359</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Yasmin Natália</givenname>
+            <familyname locale="pt_BR">Migliati</familyname>
+            <country>BR</country>
+            <email>migliati@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1846-7832</orcid>
+          </author>
+        </authors>
+        <pages>136-151</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

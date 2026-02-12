@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdnne07-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">O Modernismo sob o sol tropical</title>
+        <abstract locale="pt_BR">Em cidades tropicais quentes e úmidas, as principais estratégias bioclimáticas indicadas são a proteção solar de grandes aberturas e a ventilação natural permanente da edificação. Na cidade de Fortaleza, durante a década de 1970, diversas edificações modernistas se valeram de elementos como o brise-soleil para reduzir ganhos de calor excessivos nos ambientes internos. Além de uma resposta à necessária adaptação do ideário modernista à realidade climática de baixas latitudes, a utilização deste elemento de proteção constituiu recurso plástico para composição de fachadas, sobretudo em edifícios de escritórios, ! onde a aplicação da ventilação natural é restrita. Três edifícios públicos administrativos e referenciais da produção modernista local foram tomados como objeto de estudo. Metodologicamente são utilizadas simulações computacionais, detalhando os dispositivos de proteção solar adotados em cada caso. É analisada a eficácia destes elementos ao longo do ano através de máscaras solares, discutindo-se sua pertinência e a influência de variaveis ambientais no processo de projeto dos autores. Nos resultados evidencia-se a aplicação consciente dos recursos de proteção solar, refutando a mera adequação ao repertório formal vigente, aspecto comum durante o período e revelando um esforço na construção de um panorama regional adaptado à realidade ambiental.</abstract>
+        <abstract locale="en_US">In hot and humid tropical cities, the main bioclimatic strategies are the constant shading of large openings and the permanent natural ventilation of the building. In the city of Fortaleza, during the 1970s, several modernist buildings used elements such as brise-soleil to reduce excessive internal heat gains. In addition to being a response to the necessary adaptation of modernist ideas to the low-latitude climatic reality, the use of this element of protection was a plastic resource for façade composition, especially in office build- ings, where the application of natural ventilation is restricted. Three administrative and referential public buildings of the local modernist production were taken as object of study. Methodologically, computational simulations are used to characterize the performance of such solar protection devices adopted in each case. The effectiveness of these elements throughout the year through solar masks is discussed, as well as their relevance and the influence of environmental variables in the authors' design process. The results show the conscious application of the solar protection resources, refuting the mere adaptation to the current formal repertoire, common aspect during the period and revealing an effort in the construction of a regional panorama adapted to the environmental reality.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura modernista</keyword>
+          <keyword>desempenho térmico</keyword>
+          <keyword>edifícios verticais</keyword>
+          <keyword>Fortaleza</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modernist architecture</keyword>
+          <keyword>Thermal performance</keyword>
+          <keyword>Vertical buildings</keyword>
+          <keyword>Fortaleza</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renan</givenname>
+            <familyname locale="pt_BR">Cid Varela Leite</familyname>
+            <affiliation locale="pt_BR">DAU-UFC</affiliation>
+            <country>BR</country>
+            <email>renancid@bol.com.br</email>
+            <biography locale="pt_BR">Doutor pela FAUUSP (2015)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Bruno</givenname>
+            <familyname locale="pt_BR">de Paiva Y Raviolo</familyname>
+            <affiliation locale="pt_BR">DAU-UFC</affiliation>
+            <country>BR</country>
+            <email>bruno.raviolo@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9080-7702</orcid>
+            <biography locale="pt_BR">Arquiteto</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ademir</givenname>
+            <familyname locale="pt_BR">de Oliveira Homem Filho</familyname>
+            <affiliation locale="pt_BR">Estácio-CE</affiliation>
+            <country>BR</country>
+            <email>ademiroliveira.arq@gmail.com</email>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Bruno Melo</givenname>
+            <familyname locale="pt_BR">Braga</familyname>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-3140-2195</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo pelo PPGAU-UFC (2017)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdnne07-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Dois modernos na Amazônia</title>
+        <abstract locale="pt_BR">O artigo propõe-se a observar a trajetória profissional e a relação da produção arquitetônica de dois arquitetos modernos: Cléon Furtado em São Luís do Maranhão e Alcyr Meira em Belém do Pará, tomando como ponto de partida a trajetória destes profissionais e a análise de suas residências modernistas, em suas similaridades e modernidades, analisando os elementos de fachada e escadas internas de suas casas, que dialogam e expressam peculiaridades. Analisaremos ainda uma obra institucional de cada arquiteto, avaliando sua obra em outra dimensão. Os arquitetos são protagonistas da rede da modernidade amazônica produzindo cada um em seus respectivos Estados obras residências e institucionais que representam a modernidade de cada cidade. Ressaltamos que São Luís e Belém guardam conexões históricas, desde a Companhia Grão-Pará e Maranhão, no período do apogeu colonial e também buscamos, no âmbito da rede amazônica, resgatar novas conexões pesquisando estas equivalências nas obras desses dois importantes arquitetos e desenhando a tessitura de uma rede de profissionais que disseminaram a arquitetura moderna na região. A metodologia da pesquisa será de análise comparativa entre as obras, através de fotografias, jornais e depoimentos dos arquitetos e o referencial teórico será construído na contextualização do moderno na Amazônia e nordeste em autores como em Segawa (2014), Bruand (2016), Cavalcanti (2001) e Segre (2013). O artigo propõe-se a compreender as trajetórias e valorizar a obra desses autores do moderno em suas cidades.</abstract>
+        <abstract locale="en_US">The article proposes to observe the professional trajectory and the relation of the architectural production of two modern architects: Cléon Furtado in São Luís of Maranhão and Alcyr Meira in Belém of Pará, taking as a start the trajectory of these professionals and the analysis of their Modernist residences, in their similarities and modernities, analyzing the facade elements and internal staircases of their houses, which dialogue and express peculiarities. We will also analyze an institutional work of each architect, evaluating his work in another dimension. The architects are protagonists of the network of Amazonian modernity producing each one in their respective States residential and institutional works that represent the modernity of each city. We emphasize that São Luís and Belém maintain historical connections, since the Grão-Pará and Maranhão Company, during the period of the colonial apogee, and we also seek, within the Amazonian network, to rescue new connections by researching these equivalences in the works of these two important architects and drawing the texture of a network of professionals who disseminated modern architecture in the region. The methodology of the research will be made by comparative analysis among the works, through photographs, newspapers and depositions of the architects and the theoretical reference will be constructed in the contextualization of modern in the Amazon and northeast in authors like Segawa (2014), Bruand (2016), Cavalcanti (2001) and Segre (2013). The article proposes to understand the trajectories and to value the work of these authors of the modern in their cities.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna em São Luís e Belém</keyword>
+          <keyword>residências modernistas</keyword>
+          <keyword>Alcyr Meira e Cléon Furtado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture in São Luís and Belém</keyword>
+          <keyword>modernist residences</keyword>
+          <keyword>Alcyr Meira and Cléon Furtado !3</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Grete Soares</givenname>
+            <familyname locale="pt_BR">Pflueger</familyname>
+            <country>BR</country>
+            <email>grete@elo.com</email>
+            <orcid>https://orcid.org/0000-0002-9376-8689</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Livia</givenname>
+            <familyname locale="pt_BR">Furtado</familyname>
+            <affiliation locale="pt_BR">UEMA</affiliation>
+            <country>BR</country>
+            <email>furtado@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdnne07-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">A documentação da Arquitetura Moderna</title>
+        <abstract locale="pt_BR">Após o declínio da economia gomífera, a cidade de Belém enfrentou um período de incerteza econômica. Porém, uma nova conjuntura sociocultural possibilitou a ascensão de um novo grupo social cujo ideário de renovação demandou novas soluções arquitetônicas e urbanísticas. A pesquisa acerca do espaço construído amazônico viabiliza a documentação de trajetórias profissionais, cuja compilação e sistematização contribuem para a construção de um quadro teórico-conceitual pertinente, o qual permite análises tipológicas, identificar referências projetuais, caracterizar relações com o entorno, técnicas e tecnologias construtivas e quando amplificado ao contexto sócio histórico, garante a reconstrução da memória, da trajetória habitacional, da evolução urbana, social e cultural do lugar e relações entre o usuário e o espaço. Diante disso, ressalta-se a importância da documentação da arquitetura residencial moderna, uma vez que esta representa os ideais de uma época. Entretanto, a ideia de desenvolver uma relação patrimonial com o edifício tem sido descartada frente à necessidade de renovação e adaptação dos espaços urbanos à realidade contemporânea. O artigo visa desenvolver um estudo de caso sobre a residência Benedito Mutran, de autoria do engenheiro e arquiteto Camilo Porto de Oliveira, a partir dos mecanismos de documentação como a recuperação de projetos, o levantamento de dados, os redesenhos e a comparação com outras obras, a fim de recuperar a memória das residências modernistas desaparecidas do tecido urbano e da vida social das cidades, as quais não receberam a devida proteção e não puderam permanecer como testemunhos de sua importância histórica.</abstract>
+        <abstract locale="en_US">After the decline of the gummy economy, the city of Belém faced a period of economic uncertainty. However, a new sociocultural conjuncture made possible the rise of a new social class whose ideal of renovation demanded new architectonic and urbanistic solutions. The research on the Amazonian constructed space enables the documentation of professional track, whose compilation and systematisation contribute to the construction of a pertinent theoretical conceptual picture, which allows typological analyses, identifying project references, characterisation of the relations with the environment, constructive techniques and technologies and when extended to the social and historic context, ensures memory rebuilding, habitational track, the urban, social and cultural evolution of the place and the relations between user and the space. Therefore, the importance of documenting the modern residential architecture is highlighted since this represents the ideals of a time period. However, the notion ! of developing a patrimonial relationship with the building has been rejected in face of the need of renovating and adapting the urban spaces to the contemporary reality. The article aims to develop a case study about the residency of Benedito Mutran, authored by the engineer and architect Camilo Porto de Oliveira, from the documentation tools such as recovering projects, data collection, redesigns and comparing to other constructions, in order to recover the memory of modernist residencies that have disappeared in the urban scenery and the social life of cities, which have not received its due protection and could not remain as evidence of its historical importance. Key-words: Belém; Camilo Porto; Modern Architecture; Documentation. !</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Belém</keyword>
+          <keyword>Camilo Porto</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Documentação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Celma</givenname>
+            <familyname locale="pt_BR">Chaves</familyname>
+            <affiliation locale="pt_BR">FAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>celma_chaves@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3437-3844</orcid>
+            <biography locale="pt_BR">Doutora em Teoria e História da Arquitetura (2005)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Glenda</givenname>
+            <familyname locale="pt_BR">Souza</familyname>
+            <affiliation locale="pt_BR">FAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>glenda.qba@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Jacqueline</givenname>
+            <familyname locale="pt_BR">Romaro</familyname>
+            <affiliation locale="pt_BR">FAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>jacquelineromaro@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5478-0370</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdnne07-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">(Re)construindo um protagonismo</title>
+        <abstract locale="pt_BR">Este artigo é parte de uma pesquisa mais ampla sobre a invisibilidade das mulheres na arquitetura, enfo- cando de modo particular a arquiteta Nícia Paes Bormann, com o intuito de ressaltar o valor e a signifi- cância desta protagonista na história do modernismo cearense. Nícia Bormann teve uma atuação relevan- te como docente, arquiteta e urbanista, paisagista e artista plástica, ainda que as questões de gênero te- nham, supostamente, ofuscado seu nome diante das atividades que desenvolveu. Neste contexto, o estudo tem como objetivo analisar as diferentes fases da sua trajetória profissional, que se divide em quatro pe- ríodos, desde o início da sua formação profissional até o momento atual. Na pesquisa, pretende-se evi- denciar suas influências, referências e dificuldades em um contexto de hegemonia masculina, buscando, dessa forma, rever o papel feminino no âmbito da arquitetura moderna do Ceará. A relevância do artigo se afirma na necessidade da compreensão de uma visão distinta para a historiografia da arquitetura cearense. A metodologia será pautada, inicialmente, na revisão bibliográfica sobre o tema, assim como no levan- tamento de dados alcançados por meio de entrevistas e de pesquisas documentais.</abstract>
+        <abstract locale="en_US">This article is a part of a more detailed series on the invisibility of women in architecture, in particular the architect Nícia Paes Bormann, with the intention of highlighting the bravery and significance of this pro- tagonist in the history of modernism in Ceará. Nícia Bormann had a relevant participation as a teacher, architect and town planner, landscape artist and plastic artist, and was also responsible for gender issues, having previously worked as a leader in her activities. This context, the study is to the different stages of his professional trajectory, that has divided in four periods, from the early activities in the early current. In the search, it is intended to evidence its influences, to refer to and change in the context of masculine he- gemony, seeking, in this way, to review the feminine role in the space of the modern architecture of Cea- rá. The relevance of the work is the understanding of the broad understanding of the history of Ceará ar- chitecture. The methodology will be applied, initially, in the bibliographic review on the subject, as well as in the collection of data obtained by means of research and documentary research.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Trajetória</keyword>
+          <keyword>Nícia Paes Bormann</keyword>
+          <keyword>Gênero</keyword>
+          <keyword>Feminismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Trajectory</keyword>
+          <keyword>Nance Paes Bormann</keyword>
+          <keyword>Genre</keyword>
+          <keyword>Feminism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Érica</givenname>
+            <familyname locale="pt_BR">De Barros Martins</familyname>
+            <country>BR</country>
+            <email>ericamartins@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Beatriz Helena Nogueira</givenname>
+            <familyname locale="pt_BR">Diógenes</familyname>
+            <country>BR</country>
+            <email>bhdiogenes@secrel.com.br</email>
+            <orcid>https://orcid.org/0000-0003-4305-5485</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdnne07-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">A importância da documentação para o estudo da conservação</title>
+        <abstract locale="pt_BR">O estudo a ser apresentado no evento está inserido no eixo temático Trajetórias Profissionais e Documentação e tem como objeto a análise crítica da relação entre a documentação do projeto arquitetônico e sua construção, tomando como referência a residência Manoel Damião de Araújo, projetada nos anos de 1960, por Tertuliano Dionísio, localizada na Av. Pres. Getúlio Vargas, bairro da Prata na cidade de Campina Grande, agreste paraibano. O Objetivo é comparar o projeto original/ documentação com o que foi de fato construído. Justifica-se devido a constatar-se que o material de projeto encontrado nos arquivos não é compatível com o que foi construído, dando origem ao questionamento norteador: o porquê. Tal pesquisa faz parte do grupo de investigação Arquitetura e Lugar cadastrado na UFCG (Universidade Federal de Campina Grande) e CNPq que produz estudos sobre o patrimônio cultural local em colaboração com a disciplina de Teoria da História da Arquitetura e Urbanismo que tem como eixo temático o estilo moderno. A metodologia que respalda esse artigo se baseia nos estudos da análise arquitetônica elaborada por ROVIRA E GÁSTON (2007) e SERRA (2006) tendo como referencial teórico para sua conceituação autores como PIÑON (2006), FRAMPTON (1995), SEGAWA (1997), ECO (1995) e AFONSO (2015).</abstract>
+        <abstract locale="en_US">The study to be presented at the event is inserted in the thematic axis Professional Trajectories and Documentation and has as object the critical analysis of the relationship between the documentation of the architectural project and its construction, taking as reference the Manoel Damião de Araújo residence, projected in the 1960s , by Tertuliano Dionísio, located at the Avenue Pres. Getúlio Vargas, Prata's neighbourhood in the city of Campina Grande, agreste Paraibano. The goal is to compare the original design/documentation with what was actually built. It is justified due to the fact that the project material found in the archives is not compatible with what was constructed, giving rise to the guiding question: the cause. This research is part of the research group Architecture and Place registered in the UFCG (Federal University of Campina Grande) and CNPq that produces studies about the local cultural heritage in collaboration with the discipline of Theory of History of Architecture and Urbanism that has as its thematic axis the modern style. The methodology that supports this article is based on the studies of the architectural analysis elaborated by ROVIRA AND GÁSTON (2007) and SERRA (2006), having as theoretical reference for its conceptualization authors such as PIÑON (2006), FRAMPTON (1995), SEGAWA (1997), ECO (1995) and AFONSO (2015). !</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Projeto Arquitetônico</keyword>
+          <keyword>Patrimônio</keyword>
+          <keyword>Preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Architectural project</keyword>
+          <keyword>Patrimony</keyword>
+          <keyword>Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria</givenname>
+            <familyname locale="pt_BR">Sândeny de Lima</familyname>
+            <affiliation locale="pt_BR">UAEC-UFCG</affiliation>
+            <country>BR</country>
+            <email>msamlima@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8773-0898</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Sabrynna</givenname>
+            <familyname locale="pt_BR">Gabryelly Sales Barbosa</familyname>
+            <affiliation locale="pt_BR">UAEC-UFCG</affiliation>
+            <country>BR</country>
+            <email>sabrynnagsb@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5962-8212</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

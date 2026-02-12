@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdnne07-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">A reutilização da orla taumanan, Boa Vista</title>
+        <abstract locale="pt_BR">O ponto principal que originou a cidade de Boa Vista está na margem do Rio Branco, e em sua composição paisagística atual destacam-se: o centro comercial, massa vegetal em predominância, algumas edificações e o acervo histórico em forma de patrimônio edificado. Da gênese da intervenção humana até o final do século XX, o uso e ocupação do solo da região caracterizava-se num porto para pequenas embarcações, balneários e comércio, criando conexão com a expansão da malha urbana. O ! governo municipal empreendeu diversas obras, a fim de modernizar a região. Então, em 2004 foi inaugurando assim o monumento Orla Taumanan, dando uma nova roupagem, com oferta de serviços e produtos que antes não existiam. Este trabalho tem como objetivo descrever o processo evolutivo da paisagem da Orla Taumanan. Para tanto, será aplicado um estudo documental e bibliográfico. Percebe-se que a Orla Taumanan modificou a utilização do espaço, mas conseguiu preservar aspectos atrativos, principalmente pela relação cultural com os demais elementos do entorno. A criação da Orla Taumanan (re)utilizou-se do elemento principal: água, criando um contexto novo de olhar neste recorte da cidade, mas desconsiderou a sua principal função que é preserva´-la para as atuais e futuras gerações.</abstract>
+        <abstract locale="en_US">The main point that originated the city of Boa Vista is on the bank of the Rio Branco, and in its current landscape composition stand out: the commercial center, predominantly vegetal mass, some buildings and the historical heritage in the form of built heritage. From the genesis of human intervention until the end of the twentieth century, the use and occupation of the region's soil was characterized by a port for small boats, seaside resorts and commerce, creating a connection with the expansion of the urban network. The municipal government undertook several works in order to modernize the region, so in 2004 the Orla Taumanan monument was inaugurated, giving a new look with the offer of services and products that did not exist before. This work aims to describe the evolutionary process of the Orla Taumanan landscape. For this purpose a documentary and bibliographic study will be applied. It is noticed that the Orla Taumanan modified the use of the space, but managed to preserve attractive aspects, mainly by the cultural relation with the other elements of the surroundings. The creation of the Orla Taumanan (re) used the main element: water, creating a new context of looking at this cut of the city, but disregarded its main function which is to preserve it for the present and future generations.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Reutilização</keyword>
+          <keyword>Orla Taumanan</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Reuse</keyword>
+          <keyword>Orla Taumanan</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jefferson</givenname>
+            <familyname locale="pt_BR">Eduardo da Silva Morales</familyname>
+            <country>BR</country>
+            <email>arq.jeffmorales@gmail.com</email>
+            <biography locale="pt_BR">Mestrando em Recursos Naturais pelo Programa em Recursos Naturais – UFRR</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Georgia</givenname>
+            <familyname locale="pt_BR">Patricia da Silva Ferko</familyname>
+            <affiliation locale="pt_BR">UFRR</affiliation>
+            <country>BR</country>
+            <email>georgia.ferko@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-0020-6557</orcid>
+            <biography locale="pt_BR">Doutora pela Universidade Federal do Maranhão</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Graciete</givenname>
+            <familyname locale="pt_BR">Guerra da Costa</familyname>
+            <affiliation locale="pt_BR">FAU-UnB</affiliation>
+            <country>BR</country>
+            <email>graciete.costa@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0003-2033-983X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdnne07-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Critérios de intervenção no Patrimônio Moderno</title>
+        <abstract locale="pt_BR">A preservação do patrimônio moderno é um tema ainda pouco explorado no Brasil. A obsolescência de alguns dos edifícios deste período é cada vez mais constante e tem ocasionado intervenções que nem ! sempre respeitam os projetos originais, descaracterizando ou demolindo exemplares modernos significa- tivos. Partindo do entendimento de que as mudanças são necessárias para manter a natureza utilitária des- tas edificações, este trabalho tem como objetivo investigar os critérios específicos de intervenção no pa- trimônio moderno, a fim de refletir sobre alternativas de como realizar tais alterações com êxito e quali- dade. Para isto, será apresentado, inicialmente, um breve histórico sobre o estado atual da preservação do patrimônio moderno, justificando a importância da discussão. Em seguida, serão identificadas as princi- pais especificidades da intervenção em edifícios deste período, destacando como atributos de flexibilida- de presentes em boa parte dessa produção podem auxiliar nesse sentido. Por fim, será discutido como estas reflexões teóricas no âmbito da pesquisa podem repercutir em ações no ensino e prática projetuais.</abstract>
+        <abstract locale="en_US">The preservation of the modern patrimony is a subject still little explored in Brazil. The obsolescence of some of the buildings of this period is more and more constant and has occasioned interventions that do not always respect the original designs, characterizing or demolishing significant modern examples. Based on the understanding that changes are necessary to maintain the utilitarian nature of these buildings, this work aims to investigate the specific intervention criteria in modern heritage, in order to reflect on alternatives of how to make such changes with success and quality. For this, a brief history will be presented on the current state of preservation of the modern patrimony, justifying the importance of the discussion. Next, the main specificities of the intervention in buildings of this period will be identified, highlighting how flexibility attributes present in a good part of this production can help in this sense. Finally, it will be discussed how these theoretical reflections in the scope of the research can have repercussions on actions in the teaching and practice of design.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna (CE)</keyword>
+          <keyword>Preservação</keyword>
+          <keyword>Flexibilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture (CE)</keyword>
+          <keyword>Preservation</keyword>
+          <keyword>Flexibility</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Bruno Melo</givenname>
+            <familyname locale="pt_BR">Braga</familyname>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-3140-2195</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo pelo PPGAU-UFC (2017)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Bruno Perdigão de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <affiliation locale="pt_BR">Rede Arquitetos</affiliation>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo pelo PPGAU-UFC (2018)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Luiz</givenname>
+            <familyname locale="pt_BR">Mattoso Cattony</familyname>
+            <affiliation locale="pt_BR">DAU-UFC</affiliation>
+            <country>BR</country>
+            <email>luizcattony@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7122-3063</orcid>
+            <biography locale="pt_BR">Mestrando Arquitetura e Urbanismo pelo PPGAU-UFC (2017-atual)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdnne07-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">A Arquitetura de duda</title>
+        <abstract locale="pt_BR">Este artigo tem como objeto de estudo, o documentário cinematográfico - em desenvolvimento -: “A Arquitetura de Duda”. A obra trata da trajetória e legado profissional do arquiteto autodidata e engenheiro de formação, Geraldino Duda, na cidade de Campina Grande – Paraíba. O personagem foi um dos ! principais responsáveis pela inserção e propagação da arquitetura moderna na cidade. O objetivo dodeste trabalho é apresentar o uso da cinematografia, como ferramenta de documentação da arquitetura moderna. Para este fim, o artigo abordará questões teóricas quanto à documentação e valorização do patrimônio moderno, expondo o projeto do filme documentário, que utiliza como fontes o acervo do Grupo de Pesquisa Arquitetura e Lugar, o acervo pessoal de Geraldino Duda e também conta com entrevistas. Como justificativa para trazer à tona o tema em pauta, pode-se apresentar o enquadramento do trabalho ao eixo temático “Trajetórias Profissionais e Documentação”, proposto pelo evento. Sabe-se que existem muitas pesquisas e ricos acervos, que em sua maioria, não conseguem extrapolar as fronteiras da academia e chegar à comunidade. Este trabalho visa então, apresentar o meio audiovisual como ferramenta de documentação e propagação do conhecimento sobre a arquitetura moderna.</abstract>
+        <abstract locale="en_US">This article has as object of study, the cinematographic documentary - in development -: &quot;The Architecture of Duda&quot;. The work deals with the trajectory and professional legacy of the self - taught architect and training engineer, Geraldino Duda, in the city of Campina Grande - Paraíba. The character was one of the main responsible for the insertion and propagation of the modern architecture in the city. The objective of this work is to present the use of cinematography as a tool for documentation of modern architecture. To this end, the article will address theoretical questions regarding the documentation and valuation of modern heritage, exposing the project of the documentary film, which uses as sources the collection of the Research Group Architecture and Place, the personal collection of Geraldino Duda and also has interviews . As a justification for bringing up the theme, the framework of the work can be presented to the thematic axis &quot;Professional Trajectories and Documentation&quot;, proposed by the event. It is known that there are many researches and rich collections, that for the most part, can not extrapolate the borders of the academy and reach the community. This work aims to present the audiovisual medium as a tool for documentation and propagation of knowledge about modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Documentário</keyword>
+          <keyword>Geraldino Duda</keyword>
+          <keyword>cinematografia</keyword>
+          <keyword>documentação</keyword>
+          <keyword>arquitetura moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentary</keyword>
+          <keyword>Geraldino Duda</keyword>
+          <keyword>cinematography</keyword>
+          <keyword>documentation</keyword>
+          <keyword>modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Camilla</givenname>
+            <familyname locale="pt_BR">Thais de Meneses Landim</familyname>
+            <affiliation locale="pt_BR">DAU-UFCG</affiliation>
+            <country>BR</country>
+            <email>camilla.tml@gmail.com</email>
+            <biography locale="pt_BR">Arquiteta e Urbanista</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ítalo</givenname>
+            <familyname locale="pt_BR">Tavares de Araújo Faria</familyname>
+            <affiliation locale="pt_BR">Facisa</affiliation>
+            <country>BR</country>
+            <email>arquiteto.italotavares@hotmail.com</email>
+            <biography locale="pt_BR">Arquiteto e Urbanista</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Professora</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdnne07-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Possibilidades e limitações na aplicação da lei de assistência técnica</title>
+        <abstract locale="pt_BR">A Lei de Assistência Técnica à Habitação de Interesse Social (ATHIS) tem por objetivo democratizar o serviço do profissional técnico qualificado para a manutenção e ou construção de habitação de interesse social. Sua existência ratifica o artigo 6º da Constituição Federal de 1988, que descreve o acesso à moradia em face aos direitos sociais. Neste sentido, o projeto de extensão denominado “Habitação no Centro Histórico: assistência técnica para proprietários de residências na área central de João Pessoa” visa investigar em nível acadêmico, os benefícios da referida lei. Para tal finalidade, foi escolhido como objeto de estudo, e ensaio de aplicabilidade da referida lei, o edifício Presidente João Pessoa (1957) – popularmente conhecido como “18 andares”. Entende-se que, como o instrumento está em fase experimental, este se apresenta como possível ampliação das competências dos arquitetos e urbanistas no âmbito da reforma e construção. Este trabalho também se dispõe a potencializar as discussões em torno do déficit de moradia atrelados a eficiência técnica, na busca de uma possível fixação de famílias nos centros históricos providos de infraestrutura e serviços. Assim, buscou-se analisar a aplicabilidade da lei de assistência em edificações multifamiliares em altura, apontando as potencialidades e limitações desta, quando empregada em um bem tombado pelas instâncias federativas.</abstract>
+        <abstract locale="en_US">The aim of the Law on Technical Assistance to Social Housing (ATHIS) is to democratize the technical assistance service for the maintenance and construction of a housing of social interest. Its existence ratifies Article 6 of the Federal Constitution of 1988, which addresses access to housing in the face of social rights. This time, or project of extent denominated &quot;Housing in the Historical Center&quot;, aims to designate a program of studies of modern dwellings. For that purpose, the Presidente João Pessoa Building (1957) - popularly known as &quot;18 floors&quot; was elected as object of study, and law enforcement application test. It is understood, as the instrument is in the experimental phase, this presents itself as a possible extension of the skills of architects and urban planners in the scope of the reform and construction. This work has also strengthened as discussions around the housing deficit, with emphasis on search techniques for approaches in centers and services of infrastructure and services. Thus, it was sought an application of the assistance law in several multifamily forms in height, highlighted as potentialities and the benefits of this, when employed in a service listed by the federative bodies.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Lei de Assistência Técnica</keyword>
+          <keyword>Habitação</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Technical Assistance Law</keyword>
+          <keyword>Housing</keyword>
+          <keyword>Modern Heritage</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Almeida</givenname>
+            <familyname locale="pt_BR">de Oliveira, Gabriella</familyname>
+            <affiliation locale="pt_BR">UNIPÊ</affiliation>
+            <country>BR</country>
+            <email>gabriellaaoliveira@outlook.com.br</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carvalho</givenname>
+            <familyname locale="pt_BR">Lopes, Maria Luisa</familyname>
+            <affiliation locale="pt_BR">UNIPÊ</affiliation>
+            <country>BR</country>
+            <email>luisa.arq@outlook.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Diniz</givenname>
+            <familyname locale="pt_BR">de Almeida, Arthur</familyname>
+            <affiliation locale="pt_BR">UNIPÊ</affiliation>
+            <country>BR</country>
+            <email>a.arthurdiniz@gmail.com</email>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Padula</givenname>
+            <familyname locale="pt_BR">Kishimoto,</familyname>
+            <affiliation locale="pt_BR">MP-IPHAN</affiliation>
+            <country>BR</country>
+            <email>deborah.kishimoto@gmail.com</email>
+            <biography locale="pt_BR">Mestra em Preservação do Patrimônio Cultural</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdnne07-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">Cultura popular no Movimento Moderno</title>
+        <abstract locale="pt_BR">! O movimento moderno brasileiro tem como característica o modo singular em que observa a cultura e história nacional. A arquiteta Lina Bo Bardi, influenciada pelos anos que viveu na Bahia em conjunto com diversos intelectuais de esquerda, transcende este olhar ao aplicá-lo em seus projetos multidisciplinares. A síntese de seu pensamento pode ser observada no projeto do Solar do Unhão, arquitetura restaurada que abrigaria o Museu de Arte Popular e a Escola de Desenho Industrial e Artesanato, tendo por intenção expor a arte popular de modo a afastá-la do conceito de folclore e uní-la à tradição nacional com o ensino de design na academia. Além do programa do museu, o próprio projeto de restauração evidencia a coerência entre as escolhas e partidos da arquiteta moderna com o seu pensamento sobre o popular, o que torna-se caráter identitário em suas obras posteriores à sua vivência no nordeste brasileiro. Assim, o Solar do Unhão transparece a convicção de Lina Bardi em acreditar na transdisciplinaridade cultural entre o moderno e o popular: seja em arquitetura, preservação e restauro, desenho industrial e/ou museografia.</abstract>
+        <abstract locale="en_US">The brazilian modern movement has as a characteristic the unique way with which it observes the national culture and history. The architect Lina Bo Bard, influenced by the years when she lived in Bahia, alongside different left-wing intellectuals, transcends this look by applying it in her multidisciplinary projects. The synthesis of her thoughts can be observed on her Solar do Unhão project, where would be situated the Popular Art Museum and the Industrial Design and Crafts School whose intentions were to expose popular art in way that diverges from Folklore and unites national tradition with academic design teaching. Besides its program, the restoration project itself evidences that her choices and architectural concepts were coherent with her thoughts about popular culture. That said, Solar do Unhão shows the relationship that the architect maintained between modern and popular in various disciplines like architecture, restoration, industrial design and museography.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>movimento moderno</keyword>
+          <keyword>cultura popular</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>modern movement</keyword>
+          <keyword>popular culture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Giesse</givenname>
+            <familyname locale="pt_BR">Monteiro Alves de Andrade</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>giesseandrade@gmail.com</email>
+            <orcid>https://orcid.org/0009-0008-6847-5965</orcid>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Danielle</givenname>
+            <familyname locale="pt_BR">Alves Lessio</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>danielle.lessio@gmail.com</email>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

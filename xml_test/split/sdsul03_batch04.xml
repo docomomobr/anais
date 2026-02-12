@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul03" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul03</id>
+  <description locale="pt_BR">3º Seminário Docomomo Sul: anais: madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani, Sérgio Marques. Porto Alegre: PROPAR-UFRGS, 2010. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/. ISBN 978-85-60188-11-6</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>3</number>
+    <year>2010</year>
+    <title locale="pt_BR">3º Seminário Docomomo Sul, Porto Alegre, 2010</title>
+  </issue_identification>
+  <date_published>2010-11-08</date_published>
+  <last_modified>2010-11-08</last_modified>
+  <sections>
+    <section ref="SEC22-sdsul03" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">22</id>
+      <abbrev locale="pt_BR">SEC22-sdsul03</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsul03-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Madeira — matéria — memória</title>
+        <abstract locale="pt_BR">O Museu das Missões, que completa 70 anos, foi concebido sobre o frenesi dos primeiros impulsos modernos da arquitetura brasileira. O sítio em que se instala data do século XVII, ancianidade denunciada pela sofisticação da cantaria em grés das ruínas da Igreja de São Miguel. Inventividade, erudição e sensibilidade balizam a proposta de Lucio Costa para esta obra e o que traz de instigante é a soberba conciliação entre a inovação moderna e a tradicional arquitetura luso-brasileira. A fusão de elementos remanescentes dos sítios arqueológicos missioneiros à nova obra provoca ambigüidade na sua leitura. Tal multiplicidade de significados conexos e complementares é atribuível não somente ao resgate da tipologia arquitetônica bem como às peças que são como que reintroduzidas a um simulacro de sua origem. Este estudo propõe refletir sobre a materialidade desta obra e a presença dos elementos em madeira, como a reutilização do consolo original do antigo Colégio de São Luis e de suas cópias, que garantem a acomodação da memória sobre a nova obra. A madeira como material nativo primordial será aqui o elo entre outras tentativas anteriores do próprio autor de resgatar o aprendizado luso-brasileiro e incorporar a fatura tradicional ao insistir na utilização de elementos construtivos tradicionais como possibilidade de estabelecer uma continuidade que derive na plena modernidade.</abstract>
+        <abstract locale="en_US">The Museum of the Missions to complete 70 years was built on the frenzy of the first impulses of modern Brazilian architecture. The site where you install date of the seventeenth century, old age denounced by the sophistication of the sandstone masonry of the ruins of St. Michael's Church. Inventivety, erudition and sensitivity guiding proposal by Costa for this work and what is provocative is the pride of reconciling modern innovation and traditional luso-brazilian architecture. The fusion of the remaining elements of the archaeological sites to the new work causes ambiguity in the reading. This multiplicity of meanings related and complementary is attributable not only to the rescue of the architectural style as well as pieces that are like that returned to a semblance of its origin. This study proposes a reflection on the materiality of this work and the presence of wooden elements, such as the reuse of the original console from the old College of São Luis and its copies to ensure the accommodation of memory on the new work. The native wood as primary will be here the link between other previous attempts to rescue the author's own learning luso-brazilian and incorporate traditional bill by insisting on the use of traditional building elements like the possibility of establishing a continuity that derives the full modernity.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura de Lucio Costa</keyword>
+          <keyword>Museu das Missões</keyword>
+          <keyword>matéria e modernidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Lucio Costa architecture</keyword>
+          <keyword>the Missions Museum</keyword>
+          <keyword>substance and modernity</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cleusa</givenname>
+            <familyname locale="pt_BR">de Castro</familyname>
+            <affiliation locale="pt_BR">UFPR</affiliation>
+            <country>BR</country>
+            <email>cleusadecastro@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-9859-7882</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsul03-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Arquitetura Moderna e Madeira nos ginásios de icaro de Castro Mello</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Joana Mello de Carvalho e</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">Escola da Cidade</affiliation>
+            <country>BR</country>
+            <email>joana-mello@uol.com.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsul03-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Ordens tectônicas no palácio do congresso nacional</title>
+        <abstract locale="pt_BR">Este trabalho faz parte do conjunto de pesquisas realizado no âmbito do Plano de Documentação e Conservação da Câmara dos Deputados, levado a cabo pelos arquitetos de seu Departamento Técnico, com vistas a subsidiar ações de preservação do Palácio do Congresso Nacional e seus anexos. Ordem tectônica, etimologicamente, diz respeito não à construção de edifícios no sentido lato. Trata-se de uma ordem carpinteira específica, de supostos templos originais de madeira que constituiriam os arquétipos das ordens clássicas greco-romanas, relacionando a idéia de ordem arquitetônica à concepção estrutural e plástica das edificações. Fazem parte desta linhagem não apenas os chamados racionalistas clássicos do século XIX, como Auguste Choisy, como também arquitetos-pensadores como Auguste Perret e Mies van der Rohe. No Brasil, o momento mais significativo rumo a uma leitura moderna desta corrente de pensamento talvez tenha ocorrido nos palácios de Brasília, da década de 1950. O caso particular do Palácio do Congresso Nacional apresenta especial interesse nesse sentido, pois é composto de ao menos três estratégias estruturais independentes, mas ao fim e ao cabo relacionadas justamente por uma matriz tectônica – ou carpinteira – comum, que ao mesmo tempo constituem vivos retratos do estágio de desenvolvimento tecnológico de nosso país em meados do século XX. Primeiramente, temos as torres anexas, executadas com pilares e vigas de aço importadas dos Estados Unidos e montadas pela mão-de-obra local. Se a estrutura – conceitualmente próxima à estrutura de madeira tradicional – não é aparente na fachada, a ordem da caixilharia reflete as estritas ordenação e modulação internas. Na base horizontal, por outro lado, o generoso módulo estrutural de 10mX15m entre pilares de seção elíptica está aparente interna e externamente numa grande colunata de 200m de extensão, ordenando o edifício de modo claro. As cúpulas de dupla curvatura, lisas e sem estrutura marcada, aparentam fugir a esta ordem estruturante. Mas o estudo das fotos e desenhos da fôrmas de madeira construídas para sua execução pela Companhia Construtora Nacional revela-nos que mesmo estas formas puras tiveram por base uma estrita comensurabilidade, uma ordem carpinteira original, por assim dizer, que nos revela novos significados e novas leituras possíveis.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Brasileira</keyword>
+          <keyword>Palácio do Congresso Nacional</keyword>
+          <keyword>Câmara dos Deputados</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Danilo Matoso</givenname>
+            <familyname locale="pt_BR">Macedo</familyname>
+            <affiliation locale="pt_BR">Câmara dos Deputados</affiliation>
+            <country>BR</country>
+            <email>danilo.macedo@camara.gov.br</email>
+            <orcid>https://orcid.org/0009-0008-4670-9812</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Elcio Gomes da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">Câmara dos Deputados</affiliation>
+            <country>BR</country>
+            <email>elcio.gomes@camara.gov.br</email>
+            <orcid>https://orcid.org/0000-0003-2684-9945</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsul03-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A Madeira na Arquitetura Paulista</title>
+        <subtitle locale="pt_BR">Uma investigação</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mônica Junqueira</givenname>
+            <familyname locale="pt_BR">de Camargo</familyname>
+            <affiliation locale="pt_BR">FAU-USP</affiliation>
+            <country>BR</country>
+            <email>junqueira.monica@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2625-5074</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsul03-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Madera y abstracción</title>
+        <subtitle locale="pt_BR">el pabellón de La provincia de mendoza en La feria de América de César janello y gerardo clusellas (1954)</subtitle>
+        <abstract locale="pt_BR">Cèsar Janello es un personaje difícil de clasificar en la Argentina de mitad del siglo. Arquitecto, tiene pocas ocasiones de construir, entre las cuales la colaboración con Amancio Williams para la celebre casa en Mar del Plata. Cercano a las formaciones de artistas concretos activos en Buenos Aires desde el fin de la segunda guerra mundial, se dedica a la enseñanza universitaria de la materia denominada antes “plástica” y luego “visión”, siendo titular en varias facultades (Buenos Aires, Mendoza, Rosario). Desde esta posición</abstract>
+        <abstract locale="en_US">Cèsar Janello es un personaje difícil de clasificar en la Argentina de mitad del siglo. Arquitecto, tiene pocas ocasiones de construir, entre las cuales la colaboración con Amancio Williams para la celebre casa en Mar del Plata. Cercano a las formaciones de artistas concretos activos en Buenos Aires desde el fin de la segunda guerra mundial, se dedica a la enseñanza universitaria de la materia denominada antes “plástica” y luego “visión”, siendo titular en varias facultades (Buenos Aires, Mendoza, Rosario). Desde esta posición</abstract>
+        <keywords locale="pt_BR">
+          <keyword>madera</keyword>
+          <keyword>pabellón</keyword>
+          <keyword>Janello</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Federico</givenname>
+            <familyname locale="pt_BR">Deambrosis</familyname>
+            <affiliation locale="pt_BR">Politecnico di Milano</affiliation>
+            <country>BR</country>
+            <email>federico.deambrosis.uni@awn.it</email>
+            <orcid>https://orcid.org/0000-0003-1085-2621</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

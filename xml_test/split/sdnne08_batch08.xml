@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdnne08-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">Repertório singular e regional de delfim Amorim em um espaço multifacetado</title>
+        <subtitle locale="pt_BR">Uma apresentação fenomenológica da “casa de Amorim”</subtitle>
+        <abstract locale="pt_BR">As obras da Escola Pernambucana de Arquitetura Moderna, denominadas &quot;Casa de Amorim&quot;, correspondem a um momento de grande importância para Escola Pernambucana de Arquitetura Moderna, tendo este modelo características comuns de residências projetadas pelo arquiteto Delfim Fernandes Amorim. Diante da dificuldade de se encontrar materiais de análises do respectivo partido, a fim de demonstrar um novo olhar sob determinado projeto, o espaço será apresentado de uma maneira mais profunda, por meio do um estudo da intencionalidade do arquiteto (aquilo que buscava no seu projeto e como a sua busca foi materializada), que tem como base a fenomenologia, será feita, no entanto, uma nova apresentação do partido “Casa de Amorim” a fim de demonstrar as diferentes faces até então não vistas, e identificar as sensibilidades projetuais do Arquiteto Delfim Amorim ao produzir determinado partido, com intuito de possibilitar um outro tipo de entendimento a respeito da arquitetura produzida por Amorim em Pernambuco.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura Moderna Pernambucana</keyword>
+          <keyword>Delfim Amorim</keyword>
+          <keyword>Casa de Amorim</keyword>
+          <keyword>Fenomenologia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Liliana de Souza</givenname>
+            <familyname locale="pt_BR">Adrião</familyname>
+            <affiliation locale="pt_BR">ESUDA</affiliation>
+            <country>BR</country>
+            <email>liliana.adriao@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7002-8207</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista (2019), ESUDA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernanda Lúcia Herbster</givenname>
+            <familyname locale="pt_BR">Pinto</familyname>
+            <affiliation locale="pt_BR">MDU-UFPE</affiliation>
+            <country>BR</country>
+            <email>fernanda.hpinto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5637-3920</orcid>
+            <biography locale="pt_BR">Mestrado em Desenvolvimento Urbano (2012), MDU, UFPE.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdnne08-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">A revista projeto</title>
+        <subtitle locale="pt_BR">representatividade e presença das regiões Norte e Nordeste do Brasil em Uma perspectiva histórica</subtitle>
+        <abstract locale="pt_BR">Projeto é uma revista de arquitetura publicada na cidade de São Paulo, e entre os anos de 1977 a 1996, foi editada por Vicente Wissenbach, com colaboradores de diversos estados, cuja autodeclarada missão editorial era divulgar os trabalhos de arquitetos de todas as regiões do país, propondo-se ainda a fomentar a crítica e o debate entre os pares. Nesse período, teve 193 edições, nas quais publicou projetos de arquitetura, urbanismo, interiores e design. O presente artigo tem, portanto, como objeto de estudo, a produção da revista ao longo desses anos, com foco em 900 projetos de arquitetura nela publicados. O foco foi observar como se deu a representatividade das regiões Norte e Nordeste do país ao longo das edições, quantificando os projetos publicados em cada região e em cada um de seus estados e identificando quais foram os arquitetos, arquiteturas e suas características, colocando-os ainda em perspectiva em relação às demais regiões e estados do Brasil, realizando um comparativo e tecendo algumas considerações críticas acerca do espaço ocupado pelo Norte e pelo Nordeste do país nessa publicação. As conclusões indicaram em ambas as regiões os protagonismos de alguns arquitetos, inclusive com presenças recorrentes face ao cenário nacional.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Revista Projeto</keyword>
+          <keyword>revistas de arquitetura</keyword>
+          <keyword>arquitetura brasileira</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Raphaela Banks</givenname>
+            <familyname locale="pt_BR">de Siqueira</familyname>
+            <country>BR</country>
+            <email>desiqueira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4231-3174</orcid>
+            <biography locale="pt_BR">Mestra (2015), Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco IFPE. Estrada do Alto do Moura, KM 3,8, s/n - Distrito Industrial III, Caruaru - PE, 55040-120 raphabanks@gmail.com</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marcio Cotrim</givenname>
+            <familyname locale="pt_BR">Cunha</familyname>
+            <affiliation locale="pt_BR">UFBA</affiliation>
+            <country>BR</country>
+            <email>cunha@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2008-8946</orcid>
+            <biography locale="pt_BR">Doutor (2008), Faculdade de Arquitetura, Universidade Federal da Bahia UFBA. Rua Santa Rita de Cassia 29 1301, Graças, Salvador, Bahia</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdnne08-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">Trajetória arquitetônica de Hélio Duarte em Salvador</title>
+        <subtitle locale="pt_BR">escola de puericultura, edifício chadler, ibit e ABI</subtitle>
+        <abstract locale="pt_BR">O presente artigo se propõe a analisar quatro obras emblemáticas do arquiteto Hélio de Queiroz Duarte no período em que esteve sediado na Bahia: Escola de Puericultura (1937), Edifício Chadler (1940), a sede do IBIT (1942-1944) e a sede da ABI (1945-1960, em parceria com Abelardo de Souza e Zenon Lotufo). Tal análise realiza-se a partir de um método difundido pelo Docomomo Internacional, que utiliza Fichas Mínimas para explorar as principais características arquitetônicas das edificações em questão, trazendo também um aporte crítico. Assim, em relação aos quatro edifícios de Duarte, analisam-se as suas implantações, volumetrias, usos de pavimentos, acessos e circulações, espacialidades, fachadas e materiais empregados. Indicam-se seus valores históricos, técnicos e estéticos. Assinalam-se também suas intervenções posteriores e, por fim, realiza-se uma avaliação crítica das suas características iniciais e das suas circunstâncias atuais. As obras foram escolhidas pela sua relevância e por existirem referências bibliográficas e pesquisas suficientes para a realização das análises.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Salvador</keyword>
+          <keyword>Hélio Duarte</keyword>
+          <keyword>Intervenções</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina de Souza</givenname>
+            <familyname locale="pt_BR">Bierrenbach</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>acbierrenbach@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0441-7036</orcid>
+            <biography locale="pt_BR">Doutora (ETSAB-UPC), Professora da Faculdade de Arquitetura da Univeridade Federal da  Bahia (FAUFBA) e do Programa de Pós-Graduação em Arquitetura e Urbanismo da  Universidade Federal da Bahia (PPGAU-UFBA)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Calena</givenname>
+            <familyname locale="pt_BR">Trindade</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>calena.trindade@gmail.com</email>
+            <orcid>https://orcid.org/0009-0004-5952-5132</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia  (FAUFBA).</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Roberta</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>roberta.de.almeida@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia  (FAUFBA).</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdnne08-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Traços de art-déco no interior da Amazônia</title>
+        <subtitle locale="pt_BR">praça do centenário em santarém, no Pará</subtitle>
+        <abstract locale="pt_BR">O presente artigo tem como objeto de estudo a Praça do Centenário, na cidade de Santarém, no Pará. O objetivo geral do trabalho é interpretar o valor patrimonial arquitetônico e paisagístico da praça do Cente nário (1948) na cidade. Como objetivos específicos do trabalho estão: pesquisar a influência do crescimento da cidade e sua relação com a praça do Centenário; o valor de uso para o bairro ao qual está inserida e identificar os elementos Art-déco presentes na mesma. A justificativa para a pesquisa é o uso da praça e sua relevância para o bairro da Aldeia, além de seu valor histórico como marco da trajetória do crescimento de Santarém, no século XX, e seu valor patrimonial. Para o desenvolvimento do trabalho será feito o apro fundamento na Teoria e História do Urbanismo e Paisagismo, para contextualizar a conformação do traçado da área ao qual a praça está inserida – área primeva do núcleo urbano de Santarém; levantamento métrico da praça; pesquisa em material referente a praça do Centenário e do bairro da Aldeia; entrevista com mo radores locais e levantamento fotográfico dos elementos Art-déco existentes.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Art-déco</keyword>
+          <keyword>Paisagem urbana, Historiografia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">João Gabriel Silva</givenname>
+            <familyname locale="pt_BR">Araújo</familyname>
+            <affiliation locale="pt_BR">CEULP-ULBRA</affiliation>
+            <country>BR</country>
+            <email>joao.araujostm@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-5991-0426</orcid>
+            <biography locale="pt_BR">Arquiteto Urbanista, concluinte da Especialização em Arquitetura de Interiores e Paisagismo, Centro Universitário Luterano de Palmas (CEULP/ULBRA)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alexandre Martins de</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>alexandremartinsdelima@gmail.com</email>
+            <biography locale="pt_BR">Arquiteto Urbanista, Doutorado em Desenvolvimento Sustentável do Trópico Úmido, Universidade Federal do Pará (UFPA), 2007 – 2011</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdnne08-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">Um estudo sobre as indústrias da Modernidade em Campina Grande</title>
+        <subtitle locale="pt_BR">1968/1971</subtitle>
+        <abstract locale="pt_BR">O trabalho que se pretende apresentar neste evento possui como objeto de estudo o inventário sobre as indústrias da modernidade em Campina Grande, no recorte temporal de 1968 à 1971. O objetivo é divulgar o trabalho de inventário sobre as indústrias citadas no Cadastro Industrial da Paraíba (1969), vinculadas ao segmento da construção civil, observando a relação destas com o desenvolvimento arquitetônico e urbanístico da cidade de Campina Grande, no período da modernidade arquitetônica. Estas indústrias foram de grande importância, não só do para o aumento do capital local, por meio do fluxo comercial, como para a implantação e adoção de novos costumes vindos das capitais vizinhas e sua, consequentemente, remodelagem cultural, influenciando estruturas e arquitetura locais, por exemplo, a adoção da linguagem art déco, apresentada nos edifícios principais de Campina Grande. Justifica- se devido à importância em resgatar o acervo patrimonial industrial campinense, dando continuidade aos estudos de pesquisa na área, realizados pelo Grupo de pesquisa arquitetura e Lugar/GRUPAL; Pelo ineditismo dessa pesquisa em levantar dados históricos e arquitetônicos sobre as indústrias em todas as etapas necessárias à sua inserção em uma cidade com anseio pela modernidade , como também, pela importante contribuição às redes regionais, nacionais e internacionais nos estudos, resgates e documentações do patrimônio industrial, inserindo o mesmo na políticas do Icomos Brasil/ UNESCO, Iphan/ Governo Federal, Iphaep/ Governo Estadual e na Secretaria Municipal de Cultura de Campina Grande. Como metodologia adota na pesquisa linha de estudo proposta por SERRA (2006), que dialoga o processo de estudo do objeto ao sistema/ condicionantes, para análise do acervo desse patrimônio industrial. Como referencial teórico para embasar a pesquisa se utilizou de fontes secundárias tais como: Cadastro Industrial do Estado da Paraíba (1968); PORTO (2007), MEDEIROS (2018), AFONSO (2019), AFONSO e PEREIRA (2019) entre outros.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Inventário</keyword>
+          <keyword>Patrimônio arquitetônico industrial</keyword>
+          <keyword>Modernidade</keyword>
+          <keyword>Tectônica</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Profa. Dra. adjunta ao curso de Arquitetura e Urbanismo, UFCG</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Dayse Guedes dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>dayseguedesdossantos@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, UFCG</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

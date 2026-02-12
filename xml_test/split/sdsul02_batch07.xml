@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsul02-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Arquitetura Moderna, Patrimônio Histórico e concreto armado</title>
+        <abstract locale="pt_BR">O exame das relações entre o ideário do Movimento Moderno no Brasil e sua repercussão na formação do acervo e na prática de preservação do Patrimônio Histórico brasileiro constitui o ponto de partida para o exame de obras de restauração realizadas em São Paulo. Esta análise se concentra na utilização de estruturas de concreto armado para a consolidação de edifícios antigos, tanto em seus pressupostos e como em suas implicações.</abstract>
+        <abstract locale="en_US">The relations between the Brazilian Modern Movement ideals and its influence on the establishment of a set of samples for being preserved and its conservation practice are the main concern of the analysis developed. The approach is concentrated on the use of reinforced concrete structures for building conservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>patrimônio histórico</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsul02-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Opus caementicius</title>
+        <subtitle locale="pt_BR">da insuspeita sutileza das pedras brutas</subtitle>
+        <abstract locale="pt_BR">O grande sucesso e aceitação do concreto, desde as primeiras versões do material obtidas na Antiguidade, deveu-se a grande plasticidade da mistura e à sua capacidade de endurecimento , levando à obtenção de uma &quot;pedra artificial&quot; de forte resistência. A arquitetura denominada brutalista, na sua reiterada afirmação da verdade estrutural e construtiva, toma o nome da imagem do concreto aparente, a partir da sua denominação em francês, béton brut. O texto pretende levantar questões sobre a brutalidade consensual do concreto aparente, através de breves considerações sobre a origem construtiva e etimológica da palavra, demorando-se especialmente nas superfícies trabalhadas esteticamente fazendose uso de diferentes recursos de revestimento e textura. No contexto dessa discussão, analisa-se o projeto e o processo construtivo da torre da caixa d´água do SESC- fábrica da Pompéia, projeto de Lina Bo Bardi.</abstract>
+        <abstract locale="en_US">The word Brutalism comes from the French word for rough concrete - béton brut. A sense of brutality is suggested by heavy structures, but mainly by unrefined molded surfaces, often using off-form concrete that reveals timber markings. This paper examines the provenance of the concrete construction techniques and include questions about the hardness of the concrete; the methods for texturing a concrete surface and for manipulating color and texture; rustication versus stereotomy; architectural concrete used to express sculptural forms, details and textural impressions. The question of appearance of the concrete is debated in terms of applied decoration and aesthetics research. In this context, the paper concludes with a discussion on Lina Bardi´s design for the cylindrical water tower of the Sesc-fábrica da Pompéia.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>brutalidade e verdade do concreto</keyword>
+          <keyword>estetização do concreto bruto</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cecília Rodrigues</givenname>
+            <familyname locale="pt_BR">dos Santos</familyname>
+            <affiliation locale="pt_BR">FAU-Mackenzie</affiliation>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsul02-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Belo e suave, bruto e sublime</title>
+        <subtitle locale="pt_BR">notas sobre a plasticidade do concreto armado brasileiro</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Dias</givenname>
+            <familyname locale="pt_BR">Comas</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>ccomas@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-7368-7603</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsul02-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Vanguarda com gelo</title>
+        <subtitle locale="pt_BR">concreto aparente e gosto eclético</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marta Silveira</givenname>
+            <familyname locale="pt_BR">Peixoto</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>marta@martapeixoto.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2213-7740</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsul02-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Hormigón, industrialización, vivienda</title>
+        <subtitle locale="pt_BR">sert y La ciudad de los motores</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Alberto Ferreira</givenname>
+            <familyname locale="pt_BR">Martins</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>cmartins@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0003-4321-2057</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

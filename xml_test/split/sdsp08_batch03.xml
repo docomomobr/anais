@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsp08-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">A importância dos acervos de Arquitetura para a historiografia</title>
+        <subtitle locale="pt_BR">a pesquisa sobre Eduardo Kneese de Mello</subtitle>
+        <abstract locale="pt_BR">O presente artigo busca ressaltar as particularidades, dificuldades e reveses comumente encontrados durante a realização de pesquisas na área da História da Arquitetura, principalmente quando o objeto de estudo não se trata de um(a) arquiteto(a) “consagrado(a)” pela historiografia. Estas questões são exemplificadas por meio da pesquisa realizada para resgatar a trajetória profissional de Eduardo Kneese de Mello. Constata-se, portanto, que a falta de acervos e arquivos organizados é um fator complicador para aquele que se propõe a (re)escrever a história. Propõe-se, desse modo, um debate sobre a relação existente entre historiografia e documentação para a escrita da História, buscando caminhos facilitadores para os pesquisadores que objetivam preencher algumas lacunas existentes no campo historiográfico, em especial sobre Arquitetura Moderna Paulistana.</abstract>
+        <abstract locale="en_US">This article seeks to highlight the particularities, difficulties and setbacks commonly encountered during research in the area of the History of Architecture, especially when the object of study is not a “consecrated” architect by historiography. These issues are exemplified by research to rescue the professional trajectory of Eduardo Kneese de Mello. It appears, therefore, that the lack of organized collections and archives is a complicating factor for those who propose to (re)write history. In this way, a debate on the existing relationship between historiography and documentation for the writing of History is proposed, seeking facilitating paths for researchers who aim to fill some existing gaps in the historiographical field, especially on Modern Architecture from São Paulo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Historiografia</keyword>
+          <keyword>Documentação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Historiography</keyword>
+          <keyword>Documentation</keyword>
+          <keyword>Modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Aline Nassaralla</givenname>
+            <familyname locale="pt_BR">Regino</familyname>
+            <country>BR</country>
+            <email>regino@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1242-8832</orcid>
+          </author>
+        </authors>
+        <pages>152-166</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsp08-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Jacques pilon e giancarlo palanti</title>
+        <subtitle locale="pt_BR">pesquisa e os desafios da extroversão das coleções da seção técnica de materiais iconográficos da biblioteca da FAUUSP</subtitle>
+        <abstract locale="pt_BR">O presente trabalho discorre sobre o projeto de cultura e extensão intitulado &quot;Coleções de projetos: ensino, aprendizado, prática e difusão - Coleções Jacques Pilon e Giancarlo Palanti&quot;, realizado entre setembro de 2020 e agosto de 2021 com fomento do Programa Unificado de Bolsas de Estudo para Estudantes de Graduação (PUB) da Universidade de São Paulo. Este projeto visa democratizar o acesso ao acervo da Seção Técnica de Materiais Iconográficos da Biblioteca da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP) através de sua disponibilização on-line no Portal Acervos. Ao longo do trabalho é apresentada a metodologia das atividades realizadas, bem como feita uma reflexão sobre a importância da difusão e acesso a estes acervos e o protagonismo de instituições públicas neste processo, sobretudo em meio aos ataques direcionados à ciência e à cultura no Brasil atual.</abstract>
+        <abstract locale="en_US">The present work discusses the culture and extension project entitled “Project collections: teaching, learning, practice and dissemination - Jacques Pilon and Giancarlo Palanti collections”, held between september 2020 and august 2021, promoted by University of São Paulo’s Unified Scholarship Program (PUB). It intends to democratize access to the collection of Technical Section of Iconographic Materials at the Library of Architecture and Urbanism School of University of São Paulo (FAUUSP), through its on-line availability at Portal Acervos. Throughout this work, we have presented the methodology of the project’s activities, as well as a reflection about the importance of dissemination and access to these collections and the protagonism of public institutions, especially amidst the current attacks directed towards science and culture in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos</keyword>
+          <keyword>Biblioteca</keyword>
+          <keyword>Difusão</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collections</keyword>
+          <keyword>Library</keyword>
+          <keyword>Dissemination</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Joana Mello de Carvalho e</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>joana-mello@uol.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniel Alves da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Fernando Prudente</givenname>
+            <familyname locale="pt_BR">Comparini</familyname>
+            <country>BR</country>
+            <email>comparini@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>167-180</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsp08-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Hernani do Val penteado e a variação estilística</title>
+        <abstract locale="pt_BR">Considerações sobre o convívio de diferentes opções estilísticas na obra de um mesmo arquiteto, Hernani do Val Penteado. Autor do Aeroporto de Congonhas e de outros prédios modernos, também foi responsável pela realização de complexos projetos em estilo neocolonial. Parte de sua produção, de meados do século XX, está reunida em acervos públicos utilizados para os estudos que permitiram a preservação oficial de edificações de sua autoria e a ampliação do conhecimento sobre a gradual afirmação da arquitetura moderna.</abstract>
+        <abstract locale="en_US">This text considers about the coexistence of different stylistic options in the work of the same architect, Hernani do Val Penteado. Author of Congonhas Airport and other modern buildings, he was also responsible for projects in neocolonial style. Part of its production of mid 20th century is gathered in public collections used for studies that allowed the official preservation of some of these buildings and also the expansion of knowledge about the gradual affirmation of modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Hernani do Val Penteado</keyword>
+          <keyword>Neocolonial</keyword>
+          <keyword>Arquitetura moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Hernani do Val Penteado</keyword>
+          <keyword>Neocolonial</keyword>
+          <keyword>Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+        </authors>
+        <pages>181-194</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsp08-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">O acervo da FAUUSP e a formação estudantil. o trabalho com as coleções de Oswaldo Arthur bratke e rino Levi</title>
+        <abstract locale="pt_BR">As fontes primárias são recursos potentes para a pesquisa e o estudo da arquitetura. Enquanto as obras proporcionam o contato com dimensão espacial e a materialidade, fundamentais para a compreensão do objeto arquitetônico, os desenhos permitem o acompanhamento do processo de elaboração, revelando as múltiplas tomadas de decisão que permeiam uma determinada obra, além da oportunidade de relacionar com a bibliografia de referência. Aos estudantes de graduação, o trabalho permite ainda a aproximação com as questões de conservação, processamento e difusão dos acervos, abrindo novas perspectivas de trabalho. Alguns docentes em conjunto com a Seção Técnica de Materiais Iconográficos vem realizando vários projetos com os estudantes, dos quais comentaremos: Ocupação Rino Levi, em 2019, com o estudante Fernando Prudente Comparini e equipe; Coleção Rino Levi, em 2020, com o estudante Alexandre Martins e a Coleção Oswaldo Arthur Bratke, em 2021, com a estudante Thais Ribeiro da Cruz, co-autora deste artigo.</abstract>
+        <abstract locale="en_US">Primary sources are powerful subsidies for research and the study of architecture. While the buildings provide contact with the spatial dimension and materiality, fundamental for the understanding of the architectural object, the drawings allow following the elaboration process, revealing the multiple decision-making that permeate a certain building, It also gives the opportunity to relate to the reference bibliography. For undergraduate students, the work also allows them to approach issues of conservation, processing and dissemination of collections, opening new perspectives for work. Some professors together with the Technical Section of Iconographic Materials have been carrying out several projects with the students, of which we will comment: Occupation Rino Levi, in 2019, with student Fernando Prudente Comparini and team; Collection Rino Levi, in 2020, with the student Alexandre Martins and the Collection Oswaldo Arthur Bratke, in 2021, with the student Thais Ribeiro da Cruz, coauthor of this article.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos</keyword>
+          <keyword>Ensino de arquitetura</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collections</keyword>
+          <keyword>Architecture teaching</keyword>
+          <keyword>Modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mônica Junqueira</givenname>
+            <familyname locale="pt_BR">de Camargo</familyname>
+            <country>BR</country>
+            <email>junqueira.monica@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2625-5074</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Thais Ribeiro da</givenname>
+            <familyname locale="pt_BR">Cruz</familyname>
+            <country>BR</country>
+            <email>cruz@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>195-210</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsp08-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">O edifício do SENAI de Sorocaba</title>
+        <subtitle locale="pt_BR">do projeto ao estado de conservação atual</subtitle>
+        <abstract locale="pt_BR">No sentido de reconhecer o patrimônio moderno da cidade de Sorocaba foi realizada a leitura e análise de edifícios construídos entre as décadas de 1950 e 1980, verificando o estado de conservação e histórico. Entre esses está o edifício do Sistema Nacional de Aprendizagem Industrial (SENAI), construído em 1965 e projetado pelo arquiteto Lúcio Grinover e equipe. Ao realizar a leitura do projeto na Revista Acrópole e confrontá-la com edifício atual, observou-se que uma nova cobertura foi adicionada ao edifício, ocultando os paraboloides da laje dos laboratórios e outras alterações. Nesse sentido, objetiva-se apresentar o acervo fotográfico da Biblioteca do SENAI como fonte que documenta as intervenções realizadas no edifício. Por meio das imagens, verificou-se um problema de infiltração que existia na laje sobre os paraboloides, motivando a implantação de outra cobertura. Ressalta-se a importância do acervo da instituição como fonte de pesquisa e documentação, bem como a necessidade de reconhecer o edifício como exemplar da arquitetura moderna sorocabana.</abstract>
+        <abstract locale="en_US">To recognize the modern heritage of the city of Sorocaba, the reading and analysis of buildings built between the 1950s and 1980s was carried out, verifying the state of conservation and history. Among these is the building of the National Industrial Learning System (SENAI), built in 1965 and designed by architect Lúcio Grinover and his team. When reading the project in Revista Acrópole and comparing it with the current building, it was observed that a new cover was added to the building, hiding the paraboloids of the laboratory slab and other changes. In this sense, the objective is to present the photographic collection of the SENAI Library as a source that documents the interventions carried out in the building. Through the images, there was an infiltration problem that existed in the slab over the paraboloids, motivating the implementation of another cover. We emphasize the importance of the institution's collection as a source of research and documentation, as well as the need to recognize the building as an example of modern architecture in Sorocaba.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+          <keyword>Manifestações Patológicas em Concreto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Modern Heritage</keyword>
+          <keyword>Pathologies in concrete buildings</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Taiana Car</givenname>
+            <familyname locale="pt_BR">Vidotto</familyname>
+            <country>BR</country>
+            <email>vidotto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-7498-3789</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rodrigo Henrique</givenname>
+            <familyname locale="pt_BR">Geraldo</familyname>
+            <country>BR</country>
+            <email>geraldo@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>211-224</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

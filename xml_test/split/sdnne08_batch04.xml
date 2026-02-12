@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdnne08-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Delfim Amorim, marcas do tempo</title>
+        <subtitle locale="pt_BR">um estudo para conservação das fachadas dos edifícios de delfim Amorim, do bairro da Boa Vista, Recife-PE</subtitle>
+        <abstract locale="pt_BR">Representantes e difusores da cultura e história da Arquitetura Moderna Pernambucana, cada vez mais degradados, em sua maioria com fachadas descaracterizadas, os edifícios modernos produzidos por Delfim Amorim, situados no bairro da Boa Vista na cidade do Recife, sofrem com patologias que causam grandes prejuízos estruturais e financeiros. Diante de tal situação, com a intenção de chamar atenção para o atual estado de conservação das fachadas dos edifícios modernos produzidos por Amorim situados no bairro da Boa Vista da cidade do Recife, e com intuito de mostrar que a preservação tem que se tornar item obrigatório, demonstrando a emergente necessidade de soluções que ajudem a amenizar o atual estado de degradação das estruturas de concreto das fachadas dos respectivos edifícios, identificar-se-á os principais problemas patológicos e os mesmos serão explanados de acordo com a norma brasileira 6118 (2014) denominada para projeto de estruturas em concreto, a respectiva norma apresenta vários itens que visam a durabilidade (capacidade da estrutura resistir às influências do meio) das respectivas estruturas. Diante de tamanha significância, retoma-se a importância da preservação destes edificios que são exemplares de uma arquitetura que ainda pode ser considerada moderna e marcante.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Pernambucana</keyword>
+          <keyword>Conservação</keyword>
+          <keyword>Delfim Amorim</keyword>
+          <keyword>Estruturas de</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Liliana de Souza</givenname>
+            <familyname locale="pt_BR">Adrião</familyname>
+            <affiliation locale="pt_BR">ESUDA</affiliation>
+            <country>BR</country>
+            <email>liliana.adriao@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7002-8207</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista (2019)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernanda Lúcia Herbster</givenname>
+            <familyname locale="pt_BR">Pinto</familyname>
+            <affiliation locale="pt_BR">MDU-UFPE</affiliation>
+            <country>BR</country>
+            <email>fernanda.hpinto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5637-3920</orcid>
+            <biography locale="pt_BR">Mestrado em Desenvolvimento Urbano (2012)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Eudes de Arimatéa</givenname>
+            <familyname locale="pt_BR">Rocha</familyname>
+            <affiliation locale="pt_BR">UFPE</affiliation>
+            <country>BR</country>
+            <email>eu_des@hotmail.com</email>
+            <biography locale="pt_BR">Doutoramento em Engenharia Civil</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdnne08-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Desafios para a preservação da Arquitetura dos blocos de superquadra em Brasília</title>
+        <subtitle locale="pt_BR">o caso dos edifícios de niemeyer para a sqs 108</subtitle>
+        <abstract locale="pt_BR">O trabalho aborda a complexidade e os desafios que surgem quanto à preservação da arquitetura de blocos residenciais das superquadras em Brasília, isto é, sobre a questão da atribuição de valor às concepções deste tipo de morar. O enfoque de estudo foi dado ao conjunto de blocos de apartamentos projetados por Oscar Niemeyer para a Superquadra 108 Sul, primeira superquadra a ser concluída em Brasília. Tais edifícios constituem exemplos importantes para a história da arquitetura moderna brasileira e têm, hoje, sua salvaguarda ameaçada. Além dos desafios costumeiros e das particularidades presentes quando se fala de patrimônio moderno em sentido amplo, ao abordarmos especificamente a arquitetura residencial do período, a equação torna-se mais complexa, já que equilibrar interesses de moradores e interesses públicos e patrimoniais implica em árduo exercício de conciliação. No caso específico dos edifícios em tela, a discussão passa ainda por questões mais práticas, tais como carência de base documental organizada para estabelecer parâmetros para tomada de decisões, falta de diálogo entre técnicos dos órgãos de preservação e moradores, e ainda a deficiência na continuidade de estudos e de políticas de gestão já iniciados.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Brasília</keyword>
+          <keyword>SQS 108</keyword>
+          <keyword>Niemeyer</keyword>
+          <keyword>habitação coletiva</keyword>
+          <keyword>patrimônio moderno</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Cristina Menezes</givenname>
+            <familyname locale="pt_BR">Palhas</familyname>
+            <affiliation locale="pt_BR">PPG-FAU-UnB</affiliation>
+            <country>BR</country>
+            <email>anapalhas@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0767-3801</orcid>
+            <biography locale="pt_BR">Mestranda do Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília (PPG-FAU-UnB)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Elisabete de Almeida</givenname>
+            <familyname locale="pt_BR">Medeiros</familyname>
+            <affiliation locale="pt_BR">FAU-UnB</affiliation>
+            <country>BR</country>
+            <email>ana@unb.br</email>
+            <orcid>https://orcid.org/0000-0003-3248-4399</orcid>
+            <biography locale="pt_BR">Doutora em Sociologia pela Universidade de Brasília (2002), Professora da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília - THA/FAU-UnB</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Oscar Luís</givenname>
+            <familyname locale="pt_BR">Ferreira</familyname>
+            <affiliation locale="pt_BR">FAU-UnB</affiliation>
+            <country>BR</country>
+            <email>oscar@unb.br</email>
+            <orcid>https://orcid.org/0000-0003-1628-3466</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo pelo Programa de Pós-graduação em Arquitetura e Urbanismo - PPG/FAU da Universidade de Brasília – UnB, Professor da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília - TEC/FAU-UnB</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdnne08-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Do discípulo ao Mestre</title>
+        <subtitle locale="pt_BR">práticas projetuais do arquiteto tertuliano dionísio em Campina Grande-PB</subtitle>
+        <abstract locale="pt_BR">O artigo possui como objeto de estudo o resgate da trajetória profissional do arquiteto pernambucano Tertuliano Dionísio da Silva (1931-1983) e sua atuação na cidade de Campina Grande-PB. Com isso, os objetivos partem do pressuposto da análise de uma linguagem projetual consolidada pelo profissional, externa ao seu centro de formação – antiga Escola de Belas Artes de Pernambuco (EBAP), que possuiu um papel fundamental no processo de implantação e difusão de uma arquitetura “moderna” nas pequenas e médias cidades do Nordeste brasileiro. Nesta perspectiva, justifica-se contribuir com o meio acadêmico, através do reconhecimento das referências apreendidas pelo arquiteto nesta Escola associadas ao seu processo de “experimentação” externa, afirmado por uma arquitetura adaptada ao lugar. A metodologia apoia-se na discussão proposta por Afonso (2019), ao compreender o objeto arquitetônico a partir de suas dimensões (normativa, histórica, espacial, formal, funcional e tectônica), que servirão de aporte no estabelecimento de pontos em comum que caracterizem os critérios mantidos, adaptados e assimilados neste processo de afirmação de uma nova visão da arquitetura. Como referencial teórico para a compreensão deste cenário local tem-se a revisão de obras de Afonso (2006), Queiroz e Rocha (2006), Almeida (2007), Cotrim e Tinem (2014), Afonso e Pereira (2019), entre outros.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>modernidade</keyword>
+          <keyword>personagem</keyword>
+          <keyword>critérios projetuais</keyword>
+          <keyword>Nordeste brasileiro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ivanilson Santos</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>ivanilsonrocha1@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7911-1365</orcid>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo, UFCG.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdnne08-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Documentação, conservação e intervenção na Arquitetura protomoderna em Fortaleza</title>
+        <subtitle locale="pt_BR">o caso do lord hotel (1956)</subtitle>
+        <abstract locale="pt_BR">Embora o século XX tenha sido marcado por um processo de descentralização de Fortaleza, durante esse período, o Centro da cidade ainda recebeu importantes exemplares da arquitetura hoteleira na cidade, como é o caso do Lord Hotel. Inaugurado em 1956, o empreendimento trazia a inovação de uma tipologia mista que abrigava habitação, hotelaria e comércio. No entanto, com o sugimento do interesse turística pela faixa de praia, o hotel ficou por muitos anos abandonado, tendo recentemente recebido um projeto de intervenção para abrigar a Câmara Municipal de Fortaleza. O artigo tem por objetivo produzir um registro histórico e arquitetônico do hotel, enfatizando a relevância da sua documentação, conservação e intervenção, dada sua importância cultural e histórica para a cidade. O presente trabalho foi realizado por meio da análise de documentos históricos, como reportagens de jornais, fotografias e publicações existentes, bem como por meio de arquivos disponibilizados pelos arquitetos responsáveis pelo projeto de intervenção no edifício, do escritório Architectus. Estruturado em quatro partes, o artigo explana em um primeiro momento as características e conceitos da arquitetura protomoderna como uma expressão da modernidade arquitetônica, na segunda parte adentra nos aspectos históricos e patrimoniais do Lord Hotel, na terceira aborda seu estado atual de decadência material e, por fim, na quarta parte, aborda também questões de conservação e reuso, apresentando também o novo projeto proposto para o edifício.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Protomoderna</keyword>
+          <keyword>Lord Hotel</keyword>
+          <keyword>patrimônio</keyword>
+          <keyword>turismo</keyword>
+          <keyword>arquitetura hoteleira</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Thaís Silveira</givenname>
+            <familyname locale="pt_BR">Soares</familyname>
+            <affiliation locale="pt_BR">PPGAU+D-UFC</affiliation>
+            <country>BR</country>
+            <email>thaissilveiraarq@gmail.com</email>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Alexandre</givenname>
+            <familyname locale="pt_BR">Paiva</familyname>
+            <affiliation locale="pt_BR">PPGAU+D-UFC</affiliation>
+            <country>BR</country>
+            <email>paiva_ricardo@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-0332-097X</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo pela FAUUSP</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdnne08-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Edifício Chagas Rodrigues</title>
+        <subtitle locale="pt_BR">Arquitetura Moderna em Teresina</subtitle>
+        <abstract locale="pt_BR">A arquitetura moderna pode ser entendida como uma produção que propõe uma nova maneira de conceber artefatos -modo inédito de operar no campo da forma – orientada pela abstração e universalidade. Apesar da profunda transformação que esta produção propõe no domínio estético, suas obras são abordadas, fundamentalmente, pela relação com os contextos históricos de inserção, ou ainda pelas transformações sociais, econômicas e técnicas vinculadas ao processo de modernização. Na atualidade, a pesquisa sobre esta produção deposita seu interesse no estudo de suas especificidades, revelando questões geográficas, culturais e de valor patrimonial. Este é o caso do edifício Chagas Rodrigues, atual sede do Departamento de Estradas de Rodagem (DER) do estado do Piauí, projetado pelo arquiteto Maurício Sued entre as décadas de 1950 e 1960, que integra diversas pesquisas sobre Arquitetura Moderna Brasileira pela importância que adquire no panorama regional. Para além de apontar o ineditismo desta obra com objetivo de situá-la na modernidade de raros produtos da cidade de Teresina, interessa, neste trabalho, especular sobre as relações formais e construtivas do modesto edifício. O trabalho propõe renuir e completar documentação arquitetônica sobre a obra, para discutir valores universais de concepção, que podem fundamentar a atividade de projeto na contemporaneidade.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>projeto de arquitetura</keyword>
+          <keyword>arquitetura brasileira</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>arquitetura moderna piauiense</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda</givenname>
+            <familyname locale="pt_BR">Marafon</familyname>
+            <affiliation locale="pt_BR">FAUUSP</affiliation>
+            <country>BR</country>
+            <email>fernandamarafon@usp.br</email>
+            <orcid>https://orcid.org/0000-0002-4838-8978</orcid>
+            <biography locale="pt_BR">Doutoranda (2019), Programa de Pós graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Roberto Alves de Lima</givenname>
+            <familyname locale="pt_BR">Montenegro Filho</familyname>
+            <affiliation locale="pt_BR">UFPI</affiliation>
+            <country>BR</country>
+            <email>robertomontenegro@ufpi.edu.br</email>
+            <orcid>https://orcid.org/0000-0001-5311-2880</orcid>
+            <biography locale="pt_BR">Doutor (2012), Programa de Pós graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

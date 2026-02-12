@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdsul05-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">A permanência do transitório</title>
+        <subtitle locale="pt_BR">os pavilhões do Brasil e do Chile para a expo 92 – sevilha</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Pavilhões de exposição</keyword>
+          <keyword>Expo´92 – Sevilha</keyword>
+          <keyword>Arquitetura Latino Americana</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Exhibition Pavilions</keyword>
+          <keyword>Expo´92 - Sevilla</keyword>
+          <keyword>Latin American Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Thaís Luft da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdsul05-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Referências da Modernidade no edifício para a biblioteca municipal de Maringá</title>
+        <abstract locale="pt_BR">Este artigo analisa o edifício projetado para a Biblioteca Municipal de Maringá a partir da noção de circulação de ideias em arquitetura, manifestada na incorporação das formas da modernidade. Compreender o processo de difusão, assimilação, rejeição e transformação dessas ideias é necessário para o entendimento da arquitetura produzida no interior do país a partir da metade do século XX, no contexto da modernização das cidades interioranas. O edifício, inaugurado em 1975, está referenciado na arquitetura modernista e do concreto aparente, fazendo ressoar a produção de arquitetos paulistas e curitibanos das décadas de 1960 e 1970. O trabalho se desenvolveu através de uma pesquisa correlacional entre a biblioteca e seus antecedentes arquitetônicos.</abstract>
+        <abstract locale="en_US">This article analyzes the Maringá library building regarding the diffusion of architectural ideas, manifested in the incorporation of modern forms. Understanding the process of diffusion, assimilation, rejection and transformation of these ideas is necessary to comprehend the architecture developed in the mid-twentieth century inner cities, when urban modernization was noticed. The building, opened in 1975, is referenced in the modernist architecture and béton brut aesthetics, which resonates the works of architects from São Paulo and Curitiba of the 1960s and 1970. The work was developed through a correlational research between the library and its architectural antecedents. Key words: Architecture diffusion. Modern architecture. Northern Paraná. Referências da modernidade no edifício para a Biblioteca Municipal de Maringá Introdução Este trabalho trata da incorporação das ideias da modernidade no edifício projetado para a sede da Biblioteca Municipal e para a Secretaria de Educação e Cultura de Maringá, cidade nova planejada localizada no norte do Paraná fundada em 1947. Essa região teve uma ocupação planejada pautada pela colonização sistemática, que imprimiu aspecto inovador para as novas cidades implantadas. Adaptando a noção de cidades satélites foram consideradas quatro cidades principais e outras menores, dependentes e interligadas. Maringá é uma dessas quatro cidades, projetada pelo engenheiro Jorge de Macedo Vieira em 1945-47, que aplicou elementos do urbanismo moderno, como aspectos formais do garden city e do city beautiful (BONFATO, 2003; REGO, 2012). Nesse mesmo sentido, o anseio de se aproximar da paisagem dos grandes centros urbanos fez com que alguns edifícios construídos na cidade também recebessem aspectos da moderna arquitetura brasileira, prestigiada e intensamente divulgada pelo país. Assim, discute-se como a arquitetura produzida nas metrópoles brasileiras serviu de referência para o projeto da biblioteca, em um processo denominado circulação</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Circulação de Ideias. Arquitetura Moderna. Norte do Paraná</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vanessa Calazans da</givenname>
+            <familyname locale="pt_BR">Rosa</familyname>
+            <country>BR</country>
+            <email>rosa@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Renato Leão</givenname>
+            <familyname locale="pt_BR">Rego</familyname>
+            <country>BR</country>
+            <email>rego@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1822-2907</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

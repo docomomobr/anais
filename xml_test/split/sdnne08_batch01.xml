@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdnne08-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">A Cidade planejada</title>
+        <subtitle locale="pt_BR">o plano diretor de Palmas, a capital do Tocantins</subtitle>
+        <abstract locale="pt_BR">O presente artigo consiste na definição, para entendimento geral, da implantação de um Plano Diretor – conjunto de diretrizes, leis e regras implantadas acerca das destinações do solo do local, de forma que o crescimento seja equilibrado e bem distribuído - na cidade de Palmas, capital do estado do Tocantins, que inicialmente foi divididem três grandes áreas a serem adensadas e, posteriormente, sofreram modificações inesperadas. Através da principal referência deste artigo são abordados com especificidade os planos principais de ocupação da cidade que não foram seguidos com o decorrer dos anos, gerando um crescimento desordenado e não correspondente ao esperado. Além de apontar os itens que sofreram impactos devido ao espalhamento incoerente da população, como o transporte público, problemas com saneamento básico e déficit de distribuição de energia em algumas regiões da cidade, são colocados as possíveis justificativas do ocorrido, os prováveis responsáveis e suas consequências para a cidade atual. Por meio da apresentação de uma breve entrevista com alguns habitantes da Capital do estado do Tocantins, os mesmos puderam expressar sua insatisfação e colaborar com alguns pontos que são considerados muito importantes para que os danos do crescimento desordenado da cidade sejam amenizados, contando com o apoio e investimento do Poder Político vigente e da população em si.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plano Diretor</keyword>
+          <keyword>população</keyword>
+          <keyword>crescimento desordenado</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eleny Souza dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <affiliation locale="pt_BR">CEULP-ULBRA</affiliation>
+            <country>BR</country>
+            <email>elabres@hotmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdnne08-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">A flexibilidade do envelope enquanto característica que contribui para adequação do edifício da Arquitetura Moderna</title>
+        <abstract locale="pt_BR">Um fator contribuinte para a preservação dos edifícios é manter-se em funcionamento. Um desafio é fazer com que a edificação se adapte às novas necessidades decorrentes de legislações e mudanças de uso. Edifícios podem ser mais flexíveis ou mais condicionados a sua função. Um envelope flexível reflete uma envoltória onde a forma não segue necessariamente a função, possibilitando adequações internas sem alterações externas, sendo essa uma característica que influencia na conservação do edifício moderno. Os estudos de caso apontam que a flexibilidade resultante da decisão projetual de ter uma estrutura independente prevê a possibilidade de sua adequação em etapas posteriores à concepção. O edifício piloto possui um envelope flexível, que permitirá uma adequação de uso e função com facilidade, seguindo as normas legislativas e preservando o edifício vertical moderno.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Conservação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Flexibilidade</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paula Maciel</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">UNICAP</affiliation>
+            <country>BR</country>
+            <email>paula.maciel@unicap.br</email>
+            <orcid>https://orcid.org/0000-0002-2345-4043</orcid>
+            <biography locale="pt_BR">Doutora, Universidade Católica de Pernambuco</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Bárbara Fernandes de</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">CCT-UNICAP</affiliation>
+            <country>BR</country>
+            <email>barbarafernandesarq@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdnne08-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">A fábrica da premol e a construção da Cidade Moderna</title>
+        <subtitle locale="pt_BR">a pré-fabricação a serviço da Modernidade</subtitle>
+        <abstract locale="pt_BR">O objeto de estudo do artigo trata do resgate da memória industrial da empresa Premol S.A, que possuía sua sede na cidade de Campina Grande, região do agreste da Paraíba, nordeste brasileiro. Trabalha com o recorte temporal entre os anos de 1960 a 1970, período profícuo da empresa; e possui como objetivo divulgar a memória e importância desse acervo, através de seu resgate histórico e imagético, para a compreensão da produção arquitetônica local e regional. A justificativa deste trabalho leva em consideração a importância dessa indústria do segmento de construção civil, no qual se observou que a fábrica da Premol era considerada na época, como uma das maiores produtoras locais de elementos pré-fabricados em concreto armado, e responsável pelo fornecimento desse elemento construtivo para toda a cidade e região. Como metodologia, se baseia em uma linha de investigação proposta por Serra (2006) que trabalha com a relação entre o processo, que seria a evolução da Fábrica- de sua origem, desenvolvimento e falência- dialogando com o sistema, que seria composto pelos condicionantes espacial, econômico, tecnológico, e sociocultural. Aos procedimentos de investigação devem-se a coleta de depoimentos orais, levantamentos fotográficos e visitas in loco, que têm construído um fio condutor que proporcionou o conhecimento de uma parte expressiva da obra da Premol em Campina Grande.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>cidade</keyword>
+          <keyword>arquitetura</keyword>
+          <keyword>patrimônio industrial</keyword>
+          <keyword>construção</keyword>
+          <keyword>modernidade</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Profa. Dra. adjunta ao curso de Arquitetura e Urbanismo, UFCG</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ivanilson Santos</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>ivanilsonrocha1@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7911-1365</orcid>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo, UFCG</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdnne08-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">A Modernidade na Arquitetura das escolas industriais federais no Nordeste do Brasil (1930-1960)</title>
+        <abstract locale="pt_BR">As Escola Industriais Federais, os atuais Institutos Federais de Educação, surgiram a partir da criação das Escolas de Aprendizes Artífices em 19 unidades federativas do Brasil em 1909, com o objetivo de capacitar os “desprovidos da fortuna”. Com o advento do Estado Novo, o início da industrialização expressava um processo de intensa urbanização das capitais. Desde então estas Escolas se alinham às transformações nas políticas, gerando assim alterações nas suas nomenclaturas e funções sociais e, consequentemente, em suas estruturas físicas. Assim, o presente artigo pretende analisar o panorama da arquitetura das Escolas Industriais Federais no Nordeste, entre as décadas de 1930 e 1960, enfatizando os traços de modernidade e modernização nos projetos e nas obras. Estas escolas representaram as primeiras sedes planejadas para tal função, apresentando conceitos inovadores no espaço, na linguagem formal e nas técnicas construtivas. Os pressupostos teóricos do trabalho estão baseados na articulação entre a produção arquitetônica das escolas e o contexto social, econômico, político e cultural brasileiro. Como pressupostos práticos, pretende-se analisar os projetos arquitetônicos de algumas escolas do Nordeste que apresentavam características modernizantes nas cidades de São Luiz, Fortaleza, Teresina e Natal, contribuindo assim para a valorização e memória desse acervo arquitetônico.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Escolas Industriais</keyword>
+          <keyword>Arquitetura escolar</keyword>
+          <keyword>Historiografia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Adriana Castelo Branco Ponte de</givenname>
+            <familyname locale="pt_BR">Araujo</familyname>
+            <affiliation locale="pt_BR">FAUUSP</affiliation>
+            <country>BR</country>
+            <email>acbranco2003@yahoo.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Alexandre</givenname>
+            <familyname locale="pt_BR">Paiva</familyname>
+            <country>BR</country>
+            <email>paiva_ricardo@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-0332-097X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdnne08-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">A obra modernista do arquiteto neudson Braga em Fortaleza</title>
+        <subtitle locale="pt_BR">da Escola Carioca às especificidades locais</subtitle>
+        <abstract locale="pt_BR">O objetivo do artigo é apresentar uma breve abordagem da historiografia da arquitetura moderna realizada no nordeste brasileiro, tomando como base a trajetória do arquiteto José Neudson Braga, um dos protagonistas no processo de introdução e difusão do modernismo arquitetônico na cidade de Fortaleza-Ce. Após sua formação (1959) na Escola Nacional de Arquitetura (RJ), suas obras realizadas no Ceará eram, no início, claramente filiadas à Escola Carioca, adquirindo posteriormente novos atributos, com a introdução de técnicas e materiais relacionados ao contexto local. Três exemplares modernos executados na década de 1960: o Centro de Exportadores do Ceará, o Imperial Palace Hotel e o Edifício Palácio Coronado ilustram essa primeira fase do arquiteto, enquanto sua residência, projetada em 1970, apresenta elementos diferenciados, relacionados ao processo construtivo e técnicas locais, entre outras características, embora com linhas notadamente modernas. O trabalho pretende analisar as obras citadas, evidenciando a evolução presente nas duas fases de sua produção. A relevância do artigo se faz por destacar a importância da contribuição do arquiteto, autor de uma quantidade significativa de projetos, que revelam programas e desenho moderno diferenciados e por seu papel no processo de difusão da arquitetura moderna no país, constituindo importante legado a ser documentado.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Neudson Braga</keyword>
+          <keyword>Fortaleza</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane de Araújo Alves</givenname>
+            <familyname locale="pt_BR">Siqueira</familyname>
+            <affiliation locale="pt_BR">UNI7</affiliation>
+            <country>BR</country>
+            <email>cristianealvessiqueira@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0003-0668-9980</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Beatriz Helena Nogueira</givenname>
+            <familyname locale="pt_BR">Diógenes</familyname>
+            <affiliation locale="pt_BR">UFC</affiliation>
+            <country>BR</country>
+            <email>bhdiogenes@secrel.com.br</email>
+            <orcid>https://orcid.org/0000-0003-4305-5485</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

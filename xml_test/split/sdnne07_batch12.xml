@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="56" stage="production">
+      <id type="internal" advice="ignore">sdnne07-056</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="55" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">56</id>
+        <title locale="pt_BR">Conjunto residencial passo da pátria</title>
+        <abstract locale="pt_BR">O Conjunto Residencial Passo da Pátria (1968), de autoria dos arquitetos Neudson Braga (1935) e Gerhard Bormann (1939-1980), constitui-se como um dos primeiros exemplares da urbanística moderna em Fortaleza. Nas edificações que o compõem destacam-se a austera linguagem racionalista e as ! cuidadosas soluções de condicionamento térmico passivo. O contexto sócio-econômico-cultural em que emerge é também dos mais significativos, com destaque à criação de prestigiosas instituições (Universidade Federal do Ceará, Banco do Nordeste, SUDENE); relevantes melhorias na infraestrutura urbana; além do aquecido mercado imobiliário, financiado através do Plano Nacional de Habitação. Ao longo dos seus cinquenta anos de existência, o conjunto vem sofrendo intervenções que o descaracterizam e desqualificam, como o fechamento do terreno com muros, alteração do esquema cromático das fachadas, substituição das esquadrias originais e conversão das áreas livres do interior da quadra em espaços para estacionamento. Vale, finalmente, salientar a valorização, nos dias atuais, desta área da Cidade e o elevado índice de aproveitamento referendado pela legislação em vigor; fatores que põem em risco a permanência deste significativo exemplar do modernismo cearense. Daí a importância do seu estudo, documentação e divulgação.</abstract>
+        <abstract locale="en_US">The Passo da Pátria Residential Complex (1968), by the architects Neudson Braga (1935) and Gerhard Bormann (1939-1980), is one of the first examples of modern urban planning in Fortaleza. In the buildings that compose it stand out the austere rationalistic language and the careful solutions of passive thermal conditioning. The socio-economic-cultural context in which it emerges is also one of the most significant, with emphasis on the creation of prestigious institutions (Federal University of Ceará, Banco do Nordeste, SUDENE); relevant improvements in urban infrastructure; in addition to the heated real estate market, financed through the National Housing Plan. Throughout its fifty years of existence, the group has been subjected to interventions that de-characterize and disqualify it, such as the closing of the ground with walls, alteration of the chromatic scheme of the façades, replacement of the original frames and conversion of the free areas of the interior of the court into spaces for parking. Finally, it is important to emphasize the appreciation, in the present day, of this area of the City and the high rate of utilization that is backed by the legislation in force; factors that jeopardize the permanence of this significant example of modernism in Ceará. Hence the importance of its study, documentation and dissemination.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Habitação Coletiva</keyword>
+          <keyword>Neudson Braga</keyword>
+          <keyword>Gerhard Bormann</keyword>
+          <keyword>Conjunto Residencial Passo da Pátria</keyword>
+          <keyword>Arquitetura moderna – Ceará</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Collective Housing</keyword>
+          <keyword>Neudson Braga</keyword>
+          <keyword>Gerhard Bormann</keyword>
+          <keyword>Residential Complex Passo da Pátria</keyword>
+          <keyword>Modern architecture - Ceará</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Márcia Gadelha</givenname>
+            <familyname locale="pt_BR">Cavalcante</familyname>
+            <affiliation locale="pt_BR">DAU-UFC</affiliation>
+            <country>BR</country>
+            <email>marciacavalcante@ufc.br</email>
+            <orcid>https://orcid.org/0000-0001-9851-3151</orcid>
+            <biography locale="pt_BR">Doutora pela UPM (2015)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="57" stage="production">
+      <id type="internal" advice="ignore">sdnne07-057</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="56" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">57</id>
+        <title locale="pt_BR">Das casas às 'Villas'</title>
+        <abstract locale="pt_BR">Formado em 1958, na última turma da Escola de Belas Artes de Pernambuco, Wandenkolk Walter Tinoco faz parte de uma geração de arquitetos que teve Acácio Gil Borsoi e Delfim Amorim como principais mentores. Diversos autores já atestaram a importância da produção de Wandenkolk Tinoco para o cenário da arquitetura moderna em Pernambuco, entretanto, parte significativa dos estudos publicados se limita a investigar as particularidades dos projetos desenvolvidos por este arquiteto apenas entre as décadas de 1970 e 1980, que compreendem uma série de obras executadas pela construtora A.C.Cruz – os edifícios “Villas”. Apesar de ser um momento de grande relevância para a carreira de Tinoco, estes estudos oferecem uma visão pouco aprofundada sobre a produção do arquiteto, sobretudo em relação a seus primeiros anos de atuação. Este artigo tem como objetivo central apresentar uma análise dos edifícios residenciais desenvolvidos por Tinoco ao longo de sua trajetória profissional por meio de um conjunto de obras que se enquadram em três fases distintas: 1ª fase- período em que os edifícios apresentam traços reconhecíveis da influência dos mestres, 2ª fase- momento de ruptura e criação de uma identidade plástica em seus projetos, e 3ª fase- tentativa de adaptação às transformações do mercado imobiliário.</abstract>
+        <abstract locale="en_US">Graduated in 1958, in the last class of the EBAP, Wandenkolk Walter Tinoco is part of a generation of architects that had Acácio Borsoi and Delfim Amorim as main mentors. Several authors have already testified to the importance of the production of Wandenkolk Tinoco for the scenario of modern architecture in Pernambuco, however, a significant part of the published studies is limited to investigate the peculiarities of the projects developed by this architect only between the decades of 1970 and 1980, a series of buildings run by the construction company A. C. Cruz - the &quot;Villas&quot; buildings. Although it is a moment of great relevance for the career of Tinoco, these studies offer a little in-depth view on the production of the architect, especially in relation to his first years of performance. This paper aims to presents an analysis of the residential buildings developed by Tinoco throughout his professional career through a set of works that fall into three distinct phases: 1st phase - period in which the buildings present recognizable traits of the influence of the masters, 2nd phase - moment of rupture and creation of a plastic identity in their projects, and 3rd phase - attempt to adapt to the transformations of the real estate market.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Wandenkolk Tinoco</keyword>
+          <keyword>Residências Modernas</keyword>
+          <keyword>Pernambuco</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Wandenkolk Tinoco</keyword>
+          <keyword>Modern Residences</keyword>
+          <keyword>Pernambuco</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Patricia Ataíde Solon de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <affiliation locale="pt_BR">UNIFAVIP</affiliation>
+            <country>BR</country>
+            <email>ataidepatricia@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0258-0307</orcid>
+            <biography locale="pt_BR">Mestrado em Desenvolvimento Urbano (UFPE</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="58" stage="production">
+      <id type="internal" advice="ignore">sdnne07-058</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="57" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">58</id>
+        <title locale="pt_BR">Palmas</title>
+        <subtitle locale="pt_BR">referências para Uma Cidade nova</subtitle>
+        <abstract locale="pt_BR">O presente trabalho pretende analisar o projeto urbano de Palmas, capital do estado do Tocantins e a mais nova das capitais brasileiras, que emergiu em menos de um ano em um território imaculado, entre 1989 e 1990, um período entre a permanência do modernimo e a absorção das posturas pós-modernas. A abordagem se dará a partir do discurso de seus autores (arquitetos e urbanistas) e responsáveis pelo escritório GRUPOQUATRO e das possíveis referências urbanísticas (morfológicas) que teriam influenciado a proposta. Palmas, enquanto cidade nova, atraiu pesquisadores para seu projeto urbanístico, que se assemelha, em vários aspectos, ao proposto por Le Corbusier para Chandigarh, na Índia, ou Brasília, de Lucio Costa. Desse modo, interessa saber como os autores se apropriaram da proposta específica de Chandigarh em sua concepção ou se se trata apenas de pressupostos modernos. Outros projetos, como Milton Keynes e o Plano de Doxiádis acrecentam elementos às análises da solução adotada. Assim, discursos e projetos se confrontam na busca de uma complementaridade acerca da história da arquitetura e do urbanismo de Palmas.</abstract>
+        <abstract locale="en_US">The present work intends to analyze the urban project of Palmas, capital of the state of Tocantins and the newest of the Brazilian capitals that emerged in less than a year in an immaculate territory between 1989 and 1990, a period between the modernism and the absorption of postmodern postures. The approach will be from the perspective of its authors (architects and town planners), idealizers of their plan and responsi- ble for the office GRUPOQUATRO and of the possible urban (morphological) references that would have influenced the proposal. Palmas, as a new city, attracted researchers to its urban project, which resembles in several aspects the one proposed by Le Corbusier for Chandigarh, India or Brasilia, by Lucio Costa. In such a way, it is important to know how the authors appropriated the specific proposal of Chandigarh in its conception or if it is only a matter of modern presuppositions. Other projects, such as Milton Keynes and the Doxiádis Plan, add elements to the analysis of the adopted solution. Thus, discourses and projects are confronted in the search for a complementarity of the history of architecture and urbanism in Palmas.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palmas</keyword>
+          <keyword>GRUPOQUATRO</keyword>
+          <keyword>Arquitetura e Urbanismo</keyword>
+          <keyword>morfologia urbana</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Palmas</keyword>
+          <keyword>GRUPOQUATRO</keyword>
+          <keyword>Architecture and Urban Planning</keyword>
+          <keyword>urban morphology</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mayara</givenname>
+            <familyname locale="pt_BR">Dayanne Sousa Rezende</familyname>
+            <country>BR</country>
+            <email>mayararezende.arq@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9509-4713</orcid>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Christine Ramos</givenname>
+            <familyname locale="pt_BR">Mahler</familyname>
+            <country>BR</country>
+            <email>christinermahler@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-4565-5556</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="59" stage="production">
+      <id type="internal" advice="ignore">sdnne07-059</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="58" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">59</id>
+        <title locale="pt_BR">Arquitetura Moderna em Salvador</title>
+        <abstract locale="pt_BR">O presente artigo insere-se no eixo “Trajetórias Modernas e Documentação” e aborda um tema praticamente desconhecido na historiografia da arquitetura moderna baiana: a contribuição dos engenheiros baianos na consolidação do movimento moderno em Salvador. Para tal, tomamos como objeto de estudo a atuação do Sindicato dos Engenheiros da Bahia criado em 1937 e, mais especificamente, o conteúdo de seu órgão oficial, a revista Técnica. A análise dos 38 números publicados entre 1940 e 1959 revelam-nos dois aspectos interessantes. O primeiro relaciona-se com a divulgação da produção arquitetônica dos engenheiros a qual mostra-nos, como aconteceu também com os arquitetos desse período, o “trânsito” e “dilemas” surgidos a partir da firmação da arquitetura racional. Quer dizer, apesar de que os editores asseguravam que esta revista havia surgido como resultado dos desafios e reação da engenharia na Bahia, percebe que ela apresenta um viés mais “heterogêneo” e por vezes conservador. Já o outro aspecto da revista refere-se ao espaço dado a projetos de arquitetos; embora mais limitado, este nos permite identificar uma produção diferente, alternativa e complementar daquela divulgada em revistas comerciais ou mesmo de livros referenciais.</abstract>
+        <abstract locale="en_US">This article is part of the &quot;Modern Paths and Documentation&quot; and deals with a theme almost unknown in the historiography of modern Bahia architecture: the contribution of Bahia engineers in consolidating the modern movement in Salvador. Following this line, we take as object of study the work of the Engineers' Union of Bahia created in 1937 and, more specifically, the content of its official body, the Technical magazine. The analysis of the 38 numbers published between 1940 and 1959 reveals two interesting aspects. The first relates to the dissemination of the architectural production of the engineers, which shows us, as did the architects of this period, the &quot;traffic&quot; and &quot;dilemmas&quot; arising from the rational architecture. Then, although the editors claimed that this magazine had emerged as a result of the challenges and engineering reaction in Bahia, it perceives that it has a more &quot;heterogeneous&quot; and sometimes conservative bias. Already the other aspect of the magazine refers to the space given to architects' projects; although more limited, allows us to identify a different production, alternative and complementary to that disclosed in commercial magazines or even reference books.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Salvador</keyword>
+          <keyword>Sindicato dos Engenheiros da Bahia</keyword>
+          <keyword>revista Técnica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Salvador</keyword>
+          <keyword>Sindicado dos Engenheiros da Bahia</keyword>
+          <keyword>Técnica magazine</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Carlos Huapaya</givenname>
+            <familyname locale="pt_BR">Espinoza</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFBA</affiliation>
+            <country>BR</country>
+            <email>jhuapayae@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6776-8821</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo (2012)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Thiscianne</givenname>
+            <familyname locale="pt_BR">Moraes Pessoa</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFBA</affiliation>
+            <country>BR</country>
+            <email>thisciannempessoa@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-1459-2460</orcid>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="60" stage="production">
+      <id type="internal" advice="ignore">sdnne07-060</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="59" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">60</id>
+        <title locale="pt_BR">Corpo, espaço e participação</title>
+        <abstract locale="pt_BR">Durante as décadas de 1960 e 1970, vários princípios estabelecidos no contexto da produção cultural brasileira estavam sendo questionados pos artistas e intelectuais. Neste sentido, manifestações e movimentos trouxeram o audacioso projeto de transformar a forma de pensar arte e arquitetura, sendo ! crescente o interesse pela cultura popular e pela ampla e verdadeira participação do público, estendendo o significado de corpo. Este abandona seu condicionamento perante a obra, que por sua vez deixa de acontecer enquanto objeto acabado e passa a existir enquanto espacialidade aberta à percepção, vivência e experimentação de seus usuários. É nesse ambiente que situamos a obra de Hélio Oiticica e Lina Bo Bardi – protagonistas desse conceito em arte e arquitetura no âmbito brasileiro –, cujas investigações, pautadas em princípios modernos, buscavam sobretudo uma ressignificação do lugar e papel do artista e do arquiteto na sociedade, e cujos projetos passaram a integrar aspectos cada vez mais urbanos, envolvendo os espaços do cotidiano. O presente artigo trabalha sobre a hipótese de possíveis interlocuções entre as produções de Oiticica e Bo Bardi, sobre um conceito de arquitetura integrada às demais artes e que também funcionasse enquanto instrumento de transformação social.</abstract>
+        <abstract locale="en_US">During the 1960s and 1970s, artists and intellectuals were questioning several principles established in the context of Brazilian cultural production. In this point, manifestations and movements brought the daring project of transforming the way of thinking art and architecture, with growing interest in popular culture and the broad and true participation of the public, extending the meaning of body. This body leaves the conditioning in front of artwork, which in turn ceases to happen as a finished object and becomes a spatiality open to the perception, experience and experimentation of its users. In this context, we can find Hélio Oiticica and Lina Bo Bardi’s productions – protagonists of this concept in art and architecture in the Brazilian scope. Their investigations, based on modern principles, sought above all a new signification of the place and role of artist and architect in society, and whose projects began to integrate urban aspects, involving the spaces of daily life. The present paper deals with the hypothesis of possible interlocutions between the Oiticica and Bo Bardi’s productions, about a concept of architecture integrated to the other arts and as an instrument of social transformation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Cultura Arquitetônica</keyword>
+          <keyword>Cultura Artística</keyword>
+          <keyword>Arte e Arquitetura</keyword>
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>Hélio Oiticica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architectural Culture</keyword>
+          <keyword>Artistic Culture</keyword>
+          <keyword>Art and Architecture</keyword>
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>Hélio Oiticica</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paulo</givenname>
+            <familyname locale="pt_BR">Arthur Silva Aleixo</familyname>
+            <affiliation locale="pt_BR">FAET-UFMT</affiliation>
+            <country>BR</country>
+            <email>pauloarthur8@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0788-393X</orcid>
+            <biography locale="pt_BR">Mestrando em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eline Maria Moura Pereira</givenname>
+            <familyname locale="pt_BR">Caixeta</familyname>
+            <affiliation locale="pt_BR">FAET-UFMT</affiliation>
+            <country>BR</country>
+            <email>caixeta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9147-3927</orcid>
+            <biography locale="pt_BR">Doutora em História da Arquitetura e História da Cidade (1999)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

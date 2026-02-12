@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsul05-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Para além da “difusão” da Arquitetura Moderna Brasileira</title>
+        <subtitle locale="pt_BR">um esforço de categorização</subtitle>
+        <abstract locale="pt_BR">O artigo busca refletir sobre determinadas “categorias” associadas ao processo normalmente chamado de “difusão” ou “recepção” da Arquitetura Moderna Brasileira, verificado no país durante os anos 1950-60. A leitura e análise de uma série de trabalhos originários da pós-graduação (dissertações de mestrado e teses de doutorado), permitiram ampliar o escopo de discussão sobre o tema da “difusão” e mostrar que a narrativa que vem se construindo sobre o tema a partir da ideia de irradiação – em outras palavras, de uma arquitetura que se dissemina a partir do eixo Rio de Janeiro/São Paulo –, já não dá conta de expressar a complexidade, o alcance e os significados do fenômeno. Essas pesquisas – em número crescente desde os anos 1990, e acompanhando as discussões realizadas no âmbito dos seminários DOCOMOMO e a expansão dos programas de pós-graduação em arquitetura e urbanismo – têm trazido contribuições importantes para o tema, mergulhando em fontes primárias (jornais, revistas, propagandas, documentos oficiais etc.) dos mais variados locais do país, e revelando que outros vetores são fundamentais para uma adequada compreensão do fenômeno e de seu caráter nacional. Dentre as categorias investigadas, podemos citar: a criação de novos cursos (não apenas de arquitetura, mas também de engenharia) e de novos ambientes de discussão; o protagonismo exercido por algumas figuras-chave; os profissionais migrantes e as figuras-chave que têm ficado em segundo plano; o papel do Estado (via legislação ou via construção direta); a participação da incorporação imobiliária e dos periódicos especializados de arquitetura; e a circulação de ideias para além do âmbito profissional de arquitetura, seja através de profissionais sem o domínio de ofício, seja a partir de publicações de fácil acesso e consumo – usualmente chamada de “popularização” da arquitetura moderna brasileira. A leitura dos diversos trabalhos da pós-graduação tem evidenciado um campo maior de discussões em torno do tema da “difusão”: os contatos pessoais, as relações de parentesco, as viagens realizadas por arquitetos e outros profissionais etc., informações que em geral não apresentam destaque nos trabalhos, mas que indicam uma multiplicidade de relações que contribuíram para o alcance e complexidade do fenômeno.</abstract>
+        <abstract locale="en_US">This paper aims to consider certain &quot;categories&quot; associated with the process usually called &quot;diffusion&quot; or &quot;reception&quot; of Brazilian Modern Architecture, during the 1950-60’s decades. A series of studies conducted in the architecture’s graduate programs has contributed to extend the discussion about “diffusion” and to show that the dominant narrative is considering an idea of “irradiation” – in other words, the idea of an architecture which spreads from Rio de Janeiro and Sao Paulo - that no longer expresses the complexity and the scope and meaning of the large phenomenon. These surveys - in increasing numbers since the 1990s, and following the discussions held under the DOCOMOMO seminars and the expansion of graduate programs in architecture and urbanism - have made important contributions to the subject, exploring primary sources (newspapers, magazines, advertisements, official documents etc.) of various parts of the country, and revealing that other vectors are essential to a proper understanding of the phenomenon and its national character. Among the investigated categories, we can mention: the creation of new undergraduate courses (not only architecture, but also engineering) and new discussion environments, the role played by some key figures, migrants and other professionals who have stayed in the background, the buildings and urban legislations conducted by the State, the share of real state and specialized architectural journals and circulation of ideas beyond professional architecture framework (even by professionals without the craft domain), either from easy access and consumer publications - usually considered into &quot;popular modernist architecture&quot; in Brazil. The studies have also shown an increased field of discussions opportunities around the theme of &quot;diffusion&quot;: personal contacts and other relationships, the trips made by architects and other professionals etc. These information feature with less importance in the works, but indicates a multiplicity of relationships that contributed to the scope and complexity of the phenomenon.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Difusão. Recepção. Arquitetura Moderna Brasileira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Diffusion. Reception. Brazilian Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Adriana Leal de</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <affiliation locale="pt_BR">UNICEP</affiliation>
+            <country>BR</country>
+            <email>lalmeida@sc.usp.br</email>
+            <orcid>https://orcid.org/0009-0004-4822-5767</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carlos Alberto Ferreira</givenname>
+            <familyname locale="pt_BR">Martins</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>cmartins@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0003-4321-2057</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsul05-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Faculdade de Engenharia de montevidéu</title>
+        <subtitle locale="pt_BR">um novo uso para a velha sala de máquinas</subtitle>
+        <abstract locale="pt_BR">Localizado dentro do Parque Rodó, em Montevidéu, o edifício sede da Faculdade de Engenharia da Universidade da República tem projeto do arquiteto Julio Vilamajó (1894-1948) e abriga todas as funções dos cursos de engenharia, física e matemática da universidade desde 1944. Na década de 1990, sob condução do arquiteto Gustavo Scheps (1954-), passou por uma reforma em parte de seus interiores, foco de análise deste trabalho. Totalmente construído em concreto armado, o edifício projetado por Vilamajó está implantado junto a um dos limites do parque público, relacionando-se tanto com a cidade como com o Rio da Prata. A volumetria combina grandes volumes elevados do solo aliados a estruturas pousadas no chão. O espaço livre do térreo estabelece a relação visual entre o rio e a cidade e garante a circulação de pedestres dentro do parque. A plasticidade do edifício resulta da própria estrutura exteriorizada, o que deixa aparentes tanto a forma quando a matéria que o compõem. No início da década de 1990, devido à necessidade de ampliar as áreas para salas de pesquisa e administração na faculdade, optou-se por uma intervenção arquitetônica que gerasse um aproveitamento melhor do espaço disponível na sala de máquinas. A cargo da tarefa, o decano da Faculdade de Arquitetura da Universidade da República Gustavo Scheps optou por projetar um jogo de passarelas suspensas que levam às salas, construídas com pés-direitos mais baixos, adequados aos novos serviços Observando a dupla intervenção, tanto do ponto de vista da materialidade quanto no que diz respeito à adoção do novo uso, percebe-se que mais do que estabelecer uma combinação harmoniosa do contemporâneo com o moderno, o autor firmou um diálogo franco entre os dois períodos, percebido tanto pelo aspecto dos materiais utilizados na intervenção quanto pelo uso gerado. Este artigo objetiva documentar visita e levantamento fotográfico atual realizado no edifício pela autora, além interpretar a reforma sob o ponto de vista do desafio de projetar no construído, uma vez que qualquer intervenção exerce um papel modificador à arquitetura existente. Foi analisada a intervenção in loco com base em visita guiada por Gustavo Scheps. O estudo procura compreender a maneira como o autor lidou com os novos aspectos do programa de necessidades, a tecnologia utilizada para a construção do projeto de intervenção e a maneira como ele lidou com o caráter formal do projeto em relação ao edifício existente.</abstract>
+        <abstract locale="en_US">Placed within the Rodó Park in Montevideo, the headquarters building of National University’s Faculty of Engeneering was desingned by Julio Vilamajó (1894-1948) and receives all engineering, physics and mathematics courses from the university since 1944. In the 1990s, under the work of the architect Gustavo Scheps (1954-), underwent a renovation of its interior, which its focus of analysis of this work. Fully built in reinforced concrete, the building designed by Vilamajó is implanted along one of the limits of the public park, relating both to the city and to the River Plate. The shape combines high ground volumes with structures on the floor. The unfilled floor space establishes a visual relationship between the river and the city and ensures pedestrian circulation within the park. The plasticity of the building results from the externalized structure, which makes apparent the form as much as the material. In the early 1990s, due to the need to expand areas for research and administration in the college, it was decided for an architectural intervention that would generate a better use of the available space in the engine’s room. At charge of the task, the Dean of the National University’s Architecture Faculty Gustavo Scheps, chose to design a suspended walkways that lead to the rooms, built with lower ceiling heights, suitable for new services. Observing the double intervention, of both the materiality point of view and the adoption of the new use, it is clear that more then establish a harmonious blend of contemporary and modern, the author firmed a dialogue between the two periods, perceived both by the appearance of the materials used in the intervention and the new use generated. This article aims to document current view of the building by visit and photographic analyses by the author, in addition to interpret the reform under the point of view of the challenge of designing in the built, since any intervention modifies the existing architecture. It was analyz</abstract>
+        <keywords locale="pt_BR">
+          <keyword>rearquitetura</keyword>
+          <keyword>concreto aparente</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Cristina</givenname>
+            <familyname locale="pt_BR">Castagna</familyname>
+            <country>BR</country>
+            <email>castagna@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0973-9744</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsul05-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Casa curutchet</title>
+        <subtitle locale="pt_BR">um mimo poético de Le Corbusier à América latina</subtitle>
+        <abstract locale="pt_BR">Em Setembro de 1948, Pedro Curutchet encomendou uma casa-consultório a Le Corbusier por intermédio de sua irmã que viajava com freqüência a Paris. O médico-cirurgião argentino, progressista e revolucionário, interessado em Le Corbusier a partir do Plano de 1929 para Buenos Aires, era um cliente ideal; e o encargo, um triplo desafio: além da distância entre o arquiteto e o local jamais visitado durante o processo de projeto, existia a dificuldade de acomodar um programa duplo em terreno pequeno inserido em um contexto tradicional consolidado. Entretanto, a dificuldade se tornou uma oportunidade de rememorar a viagem de 1929, e aplicar as estratégias compositivas desenvolvidas pelo ateliê da Rue de Sèvres 35, em Paris, na Usine Duvall e na Unité d’habitación de Marseille, um período de transição entre a fertilidade teórica do final dos anos 1920 e os grandes trabalhos dos anos 1950. O objetivo desse trabalho é examinar e discutir o projeto, de acordo com as tres linhas de pensamento de Le Corbusier - a tipologia, a sintaxe dos cinco pontos e a abordagem técnica -, as suas referências dentro do próprio trabalho corbusiano, e alguns aspectos da obra, restauração e preservação de um dos exemplares mais importantes da arquitetura moderna dos anos 1930-70 abaixo do paralelo 22.</abstract>
+        <abstract locale="en_US">In 1948, the Argentine doctor-surgeon Pedro Curutchet ordered a home-office to Le Corbusier through his sister who frequently has been traveled to Paris. It was a triple challenge: in addition to the distance between the architect and the place, which has never been visited during the design process, there was the difficulty of accommodating a double program in small plot inserted in a traditional consolidated context. However, the difficulty has become an opportunity to recall the journey of 1929, and apply the compositional strategies developed in Usine Duvall and Unité d'habitación de Marseille’ s designs by the studio in the Rue de Sèvres 35, in Paris, in a transition’s period between theoretical fertility of the late 1920s and the great works of the 1950s. The aim of this study is to examine and discuss the project according to Le Corbusier’s three lines of thought - type, five point’s syntax and technical approach - the Le Corbusier's references within his work and some aspects of the building construction, restoration and preservation of one of the most important examples of 1930-70s modern architecture below parallel 22. Key words: Curutchet house, Le Corbusier, Latin America. 2 Casa Curutchet: um mimo poético de Le Corbusier à América Latina Em Setembro de 1948, Pedro Curutchet encomendou uma casa-consultório a Le Corbusier por intermédio de sua irmã que viajava com freqüência a Paris. O médico-cirurgião argentino, progressista e revolucionário, interessado em Le Corbusier a partir do Plano de 1929 para Buenos Aires (Broadbent 2013, 19), era um cliente ideal; e o encargo, um triplo desafio: além da distância entre o arquiteto e o local jamais visitado durante o processo de projeto, existia a dificuldade de acomodar um programa duplo - residência e consultório - em terreno pequeno, inserido entre divisas, em um contexto tradicional consolidado, o que resultaria em uma solução com uma única fachada - circunstancia inédita na produção anterior do autor. En</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa Curutchet</keyword>
+          <keyword>Le Corbusier</keyword>
+          <keyword>América Latina</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andréa Soler</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <country>BR</country>
+            <email>andreasolermachado@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0243-7946</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Sílvia</givenname>
+            <familyname locale="pt_BR">Corrêa</familyname>
+            <country>BR</country>
+            <email>correa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4286-3667</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Angelina</givenname>
+            <familyname locale="pt_BR">Blömker</familyname>
+            <country>BR</country>
+            <email>blomker@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Adriana</givenname>
+            <familyname locale="pt_BR">Sabadi</familyname>
+            <country>BR</country>
+            <email>sabadi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1595-343X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsul05-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Como qualificar sem descaracterizar</title>
+        <subtitle locale="pt_BR">estudo de caso no edifício da secretaria municipal de obras e viação em Porto Alegre</subtitle>
+        <abstract locale="pt_BR">A reabilitação da arquitetura moderna tende a transformar-se num campo especializado de crescente demanda. Muitos dos edifícios desse período têm sido demolidos ou refuncionalizados, mas nem sempre a conservação dos aspectos originais ou da significância cultural das obras é respeitada. Na maior parte das vezes, a justificativa da necessidade de melhoria dos aspectos de conforto ambiental e eficiência energética se sobrepõe às questões da visualidade. A nova materialidade das intervenções, em geral, não busca desenvolver soluções que respeitem aspectos da linguagem arquitetônica da obra ou projeto original. Isto é, várias intervenções sobre o patrimônio moderno contrariam pressupostos do campo da conservação, que supervaloriza a integridade das obras mesmo que em detrimento de suas condições de conforto ambiental. Um ponto central da discussão é como equilibrar aspectos econômicos, de eficiência e conforto com decisões sobre o que conservar, manter ou renovar. Uma das características do período moderno foi a grande experimentação construtiva, quando os arquitetos buscavam conhecer os limites de materiais até então pouco explorados, como o concreto e o vidro. Em decorrência de vícios de projeto ou dos desgastes ocorridos com o tempo, as fachadas são, em geral, o ponto mais crítico das edificações ainda em uso. A maior parte dos edifícios públicos do período moderno em Porto Alegre está em péssimo estado de conservação e sem condições de habitabilidade para seus usuários. Em termos de conforto térmico e luminoso, podem ser considerados extremamente inadequados. Dentro desse contexto, o edifício escolhido como objeto para desenvolvimento de pesquisa, cujo objetivo é verificar como requalificar os aspectos ambientais e tecnológicos de um edifício exemplar da arquitetura moderna sem descaracterizá-la em relação aos seus valores históricos e artísticos, foi a sede da Secretaria Municipal de Obras e Viação. De autoria dos arquitetos Moojen, Vallandro e Ferreira, o edifício foi projetado e executado entre os anos de 1966 e 1970. Possui os elementos mais representativos das construções do período moderno, como as fachadas independentes compostas de esquadrias envidraçadas e contínuas apoiadas sobre painéis pré-fabricados de concreto. Com planta livre, contendo apenas um núcleo central de sanitários e circulações verticais, o edifício é coordenado por um módulo de 1,25m x 1,25m, tanto nos elementos estruturais e de fachada quanto nos elementos internos, como divisórias e forros, por exemplo. O rigor do desenho, inclusive do mobiliário, é um dos grandes valores da obra. Como em muitas edificações de uso público no Brasil, a edificação carece de manutenção continuada e o desgaste dos elementos da fachada são visíveis. Alterações externas foram realizadas na década de 1980, sem consulta aos autores, quando foram retiradas as esquadrias originais com montantes em ferro e substituídas por outras em alumínio. A nova subdivisão dos montantes e vidros modificou a aparência da fachada, sem resolver as questões de ganho térmico e falta de estanqueidade à água e sonora identificadas até hoje no edifício através de uma avaliação pós-ocupação. A discussão apresentada neste artigo simula alternativas de intervenção nas fachadas, desenvolvidas em 2014 por alunos do Mestrado Internacional “Facade Design and Construction” da Detmolder Schule für Architektur und Innenarchitektur, na Alemanha. Utilizando o estudo de caso como estratégia metodológica, neste edifício com problemas típicos dos sistemas construtivos do período moderno foram analisadas e comparadas simulações do projeto original e do estado atual de desempenho da fachada com outras duas alternativas de intervenção, cuja variável seria a maior ou menor interferência visual na obra, verificando suas consequências na concepção arquitetônica original. Resultados preliminares apontam para o desenvolvimento de novos materiais como melhor estratégia para equilibrar o conflito entre a manutenção da imagem da obra e a melhoria dos aspectos de conforto e eficiência energética.</abstract>
+        <abstract locale="en_US">The rehabilitation of modern architecture buildings tends to become a specialized field of growing demand all over the world. Many of the buildings from this time have been demolished or have new uses, but not always the unique modern elements or cultural significance have been respected. In most cases, the reason is the need to improve environmental comfort aspects and energy efficiency and these aspects have been more important than visually issues. In general, the proposed new materiality interventions do not seek to develop solutions that respect aspects of the architectural language or original design. That is, several interventions on the modern heritage contradict assumptions of the field of conservation, which sometimes overestimates the integrity of works even at the expense of their environmental comfort conditions. A central point of the discussion is how to balance economic, efficiency and comfort aspects concerned to the decisions about what to preserve, maintain or renew. One of the main features from modern time practice was the great constructive experimentation, when architects sought to know the limits of materials not well explored until then, like concrete and glass. Because of design defects or wear occurring over time, the facades are generally the most critical building´s element that still in use. Most of the public buildings from the modern time in Porto Alegre face serious problems from lack of maintenance and are inadequate for users in terms of lighting or thermal comfort. This paper aims to present the first results of an ongoing research project which the main goal is to verify how requalify environmental and technological aspects of an exemplary building of modern architecture time without unconfiguring it in relation to its historical and artistic values. In this context, the building chosen as a research case study was the headquarters building of the Secretaria Municipal de Obras e Viação designed by Moojen, Vallandro and Ferreira architects and built between the years 1966 and 1970. The building presents the most representative elements of the modern architecture, as the composite independent façade glazing and continuous frames supported on prefabricated concrete panels, for example. The open floor plan contains only a core group of sanitariums and vertical circulations. A 1,25m x 1,25m module coordinates the structural, facade and internal elements, such as partitions and ceilings. The rigorous coordination of the design, that includes the furniture, is one of the great values of work. As many public buildings in Brazil, this one lacks continued maintenance and wear of the facade elements are visible. External changes were made in the 1980s, without consulting the authors. The original window iron frames were taken away and replaced by aluminum ones. A new design of the window frames and new glass proprieties changed the appearance and materiality of the façade, without solving the issues of heat gain, water leaking and noise from outside identified on a post occupancy evaluation. This article is based on simulation of alternative facades interventions developed in 2014 by students of the International Master &quot;Facade Design and Construction&quot; of Detmolder Schule für Architektur und Innenarchitektur, in Germany. Using the case study as a methodological strategy, this study analyzes and compares simulations of original project and the current façade´s thermal and energy performance with two other alternatives, which variable in respect to the bigger or smaller visual interference. The simulations allow us to check the consequences of the interventions on the original architectural design. Preliminary results point to the development of new materials as the best strategy to balance the conflict between the image of the work of maintaining and improving the aspects of comfort and energy efficiency.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>requalificação de edifícios</keyword>
+          <keyword>conforto ambiental</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>building rehabilitation, environmental comfort</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Betina Tschiedel</givenname>
+            <familyname locale="pt_BR">Martau</familyname>
+            <country>BR</country>
+            <email>betina.martau@ufrgs.br</email>
+            <orcid>https://orcid.org/0000-0001-6440-8126</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernando Duro da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>duro@unisinos.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsul05-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">A flexibilidade como atributo da Arquitetura Moderna Brasileira e sua vigência na contemporaneidade</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna. Arquitetura Moderna Brasileira. Flexibilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture. Modern Architecture in Brazil. Flexibility</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Bruno Melo</givenname>
+            <familyname locale="pt_BR">Braga</familyname>
+            <country>BR</country>
+            <email>redearquitetos@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-3140-2195</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

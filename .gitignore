@@ -10,11 +10,19 @@
 # Imagens
 *.png
 *.jpg
+*.JPG
 *.jpeg
 *.gif
+*.tif
 *.tiff
 *.bmp
 *.svg
+
+# Vídeo
+*.mp4
+
+# Lock files
+.~lock.*
 
 # XMLs de importação (gerados)
 **/xml_lotes/

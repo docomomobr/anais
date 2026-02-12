@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdnne07-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">A utilização dos cobogós na Arquitetura Moderna industrial campinense</title>
+        <abstract locale="pt_BR">Este artigo insere-se no Eixo Temático 2: Trajetórias Profissionais e Documentação; e é resultado de investigações realizadas pelo Grupo de Pesquisa Arquitetura e Lugar, cadastrado na Universidade Federal de Campina Grande e no CNPq, na linha sobre Patrimônio Industrial. O objeto de estudo consiste nos cobogós industriais modernos da fábrica da Wallig de Campina Grande, agreste paraibano. O objetivo é analisar o desenho e a funcionalidade dos mesmos em relação ao lugar e documentá-las tendo em vista que fazem parte de um rico acervo que tem se deteriorado gravemente nos últimos anos. Justifica-se a apresentação do mesmo, pelo ineditismo do estudo dos cobogós do acervo moderno industrial e pela necessidade em divulgar e discutir dois temas polêmicos na contemporaneidade, que são os acervos pertencentes ao patrimônio moderno e o industrial. Percebe-se que as indústrias modernas não vêm sendo considerados em inventários realizados pelos órgãos preservacionistas e, portanto, vem sofrendo modificações e sendo perdidos ao longo dos anos. O artigo trabalha com a metodologia dos autores SERRA (2006) e ROVIRA e GASTON (2007). O aporte teórico está sustentado em autores como CHOAY (2006), as cartas patrimoniais, CARSARLADE (2012), KUHL (2008), AFONSO (2017), que abordam a respeito das questões patrimoniais em nível internacional e nacional.</abstract>
+        <abstract locale="en_US">This article is insert in Thematic Axis 2: Professional Trajectories and Documentation; and is the result of research realizes by Arquitetura e Lugar’s Research Group, registered at the Universidad Federal de Campina Grande and CNPq, in the line of Industrial Heritage. The study object consists at the analysis of the modern industrial pavilions of the Wallig factory at Campina Grande, agreste of Brazil. The objective is to analyze their designs and functionality in relation to the place and document them as part of a rich collection that has deteriorated seriously in recent years. The presentation of it is justified by the novelty of the study of the cobogós at the modern industrial heritage and by the need to disclose and discuss two polemic themes in contemporary times, which are the collections belonging to modern and industrial patrimony. It is noticed that modern industries are not being considered at the inventories made by the preservationist organs and, therefore, it has been undergoing modifications and being lost over the years. The article works with the methodology of the authors SERRA (2006) e ROVIRA e GASTON (2007). The theorical contribution is supported by authors such as CHOAY (2006), patrimonial letters, CARSARLADE (2012), KUHL (2008), AFONSO (2017), which deal with patrimonial issues at international and national levels.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Moderno Industrial</keyword>
+          <keyword>Soluções climáticas</keyword>
+          <keyword>Preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Industrial Modern Heritage</keyword>
+          <keyword>Climate solutions</keyword>
+          <keyword>Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Déborah</givenname>
+            <familyname locale="pt_BR">Duarte de Araújo</familyname>
+            <country>BR</country>
+            <email>deborahdda2@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Julia Ribeiro Maranhão</givenname>
+            <familyname locale="pt_BR">Leite</familyname>
+            <country>BR</country>
+            <email>julia_leite_@live.com</email>
+            <orcid>https://orcid.org/0000-0002-7644-8181</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Diego Claudino</givenname>
+            <familyname locale="pt_BR">de Sousa Diniz</familyname>
+            <country>BR</country>
+            <email>desousadiniz@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Roberta</givenname>
+            <familyname locale="pt_BR">Rodrigues</familyname>
+            <country>BR</country>
+            <email>rodrigues@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Matheus</givenname>
+            <familyname locale="pt_BR">Batista</familyname>
+            <country>BR</country>
+            <email>batista@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdnne07-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Centro Cultural lourdes Ramalho</title>
+        <abstract locale="pt_BR">! O presente trabalho se insere no Eixo Temático 1 deste evento: Modernidade, Lugar e Ambiente. O artigo tem como objeto de estudo o Centro Cultural Lourdes Ramalho, inaugurado no ano de 1982 no município de Campina Grande. O espaço analisado possui padrões arquitetônicos modernistas e sofreu inúmeras modificações ao longo do tempo em detrimento das mudanças de gestão e questões socioculturais, que acabaram por descaracteriza-lo. O objetivo desse estudo é redesenhar e analisar a obra como forma de preservação do patrimônio e trazer uma reflexão sobre a importância de tal edificação na paisagem e sua relativa comunicação com o público atrelada a seu dever social. Tal discussão justifica-se pela necessidade de divulgar e documentar as mudanças no patrimônio moderno campinense. Essa investigação decorre de estudos realizados pelo Grupo de Pesquisa Arquitetura e Lugar, cadastrado no Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), vinculado ao curso de Arquitetura e Urbanismo da Universidade Federal de Campina Grande, voltado a pesquisas históricas e arquitetônicas. A metodologia adotada baseia-se em SERRA (2006). Encontra aporte teórico em GASTÓN E ROVIRA (2007), BRUAND (1979), SEGAWA (1997), AMORIM (2004), QUEIROZ E ROCHA (2006) e AFONSO (2006), refletindo o diálogo entre edificação, sociedade e ambiente.</abstract>
+        <abstract locale="en_US">The current article it’s insert on the first Thematic Topic of this event: Modernity, Site and Environment. This item study object is the Lourdes Ramalho Cultural Center, which was inaugurated at 1982 on Campina Grande county. The analyzed space have modern architectural patterns e suffered uncountable modification over time caused by management changes and sociocultural questions, that end up decharacterize it. The objective of this issue is to redraw and analyze the building as a way of preserve the heritage and bring reflections around this edification importance in the landscape and it communication with the public. This discussion it’s justify by the need to spread and register the changes at Campina Grande’s modern heritage. This investigation results of the studies realized by the working party Arquitetura e Lugar, registered at the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), bounded to the Architecture and Urbanism course of the Universidade Federal de Campina Grande, oriented to historic and architectonic researches. The applied methodology is based at SERRA (2006). Finds theoretical contribution at GASTÓN E ROVIRA (2007), BRUAND (1979), SEGAWA (1997), AMORIM (2004), QUEIROZ E ROCHA (2006) e AFONSO (2006), reflecting of the dialog between building, sociaty and site.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Tectônica</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Tectonic</keyword>
+          <keyword>Modern Heritage</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ingrid Mikaella de Oliveira</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">CTRN-UFCG</affiliation>
+            <country>BR</country>
+            <email>ingridoliveiramkl@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3717-8737</orcid>
+            <biography locale="pt_BR">Pesquisadora voluntária do Grupo de pesquisa Arquitetura e Lugar</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Beatriz</givenname>
+            <familyname locale="pt_BR">Souza dos Santos</familyname>
+            <affiliation locale="pt_BR">CTRN-UFCG</affiliation>
+            <country>BR</country>
+            <email>beatrizsouzabss@hotmail.com</email>
+            <biography locale="pt_BR">Pesquisadora voluntária do Grupo de pesquisa Arquitetura e Lugar</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Julia Ribeiro Maranhão</givenname>
+            <familyname locale="pt_BR">Leite</familyname>
+            <affiliation locale="pt_BR">CTRN-UFCG</affiliation>
+            <country>BR</country>
+            <email>julia_leite_@live.com</email>
+            <orcid>https://orcid.org/0000-0002-7644-8181</orcid>
+            <biography locale="pt_BR">Pesquisadora voluntária do Grupo de pesquisa Arquitetura e Lugar</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">José</givenname>
+            <familyname locale="pt_BR">Flávio Santos de</familyname>
+            <country>BR</country>
+            <email>flaviosantosde@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdnne07-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Meio século de Arquitetura</title>
+        <abstract locale="pt_BR">Este trabalho apresenta um panorama da produção residencial modernista natalense dos anos 1930 a 1980, a partir do esforço de sistematização e análise de registros de edifícios que compõem um repositório coletado pelo grupo de pesquisa MUsA- UFRN. 165 casos, dentre os edificios registrados, foram selecionados para a classificação morfológica que embasou a dissertação “Meio Século de Arquitetura: um panorama da produção modernista natalense (1930-1980) em um repositório de estudos disciplinares” (Oliveira, 2018), na qual o conjunto selecionado foi classificado em quatro grupos. Em um primeiro momento (1940-1950) residências ainda marcadas por tendências ecléticas, apresentam elementos compositivos característicos do léxico formal modernista. Na década seguinte, se inicia a disseminação dessa linguagem, sobretudo quanto à exploração de possibilidades plásticas do concreto armado. Nos anos 1960 e 1970, as características do período anterior passam a dar lugar a fachadas marcadas pela separação entre estrutura e vedação e pela “economia” de elementos formais. Nos anos 1970 e 1980 consolida-se essa morfologia, evidenciando-se os elementos construtivos, o destaque da ossatura, e telhado aparente. Também se identificam residências nas quais são retomados elementos coloniais de fachada – telhados tipo capa e canal com beirais aparentes, arcos abatidos ou plenos, e elementos decorativos diversos – ainda que a organização espacial dessas casas continuem a obedecer preceitos modernos.</abstract>
+        <abstract locale="en_US">This paper presents a panorama of modernist residential production built in Natal (Brazil), from the years 1930 to 1980, stemming from the systematization and analysis of building records that make up a repository collected by participants of the research group in morphology and uses of architecture - MUsA (Morfologia e Usos da Arquitetura)-UFRN. 165 cases, amongst the recorded buildings, were selected for the morphological classification that founded the dissertation “Half a century of architecture: a panorama of modernist production in Natal, Brazil (1930-1980) within a coursework repository” (Oliveira, 2018), in which the selected cases was classified in four groups. In an initial moment (1940-1950), residences that still bear marks of eclecticism, display composition attributes pertaining to the modernist formal lexicon. In the following decade, this language disseminates, especially in what concerns the exploration of the plasticity of reinforced concrete. In the 1960s and 1970s, features of the previous period make space for facades marked by the setting apart of structure and enclosing walls and by an “economy” of formal elements. In the 1970s and 1980s this morphology becomes consolidated with constructive attributes, such as the structural skeleton and the exposed roof, being further stressed. At that time, formal elements inspired in Brazilian colonial architecture can also be found – exposed ceramic roof tiles of the convex and concave interlocking type, segmented and semi-circular arches, varied decorative pieces – although the spatial organisation of these houses remain affiliated to modern principles.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>produção residencial</keyword>
+          <keyword>panorama</keyword>
+          <keyword>Natal-RN</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>residential production</keyword>
+          <keyword>panorama</keyword>
+          <keyword>Natal-RN – Brazil</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria</givenname>
+            <familyname locale="pt_BR">Heloísa Alves de Oliveira</familyname>
+            <country>BR</country>
+            <email>mhalves.arq@gmail.com</email>
+            <biography locale="pt_BR">Mestranda PPGAU- UFRN</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Edja Bezerra Faria</givenname>
+            <familyname locale="pt_BR">Trigueiro</familyname>
+            <affiliation locale="pt_BR">UFRN</affiliation>
+            <country>BR</country>
+            <email>trigueiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2847-5326</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdnne07-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Apropriação do moderno</title>
+        <abstract locale="pt_BR">A arquitetura moderna privada em Belém foi incentivada por legislações municipais nos anos 1940 e 1950 que permitiram a construção de edifícios de mais de dez pavimentos na cidade. Essas mudanças na forma de morar estão também presentes nas residências unifamiliares, destacando a arquitetura produzida por profissionais como Camilo Porto de Oliveira, Laurindo Amorim, entre outros. O artigo estuda as residências que apresentam elementos apropriados de exemplares desta arquitetura local, e de obras ! produzidas fora de Belém. Os estudos destas residências foi inicialmente realizado a partir do mapeamento, identificação e fotografias de um conjunto de casas, e posteriormente objetos de seleção tendo como parâmetro a re-apropriação, revisão e replicação (LARA, 2005) da estética da arquitetura moderna na cidade de Belém. Desta maneira, identificaram-se os elementos modernos mais presentes nas fachadas e mapeamento das áreas onde se observam a ocorrência desses exemplares. A partir da identificação das variadas tipologias residenciais, constatou-se preliminarmente, que estas se constituíram-se de acordo com as aspirações estéticas dos grupos sociais que as produziram. Deste modo, reafirma-se a modernidade como um ethos cultural (GORELIK, 2003) na qual modos de vida, história e cultura assumem, na apropriação das formas das novas residências, o anseio de materialização de uma “nova” cidade moderna.</abstract>
+        <abstract locale="en_US">The modern private architecture in Belém was encouraged by municipal legislation in the 1940s and 1950s that allowed the construction of buildings with more than ten floors in the city. These changes in the way of living are also present in single-family residences, highlighting the architecture produced by professionals such as Camilo Porto de Oliveira, Laurindo Amorim, among others. The paper studies the residences that present appropriate elements of examples of this local architecture, and probably of works produced in other cities and regions. The studies of these residences were, initially, made from the survey, identification and photographs of a group of houses of the aesthetics of modern architecture in the city of Belém. In this way, the most modern elements present in the facades were identified and mapping of the areas where the selection objects are found, taking as a parameter the re-appropriation, revision and replication (LARA, 2005) observe the occurrence of these specimens. From the identification of the various residential typologies, it was preliminarily verified, they were constituted according to the aesthetic aspirations of the social groups that produced them. In this way, modernity is reaffirmed as a cultural ethos (GORELIK, 2003), in which ways of life, history and culture assume, in the appropriation of the forms of new residences, the desire to materialize a &quot;new&quot; modern city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Modernidade</keyword>
+          <keyword>apropriação</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modernity</keyword>
+          <keyword>appropriation</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rodrigo Augusto de</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>rodrigoadelima10@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-2268-8788</orcid>
+            <biography locale="pt_BR">Mestrando em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Celma</givenname>
+            <familyname locale="pt_BR">Chaves</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>celma_chaves@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3437-3844</orcid>
+            <biography locale="pt_BR">Doutora em Teoria e História da Arquitetura pela Universidad Politécnica da Cataluña (2005)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdnne07-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">As casas modernistas do Recife</title>
+        <abstract locale="pt_BR">As Casas Modernistas, antigas moradias, de autoria do arquiteto Augusto Reynaldo (1924-1958), são dois imóveis geminados que fazem parte do acervo da arquitetura moderna recifense. Mesmo sendo protegidos ! pela lei municipal, os imóveis encontram-se numa situação vulnerável, sofrendo constantes ações de depredação, que põe em risco esse patrimônio material. Busca-se, nesse texto, explanar os desafios existentes que envolvem esferas teóricas da conservação da arquitetura moderna e as lacunas da legislação. Além disso, este trabalho, a partir de textos basilares sobre o tema, se propõe a construir um diagnóstico preliminar da edificação nº 625 que subsidiará posterior proposta de intervenção, alinhada à via crítica do restauro, a ser elaborada em etapa subsequente.</abstract>
+        <abstract locale="en_US">Las casas modernistas, antiguas viviendas, de autoría del arquitecto Augusto Reynaldo (1924-1958), son dos inmuebles adosados que forman parte del acervo de la arquitectura moderna recifense. Aunque están protegidas por la ley municipal, los inmuebles se encuentran en una situación vulnerable, sufriendo constantes escenas de depredación, poniendo en riesgo ese patrimonio material. Se busca, en este texto, explicar los desafíos existentes que implican esferas teóricas de la conservación de la arquitectura moderna y las lagunas de la legislación. Además, este trabajo, a partir de textos basilares sobre el tema, se propone a construir un diagnóstico preliminar de la edificación nº 625 siguiendo la línea de la vía crítica de la restauración, que se elaborará en la etapa subsiguiente. Palabras clave: Recife; Conservación de la Arquitectura Moderna; Restauración de la Arquitectura Moderna; Casas Modernistas RESUMEN The Modernist Houses, former habitation, designed by the architect Augusto Reynaldo (1924-1958), are two twinned houses that are part of the collection of modern Recife´s architecture. Although protected by municipal law, the houses are in a vulnerable situation, suffering constant scenes of depredation, putting at risk this material patrimony. In this text, we try to explain the existing challenges involving theoretical spheres of modern architecture conservation and legislative gaps. In addition, this text, based on texts about the theme, proposes to construct a preliminary diagnosis of building nº625 along the critical path of restoration, to be drawn up in the subsequent stage.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Recife</keyword>
+          <keyword>Conservação da arquitetura moderna</keyword>
+          <keyword>restauro da arquitetura moderna</keyword>
+          <keyword>Casas Modernistas</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Recife</keyword>
+          <keyword>Modern Architecture Conservation</keyword>
+          <keyword>Modern Architecture Restoration</keyword>
+          <keyword>Modernist Houses</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria</givenname>
+            <familyname locale="pt_BR">Antônia Saldanha Pessoa de Queiroz</familyname>
+            <affiliation locale="pt_BR">DAU-UFPE</affiliation>
+            <country>BR</country>
+            <email>antoniasaldanha@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

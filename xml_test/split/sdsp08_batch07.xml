@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsp08-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Centro Histórico de São Paulo</title>
+        <subtitle locale="pt_BR">documentação e estudos de reabilitação</subtitle>
+        <abstract locale="pt_BR">A pesquisa &quot;Centro Histórico de São Paulo: documentação e estudos de reabilitação” apresentada aqui, tem como objetivos principais avaliar o potencial de aproveitamento e reabilitação das estruturas urbanas e arquitetônicas da área central a partir do início do século XIX, e contribuir para preservação e gestão do patrimônio construído do Centro Histórico de São Paulo. Os dados e informações reunidos a partir do levantamento sistemático das edificações e da estrutura urbana, de estudos bibliográficos, dos levantamentos de fontes arquivísticas e de levantamentos de campo, são organizados no Banco de Dados do Centro Histórico de São Paulo.</abstract>
+        <abstract locale="en_US">The research &quot;Historical Center of São Paulo: documentation and rehabilitation studies&quot; presented here, has as main objectives to evaluate the potential for use and rehabilitation of urban and architectural structures in the central area from the beginning of the 19th century, and to contribute to the preservation and management of the built heritage of the Historic Center of São Paulo The data and information gathered from the systematic survey of buildings and urban structure, bibliographic studies, surveys of archival sources and field surveys, are organized in the Database of the Historic Center of São Paulo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Documentação</keyword>
+          <keyword>Banco de Dados</keyword>
+          <keyword>Preservação do Centro Histórico de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentation</keyword>
+          <keyword>Database</keyword>
+          <keyword>Preservation of the Historic Center of São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alessandro José Castroviejo</givenname>
+            <familyname locale="pt_BR">Ribeiro</familyname>
+            <country>BR</country>
+            <email>ribeiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9552-766X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Cecília Rodrigues</givenname>
+            <familyname locale="pt_BR">dos Santos</familyname>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+        </authors>
+        <pages>458-471</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsp08-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Patrimônio ferroviário de birigui</title>
+        <subtitle locale="pt_BR">potencialidades contemporâneas de conservação e preservação</subtitle>
+        <abstract locale="pt_BR">Com a perspectiva da apreensão e cognição das multiplicidades, heterogeneidades e diversidades espaciais, se reconhecem as potencialidades do conjunto modernista do Patrimônio Ferroviário de Birigui. Esse bem patrimonial foi construído no início da década de 1970. Seu processo, marcado pelas territorialidades, desterritorialidades e reterritorialidades, foram identificadas pela experimentação espacial. Desse modo, o conjunto arquitetônico ferroviário é apreendido por meio das práticas de derivas juntamente com a realização de cartografias expressivas de forças e afetos mapeando as relações entre os indivíduos e sua ambiência, com suas multiplicidades presentes nos seus territórios, em constante movimento e transformação. Assim, a possibilidade de ativar esse espaço com seus corpos singulares atravessados pelos afetos, identificados e reconhecidos, pode estimular as sensações de pertencimento com o lugar, potencializando a valorização, conservação e preservação do patrimônio ferroviário da cidade.</abstract>
+        <abstract locale="en_US">The perspective of apprehension and cognition of multiplicities, heterogeneities and spatial diversities, the potential of the modernist set of the Birigui Railway Heritage is recognized. This heritage asset was built in the early 1970s. Its process, marked by territorialities, deterritorialities and reterritorialities, were identified by spatial experimentation. In this way, the railway architectural ensemble is apprehended through the practices of drifting together with the realization of expressive cartographies of forces and affections mapping the relationships between individuals and their environment, with their multiplicities present in their territories, in constant movement and transformation. Thus, the possibility of activating this space with their unique bodies crossed by affections, identified and recognized, can stimulate feelings of belonging to the place, enhancing the appreciation, conservation and preservation of the city's railway heritage.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio</keyword>
+          <keyword>Deriva</keyword>
+          <keyword>Cartografia</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Patrimony</keyword>
+          <keyword>Driftage</keyword>
+          <keyword>Cartography</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evelyn Caroline da Silva</givenname>
+            <familyname locale="pt_BR">Camara</familyname>
+            <country>BR</country>
+            <email>camara@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0005-2217-5500</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Hélio</givenname>
+            <familyname locale="pt_BR">Hirao</familyname>
+            <country>BR</country>
+            <email>hirao@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-0052-6788</orcid>
+          </author>
+        </authors>
+        <pages>472-484</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsp08-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">O papel da galeria de design na preservação do móvel moderno brasileiro</title>
+        <subtitle locale="pt_BR">a experiência da bossa furniture</subtitle>
+        <abstract locale="pt_BR">Ao longo da última década, a recente valorização do Móvel Moderno Brasileiro vem sendo abordada no campo do resgate histórico e preservação da produção. Entretanto, o cenário geral se caracteriza pela ausência de publicações, exposições e pesquisas relacionadas ao mercado de design do Brasil no mesmo período. A tradição das casas de antiguidades e o tempo de mercado consolidaram as galerias, mas ainda existem poucas iniciativas de discussões acerca da salvaguarda, memória e identidade da rica produção brasileira da década de 1950. O presente artigo pretende abordar a experiência da galeria de atuação internacional Bossa Furniture, investigando suas iniciativas de preservação, comunicação e pesquisa referente à sua coleção de mobiliário moderno brasileiro.</abstract>
+        <abstract locale="en_US">Over the last decade, the recent appreciation of Brazilian Modern Furniture has become an object of research. Still, in the field of historical recovery and preservation of production, the general scenario is the absence of publications, exhibitions, and research related to the design market in Brazil. The tradition of the antique market as well as their logevity consolidated the galleries. However, we still have few initiatives for discussions about the rich Brazilian production's safeguard, memory, and identity. The present article intends to approach the experience of the international gallery Bossa Furniture, investigating its initiatives regarding preservation, communication, and investigation of its collection of modern Brazilian furniture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Design brasileiro</keyword>
+          <keyword>Móvel Moderno</keyword>
+          <keyword>Catalogação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian design</keyword>
+          <keyword>Mid-century furniture</keyword>
+          <keyword>Design collection</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ariel Brasileiro</givenname>
+            <familyname locale="pt_BR">Lins</familyname>
+            <country>BR</country>
+            <email>lins@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Isabela Ferreira</givenname>
+            <familyname locale="pt_BR">Milagre</familyname>
+            <country>BR</country>
+            <email>milagre@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>485-499</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsp08-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Gare do oriente</title>
+        <subtitle locale="pt_BR">âncora arquitetônica, dinâmica na expo98</subtitle>
+        <abstract locale="pt_BR">Este artigo aborda aspectos conceituais e físicos relacionados à concepção arquitetônica dentro do recinto da Expo98, destacando o projeto da Gare Intermodal de Lisboa (GIL) ou Gare do Oriente, observando sua relevância como espaço público, como edifício e como interposto de movimentos e dinâmicas dentro da cidade de Lisboa. De autoria do arquiteto espanhol Santiago Calatrava, a obra é o principal meio de chegada ao local, utilizando-se metrô, trem ou ônibus, possuindo grande estrutura que definiu um dos principais acessos, à época, à Expo98, e hoje, ao bairro denominado Parque das Nações, localizado na antiga zona oriental de Lisboa. O projeto caracteriza-se como espécie de viaduto interrompido, fazendo uma relação da cidade com o rio e de Lisboa com este novo bairro. As coberturas em ferro e vidro lembram um conjunto de árvores, e sua circulação é efetuada de modo linear, sugerindo uma espécie de “T” ou cruz. Investiga-se, nesta descrição pormenorizada, o processo de escolha do projeto referido, as inspirações de Santiago Calatrava, seu autor, e as exigências fundamentais e funcionais do complexo. Revela, na consequência, a interligação entre o programa de necessidades e o projeto, juntamente com o aprofundamento de alguns aspectos sobre a Gare do Oriente e suas relações com o lugar, destacando, em sua metodologia, um estudo analítico que compreende: Implantação e acessos; fluxos internos; usos e funções; equilíbrios; estruturas; e geometrias; concluindo com algumas evidências observadas neste artigo.</abstract>
+        <abstract locale="en_US">This article addresses conceptual and physical aspects related to the architectural conception within the enclosure of Expo98, highlighting the project of Gare Intermodal de Lisboa (GIL) or Gare do Oriente, noting its relevance as a public space, as a building and as an interposition of movements and dynamics within the city of Lisbon. Authored by the Spanish architect Santiago Calatrava, the work is the main means of arrival to the place, using subway, train, or bus, possessing great structure that defined one of the main accesses, at the time, to Expo98, and today, to the neighborhood called Parque das Nações, located in the old east of Lisbon. The project is characterized as a kind of interrupted viaduct, making a relationship between the city and the river and Lisbon with this new neighborhood. The iron and glass roofs resemble a set of trees, and their circulation is made in a linear way, suggesting a kind of &quot;T&quot; or cross. This detailed description investigates the process of choosing the referred project, the inspirations of Santiago Calatrava, its author, and the fundamental and functional requirements of the complex. It reveals, in consequence, the interconnection between the program of needs and the project, along with the deepening of some aspects about the Gare do Oriente and its relations with the place, highlighting, in its methodology, an analytical study that includes Implantation and accesses; internal flows; uses and functions; balances; structures; and geometries; concluding with some evidence observed in this article.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Expo98</keyword>
+          <keyword>Gare do Oriente</keyword>
+          <keyword>Parque das Nações</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Expo98</keyword>
+          <keyword>Gare do Oriente</keyword>
+          <keyword>Parque das Nações</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Oreste</givenname>
+            <familyname locale="pt_BR">Bortolli Junior</familyname>
+            <country>BR</country>
+            <email>bortolli_junior@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4430-4124</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Gerson Fernandes</givenname>
+            <familyname locale="pt_BR">Brancaliao</familyname>
+            <country>BR</country>
+            <email>brancaliao@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>500-517</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsp08-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Arquitetura e as bienais</title>
+        <subtitle locale="pt_BR">o acervo do arquivo histórico wanda svevo</subtitle>
+        <abstract locale="pt_BR">As Bienais de Arquitetura apresentam-se como oportunidades para estudos em diversos campos além da própria Arquitetura. São capazes de reunir e revelar a cultura arquitetônica, aspectos da prática profissional e da relação do arquiteto com a sociedade. Para estimular pesquisas que explorem estas exposições, este artigo adotou o objetivo de mapear os documentos relativos às Bienais Internacionais de Arquitetura de São Paulo (BIA) e às suas antecessoras, as Exposições Internacionais de Arquitetura (EIA), no Arquivo Histórico Wanda Svevo, o maior acervo dedicado às Bienais de São Paulo e a fonte mais rica e acessível sobre estes eventos. Através deste mapeamento, revelou-se o volume de documentos relativos a estas exposições e sua extensão da 1ª EIA (1951) à 7ª BIA (2007).</abstract>
+        <abstract locale="en_US">Architecture Biennials offer study opportunities in multiple fields beyond Architecture itself. They can bring together and reveal the architectural culture, aspects of professional practice, and the relations between architects and society. To encourage further research, this work maps the documents relating to the São Paulo International Architecture Biennials (BIA) and the International Architecture Exhibitions (EIA) in Wanda Svevo Historical Archive. This Archive holds the most notable collection of São Paulo Biennials and is the most accessible source about these events. This mapping revealed the number of related documents and their extension from the first EIA (1951) to the seventh BIA (2007).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Bienal de Arquitetura</keyword>
+          <keyword>Arquivo Histórico</keyword>
+          <keyword>História da Arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture Biennial</keyword>
+          <keyword>Historical Archive</keyword>
+          <keyword>Architecture History</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Raíssa Armelin</givenname>
+            <familyname locale="pt_BR">Lopes</familyname>
+            <country>BR</country>
+            <email>armelin_lopes@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Maria Reis de Góes</givenname>
+            <familyname locale="pt_BR">Monteiro</familyname>
+            <country>BR</country>
+            <email>monteiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7345-9558</orcid>
+          </author>
+        </authors>
+        <pages>518-533</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

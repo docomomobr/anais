@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdnne08-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Entre a água e o concreto</title>
+        <subtitle locale="pt_BR">a atitude moderna no centro de Maceió-AL</subtitle>
+        <abstract locale="pt_BR">“Paisagem de ilha abandonada” e “Terra de gente quase anfíbia”. As palavras do arquiteto Lúcio Costa em 1926 e do antropólogo Gilberto Freyre em 1948, respectivamente, sugeriam a cidade de Maceió como lugar da água. Na segunda metade do século XX, a capital vai aos poucos se afastando desse destino quando, finalmente, pavimentações, pontes e edifícios lisos começam a construir outra camada de memória nas suas preexistências e expansões. As ruas do seu Centro oitocentista, já marcadas pelo retilíneo, vão compartilhar espaço com generosas praças retangulares e edifícios cúbicos representando o desejo de “sair do antigo”. Contudo, esse outro e expressivo arranjo espacial parece não se encontrar na contemporaneidade, sendo dilacerado, abandonado, arruinado, demolido, o que faz do registro, sobretudo o gráfico, um forte aliado para aqueles que se colocam diante do desafio de compreender a história desse percurso. Nesse sentido, pretende-se, com esse artigo, construir uma narrativa sobre a memória das atitudes modernas em Maceió, a partir da reunião e revisão de desenhos e fotografias que documentam o bairro do Centro e esse momento de mudança na paisagem e na forma de pensar essa cidade que, um século depois, retoma a água como principal motivador de sua produção espacial.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Modernismo em Maceió</keyword>
+          <keyword>Memória urbana</keyword>
+          <keyword>Transformação da paisagem</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Roseline Vanessa Santos</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <affiliation locale="pt_BR">UFAL</affiliation>
+            <country>BR</country>
+            <email>roseline@fau.ufal.br</email>
+            <orcid>https://orcid.org/0000-0002-3875-2262</orcid>
+            <biography locale="pt_BR">Doutorado em Arquitetura e Urbanismo pela UFBA (2009), Pós-doutorado pela Universidade de Évora (2018)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tamires Aleixo</givenname>
+            <familyname locale="pt_BR">Cassella</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFAL</affiliation>
+            <country>BR</country>
+            <email>tamiresacassella@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3218-3422</orcid>
+            <biography locale="pt_BR">Doutoranda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Tuanne Monteiro de</givenname>
+            <familyname locale="pt_BR">Carvalho</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFAL</affiliation>
+            <country>BR</country>
+            <email>tuannemdc@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5226-5412</orcid>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdnne08-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Entre construção e ruína</title>
+        <subtitle locale="pt_BR">o projeto de delfim Amorim e equipe para o seminário regional do Nordeste</subtitle>
+        <abstract locale="pt_BR">Criada em 1958, pela Igreja Católica, a “Pontifícia Comissão para a América Latina” objetivava aumentar a presença de sacerdotes nessa região. Em 1960, essa comissão, decidiu construir três grandes seminários na América Latina. Um desses seria instalado na periferia de Recife, com caráter regional. Projetada por uma equipe de arquitetos encabeçada pelo português Delfim Amorim, a edificação em forma de ‘S’, de expressão brutalista, foi inaugurada inconclusa em 1965 pelo arcebispo de Olinda e Recife, Dom Hélder Câmara. Em 1967, as atividades do Seminário foram encerradas e o edifício abandonado, sendo reocupado, parcialmente, em 1972 pela Faculdade de Odontologia de Pernambuco (FOP). Progressivamente, parte da estrutura inacabada foi ocupada por moradias improvisadas, agravando os problemas de conservação da sinuosa estrutura de quase meio quilômetro de extensão. Além das dificuldades na ocupação, a escalada de violência no seu entorno passou a preocupar estudantes e moradores. Essa situação pode levar a um novo abandono do edifício, visto que a FOP cogita deixar o local, ocasionando, mais um destino incerto do icônico projeto da equipe liderada por Amorim. Esse artigo procura articular as circunstâncias que levaram a realização do projeto e sucessivas ocupações e abandono, além de lançar questões acerca do seu futuro.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Pernambuco</keyword>
+          <keyword>Delfim Amorim</keyword>
+          <keyword>Igreja Católica</keyword>
+          <keyword>Seminário Regional do Nordeste</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia Carla Santana dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <affiliation locale="pt_BR">CCT-UNICAP</affiliation>
+            <country>BR</country>
+            <email>juliacddl@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, CCT UNICAP.                                                                                Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Milena Valença Andrade Borba de</givenname>
+            <familyname locale="pt_BR">Araújo</familyname>
+            <affiliation locale="pt_BR">CCT-UNICAP</affiliation>
+            <country>BR</country>
+            <email>milenavalencab@gmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo, CCT UNICAP.                                                                                Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Aristóteles</givenname>
+            <familyname locale="pt_BR">de Siqueira Campos Cantalice II</familyname>
+            <country>BR</country>
+            <email>cantalice2@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-2730-0890</orcid>
+            <biography locale="pt_BR">Pós-doutorando do Centro de Estudos de Arquitectura e Urbanismo da Universidade do Porto, CEAU FAUP.                                                                                                                                                              Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Diego Beja Inglez de</givenname>
+            <familyname locale="pt_BR">Souza</familyname>
+            <country>BR</country>
+            <email>diegobis@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5128-788X</orcid>
+            <biography locale="pt_BR">Pós-doutorando no Lab2PT da Escola de Arquitectura da Universidade do Minho, ICS UMinho.                  Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdnne08-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Fachadas moduladas e Arquitetura Moderna</title>
+        <subtitle locale="pt_BR">repercussões em Teresina</subtitle>
+        <abstract locale="pt_BR">A partir das transformações técnico-científicas promovidas pela Revolução Industrial intensificam-se os processos de racionalização construtiva e de industrialização encampados pelo grupo de arquitetos modernos engajado na causa de uma possível democratização das demandas, por meio da seriação, em busca da redução dos custos de produção. Este enfrentamento abrange os sistemas de fechamento externo, em alguns casos chegando a industrialização de fachadas moduladas de edifícios inteiros. Destacam-se o desenvolvimento norte Americano de fechamento em curtain wall, e a qualidade de seu emprego na obra do arquiteto Mies Van der Rohe, repercutindo-se para além das fronteiras americanas e dos países altamente industrializados. Estas realizações influenciaram a produção da Arquitetura Moderna Brasileira em partidos verticalizados, em moldes de produção e níveis bastante difusos à luz da industrialização, refletindo o estágio de desenvolvimento da indústria da construção brasileira. Verificam-se diversas experiências de fachadas moduladas em projetos de edifícios modernos pelo território nacional, conforme é conhecido. No contexto regional da produção moderna tardia na cidade de Teresina destacam-se, nessa linha de pesquisa, dois projetos de edifícios de autoria do arquiteto Antônio Luiz Dutra, projetados para o Banco do Brasil (1969) e para o Ministério da Fazenda (1973). Interessa a este trabalho analisar essas obras a partir do ideário moderno, relacionado à sua produção e ao contexto produtivo geral, nos âmbitos local e nacional.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>industrialização</keyword>
+          <keyword>racionalização da construção</keyword>
+          <keyword>curtain wall</keyword>
+          <keyword>arquitetura moderna piauiense</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda</givenname>
+            <familyname locale="pt_BR">Marafon</familyname>
+            <affiliation locale="pt_BR">FAUUSP</affiliation>
+            <country>BR</country>
+            <email>fernandamarafon@usp.br</email>
+            <orcid>https://orcid.org/0000-0002-4838-8978</orcid>
+            <biography locale="pt_BR">Doutoranda (2019), Programa de Pós graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Roberto Alves de Lima</givenname>
+            <familyname locale="pt_BR">Montenegro Filho</familyname>
+            <affiliation locale="pt_BR">UFPI</affiliation>
+            <country>BR</country>
+            <email>robertomontenegro@ufpi.edu.br</email>
+            <orcid>https://orcid.org/0000-0001-5311-2880</orcid>
+            <biography locale="pt_BR">Doutor (2012), Programa de Pós graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdnne08-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Frank svensson e o sertão</title>
+        <subtitle locale="pt_BR">o projeto de irrigação do bebedouro</subtitle>
+        <abstract locale="pt_BR">O trabalho apresenta a situação atual de uma importante obra produzida por Frank Svensson – arquiteto mineiro que iniciou sua atuação na década de 60 – que está ruindo resultado da falta de preservação e valorização do patrimônio moderno. Trata-se do Projeto de Irrigação do Bebedouro – PIB (1967-1970) realizado no Vale do Rio São Francisco que foi responsável pela ativação econômica do local, atraindo investimento para área de fruticultura, atualmente, o setor mais importante da economia da região. O PIB foi um projeto piloto na cidade de Petrolina, no interior de Pernambuco, e abrange um conjunto de edificações de usos diversos, todas projetadas e construídas no mesmo período. Faz parte do pequeno, mas relevante acervo de Svensson que demonstram o domínio do arquiteto de se adaptar as condições locais, assim como manifesta sua essência militante esquerdista, imprimindo uma visão utópica, propondo um programa que abrangia as necessidades básicas das pessoas que viriam a morar ali. Destacase por ser uma obra de forte impacto social, situada no contexto da arquitetura brutalista e que contribui com as reflexões acerca do modernismo tardio em Pernambuco.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Frank Svensson</keyword>
+          <keyword>Brutalismo</keyword>
+          <keyword>Conservação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia Jammyli Nunes</givenname>
+            <familyname locale="pt_BR">Vasconcelos</familyname>
+            <affiliation locale="pt_BR">CCT-UNICAP</affiliation>
+            <country>BR</country>
+            <email>juliavasconcelos.arq@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Paula Maciel</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <affiliation locale="pt_BR">UNICAP</affiliation>
+            <country>BR</country>
+            <email>paula.maciel@unicap.br</email>
+            <orcid>https://orcid.org/0000-0002-2345-4043</orcid>
+            <biography locale="pt_BR">Doutora, Universidade Católica de Pernambuco</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdnne08-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Giacomo palumbo</title>
+        <subtitle locale="pt_BR">dois grandes hotéis na Cidade do Recife, 1924-1938</subtitle>
+        <abstract locale="pt_BR">O italiano Giacomo Palumbo (1891-1966) foi o arquiteto de maior destaque atuando na Cidade do Recife entre as décadas de 1920 e 1930. Nestes anos, projetou os principais edifícios da cidade, seguindo características clássicas, ecléticas, neocoloniais ou modernas, entre eles a Faculdade de Medicina do Recife, o Palácio da Justiça e o Hospital Centenário, além de diversas residências. Apesar desta significativa produção arquitetônica, inexiste uma análise de conjunto de sua obra. Este artigo apresenta e analisa dois grandes projetos realizados no centro da cidade: o Grande Hotel do Recife (1924-1938) e o Hotel Central (1927-1928). Após uma breve apresentação do conjunto de sua obra e do contexto que envolveu suas obras no Recife dos anos 1920, o artigo analisa seus projetos uas propostas para este tipo edilício moderno a partir de três dimensões: a social, buscando entender o movimento dos atores sociais em busca da consecução destes novos edifícios, a urbana, buscando entender a dimensão pública e a localização de suas obras na cidade, e a estética, buscando mostrar como sua formação Beaux-Arts dialogou com as expectativas dos clientes, correntes estilísticas do período e requisitos do programa.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Giacomo Palumbo</keyword>
+          <keyword>Recife</keyword>
+          <keyword>hotéis</keyword>
+          <keyword>Belas-Artes</keyword>
+          <keyword>modernização</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Karine Maria Gonçalves</givenname>
+            <familyname locale="pt_BR">Cortez</familyname>
+            <affiliation locale="pt_BR">UFPE</affiliation>
+            <country>BR</country>
+            <email>karinemgc@gmail.com</email>
+            <orcid>https://orcid.org/0009-0001-3850-9406</orcid>
+            <biography locale="pt_BR">Mestranda em Desenvolvimento Urbano (UFPE, em curso), Universidade Estadual do Rio Grande do</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernando Diniz</givenname>
+            <familyname locale="pt_BR">Moreira</familyname>
+            <affiliation locale="pt_BR">UFPE</affiliation>
+            <country>BR</country>
+            <email>fmoreira@hotlink.com.br</email>
+            <orcid>https://orcid.org/0000-0002-1387-4036</orcid>
+            <biography locale="pt_BR">Ph.D (University of Pennsylvania, 2004), Universidade Federal de Pernambuco (UFPE)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul05-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Do imaginário do século XIX ao imaginário da Arquitetura Moderna</title>
+        <subtitle locale="pt_BR">o caso da casa canoas</subtitle>
+        <abstract locale="pt_BR">O estudo pretende demonstrar, primeiro, que os arquitetos modernos brasileiros herdaram, ou se apropriaram da concepção da arquitetura do século XIX e, segundo, que a transmissão dessa concepção deu-se não somente no plano mais consciente da teoria mas também, e principalmente, no plano do imaginário. A comparação direta de duas obras representativas do pensamento dos séculos XIX e XX permite demonstrar através da prática da composição arquitetônica que a concepção do século XIX, e o racionalismo estrutural em particular, constitui uma das grandes fontes da arquitetura do século XX, ou pelo menos da arquitetura moderna brasileira. De um lado, o Farol de Bréhat de Léonce Reynaud representa a materialização dos princípios fundamentais do racionalismo estrutural do século XIX; de outro, a Casa Canoas de Oscar Niemeyer exemplifica a prática da composição na arquitetura moderna brasileira. Mais precisamente, o Farol de Bréhat deriva clara e significativamente do imaginário do século XIX, neste caso do imaginário saint-simoniano do autor e de outros grandes representantes de sua época. Edificado sobre um pequeno rochedo rodeado pelo mar e que fica submerso na maré alta, o Farol de Bréhat é apresentado pelo próprio Reynaud como um monumento heroico implantado em plena natureza selvagem, como revelação da beleza. Uma beleza que emerge da sua própria composição, uma torre bipartida situada entre o céu e a terra materializando um pensamento que se alimenta da diversidade e do dinamismo da própria da natureza, o qual, por sua vez, emana de um imaginário que prenuncia a mais perfeita unidade entre a natureza inanimada e a vida social, que proclama a redenção da humanidade. Quanto à Casa Canoas que se situa igualmente entre a terra e o céu, ou quase, ela compõe também uma “natureza artificial mais natural que a Natureza mesma” (Comas). Uma criação que testemunha um pensamento elevado e que manifesta o ideal, ou imaginário saint-simoniano do qual nasce o Farol de Bréhat e que a arquitetura moderna herdou do século XIX.</abstract>
+        <abstract locale="en_US">The study intends to demonstrate, first, that the Brazilian modern architects inherited or appropriated themselves the nineteenth century architecture conception and, second, that the transmission of this conception took place not only at the more conscious plan of theory but also, and mainly, the imaginary plan. The direct comparison of two representative works of the thought of the nineteenth and twentieth centuries allows to demonstrate through the practice of architectural composition that the conception of the nineteenth century and the structural rationalism in particular, constitute one of the major sources of twentieth century architecture, or at least Brazilian modern architecture. On one hand, the Bréhat’s Lighthouse by Léonce Reynaud represents the materialization of the fundamental principles of structural rationalism of the nineteenth century; on the other, the Canoes House by Oscar Niemeyer exemplifies the practice of composition in Brazilian modern architecture. More precisely, the Bréhat’s Lighthouse derives clearly and significantly from the nineteenth century imaginary, in this case of the Saint-Simonian author's imaginary and others major representatives of his time. Built on a small cliff surrounded by the sea and that is submerged at high tide, the Bréhat’s Lighthouse is presented by Reynaud himself as a heroic monument implanted in full wild nature, as a revelation of beauty. A beauty that emerges from its own composition, a bipartite tower located between heaven and earth materializing a thought that feeds from diversity and dynamism of nature which, in turn, emanates from an imaginary that foreshadows the most perfect unity between the inanimate nature and social life, which proclaims the redemption of humanity. Regarding the Canoes House which lies equally between the earth and the sky, or almost, it also makes up an “artificial nature more natural than the very Nature” (Comas). A creation that witness a high thought and shows the ideal, or Saint-Simonian imaginary from which is born the Bréhat’s Lighthouse and that modern architecture inherited from the nineteenth century.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Brasileira. Racionalismo Estrutural. Dimensão Imaginária</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian Modern Architecture. Structural Rationalism. Imaginary Dimension</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcelo</givenname>
+            <familyname locale="pt_BR">Puppi</familyname>
+            <country>BR</country>
+            <email>puppi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5834-4293</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul05-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Banking architecture, late modernism and exposed concrete in Porto Alegre — brazil</title>
+        <abstract locale="pt_BR">O presente trabalho busca reconhecer e analisar a arquitetura bancária Porto Alegre, influenciada pela pratica do concreto aparente e uma modernidade de características já bastante diversificadas; uma produção que se concentrou nos anos setenta, mas atingiu parcialmente as décadas adjacentes. Essa é a arquitetura da estrutura monumentalizada, da experimentação formal, do alto teor artesanal presente. Este último merece destaque pela sua existência dentre dois Brasis, o colonial e o industrial – e de forma curiosa ainda foi capaz de gerar riqueza no detalhe arquitetônico, um desdobramento autóctone próprio de uma modernidade de raízes brasileiras, mas que transcende um certo folclore tropical. O fenômeno da “arquitetura bancária” ocorrido em todo País, cujo epicentro foi São Paulo, contextualiza esta experiência gaúcha e periférica. Havia naquele período certa dualidade no processo operativo de projeto. Por um lado, existia a notabilidade artística do autor, a autoria da composição particular, o projeto solucionado de modo “artesanal”; por outro, havia os modelos genéricos, quase institucionalizados, de uso corrente e estandardizados para satisfazer a demanda de projetos modernos em escala global. Dois caminhos antagônicos tendo como fatores fundamentais a cultura local de elaboração de projeto e as limitações climáticas, técnicas e econômicas próprias do estado gaúcho. Era o momento, segundo Luis H. H. Luccas, quando se tornava assimétrica a comparação entre arquitetura como concepção individual artesanal ou como projeto coletivo. E a vertente do concreto aparente, dita “brutalista”, em ascensão resgatava a manufatura artesanal dos componentes, seus aspectos primitivos e suas imprecisões, como sinônimo de excepcionalidade, audácia, expressão e novidade. Entretanto, a concepção do concreto enquanto pedra falsa, ou ao menos como um material de envelhecimento rápido e patológico sob condições subtropicais, fatalmente não sobreviveu a intervenções que mascarassem seu sentido. Enfim, este trabalho busca demonstrar que a Escola Paulista não era a única nem a principal influência dos arquitetos locais. Fica evidente, no entanto, a influência direta de mestres europeus exercida sobre os profissionais locais, destacadamente para a presença subjacente de matrizes miesianas e para a tactilidade madura corbusiana. Embora os arquitetos trabalhassem em torno de utopias artísticas, os exemplares mais bem-sucedidos na criação da forma foram justamente os exemplares de composição elementar. Isso contribui em alguma medida com a revisão, o sentido e o prosseguimento da genealogia da arquitetura moderna como um fenômeno ainda a traduzir para os dias de hoje.</abstract>
+        <abstract locale="en_US">This study aims to recognize and analyze the banking architecture Porto Alegre, a production concentrated in the Seventies which used exposed rough concrete as the main characteristic and late modern features. Brutalist features appeared through monumentalized structures, formal experimentations, and high level of artisanal content applied. This last one deserves special attention due to its existence inside two antagonist Brazils: the colonial and the industrial. Curiously, this apparent contradiction (or duality) was still able to generate high architectural standards, reveling itself as an autochthonous development from Brazilian Modern Architecture, which transcended the general image of a tropical folklore. There was at that time a certain duality in the operating process of design. On the one hand, the architect searched for and artistic notability through particular compositions, so-called &quot;artisanal&quot; mode. On the other, there were the generic architectural models almost institutionalized, usual and standardized to meet the modern designs demand on a global scale. Two opposing methods dealing with fundamental local factors as the designing culture, and the climate technical and economic limitations typical in South Brazil. According to Luis H. H. Luccas the postwar period marks the asymmetric comparison between architecture as an individual design development or as a collective project. In addition, the rising exposed concrete movement so-called &quot;brutalist&quot; rescued that artisanal manufacture included in the components, with its primitive aspects and its inaccuracies, as a synonym of uniqueness, boldness, expression and novelty. This is a &quot;romantic&quot; aesthetic that countered the synthetic, homogeneous and systematic architectural language developed earlier through international standards. The design of concrete as faux stone, or at least as fast and pathological aging of material under subtropical conditions, fatally did not survive to constructive interventions, which would mask its meaning. Finally, this paper seeks to show that the so-called “Paulista School” was not the only or the main influence for local architects. Miesian matrices and Corbusien tactilities are more feasible. Although the local architects worked around some artistic utopias, the most successful forms used actually elementary compositions. This contributes to the review, the meaning and the continuation of the Brazilian modern architecture as a phenomenon to translate to nowadays.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Bancária</keyword>
+          <keyword>Porto Alegre</keyword>
+          <keyword>Anos Setenta</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture Bank</keyword>
+          <keyword>Porto Alegre</keyword>
+          <keyword>Seventy years</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Amado</givenname>
+            <familyname locale="pt_BR">Petroli</familyname>
+            <country>BR</country>
+            <email>petrolim@ufl.edu</email>
+            <orcid>https://orcid.org/0000-0002-5891-5911</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul05-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Bernard rudofsky</title>
+        <subtitle locale="pt_BR">duas casas em São Paulo, 1939-41</subtitle>
+        <abstract locale="pt_BR">O arquiteto austríaco Bernard Rudofsky (1905-1988) é conhecido sobretudo por sua contribuição crítica e teórica, em especial através da exposição organizada por ele no Museu de Arte Moderna (MoMA) de Nova Iorque em 1964, Architecture Without Architects, com base nos relatos e fotografias de suas inúmeras viagens ao redor do mundo, mas contando também com o conteúdo acumulado de décadas de sua pesquisa sobre a arquitetura “vernácula, anônima, espontânea, indígena, rural”. Mais de duas décadas antes disto, entre dezembro de 1938 e abril de 1941, Rudofsky residiu em São Paulo, após ter vivido e trabalhado por alguns anos na Itália – onde foi profundamente influenciado pela arquitetura e pelo estilo de vida do Mediterrâneo. Durante este período no Brasil, Rudofsky trabalhou em alguns projetos, com destaque para as Casas Frontini e Arnstein, que fizeram parte da emblemática exposição Brazil Builds, organizada por Philip Goodwin também no MoMA em 1943. Apesar disso, as ideias e principalmente a obra arquitetônica de Rudofsky são, no entanto, pouco conhecidas no Brasil, mesmo tendo o arquiteto austríaco vivido e trabalhado no país durante um momento chave para o desenvolvimento da arquitetura moderna brasileira. O objetivo deste texto é ampliar o conhecimento atual em relação à obra projetual de Rudofsky, com foco específico nestas duas casas idealizadas e construídas pelo arquiteto em São Paulo. Através da análise das estratégias arquitetônicas utilizadas por Rudofsky - sobretudo a utilização de pátios e da articulação dos ambientes internos com os externos - pretende-se apresentar as diversas relações entre estas estratégias e as ideias e conceitos domésticos preconizados pelo arquiteto durante toda a sua carreira, tais como a valorização da intimidade, da comodidade, e do contato sensorial dos moradores com o sol, a luz, o ar e a água dentro do espaço privado.</abstract>
+        <abstract locale="en_US">The Austrian architect Bernard Rudofsky (1905-1988) is best known for his critical and theoretical contribution, especially through the exhibition organized by him at the Museum of Modern Art (MoMA) in New York in 1964, Architecture Without Architects, based on reports and photographs of his many trips around the world, but also relying on the accumulated content from decades of his research on the &quot;vernacular, anonymous, spontaneous, indigenous, rural&quot; architecture. More than two decades before that, between December 1938 and April 1941, Rudofsky lived in São Paulo, after having lived and worked for a few years in Italy - where he was deeply influenced by the architecture and the lifestyle of the Mediterranean. During this period in Brazil, Rudofsky worked on a few projects, particularly the Frontini and Arnstein Houses, which were part of the emblematic exhibition Brazil Builds, organized by Philip Goodwin also at MoMA in 1943. Nevertheless, the ideas and especially the architectural work of Rudofsky are, however, little known in Brazil, even though the Austrian architect lived and worked in the country during a key moment in the development of Modern Brazilian Architecture. The purpose of this paper is to expand the current knowledge regarding the architectural design work of Rudofsky, with specific focus on these two houses idealized and built by the architect in São Paulo. Through the analysis of the architectural strategies used by Rudofsky - especially the use of courtyards and the articulation between indoor and outdoor spaces - it is intended to present the various relationships between these strategies and the domestic ideas and concepts advocated by the architect throughout his career, such as the appreciation of intimacy, comfort, and the sensory contact of the residents with sunlight, air and water within the private space.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Bernard Rudofsky</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Brazil Builds</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Bernard Rudofsky</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Brazil Builds</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Dornelles dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul05-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Quando os fios SE entrelaçam, SE desenha a trama das construções modernas</title>
+        <keywords locale="pt_BR">
+          <keyword>Construções moderna</keyword>
+          <keyword>América do Sul</keyword>
+          <keyword>Arquitetura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Buildings</keyword>
+          <keyword>South America</keyword>
+          <keyword>Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza Macedo Xavier</givenname>
+            <familyname locale="pt_BR">de Freitas</familyname>
+            <country>BR</country>
+            <email>freitas@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1504-0756</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsul05-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">O moderno é atual</title>
+        <subtitle locale="pt_BR">o caso do conjunto residencial da rua grécia</subtitle>
+        <abstract locale="pt_BR">O trabalho apresenta o Conjunto Residencial na rua Grécia, em Cotia/SP, projetado em 2001 por Joan Villà e Silvia Chile, a partir de uma iniciativa privada onde a premissa era construir o máximo com o menor custo. Esse projeto deveria, dentro do orçamento proposto pela empresa contratante, adequar o terreno às edificações, construir as habitações e elementos de apoio, além de toda a infraestrutura necessária no local – o terreno era parte de uma chácara e não possuía nenhuma estrutura. As limitações financeiras foram determinantes para as atitudes projetuais, como a utilização de materiais baratos na construção, ajustes mínimos no aclive do terreno e o fato de não optarem pela construção de vias internas para circulação de veículos. Um dos pontos altos do projeto está na tecnologia adotada, os painéis préfabricados em tijolo cerâmico desenvolvidos por Joan Villà na UNICAMP, São Paulo. O projeto merece reconhecimento e estudo, já que foi o primeiro conjunto habitacional popular agraciado pelo Instituto dos Arquitetos do Brasil (IAB) com o prêmio Carlos Barjas Milan, em 2002. As análises apresentadas seguem os critérios conforme metodologia aplicada por Josep Maria Montaner no livro Herramientas para habitar el presente, de 2013. Os itens de análise, cidade, sociedade e tecnologia, por exemplo, englobam as características básicas que se pede à habitação contemporânea, num momento em que se constrói uma grande quantidade de edificações, porém sem nenhum critério. Essa reflexão é feita pela consciência de que é necessário plantar uma cultura de habitação, é preciso educar para que a habitação seja entendida como parte da cidade, conformadora do tecido urbano e como lugar para habitar o presente, alojar nosso passado e projetar o futuro. O passado e todas as características do Movimento Moderno, que construiu milhões de habitações de interesse social no país, é muito importante para o resultado da arquitetura atual. Apesar das críticas em relação à construção em terrenos muito distantes dos centros, apartamentos pouco flexíveis e sem exploração de tecnologias construtivas adequadas, há de ser levada em conta toda a qualidade e a grandiosidade que esse período teve na história da arquitetura da habitação. Tal pensamento é relatado no livro Plus, do grupo de arquitetos franceses liderado por Anne Lacaton e Frederic Druot, e apresenta uma visão muito atual da situação da habitação de interesse social e como os projetos vêm mostando evoluções em relação ao que se buscava fazer pelo pensamento Moderno. É inevitável pensar na arquitetura atual sem pensar no Modernismo – industrialização, planta livre, estrutura independente. Esses quesitos fazem parte e são indispensáveis para a formação desse novo modo de projetar e construir. Conforme bibliografia adotada, esse trabalho analisa o projeto do Residencial Cotia, a fim de descrever características da arquitetura contemporânea e apresentar os pontos em que o projeto retoma os preceitos do Movimento Moderno. Além disso, apresentar a relevância dessa produção contemporânea em relação à cidade e à população, que foram desconsiderados por muito tempo, tanto pelas ações governamentais quanto pela academia. O Residencial em Cotia apresenta qualidades projetuais, construtivas e demonstra certa qualidade arquitetônica que pouco se encontra, quando o assunto é habitação de interesse social contemporânea.</abstract>
+        <abstract locale="en_US">The work presents the Residential Complex on the Grecia’s street, Cotia, designed in 2001 by Joan Villà and Silvia Chile, from a private initiative where the premise was to build the most with the least cost. This project should, within the proposed budget by the contracting company, suit the terrain to buildings, construction of housing and support elements, as well as the necessary infrastructure in place - the land was part of a farm and had no structure. Financial constraints were instrumental in the projective attitudes, such as the use of cheap materials in construction, minor adjustments in the land slope and the fact that not opt for the construction of internal roads for vehicles. One of the highlights of the project is the technology adopted, the prefabricated panels in ceramic brick designed by Joan Villà in Campinas, São Paulo. The project deserves recognition and study, as it was the first social housing awarded by the Institute of Architects of Brazil (IAB) with the prize Carlos Barjas Milan in 2002. The analyzes presented following the criteria as applied methodology by Josep Maria Montaner in book Herramientas para habitar el presente. The item for analysis, city, society and technology, for example, include the basic features that are required to contemporary housing, when you build a lot of buildings, but without any criteria. This reflection is made by the awareness that it is necessary to plant a culture of housing, it is necessary to educate so that housing is seen as part of the city, forming the urban fabric and as a place to live the present, accommodate our past and plan the future. The question of the past and all the modern movement characteristics, which built millions of social housing in the country, are very important to the outcome of the current architecture. Despite the criticism of the construction in remote land of the centers, inflexible apartments and without exploitation of appropriate building technologies, it has to be taken</abstract>
+        <keywords locale="pt_BR">
+          <keyword>habitação social</keyword>
+          <keyword>industrialização</keyword>
+          <keyword>Movimento Moderno</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mariana Comerlato</givenname>
+            <familyname locale="pt_BR">Jardim</familyname>
+            <country>BR</country>
+            <email>jardim@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

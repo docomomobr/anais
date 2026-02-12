@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsul02-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">O suporte na Arquitetura de rino Levi</title>
+        <subtitle locale="pt_BR">da grelha tridimensional ao dom-ino</subtitle>
+        <abstract locale="pt_BR">Os temas fundamentais da arquitetura moderna, principalmente as potencialidades das novas técnicas construtivas e de seu elemento mais emblemático, a estrutura em esqueleto são constantemente abordados nos projetos e escritos de Rino Levi. Esse assunto adquire, como em geral na arquitetura moderna, além dos arquitetônicos, nuances ideológicos e simbólicos que representam, como diz o arquiteto, os ideais de absoluta revelação da cultura e da arte do século XX e o desejo de liberdade inerente ao espírito do homem moderno. Na arquitetura de Rino Levi, a adoção da estrutura em esqueleto passa por um processo que vai de um esquema mais clássico herdado dos italianos, antigos colegas de Scuola,, a uma mais corbusiana estratégia de construção espacial a partir da arquitetura carioca em meados dos anos 40. A forte influência classicista refletida na arquitetura de Levi em uma primeira fase é indicativa dos motivos para a quase indiferença pela planta livre e sua adesão ao uso retórico da coluna - onde a tradicional manifestação explícita da estrutura e suas juntas leva a arquitetura de novo a uma categoria tectônica primária. Ao longo dos anos quarenta e cinqüenta, o conteúdo essencial a ser representado e assim um dos principais fundamentos da projetação arquitetônica de Rino Levi, já não são “os novos tempos” percebidos com a unidade das décadas anteriores, mas uma modernidade dotada de crescente complexidade. A utilização do esquema dom-ino com sua potencialidade espacial que permite uma contraposição entre ordenação geométrica da estrutura e composição topológica de paredes, respondendo às necessidades modernas de comodidade indica essa mudança.</abstract>
+        <abstract locale="en_US">The fundamental themes of modern architecture, especially the potentialities of the new building techniques and of their most emblematic element, the freestanding structural frame, are constantly approached in Rino Levi’s projects and writings. This subject acquires, as it usually does in modern architecture, in addition to the architectural aspects, ideological and symbolical nuances which represent, according to the architect, the ideals of absolute revelation of culture and art of the 20th century, as well as the yearning for freedom inherent to the modern man’s spirit. In Rino Levi’s architecture, the adoption of the structural frame undergoes a process which moves from a more classical scheme inherited from the Italians, Scuola’s old colleagues, to a more corbusian strategy of spatial construction, beginning with the carioca architecture from the mid-forties on. The strong classicist influence reflected in Levi’s architecture in a initial stage indicates the motives for the almost indifference for the open floor plan as well as his attachment to the rhetorical use of the column – where the traditional explicit manifestation of the structure and its joints drives architecture again to a primary tectonic category. Along the forties and fifties, the essential content to be represented – and thus one of the main foundations of Rino Levi’s architectural projecting – is not “the new times” anymore, but a modernity endowed with growing complexity. The use of the dom-ino scheme, with its spatial potentiality that allows a contraposition between geometric arrangement of the structure and topological composition of the walls – answering to the modern needs of convenience – indicates this change.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Rino Levi</keyword>
+          <keyword>estrutura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Rino Levi</keyword>
+          <keyword>structure</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Célia Helena Castro</givenname>
+            <familyname locale="pt_BR">Gonsales</familyname>
+            <affiliation locale="pt_BR">UFPel</affiliation>
+            <country>BR</country>
+            <email>celia.gonsales@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9249-1390</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsul02-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">Da utopia ao concreto</title>
+        <subtitle locale="pt_BR">os prédios habitacionais lineares e curvilíneos de affonso reidy como experiência tipológica e construtiva</subtitle>
+        <abstract locale="pt_BR">A obra exemplar de Affonso Reidy, Conjunto Residencial Prefeito Mendes de Moraes, ou simplesmente “Pedregulho”, no Rio de Janeiro, com aproximadamente sessenta anos de existência, constitui-se em um dos mais significativos experimentos arquitetônicos realizados no quadro da arquitetura modernista brasileira. O conjunto caracterizou-se como uma rica experimentação e exploração tipológica e construtiva dentro do idioma modernista, referenciando-se, especialmente, a proposições corbusianas, justificando-se abordá-lo através de novos pontos de vista. Interessa especificamente a este trabalho enfocar o bloco A do conjunto, como exemplar de um tipo arquitetônico proposto por Reidy, o prédio habitacional sinuoso e de crescimento linear potencialmente ilimitado, enquanto um interessante caso de aplicação do concreto armado. O exemplo revela uma síntese entre os extremos da plástica livre e da repetição modular sistemática e geometricamente ordenada, que o material e suas tecnologias e processos típicos permitem. O sistema estrutural adotado permitiu rigorosa sistematização de células e componentes, simultaneamente possibilitando sutis inflexões e curvaturas contínuas. Ensejou a criação de construção similar a uma macro–estrutura sobre pilotis, potencialmente expansível conforme direções variáveis e adaptável a diferenciações do terreno natural e do sítio urbanizado. O tipo proposto, depois replicado no conjunto Gávea e outros projetos, situa-se em uma escala entre o urbano e o campo do objeto autônomo arquitetônico, rompendo limites convencionais das práticas e das concepções arquitetônicas e urbanísticas em termos funcionais, estéticos e construtivos. Estes prédios, provavelmente inspirados nos projetos oníricos de viadutos habitáveis sinuosos corbusianos originados no Rio de Janeiro e Argel, invocam uma rica poética de interação entre paisagem e construção, fundamental no imaginário e no ideário de Le Corbusier. Entretanto, as propostas de Reidy deles se afastam enquanto conjunto de proposições lúcidas e realistas, aplicadas rigorosamente à solução de programas definidos e pragmáticos, utilizando o concreto armado como meio de realização de uma invenção improvável.</abstract>
+        <abstract locale="en_US">The exemplary work of Reidy, the Pedregulho housing complex, now approximately sixty years old, is one of the most important architectural experiments produced in the scope of the Brazilian architectural modern movement. The complex constitutes a rich exploration of architectural morphology and building technical solutions, cleverly encompassing references to the work of other architects of the movement, especially Le Corbusier. This text discusses specifically the “A” building” of Pedregulho, a “serpentine” housing development of potentially indefinite linear growth, as an outstanding example of the use of reinforced concrete, both in aesthetical and building terms, exploring the extremes of plastic freedom and modular systematic repetition that this material and its respective technologies and building processes allow. The expansion is facilitated by the structural modules geometric repetition, but, at the same time, subtle inflexions and curves can be obtained, enhancing the adaptation to site and urban surroundings. The material and its structural system also allow the creation of a building similar to “macrostructures”, integrating various types of housing, pedestrian paths, common spaces and facilities, blurring the conventional limits between the architectural object and the urban system both in terms of design and use.The building was probably meant by Reidy as a type of housing solution to be applied at least in the typical situation encountered in Rio, as the Gávea building and the project for Catacumba which he also designed, seem to prove. The Reidy proposal was inspired by the curvilinear housing viaducts conceived in Rio (1929 and 1936) and Algiers, the most radical and oneiric Corbusian urban proposals. Reidy accomplished the superior task of adapting Le Corbusier’ architectural poetics into lucid and pragmatic propositions, retainining one of the deepest meanings of modern movement’s ideology, the paradoxical relationship between nature and construction. A obra exemplar de Reidy, o Conjunto Residencial Prefeito Mendes de Moraes, mais conhecido por Pedregulho, no bairro de São Cristóvão, no Rio de Janeiro, hoje com aproximadamente sessenta anos de existência, constitui-se em um dos mais significativos experimentos arquitetônicos realizados no quadro da arquitetura modernista brasileira. O conjunto caracterizou-se, como foi freqüente na obra de Reidy, como uma rica experimentação e exploração tipológica e construtiva dentro do idioma modernista, referenciando-se, especialmente, a proposições corbusianas. Interessa a este trabalho enfocar um tipo arquitetônico proposto por Reidy, o prédio habitacional sinuoso e de crescimento linear potencialmente ilimitado, como o Bloco A de Pedregulho, que apareceria depois no único volume construído do Conjunto Gávea e no projeto não realizado de Catacumbas. Este tipo será visto enquanto caso significativo de aplicação do concreto armado, situando-se entre os extremos da plástica livre e da repetição modular geometricamente ordenada, que o material e as tecnologias e processos a ele próprios permitem. A expansão é dada basicamente através de módulos estruturais que se repetem, mas que são, ao mesmo tempo, passíveis de sutis inflexões e curvaturas. Do mesmo modo, o sistema estrutural adotado possibilita a criação de construção similar a uma megaestrutura, embora em dimensões e com amplitude funcional reduzida. Elevada por pilotis, potencialmente expansível em direções variáveis e adaptável à morfologia do terreno natural e do entorno urbanizado, esta estrutura se adequaria à diversidade do sítio de implantação. Do mesmo modo, poderia absorver parte dos equipamentos urbanos complementares à habitação social, idealizados por Reidy. O conjunto Pedregulho também representa, estética, construtiva e funcionalmente, a aplicação do concreto em uma escala situada entre o urbano e o campo do objeto discreto arquitetônico, expandindo os limites convencionais das práticas e das concepções arquitetônicas e urbanísticas. O conjunto Pedregulho possibilita entender a importância da obra de Reidy no quadro da arquitetura modernista brasileira, como exemplar significativo de uma concepção peculiar do autor sobre o ideário modernista em termos não só das questões relativas a correlações entre lugar, forma e função, mas, especialmente, das atitudes sistemáticas do arquiteto na aplicação das técnicas e materiais dentro do processo de construção. Embora Reidy seja unanimemente considerado como membro do trio de pioneiros do modernismo arquitetural brasileiro, juntamente com Lucio Costa e Oscar Niemeyer, sua obra é relativamente menos estudada, talvez devido em parte a sua menor</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gilberto Flores</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <affiliation locale="pt_BR">FA-UFRGS</affiliation>
+            <country>BR</country>
+            <email>cabweb@terra.com.br</email>
+            <orcid>https://orcid.org/0009-0007-8650-593X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsul02-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Arquitetura Moderna em Porto Alegre</title>
+        <subtitle locale="pt_BR">considerações sobre a flexibilidade em planta e o uso de grelha de concreto em fachadas de edifícios residenciais da década de 50</subtitle>
+        <abstract locale="pt_BR">O artigo proposto visa analisar alguns exemplares de arquitetura moderna em Porto Alegre construídos entre 1930 a 1970 e que fizeram uso da técnica do concreto armado. O uso do concreto possibilitou o balanço de elementos que compõem as fachadas, dando uma nova volumetria aos prédios. Pode-se observar que o limite vertical dos edifícios, constituído por várias camadas, passou a contar muitas vezes com elementos fixos de concreto – grelhas ritmadas, utilizadas muitas vezes como proteção solar, os brise-soleil, ou apenas como elemento de emolduração das aberturas. As obras eleitas para análise são aquelas de cunho prioritariamente residencial que possuem em suas fachadas ou parte delas grelhas de concreto. Componentes esses presentes nas teorias de Le Corbusier como no edifício de apartamentos para Argel (1933), e que aparecem em obras locais como no Edifício Santa Terezinha (1950), projeto do arquiteto Holanda Mendonça; Edifício Esplanada (1952) de Fresnedo Siri e Ed. Paglioli (1957) de Remo Irace e Miguel Irace. Nesse artigo, pretende-se identificar a relação entre as grelhas e os interiores dos projetos, se há correspondência direta entre a camada da grelha e o ambiente interno que a faceia. Ainda tratar-se-á de averiguar se a capacidade de flexibilidade em planta dos projetos sofre influência pelo uso de grelhas nas fachadas, ou seja, se um projeto torna-se mais facilmente adaptável ou mutável quando faz uso de tais elementos.</abstract>
+        <abstract locale="en_US">This article aims to analyze some examples of Porto Alegre’s modern architecture buildings built between 1930 and 1970 that made use of reinforced concrete technique. The use of concrete made possible the balancing of the elements that compose the façades, giving a new volumetric shape to the building. It can be observed that the external layer of a building, that has many layers in its vertical limit, started to have often fixed parts in concrete- rhythmed grates, used as sun protection, the brise-soleils, or just as a frame all over the windows. The examples chosen to be analyzed are those mainly residential buildings that have concrete grates in their façades or in a part of it. These components can be seen in Corbusier’ s theories such as at the Apartments’ Building of Argel (1933), and at local examples like at Santa Terezinha (1950) ,design of the architect Holanda Mendonça; Esplanada Building( 1952) designed by Fresnedo Siri and Paglioli( 1957) designed by Remo Irace and Miguel Irace. In the text, it is intended to identify the relationship between the grate on façade and the interiors of the projects, if there is a straight connection between them. Furthermore, it will be verified if the capacity of flexibility in the project’s plan suffers influence by the use of those elements. That is, if a building that owns grids on its façade becomes more easily adaptable or changeable when it makes use of such elements.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>brise-soleils ou grelhas de concreto</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>flexibilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>brise-soleils</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>flexibility</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Wainberg</givenname>
+            <familyname locale="pt_BR">Finkelstein</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>cris.finkelstein@terra.com.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsul02-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Viver nas alturas</title>
+        <abstract locale="pt_BR">Com a difusão da arquitetura moderna o conceito de terraço-jardim foi adotado por outros arquitetos. No Brasil, foi utilizado por Lúcio Costa e a equipe responsável pelo projeto da sede do Ministério da Educação e da Saúde. Em Porto Alegre, Emil Bered, no edifício de apartamentos Rio Grande do Sul, trata a cobertura sobre a garagem, como um terraço para uso infantil. Na época, o uso do concreto como laje de cobertura era evitado em Porto Alegre devido as dificuldades técnicas na execução da impermeabilização.</abstract>
+        <abstract locale="en_US">With the spread of modern architecture, the concept of terrace-garden was adopted by other architects. In Brazil, was used by Lucio Costa and the team responsible for the design of the headquarters of the Ministry of Education and Health. In Porto Alegre, Emil Bered in the “Rio Grande do Sul” building, uses flat roof on the garage as a terrace to child use.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>cobertura</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>diretrizes urbanísticas</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>rooftop</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>urban guidelines</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Clarissa Martins de Lucena Santafé</givenname>
+            <familyname locale="pt_BR">Aguiar</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>claguiar@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsul02-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Banco de londres e América do Sul</title>
+        <subtitle locale="pt_BR">detalhes construtivos e solução estrutural</subtitle>
+        <abstract locale="pt_BR">Em 1960 foi proposto um concurso para o projeto da nova sede central do Banco de Londres e América do Sul, em Buenos Aires. Constava nas bases do concurso, a necessidade de um edifício que transmitisse a integridade, eficiência e confiança - presentes nas operações do banco - por meio de uma expressão arquitetônica clara e concisa, que não recorresse a imagens do passado. Exigiam flexibilidade, além da preocupação com os materiais utilizados, que não exigissem grandes manutenções. A direção do banco considerou que o projeto de Clorindo Testa, Santiago Sánchez Elía, Federico Peralta Ramos e Alfredo Agostini, não era somente o que melhor resolvia os aspectos funcionais e tectônicos, mas também, se adequava aos princípios simbólicos propostos. Sendo assim, em agosto de 1966, foi inaugurado um dos maiores exemplos de arquitetura moderna em terras sul-americanas. O uso escultórico e funcional do concreto armado é uma característica da concepção estrutural desta obra que se define como um exemplo de uma planta livre, com as inumeráveis possibilidades de organização. Em linhas gerais, o projeto é concebido como um grande espaço unificado, organizado mediante seis bandejas. As duas primeiras destinadas ao uso público, e os quatro níveis seguintes destinados ao uso interno do Banco. Todas elas estão dispostas em dois grupos paralelos. Os esforços demandados para a execução da sede central do Banco de Londres e América do Sul, além da extraordinária qualidade de sua confecção, tornam de grande interesse a análise da sua estrutura. Diante do exposto, este trabalho tem como objetivo um minucioso exame da solução estrutural da sede central do Banco de Londres da América do Sul. Pretende-se oferecer maiores explicações técnicas sobre a estrutura de concreto armado e demonstrar alguns dos detalhes construtivos empregados nessa obra singular da arquitetura moderna argentina.</abstract>
+        <abstract locale="en_US">In 1960 a competition was proposed to design the new headquarters of the Bank of London and South America in Buenos Aires. The terms of the competition included the need for a building that would impart integrity, efficiency and trust – present in the bank operations – by means of a clear and concise architectural expression that did not use images from the past. It required flexibility, besides concern about the materials used, which were to require little maintenance. The Bank board of directors considered that the project by Clorindo Testa, Santiago Sánchez Elía, Federico Peralta Ramos and Alfredo Agostini, was not only the one which best solved the functional and tectonic aspects, it also responded best to the symbolic principles proposed. Thus, in August 1966 one of the greatest examples of modern architecture in South America was inaugurated. The sculptoric and functional use of reinforced concrete is a characteristic of the structural concept of this work which is defined as an example of a free plan with many different possibilities of organization. On general lines the project is conceived as a large unified space, organized with six trays. The two first are for public use and the four next levels are for internal use by the Bank. All of them are disposed in two parallel groups. Because of the efforts required to build the headquarters of the Bank of London and South America and the extraordinary quality of the work done, it is very interesting to analyze the structure. Therefore, the purpose of the present paper is to examine in detail the structural solution of the central headquarters of the Bank of London in South America. It is intended to provide further technical explanations about the reinforced concreted structure and demonstrate a few of the constructive details used in this unique building of modern Argentine architecture. Banco de Londres e América do Sul: detalhes construtivos e solução estrutural Fig. 01. Banco de Londres e América do Sul, vista da esquina das Ruas Bartolomé Mitre e Reconquista. (Fonte: Acervo da autora. Junho,2007) “...Apostavam em uma imagem de futuro, e se tratava da sede central do Banco de Londres e América do Sul, uma instituição caracterizada justamente pela força e tradição na Argentina. A adoção de uma imagem de futuro constituía uma troca radical no caráter até então conservador das sedes financeiras e foi motor principal da empresa, mas não deixava de ser resolvida como um monumento. Seria em última instância, um monumento à modernidade.”1 A sede central do Banco de Londres e América do Sul, uma das criações mais notáveis internacionalmente, e talvez a mais relevante da Argentina quanto à criatividade e tecnologia, foi projetada, em 1960, pelo arquiteto Clorindo Testa junto dos arquitetos Santiago Sánchez Elía, Federico Peralta Ramos e Alfredo Agostini - escritório SEPRA. Constitui uma megaestrutura de concreto armado, cujos parâmetros de alta qualidade de execução e de detalhamento são nitidamente percebidos. 1 LIERNUR, Jorge Francisco. Arquitectura em la Argentina del siglo XX – La construción de la modernidad. Buenos Aires: Fondo Nacional de las artes, 2001</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cassandra Salton</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>cassandrasaltoncoradin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-6366-2696</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

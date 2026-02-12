@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdsul05-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Esplanada ontem, hoje, amanhã</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna em Porto Alegre</keyword>
+          <keyword>Román Fresnedo Siri</keyword>
+          <keyword>Edifício Esplanada</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rafael Saldanha</givenname>
+            <familyname locale="pt_BR">Duarte</familyname>
+            <country>BR</country>
+            <email>duarte@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdsul05-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Uso e re-uso do museu Oscar niemeyer mon</title>
+        <abstract locale="pt_BR">Oscar Niemeyer projetou em 1967, um edifício para o Instituto de Educação do Paraná IEP em Curitiba, que nunca foi usado como escola. A obra foi implantada junto ao Cívico de Curitiba, projetado pela equipe de David Azambuja, discípulos de Lucio Costa, no início da década de 1950. Dois anos depois, coma mesma tipologia Niemeyer projetou o bloco de salas de aula da Universidade de Constantine, na Argélia. No período em que o arquiteto residiu fora do Brasil, explorou os limites do uso de estruturas de concreto armado, uma das premissas do “brutalismo”. O bloco principal de 205 metros por 45 metros, em concreto aparente pintado de branco, composto por três conjuntos de aula, mais tarde transformadas em salas de exposições, foi executado com vigas-paredes de 5,50 metros de altura com vão central de 65 metros e balanços laterais de 20 metros. Conforme croquis original do arquiteto, o conjunto arquitetônico teria outros blocos complementares. Durante a elaboração do projeto estrutural Niemeyer solicitou que as marcas de madeira das formas da estrutura deveriam ficar expostas, típica postura “brutalista”. Em 1978 o edifício teve seu primeiro uso como sede das Secretarias de Estado. Esta adaptação foi elaborada por Luiz Forte Netto, arquiteto paulista formado no Mackenzie e um dos criadores do curso de arquitetura da UFPR. Para atender as solicitações de intelectuais da cidade, depois do edifício ficar desocupado, Niemeyer foi convidado em 2002, para transformá-lo em museu de arte. Principal solicitação do novo programa, o salão principal de exposições destinado principalmente para obras contemporâneas, com amplo pé-direto, composto por duas formas curvas, foi executado sobre um pedestal que marca a identidade do museu. Contrastando com o despojado edifício linear e apesar de menos utilizado para exposições o desenho desta sala se transformou em ícone urbano. O pilotis sob a grande estrutura de concreto armado é o local mais interessante do Museu Oscar Niemeyer MON e um dos mais importantes espaços públicos da cidade. Em uma década, o projeto de re-uso de Niemeyer transformou o edifício em um dos museus mais freqüentados do Brasil.</abstract>
+        <abstract locale="en_US">Oscar Niemeyer designed a building for the Instituto de Educação do Paraná- IEP (Paraná Education Institute) in Curitiba in 1967, which has never been used as a school. This building is located next to the Civic Center, projected by David Azambuja team, Lucio Costa’s disciples, in the early 1950’s. Two years later, using the same typology, Niemeyer designed the classroom pavilion at Constantine University in Argel. During the period when the architect lived abroad from Brazil, he explored the use of naked concrete structure at its most, an essential concept of “Brutalism”. The main pavilion of the IEP, painted white, measuring 205m x 45m, was originally conceived to hold classrooms, being refurbished into exhibition rooms. This structure was built with beam-walls of 5,50m high, a central inner space of 65m and side balances of 20m. According to the original sketch, the architectural work should have more complementary pavilions. During the structural project of the building, Niemeyer has made another request: the wood signs of the structure should be apparent, one of “Brutalism” characteristics. In 1978, the building was firstly occupied as the headquarters of State Secretaries. This adaptation was designed by Luiz Forte Netto, an architect from São Paulo state, graduated at Mackenzie University, and one of the founders of the Architecture School at Paraná Federal University - UFPR. After the building became vacant, in order to meeting the requests made by the city intellectuals, Niemeyer was invited to transform the building into an art museum in 2002. The main request of the new program was that the main exhibition room, meant to contemporary art, should have a high ceiling, made up of two curving shapes. This main room, built on a pedestal, became the symbol of the museum. According to his usual work methods, Niemeyer used geometric shapes contrasting with the free design of the footbridges access. The most interesting space of Oscar Niemeyer Museum – MON is the pilotis under the giant concrete structure, one of the most important public spaces in the city. In a decade, Niemeyer’s re-used project transformed this building into one of the most visited museums in Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Brutalismo</keyword>
+          <keyword>museu</keyword>
+          <keyword>re-uso</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brutalism</keyword>
+          <keyword>museum</keyword>
+          <keyword>re-use</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís Salvador</givenname>
+            <familyname locale="pt_BR">Gnoato</familyname>
+            <country>BR</country>
+            <email>gnoato@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1223-4328</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdsul05-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Além do tijolo em solano benítez</title>
+        <abstract locale="pt_BR">Em meio à atual ascensão da arquitetura de peles, em que o desenho das fachadas é privilegiado em detrimento das soluções estruturais, a obra do paraguaio Solano Benítez segue caminho oposto, aproximando-se da tradição moderna de Le Corbusier e, principalmente, das escolas brasileiras de arquitetura carioca e paulista. Benítez é um dos arquitetos latino-americanos mais reconhecidos da atualidade. Sua obra singular baseia-se no uso corajoso e inventivo do tijolo. Contudo, a maioria das observações acerca de sua produção diz respeito apenas às conotações usuais desse material – familiaridade, segurança, proteção, aconchego. Além disso, apesar do tijolo ser universal, muitas análises utilizam os termos “local” e “regional” para referir-se à obra de Benítez, partindo do pressuposto de que basta utilizar tijolo para que uma arquitetura esteja em conformidade com materiais e conhecimentos do lugar onde está inserida. Um dos aspectos negligenciados nessas análises é justamente a importância das soluções estruturais nas concepções de seus projetos. Embora não haja protagonismo da estrutura em relação aos fechamentos - uma vez que, muitas vezes, os elementos estruturais estão dentro de paredes de fachada, muros laterais ou divisórias internas -, são as soluções estruturais que norteiam as decisões na prancheta e no canteiro de obras. Este artigo visa contribuir para o preenchimento dessa lacuna por meio da análise de duas residências projetadas pelo arquiteto paraguaio - Abu &amp; Font (2004-06) e Las Anitas (2006-08) -, que consistem em exemplares representativos da exploração da autonomia e racionalidade da estrutura independente em benefício das composições formais dos edifícios, explorando, dessa maneira, a hipótese da persistência da tradição moderna na prática contemporânea.</abstract>
+        <abstract locale="en_US">In a context of rise of skin architecture, in which the design of the facades is privileged in detriment of structural solutions, the work of the Paraguayan Solano Benítez follows the opposite way, approaching the modern tradition of Le Corbusier and, mainly, of Brazilian architecture schools of Rio and São Paulo. Benítez is currently one of the most recognized Latin American architects. His unique work is based on bold and inventive use of brick. However, most of the comments about his production concerns the usual connotations of this material - familiarity, security, protection, warmth. Moreover, despite brick being universal, many analyzes use the terms &quot;local&quot; and &quot;regional&quot; to refer to the work of Benítez, assuming that the simple use of brick is enough for an architecture to be in conformity with materials and knowledge of where it is located. One of the overlooked aspects in these analyzes is precisely the importance of structural solutions in the conception of their projects. Although there is no role of the structure in relation to the locks - since often the structural elements are inside façade walls, boundary walls or interior walls - the structural solutions are that guide the decisions on the drawing board and on the construction site. This article aims to contribute to filling this blank through the analysis of two residences designed by the Paraguayan architect - Abu &amp; Font (200406) and Las Anitas (2006-08) - which consist of representative examples of the exploitation of autonomy and rationality independent structure for the benefit of formal compositions of buildings, exploring, thus, the hypothesis of the persistence of the modern tradition in contemporary practice. Key words: brick, Solano Benítez, Paraguay. Além do tijolo em Solano Benítez Solano Benítez é um dos arquitetos latino-americanos mais reconhecidos da atualidade. Sua obra singular e inusitada baseia-se no uso corajoso e inventivo do tijolo cerâmico aparente. Benítez graduou-se em</abstract>
+        <keywords locale="pt_BR">
+          <keyword>tijolo</keyword>
+          <keyword>Solano Benítez</keyword>
+          <keyword>Paraguai</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Suelen</givenname>
+            <familyname locale="pt_BR">Camerin</familyname>
+            <country>BR</country>
+            <email>camerin@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4598-1354</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdsul05-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Lina Bo Bardi</title>
+        <subtitle locale="pt_BR">de Salvador ao benin</subtitle>
+        <abstract locale="pt_BR">Casa do Benin em Salvador e Casa do Brasil no Benin. Estas foram duas idealizações integrantes do projeto de recuperação do Centro Histórico de Salvador nos anos 1980, realizadas pela arquiteta Lina Bo Bardi. Como se sabe, Lina esteve em Salvador entre finais de 1950 e 1964, período no qual recuperou o Solar do Unhão. Para a própria Lina, o trabalho que desenvolveu no “polígono da seca”, no qual está inserida a recuperação do Unhão, foi seu projeto mais importante, embora interrompido pela ditadura. Nos anos 1980, momento no qual no Brasil, e certamente na Bahia, as questões culturais passam a ser tratadas com foco na diversidade, Lina volta a Salvador para liderar a recuperação do seu centro histórico. Ou seja, a arquiteta, por uma segunda vez, desenvolve um trabalho também de intervenção no patrimônio arquitetônico e urbano soteropolitano. Embora o clima cultural naquele momento não fosse o mesmo dos anos 1950, este era um período de certa maneira atípico da vida do país como um todo, uma vez que o mesmo saía de considerável período de ditadura. Marcado assim pela abertura política, o Brasil era dominado por uma força e um clima novos, plenos de esperanças, no qual a atenção aos valores culturais mais populares começam a sobressair. Assim, integrante deste projeto, a criação da Casa do Benin na Bahia e sua irmã no continente africano tinham a intenção de comemorar e reafirmar o intercâmbio cultural entre os dois países, intercâmbio existente desde a época da escravidão, quando do Benin vinha a maior parte dos negros africanos construir o Brasil-Colônia e que, retornando ao seu país de origem, levavam também as marcas culturais do Brasil para a África. O trabalho em questão analisa a obra da Casa do Benin em Salvador, realizada a partir de intervenção em edifício colonial, e o projeto da Casa do Brasil no Benin. Os principais objetivos são estabelecer os meios de intervenção utilizados pela arquiteta Lina Bo Bardi na construção de uma narrativa e suas referências, bem como ressaltar o contexto histórico que os gerou. Lina Bo Bardi: from Salvador to Benin</abstract>
+        <abstract locale="en_US">House of Benin in Salvador and House of Brazil (or Bahia) in Benin, were two idealizations, members of the recovery project of the Historic Center of Salvador in the 1980s, conducted by the architect Lina Bo Bardi. As is known, Lina was in Salvador between late 1950 and 1964, a period in which she regained Solar Unhão. For Lina herself, the work she developed at “polígono da seca” or &quot;drought polygon&quot;, in which the recovery of Unhão is inserted, was her most important project, although interrupted by the dictatorship. In the 1980s, a period which in Brazil and, certainly in Bahia, as cultural issues began to be dealt with a focus on diversity, Lina returns to Salvador to lead the recovery of its historic center. That is, the architect, for a second time, also develops a work of intervention in the architectural heritage and urban Soteropolitano. Although the cultural atmosphere at that moment was not the same as the 1950's, this was, in a sense, an atypical period of the country’s life as a whole, since it was coming out of a considerable period of dictatorship. Marked so by this political opening, Brazil was dominated by a force and a new atmosphere, full of hope, in which the attention to the most popular cultural values began to stand out. Thus, as part of this project, the creation of the House of Benin in Bahia and its sister on the African continent, both had the intention to celebrate and reaffirm the cultural exchange between the two countries, which had existed since the time of slavery, when most Africans were sent from Benin to build the Colonial Brazil and, returning to their country of origin, they would also carry cultural marks from Brazil to Africa. The project involved analyzes the work of the House of Benin in Salvador conducted from intervention in colonial building, and the House of Bahia project in Benin. The main purposes are to establish the means of intervention used by the architect Lina Bo Bardi in the construction of a narrative, its refer</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Suely de Oliveira Figueirêdo</givenname>
+            <familyname locale="pt_BR">Puppi</familyname>
+            <country>BR</country>
+            <email>puppi@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0001-7224-670X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdsul05-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Jaime lerner em Maringá</title>
+        <subtitle locale="pt_BR">Arquitetura e Cidade</subtitle>
+        <abstract locale="pt_BR">A atuação profissional de Jaime Lerner é conhecida pelas intervenções urbanas propostas em Curitiba, que se deram por sua formação de engenheiro e arquiteto, acrescida aos cargos executivos que ocupou na vida política. Entretanto, o início de sua carreira é marcado por um projeto arquitetônico no interior do estado, concebendo o Centro Esportivo Municipal de Maringá, CEMM, em 1961. Nos anos 1970 projetou a Universidade de Maringá, UMA e em 1974 uma trincheira, ligando um espaço ao outro, trabalhos que, por suas soluções, integraram-se ao espaço urbano. O projeto urbanístico da cidade (1945) definiu traços de modernidade alinhadas aos preceitos de cidade jardim, com desenho setorizado e previu para a área central, as funções cívicas, comerciais e a zona esportiva. A universidade foi implantada à norte do limite da área que abrangeu o plano. O CEMM teve seu partido arquitetônico pautado no “estádio em terra”, expressão usada por Lerner para a solução estrutural adotada, instalado ao redor do campo de futebol, na posição mais centralizada da quadra e com escala dominante. O ginásio de esportes teve seu posicionamento alterado conforme o andamento do projeto, e, em uma das soluções projetuais, teve forte influência do desenho do Clube Atlético Paulistano. A ocupação da quadra do CEMM é um composto de construção e vazio que permite o uso coletivo, com eventos, feiras, conformando o cenário para reuniões públicas, conceito estabelecido nessa etapa inicial e que permanece até os dias de hoje. O desenvolvimento dos projetos se deu pela constituição de equipe com os arquitetos Domingos Henrique Bongestabs e Marcos Loureiro Prado. A Universidade de Maringá foi fundada em 1969, cuja origem coincide com as altas taxas de crescimento econômico no país no Milagre Brasileiro, período de investimentos e a proliferação de obras pelo Brasil, incluindo escolas e o espaço universitário, ainda que politicamente vivêssemos em regime de repressão. A concepção do projeto arquitetônico da universidade, não construída, deu-se pela mesma equipe e está pautada numa implantação moderna, monumental e setorizada, formada predominantemente por dois blocos extensos que convergem para uma praça cívica, verificando-se influência do ICC da UNB na configuração das edificações. A vida profissional de Lerner é acompanhada de diversos arranjos nas constituições de equipes e parcerias, pois em Maringá, além de Bongestabs e Prado, há ainda a associação com o arquiteto Manoel Coelho para o desenvolvimento do projeto da Trincheira (1974). Esses projetos possuem certo atrelamento aos preceitos do Team 10, fruto do estágio que Lerner fizera em Paris com George Candilis, integrante do grupo, e que se posicionava em defesa da cidade. Uma postura crítica sobre o urbanismo, buscando novas definições frente a complexidade das cidades. São propostas que representam para Maringá, soluções que adotaram a escala da urbanidade, interpretaram o traçado urbanístico e suas decisões valorizam a vida nas ruas, a apropriação do vazio e a convivência com a diversidade de funções.</abstract>
+        <abstract locale="en_US">The work of Jaime Lerner is known for urban interventions proposed in Curitiba, resulted from his engineering and architecture graduation, and the executive positions he held in political career. However, the beginning of his professional work is marked by an architectural project in the state, the Municipal Sports Center of Maringá, CEMM in 1961. In the 1970s he designed the University of Maringá, UMA and in 1974 a trench connecting one space to another, by its solutions, these works have integrated the urban space. The urban planning of the city (1945) defined a modern style aligned with the garden city principles, with sectored areas and established for the center area both the civic functions, commercial and sports area. The university was located to the northern edge of the city plan. The CEMM had its architectural concept ruled the &quot;stadium on ground&quot;, an expression used by Lerner for the structural solution adopted, installed around the soccer field, located at the center position of the square and with a prevalent scale. The gymnasium had its position changed as the project progresses, and one of the design solutions had strong influence of the Paulistano Athletic Club design. The occupation of CEMM`s block is composed by construction and void that allows the collective use, with events, market-place, thus it is allowed the scenery for public meetings, concept established since this early stage, which remains until this day. The project was developed by the team constituted with the architects Domingos Henrique Bongestabs and Marcos Loureiro Prado. The University of Maringá was founded in 1969, its origin coincides with the high rates of economic growth in the country in the Brazilian Miracle period of investment and the proliferation of works within Brazil, including schools and the university area, although in the political area we lived in repression regime. The conception of the architectural design of the university, not built, was made by the same team and is ruled by a modern implantation, monumental and sectored, predominantly formed by two large blocks which converge to a civic square, verifying influence of the ICC UNB in the buildings’ configuration. The professional life of Lerner is marked by several arrangements in the constitutions of teams and partnerships, such as in Maringa, beyond Bongestabs and Prado, there was the association with the architect Manoel Coelho for the development of trench project (1974). These projects have some linkage to the precepts of Team 10, resulted by the internship Lerner did in Paris with George Candilis, member of the group, who was positioned in defense of the city. A critical stance on urban planning, seeking new definitions forward the complexity of cities. These proposals represent to Maringa, solutions that have adopted the urbanity scale, interpreted the urban layout and its decisions value the life on the streets, the appropriation of empty areas and the diversity of functions.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna em Maringá</keyword>
+          <keyword>Jaime Lerner em Maringá</keyword>
+          <keyword>Edifícios públicos em Maringá</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture in Maringa</keyword>
+          <keyword>Jaime Lerner in Maringa</keyword>
+          <keyword>public buildings in Maringa</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tânia Nunes Galvão</givenname>
+            <familyname locale="pt_BR">Verri</familyname>
+            <affiliation locale="pt_BR">UEM</affiliation>
+            <country>BR</country>
+            <email>tngverri@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <affiliation locale="pt_BR">IAU-USP</affiliation>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

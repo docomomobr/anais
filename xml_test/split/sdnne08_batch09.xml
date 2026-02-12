@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="41" stage="production">
+      <id type="internal" advice="ignore">sdnne08-041</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="40" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">41</id>
+        <title locale="pt_BR">Zenon lotufo</title>
+        <subtitle locale="pt_BR">um paulista em Porto nacional-TO</subtitle>
+        <abstract locale="pt_BR">Zenon Lotufo, arquiteto paulista, diplomado engenheiro-arquiteto pela Politécnica de São Paulo em 1936, foi sem dúvidas um dos precursores do Movimento Moderno brasileiro. A sua participação em obras icônicas como o Parque Ibirapuera e seus pavilhões ou a associação a outros arquitetos como Oscar Niemeyer, Gregori Warchavchik e Hélio Uchôa atestam sua presença no cenário de consolidação da forma modernista no Brasil. Com uma obra e biografia ainda pouco exploradas, a produção de Lotufo é marcada por uma atitude crítica perante o projeto, resultando em edificações humanistas e cuidadosas. A casa edificada em Porto Nacional-TO para sua filha e seu genro, em 1971, é evidência material dessa abordagem minunciosa. Nela aplica suas referências projetuais aliadas a um profundo respeito pelo local, usuários e técnicas construtivas disponíveis. Neste artigo além do registro documental realizado por meio de plantas, cortes e fotografias, são abordados também o histórico da edificação, características físicas, inserção urbana, técnicas construtivas e materialidade. Busca-se assim um entendimento geral do objeto com intuito de compreender e divulgar a produção de Zenon Lotufo, e mais especificamente sua atuação em Porto Nacional-TO.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Zenon Lotufo</keyword>
+          <keyword>Porto Nacional-TO</keyword>
+          <keyword>Movimento Moderno</keyword>
+          <keyword>Habitação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eurípedes Afonso da Silva</givenname>
+            <familyname locale="pt_BR">Neto</familyname>
+            <country>BR</country>
+            <email>euripedesafonso@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0001-7232-8556</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

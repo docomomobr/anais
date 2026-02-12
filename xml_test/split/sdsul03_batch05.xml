@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul03" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul03</id>
+  <description locale="pt_BR">3º Seminário Docomomo Sul: anais: madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani, Sérgio Marques. Porto Alegre: PROPAR-UFRGS, 2010. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/. ISBN 978-85-60188-11-6</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>3</number>
+    <year>2010</year>
+    <title locale="pt_BR">3º Seminário Docomomo Sul, Porto Alegre, 2010</title>
+  </issue_identification>
+  <date_published>2010-11-08</date_published>
+  <last_modified>2010-11-08</last_modified>
+  <sections>
+    <section ref="SEC22-sdsul03" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">22</id>
+      <abbrev locale="pt_BR">SEC22-sdsul03</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul03-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Arquitetura com arquiteto</title>
+        <subtitle locale="pt_BR">pequena introdução ao ventorrillo de La buena vista (vila serrana, Uruguai, 1946)</subtitle>
+        <abstract locale="pt_BR">“Esse foi um tempo feliz, antes dos dias dos arquitetos, antes dos dias dos construtores”. Com essa citação de Sêneca, Bernard Rudofsky inicia o que chamou de uma “história natural da arquitetura”, reservada a compreendê-la mais como a expressão dos modos de habitar humanos que como a arte de construir. Escrito em 1977, The Prodigious Builders: notes towards a natural history of architecture with special regard to those species that are traditionally neglected or downright ignored – ou, “os construtores prodigiosos, notas para uma história natural da arquitetura com especial atenção para aquelas espécies que são tradicionalmente negligenciadas ou francamente ignoradas” - era o desenvolvimento do anterior Architecture Without Architects: a short</abstract>
+        <abstract locale="en_US">“That was a happy age, before the days of architects, before the days of builders.” With this quotation from Seneca, Bernard Rudofsky</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Julio Vilamajó</keyword>
+          <keyword>primitivismo</keyword>
+          <keyword>madeira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Julio Vilamajó</keyword>
+          <keyword>primitivism</keyword>
+          <keyword>timber</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudia Piantá Costa</givenname>
+            <familyname locale="pt_BR">Cabral</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>cabral@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0079-1861</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul03-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Lina bo, palanti e a cadeira</title>
+        <subtitle locale="pt_BR">mobiliário e interiores na Arquitetura Moderna</subtitle>
+        <abstract locale="pt_BR">Pietro Maria Bardi, Lina Bo Bardi e Giancarlo Palanti, fundam em 1948 em São Paulo o Studio Palma, proposta revisitada do homônimo italiano conduzido por Bardi em Roma, que adquire novo perfil com a intenção de se dedicar ao desenho industrial e particularmente à produção de móveis, em especial cadeiras e poltronas que se adaptassem às condições locais e se baseassem em desenho moderno. Neste trabalho analisamos as propostas de mobiliário dos dois arquitetos, que exploram aspectos racionalistas no desenho e estabelecem aproximações com a cultura brasileira, inserindo-se numa dimensão do campo profissional ainda pouco explorada pelos arquitetos no país, mas afinada com as proposições da Bauhaus, voltadas para a produção em série ligada à indústria. No caso específico do Studio Palma, a construção dos móveis foi feita artesanalmente na fábrica Pau Brasil, também de iniciativa dos arquitetos. Contudo, as propostas por eles elaboradas mostram uma concepção passível de ser reproduzida em série. A preocupação com a industrialização de móveis e objetos também fica registrada na proposta de Lina e P.M.Bardi de uma escola de desenho industrial, que funcionou junto ao MASP no início dos anos 1950 e que tomava como modelo a Bauhaus de Gropius. É sobre esta produção que nos detemos, analisando seus pressupostos teóricos e sua execução, e demarcando a contribuição dos arquitetos no nicho profissional em que se inserem, além de suas relações com a arquitetura.</abstract>
+        <abstract locale="en_US">Pietro Maria Bardi, Lina Bo Bardi and Giancarlo Palanti, founded Studio Palma in São Paulo in 1948, a proposal with a new profile of the same Studio Palma in Italy, led by Bardi in Rome, however intended to focus on industrial design and particularly on the production of furniture, especially modern design chairs and armchairs adapted to the local conditions. In this paper we analyze the furniture proposals made by the two architects, which explored the design’s rational aspects and established approaches to the Brazilian culture, also contemplating industrial production. This was largely unexplored by the architects then, however theirs complied with Bauhaus’s proposals, oriented to serial production. Specifically, in the case of Studio Palma, the furniture was handicraft work done at Pau Brasil factory. This initiative of the architects also included serial production concerns, which was consolidated in Lina’s and P.M.Bardi’s proposal for an industrial design school that worked at MASP at the beginning of the 1950’s, taking Bauhaus and Gropius as a model. Here we focus on the production and its theoretical premises oriented to project execution using chiefly Brazilian wood, emphasizing the architects’ contributions to such professional niche as well as its relationship with architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>mobiliário</keyword>
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>Giancarlo Palanti</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>furniture</keyword>
+          <keyword>Lina Bo Bardi</keyword>
+          <keyword>Giancarlo Palanti</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda</givenname>
+            <familyname locale="pt_BR">Fernandes</familyname>
+            <affiliation locale="pt_BR">FAU-USP</affiliation>
+            <country>BR</country>
+            <email>feufernandes@terra.com.br</email>
+            <orcid>https://orcid.org/0000-0001-5416-5765</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul03-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Realismo socialista no ensino de Arquitetura do instituto de belas artes em Porto Alegre (c. 1950)</title>
+        <subtitle locale="pt_BR">Modernidade e Arquitetura vernácula em Madeira</subtitle>
+        <abstract locale="pt_BR">: O presente trabalho analisa resultados de uma experiência didática em ensino de projeto arquitetônico realizada no curso de arquitetura do Instituto de Belas Artes (IBA), em Porto Alegre, em 1951, baseada em teses do chamado Realismo Socialista. O curso de arquitetura do IBA havia sido criado poucos anos antes (1945) e caracterizava-se por já adotar, em suas principais disciplinas, uma postura modernista. O debate político (os principais professores de projeto eram ideologicamente de esquerda) também era aspecto fundamental presente no contexto do curso, e relacionava-se às posições sobre os caminhos da arquitetura. Um dos professores, Demétrio Ribeiro, realizou com alunos exercício de projeto em que se procurava uma arquitetura que, sendo moderna, fosse também uma expressão da cultura local, capaz de ser compreendida pela população em geral. Havia aí a crítica à arquitetura de formas abstratas e internacionais do Movimento Moderno, entendidas, a partir da influência das teses do Realismo Socialista de origem soviética, como alienantes e distantes das aspirações populares. Mas, diferentemente da referência soviética, que recuperava formas classicistas monumentais, a busca local era pela recuperação de aspectos da arquitetura popular regional, e não havia uma rejeição total ao Modernismo. O exercício de projeto realizado teve como tema uma escola rural em zonas de imigração alemã e italiana no Rio Grande do Sul. Ao mesmo tempo em que estratégias compositivas, postulados e formas típicas da arquitetura do Movimento Moderno estavam na base dos projetos, propunha-se utilizar, sobretudo, materiais e técnicas construtivas tradicionais da arquitetura vernácula, do século XIX, dos imigrantes, buscando uma forma que estes pudessem reconhecer como uma expressão de sua cultura. A madeira, muito utilizada nas construções dos imigrantes italianos e também parte fundamental da técnica do enxaimel utilizada por imigrantes alemães, aparece no exercício como material fundamental, central para a expressão estética que se buscava.</abstract>
+        <abstract locale="en_US">: The present work analyzes the results of a didactic experience in the teaching of architectural design carried out in the course of architecture of the Fine Arts Institute (IBA), in Porto Alegre, by 1951, based on theses of the so-called Socialist Realism. The IBA architectural course had been set up a few years earlier (1945), and was characterized by having already adopted, in its main disciplines, a Modernist approach. The political debate (the main professors of design were ideologically leftists) was also a fundamental aspect in the context of the course, and was related to the debate about architecture. One of the professors, Demétrio Ribeiro, carried out with his students a design exercize looking for an architecture which, being modern, would also be an expression of local culture, understandable by the population in general. The abstract, international forms of the Modern Movement were criticized, under the influence of the Socialist Realism ideas, of Soviet origin, as being alienating and distant from popular aspirations. However, differently from the classicist and monumental Soviet references, the local search was for regional, popular aspects of architecture, and Modernism was not totally rejected. The design exercize carried out was for a rural school in areas of German and Italian immigration in Rio Grande do Sul. At the same time as strategies of composition, concepts and forms typical of the Modern Movement were at the basis of the designs, traditional materials and building techniques, above all, of the 19th century vernacular architecture of the immigrants were employed in search of a form recognizable as an expression of their culture. Timber, very common in buildings of the Italian immigrants, and also a fundamental part of the German immigrants’ halftimbered constructions, appears in the exercise as a fundamental material, central to the aesthetic expression which was looked for.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Madeira</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Realismo Socialista</keyword>
+          <keyword>curso de arquitetura</keyword>
+          <keyword>Instituto de Belas Artes (Porto Alegre)</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Timber</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Socialist Realism</keyword>
+          <keyword>course of architecture</keyword>
+          <keyword>Fine Arts Institute (Porto Alegre)</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Holmer</givenname>
+            <familyname locale="pt_BR">Fiore</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>fiore@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9222-2695</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul03-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Milton Monte</title>
+        <subtitle locale="pt_BR">diálogos moderno-regionais na Belém pós-60</subtitle>
+        <abstract locale="pt_BR">No imediato período após a criação do curso de arquitetura na Universidade Federal do Pará em 1963, dentre as trajetórias profissionais que se firmaram, segundo o repertório da arquitetura moderna brasileira em Belém, destaca-se aquela de responsabilidade do engenheiro e arquiteto Milton Monte. Sua produção arquitetônica se conformou segundo um pragmatismo regional que assumiu caráter ajustado à realidade material do lugar, constituindo-se de identidade própria. Construída a partir de percepções quanto aos condicionantes climáticos de uma região úmida, quente, de elevado índice pluviométrico e de estratégias projetuais que associam técnicas e materiais locais a proposições do repertório moderno. As obras de Milton Monte assumiram, a partir dos anos 70, o paradigma da arquitetura regional contemporânea, seja na concepção como execução, onde a aplicação do beiral quebrado e de materiais como o tijolo cerâmico vazado e a madeira assumiram dimensão apropriada ao conforto térmico e ao valor estético da construção, assim como a cobertura adquiriu papel singular na constituição do partido volumétrico, tornando-se elemento autônomo na construção. Trata-se de uma arquitetura que demonstrou amadurecimento a partir da experiência moderna do arquiteto paulista Oswaldo Bratke na Vila Serra do Navio no Amapá em 1955 e do contato com a publicação de Arquitetura social em países de clima quente (1948) de Richard Neutra; antecedeu as discussões sobre regionalismo - tão propaladas nos anos 80 - e projetou a perspectiva de uma atitude arquitetônica constituída da leitura do lugar e da continuidade da tradição moderna.</abstract>
+        <abstract locale="en_US">In the immediate period after the creation of the course of architecture in the Federal University of Pará in 1963, amongst the professional trajectories that if had according to firmed grammatical of the brazilian modern architecture in Belém, is distinguished that one of responsibility of the engineer and architect Milton Monte. Its production architectural if conformed as a regional pragmatism that assumed character adjusted to the material reality of the place, consisting of proper identity. Constructed to leave of perceptions how much to the climatic characteristics of a humid, hot region, pluviometric index of raised and projects strategies that associate local techniques and materials the proposals of the modern grammatical. The workmanships of Milton Monte had assumed, from years 70, the paradigm of the regional architecture contemporary, either in the conception as execution, where the application of the broken beiral and materials as the ceramic brick leaked and the wood had assumed appropriate dimension to the thermal comfort and the aesthetic value of the construction, as well as the covering it acquired singular paper in the constitution of the volumetric solution, becoming independent element in the construction. One is to an architecture that demonstrated to matureness from the modern experience of the São Paulo architect Oswaldo Bratke in the Village Mountain of the Ship in the Amapá in 1955 and about the contact with the publication of Social architecture in countries of hot climate (1948) of Neutral Richard; it preceded the quarrels on regionalism - so divulged in years 80 - and projected the perspective of an attitude consisting architectural of the reading of the place and the continuity of the modern tradition.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>regionalismo</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>regionalism</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Giovanni Blanco</givenname>
+            <familyname locale="pt_BR">Sarquis</familyname>
+            <affiliation locale="pt_BR">IPHAN</affiliation>
+            <country>BR</country>
+            <email>giovanni.sarquis@hotmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsul03-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">A Madeira como molde</title>
+        <subtitle locale="pt_BR">o caso da coluna do alvorada</subtitle>
+        <abstract locale="pt_BR">O trabalho visa discutir o processo de materialização das colunas do Palácio da Alvorada, residência presidencial brasileira, sob a perspectiva do seu molde. A edificação, projetada por Oscar Niemeyer em 1956, tem no elemento de apoio sua identidade. Apesar de coadjuvante no sentido da materialidade final - a coluna é de concreto armado revestida com mármore -, a madeira terá influência definitiva na conformação final do elemento, visto ser o material de seu molde. Sendo assim, o trabalho propõe uma reflexão deste aspecto inédito, apresentando fotografias da época da construção, bem como material primário ainda não publicado.</abstract>
+        <abstract locale="en_US">The paper seeks to discuss the process of materialization of the columns of the Alvorada Palace, the presidential residence in Brazil from the perspective of its mold. The building, designed by Oscar Niemeyer in 1956, has the support element its identity. Despite support in the final sense of materiality - the column is concrete lined with marble - , the wood will have definite influence on the final shape of the element, since it is the material of your mold. Thus, the paper proposes a reflection of this unique aspect, featuring photographs from the time of construction, as well as primary material not yet published.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palácio da Alvorada</keyword>
+          <keyword>Coluna</keyword>
+          <keyword>Madeira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Alvorada Palace</keyword>
+          <keyword>Column</keyword>
+          <keyword>Wood</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Guilherme Essvein de</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>guilhermeedealmeida@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

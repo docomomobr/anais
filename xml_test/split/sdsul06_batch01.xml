@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre: Marcavisual, 2019. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-85-61965-77-8</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>6</number>
+    <year>2019</year>
+    <title locale="pt_BR">6º Seminário Docomomo Sul, Porto Alegre, 2019</title>
+  </issue_identification>
+  <date_published>2019-11-07</date_published>
+  <last_modified>2019-11-07</last_modified>
+  <sections>
+    <section ref="AC-sdsul06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">30</id>
+      <abbrev locale="pt_BR">AC-sdsul06</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsul06-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Edifício guaspari</title>
+        <subtitle locale="pt_BR">Uma intervenção recente no Centro Histórico de Porto Alegre</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta a trajetória do Edifício Guaspari, construído na esquina da Avenida Borges de Medeiros com a Rua José Montaury, ícone da modernidade em Porto Alegre. Não se limita apenas naanálise da construção, mas busca revelar a obra como um importante personagem na história e na arquitetura do Centro Histórico. Traça um breve histórico dos acontecimentos urbanos e arquitônicos ocorridos na decada de 1930 em Porto Alegre assim como a história do Edifício Guaspari,projeto do escultor e arquiteto autodidata Fernando Corona; edifício que está diretamente relacionadoa estes acontecimentos, de forma cronológica, apontaas transformações sofridas pelo edifícioao longo da sua existência. Apresenta a última intervenção no edifício, ocorrida em 2017, trata-se do processo de requalificação do edifício que esteve quase três décadas totalmente encoberto por uma estrutura metálica, irreconhecível. O trabalho, além de abordar as propostas e alterações arquitetônicas sofridas ao longo do tempo, evidencia o processo de requalificação como responsável pelo ressurgimento do edifício no Centro Histórico, deixando de ser uma imagem reminiscente.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Edifício Guaspari</keyword>
+          <keyword>Requalificação</keyword>
+          <keyword>Preexistência</keyword>
+          <keyword>Porto Alegre</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alexandre Bataioli da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>alexandrebataioli@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">João Paulo Silveira</givenname>
+            <familyname locale="pt_BR">Barbiero</familyname>
+            <country>BR</country>
+            <email>silveirabarbiero@gmail.com</email>
+          </author>
+        </authors>
+        <pages>5-19</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsul06-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">O interior da residência de Antônio Barbosa</title>
+        <subtitle locale="pt_BR">Uma breve análise da atmosfera projetada por vilanova artigas</subtitle>
+        <abstract locale="pt_BR">Este ensaio tem como principal objetivo realizar uma revisão sobre o interior da residência de Antônio Barbosa de Souza (1971- 1974), projeto do arquiteto João Batista Vilanova Artigas localizado em Campo Grande no estado do Mato Grosso do Sul, obra pouco conhecida e citada do arquiteto curitibano. Para tanto, a análise terá seu foco na atmosfera das áreas sociais e na relação entre envoltório e conteúdo. A análise será realizada através da observação e descrição dos componentes que conformam a ambiência interna da residência dos Barbosas, como dimensões, disposição de mobiliários e equipamentos, variedade de texturas e materiais, iluminação natural, artificial e demais elementos relevantes à composição da atmosfera ali criada. Essa investigação se apoiará, principalmente, na análise de imagens do começo da década de 80, disponíveis no Acervo da Biblioteca da FAUUSP (Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo), quando a residência era ainda lar dos Barbosas e encontrava-se, de certa forma, intocada. Único exemplar de Artigas na cidade de Campo Grande, a residência teve seu uso alterado no ano de 2007, quando passou a abrigar a sede da Agepan (Agência Estadual de Regulação de Serviços Públicos de Mato Grosso do Sul), o que gerou mudanças profundas no caráter do edifício e consequências ao projeto, que teve seu espaço interior e jardins alterados. Por último, o trabalho pretende iniciar uma breve discussão sobre as adaptações que a residência sofreu com o passar dos anos e sua relação com a questão da preservação da identidade arquitetônica de um projeto considerado historicamente importante para a cidade de Campo Grande.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>Campo Grande</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura de Interiores</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Amanda Evellyn</givenname>
+            <familyname locale="pt_BR">Zys</familyname>
+            <country>BR</country>
+            <email>amandazys@gmail.com</email>
+            <orcid>https://orcid.org/0009-0004-8733-056X</orcid>
+          </author>
+        </authors>
+        <pages>20-35</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsul06-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">A inclusão do Patrimônio Moderno na inventariação de bens edificados com interesse patrimonial</title>
+        <abstract locale="pt_BR">Este artigo tem como objetivo apresentar os resultados do projeto de pesquisa “Inventariação de bens edificados com interesse patrimonial na área central de Santa Maria – RS” no que concerne as edificações modernistas do centro histórico que foram abarcadas, ou não, pelo Decreto Executivo (84/2018) que tombou provisoriamente cento e trinta e cinco remanescentes de vários períodos da história da cidade. A principal razão para o desenvolvimento deste projeto é a desproteção de bens ocasionada pela aprovação da nova legislação de uso e ocupação do solo urbano de Santa Maria, ocorrido em meados de 2018, onde a proteção garantida anteriormente pela configuração da chamada zona 2, centro histórico, foi substituída pela pressão da especulação imobiliária. Como ação emergencial, o poder executivo municipal emitiu o decreto que elencou as edificações a serem mantidas, até que seu valor seja realmente aferido. Assim, fez-se necessária uma união de forças entre as universidades e o Instituto de Planejamento de Santa Maria (IPLAN), para garantir o reconhecimento dos bens com valor e apoiar os pedidos de preservação. Entretanto neste primeiro momento da reação preservacionista alguns exemplares foram excluídos da listagem, principalmente os exemplares modernistas, devido não apenas ao seu caráter emergencial como ainda ao grande impacto do tombamento de conjunto e a reação negativa sobre a sociedade. A pesquisa consistiu na elaboração das fichas cadastrais para auxiliarem no tombamento, por meio de revisão bibliográfica, levantamento em diversos acervos, assim como no levantamento fotográfico atualizado das fachadas das edificações. Num segundo momento, foram analisados futuros exemplares para constituírem outro inventário e possíveis estratégias de incentivo aos proprietários dos bens tombados. Finalmente, o inventário representa a continuidade da luta pela preservação e esta nova listagem para inventariação, que provavelmente será apresentada e aprovada pelo poder público, minimizará o dano da precipitada retirada da proteção do patrimônio remanescente.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Arquitetônico</keyword>
+          <keyword>Preservação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Modernismo no Rio Grande do Sul</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Anelis Rolão</givenname>
+            <familyname locale="pt_BR">Flôres</familyname>
+            <country>BR</country>
+            <email>anelis@ufn.edu.br</email>
+            <orcid>https://orcid.org/0000-0003-1918-4084</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Francisco</givenname>
+            <familyname locale="pt_BR">Queruz</familyname>
+            <country>BR</country>
+            <email>francisco@ufn.edu.br</email>
+            <orcid>https://orcid.org/0009-0004-3978-6888</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Adriano da Silva</givenname>
+            <familyname locale="pt_BR">Falcão</familyname>
+            <country>BR</country>
+            <email>adriarq@ufn.edu.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Gabriela Martins</givenname>
+            <familyname locale="pt_BR">Flores</familyname>
+            <country>BR</country>
+            <email>nao.informado4@sdsul06.temp</email>
+          </author>
+        </authors>
+        <pages>36-51</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsul06-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Transparência e permeabilidade na Arquitetura Moderna gaúcha</title>
+        <subtitle locale="pt_BR">a reforma da fachada do edifício christofell</subtitle>
+        <abstract locale="pt_BR">Um dos aspectos associados à arquitetura moderna é a busca de transparência, procurando criar maior integração visual com o exterior. A obtenção de transparência implica uma alteração significativa das superfícies verticais das edificações, antes maciças e pouca vazadas, e cada vez mais abertas e expostas a partir da metade do século XX, com a consequente ampliação das superfícies envidraçadas. A arquitetura moderna brasileira procurou adaptar essa premissa às condições particulares de clima e contexto com a criação de sistemas de proteção, como a aplicação de brises e elementos vazados (cobogós). O objetivo deste artigo é uma reflexão acerca da transparência e permeabilidade na arquitetura moderna gaúcha por meio do estudo do Edifício Christofell (1962), do arquiteto Emil Bered, com enfoque na alteração da fachada em reforma recente, que subtraiu os panos vazados, um dos elementos de composição arquitetônica mais expressivos. O uso dos cobogós como elemento de arquitetura foi importante para a composição arquitetônica da edificação, especialmente com função protetora, permitindo que a luz e insolação que incide na fachada oeste fosse filtrada num jogo instigante de transparências e sombras, conferindo privacidade, permeabilidade visual e porosidade à fachada. Sua perda afeta esses atributos, desvelando os panos envidraçados. O estudo traz resultados preliminares do Projeto de Pesquisa Emil Bered Arquiteto em andamento, com um inventário da obra completa, reunindo a documentação original redesenhada e análises crítico-comparativas. A trajetória de Bered cobre toda a segunda metade do século XX, em contribuição fundamental para a introdução, difusão e consolidação da arquitetura moderna no estado, e a qualidade e relevância de sua produção é reconhecida em todos os estudos da arquitetura moderna gaúcha. O projeto exemplifica com qualidade essa condição, e rendeu a Bered a medalha de bronze na categoria edificação residencial no II Salão de Arquitetura do Rio Grande do Sul, em 1962.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Brasileira</keyword>
+          <keyword>Arquiteto Emil Bered</keyword>
+          <keyword>Edifício Christofell</keyword>
+          <keyword>Elementos de proteção de fachada</keyword>
+          <keyword>Cobogós</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvio Belmonte</givenname>
+            <familyname locale="pt_BR">de Abreu Filho</familyname>
+            <country>BR</country>
+            <email>silvio.abreu.arq@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Angela Cristiane</givenname>
+            <familyname locale="pt_BR">Fagundes</familyname>
+            <country>BR</country>
+            <email>angelacristianefagundes@hotmail.com</email>
+          </author>
+        </authors>
+        <pages>52-70</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsul06-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Cláudio Araújo e a livre expressão do trabalho de interiores</title>
+        <abstract locale="pt_BR">O presente artigo se propõe a observar o projeto de interiores do apartamento do arquiteto gaúcho Cláudio Araújo, situado no terceiro e último pavimento do Edifício FAM. Depois de uma breve contextualização sobre o interesse de Cláudio pela minúscia e pela resolução de problemas na escala do detalhe - que surgiu a partir de suas experiências pessoais durante a juventide e cresceu ao longo da academia e da vida aulta, incluindo a atuação profissional em escritório e a docência – inicia-se a análise de projeto da parte social do apartamento. A análise contempla desde as decisões de Cláudio (aparentemente tomadas de maneira livre, sem a interferfência de um cliente ou, neste caso, de seus familiares) para a “concha“ do apartamento, que seria a envoltória denominada architectural shell por Peter Thornton, até a escolha ou projeto de mobiliário e decoração.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Arthur Lauxen</givenname>
+            <familyname locale="pt_BR">Luiz</familyname>
+            <country>BR</country>
+            <email>arthurlauxen@gmail.com</email>
+          </author>
+        </authors>
+        <pages>71-83</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

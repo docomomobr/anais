@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsp08-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Edifício nova central</title>
+        <abstract locale="pt_BR">A presente comunicação refere-se ao Edifício Sede do Banco Bradesco, projeto de 1962 do arquiteto Carlos Lemos (1925), localizado no centro da cidade de São Paulo – SP. Tal edifício, projetado originalmente para ser hotel e fazer parte do complexo turístico formado juntamente com o edifício Copan, encontra-se vinculado à vertiginosa verticalização do centro, ocorrida especialmente na segunda metade do século XX. Ao discorrer brevemente sobre o contexto histórico, fatos relacionados ao projeto, e o trabalho desenvolvido pela equipe do escritório MLD Restauração Arquitetônica Integrada (MLD RAI) acerca do edifício, pretende-se apresentar os resultados obtidos e destacar a importância das etapas de pesquisa histórica, resgate documental, redesenho, cronologia arquitetônica e do projeto de intervenção conservativa dentro do campo da preservação contemporânea do patrimônio cultural edificado contribuindo, também, para um debate a respeito da relevância da preservação do patrimônio moderno e de seu legado.</abstract>
+        <abstract locale="en_US">The following communication refers to the Bradesco Bank Headquarters building, designed by the architect Carlos Lemos (1925) in 1962, located in the city center of São Paulo – SP. Originally conceived to be a hotel part of a touristic complex together with the Copan building, the design is entangled with the vertiginous verticalization of the city center, especially during the second half of the 20th century. The intention is to showcase, by the presentation of the historical context of the building and the conservation project made by the MLD Restauração Arquitetônica Integrada (MLD RAI) architectural office, the importance of the historical and documental research, redrawing, building chronology and conservation project inside of the contemporary preservation of cultural heritage, and also contribute to the debate about the importance of the preservation of modern heritage and its legacy.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Cultural</keyword>
+          <keyword>Conservação Histórica</keyword>
+          <keyword>Arquitetura – conservação e restauro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Cultural Heritage</keyword>
+          <keyword>Historical Conservation</keyword>
+          <keyword>Architecture – conservation and restoration</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza</givenname>
+            <familyname locale="pt_BR">Dutra</familyname>
+            <country>BR</country>
+            <email>dutra@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniel Luiz Vieira</givenname>
+            <familyname locale="pt_BR">Carcavalli</familyname>
+            <country>BR</country>
+            <email>carcavalli@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Diego Petrini</givenname>
+            <familyname locale="pt_BR">Pinheiro</familyname>
+            <country>BR</country>
+            <email>pinheiro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>225-238</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsp08-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Do pó viemos e para o pó não voltaremos – o que ninguém sabe sobre o edifício pirapama (Recife-PE)</title>
+        <abstract locale="pt_BR">Atualmente conservação da arquitetura moderna é abordada com grande relevância para o patrimônio, não só brasileiro, mas de todo o mundo. Apesar dos vários desafios para conservação dessa arquitetura, a preservação da dimensão material é ainda o principal problema a ser enfrentado e aquele que acarreta mais discussões entre os profissionais envolvidos. Nesse artigo, apresentaremos o edifício Pirapama, marco da verticalização do Bairro da Boa Vista na cidade do Recife-PE, projetado pelo arquiteto português Delfim Fernandes Amorim, tratando sobre suas particularidades e atual estado de conservação. O edifício Pirapama trata-se de uma obra notável da arquitetura moderna pernambucana.</abstract>
+        <abstract locale="en_US">Currently, conservation of modern architecture is approached with great relevance for the heritage, not only Brazilian, but from all over the world. Despite the various challenges for the conservation of this architecture, the preservation of the material dimension is still the main problem to be faced and the one that causes more discussions among the professionals involved. In this article, we will present the Pirapama building, a landmark in the verticalization of Bairro da Boa Vista in the city of Recife-PE, designed by the Portuguese architect Delfim Fernandes Amorim, dealing with its particularities and current state of conservation. The Pirapama building is a remarkable work of Pernambuco's modern architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Edifício</keyword>
+          <keyword>Conservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Building</keyword>
+          <keyword>Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Lúcia Herbster</givenname>
+            <familyname locale="pt_BR">Pinto</familyname>
+            <country>BR</country>
+            <email>fernanda.hpinto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5637-3920</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Liliana de Souza</givenname>
+            <familyname locale="pt_BR">Adrião</familyname>
+            <country>BR</country>
+            <email>liliana.adriao@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7002-8207</orcid>
+          </author>
+        </authors>
+        <pages>239-249</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsp08-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">A Modernidade em dois atos</title>
+        <subtitle locale="pt_BR">o teatro municipal de araraquara</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta o Teatro Clodoaldo Medina construído entre 1974 e 1977 em Araraquara, São Paulo. A partir do acesso aos acervos de seus autores, os arquitetos Francisco José Santoro (1944) e Arnaldo Gonzales Palamone Lepre (1924-2001), a documentação inédita dessa obra lança olhar para a produção moderna no interior paulista e busca somar esforços aos seus processos de documentação e divulgação.</abstract>
+        <abstract locale="en_US">This paper presents the Clodoaldo Medina Theater built between 1974 and 1977 in Araraquara, São Paulo. Through the collections of its authors, the architects Francisco José Santoro (1944) and Arnaldo Gonzales Palamone Lepre (1924-2001), the unpublished documentation of this work takes a look at modern production in the interior of São Paulo and seeks to add efforts to its processes of documentation and dissemination.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>brutalismo</keyword>
+          <keyword>acervos</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Brutalism</keyword>
+          <keyword>Collections</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Kröhling Pinheiro Borges</givenname>
+            <familyname locale="pt_BR">Bernardi</familyname>
+            <country>BR</country>
+            <email>bernardi@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>250-266</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsp08-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A casa de Uma arquiteta moderna, estudo da residência nadir de Carvalho (1975)</title>
+        <abstract locale="pt_BR">Maria Nadir de Carvalho (1952-2021), arquiteta e urbanista, contribuiu para o desenvolvimento da arquitetura moderna residencial no Estado do Paraná. Para este trabalho, o objetivo é a análise historiográfica e análise decompositiva do projeto arquitetônico da sua própria residência. Concebida em 1975 por Nadir, a casa está localizada em um terreno urbano de generosas proporções, em um bairro residencial de Curitiba e se caracteriza pelo uso do concreto armado aparente. Além da materialidade, a obra também se destaca pelo partido arquitetônico adotado, solução que remete a produção residencial realizada em São Paulo, podendo ser nomeada como Escola Paulista. O artigo se estrutura inicialmente com uma breve descrição sobre o processo de inserção do ideário moderno na arquitetura de Curitiba, a biografia da arquiteta e a apresentação do projeto de sua residência através das análises</abstract>
+        <abstract locale="en_US">Nadir de Carvalho (1952-2021), architect and urbanist, contributed for the development of modern residential architecture in the state of Paraná. For this article, the goal is the historiographical analysis and the architectural decompositional analysis of the project of her own residence. Designed in 1975 by Nadir, the house is located on an urban plot of generous proportions in a residential neighborhood of Curitiba and is characterized by the use of concrete. Besides the materiality, the project also stands out for the architectural design adopted, a solution that refers to residential production built in São Paulo, that can be named as Escola Paulista. The article is initially structured with a brief description of the process of inserting modern concepts into the architecture of Curitiba, the Nadir's biography and the presentation of her residence Project through analysis.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna em Curitiba</keyword>
+          <keyword>Casa do Arquiteto</keyword>
+          <keyword>Maria Nadir de Carvalho</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture in Curitiba</keyword>
+          <keyword>Architect’s house</keyword>
+          <keyword>Maria Nadir de Carvalho</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe Taroh Inoue</givenname>
+            <familyname locale="pt_BR">Sanquetta</familyname>
+            <country>BR</country>
+            <email>sem-email-2@example.com</email>
+            <orcid>https://orcid.org/0000-0003-4771-3588</orcid>
+          </author>
+        </authors>
+        <pages>267-281</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsp08-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">A importância dos acervos iconográficos para a compreensão do processo projetual na Arquitetura</title>
+        <subtitle locale="pt_BR">o exemplo do edifício São Luiz, de marcello fragelli</subtitle>
+        <abstract locale="pt_BR">Considerando a importância dos acervos iconográficos para a produção de conhecimento no campo da arquitetura, este trabalho resulta da pesquisa de mestrado em andamento, que tem o Edifício São Luiz – sede da Promon Engenharia, projetada por Marcello Fragelli – como objeto de estudo no contexto da produção de edifícios de grande porte às margens do Rio Pinheiros, em São Paulo, SP. Este artigo aborda a leitura de desenhos obtidos nos acervos iconográficos da biblioteca da FAUUSP e da Promon Engenharia e se apoia no conceito de projeto como pesquisa.</abstract>
+        <abstract locale="en_US">Considering the importance of the iconographic collections for the production of knowledge in the architectural field, this work results from the master’s degree research currently in course, which has the São Luiz Building – the Promon Engineering Office headquarters, designed by Marcello Fragelli – as its object of study in the context of the production of large-scale office buildings aside the Pinheiros River, in São Paulo, Brazil. This article undertakes the analysis of architectural drawings obtained at FAUUSP’s Library Iconographic Collection and Promon Engineering’s Iconographic Collection, relying on the concept of project design as research.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Acervos iconográficos</keyword>
+          <keyword>Edifício São Luiz</keyword>
+          <keyword>Marcello Fragelli</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Iconographic collections</keyword>
+          <keyword>São Luiz Building</keyword>
+          <keyword>Marcello Fragelli</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mario Tavares Moura</givenname>
+            <familyname locale="pt_BR">Filho</familyname>
+            <country>BR</country>
+            <email>moura_filho@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tatiana</givenname>
+            <familyname locale="pt_BR">Sakurai</familyname>
+            <country>BR</country>
+            <email>sem-email-2@example.com</email>
+            <orcid>https://orcid.org/0000-0001-5769-7492</orcid>
+          </author>
+        </authors>
+        <pages>282-297</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

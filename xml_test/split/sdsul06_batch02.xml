@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre: Marcavisual, 2019. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-85-61965-77-8</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>6</number>
+    <year>2019</year>
+    <title locale="pt_BR">6º Seminário Docomomo Sul, Porto Alegre, 2019</title>
+  </issue_identification>
+  <date_published>2019-11-07</date_published>
+  <last_modified>2019-11-07</last_modified>
+  <sections>
+    <section ref="AC-sdsul06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">30</id>
+      <abbrev locale="pt_BR">AC-sdsul06</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsul06-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">Sem placa, ainda com grelha</title>
+        <subtitle locale="pt_BR">entre o pragmatismo da estrutura independente e o potencial de renovação dos edifícios residenciais em Porto Alegre 1950/68</subtitle>
+        <abstract locale="pt_BR">Em Razões da nova arquitetura (1934), Lucio Costa sinaliza que o segredo da arquitetura moderna é a ossatura independente, mas não uma estrutura qualquer, referindo-se ao tipo indicado por Le Corbusier para as casas Dom-ino (1915), ou seja, lajes planas (placas) em balanço e grelha regular de suportes. A associação de placa e grelha com paredes leves de espessura mínima viabiliza uma planta e uma fachada livres. O espaço resultante é estratificado horizontalmente, potencialmente flexível, tanto para permitir a disposição independente da compartimentação nos diversos pavimentos, como as futuras operações de renovação ao longo do ciclo de vida do edifício. Por seu turno, no seu Inventário da Arquitetura Moderna em Porto Alegre 1945/65, Carlos Eduardo Comas atribui o insucesso dos arquitetos da Escola Carioca em Porto Alegre à forte oposição dos engenheiros locais. A chegada tardia da arquitetura moderna na cidade por volta de 1950 se explica, segundo Comas, pela rejeição dos seus princípios estéticos, preocupações climáticas e pelos interesses de grupo no mercado. Nessa conjuntura provinciana e pragmática, a rejeição quase que absoluta da placa estaria justificada, afinal nesses tempos esta era obtida não por uma simples laje sem vigamento, mas por uma laje nervurada com duplicação de piso e teto. Sem as placas vindas do modelo carioca, os edifícios residenciais porto-alegrenses do período entre 1950 a 1968 se distinguem pela regularidade ou irregularidade da grelha de apoios. Por outro lado, a distribuição regular de cargas nos apoios é inquestionável fator de melhor desempenho econômico da estrutura. A ausência de regularidade na grelha de suportes, com o aumento de paralisação de planta em relação às futuras reformas desses apartamentos, deve ser debitada na conta de arquitetos, que por uma provável incompreensão dos diversos graus de liberdade da planta livre optaram pela submissão da ordem geométrica do esqueleto à partição.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna em Porto Alegre</keyword>
+          <keyword>estrutura independente</keyword>
+          <keyword>potencial de renovação dos edifícios residenciais</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">João Ricardo</givenname>
+            <familyname locale="pt_BR">Masuero</familyname>
+            <country>BR</country>
+            <email>jrmasuero@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9733-8881</orcid>
+          </author>
+        </authors>
+        <pages>84-100</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsul06-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A Arquitetura da biblioteca nacional de Buenos Aires</title>
+        <subtitle locale="pt_BR">do concurso à construção (1961-1996)</subtitle>
+        <abstract locale="pt_BR">Em julho de 1960, é proposto um concurso de anteprojetos para o edifício da nova Biblioteca Nacional de Buenos Aires. As bases do concurso e o programa são aprovados em 1961, e o concurso é aberto no mesmo ano. As bases preveem, especialmente, que “o projeto deve ser encarado funcionalmente e com as previsões lógicas de um uso em permanente crescimento e evolução. Assim como, valorizar e aproveitar as características urbanísticas e arquitetônicas do sítio, assegurando a salvaguarda do espaço verde, do barranco e dos valores botânicos existentes”.1 Os jurados consideram que o anteprojeto dos arquitetos Clorindo Testa, Francisco Bullrich e Alicia D. Cazzaniga não somente resolve os aspectos funcionais, como também é o que melhor se adéqua ao terreno. Assim, em 30 de julho de 1962, é premiado o anteprojeto que viria a ter sua obra concluída três décadas depois. A imagem atual da Biblioteca Nacional refere-se basicamente ao projeto executivo desenvolvido e entregue em 1966. Sua obra teve início em 1971 e, por volta de 1981, apenas um terço da edificação havia sido construída. Somente nos anos 90 a biblioteca teve seu uso corrente. Os mais de 30 anos que separam o concurso da efetiva construção ficam marcados por duas principais intervenções, para adaptações e renovação do programa do projeto arquitetônico e sua funcionalidade. A primeira, na ocasião da elaboração do projeto executivo; a segunda, no fim da década de 80, quando a biblioteca estava às vistas da inauguração. O presente ensaio tem por objetivo principal a análise sistemática do projeto da Biblioteca Nacional e a apresentação dos momentos que compõem a história dessa edificação, do concurso à construção.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Biblioteca Nacional</keyword>
+          <keyword>Clorindo Testa</keyword>
+          <keyword>concurso</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cassandra Salton</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <country>BR</country>
+            <email>cassandrasaltoncoradin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0002-6366-2696</orcid>
+          </author>
+        </authors>
+        <pages>101-114</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsul06-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">O edifício formac pelas lentes de João Alberto Fonseca da Silva</title>
+        <abstract locale="pt_BR">A arquitetura e a fotografia são duas artes que se conectam desde os seus princípios básicos. Apesar de não substituir as experiências físicas reais nos ambientes construídos, a fotografia permite uma ampliação imensurável do conhecimento de obras arquitetônicas. Este trabalho tem como tema central a apresentação da relação do fotógrafo João Alberto Fonseca da Silva com o Edifício Formac, localizado no centro de Porto Alegre. Projetado pelo arquiteto Carlos Alberto Holanda Mendonça, o Edifício Formac, construído em 1953, foi o primeiro projeto no Rio Grande do Sul a utilizar a técnica da fotomontagem para ilustrar em etapa de projeto a inserção do edifício no seu contexto, num período que Porto Alegre passava por um notável processo de verticalização urbana. O estudo desse caso se oferece também como oportunidade para a compreensão do trabalho do fotógrafo João Alberto Fonseca da Silva que, através de suas lentes, registrou importantes manifestações da modernidade arquitetônica no Estado, a partir da década de 1950. Autodidata, João Alberto pode ser considerado um visionário na arte de fotografar, tendo sido pioneiro em muitas técnicas de fotografia. A coleta, análise e divulgação desse material, composto pelas fotomontagens e fotografias da construção do Edifício Formac, disponíveis no acervo fotográfico de João Alberto, que foi doado ao Laboratório de História e Teoria da Arquitetura (LHTA) do curso de Arquitetura e Urbanismo da UniRitter pelo próprio fotógrafo, configura uma importante contribuição para a história da arquitetura e da fotografia brasileira, como parte indissociável do movimento moderno gaúcho. Com isso, se espera colaborar para a divulgação do acervo fotográfico de João Alberto, que é uma herança cultural sem precedentes na história da fotografia gaúcha, especialmente por retratar as transformações urbanas pelas quais a capital gaúcha passou, funcionando como um poderoso instrumento de interpretação do contexto arquitetônico da época.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>fotografia</keyword>
+          <keyword>João Alberto Fonseca da Silva</keyword>
+          <keyword>Porto Alegre</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Manuela</givenname>
+            <familyname locale="pt_BR">Catafesta</familyname>
+            <country>BR</country>
+            <email>catafesta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3285-7941</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fábio</givenname>
+            <familyname locale="pt_BR">Bortoli</familyname>
+            <country>BR</country>
+            <email>bortoli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5358-479X</orcid>
+          </author>
+        </authors>
+        <pages>115-129</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsul06-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">As Intervenções recentes de scheps na facultad de ingeniería de vilamajó</title>
+        <abstract locale="pt_BR">O edifício da Facultad de Ingeniería da Universidad de la Republica (UdelaR), em Montevidéu, possui uma dimensão arquitetônica e historiográfica reconhecida internacionalmente, como demonstra sua menção como obra moderna uruguaia precursora por Henry-Russel Hitchcock em “Latin American Architecture Since 1945” (1955), entre outras fontes bibliográficas. O conjunto projetado por Julio Vilamajó em 1936 foi inovador ao antecipar o uso do concreto aparente de forma global; mas também por implantar os diversos blocos de usos e dimensões distintas de modo similar à solução neoplástica da Bauhaus: a obra se destaca do tecido tradicional e denso às margens do Rio da Prata através da implantação livre em área verde junto ao Parque Rodó. Pelos motivos consistentes tornou-se merecidamente Monumento Histórico Nacional do Uruguai em 1975. Desde a década de 1990, o conjunto vem recebendo as atualizações técnicas e funcionais necessárias ao funcionamento, pela defasagem natural de equipamentos, funções e condições de uso; são efetuadas “reciclagens” e ampliações, além do restauro e conservação de elementos existentes. Até o presente momento, o autor dessas intervenções foi Juan Gustavo Scheps Grandal, Doutor em Teoria e Prática de Projeto de Arquitetura pela Universidad Politécnica de Madrid, onde desenvolveu tese sobre a obra em exame e seu autor. Este trabalho analisa as intervenções realizadas de modo recente nesse conjunto emblemático da arquitetura moderna uruguaia, contextualizando a experiência na abordagem característica do país – contrastante com a práxis brasileira; uma apreciação cujo interesse cresce justamente pela oportuna expertise de Scheps sobre a obra e seu autor.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna uruguaia</keyword>
+          <keyword>Facultad de Ingeniería</keyword>
+          <keyword>Julio Vilamajó</keyword>
+          <keyword>reciclagem</keyword>
+          <keyword>ampliação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane dos Santos Bitencourt</givenname>
+            <familyname locale="pt_BR">Schwingel</familyname>
+            <country>BR</country>
+            <email>cristiane.schwingel@ufrgs.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luís Henrique Haas</givenname>
+            <familyname locale="pt_BR">Luccas</familyname>
+            <country>BR</country>
+            <email>luccas@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9860-3509</orcid>
+          </author>
+        </authors>
+        <pages>130-145</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsul06-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Arquitetura da demolição, a nova memória do moderno</title>
+        <abstract locale="pt_BR">O tema deste trabalho gira em torno da crescente demolição de edificações de expressão modernista na cidade de Santa Maria, interior do estado do Rio Grande do Sul. O modernismo iniciou tardiamente no estado, em parte pelo isolamento geográfico em relação a outros polos de influencia, em parte pela escassez de profissionais, principalmente arquitetos. O período compreendeu as décadas de 1940 até 1970 e manifestou arquiteturas que representaram a difusão dos preceitos modernistas, com a particularidade de estarem inseridas no contexto regional e de expressarem a forma como os arquitetos gaúchos decodificaram as influências do sudeste para adaptá-las as condições culturais e ambientais locais. Portanto, tais edifícios são representantes importantes de um período da história e do comportamento social, sendo cenário estruturador de uma paisagem urbana que ainda perfaz o imaginário coletivo. Dessa forma, o objetivo geral do artigo pretende lançar um olhar observador sobre a destruição de muitos espaços de vida e de memória, dotados de valor histórico, arquitetônico e afetivo. Além disso, almeja refletir sobre de que maneira a desconstrução da paisagem, tanto natural quanto edificada, pode interferir na memória individual e coletiva, uma vez que quando ocorre uma ameaça ou mesmo a destruição de um patrimônio que estava ligado a uma coletividade, surge o sentimento de perda de parte da memória, e ameaça a continuidade do grupo de que pode ser nominada emoção patrimonial, que nada mais é que o interesse mobilizador e reivindicatório que o patrimônio desperta em alguns indivíduos. Para tanto, o processo de trabalho se baseia na leitura de livros sobre o tema, na pesquisa em periódicos, físicos e digitais, na análise iconográfica já registrada e na busca por documentos. Nesse estudo, foram utilizadas múltiplas fontes de evidência. Com o material de pesquisa em mãos será possível compreender melhor a temática, que gira em torno da memória, e realizar as contribuições pretendidas, como refletir quais exemplares poderiam permanecer na paisagem urbana. Percebendo a cidade como uma estrutura dinâmica, que se (re)constrói e se (re)cria conforme as necessidades e o momento histórico, a dúvida sobre o que se deve preservar evidencia-se nas discussões acerca das preexistências. A falta de interesse em, ao menos, inventariar esses prédios antes da sua demolição, reflete a ausência de uma política de preservação, que colabora para que aconteçam perdas irreparáveis de significativos exemplares da arquitetura moderna regionalista gaúcha.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio Cultural</keyword>
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Arquitetura da Demolição</keyword>
+          <keyword>Memória</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Leticia Oppermann</givenname>
+            <familyname locale="pt_BR">Thies</familyname>
+            <country>BR</country>
+            <email>cristianeot@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-3181-3499</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernanda Peron</givenname>
+            <familyname locale="pt_BR">Gaspary</familyname>
+            <country>BR</country>
+            <email>fernandaperon@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0433-9354</orcid>
+          </author>
+        </authors>
+        <pages>146-156</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

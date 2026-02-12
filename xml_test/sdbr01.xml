@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdbr01" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdbr01</id>
+  <description locale="pt_BR">Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletrônico]: Docomomo Brasil / organizadores: José Carlos Huapaya Espinoza, Alexandre Pajeú Moura. Salvador, BA: Instituto de Arquitetos do Brasil, Departamento da Bahia; PPGAU-UFBA, 2020. 98 p. il. Edição comemorativa 25 anos de Docomomo Brasil. ISBN 978-85-66843-07-1</description>
+  <issue_identification>
+    <volume>1</volume>
+    <number>1</number>
+    <year>1995</year>
+    <title locale="pt_BR">1º Seminário Docomomo Brasil, Salvador, 1995</title>
+  </issue_identification>
+  <date_published>1995-01-01</date_published>
+  <last_modified>1995-01-01</last_modified>
+  <sections>
+    <section ref="PT01-sdbr01" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">76</id>
+      <abbrev locale="pt_BR">PT01-sdbr01</abbrev>
+      <title locale="pt_BR">Parte 01</title>
+    </section>
+    <section ref="PT02-sdbr01" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">77</id>
+      <abbrev locale="pt_BR">PT02-sdbr01</abbrev>
+      <title locale="pt_BR">Parte 02</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdbr01-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="1995-01-01" section_ref="PT01-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">O 1º Seminário Docomomo_Brasil</title>
+        <subtitle locale="pt_BR">proposta, realização, memória</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Carlos Huapaya</givenname>
+            <familyname locale="pt_BR">Espinoza</familyname>
+            <country>BR</country>
+            <email>jhuapayae@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6776-8821</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Caio Anderson</givenname>
+            <familyname locale="pt_BR">da Silva de Almeida</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+        <pages>8-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdbr01-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">O Patrimônio Histórico e Artístico do SPHAN</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvana Barbosa</givenname>
+            <familyname locale="pt_BR">Rubino</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-6728-7825</orcid>
+          </author>
+        </authors>
+        <pages>15-24</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdbr01-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Modernidade pragmática 1922-1943</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Hugo</givenname>
+            <familyname locale="pt_BR">Segawa</familyname>
+            <country>BR</country>
+            <email>segawa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2532-4664</orcid>
+          </author>
+        </authors>
+        <pages>25-40</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdbr01-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Por uma cidade com alma brasileira</title>
+        <subtitle locale="pt_BR">a Arquitetura de Rino Levi</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+        </authors>
+        <pages>41-57</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdbr01-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Arquitetura moderna</title>
+        <subtitle locale="pt_BR">uma análise de residências da Praia do Canto</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Paula</givenname>
+            <familyname locale="pt_BR">de Oliveira Bringuente</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-0102-5296</orcid>
+          </author>
+        </authors>
+        <pages>58-73</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdbr01-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">O Conjunto JK</title>
+        <subtitle locale="pt_BR">uma Torre Eiffel nos trópicos?</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Thaís Velloso</givenname>
+            <familyname locale="pt_BR">Cougo Pimentel</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>74-80</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1995-01-01" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdbr01-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="1995-01-01" section_ref="PT02-sdbr01" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A constituição da Arquitetura moderna em São Paulo</title>
+        <subtitle locale="pt_BR">uma experiência coletiva</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Alberto Ferreira</givenname>
+            <familyname locale="pt_BR">Martins</familyname>
+            <country>BR</country>
+            <email>cmartins@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0003-4321-2057</orcid>
+          </author>
+        </authors>
+        <pages>81-92</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
   <id type="internal" advice="ignore">sdsul05</id>
-  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: &lt;a href=&quot;https://www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/&quot;&gt;www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/&lt;/a&gt; ISBN 978-85-61965-40-2</description>
   <issue_identification>
     <volume>6</volume>
     <number>5</number>
@@ -14,7 +14,7 @@
     <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">29</id>
       <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
-      <title locale="pt_BR">Artigos</title>
+      <title locale="pt_BR">Artigos — sdsul05</title>
     </section>
   </sections>
   <articles>

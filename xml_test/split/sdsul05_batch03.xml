@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsul05-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Viollet-le-duc e a villa canoas</title>
+        <abstract locale="pt_BR">A manifestação de Oscar Niemeyer na Villa Canoas, da década de 50, apresenta-se como ímpar na conformação do quadro da Arquitetura Moderna Brasileira. Sua singularidade não é arbitrária, pode ser entendida como um pot-pourri que acomoda influências heterogêneas. Heterogeneidade essa que aponta hereditariedades que permitem inúmeras investigações. Avisamos desde já que esse escrito não pretende abordar todos os campos de inflexões do caso carioca, trataremos nesse caso em particular, da filiação com o Racionalismo Estrutural, mais precisamente Eugène Emmanuel Viollet-le-Duc. A saber, o teórico francês em seus escritos identifica diversas regras ou lições de uma boa arquitetura, sua narrativa determinista encontra na manifestação de cada povo uma arquitetura que é fruto de uma construção racional, racionalidade essa que pode ser lida como progresso técnico; isto é, a forma é circunstanciada pela ciência, mais precisamente pela estrutura. Identificamos algumas dessas leis, elas serão norteadoras da nossa abordagem, partindo de visadas gerais para visões pontuais da fonte em pauta. Ao dizer visadas gerais, estou falando que alguns desses princípios não são exclusividades de Viollet-le-Duc, pois são ser encontrados ao longo da história das formas, mas, nos apoiamos nesses paradigmas, uma vez que que eles nos valham para ilustrar um campo de aproximações. Por fim, lembramos que a filiação da Arquitetura Moderna Brasileira, não termina em Viollet-le-Duc, esse campo é muito mais amplo e complexo, ou seja, essa investigação, chamada por nós de fontes pretende expandir para melhor compreendermos a aproximação do caso brasileiro com o Racionalismo Estrutural.</abstract>
+        <abstract locale="en_US">Oscar Niemeyer’s manifestation on Villa Canoas, in the 50’s, presents itself as unique on the resignation of the Brazilian Modern Architecture scheme. It’s singularity is not arbitrary, can be acknowledged as pot-pourri that accommodate heterogeneous influences. This heterogeneity pointing hereditariedades that allow a wide range of investigation. It’s important to advise that this document does not intend to address all the inflection fields of the carioca case, which will have a particular approach, from the filiation with the Structural Rationalism, more precisely Eugène Emmanuel Viollet-le-Duc. The French Theorist, in his works, identify numerous rules or lesson of the good architecture, his determinist narrative finds on each people manifestation one architecture that’s the result of a rational construction, this rationality can be seen as the technical progression, which means, it’s shape is detailed by science, more precisely by it’s structure. It’s identified some of those rules, those will guide our approach, starting from general points of view for more focused ones. Those general points of view are not exclusively Viollet-le-Duc’s, once they can be found throughout history of shapes, but we rely on those paradigms, since they can be validated to show a field of approximation. Lastly, it`s recalled that the Brazilian Modern Architecture filiation does not end with Viollet-leDuc, this field of study is more broader and complex, this study, defined by the scholars as resources, intend to expand it to better comprehend the proximity of the Brazilian case and the Structural Rationalism.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa das Canoas. Arquitetura Moderna Brasileira. Racionalismo Estrutural</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Casa das Canoas. Brazilian Modern Architecture. Structural Rationalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Diego Henrique de Oliveira</givenname>
+            <familyname locale="pt_BR">Soares</familyname>
+            <country>BR</country>
+            <email>soares@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsul05-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">A persistência da tradição disciplinar moderna na Arquitetura de Oscar niemeyer para as artes performativas</title>
+        <subtitle locale="pt_BR">o teatro popular Oscar niemeyer em Niterói e o teatro Raul Cortez em Duque de Caxias</subtitle>
+        <abstract locale="pt_BR">Nas propostas para as artes performativas, Niemeyer manipula formas criando espaços mágicos seja em arena ou em palco frontal. Há algumas opiniões críticas sobre as dificuldades acústicas ou às dispersões que soluções inusitadas causam no espectador, mas seus teatros são obras que persistem na tradição disciplinar moderna como se pretende examinar neste paper à luz das cinco razões teóricas da arquitetura do arquiteto proposta por Mahfuz (2007) e da última fase de sua produção que “acompanha, de algum modo, a recuperação da própria arquitetura moderna e o seu entendimento como polifonia” (Comas, 2012). Nas obras em exame, percebe-se um conteúdo literário e artístico que ainda potencializa os preceitos do Movimento Moderno acentuado pela busca da integração entre arquitetura e artes. Nas volumetrias e interior dos dois teatros, para além da sensação visual provocada pela forma, cor e textura, verificase o uso de diferentes linguagens. Um dos partidos adotados nos dois teatros foi abrir para o exterior a parede posterior do palco, permitindo que os espetáculos possam ser usufruídos concomitantemente pelos espectadores do auditório e pelo público nas praças adjacentes. Tal solução adequa-se à sugestão de Le Corbusier formulada no Congresso Architecture et Dramaturgie na Sorbonne (1948) e acentua a persistência da tradição disciplinar moderna na arquitetura de Niemeyer para as artes performativas. Apesar de estes teatros terem sido concluídos já no século XXI, ambos expressam continuidade aos conceitos abraçados pelo arquiteto desde os anos 1940. Inaugurado em 2006, em Duque de Caxias, o Teatro Raul Cortez exibe forma inusitada com uma rampa que contorna metade da fachada circular levando ao auditório (448 lugares). Existe um acesso independente para os camarins e sala de ensaio no pavimento semienterrado que apresenta planta livre, permitindo subdivisões para depósito de equipamentos de cenografia. Uma enorme porta metálica na parede posterior da caixa cênica abre-se para o exterior, possibilitando aos espectadores partilhar o espetáculo com o público na praça. Tal como algumas obras mais antigas de Niemeyer, este teatro também impacta o transeunte, mas em total harmonia com a praça do centro de Caxias, sobre a qual o arquiteto projetou uma biblioteca completando o complexo do Centro Cultural. Integrando as obras do Caminho Niemeyer, em Niterói, o Teatro Popular permite descortinar a baía de Guanabara pelo painel de vidro e brises metálicos de uma das fachadas, enquanto a outra, em azulejo amarelo com pinturas de Niemeyer, acentua a integração entre artes e arquitetura, evocando seu próprio projeto para a igreja de São Francisco de Assis na Pampulha (1943), marco da moderna arquitetura religiosa brasileira. Construído em concreto armado, o prédio é uma grande cobertura curva que se origina nas empenas do edifício. Do térreo parte uma rampa helicoidal escultórica de concreto que leva ao foyer do teatro e deste, ao auditório de 400 lugares distribuídos pela plateia e balcão. Também reversível, o palco se abre para o grande pátio que comporta dez mil espectadores. O volume do teatro não é totalmente fechado, conferindo rara leveza à edificação. O paper examina o valor simbólico das formas de grande visibilidade, propondo enriquecer a história da arquitetura moderna e a tecer comentários de crítica construtiva quanto a questões funcionais internas, investigadas pelas entrevistas realizadas, pretendendo encaminhá-los à Fundação Oscar Niemeyer para as providências possíveis. Bibliografia Architecture et Dramaturgie. Paris: Flammarion, 1950. Mahfuz, Edson da Cunha. “Cinco razões para olhar com atenção a obra de Oscar Niemeyer”. AU Arquitetura e Urbanismo,165, 76-79, dez. 2007.Pini, 2007. Niemeyer, Oscar. “O espaço indefinível”. Arquitetura IAB-RJ n. 81, jun. 1998, ano 29, 20-21. Comas, Carlos Eduardo. “Oscar Niemeyer.Um arquiteto e quatro fases”. AU 226, jan.2012. http://au.pini.com.br/arquitetura-urbanismo/226/artigo276015-1.aspx (Abril 12, 2015)</abstract>
+        <abstract locale="en_US">In his proposals for the performing arts Niemeyer manipulates forms creating magical spaces either in the arena shape or in the proscenium arch theater. Though some critical opinions on acoustic problems or audience’s dispersion due to unusual solutions, his theaters persist in the modern disciplinary tradition as examined in this paper based on the five theoretical reasons for his architecture (Mahfuz, 2007), and on the architect’s last phase production, which “follows, in a way, the recovery of the modern architecture itself and its understanding as polyphony&quot; (Comas, 2012). In the buildings under debate, a literary and artistic content enhances the precepts of the Modern Movement marked by the integration between architecture and art. The external shape and the inner space of the two theaters expose, in addition to a strong visual sensation caused by form, color, and texture, the use of different languages. One of the design decisions adopted in the two theaters was the opening of the rear wall of the stage to the outside, allowing shows to be enjoyed simultaneously by spectators inside the auditorium and the public in the adjacent squares. This solution probably follows Le Corbusier's suggestion at the Architecture et Dramaturgie Conference in the Sorbonne (1948) and stresses the persistence of modern disciplinary tradition in Niemeyer's architecture for the performing arts. Despite have been completed in the first decade of this century these theaters express continuity on the concepts embraced by Niemeyer since the 1940s. Opened in 2006, in Duque de Caxias, the Raul Cortez Theatre was designed with an unusual shape and a ramp that surrounds half of the circular facade leading to the auditorium (448 seats). There is a separate access to the dressing rooms and rehearsal room in the semi-buried floor which presents a free plan, allowing subdivisions for the set designs equipment. A huge metal door in the back wall of the scenic box opens to the outside, allowing spectators to share the show with the public in the square. As Niemeyer’s oldest works, this theater also impacts the viewer, but in total harmony with the main square of Duque de Caxias city, where he also built a library to complete the cultural complex. Integrating the works planned for the Caminho Niemeyer in Niteroi, the Popular Theatre allows unveiling Guanabara Bay through the glass panel and the metallic louvers on one of the facades, while the other, in yellow tile with Niemeyer’s own paintings, emphasizes the dialogue between architecture and art, evoking his own design for the church of St. Francis of Assisi in Pampulha (1943), landmark of modern Brazilian religious architecture. Built in reinforced concrete, the building is a large curve coverage that originates the building gables. A sculptural helical concrete ramp leads to the foyer and to the 400-seat-auditorium (parterre and balcony). Also reversible, the stage opens onto the patio that holds ten thousand spectators. The theater is not fully enclosed, providing a rare lightness to the building. This paper examines the symbolic value of unusual forms of high visibility, aims to collaborate with the history of modern architecture and to produce constructive criticism on internal functional issues, reported in interviews with set designers, intending to inform the Oscar Niemeyer Foundation for possible actions. Bibliography Architecture et Dramaturgie. Paris: Flammarion, 1950. Mahfuz, Edson da Cunha. “Cinco razões para olhar com atenção a obra de Oscar Niemeyer”. AU 165, 76-79, Dez. 2007. Niemeyer, Oscar. “O espaço indefinível”. Arquitetura IAB-RJ n. 81, Jun. 1998, ano 29, 20-21. Comas, Carlos Eduardo. “Oscar Niemeyer.Um arquiteto e quatro fases”. AU 226, Jan.2012. http://au.pini.com.br/arquitetura-urbanismo/226/artigo276015-1.aspx (April12, 2015)</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>arquitetura teatral</keyword>
+          <keyword>história da arquitetura. TRC</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Theatre Architecture</keyword>
+          <keyword>History of Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evelyn Furquim Werneck</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">UNIRIO</affiliation>
+            <country>BR</country>
+            <email>evelyn.lima@unirio.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsul05-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Reciclagem na Arquitetura Moderna</title>
+        <subtitle locale="pt_BR">o conjunto da Pampulha</subtitle>
+        <abstract locale="pt_BR">De autoria de um dos mais importantes arquitetos brasileiros, Oscar Niemeyer, o Conjunto da Pampulha já se encontrou mais de uma vez ameaçado por intervenções descaracterizadoras e adaptações para usos contraditórios. Muitas são as justificativas que apoiam o estudo documental do projeto em questão e trazem para a pauta a discussão sobre como o tema patrimônio moderno é abordado entre profissionais, gestores e população em geral. Talvez, a maior delas resida na nomeação do Conjunto à Patrimônio Mundial da UNESCO, em 2015. No contexto de intervenção em uma obra arquitetônica construída, é de suma importância diferenciar, em termos gerais, as intervenções de restauro, reforma e reciclagem. Este artigo trata-se de um recorte da Dissertação de Mestrado intitulada “Reciclagem no Patrimônio Moderno Brasileiro: o caso da Pampulha de Niemeyer”, defendida em fevereiro de 2015 pelo Programa de Pós-Graduação em Arquitetura (PROPAR) da UFRGS. Sobre os edifícios que compõe esse conjunto, é necessário pontuar o inegável e substancial. O Cassino da Pampulha convertido em Museu de Arte da Pampulha precisou passar por remodelações utilitárias para atender ao novo uso. A Casa do Baile, há muito não utilizada para seu fim original, em abandono e deterioração visível durante a década de 80, também recebeu apropriação às condições de usabilidade atuais com novo projeto aprovado pelo arquiteto criador. O que se seguiu com o Iate Clube não é menos grave: modificações irresponsáveis somadas à clara falta de interesse patrimonial da administração do Clube privado transformaram-no em uma espécie de ruína Moderna. Já a Igreja de São Francisco de Assis continua com seu uso inalterado e permanece com certa dignidade às margens da Lagoa da Pampulha – ainda que isso não garanta a permanência do edifício no cotidiano da cidade, A Residência Juscelino Kubistchek, encomendada pelo então prefeito da cidade de Belo Horizonte em 1940, abrigou a família Kubistchek por poucos anos, mas a venda para um amigo da família guardou-a em estado bastante próximo do original. O edifício projetado para abrigar o Iate Golfe Clube é hoje território mantido pela Fundação ZooBotânica de Belo Horizonte, apresentando-se em mau estado de conservação e com ocupação sem devidos cuidados. Com esses dados em mente é que entro em uma reflexão sobre a natureza das mais impactantes intervenções feitas nesses edifícios e quais resultados trouxeram mais bônus do que ônus.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Pampulha. Reciclagem. Arquitetura</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Royer</givenname>
+            <familyname locale="pt_BR">Voigt</familyname>
+            <country>BR</country>
+            <email>voigt@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsul05-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Três contradições sobre a prática de preservação</title>
+        <subtitle locale="pt_BR">as Intervenções no edifício da FAU-USP entre 2007 e 2015</subtitle>
+        <abstract locale="pt_BR">Em 2015, ano do centenário de seu arquiteto, João Batista Vilanova Artigas, a FAU-USP entregou o mais recente pacote de obras de preservação no prédio da faculdade. A partir da análise dos processos utilizados nessas intervenções, serão exploradas aqui três questões sobre a prática contemporânea de restauro: (1) Preservação não tem apenas uma dimensão física; (2) Restauro demanda projeto com intensões precisas e desenhos em diferentes escalas (3) Pesquisas técnicas, teóricas e atuação dos órgãos de patrimônio não vêm a reboque das obras. Essas questões mostram as contradições e as distâncias entre a teoria e a prática de preservação. Os projetos para o Edifício Vilanova Artigas, a partir de 2007, foram feitos sem interface com a comunidade, antes da criação de estruturas participativas, e destituídos de relação com o ensino na instituição. Durante as obras, as atividades acadêmicas não se relacionaram com o canteiro interior ao edifício. Sem um projeto único – capaz de integrar as diferentes intervenções na construção de 21.000m² – a FAU consolidou um processo iniciado logo após sua inauguração em 1969: o edifício foi convertido em uma colagem desconexa de diferentes projetos, cada um com uma autoria. As múltiplas intervenções então seguiram abordagens diferentes de restauro. A sequência de etapas adotada ignorou processos de aprovação em órgãos de patrimônio e desenvolvimento de pesquisas técnicas para a fachada, convertida em uma colcha de retalhos. Esse trabalho discute o paradoxo de como que o próprio lugar de ensino de arquitetura negligenciou teorias de restauro.</abstract>
+        <abstract locale="en_US">In 2015, the year of centenary of its architect, João Batista Vilanova Artigas, FAU-USP (School of Architecture and Urban Planning of the University of São Paulo) delivered the most recent group of preservation works in the institution’s building. Analyzing processes applied in these interventions, this article explore three issues about the preservation contemporary practice: (1) Preservation does not have only a physical dimension; (2) Preservation demands project embedded in precise intentions and drawings in different scales; (3) Legal procedures in institutions for heritage preservation, and also technical and theoretical research, do not succeed construction works. These issues reveal contradictions and gaps between preservation theory and practice. The projects for the Vilanova Artigas Building, since 2007, were done without proper interface with the community, before the creation of participatory instances and neglecting connections with the education. Along the construction works, academic activities did not created a relationship with the construction site in place. Without a comprehensive project to integrate these different interventions in the existing 21.000-square-meters, FAU consolidated a process that had been started just after its inauguration in 1969: the building was converted in an assemblage of disconnected projects, with multiple authorships. Thus, the multiple interventions followed different preservation approaches. Adopted jobs sequence also ignored regular legal procedures in heritage institutes and the development of technical research for the façades, which had gained a patchwork appearance. This article discusses the paradox about how the place for architecture learning had neglected project tools and technical research.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gabriel</givenname>
+            <familyname locale="pt_BR">Kogan</familyname>
+            <country>BR</country>
+            <email>gabrielkogan@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0409-3924</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsul05-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Brutalismo demi-sec</title>
+        <subtitle locale="pt_BR">residência Mário petrelli</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Forte Gandolfi</keyword>
+          <keyword>Grupo Paraná</keyword>
+          <keyword>Arquitetura Moderna em Curitiba</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Humberto</givenname>
+            <familyname locale="pt_BR">Carta</familyname>
+            <country>BR</country>
+            <email>carta@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

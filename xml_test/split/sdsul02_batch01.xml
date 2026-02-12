@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsul02-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">A Ponte</title>
+        <abstract locale="pt_BR">O II Seminário Docomomo Sul quer recordar a importância técnica, formal e simbólica do concreto armado na arquitetura moderna e, para tanto, busca examinar, revisar e discutir a maneira como arquitetos e engenheiros da região reagiram à ambivalência do material. Trata-se de tema pouco explorado e uma oportunidade impar para o resgate de experiências pioneiras e que, certamente, tornaram-se referência para o desenvolvimento de uma arquitetura moderna no Rio Grande do Sul. Nesse sentido, o artigo mergulha no universo relacionado com o projeto e a execução da Ponte Internacional Mauá, erguida sobre o rio Jaguarão, na linha de fronteira entre o Brasil e o Uruguai. Inaugurada em 1930, a Ponte permite toda uma discussão a respeito das condições técnicas de execução, naquele momento, de uma grande obra em concreto armado no sul do Brasil. Em 1913, o eng. Rudolf Ahrons, como base em sondagens geológicas e em plantas hidrográficas, desenhou o Projeto da ponte de cimento armado para o rio Jaguarão. Ahrons era professor de Construções Civis, Hidráulica e Resistência de Materiais na Escola de Engenharia de Porto Alegre e, em 1912, havia assumido a cadeira de Construções de Ferro e Cimento Armado. Seu projeto corresponde ao da Ponte erguida anos mais tarde, com exceção das duas alfândegas. Em 1918, uma Comissão Mista apresentou relatório justificativo para o uso de concreto armado na obra. Em 1927, o uruguaio Quinto Bonomi Filho foi nomeado Engenheiro Chefe e o engenheiro carioca Arnaldo Pimenta da Cunha foi indicado como Delegado Brasileiro. No mesmo ano foi contratada a firma E. KEMNITZ &amp; CIA (do eng. alemão Erhard Kemnitz) para a execução da Ponte. Inúmeras foram as dificuldades enfrentadas durante os dois anos de obras, do transporte dos materiais à ausência de mão de obra qualificada. Mesmo assim, os seus 2.113m de comprimento foram executados (sendo 276m sobre o rio Jaguarão) no mais puro e bem elaborado concreto armado.</abstract>
+        <abstract locale="en_US">The II Docomomo Sul Seminary wants to recall the technical, formal and symbolic importance of reinforced concrete in the modern architecture, and to do so, it seeks to examine, review and discuss the way architects and engineers in the region reacted to the ambivalence of the material. It deals about a little explored theme and a unique opportunity for the ransom of pioneer experiences that certainly became reference for the development of the modern architecture in Rio Grande do Sul. Accordingly, the article deepens into the universe related to the design and building of the Maua International Bridge, built over the Jaguarão river, the frontier line between Brazil and Uruguay. Inaugurated in 1930, the bridge enables a whole discussion about the technical conditions of implementation, at that moment, a great work in reinforced concrete in southern Brazil. In 1913, Engineer Rudolf Ahrons, based on geological drillings and hydrographic plants, designed the Project of the bridge built on reinforced concrete over the Jaguarão river. Ahrons was a professor of Civil Constructions, Hydraulic and Resistance of Materials in the Porto Alegre Engineering School and in 1912, had assumed the chair of Iron and Reinforced Concrete Constructions. His project was the bridge built years later, with the exception of two customhouses. In 1918, a Commission submitted a report justifying the use of reinforced concrete on the work. In 1927, the Uruguayan Quinto Bonomi Filho was appointed Chief Engineer and the Brazilian Engineer Arnaldo Pimenta da Cunha was appointed as Brazilian delegate. In the same year, the company E. KEMNITZ &amp; CIA (from Eng. Kemnitz German Erhard) was contracted for the construction of the Bridge. Many difficulties were faced during the two years of works, from the transport of material to the lack of qualified workforce. Still, its 2,113 m of length were constructed (276 m on the Jaguarão river) in the most pure and well-executed reinforced concrete.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Ponte Internacional Mauá</keyword>
+          <keyword>Rudolf Ahrons</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Maua International Bridge</keyword>
+          <keyword>Rudolf Ahrons</keyword>
+          <keyword>Reinforced Concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andrey Rosenthal</givenname>
+            <familyname locale="pt_BR">Schlee</familyname>
+            <affiliation locale="pt_BR">UnB</affiliation>
+            <country>BR</country>
+            <email>andreysc@terra.com.br</email>
+            <orcid>https://orcid.org/0000-0003-1190-4534</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsul02-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">A obra do escritório de jacques pilon no centro de São Paulo</title>
+        <abstract locale="pt_BR">Segundo um levantamento preliminar, entre os anos de 1935 e 1960, inserido no amplo processo de verticalização do centro da cidade de São Paulo, o escritório do arquiteto francês Jacques Pilon produziu na região central da cidade em torno de 60 edifícios. Inicialmente associados a um período de transição entre a arquitetura clássica e a moderna, os edifícios já introduziam conceitos como racionalização da estrutura, amplas aberturas para iluminação e ventilação e respeito às normativas norte-americanas de instalações prediais. Considerando os cerca de vinte e cinco anos de produção de seu escritório, a produção pessoal mais representativa de Jacques Pilon como arquiteto se concentra na primeira década, entre 1934 e 1945. Após este período passou a contar com a colaboração de arquitetos experientes e qualificados, que modificaram a linguagem da arquitetura produzida em seu escritório. Assim, gradativamente, os projetos passaram a contar cada vez menos com sua participação efetiva como arquiteto, que passou a se dedicar às atividades gerenciais de seu escritório. Através da leitura da expressiva produção do escritório de Jacques Pilon no centro de São Paulo, tem-se uma amostragem significativa do processo de verticalização da cidade, bem como da gradual inserção da arquitetura moderna e sua evolução na cidade, sobretudo nos edifícios comerciais e de apartamentos.</abstract>
+        <abstract locale="en_US">According to a preliminary view, the office of the French architect Jacques Pilon has projected around 60 buildings – trough the large process of verticalization in the Sao Paulo downtown – between 1935 and 1945. Initially associated to a transition period between classic and modern architecture, the buildings has already introduced concepts as the racionalization of structures, large openings for light and ventilation; and, respect to the North-American rules of buildings installations. During the 25 years of productions in his office, the most personal and representative works of Jacques Pilon as architect between 1934 and 1945. After this period there were the collaboration of qualified and experienced architects whom modified the architecture language of his office. Therefore, the projects gradually had a lack of the effective Pilon’s participation as architect and he dedicated himself to activities of management in his office. Through the reading of the expressive production of the Jacques Pilon’s office in Sao Paulo downtown, it is possible to realize a massive sampling of the verticalization process of the city, as the gradual insertion of modern architecture and its evolution in the city, mainly in the commercials and apartment buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Jacques Pilon</keyword>
+          <keyword>verticalização</keyword>
+          <keyword>centro de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Jacques Pilon</keyword>
+          <keyword>verticalization</keyword>
+          <keyword>São Paulo Downtown</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tiago Seneme</givenname>
+            <familyname locale="pt_BR">Franco</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>tiagofranco82@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsul02-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Alcides Rocha Miranda</title>
+        <subtitle locale="pt_BR">igreja em Nova Friburgo</subtitle>
+        <abstract locale="pt_BR">A obra do arquiteto e artista plástico Alcides Rocha Miranda conta com diversos exemplos de edificações religiosas. A sua primeira obra dentro desse campo foi o Altar-Monumento para o Congresso Eucarístico Internacional, em 1955, no Rio de Janeiro, com risco inicial de Lucio Costa. No mesmo ano ele projetou a Igreja e Centro Social Nossa Senhora das Graças em Nova Friburgo, Rio de Janeiro. A Igreja apresenta um volume com cobertura curva apoiada em planos laterais inclinados; plasticidade explorada através do concreto armado, nesse caso, aparente. A primeira aproximação de Rocha Miranda com a técnica estrutural do concreto armado se deu nas aulas com Emilio Baumgart na Escola Nacional de Belas Artes. A volumetria resultante da Igreja evoca a forma de uma tenda presente também em outras edificações da mesma década, e apresenta características de ambas “escolas” modernas brasileiras, carioca e paulista.</abstract>
+        <abstract locale="en_US">Alcides Rocha Miranda – A church on Nova Friburgo The work of the architect and plastic artist Alcides Rocha Miranda accounts with several examples of religious edifications. His first work within this area was the Altar-Monumento for the Congresso Eucarístico Internacional, in 1955, in Rio de Janeiro, with initial drawing of Lucio Costa. In the same year he projected the Church and Social Center Nossa Senhora das Graças in Nova Friburgo, Rio de Janeiro. The church presents a volume with a curve ceiling supported by inclined lateral walls; plasticity explored through structured concrete, in this case, apparent. The first approximation of Rocha Miranda with the structured concrete technique happened during Emilio Baumgart´s classes in the Escola Nacional de Belas Artes. The volumetric result of the church evokes a form of a tent among other edifications of the same decade, and presents characteristics of Brazilian modern “schools”, carioca and paulista.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Alcides Rocha Miranda</keyword>
+          <keyword>concreto aparente</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Alcides Rocha Miranda</keyword>
+          <keyword>apparent concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Liege Alvares</givenname>
+            <familyname locale="pt_BR">Sieben</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>sieben@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsul02-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">A construção da forma livre</title>
+        <subtitle locale="pt_BR">visões opostas sobre o uso do concreto armado na Arquitetura Contemporânea no Brasil</subtitle>
+        <abstract locale="pt_BR">Este trabalho tem como objetivo identificar duas concepções de uso do concreto armado para a construção da forma arquitetônica no Brasil. Um pretende explorar o fato do concreto ser armado com aço e poder resistir a esforços de tração, enquanto a outra defende uma postura mais austera, recomendando formas estruturais que aproveitem a capacidade do concreto à compressão, reduzindo os esforços de tração e o uso de armaduras. Identificamos a crítica de Pier Luigi Nervi à concepção estrutural na obra de Niemeyer como um dos momentos onde se constituem os principais argumentos que seriam utilizados nas críticas posteriores. Acompanhamos o seu desdobramento na crítica e na produção projetual de Paulo Mendes da Rocha, Joaquim Guedes, Sergio Ferro, Jorge Wilheim, Miguel Juliano, Carlos Fayet, Cláudio Araújo, Carlos Eduardo Comas e Luis Américo Gaudenzi, Eduardo Longo, Joan Villà entre as décadas de 1950 e 1990.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <affiliation locale="pt_BR">EESC-USP</affiliation>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsul02-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Reidy</title>
+        <subtitle locale="pt_BR">dois projetos, dois países e um princípio</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta reflexões acerca da sistematicidade nas obras de Affonso Reidy. Entende-se por sistematicidade, neste caso, o desenvolvimento de um modo de projetar que possa resolver o maior número possível de questões relativas à plástica e ao sistema estrutural, independente do tema arquitetônico envolvido. No trabalho será analisada a utilização do concreto em duas obras específicas – a Escola BrasilParaguai (1952) e MAM (1953) - cujas possibilidades plásticas e estruturais são potencializadas por meio de desenho diferenciado que resolve tanto estrutura, como espaço e elementos de proteção, podendo ser aplicado de modo sistemático dentro da obra. Na Escola, o arquiteto organiza seu projeto na barra que contém os espaços seriais (o programa apresenta uma organização que se revela na própria estrutura, através da repetição das salas de aula, por exemplo) e reserva para as atividades especiais (ginásio e auditório) uma solução volumétrica diferenciada, utilizando em ambos um desenho especial. Já no museu, mesmo sem a serialidade estar vinculada ao programa, a barra organiza o espaço e, através de uma estrutura reticulada e serial, fornece um caráter diferenciado, oferecendo destaque à barra, colocando-a em evidência, através de sua estrutura. Tanto na escola, quanto na primeira ou na versão construída do museu tem, no desenho do pórtico, um espaço para a produção de um elemento com aspectos escultóricos, o que dá ao material e a estrutura uma relevância no conjunto, principalmente quando, se percebe a flexibilidade do concreto como elemento capaz de vencer vãos de diferente ordens e assumir um variado leque de configurações formais. Embora seja possível observar a aproximação à influência corbusiana, através da utilização do concreto aparente, não é esta referência que define a importância de Reidy, mas o modo em que seus projetos são desenvolvidos, transcendendo esta filiação. Nos seus projetos aparecem uma quantidade restrita de elementos que vão sendo recombinados e desenvolvidos, de modo diferente em cada situação particular. O elemento universal desse repertório é o edifício linear, usualmente um bloco retangular que aparece em vários tamanhos, alturas e secções, utilizado de modo isolado, combinado com outros, dobrado ou curvado para adaptar-se ao programa ou ao sítio. O repertório proposto por Le Corbusier gradualmente se refina e amplia nos trabalhos dos arquitetos brasileiros e na obra de Reidy isso não é diferente, na medida em que enfrenta de forma diferenciada cada programa arquitetônico específico. Em cada projeto, não apenas a sistematicidade e estrutura adotadas oferecem pleno significado à obra, mas também das relações estabelecidas entre programa e lugar, bem como estrutura e partido. O passo crucial em cada projeto de Reidy parece ser o estabelecimento de relações formais e funcionais entre as partes, assim como entre o todo e os elementos do entorno. Desta forma o estudo destes aspectos são relevantes para a discussão sobre a arquitetura.</abstract>
+        <abstract locale="en_US">This article presents reflections concerning the systematicity in Affonso Reidy's works. It’s understands each other for sistematicidade, in this case, the development in a way of projecting that it can solve the largest possible number of relative subjects to the plastic surgery and the structural system, independent of the involved architectural theme. In the work the use of the concrete will be analyzed in two specific works - the Escola Brasil-Paraguai (1952) and MAM (1953) - whose plastic possibilities and you structure they are made possible through drawing differentiated that solves so much structure, as space and protection elements, could be applied inside in a systematic way of the work. In the School, the architect organizes your project in the bar that contains the spaces seriais (the program presents an organization that is revealed in the own structure, through the repetition of the class rooms, for instance) and he reserves for the special activities (gym and auditorium) a solution differentiated volumétrica, using in both a special drawing. Already in the museum, even without the serialidade to be linked to the program, the bar organizes the space and, through a structure that have lines and interrupted hibs and serial, it supplies a differentiated character, offering prominence to the bar, placing it in evidence, through your structure. So much in the school, as in the first or in the built version of the museum has, in the drawing of the porch, a space for the production of an element with sculptural aspects, what gives to the material and the structure a relevance in the group, mainly when, it is noticed the flexibility of the concrete as element capable to win empty spaces of different orders and to assume a varied fan of formal configurations. Although it is possible to observe the approach to the influence, through the use of apparent concrete, it is not this reference that defines the importance of Reidy, but the way in that your projects are 2 developed, transcending this filiation. It’s projects appear in a restricted amount of elements that are being recombinant and developed, in different way in each private situation. The universal element of that repertoire is the lineal building, usually a rectangular block that he/she appears in several sizes, heights and sections, used in an isolated way, combined with other, bent or curved to adapt it to the program or the ranch. The repertoire proposed for Le Corbusier gradually it is refined and it enlarges in the Brazilian architects' works and in the work of Reidy that is not different, in the measure in that faces in a differentiated way each specific architectural program. In each project, not just the sistematicidade and it structures adopted they offer full meaning to the work, but also of the established relationships between program and place, as well as it structures and party. The crucial step in each project of Reidy seems to be the establishment of formal relationships and you work among the parts, as well as between the whole and the elements of the I spill. This way the study of these aspects is important for the discussion on the architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>projeto arquitetônico</keyword>
+          <keyword>sistematicidade</keyword>
+          <keyword>concreto</keyword>
+          <keyword>Affonso Reidy</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Project</keyword>
+          <keyword>way of projecting</keyword>
+          <keyword>concrete</keyword>
+          <keyword>Affonso Reidy</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elisa Moraes</givenname>
+            <familyname locale="pt_BR">Souto</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>anesouto@ig.com.br</email>
+            <orcid>https://orcid.org/0000-0002-4486-4324</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alex Carvalho</givenname>
+            <familyname locale="pt_BR">Brino</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>brino@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0004-9497-2691</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

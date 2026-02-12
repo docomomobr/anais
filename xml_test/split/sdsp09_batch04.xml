@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdsp09-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">O palácio farroupilha</title>
+        <subtitle locale="pt_BR">impacto das obras de mies van der rohe no projeto de zolko, através das imagens</subtitle>
+        <abstract locale="pt_BR">Esta comunicação se debruça sobre as referências das obras de Mies van der Rohe, encontradas em duas das mais importantes revistas estadunidenses, The Architectural Forum e Architectural Record, entre os anos de 1950 e 1955, período em que Gregório Zolko cursava arquitetura na Universidade de Illinois, nos EUA. No entendido de que as imagens destas, à época, poderosas revistas de arquitetura, possam ter impressionado o futuro arquiteto, decantadas e, posteriormente, usadas por ele como referências imagéticas em um dos edifícios mais importante de sua carreira, o projeto do concurso do Palácio da Farroupilha (1958), projetado em colaboração com Wolfgang Schoedon, que trouxe para o Sul do Brasil, um projeto de linguagem miesiana, um ponto de inflexão na arquitetura local, que fugia das então conhecidas escolas carioca e paulista, tradicionalmente associadas à obra de Le Corbuiser.</abstract>
+        <abstract locale="en_US">This paper focuses on references to the works of Mies van der Rohe, found in two of the most important American magazines, The Architectural Forum, and Architectural Record, between the years 1950 and 1955, a period in which Gregório Zolko was studying architecture at the University of Illinois, in the USA. With the understanding that the images of this, at the time, powerful architecture magazines, may have impressed the future architect, decanted and, later, used by him as image references in one of the most important buildings of his career, the competition project for the Palácio da Farroupilha ( 1958), designed in collaboration with Wolfgang Schoedon, who brought to the South of Brazil, a Miesian language project, a turning point in local architecture, which deviated from the then-known Rio and São Paulo schools, traditionally associated with the work of Le Corbuiser.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Gregório Zolko</keyword>
+          <keyword>Mies van der Rohe</keyword>
+          <keyword>Arquitetura moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Gregório Zolko</keyword>
+          <keyword>Mies van der Rohe</keyword>
+          <keyword>Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ricardo José Rossin de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>ricardorossin@gmail.com</email>
+            <orcid>https://orcid.org/0009-0007-5815-866X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernando Guillermo</givenname>
+            <familyname locale="pt_BR">Vázquez Ramos</familyname>
+            <country>BR</country>
+            <email>prof.vazquez@usjt.br</email>
+            <orcid>https://orcid.org/0000-0003-3472-5598</orcid>
+          </author>
+        </authors>
+        <pages>243-253</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdsp09-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">O arquiteto Roberto capello e o edifício sulacap de Santos/SP</title>
+        <abstract locale="pt_BR">Este artigo faz uma breve análise do edifício SULACAP localizado em Santos/SP, projetado pelo arquiteto Roberto Capello enquanto profissional responsável pela elaboraçao dos projetos arquitetônicos das sedes da empresa Sul América. A análise reflete sobre a representatividade desses edifícios no espaço urbano da cidade de Santos e no contexto da modernidade arquitetônica brasileira. Além disso, o artigo discorre sobre a trajetória profissional de Roberto Capello, arquiteto pouco referenciado na historiografia da arquitetura brasileira. Capello foi um arquiteto italiano que migrou para o Brasil no início do século XX, com a responsabilidade de coordenar o Departamento de Propriedades e Hypotecas da empresa Sul América, estruturado para a elaboração dos projetos arquitetônicos das novas sedes que a empresa viria a construir nas principais cidades brasileiras, como a sede SULACAP de Santos.</abstract>
+        <abstract locale="en_US">This article makes a brief analysis of the SULACAP building located in Santos/SP, designed by the architect Roberto Capello as the professional responsible for drawing up the architectural projects for the headquarters of the Sul América company. The analysis reflects on the representativeness of these buildings in the urban space of the city of Santos and in the context of Brazilian architectural modernity. In addition, the article discusses the professional career of Roberto Capello, an architect who is little referenced in the historiography of Brazilian architecture. Capello was an Italian architect who migrated to Brazil at the beginning of the 20th century with the responsibility of coordinating the Sul América company's Property and Hypothecary Department, which was structured to draw up the architectural projects for the new headquarters that the company would build in the main Brazilian cities, such as the SULACAP headquarters in Santos.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Roberto Capello</keyword>
+          <keyword>SULACAP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture</keyword>
+          <keyword>Roberto Capello</keyword>
+          <keyword>SULACAP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Karine</givenname>
+            <familyname locale="pt_BR">Arimateia</familyname>
+            <country>BR</country>
+            <email>karinearimateia@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-1145-8258</orcid>
+          </author>
+        </authors>
+        <pages>254-266</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdsp09-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">O purgatório de Juscelino</title>
+        <subtitle locale="pt_BR">niemeyer e o luto popular no memorial jk</subtitle>
+        <abstract locale="pt_BR">A aproximação moderna pós Revolução Industrial sobre os temas do luto e da morte é caracterizada por um progressivo distanciamento simbólico e espacial, onde busca-se fugir de sua inevitabilidade e afastando-a do pensamento, atitude que é expressa claramente quando se observa a evolução dos espaços funerários e da arquitetura tumular no Brasil. Entretanto, no Memorial JK, percebe-se uma subversão dessa visão moderna, a partir, primeiramente, do aspecto popular que envolve sua criação e depois pela interpretação de Oscar Niemeyer sobre os temas do luto e da morte. Tanto no túmulo da família Kubitschek, quanto no Memorial JK, as obras demonstram grande sensibilidade no engrandecimento do morrer em sua arquitetura.</abstract>
+        <abstract locale="en_US">The post-Industrial Revolution modern approach to the themes of mourning and death is characterized by a progressive symbolic and spatial distancing, where an attempt is made to escape its inevitability by removing it from thought, attitude that is clearly expressed when observing the evolution of funerary spaces and tomb architecture in Brazil. However, in the JK Memorial, we can see a subversion of this modern vision, firstly, from the popular aspect surrounding its creation and then from Oscar Niemeyer's interpretation of the themes of mourning and death. Both in the Kubitschek family tomb and in the Memorial JK, the works show great sensitivity in enhancing death in his architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura funerária moderna</keyword>
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Memorial JK</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern funeral architecture</keyword>
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>JK Memorial</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jonathan de Almeida</givenname>
+            <familyname locale="pt_BR">Amaral</familyname>
+            <country>BR</country>
+            <email>jonathanamaral99@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">André Augusto</givenname>
+            <familyname locale="pt_BR">de Almeida Alves</familyname>
+            <country>BR</country>
+            <email>alves@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7953-9372</orcid>
+          </author>
+        </authors>
+        <pages>267-279</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdsp09-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">A verticalização na Cidade de São Vicente-SP nos anos de 1950 e 1960</title>
+        <subtitle locale="pt_BR">o edifício marahú, 1959, de lauro da Costa Lima</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta como tema o processo de verticalização da cidade de São Vicente, SP nos anos de 1950 e 1960. O contexto é de crescimento urbano da cidade, que coincide com um momento singular da produção arquitetônica atrelada ao desenvolvimento do mercado imobiliário nacional, sob essa ótica, é evidenciado a materialização das transformações dos aspectos formais da cultura e do espaço. Objetiva-se por intermédio das obras do engenheiroarquiteto Lauro da Costa Lima (1917-2006), esboçar as relações entre arquitetura e cidade, bem como seus rebatimentos no ambiente construído em meio a dualidade do morar moderno da capital e litoral paulista. Para tanto, em meio a exemplares da produção de Costa Lima, no recorte espacial citado, o estudo apoia-se na análise do Edifício Marahú, 1959.</abstract>
+        <abstract locale="en_US">This article presents as its theme the process of verticalization of the city of São Vicente, SP in the 1950s and 1960s. The context is one of urban growth of the city, which coincides with a singular moment of architectural production linked to the development of the national real estate market, from this perspective, the materialization of the transformations of the formal aspects of culture and space is evidenced. Through the works of the engineer-architect Lauro da Costa Lima (1917-2006), the objective is to outline the relations between architecture and the city, as well as their repercussions in the built environment in the midst of the duality of modern living in the capital and coast of São Paulo. To this end, in the midst of examples of Costa Lima's production, in the aforementioned spatial clipping, the study is based on the analysis of the Marahú Building,</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Lauro da Costa Lima</keyword>
+          <keyword>Edifício Marahú</keyword>
+          <keyword>São Vicente</keyword>
+          <keyword>SP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Lauro da Costa Lima</keyword>
+          <keyword>Marahú Building</keyword>
+          <keyword>São Vicente</keyword>
+          <keyword>SP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Helena Aparecida Ayoub</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5145-5900</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardson Ferreira</givenname>
+            <familyname locale="pt_BR">Ricardo</familyname>
+            <country>BR</country>
+            <email>ricardo.rf@usp.br</email>
+            <orcid>https://orcid.org/0009-0005-5548-2048</orcid>
+          </author>
+        </authors>
+        <pages>280-294</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdsp09-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Terminal princesa Isabel</title>
+        <subtitle locale="pt_BR">reflexões acerca de sua preservação</subtitle>
+        <abstract locale="pt_BR">Este artigo oferece uma análise do Terminal Princesa Isabel em São Paulo, enfatizando sua significância histórica e cultural como infraestrutura urbana, e discute os impactos potenciais de sua desativação. Inaugurado em 1997, o terminal é uma peça fundamental na rede de transporte coletivo da cidade. Projetado por João Walter e Odiléia Toscano, o terminal é um exemplo da arquitetura moderna paulista, caracterizada por suas coberturas leves e integração harmoniosa com o ambiente urbano. O estudo contextualiza o Terminal dentro da evolução dos terminais de ônibus e visa aprofundar o debate sobre o patrimônio rodoviário, criticando os planos de desativação do terminal como parte de esforços de revitalização urbana. Destaca-se o potencial impacto da perda desse marco arquitetônico na identidade cultural da cidade, ressaltando a importância de políticas públicas que valorizem e preservem seu patrimônio arquitetônico e cultural em face de novos projetos urbanos.</abstract>
+        <abstract locale="en_US">The article offers a detailed analysis of the Terminal Princesa Isabel in São Paulo, emphasizing its historical and cultural significance as urban infrastructure and discussing the potential impacts of its deactivation. Inaugurated in 1997, the terminal is a fundamental piece of the city's public transportation network. Designed by João Walter and Odiléia Toscano, the terminal is an example of modern Paulista architecture, characterized by its lightweight coverings and harmonious integration with the urban environment. The study contextualizes the terminal within the evolution of urban bus terminals and aims to deepen the debate on road heritage, criticizing the plans to deactivate the terminal as part of urban revitalization efforts. It highlights the potential impact of losing this architectural landmark on the city's cultural identity, underscoring the importance of public policies that value and preserve its architectural and cultural heritage in the face of new urban projects.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio rodoviário</keyword>
+          <keyword>terminal de ônibus urbano</keyword>
+          <keyword>tipologia arquitetônica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>road heritage</keyword>
+          <keyword>urban bus terminal</keyword>
+          <keyword>architectural typology</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Denis</givenname>
+            <familyname locale="pt_BR">Ferri</familyname>
+            <country>BR</country>
+            <email>denis@trivio.arq.br</email>
+          </author>
+        </authors>
+        <pages>295-309</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

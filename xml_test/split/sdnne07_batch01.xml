@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdnne07-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Edifício Maria joaquina</title>
+        <subtitle locale="pt_BR">origens da Arquitetura Moderna em Cuiabá, MT</subtitle>
+        <abstract locale="pt_BR">Este artigo apresenta e analisa as qualidades históricas e arquitetônicas do edifício Maria Joaquina de Morais, primeiro condomínio residencial vertical de Cuiabá, projetado pelo Engenheiro Cássio Veiga de Sá, na década de 1960. Situado na área de entorno do centro histórico da cidade, o edifício de 15 andares ! segue uma série de preceitos da corrente da arquitetura moderna brasileira desenvolvida entre os anos 1930 e 1960, comumente designada de Escola Carioca. Dentre as justificativas deste estudo, ressalta-se a importância de pesquisar e divulgar o acervo arquitetônico modernista do estado de Mato Grosso, com vistas ao seu reconhecimento e preservação. Busca-se, assim, estabelecer relações entre o ideário da linguagem modernista e as transformações urbanas de Cuiabá, intensificadas com a construção de Brasília e a expansão das fronteiras agrícolas rumo ao norte do Estado, nas décadas de 1960 e 1970. Como metodologia de investigação, a pesquisa serve-se de dados coletados em visitas técnicas, levantamentos in loco e entrevistas com os residentes e funcionários do edifício. Recorreu-se, a título de comparação, a obras referenciais e antecedentes históricos significativos para a compreensão das matrizes cariocas e corbusianas do edifício cuiabano, resultando em uma breve compilação da história da arquitetura moderna de Cuiabá.</abstract>
+        <abstract locale="en_US">This article presents and analyzes the historical and architectural qualities of the Maria Joaquina de Morais building, the first vertical residential condominium in Cuiabá, designed in the 60’s by the engineer Cássio Veiga de Sá. Located in the area surrounding the historical center of the city, the 15-story building follows a series of precepts of the modern Brazilian architecture developed between the 30’s and 60’s, commonly called Carioca School. The survey is justified by the importance of researching and disseminating the modernist architectural collection of the state of Mato Grosso, with a view to its recognition and preservation. It seeks to establish relations between the ideology of the modernist language and the urban transformations of Cuiabá, intensified with the construction of the city of Brasília and the expansion of agricultural frontiers towards the north of the State in the 60’s and 70’s. As for there search methodology, the survey uses data collected on technical visits, on-site surveys and interviews with residents and building staff. The study also approached reference works and significant historical antecedents in order to understand the influences of the Carioca School and Le Corbusier on the study object, resulting in a brief compilation of the history of the modern architecture of Cuiabá.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Escola Carioca</keyword>
+          <keyword>Cuiabá</keyword>
+          <keyword>Modernismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Carioca School</keyword>
+          <keyword>Cuiabá</keyword>
+          <keyword>Modernism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evillyn</givenname>
+            <familyname locale="pt_BR">Biazatti de Araújo</familyname>
+            <affiliation locale="pt_BR">FAET-UFMT</affiliation>
+            <country>BR</country>
+            <email>evillynaraujo@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0295-1283</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Silveira</givenname>
+            <familyname locale="pt_BR">Castor</familyname>
+            <affiliation locale="pt_BR">FAET-UFMT</affiliation>
+            <country>BR</country>
+            <email>rscastor@ufmt.br</email>
+            <orcid>https://orcid.org/0000-0002-9338-5426</orcid>
+            <biography locale="pt_BR">Doutorado em Arquitetura e Urbanismo pela Universidade de São Paulo – USP (2013)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Victória</givenname>
+            <familyname locale="pt_BR">Ferreira Soares Tapajós</familyname>
+            <affiliation locale="pt_BR">FAET-UFMT</affiliation>
+            <country>BR</country>
+            <email>victapajos@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdnne07-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Atlas cuiabano</title>
+        <subtitle locale="pt_BR">Uma experiência independente de Educação Patrimonial</subtitle>
+        <abstract locale="pt_BR">O presente trabalho fundamenta e exemplifica a elaboração de um material gráfico de reconhecimento e divulgação do patrimônio arquitetônico de Cuiabá, MT, composto por um sistema integrado de mapas temáticos, fotografias, desenhos, com a identificação e caracterização das obras modernas construídas na capital mato-grossense ao longo do século XX. Sem a pretensão de esgotar a totalidade do processo de renovação da arquitetura local, a pesquisa confere destaque aos conjuntos de maior impacto sobre o desenvolvimento urbano e a cultura arquitetônica subsequente - obras consideradas chaves para o entendimento da história urbana e arquitetônica de Mato Grosso, por balizarem a expansão urbana da capital e renovarem o vocabuário plástico e construtivo vigente até então. A proposta é mapear e organizar criticamente tais intervenções modernizadoras, considerando seu impacto sobre a expansão da cidade e as transformações na paisagem urbana de Cuiabá, entre as décadas de 1930 e 1980. Dentre desse recorte, indistintamente temporal e espacial, impõe-se como objetos preferenciais da pesquisa as intervenções sobre o centro histórico da cidade (final dos anos 1930 em diante), o complexo do Centro Político-Administrativo (1972-76) e o conunto do campus da UFMT (a partir dos final da década de 1960). O objetivo do material gráfico proposto é incrementar a difusão de informações históricas e teóricas acerca do patrimônio arquitetônico moderno cuiabano aos mais diversos públicos, de maneira crítica, didática e sintética, contribuindo para possíveis ações de educação patrimonial. Visa-se, em última análise, à preservação destes edifícios, cuja arquitetura original encontra-se adulterada ou ameaçada de descaracterização. A problemática decorre da ausência de ações voltadas à educação patrimonial na capital e da inexistência de material gráfico adequado para tanto. Sua elaboração pode contribuir para sensibilizar e instruir a população cuiabana quanto ao valoroso patrimônio moderno de sua cidade.</abstract>
+        <abstract locale="en_US">This paper supports and exemplifies the elaboration of a graphic material of recognition and dissemination of the architectural heritage of Cuiabá, MT. The material is composed by an integrated system of thematic maps, photographs, drawings, with the identification and characterization of modern buildings built in the capital of Mato Grosso throughout the 20th century. Without the pretension of exhausting the totality of the process of renewal of the local architecture, the research highlights the groups of buildings with the greatest impact on urban development and subsequent architectural culture - buildings considered key to the understanding of the urban and architectural history of Mato Grosso, for the urban expansion of the capital and renewing the architectural vocabulary and construction used then. The proposal is to map and organize critically such modernizing interventions, considering their impact on the expansion of the city and the transformations in the urban landscape of Cuiabá, between the decades of 1930 and 1980. Among this scope, indistinctly temporal and spacial, its imposed as preferencial objects of the research (the end of the 1930s onwards), the complex of the Political- Administrative Center (1972-76) and the UFMT campus complex (from the late 1960s onwards). The objective of the proposed graphic material is to increase the diffusion of historical and theoretical information about the modern architectural heritage of Cuiabá to the most diverse publics, in a critical, didactic and synthetic way, contributing to possible patrimonial education actions. It is ultimately aimed the preservation of these buildings, whose original architecture is either adulterated or threatened with decharacterization. The problem arises from the absence of actions geared for heritage education in the capital and the lack of adequate graphic material for this purpose. Its elaboration can contribute to sensitize and educate the population of Cuiabá as to the valuable modern heritage of their city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Educação patrimonial</keyword>
+          <keyword>arquitetura moderna cuiabana</keyword>
+          <keyword>patrimônio cultural urbano de Cuiabá</keyword>
+          <keyword>produção gráfica independente</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Heritage education</keyword>
+          <keyword>modern architecture of Cuiabá</keyword>
+          <keyword>urban cultural heritage of Cuiabá</keyword>
+          <keyword>Independent graphic production</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ricardo Silveira</givenname>
+            <familyname locale="pt_BR">Castor</familyname>
+            <country>BR</country>
+            <email>rscastor@ufmt.br</email>
+            <orcid>https://orcid.org/0000-0002-9338-5426</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana</givenname>
+            <familyname locale="pt_BR">Frigeri</familyname>
+            <country>BR</country>
+            <email>frigeri@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Maria Bárbara</givenname>
+            <familyname locale="pt_BR">Guimarães</familyname>
+            <country>BR</country>
+            <email>guimaraes@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdnne07-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">Fachadas modernas</title>
+        <subtitle locale="pt_BR">corolário brasileiro</subtitle>
+        <abstract locale="pt_BR">Este trabalho apresenta os resultados de estudo realizado sobre os elementos de fachada de sete edifícios institucionais em Palmas, concebidos ao longo dos primeiros anos da capital do Tocantins pelo ! GrupoQuatro, escritório goianiense responsável tanto pelo plano urbanístico da cidade – tendo em vista a sua fundação ex-nihilo em 1990 –, quanto pelo projeto dos principais edifícios administrativos construídos. Conforme apontam os registros e memória projetual, os profissionais almejaram estabelecer consonância aos ideais da arquitetura moderna brasileira. Em decorrência das altas temperaturas da cidade, as estratégias utilizadas pela equipe de arquitetos denotam subordinação da função pela forma, tal qual defendia Le Corbusier, dando contornos a um conjunto arquitetônico destacado por seus princípios bioclimáticos, consonantes aos elementos que se legitimaram no decurso da tradição moderna brasileira: pérgulas e planos de alvenarias vazadas (cobogós), beirais e brises de proteção para os prismas envidraçados, entre outros, configurando uma espécie de linguagem regional que viria a exprimir a identidade arquitetônica dos primeiros anos da nova capital. Embora a produção arquitetônica do GrupoQuatro seja, nesse sentido, relevante para a historiografia regional e nacional, o tema ainda foi pouco explorado. Identificam-se abordagens centradas na escala do edifício em si, e outras focalizadas nos seus simbolismos enquanto componentes urbanos. Desconhecem-se, portanto, investigações que evidenciem os elementos construtivos/compositivos dessas obras, conforme a que segue.</abstract>
+        <abstract locale="en_US">This paper presents the results of carried out study about the façade elements of seven institutional buildings in Palmas, conceived during the first years of the Tocantins capital by GrupoQuatro, an office from Goiânia responsible for both the urban plan of the city – in view of its ex-nihilo in 1990 –, as well as the design of the main administrative buildings. As records and project memory point out, the professionals aimed to establish consonance with the ideals of modern Brazilian architecture. As a result of the high temperatures of the city, the strategies used by the team of architects denote subordination of the function by the form, as Le Corbusier defended, giving contours to an architectonic set highlighted by its bioclimatic principles, consonant to the elements that have legitimized in the course of the tradition modern Brazilian: pergolas and porous brick walls (cobogós), eaves and protection brise-soleil for glazed prisms, among others, configuring a kind of regional language that would come to express the architectural identity of the first years of the new capital. Although the architectural production of GrupoQuatro is, in this sense, relevant to regional and national historiography, the theme has still been little explored. It identifies approaches centered on the scale of the building itself, and others focused on ! its symbolisms as urban components. It is not known, therefore, investigations that show the constructive / compositional elements of these works, as follows.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palmas-Tocantins</keyword>
+          <keyword>GrupoQuatro</keyword>
+          <keyword>arquitetura institucional</keyword>
+          <keyword>arquitetura moderna brasileira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Palmas-Tocantins</keyword>
+          <keyword>GrupoQuatro</keyword>
+          <keyword>institutional architecture</keyword>
+          <keyword>modern Brazilian architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Giuliano</givenname>
+            <familyname locale="pt_BR">Orsi M. Carvalho</familyname>
+            <country>BR</country>
+            <email>giulianoorsi@uft.edu.br</email>
+            <orcid>https://orcid.org/0000-0003-3180-4899</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo (2016), Professor adjunto do Curso de Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fabrine</givenname>
+            <familyname locale="pt_BR">Pereira de Brito</familyname>
+            <affiliation locale="pt_BR">UFT</affiliation>
+            <country>BR</country>
+            <email>fabrinebrito23@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9121-6979</orcid>
+            <biography locale="pt_BR">Graduada em Ciências Sociais (2009)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdnne07-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">As concepções arquiteturais de ruy ohtake para Palmas</title>
+        <abstract locale="pt_BR">Implantada ao longo dos primeiros anos da década de 1990 em decorrência da emancipação do Estado do Tocantins (1989), Palmas mantém-se até então como a mais nova capital estadual brasileira. Em sua concepção urbanística previram-se imensas glebas retangulares destinadas às quadras residenciais que, internamente, seriam criações de renomados arquitetos nacionais, sendo Ruy Ohtake um desses expoentes. Embora tenham sido construídas nove quadras idealizadas por Ohtake, hoje em dia consolidadas, nenhuma de suas concepções arquiteturais saiu do papel: torre de TV, marina, estádio com vila olímpica, jardim botânico, autódromo, centro cultural, feiras e convenções, entre outras, são proposições praticamente desconhecidas em virtude de não haver estudos e publicações que as abordem. Assim, com a finalidade de reconhecimento e registro historiográfico da arquitetura moderna brasileira, busca-se trazer à tona os projetos idealizados pelo arquiteto nissei paulistano em Palmas, elaborados num período de inflexão de sua linguagem, na qual verificam-se tanto elementos advindos da escola paulista, quanto expressões formais que caracterizariam as obras dos anos seguintes. Para tanto, o artigo apresenta o estudo de cinco exemplares representativos dessa empreitada em terras tocantinenses, subsidiado pela análise do material gráfico-textual remanescente, disponibilizado em arquivo público municipal, que compreende programa, dimensionamento e estudos de localização do equipamento no plano urbanístico de Palmas, memória projetual e croquis.</abstract>
+        <abstract locale="en_US">Palmas, which was installed over the first years of the 1990’s as a result of the Tocantins State emancipation (1989), keeps itself until now as the newest Brazilian capital city. In its urban concept it was predicted immense rectangular glebes which were allocated to residential squares that, internally, they were creations of reputable national architects, and Ruy Ohtake was one of them. Although there has been built nine squares by Ohtake, nowadays consolidated, none of his architecture conceptions was implemented, such as: TV tower, harbour, stadium with Olympic village, botanical garden, racing circuit, cultural center, street market and convention center, among others, they are propositions almost unknown due to studies that have never been published or discussed. This way, with the intention of recognition and historic record of Brazilian modern architecture, we intend to highlight the projects conceived by the nissei and Paulistano architect in Palmas, which were designed in a period of inflection of his language in which it is possible to verify not only elements derived by the paulista school, but also formal expressions that would pattern the future works. For this purpose, this article presents the study of five representative samples of this undertaking in Tocantins fields, subsided by analysis of the graphical- ! textual remaining materials and also available into municipal public archives that embrace program, scaling and studies of location of the gadgetry in Palmas urban plan, designing memory and sketches.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Ruy Ohtake</keyword>
+          <keyword>projeto de arquitetura</keyword>
+          <keyword>escola paulista</keyword>
+          <keyword>Palmas-Tocantins</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Ruy Ohtake</keyword>
+          <keyword>architecture project</keyword>
+          <keyword>paulista school</keyword>
+          <keyword>Palmas-Tocantins</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Giuliano</givenname>
+            <familyname locale="pt_BR">Orsi M. Carvalho</familyname>
+            <affiliation locale="pt_BR">CAU-UFT</affiliation>
+            <country>BR</country>
+            <email>giulianoorsi@uft.edu.br</email>
+            <orcid>https://orcid.org/0000-0003-3180-4899</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo (2016)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Thaís</givenname>
+            <familyname locale="pt_BR">Melz</familyname>
+            <affiliation locale="pt_BR">CAU-UFT</affiliation>
+            <country>BR</country>
+            <email>melzthais@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4321-7766</orcid>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdnne07-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Verticalizar é modernizar?</title>
+        <abstract locale="pt_BR">A verticalização residencial em Maceió se inicia na década de 1960 com o registro de três edifícios no bairro do Centro, à beira-mar, e no bairro do Farol, parte alta da cidade, com vista para o mar e para a lagoa. Os demais exemplares dessa nova forma de morar se estabeleceram no decorrer da década de 1970 nas praias de Pajuçara e Ponta Verde, local que viria a se tornar o “cartão postal” da cidade. Ocupada inicialmente, por exemplares de arquitetura vernacular e por grandes sítios com casas de caráter tradicional, essa área, pouco a pouco, viu sua paisagem ser requalificada com o surgimento das primeiras casas modernas e edifícios verticais. Este artigo pretende delinear as relações entre o morar em apartamentos e o contexto maceioense concretizado por construções pautadas pelos princípios modernos. A pesquisa é baseada em levantamento de projetos em arquivos; no depoimento de pessoas envolvidas no processo de verticalização residencial sejam eles arquitetos ou moradores; e na observação dos espaços através de visitas aos edifícios. Buscar-se-á indagar sobre o processo de modernização naquele período tencionado entre o ímpeto das novidades e o peso dos hábitos já consolidados.</abstract>
+        <abstract locale="en_US">Residential high-rise buildings began in Maceió in the 1960s with three buildings in the City Center, on the seafront and in the Farol district (the highest part of the city which commands a view of the sea and lagoon). Other examples of this kind of dwelling appeared in the 1970s in front of the beaches of Pajuçara and Ponta Verde, which have become the “picture postcard” features of the city. After first being characterized by vernacular architecture and traditional farmhouses, this area has gradually witnessed changes in its landscape which is now covered with new modern houses and high-rise buildings. This article seeks to portray the relationship between the residents of the apartments and the ¨concretized¨ world of Maceió buildings, that is governed by modern principles. The research is based on the following: a survey of the archives; the testimony of people affected by high-rise building (whether they be architects or residents); and spatial observation obtained from visits to the areas. The modernization of that period will be investigated , together with the pressures arising from innovation and fixed customs.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Verticalização</keyword>
+          <keyword>modernização</keyword>
+          <keyword>formas de habitar</keyword>
+          <keyword>tradição</keyword>
+          <keyword>universalidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>High-rise building</keyword>
+          <keyword>modernization</keyword>
+          <keyword>ways of living</keyword>
+          <keyword>tradition</keyword>
+          <keyword>universality</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Camila</givenname>
+            <familyname locale="pt_BR">Antunes de Carvalho Casado</familyname>
+            <affiliation locale="pt_BR">FAU-UFAL</affiliation>
+            <country>BR</country>
+            <email>carvalhocamila@hotmail.com</email>
+            <orcid>https://orcid.org/0009-0006-9943-2752</orcid>
+            <biography locale="pt_BR">Doutoranda em Arquitetura e Urbanismo pelo Programa de Pós-graduação Dinâmica do Espaço Habitado</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maria Angélica da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>mas@pq.cnpq.br</email>
+            <biography locale="pt_BR">Doutora em História pela Universidade Federal Fluminense (UFF), Professora Associada da FAU/ UFAL/ bolsista de produtividade do CNPq PPGAU/DEHA/FAU/UFAL</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

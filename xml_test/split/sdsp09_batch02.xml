@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdsp09-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">Arquitetura escolar moderna na baixada santista</title>
+        <subtitle locale="pt_BR">grupo escolar de pae cará ou ee. philomena Cardoso de Oliveira</subtitle>
+        <abstract locale="pt_BR">O Grupo Escolar de Pae Cará, ou Escola Estadual (EE) Philomena Cardoso de Oliveira, embora não seja um projeto amplamente conhecido pela historiografia da arquitetura, apresenta uma série de caracteristicas que contribuem para a compreensão da arquitetura escolar realizada pelo Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) durante o governo de Carvalho Pinto, assim como, o projeto também pode ser compreendido pelas caracteristicas que demarcam e tornaram-se recorrentes na arquitetura da chamada Escola Paulista, sobretudo, pela anfase aos espaços de uso coletivo, como o pátio escolar. O presente trabalho parte das discussões levantadas em pesquisas anteriores a respeito da concepção de espaços sociais em projetos escolares produzidos entre 1959 e 1975, enfatizando as soluções projetuais do Grupo Escolar de Pae Cará, projetada por Maurício Tuck Schneider, e as relações entre a arquitetura escolar produzida pelo PAGE na baixada santista.</abstract>
+        <abstract locale="en_US">The Pae Cará School Group, or School Philomena Cardoso de Oliveira, although not a project widely known in architectural historiography, presents a series of characteristics that contribute to the understanding of school architecture carried out by the Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) during the government of Carvalho Pinto, as well as the project can also be understood by the characteristics that demarcate and became recurrent in the architecture of the so-called Escola Paulista, above all, due to the emphasis on spaces for collective use, such as the school playground. This work is based on discussions raised in previous research regarding the design of social spaces in school projects produced between 1959 and 1975, emphasizing the design solutions of the Grupo Escolar de Pae Cará, designed by Maurício Tuck Schneider, and the relationships between school architecture produced by PAGE in Baixada Santista.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura escolar do PAGE</keyword>
+          <keyword>EE Philomena Cardoso de Oliveira</keyword>
+          <keyword>Arquitetura moderna na baixada santista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>The PAGE school architecture</keyword>
+          <keyword>EE Philomena Cardoso de Oliveira</keyword>
+          <keyword>Modern architecture in “baixada santista”</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jasmine Luiza Souza</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6156-4086</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+        <pages>94-107</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdsp09-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">Edifício christiano stockler das Neves – FAU-mackenzie</title>
+        <abstract locale="pt_BR">Após um breve retrospecto do ensino de arquitetura na Universidade Presbiteriana Mackenzie, tendo como referência a documentação histórica sobre as edificações que o abrigaram, o texto se concentra no projeto do Edifício Christiano Stockler das Neves, sede da Faculdade de Arquitetura e Urbanismo. Ainda por meio de fontes documentais, descreve o projeto e suas características, para então discutir as contingências de sua realização e seus atributos de valor. Reconhecidas suas principais qualidades, o texto prossegue enumerando as transformações recentes, e seu impacto em relação a sua capacidade de se adaptar, conservar e preservar suas qualidades principais.</abstract>
+        <abstract locale="en_US">After a brief retrospective of the teaching of architecture at Universidade Presbiteriana Mackenzie, with reference to the historical documentation on the buildings that housed it, the text focuses on the project of the Christiano Stockler das Neves Building, the college's headquarters. Still using documentary sources, it describes the project and its characteristics, and then discusses the contingencies of its implementation and its value attributes. Having recognized its main qualities, the text continues by enumerating recent transformations, and their impact in relation to the ability to adapt, conserve and preserve its main qualities.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Fontes documentais</keyword>
+          <keyword>Escola de arquitetura</keyword>
+          <keyword>Transformar e conservar</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Documentary sources</keyword>
+          <keyword>School of architecture</keyword>
+          <keyword>Change and conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+        </authors>
+        <pages>108-129</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdsp09-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Arquitetura educadora</title>
+        <subtitle locale="pt_BR">formação de público e preservação da sede do mac USP</subtitle>
+        <abstract locale="pt_BR">Desde janeiro de 2012, o Museu de Arte Contemporânea da Universidade de São Paulo ocupa um edifício integrante do conjunto arquitetônico do Parque Ibirapuera, originalmente denominado Palácio da Agricultura e, por décadas, utilizado como sede do Departamento Estadual de Trânsito de São Paulo (Detran SP). Projetado por Oscar Niemeyer, o edifício exprime, simultanelamente, a filiação aos “cinco pontos da arquitetura moderna”, postulados por Le Corbusier, e a incorporação da espacialidade contínua proveniemente das superfícies curvilíneas que identificam as obras do arquiteto carioca. A forma exterior, os espaços interiores e sua inserção urbana (no conjunto e na cidade), fazem com que este museu deixe de ser um ambiente neutro para as obras, um “cubo branco” e passe a compor a coleção como obra em si, devido ao protagonismo das obras modernas na coleção. Diante dessa condição, desde sua inaguração em sua nova sede, o MAC USP desenvolve projetos e atividades em seu setor educativo com vistas a despertar nos grupos de escolas assim como no público espontâneo uma consciência sobre o valor dessa arquitetura a partir da compreensão da relação de unidade entre a linguagem do espaço e as linguagens da obras, principalmente aquelas vinculadas às abstrações geométrica e lírica.</abstract>
+        <abstract locale="en_US">Since January 2012, the Museum of Contemporary Art at the University of São Paulo has occupied a building that is part of the Ibirapuera Park architectural complex, originally called the Palácio da Agricultura and, for decades, used as the headquarters of the São Paulo State Traffic Department (Detran SP ). Designed by Oscar Niemeyer, the building simultaneously expresses affiliation with the “five points of modern architecture”, postulated by Le Corbusier, and the incorporation of continuous spatiality originating from the curvilinear surfaces that identify the works of the architect from Rio. The exterior shape, the interior spaces and its urban insertion (in the complex and in the city), mean that this museum stops being a neutral environment for the works, a “white cube” and starts to form the collection as a work in itself, due to the protagonism of modern works in the collection. Given this condition, since its inauguration in its new headquarters, MAC USP has been developing projects and activities in its educational sector with a view to awakening in groups of schools as well as in the spontaneous public an awareness of the value of this architecture based on an understanding of the relationship between unity between the language of space and the languages of works, especially those linked to geometric and lyrical abstraction.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Arte-educação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Art-Education</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rodrigo Cristiano</givenname>
+            <familyname locale="pt_BR">Queiroz</familyname>
+            <country>BR</country>
+            <email>sem-email-1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-7088-6885</orcid>
+          </author>
+        </authors>
+        <pages>130-139</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdsp09-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">A produção do arquiteto Geraldo caiuby</title>
+        <abstract locale="pt_BR">Objetiva-se apresentar a produção do arquiteto Geraldo Caiuby (1946 -) na cidade de Sorocaba, interior do Estado de São Paulo, por meio de uma revisão bibliográfica e pesquisa de campo. Como resultado, observou-se a ausência de pesquisas com essa temática. Por essa razão, em complemento à revisão bibliográfica foram consideradas como fontes reportagens do jornal do município. Como um dos arquitetos com atuação mais longeva na cidade, entende-se que conhecer as obras de Geraldo Caiuby é construir parte da identidade da arquitetura local. Dessa forma, se faz necessária uma análise mais profunda dos projetos encontrados, bem como a ampliação da investigação dos exemplares ainda existentes na cidade. Entre os projetos estão a Biblioteca Municipal de Sorocaba. Com essa pesquisa não se espera esgotar a produção do arquiteto, mas iniciar sua documentação. Considerando o contexto urbano local em crescente transformação, há a necessidade de documentar e divulgar suas obras no sentido de, possivelmente, evitar a descaracterizações dos edifícios existentes ou sua demolição, levando ao apagamento de parte da história local.</abstract>
+        <abstract locale="en_US">The aim of this study is to present the production of architect Geraldo Caiuby (1946 -) in the city of Sorocaba, in the interior of the state of São Paulo, through a bibliographic review and field research. As a result, it was observed that there was a lack of research on this subject. For this reason, in addition to the bibliographic review, reports from the city's newspaper were considered as sources. As one of the architects with the longest experience in the city, it is understood that knowing Geraldo Caiuby's works is to build part of the identity of local architecture. Thus, a more in-depth analysis of the projects found is necessary, as well as expanding the investigation of the examples still existing in the city. Among the projects is the Municipal Library of Sorocaba. This research does not expect to exhaust the architect's production, but to begin documenting it. Considering the local urban context in increasing transformation, there is a need to document and publicize his works in order to possibly avoid the decomposition of existing buildings or their demolition, leading to the erasure of part of the local history.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>Sorocaba</keyword>
+          <keyword>arquitetura paulista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Sorocaba</keyword>
+          <keyword>Paulista Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Giulia Lourenço</givenname>
+            <familyname locale="pt_BR">Francischinelli</familyname>
+            <country>BR</country>
+            <email>giufranscischinelli@gmail.com</email>
+            <orcid>https://orcid.org/0009-0000-7904-4142</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maria Alice de</givenname>
+            <familyname locale="pt_BR">Carvalho</familyname>
+            <country>BR</country>
+            <email>maria.alice.carvalho@hotmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">João Luís Bengla</givenname>
+            <familyname locale="pt_BR">Mestre</familyname>
+            <country>BR</country>
+            <email>joão.mestre@facens.br</email>
+            <orcid>https://orcid.org/0009-0009-1859-8497</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Taiana Car</givenname>
+            <familyname locale="pt_BR">Vidotto</familyname>
+            <country>BR</country>
+            <email>vidotto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-7498-3789</orcid>
+          </author>
+        </authors>
+        <pages>140-153</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdsp09-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Muzi e arena na produção da Arquitetura Moderna santista</title>
+        <abstract locale="pt_BR">Este artigo discute a feição da arquitetura produzida por dois expoentes da Arquitetura Moderna Santista: o Escritório Técnico Luiz Muzi e a Construtora ARENA. A cidade de Santos experimentou um crescimento acentuado a partir dos anos 1950, onde ocorre uma transformação urbana significativa, marcada pela adaptação da legislação urbanística para a construção de edifícios verticais com programas arquitetônicos inovadores. A escolha do tema deste trabalho deriva da pesquisa realizada na tese de doutorado em andamento intitulada Arquitetura Moderna Santista que tem como objetivo principal realizar um inventário de exemplares construídos entre 1930 e 1970. Esse levantamento permitiu descobrir uma série de informações relevantes sobre a produção desse período. Uma brilhante geração de profissionais constituiu no Brasil um conjunto significativo de obras que influenciou a adoção de práticas modernistas, resultando em belos exemplares que fazem parte da memória arquitetônica, ainda pouco explorado pela historiografia. A Arquitetura Moderna Santista possui propósitos fundamentais que refletem esse ideário, e suas referências merecem ser estudadas para fornecer diretrizes que possam contribuir para a preservação e valorização dessa produção como bens de interesse histórico e cultural.</abstract>
+        <abstract locale="en_US">This article discusses the architectural features produced by two exponents of Santista Modern Architecture: the Luiz Muzi Technical Office and the Construtora ARENA. The city of Santos experienced marked growth from the 1950s onwards, where a significant urban transformation occurred, marked by the adaptation of urban planning legislation for the construction of vertical buildings with innovative architectural programs. The choice of the theme of this work derives from the research carried out in the doctoral thesis in progress entitled Arquitetura Moderna Santista, whose main objective is to carry out an inventory of examples built between 1930 and</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna santista</keyword>
+          <keyword>patrimônio cultural</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture in Santos</keyword>
+          <keyword>Cultural Heritage</keyword>
+          <keyword>Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jaqueline Fernández</givenname>
+            <familyname locale="pt_BR">Alves</familyname>
+            <country>BR</country>
+            <email>j.fernandez.alves@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Cristina de</givenname>
+            <familyname locale="pt_BR">Campos</familyname>
+            <country>BR</country>
+            <email>prof.cristinacampos@usjt.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Eneida de</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <country>BR</country>
+            <email>almeida@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9773-5289</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Mario</givenname>
+            <familyname locale="pt_BR">Rodrigues Jr.</familyname>
+            <country>BR</country>
+            <email>mariodragonetti@gmail.com</email>
+          </author>
+        </authors>
+        <pages>154-170</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

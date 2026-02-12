@@ -1,0 +1,55 @@
+issue:
+  slug: sdrj03
+  title: 3º Encontro Docomomo Rio, Rio de Janeiro, 2014
+  subtitle: 'A Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953)'
+  description: '3º Encontro Docomomo-Rio: a Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953). Rio de Janeiro: UFRJ/FAU/PROARQ, 2014. Evento realizado na sede do IAB-RJ em 26-27 de setembro de 2014. Formato: pôsteres, mesa redonda e MOMOTUR (visita guiada). Sem anais publicados com artigos completos.'
+  year: 2014
+  volume: 1
+  number: 3
+  date_published: '2014-09-26'
+  isbn: 978-85-88341-63-0
+  publisher: UFRJ/FAU/PROARQ
+  editors:
+  - Cêça Guimaraens
+  - Luiz Felipe Machado
+  - Guilherme Araújo de Figueiredo
+  - Hilton Berredo
+  source: ''
+  sections:
+  - title: Pôsteres
+    abbrev: POST-sdrj03
+articles:
+
+- id: sdrj03-001
+  locale: pt-BR
+  arquivo_pdf: ''
+  pages_count: 1
+  seminario: sdrj03
+  secao: Pôsteres
+  tipo: poster
+  titulo: O clássico moderno ou o moderno clássico?
+  subtitulo: reflexões sobre os edifícios do IRB e do Maison de France
+  autores:
+  - givenname: ''
+    familyname: ''
+    email: poster1@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+
+- id: sdrj03-002
+  locale: pt-BR
+  arquivo_pdf: ''
+  pages_count: 1
+  seminario: sdrj03
+  secao: Pôsteres
+  tipo: poster
+  titulo: Irmãos Roberto e as fachadas dos edifícios residenciais
+  subtitulo: uma investigação didática
+  autores:
+  - givenname: ''
+    familyname: ''
+    email: poster2@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true

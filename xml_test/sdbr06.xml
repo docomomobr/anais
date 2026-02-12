@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdbr06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdbr06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Brasil: anais: moderno e nacional, Arquitetura e Urbanismo [recurso eletrônico] / organização: José Pessôa, Eduardo Vasconcellos, Elisabete Reis, Maria Lobo. Niterói: Pós-Graduação em Arquitetura e Urbanismo, UFF, 2005. ISBN 85-99618-01-6</description>
+  <issue_identification>
+    <volume>1</volume>
+    <number>6</number>
+    <year>2005</year>
+    <title locale="pt_BR">6º Seminário Docomomo Brasil, Niterói, 2005</title>
+  </issue_identification>
+  <date_published>2005-01-01</date_published>
+  <last_modified>2005-01-01</last_modified>
+  <sections>
+    <section ref="ART-sdbr06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">0</id>
+      <abbrev locale="pt_BR">ART-sdbr06</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdbr06-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">A Arquitetura moderna de Heitor Maia Neto em Recife nos anos 50</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna Recife</keyword>
+          <keyword>modernidade arquitetônica nordestina</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture Recife</keyword>
+          <keyword>modernity architectural northeastern</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdbr06-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Um estudo sobre o mestre Artigas e o aprendiz Jorge Caron</title>
+        <keywords locale="pt_BR">
+          <keyword>Mestre</keyword>
+          <keyword>Ensino de Arquitetura (FAU-USP)</keyword>
+          <keyword>Jorge Caron</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Amanda Saba</givenname>
+            <familyname locale="pt_BR">Ruggiero</familyname>
+            <country>BR</country>
+            <email>ruggiero@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8483-0359</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdbr06-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">A casa unifamiliar em Caxias do Sul 1940-70</title>
+        <subtitle locale="pt_BR">somos modernos?</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>modernismo</keyword>
+          <keyword>habitação unifamiliar</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modernism</keyword>
+          <keyword>one-family house</keyword>
+          <keyword>Caxias do Sul</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elísia da</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4829-5699</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniela</givenname>
+            <familyname locale="pt_BR">Mendes Cidade</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Erinton</givenname>
+            <familyname locale="pt_BR">Aver Moraes</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+            <orcid>https://orcid.org/0000-0002-4067-681X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdbr06-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Pernambuco falando para o mundo</title>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio cultural</keyword>
+          <keyword>Modernismo e Recife</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Elisabete de Almeida</givenname>
+            <familyname locale="pt_BR">Medeiros</familyname>
+            <country>BR</country>
+            <email>ana@unb.br</email>
+            <orcid>https://orcid.org/0000-0003-3248-4399</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdbr06-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Arquitetos imigrantes no Brasil</title>
+        <subtitle locale="pt_BR">uma questão historiográfica</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>arquitetos</keyword>
+          <keyword>imigrantes</keyword>
+          <keyword>historiografia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Anat</givenname>
+            <familyname locale="pt_BR">Falbel</familyname>
+            <country>BR</country>
+            <email>falbel@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0009-3934-9537</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdbr06-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">Sérgio Ferro</title>
+        <subtitle locale="pt_BR">a construção de uma teoria</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Angélica Irene</givenname>
+            <familyname locale="pt_BR">da Costa</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0009-0004-2350-9624</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdbr06-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A visão estrangeira sobre a Arquitetura brasileira nos anos 1950</title>
+        <keywords locale="pt_BR">
+          <keyword>Crítica</keyword>
+          <keyword>Arquitetura</keyword>
+          <keyword>Gropius</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Antônio Renato</givenname>
+            <familyname locale="pt_BR">Guarino Lopes</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdbr06-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Brazil Builds e a bossa barroca</title>
+        <keywords locale="pt_BR">
+          <keyword>Brazil Builds/ arquitetura moderna brasileira/ identidade nacional</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Dias</givenname>
+            <familyname locale="pt_BR">Comas</familyname>
+            <country>BR</country>
+            <email>ccomas@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-7368-7603</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdbr06-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Análise arquitetônica de uma residência moderna na cidade de João Pessoa/PB</title>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture</keyword>
+          <keyword>Modern</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carolina</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Raoni</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdbr06-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Flávio de Carvalho</title>
+        <subtitle locale="pt_BR">cidade e habitação</subtitle>
+        <abstract locale="en_US">The architecture developed by Flávio de Carvalho doesn’t intend to present an institutional linked either with the effective State or with the “modern project”. The question about national identity was more linked to the questions that Oswald de Andrade and the Anthropophagi discussed in 1920, in São Paulo. Thus, his architecture neither seeks to represent nor mythify a political force, but it looks for social questions out of political interest. The social questions appear in his discussions about the city, society and habitation, mainly the conception of the modern man. The search for the formation of the modern society is closer to the progress ideas and the life progress than developmental vision of the modern project. It’s another vision about national identity that doesn’t agree with a determinate political force, but he looks for Brazilian characteristics and values. The only political preoccupation that he shows in his texts appears in his discussions about a society formation with a strong State. This may not only organize the economical and productive systems, but also reformulate a new society. This discussion is reflected in his works in which he discusses the city and the modern man’s house. Flávio de Carvalho’s point of view was presented not only in his texts, but also in his architectural projects, developed in 1920’s and 1930’s. The texts and projects that are analyzed in this work are: “The naked man’s city” (1930), “A tomorrow city’s conception” (1932), Lorena Lane project’s folder (1938), “The 20th century man’s house” (1938), the project elaborated to the Palace of São Paulo State (1927) and the project of the houses of Lorena Lane (1936-38). KEY WORDS: Flávio de Carvalho; modern architecture; modern man</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Flávio de Carvalho</keyword>
+          <keyword>arquitetura moderna, homem moderno</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Flávio de Carvalho</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>modern man</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carolina Pierrotti</givenname>
+            <familyname locale="pt_BR">Rossetti</familyname>
+            <country>BR</country>
+            <email>rossetti@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdbr06-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Setenta e cinco anos da primeira Escola de Arquitetura do Brasil</title>
+        <abstract locale="pt_BR">O presente trabalho é fruto da pesquisa de iniciação científica “Arquitetura numa cidade moderna – ensino e produção (1930-1964)” através da qual é analisada a evolução da formação do arquiteto no Brasil, por meio do estudo de caso da Escola de Arquitetura da Universidade Federal de Minas Gerais, entre os anos de 1930 e 1964, relacionando-a com a produção arquitetônica do período. Em Agosto próximo a Escola de Arquitetura completará 75 anos de fundação. Esta data nos motiva a refletir sobre o papel desempenhado por essa Instituição, tanto no que diz respeito a evolução do ensino de arquitetura, quanto ao surgimento do modernismo vanguardista em Belo Horizonte. Diante desta perspectiva, procurou-se analisar a trajetória da Instituição e a formação acadêmica de seus alunos e professores, com intuito de preservar sua memória e resgatar parte significativa não só da história belo-horizontina, como também da própria arquitetura brasileira.</abstract>
+        <abstract locale="en_US">This study aimed at investigating the evolution of architecture education in Brazil. Our primary focus was to document the work performed at the School of Architecture at UFMG between 1930 -1964, and to evaluate the impact of this work on the history of Brazilian Architecture. In August/2005, this Institution will complete its 75th anniversary. This date inspire us to reflect upon the role of this School regarding the evolution of architecture education and the rise of modernism in Belo Horizonte. In this way we studied the trajectory of the Institution and the academic development of its students and professors, with the purpose to preserve its memory and to recuperate an important portion of the history of Belo Horizonte, and the Architecture of Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>ensino</keyword>
+          <keyword>produção acadêmica</keyword>
+          <keyword>modernismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>education</keyword>
+          <keyword>academic production</keyword>
+          <keyword>modernism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cléo Alves</givenname>
+            <familyname locale="pt_BR">Pinto de Oliveira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maini</givenname>
+            <familyname locale="pt_BR">de Oliveira Perpétuo</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0002-5496-9074</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdbr06-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Entre o chão e o céu</title>
+        <subtitle locale="pt_BR">as rampas em Artigas</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>rampas</keyword>
+          <keyword>arquitetura moderna brasileira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Vilanova Artigas</keyword>
+          <keyword>ramps</keyword>
+          <keyword>brazilian modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Clevio Dheivas</givenname>
+            <familyname locale="pt_BR">Nobre Rabelo</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-3423-314X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdbr06-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Edifício Montreal</title>
+        <subtitle locale="pt_BR">Arquitetura moderna e orgulho nacional</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Daniela Viana</givenname>
+            <familyname locale="pt_BR">Leal</familyname>
+            <country>BR</country>
+            <email>leal@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdbr06-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Ações de sensibilização para a preservação da Arquitetura moderna de Belo Horizonte</title>
+        <abstract locale="en_US">This article presents and analyses efforts of documentation and conservation of Modern Architecture in Belo Horizonte. Discussing its basis, problems and pointing possible ways in order to valuate and preserve our modern heritage, integrated public policy is also considered.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Cultural Moderno - Preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Modern Cultural Heritage - Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Denise Marques</givenname>
+            <familyname locale="pt_BR">Bahia</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tereza Bruzzi</givenname>
+            <familyname locale="pt_BR">de Carvalho</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdbr06-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Riposatevi</title>
+        <subtitle locale="pt_BR">a Tropicália de Lucio Costa na XIII Trienal de Milão</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Lucio Costa</keyword>
+          <keyword>pavilhão</keyword>
+          <keyword>Trienal de Milão</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eduardo Pierrotti</givenname>
+            <familyname locale="pt_BR">Rossetti</familyname>
+            <country>BR</country>
+            <email>rossettifau@unb.br</email>
+            <orcid>https://orcid.org/0000-0002-0678-1659</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdbr06-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Le Corbusier e Lucio Costa</title>
+        <subtitle locale="pt_BR">intercâmbio de saberes</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eduardo Mendes</givenname>
+            <familyname locale="pt_BR">de Vasconcellos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdbr06-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Influências estrangeiras e afirmação nacional no espaço urbano do Rio de Janeiro, 1922/1940</title>
+        <keywords locale="pt_BR">
+          <keyword>Modernismo – Nacionalismo - Estrangeirismo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eduardo Cezar</givenname>
+            <familyname locale="pt_BR">Siqueira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdbr06-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Espaços modernos cariocas</title>
+        <subtitle locale="pt_BR">por uma monumentalidade peculiar</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Movimento Moderno – estética autóctone - Rio de Janeiro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Evelyn Furquim Werneck</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>evelyn.lima@unirio.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdbr06-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Siegfried Giedion e o caso brasileiro</title>
+        <subtitle locale="pt_BR">uma aproximação historiográfica</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Historiografia</keyword>
+          <keyword>Movimento moderno</keyword>
+          <keyword>Giedion</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fabiano Lemes</givenname>
+            <familyname locale="pt_BR">de Oliveira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdbr06-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">Arquitetura e Estado no Brasil Rino Levi</title>
+        <subtitle locale="pt_BR">Hespéria nos Trópicos</subtitle>
+        <abstract locale="pt_BR">Esta proposta de comunicação tem como objetivo mostrar um pouco da história das relações entre Arquitetura e Estado no Brasil e especialmente na cidade de São Paulo. O subtítulo deste artigo: Rino Levi: Hespéria nos Trópicos é uma metáfora da presença italiana no Brasil; deste intelectual formado na Itália que desenvolve suas atividades na cidade de São Paulo, a “Hesperia Nostra”. Este trabalho tem como base minha dissertação de mestrado, Villela (2003), cujo objetivo foi compreender a racionalização dos processos de trabalho em escritórios de arquitetura. Esta dissertação de mestrado possibilitou traçar, entre outros aspectos, uma outra história da relação entre “Arquitetura e Estado” no Brasil a partir da industrialização em São Paulo. Baseados na noção de intelectuais de Gramsci, discutimos a concepção ampliada de Estado e vislumbramos um determinado tipo de Estado que, em nosso caso, é o Estado Industrialista. E nos interessava relacionar as políticas públicas desse Estado para a industrialização às indústrias projetadas pelo escritório “Rino Levi Arquitetos Associados SC Ltda.” – ERLAA – que desenvolveu, ao longo de suas atividades das décadas de 20 à 90, muitos projetos na cidade de São Paulo. A relação ora proposta é inédita. Alicerçados nesta relação, colocamos em cena uma outra acerca dos intelectuais e a industrialização de São Paulo.</abstract>
+        <abstract locale="en_US">Architecture and State in Brazil – Rino Levi: Hesperia in the Tropics The aim of this communication is to discuss a piece of the history of the relationship between Architecture and State in Brazil, especially in São Paulo city. The subtitle of this paper “Rino Levi – Hesperia in the Tropics” is a metaphor based on Italian presence in Brazil, once Levi is graduated in Italy and develops his activities in São Paulo city, the “Hesperia Nostra”. This paper is based on my master dissertation, Villela (2003), which main purpose was to understand the rationalization o labor processes at an architect office. In this master dissertation was shown, besides other aspects, another history about the relationship between Architecture and State in Brazil from industrialization in São Paulo. Based on the notion of intellectuals as proposed by Gramsci, we discuss the enlarged conception of State and we argue in favor of a type of State that is, in our case, a developing State. What is relevant to notice is the relationship between the public policy of this developing State for industrialization and the industries projected by Rino Levi &amp; Associated Architects Office – ERLAA, in Portuguese – an architect office that develops many projects in São Paulo city from 20’ to 90’. Based on this relationship – which is completely new – another relation between intellectuals and industrialization in São Paulo is done.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Práticas de Escritório</keyword>
+          <keyword>Intelectuais e Política – Brasil</keyword>
+          <keyword>Industrialização – São Paulo (cidade)</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fabio Fernandes</givenname>
+            <familyname locale="pt_BR">Vilella</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdbr06-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Plástica e tradição</title>
+        <subtitle locale="pt_BR">uma aproximação entre Lucio Costa e Fernando Távora</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Tradição</keyword>
+          <keyword>Plástica</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe</givenname>
+            <familyname locale="pt_BR">de Souza Noto</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-9927-9037</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdbr06-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Arquitetura no Brasil no segundo pós-guerra</title>
+        <subtitle locale="pt_BR">a síntese das artes</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda</givenname>
+            <familyname locale="pt_BR">Fernandes</familyname>
+            <country>BR</country>
+            <email>feufernandes@terra.com.br</email>
+            <orcid>https://orcid.org/0000-0001-5416-5765</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdbr06-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Urbanismo, modernidade e projeto nacional</title>
+        <subtitle locale="pt_BR">reflexões em torno do Plano Agache</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Urbanismo</keyword>
+          <keyword>Projeto Nacional</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Urbanism</keyword>
+          <keyword>Rio de Janeiro</keyword>
+          <keyword>Nation-Building</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando Diniz</givenname>
+            <familyname locale="pt_BR">Moreira</familyname>
+            <country>BR</country>
+            <email>fmoreira@hotlink.com.br</email>
+            <orcid>https://orcid.org/0000-0002-1387-4036</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdbr06-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Modernidade arquitetônica e internacionalismo nos trópicos</title>
+        <keywords locale="pt_BR">
+          <keyword>Internacionalismo - Arquitetura tropical - Diretoria de Viação e Obras Públicas</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Francisco Sales</givenname>
+            <familyname locale="pt_BR">Trajano Filho</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-3594-6878</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdbr06-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Escola Pernambucana ou Tradição Inventada?</title>
+        <abstract locale="pt_BR">A arquitetura moderna em Pernambuco pouco tem comparecido nos textos clássicos sobre arquitetura moderna nacional e as referências sobre o tema são praticamente exceções. Reconhecida tardiamente pela historiografia nacional como pioneira através da experiência de Luiz Nunes documentada em Brazil Builds, poucas publicações até o livro de Yves Bruand reconhecem os méritos dessa produção. Desde que Bruand lançou a hipótese da existência de uma “Escola do Recife” (1981, p.146) tema que dará origem a uma série de trabalhos na esteira de busca de contribuições regionais e suas particularidades (SILVA, 1988; AMORIM, 2001; MARQUES &amp; NASLAVSKY, 2001), os estudos sobre a produção moderna em Pernambuco seguem duas linhas gerais de análise: 1) a existência de um contínuo na produção de arquitetura moderna em Pernambuco que viria desde Luiz Nunes, o pioneiro modernista que atuou em Pernambuco nos anos 30, e continuaria até os anos 70; 2) o regionalismo da produção local. A linha ou contínuo da hipotética “Escola do Recife” em uma análise mais minuciosa pode refletir uma certa dose de tradições inventadas ao passo que a compreensão da produção moderna em Pernambuco, apenas segundo o viés regionalista, leva a uma compreensão equivocada dos reais atributos de valor da obra de arquitetônica em questão. Critérios como localização ou região não são atributos de valor da obra arquitetônica e podem encobrir uma avaliação mais profunda do valor dessa produção arquitetônica frente às produções nacionais e internacionais contemporâneas a ela. Por outro lado, o rótulo regional conferido por Bruand à produção de arquitetura moderna em Pernambuco coloca a hipotética “Escola do Recife” em posição secundária e derivada das escolas Carioca e Paulista, essa também é a posição adotada por Segawa (1998) quando afirma a ocorrência de “modernidades regionais” fruto do trabalho de arquitetos nômades e migrantes. A historiografia da arquitetura nacional carece de revisão crítica no sentido de avaliar as produções fora do eixo Rio- São Paulo segundo critérios específicos do campo de arquitetura que vão além de rótulos regionais.</abstract>
+        <abstract locale="en_US">The modern architecture in Pernambuco was lately recognized by the national historiography as pioneer with the experience of Luiz Nunes documented in “Brazil Builds”, it does not appear in the classic texts about modern national architecture. In fact, references to that subject are exceptions and few publications until the book of Yves Bruand recognized the merits of this architecture. Since Bruand threw the hypothesis of the existence of the “Recife´s School” (1981, p. 146) - subject that gave rise to a series of works in the regional contributions search and its particularities (SILVA, 1988; AMORIM, 2001; MARQUES &amp; NASLAVSKY, 2001), the studies about the modern architecture in Pernambuco followed two general lines of analysis: 1) the existence of a continuing line of modern architecture from Luiz Nunes, the modernist pioneer that worked in Pernambuco in the 30’s, and continued until the 70’s; 2) the regionalism of the local architectural production. When more meticulously analized, the line or extend of the hypothetic “School of the Recife” reflects a certain quantity of invented traditions. Meanwhile, the comprehension of the modern architecture in Pernambuco from the regionalist perspective leads to a misunderstanding of the real worthy attributes of the architectural production discussed here. Criteria as localization or regionalization are not significant characteristics from architectural works and can conceal the actual value of that architecture when compared to their contemporary international and national architectures. On the other hand, the regional label conferred by Bruand to the modern architecture in Pernambuco puts to hypothetic “School of the Recife” in secondary position as derived from the Rio de Janeiro and São Paulo schools. Segawa (1998) also adopted this position when he affirmed the occurrence of a “regional modernity” fruit of the work of nomadic architects and migrants. The historiography of the national architecture lacks a critic revision to evaluate the architectural production that occurred outside of the axis Rio- São Paulo with specific criteria of the field of architecture that go beyond regional labels.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Guilah</givenname>
+            <familyname locale="pt_BR">Naslavsky</familyname>
+            <country>BR</country>
+            <email>guilahn@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0003-3367-9657</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdbr06-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Ensinando a morar</title>
+        <subtitle locale="pt_BR">a busca pelo homem novo através da Arquitetura no Conjunto do Pedregulho</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Habitação Popular</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Helga</givenname>
+            <familyname locale="pt_BR">Santos Da Silva</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-3191-6292</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Mauro Cesar</givenname>
+            <familyname locale="pt_BR">de Oliveira Santos</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdbr06-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">A leitura do ambiente urbano e a construção de uma identidade nacional</title>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio cultural- identidade nacional - jardim histórico</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>cultural heritage - national identity - historical garden</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Inês El-Jaick</givenname>
+            <familyname locale="pt_BR">Andrade</familyname>
+            <country>BR</country>
+            <email>andrade@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9012-6421</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdbr06-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">A modernidade das salas de cinema do Recife</title>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>cinema</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>movies theatre</keyword>
+          <keyword>preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabella Leite</givenname>
+            <familyname locale="pt_BR">Trindade</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdbr06-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Mies van der Rohe no Brasil</title>
+        <subtitle locale="pt_BR">projeto para o Consulado dos Estados Unidos em São Paulo, 1957-1962</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Mies van der Rohe</keyword>
+          <keyword>Brasil</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Mies van der Rohe</keyword>
+          <keyword>Brazil</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ítalo</givenname>
+            <familyname locale="pt_BR">Galeazzi</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdbr06-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Os Irmãos Roberto</title>
+        <subtitle locale="pt_BR">poética urbana da forma e virtuosismo do elemento</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna Brasileira</keyword>
+          <keyword>Rio de Janeiro</keyword>
+          <keyword>Escola Carioca</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fabiana Geneoso</givenname>
+            <familyname locale="pt_BR">De Izaga</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-5375-4859</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdbr06-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Os projetos para Brasília e a construção da identidade nacional</title>
+        <keywords locale="pt_BR">
+          <keyword>Urbanismo - Brasília – Projetos</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jeferson Cristiano</givenname>
+            <familyname locale="pt_BR">Tavares</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-2285-0367</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdbr06-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">O Modernismo arquitetônico em Teresina (PI)</title>
+        <keywords locale="pt_BR">
+          <keyword>História da arquitetura. Arquitetura Modernista. Arquiteto Antonio Luiz</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>History of the architecture. Modernist architecture. Architect Antonio Luiz</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Joene Saibrosa</givenname>
+            <familyname locale="pt_BR">da Silva</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-2944-2211</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdbr06-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">O Movimento Moderno e a Arquitetura residencial de Florianópolis</title>
+        <keywords locale="pt_BR">
+          <keyword>Movimento Moderno</keyword>
+          <keyword>arquitetura residencial</keyword>
+          <keyword>Florianópolis</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Josicler Orbem</givenname>
+            <familyname locale="pt_BR">Alberton</familyname>
+            <country>BR</country>
+            <email>arquiteta.josicler@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0001-8645-2013</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carolina Palermo</givenname>
+            <familyname locale="pt_BR">Szücs</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdbr06-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">O IAPI de Belo Horizonte</title>
+        <subtitle locale="pt_BR">entre proposta social e propaganda ideológica</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliana Cardoso</givenname>
+            <familyname locale="pt_BR">Nery</familyname>
+            <country>BR</country>
+            <email>jcnery19@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-8476-5339</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdbr06-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Continuidades e dissonâncias na Arquitetura industrial de Hans Broos</title>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura industrial</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>industrial architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Karine</givenname>
+            <familyname locale="pt_BR">Daufenbach</familyname>
+            <country>BR</country>
+            <email>daufenbach@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2292-8219</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdbr06-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">Imagens do moderno</title>
+        <subtitle locale="pt_BR">a preservação do acervo do Laboratório de Fotodocumentação Sylvio de Vasconcellos</subtitle>
+        <abstract locale="pt_BR">O trabalho relata a trajetória e o esforço de preservação de um dos mais importantes acervos documentais sobre a arquitetura brasileira, construído na Escola de Arquitetura da Universidade Federal de Minas Gerais, entre os anos de 1954 e 1964. Num quadro marcado pela pouca importância institucional que se dá ao patrimônio documental em nosso país, ocupa uma posição especial o acervo do Laboratório de Foto-documentação Sylvio de Vasconcellos, sob a tutela da Escola de Arquitetura, que possui um dos raros arquivos de arquitetura intencionalmente construído, como parte de um projeto mais amplo de pesquisa na área da Arquitetura e do Urbanismo. Criado em 1954 com o objetivo de documentar fotograficamente o acervo arquitetônico e artístico de Minas Gerais, e funcionando de forma intensiva durante dez anos, o Laboratório de Foto-documentação produziu um impressionante acervo, que retrata de forma exemplar o interesse historiográfico dos arquitetos modernistas, que compunham então o corpo docente da Escola de Arquitetura. Constituído de mais de 30.000 negativos, este rico acervo permaneceu esquecido por décadas e somente nos anos 90 começa um trabalho sistemático de catalogação e revalorização desse fundo documental, importante para a pesquisa da história da arquitetura brasileira.</abstract>
+        <abstract locale="en_US">This paper presents the history and efforts to preserve one of the most important archives on Brazilian architecture that was produced by the Architecture School of the Universidade Federal de Minas Gerais, Brazil, from 1954 up to 1964. In a national context where the institutions usually don’t pay much attention to establishing a preservation policy for the documentary archives, the Fotodocumentation Laboratory Sylvio de Vasconcellos, on the holdings of the Architecture School, owns one of the few intentionally produced architecture archives in our country that was part of a larger research initiative. Created in 1954 with the aim of registering the architectonic and artistic heritage of the State of Minas Gerais, the Fotodocumentation Laboratory worked for more than a decade, and produced a remarkable photographic fund that corresponds to the historical perspective of the modern architects that ran it at the time. This rich Photo Collection that contains approximately 30.000 photographic negatives of art and architecture remained forgotten for decades, and it was only in the 1990s that it was rediscovered and that began a systematic effort to treat and preserve this documentary fund that can be very important for the research in the Brazilian architectural history field.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura acervos preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architecture archive preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Leonardo Barci</givenname>
+            <familyname locale="pt_BR">Castriota</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-9159-1787</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdbr06-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">A obra de Severiano Porto na Amazônia</title>
+        <abstract locale="en_US">The article presents an historical investigation of the period when the Brazilian architect Severiano Porto produced his architecture. Aims to contextualize his work by the political, economical and social happenings of the period, and also the Brazilian and world architectonical inclinations of the time. The work is divided in decades, including since 1950, period of his graduation, till 1990, when he reduced his work activities and closed his office in Manaus-AM. Finally, shows that the architect’s work is the result of a single experience lived in the Amazonian region, and mustn’t be included in certain label or architectonic school.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Região amazônica. Arquitetura regional</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Amazonian region. Regional architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Leticia</givenname>
+            <familyname locale="pt_BR">de Oliveira Neves</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdbr06-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">A cidade antiga nos CIAM 1950-59</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lia</givenname>
+            <familyname locale="pt_BR">Mayumi</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdbr06-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Largo do Coimbra, Ouro Preto</title>
+        <subtitle locale="pt_BR">a trajetória de um espaço frente ao pensamento moderno</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>pensamento moderno</keyword>
+          <keyword>política de preservação</keyword>
+          <keyword>Largo do Coimbra</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern thought</keyword>
+          <keyword>preservation policies</keyword>
+          <keyword>Largo do Coimbra</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Liliane</givenname>
+            <familyname locale="pt_BR">de Castro Vieira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdbr06-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">A Casa da Independência</title>
+        <subtitle locale="pt_BR">um exemplar de Edgar Graeff</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>modernismo</keyword>
+          <keyword>Edgar Graeff</keyword>
+          <keyword>arquitetura residencial</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lorena Postal</givenname>
+            <familyname locale="pt_BR">Waihrich</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Paula</givenname>
+            <familyname locale="pt_BR">Wickert</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0009-0000-5282-0607</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Nery Luiz</givenname>
+            <familyname locale="pt_BR">Auler da Silva</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="41" stage="production">
+      <id type="internal" advice="ignore">sdbr06-041</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="40" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">41</id>
+        <title locale="pt_BR">Arquitetura do século XX no bairro de Higienópolis</title>
+        <keywords locale="pt_BR">
+          <keyword>Preservação / Arquitetura Moderna no Brasil / Urbanismo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lúcio Gomes</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="42" stage="production">
+      <id type="internal" advice="ignore">sdbr06-042</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="41" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">42</id>
+        <title locale="pt_BR">A Casa de Vidro</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="43" stage="production">
+      <id type="internal" advice="ignore">sdbr06-043</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="42" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">43</id>
+        <title locale="pt_BR">O moderno regional?</title>
+        <subtitle locale="pt_BR">considerações sobre um patrimônio em extinção</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Paulo</givenname>
+            <familyname locale="pt_BR">Cereto</familyname>
+            <country>BR</country>
+            <email>cereto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2320-5741</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="44" stage="production">
+      <id type="internal" advice="ignore">sdbr06-044</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="43" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">44</id>
+        <title locale="pt_BR">A afirmação de uma feição nacional e outros caminhos</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Alice</givenname>
+            <familyname locale="pt_BR">Junqueira Bastos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="45" stage="production">
+      <id type="internal" advice="ignore">sdbr06-045</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="44" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">45</id>
+        <title locale="pt_BR">Lúcio Costa e a Escola Nacional de Belas Artes</title>
+        <keywords locale="pt_BR">
+          <keyword>modernismo</keyword>
+          <keyword>história da arquitetura brasileira</keyword>
+          <keyword>neocolonial</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Lúcia</givenname>
+            <familyname locale="pt_BR">Bressan Pinheiro</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-6269-8756</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="46" stage="production">
+      <id type="internal" advice="ignore">sdbr06-046</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="45" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">46</id>
+        <title locale="pt_BR">Um brasileiro na Arquitetura moderna de São Paulo</title>
+        <subtitle locale="pt_BR">Jayme da Silva Telles</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>modernidade</keyword>
+          <keyword>arquitetura</keyword>
+          <keyword>habitação operária</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza Macedo Xavier</givenname>
+            <familyname locale="pt_BR">de Freitas</familyname>
+            <country>BR</country>
+            <email>freitas@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1504-0756</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="47" stage="production">
+      <id type="internal" advice="ignore">sdbr06-047</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="46" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">47</id>
+        <title locale="pt_BR">Arquitetura moderna brasileira como representação</title>
+        <subtitle locale="pt_BR">o caso da FAUUSP</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Moderno. Identidade Nacional. Representação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="48" stage="production">
+      <id type="internal" advice="ignore">sdbr06-048</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="47" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">48</id>
+        <title locale="pt_BR">Histórias e memórias de um arquiteto</title>
+        <subtitle locale="pt_BR">a breve trajetória de Carlos Barjas Millan</subtitle>
+        <abstract locale="pt_BR">O arquiteto Carlos Barjas Millan (1927-1964), apesar da consagrada relevância de sua obra para a arquitetura paulista, ainda não foi alvo de estudos mais aprofundados, exceção feita ao doutorado do Prof. Dr. Carlos Augusto Mattei Faggin, de 1992. Mais recentemente, com o estudo sistemático da arquitetura paulista e dada a qualidade da contribuição de Millan, fica evidente a necessidade de uma análise mais profunda e da divulgação de sua arquitetura. Resultado de um esforço coletivo para a pesquisa e divulgação da obra de Millan, este trabalho apresenta uma pequena parcela do trabalho que vem sendo desenvolvido. Adotou-se como estratégia para a recuperação de parte das informações, o método de memória oral. Foram programadas 19 entrevistas entre pessoas identificadas em estreita relação com o arquiteto, cujas gravações foram digitadas e alguns trechos estão aqui reproduzidos. A formação no Mackenzie, a participação na JUC, o desempenho como professor, os parceiros, as idéias de arquitetura, as suas obras e, sobretudo, o seu modo muito particular de ser, incluindo sua súbita saída de cena foram os assuntos mais recorrentes em todos os entrevistados. Selecionamos para esta comunicação os fragmentos que recuperam as suas idéias de arquitetura: a racionalidade, o didatismo, a obsessão pela arquitetura, o rigor construtivo, o refinamento do detalhe e as suas referências, e que são reveladores da sua importância no panorama da arquitetura brasileira. Informações que associadas ao acervo de desenhos, hoje sob custodia da FAU, algumas de suas obras ainda existentes e praticamente inalteradas, permitirão uma melhor exploração de sua contribuição.</abstract>
+        <abstract locale="en_US">Architect Carlos Barjas Millan (1927-1964), although with works of distinguished relevance for São Paulo’s architecture, has not been studied deeply enough, with the exception of Prof. Dr. Carlos Augusto Mattei Faggin’ thesis, written in 1992. With the new and systematic research about São Paulo’s architecture, and considering the high quality of Millan’s contribution, it comes out very clearly the need to analyze deeper and divulgate his architecture.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mônica Junqueira</givenname>
+            <familyname locale="pt_BR">de Camargo</familyname>
+            <country>BR</country>
+            <email>junqueira.monica@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-2625-5074</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="49" stage="production">
+      <id type="internal" advice="ignore">sdbr06-049</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="48" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">49</id>
+        <title locale="pt_BR">Arquitetura moderna em João Pessoa</title>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>architectural conservation</keyword>
+          <keyword>inventory</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nelci</givenname>
+            <familyname locale="pt_BR">Tinem</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-3202-0906</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Lia</givenname>
+            <familyname locale="pt_BR">Tavares</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Marieta Dantas</givenname>
+            <familyname locale="pt_BR">Tavares de Melo</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="50" stage="production">
+      <id type="internal" advice="ignore">sdbr06-050</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="49" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">50</id>
+        <title locale="pt_BR">Arquitetura moderna e preexistência edificada</title>
+        <subtitle locale="pt_BR">intervenções sobre o patrimônio arquitetônico de Salvador</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Arquitetônico</keyword>
+          <keyword>Centro Histórico de Salvador</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nivaldo Vieira</givenname>
+            <familyname locale="pt_BR">de Andrade Junior</familyname>
+            <country>BR</country>
+            <email>nivandrade@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9543-8432</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="51" stage="production">
+      <id type="internal" advice="ignore">sdbr06-051</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="50" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">51</id>
+        <title locale="pt_BR">Conservação de residências de linguagem moderna construídas na década de 50</title>
+        <keywords locale="pt_BR">
+          <keyword>Conservação</keyword>
+          <keyword>Residências</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paula Merlino</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <country>BR</country>
+            <email>machado@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rosina Trevisan Martins</givenname>
+            <familyname locale="pt_BR">Ribeiro</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="52" stage="production">
+      <id type="internal" advice="ignore">sdbr06-052</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="51" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">52</id>
+        <title locale="pt_BR">Ideologia moderna de uma civilização do projeto</title>
+        <keywords locale="pt_BR">
+          <keyword>Projeto – Moderno - Civilização</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Pedro da Luz</givenname>
+            <familyname locale="pt_BR">Moreira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="53" stage="production">
+      <id type="internal" advice="ignore">sdbr06-053</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="52" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">53</id>
+        <title locale="pt_BR">A flexibilidade da planta livre moderna para novos usos</title>
+        <abstract locale="en_US">In the year of 2004, São Carlos City Hall acquired the old Grand Hotel, to transform it into the seat of its government. At that year, an end was put to the original use of the building, designed by architect Lucjan Korngold in 1953. Situated in the center of the city, Azouri Hotel could not compete with new economic hotels anymore. On the other hand, for several years up to now, the City Hall was trying to balance the dispersion of its activities within unfit buildings spread by the center of the town. The coincidence of these two moments allowed that the hotel did not turn out to be the first important vertical building to degrade in the city of São Carlos. Being its acquisition succeeded, the building’s reformulation to a new use introduced new difficulties. Before the reformulation design development, the City Hall decided to carry on a historical research, which would raise the hotel’s trajectory and would also supply the new design’s expert team with photos of the construction and with architectural, structural and complementary technical drawings. The main objective of the design, developed by Piratininga Associated Architects Office, was to transform the hotel into a public building, which is expressed through the alteration of its street relation. The typical floor had to suffer the most significant modifications, once the subdivisions of the hotel apartments are incompatible with the use of contemporary offices. Technical infrastructure, especially vertical circulation, also passed through modifications for the new use. Although alterations conceived for the adaptation to a new use have resulted in a new configuration of the building, the authors used the opportunity to rescue some situations of the original project that were lost in successive modifications carried through these 43 years. The following research and technical drawings set constitutes on an opportunity of reflection on the relevancy of historic patrimony preservation concepts for Modern Architecture buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Lucjan Korngold</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>preservação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato Luiz Sobral</givenname>
+            <familyname locale="pt_BR">Anelli</familyname>
+            <country>BR</country>
+            <email>anelli@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2036-5897</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Aline Coelho</givenname>
+            <familyname locale="pt_BR">Sanches</familyname>
+            <country>BR</country>
+            <email>sanches@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6458-0938</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="54" stage="production">
+      <id type="internal" advice="ignore">sdbr06-054</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="53" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">54</id>
+        <title locale="pt_BR">Restauração do Refeitório Central</title>
+        <subtitle locale="pt_BR">a work in progress</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>preservação patrimonial</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>Rio de Janeiro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Renato</givenname>
+            <familyname locale="pt_BR">da Gama-Rosa Costa</familyname>
+            <country>BR</country>
+            <email>costa@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2569-0912</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alexandre</givenname>
+            <familyname locale="pt_BR">de Souza Pessoa</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Cristina</givenname>
+            <familyname locale="pt_BR">Ribeiro</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+            <orcid>https://orcid.org/0000-0003-1082-9835</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="55" stage="production">
+      <id type="internal" advice="ignore">sdbr06-055</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="54" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">55</id>
+        <title locale="pt_BR">Modernismo e urbanidade</title>
+        <subtitle locale="pt_BR">os pioneiros da moradia vertical em São Paulo</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>edifícios residenciais</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architecture</keyword>
+          <keyword>modernism</keyword>
+          <keyword>residential buildings</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">René</givenname>
+            <familyname locale="pt_BR">Galesi</familyname>
+            <country>BR</country>
+            <email>galesi@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Candido Malta Campos</givenname>
+            <familyname locale="pt_BR">Neto</familyname>
+            <country>BR</country>
+            <email>neto@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0007-2304-438X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="56" stage="production">
+      <id type="internal" advice="ignore">sdbr06-056</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="55" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">56</id>
+        <title locale="pt_BR">A década ausente</title>
+        <subtitle locale="pt_BR">reconhecimento necessário da Arquitetura brasileira do Brutalismo paulista</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura brasileira</keyword>
+          <keyword>brutalismo</keyword>
+          <keyword>arquitetura paulista</keyword>
+          <keyword>identidade cultural</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brazilian architecture</keyword>
+          <keyword>brutalism</keyword>
+          <keyword>Paulista architecture, cultural identity</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ruth Verde</givenname>
+            <familyname locale="pt_BR">Zein</familyname>
+            <country>BR</country>
+            <email>rvzein@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0923-4914</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="57" stage="production">
+      <id type="internal" advice="ignore">sdbr06-057</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="56" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">57</id>
+        <title locale="pt_BR">Colonialismos y españolismos, todos son modernismos</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia</givenname>
+            <familyname locale="pt_BR">Arango</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="58" stage="production">
+      <id type="internal" advice="ignore">sdbr06-058</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="57" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">58</id>
+        <title locale="pt_BR">Recepção da Arquitectura moderna brasileira em Portugal</title>
+        <keywords locale="pt_BR">
+          <keyword>recepção</keyword>
+          <keyword>Brasil</keyword>
+          <keyword>Portugal</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>reception</keyword>
+          <keyword>Brazil</keyword>
+          <keyword>Portugal</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tânia Beisl</givenname>
+            <familyname locale="pt_BR">Ramos</familyname>
+            <country>BR</country>
+            <email>taniabeislramos@clix.pt</email>
+            <orcid>https://orcid.org/0000-0002-6102-7288</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Madalena Cunha</givenname>
+            <familyname locale="pt_BR">Matos</familyname>
+            <country>BR</country>
+            <email>mcunhamatos@fa.utl.pt</email>
+            <orcid>https://orcid.org/0000-0003-1779-3855</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="59" stage="production">
+      <id type="internal" advice="ignore">sdbr06-059</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="58" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">59</id>
+        <title locale="pt_BR">Arquitetura moderna em São José dos Campos</title>
+        <subtitle locale="pt_BR">a representação de uma identidade</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>memória</keyword>
+          <keyword>requalificação</keyword>
+          <keyword>sustentabilidade</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tatiana Macedo</givenname>
+            <familyname locale="pt_BR">Otta</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="60" stage="production">
+      <id type="internal" advice="ignore">sdbr06-060</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="59" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">60</id>
+        <title locale="pt_BR">A noção de adaptabilidade ao meio no discurso modernista</title>
+        <keywords locale="pt_BR">
+          <keyword>adaptabilidade</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>meio tropical</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Telma</givenname>
+            <familyname locale="pt_BR">de Barros Correia</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-8002-8748</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="61" stage="production">
+      <id type="internal" advice="ignore">sdbr06-061</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="60" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">61</id>
+        <title locale="pt_BR">De mocinho a bandido</title>
+        <subtitle locale="pt_BR">mudanças e continuidades no modelo espacial modernista dos grandes conjuntos</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Modernismo</keyword>
+          <keyword>Habitação Popular</keyword>
+          <keyword>Conjuntos Habitacionais</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Thereza Carvalho</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marcelle</givenname>
+            <familyname locale="pt_BR">da Silva Araújo</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0001-5968-8135</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="62" stage="production">
+      <id type="internal" advice="ignore">sdbr06-062</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="61" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">62</id>
+        <title locale="pt_BR">Tradição e contradições na Arquitetura religiosa brasileira dos anos 1950</title>
+        <keywords locale="pt_BR">
+          <keyword>História</keyword>
+          <keyword>Moderno</keyword>
+          <keyword>Religião</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>History</keyword>
+          <keyword>Modern</keyword>
+          <keyword>Religion</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Valdir</givenname>
+            <familyname locale="pt_BR">Arruda</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="63" stage="production">
+      <id type="internal" advice="ignore">sdbr06-063</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="62" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">63</id>
+        <title locale="pt_BR">O jogo de verde com branco</title>
+        <subtitle locale="pt_BR">Lúcio Costa em defesa do Plano Piloto da Barra da Tijuca</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vera Lucia Ferreira Motta</givenname>
+            <familyname locale="pt_BR">Rezende</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2005-01-01" status="3" submission_progress="0" current_publication_id="64" stage="production">
+      <id type="internal" advice="ignore">sdbr06-064</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="63" date_published="2005-01-01" section_ref="ART-sdbr06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">64</id>
+        <title locale="pt_BR">Formação da Arquitetura moderna no Brasil (1920-1940)</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">William</givenname>
+            <familyname locale="pt_BR">Bittar</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

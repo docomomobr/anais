@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsp08-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Reflexões sobre a casa broos</title>
+        <subtitle locale="pt_BR">o processo projetual através dos desenhos do acervo</subtitle>
+        <abstract locale="pt_BR">Apresentação e análise do projeto original da casa do arquiteto Hans Broos no Morumbi (São Paulo, 1972-83), e sua comparação com a situação atual da construção, através dos desenhos da residência que se encontram no acervo do arquiteto. Ainda que a casa já foi estudada por outros pesquisadores, sua particular distribuição interna, usos e cômodos, sempre levantou questionamentos sobre sua conformação. O estudo aqui apresentado se debruça sobre o longo processo de projeto da casa, mais de 10 anos, analisando os documentos gráficos do acervo, especialmente as plantas em suas diferentes versões, desde 1972 até 1983, para entender, e explicar, as transformações que deram origem à casa como é hoje. O estudo comprova que a experiência de projeto da casa Broos deve ser assumido como um projeto de vida em relação com a arquitetura, ou, vice-versa, assumido como uma comprovação da capacidade da arquitetura para atender à vida.</abstract>
+        <abstract locale="en_US">Report and analysis of the original project of architect Hans Broos House in Morumbi (São Paulo, 1972-83) and its relationship with the current situation of the building, through the drawings of the residence in the architect's collection. Although the house has already been studied by other researchers, its particular internal distribution, uses and rooms, have always raised questions about its conformation. The study presented here focuses on the long process of designing the house, more than 10 years, analyzing the graphic documents of the collection, especially the plans in their different versions, from 1972 to 1983, to understand and explain the transformations that gave rise to the house as it is. today. The study proves that the experience of the Broos house design must be assumed as a life project in relation to architecture, or conversely, assumed as a proof of architecture's ability to meet life.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Hans Broos</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Brutalismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Hans Broos</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Brutalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando Guillermo</givenname>
+            <familyname locale="pt_BR">Vázquez Ramos</familyname>
+            <country>BR</country>
+            <email>prof.vazquez@usjt.br</email>
+            <orcid>https://orcid.org/0000-0003-3472-5598</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Carolina Buim Azevedo</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <country>BR</country>
+            <email>marques@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>298-315</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsp08-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">A preservação e destruição das obras do arquiteto ayrton lolô cornelsen</title>
+        <abstract locale="pt_BR">O presente artigo tem como objetivo descrever de forma narrativa algumas obras do arquiteto paranaense Ayrton Lolô Cornelsen para posteriormente demonstrar a preservação de suas edificações. Arquiteto nascido em 1922, ainda é pouco conhecido fora do âmbito da arquitetura paranaense, embora possa ser comparado quantitativamente e qualitativamente a outros arquitetos brasileiros contemporâneos a este. A importância desse trabalho surge da observância da destruição de algumas obras do arquiteto, tanto demolições percebidas ao longo de sua carreira, mas sobretudo da significativa perda de edificações nos últimos anos. O anexo do restaurante do passeio público em Curitiba e o Autódromo Internacional do Paraná construído na década de 1960 são exemplo de construções que foram demolidas nos últimos cinco anos. Além disso a própria morte do arquiteto em 2020, mostra a real lacuna desse legado. Assim o presente trabalho pretende ressaltar e documentar as recentes perdas desse acervo construído, bem como atentar para a importância de criar mecanismos de preservação para evitar futuras destruições das edificações do arquiteto.</abstract>
+        <abstract locale="en_US">This article aims to describe in a narrative way some works by the Paraná architect Ayrton Lolô Cornelsen to later demonstrate the preservation of his buildings. Architect born in 1922, he is still little known outside the scope of Paraná architecture, although he can be compared quantitatively and qualitatively to other contemporary Brazilian architects. The importance of this work arises from the observance of the destruction of some of the architect's buildings, both demolitions perceived throughout his career, but above all the significant loss of buildings in recent years. The annex to the public promenade restaurant in Curitiba and the Autódromo Internacional do Paraná built in the 1960s are examples of works that were demolished in the last five years. In addition, the architect's death in 2020 shows the real loss of this legacy. Thus, the present work intends to highlight and document the recent losses of this built collection, as well as to pay attention to the importance of creating preservation mechanisms to avoid future losses of the architect´s buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Paranaense</keyword>
+          <keyword>Modernismo</keyword>
+          <keyword>Patrimônio</keyword>
+          <keyword>Ayrton Lolô Cornelsen</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Paraná architecture</keyword>
+          <keyword>Modernism</keyword>
+          <keyword>Patrimony</keyword>
+          <keyword>Ayrton Lolô Cornelsen</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Márcia Maria</givenname>
+            <familyname locale="pt_BR">Cavalieri</familyname>
+            <country>BR</country>
+            <email>cavalieri@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>316-330</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsp08-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Masp</title>
+        <subtitle locale="pt_BR">desafios da preservação e salvaguarda. adequação às normas de segurança contra incêndio e restauro das fachadas do museu de arte de São Paulo</subtitle>
+        <abstract locale="pt_BR">Este trabalho registra a metodologia adotada e os resultados obtidos, até o momento, no projeto e na execução de adequação do edifício do MASP às normas de segurança contra incêndio, e tem como objetivo contribuir para o debate sobre a preservação de edifícios modernos. A adequação do edifício do MASP para garantir a operação segura do museu, que atualmente recebe um fluxo de visitantes muito superior ao fluxo original, assim como o atendimento às normas de segurança contra incêndio, foram propostos em respeito à concepção original da edificação, em concreto, vidro e aço. Para a intervenção nas fachadas do volume elevado, foi desenvolvida uma metodologia de investigação dos sistemas e dos detalhes executivos originais, que instruíram as decisões de projeto e execução de acordo com os preceitos e com os desafios da preservação.</abstract>
+        <abstract locale="en_US">This report chronicles the methodology and the progress of the interventions implemented at the São Paulo Museum of Art (MASP) to comply with the fire protection code. The increase in visitors’ numbers in recent years and the adequacy of the fire protection code demand the proposal of interventions on the MASP building following the building’s original inception in concrete, iron, and glass. A prospection methodology of the existing façade system was proposed and guided the project and implementation decisions.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Restauro</keyword>
+          <keyword>Fachadas</keyword>
+          <keyword>MASP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Restoration</keyword>
+          <keyword>Facades</keyword>
+          <keyword>MASP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Miriam</givenname>
+            <familyname locale="pt_BR">Elwing</familyname>
+            <country>BR</country>
+            <email>elwing@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Marta</givenname>
+            <familyname locale="pt_BR">Ditolvo</familyname>
+            <country>BR</country>
+            <email>ditolvo@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Maria Aparecida</givenname>
+            <familyname locale="pt_BR">Soukef</familyname>
+            <country>BR</country>
+            <email>soukef@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>331-350</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsp08-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">Espaço como objeto de conservação</title>
+        <subtitle locale="pt_BR">um estudo diacrônico do pavilhão ciccillo matarazzo (1954-2021)</subtitle>
+        <abstract locale="pt_BR">Este artigo discute a questão do espaço como objeto de conservação da arquitetura moderna com base no Pavilhão Ciccillo Matarazzo, projeto de Oscar Niemeyer de 1954, que abriga a Bienal de São Paulo desde 1957. A discussão se suporta em um estudo diacrônico do edifício realizado junto ao Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo, cujo redesenho dos planos das exposições permitiu reconstituir os planos do edifício no ano de cada Bienal. O estudo demonstrou que, apesar de as exposições serem realizadas no mesmo edifício, sua espacialidade é substancialmente alterada ao longo das décadas. Além do mapeamento destas alterações, o artigo reflete sobre as implicações configuracionais às funções genéricas do edifício, e sobre como esse caso pode contribuir para pensar a conservação do espaço de modo mais amplo.</abstract>
+        <abstract locale="en_US">This paper discusses the issue of space as an object of conservation of modern architecture based on the Ciccillo Matarazzo Pavilion, a 1954 project by Oscar Niemeyer, which has housed the Bienal de São Paulo since 1957. The discussion is based on a diachronic study of the building carried out together to the Arquivo Histórico Wanda Svevo of the Fundação Bienal de São Paulo, whose redrawing of the exhibition plans made it possible to reconstitute the plans of the building in the year of each Bienal. The study showed that, despite the exhibitions being held in the same building, its spatiality is substantially changed over the decades. In addition to mapping these changes, the paper reflects on the configurational implications for the generic functions of the building, and on how this case can contribute to thinking about space conservation in a broader way.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Conservação</keyword>
+          <keyword>Espaço</keyword>
+          <keyword>Pavilhão Ciccillo Matarazzo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Ciccillo Matarazzo Pavilion</keyword>
+          <keyword>Conservation</keyword>
+          <keyword>Space</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lívia Morais</givenname>
+            <familyname locale="pt_BR">Nóbrega</familyname>
+            <country>BR</country>
+            <email>nobrega@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luiz Manuel do Eirado</givenname>
+            <familyname locale="pt_BR">Amorim</familyname>
+            <country>BR</country>
+            <email>amorim@ufpe.br</email>
+            <orcid>https://orcid.org/0000-0003-0393-6106</orcid>
+          </author>
+        </authors>
+        <pages>351-368</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsp08-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">O uso da grelha nos edifícios residenciais de mmm Roberto</title>
+        <subtitle locale="pt_BR">da regularidade à distorção</subtitle>
+        <abstract locale="pt_BR">Apesar do paralelismo com o grupo de Lucio Costa que projeta o edifício do Ministério de Educação, a historiografia em torno do Escritório MMM Roberto apresenta escassez de material gráfico e analítico. A segunda fase do escritório é exemplar: alinhados com Le Corbusier em favor de uma construção qualificada, os projetos reiteram a distinção entre arquitetura e construção via esquema Dom-ino e os cinco pontos. Fica implícita a dualidade entre a disposição das paredes, segundo a conveniência do programa, e a ordem unitária e geométrica da grelha, que comanda a locação dos suportes no espaço. O artigo analisa dois projetos residenciais com emprego extremo da grelha. No edifício Angel Ramirez, esta é absolutamente regular; no edifício Dona Fátima e Finúsia, comparecem nítidas distorções. Se na obra corbusiana é a promenade architecturale o agente modificador, na obra dos Roberto é a adaptação da barra às divisas e à densificação do programa.</abstract>
+        <abstract locale="en_US">Despite the parallelism with Lucio Costa's group that designed the Ministry of Education building, the historiography about the MMM Roberto Office shows shortage of graphic and analytical material. The second period of the office is exemplary: aligned with Le Corbusier in favor of qualified construction, the projects reforce the distinction between architecture and construction through the Dom-ino type structure and the five points. The duality between the walls arrangements’is implicit, according to the program’s arrangment, and the Unity order and geometrics of the grid, which governs the supports’ location in the space.The article analyzes two residential projects with extreme use of the grid. On one hand the Angel Ramirez building, it’s absolutely regular,on the other hand the Dona Fátima and Finúsia building, there’re clear distortions. If in Corbusier’s work the promenade architecturale is the modifying agent, in Roberto's work it’s theblockmodification to the limits of the plot and the densification of the program.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Edifício moderno</keyword>
+          <keyword>Escritório MMM Roberto</keyword>
+          <keyword>Grelha de apoios</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Building</keyword>
+          <keyword>MMM Roberto</keyword>
+          <keyword>the Grid’s supports</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luísa Dresch</givenname>
+            <familyname locale="pt_BR">Prediger</familyname>
+            <country>BR</country>
+            <email>prediger@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+        </authors>
+        <pages>369-384</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsp09-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">As decisões de preservação do patrimônio e seus diferentes interessados</title>
+        <abstract locale="pt_BR">O artigo trata sobre como as políticas públicas de preservação e salvaguarda do patrimônio arquitetônico e urbanístico se relacionam com a legislação brasileira. Será falado sobre o papel do poder público, da iniciativa privada e da sociedade nos planos de salvaguarda e como o equilíbrio e harmonização entres esses interesses pode ser conquistado para que a preservação seja bem sucedida. Será trazido para o debate, além da legislação e órgãos de proteção ao patrimônio, as recomendações imprescindíveis das cartas patrimoniais e de autores renomados. As diretrizes iniciais apresentadas devem ser um norte para um estudo amplo e necessário para a elaboração de um plano de salvaguarda exequível e eficaz.</abstract>
+        <abstract locale="en_US">The article deals with how public policies for preserving and safeguarding architectural and urban heritage relate to Brazilian legislation. It will talk about the role of public authorities, private initiative and society in safeguarding plans and how balance and harmonization between these interests can be achieved so that preservation is successful. In addition to legislation and heritage protection bodies, essential recommendations from heritage charters and renowned authors will be brought into the debate. The initial guidelines presented should be a guide for a broad and necessary study to develop a feasible and effective safeguard.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio</keyword>
+          <keyword>Salvaguarda</keyword>
+          <keyword>diretrizes</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>heritage</keyword>
+          <keyword>Safeguard.guidelines</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Adriana Lamoglia</givenname>
+            <familyname locale="pt_BR">Alcântara</familyname>
+            <country>BR</country>
+            <email>vincoloarquitetura@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tatiana</givenname>
+            <familyname locale="pt_BR">Fazan</familyname>
+            <country>BR</country>
+            <email>vincoloarquitetura@gmail.com</email>
+          </author>
+        </authors>
+        <pages>20-30</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsp09-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Um retrospecto da preservação do Patrimônio Arquitetônico moderno em Curitiba</title>
+        <subtitle locale="pt_BR">da documentação pioneira aos inventários digitais (1990- 2020)</subtitle>
+        <abstract locale="pt_BR">Este artigo realiza uma retrospectiva da trajetória da preservação da arquitetura moderna em Curitiba-PR. Os esforços pioneiros na década de 1970 catalogaram 330 obras representativas da identidade curitibana, em sua maioria ecléticas e datadas entre os séculos XVIII e XIX. Apenas na década 1990, após uma série de demolições arbitrárias de exemplares modernos, a mobilização da comunidade acadêmica acionou as autoridades sobre a relevância dessa categoria de patrimônio. Estes eventos culminaram na criação de um Grupo de Estudos especializado e, na década de 2000, foram realizados os primeiros levantamentos sistemáticos da arquitetura moderna. As reflexões teórico-metodológicas pautadas pelos pesquisadores consolidaram a diversidade de tipologias e delimitaram a primeira Proposta para a Preservação da Arquitetura Moderna de Curitiba, posteriormente absorvida integralmente pela municipalidade. Mais recentemente, em 2021, a criação do acervo digital Docomomo Paraná emerge como um recurso crucial, permitindo maior acessibilidade e interatividade. Esta plataforma acompanha novas demandas emergenciais, tornando-se um inventário aberto às novas contribuições, especialmente na catalogação de residências modernas em risco devido à crescente especulação imobiliária. O artigo visa sintetizar a interação entre agentes oficiais de tutela e iniciativas comunitárias, demonstrando como ações de grupos sociais influenciam diretamente as políticas públicas de preservação em Curitiba, podendo inspirar contextos semelhantes.</abstract>
+        <abstract locale="en_US">This article presents a retrospective of the trajectory of the preservation of modern architecture in Curitiba-PR. Pioneering efforts in the 1970s cataloged 330 works representing Curitiba's identity, most of them eclectic and dating between the 18th and 19th centuries. Only in the 1990s, after a series of arbitrary demolitions of modern examples, did the mobilization of the academic community inform authorities about the relevance of this category of heritage. These events culminated in the creation of a specialized Study Group and, in the 2000s, the first systematic surveys of modern architecture were carried out. The theoretical-methodological reflections guided by the researchers consolidated the diversity of typologies and delimited the first Proposal for the Preservation of Modern Architecture in Curitiba, later fully absorbed by the municipality. More recently, in 2021, the creation of the Docomomo Paraná digital collection emerges as a crucial resource, allowing greater accessibility and interactivity. This platform follows new emergency demands, becoming a truly participatory inventory, especially when cataloging modern homes at risk due to growing real estate speculation. The article aims to synthesize the interaction between official guardianship agents and community initiatives, demonstrating how actions by social groups directly influence public preservation policies in Curitiba, and can inspire similar contexts.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>preservação</keyword>
+          <keyword>moderno</keyword>
+          <keyword>Curitiba</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>preservation</keyword>
+          <keyword>modernism</keyword>
+          <keyword>Curitiba</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Emanuel Gonçalves</givenname>
+            <familyname locale="pt_BR">Aquino</familyname>
+            <country>BR</country>
+            <email>emanuelaquino@usp.br</email>
+            <orcid>https://orcid.org/0009-0001-0604-9927</orcid>
+          </author>
+        </authors>
+        <pages>31-43</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsp09-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">O Patrimônio Arquitetônico construído pelo plano de ação do litoral</title>
+        <abstract locale="pt_BR">A implementação do Plano de Ação (PAGE) na gestão do governador Carvalho Pinto no Estado de São Paulo (1959-1963) teve um impacto profundo na difusão e afirmação da arquitetura moderna em todo Estado, incluindo o litoral paulista, com a produção de mais de 1.000 equipamentos públicos. Até o Plano as obras públicas, na sua imensa maioria, eram projetadas pelo Departamento de Obras Públicas com uma arquitetura de extração eclética, neocolonial ou ainda possuíam uma linguagem corrente de difícil definição. As obras do PAGE foram implantadas quando a Arquitetura Moderna já conhecia ampla aceitação e há um ano da inauguração de Brasília, além de alinharem a produção estatal paulista com a produção arquitetônica em geral, não se restringindo a replicar soluções consagradas e existentes. A especulação arquitetônica propiciada e estimulada pelo PAGE deu vazão a um conjunto de concepções que renovavam a proposição da dimensão pública dos equipamentos através de uma pluralidade arquitetônica substantiva. Essa produção colocou em relevo a dimensão social da própria arquitetura moderna, e foi o terreno no qual se constituiu a corrente que veio a ser conhecida como escola paulista, uma das expressões da pluralidade arquitetônica.</abstract>
+        <abstract locale="en_US">The implementation of the Action Plan (PAGE) during the administration of Governor Carvalho Pinto in the State of São Paulo (1959-1963) had a profound impact on the dissemination and affirmation of modern architecture throughout the state, including the coast of São Paulo, with the production of more than 1,000 public facilities. Until the Plan, the vast majority of public works were designed by the Department of Public Works with an eclectic or neocolonial architecture or even used a language that was difficult to define. The PAGE projects were implemented when Modern Architecture was already widely accepted and one year after the inauguration of Brasília. In addition to aligning the state production of São Paulo with architectural production in general, they were not restricted to replicating established and existing solutions. The architectural speculation facilitated and stimulated by the PAGE gave rise to a set of concepts that renewed the proposition of the public dimension of facilities through a substantive architectural plurality. This production highlighted the social dimension of modern architecture itself, and was the terrain in which the movement that came to be known as the São Paulo school was established, one of the expressions of the architectural plurality developed.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Plano de Ação</keyword>
+          <keyword>Arquitetura Moderna no litoral paulista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Action Plan</keyword>
+          <keyword>Modern Architecture on the coast of São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Jasmine Luiza Souza</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6156-4086</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Fernanda Millan</givenname>
+            <familyname locale="pt_BR">Fachi</familyname>
+            <country>BR</country>
+            <email>fachi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4203-5335</orcid>
+          </author>
+        </authors>
+        <pages>44-59</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsp09-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Fumest (1970-1989)</title>
+        <subtitle locale="pt_BR">ascensão e queda de um projeto de infraestrutura turística para São Paulo</subtitle>
+        <abstract locale="pt_BR">O artigo traça um panorama em duas etapas da trajetória do Fomento de Urbanização e Melhoria das Estâncias – FUMEST, autarquia voltada ao planejamento e dotação de infraestrutura turística para o estado de São Paulo. Existente entre 1970 e 1989, construiu um relevante conjunto de obras, algumas delas paradigmáticas da produção moderna paulista. Seu acervo ainda não foi objeto de estudos acadêmicos e raramente obras importantes de arquitetos como João Walter e Odiléa Toscano, Botti Rubin, Luis Garcia Pardo e Abrahão Sanovicz são creditadas ao FUMEST. Sua experiência também é importante para compreender a história do planejamento regional durante a segunda metade do século XX. Seu fechamento resultou no abandono e descaracterização de muitas obras, simbolizando o enfraquecimento do planejamento estatal frente às dinâmicas privatistas observadas desde as últimas décadas do século passado.</abstract>
+        <abstract locale="en_US">The article provides a two-stage overview of the trajectory of the Promotion of Urbanization and Improvement of Resorts – FUMEST, an agency focused on planning and providing tourist infrastructure for the state of São Paulo. Existing between 1970 and 1989, it created a relevant set of works, some of them paradigmatic of modern production in São Paulo. Its collection has not yet been the subject of academic studies and important works by architects such as João Walter and Odiléa Toscano, Botti Rubin, Luis Garcia Pardo and Abrahão Sanovicz are rarely credited to FUMEST. Its experience is also important for understanding the history of regional planning during the second half of the 20th century. Its closure resulted in the abandonment and disrepair of many works, symbolizing the weakening of state planning in the face of the privatist dynamics observed since the last decades of the last century.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>FUMEST</keyword>
+          <keyword>Infraestrutura turística</keyword>
+          <keyword>Arquitetura moderna paulista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>FUMEST</keyword>
+          <keyword>Tourism infrastructure</keyword>
+          <keyword>Paulista modern architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ivo Renato</givenname>
+            <familyname locale="pt_BR">Giroto</familyname>
+            <country>BR</country>
+            <email>giroto@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-5062-0107</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">João Paulo Lobo</givenname>
+            <familyname locale="pt_BR">Coppio</familyname>
+            <country>BR</country>
+            <email>joao.coppio@usp.br</email>
+            <orcid>https://orcid.org/0009-0007-1096-3547</orcid>
+          </author>
+        </authors>
+        <pages>60-76</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsp09-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">O processo de revisão do tombamento de Patrimônio Cultural</title>
+        <subtitle locale="pt_BR">colégio doze de outubro, São Paulo</subtitle>
+        <abstract locale="pt_BR">O presente texto discute o tema do pós-tombamento de bem cultural edificado e o papel do Conselho Municipal diante de processos de revisão e eventual destombamento de patrimônio cultural. O objeto de estudo selecionado é o caso recente de decisão do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo – Conpresp, pela manifestação contrária ao recurso de revisão de tombamento do antigo Colégio Doze de Outubro, projetado pelos arquitetos João Batista Vilanova Artigas e Carlos Cascaldi em 1962 e tombado em 2018. A pesquisa utilizou de procedimentos metodológicos historiográficos para desenvolver um resgate do desenvolvimento da instituição de ensino, além de ilustrar através do projeto original dos arquitetos, as qualidades espaciais enaltecidas nos argumentos que justificaram o seu tombamento e que foram ratificados na tomada de decisão do Conpresp sobre o recurso de revisão do tombamento. Portanto, o objetivo do texto é divulgar a fundamentação e a relevância dos argumentos expostos, tanto no processo de tombamento do imóvel, quanto na apresentação da relatoria do DPH no processo de revisão. Os resultados expõem o papel do Conselho Municipal como órgão promotor, fiscalizador e de arbitragem entre os anseios da sociedade e da preservação cultural.</abstract>
+        <abstract locale="en_US">This text discusses the issue of post-listing of built cultural assets and the role of the Municipal Council in the review processes and eventual delisting of cultural heritage. The selected object of study is the recent case of a decision by the Municipal Council for the Preservation of Historical, Cultural and Environmental Heritage of the City of São Paulo – Conpresp, due to the opposition to the appeal for review of the listing of the former Colégio Doze de Outubro, designed by architects João Batista Vilanova Artigas and Carlos Cascaldi in 1962 and listed in 2018. The research used historiographical methodological procedures to develop a review of the development of the educational institution, in addition to illustrating, through the architects' original project, the spatial qualities highlighted in the arguments that justified its listing and that were ratified in the Conpresp decision-making on the appeal for review of the listing. Therefore, the purpose of the text is to disclose the basis and relevance of the arguments presented, both in the process of listing the property and in the presentation of the DPH report in the review process. The results expose the role of the Municipal Council as a promoting, monitoring and arbitrating body between the aspirations of society and cultural preservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio cultural</keyword>
+          <keyword>preservação</keyword>
+          <keyword>Colégio Doze de Outubro</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>cultural heritage</keyword>
+          <keyword>preservation</keyword>
+          <keyword>Colégio Doze de Outubro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luciana Monzillo de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>oliveira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-5299-1120</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maria Augusta Justi</givenname>
+            <familyname locale="pt_BR">Pisani</familyname>
+            <country>BR</country>
+            <email>pisani@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-0467-2854</orcid>
+          </author>
+        </authors>
+        <pages>77-93</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

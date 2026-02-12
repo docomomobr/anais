@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul05" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul05</id>
+  <description locale="pt_BR">5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>5</number>
+    <year>2016</year>
+    <title locale="pt_BR">5º Seminário Docomomo Sul, Porto Alegre, 2016</title>
+  </issue_identification>
+  <date_published>2016-07-25</date_published>
+  <last_modified>2016-07-25</last_modified>
+  <sections>
+    <section ref="SEC29-sdsul05" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">29</id>
+      <abbrev locale="pt_BR">SEC29-sdsul05</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsul05-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Wiener werkbundsiedlung</title>
+        <subtitle locale="pt_BR">vienna housing strategies after the collapse of the austrian empire – social housing in wien, 1920</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Markus</givenname>
+            <familyname locale="pt_BR">Tomaselli</familyname>
+            <affiliation locale="pt_BR">TU Wien</affiliation>
+            <country>BR</country>
+            <email>tomaselli@tuwien.ac.at</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsul05-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Escolas modernas em São Paulo</title>
+        <subtitle locale="pt_BR">passado e presente. o FDE sob a ótica das experiências de rino Levi, vilanova artigas e João Walter toscano</subtitle>
+        <abstract locale="pt_BR">A construção de escolas e edifícios docentes na metade do século XX permitiu aos arquitetos modernos o desenvolvimento de uma série de atributos, muitos deles com viés meio-ambiental. Especificamente no estado de São Paulo, nomes como Rino Levi, Vilanova Artigas, João Walter Toscano e Paulo Mendes da Rocha esboçaram, na resolução de programas docentes, elementos e estratégias de projeto que perduraram ao longo do século XX, chegando a influenciar novas experiências no século XXI. A partir da análise dos aspectos primordiais de edifícios como o Instituto Superior de Filosofia Sedes Sapientiae (19401942) – de Rino Levi, a Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959) – de João Walter Toscano ou a Escola Estadual de Itanhaém (1960-1961) – de Vilanova Artigas, é possível entender quais foram as bases sobre as quais se organizam alguns projetos contemporâneos de autoria de jovens arquitetos realizados no estado de São Paulo. Nesse sentido, as escolas promovidas pela Fundação para o Desenvolvimento da Educação (FDE) – da Secretaria de Educação do Estado de São Paulo – oferecem um amplo campo de pesquisa e comparação. Em centros como Escola Professora Selma Maria Martins Cunha (Grupo SP Arquitetos), A Escola Jardim Maria Helena (+ K Arquitetos) e a Escola de Ensino Fundamental FDE Campinas F1 (MMBB Arquitetos) é possível perceber nitidamente os “ecos” da arquitetura moderna supracitada. Se comparados esses grupos de escolas de diferentes épocas, algumas estratégias formais se reiteram,: arranjos gerais de implantação, volumetrias, configurações de salas de aulas e espaços de convívio, definições de espaços abertos e estruturas portantes. Determinados atributos arquitetônicos de controle meio-ambiental também são constantes e repetem-se em projetos tanto de um período como de outro. Os elementos que talvez saltem à vista mais rápido são os cobogós. Rino Levi aplicou na fachada oeste do bloco de salas de aula na Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959) uma série de cobogós formados por elementos vazados de cimento, os quais protegem o interior da incidência solar excessiva mas permitem que a circulação tenha ventilação e luminosidade filtrada. O mesmo acontece na escola Jardim Maria Helena (2006), projetada pelo escritório + K Arquitetos. A Escola Professora Selma Maria Martins Cunha (2008) distribui-se sobre um terreno de geometria irregular em dois blocos que refletem as partes do programa, formando um “L”: um bloco de salas de aula e espaços administrativos e um bloco que contém a cancha poliesportiva. O mesmo foi pensado para a Faculdade de Filosofia, Ciências e Letras de Itu (1958-1959), na qual o edifício assenta-se no recortado terreno por intermédio da fragmentação do programa em duas alas lineares, gerando diferentes pátios e espaços abertos. A utilização da estrutura como elemento de controle da incidência solar também parece ser uma constante na arquiteturas escolares de diferentes épocas aqui comparadas. A estrutura de pórticos com pilares de geometria triangular, lajes e vigas de concreto armado da Escola Estadual de Itanhaém (1960-1961) definem quase que totalmente o edifício construído. A proeminência da parte superior dos pilares na direção do perímetro da planta recebe lajes de cobertura que projetam sombra nas fachadas, controlando a incidência solar no interior das salas de aula. O mesmo pode ser visto na Escola de Ensino Fundamental Campinas F1 (2004), na qual a fachada norte fica protegida do sol pela projeção da cobertura. Nos projetos referidos abundam os principais atributos da arquitetura moderna brasileira: o emprego de rampas e a estipulação de percursos, os pilotis, a integração com os espaços abertos e com o entorno e o controle da incidência dos ventos e do sol. Quando colocados em relação conformam um edifício verdadeiramente sustentável, no qual os entraves meio-ambientais próprios do lugar são resolvidos com dispositivos arquitetônicos elementares.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>/key words: arquitetura escolar</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>sustentabilidade</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nicolás Sica</givenname>
+            <familyname locale="pt_BR">Palermo</familyname>
+            <affiliation locale="pt_BR">UFRGS</affiliation>
+            <country>BR</country>
+            <email>nicolas.sica@ufrgs.br</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsul05-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Hangar para o aeroporto nacional de Buenos Aires</title>
+        <subtitle locale="pt_BR">como Pier luigi nervi tentou implantar seu sistema construtivo na América do Sul</subtitle>
+        <abstract locale="pt_BR">O projeto para o hangar do Aeroporto Nacional de Buenos Aires, realizado em 1951 por Pier Luigi Nervi, foi uma das tentativas do arquiteto italiano de difundir suas novas técnicas construtivas na aparentemente promissora América do Sul. Sua relação com o continente é decorrente da amizade com Pietro Maria Bardi, jornalista italiano residente no Brasil. Existem registros de duas viagens de Nervi para o Brasil e a Argentina: em 1950 e 1951. Na primeira, Nervi recebe o prêmio honoris causa pela Faculdade de Arquitetura de Buenos Aires, onde promove um ciclo de palestras que resulta na publicação El lenguaje architectonico. Naquela oportunidade, o engenheiro também submete uma proposta ao concurso promovido pelo governo argentino para o hangar do Aeroporto de Buenos Aires. O edital requisitava dois hangares de 90m de vão e portão de 70m. Nervi propõe um único hangar com vão de 180m e aberto ao longo do maior lado. A estrutura é uma fina abóbada curva formada pelas peças do Sistema Nervi, encaixadas em pilares inclinados de concreto armado. De Buenos Aires segue para São Paulo, a convite de Bardi, onde contribui com projetos de Lina Bo. Na segunda viagem, Nervi apresenta numerosos estudos sobre a compatibilidade do sistema proposto para ao hangar com o contexto produtivo local, e acaba perseguindo algumas possibilidades mais simples, dada a dificuldade de importar uma técnica construtiva tão peculiar. O projeto não se concretiza, mas fica claro que Nervi estava pondo em prática uma lúcida estratégia de construção de sua fama internacional que atuava em diversos níveis: academia, publicações, prêmios e projetos. Apesar do fracasso na implantação do Sistema Nervi na Argentina, o arquiteto abriu a discussão sobre a relação entre técnica construtiva e linguagem arquitetônica, e sobre a necessidade de estudos experimentais, já que o cálculo estático se mostrava insuficiente para estruturas hiperestáticas. Essa herança acabou influenciando a prática de diversos arquitetos sul-americanos como Eládio Dieste e Amancio Williams, que tiveram significativo papel na ampliação do conceito da resistência pela forma, e conseguiram desenvolver novas técnicas construtivas compatíveis com o contexto do seus país.</abstract>
+        <abstract locale="en_US">The design for the Buenos Aires National Airport hangar was made in 1951 by Pier Luigi Nervi and was one of the attempts by the Italian architect to spread his new construction techniques in the promising South America. His relation with the continent is due to his friendship with Pietro Maria Bardi. Nervi traveled to Brazil and Argentina two times: one in 1950 and then again in 1951. In his first trip, Nervi was awarded by the Faculty of Architecture of Buenos Aires where he promotes a lecture that resulted in the publication El lenguaje architectonico. He also submited a proposal to the contest promoted by the Argentine government for the Buenos Aires Airport hangar, in which two hangars with 90m and 70m gate were demanded. Nervi proposed a single hangar with 180m and open on the wider dimension. The structure is a thin curved dome formed by parts of the Nervi’s System suportted by inclined pillars of reinforced concrete. From Buenos Aires, he went to São Paulo following the invitation of Bardi where he contributed with a lot of Lina Bo's projects. On his second trip, Nervi showed numerous studies comparing the system proposed for the hangar with the local context as he tried to come up with a simpler possibility, given the difficulty of importing this peculiar construction technique. The project was not executed, but it was clear that Nervi was putting into practice an intentonal strategy of building his international fame and was acting on several levels: academy, publications, awards and projects. Despite the failure in the implementation of Nervi's System in Argentina, the architect opened the discussion on the relation between construction techniques and architectural language, and the need for experimental studies, as the static calculation was insufficient to complex structures. This inheritance influenced the practice of several South American architects such as Eladio Dieste and Amancio Williams, who had a significant role in expanding the concept of resistance by the form, and were able to develop new construction techniques compatible with the context of their countries.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Nervi</keyword>
+          <keyword>hangar</keyword>
+          <keyword>pré-fabricado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Nervi</keyword>
+          <keyword>hangar</keyword>
+          <keyword>prefabricated</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paula Bem</givenname>
+            <familyname locale="pt_BR">Olivo</familyname>
+            <country>BR</country>
+            <email>olivo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2147-9332</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsul05-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">A casa varanda</title>
+        <subtitle locale="pt_BR">reverberação moderna na produção contemporânea brasileira</subtitle>
+        <abstract locale="pt_BR">Este artigo busca construir um comparativo entre duas residências: a Casa Lota (Arq. Sérgio Bernardes) e a Casa Varanda (Arq. Carla Juaçaba). A primeira, considerada exemplar da arquitetura moderna, e a segunda, uma referência contemporânea. O método de comparação possibilita observar a similaridade entre as duas residências, bem como a relação entre arquiteturas modernas e contemporâneas, através de análise gráfica e textual. Num primeiro olhar, observa-se que a Casa Varanda apresenta similaridades com a Casa Lota, na horizontalidade, no uso de materiais leves e no emprego de varandas, reinterpretada no projeto de um modo diverso – a casa é a própria varanda que se abre para o exterior, por meio de painéis de vidro. À luz destes comentários, o artigo objetiva identificar como a Casa Lota e as casas anteriores de Sérgio Bernardes interferem na concepção da Casa Varanda. A qual ganha destaque por nela, hipoteticamente, estarem hibridizadas referências à arquitetura residencial moderna na produção contemporânea brasileira. Em um contexto mais amplo, o artigo busca identificar a tradição moderna à luz da vertente da arquitetura norte-americana. A configuração em linha e o uso de materiais naturais nas casas de Wright, bem como o uso de estrutura metálica e transparência central na Casa Farnsworth de Mies Van der Rohe são claramente identificados na arquitetura de Bernardes. O programa Case Study Houses que empregava estruturas metálicas leves, treliças aparentes e tecnologia pré-fabricada também repercutiu nas decisões projetuais de ambas as casas, que, por sua vez, não se distanciam da tradição do Movimento moderno europeu. Desta forma, o processo de investigação comparativo parte de estudos sistemáticos dos princípios de forma, espaço e ordem que geram diagramas sintéticos interpretativos, sobre os quais foram elaborados textos que explicam e questionam os aspectos de cada proposta. O discurso dos problemas, das soluções, bem como das lições de arquitetura de cada estudo de caso permitiu a apreciação do papel do projeto como portador de ideias e intenções. Assim, pode-se dizer que a relevância desse estudo não reside somente na pesquisa histórica, crítica e projetual, mas também em um contexto mais amplo da arquitetura moderna brasileira.</abstract>
+        <abstract locale="en_US">This article seeks to build a comparison between two houses: the House Lota (Arq Sergio Bernardes.) and Varanda House (Arq Carla Juaçaba.). The first, considered exemplary of modern architecture, and the second, a contemporary reference. The comparison method makes it possible to observe the similarity between the two residences as well as the relationship between modern and contemporary architecture through textual and graphical analysis. At first glance, it is observed that the Varanda House has similarities with the Lota House, in horizontality, the use of lightweight materials and the use of balconies, reinterpreted in the project in a different way - the house is the very balcony that opens to the exterior through glass panels. In light of these comments, the article aims to identify how Lota’s House and the former houses of Sergio Bernardes interfere in the design of the Varanda’s House. Which is highlighted by it hypothetically be hybridized references to modern residential architecture in contemporary Brazilian production. In a broader context, the article seeks to identify the modern tradition to shed light on the American architecture. The line configuration and the use of natural materials in Wright houses, as well as the use of metal structure and central transparency in Mies Farnsworth House Van der Rohe are clearly identified in the Bernardes architecture. The Case Study Houses program employing light metal structures, exposed trusses and prefabricated technology also reflected in projective decisions of both houses, which, in turn, do not move away from the tradition of modern European Movement. Thus, the process of comparative research of systematic studies of the principles of form, space and order to generate synthetic interpretative diagrams, on which were prepared texts that explain and question aspects of each proposal. Speaking of problems, solutions and the architecture lessons from each case study allowed the assessment of the project's role as bearer of ideas and intentions. Thus, it can be said that the relevance of this study lies not only in historical research, criticism and architectural design, but also in a broader context of modern Brazilian architecture.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Residencial Moderna</keyword>
+          <keyword>Sérgio Bernardes</keyword>
+          <keyword>Análise Gráfica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Residential Modern Architecture</keyword>
+          <keyword>Sergio Bernardes</keyword>
+          <keyword>Graphical Analysis</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Pauline Fonini</givenname>
+            <familyname locale="pt_BR">Felin</familyname>
+            <country>BR</country>
+            <email>felin@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Monika Maria</givenname>
+            <familyname locale="pt_BR">Stumpp</familyname>
+            <country>BR</country>
+            <email>stumpp@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5017-770X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2016-07-25" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsul05-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2016-07-25" section_ref="SEC29-sdsul05" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Museu Oscar niemeyer</title>
+        <subtitle locale="pt_BR">o anexo como protagonista</subtitle>
+        <abstract locale="pt_BR">O artigo trata do edifício “Olho” (2000-2002) projeto de Oscar Niemeyer pelo qual transformou em Museu uma sua própria obra anterior – o edifício Humberto Castelo Branco, originalmente projetado, em 1967, foi concebido para abrigar o Instituto de Educação do Paraná, em Curitiba. Entretanto, acabou por razões políticas e longo período, abrigando secretarias do Estado. A proposição para utilização, como Museu ocorreu mais de três décadas após o projeto original. Em 2002, o então governador Jaime Lerner convidou o arquiteto para desenvolver a ampliação e reconversão do prédio para transformá-lo em Museu. O artigo confronta algumas interpretações dos procedimentos projetuais de O. N. por meio de verificações do desenvolvimento da solução proposta no ano 2002, em relação ao repertório e condutas compositivas observáveis em 1967. Localiza-se na continuidade dos temas apresentados no 7º DOCOMOMO Brasil e no III PROJETAR que trataram de reciclagem- rearquitetura requalificação -, ambos realizados em Porto Alegre, em 2007. O edifício pré-existente, embora contivesse uma arquitetura de qualidade foi durante muito tempo desconsiderado na historiografia das obras do arquiteto. Basta lembrar sua ausência no livro de J. Ma. Botey (1996) tido como um dos que melhor registraram os trabalhos de O.N. Entretanto, a sua proposição é pioneira na obra de O.N. a conter um volume de grande porte, definido por uma caixa completamente fechada (edifício viga). Suas paredes laterais e as alveolares internas funcionam como vigas possibilitando grandes vãos e balanços apoiando-se em 24 pilares piramidais truncados, permitindo um térreo livre. Esta proposta ensaiou o projeto do edifício das salas de aula da Universidade de Costantine (1969-1972). A reconversão do edifício à função museológica ocorreu por meio do projeto de reformulação interno e da constituição de um “anexo” realizando requalificando a antiga obra e ainda expandindo seu uso público. A definição do edifício “Olho” como “anexo” é discutível. Anexos são categorizados, nos dicionários de arquitetura, como peças suplementares ou apêndices para edificações existentes. Quase sempre se configuram como novas alas, adições de corpos menores ou construções para receber programas adicionais. Em seu aceite ao convite de Jaime Lerner Niemeyer condicionou seu projeto à execução de um novo prédio que viesse a ser um símbolo de uma hodierna instituição cultural. Formou-se uma disposição de tornar a pretendida ampliação ou “anexo” numa deliberada definição: a nova construção deveria ter papel de protagonista em relação ao Edifício pré-existente. O artigo dentro deste pressuposto conduz uma leitura dos elementos e procedimentos que O. N. teria se utilizado (ou não) em termos de novas proposições para a reciclagem do moderno edifício de 1967. A análise destas ações será conduzida a partir de três interpretações predominantes, dentro de reconhecidos procedimentos de O. N. em seus trabalhos. A primeira é a de que nas obras mais recente utilizou repertórios e procedimentos compositivos com os quais já havia constituído em sua linguagem. A segunda é de que ampliou, entre a obra inicial e o projeto de reciclagem, seu repertório arquitetônico, tanto no modo de adequar programas museológicos, como no repertório de formas estruturas tectônicas de que se utilizou. A terceira se baseia em que o protagonismo do “anexo” se deve não só à reutilização de elementos do arsenal próprio, já constituído ao longo de sua carreira, mas a novas relações entre eles que foram capazes de empreender na reciclagem novas relações entre os componentes de sua linguagem, não se fixando apenas nas meras aparências de seus elementos. O que se manifesta entre elementos conhecidos de seu repertório como as barras, as cascas, os cálices, edifícios circulares, torres, calotas, rampas e pérgolas orgânicas etc. é a proposição da expansão do Museu Oscar Niemeyer não como “anexo”, mas que reverbera como protagonista o qual por meio de novas relações com o lugar, com as pré-existências modernas atualiza e obra e conduz a uma reconversão qualificada.</abstract>
+        <abstract locale="en_US">The article deals with the building &quot;The Eye&quot; (2000-2002) a project by Oscar Niemeyer by which turned into a museum one of his own earlier work - the building Humberto Castelo Branco, originally designed in 1967, was designed to house the Institute of Education of Paraná, in Curitiba. However, for political reasons, it housed for a long time several state secretariats. The proposition to it use as a museum occurred more than three decades after the original design. In 2002, the then State Governor Jaime Lerner invited the architect to develop the expansion and the conversion of the building into a museum. The article confronts some interpretations of Oscar Niemeyer’s projective procedures through verifications on the development of solutions proposed in 2002, in relation to the repertoire and compositional behaviors observable in 1967. It is located in the continuity of the topics presented in the 7th DOCOMOMO Brazil and III PROJETAR which dealt with building recycling- rearchitecture, requalification - both held in Porto Alegre in 2007. The pre-existing building, though it contained quality architecture, has long been overlooked in the historiography of the works of the architect. We just need to note its absence in the book of J. Ma. Botey (1996), considered one of the best in recording the work of Oscar Niemeyer. Still, its proposition is pioneering in the work of O.N. to contain a large volume, defined by a completely closed box (chevron building). Its sidewalls and the cellular internal walls function as beams enabling large spans and balances relying on 24 truncated pyramidal pillars, allowing a free ground. This proposal worked as a rehearsal for the building design of the classrooms of the University of Costantine (1969-1972). The conversion of the building to a museological function occurred through a project of internal restructuring and the establishment of an &quot;annex&quot; requalifying the old work and still expanding its public use. The definition of the buil</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Museu Oscar Niemeyer- Oscar Niemeyer- Projeto de arquitetura</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rafael Antonio Cunha</givenname>
+            <familyname locale="pt_BR">Perrone</familyname>
+            <affiliation locale="pt_BR">FAU-USP</affiliation>
+            <country>BR</country>
+            <email>racperrone@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8087-9948</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Simone</givenname>
+            <familyname locale="pt_BR">Neiva</familyname>
+            <affiliation locale="pt_BR">UVV</affiliation>
+            <country>BR</country>
+            <email>simoneiva@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3791-4888</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

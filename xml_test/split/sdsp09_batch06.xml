@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsp09-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Cultura e patrimônio no Rio de brizola e darcy Ribeiro</title>
+        <abstract locale="pt_BR">O artigo pretende analisar as ações de cultura e patrimônio no primeiro Governo de Leonel Brizola no Estado do Rio de Janeiro, por meio do resgate histórico daquelas ações, a partir de pesquisa em arquivos e biliografia do período. Aquele governo foi muito inovador em várias áreas da cultura e da educação, principalmente pela ação do Vice-Governador (e Secretário de Ciência e Cultura), o antropólogo Darcy Ribeiro. Quanto ao tema do patrimônio, a ação desse governo abrangeu uma variedade e uma quantidade de espaços e iniciativas dificilmente igualável. O instituto do tombamento pela via de órgãos estaduais foi a ferramenta mais utilizada, envolvendo não apenas a tradição barroca que os órgãos federais da mesma natureza consolidaram como experiência predominante. O resultado foi muito positivo, que chega até nosso tempo, e o valor daquela experiência poderia inspirar ações similares.</abstract>
+        <abstract locale="en_US">The article intends to analyse the cultural and heritage actions in the first Government of Leonel Brizola in the State of Rio de Janeiro, through the historical review of these actions, based on research in archives and biography of the period. That government was very innovative in several areas of culture and education, mainly due to the work of the Vice-Governor (and Secretary of Science and Culture), the anthropologist Darcy Ribeiro. Regarding the theme of heritage, this government's action covered a variety and quantity of spaces and initiatives that would be difficult to match. The institution of listing through state bodies was the most used tool, involving not only the baroque tradition that federal bodies of the same nature consolidated as the predominant experience. The result was very positive, which continues to this day, and the value of that experience could inspire similar actions.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio moderno no Estado do Rio de Janeiro</keyword>
+          <keyword>Governo Leonel Brizola</keyword>
+          <keyword>Tombamento</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern heritage in Rio de Janeiro State</keyword>
+          <keyword>Leonel Brizola Government</keyword>
+          <keyword>Landmarking</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fabrício Ribeiro dos Santos</givenname>
+            <familyname locale="pt_BR">Godoi</familyname>
+            <country>BR</country>
+            <email>fabricio.godoi@usp.br</email>
+            <orcid>https://orcid.org/0000-0003-2196-8339</orcid>
+          </author>
+        </authors>
+        <pages>382-392</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsp09-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Preservação do Patrimônio Moderno, os conselhos municipais e o papel dos profissionais de Arquitetura e Urbanismo</title>
+        <subtitle locale="pt_BR">um olhar sobre araraquara e São Carlos</subtitle>
+        <abstract locale="pt_BR">As transformações na cidade contemporânea exigem ações de preservação do patrimônio cultural integradas ao desenvolvimento urbano e à identidade, com abordagem transdisciplinar que envolva a participação da sociedade e estabeleça políticas eficazes de proteção, identificação e preservação dos bens culturais. O trabalho se concentra nas cidades de Araraquara e São Carlos, analisa medidas municipais de proteção do patrimônio moderno e sugere diretrizes para integrar políticas de preservação ao planejamento urbano. Em Araraquara, a proteção de edifícios históricos é promovida por meio do tombamento, integrado ao Plano Diretor, e inventários participativos para mapear bens culturais. Em São Carlos, a proteção é garantida por um perímetro definido no Plano Diretor e políticas integradas entre a Fundação Pró-Memória e secretarias municipais, resultando em incentivos fiscais para a conservação de imóveis históricos. Ambas as cidades utilizam inventários para identificar bens culturais, mas o patrimônio moderno é sub-representado e enfrenta desafios na integração com o planejamento urbano e na atuação técnica dos conselhos municipais de preservação, destacando a importância da participação das universidades. As políticas de Araraquara e São Carlos exemplificam como medidas locais podem proteger o patrimônio cultural em consonância com as diretrizes nacionais, mas ainda necessitam de ações para valorizar o patrimônio moderno.</abstract>
+        <abstract locale="en_US">The transformations in contemporary cities require cultural heritage preservation actions integrated with urban development and identity, using a transdisciplinary approach that involves society's participation and establishes effective policies for the protection, identification, and preservation of cultural assets. This work focuses on the cities of Araraquara and São Carlos, analyzes municipal measures for the protection of modern heritage, and suggests guidelines for integrating preservation policies into urban planning. In Araraquara, the protection of historic buildings is promoted through heritage listing, integrated into the Master Plan, and participatory inventories to map cultural assets. In São Carlos, protection is ensured by a perimeter defined in the Master Plan and integrated policies between the Fundação Pró-Memória and municipal departments, resulting in tax incentives for the conservation of historic properties. Both cities use inventories to identify cultural assets, but modern heritage is underrepresented and faces challenges in integrating with urban planning and the technical performance of municipal preservation councils, highlighting the importance of university participation. The policies of Araraquara and São Carlos exemplify how local measures can protect cultural heritage in line with national guidelines but still require actions to value modern heritage.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Preservação patrimônio moderno</keyword>
+          <keyword>Tombamento e perímetro de proteção</keyword>
+          <keyword>Incentivos fiscais</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Preservation of Modern Heritage</keyword>
+          <keyword>Listing and Protection Perimeter</keyword>
+          <keyword>Tax incentives</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maísa Fonseca</givenname>
+            <familyname locale="pt_BR">de Almeida</familyname>
+            <country>BR</country>
+            <email>almeida@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8824-1738</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luis Gustavo</givenname>
+            <familyname locale="pt_BR">Lucatelli</familyname>
+            <country>BR</country>
+            <email>luislucatelli@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4827-3097</orcid>
+          </author>
+        </authors>
+        <pages>393-409</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

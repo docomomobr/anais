@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsp09-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Casa de saúde anchieta</title>
+        <subtitle locale="pt_BR">preservação do Patrimônio Histórico-cultural santista e resgate à memória</subtitle>
+        <abstract locale="pt_BR">O projeto “Formação e Produção para Preservação de Patrimônio Histórico-Cultural: Resgate à Memória” foi realizado pelo coletivo ATHIS na Baixada – AnB, em parceria com a Associação Cultural José Martí e com fomento do CAU/SP, tendo como objetivo a elaboração de uma proposta de restauro e reabilitação do imóvel de interesse histórico-cultural da antiga Casa de Saúde Anchieta, considerada, à época de sua construção, em 1953, um dos maiores e mais modernos hospitais psiquiátricos da América do Sul. Localizado em Santos/SP, o edifício abriga a Comunidade Anchieta, uma ocupação de 70 famílias que ali moram há mais de 20 anos e, há 10 anos, movem uma ação de usucapião coletiva na justiça. As atividades consistiram na realização de aulas teóricas e práticas, nas quais foram aplicadas metodologias para o resgate da memória através da pesquisa histórica, levantamento cadastral e fotográfico, caracterização topológica, cronologia construtiva, mapeamento de danos, relatório de conservação e proposta de intervenção no edifício, que representa um marco na luta antimanicomial, por ter sido a primeira intervenção do gênero no país, realizada em 1989.</abstract>
+        <abstract locale="en_US">The project “Training and Production for the Preservation of Historical-Cultural Heritage: Rescue of Memory” was carried out by the collective “ATHIS na Baixada – AnB” in partnership with the “Associação Cultural José Martí” and supported by the CAU/SP, with the objective being the elaboration of a proposal for the restoration and rehabilitation of the property of historical and cultural interest of the former “Casa de Saúde Anchieta”, considered at the time of its construction, in 1953, as one of the largest and most modern psychiatric hospitals in South America. Located in Santos/SP, the building houses the Anchieta Community, an occupation of 70 families who have lived in the building for over 20 years and who have been promoting a collective adverse possession action for 10 years, which is being processed in court. The activities consisted of theoretical and practical classes, in which methodologies were applied to rescue memory through historical research, cadastral and photographic surveys, topological characterization, construction chronology, damage mapping, conservation report and proposal for intervention in the building that represents a milestone in the anti-asylum struggle, as it was the first intervention of its kind in the country, carried out in 1989.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>reabilitação</keyword>
+          <keyword>habitação social</keyword>
+          <keyword>ATHIS</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>retrofit</keyword>
+          <keyword>social housing</keyword>
+          <keyword>ATHIS</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Daniela Colin</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>daniela.colin@usf.edu.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Amanda</givenname>
+            <familyname locale="pt_BR">Guerra</familyname>
+            <country>BR</country>
+            <email>amanndaguerra@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">André Jost</givenname>
+            <familyname locale="pt_BR">Mafra</familyname>
+            <country>BR</country>
+            <email>andrejostmafra44@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-8115-0902</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Jean Pierre de Moraes</givenname>
+            <familyname locale="pt_BR">Crété</familyname>
+            <country>BR</country>
+            <email>jean.pierre@athisnabaixada.com</email>
+            <orcid>https://orcid.org/0000-0002-4378-2087</orcid>
+          </author>
+        </authors>
+        <pages>310-324</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsp09-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Edifício irajá</title>
+        <subtitle locale="pt_BR">projeto de restauração de Uma obra moderna não tombada</subtitle>
+        <abstract locale="pt_BR">A presente comunicação refere-se ao Projeto de Intervenção Restaurativa e Adaptativa das fachadas e coberturas do Edifício Irajá – localizado no bairro Higienópolis, na cidade de São Paulo –, uma obra não reconhecida oficialmente como patrimônio cultural, onde o condomínio se motivou a contratar um projeto de restauro que resgata aspectos sensíveis ao projeto original que foram perdidos, e poderão ser recuperados. O projeto proposto prevê a restauração e adaptação do edifício para atender as necessidades contemporâneas, bem como corrigir problemas relativos ao seu precário estado de conservação. A partir do conhecimento advindo das etapas de levantamento, de identificação das patologias e de suas causas, do resultado das pesquisas histórica e documental realizada, estabeleceu-se diretrizes para que o projeto fosse de encontro à preservação da arquitetura existente. Em linhas gerais, as intervenções foram organizadas em duas partes: de caráter emergencial, que corresponde aos serviços civis, e de caráter secundário, tratando-se dos serviços de adaptação de elementos arquitetônicos.</abstract>
+        <abstract locale="en_US">This communication refers to the Restorative and Adaptive Intervention Project of the façades and roofing of the Irajá Building – located at the Higienópolis neighborhood, in the city of São Paulo –, a building not officially recognized as cultural heritage, where the condominium was motivated to contract a restoration project that rescues sensitive aspects of the original project that were lost, and could be recovered. The proposed project envisages the restoration and adaptation of the building to meet contemporary needs, as well as correcting problems relating to its precarious state of conservation. Based on the knowledge arising from the survey stages, identification of pathologies and their causes, and the results of the historical and documentary research carried out, guidelines were established so that the project would meet the preservation of the existing architecture. In general terms, the interventions were organized into two parts: of an emergency nature, which corresponds to civil services, and of a secondary nature, dealing with adaptation services for architectural elements.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>restauração</keyword>
+          <keyword>conservação</keyword>
+          <keyword>intervenção</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>restoration</keyword>
+          <keyword>conservation</keyword>
+          <keyword>intervention</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Letícia Martins</givenname>
+            <familyname locale="pt_BR">Baldo</familyname>
+            <country>BR</country>
+            <email>leticia@mld.arq.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Daniel Luiz Vieira</givenname>
+            <familyname locale="pt_BR">Carcavalli</familyname>
+            <country>BR</country>
+            <email>carcavalli@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Maria Luiza</givenname>
+            <familyname locale="pt_BR">Dutra</familyname>
+            <country>BR</country>
+            <email>dutra@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Diego Petrini</givenname>
+            <familyname locale="pt_BR">Pinheiro</familyname>
+            <country>BR</country>
+            <email>pinheiro@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>325-339</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsp09-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">O tombamento dos imóveis do bairro de Higienópolis, 1992-2014</title>
+        <abstract locale="pt_BR">Esta comunicação apresenta, analisa e discute o longo processo da abertura de tombamento de imóveis no bairro paulistano de Higienópolis, proposto pelo Departamento de Patrimônio Histórico da Cidade de São Paulo, em 1992, que só veio a se encerrar mais de 20 anos depois. Durante o longo processo, argumentamos que se foram perdendo as perspectivas de um entendimento da paisagem ambiental urbana do conjunto dos bens que pretendiam ser protegidos pelo tombamento. Essa perda de uma visão geral sobre a cidade, centrando o processo do tombamento em edifícios tomados isoladamente, reduz a capacidade de entendimento da cidade e privilegia interesses do mercado que pode, então, se concentrar na luta por cada edificação. Pretende-se, também, refletir sobre a importância das tendências políticas das administrações municipais que comandam as políticas públicas de preservação, afetando o desenvolvimento dos processos de salvaguarda e desenvolvimento dos remanescentes construídos pelas sociedades passadas, mas ainda vivos entre nós.</abstract>
+        <abstract locale="en_US">This communication presents, analyzes and discusses the long process of opening the listing of properties in the Sao Paulo neighborhood of Higienopolis, proposed by the Department of Historical Heritage of the City of São Paulo, in 1992, which only came to an end more than 20 years later. During the long process, we argue that the prospects for an understanding of the urban environmental landscape of the set of assets that intended to be protected by listing were lost. This loss of a general view of the city, focusing the listing process on buildings taken in isolation, reduces the ability to understand the city and privileges market interests, which can then focus on the fight for each building. It is also intended to reflect on the importance of the political tendencies of municipal administrations that command public preservation policies, affecting the development of safeguarding and development processes of the remnants built by past societies, but still alive among us.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Paisagem</keyword>
+          <keyword>Patrimônio ambiental urbano</keyword>
+          <keyword>IGEPAC-SP</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Landscape</keyword>
+          <keyword>Urban environmental heritage</keyword>
+          <keyword>IGEPAC-SP</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando Guillermo</givenname>
+            <familyname locale="pt_BR">Vázquez Ramos</familyname>
+            <country>BR</country>
+            <email>prof.vazquez@usjt.br</email>
+            <orcid>https://orcid.org/0000-0003-3472-5598</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andréa de Oliveira</givenname>
+            <familyname locale="pt_BR">Tourinho</familyname>
+            <country>BR</country>
+            <email>tourinho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-8672-9366</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Katiuscia Lopes de</givenname>
+            <familyname locale="pt_BR">Faria</familyname>
+            <country>BR</country>
+            <email>kfaria@casak.arq.br</email>
+          </author>
+        </authors>
+        <pages>340-354</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsp09-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">&quot;Brasília revisitada&quot;</title>
+        <subtitle locale="pt_BR">revisão do moderno na urbanística de lucio Costa</subtitle>
+        <abstract locale="pt_BR">O artigo analisa as proposições de &quot;Brasília Revisitada&quot; e o projeto das Quadras Econômicas de Lucio Costa, situando essas propostas dentro do contexto da pós-modernidade e das revisões do moderno. O estudo avalia a unidade morfologica urbana do projeto para as Quadras Econômicas em um procedimento de colagem, quanto a posição de Lucio Costa no debate sobre as revisões do moderno, examinando como o contexto histórico dos anos 1980 influenciou sua abordagem urbanística. Foram consultados os arquivos do espólio de Lucio Costa, preservados na Casa da Arquitectura, e analisados os desenhos e o memorial descritivo elaborados pelo arquiteto. Além disso, o estudo integrou uma revisão bibliográfica para entender o contexto teórico e prático das intervenções de Lucio Costa. A pesquisa revela a complexidade e a revisão das propostas de Lucio Costa, destacando sua contribuição única para o urbanismo e a arquitetura, e como essas propostas se inserem nas discussões sobre o contexto do moderno no final do século XX.</abstract>
+        <abstract locale="en_US">The article analyzes the propositions of &quot;Brasília Revisitada&quot; and Lucio Costa's Quadras Econômicas project, placing these proposals within the context of postmodernity and revisions of modernism. The study evaluates the urban morphological unit of the project for the Economic Blocks in a collage procedure, regarding Lucio Costa's position in the debate on modern revisions, examining how the historical context of the 1980s influenced his urban approach. The archives of Lucio Costa's estate, preserved at Casa da Arquitectura, were consulted and the drawings and descriptive memorial prepared by the architect were analyzed. Furthermore, the study integrated a bibliographical review to understand the theoretical and practical context of Lucio Costa's interventions. The research reveals the complexity and revision of Lucio Costa's proposals, highlighting his unique contribution to urbanism and architecture, and how these proposals fit into discussions about the context of modernity at the end of the 20th century.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Lucio Costa</keyword>
+          <keyword>Brasília Revisitada</keyword>
+          <keyword>Urbanismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Lucio Costa</keyword>
+          <keyword>Brasília Revisitada</keyword>
+          <keyword>Urbanism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carla Conceição</givenname>
+            <familyname locale="pt_BR">Barreto</familyname>
+            <country>BR</country>
+            <email>correiodacarla@gmail.com</email>
+          </author>
+        </authors>
+        <pages>355-366</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsp09-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Preservação da Arquitetura industrial</title>
+        <subtitle locale="pt_BR">transferência do armazém 7, Santos, SP</subtitle>
+        <abstract locale="pt_BR">A preservação da arquitetura industrial é o tema do artigo que apresentamos, sendo o Armazém 7, do porto de Santos, nosso estudo de caso, na medida em que diversos esforços estão sendo implementados para sua salvaguarda. A ênfase do texto convida o leitor a refletir sobre imposição de medidas radicais, no caso o reposicionamento do edifício, para a preservação desse único exemplar pré-fabricado de componentes metálicos que restou na paisagem do cais.</abstract>
+        <abstract locale="en_US">The preservation of industrial architecture is the theme of the article we present, with Warehouse 7, in the port of Santos, being our case study, as several efforts are being implemented to safeguard it. The emphasis of the text invites the reader to reflect on the imposition of radical measures, in this case the repositioning of the building, to preserve this only prefabricated example of metallic components that remained in the pier landscape.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Preservação</keyword>
+          <keyword>Arquitetura Industrial</keyword>
+          <keyword>Porto de Santos</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Preservation</keyword>
+          <keyword>Industrial Architecture</keyword>
+          <keyword>Port of Santos</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gino Caldatto</givenname>
+            <familyname locale="pt_BR">Barbosa</familyname>
+            <country>BR</country>
+            <email>gcaldatto@gmail.com</email>
+          </author>
+        </authors>
+        <pages>367-381</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

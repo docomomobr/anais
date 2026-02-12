@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdbr03" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdbr03</id>
+  <description locale="pt_BR">3º Seminário Docomomo Brasil: anais: a permanência do moderno [recurso eletrônico]. São Carlos: EESC-USP, 1999. ISBN 85-85205-56-3</description>
+  <issue_identification>
+    <volume>1</volume>
+    <number>3</number>
+    <year>1999</year>
+    <title locale="pt_BR">3º Seminário Docomomo Brasil, São Paulo, 1999</title>
+  </issue_identification>
+  <date_published>1999-01-01</date_published>
+  <last_modified>1999-01-01</last_modified>
+  <sections>
+    <section ref="ART-sdbr03" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">0</id>
+      <abbrev locale="pt_BR">ART-sdbr03</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdbr03-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Arquitetura da infraestrutura da saúde em Santa Catarina 1935/1945</title>
+        <abstract locale="pt_BR">Após a revolução de 1930 o Estado apoiado por intelectuais que ocuparam cargos chaves, empreendeu a modernização da nação. No Estado Novo, o Estado autoritário, centralizador, interventor, foi o agente do desenvolvimento da nação. A saúde tornou-se prioritária, com a criação do Departamento Nacional de Saúde. Em 1935, Nereu Ramos elegeu-se governador de Santa Catarina, permanecendo no cargo até 1945. Ramos empreendeu ações para a modernização de SC. Entre elas, a consolidação da nação brasileira através da constituição de um novo espaço catarinense, dissolvendo as diversidades dessa sociedade, com reformas sociais atingindo as camadas mais pobres, modificando os modos de vida tradicionais . O Serviço de Saúde Pública foi reorganizado, criando-se uma infra-estrutura de Centros, Postos de Saúde e Hospitais. Conceitos de eficiência e funcionalidade estavam expressos nas plantas, para atender a programas inovadores. As linguagens arquitetônicas adotadas nesses edifícios traduziam a aspiração pela modernidade. Tendo-se como exemplos projetos elaborados pelo Departamento Nacional de Saúde. O Posto de Saúde de Joinville, racionalista, e o de Laguna, com traços neocoloniais, demonstrando a polêmica sobre a linguagem a ser adotada como expressão formal da modernidade.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Maria Gadelha Albano</givenname>
+            <familyname locale="pt_BR">Amora</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0009-0007-1064-364X</orcid>
+          </author>
+        </authors>
+        <pages>1-12</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdbr03-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">Arquitetura moderna</title>
+        <subtitle locale="pt_BR">ruptura ou continuidade</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Anat</givenname>
+            <familyname locale="pt_BR">Falbel</familyname>
+            <country>BR</country>
+            <email>falbel@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0009-3934-9537</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Gabriela Godinho</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>gabriela.lima@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0003-2529-0596</orcid>
+          </author>
+        </authors>
+        <pages>1-8</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdbr03-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">O passado mora ao lado</title>
+        <subtitle locale="pt_BR">Lúcio Costa e o projeto do Grand Hotel de Ouro Preto, 1938/40</subtitle>
+        <abstract locale="pt_BR">Análise comparativa do estudo neocolonial de Carlos Leão em 1938, da barra com cobertura plana de Oscar Niemeyer no verão de 1939, da variante com telhado de barro em duas águas que se segue e do projeto definitivo com telhado de uma água, documentando a atuação de Lúcio Costa no abandono do pastiche e nas transformações do projeto moderno.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Eduardo Dias</givenname>
+            <familyname locale="pt_BR">Comas</familyname>
+            <country>BR</country>
+            <email>ccomas@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0002-7368-7603</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdbr03-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Arquitetura moderna em Araraquara</title>
+        <subtitle locale="pt_BR">inventário</subtitle>
+        <abstract locale="pt_BR">Araraquara situa-se no centro do Estado de São Paulo. Com cerca de 180.000 habitantes e sólida economia agro – comercial – industrial, tem suas origens de ocupação nos fins do séc. XVIII e início do séc. XIX. O fastígio da cafeicultura propiciou a sua esmerada urbanização, com a participação de profissionais da capital como o prof. eng. Alexandre Albuquerque e o eng. Alexandre Ribeiro Marcondes Machado. O incremento industrial e a importância que a cidade assume nos anos 40 e 50, possibilitarão o ingresso da nova arquitetura : a sede Regional do DER, de 1948, de autoria do arquiteto Oswaldo Arthur Bratke. Primeiro exemplar da arquitetura moderna na cidade. Seguem-se projetos e obras de variados programas, de autoria de renomados arquitetos, entre outros : Abelardo de Souza, Anhaia Mello, Carlos Cascaldi, Carlos Millan, David Libeskind, Eduardo Corona, Gustavo N. R. Filho, Ícaro de Castro Mello, João C. de Abreu, João W. Toscano, Luis R. C. Franco, Oscar Valdetaro, Oswaldo C. Gonçalves, Paulo J. V. Bruna, Rino Levi, Roberto C. Cesar, Sérgio W. Bernardes e os conterrâneos.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Eduardo</givenname>
+            <familyname locale="pt_BR">Lauand Sobrinho</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Francisco José</givenname>
+            <familyname locale="pt_BR">Santoro</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0002-9964-461X</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">René Antonio</givenname>
+            <familyname locale="pt_BR">Nusdeu</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+          </author>
+        </authors>
+        <pages>1-7</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdbr03-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">Teorias e práticas &quot;modernistas&quot; nas disciplinas de projeto</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maísa</givenname>
+            <familyname locale="pt_BR">Veloso</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-3224-2245</orcid>
+          </author>
+        </authors>
+        <pages>1-9</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdbr03-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">O Laboratório de Ensaio de Materiais da Escola Politécnica de São Paulo 1926-1934</title>
+        <abstract locale="pt_BR">A urbanização acelerada e o desenvolvimento industrial da cidade de São Paulo, no início do século, fornecem um dos cenários em que se dá a difusão do &quot;cimento armado&quot; no Brasil. Discute-se na época, a criação de um &quot;instituto de tecnologia&quot; ou de um &quot;laboratório central&quot; que apoiasse esse crescimento. A melhor alternativa encontrada, inclusive levando-se em consideração o orçamento do Estado, foi a de oferecer ao Gabinete de Resistência dos Materiais da Escola Politécnica de São Paulo (então um laboratório didático da instituição), melhores condições para sua reestruturação e crescimento. Como figura central desta reestruturação, surge Ary Torres, que após estudos e intercâmbio em Laboratórios Europeus, apresenta projeto de remodelação e assume a direção da instituição. Estas mudanças caracterizam o início da atuação do Laboratório de Ensaio de Materiais - LEM. Amplia-se o campo de atuação do Laboratório para além do ensino, passando a atender oficialmente e em maior número a demanda empresarial por ensaios. Com autonomia adquirida, passa a valorizar a especialização, a pesquisa tecnológica e a elaboração de especificações, essenciais à indústria e à construção civil. Em 1934, já tendo obtido credibilidade e confiança dos construtores da época, sofre nova remodelação, passando a ser denominado Instituto de Pesquisas Tecnológicas de São Paulo, I.P.T.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Daniela de Souza</givenname>
+            <familyname locale="pt_BR">Coelho Pereira Bastos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Jan Radvany</givenname>
+            <familyname locale="pt_BR">Florez</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+        <pages>1-8</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdbr03-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">Rumo ao moderno</title>
+        <subtitle locale="pt_BR">uma historiografia da Arquitetura moderna em São Paulo até 1945</subtitle>
+        <abstract locale="pt_BR">A disseminação da arquitetura moderna em São Paulo apresenta peculiaridades em relação ao restante do país. A iniciativa pioneira de Gregori Warchavchik na década de 20 não logrou reverter o marasmo arquitetônico vigente na cidade, nas décadas de 1930 e 1940. De fato, apesar de São Paulo iniciar nestes anos seu processo de metropolização, atravessando um surto de urbanização acelerada e de intensa atividade de construção, não é possível demarcar claramente a implantação de uma nova forma de conceber e projetar a arquitetura. Parece mais adequado, assim, considerar os processos em curso que convergem para a arquitetura moderna, consubstanciados em trajetórias individuais significativas. No presente trabalho, são destacadas algumas destas trajetórias, enfatizando a importância de sua atuação num meio profissional absolutamente conservador e acomodado.Destaca-se também a importância da fundação do IAB- SP, em 1943, na aglutinação desses arquitetos em um grupo coeso compartilhando princípios e objetivos comuns, a respaldar eventuais iniciativas de renovação no campo da arquitetura.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Lúcia</givenname>
+            <familyname locale="pt_BR">Bressan Pinheiro</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-6269-8756</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdbr03-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">A Arquitetura moderna na cidade de Bauru (São Paulo)</title>
+        <subtitle locale="pt_BR">projetos do arquiteto Fernando Pinho</subtitle>
+        <abstract locale="pt_BR">Considerando a não existência de um número significativo de estudos preocupados com a identificação e a preservação do patrimônio arquitetônico, notadamente da arquitetura moderna de cidades de porte médio, principalmente do Estado de São Paulo. A presente pesquisa universitária parte do interesse de identificar, de documentar e de preservar a arquitetura moderna na cidade de Bauru. Para tal, foram escolhidos os projetos do arquiteto Fernando Pinho por ser um dos primeiros arquitetos modernistas a atuar na cidade. A pesquisa realizou um levantamento dos projetos que obedeceu aos seguintes critérios de valor: históricos (Edifício Brasil Portugal), afetivos (Igreja de Nossa Senhora de Fátima), arquitetônicos (Edifício Vila Real e residência do arquiteto Pinho) e urbano (Loteamento Jardim Estoril). Nossa intenção é salientar a qualidade da obra deste arquiteto, bem como criar subsídios para que o poder público municipal possa atuar na preservação deste importante patrimônio arquitetônico.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rosío Fernández Baca</givenname>
+            <familyname locale="pt_BR">Salcedo</familyname>
+            <country>BR</country>
+            <email>salcedo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-5438-0120</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Paula</givenname>
+            <familyname locale="pt_BR">da Cruz Landim Y Goya</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Melissa Ramos</givenname>
+            <familyname locale="pt_BR">da Silva Oliveira</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Karina</givenname>
+            <familyname locale="pt_BR">Trevisan Fernandes</familyname>
+            <country>BR</country>
+            <email>autor4@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Ricardo</givenname>
+            <familyname locale="pt_BR">Peron Leite Ferraz</familyname>
+            <country>BR</country>
+            <email>autor5@example.com</email>
+          </author>
+        </authors>
+        <pages>1-10</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdbr03-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">O Edifício Esther</title>
+        <abstract locale="pt_BR">O trabalho examina a importância do Edifício Esther como exemplar pioneiro da Arquitetura Moderna Brasileira e discute as suas potencialidades quanto à reabilitação e como fator impulsionador de ações de recuperação do centro da Cidade de São Paulo. Inicialmente foi analisada a concepção do edifício identificando suas características inovadoras. Tais características não apenas testemunham uma obra notavelmente avançada para a época em que foi concebida, como evidenciam a atualidade de sua concepção. O estado atual de conservação do edifício é considerado em suas linhas gerais. Texto conclui que edifício Esther apresenta grande potencial a realização de uma experiência de reabilitação.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos José</givenname>
+            <familyname locale="pt_BR">Carrilho</familyname>
+            <country>BR</country>
+            <email>carrilho@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8601-366X</orcid>
+          </author>
+        </authors>
+        <pages>1-5</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdbr03-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">A paixão do início na Arquitetura de Paulo Mendes da Rocha</title>
+        <abstract locale="pt_BR">Na pesada e conturbada malha da cidade de São Paulo, a arquitetura de Paulo Mendes da Rocha constitui contraponto de confiança no projeto arquitetônico para a construção e reorganização do espaço urbano. Tendo surgido a partir do final dos anos 50, adota uma postura concisa e crítica face às questões problematizadas no início do movimento moderno no país. Solidarizando-se com a vertente que seguiu Vilanova Artigas, resume as questões de ordens sociais, tecnológicas e econômicas, através de uma ideologia que vincula politicamente arquitetura e cidade. O objetivo deste trabalho é uma análise da obra de Paulo Mendes da Rocha, baseada na premissa de que introduz, com habilidade, notória originalidade formal a tais questões utilitárias. Uma produção precisa e constante, que abre mais um caminho de interpretação da arquitetura brasileira.</abstract>
+        <abstract locale="en_US">In the dense hectic urban mass of the city of São Paulo, the architecture of Paulo Mendes da Rocha, as creator and re-organizer of urban space, serves as a counterweight of assurance. Having emerged at the close of the 1950’s, adopted a solid and critical posture vis-a-vis the polemics of the early modernist movement in the country. Linked to the movement which adhered to Vilanova Artigas, his work expresses social, technological and economic issues through an ideology which politically relates architecture to the city. The objective of this document is to present an anlysis of the work of Paulo Mendes da Rocha, based on the premise of his successful introduction of genuine formal originality into issues of functional use. It is a precise and consistent production which paves the way for expanded interpretation of Brazilian architecture.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Denise Chini</givenname>
+            <familyname locale="pt_BR">Solot</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdbr03-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">O estilo moderno na Arquitetura de Pernambuco</title>
+        <abstract locale="pt_BR">Na década de 30 do século XX, no Recife, algumas construções foram feitas obedecendo ao que seus autores denominavam de estilo moderno. Esse estilo, na realidade, não estava muito bem definido morfologicamente e, para justificar o seu uso, ora se fazia o elogio da simplificação dos ornamentos, numa óbvia alusão à Art Deco, ora se fazia referência á economia resultante do despojamento total de adornos. A publicação semanal, em um dos jornais do Recife, de 1932 a 1934, de 76 projetos de casas unifamiliares pelo arquiteto Abelardo Gama, um dos fundadores do curso de arquitetura da Escola de Belas Artes do Recife em 1932 , com certeza, contribuiu para formar ,na sociedade local, uma opinião sobre o modernismo na arquitetura. A análise da natureza dos estilos dos projetos das casas publicadas subsidiam os estudos do modernismo nos países da periferia.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Geraldo</givenname>
+            <familyname locale="pt_BR">Gomes da Silva</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdbr03-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">O Codepac e a luta pela preservação de edifícios modernos em Bauru – SP</title>
+        <abstract locale="pt_BR">Este trabalho aborda a atuação do CODEPAC, Conselho de Defesa do Patrimônio Cultural de Bauru, no estudo e preservação de edifícios modernos na cidade de Bauru. Inicia uma discussão sobre os motivos da difícil aceitação desses tombamentos pela população, bem como apresenta e analisa os três imóveis modernos, em vias de tombamento. O Conselho de Defesa do Patrimônio Cultural de Bauru, CODEPAC, instituído por Lei Municipal de número 3.486/92, desde sua primeira reunião, no início do ano de 1996, tem lutado pela preservação de edifícios de interesse para a cidade. Foi elaborado, pelo Conselho, durante o ano de 1996, uma lista preliminar contendo 32 bens ou conjuntos de bens significativos para a História de Bauru, cidade com 103 anos de idade. A lista, eclética, inclui edifícios de importância histórica, cultural ou arquitetônica, que abrangem aspectos ligados às várias tipologias, épocas e atividades locais: comércio, serviços, indústrias, hospitais, igrejas, residências, escolas, estações, etc. Alguns dos bens listados possuem mais de uma “qualidade” para preservação, muitos são de importância histórica e cultural, outros de relevo arquitetônico e histórico, porém optamos por aqueles de maior integridade física ou que possibilitassem futuro restauro. Com a divulgação pública da lista, no final do ano de 1996, observamos que a reação da comunidade foi bastante positiva, à exceção de três exemplares para nós de grande importância: o prédio da Prefeitura Municipal, outro pertencente ao INSS e um edifício residencial, todos, e os únicos elencados até o momento, de arquitetura modernista, projetados entre os anos 1950 e 1970. A rigor, o CODEPAC já esperava tal reação, visto que alguns de seus membros, particularmente aqueles mais conservadores, mostraram-se receosos com a preservação de bens modernos por julgá-los... modernos! Consideramos que a população em geral, e mesmo boa parte da mídia, tem como bens passíveis de tombamento apenas aqueles que claramente evoquem um passado distante. A arquitetura moderna, mesmo que às vezes construída há mais de 50 anos, não traz essa imagem. Mesmo a arquitetura art-déco ou aquela de ecletismo tardio, portanto quase contemporânea aos primeiros exemplares modernistas, são mais bem aceitas. É uma visão equivocada e saudosista que temos tentado reverter, porém dependerá de muita educação, conscientização e creio que rapidamente não conseguiremos efeito desejado. Outra questão que se coloca é a relação entre edifício “tombável” e ornamentação. A ornamentação, mesmo que às vezes carregada, de mau gosto e sem boa composição, parece ser um “passaporte” para o convencimento da comunidade sobre a preservação do bem. Mesmo que tais elementos sejam pré-fabricados, portanto, distantes do artesanato. A arquitetura moderna por sua vez, despojada da ornamentação e do artesanato, baseia-se em outros pressupostos, entre eles a indústria, mais difíceis de serem entendidos pelo cidadão comum. Por outro lado, embora com graus de qualidade diversos, nossas cidades são em grande parte constituídas por essa arquitetura. Então, pensa-se, por que preservar algo tão comum e corriqueiro? Porém, sabemos nós, principalmente os arquitetos e especialistas, que realmente a boa arquitetura é uma pequena fração do todo construído, e, é claro, achamos que só essa deve ser preservada por lei específica. Abaixo gostaríamos de apresentar, aos participantes do III SEMINÁRIO DOCOMOMO BRASIL, os três edifícios modernos inicialmente elencados para preservação na cidade de Bauru-SP, bem como tecer alguns comentários sobre suas qualidades arquitetônicas.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nilson</givenname>
+            <familyname locale="pt_BR">Ghirardello</familyname>
+            <country>BR</country>
+            <email>ghirardello@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3166-2026</orcid>
+          </author>
+        </authors>
+        <pages>1-5</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdbr03-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Textos do Urbanismo moderno no Plano Diretor Santos - 1968</title>
+        <abstract locale="pt_BR">Este trabalho busca resgatar, no texto do Plano Diretor Físico do Município de Santos, lei municipal 3529 de 16 de abril de 1968, aspectos relacionados com alguns dos conceitos do urbanismo modernista. A partir de um panorama de quando se produz a lei 3529/68, apresento dois de seus principais responsáveis: os arquitetos Aníbal Martins Clemente e Oswaldo Corrêa Gonçalves. Verificando suas idéias, e comparando o texto da lei com alguns textos clássicos do urbanismo moderno, em especial a Carta de Atenas na versão de Le Corbusier, poderemos perceber até que ponto se deu a presença desse ideário no corpo da legislação santista. O objetivo deste trabalho, além de se inserir em uma pesquisa mais ampla sobre o planejamento urbano em Santos, é criar a possibilidade de utilização desse material como subsídio em aulas da disciplina Teoria e História do Urbanismo.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luiz Antonio</givenname>
+            <familyname locale="pt_BR">de Paula Nunes</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdbr03-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">Convênio Escolar</title>
+        <subtitle locale="pt_BR">a Arquitetura moderna a serviço do ensino público</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mirthes</givenname>
+            <familyname locale="pt_BR">Baffi</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-8987-0333</orcid>
+          </author>
+        </authors>
+        <pages>1-10</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdbr03-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Suburbanização e revitalização</title>
+        <subtitle locale="pt_BR">dois estudos de caso na Alemanha</subtitle>
+        <abstract locale="pt_BR">Este projeto foi desenvolvido no âmbito do convênio internacional entre a UNIVERSIDADE FEDERAL DO RIO DE JANEIRO e a BAUHAUS DESSAU FOUNDATION, coordenado pela profª. Marcia Botelho Junqueira, com apoio da Faculdade de Arquitetura e Urbanismo. O convênio possibilitou o trabalho integrado de estudantes de Arquitetura e Urbanismo da UFRJ, da pós-graduação e da graduação, em parceria com outras escolas localizadas nos EUA, Alemanha e Brasil, na fase piloto do BAUHAUS KOLLEG, curso de pós-graduação da BAUHAUS DESSAU FOUNDATION. O tópico selecionado para a fase piloto do BAUHAUS KOLLEG foi Urban Sprawl, a suburbanização da área urbana que ameaça a cidade européia tradicional. Foi escolhida a região industrial de Bitterfeld- Wolfen, na Alemanha, já objeto de estudos anteriores da BAUHAUS. O trabalho proposto envolveu a análise crítica da arquitetura e planejamento da era moderna, do desenvolvimento dos agrupamentos urbanos e da história da própria BAUHAUS. A renovação urbana em Bitterfeld- Wolfen pressupõe a discussão do tipo de cidade que podemos estabelecer para o final do século XX. A destruição da densidade compacta dos centros das cidades européias, a fragmentação da área urbana, a migração de funções urbanas como viver, trabalhar e lazer são os principais tópicos da discussão. O fim da cultura urbana industrial e a mediatização das culturas locais exigem estratégias inovadoras para renovação urbana. A equipe da FAU-UFRJ trabalhou as áreas de Wolfen Nord, cidade-satélite do período comunista, e o centro histórico da cidade de Bitterfeld. A pesquisa abordou a região como um todo, através de conceitos de desenvolvimento sustentável, conservação de energia, preservação do meio ambiente e significado do espaço construído. As discussões sobre o futuro desenvolvimento da região apontaram para a manutenção das indústrias químicas, crescimento da indústria turística e criação de polo tecnológico para estudos de manejo ambiental e despoluição. O Centro Histórico de Bitterfeld e a cidade satélite de Wolfen Nord foram discutidos à luz das tendências de suburbanização e encolhimento, da preservação do patrimônio cultural da era industrial e do desenvolvimento sustentável, tendo em vista as experiências brasileiras na área de revitalização de centros históricos e recuperação de conjuntos habitacionais.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Lucia</givenname>
+            <familyname locale="pt_BR">Vieira dos Santos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Anna Carla</givenname>
+            <familyname locale="pt_BR">Mello da Rocha</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Carmem Valéria</givenname>
+            <familyname locale="pt_BR">Celano</familyname>
+            <country>BR</country>
+            <email>autor3@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Eduardo</givenname>
+            <familyname locale="pt_BR">Rocha de Oliveira Filho</familyname>
+            <country>BR</country>
+            <email>autor4@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Flávia</givenname>
+            <familyname locale="pt_BR">Brito do Nascimento</familyname>
+            <country>BR</country>
+            <email>autor5@example.com</email>
+            <orcid>https://orcid.org/0000-0002-6889-7614</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="5" id="6">
+            <givenname locale="pt_BR">Liane</givenname>
+            <familyname locale="pt_BR">Flemming</familyname>
+            <country>BR</country>
+            <email>autor6@example.com</email>
+            <orcid>https://orcid.org/0000-0002-9037-3227</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="6" id="7">
+            <givenname locale="pt_BR">Sandra</givenname>
+            <familyname locale="pt_BR">Lemos Coelho</familyname>
+            <country>BR</country>
+            <email>autor7@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="7" id="8">
+            <givenname locale="pt_BR">Marcia Botelho</givenname>
+            <familyname locale="pt_BR">Junqueira</familyname>
+            <country>BR</country>
+            <email>autor8@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="8" id="9">
+            <givenname locale="pt_BR">Cêça</givenname>
+            <familyname locale="pt_BR">Guimaraens</familyname>
+            <country>BR</country>
+            <email>autor9@example.com</email>
+            <orcid>https://orcid.org/0000-0003-1889-7883</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="9" id="10">
+            <givenname locale="pt_BR">Gustavo</givenname>
+            <familyname locale="pt_BR">da Rocha Peixoto</familyname>
+            <country>BR</country>
+            <email>autor10@example.com</email>
+          </author>
+        </authors>
+        <pages>1-12</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="16" stage="production">
+      <id type="internal" advice="ignore">sdbr03-016</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="15" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">16</id>
+        <title locale="pt_BR">Inventário de Arquitetura moderna no Vale do Paraíba e Alto Tietê</title>
+        <abstract locale="pt_BR">Nesta segunda edição do Inventário de arquitetura moderna no vale do Paraíba e Alto do Tietê, além das três principais cidades, Mogi das Cruzes, São José dos Campos e Taubaté, ampliou-se o levantamento para outras cidades, tendo como referência a compreensão dos caminhos na difusão do movimento moderno através de obras pioneiras. Foram três momentos marcantes, polarizados sucessivamente pela ferrovia, estrada São Paulo/Rio e a BR 116, a Rodovia Dutra, que é tributária de um sistema de estradas intermunicipais. Selecionamos obras significativas e contextualizadas em escala regional, mesmo que algumas delas apresentem importância apenas local. Apresentamos obras da serra da Mantiqueira, Vale do Paraíba, Alto Tietê e Litoral Norte, como amostragem parcial, mas significativa em termos históricos. Este trabalho pretende alimentar o debate acerca dos parâmetros para se discutir a “Permanência do Moderno” no Brasil, sendo que um dos alvos principais é engajamento das escolas de Arquitetura da região. Afinal, pensamos que o primeiro passo para a conservação é o reconhecimento e a documentação do bem cultural, na forma de inventário, cabendo às universidades um papel insubstituível.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Benedito Assagra Ribas de</givenname>
+            <familyname locale="pt_BR">Mello</familyname>
+            <country>BR</country>
+            <email>mello@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marcia</givenname>
+            <familyname locale="pt_BR">David</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0003-0325-6418</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ademir Pereira dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>santos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4863-9375</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Alexandre</givenname>
+            <familyname locale="pt_BR">Penedo</familyname>
+            <country>BR</country>
+            <email>penedo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1708-7475</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Carlos</givenname>
+            <familyname locale="pt_BR">Lunardi</familyname>
+            <country>BR</country>
+            <email>autor5@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="5" id="6">
+            <givenname locale="pt_BR">João Francisco</givenname>
+            <familyname locale="pt_BR">Chavedar</familyname>
+            <country>BR</country>
+            <email>autor6@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="6" id="7">
+            <givenname locale="pt_BR">Jorge Simões</givenname>
+            <familyname locale="pt_BR">Pires</familyname>
+            <country>BR</country>
+            <email>pires@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="7" id="8">
+            <givenname locale="pt_BR">Luciana</givenname>
+            <familyname locale="pt_BR">Yui</familyname>
+            <country>BR</country>
+            <email>autor8@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="8" id="9">
+            <givenname locale="pt_BR">Roberto</givenname>
+            <familyname locale="pt_BR">Bianchi Jr.</familyname>
+            <country>BR</country>
+            <email>autor9@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="9" id="10">
+            <givenname locale="pt_BR">Sônia</givenname>
+            <familyname locale="pt_BR">Di Maio</familyname>
+            <country>BR</country>
+            <email>autor10@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="10" id="11">
+            <givenname locale="pt_BR">Valéria B.</givenname>
+            <familyname locale="pt_BR">Pedroso dos Santos</familyname>
+            <country>BR</country>
+            <email>autor11@example.com</email>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="17" stage="production">
+      <id type="internal" advice="ignore">sdbr03-017</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="16" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">17</id>
+        <title locale="pt_BR">Modernismo tardio nas transformações do centro de Salvador nos anos 60</title>
+        <abstract locale="pt_BR">Este trabalho é produto de uma pesquisa em andamento sobre o processo de modernização e expansão urbana iniciado nos anos 60 em Salvador, visando discutir a necessária reavaliação de unidades paisagísticas do Movimento Moderno no centro da cidade, sua conservação e potencial valorização. A partir de lançamentos imobiliários publicados no jornal A Tarde, matérias sobre projetos, propostas e realizações na infra-estrutura urbana, e o acervo de licenças de construção e alvarás de funcionamento da SUCOM (Superintendência de Uso e Controle da Ocupação do Solo), grandes transformações urbanas do período são identificadas com alterações no tecido existente, modificações nos padrões de uso do solo, reformulação das linhas de transporte e criação de novos valores locacionais. Analisando a evolução das tipologias arquitetônicas na área central frente à configuração das áreas novas, constata-se a consolidação tardia do Movimento Moderno em Salvador no início do processo de verticalização do centro, identificando algumas adaptações e especificidades soteropolitanas dos modelos modernistas. A Cidade Central de Salvador Uma vez que o desenvolvimento demográfico mostra patamares estáveis, a expansão das cidades brasileiras tende a uma desaceleração gradual buscando potencializar a infra-estrutura existente e a cidade herdada dos anos anteriores à explosão urbana, esquecida tanto pela premência das demandas de novas áreas, para abrigar o crescimento demográfico, quanto pela voracidade da especulação imobiliária, começa a apresentar-se como protagonista de mudanças, processo de caráter mais ou menos global que também começa a verificar-se em Salvador. Nas três últimas décadas a mancha urbana de Salvador expandiu-se em forma de ilhas, ora em torno de novos centros de consumo, ora em conjuntos habitacionais fechados, ora em novos loteamentos. O crescimento mais ou menos continuo, definido como A.U.C. (Área de Urbanização Contínua) desde fins dos anos ‘60, foi interrompido por novas ofertas de terras, ancoradas por uma forte estratégia de marketing e novos modismos de consumo habitacional, processo que, junto à extraordinária dinâmica de crescimento e de migração de funções, principalmente as funções centrais, praticamente desfigurou a cidade. As novas centralidades, sob argumento da “obsolescência” da estrutura urbana central como meio para a migração e a criação da “Nova Bahia”, seguiam o slogan “A Bahia constrói o seu futuro sem destruir o seu passado”. Então, Salvador transformou-se num aglomerado de conjuntos funcionais, freqüentemente isolados, constituindo o que se chamou de “Esquizópolis” [cf. SANTOS NETO, 1991]. Em paralelo, um processo de alterações profundas da Cidade Central aconteceu, pela descentralização de funções e decadência do velho centro tradicional, frente às opções surgidas em torno dos novos centros de consumo focalizados pelos shoppings centers da Barra, Iguatemi, Itaigara e Pituba. Chegando ao fim dos anos 90, o rápido congestionamento dos centros alternativos (Iguatemi, Cidadela, Tancredo Neves, Centro Administrativo), evidencia a dinâmica pendular, para o centro tradicional de Salvador, ainda que em forma de shopping centers especializados de acordo com a seletividade de acessibilidade: público usuário de transporte coletivo atraído pela Estação da Lapa. Mas também, dentro desta lógica, se enquadra o forte impacto da “renovação” do Centro</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alejandra</givenname>
+            <familyname locale="pt_BR">Hernández Muñoz</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-0381-5198</orcid>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="18" stage="production">
+      <id type="internal" advice="ignore">sdbr03-018</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="17" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">18</id>
+        <title locale="pt_BR">Trocando gato por lebre</title>
+        <subtitle locale="pt_BR">quando os instrumentos legais de preservação não preservam o que deve ser preservado</subtitle>
+        <abstract locale="pt_BR">Este artigo discute o instrumento de lei criado pela Prefeitura da Cidade do Recife para a proteção do chamado Imóvel Especial de Preservação (IEP). Discute os critérios de seleção dos imóveis preservados, particularmente no que se refere à exclusão de residências unifamiliares modernas, apesar de constituir um dos tipos mais expressivos da produção modernista local. O artigo defende a necessidade de uma ação emergencial para a salvaguarda das residências modernas mais significativas, não só pelo que representa para a história da arquitetura moderna brasileira, como também como representação das diversas formas de morar na cidade.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luiz Manuel do Eirado</givenname>
+            <familyname locale="pt_BR">Amorim</familyname>
+            <country>BR</country>
+            <email>amorim@ufpe.br</email>
+            <orcid>https://orcid.org/0000-0003-0393-6106</orcid>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="19" stage="production">
+      <id type="internal" advice="ignore">sdbr03-019</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="18" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">19</id>
+        <title locale="pt_BR">Brutalismo</title>
+        <subtitle locale="pt_BR">a última trincheira do movimento moderno</subtitle>
+        <abstract locale="pt_BR">Este ensaio apresenta o Novo Brutalismo como a última transformação do Movimento Moderno, na tentativa de preservar seus valores ideológicos e éticos. Neste sentido, as aportações sobre identidade, cultura e crescimento urbano introduzidas pelo TEAM X e os Smithson trouxeram uma grande contribuição para a cultura arquitetônica nos anos 50-60. No Brasil, o brutalismo fez escola e teve na figura de Vilanova Artigas seu grande mestre e criador. Entretanto, de alguma forma, os vínculos com os brutalistas ingleses foram negados em nome de uma busca pela identidade nacional.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando</givenname>
+            <familyname locale="pt_BR">Freitas Fuão</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-4247-7160</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="20" stage="production">
+      <id type="internal" advice="ignore">sdbr03-020</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="19" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">20</id>
+        <title locale="pt_BR">A verticalização e a origem do movimento moderno em Fortaleza</title>
+        <abstract locale="pt_BR">Para um entendimento da produção da arquitetura brasileira, faz-se necessário uma maior aprofundamento acerca das variedades regionais, de forma a estabelecer uma leitura ampla e menos centralizador. Dentro desta perspectiva desenvolveu-se este artigo, que é parte parcial de uma pesquisa que estamos desenvolvendo junto à disciplina de Historia da Arquitetura da Universidade Federal do Ceará e que trata da documentação e sistematização do conhecimento relativo à reestruturação do espaço urbano de Fortaleza a partir de 1930. O primeiro momento do trabalho se coloca como uma tentativa de um entendimento sobre o crescimento vertical de Fortaleza, no período de 1930-1964, decorrente de nossa reflexão em torno da produção vertical, como uma das formas de ocupação do espaço urbano de Fortaleza. 0 estudo se aprofunda enfocando a evolução da legislação urbanística a partir do primeiro Código de Obras de 1932, no qual o concreto armado é destacado em um capítulo, material esse que vai representar a modernização da arquitetura e ao mesmo tempo vai exigir a participação de profissionais especializados. Posteriormente nos decretos de 1936 e 1938 verificar-se-á a tentativa de induzir a verticalização da área comercial , através de exigências de prédios de dois ou mais pavimentos. A cidade então já conhecia a partir da década de 30 as novas técnicas construtivas. O concreto armado começava a sobrepor-se às paredes de alvenaria e os engenheiros calculistas dominavam o padrão arquitetônico e construtivo até fins da década de 50. Este grupo de engenheiros locais e do sul do país, é formado em especial por Alberto Sá, Silvio Jaguaribe Eckman, Jaime Câmara Vieira, Jaime Anastácio Verçosa, José Alberto Cabral e outros. Como um exemplo notável para esta geração podemos identificar os Pavilhões das Oficinas da Viação Cearense, construída antes do projeto do MEC no Rio de Janeiro pelo engenheiro Emílio Baumgart, participante da equipe da referida obra. Esse contexto começa a se transformar com o retorno à terra natal, dos jovens arquitetos formados em outras regiões, principalmente do Rio de Janeiro. Em 1957 um grupo de sete arquitetos funda a Delegacia Cearense do Instituto de Arquitetos do Brasil e pela primeira vez, no ensino da Arquitetura, os arquitetos tinham a oportunidade de montar isoladamente um curso nesta área. Em janeiro de 1965 realiza-se o primeiro vestibular para arquitetura, e em 1969 diplomava-se a primeira turma. Os primeiros exemplos de destaque da verticalização das construções ficam reservados em geral para o uso comercial no centro da cidade. Alguns exemplos desta tendência já surgiam: Correios e Telégrafos em 1934 (com 3 pavimentos), Edifício Parente em 1936 (com 5 pavimentos), Edifício Carneiro em 1938 ( com 5 pavimentos), Cine Diogo em 1940 ( com 9 pavimentos), Edifício Prudência em 1947 (com 7 pavimentos). Analisando as alterações introduzidas nas plantas de zoneamento dos planos de Saboya Ribeiro (1947) e Hélio Modesto(1963), observa-se na zona central uma progressiva elevação do gabarito máximo permitido, passando de sete pavimentos em 1947, para doze pavimentos em 1963. No Plano Saboya Ribeiro a função residencial não é destacada no seu memorial, mas determina 5 zonas para limitação do volume e altura dos prédios. Observa-se então que a medida que os edifícios se afastam do centro menor é o número de pavimentos permitido e maior o afastamento do alinhamento. Quanto ao Plano Hélio Modesto é estabelecida a classificação das áreas residenciais em quatro zonas, variando de oito a três pavimentos. Observa-se que o processo de verticalização em Fortaleza entre 1930-1960, objeto desse trabalho, teve origem na área central da cidade expandindo-se posteriormente para os bairros. Nessa tendência, a mudança da função foi alterada, predominando nas zonas residenciais os edifícios multifamiliares e institucionais. Foi no centro no entanto que se verificou com mais intensidade a concretização desse processo.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Margarida Júlia Farias</givenname>
+            <familyname locale="pt_BR">de Salles Andrade</familyname>
+            <country>BR</country>
+            <email>desallesandrade@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>1-10</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdbr03-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">Tecidos habitacionais em Amsterdã</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lizete Maria</givenname>
+            <familyname locale="pt_BR">Rubano</familyname>
+            <country>BR</country>
+            <email>rubano@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9653-1786</orcid>
+          </author>
+        </authors>
+        <pages>1-21</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdbr03-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">Conjunto Residencial de Deodoro</title>
+        <subtitle locale="pt_BR">a experiência moderna da Fundação da Casa Popular</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sálua</givenname>
+            <familyname locale="pt_BR">Kairuz Manoel</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdbr03-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Conjunto Residencial da Lagoinha</title>
+        <subtitle locale="pt_BR">o impacto da construção de um Hof na capital mineira</subtitle>
+        <abstract locale="pt_BR">Esta comunicação tem como objetivo analisar os impactos causados pelo CR da Lagoinha, levando-se em consideração a renovação tipológica do projeto, do processo construtivo, da implantação urbanística, dos programas habitacionais e dos modos de morar dentro do contexto da cidade de Belo Horizonte.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rodrigo Otávio</givenname>
+            <familyname locale="pt_BR">Santana de Jesus</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdbr03-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">A difusão da Arquitetura moderna em Campo Grande</title>
+        <abstract locale="pt_BR">Campo Grande, capital do estado de Mato Grosso do Sul, nos anos 50 , recebe do governo do estado , uma obra que vai contribuir para mudar a arquitetura local . O Colégio Estadual Campograndense, projetado pelo arquiteto Oscar Niemeyer em 1952. Daí para adiante , a arquitetura moderna se manifesta com destaque inicial para a arquitetura da escola carioca e nos anos 70 a escola paulista. Antes , nos anos 30 , o estilo Art Déco se difunde em Campo Grande , principalmente pelos projetos do arquiteto alemão Frederico João Urlass. Nos anos 50 e 60 diversos projetos , elaborados por arquitetos e engenheiros do Rio de Janeiro e de São Paulo e outros da cidade , mudam a linguagem da arquitetura praticada até então. Neste texto quase cronológico , a arquitetura moderna em Campo Grande é analisada com a finalidade de compreender a identificação das obras, sua origem e outros dados.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ângelo Marcos</givenname>
+            <familyname locale="pt_BR">Vieira de Arruda</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdbr03-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Sobre intervenções arquitetônicas em edifícios e ambientes urbanos modernos</title>
+        <subtitle locale="pt_BR">análise crítica de algumas obras de Paulo Mendes da Rocha</subtitle>
+        <abstract locale="pt_BR">A intervenção arquitetônica em edifício ou lugar já edificado - tenha este um maior ou menor grau de interesse histórico ou mesmo - não é propriamente de uma novidade no campo da arquitetura já que toda obra nova está, de alguma maneira, intervindo em um lugar permeado por pré-existências ambientais e que portanto nunca pode ser considerado um vazio. Os arquitetos brasileiros modernos sempre tiveram presente em suas preocupações a questão do patrimônio histórico, mas até a bem pouco tempo esse interesse afetava apenas bens e conjuntos de relevante importância nacional. Para ampliar de maneira objetiva algumas considerações sobre esse tema e situá-lo no contexto das intervenções sobre o patrimônio edificado pelo movimento moderno, ou ao menos segundo seus pressupostos, proponho analisar quatro obras recentes de autoria do arquiteto paulista Paulo Mendes da Rocha que a meu ver abordam essa questão de maneira direta ou indireta. Com a intenção precípua de, através do estudo dessas propostas, auxiliar no sentido de alicerçar análises de conceitos arquitetônicos voltados para a prática da intervenção arquitetônica contemporânea em edifício ou lugar já edificado, em especial quando apresenta certa relevância como patrimônio da modernidade. Este trabalho foi desenvolvido como parte das atividades da disciplina &quot;Re-Arquitetura&quot; do curso de Mestrado, área de concentração em Teoria, História e Crítica da Arquitetura, do PROPAR- Programa de Pesquisa e Pós-Graduação em Arquitetura da Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ruth Verde</givenname>
+            <familyname locale="pt_BR">Zein</familyname>
+            <country>BR</country>
+            <email>rvzein@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0923-4914</orcid>
+          </author>
+        </authors>
+        <pages>1-12</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdbr03-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">A importância do decoro urbano na Arquitetura de Rino Levi</title>
+        <subtitle locale="pt_BR">o caso das residências</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Célia Helena Castro</givenname>
+            <familyname locale="pt_BR">Gonsales</familyname>
+            <country>BR</country>
+            <email>celia.gonsales@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9249-1390</orcid>
+          </author>
+        </authors>
+        <pages>1-16</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdbr03-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Inventário do Patrimônio Urbano e Cultural de Betim</title>
+        <abstract locale="pt_BR">O Inventário do Patrimônio Urbano e Cultural de Betim (IPUC-Betim) propõe-se a apreender os valores do patrimônio urbano e cultural dentro da paisagem onde se inserem. Seu objetivo prende-se à formulação de diretrizes capazes de articular a preservação do patrimônio às demandas por desenvolvimento social e econômico do centro industrial. A metodologia do inventário reflete a compreensão da cidade como &quot;patrimônio ambiental urbano&quot;, conceito contemporâneo que propicia a aproximação de dois campos - o do patrimônio e o do planejamento urbano. Incorporando as perspectivas distintas da história, da arquitetura e do urbanismo e das ciências sociais, o IPUC-Betim busca identificar o processo de formação de identidades sócio-espaciais, colocando-se como etapa essencial à consecução de um plano de reabilitação urbana integrada para a cidade. O centro histórico, cuja origem remonta ao século XVIII, conserva ainda exemplares e conjuntos da arquitetura dos períodos eclético, art-déco e moderno. À exceção de alguns imóveis do início do século, recentemente tombados, edificações representativas de épocas mais próximas sofrem os prejuízos e os riscos de depreciação derivados da percepção comum que as qualifica como &quot;sem valor&quot;.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jurema</givenname>
+            <familyname locale="pt_BR">Marteleto Rugani</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-9183-7428</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Leonardo Barci</givenname>
+            <familyname locale="pt_BR">Castriota</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0002-9159-1787</orcid>
+          </author>
+        </authors>
+        <pages>1-15</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdbr03-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">A participação da Escola de Arquitetura na construção do pensamento moderno em Belo Horizonte</title>
+        <abstract locale="pt_BR">Este trabalho visa identificar a importância da criação da Escola de Arquitetura de Belo Horizonte (EABH) dentro do cenário nacional, formando profissionais que atuaram em diversas cidades. Além da implantação da escola, a cidade de Belo Horizonte foi palco de manifestações culturais relevantes na década de 30. A escola, criada em 1930, é a primeira no ensino do Estado e a primeira desvinculada das Politécnicas e das Belas Artes no Brasil. Nas atividades dos estudantes da EABH destacamos a publicação da revista do Diretório Acadêmico – “Arquitetura” em 1935 e a participação na “Exposição Bar Brasil” em 1936, também denominada “Semana de Arte Moderna Mineira”. A base para a análise da construção do pensamento arquitetônico moderno em Belo Horizonte está na avaliação conjunta destes três eventos citados acima.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Patrícia Pimenta</givenname>
+            <familyname locale="pt_BR">Azevedo Ribeiro</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-9211-1637</orcid>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdbr03-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Arquitetura moderna e pesquisa tecnológica</title>
+        <subtitle locale="pt_BR">a contribuição do IPT (1934-1964)</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Nicole</givenname>
+            <familyname locale="pt_BR">Boehringer</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdbr03-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Volumes modernos x fachadas contemporâneas</title>
+        <abstract locale="pt_BR">Os novos loteamentos projetados em Salvador dentro de uma concepção urbana moderna quase sempre exploram a estrutura orgânica em seus acessos para a divisão da unidade lote como unidades independentes desvinculadas do contexto urbano, perdendo, desta maneira, a hierarquia urbana. Assim, com a perda deste significado, todas as construções se transformam em protótipos de monumentos individualizados sem um entorno que o afirme como tal. Em um primeiro momento, a proposta moderna construída transforma a unidade edificada em imagem percebida individualmente que apesar de não levar em conta seu entorno - o ambiente urbano construído -, propõe fachadas que deixam de ser planos para conformar um todo volumétrico, ocupando o espaço urbano como unidades independentes, blocos soltos dos limites do lote. Como é que o pensamento moderno foi absorvido pelos arquitetos baianos nestas construções verticalizadas e qual a imagem urbana criada? Quais as relações espaciais urbanas herdadas e como foram incorporadas as posturas modernas? Como evoluíram os conceitos da arquitetura vertical para o momento contemporâneo? O edifício contemporâneo cria uma outra relação com o espaço urbano, não mais a proposta pelo moderno. Apesar de ganhar uma escala metropolitana de conjunto, recupera a relação com o terreno ao priorizar uma fachada, a principal. Mesmo tendo que alçar a cabeça para cima, a aparência de seu conteúdo continua se retratando em sua fachada para a rua, fachada que representa e se apresenta para a sua comercialização.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Naia Alban</givenname>
+            <familyname locale="pt_BR">Suarez</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-0488-6155</orcid>
+          </author>
+        </authors>
+        <pages>1-9</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdbr03-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">O moderno como opção estilística</title>
+        <subtitle locale="pt_BR">a gradual assimilação das linguagens despojadas de ornamentos na Arquitetura residencial do bairro Jardim América em São Paulo nas décadas de 20 a 40</subtitle>
+        <abstract locale="pt_BR">Trata-se da inserção gradual de elementos do vocabulário formal das vanguardas modernas na arquitetura residencial paulistana nas décadas de 20, 30 e 40. Através do estudo das casas que originalmente ocuparam o primeiro bairro-jardim de São Paulo, o Jardim América, verifica-se que a arquitetura moderna infiltrou-se como uma opção formal, restrita à dimensão de um estilo, equiparado a outros contemporâneos. Inicialmente desvinculada de seus pressupostos programáticos e ideológicos esta arquitetura vai aos poucos afirmando-se até que tende a suplantar as manifestações estilísticas e impor-se já no final dos anos 40. Discute-se ainda sua presença inicialmente difusa ou inexistente entre outros estilos na obra de arquitetos que posteriormente destacaram-se na arquitetura efetivamente caracterizada como moderna como , por exemplo, Eduardo Kneese de Mello e Oswaldo Bratke ou ainda de outros que apesar de terem produzido muito permanecem até hoje pouco conhecidos.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdbr03-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Instituto Moreira Salles – Rio de Janeiro</title>
+        <subtitle locale="pt_BR">projeto e obra de restauro, reforma e adaptação</subtitle>
+        <abstract locale="pt_BR">As intervenções em arquitetura representativa do Movimento Moderno, embora se encontrem em estágio ainda inicial, tenderão a se intensificar, seja pela importância cultural e artística desse período seja pela iminência de perda a que estão sujeitas às estruturas que, embora modernas, não mais atendem necessidades contemporâneas, o que já exige, portanto, empenho nas ações de preservação. No nosso caso específico brasileiro, estamos frente ao desafio de preservar e reciclar criteriosamente a melhor produção arquitetônica de todos os tempos e uma de nossas mais importantes manifestações culturais . O caso ora apresentado, de transformação em Centro Cultural de uma residência de grande porte, no Rio de Janeiro, representativa da Arquitetura Moderna Brasileira, pretende fornecer não mais que um panorama geral da conceituação e metodologia aplicada ao projeto e obra ora concluídos, com algumas reflexões acerca dos resultados até então obtidos.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maria Luiza</givenname>
+            <familyname locale="pt_BR">Dutra</familyname>
+            <country>BR</country>
+            <email>dutra@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Walter</givenname>
+            <familyname locale="pt_BR">Arruda de Menezes</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0003-2306-0666</orcid>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdbr03-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">A Arquitetura entre o renascimento do moderno e o luto da modernidade</title>
+        <abstract locale="pt_BR">Reconhecendo na arquitetura contemporânea uma nova articulação do léxico modernista, chamada por alguns autores como “Neomodernismo”, este trabalho reinterpreta os conceitos de moderno e pós-moderno e situa a produção arquitetônica deste século com base nesses conceitos. Mais do que assinalar as diferenças e rupturas formais e teóricas manifestas nas obras e nos textos dos seus protagonistas, nossa pesquisa persegue e projeta o palco comum sobre o qual vem à cena as diversas fases dessa arquitetura, inclusive a contemporânea. Esse fundo comum se encontra justamente nas condições e valores cultivados pela própria modernidade, desde o final do século passado, e se tensiona entre o extremo desejo de novidade e o “eterno retorno” do mesmo, entre a euforia da vanguarda e a melancolia do olhar da modernidade. Menos do que analisar os edifícios em si, este trabalho tem cunho historiográfico e filológico, interpretando a modernidade e o pós-moderno como as duas faces de um mesmo projeto de modernidade que se desenvolve há bem mais de um século e cujo balanço deve ser feito nos umbrais do século XXI.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Antônio</givenname>
+            <familyname locale="pt_BR">Leite Brandão</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-10</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdbr03-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Conhecendo a Arquitetura moderna potiguar</title>
+        <subtitle locale="pt_BR">um esforço conjunto</subtitle>
+        <abstract locale="pt_BR">São apresentadas ações direcionadas ao conhecimento da arquitetura moderna do Rio G. do Norte e critérios adotados para a seleção de exemplares representativos. A desproporção entre o desconhecido e os meios de investigá-lo, determinou a opção pela confluência de atividades de ensino, pesquisa e extensão. INVENTÁRIOS, ANÁLISES, MONOGRAFIAS e EXPOSIÇÕES enfocando a produção pré-modernista e modernistas em Natal e municípios do interior vêm sendo desenvolvidas com a participação de alunos de graduação e pós-graduação. A recorrência com que certos elementos formais aparecem combinados em edifícios nas áreas inventariadas e a correlação entre essas combinações e padrões de ocupação delineiam tendências consideradas dominantes em determinada época e fração urbana. Por seu caráter extensivo, heterogêneo e inclusivo, os produtos desses trabalhos - que se espera sistematizar em um banco de dados - permite examinar a fluidez com que marcos estilísticos definidos na literatura manifestam-se no cenário construído, fornecendo matéria de primeira mão para o diálogo acadêmico e para elevar níveis de percepção sobre o patrimônio edificado do passado recente.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Edja Bezerra Faria</givenname>
+            <familyname locale="pt_BR">Trigueiro</familyname>
+            <country>BR</country>
+            <email>trigueiro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2847-5326</orcid>
+          </author>
+        </authors>
+        <pages>1-7</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdbr03-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Cinco questões sobre o movimento moderno no ensino de Teoria e História da Arquitetura e do Urbanismo</title>
+        <abstract locale="pt_BR">Esse trabalho trata da discussão sobre o ensino da Teoria e História do Urbanismo no que concerne ao movimento moderno de arquitetura. Situa a preocupação quanto ao possível estranhamento, por parte dos estudantes, do termo moderno, pois se trata de um movimento em parte esgotado, não só quanto ao seu vocabulário formal como também quanto às concepções apresentadas sobre a organização da cidade. O texto enuncia cinco questões principais identificadas na prática de ensino, levantando itens como: a de uma melhor definição dos conceitos sobre moderno, modernidade e modernismo; da necessidade de uma contextualização , associando teoria com a História; da associação entre teoria e prática; da necessidade de se discutir os pressupostos do movimento enquanto uma nova utopia; e finalmente, da necessidade de uma crítica mais dialética para o aprofundamento da reflexão teórica do tema. No final do texto encontra-se uma agenda para um programa de ensino, em que se procura abordar as questões acima apresentadas de forma a serem estas partes dos tópicos necessários à compreensão e reflexão crítica sobre o movimento moderno.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Lélia</givenname>
+            <familyname locale="pt_BR">Mendes de Vasconcellos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-9</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="36" stage="production">
+      <id type="internal" advice="ignore">sdbr03-036</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="35" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">36</id>
+        <title locale="pt_BR">ABCP e ABNT</title>
+        <subtitle locale="pt_BR">contribuição histórica à construção econômica</subtitle>
+        <abstract locale="pt_BR">Esta comunicação traz para o debate os resultados parciais de um levantamento documental sistemático, buscando esclarecer a evolução da pesquisa tecnológica vinculada ao ramo da construção civil em São Paulo, no período que vai de 1936 a 1964, concentrando a atenção na atuação da e ABCP (Associação Brasileira de Cimento Portland1) e a ABNT (Associação Brasileira de Normas Técnicas). A ABCP, fundada em 1936, é fruto da organização da indústria cimenteira e a ABNT, fundada em 1940, surge através de reuniões do meio técnico lideradas pelos pesquisadores dos laboratórios de ensaio de materiais. As informações reunidas neste texto são parte do resultado do trabalho de duas bolsistas de iniciação científica. As pesquisas desenvolvidas incluem-se na linha de n° 4 do Projeto Temático “Habitação Econômica e Arquitetura Moderna, 1930-1964”, que trata da Construção Civil Habitacional. A ABNT foi objeto de estudo de Luciana Massami Inoue, de 1996 a 1998. Durante essa pesquisa, foi percebida a importância da biblioteca da ABCP como fonte de informações e dados, e a possibilidade de se estudar a própria Associação como atuante nos processos analisados por esta linha de pesquisa. Algum complemento à pesquisa sobre a ABNT foi realizado por Ana Carolina Sawaya Kaphan, que tem como objeto de pesquisa também a ABCP.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina</givenname>
+            <familyname locale="pt_BR">Sawaya Kaphan</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luciana</givenname>
+            <familyname locale="pt_BR">Massami Inoue</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+            <orcid>https://orcid.org/0000-0002-6683-1443</orcid>
+          </author>
+        </authors>
+        <pages>1-12</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="37" stage="production">
+      <id type="internal" advice="ignore">sdbr03-037</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="36" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">37</id>
+        <title locale="pt_BR">Sobre miscigenação, falta de tradição e orquídeas</title>
+        <subtitle locale="pt_BR">a nacionalização da Arquitetura moderna brasileira nas revistas de Arquitetura de língua alemã</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Márcio Correia</givenname>
+            <familyname locale="pt_BR">Campos</familyname>
+            <country>BR</country>
+            <email>campos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1038-5023</orcid>
+          </author>
+        </authors>
+        <pages>1-10</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="38" stage="production">
+      <id type="internal" advice="ignore">sdbr03-038</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="37" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">38</id>
+        <title locale="pt_BR">Plano Diretor de 1945 elaborado para Ribeirão Preto</title>
+        <subtitle locale="pt_BR">proposta do engenheiro José de Oliveira Reis</subtitle>
+        <abstract locale="pt_BR">O resgate do primeiro Plano Diretor para Ribeirão Preto, elaborado pelo engenheiro-urbanista José de Oliveira Reis, tem por objetivo destacar as propostas de caráter prospectivo para a cidade, no ano de 1.945, identificar os pressupostos teóricos utilizados pelo autor e suas vinculações às diversas correntes do pensamento urbano do nosso século. O Plano Diretor apresenta soluções para problemas da época, através das propostas de zoneamento, definição do sistema viário principal e criação de áreas públicas. Os aspectos inovadores do plano, se referem à: sua proposta de uma estrutura urbana para abrigar uma população projetada de 400 mil habitantes; implantação de vias perimetrais, radiais e transversais ( constituindo corredores comerciais); criação de parques de fundo de vale (objetivando espaços para lazer e saneamento de áreas alagadiças, com a construção de “parkways”); valorização das áreas verdes em loteamentos e ampliação do Bosque Municipal; projetos de loteamento (criando identidades diferenciadas para os bairros, com grandes quadras e áreas de uso comum); dimensionamento do aeroporto para aterrissagem de aviões de grande porte. Portanto, ainda que não implantado, o Plano Diretor de 1.945, se constitui como referência na história do pensamento urbano em Ribeirão Preto.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ozório</givenname>
+            <familyname locale="pt_BR">Calil Júnior</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luiz</givenname>
+            <familyname locale="pt_BR">Ferrarini Júnior</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="39" stage="production">
+      <id type="internal" advice="ignore">sdbr03-039</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="38" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">39</id>
+        <title locale="pt_BR">Aspectos de preservação da obra de Frank Lloyd Wright dentro do quadro da conservação do patrimônio moderno nos E.U.A.</title>
+        <abstract locale="pt_BR">O objetivo da comunicação é apresentar alguns aspectos recentes sobre a preservação da arquitetura, documentos e idéias de Frank Lloyd Wright e casos de restauração de algumas obras. Qual seria o interesse do conteúdo desta comunicação dentro do contexto da temática geral do III Seminário DOCOMOMO-Brasil? Neste momento de encolhimento progressivo do Estado e retraimento da ajuda governamental para fins culturais, é interessante conhecer alguns exemplos nos EUA de ações coordenadas de grupos comunitários, com ou sem o apoio de instituições oficiais, no sentido de preservar o patrimônio histórico, divulgar a memória da obra dos arquitetos e educar o grande público para a importância da arquitetura como expressão cultural e como elemento fundamental para a qualidade de vida urbana. Apresentaremos os seguintes casos: • Restauro da Dana-Thomas House em Springfield, Illinois. • Questões de preservação das casas da “fase maia” de Wright - restauro da Casa John Storer, Los Angeles, Califórnia. • A Taliesin Preservation Commission e suas atividades, enfocando os danos causado pela tempestade de Junho de 1998. • Investigação de problemas e estabilização estrutural da Fallingwater House, Mill Run, Pennsylvania. • O trabalho da Frank Lloyd Wright Conservancy no sentido de pesquisar, documentar e preservar a obra construida de Wright, junto a especialistas e usuários.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paulo Yassuhide</givenname>
+            <familyname locale="pt_BR">Fujioka</familyname>
+            <country>BR</country>
+            <email>fujioka@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-2113-6778</orcid>
+          </author>
+        </authors>
+        <pages>1-19</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="40" stage="production">
+      <id type="internal" advice="ignore">sdbr03-040</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="39" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">40</id>
+        <title locale="pt_BR">No olho do furacão</title>
+        <subtitle locale="pt_BR">as permanências do moderno no entorno do prédio do Ministério</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cêça</givenname>
+            <familyname locale="pt_BR">Guimaraens</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0003-1889-7883</orcid>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="41" stage="production">
+      <id type="internal" advice="ignore">sdbr03-041</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="40" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">41</id>
+        <title locale="pt_BR">Arquitetura moderna</title>
+        <subtitle locale="pt_BR">(con)tradições e (inov)ações</subtitle>
+        <abstract locale="pt_BR">Esta pesquisa se desenvolveu com o objetivo principal de relacionar a dialética entre tradição e inovação no processo de geração das formas arquitetônicas. Através da investigação da arquitetura produzida no Rio de Janeiro entre 1930 e 1957, a pesquisa demonstrou como a incorporação de imagens e experiências passadas foi transformada e reformulada, servindo de ponto de apoio a partir do qual emergiram novas formas arquitetônicas. Apesar da arquitetura moderna estar apoiada teoricamente em um discurso antitradicionalista e de ruptura com o passado, observamos na prática, que o discurso se materializou de modo menos idealista e mais ambíguo e dinâmico. Ao reformular valores e restabelecer referências, os arquitetos modernos recriaram formas, demonstrando que tradição e inovação não são conceitualmente opostos; são complementares e fazem parte de um processo contínuo e fluente no qual - embora nem sempre esteja evidente e claramente explícito - das formas nascem formas.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Elisabete</givenname>
+            <familyname locale="pt_BR">Rodrigues dos Reis</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0002-8838-1076</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="42" stage="production">
+      <id type="internal" advice="ignore">sdbr03-042</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="41" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">42</id>
+        <title locale="pt_BR">O tombo da praça?</title>
+        <abstract locale="pt_BR">A Praça dos Três Poderes de Brasília ilustra bem a dificuldade em se definir critérios de valor, para a preservação da Arquitetura Moderna. A Praça pensada no Plano Piloto de 1957 - um espaço com delimitações claras - não é a projetada e não é exatamente a Praça inaugurada em 1960. No mínimo, porque o partido adotado por Oscar Niemeyer para o Congresso é distinto do sugerido originalmente por Lúcio. Mesmo que se tome a Praça inaugurada como sendo a representação primária, canônica, clássica, segue- se a partir daí um processo de modificações que apesar do tombamento pelo IPHAN e o título de Patrimônio Histórico e Artístico da Humanidade concedido pela UNESCO, em 1987, ainda estão em curso. Tendo em vista contribuir de modo instrumental e provocativo para a discussão, no Seminário e partindo da análise da Praça pensada por Lúcio, o trabalho pretende registrar e comparar as diferentes configurações da Praça ao longo do tempo, sem querer estabelecer, com isso juízo de valor. Os diferentes momentos: - a Praça do Plano (1957), a pensada no Plano-Piloto; - a Praça do Anteprojeto (1958-1959), a primeira versão do Projeto; -a Praça da Inauguração (1960-1964), ela no momento da inauguração, a verdadeiramente executada; -a Praça do Regime Militar (de 1964 à 1984), os anexos, a inclusão do Mastro da Bandeira a colonização do cerrado; -a Praça da Abertura, do Tombamento (1985 até hoje), o Panteão, o Tombamento , os espaços culturais.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marcos Leite</givenname>
+            <familyname locale="pt_BR">Almeida</familyname>
+            <country>BR</country>
+            <email>almeida.marcos.arq@gmail.com</email>
+          </author>
+        </authors>
+        <pages>1-6</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="43" stage="production">
+      <id type="internal" advice="ignore">sdbr03-043</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="42" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">43</id>
+        <title locale="pt_BR">Localismo crítico e cosmopolitismo arquitetônico</title>
+        <subtitle locale="pt_BR">Mário de Andrade e a informação moderna de Arquitetura (1925-1929)</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Tavares</givenname>
+            <familyname locale="pt_BR">Correia de Lira</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-29</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="44" stage="production">
+      <id type="internal" advice="ignore">sdbr03-044</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="43" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">44</id>
+        <title locale="pt_BR">Modernidade, Modernismo e modernização</title>
+        <subtitle locale="pt_BR">as fábricas modernas da Via Anchieta</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Lucia Noemia</givenname>
+            <familyname locale="pt_BR">Simoni</familyname>
+            <country>BR</country>
+            <email>autor2@example.com</email>
+          </author>
+        </authors>
+        <pages>1-5</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="45" stage="production">
+      <id type="internal" advice="ignore">sdbr03-045</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="44" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">45</id>
+        <title locale="pt_BR">Os impasses da Arquitetura paulista recente</title>
+        <abstract locale="pt_BR">Os graves problemas urbanos da cidade de São Paulo e sua arquitetura comercial recente parecem indicar uma ruptura com a forte tradição da arquitetura moderna paulista. No entanto, os seus impasses atuais devem também ser compreendidos a partir das ambigüidades da experiência dos anos 50.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luiz</givenname>
+            <familyname locale="pt_BR">Recamán</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-14</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="46" stage="production">
+      <id type="internal" advice="ignore">sdbr03-046</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="45" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">46</id>
+        <title locale="pt_BR">O pórtico clássico como terminal aéreo</title>
+        <subtitle locale="pt_BR">o projeto dos Irmãos Roberto para o aeroporto Santos Dumont</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cláudio Calovi</givenname>
+            <familyname locale="pt_BR">Pereira</familyname>
+            <country>BR</country>
+            <email>pereira@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9488-0859</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="47" stage="production">
+      <id type="internal" advice="ignore">sdbr03-047</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="46" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">47</id>
+        <title locale="pt_BR">O Modernismo e o núcleo fabril</title>
+        <subtitle locale="pt_BR">o plano da cidade operária da F.N.M. de Attílio Correia Lima</subtitle>
+        <abstract locale="pt_BR">No Brasil a construção de vilas operárias e de núcleos fabris por empresas iniciou-se na segunda metade do século XIX, com o surgimento de aglomerações com organização espacial seguindo diretrizes estabelecidas pelo proprietário ou por engenheiros envolvidos no empreendimento industrial. Raramente tais diretrizes se materializavam na forma de um plano urbano completo e justificado conceitualmente. A partir da década de trinta do século XX assistiríamos a uma inovação significativa na forma de organização desses lugares: a emergência da figura do arquiteto e urbanista elaborando planos urbanos para vilas e núcleos fabris. Tais planos ora revelam uma nítida inspiração no modelo cidade-jardim como é o caso dos núcleos fabris de Harmonia e Lagoa criados pela Klabin no Paraná, ora evidenciam uma forte influência do urbanismo dos primeiros CIAM como foi o caso da proposta elaborada por Lúcio Costa para Monlevade em Minas Gerais. O trabalho trata do Parecer sobre o plano da Cidade Operária da Fábrica Nacional de Motores elaborado em 1943 por Attilio Correia Lima, contendo as diretrizes gerais que o arquiteto julgava que deveriam nortear o projeto que havia sido convidado a realizar. Sua morte naquele mesmo ano o impediu de concluir o plano, fato entretanto que não reduz a importância de seu parecer, enquanto um esforço de traduzir no âmbito do discurso e das proposições do Movimento Moderno sobre a cidade e a moradia, a já então centenária prática de construção de vilas operárias e núcleos fabris por indústrias.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Telma</givenname>
+            <familyname locale="pt_BR">de Barros Correia</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-8002-8748</orcid>
+          </author>
+        </authors>
+        <pages>1-12</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="48" stage="production">
+      <id type="internal" advice="ignore">sdbr03-048</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="47" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">48</id>
+        <title locale="pt_BR">Os princípios modernos aplicados à Arquitetura</title>
+        <subtitle locale="pt_BR">um estudo das escolas paulistanas nas décadas de 40, 50 e 60</subtitle>
+        <abstract locale="pt_BR">O trabalho aqui apresentado é resultado de estudos que vêm sendo empreendidos pelas autoras desde 1998 sobre arquitetura escolar, cujos resultados iniciais foram apresentados no I Encontro DOCOMOMO Estado de São Paulo – I Seminário: Grupo de Trabalho Vale do Paraíba, sob o título “Arquitetura Moderna e a Configuração das Escolas no Estado de São Paulo entre 1945 e 1964”. Desta vez a intenção é explorar mais detidamente o envolvimento de arquitetos e educadores no processo de democratização do acesso à escola pública na cidade de São Paulo no período em questão. A população paulistana aumentava rapidamente, em grande parte devido ao crescimento da indústria, o que gerou uma expressiva ampliação da demanda por serviços básicos de atendimento tais como saúde, saneamento básico, transporte, moradia e educação. Que concepções acerca do indivíduo e de sua inserção na sociedade orientaram a busca por soluções ágeis que atendessem à necessidade crescente de vagas nos estabelecimentos públicos de ensino? A partir do estudo de periódicos das áreas de arquitetura e educação, bem como de manuais escolares, o texto sustenta a idéia de que, tanto arquitetos quanto educadores tiveram nos princípios modernos de racionalidade, salubridade, eficiência e economia a base para suas propostas. Escolas paulistanas como aquelas construídas por ocasião do Convênio Escolar, firmado em 1948 entre a Prefeitura Municipal e o Governo do Estado de São Paulo consistiram na materialização destes ideais.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Gabriela Godinho</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>gabriela.lima@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0003-2529-0596</orcid>
+          </author>
+        </authors>
+        <pages>1-8</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="49" stage="production">
+      <id type="internal" advice="ignore">sdbr03-049</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="48" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">49</id>
+        <title locale="pt_BR">Edifício Esther</title>
+        <subtitle locale="pt_BR">impactos dolosos de seu tombamento</subtitle>
+        <abstract locale="pt_BR">Este artigo trata do panorama da preservação do patrimônio arquitetônico moderno nacional, tendo como objeto de reflexão o Edifício Esther, localizado na Praça da República, em São Paulo. Uma das primeiras manifestações de Arquitetura Moderna no país, este edifício vem sendo alvo de ações governamentais no sentido de sua conservação e preservação. Tais ações, entretanto, revelam-se contraditórias na medida em que conservam algumas descaracterizações sofridas pelo edifício desde os anos 70, e, também, por não contar com a adesão de seus proprietários e usuários neste processo.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernando</givenname>
+            <familyname locale="pt_BR">Atique</familyname>
+            <country>BR</country>
+            <email>atique@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-7681-1227</orcid>
+          </author>
+        </authors>
+        <pages>1-9</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="50" stage="production">
+      <id type="internal" advice="ignore">sdbr03-050</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="49" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">50</id>
+        <title locale="pt_BR">Cidade Operária de Monlevade</title>
+        <subtitle locale="pt_BR">novos conceitos de morar</subtitle>
+        <abstract locale="pt_BR">O estudo aborda as propostas urbanísticas desenvolvidas para a Cidade Industrial de Monlevade em concurso promovido pela Companhia Siderúrgica Belgo-Mineira no ano de 1934. Dentre as 13 proposições apresentadas, nos deteremos nos planos delineados pelo arquiteto Lúcio Costa e pelo engenheiro Lincoln Continentino. Ambos, ao seu modo, estavam sintonizados com o que de mais atual se fazia nos grandes centros urbanos. Enquanto Costa arriscava os primeiros passos na vanguarda do movimento moderno, ao adotar o sistema construtivo preconizado por Le Corbusier, em 1914, Continentino se apoiava nos pressupostos das cidades jardins, segundo modelo proposto por Ebenezer Howard, ainda no final do século XIX. De um lado, as soluções programáticas para a Cidade Operária de Monlevade antecipam estratégias que serão empregadas para a construção da cidade moderna no Brasil ao longo desse século. De outro lado, elas revelam as possibilidades de atuação profissional dos arquitetos e dos engenheiros, bem como os referenciais empregados, no confronto de visões em jogo.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fábio José</givenname>
+            <familyname locale="pt_BR">Martins de Lima</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+            <orcid>https://orcid.org/0000-0001-9071-2383</orcid>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="51" stage="production">
+      <id type="internal" advice="ignore">sdbr03-051</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="50" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">51</id>
+        <title locale="pt_BR">Preservação da Arquitetura dos primeiros modernos em Curitiba</title>
+        <subtitle locale="pt_BR">experiência de legislação de preservação de bens culturais modernos</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís Salvador</givenname>
+            <familyname locale="pt_BR">Gnoato</familyname>
+            <country>BR</country>
+            <email>gnoato@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-1223-4328</orcid>
+          </author>
+        </authors>
+        <pages>1-8</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="52" stage="production">
+      <id type="internal" advice="ignore">sdbr03-052</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="51" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">52</id>
+        <title locale="pt_BR">Estilo ou causa? Como, quando e onde?</title>
+        <subtitle locale="pt_BR">os conceitos e limites da historiografia nacional sobre o movimento moderno</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sônia Maria de Barros</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <country>BR</country>
+            <email>marquessonia@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0481-0118</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Guilah</givenname>
+            <familyname locale="pt_BR">Naslavsky</familyname>
+            <country>BR</country>
+            <email>guilahn@uol.com.br</email>
+            <orcid>https://orcid.org/0000-0003-3367-9657</orcid>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="53" stage="production">
+      <id type="internal" advice="ignore">sdbr03-053</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="52" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">53</id>
+        <title locale="pt_BR">O Setor Sul em Goiânia</title>
+        <subtitle locale="pt_BR">o espaço público abandonado</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliana</givenname>
+            <familyname locale="pt_BR">Costa Mota</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-13</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="54" stage="production">
+      <id type="internal" advice="ignore">sdbr03-054</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="53" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">54</id>
+        <title locale="pt_BR">A modernidade na Arquitetura contemporânea brasileira</title>
+        <subtitle locale="pt_BR">repercussões do grupo mineiro</subtitle>
+        <abstract locale="pt_BR">O estudo configura o primeiro ensaio da pesquisa que pretende investigar a expressão da modernidade como pensamento e prática na arquitetura contemporânea brasileira, procurando compreender a contribuição da produção ocorrida em Minas Gerais a partir da década de 80 e suas repercussões no Brasil. A abordagem parte da definição de modernidade em estética, para então mostrar as expressões deste conceito em arquitetura, mais especificamente na tendência denominada Arquitetura Moderna ou Modernismo em Arquitetura, que tem sua origem na Europa. Procura-se então, por enquanto, indicar as primeiras manifestações da assimilação destas idéias no Brasil, e mais especificamente em Minas Gerais, ao mesmo tempo em que é iniciada uma especulação sobre a questão central da pesquisa, que é a reflexão a respeito do comportamento das idéias de modernidade na produção da arquitetura em Minas Gerais a partir da década de 1980. As obras de dois arquitetos são utilizadas como referência nesta primeira reflexão: Éolo Maia e Gustavo Penna.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Raquel Dias</givenname>
+            <familyname locale="pt_BR">Vieira Braga</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="55" stage="production">
+      <id type="internal" advice="ignore">sdbr03-055</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="54" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">55</id>
+        <title locale="pt_BR">Reconhecimento e preservação da Arquitetura Art-Déco no Estado de São Paulo</title>
+        <abstract locale="pt_BR">O estudo e a preservação de parcela da produção arquitetônica paulista vinculada aos códigos formais e compositivos do art-déco se justifica, na medida em que não só reflete a necessidade de identificação dos agentes responsáveis pela introdução do “espírito moderno” em nosso meio ambiente construído como, também, contribui para a valorização de uma vertente de nossa modernidade relegada, até então, a um plano secundário em termos historiográficos e preservacionistas. Posto isto, busca-se estimular uma reflexão mais atenta em torno de sua importância e representatividade no período correspondente à primeira modernidade em nossa arquitetura, bem como informar quais as ações que estão em andamento junto ao Condephaat ,com vistas à preservação institucional de uma parte desse rico acervo.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vitor José</givenname>
+            <familyname locale="pt_BR">Baptista Campos</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-6</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="1999-01-01" status="3" submission_progress="0" current_publication_id="56" stage="production">
+      <id type="internal" advice="ignore">sdbr03-056</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="55" date_published="1999-01-01" section_ref="ART-sdbr03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">56</id>
+        <title locale="pt_BR">Palácio Gustavo Capanema</title>
+        <subtitle locale="pt_BR">processo de restauração e revitalização</subtitle>
+        <abstract locale="pt_BR">O Projeto de Restauração e Revitalização do Palácio Gustavo Capanema que vem sendo desenvolvido no Setor Técnico da Administração do PGC / IPHAN procura além de promover a restauração e conservação do bem tombado, inclusive de todo o acervo de obras de arte e mobiliário original, modernizar sua infra-estrutura, otimizar a ocupação dos espaços, potencializar a vocação cultural do prédio e normatizar sua utilização e manutenção.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Paulo Eduardo</givenname>
+            <familyname locale="pt_BR">Vidal Leite Ribeiro</familyname>
+            <country>BR</country>
+            <email>autor1@example.com</email>
+          </author>
+        </authors>
+        <pages>1-11</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

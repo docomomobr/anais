@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="1" stage="production">
+      <id type="internal" advice="ignore">sdsp08-001</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="0" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">1</id>
+        <title locale="pt_BR">Homenagem à odiléa toscano (1934-2015)</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sara</givenname>
+            <familyname locale="pt_BR">Goldchmit</familyname>
+            <country>BR</country>
+            <email>goldchmit@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9515-5029</orcid>
+          </author>
+        </authors>
+        <pages>19-21</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="2" stage="production">
+      <id type="internal" advice="ignore">sdsp08-002</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="1" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">2</id>
+        <title locale="pt_BR">João Walter toscano a partir de seu acervo</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vitor</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>lima@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">João Bittar</givenname>
+            <familyname locale="pt_BR">Fiammenghi</familyname>
+            <country>BR</country>
+            <email>fiammenghi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8810-0855</orcid>
+          </author>
+        </authors>
+        <pages>22-30</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="3" stage="production">
+      <id type="internal" advice="ignore">sdsp08-003</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">3</id>
+        <title locale="pt_BR">O arquiteto ubyrajara gilioli</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Jasmine Luiza Souza</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>silva@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-6156-4086</orcid>
+          </author>
+        </authors>
+        <pages>31-42</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="4" stage="production">
+      <id type="internal" advice="ignore">sdsp08-004</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2022-08-23" section_ref="SEC70-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">4</id>
+        <title locale="pt_BR">Francisco José Santoro</title>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristiane Kröhling Pinheiro Borges</givenname>
+            <familyname locale="pt_BR">Bernardi</familyname>
+            <country>BR</country>
+            <email>bernardi@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maísa Fonseca</givenname>
+            <familyname locale="pt_BR">de Almeida</familyname>
+            <country>BR</country>
+            <email>almeida@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-8824-1738</orcid>
+          </author>
+        </authors>
+        <pages>43-56</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="5" stage="production">
+      <id type="internal" advice="ignore">sdsp08-005</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="4" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">5</id>
+        <title locale="pt_BR">O Patrimônio Arquitetônico da universidade de São Paulo</title>
+        <subtitle locale="pt_BR">o caso do campus de São Carlos</subtitle>
+        <abstract locale="pt_BR">O artigo apresenta uma análise das obras arquitetônicas do campus da USP em São Carlos, produzidas antes e depois do Plano de Ação do Governo Carvalho Pinto (PAGE) no período 1954 até 2012. Os edifícios do campus representam, em diferentes momentos, concepções culturais que constituem um patrimônio singular das linguagens arquitetônicas presentes em 68 anos da existência da Universidade na cidade. Tomase como ponto de partida o início das obras do Edifício E1 e o término da construção do Centro de Convenções na Área ll.</abstract>
+        <abstract locale="en_US">The article presents an analysis of the architectural works of the USP campus in São Carlos, produced before and after the Carvalho Pinto Government Action Plan (PAGE) from 1954 to 2012. The campus’ buildings represent, at different times, cultural conceptions that consists in a unique heritage of architectural languages present in the 68 years of USP’s existence. The starting point is the beginning of the works on Building E1 and the completion of the construction of the Convention Center in Area ll.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plano de Ação</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Universidade de São Paulo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Action Plan</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>University of São Paulo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Julia</givenname>
+            <familyname locale="pt_BR">Simabukuro</familyname>
+            <country>BR</country>
+            <email>simabukuro@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0540-8366</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+        <pages>57-70</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

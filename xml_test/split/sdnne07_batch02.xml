@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdnne07-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">O IPHAN e o Hotel Internacional Reis magos</title>
+        <abstract locale="pt_BR">O presente artigo discute o parecer de indeferimento elaborado pelo Departamento de Patrimônio Material (DEPAM/ IPHAN) em resposta à solicitação de tombamento federal do Hotel Internacional Reis Magos (HIRM). Apesar de apontar para a consistência e o cuidado do Estudo de Tombamento, o parecer abre questionamentos sobre a “representatividade nacional” do bem em questão. O “caráter excepcional” é uma prerrogativa que tem sido cada vez menos evidenciada como determinante nos processos relativos ao patrimônio. O próprio IPHAN, nos últimos anos, tem se aberto à ampliação do conceito. Como ! delimitado desde a Carta de Veneza (1964), a preservação deve considerar a significação cultural que as obras adquirem ao longo do tempo. Se, como apontam diversos estudos, o HIRM é não apenas um dos exemplares mais significativos do modernismo em Natal e no Nordeste, mas, sim, um marco cultural importante para a cidade entre os anos 1960 e 1990 e, ainda hoje, referência na paisagem urbana, nos interessa indagar: será este o capítulo derradeiro de uma novela que envolveu diversos segmentos da sociedade natalense em prol da preservação e reusos do bem? Que chance o IPHAN deixa passar pelas suas mãos ao não encampar um reconhecimento mais amplo do patrimônio moderno brasileiro?</abstract>
+        <abstract locale="en_US">This article discusses the Opinion delivered by Brazil´s Institute of Historical and Artistic Patrimony (IPHAN) to reject the application for Hotel Internacional Reis Magos (HIRM)´s protection through federal heritage listing. In spite of highlighting the consistency and carefulness of the Listing Study, IPHAN´s Opinion raises questions about the “national representativity” of the building. “Exceptional nature” is a trait whose importance has been increasingly overlooked at heritage-related processes. In recent years, IPHAN itself has accepted the widening of the concept. As stated by 1964´s Venice Charter, preservation must take into account the cultural meaning acquired by the goods over the course of time. If, as several studies point out, HIRM is not only one of the most representative examples of Modernism in Natal and the Northeast of Brazil, but also an important cultural landmark for the city from the 1960´s to the 1990s and still today reference for the urban landscape, it is interesting to ask: is this the final chapter of a story that envolved several segments of Natal´s society in defense of the good´s preservation and reutilization? Which opportunities does IPHAN let slip through its fingers when it does not embrace a wider knowledge of Brazil´s modernist heritage?</abstract>
+        <keywords locale="pt_BR">
+          <keyword>preservação</keyword>
+          <keyword>tombamento</keyword>
+          <keyword>significação cultural</keyword>
+          <keyword>modernismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>preservation</keyword>
+          <keyword>heritage listing</keyword>
+          <keyword>cultural meaning</keyword>
+          <keyword>modernism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Natália Miranda</givenname>
+            <familyname locale="pt_BR">Vieira-de-Araújo</familyname>
+            <country>BR</country>
+            <email>vieira.m.natalia@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4756-9822</orcid>
+            <biography locale="pt_BR">Doutora em Desenvolvimento Urbano (2007). Professora do Departamento de Arquitetura e Urbanismo/UFPE</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">José Clewton</givenname>
+            <familyname locale="pt_BR">do Nascimento</familyname>
+            <country>BR</country>
+            <email>jclewton@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9723-9207</orcid>
+            <biography locale="pt_BR">Doutor, PPGAU-UFBA (2008)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">George Alexandre Ferreira</givenname>
+            <familyname locale="pt_BR">Dantas</familyname>
+            <affiliation locale="pt_BR">EESC-USP</affiliation>
+            <country>BR</country>
+            <email>georgeafdantas@ct.ufrn.br</email>
+            <orcid>https://orcid.org/0000-0002-8352-7590</orcid>
+            <biography locale="pt_BR">Doutor em História e Teoria da Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdnne07-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">O conjunto de valores patrimoniais</title>
+        <abstract locale="pt_BR">A década de 1960 em Maceió, Alagoas, é considerada como marco da verticalização na cidade. O bairro do Centro, um dos primeiros locais de ocupação, já no final da década de 1940, teve os dois primeiros edifícios de seis pavimentos construídos na estética modernista; mas apenas uma década depois é que os três exemplares de maior relevância nesse processo de verticalização e estética moderna serão materializados na paisagem da cidade. São construídos pela empresa de Waldomiro Breda o edifício de escritórios Brêda (1962), o edifício residencial São Carlos (1964) e o edifício Sede do Banco Econômico da Bahia (1964). O responsável técnico destes, desenhista e projetista Walter de Azevedo Cunha, filho ilustre do município de União dos Palmares, era atuante na capital com diversos projetos de residências que apresentavam uma linguagem moderna, mas são os três edifícios modernos que se destacam na sua história. Apesar da relevância das edificações e da área em que estão localizadas ser protegida pelo Plano Diretor de Maceió (2006) como uma Zona Especial de Preservação Patrimonial (ZEP) os exemplares estão passíveis de descaracterizações e consequentemente de ameaça de degradação dos seus atributos com significados patrimoniais históricos, estéticos, técnicos e de uso. Este trabalho tem como objetivo apresentar a interpretação, enquanto modos de apresentação, da Significância Cultural do legado exemplar de edificações de arquitetura moderna do desenhista e projetista Walter de Azevedo Cunha. Segundo a Carta de Burra (2013) do International Council on Monuments and Sites – ICOMOS Austrália ratifica que a política de gestão de um bem patrimonial deve ser baseada na compreensão da sua Significância Cultural; assim metodologicamente a investigação aqui apresentada se estruturou em três partes: a) levantamento dos documentos referenciais de registro dos atributos e significados relevantes da obra; b) a análise de conteúdo dos documentos; c) registro e análise dos atributos materiais e imateriais que caracterizam o conjunto da obra. Como resultados da investigação destacam-se a diferença de usos nas edificações, assim como dos atributos arquitetônicos que não se repetem nas três obras (pilotis no edifício residencial, detalhamento da fachada posterior no edifício de escritórios e fachada alternando faixa de cerâmica e vidro no edifício institucional). Em comum a composição geométrica das aberturas e planos de alvenaria das fachadas principais. Das três edificações a de uso residencial é a melhor conservada, mas não mais se vê os pilotis livre; e em processo de degradação o edifício Sede do Banco Econômico da Bahia, pois encontra-se sem uso. O resultado esperado deste trabalho entende-se como contribuição para as reflexões sobre a conservação e gestão da Significância Cultural da Arquitetura Moderna da paisagem histórica urbana da ZEP2 – bairro do Centro, em Maceió/AL.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Significância Cultural</keyword>
+          <keyword>Maceió</keyword>
+          <keyword>modernismo, Walter de Azevedo Cunha</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alice</givenname>
+            <familyname locale="pt_BR">Ramos de Almeida</familyname>
+            <affiliation locale="pt_BR">FAU</affiliation>
+            <country>BR</country>
+            <email>alice.almeida@fau.ufal.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Lúcia</givenname>
+            <familyname locale="pt_BR">Tone Ferreira Hidaka</familyname>
+            <affiliation locale="pt_BR">FAU</affiliation>
+            <country>BR</country>
+            <email>lucia.hidaka@fau.ufal.br</email>
+            <orcid>https://orcid.org/0000-0001-5018-626X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdnne07-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">O público e o privado</title>
+        <abstract locale="pt_BR">O processo de modernização da edilícia institucional ocorrido nos anos 1930 mediante as políticas governamentais do governo de Getúlio Vargas, oportunizou a concepção de uma arquitetura que fosse ! capaz de traduzir os ideais de progresso no Brasil (CAVALCANTI, 2006), seguindo assim até o período do regime militar. Em Belém, a modernidade seguiu-se com legislações municipais, como a lei 166 de 03 denovembro de 1943 e a lei 3450 de 06 de outubro de 1956, que permitiam a construção de edifícios em altura e a difusão da arquitetura residencial moderna por meio de referências estéticas e formais a partir de revistas, manuais técnicos e viagens (CHAVES, 2012); bem como a influência (ALBERTON, 2006) dos traços da arquitetura moderna brasileira. Neste cenário, destaca-se a atuação pioneira de engenheiros como Judah Levy, Laurindo Amorim, Camilo Porto de Oliveira e, posteriormente, Alcyr Meira na concepção e construção das obras de referências modernas pela cidade. O presente artigo pretende investigar as relações Estado-arquitetura e arquitetura-círculos sociais, demonstrando as potencialidades e particularidades projetuais dos engenheiros-arquitetos Camilo Porto de Oliveira e Alcyr Meira nas esferas pública e privada, entre edifícios representativos e residências, buscando as relações políticas e sociais que os levaram ao êxito profissional na capital paraense. Por meio de levantamentos documental, bibliográfico, iconográfico e visitas às obras foi possível a análise de obras selecionadas e a identificação das características históricas, formais e estéticas das tipologias, que permitem a reafirmação dos arquitetos e suas colaborações para a arquitetura moderna na cidade de Belém.</abstract>
+        <abstract locale="en_US">The process of modernization of the institutional edilicia occurred in the 1930s through the government policies of the Getúlio Vargas government, opportunized the conception of an architecture that was capable of translating the ideals of progress in Brazil (CAVALCANTI, 2006), thus continuing to period of the years military governments. In Belém, modernity continued with municipal legislations, such as Law 166 of November 3, 1943 and Law 3450 of October 6, 1956, which allowed the construction of high-rise buildings and the diffusion of modern residential architecture through aesthetic and formal references from magazines, technical manuals and trips (CHAVES, 2012); as well as the influence (ALBERTON, 2006) of the features of modern Brazilian architecture. In this scenario, outstanding is the pioneering performance of engineers such as Judah Levy, Laurindo Amorim, Camilo Porto de Oliveira and later Alcyr Meira in the conception and construction of works of modern references in the city. The present article intends to investigate the relations State-architecture and architecture-social circles, demonstrating the project potentialities and particularities of the engineers-architects Camilo Porto de Oliveira and Alcyr Meira in the public and private spheres, between representative buildings and residences, looking for relationships political and social factors that led to professional success in the capital of the state of Pará. By means of documentary, bibliographic, iconographic surveys and visits to the works, it was possible to analyze selected works and identify the historical, formal and aesthetic characteristics of the typologies, ! which allow the reaffirmation of the architects and their collaborations for modern architecture in the city of Belém.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Camilo Porto de Oliveira</keyword>
+          <keyword>Alcyr Meira</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Camilo Porto de Oliveira</keyword>
+          <keyword>Alcyr Meira</keyword>
+          <keyword>Belém</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Celma</givenname>
+            <familyname locale="pt_BR">Chaves</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>celma_chaves@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3437-3844</orcid>
+            <biography locale="pt_BR">Doutora em Teoria e História da Arquitetura pela Universidad Politécnica da Cataluña (2005)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rodrigo Augusto de</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>rodrigoadelima10@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-2268-8788</orcid>
+            <biography locale="pt_BR">Mestrando em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Laís</givenname>
+            <familyname locale="pt_BR">Viggiano</familyname>
+            <affiliation locale="pt_BR">PPGAU-UFPA</affiliation>
+            <country>BR</country>
+            <email>laisviggiano@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-8600-2936</orcid>
+            <biography locale="pt_BR">Mestranda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdnne07-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Modernidades e Arquitetura de difusão</title>
+        <subtitle locale="pt_BR">Aracaju 1950-1960's</subtitle>
+        <abstract locale="pt_BR">A compreensão da excepcionalidade da experiência moderna no Brasil deve extrapolar o eixo hegemônico SP-RJ (obras canônicas) e reconhecer a relevância de uma arquitetura de difusão que marcou a cena urbana das principais capitais do país que estava em acelerado processo de modernização em meados do século XX, com uma população urbana que crescia rapidamente e ajudava a construir a cena urbana erguendo novas construções ou reformando o que possuía através de um repertório de formas modernas. Isso demonstra o alcance geográfico e simbólico da arquitetura moderna brasileira. Dentre as muitas capitais brasileiras que respondem ao exposto acima, esta comunicação se concentra na cidade de Aracaju (SE) e busca revisar e ampliar a atual narrativa sobre seu processo de modernização e a introdução de um vocabulário moderno nos projetos residenciais a partir do levantamento de fontes primárias, dentre as quais o acervo documental de projetos do Arquivo Público de Aracaju tem revelado importantes dados novos sobre a modernização das construções e da paisagem urbana da cidade de Aracaju. A pesquisa do material correspondente às décadas de 1950 e 1960 tem permitido compreender o processo de recepção de uma linguagem projetual moderna em termos de forma, técnica e espacialidade, bem como a medida de modernização de fachadas, atualizando informações como autoria, data, responsáveis pelo projeto e execução, além do quantitativo de obras. Trata-se, por fim, dos primeiros resultados de um projeto de pesquisa em fase de conclusão, mas que já nos permite desenvolver novas análises e inferir novas considerações sobre o tema da difusão da arquitetura moderna no Brasil e o processo de modernização da cidade de Aracaju em meados do século XX, momento em que a história local é também parte da história nacional.</abstract>
+        <abstract locale="en_US">The understanding of the exceptionality of the modern experience in Brazil must overcome the hegemonic axis SP-RJ (canonic works) and recognize the relevance of an architecture of diffusion that marked the urban scene of the main capitals of the country that was in accelerated process of modernization in the middle of the 20th century, a fast-growing urban population that helped to redefine the urban scene building new constructions or remodeling what was built through a repertoire of modern forms. This demonstrates the geographical and symbolic reach of modern Brazilian architecture. Among the many Brazilian capitals that respond to the above, this communication focuses on Aracaju (Sergipe-Brazil) and aims to revise and extend the current narrative about its modernization process and the</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquivo Público</keyword>
+          <keyword>Aracaju</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>modern architecture</keyword>
+          <keyword>modern architecture in Brazil</keyword>
+          <keyword>Aracaju</keyword>
+          <keyword>public archive</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carolina Marques Chaves</givenname>
+            <familyname locale="pt_BR">Galvão</familyname>
+            <country>BR</country>
+            <email>carolinamchaves@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9444-3424</orcid>
+            <biography locale="pt_BR">Mestre pelo IAU-USP/São Carlos. Professora Assistente do Departamento de Arquitetura e Urbanismo da UFS</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdnne07-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">O ladrilho hidráulico na Arquitetura residencial moderna campinense</title>
+        <abstract locale="pt_BR">O artigo a ser apresentado trata do ladrilho hidráulico como objeto de estudo, relacionando como este tipo de revestimento – que popularmente é conhecido como mosaico – foi um elemento construtivo importante na constituição histórica da arquitetura moderna de Campina Grande - PB. A cidade foi palco de grande desenvolvimento no ramo de fabricação de ladrilhos, resultando na difusão da “cultura do ladrilho hidráulico”. Assim, o objetivo da pesquisa é investigar o ladrilho hidráulico nas residências modernas projetadas pelo engenheiro civil e arquiteto autodidata Geraldino Duda, buscando compreender a importância e o uso do revestimento em suas obras. O recorte temporal foi estabelecido entre os anos 1960 – 1969 por se tratar da década de intenso trabalho do arquiteto, consequentemente, período de grandes mudanças no cenário arquitetônico local. A metodologia da pesquisa se desenvolveu por uma abordagem qualitativa através do estudo de caso em questão (as residências modernas), pesquisa bibliográfica e análise documental sobre a modernidade na arquitetura da cidade. A observação de campo, através do registro de imagens esclarecerá questões levantadas durante a pesquisa. Assim, pretende-se com as contribuições dos resultados, através dos levantamentos de uso e composição dos ladrilhos hidráulicos, abrir caminhos para conhecimentos que podem elucidar questões sobre a substituição, em alguns casos, do azulejo por ladrilho hidráulico na modernidade campinense.</abstract>
+        <abstract locale="en_US">The article to be presented deals with the hydraulic tile as an object of study, relating how this type of covering - which is popularly known as mosaic - was an important constructive element in the historical constitution of the modern architecture of Campina Grande - PB. The city was a stage of great development in the field of tile manufacturing, resulting in the diffusion of the &quot;hydraulic tile culture&quot;. Thus, the objective of the research is to investigate the hydraulic tile in modern homes designed by the civil engineer and self-taught architect Geraldino Duda, seeking to understand the importance and the use of the coating in his works. The time cut was established between the years 1960 - 1969 because it is the decade of intense work of the architect, consequently, period of great changes in the local architectural scene. The research methodology was developed by a qualitative approach through the case study in question (the modern residences), bibliographical research and documentary analysis on the modernity in the architecture of the city. Field observation through the recording of images will clarify issues raised during the research. Thus, through the surveys of the use and composition of the hydraulic tiles, it is intended that the contributions of the results may lead to the development of knowledge that may elucidate questions about the replacement, in some cases, of the tile by hydraulic tile in Campinas modernity.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>ladrilho hidráulico</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>arquitetura residencial</keyword>
+          <keyword>materialidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>hydraulic tile</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>residential architecture</keyword>
+          <keyword>materiality</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em Projetos arquitetônicos. ETSAB. UPC Professora adjunta do curso de arquitetura e urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Arthur</givenname>
+            <familyname locale="pt_BR">Thiago Thamay Medeiros</familyname>
+            <country>BR</country>
+            <email>thiagothamay@hotmail.com</email>
+            <biography locale="pt_BR">Doutorando em Design pela UFRGS</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

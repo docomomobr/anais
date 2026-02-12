@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdnne07-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Cinema e Arquitetura Moderna</title>
+        <abstract locale="pt_BR">A produção da arquitetura moderna ainda não é assunto de conhecimento amplo, estando restrita ao circuito profissional, mais especificamente às produções acadêmicas. Buscando ampliar a relação com o tema, foi realizado um curta-metragem documentário sobre parte da produção do arquiteto pernambucano Wandenkolk Tinoco (Escola de Belas Artes de Pernambuco, 1959) – figura essencial no desenvolvimento de uma arquitetura moderna com ares locais, tanto por sua produção de prancheta quanto pela atuação como professor universitário. Resultado de um esforço multidisciplinar, este trabalho busca fazer um panorama sobre a produção do documentário “Wandenkolk” que estabelece um paralelo entre as ideias e os projetos do arquiteto. Através de entrevistas com o personagem e centrando o registro nas obras residenciais (multifamiliares e unifamiliares), foi possível representar a materialidade de sua obra e observar as relações de escalas com o usuário, a inserção na paisagem e a coerência da arquitetura com o clima. Ademais, estes temas foram apresentados através de um trabalho cinematográfico que busca apresentar não somente as especificidades da obra do arquiteto Wandenkolk Tinoco, mas as sensíveis diferenças entre os momentos de produção modernista e contemporâneo.</abstract>
+        <abstract locale="en_US">The production of modern architecture is not yet a matter of broad knowledge, being restricted to the professional circuit, more specifically that of academic productions. In order to get closer to the subject, a short documentary was made about part of the production of the Pernambuco architect Wandenkolk Tinoco (Escola de Belas Artes de Pernambuco, 1959) - an important name in the development of a modern architecture with local aspects, both for his works and for acting as a university professor. Result of a multidisciplinary effort, this article seeks to make an overview about the production of the documentary &quot;Wandenkolk&quot; that establishes a parallel between the architect's ideas and projects. Through interviews with the architect and focusing the registration on residential works (multifamily and single- family), it was possible to represent the materiality of his work and observe the relationships of scales with the user, the insertion in the landscape and the coherence of the architecture with the weather. In addition, these themes were presented through a cinematographic work that seeks to present not only the specificities of the work of the architect Wandenkolk Tinoco, but the sensitive differences between the moments of modernist and contemporary production.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Wandenkolk Tinoco</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Cinema</keyword>
+          <keyword>Pernambuco</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Wandenkolk Tinoco</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Cinema</keyword>
+          <keyword>Pernambuco</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luís</givenname>
+            <familyname locale="pt_BR">Henrique Barbosa Leal Maranhão</familyname>
+            <affiliation locale="pt_BR">Centro de Cultura</affiliation>
+            <country>BR</country>
+            <email>leal.luishenrique@gmail.com</email>
+            <biography locale="pt_BR">Mestre (2014)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Bruno</givenname>
+            <familyname locale="pt_BR">Firmino Costa da Silva</familyname>
+            <affiliation locale="pt_BR">DAU-UFPE</affiliation>
+            <country>BR</country>
+            <email>brunofirmino@gmail.com</email>
+            <biography locale="pt_BR">Mestre (2018)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdnne07-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">O lugar do centro de Boa Vista — RR</title>
+        <abstract locale="pt_BR">O centro de Boa Vista abriga história e origens arquitetônicas, sociais e culturais do meio urbano e passou de luxo a lixo com a o espraiamento da mancha urbana, a chegada de shoppings centers e o crescimento que tirou de si a virtude que carrega no nome: sua centralidade. Nas grandes cidades, os centros vêm mantendo, muitas vezes, apenas sua função econômica, marcados por processos de degradação e exclusão social, suas terras perdem valor e tornam-se obsoletos. Porém, na contramão do processo de ocupação do espaço urbano movido pelo interesse próprio e na necessidade de revitalizar espaços que, como o centro, dispõem de boa infraestrutura urbana e localização estratégica, ganham força projetos de revitalização e requalificação em áreas urbanas centrais. Sendo assim, esse artigo trata da proposta de estudar a condição de centro na cidade de Boa Vista, tendo em vista a evolução urbana da cidade, que é constantemente transformada pela dinâmica do capital que modifica o espaço e que, com o abandono das autoridades, gera desprezo quanto á sua função social, histórica e cultural. Nesses termos, este trabalho oferece o embasamento teórico que busca proporcionar melhores condições de entendimento do Centro de Boa Vista, capital do estado de Roraima.</abstract>
+        <abstract locale="en_US">Boa Vista's centre is home to history and architectural, social and cultural origins of the urban field. It has gone from luxurious to trashy due to the enlargement of the urban stripe, the establishment of malls and the growth that the place carries in its name: it is central. In big cities, too often centres have been main- taining exclusively their economical function. On one hand, they have been marked by processes of deg- radation and social exclusion, so its land is losing its worth and becoming obsolete. But on the other hand, going against the urban space occupation process moved by its own interests and in the need to give new life to spaces like the centre, which already have a nice infrastructure and strategic location, there are revitalization and requalification programs in central urban areas. On this scope, this article talks about the conditions at the centre of Boa Vista, considering the city's urban evolution, changing uninterruptedly by the dynamics of capital which transforms space, the abandoning regarding authorities and the neglect towards the social, historical and cultural functions. Thus, this work offers a base theory looking to up- grade conditions of understanding Boa Vista's Centre, in the capital city of the State of Roraima, Brazil.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Paisagem Cultural</keyword>
+          <keyword>Centro</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Paisagem Cultural</keyword>
+          <keyword>Centro</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ayana Dantas de</givenname>
+            <familyname locale="pt_BR">Medeiros</familyname>
+            <country>BR</country>
+            <email>ayana@aluno.unb.br</email>
+            <orcid>https://orcid.org/0000-0002-8050-7009</orcid>
+            <biography locale="pt_BR">Mestranda pelo Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Graciete</givenname>
+            <familyname locale="pt_BR">Guerra da Costa</familyname>
+            <affiliation locale="pt_BR">FAU-UnB</affiliation>
+            <country>BR</country>
+            <email>graciete.costa@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0003-2033-983X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdnne07-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">A superfície pétrea na obra residencial de g. duda</title>
+        <abstract locale="pt_BR">O estudo que pretende-se apresentar neste evento, está inserido no eixo temático 1, que aborda “Modernidade, Lugar e Ambiente”. Essa investigação é decorrente de estudos realizados pelo grupo de pesquisa Arquitetura e Lugar, cadastrado no Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), vinculado ao curso de arquitetura e urbanismo da Universidade Federal de Campina Grande (UFCG) voltado a pesquisas histórica e arquitetônica. O objeto de estudo trata: de um estudo sobre a superfície pétrea encontrada em duas residências projetadas na década de 1960, por Geraldino Duda em Campina Grande, Paraíba. Como objetivo pretende analisar a materialidade das superfícies pétreas, presentes nas citadas obras. Justifica-se por reconhecer a necessidade de salvaguardar a memória e técnicas da riqueza de seus tipos, ambientes, designs, composições, cores, texturas utilizadas na tectônica da modernidade campinense. A metodologia de pesquisa segue a vertente das propostas de GIL(2008), e de AFONSO(2017) também através coletas de dados a partir de fontes primárias e secundárias. O referencial teórico apoia-se em autores como, AFONSO e THAMAI (2016) e por AFONSO e GUIMARÃES (2016), FRAMPTON (1995), MONTANER (2002) , COSTA (2010), LE CORBUSIER (2009), entre outros.</abstract>
+        <abstract locale="en_US">The study that intends to present in this event, is inserted in thematic axis 1, that addresses &quot;Modernity, Place and Environment&quot;. This research is the result of studies carried out by the research group Arquitetura e Lugar, registered in the National Council of Scientific and Technological Development (CNPq), linked to the architecture and urbanism course of the Federal University of Campina Grande (UFCG) focused on historical and architectural research . The object of study is: a study of the stone surface found in two residences designed in the 1960s by Geraldino Duda in Campina Grande, Paraíba. The objective is to analyze the materiality of the stone surfaces present in the mentioned works. It is justified to recognize the need to safeguard the memory and techniques of the richness of its types, environments, designs, compositions, colors, textures used in the tectonics of Campin's modernity. The research methodology follows the proposals of GIL (2007) and AFONSO (2017), also through data collection from primary and secondary sources. The theoretical framework is based on authors such as AFONSO and THAMAI (2016) and AFONSO and GUIMARÃES (2016).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Arquitetônico</keyword>
+          <keyword>Preservação</keyword>
+          <keyword>Materialidade, Superfície Pétrea</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Architectural Patrimony</keyword>
+          <keyword>Preservation</keyword>
+          <keyword>Materiality, Stone Surface</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Déborah</givenname>
+            <familyname locale="pt_BR">Duarte de Araújo</familyname>
+            <country>BR</country>
+            <email>deborahdda2@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em projetos arquitetônicos pela ETSAB/UPC, Professora do curso de Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ingrid Mikaella de Oliveira</givenname>
+            <familyname locale="pt_BR">Lima</familyname>
+            <country>BR</country>
+            <email>ingridoliveiramkl@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3717-8737</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Camilla</givenname>
+            <familyname locale="pt_BR">Thais de Meneses Landim</familyname>
+            <country>BR</country>
+            <email>camilla.tml@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdnne07-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">A difusão da Arquitetura Moderna brutalista em Teresina</title>
+        <abstract locale="pt_BR">! A arquitetura brutalista, que iniciou na Europa, teve ampla aplicação em diversos países, inclusive no Brasil, chegando à capital do Piauí, Teresina. O presente artigo aborda a adoção do Brutalismo nas construções teresinenses, com o objetivo de entender a trajetória dessa tendência até a cidade, bem como a maneira que os arquitetos utilizaram os princípios modernos e os adequaram aos condicionantes climáticos da região. Para isso, foi necessário compreender o tema desde a sua origem, assim como também, apresentar a situação política e socioeconômica nacional da época, visto que, todos esses aspectos influenciam no trabalho desenvolvido pelo profissional de arquitetura. Em seguida, buscou-se obter informações acerca das características climáticas de Teresina. Dessa forma, foi escolhido dois exemplares dessa arquitetura, e então, realizado levantamento bibliográfico, fotográfico, bem como estudo do comportamento dos edifícios com relação à adequação climática, para então perceber, de modo amplo, as soluções e estratégias utilizadas nas edificações modernas brutalistas da cidade.</abstract>
+        <abstract locale="en_US">The Brutalist architecture, which began in Europe, was widely applied in several countries, including Brazil, reaching the capital of Piauí, Teresina. This article deals with the adoption of Brutalism in Teresian buildings, in order to understand the trajectory of this tendency towards the city, as well as the way in which the architects used the modern principles and adapted them to the climatic conditions of the region. For this, it was necessary to understand the theme from its origin, as well as to present the national political and socioeconomic situation of the time, since all these aspects influence the work developed by the professional of architecture. Next, was sought information about the weather characteristics of Teresina. In this way, two copies of this architecture were chosen, and then a bibliographical and photographic survey was carried out, as well as a study of the behavior of the buildings in relation to the climatic adequacy, in order to comprehend in a broad way the solutions and strategies used in the brutalist modern buildings of the city.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura brutalista</keyword>
+          <keyword>Estratégias bioclimáticas</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Brutalist architecture</keyword>
+          <keyword>Bioclimatic strategies</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia</givenname>
+            <familyname locale="pt_BR">Maria Santana Andrade Lima</familyname>
+            <affiliation locale="pt_BR">UFPI</affiliation>
+            <country>BR</country>
+            <email>slima@ufpi.edu.br</email>
+            <biography locale="pt_BR">Doutora em Desenvolvimento e Meio Ambiente. UFPI</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Vitória</givenname>
+            <familyname locale="pt_BR">Isabelle de Sousa Oliveira</familyname>
+            <affiliation locale="pt_BR">UFPI</affiliation>
+            <country>BR</country>
+            <email>vitoriaisabelle.isa@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdnne07-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">O patrimônio de um banco</title>
+        <abstract locale="pt_BR">A relevância deste artigo reside na necessidade de reconhecimento do edifício do Centro Administrativo do Banco do Nordeste (BNB) como patrimônio cultural, testemunho da fase final do modernismo nacional, evidenciando-o como um dos exemplares mais expressivos da arquitetura moderna no Ceará. Criado por Getúlio Vargas, o BNB é a principal empresa pública federal sediada em Fortaleza - CE. Durante o Governo Militar (1964-1985), o referido banco regional passou por um relevante processo de expansão de sua rede de atendimento, reflexo de uma política desenvolvimentista agressiva, onde a construção de novos edifícios assumiu um papel estratégico de consolidação da presença física da instituição dentro da sua área de atuação. Ao final deste período, o BNB construiu um acervo de 120 edifícios modernos, espalhados em 10 estados distintos, onde o principal exemplar desta fase expansionista foi o Centro Administrativo Presidente Getúlio Vargas (CAPGV), a atual sede do banco, de autoria dos arquitetos cearenses Marcos Thé (1950) e Wesson Nóbrega (1947), com paisagismo de Burle Marx (1909-1994). A análise do projeto em questão objetiva o conhecimento sobre as peculiaridades da arquitetura de tipologia bancária e da diversidade da produção moderna no Nordeste do Brasil, ressaltando os seus valores arquitetônicos e culturais.</abstract>
+        <abstract locale="en_US">The relevance of this article lies in the need to recognize the building of the Administrative Center of the Banco do Nordeste do Brasil (BNB) as cultural heritage, testimony of the final phase of national modernism, evidencing it as one of the most expressive examples of modern architecture in the state of Ceará. Created by Getúlio Vargas, BNB is the main federal public company headquartered in Fortaleza - CE. During the Military Government (1964-1985), this regional bank had a significant process of expansion of its public service units, reflecting an aggressive development policy, where the construction of new buildings assumed a strategic role of consolidating the physical presence of the institution within its operating area. At the end of this period, the BNB built a set of 120 modern buildings in ten different states, where the main example of this expansionary phase was the Centro Administrativo Presidente Getúlio Vargas (CAPGV), the bank's current headquarters, project designed by Marcos Thé (1950) and Wesson Nóbrega (1947), with landscape by Burle Marx (1909-1994). The analysis of this project has the objective of knowing the peculiarities of the banking typology architecture and the diversity of the modern production in the Northeast of Brazil, emphasizing its architectural and cultural values.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura Bancária</keyword>
+          <keyword>Fortaleza</keyword>
+          <keyword>Banco do Nordeste</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Banking Architecture</keyword>
+          <keyword>Fortaleza</keyword>
+          <keyword>Banco do Nordeste</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Anastácio</givenname>
+            <familyname locale="pt_BR">Braga Nogueira</familyname>
+            <country>BR</country>
+            <email>braganogueira@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

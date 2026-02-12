@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsul02-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Niemeyer e artigas</title>
+        <subtitle locale="pt_BR">aproximações e divergências na busca da expressão formal da estrutura</subtitle>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Carlos Fernando Silva</givenname>
+            <familyname locale="pt_BR">Bahima</familyname>
+            <affiliation locale="pt_BR">UNISINOS</affiliation>
+            <country>BR</country>
+            <email>cfbahima@unisinos.br</email>
+            <orcid>https://orcid.org/0000-0001-9782-2585</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alex Carvalho</givenname>
+            <familyname locale="pt_BR">Brino</familyname>
+            <affiliation locale="pt_BR">UNIVATES</affiliation>
+            <country>BR</country>
+            <email>brino@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0004-9497-2691</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsul02-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">O edifício teruszkin</title>
+        <abstract locale="pt_BR">O Edifício Teruszkin, com 19 pavimentos, localizado no centro de Porto Alegre, projetado em 1958 pela arquiteta Ivone Manske e pelo engenheiro Paulo Levacov, se insere na década e meia revisionista que questiona uma unidade ortodoxa a partir de meados dos anos 1950 mas segue, desde o ponto de vista compositivo, os preceitos corbuseanos desenvolvidos no Brasil pela Escola Carioca. Adota o tipo arquitetônico desenvolvido a partir da Lever House: uma torre de escritórios sobre uma base comercial articulada ao passeio público. Em sua configuração, transparece o paradoxo da plasticidade X industrialização surgida a partir da ambivalência própria do concreto armado: Sua capacidade em instrumentar a padronização dos elementos de arquitetura, supostamente passíveis de produção em série e em massa se revela no sistema estrutural reticulado do edifício, sobretudo na torre, expressão máxima do triunfo da técnica sobre a natureza. A fachada modular da base, com esquadrias de alumínio é análoga à dos edifícios corbuseanos da década de 1930, que representam um giro em relação às villas da década de 1920. (FRAMPTON, 1997) A plasticidade do material, ou seja, a capacidade de moldar-se a diversas formas, constituindo veículo de expressão escultórica, aparece nos extremos do edifício e na transição entre torre e base, em marquises e pilares diferenciados revestidos de granito ou pastilhas cerâmicas coloridas. Apesar da sua qualidade construtiva e compositiva, semelhante aos edifícios modernistas que, a partir dos anos 1950, verticalizam o centro da cidade sobre bases majestosas contextualizadas com a cidade tradicional, o Edifício Teruszkin é pouco conhecido e nunca foi publicado. Acredita-se que, através da sua documentação e análise crítica, este e outros exemplares similares e até então anônimos possam ser incorporados ao patrimônio moderno, contribuindo com sua valorização e preservação.</abstract>
+        <abstract locale="en_US">With 21 pavements downtown, the Teruszkin building was projected in 1958, by the architect Ivone Manske and the engineer Paulo Levacov. This building is inserted in the revisionist movement of the decade. It questions an orthodox unity from the 1950’s on, and on the other hand, follows the principles of Le Corbusier from the point of composition developed in Brazil by the Cariocan School. They adopt the architectonic type of Lever House: an office tower over a commercial basis articulated to the public side walk. Its configuration, however shows a paradox of plasticity vs industrialization resulting from the ambivalence of the steel concrete itself. Their skill to deal with the standardization of the elements of architecture to be produced in large scale, is revealed through the structural reticular system in the building, in the tower overall, as the utmost expression of triumph over nature. The modulated façade of the basis, with aluminium frames is similar to the Corbusian buildings of the 1930’s decade, representing a turn-over as to the Villas of the 1920’s decade. (FRAMPTON, 1997): The Plasticity of the materials or better, the capacity of moulding different shapes giving way to sculptural expressions which appears on the extremes of the building and the transition between tower and basis, in marquees and differentiated pillars, covered in granite or colored ceramic pastilles. The Teruszkin building is not well known in spite of its modernist constructive and compositive quality, wich from the 1950’s on, verticalized downtown on majestic basis, contextualized with the traditional city. We believe that through documentation and critical analysis this building and many others alike, anonymous, might be incorporated into modern patrimony as a contributing factor for their evaluation and preservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>edifício</keyword>
+          <keyword>moderno</keyword>
+          <keyword>concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>building</keyword>
+          <keyword>modern</keyword>
+          <keyword>steel concrete</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Andréa Soler</givenname>
+            <familyname locale="pt_BR">Machado</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>andreasolermachado@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0243-7946</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsul02-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Da refinaria à secretaria</title>
+        <subtitle locale="pt_BR">Racionalismo estrutural, socialismo nacional e Modernismo regional em obras públicas de fayet, Araújo &amp; moojen - 1962 a 1970</subtitle>
+        <abstract locale="pt_BR">A idéia de Arquitetura Moderna Gaúcha não se desenvolveu em termos de sistemas compositivos e elementos formais próprios, suficientes para sustentação de escola arquitetônica regional irradiadora e de um corpo disciplinar hereditário que fizesse jus à uma identidade formal. Em obras inaugurais de determinados expedientes da Arquitetura Moderna no Rio Grande do Sul, como a Refinaria Alberto Pasqualini (Canoas, 1962-68), de Carlos Fayet, Cláudio Araújo, Moacyr Moojen Marques e Miguel Pereira, epítetos de comedimento, rigor, racionalidade, economicidade, pragmatismo, frugalismo e sobriedade dão vazão à certa maneira de compreender e proceder mediante o problema arquitetônico, reveladora dos pormenores da Arquitetura Brasileira no sul. Se na Petrobrás o movimento “O petróleo é nosso” encontrou arquitetos simpáticos à corrente social da qual a Arquitetura Moderna Brasileira era uma causa, no projeto para a SMOV (Moojen, Vallandro e Ferreira, 1966), os meios arquitetônicos racionalizados, a idéia de arquitetura e urbanismo modernos como ferramentas sociais renovadoras e o exercício do oficio competente, encontraram uma das sedes. Projetada no aterro, para abrigar a nova Secretaria Municipal de Obras e Viação, graças ao crescimento do planejamento conseqüente da realização e implantação do plano de 1959, a idéia de um edifício próprio para as secretarias foi uma iniciativa dos funcionários. A necessidade funcional e o caráter simbólico implícito sustentaram os mesmos postulados de racionalidade conceptiva da Petrobrás, neste caso mais determinado pelo axioma da flexibilidade espacial e possibilidade de apropriação pelos usuários, como nas investigações modulares de Aldo van Eick, do que a horizontalidade e vazio da planta livre disposta pelo vão misieano. Composição acadêmica de base, piano nobile e ático, modulação severa, exus-esqueletus racionalizado, planta livre, integração de sistemas e instalações à arquitetura, pré-fabricação em concreto, uso de elementos industrializados, prestam tributo a Frank Lloyd Wright, Mies ou Le Corbusier, mas como conseqüência.</abstract>
+        <abstract locale="en_US">The idea of a “Gaucha” Modern Architecture was not developed on its own formal elements and composition systems, sufficient to support a regional, spreading architectural experience and a hereditary disciplinar corpus that could be worth of a formal identity. Certain inaugural works of Rio Grande do Sul Modern Architecture, like Alberto Pasqualini Refinery (Canoas, 1962-68), designed by Carlos Fayet, Claudio Araujo, Moacyr Moojen Marques and Miguel Pereira, allow manners of understanding and proceeding through the architectural problem by epithets of rigorousness, rationality, economicity, pragmatism and sobriety, unmasking particularities of South Brazilian Architecture. If “Oil is Ours” movement at Petrobras had supporter architects of the social thought which had the Brazilian Modern Architecture as a purpose, at the same time the SMOV project (Moojen, Vallandro and Ferreira, 1966) was representative of a rational architecture, including the concept of modern architecture and urbanism as regenerating social tools and also a competent professional practice. Built over a landfill, the new Municipal Office of Works and Traffic headquarters was an initiative leaded by its own public functionaries, due to the expansion allowed by the application of 1959 Director Plan. Functional requirements and an implicit symbolic character supported the same rational concept applied at Petrobras, but in this case determined more by spatial flexibility and user’s adaptation – like Aldo van Eyck modular investigations – than Miesian free-plan voids and horizontality. Academic composition of basement, piano nobile and attic; rigorous modulation; rational exoskeleton; free-plan; integration between architecture, installations and subsystems; precast concrete; industrialized elements – all these items can be seen as tributes to Frank Lloyd Wright, Mies or Corbusier, but as a consequence.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura no Sul</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>South Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Sérgio Moacir</givenname>
+            <familyname locale="pt_BR">Marques</familyname>
+            <affiliation locale="pt_BR">FA-UFRGS</affiliation>
+            <country>BR</country>
+            <email>marques@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0355-7923</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsul02-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Pilotis, pilar, pilastra</title>
+        <subtitle locale="pt_BR">variações brasileiras</subtitle>
+        <abstract locale="pt_BR">Pilotis, pilar, pilastra: variações brasileiras Este trabalho discute a proposição do pilotis por Le Corbusier no contexto dos Cinco Pontos da arquitetura, destacando a adoção original de Lucio Costa de pilares livres na base do edifício como recurso compositivo inteiramente distinto. Se para Le Corbusier os pilotis assumem caráter imaterial ao delimitar o vazio que “eleva” a edificação do solo, em aparente contradição com a materialidade do concreto armado que dá forma à estrutura independente, para Lucio Costa a seqüência de pilares constitui reinterpretação de um repertório arquitetônico que evoca a sala hipóstila, o pórtico, a colunata. Nesse sentido, em oposição à atitude vanguardista de rejeição dos modos tradicionais de composição, o arquiteto brasileiro inova sem afastar-se da noção de continuidade histórica de uma “nova arquitetura” que parte das práticas que a antecederam.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>pilotis</keyword>
+          <keyword>modernismo</keyword>
+          <keyword>composição arquitetônica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>pilotis</keyword>
+          <keyword>modernisme</keyword>
+          <keyword>composition architecturale</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rogério de Castro</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>oliveira@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsul02-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Tecnologia das construções em cascas</title>
+        <abstract locale="pt_BR">Esta pesquisa avalia a evolução do processo de construção das cascas em concreto armado através de uma análise comparativa de projetos onde a forma da casca foi o elemento determinante na concepção arquitetônica, construídos entre 1950 e 1960, com projetos onde a modelagem em elementos finitos determinou a forma, construídos entre 1970 e 1980. A pesquisa foi realizada em conjunto com a análise de projetos de arquitetos renomados como Píer Luigi Nervi, Felix Candela em comparação com a tecnologia utilizada na arquitetura paulista por arquitetos como Miguel Juliano e Jorge Wilhem no projeto do Palácio das Convenções do Anhembi. Cada um à sua maneira procurou soluções arquitetônicas onde a estrutura tem um papel preponderante, e se valeram essencialmente das estruturas espaciais em cascas. Apesar das construções em cascas de concreto serem consideradas marcos arquitetônico deixaram de ser construídas ao longo do tempo devido a fatores que vão desde o custo de construção com formas e escoramentos até o custo de manutenção das grandes superfícies com impermeabilização e conseqüentemente com corrosão da armadura. A pesquisa conclui que as construções em cascas sofrerão um novo impulso, a partir da evolução da tecnologia do concreto com o desenvolvimento do micro-concreto estrutural menos poroso que os concretos utilizados no período de 50 a 70, e da evolução dos programas por elemento finitos que permitirá modelagens das cascas em diferentes formas.</abstract>
+        <abstract locale="en_US">This research evaluates the evolution of the process of reinforced concrete shells roofs' construction through a comparative analysis of projects where the form of the shells was the decisive element in the architectural conception, built from 1950 to1960, with projects where the numerical simulation in finite elements determined the form, built from 1970 to1980. The research was accomplished together with the analysis of renowned architects' projects like Píer Luigi Nervi, Félix Candela in comparison to the technology used in the architecture from São Paulo by architects as Miguel Juliano and Jorge Wilhem in the project of the Palace of the Conventions of Anhembi. Each one did his own way and tried architectural solutions where the structure has a preponderant paper, and they were both essential to the space structures in shells. This was done despite the fact that the constructions in concrete shells have been considered architectural marks, they were not built any longer due to some factors that vary from the construction cost with forms and supports to the cost of maintenance of the great surfaces with making them waterproof and consequently with steel's corrosion. The research concludes that the shells' constructions will give a new pulse, starting from the concrete's technology evolution with the less porous structural development of the personal computer-concrete than the concretes used in the period from 50 to 70, and the evolution of the programs for finite element that will allow a numerical simulation of the shells in different forms.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>coberturas em casca</keyword>
+          <keyword>estruturas em cascas</keyword>
+          <keyword>cascas de concreto armado</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>shells roofs</keyword>
+          <keyword>shell structure</keyword>
+          <keyword>reinforced concrete shell</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Célia Regina Moretti</givenname>
+            <familyname locale="pt_BR">Meirelles</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>cerellesm@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4477-3895</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ricardo Hernán</givenname>
+            <familyname locale="pt_BR">Medrano</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>medrano@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Henrique</givenname>
+            <familyname locale="pt_BR">Dinis</familyname>
+            <affiliation locale="pt_BR">UPM</affiliation>
+            <country>BR</country>
+            <email>dinis@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3683-5707</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

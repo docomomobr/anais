@@ -1,0 +1,228 @@
+issue:
+  slug: sdrj02
+  title: 2º Encontro Docomomo Rio, Rio de Janeiro, 2012
+  subtitle: 'Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense'
+  description: 'GUIMARAENS, Cêça; MACHADO, Luiz Felipe; AMORA, Ana Albano; EL-JAICK, Inês (org.). Anais do 2º Encontro do Docomomo-Rio (arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense). Rio de Janeiro: UFRJ/FAU/PROARQ, 2013. 1 CD-Rom. ISBN 978-85-88341-55-5.'
+  year: 2012
+  volume: 1
+  number: 2
+  date_published: '2012-09-26'
+  isbn: 978-85-88341-55-5
+  publisher: UFRJ/FAU/PROARQ
+  editors:
+  - Cêça Guimaraens
+  - Luiz Felipe Machado
+  - Ana Albano Amora
+  - Inês El-Jaick
+  source: ''
+  sections:
+  - title: Artigos
+    abbrev: ART-sdrj02
+  - title: Pôsteres
+    abbrev: POST-sdrj02
+articles:
+
+- id: sdrj02-001
+  locale: pt-BR
+  arquivo_pdf: Cesar_Floriano.pdf
+  pages_count: 16
+  resumo: 'O conjunto do acervo de Roberto Burle Marx, um patrimônio múltiplo e complexo, reflete a personalidade polissêmica deste que foi um dos principais artistas do modernismo brasileiro e criador do jardim do século XX. É dentro deste marco referencial que sua obra se insere, e é a partir deste contexto que seu legado deve ser preservado. Para estabelecer uma política de preservação de seu acervo, é importante compreender sua totalidade criadora e contextualizar sua obra como resultado de um processo permanente de experimentação formal e como um fazer artístico integral. O conjunto de sua obra, marcado por um número significativo de desenhos, cenários, arranjos florais, pesquisa botânica, painéis murais, esculturas e jardins, revela uma dimensão poética que fazem dele um personagem central na cultura brasileira do século XX. A complexidade do tema, fontes e arquivos de Roberto Burle Marx, nos leva a desenvolver o presente texto em duas direções: apresentar uma breve contextualização de sua trajetória artística, mapeando as principais fontes e referências bibliográficas e analisar os centros de arquivos que acolhem sua memória projetual e artística.'
+  referencias:
+  - 'BOURDIEU, Pierre. La distinción, critério y bases del gusto. Madrid: Taurus, 1998.'
+  - 'FLEMING, Laurence. Roberto Burle Marx: um retrato. Rio de Janeiro: Ed. Índex, 1996.'
+  - 'SÁ CARNEIRO, Ana Rita; MAFRA, Fátima; FIGUEIRÔA, Aline. Os jardins de Burle Marx no Recife. Laboratório da paisagem, Recife, 2009.'
+  - 'DOURADO, Guilherme Mazza. Modernidade verde: jardins de Burle Marx. São Paulo: Edusp, 2009.'
+  - 'LANNA, Ricardo Samuel de. Roberto Burle Marx. Henrique Lahmeyer de Mello Barreto. Arquitetos do jardim. Belo Horizonte: The Rockefeller Foundation, 1998.'
+  - 'SANTOS, Eloisa. O paisagismo de Burle Marx e a moderna arquitetura brasileira. Dissertação de mestrado. Rio de Janeiro: UFRJ, 2004.'
+  - 'FLORIANO, Cesar. Roberto Burle Marx: El jardín como escenário del Arte Público. In: MADERUELO, Javier. Arte Público: arte y naturaleza. Huesca: Diputación de Huesca, 2000.'
+  - 'FLORIANO, Cesar. Estereótipos críticos da obra paisagística de Roberto Burle Marx. Revista Leituras Paisagísticas, n. 3, Rio de Janeiro: EBA-UFRJ, 2009, p. 158-171.'
+  - 'ÁLVAREZ, Dario. El jardín em la arquitectura del siglo XX. Barcelona: Editora Reverté, 2007.'
+  - 'DIAS, Robério. O Patrimônio paisagístico do Sítio Roberto Burle Marx: Uma visão geográfica. Tese de doutorado. Rio de Janeiro: UFRJ, 2008.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Fontes e acervos de Roberto Burle Marx
+  autores:
+  - givenname: Cesar
+    familyname: Floriano
+    email: floriano@exemplo.com
+    affiliation: PGAU-Cidade-UFSC
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-002
+  locale: pt-BR
+  arquivo_pdf: Claudia_Pianta_Cabral.pdf
+  pages_count: 6
+  resumo: 'Texto de abertura do 2º Encontro Docomomo Rio, que aborda a relação entre memória coletiva, arquivos de arquitetura e conhecimento histórico. A partir de Jacques Le Goff e Marc Bloch, discute o papel dos documentos como vestígios de um passado que, desde o presente, buscam abranger e compreender. Contextualiza a missão do Docomomo Internacional e do Docomomo Brasil na documentação e preservação do patrimônio moderno, e destaca a importância do tema do 2º Encontro Docomomo-Rio — Arquivos de arquitetura moderna: fontes e acervos para a preservação do patrimônio fluminense — para o avanço do conhecimento histórico da arquitetura moderna.'
+  referencias:
+  - 'LE GOFF, Jacques. Memória. In: Memória-História, Enciclopédia Einaudi, v. 1, Imprensa Nacional – Casa da Moeda.'
+  - 'LE GOFF, Jacques. Documento/Monumento. In: Memória-História, Enciclopédia Einaudi, v. 1, Imprensa Nacional – Casa da Moeda.'
+  - 'BLOCH, Marc. Apologia da História, ou o ofício de historiador. Rio de Janeiro: Jorge Zahar Editor, 2001.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Arquivos de Arquitetura, Patrimônio Moderno e conhecimento histórico
+  autores:
+  - givenname: Cláudia Piantá Costa
+    familyname: Cabral
+    email: cabral@exemplo.com
+    affiliation: PROPAR-UFRGS
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-003
+  locale: pt-BR
+  arquivo_pdf: Elizabete_Martins.pdf
+  pages_count: 9
+  resumo: 'O artigo apresenta o Núcleo de Pesquisa e Documentação (NPD) da UFRJ-FAU, um dos mais importantes acervos de arquitetura e urbanismo moderno brasileiro, que salvaguarda a produção de diferentes arquitetos como Jorge Machado Moreira, Affonso Eduardo Reidy, Carlos Leão, Aldary Toledo, Severiano Mario Porto, Firmino Saldanha, Irmãos Roberto, Luiz Paulo Conde, Carmem Portinho e Sergio Bernardes. Descreve os procedimentos de recepção, inventário, higienização, restauração, acondicionamento e digitalização dos documentos, que compreendem plantas, fotografias e documentos textuais. Destaca a importância dos trabalhos acadêmicos da Escola Nacional de Belas Artes e da Faculdade Nacional de Arquitetura como registros sobre a história do ensino de arquitetura no Rio de Janeiro.'
+  referencias:
+  - 'BONDUKI, Nabil. Affonso Eduardo Reidy. São Paulo: Instituto Lina Bo & P.M. Bardi, 2000.'
+  - 'CZAJKOWSKI, Jorge. Rio de Jorge Machado Moreira. Rio de Janeiro: Centro de Arquitetura e Urbanismo do Janeiro, 1999.'
+  - 'ESTEVÃO, Sílvia Ninita de Moura; FONSECA, Vitor Manoel Marques da; PAES, Marilena Leite. Norma Brasileira de Descrição Arquivística — NOBRADE. Rio de Janeiro: Conarq, 2006.'
+  - 'LE GOFF, Jacques. Histoire et mémoire. Paris: Éditions Gallimard, 1988.'
+  - 'MARTINS, Elizabete Rodrigues de Campos. A Arquitetura Brasileira de Severiano Mario Porto. Arquitextos 209, dez. 2003.'
+  - 'MARTINS, Elizabete Rodrigues de Campos; PARUCHER, João Cláudio; VIANA, Cláudio Muniz. Arquitetura x Acervos de Arquitetura. In: Universidade e Lugares de Memória. Rio de Janeiro: UFRJ, SIBI, FCC, 2008.'
+  - 'ROVO, Mirian Keiko Ito; OLIVEIRA, Beatriz Santos. Por um regionalismo eco-eficiente: a obra de Severiano Mario Porto. Arquitextos 226, abr. 2004.'
+  - 'UZEDA, Helena Cunha. Ensino Acadêmico e Modernidade. O curso de arquitetura da Escola Nacional de Belas Artes 1890-1930. Tese de Doutorado em História e Crítica da Arte, UFRJ-EBA, 2006.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Acervos de arquitetos cariocas
+  autores:
+  - givenname: Elizabete Rodrigues de Campos
+    familyname: Martins
+    email: martins@exemplo.com
+    affiliation: PROARQ-UFRJ
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-004
+  locale: pt-BR
+  arquivo_pdf: Helio_Herbst.pdf
+  pages_count: 22
+  resumo: 'Muito além de noticiar os bastidores da primeira bienal paulistana, inaugurada em setembro de 1951, periódicos de grande tiragem sublinharam a magnitude do evento e sua importância para a difusão de conhecimentos. Em contrapartida, algumas publicações tão somente questionaram os resultados do júri de premiação, deliberadamente mais favorável aos trabalhos de caráter não figurativo, alimentando o acalorado debate entre figuração e abstração. Ao longo do período de funcionamento das primeiras bienais, revistas e diários veicularam ilustrações satíricas capazes de sinalizar uma peculiar interpretação das obras expostas na seção de artes e na mostra de arquitetura. A partir dos dados levantados no Arquivo Histórico Wanda Svevo, esta comunicação pretende ressaltar o teor dos artigos publicados sobre as obras expostas nas cinco primeiras edições da bienal paulistana, colocando-se em evidência os limites entre o visível e o legível, bem como a recorrente dificuldade de aceitação ante o desconhecido.'
+  resumo_en: 'Quite apart from reporting the first São Paulo Biennial backstage, opened in September 1951, mass circulation journals have highlighted the magnitude of the event and its importance to the dissemination of knowledge. In contrast, some publications had only questioned the results of the prize jury, deliberately favorable to non-figurative art, feeding the heated debate between figuration and abstraction. During the first biennial, journals and magazines published cartoons, which signaled a peculiar interpretation of the works exhibited in the arts and in the architecture sections. From the data collected in the Arquivo Histórico Wanda Svevo (Biennial Foundation archives), this communication wants to highlight aspects of the reception, in the sense proposed by Hans Robert Jauss, of the works displayed in the five first editions of the show, noting the boundaries between visible and legible, and the recurring difficulty for accepting the unknown.'
+  referencias:
+  - 'AMARAL, Aracy A. Arte para quê? A preocupação social na arte brasileira 1930-1970. 2. ed. São Paulo: Nobel, 1987.'
+  - 'AMARAL, Aracy A. (org.). Dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, 1981.'
+  - 'AMARANTE, Leonor. As bienais de São Paulo 1951-1987. São Paulo: Projeto, 1989.'
+  - 'BARDI, Pietro Maria. Sodalício com Assis Chateaubriand. São Paulo: Masp, 1982.'
+  - 'CHARTIER, Roger. A história cultural: entre práticas e representações. Lisboa: Difel, 1990.'
+  - 'HERBST, Helio. O pavilhão do Trianon da I Bienal do MAM/SP. São Paulo: FAU/USP, 1996.'
+  - 'HERBST, Helio. Pelos salões das bienais, a arquitetura ausente dos manuais: contribuições para a historiografia brasileira (1951-1959). São Paulo: Annablume / Fapesp, 2011.'
+  - 'JAUSS, Hans Robert. A história da literatura como provocação à teoria literária. São Paulo: Ática, 1994.'
+  - 'LOURENÇO, Maria Cecília França. Operários da modernidade. São Paulo: Hucitec/ Edusp, 1995.'
+  - 'SONTAG, Susan. Ensaios sobre fotografia. Lisboa: Dom Quixote, 1986.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Achados e perdidos nos arquivos da Fundação Bienal
+  autores:
+  - givenname: Helio
+    familyname: Herbst
+    email: herbst@exemplo.com
+    affiliation: UFRRJ
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-005
+  locale: pt-BR
+  arquivo_pdf: Luiz_Felipe.pdf
+  pages_count: 12
+  resumo: 'O artigo reflete sobre a necessidade de facilitar o acesso aos documentos do Movimento Moderno, fundamentais para a pesquisa e a produção teórica em Arquitetura. Argumenta que o acervo construído nas décadas de 1940 e 1950 na região fluminense é enorme e ainda pouco estudado. Compara a situação brasileira com a experiência francesa, citando a Fundação Le Corbusier e o Instituto Francês de Arquitetura (IFA) como modelos de preservação e disponibilização de acervos documentais. Propõe a criação no Rio de Janeiro de um centro de pesquisa exemplar para documentos do Movimento Moderno, com boas condições de atendimento ao pesquisador, especialmente ao iniciante.'
+  referencias:
+  - 'FREYRE, Gilberto. Casa grande & senzala [1933]. São Paulo: Ed. Global, 2004.'
+  - 'FREYRE, Gilberto. O luso e o trópico. Lisboa: Congresso Internacional de História dos Descobrimentos, 1961.'
+  - 'NESBIT, Kate (org.). Uma nova agenda para a arquitetura. São Paulo: Cosac Naify, 2006.'
+  - 'PRADO JÚNIOR, Caio. Formação do Brasil contemporâneo [1942]. São Paulo: Editora Brasiliense, 1994.'
+  - 'RIBEIRO, Darcy. O povo brasileiro, a formação e o sentido do Brasil. São Paulo: Companhia das Letras, 1995.'
+  - 'SOUZA, Luiz Felipe Machado Coelho de. Les frères Roberto, architectes: bâtiments d''habitat collectif construits à Rio de Janeiro, 1945-1969. Paris, 2006. Tese de Doutorado.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Reflexões sobre a preservação do Patrimônio
+  subtitulo: pela facilitação do acesso aos documentos do Movimento Moderno
+  autores:
+  - givenname: Luiz Felipe Machado Coelho de
+    familyname: Souza
+    email: souza@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-006
+  locale: pt-BR
+  arquivo_pdf: Cristina_Lodi.pdf
+  pages_count: 8
+  resumo: 'O artigo apresenta as perspectivas e desafios institucionais do IPHAN frente à Lei nº 12.527/2011 (Lei de Acesso à Informação), que regulamentou a disponibilização ao público dos documentos de trabalho produzidos pelo poder público. Descreve as ações do IPHAN para guarda, promoção e divulgação da documentação relativa ao Patrimônio Cultural Brasileiro, desde a criação do Instituto em 1937. Apresenta o Sistema Nacional de Patrimônio Cultural (SNPC), o Arquivo Central Noronha Santos, os bancos de dados informatizados disponíveis pela internet e o acervo da Superintendência do IPHAN no Rio de Janeiro, com destaque para a documentação referente ao período modernista brasileiro.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: As perspectivas e desafios institucionais frente à nova Lei de Abertura dos Acervos
+  autores:
+  - givenname: Maria Cristina Vereza
+    familyname: Lodi
+    email: lodi@exemplo.com
+    affiliation: IPHAN
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-007
+  locale: pt-BR
+  arquivo_pdf: Marlice_Azevedo.pdf
+  pages_count: 9
+  resumo: 'O artigo discute a importância do diálogo entre Arquivologia e Arquitetura para a preservação de acervos documentais de arquitetura e urbanismo. Apresenta um panorama internacional das iniciativas de preservação, citando os Archives d''Architecture Moderne de Bruxelas, o Instituto Francês de Arquitetura (IFA), o Centre Canadien d''Architecture, a Avery Library, a University of Pennsylvania Architectural Archives, o RIBA e o NAI da Holanda. No Brasil, destaca a situação precária dos acervos, a atuação de universidades como FAU-USP e FAU-UFRJ, e a criação da Câmara Setorial de Arquivos de Arquitetura, Engenharia e Urbanismo do CONARQ em 2006. Argumenta que os arquivos de arquitetura e urbanismo devem ser tratados como "Arquivos Especializados" e não meramente cartográficos.'
+  referencias:
+  - 'AZEVEDO, Marlice Nazareth Soares. Condiciones de los acervos de los arquitectos modernos brasileños. In: Archivos de Arquitectura, Documentos para el Debate. Alcalá, 2004.'
+  - 'AZEVEDO, Marlice Nazareth Soares; CAVALCANTE, André Luis M.; COSTA, Milena Sampaio. Memória de papel — Acervos do Movimento Moderno carioca. Anais do 6º Seminário Docomomo-Brasil, Niterói, 2005.'
+  - 'BLANCO, Manuel. Los archivos de architecture. In: Archivos de Arquitectura, Documentos para el Debate. Alcalá, 2004.'
+  - 'BONDUKI, Nabil (org.). Affonso Eduardo Reidy. São Paulo: Instituto Lima Bo e P.M. Bardi; Lisboa: Ed. Blau, 1999.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981.'
+  - 'CHOAY, F.; MERLIN, Pierre. Dictionaire de l''urbanisme et de l''amenagement. Paris: PUF, 1988.'
+  - 'CONDURU, Roberto. Espaço da Arte Brasileira / Vital Brasil. São Paulo: Cosac & Naify, 2000.'
+  - 'COSTA, Lucio. Lúcio Costa, Registro de uma vivência. São Paulo: Empresas das Artes, 1995.'
+  - 'FROTA, Leila Coelho. Alcides Rocha Miranda, caminho de um arquiteto. Rio de Janeiro: Ed. UFRJ, 1993.'
+  - 'GUTIERREZ, Ramón. Los archivos de arquitectura em el contexto iberoamericano. In: Archivos de Arquitectura, Documentos para el Debate. Alcalá, 2004.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1999. São Paulo: Edusp, 1997.'
+  - 'VITAL BRAZIL, Alvaro. 50 anos de arquitetura. São Paulo: Nobel, 1986.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: O necessário diálogo entre Arquivologia e Arquitetura
+  autores:
+  - givenname: Marlice Nazareth Soares de
+    familyname: Azevedo
+    email: azevedo@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-008
+  locale: pt-BR
+  arquivo_pdf: Renato_Costa.pdf
+  pages_count: 14
+  resumo: 'O artigo aborda o patrimônio moderno da saúde no Brasil entre 1930 e 1960, período marcado pela criação dos serviços federais de combate a doenças e pela construção de hospitais, sanatórios, dispensários e laboratórios com linguagem arquitetônica moderna. Apresenta um inventário da produção arquitetônica para a saúde desenvolvido pela Casa de Oswaldo Cruz/Fiocruz, com mais de 100 edifícios identificados no Rio de Janeiro. Destaca a atuação de equipes de arquitetos em órgãos públicos, como a Divisão de Obras do Ministério da Educação e Saúde, a Campanha Nacional Contra a Tuberculose (com Sérgio Bernardes) e o Serviço Especial de Saúde Pública. Discute os desafios de preservação desse acervo, citando exemplos internacionais de valorização do patrimônio sanatorial moderno.'
+  referencias:
+  - 'BITTENCOURT, Tânia Maria Mota. Peste branca — arquitetura branca: os sanatórios de tuberculose no Brasil na primeira metade do século vinte. Dissertação de mestrado. São Carlos, 2000.'
+  - 'CREMNITZER, Jean-Bernard. Architecture et Santé. Les temps du sanatorium en France et Europe. Paris: Éditions A. et J. Picard, 2005.'
+  - 'COSTA, Renato Gama-Rosa. Arquitetura e saúde no Rio de Janeiro. In: PORTO, Ângela et al. História da saúde no Rio de Janeiro: instituições e patrimônio arquitetônico (1808-1958). Rio de Janeiro: Editora Fiocruz, 2008.'
+  - 'COSTA, Renato Gama-Rosa. Healthcare in Brazil. 1930-1960: preserving the modern architectural legacy. Docomomo Journal, n. 37, sept. 2007.'
+  - 'COSTA, Renato Gama-Rosa; PESSOA, Alexandre; RIBEIRO, Cristina. Restauração do Refeitório Central. In: Anais do 6º Seminário Docomomo-Brasil. Niterói, 2005.'
+  - 'DESAI, Miki. The last surviving solarium. Jamnagar, Índia (1936). Docomomo Journal, n. 35, set. 2006.'
+  - 'NASCIMENTO, Dilene; COSTA, Renato Gama-Rosa; PESSOA, Alexandre; MELLO, Estefânia Neiva de. Sanatório de Curicica: um Sérgio Bernardes pouco conhecido. Vitruvius, 2003.'
+  - 'OLIVEIRA, Benedito; COSTA, Renato Gama-Rosa; PESSOA, Alexandre. Um lugar para a ciência. Rio de Janeiro: Editora Fiocruz, 2003.'
+  - 'Rede Brasil. Inventário Nacional do Patrimônio Cultural da Saúde: bens edificados e acervos. Rio de Janeiro: Casa de Oswaldo Cruz/Fiocruz, 2006.'
+  - 'RIBEIRO, Lourival. A luta contra a tuberculose no Brasil (apontamentos para a sua história). Rio de Janeiro: Editorial Sul-Americana, 1956.'
+  - 'SEGAWA, Hugo. Arquitetura na Era Vargas: o avesso da unidade pretendida. In: PESSOA, José et al. (org.). Moderno e Nacional. Niterói: EDUFF, 2006.'
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: O Patrimônio Moderno da saúde (1930 — 1960)
+  autores:
+  - givenname: Renato
+    familyname: Gama-Rosa Costa
+    email: costa@exemplo.com
+    affiliation: COC-Fiocruz
+    country: BR
+    primary_contact: true

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul06</id>
+  <description locale="pt_BR">6º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre: Marcavisual, 2019. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-85-61965-77-8</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>6</number>
+    <year>2019</year>
+    <title locale="pt_BR">6º Seminário Docomomo Sul, Porto Alegre, 2019</title>
+  </issue_identification>
+  <date_published>2019-11-07</date_published>
+  <last_modified>2019-11-07</last_modified>
+  <sections>
+    <section ref="AC-sdsul06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">30</id>
+      <abbrev locale="pt_BR">AC-sdsul06</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsul06-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Guillermo jullian de La fuente</title>
+        <subtitle locale="pt_BR">a trajetória do arquiteto chileno entre dois projetos herdados de Le Corbusier</subtitle>
+        <abstract locale="pt_BR">O arquiteto chileno Guillermo Jullian de la Fuente (1931-2008) foi um dos principais colaboradores latino-americanos de Le Corbusier, teve importante participação em projetos realizados durante sua passagem pelo Ateliê da Rue Sèvres entre 1959 e 1965, experiência encerrada com a morte do mestre franco-suíço. Considerado um dos mais fiéis discípulos, assumiu a responsabilidade de continuar projetos em andamento e comandar realizações póstumas do escritório francês. A experiência foi determinante para sua carreira, não apenas por se tratar do maior laboratório da cultura arquitetônica moderna, mas pelas circunstâncias que o tornaram herdeiro de trabalhos que abriram um campo de pesquisa em sua trajetória profissional. Desenvolvidos paralelamente no início da década de 60, o Hospital de Veneza (1963-1969) e a Embaixada da França em Brasília (1963-1965) são projetos amplamente investigados na obra de Le Corbusier, nos quais Jullian teve participação em diferentes níveis de envolvimento e com atuação decisiva sobre seus desdobramentos após 1965. O princípio organizacional do Hospital exerce forte influência em pesquisas e projetos subsequentes de Jullian, que desenvolveu a proposta original em nível de projeto executivo através de um processo que demonstra fidelidade e coerência entre os esboços iniciais e sua versão final. Já no projeto da Embaixada, ao optar por não modificar a ideia original do mestre, elabora uma proposta inteiramente nova e pouco conhecida, baseada no método projetual que constitui sua investigação sobre sistemas ordenadores. O presente estudo tem como objetivo investigar a trajetória entre os dois projetos com foco no desenvolvimento da ferramenta conhecida por Yellow Peripherical Distinction (YPD) que o arquiteto aplica em seus projetos para capital brasileira. A contextualização no período revela como o contato com Team 10 impactou sua produção e aponta para a possibilidade de interpretação do projeto realizado da Embaixada da França em Brasília (1971-1974) como uma manifestação de mat-building.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Guillermo Jullian de la Fuente</keyword>
+          <keyword>Le Corbusier</keyword>
+          <keyword>Hospital de Veneza</keyword>
+          <keyword>Embaixada da França em Brasília</keyword>
+          <keyword>Yellow Peripherical Distinction</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Cristina</givenname>
+            <familyname locale="pt_BR">Gondim</familyname>
+            <country>BR</country>
+            <email>gondim.cristina@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3525-2542</orcid>
+          </author>
+        </authors>
+        <pages>157-181</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsul06-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Cápsula do tempo</title>
+        <subtitle locale="pt_BR">residência germano vollmer Filho, 1967-69, Porto Alegre, arquiteto João Carlos Paiva da Silva</subtitle>
+        <abstract locale="pt_BR">A arquitetura moderna produzida em Porto Alegre, Lado B da produção moderna nacional, costuma ser contada e estudada, como não poderia deixar de ser, a partir de suas obras excepcionais, em geral de maior escala e indiscutível qualidade, mas que, no entanto, obtiveram pouco destaque ou reconhecimento acima do Mampituba. Se no contexto nacional essas obras não são Lado A, seu estudo mais aprofundado, no entanto, revela algumas surpresas interessantes, especialmente se considerarmos projetos de menor escala como as residências unifamiliares. Este parece ser o caso da Residência Germano Vollmer Filho, no bairro Petrópolis, em Porto Alegre, de autoria do arquiteto João Carlos Paiva da Silva em 1967 e construída em 1969. Sua condição atual pode ser considerada bastante rara: segue habitada pelos mesmos moradores desde sua construção. Sem jamais ter sido reformada ou alterada, e sim conservada, a obra reflete ao longo dos últimos cinquenta anos uma relação respeitosa e afetiva de seus moradores para com o falecido arquiteto, tendo mantida sua concepção inalterada, numa demonstração inequívoca de perfeito atendimento das necessidades dos clientes. Além de apresentar a obra, pouco conhecida até mesmo no contexto local, o artigo pretende discutir a questão da preservação e conservação do patrimônio moderno com enfoque nas residências unifamiliares de Porto Alegre, cuja vida útil depende não somente de seus atributos construtivos, mas também do desejo de seus moradores e sua identificação com a obra. Além disso, o trabalho também procura sustentar que há uma produção residencial unifamiliar porto-alegrense em extinção, cujo conjunto merece reconhecimento, ainda que, por vezes, seja Lado B em seu próprio território.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura moderna</keyword>
+          <keyword>residência</keyword>
+          <keyword>casa brasileira</keyword>
+          <keyword>projeto</keyword>
+          <keyword>Porto Alegre</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Daniel Pitta</givenname>
+            <familyname locale="pt_BR">Fischmann</familyname>
+            <country>BR</country>
+            <email>fischmann@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0002-8082-4853</orcid>
+          </author>
+        </authors>
+        <pages>182-195</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsul06-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Horacio baliero e a construção da paisagem</title>
+        <subtitle locale="pt_BR">o caso do cemitério parque de mar del plata</subtitle>
+        <abstract locale="pt_BR">O enfrentamento da grande escala sobre a paisagem natural é um tema que interessa à arquitetura moderna, estabelecendo um desafio que abrange a resolução do projeto em si, bem como a capacidade de produção de território. Horacio Baliero (1927-2004), em sua obra para o Cemitério Parque de Mar del Plata, abarca essas questões de forma contundente, demonstrando os anseios do movimento moderno em estabelecer relações entre o edifício e o local de inserção, assim como a preocupação com a expansão territorial. Considerado um expoente da arquitetura moderna argentina pelos seus pares, Baliero dedicou-se simultaneamente à docência e à prática, desenvolvendo mais de 80 projetos de diversas escalas e programas.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Horacio Baliero</keyword>
+          <keyword>Cemitério Parque de Mar del Plata</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Diego Fonseca Brasil</givenname>
+            <familyname locale="pt_BR">Vianna</familyname>
+            <country>BR</country>
+            <email>diego.fonseca@estacio.br</email>
+          </author>
+        </authors>
+        <pages>196-212</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsul06-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">O hospital lagoa</title>
+        <subtitle locale="pt_BR">conciliando preservação patrimonial e atualização funcional no caso hospitalar</subtitle>
+        <abstract locale="pt_BR">O atual Hospital Federal da Lagoa foi inicialmente um hospital geral privado, tendo seu padrão modificado ao longo das seis décadas de atividade, o que contribuiu para acentuar as contínuas adequações funcionais que o programa requer. Neste âmbito, o fato relevante foi a construção do anexo de gabarito baixo à direita do ingresso, no final dos anos setenta, dedicado ao atendimento ambulatorial. Impossibilitado de assumir o projeto, Niemeyer demonstrou contrariedade ao indicar um profissional que não foi contratado. A intervenção não chegou a prejudicar a percepção da obra, mas constitui outro aspecto que agrega substância à análise. Concluído em 1958, foi comprado pelo IAPB em 1962, passando a seguir para rede pública federal; o atendimento atual é restrito ao SUS, voltado a cirurgias de média e alta complexidade. No sentido contrário, existe a necessidade de preservação do bem, o que se restringe a determinados setores e âmbitos, como a configuração espacial, o tratamento de fachadas, os espaços interiores com qualidade arquitetônica reconhecida, especialmente aqueles visitáveis pelo público, e os painéis de Bulcão e jardins de Burle Marx. Este trabalho busca analisar as intervenções realizadas nessa obra emblemática da arquitetura moderna, tentando entender como e foi possivel compatibilizar a preservação patrimonial com a atualização funcional que o programa hospitalar requer.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Oscar Niemeyer</keyword>
+          <keyword>arquitetura hospitalar</keyword>
+          <keyword>patrimônio</keyword>
+          <keyword>funionalidade</keyword>
+          <keyword>restauro</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Gustavo Fluckseder</givenname>
+            <familyname locale="pt_BR">Cemin</familyname>
+            <country>BR</country>
+            <email>gustavo.cemin@gmail.com</email>
+          </author>
+        </authors>
+        <pages>213-224</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2019-11-07" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsul06-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2019-11-07" section_ref="AC-sdsul06" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Duas residências unifamiliares gaúchas e as ações sofridas ao longo de 50 anos de existência</title>
+        <abstract locale="pt_BR">O presente trabalho apresenta duas residências projetadas em 1969 por quatro arquitetos da segunda geração de modernos do Rio Grande do Sul: Luis Carlos da Silva Zubaran, José Carlos Pereira da Rosa, David Léo Bondar e Arnaldo Knijnik. A primeira foi projetada para João Cândido Silveira da Rosa por Zubarán e Rosa; a segunda casa foi para o médico Marco Aurélio Rosa, projeto de Bondar e Knijnik.O propósito do trabalho é analisar as intervenções sofridas nas duas casas, de linguagem arquitetônica bem distintas; busca entender como a arquitetura moderna residencial gaúcha foi preservada nesses dois exemplares. Com base nos documentos originais dos projetos e fotos da época, a partir da visitação nas residências e entrevistas com os arquitetos que nelas interviram, pretende-se discorrer sobre as mudanças necessárias com o passar do tempo. A escolha pelas residências deu-se primeiramente pelo ineditismo, pela data e por um interesse pessoal dos autores. O propósito do artigo é difundir esta arquitetura, aproveitando para debater de que forma preservá-la, aqui são apenas dois exemplares, mas cujos projetos de renovação podem servir de exemplo à várias outras obras da arquitetura moderna das décadas de 1960 e 1970.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>residências</keyword>
+          <keyword>intervenção</keyword>
+          <keyword>renovação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">João Paulo Silveira</givenname>
+            <familyname locale="pt_BR">Barbiero</familyname>
+            <country>BR</country>
+            <email>silveirabarbiero@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Alexandre Bataioli da</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>alexandrebataioli@gmail.com</email>
+          </author>
+        </authors>
+        <pages>225-240</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

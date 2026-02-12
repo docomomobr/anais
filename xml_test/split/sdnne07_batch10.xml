@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="46" stage="production">
+      <id type="internal" advice="ignore">sdnne07-046</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="45" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">46</id>
+        <title locale="pt_BR">O instituto Isaías Alves (iceia)</title>
+        <abstract locale="pt_BR">O texto traz uma reflexão sobre a edificação de um importante complexo educacional realizado em Salvador durante o período Vargas: o Instituto Central de Educação Isaías Alves (ICEIA). O projeto é atribuído a Alexander Büddeus e a obra foi realizado pela Christiani &amp; Nielsen (1936-1939). ! Pretende-se examinar o ICEIA a partir das suas principais características arquitetônicas, assinalando as suas concepções iniciais, suas principais transformações e suas circunstâncias atuais. Tem-se a intenção de conectar o ICEIA com outras experiências arquitetônicas, como as escolas construídas no Rio de Janeiro durante o mesmo momento, projetadas pelo arquiteto Enéas Silva.</abstract>
+        <abstract locale="en_US">The focus of the paper is an important educational complex constructed in Salvador during the Vargas period: the Isaías Alves Central Education Institute (ICEIA). The project is attributed to Alexander Büddeus and was carried out by the Construtora Christiani &amp; Nielsen (1936-1939). The work intends to analyse the ICEIA paying attention to its main architectural features, pointing out its initial conceptions, its main transformations and its current circumstances. It aims to connect the ICEIA with other architectural experiences, such as the schools built in Rio de Janeiro during the same moment, designed by the architect Enéas Silva. Another objective is to situate the ICEIA project within the context of the modernization of the Vargas period. The paper points out the connection between two educators, Anísio Teixeira and Álvaro Silva, pointing out the importance they attribute to the connection between educational and architectural projects. Finally, the text intends to call attention to the importance of ICEIA, and to point out the need for its conservation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>ICEIA</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>ICEIA</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina de Souza</givenname>
+            <familyname locale="pt_BR">Bierrenbach</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>acbierrenbach@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0441-7036</orcid>
+            <biography locale="pt_BR">Doutorado (2006)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Luiz</givenname>
+            <familyname locale="pt_BR">Antonio Fernandes Cardoso</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>lulacard@gmail.com</email>
+            <biography locale="pt_BR">Doutorado (2009)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="47" stage="production">
+      <id type="internal" advice="ignore">sdnne07-047</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="46" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">47</id>
+        <title locale="pt_BR">A transformação do acervo moderno da prata</title>
+        <abstract locale="pt_BR">O presente artigo tem como objeto de estudo as transformações ocorridas no acervo residencial moderno do Bairro da Prata, localizado na cidade de Campina Grande, Paraíba. Para tal análise selecionou-se como ! estudo de caso, uma obra arquitetônica projetada em 1964, pelo arquiteto autodidata campinense, Geraldino Duda: a residência José Augusto de Almeida. Tem-se como objetivo apresentar as modificações projetuais sofridas pela edificação ao longo do tempo. Justifica-se pela dificuldade de conservação do patrimônio moderno campinense. A construção mencionada encontra-se em desuso, mas com proposta de intervenção para adaptação ao uso comercial. A pesquisa desenvolve-se através do GRUPAL/Grupo de Pesquisa Arquitetura e Lugar, da Universidade Federal de Campina Grande. A metodologia usada para análise do objeto arquitetônico foi baseada em AFONSO (2017), que propõe o trabalho com as cinco dimensões da arquitetura: histórica - apoiada em SERRA (2006), espacial, funcional, tectônica e formal. Foi realizada a investigação do objeto arquitetônico e sua relação com os distintos condicionantes que o originaram. Acredita-se que os resultados obtidos possam contribuir para preservação cultural e arquitetônica das obras modernas campinenses.</abstract>
+        <abstract locale="en_US">The present article has as study object the transformations occurred in the modern residential collection of Prata’s neighborhood, located in Campina Grande, Paraíba. For this analysis a project designed in 1964 by Geraldino Duda was selected as the case study: the José Augusto de Almeida residence. The objective is to present the project modifications suffered by the building over time. It is justified by the difficulty of preserving the Campinense modern patrimony. The mentioned construction is in disuse, but with a proposal of intervention for adaptation to the commercial use. The research is developed by the GRUPAL, a Federal University of Campina Grande’s academic group. The methodology used for the analysis of the architectural object was based on AFONSO (2017), which proposes the work with the five dimensions of architecture: historic - supported by SERRA (2006), spatial, functional, tectonic and formal. An investigation was made about the architectural object and its relation with the different conditions that originated it. It is believed that its results have been expanded with the cultural and architectural preservation of campinenses modern residences.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+          <keyword>Preservação</keyword>
+          <keyword>Conservação</keyword>
+          <keyword>Geraldino Duda</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Modern Heritage</keyword>
+          <keyword>Preservation</keyword>
+          <keyword>Conservation</keyword>
+          <keyword>Geraldino Duda</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UAEC-UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Professora adjunta</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Carine</givenname>
+            <familyname locale="pt_BR">Ayanne Mendes de Farias</familyname>
+            <affiliation locale="pt_BR">UAEC-UFCG</affiliation>
+            <country>BR</country>
+            <email>carineayanne@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Marjorie</givenname>
+            <familyname locale="pt_BR">Jordana Garcia Fernandes</familyname>
+            <affiliation locale="pt_BR">UAEC-UFCG</affiliation>
+            <country>BR</country>
+            <email>marjorie_jordana@hotmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="48" stage="production">
+      <id type="internal" advice="ignore">sdnne07-048</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="47" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">48</id>
+        <title locale="pt_BR">Um moderno amazônico</title>
+        <abstract locale="pt_BR">A presente pesquisa é resultado de um projeto de extensão vinculado ao curso de graduação em Arquitetura e Urbanismo da Universidade Nilton Lins e tem como objetivo principal a analise projetual ! de quatro obras residenciais do arquiteto Severiano Porto na cidade de Manaus/AM. A análise projetual caracteriza-se por uma leitura reflexiva e crítica da arquitetura, sendo essencial para o conhecimento dos processos e estratégias dos projetos residenciais do arquiteto. Severiano Porto foi um dos arquitetos brasileiros pioneiros a atuar na região amazônica, onde buscou uma identidade regional para a arquitetura moderna, tendo consciência de que os fatores regionais deveriam ser estudados para aplicação adequada no projeto. Nesta pesquisa serão anlisadas as residencias: “Casa do Cafundó”, “Casa Porto”, “Casa Robert Schuster”, e a “Casa Alexandre Alê dos Santos”; através de um roteiro metodológico que utiliza o redesenho e a modelagem 3D para a compreensão dos projetos no âmbito projetual, construtivo, funcional e plástico. A pesquisa se baseia tanto na relevancia projetual e conceitual das obras do arquiteto, quanto pelo fato dessas produções ainda serem pouco conhecidas e documentadas. Assim, a presente pesquisa visa também contribuir para a melhor compreensão das obras do arquiteto Severiano Porto e os estudos sobre a arquitetura amazonense.</abstract>
+        <abstract locale="en_US">The present research is the result of an extension project linked to the undergraduate course in architecture and urbanism of the University Nilton Lins and has as its main objective the analysis of four residential works of the architect Severiano Porto in the city of Manaus/AM. The concept analysis is characterized by a reflective and critical reading of the architecture, being essential for the knowledge of the processes and strategies of the architect's residential projects. Sandoval Porto was one of the pioneer Brazilian architects to act in the Amazon region, where he sought a regional identity for modern architecture, being aware that the regional factors should be studied for proper application in the project. In this research, the residences will be anflated: &quot;Casa do Cafundó&quot;, &quot;Casa Porto&quot;, &quot;Casa Robert Schuster&quot;, and the &quot;Casa Alexandre ale dos Santos&quot;; Through a methodological roadmap that uses the redesign and 3d modeling for the understanding of the projects in the framework concept, constructive, functional and plastic. The research is based both on the relevance concept and conceptual of the works of the architect, as for the fact that these productions are still little known and documented. Thus, the present research aims also to contribute to the better understanding of the works of the architect Severiano Porto and the studies sore the architecture Amazonense.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Severiano Porto</keyword>
+          <keyword>redesenho</keyword>
+          <keyword>regionalismo</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Severiano Porto</keyword>
+          <keyword>Redesign</keyword>
+          <keyword>Regionalism</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana</givenname>
+            <familyname locale="pt_BR">do Nascimento Guerreiro</familyname>
+            <country>BR</country>
+            <email>anag@uniniltonlins.edu.br</email>
+            <biography locale="pt_BR">Mestranda em História – PPGH/UFAM. Professora e pesquisadora da Universidade Nilton Lins</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana</givenname>
+            <familyname locale="pt_BR">Lúcia da Silva Abrahim</familyname>
+            <country>BR</country>
+            <email>abrahim@niltonlins.br</email>
+            <biography locale="pt_BR">Mestre em Sociedade e Cultura – PPGSCA/UFAM. Professora e pesquisadora da Universidade Nilton Lins</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Taise</givenname>
+            <familyname locale="pt_BR">Costa de Farias</familyname>
+            <country>BR</country>
+            <email>tfarias@niltonlins.br</email>
+            <orcid>https://orcid.org/0000-0001-5390-6269</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo– PPGAU/UFPB. Professora e pesquisadora da Universidade Nilton Lins</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="49" stage="production">
+      <id type="internal" advice="ignore">sdnne07-049</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="48" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">49</id>
+        <title locale="pt_BR">Plano urbanístico da Cidade de Boa Vista</title>
+        <abstract locale="pt_BR">Este artigo tem como objetivo contextualizar sobre o Plano Urbanístico da cidade de Boa Vista fazendo um recorte do espaço público de lazer e convivência chamado Complexo Poliesportivo Ayrton Senna. Este espaço surgiu a partir da concepção inicial do projeto assinado por Darcy Aleixo Derenusson, como eixo da simetria do traçado. Assim sendo, assume importante papel, tanto para a compreensão topológica quanto para integração dentro da proposta do Plano Urbanístico, tendo sofrido alterações que, contudo, fortalecem os aspectos da formação da paisagem urbana e a composição paisagística do espaço. O estudo em tela visará à compreensão histórica do desenho urbano e dos espaços públicos, com foco nos jardins e praças como elementos arquitetônicos e paisagísticos que caracterizam lugares agradáveis, apresentando aspectos que contribuem na qualidade de vida da sociedade e sustentabilidade do espaço. Entendendo-se sua importância, é essencial compreender o papel das praças brasileiras - que também passaram por fases que mudaram a paisagem urbana e deram lugar a áreas mais humanizadas através dos jardins, como advento da modernidade e a refuncionalização dos espaços públicos, inserindo a importância social a estes lugares. O lugar de memória e as relações entre os conjuntos urbanos e paisagísticos modernos são os enfoques deste artigo.</abstract>
+        <abstract locale="en_US">This article aims to contextualize about the Urban Plan of the city of Boa Vista making a cut of the public space of leisure and coexistence called Complex Poliesportivo Ayrton Senna. This space arose from the initial conception of the project signed by Darcy Aleixo Derenusson, as axis of the symmetry of the route. Thus, it assumes an important role, both for the topological understanding and for integration within the Urban Plan proposal, having undergone changes that, however, strengthen the aspects of urban landscape formation and landscape composition of the space. The screen study will focus on the historical understanding of urban design and public spaces, focusing on gardens and squares as architectural and landscape elements that characterize pleasant places, presenting aspects that contribute to the quality of life of society and the sustainability of space. Understanding its importance, it is essential to understand the role of Brazilian squares - which also went through phases that changed the urban landscape and gave way to more humanized areas through gardens, as the advent of modernity and the refunctionalization of public spaces, inserting the importance to these places. The place of memory and the relations between modern urban and landscape groups are the focuses of this article.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Plano Urbanístico</keyword>
+          <keyword>Espaço Público</keyword>
+          <keyword>Paisagismo</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Urban Plan</keyword>
+          <keyword>Public Space</keyword>
+          <keyword>Landscaping</keyword>
+          <keyword>Boa Vista</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">S</givenname>
+            <familyname locale="pt_BR">Trajano</familyname>
+            <country>BR</country>
+            <email>sued.trajano@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-9059-4441</orcid>
+            <biography locale="pt_BR">Mestranda em Geografia (2017)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Márcio Baraúna</givenname>
+            <familyname locale="pt_BR">Bento</familyname>
+            <country>BR</country>
+            <email>marcio.bento@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-0072-4653</orcid>
+            <biography locale="pt_BR">Mestrando em Geografia (2017)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">A.T.R.Sander, R.C</givenname>
+            <familyname locale="pt_BR">Veras</familyname>
+            <affiliation locale="pt_BR">IGEO-UFRR</affiliation>
+            <country>BR</country>
+            <email>antonio.veras@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0001-9213-9306</orcid>
+            <biography locale="pt_BR">Doutor em Geografia Humana (2009)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="50" stage="production">
+      <id type="internal" advice="ignore">sdnne07-050</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="49" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">50</id>
+        <title locale="pt_BR">Uma Discussão sobre Intervenções</title>
+        <abstract locale="pt_BR">O presente trabalho estuda o processo de desenvolvimento dinâmico da Faculdade de Tecnologia da Universidade Federal do Amazonas, a fim de compreender como as mudanças ocorridas durante sua expansão afetaram valores patrimoniais importantes atribuídos aos edifícios originais de Severiano Mário Porto. Para que esta compreensão seja efetivada, faz-se necessário relacionar inicialmente sustentabilidade à Arquitetura Moderna, onde em um primeiro momento se discute suas características gerais até chegar ao trabalho realizado pelo arquiteto no Amazonas, destacando a Faculdade de Tecnologia como objeto de estudo. A seguir, a pesquisa analisa primeiramente cada etapa do desenvolvimento de maneira individual, buscando identificar aspectos arquitetônicos sustentáveis e preservacionistas relacionados ao Movimento Moderno na Amazônia. Em segundo lugar, destacam-se as mudanças sofridas nos edifícios para então apresentar o objeto de estudo nos dias de hoje o comparando ao original e identificando significativas perdas. Finalmente são apresentadas as conclusões, onde os dados obtidos durante a pesquisa por meio da análise descritiva são abordados, sendo também expostas as propostas de possíveis recursos a serem utilizados para que o crescimento da Universidade não afete características patrimoniais importantes.</abstract>
+        <abstract locale="en_US">The following studies analyze the dynamic development process of Federal University of Amazonas’ Technology Campus, in order to understand how the changes that occurred through its growth affected important heritages values credited to Severiano Mário Porto’s original constructions. With the purpose to achieve this understanding, it’s required to initially relate sustainability to Modern Architecture including its general aspects to later emphasize the Technology Campus as main study. Firstly after that, the studies analyses apart each phase of the Campus’ expansion, looking to relate sustainable and preservationist architectural aspects to the Modern Movement in Amazon. Secondly, the changes occurred in the buildings are mentioned so the Campus can be shown nowadays and compared to the original, highlighting considerable losses. Finally, the conclusions are presented containing the obtained results approached during the research by descriptive analyses, and also discussing new plans for possible resources to be used in the future, so that the University's growth does not affect important patrimonial aspects.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Severiano Mário Porto</keyword>
+          <keyword>UFAM</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Patrimônio Moderno</keyword>
+          <keyword>Sustentabilidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Severiano Mário Porto</keyword>
+          <keyword>UFAM</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Modern Heritage</keyword>
+          <keyword>Sustainability</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Uma</givenname>
+            <familyname locale="pt_BR">Discussão Sobre Intervenções e Alguns dos</familyname>
+            <country>BR</country>
+            <email>discussaosobreintervencoesealgunsdos@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

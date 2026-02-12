@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp06" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
   <id type="internal" advice="ignore">sdsp06</id>
-  <description locale="pt_BR">6º Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. 609 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-85-66624-25-0</description>
+  <description locale="pt_BR">6º Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. 609 p. Disponível em: &lt;a href=&quot;https://www.nucleodocomomosp.com.br&quot;&gt;www.nucleodocomomosp.com.br&lt;/a&gt; ISBN 978-85-66624-25-0</description>
   <issue_identification>
     <volume>5</volume>
     <number>6</number>
@@ -14,47 +14,47 @@
     <section ref="M1-sdsp06" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">58</id>
       <abbrev locale="pt_BR">M1-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 1 — Modos de usar a cidade: espaços educacionais</title>
+      <title locale="pt_BR">Mesa 1 — Modos de usar a cidade: espaços educacionais — sdsp06</title>
     </section>
     <section ref="M2-sdsp06" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">59</id>
       <abbrev locale="pt_BR">M2-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial</title>
+      <title locale="pt_BR">Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial — sdsp06</title>
     </section>
     <section ref="M3-sdsp06" seq="2" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">60</id>
       <abbrev locale="pt_BR">M3-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 3 — Modos de morar: habitações coletivas</title>
+      <title locale="pt_BR">Mesa 3 — Modos de morar: habitações coletivas — sdsp06</title>
     </section>
     <section ref="M4-sdsp06" seq="3" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">61</id>
       <abbrev locale="pt_BR">M4-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 4 — Modos de morar: habitações unifamiliares</title>
+      <title locale="pt_BR">Mesa 4 — Modos de morar: habitações unifamiliares — sdsp06</title>
     </section>
     <section ref="M5-sdsp06" seq="4" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">62</id>
       <abbrev locale="pt_BR">M5-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 5 — Modos de morar: entre modos de habitar e modos de construir</title>
+      <title locale="pt_BR">Mesa 5 — Modos de morar: entre modos de habitar e modos de construir — sdsp06</title>
     </section>
     <section ref="M6-sdsp06" seq="5" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">63</id>
       <abbrev locale="pt_BR">M6-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 6 — Modos de usar a cidade: espaços educacionais universitários</title>
+      <title locale="pt_BR">Mesa 6 — Modos de usar a cidade: espaços educacionais universitários — sdsp06</title>
     </section>
     <section ref="M7-sdsp06" seq="6" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">64</id>
       <abbrev locale="pt_BR">M7-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 7 — Modos de usar a cidade: espaços da coletividade</title>
+      <title locale="pt_BR">Mesa 7 — Modos de usar a cidade: espaços da coletividade — sdsp06</title>
     </section>
     <section ref="M8-sdsp06" seq="7" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">65</id>
       <abbrev locale="pt_BR">M8-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 8 — Modos de usar a cidade: espaços culturais</title>
+      <title locale="pt_BR">Mesa 8 — Modos de usar a cidade: espaços culturais — sdsp06</title>
     </section>
     <section ref="M9-sdsp06" seq="8" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">66</id>
       <abbrev locale="pt_BR">M9-sdsp06</abbrev>
-      <title locale="pt_BR">Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos</title>
+      <title locale="pt_BR">Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos — sdsp06</title>
     </section>
   </sections>
   <articles>

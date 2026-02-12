@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="6" stage="production">
+      <id type="internal" advice="ignore">sdnne08-006</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="5" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">6</id>
+        <title locale="pt_BR">A verticalização como símbolo modernista em Aracaju</title>
+        <abstract locale="pt_BR">Este artigo foi desenvolvido a partir do TFG da autora, “Revitalização do Edifício Walter Franco: proposta de um centro de arte colaborativa para Aracaju” e trata-se do recorte de um período de desenvolvimento da capital sergipana que se passa durante o auge do Modernismo no estado quando, graças a mudanças políticas e econômicas, a cidade passa a crescer e a adotar este estilo presente em todo o Brasil como arquitetura do momento. O objetivo deste trabalho é mostrar como o início da verticalização em Aracaju está vinculada a chegada do Modernismo a cidade e entender a relação entre ambos. A metodologia utilizada foi leituras bibliográficas que tratassem da história do desenvolvimento de Aracaju, do estilo Moderno na cidade e no Brasil, além de leituras sobre a verticalização brasileira, nordestina e aracajuana. Dessa maneira, o texto traspassa pela análise do contexto histórico em que o Modernismo e a verticalização se inserem no Brasil como um todo até chegar em Aracaju. Com isso, o artigo apresenta relações tipológicas existentes entre os edifícios construídos durante as décadas de 40 e 60 no Brasil e Aracaju, além de criar uma correlação entre a verticalização como simbolismo de modernidade para essa geração.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Aracaju</keyword>
+          <keyword>Verticalização</keyword>
+          <keyword>Modernismo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Camila Rodrigues dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>mila_rsantos@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0001-7633-3563</orcid>
+            <biography locale="pt_BR">Graduanda, Arquitetura e Urbanismo,  UNIT.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="7" stage="production">
+      <id type="internal" advice="ignore">sdnne08-007</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="6" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">7</id>
+        <title locale="pt_BR">A vida entre edifícios</title>
+        <subtitle locale="pt_BR">o plano de Palmas (TO) frente as teorias urbanas revisionistas pós 1945</subtitle>
+        <abstract locale="pt_BR">O objetivo do presente trabalho é analisar se as intenções presentes no discurso e justificativas do projeto urbano da cidade nova brasileira de Palmas (planejada por arquitetos e inaugurada em 1989), que se pretende em consonância com as teorias revisionistas dos dogmas funcionalistas surgidas posteriormente à 1945, se realizaram na prática. Parte-se da hipótese de que mesmo negado no discurso do plano, o paradigma da cidade modernista se vê contemplado na prática. Desta forma, é realizado um estudo crítico referenciado, discutindo soluções empregadas no projeto brasileiro que possibilitam a confirmação de tal paradoxo entre o discurso e a prática.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palmas</keyword>
+          <keyword>cidade nova</keyword>
+          <keyword>urbanismo moderno</keyword>
+          <keyword>projeto urbano</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Roberto de Almeida</givenname>
+            <familyname locale="pt_BR">Bottura</familyname>
+            <affiliation locale="pt_BR">FAUUSP</affiliation>
+            <country>BR</country>
+            <email>roberto.bottura@uft.edu.br</email>
+            <orcid>https://orcid.org/0000-0002-4014-1479</orcid>
+            <biography locale="pt_BR">Doutorando em Planejamento Urbano pela FAU-USP. Professor do curso de Arquitetura e Urbanismo da UFT – Universidade Federal do Tocantins.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="8" stage="production">
+      <id type="internal" advice="ignore">sdnne08-008</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="7" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">8</id>
+        <title locale="pt_BR">Análise da densidade urbana do distrito de luzimangues-TO através da ocupação segregada de Palmas</title>
+        <abstract locale="pt_BR">O artigo visa discutir aspectos relativos à densidade urbana e tipologia construtiva no Distrito de Luzimangues, que é produto da produção do espaço urbano da cidade de Palmas, fundada para sediar a capital do Tocantins. Para a construção da capital foi realizado um projeto urbanístico que determinou seu traçado, zoneamento e densidade urbana, além de diretrizes de ocupação. No entanto, seu processo de ocupação não ocorreu conforme planejado, tendo sido desvirtuadas as diretrizes de ocupação que resultaram na ocupação de áreas periféricas, influenciando a densidade urbana atual. Com base na implantação da capital, buscou-se entender o processo de criação do Distrito de Luzimangues, localizado na margem oposta do Rio Tocantins, pertencente ao município de Porto Nacional-TO. Esta análise pretende de forma mais ampla discutir aspectos relacionados à densidade, tipologia construtiva e segregação socioespacial nesta localidade. Adotaram-se como parâmetros metodológicos duas linhas de análise: a primeira tem base teórica para reflexão crítica e conceituação através de revisão bibliográfica sobre a produção e ocupação do espaço urbano de Palmas e de Luzimangues e suas correlações. A segunda linha tem base empírica, na observação do objeto real a partir de dados cartográficos, imagens de satélite, dados do IBGE e pesquisa de campo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>densidade urbana</keyword>
+          <keyword>tipologia construtiva</keyword>
+          <keyword>segregação socioespacial</keyword>
+          <keyword>Luzimangues</keyword>
+          <keyword>Palmas</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mirela Fonseca</givenname>
+            <familyname locale="pt_BR">Barreto</familyname>
+            <affiliation locale="pt_BR">UFT</affiliation>
+            <country>BR</country>
+            <email>mirela_barreto@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9111-5692</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Amanda Finatto Dal</givenname>
+            <familyname locale="pt_BR">Molin</familyname>
+            <affiliation locale="pt_BR">UFT</affiliation>
+            <country>BR</country>
+            <email>amanda_fdalmolin@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-2595-7170</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">José Marcelo Martins</givenname>
+            <familyname locale="pt_BR">Medeiros</familyname>
+            <affiliation locale="pt_BR">UFT</affiliation>
+            <country>BR</country>
+            <email>medeirosjose@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-2554-8289</orcid>
+            <biography locale="pt_BR">Doutor, Curso de Arquitetura e Urbanismo, UFT</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Lucimara</givenname>
+            <familyname locale="pt_BR">Albieri</familyname>
+            <affiliation locale="pt_BR">UFT</affiliation>
+            <country>BR</country>
+            <email>albieri@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-8890-8237</orcid>
+            <biography locale="pt_BR">Doutora, Curso de Arquitetura e Urbanismo, UFT</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="9" stage="production">
+      <id type="internal" advice="ignore">sdnne08-009</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="8" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">9</id>
+        <title locale="pt_BR">Aplicabilidade do design biofílico em departamentos públicos de trabalho</title>
+        <subtitle locale="pt_BR">secretaria da educação do estado do Tocantins – TO</subtitle>
+        <abstract locale="pt_BR">No mundo contemporâneo, principalmente nas áreas urbanizadas, é possível notar que as pessoas passam a maior parte da sua rotina diária dentro dos ambientes de trabalho que, por sua vez, se caracterizam como espaços fechados, sem iluminação e ventilação natural, não permitindo contato e conexão com elementos que remetam a natureza. Desta maneira, acabam por deixar os trabalhadores cada vez mais suscetíveis a doenças como estresse, ansiedade e depressão. Isso é resultante de espaços mal planejados que acabam ocasionando desconforto físico e psicológico aos usuários. Logo, o design biofílico surge da necessidade de encontrar soluções para restabelecer a integração do ambiente construído com a natureza, promovendo um maior conforto e bem-estar nesses espaços. O estudo em questão tem como objetivo demonstrar a aplicabilidade do design biofílico dentro dos ambientes de trabalho, com uma análise específica do departamento público onde está instalada a Secretaria da Educação do Estado do Tocantins - TO. As metodologias adotadas seguiram duas etapas: a qualitativa, por meio dos estudos realizados; e a quantitativa, por meio do questionário aplicado aos trabalhadores. Mediante o questionário aplicado foi possível constatar que 86,66% dos usuários do departamento possuem uma predileção por ambientes que permitam esse contato com a natureza, e que isso se torna totalmente possível com a aplicabilidade de estratégias abordadas pelo design biofílico em espaços de trabalho.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Biofilia</keyword>
+          <keyword>Natureza</keyword>
+          <keyword>Ambiente</keyword>
+          <keyword>Espaços de trabalho</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Dienifer Gomes</givenname>
+            <familyname locale="pt_BR">Vieira</familyname>
+            <country>BR</country>
+            <email>dienifer.vieira@exemplo.com</email>
+            <biography locale="pt_BR">Especialização em Arquitetura de Interiores e Paisagismo, Centro Universitário Luterano de Palmas – CEULP, Associação Educacional Luterana do Brasil – AELBRA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Marcieli</givenname>
+            <familyname locale="pt_BR">Coradin</familyname>
+            <country>BR</country>
+            <email>dienfergv@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6100-2016</orcid>
+            <biography locale="pt_BR">501 Sul, Av. Joaquim Teotônio Segurado, s/n – Plano Diretor Sul, Palmas – TO. CEP 77.019-900</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="10" stage="production">
+      <id type="internal" advice="ignore">sdnne08-010</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="9" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">10</id>
+        <title locale="pt_BR">Arquitetas modernas baianas</title>
+        <subtitle locale="pt_BR">um olhar sobre a trajetória profissional das mulheres na Arquitetura entre 1936 e 1969</subtitle>
+        <abstract locale="pt_BR">O modernismo enquanto movimento de vanguarda marcou um período de produção cultural relevante no Brasil. Na historiografia da arquitetura baiana privilegia-se a produção masculina, apesar de que no curso de arquitetura já se notava a presença de estudantes mulheres. Para onde elas foram? Onde atuaram e quais foram suas trajetórias no campo profissional? A partir de uma crítica historiográfica e epistemológica, este artigo pretende expor essas lacunas e sanar informações sobre as carreiras profissionais de arquitetas formadas na Bahia entre os anos de 1936 e 1969 e suas atuações no mercado de trabalho. Inicialmente, aborda-se a problemática geral do ensino das mulheres no campo da educação superior e do ensino da arquitetura no recorte temporal escolhido, focando posteriormente na trajetória de algumas arquitetas formadas pela UFBA. Como metodologia, este artigo utiliza informações de entrevistas semiestruturadas realizadas às arquitetas além de dados obtidos na pesquisa “Cadê as arquitetas modernas baianas?” mapeadas nos arquivos da Faculdade de Arquitetura e da Escola de Belas Artes da UFBA. Com isso, pretende-se ampliar a discussão sobre as mulheres na área de formação e atuação da arquitetura; contribuindo ainda para uma abordagem feminista da historiografia da arquitetura baiana, no sentido de romper com os silêncios sobre estas mulheres.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Bahia</keyword>
+          <keyword>Universidade Federal da Bahia</keyword>
+          <keyword>Arquitetas</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Carlos Huapaya</givenname>
+            <familyname locale="pt_BR">Espinoza</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>jhuapayae@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-6776-8821</orcid>
+            <biography locale="pt_BR">Doutor em Arquitetura e Urbanismo (2012), Professor Adjunto da FAUFBA</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Aline Kedma Araújo</givenname>
+            <familyname locale="pt_BR">Alves</familyname>
+            <affiliation locale="pt_BR">EBA-UFBA</affiliation>
+            <country>BR</country>
+            <email>alinekedma@outlook.com</email>
+            <orcid>https://orcid.org/0000-0002-6012-382</orcid>
+            <biography locale="pt_BR">Mestre em Artes Visuais (2019)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Laís Barbosa</givenname>
+            <familyname locale="pt_BR">Nolasco</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>lbnolasco@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Rosana de Melo</givenname>
+            <familyname locale="pt_BR">Costa</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>zana_mello@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

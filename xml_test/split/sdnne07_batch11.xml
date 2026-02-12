@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="51" stage="production">
+      <id type="internal" advice="ignore">sdnne07-051</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="50" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">51</id>
+        <title locale="pt_BR">Projetos residenciais de severiano Porto no centro de Manaus</title>
+        <abstract locale="pt_BR">! Severiano Mário Porto formou-se pela Faculdade Nacional de Arquitetura em 1954, no Rio de Janeiro, onde morou até 1965, quando mudou-se para Manaus. Com a grande demanda de trabalho, Severiano acabou permanecendo em Manaus por cerca de trinta e cinco anos, nos quais realizou mais de duzentos e oitenta projetos. Extremamente diversa em termos de programa e técnicas a arquitetura de Severiano ainda é pouco conhecida em sua totalidade, sendo lembrada apenas por seus projetos emblemáticos. Nesse contexto, pareceu pertinente um estudo que enfoca seus trabalhos cotidianos. Dentro das premissas colocadas acima, a obra residencial do arquiteto foi eleita como recorte de pesquisa por sua expressiva quantidade de exemplares, cerca de noventa projetos. Este artigo se propõe a discutir os projetos residenciais que estão localizados no centro da cidade de Manaus, abordando o tema a partir das documentações encontradas no NDP FAU-UFRJ, do mapeamento desses projetos na cidade e da análise de dois desses projetos: a Residência Felipe Abrahim (1969) e a Fernando Monteiro (1970).</abstract>
+        <abstract locale="en_US">Severiano Mário Porto graduated from the National Faculty of Architecture in 1954, in Rio de Janeiro, where he lived until 1965, when he moved to Manaus. With the great demand of work, Severiano ended up staying in Manaus for about thirty-five years, in which he realized more than two hundred and eighty projects. Extremely diverse in terms of program and techniques Severiano's architecture is still little known in its entirety, being remembered only for its emblematic designs. In this context, it seemed pertinent a study that focuses on his daily work. Within the premises set forth above, the architect's residential work was chosen as a research cut for his expressive number of copies, about ninety projects. This article proposes to discuss the residential projects that are located in the center of the city of Manaus, approaching the theme from the documentation found in the FAU-UFRJ NDP, the mapping of these projects in the city and the analysis of two of these projects: Residência Felipe Abrahim (1969) and Fernando Monteiro (1970).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Severiano Porto</keyword>
+          <keyword>residencias</keyword>
+          <keyword>Centro de Manaus</keyword>
+          <keyword>Análisis</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Severiano Porto</keyword>
+          <keyword>Residences</keyword>
+          <keyword>Center of Manaus</keyword>
+          <keyword>Analyze. ! Os arquitetos e sua obra</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabella</givenname>
+            <familyname locale="pt_BR">De Bonis</familyname>
+            <country>BR</country>
+            <email>debonis@exemplo.com</email>
+            <orcid>https://orcid.org/0009-0009-0808-461X</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="52" stage="production">
+      <id type="internal" advice="ignore">sdnne07-052</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="51" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">52</id>
+        <title locale="pt_BR">Trajetória arquitetônica de Paulo Antunes Ribeiro em Salvador</title>
+        <abstract locale="pt_BR">O artigo propõe apresentar a trajetória do arquiteto Paulo Antunes Ribeiro durante o período no qual atuou em Salvador. Ao longo de quase cinquenta anos de atividade profissional, executou projetos em diversos lugares do Brasil. Em Salvador, entre as décadas de 1940 e 1960 elaborou numerosos projetos, destacando-se o Edifício Sede do Banco da Bahia (1958), o Hotel da Bahia, em parceria com Diógenes Rebouças, (1951) e o Edifício Caramuru (1949). Diante dessas três obras, pretende-se abordá-las no que concerne ao contexto das suas realizações, dimensões volumétricas, espaciais, técnicas e materiais. Além deste caráter descritivo, tem-se a intenção de pontuar os seus valores sociais, estéticos e tecnológicos. Propõe-se manter o foco nas análises arquitetônicas dos edifícios e nas intervenções posteriores que provocaram transformações significativas nas suas características originais. Pretende-se, finalmente, fazer uma avaliação crítica das últimas intervenções realizadas nesses três edifícios.</abstract>
+        <abstract locale="en_US">The article presents a trajectory of the architect Paulo Antunes Ribeiro during the period in which acted, in Salvador. In the early 1930's he set up his Architecture office, that played an important role in the country. Throughout nearly fifty years of professional activity, executed projects in several places in Brazil. In Salvador, between the 1940s and 1960s he elaborated numerous projects, most notably the Bank of Bahia Headquarters Building (1958), the Hotel da Bahia, in partnership with Diógenes Rebouças, (1951) and the Caramuru Building (1949). In view of these three works, we intend to address them in the context of their achievements, volumetric, spatial, technical and material dimensions. In addition to this descriptive character, it is intended to punctuate their social, aesthetic and technological values. It is proposed to maintain the focus on the architectural analyses of buildings and subsequent interventions that have caused significant changes in their original characteristics. Finally, it is intended to make a critical evaluation of the last interventions carried out in these three buildings.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Paulo Antunes Ribeiro</keyword>
+          <keyword>Arquitetura Moderna em Salvador</keyword>
+          <keyword>intervenções em Arquitetura Moderna</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Paulo Antunes Ribeiro</keyword>
+          <keyword>Modern Architecture in Salvador</keyword>
+          <keyword>interventions in Modern Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Mariana</givenname>
+            <familyname locale="pt_BR">Santos de Oliveira</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>marioliveira1995@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ana Carolina de Souza</givenname>
+            <familyname locale="pt_BR">Bierrenbach</familyname>
+            <affiliation locale="pt_BR">UPC</affiliation>
+            <country>BR</country>
+            <email>acbierrenbach@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0441-7036</orcid>
+            <biography locale="pt_BR">Professora Associada da Faculdade de Arquitetura da UFBA e Professora Permanente do Programa de Pós-Graduação em Arquitetura e Urbanismo da UFBA. Doutorado em Teoría e Historia de la Arquitectura</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="53" stage="production">
+      <id type="internal" advice="ignore">sdnne07-053</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="52" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">53</id>
+        <title locale="pt_BR">Parque anauá</title>
+        <subtitle locale="pt_BR">morfologia aplicada à Arquitetura Moderna Roraimense</subtitle>
+        <abstract locale="pt_BR">O Parque Anauá é um espaço público que se localiza na cidade de Boa Vista, capital do estado de Roraima. Estabelecido na área central da cidade, próximo a importantes avenidas, como a Ene Garcez, que interliga o Centro ao aeroporto, cujo terreno é limítrofe, possuindo 106 hectares de extensão. Desde sua origem, o uso contínuo do espaço pelos populares, estimulou a criação de um parque, em 1979, pelo ! então Governador do Território Federal de Roraima, Ottomar de Sousa Pinto que, buscando viabilizar espaços de entretenimento aos habitantes promoveu o “Primeiro Concurso Público de um Anteprojeto para o Parque”, cuja concepção arquitetônica vencedora teve a autoria do arquiteto cearense Otacílio Teixeira da Lima Neto, que lhe denominou “Parque Anauá”. O presente trabalho, através de revisão bibliográfica e documental, visa apresentar a proposta projetual original para o local, o contexto histórico em que foi construído, suas mudanças e permanências através do redesenho dos elementos constituintes do projeto de Lima Neto, pretendendo trazer à tona a importância desse arquiteto para o contexto da arquitetura, urbanismo e paisagismo roraimenses, objetivando corroborar com a produção acadêmica no que se refere a história do Estado de Roraima, de modo que a identidade cultural regional seja preservada.</abstract>
+        <abstract locale="en_US">Parque Anauá is a public space that is located in the city of Boa Vista, capital of the state of Roraima. Established in the central area of the city, near important avenues, such as Ene Garcez, which connects the center to the airport, whose land is bordering, possessing 106 hectares of extension. from its origin, the continuous use of the space by the popular ones stimulated the creation of a park, in 1979, by the then governor of the Federal Territory of Roraima, Ottomar de Sousa Pinto that, seeking to make space for entertainment to the inhabitants promoted the &quot;First Public Contest of a Preliminary Design for the Park, &quot;whose winning architectural conception was written by the Ceará architect Otacílio Teixeira da Lima Neto, who named it&quot; Parque Anauá &quot;. The present work, through a bibliographical and documentary review, aims to present the original design proposal for the place, the historical context in which it was constructed, its changes and permanences through the redesign of the constituent elements of the Lima Neto project, intending to bring to light the importance of this architect to the context of roraimenses architecture, urbanism and landscaping, aiming to corroborate with the academic production regarding the history of the State of Roraima, so that the regional cultural identity is preserved.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Parque Anauá</keyword>
+          <keyword>Otacílio Teixeira da Lima Neto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Roraima</keyword>
+          <keyword>Otacílio Teixeira da Lima Neto</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Márcio Baraúna</givenname>
+            <familyname locale="pt_BR">Bento</familyname>
+            <country>BR</country>
+            <email>marcio.bento@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-0072-4653</orcid>
+            <biography locale="pt_BR">Mestrando em Geografia (2017)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Rafaela</givenname>
+            <familyname locale="pt_BR">Cristina Sander</familyname>
+            <affiliation locale="pt_BR">CAU-UFRR</affiliation>
+            <country>BR</country>
+            <email>rafacristina.sander@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0968-0730</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="54" stage="production">
+      <id type="internal" advice="ignore">sdnne07-054</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="53" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">54</id>
+        <title locale="pt_BR">O parque anauá sob Uma análise multifuncional</title>
+        <abstract locale="pt_BR">O artigo exposto tem por finalidade destacar as relações que as obras arquitetônicas e o paisagismo do Parque Anauá exercem no contexto atual da capital de Roraima, levando-se em conta as alterações de sua proposta inicial, datada de 1980, que influenciaram na sua presente utilização. Considerado como maior parque urbano da região Norte, o mesmo se sobressai no contexto urbano de Boa Vista por seu conjunto arquitetônico representativo da Arquitetura Morderna roraimense, composto por antigos e novos edifícios de evidente plasticidade, resultantes da integração entre materiais típicos da região, como a madeira acariquara, com o posterior uso do concreto e aço. Ademais, a ênfase e a compreensão dessas obras arrojadas se fazem necessárias para ilustrar o elo que as mesmas formam com a natureza do local, visando revelar sua intrínseca significância na correlação entre os âmbitos sociais, paisagísticos e arquitetônicos. Para isso, o estudo foi realizado por meio de revisão bibliográfica, registros fotográficos e entrevistas que apontam a expressiva potencialidade do parque para a população boavistense. Desse modo, a relevância desse trabalho se faz pelo levantamento de análises sob diversos parâmetros de um dos mais importantes espaços públicos de Roraima.</abstract>
+        <abstract locale="en_US">The purpose of the article is to highlight the relationships that the architectural works and the landscaping of the Parque Anauá exert in the current context of the capital of Roraima, taking into account the changes of its initial proposal, dated 1980, which influenced in its present use. Considered as the largest urban park in the northern region, the same stands out in the urban context of Boa Vista for its architectural ensemble representative of the modern architecture of Roraima, composed of old and new buildings of evident plasticity, resulting from the integration between typical materials of the region, such as acariquara wood, with the posterior use of concrete and steel. Moreover, the emphasis and understanding of these bold works are necessary to illustrate the link that they form with the nature of the site, aiming to reveal its intrinsic significance in the correlation between the social, landscape and architectural areas. For this, the study was carried out by means of bibliographical revision, photographic records and interviews that point to the expressive potentiality of the park for the boavistense population. Thus, the relevance of this work is done by the survey of analyses under several parameters of one of the most important public spaces of Roraima.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Parque Anauá</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Roraima</keyword>
+          <keyword>Paisagismo Roraimense</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Parque Anauá</keyword>
+          <keyword>Modern Architecture</keyword>
+          <keyword>Roraima</keyword>
+          <keyword>Landscaping of Roraima</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Angélica P</givenname>
+            <familyname locale="pt_BR">Triani</familyname>
+            <country>BR</country>
+            <email>angelicatriani@outlook.com</email>
+            <orcid>https://orcid.org/0000-0001-9739-1172</orcid>
+            <biography locale="pt_BR">Graduanda no curso de Arquitetura e Urbanismo da Universidade Federal de Roraima - UFRR</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Cibele Cristina de Andrade</givenname>
+            <familyname locale="pt_BR">Paz</familyname>
+            <country>BR</country>
+            <email>cibelecampos.a@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda no curso de Arquitetura e Urbanismo da Universidade Federal de Roraima – UFRR</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Paulina O</givenname>
+            <familyname locale="pt_BR">Ramalho</familyname>
+            <affiliation locale="pt_BR">DAU-UFRR</affiliation>
+            <country>BR</country>
+            <email>paulina.ramalho@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-4125-7246</orcid>
+            <biography locale="pt_BR">Mestre em Preservação do Patrimônio Cultural (2012). Docente do curso de Arquitetura e Urbanismo da UFRR</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="55" stage="production">
+      <id type="internal" advice="ignore">sdnne07-055</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="54" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">55</id>
+        <title locale="pt_BR">A poética da construção residencial moderna campinense</title>
+        <abstract locale="pt_BR">O artigo se propõe a observar a relação entre tectônica e modernidade, analisando a poética da construção residencial moderna que foi produzida na cidade de Campina Grande, Paraíba, durante os anos 60 a 70. O objetivo é analisar a dimensão tectônica de três exemplares residenciais modernos produzidos pelo ! engenheiro civil e arquiteto autodidata campinense Geraldino Duda; e pelo arquiteto pernambucano Augusto Reynaldo. Serão analisadas as soluções projetuais, técnicas e construtivas empregadas, os materiais usados nas peles, como revestimento e soluções construtivas, a fim de se detectar, e registrar o conteúdo dessas obras, sob o olhar de dimensão construtiva da modernidade. A metodologia da pesquisa se apoia em textos de SEKLER (1965), FRAMPTON (1995), MONTANER (2002) - que são autores que trabalharam os conceitos norteadores do artigo que estão voltados para a tectônica, modernidade arquitetônica, a relação arquitetura e estrutura, materialidade e construção. Justifica-se a apresentação do mesmo nesse evento, pela necessidade de se discutir mais e procurar relacionar a importância do diálogo entre processo construtivo e a arquitetura, e a necessidade de análises voltadas para a dimensão construtiva da arquitetura: a tectônica.</abstract>
+        <abstract locale="en_US">The article proposes to observe the relation between tectonics and modernity, analyzing the poetics of the modern residential construction that was produced in the city of Campina Grande, Paraíba, during the years 60 to 70. The objective is to analyze the tectonic dimension of three modern residential specimens produced by the civil engineer and autodidact architect Geraldino Duda; and by the architect Augusto Reynaldo. The technical, constructive solutions used, the materials used in the skins, as a coating and constructive solutions will be analyzed in order to detect and record the contents of these works, under the constructive dimension of modernity. The methodology of the research is based on texts by SEKLER (1965), FRAMPTON (1995), MONTANER (2002) - who are authors who article that are focused on tectonics, architectural modernity, the relationship architecture and structure, materiality and construction. It is justified to present the same in this event, for the need to discuss more and seek to relate the importance of the dialogue between constructive process and architecture, and the need for analysis focused on the constructive dimension of architecture: tectonics</abstract>
+        <keywords locale="pt_BR">
+          <keyword>tectônica</keyword>
+          <keyword>construção</keyword>
+          <keyword>materialidade</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>arquitetura residencial</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>tectonics</keyword>
+          <keyword>construction</keyword>
+          <keyword>materiality</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>residential architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em Projetos arquitetônicos. ETSAB. UPC Professora Adjunta do Curso de Arquitetura e Urbanismo</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul02" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul02</id>
+  <description locale="pt_BR">2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>2</number>
+    <year>2008</year>
+    <title locale="pt_BR">2º Seminário Docomomo Sul, Porto Alegre, 2008</title>
+  </issue_identification>
+  <date_published>2008-08-25</date_published>
+  <last_modified>2008-08-25</last_modified>
+  <sections>
+    <section ref="SEC21-sdsul02" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">21</id>
+      <abbrev locale="pt_BR">SEC21-sdsul02</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="21" stage="production">
+      <id type="internal" advice="ignore">sdsul02-021</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="20" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">21</id>
+        <title locale="pt_BR">O concreto na pré-fabricação</title>
+        <subtitle locale="pt_BR">a construção da universidade de Brasília</subtitle>
+        <abstract locale="pt_BR">2 O concreto na pré-fabricação: a construção da Universidade de Brasília Em 1970 foi lançado o documentário didático chamado Universidade de Brasília: Primeira experiência em pré-moldado (1962-70), realizado por Heinz Forthmann que teve como assessor técnico João Filgueiras Lima. Ele foi produzido dentro de um contexto em que a pré-fabricação era entendida como uma nova possibilidade para a arquitetura no país. Foi em meio a estas questões que a Universidade de Brasília foi criada em 1960 e esta tecnologia tornou-se um dos motes principais de seus edifícios. Quando esta Universidade estava iniciando suas atividades acadêmicas, em 1962, foi também criado o Centro de Planejamento (CEPLAN) com o objetivo intervir em todas as questões relacionadas à arquitetura na UnB, seja esta entendida sob seu aspecto construtivo ou acadêmico. Este centro tornou-se uma base de trabalho de Oscar Niemeyer em Brasília. Mas já havia, logo no início da concepção do CEPLAN, uma outra função: criar um grande centro de construção industrializada, um centro de tecnologia que seria usado pela universidade. Este artigo apresenta uma fase pouco analisada da obra de Oscar Niemeyer quando, ao lado de João Filgueiras Lima, desenvolveu inúmeras obras tendo como base a tecnologia da pré-fabricação. O percurso adotado para a análise parte do resgate dos principais projetos desenvolvidos para a UnB tendo como destaque o projeto do Instituto Central de Ciências do arquiteto Oscar Niemeyer. Este projeto tornou-se a matriz de diversos outros do mesmo arquiteto no Brasil e no Exterior e, além de se destacar como uma das grandes estruturas pré-fabricadas feitas no Brasil, ainda representa o acesso do país aos debates internacionais nas áreas de arquitetura e educação no campo das universidades naquela época. Para este estudo, portanto, foram analisadas as publicações nacionais e internacionais com o intuito de visualizar os limites e as possibilidades dos debates que ocorriam sobre o tema na década de 1960. Através de uma abordagem comparada, percebe-se as semelhanças e singularidades do projeto da UnB e entende-se sua contribuição efetiva no panorama nacional e internacional.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>UnB</keyword>
+          <keyword>pré-fabricação</keyword>
+          <keyword>Oscar Niemeyer</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Klaus Chaves</givenname>
+            <familyname locale="pt_BR">Alberto</familyname>
+            <affiliation locale="pt_BR">CES-JF</affiliation>
+            <country>BR</country>
+            <email>klauschavesalberto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-2845-8307</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="22" stage="production">
+      <id type="internal" advice="ignore">sdsul02-022</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="21" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">22</id>
+        <title locale="pt_BR">A caixa de concreto para a casa do aço</title>
+        <subtitle locale="pt_BR">escritório-parque usiminas</subtitle>
+        <abstract locale="pt_BR">Bons exemplos de transcendência ao uso exclusivamente estrutural do concreto armado sempre foram comuns na Arquitetura Moderna. É possível elencar um vasto número de experiências empregando esse material dúctil e resistente, demonstrando seu vigor e plasticidade e a capacidade que demonstra ter de ser reinventado a cada obra, chegando-se à criação de arquiteturas tão simples quanto sofisticadas. Com peculiar refinamento plástico e um conhecimento programático-funcional adquirido por décadas no exercício profissional, o húngaro radicado em Belo Horizonte, Brasil, István Farkasvölgyi (1933-2005), dedicou- se a desenvolver sua arquitetura buscando afirmar uma linguagem pessoal que, inscrita sob o signo das principais referências arquitetônicas de sua época, obteve resultados peculiares e de grande interesse. Neste estudo serão destacados dois momentos importantes de suas realizações empregando extensivamente o concreto armado aparente, ambos de início dos anos 1970: o edifício-sede da Usiminas e um conjunto de edifícios residenciais em Belo Horizonte. Algumas modificações físicas vêm sendo incorporadas ao edifício-sede da Usiminas e é premente a necessidade de se re-valorizar essa obra como patrimônio da arquitetura moderna brasileira para incrementar uma atitude de respeito pelas suas características peculiares. A série de edifícios de apartamentos tem resultados de alta qualidade e excelente habitabilidade, muito valorizados até os dias de hoje por seus usuários, todos compartilhando em comum os materiais utilizados e a estrutura e demais elementos em concreto deixado à vista. A tônica que permeia suas obras está na maneira especial de se conceber a estrutura, atribuindo ao concreto um papel importante como elemento de caracterização plástica e aproveitamento máximo em cuidadosos detalhes. Suas obras residenciais são queridas e bem usadas pelos seus proprietários, ao menos no que tange à sua aparência exterior e áreas comuns, embora tenham sofrido pequenas e toleráveis modificações, considerando-se seu uso estritamente privativo, ao contrário da Usiminas, de uso público e de responsabilidade social.</abstract>
+        <abstract locale="en_US">Good examples of surpassing the merely structural use of reinforced concrete have always been common in modern architecture. It is possible to cast a vast number of experiments making use of this resistant and ductile material, proving its stiffness and plasticity and the capacity it demonstrates to be reinvented on every new project, making possible the creation of not only simple but also sophisticated works of architecture. With a peculiar plastic refinement and a functional-programmatic knowledge acquired during decades of professional exercise, the Hungarian rooted in Belo Horizonte, Brazil, István Farkasvölgyi (1933-2005) devoted himself to develop his architecture in the search to express a personal language that, inscribed under the label of the main architectonic references in his lifetime, achieved unique results of significant interest. In this study two important moments of his extensively apparent reinforced concrete use will be highlighted, both from the beginning of the 70’s: the building of Usiminas’ headquarters and a set of residential buildings in Belo Horizonte. Some physical alterations have been being incorporated to the Usiminas’ headquarters, and it is imperative to reevaluate this building as a Brazilian modern architecture heritage to stimulate an attitude of respect for its peculiar attributes. The set of residential buildings showed results of high quality and excellent habitability, much recognized by its dwellers up to these days. All of the buildings share the same materials, the structure and the remaining apparent concrete elements. The hallmark of Farkasvölgyi´s work is the special way he conceived the structure, attributing to concrete an important role as an element of plastic characteristics and maximum exploitation in careful details. His residential works are beloved and well employed by their dwellers, at least in their exterior aspect and common areas, although they have suffered minor and tolerable alterations, considering its strictly private use, in opposition to the Usiminas’ Headquarters, considered of public use and social responsibility.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto armado</keyword>
+          <keyword>expressão plástica</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>2 reinforced concrete</keyword>
+          <keyword>plastic expression A caixa de concreto para a casa do aço: Escritório-Parque Usiminas Bons exemplos de transcendência ao uso exclusivamente estrutural do concreto armado sempre foram comuns na Arquitetura Moderna. É possível elencar um vasto número de experiências empregando esse material dúctil e resistente</keyword>
+          <keyword>demonstrando seu vigor e plasticidade e a capacidade que demonstra ter de ser reinventado a cada obra</keyword>
+          <keyword>ceombinando-se sua maleabilidade estrutural e funcional com suas possibilidades formais</keyword>
+          <keyword>através da exploração de texturas</keyword>
+          <keyword>relevos</keyword>
+          <keyword>opacidades</keyword>
+          <keyword>brilhos</keyword>
+          <keyword>rugosidades</keyword>
+          <keyword>transparências e cores - chegando-se à criação de arquiteturas tão simples quanto sofisticadas. A receita fica mais potente se combinada com cuidadosas relações métricas internas à obra visando se obter razões proporcionais corretas entre as partes envolvidas</keyword>
+          <keyword>potencializando as questões compositivas enquanto ingrediente enriquecedor dos resultados</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Álvaro Pompeiano de Magalhães</givenname>
+            <familyname locale="pt_BR">Drummond</familyname>
+            <affiliation locale="pt_BR">EA-UFMG</affiliation>
+            <country>BR</country>
+            <email>alvarodru@hotmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="23" stage="production">
+      <id type="internal" advice="ignore">sdsul02-023</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="22" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">23</id>
+        <title locale="pt_BR">Paisagens desoladas</title>
+        <subtitle locale="pt_BR">quatro máscaras de concreto em deriva</subtitle>
+        <abstract locale="pt_BR">PAISAGENS DESOLADAS Quatro Máscaras de Concreto em Deriva Pode-se entender quatro construções em concreto armado como objetos em deriva pelo Planalto Central do Brasil? Todas elas configuram situações que entendemos como de difícil ancoragem, “máscaras” do que foram ou do que deveriam ser ao criarem lugares em zonas urbanas cambiantes e limítrofes. O autor, Paulo Mendes da Rocha, premiado com o II Prêmio Mies van der Rohe de Arquitetura Latino-americana (2000) e o Prêmio Pritzker (2006). Em deriva estão: o Jóquei Clube de Goiás (1962), a residência Bento Odilon Moreira (1963), o Estádio Serra Dourada (1973) e o Terminal Rodoviário (1986). Propõe-se aqui uma reflexão sobre as contingências que pairam sobre estas quatro obras neste início do século XXI, suas promessas, mal-entendidos e dissabores. Este argumento se desenvolve com o suporte de imagens atuais, que ajudam a tecer suas histórias e ilustram suas situações, revelando que as características singulares parecem não ter sido entendidas no contexto cultural da cidade, durante todos estes anos. São projetos nos quais a escala do tecido urbano não se submete aquilo que é normativo, mas a uma releitura topológica do lugar. Neles, o avanço da cidade sobre o território existente estabelece novas regras implícitas que, ao conformarem novas “paisagens urbanas”, colocam em cheque qualquer condição de continuidade que não dialogue com a nova pré-existência. São antigos vazios, terrains vagues, que foram transpostos por edificios-episódios urbanos, criando novas e próprias tensões. Sugerem e materializam o entendimento de que toda a cidade também é feita de exceções e não somente produto da regra.</abstract>
+        <abstract locale="en_US">DESOLATE LANDSCAPES Four Concrete Masks in The Dèrive Can we take four buildings in reinforced concrete on Brazil’s central plateau as objects in the dérive? All of them configure situations that we understand as of a difficult anchorage, “masks” of what they were or should be when create places in changing and limited urban zones. The author Paulo Mendes da Rocha was awarded a prize in the II Prize Mies van der Rohe of Architecture Latin American (2000) and in Prize Pritzker (2006). A dérive are found: Jóquei Clube de Goiás (1962), Bento Odilon Moreira’s residence (1963), Estádio Serra Dourada (1973), and Terminal Rodoviário (1986). What is proposed here is a reflection of the contingencies that, on the beginning of the 21st century, maintain the projects’ promises, misunderstandings and displeasures. The argument is developed with the actual images’ support, that help to weave its histories and that still illustrate its actual situation, revealing that its singular characteristics, in between all those years, seam not to have been understood in the cultural context of the city. They are projects which urban’ scales does not submit to what is normative, but to a new topological reading of the space. The advancement of the city over the existent territory in these projects establishes new implicit rules that, when forming new “urban landscapes”, challenge any possibility of continuity that is not a new pre-existence. They are ancient empty spaces, terrains vagues that were transported to urban episode-buildings, creating some new and proper tensions. The projects suggest and materialize the understanding that all cities are also made of exceptions and it’s not only a product of a rule.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>cultura arquitetônica</keyword>
+          <keyword>espaço urbano</keyword>
+          <keyword>imaginário urbano</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architectural culture</keyword>
+          <keyword>urban space</keyword>
+          <keyword>urban imaginary</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Artur</givenname>
+            <familyname locale="pt_BR">D'Aló Frota</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>arturfav@yahoo.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eline Maria Moura Pereira</givenname>
+            <familyname locale="pt_BR">Caixeta</familyname>
+            <affiliation locale="pt_BR">UCG</affiliation>
+            <country>BR</country>
+            <email>caixeta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9147-3927</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Christine Ramos</givenname>
+            <familyname locale="pt_BR">Mahler</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>christinermahler@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-4565-5556</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="24" stage="production">
+      <id type="internal" advice="ignore">sdsul02-024</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="23" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">24</id>
+        <title locale="pt_BR">O concreto na linguagem de Oscar niemeyer</title>
+        <abstract locale="pt_BR">Este trabalho descreve a relação do concreto armado com as estratégias compositivas utilizadas pelo arquiteto Oscar Niemeyer. A partir modelo de Gramática de formas, aborda-se o uso do concreto como um dos componentes da semântica e sintaxe empregadas na linguagem arquitetônica de Niemeyer. A gramática que codifica a linguagem de Niemeyer tem sido explorada em pesquisas recentes [Mayer, 2003; Mayer, Turkienicz, 2005a; 2006] onde são examinados edifícios produzidos por Niemeyer a partir de 1943 identificando: 1. o concreto mediando a relação entre vocabulário (semântica) e forma arquitetônica resultante (sintaxe). 2. diferenças e semelhanças na linguagem de Niemeyer no uso do concreto durante todo o período. O estudo demonstrou que a plasticidade do concreto permitiu a Niemeyer atingir múltiplos objetivos relacionados à percepção e a relação da forma arquitetônica com o programa e o contexto: a] liberdade Plástica b] exploração do aparente paradoxo entre o concreto e a percepção de leveza; c] unidade plástica; d] percepção espacial de contraste e] a relação com o ambiente Como desenvolvimento do estudo sugere-se que a adoção de abordagens generativas sobre precedentes arquitetônicos poderiam ser úteis para a validação de hipóteses sobre a relação entre vocabulario e sintaxe na linguagem arquitetônica de Niemeyer .</abstract>
+        <abstract locale="en_US">This paper describes the relationship of reinforced concrete with the compositional strategies used by the architect Oscar Niemeyer. From model of Shape Grammar, approaches the use of concrete as a component of semantics and syntax employed in architectural language of Niemeyer. The grammar that codifies Niemeyer’s language has been exploited in recent research [Mayer, 2003; Mayer, Turkienicz, 2005a; 2005b; 2006] where buildings designed by Niemeyer from 1943 was examined in order to identify: 1. the concrete mediating the relationship between vocabulary (semantics) and resulting architectural shape (syntax). 2. The differences and similarities in the use of concrete in the language of Niemeyer during the studied period. The study has shown that the plasticity of the concrete allowed Niemeyer to achieve multiple goals related to the perception of shape and the relationship with the program and architectural context: a] plastic freedom b] in the perception of lightness c] in the relation with the landscape d] in the perception of spatial contrast e] in the plastic unity As possible development suggests that, the generative approach on architectural precedents study could be useful in the validation of various hypotheses on the relationship between vocabulary and syntax of Niemeyer architectural language.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>linguagem</keyword>
+          <keyword>gramática</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Niemeyer</keyword>
+          <keyword>grammar</keyword>
+          <keyword>language</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Rosirene</givenname>
+            <familyname locale="pt_BR">Mayer</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>mayer@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Benamy</givenname>
+            <familyname locale="pt_BR">Turkienicz</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>turkienicz@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-3675-5408</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2008-08-25" status="3" submission_progress="0" current_publication_id="25" stage="production">
+      <id type="internal" advice="ignore">sdsul02-025</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="24" date_published="2008-08-25" section_ref="SEC21-sdsul02" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">25</id>
+        <title locale="pt_BR">Estrutura e construção do ministério da educação e saúde pública</title>
+        <abstract locale="pt_BR">O estudo faz também um resgate do material gráfico existente nos arquivos do IPHAN que tratam da estrutura do Ministério (onde dados dimensionais e projetuais são de autoria do próprio Baumgart), juntamente com imagens da obra na década de 1940. Com o auxílio deste material, foi gerada uma série de representações tridimensionais da estrutura, que além do esqueleto também compreende as lâminas verticais dos quebra- sóis da fachada norte, as fundações rasas e as empenas cegas das fachadas leste e oeste (que funcionam como contraventamento).</abstract>
+        <abstract locale="en_US">The theme of this article is the construction and structure of reinforced concrete in the current building Gustavo Capanema in Rio de Janeiro, which was headquarters of the Ministry of Education and Public Health to change the federal capital to Brasilia. The project of the Ministry had as the main structural challenges bracing the building, connecting the floor with pilotis the block of exhibitions, the bark of coverage of the auditorium and reduced thickness of the slab block of offices - which should provide a free roof of beams or capitals, as the current practice in most modern designs. Moreover, should also deal of constructive precedence of each of the elements above and apply them in the design of Emilio Baumgart, engineer responsible for the structural part of the building. The study is also a redemption of existing graphic material in the archives of IPHAN which deal with the structure of the Ministry (where dimensional and design data by Baumgart), along with images of the work in the 40’s. With the aid of this material was generated a series of three-dimensional representations of the structure, which besides the skeleton also includes the slides of vertical brises, foundations and blind facades of east and west (which function as bracing).</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concreto</keyword>
+          <keyword>Ministério</keyword>
+          <keyword>estrutura</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>concrete</keyword>
+          <keyword>Ministry</keyword>
+          <keyword>structure</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliano Caldas de</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>vasconcellos@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4281-8199</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

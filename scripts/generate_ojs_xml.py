@@ -86,6 +86,36 @@ def parse_fichas(path):
     return fichas
 
 
+def linkify_ficha(text):
+    """Convert plain URLs and DOIs in ficha text to HTML hyperlinks.
+
+    Handles:
+    - DOIs: 10.xxxxx/yyyy → <a href="https://doi.org/...">...</a>
+    - URLs without protocol: www.xxx.yyy/... or domain.weebly.com/...
+    """
+    import re
+
+    # Handle DOIs: "DOI: 10.xxxx/yyyy"
+    def doi_replace(m):
+        doi = m.group(1).rstrip('.')
+        return f'DOI: <a href="https://doi.org/{doi}">{doi}</a>'
+
+    text = re.sub(r'DOI:\s*(10\.\d{4,}/[^\s]+)', doi_replace, text)
+
+    # Handle bare URLs (www.xxx or known domains without www)
+    # Skip if already inside <a> tag
+    def bare_url_replace(m):
+        url = m.group(0).rstrip('.,;')
+        return f'<a href="https://{url}">{url}</a>'
+
+    text = re.sub(
+        r'(?<!href=")(?<!">)\b(www\.[^\s<>]+|[a-z0-9]+\.(?:weebly|even3)\.com[^\s<>]*)',
+        bare_url_replace, text
+    )
+
+    return text
+
+
 def get_db():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -229,11 +259,11 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
     # Issue identification
     SubElement(issue, 'id', type='internal', advice='ignore').text = slug
 
-    # Description from fichas
+    # Description from fichas (with hyperlinked URLs and DOIs)
     ficha = fichas.get(slug, '')
     if ficha:
         desc_el = SubElement(issue, 'description', locale='pt_BR')
-        desc_el.text = ficha
+        desc_el.text = linkify_ficha(ficha)
 
     issue_ident = SubElement(issue, 'issue_identification')
     SubElement(issue_ident, 'volume').text = str(sem['volume'])
@@ -257,7 +287,8 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
                            abstract_word_count='0')
         SubElement(sec_el, 'id', type='internal', advice='ignore').text = '0'
         SubElement(sec_el, 'abbrev', locale='pt_BR').text = default_section_ref
-        SubElement(sec_el, 'title', locale='pt_BR').text = 'Artigos'
+        # Título único para evitar colisão de seções journal-wide (pkp-lib #9755)
+        SubElement(sec_el, 'title', locale='pt_BR').text = f'Artigos — {slug}'
 
     for idx, sec in enumerate(sections):
         sec_ref = sec['abbrev'] or make_section_ref(sec['title'], slug, sec['id'])
@@ -271,7 +302,13 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
                            abstract_word_count='0')
         SubElement(sec_el, 'id', type='internal', advice='ignore').text = str(sec['id'])
         SubElement(sec_el, 'abbrev', locale='pt_BR').text = sec_ref
-        SubElement(sec_el, 'title', locale='pt_BR').text = sec['title']
+        # Título único para evitar colisão de seções journal-wide (pkp-lib #9755).
+        # OJS _sectionExist() busca por título; títulos iguais entre issues causam
+        # crash fatal quando as abbreviations são diferentes.
+        sec_title = sec['title']
+        if not sec_title.endswith(slug):
+            sec_title = f'{sec_title} — {slug}'
+        SubElement(sec_el, 'title', locale='pt_BR').text = sec_title
 
     # Articles
     articles_el = SubElement(issue, 'articles')
@@ -427,7 +464,14 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
             SubElement(galley_el, 'seq').text = '0'
             SubElement(galley_el, 'submission_file_ref', id=str(art_idx + 1))
 
-        # Pages (OJS extension — must come AFTER article_galley)
+        # Citations (references) — after article_galley, before pages (XSD order)
+        if art['references_']:
+            refs_list = parse_keywords(art['references_'])  # JSON array → list
+            if refs_list:
+                citations_text = '\n'.join(refs_list)
+                SubElement(pub_el, 'citations').text = citations_text
+
+        # Pages (OJS extension — must come AFTER citations)
         if art['pages']:
             SubElement(pub_el, 'pages').text = art['pages']
 

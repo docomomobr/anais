@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="31" stage="production">
+      <id type="internal" advice="ignore">sdnne08-031</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="30" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">31</id>
+        <title locale="pt_BR">Parque da criança de Goiânia</title>
+        <subtitle locale="pt_BR">desafios do espaço público voltado ao público infantojuvenil</subtitle>
+        <abstract locale="pt_BR">Esse artigo pretende estudar a centralidade que envolve o Estádio Serra Dourada, na cidade de Goiânia – GO, constituída pelo seu entorno próximo, onde foi implantado no final da década de 1980 o Parque da Criança, de autoria de Tadeu Baptista e Hugo Hamilton Vaz. A abordagem se dará no campo da História e Teoria da Arquitetura e da cidade, com o objetivo de caracterizar a região a partir do projeto arquitetônico e urbanístico do referido parque, bem como analisar sua morfologia, traçado, elementos, características espaciais e diretrizes originais com vistas a discutir sobre a adequação da proposta na referida centralidade urbana e a apropriação do espaço pelos usuários ao longo do tempo, desde sua construção até 2020. A região do Estádio é bastante complexa e merece atenção pelo valor que esse equipamento desempenha na região sul da cidade, desse modo a investigação pretende contribuir com a qualificação do entorno a partir do parque. Como metodologia, serão utilizadas fontes primárias, acervos jornalísticos, plantas dos projetos e pesquisa in loco de usos com propostas de melhorias voltadas ao público infantojuvenil. Como resultados, espera-se verificar a pertinência de sua manutenção, bem como propor diretrizes para a apropriação infantojuvenil nesse espaço.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Apropriação urbanística</keyword>
+          <keyword>projeto moderno e contemporâneo</keyword>
+          <keyword>cidade moderna</keyword>
+          <keyword>espaço público</keyword>
+          <keyword>apropriação espacial infanto juvenil</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Marlyene Ferreira</givenname>
+            <familyname locale="pt_BR">Batista</familyname>
+            <affiliation locale="pt_BR">UFG</affiliation>
+            <country>BR</country>
+            <email>marlyeneferreira.arquitetura@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0684-408X</orcid>
+            <biography locale="pt_BR">Mestre (2021), Programa de Pós-Graduação Projeto e Cidade – FAV - UFG.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Pedro Henrique Gomes Cardoso</givenname>
+            <familyname locale="pt_BR">D’ávila</familyname>
+            <affiliation locale="pt_BR">UFG</affiliation>
+            <country>BR</country>
+            <email>pedro.hgcd@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0728-8540</orcid>
+            <biography locale="pt_BR">Mestre (2021), Programa de Pós-Graduação Projeto e Cidade – FAV - UFG</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Christine Ramos</givenname>
+            <familyname locale="pt_BR">Mahler</familyname>
+            <affiliation locale="pt_BR">UFG</affiliation>
+            <country>BR</country>
+            <email>christinermahler@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-4565-5556</orcid>
+            <biography locale="pt_BR">Doutora em Arquitetura e Urbanismo (2015), Faculdade de Artes Visuais - UFG</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="32" stage="production">
+      <id type="internal" advice="ignore">sdnne08-032</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="31" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">32</id>
+        <title locale="pt_BR">Parte desconhecida de um todo harmonioso</title>
+        <subtitle locale="pt_BR">athos bulcão e a Arquitetura no Recife</subtitle>
+        <abstract locale="pt_BR">O presente artigo trata de uma análise sobre as obras do artista plástico Athos Bulcão na cidade do Recife a fim de resgatar tais artes históricas que se encontram em esquecimento pelas autoridades locais e pela população. Athos Bulcão foi um artista que soube como ninguém adequar suas obras à arquitetura, pensava de forma única para cada edificação. Este artigo apresenta a catalogação de suas obras a fim de torná-las conhecimento público para que possam ser valorizadas e apreciadas pela população como patrimônio da cidade, obras essas, que deixam evidente a integração entre o todo harmonioso que é a arquitetura da cidade e o mundo até então desconhecido, das artes plásticas, como meio de identidade. A catalogação foi feita por meio de análises in loco juntamente com levantamentos fotográficos a fim de se verificar a situação atual das obras selecionadas, foi realizada uma entrevista para avaliar o conhecimento e a preocupação da população em conservar as obras produzidas por Athos Bulcão dentro da cidade do Recife. Logo, evidencia se a importância da integração das artes com a arquitetura e a maestria de Athos ao fazer tão bem a união que edificação e obra de arte tornam-se um todo.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Athos Bulcão</keyword>
+          <keyword>Integração das artes na arquitetura</keyword>
+          <keyword>Painéis artísticos em edificações</keyword>
+          <keyword>Recife</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Taíze Andrade da Silva</givenname>
+            <familyname locale="pt_BR">Luna</familyname>
+            <affiliation locale="pt_BR">ESUDA</affiliation>
+            <country>BR</country>
+            <email>taizeluna@hotmail.com</email>
+            <biography locale="pt_BR">Arquiteta e Urbanista (2019), ESUDA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Fernanda Lúcia Herbster</givenname>
+            <familyname locale="pt_BR">Pinto</familyname>
+            <affiliation locale="pt_BR">MDU-UFPE</affiliation>
+            <country>BR</country>
+            <email>fernanda.hpinto@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-5637-3920</orcid>
+            <biography locale="pt_BR">Mestrado em Desenvolvimento Urbano (2012), MDU, UFPE.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Ana Carolina Oliveira de</givenname>
+            <familyname locale="pt_BR">Holanda</familyname>
+            <affiliation locale="pt_BR">MDU-UFPE</affiliation>
+            <country>BR</country>
+            <email>ana.holanda@gmail.com</email>
+            <biography locale="pt_BR">Doutorado em Desenvolvimento Urbano (2019), MDU, UFPE.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Liliana de Souza</givenname>
+            <familyname locale="pt_BR">Adrião</familyname>
+            <affiliation locale="pt_BR">ESUDA</affiliation>
+            <country>BR</country>
+            <email>liliana.adriao@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-7002-8207</orcid>
+            <biography locale="pt_BR">Arquiteta e Urbanista (2019), ESUDA.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="33" stage="production">
+      <id type="internal" advice="ignore">sdnne08-033</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="32" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">33</id>
+        <title locale="pt_BR">Percurso protomodernista do início do processo de verticalização de Fortaleza-CE</title>
+        <abstract locale="pt_BR">Nas décadas de 1930 e 1940, Fortaleza-CE passava por transformações em sua paisagem, marcada pelo rompimento com a linguagem oitocentista e início do XX e aproximação de uma arquitetura com feição moderna. Tal produção protomodernista apresentava linguagem geometrizada, linhas retas, ausência de ornatos e adequação de escala e ritmo à presente verticalização do centro antigo. O surgimento de novas centralidades, transformou e dispersou os usos da área central; subutilizando o conjunto arquitetônico protomoderno, acelerando sua deterioração. Este artigo objetiva analisar a arquitetura protomodernista cearense, em especial a arquitetura do engenheiro Sylvio Jaguaribe Ekman, e atentar, à luz das Cartas Patrimoniais, sobre a sua preservação. As Cartas Patrimoniais recomendam que os sítios históricos devem ser incluídos nas dinâmicas urbanas para salvaguardar sua integridade. Utilizamos de pesquisa bibliográfica, documental e de campo. O conjunto urbano analisado possui valor histórico por conter preceitos formais e tecnológicos, como o uso do concreto armado, que anunciavam o movimento moderno. Trata-se de período ainda pouco estudado.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Patrimônio cultural edificado</keyword>
+          <keyword>preservação de conjuntos urbanos</keyword>
+          <keyword>protomodernismo</keyword>
+          <keyword>arquitetura moderna</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Tiago Farias</givenname>
+            <familyname locale="pt_BR">Lopes</familyname>
+            <affiliation locale="pt_BR">UFC</affiliation>
+            <country>BR</country>
+            <email>tiago.farias@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-9810-9957</orcid>
+            <biography locale="pt_BR">Mestrando do Programa de Pós-Graduação em Arquitetura, Urbanismo e Design. Departamento de Arquitetura e Urbanismo e Design. Universidade Federal do Ceará – UFC.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Clóvis Ramiro</givenname>
+            <familyname locale="pt_BR">Jucá Neto</familyname>
+            <affiliation locale="pt_BR">UFC</affiliation>
+            <country>BR</country>
+            <email>clovisjuca@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-8424-1527</orcid>
+            <biography locale="pt_BR">Doutorado em Arquitetura e Urbanismo pela Universidade Federal da Bahia (2007). Professor Associado do Departamento de Arquitetura e Urbanismo e Design. Universidade Federal do Ceará - UFC.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="34" stage="production">
+      <id type="internal" advice="ignore">sdnne08-034</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="33" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">34</id>
+        <title locale="pt_BR">Primeira igreja Batista de Macapá</title>
+        <subtitle locale="pt_BR">análise arquitetônico-compositiva de igreja do período moderno-janarista de Macapá</subtitle>
+        <abstract locale="pt_BR">Esta pesquisa buscou analisar a composição arquitetônica da Primeira Igreja Batista de Macapá (PIB). A PIB, inaugurada em 1955, constitui um marco da Congregação Batista no antigo Território Federal do Amapá, e consiste em um dos produtos da modernização da cidade no contexto da gestão do governador Janary Gentil Nunes. Os procedimentos metodológicos adotados foram a revisão bibliográfica para contextualização histórica e arquitetônica, além de levantamentos fotográficos e métricos in loco das fachadas, e posterior documentação digital em tecnologia CAD. Isso posto, a análise compositiva considerou a identificação das linguagens identificadas, bem como a classificação de seus elementos arquitetônicos correspondentes em painéis semânticos. Constatou-se a predominância da linguagem eclética pela configuração conjunta de elementos neoclássicos, neogóticos, ecléticos e modernos. A relevância da pesquisa se justifica pela documentação de patrimônios culturais, como alternativa de reconhecimento de bens edificados e da história social local diante das transformações contemporâneas degradativas dos centros urbanos.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>elementos compositivos</keyword>
+          <keyword>linguagens arquitetônicas</keyword>
+          <keyword>Ecletismo</keyword>
+          <keyword>Amazônia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Danilo Augusto Oliveira de</givenname>
+            <familyname locale="pt_BR">Barros</familyname>
+            <affiliation locale="pt_BR">UNIFAP</affiliation>
+            <country>BR</country>
+            <email>danilo.barros@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7570-6831</orcid>
+            <biography locale="pt_BR">Graduando de Arquitetura e Urbanismo, Departamento de Ciências Exatas e Tecnológicas, UNIFAP.  Rod. Juscelino Kubitschek, km 02 - Jardim Marco Zero, Macapá - AP, 68903-419  danilo.barros.6464@gmail.com</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Flávio Carvalho</givenname>
+            <familyname locale="pt_BR">Vieira</familyname>
+            <affiliation locale="pt_BR">UNIFAP</affiliation>
+            <country>BR</country>
+            <email>flaviocarvalho12@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0003-1226-6423</orcid>
+            <biography locale="pt_BR">Graduando de Arquitetura e Urbanismo, Departamento de Ciências Exatas e Tecnológicas, UNIFAP.  Rod. Juscelino Kubitschek, km 02 - Jardim Marco Zero, Macapá - AP, 68903-419  flaviocarvalho12@hotmail.com</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Lourhan Severino de</givenname>
+            <familyname locale="pt_BR">Araújo</familyname>
+            <affiliation locale="pt_BR">UNIFAP</affiliation>
+            <country>BR</country>
+            <email>lourhan.araujo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-0328-3416</orcid>
+            <biography locale="pt_BR">Graduando de Arquitetura e Urbanismo, Departamento de Ciências Exatas e Tecnológicas, UNIFAP.  Rod. Juscelino Kubitschek, km 02 - Jardim Marco Zero, Macapá - AP, 68903-419  lourhan.ap@gmail.com</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Emanuella da Silva Piani</givenname>
+            <familyname locale="pt_BR">Godinho</familyname>
+            <affiliation locale="pt_BR">UNIFAP</affiliation>
+            <country>BR</country>
+            <email>emanuellapiani@gmail.com</email>
+            <orcid>https://orcid.org/0000-0001-9349-5855</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura e Urbanismo (2019), Departamento de Ciências Exatas e Tecnológicas,  UNIFAP.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="4" id="5">
+            <givenname locale="pt_BR">Jacy Soares Correa</givenname>
+            <familyname locale="pt_BR">Neto</familyname>
+            <affiliation locale="pt_BR">UNIFAP</affiliation>
+            <country>BR</country>
+            <email>neto.scorrea@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-8467-9561</orcid>
+            <biography locale="pt_BR">Mestre em Arquitetura, Tecnologia e Cidade (2018), Departamento de Ciências Exatas e Tecnológicas,  UNIFAP.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="35" stage="production">
+      <id type="internal" advice="ignore">sdnne08-035</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="34" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">35</id>
+        <title locale="pt_BR">Qualidade urbana e mobilidade em Palmas (TO)</title>
+        <abstract locale="pt_BR">A problemática da mobilidade urbana é o tema comum aos centros urbanos consolidados mundialmente, onde a escala do automóvel, por si só, não satisfaz o ideal de inclusão social. Semelhante a isso, ainda que planejada a mais nova capital brasileira, Palmas, tem sinalizado problemas na mesma questão, e como fruto disso, necessita de planos urbanos corretivos para mitigar as dificuldades do pedestre em utilizar o espaço público. Isso tem sido assunto pertinente nas políticas públicas e na sociedade. Aproveitando o interesse, a premissa deste trabalho busca entender a questão da mobilidade urbana na cidade de Palmas e de que forma é possível promover maior qualidade urbana para a população considerando a escala do pedestre. Para tanto o trabalho investiga historicamente os seus planos e procura evidenciar o que neles se encontra de possibilidades para uma mobilidade ativa.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palmas</keyword>
+          <keyword>Planejamento Urbano</keyword>
+          <keyword>Mobilidade Urbana</keyword>
+          <keyword>Automóvel</keyword>
+          <keyword>Pedestre</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ítalo Rogério Pachêco</givenname>
+            <familyname locale="pt_BR">Prestes</familyname>
+            <country>BR</country>
+            <email>italo-irpp@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-1376-6529</orcid>
+            <biography locale="pt_BR">Graduando em Arquitetura e Urbanismo, UNASP-EC, 13445-970 Engenheiro Coelho, Brasil.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Raíssa Pereira Cintra de</givenname>
+            <familyname locale="pt_BR">Oliveira</familyname>
+            <country>BR</country>
+            <email>raissapereiracintra@gmail.com</email>
+            <orcid>https://orcid.org/0009-0001-2682-3545</orcid>
+            <biography locale="pt_BR">Orientadora e Doutora em Arquitetura e Urbanismo, UNASP-EC, 13445-970 Engenheiro Coelho, Brasil.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

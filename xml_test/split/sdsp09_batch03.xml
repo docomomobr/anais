@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp09" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp09</id>
+  <description locale="pt_BR">9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br.</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>9</number>
+    <year>2024</year>
+    <title locale="pt_BR">9º Seminário Docomomo São Paulo, Santos, 2024</title>
+  </issue_identification>
+  <date_published>2024-09-26</date_published>
+  <last_modified>2024-09-26</last_modified>
+  <sections>
+    <section ref="SEC72-sdsp09" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">72</id>
+      <abbrev locale="pt_BR">SEC72-sdsp09</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdsp09-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Márlio Raposo Dantas</title>
+        <subtitle locale="pt_BR">um arquiteto moderno e inovador muda o cenário da Cidade de Santos/SP</subtitle>
+        <abstract locale="pt_BR">O objetivo deste trabalho é apresentar a obra do arquiteto Márlio Raposo Dantas, pernambucano radicado em Santos desde 1962, por meio de um recorte de sua vida e obra, destacando suas referências históricas. De formação modernista, Márlio teve influência da Escola Carioca nos anos 1960 quando frequentou a Faculdade Nacional de Arquitetura, no Rio de Janeiro. A partir de então desenvolve uma linguagem própria, utilizando o concreto aparente, técnica ainda praticamente inédita na região, que pode ser facilmente identificada em suas obras.</abstract>
+        <abstract locale="en_US">The objective of this work is to present the work of architect Márlio Raposo Dantas, from Pernambuco living in Santos since 1962, through an overview of his life and work, highlighting his historical references. With a modernist background, Márlio was influenced by the Carioca School in the 1960s when he attended the National Faculty of Architecture, in Rio de Janeiro. From then on, he developed his own language, using exposed concrete, a technique still practically unheard of in the region, which can be easily identified in his works.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Márlio Raposo Dantas</keyword>
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura Santista</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Márlio Raposo Dantas</keyword>
+          <keyword>Modern architecture</keyword>
+          <keyword>Santos Architecture</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Flávia Neves</givenname>
+            <familyname locale="pt_BR">Dantas</familyname>
+            <country>BR</country>
+            <email>flaviandantas@gmail.com</email>
+          </author>
+        </authors>
+        <pages>171-184</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdsp09-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Documentação do projeto de Arquitetura, ensaio sobre a casa do arquiteto e artista Lineu Borges de Macedo</title>
+        <abstract locale="pt_BR">Este artigo tem como finalidade documentar historicamente e analisar o projeto arquitetônico da residência do arquiteto paranaense Lineu Borges de Macedo, localizada na cidade de Curitiba. O projeto, realizado em 1962, ainda durante o período em que ele era estudante do recém-criado curso de Arquitetura e Urbanismo na Universidade Federal do Paraná, ganha relevância pelo seu caráter experimental, tanto em termos construtivos quanto projetuais, destacando-se pelo desenho, materialidade e conjunto de soluções. A organização da pesquisa se dá inicialmente por meio de uma introdução e do repertório do arquiteto, seguida pela análise descritiva do projeto. Por fim, são traçados paralelos entre as formas de representação que o arquiteto utilizou para registrar seu próprio projeto, incluindo o uso de imagens elaboradas por ele, como desenhos e fotografias tiradas durante a construção e inauguração, além de um ensaio fotográfico documental do estado atual do projeto.</abstract>
+        <abstract locale="en_US">This article aims to historically document and analyze the architectural design of the residence of Paraná architect Lineu Borges de Macedo, located in the city of Curitiba. The project, carried out in 1962 while he was still a student in the newly established Architecture and Urbanism course at the Federal University of Paraná, stands out for its experimental character in both construction and design, particularly in terms of its layout, materiality, and array of solutions. The research is organized initially through an introduction and an overview of the architect's background, followed by a descriptive analysis of the project. Finally, parallels are drawn between the forms of representation the architect used to document his own project, including images he created, such as drawings and photographs taken during the construction and inauguration, as well as a documentary photographic essay of the current state of the project.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Casa do arquiteto</keyword>
+          <keyword>Lineu Borges de Macedo</keyword>
+          <keyword>Representações</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architect’s house</keyword>
+          <keyword>Lineu Borges de Macedo</keyword>
+          <keyword>Representations</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Felipe Taroh Inoue</givenname>
+            <familyname locale="pt_BR">Sanquetta</familyname>
+            <country>BR</country>
+            <email>sem-email-2@example.com</email>
+            <orcid>https://orcid.org/0000-0003-4771-3588</orcid>
+          </author>
+        </authors>
+        <pages>185-199</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdsp09-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">A casa modernista de gregori warchavchik da rua Santa Cruz</title>
+        <subtitle locale="pt_BR">histórico, preservação e o atual abandono de um relevante Patrimônio Moderno nacional</subtitle>
+        <abstract locale="pt_BR">A Casa Modernista situada na rua Santa Cruz, construída entre 1927 e 1928 por Gregori Warchavchik, tem sido abordada pela historiografia principalmente em relação à sua constituição original, inserida no contexto do desenvolvimento da arquitetura moderna no Brasil. O presente trabalho explora a trajetória histórica da obra, desde seus antecedentes até os dias atuais, por meio de revisões bibliográficas e análise de documentos históricos. A pesquisa adota uma perspectiva que integra as relações entre história e preservação da arquitetura moderna ressaltando a necessidade de ampliação das discussões em torno da preservação de obras modernas no Brasil. A Casa Modernista representa um processo de transição entre técnicas tradicionais e modernas, marcando uma fase essencial que ajudou a construir um caminho para o nascimento do que viria a ser reconhecido como o movimento arquitetônico moderno no país.</abstract>
+        <abstract locale="en_US">The Modernist House located on Santa Cruz Street, build between 1927 and 1928 by Gregori Warchavchik, has been primarily addressed in historiography in relation to its original composition, within the context of the development of modern architecture in Brazil. The current work explores the historical trajectory of the building, from its antecedents to the present day, through bibliographic reviews and analysis of historical documents. The research adopts a perspective that integrates the relationship between history and preservation of modern architecture, emphasizing the need to expand discussions about the presevation of modern works in Brazil. The Modernist House represents a transition process between traditional and modern techniques, marking an essential phase that helped pave the way for what would be recognized as the modern architectural movement in the country.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Gregori Warchavchik</keyword>
+          <keyword>Casa Modernista</keyword>
+          <keyword>Historiografia</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Gregori Warchavchik</keyword>
+          <keyword>Modernist House</keyword>
+          <keyword>Historiography</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Luísa</givenname>
+            <familyname locale="pt_BR">Destefani</familyname>
+            <country>BR</country>
+            <email>luisa18.pinheiro@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">José Geraldo Simões</givenname>
+            <familyname locale="pt_BR">Junior</familyname>
+            <country>BR</country>
+            <email>josegeraldo.simoes@mackenzie.br</email>
+          </author>
+        </authors>
+        <pages>200-214</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdsp09-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">As casas contam histórias</title>
+        <subtitle locale="pt_BR">a implantação da Cidade de timóteo em meados do século XX</subtitle>
+        <abstract locale="pt_BR">Existe um entendimento, equivocado, de que cidades do século XX não possuem patrimônio histórico a ser preservado. Essas cidades possuem uma história muitas vezes desconhecida pelos próprios habitantes, o que dificulta a sensibilização sobre a importância da preservação patrimonial no próprio município. Essa situação acaba por favorecer agentes imobiliários, que apagam a memória local em nome de uma ‘’modernização urbana’’, a cidade de Timóteo, situada no leste de Minas Gerais, exemplifica essa realidade. Seu desenvolvimento, impulsionado pela urbanização promovida pela siderurgia no século XX, resultou em um traçado urbano específico e uma setorização que reforça divisões sociais, produzindo nesse processo uma arquitetura estratificada com diversas soluções, especialmente nas fachadas. Com o crescimento da cidade, muitos desses edifícios estão em vias de extinção, ou são encontrados em avançado estado de deterioração ou descaracterização. Portanto, esse artigo, desenvolvido a partir de um projeto de pesquisa no curso de Arquitetura e Urbanismo do CEFET-MG, Campus Timóteo, que visa apresentar um registro e análise das edificações remanescentes a fim de sensibilizar a população do município e promover a proteção desses patrimônios.</abstract>
+        <abstract locale="en_US">There is a mistaken belief that cities from the 20th century have no historical heritage worth preserving. These cities often have histories unknown to their own inhabitants, which hinders awareness of the importance of heritage preservation within the municipality. This situation ends up favoring real estate agents who erase local memory in the name of &quot;urban modernization&quot;, and Timóteo exemplifies this reality. Its development, driven by urbanization promoted by the steel industry in the 20th century, resulted in a specific urban layout and zoning that reinforces social divisions, producing stratified architecture with various solutions, especially on facades. With the city's growth, many of these buildings are facing extinction, advanced deterioration, or disfigurement. Therefore, this article, developed from a research project in the Architecture and Urbanism course at CEFET-MG, Timóteo Campus, aims to present a record and analysis of the remaining buildings in order to raise awareness among the municipality's population and promote the protection of these heritage sites.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>patrimônio histórico</keyword>
+          <keyword>sensibilização</keyword>
+          <keyword>preservação patrimonial</keyword>
+          <keyword>memória</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>historical heritage</keyword>
+          <keyword>awareness</keyword>
+          <keyword>heritage preservation</keyword>
+          <keyword>memory</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fábio Azevedo</givenname>
+            <familyname locale="pt_BR">Vasconcellos</familyname>
+            <country>BR</country>
+            <email>fabiovasconcellos@cefetmg.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Maria Júlia</givenname>
+            <familyname locale="pt_BR">Cotta</familyname>
+            <country>BR</country>
+            <email>cottamaju@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Felipe</givenname>
+            <familyname locale="pt_BR">Moraes</familyname>
+            <country>BR</country>
+            <email>felipefmoraes02@gmail.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
+            <givenname locale="pt_BR">Larissa Sírio Coelho</givenname>
+            <familyname locale="pt_BR">Penna</familyname>
+            <country>BR</country>
+            <email>larissascpenna@gmail.com</email>
+            <orcid>https://orcid.org/0009-0009-1261-154X</orcid>
+          </author>
+        </authors>
+        <pages>215-227</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2024-09-26" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdsp09-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2024-09-26" section_ref="SEC72-sdsp09" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Arquitetura Moderna na praia – residências na praia de Pernambuco – guarujá</title>
+        <abstract locale="pt_BR">O presente trabalho apresenta um estudo sobre casas projetadas na Praia de Pernambuco, Guarujá, dentro dos pressupostos da arquitetura moderna. Para tanto foram selecionadas oito residências projetadas em um período que vai de 1959 até 1989, por diversos arquitetos que balizaram sua produção dentro do que estudiosos de arquitetura brasileira classificam como “escola paulista”. O suporte ao estudo é feito a partir de uma leitura do município do Guarujá, desde a sua fundação, até a execução do loteamento da Praia de Pernambuco.</abstract>
+        <abstract locale="en_US">This paper presents a study of houses designed in Praia de Pernambuco, Guarujá, within the framework of modern architecture. To this end, eight houses were selected that were designed between 1959 and 1989 by various architects who based their production on what Brazilian architectural scholars classify as the “São Paulo school”. The study is supported by an analysis of the municipality of Guarujá, from its foundation to the construction of the Praia de Pernambuco subdivision.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Maurício</givenname>
+            <familyname locale="pt_BR">Azenha</familyname>
+            <country>BR</country>
+            <email>arq.azenha@gmail.com</email>
+          </author>
+        </authors>
+        <pages>228-242</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

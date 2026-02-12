@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
   <id type="internal" advice="ignore">sdsul07</id>
-  <description locale="pt_BR">7º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II [recurso eletrônico] / organização: Marta Peixoto. Porto Alegre: Marcavisual, 2022. 500 p. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-65-89263-60-9</description>
+  <description locale="pt_BR">7º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II [recurso eletrônico] / organização: Marta Peixoto. Porto Alegre: Marcavisual, 2022. 500 p. Disponível em: &lt;a href=&quot;https://www.ufrgs.br/propar/publicacoes.htm&quot;&gt;www.ufrgs.br/propar/publicacoes.htm&lt;/a&gt; ISBN 978-65-89263-60-9</description>
   <issue_identification>
     <volume>6</volume>
     <number>7</number>
@@ -14,42 +14,42 @@
     <section ref="PRO-sdsul07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">31</id>
       <abbrev locale="pt_BR">PRO-sdsul07</abbrev>
-      <title locale="pt_BR">Projetos esquecidos</title>
+      <title locale="pt_BR">Projetos esquecidos — sdsul07</title>
     </section>
     <section ref="ESP-sdsul07" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">32</id>
       <abbrev locale="pt_BR">ESP-sdsul07</abbrev>
-      <title locale="pt_BR">Especulações preservacionistas e revisões cênicas</title>
+      <title locale="pt_BR">Especulações preservacionistas e revisões cênicas — sdsul07</title>
     </section>
     <section ref="RMOB-sdsul07" seq="2" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">33</id>
       <abbrev locale="pt_BR">RMOB-sdsul07</abbrev>
-      <title locale="pt_BR">Revisões mobiliárias</title>
+      <title locale="pt_BR">Revisões mobiliárias — sdsul07</title>
     </section>
     <section ref="REF-sdsul07" seq="3" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">34</id>
       <abbrev locale="pt_BR">REF-sdsul07</abbrev>
-      <title locale="pt_BR">Reformas</title>
+      <title locale="pt_BR">Reformas — sdsul07</title>
     </section>
     <section ref="CAS-sdsul07" seq="4" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">35</id>
       <abbrev locale="pt_BR">CAS-sdsul07</abbrev>
-      <title locale="pt_BR">Casas esquecidas</title>
+      <title locale="pt_BR">Casas esquecidas — sdsul07</title>
     </section>
     <section ref="EDI-sdsul07" seq="5" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">36</id>
       <abbrev locale="pt_BR">EDI-sdsul07</abbrev>
-      <title locale="pt_BR">Edifícios esquecidos</title>
+      <title locale="pt_BR">Edifícios esquecidos — sdsul07</title>
     </section>
     <section ref="SÉR-sdsul07" seq="6" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">37</id>
       <abbrev locale="pt_BR">SÉR-sdsul07</abbrev>
-      <title locale="pt_BR">Séries esquecidas e revisões urbanas</title>
+      <title locale="pt_BR">Séries esquecidas e revisões urbanas — sdsul07</title>
     </section>
     <section ref="RARQ-sdsul07" seq="7" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
       <id type="internal" advice="ignore">38</id>
       <abbrev locale="pt_BR">RARQ-sdsul07</abbrev>
-      <title locale="pt_BR">Revisões arquitetônicas</title>
+      <title locale="pt_BR">Revisões arquitetônicas — sdsul07</title>
     </section>
   </sections>
   <articles>

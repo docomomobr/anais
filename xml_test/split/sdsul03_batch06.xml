@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsul03" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsul03</id>
+  <description locale="pt_BR">3º Seminário Docomomo Sul: anais: madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani, Sérgio Marques. Porto Alegre: PROPAR-UFRGS, 2010. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/. ISBN 978-85-60188-11-6</description>
+  <issue_identification>
+    <volume>6</volume>
+    <number>3</number>
+    <year>2010</year>
+    <title locale="pt_BR">3º Seminário Docomomo Sul, Porto Alegre, 2010</title>
+  </issue_identification>
+  <date_published>2010-11-08</date_published>
+  <last_modified>2010-11-08</last_modified>
+  <sections>
+    <section ref="SEC22-sdsul03" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">22</id>
+      <abbrev locale="pt_BR">SEC22-sdsul03</abbrev>
+      <title locale="pt_BR">Artigos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsul03-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Sergio Rodrigues</title>
+        <subtitle locale="pt_BR">(i)móveis em Madeira</subtitle>
+        <abstract locale="pt_BR">: Em 1962,o arquiteto carioca Sergio Rodrigues já é consagrado designer de móveis em madeira quando empreende novamente na construção civil. Impelido pela necessidade de construir casa de campo que pudesse ser montada e desmontada em função das circunstâncias, Rodrigues propõe uma arquitetura de encaixes em madeira, muito próxima dos princípios de seu mobiliário. A partir do desenvolvimento desta obra, o arquiteto lança sistema construtivo, conhecido como SR2, em estrutura de madeira maciça modulada em 1,20x1,20m, com fechamentos do mesmo material. O presente artigo analisa os primeiros exemplares produzidos através deste sistema em 1962, traçando paralelos entre o mobiliário e as edificações de autoria do arquiteto.
+SERGIO RODRIGUES: (I)MÓVEIS EM MADEIRA Tradição Filho de famílias influentes do Rio de Janeiro, o arquiteto e designer Sergio Rodrigues nasceu naquela cidade em 1927. Seu avô paterno é Mário Rodrigues, pernambucano proprietário do jornal A Manhã, localizado na então capital federal. Sergio é sobrinho de Nelson Rodrigues e Mário Filho; o primeiro é famoso cronista do Rio moderno, enquanto o segundo revolucionou o jornalismo esportivo nacional, sendo homenageado com o batismo do estádio de futebol mais importante do país. Roberto Rodrigues, seu pai, trabalhou como cenógrafo e ilustrador para imprensa; foi assassinado em atentado dirigido ao avô de Sergio em 1929. Por este motivo, o menino foi criado basicamente pela extensa família materna, os Mendes de Almeida, figuras influentes do meio intelectual desde o século XIX. São seus primos – e companheiros de infância o membro da Academia Brasileira de Letras Cândido Mendes e o bispo Luciano Mendes de Almeida, presidente da CNBB durante quase toda a década de 1980. Sergio e sua mãe moraram com tio-bisavô, o coronel escocês James Andrew, em um casarão na Praia do Flamengo. Figura muito marcante nas memórias do arquiteto, Andrew possuía uma pequena marcenaria no extenso terreno, cujo limite de fundos era o Palácio do Catete. O escocês desenhava pequenos móveis (armários, mesas, baús, entre outros) para consumo próprio e dois mestres portugueses os confeccionavam em oficina localizada junto do casarão. Sergio relatai que, embora muitas vezes o resultado ficasse diferente do projetado, seu tio-bisavô se mostrava muito satisfeito com a mobília exclusiva. Nesse ambiente, o menino inicia suas criações com madeira, esculpindo e tomando gosto pelas formas mais curvilíneas, às vezes usando o trabalho dos portugueses na transformação de caixas de charuto em asas de avião, réplicas dos modelos usados na Grande Guerra.
+FIG. 1: Desenhos de Sergio Rodrigues. A esquerda, a caixa de charutos transformada em casa; a direita, miniatura de avião, primeiro contato de Sergio com o trabalho em madeira.
+Percebendo a capacidade para a criação e desenho e inaptidão para matemática, sua família o</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Guilherme Rene</givenname>
+            <familyname locale="pt_BR">Maia</familyname>
+            <affiliation locale="pt_BR">PROPAR-UFRGS</affiliation>
+            <country>BR</country>
+            <email>guilherme.maia@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-4666-0552</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsul03-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Primitivismo e innovación en La arquitectura moderna en Chile</title>
+        <subtitle locale="pt_BR">tres casos de arquitecturas en madera publicados en La revista arquitectura y construcción (1945-1950)</subtitle>
+        <keywords locale="pt_BR">
+          <keyword>Racionalismo Arquitectónico</keyword>
+          <keyword>Industria</keyword>
+          <keyword>Artesanía</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Hugo</givenname>
+            <familyname locale="pt_BR">Mondragón</familyname>
+            <affiliation locale="pt_BR">PUC Chile</affiliation>
+            <country>BR</country>
+            <email>hmondragon@uc.cl</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andrés</givenname>
+            <familyname locale="pt_BR">Téllez</familyname>
+            <affiliation locale="pt_BR">PUC Chile</affiliation>
+            <country>BR</country>
+            <email>téllez@exemplo.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsul03-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Madeiras horizontais</title>
+        <keywords locale="pt_BR">
+          <keyword>arquitetura</keyword>
+          <keyword>construção de madeira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architecture</keyword>
+          <keyword>balloon frame</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Humberto</givenname>
+            <familyname locale="pt_BR">Mezzadri</familyname>
+            <affiliation locale="pt_BR">UFPR</affiliation>
+            <country>BR</country>
+            <email>humbertomezzadri@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-0690-1240</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsul03-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">A Madeira como artifício</title>
+        <abstract locale="pt_BR">A moderna arquitetura brasileira esteve historicamente ligada a um contexto de experimentações não só utilizando materiais que evocavam a plasticidade de novas tecnologias, mas também buscando resgatar os aspectos formais evocativos de uma prospecção histórica do expressivo contexto local. Se é verdade que, nas vanguardas brasileiras, a madeira não gozou do destaque de outros materiais, como o concreto armado, o vidro e o metal, a condição geográfica local propiciou sua utilização, se não como protagonista principal, pelo menos como importante coadjuvante tanto nos aspectos formais quanto estruturais. A madeira como elemento intrinsecamente ligado ao caráter geográfico do país joga, ainda hoje, um importante rol como elemento expressivo em projetos contemporâneos. Historicamente falando, sua alegórica presença na arquitetura remete as origens dos primeiros princípios estruturais, baseados no sistema arquitravado que sempre participou das formulações teóricas e construtivas das vanguardas. Material básico que constrói todo o significado imanente ao mito da &quot;cabana primitiva&quot; e seus desdobramentos teóricos, a madeira representa em si uma intrínseca evocação ao primitivo, seja como solução formal ou técnica; uma referência histórica ideal que provoca e estimula novos limites na sua utilização. Ao mesmo tempo, a madeira assume o papel de elemento básico de um experimentalismo estrutural paralelo a outras novidades tecnológicas e sempre retorna como elemento essencial nas pesquisas formais e estruturais da cultura arquitetônica. Dentro deste contexto, esta investigação busca resgatar um projeto pouco conhecido da arquitetura moderna brasileira dos anos 1960. O Clube de Regatas Jaó, fundado em agosto de 1962, em Goiânia, tem sua sede social projetada pelo arquiteto carioca Sérgio Bernardes, que atuou sobre uma área de 110.000m2, contigua ao Rio Meia Ponte e à antiga represa do Jaó. A capacidade plástica da madeira, no caso vigas de madeira laminada, explorada por Sérgio Bernardes neste projeto, tinha como precedente sua residência na Avenida Niemeyer, no Rio, construída entre 1960 e 1961. A manipulação de diferentes materiais e das possibilidades formais construtivas derivadas da arquitetura pavilhonar, já estava presente desde o início de sua formação profissional, no final da década de 1940, no anteprojeto para um &quot;CountryClube&quot; em Petrópolis –publicado na revista francesa L’Architecture d’Aujourd’hui em 1947. No projeto do Clube Jaó o arquiteto não foge deste experimentalismo, articulando os espaços funcionais por meio de uma malha complexa de elementos naturais e construídos: espelhos d'água, cascatas, platôs em desnível, pátios internos e jardins que se articulam no sentido de estabelecer ligações e conexões com a natureza do lugar, a partir do uso associado da madeira e do ferro; de soluções inventivas, envolvendo a captação da água das chuvas; da adoção de grandes vãos e da aposta em soluções leves para a cobertura, o que resulta em uma forte horizontalidade espacial. Neste projeto o arquiteto cria vários ambientes, que colocados em seqüência, configuram surpreendentes trajetos de sensibilidade a partir do uso aparente do tijolo, da madeira laminada e de pedras locais. Os espaços abrigam uma série de murais, telas e esculturas de importantes artistas locais, buscando o característico diálogo de síntese das artes da época, em ambientes ricos em referências. A madeira, por sua vez não é utilizada apenas nos elementos estruturais da cobertura, mas também na vedação de ambientes, no revestimento de superfícies e no próprio mobiliário, que</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">José Artur</givenname>
+            <familyname locale="pt_BR">D'Aló Frota</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>arturfav@yahoo.com.br</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Eline Maria Moura Pereira</givenname>
+            <familyname locale="pt_BR">Caixeta</familyname>
+            <affiliation locale="pt_BR">FAV-UFG</affiliation>
+            <country>BR</country>
+            <email>caixeta@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-9147-3927</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2010-11-08" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsul03-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2010-11-08" section_ref="SEC22-sdsul03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Os irmãos Roberto e a poética da Madeira</title>
+        <abstract locale="pt_BR">A arquitetura dos Irmãos Marcelo, Milton e Maurício Roberto é reconhecida internacionalmente por várias de suas qualidades. O cuidado e a habilidade no tratamento das fachadas de edifícios são algumas das maiores marcas do escritório MMM Roberto, utilizando de forma criativa e experimental elementos como o brise-soleil e outros recursos de proteção contra insolação, além da excelência no trabalho de desenho das esquadrias e sua disposição nas fachadas. Em vários dos edifícios projetados podemos notar um significativo trabalho no que se refere ao uso da madeira. Tirando partido da importância simbólica da madeira – material geralmente associado à tradição e ao acolhimento – utilizaram esquadrias confeccionadas neste material na maioria dos edifícios residenciais que conceberam, explorando possibilidades técnicas e expressivas do material das mais diversas maneiras. Este artigo lança um olhar crítico sobre as esquadrias de madeira de algumas fachadas de edifícios residenciais projetados pelos Irmãos Roberto na cidade do Rio de Janeiro. Destacam-se para uma análise mais aprofundada: os edifícios MMM Roberto e Angel Ramirez, em Copacabana; o edifício Sambaíba, no Leblon; o edifício Saddock de Sá, em Ipanema e o edifício Júlio Barros Barreto, em Botafogo, nos quais, acredita-se que os Roberto trabalharam a poética da madeira de forma ainda mais relevante. Neste estudo, buscou-se investigar e interpretar as razões do uso da madeira nas obras estudadas e analisar como os arquitetos tiraram partido das potencialidades deste material. Além disso, serão discutidos os resultados técnicos, plásticos e formais destas experiências, considerando o debate de algumas questões e problemas que surgem com o uso da madeira, tais como o desafio da manutenção e conservação dos elementos arquitetônicos confeccionados com este material. Nos edifícios analisados a expressividade da madeira é notada mesmo quando as esquadrias são pintadas, devido às características marcantes do material - tais como sua textura - e também pelo modo como os arquitetos enfrentaram a questão. Pode-se sublinhar nestas concepções a busca por um purismo característico da arquitetura moderna, que transparece no trabalho dos arquitetos, evidenciando a percepção de linhas, planos e tramas tanto no desenho dos elementos de vedação, quanto na composição das fachadas. Estes elementos, em geral, não aparecem simplesmente de maneira isolada, mas justapostos e compostos de modo a formar painéis abstratos, onde a textura das esquadrias de vários tipos e o jogo de movimento do abrir e fechar janelas é essencial para mudar constantemente a configuração das fachadas, gerando um resultado rico e surpreendente, diferente a cada momento. Este estudo busca, finalmente, valorizar a reflexão sobre o uso de um material - cuja plasticidade e qualidade podem ser aplicados na arquitetura contemporânea de modo sustentável, com a utilização das novas tecnologias e manejo ecológico da madeira - a partir das lições que os Irmãos Roberto nos oferecem através de sua arquitetura.</abstract>
+        <abstract locale="en_US">The architecture of the Marcelo, Milton and Maurício Roberto brothers is internationally recognized for several of its qualities. The care and skill in the treatment of the façades are some of MMM Roberto’s greatest brands. The Roberto Brothers used elements such as brise-soleil and other resources to protect against sunstroke in a very creative and experimental way, as well as brilliantly designed frames and their arranjement on the façades. In several of the buildings designed by the firm, a significant work with regard to the use of wood can be noticed. The architects took advantage of the symbolic importance of the wood - material often associated with tradition and sheltering - using wooden frames in most of the residential buildings they conceived, exploring the technical and expressive possibilities of the material in several ways. This article seeks a critical analysis on the wooden frames of some residential buildings façades designed by Roberto Brothers in Rio de Janeiro. Some of them are: MMM Roberto and Angel Ramirez buildings, in Copacabana; Sambaíba building, in Leblon; Saddock de Sá building, in Ipanema and Júlio Barros Barreto building, in Botafogo, where, it is believed, the Robertos worked the poetics of wooden frames in even more relevant ways. The proposed work seeks to investigate and interpret the reasons for using wood in the works studied and analyzed and how the architects took the advantage of the potencial of the material. Also discussed are the technical, plastics and formal results of these experiences, considering the debate of certain issues and problems that arise with the use of wood, such as the challenge of maintenance and conservation of architectural wooden elements. In the examined buildings the expressiveness of the wood is noticeable even when the frames are painted, because of the material’s striking features - such as its texture - and also because of the way the architects worked the issue. Generally, one can highlight these views to search for a purist, characteristic of modern architecture, which emerges in the way the architects worked the perception of lines, shapes and textures in both the sealing elements design, as well as in the façades composition. These elements, in general, do not simply appear isolated, but juxtaposed and arranged to form abstract panels, where the various types frames textures of and the motion playfullness of opening and closing windows is essential to constantly change the façades configuration, creating a rich and surprising result, different each time. This study seeks, finally, to valorize the debate on the use of a material – wich plasticity and quality can be applied in contemporary architecture in a sustainable manner, with the use of new technologies and ecological management of wood - from the lessons that the Roberto brothers can offer through its architecture.
+Key-words: The Roberto Brothers; Wooden frames.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Irmãos Roberto</keyword>
+          <keyword>Esquadrias de Madeira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>The Roberto Brothers</keyword>
+          <keyword>Wooden frames</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliana Silva de</givenname>
+            <familyname locale="pt_BR">Mattos</familyname>
+            <affiliation locale="pt_BR">PROARQ-UFRJ</affiliation>
+            <country>BR</country>
+            <email>arqmattos@gmail.com</email>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

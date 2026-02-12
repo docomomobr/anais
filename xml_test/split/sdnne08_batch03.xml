@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne08</id>
+  <description locale="pt_BR">8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico]. Palmas: AMA, NAMA, UFT, CEULP, 2021. Disponível em: 8docomomonnepalmas.weebly.com. ISBN 978-65-00-71382-4</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>8</number>
+    <year>2021</year>
+    <title locale="pt_BR">8º Seminário Docomomo Norte/Nordeste, Palmas, 2021</title>
+  </issue_identification>
+  <date_published>2021-08-18</date_published>
+  <last_modified>2021-08-18</last_modified>
+  <sections>
+    <section ref="SEC6-sdnne08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">6</id>
+      <abbrev locale="pt_BR">SEC6-sdnne08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="11" stage="production">
+      <id type="internal" advice="ignore">sdnne08-011</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="10" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">11</id>
+        <title locale="pt_BR">Arquitetura de zélia Maia Nobre</title>
+        <subtitle locale="pt_BR">casas modernas nos anos 1950 em Maceió-AL</subtitle>
+        <abstract locale="pt_BR">A arquiteta pernambucana Zélia Maia Nobre deixou sua marca na cidade de Maceió como símbolo do desejo de mudar. Responsável pela criação do primeiro curso de arquitetura e urbanismo do Estado, seus edifícios de linhas retas modernizaram o espaço físico da cidade. Assim, este artigo investiga suas primeiras quatro residências registradas no arquivo documental municipal projetadas nos anos 1950 em Maceió. Apesar da sua vasta produção local, sua atuação profissional é desconhecida na historiografia nacional. Serão analisadas estratégias projetuais das casas, em termos de composição e espacialidade, à luz de demais obras da arquiteta e outras produzidas no mesmo período por pernambucanos da corrente modernista, pela influência que exerceram na formação de Zélia; além de registrar a situação atual dos edifícios. Tomar-se-á como base a documentação primária, imagens, redesenhos e modelagem tridimensional. As quatro casas: Residência Humberto Antônio de Omena, Residência Edésio Cavalcanti de Mello, Residência Davi de Albuquerque Melo e Residência Benedito Moreira, as quais pertecem a um universo extenso e desconhecido de projetos da arquiteta, comungam a mesma expressão observada nas poucas obras publicadas dela. Espera-se com isso ampliar os estudos sobre a obra de Zélia, intensificando a relevância de sua produção enquanto representante da expressão modernista alagoana.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>análise projetual</keyword>
+          <keyword>Zélia Maia Nobre</keyword>
+          <keyword>Maceió</keyword>
+          <keyword>documentação</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Letícia Brayner</givenname>
+            <familyname locale="pt_BR">Ramalho</familyname>
+            <affiliation locale="pt_BR">UFAL</affiliation>
+            <country>BR</country>
+            <email>letbrayner@hotmail.com</email>
+            <biography locale="pt_BR">Doutoranda em Arquitetura e Urbanismo pelo Programa de Pós-graduação Dinâmicas do Espaço Habitado – PPGAU UFAL.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tamires Aleixo</givenname>
+            <familyname locale="pt_BR">Cassella</familyname>
+            <affiliation locale="pt_BR">UFAL</affiliation>
+            <country>BR</country>
+            <email>tamiresacassella@gmail.com</email>
+            <orcid>https://orcid.org/0000-0003-3218-3422</orcid>
+            <biography locale="pt_BR">Doutoranda em Arquitetura e Urbanismo pelo Programa de Pós-graduação Dinâmicas do Espaço Habitado – PPGAU UFAL.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="12" stage="production">
+      <id type="internal" advice="ignore">sdnne08-012</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="11" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">12</id>
+        <title locale="pt_BR">Arquitetura Moderna no agreste paraibano</title>
+        <subtitle locale="pt_BR">o trabalho de construção de Uma História da Arquitetura Moderna em Campina Grande</subtitle>
+        <abstract locale="pt_BR">O artigo possui como objeto de estudo o trabalho que vem sendo desenvolvido em prol da construção de uma história da arquitetura moderna em Campina Grande, no agreste do Estado da Paraíba, nordeste brasileiro. Tal proposta vem sendo realizada por um grupo de pesquisa que possui como enfoque os temas relacionados à produção arquitetônica e aos lugares nos quais foram produzidas as obras modernas, resgatando autores, edificações, soluções projetuais e construtivas. O objetivo é divulgar o trabalho que vem sendo realizado ao longo de anos, resultante de projetos de pesquisa em nível de iniciação científica e de conclusão de cursos na graduação, bem como, de pesquisas de pós-graduação. Justifica-se pela importância em valorizar a interiorização da pesquisa no nosso país, que passa por um momento tão difícil para a educação e todo o arcabouço que a constitui, como por exemplo, a documentação e a conservação do acervo patrimonial moderno. A metodologia adota uma linha analítica arquitetônica baseada em Afonso (2019) através do olhar sobre sete dimensões do objeto analisado - normativa, histórica, espacial, tectônica, funcional, formal, e de conservação- aqui listadas como as fundamentais e que se apoiam nos autores clássicos da área como Serra (2006), Rovira e Gaston (2007), Katinsky (1995), Frampton (1995), entre outros. Palavras-chave: história da arquitetura; documentação; arquitetura moderna; projetos arquitetônicos.</abstract>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em projetos arquitetônicos pela ETSAB/UPC.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="13" stage="production">
+      <id type="internal" advice="ignore">sdnne08-013</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="12" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">13</id>
+        <title locale="pt_BR">Arquitetura Moderna x contemporânea</title>
+        <subtitle locale="pt_BR">a transição notada da Arquitetura Palmense observada nas obras da arquiteta joseísa Martins Vieira Furtado</subtitle>
+        <abstract locale="pt_BR">Este artigo pretende fazer um amplo levantamento das obras, atuação e perspectivas da arquiteta Joseísa Martins Vieira Furtado, que chegara no período de expansão das principais obras da nova capital criada no final do século XX, visando a sua contribuição para esse processo de transição. Apesar da arquiteta chegar no ano de 1999, uma década após a criação da cidade, realizou trabalhos marcantes nesse período como a reforma do Palácio do Araguaia, a Guarita do Palácio, a Residência Oficial do Governo e o Ministério Público do Estado do Tocantins. É notada em suas obras a monumentalidade da arquitetura moderna, o uso de materiais característicos do estilo como o concreto armado e protendido, vidro e aço, também detalhes construtivos como, janelas em linha, terraços cobertos, planta livre e racionalismo. Desta forma o trabalho se desenvolve através do levantamento bibliográfico, biografia pessoal, pesquisa de campo e entrevistas. No qual nos permite esclarecer a questão de relacionar a Arquitetura moderna presente na cidade de Palmas em pleno período Contemporâneo, ou mesmo descrito por alguns autores, como Pós-moderno, condição que está atrelado nas referências vivenciadas e trazidas pelo período em que os arquitetos como Furtado ultrapassaram, período este marcado por uma transição importantíssima e pragmática: fim de uma era e início de outra.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Palmas</keyword>
+          <keyword>Modernismo</keyword>
+          <keyword>Contemporâneo</keyword>
+          <keyword>Joseísa Furtado</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Zibia de Sousa Pereira de</givenname>
+            <familyname locale="pt_BR">Araujo</familyname>
+            <affiliation locale="pt_BR">CEULP-ULBRA</affiliation>
+            <country>BR</country>
+            <email>zibiapeara@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-3607-9748</orcid>
+            <biography locale="pt_BR">Pós-Graduanda em Arquitetura de Interiores e Paisagismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Andherson Prado</givenname>
+            <familyname locale="pt_BR">Campos</familyname>
+            <affiliation locale="pt_BR">CEULP-ULBRA</affiliation>
+            <country>BR</country>
+            <email>andhersonprado@ceulp.edu.br</email>
+            <biography locale="pt_BR">Pós-Graduado em MBA Gestão Eficaz de Obras e Projetos (2012)</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="14" stage="production">
+      <id type="internal" advice="ignore">sdnne08-014</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="13" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">14</id>
+        <title locale="pt_BR">As múltiplas expressões do moderno na constituição dos campi urbanos da UFBA</title>
+        <abstract locale="pt_BR">A história da arquitetura baiana passa necessariamente pelo patrimônio edificado da Universidade Federal da Bahia, cujos estudos ainda hoje permanecem bastante incipientes. Com poucas pesquisas e muito circunscritas a arquitetos ou períodos específicos, as dissertações, teses e pesquisas de modo geral que versam sobre o assunto raramente levam em consideração os significativos exemplares edificados da universidade, que muito podem revelar sobre as transformações e permanências das expressões e modos de construir baianos, em especial as várias manifestações do moderno em Salvador. O levantamento dos edifícios pertencentes à UFBA, registrado até agora, que já ultrapassam 50 unidades em dois campi e algumas edificações isoladas no tecido urbano, possibilitou compreender as diferentes características dos distintos tempos e a indicação do predomínio das soluções vinculadas ao movimento moderno e seus desdobramentos, além das matrizes geradoras dos campi urbanos da instituição, que também são filiadas de algum modo a distintos tempos do moderno. O objetivo deste artigo é publicar o resultado de uma pesquisa que vem desde 2013 mapeando e buscando compreender a constituição do território da UFBA.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Arquitetura Universitária</keyword>
+          <keyword>Arquitetura Baiana</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Juliana Cardoso</givenname>
+            <familyname locale="pt_BR">Nery</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>jcnery19@yahoo.com.br</email>
+            <orcid>https://orcid.org/0000-0002-8476-5339</orcid>
+            <biography locale="pt_BR">Doutora (2013), Núcleo de Teoria História Projeto e Planejamento, FAUFBA. Rua Caetano Moura 121 Federação – CEP: 40.210-905 – Salvador/BA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Clara Rachel</givenname>
+            <familyname locale="pt_BR">Reis</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>rachelreis17@gmail.com</email>
+            <biography locale="pt_BR">Graduanda, FAUFBA. Rua Caetano Moura 121 Federação – CEP: 40.210-905 – Salvador/BA.</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Diana Stefani Nunes</givenname>
+            <familyname locale="pt_BR">Santana</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>d.stefani@hotmail.com</email>
+            <biography locale="pt_BR">Graduanda, FAUFBA. Rua Caetano Moura 121 Federação – CEP: 40.210-905 – Salvador/BA.</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2021-08-18" status="3" submission_progress="0" current_publication_id="15" stage="production">
+      <id type="internal" advice="ignore">sdnne08-015</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="14" date_published="2021-08-18" section_ref="SEC6-sdnne08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">15</id>
+        <title locale="pt_BR">Centro administrativo da Bahia</title>
+        <subtitle locale="pt_BR">dinâmicas urbanas e arquitetônicas</subtitle>
+        <abstract locale="pt_BR">O texto examina as conformações urbanas e arquitetônicas do Centro Administrativo da Bahia (CAB), realizado em uma área afastada do centro tradicional de Salvador, no princípio dos anos 1970. Inicialmente posiciona o complexo do CAB dentro das dinâmicas da cidade e do contexto político do momento. A seguir, examina seu projeto urbano e as participações de Lucio Costa e Roberto Burle Marx. Posteriormente, apontam as diferentes soluções dos seus edifícios: aquelas que partem de blocos isolados ou articulados, com geometrias mais ou menos regulares (Secretaria de Planejamento, Ciência e Tecnologia; de Saneamento e Recursos Hídricos, etc.); aquelas marcadas pela ideia da repetição e rearticulação de um mesmo padrão (os “Minhocões”); aquelas focadas em edifícios mais monumentais (Assembleia, Polícia Militar, Memorial ou Igreja). Tais projetos são realizações dos arquitetos da Secretaria de Planejamento e de João Filgueiras Lima – conhecido como Lelé. Embora esses edifícios tenham diferenças, possuindo caráter mais ou menos excepcional, é possível observar soluções recorrentes, que dão unidade ao complexo arquitetônico. Tais soluções são relacionadas com o conceito de brutalismo difundido nacionalmente.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Centro Administrativo da Bahia</keyword>
+          <keyword>Arquitetura e Urbanismo</keyword>
+          <keyword>Brutalismo</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ana Carolina de Souza</givenname>
+            <familyname locale="pt_BR">Bierrenbach</familyname>
+            <affiliation locale="pt_BR">FAUFBA</affiliation>
+            <country>BR</country>
+            <email>acbierrenbach@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-0441-7036</orcid>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdsp08" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdsp08</id>
+  <description locale="pt_BR">8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5</description>
+  <issue_identification>
+    <volume>5</volume>
+    <number>8</number>
+    <year>2022</year>
+    <title locale="pt_BR">8º Seminário Docomomo São Paulo, São Carlos, 2022</title>
+  </issue_identification>
+  <date_published>2022-08-23</date_published>
+  <last_modified>2022-08-23</last_modified>
+  <sections>
+    <section ref="SEC70-sdsp08" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">70</id>
+      <abbrev locale="pt_BR">SEC70-sdsp08</abbrev>
+      <title locale="pt_BR">Homenageados</title>
+    </section>
+    <section ref="SEC71-sdsp08" seq="1" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">71</id>
+      <abbrev locale="pt_BR">SEC71-sdsp08</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="26" stage="production">
+      <id type="internal" advice="ignore">sdsp08-026</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="25" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">26</id>
+        <title locale="pt_BR">Arquitetura e Cidade no processo de modernização</title>
+        <subtitle locale="pt_BR">Londrina e sua produção moderna na década de 1950</subtitle>
+        <abstract locale="pt_BR">A partir da ideia de cidade enquanto agente modernizador, que utiliza como instrumento o processo de modernização, e o conceito de cidade como fonte e foco de criação cultural, a extensa produção de alta qualidade média da arquitetura brasileira nos anos de 1950 tornase evidente em diferentes cidades e contextos do cenário nacional. É o caso de Londrina, no norte do Paraná, cuja produção, sobretudo na década de 1950 – em virtude do êxito da cultura cafeeira –, evidencia a dimensão moderna da cidade através de suas obras arquitetônicas concomitantemente ao seu processo de modernização. Diante disso, este trabalho propõe a análise de alguns exemplares da arquitetura moderna em Londrina, entre os anos de 1950: o mercado Shangri-lá, a Estação Rodoviária, o Edifício ECB, o Edifício Autolon e o Edifício Sahão. As obras marcam o panorama da cidade de Londrina e revelam aspectos da modernização da cidade frente à sua formação.</abstract>
+        <abstract locale="en_US">From the idea of the city as a modernizing agent, which uses the modernization process as an instrument, and the concept of the city as a source and focus of cultural creation, the extensive production of high average quality of Brazilian architecture in the 1950s becomes evident in different cities and contexts of the national scenario. This is the case of Londrina, in the north of Paraná, whose production, especially in the 1950s - due to the success of the coffee culture -, highlights the modern dimension of the city through its architectural works concomitantly with its modernization process. Therefore, this work proposes the analysis of some examples of modern architecture in Londrina, between the 1950s: the Shangri-lá market, the Bus Station, the ECB Building, the Autolon Building and the Sahão Building. The works mark the panorama of the city of Londrina and reveal aspects of the modernization of the city in the face of its formation.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Modernização</keyword>
+          <keyword>Cidade</keyword>
+          <keyword>Londrina</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modernization</keyword>
+          <keyword>City</keyword>
+          <keyword>Londrina</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Fernanda Millan</givenname>
+            <familyname locale="pt_BR">Fachi</familyname>
+            <country>BR</country>
+            <email>fachi@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-4203-5335</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Miguel Antônio</givenname>
+            <familyname locale="pt_BR">Buzzar</familyname>
+            <country>BR</country>
+            <email>m.buzzar@sc.usp.br</email>
+            <orcid>https://orcid.org/0000-0001-6251-0338</orcid>
+          </author>
+        </authors>
+        <pages>385-399</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="27" stage="production">
+      <id type="internal" advice="ignore">sdsp08-027</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="26" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">27</id>
+        <title locale="pt_BR">Cia. city</title>
+        <subtitle locale="pt_BR">acervo e pesquisas</subtitle>
+        <abstract locale="pt_BR">O presente texto procura iluminar o potencial que o arquivo da empresa loteadora Cia. City, atuante há mais de cem anos na cidade de São Paulo, possui para a realização de pesquisas a respeito de arquitetura e urbanismo desse período. O artigo refere-se a alguns trabalhos específicos que demonstram como a documentação desta empresa sobre o desenho do parcelamento do solo no modelo garden city e da venda de suas terras em lotes tem alimentado o estudo, a preservação e o conhecimento sobre modelos urbanísticos e padrões arquitetônicos nessa cidade nas últimas décadas.</abstract>
+        <abstract locale="en_US">The present text seeks to illuminate the potential that the file of the lottery company Cia. City, at the point where the building is located in the city of São Paulo, it is possible to carry out a respect for the architecture and urbanism of that period. The article to some specific works refers to a lot of the sale of its lands in model and the lot of urbanistic models and patterns. We developed in this city in the last decades.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Cia</keyword>
+          <keyword>City</keyword>
+          <keyword>Acervos</keyword>
+          <keyword>Preservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Cia City</keyword>
+          <keyword>Collections Preservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Silvia Ferreira Santos</givenname>
+            <familyname locale="pt_BR">Wolff</familyname>
+            <country>BR</country>
+            <email>wolff@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-7538-2750</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Aline Nassaralla</givenname>
+            <familyname locale="pt_BR">Regino</familyname>
+            <country>BR</country>
+            <email>regino@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1242-8832</orcid>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Roseli Maria Martin</givenname>
+            <familyname locale="pt_BR">D'Elboux</familyname>
+            <country>BR</country>
+            <email>delboux@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0001-5217-2806</orcid>
+          </author>
+        </authors>
+        <pages>400-413</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="28" stage="production">
+      <id type="internal" advice="ignore">sdsp08-028</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="27" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">28</id>
+        <title locale="pt_BR">Intervenções arquitetônicas em residências modernas no Nordeste brasileiro</title>
+        <subtitle locale="pt_BR">estudos de casos em Campina Grande, PB</subtitle>
+        <abstract locale="pt_BR">O texto pretende expor dois estudos de casos de intervenções em residências modernas projetadas e construídas na cidade de Campina Grande, agreste da Paraíba, para exemplificar as investigações que vêm sendo desenvolvidas pelo grupo de pesquisa arquitetura e lugar, vinculado à UFCG/ Universidade Federal de Campina Grande. Justificase a apresentação do trabalho nesse seminário, como uma maneira de refletir sobre os desafios encontrados para a documentação e conservação do patrimônio residencial moderno no nordeste brasileiro, onde a falta de uma política preservacionista municipal vem dando espaço à demolições e descaracterizações de um acervo ainda não inventariado e desprotegido, e que a cada dia se apaga na paisagem urbana e na memória dos cidadãos. Como metodologia da pesquisa, esta se apoia em autores que discutem sobre a documentação patrimonial, o projeto de restauro, os estudos de patologias construtivas – que dão o suporte aos projetos de intervenção no patrimônio edificado, conforme será visto.</abstract>
+        <abstract locale="en_US">The text intends to present two case studies of interventions in modern residences designed and built in the city of Campina Grande, agreste of Paraíba, to exemplify the investigations that have been developed by the research group architecture and place, linked to the UFCG / Federal University of Campina Great. The presentation of the work in this seminar is justified as a way to reflect on the challenges encountered for the documentation and conservation of modern residential heritage in the Brazilian northeast, where the lack of a municipal preservationist policy has given space to demolitions and de-characterizations of a collection. not yet inventoried and unprotected, and that is erased every day in the urban landscape and in the memory of citizens. As a research methodology, this is supported by authors who discuss heritage documentation, the restoration project, studies of constructive pathologies - which support intervention projects in the built heritage, as will be seen.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura moderna</keyword>
+          <keyword>Intervenção</keyword>
+          <keyword>Conservação</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Intervention</keyword>
+          <keyword>Conservation</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+          </author>
+        </authors>
+        <pages>414-427</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="29" stage="production">
+      <id type="internal" advice="ignore">sdsp08-029</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="28" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">29</id>
+        <title locale="pt_BR">Levantamentos digitais como metodologia de identificação da Arquitetura Moderna no centro de Ribeirão Preto</title>
+        <abstract locale="pt_BR">Apresenta os processos e resultados de investigação empreendida para a identificação de exemplares representativos da Arquitetura Moderna no centro da cidade de Ribeirão Preto, a partir de metodologia envolvendo levantamentos de campo em plataformas digitais e pesquisas em banco de dados da Prefeitura Municipal de Ribeirão Preto. Utiliza como estudo de caso o trabalho de Iniciação Científica intitulado “Uma história não contada: o reconhecimento da Arquitetura Moderna no Quadrilátero Central de Ribeirão Preto entre as décadas de 1940 e 1960”, desenvolvido ao longo dos anos 2019 e 2020, junto ao curso de Arquitetura e Urbanismo da Universidade Paulista, em Ribeirão Preto. Além do mapeamento das edificações modernas existentes, foi possível analisar a diversa configuração formal e programática assumida por essa produção e verificar os principais períodos de sua concepção no centro de Ribeirão Preto.</abstract>
+        <abstract locale="en_US">Presents the processes and results of investigation undertaken to identify representative examples of Modern Architecture in the city center of Ribeirão Preto, based on methodology involving field surveys on digital platforms and research in databases of the Municipality of Ribeirão Preto. It uses as a case study the scientific initiation research &quot;An untold story: the recognition of Modern Architecture in the Central Quadrangle of Ribeirão Preto between the 1940s and 1960s&quot; developed over the years 2019 and 2020, in the Architecture and Urbanism course at Universidade Paulista, in Ribeirão Preto. In addition to mapping the existing modern buildings, it was possible to analyze the different formal and programmatic configuration assumed by this practice and verify the main periods of its conception in the center of Ribeirão Preto.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Levantamentos digitais</keyword>
+          <keyword>Ribeirão Preto</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Digital surveys</keyword>
+          <keyword>Ribeirão Preto</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Laura Marques dos</givenname>
+            <familyname locale="pt_BR">Santos</familyname>
+            <country>BR</country>
+            <email>dos_santos@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Tatiana de Souza</givenname>
+            <familyname locale="pt_BR">Gaspar</familyname>
+            <country>BR</country>
+            <email>gaspar@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>428-442</pages>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2022-08-23" status="3" submission_progress="0" current_publication_id="30" stage="production">
+      <id type="internal" advice="ignore">sdsp08-030</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="29" date_published="2022-08-23" section_ref="SEC71-sdsp08" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">30</id>
+        <title locale="pt_BR">Deambular pelo moderno</title>
+        <subtitle locale="pt_BR">o caminhar como preservação da Arquitetura Moderna de Curitiba</subtitle>
+        <abstract locale="pt_BR">Lineu Castello, em seu livro “A percepção de lugar”, introduz a escrita com uma interessante frase de uma entrevista de Denise Scott Brown e Robert Venturi à Hans Obrist e Rem Koolhaas que menciona que os arquitetos, ao serem sensíveis ao seu tempo, gostam de analisar o que lhes estimula, pois, esse estímulo será relevante. Este artigo partiu de uma pesquisa que busca artifícios para promover um caráter identitário à cidade, através de um Promenade Urbano que valoriza a arquitetura moderna de Curitiba. A partir de tais análises, o centro da cidade de Curitiba é escolhido para abrigar um passeio deambulatório pela arquitetura moderna com intenção de instigar a percepção dos transeuntes ao os levar para espaços de encontro, com a arquitetura e com o outro. Um modesto e despojado convite à reflexão de como os arquitetos poderão entregar resultados pertinentes para os prementes desafios arquitetônicos.</abstract>
+        <abstract locale="en_US">Lineu Castello, in his book “Rethiking the meaning of a place”, starts his writing with an interesting sentence from an interview by Denise Scott Brown and Robert Venturi to Hans Obrist and Rem Koolhaas that mentions that architects, being sensitive to their time, like to analyze what stimulates them, because this stimulus will be relevant. This article started from a research that seeks artifices to promote an identity character to the city, through an Urban Promenade that values the modern architecture of Curitiba. Based on these analyses, the city center of Curitiba is chosen to host a walking tour of modern architecture to instigate people perceptions by taking them to spaces, where they can meet architecture and other people. A modest and uncluttered invitation to reflect on how architects can deliver relevant results for pressing architectural challenges.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura</keyword>
+          <keyword>Moderna</keyword>
+          <keyword>Deambular</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Architecture</keyword>
+          <keyword>Modern</keyword>
+          <keyword>Walkability</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Isabela Ignacio de</givenname>
+            <familyname locale="pt_BR">Moura</familyname>
+            <country>BR</country>
+            <email>moura@exemplo.com</email>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Karina Scussiato</givenname>
+            <familyname locale="pt_BR">Pimentel</familyname>
+            <country>BR</country>
+            <email>pimentel@exemplo.com</email>
+          </author>
+        </authors>
+        <pages>443-457</pages>
+      </publication>
+    </article>
+  </articles>
+</issue>

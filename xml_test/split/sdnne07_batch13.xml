@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="1" current="0" access_status="1" url_path="sdnne07" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">sdnne07</id>
+  <description locale="pt_BR">7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2</description>
+  <issue_identification>
+    <volume>3</volume>
+    <number>7</number>
+    <year>2018</year>
+    <title locale="pt_BR">7º Seminário Docomomo Norte/Nordeste, Manaus, 2018</title>
+  </issue_identification>
+  <date_published>2018-08-13</date_published>
+  <last_modified>2018-08-13</last_modified>
+  <sections>
+    <section ref="SEC5-sdnne07" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+      <id type="internal" advice="ignore">5</id>
+      <abbrev locale="pt_BR">SEC5-sdnne07</abbrev>
+      <title locale="pt_BR">Artigos Completos</title>
+    </section>
+  </sections>
+  <articles>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="61" stage="production">
+      <id type="internal" advice="ignore">sdnne07-061</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="60" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">61</id>
+        <title locale="pt_BR">Arquitetura e estrutura</title>
+        <subtitle locale="pt_BR">a obra de Raul cirne em estádios de futebol do Piauí e da Paraíba nos anos 70</subtitle>
+        <abstract locale="pt_BR">O artigo a ser apresentado abordará a relação existente entre arquitetura e estrutura durante a produção de obras modernas, utilizando como objeto de estudo, dois estádios de futebol projetados pelo arquiteto ! mineiro Raul de Lagos Cirne: o Estádio Governador Alberto Tavares Silva (1970-1973), conhecido como “Albertão” construído em Teresina, capital do Piauí; e o Estádio Ernani Sátyro (1973-1975), popularmente chamado de “Amigão”, construído na cidade de Campina Grande, agreste paraibano. As obras a serem analisadas se caracterizam pelo diálogo entre concepções arquitetônica e estrutural, nas quais se observa que Cirne procurou unir criatividade e tecnologia, denotando uma forte influência da obra do engenheiro e arquiteto estrutural de renome no panorama internacional- Pier Luigi Nervi- que utilizou nos anos 50, na Itália, principalmente a técnica do concreto armado, estando sempre atento à relação estrutura/ forma. A materialidade do concreto armado foi adotada nesses dois estádios, em soluções arquitetônicas que tiraram partido da estrutura para conceber a forma moderna. As principias etapas do processo construtivo, que segundo RIPPER (1998) são: concepção e projeto; seleção e emprego dos materiais; execução; utilização; manutenção e outras- serão analisadas, se apoiando em um referencial teórico voltado para as discussões sobre arquitetura moderna, tectônica, concepção estrutural, materialidade.</abstract>
+        <abstract locale="en_US">The article to be presented will discuss the relationship between architecture and structure during the production of modern works, using as object of study, two football stadiums designed by the architect Raul de Lagos Cirne, the Governador Alberto Tavares Silva Stadium (1970-1973) , known as &quot;Albertão&quot; built in Teresina, capital of Piauí; and the Stadium Ernani Sátyro (1973-1975), popularly called &quot;Amigão&quot;, built in the city of Campina Grande, Paraíba. The works to be analyzed are characterized by the dialogue between architectural and structural conceptions, in which it is observed that Cirne sought to unite creativity and technology, denoting a strong influence of the work of the renowned structural engineer and architect in the international panorama - Pier Luigi Nervi - who used in the 50s, in Italy, mainly the technique of reinforced concrete, being always attentive to the relation structure / form. The materiality of the reinforced concrete was adopted in these two stages, in architectural solutions that took advantage of the structure to conceive the modern form. The main stages of the construction process, which according to RIPPER (1998) are: design and design; selection and use of materials; execution; use; maintenance, and others - will be analyzed, based on a theoretical framework for the discussions on modern architecture, tectonics, structural design, and materiality.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>concepção arquitetônica</keyword>
+          <keyword>concepção estrutural</keyword>
+          <keyword>tectônica</keyword>
+          <keyword>arquitetura moderna</keyword>
+          <keyword>materialidade</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>architectural design</keyword>
+          <keyword>structural design</keyword>
+          <keyword>tectonics</keyword>
+          <keyword>modern architecture</keyword>
+          <keyword>materiality</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Alcília</givenname>
+            <familyname locale="pt_BR">Afonso de Albuquerque e Melo</familyname>
+            <affiliation locale="pt_BR">UFCG</affiliation>
+            <country>BR</country>
+            <email>kakiafonso@hotmail.com</email>
+            <orcid>https://orcid.org/0000-0002-6344-9329</orcid>
+            <biography locale="pt_BR">Doutora em Projetos arquitetônicos</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="62" stage="production">
+      <id type="internal" advice="ignore">sdnne07-062</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="61" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">62</id>
+        <title locale="pt_BR">Arquitetos pioneiros na construção do estado de Roraima</title>
+        <abstract locale="pt_BR">Este artigo tem por objetivo evidenciar a importância dos arquitetos pioneiros de Roraima, que foram responsáveis pela consolidação da estrutura dos órgãos técnicos no surgimento do Estado e que contribuíram para a imagem da arquitetura local, entre o final da década de 1980 e ao longo da década de ! 1990. Inseridos num segundo momento de influxo desenvolvimentista, estes arquitetos se destacaram pela coordenação e autoria de obras modernas que serviram de alicerce infraestrutural e arranque para o desenvolvimento socioeconômico roraimense, especialmente na década de 1990, com destaque às obras arquitetônicas dos edifícios institucionais, que constituiram um conjunto arquitetônico simbólico para a capital. A necessidade desse registro deve-se à escassez de documentação histórica desse período importante, sendo necessário o registro dessas contribuições, cujas fontes foram pesquisas bibliográficas e análises documentais, como entrevistas com os profissionais da época e registros fotográficos. Desse modo, o trabalho visa destacar como se deu o processo da Arquitetura Moderna tardia em Roraima nesse período, assim como o papel dos arquitetos dos órgãos públicos de infraestrutura como precursores na construção e consolidação do, então, novo estado brasileiro.</abstract>
+        <abstract locale="en_US">This article aims to highlight the importance of the pioneer architects of Roraima, who were responsible for consolidating the structure of the technical organs in the emergence of the State and which contributed to the image of the local architecture, between the end of decade of 1980 and over the decade of 1990. Inserted in a second moment of developmental influx, these architects stood out for the coordination and authorship of modern works that served as an infrastructure foundation and start-up for Roraima socio- economic development, especially in the 1990, with emphasis on the architectural works of the institutional buildings, constituting a symbolic architectural set for the capital. The need for this record is due to the shortage of historical documentation of this important period, and it is necessary to register these contributions, whose sources were bibliographic research and documentary analysis, as interviews with the professionals of the time and photographic records. In this way, the work aims to highlight how the process of late modern architecture in Roraima was given in this period, as well as the role of the architects of the public infrastructure agencies as precursors in the construction and consolidation of the new state Brazilian.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Roraima</keyword>
+          <keyword>Arquitetos pioneiros</keyword>
+          <keyword>Década de 1980-1990</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern architecture</keyword>
+          <keyword>Roraima</keyword>
+          <keyword>Pioneer Architects</keyword>
+          <keyword>The 1980-1990</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Angélica P</givenname>
+            <familyname locale="pt_BR">Triani</familyname>
+            <country>BR</country>
+            <email>angelicatriani@outlook.com</email>
+            <orcid>https://orcid.org/0000-0001-9739-1172</orcid>
+            <biography locale="pt_BR">Graduanda no curso de Arquitetura e Urbanismo da Universidade Federal de Roraima - UFRR</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Ohana P</givenname>
+            <familyname locale="pt_BR">Silva</familyname>
+            <country>BR</country>
+            <email>ohanapereira96@gmail.com</email>
+            <biography locale="pt_BR">Graduanda no curso de Arquitetura e Urbanismo da Universidade Federal de Roraima - UFRR</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Paulina O</givenname>
+            <familyname locale="pt_BR">Ramalho</familyname>
+            <affiliation locale="pt_BR">DAU-UFRR</affiliation>
+            <country>BR</country>
+            <email>paulina.ramalho@ufrr.br</email>
+            <orcid>https://orcid.org/0000-0002-4125-7246</orcid>
+            <biography locale="pt_BR">Mestre em Preservação do Patrimônio Cultural (2012). Docente do curso de Arquitetura e Urbanismo da UFRR</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="63" stage="production">
+      <id type="internal" advice="ignore">sdnne07-063</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="62" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">63</id>
+        <title locale="pt_BR">As projeções do moderno na Amazônia</title>
+        <abstract locale="pt_BR">! Este artigo apresenta em nível exploratório as indagações sobre a existência de algumas produções de arquitetura moderna no Pará, que emergia além dos princípios do estilo internacional, navegando entre o universal e o regional, passível de adaptações e sendo incorporado nas obras dos arquitetos Camilo Porto de Oliveira e Milton Monte. Os exemplares arquitetônicos dos mesmos revelam suas pretensões particulares e suas projeções de ordem formal singulares, algumas vezes opostas, todavia mergulhadas nos anseios racionais pregados pelo movimento moderno, em um período antes e posterior à fundação da escola de Arquitetura na cidade de Belém do Pará, em 1964. O estudo acerca dessas &quot;arquiteturas&quot; modernistas edificadas e seus autores foram desenvolvidos a partir de subsídios conceituais-teóricos, levantamentos arquitetônicos das obras analisadas, para, por fim, realizar-se uma análise das soluções de projeto. As pesquisas desenvolvidas objetivaram reconstruir e comparar os caminhos das produções expressivas de Porto e Monte, pelo qual, foram responsáveis em atualizar o acervo da arquitetura da cidade de Belém e proximidades, aos padrões do ideal moderno. Deste modo, o trabalho realizado almejou buscar o diálogo de suas obras e refletir o papel do arquiteto na Modernidade Amazônica e suas contribuições à qualificação da arquitetura produzida na contemporaneidade.</abstract>
+        <abstract locale="en_US">This article presents an exploratory level in the inquiries about the existence of some productions of modern architecture in Pará, which emerged in addition to the principles of the international style, navigating between the universal and the regional, adaptable and being incorporated in the works of Camilo Porto de Oliveira and Milton Monte architects. The architectural examples of the same reveal their special claims and unique formal order projections, sometimes opposed, however immersed in rational desires preached by the modern movement, in a period before and after the foundation of the architecture school in the Belém of Pará city, in 1964. The study about these modernists &quot;architectures&quot; edified and their authors were developed from the conceptual theoretical subsidies, architectural surveys of the works analyzed, to conduct an analysis of the solutions of project. The researches to reconstruct and compare the paths of expressive productions of Porto and Monte, by which were responsible in updating the acquis of the architecture of the town of Belém and vicinity to the standards of the ideal modern. The article to seek dialog of their works and reflect the role of the architect in the modernity of the Amazon and its contributions to the qualification of the architecture in the contemporaneity.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Arquitetura Moderna</keyword>
+          <keyword>Amazônia</keyword>
+          <keyword>Milton Monte</keyword>
+          <keyword>Camilo Porto de Oliveira</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Modern Architecture</keyword>
+          <keyword>Amazon</keyword>
+          <keyword>Milton Monte</keyword>
+          <keyword>Camilo Porto de Oliveira. ! Variâncias da ordem modernista</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Arthur</givenname>
+            <familyname locale="pt_BR">Montenegro de Oliveira</familyname>
+            <affiliation locale="pt_BR">CCET-UNAMA</affiliation>
+            <country>BR</country>
+            <email>arthurrmontenegro@hotmail.com</email>
+            <biography locale="pt_BR">Arquiteto e Urbanista</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="64" stage="production">
+      <id type="internal" advice="ignore">sdnne07-064</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="63" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">64</id>
+        <title locale="pt_BR">Procedimentos de inspeção predial para imóveis patrimoniais</title>
+        <abstract locale="pt_BR">! Os imoveis patrimoniais são o registro da historia de uma cidade, onde se encontra a identidade cultural de um povo. Partindo deste principio, o centro histórico de Manaus se destaca pelo relevante número de imóveis classificados como patrimônio cultural, edificações estas, construídas em sua maioria no período do apogel da borracha e que encontram-se atualmente esquecidas quanto sua manutenção, e algumas até em elevado estado de degradação. Imóveis estes, que ao terem sua manutenção negligenciada coloca-se em risco a vida da edificação e humana. Logo, este estudo verifica a aplicação de procedimentos de inspeção em imoveis patrimoniais visando sua manutenção, e avalia o risco da presença de anomalias e falhas causadas principalmente pelo abandono e ausência de plano de manutenção à estrutura e arquitetura do bem patrimonial. Com os resultados constata-se que, a aplicação de procedimentos de inspeção possibilitará aferir com maior criticidade os elementos que apresentam risco ao bem patrimonial e a vida das pessoas e assim oferecer ferramentas para a classificação quanto ao grau de prioridade que devem ser sanados.</abstract>
+        <abstract locale="en_US">The heritage estates are the record of the history of a city, where the cultural identity of a people is found. Based on this principle, the historical center of Manaus stands out for the relevant number of properties classified as cultural heritage, these buildings, mostly built in the period of apogel of rubber and are currently forgotten as to its maintenance, and some even high state of degradation. These buildings, which have their neglected maintenance put at risk the life of the building and human. Therefore, this study verifies the application of inspection procedures in properties patrimonial aiming their maintenance, and evaluates the risk of the presence of anomalies and failures caused mainly by the abandonment and absence of maintenance plan the structure and architecture of the property. The results show that the application of inspection procedures will make it possible to ascertain with greater criticality the elements that present risks to the property and the life of the people and thus offer tools for classification as to the degree of priority that must be remedied.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Inspeção</keyword>
+          <keyword>Imóveis Patrimoniais, Manutenção</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Inspection</keyword>
+          <keyword>Real Estate, Maintenance</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Vannessa</givenname>
+            <familyname locale="pt_BR">Costa e Costa</familyname>
+            <affiliation locale="pt_BR">UEA</affiliation>
+            <country>BR</country>
+            <email>vcc.eng@uea.edu.br</email>
+            <biography locale="pt_BR">Graduanda (2018)</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Valdete</givenname>
+            <familyname locale="pt_BR">Santos de Araujo</familyname>
+            <affiliation locale="pt_BR">COPPE-UFRJ</affiliation>
+            <country>BR</country>
+            <email>eng.valdete@gmail.com.br</email>
+            <orcid>https://orcid.org/0000-0002-8683-9813</orcid>
+            <biography locale="pt_BR">Doutora (2010) Engenharia de Transportes</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+    <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" date_submitted="2018-08-13" status="3" submission_progress="0" current_publication_id="65" stage="production">
+      <id type="internal" advice="ignore">sdnne07-065</id>
+      <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="64" date_published="2018-08-13" section_ref="SEC5-sdnne07" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+        <id type="internal" advice="ignore">65</id>
+        <title locale="pt_BR">O legado de severiano Porto</title>
+        <abstract locale="pt_BR">As obras do renomado arquiteto Severiano Mário Porto são reconhecidas em âmbito nacional e internacional pela aplicação de estratégias bioclimáticas voltadas à Amazônia. Dentre elas, destaca-se o Setor Norte do Campus da Universidade Federal do Amazonas – UFAM como uma das mais reportadas !1 !</abstract>
+        <abstract locale="en_US">The works of renowned architect Severiano Mário Porto are recognized nationally and internationally by bioclimatic strategies application geared to Amazonia. Among them, the Federal University of Amazonas – UFAM Campus Northern Sector stands out as one of the most reported in current literature, awarded by Architecture Biennial of Buenos Aires (1985) and Institute of Brazilian Architects – IAB (1987) in addition to integrating a set of 29 architect’s works listed as architectural, historical and cultural patrimony in 2016 by Amazonas State Law nº 312. In this present article, buildings authored by Severiano Porto and dated from the first construction front in University Northern Sector were studied in order to identify the bioclimatic strategies used, as well as understand its influence on the Campus architectural set. For that, we selected buildings with similar physical structure and use, representing laboratory block, amphitheater, classroom block and administrative block typologies. The bioclimatic strategies identification was made through documentary, bibliographic research and data collection in field according to three strategic categories: natural ventilation, shading and materials choice.</abstract>
+        <keywords locale="pt_BR">
+          <keyword>Severiano Mário Porto</keyword>
+          <keyword>Estratégias Bioclimáticas</keyword>
+          <keyword>Campus UFAM</keyword>
+          <keyword>Amazônia</keyword>
+        </keywords>
+        <keywords locale="en_US">
+          <keyword>Severiano Mário Porto</keyword>
+          <keyword>Bioclimatic Strategies</keyword>
+          <keyword>Campus UFAM</keyword>
+          <keyword>Amazonia</keyword>
+        </keywords>
+        <authors>
+          <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
+            <givenname locale="pt_BR">Ariele</givenname>
+            <familyname locale="pt_BR">Luckwu Mendes</familyname>
+            <country>BR</country>
+            <email>ariele@ufam.edu.br</email>
+            <orcid>https://orcid.org/0000-0002-6150-5120</orcid>
+            <biography locale="pt_BR">Especialista em Gestão de Projetos, graduada em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
+            <givenname locale="pt_BR">Gisele</givenname>
+            <familyname locale="pt_BR">Bahia Lins</familyname>
+            <country>BR</country>
+            <email>bahia.gisele@gmail.com</email>
+            <orcid>https://orcid.org/0000-0002-3275-7556</orcid>
+            <biography locale="pt_BR">Graduada em Arquitetura e Urbanismo</biography>
+          </author>
+          <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
+            <givenname locale="pt_BR">Genilson</givenname>
+            <familyname locale="pt_BR">Pereira Santana</familyname>
+            <country>BR</country>
+            <email>gsantana@ufam.edu.br</email>
+            <orcid>https://orcid.org/0000-0002-6322-4816</orcid>
+            <biography locale="pt_BR">Doutor em Físico-Química. Departamento de Química da UFAM</biography>
+          </author>
+        </authors>
+      </publication>
+    </article>
+  </articles>
+</issue>
