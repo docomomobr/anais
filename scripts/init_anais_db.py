@@ -34,6 +34,7 @@ CREATE TABLE IF NOT EXISTS sections (
     title TEXT NOT NULL,
     abbrev TEXT,
     seq INTEGER DEFAULT 0,
+    hide_title INTEGER DEFAULT 0,
     UNIQUE(seminar_slug, title)
 );
 

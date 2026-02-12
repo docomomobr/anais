@@ -294,11 +294,12 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
         sec_ref = sec['abbrev'] or make_section_ref(sec['title'], slug, sec['id'])
         section_map[sec['id']] = sec_ref
 
+        ht = '1' if sec['hide_title'] else '0'
         sec_el = SubElement(sections_el, 'section',
                            ref=sec_ref, seq=str(idx + 1 if need_default else idx),
                            editor_restricted='0', meta_indexed='1',
                            meta_reviewed='1', abstracts_not_required='1',
-                           hide_title='0', hide_author='0',
+                           hide_title=ht, hide_author='0',
                            abstract_word_count='0')
         SubElement(sec_el, 'id', type='internal', advice='ignore').text = str(sec['id'])
         SubElement(sec_el, 'abbrev', locale='pt_BR').text = sec_ref

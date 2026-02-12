@@ -188,7 +188,22 @@ def update_author_contact(cur, author_id, email, orcid):
                     list(updates.values()) + [author_id])
 
 
+def parse_issue_sections(data):
+    """Extrai seções definidas em issue.sections (sdrj02, sdrj03, etc.)."""
+    if 'issue' in data:
+        return data['issue'].get('sections', [])
+    return []
+
+
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description='Importa YAMLs para anais.db')
+    parser.add_argument('--incremental', action='store_true',
+                        help='Importar sem apagar dados existentes')
+    parser.add_argument('--only', nargs='+', metavar='SLUG',
+                        help='Importar apenas estes slugs (ex: sdrj02 sdrj03)')
+    args = parser.parse_args()
+
     if not os.path.exists(DB_PATH):
         print(f'Banco não encontrado: {DB_PATH}')
         print('Execute init_anais_db.py primeiro.')
@@ -198,12 +213,22 @@ def main():
     conn.execute('PRAGMA foreign_keys = ON')
     cur = conn.cursor()
 
-    # Limpar dados existentes (para reimportação)
-    for table in ['article_author', 'author_variants', 'articles', 'authors', 'sections', 'seminars']:
-        cur.execute(f'DELETE FROM {table}')
-    # Reset autoincrement
-    cur.execute("DELETE FROM sqlite_sequence")
-    conn.commit()
+    if not args.incremental and not args.only:
+        # Limpar dados existentes (para reimportação completa)
+        for table in ['article_author', 'author_variants', 'articles', 'authors', 'sections', 'seminars']:
+            cur.execute(f'DELETE FROM {table}')
+        # Reset autoincrement
+        cur.execute("DELETE FROM sqlite_sequence")
+        conn.commit()
+    elif args.only:
+        # Limpar apenas os slugs especificados
+        for slug in args.only:
+            cur.execute('DELETE FROM article_author WHERE article_id IN (SELECT id FROM articles WHERE seminar_slug = ?)', (slug,))
+            cur.execute('DELETE FROM articles WHERE seminar_slug = ?', (slug,))
+            cur.execute('DELETE FROM sections WHERE seminar_slug = ?', (slug,))
+            cur.execute('DELETE FROM seminars WHERE slug = ?', (slug,))
+        conn.commit()
+        print(f'Limpou dados de: {", ".join(args.only)}')
 
     yaml_files = find_yaml_files()
     stats = {
@@ -230,6 +255,11 @@ def main():
             continue
 
         slug = sem['slug']
+
+        # Filtrar por --only se especificado
+        if args.only and slug not in args.only:
+            continue
+
         print(f'{slug:12s} — {len(articles_raw)} artigos ... ', end='', flush=True)
 
         # Inserir seminário
@@ -248,13 +278,14 @@ def main():
         ))
         stats['seminars'] += 1
 
-        # Seções pré-definidas (sdsul06-08)
-        predefined_sections = parse_sections_from_data(data)
+        # Seções pré-definidas (sdsul06-08 no topo, sdrj02-03 em issue.sections)
+        predefined_sections = parse_sections_from_data(data) or parse_issue_sections(data)
         for i, sec in enumerate(predefined_sections):
             cur.execute('''
-                INSERT OR IGNORE INTO sections (seminar_slug, title, abbrev, seq)
-                VALUES (?, ?, ?, ?)
-            ''', (slug, sec['title'], sec.get('abbrev'), i))
+                INSERT OR IGNORE INTO sections (seminar_slug, title, abbrev, seq, hide_title)
+                VALUES (?, ?, ?, ?, ?)
+            ''', (slug, sec['title'], sec.get('abbrev'), i,
+                  1 if sec.get('hide_title') else 0))
 
         # Processar artigos
         art_count = 0

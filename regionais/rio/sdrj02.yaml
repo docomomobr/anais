@@ -2,9 +2,9 @@ issue:
   slug: sdrj02
   title: 2º Encontro Docomomo Rio, Rio de Janeiro, 2012
   subtitle: 'Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense'
-  description: 'GUIMARAENS, Cêça; MACHADO, Luiz Felipe; AMORA, Ana Albano; EL-JAICK, Inês (org.). Anais do 2º Encontro do Docomomo-Rio (arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense). Rio de Janeiro: UFRJ/FAU/PROARQ, 2013. 1 CD-Rom. ISBN 978-85-88341-55-5.'
+  description: '2º Encontro Docomomo Rio: anais: arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense [recurso eletrônico] / organização: Cêça Guimaraens, Luiz Felipe Machado, Ana Albano Amora, Inês El-Jaick. Rio de Janeiro: UFRJ/FAU/PROARQ, 2013. 1 CD-ROM. ISBN 978-85-88341-55-5'
   year: 2012
-  volume: 1
+  volume: 4
   number: 2
   date_published: '2012-09-26'
   isbn: 978-85-88341-55-5
@@ -26,6 +26,10 @@ articles:
   locale: pt-BR
   arquivo_pdf: Cesar_Floriano.pdf
   pages_count: 16
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Fontes e acervos de Roberto Burle Marx
   resumo: 'O conjunto do acervo de Roberto Burle Marx, um patrimônio múltiplo e complexo, reflete a personalidade polissêmica deste que foi um dos principais artistas do modernismo brasileiro e criador do jardim do século XX. É dentro deste marco referencial que sua obra se insere, e é a partir deste contexto que seu legado deve ser preservado. Para estabelecer uma política de preservação de seu acervo, é importante compreender sua totalidade criadora e contextualizar sua obra como resultado de um processo permanente de experimentação formal e como um fazer artístico integral. O conjunto de sua obra, marcado por um número significativo de desenhos, cenários, arranjos florais, pesquisa botânica, painéis murais, esculturas e jardins, revela uma dimensão poética que fazem dele um personagem central na cultura brasileira do século XX. A complexidade do tema, fontes e arquivos de Roberto Burle Marx, nos leva a desenvolver o presente texto em duas direções: apresentar uma breve contextualização de sua trajetória artística, mapeando as principais fontes e referências bibliográficas e analisar os centros de arquivos que acolhem sua memória projetual e artística.'
   referencias:
   - 'BOURDIEU, Pierre. La distinción, critério y bases del gusto. Madrid: Taurus, 1998.'
@@ -38,10 +42,6 @@ articles:
   - 'FLORIANO, Cesar. Estereótipos críticos da obra paisagística de Roberto Burle Marx. Revista Leituras Paisagísticas, n. 3, Rio de Janeiro: EBA-UFRJ, 2009, p. 158-171.'
   - 'ÁLVAREZ, Dario. El jardín em la arquitectura del siglo XX. Barcelona: Editora Reverté, 2007.'
   - 'DIAS, Robério. O Patrimônio paisagístico do Sítio Roberto Burle Marx: Uma visão geográfica. Tese de doutorado. Rio de Janeiro: UFRJ, 2008.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: Fontes e acervos de Roberto Burle Marx
   autores:
   - givenname: Cesar
     familyname: Floriano
@@ -54,15 +54,15 @@ articles:
   locale: pt-BR
   arquivo_pdf: Claudia_Pianta_Cabral.pdf
   pages_count: 6
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Arquivos de Arquitetura, Patrimônio Moderno e conhecimento histórico
   resumo: 'Texto de abertura do 2º Encontro Docomomo Rio, que aborda a relação entre memória coletiva, arquivos de arquitetura e conhecimento histórico. A partir de Jacques Le Goff e Marc Bloch, discute o papel dos documentos como vestígios de um passado que, desde o presente, buscam abranger e compreender. Contextualiza a missão do Docomomo Internacional e do Docomomo Brasil na documentação e preservação do patrimônio moderno, e destaca a importância do tema do 2º Encontro Docomomo-Rio — Arquivos de arquitetura moderna: fontes e acervos para a preservação do patrimônio fluminense — para o avanço do conhecimento histórico da arquitetura moderna.'
   referencias:
   - 'LE GOFF, Jacques. Memória. In: Memória-História, Enciclopédia Einaudi, v. 1, Imprensa Nacional – Casa da Moeda.'
   - 'LE GOFF, Jacques. Documento/Monumento. In: Memória-História, Enciclopédia Einaudi, v. 1, Imprensa Nacional – Casa da Moeda.'
   - 'BLOCH, Marc. Apologia da História, ou o ofício de historiador. Rio de Janeiro: Jorge Zahar Editor, 2001.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: Arquivos de Arquitetura, Patrimônio Moderno e conhecimento histórico
   autores:
   - givenname: Cláudia Piantá Costa
     familyname: Cabral
@@ -75,6 +75,10 @@ articles:
   locale: pt-BR
   arquivo_pdf: Elizabete_Martins.pdf
   pages_count: 9
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Acervos de arquitetos cariocas
   resumo: 'O artigo apresenta o Núcleo de Pesquisa e Documentação (NPD) da UFRJ-FAU, um dos mais importantes acervos de arquitetura e urbanismo moderno brasileiro, que salvaguarda a produção de diferentes arquitetos como Jorge Machado Moreira, Affonso Eduardo Reidy, Carlos Leão, Aldary Toledo, Severiano Mario Porto, Firmino Saldanha, Irmãos Roberto, Luiz Paulo Conde, Carmem Portinho e Sergio Bernardes. Descreve os procedimentos de recepção, inventário, higienização, restauração, acondicionamento e digitalização dos documentos, que compreendem plantas, fotografias e documentos textuais. Destaca a importância dos trabalhos acadêmicos da Escola Nacional de Belas Artes e da Faculdade Nacional de Arquitetura como registros sobre a história do ensino de arquitetura no Rio de Janeiro.'
   referencias:
   - 'BONDUKI, Nabil. Affonso Eduardo Reidy. São Paulo: Instituto Lina Bo & P.M. Bardi, 2000.'
@@ -85,10 +89,6 @@ articles:
   - 'MARTINS, Elizabete Rodrigues de Campos; PARUCHER, João Cláudio; VIANA, Cláudio Muniz. Arquitetura x Acervos de Arquitetura. In: Universidade e Lugares de Memória. Rio de Janeiro: UFRJ, SIBI, FCC, 2008.'
   - 'ROVO, Mirian Keiko Ito; OLIVEIRA, Beatriz Santos. Por um regionalismo eco-eficiente: a obra de Severiano Mario Porto. Arquitextos 226, abr. 2004.'
   - 'UZEDA, Helena Cunha. Ensino Acadêmico e Modernidade. O curso de arquitetura da Escola Nacional de Belas Artes 1890-1930. Tese de Doutorado em História e Crítica da Arte, UFRJ-EBA, 2006.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: Acervos de arquitetos cariocas
   autores:
   - givenname: Elizabete Rodrigues de Campos
     familyname: Martins
@@ -101,6 +101,10 @@ articles:
   locale: pt-BR
   arquivo_pdf: Helio_Herbst.pdf
   pages_count: 22
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Achados e perdidos nos arquivos da Fundação Bienal
   resumo: 'Muito além de noticiar os bastidores da primeira bienal paulistana, inaugurada em setembro de 1951, periódicos de grande tiragem sublinharam a magnitude do evento e sua importância para a difusão de conhecimentos. Em contrapartida, algumas publicações tão somente questionaram os resultados do júri de premiação, deliberadamente mais favorável aos trabalhos de caráter não figurativo, alimentando o acalorado debate entre figuração e abstração. Ao longo do período de funcionamento das primeiras bienais, revistas e diários veicularam ilustrações satíricas capazes de sinalizar uma peculiar interpretação das obras expostas na seção de artes e na mostra de arquitetura. A partir dos dados levantados no Arquivo Histórico Wanda Svevo, esta comunicação pretende ressaltar o teor dos artigos publicados sobre as obras expostas nas cinco primeiras edições da bienal paulistana, colocando-se em evidência os limites entre o visível e o legível, bem como a recorrente dificuldade de aceitação ante o desconhecido.'
   resumo_en: 'Quite apart from reporting the first São Paulo Biennial backstage, opened in September 1951, mass circulation journals have highlighted the magnitude of the event and its importance to the dissemination of knowledge. In contrast, some publications had only questioned the results of the prize jury, deliberately favorable to non-figurative art, feeding the heated debate between figuration and abstraction. During the first biennial, journals and magazines published cartoons, which signaled a peculiar interpretation of the works exhibited in the arts and in the architecture sections. From the data collected in the Arquivo Histórico Wanda Svevo (Biennial Foundation archives), this communication wants to highlight aspects of the reception, in the sense proposed by Hans Robert Jauss, of the works displayed in the five first editions of the show, noting the boundaries between visible and legible, and the recurring difficulty for accepting the unknown.'
   referencias:
@@ -114,10 +118,6 @@ articles:
   - 'JAUSS, Hans Robert. A história da literatura como provocação à teoria literária. São Paulo: Ática, 1994.'
   - 'LOURENÇO, Maria Cecília França. Operários da modernidade. São Paulo: Hucitec/ Edusp, 1995.'
   - 'SONTAG, Susan. Ensaios sobre fotografia. Lisboa: Dom Quixote, 1986.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: Achados e perdidos nos arquivos da Fundação Bienal
   autores:
   - givenname: Helio
     familyname: Herbst
@@ -130,6 +130,11 @@ articles:
   locale: pt-BR
   arquivo_pdf: Luiz_Felipe.pdf
   pages_count: 12
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: Reflexões sobre a preservação do Patrimônio
+  subtitulo: pela facilitação do acesso aos documentos do Movimento Moderno
   resumo: 'O artigo reflete sobre a necessidade de facilitar o acesso aos documentos do Movimento Moderno, fundamentais para a pesquisa e a produção teórica em Arquitetura. Argumenta que o acervo construído nas décadas de 1940 e 1950 na região fluminense é enorme e ainda pouco estudado. Compara a situação brasileira com a experiência francesa, citando a Fundação Le Corbusier e o Instituto Francês de Arquitetura (IFA) como modelos de preservação e disponibilização de acervos documentais. Propõe a criação no Rio de Janeiro de um centro de pesquisa exemplar para documentos do Movimento Moderno, com boas condições de atendimento ao pesquisador, especialmente ao iniciante.'
   referencias:
   - 'FREYRE, Gilberto. Casa grande & senzala [1933]. São Paulo: Ed. Global, 2004.'
@@ -138,11 +143,6 @@ articles:
   - 'PRADO JÚNIOR, Caio. Formação do Brasil contemporâneo [1942]. São Paulo: Editora Brasiliense, 1994.'
   - 'RIBEIRO, Darcy. O povo brasileiro, a formação e o sentido do Brasil. São Paulo: Companhia das Letras, 1995.'
   - 'SOUZA, Luiz Felipe Machado Coelho de. Les frères Roberto, architectes: bâtiments d''habitat collectif construits à Rio de Janeiro, 1945-1969. Paris, 2006. Tese de Doutorado.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: Reflexões sobre a preservação do Patrimônio
-  subtitulo: pela facilitação do acesso aos documentos do Movimento Moderno
   autores:
   - givenname: Luiz Felipe Machado Coelho de
     familyname: Souza
@@ -155,11 +155,11 @@ articles:
   locale: pt-BR
   arquivo_pdf: Cristina_Lodi.pdf
   pages_count: 8
-  resumo: 'O artigo apresenta as perspectivas e desafios institucionais do IPHAN frente à Lei nº 12.527/2011 (Lei de Acesso à Informação), que regulamentou a disponibilização ao público dos documentos de trabalho produzidos pelo poder público. Descreve as ações do IPHAN para guarda, promoção e divulgação da documentação relativa ao Patrimônio Cultural Brasileiro, desde a criação do Instituto em 1937. Apresenta o Sistema Nacional de Patrimônio Cultural (SNPC), o Arquivo Central Noronha Santos, os bancos de dados informatizados disponíveis pela internet e o acervo da Superintendência do IPHAN no Rio de Janeiro, com destaque para a documentação referente ao período modernista brasileiro.'
   seminario: sdrj02
   secao: Artigos
   tipo: artigo
   titulo: As perspectivas e desafios institucionais frente à nova Lei de Abertura dos Acervos
+  resumo: 'O artigo apresenta as perspectivas e desafios institucionais do IPHAN frente à Lei nº 12.527/2011 (Lei de Acesso à Informação), que regulamentou a disponibilização ao público dos documentos de trabalho produzidos pelo poder público. Descreve as ações do IPHAN para guarda, promoção e divulgação da documentação relativa ao Patrimônio Cultural Brasileiro, desde a criação do Instituto em 1937. Apresenta o Sistema Nacional de Patrimônio Cultural (SNPC), o Arquivo Central Noronha Santos, os bancos de dados informatizados disponíveis pela internet e o acervo da Superintendência do IPHAN no Rio de Janeiro, com destaque para a documentação referente ao período modernista brasileiro.'
   autores:
   - givenname: Maria Cristina Vereza
     familyname: Lodi
@@ -172,6 +172,10 @@ articles:
   locale: pt-BR
   arquivo_pdf: Marlice_Azevedo.pdf
   pages_count: 9
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: O necessário diálogo entre Arquivologia e Arquitetura
   resumo: 'O artigo discute a importância do diálogo entre Arquivologia e Arquitetura para a preservação de acervos documentais de arquitetura e urbanismo. Apresenta um panorama internacional das iniciativas de preservação, citando os Archives d''Architecture Moderne de Bruxelas, o Instituto Francês de Arquitetura (IFA), o Centre Canadien d''Architecture, a Avery Library, a University of Pennsylvania Architectural Archives, o RIBA e o NAI da Holanda. No Brasil, destaca a situação precária dos acervos, a atuação de universidades como FAU-USP e FAU-UFRJ, e a criação da Câmara Setorial de Arquivos de Arquitetura, Engenharia e Urbanismo do CONARQ em 2006. Argumenta que os arquivos de arquitetura e urbanismo devem ser tratados como "Arquivos Especializados" e não meramente cartográficos.'
   referencias:
   - 'AZEVEDO, Marlice Nazareth Soares. Condiciones de los acervos de los arquitectos modernos brasileños. In: Archivos de Arquitectura, Documentos para el Debate. Alcalá, 2004.'
@@ -186,10 +190,6 @@ articles:
   - 'GUTIERREZ, Ramón. Los archivos de arquitectura em el contexto iberoamericano. In: Archivos de Arquitectura, Documentos para el Debate. Alcalá, 2004.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1999. São Paulo: Edusp, 1997.'
   - 'VITAL BRAZIL, Alvaro. 50 anos de arquitetura. São Paulo: Nobel, 1986.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: O necessário diálogo entre Arquivologia e Arquitetura
   autores:
   - givenname: Marlice Nazareth Soares de
     familyname: Azevedo
@@ -202,6 +202,10 @@ articles:
   locale: pt-BR
   arquivo_pdf: Renato_Costa.pdf
   pages_count: 14
+  seminario: sdrj02
+  secao: Artigos
+  tipo: artigo
+  titulo: O Patrimônio Moderno da saúde (1930 — 1960)
   resumo: 'O artigo aborda o patrimônio moderno da saúde no Brasil entre 1930 e 1960, período marcado pela criação dos serviços federais de combate a doenças e pela construção de hospitais, sanatórios, dispensários e laboratórios com linguagem arquitetônica moderna. Apresenta um inventário da produção arquitetônica para a saúde desenvolvido pela Casa de Oswaldo Cruz/Fiocruz, com mais de 100 edifícios identificados no Rio de Janeiro. Destaca a atuação de equipes de arquitetos em órgãos públicos, como a Divisão de Obras do Ministério da Educação e Saúde, a Campanha Nacional Contra a Tuberculose (com Sérgio Bernardes) e o Serviço Especial de Saúde Pública. Discute os desafios de preservação desse acervo, citando exemplos internacionais de valorização do patrimônio sanatorial moderno.'
   referencias:
   - 'BITTENCOURT, Tânia Maria Mota. Peste branca — arquitetura branca: os sanatórios de tuberculose no Brasil na primeira metade do século vinte. Dissertação de mestrado. São Carlos, 2000.'
@@ -215,14 +219,340 @@ articles:
   - 'Rede Brasil. Inventário Nacional do Patrimônio Cultural da Saúde: bens edificados e acervos. Rio de Janeiro: Casa de Oswaldo Cruz/Fiocruz, 2006.'
   - 'RIBEIRO, Lourival. A luta contra a tuberculose no Brasil (apontamentos para a sua história). Rio de Janeiro: Editorial Sul-Americana, 1956.'
   - 'SEGAWA, Hugo. Arquitetura na Era Vargas: o avesso da unidade pretendida. In: PESSOA, José et al. (org.). Moderno e Nacional. Niterói: EDUFF, 2006.'
-  seminario: sdrj02
-  secao: Artigos
-  tipo: artigo
-  titulo: O Patrimônio Moderno da saúde (1930 — 1960)
   autores:
-  - givenname: Renato
-    familyname: Gama-Rosa Costa
+  - givenname: Renato da Gama-Rosa
+    familyname: Costa
     email: costa@exemplo.com
     affiliation: COC-Fiocruz
     country: BR
     primary_contact: true
+
+- id: sdrj02-009
+  locale: pt-BR
+  arquivo_pdf: poster_2_Beatriz_Luana_Victor_Aline.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: O arquiteto e seu refúgio
+  subtitulo: duas casas de Affonso Eduardo Reidy
+  autores:
+  - givenname: Aline Machado
+    familyname: Vieira
+    email: vieira@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Beatriz Santos de
+    familyname: Oliveira
+    email: oliveira.b@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Luana Garcia
+    familyname: Costa
+    email: costa.l@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Victor Huggo
+    familyname: Brito
+    email: brito@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-010
+  locale: pt-BR
+  arquivo_pdf: poster_3_Cesar Jordao.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Banco de dados em Arquitetura
+  subtitulo: a presença estrangeira na cidade do Rio de Janeiro
+  autores:
+  - givenname: Maria Cristina
+    familyname: Cabral
+    email: cabral.mc@exemplo.com
+    affiliation: PROURB-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Rodrigo Cury
+    familyname: Paraízo
+    email: paraizo@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Cesar
+    familyname: Jordão
+    email: jordao@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-011
+  locale: pt-BR
+  arquivo_pdf: ''
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Projetos para a Esplanada de Santo Antônio
+  autores:
+  - givenname: Débora
+    familyname: Zukeran
+    email: zukeran@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Maria Elisa
+    familyname: Vianna
+    email: vianna@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Rebeca
+    familyname: Waltenberg
+    email: waltenberg@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-012
+  locale: pt-BR
+  arquivo_pdf: poster_selecao_docomomo_CEHAB_Benfica.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Restauração do conjunto do Pedregulho
+  autores:
+  - givenname: Alfredo
+    familyname: Britto
+    email: britto@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+  - givenname: Ubirajara Avelino de
+    familyname: Mello
+    email: mello@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+  - givenname: Liza
+    familyname: Erling
+    email: erling@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-013
+  locale: pt-BR
+  arquivo_pdf: poster_1_Barbosa_et_alli.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Residência Frey Johnsson
+  autores:
+  - givenname: Eliane
+    familyname: Barbosa
+    email: barbosa@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Maria Maia
+    familyname: Porto
+    email: porto@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Adriana
+    familyname: Alvarez
+    email: alvarez@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Naylor
+    familyname: Villas Boas
+    email: villasboas@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Ingrid
+    familyname: Fonseca
+    email: fonseca@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Vitor
+    familyname: Carnevale
+    email: carnevale@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Fernanda
+    familyname: Calháu
+    email: calhau@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-014
+  locale: pt-BR
+  arquivo_pdf: poster_5_Porto_et_alli.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Implantação e permeabilidade das casas de Lúcio Costa
+  autores:
+  - givenname: Maria Maia
+    familyname: Porto
+    email: porto@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Adriana
+    familyname: Alvarez
+    email: alvarez@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Eliane
+    familyname: Barbosa
+    email: barbosa@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Naylor
+    familyname: Villas Boas
+    email: villasboas@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Ingrid
+    familyname: Fonseca
+    email: fonseca@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Fernanda
+    familyname: Calháu
+    email: calhau@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Vitor
+    familyname: Carnevale
+    email: carnevale@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-015
+  locale: pt-BR
+  arquivo_pdf: poster_6_Rafael_Barcellos.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: O projeto como patrimônio não construído
+  autores:
+  - givenname: Rafael Barcellos
+    familyname: Santos
+    email: santos.r@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-016
+  locale: pt-BR
+  arquivo_pdf: poster_7_Renato_Alves.pdf
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Processos de tombamento da Arquitetura Modernista instaurados pelo IPHAN no Rio de Janeiro
+  autores:
+  - givenname: Renato Alves e
+    familyname: Silva
+    email: silva.r@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+
+- id: sdrj02-017
+  locale: pt-BR
+  arquivo_pdf: ''
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: O morar carioca moderno
+  autores:
+  - givenname: Artur
+    familyname: Torquato
+    email: torquato@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+  - givenname: Rayane
+    familyname: Farias
+    email: farias@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+  - givenname: Richard
+    familyname: Pires
+    email: pires@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-018
+  locale: pt-BR
+  arquivo_pdf: ''
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: Arquitetura e preservação nos Museus Castro Maya
+  autores:
+  - givenname: Thaís Fernanda
+    familyname: Bette
+    email: bette@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+  - givenname: Vivian
+    familyname: Horta
+    email: horta@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+  - givenname: Márcio Ferreira
+    familyname: Rangel
+    email: rangel@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false
+  - givenname: Helio
+    familyname: Herbst
+    email: herbst@exemplo.com
+    affiliation: UFRRJ
+    country: BR
+    primary_contact: false
+
+- id: sdrj02-019
+  locale: pt-BR
+  arquivo_pdf: ''
+  seminario: sdrj02
+  secao: Pôsteres
+  tipo: poster
+  titulo: 'Plano 2000'
+  subtitulo: percepção da utopia em Volta Redonda
+  autores:
+  - givenname: Tiago Vieira
+    familyname: Maciel
+    email: maciel@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: true
+  - givenname: Andréa Auad
+    familyname: Moreira
+    email: moreira@exemplo.com
+    affiliation: ''
+    country: BR
+    primary_contact: false

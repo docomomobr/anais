@@ -2,9 +2,9 @@ issue:
   slug: sdrj03
   title: 3º Encontro Docomomo Rio, Rio de Janeiro, 2014
   subtitle: 'A Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953)'
-  description: '3º Encontro Docomomo-Rio: a Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953). Rio de Janeiro: UFRJ/FAU/PROARQ, 2014. Evento realizado na sede do IAB-RJ em 26-27 de setembro de 2014. Formato: pôsteres, mesa redonda e MOMOTUR (visita guiada). Sem anais publicados com artigos completos.'
+  description: '3º Encontro Docomomo Rio: anais: a Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953) [recurso eletrônico] / organização: Cêça Guimaraens, Luiz Felipe Machado, Guilherme Araújo de Figueiredo, Hilton Berredo. Rio de Janeiro: UFRJ/FAU/PROARQ, 2014. 1 DVD-ROM. ISBN 978-85-88341-63-0'
   year: 2014
-  volume: 1
+  volume: 4
   number: 3
   date_published: '2014-09-26'
   isbn: 978-85-88341-63-0
@@ -16,11 +16,84 @@ issue:
   - Hilton Berredo
   source: ''
   sections:
+  - title: Geral
+    abbrev: GER-sdrj03
+    hide_title: true
   - title: Pôsteres
     abbrev: POST-sdrj03
 articles:
 
 - id: sdrj03-001
+  locale: pt-BR
+  arquivo_pdf: 01 Apresentação.pdf
+  pages_count: 1
+  seminario: sdrj03
+  secao: Geral
+  tipo: editorial
+  titulo: Apresentação
+  resumo: 'Em 2012, quando da primeira edição dos Encontros Docomomo-Rio, os debates e reflexões enfocaram a necessidade premente de conhecer e reconhecer os arquivos de arquitetura moderna fluminense, valiosas fontes para os estudos e preservação do patrimônio comum a todos os brasileiros. Direcionados a atender a tal demanda, os Encontros objetivam acrescentar novos registros de teorias, técnicas e práticas ligados ao Movimento Moderno no Estado do Rio de Janeiro. O 3º Encontro Docomomo-Rio, à semelhança das reuniões antecedentes, é produto das ações realizadas no sentido de articular, à luz de olhares variados, as pesquisas que tratam de assuntos e problemas referentes à defesa do patrimônio constituído de obras e acervos do Movimento Moderno. Como resultado, estão aqui reunidos sob a forma de pôsteres, fotografias e vídeos, as mais recentes análises científicas e acadêmicas dos arquivos do Modernismo em terras fluminenses, desta feita com foco nas realizações do arquiteto Milton Roberto.'
+  autores:
+  - givenname: Cêça
+    familyname: Guimaraens
+    email: guimaraens@exemplo.com
+    affiliation: PROARQ-UFRJ
+    country: BR
+    primary_contact: true
+  - givenname: Luiz Felipe
+    familyname: Machado
+    email: machado@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: false
+  - givenname: Guilherme Araújo de
+    familyname: Figueiredo
+    email: figueiredo@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: false
+  - givenname: Hilton
+    familyname: Berredo
+    email: berredo@exemplo.com
+    affiliation: USU / PUC-Rio
+    country: BR
+    primary_contact: false
+
+- id: sdrj03-002
+  locale: pt-BR
+  arquivo_pdf: Milton Roberto.pdf
+  pages_count: 1
+  seminario: sdrj03
+  secao: Geral
+  tipo: editorial
+  titulo: Milton Roberto (1914 — 1953)
+  resumo: 'Milton Dória Baptista nasceu em 30 de março de 1914 no Rio de Janeiro e diplomou-se arquiteto em 1935 pela Escola Nacional de Belas-Artes. Milton Roberto iniciou sua carreira como auxiliar de Marcelo Roberto, seu irmão mais velho, e com ele participou do concurso de projetos para a sede da ABI em 1935. Após a vitória nesse concurso, o escritório passou a denominar-se MM Roberto Arquitetos. Em 1941, Mauricio foi integrado ao escritório e a equipe passou a denominar-se MMM Roberto. O papel desempenhado por Milton foi sempre o de comandar a sala de desenhos. Sua dedicação à prancheta, reconhecida pela crítica, caracteriza a condição de Milton, maior responsável pelas originalidade da obra do escritório MMM Roberto. Além de realizar projetos e obras, Milton foi eleito Presidente do Instituto de Arquitetos do Brasil em 1949, cargo que ocupou até sua morte em 11 de julho de 1953.'
+  autores:
+  - givenname: Luiz Felipe
+    familyname: Machado
+    email: machado@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: true
+  - givenname: Cêça
+    familyname: Guimaraens
+    email: guimaraens@exemplo.com
+    affiliation: PROARQ-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Hilton
+    familyname: Berredo
+    email: berredo@exemplo.com
+    affiliation: USU / PUC-Rio
+    country: BR
+    primary_contact: false
+  - givenname: Guilherme Araújo de
+    familyname: Figueiredo
+    email: figueiredo@exemplo.com
+    affiliation: EAU-UFF
+    country: BR
+    primary_contact: false
+
+- id: sdrj03-003
   locale: pt-BR
   arquivo_pdf: ''
   pages_count: 1
@@ -29,15 +102,67 @@ articles:
   tipo: poster
   titulo: O clássico moderno ou o moderno clássico?
   subtitulo: reflexões sobre os edifícios do IRB e do Maison de France
+  resumo: 'A arquitetura moderna no Brasil não tem uma produção homogênea que possa ser compreendida como tal. Desde a década de 1990, vem sendo feita revisão historiográfica analisando a diversidade de propostas e leituras sobre a vasta produção no país. A cidade do Rio de Janeiro concentra grande parte dessa produção e autores muito variados. A proposta deste trabalho é cotejar aspectos teóricos, formais e tectônicos de dois importantes edifícios: o Instituto de Resseguros do Brasil (IRB, 1941) e o Maison de France (1951), ambos situados na Esplanada do Castelo, área aterrada com os resíduos da demolição do Morro do Castelo, região que abriga diversas edificações modernas. Procura-se identificar características de composição consideradas clássicas e compreender como são empregadas. Este trabalho foi desenvolvido no Laboratório de Análise Urbana e Representação Digital (LAURD) no Programa de Pós-Graduação em Urbanismo (LAURD/PROURB/UFRJ) com o apoio da FAPERJ e do CNPq.'
   autores:
-  - givenname: ''
-    familyname: ''
-    email: poster1@exemplo.com
-    affiliation: ''
+  - givenname: Maria Cristina
+    familyname: Cabral
+    email: cabral@exemplo.com
+    affiliation: PROURB-UFRJ
     country: BR
+    bio: Doutora
     primary_contact: true
+  - givenname: Rodrigo Cury
+    familyname: Paraízo
+    email: paraizo@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    bio: Doutor
+    primary_contact: false
+  - givenname: Denise V.
+    familyname: Nunes
+    email: nunes@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    bio: Doutora
+    primary_contact: false
+  - givenname: Carolina
+    familyname: Mender
+    email: mender@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Diana Ferraz
+    familyname: Nakano
+    email: nakano@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Isabel Lima de
+    familyname: Almeida
+    email: almeida@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Lígia Daniela Alves
+    familyname: Ferreira
+    email: ferreira@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Olívia Vigneron
+    familyname: Medeiros
+    email: medeiros@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Rafael de Oliveira Gomes da
+    familyname: Costa
+    email: costa.r@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
 
-- id: sdrj03-002
+- id: sdrj03-004
   locale: pt-BR
   arquivo_pdf: ''
   pages_count: 1
@@ -46,10 +171,37 @@ articles:
   tipo: poster
   titulo: Irmãos Roberto e as fachadas dos edifícios residenciais
   subtitulo: uma investigação didática
+  resumo: 'A pesquisa aqui apresentada tem como tema o estudo dos edifícios residenciais projetados pelos Irmãos Roberto na fase em que Milton Roberto integrou a equipe. O enfoque do estudo é a fachada dessas obras e a multiplicidade de atributos exemplares, funcionais e estéticos que essas fachadas assumem. A presença do domínio técnico e construtivo é marcante, e as fachadas são desenhadas a partir de um rigoroso sistema de modulação e contam com um detalhamento minucioso dos elementos que a compõe. As excelentes soluções para questões de conforto térmico, controle de luz e de privacidade também caracterizam esses projetos. Além do cuidado técnico e funcional, apresentam um apurado trabalho estético demonstrado em potentes composições do plano das fachadas. As fachadas produzidas nesses edifícios dos Irmãos Roberto contribuem positivamente para o espaço interior dos apartamentos e para a paisagem urbana, beneficiando o morador do edifício projetado e também o transeunte da cidade.'
   autores:
-  - givenname: ''
-    familyname: ''
-    email: poster2@exemplo.com
-    affiliation: ''
+  - givenname: Ana
+    familyname: Slade
+    email: anaslade@gmail.com
+    affiliation: FAU-UFRJ
     country: BR
+    bio: Professora Assistente
     primary_contact: true
+  - givenname: Mara
+    familyname: Eskinazi
+    email: maraoe@via-rs.net
+    affiliation: FAU-UFRJ
+    country: BR
+    bio: Professora Adjunta
+    primary_contact: false
+  - givenname: Isabela
+    familyname: Duarte
+    email: duarte@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Vitor
+    familyname: Gigliotti
+    email: gigliotti@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
+  - givenname: Viviane
+    familyname: Matos
+    email: matos@exemplo.com
+    affiliation: FAU-UFRJ
+    country: BR
+    primary_contact: false
