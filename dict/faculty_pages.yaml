@@ -1,0 +1,177 @@
+# Páginas de corpo docente de programas de Arquitetura e Urbanismo
+#
+# Uso: cross-reference com autores do anais.db para busca de ORCIDs.
+# Cada entrada mapeia siglas de afiliação do banco → URL da página de docentes.
+#
+# MANUTENÇÃO:
+# - Se um link cair (404, domínio expirado), buscar nova URL no Google:
+#   "{nome do programa} corpo docente site:{domínio da universidade}"
+# - Atualizar a URL e a data de última verificação (last_checked).
+# - Programas de pós-graduação mudam de site com frequência (migrações CMS).
+#   Manter URLs alternativas no campo 'alt_urls' quando disponíveis.
+# - Nem toda página lista ORCID — o campo 'has_orcid' indica se a página
+#   exibe links ORCID dos docentes (verificar ao raspar pela primeira vez).
+
+- siglas: [FAUFBA, UFBA]
+  program: PPGAU-UFBA
+  city: Salvador
+  url: https://ppgau.ufba.br/corpo-docente
+  has_orcid: true
+  last_checked: "2026-02-12"
+
+- siglas: [PROPAR-UFRGS, UFRGS, FA-UFRGS]
+  program: PROPAR-UFRGS
+  city: Porto Alegre
+  url: https://www.ufrgs.br/propar/corpo-docente/
+  last_checked: "2026-02-12"
+
+- siglas: [FAU-UFRJ, PROURB-UFRJ, PROARQ-UFRJ, UFRJ]
+  program: PROURB-UFRJ
+  city: Rio de Janeiro
+  url: https://www.prourb.fau.ufrj.br/integrante/corpo-docente/
+  last_checked: "2026-02-12"
+
+- siglas: [DAU-UFC, UFC]
+  program: PPGAU+D-UFC
+  city: Fortaleza
+  url: https://ppgaud.ufc.br/pt/institucional/corpo-docente/
+  last_checked: "2026-02-12"
+
+- siglas: [FAU-USP, FAUUSP, USP]
+  program: FAU-USP
+  city: São Paulo
+  url: https://www.fau.usp.br/institucional/docentes/
+  alt_urls:
+    - http://www.fau.usp.br/pos-graduacao/docentes-da-pos/
+  last_checked: "2026-02-12"
+
+- siglas: [IAU-USP]
+  program: IAU-USP
+  city: São Carlos
+  url: https://www.iau.usp.br/docentes/
+  alt_urls:
+    - https://www.iau.usp.br/posgrad/corpo-docente/
+  last_checked: "2026-02-12"
+
+- siglas: [UPM, Mackenzie, FAU-Mackenzie]
+  program: PPG-FAU-Mackenzie
+  city: São Paulo
+  url: https://www.mackenzie.br/en/graduate-programs/master-and-doctoral/master-and-doctoral/architecture-and-urbanism/faculty
+  last_checked: "2026-02-12"
+
+- siglas: [UFPE, MDU-UFPE]
+  program: MDU-UFPE
+  city: Recife
+  url: https://www.ufpe.br/mdu/corpo-docente
+  last_checked: "2026-02-12"
+
+- siglas: [UnB, FAU-UnB, PPG-FAU-UnB]
+  program: PPG-FAU-UnB
+  city: Brasília
+  url: https://ppgfau.unb.br/docentes
+  last_checked: "2026-02-12"
+
+- siglas: [UFRN]
+  program: PPGAU-UFRN
+  city: Natal
+  url: https://posgraduacao.ufrn.br/102/corpo-docente
+  alt_urls:
+    - https://sigaa.ufrn.br/sigaa/public/departamento/professores.jsf?id=54
+  last_checked: "2026-02-12"
+
+- siglas: [UFSC]
+  program: PósARQ-UFSC
+  city: Florianópolis
+  url: https://posarq.ufsc.br/en/apresentacao/corpo-docente/
+  alt_urls:
+    - https://departamentoarq.ufsc.br/professores/
+  last_checked: "2026-02-12"
+
+- siglas: [UFPR]
+  program: CAU-UFPR
+  city: Curitiba
+  url: https://tecnologia.ufpr.br/cau/docentes/
+  notes: Não tem pós-graduação específica em Arquitetura
+  last_checked: "2026-02-12"
+
+- siglas: [EAU-UFF]
+  program: PPGAU-UFF
+  city: Niterói
+  url: https://ppgau.uff.br/corpo-docente/
+  last_checked: "2026-02-12"
+
+- siglas: [UFG]
+  program: PPG Projeto e Cidade - UFG
+  city: Goiânia
+  url: https://projetoecidade.fav.ufg.br/p/16218-corpo-docente
+  last_checked: "2026-02-12"
+
+- siglas: [UFCG, UAEC-UFCG]
+  program: UAEC-UFCG
+  city: Campina Grande
+  url: https://www.uaec.ufcg.edu.br/professores.html
+  notes: Unidade Acadêmica de Engenharia Civil (abriga Arquitetura)
+  last_checked: "2026-02-12"
+
+- siglas: [UFAL]
+  program: DEHA-UFAL
+  city: Maceió
+  url: https://fau.ufal.br/pos-graduacao/mestrado-em-dinamicas-do-espaco-habitado/docentes
+  last_checked: "2026-02-12"
+
+- siglas: [UFPI]
+  program: CAU-UFPI
+  city: Teresina
+  url: https://sites.google.com/ufpi.edu.br/coordarqufpi/corpo-docente
+  alt_urls:
+    - https://sigaa.ufpi.br/sigaa/public/departamento/professores.jsf?id=158
+  notes: Só graduação
+  last_checked: "2026-02-12"
+
+- siglas: [UEMA]
+  program: CAU-UEMA
+  city: São Luís
+  url: https://www.arquitetura.uema.br/docentes/
+  notes: Só graduação
+  last_checked: "2026-02-12"
+
+- siglas: [UNIFAP]
+  program: CAU-UNIFAP
+  city: Macapá
+  url: https://www2.unifap.br/arquitetura/corpo-docente/docentes/
+  notes: Só graduação
+  last_checked: "2026-02-12"
+
+- siglas: [UFT]
+  program: CAU-UFT
+  city: Palmas
+  url: https://www.uft.edu.br/campus/palmas/cursos/graduacao/arquitetura-e-urbanismo/corpo-docente
+  notes: Só graduação
+  last_checked: "2026-02-12"
+
+- siglas: [UFMT, FAET-UFMT]
+  program: CEGAU-UFMT
+  city: Cuiabá
+  url: https://ufmt.br/curso/cegau/pagina/curso/3726
+  notes: Página genérica do curso, sem listagem dedicada de docentes
+  last_checked: "2026-02-12"
+
+- siglas: [FAU-UFPA, UFPA]
+  program: FAU-UFPA
+  city: Belém
+  url: https://www.fau.ufpa.br/index.php/acoes-e-programas
+  notes: Docentes dispersos por subpáginas
+  last_checked: "2026-02-12"
+
+- siglas: [CCT-UNICAP, UNICAP]
+  program: CAU-UNICAP
+  city: Recife
+  url: https://portal.unicap.br/w/arquitetura-e-urbanismo
+  notes: Lista de docentes em PDF, não em página web
+  last_checked: "2026-02-12"
+
+- siglas: [UFPel]
+  program: FAUrb-UFPel
+  city: Pelotas
+  url: https://wp.ufpel.edu.br/faurb/corpo-docente/
+  last_checked: "2026-02-12"

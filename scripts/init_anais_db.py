@@ -65,6 +65,8 @@ CREATE TABLE IF NOT EXISTS authors (
     familyname TEXT NOT NULL,
     email TEXT,
     orcid TEXT,
+    orcid_checked_at TEXT,
+    orcid_pipeline_version TEXT,
     UNIQUE(givenname, familyname)
 );
 
@@ -86,6 +88,13 @@ CREATE TABLE IF NOT EXISTS article_author (
     bio TEXT,
     country TEXT DEFAULT 'BR',
     PRIMARY KEY (article_id, author_id)
+);
+
+CREATE TABLE IF NOT EXISTS orcid_exclusions (
+    author_id INTEGER NOT NULL REFERENCES authors(id),
+    orcid TEXT NOT NULL,
+    reason TEXT,
+    PRIMARY KEY (author_id, orcid)
 );
 
 CREATE INDEX IF NOT EXISTS idx_articles_seminar ON articles(seminar_slug);
