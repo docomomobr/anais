@@ -171,11 +171,15 @@ def generate_group_page(conn, group, base_url, cover_map=None):
                 items.append(f'<li style="margin: 2px 0; font-size: 0.85em; color: #666;">{sec["title"]} ({sec["n_arts"]})</li>')
             sections_html = f'<ul style="list-style: none; padding: 0; margin: 5px 0 0 0;">{"".join(items)}</ul>'
 
-        # Cover image (only if URL known)
-        cover_html = ''
+        # Cover image or colored placeholder
+        num = sem['number']
         if cover_url:
             cover_html = f'''<a href="{issue_url}" style="display: block;">
       <img src="{cover_url}" alt="{title}" style="width: 100%; height: auto; display: block;" onerror="this.style.display='none'">
+    </a>'''
+        else:
+            cover_html = f'''<a href="{issue_url}" style="display: block;">
+      <div style="width: 100%; height: 160px; background: {group['bg']}; display: flex; align-items: center; justify-content: center; font-size: 2.5em; font-weight: bold; color: {group['border']};">{num}</div>
     </a>'''
 
         html += f'''  <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #fff;">
@@ -210,14 +214,23 @@ def generate_landing_page(conn, base_url, cover_map=None):
         n_sems = len(seminars)
         page_url = f'{base_url}/{group["slug"]}'
 
-        # Show all cover thumbnails (wrap to multiple lines)
+        # Show all cover thumbnails with captions (wrap to multiple lines)
         thumbs_html = ''
         for sem in seminars:
             slug = sem['slug']
             issue_url = f'{base_url}/issue/view/{slug}'
             cover_url = cover_map.get(slug, '')
+            num = sem['number']
+            year = sem['year']
+            caption = f'{num} ({year})'
+
             if cover_url:
-                thumbs_html += f'<a href="{issue_url}" title="{sem["title"]}" style="display: inline-block; margin: 4px;"><img src="{cover_url}" alt="{sem["title"]}" style="width: 80px; height: auto; border-radius: 4px; border: 1px solid #eee;" onerror="this.style.display=\'none\'"></a>'
+                img_html = f'<img src="{cover_url}" alt="{sem["title"]}" style="width: 80px; height: auto; display: block; border-radius: 4px; border: 1px solid #eee;">'
+            else:
+                # Colored placeholder with number
+                img_html = f'<div style="width: 80px; height: 110px; background: {group["bg"]}; border: 1px solid {group["border"]}; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 1.5em; font-weight: bold; color: {group["border"]};">{num}</div>'
+
+            thumbs_html += f'<a href="{issue_url}" title="{sem["title"]}" style="display: inline-flex; flex-direction: column; align-items: center; margin: 4px; text-decoration: none;">{img_html}<span style="font-size: 0.7em; color: #888; margin-top: 2px;">{caption}</span></a>'
 
         html += f'''<div style="margin-bottom: 2.5em; padding: 1.5em; border: 1px solid #ddd; border-radius: 10px;">
   <h2 style="margin: 0 0 0.3em 0;"><a href="{page_url}" style="text-decoration: none; color: #222;">{group['name']}</a></h2>

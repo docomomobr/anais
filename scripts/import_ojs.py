@@ -515,6 +515,133 @@ def cmd_import(env, expected, xml_dir, slug_filter=None):
         print('Use --verify para conferir estado e --import para tentar novamente.')
 
 
+PER_ARTICLE_DELAY = 15  # segundos entre artigos (mesmo issue, mais rápido)
+
+
+def cmd_import_per_article(env, expected, xml_dir, slug_filter=None):
+    """Importa XMLs per-article (1 artigo por XML, com PDF embutido).
+
+    Diferenças do cmd_import:
+    - Aceita múltiplos XMLs por issue (sdrj04-001.xml, sdrj04-002.xml, ...)
+    - Não pula issues existentes (cada XML adiciona 1 artigo à issue)
+    - Delay menor entre XMLs (mesmo issue)
+    - Para no primeiro erro (não tenta recuperar parciais)
+    """
+    base = env['url']
+
+    # Listar XMLs
+    if slug_filter:
+        pattern = os.path.join(xml_dir, f'{slug_filter}-*.xml')
+        files = sorted(glob.glob(pattern))
+        if not files:
+            # Tenta arquivo único (fallback para modo antigo)
+            single = os.path.join(xml_dir, f'{slug_filter}.xml')
+            if os.path.exists(single):
+                files = [single]
+            else:
+                print(f'ERRO: nenhum XML encontrado para {slug_filter} em {xml_dir}/')
+                sys.exit(1)
+    else:
+        files = sorted(glob.glob(os.path.join(xml_dir, '*.xml')))
+    files = [f for f in files if not os.path.basename(f).startswith('sdbr')]
+
+    if not files:
+        print('Nenhum XML encontrado.')
+        return
+
+    # Group by slug prefix (for progress display)
+    from collections import OrderedDict
+    by_slug = OrderedDict()
+    for f in files:
+        name = os.path.basename(f).replace('.xml', '')
+        # Extract slug: everything before last dash-number (sdrj04-001 → sdrj04)
+        parts = name.rsplit('-', 1)
+        if len(parts) == 2 and parts[1].isdigit():
+            slug = parts[0]
+        else:
+            slug = name
+        by_slug.setdefault(slug, []).append(f)
+
+    total_files = len(files)
+    total_slugs = len(by_slug)
+    print(f'{total_files} XMLs para {total_slugs} seminários\n')
+
+    for slug_name in by_slug:
+        exp = expected.get(slug_name, '?')
+        n = len(by_slug[slug_name])
+        sizes = [os.path.getsize(f) for f in by_slug[slug_name]]
+        max_size = max(sizes)
+        total_size = sum(sizes)
+        print(f'  {slug_name}: {n} XMLs, {total_size/1024/1024:.1f} MB total, '
+              f'maior: {max_size/1024/1024:.1f} MB (esperado: {exp} arts)')
+
+    print()
+
+    # Import sequentially
+    success = 0
+    errors = []
+    global_idx = 0
+
+    for slug_name, slug_files in by_slug.items():
+        exp = expected.get(slug_name, '?')
+        print(f'=== {slug_name} ({len(slug_files)} artigos, esperado: {exp}) ===')
+
+        for j, filepath in enumerate(slug_files):
+            global_idx += 1
+            name = os.path.basename(filepath).replace('.xml', '')
+            size = os.path.getsize(filepath)
+
+            print(f'  [{global_idx}/{total_files}] {name} ({size/1024:.0f} KB)', end=' ')
+            sys.stdout.flush()
+
+            # Sessão fresca para cada XML
+            try:
+                s, csrf = fresh_session(base, env['username'], env['password'])
+            except Exception as e:
+                print(f'ERRO login: {e}')
+                errors.append((name, str(e)))
+                print('PARANDO.')
+                break
+
+            try:
+                ok, msg, temp_id = upload_and_import(base, s, csrf, filepath)
+            except Exception as e:
+                ok, msg = False, str(e)
+
+            if ok:
+                print('OK')
+                success += 1
+            else:
+                print(f'ERRO: {msg}')
+                errors.append((name, msg))
+                # Para per-article, parar no primeiro erro real
+                if 'vazia' not in msg and 'timeout' not in msg:
+                    print('PARANDO no primeiro erro.')
+                    break
+                # Se timeout/vazio, tentar continuar (pode ter funcionado)
+                print('  (resposta vazia/timeout — continuando)')
+                success += 1  # Otimista — verificar depois
+
+            # Delay entre artigos
+            if global_idx < total_files:
+                time.sleep(PER_ARTICLE_DELAY)
+
+        else:
+            # Inner loop completed without break
+            continue
+        # Inner loop broke — stop outer too
+        break
+
+    # Resumo
+    print(f'\n{"="*50}')
+    print(f'IMPORTADOS: {success}/{total_files}')
+    if errors:
+        print(f'ERROS: {len(errors)}')
+        for name, msg in errors:
+            print(f'  {name}: {msg}')
+    print(f'\nUse --verify para conferir contagens.')
+
+
 def main():
     parser = argparse.ArgumentParser(description='Importar XMLs no OJS')
     parser.add_argument('--env', choices=['test', 'prod'], default='test')
@@ -523,6 +650,8 @@ def main():
     parser.add_argument('--verify', action='store_true', help='Verificar estado')
     parser.add_argument('--xml-dir', help='Diretório dos XMLs (default: xml_test/)')
     parser.add_argument('--dry-run', action='store_true', help='Apenas listar')
+    parser.add_argument('--per-article', action='store_true',
+                       help='Modo per-article: 1 XML por artigo (com PDF embutido)')
     args = parser.parse_args()
 
     env = ENVS[args.env]
@@ -538,12 +667,13 @@ def main():
     if args.dry_run:
         files = sorted(glob.glob(os.path.join(xml_dir, '*.xml')))
         files = [f for f in files if not os.path.basename(f).startswith('sdbr')]
+        if args.per_article and args.slug:
+            files = [f for f in files if os.path.basename(f).startswith(args.slug)]
         print(f'Dry-run — {len(files)} XMLs:')
         for f in files:
-            slug = os.path.basename(f).replace('.xml', '')
+            name = os.path.basename(f).replace('.xml', '')
             size = os.path.getsize(f)
-            exp = expected.get(slug, '?')
-            print(f'  {slug}: {size:,} bytes, {exp} artigos esperados')
+            print(f'  {name}: {size:,} bytes')
         return
 
     if args.verify:
@@ -554,7 +684,10 @@ def main():
         cmd_cleanup(env, expected)
         return
 
-    cmd_import(env, expected, xml_dir, args.slug)
+    if args.per_article:
+        cmd_import_per_article(env, expected, xml_dir, args.slug)
+    else:
+        cmd_import(env, expected, xml_dir, args.slug)
 
 
 if __name__ == '__main__':

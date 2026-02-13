@@ -466,11 +466,13 @@ def generate_issue_xml(conn, slug, fichas, outdir, with_pdf=False):
             SubElement(galley_el, 'submission_file_ref', id=str(art_idx + 1))
 
         # Citations (references) — after article_galley, before pages (XSD order)
+        # OJS 3.3 native.xsd: <citations> contains <citation> child elements
         if art['references_']:
             refs_list = parse_keywords(art['references_'])  # JSON array → list
             if refs_list:
-                citations_text = '\n'.join(refs_list)
-                SubElement(pub_el, 'citations').text = citations_text
+                citations_el = SubElement(pub_el, 'citations')
+                for ref_text in refs_list:
+                    SubElement(citations_el, 'citation').text = ref_text
 
         # Pages (OJS extension — must come AFTER citations)
         if art['pages']:
