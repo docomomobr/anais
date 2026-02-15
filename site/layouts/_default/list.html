@@ -1,0 +1,77 @@
+{{ define "main" }}
+<nav class="breadcrumb">
+  <a href="{{ "/" | relURL }}">início</a>
+  {{ if .Parent }}
+    {{ if ne .Parent.RelPermalink "/" }}
+    &rsaquo; <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title | lower }}</a>
+    {{ end }}
+  {{ end }}
+  &rsaquo; <span>{{ .Title | lower }}</span>
+</nav>
+
+{{ if .Sections }}
+  {{/* Âmbito level: list events */}}
+  <h1 class="ambito-title">{{ .Title }}</h1>
+
+  <div class="event-list">
+  {{ range .Sections }}
+    <a href="{{ .RelPermalink }}" class="event-card">
+      {{ with .Params.cover }}
+      {{ $img := $.Page.Resources.Match . }}
+      {{ end }}
+      {{ with .Resources.GetMatch "*.png" }}
+      <img src="{{ .RelPermalink }}" alt="" class="event-cover">
+      {{ end }}
+      <div class="event-card-info">
+        <h2>{{ .Title }}</h2>
+        {{ with .Params.subtitle }}<p class="event-subtitle">{{ . }}</p>{{ end }}
+        {{ with .Params.event_location }}<span class="location">{{ . }}</span>{{ end }}
+        {{ with .Params.article_count }}<span class="count">{{ . }} artigos</span>{{ end }}
+      </div>
+    </a>
+  {{ end }}
+  </div>
+{{ else }}
+  {{/* Event level: list articles with cover */}}
+  <div class="event-header">
+    {{ with .Resources.GetMatch "*.png" }}
+    <img src="{{ .RelPermalink }}" alt="" class="event-cover-large">
+    {{ end }}
+    <div class="event-header-info">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
+      {{ with .Params.event_location }}<p class="meta">{{ . }}{{ with $.Params.event_publisher }} &mdash; {{ . }}{{ end }}</p>{{ end }}
+      {{ with .Params.editors }}<p class="meta">Org.: {{ . }}</p>{{ end }}
+      {{ with .Params.description }}<p class="meta ficha">{{ . }}</p>{{ end }}
+      {{ with .Params.article_count }}<p class="meta"><strong>{{ . }} artigos</strong></p>{{ end }}
+      {{ with .Params.volume_pdf }}
+      <div class="volume-pdf">
+        <a href="#" class="volume-pdf-btn">PDF da edição completa</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="article-list">
+  {{ $currentSection := "" }}
+  {{ range sort .Pages "File.Path" }}
+    {{ $sec := .Params.section_title | default "Sem seção" }}
+    {{ if ne $sec $currentSection }}
+      {{ $currentSection = $sec }}
+      <h2 class="section-heading">{{ $sec }}</h2>
+    {{ end }}
+    <article class="article-item">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h3>
+      <p class="authors">
+        {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ $au.givenname }} {{ $au.familyname }}{{ end }}
+      </p>
+      {{ if .Params.zenodo_pdf_url }}
+      <a href="{{ .Params.zenodo_pdf_url }}" class="btn-pdf-sm">PDF</a>
+      {{ else if .Params.pdf_file }}
+      <span class="btn-pdf-sm btn-pdf-sm--pending">PDF</span>
+      {{ end }}
+    </article>
+  {{ end }}
+  </div>
+{{ end }}
+{{ end }}

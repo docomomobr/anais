@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="ambito-grid">
+  {{ range .Site.Sections }}
+  <a href="{{ .RelPermalink }}" class="ambito-card">
+    <h2>{{ .Title }}</h2>
+    {{ $events := .Sections }}
+    <p>{{ len $events }} seminário{{ if gt (len $events) 1 }}s{{ end }}</p>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

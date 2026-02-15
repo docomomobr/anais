@@ -1,0 +1,4 @@
+{{/* COinS (ContextObjects in Spans) for Zotero */}}
+{{ if eq .Type "artigo" }}
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=conferenceObject&amp;rfr_id=info%3Asid%2Fanais.docomomobrasil.com&amp;rft.title={{ (printf "%s%s" .Title (cond (ne (.Params.subtitle | default "") "") (printf ": %s" .Params.subtitle) "")) | urlquery }}&amp;rft.date={{ dateFormat "2006" .Date }}{{ range .Params.authors }}&amp;rft.au={{ (printf "%s, %s" .familyname .givenname) | urlquery }}{{ end }}{{ with .Params.doi }}&amp;rft_id=info%3Adoi%2F{{ . | urlquery }}{{ end }}{{ with .Params.event_isbn }}&amp;rft.isbn={{ . | urlquery }}{{ end }}&amp;rft.genre=proceeding&amp;rft.source={{ .Params.event_title | urlquery }}"></span>
+{{ end }}

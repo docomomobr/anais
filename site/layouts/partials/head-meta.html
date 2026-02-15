@@ -1,0 +1,89 @@
+{{/* 1. Highwire Press meta tags (Google Scholar) */}}
+{{ if eq .Type "artigo" }}
+<meta name="citation_title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
+{{ range .Params.authors -}}
+<meta name="citation_author" content="{{ .familyname }}, {{ .givenname }}">
+{{ with .orcid -}}
+<meta name="citation_author_orcid" content="https://orcid.org/{{ . }}">
+{{ end -}}
+{{ with .affiliation -}}
+<meta name="citation_author_institution" content="{{ . }}">
+{{ end -}}
+{{ end -}}
+<meta name="citation_publication_date" content="{{ dateFormat "2006/01/02" .Date }}">
+<meta name="citation_conference_title" content="{{ .Params.event_title }}">
+{{ with .Params.event_isbn -}}
+<meta name="citation_isbn" content="{{ . }}">
+{{ end -}}
+{{ with .Params.doi -}}
+<meta name="citation_doi" content="{{ . }}">
+{{ end -}}
+{{ with .Params.zenodo_pdf_url -}}
+<meta name="citation_pdf_url" content="{{ . }}">
+{{ end -}}
+{{ with .Params.abstract -}}
+<meta name="citation_abstract" content="{{ . | plainify | truncate 500 }}">
+{{ end -}}
+<meta name="citation_language" content="{{ .Params.locale | default "pt-BR" }}">
+{{ with .Params.pages -}}
+{{ $parts := split . "-" }}
+{{ if eq (len $parts) 2 -}}
+<meta name="citation_firstpage" content="{{ index $parts 0 }}">
+<meta name="citation_lastpage" content="{{ index $parts 1 }}">
+{{ end -}}
+{{ end -}}
+
+{{/* 2. Dublin Core */}}
+<meta name="DC.title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
+{{ range .Params.authors -}}
+<meta name="DC.creator" content="{{ .familyname }}, {{ .givenname }}">
+{{ end -}}
+{{ range .Params.keywords -}}
+<meta name="DC.subject" content="{{ . }}">
+{{ end -}}
+{{ with .Params.abstract -}}
+<meta name="DC.description" content="{{ . | plainify | truncate 500 }}">
+{{ end -}}
+<meta name="DC.date" content="{{ dateFormat "2006-01-02" .Date }}">
+<meta name="DC.type" content="ConferencePaper">
+<meta name="DC.format" content="text/html">
+<meta name="DC.language" content="{{ .Params.locale | default "pt-BR" }}">
+{{ with .Params.doi -}}
+<meta name="DC.identifier" content="doi:{{ . }}">
+{{ end -}}
+<meta name="DC.source" content="{{ .Params.event_title }}">
+
+{{/* 3. Signposting (FAIR) */}}
+{{ with .Params.doi -}}
+<link rel="cite-as" href="https://doi.org/{{ . }}">
+{{ end -}}
+{{ with .Params.zenodo_pdf_url -}}
+<link rel="item" href="{{ . }}" type="application/pdf">
+{{ end -}}
+{{ with .Params.license_url -}}
+<link rel="license" href="{{ . }}">
+{{ end -}}
+{{ with .Params.doi -}}
+<link rel="describedby" href="{{ $.RelPermalink }}cite.json" type="application/json">
+{{ end -}}
+{{ range .Params.authors -}}
+{{ with .orcid -}}
+<link rel="author" href="https://orcid.org/{{ . }}">
+{{ end -}}
+{{ end -}}
+
+{{/* 4. Open Graph */}}
+<meta property="og:title" content="{{ $.Title }}{{ with $.Params.subtitle }}: {{ . }}{{ end }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ $.Permalink }}">
+{{ with $.Params.abstract -}}
+<meta property="og:description" content="{{ . | plainify | truncate 200 }}">
+{{ end -}}
+<meta property="og:site_name" content="{{ $.Site.Title }}">
+{{ range $.Params.authors -}}
+<meta property="article:author" content="{{ .givenname }} {{ .familyname }}">
+{{ end -}}
+{{ range $.Params.keywords -}}
+<meta property="article:tag" content="{{ . }}">
+{{ end -}}
+{{ end }}

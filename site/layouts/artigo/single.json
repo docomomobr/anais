@@ -1,0 +1,30 @@
+{
+  "id": "{{ .Params.slug }}",
+  "type": "paper-conference",
+  "title": "{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}",
+  "container-title": "{{ .Params.event_title }}",
+  "event-title": "{{ .Params.event_title }}",
+  {{- with .Params.event_location }}
+  "event-place": "{{ . }}",
+  "publisher-place": "{{ . }}",
+  {{- end }}
+  "issued": { "date-parts": [[{{ dateFormat "2006" .Date }}, {{ dateFormat "1" .Date }}, {{ dateFormat "2" .Date }}]] },
+  {{- with .Params.doi }}
+  "DOI": "{{ . }}",
+  {{- end }}
+  {{- with .Params.event_isbn }}
+  "ISBN": "{{ . }}",
+  {{- end }}
+  {{- with .Params.pages }}
+  "page": "{{ . }}",
+  {{- end }}
+  {{- with .Params.zenodo_pdf_url }}
+  "URL": "{{ . }}",
+  {{- end }}
+  "language": "{{ .Params.locale | default "pt-BR" }}",
+  "author": [
+    {{- range $i, $au := .Params.authors }}{{ if $i }},{{ end }}
+    { "family": "{{ $au.familyname }}", "given": "{{ $au.givenname }}"{{ with $au.orcid }}, "ORCID": "https://orcid.org/{{ . }}"{{ end }} }
+    {{- end }}
+  ]
+}

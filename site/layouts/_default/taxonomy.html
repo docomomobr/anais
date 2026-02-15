@@ -1,0 +1,27 @@
+{{ define "main" }}
+<nav class="breadcrumb">
+  <a href="{{ "/" | relURL }}">início</a>
+  {{ $section := .Data.Plural }}
+  {{ if eq $section "autores" }}
+  &rsaquo; <a href="{{ "autores/" | relURL }}">autores</a>
+  {{ else }}
+  &rsaquo; <a href="{{ "palavras-chave/" | relURL }}">palavras-chave</a>
+  {{ end }}
+  &rsaquo; <span>{{ .Title | lower }}</span>
+</nav>
+
+<h1>{{ .Title }}</h1>
+<p class="meta">{{ len .Pages }} artigo{{ if gt (len .Pages) 1 }}s{{ end }}</p>
+
+<div class="article-list">
+  {{ range .Pages }}
+  <article class="article-item">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h2>
+    <p class="authors">
+      {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ $au.givenname }} {{ $au.familyname }}{{ end }}
+    </p>
+    <p class="meta">{{ .Params.event_title }}</p>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

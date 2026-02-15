@@ -1,0 +1,44 @@
+id: {{ .Params.slug }}
+title: "{{ .Title }}"
+{{ with .Params.subtitle -}}
+subtitle: "{{ . }}"
+{{ end -}}
+date: {{ dateFormat "2006-01-02" .Date }}
+locale: {{ .Params.locale | default "pt-BR" }}
+event_title: "{{ .Params.event_title }}"
+{{ with .Params.event_location -}}
+event_location: "{{ . }}"
+{{ end -}}
+{{ with .Params.section_title -}}
+section: "{{ . }}"
+{{ end -}}
+{{ with .Params.doi -}}
+doi: "{{ . }}"
+{{ end -}}
+{{ with .Params.event_isbn -}}
+isbn: "{{ . }}"
+{{ end -}}
+{{ with .Params.pages -}}
+pages: "{{ . }}"
+{{ end -}}
+authors:
+{{ range .Params.authors -}}
+  - givenname: "{{ .givenname }}"
+    familyname: "{{ .familyname }}"
+{{ with .affiliation }}    affiliation: "{{ . }}"
+{{ end -}}
+{{ with .orcid }}    orcid: "{{ . }}"
+{{ end -}}
+{{ end -}}
+{{ with .Params.abstract -}}
+abstract: |
+{{ . | replaceRE "(?m)^" "  " }}
+{{ end -}}
+{{ with .Params.keywords -}}
+keywords:
+{{ range . }}  - "{{ . }}"
+{{ end -}}
+{{ end -}}
+{{ with .Params.zenodo_pdf_url -}}
+pdf_url: "{{ . }}"
+{{ end -}}

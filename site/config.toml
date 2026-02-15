@@ -1,0 +1,57 @@
+baseURL = "https://anais.docomomobrasil.com/"
+languageCode = "pt-BR"
+title = "Anais"
+
+[taxonomies]
+  autores = "autores"
+  "palavras-chave" = "palavras-chave"
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  page = ["HTML", "bibtex", "ris", "csljson", "yamlex"]
+
+[outputFormats]
+  [outputFormats.bibtex]
+    mediaType = "application/x-bibtex"
+    baseName = "cite"
+    isPlainText = true
+    notAlternative = true
+    path = ""
+  [outputFormats.ris]
+    mediaType = "application/x-research-info-systems"
+    baseName = "cite"
+    isPlainText = true
+    notAlternative = true
+    path = ""
+  [outputFormats.csljson]
+    mediaType = "application/vnd.citationstyles.csl+json"
+    baseName = "cite"
+    isPlainText = true
+    notAlternative = true
+    path = ""
+  [outputFormats.yamlex]
+    mediaType = "text/x-yaml"
+    baseName = "cite"
+    isPlainText = true
+    notAlternative = true
+    path = ""
+
+[mediaTypes]
+  [mediaTypes."application/x-research-info-systems"]
+    suffixes = ["ris"]
+  [mediaTypes."application/x-bibtex"]
+    suffixes = ["bib"]
+  [mediaTypes."application/vnd.citationstyles.csl+json"]
+    suffixes = ["json"]
+  [mediaTypes."text/x-yaml"]
+    suffixes = ["yaml"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Anais dos seminários Docomomo Brasil — nacional e regionais"
+  ogImage = "/img/og-default.png"

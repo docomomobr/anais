@@ -1,0 +1,31 @@
+TY  - CPAPER
+{{ range .Params.authors -}}
+AU  - {{ .familyname }}, {{ .givenname }}
+{{ end -}}
+TI  - {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}
+T2  - {{ .Params.event_title }}
+PY  - {{ dateFormat "2006" .Date }}
+DA  - {{ dateFormat "2006/01/02" .Date }}
+{{ with .Params.event_location -}}
+CY  - {{ . }}
+{{ end -}}
+{{ with .Params.pages -}}
+SP  - {{ . }}
+{{ end -}}
+{{ with .Params.doi -}}
+DO  - {{ . }}
+{{ end -}}
+{{ with .Params.event_isbn -}}
+SN  - {{ . }}
+{{ end -}}
+{{ with .Params.zenodo_pdf_url -}}
+UR  - {{ . }}
+{{ end -}}
+{{ with .Params.abstract -}}
+AB  - {{ . }}
+{{ end -}}
+{{ range .Params.keywords -}}
+KW  - {{ . }}
+{{ end -}}
+LA  - pt
+ER  -

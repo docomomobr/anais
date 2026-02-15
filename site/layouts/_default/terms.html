@@ -1,0 +1,18 @@
+{{ define "main" }}
+<nav class="breadcrumb">
+  <a href="{{ "/" | relURL }}">início</a>
+  &rsaquo; <span>{{ .Title | lower }}</span>
+</nav>
+
+<h1>{{ .Title }}</h1>
+<p class="meta">{{ len .Pages }} {{ if eq .Data.Plural "autores" }}autores{{ else }}termos{{ end }}</p>
+
+<ul class="taxonomy-list">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span class="meta">({{ len .Pages }})</span>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

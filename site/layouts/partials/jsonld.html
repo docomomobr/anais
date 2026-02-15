@@ -1,0 +1,54 @@
+{{/* Schema.org JSON-LD for article pages */}}
+{{ if eq .Type "artigo" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}",
+  "headline": "{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}",
+  {{ with .Params.abstract -}}
+  "abstract": {{ . | jsonify }},
+  {{ end -}}
+  "datePublished": "{{ dateFormat "2006-01-02" .Date }}",
+  "inLanguage": "{{ .Params.locale | default "pt-BR" }}",
+  {{ with .Params.doi -}}
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "{{ . }}"
+  },
+  "sameAs": "https://doi.org/{{ . }}",
+  {{ end -}}
+  "author": [
+    {{ range $i, $au := .Params.authors -}}
+    {{ if $i }},{{ end }}{
+      "@type": "Person",
+      "givenName": "{{ $au.givenname }}",
+      "familyName": "{{ $au.familyname }}"
+      {{ with $au.orcid -}}
+      ,"sameAs": "https://orcid.org/{{ . }}"
+      {{ end -}}
+      {{ with $au.affiliation -}}
+      ,"affiliation": { "@type": "Organization", "name": "{{ . }}" }
+      {{ end -}}
+    }
+    {{ end -}}
+  ],
+  {{ with .Params.keywords -}}
+  "keywords": [{{ range $i, $kw := . }}{{ if $i }}, {{ end }}"{{ $kw }}"{{ end }}],
+  {{ end -}}
+  "isPartOf": {
+    "@type": "Event",
+    "name": "{{ .Params.event_title }}"
+    {{ with .Params.event_location -}}
+    ,"location": { "@type": "Place", "name": "{{ . }}" }
+    {{ end -}}
+    ,"startDate": "{{ .Params.event_date }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Docomomo Brasil"
+  }
+}
+</script>
+{{ end }}

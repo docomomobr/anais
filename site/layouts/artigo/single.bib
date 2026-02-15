@@ -1,0 +1,21 @@
+@inproceedings{ {{- .Params.slug -}},
+  title     = { {{- .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end -}} },
+  author    = { {{- range $i, $au := .Params.authors }}{{ if $i }} and {{ end }}{{ $au.familyname }}, {{ $au.givenname }}{{ end -}} },
+  booktitle = { {{- .Params.event_title -}} },
+  year      = { {{- dateFormat "2006" .Date -}} },
+  {{- with .Params.event_location }}
+  address   = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.pages }}
+  pages     = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.doi }}
+  doi       = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.event_isbn }}
+  isbn      = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.zenodo_pdf_url }}
+  url       = { {{- . -}} },
+  {{- end }}
+}
