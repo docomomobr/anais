@@ -1,21 +1,20 @@
 issue:
   slug: sdsul02
   title: 2º Seminário Docomomo Sul, Porto Alegre, 2008
-  subtitle: Plasticidade e industrialização na arquitetura do cone sul americano, 1930/70
-  description: 'COMAS, Carlos Eduardo; MAHFUZ, Edson; CATTANI, Airton (org.). Anais do II Seminário do.co.mo.mo_sul, Plasticidade e industrialização na arquitetura do cone sul americano 1930/70, Porto Alegre, 25-27 ago. 2008 [recurso eletrônico]. Porto Alegre: PROPAR/UFRGS, 2008. 1 CD-ROM. ISBN 978-85-60188-09-3.'
+  subtitle: 'Concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70'
   year: 2008
-  volume: 1
+  volume: 4
   number: 2
-  date_published: '2008-08-25'
   isbn: 978-85-60188-09-3
-  publisher: PROPAR/UFRGS
+  publisher: Núcleo Docomomo RS / PROPAR-UFRGS
   editors:
   - Carlos Eduardo Comas
   - Edson Mahfuz
   - Airton Cattani
+  description: '2° Seminário Docomomo Sul: anais: Concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre, RS: PROPAR-UFRGS, 2008. Disponível também em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul. ISBN: 978-85-60188-09-3.'
   source: https://www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/
+  date_published: '2008-08-25'
 articles:
-
 - id: sdsul02-001
   title: A ponte
   authors:
@@ -64,7 +63,6 @@ articles:
   - 'WEIMER, Günter. A vida cultural e a arquitetura na República Velha Rio-Grandense, 1889-1945. Porto Alegre: EdPUCRS, 2003.'
   - 'WEIMER, Günter. Arquitetos e construtores no Rio Grande do Sul 1892-1945. Santa Maria: EdUFSM, 2004.'
   file_original: 001.pdf
-
 - id: sdsul02-002
   title: A obra do escritório de Jacques Pilon no centro de São Paulo
   authors:
@@ -139,7 +137,6 @@ articles:
   - TOLEDO, Benedito Lima de. Prestes Maia e as origens do urbanismo moderno em São Paulo. São Paulo, Empresa das Artes. 1996.
   - 'XAVIER, Alberto; LEMOS, Carlos A.C.; CORONA, Eduardo. Arquitetura moderna em São Paulo. São Paulo, Pini, 1983. Catálogo de Desenhos de Arquitetura da Biblioteca da FAUUSP. São Paulo: FAUUSP/VITAE, 1988. Relatório Referente à Etapa de Classificação e Análise dos Projetos Executados do “Escritório Jacques Pilon”. São Paulo: FAUUSP/VITAE, 1988.'
   file_original: 002.pdf
-
 - id: sdsul02-003
   title: Alcides Rocha Miranda
   subtitle: Igreja em Nova Friburgo
@@ -175,7 +172,6 @@ articles:
   - ZEIN, Ruth Verde – A Arquitetura da Escola Paulista Brutalista 1953-1973. Tese de Doutorado. São Paulo e Porto Alegre, 2005.
   - 'WESTON, Richard. Alvar Aalto. London: Phaidon, 1997.'
   file_original: 003.pdf
-
 - id: sdsul02-004
   title: A construção da forma livre
   subtitle: visões opostas sobre o uso do concreto armado na Arquitetura Contemporânea no Brasil
@@ -194,7 +190,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 004.pdf
-
 - id: sdsul02-005
   title: Reidy
   subtitle: dois projetos, dois países e um princípio
@@ -205,9 +200,9 @@ articles:
     email: anesouto@ig.com.br
     primary_contact: true
   - givenname: Alex Carvalho
-    familyname: Brino
+    familyname: BRino
     affiliation: PROPAR-UFRGS
-    email: alexbrino@yahoo.com.br
+    email: alexbRino@yahoo.com.br
     primary_contact: false
   section: Artigos
   locale: pt-BR
@@ -229,7 +224,6 @@ articles:
   - '-BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981. 397 p.: il. -COMAS, Carlos Eduardo Dias. Precisões brasileiras: sobre um estado passado da arquitetura e urbanismo modernos: a partir dos projetos e obras de Lúcio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-45. 2002. 3 v.: il. Tese (doutorado) - Universidade de Paris VIII, Paris, FR, 2002. Ori: Panerai, Philippe. - CONDURU, Roberto. Razão em forma: Affonso Reidy e o espaço arquitetônico moderno. In: risco. Revista de pesquisa em arquitetura e urbanismo. EESC-USP. São Paulo, 2005, pg24-37 - ROWE,Colin y Robert Slutzky, "Transparencia:literal y fenomenal". En: Colin Rowe,Manierismo y arquitectura moderna y otros ensayos. Barcelona, Gustavo Gili, 1978 -FRAMPTON,Keneth. Modern Architecture,a critical history. Ed. Thames and Hudson,NY,1992 -…Rappel à lórdre, the case fot the tectonic. In:NESBIT,Kate.Theorizing a new agenda for architecture.Nova York:Princeton Press,1999 - JEANNERET, Pierre - Le Corbusier: oeuvre complète de 1946-1952 - Zurich. Les Éditions D''architecture Erlenbach, 1953. - JEANNERET, Pierre - Le Corbusier: oeuvre complète de 1952-1957 - Zurich. Les Éditions D''architecture Erlenbach, 1957. -MAHFUZ, Edson da Cunha. The importance of being reidy. In: Arquitexto, São Paulo n.40 (set. 2003), p.1-3 - BONDUKI,Nabil Georges (org). REIDY,Affonso Eduardo. Arquitetos Brasileiros.São Paulo:Instituto Lina Bo e'
   - 'P.M.Bardi;Lisboa.Editorial Blau 1999.216pg -ZEIN,Ruth. A arquitetura da escola paulista brutalista 1953-1973. 2005. 2 v. (1 folha dobrada) : il. ; 28x41cm dobrada em 28x21cm Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2005. Ori.: Comas, Carlos Eduardo Dias -KAMITA,João Massao. Museu de Arte Moderno:arte,arquitetura y vida.In:DPA,Documents de Projectes dÁrquitectura.Ediciones UPC,Barcelona,2003,pg50-57'
   file_original: 005.pdf
-
 - id: sdsul02-006
   title: O suporte na arquitetura de Rino Levi
   subtitle: da grelha tridimensional ao dom-ino
@@ -267,7 +261,6 @@ articles:
   - 'ROWE, Colin. Manierismo y arquitectura moderna y otros ensayos. Barcelona: Gustavo Gili, 1978.'
   - 'SCHUMACHER, Thomas L. Surface and Simbol: Giuseppe Terragni and the architecture of italian rationalism. New York: Princeton Architectural Press, 1991.'
   file_original: 006.pdf
-
 - id: sdsul02-007
   title: Da utopia ao concreto
   subtitle: os prédios habitacionais lineares e curvilíneos de Affonso Reidy como experiência tipológica e construtiva
@@ -321,7 +314,6 @@ articles:
   - 'TSIOMIS, Yannis (coord.). Le Corbusier: Rio de Janeiro, 1929, 1936. Rio de Janeiro: Centro de Arquitetura e Urbanismo do Rio de Janeiro/Prefeitura da Cidade do Rio de'
   - 'TSIOMIS, Yannis Da utopia e da realidade da paisagem. In: TSIOMIS, Yannis (coord.). Le Corbusier: Rio de Janeiro, 1929, 1936. Rio de Janeiro: Centro de Arquitetura e Urbanismo do Rio de Janeiro/Prefeitura da Cidade do Rio de Janeiro, 1998.'
   file_original: 007.pdf
-
 - id: sdsul02-008
   title: Arquitetura Moderna em Porto Alegre
   subtitle: considerações sobre a flexibilidade em planta e o uso de grelha de concreto em fachadas de edifícios residenciais da década de 50
@@ -359,7 +351,6 @@ articles:
   - 'SANVITTO, Maria Luiza Adams. Habitação coletiva para a classe média na arquitetura moderna de Porto Alegre entre 1935 e 1960: relatório de pesquisa. 2001, P.28'
   - 'XAVIER, Alberto. MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Editora Pini, 1987. .'
   file_original: 008.pdf
-
 - id: sdsul02-009
   title: Viver nas alturas
   authors:
@@ -397,7 +388,6 @@ articles:
   - 'PANIZZI, Wrana; ROVATTI, João. Estudos Urbanos: Porto Alegre e seu planejamento. Editora da Universidade/UFRGS/Prefeitura Municipal de Porto Alegre.1993'
   - STRÖHER, Eneida Ripoll. Habitação coletiva na obra do arquiteto Emil Bered, na década de 50, em Porto Alegre. Dissertação de mestrado. PROPAR/UFRGS.1997
   file_original: 009.pdf
-
 - id: sdsul02-010
   title: Banco de Londres e América do Sul
   subtitle: detalhes construtivos e solução estrutural
@@ -430,7 +420,6 @@ articles:
   - PEDREGAL, J.M. “Sobre la concepción estructural del Banco de Londres”. Summa, Buenos Aires, n°6/7, págs. 47-48, dez., 1966.
   - 'WAISMAN, M. “La obra de Testa: Propuesta para uma lectura”. Buenos Aires: Summa, n°183/184 – jan./fev., 1983.'
   file_original: 010.pdf
-
 - id: sdsul02-011
   title: Emílio Henrique Baumgart
   subtitle: o pai do concreto armado no Brasil
@@ -444,7 +433,7 @@ articles:
   locale: pt-BR
   file: sdsul02-011.pdf
   pages_count: 12
-  abstract: 'Seu trabalho no campo do concreto armado abriu novas perspectivas para a utilização da técnica construti- va, sendo autor do projeto de estruturas de obras pioneiras da engenharia brasileira. Dois de seus projetos tiveram significado mundial sob o aspecto do avanço da técnica: o edifício A Noite, na praça Mauá no Rio de Janeiro, que com seus 24 andares se tornou na época o mais alto do mundo em estruturas de concreto armado; e a ponte sobre o Rio do Peixe, entre Herval d´Oeste e Joaçaba. A ponte possuia o maior vão livre conhecido na época (68,5m) e foi construída por um método revolucionário devido a sua altura em relação ao rio e às suas repetidas cheias. Outro projeto representativo da personalidade inovadora de Baumgart é a concepção da estrutura do Ministério da Educação e Saúde Pública, arquitetura de Lucio Costa e equipe, onde uma das características inéditas foi a adoção de reforços invertidos na periferia dos pilares possibilitou a execução de uma laje plana na base.'
+  abstract: 'Seu trabalho no campo do concreto armado abriu novas perspectivas para a utilização da técnica construti- va, sendo autor do projeto de estruturas de obras pioneiras da engenharia brasileira. Dois de seus projetos tiveram significado mundial sob o aspecto do avanço da técnica: o edifício A Noite, na praça Mauá no Rio de Janeiro, que com seus 24 andares se tornou na época o mais alto do mundo em estruturas de concreto armado; e a ponte sobre o Rio do Peixe, entre Herval d´Oeste e Joaçaba. A ponte possuia o maior vão livre conhecido na época (68,5m) e foi construída por um método revoLucionário devido a sua altura em relação ao rio e às suas repetidas cheias. Outro projeto representativo da personalidade inovadora de Baumgart é a concepção da estrutura do Ministério da Educação e Saúde Pública, arquitetura de Lucio Costa e equipe, onde uma das características inéditas foi a adoção de reforços invertidos na periferia dos pilares possibilitou a execução de uma laje plana na base.'
   abstract_en: 'The article is a report of life and structures calculated / designed by brazilian engineer Emilio Henrique Baumgart. His work, in the field of reinforced concrete, opened up new prospects for the constructive use of the technique, and author of the design of structures for the pioneering works of Brazilian engineering. Two projects had global significance under the aspect of the art: the building called “A Noite”, the square Maua in Rio de Janeiro, which with its 24 floors at the time became the highest in the world of reinforced concrete structures, and bridge on the Rio do Peixe, between Herval d’Oeste and Joaçaba. The bridge will have the largest free span in the world (68.5 m) and was built by a revolutionary method because of its height from the river and its repeated floods. Another project representative of the personality of Baumgart is the innovative design of the structure of the Ministry of Education and Public Health, architecture of Lucio Costa and team, where one of the novel feature was the adoption of reinforcements reversed on the periphery of the pillars enabled the implementation of a flat slab the base. It is also important to list more attention to detail and other work of the engineer, who was the author of more than 500 structural projects (tanks, hangars, garages, warehouses, floating, swimming pools, etc. and more than a hundred bridges and viaducts).'
   keywords:
   - concreto
@@ -462,7 +451,6 @@ articles:
   - 'VASCONCELLOS, Juliano Caldas de. Concreto Armado, Arquitetura Moderna, Escola Carioca: levantamentos e notas. Dissertação (Mestrado em Arquitetura) - Universidade Federal do Rio Grande do Sul (PROPAR), 2004 313p.'
   - 'VASCONCELOS, Augusto Carlos. O Concreto no Brasil: recordes, realizações, história. São Paulo: Copiare, 1985.'
   file_original: 011.pdf
-
 - id: sdsul02-012
   title: Brutalismo no paralelo 33
   subtitle: Unidad Diego Portales, Santiago — Chile
@@ -497,7 +485,6 @@ articles:
   - 'Unidad Vecinal Portales – La experiencia cotidiana: back from de utopia. Proyecto Fondecyt . Comunidad e Identidades urbanas: Historia de Barrios del Gran Santiago 1950 – 2000. Disponível em <www.antropologiaurbana.cl/pdfs/estudios/uv_portales_presentacion.pdf> Acessado em julho de 2008.'
   - ZAKNIC, Ivan. The Final Testament of Père Corbu. Yale Press, New Haven, London. 1997. (Carta a Eugene Claudius-Petit - Setembro 1964.
   file_original: 012.pdf
-
 - id: sdsul02-013
   title: Ecletismo, ferro e concreto
   subtitle: um arquivo-belvedere em Porto Alegre
@@ -542,7 +529,6 @@ articles:
   - 'SCHILLING, Voltaire & CALOVI PEREIRA, Cláudio (org.). Positivismo. Arquitetura de Porto Alegre no período Positivista (catálogo de exposição). Porto Alegre: Memorial do Rio Grande do Sul, 2007.'
   - Relatório de Obras Públicas. Secretaria de Negócios das Obras Públicas do Estado do Rio Grande do Sul. 1891 a 1923.
   file_original: 013.pdf
-
 - id: sdsul02-014
   title: Matéria bruta
   subtitle: Clorindo Testa e o Centro Cívico de Santa Rosa, La Pampa, 1955-1963
@@ -584,7 +570,6 @@ articles:
   - TESTA, Clorindo. Casa de Gobierno de La Pampa. Summa, Buenos Aires, n. 2, p. 39-49, outubro, 1963. _.Centro Cívico de Santa Rosa, La Pampa. Summa, Buenos Aires, n. 183/184, p. 42-45; p. 60- 61; p. 106-109, janeiro e fevereiro, 1983.
   - 'WAISMAN, Marina. La obra de Testa: Propuesta para uma lectura. Summa, Buenos Aires, n. 183/184, p. 26-29, janeiro e fevereiro de 1983.'
   file_original: 014.pdf
-
 - id: sdsul02-015
   title: Experiências em concreto armado na África Portuguesa
   subtitle: influências do Brasil
@@ -634,7 +619,6 @@ articles:
   - 'TOSTÕES, Ana. Os Verdes Anos na Arquitectura Portuguesa dos Anos 50, Porto: FAUP Publicações, 1997'
   - 'Recolheram-se os testemunhos dos três arquitectos citados: Pancho Guedes (07/12/2007 e 18/06/2008), Fernão Lopes Simões de Carvalho (08/06/2008 e 23/06/2008) e Francisco Castro Rodrigues (17/06/2008, 26/06/2008 e 10/07/2008).'
   file_original: 015.pdf
-
 - id: sdsul02-016
   title: A miragem da industrialização
   subtitle: 'abrindo a mata virgem a facão: alguns casos do brutalismo paulista'
@@ -653,7 +637,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 016.pdf
-
 - id: sdsul02-017
   title: O Centro Administrativo do Estado do Rio Grande do Sul
   subtitle: curva de concreto marcando a paisagem
@@ -688,7 +671,6 @@ articles:
   - 'WEIMER. A arquitetura. Porto Alegre: Editora da Universidade/UFRGS, 1992 (Síntese Rio- Grandense 12-13).'
   - 'XAVIER, Alberto & MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.'
   file_original: 017.pdf
-
 - id: sdsul02-018
   title: Máquinas de Vender Máquinas
   subtitle: formas aerodinâmicas em revendas de automóveis e oficinas mecânicas em Caxias do Sul
@@ -741,9 +723,8 @@ articles:
   - CAU, 2007 (monografia de Laboratório de Arquitetura e Urbanismo)
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.'
   - http://www.webkits.com.br/news/templates/news.asp?articleid=393&zoneid=24. Acesso em 30 jun. 2008, 09:51.
-  - http://www.niemeyer.org.br/0scarniemeyer/arquitetura.htm. Acesso em 30 jun. 2008, 09:51.
+  - http://www.Niemeyer.org.br/0scarNiemeyer/arquitetura.htm. Acesso em 30 jun. 2008, 09:51.
   file_original: 018.pdf
-
 - id: sdsul02-019
   title: A casa unifamiliar em Florianópolis
   subtitle: um modo de ser moderno
@@ -777,7 +758,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2. ed. São Paulo: Editora da USP, 2002. 224p.'
   - 'VEIGA, Eliane Veras da. Florianópolis: Memória Urbana. Florianópolis: UFSC, 1993. 390 p.'
   file_original: 019.pdf
-
 - id: sdsul02-020
   title: Composição de planos no edifício Annes Dias nº 154
   authors:
@@ -806,7 +786,6 @@ articles:
   - SULLIVAN, Louis H. The tall office building artistically considered. Lippincott’s Magazine, 1896. Texto de domínio público.
   - 'XAVIER, Alberto / MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. Porto Alegre: Editora Pini Ltda., 1987. 401p.'
   file_original: 020.pdf
-
 - id: sdsul02-021
   title: O concreto na pré-fabricação
   subtitle: a construção da Universidade de Brasília
@@ -853,7 +832,6 @@ articles:
   - 'UNIVERSIDADE DE BRASÍLIA. Faculdade de Arquitetura e Urbanismo. Guia Arquitetônico da UnB. Brasília, 2000. Disponível em: http://www.unb.br/fau/guia/principall.htm. Acesso em 30 nov. 2007.'
   - 'UNIVERSIDADE DE BRASÍLIA: PRIMEIRA EXPERIÊNCIA EM PRÉ-MOLDADO. Assessor Técnico: João Filgueiras Lima. Assessoria e Texto: Luiz Fisberg. Narração José Carlos Coutinho. Assistente de Câmera: José Claro da Silva. Som: Cirilo Rodrigues. Realização: Heinz Forthmann. Brasília: Universidade de Brasília, 1962-70. (17 min) son., p&b. disponível em: http://www.unb.br/ceplan/memoria.htm. Acesso em 20 fev. 2008.'
   file_original: 021.pdf
-
 - id: sdsul02-022
   title: A caixa de concreto para a casa do aço
   subtitle: Escritório-Parque Usiminas
@@ -886,7 +864,7 @@ articles:
   - potencializando as questões compositivas enquanto ingrediente enriquecedor dos resultados
   references:
   - • • • • • • • • • • • •
-  - 'ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos Movimentos Contemporâneos. Tradução de Denise Bottmann e Federico Carotti. São Paulo: Companhia das Letras, 1992.'
+  - 'ARGAN, Giulio Carlo. Arte Moderna: do Iluminismo aos Movimentos Contemporâneos. Tradução de DeNise Bottmann e Federico Carotti. São Paulo: Companhia das Letras, 1992.'
   - 'BANHAM, Reyner. El Brutalismo em Arquitectura: ética o estética? Barcelona: Gustavo Gili, 1966.'
   - 'BASTOS, Maria Alice Junqueira. Pós Brasília: rumos da arquitetura brasileira. Discurso: prática e pensamento. São Paulo: Perspectiva/ FAPESP, 2003'
   - 'BOESIGER, W. Le Corbusier: ouvre complete de 1910 / 1965. Zurich: Editions Girsberger, 1947 / 1965. Volumes 04 (1937 / 1946), 05 (1946 / 1952 ) e 06 ( 1954 / 1957). BÄCHER, Max; HEINLE, Erwin. Construcciones en hormigón visto. Barcelona: Gustavo Gili, 1967.'
@@ -898,7 +876,6 @@ articles:
   - 'ZEIN, Ruth Verde. A arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre: PROPAR/ UFRGS, 2005.'
   - 'ZEIN, Ruth Verde. Arquitetura Brasileira, Escola Paulista e as Casas de Paulo Mendes da Rocha. Dissertação (Mestrado). Porto Alegre: PROPAR/ UFRGS, 2000.'
   file_original: 022.pdf
-
 - id: sdsul02-023
   title: Paisagens Desoladas
   subtitle: Quatro Máscaras de Concreto em Deriva
@@ -939,7 +916,6 @@ articles:
   - 'VAZ, Maria Diva A. C. “Percorrendo a História do Centro”. In: PAULA, Flávia Maria de A.; CAVALCANTI, Lana de S. (org.) A cidade e seus Lugares. Goiânia: Vieira, 2007, p.53-77. –. Oscar Niemeyer. Belmont-sur-Lausanne: Editions Alphabet, 1977 –. Arquitetura dos Transportes: A obra, o espaço criado e o desenvolvimento de Goiânia. Revista Projeto, São Paulo, nº94, 1986.'
   - 'A praça seca é uma composição de elementos funcionais articulados formalmente: as superfícies de água das piscinas; os vazios que iluminam o pavimento inferior; e os volúmes geométricos que irrompem na grande plataforma, abrigando sanitários, reservatórios e outros apoios. Elementos que atuavam, no projeto original, como contraponto à face oeste do edificio, que se abria ao bosque. ii Ainda que o projeto de Niemeyer fosse na realidade um grande complexo esportivo, com o estádio se destacando por meio de seu volúme construído e sua solução formal que remete ao monumentalismo do Palácio dos Sovietes de Le Corbusier, projetado dez anos antes. iii Recentemente, entre a antiga Estação Ferroviária e o Terminal Rodoviário, foi construido um grande pavilhão para abrigar bancas comerciais de ambulantes, que rompe completamente o diálogo entre estes dois edifícios. iv Entrevista concedida pelo arquiteto a Christine R. Mahler, São Paulo,1988. In: MAHLER, Christine Ramos. Aspectos da Modernidade na Cidade de Goiânia. (1950 – 1960). 2004. Dissertação (Mestrado em Gestão do Patrimônio Cultural) - Instituto Goiano de PréHistória e Antropologia, Universidade Católica de Goiás, Goiânia, 2004.'
   file_original: 023.pdf
-
 - id: sdsul02-024
   title: O concreto na linguagem de Oscar Niemeyer
   authors:
@@ -972,7 +948,6 @@ articles:
   - 'Guadet, Julien. Élements et théorie de l''architecture. Paris: Construction Moderne, 1909. 4 v. Hess, A.; Weintraub, A.. Oscar Niemeyer Houses. New York: Rizzoli, 2006. Katinsky,J.. In Sabbag , H. coord. ....e fez-se a obra. De concreto e emoção. Revista Arquitetura e Urbanismo, São Paulo, nº, p.43, dez1987-jan1988. Koning, H.; Eizenberg,J. The language of the Prairie: Frank Lloyd Wright’s Prairie Houses Environment and Planning B 8:295-323. Corbusier, L.(1927) Towards a new architecture. In Essential Le Corbusier: Le Esprit Nouveau articles. Oxford: Architectural Press. Luigi, G. Oscar Niemeyer .Une esthétique de la fluidité. Marseille: Parenthèses, 1997. Mahfuz, E. O clássico o poético e o erótico. Revista Arquitetura e Urbanismo.nº 15 São Paulo, p.31- 40, dez1987-jan1988 Matoso, D.M. As obras de Oscar Niemeyer em Belo Horizonte. Mínimo Denominador Comum. Revista de Arquitetura e Urbanismo. Ano I . nº.2 . fev.2006. Disponível em <http://www.mdc.arq.br/mdc/mdc02/mdc02.htm> acesso em 18 jul 2008.'
   - 'Mayer, R. A linguagem de Oscar Niemeyer. MSc. Diss. Porto Alegre:Universidade Federal do Rio Grande do Sul, 2003.197p. Mayer, R; Turkienicz, B. Generative processes in Niemeyer’s style. In Aesthetics and Architectural Composition. Proceedings of the Dresden Symposium of Architecture 2004. Ralf Weber; Matthias Albrecht Amann eds. Mammendorf: pro Literatur, 2005a. __________________. Cognitive process styles and grammars: the cognitive approach applied to Niemeyer’s free forms. In rd Digital Design: the quest for New Paradigms. Proceedings of the 23 Conference on Education in Computer Aided Architectural Design in Europe. J. Pinto Duarte, G. Ducla-Soares, A. Z. Sampaio eds. series eCAADe Lisboa: Instituto Superior Técnico.Technical University of Lisbon, 2005b. __________________.Oscar Niemeyer curved lines: few words many sentences. In NEXUS VI: Architecture and Mathematics. Sylvie Duvernoy and Orietta Pedemonte, eds. Turin: Kim Willians Books, 2006. __________________. O Vidro na Linguagem de Niemeyer. In Comas ,C.E.D; Marques,S. (orgs.) A Segunda Idade do Vidro: Transparência e Sombra na Arquitetura Moderna do Cone Sul Americano-1930/1970. Porto Alegre:Uniritter,2007. Mayer, R; Martins,G.E.G, Turkienicz,B. Niemeyer’s Proportions Rules. In Proceedings of the V International Conference on Mathematics and Design- M&D’07. Blumenau:FURB, 2007. Mitchell,W.L..The Logic of Architecture - Design Computation and Cognition. Cambridge (MA):MIT,1990 Niemeyer, O. Conversa de arquiteto. Rio de Janeiro: Revan, 1993. __________. , As Curvas do tempo: Memórias. Rio de Janeiro: Revan,1998. __________. Oscar Niemeyer:Minha Arquitetura,1937-2004.Rio de Janeiro: Revan,2004. __________.Minha arquitetura. Rio de Janeiro: Revan,2000. __________. Museu de Arte Contemporânea de Niterói. Rio de Janeiro: Revan,2000a __________. Conversa de amigos: Correspondência entre Oscar Niemeyer e José Carlos Sussekind. Rio de Janeiro: Revan,2002. __________. Depoimento. Revista Módulo, nº9, fev 1958, pp4-5. __________. Editorial, Revista Módulo nº 48 abril/maio, 1978, pg18. Othtake,R. Oscar Niemeyer. São Paulo: Publifolha,2007. Papadaki.S.. The work of Oscar Niemeyer. New York: Reinhold,1951. _________. Oscar Niemeyer. New York: George Brazilier,1960. Pereira, M. A. Arquitetura, texto e contexto: o discurso de Oscar Niemeyer. Brasília: Editora Universidade de Brasília, 1997. Segre, R. A mesma espontaneidade original. Revista Arquitetura e Urbanismo, São Paulo, nº, p.43, dez 1987-jan 1988. Stiny, G. Pictorial and formal aspects of shape grammars: on computer generation of aesthetic objects. Basel: Birkhäuser,1975. Stiny, G. Mitchell,W.L.. The Palladian Grammar. Environment and Planning B 5 1:5-18. Turkienicz, B. Brasília: a arquitetura da crítica. Arquitetura e urbanismo, São Paulo, n. 55, p. 53-56, ago./set. Underwood, D. Oscar Niemeyer e o modernismo de formas livres no Brasil. São Paulo: Cosac e Naify, 2002.'
   file_original: 024.pdf
-
 - id: sdsul02-025
   title: Estrutura e construção do Ministério da Educação e Saúde Pública
   authors:
@@ -986,7 +961,7 @@ articles:
   file: sdsul02-025.pdf
   pages_count: 19
   abstract: O estudo faz também um resgate do material gráfico existente nos arquivos do IPHAN que tratam da estrutura do Ministério (onde dados dimensionais e projetuais são de autoria do próprio Baumgart), juntamente com imagens da obra na década de 1940. Com o auxílio deste material, foi gerada uma série de representações tridimensionais da estrutura, que além do esqueleto também compreende as lâminas verticais dos quebra- sóis da fachada norte, as fundações rasas e as empenas cegas das fachadas leste e oeste (que funcionam como contraventamento).
-  abstract_en: The theme of this article is the construction and structure of reinforced concrete in the current building Gustavo Capanema in Rio de Janeiro, which was headquarters of the Ministry of Education and Public Health to change the federal capital to Brasilia. The project of the Ministry had as the main structural challenges bracing the building, connecting the floor with pilotis the block of exhibitions, the bark of coverage of the auditorium and reduced thickness of the slab block of offices - which should provide a free roof of beams or capitals, as the current practice in most modern designs. Moreover, should also deal of constructive precedence of each of the elements above and apply them in the design of Emilio Baumgart, engineer responsible for the structural part of the building. The study is also a redemption of existing graphic material in the archives of IPHAN which deal with the structure of the Ministry (where dimensional and design data by Baumgart), along with images of the work in the 40’s. With the aid of this material was generated a series of three-dimensional representations of the structure, which besides the skeleton also includes the slides of vertical brises, foundations and blind facades of east and west (which function as bracing).
+  abstract_en: The theme of this article is the construction and structure of reinforced concrete in the current building Gustavo Capanema in Rio de Janeiro, which was headquarters of the Ministry of Education and Public Health to change the federal capital to Brasilia. The project of the Ministry had as the main structural challenges bracing the building, connecting the floor with pilotis the block of exhIBITions, the bark of coverage of the auditorium and reduced thickness of the slab block of offices - which should provide a free roof of beams or capitals, as the current practice in most modern designs. Moreover, should also deal of constructive precedence of each of the elements above and apply them in the design of Emilio Baumgart, engineer responsible for the structural part of the building. The study is also a redemption of existing graphic material in the archives of IPHAN which deal with the structure of the Ministry (where dimensional and design data by Baumgart), along with images of the work in the 40’s. With the aid of this material was generated a series of three-dimensional representations of the structure, which besides the skeleton also includes the slides of vertical brises, foundations and blind facades of east and west (which function as bracing).
   keywords:
   - concreto
   - Ministério
@@ -1009,7 +984,6 @@ articles:
   - 'VASCONCELLOS, Juliano Caldas de. Concreto Armado, Arquitetura Moderna, Escola Carioca: levantamentos e notas. Dissertação (Mestrado em Arquitetura) - Universidade Federal do Rio Grande do Sul (PROPAR), 2004 313p.'
   - 'XAVIER, Alberto. Arquitetura Moderna no Rio de Janeiro. São Paulo: Pini: Fundação Vilanova Artigas, 1991.'
   file_original: 025.pdf
-
 - id: sdsul02-026
   title: Niemeyer e Artigas
   subtitle: aproximações e divergências na busca da expressão formal da estrutura
@@ -1020,9 +994,9 @@ articles:
     email: cfbahima@unisinos.br
     primary_contact: true
   - givenname: Alex Carvalho
-    familyname: Brino
+    familyname: BRino
     affiliation: UNIVATES
-    email: alexbrino@yahoo.com.br
+    email: alexbRino@yahoo.com.br
     primary_contact: false
   section: Artigos
   locale: pt-BR
@@ -1033,7 +1007,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 026.pdf
-
 - id: sdsul02-027
   title: O Edifício Teruszkin
   authors:
@@ -1086,7 +1059,6 @@ articles:
   - 'SPALDING, Walter. Pequena História de Porto Alegre. Porto Alegre: Sulina, 1967.'
   - 'TERRA, Eloy. As Ruas de Porto Alegre. Porto Alegre: AGE, 2001.'
   file_original: 027.pdf
-
 - id: sdsul02-028
   title: Da Refinaria à Secretaria
   subtitle: racionalismo estrutural, socialismo nacional e modernismo regional em obras públicas de Fayet, Araújo & Moojen - 1962 a 1970
@@ -1143,7 +1115,6 @@ articles:
   - 'MONTANER, José Maria. Después del Movimiento Moderno. Barcelona: G.Gilli, 1993, p.55.'
   - 'SMOV, Moojen, Vallandro e Ferreira, 1966-1970. Fonte: Acervo Moojen & Marques AA. Fig. 28 – SMOV, Planta Baixa pavimento tipo com a modulação 1,25m x 1,25m. Projeto original (1966). Fonte: Acervo Moojen & Marques AA. Fig. 29 – Esquerda: Desenhos de Bruno Zevi em A Linguagem Moderna da Arquitetura, ilustrando citação de Frank Lloyd Wright. Fonte: ZEVI, Bruno. A Linguagem Moderna da Arquitectura, Lisboa, Dom Quixote, 1984, p. 50. Direita: SMOV. Fonte: Acervo Moojen & Marques AA. Fig. 30 – SMOV, Fachada Norte, Corte Transversal e ampliação da fixação do painel de fachada pré-fabricado de concreto. Projeto original (1966). Fonte: Acervo Moojen & Marques AA. Fig. 31 – SMOV, Vistas em 2008. Fonte: Fotos Sergio MMarques, 2008. Fig. 32 – Cláudio Araújo e Moacyr Moojen Marques, REFAP, 13.07.08. Fonte: Foto Sergio MMarques, 2008.'
   file_original: 028.pdf
-
 - id: sdsul02-029
   title: Pilotis, pilar, pilastra
   subtitle: variações brasileiras
@@ -1174,7 +1145,6 @@ articles:
   - 'MINDLIN, Henrique E. Modern architecture in Brazil. Rio de Janeiro: Colibris, 1956.'
   - 'WISNIK, Guilherme. Lucio Costa. São Paulo: Cosac & Naify, 2001.'
   file_original: 029.pdf
-
 - id: sdsul02-030
   title: Tecnologia das construções em cascas
   authors:
@@ -1222,7 +1192,6 @@ articles:
   - 'VASCONCELOS, A. C. Estruturas arquitetônicas: apreciação intuitiva das formas estruturais. São Paulo: Nobel, 1991.'
   - ZAGOTTIS, DECIO DE. INTRODUCAO A TEORIA DAS ESTRUTURAS. Departamento de Engenharia de Estruturas e Fundações da Escola Politécnica da USP, 1982.
   file_original: 030.pdf
-
 - id: sdsul02-031
   title: Arquitetura Moderna, Patrimônio Histórico e concreto armado
   authors:
@@ -1243,7 +1212,6 @@ articles:
   - concreto armado
   keywords_en: []
   file_original: 031.pdf
-
 - id: sdsul02-032
   title: Opus caementicius
   subtitle: da insuspeita sutileza das pedras brutas
@@ -1283,7 +1251,6 @@ articles:
   - ZEIN, Ruth Verde. A arquitetura da Escola Paulista Brutalista 1953 - 1973. Tese de doutoramento, Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
   - www.sites.univ-lyon2.fr/.../histoire/beton.html www.andra.fr/sciences/ciment/ciment1.html - 20k - www.dictionnaires.atilf.fr/dictionnaires/ACADEMIE/index.htm - 12k www.patrimoine-de-france.org/search-Qml0dW1l.html - 34k
   file_original: 032.pdf
-
 - id: sdsul02-033
   title: Belo e suave, bruto e sublime
   subtitle: notas sobre a plasticidade do concreto armado brasileiro
@@ -1302,7 +1269,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 033.pdf
-
 - id: sdsul02-034
   title: Vanguarda com gelo
   subtitle: concreto aparente e gosto eclético
@@ -1321,7 +1287,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 034.pdf
-
 - id: sdsul02-035
   title: Hormigón, Industrialización, Vivienda
   subtitle: Sert y la Ciudad de los Motores

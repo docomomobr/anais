@@ -1,25 +1,24 @@
 issue:
   slug: sdnne09
-  title: 9º Seminário Docomomo Norte/Nordeste
-  subtitle: arquitetura, paisagem, cultura. Ecos da Modernidade
+  title: 9º Seminário Docomomo Norte/Nordeste, São Luís, 2022
+  subtitle: Arquitetura, paisagem e cultura — Ecos da modernidade
   location: São Luís, MA
   year: 2022
-  volume: 1
+  volume: 3
   number: 9
   isbn: 978-65-00-56400-6
   publisher: UNDB
-  description: '9° Seminário Docomomo Norte/Nordeste: anais: arquitetura, paisagem, cultura. Ecos da Modernidade [recurso eletrônico]. São Luís: UNDB, 2022. ISBN: 978-65-00-56400-6'
-  source: https://docomomobrasil.com/course/9-seminario-docomomo-n-ne-sao-luis-2022/
-  date_published: 2022-12-09
   editors:
   - Alcília Afonso de Albuquerque e Melo
   - José Antonio Viana Lopes
+  description: '9° Seminário Docomomo Norte/Nordeste: anais: Arquitetura, paisagem e cultura — Ecos da modernidade [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes. São Luís, MA: UNDB, 2022. Disponível também em: docomomobrasil.com/course/9-seminario-docomomo-n-ne-sao-luis-2022. ISBN: 978-65-00-56400-6.'
+  source: https://docomomobrasil.com/course/9-seminario-docomomo-n-ne-sao-luis-2022/
+  date_published: '2022-12-09'
   duplicatas:
   - pdf: 51_analise_funcionalidade_pmcmv.pdf
     duplicata_de: sdnne09-036
     nota: Mesmo conteúdo do artigo 36, diferindo apenas no eixo temático (Documentação vs Paisagem)
 articles:
-
 - id: sdnne09-001
   title: A contribuição do engenheiro Freitas Diniz para a construção da cidade moderna de São Luís – MA
   subtitle: null
@@ -91,7 +90,6 @@ articles:
   - 'TODO MUNDO FOI VER O ITAQUI. CORREIO DO NORDESTE. São Luís: 3 abr. 1963.'
   - 'ZENKNER, Thaís Trovão dos Santos. São Luís no Século XIX: Uma capital em construção. 2012. In:'
   - 'PFLUEGER, Grete Soares; SALGADO NETO, José Bello (org). Aspectos Urbanos de São Luís: uma abordagem multidisciplinar. São Luís: EdUEMA, 334p., 2012. São Luís, 2022'
-
 - id: sdnne09-002
   title: Acácio Gil Borsoi e sua produção arquitetônica moderna em Teresina
   subtitle: tribunal de justiça do estado do Piauí (1972)
@@ -135,7 +133,6 @@ articles:
   - 'NEGREIROS, Ana Rosa. A produção arquitetônica de Acácio Gil Borsoi em Teresina: análise dos critérios projetuais em edifícios institucionais. 2012. 275 f. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul, Porto Alegre, 2012.'
   - 'NEGREIROS, Ana Rosa e MARQUES, Rômulo. Acácio Gil Borsoi: produção arquitetônica moderna em Teresina – Teresina: Ed. do autor, 2017.'
   - ZEIN, Ruth. Breve introdução à arquitetura paulista brutalista. Arquitextos, n. 069.01. São Paulo, Portal Vitruvius, fev. 2006 <www.vitruvius.com.br/arquitextos/arq069/arq069_01.asp> São Luís, 2022
-
 - id: sdnne09-003
   title: Adaptabilidade de soluções projetuais trazidas por imigrantes japoneses à Amazônia amapaense no período moderno
   subtitle: null
@@ -201,7 +198,6 @@ articles:
   - TEIXEIRA, Clóvis Penna. Imigrantes japoneses no Amapá. uma colonização em marcha. Amapá [Jornal]. Macapá, 20 dez. 1953.
   - 'TOSTES, José A.; WEISER, Alice Agnes. Macapá: a cidade modernista do Período Janarista de 1943 a'
   - '1955. In: SEMINÁRIO DE ARQUITETURA MODERNA NA AMAZÔNIA, 2, 2017, Palmas. Anais [...] Palmas: Universidade Federal do Tocantins, 2017.'
-
 - id: sdnne09-004
   title: Antiga receita federal de Cuiabá
   subtitle: investigação arquitetônica
@@ -266,7 +262,6 @@ articles:
   - NOVAS FRONTEIRAS. Recife, UNEMAT, 2019.
   - ROCHA, Daniella Medeiros Moreira. A pioneira arquitetura dos hotéis art déco em Goiânia – décadas de 1930 e 1950. Dissertação (Mestrado em Arte e Cultura Visual). Faculdade de Arte e Cultura Visual, Universidade Federal de Goiás, Goiânia, 2013.
   - 'SÁ, Cássio Veiga de. Memórias de um cuiabano honorário: 1939-1945. São Paulo: Editora Resenha Tributária, 1980. São Luís, 2022'
-
 - id: sdnne09-005
   title: Arquitetura e iconografia
   subtitle: construindo uma narrativa histórica sobre Teresina através de imagens do século XX
@@ -316,7 +311,6 @@ articles:
   - 'SANTOS NETO, Antônio Fonseca. Teresina 150 anos. Teresina: Jornal O Dia, 2002.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 3ªed. São Paulo: Edusp, 2010.'
   - 'WAISMAN, Marina. O Interior da História: Historiografia Arquitetônica para uso de Latino-americanos. São Paulo: Perspectiva, 2013.'
-
 - id: sdnne09-006
   title: Bina Fonyat
   subtitle: uma análise sobre sua produção arquitetônica
@@ -331,7 +325,7 @@ articles:
     primary_contact: true
   section: Artigos Completos — Documentação
   locale: pt-BR
-  file: 06_bina_fonyat.pdf
+  file: 06_bina_Fonyat.pdf
   pages_count: 15
   pages: null
   abstract: 'O artigo realiza uma análise sobre a produção arquitetônica do arquiteto baiano José Bina Fonyat Filho a partir da seleção de três projetos de sua autoria: Edifício Banco do Brasil, Edifício Barão de Itapuã e Teatro Castro Alves. Seu objetivo é destacar as suas soluções arquitetônicas e sua relação com os respectivos contextos. Tem-se como hipótese que, com o seu olhar apurado, o arquiteto consegue estabelecer um diálogo cuidadoso com tais contextos. A escolha dos exemplares se deu, de início, pela procura de edifícios com tipologias diferenciadas entre si, implantados em áreas distintas de Salvador. Dessa forma, conseguimos exprimir diferentes caminhos trilhados por Fonyat, ao trabalhar com diferentes tipologias, em distintos contextos. Enquanto método para realizar as análises de tais edifícios, tomou-se como base as fichas mínimas difundidas pelo Docomomo Internacional, que são eficazes em abordar as principais características arquitetônicas dos edifícios modernos. Assim, o artigo inicialmente apresenta o arquiteto, a seguir descreve e analisa os três projetos selecionados e suas relações contextuais e, finalmente, traça algumas considerações finais que confirmam as hipóteses assinaladas.'
@@ -359,11 +353,11 @@ articles:
   - EDIFÍCIO Banco do Brasil. Revista Acrópole, Rio de Janeiro, n.353, agosto de 1968, pp.37-39.
   - EDIFÍCIO Barão de Itapoã. Diário de Notícias, 15 dez. 1954a. p.6.
   - EDIFÍCIO Barão de Itapoã. Diário de Notícias, 19 dez. 1954b. p.5.
-  - 'ESCRITO de Arte. Bina Fonyat. São Paulo. Disponível em: <https://www.escritoriodearte.com/artista/bina- fonyat > Acesso em: 11 de jun. de 2022.'
+  - 'ESCRITO de Arte. Bina Fonyat. São Paulo. Disponível em: <https://www.escritoriodearte.com/artista/bina- Fonyat > Acesso em: 11 de jun. de 2022.'
   - 'FGM, Fundação Gregório de Matos. Bens Tombados. Prefeitura de Salvador 2019. Disponível em: <https://fgm.salvador.ba.gov.br/bens-tombados> Acesso em: 10 de jun. de 2022.'
   - FONYAT FILHO, José Bina. Carnaval. Rio de Janeiro, Editora Nova Fronteira, 1978.
   - FONYAT FILHO, José Bina. Veneziana e Vidro – A Ocorrência. Acrópole, São Paulo, nº 251, set 1959.
-  - 'GALERIA da Gavea. Carnaval, 1970. Disponível em: <http://www.galeriadagavea.com.br/artista/bina-fonyat > Acesso em: 10 de jun. de 2022. Google. 2022. Edf. Barão de Itapoã. [s.l.], Banco do Brasil Comércio [s.l.], Teatro Castro Alves. [s.l.]: Google Earth Pro.'
+  - 'GALERIA da Gavea. Carnaval, 1970. Disponível em: <http://www.galeriadagavea.com.br/artista/bina-Fonyat > Acesso em: 10 de jun. de 2022. Google. 2022. Edf. Barão de Itapoã. [s.l.], Banco do Brasil Comércio [s.l.], Teatro Castro Alves. [s.l.]: Google Earth Pro.'
   - 'LIONS Clube de Salvador. A nova cidade do Salvador. Porto Alegre: Lions Clube, 1968.'
   - PEREIRA, Ana Paula Carvalho. SAMPAIO, Sandra Georgia Chagas. Edf. Barão de Itapoã. 19--?. Trabalho apresentado à disciplina de graduação - Faculdade de Arquitetura da Universidade Federal da Bahia. Salvador, 19--?.
   - PODE ser livre o tempo todo?. O Jornal do Rio de Janeiro. Rio de Janeiro, ed. n° 13.206, 14 de jun. de 1964.
@@ -377,7 +371,6 @@ articles:
   - TEATRO Castro Alves em Salvador. Acrópole. São Paulo, ed. n° 261, pag. 232, jul. de 1960.
   - TEATRO Castro Alves. Habitat, São Paulo, n. 48, p. 10-12, maio/jun. 1958.
   - 'XAVIER, Malquisedeque. Vista panorâmica da cidade : Praia] Porto da Barra : Salvador, BA. IBGE, 1957. Disponível em: <https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=432162> Acesso em: 16 de ago. 2022'
-
 - id: sdnne09-007
   title: Clorindo Testa
   subtitle: os primeiros anos
@@ -435,7 +428,6 @@ articles:
   - 'SCHERE, R. Concursos 1825 – 2006. Buenos Aires: Sociedad Central de Arquitectos. 2008. Summa. Buenos Aires: n.6/7. Dez.1966. Summa, Buenos Aires, n. 183/184, jan/fev.1983.'
   - ZEIN, R. V. A Arquitetura da Escola Paulista Brutalista 193-1973. Tese de doutoramento, PROPAR-UFRGS, 2005.
   - 'ZEIN, R. V. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado. Maio 2007. Disponível em: www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp.'
-
 - id: sdnne09-008
   title: Conexões arquitetônicas modernas recifenses em Campina Grande/Paraíba
   subtitle: null
@@ -491,7 +483,6 @@ articles:
   - '2018. Em rede: http://uece.br/eventos/gthpanpuh/anais/trabalhos_completos/298-31620-05052017- 015145.pdf . Acesso em 19 de junho de 2020.'
   - 'ROLIM. Cristiano. Parecer técnico para o COMPEC/IPHAEP processo 0344/2010. João Pessoa: IPHAEP. 2010.'
   - 'TORRES, José Valmi Oliveira. Escola Politécnica e a construção identitária de Campina Grande como polo tecnológico (1952-1973). Campina Grande, UFCG: 2010. Dissertação de Mestrado em História – UFCG. São Luís, 2022'
-
 - id: sdnne09-009
   title: Depois do pilotis
   subtitle: novas relações de permeabilidade na Arquitetura brasileira
@@ -571,7 +562,6 @@ articles:
   - 'SEGRE, Roberto. Ministério da Educação e Saúde: ícone da modernidade brasileira 1935-1945. São Paulo: Romano Guerra, 2013.'
   - 'VASCONCELLOS, Juliano Caldas de. Concreto Armado Arquitetura Moderna Escola Carioca: levantamentos e notas. Dissertação de mestrado. Porto Alegre: Universidade Federal do Rio Grande do Sul.'
   - 'ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista (1953-1973). Tese de doutorado. Porto Alegre: Universidade Federal do Rio Grande do Sul, 2005.'
-
 - id: sdnne09-010
   title: Entre o prefabricado e o preexistente
   subtitle: a Arquitetura antiga da escola industrial de Cuiabá, MT
@@ -625,7 +615,6 @@ articles:
   - SOUZA, Yanne. Reformas IFMT [entrevista concedida a] Thaís Reis Mazine. Junho. 2022
   - KUNZE, Nádia Cuiabano. A Escola de Aprendizes Artífices de Mato Grosso (1909- 1941). 2005. 217 f. Dissertação (Mestrado) - Curso de Educação, Programa de Pós-graduação em Educação do Instituto de Educação, Universidade Federal de Mato Grosso, Cuiabá, 2005.
   - 'RASMUSSEN, Steen E. Arquitetura vivenciada. São Paulo: Martins Fontes, 2015. WÖLFFLIN, Henrich. Conceitos Fundamentais da História da Arte. São Paulo: Martins Fontes, 2000. São Luís, 2022'
-
 - id: sdnne09-011
   title: Influência da medicina e da higiene na Arquitetura moderna europeia do século XX
   subtitle: null
@@ -672,7 +661,6 @@ articles:
   - 'VERS une architecture. Mercure de France, Paris, ano 34, n. 610, 15 nov. 1923. Disponível em: https://gallica.bnf.fr/ark:/12148/bpt6k201943z/f308. Acesso em: 16 jun. 2022.'
   - 'WINTER, Pierre. Sports. L’Esprit nouveau: revue international d’esthétique, jan., n. 14, pp. 1675-1677, 1922. Disponível em: http://arti.sba.uniroma3.it/esprit/pdf/EspritNouveau-FT_14.pdf. Acesso em: 19 jun. 2022. São Luís, 2022 NOTAS 1 “[...] one of the most influential, widely read, and least understood of all the architectural writings of the twentieth century.” (BANHAM, 1960, p. 220). 2 “Qu’est-ce que l’analyse de contenu aujourd’hui? Un ensemble d’instruments méthodologiques de plus en plus raffinés et en constante amélioration s’appliquant à des ‘discours’ (contenus et contenants) extrêmement diversifiés. Le facteur commun de ces techniques multiples et multipliées [...] est une herméneutique contrôlée, fondée sur ladéduction: l’inférence. Entant qu’effort d’interprétation, l’analyse de contenu se balance entre les deux pôles de la rigueur de l’objectivité et de la fécondité de la subjectivité. [...] L’intérêt majeur de cet outil polymorphe et polyfonctionnel qu’est l’analyse de contenu reside [...] dans la contrainte qu’elle impose d’allonger le temps de latence entre les intuitions ou hypotheses de départ et les interprétations définitives.” (BARDIN, 1977, p. 13-4). 3 “[...] l’hygiène telle qu’on la comprend aujourd’hui est une science moderne. Elle est contemporaine des découvertes faites de nos jours en physique, en chimie, en physiologie et en histoire naturelle; c’est de ce mouvement qu’elle est sortie. [...] Les savants et surtout les médecins sont entrés avec enthousiasme dans cette voie nouvelle; les gens du monde les y ont suivis de loin, et l''hygiène n''a pas tardé à avoir sa littérature à part, ses congrès, ses sociétés; elle a recruté des auxiliaires dans tous les rangs et dans toutes les professions libérales.”. 4 Essa questão foi posteriormente retomada na Carta de Atenas, na qual Le Corbusier diz: “As leis de higiene universalmente reconhecidas fazem uma grave acusação contra as condições sanitárias das cidades. [...] não basta [...] encontrar uma solução; é preciso ainda que esta seja imposta pelas autoridades responsáveis. Bairros inteiros deveriam ser condenados em nome da saúde pública.” (LE CORBUSIER, 1993, observação n. 24, n.p.). 5 Para Winter, o esprit nouveau não poderia existir sem um corpo viril e eficiente. No 14º número da L’Esprit Nouveau, o médico comparou esse a uma máquina, demonstrando afinidade com a tese defendida por Le Corbusier em Vers une Architecture: “Pour obtenir d’une machine um rendement maximum avec um minimum d’usure Il faut connaître le jeu intime de tous ses organs, la nature exacte des aliments qu’elle réclame, les conditions favorables de température, de pression, etc... Pourquoi faire une exception pour l’homme?” (WINTER, 1922, p. 1675). 6 “L’évolution sociale fatale aura transformé les rapports entre locataires et propriétaires, aura modifié les conceptions de l’habitation et les Villes seront ordonnées au lieu d’être chaotiques.” (LE CORBUSIER, 1925, p. 193). 7 “Comment parler d’architecture [...] résultante de l’esprit d’une époque, au moment ou cet esprit est encore recouvert de la défroque insupportable d’une époque mourante?” (LE CORBUSIER, 1925, p. VI). 8 “Les lois de la physique seraient consécutives à cet axe, et si nous reconnaissons (et aimons) la science et ses oeuvres, c’est que les unes et l’autre nous laissent ad mettre qu’elles sont prescrites par cette volonté première.” (LE CORBUSIER, 1925, p. 170). 9 “[...] On jette aux ferrailles le vieil outil: l’escopette, la leuvrine, couleuvrine, le fiacre et la vieille locomotive.” (LE CORBUSIER, 1925, p. 5). 10 Le Corbusier prossegue: “[...] não temos o direito de produzir mal por causa de um mau instrumento [...].” (“[...] on n’a pas le droit de produire mal à cause d’un mauvais outil; on n’a pas le droit d’user sa force, sa santé et son courage à cause d’un mauvais outil; on jette, on remplace.” (LE CORBUSIER, 1925, p. 6). 11 “Cette certitude, nous la devons [...] aux découvertes qui ont éclairé d’un jour si nouveau la question des maladies infectieuses et de leur prophylaxie.” (ROCHARD, 1890, p. 11). 12 “Les ingénieurs y pourvoient et ils bâtiront.” (LE CORBUSIER, 1925, p. 7). 13 “Opérant par le calcul, les ingénieurs usent des formes géométriques, satisfaisant nos yeux par la géométrie et notre esprit par la mathématique [...].” (LE CORBUSIER, 1925, p. 13). 14 “La Guerre fut l’insatiable client, jamais satisfait, toujours exigeant mieux. La consigne était de réussir et la mort suivait implacablement l’erreur.” (LE CORBUSIER, 1925, p. 85). 15 “[...] lorsqu’on manie le calcul, on est dans un état d’esprit pur et, dans cet état d’esprit, le gout prend des chemins sûrs.” (LE'
   - 'CORBUSIER, 1925, p. 7). 16 “L’architecture [...] grecque ou romaine est une architecture de prismes, cubes et cylindres, trièdres ou sphères: [...] le Parthénon, le Colisée, la Villa Adriana.” (LE CORBUSIER, 1925, p. 16-19). 17 Como afirma o franco-suíço na passagem: “Os arquitetos deste tempo, perdidos nos ‘esboços’ estéreis de seus planos, nos arabescos, nas pilastras ou nas cumieiras (sic) de chumbo, não adquiriram a concepção dos volumes primários. Nunca ninguém lhes ensinou isso na Escola de Belas-Artes.” (LE CORBUSIER, 1973, p. 17). 18 “[...] la peinture a précédé les autres arts. La première, elle a atteint une unité de diapasón avec l’époque.” (LE CORBUSIER, 1925, p. 9). 19 “Messieurs les peintres et les sculpteurs, [...] joignez vos efforts pour que l’on reconstruise les villes.” (LE CORBUSIER, 1925, p. 10). 20 “[...] Contraste: les tapis, les coussins, les baldaquins, les papiers demassés, les meubles dorés et sculptés, les couleurs vieille- marquise ou ballets russes; tristesse morne de ce bazar d’Occident.” (LE CORBUSIER, 1925, p. 78). São Luís, 2022'
-
 - id: sdnne09-012
   title: Interpretações da História do lugar
   subtitle: Goiânia, casa erudita e casa ordinária
@@ -728,7 +716,6 @@ articles:
   - 'OLIVEIRA, Simone Borges Camargo de. Eurico Calixto de Godoi na Formação da Arquitetura Moderna em Goiânia: reflexão e esboço para catalogação. 2016. Dissertação (Mestrado em Projeto e Cidade) – Programa de Pós-Graduação da Faculdade de Artes Visuais, Universidade Federal de Goiás, Goiânia, 2016. Disponível em: http://repositorio.bc.ufg.br/tede/handle/tede/8645. Acesso em: 1º out. 2016.'
   - 'PASCAL, Ide. A arte de pensar. São Paulo: Martins Fontes, 2000.'
   - 'PEREIRA, Renata Baesso. Quatremère de Quincy e a ideia de tipo. Revista de História da Arte e Arqueologia – RHAA, n. 13, p. 55-77, jan./jul. 2010. QUATREMÈRE DE QUINCY, A. C. Type. In: Encyclopédie Methodique - Architecture. Liège: chez Panckoucke, tome 3. Paris: Librairie d’Adrien Le Clère et C.ie,1825.'
-
 - id: sdnne09-013
   title: Modernidades vernaculares
   subtitle: estudo da habitação moderna rural no Maranhão
@@ -782,7 +769,6 @@ articles:
   - 'PFLUEGER Grete e LOPES, Jose Antônio. Arquitetura do século XX in São Luís – Ilha do Maranhão e Alcântara: Guia de Arquitetura e Paisagem. 1 ed. (bilíngue). Sevilla: Dirección General de Arquitectura y Vivienda, 2008. 448 p.'
   - 'MEIRELES, M. M. França Equinocial. São Luís: Tipografia São José, 1962.'
   - MARQUES, C. S. P; AZUMA, M. H; SOARES, P. F. A importância da arquitetura vernacular. Akrópolis, Umuarama, v. 17, n. 1, p. 45-54, jan./mar. 2009. São Luís, 2022
-
 - id: sdnne09-014
   title: Moderno e eficiente
   subtitle: um estudo sobre a iluminação natural na sede do ministério da fazenda em Fortaleza
@@ -831,7 +817,6 @@ articles:
   - 'SAMPAIO NETO, Paulo Costa. Ressonâncias e inflexões do modernismo arquitetônico no Ceará: a contribuição de Gerhard Bormann. Tese de Doutorado. São Paulo: FAU/USP, 2012.'
   - TRIMBLE INC. SketchUp. Versão 2021. 2020.
   - WOLF, José. Um mestre ainda aprendiz. AU (Arquitetura & Urbanismo), São Paulo, n.84, p.35-41, jun. 1999. São Luís, 2022
-
 - id: sdnne09-015
   title: Mulheres modernas
   subtitle: quem são as arquitetas de formação moderna em São Luís, MA?
@@ -850,7 +835,7 @@ articles:
   pages_count: 12
   pages: null
   abstract: 'A análise da arquitetura moderna sob uma perspectiva da invisibilização feminina é um assunto que vem sendo tratada por diversos estudos. Em paralelo a cidade de São Luís, capital do Maranhão, tem um acervo arquitetônico moderno marcante, principalmente pelo seu contraste com a arquitetura colonial, predominante em seu centro histórico reconhecido como patrimônio mundial da UNESCO. A documentação dessas novas linguagens que começam a surgir a partir da década de 1930, demonstram as principais manifestações arquitetônicas desatreladas aos moldes coloniais. Esse artigo, aborda a necessidade de uma expansãp e revisão no campo da historiografia arquitetônica da cidade, de forma que busque a valorização da presença das mulheres, profissionais da arquitetura e do urbanismo dentro da cidade ludovicense. Objetivando a superação do problema de invisibilidade feminina a partir de um ponto inicial, o principal objetivo desse arquiteto é inserir o tema às pesquisas, instigar e incentivar novos pesquisadores a abordarem as trajetórias de arquitetas e urbanistas que colaboraram para a linguagem arquitetônica da cidade, com a exposição de nomes de mulheres formadas em arquitetura e urbanismo durante o século XX, que ajudaram a construir o acervo moderno, urbano e arquitetônico da capital. Dividindo-as em três categorias: oriundas, migrantes e peregrinas, apenas como meio metodológico de entender a circulação das profissionais no território brasileiro.'
-  abstract_en: 'The analysis of modern architecture from the perspective of female invisibility is a subject that has been addressed by several studies. In parallel, the city of São Luís, capital of Maranhão, has a remarkable modern architectural collection, mainly due to its contrast with the colonial architecture, predominant in its historic center recognized as a UNESCO world heritage site. The documentation of these new languages that began to emerge from the 1930s onwards, demonstrate the main architectural manifestations uncoupled from colonial molds. This article addresses the need for an expansion and review in the field of architectural historiography of the city, in a way that seeks to value the presence of women, professionals in architecture and urbanism within the city of São Luiz. Aiming at overcoming the problem of female invisibility from a starting point, the main objective of this architect is to introduce the theme to research, to instigate and encourage new researchers to approach the trajectories of architects and urban planners who collaborated for the architectural language of the city, with the exhibition of the names of women trained in architecture and urbanism during the 20th century, who helped to build the capital''s modern, urban and architectural collection. Dividing them into three categories: natives, migrants and pilgrims, just as a methodological means of understanding the movement of professionals in Brazilian territory.'
+  abstract_en: 'The analysis of modern architecture from the perspective of female invisibility is a subject that has been addressed by several studies. In parallel, the city of São Luís, capital of Maranhão, has a remarkable modern architectural collection, mainly due to its contrast with the colonial architecture, predominant in its historic center recognized as a UNESCO world heritage site. The documentation of these new languages that began to emerge from the 1930s onwards, demonstrate the main architectural manifestations uncoupled from colonial molds. This article addresses the need for an expansion and review in the field of architectural historiography of the city, in a way that seeks to value the presence of women, professionals in architecture and urbanism within the city of São Luiz. Aiming at overcoming the problem of female invisibility from a starting point, the main objective of this architect is to introduce the theme to research, to instigate and encourage new researchers to approach the trajectories of architects and urban planners who collaborated for the architectural language of the city, with the exhIBITion of the names of women trained in architecture and urbanism during the 20th century, who helped to build the capital''s modern, urban and architectural collection. Dividing them into three categories: natives, migrants and pilgrims, just as a methodological means of understanding the movement of professionals in Brazilian territory.'
   keywords:
   - 1.mulheres modernas
   - 2.arquitetura modernas
@@ -865,7 +850,7 @@ articles:
   - 'ANTUNES, Lia Pereira Saraiva Gil. Questões de gênero em Arquitetura: História(s), espaço(s) e experiências profissionais e arquitetônicas. Empresa Forma Efémeras, Portugal. 2016.'
   - 'BRANT, Julia. Gênero e acesso à profissão: as mulheres na arquitetura. 2019. ArchDaily Brasil. Disponível em: <https://www.archdaily.com.br/br/923054/genero-e-acesso-a-profissao-as-mulheres-na-arquitetura>. Acesso em: 20 de julho de 2020.'
   - CONSELHO DE ARQUITETURA E URBANISMO DO BRASIL. Comissão temporária de política para equidade de gênero do CAU Brasil. 1º Diagnóstico de gênero na Arquitetura e Urbanismo. 2020. CAU/BR.
-  - 'COSTA, Julia Mendonça. Arquitetos Peregrinos: A obra de Acácio Gil Borsoi em São Luís-MA. 14º Seminário Docomomo Brasil. Pará, 2021.'
+  - 'COSTA, Julia Mendonça. Arquitetos PeregRinos: A obra de Acácio Gil Borsoi em São Luís-MA. 14º Seminário Docomomo Brasil. Pará, 2021.'
   - COSTA, Julia Mendonça. O vão feminino – Historiografia arquitetônica brasileira. 14º Seminário Docomomo Brasil. Pará, 2021.
   - 'FONTES, Marina Lima de. Mulheres invisíveis: a produção feminina brasileira na arquitetura impressa no século XX por uma perspectiva feminista. Dissertação de Mestrado do Programa de Pós-Graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília. Brasília: Universidade de Brasília, 2016.'
   - 'GATÍ, Andréa. Arquitetas no Recife: uma leitura das parcerias entre casais de arquitetos formados na década de 1960. Recife, 2021.'
@@ -881,7 +866,6 @@ articles:
   - ZEIN, Ruth Verde. O Lugar da crítica. Ensaios oportunos de arquitetura. Editora Ritter dos Reis. Porto Alegre. 2003. São Luís, 2022
   - 'ZEIN, Ruth. Verde. O vazio significativo do cânon. In: V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: < http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt > Acesso: 04 Mai 2021.'
   - 'ZEIN, Ruth Verde. In: GUERRA, Abílio; LARA, Fernando Luiz; SANTOS, Silvana Romano (Org.). Leituras Críticas. São Paulo: Romano Guerra Editora, 2018. São Luís, 2022'
-
 - id: sdnne09-016
   title: Navegando no paraíso
   subtitle: casa Douglas, Richard Meier, 1971-73
@@ -964,7 +948,6 @@ articles:
   - AV MONOGRAFÍAS, n. 59, mai.-jun. 1996, p. 4-6.
   - FRAMPTON, 2008, p. 192.
   - JENCKS, 1988, p. 77. https://meierpartners.com// https://www.douglashouse.org/ São Luís, 2022
-
 - id: sdnne09-017
   title: Nordeste na historiografia da Arquitetura brasileira
   subtitle: revisando panoramas
@@ -1005,7 +988,6 @@ articles:
   - '__________. O vazio significativo do cânon. [in] V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt, acesso em 23 jun 2021.'
   - '__________. Quando documentar não é o suficiente: obras, datas, reflexões e construções teóricas. In: ZEIN, Ruth Verde. Leituras Críticas. São Paulo: Romano Guerra Editora, 2018. Cap. 5. p. 104-113. (Pensamento na América Latina; 5).'
   - '__________. Revisões historiográficas: arquitetura moderna no Brasil. Rio de Janeiro: Rio Books, 2022. São Luís, 2022'
-
 - id: sdnne09-018
   title: O aeroporto Schiphol e Marius Duintjer
   subtitle: null
@@ -1053,7 +1035,6 @@ articles:
   - 'LE CORBUSIER. Por Uma Arquitetura. São Paulo: Editora Perspectiva, Editora da Universidade de São Paulo, 1973.'
   - 'MEURS, Paul; LENT, Isabel. Schiphol: Groundbreaking airport design 1967-1975. Roterdam: Nai010 Publishers e SteenhuisMeurs, 2019.'
   - 'PENNINK, P.K.A. Marius Duintjer: Architect. Rotterdam: Tripiti,1986. Disponível em: https://repository.tudelft.nl/islandora/object/uuid%3A6a3b2a0c-9d4d-47d9-8d32- 3088aec90a36?collection=research. Acesso em: 02 abr. 2022.'
-
 - id: sdnne09-019
   title: O Brasil em Brasília
   subtitle: a contribuição dos arquitetos brasileiros para o curso de Arquitetura da universidade de Brasília (1962-1970)
@@ -1107,7 +1088,7 @@ articles:
   - JEAN, Yvonne. Artesanato Universitário. Correio Braziliense, Brasília, ed. 621, 17 mai. 1962a. Esquina de Brasília, p.4. São Luís, 2022
   - JEAN, Yvonne. Universidade de Brasília, Correio Braziliense, Brasília, ed. 633, 31 mai. 1962b. Correio Estudantil, p. 6.
   - MAURICIO, Jayme. Escola de Arquitetura de Brasília. Correio da Manhã, Rio de Janeiro, ed. 21901, 27 ago. 1964. Caderno 2, p.2.
-  - MEDIADOR TENTA solucionar crises na UnB. Correio Braziliense, Brasília, ano 1968, n.2537, 28 mar. 1968. Caderno 1, p.3.
+  - MEDIADOR TENTA soLucionar crises na UnB. Correio Braziliense, Brasília, ano 1968, n.2537, 28 mar. 1968. Caderno 1, p.3.
   - MONTEIRO, Amanda. Os planos e as experiências educacionais da FAU e da UnB. Tese (Doutorado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2021.
   - NAKANDAKARE, Fernando Shigueo. O Instituto de Arquitetos do Brasil na disseminação da Profissão do Arquiteto Moderno entre 1945-1969. 2018. Dissertação (Mestrado em Arquitetura). Universidade de Campinas, Campinas, 2018.
   - 'PEREIRA, Miguel. Ensino de Arte e Arquitetura: A experiência de Brasília (1970). In: PEREIRA, Miguel. Arquitetura e os caminhos de sua explicação. São Paulo: Projeto Editores Associados, 1984, p. 123-132.'
@@ -1123,7 +1104,6 @@ articles:
   - UNIVERSIDADE DE BRASÍLIA. Instituto Central de Artes. Relatório do Seminário de Revisão e Consolidação dos Planos de Ensino e Abertura do Projeto Cultural. Brasília, 1968.
   - UNIVERSIDADE DE BRASÍLIA. Diagnóstico do desenvolvimento da Universidade de Brasília. Brasília, 1969.
   - XAVIER, Luiz Mário. Depoimento sobre a formação na UnB. Entrevistado por Amanda Casé. Brasília, 16 ago. 2019. São Luís, 2022
-
 - id: sdnne09-020
   title: O edifício Piedade do engenheiro Judah Levy em Belém
   subtitle: modernidade, cultura técnica e sociedade
@@ -1175,7 +1155,6 @@ articles:
   - LEVY, Judah. “Os Arranha-Céus de Belém”. Revista Amazônia. Belém, ano 09, n. 92, p. 2, janeiro de 1963.
   - 'STEVENS, Garry. O círculo privilegiado: fundamentos sociais da distinção arquitetônica. Brasília: UNB, 2003.'
   - 'VENTURA NETO, Raul da Silva. Circuito Imobiliário e a cidade: coalizões urbanas e dinâmicas de acumulação do capital no espaço intraurbano de Belém. Mestrado em Arquitetura e Urbanismo, Universidade Federal do Pará, Instituto de Tecnologia, Programa de Pós-graduação em Arquitetura e Urbanismo, Belém 2012.'
-
 - id: sdnne09-021
   title: O Modernismo cearense no feminino
   subtitle: a produção arquitetônica de Nélia Romero
@@ -1228,7 +1207,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900- 1990- São Paulo: Editora da Universidade de São Paulo, 2002'
   - 'STRATIGAKOS, Despina. Where are the women architects? Princeton, Ed. Princeton University Press, 2016 São Luís, 2022 NOTAS i Entrevista disponível em: https://www.theguardian.com/artanddesign/2013/feb/17/architecture-misogyny- zaha-hadid ii Tradução da autora iii https://www.arquitetasinvisiveis.com iv Dados disponíveis em:https://www.caubr.gov.br/inedito-visao-completa-sobre-a-presenca-da-mulher-na- arquitetura-e-urbanismo/ v Dados disponíveis em: https://www.caubr.gov.br/inedito-visao-completa-sobre-a-presenca-da-mulher-na- arquitetura-e-urbanismo/ vi O presente artigo consiste no trabalho final do Curso de Especialização Projeto Arquitetônico Contemporâneo: Teoria e Prática, da Universidade Federal do Ceará, elaborado por Ingrid Teixeira Peixoto sob orientação da professora doutora Márcia Gadelha Cavalcante. vii. Em Baumhoff, Anja: “Las mujeres en la Bauhaus: un mito de la emancipación”. Carta de Gropius para Annie Weil datada de 23/02/1921. Anos mais tarde, Gropius irá incluir mulheres em seu estúdio de arquitetura nos'
   - 'EUA, há registro da arquiteta Hilda Hartke e da estudante Marianne Brandt em 1929. viiihttps://www.modefica.com.br/mulheres-nas-artes-o-machismo-da-bauhaus-e-revolucao-textil-de-gunta- stolz/#.XLFHW-hKjIU ix Tradução da autora x Tradução da autora: Onde estão as arquitetas? xi Informações obtidas em entrevista com a arquiteta, realizada em 17.04.2019 xii Informações obtidas em entrevista com a arquiteta, realizada em 02.02.2022 xiii Entrevista realizada com Nélia Romero em 04/02/2021 xiv Entrevista realizada com Nélia Romero em 04/02/2021 xv Entrevista realizada com Nélia Romero em 04/02/2021 xvi Informações disponíveis no site oficial do DER: https://www.der.ce.gov.br/2018/10/19/departamento- estadual-de-rodovias-completa-72-anos/ xvii Entrevista realizada com Nélia Romero em 17/04/2019. xviii /Entrevista realizada com Nélia Romero em 02.02.2022. xixInformações disponíveis no site: https://www.ceara.gov.br/tag/praca-luiza-tavora/ xxInformações disponíveis no site oficial: https://www.tjce.jus.br/institucional/forum-clovis-bevilaqua- institucional/ São Luís, 2022'
-
 - id: sdnne09-022
   title: O sertão também é moderno
   subtitle: o edifício do SESI em Crato, CE
@@ -1292,7 +1270,6 @@ articles:
   - 'SPADONI, Francisco. Dependência e resistência: Transição na arquitetura brasileira nos anos de 1970 e 1980. Arquitextos, São Paulo, ano 09, n. 102.00, Vitruvius, nov. 2008. Disponível em: <https://vitruvius.com.br/revistas/read/arquitextos/09.102/91>. Acesso em jun. 2022.'
   - 'TINEM, N. COTRIM, M. Urdidura da Modernidade: arquitetura Moderna na Paraíba. João Pessoa: Editora Universitária PPGAU/UFPB, 2014. 340 P. IL.'
   - 'WEINSTEIN, B. (Re) Formação da classe trabalhadora no Brasil (1920 -1964). São Paulo: Cortez, 2000. São Luís, 2022'
-
 - id: sdnne09-023
   title: Obituário digital da Arquitetura moderna em Fortaleza
   subtitle: a residência José Macedo de Acácio Gil Borsoi
@@ -1347,7 +1324,6 @@ articles:
   - VÁZQUEZ RAMOS, F. G. Redesenho. Conceitos gerais para compreender uma prática de pesquisa histórica em arquitetura. Arquitextos, São Paulo, ano 17, n. 195.09, 2016. Vitruvius, <https://vitruvius.com.br/revistas/read/arquitextos/17.195/6181>.
   - 'WAISMAN, M. O Interior da História: Historiografia Arquitetônica para uso de Latino-americanos, Perspectiva, São Paulo, 2013.'
   - WOLF, José. Acácio Gil Borsoi. Um mestre ainda aprendiz. AU Documento, São Paulo; n. 84, jun/jul. 99, p35- 41.
-
 - id: sdnne09-024
   title: Palácio da Alvorada
   subtitle: apontamentos literários e sua contribuição para a historiografia do edifício
@@ -1405,7 +1381,6 @@ articles:
   - 'PICCINATO, Luigi. Opiniões Internacionais. In: Revista Brasília, v.1, n. 23, nov. 1958. São Luís, 2022'
   - ROSSETTI, Eduardo. Arquiteturas de Brasília. Brasília, Instituto Terceiro Setor, 2012.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: EDUSP, 1999.'
-
 - id: sdnne09-025
   title: Reginaldo Esteves e a construção tectônica
   subtitle: null
@@ -1470,7 +1445,6 @@ articles:
   - 'SEMPER, G. The four elements of architecture. In: MALLGRAVE, H. F.; HERRMANN, W. (Org.). The four elements of architecture and other writings. Cambridge: Cambridge University Press, 1989.'
   - '________. Style in the Technical and Tectonic Arts; or Practical Aesthetics. 2 vol. Trad. Harry Francis Malgrave and Michael Robinson. Los Angeles: Getty Research Institute, 2004'
   - 'SENNETT, Richard. O artífice. Rio de Janeiro: Record, 2009.'
-
 - id: sdnne09-026
   title: Tão longe, tão perto
   subtitle: modernidade e tradição na obra de Nícia Paes Bormann
@@ -1529,7 +1503,6 @@ articles:
   - 'PERROT, Michelle. Os excluídos da História: operários, mulheres, prisioneiros. Rio de Janeiro: Paz e Terra, 2013.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 2002.'
   - 'TORRE, Susana (2002). Teaching Architectural History in Latin America: The Effusive Unifying Architectural Discourse. In: Journal of the Society of Architectural Historians. Vol.61.No. 4 (Dec. 2002) pp. 549-558. University of California Press. Stable URL: Http://www.jstor.org/stable/991875.'
-
 - id: sdnne09-027
   title: Adaptações e descaracterizações dos prédios modernos para novos usos
   subtitle: edifício Bequimão, em São Luís – MA
@@ -1574,7 +1547,6 @@ articles:
   - 'ROCHA, Paula Isabella de Oliveira. Estudo de viabilidade econômica do Retrofit predial em edificações antigas: uma ferramenta de auxílio para a tomada de decisão. 2019.'
   - 'SÃO LUÍS TERÁ IEMA GASTRONOMIA E NOVO RESTAURANTE POPULAR NO CENTRO HISTÓRICO. Imirante.com. Publicado em 04 mai. 2021. Disponível em: <https://imirante.com/noticias/sao- luis/2021/05/04/sao-luis-tera-iema-gastronomia-e-novo-restaurante-popular-no-centro-historico>. Acesso em: junho de 2022.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil. São Paulo: Edusp, 2002.'
-
 - id: sdnne09-028
   title: Amaro Fiúza
   subtitle: análise do Patrimônio Moderno de Campina Grande
@@ -1618,7 +1590,6 @@ articles:
   - AFONSO, Alcilia. Notas sobre métodos para a pesquisa arquitetônica patrimonial. Revista Projetar - Projeto e Percepção do Ambiente, v. 4, n. 3, pp. 54-70, dez. 2019.
   - 'GASTÓN, C; ROVIRA, T. El proyecto Moderno: Pautas de Investigación. Barcelona: Ediciones UPC, 2007.PIÑON, Helio. El sentido de la arquitectura moderna. Barcelona: Ediciones UPC,1997.'
   - 'MENESES, Camila. As residências unifamiliares de Geraldino Duda: Um estudo sobre o morar em Campina Grande nos anos 60. 2017. TCC (Graduação) – Curso de Arquitetura e Urbanismo, UFCG, Campina Grande. Disponível em: <https://issuu.com/igordantas2/docs/diagramacao_tcc_camilla__final>. Acesso em: jun. 2022. São Luís, 2022'
-
 - id: sdnne09-029
   title: Arquitetura cívica dos anos 30 e 40
   subtitle: a modernidade tradicionalista em obras de Mato Grosso
@@ -1648,7 +1619,6 @@ articles:
   - 'GOODWIN, P. L. Brazil builds: architecture new and old, 1652-1942. Nova York: The Museum of Modern Art, 1943.'
   - 'SÁ, C. V. DE. Memórias de um Cuiabano Honorário 1939-1945. Cuiabá: Resenha Tributária, 1980.'
   - 'SEGAWA, H. Arquiteturas no Brasil 1900-1990. 2a ed. São Paulo: edusp, 2002.'
-
 - id: sdnne09-030
   title: Arquitetura escolar moderna e saúde
   subtitle: estratégias projetuais de edifícios escolares paulistas (anos 1930)
@@ -1694,8 +1664,7 @@ articles:
   - PEREIRA, Ingrid et al. Manual sobre biossegurança para reabertura de escolas no contexto da COVID-19. 2020.
   - RUFINO, Ludimylla Vieira et al. A modernização do edifício escolar paulista na década de 1930 nas páginas da Revista Acrópole. Anais do 7º Seminário Ibero-americano Arquitetura e Documentação, Belo Horizonte, 2021.
   - 'SCHWARTZMAN, Simon, BOMENY, H. Mª. B., COSTA, V. Mª. R. Tempos de Capanema. Rio de Janeiro: Paz e Terra; São Paulo: EDUSP, 2000. São Luís, 2022'
-  - 'SILVA, Denise Rossato et al. Tuberculose e COVID-19, o novo dueto amaldiçoado: o que difere Brasil e Europa? Jornal Brasileiro de Pneumologia, v. 47, n. 2, pág. 1-8, 2021 São Luís, 2022'
-
+  - 'SILVA, DeNise Rossato et al. Tuberculose e COVID-19, o novo dueto amaldiçoado: o que difere Brasil e Europa? Jornal Brasileiro de Pneumologia, v. 47, n. 2, pág. 1-8, 2021 São Luís, 2022'
 - id: sdnne09-031
   title: Arquitetura moderna do século XX em São Luís
   subtitle: identificação, mapeamento e análise tipológica dos projetos comerciais de Carlos Alberto Braga Diniz
@@ -1721,7 +1690,7 @@ articles:
   file: 31_arquitetura_moderna_seculo_xx_sao_luis.pdf
   pages_count: 5
   pages: null
-  abstract: O advento do movimento moderno, trouxe para o mundo mudanças nos modos de fazer arquitetura que revolucionaram as construções mundiais, com novas técnicas, materiais, ideias e formas. É baseado nos conceitos deste movimento, bem como nos seus principais nomes, tais quais Le Corbusier, Frank Lloyd Wright e tantos outros, que Carlos Alberto Braga Diniz inicia sua obra como arquiteto na cidade de São Luís, capital do estado do Maranhão. Nascido em 30/09/1932 e falecido em 08/05/2005, formou-se no Rio de Janeiro, porém, foi na cidade de São Luís que obteve seu apogeu na arquitetura do período moderno, a partir de 1960, com projetos de edificações, residenciais, institucionais e comerciais, sendo esta o foco desta pesquisa. A pesquisa teve por objetivo, o levantamento das obras comerciais de Braga Diniz em São Luís, no intuito de trazer à tona a importância de suas obras no contexto do moderno da cidade, suas principais características construtivas, a maneira do arquiteto de projetar, a forma como resistem até os dias atuais e as mudanças sofridas no decorrer do tempo, isto por meio de fotos, entrevistas e pesquisas bibliográficas.
+  abstract: O advento do movimento moderno, trouxe para o mundo mudanças nos modos de fazer arquitetura que revoLucionaram as construções mundiais, com novas técnicas, materiais, ideias e formas. É baseado nos conceitos deste movimento, bem como nos seus principais nomes, tais quais Le Corbusier, Frank Lloyd Wright e tantos outros, que Carlos Alberto Braga Diniz inicia sua obra como arquiteto na cidade de São Luís, capital do estado do Maranhão. Nascido em 30/09/1932 e falecido em 08/05/2005, formou-se no Rio de Janeiro, porém, foi na cidade de São Luís que obteve seu apogeu na arquitetura do período moderno, a partir de 1960, com projetos de edificações, residenciais, institucionais e comerciais, sendo esta o foco desta pesquisa. A pesquisa teve por objetivo, o levantamento das obras comerciais de Braga Diniz em São Luís, no intuito de trazer à tona a importância de suas obras no contexto do moderno da cidade, suas principais características construtivas, a maneira do arquiteto de projetar, a forma como resistem até os dias atuais e as mudanças sofridas no decorrer do tempo, isto por meio de fotos, entrevistas e pesquisas bibliográficas.
   keywords:
   - Moderno
   - São Luís, Braga Diniz
@@ -1732,7 +1701,6 @@ articles:
   - FURTADO EM SÂO LUIS. Docomomo Norte/Nordeste, Teresina, 10 Ago 2016.
   - 'PFLUEGER, Grete S.; NASCIMENT, Lúcia. A memória da arquitetura moderna na cidade de São Luís no Maranhão (Brasil) no período de 1930 a 1960. Docomomo, Modernidade no Norte Nordeste Brasileiro: o diálogo entre arquitetura, tectônica e lugar / organização, Alcília Afonso. Teresina: EDUFPI, 2017; Editora Gráfica Cidade Verde.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1999; São Luís, 2022'
-
 - id: sdnne09-032
   title: Memorial Maria Aragão
   subtitle: processo de ocupação, desenvolvimento urbano e suas relações com seu entorno
@@ -1753,20 +1721,19 @@ articles:
   abstract: 'A praça e Memorial Maria Aragão está localizada no centro da cidade de São Luís, com uma posição privilegiada, às margens do Rio Anil, mais conhecida como Beira Mar, construída para homenagear a médica e ativista social maranhense. O espaço é tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN) desde 1955, devido ao seu grande valor histórico e pela posição próxima de cartões postais, como a Igreja dos Remédios e a Praça Gonçalves Dias, ambas de alto valor para a cidade e para a população maranhense. O arquiteto responsável pela obra foi o grande Oscar Niemeyer, com um projeto inovador para a cidade, dividido em três espaços: a praça, um anfiteatro e um prédio de apoio, utilizado atualmente por projetos sociais, culturais e festividades locais. O artigo tem como finalidade mostrar a origem, as ideias, como o local se encontra atualmente e seus usos, levando em consideração a sua história e o seu entorno, através de pesquisas bibliográficas e imagens do ambiente.'
   keywords:
   - memorial
-  - niemeyer
+  - Niemeyer
   - praça
   - maria
   - aragão
   references:
   - 'ALMEIDA, Ronald. MARIA ARAGÃO E OSCAR NIEMEYER: UM MEMORIAL DOS BRASILEIROS. Disponível em: http://ronalddealmeidasilva.blogspot.com/2017/04/395-arquitetura-e-urbanismo-maria.html. Acesso em: 29 mar. 2022.'
   - 'ALMEIDA, Ronald. PROJETO DE OSCAR NIEMEYER NO MARANHÃO: PRAÇA MARIA ARAGÃO NO'
-  - 'CENTRO HISTÓRICO DE SÃO LUÍS E O MUSEU DE ARTE MODERNA. Disponível em: http://ronalddealmeidasilva.blogspot.com/2016/11/322-projeto-de-oscar-niemeyer-no.html. Acesso em: 29 mar. 2022.'
+  - 'CENTRO HISTÓRICO DE SÃO LUÍS E O MUSEU DE ARTE MODERNA. Disponível em: http://ronalddealmeidasilva.blogspot.com/2016/11/322-projeto-de-oscar-Niemeyer-no.html. Acesso em: 29 mar. 2022.'
   - 'ARCHTRENDS. Memorial Maria Aragão: entenda o significado dessa obra. 2017. Disponível em: https://archtrends.com/blog/memorial-maria-aragao/. Acesso em: 07 mar. 2022.'
   - 'PACHECO, Ellis Monteiro dos Santos. O papel das normativas na preservação e ocupação do Conjunto Arquitetônico e Paisagístico de São Luís - MA. 2014. Disponível em: http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dissertacao_Ellis_Pacheco.pdf. Acesso em: 07 mar. 2022.'
-  - 'SOUZA, Eduardo. Clássicos da Arquitetura: Memorial Maria Aragão / Oscar Niemeyer. 2016. Disponível em: https://www.archdaily.com.br/br/798537/classicos-da-arquitetura-memorial-maria-aragao-oscar-niemeyer. Acesso em: 07 mar. 2022.'
+  - 'SOUZA, Eduardo. Clássicos da Arquitetura: Memorial Maria Aragão / Oscar Niemeyer. 2016. Disponível em: https://www.archdaily.com.br/br/798537/classicos-da-arquitetura-memorial-maria-aragao-oscar-Niemeyer. Acesso em: 07 mar. 2022.'
   - 'SOUSA, Karlana Bianca Matos. MEMORIAL E INSTITUTO MARIA ARAGÃO: SOBRE ESPAÇOS DE'
   - 'MEMÓRIA DAS LUTAS DA ESQUERDA NO MARANHÃO. Disponível em: http://www2.uesb.br/ppg/ppgmls/wp-content/uploads/2019/03/Disserta%C3%A7%C3%A3o-de-Karlana- Bianca-Matos-Sousa-3.pdf. Acesso em: 16 maio 2022. São Luís, 2022'
-
 - id: sdnne09-033
   title: Mulheres modernas
   subtitle: produção arquitetônica feminina no século XX e XXI em São Luís, MA
@@ -1804,7 +1771,6 @@ articles:
   - FURTADO EM SÂO LUIS. Docomomo Norte/Nordeste, Teresina, 10 Ago 2016.
   - 'PFLUEGER, Grete S.; NASCIMENTO, Lúcia. A memória da arquitetura moderna na cidade de São Luís no Maranhão (Brasil) no período de 1930 a 1960. Docomomo, Modernidade no Norte Nordeste Brasileiro: o diálogo entre arquitetura, tectônica e lugar / organização, Alcília Afonso. Teresina: EDUFPI, 2017; Editora Gráfica Cidade Verde.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1999. São Luís, 2022'
-
 - id: sdnne09-034
   title: O tijolo e o concreto na Arquitetura institucional em Goiânia (1970-80)
   subtitle: null
@@ -1844,7 +1810,6 @@ articles:
   - 'FRAMPTON, Kenneth. Studies in Tectonic Culture. The Poetics of Construction in Ninetteenth and Twentieth Century Architecture. Cambridge/ London: Graham Foundation for Advenced Studies in the Fine Arts/ The MIT Press, 1996.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: EDUSP, 1998.'
   - 'ZEIN, Ruth V.; BASTOS, Maria Alice J. Brasil: arquitetura após 1950. São Paulo: Perspectiva, 2011. São Luís, 2022'
-
 - id: sdnne09-035
   title: Os brises na Arquitetura moderna em Fortaleza
   subtitle: null
@@ -1904,7 +1869,6 @@ articles:
   - 'SAMPAIO NETO, Paulo Costa. Ressonâncias e inflexões do modernismo arquitetônico no Ceará: a contribuição de Gerhard Bormann. Tese de Doutorado. São Paulo: FAU/USP, 2012. ______, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. Dissertação de Mestrado. São Paulo: FAU/USP, 2005.'
   - 'SEGRE, Roberto; Vilas Boas, Naylor; LEITÃO, Thiago. O Ministério da Educação e Saúde Pública (1935- 1945): As inovações climáticas e tecnológicas. In: 6º Seminário DOCOMOMO Brasil, Rio de janeiro, 2010.'
   - 'TINEM, Nelci. Arquitetura Moderna Brasileira: a imagem como texto. Arquitextos, São Paulo, ano 06, n. 072.02, Vitruvius, maio 2006 <https://vitruvius.com.br/revistas/read/arquitextos/06.072/352>.'
-
 - id: sdnne09-036
   title: Análise da funcionalidade, tipologia e topologia dos projetos arquitetônicos dos conjuntos habitacionais populares do programa Minha Casa Minha Vida (PMCMV) na cidade de São Luís no Maranhão
   subtitle: null
@@ -1942,11 +1906,10 @@ articles:
   - BONDUKI, Nabil. Origens do problema da habitação popular em São Paulo. Revista Espaço e Debates, 1982.
   - 'BRASIL. Ministério das Cidades. Minha Casa, Minha Vida: 1 milhão de casas, crédito, emprego, benefícios e esperança para os brasileiros. 2009c. Disponível em: pbqp-h.com.br/arquivos/download/Cartilha_Mcmv.pdf Acesso em: 26 jan. 2021.'
   - 'DA SILVA RAMOS, Jefferson; NOIA, Angye Cássia. A construção de políticas públicas em habitação e o enfrentamento do déficit habitacional no Brasil: uma análise do Programa Minha Casa Minha Vida. Desenvolvimento em Questão, v. 14, n. 33, p. 65-105, 2016.'
-  - 'NASCIMENTO, Denise; TOSTES, Simone. Programa Minha Casa Minha Vida: a (mesma) política habitacional no Brasil. Arquitextos, São Paulo, v. 12, 2011.'
+  - 'NASCIMENTO, DeNise; TOSTES, Simone. Programa Minha Casa Minha Vida: a (mesma) política habitacional no Brasil. Arquitextos, São Paulo, v. 12, 2011.'
   - ROLNIK, Raquel; NAKANO, Kazuo. As armadilhas do pacote habitacional. Le monde diplomatique Brasil, v. 5, n. 3, p. 09, 2009.
   - 'SANTOS, Cláudio Hamilton Matos dos. Políticas federais de habitação no Brasil: 1964-1998. 1999.'
   - 'VALADARES, Lícia do Prado. Banco Nacional da Habitação (BNH). Atualização de Andrea Ribeiro Hoffmann. Disponível em: <http://www.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/banco-nacional-da- habitacao-bnh>. Acesso: 26 de Jan de 2021. São Luís, 2022'
-
 - id: sdnne09-037
   title: A conservação através do seu significado
   subtitle: o memorial Padre Cícero em Juazeiro do Norte Ceará
@@ -1991,7 +1954,6 @@ articles:
   - 'RODRIGUES, Regivania; HOLANDA, Cristina. Memorial Padre Cícero e Outras Histórias. 1. ed. Juazeiro do Norte-CE: Halley S.A. Gráfica e Editora., 2018. 132 p. v. 1. ISBN 978-85-53007-01-1. Disponível em: https://cariridasantigas.com.br/wp-content/uploads/2020/10/memorial-padre-cicero-e-outras-historias.pdf. Acesso em: 18 ago. 2022.'
   - 'VILLA SAVOYE. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2022. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Villa_Savoye&oldid=64200791>. Acesso em: 20 de ago. 2022.'
   - 'ZANACHI, Amanda. Roteiro com o melhor de Juazeiro do Norte 04 Dez 2017. Zarpo.mag. Disponível em: < https://magazine.zarpo.com.br/roteiro-com-o-melhor-de-juazeiro-norte/>. Acesso em: 23 de ago. 2022. São Luís, 2022'
-
 - id: sdnne09-038
   title: Cine São Luiz
   subtitle: o valor do ultrapassado
@@ -2061,7 +2023,6 @@ articles:
   - VARAGNOLI, C. Un restauro a parte? Palladio, v. XI, n. 22, p. 111–115, dez. 1998. Viva o Cinema São Luiz – o manifesto (assinado por 11 profissionais ligados à cultura). Jornal do Commercio, 17 out. 1996.
   - 'XAVIER, A.; BRITTO, A.; NOBRE, ANA LUIZA. Arquitetura Moderna no Rio de Janeiro. Rio de Janeiro – São Paulo: Rioarte/ Fundação Vilanova Artigas/ Pini, 1991.'
   - 'YURGEL, M.; BORTOLLI JUNIOR, O.; KAMBARA, R. DE L. Arquitetura moderna no Rio de Janeiro: referências perdidas, 1930-1960. Em: Cidade moderna e contempôranea: síntese e paradoxo das artes (Anais eletrônicos do 8o Seminário Docomomo Brasil, no Rio de Janeiro, de 1 a 4 de setembro de 2009). Rio de Janeiro: Prourb/UFRJ – Docomomo Rio, 2009.'
-
 - id: sdnne09-039
   title: Edifício colonial e o Modernismo no Centro Histórico de São Luís
   subtitle: null
@@ -2124,7 +2085,6 @@ articles:
   - 'SILVA, Joene Saibrosa da. O MODERNISMO ARQUITETÔNICO EM TERESINA (PI): A CONTRIBUIÇÃO'
   - 'DO ARQUITETO ANTONIO LUIZ DUTRA. Brasília: UNB, [20--]. Artigo – Mestrado em Arquitetura e Urbanismo, Brasília, [20--].'
   - 'ZUFFO, Élida Regina de Moraes. Pioneiros modernos: verticalização residencial em Higienópolis. São Paulo: Universidade Presbiteriana Mackenzie, 2009. Tese (Doutorado) – Doutorado em Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie, São Paulo, 2009. São Luís, 2022'
-
 - id: sdnne09-040
   title: Mural de concreto policromado da fachada do edifício Oscar Pereira
   subtitle: estudo de caso do artista Julio Espinoso
@@ -2179,7 +2139,7 @@ articles:
   - 'BRASIL. Ministério da Cultura. Instituto do Programa Monumenta. Manual de elaboração de projetos de preservação do patrimônio cultural. Elaboração: José Hailon Gomide, Patrícia Reis da Silva, Sylvia Maria Nelo Braga. Brasília: Ministério da Cultura, Instituto do Programa Monumenta, 2005.'
   - 'CAMARGO, Arildo & QUELUZ, Marilda. Tecnologia e arte: reflexões sobre o mural de Poty na UTFPR. Revista Tecnologia & Humanidades, ano 24, n. 38, jan./jun. 2010.'
   - 'CASTRO, Cleusa de. Ornamento em delito: A plasticidade das superfícies de concreto armado na arquitetura brutalista curitibana. X Seminário Docomomo Brasil- Arquitetura Moderna e Internacional: Conexões brutalistas 1955-75, PUCPR. Curitiba, 2013.'
-  - 'CAVALCANTE, Neusa. Athos Bulcão: Da arte e arquitetura um poeta de formas e cores. Fundação Athos Bulcão. Brasília, 2009. Disponível em: <https://www.fundathos.org.br/pdf/Da%20arte%20a%20arquitetura%20- %20Neusa%20Cavalcante%20port.pdf> Acesso em 15 de agosto de 2022.'
+  - 'CAVALCANTE, Neusa. Athos Bulcão: Da arte e arquitetura um poeta de formas e cores. Fundação Athos Bulcão. Brasília, 2009. Disponível em: <https://www.fundAthos.org.br/pdf/Da%20arte%20a%20arquitetura%20- %20Neusa%20Cavalcante%20port.pdf> Acesso em 15 de agosto de 2022.'
   - 'CETOR MANUTENÇÃO PREDIAL LTDA. Disponível em: https://cetormanutencao.com.br/. Acesso em 20 de agosto de 2022'
   - 'COELHO, Isabel Ruas Pereira. A Produção de Painéis em Mosaico no Período Pós-Guerra em São Paulo: Industrialização e Modernidade Versus Tradição Artesanal. In: Anais do 5º Seminário DOCOMOMO Brasil, 2003.'
   - COUTO, Heloisa Helena & CAMARA, Jairo José Drummond. A interdisciplinaridade na conservação e restauro de bens artísticos - culturais da arquitetura moderna. UNOPAR Cient., Ciênc. Exatas. Tecnol., Londrina, v. 6, p. 73-76, nov. 2007.
@@ -2198,7 +2158,6 @@ articles:
   - SEILZLEIN, Lucas; MASSOTTI, Ana Paula; FILHO, Lino Roberto Bracht; ANTUNES, Marco Aurelio; ANJOS, Marcelo França dos. Concreto armado e sua plasticidade através da obra de Oscar Niemeyer e Vilanova Artigas. Anais do 14º Encontro Científico Cultural Interinstitucional, Centro Universitário FAG. Cascavel, 2016.
   - 'OCANA, Julio S. Espinoso. A Pousada dos Artistas. Disponível em: https://www.apousadadosartistas.com/blog-os-artistas/julio-espinoso. Acesso em 20 agosto de 2022'
   - 'XAVIER, Alline de Assis. De Galícia à Niterói: A (re)construção da identidade espanhola. UERJ, São Gonçalo, 2010.133p São Luís, 2022'
-
 - id: sdnne09-041
   title: O cine teatro municipal de Barbalha – CE
   subtitle: uma proposta de requalificação
@@ -2221,7 +2180,7 @@ articles:
     primary_contact: false
   section: Artigos Completos — Conservação
   locale: pt-BR
-  file: 41_cine_teatro_barbalha.pdf
+  file: 41_cine_teatro_Barbalha.pdf
   pages_count: 15
   pages: null
   abstract: A cidade de Barbalha possui apelo cultural presente em diversos grupos culturais e é reconhecida pelas comemorações realizadas anualmente ao padroeiro da cidade. O objetivo deste trabalho é o desenvolvimento de uma proposta de requalificação para o Cine Teatro Municipal Neroly Filgueira, de forma que atenda às novas demandas físicas, tecnológicas e sociais para que o edifício passe a servir a população de forma efetiva. Justificado a necessidade pela constatação da deterioração do imóvel institucional pertencente ao município de Barbalha. A metodologia para analise da edificação utilizada no trabalho é baseada na proposta desenvolvida no grupo de pesquisa Restauração e Preservação do Patrimônio edificado da universidade Federal do Rio de Janeiro. A proposta para elaboração do diagnóstico se dá em duas vertentes, na primeira etapa se estuda o edifício como parte do contexto histórico em que está inserido e na segunda fase o objeto físico é analisado através de levantamento arquitetônico incluindo seu entorno. Com este trabalho, espera-se propor um equipamento público que contribua para preservar a história da cidade que o bem patrimonial possa ser utilizado como alternativa de lazer e aprendizado tanto pela população local como turistas e visitantes.
@@ -2250,7 +2209,7 @@ articles:
   - 'CONSELHO DA EUROPA. Declaração de Amsterdã. Amsterdã: Congresso Do Patrimônio Arquitetônico Europeu, 1975. _______CARTA DE CRACÓVIA: princípios para a conservação e o restauro do património construído. Cracóvia: Polônia, 2000. DVOŘÁK, M. Catecismo da preservação de monumentos. São Paulo: Ateliê Editorial, 2008.'
   - 'DICIONÁRIO ONLINE DE PORTUGUêS. Foyer. Disponível em: <https://www.dicio.com.br/foyer/>. Acesso em: 31 maio 2019.'
   - 'ESCRITÓRIO INTERNACIONAL DE MUSEUS. Carta de Atenas I. Atenas: Conclusões Gerais e Deliberações da Sociedade das Nações, 1931.'
-  - 'FORTALEZA. Superintendência do Iphan/ce. Instituto do Patrimônio Histórico e Artístico Nacional – Iphan (Org.). DOSSIÊ DE REGISTRO: FESTA DO PAU DA BANDEIRA DE SANTO ANTÔNIO DE BARBALHA. Fortaleza: Iphan, 2015. 228 f. Disponível em: São Luís, 2022 <http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dossie_festa_pau_da_bandeira_santo_ant%C3%B4nio_ barbalha.pdf>. Acesso em: 7 mar. 2019.'
+  - 'FORTALEZA. Superintendência do Iphan/ce. Instituto do Patrimônio Histórico e Artístico Nacional – Iphan (Org.). DOSSIÊ DE REGISTRO: FESTA DO PAU DA BANDEIRA DE SANTO ANTÔNIO DE BARBALHA. Fortaleza: Iphan, 2015. 228 f. Disponível em: São Luís, 2022 <http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dossie_festa_pau_da_bandeira_santo_ant%C3%B4nio_ Barbalha.pdf>. Acesso em: 7 mar. 2019.'
   - 'IBGE. Brasil em Síntese, Ceará, Barbalha, Pesquisa MUNIC - Suplemento Cultura Órgão gestor da cultura: Perfil dos municípios brasileiros. Disponível em: <https://munic.ibge.gov.br/>. Acesso em: 11 maio 2019. IPHAN: Instituto do Patrimônio Histórico e Artístico Nacional. PAC Cidades Históricas. Disponível em: <http://portal.iphan.gov.br/pagina/detalhes/235>. Acesso em: 31 maio 2019.'
   - ICOMOS (Org.). DECLARAÇÃO DE QUÉBEC. Québec, 2008. 16ª Assembleia Geral do ICOMOS.
   - ICOMOS (Org.). Carta de Veneza. Carta internacional sobre a conservação e o restauro de monumentos e sítios. Veneza, Itália. II Congresso Internacional de Arquitetos e Técnicos de Monumentos Históricos.
@@ -2259,7 +2218,6 @@ articles:
   - RIBEIRO, Rosina Trevisan M.. METODOLOGIA DE PROJETO DE RESTAURO E OS LIMITES DA
   - 'INTERVENÇÃO. 2003. Disponível em: <http://www.rb.gov.br/dados/DOC/palestras/memo_info/mi_2004/FCRB_MemoriaInformacao_RosinaTrevisan .pdf>. Acesso em: 19 maio 2019..'
   - KÜHL, Beatriz Mugayar. História e Ética na Conservação e na Restauração de Monumentos Históricos. R. Cpc, São Paulo, v. 1, n. 1, p.16-40, nov. 2005. São Luís, 2022
-
 - id: sdnne09-042
   title: Patrimônio inteligente e documentação da protomodernidade
   subtitle: utilização de VANT para imageamento da Estação Nova de Campina Grande, PB
@@ -2323,7 +2281,6 @@ articles:
   - SILVA, G.; GOMES, G. Utilização de VANT como ferramenta de imageamento e geração de modelo tridimensional em substituição ao laser scanner. Fundação de Ensino e Pesquisa do Sul de Minas, Minas Gerais, 2020.
   - 'SOUZA, M. A. de; FIGUEIREDO JÚNIOR, P. M. de. Memória do urbano: a estação ferroviária nova de Campina Grande [PB]: a partir dos relatos de ex-ferroviários. Labor e Engenho, Campinas, SP, v. 12, n. 3, p. p.411–424,'
   - '2018. DOI: 10.20396/labore.v12i3.8652850. Disponível em: https://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8652850. Acesso em: 23 jun. 2022. São Luís, 2022'
-
 - id: sdnne09-043
   title: Sede do BNB de Juazeiro do Norte, CE
   subtitle: a influência arquitetônica Modernista em seu partido
@@ -2388,7 +2345,6 @@ articles:
   - 'SIQUEIRA, Cristiane de Araújo Alves. Neudson Braga e o Modernismo Arquitetônico em Fortaleza. Fortaleza: Mestrado em Arquitetura e Urbanismo e Design da Universidade Federal do Ceará, 2018.'
   - 'SOARES, C. S. De Povoado à Cidade: A Produção do Espaço Urbano de Juazeiro do Norte/CE (1870-1930). In. PEIXOTO, Elane Ribeiro; PALAZZO, Pedro P.; DERNTL, Maria Fernanda; TREVISAN, Ricardo. (orgs.) Tempos e Escalas da Cidade e do Urbanismo. XIII Seminário de História da Cidade e do Urbanismo. Brasília: Editora FAU–UnB,2014. ISBN 978-85-60762, pp.19-4.'
   - 'ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Porto Alegre: Doutorado em Arquitetura pela Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul, 2005.'
-
 - id: sdnne09-044
   title: Conservação do patrimônio arquitetônico
   subtitle: um estudo sobre a Estação Ferroviária engenheiro Dória em Barbalha – Ceará
@@ -2411,7 +2367,7 @@ articles:
     primary_contact: false
   section: Resumos Expandidos — Conservação
   locale: pt-BR
-  file: 44_conservacao_estacao_barbalha.pdf
+  file: 44_conservacao_estacao_Barbalha.pdf
   pages_count: 5
   pages: null
   abstract: A conservação do patrimônio é fundamental para a preservação dos bens e a sua perpetuação para as gerações futuras. Com o objetivo de compreender melhor a proteção patrimonial, este trabalho trará uma análise acerca da preservação do patrimônio através da reflexão de como os serviços de manutenção patrimonial estão sendo realizados em um edifício histórico em Barbalha, Ceará. Para alcançar este propósito, realizou-se uma pesquisa de caráter exploratório e abordagem qualitativa por meio de estudo de caso da antiga estação ferroviária de Barbalha. Foi necessário visita ao imóvel para realizar levantamento arquitetônico e posterior confecção de mapa de danos das fachadas. Por meio destes instrumentos, foi possível fazer uma breve avaliação do local onde a edificação está inserida, o seu estado de conservação e as estratégias adotadas para a “restauração” do edifício. Com base nos resultados obtidos mediante o estudo produzido, pode-se perceber que as medidas escolhidas para a intervenção estão apenas mascarando os problemas encontrados, negligenciando e colocando em risco a vida útil da edificação.
@@ -2425,7 +2381,6 @@ articles:
   - 'GALVÃO, R. M. Ferrovias no Ceará: suas tramas políticas e seus impactos econômicos e culturais (1870- 1930). 2019. 171 f. Dissertação (Mestrado em História) – Programa de Pós-Graduação em História, Centro de Humanidades, Universidade Federal de Campina Grande, Paraíba, Brasil, 2019. São Luís, 2022'
   - 'SARAIVA, Elionardo; SOARES, Igor de Menezes; SILVA, Ítala Byanca M. Dossiê de registro: festa do Pau da Bandeira de Santo Antônio de Barbalha. Fortaleza: IPHAN, 2015.'
   - 'SEVERINO, Antônio Joaquim. Metodologia do trabalho científico. 1 ed. São Paulo: Cortez, 2013. 274 p. ISBN: 9788524920813. São Luís, 2022'
-
 - id: sdnne09-045
   title: Modernidades em Alcântara – MA
   subtitle: análise do plano de recuperação de Pedro e Dora Alcântara de 1971 como um olhar moderno sobre a cidade-museu
@@ -2474,7 +2429,6 @@ articles:
   - 'PFLUEGER, Grete. De Tapuitapera a Villa D’Alcântara: composição urbana e arquitetônica de Alcântara no Maranhão. 2002. Tese (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2002.'
   - '______. Redes e Ruínas: Apogeu e declínio de uma cidade: O caso de Alcântara-MA. 1ª ed. São Luís: Ed.'
   - UEMA, 2018. São Luís, 2022
-
 - id: sdnne09-046
   title: Abordagem tectônica na leitura de obras residenciais
   subtitle: estudo de caso Lina Bo Bardi
@@ -2536,7 +2490,6 @@ articles:
   - 'SILVA, Erick Oliveria. O tectônico presente na obra do Tribunal de Justiça do Piauí. In: SEMINARIO'
   - 'DOCOMOMO BRASIL, 13º, 2019, Salvador. Anais do 13º Seminário Docomomo Brasil. Disponível em: <https://docomomobrasil.com/wp-content/uploads/2020/04/111017.pdf>. Acesso em: 18 fev. 2021.'
   - TANNURI, Fabiana Luz. O processo criativo de Lina Bo Bardi. 2008. Tese (Doutorado em Arquitetura e Urbanismo)- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo.São Paulo, 2008
-
 - id: sdnne09-047
   title: Arte, Arquitetura e paisagem
   subtitle: o rural de Minas Gerais pelos olhos de Tarsila do Amaral
@@ -2551,7 +2504,7 @@ articles:
     primary_contact: true
   section: Artigos Completos — Cultura
   locale: pt-BR
-  file: 47_arte_arquitetura_paisagem_tarsila.pdf
+  file: 47_arte_arquitetura_paisagem_Tarsila.pdf
   pages_count: 14
   pages: null
   abstract: Tem como objeto de pesquisa obras selecionadas da artista brasileira Tarsila do Amaral em sua fase Pau- Brasil (1924-1928) que abordam cenas da paisagem rural edificada de Minas Gerais. Aborda a relação existente entre arte e arquitetura, tendo como hipótese que as obras da artista podem nos permitir uma relação de suas representações de pintura de paisagem com os contextos sociais, políticos, construtivos e arquitetônicos de sua época de produção. Objetiva compreender os entrelaçamentos de suas obras com tais contextos, ao passo que estabelece paralelos entre a arte e realidades construtivas, convergindo a arquitetura e cultura artística brasileira. O norte metodológico advém da didática desenvolvida por Fayga Ostrower em seu livro Universos da Arte (2013), partindo da premissa de como a vivência e contexto que o artista se insere reflete em sua obra. Em Tarsila é possível observar essa relação e identificar como suas representações comunicam a história arquitetônica e construtiva do local retratado, aqui enfatizando a paisagem rural de Minas Gerais.
@@ -2574,7 +2527,6 @@ articles:
   - 'CORTEZ, L. Por ocasião da descoberta do Brasil: três modernistas paulistas e um poeta francês no país do ouro. Minas Gerais, 2010.'
   - 'CRUZ, C. Fazendas do Sul de Minas Gerais: Arquitetura Rural nos séculos XVIII e XIX. Brasília, DF: Iphan / Programa Monumenta, 2010.'
   - 'REIS FILHO, N. G. Cultura e estratégias de desenvolvimento. In: LORENZO, H. C.; COSTA, W.P. (org.). A década de 1920 e as origens do Brasil Moderno. São Paulo: Unesp, 1997. p. 143-158.'
-
 - id: sdnne09-048
   title: Modernização Ludovicense
   subtitle: ponte governador José Sarney e os ecos da modernidade
@@ -2619,10 +2571,9 @@ articles:
   - 'QUEIROZ, Luziana Maria Nunes de. Tese (Doutorado em Desenvolvimento e Meio Ambiente. – Universidade Federal do Rio Grande do Norte. Expansão urbana e vulnerabilidades citadina: carto(grafias) socioeconômica e de infraestrutura urbana. Natal, p. 111. 2018.'
   - 'RIBEIRO JÚNIOR, José Reinaldo Barros. Formação urbana de São Luís: 1612-1991. São Luís: Edições'
   - 'VASCONCELOS, Paulo Eduardo Silva de. Monografia (Graduação em Arquitetura e Urbanismo) – Universidade Estadual do Maranhão. “Habitação Social em São Luís do Maranhão: Um estudo sobre a produção de habitação dos Institutos de Previdência e do Banco Nacional de Habitação. São Luís, p. 3-9. 2007. São Luís, 2022'
-
 - id: sdnne09-049
   title: O recôncavo e o reconvexo
-  subtitle: Lina bo nas encruzilhadas de Salvador (1958-1964 e 1986-1989)
+  subtitle: Lina Bo nas encruzilhadas de Salvador (1958-1964 e 1986-1989)
   authors:
   - givenname: Mariana
     familyname: Moretzsohn
@@ -2667,7 +2618,6 @@ articles:
   - 'ROSSETTI, Eduardo Pierrotti. Tensão moderno/popular em Lina Bo Bardi: nexos de arquitetura. Dissertação de Mestrado. Salvador: FAU-UFBA, 2002.'
   - 'RUBINO, Silvana; GRINOVER, Marina (org). Lina por escrito: textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.'
   - 'VERGER, Pierre. Fluxo e refluxo: Do tráfico de escravos entre o Golfo do Benim e a Bahia de Todos-os- Santos, do século XVII ao XIX / Pierre Verger; tradução Tasso Gadzanis; prefácio Ciro Flamarion S. Cardoso; posfácio João José Reis. São Paulo: Companhia das Letras, 2002. São Luís, 2022'
-
 - id: sdnne09-050
   title: Aproximações entre Lina Bo Bardi e Glauber Rocha
   subtitle: null

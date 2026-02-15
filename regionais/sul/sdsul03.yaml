@@ -1,22 +1,21 @@
 issue:
   slug: sdsul03
   title: 3º Seminário Docomomo Sul, Porto Alegre, 2010
-  subtitle: 'Primitivismo e inovação na Arquitetura do cone sul americano, 1930/70: madeira'
-  description: 'COMAS, Carlos Eduardo; MAHFUZ, Edson; CATTANI, Airton; MARQUES, Sérgio (org.). Anais do III Seminário do.co.mo.mo_sul, Primitivismo e inovação na arquitetura do cone sul americano 1930/70 [recurso eletrônico]. Porto Alegre: PROPAR/UFRGS, 2010. 1 CD-ROM. ISBN 978-85-60188-11-6.'
+  subtitle: 'Madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970'
   year: 2010
-  volume: 1
+  volume: 4
   number: 3
-  date_published: '2010-11-08'
   isbn: 978-85-60188-11-6
-  publisher: PROPAR/UFRGS
+  publisher: Núcleo Docomomo RS / PROPAR-UFRGS
   editors:
   - Carlos Eduardo Comas
   - Edson Mahfuz
   - Airton Cattani
   - Sérgio Marques
+  description: '3° Seminário Docomomo Sul: anais: Madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas et al.. Porto Alegre, RS: PROPAR-UFRGS, 2010. Disponível também em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul. ISBN: 978-85-60188-11-6.'
   source: https://www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/
+  date_published: '2010-11-08'
 articles:
-
 - id: sdsul03-001
   title: Dissolução das paredes
   subtitle: painéis e móveis de madeira como limites espaciais nas obras de Rino Levi
@@ -43,10 +42,9 @@ articles:
   - mobile-divisions
   - spatial fluidity
   references:
-  - 'Anelli, Renato Luiz Sobral, Guerra, Abílio e kon, Nelson. “Rino Levi. Arquitetura e Cidade”. São Paulo: Romano Guerra Editora, 2001. Arredi, Marina Pia. “La casa unifamiliare del novecento: un secolo di architettura abitativa”. Torino: UTET, 2007. Cunha, Marcio Cotrim. “Diálogos imaginários: Marcel Breuer e Vllanova Artigas”. Vitruvius, 2005. http://www.vitruvius.com.br/arquitextos/arq000/esp330.asp. (Maio 07, 2008) Hubner, Carlos Alberto. “O pátio na arquitetura brutalista de São Paulo nos anos 50,60 e 70”. Porto Alegre: UFRGS – PROPAR , 2003 (Dissertação de mestrado) Irigoyen, Adriana. “Da Califórnia a São Paulo: a casa americana e a arquitetura moderna paulista (19451960)”. In Anais do I Seminário Docomomo Sul. Porto Alegre: UFRGS, 2006. Irigoyen, Adriana. “Wright e Artigas: Duas Viagens”. São Paulo: Ateliê Editorial e FAPESP, 2002. Leatherbarrow, David. “Espaço Dentro e Fora da Arquitetura”. ARQtexto 12, 2008. http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/01_DL_espa%C3%A7o_300409.pdf (Maio 07, 2010) Mahfuz, Edson. “Categorias espaciais”. Revista AU. http://www.revistaau.com.br/arquiteturaurbanismo/176/imprime116546.asp (Maio 07, 2010) Mezzadri. Humberto. “Mies no Weissenhof”. ARQtexto 13, 2008. http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_13/02_humberto%20mezzadri.pdf. (Maio 07, 2010) Miguel, Jorge Marão C. “As Casas de Rino Levi: Um Estudo de Concepção Espacial”. São Carlos: EESCUSP, 1985 (Dissertação de Mestrado) Miguel, Jorge Marão C. “A Casa”. Londrina: Eduel, São Paulo: Imprensa Oficial do Estado de São Paulo, 2003. “REVISTAS Arts & Architecture”. http://www.artsandarchitecture.com/case.houses/houses.html Sanvitto, Maria Luiza. “Brutalismo, uma análise compositiva de residências paulistanas entre 1957 e 1971”. Porto Alegre: UFRGS – PROPAR, 1997. (Dissertação de Mestrado) Serapião, Fernando. “Entre desenho e obra, uma trajetória perfeccionista”. Acoweb, 2007. http://www.arcoweb.com.br/arquitetura/arquitetura794.asp (Maio 07, 2008) Serapião, Fernando. “Esquecido pelos historiadores. Outra montanha mágica”. Acoweb, 2008. http://www.arcoweb.com.br/debate/debate118.asp (Maio 07, 2008) Smith, Elizabeth A. T. “Case Study Houses”. Taschen: Alemanha, 2006. Smith, Elizabeth A. T. “Case Study Houses: The Complete CSH program 1945-1966”.Taschen: Alemanha, 2009.'
+  - 'Anelli, Renato Luiz Sobral, Guerra, Abílio e kon, Nelson. “Rino Levi. Arquitetura e Cidade”. São Paulo: Romano Guerra Editora, 2001. Arredi, Marina Pia. “La casa unifamiliare del novecento: un secolo di architettura abitativa”. ToRino: UTET, 2007. Cunha, Marcio Cotrim. “Diálogos imaginários: Marcel Breuer e Vllanova Artigas”. Vitruvius, 2005. http://www.vitruvius.com.br/arquitextos/arq000/esp330.asp. (Maio 07, 2008) Hubner, Carlos Alberto. “O pátio na arquitetura brutalista de São Paulo nos anos 50,60 e 70”. Porto Alegre: UFRGS – PROPAR , 2003 (Dissertação de mestrado) Irigoyen, Adriana. “Da Califórnia a São Paulo: a casa americana e a arquitetura moderna paulista (19451960)”. In Anais do I Seminário Docomomo Sul. Porto Alegre: UFRGS, 2006. Irigoyen, Adriana. “Wright e Artigas: Duas Viagens”. São Paulo: Ateliê Editorial e FAPESP, 2002. Leatherbarrow, David. “Espaço Dentro e Fora da Arquitetura”. ARQtexto 12, 2008. http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/01_DL_espa%C3%A7o_300409.pdf (Maio 07, 2010) Mahfuz, Edson. “Categorias espaciais”. Revista AU. http://www.revistaau.com.br/arquiteturaurbanismo/176/imprime116546.asp (Maio 07, 2010) Mezzadri. Humberto. “Mies no Weissenhof”. ARQtexto 13, 2008. http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_13/02_humberto%20mezzadri.pdf. (Maio 07, 2010) Miguel, Jorge Marão C. “As Casas de Rino Levi: Um Estudo de Concepção Espacial”. São Carlos: EESCUSP, 1985 (Dissertação de Mestrado) Miguel, Jorge Marão C. “A Casa”. Londrina: Eduel, São Paulo: Imprensa Oficial do Estado de São Paulo, 2003. “REVISTAS Arts & Architecture”. http://www.artsandarchitecture.com/case.houses/houses.html Sanvitto, Maria Luiza. “Brutalismo, uma análise compositiva de residências paulistanas entre 1957 e 1971”. Porto Alegre: UFRGS – PROPAR, 1997. (Dissertação de Mestrado) Serapião, Fernando. “Entre desenho e obra, uma trajetória perfeccionista”. Acoweb, 2007. http://www.arcoweb.com.br/arquitetura/arquitetura794.asp (Maio 07, 2008) Serapião, Fernando. “Esquecido pelos historiadores. Outra montanha mágica”. Acoweb, 2008. http://www.arcoweb.com.br/debate/debate118.asp (Maio 07, 2008) Smith, Elizabeth A. T. “Case Study Houses”. Taschen: Alemanha, 2006. Smith, Elizabeth A. T. “Case Study Houses: The Complete CSH program 1945-1966”.Taschen: Alemanha, 2009.'
   file_original: 01_Ana-Elisia-Costa.pdf
   page_count: 19
-
 - id: sdsul03-002
   title: O uso de madeira em duas casas de Carlos Millan
   subtitle: manufatura rudimentar e industrialização
@@ -93,7 +91,6 @@ articles:
   - Revista Projeto, n. 125, 1989, pp.51-91.
   file_original: 01a_Anna-Pula-Koury.pdf
   page_count: 25
-
 - id: sdsul03-003
   title: Madeira como material de projeto no Brasil moderno
   authors:
@@ -118,7 +115,6 @@ articles:
   - tectonics
   file_original: 02_Andrea-Berriel.pdf
   page_count: 23
-
 - id: sdsul03-004
   title: A modernidade em madeira
   subtitle: os vãos livres do Pavilhão das Indústrias na Exposição Farroupilha de 1935
@@ -150,7 +146,6 @@ articles:
   keywords_en: []
   file_original: 02a_Claudio-Calovi-Pereira.pdf
   page_count: 12
-
 - id: sdsul03-005
   title: O Vivaldão e o Chapéu de Palha
   subtitle: a arena decorada e a oca civilizada
@@ -180,7 +175,6 @@ articles:
   - wood
   file_original: 03_Andrea-Soler-Machado.pdf
   page_count: 26
-
 - id: sdsul03-006
   title: Os móveis do Branco & Preto
   subtitle: originais e reeditados — 1952-2010
@@ -200,7 +194,6 @@ articles:
   keywords_en: []
   file_original: 03a_Marlene-Acayaba.pdf
   page_count: 16
-
 - id: sdsul03-007
   title: Far west & modernismo candango
   authors:
@@ -236,7 +229,6 @@ articles:
   - 'Imagem 5. Posto de Abastecimento Atlantic. Fonte: Arquivo Histórico do Distrito Federal'
   file_original: 04_Andrey-Rosenthal-Schlee.pdf
   page_count: 14
-
 - id: sdsul03-008
   title: Estilo para viagem
   authors:
@@ -259,7 +251,6 @@ articles:
   - ambiance
   file_original: 04a_Marta-Peixoto.pdf
   page_count: 14
-
 - id: sdsul03-009
   title: Mata-Borrão
   subtitle: um grande olho de madeira no centro da Porto Alegre da década de 60
@@ -287,7 +278,6 @@ articles:
   - modern architecture
   file_original: 05_Anna-Paula-Canez.pdf
   page_count: 17
-
 - id: sdsul03-010
   title: Geometrias sensíveis
   subtitle: as tramas e treliças na arquitetura antiga e moderna no Brasil
@@ -312,7 +302,6 @@ articles:
   keywords_en: []
   file_original: 05a_Margareth-da-Silva-Pereira.pdf
   page_count: 14
-
 - id: sdsul03-011
   title: Ícaro de Castro Mello e o Ginásio de esportes noroeste de Bauru, SP, 1950-1960
   subtitle: arcos de madeira contraplacada em moderna arquitetura esportiva
@@ -347,7 +336,6 @@ articles:
   - 'AA.Constructions Sportives – Actualités (1966). Hall de Sport a Bauru, Brésil, AA. Constructions Sportives – Actualités, (s.l.), (s.e.), n. 76, p.38. Acrópole (1953). São Paulo, Editora Gruenwald & Cia, n.77. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Ed. Perspectiva, 1981. MORAES, Renato de (org.). Os frutos da terra. (s.l.). 1988. RODRIGUES, Sergio 1958. Tendência do Móvel Moderno, Módulo, Rio de Janeiro, Módulo Ltda, n.11, vol.2, dez., p.26-29. SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1997. SOUZA, Abelardo de. Arquitetura no Brasil: depoimentos. São Paulo: Diadorim/USP, 1978.'
   file_original: 06_Artemis-Rodrigues-Fontana.pdf
   page_count: 15
-
 - id: sdsul03-012
   title: Formas de madeira e pré-fabricação
   subtitle: idealismo e pragmatismo em duas casas de Paulo Mendes da Rocha
@@ -376,7 +364,6 @@ articles:
   - 'Piñón, Helio. Paulo Mendes da Rocha. São Paulo: Romano Guerra, 2002. Rowe, Colin. Manierismo y Arquitectura Moderna y otros ensayos. Barcelona: Gustavo Gili,1978. Zein, Ruth Verde. A Arquitetura da Escola Paulista Brutalista – 1953 – 1973. Tese de Doutorado, PROPAR/UFRGS, 2005.'
   file_original: 07_Carlos-Fernando-Bahima.pdf
   page_count: 20
-
 - id: sdsul03-013
   title: Artigas Pop-Cult
   subtitle: considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira
@@ -400,7 +387,6 @@ articles:
   keywords_en: []
   file_original: 07a_Ruth-Verde-Zein.pdf
   page_count: 15
-
 - id: sdsul03-014
   title: A trajetória da membrana protetora de madeira ao longo de uma história brasileira
   subtitle: tradição e modernidade
@@ -430,7 +416,6 @@ articles:
   - 'Almada, Mauro. Irmãos Roberto: A invenção a serviço da boa técnica. Rio de Janeiro: Revista Vivercidades, 2010. Disponível em: <http://www.vivercidades.org.br/publique_222/web/cgi/cgilua.exe/sys/start.htm?infoid=1535&sid=5>. Acesso em 21 jul. 2010, 14:00. Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva. 1981. Comas, Carlos Eduardo Dias. Lucio Costa e a revolução na arquitetura brasileira 30/39: de lenda(s e) Le Corbusier. São Paulo: Vitruvius, 2002. Disponível em: <http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp> Acesso em 21 jul. 2010, 10:30:00. Curtis, Júlio Nicolau Barros de. Vivências com a arquitetura tradicional do Brasil: registros de uma experiências técnica e didática / Júlio Nicolau Barros de Curtis – Porto Alegre: Ed. Ritter dos Reis, 2003. Goldman, Carlos Henrique. A casa moderna em Porto Alegre. Porto Alegre: UFRGS, 2004. Tese de mestrado, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, 2004. Lemos, Carlos Alberto Cerqueira. Historia da casa brasileira. Sao Paulo: Contexto, 1989. Lemos, Carlos Alberto Cerqueira. Casa Paulista: história das moradias anteriores ao ecletismo trazido pelo café / Carlos A. C. Lemos – São Paulo: Editora da Universidade de São Paulo, 1999. Marques, Sergio Moacir. A Revisão do Movimento Moderno - Arquitetura no Rio Grande do Sul dos anos 80. Porto Alegre: Editora Ritter dos Reis, 2002. Marques, Sergio Moacir. The fountainhead – a nascente (1) O edifício FAM em Porto Alegre. São Paulo: Vitruvius, 2002. Disponível em: <http://www.vitruvio.com.br/revistas/read/arquitextos/03.036/687> Acesso em 20 jul. 2010, 09:30:00. Mindlin, Henrique E. Arquitetura moderna no Brasil. Rio de Janeiro, Aeroplano. 1999. Quando o Brasil era moderno: guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001. Peixoto, Marta. Sistema de proteção de fachadas da escola carioca de 1935 a 1955. Porto Alegre: UFRGS, 1994. Tese de mestrado, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, 1994. Pereira, Claudio Calovi. Os irmãos Roberto e a arquitetura moderna no Rio de Janeiro: 1936-1954. Porto Alegre: UFRGS, 1993 Tese. de mestrado, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul,1993.'
   file_original: 08_Carlos-Henrique-Goldman.pdf
   page_count: 15
-
 - id: sdsul03-015
   title: A Igreja Metodista de Ouro Preto
   subtitle: uma arquitetura (ainda) possível
@@ -466,7 +451,6 @@ articles:
   - historic sites
   file_original: 09_Clecio-Magalhaes-do-Vale.pdf
   page_count: 9
-
 - id: sdsul03-016
   title: Madeira — Matéria — Memória
   authors:
@@ -491,7 +475,6 @@ articles:
   - substance and modernity
   file_original: 10_Cleusa-de-Castro.pdf
   page_count: 18
-
 - id: sdsul03-017
   title: Arquitetura moderna e madeira nos ginásios de Icaro de Castro Mello
   authors:
@@ -509,11 +492,10 @@ articles:
   keywords: []
   keywords_en: []
   references:
-  - 'Livros FERRAZ, Artemis Rodrigues Fontana. Marcas do moderno na arquitetura de Bauru. Dissertação (Mestrado) – Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, 2003, p. 107-139. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1999. COMAS, Carlos Eduardo Dias. “Uma certa arquitetura moderna brasileira: experiência a reconhecer”. In: GUERRA, Abílio (Org.). Textos fundamentais sobre a história da arquitetura moderna brasileira. V. São Paulo: Romano Guerra, 2010, p. 63-77. _______. “Arquitetura moderna, estilo Corbu, pavilhão brasileiro”. In: GUERRA, Abílio (Org.). Textos fundamentais sobre a história da arquitetura moderna brasileira. V. São Paulo: Romano Guerra, 2010, p. 207-225. CARONARA, Pasquale. Architettura Pratica. Torino, Unione Tipográfico: Editrice Torinese, 19541962, pp. 242; 255-57; 986-87. CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da arquitetura brasileira. São Paulo: EdartSão Paulo Livraria Editora, 1972. ICARO DE CASTRO MELLO. Principais projetos. São Paulo: J. J. Carol, 2005. KAMITA, João Massao. Espaço moderno e país novo. Arquitetura moderna no Rio de Janeiro. 1999. 184f. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 1999. MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora, 1999. PAGLIA, Dante (Org.). Arquitetura na Bienal de Paulo. São Paulo: Ediam, s/ p. SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1999. SHÜTZ, Alfred. O Mundo Artístico do Brasil. Rio de Janeiro: Editora Pró-Arte. WISNIK, Guilherme. “O programa escolar e a formação da ''escola paulista”. In: Ferreira, Avany de Francisco e Mello, Mirela Geiger. Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: FDE, 2006. XAVIER, Alberto. “Icaro de Castro Mello: nas arenas da profissão”. São Paulo. Arquitetura e Urbanismo, São Paulo, v. 16, n. 98, p. 89-97, out./ nov. 2001. ZAULI, Bruno; ORTENSI, Dagoberto; LIUTI, Ario. Civiltà Sportiva. Organizzazione dello Sport nel Mondo. Roma: Edizione Mediterranee.'
+  - 'Livros FERRAZ, Artemis Rodrigues Fontana. Marcas do moderno na arquitetura de Bauru. Dissertação (Mestrado) – Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, 2003, p. 107-139. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1999. COMAS, Carlos Eduardo Dias. “Uma certa arquitetura moderna brasileira: experiência a reconhecer”. In: GUERRA, Abílio (Org.). Textos fundamentais sobre a história da arquitetura moderna brasileira. V. São Paulo: Romano Guerra, 2010, p. 63-77. _______. “Arquitetura moderna, estilo Corbu, pavilhão brasileiro”. In: GUERRA, Abílio (Org.). Textos fundamentais sobre a história da arquitetura moderna brasileira. V. São Paulo: Romano Guerra, 2010, p. 207-225. CARONARA, Pasquale. Architettura Pratica. ToRino, Unione Tipográfico: Editrice Torinese, 19541962, pp. 242; 255-57; 986-87. CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da arquitetura brasileira. São Paulo: EdartSão Paulo Livraria Editora, 1972. ICARO DE CASTRO MELLO. Principais projetos. São Paulo: J. J. Carol, 2005. KAMITA, João Massao. Espaço moderno e país novo. Arquitetura moderna no Rio de Janeiro. 1999. 184f. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 1999. MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora, 1999. PAGLIA, Dante (Org.). Arquitetura na Bienal de Paulo. São Paulo: Ediam, s/ p. SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1999. SHÜTZ, Alfred. O Mundo Artístico do Brasil. Rio de Janeiro: Editora Pró-Arte. WISNIK, Guilherme. “O programa escolar e a formação da ''escola paulista”. In: Ferreira, Avany de Francisco e Mello, Mirela Geiger. Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: FDE, 2006. XAVIER, Alberto. “Icaro de Castro Mello: nas arenas da profissão”. São Paulo. Arquitetura e Urbanismo, São Paulo, v. 16, n. 98, p. 89-97, out./ nov. 2001. ZAULI, Bruno; ORTENSI, Dagoberto; LIUTI, Ario. Civiltà Sportiva. Organizzazione dello Sport nel Mondo. Roma: Edizione Mediterranee.'
   - Periódicos MELLO, Icaro de Castro. “Gymnasium de Sorocaba”. Habitat. São Paulo, n. 2, p. 16, jan/mar. 1951. ________. “Gymnasium Municipal de Sorocaba”. Acrópole. São Paulo, n. 155, p. 273-7, mar. 1951. ________. “Gymnasium Municipal Ribeiro Preto”. Acrópole. São Paulo, n. 162, p. 201-6, out. 1951. ________. “Projeto para gymnasium em Porto Alegre”. Acrópole. São Paulo, n. 201, pp. 404-5, jul. 1955 ________. “Ginásio da Estrada de Ferro Noroeste do Brasil”. Acrópole. São Paulo, n. 223, pp. 239-41, mai. 1957. ________. “Hall de sport à Bauru ». Architecture d´Aujourd´hui, n. 29, pp. 12-3, fev. 1958. ________. “Ginásio de esportes”. Acrópole. São Paulo, n. 355, pp. 34-5, out. 1968.
   file_original: 10a_Joana-Mello.pdf
   page_count: 13
-
 - id: sdsul03-018
   title: Ordens tectônicas no Palácio do Congresso Nacional
   authors:
@@ -542,7 +524,6 @@ articles:
   - 'Boltshauser, João. História da arquitetura - Vol. III : Arquitetura Grega. Arquitetura Romana. Belo Horizonte : Escola de Arquitetura da UFMG, 1966. 679-1255p. Brandão, Carlos Antônio Leite. A formação do homem moderno vista através da arquitetura. 2. ed. Belo Horizonte : UFMG, 1999. 240p. (Humanitas). Brasil. Presidência. Serviço de Documentação. Diário de Brasília: 1956-1957. Brasília, 1960. 245p. Bruand, Yves. Arquitetura contemporânea no Brasil. Trad. Ana Goldberger. 4. ed. São Paulo : Perspectiva, 2002. 399p. Cardoso, Vicente Licinio. “À margem das architecturas grega e romana.” In: . Á margem das architecturas grega e romana . Principios geraes modernos de hygiene hospitalar e sua applicação ao Rio de Janeiro. Rio de Janeiro : Typographia do Annuario do Brasil, 1927. p.7-98. Cardozo, Joaquim. “Algumas idéias novas sobre arquitetura.” In: Macedo, D.M.; Sobreira, F.J.A. (Orgs.). Forma estática - forma estética : ensaios de Joaquim Cardozo sobre Arquitetura e Engenharia. Brasília : Câmara dos Deputados, Edições Câmara, 2009. p.147-152. ———. “Programação da atividade do engenheiro.” In: Macedo, D.M.; Sobreira, F.J.A. (Orgs.). Forma estática - forma estética : ensaios de Joaquim Cardozo sobre Arquitetura e Engenharia. Brasí́lia : Câmara dos Deputados, Edições Câmara, 2009. p.137-143. Comas, Carlos Eduardo Dias. “Precisões brasileiras : sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & cia, 1936-45.” Tese (Doutorado em Projeto Arquitetônico e Urbano), Paris : Universidade de Paris 8, 2002. Frampton, Kenneth. Modern architecture : a critical history. 4. ed. London ; New York : Thames and Hudson, 2007. 424p. Gorovitz, Matheus. Brasília, uma questão de escala. São Paulo : Projeto, 1985. 72p. Lambert, Phyllis. “Mies immersion.” In: Lambert, P. (Org.). Mies in America. Montréal , New York : Canadian Centre for Architecture, Whitney Museum of American Art, Harry N. Abrams, 2001. p.192-589. Choisy, Auguste. Histoire de l''architecture. Paris : Gauthier-Villars, 1899. 800p.[Edição fac-similar. Paris : Inter-Livres, 1991]. Frampton, Kenneth. Studies in tectonic culture: the poetics of construction in nineteenth and twentieth century architecture. Organizado por John Cava. Cambridge / Graham Foundation for Advanced Studies in the Fine Arts : MIT Press, 1995. 430p. Niemeyer, Oscar. “Depoimento.” Módulo, Rio de Janeiro, n.9, p.3-6, fev.1958. ———. Minha arquitetura. Rio de Janeiro : Revan, 2002. 112p. Rossetti, Eduardo Pierrotti. “Palácio do Itamaraty: questões de história, projeto e documentação (1959-70).” Arquitextos. (mar.2009) , no. 106.02. http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65. Acesso em: 6 out.2010. Silva, Elcio Gomes da; Sánchez, José Manoel Morales. "Congresso Nacional - da documentação técnica à obra construída" (jun.2009). http://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-aobra-construida/. Acesso em: 6 out.2010. Tzonis, Alexander; Lefaivre, Liane. Classical architecture : the poetics of order. Cambridge : MIT Press, 1986. 306p. [5. reimp. 1992]. Underwood, David Kendrick. Oscar Niemeyer and the architecture of Brazil. New York : Rizzoli, 1994. 224p. Vitruvius, (Marcus V. Pollio). Tratado de arquitetura. Trad. M. Justino Maciel. São Paulo : Martins Fontes, 2007. 556p. (Todas as Artes);'
   file_original: 11_Danilo-Macedo.pdf
   page_count: 20
-
 - id: sdsul03-019
   title: A madeira na arquitetura paulista
   subtitle: uma investigação
@@ -565,7 +546,6 @@ articles:
   - 'Lista das ilustrações: Figura 10 - detalhe armário cozinha, croquis de Carlos Lemos. Fonte: CAMARGO ,2000, p. 88. Figura 2 - - habitação funcionário graduado. Fonte: CAMARGO, 2000, p. 142. Figura 3 - Clube dos funcionários. Foto Nelson Kon. Fonte: Arquivo do fotógrafo. Figura 4 - Capela. Foto Nelson Kon. Fonte: Arquivo do fotógrafo. Figura 5 - brises em madeira. Centro de Saúde. Foto: Hugo Segawa, 1995. Fonte: SEGAWA, 1997, p.250. Figura 6 - mobiliário. Fonte: CAMARGO , 2000, p. 152. Figura 7 - detalhe veneziana. Fonte: SEGAWA, 1997, p.255. Figura 8 - veneziana em madeira. Fonte: SEGAWA, 1997, p.254. Figuras 9 e 10 - estudo casa mínima. Fonte: CAMARGO , 2000, p. 154.'
   file_original: 11a_Monica-Junqueira-de-Camargo.pdf
   page_count: 13
-
 - id: sdsul03-020
   title: Madera y abstracción
   subtitle: el Pabellón de la Provincia de Mendoza en la Feria de América de César Janello y Gerardo Clusellas (1954)
@@ -587,10 +567,9 @@ articles:
   - Janello
   keywords_en: []
   references:
-  - '(Artículo no firmado). “La Feria de América.” Nv nueva visión, 6, 1955, 30-34. Baliero, Horacio. “Aspectos del diseño argentino: sillas y sillones.” Nv nueva visión, 7, 1955, 38-40. Broadbent, Geoffrey. “Recent developments in architectural semiotics.” Semiotica, vol. 101, 1-2, 1994, 73102. Carvajal, Germán. Diseño como poética, el pensamento de César Janello. Buenos Aires: Academia Nacional de Bellas Artes, 2005. Crispiani, Alejandro. “Belleza e invención. La estética de lo concreto en los orígenes del discurso sobre diseño en La Argentina.” Block, 1, Agosto 1997, 61-70. Deambrosis, Federico. “Oam (Organización de Arquitectura Moderna)”. In Liernur, Jorge Francisco, Aliata, Fernando (comps.). Diccionario de Arquitectura en la Argentina, vol. o/r, 8-9. Buenos Aires: Clarín, 2004. Deambrosis, Federico. “¿Qué hacer con los Yanquis? Distintas recepciones de las experiencias y de los modelos estadounidenses en el medio arquitectónico argentino. Los casos de Nuestra Arquitectura y de Nv nueva visión: 1951-1957.” In Pozo, José Manuel, Martínez González, Javier (comps.). La arquitectura norteamericana, motor y espejo de la arquitectura española en el arranque de la modernidad (1940-1965), 103-110. Pamplona: T6) Ediciones, 2006. Frei, Hans. Konkrete Architektur? Über Max Bill als Architekt. Baden: Lars Müller, 1991. Gimmi, Karin (comp.). “Max Bill Arquitecto.” 2G, 29-30, 2004. Janello, César. “Pintura, escultura y arquitectura.” Nv nueva visión, 1, Diciembre 1951, 9. Liernur, Jorge Francisco. Arquitectura argentina del siglo XX. La construcción de la modernidad. Buenos Aires: Fondo Nacional de las Artes, 2002. Liernur, Jorge Francisco. “Abstraction, architecture and the “synthesis of arts” debate in the Rio de la Plata, 1936-1956.” In Bonino, Michele, Chiorino, Cristiana, Deambrosis, Federico, Milan, Laura, Pesando, Annalisa, Senatore, Mario (comps.). 17 lezioni, 24-39. Milán: Franco Angeli, 2004. Reichlin, Bruno. “El Arte Concreto trabajando.” Dpa, 17, 2001, 30-39 Vallejo, Gustavo. “Janello, César”. In Liernur, Jorge Francisco, Aliata, Fernando (comps.). Diccionario de Arquitectura en la Argentina, vol. i/n, 28-30. Buenos Aires: Clarín, 2004.'
+  - '(Artículo no firmado). “La Feria de América.” Nv nueva visión, 6, 1955, 30-34. Baliero, Horacio. “Aspectos del diseño argentino: sillas y sillones.” Nv nueva visión, 7, 1955, 38-40. Broadbent, Geoffrey. “Recent developments in architectural semiotics.” Semiotica, vol. 101, 1-2, 1994, 73102. Carvajal, Germán. Diseño como poética, el pensamento de César Janello. Buenos Aires: Academia Nacional de Bellas Artes, 2005. Crispiani, Alejandro. “Belleza e invención. La estética de lo concreto en los orígenes del discurso sobre diseño en La Argentina.” Block, 1, Agosto 1997, 61-70. Deambrosis, Federico. “Oam (Organización de Arquitectura Moderna)”. In Liernur, Jorge Francisco, Aliata, Fernando (comps.). Diccionario de Arquitectura en la Argentina, vol. o/r, 8-9. Buenos Aires: Clarín, 2004. Deambrosis, Federico. “¿Qué hacer con los Yanquis? Distintas recepciones de las experiencias y de los modelos estadounidenses en el medio arquitectónico argentino. Los casos de Nuestra Arquitectura y de Nv nueva visión: 1951-1957.” In Pozo, José Manuel, Martínez González, Javier (comps.). La arquitectura norteamericana, motor y espejo de la arquitectura española en el arranque de la modernidad (1940-1965), 103-110. Pamplona: T6) Ediciones, 2006. Frei, Hans. Konkrete Architektur? Über Max Bill als Architekt. Baden: Lars Müller, 1991. Gimmi, Karin (comp.). “Max Bill Arquitecto.” 2G, 29-30, 2004. Janello, César. “Pintura, escultura y arquitectura.” Nv nueva visión, 1, Diciembre 1951, 9. Liernur, Jorge Francisco. Arquitectura argentina del siglo XX. La construcción de la modernidad. Buenos Aires: Fondo Nacional de las Artes, 2002. Liernur, Jorge Francisco. “Abstraction, architecture and the “synthesis of arts” debate in the Rio de la Plata, 1936-1956.” In Bonino, Michele, ChioRino, Cristiana, Deambrosis, Federico, Milan, Laura, Pesando, Annalisa, Senatore, Mario (comps.). 17 lezioni, 24-39. Milán: Franco Angeli, 2004. Reichlin, Bruno. “El Arte Concreto trabajando.” Dpa, 17, 2001, 30-39 Vallejo, Gustavo. “Janello, César”. In Liernur, Jorge Francisco, Aliata, Fernando (comps.). Diccionario de Arquitectura en la Argentina, vol. i/n, 28-30. Buenos Aires: Clarín, 2004.'
   file_original: 12_Federico-Deambrosis.pdf
   page_count: 15
-
 - id: sdsul03-021
   title: Arquitetura com arquiteto
   subtitle: pequena introdução ao Ventorrillo de la Buena Vista (Vila Serrana, Uruguai, 1946)
@@ -616,7 +595,6 @@ articles:
   - timber
   file_original: 12a_Claudia-Cabral.pdf
   page_count: 20
-
 - id: sdsul03-022
   title: Lina Bo, Palanti e a cadeira
   subtitle: mobiliário e interiores na Arquitetura Moderna
@@ -642,7 +620,6 @@ articles:
   - Giancarlo Palanti
   file_original: 13_Fernanda-Fernandes.pdf
   page_count: 17
-
 - id: sdsul03-023
   title: Realismo Socialista no ensino de Arquitetura do Instituto de Belas Artes em Porto Alegre (c. 1950)
   subtitle: modernidade e arquitetura vernácula em madeira
@@ -672,7 +649,6 @@ articles:
   - Fine Arts Institute (Porto Alegre)
   file_original: 13a_Renato-Holmer-Fiore.pdf
   page_count: 19
-
 - id: sdsul03-024
   title: Milton Monte
   subtitle: diálogos moderno-regionais na Belém pós-60
@@ -698,7 +674,6 @@ articles:
   - Belém
   file_original: 14_Giovanni-Sarquis.pdf
   page_count: 13
-
 - id: sdsul03-025
   title: A madeira como molde
   subtitle: o caso da coluna do Alvorada
@@ -724,7 +699,6 @@ articles:
   - Wood
   file_original: 15_Guilherme-de-Almeida.pdf
   page_count: 13
-
 - id: sdsul03-026
   title: Sergio Rodrigues
   subtitle: (i)móveis em madeira
@@ -740,7 +714,7 @@ articles:
   pages_count: 10
   abstract: ': Em 1962,o arquiteto carioca Sergio Rodrigues já é consagrado designer de móveis em madeira quando empreende novamente na construção civil. Impelido pela necessidade de construir casa de campo que pudesse ser montada e desmontada em função das circunstâncias, Rodrigues propõe uma arquitetura de encaixes em madeira, muito próxima dos princípios de seu mobiliário. A partir do desenvolvimento desta obra, o arquiteto lança sistema construtivo, conhecido como SR2, em estrutura de madeira maciça modulada em 1,20x1,20m, com fechamentos do mesmo material. O presente artigo analisa os primeiros exemplares produzidos através deste sistema em 1962, traçando paralelos entre o mobiliário e as edificações de autoria do arquiteto.
 
-    SERGIO RODRIGUES: (I)MÓVEIS EM MADEIRA Tradição Filho de famílias influentes do Rio de Janeiro, o arquiteto e designer Sergio Rodrigues nasceu naquela cidade em 1927. Seu avô paterno é Mário Rodrigues, pernambucano proprietário do jornal A Manhã, localizado na então capital federal. Sergio é sobrinho de Nelson Rodrigues e Mário Filho; o primeiro é famoso cronista do Rio moderno, enquanto o segundo revolucionou o jornalismo esportivo nacional, sendo homenageado com o batismo do estádio de futebol mais importante do país. Roberto Rodrigues, seu pai, trabalhou como cenógrafo e ilustrador para imprensa; foi assassinado em atentado dirigido ao avô de Sergio em 1929. Por este motivo, o menino foi criado basicamente pela extensa família materna, os Mendes de Almeida, figuras influentes do meio intelectual desde o século XIX. São seus primos – e companheiros de infância o membro da Academia Brasileira de Letras Cândido Mendes e o bispo Luciano Mendes de Almeida, presidente da CNBB durante quase toda a década de 1980. Sergio e sua mãe moraram com tio-bisavô, o coronel escocês James Andrew, em um casarão na Praia do Flamengo. Figura muito marcante nas memórias do arquiteto, Andrew possuía uma pequena marcenaria no extenso terreno, cujo limite de fundos era o Palácio do Catete. O escocês desenhava pequenos móveis (armários, mesas, baús, entre outros) para consumo próprio e dois mestres portugueses os confeccionavam em oficina localizada junto do casarão. Sergio relatai que, embora muitas vezes o resultado ficasse diferente do projetado, seu tio-bisavô se mostrava muito satisfeito com a mobília exclusiva. Nesse ambiente, o menino inicia suas criações com madeira, esculpindo e tomando gosto pelas formas mais curvilíneas, às vezes usando o trabalho dos portugueses na transformação de caixas de charuto em asas de avião, réplicas dos modelos usados na Grande Guerra.
+    SERGIO RODRIGUES: (I)MÓVEIS EM MADEIRA Tradição Filho de famílias influentes do Rio de Janeiro, o arquiteto e designer Sergio Rodrigues nasceu naquela cidade em 1927. Seu avô paterno é Mário Rodrigues, pernambucano proprietário do jornal A Manhã, localizado na então capital federal. Sergio é sobrinho de Nelson Rodrigues e Mário Filho; o primeiro é famoso cronista do Rio moderno, enquanto o segundo revoLucionou o jornalismo esportivo nacional, sendo homenageado com o batismo do estádio de futebol mais importante do país. Roberto Rodrigues, seu pai, trabalhou como cenógrafo e ilustrador para imprensa; foi assassinado em atentado dirigido ao avô de Sergio em 1929. Por este motivo, o menino foi criado basicamente pela extensa família materna, os Mendes de Almeida, figuras influentes do meio intelectual desde o século XIX. São seus primos – e companheiros de infância o membro da Academia Brasileira de Letras Cândido Mendes e o bispo Luciano Mendes de Almeida, presidente da CNBB durante quase toda a década de 1980. Sergio e sua mãe moraram com tio-bisavô, o coronel escocês James Andrew, em um casarão na Praia do Flamengo. Figura muito marcante nas memórias do arquiteto, Andrew possuía uma pequena marcenaria no extenso terreno, cujo limite de fundos era o Palácio do Catete. O escocês desenhava pequenos móveis (armários, mesas, baús, entre outros) para consumo próprio e dois mestres portugueses os confeccionavam em oficina localizada junto do casarão. Sergio relatai que, embora muitas vezes o resultado ficasse diferente do projetado, seu tio-bisavô se mostrava muito satisfeito com a mobília exclusiva. Nesse ambiente, o menino inicia suas criações com madeira, esculpindo e tomando gosto pelas formas mais curvilíneas, às vezes usando o trabalho dos portugueses na transformação de caixas de charuto em asas de avião, réplicas dos modelos usados na Grande Guerra.
 
     FIG. 1: Desenhos de Sergio Rodrigues. A esquerda, a caixa de charutos transformada em casa; a direita, miniatura de avião, primeiro contato de Sergio com o trabalho em madeira.
 
@@ -752,7 +726,6 @@ articles:
   - 'Cals, Soraia (org.). Sergio Rodrigues. Rio de Janeiro: Icatu, 2000. Bergdoll, Barry e Christensen, Peter. Home Delivery: Fabricating the modern Dwelling. New York, The Museum of Modern Art, 2009. Hymann, Isabelle. Marcel Breuer, Architect: his career and buildings. New York, Harry N. Abrams Inc., 2001. “OCA: a originalidade do estilo em função do conforto e do ambiente”. Revista Módulo,. Rio de Janeiro, dezembro de 1961. “Casa pré-fabricada e individual”. Revista Módulo,. Rio de Janeiro, junho de 1962. Fitzgerald, Jean. “About the Marcel Breuer papers” Smithsonian Archives of American Art, 2002. http://www.aaa.si.edu/collectionsonline/breumarc/overview.htm (visitado em 10 outubro de 2010)'
   file_original: 16_Guilherme-Maia.pdf
   page_count: 10
-
 - id: sdsul03-027
   title: Primitivismo e Innovación en la Arquitectura Moderna en Chile
   subtitle: tres casos de Arquitecturas en Madera publicados en la Revista Arquitectura y Construcción (1945-1950)
@@ -780,7 +753,6 @@ articles:
   keywords_en: []
   file_original: 17_Hugo-Mondragon.pdf
   page_count: 15
-
 - id: sdsul03-028
   title: Madeiras horizontais
   authors:
@@ -802,10 +774,9 @@ articles:
   - architecture
   - balloon frame
   references:
-  - 'Brooks, H. Allen. The Prairie School. Nova York: W. W. Norton, 2006. D’Alessio Neto, Vito. Claro Jansson. São Paulo: Dialeto, 2003. Downing, Andrew Jackson. The architecture of country houses. Nova York: D. Appleton & Company, 1851. Foster, Gerald. American houses. Boston: Houghton Mifflin Company, 2004. Gabler, William G. Death of the dream - Classic Minnesota Farmhouses. Afton: Afton Historical Society Press, 1997. Giedion, Siegfried. Mechanization takes command - a contribution to anonymous history. Nova York: W. W. Norton, 1969. Illustrated guide os Philadelphia and the Centennial Exhibition. Philadelphia, Richard Magee and Son, 1876. Imaguire Jr, Key. A casa de araucária – arquitetura paranista. Curitiba: Universidade Federal do Paraná, 1993. Lewis, Arnold. American country houses of the gilded age. Nova York: Dover Publications, 1982. Loudon, John Claudius. Encyclopaedia of cottage, farm and villa architecture and furniture. Londres: Longman, Brown, Green and Longmans, 1846. Mills. G. E. Buying wood & building farms - marketing lumber and farm building designs on the Canadian Prairies 1880 to 1920. Ottawa: National Historic Sites, 1991. Mumford, Lewis. Technics and civilization. Nova York, Harcourt, Brace and Cpmpany, 1934. Peterson, Fred D. Homes in the Heartland - Balloon frame farmhouses of the upper midwest. Minneapolis: University of Minnesota Press, 1992. Reiff, Daniel. Houses from books: treatises, pattern books and catalogs in American architecture, 1738 – 1950, a history and guide. University Park: The Pennsylvania State University Press, 2000. Scully, Vincent. Modern Architecture - The Architecture of Democracy. Nova York: George Braziller, 1967. Souza, Paulo Ferreira. Indústria madeireira. Rio de Janeiro: Imprensa Nacional, 1947. Valentini, Delmir José. Atividades da Brazil Railway Company no sul do Brasil: a instalação da Lumber e a guerra na região do contestado: 1906-1916. Porto Alegre: PUC RS, tese de doutorado, 2009. Wyckoff Lumber & Mfg. Co. Cornell Portable Houses. Ithaca, 1909. Zani, Antonio Carlos. Arquitetura em madeira. São Paulo: EDUEL, Imprensa Oficial, 2003.'
+  - 'Brooks, H. Allen. The Prairie School. Nova York: W. W. Norton, 2006. D’Alessio Neto, Vito. Claro Jansson. São Paulo: Dialeto, 2003. Downing, Andrew Jackson. The architecture of country houses. Nova York: D. Appleton & Company, 1851. Foster, Gerald. American houses. Boston: Houghton Mifflin Company, 2004. Gabler, William G. Death of the dream - Classic Minnesota Farmhouses. Afton: Afton Historical Society Press, 1997. Giedion, Siegfried. Mechanization takes command - a contribution to anonymous history. Nova York: W. W. Norton, 1969. Illustrated guide os Philadelphia and the Centennial ExhIBITion. Philadelphia, Richard Magee and Son, 1876. Imaguire Jr, Key. A casa de araucária – arquitetura paranista. Curitiba: Universidade Federal do Paraná, 1993. Lewis, Arnold. American country houses of the gilded age. Nova York: Dover Publications, 1982. Loudon, John Claudius. Encyclopaedia of cottage, farm and villa architecture and furniture. Londres: Longman, Brown, Green and Longmans, 1846. Mills. G. E. Buying wood & building farms - marketing lumber and farm building designs on the Canadian Prairies 1880 to 1920. Ottawa: National Historic Sites, 1991. Mumford, Lewis. Technics and civilization. Nova York, Harcourt, Brace and Cpmpany, 1934. Peterson, Fred D. Homes in the Heartland - Balloon frame farmhouses of the upper midwest. Minneapolis: University of Minnesota Press, 1992. Reiff, Daniel. Houses from books: treatises, pattern books and catalogs in American architecture, 1738 – 1950, a history and guide. University Park: The Pennsylvania State University Press, 2000. Scully, Vincent. Modern Architecture - The Architecture of Democracy. Nova York: George Braziller, 1967. Souza, Paulo Ferreira. Indústria madeireira. Rio de Janeiro: Imprensa Nacional, 1947. Valentini, Delmir José. Atividades da Brazil Railway Company no sul do Brasil: a instalação da Lumber e a guerra na região do contestado: 1906-1916. Porto Alegre: PUC RS, tese de doutorado, 2009. Wyckoff Lumber & Mfg. Co. Cornell Portable Houses. Ithaca, 1909. Zani, Antonio Carlos. Arquitetura em madeira. São Paulo: EDUEL, Imprensa Oficial, 2003.'
   file_original: 18_Humberto-Mezzadri.pdf
   page_count: 18
-
 - id: sdsul03-029
   title: A madeira como artifício
   authors:
@@ -831,7 +802,6 @@ articles:
   - 'BERNARDES, Sérgio. Anteprojeto para um «Country Club» em Petrópolis, Rio de Janeiro. L’Architecture d’Aujourd’hui. Spécial: L’Architecture au Brésil (1947), p. 96. CLAUDIO FONSECA, Antonio. Um breve olhar sobre o arquiteto Sérgio Bernardes (depoimento). Arquitextos, São Paulo, 03.026, Vitruvius, jul 2002 <http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/765> CAVALCANTI, Lauro (org.). Quando o Brasil era moderno: guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001. CAVALCANTI, Lauro. A importância de Ser(gio) Bernardes. Arquitextos, São Paulo, 10.111, Vitruvius, ago 2009 <http://www.vitruvius.com.br/revistas/read/arquitextos/10.111/31> DA GAMA-ROSA COSTA, Renato; PESSOA, Alexandre; NEIVA DE MELLO, Estefânia; RAIMUNDO DO NASCIMENTO, Dilene. O sanatório de Curicica: Uma obra pouco conhecida de Sérgio Bernardes. Arquitextos, São Paulo, 03.026, Vitruvius, jul 2002. <http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/766> MACUL, Márcia. Arquiteto + humanista + poeta + utopista. AU – Arquitetura e Urbansimo, São Paulo, 1999. http://www.revistaau.com.br/arquitetura-urbanismo/82/ MEURS, Paul. O pavilhão brasileiro na Expo de Bruxelas, 1958. Arquiteto Sérgio Bernardes. Arquitextos, São Paulo, 01.007, Vitruvius, dez 2000. <http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/947>. NIEMEYER, Oscar. Niemeyer. Lausanne: Editions Alphabet, 1977. O SOL Informativo do Clube de Regatas JAÓ, Goiânia 1960. O Sol, nº 1, jan. 1969. RIBEIRO, Maria Eliana Jubé. Goiânia: os planos, a cidade e o sistema de áreas verdes. Goiânia: Ed. da UCG, 2004. SEGRE, Roberto. Sérgio Bernardes (1919-2002). Entre el regionalismo y el high tech (editorial). Arquitextos, São Paulo, 03.026, Vitruvius, jul 2002. <http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/764>. VIEIRA, Monica Paciello. A provocação sensorial na arquitetura de Sergio Bernardes. Arquitextos, São Paulo, 07.084, Vitruvius, mai 2007 <http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/248>.'
   file_original: 19_Jose-Frota.pdf
   page_count: 21
-
 - id: sdsul03-030
   title: Os Irmãos Roberto e a poética da madeira
   authors:
@@ -858,7 +828,6 @@ articles:
   - 'AAP - ASSOCIAÇÃO DOS ARQUITETOS PORTUGUESES (org.). Arquitetura Popular em Portugal. Lisboa: Associação dos Arquitetos Portugueses, 1980. BRUAND. Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1991. BRITTO, Alfredo; NOBRE, Ana Luiza; XAVIER, Alberto. Arquitetura moderna no Rio de Janeiro. São Paulo: Pini, 1991. CAVALCANTI, Lauro. Quando o Brasil era moderno: guia de arquitetura. 1928-1960. Rio de Janeiro: Aeroplano, 2001. COLIN, Silvio Vilela. A poética da arquitetura pré-moderna no Rio de Janeiro. Dissertação de Mestrado. Rio de Janeiro: UFRJ, 1999. COSTA, Lúcio. Documentação Necessária. In: Costa, Lúcio. Sobre Arquitetura. Porto Alegre: Centro dos Estudantes Universitários, 1962. Págs. 86-96. CZAJKOWSKI,Jorge. Guia da arquitetura moderna no Rio de Janeiro. Rio de Janeiro: Casa da palavra/ Prefeitura do Rio de Janeiro, 2000. FILHO, José Bina Fonyat. Veneziana e Vidro – a ocorrência. In: Revista ABA – Arquitetura Brasileira do Ano, 1971, 17-24. IZAGA, Fabiana Generoso de. O sentido da pele: uma abordagem da arquitetura dos irmãos Roberto. Dissertação de Mestrado. Rio de Janeiro: UFRJ, 2002. PEREIRA, Claudio Calovi. Os Irmãos Roberto e o edifício da ABI: uma história da modernidade arquitetônica brasileira. In: Arqtexto 2, 2002, 122-134. Disponível em: http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_2/2_Claudio%20Calovi.pdf Acesso em 07 de julho de 2010, às 12h55 min. SOUZA, Luiz Felipe Machado Coelho de. Les Freres Roberto, architectes: bâtiments d’habitat collectif construits à Rio de Janeiro. 1945-1969. Tese de doutorado. Paris: Université Paris I Panthéon-Sorbonne, 2006.'
   file_original: 20_Juliana-Mattos.pdf
   page_count: 15
-
 - id: sdsul03-031
   title: Recurso local e aproximação luso-colonial
   subtitle: exemplos do uso de madeira na obra de Alcides da Rocha Miranda
@@ -885,7 +854,6 @@ articles:
   - NOBRE, Ana Luiza, “O passado pela frente a modernidade de Alcides da Rocha Miranda,” dissertação de mestrado, Rio de Janeiro, Pontifícia Universidade Católica, 1997 PUHL, Liege Sieben, “Alcides da Rocha Miranda – projetos e obras (1934-1997),” dissertação de mestrado, Porto Alegre, Universidade Federal do Rio Grande do Sul, Programa de Pesquisa e Pós-Graduação em Arquitetura (PROPAR), 2010.
   file_original: 21_Liege-Puhl.pdf
   page_count: 16
-
 - id: sdsul03-032
   title: A carpintaria das formas livres
   subtitle: um pavilhão em Porto Alegre
@@ -900,7 +868,7 @@ articles:
   file: sdsul03-032.pdf
   pages_count: 13
   abstract: O texto analisa o pavilhão conhecido como Mata-borrão (1961), que constituiu uma contribuição singular para a arquitetura de Porto Alegre. Concebida pelo arquiteto Marcos David Hekman (1931), a estrutura leve foi originalmente um stand de divulgação das obras do Governo Estadual durante a gestão de Leonel Brizola, no período 1959-1963. Posteriormente sediou o Segundo Salão de Arquitetura do Rio Grande do Sul, em 1962, e o Centro de Imprensa da Universíade ocorrida na cidade em 1963. A construção de caráter efêmero ocupou transitoriamente um terreno com alto potencial construtivo, na Avenida Borges de Medeiros. A forma incomum do prisma, que também lembrava o contorno de um olho humano, tomava como matriz confessa o auditório projetado por Oscar Niemeyer para Escola Estadual em Belo Horizonte (1951). A construção provisória foi acertadamente executada em madeira, telhas onduladas metálicas e vidro, demonstrando a alternativa possível ao uso do concreto armado – material idealizado pela arquitetura brasileira maiúscula da época. Além do interesse pela obra em si, o texto utiliza o Pavilhão como pretexto para refletir sobre três questões ambíguas presentes na arquitetura moderna. A primeira refere-se à questão material, à surpreendente capacidade da arquitetura moderna de utilizar recursos disponíveis e técnicas compatíveis para atingir as formas perseguidas. A segunda trata da adoção de formas autorais como matrizes replicáveis, contrariando a condição de originalidade compulsória imposta à arquitetura moderna. E a terceira trata do Pavilhão como imagem de modernidade, de sua função transitória e promocional como aspecto responsável pelo viés experimental assumido.
-  abstract_en: This paper discusses the Pavilion known as Mata-borrão (the "blotter"), built in 1961, which was a singular contribution to the architecture o Porto Alegre. Designed by Architect Marcos David Heckman (b. 1931), the light structure has originally been an exhibition stand of the State administration's public works, during Leonel Brizola's term as governor (1959-1963). It later sheltered the Rio Grande do Sul State's Second Salon of Architecture, in 1962, and the Press Center of the Universiade that happened in the city in 1963. The ephemeral building has transiently occupied a site with high building potential at Avenida Borges de Medeiros. The unusual prismatic shape, which also evoked the outlines of the human eye, overtly adopted as its matrix the auditorium designed by Oscar Niemeyer for a public school in Belo Horizonte (1951). The nonpermanent Pavilion was appropriately built in timber, with corrugated metal roof and glass panels on the façade, so displaying a possible alternative to concrete, the building material idealized by the main current of Brazilian Architecture at that moment. Besides the interest aroused by the Pavilion itself, this paper focuses this building as a pretext to reflect upon three ambiguous questions concerning Modern architecture. The first one is addressed to the material issue, to the surprising capacity of Modern architecture to employ available resources and adequate techniques to fulfill envisaged forms. The second, deals with the adoption of authorial forms as reproducible matrixes, so opposing the condition of necessary originality prescribed to Modern architecture. The third, finally, assesses the Pavilion as an image of modernity, stressing its transient promotional function as the motif responsible for its experimental bias.
+  abstract_en: This paper discusses the Pavilion known as Mata-borrão (the "blotter"), built in 1961, which was a singular contribution to the architecture o Porto Alegre. Designed by Architect Marcos David Heckman (b. 1931), the light structure has originally been an exhIBITion stand of the State administration's public works, during Leonel Brizola's term as governor (1959-1963). It later sheltered the Rio Grande do Sul State's Second Salon of Architecture, in 1962, and the Press Center of the Universiade that happened in the city in 1963. The ephemeral building has transiently occupied a site with high building potential at Avenida Borges de Medeiros. The unusual prismatic shape, which also evoked the outlines of the human eye, overtly adopted as its matrix the auditorium designed by Oscar Niemeyer for a public school in Belo Horizonte (1951). The nonpermanent Pavilion was appropriately built in timber, with corrugated metal roof and glass panels on the façade, so displaying a possible alternative to concrete, the building material idealized by the main current of Brazilian Architecture at that moment. Besides the interest aroused by the Pavilion itself, this paper focuses this building as a pretext to reflect upon three ambiguous questions concerning Modern architecture. The first one is addressed to the material issue, to the surprising capacity of Modern architecture to employ available resources and adequate techniques to fulfill envisaged forms. The second, deals with the adoption of authorial forms as reproducible matrixes, so opposing the condition of necessary originality prescribed to Modern architecture. The third, finally, assesses the Pavilion as an image of modernity, stressing its transient promotional function as the motif responsible for its experimental bias.
   keywords:
   - Arquitetura moderna
   - Mata-borrão
@@ -911,7 +879,6 @@ articles:
   - ephemeral pavilion
   file_original: 22_Luis-Henrique-Haas-Luccas.pdf
   page_count: 13
-
 - id: sdsul03-033
   title: Madeira, Tradição e Modernidade nas Casas Modernas Cariocas
   authors:
@@ -938,7 +905,6 @@ articles:
   - Cariocan School
   file_original: 23_Marcia-Heck.pdf
   page_count: 31
-
 - id: sdsul03-034
   title: O uso da madeira em habitações projetadas por arquitetos na cidade de São Paulo em dois tempos (1939/1969 - 2005/2008)
   authors:
@@ -968,7 +934,6 @@ articles:
   - Wood in buidings
   file_original: 24_Marlene-Yurgel.pdf
   page_count: 29
-
 - id: sdsul03-035
   title: Do vernacular ao moderno
   subtitle: o caso da Vila Nossa Senhora da Luz dos Pinhais 1966
@@ -1002,7 +967,6 @@ articles:
   - HEINBERG, Richard. The Primitivist Critique of Civilization. XXIV Annual Meeting of International Society for Comparative Study of Civilizations. Wright State University, Dayton – Ohio, 15 de Junho de 1995. Tradução disponível em http://zinelibrary.info/files/Richard%20 Heinberg%20%20A%20cr%C3%ADtica%20primitivista%20da%20civiliza%C3%A7%C3%A3o.pdf. Acesso em 20/07/2010.
   file_original: 25_Michelle-Schneider-.pdf
   page_count: 20
-
 - id: sdsul03-036
   title: A singularidade no edifício industrial
   subtitle: o anonimato da madeira?
@@ -1033,7 +997,6 @@ articles:
   - 'GREGOTTI, Vittorio. O exercício do Detalhe. In: NESBITT, Kate (org). Uma Nova Agenda para a Arquitetura: Antologia teórica (1965-1995). São Paulo: Cosac Naif, p.536-538, 2ª ed. rev., 2008. ______On Technique. In: Inside Architecture.Cambridge: The MIT Press, 1995, p.51-61. HOLANDA, Armando de. Roteiro para construir no Nordeste. Recife: MDU/UFPE, 1976. LEATHERBARROW, David; MOSTAFAVi, Mohsen. Surface Architecture. Cambridge: MIT Press, 2002. MALLGRAVE, Harry Francis. Modern Architecture Theory, A Historical Survey, 1673-1968. Cambridge: Cambridge University Press,2005. SEMPER, Gottfried. The Four Elements of Architecture and Other Writings. Cambridge: Cambridge University Press, 1989 [1869].'
   file_original: 26_Renata-Maria-Vieira-Caldas.pdf
   page_count: 14
-
 - id: sdsul03-037
   title: Conjunto Residencial da Universidade de São Paulo (CRUSP), 1963
   authors:
@@ -1064,7 +1027,6 @@ articles:
   - 'PANERAI, Philippe; Castex, Jean; Depaule, Jean-Charles. Formas urbanas: de la manzana al bloque. Barcelona: Editorial Gustavo Gili, 1986. PÉREZ DE ARCE, Rodrigo. “Villanueva, os passeios cobertos e a idéia de cidade”. In: Arqtexto 12. Porto Alegre: PROPAR, 2007. RAMALHO JUNIOR. Joel. “Eduardo Kneese de Mello: o Homem e o Arquiteto”. Curitiba, s/d. In Regino, Aline Nassaralla. Eduardo Kneese de Mello | Arquiteto: análise de sua contribuição à habitação coletiva em São Paulo. São Paulo, 2006. Dissertação (mestrado). REGINO, Aline Nassaralla. Eduardo Kneese de Mello Arquiteto: análise de sua contribuição à habitação coletiva em São Paulo. São Paulo, 2006. Dissertação (Mestrado). REGINO, Aline Nassaralla; Santos, Ademir Pereira dos. Arquitetura atribuição do arquiteto. São Paulo: Centro Universitário Belas Artes de São Paulo, 2005. SEGAWA, Hugo. “Rio de Janeiro, México, Caracas: cidades universitárias e modernidades 1936-1962”. In: Rua, Revista de urbanismo e arquitetura, Salvador, n.7 (Moderno:claro e labiríntico), pp.38-47, 1999. Disponível em http://www.portalseer.ufba.br/index.php/rua/article/viewArticle/3133. SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1998. 224p. XAVIER, Alberto; Lemos, Carlos; Corona, Eduardo. Arquitetura Moderna Paulistana. São Paulo: Pini, 1983.'
   file_original: 27_Renata-Santiago-Ramos-.pdf
   page_count: 27
-
 - id: sdsul03-038
   title: Arquitectura moderna en madera en el sur de Chile
   subtitle: 1930-1970
@@ -1113,10 +1075,9 @@ articles:
   references:
   - 'BOLDRINI, Gustavo; Vivaldi, Renato. “Bitácora del viajero”. Ediciones Altazor. Viña del Mar,Chile,1986. BLAUCPAIN, Jean Pierre. “Los alemanes en Chile: 1816-1945”. Editorial Achett. Santiago de Chile,1987. CARTES S, Iván. “Detalles Constructivos: Viviendas tradicionales de Valdivia”. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1985. CARTES S, Iván. “Detalles Constructivos: Viviendas tradicionales de Contulmo”. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1987.'
   - 'CARTES S, Iván. “Detalles constructivos: viviendas tradicionales en madera, Capitán Pastene”. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1990. CERDA B, Alejandro. “Arquitectura Moderna en Chillán”. Revista Arquitecturas del Sur Nº 16. Facultad de arquitectura, Construcción y Diseño. Universidad del Bío-Bío, Chile. ELIASH D, Humberto; Moreno, Manuel. “Arquitectura y Modernidad en Chile”, una realidad múltiple: 1925-1965. P.U.C. , Santiago de Chile, 1989. ESTRADA T, Baldomero. “El frustrado proyecto de una colonización europea en Chiloé”. en revista Chiloé Nº 7 del Centro Chilote de Concepción, Chile,1986. EWERT, Felicia. “Arquitectura patrimonial de La Araucanía: El poblado de Purén”. Seminario Escuela de Arquitectura, Universidad del BíoBío, Concepción, Chile. 1996. FUENTES H, Pablo. “El urbanismo y el estado. Capítulo de tesis doctoral sin publicar. FUENTES E, Lorena. “Vivienda tradicional en madera en Temuco hacia 1930”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile.1997. GARCÍA R , Christian. “Calle Centenario de Chonchi, Análisis Urbano Arquitectónico”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile. 1997. GUARDA, Gabriel. “La tradición de la madera”. Ediciones Universidad Católica de Chile, Santiago, Chile. 1995. GUARDA, Gabriel. “Conjuntos Urbanos Históricos-arquitectónicos, Valdivia , siglos XVIII-XIX”. Ediciones Universidad Católica de Chile, Santiago, Chile. 1980. GUARDA, Gabriel. “Provincia de Osorno, arquitectura en Madera: 1850-1925”. Ediciones Universidad Católica de Chile, Santiago, Chile. 1981. GUARDA, Gabriel. “Iglesias de Madera, Cautín-Llanquihue”. 18501919. Ediciones Universidad Católica de Chile, Santiago, Chile. 1981. GREDIG, Alfredo. “El ornamento estampado en la arquitectura”. Artículo publicado en la revista Arquitecturas del Sur Nº 5. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1985. MATTHEWS, Mariana; CERDA B, Gonzalo. “Valdivia en madera y metal”. Ediciones El Kultrún, Valdivia, Chile. 1993. MATTHEWS, Mariana; CERDA B, Gonzalo. “Casas del Sur de Chile”. Ediciones El Kultrún, Valdivia, Chile. 2002. MASSMANN M, Alfredo. “Avenida Alemania: 115 años de historia y arquitectura en Temuco”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile. 1995. MORALES HENDRY, Carlos(director); Serna Cárdenas, David (coordinador).Edward Rojas: “El reciclaje Insular”. Colección SomoSur, Editorial Escala. Bogotá, Colombia, 1996. MONDACA MANSILLA, Celia. “Fundamento para el reciclaje de obras patrimoniales en Chonchi”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile. 2002.'
-  - 'MONTECINOS B, Hernán; SALINA J, Ignacio; BASAEZ Y, Patricio. “Arquitectura tradicional de Osorno y la Unión”. Facultad de Arquitectura y Urbanismo Universidad de Chile, Santiago de Chile. 1981 OLIVARES, Juan Carlos. “Pensamiento y Obra: Entrevista al arquto. Jorge Lobos”. En revista De Arquitectura Nº9. Facultad de Arquitectura y Urbanismo Universidad de Chile. Santiago, Chile, 1997. PINO ZAPATA, Eduardo. Historia de Temuco. Ediciones Universitarias de la Frontera, Temuco, Chile. 1969. RODRIGUEZ D, Cristian. “La arquitectura de la colonización suiza”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile. 1997. ROJAS, Edward; FISCHER, Rodrigo. “Arquitectura culta y naif en Chiloé”. Ediciones del Mirmecoleón borde marino. Castro, 1985. VERNIORY, Gustave. “Diez años en la Araucanía:1889-1999”. Ediciones Universidad de Chile; Santiago de Chile. 1975.'
+  - 'MONTECINOS B, Hernán; SALINA J, Ignacio; BASAEZ Y, Patricio. “Arquitectura tradicional de Osorno y la Unión”. Facultad de Arquitectura y Urbanismo Universidad de Chile, Santiago de Chile. 1981 OLIVARES, Juan Carlos. “Pensamiento y Obra: Entrevista al arquto. Jorge Lobos”. En revista De Arquitectura Nº9. Facultad de Arquitectura y Urbanismo Universidad de Chile. Santiago, Chile, 1997. PINO ZAPATA, Eduardo. Historia de Temuco. Ediciones Universitarias de la Frontera, Temuco, Chile. 1969. RODRIGUEZ D, Cristian. “La arquitectura de la colonización suiza”. Seminario Escuela de Arquitectura, Universidad del Bío-Bío, Concepción, Chile. 1997. ROJAS, Edward; FISCHER, Rodrigo. “Arquitectura culta y naif en Chiloé”. Ediciones del Mirmecoleón borde maRino. Castro, 1985. VERNIORY, Gustave. “Diez años en la Araucanía:1889-1999”. Ediciones Universidad de Chile; Santiago de Chile. 1975.'
   file_original: 28_Roberto-Burdiles-Allende-.pdf
   page_count: 23
-
 - id: sdsul03-039
   title: Uma casa, três projetos, cinquenta anos
   subtitle: a Casa de Ipanema 1958/2008
@@ -1139,7 +1100,7 @@ articles:
   - Wooden House
   - Single Family Residence
   references:
-  - 'ARAÚJO, Cláudio L.G., FROTA, Cláudia Obino. Memphis S. A. Industrial. São Paulo, Projeto N° 22, ago. 1980 A + U Extra Edittion. Carlo Scarpa, Tókio, A + U Publishing Co. Ltda, 1985 A + U Extra Edittion. Louis I. Kahn, Tókio, A + U Publishing Co. Ltda, 1983 A + U Extra Edittion. Mario Botta, Tókio, A + U Publishing Co. Ltda, 1986 BANHAM, Reyner. Teoria e Projeto na primeira era da máquina. São Paulo, Perspectiva, 1979. CANAL, José Luiz de Mello. Origens de la Arquitectura Industrial Moderna. Barcelona, tese de doutorado, Universidad Politécnica de Catalunya, 1992. CLAYSSENT, D. Michel, P.A. Genèse d’un prototype: la boîte close, Paris, 1979. FERRIER, Jacques . Usines - Tome 1, Paris, Moniteur, 1989 FERRIER, Jacques. Usines - Tome 2, Paris, Moniteur, 1991. LAMPRECHT, Barbara. Neutra, Colônia, Taschen, , 2004 LIERNUR, Jorge Francisco. Industrias, Obras de Arquitetos Chilenos Contemporâneos, Santiago, Ediciones ARQ, 1998 MAHFUZ, Edson. Casa de Ipanema, in KIEFER, Flávio, LUZ, Maturino, MARQUES, Sergio. Casas Internacional Brasil Meridional, Buenos Aires, Kliczkowski Publisher, ASPPAN CP67, 1998 MAHFUZ, Edson. Residência em Ipanema, O Clássico, o Poético e o Erótico e Outros Ensaios, Cadernos de Arquitetura Ritter dos Reis n.4, Porto Alegre, Editora Ritter dos Reis, 2002 MC COY, Esther. Case Study Houses 1945-1962, Santa Monica, Hennessey + Ingalls, 1977 MOOJEN, Moacyr Moojen. Entrevista com o autor. Porto Alegre, mar 2007'
+  - 'ARAÚJO, Cláudio L.G., FROTA, Cláudia Obino. Memphis S. A. Industrial. São Paulo, Projeto N° 22, ago. 1980 A + U Extra Edittion. Carlo Scarpa, Tókio, A + U Publishing Co. Ltda, 1985 A + U Extra Edittion. Louis I. Kahn, Tókio, A + U Publishing Co. Ltda, 1983 A + U Extra Edittion. Mario Botta, Tókio, A + U Publishing Co. Ltda, 1986 BANHAM, Reyner. Teoria e Projeto na primeira era da máquina. São Paulo, Perspectiva, 1979. CANAL, José Luiz de Mello. Origens de la Arquitectura Industrial Moderna. Barcelona, tese de doutorado, Universidad Politécnica de Catalunya, 1992. CLAYSSENT, D. Michel, P.A. Genèse d’un prototype: la boîte close, Paris, 1979. FERRIER, Jacques . Usines - Tome 1, Paris, Moniteur, 1989 FERRIER, Jacques. Usines - Tome 2, Paris, Moniteur, 1991. LAMPRECHT, Barbara. Neutra, Colônia, Taschen, , 2004 LIERNUR, Jorge Francisco. Industrias, Obras de Arquitetos Chilenos Contemporâneos, Santiago, Ediciones ARQ, 1998 MAHFUZ, Edson. Casa de Ipanema, in KIEFER, Flávio, LUZ, MatuRino, MARQUES, Sergio. Casas Internacional Brasil Meridional, Buenos Aires, Kliczkowski Publisher, ASPPAN CP67, 1998 MAHFUZ, Edson. Residência em Ipanema, O Clássico, o Poético e o Erótico e Outros Ensaios, Cadernos de Arquitetura Ritter dos Reis n.4, Porto Alegre, Editora Ritter dos Reis, 2002 MC COY, Esther. Case Study Houses 1945-1962, Santa Monica, Hennessey + Ingalls, 1977 MOOJEN, Moacyr Moojen. Entrevista com o autor. Porto Alegre, mar 2007'
   - 'NEUTRA, Richard. Realismo Biológico. Un Nuevo Renacimiento Humanístico en Arquitectura, Buenos Aires, Nueva Vision, 1958 Tectônica Monografias de arquitectura, tecnologia y construcción n.1. Envolventes (I) Fachadas Ligeiras, Madrid, ATC Ediciones, 1995 Tectônica Monografias de arquitectura, tecnologia y construcción n.2. Envolventes (II) Cerramientos Pesados: Aplacados y Paneles, Madrid, ATC Ediciones, 1995 Tectônica Monografias de arquitectura, tecnologia y construcción n.3. Hormigón (I) “in situ”, Madrid, ATC Ediciones, 1996 Tectônica Monografias de arquitectura, tecnologia y construcción n.5. Hormigón (II) “Prefabricado”, Madrid, ATC Ediciones, 1996 Tectônica Monografias de arquitectura, tecnologia y construcción n.2002. Acero (I), Madrid, ATC Ediciones, 1996'
   file_original: 29_Sergio-M.-Marques.pdf
   page_count: 17

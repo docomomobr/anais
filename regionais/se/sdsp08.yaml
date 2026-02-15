@@ -2,22 +2,22 @@ issue:
   slug: sdsp08
   title: 8º Seminário Docomomo São Paulo, São Carlos, 2022
   subtitle: a Arquitetura e Urbanismo Modernos e os acervos
-  description: 'Anais do Seminário DOCOMOMO São Paulo: a arquitetura e urbanismo modernos e os acervos, 23 a 25 de agosto de 2022. São Carlos: IAU/USP, 2022. 610 p. ISBN 978-65-86810-58-5. CDD 724.98161. Catalogação: Brianda de Oliveira Ordonho Sígolo, CRB-8/8229.'
   year: 2022
-  volume: 1
+  volume: 2
   number: 8
-  date_published: '2022-08-23'
   isbn: 978-65-86810-58-5
-  publisher: IAU/USP
+  publisher: Núcleo Docomomo São Paulo / IAU-USP, UNIP
   editors:
   - Miguel Antonio Buzzar
   - Mônica Junqueira de Camargo
   - Maisa Fonseca de Almeida
   - Fernando Atique
   - Jasmine Luiza Souza Silva
-  source: https://www.nucleodocomomosp.com.br/
+  volume_pdf: sdsp08_anais.pdf
+  description: '8° Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al.. São Carlos: IAU-USP, 2022. Disponível também em: www.nucleodocomomosp.com.br/cópia-8-seminário. ISBN: 978-65-86810-58-5.'
+  source: https://www.nucleodocomomosp.com.br/cópia-8-seminário
+  date_published: '2022-08-23'
 articles:
-
 - id: sdsp08-001
   title: Homenagem à Odiléa Toscano (1934-2015)
   authors:
@@ -31,7 +31,6 @@ articles:
   file: sdsp08-001.pdf
   pages_count: 3
   pages: 19-21
-
 - id: sdsp08-002
   title: João Walter Toscano a partir de seu acervo
   authors:
@@ -56,7 +55,6 @@ articles:
   - '________. Lucio Costa na Europa: o papel dos acervos e a arquitetura brasileira. Novos Estudos - CEBRAP, São Paulo, vol. 41, n. 2, p.371-386, mai. / ago. 2022. Disponível em: <https://doi.org/10.25091/S01013300202200020010>. Acesso em 15 set. 2022.'
   - 'LIRA, José T. C. (coord.). Acervos de arquitetos da FAUUSP: coleção João Toscano. São Paulo: LPG; FAUUSP, 2019.'
   - 'LIRA, José T. C, et. al. Acervos de arquitetura como espaço histórico de formação. Anais do Museu Paulista: História e Cultura Material, São Paulo, vol. 29, nov. 2021. Disponível em: <https://doi.org/10.1590/1982- 02672021v29e53>. Acesso em 20 ago. 2022.'
-
 - id: sdsp08-003
   title: O arquiteto Ubyrajara Gilioli
   authors:
@@ -79,7 +77,6 @@ articles:
   - https://revistaprojeto.com.br/acervo/ubyrajara-gilioli-centro-de-15-02- 2008/ Acesso em 08 ago. 2022.
   - GRUPO Escolar de Ferrazopolis. Acrópole, São Paulo, ano 31, n. 3365, p. 32-33, set. 1969 Disponível em http://www.acropole.fau.usp.br/edicao/365/34 Acesso em 14 de jun. 2022.
   - 'SILVA, J. L. S. A Escola Paulista e a função social da arquitetura: projetos escolares entre 1959 e 1975. 2022. Dissertação (Mestrado em Teoria e História da Arquitetura e do Urbanismo) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2022. doi:10.11606/D.102.2022.tde-19092022-152709. Acesso em: 2022-10-07.'
-
 - id: sdsp08-004
   title: Francisco José Santoro
   authors:
@@ -98,7 +95,6 @@ articles:
   file: sdsp08-004.pdf
   pages_count: 14
   pages: 43-56
-
 - id: sdsp08-005
   title: 'O patrimônio arquitetônico da universidade de São Paulo: o caso do campus de São Carlos'
   authors:
@@ -137,7 +133,6 @@ articles:
   - 'NOSELLA, Paolo; BUFFA, Ester. Escola de Engenharia de São Carlos: os primeiros tempos - 1948-1971. São Carlos: EdUFSCAR, 2000.'
   - 'NOBRE, Ana Luiza. Módulo só. O Edifício E1, em São Carlos, de Ernest Mange e Hélio Duarte. In: Revista RISCO, ed.5, 2007.'
   - 'VIEIRA, Cíntia Cristina; CARAM, Rosana Maria. Conforto térmico e iluminação natural no edifício administrativo da Escola de Engenharia de São Carlos: o bloco E1. Dissertação (Mestrado em Arquitetura e Urbanismo) – Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2008.'
-
 - id: sdsp08-006
   title: 'Acervo do instituto de arquitetos do Brasil – departamento São Paulo (IAB-SP): estratégias e desafios de gestão e difusão documental'
   authors:
@@ -190,7 +185,6 @@ articles:
   - 'PEDIDO DE TOMBAMENTO INSTITUTO DE ARQUITETOS DO BRASIL | SP. Coordenação: José Armênio de Brito Cruz e José Tavares Correia de Lira.'
   - 'SIMIONI, Rafael Lazzarotto. Arquivo, história e memória: possibilidades de diálogo entre Luhmann e Foucault. São Paulo: Lua Nova, 2016.'
   - 'VIDOTTO, Taiana Car; MONTEIRO, Ana Maria Reis de Goes. O discurso profissional e o ensino na formação do arquiteto e urbanista moderno em São Paulo: 1948-1962. São Paulo, Artigos pós, 2015.'
-
 - id: sdsp08-007
   title: 'A escrita da historiografia da Arquitetura Moderna através da pesquisa documental em acervo de projetos: um estudo sobre a cidade de Ribeirão Preto, e as possibilidades de contribuição'
   authors:
@@ -233,7 +227,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. 2. ed. São Paulo: EDUSP, 1999.'
   - 'TRUZZI, Oswaldo. Italianidade no interior paulista. Percursos e descaminhos de uma identidade étnica (1880-1950). São Paulo: Editora Unesp, 2016.'
   - 'ZEIN, Ruth Verde. (Org). Revisões historiográficas: arquitetura moderna no Brasil. Rio de Janeiro: Rio Books, 2022.'
-
 - id: sdsp08-008
   title: 'A verticalização paulistana pelo acervo da FAUUSP: uma experiência de pesquisa integrada'
   authors:
@@ -290,7 +283,6 @@ articles:
   - 'SOMEKH, Nádia. A cidade vertical e o urbanismo modernizador: São Paulo, 1920-1939 [s.l.] Dissertação de Mestrado. FAUUSP. São Paulo, 1997.'
   - 'VIEGAS, Fernando Felippe. Conjunto Nacional: A construção do Espigão Central, Dissertação (Mestrado). São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo –FAUUSP, 2003.'
   - À Fundação de Amparo à Pesquisa do Estado de São Paulo pelo auxílio aos projetos de pesquisa n° 2020/16151-1 e n° 2021/07093-0.
-
 - id: sdsp08-009
   title: Portal digital para difusão dos acervos da FAUUSP
   authors:
@@ -343,7 +335,7 @@ articles:
   - 'LEAFLET. [2020]. Disponível em: https://leafletjs.com/. Acesso em: 04 jun. 2022.'
   - 'LIRA, J. et al. Acervos de arquitetura como espaço histórico de formação. Anais do Museu Paulista, São Paulo, Nova Série, v. 29, p. 1-31, 2021. Disponível em: https://doi.org/10.1590/1982-02672021v29e53. Acesso em: 04 jun. 2022.'
   - MARON, Deborah; FEINBERG, Melanie. What does it mean to adopt a metadata standard? A case study of Omeka and the Dublin Core. Journal of Documentation, v. 74, n. 4, p. 674-691, jul. 2018.
-  - 'MATOSO, Danilo. Lucio Costa fora de casa: notas sobre o exílio e seu acervo. O Partisano, Brasília, 2021a. Disponível em: https://opartisano.org/contracultura/lucio-costa-fora-de-casa- notas-sobre-o-exilio-de-seu-acervo/. Acesso em: 04 jun. 2022.'
+  - 'MATOSO, Danilo. Lucio Costa fora de casa: notas sobre o exílio e seu acervo. O Partisano, Brasília, 2021a. Disponível em: https://opartisano.org/contracultura/Lucio-costa-fora-de-casa- notas-sobre-o-exilio-de-seu-acervo/. Acesso em: 04 jun. 2022.'
   - 'OMEKA S. Disponível em: https://omeka.org/s/ Acesso em: 18 out. 2020.'
   - 'OPEN ARCHIVES. Protocol for Metadata Harvesting. Open Archives Initiative. Disponível em: https://www.openarchives.org/pmh/.Acesso em: 30 out. 2020.'
   - 'PEYCERÉ, David; WIERRE, Florence (eds.). Architecture et archives numériques: l''architecture à l''ère numérique: un enjeu de mémoire. Paris: Éditions Infolio, 2008.'
@@ -352,7 +344,6 @@ articles:
   - RINK, Katrina. Displaying special collections online. The Serials Librarian, v. 73, n. 2, p. 170- 178, Mar. 2017.
   - 'ROZESTRATEN, A. et al. Arquigrafia – ambiente colaborativo para o compartilhamento de imagens de arquitetura: procedimentos metodológicos junto ao acervo de slides da Seção Audiovisual da Biblioteca da FAUUSP. In: Seminário nacional de Documentação do patrimônio Arquitetônico com o uso de tecnologias digitais (ARQ-DOC), 2., 2012, Belém. Anais..., Disponível em: http://ccsl.ime.usp.br/files/publications/files/2012/Arquigrafia_ARQ- DOC2012.pdf. Acesso em: 20 out. 2020.'
   - 'SAKURAI, Tatiana et al. Acervo David Libeskind MAB/FAUUSP: constituição por meio do ensino, aprendizado e difusão. In: Seminário DOCOMOMO_BR, 11., 2016, Recife. Anais... Disponível em: http://seminario2016.docomomo.org.br/artigos_apresentacao/sessao%2012/DOCO_PE_S12_S AKURAI_BRITO_ULIANA_MARQUES.pdf. Acesso em: 30 out. 2020.'
-
 - id: sdsp08-010
   title: 'Jorge Caron: uma análise do acervo pessoal do arquiteto'
   authors:
@@ -400,7 +391,6 @@ articles:
   - 'ROZESTRATEN, Arthur Simões; ANDRADE, Beatriz Moraes de; FIGUEIREDO, Fernanda Gastal (org.). Manual de Procedimentos Técnicos do Projeto Arquigrafia. 2ª ed. São Paulo:'
   - SEGAWA, Hugo. A fragilidade e o peso dos papéis. Jornal da USP, São Paulo, 17 set. 2020.
   - WISNIK, Guilherme. Falta de estrutura no Brasil respalda decisão de Paulo Mendes da Rocha. Folha de S. Paulo, São Paulo, 26 set. 2020.
-
 - id: sdsp08-011
   title: 'A importância dos acervos de Arquitetura para a historiografia: a pesquisa sobre Eduardo Kneese de Mello'
   authors:
@@ -444,7 +434,6 @@ articles:
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. São Paulo: Fapesp, Edusp, Imprensa Oficial do Estado, 2001.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1998.'
   - 'WOLFF, Silvia Ferreira Santos. O acervo documental da Cia. City e sua utilização para o estudo do Jardim América e de sua arquitetura. São Paulo: Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo (Trabalho Programado 1), 1997.'
-
 - id: sdsp08-012
   title: 'Jacques Pilon e Giancarlo Palanti: pesquisa e os desafios da extroversão das coleções da seção técnica de materiais iconográficos da biblioteca da FAUUSP'
   authors:
@@ -492,7 +481,6 @@ articles:
   - SANTOS, Demósthenes. A história da Construtora Alfredo Mathias (1950-1985). Dissertação (Mestrado) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2013.
   - 'SILVA, Joana Mello de Carvalho e. O arquiteto e a produção da cidade: a experiência de Jacques Pilon em perspectiva (1930-1960). Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2010.'
   - 'SILVA, Joana Mello de Carvalho e. Um acervo, uma coleção e três problemas: a Coleção Jacques Pilon da Biblioteca da FAUUSP. Anais do Museu Paulista. São Paulo, v. 24, n. 3, p. 45-70, dez. 2016. Disponível em: https://www.revistas.usp.br/anaismp/article/view/126842/123814. Acesso em: 07 jun. 2022.'
-
 - id: sdsp08-013
   title: Hernani do Val Penteado e a variação estilística
   authors:
@@ -533,8 +521,7 @@ articles:
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1998.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: O Primeiro Bairro-jardim de São Paulo e Sua Arquitetura. São Paulo: Fapesp: Edusp: Imprensa Oficial do Estado, 2001.'
   - FAUUSP. Disponível em http://acervos.fau.usp.br/s/acervos/item- set/2626?sort_by=created&sort_order=desc&page=1. Acesso em 13/06/2021
-  - 'UNICAMP. Disponível em: http://www.unicamp.br/unicamp/a-unicamp/historia/ex- reitores/zeferino-vaz. Acesso 27/05/2022'
-
+  - 'UNICAMP. Disponível em: http://www.unicamp.br/unicamp/a-unicamp/historia/ex- reitores/zefeRino-vaz. Acesso 27/05/2022'
 - id: sdsp08-014
   title: O acervo da FAUUSP e a formação estudantil. O trabalho com as coleções de Oswaldo Arthur Bratke e Rino Levi
   authors:
@@ -570,14 +557,13 @@ articles:
   - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1985.'
   - 'CAMARGO, Mônica Junqueira de. Princípios de arquitetura moderna na obra de Oswaldo Arthur Bratke. Tese Doutorado em Arquitetura e Urbanismo- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2000. Disponível em: https://www.teses.usp.br/teses/disponiveis/16/16131/tde-26042022-155340/pt-br.php. Acesso em: 01 jun. 2022.'
   - 'CASTRO, Ana Claudia Veiga de; SILVA, Joana Mello de Carvalho e. Dossiê fazer história: o estatuto das fontes e o lugar dos acervos nas pesquisas de história de arquitetura e da cidade no Brasil. Anais do Museu Paulista, São Paulo, v. 24, n. 3, p. 11-18, 2016. Disponível em: <https://bit.ly/3kL20Nk>. Acesso em: 27 mai 2022.'
-  - 'ITAÚ CULTURAL. Ocupação Rino Levi. Organização Itaú Cultural. São Paulo. 2020 Disponível em: https://www.itaucultural.org.br/ocupacao/rino-levi/. Acesso 12 jun. 2022'
-  - 'LANNA, Ana Lúcia Duarte e BRITO, Gisele Ferreira de. Coleções para pesquisa e extensão: o acervo de arquitetura, urbanismo e design da FAU/USP. Ocupação Rino Levi: Exhibition Catalogue. São Paulo, ano 68 p, 2020. Acesso em: 5 jun. 2022.'
+  - 'ITAÚ CULTURAL. Ocupação Rino Levi. Organização Itaú Cultural. São Paulo. 2020 Disponível em: https://www.itaucultural.org.br/ocupacao/Rino-levi/. Acesso 12 jun. 2022'
+  - 'LANNA, Ana Lúcia Duarte e BRITO, Gisele Ferreira de. Coleções para pesquisa e extensão: o acervo de arquitetura, urbanismo e design da FAU/USP. Ocupação Rino Levi: ExhIBITion Catalogue. São Paulo, ano 68 p, 2020. Acesso em: 5 jun. 2022.'
   - 'LEMOS, Carlo A. C. Arquitetura Brasileira. São Paulo: Melhoramentos, 1979.'
   - 'LIRA, J., et al. Acervos de arquitetura como espaço histórico de formação. Anais do Museu Paulista: História e Cultura Material, [S. l.], v. 29, p. 1-31, 2021. Disponível em: https://www.revistas.usp.br/anaismp/article/view/181058. Acesso em: 2 jun. 2022'
   - 'SEGAWA, Hugo Massaki. Arquiteturas no Brasil. 1980-1990. São Paulo: EDUSP, 1997.'
   - 'SEGAWA, Hugo Massaki e DOURADO, Guilherme Onofre Mazza. Oswaldo Arthur Bratke: a arte de bem projetar e construir. São Paulo: PW Editores, 2012. Acesso em: 2 jun. 2022.'
   - 'SILVA, Joana Mello de Carvalho. e. Um acervo, uma coleção e três problemas: a Coleção Jacques Pilon da Biblioteca da FAUUSP. Anais do Museu Paulista: História e Cultura Material, [S. l.], v. 24, n. 3, p. 45-70, 2016. Disponível em: https://www.revistas.usp.br/anaismp/article/view/126842. Acesso em: 2 jun. 2022.'
-
 - id: sdsp08-015
   title: 'O edifício do SENAI de Sorocaba: do projeto ao estado de conservação atual'
   authors:
@@ -596,8 +582,8 @@ articles:
   file: sdsp08-015.pdf
   pages_count: 14
   pages: 211-224
-  abstract: No sentido de reconhecer o patrimônio moderno da cidade de Sorocaba foi realizada a leitura e análise de edifícios construídos entre as décadas de 1950 e 1980, verificando o estado de conservação e histórico. Entre esses está o edifício do Sistema Nacional de Aprendizagem Industrial (SENAI), construído em 1965 e projetado pelo arquiteto Lúcio Grinover e equipe. Ao realizar a leitura do projeto na Revista Acrópole e confrontá-la com edifício atual, observou-se que uma nova cobertura foi adicionada ao edifício, ocultando os paraboloides da laje dos laboratórios e outras alterações. Nesse sentido, objetiva-se apresentar o acervo fotográfico da Biblioteca do SENAI como fonte que documenta as intervenções realizadas no edifício. Por meio das imagens, verificou-se um problema de infiltração que existia na laje sobre os paraboloides, motivando a implantação de outra cobertura. Ressalta-se a importância do acervo da instituição como fonte de pesquisa e documentação, bem como a necessidade de reconhecer o edifício como exemplar da arquitetura moderna sorocabana.
-  abstract_en: To recognize the modern heritage of the city of Sorocaba, the reading and analysis of buildings built between the 1950s and 1980s was carried out, verifying the state of conservation and history. Among these is the building of the National Industrial Learning System (SENAI), built in 1965 and designed by architect Lúcio Grinover and his team. When reading the project in Revista Acrópole and comparing it with the current building, it was observed that a new cover was added to the building, hiding the paraboloids of the laboratory slab and other changes. In this sense, the objective is to present the photographic collection of the SENAI Library as a source that documents the interventions carried out in the building. Through the images, there was an infiltration problem that existed in the slab over the paraboloids, motivating the implementation of another cover. We emphasize the importance of the institution's collection as a source of research and documentation, as well as the need to recognize the building as an example of modern architecture in Sorocaba.
+  abstract: No sentido de reconhecer o patrimônio moderno da cidade de Sorocaba foi realizada a leitura e análise de edifícios construídos entre as décadas de 1950 e 1980, verificando o estado de conservação e histórico. Entre esses está o edifício do Sistema Nacional de Aprendizagem Industrial (SENAI), construído em 1965 e projetado pelo arquiteto Lúcio GRinover e equipe. Ao realizar a leitura do projeto na Revista Acrópole e confrontá-la com edifício atual, observou-se que uma nova cobertura foi adicionada ao edifício, ocultando os paraboloides da laje dos laboratórios e outras alterações. Nesse sentido, objetiva-se apresentar o acervo fotográfico da Biblioteca do SENAI como fonte que documenta as intervenções realizadas no edifício. Por meio das imagens, verificou-se um problema de infiltração que existia na laje sobre os paraboloides, motivando a implantação de outra cobertura. Ressalta-se a importância do acervo da instituição como fonte de pesquisa e documentação, bem como a necessidade de reconhecer o edifício como exemplar da arquitetura moderna sorocabana.
+  abstract_en: To recognize the modern heritage of the city of Sorocaba, the reading and analysis of buildings built between the 1950s and 1980s was carried out, verifying the state of conservation and history. Among these is the building of the National Industrial Learning System (SENAI), built in 1965 and designed by architect Lúcio GRinover and his team. When reading the project in Revista Acrópole and comparing it with the current building, it was observed that a new cover was added to the building, hiding the paraboloids of the laboratory slab and other changes. In this sense, the objective is to present the photographic collection of the SENAI Library as a source that documents the interventions carried out in the building. Through the images, there was an infiltration problem that existed in the slab over the paraboloids, motivating the implementation of another cover. We emphasize the importance of the institution's collection as a source of research and documentation, as well as the need to recognize the building as an example of modern architecture in Sorocaba.
   keywords:
   - Arquitetura Moderna
   - Patrimônio Moderno
@@ -612,7 +598,6 @@ articles:
   - 'LESSA, Juliane Bellot Rolemberg. O ensino na prancheta: da arquitetura escolar à docência de arquitetura e urbanismo, o legado de Hélio Duarte. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2017.'
   - 'MESTRE, João Luís Bengla. A arquitetura moderna em Sorocaba: décadas de 50, 60 e 70. Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2014.'
   - 'ZEIN, Ruth Verde. Leituras críticas. São Paulo: Romano Guerra Editora, 2018.'
-
 - id: sdsp08-016
   title: Edifício Nova Central
   authors:
@@ -654,7 +639,6 @@ articles:
   - 'SABBAG, Haifa Y. Documento Renovação: Modernidade em São Paulo. Revista AU Arquitetura e Urbanismo, São Paulo, n. 95, p. 44-51, abr./mai. 2001.'
   - 'SÃO PAULO (Cidade). Resolução nº 19/CONPRESP/2012, de 18 de dezembro de 2012. Resolução de tombamento de Conjunto de Edifícios Modernos. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/1912res_1374185859.pdf'
   - 'SÃO PAULO (Estado). Resolução SC 25/90, de 24 de agosto de 1990. Resolução de tombamento do Edifício Esther. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/e967c_RES.%20SC%20N%2025%20- %20Edificio%20Esther%20.pdf'
-
 - id: sdsp08-017
   title: Do pó viemos e para o pó não voltaremos – o que ninguém sabe sobre o edifício Pirapama (Recife-PE)
   authors:
@@ -685,7 +669,7 @@ articles:
   - Conservation
   references:
   - AFONSO, Alcília. Arquiteturas do sol. Resgate da modernidade no Nordeste brasileiro. Grupal, 2020.
-  - 'ALVES, Cleide. Delfim Amorim: um legado modernista para o Recife. 2017. Disponível em: < https://jc.ne10.uol.com.br/canal/cidades/geral/noticia/2017/07/09/delfim-amorim-um-legado- modernista-para-o-recife-294160.php > Acesso em 04, Abril 2022.'
+  - 'ALVES, Cleide. Delfim Amorim: um legado modernista para o Recife. 2017. Disponível em: < https://jc.ne10.uol.com.br/canal/cidades/geral/noticia/2017/07/09/Delfim-amorim-um-legado- modernista-para-o-recife-294160.php > Acesso em 04, Abril 2022.'
   - 'MOREIRA, F. A Construção de uma Cidade Moderna: Recife, 1909-1926. (Dissertação de Mestrado). Recife: MDU/UFPE, 1994.'
   - MOREIRA, Fernando Diniz; FREIRE, Ana Carolina de Mello. O Edifício-quintal de Wandenkolk Tinoco. Reflexões sobre a moradia em altura nos anos 1970. Arquitextos, São Paulo, ano 11, n. 129.04, Vitruvius, fev. 2011 <https://vitruvius.com.br/revistas/read/arquitextos/11.129/3749>.
   - 'MOREIRA, Fernando Diniz. A Transformação do Bairro de Santo Antônio no Recife (1938- 1949). Anais do XIV Seminário de História da Cidade e do Urbanismo. São Carlos: IAUUSP, 2016.'
@@ -693,7 +677,6 @@ articles:
   - 'ROBALINHO, Marcelo. PIRAPAMA: Um edifício cheio de histórias. 2011. Disponível em: < https://revistacontinente.com.br/edicoes/124/pirapama--um-edificio-cheio-de-historias > Acesso em 04, Abril 2022.'
   - 'SILVA, Geraldo Gomes. Delfim Amorim Arquiteto. Recife: Instituto dos Arquitetos do Brasil/ Departamento Pernambuco (IAB-PE), 1981. 191p.'
   - 'TINOCO, Jorge Eduardo Lucena. Mapa de danos: Recomendações básicas. Centro de Estudos Avançados da Conservação Integrada. Olinda, 2009.'
-
 - id: sdsp08-018
   title: 'A modernidade em dois atos: o Teatro Municipal de Araraquara'
   authors:
@@ -733,7 +716,6 @@ articles:
   - 'TELAROLLI, R. Para uma história de Araraquara: 1800 a 2000. Araraquara: UNESP, 2003'
   - 'TOLEDO, R. A. Trajetórias do planejamento urbano: o plano diretor da década de 1950 e o reordenamento urbano de Araraquara-SP. Sociedade e Cultura, v. 17, núm.2. p.301-326. Universidade Federal de Goiás, Goiânia, 2014.'
   - 'VARGAS, C. R. As várias faces da cidade: Bento de Abreu e a Modernização de Araraquara (1908-1916). Dissertação de Mestrado. Faculdade de História, Direito e Serviço Social da Universidade Estadual Paulista Júlio de Mesquita Filho. Franca, 2000'
-
 - id: sdsp08-019
   title: A casa de uma arquiteta moderna, estudo da residência Nadir de Carvalho (1975)
   authors:
@@ -764,7 +746,6 @@ articles:
   - PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980. 462f. Tese (Doutorado em Arquitetura) – Programa de Pós-Graduação em Arquitetura FAU-UFRS, Porto Alegre, 2010.
   - 'PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ. Biblioteca central da PUCPR completa 25 anos. Curitiba, 2019. Disponível em:< https://www.pucpr.br/60anos/noticia/biblioteca-central-da-pucpr-completa-25-anos/> Acesso em: 02 jun. 2022.'
   - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. 1. ed. Curitiba: Editora Pini, 1986.'
-
 - id: sdsp08-020
   title: 'A importância dos acervos iconográficos para a compreensão do processo projetual na Arquitetura: o exemplo do edifício São Luiz, de Marcello Fragelli'
   authors:
@@ -804,7 +785,6 @@ articles:
   - '_____________. Significados e Usos do Desenho na Arquitetura. In: VIZIOLI, Simone Helena Tanoue et. al (Orgs.). O desenho na história: a arte, o instrumento e a mão. São Carlos: IAU/USP, 2020, p. 167-177.'
   - 'ROBBINS, Edward. Why architects draw. Cambridge: MIT, 1994.'
   - 'TILL, Jeremy. Is doing architecture doing a research. 4IAU 4a Jornadas Internacionales sobre Investigación en Arquitectura y Urbanismo, Valencia, 2011. Universitat Politècnica de València. Disponível em: http://hdl.handle.net/10251/15032'
-
 - id: sdsp08-021
   title: 'Reflexões sobre a casa Broos: o processo projetual através dos desenhos do acervo'
   authors:
@@ -846,7 +826,6 @@ articles:
   - 'SEGAWA, Hugo. Arquitetura no Brasil, 1900-1990. São Paulo: Edusp, 2002.'
   - 'VÁZQUEZ RAMOS, Fernando Guillermo. Redesenho. Conceitos gerais para compreender uma prática de pesquisa histórica em arquitetura. Arquitextos, São Paulo, ano 17, n. 195.09, Vitruvius, ago. 2016. Disponível em: https://vitruvius.com.br/revistas/read/arquitextos/17.195/6181. Acesso em: 20 jul. 2022.'
   - 'XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura Moderna Paulista. São Paulo: Pini, 1983.'
-
 - id: sdsp08-022
   title: A preservação e destruição das obras do arquiteto Ayrton Lolô Cornelsen
   authors:
@@ -887,7 +866,6 @@ articles:
   - 'MARTINS, Felipe. Primeiro condomínio de casas em Curitiba tem inspiração em Portugal; conheça o projeto. Gazeta do Povo, Curitiba: [s.n.], 2019. Disponível em: https://www.gazetadopovo.com.br/haus/arquitetura/vila-curitiba-inspirada-em-portugal/. Acesso em: 20 maio 2022.'
   - 'VICENTE, Marcos Xavier. Autódromo de Pinhais fecha em dezembro começa a dar lugar a bairro projetado por Jaime Lerner. Gazeta do Povo, Curitiba: [s.n.], 2021. Disponível em: https://www.gazetadopovo.com.br/parana/em-2022-autodromo-de-pinhais-comeca-a-dar-lugar- a-bairro-projetado-por-jaime-lerner/. Acesso em: 25 maio 2022.'
   - 'TORQUATO, Rafael. Máquinas ocupam Autódromo de Pinhais para começar demolição, mas liminar impede inicio das obras. Banda b, Curitiba: [s.n.], 2021. Disponível em: https://www.bandab.com.br/geral/autodromo-internacional-de-curitiba-pode-ser-demolido-a- qualquer-mome/. Acesso em: 21 maio 2022.'
-
 - id: sdsp08-023
   title: 'MASP: desafios da preservação e salvaguarda. Adequação às normas de segurança contra incêndio e restauro das fachadas do Museu de Arte de São Paulo'
   authors:
@@ -965,7 +943,6 @@ articles:
   - Ambiência Arquitetura e Restauro
   - Ana Marta Ditolvo
   - Marco Scribonni
-
 - id: sdsp08-024
   title: 'Espaço como objeto de conservação: um estudo diacrônico do Pavilhão Ciccillo Matarazzo (1954-2021)'
   authors:
@@ -985,7 +962,7 @@ articles:
   pages_count: 18
   pages: 351-368
   abstract: Este artigo discute a questão do espaço como objeto de conservação da arquitetura moderna com base no Pavilhão Ciccillo Matarazzo, projeto de Oscar Niemeyer de 1954, que abriga a Bienal de São Paulo desde 1957. A discussão se suporta em um estudo diacrônico do edifício realizado junto ao Arquivo Histórico Wanda Svevo da Fundação Bienal de São Paulo, cujo redesenho dos planos das exposições permitiu reconstituir os planos do edifício no ano de cada Bienal. O estudo demonstrou que, apesar de as exposições serem realizadas no mesmo edifício, sua espacialidade é substancialmente alterada ao longo das décadas. Além do mapeamento destas alterações, o artigo reflete sobre as implicações configuracionais às funções genéricas do edifício, e sobre como esse caso pode contribuir para pensar a conservação do espaço de modo mais amplo.
-  abstract_en: This paper discusses the issue of space as an object of conservation of modern architecture based on the Ciccillo Matarazzo Pavilion, a 1954 project by Oscar Niemeyer, which has housed the Bienal de São Paulo since 1957. The discussion is based on a diachronic study of the building carried out together to the Arquivo Histórico Wanda Svevo of the Fundação Bienal de São Paulo, whose redrawing of the exhibition plans made it possible to reconstitute the plans of the building in the year of each Bienal. The study showed that, despite the exhibitions being held in the same building, its spatiality is substantially changed over the decades. In addition to mapping these changes, the paper reflects on the configurational implications for the generic functions of the building, and on how this case can contribute to thinking about space conservation in a broader way.
+  abstract_en: This paper discusses the issue of space as an object of conservation of modern architecture based on the Ciccillo Matarazzo Pavilion, a 1954 project by Oscar Niemeyer, which has housed the Bienal de São Paulo since 1957. The discussion is based on a diachronic study of the building carried out together to the Arquivo Histórico Wanda Svevo of the Fundação Bienal de São Paulo, whose redrawing of the exhIBITion plans made it possible to reconstitute the plans of the building in the year of each Bienal. The study showed that, despite the exhIBITions being held in the same building, its spatiality is substantially changed over the decades. In addition to mapping these changes, the paper reflects on the configurational implications for the generic functions of the building, and on how this case can contribute to thinking about space conservation in a broader way.
   keywords:
   - Conservação
   - Espaço
@@ -1020,7 +997,7 @@ articles:
   - MEDEIROS, Ana Elisabete, CHAIM, Giselle. Arquitetura por Escrito. Revista Projetar - Projeto e Percepção do Ambiente, 4, pp. 40–52, 2019.
   - 'MINDLIN, Henrique. Modern Architecture in Brazil. Rio de Janeiro/Amsterdam: Colibris, 1956.'
   - 'NIEMEYER, Oscar et al. Anteprojeto da exposição do IV centenário de São Paulo. São Paulo: Graphicars, 1952.'
-  - 'NÓBREGA, Lívia. Spatial Mediation: Buildings as commodities for exhibitions discourses – the case of the Bienal de São Paulo (1957-2018). Tese (Doutorado em Desenvolvimento Urbano) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2022.'
+  - 'NÓBREGA, Lívia. Spatial Mediation: Buildings as commodities for exhIBITions discourses – the case of the Bienal de São Paulo (1957-2018). Tese (Doutorado em Desenvolvimento Urbano) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2022.'
   - 'STEADMAN, Philip. Architectural morphology: an introduction to the geometry of building plans. London: Pion Limited, 1983.'
   - STINCO, Claudia. Redesenho como ferramenta de ensino/aprendizagem de História da Arquitetura. Seminário Projetar, pp. 1-13, 2015.
   - 'VÁZQUEZ RAMOS, Fernando. (2016). Redesenho: Conceitos gerais para compreender uma prática de pesquisa histórica em arquitetura. Anais do IV Enanparq, Porto Alegre, pp. 1-14, 2016.'
@@ -1029,7 +1006,6 @@ articles:
   - 'RISSELADA, Max. Raumplan versus plan libre. Delft: Delft University Press, 1991.'
   - 'VIDAL, Wylnna; TINEM, Nelci; COTRIM, Marcio. Diálogos gráficos: o uso do desenho mediando aproximações entre história e projeto na formação do arquiteto. In: 7o Fórum de Pesquisa FAU- Mackenzie, 2011, São Paulo. Anais do 7o Fórum de Pesquisa FAU-Mackenzie. São Paulo: FAU Mackenzie, 2011. v. único.'
   - 'ZEVI, Bruno. Saber ver la arquitectura: ensayo sobre la interpretación de la arquitectura. Buenos Aires: Editorial Poseidon, 1971.'
-
 - id: sdsp08-025
   title: 'O uso da grelha nos edifícios residenciais de MMM Roberto: da regularidade à distorção'
   authors:
@@ -1071,7 +1047,6 @@ articles:
   - ROBERTO, Marcelo. O pensamento de Marcelo Roberto. Arquitetura, nº 28, outubro de 1964.
   - 'SOUZA, Luiz Felipe Machado Coelho de Souza.Irmãos Roberto, arquitetos. Rio de Janeiro: Rio Books, 2014.'
   - SOUZA, Luiz Felipe Machado Coelho de Souza. Lesfrères Roberto, Architectes. Volume 2 – corpus. Bâtiments d’habitat collectifcontruits à Rio de Janeiro, 1945-1969.Tese (Doutorado) apresentado a Université Paris I Pantheón-Sorbonne,Paris, 2006.
-
 - id: sdsp08-026
   title: 'Arquitetura e cidade no processo de modernização: Londrina e sua produção moderna na década de 1950'
   authors:
@@ -1110,7 +1085,6 @@ articles:
   - 'GUADANHIM, Sidnei Junior. Influência da Arquitetura Moderna nas Casas de Londrina: 1955 – 1965. 2002. Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2002.'
   - 'MARTINS, Carlos Alberto Ferreira. Construir uma Arquitetura, Construir um País. In: SCHWARZ, Jorge (org.) Brasil 1920-50: Da Antropofagia a Brasília. São Paulo: FAAP/Cosac Naify, 2002.'
   - MARTINS, Carlos Alberto Ferreira. Há algo de irracional...
-
 - id: sdsp08-027
   title: 'Cia. City: acervo e pesquisas'
   authors:
@@ -1164,7 +1138,6 @@ articles:
   - 'WOLFF, Silvia Ferreira Santos. O moderno como opção estilística: a gradual assimilação das linguagens despojadas de ornamentos na arquitetura residencial do bairro Jardim América em São Paulo nas décadas de 20 e 40. In: DOCOMOMO - BRASIL, 3º Seminário, 1999, São Paulo. A permanência do moderno. Disponível em: https://docomomobrasil.com/course/3-seminario- docomomo-brasil-sao-paulo/. Acesso em: 20 maio 2022.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1998.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: O Primeiro Bairro-jardim de São Paulo e Sua Arquitetura. São Paulo: Fapesp: Edusp: Imprensa Oficial do Estado, 2001.'
-
 - id: sdsp08-028
   title: 'Intervenções arquitetônicas em residências modernas no Nordeste brasileiro: estudos de casos em Campina Grande, PB'
   authors:
@@ -1192,7 +1165,6 @@ articles:
   - 'AFONSO, Alcilia. (org). Campina Grande Moderna. Campina Grande: EDUFCG.2022.'
   - 'AFONSO, Alcilia. Resgate documental do patrimônio moderno através de ferramentas digitais: O Museu de Arte Moderna de Recife. Acácio Gil Borsói.1955. 7º Seminário ibero- americano de arquitetura e documentação. Belo Horizonte: 2021.'
   - AFONSO, Alcilia.
-
 - id: sdsp08-029
   title: Levantamentos digitais como metodologia de identificação da Arquitetura Moderna no centro de Ribeirão Preto
   authors:
@@ -1236,7 +1208,6 @@ articles:
   - 'REIS FILHO, N.G. Quadro da arquitetura no Brasil. 13. ed. São Paulo: PERSPECTIVA, 2000.'
   - 'SANTOS, Laura Marques dos. Uma história não contada: o reconhecimento da Arquitetura Moderna no Quadrilátero Central de Ribeirão Preto entre as décadas de 1940 e 1960. Orientadora: Tatiana de Souza Gaspar. Relatório de Pesquisa. São Paulo: UNIP - Universidade Paulista, 2020.'
   - 'WOLFF, Silvia Ferreira Santos. Arquitetura Moderna no interior do estado de São Paulo em meados do século XX: Pioneirismo e relação com a natureza na obra de Gonçalves e Ijair Cunha em Ribeirão Preto. In: SEMINÁRIO DOCOMOMO BRASIL, 14., jun. 2022, Belém. Disponível em: https://docomomo.org.br/course/14o-seminario-docomomo-brasil-belem/. Acesso em: 07 fev. 2022.'
-
 - id: sdsp08-030
   title: 'Deambular pelo moderno: o caminhar como preservação da Arquitetura Moderna de Curitiba'
   authors:
@@ -1255,8 +1226,8 @@ articles:
   file: sdsp08-030.pdf
   pages_count: 15
   pages: 443-457
-  abstract: Lineu Castello, em seu livro “A percepção de lugar”, introduz a escrita com uma interessante frase de uma entrevista de Denise Scott Brown e Robert Venturi à Hans Obrist e Rem Koolhaas que menciona que os arquitetos, ao serem sensíveis ao seu tempo, gostam de analisar o que lhes estimula, pois, esse estímulo será relevante. Este artigo partiu de uma pesquisa que busca artifícios para promover um caráter identitário à cidade, através de um Promenade Urbano que valoriza a arquitetura moderna de Curitiba. A partir de tais análises, o centro da cidade de Curitiba é escolhido para abrigar um passeio deambulatório pela arquitetura moderna com intenção de instigar a percepção dos transeuntes ao os levar para espaços de encontro, com a arquitetura e com o outro. Um modesto e despojado convite à reflexão de como os arquitetos poderão entregar resultados pertinentes para os prementes desafios arquitetônicos.
-  abstract_en: Lineu Castello, in his book “Rethiking the meaning of a place”, starts his writing with an interesting sentence from an interview by Denise Scott Brown and Robert Venturi to Hans Obrist and Rem Koolhaas that mentions that architects, being sensitive to their time, like to analyze what stimulates them, because this stimulus will be relevant. This article started from a research that seeks artifices to promote an identity character to the city, through an Urban Promenade that values the modern architecture of Curitiba. Based on these analyses, the city center of Curitiba is chosen to host a walking tour of modern architecture to instigate people perceptions by taking them to spaces, where they can meet architecture and other people. A modest and uncluttered invitation to reflect on how architects can deliver relevant results for pressing architectural challenges.
+  abstract: Lineu Castello, em seu livro “A percepção de lugar”, introduz a escrita com uma interessante frase de uma entrevista de DeNise Scott Brown e Robert Venturi à Hans Obrist e Rem Koolhaas que menciona que os arquitetos, ao serem sensíveis ao seu tempo, gostam de analisar o que lhes estimula, pois, esse estímulo será relevante. Este artigo partiu de uma pesquisa que busca artifícios para promover um caráter identitário à cidade, através de um Promenade Urbano que valoriza a arquitetura moderna de Curitiba. A partir de tais análises, o centro da cidade de Curitiba é escolhido para abrigar um passeio deambulatório pela arquitetura moderna com intenção de instigar a percepção dos transeuntes ao os levar para espaços de encontro, com a arquitetura e com o outro. Um modesto e despojado convite à reflexão de como os arquitetos poderão entregar resultados pertinentes para os prementes desafios arquitetônicos.
+  abstract_en: Lineu Castello, in his book “Rethiking the meaning of a place”, starts his writing with an interesting sentence from an interview by DeNise Scott Brown and Robert Venturi to Hans Obrist and Rem Koolhaas that mentions that architects, being sensitive to their time, like to analyze what stimulates them, because this stimulus will be relevant. This article started from a research that seeks artifices to promote an identity character to the city, through an Urban Promenade that values the modern architecture of Curitiba. Based on these analyses, the city center of Curitiba is chosen to host a walking tour of modern architecture to instigate people perceptions by taking them to spaces, where they can meet architecture and other people. A modest and uncluttered invitation to reflect on how architects can deliver relevant results for pressing architectural challenges.
   keywords:
   - Arquitetura
   - Moderna
@@ -1280,7 +1251,6 @@ articles:
   - 'TERRA, T. V. ; DIAS, K. Caminhar, um método poético (Brasília). In: II Seminário Internacional de Pesquisa em Arte e Cultura Visual, 2018, Goiânia. Anais do Seminário Internacional de Pesquisa em Arte e Cultura Visual. Goiânia: Universidade Federal de Goiás, 2018. p. 344 - 355.'
   - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. Fundação Cultural de Curitiba. São Paulo: Pini, 1986.'
   - 'ZEVI, Bruno. Saber ver a arquitetura. 6ª edição, São Paulo: Martins Fontes, 2017.'
-
 - id: sdsp08-031
   title: 'Centro Histórico de São Paulo: documentação e estudos de reabilitação'
   authors:
@@ -1319,9 +1289,8 @@ articles:
   - Documentation
   - Database
   - Preservation of the Historic Center of São Paulo
-
 - id: sdsp08-032
-  title: 'Patrimônio ferroviário de birigui: potencialidades contemporâneas de conservação e preservação'
+  title: 'Patrimônio ferroviário de Birigui: potencialidades contemporâneas de conservação e preservação'
   authors:
   - givenname: Evelyn Caroline da Silva
     familyname: Camara
@@ -1354,7 +1323,6 @@ articles:
   - 'DELEUZE Gilles., GUATTARI Félix. Mil Platôs. Rio de Janeiro: Editora 34, 1995.'
   - 'PASSOS, Eduardo; KASTRUP, Virgínia; ESCÓSSIA, Liliana da. (orgs.).Pistas do método da cartografia: Pesquisa – intervenção e produção de subjetividade. Porto Alegre: Sulina, 2009.'
   - 'SOLÀ-MOALES, Manuel de. De cosas urbanas. Barcelona: Editora Gustavo Gili S.A.,2008.'
-
 - id: sdsp08-033
   title: 'O papel da galeria de Design na preservação do móvel moderno brasileiro: a experiência da bossa furniture'
   authors:
@@ -1374,7 +1342,7 @@ articles:
   pages_count: 15
   pages: 485-499
   abstract: Ao longo da última década, a recente valorização do Móvel Moderno Brasileiro vem sendo abordada no campo do resgate histórico e preservação da produção. Entretanto, o cenário geral se caracteriza pela ausência de publicações, exposições e pesquisas relacionadas ao mercado de design do Brasil no mesmo período. A tradição das casas de antiguidades e o tempo de mercado consolidaram as galerias, mas ainda existem poucas iniciativas de discussões acerca da salvaguarda, memória e identidade da rica produção brasileira da década de 1950. O presente artigo pretende abordar a experiência da galeria de atuação internacional Bossa Furniture, investigando suas iniciativas de preservação, comunicação e pesquisa referente à sua coleção de mobiliário moderno brasileiro.
-  abstract_en: Over the last decade, the recent appreciation of Brazilian Modern Furniture has become an object of research. Still, in the field of historical recovery and preservation of production, the general scenario is the absence of publications, exhibitions, and research related to the design market in Brazil. The tradition of the antique market as well as their logevity consolidated the galleries. However, we still have few initiatives for discussions about the rich Brazilian production's safeguard, memory, and identity. The present article intends to approach the experience of the international gallery Bossa Furniture, investigating its initiatives regarding preservation, communication, and investigation of its collection of modern Brazilian furniture.
+  abstract_en: Over the last decade, the recent appreciation of Brazilian Modern Furniture has become an object of research. Still, in the field of historical recovery and preservation of production, the general scenario is the absence of publications, exhIBITions, and research related to the design market in Brazil. The tradition of the antique market as well as their logevity consolidated the galleries. However, we still have few initiatives for discussions about the rich Brazilian production's safeguard, memory, and identity. The present article intends to approach the experience of the international gallery Bossa Furniture, investigating its initiatives regarding preservation, communication, and investigation of its collection of modern Brazilian furniture.
   keywords:
   - Design brasileiro
   - Móvel Moderno
@@ -1394,7 +1362,6 @@ articles:
   - 'SANCHES, Aline Coelho. “O Studio De Arte Palma E a fábrica De móveis Pau Brasil: Povo, Clima, Materiais Nacionais E O Desenho De mobiliário Moderno No Brasil”. Risco Revista de Pesquisa em Arquitetura e Urbanismo (Online), no. 1 (julho 1, 2003): 22-43. Disponível em: <https://tinyurl.com/3j76hsad> Acesso em: 03 de agosto, 2022.'
   - 'SANTOS, Maria Cecilia Loschiavo dos. Móvel Moderno no Brasil / Modern Furniture in Brazil. São Paulo: Editora SENAC, 2017.'
   - 'STRÁNSKÝ, Zbynek Z. Política corrente de aquisição e adaptação às necessidades de amanhã. In: Cadernos Museológicos n° 2. Rio de Janeiro: Secretaria de Cultura/IBPC, 1989, p. 94-98.'
-
 - id: sdsp08-034
   title: 'Gare do oriente: âncora arquitetônica, dinâmica na expo98'
   authors:
@@ -1428,7 +1395,6 @@ articles:
   - 'CALATRAVA, Santiago (1998) - Estação do Oriente. In VILLALOBOS, Bárbara; MOREIRA, Luís (Org.). EXPO''98: Exposição Mundial de Lisboa - Arquitetura. Lisboa, Portugal: Blau, 1998'
   - 'TELES, Vera Queiroga Nogueira Galvão. Expo’98: Lisboa cidade e requalificação. 2014. 192 f. Dissertação (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade Lusíada de Lisboa, Lisboa, Portugal, 2014.'
   - 'TOUSSAINT, Michel. O Recinto da Expo’98. In VILLALOBOS, Bárbara; MOREIRA, Luís (Org.). EXPO''98: Exposição Mundial de Lisboa - Arquitetura. Lisboa, Portugal: Blau, 1998.'
-
 - id: sdsp08-035
   title: 'Arquitetura e as bienais: o acervo do arquivo histórico wanda svevo'
   authors:
@@ -1448,7 +1414,7 @@ articles:
   pages_count: 16
   pages: 518-533
   abstract: As Bienais de Arquitetura apresentam-se como oportunidades para estudos em diversos campos além da própria Arquitetura. São capazes de reunir e revelar a cultura arquitetônica, aspectos da prática profissional e da relação do arquiteto com a sociedade. Para estimular pesquisas que explorem estas exposições, este artigo adotou o objetivo de mapear os documentos relativos às Bienais Internacionais de Arquitetura de São Paulo (BIA) e às suas antecessoras, as Exposições Internacionais de Arquitetura (EIA), no Arquivo Histórico Wanda Svevo, o maior acervo dedicado às Bienais de São Paulo e a fonte mais rica e acessível sobre estes eventos. Através deste mapeamento, revelou-se o volume de documentos relativos a estas exposições e sua extensão da 1ª EIA (1951) à 7ª BIA (2007).
-  abstract_en: Architecture Biennials offer study opportunities in multiple fields beyond Architecture itself. They can bring together and reveal the architectural culture, aspects of professional practice, and the relations between architects and society. To encourage further research, this work maps the documents relating to the São Paulo International Architecture Biennials (BIA) and the International Architecture Exhibitions (EIA) in Wanda Svevo Historical Archive. This Archive holds the most notable collection of São Paulo Biennials and is the most accessible source about these events. This mapping revealed the number of related documents and their extension from the first EIA (1951) to the seventh BIA (2007).
+  abstract_en: Architecture Biennials offer study opportunities in multiple fields beyond Architecture itself. They can bring together and reveal the architectural culture, aspects of professional practice, and the relations between architects and society. To encourage further research, this work maps the documents relating to the São Paulo International Architecture Biennials (BIA) and the International Architecture ExhIBITions (EIA) in Wanda Svevo Historical Archive. This Archive holds the most notable collection of São Paulo Biennials and is the most accessible source about these events. This mapping revealed the number of related documents and their extension from the first EIA (1951) to the seventh BIA (2007).
   keywords:
   - Bienal de Arquitetura
   - Arquivo Histórico
@@ -1476,7 +1442,6 @@ articles:
   - 'MIGUEZ, Stella. Arquitetura em exposição: uma prática interdisciplinar – caracterização da Bienal Internacional de Arquitetura de São Paulo. Tese (Doutorado em Arquitetura). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2005.'
   - 'SCHWARZ, Roberto. Cultura e política, 1964-1969: alguns esquemas. In: SCHWARZ, Roberto. O pai de família e outros estudos. São Paulo: Companhia das Letras, 2008.'
   - 'ZAGO, Renata Cristina de Oliveira Maia. Bienais de São Paulo: arquivo, memória e esquecimento. In: HOFFMANN et. al. (orgs.). História da Arte: coleções, arquivos e narrativas. Bragança Paulista - SP: Editora Urutau, 2015.'
-
 - id: sdsp08-036
   title: 'Certidões vintenárias como fontes documentais: alternativas para a compreensão histórica de um patrimônio arquitetônico de Niemeyer no interior do Rio de Janeiro'
   authors:
@@ -1514,7 +1479,6 @@ articles:
   - LA MAISON de week-end de l’architecte a mendes. L'architecture d'aujourd'hui, Paris, número especial "Brésil", n 42-43, 1952. p.78.
   - 'NIEMEYER, Oscar. Oscar Niemeyer: casas onde morei. Rio de Janeiro: Revan, 2005.'
   - 'VIEIRA, Natália de Araújo. Posturas intervencionistas contemporâneas e a prática brasileira institucionalizada. In: ENANPARQ, 3, 2014, São Paulo. Disponível em: https://www.anparq.org.br/dvd-enanparq-3/htm/Artigos/ST/ST-PCI-002-02%20- %20Artigo%20Natalia%20Vieira.pdf. Acesso em: 07 jun. 2022.'
-
 - id: sdsp08-037
   title: 'Concurso como prática: o processo de pesquisa'
   authors:
@@ -1539,14 +1503,14 @@ articles:
   pages_count: 13
   pages: 549-561
   abstract: 'Em setembro de 2021, no Museu Oscar Niemeyer, em Curitiba, foi aberta ao público a exposição “Concurso como prática: a presença da arquitetura paranaense”, de autoria de Fábio Domingos Batista, Alexandre Ruiz Rosa e Marina Oba, com curadoria de Elisabete França. O objetivo do presente artigo é apresentar os métodos, as fontes, e os acervos que integraram os processos de investigação e fundamentação da Exposição, conduzidos por Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich e Julia Centeno.'
-  abstract_en: 'In September 2021, at the Oscar Niemeyer Museum, in Curitiba, the exhibition “Contest as a practice: the presence of Paraná architecture” was opened to the public, made by Fábio Domingos Batista, Alexandre Ruiz Rosa and Marina Oba, curated by Elisabete França. The purpose of this article is to present the methods, sources, and collections that integrated the research and foundation processes of the Exhibition, conducted by Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich and Julia Centeno.'
+  abstract_en: 'In September 2021, at the Oscar Niemeyer Museum, in Curitiba, the exhIBITion “Contest as a practice: the presence of Paraná architecture” was opened to the public, made by Fábio Domingos Batista, Alexandre Ruiz Rosa and Marina Oba, curated by Elisabete França. The purpose of this article is to present the methods, sources, and collections that integrated the research and foundation processes of the ExhIBITion, conducted by Marina Oba, Daniela Moro, Beatriz Teixeira, Gabriel Tomich and Julia Centeno.'
   keywords:
   - Concurso
   - Exposição
   - Acervo
   keywords_en:
   - Contest
-  - Exhibition
+  - ExhIBITion
   - Archive
   references:
   - 'FILHO, Raimundo Nonato Veloso. Arquitetos Paulistas e os Concursos Nacionais de Arquitetura: 1990 a 2010. Tese (Doutorado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2014.'
@@ -1562,7 +1526,6 @@ articles:
   - SANTOS, Valéria Cássia dos. Concursos de Arquitetura em São Paulo. Dissertação (Mestrado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2002.
   - 'SOBREIRA, Fabiano José Arcadio. Dinâmicas do Jogo: Concursos de Arquitetura em Revista: 1935 a 1971. Dissertação (Mestrado em Arquitetura e Urbanismo), Universidade de Brasília, Brasília, 2018.'
   - 'SUZUKI, Eduardo Hideo. Concursos de arquitetura e urbanismo o Brasil de 1984 a 2012: a eficiência dos concursos públicos nacionais. Tese Doutorado – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - São Paulo, 2016. Orientador: Prof. Dr. Bruno Padovano.'
-
 - id: sdsp08-038
   title: A pesquisa historiográfica como propulsora da discussão sobre a importância dos acervos de concursos públicos de anteprojetos
   authors:
@@ -1598,7 +1561,6 @@ articles:
   - 'SCHERE, R. Concursos 1825 – 2006. Buenos Aires: Sociedad Central de Arquitectos. 2008.'
   - 'SOBREIRA, F.J.A. Dinâmicas do jogo. Concursos de arquitetura no Brasil. Brasília: Ed. MGSR, setembro, 2019.'
   - 'SOUZA, Luiz Eduardo Simões de. Alicerçando o Subdesenvolvimento: História e Política Econômica na Argentina, 1943-1983. Revista de Economia Política e História Econômica. São Paulo, junho de 2008. N°12.'
-
 - id: sdsp08-039
   title: 'Narrativas da modernidade: o problema das "escolas" e os acervos na historiografia da Arquitetura'
   authors:
@@ -1654,7 +1616,6 @@ articles:
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese (Doutorado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
   - ___. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação (Mestrado) - Universidade Federal do Rio Grande do Sul, Porto Alegre, 2000.
   - 'ZEVI, Bruno. História da arquitectura moderna. Lisboa: Arcadia, 1970.'
-
 - id: sdsp08-040
   title: O concurso e o projeto premiado para a sede da SBPC (1978)
   authors:
@@ -1715,4 +1676,4 @@ articles:
   - 'ZEIN, Ruth Verde. Arquitetura bancária: muita construção, muita arquitetura. PROJETO, São Paulo, n. 63, mai. 1984. Disponível em: https://revistaprojeto.com.br/acervo/arquitetura- bancaria-muita-construcao-muita-arquitetura-por-ruth-verde-zein/. Acesso em: 03 mai. 2022.'
   - 'ZEIN, Ruth Verde. Sacudindo a poeira, mas valorizando o patrimônio. PROJETO, São Paulo, n. 75, mai. 1985. Disponível em: https://revistaprojeto.com.br/acervo/sacudindo-a- poeira-mas-valorizando-o-patrimonio-por-ruth-verde-zein. Acesso em: 03 mai. 2022.'
   - ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista (1953-1973). Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo, Universidade do Rio Grande do Sul, Porto Alegre, 2005.
-  - Miguel Antonio Buzzar Mônica Junqueira de Camargo Cristiane Krohling P. Borges Bernardi Maisa Fonseca de Almeida Fernando Atique Jasmine Luiza Souza Silva Maria Alice Messias Vinicius Galbieri Severino Ivo Renato Giroto Natália Cappellari Rezende Rachel Bergantin Tatiana de Souza Gaspar Juliana Binotti Pereira Scariato Amanda Saba Ruggiero Flávia Brito do Nascimento Joana D’Arc de Oliveira Miranda Zamberlan Nedel Fernanda Millan Fachi Ana Elena Salvi Cristina Zampieri
+  - Miguel Antonio Buzzar Mônica Junqueira de Camargo Cristiane Krohling P. Borges Bernardi Maisa Fonseca de Almeida Fernando Atique Jasmine Luiza Souza Silva Maria Alice Messias Vinicius Galbieri SeveRino Ivo Renato Giroto Natália Cappellari Rezende Rachel Bergantin Tatiana de Souza Gaspar Juliana Binotti Pereira Scariato Amanda Saba Ruggiero Flávia Brito do Nascimento Joana D’Arc de Oliveira Miranda Zamberlan Nedel Fernanda Millan Fachi Ana Elena Salvi Cristina Zampieri

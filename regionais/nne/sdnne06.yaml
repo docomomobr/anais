@@ -5,26 +5,70 @@ number: 6
 
 evento:
   titulo: 6º Seminário Docomomo Norte/Nordeste
-  tema: ~
+  tema: "Arquitetura: Tectônica e Lugar"
   local: Teresina, PI
-  data: 2016
-  organizacao: []
+  instituicao: Universidade Federal do Piauí (UFPI)
+  data: "10 a 13 de agosto de 2016"
+  organizacao:
+    - nome: Alcília Afonso
+      instituicao: UFCG
+      papel: Coordenadora geral
+    - nome: Víctor Veríssimo
+      instituicao: UFCG
+    - nome: Rômulo Marques
+      instituicao: UFPI
+    - nome: Péricles Medeiros
+      instituicao: Prefeitura do Recife
+    - nome: Thiscianne Pessoa
+      instituicao: UFPI
+    - nome: Nayane Costa
+      instituicao: UFPI
+    - nome: Camilla Meneses
+      instituicao: UFCG
+    - nome: Ana Rosa Negreiros
+      instituicao: UFPI
+    - nome: Aracelly Magalhães
+      instituicao: Centro Universitário UNINOVAFAPI
+    - nome: Isis Meireles
+      instituicao: Centro Universitário UNINOVAFAPI
+    - nome: Allyson Barbosa
+      instituicao: UFCG
 
 publicacao:
   ficha_catalografica: |
-    6° Seminário Docomomo Norte/Nordeste: caderno de resumos [recurso eletrônico].
-    Teresina: [Editora], 2016.
-  isbn: ~
-  editora: ~
+    DOCOMOMO Norte/Nordeste (6.:2016:.Teresina, PI)
+    Arquitetura: tectônica e lugar / VI DOCOMOMO Norte/Nordeste. — Teresina, 2016.
+    200p. il.
+    ISBN 978-85-7463-919-2
+    Seminário realizado em Teresina de 10 a 13 de agosto de 2016.
+    1. Patrimônio e cidade. 2. História e cidade. I. Título. II. Afonso, Alcília.
+    CDD 725.948 122
+  isbn: "978-85-7463-919-2"
+  editora: UFPI
   ano: 2016
+  tipo: Caderno de Resumos
+
+secoes:
+  - titulo: Eixo Temático 1 — Arquitetura e Modernidade
+  - titulo: Eixo Temático 2 — Tectônica e Modernidade
+  - titulo: Eixo Temático 3 — Lugar e Modernidade
+  - titulo: Eixo Temático 4 — Arquitetura x Tectônica x Lugar — Interdisciplinaridade
+  - titulo: Eixo Temático 5 — Manifestações Artísticas e Culturais na Modernidade
 
 fontes:
   docomomobrasil:
     url: https://docomomobrasil.com/course/6-seminario-docomomo-n-ne-teresina-2016/
+    wordpress_id: 5494
     tipo: Caderno de Resumos apenas
-  externa: ~
+  caderno_resumos:
+    url: https://docomomobrasil.com/wp-content/uploads/2022/04/6docomomoNNE_caderno_de_resumos.pdf
+    arquivo_local: regionais/nne/sdnne06/6docomomoNNE_caderno_de_resumos.pdf
+    paginas: 134
+    tamanho: 64 MB
+  ufpi:
+    url: https://ufpi.br/ultimas-noticias-ufpi/14777-curso-de-arquitetura-e-urbanismo-da-ufpi-promove-o-6-docomomo-n-ne
 
 status: parcial
-notas: "Apenas caderno de resumos localizado - buscar anais completos"
+notas: "Apenas caderno de resumos (106 resumos). Sem textos completos, sem PDFs individuais. Autores listados com iniciais apenas. Contatar Alcília Afonso para verificar existência de anais completos."
 
 artigos: []

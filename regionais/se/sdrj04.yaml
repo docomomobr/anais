@@ -2,25 +2,25 @@ issue:
   slug: sdrj04
   title: 4º Seminário Docomomo Rio, Rio de Janeiro, 2017
   subtitle: 'O moderno no Rio: do risco ao risco'
-  description: 'BORDE, Andréa de Lacerda Pessôa; SALOMON, Maria Helena Röhe; COSTA, Renato da Gama-Rosa (org.). O moderno no Rio: do risco ao risco. Rio de Janeiro: 2018. 279 p. ISBN 978-85-88027-42-8.'
   year: 2017
-  volume: 1
+  volume: 2
   number: 4
-  date_published: '2017-10-31'
   isbn: 978-85-88027-42-8
-  publisher: ''
+  publisher: Núcleo Docomomo Rio
   editors:
   - Andréa de Lacerda Pessôa Borde
   - Maria Helena Röhe Salomon
   - Renato da Gama-Rosa Costa
+  volume_pdf: sdrj04_anais.pdf
+  description: '4° Seminário Docomomo Rio: anais: O moderno no Rio: do risco ao risco [recurso eletrônico] / organização: Andréa de Lacerda Pessôa Borde, Maria Helena Röhe Salomon, Renato da Gama-Rosa Costa. Rio de Janeiro: Núcleo Docomomo Rio, 2018. Disponível também em: docomomobrasil.com/publicacoes/lancamento-anais-iv-docomomo-rio. ISBN: 978-85-88027-42-8.'
   source: https://docomomobrasil.com/publicacoes/lancamento-anais-iv-docomomo-rio/
+  date_published: '2017-10-31'
   sections:
   - title: Eixo 1 - O risco moderno no Rio
     abbrev: E1-sdrj04
   - title: Eixo 2 - O moderno em risco no Rio
     abbrev: E2-sdrj04
 articles:
-
 - id: sdrj04-001
   locale: pt-BR
   arquivo_pdf: sdrj04-001.pdf
@@ -79,7 +79,6 @@ articles:
     country: BR
     primary_contact: false
   paginas: 9-25
-
 - id: sdrj04-002
   locale: pt-BR
   arquivo_pdf: sdrj04-002.pdf
@@ -139,7 +138,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 26-44
-
 - id: sdrj04-003
   locale: pt-BR
   arquivo_pdf: sdrj04-003.pdf
@@ -180,7 +178,6 @@ articles:
     primary_contact: true
   resumo_es: Este trabajo es parte de la tesis doctoral desarrollada por la autora y propone el análisis de la trayectoria teórico-profesional de una mujer pionera de la arquitectura y del urbanismo modernos en Rio de Janeiro, bajo en enfoque de actual de la perspectiva de género. El acercamiento a la teoría y a la práctica de la labor de Carmen Portinho ofrece visibilidad a una figura de gran importancia en la lucha por la emancipación femenina, en el desarrollo de la política de vivienda social y en el planeamiento de nuestra ciudad. Gracias a su pensamiento feminista, la ingeniera urbana pone mucha atención a las necesidades de mujeres y niños. Su obra va a traer temas ampliamente discutidos en los Estados Unidos y en Europa desde el período entreguerras con énfasis en los conceptos tratados en los Congresos Internacionales de Arquitectura Moderna (CIAMs). Si por un lado, el análisis de su producción de políticas y proyectos de vivienda nos lleva a detectar un claro posicionamiento hacia nuevas maneras de vivir la ciudad, por otro, la perspectiva de género es una herramienta valiosa para el proyecto urbano de la vivienda. La lucha por la igualdad de género es un derecho humano y por eso debe ser entendido como abordaje imprescindible al derecho a la ciudad.
   paginas: 45-64
-
 - id: sdrj04-004
   locale: pt-BR
   arquivo_pdf: sdrj04-004.pdf
@@ -242,13 +239,12 @@ articles:
     country: BR
     primary_contact: false
   paginas: 65-81
-
 - id: sdrj04-005
   locale: pt-BR
   arquivo_pdf: sdrj04-005.pdf
   pages_count: 16
   resumo: 'O presente artigo versa sobre os processos de afirmação do Movimento Moderno no Brasil e pretende investigar de que modo o uso da fotografia pode contribuir para a afirmação de conceitos nem sempre explicitados em textos. O objeto de estudo é o seminal livro-catálogo Brazil Builds, editado em 1943 por ocasião da realização de uma exposição homônima no Museu de Arte Moderna de Nova York (MoMA), e tem como suporte teórico as reflexões formuladas por Vilém Flusser em A filosofia da caixa-preta: ensaios para uma futura filosofia da fotografia (1985). Interessa-nos examinar de que modo o referido livro-catálogo incutiu um determinado modo de se pensar a arquitetura moderna brasileira, valendo-se da análise de uma pequena amostra de projetos implantados na cidade do Rio de Janeiro. Por essa seleção de imagens pretende-se equacionar a contribuição da publicação para suprimir o tempo da narrativa, valendo-se do encantamento emanado pela fotografia.'
-  resumo_en: 'This article deals with the processes of affirmation of the Modern Movement in Brazil and intends to investigate how the use of photography can contribute to the affirmation of concepts not always explicit in texts. The object of study is the seminal catalog Brazil Builds, published on the occasion of an eponymous exhibition held in 1943 at the New York Museum of Modern Art (MoMA), and has as theoretical support the reflections formulated by Vilém Flusser in A filosofia da caixa-preta: ensaios para uma futura filosofia da fotografia (1985). We are more interested in examining how the aforementioned bookcatalog instilled a certain way of thinking about modern Brazilian architecture, using a small sample of projects implanted in the city of Rio de Janeiro. Through this selection of pictures, it is intended to equate the contribution of the publication to suppress the time of the narrative, using the enchantment emanated by the photography.'
+  resumo_en: 'This article deals with the processes of affirmation of the Modern Movement in Brazil and intends to investigate how the use of photography can contribute to the affirmation of concepts not always explicit in texts. The object of study is the seminal catalog Brazil Builds, published on the occasion of an eponymous exhIBITion held in 1943 at the New York Museum of Modern Art (MoMA), and has as theoretical support the reflections formulated by Vilém Flusser in A filosofia da caixa-preta: ensaios para uma futura filosofia da fotografia (1985). We are more interested in examining how the aforementioned bookcatalog instilled a certain way of thinking about modern Brazilian architecture, using a small sample of projects implanted in the city of Rio de Janeiro. Through this selection of pictures, it is intended to equate the contribution of the publication to suppress the time of the narrative, using the enchantment emanated by the photography.'
   palavras_chave:
   - fotografia
   - identidade
@@ -283,7 +279,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 82-97
-
 - id: sdrj04-006
   locale: pt-BR
   arquivo_pdf: sdrj04-006.pdf
@@ -294,7 +289,7 @@ articles:
   - protomodernismo
   - psiquiatria
   referencias:
-  - 'BRUAND, Yves. “Arquitetura Contemporânea no Brasil”. São Paulo: Ed. Perspectiva, 2008 [1981]. CASA DAS PALMEIRAS, “O Centenário (1911-2011)” texto do blog da ONG Casa das Palmeiras (criada por Nise da Silveira), disponível em http:// institutonisedasilveira100anos.blogspot.com.br/, sítio visitado em 29/01/2014.'
+  - 'BRUAND, Yves. “Arquitetura Contemporânea no Brasil”. São Paulo: Ed. Perspectiva, 2008 [1981]. CASA DAS PALMEIRAS, “O Centenário (1911-2011)” texto do blog da ONG Casa das Palmeiras (criada por Nise da Silveira), disponível em http:// institutoNisedasilveira100anos.blogspot.com.br/, sítio visitado em 29/01/2014.'
   - 'CONDE, Luiz Paulo e ALMADA, Mauro; “Proto-modernismo em Copacabana, uma arquitetura que não está nos livros”; em: Arquitetura Revista, Rio de Janeiro: FAUUFRJ, 1985, pp.40-44.'
   - 'CAVALCANTI, Lauro; “Quando o Brasil era moderno: artes plásticas no Rio de Janeiro 1905-1960”. Rio de Janeiro: Aeroplano, 2001.'
   - 'CAVALCANTI, Lauro; “Moderno e brasileiro: A história de uma nova linguagem na arquitetura (1930-1960) ”. Rio de Janeiro: Jorge Zahar editores, 2006.'
@@ -318,7 +313,6 @@ articles:
     primary_contact: true
   resumo_es: El lugar donde hoy funciona el Instituto Municipal de Atención a la Salud Nise da Silveira acompañó las transformaciones en los conceptos relativos a los tratamientos psiquiátricos a lo largo del siglo XX e há sido, a partir de 1944, el principal centro de asistencia a los ciudadanos con trastornos mentales en Brazil. La institución es actualmente un de los cinco centros municipales de referencia para emergencia e internación, responsable por la assistência a la salud mental en la zona suburbana carioca.
   paginas: 98-121
-
 - id: sdrj04-007
   locale: pt-BR
   arquivo_pdf: sdrj04-007.pdf
@@ -344,7 +338,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 122-126
-
 - id: sdrj04-008
   locale: pt-BR
   arquivo_pdf: sdrj04-008.pdf
@@ -374,7 +367,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 127-133
-
 - id: sdrj04-009
   locale: pt-BR
   arquivo_pdf: sdrj04-009.pdf
@@ -424,7 +416,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 134-149
-
 - id: sdrj04-010
   locale: pt-BR
   arquivo_pdf: sdrj04-010.pdf
@@ -443,13 +434,13 @@ articles:
   - 'BITENCOURT, Fábio. Arquitetura do Instituto Vital Brazil - Um Patrimônio Modernista da Saúde – 90 anos de História. Rio de Janeiro: Rio Books, 2009.'
   - BRASIL. Constituição Federal de 1988. Promulgada em 5 de outubro de 1988. Disponível em <http://www.planalto.gov.br/ccivil_03/constituicao/constituição. htm>.
   - 'BRAZIL, Álvaro Vital. 50 anos de arquitetura. São Paulo: Nobel, 1986.'
-  - 'BROADBENT, Geoffrey. Brazil Still Builds: Vilanova Artigas and Affonso Eduardo Reidy: AA Exhibition Gallery, 2-–26, June 1998. In: AA Files, No. 37, Autumn 1998, pp. 55-62. Disponível em: http://www.jstor.org/stable/29544123. Acesso em 01 set. 2017.'
+  - 'BROADBENT, Geoffrey. Brazil Still Builds: Vilanova Artigas and Affonso Eduardo Reidy: AA ExhIBITion Gallery, 2-–26, June 1998. In: AA Files, No. 37, Autumn 1998, pp. 55-62. Disponível em: http://www.jstor.org/stable/29544123. Acesso em 01 set. 2017.'
   - 'BVS. Biblioteca Virtual em Saúde. Grupo de Trabalho História e Patrimônio Cultural da Saúde. Termo de constituição da Rede História e Patrimônio Cultural da Saúde. Set. 2005. Disponível em: http://hpcs.bvsalud.org/local/File/pdf/ termoconstituicaorhpcs.pdf. Acesso em: 30 Ago. 2017.'
   - 'CAIXETA, Eliane Maria Moura Pereira. Uma arquitetura para a cidade: a obra de Affonso Eduardo Reidy. In: ARQTEXTO (UFRGS), Porto Alegre, v. 2, 2002, pp. 58-67.'
   - 'CONDURU, Roberto. Vital Brazil. São Paulo: Cosac & Naify Edições, 2000. FÁBRICA ARQUITETURA. Instituto Vital Brazil, Rio de Janeiro. In: Projeto Design, No. 418, Jan.-Fev. 2015, pp. 90-95.'
   - 'FONSECA, Roger Pamponet da; SANCHÉZ, José Manoel Morales. Affonso Eduardo Reidy e a relação com o eng. Emílio Henrique Baumgart: o caso do Albergue da Boa Vontade, RJ (1931). In: Anais do 11º Seminário Docomomo Brasil. Recife, 2016.'
   - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Ministério de Educação e Saúde/Lucio'
-  - 'Costa e equipe. Ago. 2013. ArchDaily Brasil. Disponível em: http://www.archdaily. com.br/134992/classicos-da-arquitetura-ministerio-de-educacao-e-saude-slashlucio-costa-e-equipe. Acesso em: 09 Set. 2017.'
+  - 'Costa e equipe. Ago. 2013. ArchDaily Brasil. Disponível em: http://www.archdaily. com.br/134992/classicos-da-arquitetura-ministerio-de-educacao-e-saude-slashLucio-costa-e-equipe. Acesso em: 09 Set. 2017.'
   - 'XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. São Paulo: Pini, 1991.'
   - 'FRANK, Klaus. The Works of Affonso Eduardo Reidy. Londres: Alec Tiranti Ltd., 1960.'
   - 'GOODWIN, Philip L. Brazil Builds: Architecture new and old 1652-1942. Nova Iorque: The Museum of Modern Art, 1943. GRUA ARQUITETOS. Grua. Disponível online em: http://www.grua.arq.br/. 2017. Acesso em: 30 Ago. 2017. ITAÚ CULTURAL. Enciclopédia Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2017. Disponível em: <http://enciclopedia.itaucultural.org.br/ pessoa859/vital-brazil>. Acesso em: 01 de Set. 2017. Verbete da Enciclopédia “Vital Brazil”.'
@@ -462,7 +453,7 @@ articles:
   - 'SEGRE, Roberto (et al.). Arquitetura+arte+cidade: um debate internacional. In:'
   - 'LOBO, Maria da Silveira. In: MOMOCON: Um exercício de síntese das artes para a conservação do patrimônio moderno. Rio de Janeiro: Viana & Mosley, 2010, pp. 14-18.'
   - 'SERRES, Juliane C.P. Preservação do patrimônio cultural da saúde no Brasil: uma questão emergente. In: História, Ciências, Saúde – Manguinhos. Rio de Janeiro, v.22, Out.-Dez. 2015, pp. 1411-1426. SOLAR DE GRANDJEAN DE MONTIGNY. Affonso Eduardo Reidy. Rio de Janeiro: O Solar: Index, 1985.'
-  - 'STUCKENBRUCK, Denise Cabral. O Rio de Janeiro em Questão: O Plano Agache e o Ideário Reformista dos Anos 20. IPPUR, Rio de Janeiro, 1996.'
+  - 'STUCKENBRUCK, DeNise Cabral. O Rio de Janeiro em Questão: O Plano Agache e o Ideário Reformista dos Anos 20. IPPUR, Rio de Janeiro, 1996.'
   - 12 - http://www.skyscrapercity.com/showthread.php?t=653687&page=843&langid=5. 13 - Google Maps, 2017. 14 - http://www.geocities.ws/reidy_web/mudanca.htm. 15 - http://www.skyscrapercity.com/showthread.php?t=653687&page=843&langid=5. 16 - BITENCOURT, 2009, p. 137, com manipulação de imagem das autoras. 17 - Foto de Priscila Fonseca, 2016. 18, 19 e 20 - Grua Arquitetos, 2017.
   seminario: sdrj04
   secao: Eixo 2 - O moderno em risco no Rio
@@ -489,7 +480,6 @@ articles:
     country: BR
     primary_contact: false
   paginas: 150-167
-
 - id: sdrj04-011
   locale: pt-BR
   arquivo_pdf: sdrj04-011.pdf
@@ -558,7 +548,6 @@ articles:
     country: BR
     primary_contact: false
   paginas: 168-184
-
 - id: sdrj04-012
   locale: pt-BR
   arquivo_pdf: sdrj04-012.pdf
@@ -601,7 +590,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 185-200
-
 - id: sdrj04-013
   locale: pt-BR
   arquivo_pdf: sdrj04-013.pdf
@@ -649,7 +637,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 201-217
-
 - id: sdrj04-014
   locale: pt-BR
   arquivo_pdf: sdrj04-014.pdf
@@ -697,7 +684,7 @@ articles:
   - 'UNESCO. Nara conference on authenticity. Paris: Unesco, 1995.'
   - '______. The Operational Guidelines for the Implementation of the World Heritage Convention (2015). Disponível em: <http://whc.unesco.org/en/guidelines/>. Acesso'
   - 05 - Claudio Lima Carlos, 2017
-  - ANEXO - LISTAGEM ATUALIZADA DA NOVA PROPOSTA DE TOMBAMENTO 1. Edifício-Sede da Polícia Municipal. Rua do Resende, 92, Centro. Projeto de autoria de Affonso Eduardo Reidy. 2. Edifício-Sede do Instituto de Previdência do Estado (IPERJ). Avenida Presidente Vargas, 670, Centro. Projeto de autoria de Affonso Eduardo Reidy. 3. Residência do Arquiteto Álvaro Vital Brasil. Rua almirante Alexandrino, 3.179, Santa Teresa. Projeto de autoria de Álvaro Vital Brasil. 4. Edifício Jardim Amazonas. Rua Anita Garibaldi, 25, Copacabana. Projeto de autoria de Álvaro Vital Brasil. 5. Edifício Jardim Amazonas e Jardim Santa Clara. Rua Santa Clara, 372, Copacabana. Projeto de autoria de Álvaro Vital Brasil.
+  - ANEXO - LISTAGEM ATUALIZADA DA NOVA PROPOSTA DE TOMBAMENTO 1. Edifício-Sede da Polícia Municipal. Rua do Resende, 92, Centro. Projeto de autoria de Affonso Eduardo Reidy. 2. Edifício-Sede do Instituto de Previdência do Estado (IPERJ). Avenida Presidente Vargas, 670, Centro. Projeto de autoria de Affonso Eduardo Reidy. 3. Residência do Arquiteto Álvaro Vital Brasil. Rua almirante AlexandRino, 3.179, Santa Teresa. Projeto de autoria de Álvaro Vital Brasil. 4. Edifício Jardim Amazonas. Rua Anita Garibaldi, 25, Copacabana. Projeto de autoria de Álvaro Vital Brasil. 5. Edifício Jardim Amazonas e Jardim Santa Clara. Rua Santa Clara, 372, Copacabana. Projeto de autoria de Álvaro Vital Brasil.
   - 13. Conjunto Habitacional em Vila Isabel (Edifício Divisa). Rua Barão do Bom Retiro, 1.661, Vila Isabel. Projeto de autoria de Francisco Bolonha. 14. Escola Municipal Joseph Bloch. Rua Álvaro Macedo, 77, Parada de Lucas. Projeto de autoria de Francisco Bolonha. 15. Edifício Morro de Santo Antônio. Rua do Lavradio, 106, Centro. Projeto de autoria de Irmãos Roberto. 16. Senai - Construção Civil. Praça da Natividade Saldanha, 19, Benfica. Projeto de autoria de Irmãos Roberto (o painel de autoria do Artista Paulo Werneck encontra-se tombado pelo Decreto Municipal nº 27.651 de 06/03/07 – D.O. Rio de 07/03/07). 17. Edifício de Apartamentos. Rua Sambaíba, 166, Leblon. Projeto de autoria de Irmãos Roberto.
   - 6. Residência Francisca de Azevedo Leão. Rua Alegrete, 38, Laranjeiras. Projeto de autoria de Carlos Leão.
   - 18. Edifício Seguradoras. Rua Senador Dantas, 74, Centro. Projeto de autoria de Irmãos Roberto (o painel de autoria do Artista Paulo Werneck encontra-se tombado pelo Decreto Municipal nº 27.651 de 06/03/07 – D.O. Rio de 07/03/07).
@@ -724,7 +711,7 @@ articles:
   - 43. Edifício Valparaíso. Avenida Almirante Barroso, 54, Centro. Projeto de autoria de Irmãos Roberto.
   - 31. Residência do Arquiteto Paulo Antunes Ribeiro. Rua Tenente Arantes Filho, 99, Gávea. Projeto de autoria de Paulo Antunes Ribeiro.
   - 44. Plínio Catanhede. Avenida Almirante Barroso, 78, Centro. Projeto de autoria de Irmãos Roberto.
-  - 32. Residência Abgail Seabra de Paula Buarque. Rua Almirante Alexandrino, 5, Santa Teresa. Projeto de autoria de Paulo Antunes Ribeiro.
+  - 32. Residência Abgail Seabra de Paula Buarque. Rua Almirante AlexandRino, 5, Santa Teresa. Projeto de autoria de Paulo Antunes Ribeiro.
   - 45. Edifício João M. Magalhães. Rua Voluntários da Pátria, 127, Botafogo. Projeto de autoria de Irmãos Roberto.
   - 33. Edifício residencial. Avenida Delfim Moreira, 1.212, Leblon. Projeto de autoria de Paulo Camargo e Almeida.
   - 46. Edifício Herm. Stoltz. Avenida Presidente Vargas, 409, Centro. Projeto de autoria de Raphael Rebechi.
@@ -763,7 +750,6 @@ articles:
     country: BR
     primary_contact: false
   paginas: 218-234
-
 - id: sdrj04-015
   locale: pt-BR
   arquivo_pdf: sdrj04-015.pdf
@@ -880,7 +866,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 235-256
-
 - id: sdrj04-016
   locale: pt-BR
   arquivo_pdf: sdrj04-016.pdf
@@ -908,7 +893,6 @@ articles:
     country: BR
     primary_contact: true
   paginas: 257-274
-
 - id: sdrj04-017
   locale: pt-BR
   arquivo_pdf: sdrj04-017.pdf

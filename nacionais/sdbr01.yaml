@@ -1,22 +1,20 @@
 # 1º Seminário Docomomo Brasil — sdbr01
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01
-
 issue:
-  slug: "sdbr01"
-  title: "1º Seminário Docomomo Brasil"
-  subtitle: "Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil"
-  description: "Docomomo Brasil/Organizadores José Carlos Huapaya Espinoza; Alexandre Pajeú Moura — Edição comemorativa 25 anos de Docomomo Brasil. Salvador, BA."
+  slug: sdbr01
+  title: 1º Seminário Docomomo Brasil
+  subtitle: Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil
+  description: '1° Seminário Docomomo Brasil: anais: Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Alexandre Pajeú Moura. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia; PPGAU-UFBA, 1995. ISBN: 978-85-66843-07-1.'
   year: 1995
   volume: 1
   number: 1
   date_published: 1995-01-01
-  isbn: "978-85-66843-07-1"
+  isbn: 978-85-66843-07-1
   editors:
-    - "José Carlos Huapaya Espinoza"
-    - "Alexandre Pajeú Moura"
-  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01"
-
+  - José Carlos Huapaya Espinoza
+  - Alexandre Pajeú Moura
+  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01
 articles:
 - title: O 1º Seminário Docomomo_Brasil
   subtitle: proposta, realização, memória
@@ -28,7 +26,6 @@ articles:
   section: Parte 01
   pages: 8-13
   locale: pt-BR
-
 - title: O Patrimônio Histórico e Artístico do SPHAN
   authors:
   - givenname: Silvana
@@ -51,7 +48,6 @@ articles:
   - 9 “Programa”, Revista do Patrimônio Histórico e Artístico Nacional no. 1, Rio de janeiro, 1937.
   - 10 Processo de tombamento da Igreja de São Francisco de Assis, da Pampulha. Arquivo SPHAN.
   - '11 “Proposta de tombamento: Edifício-sede do Ministério da Educação”, de 3 de março de 1948. Arquivo SPHAN.'
-
 - title: Modernidade pragmática 1922-1943
   authors:
   - givenname: Hugo
@@ -59,7 +55,6 @@ articles:
   section: Parte 02
   pages: 25-40
   locale: pt-BR
-
 - title: Por uma cidade com alma brasileira
   subtitle: a Arquitetura de Rino Levi
   authors:
@@ -68,7 +63,6 @@ articles:
   section: Parte 02
   pages: 41-57
   locale: pt-BR
-
 - title: Arquitetura moderna
   subtitle: uma análise de residências da Praia do Canto
   authors:
@@ -77,7 +71,6 @@ articles:
   section: Parte 02
   pages: 58-73
   locale: pt-BR
-
 - title: O Conjunto JK
   subtitle: uma Torre Eiffel nos trópicos?
   authors:
@@ -86,7 +79,6 @@ articles:
   section: Parte 02
   pages: 74-80
   locale: pt-BR
-
 - title: A constituição da Arquitetura moderna em São Paulo
   subtitle: uma experiência coletiva
   authors:
@@ -95,4 +87,3 @@ articles:
   section: Parte 02
   pages: 81-92
   locale: pt-BR
-

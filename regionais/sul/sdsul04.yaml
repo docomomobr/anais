@@ -2,20 +2,19 @@ issue:
   slug: sdsul04
   title: 4º Seminário Docomomo Sul, Porto Alegre, 2013
   subtitle: 'Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970'
-  description: 'COMAS, Carlos Eduardo; CABRAL, Claudia Costa; CATTANI, Airton (org.). Anais do IV Seminário do.co.mo.mo_sul, Porto Alegre, 25-27 mar. 2013 [recurso eletrônico]. Porto Alegre: PROPAR/UFRGS, 2013. 1 CD-ROM. ISBN 978-85-60188-13-4.'
   year: 2013
-  volume: 1
+  volume: 4
   number: 4
-  date_published: '2013-03-25'
   isbn: 978-85-60188-13-4
-  publisher: PROPAR/UFRGS
+  publisher: Núcleo Docomomo RS / PROPAR-UFRGS
   editors:
   - Carlos Eduardo Comas
   - Claudia Costa Cabral
   - Airton Cattani
+  description: '4° Seminário Docomomo Sul: anais: Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Claudia Costa Cabral, Airton Cattani. Porto Alegre, RS: PROPAR-UFRGS, 2013. Disponível também em: www.ufrgs.br/propar/anais-do-4o-seminario-docomomo-sul. ISBN: 978-85-60188-13-4.'
   source: https://www.ufrgs.br/propar/anais-do-4o-seminario-docomomo-sul/
+  date_published: '2013-03-25'
 articles:
-
 - id: sdsul04-001
   title: João Filgueiras Lima e a alegoria da construção
   authors:
@@ -55,15 +54,14 @@ articles:
   - 'Fig. 1 – Res. Aloysio Campos da Paz – Planta da casa original | Fonte: acervo dos autores (2011)'
   - 'Fonte: acervo dos autores (2011) A casa foi implantada num tipo de terreno característico de Brasília dessa época, hoje não existem terrenos tão pedregosos. Eu escolhi o melhor lugar para locar a casa e combinei com o Aloysio que o próprio caseiro iria coletar as pedras, amontoando-as de acordo com meu interesse. Foi o caseiro quem a construiu, eu só fixei mais ou menos a implantação, mas eu tinha em mente três áreas: uma grande sala de estar na área central da casa, o ateliê e a parte dos dormitórios.'
   file_original: 01-Adalbelto-Vilela_Sylvia-Ficher.pdf
-
 - id: sdsul04-002
   title: Lucio Costa
   subtitle: lugar e recorrência da materialidade colonial
   authors:
   - givenname: Alex Carvalho
-    familyname: Brino
+    familyname: BRino
     affiliation: ''
-    email: brino@exemplo.com
+    email: bRino@exemplo.com
     primary_contact: true
   - givenname: Anna Paula
     familyname: Canez
@@ -98,8 +96,7 @@ articles:
   - 'XAVIER, Alberto (Org.). Lúcio Costa: sôbre arquitetura. Ed. fac-sim coordenada por Anna Paula Canez. Porto Alegre: Ed. UniRitter, 2007.'
   - '_______. Depoimento de uma geração: arquitetura moderna brasileira. São Paulo. Cosac & Naify, 2003.'
   - WISNIK, Guilherme. Lúcio Costa. São Paulo. Cosac & Naify Edições, 2001.
-  file_original: 02-Alex-Brino_-Anna-Cannes.pdf
-
+  file_original: 02-Alex-BRino_-Anna-Cannes.pdf
 - id: sdsul04-003
   title: El bosque y la espiral
   authors:
@@ -130,7 +127,6 @@ articles:
   - '______“Relectura: revisión. Acerca de la obra de Lorente Escudero”. En Rafael Lorente Escudero. Montevideo: Agua-m, 2004'
   - '______”La generación del 60” en Elarqa Nº15 “Generaciones del ladrillo I”. Montevideo: Ed. Dos Puntos, 1995. Merlau-Ponty, Maurice. El mundo de la percepción. Siete conferencias. Buenos Aires: Fondo de Cultura Económica, 2002. Norberg Schultz, Christian. “Heidegger thinking on architecture” en Perspecta, Vol. 20 (1983), pp. 61-68. The MIT Press on behalf of Perspecta. 1983. Pallasmaa, Juhani. Los ojos de la piel. La arquitectura y los sentidos. Ed. Gustavo Gili. Barcelona, 2011. Payseé Reyes, Mario ¿Dónde estamos hoy en Arquitectura? Montevideo, 1968. Parodi, Anibal. Puertas adentro, interioridad y espacio doméstico en el s.XX. Barcelona: Ed. Universitat Politècnica de Catalunya, 2005. Santa-María, Luis Martínez. El árbol, el camino, el estanque, ante la casa. Barcelona: Fundación Caja de Arquitectos, 2004 Torres García, Joaquín. Estructura. Biblioteca Alfar. Montevideo. 1935.'
   file_original: 03-Alfredo-Pelaez.pdf
-
 - id: sdsul04-004
   title: Pedra, papel
   subtitle: tesouro
@@ -157,7 +153,6 @@ articles:
   references:
   - ', embora uma das cartas disponíveis para consulta no acervo da Casa Lucio Costa (sem data), dirigida ao Eng. Raymundo de Paula Soares, revele a preocupação e o envolvimento do mestre com o tema:'
   file_original: 04-Ana-Carolina-Pellegrini.pdf
-
 - id: sdsul04-005
   title: Arquitectura colonial portuguesa e sistemas construtivos tradicionais africanos
   subtitle: abordagens modernas
@@ -195,7 +190,6 @@ articles:
   - '8. Escola Prática de Agricultura de São Jorge dos Órgãos, Santiago, Cabo Verde, arquitecto Alfredo Silva e Castro, DGOPC-DSUH, Ministério do Ultramar, 1963, trab. 691 [Foto: Filipa Fiúza]'
   - 'Os sistemas mistos de construção prevalecem como campo de experimentação nesta fase final da colonização portuguesa em África. Para Luanda e Lourenço Marques, actual Maputo, Luís Possolo projecta as estações radionavais e respectivos bairros (trab. 581/DSUH-DGOPC, para Lourenço Marques; e 581A/DSUH-DGOPC, para Luanda)10, a partir de 1959 (Saldanha, 2012, p. 99-107). O desenho é mais “moderno” que “organicista”. A descrição escrita foge ao estereótipo da memória descritiva que habitualmente os arquitectos dos organismos oficiais redigem, por traçar um compromisso disciplinar: “Procurou-se acabar com as fachadas principais e seus consequentes artifícios” (Possolo, 1959, Trab. 581 e 581A, p. 1). Possolo é antigo formando da AA e por isso um entusiasta de soluções inspiradas em práticas locais, como aprendeu com os mestres britânicos: “Partindo destes princípios, orientação em relação ao sol, ás brisas frescas e arruamentos de acesso, resolvemos as plantas dentro daquilo que a lógica nos aconselha” (Possolo, 1959, Trab. 581 e 581A, p. 2). A adequação do programa às condições tropicais implica não apenas soluções arquitectónicas standard – dentro de uma abordagem moderna – como o recurso a “laminas de betão, dispostas horizontalmente” (Possolo, 1959, Trab. 581 e 581A, p. 6), por exemplo – mas também a materiais como o bambu. Árvores e arbustos estrategicamente plantados asseguram “a defesa para o sol nascente e poente”: “A distância da implantação deverá ser igual à sua altura, uma vez rebatida, para efeito de calculo ou creando [sic] como que uma parede dupla” (Possolo, 1959, Trab. 581 e 581A, p. 3). Floreiras e canteiros produzem efeito semelhante, reduzindo “consideravelmente a dita irradiação calorífera mas também [quebrando] a reverberação proporcionando uma luz agradável nos interiores” (Possolo, 1959, Trab. 581 e 581A, p. 6). As estações radionavais de Possolo inserem-se num programa militar, que a guerra colonial iniciada no arranque dos anos de 1960 acabará por tornar estratégicas. O endurecimento do regime colonial – que naturalmente a guerra impulsiona – não comprometerá contudo estas conquistas que os arquitectos paulatinamente conseguem e os discursos por habitats mais equilibrados e harmoniosos com o meio físico existente – como diria Mário de Oliveira – intensificamse.'
   file_original: 05-Ana-Cristina-Fernandes-Vaz-Milheiro.pdf
-
 - id: sdsul04-006
   title: A poética dos tijolos aparentes e o caráter industrial
   subtitle: MAESA (1948)
@@ -288,7 +282,6 @@ articles:
   - '_____. “Theo Wiedersphan,” Revista Projeto, n. 80, out. 1989. Vaz, R. de C. A. “Raízes brasileiras da arquitetura moderna,” Revista Arquitetura e Urbanismo, n. 51, dez.1993/ jan. 1994. Venzo, Michele. Reutilização da Maesa. Caxias do Sul: UCS – Curso de Arquitetura e Urbanismo,'
   - '2008. (Monografia de Trabalho de Conclusão de Curso) Vichnewski, H. T. As indústrias Matarazzo no interior paulista: arquitetura fabril e patrimônio industrial (1920-1960). Campinas: Unicampi, 2004. (Dissertação de mestrado)'
   file_original: 06-Ana-Elisia-Costa.pdf
-
 - id: sdsul04-007
   title: Casas casadas
   subtitle: o emprego dos tijolos e a ideia de moderno nas casas de Joaquim e Liliana Guedes
@@ -333,7 +326,7 @@ articles:
   - Corte longitudinal e Corte transversal
   - '(fonte: Pablo Lühers Graça, 2007 p. 97)'
   - '(fonte: Pablo Lühers Graça, 2007 p. 98)'
-  - 'Criações compartilhadas: arquitetura entre casais Em um post de 2009 em seu blog, Alexandra Lange profetizava que a próxima mulher depois de Zaha Hadid a ganhar o Pritzker Prize possuiria escritório com seu marido. Para ela, muito provavelmente seriam Kazuyo Sejima e Ryue Nishizawa. De fato, em 2010 seria a dupla a laureada com o Nobel da Arquitetura. Ela comenta ainda em seu texto: "afortunadamente, o juri do Pritzker reescreveu as regras na última década. Quando Robert Venturi ganhou em 1991, Denise Scott-Brown, sua parceira de longa data e esposa, foi deixada de fora, mas Herzog & de Meuron ganharam juntos em 2001."'
+  - 'Criações compartilhadas: arquitetura entre casais Em um post de 2009 em seu blog, Alexandra Lange profetizava que a próxima mulher depois de Zaha Hadid a ganhar o Pritzker Prize possuiria escritório com seu marido. Para ela, muito provavelmente seriam Kazuyo Sejima e Ryue Nishizawa. De fato, em 2010 seria a dupla a laureada com o Nobel da Arquitetura. Ela comenta ainda em seu texto: "afortunadamente, o juri do Pritzker reescreveu as regras na última década. Quando Robert Venturi ganhou em 1991, DeNise Scott-Brown, sua parceira de longa data e esposa, foi deixada de fora, mas Herzog & de Meuron ganharam juntos em 2001."'
   - 'As criações arquitetônicas compartilhadas entre casais foram uma prática mais comum do que se imagina no século XX. Para citar apenas alguns exemplos, podemos lembrar da parceria Mies van der Rohe e Lilly Reich, em trabalhos como a exposição Weissenhofsiedlung (1927), mas também no Pavilhão de Barcelona (1929). Alvar Aalto e suas duas mulheres: a primeira, Aino Marsio que o venceria em um concurso de design com seus famosos Aalto Glasses; a segunda, Elissa Aalto, que gerenciou o escritório de Aalto após sua morte e concluiu projetos importante como a Essen Opera House. Um casal norte-americano particularmente produtivo e reconhecido foram os Eames, Ray e Charles. Colaboradores profissionais a vida inteira, estabeleceram uma dinâmica'
   - própria e difícil de se reproduzir. O casal participou da iniciativa de John Entenza no projeto e construção das Case Study Houses.
   - casa projetada por
@@ -348,7 +341,7 @@ articles:
   - 'talento de Eero Saarinen como arquiteto e designer, Charles e Ray mostraram-se uma dupla mais criativa. (Kirkham, In: LIMA, 1999, p. 93). ato'
   - necess rio observar que o entrosamento de um casal provavelmente ocorre mais
   - acilmente do que o de dois arquitetos que se encontram para realizar um trabal o espec ico. O que parece preocupar uma grande parte dos autores que escrevem sobre arquitetura são as formas de avaliar, quantificar, aquilatar, em uma parceria ou equipe, qual o papel específico que cada membro desempenha. Aparentemente, entretanto, quão melhor ou pior projetista um arquiteto é em relação à sua esposa, ou uma arquiteta em relacão ao seu marido, parece não ser um elemento facilmente identificável. Como não é a porcentagem precisa de participação de cada um em um projeto.
-  - 'Denise Scott Brown, em um modesto balanço de sua parceria com Robert Venturi, lembrará:'
+  - 'DeNise Scott Brown, em um modesto balanço de sua parceria com Robert Venturi, lembrará:'
   - '... eu reclamei com o editor que se referiu aos patos de Venturi, informando que eu havia inventado "o pato". (...) mas minha reclamação deixa os críticos bravos, a alguns deles formaram opiniões hostis e duradouras contra nós nesse assunto. Arquitetos não suportam críticas hostis. E, de qualquer forma, eu comecei a não gostar da minha persona hostil. Isso foi quando emergiram a dúvida de mim mesma e a confusão. ''Meu marido é um projetista melhor que eu. E eu sou uma pensadora bem medíocre.'' A primeira afirmação é verdade, a segunda, provavelmente não. Eu tento contrapor-me a ela com mais questões: ''Como pode ser, então, que trabalhemos tão bem juntos, complementando as ideias um do outro? Se minhas ideias não são boas, porque são citadas pelos críticos (ainda que sejam atribuídas a Bob)?". (Brown, 2000, p. 260)'
   - As parcerias entre casais de arquitetos mais recentemente vem sendo objeto de estudo e outros tipos de abordagem. A busca por "isolar" elementos específicos da colaboração provavelmente deverá ser cada vez menor. O que provavelmente passaremos a perceber é que, singular, são as
   - relações que se constróem entre casais, associados, equipes. Muitas vezes alcançando resultados brilhantes, provindos de uma profunda sinergia, essas relações pessoais carregam mais significados e potenciais do que poderíamos quantificar objetivamente. As casas casadas de Joaquim e Liliana Guedes são uma evidência disso.
@@ -357,7 +350,6 @@ articles:
   - _________________________.
   - _________________________.
   file_original: 07-Ana-Gabriela-Lima_Andraci-Atique.pdf
-
 - id: sdsul04-008
   title: A técnica e o material como instrumentos para a geração formal na obra de Paulo Mendes da Rocha
   authors:
@@ -393,7 +385,6 @@ articles:
   - '2010. 2 v. : il. ; 21 x 30 cm. Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2010. Ori.: Mahfuz, Edson da Cunha. 2- SOUTO, Ana Elisa.op.,cit,p.120,2010 3- MAHFUZ, Edson da Cunha. Loja Forma, Paulo Mendes da Rocha, São Paulo, 1987. Série projetos exemplares, n. 1. Projetos, São Paulo, 11.123, Vitruvius, mar 2011 <http://www.vitruvius.com.br/revistas/read/projetos/11.123/3818>.'
   - '2.0 Ginásio do Clube Atlético Paulistano Localizado no centro de bairro residencial de São Paulo, em terreno de dimensões reduzidas e, em sua maior parte, já ocupado pelas demais instalações do Clube, o prédio do Ginásio foi projetado como um centro de interligação entre os espaços da rua, os jardins e das demais instalações do clube ocupando totalmente o espaço do terreno ainda disponível, o arquiteto insere o projeto em um patamar mais elevado, semi-enterrando a construção. Ao fazer coincidir a planta baixa do prédio com o perímetro do terreno, estratégia que será também utilizada no Mube em 1988, garante a máxima utilização da área construída para as instalações do Ginásio, ao mesmo tempo, não elimina nem reduz o espaço livre existente. Muito ao contrário, a grande praça elevada promove ainda a expansão da paisagem do clube, antes limitada ao seu jardim integrando-se a via pública. O prédio compreende um grande bloco de base quadrangular, semi-enterrado, com a imensa cobertura circular suspensa, o que corresponde a uma área total de 4.500m 2 de construção. Essa plataforma habitável semi-enterrada cuja cota superior estaria posicionada a meia altura em relação ao transeunte da Rua Colômbia abriga boa parte do programa solicitado e pode ser entendida como uma continuação do piso urbano, qual praça semi elevada e aberta, possibilitando franco acesso às arquibancadas do ginásio coberto: desde o clube a praça também é mirante, terraço que devolve ao uso comum a área livre e aberta anteriormente existente e agora ocupada pelo ginásio, realizando assim o entendimento corbusiano do teto jardim como instrumento de recuperação urbana do espaço privativamente ocupado pela cidade. Todos os'
   file_original: 08-Ana-Elisa-Souto.pdf
-
 - id: sdsul04-009
   title: A pedra na arquitetura moderna de Porto Alegre, 1950-70
   authors:
@@ -417,7 +408,6 @@ articles:
   - 'Figura 2: Casa Guilhermino Cezar Fonte: Alberto Xavier e Ivan Mizoguchi, Arquitetura Moderna em Porto Alegre (Porto Alegre: FAUFRGS/PINI, 1987), 74.'
   - 'Casa Victor Graeff, Edgar Graeff, 1951 Endereço: Rua Cônego Viana, 240, Rio Branco, PoA. Nessa casa com fortes vínculos com o vocabulário de Escola Carioca, a pedra aparece apenas como arrimo do jardim. Mas esse jardim é importante para a composição. Ele permite que o terreno em declive se torne plano, uma base que outorga leveza às colunas redondas e a parede ondulada da fachada do primeiro pavimento da casa. (Fig.3)'
   file_original: 09-Andrea-Soler-Machado.pdf
-
 - id: sdsul04-010
   title: A cidade aberta de Ritoque
   subtitle: campo de experimentação
@@ -440,7 +430,6 @@ articles:
   - 'Imagem 3- Sala de música. Fonte: acervo próprio-dez/2012.'
   - 'As Hospedarias Diferente dos dois tipos citados anteriormente, as hospedarias são ambientes menos coletivos, nos quais existem espaços utilizados somente por seus moradores. Fruto de um dos conceitos base da Cidade Aberta, as hospedarias são casas abertas para visitantes, nela existem seus moradores que cuidam da manutenção e segurança das mesmas, e espaço para receber possíveis visitantes. Embora de uso parcial coletivo, as hospedarias foram construídas de forma comum em “atos poéticos”, nos quais uma temática principal norteia a construção da obra e ocorre uma ronda de trabalhos, em que sem prévio planejamento, professores e alunos vão se alternando, agregando espaços ao existente, em direção a um fim imprevisível. As primeiras hospedarias construídas foram: Dos Hospedarias: de las Máquinas y del Banquete, o tema que norteou a construção foi a orientação a partir do céu do Cruzeiro do Sul, no qual, se'
   file_original: 10-Carla-Caires.pdf
-
 - id: sdsul04-011
   title: Colunas metálicas sob cobertura plana
   subtitle: exceção e regra na casa Helio Dourado
@@ -466,7 +455,6 @@ articles:
   - 'Blaser, Werner. Patios: 5000 años de evolución desde la antigüedad hasta nuestros días. Barcelona: Gustavo Gili, 1999. Botey, Josep Maria. Oscar Niemeyer. Barcelona: Gustavo Gili, 1996. Campagner, Larissa Garcia. Panorama da obra do arquiteto Miguel Alves Pereira. 2007. Dissertação de Mestrado. São Paulo: Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2007. http://www.teses.usp.br/teses/disponiveis/16/16138/tde-14092010-161731/>. (Janeiro, 03, 2013). Ching, Francis D. K.. Sistemas estruturais ilustrados, padrões, sistemas e projeto. Porto Alegre: Bookman, 2010. Comas, Carlos Eduardo Dias. “Niemeyer`s Oasis, a Brazilian Villa of the Fifties”. Arquine, Primavera de 1998, nº 3.'
   - '____________. Précisions brésiliennes sur un état passé de l''architecture et de l''urbanisme modernes d''après les projets de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira et cie., 1936-45. Tese de Doutoramento. Paris: Université de Paris VIII, 2002. Tradução Precisões Arquitetura Moderna Brasileira 1936-45. Porto Alegre: PROPAR, 2002. Curtis, Willian J. R.. Arquitetura moderna desde 1900. Porto Alegre: Bookmann, 2008. Hess, Alan. Oscar Niemeyer houses. New York: Rizzoli, 2006. Leatherbarrow, David. Surface architecture. Cambridge: Mit Press, 2005. Macedo, Danilo Matoso. Da matéria à invenção: as obras de Oscar Niemeyer em Minas Gerais, 1938-1955. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2008. Martí Arís, Carlos. Las variaciones de la identidad: ensayo sobre el tipo en arquitectura. Barcelona: Ediciones del Serbal, 1993. Mindlin, Henrique Ephim. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999. Norberg-Schulz, Christian. Principles of modern architecture. London: Andreas Papadakis, 2000. Pereira, Miguel Alves. Arquitetura e os caminhos de sua explicação. São Paulo: Projeto, 1984. Rowe, Colin. Manierismo y arquitectura moderna y otros ensayos. Barcelona: Gustavo Gili, 1999. Lambert, Phyllis. Mies in America. Montreal/New York: Canadian Centre for Architecture/Whitney Museum, 2001. Xavier, Alberto. Arquitetura Moderna em Porto Alegre. São Paulo: UFRGS, 1987. Zein, Ruth Verde. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação de Mestrado. Porto Alegr e: PROPAR/UFRGS, 2000.'
   file_original: 11-Carlos-Bahima.pdf
-
 - id: sdsul04-012
   title: Produção em massa e índice espacial
   subtitle: a pré-fabricação na arquitetura de Milton Ramos
@@ -496,7 +484,6 @@ articles:
   - 4 Jayme Zettel, em depoimento oral concebido ao autor em 2002, fala da
   - velocidade extraordinária demandada pela contrução da nova capital.
   file_original: 12-Carlos-Henrique-Magalhaes-de-Lima.pdf
-
 - id: sdsul04-013
   title: Ofício e arte na arquitetura moderna
   subtitle: Ari Marangon, arquiteto artesão
@@ -523,7 +510,6 @@ articles:
   references:
   - 'Colquhoun, Alan. La arquitectura moderna. Una historia desapasionada. Barcelona: Gustavo Gili, 2005. Curtis, William. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008. Gombrich, Ernst Hans. O sentido de ordem: um estudo sobre a psicologia da arte decorativa. Porto Alegre: Bookman, 2012. Gonsales, Celia. “Síntese das artes sentidos e implicações na obra arquitetônica”. Vitruvius, 2012. www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351. Moura, Rosa Maria Rolim de. Ari Marangon: 25 anos de arquitetura. Santa Maria: Pallotti, 2004. Ortega Y Gasset, Jose. A desumanização da arte. São Paulo: Cortez, 2008 Ruskin, John. Las siete lâmparas de la arquitectura. Barcelona: Alta Fulla, 2000. Semper, Gottfried. The four elements of architecture and other writings. Cambridge Mass.: Cambridge University Press,1989. Semper, Gottfried. Style in the Technical and Tectonic Arts; or Practical Aesthetics. Los Angeles: Getty Research Institute, 2004. Spelman, Elizabeth Rowe. Gottfried Semper and the profound surfasse of architectura. Thesis of master. Houston, Texas, 1997. http://scholarship.rice.edu/handle/1911/17131. Wagner, Otto. La arquitectura de nuestro tempo. Barcelona: El Croquis Editorial,1993.'
   file_original: 13-Celia-Castro-Gonsales.pdf
-
 - id: sdsul04-014
   title: Usos do primitivismo
   subtitle: pedra, barro e arquitetura moderna
@@ -543,7 +529,7 @@ articles:
   file: sdsul04-014.pdf
   pages_count: 20
   abstract: Apesar de problemáticas, as noções de “primitivo” e “primitivismo” foram categorias essenciais para a arte e a arquitetura moderna latino-americanas, tanto para produtores (arquitetos e artistas), quanto para os seus intérpretes (historiadores e críticos), estando intensamente associadas à contribuição latino-americana à modernidade universal, e à apreciação dessa contribuição. Este texto tem por objetivo cercar determinados “usos do primitivismo” na arquitetura do cone sul americano, que coincidem com a presença de materiais naturais como a pedra e o barro, e de técnicas construtivas pré-industriais a eles associadas. Embora esta presença possa ser discutida apenas nos termos de uma relação com o “vernáculo”, escolho propositalmente a noção de “primitivismo”, por exibir um impasse (de certa forma indiferente ao vernáculo), de uma ligação intelectual, e não natural, com a tradição. O trabalho finaliza com dois concursos, Monlevade (Brasil, 1936) e Viviendas Rurales (Argentina, 1939), examinando a proposta de Lucio Costa para a casa operária de Monlevade e as alternativas do grupo Austral para a casa rural argentina.
-  abstract_en: Despite problematic, the notions of “primitive” and “primitivism” were essential categories to Latin American art and architecture, for both producers (architects and artists) and interpreters (historians and critics). These notions are strongly associated with Latin American contribution to the universal modernity, and with the critical reception of this contribution. The main goal of this text is to point out certain “uses of primitivism” in South American architecture, which coincides with the presence of natural materials such as stone and clay, and pre-industrial constructive techniques. Although this presence can be also discussed in terms of its relationship with the vernacular, the notion of “primitivism” was chosen on purpose, as it exhibits an impasse (in some way indifferent to the vernacular), of an intellectual, and not natural, connection with tradition. The article finishes with some notes on two competitions, Monlevade (Brazil, 1936) and Viviendas Rurales (Argentina, 1939), discussing Lucio Costa’s proposal for a worker house at Monlevade and the alternatives presented by Austral group to rural houses in Argentina.
+  abstract_en: Despite problematic, the notions of “primitive” and “primitivism” were essential categories to Latin American art and architecture, for both producers (architects and artists) and interpreters (historians and critics). These notions are strongly associated with Latin American contribution to the universal modernity, and with the critical reception of this contribution. The main goal of this text is to point out certain “uses of primitivism” in South American architecture, which coincides with the presence of natural materials such as stone and clay, and pre-industrial constructive techniques. Although this presence can be also discussed in terms of its relationship with the vernacular, the notion of “primitivism” was chosen on purpose, as it exhIBITs an impasse (in some way indifferent to the vernacular), of an intellectual, and not natural, connection with tradition. The article finishes with some notes on two competitions, Monlevade (Brazil, 1936) and Viviendas Rurales (Argentina, 1939), discussing Lucio Costa’s proposal for a worker house at Monlevade and the alternatives presented by Austral group to rural houses in Argentina.
   keywords:
   - primitivismo
   - Monlevade
@@ -556,7 +542,6 @@ articles:
   - 'habituais no assunto, como Architecture without Architects, de Bernard Rudofsky, e Adam’s house in Paradise, de Joseph Rykwert.10 Onde Rudofsky usou o interesse pelo primitivo para colecionar uma série de exemplos anônimos, que de algum modo desejava contrapor à ideia de arquitetura como atividade culta, Rykwert tratou justamente de recuperar a historicidade própria do primitivo no âmbito de um pensamento disciplinar.11 Num esforço recente para situar a questão no campo da arquitetura e do urbanismo modernos, Michelangelo Sabatino indicou três manifestações do primitivo: no diálogo entre modernismo e tipologias construtivas arcaicas (cavernas, cabanas e tendas); na busca pela natureza (seja restaurando sua presença na cidade, ou seja deixando a cidade para reencontrá-la); e finalmente, “no desejo de integrar tectônicas e tecnologias da arquitetura vernácula e práticas construtivas contemporâneas, abrindo um diálogo entre o handmade e o machine-made.”12 A aparição da pedra e do barro na arquitetura moderna tem uma relação direta com este terceiro caso, e portanto, com o vernáculo. Este texto pretende cercar determinados “usos do primitivismo” na arquitetura do cone sul americano, que coincidem com a presença de materiais naturais como a pedra e o barro, e de técnicas construtivas pré-industriais a eles associadas. Estou consciente de que esta presença poderia ser discutida apenas nos termos de uma relação com o vernáculo, ou mais simplesmente, com a tradição. Escolho propositalmente a noção de primitivismo porque, como pretendo demonstrar, ela exibe um impasse (de certa forma indiferente à noção de vernáculo), de uma ligação intelectual, e não natural, com a tradição.13'
   - 'Fig. 2. Juan O’Gorman, Casa do arquiteto, México D.F. 1949-1953 (demolida). Fonte: Víctor Jiménez, Juan O’Gorman. Principio y fin del caminho. México: Consejo Nacional para la Cultura y las Artes, 2002.'
   file_original: 14-claudia_cabral_Helena-bender.pdf
-
 - id: sdsul04-015
   title: Aço e alumínio nas fachadas da Câmara dos Deputados
   authors:
@@ -592,7 +577,6 @@ articles:
   references:
   - 'Bernardes, Sérgio, trad. “O que se deve saber sobre prédios de paredes finas”. Arquitetura e Engenharia 57 (junho 1960): 49–52. Cardozo, Joaquim. “Algumas idéias novas sobre arquitetura = some new ideas about architecture”. Módulo 33 (junho 1963): 1–7. ———. “Programação da atividade do engenheiro”. Módulo 17 (abril 1960): 16–19. Frampton, Kenneth. Studies in tectonic culture: the poetics of construction in nineteenth and twentieth century architecture. John Cava (org.). Cambridge / Graham Foundation for Advanced Studies in the Fine Arts: MIT Press, 1995. Gallo, Emmanuelle, e Vanessa Fernandez. “‘A Factory for Well-being’, Innovation in the Heating System and the Curtain-Wall in Le Corbusier’s Salvation Army ’City of refuge’, Paris 1933”. In Living in Urban Modernity, [CD ROM]. Ciudad de México: Docomomo México, 2009. http://www.emmanuellegallo.net. Macedo, Danilo Matoso, e Elcio Gomes da Silva. “Ordens tectônicas no Palácio do Congresso Nacional”. In Madeira : primitivismo e inovação na arquitetura do Cone Sul Latino Americano, 1930/70, [CD ROM]. Porto Alegre: Propar/ UFRGS, 2010. Niemeyer, Oscar. “Depoimento = Testimony”. Módulo 9 (fevereiro 1958): 3–6.'
   file_original: 15-Danilo-Matoso-Bruna-Lima-Elcio-da-Silva.pdf
-
 - id: sdsul04-016
   title: Brasília-patrimônio
   subtitle: desdobrar desafios e encarar o presente
@@ -634,7 +618,6 @@ articles:
   - 'TELLES, Sophia da Silva. Arquitetura Moderna no Brasil: o desenho da superfície. São Paulo: FFLCH-USP, Dissertação de Mestrado, 1988.'
   - VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). São Paulo/FAU-USP, Tese de Doutorado, 2000.
   file_original: 16-Eduardo-Pierrotti-Rossetti.pdf
-
 - id: sdsul04-017
   title: Lelé, um arquiteto para sempre moderno
   authors:
@@ -659,7 +642,6 @@ articles:
   - 'PROJETO. São Paulo, 1979-1993. Peixoto, Elane Ribeiro. Lelé: o arquiteto João da Gama Filgueiras Lima. 1996. 227 f. Dissertação (Mestrado) – Faculdade de Arquitetura e Urbanismo da USP, São Paulo, 1996. Peixoto, Elane Ribeiro. Arquitetura na Revista Projeto: identidade, memória e não-lugares. 2003.'
   - 2003. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo da USP, São Paulo, 2003. Toledo, Aldary Henriques de. Entrevista concedida a Elane Ribeiro Peixoto. Rio de Janeiro, abr. 1994.
   file_original: 17-Elane-Peixoto.pdf
-
 - id: sdsul04-018
   title: Estruturas metálicas no concreto de Brasília
   authors:
@@ -722,7 +704,6 @@ articles:
   - 'VARGAS, Milton (Org). “História da técnica e da tecnologia no Brasil”. São Paulo: Ed. Unesp, 1994. 412p.'
   - VENEZIANI, Giorgio. "Depoimento – Programa de História Oral". Brasília, Arquivo Público do Distrito Federal, 1989. 23p.
   file_original: 18-Elcio-da-Silva_Danilo-Matoso.pdf
-
 - id: sdsul04-019
   title: El conjunto habitacional CAP
   subtitle: exploraciones de nueva materialidad
@@ -747,7 +728,6 @@ articles:
   - Housing Complex
   - Steel Structure
   file_original: 19-Gonzalo-Gambaro.pdf
-
 - id: sdsul04-020
   title: Ciudades de barro
   subtitle: experiencia urbana y cultura material en la arquitectura chilena del siglo XX
@@ -770,7 +750,6 @@ articles:
   - técnica
   - cultura
   file_original: 20-Horacio-Torrent.pdf
-
 - id: sdsul04-021
   title: Uma realidade ausente
   subtitle: casa em Jean Mermoz
@@ -797,7 +776,6 @@ articles:
   references:
   - 'Alfieri, Massimo. La Ciudad Abierta. Roma: Librerie Dedalo, 2000. Cruz P., Fabio. “Carta dirigida a Godo, Pancho y Miguel”. In Archivo Histórico José Vial Armstrong, Coleção Fundadores, Série Fabio Cruz, código 44/45. Valparaíso: Escuela de Arquitectura y Diseño, Pontificia Universidad Católica de Valparaíso, 196?. Moreno, Alex. “Casa Cruz”. In revista ARQ n. 16. Santiago, Chile, março 1991. Pendleton-Jullian, Ann M. The road that is not a road and the Open City, Ritoque, Chile. Cambridge, MA: MIT Press, 1996. Pérez de Arce A., Rodrigo; e Pérez Oyarzun, Fernando. Escuela de Valparaíso: Grupo Ciudad Abierta. Santiago, Chile: Contrapunto, 2003.'
   file_original: 21-Igor-Fracalossi.pdf
-
 - id: sdsul04-022
   title: É pau, é pedra, é o fim do caminho / É um resto de toco, é um pouco sozinho
   subtitle: quatro projetos, uma paisagem
@@ -840,7 +818,6 @@ articles:
   - 'MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano/IPHAN, 2000.'
   - 'NIEMEYER, Oscar. Niemeyer. Paris: Alphabet, 1977. “Park-Hotel São Clemente”. Lucio Costa, architecte. TECHNIQUES ET ARCHITECTURE «Actualités – Brésil», nº11-2, 6e. année, 1946, 72-4 “L''Architecture au Brésil , Park Hotel São Clemente”. Lucio Costa, architecte; P. Wolko, decorateur, R. Burle Marx, paysagiste, L’ARCHITECTURE D’AUJOURD’HUI «Spécial Brésil», nº13-14, setembro 1947, 50-52. “Prize-winning house, Rio”. Carlos Frederico Ferreira, architecte. ARCHITECTURAL FORUM, novembro 1947, 65-112. “Residence d''été à Petrópolis”. Francisco D’AUJOURD’HUI «Brésil», nº42-43, agosto 1952.'
   file_original: 22-Jose-Artur-Frota_Eline-Caixeta.pdf
-
 - id: sdsul04-023
   title: De naturaleza moderna
   authors:
@@ -863,7 +840,6 @@ articles:
   references:
   - '- Alemán, Laura “bajoclave, notas sobre el espacio doméstico”. Nobuko Año: 2006. - Apolo, Juan Carlos. “Talleres trazos y señales” Facultad de Arquitectura de Montevideo, Uruguay. Año: 2006. - Arana, Mariano y Garabelli Lorenzo. “Cronología de la Arquitectura Moderna” .Año: 1981. - Arana, Mariano, Garabelli Lorenzo y José Luis Livni. “La vivienda protagonista de la arquitectura nacional”. Artículo publicado en Revista del Centro de Estudiantes de Arquitectura N°34. Facultad de arquitectura de Montevideo. Año: 1973. - Bonta, Juan Pablo “Sistemas de significación en arquitectura. Un estudio de la arquitectura y su interpretación” Gustavo Gili, Barcelona, Año: 1977. - Cestau, Patricia. Tesis Final de Master en Teoría y Práctica del Proyecto de Arquitectura (UPM), La obra de Luis García Pardo como material de proyecto. Tutor: Helio Piñón. Año: 2009. - García Pardo, Luis. Entrevista en Revista del Centro de Estudiantes de Arquitectura N°29. Facultad de arquitectura de Montevideo. Año: 1965. - Le Corbusier “Hacia una arquitectura”. Año: 1923. - Mederos, Santiago. “Luis Garcia Pardo, Arquitecto” Instituto de Historia de la Facultad de Arquitectura de Montevideo. Año: 2011. - Piñón, Helio. “La forma y la mirada”. Nobuko.. Año: 2005. - Piñón, Helio. “Teoría del proyecto”. Ediciones UPC. Año: 2006. - Rowe, Colin. “Manierismo y arquitectura moderna y otros ensayos” Gustavo Gili, Barcelona 1980. - Scheps, Gustavo. “La mirada paralela” artículo en Arquitecturas sin título. Grupo de Viaje Facultad de Arquitectura Montevideo. Año: 1996. - Ynzenga, Bernardo “DE VIVIENDA A CIUDAD El proyecto residencial de la ciudad” Año: 2011. - Monografía ELARQA, “Luis García Pardo”. Dos puntos. Montevideo. Año: 2000 - Revista ELARQA 19, “Pieles vidriadas”. Dos puntos. Montevideo. Año: 1996 - Guía ELARQA de Arquitectura Tomo V. Dos puntos. Montevideo. Año: 1997 Otras fuentes consultadas - Arq. Santiago Mederos. - Archivo del Instituto de Historia de la Facultad de Arquitectura de Montevideo, Uruguay. - Archivo gráfico de la Intendencia Municipal de Montevideo.'
   file_original: 23-Juan-Pablo-Tuja.pdf
-
 - id: sdsul04-024
   title: Os casos das igrejas de Eladio Dieste em Atlântida e Durazno
   authors:
@@ -886,7 +862,6 @@ articles:
   - 'ANDERSON, Stanford (org.). Eladio Dieste: innovation in Structural Art. Nova Iorque: Princeton Architectural Press, 2004'
   - ARANA, Mariano. Diálogos com Dieste. Eladio Dieste el maestro del ladrillo. Summa. Colección Summarios. Bienos Aires,. V.8, julho
   file_original: 24-Leonardo-Fitz.pdf
-
 - id: sdsul04-025
   title: O uso do metal nas rearquiteturas brasileiras
   authors:
@@ -912,7 +887,6 @@ articles:
   references:
   - 'Arantes, Antonio Augusto (org.). “Produzindo o passado: estratégias de construção do patrimônio cultural.” São Paulo: Brasiliense, 1984. 255 p. Brandi, Cesare. “Teoria da restauração.” Cotia: Ateliê, 2004. 261 p. Cury, Isabelle (org.). “Cartas patrimoniais”. 3. ed. Rio de Janeiro: IPHAN, 2004. 407 p. Comas, Carlos Eduardo. “Lina 3X2”. ArqTexto, Porto Alegre, n.14 , p.146-189., 2009. Instituto Lina Bo e P. M. Bardi. “Lina Bo Bardi”. 2. ed. São Paulo: Instituto Lina Bo e P. M. Bardi, 1996. 333 p.'
   file_original: 25-liege-puhl.pdf
-
 - id: sdsul04-026
   title: Blocks modernos para o ócio
   subtitle: o edifício Vanguardia em Punta del Este, 1956
@@ -941,7 +915,6 @@ articles:
   - 'Figura 1: A Catedral de Buenos Aires com a Cúria original ainda ao lado.'
   - Um projeto que demonstra a estatura profissional de Aranda é a Cúria Metropolitana de Buenos Aires (1967), junto à velha catedral com o pórtico “tardo-iluminista” dos anos 1820.2 Realizada em
   file_original: 26-Luis-Henrique-Haas-Luccas.pdf
-
 - id: sdsul04-027
   title: Lo suave y lo áspero
   subtitle: texturas y contrastes en las casas de Wladimiro Acosta
@@ -968,7 +941,6 @@ articles:
   - 'LIERNUR, Jorge Francisco. “Wladimiro Acosta y el expresionismo alemán”. En LIERNUR, Jorge F, Pozo, José M., (eds) Wladimiro Acosta 1900-1967. Pamplona, UNAV, 2008. LIERNUR Jorge F.: “Acosta, Wladimiro”. En Liernur J.F. y Aliata F., Diccionario de Arquitectura en la Argentina, Buenos Aires, Clarín, 2004. LIERNUR Jorge F. Arquitectura en la Argentina del siglo XX. La construcción de la modernidad. Buenos Aires: Fondo Nacional de las Artes, 2001.'
   - Casa en La Falda, Córdoba – Wladimiro Acosta, 1938/40
   file_original: 27-Luis-Muller.pdf
-
 - id: sdsul04-028
   title: Arquitectura moderna y turismo en Chile
   subtitle: madera y piedra en el Hotel Termas de Puyehue y el Hotel Portillo
@@ -1002,7 +974,6 @@ articles:
   references:
   - 'AAVV. Actas 2° Seminario Do.co.mo.mo Chile. “Desafíos del Patrimonio Moderno”. Universidad Católica del Norte. Antofagasta, 10-12 octubre 2007. Revista En Viaje. Revista de Turismo de los Ferrocarriles del Estado 1933-1973. Talleres gráficos FF.CC del E., Santiago. Guía del Veraneante. Guía de Turismo de los Ferrocarriles del Estado 1932-1962. Talleres gráficos FF.CC del E., Santiago. Booth, Rodrigo. “Turismo y representación del Paisaje. La invención del sur de Chile en la mirada de la Guía del Veraneante (1932-1962)”. Nuevo Mundo Mundos Nuevos, Debates, 2008. (En Línea). Puesto en línea el 16 de febrero 2008. URL http://nuevomundo.revues.org/25052. Booth, Rodrigo. “El paisaje aquí tiene un encanto fresco y poético. Las bellezas del sur de Chile y la construcción de la nación turística”. Revista Historia Universia.(En Línea). URL http://revistahistoria.universia.cl/pdfs_revistas/articulo_112_1285888012302.pdf Casals, María Carolina. “La Empresa de Ferrocarriles del Estado y el desarrollo del Turismo en Chile, 1925-1975”. Tesis para optar al grado de Licenciado en Historia, Facultad de Historia, Geografía y Ciencia Política, Pontificia Universidad Católica de Chile. Santiago, 1999. Vacas, Juan Pablo. “El sello Bustillo en Bariloche. La conquista pintoresca de la Patagonia”. Revista UR Arquitectura (01), Diciembre 2006. 1ª edición Buenos Aires: Opera. 2006'
   file_original: 28-Macarena-Cortes-D.pdf
-
 - id: sdsul04-029
   title: Identidade material
   subtitle: legibilidade de usos e materialidade no Edifício Floragê, David Libeskind, Porto Alegre, 1963
@@ -1037,7 +1008,6 @@ articles:
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini,'
   - 'HIROYAMA, Edison Hitoshi. A dimensão urbana da arquitetura moderna em São Paulo: habitação coletiva e espaço urbano 1938/1972. Dissertação de Mestrado, USP. São Paulo.'
   file_original: 29-Marcelo-Dela-Giustina.pdf
-
 - id: sdsul04-030
   title: Vedações de tijolos aparentes, estrutura de concreto
   subtitle: uma análise da prática através do Centro Municipal de Cultura de Porto Alegre
@@ -1069,7 +1039,6 @@ articles:
   references:
   - ': Banham, Reyner. “El Brutalismo em Arquitectura: ¿Etica o Estética?. Barcelona: Editorial Gustavo Gili, S.A.,'
   file_original: 30-Marcos-Petroli-Luis-Henrique-Luccas.pdf
-
 - id: sdsul04-031
   title: A casa, a pedra, e os três projetos de Eduardo Sacriste
   authors:
@@ -1097,7 +1066,6 @@ articles:
   - 13. Vazio sobre corredor
   - 'Fig. 14: Planos redesenhados pela autora.'
   file_original: 31-Maria-Ana-Ferre.pdf
-
 - id: sdsul04-032
   title: A tenda moderna
   subtitle: o uso da pedra e do metal numa obra de exceção
@@ -1138,9 +1106,8 @@ articles:
   - '14. SANVITTO, Maria Luiza Adams; LEÃO, Silvia Lopes Carneiro. Porto Alegre: Anais do 1° Seminário DOCOMOMO Sul, ago. 2006.'
   - '15. SIQUEIRA, Vera Beatriz. Burle Marx. São Paulo: Cosac Naify, 2009.'
   - '16. WEINTRAUB, Alan; HESS, Alan. Oscar Niemeyer Casas. New York: Rizzoli, 2011.'
-  - Sítios na Web <http://adorocasas.webnode.com.br/album/galeria-de-fotos-casa-cavanelas-de-oscar-niemeyer-frente/oscarniemeyer-casa-cavanelas-arcaid-alanweintraub-jpg/> Acesso 08 de janeiro de 2013. <http://adorocasas.webnode.com.br/album/galeria-de-fotos-casa-cavanelas-de-oscar-niemeyerfundos/oscar-niemeyer-casa-cavanelas-casaabril-jpg/> Acesso 08 de janeiro de 2013. <http://jessicahoelscher.blogspot.com.br/2011/07/redidencia-cavanellas.html> Acesso 08 de janeiro de 2013. <http://panoramafr.blogspot.com/2011/12/niemayer-104-anos-arquitetando-obras.html> Acesso 08 de janeiro de 2013. <http://portalcasa.abril.com.br> Acesso 08 de janeiro de 2013.
+  - Sítios na Web <http://adorocasas.webnode.com.br/album/galeria-de-fotos-casa-cavanelas-de-oscar-Niemeyer-frente/oscarNiemeyer-casa-cavanelas-arcaid-alanweintraub-jpg/> Acesso 08 de janeiro de 2013. <http://adorocasas.webnode.com.br/album/galeria-de-fotos-casa-cavanelas-de-oscar-Niemeyerfundos/oscar-Niemeyer-casa-cavanelas-casaabril-jpg/> Acesso 08 de janeiro de 2013. <http://jessicahoelscher.blogspot.com.br/2011/07/redidencia-cavanellas.html> Acesso 08 de janeiro de 2013. <http://panoramafr.blogspot.com/2011/12/niemayer-104-anos-arquitetando-obras.html> Acesso 08 de janeiro de 2013. <http://portalcasa.abril.com.br> Acesso 08 de janeiro de 2013.
   file_original: 32-Maria-Luiza-Adams-Sanvitto.pdf
-
 - id: sdsul04-033
   title: Vidro feito de metal
   authors:
@@ -1165,7 +1132,6 @@ articles:
   references:
   - de parentesco miesiano, como o Pavilhão de Barcelona, em função dos pilares esbeltos, da fluidez do espaço garantida pelo mobiliário esparso de tubo metálico, disposto
   file_original: 33-Marta-Silveira-Peixoto.pdf
-
 - id: sdsul04-034
   title: El ladrillo y la estructura en la arquitectura de Payssé y Lorente
   authors:
@@ -1193,7 +1159,6 @@ articles:
   - 'ESTABLE, PERLA. Aproximación a la obra de Mario Payssé Reyes, Revista Elarqa: Generaciones del ladrillo I, Pioneros, nº 15, Ed. Dos Puntos, Montevideo, 1995.'
   - MOURELLE, RAFAEL L.; BASCANS, RAMIRO. Uruguay-Panorama de su arquitectura contemporánea. Rev. Summa, nº 27, Buenos Aires, 1970.
   file_original: 34-Martin-Gonzalez-Luz.pdf
-
 - id: sdsul04-035
   title: Arte e arquitetura moderna no Paraná
   subtitle: o uso do painel cerâmico na obra de Forte e Gandolfi
@@ -1220,7 +1185,6 @@ articles:
   references:
   - 'que se interligam e é, portanto, importante ponderar que a sua produção é heterogênea, tanto em relação aos programas e a aspectos teórico-conceituais, quanto a soluções de partido adotadas por eles.Em relação às superfícies e texturas aparentes em sua arquitetura, leva-se em conta neste estudo a utilização de dois materiais base: o concreto e o azulejo. A arquitetura brasileira utiliza-se do azulejo como elemento decorativo desde o início da colonização do país, resultado de uma herança trazida de Portugal. A produção de artistas e artífices formados na Europa estimulou seu uso, principalmente no período Barroco.No Rio de Janeiro, a implantação de materiais mais refinados na construção civil e o aperfeiçoamento das técnicas de revestimento dos países europeus estimulou o gosto pelo azulejo, o que acabou determinando uma característica importante na arquitetura imperial: um elementoessencial não só no exterior como no interior de casas e igrejas.Além disso, a utilização de azulejos como revestimento veio garantir a proteção eficaz contra as intempéries de um país tropical, com abundância de chuva e a ação incisiva do sol. De origem árabe hispânico (al-zuléig)2, o azulejo nada mais é do que um ladrilho vidrado em um lado, com desenhos e cores variadas, e outro lado com nervuras que facilitam seu assentamento ao se cobrir superfícies parietais, pavimentares, etc. O azulejo é um produto cerâmico, isto é, um subproduto da cerâmica. Cerâmica, por sua vez, é produto do emprego de uma matéria prima, o barro, e a ação do fogo sobre ela. Em resumo, o termo azulejo contém a ideia de “pedra lisa e escorregadia” e também a ideia de coloração azul que lhe dá qualidades decorativas.3 No século XVII, os azulejos tinham sua decoração simétrica e suas cores tricrômicas, sendo as mais comuns o amarelo, o azul e o branco, com ornamentações geométricas, laçarias e/ou motivos florais estilizados. No século XX, a arquitetura moderna brasileira promoveu seu valor estético com superfícies revestidas de azulejos e sua aplicação tornou-se mais frequente a partir dos painéis criados por Portinari para o Ministério da Educação e Saúde no Rio de Janeiro, em 1936, e para a igreja da Pampulha, em Belo Horizonte, em 1947, projetada por Oscar Niemeyer. O azulejo assume posição de destaque e de expressão plástica. No MES, a sugestão de Le Corbusier para integrar o tradicional o azulejo de herança portuguesa na obra moderna promove o trabalho de Candido Portinari, cuja paleta cromática, em tons de azul e branco, parece evocar o período barroco, inspirando novas perspectivas de colaboração entre artistas e arquitetos.Os murais e painéis cerâmicos se tornaram populares e sua inserção em uma obra arquitetônica era de praxe.'
   file_original: 35-Michelle-Schneider-Santos.pdf
-
 - id: sdsul04-036
   title: Janelas "modernas"
   subtitle: materialidade das aberturas na arquitetura moderna de Caxias do Sul
@@ -1249,16 +1213,16 @@ articles:
   - windows
   references:
   - 'do passado, sem abrir mão dos adornos, o Art Dèco não chegou a formular um sistema estruturalformal, como o elaborado por Le Corbusier. Muitos dos seus edifícios foram erguidos com tecnologia tradicional, servindo suas paredes de apoio estrutural e de suporte para uma ornamentação em alto e baixo relevo. Diante disso, as janelas dos edifícios dèco assumiram feições mais verticalizadas, deixando entre elas pontos de apoio na extensão horizontal da superfície estruturante. Assim, a partir da década de 1920, duas composições de fachadas passaram a constar no cenário internacional: a moderna, com esqueleto estrutural e paredes de vedação, em que o uso de grandes aberturas fazia prevalecer o vazio sobre o cheio (Figura 1); e a dèco, com paredes estruturais e janelas verticalizadas e ritmadas, em que o cheio prevalece sobre o vazio (Figura 2). Naturalmente, ao longo do tempo, as soluções dèco foram se apropriando dos avanços técnicos da arquitetura moderna, surgindo soluções hibridizadas.'
-  - 'Figura 1: Parque Guinle; Rio de Janeiro; Lucio Costa - 1954 Fonte: http://www.archdaily.com.br/14549/classicos-da-arquitetura-parque-guinle-lucio-costa'
+  - 'Figura 1: Parque Guinle; Rio de Janeiro; Lucio Costa - 1954 Fonte: http://www.archdaily.com.br/14549/classicos-da-arquitetura-parque-guinle-Lucio-costa'
   - 'Figura 2: Edifício Sant´Anna; Campinas - 1936 Fonte: Ferreira, 2006'
   - 'Do fechamento das aberturas: caixilhos Enquanto os avanços estruturais indicavam a ampliação dos vãos das aberturas, a indústria se esforçava para desenvolver vidros e caixilhos para vedar estes vãos. As janelas verticalizadas dèco, em sua maioria, eram fechadas por venezianas de madeira (de enrolar ou de abrir) e por basculantes de pequenos vãos, sustentados por perfis metálicos (Figuras 3 e 4). Também devem ser mencionados os casos em que os caixilhos metálicos foram trabalhados com elaborados desenhos geométricos, vindo a compor parte da ornamentação dos edifícios. Vedando estes vãos, eram empregados vidros de diversas naturezas - os texturizados, como martelados, os leitosos ou jateados, e ainda, os coloridos, compondo vitrais geometrizados.'
   - 'Figura 3: Veneziana na arquitetura art dèco de Montevideu Fonte: http://www.vitruvius.com.br/revistas/read/arquiteturismo/04.039/3466'
   - 'Figura 4: Janelas basculantes na arquitetura arte dèco de Goiânia Fonte: Acervo da pesquisa'
   - Para os grandes vãos dos edifícios modernos e para a ampliação da relação visual entre interior e exterior, os pesados caixilhos de madeira não se mostravam adequados. Diante disso, a indústria desenvolveu vidros de diversas espessuras e perfis metálicos cada vez mais resistentes e sutis. Os vãos entre os caixilhos se ampliaram, ensaiando a “pele de vidro” (Figura 5). Para se proteger do sol, internamente, foram adotadas cortinas e persianas e, externamente, brises e elementos vazados (Figura 6). Por vezes, são explorados painéis deslizantes horizontais, configurados por venezianas de madeira, que reforçam a horizontalidade das aberturas. Neste contexto, arquitetos despenderam importantes horas de trabalho para detalhar aberturas com engenhosos mecanismos de funcionamento.
   - 'Figura 5: Esquadria da Farnsworth; Mies Van Der Rohe - 1951 Fonte: http://www.archdaily.com.br/40344/classicos-da-arquitetura-casa-farnsworth-mies-van-der-rohe/03-33/'
-  - 'Figura 6: Esquadria do Parque Guinle; Rio de Janeiro; Lucio Costa-1954 Fonte: http://www.archdaily.com.br/14549/classicos-da-arquitetura-parque-guinle-lucio-costa/'
+  - 'Figura 6: Esquadria do Parque Guinle; Rio de Janeiro; Lucio Costa-1954 Fonte: http://www.archdaily.com.br/14549/classicos-da-arquitetura-parque-guinle-Lucio-costa/'
   - 'Do grande vão: novas perspectivas Com a abertura das janelas, uma nova espacialidade se apresentou. O espaço se dilatou, integrando interior e exterior, e se formou pela sobreposição ou sucessão de elementos opacos e transparentes, que definiram uma nova profundidade perspectiva. O espaço passou a ser, antes de tudo, um fato perceptivo (Figura 7). As linhas que se distribuem na vertical e na horizontal criam uma multiplicação caleidoscópica do espaço, que fazem um contraponto com os planos cartesianos derivados da retícula ortogonal: estes permitem medir continuamente a posição e a presença do indivíduo (PRODI, 1996, p. 29, tradução nossa).'
-  - 'Figura 7 a e b: Pavilhão Brasileiro de 1939 em Nova York - Lucio Costa e Oscar Niemeyer Fonte: http://www.archdaily.com.br/67026/classicos-da-arquitetura-pavilhao-brasileiro-de-1939-em-novayork-lucio-costa-e-oscar-niemeyer/pavilhaony-11/'
+  - 'Figura 7 a e b: Pavilhão Brasileiro de 1939 em Nova York - Lucio Costa e Oscar Niemeyer Fonte: http://www.archdaily.com.br/67026/classicos-da-arquitetura-pavilhao-brasileiro-de-1939-em-novayork-Lucio-costa-e-oscar-Niemeyer/pavilhaony-11/'
   - Por outro lado, essa nova espacialidade exigiu do homem contemporâneo mudanças de comportamento, ou esse homem contemporâneo exigiu mudanças espaciais, como sugere Abalos
   - (2003), ao analisar as relações de Mies Van Der Rohe com Nietzsche. As casas miesianas se abrem francamente para o exterior, atendendo as demandas do novo “homem só”. Da sua sala, o homem, pensativo e distante, contempla um pátio ou um recinto-paisagem artificial, isolado do mundo. Permanece ali, sem interagir com esse mundo exterior, apenas contemplando o tempo passar, o dia e a noite, o sol e a chuva... Contudo, as casas miesianas não foram desenhadas para abrigar famílias, e os seus valores não foram assimilados plenamente. Em família, o desejo de privacidade permaneceu. Nos programas residenciais, os quartos continuaram a ser os ambientes mais voltados ao isolamento dos indivíduos, permanecendo parcialmente fechados. As salas integradas, onde ocorre o encontro familiar, foram os ambientes eleitos para promover a abertura para a paisagem, mesmo que também isolada dos olhos de estranhos. Assim, a exteriorização da obra revela um novo padrão de comportamento, de um homem que se põe a contemplar o mundo, revisando o conceito de privacidade. Esta “abertura” se contrapõe claramente ao isolamento espacial e visual imposto pelos ambientes confinados e sustentados por paredes (Figura 8).
   - 'Figura 8 a e b: Casa de Vidro; São Paulo; Lina Bo Bardi - 1951 Fonte: http://www.archdaily.com.br/12802/classicos-da-arquitetura-casa-de-vidro-lina-bo-bardi-2/mairamartines_4/'
@@ -1289,7 +1253,6 @@ articles:
   - Ainda com linguagem dèco, o edifício da escola Emílio Meyer inova pontualmente, ao incorporar janela de canto e aberturas verticalizadas (Figura 20). A janela de canto do bloco administrativo preserva componentes em madeira, com caixilhos muito próximos e superfícies de vidro pequenas, mas a configuração resultante rompe com a tecnologia tradicional, sugerindo um formato que permite maior contato visual com o exterior. Ao lado deste volume, o volume que abriga a circulação destaca-se na composição pela sua verticalidade, que elimina pontos de apoio horizontais da fachada (Figura 21).
   - 'Figura 20: Escola Henrique Emilio Meyer Fonte: Álbum comemorativo do 75° Aniversário da Imigração Italiana no Rio Grande do Sul , 1950, p.'
   file_original: 36-Monika-Stumpp_Ana-Elisia-Costa.pdf
-
 - id: sdsul04-037
   title: Superfícies abstratas
   subtitle: o elemento cerâmico como textura na arquitetura moderna brasileira
@@ -1316,7 +1279,6 @@ articles:
   references:
   - ao repertório de elementos vernáculos tenham colocado obras como a Caixa d'água de Olinda numa classificação de continuidade histórica devido às semelhanças funcionais, tanto das venezianas quanto do muxarabi em madeira presentes na arquitetura colonial brasileira.
   file_original: 37-nathalia-cantergiani.pdf
-
 - id: sdsul04-038
   title: Vinculaciones técnicas, históricas y arquitectónicas sobre el origen del asentamiento moderno de Cerro Sombrero en Tierra del Fuego, con la producción acerera en el sur de Chile
   authors:
@@ -1347,7 +1309,6 @@ articles:
   - 'Pfenniger, Francis y Borgheresi, Horacio. “Arquitectura y Acero” Santiago: Instituto Chileno del Acero, 2002.'
   - Universidad de Chile, Facultad de Arquitectura y Urbanismo “Ciento cincuenta años de la enseñanza de la arquitectura en la Universidad de Chile 1849-1999” Ediciones Facultad de Arquitectura y Urbanismo Universidad de Chile, 1999.
   file_original: 38-Pamela-Dominguez-Bastidas.pdf
-
 - id: sdsul04-039
   title: Decifrando a esfinge
   subtitle: uma tentativa de análise do Conjunto JK
@@ -1368,7 +1329,6 @@ articles:
   references:
   - de Oscar no projeto, uma vez que as investigações acerca do tema da moradia vertical urbana já vinham ocupando arquitetos de todo o mundo no mínimo desde a 1a guerra. Além disso, se quando da concepção do CJK já haviam sido postuladas as utopias do Plan Voisin e da Ville Radieuse, a primeira realização de Corbusier em habitações coletivas, a Unité d'Habitation de Marseille, encontrava-se ainda em estágio de gestação. Em termos de realizações concretas, parece mais plausível situar o projeto de Oscar como descendente, por um lado, do Edifício Narkomfin, de Moisei Ginzburg e Ignati Milinis, em Moscou
   file_original: 39-Pedro-Morais.pdf
-
 - id: sdsul04-040
   title: Casa Dico, casa do automóvel
   subtitle: programa moderno e suas explorações técnicas e formais, Porto Alegre, 1952
@@ -1393,7 +1353,6 @@ articles:
   references:
   - descreve arcos de madeira contraplacada em todos estes projetos, entretanto verifica-se que o ginásio do GNU e a Casa Dico possuem estrutura metálica. O projeto de Castro
   file_original: 40-Renata-Santiago-Ramos.pdf
-
 - id: sdsul04-041
   title: Tijolo por tijolo num desenho mágico
   subtitle: a "casinha" de Vilanova Artigas
@@ -1417,7 +1376,6 @@ articles:
   keywords: []
   keywords_en: []
   file_original: 41-Ruth-Zein_Silvia-Raquel-Chiarelli.pdf
-
 - id: sdsul04-042
   title: Lota de Macedo Soares
   subtitle: casa moderna, materialidade híbrida
@@ -1444,7 +1402,6 @@ articles:
   - 2. Arquiteto Sérgio Bernardes
   - 3. Materialidade híbrida no moderno
   file_original: 42-Silvia-Leao.pdf
-
 - id: sdsul04-043
   title: A presença do concreto, da madeira e do metal no restaurante vertical Fasano
   authors:
@@ -1480,7 +1437,6 @@ articles:
   - 'COMAS, Carlos Eduardo Dias. Projeto arquitetônico disciplina em crise, disciplina em renovação. São Paulo: Projeto Editores Associados, 1986.'
   - COMAS, Carlos Eduardo Dias. Precisões brasileiras sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lúcio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-45. Tese (Doutorado em Arquitetura e Urbanismo), Universidade de Paris VIII, Vincennes, Saint Denis, 2002.
   file_original: 43-Silvia-Raquel-Chiarelli.pdf
-
 - id: sdsul04-044
   title: Lina Bo Bardi
   subtitle: metal e pedra na casa de vidro
@@ -1509,7 +1465,6 @@ articles:
   references:
   - 'Bardi, Lina Bo. Lina Bo Bardi, Marcelo Ferraz (org). São Paulo: Instituto Lina e PM Bardi, 1996. Campello, Maria de Fátima de M. Barreto. Lina Bo Bardi: as moradas da alma. Dissertação de mestrado, São Carlos, Escola de Engenharia de São Carlos da Universidade de São Paulo,1997. o Comas, Carlos Eduardo. Lina 3x2, Arquitexto. Porto Alegre: PROPAR/UFRGS, n 14, p. 146-189. http://www.ufrgs.br/propar/ (março, 14, 2010). Corato, Aline Coelho Sanches. A obra e a trajetória do arquiteto Giancarlo Palanti: Itália e Brasil, dissertação de mestrado, São Carlos: Escola de Engenharia de São Carlos da Universidade de São Paulo, 2004. Curtis, Willian J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008. Pagano, Giuseppe. "Struttura e Architettura", Domus 681 e 682 (1987). Solà-Morales, Ignasi.Mies van der Rohe y el minimalismo, In: Diferencias. Topografía de la arquitectura contemporánea. Barcelona: GG, s/d.'
   file_original: 44-Suely-de-Oliveira-Figueiredo-Puppi.pdf
-
 - id: sdsul04-045
   title: Casa Labbé de Emilio Duhart H. y Héctor Valdés P., Santiago de Chile, 1941
   subtitle: materialidad vernácula para una concepción moderna
@@ -1533,7 +1488,6 @@ articles:
   - de la Casa Labbé a la casa Errázuriz de Le Corbusier han sido reconocidas por Héctor Valdés P., co-autor del proyecto. El arquitecto recuerda haber hecho en más de una oportunidad, referencia al proyecto de Le Corbusier para defender la modernidad de la casa Labbé, entendiendo por ello la clara separación de funciones y el uso de materiales propios del lugar en forma honesta así como la relación de la espacialidad principal con el paisaje. La Casa Labbé, fue el primer encargo profesional de Duhart y Valdés. Para Emilio Duhart, su proyecto de fin de carrera, Base Industrial y Población Pesquera en San Quintín y la casa Labbé, son el punta pie inicial de un proceso de búsqueda constante que continúa con la Casa para Mercedes Larraín Vial en Requinoa, (1948), o la casa para la Familia Echeverría en Zapallar (1953), proyectos todos con el espíritu de fusión con las cualidades de una determinada materialidad, de un paisaje, de unas condiciones locales particulares. En 1976, ya radicado en Francia, realiza en esta línea una serie de casas en Ustaritz, País Vasco francés, comenzando por la suya propia, sigue la casa para Robert Laffitte en 1978, o la casa para Pierre Laffitte dos años más tarde. Un lúcido proceso de búsqueda por la autenticidad, que a través del filtro moderno desea ser innovadora, integrada, y respetuosa a las características del lugar donde se emplaza el proyecto.
   - ': Casa Labbé, Emilio Duhart; modernidad en adobe.'
   file_original: 45-Veronica-Saavedra.pdf
-
 - id: sdsul04-046
   title: Abóbadas inéditas
   subtitle: o SESI de Osasco/SP

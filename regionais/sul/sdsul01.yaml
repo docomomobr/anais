@@ -1,17 +1,17 @@
 issue:
   slug: sdsul01
   title: 1º Seminário Docomomo Sul, Porto Alegre, 2006
-  subtitle: Transparência e Sombra
+  subtitle: 'A segunda idade do vidro: transparência e sombra na arquitetura moderna do cone sul americano 1930/70'
   year: 2006
-  volume: 1
+  volume: 4
   number: 1
-  date_published: '2006-01-01'
-  isbn: ''
-  publisher: PROPAR/UFRGS
+  isbn: 85-60188-00-2
+  publisher: Núcleo Docomomo RS / PROPAR-UFRGS
   editors: []
+  description: '1° Seminário Docomomo Sul: anais: A segunda idade do vidro: transparência e sombra na arquitetura moderna do cone sul americano 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre, RS: PROPAR-UFRGS, 2006. Disponível também em: www.ufrgs.br/propar/anais-do-1o-seminario-docomomo-sul. ISBN: 85-60188-00-2.'
   source: https://www.ufrgs.br/propar/anais-do-1o-seminario-docomomo-sul/
+  date_published: '2006-08-22'
 articles:
-
 - id: sdsul01-001
   title: Transparência, opacidade e reflexão
   subtitle: os projetos urbanos sul-americanos de Le Corbusier e a construção de uma fenomenologia da percepção arquitetural
@@ -29,7 +29,6 @@ articles:
   pages_count: 1
   resumo: Como é sabido o célebre texto de Rowe que propõe a transparência, literal ou fenomenológica, como categoria de análise de estratégia projetual se apóia na leitura do projeto de Le Corbusier para o Palácio da Sociedade das Nações (1928). Para além das implicações desse famoso concurso no processo de articulação política dos arquitetos da vanguarda construtiva européia, o próprio Le Corbusier vê nesse projeto um ponto de clivagem de sua obra, caracterizada pela introdução da noção-consigna de “unidade do sistema arquitetural”, isto é, pela proposição de que a escala de intervenção do edifício e da cidade obedecem a um mesmo conjunto de princípios e “leis”, que configuram a base de uma poética purista do espaço urbano. O trabalho pretende investigar a hipótese de que a primeira experimentação projetual desses pressupostos se dá na elaboração dos projetos urbanos para Buenos Aires, Montevidéu, São Paulo e Rio de Janeiro e recebe sua formalização conceitual mais completa no livro Precisões sobre um estado presente da arquitetura e do urbanismo, publicado em 1930. Nesta hipótese, propõe-se que, superando a formulação do esquema teórico da Cidade Contemporânea de 1922, Le Corbusier avança, nos projetos sul-americanos, um método de elaboração projetual em que as cidades (ou as cidadelas) ganham um novo desenho, isto é, um novo processo de “formação”, a partir de uma refinada interlocução com a paisagem e os territórios que as recebem e conformam, numa antecipação daquela “acústica da paisagem”, que preside a busca poética de projetos como o Plano Obus de Argel, a Capela de Notre Dame du Haut, em Ronchamp ou o Capitólio de Chandigarh.
   seminario: sdsul01
-
 - id: sdsul01-002
   title: Horizontes e cerramentos na cidade dos prismas (Cidade Universitária do Brasil, 1936)
   authors:
@@ -52,7 +51,6 @@ articles:
   - 'LE CORBUSIER, JEANNERET, P. Oeuvre complète 1934-1938. Zurich: Les Editions d''Architecture, 1939. p.40-45/78-81.'
   - 'ROWE , Colin; SLUTZKY, Robert. Transparencia: literal y fenomenal. In: ROWE, Colin. Manierismo y arquitectura moderna y otros escritos. Barcelona: Gili, 1978. p.155-177 (edição original: MIT, 1976).'
   seminario: sdsul01
-
 - id: sdsul01-003
   title: Transparência e opacidade na arquitetura de museus
   subtitle: o exemplo de Lúcio Costa
@@ -85,7 +83,6 @@ articles:
   - 'Fontes das Ilustrações Figuras 1, 5, 6, 7, 8, 9, 10, 12, 13 Autor: Lucio Costa – Fonte: Lucio Costa : registro de uma vivência. São Paulo : Empresa das Artes, 1995. Figura 2 Fonte: <http://employees.oneonta.edu/farberas/arth/Images/ARTH200/Zoffany_Tribuna.jpg> <http://donnatoo.home.comcast.net/ europe/art/louvre.jpg> <http://faculty.washington.edu/dillon/Morse_Gallery/MorseTiff-1.jpg> Figura 3 Fonte: <http://www.fondationlecorbusier.asso.fr/images/Projets/Musee%20croissance%20illimitee.jpg>'
   - 'RILEY, Terence; BERGDOLL, Barry (ed.). Mies in Berlin. New York : The Museum of Modern Art, 2001 Figura 4 Fonte: BARDI, Lina Bo. Museu de arte de São Paulo : Lina Bo Bardi 1957-1968. São Paulo : Ed. Blau, 1997 <http://www.bauhausart.de/bilder/architektur/neue_nationalgalerie2.jpg> <http://www.figure-ground.com/travel/image.php?paris/0017> Figura 11 Fonte: IPHAN Disponível em: <http://www.missoes.iphan.gov.br/RemFisUm> Lucio Costa : registro de uma vivência. São Paulo : Empresa das Artes, 1995. Figuras 14, 15 Fonte: IPHAN Disponível em: <http://www.missoes.iphan.gov.br/textos/mmlcosta.htm> Figura 16 Fonte: IPHAN Disponível em: <http://www.missoes.iphan.gov.br/textos/mmlcosta.htm> Autor: Guilherme Wisnik – Fonte: Lucio Costa. São Paulo : Cosac & Naify Edições, 2001. Figura 17 Fonte: Guilherme Wisnik – Fonte: Lucio Costa. São Paulo : Cosac & Naify Edições, 2001. Lucio Costa : registro de uma vivência. São Paulo : Empresa das Artes, 1995. Figura 18 Fonte: Lucio Costa : registro de uma vivência. São Paulo : Empresa das Artes, 1995.'
   seminario: sdsul01
-
 - id: sdsul01-004
   title: A transparência do Museu das Missões
   authors:
@@ -103,9 +100,8 @@ articles:
   resumo: 'A persistente recorrência entre a herança acadêmica e a postura moderna, entre os procedimentos tradicionais e os impulsos de inovação, que parece perpassar a obra de Lucio Costa, se manifesta de forma mais intensa em projetos relacionados com a preservação do Patrimônio Histórico. O primeiro trabalho realizado por ele para o IPHAN foi o estudo dos assentamentos missioneiros do Rio Grande do Sul, em dezembro de 1937. O contato com os remanescentes das reduções jesuíticas parece tê-lo impressionado intensamente. O interesse pela arte antiga, a maneira como reconhece nestas manifestações a expressão de culturas pregressas e a consciência aguda de que está diante de testemunhos sob a ameaça de desaparecimento refletem-se no tom poético e um pouco desolado do texto de seu relatório de viagem (Costa, 1999: 488-97). Por mais de uma vez o arquiteto recorreu a evocações nostálgicas e sentimentais para descrever o impacto causado pela presença tênue, porém forte, daqueles “restos” e daquilo que foi capaz de criar a associação da “personalidade inconfundível” dos padres jesuítas com a cultura guarani. Tendo como objetivo a catequese, os jesuítas promoveram a ocupação de extensas áreas de território na bacia do rio Uruguai, nelas estabelecendo uma grande quantidade de “povos”, assentamentos de base agrícola, que concentravam contingentes indígenas em “reduções” de características marcadamente urbanas. Desenvolviam produção diversificada de utensílios de uso corrente e cultivavam as artes, particularmente aquelas voltadas para a atividade religiosa, como a música e a imaginária. Submetidas à rígida disciplina característica dos empreendimentos dos jesuítas, tais reduções desfrutavam, no entanto, de uma vida de acentuado sentido comunitário. Estas características, aliadas a uma prosperidade contínua destes “povos”, permitiram alcançar notáveis realizações, entre as quais se destaca o assentamento de São Miguel Arcanjo. Os restos desta redução, com as ruínas do colégio, do cotiguaçú, 1 do tambo, 2 do cemitério e dos muros e sucessivos pátios'
   referencias:
   - 'Costa, Lucio. Registro de uma Vivência, São Paulo: Empresa das Artes, 1995;'
-  - '__________. Sobre Arquitetura, Porto Alegre, CEAU, 1962; Transparency and Architecture in Journal of Architectural Education, Washington, vol. 56, May, 2003; Luz, Maturino. Lucio Costa no Sul: o Museu das Missões in Cadernos de Arquitetura Ritter dos Reis, Porto Alegre, v. 2, p. 25-45, out. 2000; Mayerhofer, Lucas. Reconstituição do Povo de São Miguel das Missões, Tese de Concurso para Provimento da Cadeira de Arquitetura Analítica da Faculdade Nacional de Arquitetura, Rio de Janeiro, 1947; Pessoa, José, org. Lucio Costa: Documentos de Trabalho, Rio de Janeiro: IPHAN, 1999; Rowe, Colin. The Mathematics of the Ideal Villa and Other Essays, Cambridge, Massachussetts, The MIT Press, 1995'
+  - '__________. Sobre Arquitetura, Porto Alegre, CEAU, 1962; Transparency and Architecture in Journal of Architectural Education, Washington, vol. 56, May, 2003; Luz, MatuRino. Lucio Costa no Sul: o Museu das Missões in Cadernos de Arquitetura Ritter dos Reis, Porto Alegre, v. 2, p. 25-45, out. 2000; Mayerhofer, Lucas. Reconstituição do Povo de São Miguel das Missões, Tese de Concurso para Provimento da Cadeira de Arquitetura Analítica da Faculdade Nacional de Arquitetura, Rio de Janeiro, 1947; Pessoa, José, org. Lucio Costa: Documentos de Trabalho, Rio de Janeiro: IPHAN, 1999; Rowe, Colin. The Mathematics of the Ideal Villa and Other Essays, Cambridge, Massachussetts, The MIT Press, 1995'
   seminario: sdsul01
-
 - id: sdsul01-005
   title: Simples abrigo, límpida ruína, modernidade real
   subtitle: o Museu das Missões de Lucio Costa
@@ -123,7 +119,6 @@ articles:
   pages_count: 9
   resumo: 'Em fins de 1937, o Serviço do Patrimônio Histórico e Artístico Nacional encarrega Lucio Costa, ainda envolvido com a construção da sede do Ministério da Educação e já recuperado da rejeição de seu projeto para a Cidade Universitária do Brasil, de inspecionar as ruínas dos Sete Povos das Missões da Província Jesuítica do Paraguai, situadas em território rio-grandense, na região natal do presidente Getulio Vargas.1 Testemunhos da experiência de evangelização estável dos índios guaranis pelos jesuítas, iniciada no século XVII, os povos missioneiros integravam uma rede de trinta reduções em terras hoje brasileiras, argentinas e paraguaias. Entraram em decadência depois que a Ordem de Santo Inácio foi banida de território sob o domínio espanhol, nos anos sessenta do século XVIII, ficando os povos brasileiros totalmente abandonados durante o século XIX e primeiro quarto do século XX. Entre 1925 e 1927, a Secretaria de Obras Públicas do Rio Grande do Sul faz as primeiras intervenções visando conter o avançado estado de deterioração das estruturas remanescentes, iniciando o processo de preservação. Cabe a Lucio propor o que fazer nessa obra que nada tem a ver com a arquitetura jesuítica da Província do Brasil mas está definitivamente encravada em território nacional e constitui setor autônomo no conjunto dos monumentos coloniais brasileiros.2 Lucio viaja e se documenta, reconstitui e descreve um traçado em relatório enviado a Rodrigo Mello Franco de Andrade, presidente-fundador do órgão de preservação: Cada povo e cada burgo era constituído pela igreja que compunha com a residência dos padres, o asilo, a enfermaria, as aulas, as oficinas, as cocheiras, etc., e também com o cemitério, um grande conjunto arquitetônico, servido por vários pátios, tudo murado, muros que continuavam para os fundos das construções, abraçando a enorme área ocupada pelo pomar e pela horta, ou seja, a quinta dos padres. Em frente à igreja havia um grande terreiro ou praça, em volta do qual eram dispostos numerosos blocos de habitação coletiva, composto cada um de muitas células de 5 m por 7 aproximadamente, verdadeiros apartamentos com porta e janela e construídos com paredes de pedras ou de barro, morando em cada um deles uma família de índios. Um passeio alpendrado ligava esses blocos de habitação que constituíam assim, por si mesmos, verdadeiros quarteirões. Os primeiros blocos construídos eram os que formavam a praça: depois, à medida em que o povo crescia, novos blocos eram edificados paralelamente aos primeiros, surgindo dessa forma, entre eles, numerosas ruas, todas em esquadro à moda espanhola… O edifício do Cabido ocupava geralmente a extremidade da praça oposta à igreja. 3'
   seminario: sdsul01
-
 - id: sdsul01-006
   title: Niemeyer
   subtitle: o Palácio das Artes de São Paulo e o Museu de Arte Moderna de Caracas
@@ -169,7 +164,6 @@ articles:
   - 'LISTA DE FIGURAS 1. PAPADAKI, Stamo. Oscar Niemeyer: works in progress. New York: Reinhold, 1950. p.133. 2. FISCHMANN, Daniel Pitta. O projeto de museus no movimento moderno: principais estratégias nas décadas 30 a 60. Porto Alegre: UFRGS, 2003. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, 2003. p.169. 3. Módulo, Rio de Janeiro, nº1, p.19, mar. 1955. 4. SANTOS, Cecília Rodrigues dos. Teatro do Parque Ibirapuera: em nome de quem? <www.vitruvius.com.brarquitextosarq000esp188.asp>. Acesso em: 13 jul. 2004. 5. PAPADAKI, Stamo. Op. Cit. p.127.'
   - '6. Grafismo do autor sobre imagem original de NIEMEYER, Oscar et al. Anteprojeto da Exposição do IV centenário de São Paulo. São Paulo: Graphicars, 1952. p2. 7. PAPADAKI, Stamo. Op. Cit. p.127. 8. Oca. Vista externa. Disponível em: <www2.nelsonkon.com.br/obras.asp?ID_Categoria=1&node=27&tiponode=a&ID_Arquiteto=7& ID_Obra=18>. Acesso em: 20 dez. 2005. 9. PAPADAKI, Stamo. Op. Cit. p.151. 10. Oca. Vista interna do subsolo – escotilhas no nível térreo; rampa. Disponível em: <www2.nelsonkon.com.br/obras.asp?ID_Categoria=1&node=27&tiponode=a&ID_Arquiteto=7& ID_Obra=18>. Acesso em: 20 dez. 2005. 11. Módulo, Rio de Janeiro, nº1, p.24, mar. 1955. 12. Oca. Vista do acesso atual. Disponível em: <http://www2.nelsonkon.com.br/obras.asp?ID_Categoria=1&node=27&tiponode=a&ID_Arquite to=7&ID_Obra=18>. Acesso em: 20 dez. 2005. 13. Oca. Vista do último pavimento. Idem. 14. NIEMEYER, Oscar et al. Anteprojeto da Exposição do IV centenário de São Paulo. São Paulo: Graphicars, 1952. p8. 15. Fachada original – conjunto Palácio das Artes/ Auditório. Módulo, Rio de Janeiro, nº1, p.2425, mar. 1955. Corte longitudinal - conjunto Palácio das Artes/ Auditório. PAPADAKI, Stamo. Oscar Niemeyer: works in progress. New York: Reinhold, 1950. p.150. Planta baixa – cobertura - conjunto Palácio das Artes/ Auditório. MINDLIN, Henrique E. L’architecture Moderne au Bresil. Paris: Vincent, Fréal & Cie., 1956. p.189. 16. Fachada lateral - Módulo, Rio de Janeiro, nº1, p.24, mar. 1955. Corte eixo acesso – PAPADAKI, Stamo. Op. cit.. p.150. Corte eixo rampa -'
   seminario: sdsul01
-
 - id: sdsul01-007
   title: O Museu de Arte de São Paulo (Masp) de Lina Bo Bardi
   subtitle: origens e desafios do museu transparente
@@ -190,7 +184,7 @@ articles:
   - ANELLI, Renato Luiz Sobral - Interlocuções com a arquitetura italiana na constituição da arquitetura moderna em São Paulo”, São Carlos, Livre-docência, EESC-USP, 2001.
   - ARGAN, Giulio Carlo – La Galleria di Palazzo Bianco a Genova, in Metron n. 5, nov/1953, pp 25-38.
   - CAMPELLO, Maria de Fátima de Mello Bernardes – Lina Bo Bardi – As Moradas da Alma, São Carlos, dissertação de mestrado, EESC-USP, 1998.
-  - CIUCCI, Giorgio – Gli architteti e il fascismo – Architettura e città 1922-1944, Torino, Einaudi, 1989
+  - CIUCCI, Giorgio – Gli architteti e il fascismo – Architettura e città 1922-1944, ToRino, Einaudi, 1989
   - DE SETA, Cesare (Org.) – Edoardo Persico, Napoli, Electa, 1987.
   - FERRAZ, Marcelo (org.)-
   - Museu de Arte de São Paulo, Instituto Lina Bo e P. M.
@@ -212,7 +206,7 @@ articles:
   - Essa experiência o levaria realizar uma radical reforma do projeto gráfico da revista em 1933, Cf. D’AURIA, Antonio –
   - Persico architetto e gráfico, in DE SETA, Cesare (Org.) – Edoardo Persico, Napoli, Electa, 1987,p.131.
   - Retoma assim a conhecida classificação de Crocce e Venturi, onde o clássico pode ser entendido de duas formas
-  - distintas, uma histórica, como expressão da cultura greco-romana, outra filosófica, que se refere a “um momento eterno do espírito humano que se renova sempre que se cria arte” - VENTURI, Lionello – Op. Cit. e CIUCCI, Giorgio – Gli architteti e il fascismo – Architettura e città 1922-1944, Torino, Einaudi, 1989, p 160.
+  - distintas, uma histórica, como expressão da cultura greco-romana, outra filosófica, que se refere a “um momento eterno do espírito humano que se renova sempre que se cria arte” - VENTURI, Lionello – Op. Cit. e CIUCCI, Giorgio – Gli architteti e il fascismo – Architettura e città 1922-1944, ToRino, Einaudi, 1989, p 160.
   - Cfr. SANCHES, Aline Coelho – A obra e a trajetória do arquiteto Giancarlo Palanti, Itália e Brasil, São carlos,
   - dissertação de mestrado, EESC-USP, 2004.
   - PACCHIONI, Guglielmo – Per una moderna presentazione delle opere d’arte, in Lo Stile . 3, mar/1941, p.4 e 5, no
@@ -228,7 +222,6 @@ articles:
   - Cfr. RISÉRIO, Antonio – Avant-Garde na Bahia. São Paulo, Instituto Lina Bo e P.M. Bardi, 1995; PEREIRA, Juliano
   - A. A Ação Cultural de Lina Bo Bardi na Bahia e no Nordeste, 1958-1964, São
   seminario: sdsul01
-
 - id: sdsul01-008
   title: Antonio Bonet
   subtitle: o referencial de sua arquitetura para o Cone Sul
@@ -258,7 +251,6 @@ articles:
   - 'XAVIER, Alberto/ MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
   - 'Hugo Segawa, Arquiteturas no Brasil (1900-1990). São Paulo: Cosac & Naify, 2002, pág.172.'
   seminario: sdsul01
-
 - id: sdsul01-009
   title: '"Cristalplano" un pabellón de Antonio Bonet'
   authors:
@@ -277,7 +269,6 @@ articles:
 
     ANTONIO BONET DISEÑÓ EN BUENOS AIRES EL PABELLÓN DE LA FIRMA CRISTALPLANO QUE OBTUVO EL PRIMER PREMIO EN LA EXPOSICIÓN DEL CENTENARIO DE LA REVOLUCIÓN DE MAYO EN 1960 CRISTALPLANO La organización de la Exposición del Sesquicentenario, concebida para rememorar la Revolución de mayo de 1816, comenzó tardíamente, careciendo de un plan suficientemente coordinado que organizara los espacios para representar la totalidad de los territorios de la Argentina. Veamos la genealogía del plan general de la exposición-dejando hablar a los protagonistas de ese momento- para comprender la importancia que concedió el jurado al stand de Cristalplano con la consiguiente adjudicación del premio principal. En la revista de Arquitectura de 1961, (Nº79-80) una sección completa dedicada al análisis de los resultados de la exposición. Ilustra sobre la controversia, estética, programática y política, que constituye el contexto en el que se construye el Pabellón diseñado por Antonio Bonet para Cristalplano. Rafael Iglesia, docente en la Universidad de Buenos Aires opinaba entonces: “No concluyó en una imagen de importancia acorde con las declaraciones oficiales”. Opinión que hace eco de la oposición permanente, aunque nunca completamente explicitada, sobre cuales deberían ser los elementos para expresar la grandeza nacional. Uno de los grandes objetivos era el de cómo lograr una comunicación con las masas bajo las influencias vigentes de ese momento, provenientes en su mayoría de las tendencias europeas. Estas objeciones ponían en evidencia la crisis entonces existente entre la arquitectura del modernismo internacional –acusada de formalismo- y la que podría surgir de un lenguaje propio de nuestras regiones.'
   seminario: sdsul01
-
 - id: sdsul01-010
   title: Da vitrine ao outdoor
   subtitle: fechamento e transparência nos shopping centers
@@ -300,7 +291,6 @@ articles:
   - 'CABRAL, Cláudia Piantá Costa. Tipologias Comerciais em Porto Alegre: da Rua Comercial ao Shopping Center. 1996. 261 f. Dissertação de Mestrado. Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre.'
   - 'HARDWICK, M. Jefrey. Creative Destruction: Victor Gruen and the shopping mall´s past and future. Paris: Docomomo Journal, número 31, setembro de 2004. pp. 53-58 .'
   seminario: sdsul01
-
 - id: sdsul01-011
   title: Um banco para o mundo
   authors:
@@ -341,7 +331,6 @@ articles:
   - 'TOCA, Antonio (ed.). Nueva arquitectura em América Latina: presente y futuro. México: Gustavo Gili, 1990.'
   - 'ZEVI, Bruno. Saber ver a arquitetura. São Paulo: Martins Fontes, 1996. p.2.'
   seminario: sdsul01
-
 - id: sdsul01-012
   title: Recoleta Underground
   authors:
@@ -368,7 +357,6 @@ articles:
   - Flora; SÁNCHEZ GÓMEZ, Javier; SANTOS, Josefina; SOLSONA, Justo;
   - 'SALLABERRY, Carlos Alberto. Site do estúdio: http://www.msgsss.com.ar'
   seminario: sdsul01
-
 - id: sdsul01-013
   title: Conteúdos técnico, estético e ideológico da transparência
   subtitle: o Ministério da Educação e Saúde (1935-1945)
@@ -434,7 +422,6 @@ articles:
   - 'TAFURI, Manfredo e DAL CO, Francesco. Architettura Contemporanea/I, Milão: Electa, 1979'
   - 'VON ECKARDT, Wolf & GILMAN, Sander L. A Berlim de Bertolt Brecht. Um Álbum dos Anos 20. Rio de Janeiro: José Olympio, 1996.'
   seminario: sdsul01
-
 - id: sdsul01-014
   title: Transparência e permeabilidade térrea
   subtitle: tradição e modernidade na obra de MMM Roberto
@@ -450,7 +437,7 @@ articles:
   arquivo_pdf: sdsul01-014.pdf
   file_original: 14-Calovi-Pereira.pdf
   pages_count: 16
-  resumo: 'A vinda de Le Corbusier ao Brasil em 1936 consolida um alinhamento com suas propostas arquitetônicas por parte de um grupo de arquitetos cariocas. A carreira posterior de Lúcio Costa, Oscar Niemeyer, Affonso Reidy, Jorge Moreira e outros representará a afirmação de um modo corbusiano e brasileiro de fazer arquitetura que irá disseminar-se pelo país e repercutir no mundo inteiro. Dentre os atrativos que resultaram nesse alinhamento por parte dos arquitetos cariocas, certamente destacavam-se as potencialidades latentes que o sistema corbusiano apresentava. Através de suas propostas, Le Corbusier estava introduzindo uma visão didática da nova arquitetura. É de sua autoria o protótipo residencial que explicita as possibilidades inovadoras da estrutura em concreto armado: a Maison Dom-Ino, de 1914. Na década seguinte, Le Corbusier divulga seus "Cinco Pontos da Nova Arquitetura", que configuram parâmetros metodológicos pioneiros para o projeto arquitetônico moderno.1 São eles o piloti, que eleva o edifício do solo, liberando-o para circulação e acesso; a planta livre, que graças à estrutura independente das paredes, permite a livre compartimentação dos pavimentos; a fachada livre, resultado do recuo dos componentes estruturais em relação à envolvente do edifício, tornando-as em películas que podem ser perfuradas ou removidas livremente; a janela longitudinal, que permite otimizar ventilação, iluminação e visualização no edifício; e o terraço-jardim, que representa a substituição do telhado por uma superfície elevada de contemplação do entorno. Estes cinco pontos são exemplificados por Le Corbusier nas Quatre Compositions, construídas entre 1923 e 1929: as villes Jeanneret-La Roche, Carthago, Stein e Savoye. Através da Oeuvre Complète, compêndios publicados regularmente que documentam a produção do arquiteto, tais obras e muitas outras ganharão divulgação e reconhecimento mundial como exemplos das possibilidades compositivas corbusianas. Cidade tradicional e arquitetura moderna Entretanto, essa arquitetura moderna de matriz corbusiana que chegava ao Brasil nos anos 30 não se limitava a novas propostas de resolução de edifícios. Dentre suas proposições revolucionárias estava incluída uma nova visão da cidade, cujos princípios organizativos foram delineados no IV CIAM (1933) e posteriormente foram publicados por Le Corbusier.2 Autopista, superquadra, bloco habitacional, torre de escritórios, parque contínuo e zona monofuncional criariam o novo ambiente urbano da era da máquina, substituindo a cidade histórica tradicionalmente constituída de rua-corredor, quarteirão periférico, praça e bairro. O contexto do Rio de Janeiro da década de 30 tornaria difícil o estabelecimento de uma arquitetura moderna conjugada a tal visão de cidade. A capital da república estava implantando um plano executado pelo urbanista francês Alfred Agache como diretriz para seu desenvolvimento, que vinculava o futuro do Rio de Janeiro à uma modernização nãorevolucionária da cidade tradicional. O plano criava grandes áreas novas para edificação junto ao centro do Rio, em função do desmonte de morros e da implantação de aterros junto à baía da Guanabara. Contudo, a ocupação destas novas áreas fora projetada com legislação'
+  resumo: 'A vinda de Le Corbusier ao Brasil em 1936 consolida um alinhamento com suas propostas arquitetônicas por parte de um grupo de arquitetos cariocas. A carreira posterior de Lúcio Costa, Oscar Niemeyer, Affonso Reidy, Jorge Moreira e outros representará a afirmação de um modo corbusiano e brasileiro de fazer arquitetura que irá disseminar-se pelo país e repercutir no mundo inteiro. Dentre os atrativos que resultaram nesse alinhamento por parte dos arquitetos cariocas, certamente destacavam-se as potencialidades latentes que o sistema corbusiano apresentava. Através de suas propostas, Le Corbusier estava introduzindo uma visão didática da nova arquitetura. É de sua autoria o protótipo residencial que explicita as possibilidades inovadoras da estrutura em concreto armado: a Maison Dom-Ino, de 1914. Na década seguinte, Le Corbusier divulga seus "Cinco Pontos da Nova Arquitetura", que configuram parâmetros metodológicos pioneiros para o projeto arquitetônico moderno.1 São eles o piloti, que eleva o edifício do solo, liberando-o para circulação e acesso; a planta livre, que graças à estrutura independente das paredes, permite a livre compartimentação dos pavimentos; a fachada livre, resultado do recuo dos componentes estruturais em relação à envolvente do edifício, tornando-as em películas que podem ser perfuradas ou removidas livremente; a janela longitudinal, que permite otimizar ventilação, iluminação e visualização no edifício; e o terraço-jardim, que representa a substituição do telhado por uma superfície elevada de contemplação do entorno. Estes cinco pontos são exemplificados por Le Corbusier nas Quatre Compositions, construídas entre 1923 e 1929: as villes Jeanneret-La Roche, Carthago, Stein e Savoye. Através da Oeuvre Complète, compêndios publicados regularmente que documentam a produção do arquiteto, tais obras e muitas outras ganharão divulgação e reconhecimento mundial como exemplos das possibilidades compositivas corbusianas. Cidade tradicional e arquitetura moderna Entretanto, essa arquitetura moderna de matriz corbusiana que chegava ao Brasil nos anos 30 não se limitava a novas propostas de resolução de edifícios. Dentre suas proposições revoLucionárias estava incluída uma nova visão da cidade, cujos princípios organizativos foram delineados no IV CIAM (1933) e posteriormente foram publicados por Le Corbusier.2 Autopista, superquadra, bloco habitacional, torre de escritórios, parque contínuo e zona monofuncional criariam o novo ambiente urbano da era da máquina, substituindo a cidade histórica tradicionalmente constituída de rua-corredor, quarteirão periférico, praça e bairro. O contexto do Rio de Janeiro da década de 30 tornaria difícil o estabelecimento de uma arquitetura moderna conjugada a tal visão de cidade. A capital da república estava implantando um plano executado pelo urbanista francês Alfred Agache como diretriz para seu desenvolvimento, que vinculava o futuro do Rio de Janeiro à uma modernização nãorevoLucionária da cidade tradicional. O plano criava grandes áreas novas para edificação junto ao centro do Rio, em função do desmonte de morros e da implantação de aterros junto à baía da Guanabara. Contudo, a ocupação destas novas áreas fora projetada com legislação'
   referencias:
   - 'importantes: a reafirmação dos valores da tradição clássica e a assimilação da sintaxe moderna corbusiana dos cinco pontos. É curioso notar que esta síntese ocorre sem qualquer prejuízo da expressão formal moderna do edifício e sem qualquer questionamento à implantação tradicional do edifício entre divisas (sem recuos no alinhamento ou nas laterais). Numa condição muito singular verificada no Rio de Janeiro entre 1930 e 1950, um grupo local de arquitetos teve na disciplina da arquitetura clássica um instrumento de compreensão e interpretação da arquitetura moderna. O discurso destes arquitetos é explícito em reconhecer a importância dessa tradição. No caso dos Irmãos Roberto, a solução dos pisos térreos de edifícios no centro do Rio deixa evidente a potencialidade da disciplina clássica como estruturadora do projeto. A coluna joga um papel fundamental em suas obras: ela organiza modularmente a planta térrea, estrutura eixos de percurso, define perspectivas e ritmos, coordena relações de hierarquia e fluxo e modula espaços como pórticos de embasamento e átrios de recepção. Além disso, o marco ordenador por ela conferido permite a presença dos eventos diversificadores, que sempre cumprem funções específicas. Portanto, o piloti, a planta e a fachada livres de Le Corbusier tiveram o efeito de liberar novamente as energias latentes do sistema clássico nos térreos dos Irmãos Roberto, respondendo de forma significativa à demandas do presente. Sua arquitetura revela a síntese entre a afirmação da fluidez espacial do térreo moderno com o sentido de ordem do pórtico clássico. É provável que uma significativa parcela do legado deixado pela arquitetura moderna carioca esteja ligado a essa conexão vitalizante entre modernidade e tradição. Referências bibliográficas:'
   - 'BAHIMA, Carlos Fernando. Edifício moderno brasileiro: a urbanização dos cinco pontos de Le Corbusier (dissertação de mestrado). Porto Alegre: PROPAR-UFRGS, 2002. o'
@@ -472,7 +459,6 @@ articles:
   - 'SANTOS, Cecília Rodrigues dos et alt. Le Corbusier eo o Brasil. São Paulo: Projeto, 1987.'
   - 'VASCONCELLOS, Juliano. Concreto Armado, Arquitetura Moderna, Escola Carioca: levantamentos & notas (dissertação de mestrado). Porto Alegre: PROPAR-UFRGS, 2004. VITRUVIUS. Ten books on architecture (ed. Rowland & Howe). Cambridge, 1999.'
   seminario: sdsul01
-
 - id: sdsul01-015
   title: A opacidade permeável dos Roberto
   subtitle: malhas e brises nas esquinas da ABI e IAPI
@@ -505,7 +491,6 @@ articles:
   - 'MINDLIN, Henrique Ephim. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano Editora, 2000.'
   - 'PEREIRA, Claudio Calovi. Os irmãos Roberto e a arquitetura moderna no Rio de Janeiro (19361945). Porto Alegre: Dissertação de Mestrado - Universidade Federal do Rio Grande do SulPROPAR, 1993. Revista PDF, março de 1941 Rio de Janeiro. Prefeitura Municipal.Guia da arquitetura moderna no Rio de Janeiro. Rio de Janeiro: Editora Casa da Palavra: Prefeitura Municipal, 2000.'
   seminario: sdsul01
-
 - id: sdsul01-016
   title: Da virtualidade à realidade do Hospital de Clínicas de Porto Alegre
   subtitle: o tratamento do vidro nas subseqüentes versões do projeto de Jorge Moreira
@@ -558,7 +543,6 @@ articles:
   - 'SILVA, Marcos Miethicki da. Jorge Machado Moreira e o projeto do Hospital de Clínicas de Porto Alegre: seu reflexo na arquitetura moderna no Rio Grande do Sul. Revista de História e Geografia Ágora. Santa Cruz do Sul, v. 8, n. 1 e 2, p. 109-23, jan./dez. 2002.'
   - '__________. O Hospital de Clínicas de Porto Alegre: a presença de Jorge Moreira na arquitetura da capital gaúcha. Dissertação de Mestrado. Porto Alegre: PROPAR/UFRGS, 2006.'
   seminario: sdsul01
-
 - id: sdsul01-017
   title: Olhos que avistam a cidade
   subtitle: a poética das janelas na arquitetura de Arnaldo Gladosch
@@ -594,7 +578,6 @@ articles:
   - 'VALERY, Paul. Variedades. São Paulo: Iluminuras, 1999.'
   - 'VERÍSSIMO, Érico. O resto é silêncio. Porto Alegre: Globo, 1987.'
   seminario: sdsul01
-
 - id: sdsul01-018
   title: Controle de radiação solar, Jockey Club do Rio Grande do Sul
   subtitle: estratégia de projeto para clima temperado mediterrâneo
@@ -621,7 +604,6 @@ articles:
   - XAVIER, A., MIZOGUCHI I. ARQUITETURA MODERNA EM PORTO ALEGRE. FAURGS/PINI, Editora Pini Ltda., São Paulo, SP – Brasil.
   - ILUSTRAÇÕES Todas as ilustrações desse trabalho forma elaboradas pela Arq. Luciane Stürmer Kinsel, mestranda do Programa de Pesquisa e Pós-graduação em Arquitetura, PROPAR, Universidade Federal do Rio Grande do Sul.
   seminario: sdsul01
-
 - id: sdsul01-019
   title: Transparencias en Buenos Aires, Teatro General San Martín 1952-60
   subtitle: intervención para la recuperación y puesta en valor de las fachadas
@@ -651,7 +633,6 @@ articles:
   - Entrevista a Mario Roberto Alvarez
   - Agradezco la colaboración de la Dirección General de Infraestructura del Ministerio de Cultura del GCBA . Equipo de Proyecto :Arqtos Gonzalo Etchegorry-Sergio Cid-Gabriela Maltz-Julia AlvarezEquipo de Obra :Arqtos Carlos Lopez-Gabriela Maltz-Maria Teresa Muguersa-Sergio Verruno
   seminario: sdsul01
-
 - id: sdsul01-020
   title: Paredes de vidro nos trópicos desenhadas por um arquiteto italiano
   authors:
@@ -689,7 +670,6 @@ articles:
   - 'XAVIER, A.. (org) Depoimento de uma geração: arquitetura moderna brasileira. [edição revista e ampliada] São Paulo: Cosac & Naify, 2003.'
   - 'YOSHIDA, C. B. Henrique Ephin Mindlin: o homem e o arquiteto. São Paulo: Instituto Roberto Simonsen, 1975.'
   seminario: sdsul01
-
 - id: sdsul01-021
   title: Pieles Modernas
   subtitle: el caso de Luis García Pardo y Raul Sichero en Montevideo
@@ -707,21 +687,20 @@ articles:
   pages_count: 14
   resumo: A comienzos de la segunda mitad del siglo se produce una suerte de crisis en la cultura arquitectónica local. En el ámbito académico y profesional se suceden cambios que marcarán definitivamente los nuevos cursos del pensamiento y la práctica profesional en arquitectura. En la Facultad de Arquitectura se aprueba el nuevo Plan de estudios, conocido posteriormente como el Plan del 52; este hecho fue fundamental y marca una importante y fuerte renovación en el pensamiento académico y cultural del escenario arquitectónico en Uruguay. Este singular hecho fue impulsado por personas que suscribían una explícita postura moderna; posición que se oponía al modelo de Bellas Artes en la práctica académica hasta ese momento y que venía protagonizando y dominando el pensamiento académico en la Facultad de Arquitectura de Montevideo. El principal protagonista y líder de este muy importante cambio fue el arquitecto Carlos Gómez Gavazzo, impulsor del Plan 52. Lo siguieron otras figuras, en ese momento jóvenes estudiantes y que luego se convertirían en importantes arquitectos y profesores titulares de la Facultad; todos ellos suscribieron y apoyaron a su líder en esta cruzada; me refiero a Carlos Reverdito, Felicia Gilboa, Carlos Latchinian, Conrado Petit. En el escenario profesional, empiezan a aparecer en escena arquitectos como Acosta, Brum, Carreri y Stratta; la oficina conocida como Estudio Cinco (Blumstein, Orozco, Barañano, Ferster, Rodríguez Orozco y Rodríguez Juanotena); Justino Serralta; Carlos Reverdito; todos ellos comenzando a producir una importante obra inscripta en la arquitectura moderna. Con formalizaciones y materializaciones perfectamente asociables mas también inscriptas en el pensamiento moderno en lo referente al fuerte compromiso social. Este es de algún modo el escenario que comienza a gestarse a comienzos de los cincuenta y sesenta, aparentemente renovador, aparentemente abierto a las nuevas propuestas. Sin embargo parecería ser que este ambiente aparentemente propicio y amigable a la práctica moderna no fueron los propicios para que figuras trascendentales como Raul Sichero Bouret, Luis García Pardo y Roman Fresnedo Siri, (este último de gran proyección internacional) tuvieran presencia y protagonismo en el discurso académico y en la historiografía arquitectónica. (Figuras 1-2)
   seminario: sdsul01
-
 - id: sdsul01-022
   title: Parque Guinle
   subtitle: as várias faces do projeto
   authors:
   - givenname: Alex Carvalho
-    familyname: Brino
+    familyname: BRino
     affiliation: UFRGS
-    email: brino@exemplo.com
+    email: bRino@exemplo.com
     primary_contact: true
   section: Sessão 1 Mesa 2 - Escritórios, Apartamentos e Esquadrias
   locale: pt-BR
   file: sdsul01-022.pdf
   arquivo_pdf: sdsul01-022.pdf
-  file_original: 22-Brino.pdf
+  file_original: 22-BRino.pdf
   pages_count: 17
   resumo: 'A nova técnica reclama a revisão dos valores plásticos tradicionais. O que a caracteriza e, de certo modo, comanda a transformação radical de todos os antigos processos de construção – é a ossatura independente. Em todas as arquiteturas passadas, as paredes... desempenhavam função capital: formavam a própria estrutura. A nova função que lhes foi confiada – de simples vedação – oferecer, sem os mesmos riscos e preocupações – outras comodidades. Tôda a responsabilidade foi transferida no novo sistema, a uma ossatura independente, podendo tanto ser de concreto armado como metálica. Assim, aquilo que foi – invariavelmente – uma espêssa muralha durante várias dezenas de séculos, pôde, em algumas dezenas de anos, graças à nova técnica, transformar-se (quando convenientemente orientada, bem entendido: sul no nosso caso) em uma simples lâmina de cristal. Lúcio Costa: sobre arquitetura, 1962, p.27-28.
 
@@ -746,7 +725,6 @@ articles:
   - PAPADAKI, Stamo - The Work of Oscar Niemeyer - Nova York. Reinhold Publishing Corporation, 1950.
   - WISNIK, Guilherme - Lúcio Costa - São Paulo. Cosac & Naify Edições, 2001.
   seminario: sdsul01
-
 - id: sdsul01-023
   title: Quando o moderno é (um) barato
   subtitle: edifício Armênia, praça Julio, Porto Alegre
@@ -781,7 +759,6 @@ articles:
   - UFRGS, 1994. Dissertação de mestrado, PROPAR, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, 1994.
   - 'ROWE, Colin. Character and composition or some vissicitudes of architectural vocabulary in the nineteenth century. In: The mathematics of the ideal villa and other essays. Cambridge: MIT Press, 1976.'
   seminario: sdsul01
-
 - id: sdsul01-024
   title: Filtro solar Fator paralelo 30
   subtitle: o FAM e a arquitetura moderna brasileira no sul
@@ -805,7 +782,7 @@ articles:
   referencias:
   - ARAÚJO, Cláudio. Um depoimento. Revista Arqtexto, Porto Alegre, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, n. zero, p.116-123, 2000. AU-ARQUITETURA E URBANISMO. Composições Gaúchas. São Paulo, Editora Pini Ltda., n. 37, Ago./set. 91.
   - 'COSTA, Lúcio. Universidade do Brasil. In: CENTRO DE ESTUDANTES UNIVERSITÁRIOS DE ARQUITETURA. Lúcio Costa: sôbre arquitetura, Porto Alegre, CEUA, 1962.'
-  - 'LUZ, Maturino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura, São Leopoldo, UNISINOS, n.2, p.49-71, 2001.'
+  - 'LUZ, MatuRino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura, São Leopoldo, UNISINOS, n.2, p.49-71, 2001.'
   - MARQUES, Sergio Moacir. A Máskara. Arqtexto, Porto Alegre, Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, n. 3-4, p.154-159, 2003.
   - MARQUES, Sergio Moacir. The Fountainhead, el manantial. Summa +, Buenos Aires, Sumamas, n. 58, p. 26-29, 2003.
   - 'MINDLIN, E. H. Modern architecture in Brazil. Rio de Janeiro: Colibris, 1956.'
@@ -816,7 +793,6 @@ articles:
   - 'SANVITTO, Maria Luiza Adams. Brutalismo Paulista: O Discurso e a Obra. Revista Projeto, São Paulo, Arco Editorial, n.207, p.92-97, 1997.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre, São Paulo: Pini, 1987.'
   seminario: sdsul01
-
 - id: sdsul01-025
   title: Mosteiro beneditino
   subtitle: imagens de silêncio e luz na arquitetura de Francisco Bolonha
@@ -846,7 +822,6 @@ articles:
   - 'UNDERWOOD, David. Oscar Niemeyer e o modernismo de formas livres no Brasil. São Paulo: Cosac & Naify Edições, 2002'
   - 'VALÉRY, Paul. Eupalinos ou O Arquiteto. Rio de Janeiro: Editora 34, 1999, p. 73.'
   seminario: sdsul01
-
 - id: sdsul01-026
   title: Da Califórnia a São Paulo
   subtitle: a casa americana e a Arquitetura Moderna paulista (1945-1960)
@@ -877,7 +852,6 @@ articles:
   - AD, n. 24, jul/ago. 1957.
   - Na residência em Indianópolis, Botti e Rubin procuraram, dentro das exíguas dimensões do terreno, valorizar ao máximo o conceito de integração casa-jardim, criando um pátio interno em continuação à sala, resguardado da rua por um muro de elemento vazado.49 Ralph Rapson, na Case Study House n.4 criou a greenbelt, não construída porque ela “quebrava abruptamente com a tradição”. Era, justamente, uma casa em um lote urbano, baseada “na premissa que ela deveria criar seu próprio ambiente – e ela deveria olhar antes para dentro do que para fora”. As áreas de estar e os quartos se abriam para um pátio interno pergulado. 50 Sem dúvida, as casas construídas em São Paulo por arquitetos como Rino Levi e os acima citados são uma referência inevitável. Eles encontram na casa-pátio “uma maneira de abrir o interior da casa sem perder o sentido de intimidade do ambiente doméstico”. 51 Se houve um vestígio que o American way of life deixou na sociedade paulista foi o desejo por um modo de viver moderno, mais confortável e descontraído. Seguindo o exemplo americano, da Califórnia à costa lest
   seminario: sdsul01
-
 - id: sdsul01-027
   title: A Transparência e a Sombra na Arquitetura dos Anos 1950 através da lente da Revista Casa e Jardim
   authors:
@@ -927,7 +901,6 @@ articles:
   - ZONTA, Regina. A Casa do Arquiteto Clovis Felippe Olga. in Casa e Jardim. São Paulo - Rio de Janeiro, n.34, Abril, 1957.
   - Referências das Imagens Fig. 01 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 10, Setembro-Outubro, 1954. p. 24-25. Fig. 02 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 16, Agosto, 1955. p. 21. Fig. 03 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 43, Junho, 1958. p. 39. Fig. 04 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 21, Janeiro, 1956. p. 10-11. Fig. 05 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 09, Julho-Agosto, 1954. p. 25. Fig. 06 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 17, Setembro, 1955. p. 10-11. Fig. 07 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 39, Novembro-Dezembro, 1957. p. 34-35. Fig. 08 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 09, Julho-Agosto, 1954. p. 14. Fig. 09 – Casa e Jardim. São Paulo – Rio de Janeiro, n. 33, Março, 1957. p. 08-09.
   seminario: sdsul01
-
 - id: sdsul01-028
   title: Lina Bo Bardi. 1951
   subtitle: 'Casa de Vidro, 1964: "Niente Vetri"'
@@ -964,7 +937,6 @@ articles:
   - 'SEMERANI, Luciano. “L’origine archetipica della modernità”. In Antonella Gallo (ed.) Lina Bo Bardi, architetto. Veneza: Marsilio, 2004.'
   - 'Créditos das fotografias: P. Scheier, F. Albuquerque, J. Pires e Instituto Lina Bo e P.M. Bardi (ILBPMB).'
   seminario: sdsul01
-
 - id: sdsul01-029
   title: O Caso das Caixas de Vidro
   authors:
@@ -991,7 +963,6 @@ articles:
   - Mies van der Rohe; pref. por Kenneth Frampton.
   - 'Barcelona : G. Gili, 1986'
   seminario: sdsul01
-
 - id: sdsul01-030
   title: Análise das estratégias de luz e não luz em duas residências da arquitetura paulista brutalista dos anos 1960
   authors:
@@ -1023,7 +994,6 @@ articles:
   - 'ZEIN, Ruth Verde. 2000. Arquitetura Brasileira, Escola Paulista e as Casas de Paulo Mendes da Rocha. Porto Alegre: PROPAR-UFRGS, [Dissertação de Mestrado]'
   - ZEIN, Ruth Verde. 2005. A Arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre:PROPAR-UFRGS. [Tese de Doutoramento].
   seminario: sdsul01
-
 - id: sdsul01-031
   title: Opacidade e transparência nas residências do Brutalismo Paulista
   authors:
@@ -1056,7 +1026,6 @@ articles:
   - 'ZEIN, Ruth Verde. Arquitetura Brasileira, Escola Paulista e as casas de Paulo Mendes da Rocha. Porto Alegre: Dissertação de Mestrado, UFRGS, Faculdade de Arquitetura, PROPAR, jun.2000.'
   - '__________. A Arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre: Tese de Doutoramento, UFRGS, Faculdade de Arquitetura, PROPAR, out.2005.'
   seminario: sdsul01
-
 - id: sdsul01-032
   title: As casas de Joaquim Guedes, pesquisa e experimentação com vidro
   authors:
@@ -1109,7 +1078,6 @@ articles:
   - XAVIER, Alberto – Arquitetura Moderna Paulistana. São Paulo, Editora PINI Ltda, 1983.
   - 'ZEIN, Ruth Verde – O Lugar da Crítica: Ensaios Oportunos de Arquitetura. Porto Alegre, PRO Editores, 2001.'
   seminario: sdsul01
-
 - id: sdsul01-033
   title: Transparência e sombra
   subtitle: o plano horizontal na arquitetura paulista
@@ -1134,7 +1102,6 @@ articles:
   - 'HOFFMAN, Donald. Frank Lloyd Wright’s Fallingwater: The House and Its History. Nova York: Dover, 1978.'
   - 'LIPMAN, Jonathan. Frank Lloyd Wright and The Johnson Wax Buildings. Nova York: Rizzoli, 1986. CRÉDITOS As plantas e cortes das casas de Paulo Mendes da Rocha são de autoria da arquiteta Ruth Verde Zein, e foram extraídas da sua dissertação de mestrado, Arquitetura Brasileira, Escola Paulista e as casas de Paulo Mendes da Rocha, apresentada no PROPAR/UFRGS em 2000.'
   seminario: sdsul01
-
 - id: sdsul01-034
   title: Reseña del desarrollo de la arquitectura vidriada en Chile entre 1937 y 1970
   authors:
@@ -1155,7 +1122,6 @@ articles:
 
     Ver, (sin autor), “Nuevas industrias establecidas: La fábrica de vidrio plano”, en Industria, Santiago de Chile, 1938, p. 24'
   seminario: sdsul01
-
 - id: sdsul01-035
   title: O vidro na linguagem de Oscar Niemeyer
   authors:
@@ -1210,7 +1176,6 @@ articles:
   - 'UNDERWOOD, D. Oscar Niemeyer and the architecture of Brazil. New York: Rizzoli, 1994.'
   - 'ZEVI, Bruno. A Linguagem Moderna da Arquitetura. Lisboa: Publicações Dom Quixote, 1984.'
   seminario: sdsul01
-
 - id: sdsul01-036
   title: Simultaneidades do uso do vidro na arquitetura moderna
   subtitle: edifícios residenciais na Rua Duque de Caxias em Porto Alegre
@@ -1231,12 +1196,12 @@ articles:
   arquivo_pdf: sdsul01-036.pdf
   file_original: 36-Saboia-de-Lamare.pdf
   pages_count: 21
-  resumo: 'O progresso significava novo fôlego às aspirações de uma nova sociedade. Novas tecnologias inspiravam uma nova ordem, uma sociedade mais justa e igualitária. Entretanto, este processo de modernização formava novos mercados consumidores e uma burguesia emergente: a sociedade de consumo. Entre os novos materiais na construção como ferro, concreto armado, entre outros, o vidro teve um papel revolucionário. A fachada antes quase opaca e delineadora das esperas públicas e privadas, agora com partes transparentes torna-se a interface entre o coletivo e o individual. Para Sigfried Giedion a palavra chave nesta nova tradição arquitetônica é interpenetração 1 . Isto significa: interpenetração de espaços, de planos, de experiências urbanas. Interpenetração que a imaterialidade do vidro favorece implicando em simultaneidades. As questões a serem abordadas neste artigo são exatamente as simultaneidades e ambigüidades entre interior/exterior, cheio/vazio, parte/todo, moderno/tradicional existentes entre o objeto arquitetônico – neste caso a tipologia multifamiliar - quando inserido no contexto urbano tradicional na cidade de Porto Alegre. Sobre a questão da composição arquitetônica moderna, Robin Evans divide em três períodos a arquitetura do século XX. As três fases da composição moderna podem ser descritas em: o primeiro período movido por um impulso revolucionário emprestado pela pintura cubista (1910-1920). No segundo período, a partir da segunda guerra mundial, há uma busca de humanização da arquitetura. E por último, um período a partir da década de 70, marcado pelo fim do projeto utópico do modernismo. 2 Pode-se fazer um paralelo entre este segundo período classificado por Evans e a segunda idade do vidro, pois ambos enfocam as contradições que esta busca de valores humanos trouxe à tona neste período pós-guerra. Esta pesquisa de maneira pontual - através do estudo de caso de alguns'
+  resumo: 'O progresso significava novo fôlego às aspirações de uma nova sociedade. Novas tecnologias inspiravam uma nova ordem, uma sociedade mais justa e igualitária. Entretanto, este processo de modernização formava novos mercados consumidores e uma burguesia emergente: a sociedade de consumo. Entre os novos materiais na construção como ferro, concreto armado, entre outros, o vidro teve um papel revoLucionário. A fachada antes quase opaca e delineadora das esperas públicas e privadas, agora com partes transparentes torna-se a interface entre o coletivo e o individual. Para Sigfried Giedion a palavra chave nesta nova tradição arquitetônica é interpenetração 1 . Isto significa: interpenetração de espaços, de planos, de experiências urbanas. Interpenetração que a imaterialidade do vidro favorece implicando em simultaneidades. As questões a serem abordadas neste artigo são exatamente as simultaneidades e ambigüidades entre interior/exterior, cheio/vazio, parte/todo, moderno/tradicional existentes entre o objeto arquitetônico – neste caso a tipologia multifamiliar - quando inserido no contexto urbano tradicional na cidade de Porto Alegre. Sobre a questão da composição arquitetônica moderna, Robin Evans divide em três períodos a arquitetura do século XX. As três fases da composição moderna podem ser descritas em: o primeiro período movido por um impulso revoLucionário emprestado pela pintura cubista (1910-1920). No segundo período, a partir da segunda guerra mundial, há uma busca de humanização da arquitetura. E por último, um período a partir da década de 70, marcado pelo fim do projeto utópico do modernismo. 2 Pode-se fazer um paralelo entre este segundo período classificado por Evans e a segunda idade do vidro, pois ambos enfocam as contradições que esta busca de valores humanos trouxe à tona neste período pós-guerra. Esta pesquisa de maneira pontual - através do estudo de caso de alguns'
   referencias:
   - 'BERMAN, Marshall, All that is solid melts into air: the experience of modernity, Penguin, London, 1988'
   - CANEZ, Anna Paula. Fernando Corona e os caminhos da arquitetura moderna em Porto Alegre. Porto Alegre, UE/Porto Alegre / Faculdades Integradas do Instituto Ritter dos Reis, 1998.
   - 'EVANS, Robin. Persistent Breakage. In: The Projective Cast: Architecture and Its Three Geometries. Cambridge (Mass.): MIT press, 1995, p.55-105.'
-  - 'Walter Benjamin, ‘surrealism'', in Reflection p. 180. Citado por: HEYNEN, Benjamin: The Dream of a Classless Society, 1999, p. 106. “To live in a glass house is a revolutionary virtue par excellence. It is also an intoxication, a moral exhibition that we badly need. Discretion concerning one’s existence, once an aristocratic virtue, has become more and more an affair of petitbourgeois parvenus”. (trad. Livre).'
+  - 'Walter Benjamin, ‘surrealism'', in Reflection p. 180. Citado por: HEYNEN, Benjamin: The Dream of a Classless Society, 1999, p. 106. “To live in a glass house is a revolutionary virtue par excellence. It is also an intoxication, a moral exhIBITion that we badly need. Discretion concerning one’s existence, once an aristocratic virtue, has become more and more an affair of petitbourgeois parvenus”. (trad. Livre).'
   - 'BERMAN, 1988, pp. 15 25 Ver análise feita por Hilde Heynen no seu livro sobre arquitetura e modernidade. HEYNEN, 1999 26 Robin Evans, “Persistent breakage”, The projective cast: architecture and its three geometries, MIT, 1995, pp. 105.'
   - 'GIEDION, Sigfried. Espaço, tempo e arquitetura: o desenvolvimento de uma nova tradição, trad. Alvamar Lamparelli. São Paulo: Martins Fontes, 2004,'
   - 'HEYNEN, Hilde. Architecture and Modernity: A Critique. London: MIT Press, 1999, pp. 29-42.'
@@ -1248,7 +1213,6 @@ articles:
   - 'SEGAWA, Hugo. Arquitetura no Brasil. 1900-1990(São Paulo: Edusp, 2002), pp.112-114.'
   - XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo, Pini, 1987.
   seminario: sdsul01
-
 - id: sdsul01-037
   title: A construção da Arquitetura Moderna no Rio Grande do Sul
   subtitle: o projeto da Sociedade Amigos da Praia do Imbé de Luís Fernando Corona
@@ -1291,7 +1255,6 @@ articles:
   - '22. XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. Rio de Janeiro: Rio Arte, 1991. 315 p.'
   - '23. XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini; Porto Alegre.'
   seminario: sdsul01
-
 - id: sdsul01-038
   title: Revendas de automóveis em Porto Alegre
   subtitle: a antiga casa Dico
@@ -1313,7 +1276,6 @@ articles:
   referencias:
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.'
   seminario: sdsul01
-
 - id: sdsul01-039
   title: O Centro de Exposições de Caxias do Sul de 1954
   authors:
@@ -1328,7 +1290,7 @@ articles:
   arquivo_pdf: sdsul01-039.pdf
   file_original: 39-da-Costa.pdf
   pages_count: 17
-  resumo: 'A motivação inicial para traçar um paralelo entre a Exposição de Roma de 1942 (E.42) e o Centro de Exposições de Caxias do Sul, de 1954, é de ordem cultural. Decorre da forte presença italiana na região da Serra Gaúcha, condicionada própria colonização iniciada no século XIX e do permanente contato dos imigrantes com a terra natal. Além disso, cabe registrar que, a partir da década de 20, diversos arquitetos de origem italiana passam a atuar na região, como Luigi Valiera e Sylvio Toigo. (Costa e Guaresi, 2003)1 No contexto cultural, a análise dos espaços de celebração parece ser muito importante, pois nos monumentos e pavilhões expositivos a identidade de um povo é construída e reconstruída. Nesses espaços, os governos ditatoriais investem na construção da sua “imagem de poder”, de uma “Arte de Estado”, o que Giuseppe Pasquali (1985) define como “pathos da auto-celebração” de um sistema político. Na busca de uma linguagem que seja capaz de traduzir novos ideais e identidades, os espaços expositivos são cenários privilegiados de experimentação e se transformam, muitas vezes, em vitrines para inovações arquitetônicas, inclusive aquelas referentes ao uso do vidro. Podem ser citados como exemplos: o Palácio de Cristal (1851), construído para a Primeira Exposição Universal de Paris; o Pavilhão da Alemanha em Barcelona, de Mies Van der Rohe; e ainda, os pavilhões das Indústrias Alemãs (1913) e das Indústrias do Vidro (1914), ambos projetados por Bruno Taut, configurando estruturas que visavam exibir a natureza do novo material. No contexto italiano, durante o regime fascista, as exposições tiveram grande valor na construção e afirmação do vocabulário racionalista, como nas Exposições de Arquitetura Racional (1928 e 1931) e nas Trienais de Milão. Buscava-se uma linguagem capaz de traduzir o novo conteúdo político, uma “transparência” do regime fascista, que por analogia se associava à proposta racionalista de transparência do edifício em estrutura aparente e vidro. Essa construção é apresentada por Bardi, em 1931, ao discutir o conceito de Arte de Estado. Contudo, os classicistas contrapunham-se a esse conceito e sustentavam que o racionalismo servia somente para a arquitetura utilitária, mas não para os espaços que celebrassem o poder civil e religioso,'
+  resumo: 'A motivação inicial para traçar um paralelo entre a Exposição de Roma de 1942 (E.42) e o Centro de Exposições de Caxias do Sul, de 1954, é de ordem cultural. Decorre da forte presença italiana na região da Serra Gaúcha, condicionada própria colonização iniciada no século XIX e do permanente contato dos imigrantes com a terra natal. Além disso, cabe registrar que, a partir da década de 20, diversos arquitetos de origem italiana passam a atuar na região, como Luigi Valiera e Sylvio Toigo. (Costa e Guaresi, 2003)1 No contexto cultural, a análise dos espaços de celebração parece ser muito importante, pois nos monumentos e pavilhões expositivos a identidade de um povo é construída e reconstruída. Nesses espaços, os governos ditatoriais investem na construção da sua “imagem de poder”, de uma “Arte de Estado”, o que Giuseppe Pasquali (1985) define como “pAthos da auto-celebração” de um sistema político. Na busca de uma linguagem que seja capaz de traduzir novos ideais e identidades, os espaços expositivos são cenários privilegiados de experimentação e se transformam, muitas vezes, em vitrines para inovações arquitetônicas, inclusive aquelas referentes ao uso do vidro. Podem ser citados como exemplos: o Palácio de Cristal (1851), construído para a Primeira Exposição Universal de Paris; o Pavilhão da Alemanha em Barcelona, de Mies Van der Rohe; e ainda, os pavilhões das Indústrias Alemãs (1913) e das Indústrias do Vidro (1914), ambos projetados por Bruno Taut, configurando estruturas que visavam exibir a natureza do novo material. No contexto italiano, durante o regime fascista, as exposições tiveram grande valor na construção e afirmação do vocabulário racionalista, como nas Exposições de Arquitetura Racional (1928 e 1931) e nas Trienais de Milão. Buscava-se uma linguagem capaz de traduzir o novo conteúdo político, uma “transparência” do regime fascista, que por analogia se associava à proposta racionalista de transparência do edifício em estrutura aparente e vidro. Essa construção é apresentada por Bardi, em 1931, ao discutir o conceito de Arte de Estado. Contudo, os classicistas contrapunham-se a esse conceito e sustentavam que o racionalismo servia somente para a arquitetura utilitária, mas não para os espaços que celebrassem o poder civil e religioso,'
   referencias:
   - podem ser registradas, até porque esta característica é um padrão da arquitetura moderna promovida pelo poder público. (Silva, 2002 e Comas e Pellegrini, 2005) Neste contexto, mencionase a construção de uma monumentalidade moderna na proposta de Le Corbusier para a Cidade Universitária do Rio de Janeiro, de 1936 (Oliveira, 2002); na proposta de Affonso Reidy para o Palácio da Prefeitura do Rio de Janeiro, de 1938; e na de Gregori Warchavchik para o Paço Municipal de São Paulo, de 1939. (Comas e Pellegrini, 1995) As propostas manifestam a monumentalidade através da centralidade de suas praças e das galerias e pórticos de pilares e colunas colossais 10. É possível observar que o projeto do conjunto desenvolvido pela equipe de Paiva serviu de referência para a construção do Pavilhão da Festa da Uva, onde originalmente era previsto o Pavilhão dos Maquinários Agrícolas. Em 1953, a empresa do engenheiro Romano Lunardi, profissional muito atuante em Caxias do Sul, assume o desenvolvimento do projeto. O resultado é uma grande composição subtrativa, com o acesso marcado por um porticado de colunas de concreto armado, que protege uma grande pele de vidro. Aqui são registrados os estudos de fachada, em que são confrontadas dimensões diversas para a platibanda e a disposição de aberturas, optando-se pela solução em que a integridade do volume subtrativo fica mais explícita (figuras 25, 26 e 27).
   - 'Figurascarioca, 25 e 26 – Pavilhão da(2005) Festaanalisam da Uvaa(1953) – Caxias dogenerosa Sul. Romano Lunardi. com uma No caso da prefeitura Comas e Pellegrini, conformação de uma praça, estabelecida certa autonomia em relação à configuração do espaço viário. OMunicipal conjunto formado por edifícios-barra Fonte: Arquivo Histórico João Spadari Adami é “permeável”, com uso de pórticos e pilotis formados por colunas. No caso paulista, Warchavchik manifesta um possível relação com a arquitetura fascista de Marcello Piacentini e Sabaudia. É um espaço de domínio dos pedestres, onde o conjunto relógio, torre e praça ajudam a caracterizar a monumentalidade do edifício. Ao invés das colunatas de Reidy, o edifício apóia-se em pesados pilares que configuram uma subtração ou uma concavidade que “sugere uma deformação da barra ortogonal por afundamento”. (Comas e Pellegrini, 2005)'
@@ -1336,7 +1298,6 @@ articles:
   - Pela sua monumentalidade, proporcionalidade e intenção simétrica, é interpretável uma matriz de ordem clássica. Mas é também possível interpretá-lo com um olhar mais racionalista. O aspecto simples da “caixa edificada”, com seu sistema estrutural modulado e explícito garante a eficiência da leitura desse espaço (figura 31). Numa planta de 25 x 119 m, estão modulados pilares e vigas, sendo que 11 colunas de 14 m de altura são explícitas ao longo de 60 m de fachada (Memorial..., 1953). A estrutura articula, além do térreo, mais dois pavimentos, que, por estarem recuados em relação à galeria frontal, configurando um pequeno mezanino. As circulações verticais até estes pavimentos são feitas por meio de duas escadas dispostas, quase que simetricamente, ao longo da pele de vidro. Uma terceira escada de serviços configura uma pequena adição na pureza volumétrica do grande pavilhão. A planta livre se impõe, inclusive sem contemplar sanitários, previstos em um anexo que atente a todo o complexo de exposições.
   - Ainda merece especial destaque o fechamento longitudinal deste paralelepípedo com grandes peles de vidro. No pavimento inferior da fachada sul, tratada como secundária, as esquadrias apóiam-se na estrutura modulada, minimizando o peso visual do volume ou impondo aos olhos um ritmo compositivo capaz de ser percebido por aqueles que passam a circular na velocidade do carro (figura 32). Na fachada principal, novo fecha
   seminario: sdsul01
-
 - id: sdsul01-040
   title: Arquitetura Moderna em Santa Maria
   subtitle: elementos de vedação de luz e sombra no Edifício de Administração Central e Reitoria da UFSM
@@ -1386,7 +1347,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. 2ª ed. São Paulo: EdUSP, 2002. 224p.'
   - 'UFC – Universidade Federal do Cerá. Maternidade-Escola Assis Chauteaubriand. Disponível em: <http://www.meac.ufc.br/histo1.html><http://www.meac.ufc.br/histo2.html><http://www.meac.ufc.br /histo3.html>. Acessado em: novembro 2005.'
   seminario: sdsul01
-
 - id: sdsul01-041
   title: Arquitetura Moderna e o tema industrial no Rio Grande do Sul
   subtitle: o caso exemplar da Refinaria Alberto Pasqualini
@@ -1421,7 +1381,6 @@ articles:
   - 'SILVA, Elvan. Matéria, Idéia e Forma: uma definição de Arquitetura. Porto Alegre: Ed. Universidade/UFRGS, 1994.'
   - 'XAVIER, Alberto e MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
   seminario: sdsul01
-
 - id: sdsul01-042
   title: Dois palácios e uma praça
   subtitle: transparência e sombra nos altos da praia
@@ -1454,7 +1413,6 @@ articles:
   - 'ROWE, Colin. Transparencia: literal y fenomenal. IN: Manierismo y arquitectura moderna y otros ensayos. Barcelona: Gustavo Gili S.A., 1978.'
   - 'ROWE, Colin & KOETTER, Fred. Ciudad Collage. Barcelona: Editorial Gustavo Gili,1978. < http://www.portoimagem.com/frameindex3.html> Acesso em 01 de julho. 2006, 20:37:00. <http://www.portoimagem.com/fotosantigas/antiga036.html> Acesso em 31 de mai. 2006, 22:30:00 <http://www.portoalegre.rs.gov.br/ > Acesso em 1 de julho. 2006, 21:44:00'
   seminario: sdsul01
-
 - id: sdsul01-043
   title: Enfim, sombra! Justiça seja feita à vidraça do Palácio
   authors:
@@ -1490,7 +1448,6 @@ articles:
   - 'SILVA, Elvan. Uma introdução ao projeto arquitetônico. Porto Alegre: Editora da Universidade, 1991.'
   - 'SUMMERSON, Sir John. Heavenly mansions. Nova Iorque: W.W. Norton & Company, 1998.'
   seminario: sdsul01
-
 - id: sdsul01-044
   title: O muro da Mauá em Porto Alegre
   subtitle: a não transparência, a controvérsia e os significados do lugar
@@ -1520,11 +1477,10 @@ articles:
   - GLOCK, Clarinha. As tristes lembranças da enchente de 1941. Zero Hora, Porto Alegre, 26.05.1991, p. 42.
   - GOVERNADOR aprova os projetos do cais do porto. Zero Hora, Porto Alegre, 24.06.96, p. 45.
   - KLEINE, Johanna. Centro ganhará mais vida à beira do rio. Zero Hora, Porto Alegre, 29.03.1998, p. 46-48.
-  - LUZ, Maturino Salvador da. Entrevista com o autor, 05.07.1998.
+  - LUZ, MatuRino Salvador da. Entrevista com o autor, 05.07.1998.
   - 'LYNCH, Kevin. A imagem da cidade. São Paulo: Martins Fontes, 1982. NORBERG-SCHULZ, Christian. Genius loci: towards a phenomenology of architecture. New York: Rizzoli, 1980.'
   - TRAZENDO o rio de volta. Signo comunicação, Porto Alegre, n. 14, p. 20, out. 1974.
   seminario: sdsul01
-
 - id: sdsul01-045
   title: Luz e sombras nos espaços abertos urbanos do subtrópico úmido
   authors:
@@ -1557,7 +1513,6 @@ articles:
   - 'TANIZAQUI, J. Um acalorado elogio a las sombras. 5ª ed. Madrid: Siruela, 1997'
   - 'TURQUETS, O. Barcelona: Turquets, 1994.'
   seminario: sdsul01
-
 - id: sdsul01-046
   title: Criando sombras sobre o vidro
   subtitle: história e tipologia das fachadas de várias camadas no século XX
@@ -1595,7 +1550,6 @@ articles:
   - 'VENTURI, Robert. Complejidad y contradicción en la arquitectura. Barcelona: Gustavo Gilli, 1992.'
   - WIGLEY, Mark. Il Luogo/On Site. Lotus International, Milão, n.95, p. 118-131, 1997.
   seminario: sdsul01
-
 - id: sdsul01-047
   title: Transparencia e inhabitabilidad
   authors:
@@ -1612,7 +1566,6 @@ articles:
   pages_count: 5
   resumo: 'La casa Oks fue el resultado de un encargo motivado en el interés artístico por las condiciones del arquitecto, Antonio Bonet, tanto como el deseo de los comitentes de vivir en ella. Transcurridos poco más de 50 años de su construcción, habiendo sido abandonada por sus primeros habitantes, y luego de muchas modificaciones, la oportunidad de visitar la casa vacía, nuevamente en venta, junto con Mariano Oks, comitente original de la obra, interlocutor de Bonet, y atento observador, permitió echar una mirada sobre el estado de la obra. Pero sobre todo, sobre la relación entre uso y conservación en aquellas obras que la historia consagra como monumentos de arquitectura, suerte de paradigmas construidos de las idvveas de su época. En distintos momentos de este diálogo y visita se pusieron de manifiesto las contradicciones entre la integralidad de la “obra artística” y la funcionalidad y habitabilidad práctica de la casa durante el lapso de tiempo en que Oks habitó la casa. Los mayores inconvenientes para el comitente consistieron en lo que consideró un intolerable comportamiento térmico de la casa, incapaz de absorber las variaciones de temperatura. Estas condiciones se pueden adjudicar a dos factores principales, las grandes superficies vidriadas, y el escaso espesor que Bonet buscó dar al techo. En cualquier caso el juicio de Oks es categórico sobre este aspecto: “... ustedes querrán saber por qué me mudé (...) Esta casa tenía el 80% del perímetro de vidrio. Y era vidrio simple. Entonces cuando hacía calor, en verano, era un horno. Compramos un equipo de 10 hp de General Electric para el aire acondicionado, pero era más importante el ruido que el aire acondicionado. En invierno era un heladera, no había calefacción que alcance.... ...Yo me adapté desde el ''55 hasta el ''64, casi nueve años que me aguanté la falta de inercia térmica...” 1 En 1964 Oks decide mudarse a una casa cercana. Se trata de una casa colonial de muros de adobe de 70 centímetros de ancho. “…entonces busque una casa animal…paredes de ladrillones coloniales asentados en barro…”, dice Oks. Encargó una mínima reforma a Ernesto Katzenstein, y es la casa donde vive todavía, orgulloso de su inercia térmica y confort. Esta irónica comparación quedó registrada en el texto de Jorge Hampton en la revista Summa+80, siguiendo a la entrevista que mantuviera con Mariano Oks. 2 Aspectos también tratados en el texto que Roberto Lombardi escribió, a propósito de dicha entrevista, bajo el título de “La casa inhabitable ( un mito moderno)”3, señalando que la historia de inhabitabilidad no es en absoluto privativa de la casa Oks, y que nombres tan importantes como'
   seminario: sdsul01
-
 - id: sdsul01-048
   title: Notas sobre transparencia, sombra y arquitecturas de Sudamérica 1930-70
   authors:

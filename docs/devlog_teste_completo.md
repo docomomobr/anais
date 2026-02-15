@@ -383,3 +383,39 @@ Script Python com `requests.Session()`:
 | Nacionais | Não presentes | Já publicados (15 issues, ~1400 arts) |
 | Papel do usuário | Editor | Editor |
 | SSH | Não | Não |
+
+---
+
+## Etapa 7 — Correções pós-revisão (2026-02-13)
+
+### Capas faltantes no OJS teste
+
+5 issues estavam sem capa (apareciam como placeholder nas páginas estáticas):
+- sdnne07, sdrj02, sdrj03, sdrj04, sdsul08
+
+**Causa**: sdrj02/sdrj03 foram adicionados depois do upload inicial de capas; sdrj04/sdnne07/sdsul08 foram deletados e reimportados na Etapa 0 (novas issue IDs), perdendo as capas.
+
+**Solução**: upload das 5 capas PNG via endpoint `edit-issue-data` + `upload-file` → `update-issue`. Regeneração e re-upload das 6 páginas estáticas + homepage.
+
+**Lição para produção**: após qualquer reimportação de issue (delete + import), a capa precisa ser re-uploaded. Incluir verificação de capas (Fase 4.3 do pipeline) ANTES de gerar páginas estáticas.
+
+### XMLs de sdrj02/sdrj03 com `<citations>` malformado
+
+Ao importar sdrj02 e sdrj03 no teste, o OJS retornou erro de validação:
+```
+Element '{http://pkp.sfu.ca}citations': Character content other than whitespace is not allowed
+```
+
+**Causa**: os XMLs em `xml_test/` foram gerados ANTES da correção de `<citations>` (que trocou texto direto por `<citation>` child elements). A correção foi feita na Etapa 3, mas os XMLs de sdrj02/sdrj03 não foram regenerados.
+
+**Solução**: regenerar com `python3 scripts/generate_ojs_xml.py --slug sdrj02 --slug sdrj03 --outdir xml_test`.
+
+**Lição para produção**: **SEMPRE regenerar TODOS os XMLs de uma vez** antes de importar. Nunca reutilizar XMLs gerados em sessões anteriores — o script pode ter sido corrigido desde então. Comando:
+```bash
+python3 scripts/generate_ojs_xml.py --with-pdf --outdir xml_prod
+# Gera ~920 XMLs frescos com o código atual
+```
+
+### Estado final do OJS teste
+
+23 issues (21 anteriores + sdrj02 + sdrj03), todas com capas. Páginas estáticas atualizadas com 23 capas reais.

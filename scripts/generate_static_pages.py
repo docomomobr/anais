@@ -119,7 +119,7 @@ def fetch_cover_map(ojs_url, ojs_user, ojs_pass):
 def get_seminars(conn, volume):
     """Get all seminars for a volume/group."""
     rows = conn.execute('''
-        SELECT s.slug, s.title, s.year, s.number,
+        SELECT s.slug, s.title, s.year, s.number, s.volume_pdf,
                (SELECT COUNT(*) FROM articles a WHERE a.seminar_slug = s.slug) as n_arts
         FROM seminars s
         WHERE s.volume = ?
@@ -182,11 +182,18 @@ def generate_group_page(conn, group, base_url, cover_map=None):
       <div style="width: 100%; height: 160px; background: {group['bg']}; display: flex; align-items: center; justify-content: center; font-size: 2.5em; font-weight: bold; color: {group['border']};">{num}</div>
     </a>'''
 
+        # Volume PDF button
+        volume_pdf_html = ''
+        if sem['volume_pdf']:
+            galley_url = f'{issue_url}'
+            volume_pdf_html = f'''<p style="margin: 8px 0 0 0;"><a href="{galley_url}" style="display: inline-block; padding: 4px 10px; background: #f5f5f5; border: 1px solid #ccc; border-radius: 4px; font-size: 0.8em; color: #555; text-decoration: none;">PDF da edição completa</a></p>'''
+
         html += f'''  <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; background: #fff;">
     {cover_html}
     <div style="padding: 12px;">
       <h3 style="margin: 0 0 5px 0; font-size: 1em;"><a href="{issue_url}" style="text-decoration: none; color: #333;">{title}</a></h3>
       <p style="margin: 0; font-size: 0.9em; color: #888;">{n_arts} artigos</p>
+      {volume_pdf_html}
       {sections_html}
     </div>
   </div>

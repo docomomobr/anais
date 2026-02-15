@@ -2,13 +2,11 @@ issue:
   slug: sdsp07
   title: 7º Seminário Docomomo São Paulo, São Paulo, 2020
   subtitle: a difusão da Arquitetura Moderna, 1930-1980
-  description: 'Anais do 7º Seminário Docomomo São Paulo: A difusão da arquitetura moderna, 1930-1980. São Paulo: PGAUR/USJT, 2020. 566 p. ISBN 978-65-00-11912-1. Evento online, 9 a 14 de novembro de 2020.'
   year: 2020
-  volume: 1
+  volume: 2
   number: 7
-  date_published: '2020-11-09'
   isbn: 978-65-00-11912-1
-  publisher: PGAUR/USJT
+  publisher: Núcleo Docomomo São Paulo / PGAUR-USJT
   editors:
   - Fernando Guillermo Vázquez Ramos
   - Mirthes Baffi
@@ -18,9 +16,11 @@ issue:
   - Lucio Gomes Machado
   - Maria Isabel Imbronito
   - Miguel Antonio Buzzar
-  source: https://www.nucleodocomomosp.com.br/
+  volume_pdf: sdsp07_anais.pdf
+  description: '7° Seminário Docomomo São Paulo: anais: a difusão da Arquitetura Moderna, 1930-1980 [recurso eletrônico] / organização: Fernando Guillermo Vázquez Ramos et al.. São Paulo: PGAUR-USJT, 2020. Disponível também em: www.nucleodocomomosp.com.br/7-seminário. ISBN: 978-65-00-11912-1.'
+  source: https://www.nucleodocomomosp.com.br/7-seminário
+  date_published: '2020-11-09'
 articles:
-
 - id: sdsp07-001
   title: O projeto da Galeria Coliseu e do Clube Semanal de Cultura Artística (1956 – 1968)
   authors:
@@ -59,7 +59,6 @@ articles:
   - 'FRANCISCO, Rita de Cássia. Construtores anônimos em Campinas(1892-1933): fortuna crítica de suas obras na historiografia e nas políticas de preservação da cidade. Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2013.'
   - 'LEME, Roberto Silva; SALGADO, Ivone. Arquitetura Moderna em Campinas: o Edifício Itatiaia. Revista Risco – Revista de Pesquisa em Arquitetura e Urbanismo, no 09, 2009, pp. 22-34.'
   - 'PRÓSPERO, Victor. Clubes privados, desenho e cidade nos anos 1960: o casa da Sociedade Harmonia de Tênis em São Paulo (pp. 478 – 492). Anais do 6º Seminário Docomomo São Paulo [Recurso Eletrônico]: a arquitetura moderna paulista e a questão social, 24 a 26 de novembro de 2018 / Miguel Antônio Buzzar [et al.], org. São Carlos: IAU/USP, 2018. 609 p.'
-
 - id: sdsp07-002
   title: 'Modernidade e memória: Lina Bo Bardi e a arquitetura tumular'
   authors:
@@ -103,7 +102,6 @@ articles:
   - 'RUBINO, Silvana; GRINOVER, Marina. Lina por escrito, textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.'
   - 'TONDO. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2019. Disponível em: <http://enciclopedia.itaucultural.org.br/termo119/tondo>. Acesso em: 24 de Nov. 2019.'
   - 'VEIGA, Paulo. Irmão Paulo Lachenmayer: um artista alemão no Mosteiro Beneditino da Bahia no Brasil. Salvador: EDUFBA, 2019.'
-
 - id: sdsp07-003
   title: 'O Patrimônio Art Déco: Intervenções na Escola Marques de Souza (1940)'
   authors:
@@ -156,7 +154,6 @@ articles:
   - 'VIANA, Alice O. A persistência dos rastros: manifestações do art déco na arquitetura de Florianópolis. Santa Catarina: UDESC, 2011. 323 p.'
   - VIÑAS, M. Salvador. Teoría Contemporánea de la Restauración. Editora Sintesis S.A. Madrid, 2003. p. 250.
   - WERLE, Bibiana. A campanha de nacionalização e sua memória no alto do Taquari (RS). Dissertação de Mestrado IFCH, Universidade Federal do Rio Grande do Sul. Porto Alegre, 2014. p. 178.
-
 - id: sdsp07-004
   title: 'Um diálogo nacional: Lucio Costa e a “Casa de Amorim 1960-1966”'
   authors:
@@ -194,7 +191,6 @@ articles:
   - 'NASLAVSKY, Guilah. Arquitetura Moderna no Recife 1949-1972. Recife: Prefeitura do Recife, 2012. 178p.'
   - 'SILVA, Geraldo Gomes. Delfim Amorim Arquiteto. Recife: Instituto dos Arquitetos do Brasil/ Departamento Pernambuco (IAB-PE), 1981. 191p.'
   - ______. Documento. Delfim Amorim. AU (Arquitetura e Urbanismo), São Paulo, Pini, n. 57, p.71-79, Dez/Jan,1994/1995.
-
 - id: sdsp07-005
   title: 'Banco de dados Centro Histórico de São Paulo: desdobramentos modernos'
   authors:
@@ -235,7 +231,6 @@ articles:
   - 'SOUZA, Luis Pereira de. “A Casa do Barão de Iguape”. Disponível em: http://www.almanack.paulistano.nom.br/psouza.html : Acesso em: 01/03/2011.'
   - 'TOLEDO, Benedito Lima de . São Paulo : Três Cidades em um Século. São Paulo, Duas cidades, 1983.'
   - XAVIER, Alberto; LEMOS, Carlo A C; CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo, Pini, 1983.
-
 - id: sdsp07-006
   title: 'A difusão da arquitetura moderna em Curitiba: análise formal de dois projetos da década de 1970'
   authors:
@@ -291,7 +286,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese (Doutorado). Programa de Pesquisa e Pós-graduação em Arquitetura – PROPAR, Faculdade de Arquitetura e Urbanismo do Rio Grande do Sul, Porto Alegre, 2005.
   - 'ZEIN, Ruth Verde. Brutalism Connections: a refreshed approach to debates & buildings. São Paulo: Altamira, 2014.'
-
 - id: sdsp07-007
   title: 'Edifício Wilton Paes de Almeida, São Paulo: preservação e ausência do patrimônio urbano e arquitetônico'
   authors:
@@ -329,7 +323,6 @@ articles:
   - 'JACQUES, P. B. Corpografias urbanas. Arquitextos, São Paulo, ano 08, n. 093.07, Vitruvius, fev. 2008. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/08.093/165>. Acesso em: 03 jan. 2020.'
   - 'PETRINI, E. São Paulo, 2014. Fotos do prédio ocupado em sp antes do desabamento. São Paulo. maio. 2018. Disponíveis em: <https://www.vice.com/pt_br/article/a3y5kg/desabamento-sp-predio-fotos-antigas> Acessado em: 09 fev. 2020. Polícia contabiliza 9 vítimas de desabamento de edifício em SP: quatro foram identificadas. BBC News Brasil. São Paulo. maio. 2018. Disponível em: <https://www.bbc.com/portuguese/brasil-43963449> Acesso em: 09 fev. 2020.'
   - 'SOUZA, F. de. São Paulo, 2015. BBC News Brasil. Energia de semáforo, briga por banheiro e esconde-esconde em cofre: a vida em prédio que desabou em SP. São Paulo. Maio. 2018. Disponível em: <https://www.bbc.com/portuguese/brasil-43983807>. Acesso em: 09 fev. 2020.'
-
 - id: sdsp07-008
   title: De la estrategia al proyecto. Tres residencias de Decio Tozzi en São Paulo, Brasil 1965-1974
   authors:
@@ -358,7 +351,6 @@ articles:
   - Paulist school
   - Brutalism
   - Concrete
-
 - id: sdsp07-009
   title: A arquitetura de Fábio Penteado e suas possíveis referências
   authors:
@@ -395,8 +387,7 @@ articles:
   - 'PENTEADO, Fábio. Fábio Penteado: Ensaios de arquitetura. São Paulo: Empresa das Artes, 1998.'
   - PERRONE, Rafael Antonio Cunha. A citação como referência e a referência como citação. Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v. 18, n. ju 2011, p. 54-67, 2011.
   - TAGLIARI, Ana. Modelos conceituais de percurso e circulação no projeto de arquitetura. Revista 5% Arquitetura + Arte. São Paulo, ano 13, Volume 1, número 16, 2018.
-  - 'VITRA DESIGN MUSEUM. Marcel Breuer: Design and Architecture. Disponível em: https://www.design-museum.de/en/exhibitions/detailpages/marcel-breuer.html. Acesso em: 27 jun. 2019.'
-
+  - 'VITRA DESIGN MUSEUM. Marcel Breuer: Design and Architecture. Disponível em: https://www.design-museum.de/en/exhIBITions/detailpages/Marcel-breuer.html. Acesso em: 27 jun. 2019.'
 - id: sdsp07-010
   title: Setor Residencial de Estudantes da USP. A sociabilidade e o balanço entre diversas escalas na obra de Rino Levi
   authors:
@@ -436,7 +427,6 @@ articles:
   - MACHADO, Lucio Gomes. Rino Levi e a renovação da Arquitetura Brasileira. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1992.
   - RAHAL, Marina Silva. O conforto térmico nas residências de Rino Levi. Dissertação (Mestrado) - Escola de Engenharia de São Carlos - Universidade de São Paulo. São Carlos, 2006.
   - 'XAVIER, Marco Antonio. O campus e a cidade. In: Cidades Universitárias: Patrimônio urbanístico e arquitetônico da USP. São Paulo: Edusp, Imprensa Oficial do Estado de São Paulo, 2005, p. 42-58.'
-
 - id: sdsp07-011
   title: Realizações do Banco Hipotecário Lar Brasileiro no Estado de São Paulo
   authors:
@@ -469,7 +459,6 @@ articles:
   - 'SGUIZZARDI, Eunice Helena Abascal; PIMENTA, Celio. Arquitetura Mackenzie e o Jardim Ana Rosa em São Paulo. Arquitextos. São Paulo, ano 10, n. 114.03, nov. 2009. Disponível em: https://www.vitruvius.com.br/revistas/read/arquitextos/10.114/12. Acesso em: 21 set. 2020'
   - VILARIÑO, Maria do Carmo. Habitação verticalizada na cidade de São Paulo dos anos 30 aos anos 80. Dissertação Dissertação (Mestrado) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2000
   - WATANABE, Mario. O Brasil na Operação do Chase. Balanço Financeiro. 31/12/191 pp. 8-15.
-
 - id: sdsp07-012
   title: 'O redesenho como documentação: o Banestado em Maringá'
   authors:
@@ -520,7 +509,6 @@ articles:
   - 'SEMINÁRIO DOCOMOMO BRASIL, 13., 07-10 out. 2019, Salvador. Disponível em: <https://docomomo.org.br/wp-content/uploads/2020/04/110958.pdf>. Acesso em: 14 ago. 2020.'
   - 'VERRI, Tânia Nunes Galvão. Arquitetura e Cidade: a modernidade em Maringá. Tese (Doutorado em arquitetura) – Programa de Pós-Graduação do Instituto de Arquitetura e Urbanismo da USP, São Carlos, 2016.'
   - ZEIN, Ruth Verde. Muita construção, muita arquitetura. Revista Projeto n. 63, Projeto Editores Associados, p. 47-85, maio. 1984.
-
 - id: sdsp07-013
   title: 'Casa Leite Barbosa: o Saber-Fazer e o Espaço Moderno na obra de José Zanine Caldas'
   authors:
@@ -557,7 +545,6 @@ articles:
   - 'COSTA, Lucio. Registro de uma vivência. São Paulo: Editora 34, 2018.'
   - FERREIRA, Frederico Hudson. A natureza, o artesanato e o moderno na obra de Zanine Caldas em Brasilia. 2018. 226 f. Tese (Doutorado) - Curso de Instituto de Artes da Universidade de Brasília, Universidade de Brasília, Brasília, 2018.
   - LARROSA BONDIA, Jorge.
-
 - id: sdsp07-014
   title: Artacho Jurado em Marília — SP, 1938
   authors:
@@ -577,7 +564,7 @@ articles:
   pages_count: 14
   pages: 183-196
   abstract: Este artigo irá tratar sobre os stands de linguagem Art Déco do renomado arquiteto autodidata Artacho Jurado. Em 1938 na cidade de Marília/SP, houve a 1ª Exposição Agrícola, Industrial e Comercial, feira esta que contou com a participação de importantes figuras políticas e governamentais da sociedade paulista. Para este evento, o empresário Artacho Jurado, que nesse momento ainda não construía edifícios, a partir dos quais será posteriormente, conhecido como o mais famoso “não arquiteto” do período modernista - foi convidado a desenhar os stands expositivos. As principais “obras”, todas na linguagem Art Déco, expressivas e representativas da modernidade que o evento pressupunha, são expostas e analisadas aqui a partir dos desenhos publicados em jornal local. Também é feita uma análise do contexto da sua época e da importância que estes projetos representaram para a expansão da linguagem Déco na cidade.
-  abstract_en: This paper will deal with the Art Deco language stands of the renowned self-taught architect Artacho Jurado. In 1938 in the town of Marília / SP, there was the 1st Agricultural, Industrial and Commercial Exhibition, which was attended by important political and government figures from São Paulo society. For this event, the businessman Artacho Jurado, who at that time did not yet build buildings, from which he will later be known as the most famous “non-architect” of the modernist period - was invited to design the exhibition stands. The main “works”, all in the Art Deco language, expressive and representative of modernity that the event presupposed, are exposed and analyzed here from the drawings published in the local newspaper. An analysis is also made of the context of its time and the importance that these projects represented for the expansion of the Déco language in the city.
+  abstract_en: This paper will deal with the Art Deco language stands of the renowned self-taught architect Artacho Jurado. In 1938 in the town of Marília / SP, there was the 1st Agricultural, Industrial and Commercial ExhIBITion, which was attended by important political and government figures from São Paulo society. For this event, the businessman Artacho Jurado, who at that time did not yet build buildings, from which he will later be known as the most famous “non-architect” of the modernist period - was invited to design the exhIBITion stands. The main “works”, all in the Art Deco language, expressive and representative of modernity that the event presupposed, are exposed and analyzed here from the drawings published in the local newspaper. An analysis is also made of the context of its time and the importance that these projects represented for the expansion of the Déco language in the city.
   keywords:
   - Art Déco
   - Arquitetura de exposição
@@ -600,7 +587,6 @@ articles:
   - 'RAMOS, Alfredo Z. N. Os primórdios da arquitetura modernista em Marília/SP. Dissertação de Mestrado. Bauru: FAAC-UNESP, 2017.'
   - 'SEGAWA, Hugo. Modernidade Pragmática; Arquitetura no Brasil dos anos 1920 a 1940. . In: Art Déco na América Latina. Centro de Arquitetura e Urbanismo,1°Seminário Internacional. Rio de Janeiro, Prefeitura da cidade do Rio de Janeiro-SMU. 1997.'
   - 'ZAKIA, Silvia Amaral Palazzi. Exposição-feira do bicentenário de fundação de Campinas – 1939: Construção histórica e sagração da cidade moderna. São Paulo: Revista Pós, V. 18, N, 30, 2011.'
-
 - id: sdsp07-015
   title: 'Arquitetura moderna em Cachoeira do Sul: a modernidade como patrimônio nas décadas de 50 e 60'
   authors:
@@ -651,7 +637,6 @@ articles:
   - 'SOUTO, ANA ELISA; ZAMPIERI, Renata; CENCI, Laline. Patrimônio moderno em Cachoeira do Sul: Investigação de residências a partir da década de 1950. Pesquisa em desenvolvimento. Universidade Federal de Santa Maria, Campus Cachoeira do Sul (UFSM/CS),2020.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
   - ZEIN, Ruth Verde. Arquitetura Brasileira, Escola Paulista a as Casas de Paulo Mendes da Rocha. Dissertação de mestrado – Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura. Porto Alegre, 2000.
-
 - id: sdsp07-016
   title: Arquitetura, arte e tecnologia — A casa do arquiteto e escultor Abrão Assad
   authors:
@@ -683,7 +668,6 @@ articles:
   - 'SANTOS, Michelle Schneider & ZEIN, R. V. A moderna Curitiba dos anos 1960: jovens arquitetos, concurseiros, planejadores. (Trabalho apresentado no 8º Seminário DOCOMOMO BRASIL, Rio de Janeiro, 1 a 4 de setembro de 2009).'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1998.'
   - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: PINI – Curitiba: FCC, 1985.'
-
 - id: sdsp07-017
   title: 'A arquitetura residencial de Luiz Gastão de Castro Lima: um registro da residência Jesus Silva em São Carlos-SP'
   authors:
@@ -727,7 +711,6 @@ articles:
   - 'MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano/IPHAN/ Ministério da Cultura, 2000.'
   - MONTEIRO, Flávia. Registros da arquitetura moderna residencial em São Carlos-SP (1940 a 1970). Relatório de pesquisa PIBIC/CNPq - UNICEP. São Carlos, 2020.
   - 'RUGGIERO, Amanda Saba. Jorge Caron: uma trajetória. Dissertação (Mestrado) – Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2007.'
-
 - id: sdsp07-018
   title: 'Urbanidade Fragmentada: A produção arquitetônica dos clubes de lazer da cidade de Presidente Prudente – SP'
   authors:
@@ -780,7 +763,6 @@ articles:
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 1. reimpr. São Paulo. Editora da Universidade de São Paulo, 2014.
   - VALENTE, Luis Paulo. (2005). Lazer e vida urbana em Presidente Prudente – SP. Dissertação (Mestrado em Geografia) - Faculdade de Ciências e Tecnologia da Unesp, Presidente Prudente, 2005.
   - 'ZUFFO, Élida Regina de Moraes. Pioneiros Modernos: verticalização residencial em Higienópolis. Tese (Doutorado em Arquitetura e Urbanismo) – Universidade Presbiteriana Mackenzie, São Paulo, 2009.'
-
 - id: sdsp07-019
   title: A dimensão pública dos edifícios projetados no Plano de Ação
   authors:
@@ -825,7 +807,6 @@ articles:
   - 'SILVA, Janice Theodoro da. A construção da cidadania e da escola nas décadas de 1950 e 1960. In:'
   - 'FERREIRA, Avany de Francisco; MELLO, Mirela Geiger (org.). Arquitetura Escolar Paulista: anos 1950 e 1960. Fundação para o Desenvolvimento da Educação (FDE): São Paulo, 2006.'
   - 'SKIDMORE, Thomas E. Brasil: de Getúlio a Castello (1930-64). Tradução: Berilo Vargas. São Paulo: Companhia das Letras, 2010.'
-
 - id: sdsp07-020
   title: 'Luiz Gastão de Castro Lima: os anfiteatros da USP São Carlos'
   authors:
@@ -866,7 +847,6 @@ articles:
   - LIMA, Luiz Gastão de Castro. Aula Prof. Gastão e Prof. Caron. EESC-USP. Aula gravada em video-tape.
   - 'CEDOC. EESC-USP, S/d (data provável de 1997). In: BERNARDI, C. K. P.'
   - 'NOSELLA, Paolo; BUFFA, Eester. Escola de Engenharia de São Carlos: os primeiros tempos - 1948-1971. São Carlos: EDUFSCAR, 2000.'
-
 - id: sdsp07-021
   title: Desafios para o reconhecimento e salvaguarda do Conjunto Residencial da Universidade de São Paulo como patrimônio cultural universitário
   authors:
@@ -914,7 +894,6 @@ articles:
   - SANTOS, Álvaro Rodrigues dos. O assassinato arquitetônico do Crusp. Um histórico do conjunto habitacional projetado pelos arquitetos Eduardo Kneese de Mello, Joel Ramalho Júnior e Sidney de Oliveira. Minha cidade, São Paulo, ano 20, n. 232.03, Vitruvius, nov. 2019. Disponível em https://www.vitruvius.com.br/revistas/read/minhacidade/20.232/7537.
   - SILVA, Dayane Soares. "Informar para prevenir. Agir para reprimir." A repressão política dopsiana ao movimento estudantil universitário de São Paulo na ditadura civil-militar brasileira (1968–1978). Dissertação (Mestrado em História Social) — Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2019.
   - 'SUPERINTENDÊNCIA DO ESPAÇO FÍSICO DA USP. A recuperação do Crusp. São Paulo: SEF–USP, 2009. Disponível em: http://www.sef.usp.br/wp-content/uploads/sites/52/2015/05/SP-PD-CRUSP_-2009.pdf.Acesso em: 20 out. 2020.'
-
 - id: sdsp07-022
   title: Estado Moderno e produção do espaço pelo Plano de Ação do Estado de São Paulo (1959-1963) – A atuação da Secretaria da Agricultura
   authors:
@@ -950,7 +929,6 @@ articles:
   - 'BUZZAR, Miguel Antônio; CORDIDO, Maria Tereza Regina Leme de Barros; CAMARGO, Mônica Junqueira de. Os significados da mudança de paradigma arquitetônico advindo com o Plano de Ação do Governo de Estado/SP (PAGE) na Gestão Carvalho Pinto (1959-1963). In: SEMINÁRIO DOCOMOMO BRASIL, 11., 2016, Recife. Disponível em: http://seminario2016.docomomo.org.br/artigos_apresentacao/sessao%207/DOCO_PE_S7_BUZZAR_JUNQ UEIRA_CORDIDO.pdf. Acesso em: 22 set. 2020.'
   - 'GONÇALVES, José Sidnei. Agricultura Paulista: A ação estatal na construção da modernidade. Revista São Paulo em Perspectiva, São Paulo, v.07, n.03, p.100-106, jul-set 1993.'
   - 'LEFEBVRE, Henri. A Revolução Urbana. Belo Horizonte: Editora UFMG, 2002. Ed. original 1970 SÃO PAULO (Estado). Governo do Estado. Plano de ação 1959 – 1963: administração estadual e desenvolvimento econômico-social. São Paulo: Imprensa Oficial, 1959. SÃO PAULO (Estado). Governo do Estado. Mensagem Apresentada pelo Governador Carvalho Pinto à Assembleia Legislativa do Estado de São Paulo. São Paulo: Imprensa Oficial, 1962.'
-
 - id: sdsp07-023
   title: 'Entre a tecnologia e a retórica emocional: transformação e propagação da arquitetura moderna paulista'
   authors:
@@ -979,7 +957,6 @@ articles:
   - LIMA JUNIOR, Marcio A. O traço moderno na arquitetura religiosa paulista. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2016.
   - 'MONTANER, Josep Maria. A modernidade superada: arquitetura, arte e pensamento do século XX. Barcelona: Editorial Gustavo Gilli, 2013.'
   - 'NORBERG-SCHULZ, Christian. Los princípios de la arquitectura moderna: sobre la nueva tradición del siglo XX. Barcelona: Reverté, D.L, 2008.'
-
 - id: sdsp07-024
   title: O Art Déco na "Obra Getuliana" através da Revista do Serviço Público
   authors:
@@ -994,7 +971,7 @@ articles:
   pages_count: 12
   pages: 303-314
   abstract: A Revista do Serviço Público (RSP) foi o veículo oficial de comunicação impressa entre o governo estadonovista (1937-1945) e o funcionalismo público, constituindo importante registro e propaganda da “Obra Getuliana”, traduzida aqui pelos edifícios públicos federais. A análise desse periódico entre 1937 e 1945 permitiu-nos recompor o mosaico da produção arquitetônica oficial no período, bem como o “sistema” criado para coordená-la, imbuído dos princípios científicos de racionalização do trabalho aplicados à administração pública. Pelo material levantado, especialmente a documentação sobre as obras e os certames expositivos foi possível recuperar o pensamento, discurso e as preocupações arquitetônicas oficiais relativos à concreção de edifícios públicos modernos para os diferentes órgãos e serviços federais.
-  abstract_en: The Journal of Public Service (JSP) was the vehicle journal of printed communication between the government estadonovista (1937-1945) and the civil service, constituting an important record and propaganda of the "Obra Getuliana", translated here by public buildings federal. The analysis of this journal between 1937 and 1945 allowed us to reconstitute the mosaic of architectural production officials in the period, as well as the "system" designed to coordinate it, imbued with the scientific principles of rationalization of work applied to public administration. The material raised, especially the documentation on the works and exhibitions exhibition was unable to retrieve the thought, speech and architectural concerns official concerning the concretion of public buildings modern for the different components and federal services.
+  abstract_en: The Journal of Public Service (JSP) was the vehicle journal of printed communication between the government estadonovista (1937-1945) and the civil service, constituting an important record and propaganda of the "Obra Getuliana", translated here by public buildings federal. The analysis of this journal between 1937 and 1945 allowed us to reconstitute the mosaic of architectural production officials in the period, as well as the "system" designed to coordinate it, imbued with the scientific principles of rationalization of work applied to public administration. The material raised, especially the documentation on the works and exhIBITions exhIBITion was unable to retrieve the thought, speech and architectural concerns official concerning the concretion of public buildings modern for the different components and federal services.
   keywords:
   - Art Déco
   - Obra Getuliana
@@ -1033,7 +1010,6 @@ articles:
   - PALÁCIO Duque de Caxias. Inventário de Bens Imóveis – Ficha Sumária. Secretaria de Estado de Cultura e Esportes. Instituto Estadual do Patrimônio Cultural (INEPAC). Departamento de Pesquisa e Documentação. Departamento de Patrimônio Cultural e Natural, Rio de Janeiro, p. 9-12, 1998.
   - 'PREFEITURA DA CIDADE DO RIO DE JANEIRO / SECRETARIA MUNICIPAL DE URBANISMO. Guia da Arquitetura Art Déco no Rio de Janeiro. Rio de Janeiro: Editora Index, 1997.'
   - 'SEGAWA, Hugo. Arquitetura na Era Vargas: O avesso da unidade pretendida. In: Pessoa, José; Vasconcellos, Eduardo; Reis, Elisabete; Lobo; Maria (Orgs.). Moderno e Nacional. Niterói, EdUFF, 2006.'
-
 - id: sdsp07-025
   title: 'Arquitetura Moderna de Hospitais em São Paulo: análise comparativa de projetos, do Hospital Albert Einstein ao Hospital São Camilo Pompeia'
   authors:
@@ -1078,11 +1054,10 @@ articles:
   - 'ZANETTINI, S. Hospital São Camilo. Revista AU. Sem ano de publicação. Arquivo digital de acervo do próprio escritório. Acesso em: junho/2019'
   - ZANETTINI, S. [a]. Hospital São Camilo Pompeia. Revista HealthARQ. v. 29. 28/01/2019. Arquivo digital de acervo do próprio escritório.
   - '_____ [b]. Hospital São Camilo Pompeia – Bloco V: visão do escritório de arquitetura. In: 5º Fórum INFRA – Hospitais e Clínicas, 23/04/2019. Arquivo digital de acervo do próprio escritório.'
-
 - id: sdsp07-026
   title: 'Arquitetura Moderna Paulista: Um estudo sobre o Fórum de Itapira (1959)'
   authors:
-  - givenname: Evilane Renise Almeida de
+  - givenname: Evilane ReNise Almeida de
     familyname: Queiroz
     affiliation: ''
     email: queiroz@exemplo.com
@@ -1120,14 +1095,13 @@ articles:
   - 'FRAMPTON K. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.'
   - 'KOURY, Ana Paula. Arquitetura Construtiva: Proposições para a produção da arquitetura no Brasil (1960-1970). Revista Projeto História, n° 34, São Paulo, 2007.'
   - PAGNUSSAT, José Luiz, in Jornal Ecos da Literatura Lusófona, edição n° 33. São Paulo, 2006.
-
 - id: sdsp07-027
   title: Arquitetura moderna na cidade de Ibitinga-SP
   authors:
   - givenname: Vinicius Galbieri
-    familyname: Severino
+    familyname: SeveRino
     affiliation: ''
-    email: severino@exemplo.com
+    email: seveRino@exemplo.com
     primary_contact: true
   - givenname: Marcelo
     familyname: Suzuki
@@ -1164,7 +1138,6 @@ articles:
   - 'TOZZI, Decio. Arquiteto Decio Tozzi. São Paulo: D''Auria, 2005.'
   - 'VILLELA, Marisa. Annibal: uma biografia. Londrina: Kan, 2017, pp. 13-35.'
   - 'ZÓLIO, Julciléa Cristina. Lugares esquecidos. A preservação do patrimônio no interior paulista: investigações sobre as cidades de Dourado e Nova Europa. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2011, pp. 25-33.'
-
 - id: sdsp07-028
   title: 'Arquitetura em São Paulo: reconhecimento, divulgação e descentralização em dois mapeamentos da Revista Projeto'
   authors:
@@ -1193,7 +1166,6 @@ articles:
   - '_____. Catálogo Mostra da Arquitetura Brasileira Atual, 1983. São Paulo: Projeto, 1983. 127 p.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2014 [1ª Edição: 1998].'
   - 'TINEM, Nelci; COTRIM, Márcio; VIDAL, Wylnna. Perspectivas contemporâneas dos periódicos de arquitetura como fonte e método: historiografia, projeto e teoria. In: ENCONTRO DA ASSOCIAÇÃO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM ARQUITETURA E URBANISMO (ENANPARQ), 5., 2018, Salvador. Anais [...]. Salvador: ADUFBA, 2018.'
-
 - id: sdsp07-029
   title: Restauração Casa da Criança
   authors:
@@ -1223,7 +1195,6 @@ articles:
   - 'NAHAS, Patricia Viceconti. Antigo e novo nas intervenções de caráter monumental. Revista CPC. São Paulo, n. 20, p.78-111, dez.2015. Disponível em: http://www.revistas.usp.br/cpc/article/view/103280. Acesso em: 27 set. 2020'
   - 'SALVO, Simona & KUHL, Beatriz. A intervenção na arquitetura contemporânea como tema emergente do restauro. Revista Do Programa De Pós Graduação Em Arquitetura Urbanismo da FAUUSP. São Paulo, n. 23, p.199-211, jun.2008. Disponível em: http://www.revistas.usp.br/posfau/article/view/43564. Acesso em: 27 set. 2020'
   - 'SUZUKI, Juliana Harumi. Artigas e Cascaldi: arquitetura em Londrina. São Paulo: Ateliê Editorial,2003.'
-
 - id: sdsp07-030
   title: 'Conjunto de 4 casas para Eusébio e Jaime Porchat de Queiroz Mattoso: resgate documental de uma obra de João Batista Vilanova Artigas'
   authors:
@@ -1270,10 +1241,9 @@ articles:
   - SÃO PAULO (Cidade). Secretaria Municipal de Cultura. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Departamento do Patrimônio Histórico. Resolução nº 45/CONPRESP/2018. São Paulo, 2018.
   - SILVA, Samantha P. da; BEDOLINI, Alessandra B. As três fases de João Batista Vilanova Artigas. InSitu – Revista Científica do Programa de Mestrado Profissional em Projeto, Produção e Gestão do Espaço Urbano, v. 3, p. 35-56, 2017.
   - TAGLIARI, Ana; PERRONE, Rafael Antônio C.; FLORIO, Wilson. Os projetos residenciais não-construídos de Vilanova Artigas em São Paulo. Pós – Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 21, n. 35, p. 98-117, 2014.
-  - 'ZEIN, Ruth V. A obra do arquiteto. Revista Projeto. São Paulo, n 66, ago. 1984. Disponível em: https://revistaprojeto.com.br/acervo/vilanova-artigas-a-obra-do-arquiteto/. Acesso em: 17 set. 2020.'
+  - 'ZEIN, Ruth V. A obra do arquiteto. Revista Projeto. São Paulo, n 66, ago. 1984. Disponível em: https://revistaprojeto.com.br/acervo/Vilanova-Artigas-a-obra-do-arquiteto/. Acesso em: 17 set. 2020.'
   - Acervo Biblioteca da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP).
   - Acervo MLD Restauração Arquitetônica Integrada (MLD RAI).
-
 - id: sdsp07-031
   title: Participação do Brasil na Exposição Internacional de 1937-Paris
   authors:
@@ -1307,7 +1277,6 @@ articles:
   - '_______. Robert Mallet-Stevens et ses photographes. Paris: Éditions du Patrimoine, 2018.'
   - 'MONNIER, Gérard. L’architecture moderne en France. Paris: Picard, 1997. REVISTA DO DEPARTAMENTO NACIONAL DO CAFÉ (DNC). Rio de Janeiro: Editora DNC, n.51, p 872, set.1937.'
   - 'ZAKIA, Silvia Palazzi. Mallet-Stevens e as lojas Cafés du Brésil. Arquitextos, São Paulo, ano 17, n. 194.00, jul. 2016. Disponível em: http://www.vitruvius.com.br/revistas/read/arquiteturismo/12.132/6909. Acesso em: 05 set. 2020.'
-
 - id: sdsp07-032
   title: 'Ressignificação da ruína e da arquitetura moderna: A capela de Santana do Pé do Morro'
   authors:
@@ -1353,7 +1322,6 @@ articles:
   - 'SANTOS, Cecília Rodrigues dos; ZEIN, Ruth Verde. Rápidas considerações sobre a preservação das ruínas da modernidade. 2011. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/12.135/3997>. Acesso em: 2 fev. 2019.'
   - 'UNWIN, Simon. Vinte edifícios que todo arquiteto deve compreender. São Paulo: Wmf Martins Fontes, 2013. 229 p. Tradução de Marcelo Brandão Cipolla.'
   - 'VENTURI, Robert. Complexidade e contradição em arquitetura. 2. ed. São Paulo: Martins Fontes, 2004. 231 p. Tradução de Álvaro Cabral.'
-
 - id: sdsp07-033
   title: 'Reiterações e proposições da arquitetura paulista: a loja de Móveis Todesco'
   authors:
@@ -1395,7 +1363,6 @@ articles:
   - TODESCO, Daniela. Depoimento aos autores, em agosto de 2020.
   - 'VARGAS, Heliana Comin. Espaços de consumo e a arquitetura de Morris Lapidus. Arquitextos Vitruvius, ano 19, jan/2019. Disponível em: https://www.vitruvius.com.br/revistas/read/arquitextos/19.224/7274'
   - ZEIN, Ruth Verde. A Arquitetura da escola paulista brutalista 1953-1973. Porto Alegre e São Paulo. Programa de Pós-graduação em Arquitetura e Urbanismo – PROPAR, 2006.
-
 - id: sdsp07-034
   title: 'Máquina de habitar: máquina de viver'
   authors:
@@ -1424,7 +1391,6 @@ articles:
   - 'COSTA, Lucio. Registro de uma vivência. São Paulo: Edições Sesc, Editora 34, 2018.'
   - 'KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel, Edusp, 1991.'
   - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Editora Perspectiva, 1994.'
-
 - id: sdsp07-035
   title: As escolas de Abelardo Gomes de Abreu para o Plano de Ação (1959-1963)
   authors:
@@ -1464,7 +1430,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1997.'
   - 'SILVA, Janice Theodoro da. A construção da cidadania e da escola nas décadas de 1950 e 1960. In:'
   - 'FERREIRA, Avany de Francisco; MELLO, Mirela Geiger de (orgs.). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: Fundação para o Desenvolvimento da Educação, 2006.'
-
 - id: sdsp07-036
   title: 'Os interiores domésticos e as revistas especializadas na difusão da arquitetura e do modo de morar moderno: duas casas e um conjunto habitacional'
   authors:
@@ -1501,7 +1466,6 @@ articles:
   references:
   - 'ARTIGAS, Vilanova et al. Conjunto habitacional em Cumbica. Acrópole. São Paulo, ano 31, n. 372, p. 32-37, abr. 1970. Disponível em: http://www.acropole.fau.usp.br/edicao/372. Acesso em: 13 set. 2020.'
   - 'BUZZAR, Miguel Antônio. Modernismo em Revista:'
-
 - id: sdsp07-037
   title: 'Escola Estadual de Artigas em Guarulhos, SP: Reconhecimento do patrimônio, prática espacial e hipóteses de preservação'
   authors:
@@ -1543,7 +1507,6 @@ articles:
   - 'KÜHL, Beatriz; CYMBALISTA Renato; FELDMAN Sarah. Patrimônio Cultural: Memória e Intervenções Urbanas. São Paulo: Annablume, 2017.'
   - 'LEFEBVRE, Henri. O direito à cidade. Trad. Rubens Eduardo Frias. São Paulo: Centauro, 2001.'
   - 'TUAN, Y. F. Espaço e lugar: a perspectiva da experiência. São Paulo: Difel, 1983.'
-
 - id: sdsp07-038
   title: 'Sobre o Filme Lotte am Bauhaus: Considerações sobre a Trajetória das Mulheres na Arquitetura, da Bauhaus até o Brasil'
   authors:
@@ -1581,7 +1544,6 @@ articles:
   - 'HETZEL, Alice Dornelles. Mulheres no Design Gráfico: O Passado e o Presente - Uma análise comparada entre Brasil e Portugal. 2016. Dissertação (Mestrado em Práticas Tipográficas e Editoriais Contemporâneas) – Lisboa: Faculdade de Arquitetura e Faculdade de Belas-Artes, Universidade de Lisboa, 2016.'
   - 'JUNIOR, Gonçalo. Arquiteta da Mudança: Reunião de ensaios em livro ressalta a essência do pensamento humanista de Lina Bo Bardi. Pesquisa FAPESP, p. 91-93, ago. 2009. LINA Bo, A Biography. Instituto Bardi, São Paulo. Disponível em: http://institutobardi.com.br/?page_id=184. Acesso em: 24 set. 2020. LOTTE am Bauhaus. Direção: Gregor Schnitzler. Roteiro: Jan Braren. Produção: Benjamin Benedict. UFA Fiction e Degeto Film, 2019. (105 min.)'
   - SEGRE, Roberto. Carmen Portinho (1903-2001). Sufragista da arquitetura brasileira. Arquitextos, São Paulo, ano 02, n. 015.00, Vitruvius, ago. 2001 <https://www.vitruvius.com.br/revistas/read/arquitextos/02.015/853>.
-
 - id: sdsp07-039
   title: 'El sistema de la arquitectura moderna y la imagen de una ciudad: Arica 1950-1970'
   authors:
@@ -1621,7 +1583,6 @@ articles:
   - 'SOLA MORALES, Ignasi. Teoría de la forma de la arquitectura en el movimiento moderno. In: AA.VV. Arquitectura, Técnica y Naturaleza en el ocaso de la modernidad. Universidad Internacional Menendez Pelayo. Madrid 1984. TORRENT Horacio. MORÁN, Balby. RUZ, Rodrigo. Arquitecturas para la Institucionalización del Desarrollo: Tres Dimensiones en la Obra de la Junta de Adelanto de Arica. In: Torrent, Horacio et al. (eds.). Patrimonio Moderno y Sustentabilidad: de la Ciudad al Territorio Valdivia: DOCOMOMO Chile. 2018, p. 126-130'
   - 'TORRENT, Horacio., FAÚNDEZ, María de la Paz. RUIZ, Javier. Siete Grados de Libertad: Políticas, Arquitecturas, Arquitecturas Políticas. Arica en la larga década del sesenta. Revista ARQ n101, 2019, p.74-87.'
   - 'TORRENT, Horacio. Radicalmente modernas: Arquitecturas en el laboratorio del desarrollo económico y social, Arica 1960-70. Revista Docomomo Brasil, Rio de Janeiro, n. 4, dez. 2019 p. 57-67,'
-
 - id: sdsp07-040
   title: 'Residência Cunha Lima: Um estudo de caso moderno'
   authors:
@@ -1641,7 +1602,7 @@ articles:
   pages_count: 12
   pages: 506-517
   abstract: Esse texto faz parte de um conjunto de artigos a partir do conteúdo da dissertação de mestrado “Uma análise gráfica sobre a obra residencial de Joaquim Guedes” defendida pela autora em
-  abstract_en: 'This text is part of a set of articles based on the content of the master''s dissertation “A graphic analysis of the residential work of Joaquim Guedes” made by the author in 2018. One way of reading the architectural work is through the study of his parts, analyzing its diverse elements as: flows, heat stroke, structure, ect. from this observation it is possible to establish some interesting relationships between these elements and the formal development of buildings. Modern residences are a vast field of design study, have greater design freedom because they have less scale and cost and were the subject of study and design for several architects, among them Joaquim 506 Guedes, one of the great names of Escola Paulista. In this work, an investigative study will be presented on one of its most famous houses, the Cunha Lima Residence built in the city of São Paulo between 1958 and 1963 and winner of the special prize at the International Architecture Exhibition of the VIII São Paulo Biennial in 1965.'
+  abstract_en: 'This text is part of a set of articles based on the content of the master''s dissertation “A graphic analysis of the residential work of Joaquim Guedes” made by the author in 2018. One way of reading the architectural work is through the study of his parts, analyzing its diverse elements as: flows, heat stroke, structure, ect. from this observation it is possible to establish some interesting relationships between these elements and the formal development of buildings. Modern residences are a vast field of design study, have greater design freedom because they have less scale and cost and were the subject of study and design for several architects, among them Joaquim 506 Guedes, one of the great names of Escola Paulista. In this work, an investigative study will be presented on one of its most famous houses, the Cunha Lima Residence built in the city of São Paulo between 1958 and 1963 and winner of the special prize at the International Architecture ExhIBITion of the VIII São Paulo Biennial in 1965.'
   keywords:
   - Análise gráfica
   - Joaquim Guedes
@@ -1663,7 +1624,6 @@ articles:
   - 'UNWIN, Simon. A Análise da Arquitetura, Porto Alegre: Bookman, 2013..'
   - 'XAVIER, Alberto, LEMOS, Carlos A.C. e CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo: Editora Perspectiva, 1983.'
   - 'ZEIN, Ruth Verde. Brutalist Connections - A Refreshed Approach To Debates & Buildings. São Paulo: Altamira Editorial, 2014.'
-
 - id: sdsp07-041
   title: 'Terminais rodoviários da Escola Paulista: o Terminal Rodoviário de São Carlos'
   authors:
@@ -1704,7 +1664,6 @@ articles:
   - TELLES, Sophia. Museu da Escultura. AU. Arquitetura e Urbanismo, São Paulo, n. 32, p. 44-51, out.-nov. 1990.
   - 'WISNIK, Guilherme. O programa escolar e a formação da “escola paulista”. In: FERREIRA, Avany de Francisco; MELLO, Mirela Geiger de (org.). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo:'
   - ZEIN, Ruth Verde. A Obra do Arquiteto. Projeto, São Paulo, nº 66, agosto 1984, p. 79-91.
-
 - id: sdsp07-042
   title: 'Sobre as imagens de uma casa: a residência de Hans Broos no Morumbi'
   authors:
@@ -1744,7 +1703,6 @@ articles:
   - 'SÃO PAULO (cidade). Secretarias. Cultura. Conpresp. Resoluções. Resolução Nº 39/CONPRESP/2018. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/conpresp/legislacao/resolucoes/index.php?p=113 7. Acesso em: 20 set. 2020.'
   - 'VÁZQUEZ RAMOS, Fernando Guillermo et. al. Salvaguarda do Acervo do Arquiteto Hans Broos. In:'
   - 'SEMINÁRIO DOCOMOMO BRASIL, 13., 2019, Salvador-BA. Anais do 13º Seminário Docomomo Brasil (online). Salvador-BA: UFBA, 2019. Disponível em: <https://docomomo.org.br/wp-content/uploads/2020/04/110542.pdf>. Acesso em: 20 ago. 2020.'
-
 - id: sdsp07-043
   title: 'Do tombamento ao “destombamento”: o caso do Salão de Festas do Esporte Clube Pinheiros, obra do arquiteto Gregori Warchavchik'
   authors:

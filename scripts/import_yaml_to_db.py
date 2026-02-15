@@ -24,7 +24,7 @@ def find_yaml_files():
     yamls = []
     for root, dirs, files in os.walk(BASE):
         # Ignorar diretórios de scripts, docs, e o próprio .git
-        if any(skip in root for skip in ['/scripts', '/docs', '/.git', '/revisao']):
+        if any(skip in root for skip in ['/scripts', '/docs', '/.git', '/revisao', '/dict', '/site']):
             continue
         for f in sorted(files):
             if f.endswith('.yaml') and not f.startswith('.'):
@@ -52,6 +52,7 @@ def parse_seminar(data):
             'publisher': iss.get('publisher'),
             'source': iss.get('source'),
             'editors': iss.get('editors', []),
+            'volume_pdf': iss.get('volume_pdf'),
         }
 
     # Formato 2: sdnne02/05 com evento/publicacao
@@ -73,6 +74,7 @@ def parse_seminar(data):
             'publisher': None,
             'source': (data.get('fontes', {}).get('docomomobrasil', {}) or {}).get('url'),
             'editors': ev.get('organizacao', []),
+            'volume_pdf': data.get('volume_pdf'),
         }
 
     # Formato 3: sdsul06-08 com campos no topo
@@ -91,6 +93,7 @@ def parse_seminar(data):
         'publisher': data.get('publisher'),
         'source': data.get('source'),
         'editors': data.get('editors', []),
+        'volume_pdf': data.get('volume_pdf'),
     }
 
 
@@ -240,7 +243,7 @@ def main():
         with open(path) as f:
             data = yaml.safe_load(f)
 
-        if not data:
+        if not data or not isinstance(data, dict):
             continue
 
         # Verificar se tem artigos
@@ -266,8 +269,9 @@ def main():
         cur.execute('''
             INSERT OR REPLACE INTO seminars
             (slug, title, subtitle, year, volume, number, date_published,
-             isbn, doi, description, location, publisher, source, editors)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+             isbn, doi, description, location, publisher, source, editors,
+             volume_pdf)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             slug, sem['title'], sem['subtitle'], sem['year'],
             sem['volume'], sem['number'],
@@ -275,6 +279,7 @@ def main():
             sem['isbn'], sem['doi'], sem['description'],
             sem['location'], sem['publisher'], sem['source'],
             json.dumps(sem['editors'], ensure_ascii=False) if sem['editors'] else '[]',
+            sem['volume_pdf'],
         ))
         stats['seminars'] += 1
 

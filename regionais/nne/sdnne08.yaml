@@ -1,17 +1,19 @@
 issue:
   slug: sdnne08
-  title: 8º Seminário Docomomo Norte/Nordeste
+  title: 8º Seminário Docomomo Norte/Nordeste, Palmas, 2021
+  subtitle: Transferências culturais, historiografia, intervenções e cidade moderna
   location: Palmas, TO
   year: 2021
-  volume: 1
+  volume: 3
   number: 8
-  isbn: null
-  publisher: null
-  description: '8° Seminário Docomomo Norte/Nordeste: anais [recurso eletrônico]. Palmas: [Editora], 2021.'
+  isbn: 978-65-00-71382-4
+  publisher: UFT / AMA, NAMA, CEULP
+  editors:
+  - Marianna Cardoso
+  description: '8° Seminário Docomomo Norte/Nordeste: anais: Transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico] / organização: Marianna Cardoso. Palmas, TO: AMA, NAMA, UFT, CEULP, 2021. Disponível também em: 8docomomonnepalmas.weebly.com. ISBN: 978-65-00-71382-4.'
   source: https://8docomomonnepalmas.weebly.com/
-  date_published: '2021-01-01'
+  date_published: '2021-08-18'
 articles:
-
 - id: sdnne08-001
   locale: pt-BR
   arquivo_pdf: sdnne08-001.pdf
@@ -58,7 +60,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: A CIDADE PLANEJADA O plano Diretor de Palmas, a capital do Tocantins.pdf
-
 - id: sdnne08-002
   locale: pt-BR
   arquivo_pdf: sdnne08-002.pdf
@@ -105,7 +106,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: A flexibilidade do envelope enquanto característica que contribui para adequação do edifício da arquitetura moderna.pdf
-
 - id: sdnne08-003
   locale: pt-BR
   arquivo_pdf: sdnne08-003.pdf
@@ -128,7 +128,7 @@ articles:
   - 'OLIVEIRA, M. J. Do discurso dos planos ao plano discurso: PDLI- plano de desenvolvimento local integrado de Campina Grande. 1970-1976. Recife: Dissertação de mestrado para o Programa de Pós-graduação em Desenvolvimento Urbano. Universidade Federal do Pernambuco, Recife. 2005.'
   - 'Os maiores ICMs. Revista Fisco. N° 106, 1983, pp 50. 1983. Em rede https://novarevistafisco.com.br/revista/revista-do-fisco-edi%C3%A7%C3%A3o-106. Acesso em: 13 de abr. 2020.'
   - 'SERRA, G. Pesquisa em Arquitetura e Urbanismo: Guia prático para o trabalho de pesquisadores em pós-graduação. São Paulo: EDUSP, 2006.'
-  titulo: a fábrica da premol e a construção da cidade moderna
+  titulo: a fábrica da Premol e a construção da cidade moderna
   subtitulo: A pré-fabricação a serviço da modernidade
   secao: Artigos Completos
   autores:
@@ -148,8 +148,7 @@ articles:
     bio: Graduando em Arquitetura e Urbanismo, UFCG
     country: BR
     primary_contact: false
-  arquivo_original: A fábrica da premol e a construção da cidade moderna A pré-fabricação a serviço da modernidade.docx
-
+  arquivo_original: A fábrica da Premol e a construção da cidade moderna A pré-fabricação a serviço da modernidade.docx
 - id: sdnne08-004
   locale: pt-BR
   arquivo_pdf: sdnne08-004.pdf
@@ -208,7 +207,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: A MODERNIDADE NA ARQUITETURA DAS ESCOLAS INDUSTRIAS FEDERAIS NO NORDESTE DO BRASIL (1930-1960).docx
-
 - id: sdnne08-005
   locale: pt-BR
   arquivo_pdf: sdnne08-005.pdf
@@ -234,8 +232,7 @@ articles:
   subtitulo: da Escola carioca às especificidades locais
   secao: Artigos Completos
   autores: []
-  arquivo_original: A obra modernista do arquiteto neudson braga em fortaleza da Escola carioca às especificidades locais (2).docx
-
+  arquivo_original: A obra modernista do arquiteto Neudson braga em fortaleza da Escola carioca às especificidades locais (2).docx
 - id: sdnne08-006
   locale: pt-BR
   arquivo_pdf: sdnne08-006.pdf
@@ -271,7 +268,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: A VERTICALIZAÇÃO COMO SÍMBOLO MODERNISTA EM ARACAJU - identificado.docx
-
 - id: sdnne08-007
   locale: pt-BR
   arquivo_pdf: sdnne08-007.pdf
@@ -318,7 +314,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: A VIDA ENTRE EDIFÍCIOS O pLANO de Palmas (TO) frente as teorias urbanas revisionistas pós 1945.docx
-
 - id: sdnne08-008
   locale: pt-BR
   arquivo_pdf: sdnne08-008.pdf
@@ -390,7 +385,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ANÁLISE DA DENSIDADE URBANA DO DISTRITO DE LUZIMANGUES-TO ATRAVÉS DA OCUPAÇÃO SEGREGADA DE PALMAS.docx
-
 - id: sdnne08-009
   locale: pt-BR
   arquivo_pdf: sdnne08-009.pdf
@@ -445,7 +439,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: APLICABILIDADE DO DESIGN BIOFÍLICO EM DEPARTAMENTOS PÚBLICOS DE TRABALHO Secretaria da Educação do Estado do Tocantins – TO.docx
-
 - id: sdnne08-010
   locale: pt-BR
   arquivo_pdf: sdnne08-010.pdf
@@ -516,7 +509,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ARQUITETAS MODERNAS BAIANAS Um olhar sobre a trajetória profissional das mulheres na arquitetura entre 1936 e 1969 com identificação.pdf
-
 - id: sdnne08-011
   locale: pt-BR
   arquivo_pdf: sdnne08-011.pdf
@@ -541,7 +533,7 @@ articles:
   - 'NASLAVSKY, Guilah. Arquitetura Moderna em Pernambuco 1945-1970: Uma Produção com Identidade Regional?. In: 5º Seminário Docomomo Brasil Arquitetura e Urbanismo Modernos: Projeto e Preservação, 2003, São Carlos. Anais do 5º Seminário DOCOMOMO Brasil Arquitetura e Urbanismo Modernos: Projeto e Preservação. São Carlos: SAP/EESC/USP, 2003. v. CD-ROM. p. 1-11.'
   - 'NASLAVSKY, Guilah. Arquitetura Moderna no Recife, 1949-1972. 1a. ed. Recife: Prefeitura da Cidade do Recife, 2012. v. 01. 150p'
   - 'RAMALHO, Letícia Brayner; MANHAS, Adriana Capretz Borges da Silva; FERRARE, Josemary Omena Passos. Memórias da Arquitetura Modernista Alagoana: a casa de Zélia Maia Nobre. In: 6º Seminário Ibero-americano Arquitetura e Documentação, 2020, Belo Horizonte. 6º Seminário Ibero-americano Arquitetura e Documentação. Belo Horizonte: Even3, 2020.'
-  - 'SILVA, Denise Lages Vieira da. Do arquivo técnico aos álbuns de família: o morar no bairro do Farol na Maceió dos anos 1940 e 1950. 2016. Dissertação (mestrado) – Faculdade de Arquitetura e Urbanismo, Universidade Federal de Alagoas, Maceió, 2016.'
+  - 'SILVA, DeNise Lages Vieira da. Do arquivo técnico aos álbuns de família: o morar no bairro do Farol na Maceió dos anos 1940 e 1950. 2016. Dissertação (mestrado) – Faculdade de Arquitetura e Urbanismo, Universidade Federal de Alagoas, Maceió, 2016.'
   - 'SILVA, Maria Angélica da. Arquitetura Moderna: a atitude alagoana. Maceió: SERGASA, 1991.'
   titulo: ARQUITETURA DE ZÉLIA MAIA NOBRE
   subtitulo: casas modernas nos anos 1950 em Maceió-AL
@@ -564,7 +556,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ARQUITETURA DE ZELIA MAIA NOBRE- CASAS MODERNAS NOS ANOS 1950 EM MACEIO-AL_artigo.docx
-
 - id: sdnne08-012
   locale: pt-BR
   arquivo_pdf: sdnne08-012.pdf
@@ -583,7 +574,7 @@ articles:
   - 'CHOAY, F. A Alegoria do Patrimônio. 4ª. Ed. São Paulo: Estação Liberdade. UNESP. 2006.'
   - 'COSTA, L. Considerações sobre arte contemporânea (1940). In: L. COSTA, Registro de uma vivência. São Paulo, Empresa das Artes, 1995.'
   - 'DINIZ, D. Tectônica da modernidade: desafios para a preservação da arquitetura moderna em Campina Grande. Campina Grande: UFCG. PIBIC 2018.'
-  - 'DINIZ, D. Intervenção arqui (tectônica): Estudo preliminar de restauro do Teatro Municipal Severino Cabral em Campina Grande-PB. Trabalho de conclusão de curso de graduação em arquitetura e urbanismo. UFCG. 2020.'
+  - 'DINIZ, D. Intervenção arqui (tectônica): Estudo preliminar de restauro do Teatro Municipal SeveRino Cabral em Campina Grande-PB. Trabalho de conclusão de curso de graduação em arquitetura e urbanismo. UFCG. 2020.'
   - FRAMPTON, K. Studies in tectonics culture. Cambridge. Massachussets. The MIT Press. 1995.
   - 'GARCIA, M. Prata Moderna. Estudos sobre a produção arquitetônica moderna no bairro da Prata. Campina Grande. Paraíba. Campina Grande: UFCG. PIBIC 2017.'
   - 'GIL, A. C. Como elaborar projetos de pesquisa. 4.ed. São Paulo: Atlas.2008.'
@@ -625,7 +616,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: ARQUITETURA MODERNA NO AGRESTE PARAIBANO O trabalho de construção de uma história da arquitetura moderna em Campina Grande..docx
-
 - id: sdnne08-013
   locale: pt-BR
   arquivo_pdf: sdnne08-013.pdf
@@ -664,7 +654,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ARQUITETURA MODERNA X CONTEMPORÂNEA_ARTIGO COMPLETO com ID.pdf
-
 - id: sdnne08-014
   locale: pt-BR
   arquivo_pdf: sdnne08-014.pdf
@@ -718,7 +707,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: As múltiplas expressões do moderno na UFBA.docx
-
 - id: sdnne08-015
   locale: pt-BR
   arquivo_pdf: sdnne08-015.pdf
@@ -779,7 +767,6 @@ articles:
   secao: Artigos Completos
   autores: []
   arquivo_original: Centro Administrativo da Bahia - dinâmicas urbanas e arquitetônicas - VIII DOCOMOMO N-NE.docx
-
 - id: sdnne08-016
   locale: pt-BR
   arquivo_pdf: sdnne08-016.pdf
@@ -789,7 +776,6 @@ articles:
   - Arquitetura Moderna Pernambucana
   - Conservação
   - Delfim Amorim
-  - Estruturas de
   referencias:
   - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118 – Projeto de estruturas de concreto. Rio de Janeiro, 2014.
   - 'BAUER, L.A.F. Materiais de construção. São Paulo: Livros técnicos e cientificos Editora – 2 volumes, 5ª Edição, 1994.'
@@ -838,7 +824,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: DELFIM AMORIM, MARCAS DO TEMPO.pdf
-
 - id: sdnne08-017
   locale: pt-BR
   arquivo_pdf: sdnne08-017.pdf
@@ -906,7 +891,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: DESAFIOS PARA A PRESERVAÇÃO DA ARQUITETURA DOS BLOCOS DE SUPERQUADRA EM BRASÍLIAO caso dos edifícios de Niemeyer para a SQS 108.docx
-
 - id: sdnne08-018
   locale: pt-BR
   arquivo_pdf: sdnne08-018.pdf
@@ -947,7 +931,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: Do discípulo ao mestre Práticas projetuais do arquiteto Tertuliano Dionísio em Campina Grande-PB..docx
-
 - id: sdnne08-019
   locale: pt-BR
   arquivo_pdf: sdnne08-019.pdf
@@ -1005,7 +988,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: DOCUMENTAÇÃO, CONSERVARÇÃO E INTERVENÇÃO NA ARQUITETURA PROTOMODERNA EM FORTALEZA O caso do Lord Hotel (1956)..pdf
-
 - id: sdnne08-020
   locale: pt-BR
   arquivo_pdf: sdnne08-020.pdf
@@ -1055,7 +1037,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: EDIFÍCIO CHAGAS RODRIGUES - Arquitetura Moderna em Teresina - DOCOMOMO_Jul2021.docx
-
 - id: sdnne08-021
   locale: pt-BR
   arquivo_pdf: sdnne08-021.pdf
@@ -1117,7 +1098,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ENTRE A ÁGUA E O CONCRETO a atitude moderna no Centro de Maceió-AL..pdf
-
 - id: sdnne08-022
   locale: pt-BR
   arquivo_pdf: sdnne08-022.pdf
@@ -1135,7 +1115,7 @@ articles:
   - 'CABRAL, Newton Darwim de Andrade. Onde está o povo, aí está a Igreja? 1ª Edição. Recife: Editora Fundação Antônio dos Santos Abranches, 2008.'
   - 'CÂMARA, Dom Helder. Dom Helder Câmara: Circulares Interconciliares. Organização: Zildo Rocha. 1ª Edição. Recife: Editora CEPE, 2015.'
   - 'CANTALICE II, Aristóteles Siqueira Campos. Existe algo atrás da porta: O brutalismo em Pernambuco. In Cadernos de Arquitetura e Urbanismo da PUC Minas, v.21, n.28, 1º sem. 2014.'
-  - 'CANTALICE II, Aristóteles Siqueira Campos; CAHU, Teresa Raquel Dutra. Por um Brutalismo social: A obra de Frank Svensson em Pernambuco. In: Anais do 7 DOCOMOMO Norte/Nordeste, 2018, Manaus. Disponível em: https://7docomomomanaus.weebly.com/uploads/7/0/0/2/70024539/por_um_brutalismo_social_a_obra_de_frank_svensson_em_pernambuco.pdf Acesso em 15-5-2019.'
+  - 'CANTALICE II, Aristóteles Siqueira Campos; CAHU, Teresa Raquel Dutra. Por um Brutalismo social: A obra de Frank Svensson em Pernambuco. In: Anais do 7 DOCOMOMO Norte/Nordeste, 2018, Manaus. Disponível em: https://7docomomomanaus.weebly.com/uploads/7/0/0/2/70024539/por_um_brutalismo_social_a_obra_de_frank_Svensson_em_pernambuco.pdf Acesso em 15-5-2019.'
   - 'Costa, Alcilia Afonso de Albuquerque. Arquitetura do sol: soluções climáticas produzidas em Recife nos anos 50. In Arquitextos Vitruvius. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/13.147/4466>. Acesso em:16-9-2018.'
   - 'CURTIS, William. Modern Architecture since 1900. London: Phaidon Books, 1997.'
   - 'Decreto Ad Gentes sobre atividade missionária da Igreja. Roma, 1965. Disponível em: http://diocese-braga.pt/media/contents/contents_v_bGt1/Conc%C3%ADlio%20Vaticano%20II%20(1965)%20Decreto%20Ad%20Gentes%20sobre%20a%20atividade%20mission%C3%A1ria%20na%20Igreja.pdf Acesso em 23-6-2018.'
@@ -1191,7 +1171,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: ENTRE CONSTRUÇÃO E RUÍNA O Projeto de Delfim Amorim e equipe para o Seminário Regional do Nordeste.docx
-
 - id: sdnne08-023
   locale: pt-BR
   arquivo_pdf: sdnne08-023.pdf
@@ -1247,7 +1226,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: FACHADAS MODULADAS E ARQUITETURA MODERNA.docx
-
 - id: sdnne08-024
   locale: pt-BR
   arquivo_pdf: sdnne08-024.pdf
@@ -1277,9 +1255,9 @@ articles:
   - 'SOBEL, Tiago Farias; ORTEGA, Antonio César. Evolução e situação atual do pólo Petrolina-Juazeiro: Uma analise a partir dos indicadores sócio-econômicos. Uberlandia: Seminário Revolução Agrária e Políticas de Redução da Pobreza.'
   - SVENSSON, Frank. Arquitetura Criação e Necessidade. Brasilia, Edunb, 1991.
   - SVENSSON, Frank. Como nasce um arquiteto. Arquitetura e Engajamento, 2012. Disponível
-  - http://franksvensson.blogspot.com/2012/11/como-nasce-um-ar-
+  - http://frankSvensson.blogspot.com/2012/11/como-nasce-um-ar-
   - 'quiteto.html>. Acesso em: 30 de janeiro de 2020.'
-  - 'SVENSSON, Frank. Para não falar de arquitetura sem ter feito. Arquitetura e Engajamento, 2015. Disponível em: < http://franksvensson.blogspot.com/2015/>. Acesso em: 30 de janeiro de 2020.'
+  - 'SVENSSON, Frank. Para não falar de arquitetura sem ter feito. Arquitetura e Engajamento, 2015. Disponível em: < http://frankSvensson.blogspot.com/2015/>. Acesso em: 30 de janeiro de 2020.'
   - SVENSSON, Frank. Entrevista a Geraldo Gomes da Silva. Repensando uma trajetória de quinze anos na arquitetura. Revista Projeto, São Paulo, n.106, dez. 1987-jan. 1988.
   - SVENSSON, Frank. Entrevista concedida a Teresa Cahú e Aristóteles Cantalice. Acervo pessoal, 27 de janeiro de 2017.
   titulo: FRANK SVENSSON E O SERTÃO
@@ -1303,7 +1281,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Frank Svensson e o sertão_O projeto de irrigação do bebedouro.pdf
-
 - id: sdnne08-025
   locale: pt-BR
   arquivo_pdf: sdnne08-025.pdf
@@ -1361,7 +1338,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Giacomo Palumbo dois grandes hotéis na cidade do Recife, 1924-1938.doc
-
 - id: sdnne08-026
   locale: pt-BR
   arquivo_pdf: sdnne08-026.pdf
@@ -1408,7 +1384,7 @@ articles:
     primary_contact: false
   - givenname: Marcella Galo
     familyname: Araújo
-    email: marcellagaraujo@gmail.com
+    email: Marcellagaraujo@gmail.com
     affiliation: FAUFBA
     orcid: null
     bio: Graduanda em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia –  FAUFBA.
@@ -1416,14 +1392,13 @@ articles:
     primary_contact: false
   - givenname: Marcelo Henrique Silva
     familyname: Rodrigues
-    email: marcelohsrodrigues@gmail.com
+    email: Marcelohsrodrigues@gmail.com
     affiliation: FAUFBA
     orcid: null
     bio: Graduando em Arquitetura e Urbanismo, Faculdade de Arquitetura da Universidade Federal da Bahia –  FAUFBA.
     country: BR
     primary_contact: false
   arquivo_original: GÊNERO E ARQUITETURA Uma análise sobre as discussões de gênero nos Seminários Docomomo norte-nordeste 2006-2018.docx
-
 - id: sdnne08-027
   locale: pt-BR
   arquivo_pdf: sdnne08-027.pdf
@@ -1476,7 +1451,6 @@ articles:
     country: BR
     primary_contact: true
   arquivo_original: MODERNIDADE, INDIVIDUALIZAÇÃO E ARQUITETURA Considerações sobre as Áreas Especiais do cemitério Campo da Esperança Brasília-DF.docx
-
 - id: sdnne08-028
   locale: pt-BR
   arquivo_pdf: sdnne08-028.pdf
@@ -1527,7 +1501,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: O CENÁRIO MODERNO GOIANIENSE As casas do Privê Atlântico.docx
-
 - id: sdnne08-029
   locale: pt-BR
   arquivo_pdf: sdnne08-029.pdf
@@ -1584,7 +1557,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: O modernismo arquitetônico e as transformações na forma de morar - a origem da profissionalização da arquitetura de inteirores no Ceará.docx
-
 - id: sdnne08-030
   locale: pt-BR
   arquivo_pdf: sdnne08-030.pdf
@@ -1614,7 +1586,7 @@ articles:
   - 'STADEN, Hans. Hans Staden: Duas Viagens pelo Brasil. Porto Alegre, RS: L&PM, 1557.'
   - 'WALLACE, Alfred R. Viagens pelo Amazonas e Rio Negro. Notas de Basílio de Magalhães. Brasília: Senado Federal, Conselho Editorial, 2004. 1823-1913.'
   - WEIMER, Gunter. Evolução da Arquitetura Indigena. Instituto Histórico e Geográfico do Rio Grande do Sul. Revista Digital, 2014.
-  titulo: O PROCESSO HISTÓRICO DE OCUPAÇÃO DO aMAZONAS E OS INDÍCIOS DE CULTURAS CONSTRUTIVAS TRADICIONAIS Nas obras de severiano porto
+  titulo: O PROCESSO HISTÓRICO DE OCUPAÇÃO DO aMAZONAS E OS INDÍCIOS DE CULTURAS CONSTRUTIVAS TRADICIONAIS Nas obras de Severiano porto
   subtitulo: null
   secao: Artigos Completos
   autores:
@@ -1634,8 +1606,7 @@ articles:
     bio: Doutor e professor do Programa de Pós-Graduação em Arquitetura e Urbanismo (PPGAU) da Universidade Federal do Rio Grande do Norte (UFRN).
     country: BR
     primary_contact: false
-  arquivo_original: O PROCESSO HISTÓRICO DE OCUPAÇÃO DO aMAZONAS E OS INDÍCIOS DE CULTURAS CONSTRUTIVAS TRADICIONAIS Nas obras de severiano porto.docx
-
+  arquivo_original: O PROCESSO HISTÓRICO DE OCUPAÇÃO DO aMAZONAS E OS INDÍCIOS DE CULTURAS CONSTRUTIVAS TRADICIONAIS Nas obras de Severiano porto.docx
 - id: sdnne08-031
   locale: pt-BR
   arquivo_pdf: sdnne08-031.pdf
@@ -1662,7 +1633,7 @@ articles:
   - 'HEIDEGGER, M. Ensaios e conferências. Tradução de Emmanuel Carneiro Leão, Gilvan Fogel, Márcia Sá Cavalcante Schuback. 8. ed. Petrópolis: Vozes; Bragança Paulista: Editora Universitária São Francisco, 2012. (Coleção Pensamento Humano). p. 125-142.'
   - 'HISTÓRIA. Fundação Pró-Cerrado, c2017. Disponível em: https://fpc.org.br/historia/. Acesso em: 14 de julho de 2021.'
   - 'LUGARES em Goiânia para levar as crianças para passear. Diário da Manhã, Goiânia, 16 ago. 2019. Cotidiano. Disponível em: https://www.dm.com.br/cotidiano/2019/08/lugares-em-goiania-para-levar-as-criancas-para-passear/. Acesso em: 12 de julho de 2021.'
-  - 'PERES, Jonatas Dojame; GODINHO, Daniele Severino de S. Parques urbanos de Goiânia: Bosque dos Buritis e Parque Flamboyante. Revista da Graduação INIGOIÁS. Goiânia, GO, Supervisão da Área de Pesquisa Científica –SAPC, v.02, n.01, jan./jun. 2021. Disponível em: https://anhanguera.edu.br/wp-content/uploads/revista-da-graduacao-unigoias-2021-1-artigo-4.pdf. Acesso em: 11 de julho de 2021.'
+  - 'PERES, Jonatas Dojame; GODINHO, Daniele SeveRino de S. Parques urbanos de Goiânia: Bosque dos Buritis e Parque Flamboyante. Revista da Graduação INIGOIÁS. Goiânia, GO, Supervisão da Área de Pesquisa Científica –SAPC, v.02, n.01, jan./jun. 2021. Disponível em: https://anhanguera.edu.br/wp-content/uploads/revista-da-graduacao-unigoias-2021-1-artigo-4.pdf. Acesso em: 11 de julho de 2021.'
   - 'PORTIFÓLIO. Circo Laheto, c2018. Disponível em: http://circolaheto.org/portfolio/. Acesso em: 10 de julho de 2021.'
   - 'PROJETOS. Circo Laheto, c2018. Disponível em: http://circolaheto.org/categoria/projeto/pagina/3/. Acesso em: 14 de julho de 2021.'
   - 'REZENDE, Daniela. Laheto integra IV Festival das Famílias de Circo de Goiânia. Prefeitura de Goiânia, 25 mar. 2021. Educação. Disponível em: https://www.goiania.go.gov.br/laheto-integra-iv-festival-das-familias-de-circo-de-goiania/. Acesso em: 14 de julho de 2021.'
@@ -1695,7 +1666,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: PARQUE DA CRIANÇA DE GOIÂNIA Desafios do espaço público voltado ao público infantojuvenil.docx
-
 - id: sdnne08-032
   locale: pt-BR
   arquivo_pdf: sdnne08-032.pdf
@@ -1707,13 +1677,13 @@ articles:
   - Painéis artísticos em edificações
   - Recife
   referencias:
-  - 'ATHOS BULCÃO. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural. 2019. Disponível em: <http://enciclopedia.itaucultural.org.br/pessoa10287/athos-bulcao>. Acesso em: 15 mai. 2019. Verbete da Enciclopédia.'
+  - 'ATHOS BULCÃO. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural. 2019. Disponível em: <http://enciclopedia.itaucultural.org.br/pessoa10287/Athos-bulcao>. Acesso em: 15 mai. 2019. Verbete da Enciclopédia.'
   - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981. BULCÃO, Fundação Athos. Athos Bulcão. Brasília: Fundação Athos Bulcão, 2009.'
   - HOLANDA, Ana Carolina O. Arte e ética na obra de Vital Pessoa de Melo (1960- 1980), Recife, 2008.
   - HOLANDA, Ana Carolina O. Integração das artes plásticas e arquitetura em Pernambuco, 1950-1980, Recife, 2011.
   - HOLANDA, Armando de. Roteiros para construir no Nordeste, Recife:MDU – UFPE, 2010.
   - 'NASLAVSKY, Guillah. Arquitetura moderna no Recife, 1949-1972. Recife: Prefeitura da Cidade do Recife, 2012.'
-  - 'SILVA, C.C.; OLIVEIRA, A.F.; NASLAVSKY, G. Entre o concreto e o abstrato: as obras de Armando de Holanda Cavalcanti com Athos Bulcão. FAU MACKENZIE. v.16, n.2, 2016. Disponível em: <http://editorarevistas.mackenzie.br>. Acesso: em 25 set. 2019.'
+  - 'SILVA, C.C.; OLIVEIRA, A.F.; NASLAVSKY, G. Entre o concreto e o abstrato: as obras de Armando de Holanda Cavalcanti com Athos Bulcão. FAU MACKENZIE. v.16, n.2, 2016. Disponível em: <http://editorarevistas.Mackenzie.br>. Acesso: em 25 set. 2019.'
   - 'UFPE; Mutirão para preservar um painel histórico. Disponível em: <https://www3.ufpe.br/agencia/clipping/index.php?option=com_content&view=article &id=11290:mutirao-para-preservar-um-painel-historico> Acesso em: 25 set. 2019.'
   titulo: PARTE DESCONHECIDA DE UM TODO HARMONIOSO
   subtitulo: Athos Bulcão e a Arquitetura no Recife
@@ -1752,7 +1722,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: PARTE DESCONHECIDA DE UM TODO HARMONIOSO.docx
-
 - id: sdnne08-033
   locale: pt-BR
   arquivo_pdf: sdnne08-033.pdf
@@ -1804,7 +1773,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Percurso Protomodernista Do Início dO PROCESSO DE Verticalização DE FortalezA-CE.docx
-
 - id: sdnne08-034
   locale: pt-BR
   arquivo_pdf: sdnne08-034.pdf
@@ -1860,7 +1828,7 @@ articles:
     bio: Graduando de Arquitetura e Urbanismo, Departamento de Ciências Exatas e Tecnológicas, UNIFAP.  Rod. Juscelino Kubitschek, km 02 - Jardim Marco Zero, Macapá - AP, 68903-419  flaviocarvalho12@hotmail.com
     country: BR
     primary_contact: false
-  - givenname: Lourhan Severino de
+  - givenname: Lourhan SeveRino de
     familyname: Araújo
     email: null
     affiliation: UNIFAP
@@ -1885,7 +1853,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: PRIMEIRA IGREJA BATISTA DE MACAPÁ Análise arquitetônico-compositiva de igreja do período moderno-janarista de Macapá.docx
-
 - id: sdnne08-035
   locale: pt-BR
   arquivo_pdf: sdnne08-035.pdf
@@ -1935,7 +1902,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Qualidade Urbana e Mobilidade em Palmas (TO).docx
-
 - id: sdnne08-036
   locale: pt-BR
   arquivo_pdf: sdnne08-036.pdf
@@ -1949,7 +1915,7 @@ articles:
   - Fenomenologia
   referencias:
   - 'AMORIM, Paula. Fenomenologia do espaço arquitetônico: projeto de requalificação do museu Nogueira da Silva. Tese (Mestrado em Arquitetura e Urbanismo) – Universidade Federal da Beira Interior, Covilhã, p. 209, 2013.'
-  - 'AMORIM, Luiz. Delfim Amorim: um legado modernista para o Recife. Jornal do Comércio, 2017, Disponível em:< https://jconline.ne10.uol.com.br/canal/cidades/geral/noticia/2017/07/09/delfim-amorim um-legado-modernista-para-o-recife-294160.php>. Acesso em: 19 Novembro 2019.'
+  - 'AMORIM, Luiz. Delfim Amorim: um legado modernista para o Recife. Jornal do Comércio, 2017, Disponível em:< https://jconline.ne10.uol.com.br/canal/cidades/geral/noticia/2017/07/09/Delfim-amorim um-legado-modernista-para-o-recife-294160.php>. Acesso em: 19 Novembro 2019.'
   - 'BANKS; Rafaela; HERBSTER, Fernanda. Miguel Vita. Documento desenvolvido para disciplina Tópico especial: A casa unifamiliar Brasil/Portugal: Centenário de Delfim Amorim. PPGAU – UFPB, p. 20. 2016.'
   - 'BRAGA, T.; GOTO, T.; MONTEIRO, L. Ambiente enquanto fenômeno: ensino de arquitetura na perspectiva fenomenológica. Revista Nufen, Belém, v. 9, n. 2, p. 24-41, maio/ago, 2017.'
   - 'BULA, Natália. Arquitetura e fenomenologia: qualidades sensíveis e o processo de projeto. Tese (Mestrado em Arquitetura e Urbanismo) – Universidade Federal de Santa Catarina, Florianópolis, p. 235, 2015.'
@@ -1990,7 +1956,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: REPERTÓRIO SINGULAR E REGIONAL DE DELFIM AMORIM EM UM ESPAÇO MULTIFACETADO uma apresentação fenomenológica da “Casa de Amorim”_.docx
-
 - id: sdnne08-037
   locale: pt-BR
   arquivo_pdf: sdnne08-037.pdf
@@ -2033,7 +1998,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Representatividade e presença das regiões Norte e Nordeste do Brasil em uma perspectiva histórica(1).docx
-
 - id: sdnne08-038
   locale: pt-BR
   arquivo_pdf: sdnne08-038.pdf
@@ -2060,7 +2024,7 @@ articles:
   - 'HÉLIO Duarte. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2020. Disponível em: <http://enciclopedia.itaucultural.org.br/pessoa211708/helio-duarte>. Acesso em: 21 de Fev. 2020. Verbete da Enciclopédia.'
   - 'LESSA, Juliane Bellot Rolemberg. O ensino na prancheta: da arquitetura escolar à docência de arquitetura e urbanismo, o legado de Hélio Duarte. 2017. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2017.'
   - 'OLIVEIRA, Mariana. FICHA MÍNIMA – ESCOLA DE PUERICULTURA. Salvador: DOCOMOMO-BA.SE, abril de 2018. Disponível em <www.docomomobase.ufba.br> Acesso em: 20 de fev. 2020.'
-  - 'SEGAWA, Hugo. Hélio Duarte (1906 – 1989): moderno e peregrino. Revista Projeto, São Paulo, n.131, p.51, abr./maio. 1990.'
+  - 'SEGAWA, Hugo. Hélio Duarte (1906 – 1989): moderno e peregRino. Revista Projeto, São Paulo, n.131, p.51, abr./maio. 1990.'
   - 'SEGAWA, Hugo. Duarte, Hélio. 2010. Disponível em < http://citrus.uspnet.usp.br/architectus/verbete.php?cd_verbete=8 > Acesso em: 21 de Fev. 2020.'
   - SILVEIRA, José. O admirável (e quixotesco) Hélio Duarte. Revista Projeto, São Paulo, n.131, p.52, abr./maio. 1990.
   - 'SILVEIRA, José. À sombra de uma sigla ou 40 anos de IBIT. Salvador, BA: [IBIT], 1977. 199 p.'
@@ -2093,7 +2057,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: TRAJETÓRIA ARQUITETÔNICA DE HÉLIO DUARTE EM SALVADOR.docx
-
 - id: sdnne08-039
   locale: pt-BR
   arquivo_pdf: sdnne08-039.pdf
@@ -2101,7 +2064,8 @@ articles:
   resumo: 'O presente artigo tem como objeto de estudo a Praça do Centenário, na cidade de Santarém, no Pará. O objetivo geral do trabalho é interpretar o valor patrimonial arquitetônico e paisagístico da praça do Cente nário (1948) na cidade. Como objetivos específicos do trabalho estão: pesquisar a influência do crescimento da cidade e sua relação com a praça do Centenário; o valor de uso para o bairro ao qual está inserida e identificar os elementos Art-déco presentes na mesma. A justificativa para a pesquisa é o uso da praça e sua relevância para o bairro da Aldeia, além de seu valor histórico como marco da trajetória do crescimento de Santarém, no século XX, e seu valor patrimonial. Para o desenvolvimento do trabalho será feito o apro fundamento na Teoria e História do Urbanismo e Paisagismo, para contextualizar a conformação do traçado da área ao qual a praça está inserida – área primeva do núcleo urbano de Santarém; levantamento métrico da praça; pesquisa em material referente a praça do Centenário e do bairro da Aldeia; entrevista com mo radores locais e levantamento fotográfico dos elementos Art-déco existentes.'
   palavras_chave:
   - Art-déco
-  - Paisagem urbana, Historiografia
+  - Paisagem urbana
+  - Historiografia
   referencias:
   - 'AMORIM, Antonia Terezinha dos Santos. Santarém – Uma Síntese Histórica. 1ª Edi ção. ed. Canoas: ULBRA, 2000.'
   - 'AMORIM, Antonia Terezinha dos Santos. Patrimônio Histórico e Arquitetônico de Santarém: Projeto “Produção de Réplicas e Catalogação dos Prédios Históricos de Santarém” – II Etapa”. 1ª edição. ed. Santarém: Faculdades Integradas do Tapajós, 2010.'
@@ -2144,7 +2108,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: Traços de art deco no interior da amazonia com identificação (1).docx
-
 - id: sdnne08-040
   locale: pt-BR
   arquivo_pdf: sdnne08-040.pdf
@@ -2182,7 +2145,6 @@ articles:
     country: BR
     primary_contact: false
   arquivo_original: UM ESTUDO SOBRE AS INDÚSTRIAS DA MODERNIDADE EM CAMPINA GRANDE.docx
-
 - id: sdnne08-041
   locale: pt-BR
   arquivo_pdf: sdnne08-041.pdf
@@ -2202,7 +2164,7 @@ articles:
   - 'ARQUITETURA BRASILEIRA. Edifício para Perícias Médicas do I.N.P.S. em São Paulo/SP. In: Arquitetura Brasileira, n.8, p.43. São Paulo: 1974.'
   - 'FICHER, Sylvia. Os Arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo: Fapesp: Editora da Universidade de São Paulo, 2005.'
   - 'GOODWIN, Philip Lippincott. Brazil Builds: Architecture New and Old 1652-1942. New York: MoMa, 1943.'
-  - 'IBGE. Porto nacional. Produto Interno Bruto dos Municípios. 2017. Disponível em: <https://cidades.ibge.gov.br/brasil/to/porto-nacional/pesquisa/38/47001?tipo=ranking>. Acesso em 12 de julho de 2020.'
+  - 'IBGE. Porto Nacional. Produto Interno Bruto dos Municípios. 2017. Disponível em: <https://cidades.ibge.gov.br/brasil/to/porto-nacional/pesquisa/38/47001?tipo=ranking>. Acesso em 12 de julho de 2020.'
   - 'LOTUFO, Zenon. A influência dos mestres. In: Acrópole, n.132, p.356–357. São Paulo: abril, 1949.'
   - MANZANO, Eduardo. Entrevista com Dr. Eduardo, proprietário, dia 26/07/2019. Porto Nacional, Tocantins, 26 de julho de 2019. Entrevista concedida a Eurípedes Afonso da Silva Neto.
   - 'MANZANO FILHO, Eduardo. A arquitetura de Zenon Lotufo: reflexões e estudo projetual. Trabalho apresentado na disciplina Trabalho de Graduação Interdisciplinar da FAU-PUC Campinas, 1988.'

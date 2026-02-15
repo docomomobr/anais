@@ -1,0 +1,132 @@
+Levantamento de volumes completos (PDFs de edição completa)
+============================================================
+Data: 2026-02-15
+
+Seminários com volume completo ({slug}_anais.pdf)
+--------------------------------------------------
+
+Slug      Tamanho    Páginas  Local
+sdsp05    6.3 MB     1170     regionais/se/sdsp05/pdfs/
+sdsp06    4.4 MB     610      regionais/se/sdsp06/pdfs/
+sdsp07    120.7 MB   566      regionais/se/sdsp07/pdfs/
+sdsp08    24.9 MB    610      regionais/se/sdsp08/pdfs/
+sdsp09    28.4 MB    409      regionais/se/sdsp09/pdfs/
+sdsul06   46.6 MB    352      regionais/sul/sdsul06/pdfs/
+sdsul07   23.1 MB    500      regionais/sul/sdsul07/pdfs/
+sdsul08   108.1 MB   624      regionais/sul/sdsul08/pdfs/
+sdrj04    20.0 MB    279      regionais/se/sdrj04/ (raiz, não pdfs/)
+sdbr15    40.8 MB    1400     nacionais/ (raiz)
+
+Total: 9 regionais + 1 nacional
+
+
+Seminários SEM volume completo
+------------------------------
+
+N/NE: sdnne02, sdnne05, sdnne07, sdnne08, sdnne09, sdnne10
+      (sdnne06: só caderno de resumos, 61 MB, 134 pp — não é anais completo)
+
+Sudeste: sdmg01, sdrj02, sdrj03, sdsp03
+
+Sul: sdsul01, sdsul02, sdsul03, sdsul04, sdsul05
+
+Nacionais: sdbr01–sdbr14
+
+
+Comparação de fichas catalográficas: PDF original vs. nossa ficha
+=================================================================
+
+COM ficha CIP no PDF original
+------------------------------
+
+sdsp06
+  PDF: CIP Biblioteca IAU-USP. "Anais do 6º seminário Docomomo São Paulo...
+       São Carlos: IAU/USP, 2018. 609 p. ISBN 978-85-66624-25-0"
+  Nós: OK. Adicionamos "Disponível em: www.nucleodocomomosp.com.br"
+       (que o PDF não tem). Sem ORCID.
+  Divergência: nenhuma relevante.
+
+sdsp08
+  PDF: CIP Biblioteca IAU-USP. "Anais do Seminário DOCOMOMO São Paulo...
+       São Carlos: IAU/USP, 2022. 610 p. ISBN 978-65-86810-58-5"
+  Nós: OK. Adicionamos "Disponível em: www.nucleodocomomosp.com.br".
+       Sem ORCID.
+  Divergência: nenhuma relevante.
+
+sdsp09
+  PDF: CIP Câmara Brasileira do Livro. "Santos, SP: Ed. dos Autores, 2024.
+       PDF. ISBN 978-65-01-21986-8"
+  Nós: "Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p.
+       Disponível em: www.nucleodocomomosp.com.br." Sem ISBN.
+  Divergências:
+    - ISBN: PDF diz 978-65-01-21986-8, nós não temos ISBN. ADICIONAR.
+    - Editora: PDF diz "Ed. dos Autores", nós "UNISANTA; Núcleo Docomomo SP".
+    - Organizadores: PDF diz "comissão organizadora Cristina Ribas...[et al.];
+      coordenação Jaqueline Fernández Alves", nós "organização: Jaqueline
+      Fernández Alves et al."
+
+sdsul06
+  PDF: CIP Biblioteca UFRGS. "Porto Alegre: Marcavisual, 2019.
+       Modo de acesso: Site do PROPAR. ISBN 978-85-61965-77-8"
+  Nós: OK. Ambas têm referência ao site do PROPAR.
+  Divergência: nenhuma relevante.
+
+sdsul07
+  PDF: CIP Jaqueline Trombin CRB10/979. "Porto Alegre: Marcavisual, 2022.
+       500p. Modo de acesso: Site do PROPAR: https://www.ufrgs.br/propar/.
+       ISBN 978-65-89263-60-9"
+  Nós: OK. Ambas têm a URL do PROPAR.
+  Divergência: nenhuma.
+
+sdsul08
+  PDF: CIP Jaqueline Trombin CRB10/979. "Porto Alegre: Marcavisual, 2025.
+       625 p. ISBN 978-85-61965-82-2. Modo de acesso: site da PROPAR."
+  Nós: "Disponível em: www.ufrgs.br/propar/."
+  Divergência: paginação (PDF 625 p., nós omitimos). Menor.
+
+sdbr15
+  PDF: CIP Even3. "Disponível em www.even3.com.br/anais/
+       xv-seminario-docomomo-brasil-2023.
+       ISBN 978-65-272-0196-0. DOI: doi.org/10.29327/1344945"
+  Nós: OK. URL, ISBN e DOI batem.
+  Divergência: nenhuma.
+
+
+SEM ficha CIP no PDF original
+------------------------------
+
+sdsp05
+  PDF: CIP (imagem). "Arquiteturas do patrimônio moderno paulista:
+       reconhecimento, intervenção, gestão [livro eletrônico] / (orgs.)
+       Audrey Migliani Anticoli, Fernanda Critelli, Silvia Raquel Chiarelli,
+       Tais Ossani. – São Paulo: Alter Market, 2017. 6,5 mb ; PDF.
+       ISBN: 978-85-88157-16-3. CDD 724.9"
+  Nós: "São Paulo: Mack Pesquisa-UPM, 2017. 1170 p."
+  Divergências:
+    - Editora: PDF "Alter Market", nós "Mack Pesquisa-UPM". VERIFICAR.
+    - Paginação: PDF "6,5 mb ; PDF" (sem nº páginas), nós "1170 p."
+    - "Disponível em": nós adicionamos, PDF não tem.
+    - ISBN bate.
+
+sdsp07
+  PDF: Só ISBN (978-65-00-11912-1), créditos, siglas, logos. Sem CIP.
+  Nós: Ficha composta por nós. OK.
+
+sdrj04
+  PDF: Só ISBN (978-85-88027-42-8) e créditos. Sem CIP.
+  Nós: Ficha composta por nós. OK.
+
+
+Conclusões
+----------
+
+1. Nenhum PDF tem ORCID na ficha (nem SP, nem Sul/Lumen, nem sdbr15).
+
+2. "Disponível em": nossas fichas adicionam o site da publicação original
+   mesmo quando o PDF não o inclui. Intencional (regra: devem constar site
+   da publicação original quando fora de docomomobrasil.com).
+
+3. sdsp09 — adicionar ISBN 978-65-01-21986-8.
+
+4. sdsp05 — editora diverge: "Alter Market" (CIP) vs "Mack Pesquisa-UPM"
+   (nossa ficha). Verificar qual é a correta.

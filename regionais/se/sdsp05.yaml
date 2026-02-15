@@ -2,21 +2,21 @@ issue:
   slug: sdsp05
   title: 5º Seminário Docomomo São Paulo, São Paulo, 2017
   subtitle: 'Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão'
-  description: 'Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão. V Seminário Docomomo SP 2017. São Paulo: Mack Pesquisa/UPM, 2017. 1170 p. ISBN 978-85-88157-16-3. 16-17 outubro 2017.'
   year: 2017
-  volume: 1
+  volume: 2
   number: 5
-  date_published: '2017-10-16'
   isbn: 978-85-88157-16-3
-  publisher: Mack Pesquisa/UPM
+  publisher: Núcleo Docomomo São Paulo / Editora Altermarket
   editors:
   - Audrey Migliani Anticoli
   - Fernanda Critelli
   - Silvia Raquel Chiarelli
   - Tais Ossani
-  source: https://www.nucleodocomomosp.com.br/
+  volume_pdf: sdsp05_anais.pdf
+  description: '5° Seminário Docomomo São Paulo: anais: Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão [recurso eletrônico] / organização: Audrey Migliani Anticoli et al.. São Paulo: Alter Market, 2017. Disponível também em: www.nucleodocomomosp.com.br/5-seminario. ISBN: 978-85-88157-16-3.'
+  source: https://www.nucleodocomomosp.com.br/5-seminario
+  date_published: '2017-10-16'
 articles:
-
 - id: sdsp05-001
   title: A presença de São Paulo em Brazil Builds, Arquitetura contemporânea no Brasil e Modern Architecture in Brazil
   authors:
@@ -36,7 +36,7 @@ articles:
   pages_count: 14
   pages: 13-26
   abstract: 'O artigo busca contribuir para a discussão sobre a presença das obras de São Paulo na historiografia da arquitetura moderna brasileira, tendo como recorte três publicações pioneiras sobre o tema: Brazil Builds (1943), de Philip Goodwin; Arquitetura Contemporânea no Brasil, publicada pelo Editora Gertum Carneiro em dois volumes (1947 e 1948); e Modern Architecture in Brazil (1956), de Henrique Mindlin. Apesar do reconhecimento de Brazil Builds e Modern Architecture in Brazil como catálogos pioneiros sobre a arquitetura moderna no Brasil, não foram identificadas pesquisas que tenham se debruçado sobre o conjunto de obras publicados nos volumes da Gertum Carneiro, organizados pela revista Ante-Projeto da Faculdade Nacional de Arquitetura, e editados em versão trilíngue. Publicado no intervalo entre os dois célebres catálogos, Arquitetura Contemporânea no Brasil aparece num contexto de reconhecimento internacional da arquitetura moderna brasileira, mas também de esforço de divulgação interna da produção no Brasil. Reconhecer os projetos localizados em São Paulo e exibidos nessas três publicações pode auxiliar na compreensão do alcance das obras paulistas e sua inserção na narrativa dominante sobre a chamada arquitetura moderna brasileira.'
-  abstract_en: 'This paper aims to contribute to the discussion about Sao Paulo’s architecture presence in Brazil’s modern architecture historiography, beginning from three pioneering publications about the subject: Brazil Builds (1943), by Philip Goodwin; Contemporary Architecture in Brazil, published by Editora Gertum Carneiro in two volumes (1947 and 1948); and Modern Architecture in Brazil (1956), by Henrique Mindlin. Despite the recognition of Brazil Builds and Modern Architecture in Brazil as pioneering catalogs on modern architecture in Brazil, we have not identified researches that have looked at the set of works published in the Gertum Carneiro’s volumes, organized by the magazine Ante-Projeto of the Faculdade Nacional de Arquitetura, and edited in trilingual version. Published in the interval between the two celebrated catalogs, Contemporary Architecture in Brazil appears in a context of international recognition of Brazilian modern architecture, but also of an effort of internal dissemination of Brazilian architecture. Recognizing the projects located in Sao Paulo and exhibited in these three publications can help in understanding the scope of the works of Sao Paulo and their insertion in the dominant narrative about Brazil’s modern architecture.'
+  abstract_en: 'This paper aims to contribute to the discussion about Sao Paulo’s architecture presence in Brazil’s modern architecture historiography, beginning from three pioneering publications about the subject: Brazil Builds (1943), by Philip Goodwin; Contemporary Architecture in Brazil, published by Editora Gertum Carneiro in two volumes (1947 and 1948); and Modern Architecture in Brazil (1956), by Henrique Mindlin. Despite the recognition of Brazil Builds and Modern Architecture in Brazil as pioneering catalogs on modern architecture in Brazil, we have not identified researches that have looked at the set of works published in the Gertum Carneiro’s volumes, organized by the magazine Ante-Projeto of the Faculdade Nacional de Arquitetura, and edited in trilingual version. Published in the interval between the two celebrated catalogs, Contemporary Architecture in Brazil appears in a context of international recognition of Brazilian modern architecture, but also of an effort of internal dissemination of Brazilian architecture. Recognizing the projects located in Sao Paulo and exhIBITed in these three publications can help in understanding the scope of the works of Sao Paulo and their insertion in the dominant narrative about Brazil’s modern architecture.'
   keywords:
   - Arquitetura paulista
   - Arquitetura Contemporânea no Brasil
@@ -65,7 +65,6 @@ articles:
   - 'SANTOS, Ademir Pereira dos. Arquitetura industrial: São José dos Campos. São José dos Campos, A. P. Santos, 2006.'
   - 'SILVA, Joana M. C. O arquiteto e a produção da cidade: a experi- ência de Jacques Pilon em perspectiva (1930-1960). Tese de doutora- do. São Paulo, FAU USP, 2010.'
   - 'YOSHIDA, Celia Ballario; et al. Henrique Ephim Mindlin: o homem e o arquiteto. São Paulo, Instituto Roberto Simonsen, 1975.'
-
 - id: sdsp05-002
   title: 'Eduardo Kneese de Mello: do eclético ao moderno'
   authors:
@@ -92,7 +91,7 @@ articles:
   - Arquitetura Moderna
   references:
   - 'Acrópole: arquitetura, urbanismo, decoração. São Paulo, Técnicas Brasileiras, 1938-1971.'
-  - BREIA, Maria Teresa de Stockler e. A transição do ensino da arqui- tetura beaux-arts para o ensino da arquitetura moderna na faculdade de arquitetura mackenzie, 1947-1965. Orientador Paulo Júlio Valentino Bruna. Tese de doutorado. São Paulo, FAU USP, 2005. Exposição da casa da rua Pamplona 193-a. Record, n.7, São Pau- lo, 1934, s.p.
+  - BREIA, Maria Teresa de Stockler e. A transição do ensino da arqui- tetura beaux-arts para o ensino da arquitetura moderna na faculdade de arquitetura Mackenzie, 1947-1965. Orientador Paulo Júlio Valentino Bruna. Tese de doutorado. São Paulo, FAU USP, 2005. Exposição da casa da rua Pamplona 193-a. Record, n.7, São Pau- lo, 1934, s.p.
   - FICHER, Sylvia. Arquitetos e engenheiros-arquitetos da Escola de Engenharia Mackenzie. Brasília, mimeo, 1989-2007.
   - '________. Os arquitetos da Poli: ensino e produção em São Paulo. São Paulo, Fapesp/Edusp, 2005.'
   - 'HOMEM, Maria Cecília Naclério. Sobre a construção da capital do café e da indústria (1875-1930). In: Warchavchik, Pilon, Rino Levi:'
@@ -111,7 +110,6 @@ articles:
   - THOMAZ, Dalva. Eduardo Kneese de Mello – documento. AU – Ar- quitetura e Urbanismo, n. 45, São Paulo, dez. 1992/jan. 1993, p. 80-88.
   - ________. Um Olhar sobre Vilanova Artigas e sua Contribuição à Arquitetura Brasileira. Orientador Júlio Roberto Katinsky. Dissertação de mestrado. São Paulo, FAU USP, 1997.
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro- -jardim de São Paulo e sua arquitetura. São Paulo, Fapesp/Edusp/ Imprensa Oficial do Estado, 2001.'
-
 - id: sdsp05-003
   title: A contribuição de Eduardo Kneese de Mello para habitação social em São Paulo
   authors:
@@ -161,7 +159,6 @@ articles:
   - SANTOS, Lena Coelho. Arquitetura paulista em torno de 1930- 1940. Orientador Eduardo Corona. Dissertação de mestrado. São Paulo, FAU USP, 1985.
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, Edusp, 1999.
   - THOMAZ, Dalva. Eduardo Kneese de Mello – documento. AU – Ar- quitetura e Urbanismo, n. 45, São Paulo, dez. 1992/jan. 1993, p. 80-88.
-
 - id: sdsp05-004
   title: 'Sesc Pompeia: o patrimônio na intervenção'
   authors:
@@ -203,7 +200,6 @@ articles:
   - 'PELLEGRINI, Ana Carolina; HAFFNER, Evelyn Hernández. Arqui- tetura extemporânea: quatro liberdades de Louis Kahn. In Anais do 7o Projetar - 2015. Natal, Firenzze, 2015'
   - POULOT, Dominique. Uma história do patrimônio no ocidente. São Paulo, Estação Liberdade, 2009.
   - RIEGL, Alois. The Modern Cult of Monuments. Nova Iorque, Rizzoli, 1982.
-
 - id: sdsp05-005
   title: 'Desenhos sutis: casas de Daniele Calabi em São Paulo'
   authors:
@@ -239,7 +235,7 @@ articles:
   - 'CALABI, Donatella. A Parigi nel 1931-33. In ZUCCONI, Guido (org.). Daniele Calabi: architetture e progetti, 1932-1964. Padova, Marsilio, 1992.'
   - '________. La Colonia Italiana. In ZUCCONI, Guido (org.). Daniele Calabi: architetture e progetti, 1932-1964. Padova, Marsilio, 1992.'
   - CAPITEL, Antón. La arquitectura del patio. Barcelona, GG, 2005.
-  - CIUCCI, Giorgio. Gli architetti e il fascismo Archiettura e città 1922- 1944. Torino, Giulio Einaudi editore, 1989.
+  - CIUCCI, Giorgio. Gli architetti e il fascismo Archiettura e città 1922- 1944. ToRino, Giulio Einaudi editore, 1989.
   - COLQUHOUN, Alan. Architettura moderna e storia. Roma, Later- za, 1989.
   - CORNOLDI, Adriano. L’architettura dei luogui domestici. Milano, Jaca Book, 1994.
   - '________. Arquitectura de la vivenda unifamiliar: manual del espa- cio domestico. Barcelona, Gustavo Gili,1991.'
@@ -252,8 +248,8 @@ articles:
   - DEBENEDETTI, Anita; SALMONI, Emma. Arquitetura italiana em São Paulo. São Paulo, Perspectiva, 1973.
   - LEATHERBARROW, David. Espaço dentro e fora da arquitetura. ARQtexto, n. 12, Porto Alegre, 2008.
   - MAHFUZ, Edson da Cunha. Ensaio sobre a razão compositiva. Vi- çosa/Belo Horizonte, UFV/AP Cultural, 1995.
-  - MARTÌ ARÌS, Carlos. Le variazioni dell’identità – il tipo nella archi- tettura. Torino, Città Studio Edizione, 1993.
-  - MONEO, Rafael. La solitudine degli edifici e altri scriti. Questioni intorno all’architettura. Torino, Umberto Allemandi & C, 1999.
+  - MARTÌ ARÌS, Carlos. Le variazioni dell’identità – il tipo nella archi- tettura. ToRino, Città Studio Edizione, 1993.
+  - MONEO, Rafael. La solitudine degli edifici e altri scriti. Questioni intorno all’architettura. ToRino, Umberto Allemandi & C, 1999.
   - RECASENS, Gonzalo Dias. La tradición del patio en la arquitectu- ra moderna. DPA, n. 13. Barcelona, 1997.
   - ROSSI, Aldo. A arquitetura da cidade. São Paulo, Martins Fontes, 1995.
   - ROWE, Colin. Maneirismo y arquitectura moderna y otros ensayos. Barcelona, Gustavo Gili, 1999.
@@ -264,7 +260,6 @@ articles:
   - ________. Costruttore e Architetto a San Paolo (1939-1949). In
   - 'ZUCCONI, Guido (org.). Daniele Calabi: architetture e progetti, 1932- 1964. Padova, Marsilio, 1992.'
   - '________. Daniele Calabi: Variazione da un’idea di spazio intro- verso. Domus, n. 743. Milano, nov. 1992.'
-
 - id: sdsp05-006
   title: 'A criança e a cidade: o legado de Mario de Andrade'
   authors:
@@ -297,7 +292,6 @@ articles:
   - Biblioteca Mario de Andrade. Galeria da arquitetura <http://www. galeriadaarquitetura.com.br/projeto/piratininga-arquitetos-asso- ciados_/biblioteca-mario-de-andrade/1102>.
   - FARIA, Ana Lúcia Goulart de. A contribuição dos parques infantis de Mario de Andrade para a construção de uma pedagogia da edu- cação infantil. Educação & Sociedade, ano XX, n. 69, dez. 1999. Itaú Cultural. Mario de Andrade e os Parques Infantis, maio, 2017 <http://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/ bma/historico/index.php?p=7653>.
   - 'LIMA, Ana Gabriela Godinho. Two Moments of School Architec- ture in São Paulo: Ramos de Azevedo and his Pioneering Schools / Hélio Duarte and the Educational Agreement. Paedagogica Historica, v. 41, n. 1-2, 2005, p. 215-241. Secretaria de Planejamento e Desenvolvimento Regional, Go- verno do Estado de São Paulo. Índice Paulista de Vulnerabilidade So- cial, 2010 <http://indices-ilp.al.sp.gov.br/view/pdf/ipvs/principais_ resultados.pdf>.'
-
 - id: sdsp05-007
   title: 'Perret e Guedes: um paralelo entre duas obras de arquitetura religiosa em concreto'
   authors:
@@ -349,7 +343,6 @@ articles:
   - UNWIN, Simon. Analysing Architecture. Londres, Routledge, 2011.
   - VALÉRY, Paul. Eupalinos ou o arquiteto, Rio de Janeiro, Editora 34, 1996.
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953- 1973. Tese de doutorado. Porto Alegre, UFRGS, 2005.
-
 - id: sdsp05-008
   title: 'Anthropophagic Iterations: A Feminist Perspective on Modern Brazilian Architecture'
   authors:
@@ -371,7 +364,6 @@ articles:
   - Feminism
   - Anthropophagy
   - Tropicália
-
 - id: sdsp05-009
   title: 'Intervenção em concreto aparente histórico: o caso das empenas do Edifício Vilanova Artigas'
   authors:
@@ -418,7 +410,6 @@ articles:
   - HELENE, Paulo Roberto do Lago; PEREIRA, Maria Fernanda;
   - BARBOSA, Paulo Eduardo. Relatório Técnico n. 219/2006. Edifício Vilanova Artigas, Prédio da FAU USP. Projeto, especificação de ma- teriais/sistemas e procedimentos para reabilitação do edifício, com previsão orçamentária. São Paulo, PhDesign. 2006. Madrid Document. ICOMOS-ISC20C. 2014 <http://www.icomos- -isc20c.org/madrid-document/>. Memorial descritivo de especificação técnica dos serviços de re- cuperação da cobertura do Edifício Vilanova Artigas. São Paulo, FAU
   - 'ODGERS, David (ed). Practical Building Conservation: Concrete. Farnham, Ashgate Publishing Ltd. 2012.'
-
 - id: sdsp05-010
   title: 'A sintaxe da Casa Modernista: análise da Casa Mina Kablin e Gregori Warchavchik (1927-28)'
   authors:
@@ -465,7 +456,6 @@ articles:
   - 'LIRA, José Tavares Correia de. Ruptura e construção: Gregori Warchavchik, 1917-1927. Novos estudos CEBRAP, n. 78, São Paulo, jul. 2007, p. 145-167 <http://www.scielo.br/scielo.php?script=sci_arttex- t&pid=S0101-33002007000200013&lng=en&nrm=iso>.'
   - '________. Warchavchik: fraturas da vanguarda. São Paulo, Cosac Naify, 2011.'
   - MEDEIROS, Valério Augusto Soares de. Módulo A – Premissas.
-
 - id: sdsp05-011
   title: Vilanova Artigas e a tradição clássica
   authors:
@@ -523,7 +513,6 @@ articles:
   - ROWE, Collin. The Mathematics of the Ideal Villa and Other Es- says. Cambridge, The MIT Press, 1982-1997. SCULLY Jr., Vincent. Arquitetura moderna. São Paulo, Cosac Nai- fy, 2002.
   - WITTKOWER. Rudolf. Los fundamentos de la arquitectura en la edad del humanismo. Madrid, Alianza Editorial, 1995.
   - VITRÚVIO. Da arquitetura. São Paulo, Hucitec/Fupam, 1999.
-
 - id: sdsp05-012
   title: 'Georgia Louise Harris Brown: a única mulher do escritorio'
   authors:
@@ -562,7 +551,6 @@ articles:
   - 'WALLACE, Michele. Invisibility Blues: From Pop to Theory. New York, Verso, 1994.'
   - WASHINGTON, Roberta. Georgia Louise Harris Brown. In WIL-
   - 'SON, Dreck Spurlock (Org.) African American Architects: A Biographi- cal Dictionary, 1965–1945. New York, Routledge, 2004, p. 72-74.'
-
 - id: sdsp05-013
   title: 'Aproximaciones fotográficas: São Paulo-Chile entre materia, forma y luz, 1950-1970'
   authors:
@@ -576,7 +564,7 @@ articles:
   file: sdsp05-013.pdf
   pages_count: 16
   pages: 230-245
-  abstract_en: 'The paper deals with visual common approaches between two apparently distant realities: The architectural production in São Paulo and in Chile, during the nineteen-fifties and the sixties. It is in the realm of architectural photography, made at the same time in both places that a common ground of picture-making is to be found, beyond the widely recognisable differences in their architectural approaches. The pictures of buildings, like the ones reffered here, were made according to different modern architecture publishing scenarios –periodicals, exhibitions, congresses, etc.– especially those where the so-called brutallism had a leading role. Visual nearness has a tendency to override the distance that separate architectural conceptions in such different places. There are two reasons for dealing with these photographic approaches: one, is to bring evidence on the general cultural context shared by brazilian and chilean architects and photographers. Pictures are considered here as fragments, issued from a totality that, in Siegfried Krakauer’s definition, extends itself to the infinite; and the second is to show how, despite the differences in culture, technical resources, climate and so on, it is possible to define a common ground on matter, form and light, given the nature of photography as an ubicous architectural representation medium, its production processes and the cultural background shared by photographers and architects as well. A general context is described in the first place, where the Latin American scene is put in relation with leading cultural currents during the 1950-1970s. In the second place, a scope on common aspects shared by paulista and chilean architects is traced in order to focus, in the central part, on three photographic approaches: matter, form and light. They are examined through the observation of key photographic examples and their production context.'
+  abstract_en: 'The paper deals with visual common approaches between two apparently distant realities: The architectural production in São Paulo and in Chile, during the nineteen-fifties and the sixties. It is in the realm of architectural photography, made at the same time in both places that a common ground of picture-making is to be found, beyond the widely recognisable differences in their architectural approaches. The pictures of buildings, like the ones reffered here, were made according to different modern architecture publishing scenarios –periodicals, exhIBITions, congresses, etc.– especially those where the so-called brutallism had a leading role. Visual nearness has a tendency to override the distance that separate architectural conceptions in such different places. There are two reasons for dealing with these photographic approaches: one, is to bring evidence on the general cultural context shared by brazilian and chilean architects and photographers. Pictures are considered here as fragments, issued from a totality that, in Siegfried Krakauer’s definition, extends itself to the infinite; and the second is to show how, despite the differences in culture, technical resources, climate and so on, it is possible to define a common ground on matter, form and light, given the nature of photography as an ubicous architectural representation medium, its production processes and the cultural background shared by photographers and architects as well. A general context is described in the first place, where the Latin American scene is put in relation with leading cultural currents during the 1950-1970s. In the second place, a scope on common aspects shared by paulista and chilean architects is traced in order to focus, in the central part, on three photographic approaches: matter, form and light. They are examined through the observation of key photographic examples and their production context.'
   keywords_en:
   - Architecture Photography
   - Brutalism
@@ -592,7 +580,7 @@ articles:
   - HITCHCOCK, Henry-Russell. Latin American Architecture Since 1945. New York, Museum of Modern Art, 1955.
   - KRAKAUER, Siegfried. Sur le seuil du temps. Essais sur la photo- graphie. Textes choisis et présentés par Philippe Despoix. Montréal, Les Presses de l’Université de Montréal, 2013.
   - MILANI, Gouveia María Sonia. O homem, o edifício e a cidade por Peter Scheier. Orientadora Mônica Junqueira de Camargo. Disserta- ção de mestrado. São Paulo, FAU USP, 2008.
-  - MORENO F., José; FRESARD, Denise. Antonio Quintana 1904-1972. Santiago, Fundación Centro Cultural Palacio de La Moneda, 2006.
+  - MORENO F., José; FRESARD, DeNise. Antonio Quintana 1904-1972. Santiago, Fundación Centro Cultural Palacio de La Moneda, 2006.
   - SEGAWA, Hugo; MAZZA Dourado, Guilherme. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997.
   - SHULMAN, Julius; GÖSSEL, Peter (ed.). Architecture and Its Pho- tography. Munich, Taschen, 1998.
   - 'TERENZI, Stuchi Fabiana. Revista Habitat: Um olhar moderno so- bre os anos 50 em São Paulo. Orientadora Fernanda Fernandes da Silva. Dissertação de mestrado. São Paulo, FAU USP, 2006.'
@@ -601,7 +589,6 @@ articles:
   - FUENTE DE IMÁGENES
   - Figura 1a - Biblioteca Nacional, Santiago, Chile, Colección Foto- gráfica-Fondo Antonio Quintana Figura 1b - FALBEL, Anat. Peter Scheier. A Modern Photographer and the Idea of the City. Docomomo Journal, n. 37, París, sep. 2007. Figura 2a - L’ Architecture d’Aujourd’hui, n. 135, Paris, 1968. Figura 2b - SHULMAN, Julius; GÖSSEL, Peter (ed.). Architecture and Its Photography. Munich, Taschen, 1998. Figura 3a - ANELLI, Renato; GUERRA, Abilio; KON, Nelson. Rino
   - 'Levi. Arquitetura e cidade. São Paulo, Romano Guerra, 2001. Figura 3b - Archivo de Originales, FADEU-UC. Fondo René Com- beau, Santiago. Figura 4 - FERRAZ, Marcelo (org.). Vilanova Artigas. São Paulo, Instituto Lina Bo e P.M. Bardi, 1997. Figura 5 - Idem, ibidem. Figura 6a - BERGDOLL, Barry, et al. Latin America in Construction: Architecture 1955-1980. New York, Museum of Modern Art, 2014. Figura 6b - Archivo de Originales, FADEU-UC. Fondo René Com- beau, Santiago. Figura 7 - Aviso comercial Industrias Sumar. In AUCA, n. 6-7, San- tiago, 1967. Figura 8 - ANELLI, Renato; GUERRA, Abilio; KON, Nelson. Op. cit. Figura 9a - SSEGAWA, Hugo; MAZZA Dourado, Guilherme. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997. Figura 9b - Archivo de Originales, FADEU-UC. Fondo Emilio Duhart, Santiago.'
-
 - id: sdsp05-014
   title: 'Os edifícios do Guarujá SP: dos 1960 aos 1980, a linearidade no pensamento projetivo de Mendes da Rocha'
   authors:
@@ -639,7 +626,6 @@ articles:
   - 'PISANI, Daniele. Paulo Mendes da Rocha: Obra completa. São Paulo, Gustavo Gili, 2013. SMA (Secretaria de Estado do Meio Ambiente, Governo do Estado de São Paulo). Parecer Técnico/CPRN/DAIA/ 044/2007, Processo SMA 13,586/2005 <http://www.ambiente.sp.gov.br/consema/ files/2011/11/ oficio_consema_2007_300/ ParecertecnicoCPRN-DAIA-044-2007.pdf>.'
   - VILLAC, Maria Isabel (org.). Paulo Mendes da Rocha. América, ci- dade e natureza. São Paulo, Estação Liberdade, 2012.
   - 'ZEIN, Ruth Verde. O lugar da crítica: Ensaios oportunos de arqui- tetura. Porto Alegre, UniRitter/ProEditores, 2001.'
-
 - id: sdsp05-015
   title: O mobiliário de concreto da Casa Tomie Ohtake
   authors:
@@ -673,7 +659,6 @@ articles:
   - 'SPARK, Penny. As long as its pink: politics of sexual taste. Lon- don/San Francisco, Pandora, 1995.'
   - 'TAVARES, Maria Cecília. Ruy Ohtake: arquitetura residencial dos anos 1960-1970. Orientador Fernando Freitas Fuão. Dissertação de mestrado. Porto Alegre, UFRGS, 2005.'
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953- 1973. Orientador Carlos Eduardo Dias Comas. Tese de doutorado. Porto Alegre, UFRGS, 2005.
-
 - id: sdsp05-016
   title: 'A arquitetura esportiva em São Paulo entre 1950 e 1970: (re) descobrindo obras'
   authors:
@@ -707,7 +692,6 @@ articles:
   - GUERRA, Abílio (org.). Textos fundamentais sobre história da arquite- tura moderna brasileira - parte 1. São Paulo, Romano Guerra, 2010.
   - '________. Há que ser ir às coisas: revendo as obras. In PEIXOTO, Gustavo Rocha; BRONSTEIN, Laís; OLIVEIRA, Beatriz Santos de; LAS-'
   - SANCE, Guilherme. Leituras em teoria da arquitetura - parte 3. Rio de Janeiro, Riobooks, 2011.
-
 - id: sdsp05-017
   title: 'A vez do muro estrutural: o protagonismo do edifício híbrido na arquitetura brutalista paulista'
   authors:
@@ -751,7 +735,6 @@ articles:
   - VITRUVIUS, Pollio. Tratado de Arquitetura / Vitrúvio. Coleção To- das as Artes. São Paulo, Martins Fontes, 2007.
   - WITTKOWER, Rudolf. Architectural Principles in the Age of Huma- nism. New York, Norton & Company, 1971.
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista, 1953 – 1973. Tese de Doutorado. Porto Alegre, PROPAR/UFRGS, 2005.
-
 - id: sdsp05-018
   title: 'Acervo de desenhos do arquiteto Paulo Mendes da Rocha: modos de aproximação de fontes primárias para elaboração de pesquisa'
   authors:
@@ -780,7 +763,6 @@ articles:
   - IWAMIZU, César Shundi. A estação rodoviária de Jaú e a dimen- são urbana da arquitetura. São Paulo, FAU USP, 2008. ROBBINS Edward. Why Architects Draw. Cambridge, MIT Press, 1994.
   - SENNETT, Richard. O artífice. Rio de Janeiro, Record, 2009.
   - WISNIK, Guilherme. Entrevistas con los estúdios colaboradores de Paulo Mendes da Rocha. 2G, n. 45, Barcelona, 2008.
-
 - id: sdsp05-019
   title: 'Unicamp: conceito, urbanismo e patrimônio moderno'
   authors:
@@ -811,7 +793,7 @@ articles:
   - HOLIC, Nathan. University of Central Florida. Chicago, Arcadia Pu- blishing, 2009.
   - JACA, Carlos; FREITAS, Jorge de. Linhas Gerais sobre a História da Universidade Conimbricense. Das suas origens à Reforma Universi- tária Pombalina de 1772. Lisboa, 2007.
   - 'MAHLER, Christine Ramos. Territórios Universitários: tempos, es- paços, formas. Orientadora Sylvia Ficher. Tese de Doutorado. Brasília, PPGAU-UnB, 2015.'
-  - MENEGHEL, Stela Maria. Zeferino Vaz e a Unicamp - uma traje- tória e um modelo de universidade. Orientador Newton César Balzan. Dissertação de mestrado. Campinas, FEC Unicamp, 1994.
+  - MENEGHEL, Stela Maria. ZefeRino Vaz e a Unicamp - uma traje- tória e um modelo de universidade. Orientador Newton César Balzan. Dissertação de mestrado. Campinas, FEC Unicamp, 1994.
   - MONTANER, Josep Maria. As formas do século XX. Barcelona, Editorial Gustavo Gilli, 2002.
   - ________. Sistemas arquitetônicos contemporâneos. Barcelona, Editorial Gustavo Gilli, 2009.
   - MUTHESIUS, Stefan. The Post-War University. New Haven/Lon- don, Yale University Press, 2000.
@@ -820,7 +802,6 @@ articles:
   - 'SEGAWA, Hugo. Rio de Janeiro, México e Caracas: cidades uni- versitárias e modernidades (1936-1962). V Conferência Internacional Docomomo, Estocolmo, 1998.'
   - 'TEIXEIRA, Anísio. Ensino superior no Brasil: análise e interpretação de sua evolução até 1969. Rio de Janeiro, Fundação Getúlio Vargas, 1989.'
   - 'TURNER, Paul Venable. Campus: An American Planning Tradition. The MIT Press, Architectural History Foundation Book, 1995,'
-
 - id: sdsp05-020
   title: Niemeyer no Guarujá
   authors:
@@ -858,12 +839,11 @@ articles:
   - MARINO, Carlos Eduardo Collet. Ócio e Lazer em São Paulo da Belle Époque. A vilegiatura marítima e a invenção do Guarujá en- quanto balneário da metrópole (1890-1915). In Anais do XVII Enanpur, São Paulo, Anpur, FAU USP, IAU USP, 2017, p. 1-20.
   - NIEMEYER, Oscar. Minha arquitetura 1937-2005. Rio de Janeiro, Revan, 2005.
   - 'NIEMEYER, Oscar. Quase Memórias: Viagens. Tempos de entu- siasmo e revolta 1961-1966. Rio de Janeiro, Civilização Brasileira, 1968.'
-  - 'NIEMEYER, Oscar. Urbanização no Guarujá, 1967. Fundação Os- car Niemeyer <http: //www.niemeyer.org.br>.'
+  - 'NIEMEYER, Oscar. Urbanização no Guarujá, 1967. Fundação Os- car Niemeyer <http: //www.Niemeyer.org.br>.'
   - NIEMEYER, Oscar; EMERY, Marc. 3 ZACs na França. Módulo, n. 53, Rio de Janeiro, mar./abr. 1979, p. 76-90.
   - PAPADAKI, Stamo. The Work of Oscar Niemeyer. New York, Rein- hold Publishing Corporation, 1950.
   - RICOEUR, Paul. Tempo e narrativa. Tomo II. Campinas, Papirus, 1995.
   - 'ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: arquite- turas após 1950. São Paulo, Perspectiva, 2010.'
-
 - id: sdsp05-021
   title: 'Reconhecimento e identidade: o ideário educacional da arquitetura no Brasil e na FAU-Mack'
   authors:
@@ -903,7 +883,6 @@ articles:
   - NEVES, Christiano Stockler. Relatório annual da Faculdade de Ar- quitetura Mackenzie. São Paulo, Centro Histórico e Cultural Macken- zie, 1948.
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, Edusp, 2014.
   - 'XAVIER, Alberto (org). Depoimento de uma geração: arquitetura moderna brasileira. São Paulo, Cosac Naify, 2003.'
-
 - id: sdsp05-022
   title: 'Abrahão Sanovicz e Paulo Bastos: comparação teórica e gráfica dos métodos projetuais e das residências dos arquitetos'
   authors:
@@ -955,7 +934,6 @@ articles:
   - 'VÁZQUEZ RAMOS, F. G. Ética brutalista na arquitetura introspec- tiva de Vilanova Artigas: 1966-1969. X Seminário Docomomo Brasil, Curitiba, 2013.'
   - 'WOLF, José. A Epifania de Abrahão: Viver pelo Desenho. AU-Ar- quitetura e Urbanismo, mar. 2003.'
   - XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura moderna paulistana. São Paulo, PINI, 1983.
-
 - id: sdsp05-023
   title: Alberto Xavier e a documentação da arquitetura moderna
   authors:
@@ -1006,7 +984,6 @@ articles:
   - XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Por- to Alegre. São Paulo/Porto Alegre, Pini/FA UFRGS, 1987.
   - XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. São Paulo, Fundação Vilanova Artigas/ Pini, 1991.
   - 'XAVIER, Alberto; KATINSKY, Julio Roberto (orgs.). Brasília: antolo- gia crítica. São Paulo, Cosac Naify, 2012.'
-
 - id: sdsp05-024
   title: 'Os interiores das casas de Liliana e Joaquim Guedes: uma perspectiva de gênero'
   authors:
@@ -1051,7 +1028,6 @@ articles:
   - 'SPARKE, Penny. As Long as It’s Pink: The Sexual Politics of Taste. Nova Escotia Canada, NSCAD, 2010.'
   - 'WAISMAN, Marina. O interior da história: historiografia arquitetôni- ca para uso de latino-americanos. São Paulo, Perspectiva, 2013.'
   - 'ZEIN, Ruth Verde. O lugar da crítica: ensaios oportunos de arqui- tetura. Porto Alegre, Centro Universitário Ritter dos Reis, 2001.'
-
 - id: sdsp05-025
   title: 'Caminhos de Vilanova Artigas: uma abordagem bibliométrica'
   authors:
@@ -1076,7 +1052,7 @@ articles:
   pages_count: 11
   pages: 419-429
   abstract: 'A comunicação descreve o trabalho de pesquisa que sobre a documentação bibliográfica de João Batista Vilanova Artigas vêm sendo desenvolvida nos projetos: Representações, textos e obra na produção de João Batista Vilanova Artigas e Da arquitetura experimental à gestão da cidade contemporânea: o caso brasileiro, projetos que vêm sendo realizados dentro das atividades de pesquisa do Programa de Pós-graduação em Arquitetura e Urbanismo da USJT. Metodologicamente a pesquisa centra sua atenção no levantamento exaustivo das fontes bibliográficas (publicações comerciais e catálogos de exposições, trabalhos de pesquisa acadêmica – dissertações e teses – e artigos), sua análise e valoração, assim como procura refletir sobre o impacto que esse material tem sobre a julgamento da figura de Vilanova Artigas (pensamento, ideologia, produção). O trabalho sobre a bibliografia, propriamente dita, já foi desenvolvido e a partir dela, neste momento o projeto de debruça sobre os artigos de autoria do arquiteto, e no futuro se espera poder também levantar a situação das obras, com a finalidade de desenvolver um catálogo raisonée.'
-  abstract_en: 'The paper describes the research on the bibliographic documentation of João Batista Vilanova Artigas that has been developed in the projects Representations, texts and work in the production of João Batista Vilanova Artigas and From experimental architecture to contemporary city management: the Brazilian case, Projects that have been carried out within research activities of the Postgraduate Program in Architecture and Urbanism of the USJT. Methodologically, the research focuses its attention on the exhaustive review of bibliographic sources (commercial publications and exhibition catalogs, academic research papers - dissertations and theses - and articles), its analysis and evaluation, as well as to reflect on the impact that this material has on to the judgment of Vilanova Artigas (thought, ideology, production). The research on the bibliography, as such, has already been developed and, from this moment on, the project on the articles by the architect himself, and in the future, it is hoped to be able to raise the situation of the “oeuvres” with the purpose to develop a complete catalog.'
+  abstract_en: 'The paper describes the research on the bibliographic documentation of João Batista Vilanova Artigas that has been developed in the projects Representations, texts and work in the production of João Batista Vilanova Artigas and From experimental architecture to contemporary city management: the Brazilian case, Projects that have been carried out within research activities of the Postgraduate Program in Architecture and Urbanism of the USJT. Methodologically, the research focuses its attention on the exhaustive review of bibliographic sources (commercial publications and exhIBITion catalogs, academic research papers - dissertations and theses - and articles), its analysis and evaluation, as well as to reflect on the impact that this material has on to the judgment of Vilanova Artigas (thought, ideology, production). The research on the bibliography, as such, has already been developed and, from this moment on, the project on the articles by the architect himself, and in the future, it is hoped to be able to raise the situation of the “oeuvres” with the purpose to develop a complete catalog.'
   keywords:
   - Vilanova Artigas
   - Bibliografia especializada
@@ -1127,7 +1103,6 @@ articles:
   - 'THOMAZ, Dalva; BAYEUX, Glória (orgs.). Casas de Artigas: as ci- dades como as casas, as casas como as cidades. Mogi das Cruzes, Fundação Vilanova Artigas/Oficina Gráfica Universidade Braz Cubas, 1993.'
   - VÁZQUEZ RAMOS, Fernando Guillermo. Glosando a bibliografia sobre Vilanova Artigas. Pós, v. 3, n. 40, São Paulo, out. 2016, p. 142-167.
   - 'XAVIER, Alberto. Brasília e arquitetura moderna brasileira: Biblio- grafia selecionada. São Carlos, IAU USP, 2002.'
-
 - id: sdsp05-026
   title: 'As escolas do Ipesp: projetos de edifícios escolares produzidos para o Instituto de Previdência do Estado de São Paulo de 1959 a 1962'
   authors:
@@ -1171,7 +1146,6 @@ articles:
   - SAIA, Luis. Arquitetura paulista. in XAVIER, Alberto (org.). Depoi- mentos de uma geração, arquitetura moderna brasileira. São Paulo, Cosac Naify, 2003.
   - SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo, Edusp, 2002. WisniK, Guilherme, O programa escolar e a formação da escola paulista. In FERREIRA, Avany de Francisco; MELLO, Mirela Geiger de (orgs.). Arquitetura escolar paulista, anos 1950 e 1960. São Paulo, FDE, 2006.
   - XAVIER, Alberto (org.). Depoimentos de uma geração, arquitetura moderna brasileira. São Paulo, Cosac Naify, 2003.
-
 - id: sdsp05-027
   title: A crise da arte como ciência europeia e o pré-artesanato nordestino visto por Lina Bo Bardi
   authors:
@@ -1216,7 +1190,6 @@ articles:
   - 'RICCIARDI, Garrett; ROSE, Julian (org.). Manifesto Series: 01 For- mless. Zurique, Lars Muller Publishers, 2013.'
   - RISERIO, Antonio. Avant-garde na Bahia. São Paulo, Instituto Lina Bo e P.M. Bardi, 1995.
   - RUBINO, Silvana; GRINOVER, Marina (org.). Lina por escrito. São Paulo, Cosac Naify, 2009.
-
 - id: sdsp05-028
   title: 'A arquitetura hospitalar do escritório Rino Levi Arquitetos Associados: o projeto da Maternidade da USP, 1945-1956'
   authors:
@@ -1253,7 +1226,6 @@ articles:
   - LEVI, Rino. Arquitetura e estética das cidades. In TOLEDO, Be- nedito Lima (org.). Carta publicada n’O Estado de São Paulo, 15 out. 1925. Depoimentos – 1. Publicação periódica para debate de arquitetu- ra. São Paulo, Centro de Estudos Brasileiros/GFAU, 1960.
   - ________. O que há na arquitetura. In TOLEDO, Benedito Lima (org.). Publicado na Artes Plásticas, n.2, 1939. Depoimentos – 1. Publi- cação periódica para debate de arquitetura. São Paulo, Centro de Es- tudos Brasileiros/GFAU, 1960.
   - ________. Técnica hospitalar e arquitetura. In TOLEDO, Benedito Lima (org.). Conferência pronunciada no MASP de São Paulo, 1948. De- poimentos – 1. Publicação periódica para debate de arquitetura. São Paulo, Centro de Estudos Brasileiros/GFAU, 1960.
-
 - id: sdsp05-029
   title: 'O projeto arquitetônico como laboratório experimental na arquitetura paulista: Vilanova Artigas e as Casas Olga Baeta e Rubens de Mendonça na década de 1950'
   authors:
@@ -1302,7 +1274,6 @@ articles:
   - THOMAZ, Dalva Elias. Um olhar sobre Vilanova Artigas e a sua contribuição à arquitetura brasileira. Orientadora Ana Maria de Mora- es Belluzzo. Dissertação de mestrado. São Paulo, FAU USP, 1997.
   - ZEIN, Ruth Verde. Arquitetura da escola paulista 1953-1973. Orien- tador Carlos Eduardo Dias Comas. Tese de doutorado. Porto Alegre,
   - FA UFRGS, 2005.
-
 - id: sdsp05-030
   title: 'Oscar Niemeyer & Marcel Gautherot: arquitetura moderna paulista em pranchas de contatos'
   authors:
@@ -1350,7 +1321,6 @@ articles:
   - ________. A coleção fotográfica de Marcel Gautherot. In Anais do Museu Paulista. História e Cultura Material, n. 2, v. 13, jul-dez. 2005, p 73-134. Vues d’Architecture. Photographies des XIXe et XX siècles. Musée de Grenoble/RMN. 2002.
   - 'ZEIN, Ruth Verde, ANGOTTI-SALGUEIRO, Heliana. Blending tex- tual and visual rhetoric for a critical discourse: Oscar Niemeyer and Marcel Gautherot at Módulo (1955-1962). Actors and Vehicles of Archi- tectural Criticism. Second International Workshop, Mapping Architec- tural Criticism 20th and 21th centuries. Bolonha, out. 2016.'
   - ZIMMERMAN, Claire. Photographic Architecture in the 20th Centu- ry, University of Minnesota Press, 2014.
-
 - id: sdsp05-031
   title: 'A turma de 1930 do Mackenzie: Bratke, Capua e Fonseca Rodrigues. Ensino e arquitetura em São Paulo nos anos 1920-1930'
   authors:
@@ -1380,7 +1350,7 @@ articles:
   - Américo Capua
   - Jayme Fonseca Rodrigues
   references:
-  - ALMANAK Laemmert <http://memoria.bn.br/DocReader/do- creader.aspx?bib=313394&pasta=ano%20191&pesq=fortunato%20 capua>.
+  - ALMANAK Laemmert <http://memoria.bn.br/DocReader/do- creader.aspx?bib=313394&pasta=ano%20191&pesq=fortunato%20 Capua>.
   - AMARAL, Tarsila do. De Joseph Monier a Le Corbusier. 22.7.1936. In AMARAL, Aracy (org.) Tarsila cronista. São Paulo, Edusp, 2001, p. 85-87.
   - ARAVECCHIA BOTAS, Nilce. Edifícios dignos da importantíssima classe. In SEGAWA, Hugo. Jayme C. Fonseca Rodrigues arquiteto. São Paulo, Bei, 2016, p. 196-207.
   - Architectura e construcções, dez. 1930, São Paulo, p. 23-25.
@@ -1410,7 +1380,6 @@ articles:
   - 'SZOLNOKY, Maria Teresa de Stockler. O ensino de arquitetura e Christiano Stockler das Neves. Dissertação de mestrado. São Paulo, Universidade Presbiteriana Mackenzie, 1995. Trine University: History and Tradition <http://www.trine.edu/ about/history-and-tradition.aspx>. Um grande morto: de luto a engenharia nacional. Correio da Ma- nhã, Rio de Janeiro, 13 jun. 1956, p. 5. University of Pennsylvania, Catalogue, 1910-1911, Folder C.S. das Neves, p. 147.'
   - WENDHAUSEN, H. C. No coração da Cidade Maravilhosa Capua & Capua constroem o maior edifício do Brasil. O Cruzeiro, Rio de Ja- neiro, 22 ago. 1959, p. 70-71.
   - 'WOLFF, Sílvia Ferreira Santos. Jardim América: o primeiro bairro- -jardim de São Paulo e sua arquitetura. São Paulo, Edusp/Imprensa Oficial do Estado/Fapesp, 2001.'
-
 - id: sdsp05-032
   title: 'Estruturas formais: 3 casas modernas paulistas'
   authors:
@@ -1453,7 +1422,6 @@ articles:
   - PIÑÓN, Hélio. Curso básico de proyetos. Barcelona, Ediciones
   - POLIÃO, Marco Vitrúvio. Da arquitetura. São Paulo, Hucitec/An- nablume, 2002.
   - QUATREMÈRE DE QUINCY, Antoine C. Dictionaire Historique dAarchitecture. Paris, Panckoucke, 1832.
-
 - id: sdsp05-033
   title: Affonso Eduardo Reidy e o brutalismo paulista
   authors:
@@ -1487,7 +1455,6 @@ articles:
   - PISANI, Daniele. Paulo Mendes da Rocha, obra completa. São Paulo, GG, 2013
   - WISNIK, Guilherme (org.). Paulo Mendes da Rocha. Rio de Janei- ro, Beco do Azougue, 2012
   - 'ZEIN, Ruth Verde. Brutalismo, escola paulista: entre o ser o não ser. Arqtexto, n. 2, 1º sem. 2002, p. 6-31.'
-
 - id: sdsp05-034
   title: 'Hélio Duarte e Senai: arquitetura moderna para escolas profissionalizantes'
   authors:
@@ -1524,7 +1491,6 @@ articles:
   - 'SILVA, Joana Mello de Carvalho e. O arquiteto e a produção da cidade: a experiência de Jacques Pilon em perspectiva, 1930 – 1960. Orientadora Ana Lúcia Duarte Lanna. Tese de doutorado. São Paulo,'
   - 'VIDOTTO, Taiana Car. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no estado de São Paulo: 1948-1962. Orientador Ana Maria R. de Goes Monteiro. Dissertação de mestrado. Campinas, FEC Unicamp, 2014.'
   - WEINSTEIN, Bárbara. (Re) formação da classe trabalhadora no Brasil. 1920-1964. São Paulo, Cortez/CDAPH IPHAN/Universidade São Francisco, 2000.
-
 - id: sdsp05-035
   title: 'O olhar particular de Lina Bo Bardi: força plástica e gesto singelo'
   authors:
@@ -1570,7 +1536,6 @@ articles:
   - OLIVEIRA, Raíssa de. Marcelo Ferraz. Entrevista, São Paulo, ano 08, n. 030.02, Vitruvius, abr. 2007 <http://www.vitruvius.com.br/re- vistas/read/entrevista/08.030/3295>. PERROTA-BOSCH, Francesco. A arquitetura dos intervalos. Ser- rote, n. 15, São Paulo, nov. 2013.
   - 'SEVCENKO, Nicolau. Uma arquitetura do caos: uma entrevista com Peter Eisenman >http://editora.cosacnaify.com.br/upload/ar- quivos/ Entrevista_Peter_Eisenman.pdf>. SOLÁ-MORALES. Ignasi de. Diferencias. Topografia de la arqui- tectura contemporânea. Barcelona, Gustavo Gilli, 2003.'
   - 'VIDLER, Antony. The Architectural Uncanny: Essays in the Modern Unhomely. Massachusetts, MIT Press, 1992.'
-
 - id: sdsp05-036
   title: 'Redescobrindo Oswaldo Bratke: o Hotel Jardim do Embaixador em Campos do Jordão'
   authors:
@@ -1612,7 +1577,6 @@ articles:
   - SERAPIÃO, Fernando. Outra montanha mágica. Projeto, n. 340, jun. 2008.
   - 'SILVA, Carla Maria Alves da. A imagem dos destinos turísticos de montanha: olhares dos residentes e dos turistas. Orientadora Elisabe- th Kastenholz. Tese de doutorado. Aveiro, Degei UV, 2011.'
   - WURSTER, William Wilson. Ski lodge. Architectural Forum, v. 79, n. 1, jul. 1943.
-
 - id: sdsp05-037
   title: 'Adolf Franz Heep: um arquiteto moderno'
   authors:
@@ -1711,7 +1675,6 @@ articles:
   - XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. São Paulo, PINI/Fundação Vilanova Arti- gas/Rioarte, 1991.
   - ZANINI, Walter (org.). História geral da arte no Brasil – volume II. São Paulo, Instituto Walter Moreira Salles/Fundação Djalma Guima- rães, 1983.
   - WICK, Rainer. Pedagogia da Bauhaus. São Paulo, Editora Martins Fontes, 1989.
-
 - id: sdsp05-038
   title: O traço moderno na arquitetura religiosa paulista
   authors:
@@ -1745,7 +1708,6 @@ articles:
   - ROTH, Leland. Entender la arquitectura, sus elementos, historia y significado. Barcelona, Editorial Gustavo Gili, 2010.
   - RUCHTI, Valéria. Jacob Ruchti, a modernidade e a arquitetura paulista (1940-1970). Orientador José Eduardo de Assis Lefevre. Dis- sertação de mestrado. São Paulo, FAU USP, 2011.
   - SCHNELL, Hugo. La arquitectura eclesial del siglo XX en Alema- nia. Munich, Schnell et Steiner, 1974.
-
 - id: sdsp05-039
   title: 'A arquitetura do escritório de José Carlos de Figueiredo Ferraz: o mercado livre do produtor na Companhia de Entrepostos e Armazéns Gerais de São Paulo – Ceagesp'
   authors:
@@ -1792,7 +1754,6 @@ articles:
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, Edusp, 2010.
   - SUZUKI, Marcelo; Rochlitz, Roberto. A estrutura do Masp, de Lina Bo Bardi. AU - Arquitetura e Urbanismo, n. 249, São Paulo, dez. 2014 <http://www.au.pini.com.br/arquitetura-urbanismo/249/a-estrutu- ra-do-masp-de-lina-bo-bardi-333984-1.aspx>.
   - ZEIN, Ruth Verde. Arquitetura paulista brutalista 1953-1973. São Paulo, 2015 <www.arquiteturabrutalista.com.br/index1port-concei- tos.htm>.
-
 - id: sdsp05-040
   title: 'Além da técnica: dimensões outras da racionalidade'
   authors:
@@ -1837,7 +1798,6 @@ articles:
   - SCHWARZ, Roberto. Fim de século. Caderno Mais! Folha de São Paulo, São Paulo, 04 dez. 1994, p. única.
   - VILLAC, Maria Isabel. La construcción de la mirada – Naturaleza, Ciudad y Discurso en la Arquitetura de Paulo Archias Mendes da Ro- cha. Tese doutoral. Orientador Josep Quetglas. Barcelona, ETSAB/
   - 'VILLAC, Maria Isabel. Das Gebäude, die Stadt und die soziale Dimension der Architektur, Sporthalle des Atletik-Clubs São Paulo [O edifício, a cidade e a dimensão social da arquitetura - Ginásio do Clube Atlético Paulistano]. In SPIRO, Annette. Paulo Mendes da Ro- cha: Bauten und Projekt, Zurique, Suíça, Niggli, 2002.'
-
 - id: sdsp05-041
   title: Vizinhança e freguesia na cidade moderna brasileira
   authors:
@@ -1868,7 +1828,7 @@ articles:
   - 'COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo, Empresa das Artes, 1995.'
   - FERRAZ, Marcelo Carvalho. Vilanova Artigas. São Paulo, Instituto Lina Bo e P. M. Bardi, 1997.
   - KAMITA, João Masao. Vilanova Artigas. São Paulo, Cosac Naify, 2000.
-  - 'RUPRECHT, Denise Gomes César. Conjunto Habitacional Jun- diaí – A: dois modos de arquitetar. Orientador Candido Malta Campos Neto. Dissertação de mestrado. São Paulo, FAU MACK, 2003.'
+  - 'RUPRECHT, DeNise Gomes César. Conjunto Habitacional Jun- diaí – A: dois modos de arquitetar. Orientador Candido Malta Campos Neto. Dissertação de mestrado. São Paulo, FAU MACK, 2003.'
   - 'SANVITTO, Maria Luiza Adams. Brutalismo paulista: o discurso e a obra. Projeto, n. 207, São Paulo, abr. 1997, p. 92-97.'
   - ________. Habitação coletiva econômica na arquitetura moderna brasileira. Orientador Carlos Eduardo Dias Comas. Tese de doutora- do. Porto Alegre, PROPAR UFRGS, 2010.
   - SERRAN, João Ricardo. O IAB e a política habitacional brasileira, 1954-1975. São Paulo, Schema Editora, 1976.
@@ -1876,7 +1836,6 @@ articles:
   - 'XAVIER, Alberto (org.). Lúcio Costa: sobre arquitetura. Porto Ale- gre, CEUA, 1962.'
   - ZEIN, Ruth Verde. As tendências e as discussões do pós-Brasília. Projeto, n. 53, São Paulo, jul. 1983, p. 75-85.
   - ________. A arquitetura da escola paulista brutalista, 1953-1973. Orientador Carlos Eduardo Dias Comas. Tese de doutorado. Porto Alegre, PROPAR UFRGS, 2005.
-
 - id: sdsp05-042
   title: A Faculdade de Filosofia, Ciências e Letras de Itu, arquiteto João Walter Toscano
   authors:
@@ -1902,7 +1861,6 @@ articles:
   - 'BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetu- ra brasileira. São Paulo: Perspectiva/Fapesp, 2003. CETESB – Companhia de Tecnologia de Saneamento Ambien- tal, site da Companhia na internet <http://ar.cetesb.sp.gov.br/wp- content/uploads/sites/37/2013/12/Rel_Itu.pdf> CEUNSP – Centro Universitário Nossa Senhora do Patrocínio <http://www.ceunsp.edu.br/conheca-o-ceunsp/nossa-historia/>. CLIMATE-DATA.ORG <https://pt.climate-data.org>.'
   - FERRAZ, Marcelo (org.). Vilanova Artigas. São Paulo, Instituto Lina Bo e P.M. Bardi/Fundação Vilanova Artigas, 1997.
   - GOMES MACHADO, Lourival. Três
-
 - id: sdsp05-043
   title: Nove casas de joaquim guedes, 1958-1968
   authors:
@@ -1961,7 +1919,6 @@ articles:
   - XAVIER, Alberto. Arquitetura moderna paulistana. São Paulo, Edi- tora PINI, 1983.
   - YAMAKI, Humberto. Modern Brazilian Architecture. Tokyo, Pro- cess Architecture Publishing, 1980.
   - ZEIN, Ruth Verde. Le Corbusier e a arquitetura paulista. Projeto, n. 102. São Paulo, 1987. p. 116-118.
-
 - id: sdsp05-044
   title: 'O desenvolvimento da forma ética, dois tempos: Vilanova Artigas e Rem Koolhaas'
   authors:
@@ -2012,7 +1969,7 @@ articles:
   - ________. Mutaciones. Barcelona, ACTAR, 2000.
   - ________. Guide to Shopping. Harvard Project on the City – vol. 2. New York, Taschen, 2000.
   - ________. Content. Germany, Taschen, 2004.
-  - ________. Fundamentals Catalogue. 14th International Architectu- re Exhibition. Venecia, Marsilio, 2014.
+  - ________. Fundamentals Catalogue. 14th International Architectu- re ExhIBITion. Venecia, Marsilio, 2014.
   - 'LEONIDIO, Otavio. Cidade da Música do Rio de Janeiro: a inva- sora. Arquitextos, São Paulo, ano 10, n. 111.01, Vitruvius, ago. 2009 <http://www.vitruvius.com.br/revistas/read/arquitextos/10.111/32>.'
   - MARTINS, Patrícia P. Realidade e arquitetura contemporânea. Óculum Ensaios, n. 14, Campinas, jul./dez. 2011, p. 64-73.
   - '________. Uma arquitetura outra: o processo de ruptura entre for- ma e função. Tese de doutorado. Campinas, Unicamp, 2011.'
@@ -2022,7 +1979,6 @@ articles:
   - TILL, Jeremy. Architecture Depends. Cambridge, The MIT Press, 2009.
   - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista. Tese de doutorado. Porto Alegre, UFRGS, 2005.
   - ________. Breve panorama para um novo século <http://sites,- google.com/site/rvzein/seminariodedoctorado%2Cunr2>.
-
 - id: sdsp05-045
   title: 'Considerações acerca da preservação e requalificação da arquitetura moderna como patrimônio histórico em São Paulo: o caso da Fábrica da Olivetti de Marco Zanuso e outras questões'
   authors:
@@ -2063,7 +2019,6 @@ articles:
   - UNWIN, Simon. A análise da arquitetura. Porto Alegre, Bookman, 2013.
   - VAINER, André; FERRAZ, Marcelo Carvalho; SUZUKI, Marcelo (orgs.). Lina Bo Bardi. São Paulo, Instituto Lina Bo e Pietro Maria Bardi, 1996.
   - XAVIER, Alberto; CORONA, Eduardo; LEMOS, Carlos A.C. Arquite- tura moderna paulistana. São Paulo, Editoria Pini, 1983.
-
 - id: sdsp05-046
   title: Essential Characteristics of Paulista Brutalism
   authors:
@@ -2096,7 +2051,6 @@ articles:
   - Ground Plane
   - Monumentality
   - Natural Light
-
 - id: sdsp05-047
   title: 'Clube Paineiras do Morumby: a arte de projetar com inteligência'
   authors:
@@ -2148,7 +2102,6 @@ articles:
   - VAN RIEL, Silvio. Ficarra, identità urbana e architettonica. Ricerche e material per la valorizzazione e il restauro. Firenze, Alinea, 2011.
   - XAVIER, Alberto; LEMOS, Carlos A.C.; CORONA, Eduardo. Arqui- tetura moderna paulistana. São Paulo, Pini, 1983.
   - ZEIN, Ruth Verde. Breve introdução à Arquitetura da Escola Paulista Brutalista. Arquitextos, São Paulo, ano 06, n. 069.01, Vitruvius, fev. 2006 <http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/375>.
-
 - id: sdsp05-048
   title: A produção arquitetônica de Gregório Zolko (1956-1970)
   authors:
@@ -2204,7 +2157,6 @@ articles:
   - ________. Móvel combinado para armário-divisão-bar. Acrópole, n. 246, São Paulo, abr. 1959.
   - ________. Edifício de apartamentos. Acrópole, n. 258, São Paulo, 1960, p.134-135.
   - ________. Residência no Jardim Europa. Acrópole, n. 232, São Paulo, fev, 1958, p.138-139.
-
 - id: sdsp05-049
   title: A preservação oficial do Balneário de Águas de Lindóia de Oswaldo Bratke
   authors:
@@ -2237,7 +2189,6 @@ articles:
   - WOLFF, Silvia Ferreira Santos; MIURA, Priscila M.; UNGARETTI, Adda. A. P. Dossiê Rino Levi. Relatório de pesquisa. São Paulo, UPPH/ Condephaat, 2010.
   - WOLFF, Silvia Ferreira Santos; UNGARETTI, Adda. A. P.; MIURA, Priscila M. Dossiê Artigas. Relatório de pesquisa. São Paulo, UPPH/ Condephaat, 2010.
   - WOLFF, Silvia Ferreira Santos; ZAGATO, José Antonio Chinela- to. A preservação do patrimônio moderno no Estado de São Paulo pelo Condephaat. Arquitextos, São Paulo, ano 17, n. 194.07, Vitruvius, jul. 2016 <http://www.vitruvius.com.br/revistas/read/arquitextos/17. 194/6129>.
-
 - id: sdsp05-050
   title: 'Duas abóbadas paulistas dos anos 70: Casas Dino Zammataro e Marcos Acayaba'
   authors:
@@ -2299,7 +2250,6 @@ articles:
   - XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura moderna paulistana. São Paulo, Pini, 1983.
   - ZEIN, Ruth Verde. Brutalismo, sobre sua definição. (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, São Paulo, ano 07, n. 084.00, Vitruvius, maio 2007 <http://www.vitruvius. com.br/revistas/read/arquitextos/07.084/243>.
   - '________. O lugar da crítica: ensaios oportunos de arquitetura. Porto Alegre, ProEditores Associados/UniRitter 2001.'
-
 - id: sdsp05-051
   title: 'Telésforo Cristófani: vida e obra contribuições à arquitetura moderna paulista'
   authors:
@@ -2342,7 +2292,6 @@ articles:
   - 'REZENDE, Vera. Planos e regulação urbanística: a dimensão nor- mativa das intervenções na cidade do Rio de Janeiro. In OLIVEIRA, Lúcia Lippi (org.). Cidade: história e desafios. Rio de Janeiro, Editora'
   - FGV, 2002, p. 256-281.
   - ZEIN, Ruth Verde; LIMA, Ana Gabriela Godinho; CAMARGO, Mô- nica Junqueira. A obra do arquiteto Telésforo Giorgio Cristófani. In 1° Seminário DOCOMOMO São Paulo. 2004.
-
 - id: sdsp05-052
   title: 'Influência de Vilanova Artigas na arquitetura escolar paulista contemporânea: Escola Estadual, Conjunto Habitacional Campinas F1 e Escola Estadual Jardim'
   authors:
@@ -2376,7 +2325,6 @@ articles:
   - Artigas
   - Paulista School
   - Educational Architecture
-
 - id: sdsp05-053
   title: 'Do projeto ao concreto: os estádios de Vilanova Artigas (1952-1962)'
   authors:
@@ -2421,7 +2369,6 @@ articles:
   - 'ZEIN, Ruth V. Arquitetura da escola paulista brutalista: 1953-1973. Tese de doutorado. Porto Alegre, UFRGS, 2003.'
   - WILHEIM, Jorge. São Paulo seus pontos de encontro. Acrópo- le, n. 295, São Paulo, p. 223-37 <http://www.acropole.fau.usp.br/edi- cao/297>.
   - O eixo INTERVENÇÃO acolherá reflexões críticas e estudos de casos de restauração ou qualquer tipo de interação envolvendo a transformação de obras e/ou conjuntos arquitetônicos, urbanos e paisagísticos ligados à arquitetura moderna paulista realizados nas décadas de 1920 a 1970, e como essas intervenções afetaram a con- tinuidade de seu uso ou sua adaptação a novos usos.
-
 - id: sdsp05-054
   title: 'A mudança de um espaço de vida em um espaço de arte: o caso da Residência Castor Delgado Perez de Rino Levi'
   authors:
@@ -2457,28 +2404,27 @@ articles:
   - APCA 2016 arquitetura Luciana Brito Galeria. Monolito <https:// www.youtube.com/watch?v=K9ikbY8mRro>.
   - 'ARANHA, Maria Beatriz de Camargo. Rino Levi: arquitetura como ofício. Dissertação de mestrado. São Paulo, FAU USP, 2003.'
   - '________. A obra de Rino Levi e a trajetória da arquitetura moder- na no Brasil. Tese de doutorado. São Paulo, FAU USP, 2008. Bem tombado: residência Castor Delgado Perez. Condepahaat.'
-  - CAPITEL, Antón. Metamorfosis de Monumentos y Teorías de la Restauración. Madrid, Alianza Forma, 1988. Casa projetada por Rino Levi é aberta ao público pela primeira vez com a exposição residência moderna. Archdaily < http://www.arch- daily.com.br/br/784987/casa-projetada-por-rino-levi-e-aberta-ao- -publico-pela-primeira-vez-com-a-exposicao-residencia-moderna>.
-  - 'COSTA, Ana Elísia da. Clássicos da arquitetura: Residência Castor Delgado Perez. Archdaily <http://www.archdaily.com.br/br/766189/ classicos-da-arquitetura-residencia-castor-delgado-perez-rino-levi>.'
+  - CAPITEL, Antón. Metamorfosis de Monumentos y Teorías de la Restauración. Madrid, Alianza Forma, 1988. Casa projetada por Rino Levi é aberta ao público pela primeira vez com a exposição residência moderna. Archdaily < http://www.arch- daily.com.br/br/784987/casa-projetada-por-Rino-levi-e-aberta-ao- -publico-pela-primeira-vez-com-a-exposicao-residencia-moderna>.
+  - 'COSTA, Ana Elísia da. Clássicos da arquitetura: Residência Castor Delgado Perez. Archdaily <http://www.archdaily.com.br/br/766189/ classicos-da-arquitetura-residencia-castor-delgado-perez-Rino-levi>.'
   - FAZIO, Michel; MOFFETT, Lawrence Wodehouse. A história da arquitetura mundial. Porto Alagre, AMGH, 2011.
-  - 'SERAPIÃO, Fernando. Rino Levi: o racionalista dos trópicos. Pro- jeto Design, 2001 <https://arcoweb.com.br/projetodesign/artigos/ artigo-rino-levi-o-racionalista-dos-tropicos-01-12-2001>.'
-  - 'FRACALOSSI, Igor. Em foco: Rino Levi. ArchDaily <http://www.ar- chdaily.com.br/br/779671/em-foco-rino-levi>.'
+  - 'SERAPIÃO, Fernando. Rino Levi: o racionalista dos trópicos. Pro- jeto Design, 2001 <https://arcoweb.com.br/projetodesign/artigos/ artigo-Rino-levi-o-racionalista-dos-tropicos-01-12-2001>.'
+  - 'FRACALOSSI, Igor. Em foco: Rino Levi. ArchDaily <http://www.ar- chdaily.com.br/br/779671/em-foco-Rino-levi>.'
   - 'FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo, Martins Fontes, 2008. Galeria Luciana Brito: Piratininga Arquitetos Associados. Arch- daily <http://www.archdaily.com.br/br/867909/galeria-luciana-bri- to-piratininga-arquitetos-associados>.'
   - GONSALES, Célia Helena Castro. Residência e cidade. Arqui- teto Rino Levi. Arquitextos, São Paulo, ano 01, n. 008.14, Vitruvius, jan. 2001 <http://www.vitruvius.com.br/revistas/read/arquitex- tos/01.008/939>.
   - 'GRACIA, Francisco de. Construir en lo construído: la arquitectura como modificación. Guipuzcoa, Nerea, 1992.'
   - GIOIA, Mario. Residência moderna <http://www.select.art.br/re- sidencia-moderna>.
-  - JODELET, Denise. A cidade e a memória. In DEL RIO, Vicente;
+  - JODELET, DeNise. A cidade e a memória. In DEL RIO, Vicente;
   - 'DUARTE, Cristiane Rose; RHEINGANTZ, Paulo Afonso (org.). Projeto do lugar: colaboração entre psicologia, arquitetura e urbanismo. Rio de Janeiro, Contra Capa, 2002, p. 31-42.'
   - KÜHL, Beatriz Mugayar. Ética e responsabilidade social na pre- servação do patrimônio cultural. In Anais do XIII Congresso Interna- cional ABRACOR, Porto Alegre, 2009 <www.abracor.com.br/novosi- te/downloads/textobeatrizmk.pdf>. Luciana Brito Galeria <http://www.lucianabritogaleria.com.br/>.
   - 'MOIMAS, Valentina. Arquitetura Moderna no Brasil. Uma história em processo de escritura. Arquitextos, São Paulo, ano 14, n. 168.00, Vitruvius, maio 2014 <http://www.vitruvius.com.br/revistas/read/ar- quitextos/14.168/5217>. O’DOHERTY, Brian. Inside The White Cube: The Ideology of The Gal- lery Space. Berkeley Los Angeles, University of California Press, 1999.'
   - PEREIRA, José Ramón Alonso. Introdução à história da arquitetu- ra, das origens ao século XXI. Porto Alegre, Bookman, 2010.
-  - RATTI, Claudia. Restauro reintegra casa de Rino Levi à cidade <http://patrimoniohistorico.prefeitura.sp.gov.br/restauro-de-casa- -de-rino-levi-recuperou-integracao-a-cidade/>. Rino Levi. Enciclopédia Itaú Cultural de Arte e Cultura Brasileiras <http://enciclopedia.itaucultural.org.br/pessoa351575/rino-levi>.
+  - RATTI, Claudia. Restauro reintegra casa de Rino Levi à cidade <http://patrimoniohistorico.prefeitura.sp.gov.br/restauro-de-casa- -de-Rino-levi-recuperou-integracao-a-cidade/>. Rino Levi. Enciclopédia Itaú Cultural de Arte e Cultura Brasileiras <http://enciclopedia.itaucultural.org.br/pessoa351575/Rino-levi>.
   - 'SEGAWA, Hugo. Prêmio APCA 2016: Luciano Brito Galeria – anti- ga Residência Castor Delgado Perez / Piratininga Arquitetos e outros. Categoria “Preservação de Patrimônio Moderno”. Drops, São Paulo, ano 17, n. 115.05, Vitruvius, abr. 2017 <http://www.vitruvius.com.br/re- vistas/read/drops/17.115/6492>.'
   - 'SOMEKH, Nadia. Patrimônio cultural em São Paulo: resgate do con- temporâneo? Arquitextos, São Paulo, ano 16, n. 185.08, Vitruvius, out. 2015 <http://www.vitruvius.com.br/revistas/read/arquitextos/16.185/5795>.'
   - 'SUAREZ, Maria Belen Fuentes. Intervenção em edificações pree- xistentes: o projeto de Lina Bo Bardi para o Sesc Fábrica da Pompeia. Dissertação de mestrado. São Paulo, FAU USP, 2016.'
   - 'VILLELA, Fábio Fernandes. Rino Levi – Hespéria nos Trópicos: A Ra- cionalização dos Processos de Trabalho em Escritórios de Arquitetura e a Interação entre Intelectuais, Estado Desenvolvimentista e a Industrializa- ção em São Paulo. Dissertação de mestrado. Campinas, Unicamp, 2003.'
   - '________. Rino Levi: Hespéria nos trópicos. Arquitextos, São Pau- lo, ano 06, n. 061.04, Vitruvius, jun. 2005 <http://www.vitruvius.com. br/revistas/read/arquitextos/06.061/452>.'
   - WOLFF, Silvia Ferreira Santos; ZAGATO, José Antonio Chinelato. A preservação do patrimônio moderno no Estado de São Paulo pelo Condephaat. Arquitextos, São Paulo, ano 17, n. 194.07, Vitruvius, jul. 2016 <http://www.vitruvius.com.br/revistas/read/arquitextos/17.194/6129>.
-
 - id: sdsp05-055
   title: 'Do Instituto do Professor Primário à Faculdade de Educação da USP: a modernidade paulista de Alcides Rocha Miranda'
   authors:
@@ -2522,13 +2468,12 @@ articles:
   - 'LIRA, José Tavares Correia de (org.). patrimônio construído da USP: preservação, gestão e memória. São Paulo, Edusp, 2014.'
   - PUHL, Liege Sieben. Alcides da Rocha Miranda, projetos e obras (1934-1997). Orientador Carlos Comas. Dissertação de mestrado. Por- to Alegre, UFRGS, 2010.
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, Edusp, 1997.
-  - ________. Moderno peregrino educador. AU - Arquitetura e Urba- nismo, n. 80, São Paulo, 1988.
+  - ________. Moderno peregRino educador. AU - Arquitetura e Urba- nismo, n. 80, São Paulo, 1988.
   - SERAPIÃO, Fernando. Reis e o dois de espadas. Projeto Design, n. 352, São Paulo, 2009.
   - 'SIMÕES, João Roberto Leme. Arquitetura na Cidade Universitária Armando de Salles Oliveira: o espaço construído. Orientador Ariosto Mila. Dissertação de mestrado. Sào Paulo, FAU USP, 1984.'
   - 'SUZUKI, Juliana. Artigas e Cascaldi: arquitetura em Londrina. São Paulo, Ateliê Editorial, 2003.'
   - TAKIYA, André. Edif 60 anos de arquitetura pública. Orientador Syl- vio de B. Sawaya. Dissertação de mestrado, São Paulo, FAU USP 2009.
   - TEIXEIRA, Anísio.
-
 - id: sdsp05-056
   title: 'Planetário e Escola Municipal de Astrofísica Professor Aristóteles Orsini: memorial'
   authors:
@@ -2575,7 +2520,6 @@ articles:
   - XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura moderna paulistana. São Paulo, PINI, 1983.
   - ZEIN, Ruth Verde. Escola Municipal de Astrofísica <http:// www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%20 1957-25/1957-25fichatecnica.htm>.
   - ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista 1953- 1973. Tese doutorado. Porto Alegre, FA-UFRGS, 2005.
-
 - id: sdsp05-057
   title: 'Potentials for Surgical Urbanism: A Case Study for Downtown São Paulo'
   authors:
@@ -2596,7 +2540,6 @@ articles:
   - Obsolescence
   - Reoccupation
   - Bottom-up Urbanism
-
 - id: sdsp05-058
   title: 'Patrimônio moderno recuperado: restauração da Casa da Criança em Londrina PR'
   authors:
@@ -2630,7 +2573,6 @@ articles:
   - GOUTHIER, Juliana. Estratégia contra a guerra. O Tempo, Belo Horizonte, 05 jul. 2013 <http://www.otempo.com.br/opini%C3%A3o/ juliana-gouthier/estrat%C3%A9gia-contra-a-guerra-1.676473>.
   - PASSONE, Eric Ferdinando; PEREZ, José Roberto Rus. Políticas Sociais de Atendimento às Crianças e aos Adolescentes no Brasil. Cadernos de Pesquisa, v.40, n.140, maio/ago. 2010, p. 649-673. Memorial Descritivo da Casa da Criança. Londrina, Prefeitura Mu- nicipal de Londrina, 1954.
   - 'SUZUKI, Juliana Harumi. Artigas e Cascaldi: arquitetura em Lon- drina. Cotia, Ateliê Editorial, 2003. VIOLLET-LE-DUC, Eugène Emmanuel. Restauração. Cotia, Ateliê Editorial, 2000.'
-
 - id: sdsp05-059
   title: 'Intervenções radicais: a importância da discussão sobre preservação e transformação do patrimônio cultural'
   authors:
@@ -2673,7 +2615,6 @@ articles:
   - MARÍAS, Julián. História da Filosofia. São Paulo, Martins Fontes, 2004.
   - 'PER, Aurora Fernández; MOZAS, Javier. Reclaim: remediate, reu- se, recycle. Vitoria-Gasteiz, A+T Architecture Publishers, 2012. SOLÀ-MORALES, Ignasi de. Do contraste à analogia: novos des- dobramentos do conceito de intervenção arquitetônica. In NESBITT, Kate (org.). Uma nova agenda para a arquitetura. São Paulo, Cosac Naify, 2006.'
   - WOODS, Lebbeus. War and architecture. In Pamphlet Architectu- re 15. New York, Princeton Architectural Press, 1993.
-
 - id: sdsp05-060
   title: Moderno vintage
   authors:
@@ -2700,7 +2641,6 @@ articles:
   references:
   - 'COMAS, Carlos Eduardo. Ruminações Recentes: Reforma, Reci- clagem, Restauro. Summa+, n. 115, Buenos Aires, jun. 2011. Monolito, n. 19, São Paulo, fev./mar. 2014.'
   - 'PEIXOTO, Marta. In COMAS, Carlos Eduardo; PEIXOTO, Marta Sil- veira; MARQUES, Sergio Moacir (org). O moderno já passado, o pas- sado no moderno: reciclagem, requalificação, rearquitetura. Porto Ale- gre, Editora UniRitter, 2009.'
-
 - id: sdsp05-061
   title: A requalificação de edifícios de escritórios obsoletos no centro histórico de São Paulo
   authors:
@@ -2738,7 +2678,6 @@ articles:
   - 'TASCHNER, Suzana Pasternak. Política Habitacional no Brasil: Retrospectiva e Perspectivas. Cadernos de Pesquisa do LAP, São Pau- lo, FAU USP, out. 1997.'
   - TOGNON, Marcos. Arquitetura Italiana no Brasil – A obra de Mar- cello Piacentini. Campinas, Editora da Unicamp, 1999.
   - TOLEDO, Benedito Lima de. Pestes Mais e as origens do urbanis- mo moderno em São Paulo. São Paulo, Empresa das Artes, 1996.
-
 - id: sdsp05-062
   title: 'Preservação de arquitetura moderna: restauro da Sede do Instituto de Arquitetos do Brasil, Departamento de São Paulo'
   authors:
@@ -2781,7 +2720,6 @@ articles:
   - MINDLIN, Henrique E. Arquitetura moderna no Brasil. São Paulo, Aeroplano, 1999.
   - OKSMAN, Silvio. Contradições na preservação da arquitetura mo- derna. Tese de doutorado. São Paulo, FAU USP, 2017.
   - RIBEIRO, Ubirajara. Painel para Sede do I.A.B. São Paulo. Acrópo- le, n. 341, São Paulo, jul. 1967, p. 38-39. 1080
-
 - id: sdsp05-063
   title: 'Up-Cycling as Method of Sustainable Transformation: Revisiting Sesc Pompeia'
   authors:
@@ -2801,7 +2739,6 @@ articles:
   - up-cycling intervention
   - Lina Bo Bardi
   - modern heritage
-
 - id: sdsp05-064
   title: 'Edifício Esther: o agente privado promovendo a identidade da metrópole'
   authors:
@@ -2838,7 +2775,6 @@ articles:
   - para o Sampaio Moreira” – 07/10/2008 <http://www.estadao.com.br/estadaodeho-
   - je/20081007/not_imp255156,0.php[/b][/i]>.
   - O eixo GESTÃO acolherá depoimentos, reflexões críticas e estu- dos referenciados sobre obras e/ou conjuntos arquitetônicos, urba- nos e paisagísticos ligados à arquitetura moderna paulista realizados nas décadas de 1920 a 1970 que, mantendo ou não seus usos origi- nais, suscitam questões relativas ao manejo, manutenção, visitação e valorização.
-
 - id: sdsp05-065
   title: 'Casa de Vidro: plano de conservação e gestão'
   authors:
@@ -2878,7 +2814,6 @@ articles:
   - LIMA, Zeuler R. M. Lina Bo Bardi. New Haven/London, Yale Uni- versity Press, 2013.
   - OLIVEIRA, Olívia de. Sutis substâncias da arquitetura de Lina Bo Bardi. São Paulo/Barcelona, Romano Guerra/GG, 2006.
   - 'TENTORI, Francesco. P.M. Bardi: com as crônicas artísticas do “L’Ambrosiano” 1930-1933. São Paulo, Imprensa Oficial do Estado de São Paulo/Instituto Lina Bo e P. M. Bardi, 2000.'
-
 - id: sdsp05-066
   title: 'Centro Cultural da Cidade de São Paulo: procedimentos de gestão do edifício'
   authors:
@@ -2908,7 +2843,6 @@ articles:
   - NASCIMENTO, Gislaine M. A representação do Lugar no Projeto de Arquitetura Pós-Moderno. São Paulo, Universidade São Judas Ta- deu, 2013. NORBERG-SCHULZ, Cristian. Intenciones en Arquitectura. Barce- lona, Gustavo Gili, 2008.
   - 'TELLES, Luiz. CCSP-Centro Cultural São Paulo: um projeto revisi- tado. São Paulo, Universidade Persbiteriana Mackenzie, 2002.'
   - 'ZEIN, Ruth Verde. Centro Cultural São Paulo: Percorrendo novas dimensões. Projeto, n. 58, São Paulo, 1983, p. 24-25. 1138'
-
 - id: sdsp05-067
   title: 'Edificar parques/parquear a cidade: uma reflexão sobre o processo de habitar a natureza urbana no final do século 20 a partir do Parc de la Villette e dois predecessores referenciais, o Parc des Buttes-Chaumont e o Parque Ibirapuera'
   authors:
@@ -2951,7 +2885,6 @@ articles:
   - TERRIN, Jean-Jacques. Jardins en Ville Villes en Jardin. Paris, Édi- tions Parenthèses, 2013.
   - TSCHUMI, Bernard. Tschumi Parc de la Villette. London, Artifice Books on Architecture. 2014.
   - TSCHUMI, Bernard. Architecture and Disjunction. Cambridge/ Massachusets, The MIT Press, 1999.
-
 - id: sdsp05-068
   title: 'Metrópole: construção, usos e preservação de um projeto moderno'
   authors:

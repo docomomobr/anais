@@ -2,20 +2,20 @@ issue:
   slug: sdsp06
   title: 6º Seminário Docomomo São Paulo, São Carlos, 2018
   subtitle: a Arquitetura Moderna paulista e a questão social
-  description: 'Anais do 6º Seminário Docomomo São Paulo: a arquitetura moderna paulista e a questão social. São Carlos: IAU/USP, 2018. 609 p. ISBN 978-85-66624-25-0. CDD 724.98161.'
   year: 2018
-  volume: 1
+  volume: 2
   number: 6
-  date_published: '2018-09-24'
   isbn: 978-85-66624-25-0
-  publisher: IAU/USP
+  publisher: Núcleo Docomomo São Paulo / IAU-USP
   editors:
   - Miguel Antonio Buzzar
   - Fernando Guillermo Vázquez Ramos
   - Paulo Yasuhide Fujioka
-  source: https://www.nucleodocomomosp.com.br/
+  volume_pdf: sdsp06_anais.pdf
+  description: '6° Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. Disponível também em: www.nucleodocomomosp.com.br/6-seminario. ISBN: 978-85-66624-25-0.'
+  source: https://www.nucleodocomomosp.com.br/6-seminario
+  date_published: '2018-09-24'
 articles:
-
 - id: sdsp06-001
   title: Arquitetura Moderna e seu olhar sobre os ambientes de ensino
   authors:
@@ -48,7 +48,6 @@ articles:
   - 'REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo: Perspectiva, 1987. P. 211.'
   - 'VIÑAO FRAGO, A.; ESCOLANO, A. Currículo, espaço e subjetividade: a ar- quitetura como programa. Tradução de Alfredo Veiga Neto. Rio de Janeiro: DP&A, 1998.'
   - 34 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-002
   title: As escolas do Convênio Escolar e as transformações urbanas em São Paulo, 1949-1954
   authors:
@@ -97,10 +96,9 @@ articles:
   - 'TEIXEIRA, Anísio. Educação Progressiva: uma introdução à filosofia da edu- cação. 2ª ed. São Paulo: Cia. Editora Nacional, 1954.'
   - TEIXEIRA, Anísio. Um presságio do progresso. Acrópole, São Paulo, n. 4, p.02, 1951.
   - SEGAWA, Hugo. Arquiteturas no Brasil/ Anos 80. São Paulo, Projeto, 1988.
-  - '______. Helio Duarte: Moderno, peregrino, educador. Arquitetura & Urbanis- mo, São Paulo, n.80, out./nov., 1998.'
+  - '______. Helio Duarte: Moderno, peregRino, educador. Arquitetura & Urbanis- mo, São Paulo, n.80, out./nov., 1998.'
   - 'VIDOTTO, Taiana Car. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no estado de São Paulo: 1948- 1962. Dissertação (mestrado), Faculdade de Engenharia Civil, Arquitetura e Urbanismo/Unicamp, 2014.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 47
-
 - id: sdsp06-003
   title: 'Concepção de um acampamento escolar: a práxis popular materializada'
   authors:
@@ -136,7 +134,6 @@ articles:
   - 'SECRETARIA DE EDUCAÇÃO, CULTURA E SAÚDE DE NATAL. Cultura popu- lar e pé no chão. Natal: I Encontro de Alfabetização e Cultura Popular, 1963. Disponível em <http://www.dhnet.org.br/educar/penochao/relatorio_1963_ campanha_pe_no_chao.pdf>. Acesso em 04 abr. 2017.'
   - 'SOUZA, Diego Beja Inglez de. Reconstruindo Cajueiro Seco: Arquitetura, po- lítica social e cultura popular em Pernambuco (1960-64). 2008. 276 f. Disser- tação (Mestrado em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo. São Paulo.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 61 62 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-004
   title: 'A escola moderna enquanto potência do direito à cidade: estudo de caso da EE Conselheiro Crispiniano'
   authors:
@@ -180,7 +177,6 @@ articles:
   - TELLES, Sophia. Museu da Escultura. AU. Arquitetura e Urbanismo, São Pau- lo, n. 32, p. 44-51, out.-nov. 1990.
   - ZEIN, Ruth Verde. A Obra do Arquiteto. Projeto, nº 66, p. 79-91, agosto 1984.
   - 76 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 77
-
 - id: sdsp06-005
   title: 'Difusão da Arquitetura Moderna no interior paulista. Caso de estudo: escola Antonio Adolfo Lobbe em São Carlos (1961)'
   authors:
@@ -220,7 +216,6 @@ articles:
   - '_________. Mensagem apresentada pelo Governador Carlos Alberto A. de Carvalho Pinto à Assembleia Legislativa do Estado de São Paulo em 14 de março de 1961.São Paulo: Imprensa Oficial,Vol 2.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp.1999.'
   - 92 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 93 94 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-006
   title: 'Arquitetura Moderna e Fotografia: velando e revelando a FAU-USP de Vilanova Artigas'
   authors:
@@ -255,7 +250,6 @@ articles:
   - 'ROSSI, Antonio Carlos. O edifício da FAU-USP de Vilanova Artigas. São Pau- lo: Editora da Cidade, 2016.'
   - 'VIEIRA, César Bastos de Mattos. A fotografia na percepção da arquitetura. Tese de Doutorado, Universidade federal do Rio Grande do Sul, Faculdade de arquitetura. Porto Alegre: 2012.'
   - 110 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-007
   title: 'Eduardo Kneese de Mello: gestão e organização da coleção iconográfica'
   authors:
@@ -293,7 +287,6 @@ articles:
   - 'KOSSOY, Boris. Fotografia e História. São Paulo: Atica,1989.'
   - 132 6º SEMINÁRIO SP DOCOMOMO ACERVOS Acervo Eduardo Kneese de Mello – Biblioteca de Obras Raras, Paulo Antonio Cardim Acervo pessoal de Aline Nassaralla Regino.
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 133
-
 - id: sdsp06-008
   title: 'Um panorama da Arquitetura Moderna natalense: o caso dos edifícios verticais (anos 1960 e 1970)'
   authors:
@@ -333,7 +326,6 @@ articles:
   - 'TARALLI, C. H.; CAMPELO, M. Arquitetura Moderna no Campus da UFC.. In: Fernando Diniz Moreira. (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1 ed. Recife: FASA, 2007, v. 1, p. 303-320)'
   - 'TRIGUEIRO, Edja. MEDEIROS, Valério A. S. Of dwellings and streets that connect: a brief honey-moon. Anais do ISUF 2007 -International Seminar on Urban Form. Ouro Preto, 2007.'
   - 144 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 145 146 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 147 148 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-009
   title: A parte e o todo na Arquitetura Moderna no Brasil
   authors:
@@ -386,7 +378,7 @@ articles:
   - 'MONEO, Rafael. Inquietação teórica e estratégia projetual na obra de oito arquitetos contemporâneos. São Paulo: Cosac Naify, 2008.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 165
   - 'NAVES, Rodrigo. A forma difícil. São Paulo: Companhia das Letras, 2011.'
-  - NOBRE, Ana Luiza. Como se fosse fácil. Blog do Instituto Moreira Salles. Postado em 06/12/2012. http://blogdoims.com.br/ims/oscar-niemeyer-como- -se-fosse-facil-por-ana-luiza-nobre
+  - NOBRE, Ana Luiza. Como se fosse fácil. Blog do Instituto Moreira Salles. Postado em 06/12/2012. http://blogdoims.com.br/ims/oscar-Niemeyer-como- -se-fosse-facil-por-ana-luiza-nobre
   - 'PHILIPPOU, Styliane. Oscar Niemeyer: curves of irreverence. Londres: Yale University Press, 2008.'
   - 'PISANI, Daniele. Paulo Mendes da Rocha: obra completa. São Paulo: Gus- tavo Gili, 2013.'
   - 'SCULLY, Vincent. Arquitetura Moderna. São Paulo: Cosac Naify, 2002.'
@@ -401,7 +393,6 @@ articles:
   - 'WISNIK, Guilherme. Formalismo e Tradição: a arquitetura moderna brasileira e sua recepção crítica. Dissertação de Mestrado. FFLCH-USP: São Paulo, 2003.'
   - 'XAVIER, Alberto (org.). Depoimentos de uma geração. São Paulo: Cosac Nai- fy, 2003.'
   - 166 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 167 168 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-010
   title: 'Edifício Germaine: morar moderno em três tempos'
   authors:
@@ -433,7 +424,6 @@ articles:
   - MONTEIRO. Ana Carla de Castro Alves. Os hotéis da Metrópole - O contexto histórico e urbano da cidade de São Paulo através da produção arquitetôni- ca hoteleira (1940 – 1960). Tese de Doutorado, São Paulo, 2006.
   - 'RIBEIRO, A. J. C.. Edifícios Modernos e o centro histórico de São Paulo: difi- culdades de textura e forma. Tese de Doutorado, São Paulo, FAUUSP, 2010.'
   - 182 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-011
   title: 'Entre a teoria e a prática: Eduardo Kneese de Mello e as diferentes formas de morar'
   authors:
@@ -471,7 +461,6 @@ articles:
   - PINHEIRO, Maria Lucia Bressan. Modernizada ou Moderna? A Arquitetura em São Paulo, 1938-1945.Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Pau- lo, 1997.
   - SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 197
-
 - id: sdsp06-012
   title: O parque Novo Santo Amaro V, uma intervenção moderna na periferia de São Paulo
   authors:
@@ -500,7 +489,6 @@ articles:
   - 'HEUVEL, D., RISSELAD, M., Looking into the mirror of Team 10. Dis- ponível em: http://www.team10online.org/. Acesso em 26/06/2018.'
   - 'VIGLIECCA, H.; Desenvolvimento Urbano. Aula ministrada em 08/05/2014 na Escola da Cidade. Disponível em: http://escoladaci- dade.org/bau/hector-vigliecca-desenvolvimento-urbano/. Acesso em 26/06/2018. Projeto de Golden Lane. Autores: Allisson e Peter Smithson. Crono- logia do Pensamento Urbanístico. Revista eletrônica UFBA. Dispo- nível em: http://www.cronologiadourbanismo.ufba.br/apresentacao. php?idVerbete=11. Acesso em 26/06/2018. Projeto Parque Novo Santo Amaro V. Autor: Hector Vigliecca. Dispo- nível em: https://www.archdaily.com.br/br/623191/residencial-par- que-novo-santo-amaro-v-slash-vigliecca-and-associados/53ac22d- 7c07a80af89000002-novo-santo-amaro-v-park-housing-vigliecca-an- d-associados-photo. Acesso 26/06/2018.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 211 212 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-013
   title: IAPC Cidade Jardim e as modernas formas de morar
   authors:
@@ -533,7 +521,6 @@ articles:
   - SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1999.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 227
-
 - id: sdsp06-014
   title: 'Casas no sertão: Arquitetura residencial de Joaquim Guedes em Caraíba-BA'
   authors:
@@ -560,7 +547,6 @@ articles:
   - GUEDES, Joaquim. Um projeto e seus caminhos. Tese de Livre Docência - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo –
   - FAUUSP, São Paulo, julho de 1981.
   - 238 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 239 240 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-015
   title: 'Lina e Bratke: modos de morar dos arquitetos modernos em São Paulo'
   authors:
@@ -591,16 +577,15 @@ articles:
   - 254 6º SEMINÁRIO SP DOCOMOMO rumbi. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v. 24, n. 44, p. 44-67, 2017.
   - 'DOURADO, Guilherme Mazza; SEGAWA, Hugo. Oswaldo Arthur Bratke. São Paulo: ProEditores, 1997.'
   - 'FERRAZ, Marcelo Carvalho (Org.). Lina Bo Bardi: Casa de vidro. The glass house. São Paulo: Iphan: Sesc SP, 2015.'
-  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Residência no Morumbi / Os- waldo Bratke. Archdaily, fev. 2014. Disponível em: http://www.archdaily.com. br/br/01-172440/classicos-da-arquitetura-residencia-no-morumbi-slash-os- waldo-bratke. Acesso em: 28 abr. 2018.'
+  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Residência no Morumbi / Os- waldo Bratke. Archdaily, fev. 2014. Disponível em: http://www.archdaily.com. br/br/01-172440/classicos-da-arquitetura-residencia-no-morumbi-slash-os- waldo-Bratke. Acesso em: 28 abr. 2018.'
   - 'GIOIA, Mario. Gregori Warchavchik. Um dos pioneiros da moderna ar- quitetura brasileira. Resenhas Online, São Paulo, ano 10, n. 113.01, mai. 2011. Disponível em: http://www.vitruvius.com.br/revistas/read/resenhason- line/10.113/3929. Acesso em: 28 abr. 2018.'
   - 'MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeropla- no, 2000.'
   - 'REIS, Nestor Goulart. São Paulo: vila, cidade, metrópole. São Paulo: Prefeitu- ra de São Paulo, 2004.'
   - 'RUBINO, Silvana; GRINOVER, Marina. Lina por escrito: textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.'
   - 'SEGAWA, Hugo M. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1998.'
-  - 'SOLOT, Denise Chini. Paulo Mendes da Rocha: estrutura, o êxito da forma. Rio de Janeiro: Viana & Mosley, 2004.'
+  - 'SOLOT, DeNise Chini. Paulo Mendes da Rocha: estrutura, o êxito da forma. Rio de Janeiro: Viana & Mosley, 2004.'
   - 'VERÍSSIMO, Francisco Salvador; BITTAR, William SM. 500 anos da casa no Brasil: as transformações da arquitetura e da utilização do espaço de mora- dia. Rio de Janeiro: Ediouro, 1999.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 255 256 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-016
   title: Como vai Antônio!
   authors:
@@ -634,7 +619,6 @@ articles:
   - 'RYKWERT, Joseph. The Dancing Column. Cambridge, Mass./London: The MIT Press, 1996.'
   - 'TERRES DE FEMMES. 31 mai 1933. Conférence d’Auguste Perret. Dispo- nível em: http://terresdefemmes.blogs.com/mon_weblog/2006/05/31_mai_ 1933conf.html. Acesso em 22 jun. 2018.'
   - 270 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 271
-
 - id: sdsp06-017
   title: Esporádicas intuições. A Arquitetura residencial paulista nas revistas italianas (1930-1960) — considerações à margem
   authors:
@@ -653,7 +637,6 @@ articles:
   - Movimento Moderno
   - Arquitetura paulista e italiana
   - Habitação
-
 - id: sdsp06-018
   title: 'As residências para classe média paulistana dos anos 1960: uma obra do arquiteto Mario Mauro Graziosi'
   authors:
@@ -691,7 +674,6 @@ articles:
   - 'SAIA, Luiz. Morada paulista. 3. ed. São Paulo: Perspectiva, 2012.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. São Paulo: Editora da Universidade de São Pau- lo, 2015.'
   - 302 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 303 304 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-019
   title: 'Popconcreto e a Casa Berquó: a influência das propostas de Waldemar Cordeiro na obra de Vilanova Artigas'
   authors:
@@ -719,12 +701,11 @@ articles:
   - 'CORDEIRO, Waldemar. Realismo: musa da vingança e da tristeza. Habitat, São Paulo, n. 83, p. 45- 48, maio-jun. 1965.'
   - 'COSTA, Helouise. Waldemar Cordeiro: a ruptura como metáfora. In: PONTES, Helouise (curadora). Waldemar Cordeiro e a fotografia. São Paulo: Cosac & Naif, Centro Cultural Maria Antônia USP, 2002. p.10-36'
   - 'GATTI, Luciano. Walter Benjamin e o Surrealismo: escrita e iluminação profa- na. Artefilosofia, Ouro Preto, n.6, p. 74-94, abr.2009.'
-  - 'LOWY, Michael. Walter Benjamin e o surrealismo: história de um encanta- mento revolucionário. In: LOWY, Michael. Estrela da manhã: surrealismo e marxismo. Rio de Janeiro: Civilização brasileira, 2002. p.37-54'
+  - 'LOWY, Michael. Walter Benjamin e o surrealismo: história de um encanta- mento revoLucionário. In: LOWY, Michael. Estrela da manhã: surrealismo e marxismo. Rio de Janeiro: Civilização brasileira, 2002. p.37-54'
   - 'KATINSKY, Julio Roberto. Vilanova Artigas invenção de uma arquitetura. In: Vilanova Artigas (catálogo de exposição). São Paulo: Instituto Tomie Othake, 2003. p. 25-83'
   - NUNES, Fabricio Vaz. Waldemar Cordeiro da arte concreta ao popcreto. Dis- sertação (mestrado Departamento de História) – Instituto de Filosofia e Ciên- cias Humanas Universidade Estadual de Campinas, 2004
-  - 'ZEIN, Ruth Verde. Artigas Pop-Cult: considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira. Comunicação apresentada ao III Seminário DOCOMOMO SUL, Porto Alegre, e publicada nos Anais do evento, 2010. Disponível em: <https://bibliodarq.files.wordpress.com/2012/10/zein-r- -v-artigas-pop-cult.pdf>.'
+  - 'ZEIN, Ruth Verde. Artigas Pop-Cult: considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira. Comunicação apresentada ao III Seminário DOCOMOMO SUL, Porto Alegre, e publicada nos Anais do evento, 2010. Disponível em: <https://bibliodarq.files.wordpress.com/2012/10/zein-r- -v-Artigas-pop-cult.pdf>.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 317 318 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-020
   title: Casa Ninca Bordano, uma abóbada na rua das jabuticabeiras
   authors:
@@ -754,7 +735,7 @@ articles:
   - 332 6º SEMINÁRIO SP DOCOMOMO
   - 'BASTOS, Maria; ZEIN, Ruth. Brasil: Arquitetura após 1950. São Paulo: Perspectiva, 2015.'
   - 'BRANDI, Cesare. Teoria da restauração. Trad. Beatriz Mugayar Kühl. Cotia, SP: Ateliê Editorial, 2004.'
-  - '____________.Teoria del restauro. Torino: Giuliu Einaudi Editore s.p.a., 2000.'
+  - '____________.Teoria del restauro. ToRino: Giuliu Einaudi Editore s.p.a., 2000.'
   - '____________. Il Restauro. Teoria e Pratica. Roma: Editori Riuniti, 1994.'
   - 'DUSCHENES, Ronaldo. Ronaldo Duschenes: depoimento [jun. 2018]. Entre- vistadores: Bárbara Garcia e Brunna Heine. São Paulo, 2018. 1 arquivo .m4a (73 min.).'
   - 'KOURY, Ana Paula. Grupo Arquitetura Nova: Flávio Império, Rodrigo Lefèvre e Sérgio Ferro. São Paulo: Romano Guerra Editora: Editora da Universidade de São Paulo: FAPESP, 2003. – (Coleção olhar arquitetônico; v 1)'
@@ -769,7 +750,6 @@ articles:
   - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre: PROPAR-UFRGS, 2005. Tese de doutoramento orientada por Carlos Eduardo Dias Comas.'
   - 'ZEIN, Ruth Verde; SANTOS, Cecília Rodrigues. Rápidas considerações so- bre a preservação das ruínas da modernidade. Arquitextos, São Paulo, ano 12, n. 135.00, jul. 2011. Disponível em: http://www.vitruvius.com.br/revistas/ read/arquitextos/12.135/3997. Acesso em: 18 jun. 2018.'
   - 334 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 335 336 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-021
   title: 'Edifício Gemini: construção formal e tectonicidade de um protótipo de habitação coletiva'
   authors:
@@ -797,7 +777,6 @@ articles:
   - MAHFUZ, Edson da Cunha. Reflexões sobre a construção da forma perti- nente (1). Arquitextos 045, 2004. Disponível em <http://www.vitruvius.com.br/ arquitextos/arq045/arq045_02.asp>. Acesso em maio de 2018.
   - 'PIÑÓN, Helio. La forma y la mirada. Buenos Aires: Nobuko, 2005.'
   - 348 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 349
-
 - id: sdsp06-022
   title: 'Verticalização em São Paulo: novos modos de morar no centro'
   authors:
@@ -829,9 +808,8 @@ articles:
   - PETRONE, Pasquale. A cidade de São Paulo no séc. XX. Revista de História
   - USP. São Paulo. vol. 10, n. 21/22, 1955.
   - 'SOMEKH, Nadia. A cidade vertical e o urbanismo modernizador. São Paulo: Editora Mackenzie, Romano Guerra, 2014.'
-  - 'XAVIER, Denise. Arquitetura Metropolitana. São Paulo: Editora Annablume, 2007.'
+  - 'XAVIER, DeNise. Arquitetura Metropolitana. São Paulo: Editora Annablume, 2007.'
   - 364 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 365 366 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-023
   title: 'O uso da abóbada na tipologia residencial: obras de Rodrigo Lefrève e Sérgio Ferro'
   authors:
@@ -871,7 +849,6 @@ articles:
   - 'SEMPER, Gottfried. The four elements of architecture: a contribution to the comparative study of architecture. In: SEMPER, Gottfried. The four elements of architecture and other writings. Cambridge; Nova York: Cambridge Univer- sity Press, 1989.'
   - 'LINO, Sulamita Fonseca. A Obra de Eládio Dieste: flexibilidade e autono- mia na produção arquitetônica. Arquitextos, São Paulo, ano 08, n. 096.04, maio 2008. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitex- tos/08.096/142. Acesso em: 20 jun. 2018.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 381 382 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-024
   title: 'Arquitetura Moderna em diálogo: Jorge Caron e Luiz Gastão de Castro Lima'
   authors:
@@ -912,7 +889,6 @@ articles:
   - 'SEGAWA, H. Arquiteturas no Brasil – 1900-1990. São Paulo: EDUSP, 1998'
   - 'VIDOTTO, T. C. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no Estado de São Paulo: 1948 - 1962. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Engenharia Civil, Arquitetura e Urbanismo, Unicamp, Campinas, 2014.'
   - 398 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 399 400 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-025
   title: O edifício da FAU-USP – projeto e discurso dos vazios
   authors:
@@ -960,7 +936,6 @@ articles:
   - WEBER, Raquel. A linguagem da estrutura na obra de Vilanova Artigas. 2005. Dissertação (Mestrado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.
   - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Tese (Doutorado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.
   - 414 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 415
-
 - id: sdsp06-026
   title: O edifício da universidade São Judas Tadeu
   authors:
@@ -996,7 +971,6 @@ articles:
   - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 2009.'
   - 'LYOTARD, J.F. A condição pós-moderna. Rio de Janeiro: José Olympio, 2009.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 431 432 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-027
   title: O edifício da FAU Santos (1973 – 1976)
   authors:
@@ -1039,7 +1013,6 @@ articles:
   - 'SILVA, Joana Mello de Carvalho e. Um acervo, uma coleção e três problemas: a Coleção Jacques Pilon da Biblioteca da FAUUSP. Anais do Museu Paulista, São Paulo, v. 24, n. 3, p. 45-70, Dec. 2016. Disponível em: http://www.scielo.br/scie- lo.php?script=sci_arttext&pid=S0101-47142016000300045&lng=en&nrm=i- so. Acesso em: 21 Maio 2018.'
   - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 193-1973. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Univer- sidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
   - 446 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 447 448 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-028
   title: A qualidade espacial nas áreas comunitárias de dois conjuntos habitacionais
   authors:
@@ -1068,7 +1041,6 @@ articles:
   - 'LYNCH, Kevin. The Image of City. Cambridge: MIT Press, 1960.'
   - SANVITTO, Maria Luiza Adams. Habitação coletiva econômica na arquitetura moderna brasileira entre 1964 e 1986. Tese (Doutorado em Arquitetura) – Fa- culdade de Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010.
   - 462 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-029
   title: 'O Parque Ibirapuera: monumentalidade e Modernismo'
   authors:
@@ -1096,7 +1068,7 @@ articles:
   - DIERBERGER, Reynaldo. O Parque Municipal do Ibirapuera, em São Paulo. Revista Architectura e Construções. ,jun., v.1, n. 11, 1930, p. 34.
   - 'FARIAS, Nuri. Oca. Galeria da Arquitetura, 2016. Disponível em: https://www. galeriadaarquitetura.com.br/projeto.aspx?idProject=2511&escritorio=mm-'
   - '474 6º SEMINÁRIO SP DOCOMOMO bb-arquitetos_&projeto=oca. Acesso em: 24 mar 2018.'
-  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Pavilhão Ciccillo Matarazzo / Oscar Niemeyer. Arch daily, 2011. Disponivel em: https://www.archdaily.com. br/br/01-14551/classicos-da-arquitetura-pavilhao-ciccillo-matarazzo-oscar- -niemeyer. Acesso em: 24 mar. 2018.'
+  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Pavilhão Ciccillo Matarazzo / Oscar Niemeyer. Arch daily, 2011. Disponivel em: https://www.archdaily.com. br/br/01-14551/classicos-da-arquitetura-pavilhao-ciccillo-matarazzo-oscar- -Niemeyer. Acesso em: 24 mar. 2018.'
   - 'FREITAS, Pedro Murilo Gonçalves de; TIRELLO, Regina Andrade. Recupera- ção do Palácio da Agricultura de Oscar Niemeyer: uma obra entre os previs- tos “imprevistos” do patrimônio moderno. Oculum Ensaios, Campinas, 10(1), Janeiro-Junho 2013, p. 87-98.'
   - 'HIRATA, Elaine Farias Veloso. Monumentalidade e representações do poder tirânico no Ocidente grego. in: CORNELLI, Gabriele (org.). Representações da cidade antiga: categorias históricas e discursos filosóficos. Coimbra: Im- prensa da Universidade de Coimbra, 2012. IV CENTENÁRIO da Fundação de São Paulo: O parque Ibirapuera. _ Revista do Instituto de Engenharia_. São Paulo: Vol.XI, n.131 jun. 1953, p.392-393.'
   - 'MACEDO, Wesley; ESCOBAR, Miriam. A concretização da imagem do IV Centenário da cidade de São Paulo: o Parque do Ibirapuera. Arquitextos. São Paulo, ano 05, n. 057.11, Vitruvius, fev. 2005. Disponível em: http://www.vitru- vius.com.br/revistas/read/arquitextos/05.057/507. Acesso em: 18 mar 2018.'
@@ -1113,7 +1085,6 @@ articles:
   - 'SERT, J. L.; LEGER, F.; GIEDION, S. Nine points of monumentality. In: GIE-'
   - 'DION, S. Architecture you and me. Cambridge: Harvard University Press, Massachusetts, 1943.'
   - 476 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 477
-
 - id: sdsp06-030
   title: 'Clubes privados, desenho e cidade dos anos 1960: o caso da sociedade Harmonia de Tênis em São Paulo'
   authors:
@@ -1175,7 +1146,6 @@ articles:
   - 'XAVIER, Alberto (org.). Depoimento de uma geração – arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003.'
   - 'ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese de doutorado. Porto Alegre: FAU-UFRGS, 2005.'
   - 492 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 493
-
 - id: sdsp06-031
   title: 'A Casa do Povo brasileiro: o pavilhão do Brasil em Osaka, 1970'
   authors:
@@ -1225,7 +1195,6 @@ articles:
   - 'TAFURI, Manfredo. La esfera y el laberinto — Vanguardias y arquitectura de Piranesi a los años 70, Barcelona: Gustavo Gili, 1984.'
   - VILLAC, M. I. “La construcción de la mirada. Naturaleza, Ciudad y Disucrso en la Arquitectura de Paulo Archias Mendes da Rocha”, Tese (Doutorado em Teoria e História da Arquitetura). Escuela Técnica Superior de Arquitectura de Barcelona, UPC, Barcelona, 2002.
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 507 508 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-032
   title: 'Arquitetura, cinema e sociedade: o cinema de rua'
   authors:
@@ -1259,7 +1228,6 @@ articles:
   - 'SIMÕES, Inimá Ferreira. Salas de cinema em São Paulo. São Paulo: Secreta- ria Municipal de Cultura: PW: Secretaria de Estado da Cultura, 1990. 168 p.'
   - TAPETE VERMELHO. Direção e roteiro Luiz Alberto Pereira. São Paulo, 2006. DVD (102 min).
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 527 528 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-033
   title: 'A introdução da Arquitetura Moderna nos teatros de São Paulo: o projeto de Roberto Tibau para o Teatro Paulo Eiró'
   authors:
@@ -1290,7 +1258,7 @@ articles:
   - 'BRASIL. Decreto-Lei nº 7.918, de 31 de agosto de 1945. Presidência da República. Disponível em: <http://www2.camara.leg.br/legin/fed/de- clei/1940-1949/decreto-lei-7918-31-agosto-1945-417265-publicacaooriginal- -1-pe.html>. Acesso em 18 jun. 2018.'
   - 'BRASIL. Decreto-Lei nº 8.529, de 2 de janeiro de 1946. Lei Orgânica do Ensino Primário. Presidência da República. Disponível em: <http://www2.camara.leg. br/legin/fed/declei/1940-1949/decreto-lei-8529-2-janeiro-1946-458442-publi- cacaooriginal-1-pe.html>. Acesso em 20 jun. 2018.'
   - 'FUNDAÇÃO CLÓVIS SALGADO. História In: Portal da Fundação Clóvis Sal- gado, atualizado em 16 dez. 2016. Disponível em: <http://www.fcs.mg.gov. br/index.php?option=com_gmg&view= page&id=2601&controller=page&I- temid=1147>. Acesso em 20 jun. 2018.'
-  - 'FUNDAÇÃO OSCAR NIEMEYER. Teatro Municipal de Belo Horizonte (1941) Disponível em: <http://www.niemeyer.org.br/obra/pro014> Acesso em 20 maio 2018.'
+  - 'FUNDAÇÃO OSCAR NIEMEYER. Teatro Municipal de Belo Horizonte (1941) Disponível em: <http://www.Niemeyer.org.br/obra/pro014> Acesso em 20 maio 2018.'
   - 'CARRANZA, Edite Galote; CARRANZA, Ricardo. Documento Roberto José Goulart Tibau. In: AU - Revista Arquitetura e Urbanismo. São Paulo: v. 103, p 89-95, 2002.'
   - 'PEREIRA, Miguel Alves; SAWAYA, Silvio Barros. Registro do Pensamento e da Produção dos Arquitetos da FAUUSP, nos últimos 25 anos. São Paulo: Cadernos de Arquitetura FAUUSP, 2001 REVISTA SMENA Дворец советов - величайшее здание мира (O Palácio dos Conselhos é o maior edifício do mundo, trad. nossa) Moscow: Revista Smena, 1930. Publicada por Paolo Gesell, 19 jul. 2016. Disponível em: &lt;https://cont.ws/@paolo/322298&gt; Acesso em 01 jun. 2018 SÃO PAULO (Município). Resolução nº 29/92. Prefeitura do Município de São Paulo, Secretaria Municipal de Cultura. Departamento do Patrimônio Históri-'
   - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 541 co. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Disponível em: <http://www.prefeitura. sp.gov.br/cidade/upload/fb463_29_T_Teatros_Municipais.pdf>. Acesso em: 14 jun. 2018. SÃO PAULO (Município). Resolução nº 21/2014, de 02 de setembro de 2014. Prefeitura do Município de São Paulo, Secretaria Municipal de Cultura. De- partamento do Patrimônio Histórico. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Dispo- nível em: <http://www.infopatrimonio.org/wp-content/uploads/2017/04/EEAl- bertoConte-conpresp.pdf>. Acesso em: 28 jun. 2018. SANDERVILLE Junior, Euler. A arquitetura dos teatros distritais da Prefeitura do Município de São Paulo. São Paulo: Secretaria Municipal da Cultura, jan- -fev. 1986, cópia'
@@ -1300,7 +1268,6 @@ articles:
   - 'TAKIYA, André. Edif 60 anos de Arquitetura Pública. Dissertação de Mes- trado, São Paulo: FAUUSP, 2009. Disponível em: www.teses.usp.br/teses/ disponiveis/16/16138/tde-10052010-141328/.../2_edif60.pdf Acesso em 20 jun. 2018.'
   - 'TEATRO PAULO EIRÓ. In: Prefeitura de São Paulo, Secretaria Municipal de Cultura, 28 set. 2015. Disponível em: http://www.prefeitura.sp.gov.br/cidade/ secretarias/cultura/dec/teatros /paulo_eiro/index.php?p=7307>. Acesso em 10 jun. 2018.'
   - 542 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 543
-
 - id: sdsp06-034
   title: Duas obras contemporâneas de dois arquitetos modernos. Oscar Niemeyer e Paulo Mendes da Rocha no século XXI
   authors:
@@ -1338,7 +1305,6 @@ articles:
   - 'WISNIK, Guilherme. Disposições espaciais. In : MILHEIRO, Ana Vaz ; NO-'
   - 'BRE, Ana Luiza ; WISNIK, Guilherme. Coletivo – arquitetura paulista contem- porânea. São Paulo : Cosac Naify, 2006, p. 170-180.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 557 558 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-035
   title: 'Dos preceitos às práticas de preservação no patrimônio arquitetônico moderno: o caso da Biblioteca Mário de Andrade'
   authors:
@@ -1381,7 +1347,6 @@ articles:
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 579
   - 'ZEIN, Ruth Verde; DI MARCO, Anita. Paradoxo do valor artístico e a definição de critérios de preservação na arquitetura, inclusive a moderna. In: 2º SEMI- NÁRIO DOCOMOMO NORTE/NORDESTE, jun. 2008, Salvador.'
   - 580 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 581 582 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-036
   title: 'Caixa Econômica estadual de São Paulo em Ibitinga: 40 anos do exemplar de Arquitetura bancária na cidade'
   authors:
@@ -1391,9 +1356,9 @@ articles:
     email: fujioka@exemplo.com
     primary_contact: true
   - givenname: Vinicius Galbieri
-    familyname: Severino
+    familyname: SeveRino
     affiliation: ''
-    email: severino@exemplo.com
+    email: seveRino@exemplo.com
     primary_contact: false
   section: 'Mesa 9 - Modos de trabalhar: entre edifícios e modos de trabalho modernos'
   locale: pt-BR
@@ -1408,7 +1373,7 @@ articles:
   references:
   - Arquitetura Bancária/ Debate. Rev. PROJETO, número 26, 1981, p. 27-33.
   - 'BASTOS, Maria Alice Junqueira. Pós Brasília: Rumos da Arquitetura Bra- sileira: discurso, prática e pensamento. São Paulo: Perspectiva, 2007.'
-  - 'PETROLI, Marcos Amado. Arquitetura Bancária Gaúcha nos anos 70 - A In- 19 Entrevista 20 Ibitinga: Banco do Brasil passa a operar exclusivamente na unidade ao lado da matriz, 23 janeiro 2017. Disponível em: <http://www.ibitingadiario.com/noticia/2335/ ibitinga-banco-do-brasil-passa-a-operar-exclusivamente-na-unidade-ao-lado-da-ma- triz.html>. Acesso em: 01 junho 2018.'
+  - 'PETROLI, Marcos Amado. Arquitetura Bancária Gaúcha nos anos 70 - A In- 19 Entrevista 20 Ibitinga: Banco do Brasil passa a operar exclusivamente na unidade ao lado da matriz, 23 janeiro 2017. Disponível em: <http://www.Ibitingadiario.com/noticia/2335/ Ibitinga-banco-do-brasil-passa-a-operar-exclusivamente-na-unidade-ao-lado-da-ma- triz.html>. Acesso em: 01 junho 2018.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 595 fluência Brutalista. Tese (Mestrado) - Faculdade de Arquitetura - UFRGS, Porto Alegre, 2014.
   - ROSA, Roque de. Retalhos II - Outros Tem- pos de Ibitinga. Atrium Editora, Ibitinga - SP, 2002.
   - SABBAG, Haifa Y.. Arquitetura Bancária. Rev. MÓDULO, número 79, março 1984, p.40-63.
@@ -1417,7 +1382,6 @@ articles:
   - ZANETTINI, Siegbert. Arquitetura, Razão, sensibilidade. São Paulo, Editora da Universidade de São Paulo, 2002.
   - ZANETTINI, Siegbert. Cadernos Brasileiros de Arquitetura. São Paulo, Projeto Editores Associados, 1981.
   - 596 6º SEMINÁRIO SP DOCOMOMO
-
 - id: sdsp06-037
   title: Dois edifícios industriais de Gregório Zolko. Os projetos da Amortex (1968) e Belzer (1976)
   authors:

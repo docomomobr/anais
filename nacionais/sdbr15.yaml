@@ -1,12 +1,12 @@
 # 15º Seminário Docomomo Brasil — São Carlos/São Paulo (2023)
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr15
-
 issue:
   slug: sdbr15
   title: 15º Seminário Docomomo Brasil
   subtitle: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade
-  description: 'Recurso eletrônico. São Carlos e São Paulo: IAU e FAU — Universidade de São Paulo.'
+  volume_pdf: sdbr15_anais.pdf
+  description: '15° Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. ISBN: 978-65-272-0196-0. DOI: 10.29327/1344945'
   year: 2023
   volume: 1
   number: 15

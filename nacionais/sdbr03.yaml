@@ -1,20 +1,18 @@
 # 3º Seminário Docomomo Brasil — sdbr03
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03
-
 issue:
-  slug: "sdbr03"
-  title: "3º Seminário Docomomo Brasil"
-  subtitle: "A permanência do moderno"
-  description: "Anais do 3º Seminário Docomomo Brasil. São Carlos: EESC."
+  slug: sdbr03
+  title: 3º Seminário Docomomo Brasil
+  subtitle: A permanência do moderno
+  description: '3° Seminário Docomomo Brasil: anais: A permanência do moderno [recurso eletrônico]. São Carlos: EESC-USP, 1999. ISBN: 85-85205-56-3.'
   year: 1999
   volume: 1
   number: 3
   date_published: 1999-01-01
-  isbn: "85-85205-56-3"
+  isbn: 85-85205-56-3
   editors: []
-  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03"
-
+  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr03
 articles:
 - title: Arquitetura da infraestrutura da saúde em Santa Catarina 1935/1945
   authors:
@@ -40,7 +38,6 @@ articles:
   - 'RENAULT, Abgar et. Alii. Nereu Ramos: homenagens a um estadista, discursos e artigos. Florianópolis, Associação Portobello de Cultura, 1989.'
   - SEGAWA, Hugo. Arquiteturas no Brasil, 1900 -1990. São Paulo, Ed. da Universidade de São Paulo (EDUSP), 1997.
   - WEIMER, Günter. Arquitetura modernista em Porto Alegre. Porto Alegre, Unidade Editorial, 1998.
-
 - title: Arquitetura moderna
   subtitle: ruptura ou continuidade
   authors:
@@ -50,7 +47,6 @@ articles:
     familyname: Godinho Lima
   pages: 1-8
   locale: pt-BR
-
 - title: O passado mora ao lado
   subtitle: Lúcio Costa e o projeto do Grand Hotel de Ouro Preto, 1938/40
   authors:
@@ -63,7 +59,6 @@ articles:
   - Arquivos Biblioteca Noronha Santos, Fundação Pró-Memória.
   - 'Artigos em periódicos Campofiorito, Italo-Introdução- As Primeiras Árvores. Rio, Revista do Patrimônio nº 26, 1997, pp. 10-19. Motta, Lia- Sobre a SPHAN em Ouro Preto- uma história de conceitos e critérios. Rio, Revista do Patrimônio nº 22, 1987, pp 108 Riegl, Alois-The Modern Cult of Monuments: Its Character and Its Origin. New York, Oppositions, nº 25, 1982, pp 21-52'
   - 'Livros Bruand, Yves-Arquitetura Brasileira Contemporânea. São Paulo 1960. Botey, Josep Maria- Oscar Niemeyer. Barcelona, 1996 Costa, Lucio- Sobre Arquitetura. Porto Alegre, 1962. de Quincy, Quatremère- Dictionnaire Historique de l’Architecture, Paris, 1832 Frampton, Kenneth- Modern Architecture: a Critical History. London, 1980 Guadet, Julien- Elements et Théorie d’Architeture, Paris 1904 Gombrich, Ernest-The sense of order- a study in the psychology of decorative art. Oxford, 1979. Versão espanhola: El sentido de orden- Estudio sobre la Psciologia de las Artes Decorativas, Barcelona, 1980. Goodwin, Philip- Brazil Builds- Architecture New and Old, New York, 1943. Le Corbusier- Oeuvre complète, Zurich. Mindlin, Henrique- Modern Architecture in Brazil, Rio, 1956. Riegl, Alois- Stilfragen. Viena 1983. Versão espanhola: Problemas de estilo. Fundamentos para una historia de la ornamentación. Barcelona, 1980. Riegl, Alois- Die Spatromische Kunstindustrie. Viena, 1901. Underwood, David- Oscar Niemeyer and the Architecture of Brazil. New York, 1994. Wolfflin, Heinrich- Kunstgeschichtliche Grundbegriffe- Das Problem der Stilentwicklung in der neueren Kunst, Stuttgart, 1915. Versão brasileira: Conceitos fundamentais da história da arte. São Paulo, 1984.'
-
 - title: Arquitetura moderna em Araraquara
   subtitle: inventário
   authors:
@@ -76,14 +71,12 @@ articles:
   pages: 1-7
   locale: pt-BR
   abstract: 'Araraquara situa-se no centro do Estado de São Paulo. Com cerca de 180.000 habitantes e sólida economia agro – comercial – industrial, tem suas origens de ocupação nos fins do séc. XVIII e início do séc. XIX. O fastígio da cafeicultura propiciou a sua esmerada urbanização, com a participação de profissionais da capital como o prof. eng. Alexandre Albuquerque e o eng. Alexandre Ribeiro Marcondes Machado. O incremento industrial e a importância que a cidade assume nos anos 40 e 50, possibilitarão o ingresso da nova arquitetura : a sede Regional do DER, de 1948, de autoria do arquiteto Oswaldo Arthur Bratke. Primeiro exemplar da arquitetura moderna na cidade. Seguem-se projetos e obras de variados programas, de autoria de renomados arquitetos, entre outros : Abelardo de Souza, Anhaia Mello, Carlos Cascaldi, Carlos Millan, David Libeskind, Eduardo Corona, Gustavo N. R. Filho, Ícaro de Castro Mello, João C. de Abreu, João W. Toscano, Luis R. C. Franco, Oscar Valdetaro, Oswaldo C. Gonçalves, Paulo J. V. Bruna, Rino Levi, Roberto C. Cesar, Sérgio W. Bernardes e os conterrâneos.'
-
 - title: Teorias e práticas "modernistas" nas disciplinas de projeto
   authors:
   - givenname: Maísa
     familyname: Veloso
   pages: 1-9
   locale: pt-BR
-
 - title: O Laboratório de Ensaio de Materiais da Escola Politécnica de São Paulo 1926-1934
   authors:
   - givenname: Daniela de Souza
@@ -93,7 +86,6 @@ articles:
   pages: 1-8
   locale: pt-BR
   abstract: A urbanização acelerada e o desenvolvimento industrial da cidade de São Paulo, no início do século, fornecem um dos cenários em que se dá a difusão do "cimento armado" no Brasil. Discute-se na época, a criação de um "instituto de tecnologia" ou de um "laboratório central" que apoiasse esse crescimento. A melhor alternativa encontrada, inclusive levando-se em consideração o orçamento do Estado, foi a de oferecer ao Gabinete de Resistência dos Materiais da Escola Politécnica de São Paulo (então um laboratório didático da instituição), melhores condições para sua reestruturação e crescimento. Como figura central desta reestruturação, surge Ary Torres, que após estudos e intercâmbio em Laboratórios Europeus, apresenta projeto de remodelação e assume a direção da instituição. Estas mudanças caracterizam o início da atuação do Laboratório de Ensaio de Materiais - LEM. Amplia-se o campo de atuação do Laboratório para além do ensino, passando a atender oficialmente e em maior número a demanda empresarial por ensaios. Com autonomia adquirida, passa a valorizar a especialização, a pesquisa tecnológica e a elaboração de especificações, essenciais à indústria e à construção civil. Em 1934, já tendo obtido credibilidade e confiança dos construtores da época, sofre nova remodelação, passando a ser denominado Instituto de Pesquisas Tecnológicas de São Paulo, I.P.T.
-
 - title: Rumo ao moderno
   subtitle: uma historiografia da Arquitetura moderna em São Paulo até 1945
   authors:
@@ -102,7 +94,6 @@ articles:
   pages: 1-11
   locale: pt-BR
   abstract: A disseminação da arquitetura moderna em São Paulo apresenta peculiaridades em relação ao restante do país. A iniciativa pioneira de Gregori Warchavchik na década de 20 não logrou reverter o marasmo arquitetônico vigente na cidade, nas décadas de 1930 e 1940. De fato, apesar de São Paulo iniciar nestes anos seu processo de metropolização, atravessando um surto de urbanização acelerada e de intensa atividade de construção, não é possível demarcar claramente a implantação de uma nova forma de conceber e projetar a arquitetura. Parece mais adequado, assim, considerar os processos em curso que convergem para a arquitetura moderna, consubstanciados em trajetórias individuais significativas. No presente trabalho, são destacadas algumas destas trajetórias, enfatizando a importância de sua atuação num meio profissional absolutamente conservador e acomodado.Destaca-se também a importância da fundação do IAB- SP, em 1943, na aglutinação desses arquitetos em um grupo coeso compartilhando princípios e objetivos comuns, a respaldar eventuais iniciativas de renovação no campo da arquitetura.
-
 - title: A Arquitetura moderna na cidade de Bauru (São Paulo)
   subtitle: projetos do arquiteto Fernando Pinho
   authors:
@@ -128,7 +119,6 @@ articles:
   - 'PINHO, Fernando. Projeto: Nossa Senhora de Fátima.'
   - 'REIS FILHO, Nestor G. Quadro da Arquitetura no Brasil. São Paulo: Perspectiva, 1970.'
   - 'SALCEDO, Rosío Fernández Baca & Alunos 4º ano DAUP-UNESP. Documento: “O Centro da Cidade de Bauru e o Patrimônio Arquitetônico”. Bauru, 1998.'
-
 - title: O Edifício Esther
   authors:
   - givenname: Marcos J.
@@ -138,7 +128,6 @@ articles:
   abstract: O trabalho examina a importância do Edifício Esther como exemplar pioneiro da Arquitetura Moderna Brasileira e discute as suas potencialidades quanto à reabilitação e como fator impulsionador de ações de recuperação do centro da Cidade de São Paulo. Inicialmente foi analisada a concepção do edifício identificando suas características inovadoras. Tais características não apenas testemunham uma obra notavelmente avançada para a época em que foi concebida, como evidenciam a atualidade de sua concepção. O estado atual de conservação do edifício é considerado em suas linhas gerais. Texto conclui que edifício Esther apresenta grande potencial a realização de uma experiência de reabilitação.
   references:
   - 'Álvaro Vital Brazil: 50 Anos de Arquitetura, São Paulo, Livraria Nobel Editora, 1986 Revista Politécnica nº 127, série 16a., Ano XXXIV, maio-agosto, 1938. Aguiar Neto, Afonso. Trabalho final do Curso de Especialização: História e Teoria da Restauração de Edifícios e Sítios Históricos – FAU Universidade Mackenzie, 1999.'
-
 - title: A paixão do início na Arquitetura de Paulo Mendes da Rocha
   authors:
   - givenname: Denise Chini
@@ -166,7 +155,6 @@ articles:
   - PEREIRA, Margareth da Silva – A Arquitetura Brasileira e o Mito, in Revista Gávea 8, PUC/RJ. PLATÃO – Os Pensadores, Ed. Victor Civita, SP, 1979.
   - PORTOGUESI, Paolo – Depois da Arquitetura Moderna, Edições 70, Lisboa, 1985.
   - SAIA, Luís – Morada Paulista, Ed. Perspectiva, SP, 1995. INVENTÁRIO da obra publicada de Paulo Mendes da rocha, 3 volumes. Organizado por Sophia TELLES, Pontifícia Universidade de Campinas, 1989/1991.
-
 - title: O estilo moderno na Arquitetura de Pernambuco
   authors:
   - givenname: Geraldo
@@ -174,7 +162,6 @@ articles:
   pages: null
   locale: pt-BR
   abstract: Na década de 30 do século XX, no Recife, algumas construções foram feitas obedecendo ao que seus autores denominavam de estilo moderno. Esse estilo, na realidade, não estava muito bem definido morfologicamente e, para justificar o seu uso, ora se fazia o elogio da simplificação dos ornamentos, numa óbvia alusão à Art Deco, ora se fazia referência á economia resultante do despojamento total de adornos. A publicação semanal, em um dos jornais do Recife, de 1932 a 1934, de 76 projetos de casas unifamiliares pelo arquiteto Abelardo Gama, um dos fundadores do curso de arquitetura da Escola de Belas Artes do Recife em 1932 , com certeza, contribuiu para formar ,na sociedade local, uma opinião sobre o modernismo na arquitetura. A análise da natureza dos estilos dos projetos das casas publicadas subsidiam os estudos do modernismo nos países da periferia.
-
 - title: O Codepac e a luta pela preservação de edifícios modernos em Bauru – SP
   authors:
   - givenname: Nilson
@@ -189,7 +176,6 @@ articles:
   - Currículo Resumido
   - DADOS PESSOAIS Prof. Dr. NILSON GHIRARDELLO Nascido em 04 de outubro de 1959 Nacionalidade brasileira Casado RG 11.534.717 FORMAÇÃO PROFISSIONAL Arquiteto graduado pela Pontifícia Universidade Católica de Campinas em 1983. Mestre em Arquitetura pela Escola de Engenharia de São Carlos – USP, Departamento de Arquitetura e Planejamento, em 1992. Doutor em Arquitetura pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, FAU-USP, em 1999. EXPERIÊNCIA DE ENSINO Professor da Faculdade de Arquitetura, Artes e Comunicação (FAAC), da UNESP, Campus de Bauru. Ligado ao Departamento de Arquitetura, Urbanismo e Paisagismo. Leciona desde 1986. Professor de História da Arquitetura e de História do Urbanismo. PARTICIPAÇÃO EM COLEGIADOS Membro do CONDEPHAAT, Conselho de Defesa do Patrimônio Histórico, Arqueológico e Artístico do Estado, no biênio 1991/1993. Presidente do CODEPAC – Conselho de Defesa do Patrimônio Cultural de Bauru, para o quadriênio 1996/2000.
   - 'Endereços RESIDÊNCIA: Rua Prof. Vicente M. P. Scaglione, 2-85; J. Samambaia, CEP 17046-080, Bauru-SP; Fone (0xx14) 234-1586 TRABALHO: Av. Eng. Luiz Edmundo Carrijo Coube, s/n; Vargem Limpa, CEP 17033-360, Bauru-SP; Fone (0xx14) 221-6059/Fax (0xx14) 221-6054'
-
 - title: Textos do Urbanismo moderno no Plano Diretor Santos - 1968
   authors:
   - givenname: Luiz Antonio
@@ -208,7 +194,6 @@ articles:
   - 'LE CORBUSIER, Os Três Estabelecimentos Humanos. São Paulo: Ed. Perspectiva, 1976.'
   - 'LE CORBUSIER, Planejamento Urbano. São Paulo: Ed. Perspectiva, 1984.'
   - 'LE CORBUSIER, A Carta de Atenas. Tradução de Rebeca Scherer. São Paulo: Ed. Hucitec / Edusp, 1993. SANTOS. Lei n°. 3529, de 16 de abril de 1968. Institui o Plano Diretor Físico do Município de Santos, suas normas ordenadoras e disciplinadoras e dá outras providências. Parte Oficial [A Tribuna], Santos, 27 abr. 1968. Separata.'
-
 - title: Convênio Escolar
   subtitle: a Arquitetura moderna a serviço do ensino público
   authors:
@@ -216,7 +201,6 @@ articles:
     familyname: Baffi
   pages: 1-10
   locale: pt-BR
-
 - title: Suburbanização e revitalização
   subtitle: dois estudos de caso na Alemanha
   authors:
@@ -253,7 +237,6 @@ articles:
   - 'TSCHUMI, Bernard. Architecture and Disjunction. Cambridge, Massachusetts London, England : The MIT Press, 1998.'
   - 'VIRILIO, Paul. Open Sky. London, New York : Verso ,1997.'
   - 'WELSCH, Wolfgang. Undoing Aesthetics. [?]: SAGE Publications , 1997.'
-
 - title: Inventário de Arquitetura moderna no Vale do Paraíba e Alto Tietê
   authors:
   - givenname: Benedito
@@ -301,7 +284,6 @@ articles:
   - XAVIER, Alberto; BRITO, Alfredo e NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro, Ed. Pini, Rio Arte e Fundação Vilanova Artigas, São Paulo, 1991.
   - ART DECÓ NA AMÉRICA LATINA, Centro de Arquitetura e Urbanismo do Rio de Janeiro, Primeiro Seminário Internacional, Prefeitura da cidade do Rio de Janeiro/SMU, Solar Grandjean de Montigny, PUC/RJ, 1997. COMPANHIA PREDIAL TAUBATÉ. Boletins informativos da Companhia Predial Taubaté, 1932 a 1941, Taubaté, 1942. Arquivo Histórico Municipal de Taubaté Centro Técnico Aeroespacial Companhia Predial Taubaté Companhia Taubaté Industrial Museu da Imagem e do Som de Taubaté Prefeitura Municipal de Mogi das Cruzes Prefeitura Municipal de Taubaté Prefeitura Municipal de São José dos Campos Rino Levi Arquitetos Associados - FAUUSP “FLÁVIO IMPÉRIO EM CENA”, Catálogo da Exposição SESC Pompéia, 1997.
   - 'GUIA DA ARQUITETURA ART DECÓ NO RIO DE JANEIRO, Prefeitura da cidade do Rio de janeiro, Secretaria Municipal de Urbanismo, Rio de Janeiro: Índex, 1997.'
-
 - title: Modernismo tardio nas transformações do centro de Salvador nos anos 60
   authors:
   - givenname: Alejandra
@@ -317,7 +299,6 @@ articles:
   - 'SAMPAIO, Heliodório. “Em busca da modernidade: três desenhos para Salvador metrópole”. in: Seminário de História Urbana da ANPUR. (mimeo). Salvador, 1990.'
   - 'SANTOS, Milton. O centro da cidade do Salvador. Estudo de geografia urbana. Salvador: Publicações da Universidade Federal da Bahia, 1959.'
   - 'SANTOS NETO, Isaías de Carvalho. Salvador: Cara & Coroa. Salvador: Publicações da Universidade Federal da Bahia, 1993.'
-
 - title: Trocando gato por lebre
   subtitle: quando os instrumentos legais de preservação não preservam o que deve ser preservado
   authors:
@@ -331,7 +312,6 @@ articles:
   - 'Laslett, P. (1972). The History of the Family. In P. Laslett (Ed.), Household and Family in Past Time (pp. 1-89). Cambridge: Cambridge University Press. Lima, E. (1985). Modulando: notas e comentários em arquitetura e urbanismo. Recife: Fundação de Cultura do Recife. Nash, R. (1927). The Conquest of Brazil. London: Jonathan Cafe. Naslavsky, G. (1992). Estudo do Proto-racionalismo no Recife. Trabalho de Graduação, UFPE. Rugendas, J. M. (1835). Viagem Pitoresca Através do Brasil. Paris: Englelmann. Segawa, H. (Ed.). (1988). Arquiteturas no Brasil - Anos 80. São Paulo: Projeto Editores. Silva, G. G. d. (1989). Marcos da Arquitetura Moderna em Pernambuco. In H. Segawa (Ed.), Arquiteturas no Brasil/Anos 80 São Paulo: Projeto Editores. Silva, G. G. d. (1994, Documento: Delfim Amorim. Arquitetura e Urbanismo, p. 71-79. Trigueiro, E. (1989). Oh de Fora! Um estudo sobre a arquitetura residencial pré-modernista do Recife. Tese de Mestrado, Universidade Federal de Pernambuco. Urb-Recife (1996). Cidade do Recife - Imóveis Especiais de Preservação. Recife: Prefeitura da Cidade do Recife - Empresa de Urbanização do Recife. Vilela, J. M. C. (1984). A Emparedada da Rua Nova (3º ed.). Recife: Fundação de Cultura Cidade do Recife.'
   - Currículo do autor
   - Arquiteto pela UFPE, em 1982, e PhD em Arquitetura pela University College London, em 1999. É professor adjunto da UFPE, lecionando no Curso de Graduação em Arquitetura e Urbanismo e no Programa de Pós-Graduação em Desenvolvimento Urbano e Regional.
-
 - title: Brutalismo
   subtitle: a última trincheira do movimento moderno
   authors:
@@ -340,7 +320,6 @@ articles:
   pages: 1-11
   locale: pt-BR
   abstract: Este ensaio apresenta o Novo Brutalismo como a última transformação do Movimento Moderno, na tentativa de preservar seus valores ideológicos e éticos. Neste sentido, as aportações sobre identidade, cultura e crescimento urbano introduzidas pelo TEAM X e os Smithson trouxeram uma grande contribuição para a cultura arquitetônica nos anos 50-60. No Brasil, o brutalismo fez escola e teve na figura de Vilanova Artigas seu grande mestre e criador. Entretanto, de alguma forma, os vínculos com os brutalistas ingleses foram negados em nome de uma busca pela identidade nacional.
-
 - title: A verticalização e a origem do movimento moderno em Fortaleza
   authors:
   - givenname: Margarida Julia
@@ -354,14 +333,12 @@ articles:
   - CEARÁ, Diário Oficial- 1933,1936, 1937, 1938, 1939, 1947.
   - 'DE FUSCO, Renato- Historia de la arquitectura contemporanea. Madrid: Blume, 1981'
   - 'GIRÃO, Raimundo – Plano Nestor Figueiredo. In: Revista do Instituto do Ceará, t 47, 1943. PREFEITURA MUNICIPAL DE FORTALEZA- Código Municipal, Decreto n.7.0 de 13.12.1932 PREFEITURA MUNICIPAL DE FORTALEZA- Plano Diretor, Decreto n. 785, de26 02.1947 PREFEITURA MUNICIPAL DE FORTALEZA- Código Urbano, Lei n.2.004 de 06.08.1962 PREFEITURA MUNICIPAL DE FORTALEZA- Plano-Diretor de Fortaleza , Lei n.2.128 de 23.03.1963'
-
 - title: Tecidos habitacionais em Amsterdã
   authors:
   - givenname: Lizete Maria
     familyname: Rubano
   pages: 1-21
   locale: pt-BR
-
 - title: Conjunto Residencial de Deodoro
   subtitle: a experiência moderna da Fundação da Casa Popular
   authors:
@@ -385,7 +362,6 @@ articles:
   - OLIVEIRA, Francisco B. de (1940) A casa proletária brasileira, in Acrópole, n.°27, ano III, jul, pp.105
   - PORTO, Rubens (1937) O problema da habitação operária, in BMTIC, n. 30, fev/37, pp.169-78
   - REGO, Flávio Marinho (1953) Conjunto residencial em Deodoro, in Revista Municipal de Engenharia, n.°2, abr-jul, pp.73-84
-
 - title: Conjunto Residencial da Lagoinha
   subtitle: o impacto da construção de um Hof na capital mineira
   authors:
@@ -406,7 +382,6 @@ articles:
   - 'ROSA, Eleonora Santa. Panorama de Belo Horizonte: atlas histórico. Belo Horizonte: Fundação João Pinheiro, Centro de Estudos Históricos e Culturais, 1997.'
   - 'SALGUEIRO, Heliana Angotti. Guia da Exposição Belo Horizonte - O Nascimento de uma capital. São Paulo: Museu de Arte de São Paulo Assis Chateaubriand, 1996'
   - 'SEGAWA, Hugo. A afirmação de uma escola 1943-1960. In: SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, Edusp, 1998'
-
 - title: A difusão da Arquitetura moderna em Campo Grande
   authors:
   - givenname: Ângelo Marcos
@@ -426,7 +401,6 @@ articles:
   - ARRUDA, Ângelo Marcos Vieira de, MARAGNO, Gogliardo Vieira, COSTA, Mário Sérgio Sobral . Arquitetura em Campo Grande. Campo Grande. Uniderp, 1999.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil : 1900-1990. São Paulo. Edusp, 1997'
   - MONACO, Carlos Miguel. A Ferrovia. Campo Grande 100 anos de construção. Campo Grande. Matriz, 1999.
-
 - title: Sobre intervenções arquitetônicas em edifícios e ambientes urbanos modernos
   subtitle: análise crítica de algumas obras de Paulo Mendes da Rocha
   authors:
@@ -451,7 +425,6 @@ articles:
   - FELICIANI, Mario Rui. "Vitrine de Arte na Avenida Paulista". Revista Finestra. Edições Arquimidia/Proeditores, São Paulo, 1998/IV, nº18, p.98-101
   - 'ZEIN, Ruth Verde. "La ultima obra de Mendes da Rocha: Centro Cultural FIESP en São Paulo". Arquine. Editora Arquine, Mexico, verano 1999, nº 8, p.5 •Análises gerais da obra do arquiteto'
   - ZEIN, Ruth Verde. "Fiel a si mesmo". [in] http://www.iaz.com/iaz/extra/mendes/ –––."Paulo Archias Mendes da Rocha. Memorial para o Concurso de Professor Titular na FAU-USP". Edição do autor. São Paulo, 1998.
-
 - title: A importância do decoro urbano na Arquitetura de Rino Levi
   subtitle: o caso das residências
   authors:
@@ -491,7 +464,6 @@ articles:
   - 'SITTE, Camillo. A construção das cidades segundo seus princípios artísticos. São Paulo: Ática, 1992.'
   - 'VITRUVIO, Marco Lucio. Los diez libros de arquitectura. In: DE ARCHITECTURA. Barcelona: Nunez, 1955.'
   - 'QUINCY, Antoine-Chrystome Quatremère de. De l’imitation, 1823. Bruxelles: AAM, 1980.'
-
 - title: Inventário do Patrimônio Urbano e Cultural de Betim
   authors:
   - givenname: Jurema
@@ -501,7 +473,6 @@ articles:
   pages: 1-15
   locale: pt-BR
   abstract: O Inventário do Patrimônio Urbano e Cultural de Betim (IPUC-Betim) propõe-se a apreender os valores do patrimônio urbano e cultural dentro da paisagem onde se inserem. Seu objetivo prende-se à formulação de diretrizes capazes de articular a preservação do patrimônio às demandas por desenvolvimento social e econômico do centro industrial. A metodologia do inventário reflete a compreensão da cidade como "patrimônio ambiental urbano", conceito contemporâneo que propicia a aproximação de dois campos - o do patrimônio e o do planejamento urbano. Incorporando as perspectivas distintas da história, da arquitetura e do urbanismo e das ciências sociais, o IPUC-Betim busca identificar o processo de formação de identidades sócio-espaciais, colocando-se como etapa essencial à consecução de um plano de reabilitação urbana integrada para a cidade. O centro histórico, cuja origem remonta ao século XVIII, conserva ainda exemplares e conjuntos da arquitetura dos períodos eclético, art-déco e moderno. À exceção de alguns imóveis do início do século, recentemente tombados, edificações representativas de épocas mais próximas sofrem os prejuízos e os riscos de depreciação derivados da percepção comum que as qualifica como "sem valor".
-
 - title: A participação da Escola de Arquitetura na construção do pensamento moderno em Belo Horizonte
   authors:
   - givenname: Patrícia Pimenta
@@ -534,7 +505,6 @@ articles:
   - 'VIEIRA, Lucia Gouvêa. (1984) - “Salão de 1931 : marco da revelação da arte moderna em nível nacional”. Rio de Janeiro, FUNARTE / Instituto Nacional de Artes Plásticas.'
   - 'VIEIRA, Ivone Luzia. (1986) - “O modernismo em Minas : O Salão de 1936”. Belo Horizonte, catálogo da exposição, Museu de Arte de Belo Horizonte.'
   - 'WERNECK, Humberto. (1992) - “O desatino da rapaziada : jornalistas e escritores em Minas Gerais”, São Paulo, Companhia das Letras.'
-
 - title: Arquitetura moderna e pesquisa tecnológica
   subtitle: a contribuição do IPT (1934-1964)
   authors:
@@ -562,7 +532,6 @@ articles:
   - VARGAS, Milton. “Engenharia Civil na República Velha” In VARGAS, Milton. (Org.) História da Técnica e da Tecnologia no Brasil. São Paulo, Editora UNESP, 1994.
   - VASCONCELOS, Augusto Carlos de. “História do concreto armado no Brasil” In VARGAS, Milton. (Org.) Contribuições para a História da Engenharia no Brasil. Comemorativo do centenário da Escola Politécnica de São Paulo. São Paulo, EDUSP, 1989.
   - 'VASCONCELOS, Augusto Carlos de. O concreto no Brasil – vol.1: Recordes, Realizações, História. São Paulo, Editora Copiare, 1985. “Como um americano vê o Brasil”. In Concreto. Julho/Outubro de 1944.'
-
 - title: Volumes modernos x fachadas contemporâneas
   authors:
   - givenname: Naia Alban
@@ -570,7 +539,6 @@ articles:
   pages: 1-9
   locale: pt-BR
   abstract: Os novos loteamentos projetados em Salvador dentro de uma concepção urbana moderna quase sempre exploram a estrutura orgânica em seus acessos para a divisão da unidade lote como unidades independentes desvinculadas do contexto urbano, perdendo, desta maneira, a hierarquia urbana. Assim, com a perda deste significado, todas as construções se transformam em protótipos de monumentos individualizados sem um entorno que o afirme como tal. Em um primeiro momento, a proposta moderna construída transforma a unidade edificada em imagem percebida individualmente que apesar de não levar em conta seu entorno - o ambiente urbano construído -, propõe fachadas que deixam de ser planos para conformar um todo volumétrico, ocupando o espaço urbano como unidades independentes, blocos soltos dos limites do lote. Como é que o pensamento moderno foi absorvido pelos arquitetos baianos nestas construções verticalizadas e qual a imagem urbana criada? Quais as relações espaciais urbanas herdadas e como foram incorporadas as posturas modernas? Como evoluíram os conceitos da arquitetura vertical para o momento contemporâneo? O edifício contemporâneo cria uma outra relação com o espaço urbano, não mais a proposta pelo moderno. Apesar de ganhar uma escala metropolitana de conjunto, recupera a relação com o terreno ao priorizar uma fachada, a principal. Mesmo tendo que alçar a cabeça para cima, a aparência de seu conteúdo continua se retratando em sua fachada para a rua, fachada que representa e se apresenta para a sua comercialização.
-
 - title: O moderno como opção estilística
   subtitle: a gradual assimilação das linguagens despojadas de ornamentos na Arquitetura residencial do bairro Jardim América em São Paulo nas décadas de 20 a 40
   authors:
@@ -579,7 +547,6 @@ articles:
   pages: 1-14
   locale: pt-BR
   abstract: Trata-se da inserção gradual de elementos do vocabulário formal das vanguardas modernas na arquitetura residencial paulistana nas décadas de 20, 30 e 40. Através do estudo das casas que originalmente ocuparam o primeiro bairro-jardim de São Paulo, o Jardim América, verifica-se que a arquitetura moderna infiltrou-se como uma opção formal, restrita à dimensão de um estilo, equiparado a outros contemporâneos. Inicialmente desvinculada de seus pressupostos programáticos e ideológicos esta arquitetura vai aos poucos afirmando-se até que tende a suplantar as manifestações estilísticas e impor-se já no final dos anos 40. Discute-se ainda sua presença inicialmente difusa ou inexistente entre outros estilos na obra de arquitetos que posteriormente destacaram-se na arquitetura efetivamente caracterizada como moderna como , por exemplo, Eduardo Kneese de Mello e Oswaldo Bratke ou ainda de outros que apesar de terem produzido muito permanecem até hoje pouco conhecidos.
-
 - title: Instituto Moreira Salles – Rio de Janeiro
   subtitle: projeto e obra de restauro, reforma e adaptação
   authors:
@@ -597,7 +564,6 @@ articles:
   - 'COSTA, Lúcio. 1995. Lúcio Costa: registro de uma vivência. São Paulo. Empresa das Artes.'
   - PAPE, Thomas e WUNDRAM, Manfred. 1994. Andrea Palladio. Um arquitecto entre o Renascimento e o Barroco. Trad. Casas das Línguas, ltda. Alemanha. Taschen.
   - SEGAWA, Hugo. 1999. Arquiteturas no Brasil 1900-1990. São Paulo. Edusp.
-
 - title: A Arquitetura entre o renascimento do moderno e o luto da modernidade
   authors:
   - givenname: Carlos Antônio
@@ -616,7 +582,6 @@ articles:
   - 'Nascido em 27 de setembro de 1958, Carlos Antônio Leite Brandão graduou-se em arquitetura pela UFMG, em 1981. Desde 1983 é professor de teoria e história da Arquitetura na EA-UFMG. É Doutor em Filosofia (UFMG, 1997), Mestre em Filosofia (UFMG, 1987), Especialista em Filosofia (UFMG, 1985) e Especialista em Cultura e Arte Barroca (Universidade Federal de Ouro Preto, UFOP, 1986). Possui diversos livros e artigos publicados em periódicos nacionais e estrangeiros. Destacam-se os seguintes livros: A formação do homem moderno vista através da arquitetura (Belo Horizonte: UFMG, 1999. 2a ed.; Belo Horizonte: AP Cultural, 1991. 1a ed); Lojas: Arquitetura (Belo Horizonte: AP Cultural, 1992); Arquitetura vertical (Belo Horizonte: AP Cultural, 1992); Memória Histórica de Nova Ponte (Belo Horizonte: CEMIG, 1997); O combate da arte em Leon Battista Alberti (Belo Horizonte: UFMG, no prelo). Em concursos de arquitetura citam-se os seguintes prêmios: Concurso Internacional Bibliotheca Alexandrina (Egito/UNESCO/UIA. Terceiro lugar. 1989); IV Prêmio Brasilit de Arquitetura (Brasilit. Finalista. 1987); Concurso Nacional BH Centro. (Prefeitura Municipal de Belo Horizonte, IAB. Menção Honrosa, 1989). Desde agosto de 1998 é pesquisador do CNPq desenvolvendo o projeto de pesquisa “Hermenêutica e Arquitetura”. Como distinções recebidas na área de arquitetura destacam-se: Vencedor da VI Premiação de Arquitetura MG, na categoria Pesquisa, Ensaio e Crítica (IAB-MG, 1997); Arquiteto do Ano, VI Premiação de Arquitetura MG IAB – MG; 1997).'
   - Endereço para correspondência
   - 'Nome completo do autor: Carlos Antônio Leite Brandão Endereço: Escola de Arquitetura da UFMG Rua Paraíba 697. Diretoria. Funcionários. Belo Horizonte. MG. CEP.: 30130-140 e-mail: brandao@arq.ufmg.br fax: 269-1818 tel.: 269-1830'
-
 - title: Conhecendo a Arquitetura moderna potiguar
   subtitle: um esforço conjunto
   authors:
@@ -625,7 +590,6 @@ articles:
   pages: 1-7
   locale: pt-BR
   abstract: São apresentadas ações direcionadas ao conhecimento da arquitetura moderna do Rio G. do Norte e critérios adotados para a seleção de exemplares representativos. A desproporção entre o desconhecido e os meios de investigá-lo, determinou a opção pela confluência de atividades de ensino, pesquisa e extensão. INVENTÁRIOS, ANÁLISES, MONOGRAFIAS e EXPOSIÇÕES enfocando a produção pré-modernista e modernistas em Natal e municípios do interior vêm sendo desenvolvidas com a participação de alunos de graduação e pós-graduação. A recorrência com que certos elementos formais aparecem combinados em edifícios nas áreas inventariadas e a correlação entre essas combinações e padrões de ocupação delineiam tendências consideradas dominantes em determinada época e fração urbana. Por seu caráter extensivo, heterogêneo e inclusivo, os produtos desses trabalhos - que se espera sistematizar em um banco de dados - permite examinar a fluidez com que marcos estilísticos definidos na literatura manifestam-se no cenário construído, fornecendo matéria de primeira mão para o diálogo acadêmico e para elevar níveis de percepção sobre o patrimônio edificado do passado recente.
-
 - title: Cinco questões sobre o movimento moderno no ensino de Teoria e História da Arquitetura e do Urbanismo
   authors:
   - givenname: Lélia
@@ -640,7 +604,6 @@ articles:
   - 'HARVEY, David. Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo, Ed. Loyola, 1992.'
   - 'HOLSTON, James. A Cidade Modernista: uma crítica de Brasília e sua utopia. São Paulo, Companhia das Letras, 1993'
   - PEHNT, Wolfgang et alli. Encyclopedia of Modern Architecture. Harvey N.Abrams, Inc, Publishers, New York, 1964
-
 - title: ABCP e ABNT
   subtitle: contribuição histórica à construção econômica
   authors:
@@ -658,7 +621,6 @@ articles:
   - TORRES, A F . Constituição Química do Cimento Portland. São Paulo, 1941.
   - VARGAS, Milton. “A industrialização da construção e a pesquisa tecnológica.”In Para uma filosofia da tecnologia. São Paulo, Alfa-Ômega, 1994.
   - 'VASCONCELOS, Augusto C. de O concreto no Brasil: recordes - realizações - história. São Paulo, Copiare, 1985.'
-
 - title: Sobre miscigenação, falta de tradição e orquídeas
   subtitle: a nacionalização da Arquitetura moderna brasileira nas revistas de Arquitetura de língua alemã
   authors:
@@ -666,7 +628,6 @@ articles:
     familyname: Correia Campos
   pages: 1-10
   locale: pt-BR
-
 - title: Plano Diretor de 1945 elaborado para Ribeirão Preto
   subtitle: proposta do engenheiro José de Oliveira Reis
   authors:
@@ -680,7 +641,6 @@ articles:
   references:
   - LEME, Maria Cristina da Silva. In Urbanismo no brasil – 1.895-1.965. Org. Maria Cristina da Silva Leme. São Paulo. Studio Nobel; FAUUSP; FUPAM, 1.999. pg.503-505.
   - PIRES, Júlio Manuel. Um Estudo de História Econômica Regional sob a Ótica das Finanças Públicas. Relatório Final. Programa de Apoio as Atividades de Pesquisa Academicas no Ambito do EAE. São Paulo. 1.994. Arquivo Público e Histórico do Município de Ribeirão Preto Secretaria Municipal Do Planejamento e Desenvolvimento. Justificativa Técnica do Plano Diretor, aprovado em 1.995. Mimio. Ribeirão Preto, SMPeD – 1.994. I.B.G.E. – Censo Demográfico de 1.940 e 1.950. Diário da Manhã. Ribeirão Preto. 1.944/1.945/1.955. A Cidade. Ribeirão Preto. 1.955.
-
 - title: Aspectos de preservação da obra de Frank Lloyd Wright dentro do quadro da conservação do patrimônio moderno nos E.U.A.
   authors:
   - givenname: Paulo Yassuhide
@@ -702,7 +662,6 @@ articles:
   - 'SCULLY, Vincent. American Architecture and Urbanism. Nova York: Praeger Publishers, 1976 (ed. orig. 1965).'
   - 'TAFEL, Edgar. About Wright - An Album of Recollections by those who knew Frank Lloyd Wright. Nova York: John Wiley and Sons, 1999.'
   - 'WEBER, Eva. Art-Déco in America. Nova York: Exeter Books - Bison Books, 1987.'
-
 - title: No olho do furacão
   subtitle: as permanências do moderno no entorno do prédio do Ministério
   authors:
@@ -710,7 +669,6 @@ articles:
     familyname: Guimaraens
   pages: 1-14
   locale: pt-BR
-
 - title: Arquitetura moderna
   subtitle: (con)tradições e (inov)ações
   authors:
@@ -750,7 +708,6 @@ articles:
   - 'WORRINGER, W. Abstratión y naturaleza. México: Fondo de Cultura Económica, 1966.'
   - 'ZEVI, Bruno. Saber ver a arquitetura. São Paulo: Martins Fontes, 1978.'
   - '______. A linguagem moderna da arquitetura. Lisboa: Dom Quixote, 1984.'
-
 - title: O tombo da praça?
   authors:
   - givenname: Marcos Leite
@@ -782,7 +739,6 @@ articles:
   - 'PAPADAKI, Stamo - Oscar Niemeyer. New York : George Braziller, 1960. Revista Arquitetura e Construção, nº 2, Editora Pini,Abril de 1985. Brasília 25 anos Revista Arquitetura e Construção, nº 71, Editora Pini. 40 anos do Plano Piloto de Brasília, Número especial. Revista Arquitetura e Construção, nº 38, Editora Pini. Documento Lúcio Costa, Número especial. Revista Arquitetura e Construção, nº 55, Editora Pini. Documento Oscar Niemeyer, Número especial. Revista Brasília Revista da.Companhia Urbanizadora da Nova Capital do Brasil, nº13, Janeiro de 1958 Revista A Cultura das Cidades, nº4, Novembro de 1997. André Quicé Editor-Fundação Oscar Niemeyer. Revista L’Architecture d’Aujourd d’Hui, nº80, Octubre-Novembre, 1958 Revista Módulo, revista de arquitetura e artes plásticas, Rio de Janeiro, nº 8: Plano-Piloto. Julho de 1957 Revista Módulo, revista de arquitetura e artes plásticas, Rio de Janeiro, nº 9: Praça dos Três Poderes e Congresso Nacional. Fevereiro de 1958 Revista Módulo, revista de arquitetura e artes plásticas, Rio de Janeiro, , nº 10: Palácio do Planalto e Palácio do Supremo Tribunal. Agosto de 1958 Revista Módulo, revista de arquitetura e artes plásticas, Rio de Janeiro, , nº 89/90: Brasília 26 anos. Agosto de 1958'
   - ROWE, Colin & KOETTER, Fred- Collage City, MIT Press, Cambridge Mass, 1978
   - 'UNDERWOOD, David. Oscar Niemeyer and the architecture in Brazil. New York: Rizzoli, 1994.'
-
 - title: Localismo crítico e cosmopolitismo arquitetônico
   subtitle: Mário de Andrade e a informação moderna de Arquitetura (1925-1929)
   authors:
@@ -790,7 +746,6 @@ articles:
     familyname: Correia de Lira
   pages: 1-29
   locale: pt-BR
-
 - title: Modernidade, Modernismo e modernização
   subtitle: as fábricas modernas da Via Anchieta
   authors:
@@ -800,7 +755,6 @@ articles:
     familyname: Simoni
   pages: 1-5
   locale: pt-BR
-
 - title: Os impasses da Arquitetura paulista recente
   authors:
   - givenname: Luiz
@@ -808,7 +762,6 @@ articles:
   pages: 1-14
   locale: pt-BR
   abstract: Os graves problemas urbanos da cidade de São Paulo e sua arquitetura comercial recente parecem indicar uma ruptura com a forte tradição da arquitetura moderna paulista. No entanto, os seus impasses atuais devem também ser compreendidos a partir das ambigüidades da experiência dos anos 50.
-
 - title: O pórtico clássico como terminal aéreo
   subtitle: o projeto dos Irmãos Roberto para o aeroporto Santos Dumont
   authors:
@@ -816,7 +769,6 @@ articles:
     familyname: Calovi Pereira
   pages: 1-11
   locale: pt-BR
-
 - title: O Modernismo e o núcleo fabril
   subtitle: o plano da cidade operária da F.N.M. de Attílio Correia Lima
   authors:
@@ -836,7 +788,6 @@ articles:
   - LUZ, Vicentina Ribeiro. Habitação ideal ao trabalhador manual. Como resolver o problema dos porões e cortiços dos bairros do Braz e da Moóca. Revista do Arquivo Municipal. Ano VII. São Paulo, março-abril de 1943. pp 137-143
   - OLIVEIRA, F. Batista de. Residência Mínima. Revista de Organização Científica, IDORT, Ano XII, N. 135. São Paulo, março de 1943. pp.17-18.
   - VIANNA, Jacy Coutinho. O ideal da Habitação coletiva. Revista do Arquivo Municipal, Ano VII, V. LXXXI. São Paulo, jan-fev de 1942.
-
 - title: Os princípios modernos aplicados à Arquitetura
   subtitle: um estudo das escolas paulistanas nas décadas de 40, 50 e 60
   authors:
@@ -857,7 +808,6 @@ articles:
   - ______________ Educação no Brasil São Paulo, Cia. Editora Nacional, 1969.
   - ______________ Educação e o Mundo Moderno São Paulo, Cia. Editora Nacional, 1969.
   - YOSHIDA, Celia Ballario et al Henrique Ephim Mindlin São Paulo, Instituto Roberto Simonsen, 1975.
-
 - title: Edifício Esther
   subtitle: impactos dolosos de seu tombamento
   authors:
@@ -878,7 +828,6 @@ articles:
   - 'CONDURU, Roberto (1995). Álvaro Vital Brazil: rigor e urbanidade. In Revista Arquitetura e Urbanismo, nº 62, (outubro/novembro). São Paulo: PINI, pp.81-89.'
   - 'DAHIER, Luiz Carlos (1981). O Edifício Esther e a Estética do Modernismo. In Revista Projeto nº 31, (julho). São Paulo: Arco Editorial, pp. 55-63. Mímeo.'
   - 'SEGAWA, Hugo (1987). O Herói Desconhecido da Arquitetura Moderna: entrevista. In Revista Projeto nº 96, (fevereiro). São Paulo: Arco Editorial, pp. 59-64. Mímeo.'
-
 - title: Cidade Operária de Monlevade
   subtitle: novos conceitos de morar
   authors:
@@ -899,7 +848,6 @@ articles:
   - 'LEME, Maria Cristina da Silva. Urbanismo no Brasil: 1895-1965. São Paulo: Studio Nobel; FAUUSP;'
   - 'MARTINS, Carlos Alberto Ferreira. Arquitetura e Estado no Brasil : Elementos para uma investigação sobre a constituição do discurso modernista no Brasil; A obra de Lúcio Costa 1924-1952. São Paulo: 1988, p.158. Dissertação de Mestrado - FFLCHUSP.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1997.'
-
 - title: Preservação da Arquitetura dos primeiros modernos em Curitiba
   subtitle: experiência de legislação de preservação de bens culturais modernos
   authors:
@@ -934,7 +882,6 @@ articles:
   - XAVIER, Alberto. Arquitetura Moderna em Curitiba, São Paulo, Editora Pini, 1985.
   - ZEVI, Bruno. Architeture in Nuce - Uma Definição de Arquitetura, São Paulo, Editora Martins Fontes, 1979.
   - '--- Saber Ver a Arquitetura, São Paulo, Editora Martins Fontes, 1992.'
-
 - title: Estilo ou causa? Como, quando e onde?
   subtitle: os conceitos e limites da historiografia nacional sobre o movimento moderno
   authors:
@@ -952,7 +899,6 @@ articles:
   - DAMISCH, Hubert, 1993 La scène de la vie future in Amérique et Modernité. L’idéal américain dans l’architecture, Paris, EHESS, Flammarion.
   - 'LEMOS, Carlos A .C., 1979. Arquitetura Brasileira. São Paulo: Melhoramentos/ Edusp.'
   - 'SEGAWA, Hugo, 1998. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp.'
-
 - title: O Setor Sul em Goiânia
   subtitle: o espaço público abandonado
   authors:
@@ -977,7 +923,6 @@ articles:
   - OTTONI, D.A.B.; SZMRECSÁNYI, M.I. (1997) Cidades Jardins - a busca do equilíbrio social e ambiental 1898- 1998. São Paulo, FAUUSP.
   - REVISTA MUNICIPAL DE ENGENHARIA, (1945). Armando Augusto de Godoy. P. 4-5, Jan./45.
   - WILHEIM, J. (1969). Urbanismo no Subdesenvolvimento. Rio de Janeiro, Saga.
-
 - title: A modernidade na Arquitetura contemporânea brasileira
   subtitle: repercussões do grupo mineiro
   authors:
@@ -1003,7 +948,6 @@ articles:
   - SEGAWA, Hugo. Arquiteturas no Brasil. 1900-1990. São Paulo, Ed. USP, 1997.
   - VASCONCELOS, Sylvio de. Arquitetura, Dois Estudos. Porto Alegre, Instituto Estadual do Livro, 1960.
   - 'XAVIER, Alberto (org.). Arquitetura Moderna Brasileira; Depoimento de uma geração. São Paulo, Ed. Pini, 1987. Periódicos: ÓCULUM 2. Campinas : FAU- PUCAMP, n° 02, set., 1992. PAMPULHA. Belo Horizonte nos 1 e 9. PROJETO. São Paulo : Ed. Arco, nos 81 e 102.'
-
 - title: Reconhecimento e preservação da Arquitetura Art-Déco no Estado de São Paulo
   authors:
   - givenname: Vitor José
@@ -1011,7 +955,6 @@ articles:
   pages: 1-6
   locale: pt-BR
   abstract: O estudo e a preservação de parcela da produção arquitetônica paulista vinculada aos códigos formais e compositivos do art-déco se justifica, na medida em que não só reflete a necessidade de identificação dos agentes responsáveis pela introdução do “espírito moderno” em nosso meio ambiente construído como, também, contribui para a valorização de uma vertente de nossa modernidade relegada, até então, a um plano secundário em termos historiográficos e preservacionistas. Posto isto, busca-se estimular uma reflexão mais atenta em torno de sua importância e representatividade no período correspondente à primeira modernidade em nossa arquitetura, bem como informar quais as ações que estão em andamento junto ao Condephaat ,com vistas à preservação institucional de uma parte desse rico acervo.
-
 - title: Palácio Gustavo Capanema
   subtitle: processo de restauração e revitalização
   authors:
@@ -1032,4 +975,3 @@ articles:
   - 'SANTOS, Paulo F.. Quatro Séculos de Arquitetura. Rio de Janeiro: IAB, 1981. Cadernos do PRPPC – Projeto de Recuperação e Preservação do Palácio da Cultura / Ministério da Cultura, não publicados, 1983 a 1985.'
   - Currículo Resumido
   - Paulo Eduardo Vidal Leite Ribeiro Mestre em Conservação e Restauração do Patrimônio Cultural pelo PROARQ/UFRJ Professor de Projeto de Restauro da Universidade Estácio de Sá Membro do ICOMOS Atualmente coordena a equipe do IPHAN que restaura o Palácio Gustavo Capanema e possui escritório de consultoria e projetos de restauração.
-

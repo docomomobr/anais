@@ -70,9 +70,12 @@ Despublicar e deletar o artigo importado + a issue criada. Queremos começar lim
 
 ## Fase 2 — Gerar XMLs com PDFs embutidos
 
-### 2.1. Gerar todos os 21 regionais
+### 2.1. Gerar todos os XMLs de uma vez
+
+**SEMPRE regenerar TODOS os XMLs** antes de importar. Nunca reutilizar XMLs de sessões anteriores — o script pode ter sido corrigido desde então (ex: bug de `<citations>` com texto direto em vez de `<citation>` child elements, descoberto no teste com sdrj02/sdrj03).
 
 ```bash
+rm -rf xml_prod/   # limpar geração anterior
 python3 scripts/generate_ojs_xml.py --with-pdf --outdir xml_prod
 ```
 
@@ -307,6 +310,25 @@ for issue in regionais:
 ```
 
 **OJS não aceita SVG** — usar sempre PNG. Para seminários que só têm SVG, converter antes: `inkscape --export-type=png capa.svg`.
+
+**Verificação obrigatória** antes de prosseguir para a Fase 5:
+```python
+# Conferir que TODAS as 21 issues regionais têm capa
+r = s.get(f'{BASE}/api/v1/issues?count=100')
+missing = []
+for issue in r.json()['items']:
+    slug = issue.get('urlPath', '')
+    if slug.startswith('sdbr') or not slug:
+        continue
+    cover = issue.get('coverImageUrl', {}).get('pt_BR', '')
+    if not cover:
+        missing.append(slug)
+if missing:
+    print(f'CAPAS FALTANDO: {missing}')
+else:
+    print('Todas as 21 issues têm capa ✅')
+```
+Se faltar alguma, a Fase 5 vai gerar placeholders no lugar de capas reais — NÃO avançar sem resolver.
 
 ---
 

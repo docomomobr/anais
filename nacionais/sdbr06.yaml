@@ -1,24 +1,22 @@
 # 6º Seminário Docomomo Brasil — sdbr06
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr06
-
 issue:
-  slug: "sdbr06"
-  title: "6º Seminário Docomomo Brasil"
-  subtitle: "Moderno e nacional, Arquitetura e Urbanismo"
-  description: "Recurso eletrônico. Niterói: Pós Graduação em Arquitetura e Urbanismo UFF."
+  slug: sdbr06
+  title: 6º Seminário Docomomo Brasil
+  subtitle: Moderno e nacional, Arquitetura e Urbanismo
+  description: '6° Seminário Docomomo Brasil: anais: Moderno e nacional, Arquitetura e Urbanismo [recurso eletrônico] / organização: José Pessôa et al.. Niterói: Pós-Graduação em Arquitetura e Urbanismo, UFF, 2005. ISBN: 85-99618-01-6.'
   year: 2005
   volume: 1
   number: 6
   date_published: 2005-01-01
-  isbn: "85-99618-01-6"
+  isbn: 85-99618-01-6
   editors:
-    - "José Pessôa"
-    - "Eduardo Vasconcellos"
-    - "Elisabete Reis"
-    - "Maria Lobo"
-  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr06"
-
+  - José Pessôa
+  - Eduardo Vasconcellos
+  - Elisabete Reis
+  - Maria Lobo
+  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr06
 articles:
 - title: A Arquitetura moderna de Heitor Maia Neto em Recife nos anos 50
   authors:
@@ -52,7 +50,6 @@ articles:
   - 'MAIA, A. Carlos. Heitor Maia Neto: residências da década de 50. Recife: mimeo. 2005.'
   - 'SEGAWA, Hugo.Arquiteturas do Brasil: 1900-1990.São Paulo: Edusp.1998.'
   - 'WISNIK, Guilherme. Espaços da Arte Brasileira /Lúcio Costa.SP: Cosac & Naify.p: 80-85. 2001.'
-
 - title: Um estudo sobre o mestre Artigas e o aprendiz Jorge Caron
   authors:
   - givenname: Amanda Saba
@@ -90,7 +87,6 @@ articles:
   - SEGAWA, Hugo. Arquiteturas do Brasil – 1900-1990. São Paulo, Edusp, 1998.
   - SCHWARZ, Roberto. O Pai de Família e outros estudos. Rio de Janeiro, Paz e Terra, 1978.
   - PAES, Maria Helena Simões. A Década de 60. 3.ed., São Paulo, Ática, 1995. FAU_Histórico, Desenho, n. 1, Revista impressa e publicada pelos alunos da FAU, 1970.
-
 - title: A casa unifamiliar em Caxias do Sul 1940-70
   subtitle: somos modernos?
   authors:
@@ -131,7 +127,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1999.'
   - 'SERAPIÃO, Fernando. Paralelos (e transversais) na história da casa paulista. São Paulo: Arcoweb, 2003. Disponível em: http://www.arcoweb.com.br SOLÁ-MORALES, Ignasio. de. Presente y Futuro: Arquitetura en Las Ciudades. In: SOLÁ-MORALES, I. de e COSTA, X.(DIR). Presente y Futuro: Arquitetura en Las Ciudades. Barcelona: Collegi d’Arquitectes de Catalunya, 1996.'
   - 'VERÍSSIMO, Francisco Salvador; BITTAR, William S. M. 500 Anos da Casa no Brasil. Rio de Janeiro: Ediouro, 1999.'
-
 - title: Pernambuco falando para o mundo
   authors:
   - givenname: Ana Elisabete
@@ -171,7 +166,6 @@ articles:
   - 'SETTE, Mário. (1978). Arruar, História Pitoresca do Recife Antigo. 3 ed. Rio de Janeiro: Livraria Editora da Casa do Estudante no Brasil, 1978. 368 p.'
   - 'SILVA, Geraldo Gomes da. (1998). Ayrton de Almeida Carvalho – 50 Anos de Dedicação ao Patrimônio. Recife: 5a SR/IPHAN/MinC, 1998. Homenagem Póstuma.'
   - 'SOUZA, Alberto; ROCHA, Edileusa (Org.). (2004). Guia do Recife: Arquitetura e Paisagismo. Recife: Ed. dos Autores, 2004. 268 p.'
-
 - title: Arquitetos imigrantes no Brasil
   subtitle: uma questão historiográfica
   authors:
@@ -187,14 +181,12 @@ articles:
   - 'FAUUSP, 2002. Bardi, Lina Bo Lina Bo Bardi org. Marcelo Carvalho Ferraz. São Paulo: Instituto Lina Bo e P.M. Bardi, 1993 Bardi, P. M. Gregori Warchavchik, in Warchavchik e as origens da arquitetura moderna no Brasil. São Paulo: Museu de Arte de S.P, 1971. Canclini, Néstor García Culturas Híbridas: Estratégias para Entrar e Sair da Modernidade. São Paulo: Edusp, 2003. Cavalcanti, Lauro. Quando o Brasil era Moderno. Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano Editora, 2001. Costa, Lucio Lucio Costa Registro de uma Vivência. Sao Paulo, Empresa das Artes, 1995. Costa, Lucio Imprévu et Importance de la Contribuition des Architectes Brésiliens, in L’Architecture D’Aujourd’hui, n. 42-43, agosto, 1952, p. 7. Curtis, William J.R. Modern Architecture since 1900. Londres: Phaidon Press Ltd, 1996. Derrida, Jacques. O monolinguismo do outro ou a Prótese de Origem. Porto: Campo das Letras-Editores, S.A., 2001. Dines, Alberto Morte no Paraíso. A tragédia de Stefan Zweig. Rio de Janeiro: Rocco, 2004. Falbel, Anat Lucjan Korngold, a trajetória de uma arquiteto imigrante. Tese de Doutorado'
   - 'Gideon, Siegfried Le Brésil et L’Architecture Contemporaine, in L’Architecture D’Aujourd’hui, n. 42-43, agosto, 1952 Guarneri, Andrea Bocco Bernard Rudofsky. Nova York: Springer, 2003. Hitchcock, Henry-Russell Latin American Architecture since 1945. Nova York: Museum of Modern Art, 1955. Irigoyen, Adriana. Wright e Artigas Duas Viagens. São Paulo Ateliê Editorial, 2002. Jordy, William H. American Buildings and Their Architects. Vol. 5. The Impact of European Modernism in the Mid-Twentieth Century. Nova York: Oxford University Press, 1972. Kuhn, Thomas S. A Estrutura das Revoluções Científicas. São Paulo: Editora Perspectiva, 2003. Lafetá, João Luiz 1930: A crítica e o Modernismo. São Paulo: Duas Cidades/Editora 34, 2000. Lefaivre, L; Tzonis, A. Critical Regionalism Architecture and Identity in a Globalized World. Munique: 2003. Lemos, Carlos A.C. Arquitetura Brasileira. São Paulo: Edições Melhoramentos/EDUSP, 1979. Levinas, Emmanuel. Totalidade e Infinito. Lisboa: Edições 70, 1980. Lissovsky, Maurício; Moraes de Sá, Paulo Sérgio. Colunas da Educação: a construção do Ministério da Educação e Saúde (1935-1945), Rio de Janeiro: MINC/IPHAN, FGV/CPDOC, 1996. Mariano Filho, Jose. À Margem do Problema Arquitetônico Nacional. Rio de Janeiro; Estúdio de Artes Gráficas C. Mendes Junior, 1943. Miceli, Sergio Nacional Estrangeiro. São Paulo: Companhia das Letras, 2003. Miceli, Sergio Intelectuais à brasileira. São Paulo: Companhia das Letras, 2001. Mindlin, Henrique Ephim Modern Architecture in Brazil. Rio de Janeiro Amsterdam: Colibris Editora, 1956. Mumford, Lewis The South in Architecture. Nova York:Harcourt, Brace and Company, 1941. Nitzan-Shiftan, Alona. Contested Zionism-Alternative Modernism:Erich Mendelsohn and the Tel Aviv Chug in Mandate Palestine in Architectural History, 1996, v. 39 pp. 147-180. Ortiz, Renato A Moderna Tradição Brasileira. Cultura Brasileira e Indústria Cultural. São Paulo: Brasiliense, 2001. Pereira, Miguel Baptista Prefácio, In A visão de Deus. Nicolau de Cusa. Lisboa: Fundação Calouste Gulbekian, 1988. Persitz, Alexandre L’Architecture au Brésil in L’Architecture D’Aujourd’hui, v. 13-14, set. 1947, pp. 3-6. Pereira, Roberto. A Formação do Balé Brasileiro. Rio de Janeiro: FGV Editora, 2003. Pinheiro, Maria Lucia Bressan Modernizada ou Moderna? A Arquitetura em São Paulo, 1938-1945. Tese de Doutorado FAUUSP, 1997. Saia, Luís Arquitetura Paulista in Depoimentos de uma Geração arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003, pp. 106-116.'
   - 'Said, Edward Representações do intelectual: as Conferências Reith de 1993. São Paulo: Companhia das Letras, 2005. Said, Edward Reflexões sobre o exílio e outros ensaios. São Paulo: Companhia das Letras, 2003. Sanches, Aline Coelho A Obra e a trajetória do arquiteto Giancarlo Palanti Itália e Brasil. Dissertação de Mestrado. São Carlos, 2004. Schwartzman, Simon; Bomeny, Helena Maria Bousquet; Costa, Vanda Maria Ribeiro. Tempos de Capanema. Rio de Janeiro: Editora Paz e Terra/ FGV, 2000. Segre, Roberto Ministério da Educação e Saúde Pública no Rio de Janeiro (1935-1945). Um work in progress da Primeira Modernidade Brasileira, manuscrito, 2005. Segawa, Hugo Le Belle Americhe/Americas the Beautiful in Spazio e Societá. Milão, n.80, out/dez, 1997, pp. 86-89. Segawa, Hugo Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1998. Sharp, Dennis; Cooke, Catherine The Modern Movement in Architecture. Selections from the DOCOMOMO Registers. Roterdam: 010 Publishers, 2000 Siqueira, Vera Beatriz Burle Marx. São Paulo: Cosac & Naify, 2004. Tzonis, Alexandre; Lefaivre, Liane; Stagno Bruno Tropical Architecture. Critical regionalism in the Age of Globalization. Florença: John Wiley & Sons, 2001. Wisnik, José Miguel Getúlio da paixão cearense. In O nacional e popular na cutura brasileira, São Paulo, Brasiliense, 1983. Wisnik, José Miguel Algumas questões de música e política no Brasil. In Cultura Brasileira. Temas e situações. Org. Alfredo Bosi, São Paulo, Editora Ática, 2003. Yoshida, Celia Ballario e outros Henrique Ephim Mindlin. O homem e o arquiteto. São Paulo: Instituto Roberto Simonsen, 1975. Xavier, Alberto Depoimento de uma Geração. Arquitetura Moderna Brasileira. São Paulo: Cosac &Naify, 2003. Zevi, Bruno. Brasile incerto e ecletico in L’Architettura Cronache e Storia, vol. 17, março, 1957. Zevi Bruno. Erich Mendelsohn Expressionista, in Arquitetura e Judaísmo: Mendelsohn, org. Anat Falbel. São Paulo: Editora Perspectiva, 2002. Zevi, Bruno Architetti e critici d’arte italiani in Brasile. Um museu dell’architetto Lina Bo, in Metron, n.30 dez/1948, pp. 34-35. Zucconi, Guido Daniele Calabi architetture e progetti 1932-1964. Veneza: Marsilio, 1992'
-
 - title: Sérgio Ferro
   subtitle: a construção de uma teoria
   authors:
   - givenname: Angélica Irene
     familyname: da Costa
   locale: pt-BR
-
 - title: A visão estrangeira sobre a Arquitetura brasileira nos anos 1950
   authors:
   - givenname: Antônio Renato
@@ -224,7 +216,6 @@ articles:
   - 'PETIT, Jean. Niemeyer: Poeta da Arquitetura. Lugano: Fidia Edizioni dÁrte, 1998.'
   - REPORT on Brazil. THE ARCHITECTURAL REVIEW, Londres, n. 694, p. 234-250, out. 1954.
   - 'TAMAKI, Teru. Arquitetura sob a luz da filosofia. São Paulo: Ed. Parma, 1997.'
-
 - title: Brazil Builds e a bossa barroca
   authors:
   - givenname: Carlos Eduardo
@@ -232,7 +223,6 @@ articles:
   locale: pt-BR
   keywords:
   - Brazil Builds/ arquitetura moderna brasileira/ identidade nacional
-
 - title: Análise arquitetônica de uma residência moderna na cidade de João Pessoa/PB
   authors:
   - givenname: Carolina
@@ -251,7 +241,6 @@ articles:
   - 'FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.'
   - GONÇALVES, Regina Célia; LAVIERI, Maria Beatriz Ferreira; LAVIERI, João; RABAY, Glória. A Questão Urbana na Paraíba. História Temática da Paraíba, Vol. 3. Ed. UFPB. João Pessoa, 1999.
   - MELO, Alexandra C. S. Yes, nós temos arquitetura moderna. Natal, 2004. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade Federal do Rio Grande do Norte.
-
 - title: Flávio de Carvalho
   subtitle: cidade e habitação
   authors:
@@ -266,7 +255,6 @@ articles:
   - Flávio de Carvalho
   - modern architecture
   - modern man
-
 - title: Setenta e cinco anos da primeira Escola de Arquitetura do Brasil
   authors:
   - givenname: Cléo Alves
@@ -305,7 +293,6 @@ articles:
   - 'SIGNORELLI, Victor. Victor Signorelli: inédito. Belo Horizonte, 1998. Entrevista concedida para o Projeto Memória da Arquitetura e da Construção Civil em Belo Horizonte. Parceria entre CRAV- PBH, IAB/MG e UFMG.'
   - 'Exemplares do Jornal Ponto de Vista – P. V. Belo Horizonte: Escola de Arquitetura. Década de 50.'
   - 'Exemplares da Revista Arquitetura- Engenharia, Urbanismo, Belas Artes e Decoração. Belo Horizonte: Escola de Arquitetura. Década de 50.'
-
 - title: Entre o chão e o céu
   subtitle: as rampas em Artigas
   authors:
@@ -320,7 +307,6 @@ articles:
   - Vilanova Artigas
   - ramps
   - brazilian modern architecture
-
 - title: Edifício Montreal
   subtitle: Arquitetura moderna e orgulho nacional
   authors:
@@ -370,7 +356,6 @@ articles:
   - 'UNDERWOOD, David, Oscar Niemeyer, Brazilian Free-Form Modernism, New York: George Braziller, 1994.'
   - 'UNDERWOOD, David, Oscar Niemeyer and the Architecture of Brazil, New York: Rizzoli, 1994.'
   - 'VALLE, Marco Antônio Alves do, Desenvolvimento da Forma e Procedimentos de Projeto na Arquitetura de Oscar Niemeyer (1935-1998), São Paulo, 2000, Tese de Doutorado, orientador: SAWAYA, Silvyo de Barros.'
-
 - title: Ações de sensibilização para a preservação da Arquitetura moderna de Belo Horizonte
   authors:
   - givenname: Denise Marques
@@ -392,7 +377,6 @@ articles:
   - MAFFESOLLI, Michel. A Contemplação do mundo. Porto Alegre, Artes e Ofícios Ed., 1995.
   - 'SANTOS, Eduardo Macarenhas, BAHIA Denise Marques et ali. Inventário Multimídia da Arquitetura Moderna de Belo Horizonte: novas formas de representação e manipulação de base dados documentais sobre a arquitetura moderna. Anais do Congresso Iberoamericano de Grafica Digital Sigradi 2004.'
   - VASCONCELLOS, Sylvio de. Noções sobre arquitetura. Belo Horizonte, Escola de Arquitetura da UFMG, 1963.
-
 - title: Riposatevi
   subtitle: a Tropicália de Lucio Costa na XIII Trienal de Milão
   authors:
@@ -423,14 +407,12 @@ articles:
   - 'SILVA TELLES, Sophia da. Lucio Costa: monumentalidade e intimismo. In Novos Estudos/CEBRAP nº 25. São Paulo, outubro, 1989. p.75-94.'
   - 'VELOSO, Caetano. Verdade Tropical. São Paulo: Cia. das Letras, 1997.'
   - 'VENTURI. Robert. Aprendendo com Las Vegas. São Paulo: Cosac & Naify, 2003.'
-
 - title: Le Corbusier e Lucio Costa
   subtitle: intercâmbio de saberes
   authors:
   - givenname: Eduardo Mendes
     familyname: de Vasconcellos
   locale: pt-BR
-
 - title: Influências estrangeiras e afirmação nacional no espaço urbano do Rio de Janeiro, 1922/1940
   authors:
   - givenname: Eduardo Cezar
@@ -438,7 +420,6 @@ articles:
   locale: pt-BR
   keywords:
   - Modernismo – Nacionalismo - Estrangeirismo
-
 - title: Espaços modernos cariocas
   subtitle: por uma monumentalidade peculiar
   authors:
@@ -463,7 +444,6 @@ articles:
   - 'SUBIRATS, Eduardo. Da Vanguarda ao Pós-Moderno. Trad.de Luiz Carlos Daher e Adelia Meneses, São Paulo: Nobel,1986, 2a. edição.'
   - TELLES, Augusto Silva. Um pioneiro da arquitetura no Brasil, Arquitetura, nº 58, abril 1967.
   - WARCHAVCHIK, Gregori. “Acerca da Arquitetura Moderna”. Artigo publicado no jornal do Correio da Manhã, Rio de Janeiro, 1 de novembro de 1925.
-
 - title: Siegfried Giedion e o caso brasileiro
   subtitle: uma aproximação historiográfica
   authors:
@@ -492,7 +472,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1999. SOLÀ-MORALES, Ignaci. Siegfried Giedion: la construcción de la historia de la arquitectura. In: SOLÀ-MORALES, Ignaci. Inscripciones. Barcelona: Editorial Gustavo Gili, 2003, p.217-25.'
   - 'TOURNIKIOTIS, Panayotis. The Historiografy of Modern Architecture. Cambridge: Massachusetts Institute of Technology, 1999.'
   - 'ZEVI, Bruno. Historia de la Arquitectura Moderna. Barcelona: Editorial Poseidon, 1980.'
-
 - title: Arquitetura e Estado no Brasil Rino Levi
   subtitle: Hespéria nos Trópicos
   authors:
@@ -534,7 +513,6 @@ articles:
   - '_____. A História da Burguesia Brasileira. Rio de Janeiro: Civilização Brasileira, 1976.'
   - 'TROTSKY, Leon. Histoire de la Révolution Russe. Paris: Seuil, 1962.'
   - 'VILLELA, Fábio Fernandes. Rino Levi – Hespéria nos Trópicos: A Racionalização dos Processos de Trabalho em Escritórios de Arquitetura e a Interação entre Intelectuais, Estado Desenvolvimentista e a Industrialização em São Paulo. Campinas: UNICAMP, 2003. 324 p. Dissertação (Mestrado) – Programa de Pós-Graduação em Sociologia, Instituto de Filosofia e Ciências Humanas, Universidade Estadual de Campinas, Campinas, 2003.'
-
 - title: Plástica e tradição
   subtitle: uma aproximação entre Lucio Costa e Fernando Távora
   authors:
@@ -553,7 +531,6 @@ articles:
   - 'TELLES, Sofia S. Lucio Costa: Monumentalidade e Intimismo. Revista Novos Estudos, São Paulo: Cebrap, n. 25, p.75-94, outubro de 1989.'
   - 'TRIGUEIROS, Luiz. (Ed.) Fernando Távora. Lisboa: Blau, 1993.'
   - 'WINSIK, Guilherme. Lucio Costa. São Paulo: Cosac & Naify, 2001.'
-
 - title: Arquitetura no Brasil no segundo pós-guerra
   subtitle: a síntese das artes
   authors:
@@ -573,7 +550,6 @@ articles:
   - PRADO, Carlos da Silva Da Boa Vizinhança entre as Artes Plásticas. 1º Congresso Brasileiro de Arquitetos. Revista Acrópole n. 83, março 1945, p.301-302.
   - MINDLIN, Henrique E. Arquitetura Moderna no Brasil, prefácio de S. Giedion, Rio de Janeiro/ Aeroplano/IPHAN, 2000.
   - 'ZUCKER, Paul (org.) New architecture and city planning: a symposium. New York. Philosophical Library, 1944.'
-
 - title: Urbanismo, modernidade e projeto nacional
   subtitle: reflexões em torno do Plano Agache
   authors:
@@ -588,7 +564,6 @@ articles:
   - Urbanism
   - Rio de Janeiro
   - Nation-Building
-
 - title: Modernidade arquitetônica e internacionalismo nos trópicos
   authors:
   - givenname: Francisco Sales
@@ -615,7 +590,6 @@ articles:
   - 'TRAJANO FILHO, Francisco Sales. D.V.O.P.: Arquitetura Moderna, Estado e Modernização (Paraíba, década de 1930). São Carlos: EESC-USP, 2003 (Dissertação de Mestrado)'
   - WARCHAVCHIK, Gregori. “Arquitetura Viva”, C.T.C. Cultura. Técnica. Ciência. Rio de Janeiro, ano 1, n. 1, 1931, p.11-13.
   - 'OLIVEIRA, Beatriz Santos de. A modernidade oficial: a arquitetura das escolas públicas do Distrito Federal (1928-1940). São Paulo: FAU-USP, 1991. (Dissertação de mestrado).'
-
 - title: Escola Pernambucana ou Tradição Inventada?
   authors:
   - givenname: Guilah
@@ -679,7 +653,6 @@ articles:
   - 'TZONIS, Alexander, LEFAIVRE, Liane, DIAMOND, Richard. Architecture in North America since 1960. London: Thames and Hudson Ltd., 1995.312p. p.15-17.'
   - 'VAZ, Rita de Cássia. Luiz Nunes: Arquitetura Moderna em Pernambuco:1934-1937. São Paulo, 1989. Dissertação (Mestrado): Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.'
   - WOLF, José. Acácio Gil Borsoi. Um mestre ainda aprendiz. AU Documento, São Paulo; nº 84, jun./jul. 99, p. 35-41.
-
 - title: Ensinando a morar
   subtitle: a busca pelo homem novo através da Arquitetura no Conjunto do Pedregulho
   authors:
@@ -691,7 +664,6 @@ articles:
   keywords:
   - Arquitetura Moderna
   - Habitação Popular
-
 - title: A leitura do ambiente urbano e a construção de uma identidade nacional
   authors:
   - givenname: Inês
@@ -716,7 +688,6 @@ articles:
   - 'REIS, José de Oliveira. O Rio de Janeiro e seus prefeitos: evolução urbanística da cidade. Rio de Janeiro: Publicação Prefeitura da Cidade do Rio de Janeiro, 1977.'
   - 'SAMPAIO, Carlos. Memória Histórica: obras da Prefeitura do Rio de Janeiro. RJ: Empresa Internacional, 1924.'
   - 'SANTOS, Noronha. O parque da Praça da República, Antigo da Aclamação. Revista do Serviço do Patrimônio Histórico e Artístico Nacional. Rio de Janeiro: Ministério da Educação e da Saúde/SPHAN, n. 8, p. 102-172, 1944.'
-
 - title: A modernidade das salas de cinema do Recife
   authors:
   - givenname: Isabella Leite
@@ -744,7 +715,6 @@ articles:
   - 'REZENDE, Antônio Paulo de Morais. (des)encantos modernos: histórias da cidade do Recife na década de vinte, Tese (Doutorado). São Paulo: USP, 1992.'
   - 'SARAIVA, Kate. Cinemas do Recife. Morfololgia de edifícios e salas para exibição cinematográfica. Recife: Trabalho Final de Graduação. UFPE, 2002.'
   - 'SEVCENKO, Nicolau: República: da Belle Époque à era do Rádio. São Paulo: Companhia das Letras, 1998. (História da vida privada no Brasil; 3). SOUZA BARROS. A Década de 20 em Pernambuco. Rio de Janeiro: Gráfica Editora Acadêmica, 1972.'
-
 - title: Mies van der Rohe no Brasil
   subtitle: projeto para o Consulado dos Estados Unidos em São Paulo, 1957-1962
   authors:
@@ -757,7 +727,6 @@ articles:
   keywords_en:
   - Mies van der Rohe
   - Brazil
-
 - title: Os Irmãos Roberto
   subtitle: poética urbana da forma e virtuosismo do elemento
   authors:
@@ -779,7 +748,6 @@ articles:
   - 'SANTOS, Paulo. Marcelo Roberto. In: Revista Arquitetura no 36. Rio de Janeiro: IAB-RJ, Junho de 1965.'
   - ROBERTO, Marcelo. Arquitetura e Luta pela Vida. Conferencia na Escola Nacioonal de Belas Artes em 1940.
   - '_________. In: Revista Arquitetura e Urbanismo. Setembro e Outubro de 1939, p.42'
-
 - title: Os projetos para Brasília e a construção da identidade nacional
   authors:
   - givenname: Jeferson Cristiano
@@ -787,7 +755,6 @@ articles:
   locale: pt-BR
   keywords:
   - Urbanismo - Brasília – Projetos
-
 - title: O Modernismo arquitetônico em Teresina (PI)
   authors:
   - givenname: Joene Saibrosa
@@ -811,7 +778,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: Edusp, 1999.'
   - 'TAVARES, Zózimo. 100 fatos do Piauí no século XX. 3a. ed. Teresina: Halley, 2001.'
   - 'TIETZ, Jürgen. História da Arquitetura do Século XX. Portugal: Konermann, 2000.'
-
 - title: O Movimento Moderno e a Arquitetura residencial de Florianópolis
   authors:
   - givenname: Josicler Orbem
@@ -835,7 +801,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2ª edição. São Paulo: Editora da USP, 2002.'
   - 'SILVA, Edson Luiz. Fotos de Florianópolis. Florianópolis: UFSC, 2005. Disponível em: <http://www. ufsc.br/~esilva> Acesso em 31 maio 2005, 10:00.'
   - 'WESTON, Richard. A Casa no Século Vinte. Lisboa: Editorial Blau, 2002.'
-
 - title: O IAPI de Belo Horizonte
   subtitle: entre proposta social e propaganda ideológica
   authors:
@@ -864,7 +829,6 @@ articles:
   - 'SIMÕES, Josanne Guerra. Sirênico Canto: Juscelino Kubitschek de Oliveira e a construção de uma imagem: 1932- 1955. Belo Horizonte: dissertação de mestrado em história da UFMG, 1995.'
   - 'SOUZA, Renato César José de. A arquitetura em belo Horizonte nas décadas de 40 e 5: Utopia e transgressão. In:.CASTRIOTA, Leonardo. Arquitetura da modernidade. Belo Horizonte: Editora'
   - 'TEIXEIRA, Carlos M. Em Obras: História do vazio em Belo Horizonte. São Paulo:Cosac & Naify Edições, 1999.'
-
 - title: Continuidades e dissonâncias na Arquitetura industrial de Hans Broos
   authors:
   - givenname: Karine
@@ -883,7 +847,6 @@ articles:
   - 'ZEIN, Ruth Verde. Cia. Hering: a Matriz de Blumenau e o Satélite de Rodeio. Projeto n. 60, fev. 1984, p. 33-66.'
   - ZEIN, Ruth Verde. Prêmio IAB/SP para a Hering Nordeste. Projeto n. 60, fev. 1984, p. 30-32.
   - 'ZEIN, Ruth Verde. O lugar da crítica: ensaios oportunos de arquitetura. Porto Alegre: Centro Universitário Ritter dos Reis, 2001.'
-
 - title: Imagens do moderno
   subtitle: a preservação do acervo do Laboratório de Fotodocumentação Sylvio de Vasconcellos
   authors:
@@ -921,7 +884,6 @@ articles:
   - TELES, G.M. (1985). Vanguarda Européia e Modernismo Brasileiro. Rio de Janeiro; Vozes.
   - 'TELLES, S.; CAMPOS, C. A. R.; MOTA, L.; ANDRADE, R. (1987). Patrimônio Edificado I: conservação/restauração. Revista do Patrimônio Histórico e Artístico Nacional. Rio de Janeiro, nº22/1987. p.90-105.'
   - VASCONCELOS. Contribuição para o estudo da arquitetura civil em Minas Gerais II. Arquitetura e Engenharia. Belo Horizonte, n. 3, nov/dez, 1946.
-
 - title: A obra de Severiano Porto na Amazônia
   authors:
   - givenname: Leticia
@@ -932,7 +894,6 @@ articles:
   - Região amazônica. Arquitetura regional
   keywords_en:
   - Amazonian region. Regional architecture
-
 - title: A cidade antiga nos CIAM 1950-59
   authors:
   - givenname: Lia
@@ -968,7 +929,6 @@ articles:
   - '_______. “Contro ogni teoria dell” ambientamento”. In: Il linguaggio moderno dell’architettura. Torino: Giulio Einaudi, 1973. pp. 188-192.'
   - 'Páginas eletrônicas:'
   - 'Sobre Collin ROWE: da University of Maryland, www.inform.umd.edu/ARCH/Current_Events/rowenotice.html'
-
 - title: Largo do Coimbra, Ouro Preto
   subtitle: a trajetória de um espaço frente ao pensamento moderno
   authors:
@@ -983,7 +943,6 @@ articles:
   - modern thought
   - preservation policies
   - Largo do Coimbra
-
 - title: A Casa da Independência
   subtitle: um exemplar de Edgar Graeff
   authors:
@@ -998,7 +957,6 @@ articles:
   - modernismo
   - Edgar Graeff
   - arquitetura residencial
-
 - title: Arquitetura do século XX no bairro de Higienópolis
   authors:
   - givenname: Lúcio Gomes
@@ -1006,7 +964,6 @@ articles:
   locale: pt-BR
   keywords:
   - Preservação / Arquitetura Moderna no Brasil / Urbanismo
-
 - title: A Casa de Vidro
   authors:
   - givenname: Marcos José
@@ -1015,7 +972,6 @@ articles:
   references:
   - 'Acayaba, Marlene Milan, Residências em São Paulo 1947 – 1975, São Paulo: Projeto, 1986 Bardi, Lina Bo / Ferraz, Marcelo C. org., São Paulo: Empresa das Artes, 1993 Habitat, Revista das Artes no Brasil, nº 10, São Paulo, s/d. Processo de Tombamento da “Casa de Vidro” CONDEPHAAT, São Paulo, 1981'
   - Fontes Documentais Desenhos de Concepção da Residência Bardi, acervo do Instituto Lina Bo e Pietro Maria Bardi
-
 - title: O moderno regional?
   subtitle: considerações sobre um patrimônio em extinção
   authors:
@@ -1058,13 +1014,11 @@ articles:
   - WAISEMAN, Marina. Primer Seminário de Arquitectura Latinoamericana. Um auspicioso comi- enzo.In. Summa, n. 217, set. 1985, p. 27. Tradução da autora deste artigo.
   - 'ZEIN, Ruth Verde. Um arquiteto brasileiro: Severiano Mario Porto. In Projeto, n. 83, São Paulo: Projeto Editores Associados, janeiro de 1986, p. 44.'
   - 'ZEIN, Ruth Verde. Título de Professor Honoris Causa para Severiano Porto, Texto Especial Arqui- textos 210, dez. 2003 <www.vitruvius.com.br/arquitextos/arq000/esp210.asp>. Acesso em: 19 fev. 2003.'
-
 - title: A afirmação de uma feição nacional e outros caminhos
   authors:
   - givenname: Maria Alice
     familyname: Junqueira Bastos
   locale: pt-BR
-
 - title: Lúcio Costa e a Escola Nacional de Belas Artes
   authors:
   - givenname: Maria Lucia
@@ -1093,7 +1047,6 @@ articles:
   - 'SISSON, Rachel. Escolas Públicas do Primeiro Grau. Arquitetura Revista. Rio de Janeiro: FAU/UFRJ, no. 8, 1990.'
   - 'SUAREZ, Naia Alban. Art-Déco e o Moderno: conceitos que se confundem no ambiente progressista brasileiro. In: Art-Déco na América Latina. Anais do 1o. Seminário Internacional. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro/SMU, Solar Grandjean de Montigny/PUC-RJ, 1997.'
   - 'XAVIER, Alberto (org.) Arquitetura Moderna Brasileira: Depoimento de uma Geração. São Paulo: Pini/ABEA/Fundação Vilanova Artigas, 1983. Lúcio Costa: Obra escrita. Brasília: UnB, 1966, mimeo.'
-
 - title: Um brasileiro na Arquitetura moderna de São Paulo
   subtitle: Jayme da Silva Telles
   authors:
@@ -1146,7 +1099,6 @@ articles:
   - 'TELLES, Jaime da Silva. O Standard na Arquitetura. São Paulo, 15 set. 1930 In: TELLES, Augusto Carlos da Silva. Um pioneiro da nova arquitetura no Brasil. Arquitetura, Rio de Janeiro, n. 58, p. 10, abr. 1967.'
   - 'TELLES, Jaime da Silva. Para Regulamentar a Estética das Construções em São Paulo. São Paulo: Correio da Tarde. In: SOUZA, Ricardo Forjaz Christiano de. Trajetórias da Arquitetura Modernista. São Paulo: O Centro, 1982.'
   - TELLES, Jaime da Silva. Tradicionalismo e Pseudo-tradicionalismo. Illustração Brasileira, Rio de Janeiro, set. 1929.
-
 - title: Arquitetura moderna brasileira como representação
   subtitle: o caso da FAUUSP
   authors:
@@ -1155,7 +1107,6 @@ articles:
   locale: pt-BR
   keywords:
   - Moderno. Identidade Nacional. Representação
-
 - title: Histórias e memórias de um arquiteto
   subtitle: a breve trajetória de Carlos Barjas Millan
   authors:
@@ -1164,7 +1115,6 @@ articles:
   locale: pt-BR
   abstract: 'O arquiteto Carlos Barjas Millan (1927-1964), apesar da consagrada relevância de sua obra para a arquitetura paulista, ainda não foi alvo de estudos mais aprofundados, exceção feita ao doutorado do Prof. Dr. Carlos Augusto Mattei Faggin, de 1992. Mais recentemente, com o estudo sistemático da arquitetura paulista e dada a qualidade da contribuição de Millan, fica evidente a necessidade de uma análise mais profunda e da divulgação de sua arquitetura. Resultado de um esforço coletivo para a pesquisa e divulgação da obra de Millan, este trabalho apresenta uma pequena parcela do trabalho que vem sendo desenvolvido. Adotou-se como estratégia para a recuperação de parte das informações, o método de memória oral. Foram programadas 19 entrevistas entre pessoas identificadas em estreita relação com o arquiteto, cujas gravações foram digitadas e alguns trechos estão aqui reproduzidos. A formação no Mackenzie, a participação na JUC, o desempenho como professor, os parceiros, as idéias de arquitetura, as suas obras e, sobretudo, o seu modo muito particular de ser, incluindo sua súbita saída de cena foram os assuntos mais recorrentes em todos os entrevistados. Selecionamos para esta comunicação os fragmentos que recuperam as suas idéias de arquitetura: a racionalidade, o didatismo, a obsessão pela arquitetura, o rigor construtivo, o refinamento do detalhe e as suas referências, e que são reveladores da sua importância no panorama da arquitetura brasileira. Informações que associadas ao acervo de desenhos, hoje sob custodia da FAU, algumas de suas obras ainda existentes e praticamente inalteradas, permitirão uma melhor exploração de sua contribuição.'
   abstract_en: Architect Carlos Barjas Millan (1927-1964), although with works of distinguished relevance for São Paulo’s architecture, has not been studied deeply enough, with the exception of Prof. Dr. Carlos Augusto Mattei Faggin’ thesis, written in 1992. With the new and systematic research about São Paulo’s architecture, and considering the high quality of Millan’s contribution, it comes out very clearly the need to analyze deeper and divulgate his architecture.
-
 - title: Arquitetura moderna em João Pessoa
   authors:
   - givenname: Nelci
@@ -1180,7 +1130,6 @@ articles:
   - inventory
   references:
   - '1. BRUAN, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 2003. 2. CONSULIN, Alexandra. Yes, nós temos arquitetura moderna. Dissertação de Mestrado. Natal, PPGAU/UFRN, 2004. 3. COSTA, Carolina & LIMA, Raoni. Análise de uma Casa Moderna. Trabalho curricular. João Pessoa, CAU/UFPB, 2004. 4. COSTA, Ana Luiza Schuster; OLIVEIRA, Melissa Pacheco. Delfim Amorim. Trabalho curricular. João Pessoa, CAU/UFPB, 1999. 5. DIÓGENES, Beatriz; ANDRADE, Margarida; DUARTE Junior, Romeu. Liberal de Castro. A&U - Arquitetura e Urbanismo, São Paulo, nº 65, pp. 73-82, Abril/Maio 1996. 6. DUDA, Geraldino Pereira. O homem que projetou o Teatro Municipal Severino Cabral. Campina Grande, PMCG, 2003. 7. FICHER, Sylvia; ACAYABA, Marlene. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982. 8. GIEDION, Sigfried. Dix Ans d''Architecture Contemporaine. Zurich, Girsberger, 1954. 9. LEAL, Wills. A saga de um grande clube. História do Cabo Branco. João Pessoa, Editora A União. 1995. 10. MOURA, Berthilde, MOURA, Aníbal & PORDEUS, Thelma. Patrimônio Arquitetônico e Urbanístico de João Pessoa: um pré-inventário. Trabalho Final de Graduação. João Pessoa, CAU/UFPB, 1985. 11. ROCHA, Mércia Pereira. Manifestações da Arquitetura Moderna em João Pessoa. Trabalho Final de Graduação João Pessoa, CAU/UFPB, 1987. 12. SALES, Francisco. Vanguarda e Esquecimento: a obra de Clodoaldo Gouveia. Trabalho Final de Graduação. João Pessoa, CAU/UFPB, 1998. 13. SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da USP, 2002. 14. WOLF, José. “Vida no satélite verde”. A&U - Arquitetura e Urbanismo, São Paulo, n.19, p. 64- 74, Agosto/Setembro 1988. 15. WOLF, José. “Acácio Gil Borsói”. A&U - Arquitetura e Urbanismo, São Paulo, n.84, p.35–41, Junho/Julho 1999.'
-
 - title: Arquitetura moderna e preexistência edificada
   subtitle: intervenções sobre o patrimônio arquitetônico de Salvador
   authors:
@@ -1217,7 +1166,6 @@ articles:
   - 'ROGERS, Ernesto N. La responsabilità verso la tradizione. In: _____. Esperienza dell’Architettura. Milão: Skira, 1997. p. 267-279.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 2002.'
   - 'SEGAWA, Hugo (org.). Arquiteturas no Brasil / Anos 80. São Paulo: Projeto, 1988.'
-
 - title: Conservação de residências de linguagem moderna construídas na década de 50
   authors:
   - givenname: Paula Merlino
@@ -1241,7 +1189,6 @@ articles:
   - Créditos das Imagens
   - 'Figura 01: MINDLIN, Henrique E. Arquitetura Moderna no Brasil. p. 69. Figura 30: XAVIER, Alberto. Arquitetura Moderna no Rio de Janeiro. p. 87.'
   - Demais imagens do arquivo pessoal da autora.
-
 - title: Ideologia moderna de uma civilização do projeto
   authors:
   - givenname: Pedro da Luz
@@ -1249,7 +1196,6 @@ articles:
   locale: pt-BR
   keywords:
   - Projeto – Moderno - Civilização
-
 - title: A flexibilidade da planta livre moderna para novos usos
   authors:
   - givenname: Renato Luiz Sobral
@@ -1270,7 +1216,6 @@ articles:
   - 'Periódicos locais: CORREIO DE SÃO CARLOS, 1953-1956; A CIDADE, 1954-1958, 1962'
   - Processos da Prefeitura Municipal de São Carlos nº 4567; 2916; 5586; 8021
   - Entrevistas com Sr. José Olavo de Azevedo e Antoine Azouri.
-
 - title: Restauração do Refeitório Central
   subtitle: a work in progress
   authors:
@@ -1297,7 +1242,6 @@ articles:
   - 'OLIVEIRA, Benedito T (Coord.); COSTA, Renato G. R.; PESSOA, Alexandre José de Sou- za. Um Lugar para a Ciência: a formação do campus de Manguinhos. Editora FIOCRUZ. Rio de Janeiro, 2003.'
   - 'SANTOS, Cecília et al. Le Corbusier e o Brasil. São Paulo: Tessela: Projeto Editora, 1987.'
   - 'XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro. São Paulo; PINI: Fundação Vilanova Artigas; Rio de Janeiro – RIOARTE, 1991.'
-
 - title: Modernismo e urbanidade
   subtitle: os pioneiros da moradia vertical em São Paulo
   authors:
@@ -1343,7 +1287,6 @@ articles:
   - 'TELLEs, Goffredo Teixeira da Silva: “Prefácio” In: Rino Levi, arquiteto, obras 1928-1940, São Paulo, Brasil. Serviço dos Paises, São Paulo, 1940.'
   - 'TOLEDO, Benedito Lima de: Prestes Maia e as origens do urbanismo moderno em São Paulo. Empresa das Artes, São Paulo, 1996.'
   - 'XAVIER, Alberto; LEMOS, Carlos A.C. e CORONA, Eduardo: Arquitetura moderna paulistana. São Paulo, Editora Pini, 1983.'
-
 - title: A década ausente
   subtitle: reconhecimento necessário da Arquitetura brasileira do Brutalismo paulista
   authors:
@@ -1359,13 +1302,11 @@ articles:
   - Brazilian architecture
   - brutalism
   - Paulista architecture, cultural identity
-
 - title: Colonialismos y españolismos, todos son modernismos
   authors:
   - givenname: Silvia
     familyname: Arango
   locale: pt-BR
-
 - title: Recepção da Arquitectura moderna brasileira em Portugal
   authors:
   - givenname: Tânia Beisi
@@ -1402,7 +1343,6 @@ articles:
   - 'PREFEITURA DA CIDADE DO RIO DE JANEIRO. Guia da Arquitectura Ecléctica no Rio de Janeiro. Centro de Arquitectura e Urbanismo do Rio de Janeiro. Rio de Janeiro: Casa da Palavra, 2000.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900 – 1990. São Paulo: Edusp, 1998.'
   - 'XAVIER, Alberto, BRITTO, Alfredo e NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro. São Paulo: Editora Pini, Fundação Vilanova Artigas. Rio de Janeiro: RIOARTE, 1991.'
-
 - title: Arquitetura moderna em São José dos Campos
   subtitle: a representação de uma identidade
   authors:
@@ -1428,7 +1368,6 @@ articles:
   - Arquivos e acervos particulares Arquivo do C.T.A . (12); Casa do Médico(26); Escritório Rino Levi Arquitetos Associados (10, 17)
   - Arquivos e acervos públicos Acervo do Departamento de Patrimônio Histórico (2, 6, 7, 15, 16, 24); Acervo Municipal (1)
   - Fotografias Lucas L. Ruiz (13, 14); Ricardo Veiga (27, 28); Sonia Di Maio (3, 4, 8); Tatiana Macedo Otta (9, 18-21, 23, 25, 29).
-
 - title: A noção de adaptabilidade ao meio no discurso modernista
   authors:
   - givenname: Telma
@@ -1463,7 +1402,6 @@ articles:
   - V III, p. 31-43, dezembro de 1927.
   - 'SEGAWA, Hugo & WISSENBACH, Vicente. Oswaldo Arthur Bratke. São Paulo: ProEditores, 1997.'
   - 'SEVCENKO, Nicolau. Orfeu Extático na Metrópole: São Paulo, Sociedade e Cultura nos Frementes Anos 20. São Paulo: Companhia das Letras, 1992.'
-
 - title: De mocinho a bandido
   subtitle: mudanças e continuidades no modelo espacial modernista dos grandes conjuntos
   authors:
@@ -1490,7 +1428,6 @@ articles:
   - 'MARTINEZ, Affonso. Ensaio sobre Projeto. Brasília: Editora da UnB, 1991.'
   - 'SCOFFHAM, Ernest. The Shape of British Housing. Londres: George Godwin, 1984.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil. São Paulo: EDUSP, 1997.'
-
 - title: Tradição e contradições na Arquitetura religiosa brasileira dos anos 1950
   authors:
   - givenname: Valdir
@@ -1513,7 +1450,6 @@ articles:
   - 'PEDROSA, Mário. Dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, 1981.'
   - 'PESSÔA, José, org. Lúcio Costa: Documentos de Trabalho. Rio de Janeiro: IPHAN, 1999.'
   - 'SCHUBERT, Mons. Guilherme. Arte para a fé: igrejas e capelas depois do Concílio Vaticano II. Petrópolis: Vozes, 1978.'
-
 - title: O jogo de verde com branco
   subtitle: Lúcio Costa em defesa do Plano Piloto da Barra da Tijuca
   authors:
@@ -1555,7 +1491,6 @@ articles:
   - SECRETARIA MUNICIPAL DE PLANEJAMENTO E COORDENAÇÃO GERAL. O Plano Piloto da Baixada de Jacarepaguá e a Expansão Urbana na Cidade do Rio de Janeiro, Prefeitura da Cidade do Rio de Janeiro, 1977.
   - SOBRE A CONSTRUÇÃO DE BRASÍLIA, Depoimento prestado ao jornalista Cláudius Ceccon, do «Jornal do Brasil». em 8. 11.61.
   - 'WETTER, David M. e Rosa MASSENA. Quem se apropria dos benefícios líquidos dos investimentos do Estado em infra-estrutura urbana?Uma teoria da causação circular. Rio de Janeiro: Iuperj, (mimeo), 1981.'
-
 - title: Formação da Arquitetura moderna no Brasil (1920-1940)
   authors:
   - givenname: William
@@ -1585,4 +1520,3 @@ articles:
   - 'XAVIER, Alberto (org). Depoimento de uma geração: arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003.'
   - 'Periódicos: Architecura, Mensário de Arte. Rio de Janeiro, 2, jul. 1929. Architectura no Brasil. Rio de Janeiro, 24, set.1924.'
   - ___. Rio de janeiro, 3, dez. 1921. Arte em Revista. São Paulo, 4, ago. 1980.
-

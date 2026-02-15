@@ -58,6 +58,7 @@
             <affiliation locale="pt_BR">USU / PUC-Rio</affiliation>
             <country>BR</country>
             <email>berredo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1734-9105</orcid>
           </author>
         </authors>
       </publication>
@@ -90,6 +91,7 @@
             <affiliation locale="pt_BR">USU / PUC-Rio</affiliation>
             <country>BR</country>
             <email>berredo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0003-1734-9105</orcid>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
             <givenname locale="pt_BR">Guilherme Araújo de</givenname>
@@ -106,15 +108,16 @@
       <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="2" date_published="2014-09-26" section_ref="POST-sdrj03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
         <id type="internal" advice="ignore">3</id>
         <title locale="pt_BR">O clássico moderno ou o moderno clássico?</title>
-        <subtitle locale="pt_BR">reflexões sobre os edifícios do IRB e do Maison de France</subtitle>
+        <subtitle locale="pt_BR">reflexões sobre os edifícios do irb e do maison de france</subtitle>
         <abstract locale="pt_BR">A arquitetura moderna no Brasil não tem uma produção homogênea que possa ser compreendida como tal. Desde a década de 1990, vem sendo feita revisão historiográfica analisando a diversidade de propostas e leituras sobre a vasta produção no país. A cidade do Rio de Janeiro concentra grande parte dessa produção e autores muito variados. A proposta deste trabalho é cotejar aspectos teóricos, formais e tectônicos de dois importantes edifícios: o Instituto de Resseguros do Brasil (IRB, 1941) e o Maison de France (1951), ambos situados na Esplanada do Castelo, área aterrada com os resíduos da demolição do Morro do Castelo, região que abriga diversas edificações modernas. Procura-se identificar características de composição consideradas clássicas e compreender como são empregadas. Este trabalho foi desenvolvido no Laboratório de Análise Urbana e Representação Digital (LAURD) no Programa de Pós-Graduação em Urbanismo (LAURD/PROURB/UFRJ) com o apoio da FAPERJ e do CNPq.</abstract>
         <authors>
           <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
-            <givenname locale="pt_BR">Maria Cristina</givenname>
+            <givenname locale="pt_BR">Maria Cristina Nascentes</givenname>
             <familyname locale="pt_BR">Cabral</familyname>
             <affiliation locale="pt_BR">PROURB-UFRJ</affiliation>
             <country>BR</country>
             <email>cabral.mc@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-6997-2284</orcid>
             <biography locale="pt_BR">Doutora</biography>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="1" id="2">
@@ -123,14 +126,16 @@
             <affiliation locale="pt_BR">FAU-UFRJ</affiliation>
             <country>BR</country>
             <email>paraizo@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-2012-556X</orcid>
             <biography locale="pt_BR">Doutor</biography>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">
-            <givenname locale="pt_BR">Denise V.</givenname>
+            <givenname locale="pt_BR">Denise Vianna</givenname>
             <familyname locale="pt_BR">Nunes</familyname>
             <affiliation locale="pt_BR">FAU-UFRJ</affiliation>
             <country>BR</country>
-            <email>nunes@exemplo.com</email>
+            <email>autor3@example.com</email>
+            <orcid>https://orcid.org/0000-0001-8537-4885</orcid>
             <biography locale="pt_BR">Doutora</biography>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="3" id="4">
@@ -167,6 +172,7 @@
             <affiliation locale="pt_BR">FAU-UFRJ</affiliation>
             <country>BR</country>
             <email>medeiros@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-4217-2914</orcid>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="8" id="9">
             <givenname locale="pt_BR">Rafael de Oliveira Gomes da</givenname>
@@ -174,6 +180,7 @@
             <affiliation locale="pt_BR">FAU-UFRJ</affiliation>
             <country>BR</country>
             <email>costa.r@exemplo.com</email>
+            <orcid>https://orcid.org/0000-0002-9122-5373</orcid>
           </author>
         </authors>
       </publication>
@@ -183,7 +190,7 @@
       <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="pt_BR" version="1" status="3" url_path="" seq="3" date_published="2014-09-26" section_ref="POST-sdrj03" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
         <id type="internal" advice="ignore">4</id>
         <title locale="pt_BR">Irmãos Roberto e as fachadas dos edifícios residenciais</title>
-        <subtitle locale="pt_BR">uma investigação didática</subtitle>
+        <subtitle locale="pt_BR">Uma investigação didática</subtitle>
         <abstract locale="pt_BR">A pesquisa aqui apresentada tem como tema o estudo dos edifícios residenciais projetados pelos Irmãos Roberto na fase em que Milton Roberto integrou a equipe. O enfoque do estudo é a fachada dessas obras e a multiplicidade de atributos exemplares, funcionais e estéticos que essas fachadas assumem. A presença do domínio técnico e construtivo é marcante, e as fachadas são desenhadas a partir de um rigoroso sistema de modulação e contam com um detalhamento minucioso dos elementos que a compõe. As excelentes soluções para questões de conforto térmico, controle de luz e de privacidade também caracterizam esses projetos. Além do cuidado técnico e funcional, apresentam um apurado trabalho estético demonstrado em potentes composições do plano das fachadas. As fachadas produzidas nesses edifícios dos Irmãos Roberto contribuem positivamente para o espaço interior dos apartamentos e para a paisagem urbana, beneficiando o morador do edifício projetado e também o transeunte da cidade.</abstract>
         <authors>
           <author include_in_browse="true" user_group_ref="Autor" seq="0" id="1">
@@ -200,6 +207,7 @@
             <affiliation locale="pt_BR">FAU-UFRJ</affiliation>
             <country>BR</country>
             <email>maraoe@via-rs.net</email>
+            <orcid>https://orcid.org/0000-0003-3083-6426</orcid>
             <biography locale="pt_BR">Professora Adjunta</biography>
           </author>
           <author include_in_browse="true" user_group_ref="Autor" seq="2" id="3">

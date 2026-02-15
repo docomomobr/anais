@@ -1,23 +1,21 @@
 # 7º Seminário Docomomo Brasil — sdbr07
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr07
-
 issue:
-  slug: "sdbr07"
-  title: "7º Seminário Docomomo Brasil"
-  subtitle: "O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura"
-  description: "Anais do seminário focando em reciclagem, requalificação e rearquitetura de Arquitetura moderna. Porto Alegre: PROPAR-UFRGS."
+  slug: sdbr07
+  title: 7º Seminário Docomomo Brasil
+  subtitle: 'O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura'
+  description: '7° Seminário Docomomo Brasil: anais: O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN: 978-85-60188-06-2.'
   year: 2007
   volume: 1
   number: 7
   date_published: 2007-10-09
-  isbn: "978-85-60188-06-2"
+  isbn: 978-85-60188-06-2
   editors:
-    - "Carlos Eduardo Comas"
-    - "Edson Mahfuz"
-    - "Airton Cattani"
-  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr07"
-
+  - Carlos Eduardo Comas
+  - Edson Mahfuz
+  - Airton Cattani
+  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr07
 articles:
 - title: Reflexões sobre a reciclagem da arquitetura moderna em Salvador
   subtitle: o Edifício Caramuru e a Cidade Baixa
@@ -51,7 +49,6 @@ articles:
   - <http://www.portotrapiche.com.br> Acesso em 12/08/2007
   - <www.revitalizarcomercio.com> Acesso em 15/04/2007
   - 'Um ambiente excepcional. Disponível em: <http://www.ac-hotels.com/main.asp> Acesso em 12/08/2007'
-
 - title: A requalificação da arte utilitária
   subtitle: busca por uma destinação compatível e utilitária aos monumentos construídos modernistas
   authors:
@@ -76,7 +73,6 @@ articles:
   - 'MONTANER, Josep Maria. Arquitectura y critica. Barcelona: Gustavo Gili, 1999.'
   - 'RIEGL, Alois. El culto moderno a los monumentos: caracteres y origen. 2.ed. Madrid: Visor, 1999.'
   - ROCHA, Paulo Mendes da. Uma cidade degenerada. Plural. Carta Capital, ano XIII, n.457, 15 de agosto de 2007, p.64-66.
-
 - title: A Interbau e a requalificação moderna do oitocentista Hansaviertel em Berlim 1957
   authors:
   - givenname: Mara Oliveira
@@ -103,7 +99,6 @@ articles:
   - NOEBEL, Walter; SPIEKERMANN, Erik; WILSON, Peter; MACKAY, David; LANGHOF, Cristoph; VON
   - GERKAN, Meinhard; SAUERBRUCH, Matthias; HÄMER, Hardt-Waltherr; KALTENBRUNNER, Robert; e
   - 'POSENER, Julius. Berlin, Berlin – Architektur für ein neues Jahrhundert. Berlin: Nishen, 1995. Interbau Berlin 1957. Amtlicher Katalog der Internationalen Bauausstellung. Berlin, 1957. Site de Internet: http://www.berliner-hansaviertel.de/'
-
 - title: Pelas ruas do mercado, o pulsar de velhos costumes e novos anseios
   subtitle: o desafio da requalificação do Mercado Central de João Pessoa — PB
   authors:
@@ -150,7 +145,6 @@ articles:
   - 'TRAJANO FILHO, Francisco Sales. Vanguarda e esquecimento: a arquitetura de Clodoaldo Gouveia. João Pessoa: UFPB, (Monografia de graduação)'
   - 'TRAJANO FILHO, Francisco Sales. D.V.O.P.: Arquitetura Moderna, Estado e Modernização (Paraíba, Década de 1930). São Carlos: EESUSP, 2003 (Dissertação de Mestrado). URBANIZAÇÃO de João Pessoa e Cabedello: a exposição do esboço elaborado pelo urbanista Nestor de Figueiredo perante a commissão encarregada de collaborar no plano. A União, 10 mar. 1932.'
   - 'VIDAL, Wylnna. Transformações urbanas: a modernização da capital paraibana e o desenho da cidade, 1910-1940. João Pessoa: UFPB, 2004. (Dissertação de Mestrado).'
-
 - title: Assembléia Legislativa de Fortaleza
   subtitle: descontinuidade, requalificação ou o quê?
   authors:
@@ -171,7 +165,6 @@ articles:
   - 'NESBITT, Kate. Uma nova agenda para a arquitetura teórica (1965- 1995). Tradução Vera Pereira. São Paulo: Cosac Naify, 2006.'
   - 'STROETER, João Rodolfo. Arquitetura e teorias. São Paulo: Nobel, 1986.'
   - 'COSTA, Lúcio. Arquitetura. Rio de Janeiro: José Olympio, 2002.'
-
 - title: A reciclagem da Estação Ferroviária de Brasília
   authors:
   - givenname: Roberto
@@ -187,7 +180,6 @@ articles:
   - SILVA, Ernesto. Preservação de Brasilia, ontem e hoje. Revista Brasilia em Dia, 2006
   - 'NIEMEYER, Oscar. Minha Arquitetura. Ed. Revan, 1995.KANT, I. Crítica da Razão Pura. 4ª ed. Lisboa. Portugal: Fundação Calouste Gulbenkian. 657p.MALREAUX, A. Discurso proferido em Brasilia em 25/08/1959.GRAEFF, Edgard. A superação da dependencia cultural. A arquitetura brasileira após Brasilia. Riode Janeiro: IAB-RJ. 1977.Revista Módulo – Revista de Arquitetura, Urbanismo e Artes – Dezembro de 1975 – Janeiro de1976. N. 4 VIOLLET-LE-DUC, E. E., Restauração. Brasil, Artes & Ofícios.'
   - 'BRANDI, Cesare. Teoria da Restauração. Artes & Ofícios.http://www.vitruvius.com.br/arquitextos/arq000/esp030.asphttp://w ww.arcoweb.com.br/debate/debate10.aspProjeto Design, edição 252, Fevereiro de 2001.FCA site: http://www.fcasa.com.brEstações Ferroviárias site: http://www.estacoesferroviarias.com.br'
-
 - title: A mão e sua impressão
   authors:
   - givenname: Silvio
@@ -210,7 +202,6 @@ articles:
   - 'TSIOMIS, Yannis. Da utopia e da realidade da paisagem. In: TSIOMIS, Yannis (Editor). Le Corbusier – Rio de Janeiro: 1929, 1936. Paris; Centro de Arquitetura e Urbanismo do Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, 1998.'
   - FONTES DAS ILUSTRAÇÕES
   - 'Fig. 1 – SILVA, José Loureiro da. Um Plano de Urbanização. Porto Alegre: Ed. Globo, 1943, Fig. nº 25. Figs. 2, 3, 4 e 5 – CZAJKOWSKI, Jorge (org.). Jorge Machado Moreira. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro, Centro de Arquitetura e Urbanismo do Rio de Janeiro, 1999, p. 107. Figs. 6, 7, 8, 9 e 12 – SILVA, 1943, op. cit., Figs. nº 30, 28, 32, 31 e 29. Fig. 10 – RAEBURN Michael; WILSON, Victoria (Ed.). Le Corbusier Architect of the Century. London: Arts Council of Great Britain, 1987, p. 205. Fig. 11 – MINDLIN, Henrique. Modern Architecture in Brazil. Rio de Janeiro: Colibris, 1956. Fig. 13 – LUCCAS, Luís H. Haas. Arquitetura Moderna em Porto Alegre sob o mito do “gênio artístico nacional”. Tese de Doutorado. Porto Alegre: PROPAR/UFRGS, 2004, p. 107.'
-
 - title: Patrimônio moderno em campus universitário
   subtitle: rearquitetura ou descaracterização? O caso da UFC
   authors:
@@ -239,7 +230,6 @@ articles:
   - 'CHOAY, Françoise. A Alegoria do Patrimônio. São Paulo: Estação Liberdade / Editora da Unesp, 2001.'
   - DIÓGENES, Beatriz Helena Nogueira, et al. Liberal de Castro – Documento. Arquitetura & Urbanismo, São Paulo, ano 11, n.65, p.74-82, PINI, 1996.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 2002. UNIVERSIDADE FEDERAL DO CEARÁ. Plano de Desenvolvimento - Universidade Federal do Ceará. Fortaleza: Imprensa Universitária, 1966.'
-
 - title: Conjunto Habitacional Presidente Getúlio Vargas
   subtitle: da proposta monumental a sobrevivência nos dias atuais
   authors:
@@ -397,7 +387,6 @@ articles:
   - Em frente ao canal foi possível reconhecer o edifício do mercado. Hoje funcionam no local um borracheiro, uma mecânico e um bar. A casa ao lado tomou partido da solução plástica adotada na cobertura e fez uma espécie de marquise, embora esteja situada no lote de 2.530 m² do mercado e tinha sido feita em anexo.
   - O estado atual de conservação do Conjunto demonstra que um empreendimento desse porte só pode obter sucesso se houver um subsídio do Estado para a sua manutenção. Nos seus primeiros anos de existência e enquanto existiu a FCP foi possível manter a ordem e a conservação no local. Com o decorrer do tempo os moradores perderam os equipamentos do Conjunto (centro de saúde para a Comlurb e campos de esporte para o Centro Esportivo ATL), perderam 4 blocos (144 apartamentos) para o exército, e de forma assustadora partes dos lotes dos blocos, o prédio da administração, o prédio do mercado, parte do lote da escola e as áreas livres do conjunto foram invadidas por favelas da região, ou seja, o Conjunto está se tornando uma favela. Os moradores, numa mudança em relação ao modo de vida proposto pelos arquitetos modernistas, fecharam os pilotis, valorizando um modo de vida mais
   - privado. O bloco curvo de 430,00m de comprimento é o que se encontra em pior estado de conservação. Para que exista manutenção nos edifícios, em classes de mais baixa renda, os blocos devem ser dimensionados para abrigar um número menor de famílias, assim como as partes comuns dos mesmos devem ser de menores dimensões. Solução semelhante a do bloco 19 não se repetiria hoje em dia. Embora tenha atendido ao público a que se propôs, a localização do Conjunto é distante do centro urbano, a implantação urbanística não o integra com o entorno, tornando a área de 124.163,95 m² (sem contar com o arruamento) um grande vazio em termos de serviços e comércio dificultando a vida dos que ali residem. Quanto a sua arquitetura, com exceção da valorização do espaço coletivo que não se efetuou, a solução foi adequada ao local, considerando à implantação do bloco curvo que retratou a corrente modernista dentro dos pontos da Nova Arquitetura estabelecidos por Le Corbusier. Se não fosse pela estandardização das unidades, pela simplificação dos padrões de acabamento e a diminuição dos pés direitos, o custo da célula tipo teria sido mais alto e não atenderia ao público a que se propunha.
-
 - title: Transformações tipológicas das habitações das Quadras 21 e 22 de Chandigarh India
   authors:
   - givenname: Cláudia
@@ -425,7 +414,6 @@ articles:
   - 'PRAKASH, Vikramaditya. Chandigarh´s Le Corbusier – The Struggle for Modernity in Postocolonial India. Ahmedabad, India: Mapin Publishing Pvt. Ltd., 2002.'
   - 'TADGELL, Christopher. The History of Architecture in India. Nova York: Phaidon Press Limited, 1994.'
   - 'THAPAR, Bindia. Introduction to Indian Architecture. Singapura: Periplus Editions, 2004. Twilight of the Plan: Chandigarh and Brasilia – New Urban Venues in the Emergent World. Casciato, Maristella; Von Moos, Stanislaus (organizadores). Mendrisio, Suíça: Mendrisio Academy Press, 2007.'
-
 - title: A transformação do espaço nas áreas centrais das grandes cidades e a nova arquitetura hoteleira
   subtitle: caso dos hotéis Plaza Marabá, Novotel Jaraguá e Normandie Design Hotel, em São Paulo
   authors:
@@ -479,7 +467,6 @@ articles:
   - 'URRY, John. O olhar do turista: o lazer e as viagens nas sociedades contemporâneas. 3 ed. São Paulo: SESC: Studio Nobel, 2001.'
   - 'VILLAÇA, Flávio. Espaço intra-urbano no Brasil. São Paulo: Studio Nobel, 2001.'
   - 'ZUKIN, Sharon. The cultures of cities. Cambridge/Oxford: Blackwell Publishers, 1995.'
-
 - title: Preservação de edifícios residenciais modernos no Rio de Janeiro
   authors:
   - givenname: Carla Maria
@@ -520,7 +507,6 @@ articles:
   - 'TOULIER, Bernard. Architecture et Patrimoine du XXe Siècle en France. Paris: Editions du Patrimoine, 1999.'
   - VAZ, Lilian Fessler. Uma história da habitação coletiva na cidade do Rio de Janeiro – Estudo da modernidade através da moradia. 1994. Tese (Doutorado em Arquitetura), Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo.
   - 'XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. São Paulo: Pini: Fundação Vilanova Artigas; Rio de Janeiro: RIOARTE, 1991.'
-
 - title: Urbanismo modernizador, consolidação modernista, reuso pós-moderno
   subtitle: a dinâmica de transformação urbana em Natal e a dilapidação de seu acervo arquitetônico
   authors:
@@ -556,7 +542,6 @@ articles:
   - 'PETERS, Paulhans. Reutilización de edifícios: renovación y nuevas funciones. Barcelona: Gustavo Gili, 1977.'
   - 'PIÑÓN, Helio. Teoría del proyecto. Barcelona: Edicions UPC, 2006.'
   - 'TRIGUEIRO, Edja e MEDEIROS, Valério. “Of dwellings and streets that connect: a brief honey-moon”. Anais do ISUF2007 – International Seminar on Urban Form, Ouro Preto, 2007'
-
 - title: La vivienda moderna en el Centro de Santiago
   authors:
   - givenname: José
@@ -564,7 +549,6 @@ articles:
   - givenname: Magdalena
     familyname: Vicuña
   locale: pt-BR
-
 - title: Residência moderna e Palacete eclético
   authors:
   - givenname: Liege
@@ -585,7 +569,6 @@ articles:
   - 'XAVIER, Alberto & BRITTO, Alfredo & NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro. São Paulo: Pini, 1991.'
   - Créditos das imagens
   - 2, 3 e 8.Google Earth. 4.Ricardo Lippi. 6.www.museuimperial.gov.br 7.www.citybrasil.com.br 12.www.greatbuildings.com 13.Foto do original - Ana Luiza Nobre. 15.Ana Luiza Nobre. 17 ao 20. Foto do original - Ana Luiza Nobre. O restante das imagens são creditadas á Liege Sieben.
-
 - title: Rodoviárias de Londrina e Jaú
   subtitle: 4 momentos (projeto / funcionamento / obsolescência / reabilitação)
   authors:
@@ -604,7 +587,6 @@ articles:
   - Bus Station
   - Vilanova Artigas
   - Building reinstatement
-
 - title: Centro de Convivência Djalma Marinho UFRN
   subtitle: a 'sobrevida' de uma obra da Arquitetura moderna em Natal
   authors:
@@ -646,7 +628,6 @@ articles:
   - AGRADECIMENTOS ESPECIAIS
   - Professor Aldomar Pedrini Mestrando Leonardo Cunha
   - 'Alunas: Carla Varela e Débora Pinto'
-
 - title: A rosa por outro nome tão doce ...seria?
   authors:
   - givenname: Ruth
@@ -679,7 +660,6 @@ articles:
   - 'PEVSNER, Nikolaus. Dicionario enciclopedico de arquitetura. Rio de Janeiro : Artenova, 1977'
   - 'SAUSSURE, Ferdinand de. Curso de linguistica geral. São Paulo : Cultrix, 1993'
   - 'TODOROV, Tzvetan. Dicionário enciclopédico das ciências da linguagem. São Paulo: Editora Perspectiva, 1977 Sites consultados: Cartas Patrimoniais: http://portal.iphan.gov.br/portal/montarPaginaSecao.do?id=12372&sigla=Legislacao&retorno= paginaLegislacao'
-
 - title: O restauro do moderno
   subtitle: o caso do edifício Vilanova Artigas da FAUUSP
   authors:
@@ -696,13 +676,11 @@ articles:
   - performance analysis
   - reinforced concrete grid roof
   - restoration
-
 - title: A construção do Teatro do Museu de Arte Moderna do Rio de Janeiro 50 anos depois
   authors:
   - givenname: João Masao
     familyname: Kamita
   locale: pt-BR
-
 - title: O 'Anfiteatro, a Foice e o Martelo, o O.V.N.I e o Guarda-chuva'
   subtitle: vida e sobrevida do Auditório Araújo Vianna em Porto Alegre
   authors:
@@ -722,7 +700,6 @@ articles:
   - RYKWERT, Joseph. A sedução do lugar, São Paulo, Martins Fontes, 2004
   - TOMASI, Elisabeth, DEROSSO, Simone Graciela. Auditório Araújo Vianna – 30 anos, Porto Alegre, Unidade Editorial, 1994.
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987'
-
 - title: Turismo cultural e revitalização de centro antigo
   subtitle: reciclando arquitetura pré-moderna e moderna
   authors:
@@ -761,7 +738,6 @@ articles:
   - 'SODRÉ, N.W. Síntese de história da cultura brasileira. São Paulo: DIFEL, 1984.'
   - 'VARGAS, Heliana e CASTILHO, Ana Luisa H. Intervenções em Centros Urbanos. Barueri, SP: Manole, 2006.'
   - 'VENTURI, R.; SCOTT-BROWN, D.; IZENOUR, S. Learning from Las Vegas: The Forgotten Symbolism of Architectural Form. The MIT Press, Cambridge, Massachusetts, and London, England, 2000.'
-
 - title: Preservar e intervir no patrimônio moderno
   subtitle: o caso de Brasília
   authors:
@@ -784,7 +760,6 @@ articles:
   - 'SCHLEE, Andrey Rosenthal. A preservação do moderno. O caso de Brasília. In. PESSOA, José et ali. (orgs). Moderno e Nacional. Rio de janeiro: EdUFF, 2006. pp.141-156.'
   - 'SCHLEE, Andrey, MEDEIROS, Ana Elisabete, FERREIRA, Oscar. Dissociação, fragmentação e união – a experiência do ensino de técnicas retrospectivas. In: Projetar 2003 - I Seminário Nacional sobre Ensino e Pesquisa em Projeto de Arquitetura, 2003, Natal. Projetar 2003 - I Seminário Nacional Sobre Ensino e Pesquisa em Projeto de Arquitetura, 2003.'
   - MAGALHÃES, Carlos Henrique, CANDEIA, Maria Cláudia, TOSTES, Lia. Estudo preliminar para o Brasília Palace Hotel. Proau 8 – Técnicas Retrospectivas. 2004.
-
 - title: As múltiplas dimensões da reciclagem e requalificação do Edifício Brigadeiro Tobias no Centro Histórico de São Paulo
   authors:
   - givenname: Jardiel
@@ -802,7 +777,6 @@ articles:
   - historical downtown area
   - requalification
   - residence
-
 - title: Arquitetura moderna e reciclagem do patrimônio edificado
   subtitle: a contribuição baiana de Diógenes Rebouças
   authors:
@@ -833,7 +807,6 @@ articles:
   - REBOUÇAS, Diógenes; WOLF, José. Que é isso, Bahia? – entrevista de Diógenes Rebouças a José Wolf. Revista AU, n º 6, pp. 30-31, jun. 1986.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 2002.'
   - 'SIMAS, Eduardo Furtado de. Entusiasmo pelo IPHAN. A Tarde, 29 jun. 1996, Caderno Cultural, p. 5. VIOLLET-LE-DUC, Eugène Emmanuel; DOURADO, Odete (apres. e trad.). Restauro. Salvador: Mestrado em Arquitetura e Urbanismo/UFBA, 1996.'
-
 - title: O resgate da unidade perdida
   subtitle: o Teatro do Museu de Arte Moderna de Affonso Eduardo Reidy. Rio de Janeiro 2007.
   authors:
@@ -865,14 +838,12 @@ articles:
   - 'MOURA PEREIRA CAIXETA, “Affonso Eduardo Reidy. O poeta construtor”, em Flávio Kiefer, Raquel Rodrigues Lima, Viviane Lillas Boas Maglia (Org.), Critica na Arquitetura. V Encontro de Teoria e História da Arquitetura. Porto Alegre: Editora Ritter dos Reis, 2001. pp. 147-155.'
   - 'NOBRE, Ana Luiza, Carmen Portinho. O moderno em construção. Rio de Janeiro: Relume-Dumará, 1999.'
   - 'SANTOS, D. O., GUIMARAES, F. S. “Os sistemas de proporcionalidade nas obras da arquitetura moderna brasileira: o caso de Affonso Eduardo Reidy”. In: XXIV Jornada de Iniciação Científica, Artística e Cultural da Universidade Federal do Rio de Janeiro, 2002, Rio de Janeiro.'
-
 - title: Do Museu das Missões à Casa do Benim
   subtitle: heteromorfismo e simultaneidade na arquitetura moderna brasileira
   authors:
   - givenname: Carlos Eduardo
     familyname: Dias Comas
   locale: pt-BR
-
 - title: Plugs, Clips, Zips
   subtitle: reciclagem segundo a tradição funcional (1963-1969)
   authors:
@@ -909,7 +880,6 @@ articles:
   - ROGERS, Richard+Su, Zip-up Enclosure, 1968. Architectual Design, Londres, março de 1969.
   - __. Architectural Design, Londres, maio de 1969.
   - STIRLING, James. The Functional Tradition and Expression. Perspcta, n. 6, The Yale Architectural Journal, pp. 86-93, 1960.
-
 - title: Restaurando o jardim moderno de Burle Marx
   subtitle: a Praça Faria Neves no Recife-PE
   authors:
@@ -955,7 +925,6 @@ articles:
   - 'TABACOW, José (Org.). Roberto Burle Marx – Arte & Paisagem: conferências escolhidas. 2. ed. São Paulo: Studio Nobel, 2004.'
   - SILVA, Aline de Figueirôa. O projeto paisagístico dos jardins públicos do Recife de 1872 a 1937. Dissertação (Mestrado em Desenvolvimento Urbano) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2007.
   - SILVEIRA, Pelópidas. Prefeitura Municipal do Recife. Mensagens apresentadas á Camara Municipal do Recife, pelo Prefeito Pelópidas Silveira, em 10 de Fevereiro de 1956 e 10 de Agôsto de 1956. Departamento de Documentação e Cultura. Recife, 1956.
-
 - title: Residências modernas
   subtitle: patrimônio ameaçado
   authors:
@@ -988,7 +957,6 @@ articles:
   - 'SEGAWA, Hugo e DOURADO, Guilherme Mazza. Oswaldo Arthur Bratke. São Paulo: Proeditores, 1997.'
   - 'ZEIN, Ruth Verde. Arquitetura Brasileira, Escola Paulista e as Casas de Paulo Mendes da Rocha. Porto Alegre, UFRG, 2000. VIOLLET-LE-DUC, Eugene Emmanuel. L''architecture raisonnée; : extraits du Dictionnaire de l''architecture française.Paris : Hermann, 1964.'
   - 'WEBB, Michael. Modernism reborn / mid-century american houses. New York: Universe Publishing, 2001.'
-
 - title: Documentação e análise da reciclagem e requalificação dos edifícios Maria Paula Riskallah Jorge e Brigadeiro Tobias no Centro Histórico de São Paulo
   authors:
   - givenname: Rosío
@@ -1004,7 +972,6 @@ articles:
   - historical downtown areas
   - documentation
   - requalification
-
 - title: Difusão da arquitetura moderna brasileira
   subtitle: o caso do Plano de Ação do Governo do Estado de São Paulo (1959-1963)
   authors:
@@ -1047,7 +1014,6 @@ articles:
   - Celso Monteiro Lamparelli – entrevista a Mário Henrique de Castro Cadeira em 2004. mimeo. João Batista Vilanova Artigas – entrevista a Aracy A. Amaral, in Projeto, São Paulo, nº 109, 1988, pp.96/97.
   - Entrevistas realizadas pelo Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr)
   - Plínio de Arruda Sampaio – 05/03/2007 - Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr) – Camila Venanzi, Lucia Noemia Simoni, Maria Tereza R. L. B. Cordido e Miguel Antonio Buzzar. Ivan Gilberto Castaldi – 09/03/2007- Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr) – Lucia Noemia Simoni, Maria Tereza R. L. B. Cordido e Miguel Antonio Buzzar. Celso Monteiro Lamparelli -02/04/2007- Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr) – Lucia Noemia Simoni, Maria Tereza R. L. B. Cordido e Miguel Antonio Buzzar. Marcolino Vaccari e Maria Lúcia de Brito Passos – 26/03/2007 - Fábio Moura Penteado – 09/04/2007 - Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr) –Maria Tereza R. L. B. Cordido e Miguel Antonio Buzzar. Francisco Witaker Ferreira – 16/04/2007 - Grupo de Pesquisa “Arte e Arquitetura, Brasil – diálogos na cidade moderna e contemporânea” (ArtArqBr) – Maria Tereza R. L. B. Cordido.
-
 - title: O Guggenheim de Frank Lloyd Wright e a adição de Gwathmey Siegel
   subtitle: moderno com moderno
   authors:
@@ -1085,7 +1051,6 @@ articles:
   - ZEIN, Ruth Verde. Duas décadas de arquitetura para museus. Projeto, São Paulo, n.144, p.30-33, agosto, 1991.
   - ZEIN, Ruth Verde. Museus em sete versões. Projeto, São Paulo, n. 144, p. 42-48, 1991.
   - AGRADECIMENTOS À bolsista e aluna de graduação da Faculdade de Arquitetura da UFRGS Andrya Kohlmann pelo apoio prestado.
-
 - title: Palácio da Justiça de Porto Alegre
   subtitle: a longa espera pelo fim, 1952-2006. O projeto de Recuperação, Restauração e Readequação do ícone da Arquitetura Moderna de Porto Alegre
   authors:
@@ -1133,7 +1098,6 @@ articles:
   - 'SUMMERSON, John, Sir. A linguagem clássica da arquitetura. 2.ed. São Paulo: M. Fontes, 1994. 148p. : il. Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura; ROVATTI, João Farias (org.);'
   - 'PADÃO, Fabiano Mesquita (org.). Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura 1952-2002. Porto Alegre: Gráfica da UFRGS, 2002. 171 p.'
   - 'WEIMER, Günter. A Arquitetura. 3. ed. – Porto Alegre : Editora Universidade/UFRGS, 1999.XAVIER, Alberto e MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo : PINI, 1987.'
-
 - title: A transmutação do espaço museológico e a modernidade expográfica
   subtitle: galerias de arte no Rio de Janeiro
   authors:
@@ -1150,7 +1114,6 @@ articles:
   - art galleries
   - modernism
   - museum architecture
-
 - title: Modernismo intramuros
   subtitle: a maison de verre (1927-1931)
   authors:
@@ -1167,7 +1130,6 @@ articles:
   - 'TAYLOR, Brian Brace. Pierre Chareau : designer and architect. Köln: Taschen, 1992.'
   - '[Fonte das ilustrações: TAYLOR, B. B., op. cit.]'
   - Nesse ponto de vista, interessa mais identificar na obra a ação das técnicas projetuais que caracterizam a composição modernista do que os aspectos fisionômicos que identificariam um estilo modernista. Esse enfoque evitaria discussões supérfluas.
-
 - title: In Memoriam
   subtitle: o trabalho de recuperação e atualização do passado em obra já demolida — a casa Nordschild
   authors:
@@ -1199,7 +1161,6 @@ articles:
   - 'XAVIER, A. (Org.). Arquitetura Moderna Brasileira: depoimento de uma geração. São Paulo : Pini / ASBEA / Fundação Vilanova Artigas, 1987, p.23.'
   - O JORNAL, 23/10/1931
   - 'ROWE, Colin. Neo-“clasicismo” y arquitectura moderna II. In:Manierismo y arquitectura moderna y otros ensaios. Barcelona : Gustavo Gili, 1999, p.140.'
-
 - title: O Trapiche à beira da baía
   subtitle: a restauração do Unhão por Lina Bo Bardi
   authors:
@@ -1224,7 +1185,6 @@ articles:
   - 'LÓPEZ REUS, Eugenia. Ernesto Rogers y la arquitectura de la Continuità, Pamplona: Eunsa, 2002.'
   - OLIVEIRA, Olivia. Sutis Substâncias da Arquitetura de Lina Bo Bardi, Barcelona, Escola Técnica de Arquitetura de Barcelona – ETSAB/UPC (tese de doutorado), 2000.
   - 'OLIVEIRA, Olivia de. Lina Bo Bardi. Sutis Substâncias da Arquitetura. São Paulo: Romano Guerra, 2006.'
-
 - title: SEAD
   subtitle: estudo de caso de uma edificação de linguagem modernista em Belém do Pará
   authors:
@@ -1237,7 +1197,6 @@ articles:
   - Preservação. Camillo Porto de Oliveira
   keywords_en:
   - Preservation. Camillo Porto de Oliveira
-
 - title: Lucio Costa e Lina Bo Bardi
   subtitle: patrimônio e projeto moderno
   authors:
@@ -1271,14 +1230,12 @@ articles:
   - 'PESSOA, José (Org.). Lucio Costa: documentos de trabalho. Rio de Janeiro: IPHAN, 1999. Revista do Patrimônio nº. 32. Patrimônio imaterial e biodiversidade. Brasília: IPHAN/Ministério da Cultura, 2005.'
   - SEGAWA, Hugo. Arquitetura no Brasil 1900-1999. São Paulo, Edusp, 1998
   - 'TAFURI, Manfredo. Teoria e história da Arquitectura. Lisboa: Editorial Presença. 1988. 2ªed.'
-
 - title: Restauração do complexo da Reitoria da UFRGS
   authors:
   - givenname: Janaína
     familyname: Carla Dalarosa
   locale: pt-BR
   abstract: 'Apresentação da Universidade e histórico da Reitoria A UFRGS, uma das mais antigas universidades públicas do Brasil, possui um acervo edificado dos mais significativos no contexto urbano da cidade de Porto Alegre. Representa uma síntese da trajetória construtiva do Estado nos períodos de 1898 a 1928, e de 1951 a 1964. Este patrimônio possui inúmeros significados identificados nas realizações de arte, ciência, conhecimento, política e humanismo de diferentes gerações, caracterizando uma parte importante da memória da sociedade gaúcha e brasileira.O setor administrativo se encontrava originalmente segmentado junto às edificações de ensino. Com a federalização da Universidade, foram instituídos novos setores tornando-se evidente a falta de espaço. O desenvolvimento da Universidade exigia maiores e melhores condições administrativas, culturais e sociais. A centralização dos serviços administrativos, da unidade cultural da Instituição e da vida associativa de seus professores, funcionários e alunos eram fatores que deveriam determinar a existência de um prédio adequado com salão de festas e auditório. As formaturas eram realizadas em locais pequenos e as festas e bailes em locais públicos, previamente alugados. Por esses motivos, impunha-se um local associativo, necessariamente, nas dependências do edifício que a Reitoria projetava construir. Fernando Lunardi fez o projeto, concretizado em dois edifícios, o da Reitoria e o do Salão de Atos. O edifício da Reitoria pode ser dividido inicialmente em base e corpo. A base, de formato retangular, é composta por dois pavimentos abrigando as atividades sociais. O corpo, de formato retangular, é composto por cinco pavimentos abrigando as atividades administrativas. Esta leitura perde-se quando o projeto é analisado com maior profundidade. Percebe-se uma descontinuidade na altura da base quando esta encontra o corpo do edifício gerando uma segunda leitura. Nesta, defini-se uma edificação a qual unem-se dois blocos lateralmente. No edifício destacam-se elementos da arquitetura moderna tais como: estrutura independente; pé-direito elevado na base; uso de pilotis; parede com tijolo de vidro; brises horizontais fixos na fachada nordeste, brises verticais móveis na fachada noroeste; presença de terraço com pergolado em concreto; uso de pinturas murais e telas em espaços de destaque.Sobre o edifício do Salão de Atos, seu formato é em leque e se conecta à Reitoria por meio de pilotis. Abriga o auditório concluído em 1957 e reformado na década de 80 visando sua ampliação. A alteração descaracterizou parcialmente o conjunto, uma vez que lhe conferiu maior diâmetro externo. Por meio desta breve análise do conjunto Reitoria e Salão de Atos, verifica-se que as edificações possuem elementos suficientes que lhe insiram no hall de exemplares da arquitetura moderna em nosso Estado, porém é evidente também a falta de pureza em alguns aspectos compositivos. Proposta de Intervenção e critérios de análise O projeto visa atender a duas demandas: uma de caráter arquitetônico no qual se buscará identificar e exaltar as características que tornam o conjunto um exemplar arquitetônico de valor histórico-cultural para a arquitetura moderna produzida no Estado na década de 50. Isso implicará na recuperação de espaços e materialidade originais; a outra constitui o redimensionamento dos espaços dos setores administrativos. A Secretaria do Patrimônio Histórico procura seguir, em seus projetos, as orientações e preceitos da Preservação de Edificações e Sítios Históricos difundidos através de Cartas, Declarações e Tratados Nacionais e Internacionais. A partir desses documentos e da orientação dos órgãos responsáveis pela preservação do patrimônio nas instâncias federal, estadual e municipal - IPHAN, IPHAE e EPAHC, o Departamento de Projetos determina os critérios a serem seguidos no desenvolvimento dos projetos. Os critérios das analises por mim desenvolvidas também contarão com tais argumentos para seu desenvolvimento. O trabalho aqui brevemente apresentado será desenvolvido com o apoio da SPH/UFRGS'
-
 - title: A reurbanização modernizada do moderno
   authors:
   - givenname: Lineu
@@ -1305,7 +1262,6 @@ articles:
   - 'NESBITT, Kate (ed.). Theorizing a New Agenda for Architecture. An Anthology of Architectural Theory 1965- 1995. New York: Princeton Architectural Press, 1996.'
   - PRAGER, Emily. Setting Down in a City in Motion. The New York Times. <http://www.nytimes.com /2007/07/19>
   - 'ROGERS, Richard. Cities for a Small Planet. Boulder, CO: Westview Press, 1998.'
-
 - title: Edifício e galeria Califórnia
   subtitle: o desenho e a cidade
   authors:
@@ -1342,7 +1298,6 @@ articles:
   - Figura 8 – Pátio interno
   - Figura 9 – Galeria
   - Figura 10 - Galeria
-
 - title: Um Palácio destronado...
   authors:
   - givenname: Maria Cecília
@@ -1373,7 +1328,6 @@ articles:
   - Este mesmo governador sanciona o tombamento estadual desta edificação.
   - Segundo o engenheiro Rui Filgueiras Lima, há uma preocupação pelo fato de nunca ter existido um trabalho sério de manutenção; a própria estrutura metálica apresenta sinais de corrosão, por falta de reparo na pintura que a protege, o que pode vir a afetar a segurança e a estabilidade da edificação.
   - < http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp > Acesso em 14 jul. 2007, 11:07:00.
-
 - title: Park Hotel
   subtitle: o regionalismo crítico de Lúcio Costa e o desafio da rearquitetura em obras modernas
   authors:
@@ -1407,7 +1361,6 @@ articles:
   - 'PEREIRA, Margareth da Silva. Park Hotel: Uma caixa de madeira e pedra. Revista AU nº 38. Outubro/Novembro 1991'
   - SERAPIÃO, Fernando. O pêndulo de Lucio Costa. Revista Projeto. Março de 2002
   - WINISK, Guilherme. O Risco – Lúcio Costa e a utopia moderna. Coletânea de entrevistas retiradas do filme homônimo ao livro. Editora Pancrom. Rio de Janeiro, 2003.
-
 - title: Considerações sobre o debate dos conjuntos residências modernos e as questões de conservação e reabilitação
   authors:
   - givenname: Sálua
@@ -1469,7 +1422,6 @@ articles:
   - 'VARGAS, Getúlio. A nova política do Brasil, Vol.1 a 9, Rio de Janeiro: José Olympio Ed., 1938.'
   - '________________ A Nova Política do Brasil, Vol 10, Rio de Janeiro: José Olympio Ed., 1945.'
   - 'XAVIER, Alberto. Arquitetura Moderna Brasileira. Depoimento de uma Geração, São Paulo: ABEA/FVA/PINI, 1987.'
-
 - title: Ecos de Brasília
   subtitle: loteamento 'Praia do Forte' Florianópolis / Ilha de Santa Catarina / Brasil
   authors:
@@ -1495,7 +1447,6 @@ articles:
   - SALVI, Luiz Amir. Entrevista concedida aos autores em julho de 2007.
   - '_____. Relação dos documentos consultados: Catálogo da Praia do Forte. Florianópolis, distribuição interna. s/d. Revista Panorama. Curitiba, Ano VIII, nº78, novembro 1958. pg 14 -17. Revista O Cruzeiro. Ano XXX, nº 23, 15/03/1958. Até pedras renascem. Pg 30-32 Plantas: • “Planta das terras concedidas ao Snr. Antonio Amaro da Costa sitas nos lugares Morro e Campo da Ponta Grossa”, 2/3/924. Escala 1:10.000. Assinada por Pedro Gonçalves. Carimbo: Diretoria de Terras e Colonização/Seção Técnica. Com assinatura • Planta Praia do Forte. Imobiliária Jurerê. 1ª Etapa. Zona Residencial ZR-1. Escala 1:2.000. Carimbo: Projeto PMF 8407, aprovado em 23/01/1960, pelo Departamento de Engenharia Urbanismo e Serviço Rural / Gabinete do Prefeito. Com assinatura Textos e documentos • Oficio de Oswaldo Bulcão Vianna para Anito Zeno Petry (em Porto Alegre), em 13/08/1951. • Recibo de Henrique Rupp Junior a Annito Zeno Petry, 03/09/1951. • Escritura do Cartório do 2º Oficio do Registro de Imóveis, 16/08/1978. • Currículum Vitae de Aderbal Ramos da Silva em papel timbrado do Banco do Estado do Paraná e Santa Catarina S.A. • Relatório de visita do Contra-almirante Raja Gabaglia e seu Estado Maior na Praia do Forte, s/d • Relatorio de visita. s/d. • Oficio de Oscar Niemeyer Filho a Aderbal R. da Silva. Florianópolis, 22/04/1957. • Oficio de Aderbal Ramos da Silva ao Prefeito Municipal, Florianópolis, 02/12/1959. • Plano de Loteamento da denominada “Praia do Forte”, Município de Florianópolis. • Parecer Técnico ao Prefeito, s/d, referente ao expediente 157/60. SUSP – Secretaria de Urbanismo e Serviços Públicos / PMF. Planta Praia do Forte. Imobiliária Jurerê. 1ª Etapa. Zona Residencial ZR1-2. Escala 1:2.000. Carimbo: Projeto PMF 8407, aprovado em 23/01/1960, pelo Departamento de Engenharia Urbanismo e Serviço Rural / Gabinete do Prefeito. Sem assinatura.'
   - CRÉDITO DAS IMAGENS Acervo Luiz Amir Savi – 1; 2; 3; 4; 5; 6; 7; 9; 11; 13 Acervo IPUF (Instituto de Planejamento Urbano de Florianópolis) – 7a, 7b, 7c Acervo José Roberto Ramos Licati – 12;15 Acervo Maria Helena Petry Makowiecky - 14 Acervo SEPHAN/IPUF (Serviço do Patrimônio Histórico Artístico e Natural do Município / Instituto de Planejamento Urbano de Florianópolis) – 16a,b,c e 17 a 23 Acervo SUSP (Secretaria de Urbanismo e Serviços Públicos) – 8; 10
-
 - title: Clorindo Testa
   subtitle: os projetos para o Centro Cívico de Santa Rosa, La Pampa (1955-2006)
   authors:
@@ -1526,7 +1477,6 @@ articles:
   - PETRINA, Alberto. Entrevista al arquitecto Clorindo Testa. Summa, Buenos Aires, n. 164, p. 72-75, 1981.
   - 'TESTA, Clorindo. Casa de Gobierno de La Pampa. Summa, Buenos Aires, n. 2, p. 39-49, outubro, 1963. __.Centro Cívico de Santa Rosa, La Pampa. Summa, Buenos Aires, n. 183/184, p. 42-45; p. 60-61; p. 106-109, janeiro e fevereiro, 1983. __. Centro Cultural del Centro Cívico de Santa Rosa. Revista de Arquitectura SCA (Sociedad Central de Arquitectos), Buenos Aires, n. 146, p. 50–51, março, 1990. __. Biblioteca legislatura de la Pampa. Disponível em: www.arqa.com/profesional-arquitectura/'
   - 'WAISMAN, Marina. La obra de Testa: Propuesta para uma lectura. Summa, Buenos Aires, n. 183/184, p. 26-29, janeiro e fevereiro de 1983.'
-
 - title: Quando o projeto é patrimônio
   authors:
   - givenname: Ana Carolina
@@ -1540,7 +1490,6 @@ articles:
   keywords_en:
   - project
   - heritage
-
 - title: Os novos apartamentos velhos
   authors:
   - givenname: Marta
@@ -1560,7 +1509,6 @@ articles:
   - 'RÜEGG, Arthur (ed.). Charlotte Perriand Livre de Bord 1928-1933. Basel-Boston-Berlim: Birkhäuser-publishers for architecture, 2004.'
   - 'SBRIGLIO, Jacques. Immeuble 24 N.C. et appartement Le Corbusier. Germany: Fondation Le Corbusier, 1996.'
   - 'XAVIER, Alberto, MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. FAU/UFRGS- PINI: São Paulo, 1987.'
-
 - title: Patrimônio modernista em risco
   subtitle: o caso do Colégio Estadual Raul Vidal de Álvaro Vital Brazil. Uma questão de gestão pública ou de formação e/ou prática do arquiteto contemporâneo?
   authors:
@@ -1594,7 +1542,6 @@ articles:
   - SEGAWA, Hugo, Arquiteturas no Brasil, 1900-1999, EDUSP, São Paulo, 1997.
   - 'SOARES, Emmanuel Macedo: Mensário FAC – Fundação de Atividades Culturais – Fatos e Noticias; Ano II, no 8, Niterói, Junho de 1986.'
   - ________________________. Mensário FAC - Fundação de Atividades Culturais – Fatos e Noticias; Ano II, no 21, Niterói, Outubro de 1986.
-
 - title: Requalificação da Floresta Nacional de Ipanema
   subtitle: análise do projeto parcialmente executado de Paulo Mendes da Rocha
   authors:
@@ -1634,7 +1581,6 @@ articles:
   - 'SOLOT, Denise Chini. Paulo Mendes da Rocha: o êxito da forma. 1a edição, Rio de Janeiro: Editora Viana & Mosley, 2004.'
   - 'SORKIN, Micheal (org). Variations on a Theme Park: The New Americam City and the End of Public Space. Nova York: Hill and Wang. 1992.'
   - 'Fazenda Ipanema: um projeto harmoniza o novo e o antigo. CJ Arquitetura. São Paulo, n°19, ano V, p. 69 - 72. 1978'
-
 - title: Estudo de caso
   subtitle: Holiday Inn Select Jaraguá, antigo Hotel Jaraguá
   authors:
@@ -1663,7 +1609,6 @@ articles:
   - 'MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora / IPHAN, 2000.'
   - SERAPIÃO, Fernando. Ocupando antigas e simbólicas estruturas, hotéis destacam-se na cidade. Revista Projeto e Design, São Paulo, n. 289, p. 30-36, março 2005.
   - 'SILVA, Miguel Juliano e. Um Retrofit – Jaraguá. 2006. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2006. _. Cadernos Brasileiros de Arquitetura: Arquiteto Miguel Juliano – Pensamento e Obra. São Paulo: Schema Ed., 1977.'
-
 - title: Inconstantes cidades inversitárias
   subtitle: um estudo da Universidade de Brasília
   authors:
@@ -1688,7 +1633,6 @@ articles:
   - 'RODRIGUES, Luiz Augusto Fernandes. Universidade e a Fantasia Moderna: a falácia de um modelo espacial único. Niterói: EdUFF, 2001.'
   - 'TEIXEIRA, Anísio. Educação e Universidade. Rio de Janeiro: Editora UFRJ, 1998.'
   - 'TEIXEIRA, Anísio, RAMOS, Jairo e CARDOSO, Fernando Henrique. Universidade de Brasília. Anhembi. São Paulo, v.11, n.128, jul. 1961. p.259-267. UNIVERSIDADE DE BRASÍLIA. Plano Orientador. Brasília: Editora da UnB,1962.'
-
 - title: Peter Scheier
   subtitle: visões urbanas de um fotógrafo moderno na América
   authors:
@@ -1755,7 +1699,6 @@ articles:
   - 'Fig. 5 Brasilia, 1960: Inter-penetrabilidades e ambivalências'
   - 'Fig. 6 São Paulo: anos 1950 Transparências'
   - 'Fig. 7 Brasília, 1960: chapéus'
-
 - title: Um ícone reaproveitado
   subtitle: o Hotel Jaraguá em São Paulo
   authors:
@@ -1779,7 +1722,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1999.'
   - SERAPIÃO, Fernando. Ocupando antigas e simbólicas estruturas, hotéis destacam-se na cidade. Projeto Design, São Paulo, nº 289, pp. 30-39, março, 2004.
   - 'XAVIER, Alberto & LEMOS, Carlos & CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo: Pini, 1983.'
-
 - title: Reflexão sobre rearquiteturas e obras modernas
   subtitle: 'ou: por que o pavilhão sim e a stoa não?'
   authors:
@@ -1805,7 +1747,6 @@ articles:
   - 'PANTALEÓN, Carlos. Adaptación de estructuras arquitectónicas obsoletas: el concepto de restauración en la dialética del proceso de diseño. Montevideo: Servicio Coordinador de Publicaciones, Universidad de la República, 1997.'
   - 'PARAIZO, Rodrigo Cury. A representacao do patrimônio urbano em hiperdocumentos: um estudo sibre i Palácio Monroe. Dissertação de Mestrado, Prourb, Fau, UFRJ, 2003. Disponível em http://www.nitnet.com.br/~rodcury/dissertacao/1_1-patrimonio.htm. Acesso em 02 de ago. de 2007, 10:20:00.'
   - 'RIEGL, Aloïs. Le culte moderne des monuments: son essence et sa génese. Paris: Éditions du Seuil, 1984.'
-
 - title: Conjuntos residenciais modernos
   subtitle: valor e preservação
   authors:
@@ -1854,7 +1795,6 @@ articles:
   - 'ROLNIK, Raquel & BALBIM, Renato. Reabilitação de centros urbanos. Brasília: Ministério das Cidades, dez. 2005.'
   - 'SAMPAIO, Maria Ruth & BONDUKI, Nabil G. (coord.) Relatório da Pesquisa Habitação Econômica e Arquitetura Moderna no Brasil, encaminhado à Fapesp. São Paulo: mimeo, 1998.'
   - 'VARGAS, Heliana & CASTILHO, Ana Luisa H. Intervenções em centros urbanos: objetivos, estratégias e resultados. Barueri, SP: Manole, 2006.'
-
 - title: Um caminho para a Glória Lucio Costa
   subtitle: a construção do passado e mais um milagre
   authors:
@@ -1886,7 +1826,6 @@ articles:
   - TELLES, Augusto Carlos da Silva. Nossa Senhora da Glória do Outeiro. Agir, Rio de Janeiro, 1969.
   - WISNIK, Guilherme (organizador). O Risco – Lucio Costa e a Utopia Moderna (depoimentos do filme de Geraldo Motta Filho). Pancrom, Rio de Janeiro, 2003.
   - WISNIK, Guilherme. Lucio Costa. Cosac & Naify, São Paulo, 2001.
-
 - title: Um encontro, um desencontro
   subtitle: Lucio Costa, Raul Lino e Carlos Ramos
   authors:
@@ -1932,7 +1871,6 @@ articles:
   - 'TÁVORA, Fernando. O Problema da Casa Portuguesa. Lisboa: Cadernos de Arquitectura, 1947 (1945)'
   - 'WISNIK, Guilherme. Lucio Costa. São Paulo: Cosac&Naify Edições, 2001.'
   - 'XAVIER, Alberto (Org.) Depoimento de Uma Geração. Arquitectura Moderna Brasileira. São Paulo: Cosac&Naify, Edição revista e ampliada 2003.'
-
 - title: As rampas de acesso ao Outeiro da Glória
   authors:
   - givenname: Marcelo
@@ -1945,7 +1883,6 @@ articles:
   - Outeiro da Glória
   references:
   - '- ALBERNAZ, M. P. e LIMA, C. M. (1998) – Dicionário ilustrado de arquitetura – São Paulo: Pro. - BURDEN, E. (2006) Dicionário ilustrado de arquitetura – 2a edição - Porto Alegre: Artmed - CORONA, E. e LEMOS, C. (19720 Dicionário da Arquitetura Brasileira – 1a edição – São Paulo: Edart - COSTA, L. (1995). Lucio Costa: registro de uma vivência – São Paulo: Empresa das Artes - COSTA, L. (1962). Sobre arquitetura – Porto Alegre: Centro de Estudantes Universitários de Arquitetura. - COSTA, Maria Elisa, org, (2000) Com a palavra, Lucio Costa – Rio de Janeiro: Aerplano. - FERREIRA, A. B. de H. (1995, 1995). Dicionário Aurélio básico da Língua Portuguesa – São Paulo: Nova Fronteira/Folha de São Paulo - GUIMARÃES, C. de (1996). Lucio costa – Rio de Janeiro: Coleção Perfis do Rio, Relume Dumará e Rio-Arte. - GOODWIN, P. L. (1943)– BRASIL BUILDS Architecture new and old 1652-1942 – New York : The Museum of Modern Art. - GUERRA, Abílio - A sustentabilidade cultural em Lucio Costa – catálogo da Iniciativa Solvin 2005 - p 20-31 – disponível em http://www.vitruvius.com.br/romanoguerra/solvin/solvin2005.asp. - MOTTA, F. L. (1984). Roberto Burle Marx e a nova visão da paisagem – São Paulo: Nobel - PESSÔA, J. org. (1998). Lucio Costa: documentos de trabalho – Rio de Janeiro: IPHAN - REZNIK, J. (dec. 90). Ladeira da Igreja da Glória – acervo – vídeo - disponível em http//www.casadeluciocosta.org. – acessado em 22 de maio de 2007'
-
 - title: O conceito de Identidade e Diferença na requalificação do espaço da cidade
   subtitle: o caso do World Trade Center
   authors:
@@ -1965,4 +1902,3 @@ articles:
   - _________________. Identidade e Diferença. Editora Vozes, São Paulo, 2006.
   - JEONG. Kwang Young. New York. World Trade Competiton. Archiworld. 2003
   - STEPHENS, Suzanne. Imagining Ground Zero. Official and Unofficial Proposals for the World Trade Center Site. Rizzoli, New York. 2004.
-

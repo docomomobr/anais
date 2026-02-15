@@ -5,26 +5,41 @@ number: 4
 
 evento:
   titulo: 4º Seminário Docomomo Norte/Nordeste
-  tema: ~
+  tema: "Arquitetura em Cidades \"Sempre Novas\": Modernismo, Projeto e Patrimônio"
   local: Natal, RN
-  data: 2012
-  organizacao: []
+  data: 29 de maio a 2 de junho de 2012
+  organizacao:
+    - Rubenilson Brazão Teixeira
+    - George Alexandre Ferreira Dantas
+    - Edja Bezerra Faria Trigueiro
+  instituicao: DARQ/PPGAU UFRN
 
 publicacao:
   ficha_catalografica: |
-    4° Seminário Docomomo Norte/Nordeste: anais [recurso eletrônico].
-    Natal: [Editora], 2012.
-  isbn: ~
-  editora: ~
-  ano: 2012
+    TEIXEIRA, Rubenilson Brazão; DANTAS, George Alexandre Ferreira (Org.).
+    Arquitetura em cidades "sempre novas": modernismo, projeto e patrimônio.
+    Natal: EDUFRN, 2016.
+    ISBN 978-85-425-0625-9.
+  isbn: 978-85-425-0625-9
+  editora: EDUFRN
+  ano: 2016
+  nota: "Livro com seleção de artigos do evento. Anais eletrônicos originais publicados por DARQ em 2012."
 
 fontes:
   docomomobrasil: ~
-  externa: ~
+  externa:
+    - https://repositorio.ufrn.br/bitstream/123456789/21143/3/Arquitetura%20em%20cidades%20%E2%80%9Csempre%20novas%E2%80%9D_low.pdf
+    - https://www.scribd.com/document/520298079/Arquitetura-em-cidades-sempre-novas-low
+    - https://livrandante.com.br/livros/rubenilson-brazao-teixeira-george-alexandre-ferreira-dantas-orgs-arquitetura-em-cidades-sempre-novas/
 
-status: nao_localizado
+status: pdf_localizado
 contato:
   instituicao: UFRN
   programa: DARQ/PPGAU UFRN
+  pessoas:
+    - nome: George Alexandre Ferreira Dantas
+      perfil: https://docente.ufrn.br/201900367405/perfil
+    - nome: Rubenilson Brazão Teixeira
+    - nome: Edja Bezerra Faria Trigueiro
 
 artigos: []

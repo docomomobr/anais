@@ -1,26 +1,20 @@
 # 12º Seminário Docomomo Brasil — Uberlândia (2017)
 # PENDENTE: Aguardando anais da organização
 # Site original (fora do ar): https://www.12docomomobrasil.com/anais
-
 issue:
   slug: sdbr12
-  title: "12º Seminário Docomomo Brasil"
-  subtitle: "Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade"
+  title: 12º Seminário Docomomo Brasil
+  subtitle: 'Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade'
   year: 2017
   volume: 1
   number: 12
   date_published: 2017-11-21
-  isbn: "978-85-64554-03-0"
+  isbn: 978-85-64554-03-0
   editors:
-    - "Maria Beatriz Camargo Cappello"
-    - "Marta dos Santos Camisassa"
-  source: "https://docomomobrasil.com/course/12o-seminario-docomomo-brasil-uberlandia/"
-
-# Fontes para consulta futura:
-# - Site oficial (offline): https://www.12docomomobrasil.com
-# - Portal UFU: https://eventos.ufu.br/faued/docomomo/2017/11
-# - Organização: PPGAU/FAUED/UFU e Docomomo MG
-
+  - Maria Beatriz Camargo Cappello
+  - Marta dos Santos Camisassa
+  source: https://docomomobrasil.com/course/12o-seminario-docomomo-brasil-uberlandia/
+  description: '12° Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello, Marta dos Santos Camisassa. Uberlândia: EDUFU, 2017. Disponível também em: docomomobrasil.com/course/12o-seminario-docomomo-brasil-uberlandia. ISBN: 978-85-64554-03-0.'
 articles:
 - id: sdbr12-001
   title: Cataguases e suas modernidades
@@ -75,7 +69,6 @@ articles:
   - 'Werneck, Ronaldo. Kiryrí Rendauá Toribóca Opé: Humberto Mauro revisto por Ronaldo Werneck. São Paulo: Arte Pau-Brasil, 2009.'
   - 'Wolff, Janet. A produção social da arte. Rio de Janeiro: Zahar, 1982.'
   file: sdbr12-001.pdf
-
 - id: sdbr12-002
   title: Mies in Brazil
   subtitle: beyond diplomatic issues regarding the US consulate in São Paulo, 1957–62
@@ -85,24 +78,25 @@ articles:
   - givenname: Marcos Amado
     familyname: Petroli
     primary_contact: true
-  abstract: |-
-    Este trabalho analisa o projeto para o Consulado Americano em São Paulo (1957–62) primeiramente como edifício com conotações simbólicas e diplomáticas, em que arquitetura moderna associa-se a certo imperialismo americano; e posteriormente como um projeto arquitetônico elaborado por Mies e equipe, mas já com pequenas divergências formais que questionam até que ponto Mies estava a par do projeto.
+  abstract: 'Este trabalho analisa o projeto para o Consulado Americano em São Paulo (1957–62) primeiramente como edifício com conotações simbólicas e diplomáticas, em que arquitetura moderna associa-se a certo imperialismo americano; e posteriormente como um projeto arquitetônico elaborado por Mies e equipe, mas já com pequenas divergências formais que questionam até que ponto Mies estava a par do projeto.
+
     Embora o Departamento de Estado americano tenha requisitado mais assimilação dos futuros projetos com arquiteturas nativas de outras nações, Mies e seu time propuseram outro pavilhão típico miesiano, um projeto que trata o ambiente urbano com tal descolamento que relembra tanto melancolia, como conquista de território através do olhar de um arquiteto imigrante. Território é ambivalente, portanto, entre ambiente construído e terreno primitivo, mas que também não negou a ambição de um caráter cívico monumental.
-    Assim, este trabalho busca cobrir certa marginalização nas historiografias da arquitetura moderna nos Estados Unidos sobre a produção brasileira no período pós-Brasília, uma época ainda circundado por níveis intelectuais de perversidade e miopia. Além disso, este trabalho enfatiza o perigo da reprodutibilidade da imagem (não do método de projeto) miesiana como formação acrítica, processo que vem a mistificar os protótipos originais do arquiteto-construtor alemão.
+
+    Assim, este trabalho busca cobrir certa marginalização nas historiografias da arquitetura moderna nos Estados Unidos sobre a produção brasileira no período pós-Brasília, uma época ainda circundado por níveis intelectuais de perversidade e miopia. Além disso, este trabalho enfatiza o perigo da reprodutibilidade da imagem (não do método de projeto) miesiana como formação acrítica, processo que vem a mistificar os protótipos originais do arquiteto-construtor alemão.'
   keywords:
   - Mies van der Rohe no Brasil
   - Consulado dos Estados Unidos em São Paulo
   - período pós-Brasília
-  abstract_en: |-
-    This paper analyzes the US Consulate in Sao Paulo (1957-62) design firstly as building with symbolic and diplomatic connotations, in which modern architecture associates itself to a kind of American imperialism; and later as an design by Mies and his team, but with slight formal divergences that question to what extent Mies was aware about the project.
+  abstract_en: 'This paper analyzes the US Consulate in Sao Paulo (1957-62) design firstly as building with symbolic and diplomatic connotations, in which modern architecture associates itself to a kind of American imperialism; and later as an design by Mies and his team, but with slight formal divergences that question to what extent Mies was aware about the project.
+
     Although the State Department had requested more assimilation between projects and native architectures from other nations, Mies and his team proposed another Miesian-like pavilion design, which treats the urban landscape in such detachment that reminds both melancholy and conquer through the eyes of an immigrant architect. Territory is ambivalent then in between built environment and primitive terrain, but something that also did not deny the ambition of a civic and monumental character.
-    Therefore, this paper also aims to cover a gap in historiographies about Brazilian modern architecture in America after Brasilia (1960), a period still surrounded by certain intellectual levels of pervasive and myopia. In addition, it alerts for the reproducibility of the Miesian image (not the design method) as a non-critic formation, process that comes to mystify the original prototypes of the German architect-builder.
+
+    Therefore, this paper also aims to cover a gap in historiographies about Brazilian modern architecture in America after Brasilia (1960), a period still surrounded by certain intellectual levels of pervasive and myopia. In addition, it alerts for the reproducibility of the Miesian image (not the design method) as a non-critic formation, process that comes to mystify the original prototypes of the German architect-builder.'
   keywords_en:
   - Mies van der Rohe in Brazil
   - US Consulate in São Paulo
   - period after Brasilia
   file: sdbr12-002.pdf
-
 - id: sdbr12-003
   title: Considerações acerca do catálogo arquitetura contemporânea no Brasil (1947 e 1948)
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -149,7 +143,6 @@ articles:
   - 'XAVIER, Alberto. Lúcio Costa: sôbre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.'
   - '______. (1988). Prefácio. In: SILVA: Maria Angélica. Arquitetura moderna: a atitude alagoana. Maceió: SERGASA, 1991, p.9-10.'
   file: sdbr12-003.pdf
-
 - id: sdbr12-004
   title: A arquitetura moderna em Sorocaba
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -199,7 +192,6 @@ articles:
   - 'XAVIER, Alberto (org.). Arquitetura Moderna Brasileira: Depoimentos de uma geração. São Paulo: Associação Brasileira de Ensino de Arquitetura / Fundação Vilanova Artigas / Pini, 1987.'
   - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista: 1953-1973. Tese (Doutorado). Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio Grande do Sul, Porto Alegre, 2007.'
   file: sdbr12-004.pdf
-
 - id: sdbr12-005
   title: A rodoferroviária de Brasília
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -223,7 +215,6 @@ articles:
   - '______________. [Companhia Urbanizadora da Nova Capital - Nova Sede NOVACAP]. Rio,  1976. Fundação Oscar Niemeyer. Coleção Oscar Niemeyer. Disponível em: http://www.niemeyer.org.br/obra/pro405, acesso em 26/07/2017.'
   - 'ZEIN, Ruth Verde. Oscar Niemeyer. Da critica alheia à teoria própria. Arquitextos, ano 13, n. 151-1. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608 . Acesso em 19/07/2017.'
   file: sdbr12-005.pdf
-
 - id: sdbr12-006
   title: A produção da DOP durante o plano de ação
   subtitle: elementos iniciais para análise e levantamento preliminar de projetos
@@ -264,7 +255,6 @@ articles:
   - segawa, Hugo.  Arquiteturas escolares.  São Paulo, Projeto, n. 87, p. 64-5, mai. 1986.
   - 'universidade de são paulo.  faculdade de arquitetura e urbanismo. grêmio.  Anistia na FAUUSP: a reintegração dos professores cassados pelo AI-5.  São Paulo: FAUUSP, 1998.'
   file: sdbr12-006.pdf
-
 - id: sdbr12-007
   title: Engenho e arte
   subtitle: composição e configuração em Amorim e Maia Neto
@@ -316,7 +306,6 @@ articles:
   - SILVA, G. G. Delfim Amorim, um modernista português no Recife. Revista AU, v. 57, p. 71-79, 1995.
   - 'SHPUZA, E. Light, views and Money: average perimeter distance and its relation to floor plate geometry. In Proceedings Fourth International Space Syntax Symposium, Ed. J. Hanson, University College London, Londres, 41.01-41.10, 2003 (http://www.spacesyntax.net/symposia-archive/SSS4/fullpapers/41Shpuzapaper.pdf).'
   file: sdbr12-007.pdf
-
 - id: sdbr12-008
   title: A disseminação do repertório arquitetônico racionalista brasileiro
   subtitle: o Projeto de Adolf Franz Heep e Elgson Ribeiro Gomes para o conjunto do edifício MAPI no litoral Paranaense
@@ -365,7 +354,6 @@ articles:
   - 'WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. Sâo Paulo: Perspectiva, 2011, 2013.'
   - 'XAVIER, Alberto. Depoimento de uma geração – arquitetura moderna brasileira. São Paulo: Cosac Naify, 1987, 2003.'
   file: sdbr12-008.pdf
-
 - id: sdbr12-009
   title: Ao norte e ao sul do Eixo
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -407,7 +395,6 @@ articles:
   - TAVARES, Jeferson. Projetos para Brasília e a cultura urbanística nacional. Dissertação (Mestrado em Arquitetura e Urbanismo), Universidade de São Paulo. São Paulo, 2004.
   - VALENTINETTI, Claudio. O cinema e a cidade,  Revista Humanidades Nº 56 - Brasília, Cidade, Pensamento. Brasília:UnB, 2009.
   file: sdbr12-009.pdf
-
 - id: sdbr12-010
   title: Estudo comparativo entre a residência de Oswaldo Bratke e a Lamel House de Pierre Koenig
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -442,7 +429,6 @@ articles:
   - '______; DOURADO, Guilherme Massa. Oswaldo Arthur Bratke. São Paulo: Pró Editores, 1997.'
   - 'TAGLIARI, Ana. Os princípios orgânicos na obra de Frank Lloyd Wright: uma abordagem gráfica de exemplares residenciais. UNICAMP (Mestrado em Artes) – Programa de Pós-graduação em Artes, Instituto de Artes, Universidade Estadual de Campinas, Campinas, 2008.'
   file: sdbr12-010.pdf
-
 - id: sdbr12-011
   title: A obra de Maria do Carmo Schwab na arquitetura modernista Capixaba
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -457,16 +443,16 @@ articles:
   - givenname: Genildo Coelho Hautequestt
     familyname: Filho
     primary_contact: false
-  abstract: |-
-    O modernismo no Brasil teve grande ascensão a partir da Semana de Arte Moderna de 1922, em São Paulo, com inúmeras manifestações culturais que disseminaram a proposta que já vinha sendo difundida na Europa, desde o início do século XIX. Mesmo que tardio em relação a outros países, o Brasil foi um grande apoiador do movimento e de onde se extraiu nomes importantes e marcos da obra modernista mundial (BENÉVOLO, 2001).
-    No Espírito Santo a modernização da Região Metropolitana da Grande Vitória (RMGV), consolidou-se por ação do governo Jones Santos Neves (1951-1955), com a capital mais estruturada do que nos governos anteriores. Esse processo teve como base a escola moderna carioca, recebendo arquitetos vindos do Rio de Janeiro e de Belo Horizonte para elaboração do programa de modernização das cidades capixabas, sendo Maria do Carmo de Novaes Schwab, um dos principais nomes desse período da arquitetura capixaba (MIRANDA, 2010).
+  abstract: 'O modernismo no Brasil teve grande ascensão a partir da Semana de Arte Moderna de 1922, em São Paulo, com inúmeras manifestações culturais que disseminaram a proposta que já vinha sendo difundida na Europa, desde o início do século XIX. Mesmo que tardio em relação a outros países, o Brasil foi um grande apoiador do movimento e de onde se extraiu nomes importantes e marcos da obra modernista mundial (BENÉVOLO, 2001).
+
+    No Espírito Santo a modernização da Região Metropolitana da Grande Vitória (RMGV), consolidou-se por ação do governo Jones Santos Neves (1951-1955), com a capital mais estruturada do que nos governos anteriores. Esse processo teve como base a escola moderna carioca, recebendo arquitetos vindos do Rio de Janeiro e de Belo Horizonte para elaboração do programa de modernização das cidades capixabas, sendo Maria do Carmo de Novaes Schwab, um dos principais nomes desse período da arquitetura capixaba (MIRANDA, 2010).'
   keywords:
   - arquitetura modernista
   - arquitetura capixaba
   - obra modernista
-  abstract_en: |-
-    Modernism in Brazil had a great rise since the Modern Art Week of 1922 in São Paulo, with numerous cultural events that disseminated the proposal that had been disseminated in Europe since the beginning of the nineteenth century. Although late in relation to other countries, Brazil was a great supporter of the movement and from which important names and milestones of the modernist world work were extracted (BENÉVOLO, 2001).
-    In Espírito Santo, the modernization of the Greater Vitória Metropolitan Region (RMGV) was consolidated by the Jones Santos Neves administration (1951-1955), with the capital being more structured than in previous governments. This process was based on the modern school in Rio de Janeiro, receiving architects from Rio de Janeiro and Belo Horizonte to elaborate the program for the modernization of the cities of the state of Espírito Santo, Maria do Carmo de Novaes Schwab, one of the main names of this period of architecture in the state of MIRANDA , 2010).
+  abstract_en: 'Modernism in Brazil had a great rise since the Modern Art Week of 1922 in São Paulo, with numerous cultural events that disseminated the proposal that had been disseminated in Europe since the beginning of the nineteenth century. Although late in relation to other countries, Brazil was a great supporter of the movement and from which important names and milestones of the modernist world work were extracted (BENÉVOLO, 2001).
+
+    In Espírito Santo, the modernization of the Greater Vitória Metropolitan Region (RMGV) was consolidated by the Jones Santos Neves administration (1951-1955), with the capital being more structured than in previous governments. This process was based on the modern school in Rio de Janeiro, receiving architects from Rio de Janeiro and Belo Horizonte to elaborate the program for the modernization of the cities of the state of Espírito Santo, Maria do Carmo de Novaes Schwab, one of the main names of this period of architecture in the state of MIRANDA , 2010).'
   keywords_en:
   - Modernist architecture
   - Capixaba architecture
@@ -487,7 +473,6 @@ articles:
   - 'MONTEIRO, P. R. Vitória: Cidade e Presépio –os vazios visíveis da capital capixaba. Editora ANNABLUME. 1ª edição, 2008.'
   - MURTA, L. M. Guia da Arquitetura Moderna Capixaba.PG. Universidade Federal do Espírito Santo, Vitória, 2000.
   file: sdbr12-011.pdf
-
 - id: sdbr12-012
   title: Em consideração de um imaginário moderno na dinâmica construtiva do Triângulo Mineiro e Alto Paranaíba (1945-1975)
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -545,7 +530,6 @@ articles:
   - Arquivo Público Municipal de Uberaba
   - CEDHIS - Centro de Documentação e Pesquisa em História da Universidade Federal de Uberlândia.
   file: sdbr12-012.pdf
-
 - id: sdbr12-013
   title: Chegou Lúcio Costa
   subtitle: notícias da “nova São Luís” (1979)
@@ -617,7 +601,6 @@ articles:
   - 'INSTITUTO ANTÔNIO CARLOS JOBIM. Acervo digital Lucio Costa. (Internet) Disponível em «http://www.jobim.org/lucio/». Acesso em: 05 de abril de 2012.'
   - 'LUZ, Josinaldo Santos da. Lutas por moradias e expansão do espaço urbano na cidade de São Luís. 2004. Disponível em:<http://servicos.capes.gov.br/arquivos/avaliação/estudos/dados1 2004/20001010/032/2004_032_20001010003P6_Teses.pdf>. Acesso em: 12 de julho de 2010.'
   file: sdbr12-013.pdf
-
 - id: sdbr12-014
   title: “Fijoada y arquitectura para los trópicos”
   subtitle: olhares sul-americanos sobre Brasília, 1956-1965
@@ -678,7 +661,6 @@ articles:
   - WILLIAMS, A. A propósito de Brasília. Módulo, Rio de Janeiro, v. 3, n. 16, p. 2-3, dez. 1959.
   - 'XAVIER, A.; KATINSKY, J. Brasília. Antologia crítica. São Paulo: Cosac Naify, 2012.'
   file: sdbr12-014.pdf
-
 - id: sdbr12-015
   title: Caminhando por Brasília
   subtitle: descobrindo as passagens subterrâneas
@@ -732,7 +714,6 @@ articles:
   - 'Revista Brasília: História, urbanismo, arquitetura, construção. Uma publicação acrópole. 2º Ed.1960.'
   - Orico, Osvaldo. Brasil, capital Brasília. Revista. 3º Edição. Distribuidora Record Editora. Brasília – Rio de Janeiro. 1961.
   file: sdbr12-015.pdf
-
 - id: sdbr12-016
   title: Historiografia e preservação do modernismo na obra da SUDENE
   subtitle: itinerários, preceitos, argumentos e outros pontos no roteiro
@@ -771,7 +752,6 @@ articles:
   - 'SILVA, Geraldo Gomes da. Marcos da arquitetura moderna em Pernambuco. In: SEGAWA, Hugo (org.). Arquiteturas no Brasil: anos 80. São Paulo: Projeto, 1988. p.19-28.'
   - 'SILVA, Geraldo Gomes. A pré-fabricação e a racionalização na arquitetura moderna em Pernambuco na década de 30 do século passado. In: MOREIRA, Fernando Diniz (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. Recife: Fasa, 2007. p.53-63.'
   file: sdbr12-016.pdf
-
 - id: sdbr12-017
   title: Nas encostas dos vales
   subtitle: variações do tipo na arquitetura multirresidencial em Salvador, Bahia
@@ -781,9 +761,9 @@ articles:
   - givenname: Márcio Correia
     familyname: Campos
     primary_contact: true
-  abstract: |-
-    Resumo (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
-    O presente artigo analisa um conjunto específico de edifícios multirresidenciais construídos em Salvador, Bahia, entre meados dos anos de 1960 e início dos anos 1980, cujo desenho indica uma adaptação a condições locais no processo de difusão dos princípios da arquitetura moderna. A análise do desenvolvimento da malha viária da cidade, do desenho urbano, da implantação no sítio e dos esquemas de circulação horizontal e vertical pretende demonstrar um processo localizado de recepção interpretativa de princípios consolidados no campo cultural da arquitetura moderna, como a formação de uma rede de condicionantes que articulam a elaboração de uma arquitetura vinculada ao lugar, expressa na tensão entre modelos canônicos, tipo arquitetônico e o lugar.
+  abstract: 'Resumo (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
+
+    O presente artigo analisa um conjunto específico de edifícios multirresidenciais construídos em Salvador, Bahia, entre meados dos anos de 1960 e início dos anos 1980, cujo desenho indica uma adaptação a condições locais no processo de difusão dos princípios da arquitetura moderna. A análise do desenvolvimento da malha viária da cidade, do desenho urbano, da implantação no sítio e dos esquemas de circulação horizontal e vertical pretende demonstrar um processo localizado de recepção interpretativa de princípios consolidados no campo cultural da arquitetura moderna, como a formação de uma rede de condicionantes que articulam a elaboração de uma arquitetura vinculada ao lugar, expressa na tensão entre modelos canônicos, tipo arquitetônico e o lugar.'
   keywords:
   - Salvador
   - habitação
@@ -809,7 +789,6 @@ articles:
   - 'SEIDL, Ernst. Lexikon der Bautypen: Funktionen und Formen der Architektur. Stuttgart: Reklam Verlag, 2012.'
   - 'STAMM-TESKE, Walter; FISCHER, Katja e HAAG, Tobias. Raumpilot Wohnen. Ludwigsburg: Wüstenrot Stiftung e Karl Krämer Verlag, 2012.'
   file: sdbr12-017.pdf
-
 - id: sdbr12-018
   title: Novidade continuada
   subtitle: anotações sobre casas-pátio modernas brasileiras implantadas em lotes de grandes dimensões
@@ -861,7 +840,6 @@ articles:
   - 'ZEIN, Ruth Verde. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação (Mestrado em Arquitetura). Universidade Federal do Rio Grande do Sul, Porto Alegre, 2000. Disponível em: http://www.lume.ufrgs.br/handle/10183/141857'
   - 'ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
   file: sdbr12-018.pdf
-
 - id: sdbr12-019
   title: Artes plásticas integradas à arquitetura nos painéis de Petrônio Cunha Lima
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -904,7 +882,6 @@ articles:
   - SERT; JL LEGER; GIEDION, F. S. Nine Points on Monumentality (1943). Harvard Architecture Review, 1984.
   - 'XAVIER, Alberto (org.). Depoimento de uma Geração: arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003'
   file: sdbr12-019.pdf
-
 - id: sdbr12-020
   title: Niemeyer na Costa lusitana
   subtitle: urbanização de Pena Furada, 1965-1966
@@ -942,7 +919,6 @@ articles:
   - 'SOARES, Marisa; NÓBREGA, Tolentino; HENRIQUES, Ana. Portugal tem três projetos de Niemeyer na gaveta. Público. Lisboa, 6 dez. 2012. Disponível em: <https://www.publico.pt/.../portugal-tem-dois-projectos-de-niemeyer-na-gaveta-1576412 >'
   - 'ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: arquiteturas após 1950. São Paulo, Perspectiva, 2010.'
   file: sdbr12-020.pdf
-
 - id: sdbr12-021
   title: Patrimônio de ceilândia-df e história oral
   subtitle: a memória coletiva construída pela água
@@ -1001,7 +977,6 @@ articles:
   - SILVA, Antônia Alves da. Depoimento - Programa de História Oral. Brasília, Arquivo Público do Distrito Federal, 2002. 28p.
   - SILVA, Severino Bezerra da. Depoimento - Programa de História Oral. Brasília, Arquivo Público do Distrito Federal, 2002. p.
   file: sdbr12-021.pdf
-
 - id: sdbr12-022
   title: Recepção e difusão da arquitetura e urbanismo modernos brasileiros na plena amplitude de sua abordagem
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1041,7 +1016,6 @@ articles:
   - —Santana, Geraldo. Presença de Joaquim Cardozo na Arquitetura Brasileira • In Suplemento Cultural –Diário Oficial do Estado de Pernambuco, 1997.
   - _________ Cronologia de Joaquim Cardozo (1897-1978) • In Suplemento Cultural –Diário Oficial do Estado de Pernambuco, 1997.
   file: sdbr12-022.pdf
-
 - id: sdbr12-023
   title: Casa e Jardim anos 1950
   subtitle: a linguagem moderna chega à classe média
@@ -1051,17 +1025,18 @@ articles:
   - givenname: Maristela da Silva
     familyname: Janjulio
     primary_contact: true
-  abstract: |-
-    Nesta pesquisa da revista Casa e Jardim, que envolve o período 1953-1959, analisa-se a relevância deste periódico para o estudo da arquitetura moderna, no momento em que ela atinge um público mais amplo, nos anos 1950. Assim, a importância da revista não se restringe a uma amostragem da produção da arquitetura erudita em suas páginas, mas também ao fato de criar-se um público – e mesmo uma clientela - para a linguagem moderna. Este público alcança lugares mais distantes do que os exemplares da arquitetura erudita da época.
-    Existe, na revista, toda uma produção arquitetônica com referências da linguagem moderna, apresentada à classe média, educando seu gosto nesta direção.  Neste processo, é criado um modelo, calcado em princípios modernos, e exposto aos leitores através de imagens e textos. Existem, ainda, projetos criados por arquitetos para um cliente hipotético, com referências deste mesmo modelo.
+  abstract: 'Nesta pesquisa da revista Casa e Jardim, que envolve o período 1953-1959, analisa-se a relevância deste periódico para o estudo da arquitetura moderna, no momento em que ela atinge um público mais amplo, nos anos 1950. Assim, a importância da revista não se restringe a uma amostragem da produção da arquitetura erudita em suas páginas, mas também ao fato de criar-se um público – e mesmo uma clientela - para a linguagem moderna. Este público alcança lugares mais distantes do que os exemplares da arquitetura erudita da época.
+
+    Existe, na revista, toda uma produção arquitetônica com referências da linguagem moderna, apresentada à classe média, educando seu gosto nesta direção.  Neste processo, é criado um modelo, calcado em princípios modernos, e exposto aos leitores através de imagens e textos. Existem, ainda, projetos criados por arquitetos para um cliente hipotético, com referências deste mesmo modelo.'
   keywords:
   - linguagem moderna arquitetura residencial
   - Casa e Jardim anos 1950
   - arquitetura classe média
-  abstract_en: |-
-    Abstract (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
+  abstract_en: 'Abstract (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
+
     In this research in the magazine Casa e Jardim, which involves the period 1953-1959, the relevance of this journal to the study of modern architecture is analyzed, as it reaches a wider audience in the 1950s. Thus, the importance of the journal is not just limited to a sample of erudite architecture production, but also to the fact of creating an audience - and even a clientele - for modern language. This public reaches more distant places than the erudite architecture exemplars of the time.
-    There is in the magazine a whole production of architecture, with references of the modern language, presented to the middle class, educating its taste in this direction. In this process, a model is created, based on modern principles, and presented to readers through images and texts. There are also projects created by architects for a hypothetical client, with references of this same model.
+
+    There is in the magazine a whole production of architecture, with references of the modern language, presented to the middle class, educating its taste in this direction. In this process, a model is created, based on modern principles, and presented to readers through images and texts. There are also projects created by architects for a hypothetical client, with references of this same model.'
   keywords_en:
   - modern language residential architecture
   - Casa e Jardim 1950s
@@ -1110,7 +1085,7 @@ articles:
   - 'MELLO, João Manuel Cardoso de; NOVAIS, Fernando A. Capitalismo Tardio e Sociabilidade Moderna.” In: SCHWARCZ, Lilia Moritz (org.) e NOVAIS, Fernando A. (coord.). História da Vida Privada no Brasil: Contrastes da Intimidade Contemporânea. São Paulo: Companhia das Letras, 2012, v.4, p.559-658.'
   - OBRIGADO! Casa e Jardim, São Paulo, n.2, p.2, maio/jun.1953.
   - O GOSTO pessoal é quem decide, mas deve-se saber o que se quer! Casa e Jardim, São Paulo, n.18, p.4-7, out. 1955.
-  - 'PEREZ, Francisca; GODOY, Carmen Gloria. Territorios imaginarios de lo domestico.   Vida cotidiana en las revistas femeninas 1930-1960: el caso de Margarita. Revista Chilena de Antropología Visual, Santiago, n.13, p. 104/128, jun.2009.'
+  - 'PEREZ, Francisca; GODOY, Carmen Gloria. Territorios imaginarios de lo domestico.     Vida cotidiana en las revistas femeninas 1930-1960: el caso de Margarita. Revista Chilena de Antropología Visual, Santiago, n.13, p. 104/128, jun.2009.'
   - PINHEIRO, Maria Lúcia Bressan Modernizada ou Moderna? A arquitetura em São Paulo, 1938-45. Tese (Doutorado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1997.
   - PLANEJE primeiro no papel. Casa e Jardim, São Paulo, n.14, p.26-8, maio/jun.1955.
   - PORQUE GOSTAMOS desta ou daquela casa? Casa e Jardim, São Paulo, n. 9, p.5 e 64-65, jul./ago.1954.
@@ -1122,7 +1097,6 @@ articles:
   - 'SEGAWA, Hugo; DOURADO, Guilherme Mazza Oswaldo Arthur Bratke. São Paulo: ProEditores 1997.'
   - VENTURI, Robert. Complexidade e contradição em arquitetura. São Paulo: Martins Fontes, 1995.
   file: sdbr12-023.pdf
-
 - id: sdbr12-024
   title: A prática docente na disseminação do ensino de arquitetura moderna trajetórias e articulações entre 1945-1962
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1146,9 +1120,9 @@ articles:
   - Brazilian Architecture
   references:
   - '4º Congresso Brasileiro de Arquitetos, 1954. São Paulo. Anais. São Paulo: Instituto de Arquitetos do Brasil, 1954. 289p'
-  - |-
-    AMORIN, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos. ano 01, maio 2001
-    Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889
+  - 'AMORIN, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos. ano 01, maio 2001
+
+    Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889'
   - 'ARTIGAS, J. B. Prova Didática – A função social do arquiteto, (1984), Caminhos da Arquitetura. São Paulo: Cosac Naify, 2004, 234p.'
   - 'BASTOS, M. A. J. ; ZEIN, R. V. Brasil: Arquiteturas após 1950. 1. ed. São Paulo: Editora Perspectiva, 2010. v. 01. 429p.'
   - 'CAVALCANTI, Lauro. Quando o Brasil era moderno: guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.'
@@ -1162,16 +1136,15 @@ articles:
   - 'LEME, Maria Cristina da Silva; FERNANDES, Ana; GOMES, Marco Aurelio Filgueiras (org.) Urbanismo no Brasil 1895-1965. São Paulo: Studio Nobel/FAU USP/FUPAM, 1999.'
   - "MONTEIRO, Amanda Rafaelly Casé.Acácio Gil Borsoi: A formação clássica do arquiteto moderno. Arqtextos. ano 17, dez. 2016 \nDisponível em:http://vitruvius.com.br/revistas/read/arquitextos/17.199/6353"
   - 'PONTUAL, Virgínia. O engenheiro Antonio Bezerra Baltar: Prática urbanística, CEPUR e SAGMACS. R.B. Estudos Urbanos e Regionais, v.13, n.1 / Maio de 2011, pag. 151-169.'
-  - |-
-    SCOCUGLIA, Jovanka Baracuhy Cavalcanti Scocuglia; MONTEIRO, Lia Monteiro & MELO, Marieta Dantas Tavares de. Arquitetura Moderna no Nordeste 1960-70: a produção de Borsoi em João Pessoa.Arquitextos. ano 06, set. 2005
-    Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/432
+  - 'SCOCUGLIA, Jovanka Baracuhy Cavalcanti Scocuglia; MONTEIRO, Lia Monteiro & MELO, Marieta Dantas Tavares de. Arquitetura Moderna no Nordeste 1960-70: a produção de Borsoi em João Pessoa.Arquitextos. ano 06, set. 2005
+
+    Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/432'
   - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990, São Paulo, Editora da Universidade de São Paulo. 2002.
   - 'SEGRE, Roberto. Ministério da Educação e Saúde Pública no Rio de Janeiro (1935-1945): um work in progress da Primeira Modernidade Brasileira. Arquitextos, ano 06, fev. 2006 Disponível em:http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376'
   - SILVA, Wanessa Magalhães da. Práticas Políticas e sociabilidade intelectual na Bahia 1940/1950. Revista Diálogos, Rio de Janeiro, nº4, Outubro de 2010.
   - 'SILVA, Joana Mello de Carvalho e. O arquiteto e a produção da cidade: a experiência de Jacques Polon, 1930-1960. São Paulo: Annablume; Fapesp, 2012.'
   - VIDOTTO, Taiane car. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no Estado de São Paulo. Dissertação de mestrado. Universidade Estadual de Campinas, Faculdade de Engenharia, Arquitetura e Urbanismo. 2014
   file: sdbr12-024.pdf
-
 - id: sdbr12-025
   title: O patrimônio arquitetônico moderno do campus central da universidade federal do Rio grande do Norte
   subtitle: a contribuição brutalista do arquiteto Alcyr Meira
@@ -1215,7 +1188,6 @@ articles:
   - 'TRIGUEIRO, E.; CAPPI, F.; NASCIMENTO, M. Modernismo potiguar: vida, reprodução e quase morte. In: 3º DOCOMOMO Norte-Nordeste: Morte e vida severinas: Das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil, 2010.'
   - 'ZEIN, R. V. Arquitetura Paulista Brutalista: 1953 – 1973. Disponível em: http://www.arquiteturabrutalista.com.br/, acesso em: 2016-09-01.'
   file: sdbr12-025.pdf
-
 - id: sdbr12-026
   title: Duplex moderno
   subtitle: o Edifício Florida
@@ -1255,7 +1227,6 @@ articles:
   - 'XAVIER, Alberto, BRITTO, Alfredo, NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro.  Rio de Janeiro: Rioarte/Fundação Vilanovas Artigas, Ed. Pini, 1991.'
   - .
   file: sdbr12-026.pdf
-
 - id: sdbr12-027
   title: A distribuição geográfica da revista Módulo
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1289,7 +1260,6 @@ articles:
   - 'WAISMAN, Marina. O Interior da História: historiografia arquitetônica para uso de latino-americanos.  São Paulo: Perspectiva, 2013.'
   - 'ZEIN, Ruth Verde. Da Crítica Alheia à teoria própria. Arquitextos, n. 151.04,  2012.Disponível em: < http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608 >.'
   file: sdbr12-027.pdf
-
 - id: sdbr12-028
   title: Uma análise do discurso teórico de Lucio Costa
   subtitle: o antes e o depois das viagens de estudos a Portugal
@@ -1330,7 +1300,6 @@ articles:
   - 'WISNIK, Guilherme (org.) O Risco. Lucio Costa e a utopia moderna. Bang Bang filmes RJ: 2003.'
   - 'WISNIK, Guilherme. Plástica e anonimato: modernidade e tradição em Lucio. 2007'
   file: sdbr12-028.pdf
-
 - id: sdbr12-029
   title: Entre o EPUCS e o novo centro
   subtitle: as modernizações urbanas vinculadas à primeira estação rodoviária de Salvador
@@ -1384,7 +1353,6 @@ articles:
   - 'Canalização do “Rio das Tripas”. Jornal A Tarde. Salvador, 04 fev. 1966: 2'
   - 'Rio das Tripas terá um trecho canalizado. Jornal A Tarde. Salvador, 05 dez. 1966: 2'
   file: sdbr12-029.pdf
-
 - id: sdbr12-030
   title: Brasília inscrita na pedra
   subtitle: a narrativa do museu da cidade
@@ -1425,7 +1393,6 @@ articles:
   - REVISTA BRASÍLIA, v.2. n 17, maio, 1958.
   - 'VEYNE, Paul. Como se escreve a história e Foucault revoluciona a história. Brasília: Editora Universidade de Brasília, 1998.'
   file: sdbr12-030.pdf
-
 - id: sdbr12-031
   title: A casa moderna como laboratório experimental
   subtitle: a casa Olga Baeta, Vilanova Artigas, 1956
@@ -1462,7 +1429,6 @@ articles:
   - MOTTA, Flávio. Paulo Mendes da Rocha. Acrópole, São Paulo,n.343, set.1967, p.17-18. A
   - THOMAZ, Dalva Elias. Um olhar sobre Vilanova Artigas e a sua contribuição à Arquitetura Brasileira. 1997. Dissertação (Mestrado em Arquitetura e Urbanismo) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo.
   file: sdbr12-031.pdf
-
 - id: sdbr12-032
   title: Goiânia-go, a concepção de uma capital moderna como modelo ideal da nova política, o estado novo e as mudanças do plano urbano da região Sul após esse governo
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1499,7 +1465,6 @@ articles:
   - 'MONBEIG. Pierre. Goiânia na Opinião Nacional. In: ____, 2001, p. 199.'
   - 'TEIXEIRA, Amália Hermano. Estradas – Caminhos Abertos à Civilização. In: ____, 2001, p. 222.'
   file: sdbr12-032.pdf
-
 - id: sdbr12-033
   title: A persistência do telhado na arquitetura brasileira
   subtitle: a casa moderna
@@ -1547,7 +1512,6 @@ articles:
   - 'Zodiac: 11 (1963)'
   - 'Arquitetura e Engenharia: 66 (1963)'
   file: sdbr12-033.pdf
-
 - id: sdbr12-034
   title: Reconstituindo a biblioteca-anexo de Le Corbusier em São Paulo, 1929
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1600,7 +1564,6 @@ articles:
   - 'SANTOS, Cecília Rodrigues dos, PEREIRA, Margareth, PEREIRA, Romão Veriano, SILVA, Vasco Caldeira da. Le Corbusier e o Brasil. São Paulo: Tessela. Projeto, 1987.'
   - 'TSIOMIS, Yannis. Le Corbusier Rio de Janeiro 1929 1936. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro; Centro de Arquitetura e Urbanismo do Rio de Janeiro, 1998.'
   file: sdbr12-034.pdf
-
 - id: sdbr12-035
   title: Interpretando a historiografia da arquitetura moderna brasileira
   subtitle: Brasília e monografias entre 1959 e 1973
@@ -1642,7 +1605,6 @@ articles:
   - 'SCHNEIDER, Wolf. Babylon is everywhere. The city as a man’s fate.Londres: Hodder and Stoughton, 1963.'
   - 'SCHNEIDER, Wolf. De Babilônia a Brasília. Las ciudades y sus hombres. Barcelona/Madrid: Editorial Noguer, 1961.'
   file: sdbr12-035.pdf
-
 - id: sdbr12-036
   title: A recepção da arquitetura moderna brasileira nas páginas da Arquitectura
   subtitle: o primeiro flerte
@@ -1655,16 +1617,16 @@ articles:
   - givenname: Milton
     familyname: Luz Filho
     primary_contact: false
-  abstract: |-
-    Este artigo pretende fazer uma abordagem sobre a revista portuguesa Arquitectura, afim de identificar de que maneira o interesse pela arquitetura moderna brasileira surge em seu contexto. Para tal, uma visão geral sobre seus conteúdos terá como objetivo identificar os primeiros artigos que especificamente abordam o tema em foco e, a partir deles, identificar que ideias estão sendo veiculadas.
-    Pretende-se buscar a compreensão de como ocorre a recepção da arquitetura moderna brasileira, e sua interlocução com a arquitetura moderna em Portugal. Para isto este artigo analisa o surgimento da primeira publicação sobre a arquitetura moderna brasileira em suas páginas, sintomaticamente texto do arquiteto português Victor Palla a advogar pela modernidade e tradição. Para tal, este artigo dialoga com as ideias de Lucio Costa, de modernidade e tradição, a partir do texto de Palla, afim de traçar um paralelo com o pensamento moderno que se estava construindo no Brasil.
+  abstract: 'Este artigo pretende fazer uma abordagem sobre a revista portuguesa Arquitectura, afim de identificar de que maneira o interesse pela arquitetura moderna brasileira surge em seu contexto. Para tal, uma visão geral sobre seus conteúdos terá como objetivo identificar os primeiros artigos que especificamente abordam o tema em foco e, a partir deles, identificar que ideias estão sendo veiculadas.
+
+    Pretende-se buscar a compreensão de como ocorre a recepção da arquitetura moderna brasileira, e sua interlocução com a arquitetura moderna em Portugal. Para isto este artigo analisa o surgimento da primeira publicação sobre a arquitetura moderna brasileira em suas páginas, sintomaticamente texto do arquiteto português Victor Palla a advogar pela modernidade e tradição. Para tal, este artigo dialoga com as ideias de Lucio Costa, de modernidade e tradição, a partir do texto de Palla, afim de traçar um paralelo com o pensamento moderno que se estava construindo no Brasil.'
   keywords:
   - arquitetura moderna brasileira
   - Portugal
   - revista Arquitectura
-  abstract_en: |-
-    This article intends to make an approach on the Portuguese magazine Arquitectura, in order to identify how the interest in modern Brazilian architecture arises in its context. To do so, an overview of its contents will aim to identify the first articles that specifically address the theme in focus and, from them, identify what ideas are being conveyed.
-    The aim is to understand the reception of modern Brazilian architecture and its interlocution with modern architecture in Portugal. For this, this article analyzes the appearance of the first publication on modern Brazilian architecture in its pages, symptomatically text of the Portuguese architect Victor Palla to advocate for modernity and tradition. To this end, this article discusses the ideas of Lucio Costa, of modernity and tradition, from the text of Palla, in order to draw a parallel with the modern thought that was being constructed in Brazil.
+  abstract_en: 'This article intends to make an approach on the Portuguese magazine Arquitectura, in order to identify how the interest in modern Brazilian architecture arises in its context. To do so, an overview of its contents will aim to identify the first articles that specifically address the theme in focus and, from them, identify what ideas are being conveyed.
+
+    The aim is to understand the reception of modern Brazilian architecture and its interlocution with modern architecture in Portugal. For this, this article analyzes the appearance of the first publication on modern Brazilian architecture in its pages, symptomatically text of the Portuguese architect Victor Palla to advocate for modernity and tradition. To this end, this article discusses the ideas of Lucio Costa, of modernity and tradition, from the text of Palla, in order to draw a parallel with the modern thought that was being constructed in Brazil.'
   keywords_en:
   - brazilian modern architecture
   - Portugal
@@ -1690,9 +1652,9 @@ articles:
   - 'KINDER, Hermann. The Penguin atlas of world history: from the french revolution to the presente. London: Penguin books, 2003.'
   - LOURENÇO, E., Tempo e Poesia, Lisboa, Gradiva, 2003.
   - 'MARTINS, C. A. F. . Identidade Nacional e Estado no projeto modernista. Modernidade, estado e tradição. In: Guerra, Abílio. (Org.). Textos Fundamentais sobre a História da Arquitetura Moderna Brasileira, parte 1. São Paulo: Romano Guerra, 2010, v. , p. 279-297.'
-  - |-
-    _________________. Construir uma Arquitetura, Construir um País. In.: Schwarz, Jorge (org). Brasil 1920-50. Da Antropofagia a Brasília.
-    FAAP / Cosac Naify, 2002.
+  - '_________________. Construir uma Arquitetura, Construir um País. In.: Schwarz, Jorge (org). Brasil 1920-50. Da Antropofagia a Brasília.
+
+    FAAP / Cosac Naify, 2002.'
   - 'MARTINS, Estevão Chaves de Rezende. Relações Internacionais: cultura e poder. Brasília: Instituto brasileiro de relações internacionais, 2002.'
   - 'MESQUITA, António Pedro. Salazar na história política do seu tempo. Lisboa: Caminho, 2007.'
   - 'MILHEIRO, Ana Vaz. A Construção do Brasil – Relações com a Cultura Arquitectónica Portuguesa. Porto: FAUP Publicações, 2005.'
@@ -1709,7 +1671,6 @@ articles:
   - 'SCHIAVON, Carmem G. Burgert. Estado Novo e Relações Luso-Brasileiras (1937-1945). Porto Alegre: PUC/RS, 2007.'
   - 'TOSTÕES, Ana. A Idade Maior. Cultura e Tecnologia na Arquitectura Moderna Portuguesa. Porto: FAUP, 2015.'
   file: sdbr12-036.pdf
-
 - id: sdbr12-037
   title: Conjunto Habitacional Estrela d´Alva
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1748,7 +1709,6 @@ articles:
   - __________. Nos últimos anos, surgem os novos caminhos e tendências. Projeto, São Paulo, n. 53, jul. 1983, p. 112.
   - 'VALLADARES, Lícia do Prado. Passa-se uma casa. Análise do programa de remoção de favelas do Rio de Janeiro. Rio de Janeiro: ZAHAR EDITORES, 1980.'
   file: sdbr12-037.pdf
-
 - id: sdbr12-038
   title: Mallet-stevens, Le Corbusier e o Projeto da vila dias
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1783,7 +1743,6 @@ articles:
   - 'Roulleau-Simonnot, Nathalie. “La réception de Robert Mallet-Stevens: la redécouverte d’un architecte au succès controversé” In: La réception de l’architecture du Mouvement moderne: image, usage, h’eritage. Edité par Jean-Yves Andireux, Fabienne Chevallier. Université de Saint-Etienne, 2005.'
   - “Um Monumento”. Diário Nacional, São Paulo, 16 jul. 1929.
   file: sdbr12-038.pdf
-
 - id: sdbr12-039
   title: Jardim do embaixador
   subtitle: uma arquitetura experimental de Oswaldo Bratke nos anos 1940
@@ -1816,7 +1775,6 @@ articles:
   - '___________; DOURADO, G. M. Oswaldo Arthur Bratke: a arte de bem projetar e construir. 2. ed. São Paulo: PW Editores, 2012.'
   - 'SERAPIÃO, F. Outra montanha mágica. In: Projeto Design, n. 340, jun. 2008.'
   file: sdbr12-039.pdf
-
 - id: sdbr12-040
   title: Oscar Niemeyer e a cor
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1856,7 +1814,6 @@ articles:
   - 'VALE, Marco A. – Desenvolvimento da Forma e Procedimentos de Projeto na Arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutorado. São Paulo: FAU/USP. 2000.'
   - WIGLEY, Mark – White Walls, Designer Dresses – The Fashioning of Modern Architecture. MIT Press, 1995.
   file: sdbr12-040.pdf
-
 - id: sdbr12-041
   title: O Habitat moderno em São Luis do Maranhão
   subtitle: a análise de três edificações residenciais
@@ -1895,7 +1852,6 @@ articles:
   - 'VAZ, Lilian Fessler. Modernidade e Moradia: habitação coletiva no Rio de Janeiro, séculos XIX e XX. Rio de Janeiro: 7Letras, 2002.'
   - 'WEIMER, Günter. Arquitetura Modernista em Porto Alegre entre 1930 e 1945. Porto Alegre: Unidade Editorial Porto Alegre, 1998.'
   file: sdbr12-041.pdf
-
 - id: sdbr12-042
   title: Os edifícios de apartamentos em Fortaleza na década de 1970- as transformações no meio urbano e na arquitetura
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1928,7 +1884,6 @@ articles:
   - SOUZA, Marilena Carvalho de. Proposições urbanísticas x Produção do espaço. Trabalho final de Curso de Aperfeiçoamento em Arquitetura/ Instrumentação Crítica- Universidade Federal do Ceará, Fortaleza, 1984.
   - ZEIN, Ruth Verde. A arquitetura da Escola Paulista Brutalista- 1953-1973. Tese (Doutorado em Arquitetura) - Universidade Federal do Rio Grande do Sul. São Paulo-Porto Alegre, 2005.
   file: sdbr12-042.pdf
-
 - id: sdbr12-043
   title: O edifício do BANESPA em Maringá
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -1995,7 +1950,6 @@ articles:
   - STROHER, Ronaldo de Azambuja. As transformações na tipologia e no caráter do prédio bancário em meados deste século. 1999. Dissertação (Mestrado em Arquitetura) – PROPAR Programa de pesquisa e pós-graduação em arquitetura da UFRGS, Porto Alegre, 1999.
   - 'VERRI, Tânia Nunes Galvão. Arquitetura e Cidade: a modernidade em Maringá. Tese (Doutorado em arquitetura) – Programa de Pós-Graduação do Instituto de Arquitetura e Urbanismo da USP, São Carlos, 2016.'
   file: sdbr12-043.pdf
-
 - id: sdbr12-044
   title: Niemeyer for export
   subtitle: arquitetura e trajetória de Oscar Niemeyer mundo a fora
@@ -2056,7 +2010,6 @@ articles:
   - "VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura \tde Oscar Niemeyer (1935-1998). São Paulo/FAU-USP, Tese de Doutorado, 2000."
   - 'XAVIER, Alberto (Org.). Depoimento de uma geração. São Paulo: Cosac & Naify, 2003.'
   file: sdbr12-044.pdf
-
 - id: sdbr12-045
   title: A trajetória e o registro do azulejo de fachada em Pernambuco, 1950-2000
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2100,7 +2053,6 @@ articles:
   - SILVEIRA, Marcele Cristiane da. O Azulejo na Modernidade Arquitetônica 1930 – 1960.  2008. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2008.
   - 'WANDERLEY, Ingrid Moura. Azulejo na arquitetura brasileira: os painéis de Athos Bulcão. 2006. Dissertação (Mestrado) – Escola de Engenharia de São Carlos da Universidade de São Paulo. São Carlos, 2006.'
   file: sdbr12-045.pdf
-
 - id: sdbr12-046
   title: Dinâmica imobiliária e preservação da arquitetura moderna em Fortaleza
   subtitle: o passado, o presente e o futuro em questão
@@ -2144,7 +2096,6 @@ articles:
   - 'VARGAS, H. C.. O fator localização revisitado. In: Heliana Comin Vargas; Cristina Pereira de Araujo. (Org.). Arquitetura e Mercado Imobiliário. 1ed.São Paulo: Manole, 2014, v. , p. 35-52.'
   - ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 <http://vitruvius.com.br/revistas/read/arquitextos/09.098/123>.
   file: sdbr12-046.pdf
-
 - id: sdbr12-047
   title: O anexo do plenário legislativo do estado do Paraná em Curitiba
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2183,7 +2134,6 @@ articles:
   - 'ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese (Doutorado em Arquitetura). Porto Alegre: PROPAR-UFRGS, 2005.'
   - ZEIN, Ruth Verde. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, julho 1986, p. 28-30.
   file: sdbr12-047.pdf
-
 - id: sdbr12-048
   title: “A sensibilidade do real”
   subtitle: pré-fabricação e arquitetura em Pernambuco nos anos 1960
@@ -2226,7 +2176,6 @@ articles:
   - '-Hemeroteca do Arquivo Público Jordão Emerenciano (APEJE –PE): Coleções dos jornais Diário de Pernambuco, Jornal do Commercio, Última Hora, a Hora, Folha do Povo do período 1960-1964'
   - -Entrevistas com Acácio Gil Borsoi (Ago/2006 e Set/2007), Geraldo Gomes da Silva (Jul/2006 e Out/2007), Maurício Castro (Out/2007) e Germano Coelho (Set/2007) e com moradores do Cajueiro Seco (Set/2007).
   file: sdbr12-048.pdf
-
 - id: sdbr12-049
   title: Edifícios de apartamentos e modernismo paulistano
   subtitle: inserção urbana e diversidade de usos
@@ -2268,7 +2217,6 @@ articles:
   - 'TRAMONTANO, Marcelo. Novos modos de vida, novos espaços de morar, Paris, São Paulo, Tokyo: uma reflexão sobre a habitação contemporânea. Tese de doutorado. São Paulo: FAUUSP, 1998.'
   - 'VILLA, Simone. Apartamento metropolitano: habitações e modos de vida na cidade de São Paulo. Dissertação de Mestrado. São Carlos: EESC–USP, 2002.'
   file: sdbr12-049.pdf
-
 - id: sdbr12-050
   title: O novecento e os jornais
   subtitle: a representação de um modernismo
@@ -2310,7 +2258,6 @@ articles:
   - Para uma grande obra um grande artista. Marcello Piacentini diz ao Globo como se projecta uma Cidade Universitária. O Globo, Rio de Janeiro, p. 1, 24 ago. 1935.
   - Patenteado o projecto do stadium da Cidade Universitaria do Brasil! O reitor de Roma chegou a ter ciúmes do trabalho de Marcello Piacentini destinado ao Rio de Janeiro. O Globo, Rio de Janeiro, p. 2, 17 dez. 1938.
   file: sdbr12-050.pdf
-
 - id: sdbr12-051
   title: Ser moderno
   subtitle: o debate sobre a renovação da arquitetura no Brasil nas páginas da revista a casa (1923-1942)
@@ -2320,16 +2267,16 @@ articles:
   - givenname: Juliana Cardoso
     familyname: Nery
     primary_contact: true
-  abstract: |-
-    Se Lúcio Costa contou uma história de poucos heróis, criadores iluminados de uma nova linguagem nacional inspirada por um sagrado ideário estrangeiro, os periódicos contam outras histórias. As revistas revelam histórias de homens comuns dispostos ao embate de ideias e ao trabalho constante de pesquisa projetual/construtiva, atentos às possibilidades locais e críticos às soluções importadas, que construíram com árduo esforço um campo disciplinar e profissional, cuja grande bandeira foi a renovação qualificada da arquitetura brasileira.
-    Esse artigo tem como recorte mapear os embates sobre os sentidos, os motivos e as formas de ser moderno no Brasil na década de 1920 e início dos anos 1930 nas páginas da Revista “A CASA” (periódico brasileiro especializado em arquitetura publicado a partir de 1923 no Rio de Janeiro). Aparece nas edições analisadas uma gama variada de questões e problemas em torno da arquitetura da primeira metade do século XX e da arquitetura moderna em particular, que nos revela um rico debate sobre outras reflexões, outros caminhos e outros personagens da renovação da arquitetura no Brasil no início do século XX.
+  abstract: 'Se Lúcio Costa contou uma história de poucos heróis, criadores iluminados de uma nova linguagem nacional inspirada por um sagrado ideário estrangeiro, os periódicos contam outras histórias. As revistas revelam histórias de homens comuns dispostos ao embate de ideias e ao trabalho constante de pesquisa projetual/construtiva, atentos às possibilidades locais e críticos às soluções importadas, que construíram com árduo esforço um campo disciplinar e profissional, cuja grande bandeira foi a renovação qualificada da arquitetura brasileira.
+
+    Esse artigo tem como recorte mapear os embates sobre os sentidos, os motivos e as formas de ser moderno no Brasil na década de 1920 e início dos anos 1930 nas páginas da Revista “A CASA” (periódico brasileiro especializado em arquitetura publicado a partir de 1923 no Rio de Janeiro). Aparece nas edições analisadas uma gama variada de questões e problemas em torno da arquitetura da primeira metade do século XX e da arquitetura moderna em particular, que nos revela um rico debate sobre outras reflexões, outros caminhos e outros personagens da renovação da arquitetura no Brasil no início do século XX.'
   keywords:
   - Revista A CASA
   - renovação da arquitetura brasileira
   - história da arquitetura moderna
-  abstract_en: |-
-    If Lucio Costa told a story of a few heroes, creators lit a new national language inspired by a sacred foreign ideas, periodicals tell other stories. The periodicals reveal stories of ordinary men willing to clash of ideas and the constant work of design/constructive research, mindful of the possibilities for local and imported solutions, critics who built with hard effort a disciplinary and professional field, whose large flag was qualified renewal of brazilian architecture.
-    This article clipping map the clashes on the senses, the reasons and ways to be modern in Brazil in the late 1920 's and early 1930 in the pages of the Magazine “A CASA” (Brazilian periodical specializing in architecture published from 1923 in Rio de Janeiro). Appears on the issues analysed a wide range of questions and problems around the architecture of the first half of the 20th century and modern architecture in particular, that reveals a rich debate on other thoughts, other paths and other characters from the renewal of architecture in Brazil in the early 20th century.
+  abstract_en: 'If Lucio Costa told a story of a few heroes, creators lit a new national language inspired by a sacred foreign ideas, periodicals tell other stories. The periodicals reveal stories of ordinary men willing to clash of ideas and the constant work of design/constructive research, mindful of the possibilities for local and imported solutions, critics who built with hard effort a disciplinary and professional field, whose large flag was qualified renewal of brazilian architecture.
+
+    This article clipping map the clashes on the senses, the reasons and ways to be modern in Brazil in the late 1920 ''s and early 1930 in the pages of the Magazine “A CASA” (Brazilian periodical specializing in architecture published from 1923 in Rio de Janeiro). Appears on the issues analysed a wide range of questions and problems around the architecture of the first half of the 20th century and modern architecture in particular, that reveals a rich debate on other thoughts, other paths and other characters from the renewal of architecture in Brazil in the early 20th century.'
   keywords_en:
   - Magazine “A CASA”
   - renewal of brazilian architecture
@@ -2363,7 +2310,6 @@ articles:
   - JORDÃO, Braz. Os grandes edifícios do Rio e São Paulo. A CASA, n. 37, mai,1927 , pp. 9-13.
   - 'NERY, Juliana Cardoso. Falas e ecos na formação da arquitetura moderna no Brasil. Salvador: Tese de doutorado pelo Programa de Pós-Graduação em Arquitetura e Urbanismo da Universidade Federal da Bahia PPGAU-UFBA, 2013.'
   file: sdbr12-051.pdf
-
 - id: sdbr12-052
   title: A arquitetura de um pioneiro em Uberlândia –– MG // João Jorge Coury 1940 –– 1970
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2399,7 +2345,6 @@ articles:
   - RIBEIRO, P. P. A. e LOPES, C. C. (2001)  “Documentação da Produção Arquitetônica do Arquiteto João Jorge Coury em Uberlândia”, Banco de Obras, FAURB/UFU, PIBIC/CNPQ.
   - RIBEIRO, P. P. A. e MORAIS, G., M. (2001), Arquitetura Moderna em Uberlândia. Banco de Obras, FAURB/UFU, PIBIC/CNPQ.
   file: sdbr12-052.pdf
-
 - id: sdbr12-053
   title: O centro de convenções do Ceará
   subtitle: um signo da modernidade ameaçado
@@ -2439,7 +2384,6 @@ articles:
   - 'SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. 2005. Dissertação – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
   file: sdbr12-053.pdf
-
 - id: sdbr12-054
   title: Flávio de Carvalho e o Projeto “efficacia”
   subtitle: um debate acerca da forma moderna
@@ -2475,7 +2419,6 @@ articles:
   - Ainda o atordoante projeto “Efficacia”. A justificação das ideias básicas que orientam a sua organização, dentro das modernas concepções de arte”. Diário da Noite. São Paulo. 06 de fev. de 1928. Fundo FC/CEDAE.
   - A futura sede do Executivo Paulista. Um projeto futurista. O Jornal. Rio de Janeiro. 09 de fev. de 1928. Fundo FC/CEDAE.
   file: sdbr12-054.pdf
-
 - id: sdbr12-055
   title: Origens do percurso moderno em Diamantina
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2528,7 +2471,6 @@ articles:
   - 'WISNIK, Guilherme. Plástica e anonimato: modernidade e tradição em Lucio Costa e Mário de Andrade. Novos estud. - CEBRAP [online]. 2007, n.79, pp.169-193.'
   - 'WISNIK, Guilherme (org.). O risco — Lucio Costa e a utopia moderna.Rio de Janeiro: Bang Bang,2003.'
   file: sdbr12-055.pdf
-
 - id: sdbr12-056
   title: A inserção de edifícios modernos no centro histórico do Recife
   subtitle: o caso do entorno da matriz de santo Antônio (1953-1964)
@@ -2565,7 +2507,6 @@ articles:
   - Processo de aprovação para remodelação de edifício no lote 145 na Avenida Dantas Barreto.
   - 'Processo de aprovação do edifício do Banco Mercantil de Pernambuco. Fonte: Arquivo 5ª Superintendência Regional do IPHAN-PE.'
   file: sdbr12-056.pdf
-
 - id: sdbr12-057
   title: A casa do Brasil em madri
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2610,7 +2551,6 @@ articles:
   - ÍNDICE DA ARQUITETURA BRASILEIRA
   - http://143.107.16.155:88/index.htm
   file: sdbr12-057.pdf
-
 - id: sdbr12-058
   title: Ponte do encontro. da utopia ao detalhe, 1969
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2682,7 +2622,6 @@ articles:
   - Architettura Riflessa. SUPERSTUDIO OPERE 1966-78. MAXXI Catalog. Roma, 2016.
   - “Pont de Rencontre”. Amenagement Touristique, 1969. Instituto Jaime Lerner.
   file: sdbr12-058.pdf
-
 - id: sdbr12-059
   title: Do lugar da educação na história da arquitetura, uma reflexão sobre os critérios de valoração do patrimônio escolar moderno
   section: Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros
@@ -2703,7 +2642,6 @@ articles:
   - cultural heritage
   - valuation
   file: sdbr12-059.pdf
-
 - id: sdbr12-060
   title: Na borda do quadrado azul
   subtitle: a difusão da arquitetura brasileira no periódico Le carré bleu
@@ -2743,7 +2681,6 @@ articles:
   - 'SEGAWA, Hugo; CREMA, Adriana; GAVA, Maristela. Revistas de arquitetura, urbanismo, paisagismo e design: a divergência de perspectivas. Arquitextos, São Paulo, n. 057, texto especial 282, Portal Vitruvius, fev. 2006. <www.vitruvius.com.br/arquitextos/arq000/esp282.asp>.'
   - TINEM, Nelci. O alvo do olhar estrangeiro. O Brasil na historiografia da arquitetura moderna. João Pessoa, Manufatura, 2002.
   file: sdbr12-060.pdf
-
 - id: sdbr12-061
   title: Modernidade e moradia na petit paris brasileira
   subtitle: o edifício Diederichsen em Ribeirão Preto
@@ -2812,7 +2749,6 @@ articles:
   - 'VERÍSSIMO, Francisco Salvador; BITTAR, William Seba Mallmann. 500 Anos da Casa no Brasil. Rio de Janeiro: Ediouro, 2ª edição, 1999.'
   - 'WALKER, T. W., BARBOSA, A. S. de. Dos coronéis à metrópole: fios e tramas da sociedade e da política em Ribeirão Preto no século XX. Ribeirão Preto: Palavra Mágica, 2000.'
   file: sdbr12-061.pdf
-
 - id: sdbr12-062
   title: Axiomas à conservação da arquitetura moderna- a casa de visitas da vila dos operadores de jaguara
   section: Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos
@@ -2827,18 +2763,20 @@ articles:
   - givenname: Claudia dos Reis e
     familyname: Cunha
     primary_contact: false
-  abstract: |-
-    Este trabalho apresenta a Vila dos Operadores de Jaguara, localizada na zona rural da cidade de Sacramento, Minas Gerais destacando sua importância como documentação da arquitetura e do urbanismo do movimento moderno presente no Triângulo Mineiro e Alto Paraíba.
+  abstract: 'Este trabalho apresenta a Vila dos Operadores de Jaguara, localizada na zona rural da cidade de Sacramento, Minas Gerais destacando sua importância como documentação da arquitetura e do urbanismo do movimento moderno presente no Triângulo Mineiro e Alto Paraíba.
+
     A Vila também se destaca como documento do contexto político e econômico do Brasil, principalmente da política energética adotada pelo governo no período entre 1960 e 1970 e das importantes inovações tecnológicas, sociais, arquitetônicas e urbanísticas desenvolvidas neste período.
-    Apresentaremos um breve relato da história da Vila, uma análise destacando suas principais características referente a arquitetura e urbanismo modernos, uma descrição do estado atual, atentando aos riscos de descaracterização que vem sofrendo, e por fim, possíveis diretrizes a serem pensadas para um eventual restauro, e preservação, de um de seus edifícios – a Casa de Visitas - que se encontra em total estado de abandono, com consideráveis patologias.
+
+    Apresentaremos um breve relato da história da Vila, uma análise destacando suas principais características referente a arquitetura e urbanismo modernos, uma descrição do estado atual, atentando aos riscos de descaracterização que vem sofrendo, e por fim, possíveis diretrizes a serem pensadas para um eventual restauro, e preservação, de um de seus edifícios – a Casa de Visitas - que se encontra em total estado de abandono, com consideráveis patologias.'
   keywords:
   - preservação
   - arquitetura moderna
   - vila dos operadores de Jaguara
-  abstract_en: |-
-    This paper presents the “Vila dos Operadores de Jaguara”, localized at the rural zone of Sacramento’s city, Minas Gerais, highlighting its importance as a documentation of modern architecture and urbanism present in the Triângulo Mineiro and Alto Paraíba.
-    The village is also an important document of Brazilian political and economical context, most of all in the energy policy adopted by the government between the 60's and 70's and also of the technological, social architectural and urban planning innovations developed in this period.
-    We will present a brief report of the village's history, an analysis highlighting its main characteristics in what refers to Modern Architecture Urbanism, a description of the current status, attempting to the risks of disfigurement, and, finally, a proposal of guidelines to a possible restoration and conservation of its buildings - the Guest House -  that is totally abandoned and with considerable pathologies.
+  abstract_en: 'This paper presents the “Vila dos Operadores de Jaguara”, localized at the rural zone of Sacramento’s city, Minas Gerais, highlighting its importance as a documentation of modern architecture and urbanism present in the Triângulo Mineiro and Alto Paraíba.
+
+    The village is also an important document of Brazilian political and economical context, most of all in the energy policy adopted by the government between the 60''s and 70''s and also of the technological, social architectural and urban planning innovations developed in this period.
+
+    We will present a brief report of the village''s history, an analysis highlighting its main characteristics in what refers to Modern Architecture Urbanism, a description of the current status, attempting to the risks of disfigurement, and, finally, a proposal of guidelines to a possible restoration and conservation of its buildings - the Guest House -  that is totally abandoned and with considerable pathologies.'
   keywords_en:
   - preservation, modern architecture, village of the operators Jaguara
   references:
@@ -2861,7 +2799,6 @@ articles:
   - 'SALVO, Simona. A restauração do arranha-céu pirelli: a resposta italiana a uma questão internacional. Tradução: Beatriz Mugayar Kühl. CICLO DE PALESTRAS SOBRE PRESERVAÇÃO. São Paulo, 2005.'
   - 'Usinas da Cemig: 1952-2005. / Coordenação Paulo Brandi de Barros Cachapuz. – Rio de Janeiro : Centro da Memória da Eletricidade no Brasil, 2006. 304p. : il. color ; 22,5 cm.'
   file: sdbr12-062.pdf
-
 - id: sdbr12-063
   title: Discussões italianas sobre o restauro da arquitetura moderna
   subtitle: o caso de Weissenhof de Stuttgart
@@ -2957,7 +2894,6 @@ articles:
   - 'VITTORINI, Rosalia. Conversazione con Rosalia Vittorini, presidente di DOCOMOMO Italia Onlus. Entrevista concedida a Francesca Rosa. Hevelius´webzine, ago. 2013. Disponível em: < http://www.hevelius.it/webzine/leggi.php?codice=427>. Acesso em: 02 jan. 2017.'
   - 'LA REGINA, Francesco. L´Architetttura nell´epoca della sua riproducibilità. Appunti sul “restauro del moderno”. In: PALAZZOTTO, Emanuele (org). CONVEGNO INTERNAZIONALE: IL RESTAURO DEL MODERNO IN ITALIA E IN EUROPA, 11-12, 2007, Palermo. Anais... Palermo, FRANCOANGELI, 2007, p.67-76.'
   file: sdbr12-063.pdf
-
 - id: sdbr12-064
   title: Do culto moderno dos monumentos ao culto dos monumentos modernos
   subtitle: a valoração na preservação da arquitetura do século XX
@@ -2978,7 +2914,6 @@ articles:
   - preservation
   - evaluation
   file: sdbr12-064.pdf
-
 - id: sdbr12-065
   title: A formação do GT-Brasília
   subtitle: questões e razões acerca de uma proposta inovadora de preservação de Brasília nos anos 80
@@ -3029,7 +2964,6 @@ articles:
   - 'VIANNA, Márcio. Conjuntos representativos da época da construção de Brasília. In: Relatório Síntese do Grupo de Trabalho para a preservação do patrimônio histórico e cultural do Distrito Federal. UnB/GDF/Minc, 1985, Mimeo.'
   - 'VIANNA, Márcio. O vernáculo da região Centro-Oeste. In: Relatório Síntese do Grupo de Trabalho para a preservação do patrimônio histórico e cultural do Distrito Federal. UnB/GDF/Minc, 1985, Mimeo.'
   file: sdbr12-065.pdf
-
 - id: sdbr12-066
   title: Tombamento de conjuntos residenciais
   subtitle: o moderno e suas questões
@@ -3077,7 +3011,6 @@ articles:
   - 'Fontes documentais:'
   - Processos administrativos 2011-0.125.491-9 e 2006-0.084.485-0 do acervo da Prefeitura do Município de São Paulo.
   file: sdbr12-066.pdf
-
 - id: sdbr12-067
   title: O reconhecimento do legado modernista brasileiro como patrimônio cultural edificado e as fichas de inventário como ferramenta para sua preservação
   section: Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos
@@ -3117,7 +3050,6 @@ articles:
   - 'SICG. Disponível em: < http://sicg.iphan.gov.br/sicg/relatorio/bem/visualizar/347> Acesso em 07 de junho de 2017.'
   - SILVA, Renato Alves. O desafio da preservação do patrimônio arquitetônico modernista no Rio de Janeiro. 189 páginas. Dissertação (Mestrado profissional em Arquitetura) – Instituto do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, 2012.
   file: sdbr12-067.pdf
-
 - id: sdbr12-068
   title: Fernando Chacel e a preservaçâo da paisagem construída
   subtitle: a praça da Vila Operadora de Furnas, Planura/MG
@@ -3147,7 +3079,6 @@ articles:
   - 'Prefeitura Municipal de Planura: www.planura.mg.gov.br'
   - 'TSUKUMO Nina Ma Jamra (coord.) (1994) Arquitetura na CESP. São Paulo: CESP – Companhia Energética de São Paulo.'
   file: sdbr12-068.pdf
-
 - id: sdbr12-069
   title: Allegro Piano Bar
   subtitle: repensar Ouro Preto a partir do tema do Grande Hotel
@@ -3184,7 +3115,6 @@ articles:
   - 'PREFEITURA MUNICIPAL DE OURO PRETO. Lei Complementar nº 29, de 28 de dezembro de 2006. Estabelece o Plano Diretor do Município de Ouro Preto. Disponível em: <http://www.ouropreto.mg.gov.br/uploads/prefeitura_ouro_preto_2015/arquivos_veja_tambem/lc-29-2006-plano-diretor.pdf>. Acesso em: 18 abr. 2016.'
   - 'PREFEITURA MUNICIPAL DE OURO PRETO. Lei Complementar nº 93, de 20 de janeiro de 2011. Estabelece normas e condições para o parcelamento, a ocupação e o uso do solo urbano no Município de Ouro Preto. Disponível em: <http://www.ouropreto.mg.gov.br/uploads/prefeitura_ouro_preto_2015/arquivos_veja_tambem/lei-complementar-93-parcelamento-uso-e-ocupa-o-do-solo.pdf>. Acesso em: 6 abr. 2016.'
   file: sdbr12-069.pdf
-
 - id: sdbr12-070
   title: Hospital de Clínicas de Porto Alegre
   subtitle: a intervenção numa “peça urbana” moderna protegida com repercussão no entorno
@@ -3218,7 +3148,6 @@ articles:
   - 'SILVA, Marcos Miethicki da. O Hospital de Clínicas de Porto Alegre: a presença de Jorge Moreira na arquitetura da capital gaúcha. Dissertação de Mestrado. Porto Alegre: PROPAR/UFRGS, 2006.'
   - 'XAVIER, Alberto/MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
   file: sdbr12-070.pdf
-
 - id: sdbr12-071
   title: Hotel Internacional dos Reis Magos
   subtitle: análise do memorando do Depam pelo não tombamento do hotel
@@ -3272,7 +3201,6 @@ articles:
   - 'TERCEIRO OFÍCIO DE NOTAS. Certidão Vintenária. [S.l.], p. 3. 2009. In MPRN. Ação Cautelar Inominada, N°0800560-83.2014.8.20.0001, Réu: Município de Natal, Terc. Inter: Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN. [S.l.]. 2014.'
   - 'TRIBUNA DO NORTE. Justiça Libera Demolição do Hotel, 2017. Disponível em: <http://www.tribunadonorte.com.br/noticia/justia-a-libera-demolia-a-o-do-hotel/370581>. Acesso em: 25 mai. 2017.'
   file: sdbr12-071.pdf
-
 - id: sdbr12-072
   title: O aumento de bens do movimento moderno na lista do patrimônio mundial e o debate sobre autenticidade
   section: Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos
@@ -3286,9 +3214,9 @@ articles:
   - Autenticidade
   - UNESCO
   - Lista do Patrimônio Mundial
-  abstract_en: |-
-    Abstract (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
-    This paper aims to demonstrate that the UNESCO’s World Heritage List has underwent through changes that allowed the increase on the properties inscriptions’ numbers. Especially in relation to the Modern Movement, there are 34 in 814 cultural properties inscribed and this number increases each year. Just in 2016 it has doubled, compared to the previous year, with the series with works of Le Corbusier and Pampulha Modern Ensemble. There are two most significant moments of the debate in the 1990s. One of them can be represented by the book of Léon Pressouvre (1993) in which he points out imbalances and gaps in the List. The other moment is Nara’s Conference of 1994, which rescues the origins of the term authenticity and points out the need to expand this concept. The purpose of this article is to show the importance of expanding the concept of authenticity, not only to allow the inclusion of Modern Movement properties in the List, but also for all cultural heritage’s conservation.
+  abstract_en: 'Abstract (máximo de 1000 caracteres), fonte Arial 10 normal, espaçamento simples.
+
+    This paper aims to demonstrate that the UNESCO’s World Heritage List has underwent through changes that allowed the increase on the properties inscriptions’ numbers. Especially in relation to the Modern Movement, there are 34 in 814 cultural properties inscribed and this number increases each year. Just in 2016 it has doubled, compared to the previous year, with the series with works of Le Corbusier and Pampulha Modern Ensemble. There are two most significant moments of the debate in the 1990s. One of them can be represented by the book of Léon Pressouvre (1993) in which he points out imbalances and gaps in the List. The other moment is Nara’s Conference of 1994, which rescues the origins of the term authenticity and points out the need to expand this concept. The purpose of this article is to show the importance of expanding the concept of authenticity, not only to allow the inclusion of Modern Movement properties in the List, but also for all cultural heritage’s conservation.'
   keywords_en:
   - Authenticity
   - UNESCO
@@ -3316,7 +3244,6 @@ articles:
   - '__________. Patrimoine mondial – Défis pour le Millénaire. Paris: UNESCO, 2007. Disponível em <http://whc.unesco.org/document/101835> Acesso em 30 jun. 2017.'
   - 'VANLAETHEM, France. L’inattendue patrimonialisation de l’architecture moderne : quelques hypothèses. In: __________; THERRIEN, Marie-Josée (Org.). La sauvegarde de l’architecture moderne. Québec: Presses de l’Université du Québec, 2014, p. 25-47.'
   file: sdbr12-072.pdf
-
 - id: sdbr12-073
   title: Inventário Acácio Gil Borsoi
   subtitle: uma experiência de salvaguarda e disseminação de acervos de arquitetura moderna
@@ -3350,7 +3277,6 @@ articles:
   - PEYCERÉ, David. Propositions de tri dans un dossier de projet. La Gazette des archives (Association des archivistes français), n° 190-191, 3e et 4e trimestres 2000, p. 233-246.
   - 'VIANA, Cláudio Muniz. A organização da informação arquivística em arquivos de arquitetura do Núcleo de Pesquisa e Documentação da Faculdade de Arquitetura e Urbanismo - UFRJ. Revista Eletrônica de Biblioteconomia e Ciência da Informação. Florianópolis, n. esp. 2011 Disponível em: <https://periodicos.ufsc.br/index.php/eb/article/view/1518-2924.2011v16nesp1p23> Acesso em 6 Jan. 2015'
   file: sdbr12-073.pdf
-
 - id: sdbr12-074
   title: Modernidade preservada em São Luís -- MA
   subtitle: análise formal do estádio Castelão e do edifício sede do Ministério da Fazenda
@@ -3389,7 +3315,6 @@ articles:
   - 'ZEIN, Ruth Verde. Brutalist Connections. 2012. Disponível em: <http://www.archdaily.com.br/87076/brutalist-connections>. Acesso em: 27 junho 2017.'
   - 'ZEVI, Bruno. A linguagem moderna da Arquitetura. Lisboa: Dom Quixote, 1984.'
   file: sdbr12-074.pdf
-
 - id: sdbr12-075
   title: Sobre o processo de tombamento do conjunto da obra de Luiz Nunes e colaboradores
   section: Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos
@@ -3419,7 +3344,6 @@ articles:
   - 'MARQUES, Sônia; NASLAVSKY, Guilah. La Réception du Modernisme à Recife. In: 7th DOCOMOMO International Conference. Paris: set/2002.'
   - 'NASLAVSKY, Guilah; SPOSITO, Mariana Gershman. Projeto de Pesquisa: Inventário de Arquitetura Moderna em Pernambuco, 1930-1980. CNPq, nº 478261/2007-1. João Pessoa: Universidade Federal da Paraíba, 2009.'
   file: sdbr12-075.pdf
-
 - id: sdbr12-076
   title: Edifícios modernos em ruínas até quando?
   section: Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos
@@ -3465,7 +3389,6 @@ articles:
   - 'ZEVI, Bruno. A linguagem moderna da Arquitetura. Lisboa: Dom Quixote, 1984.'
   - VILLAÇA, Flavio. Uma contribuição para a história do planejamento urbano no Brasil. In O processo de urbanização no Brasil Csaba Deak e Sueli Ramos Schiffer (Org). São Paulo, Edusp, 2015
   file: sdbr12-076.pdf
-
 - id: sdbr12-077
   title: Esplendor, cinzas e ressurgimento
   subtitle: a trajetória do Cine Teatro Ouro Verde
@@ -3501,7 +3424,6 @@ articles:
   - THEODORO, Apolo. O Ouro Verde apaga velinhas. Folha de Londrina, Londrina, p.1, Caderno 2, 24 dez. 1992.
   - 'TRIGUEIROS, Marian. Ouro Verde renasce para Londrina. Disponível em: <http://www.folhadelondrina.com.br/folha-2/ouro-verde-renasce-para-londrina-980797.html>.  Acesso em 20 jun. 2017.'
   file: sdbr12-077.pdf
-
 - id: sdbr12-078
   title: Desafios para a preservação de parlamentos modernos
   subtitle: o caso do Congresso Nacional
@@ -3546,7 +3468,6 @@ articles:
   - 'UNITED NATIONS. United Nations Capital Master Plan. New York, United Nations, 2008. Disponível em <http://www.un.org/wcm/content/site/cmp/home/about/pid/22407> Acesso em: 10 set. 2015.'
   - 'VALE, Lawrence. Architecture, power, and national identity. New Haven: Yale University Press, 1992. 338p.'
   file: sdbr12-078.pdf
-
 - id: sdbr12-079
   title: A preservação da estrutura em argamassa armada do Cristo Redentor
   subtitle: diagnóstico
@@ -3575,7 +3496,6 @@ articles:
   - 'RIBEIRO, R.C.C; DALTO,D.P.S. Verificação da presença de protetivo nas tesselas de esteatito no Monumento do Cristo Redentor em 2016. Rio de Janeiro: Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia, Inovações e Comunicações;outubro de 2016. RRM-0067-00-16.'
   - 'RIBEIRO, R.C.C; MOURA,L.C.R; XAVIER,E.G. Caracterização de partes de concreto do Monumento ao Cristo Redentor. Rio de Janeiro: Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia, Inovações e Comunicações; agosto de 2016. RRM-0055-00-16.'
   file: sdbr12-079.pdf
-
 - id: sdbr12-080
   title: Deriva como educação patrimonial
   subtitle: imagens de modernidade
@@ -3632,7 +3552,6 @@ articles:
   - 'RICOEUR, Paul. Entre mémoire et histoire. Projet, Paris, n. 248, 1996, p. 8. In: SILVA, Helenice Rodrigues da. Rememoração/comemoração: as utilizações sociais da memória. Revista Brasileira de História, v. 22, n. 44, 2002.  Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882002000200008>. Acesso em: 2 jul. 2017.'
   - 'SOARES, Fernando Custódio; SUZUKI, Júlio Cesar. Fotografia e história oral: imagem e memória na pesquisa com comunidades tradicionais. In: ENCONTRO DE GRUPOS DE PESQUISA: AGRICULTURA, DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES SOCIOESPACIAIS, 5, nov. 2009. Anais.... Disponível em: < http://w3.ufsm.br/gpet/engrup/vengrup/anais/7/Fernando%20e%20Julio%20-%20USP_2.pdf >. Acesso em: 1º jul. 2017.'
   file: sdbr12-080.pdf
-
 - id: sdbr12-081
   title: Patrimônio e ensino
   subtitle: desafios cruzados
@@ -3645,18 +3564,20 @@ articles:
   - givenname: Carlos Alberto Ferreira
     familyname: Martins
     primary_contact: false
-  abstract: |-
-    Esta comunicação pretende contribuir para o debate sobre as transformações e a ampliação do campo de atuação de arquitetos e urbanistas sobre edifícios e conjuntos urbanos de valor histórico, cultural e simbólico, legalmente protegidos ou não, e sobre os desafios que essa atuação representa para a formação das novas gerações de profissionais.
+  abstract: 'Esta comunicação pretende contribuir para o debate sobre as transformações e a ampliação do campo de atuação de arquitetos e urbanistas sobre edifícios e conjuntos urbanos de valor histórico, cultural e simbólico, legalmente protegidos ou não, e sobre os desafios que essa atuação representa para a formação das novas gerações de profissionais.
+
     Considerando que, diferentemente de outros países, a legislação profissional estabelece o principio da formação generalista e ao mesmo tempo define a intervenção em bem patrimonial como atribuição privativa de arquitetos e urbanistas, é importante um debate sobre os conteúdos e estratégias da formação de graduação nesse campo.
-    Propomos que a experiência brasileira de intervenção moderna em bens patrimoniais, o conhecimento sobre as recomendações internacionais e a relação entre arquitetos urbanistas e o caráter interdisciplinar das intervenções estejam entre os temas centrais desse debate.
+
+    Propomos que a experiência brasileira de intervenção moderna em bens patrimoniais, o conhecimento sobre as recomendações internacionais e a relação entre arquitetos urbanistas e o caráter interdisciplinar das intervenções estejam entre os temas centrais desse debate.'
   keywords:
   - Ensino e formação profissional
   - Intervenção e Restauração arquitetônica
   - Atribuições profissionais
-  abstract_en: |-
-    Esta ponencia tiene la intención de aportar una contribución al debate sobre la ampliación y las transformaciones sufridas por el campo de actuación de arquitectos y urbanistas respecto a edificios aislados, conjuntos urbanos o paisajísticos, legalmente protegidos o no, así como sobre dos desafíos decurrentes respecto a la formación profesional.
+  abstract_en: 'Esta ponencia tiene la intención de aportar una contribución al debate sobre la ampliación y las transformaciones sufridas por el campo de actuación de arquitectos y urbanistas respecto a edificios aislados, conjuntos urbanos o paisajísticos, legalmente protegidos o no, así como sobre dos desafíos decurrentes respecto a la formación profesional.
+
     Al considerar que, de manera distinta a otros países, la legislación profesional establece el principio de la formación generalista y, a la vez, define la intervención en bienes patrimoniales como atribución privativa de arquitectos y urbanistas, es importante debatir sobre los contenidos y las estrategias de la formación de grado en esa materia.
-    Proponemos que la experiencia brasileña de intervención moderna en bienes patrimoniales, el conocimiento de las recomendaciones internacionales y a relación entre arquitectos y los otros profesionales que actúan en esas intervenciones deban comparecer entre los temas centrales de ese debate.
+
+    Proponemos que la experiencia brasileña de intervención moderna en bienes patrimoniales, el conocimiento de las recomendaciones internacionales y a relación entre arquitectos y los otros profesionales que actúan en esas intervenciones deban comparecer entre los temas centrales de ese debate.'
   keywords_en:
   - Enseñanza y formación profesional
   - Intervención y Restauro
@@ -3685,7 +3606,6 @@ articles:
   - "SUZUKI, Marcelo. Lina e Lucio. 2010. Tese (Doutorado em Teoria e História da Arquitetura e do Urbanismo) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2010. \nDisponível em: http://www.teses.usp.br/teses/disponiveis/18/18142/tde-05012011-151425/pt-br.php \n. Acesso em: 2017-10-06."
   - 'The Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance, Burwood/Australia,  2013. Disponível em http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-Adopted-31.10.2013.pdf. Acesso em 15/05/2017.'
   file: sdbr12-081.pdf
-
 - id: sdbr12-082
   title: Estilo internacional americano ao Norte, arquitetura moderna brasileira ao Sul
   subtitle: Edgar do Valle — formação e produção

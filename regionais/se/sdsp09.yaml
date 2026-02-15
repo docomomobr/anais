@@ -2,21 +2,21 @@ issue:
   slug: sdsp09
   title: 9º Seminário Docomomo São Paulo, Santos, 2024
   subtitle: 'Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados'
-  description: 'Anais do 9º Seminário DO.CO.MO.MO SP: Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados. Santos: UNISANTA / Núcleo Docomomo SP, 2024. 409 p. 26 a 28 de setembro de 2024.'
   year: 2024
-  volume: 1
+  volume: 2
   number: 9
-  date_published: '2024-09-26'
-  isbn: ''
-  publisher: UNISANTA / Núcleo Docomomo SP
+  isbn: 978-65-01-21986-8
+  publisher: Núcleo Docomomo São Paulo / UNISANTA
   editors:
   - Jaqueline Fernández Alves
   - Cristina Ribas
   - Ivo Renato Giroto
   - Maisa Fonseca de Almeida
-  source: https://www.nucleodocomomosp.com.br/
+  volume_pdf: sdsp09_anais.pdf
+  description: '9° Seminário Docomomo São Paulo: anais: Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al.. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. Disponível também em: www.nucleodocomomosp.com.br/cópia-9-seminário-sp. ISBN: 978-65-01-21986-8.'
+  source: https://www.nucleodocomomosp.com.br/cópia-9-seminário-sp
+  date_published: '2024-09-26'
 articles:
-
 - id: sdsp09-001
   title: As decisões de preservação do patrimônio e seus diferentes interessados
   authors:
@@ -61,7 +61,6 @@ articles:
   - 'MENEGUELLO, Cristina. O Coração da Cidade: observações sobre a preservação dos centros históricos. [S. l.]: IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional, 2005. Disponível em: http://portal.iphan.gov.br/uploads/temp/coracao_da_cidade.pdf.pdf. Acesso em: 21 maio 2024.'
   - 'PAIVA, Marcelo Cardoso de; CAMPOS, Yussef D. S. Consultor Jurídico: Área Constitucional. In: Os Conselhos de Preservação e o Direito à Cidade. [S. l.], 28 fev. 2024. Disponível em: https://www.conjur.com.br/2024-fev-28/os-conselhos-de-preservacao-e-o-direito-a-cidade/. Acesso em: 30 maio 2024.'
   - 'TELLES, Augusto C. da Silva. “Centros históricos: notas sobre a política brasileira de preservação”. Revista do Patrimônio Histórico e Artístico Nacional, n. 19, 1984.'
-
 - id: sdsp09-002
   title: 'Um retrospecto da preservação do patrimônio arquitetônico moderno em Curitiba: da documentação pioneira aos inventários digitais (1990- 2020)'
   authors:
@@ -97,7 +96,6 @@ articles:
   - 'PADUA, C. D. B. (2015). Arquitetura moderna: um estudo sobre patrimônio e preservação. https://doi.org/10.11606/d.16.2013.tde-04072013-172027.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
   - 'SUTIL, M. S. A modernidade esquecida: O art déco em Curitiba. Revista UFG, 12(8), 2016. Disponível em: . Acesso em 30 mai. 2021.'
-
 - id: sdsp09-003
   title: O patrimônio arquitetônico construído pelo Plano de Ação do litoral
   authors:
@@ -148,7 +146,6 @@ articles:
   - 'SAMPAIO, P. A. Plínio de Arruda Sampaio, depoimento [maio 2007]. Entrevistadores:'
   - 'SIMONI, L. N.; CORDIDO, M. T. R. L. B.; BUZZAR, M. A. Entrevista concedida ao Projeto Difusão da Arquitetura Moderna no Brasil: o Patrimônio Arquitetônico Criado pelo Plano de Ação do Governo Carvalho Pinto (1959-1963).'
   - 'SÃO PAULO (Estado). Decreto nº 34.656 de 12 de fevereiro de 1959. Estado de São Paulo, Plano de Ação do Governo 1959-1963: Administração Estadual e Desenvolvimento Econômico e Social. São Paulo: Imprensa Oficial do Estado, 1959a. pp.3 e 7.'
-
 - id: sdsp09-004
   title: 'FUMEST (1970-1989): ascensão e queda de um projeto de infraestrutura turística para São Paulo'
   authors:
@@ -209,19 +206,18 @@ articles:
   - TRÊS hotéis-pilotos no litoral sul. Projeto e Construção, São Paulo, ano 3, ed. 28, p. 32-34, mar 1972.
   - 'VAINER, Carlos. Os liberais também fazem planejamento urbano? In: ARANTES, Otília;'
   - 'VAINER, Carlos; MARICATO, Ermínia. A cidade do pensamento único: desmanchando consensos. Petrópolis: Vozes, 2000. p. 105 – 119.'
-
 - id: sdsp09-005
   title: 'O processo de revisão do tombamento de Patrimônio Cultural: Colégio Doze de Outubro, São Paulo'
   authors:
   - givenname: Luciana Monzillo de
     familyname: Oliveira
     affiliation: ''
-    email: luciana.oliveira@mackenzie.br
+    email: luciana.oliveira@Mackenzie.br
     primary_contact: true
   - givenname: Maria Augusta Justi
     familyname: Pisani
     affiliation: ''
-    email: maria.pisani@mackenzie.br
+    email: maria.pisani@Mackenzie.br
     primary_contact: false
   section: Artigos Completos
   locale: pt-BR
@@ -246,7 +242,7 @@ articles:
   - CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 26, de 21 de dezembro de 2004. Secretaria Municipal
   - 'de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/49c99_22_T_Bairro_da_Bela_Vista.pdf. Acesso em: 31 maio 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 6, de 14 de dezembro de 2005. Secretaria Municipal de Cultura. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/resolucao-secretaria- municipal-da-cultuura-conpre-6-de-15-de-dezembro-de-2006. Acesso em: 31 maio 2024.'
-  - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 45, de 19 de março de 2018. Secretaria Municipal de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/re4518tombamentoobrasvilanovaartigaspdf_155 3869678.pdf. Acesso em: 31 maio 2024.'
+  - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 45, de 19 de março de 2018. Secretaria Municipal de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/re4518tombamentoobrasVilanovaArtigaspdf_155 3869678.pdf. Acesso em: 31 maio 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Ata da 791ª Reunião Ordinária do Conpresp. São Paulo: 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 791ª Reunião Ordinária do Conpresp (Vídeo). Canal do Youtube. Secretaria Municipal de Cultura de São Paulo. São Paulo: 19 fev. 2024. Disponível em: https://www.youtube.com/watch?v=lMq9PGTniik. Acesso em: 01 jun. 2024.'
   - 'FALECIMENTOS. O Estado de S. Paulo, 6 de outubro de 2000, p. 29. Disponível em: https://acervo.estadao.com.br/pagina/#!/20001006-39070-spo-0029-cid-c5- not/busca/Col%C3%A9gio+Doze+Outubro. Acesso em: 02 jun. 2024.'
@@ -259,7 +255,6 @@ articles:
   - 'SÃO PAULO, Município. Decreto nº 40.196, 27 de dezembro de 2000. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/decreto-40196-de-27-de-dezembro-de-2000. Acesso em: 02 jun. 2024.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. 2. ed. São Paulo: EDUSP, 1999.'
   - 'SOARES, Carolina Pedro. Destombamento: reflexões sobre a (des)construção do Patrimônio Cultural Nacional (1937-1955). Anais do Anpuh-Brasil – 31º Simpósio Nacional de História. Rio de Janeiro: 2021.'
-
 - id: sdsp09-006
   title: 'Arquitetura escolar moderna na Baixada Santista: Grupo Escolar de Pae Cará ou EE. Philomena Cardoso de Oliveira'
   authors:
@@ -300,7 +295,6 @@ articles:
   - 'SILVA, Jasmine Luiza Souza. A Escola Paulista e a função social da arquitetura: projetos escolares entre 1959 e 1975. 2022. Dissertação (Mestrado em Teoria e História da Arquitetura e do Urbanismo) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2022. doi:10.11606/D.102.2022.tde-19092022-152709. Acesso em: 2024-06-17.'
   - 'SILVA, J. L. S. Grupo Escolar de Taquarituba, projeto de Maurício Tuck Schneider. In: ALVE, A.'
   - 'A. TAKAHASHI, V.; PUPIM NETO, M. A. Reconhecimento do Patrimônio Moderno do IPESP no Estado de São Paulo, 1957-1963. 7º Seminário Docomomo São Paulo. 2020. Disponível em: https://www.nucleodocomomosp.com.br/_files/ugd/e5628e_bd99b8652e4a4d8990063150bc76 4d3d.pdf Acesso em 08 jun. 2024.'
-
 - id: sdsp09-007
   title: Edifício Christiano Stockler das Neves – FAU-Mackenzie
   authors:
@@ -343,7 +337,6 @@ articles:
   - Relatórios dos Cursos e Departamentos 1958, (Relatório do Presidente).
   - STOCKLER das NEVES, Christiano, carta de 14 de maio de 1956, dirigida ao Dr. Roberto James Shalders, Presidente da Campanha “Um Mackenzie para melhor servir”, cópia do acervo Christiano Stockler das Neves, Biblioteca FAUUSP.
   - 'TURNER, Paul V. Campus: An American Planning Tradition, The Architectural History Foundation/MIT Press, New York, 1984.'
-
 - id: sdsp09-008
   title: 'Arquitetura educadora: formação de público e preservação da sede do MAC USP'
   authors:
@@ -412,7 +405,6 @@ articles:
   - '_____. Arquitetura moderna no Brasil: o desenho da superfície. Dissertação de Mestrado, São Paulo, FFLCHUSP, 1988.'
   - VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutorado. São Paulo, FAUUSP. 2000.
   - 'VALLIER, Dora. A Arte Abstrata. São Paulo: Martins Fontes, 1986.'
-
 - id: sdsp09-009
   title: A produção do arquiteto Geraldo Caiuby
   authors:
@@ -462,7 +454,6 @@ articles:
   - Fernando Cheda irá lançar em Sorocaba moderno conjunto residencial. Jornal Cruzeiro do Sul, Sorocaba, 01 nov. 1981, p.03.
   - 'SHIKAMA, Felipe. Inaugurada há 13 anos, Biblioteca aguarda reforma. Jornal Cruzeiro do Sul, Edição nº 34744, Sorocaba, 23 de fevereiro de 2018. Acesso em: 10 de fevereiro de 2023.'
   - ZEIN, Ruth Verde. Leituras críticas. Pensamento da América Latina, volume 5. São Paulo/Austin, Nhamerica Platform, Romano Guerra, 2018.
-
 - id: sdsp09-010
   title: Muzi e Arena na produção da Arquitetura Moderna santista
   authors:
@@ -501,7 +492,6 @@ articles:
   - Modern Architecture in Santos
   - Cultural Heritage
   - Preservation
-
 - id: sdsp09-011
   title: 'Márlio Raposo Dantas: um arquiteto moderno e inovador muda o cenário da cidade de Santos/SP'
   authors:
@@ -538,7 +528,6 @@ articles:
   - 'OZORES, Felipe. VIVA SANTOS, 2004. Disponível em: <http://www.vivasantos.com.br /05/05a.htm>. Acesso em: 17 julho 2012.'
   - 'RUSKIN, John. A Lâmpada da Memória. Cotia: Ateliê Editorial, 2008.'
   - 'ZEIN, Ruth Verde. ARQUITETURA PAULISTA BRUTALISTA: 1953-1973, 2009. Disponivel em: <http://www.arquiteturabrutalista.com.br/index1port.htm>. Acesso em: 13 agosto 2012.'
-
 - id: sdsp09-012
   title: Documentação do projeto de Arquitetura, ensaio sobre a casa do arquiteto e artista Lineu Borges de Macedo
   authors:
@@ -571,7 +560,6 @@ articles:
   - 'HOFFMANN, Ernst Theodor Amadeus. O homem da areia. São Paulo: Ubu, 2023.'
   - 'MONTAIGNE, Michel de. A força da imaginação. In: Os Ensaios. São Paulo: Penguin, 2010.'
   - PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980. 462f. Tese (Doutorado em Arquitetura) – Programa de Pós-Graduação em Arquitetura FAU-UFRS, Porto Alegre, 2010.
-
 - id: sdsp09-013
   title: 'A casa modernista de Gregori Warchavchik da rua Santa Cruz: histórico, preservação e o atual abandono de um relevante patrimônio moderno nacional'
   authors:
@@ -583,7 +571,7 @@ articles:
   - givenname: José Geraldo Simões
     familyname: Junior
     affiliation: ''
-    email: josegeraldo.simoes@mackenzie.br
+    email: josegeraldo.simoes@Mackenzie.br
     primary_contact: false
   section: Artigos Completos
   locale: pt-BR
@@ -606,10 +594,9 @@ articles:
   - CARRILHO, Marcos José. Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Revista Eletrônica Vitruvius. Nov, 2000.
   - DPH, Consulta do processo n° 6099.2023/0006171-0.
   - 'FERRAZ, Geraldo. Warchavchik e a Introdução da Nova Arquitetura no Brasil: 1925 a 1940. São Paulo: Editora Habitat, 1965.'
-  - 'INVAMOTO, Denise. “Futuro pretérito: historiografia e preservação na obra de Gregori Warchavchik”. 2012. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2012.'
+  - 'INVAMOTO, DeNise. “Futuro pretérito: historiografia e preservação na obra de Gregori Warchavchik”. 2012. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2012.'
   - IPHAN, Consulta do processo 0156.003209/2013-20 Projeto de restauro e readequação do Parque e Casa Modernista situado à Rua Santa Cruz n° 325 – Vila Mariana/SP Vol. I, II, III, V,
   - 'LIRA, José. Warchavchik: fraturas da vanguarda. São Paulo: Editora Cosac Naify, 2011.'
-
 - id: sdsp09-014
   title: 'As casas contam histórias: a implantação da cidade de Timóteo em meados do século XX'
   authors:
@@ -659,7 +646,6 @@ articles:
   - 'TIMÓTEO. Prefeitura Municipal. Pontos turísticos. Disponível em: https://www.timoteo.mg.gov.br/14/pontos-turisticos. Acesso em: 24 maio 2024.'
   - 'TRAJANO FILHO, Francisco Sales. Arquiteturas e Estado no Brasil de Vargas (1930-1945). Registros, v. 14, n. 2, p. 71-87, 2018. Tradução. Disponível em: https://revistasfaud.mdp.edu.ar/registros/article/view/245. Acesso em: 29 ago. 2024.'
   - 'VASCONCELLOS, Fábio Azevedo. Arquitetura Religiosa e Poder: A manifestação do poder na arquitetura das igrejas do Século XVIII na Capitania de Minas Gerais no Brasil e em Portugal. 2022. 363 f. Tese (Doutorado em teoria e História da Arquitetura) - Faculdade de Arquitetura, Universidade de Lisboa, Lisboa, 2022.'
-
 - id: sdsp09-015
   title: Arquitetura Moderna na praia – residências na praia de Pernambuco – Guarujá
   authors:
@@ -680,7 +666,6 @@ articles:
   - 'DIAS, Maurício Azenha. Arquitetura Moderna na Praia - As Residências na Praia de Pernambuco, Guarujá. São Paulo: Editora Mackenzie, 2009.'
   - SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo, EDUSP, 1999.
   - SEGAWA, Hugo e DOURADO, Guilherme Massa. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997.
-
 - id: sdsp09-016
   title: 'O Palácio Farroupilha: impacto das obras de Mies van der Rohe no projeto de Zolko, através das imagens'
   authors:
@@ -721,7 +706,6 @@ articles:
   - MIES VAN DER ROHE, Ludwig. “Architect & Client”. The Architectural Forum. New York, p. 93-111, nov. 1952.
   - THE NEXT. “The next fifty years”. Architectural Forum. New York, p. 165-170, jun. 1951.
   - 'ZOLKO, Gregório; GRUNOW, Evelise. Entrevista Gregório Zolko: a experiência profissional com Warchavchik e sobre a convivência com Wright e Mies van der Rohe. PROJETODESIGN, São Paulo, n. 346, p. 8-11, dez..2009. Disponível em: https://revistaprojeto.com.br/acervo/gregorio-zolko-em-entrevista-12-03-2009/. Acesso: 10 mai. 2024.'
-
 - id: sdsp09-017
   title: O arquiteto Roberto Capello e o edifício SULACAP de Santos/SP
   authors:
@@ -761,7 +745,6 @@ articles:
   - VIAJANTES. Jornal do Commercio. Rio de Janeiro, p.11, 15 de novembro de 1931, Ed. n. 00237.
   - 'ZEIN, R. V. Há que se ir às coisas: revendo as obras. In: ROCHA, G.; BRONSTEIN, L.;'
   - 'OLIVEIRA, B. S.; LASSANCE, G.. (Org.). Leituras em Teoria da Arquitetura 3. Objetos. Rio de Janeiro: Riobooks, 2011, v. 3, p. 198-218.'
-
 - id: sdsp09-018
   title: 'O purgatório de Juscelino: Niemeyer e o luto popular no Memorial JK'
   authors:
@@ -806,8 +789,7 @@ articles:
   - 'MOTTA, Antônio. À flor da pedra: Formas tumulares e processos sociais nos cemitérios brasileiros. Pernambuco: Massangana, 2012.'
   - 'NIEMEYER, Oscar. O documento do arquiteto. Revista Módulo. Rio de Janeiro: Avenir Editora, 1980, Vol. 7, pp. 3. Disponível em: <https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=006173&Pesq=memorial&pagfis=6409 >. Acesso em: 12 jun. 2024.'
   - 'NO túmulo 35.666, última morada de JK. Correio Braziliense do Distrito Federal, Brasília, n. 4979, 24 ago. 1976, p. 10. Disponível em: <https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=028274_02&Pesq=35.666&pagfis=782 62>. Acesso em: 11 jun. 2024.'
-  - 'FUNDAÇÃO Oscar Niemeyer. Memorial JK - 1º projeto. Disponível em: <https://www.oscarniemeyer.org.br/obra/pro365>. Acesso em: 12 jun. 2024.'
-
+  - 'FUNDAÇÃO Oscar Niemeyer. Memorial JK - 1º projeto. Disponível em: <https://www.oscarNiemeyer.org.br/obra/pro365>. Acesso em: 12 jun. 2024.'
 - id: sdsp09-019
   title: 'A verticalização na cidade de São Vicente-SP nos anos de 1950 e 1960: o edifício Marahú, 1959, de Lauro da Costa Lima'
   authors:
@@ -864,7 +846,6 @@ articles:
   - 'SANTOS, Milton. Por uma geografia nova. São Paulo: Hucitec, 1978.'
   - 'SANTOS, Milton. Pensando o espaço do homem. São Paulo: Edusp, 2004.'
   - 'SOMEKH, Nadia. A cidade vertical e o urbanismo modernizador. São Paulo: Mackenzie, 2014.'
-
 - id: sdsp09-020
   title: 'Terminal Princesa Isabel: reflexões acerca de sua preservação'
   authors:
@@ -901,7 +882,6 @@ articles:
   - 'PEREIRA, Diogo Mondini. Rodoviárias no Brasil nas décadas de 1960 e 1970: representações e imaginários de um país moderno. Dissertação de mestrado. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2020.'
   - 'PREFEITURA MUNICIPAL DE SÃO PAULO – PMSP; SECRETARIA MUNICIPAL DE TRANSPORTES - SMT. São Paulo Interligado – O Plano de Transporte Público Urbano em Implantação na Gestão 2001 – 2004. São Paulo: SMT, 2004.'
   - 'SILVEIRA, Tacito Pio. A Questão Metropolitana: Inventário de Planos de Transporte Coletivo em São Paulo. In: 18° Congresso Brasileiro de Transporte e Trânsito, 2011, Rio de Janeiro. Biblioteca de trabalhos apresentados no 18° Congresso da ANTP, 2011.'
-
 - id: sdsp09-021
   title: 'Casa de Saúde Anchieta: preservação do patrimônio histórico-cultural santista e resgate à memória'
   authors:
@@ -952,7 +932,6 @@ articles:
   - 'PAIVA, M.C.P. Casa de Saúde Anchieta: Um novo abrigo. 2019. Monografia (bacharelado em Arquitetura e Urbanismo) -Curso de Arquitetura e Urbanismo, Universidade Católica de Santos. Santos, 61 páginas, 2019.'
   - 'SILVEIRA, Nise. Jung: vida e obra. Rio de Janeiro: Paz & Terra, 1968.'
   - 'SLWCZUK, T.S.O.S. Requalificação urbana e renovação arquitetônica da casa de saúde Anchieta: Centro de práticas integrativas e complementares Anchieta, 2019. Monografia (bacharelado em Arquitetura e Urbanismo). Curso de Arquitetura e Urbanismo, Universidade Católica de Santos. Santos, 59 páginas, 2019.'
-
 - id: sdsp09-022
   title: 'Edifício Irajá: projeto de restauração de uma obra moderna não tombada'
   authors:
@@ -996,7 +975,6 @@ articles:
   - 'HOMEM, Maria Cecília Naclério. Higienópolis : grandeza e decadência de um bairro paulistano. São Paulo : Departamento do Patrimônio, Divisão do Arquivo Histórico, 1980.'
   - SERAPIÃO, Fernando. Moderno nas Alturas. Revista Monolito. São Paulo, volume 19, p.14- 39, 2014.
   - 'ZUFFO, Élida Regina de Moraes. Pioneiros Modernos: verticalização residencial em Higienópolis. Tese (Doutorado em Arquitetura e Urbanismo) – Universidade Presbiteriana Mackenzie. São Paulo, 2009.'
-
 - id: sdsp09-023
   title: O tombamento dos imóveis do bairro de Higienópolis, 1992-2014
   authors:
@@ -1044,7 +1022,6 @@ articles:
   - 'SÃO PAULO (cidade). Lei Municipal 10.326, de 16 de dezembro de 1986. Dispõe sobre a criação do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 1986a. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/lei- 10236-de-16-de-dezembro-de-1986. Acesso em: 22 mai. 2024.'
   - 'SÃO PAULO (cidade). Prefeitura Municipal, Secretaria Municipal de Cultura. Departamento do Patrimônio Histórico. Inventário Geral do patrimônio ambiental e cultural: metodologia / Leila Regina Diêgoli, coord. et al. São Paulo: Departamento do Patrimônio Histórico, 1986b. (Cadernos do IGEPAC-SP: 1)'
   - 'SÃO PAULO (cidade). Lei Municipal 10.032, de 27 de dezembro de 1985. Dispõe sobre a criação do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 1985. Disponível em: https://www.legisweb.com.br/legislacao/?id=179611. Acesso em: 22 mai. 2024.'
-
 - id: sdsp09-024
   title: '"Brasília revisitada": revisão do moderno na urbanística de Lucio Costa'
   authors:
@@ -1091,7 +1068,6 @@ articles:
   - 'TOMÉ, Candice. Avaliação pós-ocupação da quadra econômica Lúcio Costa em Brasília- DF: estudo das alterações ocorridas na quadra e nos edifícios. Dissertação Mestrado. Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, Programa de Pesquisa e Pós- graduação, 2009.'
   - 'ZEVl, B. Seis perguntas sobre a nova capital sul-americana. In: XAVIER, A.;'
   - 'KANTINSKY, J. (Orgs.). Brasília – antologia crítica. São Paulo: Cosac & Naify, 2012. p. 66-72.'
-
 - id: sdsp09-025
   title: 'Preservação da Arquitetura industrial: transferência do armazém 7, Santos, SP'
   authors:
@@ -1115,7 +1091,6 @@ articles:
   - Preservation
   - Industrial Architecture
   - Port of Santos
-
 - id: sdsp09-026
   title: Cultura e patrimônio no Rio de Brizola e Darcy Ribeiro
   authors:
@@ -1152,7 +1127,6 @@ articles:
   - 'SANTOS, Joel Ruffino. “Uma resposta à cultura do racismo”. In: Revista do Brasil. 1986. Pgs.106-111.'
   - 'SEIXAS, Antônio. A contribuição de Darcy Ribeiro à preservação do patrimônio cultural fluminense a partir de seus escritos autobiográficos. In: COSTA, Adriane V. (org). Darcy Ribeiro: intelectualidade e pensamento crítico latino-americano. Belo Horizonte: Fino Traço, 2023. Pg. 350-368.'
   - 'Acervos consultados: Fundação Darcy Ribeiro (FUNDAR), Arquivo Público do Distrito Federal (ArPDF), Fundação Oscar Niemeyer (FON), entre janeiro e julho/2023.'
-
 - id: sdsp09-027
   title: 'Preservação do patrimônio moderno, os conselhos municipais e o papel dos profissionais de Arquitetura e Urbanismo: um olhar sobre Araraquara e São Carlos'
   authors:

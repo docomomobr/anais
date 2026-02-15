@@ -305,6 +305,8 @@ def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
         lines.append(f'description: {yaml_multiline(seminar["description"])}')
     if has_cover:
         lines.append(f'cover: "{slug}.png"')
+    if seminar['volume_pdf']:
+        lines.append(f'volume_pdf: "{seminar["volume_pdf"]}"')
     lines.append(f'article_count: {len(articles)}')
     lines.append('---')
 

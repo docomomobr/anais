@@ -1,32 +1,16 @@
-slug: sdnne05
-volume: 1
-number: 5
-evento:
-  titulo: 5º Seminário Docomomo Norte/Nordeste
-  tema: null
-  local: Fortaleza, CE
-  data: 2014
-  organizacao: []
-publicacao:
-  ficha_catalografica: '5° Seminário Docomomo Norte/Nordeste: anais [recurso eletrônico].
-
-    Fortaleza: [Editora], 2014.
-
-    '
-  isbn: null
-  editora: null
-  ano: 2014
-fontes:
-  docomomobrasil: null
-  externa:
-    url: https://docomomoceara.wixsite.com/docomomoceara/eixo-a
-    descricao: Site Docomomo Ceará - anais organizados por eixo temático
-status: disponivel_externo
-contato:
-  instituicao: Núcleo Docomomo CE
-  notas: Buscar dados catalográficos completos
-artigos:
-
+issue:
+  slug: sdnne05
+  title: 5º Seminário Docomomo Norte/Nordeste, Fortaleza, 2014
+  subtitle: Projeto, Obra, Uso e Memória — A intervenção no patrimônio arquitetônico modernista
+  location: Fortaleza, CE
+  year: 2014
+  volume: 3
+  number: 5
+  publisher: Núcleo Docomomo Ceará / UFC
+  editors: []
+  description: '5° Seminário Docomomo Norte/Nordeste: anais: Projeto, Obra, Uso e Memória — A intervenção no patrimônio arquitetônico modernista [recurso eletrônico]. Fortaleza, CE: Núcleo Docomomo Ceará; UFC, 2014.'
+  date_published: '2014-11-11'
+articles:
 - id: sdnne05-001
   locale: pt-BR
   pages_count: 12
@@ -80,7 +64,6 @@ artigos:
   section: Eixo A
   file: sdnne05-001.pdf
   file_original: b2d490_e9f4b2d210ee4a9c826189059c9b6938.pdf
-
 - id: sdnne05-002
   locale: pt-BR
   pages_count: 12
@@ -133,7 +116,6 @@ artigos:
   section: Eixo A
   file: sdnne05-002.pdf
   file_original: b2d490_1dbb9e6daf4c40dcae440e9c3a2660df.pdf
-
 - id: sdnne05-003
   locale: pt-BR
   pages_count: 14
@@ -198,7 +180,6 @@ artigos:
   section: Eixo A
   file: sdnne05-003.pdf
   file_original: b2d490_c4836822b22d48c298d3f6c44bb70f0f.pdf
-
 - id: sdnne05-004
   locale: pt-BR
   pages_count: 14
@@ -241,7 +222,6 @@ artigos:
   section: Eixo A
   file: sdnne05-004.pdf
   file_original: b2d490_0362103edcca406cb8dd0678d94c4de1.pdf
-
 - id: sdnne05-005
   locale: pt-BR
   pages_count: 14
@@ -285,7 +265,6 @@ artigos:
   section: Eixo A
   file: sdnne05-005.pdf
   file_original: b2d490_d51662f020f745a0b68c220103957cf8.pdf
-
 - id: sdnne05-006
   locale: pt-BR
   pages_count: 13
@@ -325,7 +304,6 @@ artigos:
   section: Eixo A
   file: sdnne05-006.pdf
   file_original: b2d490_92e0dc31e1ae4ecc92763c4012e5b076.pdf
-
 - id: sdnne05-007
   locale: pt-BR
   pages_count: 12
@@ -367,7 +345,6 @@ artigos:
   section: Eixo A
   file: sdnne05-007.pdf
   file_original: b2d490_5fcb6661f91341b58c45a805094f8aeb.pdf
-
 - id: sdnne05-008
   locale: pt-BR
   pages_count: 11
@@ -417,7 +394,6 @@ artigos:
   section: Eixo A
   file: sdnne05-008.pdf
   file_original: b2d490_7d29b79484be4a4a8812d6771462434e.pdf
-
 - id: sdnne05-009
   locale: pt-BR
   pages_count: 10
@@ -458,7 +434,6 @@ artigos:
   section: Eixo A
   file: sdnne05-009.pdf
   file_original: b2d490_233d44be063f4c4098ece70611168259.pdf
-
 - id: sdnne05-010
   locale: pt-BR
   pages_count: 15
@@ -522,7 +497,6 @@ artigos:
   section: Eixo A
   file: sdnne05-010.pdf
   file_original: b2d490_55e1f113d4c046109c261895a8f2adc1.pdf
-
 - id: sdnne05-011
   locale: pt-BR
   pages_count: 12
@@ -570,7 +544,6 @@ artigos:
   section: Eixo A
   file: sdnne05-011.pdf
   file_original: b2d490_eb08c4de4290446b90be2acebb847e5b.pdf
-
 - id: sdnne05-012
   locale: pt-BR
   pages_count: 17
@@ -627,12 +600,11 @@ artigos:
   section: Eixo A
   file: sdnne05-012.pdf
   file_original: b2d490_42e885e603954bea8c736a8e8da73112.pdf
-
 - id: sdnne05-013
   locale: pt-BR
   pages_count: 10
   abstract: 'A Arquitetura Moderna do Nordeste brasileiro pouco compareceu nas histórias da arquitetura nacional. Ela foi reconhecida tardiamente pela crítica, que destacou a experiência pioneira de Luiz Nunes em Pernambuco (1934-37) e algumas experiências pontuais na Bahia. O período posterior ainda não foi devidamente reconhecido como relevante para o contexto nacional. É certo que, já em 1943, o Nordeste (Pernambuco, Bahia e Ceará) compareciam nas obras documentadas na exposição Brazil Builds através dos frutos da experiência da Diretoria de Arquitetura e Urbanismo em Pernambuco- a Caixa d’água de Olinda, de Luiz Nunes e Fernando Saturnino de Britto, o Pavilhão de Verificação de Óbitos, de Luiz Nunes, a Residência Arthur Moura, de José Norberto da Silva, a Recebedoria de Rendas (Palácio da Fazenda), de Fernando Saturnino de Britto-, além de duas obras em Salvador - Escola Normal e Sanatório de Tuberculose Santa Terezinha- e um projeto de Oscar Niemeyer em Fortaleza (GOODWIN, 1943). Essas referências são praticamente exceções, pois, além desses exemplares, poucas publicações, inclusive o livro de Bruand (1981), reconhecem os méritos dessa produção. Por exemplo, a coletânea Modern Architecture in Brazil (1956) de Henrique Mindlin traz poucos exemplares significativos do Nordeste brasileiro: estão presentes a Casa de João Paulo Miranda Neto (1953), de Lygia Fernandes, em Maceió, Alagoas; o Edifício Caramuru (1946) e o Edifício Sede do Banco da Bahia (1954), ambos de Paulo Antunes Ribeiro, o Hotel da Bahia (1951), de Paulo Antunes Ribeiro e Diógenes Rebouças, e o Teatro Castro Alves, de José Bina Fonyat Filho, todos em Salvador. À exceção do Castelo d´água de Olinda, do Esboço do Jardim da Praça Arthur Oscar (1936) e do Jardim da Capela da Jaqueira (1954), ambos de Roberto Burle Marx, bem como o City Bank do próprio Henrique E. Mindlin, no Recife, o Estado de Pernambuco está quase ausente do livro de Mindlin (MINDLIN, 1956). Destaca os estados da Bahia e de Pernambuco, demais estados do Nordeste brasileiro estiveram quase ausentes na coletânea de Yves Bruand (1981), que foi considerado por Segawa o autor da mais completa obra sobre arquitetura moderna brasileira até o momento (1998). "Brasil: arquiteturas após 1950" (Bastos e Zein, 2011) cujo "precedente notável é(... ) Arquitetura Contemporânea no Brasil (Bruand,1981), tece um panorama histórico da arquitetura no Brasil ao longo da primeira metade do século XX" é (...) "um outro trabalho panorâmico que acompanha os acontecimentos da arquitetura moderna brasileira até o final do século XX". As autoras reafirmam a trama de Bruand, no sentido da existência de um centro principal, o Rio de Janeiro, que fora substituído por Brasília a partir de 1960, que a partir de então, com a ascensão de São Paulo, domina o caminho principal da narrativa. As autoras mencionam a contribuição de Acácio Gil Borsoi e Delfim Amorim, pontuam obras do Nordeste: Cajueiro Seco, Parque dos Guararapes, Fórum Judiciário de Teresina, Hotel Tambaú, João Pessoa, obras de J. Filgueiras, Lina Bo Bardi e Assis Reis em Salvador, Caraíbas no sertão baiano - uma tentativa de preencher lacunas, como é o caso dos discursos historiográficos contemporâneos, porém o Nordeste permanece periférico, quando não ignorado - a pior forma de exclusão segundo Waisman (2013) referindo-se a produção latino-americana em relação à historiografia internacional. Lara (2012) na busca de novas narrativas historiográficas para os países da América Latina entre si e em relação à Europa e América do Norte, propõe entender as suas cartografias imprecisas, sem dúvida uma boa alternativa para a historiografia do Nordeste brasileiro.'
-  abstract_en: 'Brazilian northeast modern architecture scarcely comes into sight at national architectural histories. Lately Luiz Nunes experience in Pernambuco (1934-37) and a few specific experiences in Bahia were pointed by critics as relevant. This period hasn´t yet been recognized as relevant to the national milieu. In 1943, the Northeast (Pernambuco, Bahia and Ceará states) attended the documented works on display through Brazil Builds exhibition. In Pernambuco state it was a result of the experience of Architecture and Urbanism Board in PernambucoOlinda´s Water Tower by Luiz Nunes and Fernando Saturnino de Britto, Anatomical Laboratory by Luiz Nunes and Moura House by José Norberto da Silva, Ministry of Finance by Fernando Saturnino de Britto-, and also two buildings in Salvador - Normal School and Santa Terezinha Tuberculosis Sanitarium - and Johnson House by Oscar Niemeyer in Fortaleza (Goodwin, 1943). These references are practically exceptions. Beyond these examples a few publications, including Bruand (1981), recognized the merits of this works. At Modern Architecture in Brazil (1956), Henry Mindlin included few significant works from Brazilian Northeast architecture: João Paulo Miranda Neto House (1953) by Lygia Fernandes, in Maceió, Alagoas; Caramuru Building (1946) and Bahia Bank Building (1954), both by Paulo Antunes Ribeiro, Bahia Hotel (1951) by Paulo Antunes Ribeiro and Diogenes Rebouças, Castro Alves Theatre by José Bina Fonyat, in Salvador; Olinda´s Water tower, Arthur Oscar Square (1936) and Jaqueira Chapel Garden (1954), both by Roberto Burle Marx, apart from City Bank''s Building by his own (Henrique E. Mindlin), in Recife, modern architecture from Pernambuco is almost absent from Mindlin´s book (1956). Despite of highlighting Bahia and Pernambuco, other states were almost absent from Yves Bruand (1981) - which was considered by Segawa (1998) the most complete work on Brazilian modern architecture. Brasil: arquiteturas após 1950 (Bastos and Zein, 2011) whose "the remarkable precedent is (...)Contemporary Architecture in Brazil (Bruand, 1981)" is "another panoramic work that accompany the events of modern Brazilian architecture until the late twentieth century". The authors reaffirm Bruand''s plot, suggesting the existence of a major center, Rio de Janeiro, which was replaced by Brasília from 1960, which since then, also with São Paulo rise, dominates the main path of the narrative. And mentioned Acacio Gil Borsoi and Delfim Amorim contributions and some other Northeast architecture works: Cajueiro Seco, Guararapes'' Park, Judicial Forum in Teresina, Tambaú Hotel in Joao Pessoa, some works by João Filgueiras, Lina Bo Bardi and Assis Reis in Salvador, Caraíbas in Bahia''s hinterland - an attempt to fill the gaps, such as contemporary historiography discourses. Northeast modern architecture still remains peripheral, if not ignored - the worst form of exclusion as pointed Waisman (2013) concerning to Latin American modern architecture in relation to international historiography. Lara (2012), in search of a new historiography narrative for Latin American countries themselves and in relation to Europe and North America, proposes to understand its imprecise cartographies, certainly a good alternative for Brazilian Northeast historiography. Keys-words:Brazilian northeast; modern architecture; historiography'
+  abstract_en: 'Brazilian northeast modern architecture scarcely comes into sight at national architectural histories. Lately Luiz Nunes experience in Pernambuco (1934-37) and a few specific experiences in Bahia were pointed by critics as relevant. This period hasn´t yet been recognized as relevant to the national milieu. In 1943, the Northeast (Pernambuco, Bahia and Ceará states) attended the documented works on display through Brazil Builds exhIBITion. In Pernambuco state it was a result of the experience of Architecture and Urbanism Board in PernambucoOlinda´s Water Tower by Luiz Nunes and Fernando Saturnino de Britto, Anatomical Laboratory by Luiz Nunes and Moura House by José Norberto da Silva, Ministry of Finance by Fernando Saturnino de Britto-, and also two buildings in Salvador - Normal School and Santa Terezinha Tuberculosis Sanitarium - and Johnson House by Oscar Niemeyer in Fortaleza (Goodwin, 1943). These references are practically exceptions. Beyond these examples a few publications, including Bruand (1981), recognized the merits of this works. At Modern Architecture in Brazil (1956), Henry Mindlin included few significant works from Brazilian Northeast architecture: João Paulo Miranda Neto House (1953) by Lygia Fernandes, in Maceió, Alagoas; Caramuru Building (1946) and Bahia Bank Building (1954), both by Paulo Antunes Ribeiro, Bahia Hotel (1951) by Paulo Antunes Ribeiro and Diogenes Rebouças, Castro Alves Theatre by José Bina Fonyat, in Salvador; Olinda´s Water tower, Arthur Oscar Square (1936) and Jaqueira Chapel Garden (1954), both by Roberto Burle Marx, apart from City Bank''s Building by his own (Henrique E. Mindlin), in Recife, modern architecture from Pernambuco is almost absent from Mindlin´s book (1956). Despite of highlighting Bahia and Pernambuco, other states were almost absent from Yves Bruand (1981) - which was considered by Segawa (1998) the most complete work on Brazilian modern architecture. Brasil: arquiteturas após 1950 (Bastos and Zein, 2011) whose "the remarkable precedent is (...)Contemporary Architecture in Brazil (Bruand, 1981)" is "another panoramic work that accompany the events of modern Brazilian architecture until the late twentieth century". The authors reaffirm Bruand''s plot, suggesting the existence of a major center, Rio de Janeiro, which was replaced by Brasília from 1960, which since then, also with São Paulo rise, dominates the main path of the narrative. And mentioned Acacio Gil Borsoi and Delfim Amorim contributions and some other Northeast architecture works: Cajueiro Seco, Guararapes'' Park, Judicial Forum in Teresina, Tambaú Hotel in Joao Pessoa, some works by João Filgueiras, Lina Bo Bardi and Assis Reis in Salvador, Caraíbas in Bahia''s hinterland - an attempt to fill the gaps, such as contemporary historiography discourses. Northeast modern architecture still remains peripheral, if not ignored - the worst form of exclusion as pointed Waisman (2013) concerning to Latin American modern architecture in relation to international historiography. Lara (2012), in search of a new historiography narrative for Latin American countries themselves and in relation to Europe and North America, proposes to understand its imprecise cartographies, certainly a good alternative for Brazilian Northeast historiography. Keys-words:Brazilian northeast; modern architecture; historiography'
   keywords:
   - nordeste brasileiro
   - arquitetura moderna
@@ -671,7 +643,6 @@ artigos:
   section: Eixo A
   file: sdnne05-013.pdf
   file_original: b2d490_1af29cf2e4934df292242bc12f59f7b1.pdf
-
 - id: sdnne05-014
   locale: pt-BR
   pages_count: 14
@@ -709,7 +680,6 @@ artigos:
   section: Eixo A
   file: sdnne05-014.pdf
   file_original: b2d490_2c41d9a97f84442e830a4643478632e4.pdf
-
 - id: sdnne05-015
   locale: pt-BR
   pages_count: 14
@@ -757,7 +727,6 @@ artigos:
   section: Eixo A
   file: sdnne05-015.pdf
   file_original: b2d490_f51f758b9d1a46149e326a8999333bf9.pdf
-
 - id: sdnne05-016
   locale: pt-BR
   pages_count: 14
@@ -797,7 +766,6 @@ artigos:
   section: Eixo A
   file: sdnne05-016.pdf
   file_original: b2d490_c069123ee85545399bcd8fe1d1cec5ea.pdf
-
 - id: sdnne05-017
   locale: pt-BR
   pages_count: 13
@@ -846,7 +814,6 @@ artigos:
   section: Eixo A
   file: sdnne05-017.pdf
   file_original: b2d490_4d800be980aa473aafa47fb176e51090.pdf
-
 - id: sdnne05-018
   locale: pt-BR
   pages_count: 16
@@ -879,7 +846,6 @@ artigos:
   section: Eixo B
   file: sdnne05-018.pdf
   file_original: b2d490_528c6eff63d1416cb3015f91db40c52f.pdf
-
 - id: sdnne05-019
   locale: pt-BR
   pages_count: 16
@@ -908,19 +874,18 @@ artigos:
   section: Eixo B
   file: sdnne05-019.pdf
   file_original: b2d490_3b8f1fefcd1d4447a60e364737414a2a.pdf
-
 - id: sdnne05-020
   locale: pt-BR
   pages_count: 15
   abstract: 'Este artigo tem o objetivo de realizar uma análise crítica de duas obras de Severiano Porto pouco conhecidas e já demolidas. O Estádio Vivaldo Lima, em Manaus, 1965, que promove junções aparentemente divergentes como o uso simultâneo de materiais distintos: caixinhas de madeira com vedações coloridas correspondentes às cabines de imprensa se assentam sobre a estrutura de concreto armado da arena, foi demolido recentemente, cedendo lugar à Arena da Amazônia, um projeto que atende aos complexos requerimentos da FIFA para a Copa de 2014. O Restaurante Chapéu de Palha, 1967, alia estratégias modernistas a princípios estruturais e materiais da oca indígena da região amazônica: uma estrutura de madeira coberta com palha. Apesar das suas especificidades enquanto programa, escala e forma, ambos os projetos possuem características comuns: a década em que foram projetados, correspondente a um contexto de expansão da arquitetura moderna; a localização na cidade de Manaus; a exemplaridade no quadro da arquitetura moderna brasileira; a utilização da madeira; a forma circular; e a tecnologia imaginativa do autor: o arquiteto mineiro formado em 1954, na UFRJ, que passa a viver e construir na Amazônia a partir da década de 1960, atuando como propagador do modernismo naquelas latitudes; e dando continuidade a uma vertente regionalizada da arquitetura moderna brasileira, na qual as estratégias da escola carioca se transfiguram de acordo com o clima, a geografia e a tradição, lição que deve ser revisada em tempos de preocupações ecológicas. Reflexões a partir de teorias historicamente consagradas e contemporâneas, como as que esse artigo se propõe, mantém essas obras vivas na memória da arquitetura moderna brasileira.'
   abstract_en: 'This article aims to make a critical analysis of two works of Severiano Porto little known and already demolished. Vivaldo Lima stadium in Manaus, 1965 promotes seemingly divergent junctions as the simultaneous use of different materials: wooden boxes with matching colored seals to press boxes sit on the concrete structure of the arena, was recently demolished, giving place at Arena da Amazônia, a project that meets the complex requirements of FIFA for the 2014 World Cup. The Straw Hat Restaurant, 1967, combines modernist strategies structural principles and indigenous Amazonian region of hollow materials: a structure of wood covered with straw. Despite their specificities while programming, scale and shape, both projects have common features: the decade in which they were designed, corresponding to a context of expansion of modern architecture; the location in the city of Manaus; the exemplary background of Brazilian modern architecture; the use of wood; circular form; technology and the imaginative author: miner architect who graduated in 1954, at UFRJ, who goes to live and build in the Amazon from the 1960s, acting as propagator of modernism in those latitudes; and continuing a regionalized aspect of Brazilian modern architecture, in which the strategies of Rio school are transfigured according to the climate, geography and tradition, lesson to be reviewed in times of ecological concerns. Reflections from historically consecrated and contemporary theories, as this article suggests, these keeps alive memory in works of modern Brazilian architecture.'
   keywords:
-  - Severino Porto
+  - SeveRino Porto
   - arquitetura moderna
   - Madeira
   - Amazônia
   keywords_en:
-  - Severino Porto
+  - SeveRino Porto
   - modern architecture
   - wood
   - Amazon
@@ -945,7 +910,7 @@ artigos:
   - PORTO, S. M. A longa trajetória, da efervescência cultural do Rio a Manaus. Revista Projeto n. 83, p. 46,1986.
   - HESPANHA, S. A. M. Entre o regional e o moderno. Op. Cit.
   - 'ROWE, C. Manierismo y arquitectura moderna y otros ensayos. Barcelona: Gustavo Gili, 1978.'
-  - 'RUCHAUD, G. Severiano Porto. In: Portalarquitetônico.com.br. <http://portalarquitetonico.com.br/severiano-mario-porto/>. Acesso em 15 Jul. 2014.'
+  - 'RUCHAUD, G. Severiano Porto. In: Portalarquitetônico.com.br. <http://portalarquitetonico.com.br/Severiano-mario-porto/>. Acesso em 15 Jul. 2014.'
   - 'SEGAWA, H. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1997.'
   - 'SERAPIÃO, F. Estádio Vivaldão, de Severiano Porto, vem abaixo a marretadas. In: Vitruvius, 2011. Disponível em: <http://www.vitruvius.com.br/revistas/read/projetos/11.121/3742>. Acesso em 15 Jul. 2014.'
   - 'VENTURI, R. Complexidade e Contradição em Arquitetura. São Paulo: Martins Fontes, 2004.'
@@ -964,7 +929,6 @@ artigos:
   section: Eixo B
   file: sdnne05-020.pdf
   file_original: b2d490_3e12722bdfa44f34ad1204436a711fe4.pdf
-
 - id: sdnne05-021
   locale: pt-BR
   pages_count: 15
@@ -987,7 +951,7 @@ artigos:
   - ARAUJO, R. La rehabilitación de la arquitectura moderna. Tectonica, n. 33, 2010.
   - 'BULUK, N. B. Facade Concept. Detmold: Hochschule Ostwestfalen-Lippe - University of Applied Sciences 2014. (Trabalho acadêmico não publicado)'
   - 'BANHAM, R. The Architecture of well-tempered environment. 2a. Chicago: University of Chicago Press, 1969.'
-  - 'BRANDI, C. Teoria del Restauro. Torino: Einaudi, 1977.'
+  - 'BRANDI, C. Teoria del Restauro. ToRino: Einaudi, 1977.'
   - COSTA, A. X. D. As necessidades e expectativas dos funcionários públicos estatutários da Secretaria Municipal de Obras e Viação da Cidade de Porto Alegre. 2010. (Mestrado). Escola de Administração. Programa de Pós-Graduação em Administração, Universidade Federal do Rio Grande do Sul, Porto Alegre
   - 'COSTA, A. E.; STUMPP, Monika; MACHADO, Maria Beatriz Pinheiro; RADUNZ, Roberto. Arquitetura Moderna na Serra Gaúcha em mídia interativa: documentação, análise e educação patrimonial. In: Segundo Encontro Ibero Americano Arquitetura e Documentação, 2011, Belo Horizonte. Anais Seminário Latino-Americano Arquitetura & Documentação. Belo Horizonte: Instituto de Estudos do Desenvolvimento Sustentável, 2011.'
   - 'ICOMOS. Carta de Burra: IPHAN 1980.'
@@ -1030,7 +994,6 @@ artigos:
   section: Eixo B
   file: sdnne05-021.pdf
   file_original: b2d490_9c2a4bec8dae4fa194df4b8683155f8b.pdf
-
 - id: sdnne05-022
   locale: es
   pages_count: 13
@@ -1063,7 +1026,6 @@ artigos:
   section: Eixo B
   file: sdnne05-022.pdf
   file_original: b2d490_f8d60d910336442b84815703f531790c.pdf
-
 - id: sdnne05-023
   locale: pt-BR
   pages_count: 13
@@ -1104,7 +1066,6 @@ artigos:
   section: Eixo B
   file: sdnne05-023.pdf
   file_original: b2d490_676ad2bcd0e344318dfde402ca2d2a98.pdf
-
 - id: sdnne05-024
   locale: pt-BR
   pages_count: 12
@@ -1148,7 +1109,6 @@ artigos:
   section: Eixo B
   file: sdnne05-024.pdf
   file_original: b2d490_1729a9ff56bc408cb341db684f6b5ab2.pdf
-
 - id: sdnne05-025
   locale: pt-BR
   pages_count: 14
@@ -1198,7 +1158,6 @@ artigos:
   section: Eixo B
   file: sdnne05-025.pdf
   file_original: b2d490_d58d7a89d27d438c8edc91f1c5f96a78.pdf
-
 - id: sdnne05-026
   locale: pt-BR
   pages_count: 15
@@ -1262,12 +1221,11 @@ artigos:
   section: Eixo C
   file: sdnne05-026.pdf
   file_original: b2d490_d39bff2b29514f308c6bd44997222bdd.pdf
-
 - id: sdnne05-027
   locale: pt-BR
   pages_count: 13
   abstract: 'Dentre as várias manifestações da arquitetura popular no Nordeste pode-se destacar as casas de meia morada, caracterizadas por fachada de porta e janela e frente estreita. Em Alagoas, como em vários estados do país, em meados dos anos 50 observa-se uma tentativa de modernização desta arquitetura. É o que ocorre em Quebrangulo e Palmeira dos Índios, pequenas cidades do agreste alagoano que constituem-se em referências para esse estudo. Nestas casas, no contexto dos anos 50 alguns elementos da arquitetura modernista foram sendo adaptados pelos moradores. A amarração ao lote por vezes admitia que ocorresse mudanças apenas nas fachadas, onde se adota o acréscimo de elementos em argamassa como platibandas e frisos para reforçar sua geometrização e no interior, alterações quanto aos materiais de revestimento e acabamento, soluções que vão lhes conferir uma ambiência moderna. Os moradores e construtores participam, então, de um processo de apropriação, reelaboração e transformação do moderno. A história do modernismo é também a história de pessoas que marcaram suas casas por um desejo de modernidade sob influência da arquitetura erudita ou da moda. Neste aspecto, com o passar das décadas e o envelhecimento dos moradores estas casas passam a tangenciar cada vez mais experiências que provêm de tempos mais remotos: vestem-se de um acúmulo de objetos decorativos e religiosos. Essa questão traz à tona a reflexão sobre o que seja o espaço habitado, a modernidade e suas relações com o elemento decorativo. Pretende-se, portanto, neste artigo, acessar a história desta arquitetura moderna popular através da observação empírica e por meio das narrativas dos seus moradores e construtores. Portanto, quando se trata da arquitetura moderna do ponto de vista popular, diferentes embates colocam a modernidade na berlinda, seja pelo pitoresco, seja pelo embate com a ação do tempo ou do acumular das vivências humanas.'
-  abstract_en: 'Among the various expressions of popular architecture in the North-East of Brazil, attention should be drawn to the semi-residential houses (casas de meia morada )that are characterised by a façade consisting of a door, window and narrow frontage.In Alagoas, as in several other States in the country, there are clear signs of attempts being made to modernise this architecture in the mid 1950s. This was the case in Quebrangulo and Palmeira dos Índios, small towns in a harsh barren region of Alagoas which have been selected as benchmarks for this study. Against the background of the 1950s, some features of modernist architecture were adapted by the dwellers of these houses. The fixture to the site The fact that the houses were wedged in a fixed site only allowed changes to be made to the façades where the addition of new features, such as mouldings and ledges, could only be carried out to strengthen its geometrical shape, while in the interior there were alterations with regard to coating and finishing measures which endowed them with a modern ambience. The dwellers and builders thus were involved in a process of appropriation, redesigning and transformation of the modern. The history of modernism is also the history of people who made alterations to their houses in a desire for modernity under the influence of erudite architecture or fashion. In this respect, with the passing of years and the aging of the occupants, these houses began to be increasingly affected by experiences that originate from more remote times: they are embellished with an array of decorative and religious objects. This raises the issue of how to reflect on what is inhabited space, modernity and its relations with decorative elements. Thus the aim of this article is to gain access to this popular modern architecture through empirical observation and by means of the narrative accounts of their dwellers and builders. However, when dealing with modern architecture from the standpoint of the general public, different kinds of impacts put modernity in the limelight, whether through the picturesque, though a strong reaction against the action of time or from the accumulation of human experiences.'
+  abstract_en: 'Among the various expressions of popular architecture in the North-East of Brazil, attention should be drawn to the semi-residential houses (casas de meia morada )that are characterised by a façade consisting of a door, window and narrow frontage.In Alagoas, as in several other States in the country, there are clear signs of attempts being made to moderNise this architecture in the mid 1950s. This was the case in Quebrangulo and Palmeira dos Índios, small towns in a harsh barren region of Alagoas which have been selected as benchmarks for this study. Against the background of the 1950s, some features of modernist architecture were adapted by the dwellers of these houses. The fixture to the site The fact that the houses were wedged in a fixed site only allowed changes to be made to the façades where the addition of new features, such as mouldings and ledges, could only be carried out to strengthen its geometrical shape, while in the interior there were alterations with regard to coating and finishing measures which endowed them with a modern ambience. The dwellers and builders thus were involved in a process of appropriation, redesigning and transformation of the modern. The history of modernism is also the history of people who made alterations to their houses in a desire for modernity under the influence of erudite architecture or fashion. In this respect, with the passing of years and the aging of the occupants, these houses began to be increasingly affected by experiences that originate from more remote times: they are embellished with an array of decorative and religious objects. This raises the issue of how to reflect on what is inhabited space, modernity and its relations with decorative elements. Thus the aim of this article is to gain access to this popular modern architecture through empirical observation and by means of the narrative accounts of their dwellers and builders. However, when dealing with modern architecture from the standpoint of the general public, different kinds of impacts put modernity in the limelight, whether through the picturesque, though a strong reaction against the action of time or from the accumulation of human experiences.'
   keywords:
   - Arquitetura popular
   - Alagoas
@@ -1317,7 +1275,6 @@ artigos:
   section: Eixo C
   file: sdnne05-027.pdf
   file_original: b2d490_b7974288636f459ba09b71459fb6260e.pdf
-
 - id: sdnne05-028
   locale: pt-BR
   pages_count: 16
@@ -1365,7 +1322,6 @@ artigos:
   section: Eixo C
   file: sdnne05-028.pdf
   file_original: b2d490_af710faa0c2944949c53d7234ef5b237.pdf
-
 - id: sdnne05-029
   locale: pt-BR
   pages_count: 17
@@ -1438,7 +1394,6 @@ artigos:
   section: Eixo C
   file: sdnne05-029.pdf
   file_original: b2d490_321d59c2fa794027b9c06d7305068127.pdf
-
 - id: sdnne05-030
   locale: pt-BR
   pages_count: 17
@@ -1492,7 +1447,6 @@ artigos:
   section: Eixo C
   file: sdnne05-030.pdf
   file_original: b2d490_2cbd2e523c9a42979bf895c1e2b157c3.pdf
-
 - id: sdnne05-031
   locale: pt-BR
   pages_count: 7
@@ -1513,7 +1467,7 @@ artigos:
   - 'CAVALCANTI, Lauro e DO LAGO, André Corrêa. Ainda moderno?: arquitetura brasileira contemporânea. Rio de Janeiro: Editora Nova Fronteira, 2005.'
   - 'ACAYABA, Marlene Milan. Residências em São Paulo: 1947-1975. São Paulo: Editora Romano Guerra, 2011.'
   - ADRIÀ, Miquel; COMAS, Carlos Eduardo Dias. La casa latinoamericana moderna. 20 paradigmas de mediados del siglo XX. Editorial Gustavo Gili, Barcelona / México DF, 2003.
-  - 'BAHIA, Denise Marques. Assim caminha a modernidade... MDC - Revista de Arquitetura e Urbanismo, n.º 002, fev. 2006. p. 6. Revista Monolito número 18. Anuário da Editora Monolito 2013. p. 140-149. Revista AU Arquitetura e Urbanismo, número 231. Editora PINI, junho 2013. p. 34-39. Exposição “Nove Novos – Arquitetura emergente do Brasil”, organização DAM Deutsches Architekturmuseum, Frankfurt. 2013-2014. Seleção de obras IX Bienal Ibero-Americana. Disponível em: <http://www.bienalesdearquitectura.es/ index.php/es/resultados-biau2/obras-premiadas/4403-9bi-1492>. Acesso em 19 ago. 2014. Lauro Cavalcanti e André Corrêa do Lago. Ainda moderno? Arquitetura brasileira contemporânea. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404>. Acesso em 19 ago. 2014. Sede Administrativa do CREA: Mapa arquitetos. Disponível em: <http://mapaarq.com/175536/1275427//cre-sede-administrativa-crea>. Acesso em 20 ago. 2014. "Sede CREA-PB / MAPA" [CREA-PB Headquarters / MAPA] 19 Dec 2013. ArchDaily. Disponível em: <http://www.archdaily.com.br/161966/sede-crea-pb-mapa>. Acesso em 24 ago. 2014. 1º Lugar – Sede do CREA – Campina Grande – Paraíba. Disponível em: <http://concursosdeprojeto.org/2010/08/20/conc urso-crea-pb-01>. Acesso em 23 ago. 2014.'
+  - 'BAHIA, DeNise Marques. Assim caminha a modernidade... MDC - Revista de Arquitetura e Urbanismo, n.º 002, fev. 2006. p. 6. Revista Monolito número 18. Anuário da Editora Monolito 2013. p. 140-149. Revista AU Arquitetura e Urbanismo, número 231. Editora PINI, junho 2013. p. 34-39. Exposição “Nove Novos – Arquitetura emergente do Brasil”, organização DAM Deutsches Architekturmuseum, Frankfurt. 2013-2014. Seleção de obras IX Bienal Ibero-Americana. Disponível em: <http://www.bienalesdearquitectura.es/ index.php/es/resultados-biau2/obras-premiadas/4403-9bi-1492>. Acesso em 19 ago. 2014. Lauro Cavalcanti e André Corrêa do Lago. Ainda moderno? Arquitetura brasileira contemporânea. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404>. Acesso em 19 ago. 2014. Sede Administrativa do CREA: Mapa arquitetos. Disponível em: <http://mapaarq.com/175536/1275427//cre-sede-administrativa-crea>. Acesso em 20 ago. 2014. "Sede CREA-PB / MAPA" [CREA-PB Headquarters / MAPA] 19 Dec 2013. ArchDaily. Disponível em: <http://www.archdaily.com.br/161966/sede-crea-pb-mapa>. Acesso em 24 ago. 2014. 1º Lugar – Sede do CREA – Campina Grande – Paraíba. Disponível em: <http://concursosdeprojeto.org/2010/08/20/conc urso-crea-pb-01>. Acesso em 23 ago. 2014.'
   title: SEDE DO CREA–PARAÍBA
   subtitle: PERMANÊNCIA DA MODERNIDADE
   authors:
@@ -1526,7 +1480,6 @@ artigos:
   section: Eixo C
   file: sdnne05-031.pdf
   file_original: b2d490_57fd5245d08b49d28c38dc4fdc22774c.pdf
-
 - id: sdnne05-032
   locale: pt-BR
   pages_count: 17

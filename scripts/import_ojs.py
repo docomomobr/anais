@@ -3,10 +3,11 @@
 Importa XMLs no OJS via Native XML Plugin.
 
 Modos de operação:
-  --import   Importa XMLs faltantes (sessão fresca por XML)
-  --cleanup  Limpa issues duplicadas/vazias/parciais
-  --verify   Verifica estado atual (lista issues e contagens)
-  --dry-run  Apenas lista XMLs sem conectar
+  --import           Importa XMLs faltantes (sessão fresca por XML)
+  --cleanup          Limpa issues duplicadas/vazias/parciais
+  --verify           Verifica estado atual (lista issues e contagens)
+  --upload-galleys   Upload PDFs de edição completa como issue galleys
+  --dry-run          Apenas lista XMLs sem conectar
 
 Regras:
 - Sessão FRESCA para cada XML (evita rate limiting)
@@ -515,6 +516,149 @@ def cmd_import(env, expected, xml_dir, slug_filter=None):
         print('Use --verify para conferir estado e --import para tentar novamente.')
 
 
+REGION_MAP = {
+    'sdnne': 'regionais/nne',
+    'sdmg': 'regionais/se',
+    'sdrj': 'regionais/se',
+    'sdsp': 'regionais/se',
+    'sdsul': 'regionais/sul',
+    'sdbr': 'nacionais',
+}
+
+
+def find_volume_pdf(slug):
+    """Localiza o PDF do volume completo a partir do slug."""
+    db_path = os.path.join(BASE_DIR, 'anais.db')
+    conn = sqlite3.connect(db_path)
+    row = conn.execute('SELECT volume_pdf FROM seminars WHERE slug = ?', (slug,)).fetchone()
+    conn.close()
+    if not row or not row[0]:
+        return None
+    filename = row[0]
+    # Determinar diretório
+    for prefix, region_dir in REGION_MAP.items():
+        if slug.startswith(prefix):
+            # Caminhos possíveis: {region}/{slug}/pdfs/{filename} ou {region}/{slug}/{filename}
+            for subpath in [
+                os.path.join(region_dir, slug, 'pdfs', filename),
+                os.path.join(region_dir, slug, filename),
+                os.path.join(region_dir, filename),
+            ]:
+                full = os.path.join(BASE_DIR, subpath)
+                if os.path.isfile(full):
+                    return full
+    return None
+
+
+def upload_issue_galley(base_url, session, csrf, issue_id, filepath, label='Edição completa'):
+    """Upload PDF como issue galley. Retorna True se ok."""
+    # Step 1: Add galley entry
+    resp = session.post(
+        f'{base_url}/$$$call$$$/grid/issues/issue-galley-grid/add-galley',
+        data={
+            'csrfToken': csrf,
+            'issueId': issue_id,
+            'label': label,
+            'galleyLocale': 'pt_BR',
+        },
+        timeout=30,
+    )
+    if resp.status_code != 200:
+        return False, f'add-galley HTTP {resp.status_code}'
+
+    # Extrair galleyId da resposta
+    match = re.search(r'"issueGalleyId"[:\s]*"?(\d+)', resp.text)
+    if not match:
+        # Tentar outra forma de extrair o ID
+        match = re.search(r'galleyId[=&](\d+)', resp.text)
+    if not match:
+        return False, f'galleyId não encontrado na resposta add-galley'
+    galley_id = match.group(1)
+
+    # Step 2: Upload file
+    with open(filepath, 'rb') as f:
+        resp = session.post(
+            f'{base_url}/$$$call$$$/grid/issues/issue-galley-grid/upload-file',
+            data={
+                'csrfToken': csrf,
+                'issueId': issue_id,
+                'issueGalleyId': galley_id,
+            },
+            files={'uploadedFile': (os.path.basename(filepath), f, 'application/pdf')},
+            timeout=600,
+        )
+    if resp.status_code != 200:
+        return False, f'upload-file HTTP {resp.status_code}'
+
+    return True, f'galley {galley_id}'
+
+
+def cmd_upload_galleys(env, slug_filter=None):
+    """Upload PDFs de edição completa como issue galleys."""
+    base = env['url']
+    db_path = os.path.join(BASE_DIR, 'anais.db')
+    conn = sqlite3.connect(db_path)
+
+    # Buscar seminários com volume_pdf
+    if slug_filter:
+        rows = conn.execute(
+            "SELECT slug, volume_pdf FROM seminars WHERE slug = ? AND volume_pdf IS NOT NULL",
+            (slug_filter,)
+        ).fetchall()
+    else:
+        rows = conn.execute(
+            "SELECT slug, volume_pdf FROM seminars WHERE volume_pdf IS NOT NULL "
+            "AND slug NOT LIKE 'sdbr%' ORDER BY slug"
+        ).fetchall()
+    conn.close()
+
+    if not rows:
+        print('Nenhum seminário com volume_pdf encontrado.')
+        return
+
+    print(f'{len(rows)} seminários com edição completa\n')
+
+    # Login e listar issues
+    s, csrf = fresh_session(base, env['username'], env['password'])
+    all_issues = load_all_issues(base, s)
+    issue_map = {iss['slug']: iss['id'] for iss in all_issues}
+
+    for slug, volume_pdf in rows:
+        pdf_path = find_volume_pdf(slug)
+        if not pdf_path:
+            print(f'  {slug}: PDF não encontrado ({volume_pdf})')
+            continue
+
+        issue_id = issue_map.get(slug)
+        if not issue_id:
+            print(f'  {slug}: issue não encontrada no OJS')
+            continue
+
+        size_mb = os.path.getsize(pdf_path) / 1024 / 1024
+        if size_mb > 20:
+            print(f'  {slug}: PDF muito grande ({size_mb:.1f} MB > 20 MB limite), pulando')
+            continue
+
+        print(f'  {slug}: issue {issue_id}, {size_mb:.1f} MB ... ', end='', flush=True)
+
+        # Sessão fresca para cada upload
+        try:
+            s, csrf = fresh_session(base, env['username'], env['password'])
+        except Exception as e:
+            print(f'ERRO login: {e}')
+            break
+
+        ok, msg = upload_issue_galley(base, s, csrf, issue_id, pdf_path)
+        if ok:
+            print(f'OK ({msg})')
+        else:
+            print(f'ERRO: {msg}')
+
+        time.sleep(5)
+
+    print('\nUpload de galleys concluído.')
+
+
 PER_ARTICLE_DELAY = 15  # segundos entre artigos (mesmo issue, mais rápido)
 
 
@@ -652,6 +796,8 @@ def main():
     parser.add_argument('--dry-run', action='store_true', help='Apenas listar')
     parser.add_argument('--per-article', action='store_true',
                        help='Modo per-article: 1 XML por artigo (com PDF embutido)')
+    parser.add_argument('--upload-galleys', action='store_true',
+                       help='Upload PDFs de edição completa como issue galleys')
     args = parser.parse_args()
 
     env = ENVS[args.env]
@@ -682,6 +828,10 @@ def main():
 
     if args.cleanup:
         cmd_cleanup(env, expected)
+        return
+
+    if args.upload_galleys:
+        cmd_upload_galleys(env, args.slug)
         return
 
     if args.per_article:

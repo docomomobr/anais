@@ -1,30 +1,17 @@
-slug: sdnne02
-volume: 1
-number: 2
-evento:
-  titulo: 2º Seminário Docomomo Norte/Nordeste
-  tema: null
-  local: Salvador, BA
-  data: 2008
-  organizacao: []
-publicacao:
-  ficha_catalografica: '2° Seminário Docomomo Norte/Nordeste: anais [recurso eletrônico].
-
-    Salvador: [Editora], 2008.
-
-    '
-  isbn: null
-  editora: null
-  ano: 2008
-fontes:
-  docomomobrasil:
-    url: https://docomomobrasil.com/course/2-seminario-docomomo-n-ne-salvador-2008/
-    tipo: ZIP Google Drive
-  externa: null
-status: disponivel
-contato: null
-artigos:
-
+issue:
+  slug: sdnne02
+  title: 2º Seminário Docomomo Norte/Nordeste, Salvador, 2008
+  subtitle: 'Desafios da preservação: referências da arquitetura e do urbanismo modernos no Norte e Nordeste'
+  location: Salvador, BA
+  year: 2008
+  volume: 3
+  number: 2
+  publisher: Núcleo Docomomo BA.SE / UFBA
+  editors: []
+  description: '2° Seminário Docomomo Norte/Nordeste: anais: Desafios da preservação: referências da arquitetura e do urbanismo modernos no Norte e Nordeste [recurso eletrônico]. Salvador, BA: Núcleo Docomomo BA.SE; UFBA, 2008. Disponível também em: docomomobrasil.com/course/2-seminario-docomomo-n-ne-salvador-2008.'
+  source: https://docomomobrasil.com/course/2-seminario-docomomo-n-ne-salvador-2008/
+  date_published: '2008-06-04'
+articles:
 - id: sdnne02-001
   titulo: A consolidação do Moderno
   subtitulo: análise da obra do arquiteto Maurício Castro
@@ -58,7 +45,6 @@ artigos:
   - 'SILVA, Geraldo Gomes da et alli. DELFIM Amorim Arquiteto. Instituto dos Arquitetos do Brasil / Departamento Pernambuco (IAB-PE). Recife : 1981.'
   - SILVA, Geraldo Gomes. Delfim Amorim. Um Modernista Português no Recife. Revista AU, São Paulo, nº 57, p.71-79. Dez. 94 / Jan. 95.
   arquivo_original: AF_Adriana Freire.pdf
-
 - id: sdnne02-002
   titulo: Os recursos da modernidade na obra de arquitetos em Recife, nos anos 50
   subtitulo: null
@@ -92,7 +78,6 @@ artigos:
   - 'PIÑON, Helio. El sentido de la arquitectura moderna. Barcelona: Ediciones UPC.1997.'
   - 'ROWE, Colin. Manierismo y Arquitectura Moderna y otros ensayos. Barcelona: Gustavo Gili.1ª. edición.1978'
   arquivo_original: AF_Alcília Afonso_1.pdf
-
 - id: sdnne02-003
   titulo: A produção arquitetônica moderna dos primeiros discípulos de uma Escola
   subtitulo: null
@@ -117,7 +102,6 @@ artigos:
   - projetos modernos
   referencias: null
   arquivo_original: AF_Alcília Afonso_2.pdf
-
 - id: sdnne02-004
   titulo: Fórum Judiciário e Anexo contemporâneo realizado por Acácio Gil Borsoi
   subtitulo: null
@@ -153,7 +137,6 @@ artigos:
   - ____. Fórum Judiciário em Teresina. Acácio Gil Borsoi ( Fórum).IN Setembro de 1981,pp 32-36
   - Revista Projeto . n° 33.
   arquivo_original: AF_Ana Negreiros.pdf
-
 - id: sdnne02-005
   titulo: Bahia – um outro modernismo
   subtitulo: paralelo e escamoteado
@@ -219,7 +202,7 @@ artigos:
   - 'SCHLEE, Andrey Rosenthal. O ecletismo na arquitetura pelotense até as décadas de 30 e 40. Porto Alegre: PROPAR, 1993. (Dissertação).'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1997.'
   - SEGAWA, Hugo. Brazilian Architecture School e outras medidas, Projeto, São Paulo, n. 53, pp. 7073, 1983.
-  - 'SEGAWA, Hugo. Hélio Duarte (1906-1989): moderno e peregrino. Projeto, São Paulo, n. 131, pp. 5154, 1990.'
+  - 'SEGAWA, Hugo. Hélio Duarte (1906-1989): moderno e peregRino. Projeto, São Paulo, n. 131, pp. 5154, 1990.'
   - SEGAWA, Hugo. O herói desconhecido da moderna arquitetura brasileira, Projeto, São Paulo, n. 96, pp. 59-64, 1987.
   - 'SEGRE, Roberto. América Latina, fim de milênio, raízes e perspectivas de sua arquitetura. São Paulo: Nobel, 1991.'
   - SMITH, Robert C. Antonio José Landi, um arquitecto italiano do século XVIII, no Brasil. In. III Colóquio Internacional de Estudos Luso-Brasileiros. Actas. v. II. Lisboa, 1960.
@@ -230,7 +213,6 @@ artigos:
   - SMITH, Robert C. Urbanismo colonial no Brasil. Arquitetura, Rio de Janeiro, n.55, 1967.
   - SMITH, Robert C. Urbanismo colonial no Brasil. In. Arquitetura e Urbanismo. Departamento de Arquitetura Urbanismo/UnB, s.d.
   arquivo_original: AF_Andrey Rostenhal e Sylvia Ficher.pdf
-
 - id: sdnne02-006
   titulo: Raiz amarga
   subtitulo: a tradição vernácula da arquitetura do Movimento Moderno
@@ -293,7 +275,6 @@ artigos:
   - 'ROMERO, Alicia; GIMÉNEZ, Marcelo "Arquitectura Italiana de Postguerra". In: ROMERO, Alicia (org.). De Artes y Pasiones. Buenos Aires: 2005, consulta em 10/03/08, em: www.deartesypasiones.com.ar'
   - 'ZEIN, R. V. ; LIMA, Ana Gabriela Godinho ; BRUNA, P. ; COMAS, C. E. D. ; GAETA, J. ; Fernández, C. C. . “The sameness x the otherness: What does a global education drive for?”. In: Architectural Education Forum 3, 2006, Istanbul. Proceedings of the Architectural Education Forum 3.. Istanbul, 2006. v. 1.'
   arquivo_original: AF_Cecília Santos e Ana Gabriela Lima.pdf
-
 - id: sdnne02-007
   titulo: A preservação do patrimônio moderno
   subtitulo: Critérios e valores
@@ -335,7 +316,6 @@ artigos:
   - 'PIÑON, Helio. Teoria do Projeto. Porto Alegre: Livraria do Arquiteto, 2006.'
   - 'RIEGL, Aloïs. Le culte moderne des monuments: son essence et sa génese. Paris: Éditions du Seuil, 1984.'
   arquivo_original: AF_Celia Gonsalves.pdf
-
 - id: sdnne02-008
   titulo: PRESERVAÇÃO DA ARQUITETURA MODERNA
   subtitulo: O CASO DA RESIDÊNCIA UNIVERSITÁRIA NA UFC
@@ -377,7 +357,6 @@ artigos:
   - DIÓGENES, Beatriz Helena Nogueira, et al. Liberal de Castro – Documento. Arquitetura & Urbanismo, São Paulo, ano 11, n.65, p.74-82, PINI, 1996.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 2002.'
   arquivo_original: AF_Cibele Taralli_Magda Campêlo.pdf
-
 - id: sdnne02-009
   titulo: Dos mosaicos às curvas
   subtitulo: a estética modernista na Arquitetura residencial de Belém
@@ -420,7 +399,6 @@ artigos:
   - 'VENTURI, Robert. Complejidad y contradicción en la arquitectura. Barcelona: Gustavo Gili, 1995.'
   - VICENTINI, Yara. Cidade e História na Amazônia. 1994. 450 f.Tese (Doutorado em Planejamento Urbano) - Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo, São Paulo, 1994.
   arquivo_original: AF_Cybelle Miranda e Ronaldo Carvalho.pdf
-
 - id: sdnne02-010
   titulo: Edifício dos arquitetos da Bahia – uma crítica como obra de arte
   subtitulo: null
@@ -456,7 +434,6 @@ artigos:
   - 'LYOTARD, Jean-François, A Fenomenologia. Lisboa: Edições 70 Ltda., 1999.'
   - NUNES, Elza Gaeta Paes. Sede do IAB na Bahia. A.C. Arquitetura, 1966.
   arquivo_original: AF_Daniel Paz.pdf
-
 - id: sdnne02-011
   titulo: Casa do Arquiteto
   subtitulo: null
@@ -481,7 +458,6 @@ artigos:
   - Projeto Arquitetônico
   referencias: null
   arquivo_original: AF_Danielle Menezes.pdf
-
 - id: sdnne02-012
   titulo: Para inglês ver
   subtitulo: uma análise do regionalismo global
@@ -530,7 +506,6 @@ artigos:
   - U.I.A. UNION INTERNATIONALE DES ARCHITECTES. Congrès de l'U.I.A. Paris 1965. Paris, No. spécial de la Revue de l'U.I.A., 1965.
   - VIOLEAU, Jean-Louis Violeau, les architectes et Mai 68, éditions recherches, Paris,2005.
   arquivo_original: AF_Fernando Lara e Sônia Marques.pdf
-
 - id: sdnne02-013
   titulo: Wandenkolk Tinoco
   subtitulo: experimentação de um novo conceito de moradia nos anos 70
@@ -589,7 +564,6 @@ artigos:
   - TOLEDO, Roberto Pompeu de. O elevador, esse injustiçado. Veja, São Paulo, 1542, p.134, 15 abr. 1998.
   - 'TZONIS, Alexander, LEFAIVRE, Liliane. Why Critical Regionalism Today? In: Architecture and Urbanism, nº 236, maio, 1990. P. 22-23.'
   arquivo_original: AF_Fernando Moreira e Ana Carolina Freire_1.pdf
-
 - id: sdnne02-014
   titulo: Arte e ética dos materiais na obra de Vital Pessoa de Melo, 19681982
   subtitulo: null
@@ -656,7 +630,6 @@ artigos:
   - 'ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). In: Arquitextos Vitruvius 84, 2007. Disponível em: http://www.vitruvius. com.br/arquitextos/arq084/ arq084_00.asp. Acesso em: 02 de novembro de 2007.'
   - '______. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. In Arquitextos Vitruvius 76.2 Setembro 2006. Disponível em http://www.vitruvius.com.br/ arquitextos/arq076/arq076_02.asp. Acesso em: 26 de novembro de 2007.'
   arquivo_original: AF_Fernando Moreira e Ana Carolina Holanda_2.pdf
-
 - id: sdnne02-015
   titulo: Arquitetura da Base Aérea de Natal na 2ª Guerra Mundial
   subtitulo: null
@@ -715,7 +688,6 @@ artigos:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. - 2. ed. 1.reimpr. - São Paulo: Editora da Universidade de São Paulo, 2002.'
   - 'VIVEIROS, Paulo P. de. História da aviação no Rio Grande do Norte. Natal: EDUFRN, 1974. p. 21.'
   arquivo_original: AF_Graciete da Costa_Andrey Rosenthal_Antonio Rodrigues.pdf
-
 - id: sdnne02-016
   titulo: Permanências modernistas na Praça Sinimbú — Maceió
   subtitulo: em análise e proposta de Preservação
@@ -740,7 +712,6 @@ artigos:
   - arquitetura moderna
   referencias: null
   arquivo_original: AF_Josemary Ferrare.pdf
-
 - id: sdnne02-017
   titulo: Hélio Modesto em Fortaleza. Ressonância e resistibilidade do Urbanismo Moderno
   subtitulo: null
@@ -790,7 +761,6 @@ artigos:
   - 'SALES, José Albio Moreira de. O desenho da cidade moderna em Fortaleza: um estudo dos planos Saboya Ribeiro e Hélio Modesto. Dissertação de Mestrado em Desenvolvimento Urbano. Universidade Federal de Pernambuco, UFPE, 1997.'
   - '______. Fortaleza anos 50: uma história da arte como história da cidade. Tese de Doutorado em História. Universidade Federal de Pernambuco, UFPE, 2002. *'
   arquivo_original: AF_José Almir Farias Filho.pdf
-
 - id: sdnne02-018
   titulo: Influências modernas na arquitetura residencial em Teresina — PI
   subtitulo: null
@@ -824,7 +794,6 @@ artigos:
   - 'SEGAWA, Hugo. Arquitetura do Brasil. 1900-1990. São Paulo: EDUSP,1998.'
   - 'XAVIER, Alberto. Arquitetura Moderna no Rio de Janeiro. SP: PINI: Fundação Vilanova Artigas; RJ: Rioarte, 1991.'
   arquivo_original: AF_Jéssica Santos.pdf
-
 - id: sdnne02-019
   titulo: VALIDANDO A PRESERVAÇÃO
   subtitulo: O FATOR LUGAR
@@ -898,14 +867,13 @@ artigos:
   - 'WHYTE, William Hollingsworth (1990). The Social Life of Small Urban Spaces. 8ª ed. Washington DC: The Conservation Foundation.'
   - 'ZUKIN, Sharon. Paisagens Urbanas Pós-Modernas: Mapeando Cultura e Poder. Tradução: Silvana Rubino. In: Revista do Patrimônio Histórico e Artístico Nacional: Cidadania. Nº 24, 1996, p. 205-219.'
   arquivo_original: AF_Lineu Castelli e Marcos Petroni.pdf
-
 - id: sdnne02-020
   titulo: Simulação do processo de tombamento do Instituto de Antibióticos da Universidade Federal de Pernambuco (UFPE) de Mário Russo
   subtitulo: null
   autores:
   - givenname: Roberta Lílian Bezerra
     familyname: Smith
-    email: marcelofreitas.5sr@iphan.gov.br
+    email: Marcelofreitas.5sr@iphan.gov.br
     affiliation: FAUPE
     bio: Arquiteta graduada pelas Faculdades Unidas de Pernambuco (FAUPE)
     country: BR
@@ -940,14 +908,13 @@ artigos:
   - RUSSO, Mário. Cidade Universitária do Recife. Acrópole, n. 213, p.349-363, junho, 1956.
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1998.'
   arquivo_original: AF_Marcelo Freitas e Roberta Smith2.pdf
-
 - id: sdnne02-021
   titulo: Estudo para a preservação da arquitetura moderna na cidade do Recife (1930 a 1960)
   subtitulo: null
   autores:
   - givenname: Roberta Lílian Bezerra
     familyname: Smith
-    email: marcelofreitas.5sr@iphan.gov.br
+    email: Marcelofreitas.5sr@iphan.gov.br
     affiliation: FAUPE
     bio: Arquiteta graduada pelas Faculdades Unidas de Pernambuco (FAUPE).
     country: BR
@@ -989,7 +956,6 @@ artigos:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1998.'
   - 'SILVA, Geraldo Gomes da. Marcos da arquitetura moderna em Pernambuco. In: SEGAWA, Hugo (org.). Arquiteturas no Brasil/ anos 80. Projeto, São Paulo, p. 19-27, 1988.'
   arquivo_original: AF_Marcelo Freitas e Roberta Smith_1.pdf
-
 - id: sdnne02-022
   titulo: Recife e Rio de Janeiro
   subtitulo: influências na produção da Arquitetura Moderna em Natal
@@ -1038,7 +1004,6 @@ artigos:
   - 'SILVA, Geraldo Gomes da et al. Delfim Amorim arquiteto. Recife: Instituto de Arquitetos do Brasil/Departamento Pernambuco (IAB-PE), 1981.'
   - 'VILANOVA ARTIGAS, João B. Caminhos da arquitetura. São Paulo: Livraria Editora Ciências Humanas Ltda, 1981.'
   arquivo_original: AF_Marizo Pereira e Paulo Nobre_1.pdf
-
 - id: sdnne02-023
   titulo: Modernismo na Província
   subtitulo: a apropriação local do ideário modernista no projeto do terminal rodoviário Presidente Kennedy
@@ -1092,7 +1057,6 @@ artigos:
   - 'ROBBA, Fabio, MACEDO, Silvio Soares. Praças Brasileiras. São Paulo: Edusp, 2002.'
   - 'SOUZA, Itamar de. Nova História de Natal – Fascículo nº 07. Natal: Diário de Natal, 2001.'
   arquivo_original: AF_Marizo Pereira e Paulo Nobre_2.pdf
-
 - id: sdnne02-024
   titulo: Vila Amazonas e Vila Serra do Navio. Por que tombar?
   subtitulo: null
@@ -1117,7 +1081,6 @@ artigos:
   - arquitetura moderna paulista
   referencias: null
   arquivo_original: AF_Mônica Camargo.pdf
-
 - id: sdnne02-025
   titulo: A máquina de armazenar e o ingresso da Bahia na modernidade
   subtitulo: null
@@ -1145,7 +1108,7 @@ artigos:
   - '____. Henry-Russell Hitchcock e o conceito de Estilo Internacional. Estilo, formalismo e a construção do discurso historiográfico na modernidade. Rio de Janeiro: EBA/UFRJ, 2005. Tese de doutorado.'
   - '____. A teoria como projeto. Argan, Greenberg, Hitchcock. Rio de Janeiro: Jorge Zahar Editor, 2007.'
   - 'CAMPOS, Vitor José Baptista. O Art Déco e a construção do imaginário moderno: um estudo de linguagem arquitetônica. São Paulo: FAU-USP, 2003. Tese de doutorado.'
-  - 'CHOAY, Françoise. L’urbanisme. Utopies et realités. Paris: Seuil, 1965. trad. it. La città. Utopie e realtà. Torino: Einaudi, 1973.'
+  - 'CHOAY, Françoise. L’urbanisme. Utopies et realités. Paris: Seuil, 1965. trad. it. La città. Utopie e realtà. ToRino: Einaudi, 1973.'
   - 'COHEN, Jean-Louis; DAMISCH, Hubert (org.). Americanisme et modernité. Paris: EHESS – Flammarion,1993.'
   - 'CONDE, Luís Paulo; ALMADA, Mauro. Guia da arquitetura Art Déco do Rio de Janeiro. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro. Secretaria Municipal de Urbanismo, 1996.'
   - 'COSTA, Renato da Gama-Rosa. Salas de cinema Art Déco no Rio de Janeiro: a conquista de uma identidade arquitetônica (1928-1941). Rio de Janeiro: UFRJ/FAU/PROURB, 1998. Dissertação de mestrado.'
@@ -1168,7 +1131,6 @@ artigos:
   - 'TOURNIKIOTIS, Panayotis. The historiography Massachusetts; London: The MIT Press, 1999.'
   - 'UNES, Wolney. Identidade Art Déco de Goiânia. São Paulo: Ateliê Editorial; Goiânia: Editora da'
   arquivo_original: AF_Paula de Paoli.pdf
-
 - id: sdnne02-026
   titulo: Modernidade revisada
   subtitulo: o projeto de Lina Bo Bardi para o Centro Histórico de Salvador
@@ -1219,7 +1181,7 @@ artigos:
   - GIOVANNONI, Gustavo. Proposte di sistemazione edilizia del quartiere del rinascimento in Roma, 1916.
   - '________. Questioni di architettura nella storia e nella vita. Roma: Società Editrice d´Arte Illustrata, 1925.'
   - '________. Vecchie città ed edilizia nuova. In: Nuova Antologia, 1913, p.450.'
-  - '________. Vecchie città ed edilizia nuova. Torino: Editrice Torinese, 193.'
+  - '________. Vecchie città ed edilizia nuova. ToRino: Editrice Torinese, 193.'
   - 'GOMES, Marco A de Filgueiras (org.) Pelo Pelô. História Cultura e cidade. Salvador: EDUFBA, 1995.'
   - 'LATORRACA, Giancarlo (org.). João Filgueiras Lima. Portugal: Editora Blau/ Instituto Lina Bo e P. M. Bardi, 2000.'
   - 'LE GOFF, Jacques. História e Memória. Campinas: Editora Unicamp, 2003.'
@@ -1246,7 +1208,7 @@ artigos:
   - 'RUBINO, Silvana Barbosa. Rotas da Modernidade: trajetória, campo e história na atuação de Lina Bo Bardi, 1947-1968. Tese de Doutorado (Departamento de Antropologia na FFLCH - Unicamp). Campinas, 2002.'
   - SANTOS, Cecília Rodrigues. Assim, nas bordas e por dentro, os ratos foram roendo toda nossa cidade da Bahia. Revista Projeto, n.142, jan-fev/1992, p.56
   - 'SCHULZ, Christian Norberg. Genius Loci. Paesaggio. Ambiente. Architettura. Milão: Electa, 1992. SOLÀ-MORALES, Ignasi. Inscripciones. Barcelona: G. Gilli, 2003.'
-  - 'TAFURI, Manfredo. Storia dell´architettura italiana (1944-1985). Torino: Giulio Einaudi Editore, 1982.'
+  - 'TAFURI, Manfredo. Storia dell´architettura italiana (1944-1985). ToRino: Giulio Einaudi Editore, 1982.'
   - 'WIPLI, Mônica. Intervenções urbanas em Centros Históricos. Estudo de Caso: cidade de Salvador. Dissertação de Mestrado apresentada na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP). São Paulo, 2001.'
   - 'WISNIK, Guilherme. Lina Bo Bardi: a interpretação cultural do Brasil ‘pós-Brasília´ Folha de São Paulo (Caderno Ilustrada), 11 de janeiro de 2006.'
   - ZEVI, Bruno. Contro oghi teoria dell´ambientamento. L´Architettura Cronache e Storia, n.118, 1965, pp.212-13.
@@ -1255,7 +1217,6 @@ artigos:
   - 'ZUCCONI, Guido. La città contesa: dagli ingegneri sanitari agli urbanisti (1885-1942). Milão: Jaca Book, 1989.'
   - '________. Lá citta contesa: dagli ingegneri sanitari agli urbanisti (1885-1942). Milano: Editoriale Jaca Book, 1989.'
   arquivo_original: AF_Raíssa de Oliveira.pdf
-
 - id: sdnne02-027
   titulo: Caminhos da Arquitetura Moderna em Fortaleza
   subtitulo: a contribuição do arquiteto Acácio Gil Borsoi
@@ -1288,7 +1249,6 @@ artigos:
   - Fortaleza
   referencias: null
   arquivo_original: AF_Ricardo Paiva e Beatriz Diógenes.pdf
-
 - id: sdnne02-028
   titulo: O Racionalismo Europeu
   subtitulo: Art Déco e Ecletismo, na construção da Avenida Magalhães de Almeida
@@ -1344,7 +1304,6 @@ artigos:
   - www.vitruvius.com.br www.urban.instce.pt
   - www.docomomo.com www.fau.usp.br
   arquivo_original: AF_Rodrigo Feitosa e Grete Pflueger.pdf
-
 - id: sdnne02-029
   titulo: Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna
   subtitulo: null
@@ -1391,7 +1350,6 @@ artigos:
   - 'UNESCO. 2000. Patrimônio Mundial no Brasil. Brasília: Caixa Econômica Federal/UNESCO. VARINE-BOHAN, Hughes. 1975. Patrimônio cultural – A experiência internacional. Notas de aula. São Paulo: FAU/USP. VIOLLET-LE-DUC, Eugène E. 2000. Restauração. São Paulo: Ateliê Editorial.'
   - 'ZEIN, Ruth Verde. 2002. O lugar da crítica. Porto Alegre: Ritter dos Reis.'
   arquivo_original: AF_Ruth Zein e Anita Marco.pdf
-
 - id: sdnne02-030
   titulo: Campos opostos
   subtitulo: trabalhos e viagens de Viana de Lima no Brasil
@@ -1454,7 +1412,6 @@ artigos:
   - TELLES, Augusto da Silva “Viana de Lima e o Brasil” in SECCA, Amândio e ALMEIDA, Pedro Vieira de (Org.) Viana de Lima. Arquitecto 1913-1991. Lisboa, Fundação Calouste Gulbenkian, Árvore - Centro de Actividades Artísticas, CRL, 1996.
   - 'XAVIER, Alberto (Org.) Depoimento de Uma Geração. Arquitectura Moderna Brasileira. São Paulo: Cosac & Naify, Edição revista e ampliada, 2003.'
   arquivo_original: AF_Tania Beisl e Madalena Cunha.pdf
-
 - id: sdnne02-031
   titulo: As dificuldades na preservação da arquitetura moderna
   subtitulo: Reconstrução virtual da Casa David Cortelazzi em Teresina
@@ -1490,7 +1447,6 @@ artigos:
   - 'XAVIER, Alberto, BRITO, Alfredo e NOBRE, Ana Luiza. Arquitetura moderna no Rio de Janeiro. São Paulo:Pini: Fundação Vilanova Artigas; Rio de Janeiro: Rioarte, 1991.'
   - XAVIER,Alberto. Depoimentos de uma geração. São Paulo, Cosac & Naify, 1988.
   arquivo_original: AF_Valério Silva.pdf
-
 - id: sdnne02-032
   titulo: A Arquitetura Moderna em Maceió, Alagoas
   subtitulo: Perspectivas de Preservação
@@ -1523,7 +1479,6 @@ artigos:
   - Modernidade
   referencias: null
   arquivo_original: AF_Vanine Borges e Josemary Ferrare.pdf
-
 - id: sdnne02-033
   titulo: Autoridades, emendas, paradoxos e peculiaridades preservação do patrimônio arquitetônico moderno
   subtitulo: null

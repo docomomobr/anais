@@ -1,23 +1,24 @@
-slug: sdsul06
-title: 6º Seminário Docomomo Sul
-subtitle: O moderno e reformado
-description: 'Anais do VI Seminário Docomomo Sul: o moderno e reformado. Debatendo o projeto do B. 1920-2019. Parte I. Promovido pelo PROPAR-UFRGS, curso de Arquitetura e Urbanismo da Unisinos e DOCOMOMO Núcleo RS. Porto Alegre: Marcavisual, 2019. ISBN 978-85-61965-77-8.'
-year: 2019
-volume: 6
-number: 6
-date_published: '2019-11-07'
-editors:
-- Carlos Eduardo Comas
-- Marta Peixoto
-publisher: Marcavisual
-isbn: 978-85-61965-77-8
-location: Porto Alegre, RS
-source: https://www.ufrgs.br/propar/publicacoes.htm
-sections:
-- title: Artigos Completos
-  abbrev: AC-sdsul06
+issue:
+  slug: sdsul06
+  title: 6º Seminário Docomomo Sul, Porto Alegre, 2019
+  subtitle: 'O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I'
+  location: Porto Alegre, RS
+  year: 2019
+  volume: 4
+  number: 6
+  isbn: 978-85-61965-77-8
+  publisher: Núcleo Docomomo RS / Marcavisual
+  editors:
+  - Carlos Eduardo Comas
+  - Marta Peixoto
+  volume_pdf: sdsul06_anais.pdf
+  description: '6° Seminário Docomomo Sul: anais: O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre, RS: Marcavisual, 2019. Disponível também em: www.ufrgs.br/propar/publicacoes.htm. ISBN: 978-85-61965-77-8.'
+  source: https://www.ufrgs.br/propar/publicacoes.htm
+  date_published: '2019-11-07'
+  sections:
+  - title: Artigos Completos
+    abbrev: AC-sdsul06
 articles:
-
 - id: sdsul06-001
   locale: pt-BR
   arquivo_pdf: sdsul06-001.pdf
@@ -29,7 +30,7 @@ articles:
   - Preexistência
   - Porto Alegre
   referencias:
-  - 'ALBRECHT, Fernando. Da Guaspari para Lebes.21 ago. 2017ª.Jornal do Comércio <https://www.jornaldocomercio.com/_conteudo/2017/07/colunas/comeco_de_conversa/5750 12-da-guaspari-para-lebes.html>. Acesso em: 22 set. 2019.'
+  - 'ALBRECHT, Fernando. Da Guaspari para Lebes.21 ago. 2017ª.Jornal do Comércio <https://www.jornaldocomercio.com/_conteudo/2017/07/colunas/comeco_de_conversa/5750 12-da-Guaspari-para-lebes.html>. Acesso em: 22 set. 2019.'
   - 'APPLETON, J.A. Reabilitação de edifícios antigos: patologias e tecnologias de intervenção – 2ª Edição. Editora Orion, 2011.'
   - BATAIOLI da Silva, Alexandre. Edifício Guaspari - Uma sobreposição de tempos. Uniritter (Dissertação de Mestrado programa de pós-graduação em arquitetura e urbanismo mestrado associado Uniritter/Mackenzie), Porto Alegre, 2019.
   - 'BUENO, Eduardo. Porto Alegre na vitrine: memória do comércio varejista da capital gaúcha, Edição comemorativa dos 75 anos do Sindicato dos Lojistas de Porto Alegre (Sindilojas), 2012.'
@@ -79,7 +80,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-002
   locale: pt-BR
   arquivo_pdf: sdsul06-002.pdf
@@ -118,7 +118,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-003
   locale: pt-BR
   arquivo_pdf: sdsul06-003.pdf
@@ -170,7 +169,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-004
   locale: pt-BR
   arquivo_pdf: sdsul06-004.pdf
@@ -224,7 +222,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-005
   locale: pt-BR
   arquivo_pdf: sdsul06-005.pdf
@@ -248,7 +245,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-006
   locale: pt-BR
   arquivo_pdf: sdsul06-006.pdf
@@ -301,7 +297,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-007
   locale: pt-BR
   arquivo_pdf: sdsul06-007.pdf
@@ -354,7 +349,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-008
   locale: pt-BR
   arquivo_pdf: sdsul06-008.pdf
@@ -404,7 +398,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-009
   locale: pt-BR
   arquivo_pdf: sdsul06-009.pdf
@@ -463,7 +456,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-010
   locale: pt-BR
   arquivo_pdf: sdsul06-010.pdf
@@ -518,7 +510,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-011
   locale: pt-BR
   arquivo_pdf: sdsul06-011.pdf
@@ -539,7 +530,7 @@ articles:
   - 'BIANCHI, Sebastián; PÉREZ, Lorena. Guillermo Jullian. La paleta del arquitecto. ARQ, n. 70 Arte / Arquitectura - Art / Architecture, Santiago, diciembre, 2008, p. 74-81. Disponível em: <https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-69962008000300016#n6> Acesso em: 5 set. 2019.'
   - 'CAMPELLO, Glauco. O projeto para a embaixada da França em Brasília. In: Modulo: Revista de Arquitetura e Artes Plasticas. Rio de Janeiro n.96 (nov.1987), p.31-41 : il.'
   - 'CHATEAU, Francisco. Yellow Peripherical Distinction. Guillermo Jullian en el encuentro del Team X en Berlin, 1973. Revista Masillia, Annuarie des L''Études Corbusiennes. ARQ Ediciones / PUC-Chile: Santiago, Chile, 2007, p. 76-89. Disponível em: <https://upcommons.upc.edu/bitstream/handle/2099/9493/2007_90.pdf?sequence=1&isAllowed =y>. Acesso em: 5 ago. 2019.'
-  - 'CHIARELLI, Silvia Raquel. Le Corbusier: embaixada da França, Brasília. 2018. 135 f. Tese (Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo. Disponível em: <http://tede.mackenzie.br/jspui/handle/tede/3484>. Acesso em: 5 ago. 2019.'
+  - 'CHIARELLI, Silvia Raquel. Le Corbusier: embaixada da França, Brasília. 2018. 135 f. Tese (Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo. Disponível em: <http://tede.Mackenzie.br/jspui/handle/tede/3484>. Acesso em: 5 ago. 2019.'
   - 'COLL, Jaime. Mat-building. In: Mat-Building. DPA 27/28. Edicions del Departament de Projectes, ETSAB Barcelona, 2011.'
   - 'COSTA, Claudia Puzzuoli dos Santos. Os estudos conceituais do Yellow Peripherical Distinction nos edifícios habitacionais de Brasilia de Guillermo Jullian. Arquitextos, 162.01ano 14, nov. 2013. Disponível em: <http://t.vitruvius.com.br/revistas/read/arquitextos/14.162/4957>. Acesso em: 5 ago. 2019.'
   - 'DI MATTEO, Colette. O projeto de 1972 e a construção da Embaixada. In: DI MATTEO, Colette; TIDORI, Jean-Martin (org.). Embaixada da França / L''Ambassa de de France: Brasília. São Paulo: Imprensa Oficial do Estado de São Paulo, Instituto Totem Cultural, 2009.'
@@ -573,7 +564,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-012
   locale: pt-BR
   arquivo_pdf: sdsul06-012.pdf
@@ -597,7 +587,7 @@ articles:
   - 'LEÃO, Sílvia Lopes Carneiro; SANVITTO, Maria Luíza Adams. Opacidade e transparência nas residências do Brutalismo Paulista. In COMAS, Carlos Eduardo; MARQUES, Sergio (orgs.). A Segunda Idade do Vidro – Transparência e Sombra na Arquitetura Moderna do Cone Sul Americano – 1930/1970. Porto Alegre: Ed. UniRitter, 2007.'
   - LUCCAS, Luís Henrique Haas. A escola carioca e a arquitetura moderna em Porto Alegre. Portal Vitruvius, Texto Especial 370 – junho 2006.
   - 'LUCCAS, Luís Henrique Haas. "O sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50." Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível am <http://www.revistas.usp.br/posfau/article/view/43680>. Acesso em 05 março 2019.'
-  - 'LUZ, Maturino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura. São Leopoldo: Unisinos, 2001.'
+  - 'LUZ, MatuRino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura. São Leopoldo: Unisinos, 2001.'
   - 'MARQUES, Sergio. Fayet, Araújo & Moojen: arquitetura moderna brasileira no sul - 1950 / 1970. Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2012.'
   - 'MOORE, Charles; ALLEN, Gerald; LYNDON, Donlyn. La casa: forma y diseño. Barcelona: GG, 1977.'
   - 'PEIXOTO, Marta S. A sala bem temperada: interior moderno e sensibilidade eclética. Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2006.'
@@ -621,7 +611,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-013
   locale: pt-BR
   arquivo_pdf: sdsul06-013.pdf
@@ -665,7 +654,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-014
   locale: pt-BR
   arquivo_pdf: sdsul06-014.pdf
@@ -708,7 +696,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-015
   locale: pt-BR
   arquivo_pdf: sdsul06-015.pdf
@@ -750,7 +737,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-016
   locale: pt-BR
   arquivo_pdf: sdsul06-016.pdf
@@ -792,7 +778,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-017
   locale: pt-BR
   arquivo_pdf: sdsul06-017.pdf
@@ -830,7 +815,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-018
   locale: pt-BR
   arquivo_pdf: sdsul06-018.pdf
@@ -867,7 +851,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-019
   locale: pt-BR
   arquivo_pdf: sdsul06-019.pdf
@@ -901,7 +884,7 @@ articles:
   - 'PERRIAND, Charlotte. Une vie de création. Paris: Odile Jacob, 1998.'
   - PERRIAND, Charlotte. 'Wood or Metal?', TheStudio, vol. 97, 1929.
   - 'PUENTE, Moisés. Pavilhões de exposição – 100 anos. Barcelona: Gustavo Gili, 2000. Revista Die Form. Ano 1928. Revista L’Esprit Nouveua. Volume 1 ao 28.'
-  - 'RÜEGG, Arthur. Furniture and interiors: 1923 – 1925 – 1928. In: Villa La Rocca. Paris: Fundação Le Corbusier. FLC-ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009. UDOVICKI-SELB, Danilo. The elusive faces of modernity: the invention of the 1937 Paris exhibition and the Temps Nouveaux Pavilion. Tese de doutourado em filosofia no campo da arquitetura, arte e estudos ambientais. Cambrige: MIT, 1995.'
+  - 'RÜEGG, Arthur. Furniture and interiors: 1923 – 1925 – 1928. In: Villa La Rocca. Paris: Fundação Le Corbusier. FLC-ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009. UDOVICKI-SELB, Danilo. The elusive faces of modernity: the invention of the 1937 Paris exhIBITion and the Temps Nouveaux Pavilion. Tese de doutourado em filosofia no campo da arquitetura, arte e estudos ambientais. Cambrige: MIT, 1995.'
   seminario: sdsul06
   titulo: Pavilhão Aviação S.T.A.R.
   subtitulo: uma estrela pouco conhecida na constelação de obras sobre Le Corbusier
@@ -915,7 +898,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-020
   locale: pt-BR
   arquivo_pdf: sdsul06-020.pdf
@@ -957,7 +939,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-021
   locale: pt-BR
   arquivo_pdf: sdsul06-021.pdf
@@ -1012,7 +993,6 @@ articles:
     country: BR
     primary_contact: false
   status: pendente_revisao
-
 - id: sdsul06-022
   locale: pt-BR
   arquivo_pdf: sdsul06-022.pdf
@@ -1048,7 +1028,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-023
   locale: pt-BR
   arquivo_pdf: sdsul06-023.pdf
@@ -1077,7 +1056,6 @@ articles:
     country: BR
     primary_contact: true
   status: pendente_revisao
-
 - id: sdsul06-024
   locale: pt-BR
   arquivo_pdf: sdsul06-024.pdf
@@ -1089,7 +1067,7 @@ articles:
   - vanguarda
   referencias:
   - 'AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976.'
-  - 'ARIAS INCOLLÁ, Nani. Coord. Guia Patrimonio Cultural de Buenos Aires. 5: Arquitectura Moderna 1930-1960. Buenos Aires: Gobierno de la Ciudad de Buenos Aires, 2006. 21 Sobre a arquitetura na Semana de Arte Moderna de 1922 ver: AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976, pp. 150- 156; FICHER, Sylvia. Antonio Garcia Moya, um arquiteto da Semana de 22. MDC. Revista de Arquitetura e Urbanismo, março de 2012. Disponível em: < http://mdc.arq.br/2012/03/20/antonio-garcia-moya-um-arquiteto-da- semana-de-22> 22 Ver: LIRA, José. Warchavchik. Fraturas da vanguarda. São Paulo: Cosac Naify, 2011, p. 185. 23 Modern Architecture: International Exhibition, The Museum of Modern Art, New York, 9 de fevereiro a 23 de março de 1932. 24 BERGDOLL, Barry. Learning from Latin America, in: BERGDOLL, Barrry; COMAS, Carlos Eduardo; LIERNUR, Jorge Francisco; REAL, Patricio del. Latin American in Construction: Architecture 1955-1980. New York: The Museum of Modern Art, 2015, p. 18; HITCHCOCK, Henry-Russell; JOHNSON, Philip. The International Style: Architecture since 1922. New York, London, W.W. Norton & Company, 1932.'
+  - 'ARIAS INCOLLÁ, Nani. Coord. Guia Patrimonio Cultural de Buenos Aires. 5: Arquitectura Moderna 1930-1960. Buenos Aires: Gobierno de la Ciudad de Buenos Aires, 2006. 21 Sobre a arquitetura na Semana de Arte Moderna de 1922 ver: AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976, pp. 150- 156; FICHER, Sylvia. Antonio Garcia Moya, um arquiteto da Semana de 22. MDC. Revista de Arquitetura e Urbanismo, março de 2012. Disponível em: < http://mdc.arq.br/2012/03/20/antonio-garcia-moya-um-arquiteto-da- semana-de-22> 22 Ver: LIRA, José. Warchavchik. Fraturas da vanguarda. São Paulo: Cosac Naify, 2011, p. 185. 23 Modern Architecture: International ExhIBITion, The Museum of Modern Art, New York, 9 de fevereiro a 23 de março de 1932. 24 BERGDOLL, Barry. Learning from Latin America, in: BERGDOLL, Barrry; COMAS, Carlos Eduardo; LIERNUR, Jorge Francisco; REAL, Patricio del. Latin American in Construction: Architecture 1955-1980. New York: The Museum of Modern Art, 2015, p. 18; HITCHCOCK, Henry-Russell; JOHNSON, Philip. The International Style: Architecture since 1922. New York, London, W.W. Norton & Company, 1932.'
   - ARQUITECTO ALEJANDRO BUSTILLO – “Casa Particular”, propiedad de la Sra. Victoria Ocampo. Revista de Arquitectura, n. 109, Número Extraordinario dedicado a la Arquitectura Moderna, janeiro de 1930, pp. 70-83.
   - 'BALIERO, Horacio; KATZENSTEIN, Ernesto. Le Corbusier en la ciudad sin esperanza. In:'
   - 'WAISMAN, Marina. Coord., Documentos para una historia de la arquitectura argentina. Buenos Aires: Ediciones Summa, 1984, pp. 183-186.'

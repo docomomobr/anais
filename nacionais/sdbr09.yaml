@@ -1,24 +1,22 @@
 # 9º Seminário Docomomo Brasil — sdbr09
 # Espelho dos metadados publicados no OJS
 # Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr09
-
 issue:
-  slug: "sdbr09"
-  title: "9º Seminário Docomomo Brasil"
-  subtitle: "Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente"
-  description: "Recurso eletrônico. Brasília: UnB-FAU / Núcleo DOCOMOMO Brasília."
+  slug: sdbr09
+  title: 9º Seminário Docomomo Brasil
+  subtitle: Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente
+  description: '9° Seminário Docomomo Brasil: anais: Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee et al.. Brasília: UnB-FAU; Núcleo Docomomo Brasília, 2011. ISBN: 978-85-60762-04-0.'
   year: 2011
   volume: 1
   number: 9
   date_published: 2011-10-10
-  isbn: "978-85-60762-04-0"
+  isbn: 978-85-60762-04-0
   editors:
-    - "Andrey Rosenthal Schlee"
-    - "Danilo Matoso Macedo"
-    - "Elcio Gomes da Silva"
-    - "Sylvia Ficher"
-  source: "https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr09"
-
+  - Andrey Rosenthal Schlee
+  - Danilo Matoso Macedo
+  - Elcio Gomes da Silva
+  - Sylvia Ficher
+  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr09
 articles:
 - title: O entrelaçamento entre linguagem arquitetônica e ideias pedagógicas
   authors:
@@ -53,7 +51,6 @@ articles:
   - 'VIANA, Élio de Almeida. A criança e a evolução dos interesses: esquema de um trabalho para o estabelecimento de uma doutrina escolar. [S.l., s.n.], 1954.'
   - 'VIÑAO, Antonio. Espaços, usos e funções: a localização e disposição física da direção escolar na escola graduada. Tradução: Deise Cristina de Lima Picanço. In:'
   - 'BENCOSTTA, Marcus Levy A. (Org.). História da educação, arquitetura e espaço escolar. São Paulo: Cortez, 2005. p.15-47.'
-
 - title: Autonomia disciplinar e transformações dominóicas
   authors:
   - givenname: Carlos Fernando
@@ -82,7 +79,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'Zein, Ruth Verde. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação de Mestrado. Porto Alegre: PROPAR/UFRGS, 2000.'
   - '______________. A Arquitetura da Escola Paulista Brutalista – 1953-1973. Tese de Doutoramento. Porto Alegre: PROPAR/UFRGS, 2005.'
-
 - title: Inventário da Arquitetura moderna cearense
   subtitle: o Campus do Benfica da Universidade Federal do Ceará
   authors:
@@ -102,7 +98,6 @@ articles:
   - Arquitetura Moderna
   - Ceará
   - Universidade Federal
-
 - title: Uma nova proposta tipológica na obra de Vilanova Artigas nos anos 1970
   authors:
   - givenname: Marcio
@@ -121,7 +116,6 @@ articles:
   - 1970s
   - Modern Architecture
   - Modern House
-
 - title: Os inventários como instrumentos de preservação
   subtitle: da identificação ao reconhecimento
   authors:
@@ -143,7 +137,6 @@ articles:
   - methodology
   - preservation
   - patrimony buildings
-
 - title: Arquitetura moderna em Goiânia
   subtitle: desafios e limites da documentação para a preservação
   authors:
@@ -167,7 +160,6 @@ articles:
   - Goiânia
   - Cidade e Memória
   - Documentação e Preservação
-
 - title: Patrimônio urbano
   subtitle: Praça Ernesto Tochetto
   authors:
@@ -183,7 +175,6 @@ articles:
   - Patrimônio Urbano
   - Praça
   - Espaço Público
-
 - title: Educação patrimonial
   subtitle: ver e olhar a Arquitetura modernista na Serra Gaúcha
   authors:
@@ -220,7 +211,6 @@ articles:
   - 'PESAVENTO, Sandra J. Cidades visíveis, cidades sensíveis, cidades imaginadas. In: Revista Brasileira de História. São Paulo, ANPUH, n. 53, vol.27, jan-jun, 2007.'
   - SANTOS, Magaly de Oliveira C. Lições das coisas (ou canteiro de obras) através de uma metodologia baseada na Educação Patrimonial. Dissertação de Mestrado –
   - PUCRJ, Rio de Janeiro, 1997.
-
 - title: Arquiteto Jorge Bomfim
   subtitle: análise projetual — Edifícios Village e Gropius
   authors:
@@ -236,7 +226,6 @@ articles:
   abstract_en: This article presents a methodology for design analysis, based on the primary documentation of buildings and works, and its reading and interpretation, by means of graphics and photographs. Exemplifies this approach through analysis of two buildings designed and built in the 1980 and 1990 by architect Jorge Bomfim, who lives in Santo André / SP. The projects presented has as characteristic, an alignment with the Brutalist Architecture of São Paulo. The Jorge Bomfim´s buildings, designed after the period of greatest diffusion of this architectural trend, pointed out contributing to the existence of a Brutalist School of Sao Paulo, based on the experience of an earlier generation of architectural professionals representing this part of brazilian modern architecture.
   keywords:
   - Jorge Bomfim Escola Paulista Brutalista
-
 - title: Arquitectura moderna en la obra pública
   subtitle: un catálogo para Santa Fe
   authors:
@@ -270,7 +259,6 @@ articles:
   - is an important task that
   - while in process
   - hopes to contribute to the knowledge and appreciation of them from the present and towards the future
-
 - title: Residência Casado d'Azevedo, Porto Alegre, 1950
   subtitle: a transmissão da linhagem corbusiana pela Escola Carioca
   authors:
@@ -278,7 +266,6 @@ articles:
     familyname: Haas Luccas
   pages: 1-12
   locale: pt-BR
-
 - title: Mesa
   subtitle: à margem do Movimento Moderno
   authors:
@@ -286,7 +273,6 @@ articles:
     familyname: Ficher
   pages: 1-3
   locale: pt-BR
-
 - title: Ginásio do Grêmio Náutico União, Porto Alegre, 1955
   subtitle: Ícaro de Castro Mello
   authors:
@@ -320,7 +306,6 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1999.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987. p.112-113.'
   - 'XAVIER, Alberto. Documento Ícaro de Castro Mello: Nas Arenas da Profissão. In: Arquitetura e Urbanismo nº 98. São Paulo, outubro/novembro 2001. Arquivo Municipal de Porto Alegre. Consulta realizada em 15 de fevereiro de 2011. Acervo Grêmio Náutico União.'
-
 - title: A monumentalidade e sua implantação urbana
   subtitle: Assembléia Legislativa do Estado de São Paulo e Parlamento Escocês
   authors:
@@ -347,7 +332,6 @@ articles:
   - 'FRAMPTON, K. História crítica da Arquitetura Moderna. São Paulo: Ed. Martins Fontes, 2003. 1a edição'
   - 'ROGERS, E.N.; SERT, J.L.; TYRWHITT, J. (org.). The Heart of the City: towards the humanization of urban life. Londres: 1952. Revista Acrópole no273, p.305-310 Revista El Croquis no100-101, Miralles 1996-2000, p.142-167 SOLÁ-MORALES, I. Diferencias: topografías de la arquitectura contemporánea. Barcelona: Ed. Gustavo Gili, 1995.'
   - 'Sites de referências: <http://www.arcspace.com/architects/miralles/parliament/>. Acesso em: 22 out. 2010. <http://blog.2modern.com/2010/08/the-new-scottish-parliament-edinburgh-by-enric- miralles-benedetta-tagliabue-.html>. Acesso em: 20 out. 2010. <http://www.galinsky.com/buildings/scottishparliament/>. Acesso em: 20 out. 2010. <http://www.geoportal.com.br/>. Acesso em: 01 dez. 2010. <http://www.googlemaps.com/>. Acesso em: 01 dez. 2010. <http://www.wikipedia.org>. Acesso em: 22 out. 2010. <http://www.worldlingo.com/ma/enwiki/pt/Scottish_Parliament_Building>. Acesso em: 20 out. 2010.'
-
 - title: Palácio Farroupilha
   subtitle: uma reflexão sobre a monumentalidade moderna
   authors:
@@ -378,7 +362,6 @@ articles:
   - Riopardense de Macedo, Francisco. “Antecedentes da Praça do Palácio Legislativo”. Espaço Arquitetura, nº 2.
   - Sert, José Luis, Léger,Fernand e Giedion, Siegfried. “Nine points on Monumentality”, The Harvard Architecture Review IV, Cambridge, 1984.
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
-
 - title: Identidade e subjetividade na obra de Fernando Távora
   subtitle: o segundo Pós-Guerra e a Quinta da Conceição
   authors:
@@ -396,7 +379,6 @@ articles:
   - Modern Architecture
   - Portugal
   - Fernando Távora
-
 - title: Moderno brasileiro em Moçambique, 1950-1975
   subtitle: a importação de uma imagem
   authors:
@@ -466,7 +448,6 @@ articles:
   - Architectural Review
   - L’Architecture d’Aujourd’hui
   - Progressive Architecture
-
 - title: Definição de um modelo
   subtitle: notas sobre interferências das normas de financiamento do BNH no projeto de edifícios de apartamentos paulistanos
   authors:
@@ -484,7 +465,6 @@ articles:
   - 'apartamentos: projeto'
   - 'apartamentos: legislação'
   - BNH
-
 - title: Gestão do CODEPAC na preservação do patrimônio cultural
   subtitle: Arquitetura moderna em Bauru-SP
   authors:
@@ -500,7 +480,6 @@ articles:
   - Gestão do Patrimônio Cultural
   - Preservação
   - Reabilitação
-
 - title: Arquitetura para o lazer
   subtitle: cinemas e clubes na Serra Gaúcha, de 1930 a 1970
   authors:
@@ -526,7 +505,6 @@ articles:
   - Cinemas
   - Clubhouses
   - Southern Brazil
-
 - title: Nuevas formas y estructuras en la arquitectura religiosa
   subtitle: Enrique de la Mora y Félix Candela en San Luis Potosí
   authors:
@@ -541,7 +519,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - González Pozo, Alberto, “Enrique de la Mora Vida y Obra”, Cuadernos de arquitectura y conservación del patrimonio artístico, Núm. 14, INBA, 1981. Gras, Louise Noelle, Arquitectos contemporáneos de México, México, Trillas, 1989. Montejano, Rafael, Guía de la Ciudad de San Luis Potosí, 6ª Ed., San Luis Potosí, Gobierno del Estado de San Luis Potosí /Academia de Historia Potosina, 1988. Tonda, Juan Antonio, Félix Candela, Arquitectura Círculo de Arte, CONACULTA, México, 2000. Villar, Jesús, Arquitectura y urbanismo en la ciudad de San Luis Potosí, 1918-1967, Editorial Universitaria Potosina, San Luis Potosí, 2010.
   - 'Periódicos Periódico: El Heraldo, “Fue bendecida la Escuela Manuel M. Lazcano”, 1° de septiembre de 1965. Periódico: El Sol de San Luis, “Se inaugura el Templo de la Santa Cruz”, 3 de mayo de 1968. Periódico: El Heraldo, “Consagran hoy el templo de la Santa Cruz”, 3 de mayo de 1968. Entrevistas Entrevista al Ing. Joaquín Zendejas Pérez, 7 de agosto de 2007. Entrevista a Mario Zermeño, 22 de diciembre de 2008. Entrevista a Carmen López Basich, 13 de diciembre de 2010. Entrevista al Ing. Alfonso César de Alba, 16 de enero de 2011.'
-
 - title: Edifício Santa Cruz
   subtitle: retrato de uma mudança
   authors:
@@ -563,7 +540,6 @@ articles:
   - Santa Cruz building
   - Carlos Alberto de Holanda Mendonça
   - Jayme Luna dos Santos
-
 - title: Conjunto Habitacional BNH
   subtitle: registro de um exemplar
   authors:
@@ -583,7 +559,6 @@ articles:
   - Collective Housing
   - Social Housing
   - Housing Projects
-
 - title: A perda de um ícone do Movimento Moderno carioca
   subtitle: o Hospital Universitário da UFRJ (1949-2010)
   authors:
@@ -622,7 +597,6 @@ articles:
   - SEGRE, Roberto, “A ortodoxia corbusierana na obra de Jorge Machado Moreira”, em Projeto/Design No. 289, São Paulo, março 2004, pp. 20-24.
   - 'TOLEDO, Luiz Carlos, Feitos para curar. Arquitetura hospitalar e processo projetual no Brasil. Rio de Janeiro: Associação Brasileira para o Desenvolvimento do Edifício Hospitalar, 2006.'
   - 'XAVIER, Alberto; LEMUS, Carlos; CORONA, Eduardo, Arquitetura Moderna Paulistana. São Paulo: Editora Pini, 1983.'
-
 - title: Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à conservação do patrimônio arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal
   authors:
   - givenname: Eugênio
@@ -648,7 +622,6 @@ articles:
   - 'PAVIANI, A. et alii (Orgs.). Brasília 50 anos: da capital a metrópole. Brasília, Editora UnB, 2010.'
   - SCHMIDT, B.. FARRET, R.. A questão urbana. Rio de Janeiro. Zahar, 1986.
   - 'PAVIANI, A.; GOUVÊA, L. A. de C. (Orgs.). Brasília: Controvérsias ambientais. Brasília, Editora UnB, 2003.'
-
 - title: Digitalização do arquivo de projeto da construtora Medaglia e o levantamento da Arquitetura dos anos trinta e quarenta no interior do Rio Grande do Sul
   authors:
   - givenname: Rodrigo F.
@@ -665,7 +638,6 @@ articles:
   - Construction Company Medaglia
   - Northwest-RS
   - Architecture in Santo Angelo-RS
-
 - title: Conjunto de viviendas Zezinho Magalhães Prado CECAP_Cumbica
   authors:
   - givenname: Rudivan Luiz
@@ -677,7 +649,6 @@ articles:
   - Vilanova Artigas
   - viviendas
   - Zezinho Magalhães Prado
-
 - title: Autores y producción del Movimiento Moderno en Mendoza Argentina (1930-1970)
   authors:
   - givenname: Cecilia
@@ -699,7 +670,6 @@ articles:
   - career
   - XX Century
   - Architectural Heritage
-
 - title: Recuperação de acervos de Arquitetura em Manguinhos
   subtitle: contribuição para estudos de preservação de edifícios modernos
   authors:
@@ -725,7 +695,6 @@ articles:
   - Collection
   - Document
   - Memory
-
 - title: Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de la arquitectura moderna
   subtitle: una experiencia en la Universidad Nacional de Tucumán, Argentina
   authors:
@@ -743,7 +712,6 @@ articles:
     familyname: Neme Araújo
   pages: 1-23
   locale: es
-
 - title: Valoración de la arquitectura del siglo XX
   subtitle: los especialistas y el gran público
   authors:
@@ -756,7 +724,6 @@ articles:
   - valoración
   - criterios
   - patrimonialización
-
 - title: Cultura disciplinar e arquivos de Arquitetura
   subtitle: Gio Ponti e o Brasil
   authors:
@@ -770,7 +737,6 @@ articles:
   - Arquivos de Arquitetura
   - Arquitetura Moderna
   - Gio Ponti
-
 - title: A UFSM e uma possível preservação através da interdisciplinaridade
   authors:
   - givenname: Renata Venturini
@@ -818,7 +784,6 @@ articles:
   - 'TARALLI, Cibele Haddad; CAMPÊLO, Magda. Patrimônio Moderno em Campus Universitário: rearquitetura ou descaracterização? O caso da UFC. In: 7° seminário Docomomo Brasil, 2007, Porto Alegre. Anais... Porto Alegre, 2007.'
   - 'TOLEDO, Luiz Carlos. Feitos para Curar: Arquitetura Hospitalar e Processo Projetual no Brasil. 2002. 184 p. Dissertação (Mestrado em Arquitetura) – PROARQ / FAU / Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2002.'
   - 'XAVIER, Alberto (org.). Depoimento de uma Geração – arquitetura moderna brasileira. São Paulo: Cosac Naify, 2003.'
-
 - title: A Arquitetura moderna brasileira
   subtitle: experiência e expectativa de modernização do Espírito Santo
   authors:
@@ -858,7 +823,6 @@ articles:
   - ______. Da necessidade da formação de uma consciência urbanística no planejamento das cidades tendo por base a humanização do homem pela educação através da socialização da cultura. Tese apresentada ao Congresso Pan-Americano de Arquitetos 1954.
   - ______. A criança e a evolução dos interesses – esquema de trabalho para o estabelecimento de uma doutrina escolar. [s.l; s.Editora], 1954.(2)
   - 'ZEIN, R. V. O Lugar da Crítica, Ensaios oportunos de Arquitetura. São Paulo: Proeditores; Porto Alegre: Ed Ritter dos Reis, 2003.'
-
 - title: Um percurso em um bairro moderno
   authors:
   - givenname: Ricardo
@@ -895,7 +859,6 @@ articles:
   - http://www.itaucultural.org.br/aplicexternas/enciclopedia_ic/index.cfm?fuseaction=artistas_bio grafia&cd_verbete=6423&cd_idioma=28555&cd_item=1- visitado em 1 de fevereiro de 2011
   - http://www.itaucultural.org.br/aplicexternas/enciclopedia_ic/index.cfm?fuseaction=artistas_bio grafia&cd_verbete=6423&cd_idioma=28555&cd_item=1- visitado em 1 de fevereiro de 2011.
   - http://www.revistaau.com.br/arquitetura-urbanismo/78/documento-23920-1.asp- visitado em 30 de janeiro de 2011.
-
 - title: A História como indagação
   subtitle: a industrialização como objeto e a Arquitetura brasileira como caso
   authors:
@@ -913,7 +876,6 @@ articles:
   - historiography of architecture
   - Brazilian modern architecture
   - planning and industrialization of architecture
-
 - title: Projetos, documentação, produção, investigação
   subtitle: 'Arquiteturas de concursos no Sul: monitoramento e acervo (1954-2010)'
   authors:
@@ -931,7 +893,6 @@ articles:
   - contemporany architecture
   - projects collection
   - architecture of contests
-
 - title: Desencontro
   subtitle: a cidade moderna dos anos 1950 e o Construtivismo
   authors:
@@ -953,7 +914,6 @@ articles:
   - post-war
   - constructivism
   - Brasília
-
 - title: A forma a partir do espaço em uso
   subtitle: construções de Lina Bo Bardi
   authors:
@@ -1008,7 +968,6 @@ articles:
   - 'ZEVI, Bruno. Historia dell’architettura moderna. Torino: Giulio Einaudi Editore, 1950'
   - '______. A linguagem moderna da arquitetura. Lisboa: D. Quixote, 1984 [1973].'
   - 'Fig 5: Desenho de Lina Bo Bardi. Artigo de sua autoria: “La casa a la periferia”. Grazia, Itália, n. 192, p.31, 1941. (Acervo ILBPMB)'
-
 - title: Patrimônio e mídia interativa
   subtitle: as residências modernas na Serra Gaúcha — Brasil
   authors:
@@ -1030,7 +989,6 @@ articles:
   - Cultural Heritage
   - Hypermedia
   - Modern Residences
-
 - title: Dicotomias e similaridades conceituais nas políticas de preservação e de desenvolvimento urbano no Brasil
   authors:
   - givenname: Otto
@@ -1061,7 +1019,6 @@ articles:
   - 'RIBAS, Otto. A sustentabilidade das cidades: Os instrumentos da gestão urbana e a construção da qualidade urbana, Tese de doutorado, CDS/UnB, Brasília, 2002, 252 p.'
   - 'SCHLEE, Andrey Rosenthal. A preservação do moderno: O caso de Brasília, in'
   - PESSOA, Jose et alli (org). Moderno e Nacional, Rio de Janeiro, EDUFF, 2006 141.156
-
 - title: Traços modernos para a Arquitetura educacional
   subtitle: uma análise do projeto do Instituto de Educação Antonino Freire, de Antonio Luiz Dutra
   authors:
@@ -1081,7 +1038,6 @@ articles:
   - Modern Architecture
   - Escola Carioca
   - Institute of Education
-
 - title: Arquiteturas da modernidade em risco
   subtitle: dois casos em Florianópolis
   authors:
@@ -1101,7 +1057,6 @@ articles:
   - modern architecture
   - architectural heritage
   - Florianópolis
-
 - title: Documentos da Arquitetura moderna em Teresina, Piauí
   authors:
   - givenname: Alcilia Afonso
@@ -1133,7 +1088,6 @@ articles:
   - '_____. El formalismo esencial de La arquitectura moderna. Barcelona: ediciones'
   - 'ROHE, M. Escritos, Diálogos y discursos. 2. ed. Murcia: Colección de Arquitectura, 2003.'
   - 'ROVIRA, Teresa (org).Documentos de Arquitectura Moderna en América Latina.1950-1965. Primera recopilación. Barcelona: ICCI/UPC.2004.'
-
 - title: O concreto na Arquitetura moderna em Santos
   subtitle: o caso do Teatro Municipal de Santos, um relato para registro e reflexões
   authors:
@@ -1173,7 +1127,6 @@ articles:
   - 'SANTOS, Prefeitura Municipal de. “O Novo Centro de Cultura”. Santos: Prodesan, 1991.'
   - 'SEABRA, Odete. “A Muralha que cerca o mar – Uma modalidade de Uso do Solo Urbano”. Dissertação de mestrado apresentada na Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. São Paulo: USP, 1979'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900 – 1990. São Paulo: Editora da USP, 2010.'
-
 - title: O desenho da cidade
   subtitle: indisciplinado, sempre interdisciplinar
   authors:
@@ -1196,7 +1149,6 @@ articles:
   - 'RATCLIFFE, John. An Introduction to Town and Country Planning. Londres: Hutchinson Educational, 1974.'
   - 'TERÁN, Fernando de. Ciudad y Urbanización en el Mundo Actual. Madrid: Blume, 1969.'
   - 'WALL, Alex. Victor Gruen. From Urban Shop to New City. Barcelona: Actar, 2005.'
-
 - title: Arquitetura para a multidão
   subtitle: explosão demográfica na Arquitetura de Fábio Penteado
   authors:
@@ -1216,7 +1168,6 @@ articles:
   - mass
   - Fábio Penteado
   - Paulista School
-
 - title: Edifício Santana
   subtitle: o primeiro arranha-céu de Campinas
   authors:
@@ -1231,7 +1182,6 @@ articles:
   - arquitetura modernista
   - art-déco
   - Plano de Melhoramentos Urbanos de Campinas
-
 - title: Clube de Regatas Jaó
   subtitle: documentação, projeto e construção
   authors:
@@ -1249,7 +1199,6 @@ articles:
   - Arquitetura Moderna
   - Goiânia
   - Documentação e Preservação
-
 - title: Patrimônio ambiental urbano
   subtitle: revendo conceitos
   authors:
@@ -1259,7 +1208,6 @@ articles:
   locale: pt-BR
   abstract: 'Por meio do processo de evolução do conceito de patrimônio ambiental urbano, tomando por base os paradigmas internacionais expressos nos documentos do ICOMOS e governo federal e estadual. Apontam-se possíveis abordagens para a adoção efetiva deste conceito nas diretrizes de política de gestão do espaço público, enquanto fundamento do desenvolvimento urbano. Na perspectiva de contribuir para a compreensão do meio ambiente e do desenvolvimento humano, o artigo procura discutir o conceito de valor da natureza no âmbito da abordagem da conservação integrada do patrimônio natural e cultural. A discussão teórica pretendida tem como ponto de partida os pressupostos da Carta do Patrimônio Natural - Australia/IUCN, 1996. Os valores da natureza pregados pela Carta se inserem em uma visão, que permite uma larga interpretação baseada no respeito e no reconhecimento do valor de existência dos recursos naturais e dos princípios de equidade entre as gerações. A conservação integrada interpreta o patrimônio como um bem único, que abrange as dimensões naturais e culturais, alinhando-se, portanto, ao teor da Carta quando esta admite que o patrimônio natural incorpora valores que compreendem, de um lado, o valor de existência e, de outro, os valores sociais. As novas interpretações dadas ao meio ambiente, enquanto patrimônio pertencente a todos os povos da Terra, partem do princípio dos valores intrínsecos ao seu suporte biológico e geofísico e sua relação com os seres humanos. A compreensão desses conceitos vem iluminar as bases teórico-metodológicas voltadas ao desenvolvimento de políticas e gestão patrimonial e de qualidade ambiental, contribuindo com a construção de instrumentos operacionais dos processos de conservação, a exemplo de sistemas de indicadores capazes de avaliar a proteção, controle e o monitoramento da significância do patrimônio natural e cultural. Palavra-chave: patrimônio ambiental urbano; patrimônio cultural; patrimônio natural interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org URBAN AMBIENT PATRIMONY: review the concepts'
   abstract_en: 'By means of the process of evolution of the concept of urban ambient patrimony, taking for base the express international paradigms in documents of the ICOMOS and federal and state government, possible boardings are pointed with respect to the adoption accomplish of this concept in the lines of direction of politics of management of the public space, while bedding of the urban development. In the perspective to contribute for the understanding of the environment and the human development, the article looks for to argue the concept of value of the nature in the scope of the boarding of the integrated conservation of the natural and cultural patrimony. The intended theoretical quarrel has as starting point the estimated ones of the Letter of the Natural Patrimony - Australia/IUCN, 1996. The values of the nature nailed by the Letter if insert in a vision, that allows a wide interpretation based on the respect and the recognition of the value of existence of the natural resources and the principles of equity between the generations. The integrated conservation interprets the patrimony as an only good, that encloses the natural and cultural dimensions, lining up itself, therefore, to the text of the Letter when this admits that the natural patrimony incorporates values that understand, of a side, the social value of existence and, of another one, values.The understanding of these concepts comes to illuminate the bases theoretician-metodológicas directed to the development of politics and patrimonial management and of ambient quality, contributing with the construction of operational instruments of the conservation processes, the example of systems of pointers capable to evaluate the protection, has controlled and the monitoramento of the significance of the natural Word-key: urban ambient patrimony; cultural patrimony; natural patrimony'
-
 - title: O acervo de projetos da FAUUSP
   subtitle: a consulta à documentação como fonte primária e seus usos
   authors:
@@ -1269,7 +1217,6 @@ articles:
     familyname: Marques
   pages: 1-14
   locale: pt-BR
-
 - title: Museu Lasar Segall
   subtitle: diálogo e identidade na Arquitetura dos museus
   authors:
@@ -1285,7 +1232,6 @@ articles:
   - arquitetura moderna
   - dialogia
   - identidade
-
 - title: Quando documentar não é suficiente
   subtitle: obras, datas, reflexões e construções teóricas
   authors:
@@ -1309,7 +1255,6 @@ articles:
   - ZEIN, Ruth Verde. A arquitetura da Escola Paulista Brutalista 1953-1973. Tese de doutorado apresentada ao PROPAR-UFRGS. Porto Alegre, 2005.
   - ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos (on-line) 084.00, ano 07, mai 2007. Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243, acesso em 04/05/2011.
   - confirmar que essa não aceitação a priori a partir de convicções ideológicas arraigadas que não se desejam questionar, por razões políticas ou consuetudinárias não é apenas uma figmento da minha imaginação.
-
 - title: O planejamento urbano, o patrimônio moderno e o valor de contemporaneidade
   authors:
   - givenname: Célia Castro
@@ -1332,7 +1277,6 @@ articles:
   - recent heritage
   - Pelotas
   - value
-
 - title: Historiografia e preservação
   subtitle: reflexões sobre a trajetória da casa da Rua Santa Cruz
   authors:
@@ -1391,7 +1335,6 @@ articles:
   - 'TOURNIKIOTIS, Panayotis. The Historiography of Modern Architecture. Massachusetts: MIT Press, 1999'
   - Processos Consultados CONDEPHAAT 22831/83 - Tombamento da Casa da Rua Santa Cruz, 325 39292/99 - Restauro da Casa da Rua Santa Cruz, 325
   - PMSP 0.007.759/27 - Alvará de construção 2000-0.263.107-1 Serviços emergenciais para manutenção da segurança, estabilidade e preservação da casa Modernista, de 05/12/2000; 2001-0.143.169-1 Projeto de restauração da Casa Modernista, de 20/07/2001
-
 - title: Patrimônio urbano de Brasília
   subtitle: urbanização com desigualdade
   authors:
@@ -1411,7 +1354,6 @@ articles:
   - urban heritage conservation
   - multiple settlements
   - spatial inequality
-
 - title: Montbau, 1959
   subtitle: reflexões sobre a preservação de intervenções habitacionais de interesse social modernas
   authors:
@@ -1438,7 +1380,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'SAGRERA. 80 anys del Patronat Municipal de l’Habitatge en imatges / [fotografies: Mariano Velasco ... [et al.]] Barcelona : Patronat Municipal de l’Habitatge de Barcelona, 2009 SOLÀ-MORALES, Manuel de, 1939- . Las Formas de crecimiento urbano / Manuel de Solà-Morales i Rubió. Barcelona : UPC, 1997'
   - 'TEÑA, PABLO. Universalidad y adecuación en la obra de LIGS. Pedro López Iñigo, Guillermo Giráldez Dávila y Xavier Subías Fages .1956-1966. Barcelona: Tesis presentada para obtener el grado de Doctor por la Universidad Politécnica de Cataluña.2010.'
-
 - title: Escola de Enfermagem da USP
   subtitle: documentos de sua concepção e questões sobre sua preservação
   authors:
@@ -1458,7 +1399,6 @@ articles:
   - Heritage
   - Preservation
   - Documentation
-
 - title: El patrimonio efímero y la representación del trabajo
   subtitle: pabellones de exposiciones y escenarios vendimiales en Mendoza (Argentina), 1950-1955
   authors:
@@ -1482,7 +1422,6 @@ articles:
   - stages
   - halls
   - Peronism
-
 - title: A esfinge e as escalas urbanas do Plano Piloto de Brasília
   authors:
   - givenname: Jorge Guilherme
@@ -1503,7 +1442,6 @@ articles:
   - Brasília
   - Lucio Costa
   - Urban Planning
-
 - title: Plástica e jogos volumétricos na Arquitetura pernambucana 1965-1980
   authors:
   - givenname: Aristóteles S. C.
@@ -1548,7 +1486,6 @@ articles:
   - 'ZEIN, Ruth Verde. O lugar da Crítica: ensaios oportunos de Arquitetura. Porto Alegre: Ritter dos Reis, 2003.'
   - '_______. Arquitetura da Escola Paulista Brutalista, 1953-1973. Tese de Doutorado. Porto Alegre: PROPAR-URFGS, 2005.'
   - _______. Brutalismo, sobre sua definição. In Arquitextos Vitruvius, 084,www.vitruvius.com.br.
-
 - title: Preservação da paisagem ribeirinha na Amazônia
   authors:
   - givenname: Soad Farias
@@ -1569,7 +1506,6 @@ articles:
   - Amazon
   - Heritage
   - Riverine landscape
-
 - title: A casa transoceânica
   subtitle: a forma da residência moderna portuguesa e a sua influência nos territórios brasileiro e africano
   authors:
@@ -1590,7 +1526,6 @@ articles:
   - Collective Housing
   - Portuguese speaking territories
   - Modern Projects
-
 - title: A Arquitetura do detalhe concreto
   subtitle: o edifício Pasteur (Santos, SP, Brasil)
   authors:
@@ -1617,7 +1552,6 @@ articles:
   - 'NUNES, Luiz Antonio de Paula. “A formação do pensamento urbanístico em Santos”. Dissertação de mestrado apresentada no Programa de Pós Graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo: FAU-USP, 2001.'
   - 'NUNES, Luiz Antonio de Paula. “A construção da esfera pública no planejamento urbano. Um percurso histórico: Santos, 1945 – 2000”. Tese de doutorado apresentada no Programa de Pós Graduação da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo: FAU-USP, 2006.'
   - Entrevistas com o arquiteto Marlio Raposo Dantas, feitas entre fevereiro de 2009 e fevereiro de 2011.
-
 - title: Descobrindo o Art Déco no Cemitério São João Batista
   authors:
   - givenname: Renata
@@ -1636,7 +1570,6 @@ articles:
   - Architecture cemetery, Modern Architecture, Rio de Janeiro
   - Cemetery
   - Cultural Heritage
-
 - title: Moderno transcontinental
   subtitle: o Complexo Monteiro & Giro em Quelimane, Moçambique
   authors:
@@ -1665,7 +1598,6 @@ articles:
   - 'Segawa, Hugo; Dourado, Guilherme; Bratke, Oswaldo, Oswaldo Arthur Bratke. S. Paulo: PRO Editores, 1997.'
   - 'Tostões, Ana, Os Verdes Anos na Arquitectura Portuguesa dos Anos 50, Porto: FAUP, 1997.'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
-
 - title: Conhecer para preservar
   subtitle: a documentação de complexos escolares em Maceió (AL) em um portal de Arquitetura de interesse histórico, técnico e artístico
   authors:
@@ -1685,7 +1617,6 @@ articles:
   - campus universitário
   - modernismo alagoano
   - escolas
-
 - title: Nosce te ipsum
   subtitle: o estudo do tipo hipódromo e o caso de Porto Alegre
   authors:
@@ -1698,7 +1629,6 @@ articles:
   - 'COMAS, Carlos Eduardo, BOHRER, Glênio; CANEZ, Anna Paula Moura. Arquiteturas cisplatinas : Roman Fresnedo Siri e Eladio Dieste em Porto Alegre. Porto Alegre : UniRitter, 2004. 187 p., il.'
   - 'MONTANER I MARTORELL, Josep Maria. Despues del movimiento moderno : arquitectura de la segunda mitad del siglo XX. 2.ed. Barcelona : G. Gili, 1999. 271 p. il.'
   - 'FRAMPTON, Kenneth. História crítica da arquitetura moderna. 2. ed. São Paulo : Martins Fontes, 2008. 529 p.'
-
 - title: A produção de prédios públicos pelo Ipesp 1957-1963
   subtitle: um breve balanço da consulta ao acervo da Comissão de Gestão de Imóveis do Ipesp
   authors:
@@ -1721,7 +1651,6 @@ articles:
   - Comissão de Gestão de Imóveis Ipesp
   references:
   - 'São Paulo (Estado). Secretaria da Educação. Fundo Estadual de Construções Escolares. A execução do programa de construções escolares. São Paulo: s. ed., 1963. Segawa, Hugo. "Arquiteturas escolares". Projeto n. 87, mai 1986, pp. 64-5. Valentin, Fabio Rago. Casas para o ensino: as escolas de Vilanova Artigas. 2003. Dissertação (Mestrado em Estruturas Ambientais Urbanas) – São Paulo: FAUUSP, 2003. Wisnik, Guilherme. O programa escolar e a formação da “escola paulista”. In: Fereira, Avany de Francisco; Mello, Mirella Geiger de (org). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: Imprensa Oficial, 2006, pp. 59-66. Ferreira, Avany de Francisco; Corrêa, Maria Elizabeth Peirão; Mello, Mirela Geiger de. Arquitetura escolar paulista: restauro. São Paulo: FDE, 1998. Ferreira, Avany de Francisco; Mello, Mirella Geiger de (org). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: Imprensa Oficial, 2006. Artigas, João Batista Vilanova. Sobre escolas... Acrópole n. 377, set. 1970, pp. 10-3. Rodrigues, Lorena Luiza Bengosi. A produção de prédios públicos pelo Ipesp, o planejamento e a infra-estruturação do território paulista 1957 - 1962: sistematização de dados documentais levantados no arquivo técnico da FDE e do arquivo da Comissão de Gestão de Imóveis do Ipesp. In: 11 Seminário de História da Cidade e do Urbanismo, 2010, Vitória. Seminário de História da Cidade e do Urbanismo, 11: Anais. Vitória:'
-
 - title: Lugares em suspensão na cidade
   subtitle: memória, acontecimento e as (re)configurações urbanas
   authors:
@@ -1736,7 +1665,6 @@ articles:
   - memória
   - identidade
   - transformações urbanas
-
 - title: Sobre o edifício A Tarde
   authors:
   - givenname: Mário Mendonça
@@ -1755,7 +1683,6 @@ articles:
   - Art Déco
   - Modernism in Salvador
   - “Edifício A Tarde”
-
 - title: A idéia de patrimônio e a abordagem espacial
   subtitle: uma nova ruptura cultural?
   authors:
@@ -1785,7 +1712,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'Smith Jr, Robert C. “João Frederico Ludovice an Eighteenth Century Architect in Portugal”, in The Art Bulletin, v.18, n.3 (sep., 1936), p. 273-370. Smith, Robert C. “Jesuit Buildings in Brasil”, in The Art Bulletin, vol. 30, n. 3 (sep., 1948), p. 187-213. Smith, Robert C. The Art of Portugal 1500-1800. London: Weidenfeld and Nicolson, 1968. Strauven, Francis Aldo van Eyck. The Shape of Relativity. Amsterdam: Architectura & Natura, 1998. Toledo, Benedito Lima de O Real Corpo de Engenheiros na Capitania de São Paulo. São Paulo, 1981 Viana, José Francisco Oliveira Populações meridionais do Brasil: história, organização, psicologia. Rio de Janeiro: Editora Jose Olympio, 1952. Vidler, Anthony “Spatial Estrangement in Georg Simmel and Siegfried Krakcaur”, in New German Critique, n.54 Special Issue on Siegfried Kracauer, 1991, p. 31-45. Warburg, Abby Images from the region of the Pueblo Indians of North America. Michael P Steinberg, trad. Ithaca: Cornell University Press, 1995. Wohl, Helmut “Robert Chester Smith and the Art in the United States” in Robert C. Smith Research in History of Art, Dalton Sala, edit. Lisbon: Fundação Calouste Gulbekian, 2000, p.17-29. Wirth, Louis The Ghetto. Chicago: The University of Chicago Press,'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
-
 - title: Cobogós, textile-block ou módulo?
   subtitle: experimentações de novas estéticas
   authors:
@@ -1809,7 +1735,6 @@ articles:
   - Cement block
   - Module
   - Envelope
-
 - title: Lucio Costa - obra completa
   subtitle: documentação e reflexão
   authors:
@@ -1849,7 +1774,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'XAVIER, Alberto (Org.). Lúcio Costa: sôbre arquitetura. Ed. fac-sim coordenada por Anna Paula Canez. Porto Alegre: Ed. UniRitter, 2007.'
   - 'ZIELINSKY, Mônica. Iberê Camargo: Catalogo Raisonné. V. 1. São Paulo: Cosac & Naify, 2006.'
-
 - title: O habitar moderno nos anos 1970
   subtitle: análise sintática de residências unifamiliares em João Pessoa
   authors:
@@ -1863,7 +1787,6 @@ articles:
   - Arquitetura moderna. Arquitetura residencial. Anos 1970. Sintaxe espacial
   keywords_en:
   - Modern architecture. Residential architecture. 1970s. Space syntax
-
 - title: Paulo Motta e a Arquitetura de saúde em Santa Catarina, 1936/1940
   subtitle: a contribuição do Curso de Arquitetura da ENBA
   authors:
@@ -1878,7 +1801,6 @@ articles:
   - Arquitetura Moderna
   - Santa Catarina
   - Paulo Motta
-
 - title: A Passarela do Samba de Oscar Niemeyer
   subtitle: o abrigo e o monumento do carnaval das escolas de samba do Rio de Janeiro
   authors:
@@ -1898,7 +1820,6 @@ articles:
   - Oscar Niemeyer
   - Rio de Janeiro
   - Carnival
-
 - title: Arquitetura moderna na sede campestre da Tuna Luso Brasileira em Belém do Pará
   authors:
   - givenname: Renata Lucena
@@ -1925,7 +1846,6 @@ articles:
   - modern architecture
   - history
   - preservation
-
 - title: A experiência de conservação do Iate Tênis Clube da Pampulha como indicador da importância da abordagem contextual
   authors:
   - givenname: Flavio L.
@@ -1942,7 +1862,6 @@ articles:
   - Pampulha
   - Oscar Niemeyer
   - Iate Tenis Clube
-
 - title: Diálogos entre Arquitetura e Educação na Arquitetura escolar moderna
   authors:
   - givenname: Ana Gabriela G.
@@ -1963,7 +1882,6 @@ articles:
   - Hélio Duarte
   - “New School”
   - Historical Heritage
-
 - title: O sistema básico da UFMG e seus precedentes
   subtitle: infraestrutura, crescimento, superação da função e construção da paisagem
   authors:
@@ -1985,7 +1903,6 @@ articles:
   - Growth
   - Change
   - Preservation
-
 - title: La documentación de la intervención de Burle Marx en el Paseo de Copacabana
   subtitle: lecturas para la protección de un patrimonio paisajístico moderno
   authors:
@@ -2000,7 +1917,6 @@ articles:
   - Rio de Janeiro
   - Abstract Drawing
   - Preservation
-
 - title: Arquitetura moderna e contemporânea em Belém
   subtitle: diálogo entre tempos
   authors:
@@ -2033,7 +1949,6 @@ articles:
   - 'SARQUIS, Giovanni Blanco. A arquitetura como expressão da modernidade em Belém entre 1930 e 1964. 2002. 200 f. Dissertação (Mestrado em Arquitetura e Urbanismo). São Paulo: Universidade Presbiteriana Mackenzie, 2002.'
   - 'SEGAWA, Hugo. Arquitectura latinoamericana contemporánea. Barcelona: GG, 2005.'
   - 'SEGAWA, Hugo; DOURADO, Guilherme Mazza. Oswaldo Arthur Bratke. São Paulo: ProEditores, 1997. SOLÀ-MORALES. Ignasi. Diferencias. Topografia de la arquitectura contemporánea. Barcelona: GG, 1995.'
-
 - title: Escritório Forte Gandolfi
   subtitle: um registro da sua produção arquitetônica (1962-1973)
   authors:
@@ -2051,7 +1966,6 @@ articles:
   - Modern Architecture in Parana
   - Modern Architecture in Brazil
   - Brutalist Architecture
-
 - title: Casa portuguesa? Sempre! Mas portuguesa ultramarina
   subtitle: o Gabinete de Urbanização Colonial e a habitação nas regiões tropicais
   authors:
@@ -2092,7 +2006,6 @@ articles:
   - Oliveira, Mário de. Projecto de Moradia, 1950 (Trab. 257, AHU, MU, DGOP, DSUH, Cx 17) Arquivo Histórico Ultramarino
   - 'Pimentel, Alfredo de Leão. Manual do Colono, construções, estudo da região, etc. III parte, Porto: Typographia a vapor de José da Silva Mendonça, 1904'
   - 'Ramos, Rui (coord.); Sousa, Bernardo Vasconcelos; Monteiro, Nuno Gonçalo. História de Portugal, 3ª edição, Lisboa: a esfera dos livros, 2009'
-
 - title: Caminhos da Arquitetura moderna em Fortaleza
   subtitle: a contribuição do professor arquiteto José Liberal de Castro
   authors:
@@ -2107,7 +2020,6 @@ articles:
   - Arquitetura Moderna
   - Fortaleza
   - José Liberal de Castro
-
 - title: Documenting the Modern Movement
   authors:
   - givenname: Debora M.
@@ -2119,7 +2031,6 @@ articles:
   - Documentation
   - Guggenheim Museum
   - High and Over
-
 - title: Restauração do Conjunto Residencial Prefeito Mendes de Moraes - Pedregulho
   authors:
   - givenname: Ubirajara A.
@@ -2142,7 +2053,6 @@ articles:
   - Affonso Eduardo Reidy
   - Pedregulho
   - Restoration
-
 - title: O papel do museólogo na consolidação do documento histórico em patrimônio cultural
   subtitle: desafios e perspectivas do tempo presente
   authors:
@@ -2168,7 +2078,6 @@ articles:
   - Education
   - Heritage
   - Museology
-
 - title: Da capital ao interior de Pernambuco
   subtitle: critérios para documentação da Arquitetura moderna no Nordeste, 1930-1980
   authors:
@@ -2244,7 +2153,6 @@ articles:
   - 'SILVA, Geraldo Gomes da et alli. Delfim Amorim Arquiteto. Recife: Instituto dos Arquitetos do Brasil/Departamento Pernambuco, 1981.'
   - 'PEREIRA, Margareth da Silva. Os Correios e Telégrafos no Brasil: um patrimônio histórico e arquitetônico. São Paulo: MSP: Empresa Brasileira de Correios e Telégrafos, 1999. PRÉDIOS se destacam em Garanhuns, Jornal do Commercio, Cidades, Recife, 7 nov. 2004.'
   - 'TOURNIKIOTIS, Panayotis. Modern and the issue of Otherness. In: CASTIATO, Maristela & D´ORGEIX, Èmile (Org.). Other Modernisms. A Selection from the DOCOMOMO Registers. March, 2007, n. 36.'
-
 - title: Uma proposta metodológica de análise e documentação da Arquitetura através do estudo de edifícios verticais residenciais de Adolf Franz Heep em São Paulo
   authors:
   - givenname: Edson
@@ -2267,7 +2175,6 @@ articles:
   - Adolf Franz Heep
   - Collective housing
   - Vertical building
-
 - title: Una obra olvidada de la modernidad arquitectónica española
   subtitle: la embajada de España en Brasilia
   authors:
@@ -2287,7 +2194,6 @@ articles:
   - Structuralism
   - Brasilia
   - Leoz
-
 - title: Recepção x difusão
   subtitle: reflexões para preservação do patrimônio recente
   authors:
@@ -2356,7 +2262,6 @@ articles:
   - 'TRAJANO FILHO, Francisco Sales. Modernidade arquitetônica e internacionalismo nos trópicos. O Edifício Central do Instituto de Educação da Paraíba (1936-1939). In: 6º SEMINÁRIO DOCOMOMO BRASIL MODERNO E NACIONAL: ARQUITETURA'
   - 'E URBANISMO, 2005, Niterói. Anais....Niterói: Escola de Arquitetura e Urbanismo da Universidade Federal Fluminense, 2005.'
   - 'TRIGUEIRO, Edja, CAPPI, Fernanda e NASCIMENTO, Maira. Modernismo potiguar: vida, reprodução e quase morte 2010, em 3o. DOCOMOMO norte- nordeste, João Pessoa, disponível em http://www.docomomonortenordeste.com.br/artigos/TC_SEC3_8.pdf http://www.youtube.com/watch?v=4mtQNad59kE'
-
 - title: Antagonismos e afinidades
   subtitle: Arte e Arquitetura em Belém entre as décadas de 40 e 60
   authors:
@@ -2375,7 +2280,6 @@ articles:
   - Modern Architecture
   - Belém
   - abstraction
-
 - title: A praça, os pedestres e os automóveis
   subtitle: um estudo das visões de Lúcio Costa sobre o espaço universitário
   authors:
@@ -2410,7 +2314,6 @@ articles:
   - 'RIBEIRO, Darcy (1969). Universidade Necessária. Rio de Janeiro: Paz e Terra, 1975.'
   - SEGAWA, Hugo; DOURADO, Guilherme Mazza. Mário Pedrosa Urbanista. RISCO - Revista de pesquisa em arquitetura e urbanismo programa de pós-graduação do departamento de arquitetura e urbanismo eesc-usp. São Carlos, n.2, 2003. p.63-6.
   - 'TURNER, Paul Vernable. Campus: an American Planning Tradition. New York: The Architectural History Foundation; MIT Press Series, 1987. UNIVERSIDADE DE BRASÍLIA. Plano Orientador. Brasília: Editora da UnB,1962. UNIVERSIDADE DE BRASÍLIA. Centro de Documentação. Pesquisa Histórica. Brasília. Disponível em: http://www.unb.br/cedoc/pesq_historica.htm. Acesso em 30 nov. 2007. UNIVERSIDADE DE SÃO PAULO. Comissão da Cidade Universitária “Armando de Salles Oliveira”. Roteiro do Replanejamento da Cidade Universitária “Armando de Salles Oliveira”. São Paulo: USP, 1956.'
-
 - title: Documentação e leitura do edifício e de sua produção
   authors:
   - givenname: João Marcos de A.
@@ -2434,7 +2337,6 @@ articles:
   - Design
   - Documentation
   - Education
-
 - title: A Praça Maior da UnB
   authors:
   - givenname: Andrey Rosenthal
@@ -2455,7 +2357,6 @@ articles:
   - Main Square
   - Oscar Niemeyer
   - Lucio Costa
-
 - title: Lina Bo Bardi é o Museu Imaginário de André Malraux
   authors:
   - givenname: Suely de O. F.
@@ -2476,7 +2377,6 @@ articles:
   - Imaginary Museum
   - Museum
   - MASP
-
 - title: A difusão da Arquitetura moderna brasileira na revista Brasil Arquitetura Contemporânea (1953-1958)
   authors:
   - givenname: Guilherme Silva
@@ -2495,7 +2395,6 @@ articles:
   - brazilian modern architecture
   - magazines
   - 'Brasil: Arquitetura Contemporânea'
-
 - title: As obras do plano de edificações escolares de Anísio Teixeira e a Arquitetura moderna na Bahia (1947-1950)
   authors:
   - givenname: Nivaldo V.
@@ -2516,7 +2415,6 @@ articles:
   - Diógenes Rebouças
   - Escola-Parque
   - Modern Architecture
-
 - title: Construtores estrangeiros e a produção arquitetônica moderna no Bom Retiro (1950-1970)
   authors:
   - givenname: Stamatia
@@ -2537,7 +2435,6 @@ articles:
   - Bom Retiro
   - Sao Paulo
   - Foreign Constructors/ Builders
-
 - title: Grades de ferro ornamentais em Belo Horizonte
   subtitle: permanência e mobilidade na constituição de uma memória gráfica
   authors:
@@ -2574,7 +2471,6 @@ articles:
   - 'PAIM, Gilberto. A beleza sob suspeita: o ornamento em Ruskin, Lloyd Wright, Loos, Le Corbusier e outros. Rio de Janeiro: Jorge Zahar Editor, 2000.'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'PUPPI, Marcelo. Léonce Reynaud e a concepção teórica do ecletismo no Rio de Janeiro. 19&20, Rio de Janeiro, v. III, n. 2, abr. 2008. Disponível em: <http://www.dezenovevinte.net/arte%20decorativa/ad_mpuppi_reynauld.htm>.'
-
 - title: Documentação de uma trajetória
   subtitle: a obra de Aristides Salgado
   authors:
@@ -2596,7 +2492,6 @@ articles:
   - Documentation
   - Brutalism
   - homes
-
 - title: Brasília, discurso ou narrativa?
   subtitle: questões sobre preservação e identidade cultural
   authors:
@@ -2625,7 +2520,6 @@ articles:
   - 'PAVIANI, A. (Org.) Brasília 50 anos da capital a metrópole. Brasília: Editora UnB. PP. 97 - 135'
   - (Costa, Lucio Costa, Registro de uma Vivência, 1995), p. 311
   - 'interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org Magalhães, Aloísio. E Triunfo? A Questão dos Bens Culturais no Brasil. Rio de Janeiro: Nova Fronteira. Brasília: FNPM, 1985. 256 p Medeiros, A. E., & Saboia, L. (2006). Brasilia, World heritage: questions of cultural identity and heritage policy. Cross national transfer of planning ideas and local identity. Nova Delhi: 12th International Planning History Conference. Norberg-Schulz, Christian. Meaning in Western Architecture . New York: Rizzoli, 1974. Regional, IPHAN / 15 Superintendência. PLANO, Piloto 50 anos – cartilha de Preservação de Brasília. Cartilha, Brasília: IPHAN / 15 Superintendência Regiona, 2007. Reis, Carlos Madson. Brasília: Espaço, Patrimônio e Gestão urbana. Brasília: PPG/FAU – UnB (dissertação de mestrado), 2001. Ribeiro, Sandra Bernardes. Brasília: memória, Cidadania e Gestão do Patrimônio Cultural. São Paulo: Annablume, 2005. Ricœur, Paul. "Architecture et narrativité." Urbanisme 303 (nov-dec 1998): 44-51. —. Percurso do reconhecimento. São Paulo: Edições Loyola, 2006. —. Soi-même Comme un Autre. Paris: Éditions du Seuil, 1990. Riegl, Aloïs. O culto moderno dos monumentos: sua essência e sua gênese. Translated by Elane Ribeiro Peixoto and Albertina Vicentini. Goiânia: Editora da UCG, 2006. RSP Arquitetura Consultoria, GDF. BRASÌLIA Preservando o Patrimônio da Humanidade – Informativo do Plano de Preservação do Conjunto Urbanístico de Brasília – PPCUB. Informativo, Brasília: GDF, 2010. Saboia, Luciana. Brasília and the modernist void: the central bus station and the struggle for cultural recognition (Ph.D. thesis). Louvian-la-Neuve: Université Catholique de Louvain, 2009. Sinotti, Marta L. Quem me quer, não me quer: Brasília, metrópole-patrimônio. São Paulo: Annablume, 2005. UNESCO. Disponível em: < http://whc.unesco.org/fr/criteres >. Acesso em: 10 fev. 2011'
-
 - title: A obra de Raphael Hardy Filho em Araxá-MG
   subtitle: as instalações industriais da Fertisa
   authors:
@@ -2635,7 +2529,6 @@ articles:
     familyname: Cappello
   pages: 1-14
   locale: pt-BR
-
 - title: Quanto vale um patrimônio cultural?
   subtitle: o caso da fábrica Rheingantz em Rio Grande — RS
   authors:
@@ -2657,7 +2550,6 @@ articles:
   - Identity
   - Rheingantz
   - Economic Value
-
 - title: Monumentalidade e tectônica nos edifícios públicos de Acácio Gil Borsoi
   authors:
   - givenname: Amanda Rafaelly Casé
@@ -2672,7 +2564,6 @@ articles:
   - Acácio Gil Borsoi
   - Monumentalidade
   - Tectônica
-
 - title: Registro da rede social dos projetistas do concurso do Plano Piloto para Brasília
   authors:
   - givenname: Tânia Beisl
@@ -2693,7 +2584,6 @@ articles:
   - Social network
   - Connections
   - Professionals routes
-
 - title: As propostas de ensino de Anísio Teixeira e os projetos de José de Souza Reis para a Arquitetura escolar de Brasília
   authors:
   - givenname: Ricardo de S.
@@ -2714,7 +2604,6 @@ articles:
   - Brasília
   - José de Souza Reis
   - Anísio Teixeira
-
 - title: Duas igrejas organicistas
   subtitle: influência de Frank Lloyd Wright na Arquitetura moderna religiosa em São Paulo
   authors:
@@ -2753,7 +2642,6 @@ articles:
   - 'NEDELYKOV, Nina e MOREIRA, Pedro. “Caminhos da Arquitetura Moderna no Brasil: a presença de Frank Lloyd Wright.” Arquitextos, São Paulo, 018.03, Vitruvius nov 2001 <http://www.vitruvius.com.br/revistas/read/arquitextos/02.18/029>.'
   - 'PFEIFFER, Bruce Brooks. Frank Lloyd Wright. Munique: Benedikt Taschen, 2000.'
   - 'SIRY, Joseph M. Unity Temple – Frank Lloyd Wright and Architecture for Liberal Religion. Nova York e Cambridge: Cambridge University Press, 1996.'
-
 - title: Da monumentalidade
   subtitle: origens acadêmicas da Arquitetura cívica moderna
   authors:
@@ -2811,7 +2699,6 @@ articles:
   - 'Fig. 9: Hannes Meyer. Projeto de concurso para a sede da Liga das Nações, 1928 (Curtis, p. 320)'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . abril de 2011 . www.docomomobsb.org
   - 'Fig. 10: Le Corbusier. Maison Ozenfant, Paris, 1922 (Le Corbusier e Jeanneret, 1946, p. 57)'
-
 - title: Parcerias preservacionistas
   subtitle: os exercícios didáticos e o patrimônio recente
   authors:
@@ -2833,7 +2720,6 @@ articles:
   - Teaching
   - Documentation
   - Preservation
-
 - title: Le Corbusier voyageur
   subtitle: arquivos de uma experiência arquitetônica
   authors:
@@ -2869,7 +2755,6 @@ articles:
   - 'PAQUOT, Thierry; GRAS, Pierre.(Org.). Le Corbusier Voyageur. : L''Harmattan, 2007, v. 1, p. 105-124.'
   - 'SANTOS, Daniela Ortiz dos. Pequeno vocabulário de Le Corbusier: 1928-1929. Dissertação (Mestrado), Rio de Janeiro: UFRJ/PROURB, 2009.'
   - 'TURNER, Paul V.. The Education of Le Corbusier. New York: Garland Publications, 1977.'
-
 - title: Arquitetura do Movimento Moderno enquanto estratégia de redesenho nas cidades brasileiras
   subtitle: possibilidades e limitações
   authors:
@@ -2887,7 +2772,6 @@ articles:
   - Modern Architecture
   - Redraw
   - Urban Space
-
 - title: Silos, barcos y readymades
   subtitle: alternativas figurativas en las primeras décadas del siglo XX
   authors:
@@ -2896,7 +2780,6 @@ articles:
   pages: 1-13
   locale: es
   abstract_en: 'Desde sus inicios, en el desarrollo de la arquitectura moderna se pueden detectar dos tendencias bien diferenciadas y contrapuestas. Por un lado la que propugna el rechazo de las normas del pasado y de los referentes históricos, la búsqueda permanente de la originalidad y libertad absoluta, y un continuo desarrollo de exploraciones formales y espaciales sin precedentes. El crítico inglés Reyner Banham 1 relaciona esta postura con el llamado “Estilo Internacional,” considerando a Giedion y Pevsner como los dos grandes “historiadores-apologistas” de este estilo. Sin duda otras vertientes modernas, como De Stijl u otras corrientes de la Bauhaus2 también propugnaban por una arquitectura original y sin referencias al pasado. Al mismo tiempo hay otra tendencia que se origina a partir de la admiración de ciertos tipos de edificios o construcciones industriales. En su texto A Concrete Atlantis, Reyner Banham 3 analiza como Mies, Gropius, Le Corbusier, Loos y Mendelsohn comparten un notable interés y apreciación por edificios de carácter utilitario, como ser silos, elevadores de granos, fábricas, galpones como así también (particularmente en el caso de Le Corbusier) por maquinarias industriales tales como navíos, aviones, automóviles y otros objetos normalmente considerados fuera de la disciplina arquitectónica convencional. Este interés por este tipo de referencias tendrá una fuerte influencia en varios de los proyectos desarrollados por los arquitectos antes nombrados y por sus seguidores. Casos a considerar son Gropius y sus edificaciones con referencias fabriles, Mies y su arquitectura con fuerte impronta industrial, Le Corbusier y sus proyectos inspirados en la estética naviera y Mendelsohn y sus bocetos de proyectos inspirados en silos. La primera parte de este trabajo procura analizar la estrategia de buscar referencias formales o precedentes fuera del territorio convencional de la arquitectura. La segunda parte se concentra en relacionar esa estrategia con el desarrollo artístico y conceptual de Marcel Duchamp, particularmente en lo que hace a su interés por el concepto de “objeto” y su posterior desarrollo de la noción del readymade. Un tema que merece particular consideración es el concepto de originalidad, sin duda una de las principales premisas de tanto el arte como la arquitectura moderna. Palabras claves: referencias, utilitarios, figurativa, Duchamp, originalidad. Banham,Reyner: A Concrete Atlantis, 1989. van Doesburg, Theo: 17 Puntos De La Arquitectura Neoplástica, 1924. Al respecto, van Doesburg escribió “el problema de la arquitectura debe ser planteado de nuevo por completo.” Banham, Reyner. interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org Las únicas obras de arte que ha dado América han sido su plomería y sus puentes. Marcel Duchamp, 1917 Déjenos creer las palabras de los ingenieros americanos. Le Corbusier, 1923'
-
 - title: Plano de conservação
   subtitle: Jardim de Infância Ana Rosa Falcão de Carvalho
   authors:
@@ -2921,7 +2804,6 @@ articles:
   - Modern Architecture
   - Conservation of Modern Architecture
   - Conservation Plan
-
 - title: Mercado Central de João Pessoa - PB
   subtitle: relato da experiência e intervenção
   authors:
@@ -2941,7 +2823,6 @@ articles:
   - Modern Architecture
   - work in modern building
   - the Central Market in João Pessoa - Pb
-
 - title: Athos Bulcão em Brasília
   subtitle: do azulejo, do espaço
   authors:
@@ -2957,7 +2838,6 @@ articles:
   - Arquitetura Moderna
   - Azulejo
   - Arte
-
 - title: Marina da Glória
   subtitle: sobre a constituição do lugar e sua transformação em gueto
   authors:
@@ -2979,7 +2859,6 @@ articles:
   - 'Palavras-Chave: Modern Architecture'
   - Parque do Flamengo, Glória Marina, Twentieth Century heritage
   - Amaro Machado
-
 - title: 9º Seminário Docomomo Brasil
   subtitle: interdisciplinaridade e a preservação do patrimônio na cidade de Passo Fundo — RS
   authors:
@@ -2999,7 +2878,6 @@ articles:
   keywords_en:
   - Modern Architecture in Passo Fundo
   - Interdisciplinary
-
 - title: Monumentalidad y reproductividad del patrimonio moderno
   subtitle: dos casos de estudio
   authors:
@@ -3008,7 +2886,6 @@ articles:
   pages: 1-16
   locale: es
   abstract_en: The Post and Telecommunications buildings of the cities of Santa Fe and Esperanza, built within the vast scheme of the Architecture Department of the National Ministry of Communications, are two examples that increase the long series of postal buildings built in the country during the 1950 decade according to the ideals of international modern architecture of efficiency and rationality. As the materialization of a model, each of the buildings present different architectural rules and resolutions, although their joint and compared study is interesting to reflect the peculiarities of the development of modern architecture at the local level, as well as the tensions implicit in modern heritage restoration torn between the notions of monumentality and reproduction. Since its construction both buildings have undergone functional and political changes which have contributed to accelerate the degradation of the material itself over time as part of a cultural policy that neglected the public thing. The development of two technical works of assistance of interdisciplinary nature, carried on by the Facultad de Arquitectura, Diseño y Urbanismo - Universidad Nacional del Litoral, had as a main purpose to the develop the project of documentation and recovery of both buildings, experience from which it raises these theoretical and conceptual discussions.
-
 - title: O caráter de três casas modernistas na Av. Washington Luiz em Presidente Prudente-SP
   authors:
   - givenname: Helio
@@ -3045,7 +2922,6 @@ articles:
   - '______. Novas formas comerciais e redefinição da centralidade intra-urbana. In ______ (org.) Texto e contextos para a leitura geográfica de uma cidade média. Presidente Prudente: FCT/ Unesp- GAsPERR, 2001'
   - 'THOMAZ, F. Usos das vias urbanas em Presidente Prudente/SP: espaços públicos e lesgilação urbana. 2006. 323f. Dissertação (Mestrado em Geografia) Faculdade de Ciências e Tecnologia, Universidade Estadual Paulista, Presidente Prudente.'
   - 'YAMAKI, Humberto. Caráter de edificações históricas: elementos de identificação. Londrina: Edições Humanidades, 2008.'
-
 - title: Duas perguntas sobre interdisciplinaridade
   subtitle: Arquitetura e preservação do patrimônio moderno
   authors:
@@ -3065,7 +2941,6 @@ articles:
   - disciplinary autonomy
   - modern architecture
   - preservation
-
 - title: Novas tecnologias para velhos desenhos
   subtitle: projeto de pesquisa "Arquivo Histórico Municipal Washington Luís — a cidade de São Paulo e sua Arquitetura"
   authors:
@@ -3076,7 +2951,6 @@ articles:
   references:
   - 'A guide to the archival care of architectural records 19th-20th centuries. Paris: ICA (International Council on Archives ), 2000.'
   - 'BUENO, Beatriz P. S. Aspectos do Mercado Imobiliário em Perspectiva Histórica. São Paulo (1809-1950). São Paulo: FAUUSP, 2008. Guia Arquivo Histórico Municipal Washington Luís: 100 anos (1907-2007). São Paulo:'
-
 - title: A experiência muralística brasileira como projeto de construção do moderno enquanto cultura
   authors:
   - givenname: Juscelino Humberto C. M.
@@ -3115,7 +2989,6 @@ articles:
   - 'PEDROSA, Mario. Dos murais de Portinari aos espaços de Brasília. 1 edição. São Paulo: Editora Perspectiva, 1981.'
   - ROSA, Rafael Brener. Arquitetura, a síntese das artes. 2005. Dissertação (Mestrado em Arquitetura) – Programa de Pós-Graduação em Arquitetura, UFRGS, Porto Alegre, 2005.
   - SILVEIRA, Marcele Cristiane. O Azulejo na Modernidade Arquitetônica. 2010. Dissertação (Mestrado em Arquitetura) Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, USP, São Paulo, 2010.
-
 - title: Vilanova Artigas, Case Study Houses e Eames House
   subtitle: interiores pragmáticos e a consolidação do morar moderno
   authors:
@@ -3154,7 +3027,6 @@ articles:
   - ZEIN, Ruth Verde. (2009). Habitat, Lina Bo Bardi y la Crítica de Arquitectura no alineada. Summa + Buenos Aires, v. 101, p. 32-41.
   - Arquitetura Brutalista. http://www.arquiteturabrutalista.com.br/fichas- tecnicas/DW%201956-19/1956-19-fichatecnica.htm; acesso em setembro de 2010.
   - VILLAC, Maria Isabel. (2002). La construción de la mirada. Naturaleza, Ciudad y Discurso en la Arquitectura de Paulo Archias Mendes da Rocha. Tese de Doutorado, Cataluña.
-
 - title: Preservação do patrimônio e formação da área metropolitana de Brasília
   authors:
   - givenname: Ignez C. B.
@@ -3183,7 +3055,6 @@ articles:
   - 'NOGALES VASCONCELOS, A. Cenários demográficos para a área metropolitana de Brasília. In: PAVIANI et al (org). Brasília'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - '50 anos: da capital a metrópole. Brasília: Editora Universidade de Brasília,2010.'
-
 - title: O primeiro palácio moderno de Porto Alegre
   subtitle: documentação, interpretação e lições de Arquitetura
   authors:
@@ -3207,7 +3078,6 @@ articles:
   - Palaces
   - Luis Fernando Corona
   - Carlos Fayet
-
 - title: Políticas de preservação do conjunto urbanístico de Brasília e de desenvolvimento territorial e urbano da área metropolitana de Brasília
   subtitle: a indissociabilidade necessária e a ausência como desafio de inovação
   authors:
@@ -3224,7 +3094,6 @@ articles:
   keywords_en:
   - Brasília
   - plans for the preservation of urban Brasília and plans of territorial and urban development of the metropolitan region of Brasília
-
 - title: Antonio Garcia Moya
   subtitle: arquiteto moderno
   authors:
@@ -3246,7 +3115,6 @@ articles:
   - Mário de Andrade
   - São Paulo
   - Arquitetura Moderna
-
 - title: A adoção da linguagem moderna dos edifícios públicos e privados da região de Viçosa-MG
   subtitle: um inventário e uma análise formal
   authors:
@@ -3276,7 +3144,6 @@ articles:
   - Viçosa
   - Zona da Mata of Minas Gerais
   - inventory
-
 - title: Escuelas del cincuenta
   subtitle: reflexiones sobre la relación Arquitectura y Estado en la Argentina peronista
   authors:
@@ -3284,7 +3151,6 @@ articles:
     familyname: Espinoza
   pages: 1-10
   locale: es
-
 - title: Plano urbanístico da Baía de Vitória, por Paulo Mendes da Rocha
   subtitle: memória, Arquitetura e natureza
   authors:
@@ -3310,7 +3176,6 @@ articles:
   - 'ROCHA, P. M. Mendes da Rocha. Lisboa: Blau, 1996'
   - 'SERRA, G. G. Pesquisa em Arquitetura e Urbanismo: Guia prático para o trabalho de pesquisadores de pós graduação. São Paulo, Madarim, 2006'
   - 'SOLOT, D. C. Paulo Mendes da Rocha. Estrutura o êxito da forma. Rio de Janeiro: Viana& Mosley. 2004'
-
 - title: MASP - museu laboratório
   subtitle: museu e cidade em Pietro Maria Bardi
   authors:
@@ -3350,7 +3215,6 @@ articles:
   - 'ROGERS, E. N., SERT, J. L., TYRWHITT, J. El Corazón de La Ciudad: por uma vida más humana de La comunidad. Barcelona: Hoelpi, 1955.'
   - 'SERT, Josep L. Can Our Cities Survive? an ABC of urban problems, their analysis, their solutions. Cambridge: Harvard University Press, 1942.'
   - 'TENTORI, Francesco. P.M. Bardi. São Paulo: Instituto Lina Bo e P.M. Bardi, Imprensa Oficial do Estado de São Paulo, 2000.'
-
 - title: Duas casas, a mesma orla marítima, os mesmos arquitetos, dois mundos
   authors:
   - givenname: Sônia M. B.
@@ -3371,7 +3235,6 @@ articles:
   - Modern Architecture
   - single-family homes
   - Joao Pessoa
-
 - title: Encontros modernos no Centro Histórico de São Paulo
   authors:
   - givenname: Alessandro José Castroviejo
@@ -3388,7 +3251,6 @@ articles:
   - Modern Buildings
   - São Paulo’s Historical Center
   - Modern Architecture and Traditional City
-
 - title: A Arquitetura escolar na Serra Gaúcha no contexto da modernidade
   authors:
   - givenname: Maria Beatriz P.
@@ -3422,7 +3284,6 @@ articles:
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília. junho de 2011 . www.docomomobsb.org
   - 'TEIXEIRA, Anísio. Educação para a democracia: introdução à administração educacional. 2ª ed. Rio de Janeiro: Editora UFRJ, 1997.'
   - '_________ Educação pública: administração e desenvolvimento. RJ: Diretoria Geral de Instrução Pública, 1935. (Relatório administrativo).'
-
 - title: Preservación del patrimonio edificado del siglo XX
   subtitle: 'caso de estudio: el Palacio de Bellas Artes de la Ciudad de México'
   authors:
@@ -3444,7 +3305,6 @@ articles:
   - Bellas Artes Palace
   - Mexico
   - 20th century architecture preservation
-
 - title: Ecos de samba
   subtitle: el papel de Brasil en la puesta al día de la arquitectura española con la internacional (1950-1965)
   authors:
@@ -3474,7 +3334,6 @@ articles:
   - 'Redacción IC. «Edificio C.B.I. Esplanada en Sao Paulo.» Informes de la Construcción, nº 49 (marzo 1953): sp. Redacción IC. «Edificio para la Banca del trabajo en Belo-Horizonte.» Informes de la Construcción, nº 49 (marzo 1953): sp. Redacción IC. «Casa de fin de semana de un arquitecto en Mendes.» Informes de la Construcción, nº 51 (mayo 1953): sp. Redacción IC. «Casa del administrador de una propiedad en Petrópolis.» Informes de la Construcción, nº 51 (mayo 1953): sp. Redacción IC. «Chalet en Rio de Janeiro.» Informes de la Construcción, nº 51 (mayo 1953): sp. Redacción IC. «El gimnasio del Centro de Deportes de Rio.» Informes de la Construcción, nº 53 (agosto-septiembre 1953): sp. Redacción IC. «Sanatorio en Puerto Alegre (Rio Grande del Sur).» Informes de la Construcción, nº 54 (octubre 1953): sp. Redacción IC. «Grupo residencial de Pedregulho en Rio de Janeiro.» Informes de la Construcción, nº 55 (noviembre 1953): sp. Redacción IC. «Banco de Bahía en Salvador.» Informes de la Construcción, nº 69 (marzo 1955): sp. Redacción IC. «Brasil.» Informes de la Construcción, nº 70 (abril 1955): sp. Redacción IC. «Hospital del cáncer, Sao Paulo.» Informes de la Construcción, nº 71 (mayo 1955): sp. Redacción IC. «Ciudad Universitaria de Sao Paulo. Zona residencial de estudiantes.» Informes de la Construcción, nº 73 (julio 1955): sp. Redacción IC. «Teatro Cultura Artística, en Sao Paulo.» Informes de la Construcción, nº 75 (noviembre 1955): sp. Redacción IC. «Alfonso Eduardo Reidy.» Informes de la Construcción, nº 76 (diciembre 1955): sp. Redacción IC. «Hospital infantil, en Sao Paulo.» Informes de la Construcción, nº 76 (diciembre 1955): sp. Redacción IC. «Museo de Arte Moderno en Rio de Janeiro.» Informes de la Construcción, nº 76 (diciembre 1955): sp. Redacción IC. «Rino Levi. Brasil.» Informes de la Construcción, nº 76 (diciembre 1955): sp. IC. «Brasil.» Informes de la Construcción, nº 82 (junio 1956): sp.'
   - interdisciplinaridade e experiências em documentação e preservação do patrimônio recente brasília . junho de 2011 . www.docomomobsb.org
   - 'Redacción IC. «Conjunto residencial Pedregulho.» Informes de la Construcción, nº 86 (diciembre 1956): sp. Redacción IC. «Vivienda en una granja.» Informes de la Construcción, nº 88 (febrero 1957): sp. Redacción IC. «Brasil.» Informes de la Construcción, nº 90 (abril 1957): sp. Redacción IC. «Residencia en Jacarepagua.» Informes de la Construcción, nº 90 (abril 1957): sp. Redacción IC. «Brasil.» Informes de la Construcción, nº 93 (agosto-septiembre 1957): sp. Redacción IC. «Edificio Eiffel.» Informes de la Construcción, nº 95 (noviembre 1957): sp. Redacción RNA. «I Bienal del Museo de Arte Moderno de Sao Paulo.» Revista Nacional de Arquitectura, nº 115 (julio 1951): XXI. Redacción RNA. «Instituto de física nuclear teórica en la ciudad de Sao Paulo (Brasil).» Revista Nacional de Arquitectura, nº 146 (febrero 1954): 25. Redacción RNA. «Arquitectura en el Brasil.» Revista Nacional de Arquitectura, nº 156 (diciembre 1954): 34-48. Redacción RNA. «Arquitectura en el Brasil.» Revista Nacional de Arquitectura, nº 156 (diciembre 1954): 35. Redacción RNA. «Brasil.» Revista Nacional de Arquitectura, nº 186 (junio 1957): 15. Redacción RNA. «IV Bienal de Sao Paulo.» Revista Nacional de Arquitectura, nº 186 (junio 1957): sp. Redacción TA. «Brasilia: Nueva capital del Brasil.» nº 1 (octubre 1958): 5-16. Redacción TA. «Viaje de Rafael Leoz por Hispanoamérica.» Temas de Arquitectura, nº 55 (1963): 5. Redacción TA. «Brasilia, Nueva York y París, tres ciudades sin futuro.» Temas de Arquitectura, nº 99 (septiembre 1967): 27. Ruiz de Elvira, José, Juan Jesús Trapero, y Nicolás Fernández. «Informe sobre Brasilia.» Hogar y Arquitectura, nº 33 (marzo-abril 1961): 26-40.'
-
 - title: A experiência do Museu de Arte de São Paulo
   subtitle: a ação de arquitetos e artistas estrangeiros na modernidade paulista
   authors:
@@ -3542,7 +3401,6 @@ articles:
   - SAMBONET, Luiza Uma moda brasileira. Revista Habitat n. 9, p. 66.
   - 'SANCHES, Aline Coelho O Studio de Arte Palma e a fábrica de móveis Pau Brasil: povo, clima, materiais nacionais e o desenho de mobiliário moderno no Brasil, Revista Risco n.1, fevereiro de 2003, p. 22-43 Uma Exposição, Habitat n.2, jan-mar. 1951, p.42-43'
   - SARTORIS, Alberto Albini e Il suo tempo. Domus 603, fevereiro 1980, p.26-31.
-
 - title: Mesa
   subtitle: Arquitetura imigrante e ação cultural
   authors:
@@ -3550,7 +3408,6 @@ articles:
     familyname: Anelli
   pages: 1-3
   locale: pt-BR
-
 - title: Mesa
   subtitle: documentações, conexões, críticas — detalhes são coisas muito grandes pra esquecer
   authors:
@@ -3558,7 +3415,6 @@ articles:
     familyname: Zein
   pages: 1-3
   locale: pt-BR
-
 - title: Mesa
   subtitle: residências modernas
   authors:
@@ -3566,7 +3422,6 @@ articles:
     familyname: dos Santos Camisassa
   pages: 1-3
   locale: pt-BR
-
 - title: Mesa
   subtitle: patrimônio e cidades universitárias modernas
   authors:
@@ -3574,7 +3429,6 @@ articles:
     familyname: Segre
   pages: 1-3
   locale: pt-BR
-
 - title: Apresentação da mesa
   subtitle: 'expansão metropolitana: o desafio da gestão das grandes cidades'
   authors:
@@ -3582,7 +3436,6 @@ articles:
     familyname: Paviani
   pages: 1-5
   locale: pt-BR
-
 - title: Acervos de Arquitetura e de Urbanismo no Brasil
   subtitle: novas possibilidades de pesquisa e de ofício
   authors:
@@ -3605,7 +3458,6 @@ articles:
   - DOCOMOMO BRASIL, junho 2011
   - 'OLIVEIRA, Priscila Chagas, MELLO,Caroline Rippe de. “O Papel do Museólogo na Consolidação do Documento Histórico em Patrimônio Cultural: desafios e perspectivas do tempo presente”. 9º Seminário DOCOMOMO BRASIL, junho 2011'
   - 'SEGAWA, Hugo. “Palavras de arquitetos: depoimento oral como forma de documentação”. 9º Seminário DOCOMOMO BRASIL, junho 2011'
-
 - title: Mesa
   subtitle: espaços de esporte e lazer
   authors:
@@ -3613,7 +3465,6 @@ articles:
     familyname: Schlee
   pages: 1-2
   locale: pt-BR
-
 - title: Mesa
   subtitle: Arquitetura e Educação
   authors:
@@ -3621,7 +3472,6 @@ articles:
     familyname: Schlee
   pages: 1-2
   locale: pt-BR
-
 - title: Mesa Brasília
   subtitle: Urbanismo e sociedade
   authors:
@@ -3629,14 +3479,12 @@ articles:
     familyname: Schlee
   pages: 1-2
   locale: pt-BR
-
 - title: Interdisciplinaridade, Arte e Arquitetura
   authors:
   - givenname: Carlos Eduardo
     familyname: Comas
   pages: 1-2
   locale: pt-BR
-
 - title: Patrimônio recente
   subtitle: alguns estudos de caso
   authors:
@@ -3644,7 +3492,6 @@ articles:
     familyname: Martins
   pages: 1-3
   locale: pt-BR
-
 - title: Medo de ser moderno e outros medos
   authors:
   - givenname: Cecilia Rodrigues
@@ -3684,14 +3531,12 @@ articles:
   - _______________________________ “Medo Líquido e outros medos”. Resenha do livro Medo Líquido (Z. Bauman, Rio de Janeiro, Zahar, 2008) para a revista AGITROP, http://www.agitprop.com.br/leitura_det.php?codeps=MzV8ZkRsOA
   - '______________________________. "Novas fronteiras e novos pactos para o patrimônio cultural". In: Revista São Paulo em Perspectiva, vol.15, 2, abr/jun 2001.'
   - '______________________________. "Problema mal posto. Problema reposto". In: NOBRE, Ana Luiza; KAMITA, João Massao; LEONIDIO, Otavio; CONDURU, Roberto (orgs.). Lucio Costa - um modo de ser moderno. São Paulo, Cosac & Naify, 2004.'
-
 - title: Poder público e patrimônio recente
   authors:
   - givenname: Danilo Matoso
     familyname: Macedo
   pages: 1-3
   locale: pt-BR
-
 - title: Inventários
   subtitle: caminhos para preservação
   authors:
@@ -3699,14 +3544,12 @@ articles:
     familyname: Caixeta
   pages: 1-3
   locale: pt-BR
-
 - title: A formação do arquiteto e o patrimônio recente
   authors:
   - givenname: Fernando Diniz
     familyname: Moreira
   pages: 1-3
   locale: pt-BR
-
 - title: Capacitação em conservação da Arquitetura moderna
   subtitle: a experiência do CECI e do MDU-UFPE
   authors:
@@ -3726,7 +3569,6 @@ articles:
   - Brutalist architecture
   - Post-War Architecture
   - Pernambuco architecture
-
 - title: Texto introdutório à mesa
   subtitle: 'patrimônio, preservação e poder, dentro do eixo temático: reflexões sobre o patrimônio recente'
   authors:
@@ -3734,7 +3576,6 @@ articles:
     familyname: de Holanda
   pages: 1-3
   locale: pt-BR
-
 - title: Patrimônio, preservação e poder
   authors:
   - givenname: Frederico
@@ -3755,7 +3596,6 @@ articles:
   - cultural heritage
   - preservation policies
   - power
-
 - title: Disseminação da Arquitetura moderna
   subtitle: deslocamento, fluxo, mobilidade
   authors:
@@ -3767,7 +3607,6 @@ articles:
   - 'Inclua uma lista concisa de até cinco palavras-chave. Por exemplo: Arquitetura Moder- na – difusão'
   - Arquitetos – migração
   - Circulação de idéias
-
 - title: A função social da propriedade & o plano diretor
   authors:
   - givenname: José
@@ -3781,7 +3620,6 @@ articles:
   - Plano-Diretor
   - Propriedade
   - Conceito
-
 - title: Mesa
   subtitle: paradigmas do Urbanismo moderno
   authors:
@@ -3789,7 +3627,6 @@ articles:
     familyname: Galbinski
   pages: 1-2
   locale: pt-BR
-
 - title: Mesa
   subtitle: 'diálogos lusófonos: dos fluxos de idéias entre países de língua portuguesa'
   authors:
@@ -3797,7 +3634,6 @@ articles:
     familyname: Amorim
   pages: 1-3
   locale: pt-BR
-
 - title: Mesa
   subtitle: Historiografia de Arquitetura — práticas e reflexões
   authors:
@@ -3805,7 +3641,6 @@ articles:
     familyname: da Silva Pereira
   pages: 1-2
   locale: pt-BR
-
 - title: Correlação entre o patrimônio natural e o caráter do lugar do espaço residencial de Brasília
   authors:
   - givenname: Marta Adriana Bustos
@@ -3822,7 +3657,6 @@ articles:
   - urban geometry
   - microclimate
   - Brasilia
-
 - title: Uma intervenção controvertida
   subtitle: restauro e ampliação no edifício da Cepal em Santiago do Chile
   authors:
@@ -3847,7 +3681,6 @@ articles:
   - '- “Edifice des Nations Unies pour l’Amérique Latine”, in L’Architecture D’Aujourd’hui, nº 135 (Batiments Publics), Dec. 1967, Jan 1968, Paris, pgs. 54 a 57.'
   - '- “Edifício de las Naciones Unidas”, in Summa, nº 8, Buenos Aires.'
   - “Edifício de Las Naciones Unidas”, in Revista de La Construcción, Año III, nº 28, Septiembre 1964, Santiago de Chile.
-
 - title: Instituto Lina Bo e P. M. Bardi 2011
   subtitle: balanço e perspectivas
   authors:
@@ -3882,7 +3715,6 @@ articles:
   - 'PEREIRA, Juliano Aparecido. Lina Bo Bardi: Bahia 1958-1964. Uberlândia: EDUFU, 2007.'
   - RUBINO, Silvana e GRINOVER, Marina. Lina por escrito. São Paulo, Cosac-Naif, 2009.
   - TENTORI, Francesco. Pietro Maria Bardi. São Paulo, Mm Livros, 2000.
-
 - title: Uma casa, alguns desenhos e algumas cartas
   subtitle: a residência de Francisco Peixoto em Cataguases, MG
   authors:
@@ -3895,7 +3727,6 @@ articles:
   - arquitetura residencial moderna
   - Cataguases-MG
   - acervos documentais
-
 - title: Mesa
   subtitle: recepção e difusão ou recepção x difusão da Arquitetura moderna brasileira e sua preservação
   authors:
@@ -3903,7 +3734,6 @@ articles:
     familyname: Capello
   pages: 1-2
   locale: pt-BR
-
 - title: Recepção e difusão da Arquitetura moderna brasileira nos números especiais das revistas especializadas européias (1940-1960)
   authors:
   - givenname: Maria Beatriz Camargo
@@ -3923,7 +3753,6 @@ articles:
   - modern architecture
   - magazine architecture
   - Brazil
-
 - title: Archimedes Memória
   subtitle: '"o futuro ancorado no passado"'
   authors:
@@ -3943,4 +3772,3 @@ articles:
   - History of Architecture
   - Historicism
   - Modernity
-
