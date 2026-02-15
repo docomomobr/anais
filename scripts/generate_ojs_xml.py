@@ -33,8 +33,9 @@ FICHAS_PATH = os.path.join(BASE_DIR, 'revisao', 'fichas_catalograficas.yaml')
 # Map seminar slug prefix to regional directory
 REGION_MAP = {
     'sdnne': 'regionais/nne',
-    'sdrj': 'regionais/rio',
-    'sdsp': 'regionais/sp',
+    'sdmg': 'regionais/se',
+    'sdrj': 'regionais/se',
+    'sdsp': 'regionais/se',
     'sdsul': 'regionais/sul',
     'sdbr': 'nacionais',
 }
@@ -42,11 +43,9 @@ REGION_MAP = {
 # Volume name mapping (for OJS display)
 VOLUME_NAMES = {
     1: 'Brasil',
-    2: 'Minas Gerais',
+    2: 'Sudeste',
     3: 'Norte/Nordeste',
-    4: 'Rio de Janeiro',
-    5: 'São Paulo',
-    6: 'Sul',
+    4: 'Sul',
 }
 
 
