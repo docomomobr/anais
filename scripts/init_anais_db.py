@@ -58,7 +58,8 @@ CREATE TABLE IF NOT EXISTS articles (
     keywords_es TEXT,
     references_ TEXT,
     ojs_id TEXT,
-    doi TEXT
+    doi TEXT,
+    document_type TEXT DEFAULT 'artigo'
 );
 
 CREATE TABLE IF NOT EXISTS authors (

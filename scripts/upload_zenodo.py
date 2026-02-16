@@ -62,7 +62,7 @@ def fetch_articles(db, seminar_slug, limit=None):
     """Fetch articles with seminar and section metadata."""
     sql = """
         SELECT a.id, a.title, a.subtitle, a.abstract, a.keywords,
-               a.file, a.locale, a.pages, a.doi,
+               a.file, a.locale, a.pages, a.doi, a.document_type,
                s.title as section_title,
                sem.title as sem_title, sem.subtitle as sem_subtitle,
                sem.date_published, sem.location, sem.isbn, sem.publisher,
@@ -124,10 +124,14 @@ def _slug_to_ambito(slug):
 
 def build_metadata(article, authors, seminar_slug):
     """Build Zenodo metadata dict from DB data."""
+    is_resumo = article['document_type'] == 'resumo'
+
     # Title: combine title + subtitle
     title = article['title']
     if article['subtitle']:
         title += ': ' + article['subtitle']
+    if is_resumo:
+        title += ' [Resumo]'
 
     # Creators
     creators = []
@@ -154,6 +158,8 @@ def build_metadata(article, authors, seminar_slug):
 
     # Description (abstract or fallback)
     description = article['abstract'] or '(sem resumo)'
+    if is_resumo:
+        description = '<p><em>Resumo de comunicação apresentada em evento.</em></p>\n' + description
 
     metadata = {
         'title': title,

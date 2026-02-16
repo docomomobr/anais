@@ -226,6 +226,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     lines.append(f'date: {seminar["date_published"]}')
     lines.append(f'slug: {article_id}')
     lines.append(f'type: artigo')
+    if article['document_type'] and article['document_type'] != 'artigo':
+        lines.append(f'document_type: {article["document_type"]}')
     if article['section_title']:
         # Strip slug suffix from section title for display
         sec = article['section_title']
