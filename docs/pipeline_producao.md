@@ -65,10 +65,51 @@ Resultado esperado: 21 slugs, ~920 artigos total, ~1100 ORCIDs.
 
 Checklist:
 - [x] Títulos normalizados — `scripts/normalizar_maiusculas.py`
+- [ ] Referências verificadas — `scripts/check_references.py`
 - [ ] Autores deduplicados — `scripts/dedup_authors.py`
 - [ ] ORCIDs buscados — `scripts/fetch_orcid.py`
 - [ ] Fichas catalográficas revisadas — `revisao/fichas_catalograficas.yaml`
 - [ ] Dump atualizado — `python3 scripts/dump_anais_db.py`
+
+---
+
+## Fase 0 — Qualidade dos dados
+
+### 0.1. Normalização de títulos
+
+Normaliza capitalização dos títulos e subtítulos conforme norma brasileira (sentence case com exceções para nomes próprios, siglas, áreas, movimentos, expressões consolidadas). Usa o dicionário `dict/dict.db` com ~4270 entradas.
+
+```bash
+# Verificar mudanças (sem alterar)
+python3 scripts/normalizar_maiusculas.py --dry-run
+
+# Verificar um seminário específico
+python3 scripts/normalizar_maiusculas.py --slug sdnne07 --dry-run
+
+# Aplicar
+python3 scripts/normalizar_maiusculas.py
+```
+
+Se aparecerem falsos positivos (palavras ambíguas capitalizadas indevidamente), corrigir no `dict/dict.db` — remover a entrada standalone e, se necessário, adicionar como expressão multi-palavra. Ver `docs/devlog_normalizacao_maiusculas.md`.
+
+### 0.2. Verificação de referências
+
+Detecta erros nas referências bibliográficas: referências concatenadas (múltiplas na mesma linha), não-referências (texto corrido, legendas de figuras), e fragmentos incompletos.
+
+```bash
+# Resumo por seminário
+python3 scripts/check_references.py --summary
+
+# Detalhe de um seminário
+python3 scripts/check_references.py --slug sdsul04
+
+# Filtrar por tipo de problema
+python3 scripts/check_references.py --type concatenada
+python3 scripts/check_references.py --type nao_ref
+python3 scripts/check_references.py --type curta
+```
+
+Estado atual: 3341 problemas em 36409 referências (9.2%). Piores: sdsul04 (65.8%), sdsul05 (49.5%), sdrj04 (29.5%). Correção requer revisão manual ou re-extração dos PDFs.
 
 ---
 
