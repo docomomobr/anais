@@ -1,49 +1,67 @@
 issue:
   slug: sdsul06
-  title: 6º Seminário Docomomo Sul, Porto Alegre, 2019
+  title: '6º Seminário Docomomo Sul, Porto Alegre, 2019'
   subtitle: 'O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I'
-  location: Porto Alegre, RS
+  location: 'Porto Alegre, RS'
   year: 2019
   volume: 4
   number: 6
-  isbn: 978-85-61965-77-8
+  isbn: '978-85-61965-77-8'
   publisher: Núcleo Docomomo RS / Marcavisual
   editors:
   - Carlos Eduardo Comas
   - Marta Peixoto
-  volume_pdf: sdsul06_anais.pdf
   description: '6° Seminário Docomomo Sul: anais: O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre, RS: Marcavisual, 2019. Disponível também em: www.ufrgs.br/propar/publicacoes.htm. ISBN: 978-85-61965-77-8.'
-  source: https://www.ufrgs.br/propar/publicacoes.htm
+  source: 'https://www.ufrgs.br/propar/publicacoes.htm'
   date_published: '2019-11-07'
+  volume_pdf: sdsul06_anais.pdf
   sections:
   - title: Artigos Completos
-    abbrev: AC-sdsul06
+    abbrev: 'AC-sdsul06'
 articles:
-- id: sdsul06-001
-  locale: pt-BR
-  arquivo_pdf: sdsul06-001.pdf
-  pages_count: 15
-  resumo: Este artigo apresenta a trajetória do Edifício Guaspari, construído na esquina da Avenida Borges de Medeiros com a Rua José Montaury, ícone da modernidade em Porto Alegre. Não se limita apenas naanálise da construção, mas busca revelar a obra como um importante personagem na história e na arquitetura do Centro Histórico. Traça um breve histórico dos acontecimentos urbanos e arquitônicos ocorridos na decada de 1930 em Porto Alegre assim como a história do Edifício Guaspari,projeto do escultor e arquiteto autodidata Fernando Corona; edifício que está diretamente relacionadoa estes acontecimentos, de forma cronológica, apontaas transformações sofridas pelo edifícioao longo da sua existência. Apresenta a última intervenção no edifício, ocorrida em 2017, trata-se do processo de requalificação do edifício que esteve quase três décadas totalmente encoberto por uma estrutura metálica, irreconhecível. O trabalho, além de abordar as propostas e alterações arquitetônicas sofridas ao longo do tempo, evidencia o processo de requalificação como responsável pelo ressurgimento do edifício no Centro Histórico, deixando de ser uma imagem reminiscente.
-  palavras_chave:
+
+- id: 'sdsul06-001'
+  title: Edifício Guaspari
+  subtitle: uma intervenção recente no Centro Histórico de Porto Alegre
+  authors:
+  - givenname: Alexandre Bataioli da
+    familyname: Silva
+    email: 'alexandrebataioli@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: João Paulo Silveira
+    familyname: Barbiero
+    email: 'silveirabarbiero@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: 'Este artigo apresenta a trajetória do Edifício Guaspari, construído na esquina da Avenida Borges de Medeiros com a Rua José Montaury, ícone da modernidade em Porto Alegre. Não se limita apenas naanálise da construção, mas busca revelar a obra como um importante personagem na história e na arquitetura do Centro Histórico. Traça um breve histórico dos acontecimentos urbanos e arquitônicos ocorridos na decada de 1930 em Porto Alegre assim como a história do Edifício Guaspari,projeto do escultor e arquiteto autodidata Fernando Corona; edifício que está diretamente relacionadoa estes acontecimentos, de forma cronológica, apontaas transformações sofridas pelo edifícioao longo da sua existência. Apresenta a última intervenção no edifício, ocorrida em 2017, trata-se do processo de requalificação do edifício que esteve quase três décadas totalmente encoberto por uma estrutura metálica, irreconhecível. O trabalho, além de abordar as propostas e alterações arquitetônicas sofridas ao longo do tempo, evidencia o processo de requalificação como responsável pelo ressurgimento do edifício no Centro Histórico, deixando de ser uma imagem reminiscente.'
+  keywords:
   - Edifício Guaspari
   - Requalificação
   - Preexistência
   - Porto Alegre
-  referencias:
-  - 'ALBRECHT, Fernando. Da Guaspari para Lebes.21 ago. 2017ª.Jornal do Comércio <https://www.jornaldocomercio.com/_conteudo/2017/07/colunas/comeco_de_conversa/5750 12-da-Guaspari-para-lebes.html>. Acesso em: 22 set. 2019.'
+  references:
+  - 'ALBRECHT, Fernando. Da Guaspari para Lebes.21 ago. 2017ª.Jornal do Comércio <https://www.jornaldocomercio.com/_conteudo/2017/07/colunas/comeco_de_conversa/5750 12-da-guaspari-para-lebes.html>. Acesso em: 22 set. 2019.'
   - 'APPLETON, J.A. Reabilitação de edifícios antigos: patologias e tecnologias de intervenção – 2ª Edição. Editora Orion, 2011.'
-  - BATAIOLI da Silva, Alexandre. Edifício Guaspari - Uma sobreposição de tempos. Uniritter (Dissertação de Mestrado programa de pós-graduação em arquitetura e urbanismo mestrado associado Uniritter/Mackenzie), Porto Alegre, 2019.
+  - 'BATAIOLI da Silva, Alexandre. Edifício Guaspari - Uma sobreposição de tempos. Uniritter (Dissertação de Mestrado programa de pós-graduação em arquitetura e urbanismo mestrado associado Uniritter/Mackenzie), Porto Alegre, 2019.'
   - 'BUENO, Eduardo. Porto Alegre na vitrine: memória do comércio varejista da capital gaúcha, Edição comemorativa dos 75 anos do Sindicato dos Lojistas de Porto Alegre (Sindilojas), 2012.'
   - 'BRAGA, Márcia. Conservação e restauro – Arquitetura Brasileira. Rio de janeiro: Rio, 2003.'
   - '_____. Três casos em São Paulo mostram por que o retrofit é uma opção econômica de conservação do patrimônio histórico em áreas de potencial construtivo esgotado.Revista Construção Mercado, Negócios de Incorporação & Construção. 2018. Disponível em:<https://construcaomercado.pini.com.br/2018/04/retrofit-obra-rentavel-cidade- renovada/>. Acesso em: 22 set. 2019.'
   - 'BARRIENTOS, M. I. G. G. Retrofit de edificações: estudo de requalificação e adaptação das edificações antigas às necessidades atuais. 2004. 189 f. Dissertação (Faculdade de Arquitetura e Urbanismo), Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2004.'
-  - CANEZ, Anna Paula. Fernando Corona e os caminhos da arquitetura moderna em Porto Alegre. 1ª edição, Porto Alegre, Unidade Editorial, 1998.
+  - 'CANEZ, Anna Paula. Fernando Corona e os caminhos da arquitetura moderna em Porto Alegre. 1ª edição, Porto Alegre, Unidade Editorial, 1998.'
   - 'CORONA, Fernando. 50 anos de formas plásticas e seus autores. In. Becker Klaus (Org.). Separata da Enciclopédia Rio-grandense, Vol. 3. Canoas: Regional, 1957.'
   - 'DEL RIO, Vicente. “O Modelo da Revitalização Urbana e o Caso de Baltimore”. In: Cadernos doPatrimônio Cultural, nº4/5, Rio de Janeiro, Prefeitura da Cidade do Rio de Janeiro, DGPC, 1994.'
   - 'FERREIRA, Aurélio Buarque de Holanda (1986). “Requalificar”. Novo dicionário da língua portuguesa, 2ª edição, Rio de Janeiro: Nova Fronteira.'
   - '_____. Modernidade, arquitetura e urbanismo: o centro de Porto Alegre (1928-1945).'
-  - PUCRS (Tese de Doutorado em História do Brasil Instituto de Filosofia e Ciências Humanas), Porto Alegre, 1998.
-  - GADENS, Leticia, ULTRAMARI, Clóvis e ALCIDES REZENDE, Denis. Irracionalidades urbanas e requalificação de áreas centrais. Redes. Revista do Desenvolvimento Regional, vol. 12, núm. 3, septiembre-diciembre, 2007, p. 21-35. Universidade de Santa Cruz do Sul, Santa Cruz do Sul, Brasil.
+  - 'PUCRS (Tese de Doutorado em História do Brasil Instituto de Filosofia e Ciências Humanas), Porto Alegre, 1998.'
+  - 'GADENS, Leticia, ULTRAMARI, Clóvis e ALCIDES REZENDE, Denis. Irracionalidades urbanas e requalificação de áreas centrais. Redes. Revista do Desenvolvimento Regional, vol. 12, núm. 3, septiembre-diciembre, 2007, p. 21-35. Universidade de Santa Cruz do Sul, Santa Cruz do Sul, Brasil.'
   - 'HYPE STUDIO. República 358. Disponível em: <https://www.hypestudio.com.br/copia- republica-358>. 2016. Acesso em: 27 fev. 2019.'
   - 'IBGE. Dados do Censo do IBGE de 2000 e PMPA. 2000. Disponível em: <http://www2.portoalegre.rs.gov.br/vivaocentro/default.php?p_secao=18>. Acesso em: 22 set. 2019.'
   - INSTITUTO BRASILEIRO DE AVALIAÇÕES E PERÍCIAS DE ENGENHARIA DE SÃO
@@ -51,51 +69,46 @@ articles:
   - 'IPHAN. Cartas Patrimoniais. Carta de Veneza, 1964. Disponível em http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Veneza%201964.pdf>. Acesso em: 22 set. 2019.'
   - 'KOSACHENCO, Camila. Em edifício histórico, Lebes Life Store será inaugurada nesta quarta no Centro Histórico. Gaúcha ZH. Publicado em 08 de agosto de 2017. Disponível em: <https://gauchazh.clicrbs.com.br/porto-alegre/noticia/2017/08/em-edificio-historico- lebes-life-store-sera-inaugurada-nesta-quarta-no-centro-historico-9864718.html>. Acesso em: 08 jun. 2019.'
   - 'MAGALHÃES, Roberto Anderson M. Preservação e requalificação do centro do Rio nas décadas de 1980 e 1990: a construção de um objetivo difuso. 2002. Disponível em: <http://theurbanearth.files.wordpress.com/2009/01/preservacao-e-requalificacao-do-centro- do-rio.pdf>. Acesso em: 15 mai. 2018.'
-  - MARIANO, Denis Alves. O panorama atual da requalificação de edifícios de escritórios na cidade de São Paulo. 2013.. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie, São Paulo, 2013.
-  - MARQUES DE JESUS, Christiano Ramanholo. Análise de custos para a requalificação de edifícios para habitação. 2008. Dissertação (Mestrado em Engenharia Civil) - Escola Politécnica da Universidade de São Paulo (USP), São Paulo, 2008.
+  - 'MARIANO, Denis Alves. O panorama atual da requalificação de edifícios de escritórios na cidade de São Paulo. 2013.. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie, São Paulo, 2013.'
+  - 'MARQUES DE JESUS, Christiano Ramanholo. Análise de custos para a requalificação de edifícios para habitação. 2008. Dissertação (Mestrado em Engenharia Civil) - Escola Politécnica da Universidade de São Paulo (USP), São Paulo, 2008.'
   - 'ORLANDINI, Ricardo. Um pouco da memória “do Guaspari” - como diziam os Portoalegrenses. Porto Alegre, 25 ago. 2011. Disponível em: <http://www.ricardoorlandini.net/colunistas/imprime/49/31054>. Acesso em: 03 set. 2019.'
-  - PESAVENTO, Sandra Jatahy. O imaginário da cidade. Visões literárias do urbano. Porto Alegre:UFRGS, 1999.
+  - 'PESAVENTO, Sandra Jatahy. O imaginário da cidade. Visões literárias do urbano. Porto Alegre:UFRGS, 1999.'
   - 'REGINATO, Juliano da Cunha. A produção fotográfica da Exposição do CentenárioFarroupilha: visualidades de um evento. Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Filosofia e Ciências Humanas, Campinas,'
   - 'SP, 2010. Acesso em: 5 set. 2019.'
   - 'ROSSI, Elvio Antônio. Fernando Corona. HACER - História da Arte e da Cultura: Estudos e reflexões, Porto Alegre, 2016. Disponível em: <http://www.hacer.com.br/fernandocorona>. Acesso em: 5 set. 2019.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 2002.'
   - 'SESC. Administração Regional do Estado de São Paulo. Pompeia. 2019. Disponível em: <https://www.sescsp.org.br/pt/sobre-o-sesc/unidades/11_POMPEIA>. [S.I]. Acesso em: 22 set. 2019.'
   - 'SZEKUT, Alessandra Rambo. Vertentes da Modernidade no Rio Grande do Sul: A obra do arquiteto Luis Fernando Corona. Dissertação (Mestrado em Arquitetura - PROPAR) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2008. _____.Levantamento de projetos arquitetônicos Porto Alegre - 1892 a 1957. Prefeitura Municipal de Porto Alegre, 1998. _____.Arquitetura Modernista em Porto Alegre entra 1930 e 1945. Porto Alegre: Unidade Editorial de Porto Alegre, 1998.'
-  seminario: sdsul06
-  titulo: Edifício Guaspari
-  subtitulo: uma intervenção recente no Centro Histórico de Porto Alegre
-  secao: Artigos Completos
-  paginas: 5-19
-  autores:
-  - givenname: Alexandre Bataioli da
-    familyname: Silva
-    email: alexandrebataioli@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-001.pdf'
+  pages_count: 15
+  pages: '5-19'
+
+- id: 'sdsul06-002'
+  title: O interior da residência de Antônio Barbosa
+  subtitle: uma breve análise da atmosfera projetada por Vilanova Artigas
+  authors:
+  - givenname: Amanda Evellyn
+    familyname: Zys
+    email: 'amandazys@gmail.com'
     affiliation: null
+    orcid: '0009-0004-8733-056X'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: João Paulo Silveira
-    familyname: Barbiero
-    email: silveirabarbiero@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-002
-  locale: pt-BR
-  arquivo_pdf: sdsul06-002.pdf
-  pages_count: 16
-  resumo: Este ensaio tem como principal objetivo realizar uma revisão sobre o interior da residência de Antônio Barbosa de Souza (1971- 1974), projeto do arquiteto João Batista Vilanova Artigas localizado em Campo Grande no estado do Mato Grosso do Sul, obra pouco conhecida e citada do arquiteto curitibano. Para tanto, a análise terá seu foco na atmosfera das áreas sociais e na relação entre envoltório e conteúdo. A análise será realizada através da observação e descrição dos componentes que conformam a ambiência interna da residência dos Barbosas, como dimensões, disposição de mobiliários e equipamentos, variedade de texturas e materiais, iluminação natural, artificial e demais elementos relevantes à composição da atmosfera ali criada. Essa investigação se apoiará, principalmente, na análise de imagens do começo da década de 80, disponíveis no Acervo da Biblioteca da FAUUSP (Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo), quando a residência era ainda lar dos Barbosas e encontrava-se, de certa forma, intocada. Único exemplar de Artigas na cidade de Campo Grande, a residência teve seu uso alterado no ano de 2007, quando passou a abrigar a sede da Agepan (Agência Estadual de Regulação de Serviços Públicos de Mato Grosso do Sul), o que gerou mudanças profundas no caráter do edifício e consequências ao projeto, que teve seu espaço interior e jardins alterados. Por último, o trabalho pretende iniciar uma breve discussão sobre as adaptações que a residência sofreu com o passar dos anos e sua relação com a questão da preservação da identidade arquitetônica de um projeto considerado historicamente importante para a cidade de Campo Grande.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'Este ensaio tem como principal objetivo realizar uma revisão sobre o interior da residência de Antônio Barbosa de Souza (1971- 1974), projeto do arquiteto João Batista Vilanova Artigas localizado em Campo Grande no estado do Mato Grosso do Sul, obra pouco conhecida e citada do arquiteto curitibano. Para tanto, a análise terá seu foco na atmosfera das áreas sociais e na relação entre envoltório e conteúdo. A análise será realizada através da observação e descrição dos componentes que conformam a ambiência interna da residência dos Barbosas, como dimensões, disposição de mobiliários e equipamentos, variedade de texturas e materiais, iluminação natural, artificial e demais elementos relevantes à composição da atmosfera ali criada. Essa investigação se apoiará, principalmente, na análise de imagens do começo da década de 80, disponíveis no Acervo da Biblioteca da FAUUSP (Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo), quando a residência era ainda lar dos Barbosas e encontrava-se, de certa forma, intocada. Único exemplar de Artigas na cidade de Campo Grande, a residência teve seu uso alterado no ano de 2007, quando passou a abrigar a sede da Agepan (Agência Estadual de Regulação de Serviços Públicos de Mato Grosso do Sul), o que gerou mudanças profundas no caráter do edifício e consequências ao projeto, que teve seu espaço interior e jardins alterados. Por último, o trabalho pretende iniciar uma breve discussão sobre as adaptações que a residência sofreu com o passar dos anos e sua relação com a questão da preservação da identidade arquitetônica de um projeto considerado historicamente importante para a cidade de Campo Grande.'
+  keywords:
   - Vilanova Artigas
   - Campo Grande
   - Arquitetura Moderna
   - Arquitetura de Interiores
-  referencias:
-  - ARGAN, Giulio Carlo. História da arte como história da cidade. Ed. Martins Fontes, 2001.
+  references:
+  - 'ARGAN, Giulio Carlo. História da arte como história da cidade. Ed. Martins Fontes, 2001.'
   - 'ARRUDA, Ângelo Marcos Vieira de. A difusão da Arquitetura Moderna Brasileira em Campo Grande, Revista Ensaios e Ciência: Ciências Biológicas, Agrárias e da Saúde. S, v. 4, n.3, p.25-54, dez. 2000. Disponível em: <https://www.redalyc.org/pdf/260/26040303.pdf>'
   - 'ARRUDA, Ângelo Marcos Vieira de. A casa em Campo Grande: Mato Grosso do Sul, 1950-2000 – parte 2. Arquitextos, Texto Especial n. 183. São Paulo, Portal Vitruvius, jun. 2003'
   - 'ARTIGAS, João Batista Vilanova. Caminhos da arquitetura. São Paulo: Cosac Naify, 2004.'
-  - BARDI, Lina Bo. Casas de Vilanova Artigas. Revista Habitat, São Paulo, n. 01, p. 2-16, out.-dez. 1950.
+  - 'BARDI, Lina Bo. Casas de Vilanova Artigas. Revista Habitat, São Paulo, n. 01, p. 2-16, out.-dez. 1950.'
   - 'CAVALCANTI, Lauro. Quando o Brasil era moderno: guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.'
   - 'PEIXOTO, Marta Silveira. A sala bem temperada: interior Moderno e sensibilidade eclética, Tese de Doutorado, Universidade Federal do Rio Grande do Sul, Porto Alegre, agosto de 2006.'
   - 'PERPÉTUO, Daniela. A morada paulista moderna: espaços interiores nas residências de João Batista Vilanova Artigas. 2012. 252 f. Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo, 2012.'
@@ -103,90 +116,106 @@ articles:
   - 'ZEIN, Ruth Verde. Brutalismo, Escola Paulista: entre o ser e o não ser. Porto Alegre, Revista ArqTextos 2 – PROPAR-UFRS, 2002. Disponível em: <http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_2/2_Ruth.pdf>, consultado em: 23/09/2019. 11 ARGAN, Giulio Carlo. História da arte como história da cidade. Ed. Martins Fontes, 2001.'
   - 'ZEIN, Ruth Verde. O lugar da crítica: Ensaios oportunos de arquitetura. “Vilanova Artigas: A obra do arquiteto”. Porto Alegre: Centro Universitário Ritter dos Reis, 2001.'
   - 'ZEIN, Ruth Verde. Vilanova Artigas: a obra do arquiteto. Revista Projeto, São Paulo, SP, n. 66, p. 79-91, 1984.'
-  - WEBER, Raquel. A linguagem da estrutura na obra de Vilanova Artigas. 133 folhas. Dissertação (Mestrado) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
+  - 'WEBER, Raquel. A linguagem da estrutura na obra de Vilanova Artigas. 133 folhas. Dissertação (Mestrado) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.'
   - 'XAVIER, Alberto (org). Depoimento de uma geração. São Paulo: Cosac & Naif, 2003.'
-  seminario: sdsul06
-  titulo: O interior da Residência de Antônio Barbosa
-  subtitulo: uma breve análise da atmosfera projetada por Vilanova Artigas
-  secao: Artigos Completos
-  paginas: 20-35
-  autores:
-  - givenname: Amanda Evellyn
-    familyname: Zys
-    email: amandazys@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-003
-  locale: pt-BR
-  arquivo_pdf: sdsul06-003.pdf
+  locale: 'pt-BR'
+  file: 'sdsul06-002.pdf'
   pages_count: 16
-  resumo: Este artigo tem como objetivo apresentar os resultados do projeto de pesquisa “Inventariação de bens edificados com interesse patrimonial na área central de Santa Maria – RS” no que concerne as edificações modernistas do centro histórico que foram abarcadas, ou não, pelo Decreto Executivo (84/2018) que tombou provisoriamente cento e trinta e cinco remanescentes de vários períodos da história da cidade. A principal razão para o desenvolvimento deste projeto é a desproteção de bens ocasionada pela aprovação da nova legislação de uso e ocupação do solo urbano de Santa Maria, ocorrido em meados de 2018, onde a proteção garantida anteriormente pela configuração da chamada zona 2, centro histórico, foi substituída pela pressão da especulação imobiliária. Como ação emergencial, o poder executivo municipal emitiu o decreto que elencou as edificações a serem mantidas, até que seu valor seja realmente aferido. Assim, fez-se necessária uma união de forças entre as universidades e o Instituto de Planejamento de Santa Maria (IPLAN), para garantir o reconhecimento dos bens com valor e apoiar os pedidos de preservação. Entretanto neste primeiro momento da reação preservacionista alguns exemplares foram excluídos da listagem, principalmente os exemplares modernistas, devido não apenas ao seu caráter emergencial como ainda ao grande impacto do tombamento de conjunto e a reação negativa sobre a sociedade. A pesquisa consistiu na elaboração das fichas cadastrais para auxiliarem no tombamento, por meio de revisão bibliográfica, levantamento em diversos acervos, assim como no levantamento fotográfico atualizado das fachadas das edificações. Num segundo momento, foram analisados futuros exemplares para constituírem outro inventário e possíveis estratégias de incentivo aos proprietários dos bens tombados. Finalmente, o inventário representa a continuidade da luta pela preservação e esta nova listagem para inventariação, que provavelmente será apresentada e aprovada pelo poder público, minimizará o dano da precipitada retirada da proteção do patrimônio remanescente.
-  palavras_chave:
-  - Patrimônio Arquitetônico
-  - Preservação
-  - Arquitetura Moderna
-  - Modernismo no Rio Grande do Sul
-  referencias:
-  - 'BELEM, João. História do Município de Santa Maria – 1797/1933. 3 ed. Santa Maria: Ed. Da'
-  - 'BELTRÃO, Romeu. Cronologia Histórica de Santa Maria e do Extinto Município de São Martinho. Volume I (1787-1930). Santa Maria: Editora Pallotti, 1958.'
-  - CANEZ, Ana Paula; CAIXETA, Eline Maria; Margot Ines, CARUCCIO; LIMA, Raquel Rodrigues;
-  - 'MAGLIA, Viviane Villas Boas. Acervos Azevedo Moura & Gertum e João Alberto: imagem e construção da modernidade em Porto Alegre. Porto Alegre: UniRitter, 2004.'
-  - 'FOLETTO, Vani (org.). Apontamentos sobre a história da arquitetura de Santa Maria. Santa Maria: Pallotti, 2008.'
-  - 'GASPARY, Fernanda; MONTAGNER, Francieli. PEREIRA, Clarissa; PEREYRON, Daniel. A Arquitetura Residencial Moderna na Região Central do Rio Grande do Sul. In: 3º SEMINÁRIO IBERO-AMERICANO ARQUITETURA E DOCUMENTAÇÃO. Belo Horizonte, 2013.'
-  - JOVANOVICH, C. La Compagnie auxiliaire de chemins de fer au Brésil y la ciudad de Santa Maria en Rio Grande do Sul, Brazil. 2003. Tese (Doutorado em Arquitetura) - UPC. Barcelona, 2003.
-  - 'MARCHIORI, J.N., NOAL FILHO, V.A. (orgs). Santa Maria: relatos e impressões de viagem. 2 ed. Santa Maria: Ed.; da UFSM, 2008.'
-  - 'NOGUEIRA, Ana Paula. Patrimônio arquitetônico moderno em Santa Maria: as casas do arquiteto Luiz Arthur Vallandro – um resgate analítico. Dissertação de mestrado. Santa Maria: Universidade Federal de Santa Maria, UFSM. 2011.'
-  - 'SCHLEE, Andrey Rosenthal. Obras fundamentais da Arquitetura Moderna em Santa Maria. In: V Encontro de Teoria e História da Arquitetura do Rio Grande do Sul. 2000, Faculdade de Arquitetura das Faculdades Integradas do Instituto Ritter dos Reis. Cadernos de Arquitetura Ritter dos Reis, 2001.'
-  seminario: sdsul06
-  titulo: A inclusão do Patrimônio Moderno na inventariação de bens edificados com interesse patrimonial
-  secao: Artigos Completos
-  paginas: 36-51
-  autores:
+  pages: '20-35'
+
+- id: 'sdsul06-003'
+  title: A inclusão do Patrimônio Moderno na inventariação de bens edificados com interesse patrimonial
+  authors:
   - givenname: Anelis Rolão
     familyname: Flôres
-    email: anelis@ufn.edu.br
+    email: 'anelis@ufn.edu.br'
     affiliation: null
+    orcid: '0000-0003-1918-4084'
+    bio: null
     country: BR
     primary_contact: true
   - givenname: Francisco
     familyname: Queruz
-    email: francisco@ufn.edu.br
+    email: 'francisco@ufn.edu.br'
     affiliation: null
+    orcid: '0009-0004-3978-6888'
+    bio: null
     country: BR
     primary_contact: false
   - givenname: Adriano da Silva
     familyname: Falcão
-    email: adriarq@ufn.edu.br
+    email: 'adriarq@ufn.edu.br'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: false
   - givenname: Gabriela Martins
     familyname: Flores
-    email: nao.informado4@sdsul06.temp
+    email: 'nao.informado4@sdsul06.temp'
     affiliation: null
+    orcid: '0000-0003-1515-8567'
+    bio: null
     country: BR
     primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-004
-  locale: pt-BR
-  arquivo_pdf: sdsul06-004.pdf
-  pages_count: 19
-  resumo: Um dos aspectos associados à arquitetura moderna é a busca de transparência, procurando criar maior integração visual com o exterior. A obtenção de transparência implica uma alteração significativa das superfícies verticais das edificações, antes maciças e pouca vazadas, e cada vez mais abertas e expostas a partir da metade do século XX, com a consequente ampliação das superfícies envidraçadas. A arquitetura moderna brasileira procurou adaptar essa premissa às condições particulares de clima e contexto com a criação de sistemas de proteção, como a aplicação de brises e elementos vazados (cobogós). O objetivo deste artigo é uma reflexão acerca da transparência e permeabilidade na arquitetura moderna gaúcha por meio do estudo do Edifício Christofell (1962), do arquiteto Emil Bered, com enfoque na alteração da fachada em reforma recente, que subtraiu os panos vazados, um dos elementos de composição arquitetônica mais expressivos. O uso dos cobogós como elemento de arquitetura foi importante para a composição arquitetônica da edificação, especialmente com função protetora, permitindo que a luz e insolação que incide na fachada oeste fosse filtrada num jogo instigante de transparências e sombras, conferindo privacidade, permeabilidade visual e porosidade à fachada. Sua perda afeta esses atributos, desvelando os panos envidraçados. O estudo traz resultados preliminares do Projeto de Pesquisa Emil Bered Arquiteto em andamento, com um inventário da obra completa, reunindo a documentação original redesenhada e análises crítico-comparativas. A trajetória de Bered cobre toda a segunda metade do século XX, em contribuição fundamental para a introdução, difusão e consolidação da arquitetura moderna no estado, e a qualidade e relevância de sua produção é reconhecida em todos os estudos da arquitetura moderna gaúcha. O projeto exemplifica com qualidade essa condição, e rendeu a Bered a medalha de bronze na categoria edificação residencial no II Salão de Arquitetura do Rio Grande do Sul, em 1962.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'Este artigo tem como objetivo apresentar os resultados do projeto de pesquisa “Inventariação de bens edificados com interesse patrimonial na área central de Santa Maria – RS” no que concerne as edificações modernistas do centro histórico que foram abarcadas, ou não, pelo Decreto Executivo (84/2018) que tombou provisoriamente cento e trinta e cinco remanescentes de vários períodos da história da cidade. A principal razão para o desenvolvimento deste projeto é a desproteção de bens ocasionada pela aprovação da nova legislação de uso e ocupação do solo urbano de Santa Maria, ocorrido em meados de 2018, onde a proteção garantida anteriormente pela configuração da chamada zona 2, centro histórico, foi substituída pela pressão da especulação imobiliária. Como ação emergencial, o poder executivo municipal emitiu o decreto que elencou as edificações a serem mantidas, até que seu valor seja realmente aferido. Assim, fez-se necessária uma união de forças entre as universidades e o Instituto de Planejamento de Santa Maria (IPLAN), para garantir o reconhecimento dos bens com valor e apoiar os pedidos de preservação. Entretanto neste primeiro momento da reação preservacionista alguns exemplares foram excluídos da listagem, principalmente os exemplares modernistas, devido não apenas ao seu caráter emergencial como ainda ao grande impacto do tombamento de conjunto e a reação negativa sobre a sociedade. A pesquisa consistiu na elaboração das fichas cadastrais para auxiliarem no tombamento, por meio de revisão bibliográfica, levantamento em diversos acervos, assim como no levantamento fotográfico atualizado das fachadas das edificações. Num segundo momento, foram analisados futuros exemplares para constituírem outro inventário e possíveis estratégias de incentivo aos proprietários dos bens tombados. Finalmente, o inventário representa a continuidade da luta pela preservação e esta nova listagem para inventariação, que provavelmente será apresentada e aprovada pelo poder público, minimizará o dano da precipitada retirada da proteção do patrimônio remanescente.'
+  keywords:
+  - Patrimônio Arquitetônico
+  - Preservação
+  - Arquitetura Moderna
+  - Modernismo no Rio Grande do Sul
+  references:
+  - 'BELEM, João. História do Município de Santa Maria – 1797/1933. 3 ed. Santa Maria: Ed. Da'
+  - 'BELTRÃO, Romeu. Cronologia Histórica de Santa Maria e do Extinto Município de São Martinho. Volume I (1787-1930). Santa Maria: Editora Pallotti, 1958.'
+  - 'CANEZ, Ana Paula; CAIXETA, Eline Maria; Margot Ines, CARUCCIO; LIMA, Raquel Rodrigues;'
+  - 'MAGLIA, Viviane Villas Boas. Acervos Azevedo Moura & Gertum e João Alberto: imagem e construção da modernidade em Porto Alegre. Porto Alegre: UniRitter, 2004.'
+  - 'FOLETTO, Vani (org.). Apontamentos sobre a história da arquitetura de Santa Maria. Santa Maria: Pallotti, 2008.'
+  - 'GASPARY, Fernanda; MONTAGNER, Francieli. PEREIRA, Clarissa; PEREYRON, Daniel. A Arquitetura Residencial Moderna na Região Central do Rio Grande do Sul. In: 3º SEMINÁRIO IBERO-AMERICANO ARQUITETURA E DOCUMENTAÇÃO. Belo Horizonte, 2013.'
+  - 'JOVANOVICH, C. La Compagnie auxiliaire de chemins de fer au Brésil y la ciudad de Santa Maria en Rio Grande do Sul, Brazil. 2003. Tese (Doutorado em Arquitetura) - UPC. Barcelona, 2003.'
+  - 'MARCHIORI, J.N., NOAL FILHO, V.A. (orgs). Santa Maria: relatos e impressões de viagem. 2 ed. Santa Maria: Ed.; da UFSM, 2008.'
+  - 'NOGUEIRA, Ana Paula. Patrimônio arquitetônico moderno em Santa Maria: as casas do arquiteto Luiz Arthur Vallandro – um resgate analítico. Dissertação de mestrado. Santa Maria: Universidade Federal de Santa Maria, UFSM. 2011.'
+  - 'SCHLEE, Andrey Rosenthal. Obras fundamentais da Arquitetura Moderna em Santa Maria. In: V Encontro de Teoria e História da Arquitetura do Rio Grande do Sul. 2000, Faculdade de Arquitetura das Faculdades Integradas do Instituto Ritter dos Reis. Cadernos de Arquitetura Ritter dos Reis, 2001.'
+  locale: 'pt-BR'
+  file: 'sdsul06-003.pdf'
+  pages_count: 16
+  pages: '36-51'
+
+- id: 'sdsul06-004'
+  title: Transparência e permeabilidade na Arquitetura Moderna gaúcha
+  subtitle: a reforma da fachada do edifício Christofell
+  authors:
+  - givenname: Silvio Belmonte de
+    familyname: Abreu Filho
+    email: 'silvio.abreu.arq@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Angela Cristiane
+    familyname: Fagundes
+    email: 'angelacristianefagundes@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: 'Um dos aspectos associados à arquitetura moderna é a busca de transparência, procurando criar maior integração visual com o exterior. A obtenção de transparência implica uma alteração significativa das superfícies verticais das edificações, antes maciças e pouca vazadas, e cada vez mais abertas e expostas a partir da metade do século XX, com a consequente ampliação das superfícies envidraçadas. A arquitetura moderna brasileira procurou adaptar essa premissa às condições particulares de clima e contexto com a criação de sistemas de proteção, como a aplicação de brises e elementos vazados (cobogós). O objetivo deste artigo é uma reflexão acerca da transparência e permeabilidade na arquitetura moderna gaúcha por meio do estudo do Edifício Christofell (1962), do arquiteto Emil Bered, com enfoque na alteração da fachada em reforma recente, que subtraiu os panos vazados, um dos elementos de composição arquitetônica mais expressivos. O uso dos cobogós como elemento de arquitetura foi importante para a composição arquitetônica da edificação, especialmente com função protetora, permitindo que a luz e insolação que incide na fachada oeste fosse filtrada num jogo instigante de transparências e sombras, conferindo privacidade, permeabilidade visual e porosidade à fachada. Sua perda afeta esses atributos, desvelando os panos envidraçados. O estudo traz resultados preliminares do Projeto de Pesquisa Emil Bered Arquiteto em andamento, com um inventário da obra completa, reunindo a documentação original redesenhada e análises crítico-comparativas. A trajetória de Bered cobre toda a segunda metade do século XX, em contribuição fundamental para a introdução, difusão e consolidação da arquitetura moderna no estado, e a qualidade e relevância de sua produção é reconhecida em todos os estudos da arquitetura moderna gaúcha. O projeto exemplifica com qualidade essa condição, e rendeu a Bered a medalha de bronze na categoria edificação residencial no II Salão de Arquitetura do Rio Grande do Sul, em 1962.'
+  keywords:
   - Arquitetura Moderna Brasileira
   - Arquiteto Emil Bered
   - Edifício Christofell
   - Elementos de proteção de fachada
   - Cobogós
-  referencias:
-  - ABREU FILHO, S. B. de. A esquina do moderno. ArqTexto, Porto Alegre, n.5, p.82-97, 2004.
+  references:
+  - 'ABREU FILHO, S. B. de. A esquina do moderno. ArqTexto, Porto Alegre, n.5, p.82-97, 2004.'
   - 'ABREU FILHO, S. B. de. Porto Alegre como cidade ideal. Planos e Projetos urbanos para Porto Alegre. Tese de Doutorado. Porto Alegre: PROPAR/UFRGS, 2006.'
   - 'ABREU FILHO, S. B. de. “Vertigem das Alturas”. In: FIORE, R. H. (Org.). Modernização e verticalização da área central de Porto Alegre. Porto Alegre: Marcavisual, 2016, p.236-269.'
   - 'ALMEIDA, G. E. de; ALMEIDA, J. G. de; BUENO, M. Guia de arquitetura moderna em Porto Alegre. Porto Alegre: EdiPUCRS, 2010.'
   - 'ALMEIDA, M. S. de. Transformações Urbanas. Atos, Normas, Decretos, Leis na Administração da Cidade; Porto Alegre 1937/1961. (Tese de Doutorado). São Paulo: USP, 2004.'
-  - BERED, E. Muito Edifício pouca Arquitetura. Revista O Globo, 1948, p. 46-51.
+  - 'BERED, E. Muito Edifício pouca Arquitetura. Revista O Globo, 1948, p. 46-51.'
   - 'COMAS, C. E.; PIÑON, H. Inventário da Arquitetura Moderna em Porto Alegre 1945/65. Porto Alegre: Marcavisual, 2013.'
   - 'CAVALCANTI, L. Arquitetura moderna carioca 1937-1969. Rio de Janeiro: Edições Fadel, 2013.'
   - 'CORONA, E.; LEMOS, C. Dicionário da Arquitetura Brasileira. São Paulo: Romano Guerra, 2017 (Coleção RG facsímile, 3),'
@@ -196,117 +225,116 @@ articles:
   - 'GONÇALVES, M. N. C. A fronteira do moderno: Holanda Mendonça e a difusão da Arquitetura Moderna Brasileira no Sul. Tese de Doutorado em Arquitetura. Porto Alegre: Propar/Ufrgs, 2017'
   - 'LIMA, R. R. Edifícios de apartamentos: um tempo de modernidade no espaço privado. Estudo da radial Independência/24 de Outubro – Porto Alegre – nos anos 50. Tese de Doutorado. Porto Alegre: IFCH da PUCRS, 2005.'
   - 'LUCCAS, L. H. H. Arquitetura Moderna em Porto Alegre sob o mito do “gênio artístico nacional”. Tese de Doutorado. Porto Alegre: PROPAR/UFRGS, 2004.'
-  - LUCCAS, L. H. H. A escola carioca e a arquitetura moderna em Porto Alegre. Revista Vitruvius, Arquitextos, São Paulo, n.073.04.jun.2006.
+  - 'LUCCAS, L. H. H. A escola carioca e a arquitetura moderna em Porto Alegre. Revista Vitruvius, Arquitextos, São Paulo, n.073.04.jun.2006.'
   - 'MINDLIN, H. Arquitetura moderna no Brasil. (tradução Paulo Pedreira; prefácio de S. Giedion; apresentação de Lauro Cavalcanti). Rio de Janeiro: Aeroplano Editora/IPHAN, 2000.'
   - 'PANIZZI, W.; ROVATTI, J. (org.). Estudos Urbanos, Porto Alegre e seu planejamento. Porto Alegre: Ed. da Universidade, 1993.'
   - 'PORTO ALEGRE. Plano Diretor 1954 - 1964. Porto Alegre: Prefeitura Municipal, 1964. STRÖHER, E. R. A habitação coletiva na obra do Arquiteto Emil Bered, na década de 50, em Porto Alegre. Dissertação de Mestrado. Porto Alegre: Propar/UFRGS, 1997. STRÖHER, E. R. EMIL BERED: SEIS EDIFÍCIOS. Uma análise de seis edifícios de arquitetura moderna em Porto Alegre na década de 50. ArqTexto n.ZERO, Porto Alegre, p. .'
   - 'WEIMER, G. Levantamento de projetos arquitetônicos – Porto Alegre – 1892 a 1957. Pesquisa realizada nos microfilmes do Arquivo Municipal da Prefeitura de Porto Alegre. Porto Alegre: Procempa, 1998.'
   - 'XAVIER, A. (org.). Arquitetura moderna brasileira - Depoimentos de uma geração. São Paulo: Pini: Associação Brasileira de Ensino de Arquitetura: Fundação Vilanova Artigas, 1987.'
   - 'XAVIER, A.; MIZOGUCHI, I. Arquitetura moderna em Porto Alegre. São Paulo: Editora Pini, 1987.'
-  seminario: sdsul06
-  titulo: Transparência e permeabilidade na Arquitetura Moderna gaúcha
-  subtitulo: a reforma da fachada do Edifício Christofell
-  secao: Artigos Completos
-  paginas: 52-70
-  autores:
-  - givenname: Silvio Belmonte de
-    familyname: Abreu
-    email: silvio.abreu.arq@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-004.pdf'
+  pages_count: 19
+  pages: '52-70'
+
+- id: 'sdsul06-005'
+  title: Cláudio Araújo e a livre expressão do trabalho de interiores
+  authors:
+  - givenname: Arthur Lauxen
+    familyname: Luiz
+    email: 'arthurlauxen@gmail.com'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Angela Cristiane
-    familyname: Fagundes
-    email: angelacristianefagundes@hotmail.com
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-005
-  locale: pt-BR
-  arquivo_pdf: sdsul06-005.pdf
-  pages_count: 13
-  resumo: O presente artigo se propõe a observar o projeto de interiores do apartamento do arquiteto gaúcho Cláudio Araújo, situado no terceiro e último pavimento do Edifício FAM. Depois de uma breve contextualização sobre o interesse de Cláudio pela minúscia e pela resolução de problemas na escala do detalhe - que surgiu a partir de suas experiências pessoais durante a juventide e cresceu ao longo da academia e da vida aulta, incluindo a atuação profissional em escritório e a docência – inicia-se a análise de projeto da parte social do apartamento. A análise contempla desde as decisões de Cláudio (aparentemente tomadas de maneira livre, sem a interferfência de um cliente ou, neste caso, de seus familiares) para a “concha“ do apartamento, que seria a envoltória denominada architectural shell por Peter Thornton, até a escolha ou projeto de mobiliário e decoração.
-  referencias:
+  section: Artigos Completos
+  abstract: 'O presente artigo se propõe a observar o projeto de interiores do apartamento do arquiteto gaúcho Cláudio Araújo, situado no terceiro e último pavimento do Edifício FAM. Depois de uma breve contextualização sobre o interesse de Cláudio pela minúscia e pela resolução de problemas na escala do detalhe - que surgiu a partir de suas experiências pessoais durante a juventide e cresceu ao longo da academia e da vida aulta, incluindo a atuação profissional em escritório e a docência – inicia-se a análise de projeto da parte social do apartamento. A análise contempla desde as decisões de Cláudio (aparentemente tomadas de maneira livre, sem a interferfência de um cliente ou, neste caso, de seus familiares) para a “concha“ do apartamento, que seria a envoltória denominada architectural shell por Peter Thornton, até a escolha ou projeto de mobiliário e decoração.'
+  references:
   - 'THORNTON, P. Authentic Decor: The Domestic Interior 1620-1920. Londres: Seven Dials. 2000. Teses'
   - 'MARQUES, S. Fayet, Araújo e Mooje: Arquitetura Moderna Brasileira no Sul 1950-1970. Tese (Doutorado em Arquitetura) - Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul. 2012.'
   - 'PEIXOTO, M. A Sala Bem Temperada: Interior Moderno e Sensibilidade Eclética. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul. 2006. Artigos'
-  - ARAÚJO, C. Um Depoimento. Arqtexto 0, p.116-p.123.
+  - 'ARAÚJO, C. Um Depoimento. Arqtexto 0, p.116-p.123.'
   - 'PEIXOTO, M. Caleidoscopio: Dentro de la Casa de Vidrio de Lina Bo Bardi. Summa 168, p.110- p.113. Entrevista Visita ao apartamento realizada pelo autor no mês de julho de 2019 e respectiva entrevista com Mary Araújo em mesma data.'
-  seminario: sdsul06
-  titulo: Cláudio Araújo e a livre expressão do trabalho de interiores
-  secao: Artigos Completos
-  paginas: 71-83
-  autores:
-  - givenname: Arthur Lauxen
-    familyname: Luiz
-    email: arthurlauxen@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-005.pdf'
+  pages_count: 13
+  pages: '71-83'
+
+- id: 'sdsul06-006'
+  title: 'Sem placa, ainda com grelha'
+  subtitle: entre o pragmatismo da estrutura independente e o potencial de renovação dos edifícios residenciais em Porto Alegre 1950/68
+  authors:
+  - givenname: Carlos Fernando Silva
+    familyname: Bahima
+    email: 'cfbahima@unisinos.br'
     affiliation: null
+    orcid: '0000-0001-9782-2585'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-006
-  locale: pt-BR
-  arquivo_pdf: sdsul06-006.pdf
-  pages_count: 17
-  resumo: Em Razões da nova arquitetura (1934), Lucio Costa sinaliza que o segredo da arquitetura moderna é a ossatura independente, mas não uma estrutura qualquer, referindo-se ao tipo indicado por Le Corbusier para as casas Dom-ino (1915), ou seja, lajes planas (placas) em balanço e grelha regular de suportes. A associação de placa e grelha com paredes leves de espessura mínima viabiliza uma planta e uma fachada livres. O espaço resultante é estratificado horizontalmente, potencialmente flexível, tanto para permitir a disposição independente da compartimentação nos diversos pavimentos, como as futuras operações de renovação ao longo do ciclo de vida do edifício. Por seu turno, no seu Inventário da Arquitetura Moderna em Porto Alegre 1945/65, Carlos Eduardo Comas atribui o insucesso dos arquitetos da Escola Carioca em Porto Alegre à forte oposição dos engenheiros locais. A chegada tardia da arquitetura moderna na cidade por volta de 1950 se explica, segundo Comas, pela rejeição dos seus princípios estéticos, preocupações climáticas e pelos interesses de grupo no mercado. Nessa conjuntura provinciana e pragmática, a rejeição quase que absoluta da placa estaria justificada, afinal nesses tempos esta era obtida não por uma simples laje sem vigamento, mas por uma laje nervurada com duplicação de piso e teto. Sem as placas vindas do modelo carioca, os edifícios residenciais porto-alegrenses do período entre 1950 a 1968 se distinguem pela regularidade ou irregularidade da grelha de apoios. Por outro lado, a distribuição regular de cargas nos apoios é inquestionável fator de melhor desempenho econômico da estrutura. A ausência de regularidade na grelha de suportes, com o aumento de paralisação de planta em relação às futuras reformas desses apartamentos, deve ser debitada na conta de arquitetos, que por uma provável incompreensão dos diversos graus de liberdade da planta livre optaram pela submissão da ordem geométrica do esqueleto à partição.
-  palavras_chave:
+  - givenname: João Ricardo
+    familyname: Masuero
+    email: 'jrmasuero@gmail.com'
+    affiliation: null
+    orcid: '0000-0001-9733-8881'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: 'Em Razões da nova arquitetura (1934), Lucio Costa sinaliza que o segredo da arquitetura moderna é a ossatura independente, mas não uma estrutura qualquer, referindo-se ao tipo indicado por Le Corbusier para as casas Dom-ino (1915), ou seja, lajes planas (placas) em balanço e grelha regular de suportes. A associação de placa e grelha com paredes leves de espessura mínima viabiliza uma planta e uma fachada livres. O espaço resultante é estratificado horizontalmente, potencialmente flexível, tanto para permitir a disposição independente da compartimentação nos diversos pavimentos, como as futuras operações de renovação ao longo do ciclo de vida do edifício. Por seu turno, no seu Inventário da Arquitetura Moderna em Porto Alegre 1945/65, Carlos Eduardo Comas atribui o insucesso dos arquitetos da Escola Carioca em Porto Alegre à forte oposição dos engenheiros locais. A chegada tardia da arquitetura moderna na cidade por volta de 1950 se explica, segundo Comas, pela rejeição dos seus princípios estéticos, preocupações climáticas e pelos interesses de grupo no mercado. Nessa conjuntura provinciana e pragmática, a rejeição quase que absoluta da placa estaria justificada, afinal nesses tempos esta era obtida não por uma simples laje sem vigamento, mas por uma laje nervurada com duplicação de piso e teto. Sem as placas vindas do modelo carioca, os edifícios residenciais porto-alegrenses do período entre 1950 a 1968 se distinguem pela regularidade ou irregularidade da grelha de apoios. Por outro lado, a distribuição regular de cargas nos apoios é inquestionável fator de melhor desempenho econômico da estrutura. A ausência de regularidade na grelha de suportes, com o aumento de paralisação de planta em relação às futuras reformas desses apartamentos, deve ser debitada na conta de arquitetos, que por uma provável incompreensão dos diversos graus de liberdade da planta livre optaram pela submissão da ordem geométrica do esqueleto à partição.'
+  keywords:
   - Arquitetura moderna em Porto Alegre
   - estrutura independente
   - potencial de renovação dos edifícios residenciais
-  referencias:
+  references:
   - 'Acrópole, maio 1955, n. 200. Disponível em <http://www.acropole.fau.usp.br>. Acesso em: 29 set. 2019. Acrópole, fev. 1958, n. 209. Disponível em <http://www.acropole.fau.usp.br>. Acesso em: 29 set. 2019.'
   - 'ALMEIDA, Eduardo Luiz Riesencampf de. Eduardo de Almeida. Guerra, Abílio (org.). São Paulo: Romano Guerra Editora, 2006.'
   - 'BAHIMA, Carlos Fernando. Edifício moderno brasileiro: a urbanização dos cinco pontos de Le Corbusier 1936-57. Dissertação (Mestrado em arquitetura). Porto Alegre: PROPAR/UFRGS, 2003.'
   - '_____________________. De placa e grelha: transformações dominoicas em terra brasileira. Tese (Doutorado em arquitetura), PROPAR/UFRGS, 2015.'
   - 'CALVINO, Italo. As cidades invisíveis. São Paulo: Companhia das Letras, 1990.'
   - 'CHING, Francis D. K.. Sistemas estruturais ilustrados, padrões, sistemas e projeto. Porto Alegre: Bookman, 2010.'
-  - COMAS, Carlos Eduardo Dias. Arquitetura moderna estilo Corbu, Pavilhão brasileiro. AU, n. 26, São Paulo, 1989.
-  - ________________________. Teoria acadêmica, arquitetura moderna, Corolário brasileiro. Gávea, Rio de Janeiro, v. 11, n.11, p. 181-193, abr. 1994.
+  - 'COMAS, Carlos Eduardo Dias. Arquitetura moderna estilo Corbu, Pavilhão brasileiro. AU, n. 26, São Paulo, 1989.'
+  - '________________________. Teoria acadêmica, arquitetura moderna, Corolário brasileiro. Gávea, Rio de Janeiro, v. 11, n.11, p. 181-193, abr. 1994.'
   - '________________________. Inventário da Arquitetura Moderna em Porto Alegre 1945/65. In:'
   - 'COMAS, C.E.D.; PIÑÓN, H. Porto Alegre: Marcavisual, 2013'
   - 'CORTÉS, Juan Antonio. Historia de la retícula en el siglo XX; De la estructura Dom-ino a los comienzos de los años setenta. Valladolid: Ediciones Universidad de Valladolid, 2013.'
   - 'EISENMAN, Peter. The Formal Basis of Modern Architecture. Baden: Lars Müller Publishers, 2006.'
   - 'ETLIN, Richard. Frank Lloyd Wright and Le Corbusier: The Romantic Legacy. Manchester: Manchester University Press, 1978.'
   - 'LE CORBUSIER. Precisões sobre um estado presente da arquitetura e do urbanismo. São Paulo: Cosac & Naify, 2004.'
-  - LUCULESCU, Constantino. O conforto das lajes. Acrópole, São Paulo, n. 200, p. 373, maio 1955.
+  - 'LUCULESCU, Constantino. O conforto das lajes. Acrópole, São Paulo, n. 200, p. 373, maio 1955.'
   - 'LUCAN, Jacques. Composition, Non-Composition. Architecture and Theory in the Nineteenth and Twentieth Centuries. Lausanne: EPFL Press, 2012.'
-  - MAITLAND, Barry. The Grid. Oppositions, London, n. 15 / 16, 1979.
+  - 'MAITLAND, Barry. The Grid. Oppositions, London, n. 15 / 16, 1979.'
   - 'MARQUES, Sergio Moacir. FAM / Sergio Moacir Marques. Porto Alegre: ADFAUPA, 2016.'
   - 'MARTÍ ARÍS, Carlos. Las variaciones de la identidad: ensayo sobre el tipo en arquitectura. Barcelona: Ediciones del Serbal, 1993.'
   - 'MINDLIN, Henrique Ephim. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
   - 'PAPADAKI, Stamo. The Work of Oscar Niemeyer: Works in Progress. New York: Reinhold Publishing Corporation, 1956.'
   - 'ROWE, Colin. The Mathematics of the Ideal Villa and Other Essays. Cambridge Mass.: The'
-  - MIT Press, 1976.
-  seminario: sdsul06
-  titulo: Sem placa, ainda com grelha
-  subtitulo: entre o pragmatismo da estrutura independente e o potencial de renovação dos edifícios residenciais em Porto Alegre 1950/68
-  secao: Artigos Completos
-  paginas: 84-100
-  autores:
-  - givenname: Carlos Fernando Silva
-    familyname: Bahima
-    email: cfbahima@hotmail.com
+  - 'MIT Press, 1976.'
+  locale: 'pt-BR'
+  file: 'sdsul06-006.pdf'
+  pages_count: 17
+  pages: '84-100'
+
+- id: 'sdsul06-007'
+  title: A Arquitetura da biblioteca nacional de Buenos Aires
+  subtitle: 'do concurso à construção (1961-1996)'
+  authors:
+  - givenname: Cassandra Salton
+    familyname: Coradin
+    email: 'cassandrasaltoncoradin@gmail.com'
     affiliation: null
+    orcid: '0009-0002-6366-2696'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: João Ricardo
-    familyname: Masuero
-    email: jrmasuero@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-007
-  locale: pt-BR
-  arquivo_pdf: sdsul06-007.pdf
-  pages_count: 14
-  resumo: Em julho de 1960, é proposto um concurso de anteprojetos para o edifício da nova Biblioteca Nacional de Buenos Aires. As bases do concurso e o programa são aprovados em 1961, e o concurso é aberto no mesmo ano. As bases preveem, especialmente, que “o projeto deve ser encarado funcionalmente e com as previsões lógicas de um uso em permanente crescimento e evolução. Assim como, valorizar e aproveitar as características urbanísticas e arquitetônicas do sítio, assegurando a salvaguarda do espaço verde, do barranco e dos valores botânicos existentes”.1 Os jurados consideram que o anteprojeto dos arquitetos Clorindo Testa, Francisco Bullrich e Alicia D. Cazzaniga não somente resolve os aspectos funcionais, como também é o que melhor se adéqua ao terreno. Assim, em 30 de julho de 1962, é premiado o anteprojeto que viria a ter sua obra concluída três décadas depois. A imagem atual da Biblioteca Nacional refere-se basicamente ao projeto executivo desenvolvido e entregue em 1966. Sua obra teve início em 1971 e, por volta de 1981, apenas um terço da edificação havia sido construída. Somente nos anos 90 a biblioteca teve seu uso corrente. Os mais de 30 anos que separam o concurso da efetiva construção ficam marcados por duas principais intervenções, para adaptações e renovação do programa do projeto arquitetônico e sua funcionalidade. A primeira, na ocasião da elaboração do projeto executivo; a segunda, no fim da década de 80, quando a biblioteca estava às vistas da inauguração. O presente ensaio tem por objetivo principal a análise sistemática do projeto da Biblioteca Nacional e a apresentação dos momentos que compõem a história dessa edificação, do concurso à construção.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'Em julho de 1960, é proposto um concurso de anteprojetos para o edifício da nova Biblioteca Nacional de Buenos Aires. As bases do concurso e o programa são aprovados em 1961, e o concurso é aberto no mesmo ano. As bases preveem, especialmente, que “o projeto deve ser encarado funcionalmente e com as previsões lógicas de um uso em permanente crescimento e evolução. Assim como, valorizar e aproveitar as características urbanísticas e arquitetônicas do sítio, assegurando a salvaguarda do espaço verde, do barranco e dos valores botânicos existentes”.1 Os jurados consideram que o anteprojeto dos arquitetos Clorindo Testa, Francisco Bullrich e Alicia D. Cazzaniga não somente resolve os aspectos funcionais, como também é o que melhor se adéqua ao terreno. Assim, em 30 de julho de 1962, é premiado o anteprojeto que viria a ter sua obra concluída três décadas depois. A imagem atual da Biblioteca Nacional refere-se basicamente ao projeto executivo desenvolvido e entregue em 1966. Sua obra teve início em 1971 e, por volta de 1981, apenas um terço da edificação havia sido construída. Somente nos anos 90 a biblioteca teve seu uso corrente. Os mais de 30 anos que separam o concurso da efetiva construção ficam marcados por duas principais intervenções, para adaptações e renovação do programa do projeto arquitetônico e sua funcionalidade. A primeira, na ocasião da elaboração do projeto executivo; a segunda, no fim da década de 80, quando a biblioteca estava às vistas da inauguração. O presente ensaio tem por objetivo principal a análise sistemática do projeto da Biblioteca Nacional e a apresentação dos momentos que compõem a história dessa edificação, do concurso à construção.'
+  keywords:
   - Biblioteca Nacional
   - Clorindo Testa
   - concurso
-  referencias:
+  references:
   - 'BALLENT, A. El sistema de concursos. Materiales. Buenos Aires: n.1, 1982.'
   - 'BALLENT, A. Para una critica: Concurso Nacional de Anteproyectos – La Biblioteca Nacional. Materiales. Buenos Aires: n.1, 1982.'
   - BASES Y PROGRAMA DEL CONCURSO DE ANTEPROYECTOS PARA LA CONSTRUCCION DEL
@@ -320,96 +348,107 @@ articles:
   - 'CLUSELLAS, M.L. Diagnóstico y tratamento para nuestra Biblioteca Nacional. Summa. Buenos Aires: n.276, 1990.'
   - CONCURSO DE ANTEPROYECTOS PARA LA CONSTRUCCION DEL EDIFICIO DE LA
   - 'BIBLIOTECA NACIONAL. Publicación de la Sociedad Central de Arquitectos. Buenos Aires: n.48, 1963.'
-  - CORADIN, C. S. A Arquitetura da Biblioteca Nacional. Dissertação de mestrado, PROPAR-
+  - 'CORADIN, C. S. A Arquitetura da Biblioteca Nacional. Dissertação de mestrado, PROPAR-'
   - 'CUADRA, M. Clorindo Testa Architects. Rotterdam: NAi Publishers, 2000. 4 Entrevista realizada com Clorindo Testa em maio de 2009. 5 Entrevista realizada , em maio de 2009, com o engenheiro civil responsável pelo cálculo estrutural da maioria das obras de Clorindo Testa, juntamente com Fernández Long.'
   - 'EDIFICIO DE LA BIBLIOTECA NACIONAL. Summa, Buenos Aires: n.11, abr. 1968.'
   - 'EDIFICIO PARA LA BIBLIOTECA NACIONAL. Construcciones, Buenos Aires: n.262, nov.dez. 1976.'
   - 'ENTREVISTA. Revista SCA – Sociedad Central de Arquitectos. Buenos Aires: n.160, set.out. 1992.'
   - 'GLUSBERG, J. Clorindo Testa – pintor y arquitecto. Buenos Aires: Summa+ books, 1999.'
   - 'GONZALEZ, M.B. Guías de Arquitectura Latinoamericana - Buenos Aires. Buenos Aires: Clarín, 2008.'
-  - LA GAZETA DE BUENOS AYRES, 13.09.1810.
+  - 'LA GAZETA DE BUENOS AYRES, 13.09.1810.'
   - 'LIERNUR. P. Alpargatas no.Libros si. Para una critica: Concurso Nacional de Anteproyectos – La Biblioteca Nacional. Materiales. Buenos Aires: n.1, 1982.'
   - 'LIERNUR, J. F. Arquitectura en la Argentina del siglo XX – La construción de la modernidad. Buenos Aires: Fondo Nacional de las artes, 2001.'
   - 'MIYNO, A.M.E.S., JAVIER, P. Un edificio para la biblioteca nacional. Primer Concurso de Investigación Histórica de nuestros Edificios Publicos. Buenos Aires: UPCN, agosto, 2005.'
   - 'JÁUREGUI, J.M. Entrevista com Clorindo Testa. PROJETO Design. São Paulo: n.273, nov. 2002.'
-  - JORNAL LA NACIÓN. Buenos Aires, 23.05.1987.
-  - PETRINA, Alberto. Entrevista al arquitecto Clorindo Testa. Summa, Buenos Aires, n. 164, 1981.
+  - 'JORNAL LA NACIÓN. Buenos Aires, 23.05.1987.'
+  - 'PETRINA, Alberto. Entrevista al arquitecto Clorindo Testa. Summa, Buenos Aires, n. 164, 1981.'
   - 'RIAL, H. V. Buenos Aires 1880- 1930 – La capital de um império imaginário. Madrid: Alianza Editorial, S.A., 1996.'
   - 'WAISMAN, M. La obra de Testa: Propuesta para uma lectura. Summa, Buenos Aires, n. 183/184, jan/fev. 1983.'
-  seminario: sdsul06
-  titulo: A Arquitetura da Biblioteca Nacional de Buenos Aires
-  subtitulo: do concurso à construção (1961-1996)
-  secao: Artigos Completos
-  paginas: 101-114
-  autores:
-  - givenname: Cassandra Salton
-    familyname: Coradin
-    email: cassandrasaltoncoradin@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-007.pdf'
+  pages_count: 14
+  pages: '101-114'
+
+- id: 'sdsul06-008'
+  title: O edifício Formac pelas lentes de João Alberto Fonseca da Silva
+  authors:
+  - givenname: Manuela
+    familyname: Catafesta
+    email: 'catafesta@exemplo.com'
     affiliation: null
+    orcid: '0000-0003-3285-7941'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-008
-  locale: pt-BR
-  arquivo_pdf: sdsul06-008.pdf
-  pages_count: 15
-  resumo: A arquitetura e a fotografia são duas artes que se conectam desde os seus princípios básicos. Apesar de não substituir as experiências físicas reais nos ambientes construídos, a fotografia permite uma ampliação imensurável do conhecimento de obras arquitetônicas. Este trabalho tem como tema central a apresentação da relação do fotógrafo João Alberto Fonseca da Silva com o Edifício Formac, localizado no centro de Porto Alegre. Projetado pelo arquiteto Carlos Alberto Holanda Mendonça, o Edifício Formac, construído em 1953, foi o primeiro projeto no Rio Grande do Sul a utilizar a técnica da fotomontagem para ilustrar em etapa de projeto a inserção do edifício no seu contexto, num período que Porto Alegre passava por um notável processo de verticalização urbana. O estudo desse caso se oferece também como oportunidade para a compreensão do trabalho do fotógrafo João Alberto Fonseca da Silva que, através de suas lentes, registrou importantes manifestações da modernidade arquitetônica no Estado, a partir da década de 1950. Autodidata, João Alberto pode ser considerado um visionário na arte de fotografar, tendo sido pioneiro em muitas técnicas de fotografia. A coleta, análise e divulgação desse material, composto pelas fotomontagens e fotografias da construção do Edifício Formac, disponíveis no acervo fotográfico de João Alberto, que foi doado ao Laboratório de História e Teoria da Arquitetura (LHTA) do curso de Arquitetura e Urbanismo da UniRitter pelo próprio fotógrafo, configura uma importante contribuição para a história da arquitetura e da fotografia brasileira, como parte indissociável do movimento moderno gaúcho. Com isso, se espera colaborar para a divulgação do acervo fotográfico de João Alberto, que é uma herança cultural sem precedentes na história da fotografia gaúcha, especialmente por retratar as transformações urbanas pelas quais a capital gaúcha passou, funcionando como um poderoso instrumento de interpretação do contexto arquitetônico da época.
-  palavras_chave:
+  - givenname: Fábio
+    familyname: Bortoli
+    email: 'bortoli@exemplo.com'
+    affiliation: null
+    orcid: '0000-0001-5358-479X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: 'A arquitetura e a fotografia são duas artes que se conectam desde os seus princípios básicos. Apesar de não substituir as experiências físicas reais nos ambientes construídos, a fotografia permite uma ampliação imensurável do conhecimento de obras arquitetônicas. Este trabalho tem como tema central a apresentação da relação do fotógrafo João Alberto Fonseca da Silva com o Edifício Formac, localizado no centro de Porto Alegre. Projetado pelo arquiteto Carlos Alberto Holanda Mendonça, o Edifício Formac, construído em 1953, foi o primeiro projeto no Rio Grande do Sul a utilizar a técnica da fotomontagem para ilustrar em etapa de projeto a inserção do edifício no seu contexto, num período que Porto Alegre passava por um notável processo de verticalização urbana. O estudo desse caso se oferece também como oportunidade para a compreensão do trabalho do fotógrafo João Alberto Fonseca da Silva que, através de suas lentes, registrou importantes manifestações da modernidade arquitetônica no Estado, a partir da década de 1950. Autodidata, João Alberto pode ser considerado um visionário na arte de fotografar, tendo sido pioneiro em muitas técnicas de fotografia. A coleta, análise e divulgação desse material, composto pelas fotomontagens e fotografias da construção do Edifício Formac, disponíveis no acervo fotográfico de João Alberto, que foi doado ao Laboratório de História e Teoria da Arquitetura (LHTA) do curso de Arquitetura e Urbanismo da UniRitter pelo próprio fotógrafo, configura uma importante contribuição para a história da arquitetura e da fotografia brasileira, como parte indissociável do movimento moderno gaúcho. Com isso, se espera colaborar para a divulgação do acervo fotográfico de João Alberto, que é uma herança cultural sem precedentes na história da fotografia gaúcha, especialmente por retratar as transformações urbanas pelas quais a capital gaúcha passou, funcionando como um poderoso instrumento de interpretação do contexto arquitetônico da época.'
+  keywords:
   - arquitetura moderna
   - fotografia
   - João Alberto Fonseca da Silva
   - Porto Alegre
-  referencias:
+  references:
   - 'ABREU FILHO, Silvio Belmonte de. Vertigem das alturas. In FIORE, Renato Holmer (org.). Modernização e verticalização da área central de Porto Alegre. Porto Alegre: Marcavisual, 2016.'
   - 'ALMEIDA, Guilherme; ALMEIDA, João; BUENO, Marcos. Guia de arquitetura moderna em Porto Alegre. Porto Alegre: EDIPUCRS, 2010.'
-  - BREIER, Ana Cláudia; SCHLEE, Andrey; PEREIRA, Maíra. Fotógrafos perpetuando visões da arquitetura. Arquitextos, São Paulo, ano 11, n. 129.07, Vitruvius, fev. 2011 <https://www.vitruvius.com.br/revistas/read/arquitextos/11.129/3500>.
-  - BUENO, Marcos. A obra do arquiteto Carlos Alberto Holanda Mendonça. Dissertação (Mestrado) –Universidade Federal Rio Grande do Sul. Faculdade de Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura, Porto Alegre, 2012.
+  - 'BREIER, Ana Cláudia; SCHLEE, Andrey; PEREIRA, Maíra. Fotógrafos perpetuando visões da arquitetura. Arquitextos, São Paulo, ano 11, n. 129.07, Vitruvius, fev. 2011 <https://www.vitruvius.com.br/revistas/read/arquitextos/11.129/3500>.'
+  - 'BUENO, Marcos. A obra do arquiteto Carlos Alberto Holanda Mendonça. Dissertação (Mestrado) –Universidade Federal Rio Grande do Sul. Faculdade de Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura, Porto Alegre, 2012.'
   - 'CANEZ, Anna Paula (et al.) Acervos Azevedo Moura e Gertum e João Alberto: imagem e construção da modernidade em Porto Alegre. Porto Alegre: Ed. UniRitter, 2004.'
   - 'COMAS, Carlos E.; PEIXOTO, Marta; MARQUES, Sérgio M. (org.). O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura. Porto Alegre: Ed. UniRitter, 2009.'
   - 'ETCHEVERRY, Carolina Martins (et al.); Monteiro, Charles (Org.). Fotografia, história e cultura visual: pesquisas recentes. Porto Alegre; Ed EDIPUCRS, 2012.'
   - 'FALBEL, Anat. Peter Scheier: visões urbanas de um fotógrafo moderno na América. Anais do 7º Seminário Docomomo, Porto Alegre, 2007'
   - 'FIORE, Renato Holmer (Org.) Modernização e verticalização da área central de Porto Alegre. Porto Alegre: Ed. Marcavisual, 2016.'
   - 'GONÇALVES, Magali Nocchi Collares. A fronteira do moderno : Holanda Mendonça e a difusão da arquitetura moderna brasileira no sul. Tese (Doutorado) - Universidade Federal Rio Grande do Sul. Faculdade de Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura, Porto Alegre, 2017.'
-  - LUCCAS, Luís H. H. Arquitetura moderna brasileira em Porto Alegre sob o mito do ''gênio artístico nacional''. Tese (Doutorado) - Universidade Federal Rio Grande do Sul. Faculdade de Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura, Porto Alegre, 2004.
+  - 'LUCCAS, Luís H. H. Arquitetura moderna brasileira em Porto Alegre sob o mito do ''''gênio artístico nacional''''. Tese (Doutorado) - Universidade Federal Rio Grande do Sul. Faculdade de Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura, Porto Alegre, 2004.'
   - 'LUCCAS, Luís H. H. Arquitetura Moderna em Porto Alegre (Parte I): Antecedentes e a linhagem Corbusiana dos anos 50. 08 Jul 2016. ArchDaily Brasil. Acessado 15 Ago 2019. <https://www.archdaily.com.br/br/790990/arquitetura-moderna-em-portoalegre-antecedentes-e- a-linhagem-corbusiana-dos-anos-50-luishenrique-haas-luccas> ISSN 0719-8906'
   - 'MACHADO, Nara. Modernidade, arquitetura e urbanismo: o centro de Porto Alegre (1928- 45). Tese - Curso de Pós-Graduação em História do Brasil do Instituto de Filosofia e Ciências Humanas. Porto Alegre: PUC/RS, 1998.'
-  - MASSIA, Rodrigo. Fotógrafos, espaços de produção e usos sociais da fotografia em Porto Alegre nos anos 1940 e 1950. Dissertação (Mestrado) – Pontifícia Universidade Católica do Rio Grande do Sul. Faculdade de Filosofia e Ciências Humanas. Programa de Pós-Graduação em História, Porto Alegre, 2008.
-  - MÉNDEZ, Patricia. A fotografia na arquitetura moderna. Arquitextos, São Paulo, ano 08, n. 086.02, Vitruvius, jul. 2007 <https://www.vitruvius.com.br/revistas/read/arquitextos/08.086/229>.
+  - 'MASSIA, Rodrigo. Fotógrafos, espaços de produção e usos sociais da fotografia em Porto Alegre nos anos 1940 e 1950. Dissertação (Mestrado) – Pontifícia Universidade Católica do Rio Grande do Sul. Faculdade de Filosofia e Ciências Humanas. Programa de Pós-Graduação em História, Porto Alegre, 2008.'
+  - 'MÉNDEZ, Patricia. A fotografia na arquitetura moderna. Arquitextos, São Paulo, ano 08, n. 086.02, Vitruvius, jul. 2007 <https://www.vitruvius.com.br/revistas/read/arquitextos/08.086/229>.'
   - 'PALLASMAA, Juhani. The eyes of the skin. Architecture and the Senses. Chichester: John Wiley & Sons, 2005.'
   - 'PUHL, L. S. ; AZEVEDO, A. M. ; BERCHON, J. S. ; CALOVI, F. W. ; ENGERS, T. C. Arquitetura Moderna em Porto Alegre: relatos pelas lentes de João Alberto Fonseca da Silva. In: Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo, 2016, Porto Alegre. Anais do IV ENANPARQ, Estado da Arte, 2016.'
-  - SILVA, João Alberto Fonseca da. apud MASSIA, Rodrigo. Fotógrafos, espaços de produção e usos sociais da fotografia em Porto Alegre nos anos 1940 e 1950. Dissertação (Mestrado) – Pontifícia Universidade Católica do Rio Grande do Sul. Faculdade de Filosofia e Ciências Humanas. Programa de PósGraduação em História, Porto Alegre, 2008.
-  - VIEIRA, César B.M. A fotografia na percepção da arquitetura. Tese (Doutorado) – Universidade Federal do Rio Grand do Sul. Faculdade de Arquitetura, PROPAR, Porto Alegre, 2012.
+  - 'SILVA, João Alberto Fonseca da. apud MASSIA, Rodrigo. Fotógrafos, espaços de produção e usos sociais da fotografia em Porto Alegre nos anos 1940 e 1950. Dissertação (Mestrado) – Pontifícia Universidade Católica do Rio Grande do Sul. Faculdade de Filosofia e Ciências Humanas. Programa de PósGraduação em História, Porto Alegre, 2008.'
+  - 'VIEIRA, César B.M. A fotografia na percepção da arquitetura. Tese (Doutorado) – Universidade Federal do Rio Grand do Sul. Faculdade de Arquitetura, PROPAR, Porto Alegre, 2012.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.'
-  seminario: sdsul06
-  titulo: O Edifício Formac pelas lentes de João Alberto Fonseca da Silva
-  secao: Artigos Completos
-  paginas: 115-129
-  autores:
-  - givenname: Manuela
-    familyname: Catafesta
-    email: manuela_catafesta@uniritter.edu.br
+  locale: 'pt-BR'
+  file: 'sdsul06-008.pdf'
+  pages_count: 15
+  pages: '115-129'
+
+- id: 'sdsul06-009'
+  title: As intervenções recentes de Scheps na facultad de ingeniería de Vilamajó
+  authors:
+  - givenname: Cristiane dos Santos Bitencourt
+    familyname: Schwingel
+    email: 'cristiane.schwingel@ufrgs.br'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Fábio
-    familyname: Bortoli
-    email: fabio_bortoli@uniritter.edu.br
+  - givenname: Luís Henrique Haas
+    familyname: Luccas
+    email: 'luccas@exemplo.com'
     affiliation: null
+    orcid: '0000-0002-9860-3509'
+    bio: null
     country: BR
     primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-009
-  locale: pt-BR
-  arquivo_pdf: sdsul06-009.pdf
-  pages_count: 16
-  resumo: 'O edifício da Facultad de Ingeniería da Universidad de la Republica (UdelaR), em Montevidéu, possui uma dimensão arquitetônica e historiográfica reconhecida internacionalmente, como demonstra sua menção como obra moderna uruguaia precursora por Henry-Russel Hitchcock em “Latin American Architecture Since 1945” (1955), entre outras fontes bibliográficas. O conjunto projetado por Julio Vilamajó em 1936 foi inovador ao antecipar o uso do concreto aparente de forma global; mas também por implantar os diversos blocos de usos e dimensões distintas de modo similar à solução neoplástica da Bauhaus: a obra se destaca do tecido tradicional e denso às margens do Rio da Prata através da implantação livre em área verde junto ao Parque Rodó. Pelos motivos consistentes tornou-se merecidamente Monumento Histórico Nacional do Uruguai em 1975. Desde a década de 1990, o conjunto vem recebendo as atualizações técnicas e funcionais necessárias ao funcionamento, pela defasagem natural de equipamentos, funções e condições de uso; são efetuadas “reciclagens” e ampliações, além do restauro e conservação de elementos existentes. Até o presente momento, o autor dessas intervenções foi Juan Gustavo Scheps Grandal, Doutor em Teoria e Prática de Projeto de Arquitetura pela Universidad Politécnica de Madrid, onde desenvolveu tese sobre a obra em exame e seu autor. Este trabalho analisa as intervenções realizadas de modo recente nesse conjunto emblemático da arquitetura moderna uruguaia, contextualizando a experiência na abordagem característica do país – contrastante com a práxis brasileira; uma apreciação cujo interesse cresce justamente pela oportuna expertise de Scheps sobre a obra e seu autor.'
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O edifício da Facultad de Ingeniería da Universidad de la Republica (UdelaR), em Montevidéu, possui uma dimensão arquitetônica e historiográfica reconhecida internacionalmente, como demonstra sua menção como obra moderna uruguaia precursora por Henry-Russel Hitchcock em “Latin American Architecture Since 1945” (1955), entre outras fontes bibliográficas. O conjunto projetado por Julio Vilamajó em 1936 foi inovador ao antecipar o uso do concreto aparente de forma global; mas também por implantar os diversos blocos de usos e dimensões distintas de modo similar à solução neoplástica da Bauhaus: a obra se destaca do tecido tradicional e denso às margens do Rio da Prata através da implantação livre em área verde junto ao Parque Rodó. Pelos motivos consistentes tornou-se merecidamente Monumento Histórico Nacional do Uruguai em 1975. Desde a década de 1990, o conjunto vem recebendo as atualizações técnicas e funcionais necessárias ao funcionamento, pela defasagem natural de equipamentos, funções e condições de uso; são efetuadas “reciclagens” e ampliações, além do restauro e conservação de elementos existentes. Até o presente momento, o autor dessas intervenções foi Juan Gustavo Scheps Grandal, Doutor em Teoria e Prática de Projeto de Arquitetura pela Universidad Politécnica de Madrid, onde desenvolveu tese sobre a obra em exame e seu autor. Este trabalho analisa as intervenções realizadas de modo recente nesse conjunto emblemático da arquitetura moderna uruguaia, contextualizando a experiência na abordagem característica do país – contrastante com a práxis brasileira; uma apreciação cujo interesse cresce justamente pela oportuna expertise de Scheps sobre a obra e seu autor.'
+  keywords:
   - Arquitetura moderna uruguaia
   - Facultad de Ingeniería
   - Julio Vilamajó
   - reciclagem
   - ampliação
-  referencias:
+  references:
   - 'ARANA, M. Increscedo Moderno. In: ELARQA. Contratiempos Modernos: Julio Vilamajó, Montevideo: Dos Puntos, n. 02, p. 20-29, dezembro 1991. Area de Comunicación. Facultad de Ingeniería: Historia de un proyecto edilicio en constante cambio. Montevideo: Facultad de Ingeniería, 2013. Disponível em: https://www.fing.edu.uy/noticias/ area-de-comunicación/facultad-de-ingeniería-historia-de-un-proyecto-edilicio-en-constante-c. Acesso em: 06 ago. 2019.'
   - 'ASHFIELD, W. R. Arquitectura moderna en Montevideo (1920-1960). Montevideo: Facultad de Arquitectura – Universidad de la República, 2012. p. 290-291.'
   - 'BOITO. Camillo. Os Restauradores (Tradução e Apresentação: Beatriz Mugayar Kühl). Cotia, SP: Ateliê Editorial, 2008.'
@@ -430,107 +469,106 @@ articles:
   - 'FING. Março/2008. nº 39, 13 p. Plan de Obras/FING. Boletín Mensual del Plan de Obras y Mantenimiento. Montevideo: UdelaR-'
   - 'FING. Julho/2008. nº 44, 16 p. Plan de Obras/FING. Boletín Mensual del Plan de Obras y Mantenimiento. Montevideo: UdelaR-'
   - 'FING. Julho/2009. nº 60, 31 p. Plan de Obras/FING. Boletín Mensual del Plan de Obras y Mantenimiento. Montevideo: UdelaR-'
-  - FING. Setembro/2018. nº 173, 16 p.
+  - 'FING. Setembro/2018. nº 173, 16 p.'
   - 'ROCHA, R. Construção: tema e variações: A intervenção de Gustavo Scheps na Sala de Máquinas da Faculdade de Engenharia de Montevidéu. In: Vitruvius, São Paulo, ano 2001, v. 017.11, 2. Disponível em: https://www.vitruvius.com.br/revistas/read/arquitextos/02.017/845. Acesso em: 31 jul. 2019.'
   - 'SCARONE, A. Uruguayos Contemporáneos: Nuevo Diccionario de Datos Biográficos y Bibliográficos. 2. ed. Montevideo: Casa A. Barreiro y Ramos S. A., 1937. 626 p.'
-  - SCHEPS, G. 17 Registros Facultad de Ingeniería de Montevideo (1936-1938) de Julio Vilamajó, Arquitecto. Montevideo, Facultad de Arquitectura, 2008a. Disponível em < http://oa.upm.es/2920/> Acesso em 31 jul. 2019
+  - 'SCHEPS, G. 17 Registros Facultad de Ingeniería de Montevideo (1936-1938) de Julio Vilamajó, Arquitecto. Montevideo, Facultad de Arquitectura, 2008a. Disponível em < http://oa.upm.es/2920/> Acesso em 31 jul. 2019'
   - 'SCHEPS, G. Acordando a Vilamajó. In: BSAU. Montevideo: Sociedad de Arquitectos del Uruguay, 2010, v. novembro-dezembro. 55 p.'
-  - SCHEPS, G. Currículo Profesional. 2009. Disponível em <https://web.archive.org/web/201311 02072932/http://www.farq.edu.uy/joomla/images/stories/DOCUMENTOS/curriculum_scheps.pdf> 40 p. Acesso em 31 jul. 2019
+  - 'SCHEPS, G. Currículo Profesional. 2009. Disponível em <https://web.archive.org/web/201311 02072932/http://www.farq.edu.uy/joomla/images/stories/DOCUMENTOS/curriculum_scheps.pdf> 40 p. Acesso em 31 jul. 2019'
   - 'SCHEPS, G. 7ªs jornadas de investigación en arquitectura. Mondevideo: UdelaR. 2008b. Disponível em <http://www.fadu.edu.uy/publicaciones/files/2012/05/7as_jornadas_inv.pdf>. Data do Acesso em: 22 set 2019'
   - 'URRUZOLA, J. P. Bajo Las Sabanas. In: ELARQA. Montevideo: Dos Puntos, nº02, ano 1991. p. 47-'
-  seminario: sdsul06
-  titulo: As intervenções recentes de Scheps na Facultad de Ingeniería de Vilamajó
-  secao: Artigos Completos
-  paginas: 130-145
-  autores:
-  - givenname: Cristiane dos Santos Bitencourt
-    familyname: Schwingel
-    email: cristiane.schwingel@ufrgs.br
+  locale: 'pt-BR'
+  file: 'sdsul06-009.pdf'
+  pages_count: 16
+  pages: '130-145'
+
+- id: 'sdsul06-010'
+  title: 'Arquitetura da demolição, a nova memória do moderno'
+  authors:
+  - givenname: Cristiane Leticia Oppermann
+    familyname: Thies
+    email: 'cristianeot@yahoo.com.br'
     affiliation: null
+    orcid: '0000-0002-3181-3499'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Luis Henrique Haas
-    familyname: Luccas
-    email: luis.luccas@ufrgs.br
+  - givenname: Fernanda Peron
+    familyname: Gaspary
+    email: 'fernandaperon@hotmail.com'
     affiliation: null
+    orcid: '0000-0003-0433-9354'
+    bio: null
     country: BR
     primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-010
-  locale: pt-BR
-  arquivo_pdf: sdsul06-010.pdf
-  pages_count: 11
-  resumo: O tema deste trabalho gira em torno da crescente demolição de edificações de expressão modernista na cidade de Santa Maria, interior do estado do Rio Grande do Sul. O modernismo iniciou tardiamente no estado, em parte pelo isolamento geográfico em relação a outros polos de influencia, em parte pela escassez de profissionais, principalmente arquitetos. O período compreendeu as décadas de 1940 até 1970 e manifestou arquiteturas que representaram a difusão dos preceitos modernistas, com a particularidade de estarem inseridas no contexto regional e de expressarem a forma como os arquitetos gaúchos decodificaram as influências do sudeste para adaptá-las as condições culturais e ambientais locais. Portanto, tais edifícios são representantes importantes de um período da história e do comportamento social, sendo cenário estruturador de uma paisagem urbana que ainda perfaz o imaginário coletivo. Dessa forma, o objetivo geral do artigo pretende lançar um olhar observador sobre a destruição de muitos espaços de vida e de memória, dotados de valor histórico, arquitetônico e afetivo. Além disso, almeja refletir sobre de que maneira a desconstrução da paisagem, tanto natural quanto edificada, pode interferir na memória individual e coletiva, uma vez que quando ocorre uma ameaça ou mesmo a destruição de um patrimônio que estava ligado a uma coletividade, surge o sentimento de perda de parte da memória, e ameaça a continuidade do grupo de que pode ser nominada emoção patrimonial, que nada mais é que o interesse mobilizador e reivindicatório que o patrimônio desperta em alguns indivíduos. Para tanto, o processo de trabalho se baseia na leitura de livros sobre o tema, na pesquisa em periódicos, físicos e digitais, na análise iconográfica já registrada e na busca por documentos. Nesse estudo, foram utilizadas múltiplas fontes de evidência. Com o material de pesquisa em mãos será possível compreender melhor a temática, que gira em torno da memória, e realizar as contribuições pretendidas, como refletir quais exemplares poderiam permanecer na paisagem urbana. Percebendo a cidade como uma estrutura dinâmica, que se (re)constrói e se (re)cria conforme as necessidades e o momento histórico, a dúvida sobre o que se deve preservar evidencia-se nas discussões acerca das preexistências. A falta de interesse em, ao menos, inventariar esses prédios antes da sua demolição, reflete a ausência de uma política de preservação, que colabora para que aconteçam perdas irreparáveis de significativos exemplares da arquitetura moderna regionalista gaúcha.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O tema deste trabalho gira em torno da crescente demolição de edificações de expressão modernista na cidade de Santa Maria, interior do estado do Rio Grande do Sul. O modernismo iniciou tardiamente no estado, em parte pelo isolamento geográfico em relação a outros polos de influencia, em parte pela escassez de profissionais, principalmente arquitetos. O período compreendeu as décadas de 1940 até 1970 e manifestou arquiteturas que representaram a difusão dos preceitos modernistas, com a particularidade de estarem inseridas no contexto regional e de expressarem a forma como os arquitetos gaúchos decodificaram as influências do sudeste para adaptá-las as condições culturais e ambientais locais. Portanto, tais edifícios são representantes importantes de um período da história e do comportamento social, sendo cenário estruturador de uma paisagem urbana que ainda perfaz o imaginário coletivo. Dessa forma, o objetivo geral do artigo pretende lançar um olhar observador sobre a destruição de muitos espaços de vida e de memória, dotados de valor histórico, arquitetônico e afetivo. Além disso, almeja refletir sobre de que maneira a desconstrução da paisagem, tanto natural quanto edificada, pode interferir na memória individual e coletiva, uma vez que quando ocorre uma ameaça ou mesmo a destruição de um patrimônio que estava ligado a uma coletividade, surge o sentimento de perda de parte da memória, e ameaça a continuidade do grupo de que pode ser nominada emoção patrimonial, que nada mais é que o interesse mobilizador e reivindicatório que o patrimônio desperta em alguns indivíduos. Para tanto, o processo de trabalho se baseia na leitura de livros sobre o tema, na pesquisa em periódicos, físicos e digitais, na análise iconográfica já registrada e na busca por documentos. Nesse estudo, foram utilizadas múltiplas fontes de evidência. Com o material de pesquisa em mãos será possível compreender melhor a temática, que gira em torno da memória, e realizar as contribuições pretendidas, como refletir quais exemplares poderiam permanecer na paisagem urbana. Percebendo a cidade como uma estrutura dinâmica, que se (re)constrói e se (re)cria conforme as necessidades e o momento histórico, a dúvida sobre o que se deve preservar evidencia-se nas discussões acerca das preexistências. A falta de interesse em, ao menos, inventariar esses prédios antes da sua demolição, reflete a ausência de uma política de preservação, que colabora para que aconteçam perdas irreparáveis de significativos exemplares da arquitetura moderna regionalista gaúcha.'
+  keywords:
   - Patrimônio Cultural
   - Arquitetura moderna
   - Arquitetura da Demolição
   - Memória
-  referencias:
+  references:
   - 'ARANTES, Antonio A. O patrimônio cultural e seus usos: a dimensão urbana. Habitus. Goiânia, v. 4, n.1, p. 425-435, jan./jun. 2006.'
-  - BAUMAN, Zygmunt. Tempos Líquidos. Ed. Zahar, Rio de Janeiro, 2007.
+  - 'BAUMAN, Zygmunt. Tempos Líquidos. Ed. Zahar, Rio de Janeiro, 2007.'
   - 'BISELLI, M. Teoria e prática do partido arquitetônico. Vitruvius, São Paulo, n. 12.134, jul. 2011. Disponível em <http://vitruvius.com.br/revistas/read/arquitextos/12.134/3974> Acesso em: 03 out 2013.'
   - 'BONAMETTI, João Henrique. Paisagem urbana, bases conceituais e históricas. Terra e cultura, ano XX, nº38, p.107-123. Disponível em: <http://web.unifil.br/docs/revista_eletronica/terra_cultura/38/Terra%20e%20Cultura_38 -10.pdf>.'
   - 'CORRÊA, Roberto Lobato. A Geografia Cultural e o Urbano. In: CORRÊA, Roberto Lobato; ROSENDAHL, Zeni (Org.). Introdução à Geografia Cultural. Rio de Janeiro: Bertrand Brasil, 2007.'
   - 'BAUMAN, Zygmunt. Vida líquida; tradução Carlos Alberto Medeiros. Rio de Janeiro: Jorge Zahar Ed., 2007.'
   - 'FONSECA, Maria Cecília Londres. O patrimônio em processo: trajetória da política federal de preservação no Brasil. Rio de Janeiro: UFRJ, 2017.'
-  - FUNARI, Pedro Paulo. Os desafios da destruição e conservação do patrimônio cultural no Brasil. Arquitextos, São Paulo, ano 01, n. 005.04, Vitruvius, out. 2000. <https://www.vitruvius.com.br/revistas/read/arquitextos/01.005/970>.
+  - 'FUNARI, Pedro Paulo. Os desafios da destruição e conservação do patrimônio cultural no Brasil. Arquitextos, São Paulo, ano 01, n. 005.04, Vitruvius, out. 2000. <https://www.vitruvius.com.br/revistas/read/arquitextos/01.005/970>.'
   - 'FUNARI, Pedro Paulo e PELEGRINI, Sandra. Patrimônio Histórico e Cultural. Rio de Janeiro: Zahar, 2006.'
   - 'GONÇALVES, José Reginaldo Santos. O mal-estar no patrimônio: identidade, tempo e destruição. Estudos Históricos. Rio de Janeiro, vol. 28, no 55, p. 211-228, janeiro- junho, 2015.'
-  - GUERRA, Abilio. Desafios do restauro moderno. Drops, São Paulo, ano 18, n. 121.07, Vitruvius, out. 2017 <https://www.vitruvius.com.br/revistas/read/drops/18.121/6735>.
+  - 'GUERRA, Abilio. Desafios do restauro moderno. Drops, São Paulo, ano 18, n. 121.07, Vitruvius, out. 2017 <https://www.vitruvius.com.br/revistas/read/drops/18.121/6735>.'
   - 'HARTOG, François. Regimes de historicidade: presentismo e experiências do tempo. Belo Horizonte: Autêntica, 2013. p.17-41.'
-  - KOOLHAAS, Rem. Três textos sobre a cidade. Ed. GG. São Paulo, 2010.
-  - LEMOS, Carlos. O que é patrimônio? Ed. Brasiliense. São Paulo, 2006.
-  - LYNCH, Kevin. A imagem da cidade. Traduzido por Jefferson Luiz Camargo. São Paulo, Martins Fontes, 1997.
+  - 'KOOLHAAS, Rem. Três textos sobre a cidade. Ed. GG. São Paulo, 2010.'
+  - 'LEMOS, Carlos. O que é patrimônio? Ed. Brasiliense. São Paulo, 2006.'
+  - 'LYNCH, Kevin. A imagem da cidade. Traduzido por Jefferson Luiz Camargo. São Paulo, Martins Fontes, 1997.'
   - 'MENESES, Ulpiano T. Memória e cultura material: documentos pessoais no espaço público. Revista Estudos Históricos, FGV, n. 21, 1998.'
-  - ORTIZ, Renato. Cultura brasileira e identidade nacional. São Paulo, Brasiliense, 1994.
-  - PERALTA, Elsa. Memória do mar Património marítimo e (re)imaginação identitária na construção do local in.PERALTA, Elsa e ANICO, Marta (org.) Patrimónios e Identidades Ficções Contemporâneas. Ed Centa, 2005, p.73-82.
-  - POLLAK, 1989 POLLAK, Michael. Memória, esquecimento e silencio. Estudos Históricos, Rio de Janeiro, vol. 2, n. 3, 1989, p. 3-15.
+  - 'ORTIZ, Renato. Cultura brasileira e identidade nacional. São Paulo, Brasiliense, 1994.'
+  - 'PERALTA, Elsa. Memória do mar Património marítimo e (re)imaginação identitária na construção do local in.PERALTA, Elsa e ANICO, Marta (org.) Patrimónios e Identidades Ficções Contemporâneas. Ed Centa, 2005, p.73-82.'
+  - 'POLLAK, 1989 POLLAK, Michael. Memória, esquecimento e silencio. Estudos Históricos, Rio de Janeiro, vol. 2, n. 3, 1989, p. 3-15.'
   - 'PREFEITURA DA CIDADE DO RIO DE JANEIRO. Memória da Destruição: Rio – uma história que se perdeu (1889-1965). 2002.'
   - 'RICOEUR, Paul. A memória, a história, o esquecimento. Campinas: Editora da Unicamp, 2007.'
-  - SCOCUGLIA, Jovanka Baracuhy Cavalcanti; CHAVES, Carolina; LINS, Juliane. Percepção e memória da cidade:. O Ponto de Cem Réis. Arquitextos, São Paulo, ano 06, n. 068.07, Vitruvius, jan. 2006 https://www.vitruvius.com.br/revistas/read/arquitextos/06.068/393
+  - 'SCOCUGLIA, Jovanka Baracuhy Cavalcanti; CHAVES, Carolina; LINS, Juliane. Percepção e memória da cidade:. O Ponto de Cem Réis. Arquitextos, São Paulo, ano 06, n. 068.07, Vitruvius, jan. 2006 https://www.vitruvius.com.br/revistas/read/arquitextos/06.068/393'
   - 'THIES, Cristiane Leticia Oppermann; GASPARY, Fernanda Peron. O moderno desaparecerá? Um alerta sobre a demolição das casas modernistas do em Santa Maria - RS: caso da Avenida Presidente Vargas, casa 2360. In: Anais do 3º Simpósio Científico do ICOMOS Brasil. Anais... Belo Horizonte/MG, 2019. Disponível em: <https//www.even3.com.br/anais/IIISimposioICOMOSBrasil/149198-o-moderno- desaparecera-um-alerta-sobre-a-demolicao-das-casas-modernistas-do-em-santa- maria---rs---caso-da-avenid>.'
-  - VÁZQUEZ RAMOS, Fernando Guillermo. Desafios para a preservação do patrimônio arquitetônico e urbanístico modernos em São Paulo. O Docomomo no início do século
-  - 21. Arquitextos, São Paulo, ano 19, n. 219.00, Vitruvius, ago. 2018 https://www.vitruvius.com.br/revistas/read/arquitextos/19.219/7039. .
-  seminario: sdsul06
-  titulo: Arquitetura da demolição, a nova memória do Moderno
-  secao: Artigos Completos
-  paginas: 146-156
-  autores:
-  - givenname: Cristiane Leticia Oppermann
-    familyname: Thies
-    email: cristianeot@yahoo.com.br
+  - 'VÁZQUEZ RAMOS, Fernando Guillermo. Desafios para a preservação do patrimônio arquitetônico e urbanístico modernos em São Paulo. O Docomomo no início do século'
+  - '21. Arquitextos, São Paulo, ano 19, n. 219.00, Vitruvius, ago. 2018 https://www.vitruvius.com.br/revistas/read/arquitextos/19.219/7039. .'
+  locale: 'pt-BR'
+  file: 'sdsul06-010.pdf'
+  pages_count: 11
+  pages: '146-156'
+
+- id: 'sdsul06-011'
+  title: Guillermo Jullian de la Fuente
+  subtitle: a trajetória do arquiteto chileno entre dois projetos herdados de Le Corbusier
+  authors:
+  - givenname: Cristina
+    familyname: Gondim
+    email: 'gondim.cristina@gmail.com'
     affiliation: null
+    orcid: '0000-0003-3525-2542'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Fernanda Peron
-    familyname: Gaspary
-    email: fernandaperon@hotmail.com
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-011
-  locale: pt-BR
-  arquivo_pdf: sdsul06-011.pdf
-  pages_count: 25
-  resumo: O arquiteto chileno Guillermo Jullian de la Fuente (1931-2008) foi um dos principais colaboradores latino-americanos de Le Corbusier, teve importante participação em projetos realizados durante sua passagem pelo Ateliê da Rue Sèvres entre 1959 e 1965, experiência encerrada com a morte do mestre franco-suíço. Considerado um dos mais fiéis discípulos, assumiu a responsabilidade de continuar projetos em andamento e comandar realizações póstumas do escritório francês. A experiência foi determinante para sua carreira, não apenas por se tratar do maior laboratório da cultura arquitetônica moderna, mas pelas circunstâncias que o tornaram herdeiro de trabalhos que abriram um campo de pesquisa em sua trajetória profissional. Desenvolvidos paralelamente no início da década de 60, o Hospital de Veneza (1963-1969) e a Embaixada da França em Brasília (1963-1965) são projetos amplamente investigados na obra de Le Corbusier, nos quais Jullian teve participação em diferentes níveis de envolvimento e com atuação decisiva sobre seus desdobramentos após 1965. O princípio organizacional do Hospital exerce forte influência em pesquisas e projetos subsequentes de Jullian, que desenvolveu a proposta original em nível de projeto executivo através de um processo que demonstra fidelidade e coerência entre os esboços iniciais e sua versão final. Já no projeto da Embaixada, ao optar por não modificar a ideia original do mestre, elabora uma proposta inteiramente nova e pouco conhecida, baseada no método projetual que constitui sua investigação sobre sistemas ordenadores. O presente estudo tem como objetivo investigar a trajetória entre os dois projetos com foco no desenvolvimento da ferramenta conhecida por Yellow Peripherical Distinction (YPD) que o arquiteto aplica em seus projetos para capital brasileira. A contextualização no período revela como o contato com Team 10 impactou sua produção e aponta para a possibilidade de interpretação do projeto realizado da Embaixada da França em Brasília (1971-1974) como uma manifestação de mat-building.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O arquiteto chileno Guillermo Jullian de la Fuente (1931-2008) foi um dos principais colaboradores latino-americanos de Le Corbusier, teve importante participação em projetos realizados durante sua passagem pelo Ateliê da Rue Sèvres entre 1959 e 1965, experiência encerrada com a morte do mestre franco-suíço. Considerado um dos mais fiéis discípulos, assumiu a responsabilidade de continuar projetos em andamento e comandar realizações póstumas do escritório francês. A experiência foi determinante para sua carreira, não apenas por se tratar do maior laboratório da cultura arquitetônica moderna, mas pelas circunstâncias que o tornaram herdeiro de trabalhos que abriram um campo de pesquisa em sua trajetória profissional. Desenvolvidos paralelamente no início da década de 60, o Hospital de Veneza (1963-1969) e a Embaixada da França em Brasília (1963-1965) são projetos amplamente investigados na obra de Le Corbusier, nos quais Jullian teve participação em diferentes níveis de envolvimento e com atuação decisiva sobre seus desdobramentos após 1965. O princípio organizacional do Hospital exerce forte influência em pesquisas e projetos subsequentes de Jullian, que desenvolveu a proposta original em nível de projeto executivo através de um processo que demonstra fidelidade e coerência entre os esboços iniciais e sua versão final. Já no projeto da Embaixada, ao optar por não modificar a ideia original do mestre, elabora uma proposta inteiramente nova e pouco conhecida, baseada no método projetual que constitui sua investigação sobre sistemas ordenadores. O presente estudo tem como objetivo investigar a trajetória entre os dois projetos com foco no desenvolvimento da ferramenta conhecida por Yellow Peripherical Distinction (YPD) que o arquiteto aplica em seus projetos para capital brasileira. A contextualização no período revela como o contato com Team 10 impactou sua produção e aponta para a possibilidade de interpretação do projeto realizado da Embaixada da França em Brasília (1971-1974) como uma manifestação de mat-building.'
+  keywords:
   - Guillermo Jullian de la Fuente
   - Le Corbusier
   - Hospital de Veneza
   - Embaixada da França em Brasília
   - Yellow Peripherical Distinction
-  referencias:
+  references:
   - 'ALLARD, Pablo. Guillermo Jullian de la Fuente and Mat-building. In: RISSELADA, Max;'
   - 'VAN DEN HEUVEL, Dirk; DE WAAL, Gijs. Team 10 - Keeping the Language of Modern Architecture Alive, Delft: TU Delft, 2006.'
   - 'ALLARD, Pablo. Bridge over Venice. Speculations on Cross-fertilization of Ideas between Team 10 and Le Corbusier (after a Conversation with Guillermo Jullian de la Fuente). In:'
-  - SARKIS, Hashim. Le Corbusier’s Venice Hospital and the Mat Building Revival. Munich, Londres, Nueva York. Harvard Design School, Prestel, 2001.
+  - 'SARKIS, Hashim. Le Corbusier’s Venice Hospital and the Mat Building Revival. Munich, Londres, Nueva York. Harvard Design School, Prestel, 2001.'
   - 'ALONSO, Pedro Ignacio. Square Abstractions an the Double Neutral in Guillermo Jullian''s Venice Hospital Church, 1966. In: JULLIAN DE LA FUENTE, Guillermo; ZALDÍVAR, Claudio Vásquez. Massilia 2007: Guillermo Jullian de la Fuente. Santiago, Chile: ARQ Ediciones, Escuela de Arquitectura, Pontificia Universidad Católica de Chile, 2008. Disponível em: <https://upcommons.upc.edu/handle/2099/9474>. Acesso em: 9 set. 2019.'
   - 'BIANCHI, Sebastián; PÉREZ, Lorena. Guillermo Jullian. La paleta del arquitecto. ARQ, n. 70 Arte / Arquitectura - Art / Architecture, Santiago, diciembre, 2008, p. 74-81. Disponível em: <https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0717-69962008000300016#n6> Acesso em: 5 set. 2019.'
   - 'CAMPELLO, Glauco. O projeto para a embaixada da França em Brasília. In: Modulo: Revista de Arquitetura e Artes Plasticas. Rio de Janeiro n.96 (nov.1987), p.31-41 : il.'
   - 'CHATEAU, Francisco. Yellow Peripherical Distinction. Guillermo Jullian en el encuentro del Team X en Berlin, 1973. Revista Masillia, Annuarie des L''Études Corbusiennes. ARQ Ediciones / PUC-Chile: Santiago, Chile, 2007, p. 76-89. Disponível em: <https://upcommons.upc.edu/bitstream/handle/2099/9493/2007_90.pdf?sequence=1&isAllowed =y>. Acesso em: 5 ago. 2019.'
-  - 'CHIARELLI, Silvia Raquel. Le Corbusier: embaixada da França, Brasília. 2018. 135 f. Tese (Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo. Disponível em: <http://tede.Mackenzie.br/jspui/handle/tede/3484>. Acesso em: 5 ago. 2019.'
+  - 'CHIARELLI, Silvia Raquel. Le Corbusier: embaixada da França, Brasília. 2018. 135 f. Tese (Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo. Disponível em: <http://tede.mackenzie.br/jspui/handle/tede/3484>. Acesso em: 5 ago. 2019.'
   - 'COLL, Jaime. Mat-building. In: Mat-Building. DPA 27/28. Edicions del Departament de Projectes, ETSAB Barcelona, 2011.'
   - 'COSTA, Claudia Puzzuoli dos Santos. Os estudos conceituais do Yellow Peripherical Distinction nos edifícios habitacionais de Brasilia de Guillermo Jullian. Arquitextos, 162.01ano 14, nov. 2013. Disponível em: <http://t.vitruvius.com.br/revistas/read/arquitextos/14.162/4957>. Acesso em: 5 ago. 2019.'
   - 'DI MATTEO, Colette. O projeto de 1972 e a construção da Embaixada. In: DI MATTEO, Colette; TIDORI, Jean-Martin (org.). Embaixada da França / L''Ambassa de de France: Brasília. São Paulo: Imprensa Oficial do Estado de São Paulo, Instituto Totem Cultural, 2009.'
@@ -544,50 +582,51 @@ articles:
   - 'PÉRES DE ARCE, Rodrigo. Entre el atajo y la promenade: recorridos en la obra de Guillermo Jullian. In: JULLIAN DE LA FUENTE, Guillermo; ZALDÍVAR, Claudio Vásquez. Massilia 2007: Guillermo Jullian de la Fuente. Santiago, Chile: ARQ Ediciones, Escuela de Arquitectura, Pontificia Universidad Católica de Chile, 2008. Disponível em: <https://upcommons.upc.edu/handle/2099/9474>. Acesso em: 9 set. 2019.'
   - 'QUEIROZ, Rodrigo. Os projetos realizados para a embaixada da França em Brasília: de Le Corbusier à de la Fuente. In: DI MATTEO, Colette; TIDORI, Jean-Martin (org.). Embaixada da França / L''Ambassa de de France: Brasília. São Paulo: Imprensa Oficial do Estado de São Paulo, Instituto Totem Cultural, 2009.'
   - 'SEGAWA, Hugo. Entrevistas e depoimentos: a viagem de Le Corbusier ao Brasil, em'
-  - 1962. Projeto, n. 102, São Paulo, 1987, p. 113.
+  - '1962. Projeto, n. 102, São Paulo, 1987, p. 113.'
   - 'SHAH, Mahnaz. Guillaume Jullian de la Fuente: la idea fundamental del diseño de Le Corbusier. Dearq 15. Colaboradores de Le Corbusier No. 2, 54-61, 2014. Disponível em: <https://issuu.com/dearq/docs/dearq_15_colaboradores_de_le_corbus>. Acesso em: 6 ago 2019.'
   - 'SMITHSON, Alison. How to Recognize and Read Mat Buildings. Mainstream architecture as it has developed towards the mat-building. Architectural Design, 44 (1974): 573-590.'
-  - SMITHSON, Alison. Team 10 Meetings 1953-1984. Rizzoli, New York , 1991.
-  - SOBREIRA, Patrícia Santos. A Viagem Poética como Pegadogia. Travesías da Escola de Arquitetura e Desenho de Valparaíso. Dissertação de Mestrado Integrado em Arquitetura. Departamento de Arquitetura, Faculdade de Ciências e Tecnologia, Universidade de Coimbra. Julho de 2016.
+  - 'SMITHSON, Alison. Team 10 Meetings 1953-1984. Rizzoli, New York , 1991.'
+  - 'SOBREIRA, Patrícia Santos. A Viagem Poética como Pegadogia. Travesías da Escola de Arquitetura e Desenho de Valparaíso. Dissertação de Mestrado Integrado em Arquitetura. Departamento de Arquitetura, Faculdade de Ciências e Tecnologia, Universidade de Coimbra. Julho de 2016.'
   - 'VÁSQUEZ, Claudio. Conversación con Guillermo Jullian de la Fuente. In: JULLIAN DE LA'
   - 'FUENTE, Guillermo; ZALDÍVAR, Claudio Vásquez. Massilia 2007: Guillermo Jullian de la Fuente. Santiago, Chile: ARQ Ediciones, Escuela de Arquitectura, Pontificia Universidad Católica de Chile, 2008. Disponível em: <https://upcommons.upc.edu/handle/2099/9474>. Acesso em: 9 set. 2019.'
-  seminario: sdsul06
-  titulo: Guillermo Jullian de la Fuente
-  subtitulo: a trajetória do arquiteto chileno entre dois projetos herdados de Le Corbusier
-  secao: Artigos Completos
-  paginas: 157-181
-  autores:
-  - givenname: Cristina
-    familyname: Gondim
-    email: gondim.cristina@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-011.pdf'
+  pages_count: 25
+  pages: '157-181'
+
+- id: 'sdsul06-012'
+  title: Cápsula do tempo
+  subtitle: 'residência Germano Vollmer Filho, 1967-69, Porto Alegre, arquiteto João Carlos Paiva da Silva'
+  authors:
+  - givenname: Daniel Pitta
+    familyname: Fischmann
+    email: 'fischmann@exemplo.com'
     affiliation: null
+    orcid: '0009-0002-8082-4853'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-012
-  locale: pt-BR
-  arquivo_pdf: sdsul06-012.pdf
-  pages_count: 14
-  resumo: 'A arquitetura moderna produzida em Porto Alegre, Lado B da produção moderna nacional, costuma ser contada e estudada, como não poderia deixar de ser, a partir de suas obras excepcionais, em geral de maior escala e indiscutível qualidade, mas que, no entanto, obtiveram pouco destaque ou reconhecimento acima do Mampituba. Se no contexto nacional essas obras não são Lado A, seu estudo mais aprofundado, no entanto, revela algumas surpresas interessantes, especialmente se considerarmos projetos de menor escala como as residências unifamiliares. Este parece ser o caso da Residência Germano Vollmer Filho, no bairro Petrópolis, em Porto Alegre, de autoria do arquiteto João Carlos Paiva da Silva em 1967 e construída em 1969. Sua condição atual pode ser considerada bastante rara: segue habitada pelos mesmos moradores desde sua construção. Sem jamais ter sido reformada ou alterada, e sim conservada, a obra reflete ao longo dos últimos cinquenta anos uma relação respeitosa e afetiva de seus moradores para com o falecido arquiteto, tendo mantida sua concepção inalterada, numa demonstração inequívoca de perfeito atendimento das necessidades dos clientes. Além de apresentar a obra, pouco conhecida até mesmo no contexto local, o artigo pretende discutir a questão da preservação e conservação do patrimônio moderno com enfoque nas residências unifamiliares de Porto Alegre, cuja vida útil depende não somente de seus atributos construtivos, mas também do desejo de seus moradores e sua identificação com a obra. Além disso, o trabalho também procura sustentar que há uma produção residencial unifamiliar porto-alegrense em extinção, cujo conjunto merece reconhecimento, ainda que, por vezes, seja Lado B em seu próprio território.'
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'A arquitetura moderna produzida em Porto Alegre, Lado B da produção moderna nacional, costuma ser contada e estudada, como não poderia deixar de ser, a partir de suas obras excepcionais, em geral de maior escala e indiscutível qualidade, mas que, no entanto, obtiveram pouco destaque ou reconhecimento acima do Mampituba. Se no contexto nacional essas obras não são Lado A, seu estudo mais aprofundado, no entanto, revela algumas surpresas interessantes, especialmente se considerarmos projetos de menor escala como as residências unifamiliares. Este parece ser o caso da Residência Germano Vollmer Filho, no bairro Petrópolis, em Porto Alegre, de autoria do arquiteto João Carlos Paiva da Silva em 1967 e construída em 1969. Sua condição atual pode ser considerada bastante rara: segue habitada pelos mesmos moradores desde sua construção. Sem jamais ter sido reformada ou alterada, e sim conservada, a obra reflete ao longo dos últimos cinquenta anos uma relação respeitosa e afetiva de seus moradores para com o falecido arquiteto, tendo mantida sua concepção inalterada, numa demonstração inequívoca de perfeito atendimento das necessidades dos clientes. Além de apresentar a obra, pouco conhecida até mesmo no contexto local, o artigo pretende discutir a questão da preservação e conservação do patrimônio moderno com enfoque nas residências unifamiliares de Porto Alegre, cuja vida útil depende não somente de seus atributos construtivos, mas também do desejo de seus moradores e sua identificação com a obra. Além disso, o trabalho também procura sustentar que há uma produção residencial unifamiliar porto-alegrense em extinção, cujo conjunto merece reconhecimento, ainda que, por vezes, seja Lado B em seu próprio território.'
+  keywords:
   - arquitetura moderna
   - residência
   - casa brasileira
   - projeto
   - Porto Alegre
-  referencias:
+  references:
   - 'ÁBALOS, Iñaki. A boa-vida: visita guiada às casas da modernidade. Barcelona: Gustavo Gili, 2003.'
   - 'ACAYABA, Marlene Milan. Residências em São Paulo: 1947-1975. São Paulo: Projeto, 1986.'
   - 'BAHIMA, Carlos Fernando. Colunas metálicas sob cobertura plana: regra e exceção na casa Hélio Dourado. Anais do IV DOCOMOMO Sul, Porto Alegre: PROPAR/UFRGS, 2013.'
   - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2015.'
   - 'COMAS, Carlos Eduardo Dias; PIÑON, Hélio. Inventário da arquitetura moderna em Porto Alegre – 1945/65. Porto Alegre: Marcavisual, 2013.'
   - 'COMAS, Carlos Eduardo Dias e ADRIÁ, Miquel. La casa latino-americana moderna – 20 paradigmas de mediados de siglo XX. Gustavo Gili: Barcelona, 2003. CORONA-MARTÍNEZ, Alfonso. Ensaio sobre o projeto. Brasília: Editora UNB: 2000. Século XIX, revelando mais um ponto de contato (eventualmente mascarado) do discurso moderno com o passado, ainda que estas ligações tenham sido frequentemente negadas por seus principais agentes. 12 Depoimento oral da Sra. Marisa Vollmer em 28/05/2019.'
-  - GUERRA, Abilio e RIBEIRO, Alessandro José Castroviejo. Casas brasileiras do século XX. Portal Vitruvius - Arqtextos, julho/2006. Disponível em <http://www.vitruvius.com.br /revistas/read/arquitextos/07.074/335>. Acesso em 05 março 2019.
+  - 'GUERRA, Abilio e RIBEIRO, Alessandro José Castroviejo. Casas brasileiras do século XX. Portal Vitruvius - Arqtextos, julho/2006. Disponível em <http://www.vitruvius.com.br /revistas/read/arquitextos/07.074/335>. Acesso em 05 março 2019.'
   - 'LAMPRECHT, Barbara Mac. Neutra – Complete Works. China: Taschen, 2015.'
   - 'LEÃO, Sílvia Lopes Carneiro; SANVITTO, Maria Luíza Adams. Opacidade e transparência nas residências do Brutalismo Paulista. In COMAS, Carlos Eduardo; MARQUES, Sergio (orgs.). A Segunda Idade do Vidro – Transparência e Sombra na Arquitetura Moderna do Cone Sul Americano – 1930/1970. Porto Alegre: Ed. UniRitter, 2007.'
-  - LUCCAS, Luís Henrique Haas. A escola carioca e a arquitetura moderna em Porto Alegre. Portal Vitruvius, Texto Especial 370 – junho 2006.
+  - 'LUCCAS, Luís Henrique Haas. A escola carioca e a arquitetura moderna em Porto Alegre. Portal Vitruvius, Texto Especial 370 – junho 2006.'
   - 'LUCCAS, Luís Henrique Haas. "O sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50." Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível am <http://www.revistas.usp.br/posfau/article/view/43680>. Acesso em 05 março 2019.'
-  - 'LUZ, MatuRino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura. São Leopoldo: Unisinos, 2001.'
+  - 'LUZ, Maturino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura. São Leopoldo: Unisinos, 2001.'
   - 'MARQUES, Sergio. Fayet, Araújo & Moojen: arquitetura moderna brasileira no sul - 1950 / 1970. Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2012.'
   - 'MOORE, Charles; ALLEN, Gerald; LYNDON, Donlyn. La casa: forma y diseño. Barcelona: GG, 1977.'
   - 'PEIXOTO, Marta S. A sala bem temperada: interior moderno e sensibilidade eclética. Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2006.'
@@ -596,85 +635,87 @@ articles:
   - 'ROVATTI, João Farias; PADÃO, Fabiano Mesquita (orgs.). Faculdade de Arquitetura: 1952-2002. Porto Alegre: Gráfica da UFRGS, Faculdade de Arquitetura, 2002.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
   - 'XAVIER, Alberto, LEMOS, Carlos e CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo: Pini, 1983.'
-  - ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista (1953-1973). Porto Alegre,
-  - ZEIN, Ruth Verde. “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)”. Vitruvius.
-  seminario: sdsul06
-  titulo: Cápsula do tempo
-  subtitulo: Residência Germano Vollmer Filho, 1967-69, Porto Alegre, Arquiteto João Carlos Paiva da Silva
-  secao: Artigos Completos
-  paginas: 182-195
-  autores:
-  - givenname: Daniel Pitta
-    familyname: Fischmann
-    email: danielpitta@ufrgs.br
+  - 'ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista (1953-1973). Porto Alegre,'
+  - 'ZEIN, Ruth Verde. “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)”. Vitruvius.'
+  locale: 'pt-BR'
+  file: 'sdsul06-012.pdf'
+  pages_count: 14
+  pages: '182-195'
+
+- id: 'sdsul06-013'
+  title: Horacio Baliero e a construção da paisagem
+  subtitle: o caso do cemitério parque de Mar del Plata
+  authors:
+  - givenname: Diego Fonseca Brasil
+    familyname: Vianna
+    email: 'diego.fonseca@estacio.br'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-013
-  locale: pt-BR
-  arquivo_pdf: sdsul06-013.pdf
-  pages_count: 17
-  resumo: O enfrentamento da grande escala sobre a paisagem natural é um tema que interessa à arquitetura moderna, estabelecendo um desafio que abrange a resolução do projeto em si, bem como a capacidade de produção de território. Horacio Baliero (1927-2004), em sua obra para o Cemitério Parque de Mar del Plata, abarca essas questões de forma contundente, demonstrando os anseios do movimento moderno em estabelecer relações entre o edifício e o local de inserção, assim como a preocupação com a expansão territorial. Considerado um expoente da arquitetura moderna argentina pelos seus pares, Baliero dedicou-se simultaneamente à docência e à prática, desenvolvendo mais de 80 projetos de diversas escalas e programas.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O enfrentamento da grande escala sobre a paisagem natural é um tema que interessa à arquitetura moderna, estabelecendo um desafio que abrange a resolução do projeto em si, bem como a capacidade de produção de território. Horacio Baliero (1927-2004), em sua obra para o Cemitério Parque de Mar del Plata, abarca essas questões de forma contundente, demonstrando os anseios do movimento moderno em estabelecer relações entre o edifício e o local de inserção, assim como a preocupação com a expansão territorial. Considerado um expoente da arquitetura moderna argentina pelos seus pares, Baliero dedicou-se simultaneamente à docência e à prática, desenvolvendo mais de 80 projetos de diversas escalas e programas.'
+  keywords:
   - Horacio Baliero
   - Cemitério Parque de Mar del Plata
   - Arquitetura Moderna
-  referencias:
+  references:
   - 'ACUÑA, Vivian. Entrevista com a arquiteta Carmen Córdova realizada na SCA (Sociedad Central de Arquitectos). Buenos Aires, junho de 2006. Disponível em <http://www.socearq.org/cms/wp- content/uploads/2011/02/cc1nuevo1.pdf>. Acesso: 16 out. 2015.'
-  - ALIATA, FERNANDO y LIERNUR, JORGE FRANCISCO. Diccionario de arquitectura en la Argentina. Estilos, obras, biografías, instituciones, ciudades (comp.). Buenos Aires. AGEA, 2004.
-  - BALIERO, Horacio. 2006. Baliero. Edição FADU UBA Facultad de arquitectura, diseño y urbanismo de la universidad de Buenos Aires.
-  - BALIERO, Horacio. La mirada desde el margen. Editora Universidad de Buenos Aires. Facultad de Arquitetura. 1993
+  - 'ALIATA, FERNANDO y LIERNUR, JORGE FRANCISCO. Diccionario de arquitectura en la Argentina. Estilos, obras, biografías, instituciones, ciudades (comp.). Buenos Aires. AGEA, 2004.'
+  - 'BALIERO, Horacio. 2006. Baliero. Edição FADU UBA Facultad de arquitectura, diseño y urbanismo de la universidad de Buenos Aires.'
+  - 'BALIERO, Horacio. La mirada desde el margen. Editora Universidad de Buenos Aires. Facultad de Arquitetura. 1993'
   - 'BORTHAGARAY, Juan Manoel. Texto escrito para a amostra Diamante Polido, uma homenagem para Baliero, realizada no Centro Cultural Recoleta, em Buenos Aires, em Rosário, Córdoba e na FADU-UBA, em 2003. Disponível em: <http://www.cronista.com/impresageneral/Homenaje-al-arquitecto-integral-20040304-0069.html> Acesso: jun 2016'
   - 'BULLRICH, Francisco. Arquitectura argentina contemporánea. Panorama de la arquitectura argentina 1950-1963. 1963. Buenos aires: Nueva Visión.'
-  - BULLRICH, FRANCISCO. Arquitectura Latinoamericana 1930/1970. Buenos Aires. Sudamericana. 1969.
+  - 'BULLRICH, FRANCISCO. Arquitectura Latinoamericana 1930/1970. Buenos Aires. Sudamericana. 1969.'
   - 'BULLRICH, FRANCISCO. Nuevos Caminos de la Arquitectura Latino Americana. Ed. Blume. Barcelona. 1969 Catedra Baliero FADU UBA. Maestros de la Arquitectura Argentina: Bucho Baliero. Dirigido por: Montaner, Humberto Gonzales e Sabugo, Mario Santiago. 1 edição. Buenos Aires. Editora Clarín, 2014.'
-  - ETCHEGORRY, Gonzalo Martin. Entrevista com o arquiteto Horacio Baliero. Buenos Aires, 29 de janeiro de 2003.
-  - GLUSBERG, Jorge. Arquitectos de Buenos Aires. Buenos Aires. Ed. Espacio, 1979.
-  - GUTIÉRREZ, Ramon. La Arquitectura en la Argentina (1965-2000) – Parte 1, 2, 3 e 4. Tiempos de Cambio. De la Esperanza al pragmatismo. Vitruvius, São Paulo. Arquitextos 170.02. ano 14, maio de 2004.
-  - GUTIÉRREZ, Ramón. Arquitectura y urbanismo en Iberoamérica. Ed. Catedra. 1984.
-  - LE CORBUSIER. Por uma arquitetura. São Paulo, Editora Perspectiva, 1977, 2ª ed., p.13.
+  - 'ETCHEGORRY, Gonzalo Martin. Entrevista com o arquiteto Horacio Baliero. Buenos Aires, 29 de janeiro de 2003.'
+  - 'GLUSBERG, Jorge. Arquitectos de Buenos Aires. Buenos Aires. Ed. Espacio, 1979.'
+  - 'GUTIÉRREZ, Ramon. La Arquitectura en la Argentina (1965-2000) – Parte 1, 2, 3 e 4. Tiempos de Cambio. De la Esperanza al pragmatismo. Vitruvius, São Paulo. Arquitextos 170.02. ano 14, maio de 2004.'
+  - 'GUTIÉRREZ, Ramón. Arquitectura y urbanismo en Iberoamérica. Ed. Catedra. 1984.'
+  - 'LE CORBUSIER. Por uma arquitetura. São Paulo, Editora Perspectiva, 1977, 2ª ed., p.13.'
   - 'LIERNUR, Jorge Francisco; PSCHEPIURCA, Pablo. La Red Austral – Obras y proyectos de Le Corbusier y sus discípulos en la Argentina (1924-1965). Buenos Aires: Universidad Nacional de Quilmes, 2008.'
-  - LIERNUR, JORGE FRANCISCO. Arquitectura en la Argentina del Siglo XX. La construcción de la Modernidad. Buenos Aires, Fondo Nacional De Las Artes, 2001.
+  - 'LIERNUR, JORGE FRANCISCO. Arquitectura en la Argentina del Siglo XX. La construcción de la Modernidad. Buenos Aires, Fondo Nacional De Las Artes, 2001.'
   - 'MARQUES, Sérgio Moacir. Fayet. Araújo, Moojen: Arquitetura Moderna Brasileira no Sul – 1950/1970. Porto Alegre: PROPAR-UFRGS, 2012. (Tese de Doutorado)'
   - 'MONTANER, Berto González. Bustillo y Baliero: entre la vida y el monumento. Clarín. 30 de abril de'
   - '2015. Disponível em: http://arq.clarin.com/arquitectura/Ciudad_de_Buenos_Aires-Alejandro_Bustilllo'
-  - RIVAS, Manuel Alejandro. Contribución de Ernesto Katzenstein a la arquitectura moderna 1954-1966.
-  - ZEIN, Ruth Verde. A arquitetura da escola brutalista paulistana 1953-1973. Tese de Doutorado, Porto Alegre, PROPAR-UFGRS, 2005.
-  seminario: sdsul06
-  titulo: Horacio Baliero e a construção da paisagem
-  subtitulo: o caso do Cemitério Parque de Mar del Plata
-  secao: Artigos Completos
-  paginas: 196-212
-  autores:
-  - givenname: Diego Fonseca Brasil
-    familyname: Vianna
-    email: diego.fonseca@estacio.br
+  - 'RIVAS, Manuel Alejandro. Contribución de Ernesto Katzenstein a la arquitectura moderna 1954-1966.'
+  - 'ZEIN, Ruth Verde. A arquitetura da escola brutalista paulistana 1953-1973. Tese de Doutorado, Porto Alegre, PROPAR-UFGRS, 2005.'
+  locale: 'pt-BR'
+  file: 'sdsul06-013.pdf'
+  pages_count: 17
+  pages: '196-212'
+
+- id: 'sdsul06-014'
+  title: O hospital lagoa
+  subtitle: conciliando preservação patrimonial e atualização funcional no caso hospitalar
+  authors:
+  - givenname: Gustavo Fluckseder
+    familyname: Cemin
+    email: 'gustavo.cemin@gmail.com'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-014
-  locale: pt-BR
-  arquivo_pdf: sdsul06-014.pdf
-  pages_count: 12
-  resumo: O atual Hospital Federal da Lagoa foi inicialmente um hospital geral privado, tendo seu padrão modificado ao longo das seis décadas de atividade, o que contribuiu para acentuar as contínuas adequações funcionais que o programa requer. Neste âmbito, o fato relevante foi a construção do anexo de gabarito baixo à direita do ingresso, no final dos anos setenta, dedicado ao atendimento ambulatorial. Impossibilitado de assumir o projeto, Niemeyer demonstrou contrariedade ao indicar um profissional que não foi contratado. A intervenção não chegou a prejudicar a percepção da obra, mas constitui outro aspecto que agrega substância à análise. Concluído em 1958, foi comprado pelo IAPB em 1962, passando a seguir para rede pública federal; o atendimento atual é restrito ao SUS, voltado a cirurgias de média e alta complexidade. No sentido contrário, existe a necessidade de preservação do bem, o que se restringe a determinados setores e âmbitos, como a configuração espacial, o tratamento de fachadas, os espaços interiores com qualidade arquitetônica reconhecida, especialmente aqueles visitáveis pelo público, e os painéis de Bulcão e jardins de Burle Marx. Este trabalho busca analisar as intervenções realizadas nessa obra emblemática da arquitetura moderna, tentando entender como e foi possivel compatibilizar a preservação patrimonial com a atualização funcional que o programa hospitalar requer.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O atual Hospital Federal da Lagoa foi inicialmente um hospital geral privado, tendo seu padrão modificado ao longo das seis décadas de atividade, o que contribuiu para acentuar as contínuas adequações funcionais que o programa requer. Neste âmbito, o fato relevante foi a construção do anexo de gabarito baixo à direita do ingresso, no final dos anos setenta, dedicado ao atendimento ambulatorial. Impossibilitado de assumir o projeto, Niemeyer demonstrou contrariedade ao indicar um profissional que não foi contratado. A intervenção não chegou a prejudicar a percepção da obra, mas constitui outro aspecto que agrega substância à análise. Concluído em 1958, foi comprado pelo IAPB em 1962, passando a seguir para rede pública federal; o atendimento atual é restrito ao SUS, voltado a cirurgias de média e alta complexidade. No sentido contrário, existe a necessidade de preservação do bem, o que se restringe a determinados setores e âmbitos, como a configuração espacial, o tratamento de fachadas, os espaços interiores com qualidade arquitetônica reconhecida, especialmente aqueles visitáveis pelo público, e os painéis de Bulcão e jardins de Burle Marx. Este trabalho busca analisar as intervenções realizadas nessa obra emblemática da arquitetura moderna, tentando entender como e foi possivel compatibilizar a preservação patrimonial com a atualização funcional que o programa hospitalar requer.'
+  keywords:
   - Oscar Niemeyer
   - arquitetura hospitalar
   - patrimônio
   - funionalidade
   - restauro
-  referencias:
+  references:
   - 'AMORA, Ana Albano. O nacional e o moderno: a arquitetura e saúde no Estado Novo nas cidades catarinenses. Tese (Doutorado) – Programa de Pós-Graduação em Planejamento Urbano e Regional. Instituto de Pesquisa e Planejamento Urbano. Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2006.'
   - 'ASTORGA, Jorge. Projeto de Restauração: prática e modernidade. In RIBEIRO, Rosina Trevisan M. e'
   - 'NOBREGA, Claudia C. L. (orgs). Projeto e Patrimônio: Reflexões e Aplicações. Rio de Janeiro, Rio Books, 2016.'
   - 'BLOC, André. Fundation Larragoiti. In: L’Architecture D’Aujourd’hui, Boulogne, n. 42-43, 1952. p. 90-93.'
-  - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Editora Perspectiva, 1981.
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Editora Perspectiva, 1981.'
   - 'COSTEIRA, Elza, SANTOS, Mauro e BURSZTYN, Ivani. Hospital Sul América: a Arquitetura Moderna e o Desenho do Edifício Hospitalar. III Congresso Nacional da ABDEH – Ambientes de Saúde: Diversidades e Desafios. Porto Alegre, 2008. Anais... Porto Alegre, ABDEH, 2008.'
   - 'COSTEIRA, Elza Maria Alves. Reflexões sobre a Edificação Hospitalar: um Olhar sobre a Moderna Arquitetura de Saúde no Brasil. In BITENCOURT, Fabio e COSTEIRA, Elza (org.). Arquitetura e Engenharia Hospitalar: Planejamento, Projetos e Perspectivas. Rio de Janeiro, Rio Books, 2014.'
   - 'DE GRACIA, Francisco de. Construir em lo construído: la arquitectura como modificación. Madrid: Nerea, 2001.'
-  - GONSALES, Célia Helena Castro. Síntese das artes. Sentidos e implicações na obra arquitetônica. Arquitextos, São Paulo, ano 12, n. 144.06, Vitruvius, maio 2012. Disponível em <http:// www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351>. !
+  - 'GONSALES, Célia Helena Castro. Síntese das artes. Sentidos e implicações na obra arquitetônica. Arquitextos, São Paulo, ano 12, n. 144.06, Vitruvius, maio 2012. Disponível em <http:// www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351>. !'
   - 'KUHL, Beatriz Mugayar. Preservação do patrimônio arquitetônico da industrialização. São Paulo: Ateliê Editorial/FAPESP, 2008.'
   - 'NIEMEYER, Oscar. Hospital Sulamérica. In: Revista Módulo, Ano III, n.14, 1959. p.12– 17.'
   - 'PAPADAKI, Stamo. Oscar Niemeyer: works in progress. Nova York, Reinhold, 1956.'
@@ -682,192 +723,201 @@ articles:
   - 'RIBEIRO, Leonídio. Hospital Sulamerica. In: Revista Hospital de Hoje - Instituto de Pesquisas Hospitalares. São Paulo, IPH, vol. 8, 3º trimestre, 1957, p. 191-198.'
   - 'SALVO, Simona; KUHL, Beatriz Mugayar. “A intervenção na arquitetura contemporânea como tema emergente do restauro”. São Paulo: Revista Pós FAUUSP n.23, 2008, p.199-211.'
   - 'SALVO, Simona. “Restauro e ‘restauros’ das obras arquitetônicas do século XX: intervenções em arranha-céus em confronto”. São Paulo: Revista CPC n.4, 2007, p.139-157.'
-  - SOUZA, Luiz de Castro. Evolução histórica do Hospital da Lagoa. Revista do IHGB, Rio de Janeiro, ano 150, n.362, 1989. p. 163-169.
-  seminario: sdsul06
-  titulo: O Hospital Lagoa
-  subtitulo: conciliando preservação patrimonial e atualização funcional no caso hospitalar
-  secao: Artigos Completos
-  paginas: 213-224
-  autores:
-  - givenname: Gustavo Fluckseder
-    familyname: Cemin
-    email: gustavo.cemin@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-015
-  locale: pt-BR
-  arquivo_pdf: sdsul06-015.pdf
-  pages_count: 16
-  resumo: 'O presente trabalho apresenta duas residências projetadas em 1969 por quatro arquitetos da segunda geração de modernos do Rio Grande do Sul: Luis Carlos da Silva Zubaran, José Carlos Pereira da Rosa, David Léo Bondar e Arnaldo Knijnik. A primeira foi projetada para João Cândido Silveira da Rosa por Zubarán e Rosa; a segunda casa foi para o médico Marco Aurélio Rosa, projeto de Bondar e Knijnik.O propósito do trabalho é analisar as intervenções sofridas nas duas casas, de linguagem arquitetônica bem distintas; busca entender como a arquitetura moderna residencial gaúcha foi preservada nesses dois exemplares. Com base nos documentos originais dos projetos e fotos da época, a partir da visitação nas residências e entrevistas com os arquitetos que nelas interviram, pretende-se discorrer sobre as mudanças necessárias com o passar do tempo. A escolha pelas residências deu-se primeiramente pelo ineditismo, pela data e por um interesse pessoal dos autores. O propósito do artigo é difundir esta arquitetura, aproveitando para debater de que forma preservá-la, aqui são apenas dois exemplares, mas cujos projetos de renovação podem servir de exemplo à várias outras obras da arquitetura moderna das décadas de 1960 e 1970.'
-  palavras_chave:
-  - Arquitetura moderna
-  - residências
-  - intervenção
-  - renovação
-  referencias:
-  - 'BARBIERO, João Paulo Silveira. Arquiteto David Léo Bondar: Residências unifamiliares nas décadas de 1960 e 1970. [Dissertação de mestrado – UniRitter/ Mackenzie]. EDELWEISS, Roberta (Orient.); ZEIN, Ruth Verde (Co-orientadora). Porto Alegre, 2019.'
-  - BONDAR, David Léo. Entrevista concedida a João Paulo Silveira Barbiero em junho de 2019.
-  - ROSA, Márcia Ramos. Entrevista concedida a João Paulo Silveira Barbiero em agosto de 2019.
-  - LEON, Herton. Air Mail – Urgente. Diário de Notícias, p. 13, 15 de abril de 1977.
-  - LEON, Herton. Air Mail – Urgente. Diário de Notícias, p. 13, 3 de março de 1977.
-  - NUDES, Lydia. Coisas de cidade grande. Correio do Povo,Porto Alegre, p. 16, 18 de maio de 1977.
-  - MARASCHIN, Marilu. Entrevista concedida a João Paulo Silveira Barbiero em 7 de junho de 2019.
-  - 'SCHLEE, Andrey Rosenthal. 100 imagens da arquitetura pelotense. 2ª edição, Pelotas : Palloti, 2002.'
-  - VINHAS, Inês. Destaques. Jornal do Comércio, Porto Alegre, p. 23, 18 de maio 1977.
-  - VINHAS, Inês. Destaques. Jornal do Comércio, Porto Alegre, p. 34, 6 de maio 1977.
-  - 'ROSA, Renato; PRESSER, Décio. Dicionário de artes plásticas no Rio Grande do Sul. Porto Alegre: UFRGS, 1997. R700.98165 R7887d'
-  - 'ZUBARAN . In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2019. Disponível em: <http://enciclopedia.itaucultural.org.br/pessoa268139/zubaran>. Acesso em: 29 de Set. 2019. Verbete da Enciclopédia. ISBN: 978-85-7979-060-7'
-  seminario: sdsul06
-  titulo: Duas residências unifamiliares gaúchas e as ações sofridas ao longo de 50 anos de existência
-  secao: Artigos Completos
-  paginas: 225-240
-  autores:
+  - 'SOUZA, Luiz de Castro. Evolução histórica do Hospital da Lagoa. Revista do IHGB, Rio de Janeiro, ano 150, n.362, 1989. p. 163-169.'
+  locale: 'pt-BR'
+  file: 'sdsul06-014.pdf'
+  pages_count: 12
+  pages: '213-224'
+
+- id: 'sdsul06-015'
+  title: Duas residências unifamiliares gaúchas e as ações sofridas ao longo de 50 anos de existência
+  authors:
   - givenname: João Paulo Silveira
     familyname: Barbiero
-    email: silveirabarbiero@gmail.com
+    email: 'silveirabarbiero@gmail.com'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
   - givenname: Alexandre Bataioli da
     familyname: Silva
-    email: alexandrebataioli@gmail.com
+    email: 'alexandrebataioli@gmail.com'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-016
-  locale: pt-BR
-  arquivo_pdf: sdsul06-016.pdf
-  pages_count: 14
-  resumo: É indiscutível que, entre todas as obras realizadas por Oscar Niemeyer em Brasília, os palácios da nova capital constituem marcos reconhecidos como patrimônio cultural e arquitetônico do país. O Palácio da Alvorada e os palácios da Praça dos Três Poderes são realizações de primeira ordem, sendo sucesso de público e de crítica, figurando em qualquer lista das principais obras realizadas por Niemeyer. Ao se estabelecer uma relação com a indústria da música, esses palácios estariam no topo da parada de sucessos, sendo os mais tocados e os mais reconhecidos pelo público. Essa consagração é confirmada até mesmo pelo próprio autor, que sempre procurou dar destaque para essas composições do que para outras, consideradas de menor importância. Por outro lado, as obras da Universidade de Brasília, que foram criadas dois anos depois do “lançamento” da nova capital, acabaram entrando para um universo mais underground, raramente citadas nos textos de seu criador, nas suas entrevistas ou palestras. Seriam, dentro da relação do mercado fonográfico, composições “lado B”. Esses edifícios, construídos em concreto pré-moldado e sem a estética palaciana de seus grandes hits em concreto armado, tem uma “pegada” absolutamente distinta, conferida justamente pela utilização industrial dos “instrumentos”, agora mais cadenciados e intencionalmente mais repetitivos, mas em nenhum momento deixar de levar em consideração a harmonia e o ritmo já característicos de seu repertório. Busca-se identificar, a partir de obras menos cultuadas de Brasília, semelhanças e diferenças de um sistema estrutural à brasileira, que privilegia grandes vãos, um menor número de apoios verticais e que tem como alvo uma maior qualidade e versatilidade dos espaços.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O presente trabalho apresenta duas residências projetadas em 1969 por quatro arquitetos da segunda geração de modernos do Rio Grande do Sul: Luis Carlos da Silva Zubaran, José Carlos Pereira da Rosa, David Léo Bondar e Arnaldo Knijnik. A primeira foi projetada para João Cândido Silveira da Rosa por Zubarán e Rosa; a segunda casa foi para o médico Marco Aurélio Rosa, projeto de Bondar e Knijnik.O propósito do trabalho é analisar as intervenções sofridas nas duas casas, de linguagem arquitetônica bem distintas; busca entender como a arquitetura moderna residencial gaúcha foi preservada nesses dois exemplares. Com base nos documentos originais dos projetos e fotos da época, a partir da visitação nas residências e entrevistas com os arquitetos que nelas interviram, pretende-se discorrer sobre as mudanças necessárias com o passar do tempo. A escolha pelas residências deu-se primeiramente pelo ineditismo, pela data e por um interesse pessoal dos autores. O propósito do artigo é difundir esta arquitetura, aproveitando para debater de que forma preservá-la, aqui são apenas dois exemplares, mas cujos projetos de renovação podem servir de exemplo à várias outras obras da arquitetura moderna das décadas de 1960 e 1970.'
+  keywords:
+  - Arquitetura moderna
+  - residências
+  - intervenção
+  - renovação
+  references:
+  - 'BARBIERO, João Paulo Silveira. Arquiteto David Léo Bondar: Residências unifamiliares nas décadas de 1960 e 1970. [Dissertação de mestrado – UniRitter/ Mackenzie]. EDELWEISS, Roberta (Orient.); ZEIN, Ruth Verde (Co-orientadora). Porto Alegre, 2019.'
+  - 'BONDAR, David Léo. Entrevista concedida a João Paulo Silveira Barbiero em junho de 2019.'
+  - 'ROSA, Márcia Ramos. Entrevista concedida a João Paulo Silveira Barbiero em agosto de 2019.'
+  - 'LEON, Herton. Air Mail – Urgente. Diário de Notícias, p. 13, 15 de abril de 1977.'
+  - 'LEON, Herton. Air Mail – Urgente. Diário de Notícias, p. 13, 3 de março de 1977.'
+  - 'NUDES, Lydia. Coisas de cidade grande. Correio do Povo,Porto Alegre, p. 16, 18 de maio de 1977.'
+  - 'MARASCHIN, Marilu. Entrevista concedida a João Paulo Silveira Barbiero em 7 de junho de 2019.'
+  - 'SCHLEE, Andrey Rosenthal. 100 imagens da arquitetura pelotense. 2ª edição, Pelotas : Palloti, 2002.'
+  - 'VINHAS, Inês. Destaques. Jornal do Comércio, Porto Alegre, p. 23, 18 de maio 1977.'
+  - 'VINHAS, Inês. Destaques. Jornal do Comércio, Porto Alegre, p. 34, 6 de maio 1977.'
+  - 'ROSA, Renato; PRESSER, Décio. Dicionário de artes plásticas no Rio Grande do Sul. Porto Alegre: UFRGS, 1997. R700.98165 R7887d'
+  - 'ZUBARAN . In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2019. Disponível em: <http://enciclopedia.itaucultural.org.br/pessoa268139/zubaran>. Acesso em: 29 de Set. 2019. Verbete da Enciclopédia. ISBN: 978-85-7979-060-7'
+  locale: 'pt-BR'
+  file: 'sdsul06-015.pdf'
+  pages_count: 16
+  pages: '225-240'
+
+- id: 'sdsul06-016'
+  title: 'A pré-moldagem brasileira e o lado b das obras de Oscar Niemeyer em Brasília'
+  authors:
+  - givenname: Juliano Caldas de
+    familyname: Vasconcellos
+    email: 'vasconcellos@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-4281-8199'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Artigos Completos
+  abstract: 'É indiscutível que, entre todas as obras realizadas por Oscar Niemeyer em Brasília, os palácios da nova capital constituem marcos reconhecidos como patrimônio cultural e arquitetônico do país. O Palácio da Alvorada e os palácios da Praça dos Três Poderes são realizações de primeira ordem, sendo sucesso de público e de crítica, figurando em qualquer lista das principais obras realizadas por Niemeyer. Ao se estabelecer uma relação com a indústria da música, esses palácios estariam no topo da parada de sucessos, sendo os mais tocados e os mais reconhecidos pelo público. Essa consagração é confirmada até mesmo pelo próprio autor, que sempre procurou dar destaque para essas composições do que para outras, consideradas de menor importância. Por outro lado, as obras da Universidade de Brasília, que foram criadas dois anos depois do “lançamento” da nova capital, acabaram entrando para um universo mais underground, raramente citadas nos textos de seu criador, nas suas entrevistas ou palestras. Seriam, dentro da relação do mercado fonográfico, composições “lado B”. Esses edifícios, construídos em concreto pré-moldado e sem a estética palaciana de seus grandes hits em concreto armado, tem uma “pegada” absolutamente distinta, conferida justamente pela utilização industrial dos “instrumentos”, agora mais cadenciados e intencionalmente mais repetitivos, mas em nenhum momento deixar de levar em consideração a harmonia e o ritmo já característicos de seu repertório. Busca-se identificar, a partir de obras menos cultuadas de Brasília, semelhanças e diferenças de um sistema estrutural à brasileira, que privilegia grandes vãos, um menor número de apoios verticais e que tem como alvo uma maior qualidade e versatilidade dos espaços.'
+  keywords:
   - estrutura
   - sistema construtivo
   - concreto
-  - pré-moldado
-  referencias:
+  - 'pré-moldado'
+  references:
   - 'ALBERTO, Klaus Chaves. A pré-fabricação e outros temas projetuais para campi universitários na década de 1960: o caso da UnB. In: Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online) n. 10 (2009) - Artigos e Ensaios.'
   - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2011.'
   - 'BRUNA, Paulo. Arquitetura, Industrialização e Desenvolvimento. 2ed. São Paulo: Perspectiva,'
   - 'CAVALCANTE, Neusa. CEPLAN: 50 anos em 5 tempos. Tese (Doutorado em Arquitetura e Urbanismo) – Programa de Pós-Graduação da Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2015.'
-  - CONTARINI, Bruno. Depoimento oral. Depoimento aos autores em 25 de julho de 2018. Rio de Janeiro, 2018. Não publicado.
+  - 'CONTARINI, Bruno. Depoimento oral. Depoimento aos autores em 25 de julho de 2018. Rio de Janeiro, 2018. Não publicado.'
   - 'EL DEBS, Mounir Khalil. Concreto pré-moldado: fundamentos e aplicações. Oficina de Textos, São Paulo, 2017. 456p.'
   - 'FICHER, Sylvia et MACEDO, Danilo Matoso. Oscar Niemeyer, arquitetura narrada: Módulo 1ª Série 1955-1965. In: BRONSTEIN, L.;OLIVEIRA, B. S. D., et al (Ed.). Leituras em Teoria da Arquitetura. Rio de Janeiro: Rio Book, v.4 : autores, 2014.'
   - 'FONSECA, Régis Pamponet da. A estrutura do Instituto Central de Ciências: aspectos históricos, científicos e tecnológicos de projeto, execução, intervenções e proposta de manutenção. 2007. Universidade de Brasília, [s. l.], 2007.'
   - 'GUIMARAENS, Cêça; TAULOIS, Cláudio; MAGALHÃES, Sérgio Ferraz. Arquitetura Brasileira após Brasília/Depoimentos. Rio de Janeiro: IAB - Instituto dos Arquitetos do Brasil, 1979.'
   - 'KRUSCHEV, Nikita (nov 1955). “Rumos da arquitetura soviética”. In: Fundamentos, ano vii, nº 39. São Paulo: p. 89-94.'
-  - MÓDULO. [Projetos para a Universidade de Brasília]. Rio de Janeiro, n. 32, jul. 1963.
+  - 'MÓDULO. [Projetos para a Universidade de Brasília]. Rio de Janeiro, n. 32, jul. 1963.'
   - 'NIEMEYER, Oscar. As curvas do tempo: memórias. 7 ed. Rio de Janeiro: Revan, 1998. 320p'
   - 'NIEMEYER, Oscar. Conversa de Arquiteto. Rio de Janeiro: Revan e Editora UFRJ, 1993.'
-  - NIEMEYER, Oscar. Depoimento. Módulo, Rio de Janeiro, v. 2, nº. 9, p. 3-6, fev. 1958.
-  - NIEMEYER, Oscar. Instituto Central de Ciências. Revista Módulo, Rio de Janeiro, n.32, p.34-38, jan./mar. 1963.
+  - 'NIEMEYER, Oscar. Depoimento. Módulo, Rio de Janeiro, v. 2, nº. 9, p. 3-6, fev. 1958.'
+  - 'NIEMEYER, Oscar. Instituto Central de Ciências. Revista Módulo, Rio de Janeiro, n.32, p.34-38, jan./mar. 1963.'
   - 'NIEMEYER, Oscar. Problemas da Arquitetura 4: o pré-fabricado e a arquitetura. Módulo, Rio de Janeiro, n. 53, p. 56-9, mar./abr. 1979.'
-  - PESSINA, Luis Henrique Gomes. Aspectos gerais da pré-fabricação. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 1964.
+  - 'PESSINA, Luis Henrique Gomes. Aspectos gerais da pré-fabricação. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 1964.'
   - 'SCHLEE, A. R. Registro Arquitetônico da Universidade de Brasília. Brasília: UnB, 2014. Revista Manchete número 504 de 16 de dezembro de 1961.'
-  seminario: sdsul06
-  titulo: A pré-moldagem brasileira e o lado B das obras de Oscar Niemeyer em Brasília
-  secao: Artigos Completos
-  paginas: 241-254
-  autores:
-  - givenname: Juliano Caldas de
-    familyname: Vasconcellos
-    email: jcvasc@ufrgs.br
+  locale: 'pt-BR'
+  file: 'sdsul06-016.pdf'
+  pages_count: 14
+  pages: '241-254'
+
+- id: 'sdsul06-017'
+  title: Fortuna. O lado b da virtuosa estação de hidroaviões
+  authors:
+  - givenname: Leonora
+    familyname: Romano
+    email: 'arqlolo.romano@gmail.com'
     affiliation: null
+    orcid: '0000-0002-2612-4488'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-017
-  locale: pt-BR
-  arquivo_pdf: sdsul06-017.pdf
-  pages_count: 13
-  resumo: 'Tendo em vista a demanda de prover as principais cidades brasileiras com terminais aeroportuários, à semelhança de Salvador, Porto Alegre e São Paulo, o Departamento de Aeronáutica Civil (1931), órgão administrativo encarregado das normas de aviação comercial vinculado ao Ministério de Aviação e Obras Públicas do Rio de Janeiro, preparou dois editais de concurso, tanto para a Estação de Passageiros do Aeroporto Santos Dumont, que seria a estação terrestre, quanto para a marítima, a Estação de Hidroaviões. Enquanto aeródromos iam sendo construídos, a prioridade era dada aos hidroaviões, em virtude das pistas terrestres existentes à época serem inseguras, curtas e sem pavimentação, utilizadas apenas para pequenas aeronaves. Mas essa prioridade iria mudar rapidamente. O primeiro passo em direção à concretização do serviço aeroportuário foi dado, em 1933, com a aprovação do orçamento, tornando público o anteprojeto preliminar que consistia na escolha do local e previsão de infraestrutura, exigindo a construção de um quebra-mar, e o lançamento de mais de 2,7 milhões de metros cúbicos de areia na área conquistada do mar. Já no emblemático ano de 1936, pelo Decreto Nº 1150, com as obras em andamento, o local chamado de Ponta do Calabouço – área da baía da Guanabara ganha por aterro –, passou a chamarse Santos Dumont, marcando um contexto de desenvolvimento e modernidade republicana que não combinavam com a nomenclatura calabouço, cuja conexão com a passado escravocrata se preferia esquecer. Porém, antes do edital para a construção do aeroporto, foi publicado o edital para o concurso público da Estação de Hidroaviões do Aeroporto Santos-Dumont. Com o apoio do Instituto dos Arquitetos do Brasil (IAB), que elaborou todo o processo, 17 propostas foram analisadas, sendo que uma delas foi escolhida com louvor em razão das premissas: “boa circulação de público e passageiros, serviço bem localizado e um sistema construtivo bem definido”, plenamente em conformidade com o edital. Era fevereiro de 1937, e o primeiro lugar foi dado à Attílio Corrêa Lima e equipe. Por acreditar que o transporte aéreo no Rio de Janeiro seguiria na linha dos hidroaviões, atendendo inclusive ao tráfego aéreo internacional, a obra marítima foi priorizada, sendo concluída em um ano (1938). Isto em comparação com a estação terrestre que, maior, demorou sete anos para ser finalizada, passando na sequência a operar isoladamente com a extinção precoce dos hidroaviões. Assim, a principal adversidade da Estação de Hidroaviões foi operar durante breves quatro anos, dando lugar à estação de aeroaviões, mas houve outras. A efemeridade da operação na Estação de Hidroaviões relaciona-se com a fortuna albertiana e a reflexão a respeito do ímpetos e desejos que deveriam ser controlados, especialmente tratando-se de obras públicas.'
-  palavras_chave:
+  - givenname: Cláudio Calovi
+    familyname: Pereira
+    email: 'pereira@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-9488-0859'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: 'Tendo em vista a demanda de prover as principais cidades brasileiras com terminais aeroportuários, à semelhança de Salvador, Porto Alegre e São Paulo, o Departamento de Aeronáutica Civil (1931), órgão administrativo encarregado das normas de aviação comercial vinculado ao Ministério de Aviação e Obras Públicas do Rio de Janeiro, preparou dois editais de concurso, tanto para a Estação de Passageiros do Aeroporto Santos Dumont, que seria a estação terrestre, quanto para a marítima, a Estação de Hidroaviões. Enquanto aeródromos iam sendo construídos, a prioridade era dada aos hidroaviões, em virtude das pistas terrestres existentes à época serem inseguras, curtas e sem pavimentação, utilizadas apenas para pequenas aeronaves. Mas essa prioridade iria mudar rapidamente. O primeiro passo em direção à concretização do serviço aeroportuário foi dado, em 1933, com a aprovação do orçamento, tornando público o anteprojeto preliminar que consistia na escolha do local e previsão de infraestrutura, exigindo a construção de um quebra-mar, e o lançamento de mais de 2,7 milhões de metros cúbicos de areia na área conquistada do mar. Já no emblemático ano de 1936, pelo Decreto Nº 1150, com as obras em andamento, o local chamado de Ponta do Calabouço – área da baía da Guanabara ganha por aterro –, passou a chamarse Santos Dumont, marcando um contexto de desenvolvimento e modernidade republicana que não combinavam com a nomenclatura calabouço, cuja conexão com a passado escravocrata se preferia esquecer. Porém, antes do edital para a construção do aeroporto, foi publicado o edital para o concurso público da Estação de Hidroaviões do Aeroporto Santos-Dumont. Com o apoio do Instituto dos Arquitetos do Brasil (IAB), que elaborou todo o processo, 17 propostas foram analisadas, sendo que uma delas foi escolhida com louvor em razão das premissas: “boa circulação de público e passageiros, serviço bem localizado e um sistema construtivo bem definido”, plenamente em conformidade com o edital. Era fevereiro de 1937, e o primeiro lugar foi dado à Attílio Corrêa Lima e equipe. Por acreditar que o transporte aéreo no Rio de Janeiro seguiria na linha dos hidroaviões, atendendo inclusive ao tráfego aéreo internacional, a obra marítima foi priorizada, sendo concluída em um ano (1938). Isto em comparação com a estação terrestre que, maior, demorou sete anos para ser finalizada, passando na sequência a operar isoladamente com a extinção precoce dos hidroaviões. Assim, a principal adversidade da Estação de Hidroaviões foi operar durante breves quatro anos, dando lugar à estação de aeroaviões, mas houve outras. A efemeridade da operação na Estação de Hidroaviões relaciona-se com a fortuna albertiana e a reflexão a respeito do ímpetos e desejos que deveriam ser controlados, especialmente tratando-se de obras públicas.'
+  keywords:
   - Ponta do Calabouço
   - Estação de Hidroaviões
   - Fortuna
-  referencias:
+  references:
   - 'AEROPORTO. Santos Dumont 1936-1996. Rio de Janeiro: Empresa das Artes, 1996.'
   - 'BRUAND, Y. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 2008.'
   - 'COSTA, L. Considerações sôbre a arte contemporânea. Rio de Janeiro: Os cadernos de cultura. Ministério da Educação e Saúde, 1952.'
   - '_____. Registro de uma vivencia. São Paulo: Empresa das Artes, 1995.'
   - 'GOODWIN, P. L. Construção Brasileira: Arquitetura Moderna e Antiga 1652-1942. Nova Iorque: Museu de Arte Moderna, 1943.'
-  - MINISTÉRIO DA EDUCAÇÃO E CULTURA. D.P.H.AN. Seção de História. Processo de Tombamento. Nº 552/ T-56, 1956.
+  - 'MINISTÉRIO DA EDUCAÇÃO E CULTURA. D.P.H.AN. Seção de História. Processo de Tombamento. Nº 552/ T-56, 1956.'
   - 'MINDLIN, E. H. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
   - 'SANTOS, B. M. Estação de Hidroaviões do Aeroporto Santos-Dumont 80 anos. Rio de Janeiro: Instituto Histórico-Cultural da Aeronáutica, 2018.'
   - 'VITRUVIUS P. Tratado De Arquitetura. Tradução, introdução e notas M. Justino Maciel. Lisboa: IST Press, 2009.'
-  seminario: sdsul06
-  titulo: Fortuna. O lado B da virtuosa Estação de Hidroaviões
-  secao: Artigos Completos
-  paginas: 255-267
-  autores:
-  - givenname: Leonora
-    familyname: Romano
-    email: arqlolo.romano@gmail.com
+  locale: 'pt-BR'
+  file: 'sdsul06-017.pdf'
+  pages_count: 13
+  pages: '255-267'
+
+- id: 'sdsul06-018'
+  title: Museu de arte do Rio
+  subtitle: sobre dimensão patrimonial e projeto
+  authors:
+  - givenname: Luís Henrique Haas
+    familyname: Luccas
+    email: 'luccas@exemplo.com'
     affiliation: null
+    orcid: '0000-0002-9860-3509'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Claudio Calovi
-    familyname: Pereira
-    email: claudio.calovi@ufrgs.br
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-018
-  locale: pt-BR
-  arquivo_pdf: sdsul06-018.pdf
-  pages_count: 13
-  resumo: 'O Museu de Arte do Rio, que também abriga a Escola do Olhar, é um projeto de Bernardes+Jacobsen Arquitetura inaugurado em março de 2013. Reutiliza três prédios contíguos situados na Praça Mauá, com funções e configurações contrastes: o edifício eclético denominado Palacete Dom João VI, inaugurado em 1916, antiga Inspetoria de Portos e Canais do Ministério da Marinha; o bloco moderno projetado no final dos anos trinta por Saturnino de Brito para a Polícia Marítima, posteriormente convertido em Hospital da Polícia Civil; e o embarque coberto do Terminal Rodoviário Mariano Procópio, inaugurado em 1950. As construções se inserem em pouco mais de três décadas, podendo ser consideradas coetâneas. Os autores definiram o antigo hospital como Escola do Olhar e edifício eclético como museu pelas afinidades espaciais e funcionais. A partir disso, buscou-se dar unidade ao conjunto heterogêneo reduzindo um pavimento do antigo hospital e unindo os dois edifícios através da grande laje ondulada “flutuante” que identifica a obra; e o funcionamento do complexo foi definido a partir do fluxo, levando os visitantes ao terraço-mirante para o percurso “de cima para baixo”. A reflexão analisa questões específicas da intervenção, com destaque para a relação entre a estratégia de projeto adotada e a avaliação subjetiva dos bens efetuada por eles, que relega a promissora marquise de embarque à condição de cobertura de apoios e serviços. Converge a isto a abordagem segregadora da intervenção, prejudicando a apropriação do local pelos usuários e a correspondente segurança, que eram metas implícitas da revitalização daquela área. De modo genérico, o estudo busca demonstrar a importância da avaliação patrimonial para a intervenção, associando ao valor histórico-artístico os critérios mais recentes de viés identitário, que abrangem outros níveis de historicidade.'
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O Museu de Arte do Rio, que também abriga a Escola do Olhar, é um projeto de Bernardes+Jacobsen Arquitetura inaugurado em março de 2013. Reutiliza três prédios contíguos situados na Praça Mauá, com funções e configurações contrastes: o edifício eclético denominado Palacete Dom João VI, inaugurado em 1916, antiga Inspetoria de Portos e Canais do Ministério da Marinha; o bloco moderno projetado no final dos anos trinta por Saturnino de Brito para a Polícia Marítima, posteriormente convertido em Hospital da Polícia Civil; e o embarque coberto do Terminal Rodoviário Mariano Procópio, inaugurado em 1950. As construções se inserem em pouco mais de três décadas, podendo ser consideradas coetâneas. Os autores definiram o antigo hospital como Escola do Olhar e edifício eclético como museu pelas afinidades espaciais e funcionais. A partir disso, buscou-se dar unidade ao conjunto heterogêneo reduzindo um pavimento do antigo hospital e unindo os dois edifícios através da grande laje ondulada “flutuante” que identifica a obra; e o funcionamento do complexo foi definido a partir do fluxo, levando os visitantes ao terraço-mirante para o percurso “de cima para baixo”. A reflexão analisa questões específicas da intervenção, com destaque para a relação entre a estratégia de projeto adotada e a avaliação subjetiva dos bens efetuada por eles, que relega a promissora marquise de embarque à condição de cobertura de apoios e serviços. Converge a isto a abordagem segregadora da intervenção, prejudicando a apropriação do local pelos usuários e a correspondente segurança, que eram metas implícitas da revitalização daquela área. De modo genérico, o estudo busca demonstrar a importância da avaliação patrimonial para a intervenção, associando ao valor histórico-artístico os critérios mais recentes de viés identitário, que abrangem outros níveis de historicidade.'
+  keywords:
   - Museu de Arte do Rio
   - intervenções em preexistências
   - reciclagem
   - reuso
-  referencias:
+  references:
   - 'BERNARDES, T; JACOBSEN, P; JACOBSEN, B. Museu de Arte do Rio – Memorial do projeto. 2013. Disponível em: <https://jacobsenarquitetura.com/projetos/mar-museu-de-arte- do-rio/>. Acesso em 07/09/2019.'
   - 'BRANDI, C. Teoria da Restauração (Tradução: Beatriz Mugayar Kühl; Apresentação: Giovanni Carbonara). Cotia, SP: Ateliê Editorial, 2004.'
   - 'CUNHA, C. R. Alois Riegl e “O culto moderno dos monumentos”. Revista CPC, São Paulo, n.2, 2006. Disponível em: <http://www.usp.br/cpc/v1/imagem/conteudo_revista_arti_arquivo_ pdf/claudia_reis.pdf>. Acesso em 21/09/2019.'
   - 'GIROTO, I. R. Diálogo entre tempos e espaços: o Museu de Arte do Rio. Rio de Janeiro, PUC-RJ, Revista Prumo, Ano I, n.1, 2018, 16p. Disponível em: <http://cadernos.proarq. fau.ufrj.br/public/ docs/Proarq_21-014.pdf>. Acesso em 07/09/2019.'
   - 'GONSALES, C. H. C. “O excepcional e o exemplar: valor e patrimônio recente”. Cadernos Proarq, Rio de Janeiro, n. 21, 2013. Disponível em: <http://cadernos.proarq.fau.ufrj.br/ public/docs/Proarq_ 21014.pdf>. Acesso em 21/09/2019.'
   - 'GRANDES CONSTRUÇÕES (GC). “Museu de Arte do Rio: como uma onda no mar”. Portal Metálica Construção Civil, Rio de Janeiro, 2013, Seção Obras. Disponível em: <http://www.grandesconstrucoes.com.br/Materias/Exibir/museu-de-arte-do-rio-como-uma-on da-no-mar> Acesso em 16/09/2019.'
-  - KAMITA, J. M. Sobre o MAR. Arquitextos, São Paulo, ano 13, n. 155.00, Vitruvius, maio
+  - 'KAMITA, J. M. Sobre o MAR. Arquitextos, São Paulo, ano 13, n. 155.00, Vitruvius, maio'
   - '2013. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/13.155/4759>. Acesso em 07/09/2019.'
   - 'MACIEL, G. Ressignificação de edificações: o caso do Museu de Arte do Rio – MAR. Porto Alegre, Centro Universitário Ritter dos Reis, XIV SEPesq, 2018. 12p. Disponível em: <https://www.uniritter.edu.br/files/sepesq/arquivos-trabalhos20192/3grazielamacielressignifi cacaodeedificacoes-o-caso-do-museu-de-arte-do-rio-mar.pdf> Acesso em 16/09/2019.'
   - 'PREFEITURA DA CIDADE DO RIO DE JANEIRO (PCRJ). Decreto 19.002, de 5 de outubro de 2000. Disponível em: < http://leismunicipa.is/nuqpj >. Acesso em 16/09/2019.'
   - 'RIEGL, A. O Culto Moderno dos Monumentos – A sua essência e sua origem. São Paulo: Perspectiva, 2014.'
   - 'SILVA, M. R. et al. “Reabilitação predial no contexto das obras do Museu de Arte do Rio (MAR)”. Maputo: 8º Congresso Luso-Moçambicano de Engenharia. INEGI/FEUP, set. 2017. Disponível em: <https://paginas.fe.up.pt/clme/2017/Proceedings/data/papers/6725.pdf>. Acesso em 16/09/2019.'
-  seminario: sdsul06
-  titulo: Museu de Arte do Rio
-  subtitulo: sobre dimensão patrimonial e projeto
-  secao: Artigos Completos
-  paginas: 268-280
-  autores:
-  - givenname: Luís Henrique Haas
-    familyname: Luccas
-    email: luis.luccas@ufrgs.br
+  locale: 'pt-BR'
+  file: 'sdsul06-018.pdf'
+  pages_count: 13
+  pages: '268-280'
+
+- id: 'sdsul06-019'
+  title: Pavilhão aviação S.t.a.r
+  subtitle: uma Estrela pouco conhecida na constelação de obras sobre Le Corbusier
+  authors:
+  - givenname: Mônica Luce
+    familyname: Bohrer
+    email: 'monica@bml8.com.br'
     affiliation: null
+    orcid: '0000-0002-0885-804X'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-019
-  locale: pt-BR
-  arquivo_pdf: sdsul06-019.pdf
-  pages_count: 16
-  resumo: Dentro de um quadro amplo de determinados fundamentos do Movimento Moderno, consubstanciados na rica produção projetual, teórica e artística de Le Corbusier, a realização de projetos para Pavilhões do mestre suíço carrega conteúdos emblemáticos de alguns destes princípios, de sua própria obra e de seu pensamento. Evidencia-se que o arquiteto se utilizava do caráter representativo e da oportunidade proveniente deste tipo de obra para prospecção e divulgação de suas teorias e pensamentos. O projeto para o Pavilhão S.T.A.R. e um dos que reflete este conceito. Durante o período do entre guerras, Le Corbusier estava desenvolvendo estudos sobre a industrialização da construção, para a fabricação de casas para trabalhadores. Entre os anos de 1928 e 1929 o arquiteto desenvolve juntamente com Pierre Jeanneret e Charlotte Perriand o projeto para as Maisons Loucheur, casas econômicas, padronizadas para serem produzidas em série. O desenvolvimento dessa habitação exigiu um estudo minucioso das necessidades dos moradores bem como dos padrões construtivos. Os estudos feitos no atelier da rue de Sèvres quanto ao sistema construtivo partem das experiências já realizadas pela equipe em construções a seco sendo o Pavilhão para as Indústrias Nestlé uma delas. Os arquitetos desenvolvem para a estrutura resistente da Maisons Loucheur um sistema de pilares e vigas metálicos que sustentavam lajes e paredes também prémoldadas, sistema no qual os arquitetos basearam-se para a construção do Pavilhão S.T.A.R., desenvolvido pouco tempo depois do fim deste projeto. Apesar da existência de bibliografia vasta e abundante sobre Le Corbusier e sua obra, esta obra e pouco mencionada. O Pavilhão foi construído em junho de 1930. A investigação sobre este pouquíssimo conhecido projeto de Le Corbusier, parece ser mais um dos buracos negros, que persistem em aparecer, na aparente infinita constelação de estudos sobre o mestre suíço.
-  referencias:
+  section: Artigos Completos
+  abstract: 'Dentro de um quadro amplo de determinados fundamentos do Movimento Moderno, consubstanciados na rica produção projetual, teórica e artística de Le Corbusier, a realização de projetos para Pavilhões do mestre suíço carrega conteúdos emblemáticos de alguns destes princípios, de sua própria obra e de seu pensamento. Evidencia-se que o arquiteto se utilizava do caráter representativo e da oportunidade proveniente deste tipo de obra para prospecção e divulgação de suas teorias e pensamentos. O projeto para o Pavilhão S.T.A.R. e um dos que reflete este conceito. Durante o período do entre guerras, Le Corbusier estava desenvolvendo estudos sobre a industrialização da construção, para a fabricação de casas para trabalhadores. Entre os anos de 1928 e 1929 o arquiteto desenvolve juntamente com Pierre Jeanneret e Charlotte Perriand o projeto para as Maisons Loucheur, casas econômicas, padronizadas para serem produzidas em série. O desenvolvimento dessa habitação exigiu um estudo minucioso das necessidades dos moradores bem como dos padrões construtivos. Os estudos feitos no atelier da rue de Sèvres quanto ao sistema construtivo partem das experiências já realizadas pela equipe em construções a seco sendo o Pavilhão para as Indústrias Nestlé uma delas. Os arquitetos desenvolvem para a estrutura resistente da Maisons Loucheur um sistema de pilares e vigas metálicos que sustentavam lajes e paredes também prémoldadas, sistema no qual os arquitetos basearam-se para a construção do Pavilhão S.T.A.R., desenvolvido pouco tempo depois do fim deste projeto. Apesar da existência de bibliografia vasta e abundante sobre Le Corbusier e sua obra, esta obra e pouco mencionada. O Pavilhão foi construído em junho de 1930. A investigação sobre este pouquíssimo conhecido projeto de Le Corbusier, parece ser mais um dos buracos negros, que persistem em aparecer, na aparente infinita constelação de estudos sobre o mestre suíço.'
+  references:
   - 'BARSAC, Jacques. Charlotte Perriand : L’œuvre complète volume 1 – 1903-1940. Paris: Éditions Norma, 2015.'
   - 'BELENGUER, María Melgarejo. La arquitectura desde el interior, 1925-1937: Lilly Reich y Charlotte Perriand. Barcelona: Fundacion cajá de arquitectos, 2011.'
   - 'BENEVOLO, Leonardo. História da Arquitetura Moderna. Editora: Perspectiva. São Paulo, 2016.'
   - 'BENTON, Tim. Revisiting the Villa La Roche. In: Villa La Rocca. Paris: Fundação Le Corbusier. FLC-'
-  - ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009.
+  - 'ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009.'
   - 'COLQUHOUN, Alan. La arquitectura moderna: una historia desapasionada. Barcelona: Editorial Gustavo Gili, 2005.'
   - 'COLQUHOUN, Alan. Modernidade e Tradição Clássica: ensaios sobre arquitetura 1980-87. São Paulo: Cosac Naify, 2004.'
   - 'COMAS, Carlos Eduardo Dias. A feira mundial de Nova York de 1939: o pavilhão brasileiro. In: Arqtexto n. 16, p. 6-15. Porto Alegre, 2010.'
   - 'CORBUSIER, Le. Almanach d’arqchitecture moderne – Collection de L’Esprit Nouveau. Paris: Les Editions G. Crès et Cie, 1925.'
   - 'CORBUSIER, Le. Le Corbusier: Las dernières Oeuvres. Zurich: Les Éditions D''Architecture, 1969.'
-  - CORBUSIER, Le. Por uma arquitetura. Editora Perspectiva, 1973.
+  - 'CORBUSIER, Le. Por uma arquitetura. Editora Perspectiva, 1973.'
   - 'CORBUSIER, Le. Precisões: sobre um estado presente da arquitetura e do urbanismo. Editora: Cosac & Naify, São Paulo, 2004.'
   - 'CORBUSIER, Le; JEANNERET, Pierre. Le Corbusier et Pierre Jeanneret: Oeuvre Complète 1910-'
   - '1929. Zurich: Les Éditions D''Architecture, 1929.'
@@ -882,81 +932,95 @@ articles:
   - 'NAEGELE, Daniel. Building Books: Le Corbusier’s ‘Word-Image’ Pavilions, an Architecture of Representation. In: Digital Repository. Ames: Iowa State University, 2003.'
   - 'PEIXOTO, Marta Silveira. A sala bem temperada: interior moderno e sensibilidade eclética. Tese de Doutorado em Teoria, História e Crítica. Porto Alegre: PROPAR-UFRGS, 2006.'
   - 'PERRIAND, Charlotte. Une vie de création. Paris: Odile Jacob, 1998.'
-  - PERRIAND, Charlotte. 'Wood or Metal?', TheStudio, vol. 97, 1929.
+  - 'PERRIAND, Charlotte. ''Wood or Metal?'', TheStudio, vol. 97, 1929.'
   - 'PUENTE, Moisés. Pavilhões de exposição – 100 anos. Barcelona: Gustavo Gili, 2000. Revista Die Form. Ano 1928. Revista L’Esprit Nouveua. Volume 1 ao 28.'
-  - 'RÜEGG, Arthur. Furniture and interiors: 1923 – 1925 – 1928. In: Villa La Rocca. Paris: Fundação Le Corbusier. FLC-ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009. UDOVICKI-SELB, Danilo. The elusive faces of modernity: the invention of the 1937 Paris exhIBITion and the Temps Nouveaux Pavilion. Tese de doutourado em filosofia no campo da arquitetura, arte e estudos ambientais. Cambrige: MIT, 1995.'
-  seminario: sdsul06
-  titulo: Pavilhão Aviação S.T.A.R.
-  subtitulo: uma estrela pouco conhecida na constelação de obras sobre Le Corbusier
-  secao: Artigos Completos
-  paginas: 281-296
-  autores:
-  - givenname: Mônica Luce
-    familyname: Bohrer
-    email: monica@bml8.com.br
-    affiliation: null
-    country: BR
-    primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-020
-  locale: pt-BR
-  arquivo_pdf: sdsul06-020.pdf
-  pages_count: 15
-  resumo: 'Nascido em São Paulo em 23 de março de 1932, o arquiteto Gregório Zolko tem uma vasta produção ligada à modernidade paulista. Formado na Universidade de Illinois, nos Estados Unidos da América, sua prática como arquiteto se notabilizou por algumas obras que se tornaram muito conhecidas dentro e fora do Brasil, como o caso da Assembleia Legislativa do Rio Grande do Sul – o Palácio Farroupilha, em Porto Alegre, (1967) ou do Edifício das Emissoras Associadas, em São Paulo (1959). Seu escritório, chamado Constructa Planejamento e Arquitetura Ltda, foi fundado em junto ao seu sócio Wolfgang Schoedon em 1962. Em 65 anos de atividades, Zolko trabalhou com as mais diversas tipologias arquitetônicas: edifícios residenciais e comerciais, projetos de interiores, reformas e projetos de edifícios industriais. Com um total de 147 obras catalogadas, encontra-se no trabalho do arquiteto um expressivo número de edifícios com grande interesse arquitetônico que ainda não estão devidamente estudadas. O objetivo deste artigo é jogar luz sobre esse recorte na obra do arquiteto, focando na análise de cinco casos concretos: a Fábrica Amortex (São Paulo,1972), a Industria Empax (São Paulo,1974), a Industria Tecelagem Santaconstancia (São Paulo, 1974), Fábrica Fundinox (São Paulo, 1974) e a Indústria de Ferramentas Belzer (Guarulhos, 1976). O “Lado B” da obra de Gregório Zolko, especificamente os 44 edifícios industriais desenvolvidos em seu escritório, oferecem uma considerável gama de soluções construtivas, programáticas e bioclimáticas, exemplares tanto para o tipo em questão quanto para arquiteturas com outras naturezas programáticas.'
-  palavras_chave:
-  - arquitetura moderna paulista
-  - arquitetura industrial
-  - Gregório Zolko
-  referencias:
-  - 'CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da Arquitetura Brasileira. São Paulo:'
-  - EDART, 2ª Edição, 2017.
-  - DINIZ, Antonio Ricardo. Roteiro e análise de projetos industriais. Revista Projeto e Construção. São Paulo, n. 29, abr. 1973.
-  - 'FRANÇA, Elizabeth. A origem e a trajetória das Bienais de Arquitetura de São Paulo. Disponível em: < http://www.esquina.net.br/2017/11/04/a-origem-e-a-trajetoria-das-bienais-de- arquitetura-de-sao-paulo/>. Acesso em: 04 out. 2019.'
-  - ZEIN, Ruth Verde; SANTOS, J. L. T. Arquitetura Brasileira Atual. Revista Projeto (Porto Alegre) São Paulo, SP, n.42, p. 142-143, 1982.
-  - PROJETO E CONSTRUÇÃO. “Pré-moldados nas três etapas da fábrica. Revista Projeto e Construção. São Paulo, n. 29, p.26, abr. 1973.
-  seminario: sdsul06
-  titulo: Arquitetura industrial na obra de Gregório Zolko
-  subtitulo: cinco casos de estudo
-  secao: Artigos Completos
-  paginas: 297-311
-  autores:
+  - 'RÜEGG, Arthur. Furniture and interiors: 1923 – 1925 – 1928. In: Villa La Rocca. Paris: Fundação Le Corbusier. FLC-ADAGP – Bernard Artal Graphisme – Imprimerie Peau, 2009. UDOVICKI-SELB, Danilo. The elusive faces of modernity: the invention of the 1937 Paris exhibition and the Temps Nouveaux Pavilion. Tese de doutourado em filosofia no campo da arquitetura, arte e estudos ambientais. Cambrige: MIT, 1995.'
+  locale: 'pt-BR'
+  file: 'sdsul06-019.pdf'
+  pages_count: 16
+  pages: '281-296'
+
+- id: 'sdsul06-020'
+  title: Arquitetura industrial na obra de Gregório Zolko
+  subtitle: cinco casos de estudo
+  authors:
   - givenname: Nicolás Sica
     familyname: Palermo
-    email: nicolas.sica@ufrgs.br
+    email: 'nicolas.sica@ufrgs.br'
     affiliation: null
+    orcid: null
+    bio: null
     country: BR
     primary_contact: true
   - givenname: Ricardo José Rossin de
     familyname: Oliveira
-    email: ricardorossin@gmail.com
+    email: 'ricardorossin@gmail.com'
     affiliation: null
+    orcid: '0009-0007-5815-866X'
+    bio: null
     country: BR
     primary_contact: false
   - givenname: Fernando Guillermo
     familyname: Vázquez Ramos
-    email: prof.vazquez@usjt.br
+    email: 'prof.vazquez@usjt.br'
     affiliation: null
+    orcid: '0000-0003-3472-5598'
+    bio: null
     country: BR
     primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-021
-  locale: pt-BR
-  arquivo_pdf: sdsul06-021.pdf
-  pages_count: 12
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'Nascido em São Paulo em 23 de março de 1932, o arquiteto Gregório Zolko tem uma vasta produção ligada à modernidade paulista. Formado na Universidade de Illinois, nos Estados Unidos da América, sua prática como arquiteto se notabilizou por algumas obras que se tornaram muito conhecidas dentro e fora do Brasil, como o caso da Assembleia Legislativa do Rio Grande do Sul – o Palácio Farroupilha, em Porto Alegre, (1967) ou do Edifício das Emissoras Associadas, em São Paulo (1959). Seu escritório, chamado Constructa Planejamento e Arquitetura Ltda, foi fundado em junto ao seu sócio Wolfgang Schoedon em 1962. Em 65 anos de atividades, Zolko trabalhou com as mais diversas tipologias arquitetônicas: edifícios residenciais e comerciais, projetos de interiores, reformas e projetos de edifícios industriais. Com um total de 147 obras catalogadas, encontra-se no trabalho do arquiteto um expressivo número de edifícios com grande interesse arquitetônico que ainda não estão devidamente estudadas. O objetivo deste artigo é jogar luz sobre esse recorte na obra do arquiteto, focando na análise de cinco casos concretos: a Fábrica Amortex (São Paulo,1972), a Industria Empax (São Paulo,1974), a Industria Tecelagem Santaconstancia (São Paulo, 1974), Fábrica Fundinox (São Paulo, 1974) e a Indústria de Ferramentas Belzer (Guarulhos, 1976). O “Lado B” da obra de Gregório Zolko, especificamente os 44 edifícios industriais desenvolvidos em seu escritório, oferecem uma considerável gama de soluções construtivas, programáticas e bioclimáticas, exemplares tanto para o tipo em questão quanto para arquiteturas com outras naturezas programáticas.'
+  keywords:
+  - arquitetura moderna paulista
+  - arquitetura industrial
+  - Gregório Zolko
+  references:
+  - 'CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da Arquitetura Brasileira. São Paulo:'
+  - 'EDART, 2ª Edição, 2017.'
+  - 'DINIZ, Antonio Ricardo. Roteiro e análise de projetos industriais. Revista Projeto e Construção. São Paulo, n. 29, abr. 1973.'
+  - 'FRANÇA, Elizabeth. A origem e a trajetória das Bienais de Arquitetura de São Paulo. Disponível em: < http://www.esquina.net.br/2017/11/04/a-origem-e-a-trajetoria-das-bienais-de- arquitetura-de-sao-paulo/>. Acesso em: 04 out. 2019.'
+  - 'ZEIN, Ruth Verde; SANTOS, J. L. T. Arquitetura Brasileira Atual. Revista Projeto (Porto Alegre) São Paulo, SP, n.42, p. 142-143, 1982.'
+  - 'PROJETO E CONSTRUÇÃO. “Pré-moldados nas três etapas da fábrica. Revista Projeto e Construção. São Paulo, n. 29, p.26, abr. 1973.'
+  locale: 'pt-BR'
+  file: 'sdsul06-020.pdf'
+  pages_count: 15
+  pages: '297-311'
+
+- id: 'sdsul06-021'
+  title: Niemeyer reconsiderado. O terreno como artefato
+  authors:
+  - givenname: Carlos Eduardo Dias
+    familyname: Comas
+    email: 'ccomas@uol.com.br'
+    affiliation: null
+    orcid: '0000-0002-7368-7603'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Marcos Leite
+    familyname: Almeida
+    email: 'almeida.marcos.arq@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Artigos Completos
+  abstract: null
+  keywords:
   - Topografia
   - Niemeyer
   - Lucio Costa
   - Arquitetura Moderna Brasileira
-  referencias:
+  references:
   - 'ARENDT, Hannah. The Human Condition. Chicago: University of Chicago, 1998.'
   - 'BARKI, Jose. A invenção de Brasília: O risco de Lucio Costa. Risco (São Carlos), v. 2, p. 4-23, 2005. Belo Horizonte (MG). Prefeitura. Arquivo Público da Cidade de Belo Horizonte. A Pampulha no acervo fazendário do arquivo público da cidade de Belo Horizonte: 1936-1947: catálogo de fontes. Belo Horizonte: ACAP-BH / APCBH, 2005.'
   - 'BOERSCHMANN, Ernst. Chinesische architektur - von Ernst Boerschmann. Berlin: E. Wasmuth,'
   - 1925. 2 volumes
   - 'COMAS, Carlos Eduardo Dias. Protótipo e Monumento: um Ministério, o Ministério. Projeto n.102, São Paulo: ago. 1987, pp.136-149.'
-  - COMAS, Carlos Eduardo Dias. Arquitetura moderna estilo Corbu, Pavilhão brasileiro. AU – Arquitetura e Urbanismo, São Paulo, nº 26, 1989.
+  - 'COMAS, Carlos Eduardo Dias. Arquitetura moderna estilo Corbu, Pavilhão brasileiro. AU – Arquitetura e Urbanismo, São Paulo, nº 26, 1989.'
   - 'COMAS, Carlos Eduardo Dias. O Passado Mora ao Lado: O Grande Hotel de Ouro Preto. In: III Seminário Docomomo Brasil, 1999, São Paulo. Anais do III Seminário Docomomo Brasil. São Paulo:'
-  - DOCOMOMO, 1999. v. n/a.
+  - 'DOCOMOMO, 1999. v. n/a.'
   - 'COMAS, Carlos Eduardo Dias. Precisões Brasileiras Sobre um Passado da Arquitetura e Urbanismo Modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & cia., 1936-45. Tese de doutorado. Paris: Université de Paris VIII, 2002.'
   - 'COMAS, Carlos Eduardo Dias; ALMEIDA, Marcos Leite. Brasilia quadragenária: a paixão de uma monumentalidade moderna. In: IX Seminário História da Cidade e do Urbanismo, 2006, São Paulo.'
   - 'IX Seminário História da Cidade e do Urbanismo. São Paulo: USP, 2006.'
@@ -971,37 +1035,33 @@ articles:
   - 'PAPADAKI, Stamo. Oscar Niemeyer: works in progress. New York: Reinhold, 1956'
   - 'PAPADAKI, Stamo. The Work of Oscar Niemeyer. New York: Reinhold, 1950'
   - 'PESSOA, José. Nova metrópole do Brasil: (relatório geral de sua localização). Rio de Janeiro: Imprensa do Exército, 1958. Rio de Janeiro. Prefeitura. Cidade do Rio de Janeiro: extensão, remodelação, embelezamento. Paris, França: Foyer Brésilien, 1930.'
-  - SEMPER, Gottfried. Der vier elemente der baukunst. Dresden, 1851.
+  - 'SEMPER, Gottfried. Der vier elemente der baukunst. Dresden, 1851.'
   - 'SOUZA, Eneida Maria. org. Juscelino Prefeito 1940-1945. Belo Horizonte: Prefeitura Municipal de Belo Horizonte, Museu Histórico Abílio Barreto, 2002.'
   - 'VARGAS, Milton. A ruptura da barragem da Pampulha. São Paulo: IPT, 1955.'
   - 'WESELY, Michael; KIM, Lina. Arquivo Brasília: Lina Kim e Michael Wesely. São Paulo: Cosac Naify, 2010. Arquivo Nacional, Rio de Janeiro. Arquivo Público da Cidade de Belo Horizonte. Arquivo Público Mineiro. Casa de Lucio Costa, Rio de Janeiro. Centro de Memória Institucional do Instituto Superior de Educação do Rio de Janeiro - CEMI-ISERJ Fundação Getúlio Vargas - CPDOC - Centro de Pesquisa e Documentação de História Contemporânea do Brasil, Rio de Janeiro. Museu Dom João VI, Rio de Janeiro. Programa de Estudos e Documentação Educação e Sociedade da Faculdade de Educação da Universidade Federal do Rio de Janeiro. PROEDES-UFRJ'
-  seminario: sdsul06
-  titulo: Niemeyer reconsiderado. O terreno como artefato
-  secao: Artigos Completos
-  paginas: 312-323
-  autores:
-  - givenname: Carlos Eduardo Dias
-    familyname: Comas
-    email: ccomas@uol.com.br
+  locale: 'pt-BR'
+  file: 'sdsul06-021.pdf'
+  pages_count: 12
+  pages: '312-323'
+
+- id: 'sdsul06-022'
+  title: Sede administrativa da SANEPAR
+  subtitle: 'projeto, restauro e retrofit'
+  authors:
+  - givenname: Luís Salvador
+    familyname: Gnoato
+    email: 'gnoato@exemplo.com'
     affiliation: null
+    orcid: '0000-0002-1223-4328'
+    bio: null
     country: BR
     primary_contact: true
-  - givenname: Marcos Leite
-    familyname: Almeida
-    email: almeida.marcos.arq@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: false
-  status: pendente_revisao
-- id: sdsul06-022
-  locale: pt-BR
-  arquivo_pdf: sdsul06-022.pdf
-  pages_count: 12
-  resumo: As empresas estatais constituídas a partir da década de 1950 foram importantes instrumentos de infraestrutura no processo de industrialização do Paraná como forma de superar a dependência econômica centrada na monocultura do café, sujeita a frequentes geadas. Neste contexto destacamse as sedes administrativas da CELEPAR (1964) projetada por Rubens Meister, da TELEPAR (1966) e da COPEL (1970), projetadas por Lubomir Ficinski. A criação do Curso de Arquitetura e Urbanismo na UFPR (1962) impulsionou a realização de significativo acervo de projetos desenvolvidos pelos professores e pelos novos graduados. Esses profissionais, pela participação em concursos nacionais de arquitetura, ficaram conhecidos como “Grupo do Paraná.” O edifício sede da PETROBRAS no Rio de Janeiro (1968), principal estatal brasileira, projetada por Roberto Gandolfi, José Sanchotene e Abrão Assad, exerceu grande influência na concepção de projetos desta geração de arquitetos. A sede da SANEPAR (1982), projetada por Braulio Carollo e Salvador Gnoato, adota princípios “brutalistas” no uso da estrutura em concreto aparente e na distribuição racional das instalações de infraestrutura do edifício. A mesma equipe foi contratada em 2017 para o restauro do concreto aparente e para o Retrofit de suas instalações, com o objetivo de obter o certificado de eficiência energética.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'As empresas estatais constituídas a partir da década de 1950 foram importantes instrumentos de infraestrutura no processo de industrialização do Paraná como forma de superar a dependência econômica centrada na monocultura do café, sujeita a frequentes geadas. Neste contexto destacamse as sedes administrativas da CELEPAR (1964) projetada por Rubens Meister, da TELEPAR (1966) e da COPEL (1970), projetadas por Lubomir Ficinski. A criação do Curso de Arquitetura e Urbanismo na UFPR (1962) impulsionou a realização de significativo acervo de projetos desenvolvidos pelos professores e pelos novos graduados. Esses profissionais, pela participação em concursos nacionais de arquitetura, ficaram conhecidos como “Grupo do Paraná.” O edifício sede da PETROBRAS no Rio de Janeiro (1968), principal estatal brasileira, projetada por Roberto Gandolfi, José Sanchotene e Abrão Assad, exerceu grande influência na concepção de projetos desta geração de arquitetos. A sede da SANEPAR (1982), projetada por Braulio Carollo e Salvador Gnoato, adota princípios “brutalistas” no uso da estrutura em concreto aparente e na distribuição racional das instalações de infraestrutura do edifício. A mesma equipe foi contratada em 2017 para o restauro do concreto aparente e para o Retrofit de suas instalações, com o objetivo de obter o certificado de eficiência energética.'
+  keywords:
   - sedes administrativas das estatais
   - “Grupo do Paraná” e Brutalismo
-  referencias:
+  references:
   - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
   - 'CARVALHO, Deborah Agulham; BATISTA, Fábio Domingos; CHIESA Paulo. Rubens Meister - projeto e obra. Curitiba: Grifo, 2019.'
   - 'CELLIGOI, Gabriel. Caderno de encargos: projeto de restauro e retrofit Sede Administrativa Sanepar. Curitiba: Sobe Arquitetura, 2017.'
@@ -1015,60 +1075,62 @@ articles:
   - 'SCHMIDT, Walter W. Telepar, a revolução das telecomunicações no Paraná. Curitiba: Astelpar, 2018.'
   - 'SCHUSTER, Zair Lorival Luiz. Sanepar ano 30 – Resgate da Memória do Saneamento Básico do Paraná. Curitiba: Logos Press, 1994.'
   - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: Pini, 1982. www.sobearquitetura.com.br'
-  seminario: sdsul06
-  titulo: Sede Administrativa da Sanepar
-  subtitulo: projeto, restauro e retrofit
-  secao: Artigos Completos
-  paginas: 324-335
-  autores:
-  - givenname: Salvador
-    familyname: Gnoato
-    email: salvadorgnoato@yahoo.com.br
+  locale: 'pt-BR'
+  file: 'sdsul06-022.pdf'
+  pages_count: 12
+  pages: '324-335'
+
+- id: 'sdsul06-023'
+  title: Llao llao
+  subtitle: 'luxuoso, pampeiro, moderno, tudo junto e misturado'
+  authors:
+  - givenname: Marta Silveira
+    familyname: Peixoto
+    email: 'marta@martapeixoto.com.br'
     affiliation: null
+    orcid: '0000-0002-2213-7740'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-023
-  locale: pt-BR
-  arquivo_pdf: sdsul06-023.pdf
-  pages_count: 7
-  resumo: O Hotel Llao Llao (1936-38), projeto de Alejandro Bustillo, foi concebido como uma casa de campo de proporções excepcionais e fazia parte de uma empreitada bem maior, que pretendia transformar Bariloche em uma cidade pitoresca de montanha. Os interiores estiveram a cargo do próprio arquiteto em conjunto com a empresa COMTE, que trouxe a colaboração do decorador francês Jean-Michel Frank. Eles teriam que desenvolver uma linha de móveis rústicos, sólidos e que não fizessem maior conexão com nenhum dos estilos tradicionais estrangeiros de campo ou montanha europeus, nem dos novos estilos semelhantes criados na América do Norte naquela época. Os móveis do Llao Llao deveriam ser originais, com madeiras e couros locais, com desenho de linhas simples e severas e estofamento de couro de animais nativos. A intenção essencial era o uso de materiais locais e desenhos inéditos. Mas, assim como o projeto do edifício, o mobiliário do Llao Llao também atestava seu alinhamento aos tempos modernos além de amparar-se nos modelos tradicionais. Bustillo e Frank compartilhavam o entendimento de que fazer uma obra ao mesmo tempo contemporânea, luxuosa e local não implicava na adoção de um cardápio determinado de formas, mas no uso de soluções autênticas, coerentes e articuladas não apenas com sua utilidade, mas também com os processos e materiais de sua execução. E que da atemporalidade e simplicidade do classicismo deveria ser extraída a base para um estilo que mantivesse valor e resistisse àqueles tempos de mudança para fundar sobre ela uma nova - mas não inventada - arquitetura argentina. A observação atenta do projeto e de seus interiores ampara a comprovação deste argumento.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'O Hotel Llao Llao (1936-38), projeto de Alejandro Bustillo, foi concebido como uma casa de campo de proporções excepcionais e fazia parte de uma empreitada bem maior, que pretendia transformar Bariloche em uma cidade pitoresca de montanha. Os interiores estiveram a cargo do próprio arquiteto em conjunto com a empresa COMTE, que trouxe a colaboração do decorador francês Jean-Michel Frank. Eles teriam que desenvolver uma linha de móveis rústicos, sólidos e que não fizessem maior conexão com nenhum dos estilos tradicionais estrangeiros de campo ou montanha europeus, nem dos novos estilos semelhantes criados na América do Norte naquela época. Os móveis do Llao Llao deveriam ser originais, com madeiras e couros locais, com desenho de linhas simples e severas e estofamento de couro de animais nativos. A intenção essencial era o uso de materiais locais e desenhos inéditos. Mas, assim como o projeto do edifício, o mobiliário do Llao Llao também atestava seu alinhamento aos tempos modernos além de amparar-se nos modelos tradicionais. Bustillo e Frank compartilhavam o entendimento de que fazer uma obra ao mesmo tempo contemporânea, luxuosa e local não implicava na adoção de um cardápio determinado de formas, mas no uso de soluções autênticas, coerentes e articuladas não apenas com sua utilidade, mas também com os processos e materiais de sua execução. E que da atemporalidade e simplicidade do classicismo deveria ser extraída a base para um estilo que mantivesse valor e resistisse àqueles tempos de mudança para fundar sobre ela uma nova - mas não inventada - arquitetura argentina. A observação atenta do projeto e de seus interiores ampara a comprovação deste argumento.'
+  keywords:
   - Llao Llao
   - Alejandro Bustillo
-  - Jean-Michel Frank
-  referencias:
+  - 'Jean-Michel Frank'
+  references:
   - 'LEVISMAN, Martha. Bustillo en Patagonia. Buenos Aires: Martha Levisman Editor, 2010.'
   - 'LIERNUR, Jorge Francisco. Trazas de futuro. Episodios de la cultura arquitectónica de la modernidad en América Latina. Santa Fe: Universidad Nacional del Litoral, 2008.'
   - 'LIERNUR, Jorge Francisco; PSCHEPIURCA, Pablo. La red austral. Obras y proyectos de Le Corbusier y sus discípulos en la Argentina (1924-1965). Bernal: Universidad Nacional de Quilmes; Buenos Aires: Prometeo Libros, 2008. MERWOOD-SALISBURY, Joanna. “On Luxury”. AA files, n.58, 2009 p.20 –'
-  - TEITELBAUM, Mo Amelia. The Stylemakers - Minimalism and Classic Modernism 1915-
+  - 'TEITELBAUM, Mo Amelia. The Stylemakers - Minimalism and Classic Modernism 1915-'
   - '1945. Londres: Philip Wilson Publishers, 2010.'
-  seminario: sdsul06
-  titulo: Llao Llao
-  subtitulo: luxuoso, pampeiro, moderno, tudo junto e misturado
-  secao: Artigos Completos
-  paginas: 336-342
-  autores:
-  - givenname: Marta Silveira
-    familyname: Peixoto
-    email: marta@martapeixoto.com.br
+  locale: 'pt-BR'
+  file: 'sdsul06-023.pdf'
+  pages_count: 7
+  pages: '336-342'
+
+- id: 'sdsul06-024'
+  title: Alejandro Bustillo e Victoria Ocampo
+  subtitle: a casa de Palermo Chico
+  authors:
+  - givenname: Cláudia Piantá Costa
+    familyname: Cabral
+    email: 'cabral@exemplo.com'
     affiliation: null
+    orcid: '0000-0003-0079-1861'
+    bio: null
     country: BR
     primary_contact: true
-  status: pendente_revisao
-- id: sdsul06-024
-  locale: pt-BR
-  arquivo_pdf: sdsul06-024.pdf
-  pages_count: 10
-  resumo: A casa que Alejandro Bustillo (1889-1992) construiu para a escritora Victoria Ocampo (1890-1979) em 1929 é a primeira obra moderna registrada pelo Guía Patrimonio Cultural de Buenos Aires. Contudo, o próprio guia considera a casa como uma modernidade de segunda linha, ou modernidade “lado B”, seguindo a nomenclatura proposta pelo VI Seminário DOCOMOMO Sul. De fato, rondam a história da casa de Palermo Chico tanto a suspeita da obra apócrifa, feita a contragosto por Alejandro Bustillo, um prestigioso arquiteto acadêmico, para uma cliente cuja participação no projeto parece ter extrapolado o rol usualmente consentido, quanto o fantasma ilustre de uma outra casa, encomendada por Ocampo a Le Corbusier e nunca construída. Entretanto, numa visão retrospectiva, não deixa de ser intrigante que essa casa moderna, feita por um arquiteto passadista e por uma leiga, não pareça hoje tão deslocada, quando comparada a muitos dos exemplos publicados por Hitchcock e Johnson na famosa exposição The International Style em 1932, num conjunto tantas vezes identificado e descrito como a expressão de uma vanguarda que a América Latina estava distante de poder acompanhar.
-  palavras_chave:
+  section: Artigos Completos
+  abstract: 'A casa que Alejandro Bustillo (1889-1992) construiu para a escritora Victoria Ocampo (1890-1979) em 1929 é a primeira obra moderna registrada pelo Guía Patrimonio Cultural de Buenos Aires. Contudo, o próprio guia considera a casa como uma modernidade de segunda linha, ou modernidade “lado B”, seguindo a nomenclatura proposta pelo VI Seminário DOCOMOMO Sul. De fato, rondam a história da casa de Palermo Chico tanto a suspeita da obra apócrifa, feita a contragosto por Alejandro Bustillo, um prestigioso arquiteto acadêmico, para uma cliente cuja participação no projeto parece ter extrapolado o rol usualmente consentido, quanto o fantasma ilustre de uma outra casa, encomendada por Ocampo a Le Corbusier e nunca construída. Entretanto, numa visão retrospectiva, não deixa de ser intrigante que essa casa moderna, feita por um arquiteto passadista e por uma leiga, não pareça hoje tão deslocada, quando comparada a muitos dos exemplos publicados por Hitchcock e Johnson na famosa exposição The International Style em 1932, num conjunto tantas vezes identificado e descrito como a expressão de uma vanguarda que a América Latina estava distante de poder acompanhar.'
+  keywords:
   - Casa Ocampo
   - Alejandro Bustillo
   - vanguarda
-  referencias:
+  references:
   - 'AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976.'
-  - 'ARIAS INCOLLÁ, Nani. Coord. Guia Patrimonio Cultural de Buenos Aires. 5: Arquitectura Moderna 1930-1960. Buenos Aires: Gobierno de la Ciudad de Buenos Aires, 2006. 21 Sobre a arquitetura na Semana de Arte Moderna de 1922 ver: AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976, pp. 150- 156; FICHER, Sylvia. Antonio Garcia Moya, um arquiteto da Semana de 22. MDC. Revista de Arquitetura e Urbanismo, março de 2012. Disponível em: < http://mdc.arq.br/2012/03/20/antonio-garcia-moya-um-arquiteto-da- semana-de-22> 22 Ver: LIRA, José. Warchavchik. Fraturas da vanguarda. São Paulo: Cosac Naify, 2011, p. 185. 23 Modern Architecture: International ExhIBITion, The Museum of Modern Art, New York, 9 de fevereiro a 23 de março de 1932. 24 BERGDOLL, Barry. Learning from Latin America, in: BERGDOLL, Barrry; COMAS, Carlos Eduardo; LIERNUR, Jorge Francisco; REAL, Patricio del. Latin American in Construction: Architecture 1955-1980. New York: The Museum of Modern Art, 2015, p. 18; HITCHCOCK, Henry-Russell; JOHNSON, Philip. The International Style: Architecture since 1922. New York, London, W.W. Norton & Company, 1932.'
-  - ARQUITECTO ALEJANDRO BUSTILLO – “Casa Particular”, propiedad de la Sra. Victoria Ocampo. Revista de Arquitectura, n. 109, Número Extraordinario dedicado a la Arquitectura Moderna, janeiro de 1930, pp. 70-83.
+  - 'ARIAS INCOLLÁ, Nani. Coord. Guia Patrimonio Cultural de Buenos Aires. 5: Arquitectura Moderna 1930-1960. Buenos Aires: Gobierno de la Ciudad de Buenos Aires, 2006. 21 Sobre a arquitetura na Semana de Arte Moderna de 1922 ver: AMARAL, Aracy. Artes plásticas na semana de 22. Subsídios para uma história da renovação das artes no Brasil. São Paulo: Perspectiva, 1976, pp. 150- 156; FICHER, Sylvia. Antonio Garcia Moya, um arquiteto da Semana de 22. MDC. Revista de Arquitetura e Urbanismo, março de 2012. Disponível em: < http://mdc.arq.br/2012/03/20/antonio-garcia-moya-um-arquiteto-da- semana-de-22> 22 Ver: LIRA, José. Warchavchik. Fraturas da vanguarda. São Paulo: Cosac Naify, 2011, p. 185. 23 Modern Architecture: International Exhibition, The Museum of Modern Art, New York, 9 de fevereiro a 23 de março de 1932. 24 BERGDOLL, Barry. Learning from Latin America, in: BERGDOLL, Barrry; COMAS, Carlos Eduardo; LIERNUR, Jorge Francisco; REAL, Patricio del. Latin American in Construction: Architecture 1955-1980. New York: The Museum of Modern Art, 2015, p. 18; HITCHCOCK, Henry-Russell; JOHNSON, Philip. The International Style: Architecture since 1922. New York, London, W.W. Norton & Company, 1932.'
+  - 'ARQUITECTO ALEJANDRO BUSTILLO – “Casa Particular”, propiedad de la Sra. Victoria Ocampo. Revista de Arquitectura, n. 109, Número Extraordinario dedicado a la Arquitectura Moderna, janeiro de 1930, pp. 70-83.'
   - 'BALIERO, Horacio; KATZENSTEIN, Ernesto. Le Corbusier en la ciudad sin esperanza. In:'
   - 'WAISMAN, Marina. Coord., Documentos para una historia de la arquitectura argentina. Buenos Aires: Ediciones Summa, 1984, pp. 183-186.'
   - 'BERGDOLL, Barry. Learning from Latin America, in: BERGDOLL, Barrry; COMAS, Carlos Eduardo;'
@@ -1079,19 +1141,10 @@ articles:
   - 'HITCHCOCK, Henry-Russell; JOHNSON, Philip. The International Style: Architecture since 1922. New York, London, W.W. Norton & Company, 1932.'
   - 'LIERNUR, Jorge Francisco; PSCHEPIURCA, Pablo. La red austral. Obras y proyectos de Le Corbusier y sus discípulos en la Argentina (1924-1965). Bernal: Universidad Nacional de Quilmes; Buenos Aires: Prometeo Libros, 2008.'
   - 'LIRA, José. Warchavchik. Fraturas da vanguarda. São Paulo: Cosac Naify, 2011.'
-  - MANSIÓN PRIVADA – Proyecto del Arq. Alejandro Bustillo. Nuestra Arquitectura, n. 3, outubro de 1929, pp. 92-109.
-  - OTERO, Nestor Julio (ed.). Casas, n. 25, Buenos Aires, março de 1992.
+  - 'MANSIÓN PRIVADA – Proyecto del Arq. Alejandro Bustillo. Nuestra Arquitectura, n. 3, outubro de 1929, pp. 92-109.'
+  - 'OTERO, Nestor Julio (ed.). Casas, n. 25, Buenos Aires, março de 1992.'
   - 'OCAMPO, Victoria. A propósito de la Bauhaus. Outubro de 1970. Reproduzido em: Casas, n. 25, Buenos Aires, março de 1992, pp. 58-59.'
-  seminario: sdsul06
-  titulo: Alejandro Bustillo e Victoria Ocampo
-  subtitulo: a casa de Palermo Chico
-  secao: Artigos Completos
-  paginas: 343-352
-  autores:
-  - givenname: Cláudia Costa
-    familyname: Cabral
-    email: claudiacostacabral@gmail.com
-    affiliation: null
-    country: BR
-    primary_contact: true
-  status: pendente_revisao
+  locale: 'pt-BR'
+  file: 'sdsul06-024.pdf'
+  pages_count: 10
+  pages: '343-352'

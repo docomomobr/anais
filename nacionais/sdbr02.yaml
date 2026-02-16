@@ -1,213 +1,505 @@
-# 2º Seminário Docomomo Brasil — sdbr02
-# Espelho dos metadados publicados no OJS
-# Fonte: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02
 issue:
   slug: sdbr02
-  title: 2º Seminário Docomomo Brasil
-  subtitle: 'Docomomo — Brasil: novas formulações no campo da Arquitetura e Urbanismo'
-  description: '2° Seminário Docomomo Brasil: anais: Novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa. Teresina: EDUFPI, 1997. ISBN: 978-85-509-0555-6.'
+  title: '2º Seminário Docomomo Brasil, Salvador, 1997'
+  subtitle: Novas formulações no campo da Arquitetura e Urbanismo
   year: 1997
   volume: 1
   number: 2
-  date_published: 1997-01-01
-  isbn: 978-85-509-0555-6
+  isbn: '978-85-509-0555-6'
   editors:
   - José Carlos Huapaya Espinoza
   - Rômulo Marques
   - Thiscianne Pessoa
-  source: https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02
+  description: '2° Seminário Docomomo Brasil: anais: Novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa. Teresina: EDUFPI, 1997. ISBN: 978-85-509-0555-6.'
+  source: 'https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr02'
+  date_published: '1997-01-01'
   volume_pdf: sdbr02_anais.pdf
   related_urls:
-  - https://repositorio.ufba.br/handle/ri/31446
+  - 'https://repositorio.ufba.br/handle/ri/31446'
 articles:
-- title: Introdução ao projeto
+
+- id: 'sdbr02-001'
+  title: Introdução ao projeto
   authors:
-  - givenname: José Carlos
-    familyname: Huapaya Espinoza
+  - givenname: José Carlos Huapaya
+    familyname: Espinoza
+    email: 'jhuapayae@gmail.com'
+    affiliation: null
+    orcid: '0000-0001-6776-8821'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Rômulo
     familyname: Marques
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Thiscianne
-    familyname: Pessoa
-  pages: 4-12
-  locale: pt-BR
-- title: O processo de digitalização dos Anais
-  subtitle: método, técnica e dificuldades
+    familyname: Moraes Pessoa
+    email: 'thisciannempessoa@gmail.com'
+    affiliation: null
+    orcid: '0000-0002-1459-2460'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-001.pdf'
+  pages: '4-12'
+
+- id: 'sdbr02-002'
+  title: O processo de digitalização dos Anais
+  subtitle: 'método, técnica e dificuldades'
   authors:
-  - givenname: Caio Anderson
-    familyname: da Silva de Almeida
+  - givenname: Caio Anderson da Silva de
+    familyname: Almeida
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Gabriela Sales
     familyname: Otremba
-  pages: 13-19
-  locale: pt-BR
-- title: Vertentes da Modernidade no Brasil
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-002.pdf'
+  pages: '13-19'
+
+- id: 'sdbr02-003'
+  title: Vertentes da Modernidade no Brasil
   authors:
   - givenname: Hugo
     familyname: Segawa
-  pages: 21-28
-  locale: pt-BR
-- title: Paradoxos entrelaçados
+    email: 'segawa@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-2532-4664'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-003.pdf'
+  pages: '21-28'
+
+- id: 'sdbr02-004'
+  title: Paradoxos entrelaçados
   subtitle: as torres para o futuro e a tradição nacional
   authors:
   - givenname: Cêça
-    familyname: de Guimaraens
-  pages: 29-41
-  locale: pt-BR
-  abstract: A comunicação apresenta a delimitação de um cenário onde se verifica os acontecimentos arquitetônicos que antecederam e decorreram da participação dos arquitetos do Patrimônio na configuração do espaço contemporâneo do Centro do Rio de Janeiro. Retoma-se uma determinada estória na tentativa de alinhar e avaliar atos e fatos que caracterizaram os períodos onde ocorreram as principais formas de verticalização do espaço “histórico” da cidade. A integração entre o Estado e o poder econômico no Brasil estabelece a outra pauta do trabalho. As torres de escritórios são produtos da expansão I concentração financeira; expressão e registro de manifestações culturais essas formas constituem “pistas” para o estudo do desenvolvimento da “indústria da preservação”.
-- title: O Arquivo da City em São Paulo
+    familyname: Guimaraens
+    email: 'guimaraens@exemplo.com'
+    affiliation: null
+    orcid: '0000-0003-1889-7883'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'A comunicação apresenta a delimitação de um cenário onde se verifica os acontecimentos arquitetônicos que antecederam e decorreram da participação dos arquitetos do Patrimônio na configuração do espaço contemporâneo do Centro do Rio de Janeiro. Retoma-se uma determinada estória na tentativa de alinhar e avaliar atos e fatos que caracterizaram os períodos onde ocorreram as principais formas de verticalização do espaço “histórico” da cidade. A integração entre o Estado e o poder econômico no Brasil estabelece a outra pauta do trabalho. As torres de escritórios são produtos da expansão I concentração financeira; expressão e registro de manifestações culturais essas formas constituem “pistas” para o estudo do desenvolvimento da “indústria da preservação”.'
+  locale: 'pt-BR'
+  file: 'sdbr02-004.pdf'
+  pages: '29-41'
+
+- id: 'sdbr02-005'
+  title: O Arquivo da City em São Paulo
   authors:
-  - givenname: Silvia F.
-    familyname: Santos Wolff
-  pages: 42-51
-  locale: pt-BR
-- title: Lina Bo Bardi
+  - givenname: Silvia Ferreira Santos
+    familyname: Wolff
+    email: 'wolff@exemplo.com'
+    affiliation: null
+    orcid: '0000-0001-7538-2750'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-005.pdf'
+  pages: '42-51'
+
+- id: 'sdbr02-006'
+  title: Lina Bo Bardi
   subtitle: a Casa Valéria Cirell e a poética do abrigo
   authors:
   - givenname: Maria de Fátima
     familyname: Campello
-  pages: 52-63
-  locale: pt-BR
+    email: null
+    affiliation: null
+    orcid: '0000-0001-6979-1478'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
   abstract: 'Entre os vários projetos de arquitetura que Lina Bo Bardi realiza entre 1949 e 1958 apenas dois são construídos no período: a Casa de Vidro - residência da Arquiteta - e a Casa Valeria Piacentini Cirell - residência de uma amiga muito próxima de Lina Bo Bardi. Essas duas casas - uma aérea, leve e totalmente transparente e a outra opaca e pesada, atada ao chão - representam duas tendências na obra da Arquiteta. Enquanto uma é a “casa do ar”, a outra é a “casa da terra”. Acreditamos que, essas duas expressões tão contrastantes entre si, estão presentes em todo o desenvolvimento futuro da sua obra.'
-- title: Arquitetura moderna em São José dos Campos
+  locale: 'pt-BR'
+  file: 'sdbr02-006.pdf'
+  pages: '52-63'
+
+- id: 'sdbr02-007'
+  title: Arquitetura Moderna em São José dos Campos
   authors:
   - givenname: Alexandre
     familyname: Penedo
-  pages: 64-74
-  locale: pt-BR
+    email: 'penedo@exemplo.com'
+    affiliation: null
+    orcid: '0000-0003-1708-7475'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
   references:
-  - BONDESAN, Altino - São José em Quatro Tempos. São Paulo, Editora Bentivegna. 1967.
-  - BOTELHO, Manuel H. Campos - A História da Construção Civil em São José dos Campos. São Paulo, Editora Bandeirante. 1989.
-  - BRUAND, Yves - Arquitetura Contemporânea no Brasil. São Paulo, Edi- tora Perspectiva. 1981.
-  - CESAR, Roberto Cerqueira - Depoimento gravado prestado ao autor. São Paulo, 16 de julho de 1996.
-  - CORONA, Eduardo; LEMOS, Carlos Alberto Cerqueira - Dicionário da Arquitetura Brasileira. São Paulo, Artshow Books. 1989.
-- title: Do arquiteto integral à equipe multidisciplinar
+  - 'BONDESAN, Altino - São José em Quatro Tempos. São Paulo, Editora Bentivegna. 1967.'
+  - 'BOTELHO, Manuel H. Campos - A História da Construção Civil em São José dos Campos. São Paulo, Editora Bandeirante. 1989.'
+  - 'BRUAND, Yves - Arquitetura Contemporânea no Brasil. São Paulo, Edi- tora Perspectiva. 1981.'
+  - 'CESAR, Roberto Cerqueira - Depoimento gravado prestado ao autor. São Paulo, 16 de julho de 1996.'
+  - 'CORONA, Eduardo; LEMOS, Carlos Alberto Cerqueira - Dicionário da Arquitetura Brasileira. São Paulo, Artshow Books. 1989.'
+  locale: 'pt-BR'
+  file: 'sdbr02-007.pdf'
+  pages: '64-74'
+
+- id: 'sdbr02-008'
+  title: Do arquiteto integral à equipe multidisciplinar
   authors:
-  - givenname: Renato
+  - givenname: Renato Luiz Sobral
     familyname: Anelli
-  pages: 75-89
-  locale: pt-BR
-- title: Espaço público, habitação social e Arquitetura moderna
+    email: 'anelli@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-2036-5897'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-008.pdf'
+  pages: '75-89'
+
+- id: 'sdbr02-009'
+  title: 'Espaço público, habitação social e Arquitetura Moderna'
   authors:
   - givenname: Nabil
     familyname: Bonduki
-  pages: 90-102
-  locale: pt-BR
-  abstract: Este texto é um dos resultados preliminares da pesquisa “Habitação Econômica e Arquitetura Moderna no Brasil (1930-1964)” que está sendo desenvolvida por um grupo de pesquisadores do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos e da Faculdade de Arquitetura e Urbanismo, ambas da Universidade de São Paulo. Esta pesquisa, que recebe apoio da Fapesp e CNPq, tem por objetivo realizar um levantamento sistemático da produção habitacional realizada entre o início da intervenção estatal na questão, no governo Vargas, e a criação do BNH buscando verificar influência do movimento moderno na produção habitacional no Brasil. urbanismo e paisagem. Sua preservação ou recria-
-- title: A gestão do tempo e a organização da cidade
+    email: null
+    affiliation: null
+    orcid: '0000-0002-1553-3147'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Este texto é um dos resultados preliminares da pesquisa “Habitação Econômica e Arquitetura Moderna no Brasil (1930-1964)” que está sendo desenvolvida por um grupo de pesquisadores do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos e da Faculdade de Arquitetura e Urbanismo, ambas da Universidade de São Paulo. Esta pesquisa, que recebe apoio da Fapesp e CNPq, tem por objetivo realizar um levantamento sistemático da produção habitacional realizada entre o início da intervenção estatal na questão, no governo Vargas, e a criação do BNH buscando verificar influência do movimento moderno na produção habitacional no Brasil. urbanismo e paisagem. Sua preservação ou recria-'
+  locale: 'pt-BR'
+  file: 'sdbr02-009.pdf'
+  pages: '90-102'
+
+- id: 'sdbr02-010'
+  title: A gestão do tempo e a organização da cidade
   authors:
-  - givenname: Telma
-    familyname: de Barros Correia
-  pages: 103-113
-  locale: pt-BR
-  abstract: O estreito vínculo entre a percepção e a gestão do tempo e a organização da cidade moderna é o tema deste trabalho. Entendendo a cidade como uma organização espacial e temporal, investiga como o urbanismo e a arquitetura dos séculos XIX e XX empenharam-se num descongestionamento e funcionalização da cidade e da moradia, que envolveu uma reordenação do espaço e do tempo, solidária com à produção crescente de velocidade correlata à Revolução industrial e à difusão de uma concepção linear e abstrata do tempo. Procura mostrar o impacto dessa aceleração sobre a forma e o ambiente urbano, através da reforma do habitat e da ênfase à circulação no desenho urbano. produção industrial – tornou-se um elemento impor-
-- title: Inventário de Arquitetura moderna no Vale do Paraíba
+  - givenname: Telma de Barros
+    familyname: Correia
+    email: null
+    affiliation: null
+    orcid: '0000-0001-8002-8748'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'O estreito vínculo entre a percepção e a gestão do tempo e a organização da cidade moderna é o tema deste trabalho. Entendendo a cidade como uma organização espacial e temporal, investiga como o urbanismo e a arquitetura dos séculos XIX e XX empenharam-se num descongestionamento e funcionalização da cidade e da moradia, que envolveu uma reordenação do espaço e do tempo, solidária com à produção crescente de velocidade correlata à Revolução industrial e à difusão de uma concepção linear e abstrata do tempo. Procura mostrar o impacto dessa aceleração sobre a forma e o ambiente urbano, através da reforma do habitat e da ênfase à circulação no desenho urbano. produção industrial – tornou-se um elemento impor-'
+  locale: 'pt-BR'
+  file: 'sdbr02-010.pdf'
+  pages: '103-113'
+
+- id: 'sdbr02-011'
+  title: Inventário de Arquitetura Moderna no Vale do Paraíba
   authors:
   - givenname: Alberto
     familyname: Xavier
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Hugo
     familyname: Segawa
-  pages: 114-117
-  locale: pt-BR
-- title: Arquitetura e metrópole
+    email: 'segawa@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-2532-4664'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-011.pdf'
+  pages: '114-117'
+
+- id: 'sdbr02-012'
+  title: Arquitetura e metrópole
   authors:
-  - givenname: Carlos Alberto
-    familyname: Ferreira Martins
-  pages: 118-124
-  locale: pt-BR
-  abstract: Este texto não pretende comunicar resul- tados de um trabalho concluído mas antes relatar alguns aspectos do estágio atual da pesquisa sobre “A constituição da Arquitetura Moderna em São Paulo 1930-70”, em desenvolvimento pelo Grupo de Pesquisa em Arquitetura e Urbanismo da USP de São Carlos. Na fase atual da pesquisa o trabalho está concentrado na tentativa de caracterização do ambiente arquitetônico paulista durante os anos 40 e 50. Mais especificamente trata-se de identificar as condições econômicas e sociais, o ambiente cultural e os agentes arquitetônicos que contribuíram para a configuração de um contexto arquitetônico específico a partir do qual poderá ser reavaliada a emergência da chamada “escola paulista”. de intenso processo de internacionalização da infor-
-- title: O fim dos CIAM e a produção arquitetônica como crítica na década de 50
+  - givenname: Carlos Alberto Ferreira
+    familyname: Martins
+    email: 'cmartins@sc.usp.br'
+    affiliation: null
+    orcid: '0000-0003-4321-2057'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Este texto não pretende comunicar resul- tados de um trabalho concluído mas antes relatar alguns aspectos do estágio atual da pesquisa sobre “A constituição da Arquitetura Moderna em São Paulo 1930-70”, em desenvolvimento pelo Grupo de Pesquisa em Arquitetura e Urbanismo da USP de São Carlos. Na fase atual da pesquisa o trabalho está concentrado na tentativa de caracterização do ambiente arquitetônico paulista durante os anos 40 e 50. Mais especificamente trata-se de identificar as condições econômicas e sociais, o ambiente cultural e os agentes arquitetônicos que contribuíram para a configuração de um contexto arquitetônico específico a partir do qual poderá ser reavaliada a emergência da chamada “escola paulista”. de intenso processo de internacionalização da infor-'
+  locale: 'pt-BR'
+  file: 'sdbr02-012.pdf'
+  pages: '118-124'
+
+- id: 'sdbr02-013'
+  title: O fim dos CIAM e a produção arquitetônica como crítica na década de 50
   authors:
   - givenname: Ana Claudia
     familyname: Castilho Barone
+    email: null
+    affiliation: null
+    orcid: '0000-0001-6395-7668'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Ana Lúcia
     familyname: Duarte Lanna
-  pages: 125-129
-  locale: pt-BR
-  abstract: Este trabalho é um projeto de pesquisa que terá como objeto a crítica ao movimento moderno em arquitetura tal como foi formulada na década de 50, pelos arquitetos do Team X, que se motivaram a fazer, partir de sua própria produção, uma revisão dos postulados funcionalistas propostos pelos CIAM desde 1928. Pretenderemos entender qual foi a repercussão da dissolução dos CIAM para a arquitetura e para o urbanismo naquele momento e quais foram as novas possibilidades abertas à prática do projeto no encaminhamento do trabalho dos arquitetos do Team X. O objetivo do trabalho não será dar fundamento ou apoio às críticas formuladas naquele momento, mas revelar a condição histórica do aparecimento de discursos e projetos arquitetônicos que se propunham a estabelecer critérios de abordagem dos problemas da cidade depois da II Guerra Mundial de modo diferente da abordagem universal do funcionalismo do período entre-guerras. Com este trabalho pretendemos estimular a discussão da arquitetura como campo privilegiado para o estudo das práticas de intervenção nas cidades. postulação dos princípios que passariam a reger o
-- title: A estância moderna internacional
+    email: null
+    affiliation: null
+    orcid: '0000-0002-7868-5711'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Este trabalho é um projeto de pesquisa que terá como objeto a crítica ao movimento moderno em arquitetura tal como foi formulada na década de 50, pelos arquitetos do Team X, que se motivaram a fazer, partir de sua própria produção, uma revisão dos postulados funcionalistas propostos pelos CIAM desde 1928. Pretenderemos entender qual foi a repercussão da dissolução dos CIAM para a arquitetura e para o urbanismo naquele momento e quais foram as novas possibilidades abertas à prática do projeto no encaminhamento do trabalho dos arquitetos do Team X. O objetivo do trabalho não será dar fundamento ou apoio às críticas formuladas naquele momento, mas revelar a condição histórica do aparecimento de discursos e projetos arquitetônicos que se propunham a estabelecer critérios de abordagem dos problemas da cidade depois da II Guerra Mundial de modo diferente da abordagem universal do funcionalismo do período entre-guerras. Com este trabalho pretendemos estimular a discussão da arquitetura como campo privilegiado para o estudo das práticas de intervenção nas cidades. postulação dos princípios que passariam a reger o'
+  locale: 'pt-BR'
+  file: 'sdbr02-013.pdf'
+  pages: '125-129'
+
+- id: 'sdbr02-014'
+  title: A estância moderna internacional
   authors:
-  - givenname: José Oswaldo
-    familyname: Soares de Oliveira
-  pages: 130-142
-  locale: pt-BR
+  - givenname: José Oswaldo Soares de
+    familyname: Oliveira
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
   abstract: 'Esse texto apresenta o trabalho do CPEU - FAUUSP, Centro de Pesquisas e Estudos Urbanísticos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, realizado nos idos de 1958 à 1963 em Campos do Jordão, Sp. Aponta-se os antagonismos existentes entre as idéias do CPEU (tributárias do CIAM e do democracia cristã do Padre Lebret) e as propostas para transformar essa estância em centro turístico internacional. Destaca-se as contradições entre a previsão de expansão urbana ante ao ambiente dessa região da Mantiqueira, impróprio a concentração urbana. E, revela-se a dicotomia entre os diagnósticos e a fragilidade das intenções sociais diante da realidade de miséria social no município. 1 Pesquisa apresentada pelo autor à disciplina Os Processos de Planejamento e do Projeto Urbano: Philip Gunn, FAUUSP, curso de doutorado, 1992. iniciativas para transformar as fazendas de Campos'
   references:
   - '1 vide, OLIVEIRA, José Oswaldo Soares de. A Quem Interessa a Ur- banização Clandestina ? São Carlos. EESC-USP. 1991 - Dissertação de mestrado - esp.: 1a parte; O Planejamento das Cidades Modelos: Sanitária e Turística; Considerações Analíticas; e, Conclusões.'
   - 2 Jornal A Cidade de Campos do Jordão. 11.3.1951
-- title: Arquitetura em São Paulo nos anos 50
+  locale: 'pt-BR'
+  file: 'sdbr02-014.pdf'
+  pages: '130-142'
+
+- id: 'sdbr02-015'
+  title: Arquitetura em São Paulo nos anos 50
   subtitle: a síntese das artes
   authors:
   - givenname: Fernanda
     familyname: Fernandes
-  pages: 143-148
-  locale: pt-BR
-- title: Artigas
+    email: 'feufernandes@terra.com.br'
+    affiliation: null
+    orcid: '0000-0001-5416-5765'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-015.pdf'
+  pages: '143-148'
+
+- id: 'sdbr02-016'
+  title: Artigas
   subtitle: um caminho da Arquitetura brasileira
   authors:
-  - givenname: Miguel
+  - givenname: Miguel Antônio
     familyname: Buzzar
-  pages: 149-159
-  locale: pt-BR
-- title: Tradição e modernidade no desenho da cidade estadonovista brasileira
+    email: 'm.buzzar@sc.usp.br'
+    affiliation: null
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-016.pdf'
+  pages: '149-159'
+
+- id: 'sdbr02-017'
+  title: Tradição e modernidade no desenho da cidade estadonovista brasileira
   authors:
   - givenname: Fernando Diniz
     familyname: Moreira
+    email: 'fmoreira@hotlink.com.br'
+    affiliation: null
+    orcid: '0000-0002-1387-4036'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Guilah
     familyname: Naslavsky
-  pages: 160-184
-  locale: pt-BR
-  abstract: Este trabalho procura analisar a produção de um conjunto urbanístico-arquitetônico moderno durante o Estado Novo, a abertura da Av. 10 de Novembro, atual Guararapes. Esta intervenção, feito de uma ampla discussão sobre o urbanismo moderno no Recife, configurou uma nova imagem de cidade e de estética urbana e foi influenciada pelas idéias de modernização e embelezamento vigentes na época, podendo ser associada ao ideário de Alfred Agache, em seu Plano do Rio de Janeiro e sua ênfase na conformação de conjuntos monumentais nas áreas centrais. Após uma breve apresentação da obra de Agache, procuramos refazer a trajetória de influências e transferências dos ideários urbanísticos, analisando a discussão do urbanismo moderno no Recife dos anos 20, o plano de Nestor de Figueiredo, o processo de abertura da referida Avenida, o regulamento imposto e o conjunto arquitetônico e urbanístico gerado. do plano de Nestor de Figueiredo para Recife. Em
-- title: A posição do Brasil quanto à Arquitetura contemporânea na América Latina
+    email: 'guilahn@uol.com.br'
+    affiliation: null
+    orcid: '0000-0003-3367-9657'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Este trabalho procura analisar a produção de um conjunto urbanístico-arquitetônico moderno durante o Estado Novo, a abertura da Av. 10 de Novembro, atual Guararapes. Esta intervenção, feito de uma ampla discussão sobre o urbanismo moderno no Recife, configurou uma nova imagem de cidade e de estética urbana e foi influenciada pelas idéias de modernização e embelezamento vigentes na época, podendo ser associada ao ideário de Alfred Agache, em seu Plano do Rio de Janeiro e sua ênfase na conformação de conjuntos monumentais nas áreas centrais. Após uma breve apresentação da obra de Agache, procuramos refazer a trajetória de influências e transferências dos ideários urbanísticos, analisando a discussão do urbanismo moderno no Recife dos anos 20, o plano de Nestor de Figueiredo, o processo de abertura da referida Avenida, o regulamento imposto e o conjunto arquitetônico e urbanístico gerado. do plano de Nestor de Figueiredo para Recife. Em'
+  locale: 'pt-BR'
+  file: 'sdbr02-017.pdf'
+  pages: '160-184'
+
+- id: 'sdbr02-018'
+  title: A posição do Brasil quanto à Arquitetura contemporânea na América Latina
   authors:
   - givenname: Ana
     familyname: Lima
-  pages: 185-189
-  locale: pt-BR
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
   references:
   - 'lizado em casas das classes mais abastadas, pro- jetadas em estilo inglês, especialmente em Bogotá, 1 Waisman, Marina opus cit Fernández-Galiano, Luis. “America de Me- nos anos 30. À medida em que o material foi adotado moria: Una Mirada Espanhola”. A&V Monografias de Arquitectura y Vi- vienda, n° 48, 1994. em larga escala também nos projetos modernistas, acabou criando uma forte identidade, sendo tratado 2 Roca, Miguel Angel(Ed). “The Architecture of Latin America”. Aca- de forma bastante detalhada e bem acabada, o que demy editions. Great Britain, 1995. foi possível graças à presença de mão-de-obra es- 3 Fernández-Galiano, Luis. “America de Memoria: Una Mirada Espa- pecializada nas técnicas envolvidas no uso do tijolo. nhola”. A&V Monografias de Arquitectura y Vivienda, n° 48, 1994.'
-  - Bogotá, a capital colombiana, possuiu durante muito
-- title: A Arquitetura moderna na orla santista 1930/1970
+  - 'Bogotá, a capital colombiana, possuiu durante muito'
+  locale: 'pt-BR'
+  file: 'sdbr02-018.pdf'
+  pages: '185-189'
+
+- id: 'sdbr02-019'
+  title: A Arquitetura Moderna na orla santista 1930/1970
   authors:
-  - givenname: Jaqueline
-    familyname: Fernandéz Alves
-  pages: 190-193
-  locale: pt-BR
-- title: Dilemas do centro urbano de Brasília
+  - givenname: Jaqueline Fernández
+    familyname: Alves
+    email: 'j.fernandez.alves@gmail.com'
+    affiliation: null
+    orcid: '0009-0001-4939-0324'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-019.pdf'
+  pages: '190-193'
+
+- id: 'sdbr02-020'
+  title: Dilemas do centro urbano de Brasília
   authors:
   - givenname: Gunter
     familyname: Kohlsdorf
-  pages: 194-206
-  locale: pt-BR
-  abstract: Apresenta-se uma avaliação do centro urbano de Brasília a partir de certas dimensões morfológicas - a funcional, a bioclimática, a topoceptiva, a co-presencial e a expressivo-simbólica - visando oferecer uma moldura conceitual mais transparente e objetiva à discussão sobre esta cidade, especificamente, e sobre o urbanismo modernista, genericamente. Conclui-se especulando sobre possíveis posturas de intervenção, a partir do leque de virtudes e problemas apontados, bem como de suas possíveis implicações.
-- title: As três faces modernistas de Brasília
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Apresenta-se uma avaliação do centro urbano de Brasília a partir de certas dimensões morfológicas - a funcional, a bioclimática, a topoceptiva, a co-presencial e a expressivo-simbólica - visando oferecer uma moldura conceitual mais transparente e objetiva à discussão sobre esta cidade, especificamente, e sobre o urbanismo modernista, genericamente. Conclui-se especulando sobre possíveis posturas de intervenção, a partir do leque de virtudes e problemas apontados, bem como de suas possíveis implicações.'
+  locale: 'pt-BR'
+  file: 'sdbr02-020.pdf'
+  pages: '194-206'
+
+- id: 'sdbr02-021'
+  title: As três faces modernistas de Brasília
   authors:
   - givenname: Maria Elaine
     familyname: Kohlsdorf
-  pages: 207-217
-  locale: pt-BR
-  abstract: Apresentam-se resultados de estudos comparativos de desempenho topoceptivo de três tipos mórficos brasilienses, pertencentes à vertente modernista de organização do espaço. Os tipos acampamento pioneiro, modernista genuíno e modernista periférico possuem, por um lado, capacidades topoceptivas distintas mas sofrem, por outro, processos de mutação de suas características morfológicas que indicam assemelhação entre os mesmos e, conseqüentemente, queda da intensidade de suas respectivas identidades. distâncias. Não obstante, todas estas partes cons-
-- title: A determinação negativa do movimento moderno
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Apresentam-se resultados de estudos comparativos de desempenho topoceptivo de três tipos mórficos brasilienses, pertencentes à vertente modernista de organização do espaço. Os tipos acampamento pioneiro, modernista genuíno e modernista periférico possuem, por um lado, capacidades topoceptivas distintas mas sofrem, por outro, processos de mutação de suas características morfológicas que indicam assemelhação entre os mesmos e, conseqüentemente, queda da intensidade de suas respectivas identidades. distâncias. Não obstante, todas estas partes cons-'
+  locale: 'pt-BR'
+  file: 'sdbr02-021.pdf'
+  pages: '207-217'
+
+- id: 'sdbr02-022'
+  title: A determinação negativa do movimento moderno
   authors:
-  - givenname: Frederico
-    familyname: de Holanda
-  pages: 218-229
-  locale: pt-BR
-- title: Modernidade e tradição
-  subtitle: o projeto da Malagueira em Évora, Portugal
+  - givenname: Frederico Rosa Borges de
+    familyname: Holanda
+    email: null
+    affiliation: null
+    orcid: '0000-0002-3592-2246'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'A questão do chamado “determinismo arquitetônico” tem sido mal colocada pela teoria. Nesta comunicação, sugere-se que a arquitetura tem implicações que são inerentes a certos aspectos de sua configuração, e outras que são convencionais. Frisa-se a importância de compreender as primeiras, pois, afinal, projetamos a forma a ser efetivamente construída, e não as convenções pelas quais ela virá a ser utilizada. Sugere-se que, na natureza contraditória do urbanismo moderno, a configuração das cidades naquilo que diz respeito à sua sintaxe - seu sistema de barreiras e permeabilidades - é sua dimensão mais problemática. “Arquitetura ou revolução. Podemos evitar a revolução.” Le Corbusier1 “Muitas escadas e portas de fundos fazem ladrões e prostitutas” Sir Balthazar Garbier2 (admitindo que exerça algum) na construção da sociedade. Parece que na base destes problemas está a falta de uma conceituação mais precisa da própria arquitetura, de uma maneira geral, e da compreensão de suas implicações quanto aos comportamentos sociais, de maneira mais específica. As teorias arquitetônicas têm pecado por imprecisão em duas direções: A. na descrição do próprio fenô-meno, pela qual se captariam melhor os atributos arquitetônicos que permitiriam, com rigor, estabelecer semelhanças e diferenças entre manifestações e B. no relacionamento entre os atributos do fenômeno, assim rigorosamente captados, e as expectativas sociais, historicamente determinadas, em relação a tal fenômeno. No que se segue, não há uma discussão extensiva sobre o tema. Antes, a atenção se concentra num determinado tipo de implicações, aquelas que estão relacionadas, dito de maneira genérica por enquanto, aos comportamentos sociais. Entretanto, farei inicialmente algumas colocações de natureza mais geral, para contextualizar esta discussão no âmbito'
+  locale: 'pt-BR'
+  file: 'sdbr02-022.pdf'
+  pages: '218-229'
+
+- id: 'sdbr02-023'
+  title: Modernidade e tradição
+  subtitle: 'o projeto da Malagueira em Évora, Portugal'
   authors:
   - givenname: Juan Antonio
     familyname: Zapatel
-  pages: 230-237
-  locale: pt-BR
-  abstract: Este artigo apresenta um estudo do projeto habitacional da Malagueira, do arquiteto Álvaro Siza Viera, para a periferia da cidade de Évora, em Portugal. O projeto e o início da construção datam de 1977. Atualmente, a maior parte das unidades estão concluídas, representando em termos europeos uma das maiores obras recentes no campo da habitação social. Sob uma análise da prática contemporânea do projeto urbano, vinculada tanto a cultura arquitetónica moderna como a local, reconhece-se através deste trabalho, um dos caminhos da arquitetura habitacional para a construção da cidade contemporânea. urbana de Évora, é desapropiada a “Quinta da Mala-
+    email: null
+    affiliation: null
+    orcid: '0000-0002-6784-8415'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: 'Este artigo apresenta um estudo do projeto habitacional da Malagueira, do arquiteto Álvaro Siza Viera, para a periferia da cidade de Évora, em Portugal. O projeto e o início da construção datam de 1977. Atualmente, a maior parte das unidades estão concluídas, representando em termos europeos uma das maiores obras recentes no campo da habitação social. Sob uma análise da prática contemporânea do projeto urbano, vinculada tanto a cultura arquitetónica moderna como a local, reconhece-se através deste trabalho, um dos caminhos da arquitetura habitacional para a construção da cidade contemporânea. urbana de Évora, é desapropiada a “Quinta da Mala-'
   references:
-  - Modernidade e tradição, entendidas sob uma pers- 1 A proposito dos projetos SAAL, vide Costa, 1978. pectiva histórica que informa o futuro; utilizando-se tanto os instrumentos conceituaís e operativos de- 2 As informações transcritas neste item foram obtidas por meio de en- trevista com o Sr. Alfredo Gonçalves, vice-presidente da Cooperativa senvolvidos pela cultura moderna, quanto da ado- Giralda, em entrevista realizada em julho de 1997, em Évora, Portugal. ção de soluções características dos modos de vida, que sedimentadas ao longo do tempo, constituem a 3 O valor percentual é calculado sobre o preço de venda do imóvel e pode incidir uma taxação de 15% na transferência do imóvel, segun- cultura arquitetõnica do lugar. do informações obtidas junto a Cooperativa Giralda.
-  - O conhecimento do universal e do local, e sua incor- 4 A proposito sobre este assunto, vide Rowe, 1993, p. 261. poração ao projeto, através da reinterpretação de so- 5 Esclarecimentos sobre este assunto foram obtidos com o técnico em luções, permite o estabelecendo de vínculos, onde construção Sr, Jose Bandeira, em entrevista realizada em julho de 1997.
+  - 'Modernidade e tradição, entendidas sob uma pers- 1 A proposito dos projetos SAAL, vide Costa, 1978. pectiva histórica que informa o futuro; utilizando-se tanto os instrumentos conceituaís e operativos de- 2 As informações transcritas neste item foram obtidas por meio de en- trevista com o Sr. Alfredo Gonçalves, vice-presidente da Cooperativa senvolvidos pela cultura moderna, quanto da ado- Giralda, em entrevista realizada em julho de 1997, em Évora, Portugal. ção de soluções características dos modos de vida, que sedimentadas ao longo do tempo, constituem a 3 O valor percentual é calculado sobre o preço de venda do imóvel e pode incidir uma taxação de 15% na transferência do imóvel, segun- cultura arquitetõnica do lugar. do informações obtidas junto a Cooperativa Giralda.'
+  - 'O conhecimento do universal e do local, e sua incor- 4 A proposito sobre este assunto, vide Rowe, 1993, p. 261. poração ao projeto, através da reinterpretação de so- 5 Esclarecimentos sobre este assunto foram obtidos com o técnico em luções, permite o estabelecendo de vínculos, onde construção Sr, Jose Bandeira, em entrevista realizada em julho de 1997.'
   - 'figura 07 – Rua da Malagueira. Foto: autor figura 08 – Aqueduto romano em Évora. Foto: autor'
-- title: Intervenções contemporâneas na Arquitetura e no Urbanismo modernos
+  locale: 'pt-BR'
+  file: 'sdbr02-023.pdf'
+  pages: '230-237'
+
+- id: 'sdbr02-024'
+  title: Intervenções contemporâneas na Arquitetura e no Urbanismo modernos
   authors:
-  - givenname: Sonia
+  - givenname: Sônia Maria de Barros
     familyname: Marques
+    email: 'marquessonia@hotmail.com'
+    affiliation: null
+    orcid: '0000-0003-0481-0118'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Kátia
     familyname: Vainsencher
-  pages: 238-243
-  locale: pt-BR
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: null
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdbr02-024.pdf'
+  pages: '238-243'

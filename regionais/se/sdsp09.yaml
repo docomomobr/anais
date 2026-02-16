@@ -1,46 +1,51 @@
 issue:
   slug: sdsp09
-  title: 9º Seminário Docomomo São Paulo, Santos, 2024
+  title: '9º Seminário Docomomo São Paulo, Santos, 2024'
   subtitle: 'Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados'
   year: 2024
   volume: 2
   number: 9
-  isbn: 978-65-01-21986-8
+  isbn: '978-65-01-21986-8'
   publisher: Núcleo Docomomo São Paulo / UNISANTA
   editors:
   - Jaqueline Fernández Alves
   - Cristina Ribas
   - Ivo Renato Giroto
   - Maisa Fonseca de Almeida
-  volume_pdf: sdsp09_anais.pdf
-  description: '9° Seminário Docomomo São Paulo: anais: Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al.. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. Disponível também em: www.nucleodocomomosp.com.br/cópia-9-seminário-sp. ISBN: 978-65-01-21986-8.'
-  source: https://www.nucleodocomomosp.com.br/cópia-9-seminário-sp
+  description: '9° Seminário Docomomo São Paulo: anais: Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al.. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. Disponível também em: www.nucleodocomomosp.com.br/cópia-9-seminário-sp.'
+  source: 'https://www.nucleodocomomosp.com.br/cópia-9-seminário-sp'
   date_published: '2024-09-26'
+  volume_pdf: sdsp09_anais.pdf
+  sections:
+  - title: Artigos Completos
 articles:
-- id: sdsp09-001
+
+- id: 'sdsp09-001'
   title: As decisões de preservação do patrimônio e seus diferentes interessados
   authors:
   - givenname: Adriana Lamoglia
     familyname: Alcântara
+    email: 'vincoloarquitetura@gmail.com'
     affiliation: ''
-    email: vincoloarquitetura@gmail.com
+    orcid: '0000-0002-4590-7509'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Tatiana
     familyname: Fazan
+    email: 'vincoloarquitetura@gmail.com'
     affiliation: ''
-    email: vincoloarquitetura@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-001.pdf
-  pages_count: 11
-  pages: 20-30
-  abstract: O artigo trata sobre como as políticas públicas de preservação e salvaguarda do patrimônio arquitetônico e urbanístico se relacionam com a legislação brasileira. Será falado sobre o papel do poder público, da iniciativa privada e da sociedade nos planos de salvaguarda e como o equilíbrio e harmonização entres esses interesses pode ser conquistado para que a preservação seja bem sucedida. Será trazido para o debate, além da legislação e órgãos de proteção ao patrimônio, as recomendações imprescindíveis das cartas patrimoniais e de autores renomados. As diretrizes iniciais apresentadas devem ser um norte para um estudo amplo e necessário para a elaboração de um plano de salvaguarda exequível e eficaz.
-  abstract_en: The article deals with how public policies for preserving and safeguarding architectural and urban heritage relate to Brazilian legislation. It will talk about the role of public authorities, private initiative and society in safeguarding plans and how balance and harmonization between these interests can be achieved so that preservation is successful. In addition to legislation and heritage protection bodies, essential recommendations from heritage charters and renowned authors will be brought into the debate. The initial guidelines presented should be a guide for a broad and necessary study to develop a feasible and effective safeguard.
+  abstract: 'O artigo trata sobre como as políticas públicas de preservação e salvaguarda do patrimônio arquitetônico e urbanístico se relacionam com a legislação brasileira. Será falado sobre o papel do poder público, da iniciativa privada e da sociedade nos planos de salvaguarda e como o equilíbrio e harmonização entres esses interesses pode ser conquistado para que a preservação seja bem sucedida. Será trazido para o debate, além da legislação e órgãos de proteção ao patrimônio, as recomendações imprescindíveis das cartas patrimoniais e de autores renomados. As diretrizes iniciais apresentadas devem ser um norte para um estudo amplo e necessário para a elaboração de um plano de salvaguarda exequível e eficaz.'
   keywords:
   - patrimônio
   - Salvaguarda
   - diretrizes
+  abstract_en: 'The article deals with how public policies for preserving and safeguarding architectural and urban heritage relate to Brazilian legislation. It will talk about the role of public authorities, private initiative and society in safeguarding plans and how balance and harmonization between these interests can be achieved so that preservation is successful. In addition to legislation and heritage protection bodies, essential recommendations from heritage charters and renowned authors will be brought into the debate. The initial guidelines presented should be a guide for a broad and necessary study to develop a feasible and effective safeguard.'
   keywords_en:
   - heritage
   - Safeguard.guidelines
@@ -56,30 +61,35 @@ articles:
   - 'IPHAN. IPHAN Instituto do Patrimônio Histórico e Artístico Nacional. In: Acervo e Publicações - Cartas Patrimoniais. [S. l.], 2024. Disponível em: http://portal.iphan.gov.br/pagina/detalhes/617. Acesso em: 21 maio 2024'
   - 'IPHAN. Carta de Atenas. Escritório Internacional dos Museus Sociedade das Nações. 1931. Disponível em: http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Atenas%201931.pdf.'
   - 'IPHAN.1º Seminário Brasileiro para Preservação e Revitalização de Centros Históricos. Carta de Petrópolis. Publicado no Caderno de Documentos n.º 3 – "Cartas Patrimoniais"- Ministério da Cultura Instituto do Patrimônio Histórico e Artístico Nacional – Iphan, Brasília, 1987. Disponível em: http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Petropolis%201987.pdf.'
-  - IPHAN. 19a. sessão UNESCO, 1976. Recomendação de Nairóbi. Recomendação relativa à salvaguarda dos conjuntos históricos e sua função na vida contemporânea. Disponível em http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Recomendacao%20de%20Nairobi%201976. pdf
+  - 'IPHAN. 19a. sessão UNESCO, 1976. Recomendação de Nairóbi. Recomendação relativa à salvaguarda dos conjuntos históricos e sua função na vida contemporânea. Disponível em http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Recomendacao%20de%20Nairobi%201976. pdf'
   - 'JESUS, Anderson Bezerra de. As influências das cartas patrimoniais sobre a legislação brasileira de salvaguarda do patrimônio histórico-cultural. Orientador: Prof. Dr. Ricardo de Aguiar Pacheco. 2021. Monografia de Conclusão de Curso (Licenciatura em História) - Universidade Federal Rural de Pernambuco – UFRPE - Departamento de História, [S. l.], 2021. Disponível em: https://repository.ufrpe.br/handle/123456789/4143. Acesso em: 21 maio 2024.'
   - 'MENEGUELLO, Cristina. O Coração da Cidade: observações sobre a preservação dos centros históricos. [S. l.]: IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional, 2005. Disponível em: http://portal.iphan.gov.br/uploads/temp/coracao_da_cidade.pdf.pdf. Acesso em: 21 maio 2024.'
   - 'PAIVA, Marcelo Cardoso de; CAMPOS, Yussef D. S. Consultor Jurídico: Área Constitucional. In: Os Conselhos de Preservação e o Direito à Cidade. [S. l.], 28 fev. 2024. Disponível em: https://www.conjur.com.br/2024-fev-28/os-conselhos-de-preservacao-e-o-direito-a-cidade/. Acesso em: 30 maio 2024.'
   - 'TELLES, Augusto C. da Silva. “Centros históricos: notas sobre a política brasileira de preservação”. Revista do Patrimônio Histórico e Artístico Nacional, n. 19, 1984.'
-- id: sdsp09-002
-  title: 'Um retrospecto da preservação do patrimônio arquitetônico moderno em Curitiba: da documentação pioneira aos inventários digitais (1990- 2020)'
+  locale: 'pt-BR'
+  file: 'sdsp09-001.pdf'
+  pages_count: 11
+  pages: '20-30'
+
+- id: 'sdsp09-002'
+  title: Um retrospecto da preservação do Patrimônio Arquitetônico moderno em Curitiba
+  subtitle: 'da documentação pioneira aos inventários digitais (1990- 2020)'
   authors:
   - givenname: Emanuel Gonçalves
     familyname: Aquino
+    email: 'emanuelaquino@usp.br'
     affiliation: ''
-    email: emanuelaquino@usp.br
+    orcid: '0009-0001-0604-9927'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-002.pdf
-  pages_count: 13
-  pages: 31-43
-  abstract: Este artigo realiza uma retrospectiva da trajetória da preservação da arquitetura moderna em Curitiba-PR. Os esforços pioneiros na década de 1970 catalogaram 330 obras representativas da identidade curitibana, em sua maioria ecléticas e datadas entre os séculos XVIII e XIX. Apenas na década 1990, após uma série de demolições arbitrárias de exemplares modernos, a mobilização da comunidade acadêmica acionou as autoridades sobre a relevância dessa categoria de patrimônio. Estes eventos culminaram na criação de um Grupo de Estudos especializado e, na década de 2000, foram realizados os primeiros levantamentos sistemáticos da arquitetura moderna. As reflexões teórico-metodológicas pautadas pelos pesquisadores consolidaram a diversidade de tipologias e delimitaram a primeira Proposta para a Preservação da Arquitetura Moderna de Curitiba, posteriormente absorvida integralmente pela municipalidade. Mais recentemente, em 2021, a criação do acervo digital Docomomo Paraná emerge como um recurso crucial, permitindo maior acessibilidade e interatividade. Esta plataforma acompanha novas demandas emergenciais, tornando-se um inventário aberto às novas contribuições, especialmente na catalogação de residências modernas em risco devido à crescente especulação imobiliária. O artigo visa sintetizar a interação entre agentes oficiais de tutela e iniciativas comunitárias, demonstrando como ações de grupos sociais influenciam diretamente as políticas públicas de preservação em Curitiba, podendo inspirar contextos semelhantes.
-  abstract_en: This article presents a retrospective of the trajectory of the preservation of modern architecture in Curitiba-PR. Pioneering efforts in the 1970s cataloged 330 works representing Curitiba's identity, most of them eclectic and dating between the 18th and 19th centuries. Only in the 1990s, after a series of arbitrary demolitions of modern examples, did the mobilization of the academic community inform authorities about the relevance of this category of heritage. These events culminated in the creation of a specialized Study Group and, in the 2000s, the first systematic surveys of modern architecture were carried out. The theoretical-methodological reflections guided by the researchers consolidated the diversity of typologies and delimited the first Proposal for the Preservation of Modern Architecture in Curitiba, later fully absorbed by the municipality. More recently, in 2021, the creation of the Docomomo Paraná digital collection emerges as a crucial resource, allowing greater accessibility and interactivity. This platform follows new emergency demands, becoming a truly participatory inventory, especially when cataloging modern homes at risk due to growing real estate speculation. The article aims to synthesize the interaction between official guardianship agents and community initiatives, demonstrating how actions by social groups directly influence public preservation policies in Curitiba, and can inspire similar contexts.
+  abstract: 'Este artigo realiza uma retrospectiva da trajetória da preservação da arquitetura moderna em Curitiba-PR. Os esforços pioneiros na década de 1970 catalogaram 330 obras representativas da identidade curitibana, em sua maioria ecléticas e datadas entre os séculos XVIII e XIX. Apenas na década 1990, após uma série de demolições arbitrárias de exemplares modernos, a mobilização da comunidade acadêmica acionou as autoridades sobre a relevância dessa categoria de patrimônio. Estes eventos culminaram na criação de um Grupo de Estudos especializado e, na década de 2000, foram realizados os primeiros levantamentos sistemáticos da arquitetura moderna. As reflexões teórico-metodológicas pautadas pelos pesquisadores consolidaram a diversidade de tipologias e delimitaram a primeira Proposta para a Preservação da Arquitetura Moderna de Curitiba, posteriormente absorvida integralmente pela municipalidade. Mais recentemente, em 2021, a criação do acervo digital Docomomo Paraná emerge como um recurso crucial, permitindo maior acessibilidade e interatividade. Esta plataforma acompanha novas demandas emergenciais, tornando-se um inventário aberto às novas contribuições, especialmente na catalogação de residências modernas em risco devido à crescente especulação imobiliária. O artigo visa sintetizar a interação entre agentes oficiais de tutela e iniciativas comunitárias, demonstrando como ações de grupos sociais influenciam diretamente as políticas públicas de preservação em Curitiba, podendo inspirar contextos semelhantes.'
   keywords:
   - preservação
   - moderno
   - Curitiba
+  abstract_en: 'This article presents a retrospective of the trajectory of the preservation of modern architecture in Curitiba-PR. Pioneering efforts in the 1970s cataloged 330 works representing Curitiba''s identity, most of them eclectic and dating between the 18th and 19th centuries. Only in the 1990s, after a series of arbitrary demolitions of modern examples, did the mobilization of the academic community inform authorities about the relevance of this category of heritage. These events culminated in the creation of a specialized Study Group and, in the 2000s, the first systematic surveys of modern architecture were carried out. The theoretical-methodological reflections guided by the researchers consolidated the diversity of typologies and delimited the first Proposal for the Preservation of Modern Architecture in Curitiba, later fully absorbed by the municipality. More recently, in 2021, the creation of the Docomomo Paraná digital collection emerges as a crucial resource, allowing greater accessibility and interactivity. This platform follows new emergency demands, becoming a truly participatory inventory, especially when cataloging modern homes at risk due to growing real estate speculation. The article aims to synthesize the interaction between official guardianship agents and community initiatives, demonstrating how actions by social groups directly influence public preservation policies in Curitiba, and can inspire similar contexts.'
   keywords_en:
   - preservation
   - modernism
@@ -87,56 +97,66 @@ articles:
   references:
   - COMEC. Plano de Preservação do Acervo Cultural da Região Metropolitana de Curitiba. 1977.
   - 'DUDEQUE, I. J. T. Nenhum dia sem uma linha: uma história do urbanismo em Curitiba. São Paulo: Studio Nobel, 2010.'
-  - GNOATO, L. S. P. et al. Proposta de Preservação da Arquitetura Moderna em Curitiba. 5º Seminário Docomomo (2003).
+  - 'GNOATO, L. S. P. et al. Proposta de Preservação da Arquitetura Moderna em Curitiba. 5º Seminário Docomomo (2003).'
   - 'KEY, I. J. A arquitetura no Paraná: Uma construção metodológica para a História da Arte. Curitiba: Editora da Universidade Federal do Paraná, 1982.'
   - 'LEITE, J. C. C. UTFPR: Uma história de cem anos. 1. Ed. Curitiba: Editora UTFPR, 2010.'
   - 'NAVOLAR, J. D. Arquitetura resultante da preservação do patrimônio edificado em Curitiba. 1. ed. Curitiba: Travessa dos Editores, 2011.'
-  - OBA, Leonardo T. Marcos Referenciais Urbanos. São Paulo, 1999. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo.
-  - OKSMAN, S. (2018). Contradições na preservação da arquitetura moderna. https://doi.org/10.11606/t.16.2018.tde-01062017-164550.
+  - 'OBA, Leonardo T. Marcos Referenciais Urbanos. São Paulo, 1999. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo.'
+  - 'OKSMAN, S. (2018). Contradições na preservação da arquitetura moderna. https://doi.org/10.11606/t.16.2018.tde-01062017-164550.'
   - 'PADUA, C. D. B. (2015). Arquitetura moderna: um estudo sobre patrimônio e preservação. https://doi.org/10.11606/d.16.2013.tde-04072013-172027.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
   - 'SUTIL, M. S. A modernidade esquecida: O art déco em Curitiba. Revista UFG, 12(8), 2016. Disponível em: . Acesso em 30 mai. 2021.'
-- id: sdsp09-003
-  title: O patrimônio arquitetônico construído pelo Plano de Ação do litoral
+  locale: 'pt-BR'
+  file: 'sdsp09-002.pdf'
+  pages_count: 13
+  pages: '31-43'
+
+- id: 'sdsp09-003'
+  title: O Patrimônio Arquitetônico construído pelo plano de ação do litoral
   authors:
-  - givenname: Miguel
+  - givenname: Miguel Antônio
     familyname: Buzzar
+    email: 'm.buzzar@sc.usp.br'
     affiliation: ''
-    email: mbuzzar@sc.usp.br
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Jasmine Luiza Souza
     familyname: Silva
+    email: 'silva@exemplo.com'
     affiliation: ''
-    email: jasmine_luiza@usp.br
+    orcid: '0000-0001-6156-4086'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Fernanda Millan
     familyname: Fachi
+    email: 'fachi@exemplo.com'
     affiliation: ''
-    email: fernanda.millanfachi@usp.br
+    orcid: '0000-0003-4203-5335'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-003.pdf
-  pages_count: 16
-  pages: 44-59
-  abstract: A implementação do Plano de Ação (PAGE) na gestão do governador Carvalho Pinto no Estado de São Paulo (1959-1963) teve um impacto profundo na difusão e afirmação da arquitetura moderna em todo Estado, incluindo o litoral paulista, com a produção de mais de 1.000 equipamentos públicos. Até o Plano as obras públicas, na sua imensa maioria, eram projetadas pelo Departamento de Obras Públicas com uma arquitetura de extração eclética, neocolonial ou ainda possuíam uma linguagem corrente de difícil definição. As obras do PAGE foram implantadas quando a Arquitetura Moderna já conhecia ampla aceitação e há um ano da inauguração de Brasília, além de alinharem a produção estatal paulista com a produção arquitetônica em geral, não se restringindo a replicar soluções consagradas e existentes. A especulação arquitetônica propiciada e estimulada pelo PAGE deu vazão a um conjunto de concepções que renovavam a proposição da dimensão pública dos equipamentos através de uma pluralidade arquitetônica substantiva. Essa produção colocou em relevo a dimensão social da própria arquitetura moderna, e foi o terreno no qual se constituiu a corrente que veio a ser conhecida como escola paulista, uma das expressões da pluralidade arquitetônica.
-  abstract_en: The implementation of the Action Plan (PAGE) during the administration of Governor Carvalho Pinto in the State of São Paulo (1959-1963) had a profound impact on the dissemination and affirmation of modern architecture throughout the state, including the coast of São Paulo, with the production of more than 1,000 public facilities. Until the Plan, the vast majority of public works were designed by the Department of Public Works with an eclectic or neocolonial architecture or even used a language that was difficult to define. The PAGE projects were implemented when Modern Architecture was already widely accepted and one year after the inauguration of Brasília. In addition to aligning the state production of São Paulo with architectural production in general, they were not restricted to replicating established and existing solutions. The architectural speculation facilitated and stimulated by the PAGE gave rise to a set of concepts that renewed the proposition of the public dimension of facilities through a substantive architectural plurality. This production highlighted the social dimension of modern architecture itself, and was the terrain in which the movement that came to be known as the São Paulo school was established, one of the expressions of the architectural plurality developed.
+  abstract: 'A implementação do Plano de Ação (PAGE) na gestão do governador Carvalho Pinto no Estado de São Paulo (1959-1963) teve um impacto profundo na difusão e afirmação da arquitetura moderna em todo Estado, incluindo o litoral paulista, com a produção de mais de 1.000 equipamentos públicos. Até o Plano as obras públicas, na sua imensa maioria, eram projetadas pelo Departamento de Obras Públicas com uma arquitetura de extração eclética, neocolonial ou ainda possuíam uma linguagem corrente de difícil definição. As obras do PAGE foram implantadas quando a Arquitetura Moderna já conhecia ampla aceitação e há um ano da inauguração de Brasília, além de alinharem a produção estatal paulista com a produção arquitetônica em geral, não se restringindo a replicar soluções consagradas e existentes. A especulação arquitetônica propiciada e estimulada pelo PAGE deu vazão a um conjunto de concepções que renovavam a proposição da dimensão pública dos equipamentos através de uma pluralidade arquitetônica substantiva. Essa produção colocou em relevo a dimensão social da própria arquitetura moderna, e foi o terreno no qual se constituiu a corrente que veio a ser conhecida como escola paulista, uma das expressões da pluralidade arquitetônica.'
   keywords:
   - Arquitetura Moderna
   - Plano de Ação
   - Arquitetura Moderna no litoral paulista
+  abstract_en: 'The implementation of the Action Plan (PAGE) during the administration of Governor Carvalho Pinto in the State of São Paulo (1959-1963) had a profound impact on the dissemination and affirmation of modern architecture throughout the state, including the coast of São Paulo, with the production of more than 1,000 public facilities. Until the Plan, the vast majority of public works were designed by the Department of Public Works with an eclectic or neocolonial architecture or even used a language that was difficult to define. The PAGE projects were implemented when Modern Architecture was already widely accepted and one year after the inauguration of Brasília. In addition to aligning the state production of São Paulo with architectural production in general, they were not restricted to replicating established and existing solutions. The architectural speculation facilitated and stimulated by the PAGE gave rise to a set of concepts that renewed the proposition of the public dimension of facilities through a substantive architectural plurality. This production highlighted the social dimension of modern architecture itself, and was the terrain in which the movement that came to be known as the São Paulo school was established, one of the expressions of the architectural plurality developed.'
   keywords_en:
   - Modern Architecture
   - Action Plan
   - Modern Architecture on the coast of São Paulo
   references:
-  - ACRÓPOLE. Grupo escolar no Guarujá. Acrópole, São Paulo, Ano 27, n. 318, p. 28-30, jun. 1965.
+  - 'ACRÓPOLE. Grupo escolar no Guarujá. Acrópole, São Paulo, Ano 27, n. 318, p. 28-30, jun. 1965.'
   - 'ARTIGAS, Vilanova. In: INSTITUTO Lina Bo Bardi e FUNDAÇÃO Vilanova Artigas. Vilanova Artigas, arquitetos brasileiros. São Paulo: Ed. Governo do Estado, 1997.'
   - 'BARROS, J.R.M. A experiência regional de planejamento. In: MINDLIN, B. (Org.) Planejamento no Brasil. São Paulo: Perspectiva, 1974. p.111-137.'
   - 'BUZZAR, M. A.; CORDIDO, M. T. R. L. B.; CAMARGO, M. J. Relatório Difusão da Arquitetura Moderna no Brasil – O Patrimônio Arquitetônico Criado pelo Plano de Ação do Governo Carvalho Pinto (1959-1963). São Paulo: FAPESP, 2015.'
-  - INSTITUTO DE ARQUITETURA E URBANISMO. ATA da Assembleia do IAB. São Paulo, 8 de out. de 1959.
+  - 'INSTITUTO DE ARQUITETURA E URBANISMO. ATA da Assembleia do IAB. São Paulo, 8 de out. de 1959.'
   - 'KUGELMAS, E. Políticas públicas na administração paulista: 1946/77. Cadernos Fundap, v.5, n.9, p.30-45, 1985.'
-  - NIEMEYER, O. O problema social na arquitetura. Arte em Revista, v. 2, n. 4, p. 53, 1980.
+  - 'NIEMEYER, O. O problema social na arquitetura. Arte em Revista, v. 2, n. 4, p. 53, 1980.'
   - 'PINTO, Carvalho. Plano de Ação do Governo. São Paulo: Imprensa Oficial, 1959.'
   - '______. Mensagem Apresentada pelo Governador Carvalho Pinto à Assembleia Legislativa do Estado de São Paulo. São Paulo: Imprensa Oficial, 1960.'
   - '____. Mensagem Apresentada pelo Governador Carvalho Pinto à Assembleia Legislativa do Estado de São Paulo - 14 de março de 1961, para a Lei nº 6.047, de 27 de janeiro de 1961. São Paulo: Imprensa Oficial, [s.d].'
@@ -146,90 +166,106 @@ articles:
   - 'SAMPAIO, P. A. Plínio de Arruda Sampaio, depoimento [maio 2007]. Entrevistadores:'
   - 'SIMONI, L. N.; CORDIDO, M. T. R. L. B.; BUZZAR, M. A. Entrevista concedida ao Projeto Difusão da Arquitetura Moderna no Brasil: o Patrimônio Arquitetônico Criado pelo Plano de Ação do Governo Carvalho Pinto (1959-1963).'
   - 'SÃO PAULO (Estado). Decreto nº 34.656 de 12 de fevereiro de 1959. Estado de São Paulo, Plano de Ação do Governo 1959-1963: Administração Estadual e Desenvolvimento Econômico e Social. São Paulo: Imprensa Oficial do Estado, 1959a. pp.3 e 7.'
-- id: sdsp09-004
-  title: 'FUMEST (1970-1989): ascensão e queda de um projeto de infraestrutura turística para São Paulo'
+  locale: 'pt-BR'
+  file: 'sdsp09-003.pdf'
+  pages_count: 16
+  pages: '44-59'
+
+- id: 'sdsp09-004'
+  title: 'FUMEST (1970-1989)'
+  subtitle: ascensão e queda de um projeto de infraestrutura turística para São Paulo
   authors:
-  - givenname: Ivo
+  - givenname: Ivo Renato
     familyname: Giroto
+    email: 'giroto@exemplo.com'
     affiliation: ''
-    email: ivogiroto@usp.br
+    orcid: '0000-0002-5062-0107'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: João Paulo Lobo
     familyname: Coppio
+    email: 'joao.coppio@usp.br'
     affiliation: ''
-    email: joao.coppio@usp.br
+    orcid: '0009-0007-1096-3547'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-004.pdf
-  pages_count: 17
-  pages: 60-76
-  abstract: O artigo traça um panorama em duas etapas da trajetória do Fomento de Urbanização e Melhoria das Estâncias – FUMEST, autarquia voltada ao planejamento e dotação de infraestrutura turística para o estado de São Paulo. Existente entre 1970 e 1989, construiu um relevante conjunto de obras, algumas delas paradigmáticas da produção moderna paulista. Seu acervo ainda não foi objeto de estudos acadêmicos e raramente obras importantes de arquitetos como João Walter e Odiléa Toscano, Botti Rubin, Luis Garcia Pardo e Abrahão Sanovicz são creditadas ao FUMEST. Sua experiência também é importante para compreender a história do planejamento regional durante a segunda metade do século XX. Seu fechamento resultou no abandono e descaracterização de muitas obras, simbolizando o enfraquecimento do planejamento estatal frente às dinâmicas privatistas observadas desde as últimas décadas do século passado.
-  abstract_en: The article provides a two-stage overview of the trajectory of the Promotion of Urbanization and Improvement of Resorts – FUMEST, an agency focused on planning and providing tourist infrastructure for the state of São Paulo. Existing between 1970 and 1989, it created a relevant set of works, some of them paradigmatic of modern production in São Paulo. Its collection has not yet been the subject of academic studies and important works by architects such as João Walter and Odiléa Toscano, Botti Rubin, Luis Garcia Pardo and Abrahão Sanovicz are rarely credited to FUMEST. Its experience is also important for understanding the history of regional planning during the second half of the 20th century. Its closure resulted in the abandonment and disrepair of many works, symbolizing the weakening of state planning in the face of the privatist dynamics observed since the last decades of the last century.
+  abstract: 'O artigo traça um panorama em duas etapas da trajetória do Fomento de Urbanização e Melhoria das Estâncias – FUMEST, autarquia voltada ao planejamento e dotação de infraestrutura turística para o estado de São Paulo. Existente entre 1970 e 1989, construiu um relevante conjunto de obras, algumas delas paradigmáticas da produção moderna paulista. Seu acervo ainda não foi objeto de estudos acadêmicos e raramente obras importantes de arquitetos como João Walter e Odiléa Toscano, Botti Rubin, Luis Garcia Pardo e Abrahão Sanovicz são creditadas ao FUMEST. Sua experiência também é importante para compreender a história do planejamento regional durante a segunda metade do século XX. Seu fechamento resultou no abandono e descaracterização de muitas obras, simbolizando o enfraquecimento do planejamento estatal frente às dinâmicas privatistas observadas desde as últimas décadas do século passado.'
   keywords:
   - FUMEST
   - Infraestrutura turística
   - Arquitetura moderna paulista
+  abstract_en: 'The article provides a two-stage overview of the trajectory of the Promotion of Urbanization and Improvement of Resorts – FUMEST, an agency focused on planning and providing tourist infrastructure for the state of São Paulo. Existing between 1970 and 1989, it created a relevant set of works, some of them paradigmatic of modern production in São Paulo. Its collection has not yet been the subject of academic studies and important works by architects such as João Walter and Odiléa Toscano, Botti Rubin, Luis Garcia Pardo and Abrahão Sanovicz are rarely credited to FUMEST. Its experience is also important for understanding the history of regional planning during the second half of the 20th century. Its closure resulted in the abandonment and disrepair of many works, symbolizing the weakening of state planning in the face of the privatist dynamics observed since the last decades of the last century.'
   keywords_en:
   - FUMEST
   - Tourism infrastructure
   - Paulista modern architecture
   references:
-  - APESAR da contenção, FUMEST não reduz o ritmo das obras. Cidade de Santos, Santos, ano 10, n. 3471, p. 10, 8 abr. 1977.
+  - 'APESAR da contenção, FUMEST não reduz o ritmo das obras. Cidade de Santos, Santos, ano 10, n. 3471, p. 10, 8 abr. 1977.'
   - 'ARTIGAS, Rosa (Org.). João Walter Toscano. São Paulo: Editora UNESP, 2002.'
-  - BALNEÁRIO Popular do Guarujá. Projeto, n° 17, p.13-17, dez. 1979.
+  - 'BALNEÁRIO Popular do Guarujá. Projeto, n° 17, p.13-17, dez. 1979.'
   - 'BASTOS, M. A. J.; ZEIN, R. V. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
   - 'BROCCHI, R. G.; SOLHA, K. T. Institucionalização do turismo no poder público estadual: a experiência de São Paulo. Revista Turismo em Análise, v. 19, n. 2, p. 241-254, 2008.'
   - 'BURGARELLI, R. TJ vê corrupção em hotel. Após 16 anos. Estadão, São Paulo, 12 maio 2013. Disponível em: https://www.estadao.com.br/sao-paulo/tj-ve-corrupcao-em-hotel-apos-16-anos- imp-/. Acesso em: 14 jun. 2024.'
   - 'BUZZAR, M. A.; CORDIDO, M. T. R. L. B.; CAMARGO, M. J. Os significados da mudança de paradigma arquitetônico advindo com o Plano de Ação do Governo de Estado/SP (PAGE) na Gestão Carvalho Pinto (1959-1963). In: SEMINÁRIO DOCOMOMO BRASIL: O CAMPO'
   - 'AMPLIADO MOVIMENTO MODERNO, 11., Recife, 2016. Anais eletrônicos [...]. Recife: Docomomo BR, 2016. Disponível em: http://seminario2016.docomomo.org.br/. Acesso em: 21 jul. 2019'
   - 'CAU/SP. Deliberação nº 050/2023 – CPC-CAU/SP, 09 mai. 2023. São Paulo: CAU/SP, 2023. https://transparencia.causp.gov.br/wp-content/uploads/Deliberacao-no-050.2023-CPC-CAUSP- 09.05.2023-Tombamento-do-Balneario-Teotonio-Vilela-00179.0011292023-06.pdf'
-  - CENTRO de convenções e balneário de Serra Negra. Projeto, n° 57, p.65-71, nov. 1983.
-  - COMO AMENIZAR as tensões do progresso. Manchete, Rio de Janeiro, ano 21, n. 1196, p. 48- 51, 22 mar. 1975.
-  - DEMIR pede explicações sobre obras do balneário. A Tribuna, Santos, ano 89, n. 77, p. 10, 10 jun. 1982.
+  - 'CENTRO de convenções e balneário de Serra Negra. Projeto, n° 57, p.65-71, nov. 1983.'
+  - 'COMO AMENIZAR as tensões do progresso. Manchete, Rio de Janeiro, ano 21, n. 1196, p. 48- 51, 22 mar. 1975.'
+  - 'DEMIR pede explicações sobre obras do balneário. A Tribuna, Santos, ano 89, n. 77, p. 10, 10 jun. 1982.'
   - 'FINO, P.; QUEIRÓZ, O. Políticas públicas de turismo no Estado de São Paulo: evolução da legislação no caso das Estâncias. In: CONGRESSO LATINO-AMERICANO DE'
   - 'INVESTIGAÇÃO TURÍSTICA. Anais/São Paulo: Escola de Artes, Ciências e Humanidades da Universidade de São Paulo. 2012.'
-  - FRANCO, Amanda Cristina; PORTO, Daniele Resende. Construção do território nas cidades de lazer. XI Encontro da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional – ANPUR. Salvador, mai. 2005.
+  - 'FRANCO, Amanda Cristina; PORTO, Daniele Resende. Construção do território nas cidades de lazer. XI Encontro da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional – ANPUR. Salvador, mai. 2005.'
   - 'FUMEST. Ilha Anchieta: Plano geral de exploração turística. São Paulo, 1974.'
-  - FUMEST. Programa de Terminais para Turismo Social. São Paulo, 1987.
-  - FUMEST mobiliza rede de estâncias para ampliar atendimento durante as férias. Cidade de Santos, Santos, ano 10, n. 3364, p. 22, 24 dez. 1976.
-  - KAUFMAN, Jerome; JACOBS, Harvey. A public planning perspective on strategic planning. Journal of the American Planning Association, v. 53, p. 23 -33, 1987.
-  - LITORAL sul se prepara para receber turistas. Construção de São Paulo, São Paulo, ano 25, n. 1282, p. 19-22, 4 set. 1972.
+  - 'FUMEST. Programa de Terminais para Turismo Social. São Paulo, 1987.'
+  - 'FUMEST mobiliza rede de estâncias para ampliar atendimento durante as férias. Cidade de Santos, Santos, ano 10, n. 3364, p. 22, 24 dez. 1976.'
+  - 'KAUFMAN, Jerome; JACOBS, Harvey. A public planning perspective on strategic planning. Journal of the American Planning Association, v. 53, p. 23 -33, 1987.'
+  - 'LITORAL sul se prepara para receber turistas. Construção de São Paulo, São Paulo, ano 25, n. 1282, p. 19-22, 4 set. 1972.'
   - 'NÚCLEO DOCOMOMO SP. Nota de Repúdio. Patrimônio em risco: Balneário Teotônio Villela (1971), Águas da Prata – SP. https://www.nucleodocomomosp.com.br/balnearioaguasdapratasp'
   - 'PIMENTA, J. T. B. O Balneário de Águas da Prata: arquitetura – cidade – memória. Trabalho Final de Graduação. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2019.'
-  - PLANO de fomento ao turismo no estado de São Paulo. Acrópole, São Paulo, Ano VI, nº 71, p. 317-324, mar. 1944.
-  - TURISMO em massa. Projeto, n°.109, p.46-48, abr.1988.
+  - 'PLANO de fomento ao turismo no estado de São Paulo. Acrópole, São Paulo, Ano VI, nº 71, p. 317-324, mar. 1944.'
+  - 'TURISMO em massa. Projeto, n°.109, p.46-48, abr.1988.'
   - 'SEGAWA, H. Arquiteturas no Brasil 1900-1990. 3 ed. São Paulo: Editora da Universidade de São Paulo, 2014.'
   - 'SILVA, Helena Ayoub. Abrahão Sanovicz: Arquiteto. São Paulo: Romano Guerra/Instituto Lina Bo e P. M. Bardi, 2017'
   - 'SPADONI, F. A transição do moderno: Arquitetura brasileira nos anos de 1970. Orientador: Gian Carlo Gasperini. 2003. 295 p. Tese (Doutorado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2003.'
   - 'TODESCO, C. Presença ausente e ausência presente do Estado na produção do espaço para o turismo no Vale do Ribeira paulista. Confins [online], n. 9, 2010. Disponível em: http://journals.openedition.org/confins/6484. Acesso em: 3 mai. 2024.'
-  - TRÊS hotéis-pilotos no litoral sul. Projeto e Construção, São Paulo, ano 3, ed. 28, p. 32-34, mar 1972.
+  - 'TRÊS hotéis-pilotos no litoral sul. Projeto e Construção, São Paulo, ano 3, ed. 28, p. 32-34, mar 1972.'
   - 'VAINER, Carlos. Os liberais também fazem planejamento urbano? In: ARANTES, Otília;'
   - 'VAINER, Carlos; MARICATO, Ermínia. A cidade do pensamento único: desmanchando consensos. Petrópolis: Vozes, 2000. p. 105 – 119.'
-- id: sdsp09-005
-  title: 'O processo de revisão do tombamento de Patrimônio Cultural: Colégio Doze de Outubro, São Paulo'
+  locale: 'pt-BR'
+  file: 'sdsp09-004.pdf'
+  pages_count: 17
+  pages: '60-76'
+
+- id: 'sdsp09-005'
+  title: O processo de revisão do tombamento de Patrimônio Cultural
+  subtitle: 'colégio doze de outubro, São Paulo'
   authors:
   - givenname: Luciana Monzillo de
     familyname: Oliveira
+    email: 'oliveira@exemplo.com'
     affiliation: ''
-    email: luciana.oliveira@Mackenzie.br
+    orcid: '0000-0002-5299-1120'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Maria Augusta Justi
     familyname: Pisani
+    email: 'pisani@exemplo.com'
     affiliation: ''
-    email: maria.pisani@Mackenzie.br
+    orcid: '0000-0002-0467-2854'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-005.pdf
-  pages_count: 17
-  pages: 77-93
-  abstract: O presente texto discute o tema do pós-tombamento de bem cultural edificado e o papel do Conselho Municipal diante de processos de revisão e eventual destombamento de patrimônio cultural. O objeto de estudo selecionado é o caso recente de decisão do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo – Conpresp, pela manifestação contrária ao recurso de revisão de tombamento do antigo Colégio Doze de Outubro, projetado pelos arquitetos João Batista Vilanova Artigas e Carlos Cascaldi em 1962 e tombado em 2018. A pesquisa utilizou de procedimentos metodológicos historiográficos para desenvolver um resgate do desenvolvimento da instituição de ensino, além de ilustrar através do projeto original dos arquitetos, as qualidades espaciais enaltecidas nos argumentos que justificaram o seu tombamento e que foram ratificados na tomada de decisão do Conpresp sobre o recurso de revisão do tombamento. Portanto, o objetivo do texto é divulgar a fundamentação e a relevância dos argumentos expostos, tanto no processo de tombamento do imóvel, quanto na apresentação da relatoria do DPH no processo de revisão. Os resultados expõem o papel do Conselho Municipal como órgão promotor, fiscalizador e de arbitragem entre os anseios da sociedade e da preservação cultural.
-  abstract_en: This text discusses the issue of post-listing of built cultural assets and the role of the Municipal Council in the review processes and eventual delisting of cultural heritage. The selected object of study is the recent case of a decision by the Municipal Council for the Preservation of Historical, Cultural and Environmental Heritage of the City of São Paulo – Conpresp, due to the opposition to the appeal for review of the listing of the former Colégio Doze de Outubro, designed by architects João Batista Vilanova Artigas and Carlos Cascaldi in 1962 and listed in 2018. The research used historiographical methodological procedures to develop a review of the development of the educational institution, in addition to illustrating, through the architects' original project, the spatial qualities highlighted in the arguments that justified its listing and that were ratified in the Conpresp decision-making on the appeal for review of the listing. Therefore, the purpose of the text is to disclose the basis and relevance of the arguments presented, both in the process of listing the property and in the presentation of the DPH report in the review process. The results expose the role of the Municipal Council as a promoting, monitoring and arbitrating body between the aspirations of society and cultural preservation.
+  abstract: 'O presente texto discute o tema do pós-tombamento de bem cultural edificado e o papel do Conselho Municipal diante de processos de revisão e eventual destombamento de patrimônio cultural. O objeto de estudo selecionado é o caso recente de decisão do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo – Conpresp, pela manifestação contrária ao recurso de revisão de tombamento do antigo Colégio Doze de Outubro, projetado pelos arquitetos João Batista Vilanova Artigas e Carlos Cascaldi em 1962 e tombado em 2018. A pesquisa utilizou de procedimentos metodológicos historiográficos para desenvolver um resgate do desenvolvimento da instituição de ensino, além de ilustrar através do projeto original dos arquitetos, as qualidades espaciais enaltecidas nos argumentos que justificaram o seu tombamento e que foram ratificados na tomada de decisão do Conpresp sobre o recurso de revisão do tombamento. Portanto, o objetivo do texto é divulgar a fundamentação e a relevância dos argumentos expostos, tanto no processo de tombamento do imóvel, quanto na apresentação da relatoria do DPH no processo de revisão. Os resultados expõem o papel do Conselho Municipal como órgão promotor, fiscalizador e de arbitragem entre os anseios da sociedade e da preservação cultural.'
   keywords:
   - patrimônio cultural
   - preservação
   - Colégio Doze de Outubro
+  abstract_en: 'This text discusses the issue of post-listing of built cultural assets and the role of the Municipal Council in the review processes and eventual delisting of cultural heritage. The selected object of study is the recent case of a decision by the Municipal Council for the Preservation of Historical, Cultural and Environmental Heritage of the City of São Paulo – Conpresp, due to the opposition to the appeal for review of the listing of the former Colégio Doze de Outubro, designed by architects João Batista Vilanova Artigas and Carlos Cascaldi in 1962 and listed in 2018. The research used historiographical methodological procedures to develop a review of the development of the educational institution, in addition to illustrating, through the architects'' original project, the spatial qualities highlighted in the arguments that justified its listing and that were ratified in the Conpresp decision-making on the appeal for review of the listing. Therefore, the purpose of the text is to disclose the basis and relevance of the arguments presented, both in the process of listing the property and in the presentation of the DPH report in the review process. The results expose the role of the Municipal Council as a promoting, monitoring and arbitrating body between the aspirations of society and cultural preservation.'
   keywords_en:
   - cultural heritage
   - preservation
@@ -239,10 +275,10 @@ articles:
   - 'BRASIL. Decreto-Lei nº 25, de 30 de novembro de 1937. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm. Acesso em: 31 maio 2024.'
   - 'BRASIL. Decreto-Lei nº 3.866, de 29 de novembro de 1941. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/1937-1946/del3866.htm. Acesso: 31maio 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 2, de 10 de dezembro de 2002. Secretaria Municipal de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/49c99_22_T_Bairro_da_Bela_Vista.pdf. Acesso em: 31 maio 2024.'
-  - CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 26, de 21 de dezembro de 2004. Secretaria Municipal
+  - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 26, de 21 de dezembro de 2004. Secretaria Municipal'
   - 'de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/49c99_22_T_Bairro_da_Bela_Vista.pdf. Acesso em: 31 maio 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 6, de 14 de dezembro de 2005. Secretaria Municipal de Cultura. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/resolucao-secretaria- municipal-da-cultuura-conpre-6-de-15-de-dezembro-de-2006. Acesso em: 31 maio 2024.'
-  - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 45, de 19 de março de 2018. Secretaria Municipal de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/re4518tombamentoobrasVilanovaArtigaspdf_155 3869678.pdf. Acesso em: 31 maio 2024.'
+  - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Resolução n° 45, de 19 de março de 2018. Secretaria Municipal de Cultura. Disponível em: https://www.prefeitura.sp.gov.br/cidade/upload/re4518tombamentoobrasvilanovaartigaspdf_155 3869678.pdf. Acesso em: 31 maio 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Ata da 791ª Reunião Ordinária do Conpresp. São Paulo: 2024.'
   - 'CONPRESP. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 791ª Reunião Ordinária do Conpresp (Vídeo). Canal do Youtube. Secretaria Municipal de Cultura de São Paulo. São Paulo: 19 fev. 2024. Disponível em: https://www.youtube.com/watch?v=lMq9PGTniik. Acesso em: 01 jun. 2024.'
   - 'FALECIMENTOS. O Estado de S. Paulo, 6 de outubro de 2000, p. 29. Disponível em: https://acervo.estadao.com.br/pagina/#!/20001006-39070-spo-0029-cid-c5- not/busca/Col%C3%A9gio+Doze+Outubro. Acesso em: 02 jun. 2024.'
@@ -255,30 +291,38 @@ articles:
   - 'SÃO PAULO, Município. Decreto nº 40.196, 27 de dezembro de 2000. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/decreto-40196-de-27-de-dezembro-de-2000. Acesso em: 02 jun. 2024.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. 2. ed. São Paulo: EDUSP, 1999.'
   - 'SOARES, Carolina Pedro. Destombamento: reflexões sobre a (des)construção do Patrimônio Cultural Nacional (1937-1955). Anais do Anpuh-Brasil – 31º Simpósio Nacional de História. Rio de Janeiro: 2021.'
-- id: sdsp09-006
-  title: 'Arquitetura escolar moderna na Baixada Santista: Grupo Escolar de Pae Cará ou EE. Philomena Cardoso de Oliveira'
+  locale: 'pt-BR'
+  file: 'sdsp09-005.pdf'
+  pages_count: 17
+  pages: '77-93'
+
+- id: 'sdsp09-006'
+  title: Arquitetura escolar moderna na baixada santista
+  subtitle: grupo escolar de pae cará ou ee. Philomena Cardoso de Oliveira
   authors:
   - givenname: Jasmine Luiza Souza
     familyname: Silva
+    email: 'silva@exemplo.com'
     affiliation: ''
-    email: jasmine_luiza@usp.br
+    orcid: '0000-0001-6156-4086'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Miguel Antônio
     familyname: Buzzar
+    email: 'm.buzzar@sc.usp.br'
     affiliation: ''
-    email: m.buzzar@sc.usp.br
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-006.pdf
-  pages_count: 14
-  pages: 94-107
-  abstract: O Grupo Escolar de Pae Cará, ou Escola Estadual (EE) Philomena Cardoso de Oliveira, embora não seja um projeto amplamente conhecido pela historiografia da arquitetura, apresenta uma série de caracteristicas que contribuem para a compreensão da arquitetura escolar realizada pelo Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) durante o governo de Carvalho Pinto, assim como, o projeto também pode ser compreendido pelas caracteristicas que demarcam e tornaram-se recorrentes na arquitetura da chamada Escola Paulista, sobretudo, pela anfase aos espaços de uso coletivo, como o pátio escolar. O presente trabalho parte das discussões levantadas em pesquisas anteriores a respeito da concepção de espaços sociais em projetos escolares produzidos entre 1959 e 1975, enfatizando as soluções projetuais do Grupo Escolar de Pae Cará, projetada por Maurício Tuck Schneider, e as relações entre a arquitetura escolar produzida pelo PAGE na baixada santista.
-  abstract_en: The Pae Cará School Group, or School Philomena Cardoso de Oliveira, although not a project widely known in architectural historiography, presents a series of characteristics that contribute to the understanding of school architecture carried out by the Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) during the government of Carvalho Pinto, as well as the project can also be understood by the characteristics that demarcate and became recurrent in the architecture of the so-called Escola Paulista, above all, due to the emphasis on spaces for collective use, such as the school playground. This work is based on discussions raised in previous research regarding the design of social spaces in school projects produced between 1959 and 1975, emphasizing the design solutions of the Grupo Escolar de Pae Cará, designed by Maurício Tuck Schneider, and the relationships between school architecture produced by PAGE in Baixada Santista.
+  abstract: 'O Grupo Escolar de Pae Cará, ou Escola Estadual (EE) Philomena Cardoso de Oliveira, embora não seja um projeto amplamente conhecido pela historiografia da arquitetura, apresenta uma série de caracteristicas que contribuem para a compreensão da arquitetura escolar realizada pelo Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) durante o governo de Carvalho Pinto, assim como, o projeto também pode ser compreendido pelas caracteristicas que demarcam e tornaram-se recorrentes na arquitetura da chamada Escola Paulista, sobretudo, pela anfase aos espaços de uso coletivo, como o pátio escolar. O presente trabalho parte das discussões levantadas em pesquisas anteriores a respeito da concepção de espaços sociais em projetos escolares produzidos entre 1959 e 1975, enfatizando as soluções projetuais do Grupo Escolar de Pae Cará, projetada por Maurício Tuck Schneider, e as relações entre a arquitetura escolar produzida pelo PAGE na baixada santista.'
   keywords:
   - Arquitetura escolar do PAGE
   - EE Philomena Cardoso de Oliveira
   - Arquitetura moderna na baixada santista
+  abstract_en: 'The Pae Cará School Group, or School Philomena Cardoso de Oliveira, although not a project widely known in architectural historiography, presents a series of characteristics that contribute to the understanding of school architecture carried out by the Plano de Ação do Governo do Estado de São Paulo - PAGE (1959-1963) during the government of Carvalho Pinto, as well as the project can also be understood by the characteristics that demarcate and became recurrent in the architecture of the so-called Escola Paulista, above all, due to the emphasis on spaces for collective use, such as the school playground. This work is based on discussions raised in previous research regarding the design of social spaces in school projects produced between 1959 and 1975, emphasizing the design solutions of the Grupo Escolar de Pae Cará, designed by Maurício Tuck Schneider, and the relationships between school architecture produced by PAGE in Baixada Santista.'
   keywords_en:
   - The PAGE school architecture
   - EE Philomena Cardoso de Oliveira
@@ -289,77 +333,86 @@ articles:
   - 'BUZZAR, M.A.; CORDIDO, M.T.R.L.B.; CAMARGO, M.J. Relatório Difusão da Arquitetura Moderna no Brasil – O Patrimônio Arquitetônico Criado pelo Plano de Ação do Governo Carvalho Pinto (1959-1963). São Paulo: FAPESP, 2015, (mimeo).'
   - 'BUZZAR, M. A. João Batista Vilanova Artigas: Elementos para uma compreensão de um caminho da arquitetura brasileira, 1938-1967. São Paulo: Senac Editora Unesp, 2014.'
   - 'BUZZAR, M. A. CORDIDO, M. T. R. L. de B. JUNQUEIRA, M. C. Modernidade e Arquitetura Neocolonial: O caoso da Escola Prática de Agrocultura do Município de Pirassununga. Porto Alegre, RS: IV ENANPARQ, 2016. Disponível em: <http://www.anparq.org.br/enanparq-IV.php>'
-  - BUZZAR, M. A.; CORDIDO, M. T. R. L. de B. Plano de ação (page), e a arquitetura moderna | Action plan (page) and modern architecture. Oculum Ensaios, n. 17, 1–18. 2020.
+  - 'BUZZAR, M. A.; CORDIDO, M. T. R. L. de B. Plano de ação (page), e a arquitetura moderna | Action plan (page) and modern architecture. Oculum Ensaios, n. 17, 1–18. 2020.'
   - 'GRUPO Escolar no Guarujá. Acrópole, São Paulo, ano 27, n. 318, p. 28-30, jun. 1965. Disponível em: http://www.acropole.fau.usp.br/edicao/318. Acesso em 30 nov. 2020.'
   - 'MELLO, M. G. DE. Arquitetura escolar pública paulista. Fundo Estadual de Construções Escolares – FECE: 1966 -1976. Dissertação (Mestrado - Área de Concentração: Projeto de Arquitetura) –Facuoldade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2012. Orientador: Júlio Roberto Katinsky'
   - 'SILVA, Jasmine Luiza Souza. A Escola Paulista e a função social da arquitetura: projetos escolares entre 1959 e 1975. 2022. Dissertação (Mestrado em Teoria e História da Arquitetura e do Urbanismo) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2022. doi:10.11606/D.102.2022.tde-19092022-152709. Acesso em: 2024-06-17.'
   - 'SILVA, J. L. S. Grupo Escolar de Taquarituba, projeto de Maurício Tuck Schneider. In: ALVE, A.'
   - 'A. TAKAHASHI, V.; PUPIM NETO, M. A. Reconhecimento do Patrimônio Moderno do IPESP no Estado de São Paulo, 1957-1963. 7º Seminário Docomomo São Paulo. 2020. Disponível em: https://www.nucleodocomomosp.com.br/_files/ugd/e5628e_bd99b8652e4a4d8990063150bc76 4d3d.pdf Acesso em 08 jun. 2024.'
-- id: sdsp09-007
-  title: Edifício Christiano Stockler das Neves – FAU-Mackenzie
+  locale: 'pt-BR'
+  file: 'sdsp09-006.pdf'
+  pages_count: 14
+  pages: '94-107'
+
+- id: 'sdsp09-007'
+  title: 'Edifício Christiano Stockler das Neves – FAU-Mackenzie'
   authors:
   - givenname: Marcos José
     familyname: Carrilho
+    email: 'carrilho@exemplo.com'
     affiliation: ''
-    email: carrilho@exemplo.com
+    orcid: '0000-0001-8601-366X'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-007.pdf
-  pages_count: 22
-  pages: 108-129
-  abstract: Após um breve retrospecto do ensino de arquitetura na Universidade Presbiteriana Mackenzie, tendo como referência a documentação histórica sobre as edificações que o abrigaram, o texto se concentra no projeto do Edifício Christiano Stockler das Neves, sede da Faculdade de Arquitetura e Urbanismo. Ainda por meio de fontes documentais, descreve o projeto e suas características, para então discutir as contingências de sua realização e seus atributos de valor. Reconhecidas suas principais qualidades, o texto prossegue enumerando as transformações recentes, e seu impacto em relação a sua capacidade de se adaptar, conservar e preservar suas qualidades principais.
-  abstract_en: After a brief retrospective of the teaching of architecture at Universidade Presbiteriana Mackenzie, with reference to the historical documentation on the buildings that housed it, the text focuses on the project of the Christiano Stockler das Neves Building, the college's headquarters. Still using documentary sources, it describes the project and its characteristics, and then discusses the contingencies of its implementation and its value attributes. Having recognized its main qualities, the text continues by enumerating recent transformations, and their impact in relation to the ability to adapt, conserve and preserve its main qualities.
+  abstract: 'Após um breve retrospecto do ensino de arquitetura na Universidade Presbiteriana Mackenzie, tendo como referência a documentação histórica sobre as edificações que o abrigaram, o texto se concentra no projeto do Edifício Christiano Stockler das Neves, sede da Faculdade de Arquitetura e Urbanismo. Ainda por meio de fontes documentais, descreve o projeto e suas características, para então discutir as contingências de sua realização e seus atributos de valor. Reconhecidas suas principais qualidades, o texto prossegue enumerando as transformações recentes, e seu impacto em relação a sua capacidade de se adaptar, conservar e preservar suas qualidades principais.'
   keywords:
   - Fontes documentais
   - Escola de arquitetura
   - Transformar e conservar
+  abstract_en: 'After a brief retrospective of the teaching of architecture at Universidade Presbiteriana Mackenzie, with reference to the historical documentation on the buildings that housed it, the text focuses on the project of the Christiano Stockler das Neves Building, the college''s headquarters. Still using documentary sources, it describes the project and its characteristics, and then discusses the contingencies of its implementation and its value attributes. Having recognized its main qualities, the text continues by enumerating recent transformations, and their impact in relation to the ability to adapt, conserve and preserve its main qualities.'
   keywords_en:
   - Documentary sources
   - School of architecture
   - Change and conservation
   references:
   - 'ALVIM, Angélica T. B., ABASCAL, Eunice H. S. , ABRUNHOSA, Eduardo C., Arquitetura Mackenzie 100 anos FAU-Mackenzie 70 anos: pioneirismo e atualidade, São Paulo, Editora Mackenzie, 2017'
-  - Annual Report of the President of Mackenzie College to the Delibarative Council Resume for the Board of Trustees, 1946.
-  - Annual Report for The Board of Trustees of Mackenzie College, 1946
+  - 'Annual Report of the President of Mackenzie College to the Delibarative Council Resume for the Board of Trustees, 1946.'
+  - 'Annual Report for The Board of Trustees of Mackenzie College, 1946'
   - 'ATIQUE, Fernando: Os elos entre a University of Pennsylvania e a arquitetura do Brasil, através da trajetória profissional de George Henry Krug.'
-  - http://www.dezenovevinte.net/arte%20decorativa/atique_krug.htm
+  - 'http://www.dezenovevinte.net/arte%20decorativa/atique_krug.htm'
   - 'FICHER, Sylvia, Os Arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo, FAPESP, Editora da Universidade de São Paulo, 2005.'
-  - Instituto Mackenzie S. Paulo – Brasil, Relatórios de 1947 do Presidente e dos Diretores.
-  - PMSP-Processo nº 99.602/1936.
+  - 'Instituto Mackenzie S. Paulo – Brasil, Relatórios de 1947 do Presidente e dos Diretores.'
+  - 'PMSP-Processo nº 99.602/1936.'
   - PMSP Processo nº 40.989/1949.
   - PMSP Processo nº 169.299/59 – 11/12/1959.
   - Protestant College Suplement to President’s Report for 1895.
-  - Instituto Mackenzie S. Paulo – Brasil, Relatórios de 1947 do Presidente e dos Diretores.
+  - 'Instituto Mackenzie S. Paulo – Brasil, Relatórios de 1947 do Presidente e dos Diretores.'
   - Relatório Anual do Instituto Mackenzie Correspondente ao Ano de 1950.
-  - Relatório apresentado pelo Reitor da Universidade Mackenzie aos Conselhos Universitário e Deliberativo, Referente ao ano de 1956.
-  - Relatório do Reitor da Universidade Mackenzie, 1955.
-  - Relatórios dos Cursos e Departamentos 1958, (Relatório do Presidente).
-  - STOCKLER das NEVES, Christiano, carta de 14 de maio de 1956, dirigida ao Dr. Roberto James Shalders, Presidente da Campanha “Um Mackenzie para melhor servir”, cópia do acervo Christiano Stockler das Neves, Biblioteca FAUUSP.
+  - 'Relatório apresentado pelo Reitor da Universidade Mackenzie aos Conselhos Universitário e Deliberativo, Referente ao ano de 1956.'
+  - 'Relatório do Reitor da Universidade Mackenzie, 1955.'
+  - 'Relatórios dos Cursos e Departamentos 1958, (Relatório do Presidente).'
+  - 'STOCKLER das NEVES, Christiano, carta de 14 de maio de 1956, dirigida ao Dr. Roberto James Shalders, Presidente da Campanha “Um Mackenzie para melhor servir”, cópia do acervo Christiano Stockler das Neves, Biblioteca FAUUSP.'
   - 'TURNER, Paul V. Campus: An American Planning Tradition, The Architectural History Foundation/MIT Press, New York, 1984.'
-- id: sdsp09-008
-  title: 'Arquitetura educadora: formação de público e preservação da sede do MAC USP'
+  locale: 'pt-BR'
+  file: 'sdsp09-007.pdf'
+  pages_count: 22
+  pages: '108-129'
+
+- id: 'sdsp09-008'
+  title: Arquitetura educadora
+  subtitle: formação de público e preservação da sede do mac USP
   authors:
-  - givenname: Rodrigo C.
+  - givenname: Rodrigo Cristiano
     familyname: Queiroz
+    email: 'sem-email-1@example.com'
     affiliation: ''
-    email: roqueiro@usp.br
+    orcid: '0000-0002-7088-6885'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-008.pdf
-  pages_count: 10
-  pages: 130-139
-  abstract: Desde janeiro de 2012, o Museu de Arte Contemporânea da Universidade de São Paulo ocupa um edifício integrante do conjunto arquitetônico do Parque Ibirapuera, originalmente denominado Palácio da Agricultura e, por décadas, utilizado como sede do Departamento Estadual de Trânsito de São Paulo (Detran SP). Projetado por Oscar Niemeyer, o edifício exprime, simultanelamente, a filiação aos “cinco pontos da arquitetura moderna”, postulados por Le Corbusier, e a incorporação da espacialidade contínua proveniemente das superfícies curvilíneas que identificam as obras do arquiteto carioca. A forma exterior, os espaços interiores e sua inserção urbana (no conjunto e na cidade), fazem com que este museu deixe de ser um ambiente neutro para as obras, um “cubo branco” e passe a compor a coleção como obra em si, devido ao protagonismo das obras modernas na coleção. Diante dessa condição, desde sua inaguração em sua nova sede, o MAC USP desenvolve projetos e atividades em seu setor educativo com vistas a despertar nos grupos de escolas assim como no público espontâneo uma consciência sobre o valor dessa arquitetura a partir da compreensão da relação de unidade entre a linguagem do espaço e as linguagens da obras, principalmente aquelas vinculadas às abstrações geométrica e lírica.
-  abstract_en: Since January 2012, the Museum of Contemporary Art at the University of São Paulo has occupied a building that is part of the Ibirapuera Park architectural complex, originally called the Palácio da Agricultura and, for decades, used as the headquarters of the São Paulo State Traffic Department (Detran SP ). Designed by Oscar Niemeyer, the building simultaneously expresses affiliation with the “five points of modern architecture”, postulated by Le Corbusier, and the incorporation of continuous spatiality originating from the curvilinear surfaces that identify the works of the architect from Rio. The exterior shape, the interior spaces and its urban insertion (in the complex and in the city), mean that this museum stops being a neutral environment for the works, a “white cube” and starts to form the collection as a work in itself, due to the protagonism of modern works in the collection. Given this condition, since its inauguration in its new headquarters, MAC USP has been developing projects and activities in its educational sector with a view to awakening in groups of schools as well as in the spontaneous public an awareness of the value of this architecture based on an understanding of the relationship between unity between the language of space and the languages of works, especially those linked to geometric and lyrical abstraction.
+  abstract: 'Desde janeiro de 2012, o Museu de Arte Contemporânea da Universidade de São Paulo ocupa um edifício integrante do conjunto arquitetônico do Parque Ibirapuera, originalmente denominado Palácio da Agricultura e, por décadas, utilizado como sede do Departamento Estadual de Trânsito de São Paulo (Detran SP). Projetado por Oscar Niemeyer, o edifício exprime, simultanelamente, a filiação aos “cinco pontos da arquitetura moderna”, postulados por Le Corbusier, e a incorporação da espacialidade contínua proveniemente das superfícies curvilíneas que identificam as obras do arquiteto carioca. A forma exterior, os espaços interiores e sua inserção urbana (no conjunto e na cidade), fazem com que este museu deixe de ser um ambiente neutro para as obras, um “cubo branco” e passe a compor a coleção como obra em si, devido ao protagonismo das obras modernas na coleção. Diante dessa condição, desde sua inaguração em sua nova sede, o MAC USP desenvolve projetos e atividades em seu setor educativo com vistas a despertar nos grupos de escolas assim como no público espontâneo uma consciência sobre o valor dessa arquitetura a partir da compreensão da relação de unidade entre a linguagem do espaço e as linguagens da obras, principalmente aquelas vinculadas às abstrações geométrica e lírica.'
   keywords:
   - Oscar Niemeyer
   - Arquitetura moderna
-  - Arte-educação
+  - 'Arte-educação'
+  abstract_en: 'Since January 2012, the Museum of Contemporary Art at the University of São Paulo has occupied a building that is part of the Ibirapuera Park architectural complex, originally called the Palácio da Agricultura and, for decades, used as the headquarters of the São Paulo State Traffic Department (Detran SP ). Designed by Oscar Niemeyer, the building simultaneously expresses affiliation with the “five points of modern architecture”, postulated by Le Corbusier, and the incorporation of continuous spatiality originating from the curvilinear surfaces that identify the works of the architect from Rio. The exterior shape, the interior spaces and its urban insertion (in the complex and in the city), mean that this museum stops being a neutral environment for the works, a “white cube” and starts to form the collection as a work in itself, due to the protagonism of modern works in the collection. Given this condition, since its inauguration in its new headquarters, MAC USP has been developing projects and activities in its educational sector with a view to awakening in groups of schools as well as in the spontaneous public an awareness of the value of this architecture based on an understanding of the relationship between unity between the language of space and the languages of works, especially those linked to geometric and lyrical abstraction.'
   keywords_en:
   - Oscar Niemeyer
   - Modern Architecture
-  - Art-Education
+  - 'Art-Education'
   references:
   - 'AJZENBERG, Elza (coord.). MAC USP: acervo digital. São Paulo: MAC USP. 2006.'
   - 'ANDREOLI, Elisabetta, FORTY, Adrian. Arquitetura Moderna Brasileira. Nova York: Phaidon, 2004.'
@@ -368,7 +421,7 @@ articles:
   - 'BARROS, Luiz Antonio Recamán de. Oscar Niemeyer: forma arquitetônica e cidade no Brasil moderno. Tese de Doutorado, São Paulo, FFLCHUSP, 2002.'
   - 'BARROS, Regina Teixeira de. Arte Construtiva na Pinacoteca do Estado de São Paulo. São Paulo: Pinacoteca do Estado, 2014.'
   - '___; HEDEL-SAMSON, Brigitte (orgs.). Fernand Léger: amizades brasileiras / relations et amitiés brésiliennes. São Paulo: Pinacoteca do Estado, 2009.'
-  - BILL, Max. Max Bill, o inteligente iconoclasta. Revista Habitat n. 12. São Paulo, setembro de 1953. p. 34-35.
+  - 'BILL, Max. Max Bill, o inteligente iconoclasta. Revista Habitat n. 12. São Paulo, setembro de 1953. p. 34-35.'
   - 'BOIS, Yve-Alain. A pintura como modelo. São Paulo: Martins Fontes, 2009.'
   - 'BORDA, Luis Eduardo. O Nexo da Forma – Oscar Niemeyer: da Arte Moderna ao debate contemporâneo. Tese de doutorado. São Paulo: ECA-USP:2003.'
   - 'BRITO, Ronaldo. Neoconcretismo. São Paulo: Cosac Naify, 1999.'
@@ -384,14 +437,14 @@ articles:
   - 'FLORIÊNSKI, Pável. A perspectiva inversa. São Paulo: Editora 34, 2012'
   - 'GREENBERG, Clement. Arte e Cultura. São Paulo: Cosac Naify, 2013.'
   - 'GULLAR, Ferreira. Etapas da Arte Contemporânea. Rio de Janeiro: Revan, 1999.'
-  - _____. Relâmpagos. São Paulo, Cosac Naify.
+  - '_____. Relâmpagos. São Paulo, Cosac Naify.'
   - 'KRAUSS, Rosalind. Os papéis de Picasso. São Paulo: Iluminuras, 2006.'
   - '_____. Os caminhos da escultura moderna. São Paulo: Martins Fontes, 2007.'
   - 'LISSOVSKY, Maurício e MORAES DE SÁ, Paulo Sérgio. Colunas da Educação: a construção do Ministério da Educação e Saúde (1935-1945). Rio de Janeiro: MinC/IPHAN/FGV/CPDOC, 1996.'
   - 'MAMMÌ, Lorenzo. O que resta: arte e crítica de arte. São Paulo: Companhia das Letras, 2012.'
   - 'NAVES, Rodrigo. O vento e o moinho: ensaios sobre arte moderna e contemporânea. São Paulo: Companhia das Letras, 2007.'
   - '_____. A forma difícil. São Paulo: Companhia das Letras, 2011.'
-  - NIEMEYER, Oscar. “Entrevista”. Revista Módulo n. 01. Rio de Janeiro, março de 1955. p. 47.
+  - 'NIEMEYER, Oscar. “Entrevista”. Revista Módulo n. 01. Rio de Janeiro, março de 1955. p. 47.'
   - 'O’DOHERTY, Brian. No interior do cubo branco: a ideologia do espaço da arte. São Paulo: Martins Fontes, 2002.'
   - 'PAPADAKI, Stamo. The work of Oscar Niemeyer. New York: Rheinhold Publishing, 1950.'
   - '_____. Oscar Niemeyer: works in progress. New York: Rheinhold Publishing, 1956.'
@@ -403,42 +456,55 @@ articles:
   - 'TASSINARI, Alberto. O espaço moderno. São Paulo: Cosac Naify, 2001.'
   - 'TELLES, Sophia S. A arquitetura modernista: um espaço sem lugar. Arte Brasileira Contemporânea. Caderno de Textos, nº03. Rio de Janeiro: Funarte/Instituto Nacional de Artes Plásticas, 1983.'
   - '_____. Arquitetura moderna no Brasil: o desenho da superfície. Dissertação de Mestrado, São Paulo, FFLCHUSP, 1988.'
-  - VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutorado. São Paulo, FAUUSP. 2000.
+  - 'VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutorado. São Paulo, FAUUSP. 2000.'
   - 'VALLIER, Dora. A Arte Abstrata. São Paulo: Martins Fontes, 1986.'
-- id: sdsp09-009
+  locale: 'pt-BR'
+  file: 'sdsp09-008.pdf'
+  pages_count: 10
+  pages: '130-139'
+
+- id: 'sdsp09-009'
   title: A produção do arquiteto Geraldo Caiuby
   authors:
   - givenname: Maria Giulia Lourenço
     familyname: Francischinelli
+    email: 'giufranscischinelli@gmail.com'
     affiliation: ''
-    email: giufranscischinelli@gmail.com
+    orcid: '0009-0000-7904-4142'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Maria Alice de
     familyname: Carvalho
+    email: 'maria.alice.carvalho@hotmail.com'
     affiliation: ''
-    email: maria.alice.carvalho@hotmail.com
+    orcid: '0000-0003-1502-7962'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: João Luís Bengla
     familyname: Mestre
+    email: 'joão.mestre@facens.br'
     affiliation: ''
-    email: joão.mestre@facens.br
+    orcid: '0009-0009-1859-8497'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Taiana Car
     familyname: Vidotto
+    email: 'vidotto@exemplo.com'
     affiliation: ''
-    email: taiana.vidotto@facens.br
+    orcid: '0000-0002-7498-3789'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-009.pdf
-  pages_count: 14
-  pages: 140-153
-  abstract: Objetiva-se apresentar a produção do arquiteto Geraldo Caiuby (1946 -) na cidade de Sorocaba, interior do Estado de São Paulo, por meio de uma revisão bibliográfica e pesquisa de campo. Como resultado, observou-se a ausência de pesquisas com essa temática. Por essa razão, em complemento à revisão bibliográfica foram consideradas como fontes reportagens do jornal do município. Como um dos arquitetos com atuação mais longeva na cidade, entende-se que conhecer as obras de Geraldo Caiuby é construir parte da identidade da arquitetura local. Dessa forma, se faz necessária uma análise mais profunda dos projetos encontrados, bem como a ampliação da investigação dos exemplares ainda existentes na cidade. Entre os projetos estão a Biblioteca Municipal de Sorocaba. Com essa pesquisa não se espera esgotar a produção do arquiteto, mas iniciar sua documentação. Considerando o contexto urbano local em crescente transformação, há a necessidade de documentar e divulgar suas obras no sentido de, possivelmente, evitar a descaracterizações dos edifícios existentes ou sua demolição, levando ao apagamento de parte da história local.
-  abstract_en: The aim of this study is to present the production of architect Geraldo Caiuby (1946 -) in the city of Sorocaba, in the interior of the state of São Paulo, through a bibliographic review and field research. As a result, it was observed that there was a lack of research on this subject. For this reason, in addition to the bibliographic review, reports from the city's newspaper were considered as sources. As one of the architects with the longest experience in the city, it is understood that knowing Geraldo Caiuby's works is to build part of the identity of local architecture. Thus, a more in-depth analysis of the projects found is necessary, as well as expanding the investigation of the examples still existing in the city. Among the projects is the Municipal Library of Sorocaba. This research does not expect to exhaust the architect's production, but to begin documenting it. Considering the local urban context in increasing transformation, there is a need to document and publicize his works in order to possibly avoid the decomposition of existing buildings or their demolition, leading to the erasure of part of the local history.
+  abstract: 'Objetiva-se apresentar a produção do arquiteto Geraldo Caiuby (1946 -) na cidade de Sorocaba, interior do Estado de São Paulo, por meio de uma revisão bibliográfica e pesquisa de campo. Como resultado, observou-se a ausência de pesquisas com essa temática. Por essa razão, em complemento à revisão bibliográfica foram consideradas como fontes reportagens do jornal do município. Como um dos arquitetos com atuação mais longeva na cidade, entende-se que conhecer as obras de Geraldo Caiuby é construir parte da identidade da arquitetura local. Dessa forma, se faz necessária uma análise mais profunda dos projetos encontrados, bem como a ampliação da investigação dos exemplares ainda existentes na cidade. Entre os projetos estão a Biblioteca Municipal de Sorocaba. Com essa pesquisa não se espera esgotar a produção do arquiteto, mas iniciar sua documentação. Considerando o contexto urbano local em crescente transformação, há a necessidade de documentar e divulgar suas obras no sentido de, possivelmente, evitar a descaracterizações dos edifícios existentes ou sua demolição, levando ao apagamento de parte da história local.'
   keywords:
   - arquitetura moderna
   - Sorocaba
   - arquitetura paulista
+  abstract_en: 'The aim of this study is to present the production of architect Geraldo Caiuby (1946 -) in the city of Sorocaba, in the interior of the state of São Paulo, through a bibliographic review and field research. As a result, it was observed that there was a lack of research on this subject. For this reason, in addition to the bibliographic review, reports from the city''s newspaper were considered as sources. As one of the architects with the longest experience in the city, it is understood that knowing Geraldo Caiuby''s works is to build part of the identity of local architecture. Thus, a more in-depth analysis of the projects found is necessary, as well as expanding the investigation of the examples still existing in the city. Among the projects is the Municipal Library of Sorocaba. This research does not expect to exhaust the architect''s production, but to begin documenting it. Considering the local urban context in increasing transformation, there is a need to document and publicize his works in order to possibly avoid the decomposition of existing buildings or their demolition, leading to the erasure of part of the local history.'
   keywords_en:
   - Modern Architecture
   - Sorocaba
@@ -449,68 +515,86 @@ articles:
   - 'LIMA, Caroline Niitsu de; BUZZAR, Miguel Antônio. Análise arquitetônica de equipamentos públicos escolares produzidos pelo Plano de Ação (1959-1963). Relatório final de iniciação científica. Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2016. Disponível em: http://www.sbpcnet.org.br/livro/69ra/resumos/resumos/1790_1920ad6b9f65538cc19d871e865a 72504.pdf. Acesso em: 29 ago. 2024.'
   - 'LUCA, Tania Regina de. História dos, nos e por meio dos periódicos in PINSKY, Carla Passanezi. Fontes Históricas. 3 ed., 1ª reimpressão – São Paulo: Contexto, 2014.'
   - 'MESTRE, João Luís Bengla. A arquitetura moderna em Sorocaba: décadas de 50, 60 e 70. 2014. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, University of São Paulo, São Paulo, 2014. doi:10.11606/D.16.2014.tde-12092014-152443. Acesso em: 29 ago. 2024.'
-  - As concepções de morar segundo os arquitetos. Jornal Cruzeiro do Sul, Sorocaba, 30 jul. 1977. Jornal do imóvel, p.10.
-  - Este homem Elias Antonio José, está construindo em Sorocaba um dos mais luxuosos “shopping centers” do Brasil. Jornal Cruzeiro do Sul, Sorocaba, 31 out. 1979. p.11
-  - Fernando Cheda irá lançar em Sorocaba moderno conjunto residencial. Jornal Cruzeiro do Sul, Sorocaba, 01 nov. 1981, p.03.
+  - 'As concepções de morar segundo os arquitetos. Jornal Cruzeiro do Sul, Sorocaba, 30 jul. 1977. Jornal do imóvel, p.10.'
+  - 'Este homem Elias Antonio José, está construindo em Sorocaba um dos mais luxuosos “shopping centers” do Brasil. Jornal Cruzeiro do Sul, Sorocaba, 31 out. 1979. p.11'
+  - 'Fernando Cheda irá lançar em Sorocaba moderno conjunto residencial. Jornal Cruzeiro do Sul, Sorocaba, 01 nov. 1981, p.03.'
   - 'SHIKAMA, Felipe. Inaugurada há 13 anos, Biblioteca aguarda reforma. Jornal Cruzeiro do Sul, Edição nº 34744, Sorocaba, 23 de fevereiro de 2018. Acesso em: 10 de fevereiro de 2023.'
-  - ZEIN, Ruth Verde. Leituras críticas. Pensamento da América Latina, volume 5. São Paulo/Austin, Nhamerica Platform, Romano Guerra, 2018.
-- id: sdsp09-010
-  title: Muzi e Arena na produção da Arquitetura Moderna santista
+  - 'ZEIN, Ruth Verde. Leituras críticas. Pensamento da América Latina, volume 5. São Paulo/Austin, Nhamerica Platform, Romano Guerra, 2018.'
+  locale: 'pt-BR'
+  file: 'sdsp09-009.pdf'
+  pages_count: 14
+  pages: '140-153'
+
+- id: 'sdsp09-010'
+  title: Muzi e arena na produção da Arquitetura Moderna santista
   authors:
   - givenname: Jaqueline Fernández
     familyname: Alves
+    email: 'j.fernandez.alves@gmail.com'
     affiliation: ''
-    email: j.fernandez.alves@gmail.com
+    orcid: '0009-0001-4939-0324'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Cristina de
     familyname: Campos
+    email: 'prof.cristinacampos@usjt.br'
     affiliation: ''
-    email: prof.cristinacampos@usjt.br
+    orcid: '0000-0001-9379-5057'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Eneida de
     familyname: Almeida
+    email: 'almeida@exemplo.com'
     affiliation: ''
-    email: prof.eneida@usjt.br
+    orcid: '0000-0001-9773-5289'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Mario
     familyname: Rodrigues Jr.
+    email: 'mariodragonetti@gmail.com'
     affiliation: ''
-    email: mariodragonetti@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-010.pdf
-  pages_count: 17
-  pages: 154-170
   abstract: 'Este artigo discute a feição da arquitetura produzida por dois expoentes da Arquitetura Moderna Santista: o Escritório Técnico Luiz Muzi e a Construtora ARENA. A cidade de Santos experimentou um crescimento acentuado a partir dos anos 1950, onde ocorre uma transformação urbana significativa, marcada pela adaptação da legislação urbanística para a construção de edifícios verticais com programas arquitetônicos inovadores. A escolha do tema deste trabalho deriva da pesquisa realizada na tese de doutorado em andamento intitulada Arquitetura Moderna Santista que tem como objetivo principal realizar um inventário de exemplares construídos entre 1930 e 1970. Esse levantamento permitiu descobrir uma série de informações relevantes sobre a produção desse período. Uma brilhante geração de profissionais constituiu no Brasil um conjunto significativo de obras que influenciou a adoção de práticas modernistas, resultando em belos exemplares que fazem parte da memória arquitetônica, ainda pouco explorado pela historiografia. A Arquitetura Moderna Santista possui propósitos fundamentais que refletem esse ideário, e suas referências merecem ser estudadas para fornecer diretrizes que possam contribuir para a preservação e valorização dessa produção como bens de interesse histórico e cultural.'
-  abstract_en: 'This article discusses the architectural features produced by two exponents of Santista Modern Architecture: the Luiz Muzi Technical Office and the Construtora ARENA. The city of Santos experienced marked growth from the 1950s onwards, where a significant urban transformation occurred, marked by the adaptation of urban planning legislation for the construction of vertical buildings with innovative architectural programs. The choice of the theme of this work derives from the research carried out in the doctoral thesis in progress entitled Arquitetura Moderna Santista, whose main objective is to carry out an inventory of examples built between 1930 and'
   keywords:
   - arquitetura moderna santista
   - patrimônio cultural
   - preservação
+  abstract_en: 'This article discusses the architectural features produced by two exponents of Santista Modern Architecture: the Luiz Muzi Technical Office and the Construtora ARENA. The city of Santos experienced marked growth from the 1950s onwards, where a significant urban transformation occurred, marked by the adaptation of urban planning legislation for the construction of vertical buildings with innovative architectural programs. The choice of the theme of this work derives from the research carried out in the doctoral thesis in progress entitled Arquitetura Moderna Santista, whose main objective is to carry out an inventory of examples built between 1930 and'
   keywords_en:
   - Modern Architecture in Santos
   - Cultural Heritage
   - Preservation
-- id: sdsp09-011
-  title: 'Márlio Raposo Dantas: um arquiteto moderno e inovador muda o cenário da cidade de Santos/SP'
+  locale: 'pt-BR'
+  file: 'sdsp09-010.pdf'
+  pages_count: 17
+  pages: '154-170'
+
+- id: 'sdsp09-011'
+  title: Márlio Raposo Dantas
+  subtitle: um arquiteto moderno e inovador muda o cenário da cidade de Santos/SP
   authors:
   - givenname: Flávia Neves
     familyname: Dantas
+    email: 'flaviandantas@gmail.com'
     affiliation: ''
-    email: flaviandantas@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-011.pdf
-  pages_count: 14
-  pages: 171-184
-  abstract: O objetivo deste trabalho é apresentar a obra do arquiteto Márlio Raposo Dantas, pernambucano radicado em Santos desde 1962, por meio de um recorte de sua vida e obra, destacando suas referências históricas. De formação modernista, Márlio teve influência da Escola Carioca nos anos 1960 quando frequentou a Faculdade Nacional de Arquitetura, no Rio de Janeiro. A partir de então desenvolve uma linguagem própria, utilizando o concreto aparente, técnica ainda praticamente inédita na região, que pode ser facilmente identificada em suas obras.
-  abstract_en: The objective of this work is to present the work of architect Márlio Raposo Dantas, from Pernambuco living in Santos since 1962, through an overview of his life and work, highlighting his historical references. With a modernist background, Márlio was influenced by the Carioca School in the 1960s when he attended the National Faculty of Architecture, in Rio de Janeiro. From then on, he developed his own language, using exposed concrete, a technique still practically unheard of in the region, which can be easily identified in his works.
+  abstract: 'O objetivo deste trabalho é apresentar a obra do arquiteto Márlio Raposo Dantas, pernambucano radicado em Santos desde 1962, por meio de um recorte de sua vida e obra, destacando suas referências históricas. De formação modernista, Márlio teve influência da Escola Carioca nos anos 1960 quando frequentou a Faculdade Nacional de Arquitetura, no Rio de Janeiro. A partir de então desenvolve uma linguagem própria, utilizando o concreto aparente, técnica ainda praticamente inédita na região, que pode ser facilmente identificada em suas obras.'
   keywords:
   - Márlio Raposo Dantas
   - Arquitetura Moderna
   - Arquitetura Santista
+  abstract_en: 'The objective of this work is to present the work of architect Márlio Raposo Dantas, from Pernambuco living in Santos since 1962, through an overview of his life and work, highlighting his historical references. With a modernist background, Márlio was influenced by the Carioca School in the 1960s when he attended the National Faculty of Architecture, in Rio de Janeiro. From then on, he developed his own language, using exposed concrete, a technique still practically unheard of in the region, which can be easily identified in his works.'
   keywords_en:
   - Márlio Raposo Dantas
   - Modern architecture
@@ -519,7 +603,7 @@ articles:
   - 'ALVES, Jaqueline Fernández, A ausência de historiografia sobre a arquitetura moderna santista. Revista Ceciliana - Edição especial Patrimônio Histórico, Santos, março 2012. Disponivel em: <http://sites.unisanta.br/revistaceciliana/index2.asp>. Acesso em: 16 julho 2012.'
   - 'CARTA de Atenas. IV Congresso Internacional de Arquitetura Moderna. CIAM.1933. Disponível em:http://portal.iphan.gov.br/uploads/ckfinder/arquivos/CartadeAtenas1933.pdf. Acesso em: 8 março 2012.'
   - 'CHOAY maço 2023., Françoise. A Alegoria do Patrimônio. São Paulo: Unesp, 2006.'
-  - CRUZ, Jefferson Alves, Márlio Raposo Dantas, arquiteto ao quadrado. TCC graduação em Jornalismo, Universidade Cruzeiro do Sul, São Paulo. SP. 2018.
+  - 'CRUZ, Jefferson Alves, Márlio Raposo Dantas, arquiteto ao quadrado. TCC graduação em Jornalismo, Universidade Cruzeiro do Sul, São Paulo. SP. 2018.'
   - 'CZARJKOWSKI, Jorge. Guia Da Arquitetura Moderna No Rio de Janeiro. Rio de Janeiro: Casa da Palavra, 2000. 210 p.'
   - 'HOMEM, Roberto. Senado e Brasília: construindo a História. Revista Senatus, Brasilia, v. 8, n. 1, p. 14, abril 2010. Disponivel em: <http://www.senado.gov.br/publicacoes/revistasenatus/ pdf/Senatus_Vol8_1.pdf>. Acesso em: 13 agosto 2012.'
   - 'MOURA, Éride. "Arquitetura é construção. O projeto é apenas um meio para se chegar ao produto". Projeto Design, São Paulo, n. 257, Julho 2001. Disponivel em: <http://http://www .arcoweb.com.br/entrevista/acacio-gil-borsoi-arquitetura-e-24-07-2001.html>.'
@@ -528,25 +612,29 @@ articles:
   - 'OZORES, Felipe. VIVA SANTOS, 2004. Disponível em: <http://www.vivasantos.com.br /05/05a.htm>. Acesso em: 17 julho 2012.'
   - 'RUSKIN, John. A Lâmpada da Memória. Cotia: Ateliê Editorial, 2008.'
   - 'ZEIN, Ruth Verde. ARQUITETURA PAULISTA BRUTALISTA: 1953-1973, 2009. Disponivel em: <http://www.arquiteturabrutalista.com.br/index1port.htm>. Acesso em: 13 agosto 2012.'
-- id: sdsp09-012
-  title: Documentação do projeto de Arquitetura, ensaio sobre a casa do arquiteto e artista Lineu Borges de Macedo
+  locale: 'pt-BR'
+  file: 'sdsp09-011.pdf'
+  pages_count: 14
+  pages: '171-184'
+
+- id: 'sdsp09-012'
+  title: 'Documentação do projeto de Arquitetura, ensaio sobre a casa do arquiteto e artista Lineu Borges de Macedo'
   authors:
   - givenname: Felipe Taroh Inoue
     familyname: Sanquetta
+    email: 'sem-email-2@example.com'
     affiliation: ''
-    email: sanquetta@usp.br
+    orcid: '0000-0003-4771-3588'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-012.pdf
-  pages_count: 15
-  pages: 185-199
-  abstract: Este artigo tem como finalidade documentar historicamente e analisar o projeto arquitetônico da residência do arquiteto paranaense Lineu Borges de Macedo, localizada na cidade de Curitiba. O projeto, realizado em 1962, ainda durante o período em que ele era estudante do recém-criado curso de Arquitetura e Urbanismo na Universidade Federal do Paraná, ganha relevância pelo seu caráter experimental, tanto em termos construtivos quanto projetuais, destacando-se pelo desenho, materialidade e conjunto de soluções. A organização da pesquisa se dá inicialmente por meio de uma introdução e do repertório do arquiteto, seguida pela análise descritiva do projeto. Por fim, são traçados paralelos entre as formas de representação que o arquiteto utilizou para registrar seu próprio projeto, incluindo o uso de imagens elaboradas por ele, como desenhos e fotografias tiradas durante a construção e inauguração, além de um ensaio fotográfico documental do estado atual do projeto.
-  abstract_en: This article aims to historically document and analyze the architectural design of the residence of Paraná architect Lineu Borges de Macedo, located in the city of Curitiba. The project, carried out in 1962 while he was still a student in the newly established Architecture and Urbanism course at the Federal University of Paraná, stands out for its experimental character in both construction and design, particularly in terms of its layout, materiality, and array of solutions. The research is organized initially through an introduction and an overview of the architect's background, followed by a descriptive analysis of the project. Finally, parallels are drawn between the forms of representation the architect used to document his own project, including images he created, such as drawings and photographs taken during the construction and inauguration, as well as a documentary photographic essay of the current state of the project.
+  abstract: 'Este artigo tem como finalidade documentar historicamente e analisar o projeto arquitetônico da residência do arquiteto paranaense Lineu Borges de Macedo, localizada na cidade de Curitiba. O projeto, realizado em 1962, ainda durante o período em que ele era estudante do recém-criado curso de Arquitetura e Urbanismo na Universidade Federal do Paraná, ganha relevância pelo seu caráter experimental, tanto em termos construtivos quanto projetuais, destacando-se pelo desenho, materialidade e conjunto de soluções. A organização da pesquisa se dá inicialmente por meio de uma introdução e do repertório do arquiteto, seguida pela análise descritiva do projeto. Por fim, são traçados paralelos entre as formas de representação que o arquiteto utilizou para registrar seu próprio projeto, incluindo o uso de imagens elaboradas por ele, como desenhos e fotografias tiradas durante a construção e inauguração, além de um ensaio fotográfico documental do estado atual do projeto.'
   keywords:
   - Casa do arquiteto
   - Lineu Borges de Macedo
   - Representações
+  abstract_en: 'This article aims to historically document and analyze the architectural design of the residence of Paraná architect Lineu Borges de Macedo, located in the city of Curitiba. The project, carried out in 1962 while he was still a student in the newly established Architecture and Urbanism course at the Federal University of Paraná, stands out for its experimental character in both construction and design, particularly in terms of its layout, materiality, and array of solutions. The research is organized initially through an introduction and an overview of the architect''s background, followed by a descriptive analysis of the project. Finally, parallels are drawn between the forms of representation the architect used to document his own project, including images he created, such as drawings and photographs taken during the construction and inauguration, as well as a documentary photographic essay of the current state of the project.'
   keywords_en:
   - Architect’s house
   - Lineu Borges de Macedo
@@ -555,83 +643,105 @@ articles:
   - 'BACHELARD, Gaston. Introdução – Imaginação e Mobilidade. In: O Ar e os sonhos – ensaio sobre a imaginação do movimento. São Paulo: Martins Fontes, 2009.'
   - 'BERGSON, Henri. O possível e o real. In: O Pensamento e o Movente. São Paulo: Martins Fontes, 2006.'
   - 'BERRIEL, Andrea & SUZUKI, Juliana Harumi. Memória do Arquiteto: Pioneiros da Arquitetura e do Urbanismo no Paraná. Curitiba: IAB-PR: Editora UFPR, 2012.'
-  - BERTOLI, Mariza. A Arte de Lineu Borges de Macedo. Edição da autora, 2007.
+  - 'BERTOLI, Mariza. A Arte de Lineu Borges de Macedo. Edição da autora, 2007.'
   - 'CASARES, Adolfo Bioy. A invenção de Morel. São Paulo: Cosac & Naify, 2006.'
   - 'HOFFMANN, Ernst Theodor Amadeus. O homem da areia. São Paulo: Ubu, 2023.'
   - 'MONTAIGNE, Michel de. A força da imaginação. In: Os Ensaios. São Paulo: Penguin, 2010.'
-  - PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980. 462f. Tese (Doutorado em Arquitetura) – Programa de Pós-Graduação em Arquitetura FAU-UFRS, Porto Alegre, 2010.
-- id: sdsp09-013
-  title: 'A casa modernista de Gregori Warchavchik da rua Santa Cruz: histórico, preservação e o atual abandono de um relevante patrimônio moderno nacional'
+  - 'PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980. 462f. Tese (Doutorado em Arquitetura) – Programa de Pós-Graduação em Arquitetura FAU-UFRS, Porto Alegre, 2010.'
+  locale: 'pt-BR'
+  file: 'sdsp09-012.pdf'
+  pages_count: 15
+  pages: '185-199'
+
+- id: 'sdsp09-013'
+  title: A casa Modernista de Gregori Warchavchik da rua Santa Cruz
+  subtitle: 'histórico, preservação e o atual abandono de um relevante Patrimônio Moderno nacional'
   authors:
   - givenname: Luísa
     familyname: Destefani
+    email: 'luisa18.pinheiro@gmail.com'
     affiliation: ''
-    email: luisa18.pinheiro@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: José Geraldo Simões
     familyname: Junior
+    email: 'josegeraldo.simoes@mackenzie.br'
     affiliation: ''
-    email: josegeraldo.simoes@Mackenzie.br
+    orcid: '0000-0002-2130-2134'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-013.pdf
-  pages_count: 15
-  pages: 200-214
-  abstract: A Casa Modernista situada na rua Santa Cruz, construída entre 1927 e 1928 por Gregori Warchavchik, tem sido abordada pela historiografia principalmente em relação à sua constituição original, inserida no contexto do desenvolvimento da arquitetura moderna no Brasil. O presente trabalho explora a trajetória histórica da obra, desde seus antecedentes até os dias atuais, por meio de revisões bibliográficas e análise de documentos históricos. A pesquisa adota uma perspectiva que integra as relações entre história e preservação da arquitetura moderna ressaltando a necessidade de ampliação das discussões em torno da preservação de obras modernas no Brasil. A Casa Modernista representa um processo de transição entre técnicas tradicionais e modernas, marcando uma fase essencial que ajudou a construir um caminho para o nascimento do que viria a ser reconhecido como o movimento arquitetônico moderno no país.
-  abstract_en: The Modernist House located on Santa Cruz Street, build between 1927 and 1928 by Gregori Warchavchik, has been primarily addressed in historiography in relation to its original composition, within the context of the development of modern architecture in Brazil. The current work explores the historical trajectory of the building, from its antecedents to the present day, through bibliographic reviews and analysis of historical documents. The research adopts a perspective that integrates the relationship between history and preservation of modern architecture, emphasizing the need to expand discussions about the presevation of modern works in Brazil. The Modernist House represents a transition process between traditional and modern techniques, marking an essential phase that helped pave the way for what would be recognized as the modern architectural movement in the country.
+  abstract: 'A Casa Modernista situada na rua Santa Cruz, construída entre 1927 e 1928 por Gregori Warchavchik, tem sido abordada pela historiografia principalmente em relação à sua constituição original, inserida no contexto do desenvolvimento da arquitetura moderna no Brasil. O presente trabalho explora a trajetória histórica da obra, desde seus antecedentes até os dias atuais, por meio de revisões bibliográficas e análise de documentos históricos. A pesquisa adota uma perspectiva que integra as relações entre história e preservação da arquitetura moderna ressaltando a necessidade de ampliação das discussões em torno da preservação de obras modernas no Brasil. A Casa Modernista representa um processo de transição entre técnicas tradicionais e modernas, marcando uma fase essencial que ajudou a construir um caminho para o nascimento do que viria a ser reconhecido como o movimento arquitetônico moderno no país.'
   keywords:
   - Gregori Warchavchik
   - Casa Modernista
   - Historiografia
+  abstract_en: 'The Modernist House located on Santa Cruz Street, build between 1927 and 1928 by Gregori Warchavchik, has been primarily addressed in historiography in relation to its original composition, within the context of the development of modern architecture in Brazil. The current work explores the historical trajectory of the building, from its antecedents to the present day, through bibliographic reviews and analysis of historical documents. The research adopts a perspective that integrates the relationship between history and preservation of modern architecture, emphasizing the need to expand discussions about the presevation of modern works in Brazil. The Modernist House represents a transition process between traditional and modern techniques, marking an essential phase that helped pave the way for what would be recognized as the modern architectural movement in the country.'
   keywords_en:
   - Gregori Warchavchik
   - Modernist House
   - Historiography
   references:
-  - CARRILHO, Marcos José. A restauração da Casa da rua Santa Cruz. Revista Eletrônica Vitruvius. Dez. 2010.
-  - CARRILHO, Marcos José. O lastimável estado da Casa Modernista transcorridos mais de vinte anos de seu tombamento. Revista Eletrônica Vitruvius. Jul, 2005.
-  - CARRILHO, Marcos José. Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Revista Eletrônica Vitruvius. Nov, 2000.
-  - DPH, Consulta do processo n° 6099.2023/0006171-0.
+  - 'CARRILHO, Marcos José. A restauração da Casa da rua Santa Cruz. Revista Eletrônica Vitruvius. Dez. 2010.'
+  - 'CARRILHO, Marcos José. O lastimável estado da Casa Modernista transcorridos mais de vinte anos de seu tombamento. Revista Eletrônica Vitruvius. Jul, 2005.'
+  - 'CARRILHO, Marcos José. Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Revista Eletrônica Vitruvius. Nov, 2000.'
+  - 'DPH, Consulta do processo n° 6099.2023/0006171-0.'
   - 'FERRAZ, Geraldo. Warchavchik e a Introdução da Nova Arquitetura no Brasil: 1925 a 1940. São Paulo: Editora Habitat, 1965.'
-  - 'INVAMOTO, DeNise. “Futuro pretérito: historiografia e preservação na obra de Gregori Warchavchik”. 2012. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2012.'
-  - IPHAN, Consulta do processo 0156.003209/2013-20 Projeto de restauro e readequação do Parque e Casa Modernista situado à Rua Santa Cruz n° 325 – Vila Mariana/SP Vol. I, II, III, V,
+  - 'INVAMOTO, Denise. “Futuro pretérito: historiografia e preservação na obra de Gregori Warchavchik”. 2012. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2012.'
+  - 'IPHAN, Consulta do processo 0156.003209/2013-20 Projeto de restauro e readequação do Parque e Casa Modernista situado à Rua Santa Cruz n° 325 – Vila Mariana/SP Vol. I, II, III, V,'
   - 'LIRA, José. Warchavchik: fraturas da vanguarda. São Paulo: Editora Cosac Naify, 2011.'
-- id: sdsp09-014
-  title: 'As casas contam histórias: a implantação da cidade de Timóteo em meados do século XX'
+  locale: 'pt-BR'
+  file: 'sdsp09-013.pdf'
+  pages_count: 15
+  pages: '200-214'
+
+- id: 'sdsp09-014'
+  title: As casas contam histórias
+  subtitle: a implantação da cidade de Timóteo em meados do século XX
   authors:
   - givenname: Fábio Azevedo
     familyname: Vasconcellos
+    email: 'fabiovasconcellos@cefetmg.br'
     affiliation: ''
-    email: fabiovasconcellos@cefetmg.br
+    orcid: '0000-0003-1823-7789'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Maria Júlia
     familyname: Cotta
+    email: 'cottamaju@gmail.com'
     affiliation: ''
-    email: cottamaju@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Felipe
     familyname: Moraes
+    email: 'felipefmoraes02@gmail.com'
     affiliation: ''
-    email: felipefmoraes02@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Larissa Sírio Coelho
     familyname: Penna
+    email: 'larissascpenna@gmail.com'
     affiliation: ''
-    email: larissascpenna@gmail.com
+    orcid: '0009-0009-1261-154X'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-014.pdf
-  pages_count: 13
-  pages: 215-227
-  abstract: Existe um entendimento, equivocado, de que cidades do século XX não possuem patrimônio histórico a ser preservado. Essas cidades possuem uma história muitas vezes desconhecida pelos próprios habitantes, o que dificulta a sensibilização sobre a importância da preservação patrimonial no próprio município. Essa situação acaba por favorecer agentes imobiliários, que apagam a memória local em nome de uma ‘’modernização urbana’’, a cidade de Timóteo, situada no leste de Minas Gerais, exemplifica essa realidade. Seu desenvolvimento, impulsionado pela urbanização promovida pela siderurgia no século XX, resultou em um traçado urbano específico e uma setorização que reforça divisões sociais, produzindo nesse processo uma arquitetura estratificada com diversas soluções, especialmente nas fachadas. Com o crescimento da cidade, muitos desses edifícios estão em vias de extinção, ou são encontrados em avançado estado de deterioração ou descaracterização. Portanto, esse artigo, desenvolvido a partir de um projeto de pesquisa no curso de Arquitetura e Urbanismo do CEFET-MG, Campus Timóteo, que visa apresentar um registro e análise das edificações remanescentes a fim de sensibilizar a população do município e promover a proteção desses patrimônios.
-  abstract_en: There is a mistaken belief that cities from the 20th century have no historical heritage worth preserving. These cities often have histories unknown to their own inhabitants, which hinders awareness of the importance of heritage preservation within the municipality. This situation ends up favoring real estate agents who erase local memory in the name of "urban modernization", and Timóteo exemplifies this reality. Its development, driven by urbanization promoted by the steel industry in the 20th century, resulted in a specific urban layout and zoning that reinforces social divisions, producing stratified architecture with various solutions, especially on facades. With the city's growth, many of these buildings are facing extinction, advanced deterioration, or disfigurement. Therefore, this article, developed from a research project in the Architecture and Urbanism course at CEFET-MG, Timóteo Campus, aims to present a record and analysis of the remaining buildings in order to raise awareness among the municipality's population and promote the protection of these heritage sites.
+  abstract: 'Existe um entendimento, equivocado, de que cidades do século XX não possuem patrimônio histórico a ser preservado. Essas cidades possuem uma história muitas vezes desconhecida pelos próprios habitantes, o que dificulta a sensibilização sobre a importância da preservação patrimonial no próprio município. Essa situação acaba por favorecer agentes imobiliários, que apagam a memória local em nome de uma ‘’modernização urbana’’, a cidade de Timóteo, situada no leste de Minas Gerais, exemplifica essa realidade. Seu desenvolvimento, impulsionado pela urbanização promovida pela siderurgia no século XX, resultou em um traçado urbano específico e uma setorização que reforça divisões sociais, produzindo nesse processo uma arquitetura estratificada com diversas soluções, especialmente nas fachadas. Com o crescimento da cidade, muitos desses edifícios estão em vias de extinção, ou são encontrados em avançado estado de deterioração ou descaracterização. Portanto, esse artigo, desenvolvido a partir de um projeto de pesquisa no curso de Arquitetura e Urbanismo do CEFET-MG, Campus Timóteo, que visa apresentar um registro e análise das edificações remanescentes a fim de sensibilizar a população do município e promover a proteção desses patrimônios.'
   keywords:
   - patrimônio histórico
   - sensibilização
   - preservação patrimonial
   - memória
+  abstract_en: 'There is a mistaken belief that cities from the 20th century have no historical heritage worth preserving. These cities often have histories unknown to their own inhabitants, which hinders awareness of the importance of heritage preservation within the municipality. This situation ends up favoring real estate agents who erase local memory in the name of "urban modernization", and Timóteo exemplifies this reality. Its development, driven by urbanization promoted by the steel industry in the 20th century, resulted in a specific urban layout and zoning that reinforces social divisions, producing stratified architecture with various solutions, especially on facades. With the city''s growth, many of these buildings are facing extinction, advanced deterioration, or disfigurement. Therefore, this article, developed from a research project in the Architecture and Urbanism course at CEFET-MG, Timóteo Campus, aims to present a record and analysis of the remaining buildings in order to raise awareness among the municipality''s population and promote the protection of these heritage sites.'
   keywords_en:
   - historical heritage
   - awareness
@@ -639,57 +749,69 @@ articles:
   - memory
   references:
   - 'BICCA, Briane Elisabeth Panitz; BICCA, Paulo Renato Silveira (orgs.) Arquitetura na Formação do Brasil. Brasília: UNESCO, Instituto do Patrimônio Histórico e Artístico Nacional, 2008.'
-  - BLAY, Eva. E não tenho onde morar. Nobel Editora, São Paulo, 1982.
+  - 'BLAY, Eva. E não tenho onde morar. Nobel Editora, São Paulo, 1982.'
   - 'FEBVRE, Lucien. Combats pour l’histoire. In: LE GOFF, Jacques. História e Memória: Tradução Bernardo Leitão. 5.ed. – Campinas, SP: Editora da Unicamp, 2003.'
   - 'NASCIMENTO, Flávia Brito do e SCIFONI, Simone. Lugares de memória: trabalho, cotidiano e moradia. Revista Memória em Rede, v. 7, n. 13, p. 69-82, 2015. Tradução. . Disponível em: https://doi.org/10.15210/rmr.v7i13.6306. Acesso em: 29 ago. 2024.'
   - 'QUECINI, Vanda Maria. Timóteo: O Legado Urbano de um Projeto Industrial. Tese de Doutorado – Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo - FAUUSP. São Paulo, 2007.'
   - 'TIMÓTEO. Prefeitura Municipal. Pontos turísticos. Disponível em: https://www.timoteo.mg.gov.br/14/pontos-turisticos. Acesso em: 24 maio 2024.'
   - 'TRAJANO FILHO, Francisco Sales. Arquiteturas e Estado no Brasil de Vargas (1930-1945). Registros, v. 14, n. 2, p. 71-87, 2018. Tradução. Disponível em: https://revistasfaud.mdp.edu.ar/registros/article/view/245. Acesso em: 29 ago. 2024.'
   - 'VASCONCELLOS, Fábio Azevedo. Arquitetura Religiosa e Poder: A manifestação do poder na arquitetura das igrejas do Século XVIII na Capitania de Minas Gerais no Brasil e em Portugal. 2022. 363 f. Tese (Doutorado em teoria e História da Arquitetura) - Faculdade de Arquitetura, Universidade de Lisboa, Lisboa, 2022.'
-- id: sdsp09-015
+  locale: 'pt-BR'
+  file: 'sdsp09-014.pdf'
+  pages_count: 13
+  pages: '215-227'
+
+- id: 'sdsp09-015'
   title: Arquitetura Moderna na praia – residências na praia de Pernambuco – Guarujá
   authors:
   - givenname: Maurício
     familyname: Azenha
+    email: 'arq.azenha@gmail.com'
     affiliation: ''
-    email: arq.azenha@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-015.pdf
-  pages_count: 15
-  pages: 228-242
-  abstract: O presente trabalho apresenta um estudo sobre casas projetadas na Praia de Pernambuco, Guarujá, dentro dos pressupostos da arquitetura moderna. Para tanto foram selecionadas oito residências projetadas em um período que vai de 1959 até 1989, por diversos arquitetos que balizaram sua produção dentro do que estudiosos de arquitetura brasileira classificam como “escola paulista”. O suporte ao estudo é feito a partir de uma leitura do município do Guarujá, desde a sua fundação, até a execução do loteamento da Praia de Pernambuco.
-  abstract_en: This paper presents a study of houses designed in Praia de Pernambuco, Guarujá, within the framework of modern architecture. To this end, eight houses were selected that were designed between 1959 and 1989 by various architects who based their production on what Brazilian architectural scholars classify as the “São Paulo school”. The study is supported by an analysis of the municipality of Guarujá, from its foundation to the construction of the Praia de Pernambuco subdivision.
+  abstract: 'O presente trabalho apresenta um estudo sobre casas projetadas na Praia de Pernambuco, Guarujá, dentro dos pressupostos da arquitetura moderna. Para tanto foram selecionadas oito residências projetadas em um período que vai de 1959 até 1989, por diversos arquitetos que balizaram sua produção dentro do que estudiosos de arquitetura brasileira classificam como “escola paulista”. O suporte ao estudo é feito a partir de uma leitura do município do Guarujá, desde a sua fundação, até a execução do loteamento da Praia de Pernambuco.'
+  abstract_en: 'This paper presents a study of houses designed in Praia de Pernambuco, Guarujá, within the framework of modern architecture. To this end, eight houses were selected that were designed between 1959 and 1989 by various architects who based their production on what Brazilian architectural scholars classify as the “São Paulo school”. The study is supported by an analysis of the municipality of Guarujá, from its foundation to the construction of the Praia de Pernambuco subdivision.'
   references:
-  - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1997.
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1997.'
   - 'DIAS, Maurício Azenha. Arquitetura Moderna na Praia - As Residências na Praia de Pernambuco, Guarujá. São Paulo: Editora Mackenzie, 2009.'
-  - SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo, EDUSP, 1999.
-  - SEGAWA, Hugo e DOURADO, Guilherme Massa. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997.
-- id: sdsp09-016
-  title: 'O Palácio Farroupilha: impacto das obras de Mies van der Rohe no projeto de Zolko, através das imagens'
+  - 'SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo, EDUSP, 1999.'
+  - 'SEGAWA, Hugo e DOURADO, Guilherme Massa. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997.'
+  locale: 'pt-BR'
+  file: 'sdsp09-015.pdf'
+  pages_count: 15
+  pages: '228-242'
+
+- id: 'sdsp09-016'
+  title: O Palácio Farroupilha
+  subtitle: 'impacto das obras de Mies van der Rohe no projeto de Zolko, através das imagens'
   authors:
   - givenname: Ricardo José Rossin de
     familyname: Oliveira
+    email: 'ricardorossin@gmail.com'
     affiliation: ''
-    email: ricardorossin@gmail.com
+    orcid: '0009-0007-5815-866X'
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Fernando Guillermo Vázquez
-    familyname: Ramos
+  - givenname: Fernando Guillermo
+    familyname: Vázquez Ramos
+    email: 'prof.vazquez@usjt.br'
     affiliation: ''
-    email: prof.vazquez@ulife.com.br
+    orcid: '0000-0003-3472-5598'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-016.pdf
-  pages_count: 11
-  pages: 243-253
-  abstract: Esta comunicação se debruça sobre as referências das obras de Mies van der Rohe, encontradas em duas das mais importantes revistas estadunidenses, The Architectural Forum e Architectural Record, entre os anos de 1950 e 1955, período em que Gregório Zolko cursava arquitetura na Universidade de Illinois, nos EUA. No entendido de que as imagens destas, à época, poderosas revistas de arquitetura, possam ter impressionado o futuro arquiteto, decantadas e, posteriormente, usadas por ele como referências imagéticas em um dos edifícios mais importante de sua carreira, o projeto do concurso do Palácio da Farroupilha (1958), projetado em colaboração com Wolfgang Schoedon, que trouxe para o Sul do Brasil, um projeto de linguagem miesiana, um ponto de inflexão na arquitetura local, que fugia das então conhecidas escolas carioca e paulista, tradicionalmente associadas à obra de Le Corbuiser.
-  abstract_en: This paper focuses on references to the works of Mies van der Rohe, found in two of the most important American magazines, The Architectural Forum, and Architectural Record, between the years 1950 and 1955, a period in which Gregório Zolko was studying architecture at the University of Illinois, in the USA. With the understanding that the images of this, at the time, powerful architecture magazines, may have impressed the future architect, decanted and, later, used by him as image references in one of the most important buildings of his career, the competition project for the Palácio da Farroupilha ( 1958), designed in collaboration with Wolfgang Schoedon, who brought to the South of Brazil, a Miesian language project, a turning point in local architecture, which deviated from the then-known Rio and São Paulo schools, traditionally associated with the work of Le Corbuiser.
+  abstract: 'Esta comunicação se debruça sobre as referências das obras de Mies van der Rohe, encontradas em duas das mais importantes revistas estadunidenses, The Architectural Forum e Architectural Record, entre os anos de 1950 e 1955, período em que Gregório Zolko cursava arquitetura na Universidade de Illinois, nos EUA. No entendido de que as imagens destas, à época, poderosas revistas de arquitetura, possam ter impressionado o futuro arquiteto, decantadas e, posteriormente, usadas por ele como referências imagéticas em um dos edifícios mais importante de sua carreira, o projeto do concurso do Palácio da Farroupilha (1958), projetado em colaboração com Wolfgang Schoedon, que trouxe para o Sul do Brasil, um projeto de linguagem miesiana, um ponto de inflexão na arquitetura local, que fugia das então conhecidas escolas carioca e paulista, tradicionalmente associadas à obra de Le Corbuiser.'
   keywords:
   - Gregório Zolko
   - Mies van der Rohe
   - Arquitetura moderna
+  abstract_en: 'This paper focuses on references to the works of Mies van der Rohe, found in two of the most important American magazines, The Architectural Forum, and Architectural Record, between the years 1950 and 1955, a period in which Gregório Zolko was studying architecture at the University of Illinois, in the USA. With the understanding that the images of this, at the time, powerful architecture magazines, may have impressed the future architect, decanted and, later, used by him as image references in one of the most important buildings of his career, the competition project for the Palácio da Farroupilha ( 1958), designed in collaboration with Wolfgang Schoedon, who brought to the South of Brazil, a Miesian language project, a turning point in local architecture, which deviated from the then-known Rio and São Paulo schools, traditionally associated with the work of Le Corbuiser.'
   keywords_en:
   - Gregório Zolko
   - Mies van der Rohe
@@ -697,34 +819,38 @@ articles:
   references:
   - 'COHEN, Jean-Louis. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac Naify, p. 152, 2013.'
   - 'EARLS, William D. The Harvard Five in New Canaan: Midcentury Modern Houses by Marcel Breuer, Landis Gores, John Johansen, Philip Johnson, Eliot Noyes & Others. New York: W. W. Norton, 2006.'
-  - KEIFER, Flávio; MAGLIA, Viviane Villas Boas. Refinaria Alberto Pasqualini – Entrevista com os autores. Caderno de Arquitetura Ritter dos Reis, Porto Alegre, n. 2, 2000.
+  - 'KEIFER, Flávio; MAGLIA, Viviane Villas Boas. Refinaria Alberto Pasqualini – Entrevista com os autores. Caderno de Arquitetura Ritter dos Reis, Porto Alegre, n. 2, 2000.'
   - 'LUCCAS, Luís Henrique Haas. Arquitetura moderna brasileira em Porto Alegre: sob o mito do "gênio artístico nacional". Tese (Doutorado em Arquitetura) – UFRGS. Porto Alegre, 2004.'
   - '2004. MACHADO, Andréa Soler. Palácio Farroupilha: uma reflexão sobre a monumentalidade moderna. In: SEMINÁRIO DOCOMOMO BRASIL. 9., 2009, Brasília. Anais do 9º Seminário Docomomo Brasil: Interdisciplinaridade e experiências em documentação e preservação do patrimônio recente. Brasília: Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, 2009. Disponível em: https://docomomobrasil.com/wp-content/uploads/2016/01/065_M10_RM- OPalacioFarroupilha-ART-_Andrea_Machado.pdf. Acesso em: 10 mai. 2024.'
   - 'MAHFUZ, Edson. Ordem, estrutura e perfeição no trópico. Mies van der Rohe e a arquitetura paulistana na segunda metade do século XX. Arquitextos, São Paulo, ano 05, n. 057.02, Vitruvius, fev. 2005. Disponíevel em: http://www.vitruvius.com.br/revistas/read/arquitextos/05.057/498. Acesso em: 10 mai. 2024.'
   - 'MACEDO, Ricardo. A influência de Mies van der Rohe na arquitetura paulista: 1950 a 1970. Dissertação (Dissertação de Mestrado). Universidade São Judas Tadeu. São Paulo, 2014.'
-  - MIES VAN DER ROHE, Ludwig. “Mies van der Rohe theater for Mannheim”. The Architectural Forum, New York, n. , p. 129-131, jul 1953.
-  - MIES VAN DER ROHE, Ludwig. “Architect & Client”. The Architectural Forum. New York, p. 93-111, nov. 1952.
-  - THE NEXT. “The next fifty years”. Architectural Forum. New York, p. 165-170, jun. 1951.
+  - 'MIES VAN DER ROHE, Ludwig. “Mies van der Rohe theater for Mannheim”. The Architectural Forum, New York, n. , p. 129-131, jul 1953.'
+  - 'MIES VAN DER ROHE, Ludwig. “Architect & Client”. The Architectural Forum. New York, p. 93-111, nov. 1952.'
+  - 'THE NEXT. “The next fifty years”. Architectural Forum. New York, p. 165-170, jun. 1951.'
   - 'ZOLKO, Gregório; GRUNOW, Evelise. Entrevista Gregório Zolko: a experiência profissional com Warchavchik e sobre a convivência com Wright e Mies van der Rohe. PROJETODESIGN, São Paulo, n. 346, p. 8-11, dez..2009. Disponível em: https://revistaprojeto.com.br/acervo/gregorio-zolko-em-entrevista-12-03-2009/. Acesso: 10 mai. 2024.'
-- id: sdsp09-017
+  locale: 'pt-BR'
+  file: 'sdsp09-016.pdf'
+  pages_count: 11
+  pages: '243-253'
+
+- id: 'sdsp09-017'
   title: O arquiteto Roberto Capello e o edifício SULACAP de Santos/SP
   authors:
   - givenname: Karine
     familyname: Arimateia
+    email: 'karinearimateia@gmail.com'
     affiliation: ''
-    email: karinearimateia@gmail.com
+    orcid: '0000-0002-1145-8258'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-017.pdf
-  pages_count: 13
-  pages: 254-266
-  abstract: Este artigo faz uma breve análise do edifício SULACAP localizado em Santos/SP, projetado pelo arquiteto Roberto Capello enquanto profissional responsável pela elaboraçao dos projetos arquitetônicos das sedes da empresa Sul América. A análise reflete sobre a representatividade desses edifícios no espaço urbano da cidade de Santos e no contexto da modernidade arquitetônica brasileira. Além disso, o artigo discorre sobre a trajetória profissional de Roberto Capello, arquiteto pouco referenciado na historiografia da arquitetura brasileira. Capello foi um arquiteto italiano que migrou para o Brasil no início do século XX, com a responsabilidade de coordenar o Departamento de Propriedades e Hypotecas da empresa Sul América, estruturado para a elaboração dos projetos arquitetônicos das novas sedes que a empresa viria a construir nas principais cidades brasileiras, como a sede SULACAP de Santos.
-  abstract_en: This article makes a brief analysis of the SULACAP building located in Santos/SP, designed by the architect Roberto Capello as the professional responsible for drawing up the architectural projects for the headquarters of the Sul América company. The analysis reflects on the representativeness of these buildings in the urban space of the city of Santos and in the context of Brazilian architectural modernity. In addition, the article discusses the professional career of Roberto Capello, an architect who is little referenced in the historiography of Brazilian architecture. Capello was an Italian architect who migrated to Brazil at the beginning of the 20th century with the responsibility of coordinating the Sul América company's Property and Hypothecary Department, which was structured to draw up the architectural projects for the new headquarters that the company would build in the main Brazilian cities, such as the SULACAP headquarters in Santos.
+  abstract: 'Este artigo faz uma breve análise do edifício SULACAP localizado em Santos/SP, projetado pelo arquiteto Roberto Capello enquanto profissional responsável pela elaboraçao dos projetos arquitetônicos das sedes da empresa Sul América. A análise reflete sobre a representatividade desses edifícios no espaço urbano da cidade de Santos e no contexto da modernidade arquitetônica brasileira. Além disso, o artigo discorre sobre a trajetória profissional de Roberto Capello, arquiteto pouco referenciado na historiografia da arquitetura brasileira. Capello foi um arquiteto italiano que migrou para o Brasil no início do século XX, com a responsabilidade de coordenar o Departamento de Propriedades e Hypotecas da empresa Sul América, estruturado para a elaboração dos projetos arquitetônicos das novas sedes que a empresa viria a construir nas principais cidades brasileiras, como a sede SULACAP de Santos.'
   keywords:
   - Arquitetura
   - Roberto Capello
   - SULACAP
+  abstract_en: 'This article makes a brief analysis of the SULACAP building located in Santos/SP, designed by the architect Roberto Capello as the professional responsible for drawing up the architectural projects for the headquarters of the Sul América company. The analysis reflects on the representativeness of these buildings in the urban space of the city of Santos and in the context of Brazilian architectural modernity. In addition, the article discusses the professional career of Roberto Capello, an architect who is little referenced in the historiography of Brazilian architecture. Capello was an Italian architect who migrated to Brazil at the beginning of the 20th century with the responsibility of coordinating the Sul América company''s Property and Hypothecary Department, which was structured to draw up the architectural projects for the new headquarters that the company would build in the main Brazilian cities, such as the SULACAP headquarters in Santos.'
   keywords_en:
   - Architecture
   - Roberto Capello
@@ -736,39 +862,47 @@ articles:
   - 'CAPELLO, Roberto. O Copacabana Palace Hotel. Revista Arquitetura e Urbanismo, Rio de Janeiro: Instituto dos Arquitetos do Brasil (IAB) jul./ ago. 1936. p. 17.'
   - 'DUTRA, Ligia Maria Comis. Estudo simplificado da evolução da legislação urbanística no Município de Santos. In: Anais do XV Congresso Nacional do CONPEDI, 2007, Manaus/AM. Anais do XV Congresso Nacional do CONPEDI. Florianópolis: Fundação BOITEUX.'
   - 'FINOCHIO, Carlos. Santos do século XX: trajetória da arquitetura e urbanismo. WebArtigos, 2011. Disponível em: <http://www.webartigos.com/artigos/santos-do-seculo-xx-trajetoria-da- arquitetura-e-urbanismo/64802/>. Acesso em 2 out. 2014.'
-  - GREGOTTI, Vittorio. Nuevos Caminos de La Arquitectura Italiana. Editorial Blume. Barcelona, 1969. 128p.
+  - 'GREGOTTI, Vittorio. Nuevos Caminos de La Arquitectura Italiana. Editorial Blume. Barcelona, 1969. 128p.'
   - 'MINAYO, M. C. Ciência, técnica e arte: o desafio da Pesquisa Social. In: Pesquisa social: teoria, método e criatividade. Petrópolis: Vozes, 2001, p. 09-30.'
   - 'MELLO, G. A modernização de Santos no século XIX: mudanças espaciais e da sociabilidade urbana no centro velho. 2008. Dissertação (Mestrado em Arquitetura) – Faculdade de Filosofia, Letras e Ciências humanas, Universidade de São Paulo, São Paulo, 2008.'
   - 'PRELADOS Illustres, um senador argentino e outros passageiros de destaque. Correio da Manhã, Rio de Janeiro, p.6., 14 de agosto de 1929, Ed. n. 10620. Disponível em <http://bndigital.bn.br/hemeroteca-digital > Acesso em: 28 fev. 2018.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2014.'
   - 'TOGNON, M.. Arquitetura Italiana no Brasil - a obra de Marcello Piacentini. 01. ed. Campinas: Editora da Unicamp, 2000. v. 01. 276p.'
-  - VIAJANTES. Jornal do Commercio. Rio de Janeiro, p.11, 15 de novembro de 1931, Ed. n. 00237.
+  - 'VIAJANTES. Jornal do Commercio. Rio de Janeiro, p.11, 15 de novembro de 1931, Ed. n. 00237.'
   - 'ZEIN, R. V. Há que se ir às coisas: revendo as obras. In: ROCHA, G.; BRONSTEIN, L.;'
   - 'OLIVEIRA, B. S.; LASSANCE, G.. (Org.). Leituras em Teoria da Arquitetura 3. Objetos. Rio de Janeiro: Riobooks, 2011, v. 3, p. 198-218.'
-- id: sdsp09-018
-  title: 'O purgatório de Juscelino: Niemeyer e o luto popular no Memorial JK'
+  locale: 'pt-BR'
+  file: 'sdsp09-017.pdf'
+  pages_count: 13
+  pages: '254-266'
+
+- id: 'sdsp09-018'
+  title: O purgatório de Juscelino
+  subtitle: Niemeyer e o luto popular no memorial JK
   authors:
   - givenname: Jonathan de Almeida
     familyname: Amaral
+    email: 'jonathanamaral99@gmail.com'
     affiliation: ''
-    email: jonathanamaral99@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: André Augusto de Almeida
     familyname: Alves
+    email: 'alves@exemplo.com'
     affiliation: ''
-    email: aaaalves@uem.br
+    orcid: '0000-0001-7953-9372'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-018.pdf
-  pages_count: 13
-  pages: 267-279
-  abstract: A aproximação moderna pós Revolução Industrial sobre os temas do luto e da morte é caracterizada por um progressivo distanciamento simbólico e espacial, onde busca-se fugir de sua inevitabilidade e afastando-a do pensamento, atitude que é expressa claramente quando se observa a evolução dos espaços funerários e da arquitetura tumular no Brasil. Entretanto, no Memorial JK, percebe-se uma subversão dessa visão moderna, a partir, primeiramente, do aspecto popular que envolve sua criação e depois pela interpretação de Oscar Niemeyer sobre os temas do luto e da morte. Tanto no túmulo da família Kubitschek, quanto no Memorial JK, as obras demonstram grande sensibilidade no engrandecimento do morrer em sua arquitetura.
-  abstract_en: The post-Industrial Revolution modern approach to the themes of mourning and death is characterized by a progressive symbolic and spatial distancing, where an attempt is made to escape its inevitability by removing it from thought, attitude that is clearly expressed when observing the evolution of funerary spaces and tomb architecture in Brazil. However, in the JK Memorial, we can see a subversion of this modern vision, firstly, from the popular aspect surrounding its creation and then from Oscar Niemeyer's interpretation of the themes of mourning and death. Both in the Kubitschek family tomb and in the Memorial JK, the works show great sensitivity in enhancing death in his architecture.
+  abstract: 'A aproximação moderna pós Revolução Industrial sobre os temas do luto e da morte é caracterizada por um progressivo distanciamento simbólico e espacial, onde busca-se fugir de sua inevitabilidade e afastando-a do pensamento, atitude que é expressa claramente quando se observa a evolução dos espaços funerários e da arquitetura tumular no Brasil. Entretanto, no Memorial JK, percebe-se uma subversão dessa visão moderna, a partir, primeiramente, do aspecto popular que envolve sua criação e depois pela interpretação de Oscar Niemeyer sobre os temas do luto e da morte. Tanto no túmulo da família Kubitschek, quanto no Memorial JK, as obras demonstram grande sensibilidade no engrandecimento do morrer em sua arquitetura.'
   keywords:
   - arquitetura funerária moderna
   - Oscar Niemeyer
   - Memorial JK
+  abstract_en: 'The post-Industrial Revolution modern approach to the themes of mourning and death is characterized by a progressive symbolic and spatial distancing, where an attempt is made to escape its inevitability by removing it from thought, attitude that is clearly expressed when observing the evolution of funerary spaces and tomb architecture in Brazil. However, in the JK Memorial, we can see a subversion of this modern vision, firstly, from the popular aspect surrounding its creation and then from Oscar Niemeyer''s interpretation of the themes of mourning and death. Both in the Kubitschek family tomb and in the Memorial JK, the works show great sensitivity in enhancing death in his architecture.'
   keywords_en:
   - modern funeral architecture
   - Oscar Niemeyer
@@ -789,46 +923,54 @@ articles:
   - 'MOTTA, Antônio. À flor da pedra: Formas tumulares e processos sociais nos cemitérios brasileiros. Pernambuco: Massangana, 2012.'
   - 'NIEMEYER, Oscar. O documento do arquiteto. Revista Módulo. Rio de Janeiro: Avenir Editora, 1980, Vol. 7, pp. 3. Disponível em: <https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=006173&Pesq=memorial&pagfis=6409 >. Acesso em: 12 jun. 2024.'
   - 'NO túmulo 35.666, última morada de JK. Correio Braziliense do Distrito Federal, Brasília, n. 4979, 24 ago. 1976, p. 10. Disponível em: <https://memoria.bn.gov.br/DocReader/DocReader.aspx?bib=028274_02&Pesq=35.666&pagfis=782 62>. Acesso em: 11 jun. 2024.'
-  - 'FUNDAÇÃO Oscar Niemeyer. Memorial JK - 1º projeto. Disponível em: <https://www.oscarNiemeyer.org.br/obra/pro365>. Acesso em: 12 jun. 2024.'
-- id: sdsp09-019
-  title: 'A verticalização na cidade de São Vicente-SP nos anos de 1950 e 1960: o edifício Marahú, 1959, de Lauro da Costa Lima'
+  - 'FUNDAÇÃO Oscar Niemeyer. Memorial JK - 1º projeto. Disponível em: <https://www.oscarniemeyer.org.br/obra/pro365>. Acesso em: 12 jun. 2024.'
+  locale: 'pt-BR'
+  file: 'sdsp09-018.pdf'
+  pages_count: 13
+  pages: '267-279'
+
+- id: 'sdsp09-019'
+  title: 'A verticalização na cidade de São Vicente-SP nos anos de 1950 e 1960'
+  subtitle: 'o edifício Marahú, 1959, de Lauro da Costa Lima'
   authors:
   - givenname: Helena Aparecida Ayoub
     familyname: Silva
+    email: 'silva@exemplo.com'
     affiliation: ''
-    email: lena.ayoub@usp.br
+    orcid: '0000-0001-5145-5900'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Ricardson Ferreira
     familyname: Ricardo
+    email: 'ricardo.rf@usp.br'
     affiliation: ''
-    email: ricardo.rf@usp.br
+    orcid: '0009-0005-5548-2048'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-019.pdf
-  pages_count: 15
-  pages: 280-294
-  abstract: Este artigo apresenta como tema o processo de verticalização da cidade de São Vicente, SP nos anos de 1950 e 1960. O contexto é de crescimento urbano da cidade, que coincide com um momento singular da produção arquitetônica atrelada ao desenvolvimento do mercado imobiliário nacional, sob essa ótica, é evidenciado a materialização das transformações dos aspectos formais da cultura e do espaço. Objetiva-se por intermédio das obras do engenheiroarquiteto Lauro da Costa Lima (1917-2006), esboçar as relações entre arquitetura e cidade, bem como seus rebatimentos no ambiente construído em meio a dualidade do morar moderno da capital e litoral paulista. Para tanto, em meio a exemplares da produção de Costa Lima, no recorte espacial citado, o estudo apoia-se na análise do Edifício Marahú, 1959.
-  abstract_en: This article presents as its theme the process of verticalization of the city of São Vicente, SP in the 1950s and 1960s. The context is one of urban growth of the city, which coincides with a singular moment of architectural production linked to the development of the national real estate market, from this perspective, the materialization of the transformations of the formal aspects of culture and space is evidenced. Through the works of the engineer-architect Lauro da Costa Lima (1917-2006), the objective is to outline the relations between architecture and the city, as well as their repercussions in the built environment in the midst of the duality of modern living in the capital and coast of São Paulo. To this end, in the midst of examples of Costa Lima's production, in the aforementioned spatial clipping, the study is based on the analysis of the Marahú Building,
+  abstract: 'Este artigo apresenta como tema o processo de verticalização da cidade de São Vicente, SP nos anos de 1950 e 1960. O contexto é de crescimento urbano da cidade, que coincide com um momento singular da produção arquitetônica atrelada ao desenvolvimento do mercado imobiliário nacional, sob essa ótica, é evidenciado a materialização das transformações dos aspectos formais da cultura e do espaço. Objetiva-se por intermédio das obras do engenheiroarquiteto Lauro da Costa Lima (1917-2006), esboçar as relações entre arquitetura e cidade, bem como seus rebatimentos no ambiente construído em meio a dualidade do morar moderno da capital e litoral paulista. Para tanto, em meio a exemplares da produção de Costa Lima, no recorte espacial citado, o estudo apoia-se na análise do Edifício Marahú, 1959.'
   keywords:
   - Lauro da Costa Lima
   - Edifício Marahú
   - São Vicente
   - SP
+  abstract_en: 'This article presents as its theme the process of verticalization of the city of São Vicente, SP in the 1950s and 1960s. The context is one of urban growth of the city, which coincides with a singular moment of architectural production linked to the development of the national real estate market, from this perspective, the materialization of the transformations of the formal aspects of culture and space is evidenced. Through the works of the engineer-architect Lauro da Costa Lima (1917-2006), the objective is to outline the relations between architecture and the city, as well as their repercussions in the built environment in the midst of the duality of modern living in the capital and coast of São Paulo. To this end, in the midst of examples of Costa Lima''s production, in the aforementioned spatial clipping, the study is based on the analysis of the Marahú Building,'
   keywords_en:
   - Lauro da Costa Lima
   - Marahú Building
   - São Vicente
   - SP
   references:
-  - ACRÓPOLE. Edifício Icaraí. 143. São Paulo, Acrópole, n. 143, p.282-283. mar. 1953.
-  - ___ . Edifício Mainumbi. São Paulo, Acrópole, n. 204. p.558-560, out. 1955.
-  - ___ . Edifício de Marahu. São Paulo, Acrópole, n. 278. p.57-58, jan. 1962.
+  - 'ACRÓPOLE. Edifício Icaraí. 143. São Paulo, Acrópole, n. 143, p.282-283. mar. 1953.'
+  - '___ . Edifício Mainumbi. São Paulo, Acrópole, n. 204. p.558-560, out. 1955.'
+  - '___ . Edifício de Marahu. São Paulo, Acrópole, n. 278. p.57-58, jan. 1962.'
   - 'ALVES, Jaqueline Fernández. Arquitetura à Beira Mar: Santos entre 1930 a 1970. Dissertação de Mestrado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2000.'
-  - ANELLI, Renato; GUERRA, Abilio; KON, Nelson. Rino Levi, Arquitetura e Cidade. 2ª edição. São Paulo, Romano Guerra, 2019.
-  - BEDOLINI, Alessandra Castelo Branco. Uma reflexão sobre a materialidade da arquitetura brasileira. Tese de Doutorado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2019.
+  - 'ANELLI, Renato; GUERRA, Abilio; KON, Nelson. Rino Levi, Arquitetura e Cidade. 2ª edição. São Paulo, Romano Guerra, 2019.'
+  - 'BEDOLINI, Alessandra Castelo Branco. Uma reflexão sobre a materialidade da arquitetura brasileira. Tese de Doutorado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2019.'
   - 'BARBOSA, Gino Caldatto; FRANCO, Ruy Debs. Oswaldo Corrêa Gonçalves, Arquiteto Cidadão. São Paulo: Sesc São Paulo, 2021.'
-  - CABIANCA, M. A. de A.; SOUZA, L. H. de. A Cultura de Veraneio e a produção do espaço da Região Metropolitana da Baixada Santista (São Paulo, Brasil). Turismo & Sociedade, Revista | UFPR. v10, n.1. Curitiba, p.1-20, jan. 2017.
+  - 'CABIANCA, M. A. de A.; SOUZA, L. H. de. A Cultura de Veraneio e a produção do espaço da Região Metropolitana da Baixada Santista (São Paulo, Brasil). Turismo & Sociedade, Revista | UFPR. v10, n.1. Curitiba, p.1-20, jan. 2017.'
   - 'COSTA, Sabrina Studart Fontenele. Edifícios Modernos e o Traçado Urbano no Centro de São Paulo. 1938-1960. São Paulo: Annablume, 2015.'
   - 'COSTA, Sabrina Studart Fontenele. Modos de morar nos apartamentos Duplex: Rastros de Modernidade. São Paulo: Ateliê Editorial; Apoio FAPESP, 2021.'
   - 'COSTA LIMA, Lauro da. Curriculum Vitae. São Paulo, 13 ago 1987. Cortesia: Victor Nosek.'
@@ -838,7 +980,7 @@ articles:
   - 'GAVAZZI, Matteo. Três assinaturas para um prédio único. Estadão, [s. l.], 14 jul. 2017. Disponível em: <https://emais.estadao.com.br/blogs/arqui-achados/tres- assinaturas-para-um- predio-especial>'
   - 'HERBST, Hélio. Pelos salões das bienais, a arquitetura ausente dos manuais: expressões da arquitetura brasileira expostas nas bienais paulistanas (1951-1959). Tese de Doutorado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2007.'
   - 'NASCIMENTO, F.; SCIFONI, S. A paisagem cultural como novo paradigma para a proteção: a experiência do Vale do Ribeira- SP. Revista CPC, n. 10, p.29-48, 1 out. 2010.'
-  - NOTO, Felipe de Souza. O quarteirão como suporte da transformação urbana de São Paulo. Tese de Doutorado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2017.
+  - 'NOTO, Felipe de Souza. O quarteirão como suporte da transformação urbana de São Paulo. Tese de Doutorado - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2017.'
   - 'PREFEITURA MUNICIPAL DE SÃO VICENTE. Institui o Código de obras do Município de São Vicente e dá outras providências: Lei n. 406, de 1 de setembro de 1956. São Vicente, 1956.'
   - 'QUEIROZ, Rodrigo. Forma moderna e cidade: a arquitetura de Oscar Niemeyer no centro de São Paulo. Arquitextos, São Paulo, ano 13, n. 151.08, Vitruvius, dez. 2012 <www.vitruvius.com.br/revistas/read/arquitextos/13.151/4632>.'
   - 'RIBEIRO, Rafael Novaes de Athayde. Lauro da Costa Lima: Uma biografia profissional. Iniciação Científica – Universidade Presbiteriana Mackenzie. São Paulo, 2021.'
@@ -846,25 +988,30 @@ articles:
   - 'SANTOS, Milton. Por uma geografia nova. São Paulo: Hucitec, 1978.'
   - 'SANTOS, Milton. Pensando o espaço do homem. São Paulo: Edusp, 2004.'
   - 'SOMEKH, Nadia. A cidade vertical e o urbanismo modernizador. São Paulo: Mackenzie, 2014.'
-- id: sdsp09-020
-  title: 'Terminal Princesa Isabel: reflexões acerca de sua preservação'
+  locale: 'pt-BR'
+  file: 'sdsp09-019.pdf'
+  pages_count: 15
+  pages: '280-294'
+
+- id: 'sdsp09-020'
+  title: Terminal princesa Isabel
+  subtitle: reflexões acerca de sua preservação
   authors:
   - givenname: Denis
     familyname: Ferri
+    email: 'denis@trivio.arq.br'
     affiliation: ''
-    email: denis@trivio.arq.br
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-020.pdf
-  pages_count: 15
-  pages: 295-309
-  abstract: Este artigo oferece uma análise do Terminal Princesa Isabel em São Paulo, enfatizando sua significância histórica e cultural como infraestrutura urbana, e discute os impactos potenciais de sua desativação. Inaugurado em 1997, o terminal é uma peça fundamental na rede de transporte coletivo da cidade. Projetado por João Walter e Odiléia Toscano, o terminal é um exemplo da arquitetura moderna paulista, caracterizada por suas coberturas leves e integração harmoniosa com o ambiente urbano. O estudo contextualiza o Terminal dentro da evolução dos terminais de ônibus e visa aprofundar o debate sobre o patrimônio rodoviário, criticando os planos de desativação do terminal como parte de esforços de revitalização urbana. Destaca-se o potencial impacto da perda desse marco arquitetônico na identidade cultural da cidade, ressaltando a importância de políticas públicas que valorizem e preservem seu patrimônio arquitetônico e cultural em face de novos projetos urbanos.
-  abstract_en: The article offers a detailed analysis of the Terminal Princesa Isabel in São Paulo, emphasizing its historical and cultural significance as urban infrastructure and discussing the potential impacts of its deactivation. Inaugurated in 1997, the terminal is a fundamental piece of the city's public transportation network. Designed by João Walter and Odiléia Toscano, the terminal is an example of modern Paulista architecture, characterized by its lightweight coverings and harmonious integration with the urban environment. The study contextualizes the terminal within the evolution of urban bus terminals and aims to deepen the debate on road heritage, criticizing the plans to deactivate the terminal as part of urban revitalization efforts. It highlights the potential impact of losing this architectural landmark on the city's cultural identity, underscoring the importance of public policies that value and preserve its architectural and cultural heritage in the face of new urban projects.
+  abstract: 'Este artigo oferece uma análise do Terminal Princesa Isabel em São Paulo, enfatizando sua significância histórica e cultural como infraestrutura urbana, e discute os impactos potenciais de sua desativação. Inaugurado em 1997, o terminal é uma peça fundamental na rede de transporte coletivo da cidade. Projetado por João Walter e Odiléia Toscano, o terminal é um exemplo da arquitetura moderna paulista, caracterizada por suas coberturas leves e integração harmoniosa com o ambiente urbano. O estudo contextualiza o Terminal dentro da evolução dos terminais de ônibus e visa aprofundar o debate sobre o patrimônio rodoviário, criticando os planos de desativação do terminal como parte de esforços de revitalização urbana. Destaca-se o potencial impacto da perda desse marco arquitetônico na identidade cultural da cidade, ressaltando a importância de políticas públicas que valorizem e preservem seu patrimônio arquitetônico e cultural em face de novos projetos urbanos.'
   keywords:
   - patrimônio rodoviário
   - terminal de ônibus urbano
   - tipologia arquitetônica
+  abstract_en: 'The article offers a detailed analysis of the Terminal Princesa Isabel in São Paulo, emphasizing its historical and cultural significance as urban infrastructure and discussing the potential impacts of its deactivation. Inaugurated in 1997, the terminal is a fundamental piece of the city''s public transportation network. Designed by João Walter and Odiléia Toscano, the terminal is an example of modern Paulista architecture, characterized by its lightweight coverings and harmonious integration with the urban environment. The study contextualizes the terminal within the evolution of urban bus terminals and aims to deepen the debate on road heritage, criticizing the plans to deactivate the terminal as part of urban revitalization efforts. It highlights the potential impact of losing this architectural landmark on the city''s cultural identity, underscoring the importance of public policies that value and preserve its architectural and cultural heritage in the face of new urban projects.'
   keywords_en:
   - road heritage
   - urban bus terminal
@@ -873,8 +1020,8 @@ articles:
   - 'ARGAN, Giulio Carlo. Sobre a Tipologia em Arquitetura. In: NESBITT, Kate. Uma Nova Agenda para a Arquitetura: antologia teórica (1965-1995). Tradução Vera Pereira. 2ª ed. rev. São Paulo: Cosac Naify, 2010.'
   - 'ARTIGAS, Rosa (org.) João Walter Toscano. São Paulo: Ed. UNESP, Takano, 2002.'
   - 'BRASIL. Ministério Das Cidades – M.C.; INSTITUTE FOR TRANSPORTATION & DEVELOPMENT POLICY - ITDP. Manual de BRT - Bus Rapid Transit: guia de planejamento. Brasília: M.C.; Nova Iorque; ITDP, 2008.'
-  - CANDIDO, Cléber; LOPES, Marcel; BITAR, Renata. Tarcísio vai transferir Terminal Princesa Isabel, desapropriar 230 imóveis e erguer 12 prédios para nova sede do governo no Centro. G1, São Paulo, 27 mar. 2024. Disponível em <https://g1.globo.com/sp/sao- paulo/noticia/2024/03/27/tarcisio-vai-transferir-o-terminal-princesa-isabel-desapropriar-230-
-  - imoveis-e-construir-12-predios-para-nova-sede-do-governo-de-sp.ghtm>l. Acessado em 15 jun. 2024.
+  - 'CANDIDO, Cléber; LOPES, Marcel; BITAR, Renata. Tarcísio vai transferir Terminal Princesa Isabel, desapropriar 230 imóveis e erguer 12 prédios para nova sede do governo no Centro. G1, São Paulo, 27 mar. 2024. Disponível em <https://g1.globo.com/sp/sao- paulo/noticia/2024/03/27/tarcisio-vai-transferir-o-terminal-princesa-isabel-desapropriar-230-'
+  - 'imoveis-e-construir-12-predios-para-nova-sede-do-governo-de-sp.ghtm>l. Acessado em 15 jun. 2024.'
   - 'COLQUHOUN, Alan. Tipologia e Metodologia de Projeto. In: NESBITT, Kate. Uma Nova Agenda para a Arquitetura: antologia teórica (1965-1995). Tradução Vera Pereira. 2ª ed rev. São Paulo: Cosac Naify, 2010.'
   - 'FERRI, Denis. O terminal de ônibus urbano e a estrutura da cidade: análise da formação tipológica dos terminais e seu papel na estruturação da cidade de São Paulo. Dissertação de mestrado. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2018.'
   - 'FRANCO, Fernando de Mello. A Construção do Caminho: a estruturação da metrópole pela conformação técnica das várzeas e planícies fluviais da Bacia de São Paulo. Tese de doutoramento: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2005.'
@@ -882,40 +1029,54 @@ articles:
   - 'PEREIRA, Diogo Mondini. Rodoviárias no Brasil nas décadas de 1960 e 1970: representações e imaginários de um país moderno. Dissertação de mestrado. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2020.'
   - 'PREFEITURA MUNICIPAL DE SÃO PAULO – PMSP; SECRETARIA MUNICIPAL DE TRANSPORTES - SMT. São Paulo Interligado – O Plano de Transporte Público Urbano em Implantação na Gestão 2001 – 2004. São Paulo: SMT, 2004.'
   - 'SILVEIRA, Tacito Pio. A Questão Metropolitana: Inventário de Planos de Transporte Coletivo em São Paulo. In: 18° Congresso Brasileiro de Transporte e Trânsito, 2011, Rio de Janeiro. Biblioteca de trabalhos apresentados no 18° Congresso da ANTP, 2011.'
-- id: sdsp09-021
-  title: 'Casa de Saúde Anchieta: preservação do patrimônio histórico-cultural santista e resgate à memória'
+  locale: 'pt-BR'
+  file: 'sdsp09-020.pdf'
+  pages_count: 15
+  pages: '295-309'
+
+- id: 'sdsp09-021'
+  title: Casa de saúde anchieta
+  subtitle: 'preservação do Patrimônio Histórico-cultural santista e resgate à memória'
   authors:
   - givenname: Daniela Colin
     familyname: Lima
+    email: 'daniela.colin@usf.edu.br'
     affiliation: ''
-    email: daniela.colin@usf.edu.br
+    orcid: '0000-0001-5368-8847'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Amanda
     familyname: Guerra
+    email: 'amanndaguerra@gmail.com'
     affiliation: ''
-    email: amanndaguerra@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: André Jost
     familyname: Mafra
+    email: 'andrejostmafra44@gmail.com'
     affiliation: ''
-    email: andrejostmafra44@gmail.com
+    orcid: '0000-0002-8115-0902'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Jean Pierre de Moraes
     familyname: Crété
+    email: 'jean.pierre@athisnabaixada.com'
     affiliation: ''
-    email: jean.pierre@athisnabaixada.com
+    orcid: '0000-0002-4378-2087'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-021.pdf
-  pages_count: 15
-  pages: 310-324
   abstract: 'O projeto “Formação e Produção para Preservação de Patrimônio Histórico-Cultural: Resgate à Memória” foi realizado pelo coletivo ATHIS na Baixada – AnB, em parceria com a Associação Cultural José Martí e com fomento do CAU/SP, tendo como objetivo a elaboração de uma proposta de restauro e reabilitação do imóvel de interesse histórico-cultural da antiga Casa de Saúde Anchieta, considerada, à época de sua construção, em 1953, um dos maiores e mais modernos hospitais psiquiátricos da América do Sul. Localizado em Santos/SP, o edifício abriga a Comunidade Anchieta, uma ocupação de 70 famílias que ali moram há mais de 20 anos e, há 10 anos, movem uma ação de usucapião coletiva na justiça. As atividades consistiram na realização de aulas teóricas e práticas, nas quais foram aplicadas metodologias para o resgate da memória através da pesquisa histórica, levantamento cadastral e fotográfico, caracterização topológica, cronologia construtiva, mapeamento de danos, relatório de conservação e proposta de intervenção no edifício, que representa um marco na luta antimanicomial, por ter sido a primeira intervenção do gênero no país, realizada em 1989.'
-  abstract_en: 'The project “Training and Production for the Preservation of Historical-Cultural Heritage: Rescue of Memory” was carried out by the collective “ATHIS na Baixada – AnB” in partnership with the “Associação Cultural José Martí” and supported by the CAU/SP, with the objective being the elaboration of a proposal for the restoration and rehabilitation of the property of historical and cultural interest of the former “Casa de Saúde Anchieta”, considered at the time of its construction, in 1953, as one of the largest and most modern psychiatric hospitals in South America. Located in Santos/SP, the building houses the Anchieta Community, an occupation of 70 families who have lived in the building for over 20 years and who have been promoting a collective adverse possession action for 10 years, which is being processed in court. The activities consisted of theoretical and practical classes, in which methodologies were applied to rescue memory through historical research, cadastral and photographic surveys, topological characterization, construction chronology, damage mapping, conservation report and proposal for intervention in the building that represents a milestone in the anti-asylum struggle, as it was the first intervention of its kind in the country, carried out in 1989.'
   keywords:
   - reabilitação
   - habitação social
   - ATHIS
+  abstract_en: 'The project “Training and Production for the Preservation of Historical-Cultural Heritage: Rescue of Memory” was carried out by the collective “ATHIS na Baixada – AnB” in partnership with the “Associação Cultural José Martí” and supported by the CAU/SP, with the objective being the elaboration of a proposal for the restoration and rehabilitation of the property of historical and cultural interest of the former “Casa de Saúde Anchieta”, considered at the time of its construction, in 1953, as one of the largest and most modern psychiatric hospitals in South America. Located in Santos/SP, the building houses the Anchieta Community, an occupation of 70 families who have lived in the building for over 20 years and who have been promoting a collective adverse possession action for 10 years, which is being processed in court. The activities consisted of theoretical and practical classes, in which methodologies were applied to rescue memory through historical research, cadastral and photographic surveys, topological characterization, construction chronology, damage mapping, conservation report and proposal for intervention in the building that represents a milestone in the anti-asylum struggle, as it was the first intervention of its kind in the country, carried out in 1989.'
   keywords_en:
   - retrofit
   - social housing
@@ -925,47 +1086,61 @@ articles:
   - 'CAETANO, J.P.O. Anchieta 95: novo abrigo, mesma memória. 2023. Monografia (bacharelado em Arquitetura e Urbanismo) -Curso de Arquitetura e Urbanismo, Universidade Paulista. Santos, 80 páginas, 2023.'
   - 'CASA DE SAÚDE ANCHIETA. Dentro de poucos dias será inaugurado em Santos o maior e mais moderno hospital particular da América do Sul. A Tribuna, Santos, p. 5, 1º mai. 1953. Disponível em: <http://www.novomilenio.inf.br/santos/h0260r1.htm>. Acesso em: 14 jun. 2024.'
   - 'CAU/SP. Manual de Orientação Profissional: O Arquiteto e Urbanista e o Patrimônio Cultural. São Paulo: Conselho de Arquitetura e Urbanismo de São Paulo, 2023. Disponível em: https://causp.gov.br/manuais-e-cartilhas/. Acesso em: 17 jun. 2024.'
-  - FAMS, Fundação Arquivo e Memória de Santos. Processos Administrativos da Prefeitura Municipal de Santos, nº14142/1969-42 e n°1993/1971-21.
+  - 'FAMS, Fundação Arquivo e Memória de Santos. Processos Administrativos da Prefeitura Municipal de Santos, nº14142/1969-42 e n°1993/1971-21.'
   - 'KINOSHITA, Roberto Tykanori. Saúde Mental e a Antipsiquiatria em Santos: vinte anos depois. Cadernos Brasileiros de Saúde, [S. l.], v. 1, n. 1, p. 223–231, 2011. Disponível em: <https://periodicos.ufsc.br/index.php/cbsm/article/view/68443>. Acesso em: 14 jun. 2024.'
   - 'MATOS, Paulo. Anchieta, 15 anos 1989 - 2004: a história da quarta revolução mundial da psiquiatria. Um documento da luta antimanicomial. Santos: Cegraf, 2004. In: Novo Milênio. Disponível em: <http://www.novomilenio.inf.br/santos/h0260r10a.htm>. Acesso em: 14 jun. 2024.'
   - 'NARDELLA, L.P.N. Casa de Saúde Anchieta: Apagando o Passado e Reescrevendo o Futuro. Monografia (bacharelado em Arquitetura e Urbanismo) - Curso de Arquitetura e Urbanismo, Universidade Santa Cecília, Santos, 67 páginas, 2006.'
   - 'PAIVA, M.C.P. Casa de Saúde Anchieta: Um novo abrigo. 2019. Monografia (bacharelado em Arquitetura e Urbanismo) -Curso de Arquitetura e Urbanismo, Universidade Católica de Santos. Santos, 61 páginas, 2019.'
   - 'SILVEIRA, Nise. Jung: vida e obra. Rio de Janeiro: Paz & Terra, 1968.'
   - 'SLWCZUK, T.S.O.S. Requalificação urbana e renovação arquitetônica da casa de saúde Anchieta: Centro de práticas integrativas e complementares Anchieta, 2019. Monografia (bacharelado em Arquitetura e Urbanismo). Curso de Arquitetura e Urbanismo, Universidade Católica de Santos. Santos, 59 páginas, 2019.'
-- id: sdsp09-022
-  title: 'Edifício Irajá: projeto de restauração de uma obra moderna não tombada'
+  locale: 'pt-BR'
+  file: 'sdsp09-021.pdf'
+  pages_count: 15
+  pages: '310-324'
+
+- id: 'sdsp09-022'
+  title: Edifício Irajá
+  subtitle: projeto de restauração de uma obra moderna não tombada
   authors:
   - givenname: Letícia Martins
     familyname: Baldo
+    email: 'leticia@mld.arq.br'
     affiliation: ''
-    email: leticia@mld.arq.br
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Daniel Luiz Vieira
     familyname: Carcavalli
+    email: 'carcavalli@exemplo.com'
     affiliation: ''
-    email: daniel@mld.arq.br
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Maria Luiza
     familyname: Dutra
+    email: 'dutra@exemplo.com'
     affiliation: ''
-    email: marialuizadutra@mld.arq.br
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Diego Petrini
     familyname: Pinheiro
+    email: 'pinheiro@exemplo.com'
     affiliation: ''
-    email: diego@mld.arq.br
+    orcid: '0000-0001-7626-6321'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-022.pdf
-  pages_count: 15
-  pages: 325-339
   abstract: 'A presente comunicação refere-se ao Projeto de Intervenção Restaurativa e Adaptativa das fachadas e coberturas do Edifício Irajá – localizado no bairro Higienópolis, na cidade de São Paulo –, uma obra não reconhecida oficialmente como patrimônio cultural, onde o condomínio se motivou a contratar um projeto de restauro que resgata aspectos sensíveis ao projeto original que foram perdidos, e poderão ser recuperados. O projeto proposto prevê a restauração e adaptação do edifício para atender as necessidades contemporâneas, bem como corrigir problemas relativos ao seu precário estado de conservação. A partir do conhecimento advindo das etapas de levantamento, de identificação das patologias e de suas causas, do resultado das pesquisas histórica e documental realizada, estabeleceu-se diretrizes para que o projeto fosse de encontro à preservação da arquitetura existente. Em linhas gerais, as intervenções foram organizadas em duas partes: de caráter emergencial, que corresponde aos serviços civis, e de caráter secundário, tratando-se dos serviços de adaptação de elementos arquitetônicos.'
-  abstract_en: 'This communication refers to the Restorative and Adaptive Intervention Project of the façades and roofing of the Irajá Building – located at the Higienópolis neighborhood, in the city of São Paulo –, a building not officially recognized as cultural heritage, where the condominium was motivated to contract a restoration project that rescues sensitive aspects of the original project that were lost, and could be recovered. The proposed project envisages the restoration and adaptation of the building to meet contemporary needs, as well as correcting problems relating to its precarious state of conservation. Based on the knowledge arising from the survey stages, identification of pathologies and their causes, and the results of the historical and documentary research carried out, guidelines were established so that the project would meet the preservation of the existing architecture. In general terms, the interventions were organized into two parts: of an emergency nature, which corresponds to civil services, and of a secondary nature, dealing with adaptation services for architectural elements.'
   keywords:
   - restauração
   - conservação
   - intervenção
+  abstract_en: 'This communication refers to the Restorative and Adaptive Intervention Project of the façades and roofing of the Irajá Building – located at the Higienópolis neighborhood, in the city of São Paulo –, a building not officially recognized as cultural heritage, where the condominium was motivated to contract a restoration project that rescues sensitive aspects of the original project that were lost, and could be recovered. The proposed project envisages the restoration and adaptation of the building to meet contemporary needs, as well as correcting problems relating to its precarious state of conservation. Based on the knowledge arising from the survey stages, identification of pathologies and their causes, and the results of the historical and documentary research carried out, guidelines were established so that the project would meet the preservation of the existing architecture. In general terms, the interventions were organized into two parts: of an emergency nature, which corresponds to civil services, and of a secondary nature, dealing with adaptation services for architectural elements.'
   keywords_en:
   - restoration
   - conservation
@@ -973,41 +1148,51 @@ articles:
   references:
   - 'Edifício Irajá. Revista Acrópole, n. 262, São Paulo, ago. 1960. Disponível em: http://www.acropole.fau.usp.br/edicao/262/30. Acesso em 20 mai 2024.'
   - 'HOMEM, Maria Cecília Naclério. Higienópolis : grandeza e decadência de um bairro paulistano. São Paulo : Departamento do Patrimônio, Divisão do Arquivo Histórico, 1980.'
-  - SERAPIÃO, Fernando. Moderno nas Alturas. Revista Monolito. São Paulo, volume 19, p.14- 39, 2014.
+  - 'SERAPIÃO, Fernando. Moderno nas Alturas. Revista Monolito. São Paulo, volume 19, p.14- 39, 2014.'
   - 'ZUFFO, Élida Regina de Moraes. Pioneiros Modernos: verticalização residencial em Higienópolis. Tese (Doutorado em Arquitetura e Urbanismo) – Universidade Presbiteriana Mackenzie. São Paulo, 2009.'
-- id: sdsp09-023
-  title: O tombamento dos imóveis do bairro de Higienópolis, 1992-2014
+  locale: 'pt-BR'
+  file: 'sdsp09-022.pdf'
+  pages_count: 15
+  pages: '325-339'
+
+- id: 'sdsp09-023'
+  title: 'O tombamento dos imóveis do bairro de Higienópolis, 1992-2014'
   authors:
-  - givenname: Fernando Guillermo Vázquez
-    familyname: Ramos
+  - givenname: Fernando Guillermo
+    familyname: Vázquez Ramos
+    email: 'prof.vazquez@usjt.br'
     affiliation: ''
-    email: prof.vazquez@ulife.com.br
+    orcid: '0000-0003-3472-5598'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Andréa de Oliveira
     familyname: Tourinho
+    email: 'tourinho@exemplo.com'
     affiliation: ''
-    email: prof.atourinho@usjt.br
+    orcid: '0000-0002-8672-9366'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Katiuscia Lopes de
     familyname: Faria
+    email: 'kfaria@casak.arq.br'
     affiliation: ''
-    email: kfaria@casak.arq.br
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-023.pdf
-  pages_count: 15
-  pages: 340-354
-  abstract: Esta comunicação apresenta, analisa e discute o longo processo da abertura de tombamento de imóveis no bairro paulistano de Higienópolis, proposto pelo Departamento de Patrimônio Histórico da Cidade de São Paulo, em 1992, que só veio a se encerrar mais de 20 anos depois. Durante o longo processo, argumentamos que se foram perdendo as perspectivas de um entendimento da paisagem ambiental urbana do conjunto dos bens que pretendiam ser protegidos pelo tombamento. Essa perda de uma visão geral sobre a cidade, centrando o processo do tombamento em edifícios tomados isoladamente, reduz a capacidade de entendimento da cidade e privilegia interesses do mercado que pode, então, se concentrar na luta por cada edificação. Pretende-se, também, refletir sobre a importância das tendências políticas das administrações municipais que comandam as políticas públicas de preservação, afetando o desenvolvimento dos processos de salvaguarda e desenvolvimento dos remanescentes construídos pelas sociedades passadas, mas ainda vivos entre nós.
-  abstract_en: This communication presents, analyzes and discusses the long process of opening the listing of properties in the Sao Paulo neighborhood of Higienopolis, proposed by the Department of Historical Heritage of the City of São Paulo, in 1992, which only came to an end more than 20 years later. During the long process, we argue that the prospects for an understanding of the urban environmental landscape of the set of assets that intended to be protected by listing were lost. This loss of a general view of the city, focusing the listing process on buildings taken in isolation, reduces the ability to understand the city and privileges market interests, which can then focus on the fight for each building. It is also intended to reflect on the importance of the political tendencies of municipal administrations that command public preservation policies, affecting the development of safeguarding and development processes of the remnants built by past societies, but still alive among us.
+  abstract: 'Esta comunicação apresenta, analisa e discute o longo processo da abertura de tombamento de imóveis no bairro paulistano de Higienópolis, proposto pelo Departamento de Patrimônio Histórico da Cidade de São Paulo, em 1992, que só veio a se encerrar mais de 20 anos depois. Durante o longo processo, argumentamos que se foram perdendo as perspectivas de um entendimento da paisagem ambiental urbana do conjunto dos bens que pretendiam ser protegidos pelo tombamento. Essa perda de uma visão geral sobre a cidade, centrando o processo do tombamento em edifícios tomados isoladamente, reduz a capacidade de entendimento da cidade e privilegia interesses do mercado que pode, então, se concentrar na luta por cada edificação. Pretende-se, também, refletir sobre a importância das tendências políticas das administrações municipais que comandam as políticas públicas de preservação, afetando o desenvolvimento dos processos de salvaguarda e desenvolvimento dos remanescentes construídos pelas sociedades passadas, mas ainda vivos entre nós.'
   keywords:
   - Paisagem
   - Patrimônio ambiental urbano
-  - IGEPAC-SP
+  - 'IGEPAC-SP'
+  abstract_en: 'This communication presents, analyzes and discusses the long process of opening the listing of properties in the Sao Paulo neighborhood of Higienopolis, proposed by the Department of Historical Heritage of the City of São Paulo, in 1992, which only came to an end more than 20 years later. During the long process, we argue that the prospects for an understanding of the urban environmental landscape of the set of assets that intended to be protected by listing were lost. This loss of a general view of the city, focusing the listing process on buildings taken in isolation, reduces the ability to understand the city and privileges market interests, which can then focus on the fight for each building. It is also intended to reflect on the importance of the political tendencies of municipal administrations that command public preservation policies, affecting the development of safeguarding and development processes of the remnants built by past societies, but still alive among us.'
   keywords_en:
   - Landscape
   - Urban environmental heritage
-  - IGEPAC-SP
+  - 'IGEPAC-SP'
   references:
   - 'FENELON, Déa Ribeiro. Minuta nº 1, que solicita a abertura de processo de tombamento do Bairro de Higienópolis. 27 ago. 1992. In: SÃO PAULO (cidade). Processo Administrativo 16- 008-812-92*01. São Paulo: Conpresp, 1992, p. 70.'
   - 'MACHADO, Lucio Gomes. Arquitetura do Século XX no Bairro de Higienópolis: Identificação, Tombamento e Proteção Urbanística. In: SEMINÁRIO DOCOMOMO BRASIL. 6., 2005, Niterói. Anais do 6º Seminário Docomomo Brasil: Arquitetura e Urbanismo. Moderno e Nacional.'
@@ -1022,25 +1207,30 @@ articles:
   - 'SÃO PAULO (cidade). Lei Municipal 10.326, de 16 de dezembro de 1986. Dispõe sobre a criação do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 1986a. Disponível em: https://legislacao.prefeitura.sp.gov.br/leis/lei- 10236-de-16-de-dezembro-de-1986. Acesso em: 22 mai. 2024.'
   - 'SÃO PAULO (cidade). Prefeitura Municipal, Secretaria Municipal de Cultura. Departamento do Patrimônio Histórico. Inventário Geral do patrimônio ambiental e cultural: metodologia / Leila Regina Diêgoli, coord. et al. São Paulo: Departamento do Patrimônio Histórico, 1986b. (Cadernos do IGEPAC-SP: 1)'
   - 'SÃO PAULO (cidade). Lei Municipal 10.032, de 27 de dezembro de 1985. Dispõe sobre a criação do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. 1985. Disponível em: https://www.legisweb.com.br/legislacao/?id=179611. Acesso em: 22 mai. 2024.'
-- id: sdsp09-024
-  title: '"Brasília revisitada": revisão do moderno na urbanística de Lucio Costa'
+  locale: 'pt-BR'
+  file: 'sdsp09-023.pdf'
+  pages_count: 15
+  pages: '340-354'
+
+- id: 'sdsp09-024'
+  title: '"Brasília revisitada"'
+  subtitle: revisão do moderno na urbanística de Lucio Costa
   authors:
   - givenname: Carla Conceição
     familyname: Barreto
+    email: 'correiodacarla@gmail.com'
     affiliation: ''
-    email: correiodacarla@gmail.com
+    orcid: '0000-0002-4223-4898'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-024.pdf
-  pages_count: 12
-  pages: 355-366
-  abstract: O artigo analisa as proposições de "Brasília Revisitada" e o projeto das Quadras Econômicas de Lucio Costa, situando essas propostas dentro do contexto da pós-modernidade e das revisões do moderno. O estudo avalia a unidade morfologica urbana do projeto para as Quadras Econômicas em um procedimento de colagem, quanto a posição de Lucio Costa no debate sobre as revisões do moderno, examinando como o contexto histórico dos anos 1980 influenciou sua abordagem urbanística. Foram consultados os arquivos do espólio de Lucio Costa, preservados na Casa da Arquitectura, e analisados os desenhos e o memorial descritivo elaborados pelo arquiteto. Além disso, o estudo integrou uma revisão bibliográfica para entender o contexto teórico e prático das intervenções de Lucio Costa. A pesquisa revela a complexidade e a revisão das propostas de Lucio Costa, destacando sua contribuição única para o urbanismo e a arquitetura, e como essas propostas se inserem nas discussões sobre o contexto do moderno no final do século XX.
-  abstract_en: The article analyzes the propositions of "Brasília Revisitada" and Lucio Costa's Quadras Econômicas project, placing these proposals within the context of postmodernity and revisions of modernism. The study evaluates the urban morphological unit of the project for the Economic Blocks in a collage procedure, regarding Lucio Costa's position in the debate on modern revisions, examining how the historical context of the 1980s influenced his urban approach. The archives of Lucio Costa's estate, preserved at Casa da Arquitectura, were consulted and the drawings and descriptive memorial prepared by the architect were analyzed. Furthermore, the study integrated a bibliographical review to understand the theoretical and practical context of Lucio Costa's interventions. The research reveals the complexity and revision of Lucio Costa's proposals, highlighting his unique contribution to urbanism and architecture, and how these proposals fit into discussions about the context of modernity at the end of the 20th century.
+  abstract: 'O artigo analisa as proposições de "Brasília Revisitada" e o projeto das Quadras Econômicas de Lucio Costa, situando essas propostas dentro do contexto da pós-modernidade e das revisões do moderno. O estudo avalia a unidade morfologica urbana do projeto para as Quadras Econômicas em um procedimento de colagem, quanto a posição de Lucio Costa no debate sobre as revisões do moderno, examinando como o contexto histórico dos anos 1980 influenciou sua abordagem urbanística. Foram consultados os arquivos do espólio de Lucio Costa, preservados na Casa da Arquitectura, e analisados os desenhos e o memorial descritivo elaborados pelo arquiteto. Além disso, o estudo integrou uma revisão bibliográfica para entender o contexto teórico e prático das intervenções de Lucio Costa. A pesquisa revela a complexidade e a revisão das propostas de Lucio Costa, destacando sua contribuição única para o urbanismo e a arquitetura, e como essas propostas se inserem nas discussões sobre o contexto do moderno no final do século XX.'
   keywords:
   - Lucio Costa
   - Brasília Revisitada
   - Urbanismo
+  abstract_en: 'The article analyzes the propositions of "Brasília Revisitada" and Lucio Costa''s Quadras Econômicas project, placing these proposals within the context of postmodernity and revisions of modernism. The study evaluates the urban morphological unit of the project for the Economic Blocks in a collage procedure, regarding Lucio Costa''s position in the debate on modern revisions, examining how the historical context of the 1980s influenced his urban approach. The archives of Lucio Costa''s estate, preserved at Casa da Arquitectura, were consulted and the drawings and descriptive memorial prepared by the architect were analyzed. Furthermore, the study integrated a bibliographical review to understand the theoretical and practical context of Lucio Costa''s interventions. The research reveals the complexity and revision of Lucio Costa''s proposals, highlighting his unique contribution to urbanism and architecture, and how these proposals fit into discussions about the context of modernity at the end of the 20th century.'
   keywords_en:
   - Lucio Costa
   - Brasília Revisitada
@@ -1052,7 +1242,7 @@ articles:
   - 'BARRETO, Carla. Superblock Model for Social Housing in the context of the Modern Movement Review: Lucio Costa’s proposal for Alagados. Estoa. Journal of the Faculty of Architecture and Urbanism, [S. l.], v. 13, n. 26, p. 61–78, 2024c. DOI: 10.18537/est.v013.n026.a04. Disponível em: https://publicaciones.ucuenca.edu.ec/ojs/index.php/estoa/article/view/4960. Acesso em: 27 aug. 2024.'
   - 'BENEVOLO, Leonardo. História da Cidade. São Paulo: Perspectiva, 1997.'
   - 'CARDOSO, V. A Significância Cultural e o Caso Das Quadras Econômicas Lúcio Costa. Revista Fórum Patrimônio: Ambiente Construído e Patrimônio Sustentável, [S. l.], v. 11, n. 2, 2021. Disponível em: https://www.periodicos.ufmg.br/index.php/forumpatrimo/article/view/33934. Acesso em: 7 jun. 2024.'
-  - COSTA, LUCIO. Brasília Revisitada. Decreto no 10.829/1987, anexo I, GDF. Brasília, 1985/87.
+  - 'COSTA, LUCIO. Brasília Revisitada. Decreto no 10.829/1987, anexo I, GDF. Brasília, 1985/87.'
   - 'COSTA, L. Registro de uma vivência. 3. ed. São Paulo: Editora 34/Edições Sesc São Paulo, 2018.'
   - 'HOLFORD, W. Reflexões sobre o concurso. In: XAVIER, A.; KANTINSKY, J. (Orgs.). Brasília – antologia crítica. São Paulo: Cosac & Naify, 2012.'
   - 'HOLSTON, James. O espírito de Brasília: modernidade como experimento e risco. In'
@@ -1068,48 +1258,57 @@ articles:
   - 'TOMÉ, Candice. Avaliação pós-ocupação da quadra econômica Lúcio Costa em Brasília- DF: estudo das alterações ocorridas na quadra e nos edifícios. Dissertação Mestrado. Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, Programa de Pesquisa e Pós- graduação, 2009.'
   - 'ZEVl, B. Seis perguntas sobre a nova capital sul-americana. In: XAVIER, A.;'
   - 'KANTINSKY, J. (Orgs.). Brasília – antologia crítica. São Paulo: Cosac & Naify, 2012. p. 66-72.'
-- id: sdsp09-025
-  title: 'Preservação da Arquitetura industrial: transferência do armazém 7, Santos, SP'
+  locale: 'pt-BR'
+  file: 'sdsp09-024.pdf'
+  pages_count: 12
+  pages: '355-366'
+
+- id: 'sdsp09-025'
+  title: Preservação da Arquitetura industrial
+  subtitle: 'transferência do armazém 7, Santos, SP'
   authors:
   - givenname: Gino Caldatto
     familyname: Barbosa
+    email: 'gcaldatto@gmail.com'
     affiliation: ''
-    email: gcaldatto@gmail.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-025.pdf
-  pages_count: 15
-  pages: 367-381
-  abstract: A preservação da arquitetura industrial é o tema do artigo que apresentamos, sendo o Armazém 7, do porto de Santos, nosso estudo de caso, na medida em que diversos esforços estão sendo implementados para sua salvaguarda. A ênfase do texto convida o leitor a refletir sobre imposição de medidas radicais, no caso o reposicionamento do edifício, para a preservação desse único exemplar pré-fabricado de componentes metálicos que restou na paisagem do cais.
-  abstract_en: The preservation of industrial architecture is the theme of the article we present, with Warehouse 7, in the port of Santos, being our case study, as several efforts are being implemented to safeguard it. The emphasis of the text invites the reader to reflect on the imposition of radical measures, in this case the repositioning of the building, to preserve this only prefabricated example of metallic components that remained in the pier landscape.
+  abstract: 'A preservação da arquitetura industrial é o tema do artigo que apresentamos, sendo o Armazém 7, do porto de Santos, nosso estudo de caso, na medida em que diversos esforços estão sendo implementados para sua salvaguarda. A ênfase do texto convida o leitor a refletir sobre imposição de medidas radicais, no caso o reposicionamento do edifício, para a preservação desse único exemplar pré-fabricado de componentes metálicos que restou na paisagem do cais.'
   keywords:
   - Preservação
   - Arquitetura Industrial
   - Porto de Santos
+  abstract_en: 'The preservation of industrial architecture is the theme of the article we present, with Warehouse 7, in the port of Santos, being our case study, as several efforts are being implemented to safeguard it. The emphasis of the text invites the reader to reflect on the imposition of radical measures, in this case the repositioning of the building, to preserve this only prefabricated example of metallic components that remained in the pier landscape.'
   keywords_en:
   - Preservation
   - Industrial Architecture
   - Port of Santos
-- id: sdsp09-026
+  locale: 'pt-BR'
+  file: 'sdsp09-025.pdf'
+  pages_count: 15
+  pages: '367-381'
+
+- id: 'sdsp09-026'
   title: Cultura e patrimônio no Rio de Brizola e Darcy Ribeiro
   authors:
   - givenname: Fabrício Ribeiro dos Santos
     familyname: Godoi
+    email: 'fabricio.godoi@usp.br'
     affiliation: ''
-    email: fabricio.godoi@usp.br
+    orcid: '0000-0003-2196-8339'
+    bio: null
+    country: BR
     primary_contact: true
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-026.pdf
-  pages_count: 11
-  pages: 382-392
-  abstract: O artigo pretende analisar as ações de cultura e patrimônio no primeiro Governo de Leonel Brizola no Estado do Rio de Janeiro, por meio do resgate histórico daquelas ações, a partir de pesquisa em arquivos e biliografia do período. Aquele governo foi muito inovador em várias áreas da cultura e da educação, principalmente pela ação do Vice-Governador (e Secretário de Ciência e Cultura), o antropólogo Darcy Ribeiro. Quanto ao tema do patrimônio, a ação desse governo abrangeu uma variedade e uma quantidade de espaços e iniciativas dificilmente igualável. O instituto do tombamento pela via de órgãos estaduais foi a ferramenta mais utilizada, envolvendo não apenas a tradição barroca que os órgãos federais da mesma natureza consolidaram como experiência predominante. O resultado foi muito positivo, que chega até nosso tempo, e o valor daquela experiência poderia inspirar ações similares.
-  abstract_en: The article intends to analyse the cultural and heritage actions in the first Government of Leonel Brizola in the State of Rio de Janeiro, through the historical review of these actions, based on research in archives and biography of the period. That government was very innovative in several areas of culture and education, mainly due to the work of the Vice-Governor (and Secretary of Science and Culture), the anthropologist Darcy Ribeiro. Regarding the theme of heritage, this government's action covered a variety and quantity of spaces and initiatives that would be difficult to match. The institution of listing through state bodies was the most used tool, involving not only the baroque tradition that federal bodies of the same nature consolidated as the predominant experience. The result was very positive, which continues to this day, and the value of that experience could inspire similar actions.
+  abstract: 'O artigo pretende analisar as ações de cultura e patrimônio no primeiro Governo de Leonel Brizola no Estado do Rio de Janeiro, por meio do resgate histórico daquelas ações, a partir de pesquisa em arquivos e biliografia do período. Aquele governo foi muito inovador em várias áreas da cultura e da educação, principalmente pela ação do Vice-Governador (e Secretário de Ciência e Cultura), o antropólogo Darcy Ribeiro. Quanto ao tema do patrimônio, a ação desse governo abrangeu uma variedade e uma quantidade de espaços e iniciativas dificilmente igualável. O instituto do tombamento pela via de órgãos estaduais foi a ferramenta mais utilizada, envolvendo não apenas a tradição barroca que os órgãos federais da mesma natureza consolidaram como experiência predominante. O resultado foi muito positivo, que chega até nosso tempo, e o valor daquela experiência poderia inspirar ações similares.'
   keywords:
   - patrimônio moderno no Estado do Rio de Janeiro
   - Governo Leonel Brizola
   - Tombamento
+  abstract_en: 'The article intends to analyse the cultural and heritage actions in the first Government of Leonel Brizola in the State of Rio de Janeiro, through the historical review of these actions, based on research in archives and biography of the period. That government was very innovative in several areas of culture and education, mainly due to the work of the Vice-Governor (and Secretary of Science and Culture), the anthropologist Darcy Ribeiro. Regarding the theme of heritage, this government''s action covered a variety and quantity of spaces and initiatives that would be difficult to match. The institution of listing through state bodies was the most used tool, involving not only the baroque tradition that federal bodies of the same nature consolidated as the predominant experience. The result was very positive, which continues to this day, and the value of that experience could inspire similar actions.'
   keywords_en:
   - modern heritage in Rio de Janeiro State
   - Leonel Brizola Government
@@ -1117,40 +1316,48 @@ articles:
   references:
   - 'CAMPELLO, G. “A nova biblioteca estadual: um centro vivo de informações”. In Revista do Brasil, 1986. Pgs. 68-71.'
   - 'CAMPOFIORITO, Ítalo. “Patrimônio Cultural: “Onde a cultura existe, dar voz a ela”’. In: Revista do Brasil, ed. Especial. 1986. Pgs. 8-9.'
-  - Lei Ordinária Estadual do Estado do Rio de Janeiro nº 10.264 de 28 de dezembro de 2023, sancionada pelo Governador Cláudio Castro.
+  - 'Lei Ordinária Estadual do Estado do Rio de Janeiro nº 10.264 de 28 de dezembro de 2023, sancionada pelo Governador Cláudio Castro.'
   - 'COSTA, Marcus de Lontra. “As artes plásticas fazem a festa dos anos 80”. In: Revista do Brasil. 1986. Pgs. 73-88.'
   - 'GORELIK, A. Das vanguardas a Brasília: cultura urbana e arquitetura na América Latina. Belo Horizonte: Ed. UFMG, 2005.'
   - 'RIBEIRO, Darcy. Aos trancos e barrancos: como o Brasil deu no que deu. Rio de Janeiro, Guanabara, 1985.'
   - 'RIBEIRO, Darcy. “São os franceses que voltam”. In: Revista do Brasil, 1986. Pg.66-67.'
-  - RIBEIRO, Darcy. “Política Cultural do Rio”. In Revista do Brasil, Ed. Esp. 1986b. Pg. 3.
-  - S/A (sem autor). “E o gênio de Oscar Niemeyer Imprimiu sua marca no Rio”. Revista do Brasil, 1986, editorial.
+  - 'RIBEIRO, Darcy. “Política Cultural do Rio”. In Revista do Brasil, Ed. Esp. 1986b. Pg. 3.'
+  - 'S/A (sem autor). “E o gênio de Oscar Niemeyer Imprimiu sua marca no Rio”. Revista do Brasil, 1986, editorial.'
   - 'SANTOS, Joel Ruffino. “Uma resposta à cultura do racismo”. In: Revista do Brasil. 1986. Pgs.106-111.'
   - 'SEIXAS, Antônio. A contribuição de Darcy Ribeiro à preservação do patrimônio cultural fluminense a partir de seus escritos autobiográficos. In: COSTA, Adriane V. (org). Darcy Ribeiro: intelectualidade e pensamento crítico latino-americano. Belo Horizonte: Fino Traço, 2023. Pg. 350-368.'
   - 'Acervos consultados: Fundação Darcy Ribeiro (FUNDAR), Arquivo Público do Distrito Federal (ArPDF), Fundação Oscar Niemeyer (FON), entre janeiro e julho/2023.'
-- id: sdsp09-027
-  title: 'Preservação do patrimônio moderno, os conselhos municipais e o papel dos profissionais de Arquitetura e Urbanismo: um olhar sobre Araraquara e São Carlos'
+  locale: 'pt-BR'
+  file: 'sdsp09-026.pdf'
+  pages_count: 11
+  pages: '382-392'
+
+- id: 'sdsp09-027'
+  title: 'Preservação do Patrimônio Moderno, os conselhos municipais e o papel dos profissionais de Arquitetura e Urbanismo'
+  subtitle: um olhar sobre Araraquara e São Carlos
   authors:
-  - givenname: Maísa de Almeida
-    familyname: Fonseca
+  - givenname: Maísa Fonseca de
+    familyname: Almeida
+    email: 'almeida@exemplo.com'
     affiliation: ''
-    email: maisafonseca@usp.br
+    orcid: '0000-0001-8824-1738'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Luis Gustavo
     familyname: Lucatelli
+    email: 'luislucatelli@gmail.com'
     affiliation: ''
-    email: luislucatelli@gmail.com
+    orcid: '0000-0002-4827-3097'
+    bio: null
+    country: BR
     primary_contact: false
   section: Artigos Completos
-  locale: pt-BR
-  file: sdsp09-027.pdf
-  pages_count: 17
-  pages: 393-409
-  abstract: As transformações na cidade contemporânea exigem ações de preservação do patrimônio cultural integradas ao desenvolvimento urbano e à identidade, com abordagem transdisciplinar que envolva a participação da sociedade e estabeleça políticas eficazes de proteção, identificação e preservação dos bens culturais. O trabalho se concentra nas cidades de Araraquara e São Carlos, analisa medidas municipais de proteção do patrimônio moderno e sugere diretrizes para integrar políticas de preservação ao planejamento urbano. Em Araraquara, a proteção de edifícios históricos é promovida por meio do tombamento, integrado ao Plano Diretor, e inventários participativos para mapear bens culturais. Em São Carlos, a proteção é garantida por um perímetro definido no Plano Diretor e políticas integradas entre a Fundação Pró-Memória e secretarias municipais, resultando em incentivos fiscais para a conservação de imóveis históricos. Ambas as cidades utilizam inventários para identificar bens culturais, mas o patrimônio moderno é sub-representado e enfrenta desafios na integração com o planejamento urbano e na atuação técnica dos conselhos municipais de preservação, destacando a importância da participação das universidades. As políticas de Araraquara e São Carlos exemplificam como medidas locais podem proteger o patrimônio cultural em consonância com as diretrizes nacionais, mas ainda necessitam de ações para valorizar o patrimônio moderno.
-  abstract_en: The transformations in contemporary cities require cultural heritage preservation actions integrated with urban development and identity, using a transdisciplinary approach that involves society's participation and establishes effective policies for the protection, identification, and preservation of cultural assets. This work focuses on the cities of Araraquara and São Carlos, analyzes municipal measures for the protection of modern heritage, and suggests guidelines for integrating preservation policies into urban planning. In Araraquara, the protection of historic buildings is promoted through heritage listing, integrated into the Master Plan, and participatory inventories to map cultural assets. In São Carlos, protection is ensured by a perimeter defined in the Master Plan and integrated policies between the Fundação Pró-Memória and municipal departments, resulting in tax incentives for the conservation of historic properties. Both cities use inventories to identify cultural assets, but modern heritage is underrepresented and faces challenges in integrating with urban planning and the technical performance of municipal preservation councils, highlighting the importance of university participation. The policies of Araraquara and São Carlos exemplify how local measures can protect cultural heritage in line with national guidelines but still require actions to value modern heritage.
+  abstract: 'As transformações na cidade contemporânea exigem ações de preservação do patrimônio cultural integradas ao desenvolvimento urbano e à identidade, com abordagem transdisciplinar que envolva a participação da sociedade e estabeleça políticas eficazes de proteção, identificação e preservação dos bens culturais. O trabalho se concentra nas cidades de Araraquara e São Carlos, analisa medidas municipais de proteção do patrimônio moderno e sugere diretrizes para integrar políticas de preservação ao planejamento urbano. Em Araraquara, a proteção de edifícios históricos é promovida por meio do tombamento, integrado ao Plano Diretor, e inventários participativos para mapear bens culturais. Em São Carlos, a proteção é garantida por um perímetro definido no Plano Diretor e políticas integradas entre a Fundação Pró-Memória e secretarias municipais, resultando em incentivos fiscais para a conservação de imóveis históricos. Ambas as cidades utilizam inventários para identificar bens culturais, mas o patrimônio moderno é sub-representado e enfrenta desafios na integração com o planejamento urbano e na atuação técnica dos conselhos municipais de preservação, destacando a importância da participação das universidades. As políticas de Araraquara e São Carlos exemplificam como medidas locais podem proteger o patrimônio cultural em consonância com as diretrizes nacionais, mas ainda necessitam de ações para valorizar o patrimônio moderno.'
   keywords:
   - Preservação patrimônio moderno
   - Tombamento e perímetro de proteção
   - Incentivos fiscais
+  abstract_en: 'The transformations in contemporary cities require cultural heritage preservation actions integrated with urban development and identity, using a transdisciplinary approach that involves society''s participation and establishes effective policies for the protection, identification, and preservation of cultural assets. This work focuses on the cities of Araraquara and São Carlos, analyzes municipal measures for the protection of modern heritage, and suggests guidelines for integrating preservation policies into urban planning. In Araraquara, the protection of historic buildings is promoted through heritage listing, integrated into the Master Plan, and participatory inventories to map cultural assets. In São Carlos, protection is ensured by a perimeter defined in the Master Plan and integrated policies between the Fundação Pró-Memória and municipal departments, resulting in tax incentives for the conservation of historic properties. Both cities use inventories to identify cultural assets, but modern heritage is underrepresented and faces challenges in integrating with urban planning and the technical performance of municipal preservation councils, highlighting the importance of university participation. The policies of Araraquara and São Carlos exemplify how local measures can protect cultural heritage in line with national guidelines but still require actions to value modern heritage.'
   keywords_en:
   - Preservation of Modern Heritage
   - Listing and Protection Perimeter
@@ -1158,7 +1365,7 @@ articles:
   references:
   - 'Alves, A. Ferreira de Assumpção. O tombamento como instrumento de proteção ao patrimônio cultural. Revista Brasileira de Estudos Políticos, v. 98, p. 65-98, 2008. Disponível em: https://doi.org/10.9732/69. Acesso em: 20 maio 2024.'
   - 'Docomomo Brasil l Núcleo São Paulo, 2020. Disponível em: https://1456d5c4-2f46-4ea6-810f- 9baa06ae7551.filesusr.com/ugd/e5628e_45e3ff9e01cd4ea287d9171593e43181.pdf. Acesso: 20 maio 2024.'
-  - Araraquara. Lei Complementar nº 850, de 10 de julho de 2014. Anexo VII.
+  - 'Araraquara. Lei Complementar nº 850, de 10 de julho de 2014. Anexo VII.'
   - 'Araraquara. Lei nº 8.932, de 30 de março de 2017. Disponível em: https://www.legislacaodigital.com.br/Araraquara-SP/LeisOrdinarias/8932/m1. Acesso: 28 maio 2024.'
   - 'Araraquara. Ficha técnica de bens tombados-protegidos no município de Araraquara. Araraquara, 2023. Disponível em: https://ecrie.com.br/sistema/conteudos/arquivo/a_138_0_1_13022023134011.pdf. Acesso: 05 junho 2024.'
   - 'Araraquara. Inventário Participativo. Araraquara, 2023. Disponível em: https://www.araraquara.sp.gov.br/governo/secretarias/cultura/inventario-participativo. Acesso: 31 maio 2024.'
@@ -1169,23 +1376,27 @@ articles:
   - 'Laredo carvalho, D., Soares Kronemberger, t. ., & Araujo delgado, m. V. (2023). Efetividade deliberativa das intencionalidades participativas na coprodução de bem público: um estudo de caso do Conselho Municipal do Patrimônio Cultural de Andrelândia-MG. NAU Social, 13(25), 1076 –. https://doi.org/10.9771/ns.v13i25.47839. Acesso: 20 maio 2024.'
   - 'Lavinas, L. V.; Ribeiro, V. M. Histórico dos conselhos de políticas públicas. In: Tenorio, F. G.; Kronember, T. S. (Org.). Gestão Social e conselhos Gestores. 1. ed. Rio de Janeiro: FGV, 2016. v. 3, pp. 119-146.'
   - 'Meneses, Ulpiano Toledo Bezerra de. O campo do patrimônio cultural: uma revisão de premissas. I Fórum Nacional do Patrimônio Cultural. Sistema Nacional de Patrimônio Cultural: desafios, estratégias e experiências para uma nova gestão. Brasília: Iphan, 2012, p.25-39.'
-  - Santoro, Francisco José. Entrevista com o arquiteto e urbanista Francisco José Santoro, Araraquara, 2022.
+  - 'Santoro, Francisco José. Entrevista com o arquiteto e urbanista Francisco José Santoro, Araraquara, 2022.'
   - 'Souza, L. C. C. e, & Moraes, N. A. de. (2014). A preservação do patrimônio em minas gerais: a “lei robin hood” e os conselhos municipais de patrimônio. Revista Sociais E Humanas, 27(2), 128–144. Recuperado de https://periodicos.ufsm.br/sociaisehumanas/article/view/5972'
   - 'Secretaria Municipal de Habitação e Desenvolvimento Urbano. Relatório de atualização da planta genérica do município. São Carlos: Prefeitura Municipal.'
-  - São Paulo (Estado). Decreto nº 64.186, de 15 de abril de 2019. São Paulo, 2019.
+  - 'São Paulo (Estado). Decreto nº 64.186, de 15 de abril de 2019. São Paulo, 2019.'
   - 'São Carlos. Lei nº 13.864, de 2006. Política de Defesa do Patrimônio Histórico, Artístico e Ambiental do Município de São Carlos, e dá outras providências. Disponível em: http://saocarlos.sp.gov.br/images/stories/legislacao_urbanistica_municipal/lei13864.pdf. Acesso em: 10 maio 2024.'
   - 'Wolff, Silvia. II Encontro sobre Patrimônio Cultural, Arquitetura e Urbanismo do CAU/SP. 23 de ago. de 2022. Disponível em: https://www.youtube.com/watch?v=Rf2Obm1hfW8. Acesso em: 10 junho 2024.'
-  - 9° Seminário DOCOMOMO SP https://9docomomosp.wixsite.com/9docomomosp
-  - 9docomomosp24@gmail.com
+  - '9° Seminário DOCOMOMO SP https://9docomomosp.wixsite.com/9docomomosp'
+  - '9docomomosp24@gmail.com'
   - Núcleo DOCOMOMO São Paulo
   - www.nucleodocomomosp.com.br
-  - nucleo.docomomo.sp@gmail.com
-  - Faculdade de Arquitetura e Urbanismo - Universidade Santa Cecília
+  - 'nucleo.docomomo.sp@gmail.com'
+  - 'Faculdade de Arquitetura e Urbanismo - Universidade Santa Cecília'
   - 'Endereço: R. Oswaldo Cruz, 277 - Boqueirão, Santos / SP – Brasil'
   - 'Telefone: +55 (13) 3202-7101'
   - Instituto de Arquitetura e Urbanismo da Universidade de São Paulo
   - 'Endereço: Av. Trab. São Carlense, 400, Centro , Parque Arnold Schimidt, São Carlos / SP – Brasil'
   - 'Telefone: +55 (16) 3373-9264'
-  - Faculdade de Arquitetura, Urbanismo e Design da Universidade de São Paulo
+  - 'Faculdade de Arquitetura, Urbanismo e Design da Universidade de São Paulo'
   - 'Endereço: Rua do Lago, 876, Cidade Universitária, Butantã, São Paulo/ SP – Brasil'
   - 'Telefone: +55 (11) 3091-4795'
+  locale: 'pt-BR'
+  file: 'sdsp09-027.pdf'
+  pages_count: 17
+  pages: '393-409'

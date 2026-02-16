@@ -1,12 +1,11 @@
 issue:
   slug: sdmg01
-  title: 1º Seminário Docomomo Minas Gerais, Belo Horizonte, 2010
+  title: '1º Seminário Docomomo Minas Gerais, Belo Horizonte, 2010'
   subtitle: 'Arquitetura e urbanismo modernos em Minas Gerais: novas fronteiras, novos cenários'
-  location: Belo Horizonte, MG
+  location: 'Belo Horizonte, MG'
   year: 2010
   volume: 2
   number: 1
-  isbn: null
   publisher: Núcleo Docomomo Minas Gerais
   editors:
   - Maria Marta dos Santos Camisassa
@@ -19,97 +18,136 @@ issue:
   - Marília Maria Brasileiro Teixeira Vale
   - Luis Eduardo Borda
   description: '1° Seminário Docomomo Minas Gerais: anais: Arquitetura e urbanismo modernos em Minas Gerais: novas fronteiras, novos cenários [recurso eletrônico] / organização: Maria Marta dos Santos Camisassa et al.. Belo Horizonte, MG: Núcleo Docomomo Minas Gerais, 2010.'
-  source: null
   date_published: '2010-04-20'
+  sections:
+  - title: Apresentações Orais — sdmg01
+  - title: Pôsteres — sdmg01
 articles:
-- id: sdmg01-001
-  titulo: Da capital ao Triângulo
-  subtitulo: a contribuição de Wagner Schroden para consolidação do Movimento Moderno em Minas Gerais
-  autores:
+
+- id: 'sdmg01-001'
+  title: Da capital ao triângulo
+  subtitle: a contribuição de Wagner Schroden para consolidação do Movimento Moderno em Minas Gerais
+  authors:
   - givenname: Adriana Capretz Borges da Silva
     familyname: Manhas
-    email: dricapretz@hotmail.com
+    email: 'dricapretz@hotmail.com'
+    affiliation: null
+    orcid: '0000-0003-0019-1727'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Ana Teresa Cirigliano
     familyname: Villela
-    email: anacirig@hotmail.com
+    email: 'anacirig@hotmail.com'
+    affiliation: null
+    orcid: '0000-0001-6720-935X'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Max Paulo Giacheto
     familyname: Manhas
-    email: mmanhas@yahoo.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'mmanhas@yahoo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Neto de alemão que trabalhou na Companhia Mojiana de Estradas de Ferro e filho de um renomado fotógrafo, Wagner Schroden teve ainda com a família o estímulo às artes. Graduou-se em Arquitetura com especialização em Urbanismo na UFMG em 1966 e iniciou suas atividades na capital mineira como professor e planejador urbano. Planejou e executou obras em vários lugares do território nacional, especialmente na região metropolitana de Belo Horizonte e no triângulo Mineiro. Em 1974, o projeto preliminar para o novo campus da FUMEC recebeu honra internacional, assim como o Clube Guarani, premiado em Assunção, no Paraguai, e projeto de duas cidades, sendo uma na Austrália e outra na África do Sul, ambas não executadas. Após atuar na capital, mudou-se para Uberaba, onde permaneceu até sua morte precoce em 1987, aos 49 anos, atuando como arquiteto em seu escritório, e também como professor e planejador urbano municipal, com destaque para o projeto do Cemitério Municipal, premiado pelo IAB-MG e o projeto do Parque de Exposições da Associação Brasileira dos Criadores de Zebu. EM 1975, projetou o campus da FAZU e da UNIUBE, onde também foi professor de arquitetura. Fez uso do vocabulário arquitetônico brutalista e não enveredou-se por “clichês” e “modernismos”, com uma obra marcada pela monumentalidade e escultoriedade, destacadas no entorno. Libertou a cidade de Uberaba do historicismo e do neocolonial predominantes durante a fase de afirmação da identidade da “capital nacional do Zebu”, marcando a estética arquitetônica da década de 1980.'
+  keywords:
   - Brutalismo
   - Triângulo Mineiro
   - Wagner Schroden
-  palavras_chave_en:
+  abstract_en: 'Grandson of German who worked in the Company Mojiana Railway and son of renowned photographer, Wagner was encouraged by the family to the arts. He graduated in Architecture with specialization in urban planning at UFMG in 1966, working in principle, as a professor. Soon, began to work in urban planning through departments in Belo Horizonte. Designed and executed works throughout all Brazilian territory, especially in the metropolitan area of Belo Horizonte and Minas Triangle. In 1974, won the preliminary project of the campus of FUMEC, laureate in Switzerland. Internationally, he designed the Club Guarani, en Asunción, Paraguay, and created the development plan of two cities, one in Australia, and another in South Africa, unfortunately not accomplished. After living in the capital, moved to Uberaba - where he remained until his death in 1987, at 49 years - and has held several works in his office, in addition to teaching and working as an urban planner, having designed the Municipal Cemetery, awarded by the IAB-MG and the master plan of the Exhibition Park of the Brazilian Association of Zebu Breeders. In 1975, created the campus of FAZU and then UNIUBE, where he was professor of architecture. We used the vocabulary of modern brutalism, without falling into "cliches" and "modernisms", marking the monumentality and sculptiness of his works amid the surroundings. Liberated the city of Uberaba of historicism and neocolonialism during the search for identity and affirmation as "national capital of Zebu," marking the architectural aesthetics of the 1980s.'
+  keywords_en:
   - Brutalism
   - Minas Triangle
   - Wagner Schroden
-  resumo: Neto de alemão que trabalhou na Companhia Mojiana de Estradas de Ferro e filho de um renomado fotógrafo, Wagner Schroden teve ainda com a família o estímulo às artes. Graduou-se em Arquitetura com especialização em Urbanismo na UFMG em 1966 e iniciou suas atividades na capital mineira como professor e planejador urbano. Planejou e executou obras em vários lugares do território nacional, especialmente na região metropolitana de Belo Horizonte e no triângulo Mineiro. Em 1974, o projeto preliminar para o novo campus da FUMEC recebeu honra internacional, assim como o Clube Guarani, premiado em Assunção, no Paraguai, e projeto de duas cidades, sendo uma na Austrália e outra na África do Sul, ambas não executadas. Após atuar na capital, mudou-se para Uberaba, onde permaneceu até sua morte precoce em 1987, aos 49 anos, atuando como arquiteto em seu escritório, e também como professor e planejador urbano municipal, com destaque para o projeto do Cemitério Municipal, premiado pelo IAB-MG e o projeto do Parque de Exposições da Associação Brasileira dos Criadores de Zebu. EM 1975, projetou o campus da FAZU e da UNIUBE, onde também foi professor de arquitetura. Fez uso do vocabulário arquitetônico brutalista e não enveredou-se por “clichês” e “modernismos”, com uma obra marcada pela monumentalidade e escultoriedade, destacadas no entorno. Libertou a cidade de Uberaba do historicismo e do neocolonial predominantes durante a fase de afirmação da identidade da “capital nacional do Zebu”, marcando a estética arquitetônica da década de 1980.
-  resumo_en: Grandson of German who worked in the Company Mojiana Railway and son of renowned photographer, Wagner was encouraged by the family to the arts. He graduated in Architecture with specialization in urban planning at UFMG in 1966, working in principle, as a professor. Soon, began to work in urban planning through departments in Belo Horizonte. Designed and executed works throughout all Brazilian territory, especially in the metropolitan area of Belo Horizonte and Minas Triangle. In 1974, won the preliminary project of the campus of FUMEC, laureate in Switzerland. Internationally, he designed the Club Guarani, en Asunción, Paraguay, and created the development plan of two cities, one in Australia, and another in South Africa, unfortunately not accomplished. After living in the capital, moved to Uberaba - where he remained until his death in 1987, at 49 years - and has held several works in his office, in addition to teaching and working as an urban planner, having designed the Municipal Cemetery, awarded by the IAB-MG and the master plan of the Exhibition Park of the Brazilian Association of Zebu Breeders. In 1975, created the campus of FAZU and then UNIUBE, where he was professor of architecture. We used the vocabulary of modern brutalism, without falling into "cliches" and "modernisms", marking the monumentality and sculptiness of his works amid the surroundings. Liberated the city of Uberaba of historicism and neocolonialism during the search for identity and affirmation as "national capital of Zebu," marking the architectural aesthetics of the 1980s.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-001.pdf
-  paginas_total: 18
-  referencias:
+  references:
   - 'BAHIA, Denise Marques. De 1924 a 2004: das caravanas modernistas a uma revisão crítica do modernismo em Minas Gerais – refazendo o “caminho percorrido”. Cadernos de Arquitetura e Urbanismo, Belo Horizonte, v. 11, n. 12, p. 157-168, 2004. Disponível em: < http://www.pucmg.br/destaques/index_interna.php?pagina=1117> Acesso em: 12 mai. 2009.'
   - 'BRAGA, Raquel Dias Vieira. A Modernidade na Arquitetura Contemporânea Brasileira: Repercussões do Grupo Mineiro. In: SEMINÁRIO DOCOMOMO BRASIL, 3. 2005, São Paulo. Anais eletrônicos ... São Paulo, 2005. Disponível em <http://www.docomomo.org.br/seminarios.htm>. Acesso em 12 fev.2008.'
   - 'LARA, Fernando Luiz C. Modernismo popular: elogio ou imitação. Cadernos de Arquitetura e Urbanismo, Belo Horizonte, v.12, n.13, p.171-184, 2005. Disponível em: <http://www.pucmg.br/editora/index.php?pai=706&pagina=1118> Acesso em: 12 mai. 2009.'
   - 'MALARD, Maria Lúcia; MENDONÇA, Roxane Sidney Resende. A mineiridade da arquitetura modernista brasileira. In: SEMINÁRIO DOCOMOMO BRASIL, 6. 2005. Niterói. Anais eletrônicos ... Niterói, 2005. Disponível em: <http://www.docomomo.org.br/seminarios.htm>Acesso em: 12 dez. 2007.'
   - 'MANHAS, Adriana Capretz B. da; VILLELA, Ana Teresa Cirigliano; CECÍLIO, Juliano Carlos Batista de Oliveira. A modernidade e a síntese das artes a partir das obras do arquiteto Wagner Schroden em Uberaba (MG). In: SEMINÁRIO DOCOMOMO BRASIL, 8. 2009, Rio de Janeiro. Anais ... Rio de Janeiro, 2009. 1 CDROM.'
   - 'RIBEIRO, Patrícia Pimenta Azevedo. A participação da Escola de Arquitetura na Construção do Pensamento Moderno em Belo Horizonte. In: SEMINÁRIO DOCOMOMO BRASIL, 3. 2005, São Paulo. Anais eletrônicos ... São Paulo, 2005. Disponível em <http://www.docomomo.org.br/seminarios.htm>. Acesso em 12 fev.2010.'
-  - ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Arquitextos Vitruvius, São Paulo, n.076.02, 2006. Disponível em <http://www.vitruvius.com.br/arquitextos/arq076/arq076_02.asp> Acesso em 06 jun. 2009.
-  - _______________. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos V i t r u v i u s , São Paulo, n. 084, 2007. Disponível em <http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp> Acesso em 07 jun. 2009.
-- id: sdmg01-002
-  titulo: Estações Ferroviárias de Mairinque e Varginha
-  subtitulo: inspiração, acaso ou justaposição de modernidades?
-  autores:
-  - givenname: Anita R. Di
+  - 'ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Arquitextos Vitruvius, São Paulo, n.076.02, 2006. Disponível em <http://www.vitruvius.com.br/arquitextos/arq076/arq076_02.asp> Acesso em 06 jun. 2009.'
+  - '_______________. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos V i t r u v i u s , São Paulo, n. 084, 2007. Disponível em <http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp> Acesso em 07 jun. 2009.'
+  locale: 'pt-BR'
+  file: 'sdmg01-001.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdmg01-002'
+  title: Estações ferroviárias de Mairinque e Varginha
+  subtitle: 'inspiração, acaso ou justaposição de modernidades?'
+  authors:
+  - givenname: Anita Regina Di
     familyname: Marco
-    email: ardimarco@uol.com.br
+    email: 'ardimarco@uol.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Luciana Claudia de Oliveira
     familyname: Souza
-    email: lu.historiadora@yahoo.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'lu.historiadora@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Duas estações ferroviárias, com quase 30 anos de diferença na construção entre elas. Inspiração, acaso, influências, desejos de modernidade, o partido? Quais são os pontos de contato entre as cidades de Mayrink no interior de são Paulo e Varginha, sul de Minas Gerais, para possuírem estações ferroviárias tão similares? Os prédios de ambas as estações são emblemáticos – considerados protomodernistas. Ambos representam o início do caminho para o progresso e desenvolvimento do município, pela implantação da ferrovia e pela técnica construtiva inovadora. Construída poucos anos antes da inauguração das obras de Pampulha, a estação ferroviária de Varginha foi a primeira construção em concreto da cidade. Os construtores foram os engenheiros Braz e Armindo Paione, ambos com extenso rol de obras realizadas no sul de Minas. Eram construtores, não autores do projeto: segundo informações da família (ainda em processo de pesquisa e checagem), o projeto era de responsabilidade da Rede Mineira de Viação, vinculada à Secretaria de Obras do Estado de Minas Gerais, em Belo Horizonte. Este trabalho buscará responder à questão proposta pelo seminário - o que une o imenso território das Minas Gerais; trabalhando, em contraponto, para também tentar identificar, compreender e explicitar os laços entre o Sul de Minas e o Estado de São Paulo; que comparecem, indiretamente, na construção de sua estação ferroviária, onde a busca de novos materiais, novas técnicas e novas soluções inovadoras e plásticas, se cristaliza nesse diálogo inter-regional.'
+  keywords:
   - modernidade
   - paradigma
   - inspiração
-  palavras_chave_en:
+  abstract_en: 'The strange similarity between two rail stations, despite having been built thirty years apart. Inspiration, chance, influence, modernity desire, conception? Which are the coincidences between the cities of Mairinque in São Paulo and Varginha in the southern region of Minas Gerais – 370 km apart – to allow the materialization of so similar rail stations? Both buildings are emblematical and considered protomodernist. Both of them represent the launching of the route to progress and development of both cities city, via the implementation of the railway and for the groundbreaking building technique. Built a few years before the Pampulha works, the Varginha Rail Station was the first construction in the city to use reinforced concrete. The Paione Brothers, Braz and Armindo, both of them with an extensive list of works carried out in the South of Minas region undertook the task to build the rail station. They were the contractors, not the design authors. According to a bit of information (which still needs to be checked), the design was a responsibility of the Rede Mineira de Viação, linked to the Secretary of Public Works of Minas Gerais State, in the capital city Belo Horizonte. This paper will aim to answer the question proposed by the seminar: what links Minas Gerais’ immense territory; as a counterpart, it will also try to identify, understand and explain the bonds between the South of Minas region and São Paulo State, which in some way are present in both buildings, where the search for new materials, building techniques and groundbreaking and plastic solutions becomes tangible in this interregional dialogue.'
+  keywords_en:
   - modernity
   - paradigm
   - inspiration
-  resumo: 'Duas estações ferroviárias, com quase 30 anos de diferença na construção entre elas. Inspiração, acaso, influências, desejos de modernidade, o partido? Quais são os pontos de contato entre as cidades de Mayrink no interior de são Paulo e Varginha, sul de Minas Gerais, para possuírem estações ferroviárias tão similares? Os prédios de ambas as estações são emblemáticos – considerados protomodernistas. Ambos representam o início do caminho para o progresso e desenvolvimento do município, pela implantação da ferrovia e pela técnica construtiva inovadora. Construída poucos anos antes da inauguração das obras de Pampulha, a estação ferroviária de Varginha foi a primeira construção em concreto da cidade. Os construtores foram os engenheiros Braz e Armindo Paione, ambos com extenso rol de obras realizadas no sul de Minas. Eram construtores, não autores do projeto: segundo informações da família (ainda em processo de pesquisa e checagem), o projeto era de responsabilidade da Rede Mineira de Viação, vinculada à Secretaria de Obras do Estado de Minas Gerais, em Belo Horizonte. Este trabalho buscará responder à questão proposta pelo seminário - o que une o imenso território das Minas Gerais; trabalhando, em contraponto, para também tentar identificar, compreender e explicitar os laços entre o Sul de Minas e o Estado de São Paulo; que comparecem, indiretamente, na construção de sua estação ferroviária, onde a busca de novos materiais, novas técnicas e novas soluções inovadoras e plásticas, se cristaliza nesse diálogo inter-regional.'
-  resumo_en: 'The strange similarity between two rail stations, despite having been built thirty years apart. Inspiration, chance, influence, modernity desire, conception? Which are the coincidences between the cities of Mairinque in São Paulo and Varginha in the southern region of Minas Gerais – 370 km apart – to allow the materialization of so similar rail stations? Both buildings are emblematical and considered protomodernist. Both of them represent the launching of the route to progress and development of both cities city, via the implementation of the railway and for the groundbreaking building technique. Built a few years before the Pampulha works, the Varginha Rail Station was the first construction in the city to use reinforced concrete. The Paione Brothers, Braz and Armindo, both of them with an extensive list of works carried out in the South of Minas region undertook the task to build the rail station. They were the contractors, not the design authors. According to a bit of information (which still needs to be checked), the design was a responsibility of the Rede Mineira de Viação, linked to the Secretary of Public Works of Minas Gerais State, in the capital city Belo Horizonte. This paper will aim to answer the question proposed by the seminar: what links Minas Gerais’ immense territory; as a counterpart, it will also try to identify, understand and explain the bonds between the South of Minas region and São Paulo State, which in some way are present in both buildings, where the search for new materials, building techniques and groundbreaking and plastic solutions becomes tangible in this interregional dialogue.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-002.pdf
-  paginas_total: 12
-- id: sdmg01-003
-  titulo: A Pampulha na experiência estética e política de Belo Horizonte
-  subtitulo: do discurso à materialização da nação moderna imaginada
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-002.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdmg01-003'
+  title: A Pampulha na experiência estética e política de Belo Horizonte
+  subtitle: do discurso à materialização da nação moderna imaginada
+  authors:
   - givenname: Celina Borges
     familyname: Lemos
-    email: celina.lemos@uol.com.br
+    email: 'celina.lemos@uol.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Denise Marques
     familyname: Bahia
-    email: dmbahia@uol.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'dmbahia@uol.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Esta comunicação trata de uma análise crítica e interpretativa do Complexo Arquitetônico da Pampulha, de Oscar Niemeyer, em Belo Horizonte, entendido como expressão concreta de um ideário social e politicamente construído e seus significados no tempo. Abordaremos inicialmente o modernismo no Brasil, suas particularidades com relação ao movimento universal e sua importância na formação da cultura brasileira. Conceitos como cidade, urbano, modernidade e vanguarda são operados para refletirmos sobre a arquitetura moderna como materialização estético-cultural das proposições do Estado como agente construtor de uma nova sociedade e de uma nação imaginada. Em seguida, serão apresentados os principais atores do processo de consolidação do campo arquitetônico no Brasil a partir da década de 30, durante o regime ditatorial de Getúlio Vargas chamado Estado Novo, quando são construídas as noções de patrimônio histórico- cultural e identidade nacional. Finalmente, abordaremos a experiência estética e política de Belo Horizonte, cidade planejada e construída em 1897 onde, a partir de 1940, a política desenvolvimentista do então prefeito Juscelino Kubitschek ganha expressão estética e cultural com a criação da Pampulha e outras obras relevantes de Oscar Niemeyer, iniciando uma trajetória que terá como ápice a construção da capital federal Brasília. Não nos limitaremos, portanto, a uma mera descrição arquitetônica de edifícios, mas buscaremos compreender o contexto político e social em que o modernismo surgiu e se consolidou e como a sociedade vem lhe conferindo significado em Belo Horizonte. Consideramos fundamental destacar a ambivalência do combate do modernismo à ideologia autoritária e ao academismo passadista que imperava nas manifestações artísticas e culturais de um país em busca de sua identidade, de reconhecimento de suas verdadeiras tradições e, ao mesmo tempo, em busca de modernização e consonância com as discussões estéticas internacionais. A Pampulha é considerada, neste estudo, substancialmente emblemática com relação a esse processo constitutivo das noções de patrimônio cultural e identidade nacional, a partir da relação entre política e arquitetura.'
+  keywords:
   - patrimônio arquitetônico moderno
   - patrimônio cultural
   - política e arquitetura
-  palavras_chave_en:
+  abstract_en: 'This paper focuses the Pampulha Architectonic Complex projected by Oscar Niemeyer, in Belo Horizonte, as a concrete expression of a social and politic constructed ideary and its meanings in time. It will be discussed initially the brazilian modernism, its particularities in relation to the universal movement, as well its importance for the braziian culture formation. Concepts as city, urban, modernity and architectural avant-garde are operated in order to think about modern architecture as esthetic and cultural materialization of the State purposes as a constructor agent of a new society and a imaginated nation. After then, the principal actors of the process of the architectonic field consolidation in Brazil, in the 1930 decade, during the dictatorial government of Getúlio Vargas called Estado Novo” will be presented. At last, the article discuss the esthetic and political experience of Belo Horizonte, a planned and built city in 1897 where, from 1940, the development policy of Major Juscelino Kubitschek takes cultural expression through the criation of Pampulha and other significative works of Oscar Niemeyer, beginning a long way that will have as great final point the construction of the federal capital Brasília. The article doesn’t present a simple architectonic descripition of the Complex’s buildings, but aims to understand the political and social context in which this architecture was created and has been consolidated and how the society has attributed to ita cultural meaning. Finally, this paper focuses the ambivalency of the modernism fight against the authoritary ideology and the anachronic academism that defined yhe artistic and cultural manifestations of a country searching for identity, real traditions at the same time of searching the way to modernization according to the international esthetic discussions at that time. Pampulha is this study considered as an emblem of this constitutive of cultural heritage and national identity process.'
+  keywords_en:
   - modern architecture heritage
   - cultural heritage
   - politics and architecture
-  resumo: Esta comunicação trata de uma análise crítica e interpretativa do Complexo Arquitetônico da Pampulha, de Oscar Niemeyer, em Belo Horizonte, entendido como expressão concreta de um ideário social e politicamente construído e seus significados no tempo. Abordaremos inicialmente o modernismo no Brasil, suas particularidades com relação ao movimento universal e sua importância na formação da cultura brasileira. Conceitos como cidade, urbano, modernidade e vanguarda são operados para refletirmos sobre a arquitetura moderna como materialização estético-cultural das proposições do Estado como agente construtor de uma nova sociedade e de uma nação imaginada. Em seguida, serão apresentados os principais atores do processo de consolidação do campo arquitetônico no Brasil a partir da década de 30, durante o regime ditatorial de Getúlio Vargas chamado Estado Novo, quando são construídas as noções de patrimônio histórico- cultural e identidade nacional. Finalmente, abordaremos a experiência estética e política de Belo Horizonte, cidade planejada e construída em 1897 onde, a partir de 1940, a política desenvolvimentista do então prefeito Juscelino Kubitschek ganha expressão estética e cultural com a criação da Pampulha e outras obras relevantes de Oscar Niemeyer, iniciando uma trajetória que terá como ápice a construção da capital federal Brasília. Não nos limitaremos, portanto, a uma mera descrição arquitetônica de edifícios, mas buscaremos compreender o contexto político e social em que o modernismo surgiu e se consolidou e como a sociedade vem lhe conferindo significado em Belo Horizonte. Consideramos fundamental destacar a ambivalência do combate do modernismo à ideologia autoritária e ao academismo passadista que imperava nas manifestações artísticas e culturais de um país em busca de sua identidade, de reconhecimento de suas verdadeiras tradições e, ao mesmo tempo, em busca de modernização e consonância com as discussões estéticas internacionais. A Pampulha é considerada, neste estudo, substancialmente emblemática com relação a esse processo constitutivo das noções de patrimônio cultural e identidade nacional, a partir da relação entre política e arquitetura.
-  resumo_en: This paper focuses the Pampulha Architectonic Complex projected by Oscar Niemeyer, in Belo Horizonte, as a concrete expression of a social and politic constructed ideary and its meanings in time. It will be discussed initially the brazilian modernism, its particularities in relation to the universal movement, as well its importance for the braziian culture formation. Concepts as city, urban, modernity and architectural avant-garde are operated in order to think about modern architecture as esthetic and cultural materialization of the State purposes as a constructor agent of a new society and a imaginated nation. After then, the principal actors of the process of the architectonic field consolidation in Brazil, in the 1930 decade, during the dictatorial government of Getúlio Vargas called Estado Novo” will be presented. At last, the article discuss the esthetic and political experience of Belo Horizonte, a planned and built city in 1897 where, from 1940, the development policy of Major Juscelino Kubitschek takes cultural expression through the criation of Pampulha and other significative works of Oscar Niemeyer, beginning a long way that will have as great final point the construction of the federal capital Brasília. The article doesn’t present a simple architectonic descripition of the Complex’s buildings, but aims to understand the political and social context in which this architecture was created and has been consolidated and how the society has attributed to ita cultural meaning. Finally, this paper focuses the ambivalency of the modernism fight against the authoritary ideology and the anachronic academism that defined yhe artistic and cultural manifestations of a country searching for identity, real traditions at the same time of searching the way to modernization according to the international esthetic discussions at that time. Pampulha is this study considered as an emblem of this constitutive of cultural heritage and national identity process.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-003.pdf
-  paginas_total: 9
-  referencias:
-  - AMARAL, Aracy. Artes plásticas na Semana de 22. São Paulo, Editora 34, 1998.
+  references:
+  - 'AMARAL, Aracy. Artes plásticas na Semana de 22. São Paulo, Editora 34, 1998.'
   - 'ANDERSEN, Benedict. Comunidades imaginadas: reflexões sobre a origem e a difusão do nacionalismo. São Paulo: Companhia das Letras,'
-  - AUGÉ, Marc. Não-lugares. Introdução a uma antropologia da supermodernidade. Campinas, São Paulo, Papirus, col. Travessia do século, 1994.
+  - 'AUGÉ, Marc. Não-lugares. Introdução a uma antropologia da supermodernidade. Campinas, São Paulo, Papirus, col. Travessia do século, 1994.'
   - 'BAHIA, Denise Marques. O sentido de habitar e as formas de morar: a experiência modernista na arquitetura residencial unifamiliar de Belo Horizonte. Belo Horizonte, Núcleo de Pós-graduacão da Escola de Arquitetura da UFMG, 1999. (Dissertação de Mestrado).'
   - 'BOJUNGA, Cláudio. JK. O artista do impossível. Rio de Janeiro: Objetiva, 2001.'
   - 'BENJAMIN, Walter. Paris do Segundo Império. In: Charles Baudelaire: um lírico no auge do capitalismo; trad. José Martins Barbosa, Hemerson Alves Baptista. – 1.ed. SãoPaulo: Brasiliense, 1989. (obras escolhidas; v.3).'
@@ -125,88 +163,117 @@ articles:
   - 'JACOBS, Jane. Morte e vida de grandes cidades. São Paulo: Martins Fontes, 2000.'
   - 'LEMOS, Celina Borges. The Modernization of brazilian urban space as a politicalsymbol of the republic. In: The journal of decorative and propaganda arts, n. 21, Miami, USA, The Wolfson Foundation of Decorative and Propaganda Arts, 1995 portuguese supplement Editor: Berta M. Sichel, p.106-p.237.'
   - 'MACEDO, Danilo Matoso. Da matéria à invenção: as obras de Oscar Niemeyer em Minas Gerais, 1938-1955. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2008.'
-  - ORTIZ, Renato. Cultura Brasileira e identidade nacional. São Paulo, Brasiliense, 1985.
-  - ________.A moderna tradição brasileira. - cultura brasileira e indústria cultural. São Paulo, Editora Brasiliense, 1988.
-  - ROSSI, Aldo. A Arquitetura da Cidade. Lisboa, Cosmos, 1977.
+  - 'ORTIZ, Renato. Cultura Brasileira e identidade nacional. São Paulo, Brasiliense, 1985.'
+  - '________.A moderna tradição brasileira. - cultura brasileira e indústria cultural. São Paulo, Editora Brasiliense, 1988.'
+  - 'ROSSI, Aldo. A Arquitetura da Cidade. Lisboa, Cosmos, 1977.'
   - 'SIMMEL, George. A metrópole e a vida mental. In: VELHO, Otávio Guilherme (org.). O fenômeno urbano. Rio de Janeiro: Zahar Editores, 1967.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900 – 1990. São Paulo, Edusp – Editora da Universidade de São Paulo, 1998.'
   - '_______. Una vanguardia impregnada de tradición: Lucio Costa y la herencia brasileña. In: A&V - monografias de arquitectura y vivienda. Número 13. 1988. Editora'
   - AVISA (Arquitectura Viva). Madrid.
-  - SOUZA, Eneida Maria, SCHMIDT, Paulo e MIRANDA Wander Melo. (ed.) Catálogo da Exposição Imagens da Modernidade, Museu de Arte da Pampulha, Belo Horizonte, 1996.
+  - 'SOUZA, Eneida Maria, SCHMIDT, Paulo e MIRANDA Wander Melo. (ed.) Catálogo da Exposição Imagens da Modernidade, Museu de Arte da Pampulha, Belo Horizonte, 1996.'
   - 'STARLING, Heloísa Maria Murgel. In: Catálogo da Exposição Juscelino Prefeito: 1940-1945. PBH, MHAB, 2002, p. 35.'
-  - VASCONCELLOS, Sylvio de. Noções sobre arquitetura. Belo Horizonte, Escola de Arquitetura da UFMG, 1962.
-- id: sdmg01-004
-  titulo: As referências carioca e mineira da arquitetura moderna no Espírito Santo
-  autores:
+  - 'VASCONCELLOS, Sylvio de. Noções sobre arquitetura. Belo Horizonte, Escola de Arquitetura da UFMG, 1962.'
+  locale: 'pt-BR'
+  file: 'sdmg01-003.pdf'
+  pages_count: 9
+  pages: null
+
+- id: 'sdmg01-004'
+  title: As referências carioca e mineira da Arquitetura Moderna no Espírito Santo
+  authors:
   - givenname: Clara Luiza
     familyname: Miranda
-    email: claravix@hotmail.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'claravix@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'A Arquitetura Moderna Brasileira, mesmo quando ligada à intenção plástica individual, congrega padrões de linguagem compartilhados por grupos de arquitetos. Tais padrões se difundem mediante redes de relações. Segundo Ruth Verde Zein: “A arquitetura moderna sempre se caracterizou por sua intenção ‘exemplar’, pelo didadismo. Os grandes mestres pioneiros foram além de arquitetos, professores e divulgadores das novas concepções”. A inexistência de escolas de arquitetura no Espírito Santo, até 1979, resulta numa inevitável transferência de padrões lingüísticos e operativos através da atuação de arquitetos formados em outros estados brasileiros. As bases para o surgimento da arquitetura moderna capixaba ocorrem no Governo Vargas (1930-45) com o crescimento da construção civil e a difusão do uso do concreto armado. Contudo, os pressupostos da Arquitetura Moderna são concretizados no início dos anos 1950, com governantes difusores da ideologia Moderna desenvolvimentista e com a atividade de arquitetos formados no Rio de Janeiro e em Belo Horizonte. O governo de Jones Santos Neves (1951-53) incorpora-se ao princípio de racionalização da arquitetura moderna. Jones recorre a arquitetos formados na Faculdade Nacional de Arquitetura da Universidade do Brasil como: Francisco Bolonha, Ari Garcia Roza, Élio Vianna e Maria do Carmo Schwab. No mesmo período, formado na Escola de Arquitetura de Minas Gerais, o arquiteto Décio Thevenard projeta edificações que remetem à linguagem “Art Decó” dos professores fundadores da Escola de Arquitetura de Belo Horizonte (EABH). Nos anos 1970, outros arquitetos formados na EABH atuam em Vitória, ES.'
+  keywords:
   - Arquitetura moderna
   - arquitetos capixabas
   - análise histórica
-  resumo: 'A Arquitetura Moderna Brasileira, mesmo quando ligada à intenção plástica individual, congrega padrões de linguagem compartilhados por grupos de arquitetos. Tais padrões se difundem mediante redes de relações. Segundo Ruth Verde Zein: “A arquitetura moderna sempre se caracterizou por sua intenção ‘exemplar’, pelo didadismo. Os grandes mestres pioneiros foram além de arquitetos, professores e divulgadores das novas concepções”. A inexistência de escolas de arquitetura no Espírito Santo, até 1979, resulta numa inevitável transferência de padrões lingüísticos e operativos através da atuação de arquitetos formados em outros estados brasileiros. As bases para o surgimento da arquitetura moderna capixaba ocorrem no Governo Vargas (1930-45) com o crescimento da construção civil e a difusão do uso do concreto armado. Contudo, os pressupostos da Arquitetura Moderna são concretizados no início dos anos 1950, com governantes difusores da ideologia Moderna desenvolvimentista e com a atividade de arquitetos formados no Rio de Janeiro e em Belo Horizonte. O governo de Jones Santos Neves (1951-53) incorpora-se ao princípio de racionalização da arquitetura moderna. Jones recorre a arquitetos formados na Faculdade Nacional de Arquitetura da Universidade do Brasil como: Francisco Bolonha, Ari Garcia Roza, Élio Vianna e Maria do Carmo Schwab. No mesmo período, formado na Escola de Arquitetura de Minas Gerais, o arquiteto Décio Thevenard projeta edificações que remetem à linguagem “Art Decó” dos professores fundadores da Escola de Arquitetura de Belo Horizonte (EABH). Nos anos 1970, outros arquitetos formados na EABH atuam em Vitória, ES.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-004.pdf
-  paginas_total: 15
-  referencias:
+  references:
   - 'A GAZETA. Arquitetura: há mercado para o novo curso. Jornal A gazeta 12/08/1979'
   - 'BORDIEU, Pierre. A Economia das trocas Simbólicas. São Paulo: Perspectiva, 1982.'
   - 'CRISPOLDI, Enrico. Como estudar a arte contemporânea. Lisboa: Estampa, 2004.'
   - 'FICHER, Sylvia & ACAYABA, Marlene Milan. Arquitetura Moderna Brasileira. São Paulo: Projeto Editores, 1982'
-  - LOPES, Almerinda da Silva. Arte no Espírito Santo do século XIX à Primeira República. Vitória, Ed. do Autor, 1997.
+  - 'LOPES, Almerinda da Silva. Arte no Espírito Santo do século XIX à Primeira República. Vitória, Ed. do Autor, 1997.'
   - 'MATOS, João Bosco Silva e SILVA, Ana Cristina Lage da. Arquitetura Moderna Capixaba: Elio Vianna e Maria do Carmo Schwab. PG. Universidade Federal do Espírito Santo, Vitória, 2000.'
   - 'MIRANDA, Clara Luiza. (coord,) Relatório de Pesquisa Arquitetura capixaba desde 1535: Modernismo e tardomodernismo na Região Metropolitana da Grande Vitória. Vitória, 2009'
-  - MORANDI, Angela Maria & ROCHA, Haroldo Correa. Cafeicultura e Grande Indústria. Transição no Espírito Santo 1955-85. Vitória, FCAA,1991
-  - MURTA, Luciana Mello. Guia da Arquitetura Moderna Capixaba. PG. Universidade Federal do Espírito Santo, Vitória, 2000.
+  - 'MORANDI, Angela Maria & ROCHA, Haroldo Correa. Cafeicultura e Grande Indústria. Transição no Espírito Santo 1955-85. Vitória, FCAA,1991'
+  - 'MURTA, Luciana Mello. Guia da Arquitetura Moderna Capixaba. PG. Universidade Federal do Espírito Santo, Vitória, 2000.'
   - 'QUEIRÓS, Mauricio Vinhas de. Arquitetura e Desenvolvimento. In. XAVIER, Alberto. Depoimento de uma geração. São Paulo: ABEA: FVA: PINI, 1987. p. 155-177.'
   - 'RANCIÈRE, Jacques. A partilha do sensível: estética e política. São Paulo: EXO Experimental / Editora 34, 2005.'
-  - RIBEIRO, Patrícia Pimenta Azevedo. A Participação da Escola de Arquitetura na Construção do Pensamento Moderno em Belo Horizonte. DOCOMOMO, 2003. In. http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A3F/Patricia_ribeiro.pdf . Acesso em fevereiro de 2010
-  - ROGERS, Ernesto. Towards a non-formalist criticism. Casabella (200), 1954
+  - 'RIBEIRO, Patrícia Pimenta Azevedo. A Participação da Escola de Arquitetura na Construção do Pensamento Moderno em Belo Horizonte. DOCOMOMO, 2003. In. http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A3F/Patricia_ribeiro.pdf . Acesso em fevereiro de 2010'
+  - 'ROGERS, Ernesto. Towards a non-formalist criticism. Casabella (200), 1954'
   - 'SCHWAB, Maria do Carmo Novaes. Considerações sobre Arquitetura e Ecologia. Vitória: Vitória, 1997'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1999.'
-  - VIANNA, Élio de Almeida. A criança e a evolução dos interesses – esquema de trabalho para o estabelecimento de uma doutrina escolar. Vitória, 1954.
+  - 'VIANNA, Élio de Almeida. A criança e a evolução dos interesses – esquema de trabalho para o estabelecimento de uma doutrina escolar. Vitória, 1954.'
   - 'ZEIN, Ruth Verde. O Lugar da Crítica, Ensaios oportunos de Arquitetura. São Paulo:'
   - 'PROEDITORES; Porto Alegre: Ed Ritter dos Reis, 2003.'
-- id: sdmg01-005
-  titulo: Entre o edifício e a cidade
-  subtitulo: a trajetória revisitada do engenheiro Arthur Arcuri em Juiz de Fora/MG
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-004.pdf'
+  pages_count: 15
+  pages: null
+
+- id: 'sdmg01-005'
+  title: Entre o edifício e a cidade
+  subtitle: a trajetória revisitada do engenheiro Arthur Arcuri em Juiz de Fora/MG
+  authors:
   - givenname: Fabio Jose Martins de
     familyname: Lima
-    email: fabio.lima@ufjf.edu.br
+    email: 'fabio.lima@ufjf.edu.br'
+    affiliation: null
+    orcid: '0000-0001-9071-2383'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Raquel Fernandes
     familyname: Rezende
-    email: quelgeorezende@yahoo.com.br
+    email: 'quelgeorezende@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Raquel Filippo Fernandes
     familyname: Hellich
-    email: rhellich@hotmail.com
+    email: 'rhellich@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Eduardo Bento
     familyname: Vasconcelos
-    email: eduardo.qb@hotmail.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'eduardo.qb@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'O trabalho aborda a trajetória do engenheiro Arthur Arcuri em Juiz de Fora/MG, revisitada a partir de eventos recentes e entrevista, os quais contaram com a participação deste profissional. Em 11 de dezembro de 2007, participamos do projeto “Diálogos Abertos”, realizado no Museu de Arte Murilo Mendes da UFJF, como um dos mediadores do depoimento de Arthur Arcuri. Já em 26 de maio de 2009, entrevista realizada em sua residência explorou também outros pormenores da sua produção, particularmente relacionada com o projeto para a Cidade Universitária da UFJF. Por fim, em 30 de outubro de 2009, no Seminário Campus Universitário da UFJF, promovido pelo Núcleo REARQ/UFJF, Arcuri fez nova explanação. Arthur Arcuri diplomou-se em Engenharia Civil pela Escola Nacional de Engenharia no Rio de Janeiro em 1937. Neste período, freqüentou a biblioteca da Faculdade Nacional de Arquitetura da Universidade do Brasil, declarando ser autodidata em arquitetura, fotografia e artes plásticas. Desenvolveu inúmeros projetos para a cidade de Juiz de Fora/M.G.. Dedicou-se à arquitetura e ao urbanismo, elaborando projetos de fábricas, edifícios, clubes, residências, além da Cidade Universitária da Universidade Federal de Juiz de Fora. A abordagem de biografias profissionais se mostra relevante para a compreensão do processo de transformação das cidades. Da escala de inserção do edifício para a escala do projeto urbano, apropriandose de conceitos, compondo uma atuação profissional diferenciada e marcante, incluindo textos de crítica de arquitetura, além de uma atuação acadêmica, nos deparamos com a trajetória de Arthur Arcuri. O artigo se insere na produção do núcleo urbanismomg, da UFJF, que integra a rede Urbanismo no Brasil, com o apoio do CNPQ, da FAPEMIG, do Min Cultura e do Min Cidades.'
+  keywords:
   - Movimento Moderno
   - Juiz de Fora
   - Urbanismo
-  resumo: O trabalho aborda a trajetória do engenheiro Arthur Arcuri em Juiz de Fora/MG, revisitada a partir de eventos recentes e entrevista, os quais contaram com a participação deste profissional. Em 11 de dezembro de 2007, participamos do projeto “Diálogos Abertos”, realizado no Museu de Arte Murilo Mendes da UFJF, como um dos mediadores do depoimento de Arthur Arcuri. Já em 26 de maio de 2009, entrevista realizada em sua residência explorou também outros pormenores da sua produção, particularmente relacionada com o projeto para a Cidade Universitária da UFJF. Por fim, em 30 de outubro de 2009, no Seminário Campus Universitário da UFJF, promovido pelo Núcleo REARQ/UFJF, Arcuri fez nova explanação. Arthur Arcuri diplomou-se em Engenharia Civil pela Escola Nacional de Engenharia no Rio de Janeiro em 1937. Neste período, freqüentou a biblioteca da Faculdade Nacional de Arquitetura da Universidade do Brasil, declarando ser autodidata em arquitetura, fotografia e artes plásticas. Desenvolveu inúmeros projetos para a cidade de Juiz de Fora/M.G.. Dedicou-se à arquitetura e ao urbanismo, elaborando projetos de fábricas, edifícios, clubes, residências, além da Cidade Universitária da Universidade Federal de Juiz de Fora. A abordagem de biografias profissionais se mostra relevante para a compreensão do processo de transformação das cidades. Da escala de inserção do edifício para a escala do projeto urbano, apropriandose de conceitos, compondo uma atuação profissional diferenciada e marcante, incluindo textos de crítica de arquitetura, além de uma atuação acadêmica, nos deparamos com a trajetória de Arthur Arcuri. O artigo se insere na produção do núcleo urbanismomg, da UFJF, que integra a rede Urbanismo no Brasil, com o apoio do CNPQ, da FAPEMIG, do Min Cultura e do Min Cidades.
-  resumo_en: The paper addresses the trajectory of the engineer Arthur Arcuri in Juiz de Fora / MG, revisited from recent events and interviews, which were attended this training. On December 11, 2007, we participated in the project "Diálogos Abertos" held at the Art Museum Murilo Mendes UFJF as one of the mediators of the testimony of Arthur Arcuri. As early as May 26, 2009, interview at his home also explored other details of their production, particularly related to the project for the Cidade Universitária of Federal University of Juiz de Fora. Finally, on October 30, 2009, the Seminary Campus UFJF, sponsored by the REARQ / UFJF, Arcuri has new explanation. Arthur Arcuri graduated in Civil Engineering from the Escola Nacional de Engenharia in Rio de Janeiro in 1937. During this period he attended the library of the Faculdade Nacional de Arquitetura da Universidade do Brasil, declares to be self-taught in architecture, photography and visual arts. Developed numerous projects for the city of Juiz de Fora/MG. He devoted himself to architecture and urbanism, developing projects of factories, buildings, clubs, homes, and the Cidade Universitária, of Federal University of Juiz de Fora. The approach of professional biographies seem to be relevant for understanding the transformation process of cities. Scale integration of the building to the scale of urban design, appropriating concepts, creating a distinctive and remarkable professional performance, including critical texts of architecture, plus an academic achievement, we encounter the trajectory of Arthur Arcuri. The article is part of the core production Urbanismomg, UFJF, part of the Urbanismobr in Brazil, with support from CNPq, FAPEMIG, Min Cultura and Min Cidades.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-005.pdf
-  paginas_total: 11
-  referencias:
+  abstract_en: 'The paper addresses the trajectory of the engineer Arthur Arcuri in Juiz de Fora / MG, revisited from recent events and interviews, which were attended this training. On December 11, 2007, we participated in the project "Diálogos Abertos" held at the Art Museum Murilo Mendes UFJF as one of the mediators of the testimony of Arthur Arcuri. As early as May 26, 2009, interview at his home also explored other details of their production, particularly related to the project for the Cidade Universitária of Federal University of Juiz de Fora. Finally, on October 30, 2009, the Seminary Campus UFJF, sponsored by the REARQ / UFJF, Arcuri has new explanation. Arthur Arcuri graduated in Civil Engineering from the Escola Nacional de Engenharia in Rio de Janeiro in 1937. During this period he attended the library of the Faculdade Nacional de Arquitetura da Universidade do Brasil, declares to be self-taught in architecture, photography and visual arts. Developed numerous projects for the city of Juiz de Fora/MG. He devoted himself to architecture and urbanism, developing projects of factories, buildings, clubs, homes, and the Cidade Universitária, of Federal University of Juiz de Fora. The approach of professional biographies seem to be relevant for understanding the transformation process of cities. Scale integration of the building to the scale of urban design, appropriating concepts, creating a distinctive and remarkable professional performance, including critical texts of architecture, plus an academic achievement, we encounter the trajectory of Arthur Arcuri. The article is part of the core production Urbanismomg, UFJF, part of the Urbanismobr in Brazil, with support from CNPq, FAPEMIG, Min Cultura and Min Cidades.'
+  references:
   - 'ARCURI, A.. Reforma universitária. Juiz de Fora: UFJF, 1967, pp. 3-15.'
-  - ___. Memorial Justificativo do Estudo para a Cidade Universitária da Universidade Federal de Juiz de Fora, apresentado pelo eng. Arthur Arcuri. Juiz de Fora, outubro de 1965.
+  - '___. Memorial Justificativo do Estudo para a Cidade Universitária da Universidade Federal de Juiz de Fora, apresentado pelo eng. Arthur Arcuri. Juiz de Fora, outubro de 1965.'
   - ___. O problema da forma na arte do monumento. REVISTA ARQUITETURA E
-  - ENGENHARIA, Belo Horizonte IAB/MG, n. 23, p. 58-59, set./out. 1952.
+  - 'ENGENHARIA, Belo Horizonte IAB/MG, n. 23, p. 58-59, set./out. 1952.'
   - ___. Estação Rodoviária de Juiz de Fora. REVISTA TÉCNICA E DIDÁTICA DE
-  - ENGENHARIA. Juiz de Fora vol.5, 1946, pp. 38-42.
+  - 'ENGENHARIA. Juiz de Fora vol.5, 1946, pp. 38-42.'
   - 'BRAGA, R. D. V. & LIMA, F. J. M. de. Presença da Arquitetura Moderna em Juiz de Fora: Projeto de Residência de Arthur Arcuri para a Rua Brás Bernadino. 5'
   - 'DOCOMOMO. São Carlos: 2003.'
   - 'GARCIA, N.; CRISTINA, A.; JUNIOR, A.. Arcuri e a criação da UFJF: Da profundeza do vale à magnitude das montanhas. Trabalho final da disciplina Evolução da Arquitetura e do Urbanismo III, no ano de 2008'
   - 'LEME, M. C. da S. (org.). Urbanismo no Brasil: 1895-1965. São Paulo: Studio Nobel;'
-  - FAUUSP; FUPAM, 1999, 600 p.
+  - 'FAUUSP; FUPAM, 1999, 600 p.'
   - 'BRUAND, Y. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1997, 3° edição - P. 64.'
   - 'LIMA, F. J. M. de. Por uma cidade moderna: Ideários de urbanismo em jogo no concurso para Monlevade e nos projetos destacados da trajetória dos técnicos concorrentes (1931-1943). São Paulo: 2003, Tese de Doutorado - FAUUSP, 431 p..'
   - 'LIMA, F. J. M. de & PORTES, R. von R.. Urbanismo em Minas Gerais: pensamento e práticas urbanísticas relacionadas ao ideário do Movimento Moderno (19301965). CADERNOS PPG-AU/FAUFBA, Salvador: 2005, p. 103-120.'
@@ -215,45 +282,70 @@ articles:
   - 'SANTANA, R. & PUGLIESI, S. Arquitetura Moderna em Juiz de Fora: a contribuição de Arthur Arcuri. Juiz de Fora, FUNALFA, 2002.'
   - 'VACCARINI, E. Arthur Arcuri: Arquitetura e Arte. Juiz de Fora: FUNALFA, 2009. (DVD)'
   - 'LEME, M. C. da S. (org.). Urbanismo no Brasil: 1895-1965. São Paulo: Studio Nobel; FAUUSP; FUPAM, 1999, p.20.'
-- id: sdmg01-006
-  titulo: A noção de Urbanismo em Juiz de Fora na década de 1930
-  subtitulo: a atuação de Francisco Baptista de Oliveira na consolidação do seu significado
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-005.pdf'
+  pages_count: 11
+  pages: null
+
+- id: 'sdmg01-006'
+  title: A noção de Urbanismo em Juiz de Fora na década de 1930
+  subtitle: a atuação de Francisco Baptista de Oliveira na consolidação do seu significado
+  authors:
   - givenname: Klaus Chaves
     familyname: Alberto
-    email: klaus.alberto@ufjf.edu.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave_en:
+    email: 'klauschavesalberto@gmail.com'
+    affiliation: null
+    orcid: '0000-0003-2845-8307'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: null
+  abstract_en: 'The Diário Mercantil, one of Juiz de Fora’s most important newspapers during the 1930s, published, at the time, a periodic column entitled “Urban Planning Section”, written by Engineer Francisco Baptista de Oliveira. In his column the author developed pedagogical work with his readers about the meaning and the importance of urban planning to the cities. Later, these ideals were consolidated into two books on the same subject. The consistency and urban planning culture presented in those texts arouse interest in studying the professional trajectory of that Engineer, and also allowed us to understand the context in which the notion of Urban Planning in Minas Gerais and Brazil circulated. Therefore, this articles aims at presenting his almost unknown professional and academic works, and at analyzing relevant aspects of his works in disseminating Urban Planning at that time. One of the first records of Francisco Baptista Oliveira’s works was his 1936 participation in an important architectural contest for the preliminary design of the Brazilian Press Association headquarters. During that decade he worked as a professor at the Juiz de Fora School of Engineering, teaching “Buildings and Industrial Hygiene. City Water Treatment and Layout”. He also worked as a municipal technician. Moreover, he did important urban and architectonic projects for the city, such as the Praça da Alfândega (Customs Square) and the Medical and Surgical Society. As of 1937 he published several articles about Urban Planning in important national newspapers, later becoming one of the directors of the Magazine Arquitetura st e Urbanismo (Architecture and Urban Planning). In 1941 he took an active part in the 1 Brazilian Conference on Urban Planning, presenting a draft for the Brazilian Urban Code. This article shows that the academic and professional works of Francisco Baptista de Oliveira, which are linked to his own efforts to divulge and popularize the notion of Urban Planning, are important to better understand the establishment of the urban thought in Minas Gerais.'
+  keywords_en:
   - Urban Planning
   - Juiz de Fora
   - Francisco Baptista de Oliveira
-  resumo_en: The Diário Mercantil, one of Juiz de Fora’s most important newspapers during the 1930s, published, at the time, a periodic column entitled “Urban Planning Section”, written by Engineer Francisco Baptista de Oliveira. In his column the author developed pedagogical work with his readers about the meaning and the importance of urban planning to the cities. Later, these ideals were consolidated into two books on the same subject. The consistency and urban planning culture presented in those texts arouse interest in studying the professional trajectory of that Engineer, and also allowed us to understand the context in which the notion of Urban Planning in Minas Gerais and Brazil circulated. Therefore, this articles aims at presenting his almost unknown professional and academic works, and at analyzing relevant aspects of his works in disseminating Urban Planning at that time. One of the first records of Francisco Baptista Oliveira’s works was his 1936 participation in an important architectural contest for the preliminary design of the Brazilian Press Association headquarters. During that decade he worked as a professor at the Juiz de Fora School of Engineering, teaching “Buildings and Industrial Hygiene. City Water Treatment and Layout”. He also worked as a municipal technician. Moreover, he did important urban and architectonic projects for the city, such as the Praça da Alfândega (Customs Square) and the Medical and Surgical Society. As of 1937 he published several articles about Urban Planning in important national newspapers, later becoming one of the directors of the Magazine Arquitetura st e Urbanismo (Architecture and Urban Planning). In 1941 he took an active part in the 1 Brazilian Conference on Urban Planning, presenting a draft for the Brazilian Urban Code. This article shows that the academic and professional works of Francisco Baptista de Oliveira, which are linked to his own efforts to divulge and popularize the notion of Urban Planning, are important to better understand the establishment of the urban thought in Minas Gerais.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-006.pdf
-  paginas_total: 17
-- id: sdmg01-007
-  titulo: Inserção e exclusão
-  subtitulo: o caso do Grande Hotel de Ouro Preto
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-006.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdmg01-007'
+  title: Inserção e exclusão
+  subtitle: o caso do Grande Hotel de Ouro Preto
+  authors:
   - givenname: Laura Rennó
     familyname: Tenenwurcel
-    email: laurarenno@gmail.com
+    email: 'laurarenno@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Ricardo dos Santos
     familyname: Teixeira
-    email: tsrico@gmail.com
+    email: 'tsrico@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Bruno Tropia
     familyname: Caldas
-    email: tropiacaldas@yahoo.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'tropiacaldas@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Ouro Preto exemplifica aquelas cidades especiais do mundo, que, por um determinado recorte histórico, tornam-se um importante documento vivo da trajetória dos países, retratado principalmente através de sua arquitetura. Todavia, apesar de certo destaque temporal, as cidades, são essencialmente atemporais. Assim, a Ouro Preto dos séculos do eldorado entraria em conflito em algum momento de sua trajetória, com um novo tempo, este, contemporâneo e desejoso de novos signos. Um dos primeiros e, por que não dizer, mais significativos embates entre o fausto histórico e o presente latente, nesta cidade, foi a inserção do Grande Hotel, obra modernista, em um sítio histórico já declarado Monumento Nacional em 1933, e tombado, em 1938, pelo recém criado SPHAN (Serviço do Patrimônio Artístico Nacional). A construção do hotel deu-se neste mesmo ano em meio à discussão de como deveria se portar uma nova arquitetura inserida na paisagem tombada, concomitantemente com os primeiros passos da discussão sobre o significado do patrimônio no Brasil com suas divergências técnicas, acadêmicas e factuais. Após 72 anos, tal terreno ainda não possui um apontamento preciso e confortável, sendo o caso debatido e criticado em estudos ao longo desses anos todos. Baseado nestas incertezas é que expomos argumentos e pontos de vista acerca deste marco da virada da arquitetura no Brasil.'
+  keywords:
   - Grande Hotel
   - Ouro Preto
   - Modernismo
-  resumo: Ouro Preto exemplifica aquelas cidades especiais do mundo, que, por um determinado recorte histórico, tornam-se um importante documento vivo da trajetória dos países, retratado principalmente através de sua arquitetura. Todavia, apesar de certo destaque temporal, as cidades, são essencialmente atemporais. Assim, a Ouro Preto dos séculos do eldorado entraria em conflito em algum momento de sua trajetória, com um novo tempo, este, contemporâneo e desejoso de novos signos. Um dos primeiros e, por que não dizer, mais significativos embates entre o fausto histórico e o presente latente, nesta cidade, foi a inserção do Grande Hotel, obra modernista, em um sítio histórico já declarado Monumento Nacional em 1933, e tombado, em 1938, pelo recém criado SPHAN (Serviço do Patrimônio Artístico Nacional). A construção do hotel deu-se neste mesmo ano em meio à discussão de como deveria se portar uma nova arquitetura inserida na paisagem tombada, concomitantemente com os primeiros passos da discussão sobre o significado do patrimônio no Brasil com suas divergências técnicas, acadêmicas e factuais. Após 72 anos, tal terreno ainda não possui um apontamento preciso e confortável, sendo o caso debatido e criticado em estudos ao longo desses anos todos. Baseado nestas incertezas é que expomos argumentos e pontos de vista acerca deste marco da virada da arquitetura no Brasil.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-007.pdf
-  paginas_total: 19
-  referencias:
+  references:
   - 'ACERVO da Secretaria de Estado de Transportes e Obras Públicas de Minas Gerais - SETOP MG. Disponível em: http://www.acervosetop.mg.gov.br. Acesso em: 20 jun. 2009.'
   - 'BRUAND, Yves. A arquitetura contemporânea no Brasil. 3 ed. São Paulo: Perspectiva, 1999.'
   - 'CALVINO, Italo. As cidades invisíveis. 2 ed. Tradução de Diogo Mainardi. São Paulo: Companhia das Letras, 1990.'
@@ -262,108 +354,137 @@ articles:
   - 'CAMPOS, Kátia Maria Nunes. Tempos de mudança: a nova capital. Arquivo Histórico da Câmara Municipal de Ouro Preto. Disponível em:<www.cmop.mg.gov.br>. Acesso em: 13 jun. 2009.'
   - 'COSTA, Lucio. Parecer apresentado a Rodrigo Mello Franco de Andrade sobre o projeto de Oscar Niemeyer para a construção do Hotel de Ouro Preto. Arquivo do SPHAN, pasta Lucio Costa. In:'
   - 'RIBEIRO, Otavio Leonídio. Carradas de razões: Lucio Costa e a arquitetura moderna brasileira (1924-1951). 2005. 368p. Tese (Doutorado em História Social da Cultura). Pontifícia Universidade Católica do Rio de Janeiro, RJ, 2005.'
-  - CURY, Isabelle (org.) Cartas patrimoniais. 3 ed. Rio de Janeiro:IPHAN, 2004.
+  - 'CURY, Isabelle (org.) Cartas patrimoniais. 3 ed. Rio de Janeiro:IPHAN, 2004.'
   - 'MACEDO, Danilo Matoso. Da matéria à invenção: as obras de Oscar Niemeyer em Minas Gerais 1938-1955. Brasília: Câmara dos Deputados, 2008.'
   - 'MANSUR, Guilherme. Lambe-Lambe Revista de Imagens: fotografia, cultura, turismo, e gastronomia em Minas Gerais, ano 2, n. 2, jul. 2005'
   - 'NATAL, Caion Meneguello. Ouro Preto: a construção de uma cidade histórica, 1891-1933. 2007. Dissertação (Mestrado em História). Universidade Estadual de Campinas, SP, 2007.'
   - 'NIEMEYER, Oscar. Minha arquitetura. 2 ed. Rio de Janeiro: Revan, 2000.'
   - 'RIBEIRO, Otavio Leonídio. Carradas de razões: Lucio Costa e a arquitetura moderna brasileira (1924-1951). 2005. 368p. Tese (Doutorado em História Social da Cultura). Pontifícia Universidade Católica do Rio de Janeiro, RJ, 2005.'
-- id: sdmg01-008
-  titulo: Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba
-  subtitulo: um inventário acessível na internet
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-007.pdf'
+  pages_count: 19
+  pages: null
+
+- id: 'sdmg01-008'
+  title: Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba
+  subtitle: um inventário acessível na internet
+  authors:
   - givenname: Maria Beatriz Camargo
     familyname: Cappello
-    email: mbcappello@uol.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'mbcappello@uol.com.br'
+    affiliation: null
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'O projeto de pesquisa que será apresentado faz parte do Núcleo de Pesquisa em História da Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia que desenvolve estudos sobre a arquitetura e cidade no Brasil. A pesquisa tem como objetivo estabelecer uma base documental para a avaliação da produção projetual da arquitetura moderna em Minas Gerais, na região do Triângulo Mineiro e Alto Paranaíba. O trabalho se desenvolve a partir do levantamento, sistematização e análise da documentação referente à produção da Arquitetura Moderna nesta região entre 1960 e 1970. Um aspecto fundamental desta pesquisa é, suprir uma lacuna na historiografia da moderna arquitetura brasileira fora dos grandes eixos de desenvolvimento do país, referente à produção arquitetônica e urbanística, que contribuíram para a constituição de características especificas da arquitetura moderna no Brasil. Procura-se desta forma, repensar o processo de formulação da arquitetura e urbanismo moderno em Minas Gerais, identificando o diálogo que aqui se estabeleceu com outros pólos de produção. Este inventário regional contribui também para um estudo maior que esta sendo realizado pelo Grupo de Trabalho sobre inventários de arquitetura, urbanismo e paisagismo modernos, formado pelo DOCOMOMO Brasil, envolvendo pesquisadores de vários estados do Brasil.'
+  keywords:
   - Arquitetura Moderna
   - Documentação e História
-  - Alto Paranaíba, Triângulo Mineiro, Minas Gerais
-  resumo: O projeto de pesquisa que será apresentado faz parte do Núcleo de Pesquisa em História da Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia que desenvolve estudos sobre a arquitetura e cidade no Brasil. A pesquisa tem como objetivo estabelecer uma base documental para a avaliação da produção projetual da arquitetura moderna em Minas Gerais, na região do Triângulo Mineiro e Alto Paranaíba. O trabalho se desenvolve a partir do levantamento, sistematização e análise da documentação referente à produção da Arquitetura Moderna nesta região entre 1960 e 1970. Um aspecto fundamental desta pesquisa é, suprir uma lacuna na historiografia da moderna arquitetura brasileira fora dos grandes eixos de desenvolvimento do país, referente à produção arquitetônica e urbanística, que contribuíram para a constituição de características especificas da arquitetura moderna no Brasil. Procura-se desta forma, repensar o processo de formulação da arquitetura e urbanismo moderno em Minas Gerais, identificando o diálogo que aqui se estabeleceu com outros pólos de produção. Este inventário regional contribui também para um estudo maior que esta sendo realizado pelo Grupo de Trabalho sobre inventários de arquitetura, urbanismo e paisagismo modernos, formado pelo DOCOMOMO Brasil, envolvendo pesquisadores de vários estados do Brasil.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-008.pdf
-  paginas_total: 24
-  referencias:
-  - ACAYABA, M. M. (1986). Residências em São Paulo. São Paulo, Projeto.
+  - 'Alto Paranaíba, Triângulo Mineiro, Minas Gerais'
+  references:
+  - 'ACAYABA, M. M. (1986). Residências em São Paulo. São Paulo, Projeto.'
   - 'ACAYABA, M. M. FICHER, S. (1982). Arquitetura Moderna Brasileira. São Paulo: Projeto Editores Associados Ltda.'
-  - ARGAN, G. C. (1970). L'Arte Moderna - 1770/1970. 13.º ed. Firenze, Sansoni Editore, 1985.
-  - ARTIGAS, R. C. (Org.) FERRAZ, M. (Coord.). (1997). Vilanova Artigas. São Paulo, Inst. Lina Bo e P. M. Bardi.
-  - ÁVILA, A. (1973). O modernismo. São Paulo, Perspectiva.
+  - 'ARGAN, G. C. (1970). L''Arte Moderna - 1770/1970. 13.º ed. Firenze, Sansoni Editore, 1985.'
+  - 'ARTIGAS, R. C. (Org.) FERRAZ, M. (Coord.). (1997). Vilanova Artigas. São Paulo, Inst. Lina Bo e P. M. Bardi.'
+  - 'ÁVILA, A. (1973). O modernismo. São Paulo, Perspectiva.'
   - 'AZEVEDO, P., GUERRA, M. E.(1993). “João Jorge Coury, Um Moderno no Triângulo”. In: Projeto n.º 163, pp. 78-79.'
   - 'AZEVEDO, P. (1998). A Difusão da Arquitetura Moderna em Minas: O Arquiteto João Jorge Coury em Uberlândia. São Carlos, Dissertação (Mestrado), EESC - USP.'
-  - BANHAM, R. (1960). Teoria e Projeto na Primeira Era da Máquina. 2.º ed. São Paulo, Perspectiva, 1979.
+  - 'BANHAM, R. (1960). Teoria e Projeto na Primeira Era da Máquina. 2.º ed. São Paulo, Perspectiva, 1979.'
   - 'BENEVOLO, L. (1976). História da Arquitetura Moderna. São Paulo: Editora Perspectiva.'
-  - BRUAND, Y. (1981). Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva.
+  - 'BRUAND, Y. (1981). Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva.'
   - 'CARVALHO, Cláudia Suely Rodrigues de. (2005). Preservação da arquitetura moderna: edifícios de escritórios no Rio de Janeiro construídos entre 1930-1960. São Paulo, Tese (Doutorado),'
-  - CONRADS, Ulrich (1937). Programas y Manifiestos de la Arquitetura del Siglo XX, Barcelona, Lúmen.
-  - DE FUSCO, R. (1986). História de la Arquitectura Contemporanea. Madrid, Hermann Blume.
-  - DECKKER, Zilah Quezado. (2001). Brazil Built.The Architecture of Modern Movement in Brazil. London, Spon Press.
-  - FRAMPTON, K. (1987). História Critica da Arquitectura Moderna. Barcelona, Gustavo Gili.
-  - GIEDION, Siegfried. (1951). A decade of new architecture. Zürich, Girsberger.
-  - GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.
-  - GUERRA, M. E. (1998). As Praças Modernas de João Jorge Coury no Triângulo Mineiro. São Carlos, Dissertação (Mestrado), EESC - USP.
+  - 'CONRADS, Ulrich (1937). Programas y Manifiestos de la Arquitetura del Siglo XX, Barcelona, Lúmen.'
+  - 'DE FUSCO, R. (1986). História de la Arquitectura Contemporanea. Madrid, Hermann Blume.'
+  - 'DECKKER, Zilah Quezado. (2001). Brazil Built.The Architecture of Modern Movement in Brazil. London, Spon Press.'
+  - 'FRAMPTON, K. (1987). História Critica da Arquitectura Moderna. Barcelona, Gustavo Gili.'
+  - 'GIEDION, Siegfried. (1951). A decade of new architecture. Zürich, Girsberger.'
+  - 'GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.'
+  - 'GUERRA, M. E. (1998). As Praças Modernas de João Jorge Coury no Triângulo Mineiro. São Carlos, Dissertação (Mestrado), EESC - USP.'
   - 'LAURENTIZ, L. C. de (1993). “Olhando as arquiteturas do cerrado”. In: Projeto n.º 163, São Paulo, maio, pp. 75-91.'
   - 'LEMOS, C. A. C. (1979). Arquitetura Brasileira. São Paulo: Melhoramentos e Edusp.'
   - 'MARTINS, C. A. F. (1988). Arquitetura e Estado no Brasil: Elementos para uma Investigação sobre a Constituição do Discurso Modernista no Brasil; a Obra de Lúcio Costa. São Paulo. Dissertação (Mestrado) – FFLCH - USP “Minas Gerais – Brasil, Patrimônio Histórico e Cultural”. Realização: Ministério da Indústria do Comércio e do Turismo – EMBRATUR – Instituto Brasileiro de Turismo, TURMINAS – Governo de Minas Gerais.'
   - 'MINDLIN, H. (1956). Arquitetura moderna no Brasil; prefácio de S. Giedion; organizador da edição brasileira.Lauro Cavalcanti ; tradução de Paulo Pedreira. 2.ed. Rio de Janeiro : Aeroplano Editora/IPHAN. 2000. Título original em inglês: Modern architecture in Brasil. New York : Reinhold.'
   - 'PESSÔA, José. Lucio Costa: documentos de trabalho Rio de Janeiro, IPHAN, 1999.'
   - '_____________. Cedo ou tarde serão consideradas obras de arte. In: PESSÔA, José;'
-  - VASCONCELLOS, Eduardo; REIS, Elisabete e LOBO, Maria (org.). Moderno Nacional. EduFF, Niterói, 2006. p. 127-139.
-  - REIS FILHO, Nestor G. (1970). Quadros da Arquitetura no Brasil. São Paulo, Perspectiva, 1970.
+  - 'VASCONCELLOS, Eduardo; REIS, Elisabete e LOBO, Maria (org.). Moderno Nacional. EduFF, Niterói, 2006. p. 127-139.'
+  - 'REIS FILHO, Nestor G. (1970). Quadros da Arquitetura no Brasil. São Paulo, Perspectiva, 1970.'
   - 'SANTOS, Cecilia Rodrigues dos. Conservação no DOCOMOMO: modernidade em busca de preservação ou preservação em busca de modernidade? In: PESSÔA, José; VASCONCELLOS, Eduardo; REIS, Elisabete e LOBO, Maria (org.). Moderno Nacional. EduFF, Niterói, 2006. p. 127139.'
-  - SALVO, Simona. Il restauro dell’architettura moderna. Tese (Doutorado). Roma, 2000
-  - SEGAWA, H. (1998). Arquitetura no Brasil 1900-1990. São Paulo, Edusp.
+  - 'SALVO, Simona. Il restauro dell’architettura moderna. Tese (Doutorado). Roma, 2000'
+  - 'SEGAWA, H. (1998). Arquitetura no Brasil 1900-1990. São Paulo, Edusp.'
   - 'SOARES, B. R. (1988). Habitação e Produção do Espaço em Uberlândia. São Paulo:'
   - USP/Departamento de Geografia.
   - 'SOUZA, A. (1978). Arquitetura no Brasil: Depoimentos. São Paulo, Diadorim, EDUSP.'
-  - SOUZA, R. F. C. de. (1982). Trajetórias da Arquitetura Modernista. São Paulo, IDART/PMSP.
-  - VALE, Marília Maria Brasileiro Teixeira. “Arquitetura Religiosa do Século XIX no antigo Sertão da Farinha Podre”, 1988. Tese de Doutorado apresentada à USP – São Paulo.
+  - 'SOUZA, R. F. C. de. (1982). Trajetórias da Arquitetura Modernista. São Paulo, IDART/PMSP.'
+  - 'VALE, Marília Maria Brasileiro Teixeira. “Arquitetura Religiosa do Século XIX no antigo Sertão da Farinha Podre”, 1988. Tese de Doutorado apresentada à USP – São Paulo.'
   - 'XAVIER, A. org. (1966). Lúcio Costa: Obra Escrita. Brasília, UnB.'
-  - __________. et alii (1983). Arquitetura Moderna Paulistana. São Paulo, Editora Pini.
-  - __________. org. (1987). Arquitetura Moderna Brasileira - Depoimentos de uma Geração. São Paulo, Editora Pini, Associação Brasileira de Ensino de Arquitetura e Fundação Vila Nova Artigas.
+  - '__________. et alii (1983). Arquitetura Moderna Paulistana. São Paulo, Editora Pini.'
+  - '__________. org. (1987). Arquitetura Moderna Brasileira - Depoimentos de uma Geração. São Paulo, Editora Pini, Associação Brasileira de Ensino de Arquitetura e Fundação Vila Nova Artigas.'
   - '__________. (1983). Arquitetura Contemporânea. In: Zanini, W. org. História Geral da Arte no Brasil. São Paulo, Instituto Walter Moreira Salles.'
-- id: sdmg01-009
-  titulo: Ideário urbanístico — propostas, realizações e intervenções
-  subtitulo: o urbanismo moderno presente nas intervenções urbanas em Belo Horizonte
-  autores:
-  - givenname: Maria Eliza A.
+  locale: 'pt-BR'
+  file: 'sdmg01-008.pdf'
+  pages_count: 24
+  pages: null
+
+- id: 'sdmg01-009'
+  title: 'Ideário urbanístico — propostas, realizações e intervenções'
+  subtitle: o Urbanismo Moderno presente nas intervenções urbanas em Belo Horizonte
+  authors:
+  - givenname: Maria Eliza Alves
     familyname: Guerra
-    email: andradeguerra@triang.com.br
-  secao: Apresentações Orais — sdmg01
-  locale: pt-BR
-  arquivo_pdf: sdmg01-009.pdf
-  paginas_total: 4
-  referencias:
+    email: 'andradeguerra@triang.com.br'
+    affiliation: null
+    orcid: '0000-0001-8573-1918'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: null
+  references:
   - 'CORREIA, Telma de B. De vila operária a cidade-companhia: As aglomerações Criadas por Empresas no Vocabulário Especializado e Vernacular. In: Revista Brasileira de Estudos Urbanos e Regionais. Ano 3 - nº 4, 2001 ANPUR.'
-  - GONÇALVES, Teresa Martins & OESTREICH, Helena Maria. (DOC FURNAS) CURSO DE PRINCÍPIOS
-  - BÀSICOS PARA A SUPERVISÃO DE PROJETOS DE APROVEITAMENTOS HIDRELÉTRICOS. 5º Vol. Superintendência de Engenharia de Geração de Energia. Furnas - Centrais Elétricas S.A. (Documento interno), Rio de Janeiro, 1985.
-  - GUERRA, Maria Eliza A. VILAS OPERADORAS de FURNAS nas BACIAS dos RIOS GRANDE e
+  - 'GONÇALVES, Teresa Martins & OESTREICH, Helena Maria. (DOC FURNAS) CURSO DE PRINCÍPIOS'
+  - 'BÀSICOS PARA A SUPERVISÃO DE PROJETOS DE APROVEITAMENTOS HIDRELÉTRICOS. 5º Vol. Superintendência de Engenharia de Geração de Energia. Furnas - Centrais Elétricas S.A. (Documento interno), Rio de Janeiro, 1985.'
+  - 'GUERRA, Maria Eliza A. VILAS OPERADORAS de FURNAS nas BACIAS dos RIOS GRANDE e'
   - 'PARANAÍBA – da concepção à atualidade. Orientadora: Profª Drª Beatriz Ribeiro Soares. Tese Doutorada em Geografia, IG/UFU 2008.'
   - 'TRINDADE JR, Saint-Clair Cordeiro e ROCHA, Gilberto de Miranda. Parte 1 – Tucuruí: Dinâmica Urbana e Territorial na Área de Influência da Usina Hidrelétrica (vários artigos e autores) In: Cidade e Empresa na Amazônia gestão do território e desenvolvimento local. Belém, Editora Paka-tatu, 2002. a'
   - 'TSUKUMO, Nina M Jamra. Arquitetura de Usinas Hidrelétricas: A experiência da CESP. Dissertação (Mestrado em Arquitetura), FAUUSP, São Paulo, 1989.'
-- id: sdmg01-010
-  titulo: Pioneiros da Arquitetura Modernista em Passos
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-009.pdf'
+  pages_count: 4
+  pages: null
+
+- id: 'sdmg01-010'
+  title: Pioneiros da Arquitetura Modernista em Passos
+  authors:
   - givenname: Mauro
     familyname: Ferreira
-    email: mauroferreira52@yahoo.com.br
+    email: 'ferreira@exemplo.com'
+    affiliation: null
+    orcid: '0000-0002-0843-4829'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Douglas Oliveira
     familyname: Santos
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: null
+  keywords:
   - Arquitetura
   - modernismo
   - Passos (MG)
-  palavras_chave_en:
+  abstract_en: 'Doutor em Arquitetura pela EESC-USP, Professor do curso de Engenharia Civil da FESP/UEMG, campus de Passos Estudante de graduação em Engenharia Civil da FESP/UEMG, campus de Passos Pioneers of Modernist Architecture in Passos. This paper intends to identify the origins of the modernist architecture in Passos (MG) and its edifications with its still existing characteristics in the urban grid. The modernism was an important movement in the Brazilian art and architecture from the 1920’s on, getting to its climax during the construction of Brasília, in 1950 and 1960. From field surveys, carried out in downtown Passos, region which was condensed between 1950 and 1970, it was possible to identify an expressive group of residences and other edifications designed with the regulations of modernism, like the use of pilotis (or piers), free design, the absence of decoration on the front of the constructions and other elements. The research, making use of the Jabburs’s magazines and files, made it possible to find the designs and pictures of the first construction site with such elements present in the local urban landscape, it was Daude Jabbur’s design, archictect from Passos who studied at the Federal University of Rio de Janeiro and projects of Paulo Esper Pimenta and Maristela Scotfield Pimenta who studied at the Federal University of Minas Gerais..'
+  keywords_en:
   - Architecture
   - modernism
   - Passos (MG)
-  resumo_en: Doutor em Arquitetura pela EESC-USP, Professor do curso de Engenharia Civil da FESP/UEMG, campus de Passos Estudante de graduação em Engenharia Civil da FESP/UEMG, campus de Passos Pioneers of Modernist Architecture in Passos. This paper intends to identify the origins of the modernist architecture in Passos (MG) and its edifications with its still existing characteristics in the urban grid. The modernism was an important movement in the Brazilian art and architecture from the 1920’s on, getting to its climax during the construction of Brasília, in 1950 and 1960. From field surveys, carried out in downtown Passos, region which was condensed between 1950 and 1970, it was possible to identify an expressive group of residences and other edifications designed with the regulations of modernism, like the use of pilotis (or piers), free design, the absence of decoration on the front of the constructions and other elements. The research, making use of the Jabburs’s magazines and files, made it possible to find the designs and pictures of the first construction site with such elements present in the local urban landscape, it was Daude Jabbur’s design, archictect from Passos who studied at the Federal University of Rio de Janeiro and projects of Paulo Esper Pimenta and Maristela Scotfield Pimenta who studied at the Federal University of Minas Gerais..
-  locale: pt-BR
-  arquivo_pdf: sdmg01-010.pdf
-  paginas_total: 6
-  referencias:
+  references:
   - 'CAVALCANTI, Lauro. Quando o Brasil era Moderno: Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001. 448 p. Moderno e brasileiro: a história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar, 2006. 148 p.'
   - 'ESTATUTO DA CIDADE. CÂMARA DOS DEPUTADOS, Coordenação de Publicações. Brasília: 2001. 274 p.'
   - 'FICHER, Sylvia e ACAYABA, Marlene Milan. Arquitetura Moderna Brasileira. São Paulo: Projeto Editores, 1982. 124 p.'
@@ -373,149 +494,193 @@ articles:
   - 'NOBRE, Ana Luiza (org.). Um Modo de ser Moderno: Lúcio Costa e a Crítica Contemporânea. São Paulo: Cosac & Naify, 2004. 336 p.'
   - 'NORONHA, Washington Álvaro de. História de Passos. Belo Horizonte: Ibérica, 1969. 282 p.'
   - 'RIPPER, Ernesto. Como Evitar Erros na Construção. São Paulo: Pini Editora, 1984. 140 p.'
-  - SECRETARIA DE ECONOMIA E PLANEJAMENTO, Coordenadoria de Ação Regional. Programa de Preservação e Revitalização do Patrimônio Cultural Urbano. São Paulo, 1978. 82 p.
+  - 'SECRETARIA DE ECONOMIA E PLANEJAMENTO, Coordenadoria de Ação Regional. Programa de Preservação e Revitalização do Patrimônio Cultural Urbano. São Paulo, 1978. 82 p.'
   - 'SECRETARIA MUNICIPAL DE CULTURA DE SÃO PAULO, Departamento de Patrimônio Histórico. Inventário Geral do patrimônio ambiental e cultural: metodologia. São Paulo, 1986.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2002. 274 p.'
   - 'ZENHA, Ros Mari. Catálogo de Processos e Sistemas Construtivos para Habitação, São Paulo: Instituto de Pesquisas Tecnológicas-IPT, 1998. 168 p.'
-- id: sdmg01-011
-  titulo: O Campus da Universidade Federal de Juiz de Fora
-  subtitulo: um exemplar do movimento moderno.
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-010.pdf'
+  pages_count: 6
+  pages: null
+
+- id: 'sdmg01-011'
+  title: O campus da universidade federal de Juiz de Fora
+  subtitle: um exemplar do Movimento Moderno
+  authors:
   - givenname: Raquel Fernandes
     familyname: Rezende
-    email: quelgeorezende@yahoo.com.br
+    email: 'quelgeorezende@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Vera Lucia Ferreira Motta
     familyname: Rezende
-    email: vrezende@openlink.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave_en:
+    email: 'vrezende@openlink.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'O município de Juiz de Fora localizado na Zona da Mata Mineira com 501.153 habitantes (IBGE, 2000) abriga o campus da Universidade Federal de Juiz de Fora (UFJF) - importante exemplar do movimento moderno – que teve como autor o engenheiro e arquiteto Arthur Arcuri. O projeto de Arcuri se fundamentou na arquitetura e no urbanismo divulgados pelos Congressos Internacionais de Arquitetura Moderna (CIAMs) e utilizou três dos quatro princípios básicos a serem atendidos pelo espaço: trabalhar, circular e recrear-se, transcendendo as funções estritas de um espaço com fins educacionais. O respeito aos paradigmas modernos se evidenciaram na padronização funcional dos blocos edificados, na relação entre áreas livres e áreas edificadas, no privilégio ao sol, ao ar e à vegetação, além das características das edificações. Arcuri revelava uma preocupação com as variáveis naturais, que fez com que ao lado da racionalidade funcional, expressa pelos prédios, onde funcionariam as diferentes faculdades e institutos da Universidade, estivessem presentes elementos de valorização da topografia local, caracterizada pela presença de relevo montanhoso, das áreas de lazer e das áreas verdes, demonstrando uma atenção com a criação de ambientes capazes de proporcionar um convívio social adequado à população que viesse a usufruir os diferentes espaços encontrados na Universidade. Com a construção do campus e a implantação da vegetação, esta área passou a desempenhar o papel de área de lazer para a cidade, que ultrapassou os aspectos educacionais relativos ao ensino, pesquisa e extensão. Assim, o campus passou a ser incorporado na rotina dos seus habitantes, sobretudo, daqueles que residem nas imediações e nas porções Centro – Sul do município. Faz-se necessário destacar que diversos autores (Paiva e Gonçalves, 2002; Gomes e Soares, 2003) alertam para a questão da importância da vegetação encontrada no meio urbano, em especial, quando vinculada ao bem – estar humano e aos ganhos ambientais.'
+  keywords_en:
   - university campus
   - modern movement
   - urban public green areas
-  resumo: 'O município de Juiz de Fora localizado na Zona da Mata Mineira com 501.153 habitantes (IBGE, 2000) abriga o campus da Universidade Federal de Juiz de Fora (UFJF) - importante exemplar do movimento moderno – que teve como autor o engenheiro e arquiteto Arthur Arcuri. O projeto de Arcuri se fundamentou na arquitetura e no urbanismo divulgados pelos Congressos Internacionais de Arquitetura Moderna (CIAMs) e utilizou três dos quatro princípios básicos a serem atendidos pelo espaço: trabalhar, circular e recrear-se, transcendendo as funções estritas de um espaço com fins educacionais. O respeito aos paradigmas modernos se evidenciaram na padronização funcional dos blocos edificados, na relação entre áreas livres e áreas edificadas, no privilégio ao sol, ao ar e à vegetação, além das características das edificações. Arcuri revelava uma preocupação com as variáveis naturais, que fez com que ao lado da racionalidade funcional, expressa pelos prédios, onde funcionariam as diferentes faculdades e institutos da Universidade, estivessem presentes elementos de valorização da topografia local, caracterizada pela presença de relevo montanhoso, das áreas de lazer e das áreas verdes, demonstrando uma atenção com a criação de ambientes capazes de proporcionar um convívio social adequado à população que viesse a usufruir os diferentes espaços encontrados na Universidade. Com a construção do campus e a implantação da vegetação, esta área passou a desempenhar o papel de área de lazer para a cidade, que ultrapassou os aspectos educacionais relativos ao ensino, pesquisa e extensão. Assim, o campus passou a ser incorporado na rotina dos seus habitantes, sobretudo, daqueles que residem nas imediações e nas porções Centro – Sul do município. Faz-se necessário destacar que diversos autores (Paiva e Gonçalves, 2002; Gomes e Soares, 2003) alertam para a questão da importância da vegetação encontrada no meio urbano, em especial, quando vinculada ao bem – estar humano e aos ganhos ambientais.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-011.pdf
-  paginas_total: 15
-  referencias:
+  references:
   - 'ALBERTO, K. C. FORMALIZANDO O ENSIMO SUPERIOR NA DÉCADA DE DE 1960: a cidade universitária da UNB e seu projeto urbanístico. Tese (Doutorado em Urbanismo) – Programa de Pós-Graduação em Urbanismo da Universidade Federal do Rio de Janeiro – Rio de Janeiro: UFRJ, 2008, 337p. Alberto, Klaus Chaves.'
   - 'ALBERTO, K. C. Três Projetos para uma Universidade do Brasil. Dissertação (Mestrado em Urbanismo) – Programa de Pós-Graduação em Urbanismo da Universidade Federal do Rio de Janeiro – Rio de Janeiro: UFRJ, 2003, 250p.'
   - 'ARCURI, Arthur. O Projeto de Construção da Universidade Federal de Juiz de Fora. Entrevistadores: Raquel Fernandes Rezende e Raquel Hellich NPEURB/MG, 2009. Entrevista com coleta de imagens e áudio. Juiz de Fora, 26 de maio de 2009. 1 fita mini DV (60 min.), son., color.'
   - 'ARCURI, Arthur. Urbanismo moderno em Juiz de Fora: a construção de um campus universitário da UFJF. Entrevistadores: Klaus Alberto Chaves e Aline Assis, 2006. Entrevista com coleta de imagens e áudio. Juiz de Fora, 20 de agosto 2006. 1 fita mini DV (60 min.), son., color.'
-  - COSTA, R. G. Da e FERREIRA, C. C. M. Avaliação do Indíce de ÁreasVerdes (IAV) em 26 Regiões Urbanas na Região Central da Cidade de Juiz de Fora,
+  - 'COSTA, R. G. Da e FERREIRA, C. C. M. Avaliação do Indíce de ÁreasVerdes (IAV) em 26 Regiões Urbanas na Região Central da Cidade de Juiz de Fora,'
   - 'MG.In: XII Simpósio Brasileiro de Geografia Física Aplicada, 2007, Natal. Anais do XII Simpósio Brasileiro de Geografia Fisica Aplicada, 2007.'
   - 'FERREIRA, C. De C. M. Os Microclimas Urbanos e a Incidência de Áreas Verdes: Uma Proposta Para a Delimitação de Indicadores Ambientais e Formação de Um Atlas Ambiental Para a Cidade de Juiz de Fora – MG. Juiz de Fora, 2008 (Relatório de Pesquisa FAPEMIG).'
   - 'GOMES, M. A. S. & SOARES, B. R. A vegetação nos centros urbanos: considerações sobre os espaços verdes em cidades médias brasileiras. Revista Geográfica da UNESP. Rio Claro, 1 (1): 19 - 29, junho 2003. Disponível em: <www.rc.unesp.br/igce/geografia/revista.thm>. Acesso em: 10 de nov 2005.'
   - 'LIMA, Fabio Jose Martins de & PORTES, Raquel von Randow. Urbanismo em Minas Gerais: pensamento e práticas urbanísticas relacionados ao ideário do'
-  - Movimento Moderno (1930-1965). Cadernos PPG-AU/FAUFBA, Salvador, v. 3, n. Edição Esp, v. 2005, p.103 - 120, 2005.
+  - 'Movimento Moderno (1930-1965). Cadernos PPG-AU/FAUFBA, Salvador, v. 3, n. Edição Esp, v. 2005, p.103 - 120, 2005.'
   - 'MARX, Roberto Burle. Arte e Paisagem. Conferências Escolhidas. São Paulo: Nobel, 1982.'
   - 'PAIVA, H. N. de & GONÇALVES, W. Florestas Urbanas - Planejamento para Melhoria da Qualidade de Vida. Viçosa: Aprenda Fácil, 2002.'
   - 'REZENDE, Raquel Fernandes; SANTIAGO, Bárbara da Silva; FERREIRA, Cássia de Castro Martins. Mapeamento e análise das áreas verdes em Juiz de Fora/MG: um estudo de caso da porção nordeste da cidade. In: XII Simpósio Brasileiro de Geografia Física Aplicada, 2007, Natal. Anais do XII Simpósio Brasileiro de Geografia Fisica Aplicada, 2007.'
   - 'REZENDE, V. L. F. M. Da Sedução à Oficialização: O Urbanismo Modernista na Cidade do Rio de Janeiro. Publicado nos Cadernos PPG-AU/FAUFBA / Universidade Federal da Bahia. Faculdade de Arquitetura e Urbanismo – Ano 3, edição especial (2005)- Marco Aurélio A. de Filgueiras Gomes (org.), Salvador: PPGAU/FAUFBA, 2005, 122 p.) Rezende, V. L. F. M. O jogo de verde com branco, Lúcio Costa em defesa do Plano Piloto da Barra da Tijuca e Baixada de Jacarepaguá. In: 6 Seminário Docomomo Brasil, 2005, Niterói. Anais do 6 Seminário Docomomo Brasil, 2005.'
   - 'SANTANA, Rodrigo & PUGLIESI, Stella. Arquitetura Moderna em Juiz de Fora: a contribuição de Arthur Arcuri. Juiz de Fora: FUNALFA, 2002.'
-  - SIQUEIRA, V. B. Burle Marx. Cosac e Naify. São Paulo, 2001.
-  - TABACOW, J. Arte e Paisagem
+  - 'SIQUEIRA, V. B. Burle Marx. Cosac e Naify. São Paulo, 2001.'
+  - 'TABACOW, J. Arte e Paisagem'
   - UNIVERSIDADE FEDERAL DE JUIZ DE FORA. Plano Diretor do Campus da
   - UNIVERSIDADE FEDERAL DE JUIZ DE FORA. Plano de Desenvolvimento da
-  - UFJF, Organizado para o Quatriênio 1973 – 76. 1973.
-- id: sdmg01-012
-  titulo: Edifício Clube Juiz de Fora, por Francisco Bolonha
-  subtitulo: um ícone do Movimento Moderno no centro de Juiz de Fora — MG1
-  autores:
+  - 'UFJF, Organizado para o Quatriênio 1973 – 76. 1973.'
+  locale: 'pt-BR'
+  file: 'sdmg01-011.pdf'
+  pages_count: 15
+  pages: null
+
+- id: 'sdmg01-012'
+  title: 'Edifício clube Juiz de Fora, por Francisco Bolonha'
+  subtitle: um ícone do Movimento Moderno no centro de Juiz de Fora — mg1
+  authors:
   - givenname: Raquel von Randow
     familyname: Portes
-    email: raquelportes@hotmail.com
+    email: 'raquelportes@hotmail.com'
+    affiliation: null
+    orcid: '0009-0007-6200-8285'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Marlice Nazareth Soares de
     familyname: Azevedo
-    email: marliceazevedo@globo.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave_en:
+    email: 'azevedo@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: null
+  abstract_en: 'The Edifício Clube Juiz de Fora still represents a major landmark modernist in the city’s hyper-center. For its grandeur and its potentiality formal aesthetics, the building designed by Francisco Bolonha in 1958, combining architecture and art, through panels and a precise set of volumes, marking the route on the main road from the center of the city of Juiz de Fora, Minas Gerais. The traditional downtown area of Juiz de Fora, formed by two triangles juxtaposed, more and less, it should be still the first plan outlined by the engineer Guilherme Halfeld with regard to urban design. The smaller, formed by the boulevards of Barão do Rio Branco avenue, Getúlio Vargas street and Independência avenue, concentrates a number of buildings dominated by eclectic languages and expressions of Art Deco. The main pathway of the center, Halfeld street, comprised largely of a long promenade, presents itself as a truly monumental axis, where there are still different times of the occupation of the city. There are headquartered important references, such as City Hall and City Council, both in palaces on a eclectic language. In southwest axis of sidewalk, deployed on the street corner with Halfeld street and Barão do Rio Branco avenue, a major downtown area, the highlight was the Edifício Clube Juiz de Fora, and this building stands as an icon linked to the ideals of the Modern Movement particularly in Minas Gerais, marking the breaking of the scale of the urban center. The conservation in this sense is extremely important to our city''s cultural identity, as an embodiment of a time in which the ideology of the Modern Movement expressed the search for a requalification city.'
+  keywords_en:
   - Modern Movement
   - Cultural Patrimony and Juiz de Fora
-  resumo_en: The Edifício Clube Juiz de Fora still represents a major landmark modernist in the city’s hyper-center. For its grandeur and its potentiality formal aesthetics, the building designed by Francisco Bolonha in 1958, combining architecture and art, through panels and a precise set of volumes, marking the route on the main road from the center of the city of Juiz de Fora, Minas Gerais. The traditional downtown area of Juiz de Fora, formed by two triangles juxtaposed, more and less, it should be still the first plan outlined by the engineer Guilherme Halfeld with regard to urban design. The smaller, formed by the boulevards of Barão do Rio Branco avenue, Getúlio Vargas street and Independência avenue, concentrates a number of buildings dominated by eclectic languages and expressions of Art Deco. The main pathway of the center, Halfeld street, comprised largely of a long promenade, presents itself as a truly monumental axis, where there are still different times of the occupation of the city. There are headquartered important references, such as City Hall and City Council, both in palaces on a eclectic language. In southwest axis of sidewalk, deployed on the street corner with Halfeld street and Barão do Rio Branco avenue, a major downtown area, the highlight was the Edifício Clube Juiz de Fora, and this building stands as an icon linked to the ideals of the Modern Movement particularly in Minas Gerais, marking the breaking of the scale of the urban center. The conservation in this sense is extremely important to our city's cultural identity, as an embodiment of a time in which the ideology of the Modern Movement expressed the search for a requalification city.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-012.pdf
-  paginas_total: 11
-  referencias:
+  references:
   - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. Perspectiva, São Paulo: 2005. 4a. Ed.'
   - 'LIMA, Fabio Jose Martins de & PORTES, Raquel von Randow. Urbanismo em Minas Gerais: pensamento e práticas urbanísticas relacionados ao ideário do Movimento Moderno (1930-1965). Cadernos PPG-AU/FAUFBA, Salvador, v. 3, n. Edição Esp, 2005.'
-  - MACEDO, Oigres Leci C. de. Francisco Bolonha, modernidade insigne. IV Docomomo Brasil, Viçosa-Cataguases MG, 2001. 11p.
+  - 'MACEDO, Oigres Leci C. de. Francisco Bolonha, modernidade insigne. IV Docomomo Brasil, Viçosa-Cataguases MG, 2001. 11p.'
   - 'MIRANDA, Selma Melo. Cataguases: um olhar sobre a modernidade – Arquitetura.'
   - 'IN: www.chica.org.br/cataguases/modernismo/corpoa.htm'
   - 'NAVA, Pedro. Baú de Ossos. Rio de Janeiro: Sabiá, 1973. 2ª. ed, 317 p.'
   - 'OLIVEIRA, Paulino de. História de Juiz de Fora. Juiz de Fora MG: Gráfica Com.e Ind. Ltda., 1966.'
-  - PIRES, Anderson José. Capital Agrário, Investimentos e Crise na Cafeicultura de Juiz de Fora – 1870/1930. (1993) Dissertação (Mestrado), UFF, Niterói, 1993.
+  - 'PIRES, Anderson José. Capital Agrário, Investimentos e Crise na Cafeicultura de Juiz de Fora – 1870/1930. (1993) Dissertação (Mestrado), UFF, Niterói, 1993.'
   - '______. Café, Finanças e Bancos: Uma análise do sistema financeiro da Zona da Mata de Minas Gerais – 1889/1930. (2004) Tese (Doutorado), USP, São Paulo, 2004.'
   - '______ . Financiamento Agrícola e o Mercado Hipotecário na Economia Agroexportadora da Zona da Mata Mineira. In: SEMINÁRIO DE HISTÓRIA'
   - 'ECONÔMICA E SOCIAL DA ZONA DA MATA MINEIRA, 1: 2005, Juiz de Fora (MG). Anais CES, 2005. (Disponível em CD-ROM)'
-  - PORTES, Raquel; REZENDE, Raquel e PECATIELLO, Flávia. História e Formação da Cidade de Juiz de Fora. Trabalho Final de Disciplina (Mestrado), UFF, Niterói, 2008. Prefeitura de Juiz de Fora. Decreto de Tombamento do Painel “As quatro estações”.
-  - DECRETO No 5869 - de 07 de março de 1997
-  - _______. Dossiê de Tombamento do Edifício Clube Juiz de Fora. DECRETO N.o 7475 - de 25 de julho de 2002.
+  - 'PORTES, Raquel; REZENDE, Raquel e PECATIELLO, Flávia. História e Formação da Cidade de Juiz de Fora. Trabalho Final de Disciplina (Mestrado), UFF, Niterói, 2008. Prefeitura de Juiz de Fora. Decreto de Tombamento do Painel “As quatro estações”.'
+  - 'DECRETO No 5869 - de 07 de março de 1997'
+  - '_______. Dossiê de Tombamento do Edifício Clube Juiz de Fora. DECRETO N.o 7475 - de 25 de julho de 2002.'
   - '_______. Plano Diretor de Desenvolvimento Urbano de Juiz de Fora. PJF/IPLLAN, 1999. Revista de Engenharia do Estado da Guanabara. Rio de Janeiro: Colibria, Jan/Jun 1960. p 46-40.'
-- id: sdmg01-013
-  titulo: O Grande Hotel de Ouro Preto e a construção da identidade nacional
-  autores:
-  - givenname: Miguel Antonio
+  locale: 'pt-BR'
+  file: 'sdmg01-012.pdf'
+  pages_count: 11
+  pages: null
+
+- id: 'sdmg01-013'
+  title: O Grande Hotel de Ouro Preto e a construção da identidade nacional
+  authors:
+  - givenname: Miguel Antônio
     familyname: Buzzar
-    email: mbuzzar@sc.usp.br
-  - givenname: Lucia Noemi
+    email: 'm.buzzar@sc.usp.br'
+    affiliation: null
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Lucia Noemia
     familyname: Simoni
-    email: simoni.lucia@gmail.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'simoni.lucia@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Ainda que fundamental, a vitória do grupo moderno liderado por Lucio Costa na implantação do edifício do Ministério da Educação e Saúde Pública foi acompanhada por outros eventos, que completaram o circuito de afirmação do ideário de Costa, o qual delimitou os caminhos da arquitetura moderna brasileira no período subseqüente. O episódio do Grande Hotel de Ouro Preto, ocorrido ao mesmo tempo da execução do edifício do Pavilhão da Feira Internacional de 1939 em Nova Iorque, fecharia o circuito no qual a arquitetura moderna e os arquitetos modernos se colocariam como os mais aptos para a construção da mentalidade nacional. A proposta desenvolvida por Oscar Niemeyer, expressa o ideário cultural elaborado por Costa e por ele foi defendida. A arquitetura pensada por Costa identificava a produção colonial, a economia de meios presente nas suas obras com a racionalidade moderna e suas formas puras, sendo correspondente as concepções da intelectualidade modernista de atualizar o pensamento artístico, ao mesmo tempo, que construía a identidade nacional, a partir de uma leitura propositadamente interessada do passado. Esta formulação, que criava correspondências entre o presente e o passado, sem reproduzir formas e soluções mimeticamente, teria o reconhecimento da maioria dos arquitetos e intelectuais que se definia pelo modernismo.'
+  keywords:
   - arquitetura moderna
   - mentalidade nacional
   - identidade nacional
-  palavras_chave_en:
+  abstract_en: 'Although fundamental, the victory of modern group led by Lucio Costa in the implementation of the building of the Ministry of Education and Public Health was accompanied by other events, completing the circuit to assert the ideals of Costa, which delineated the ways of modern brazilian architecture thereafter. The episode of Grande Hotel de Ouro Preto, which happened while the implementation of the building of the Pavilion of the International Fair 1939 in New York closed the circuit in which modern architecture and modern architects put themselves as the most suitable for the construction of national mentality. The proposal developed by Oscar Niemeyer, expresses the cultural ideas developed by Costa and he was defended. The architecture designed by Costa identified the colonial production, the economics of media present in his works with modern rationality and their pure forms, and corresponding conceptions of intellectual modernist updating the artistic thought at the same time, establishing a national identity, from a reading purposely interested in the past. This wording, creating connections between present and past, without playing mimetic forms and solutions, have the recognition of most architects and intellectuals who defined herself by modernism.'
+  keywords_en:
   - modern architecture
   - national mentality
   - national identity
-  resumo: Ainda que fundamental, a vitória do grupo moderno liderado por Lucio Costa na implantação do edifício do Ministério da Educação e Saúde Pública foi acompanhada por outros eventos, que completaram o circuito de afirmação do ideário de Costa, o qual delimitou os caminhos da arquitetura moderna brasileira no período subseqüente. O episódio do Grande Hotel de Ouro Preto, ocorrido ao mesmo tempo da execução do edifício do Pavilhão da Feira Internacional de 1939 em Nova Iorque, fecharia o circuito no qual a arquitetura moderna e os arquitetos modernos se colocariam como os mais aptos para a construção da mentalidade nacional. A proposta desenvolvida por Oscar Niemeyer, expressa o ideário cultural elaborado por Costa e por ele foi defendida. A arquitetura pensada por Costa identificava a produção colonial, a economia de meios presente nas suas obras com a racionalidade moderna e suas formas puras, sendo correspondente as concepções da intelectualidade modernista de atualizar o pensamento artístico, ao mesmo tempo, que construía a identidade nacional, a partir de uma leitura propositadamente interessada do passado. Esta formulação, que criava correspondências entre o presente e o passado, sem reproduzir formas e soluções mimeticamente, teria o reconhecimento da maioria dos arquitetos e intelectuais que se definia pelo modernismo.
-  resumo_en: Although fundamental, the victory of modern group led by Lucio Costa in the implementation of the building of the Ministry of Education and Public Health was accompanied by other events, completing the circuit to assert the ideals of Costa, which delineated the ways of modern brazilian architecture thereafter. The episode of Grande Hotel de Ouro Preto, which happened while the implementation of the building of the Pavilion of the International Fair 1939 in New York closed the circuit in which modern architecture and modern architects put themselves as the most suitable for the construction of national mentality. The proposal developed by Oscar Niemeyer, expresses the cultural ideas developed by Costa and he was defended. The architecture designed by Costa identified the colonial production, the economics of media present in his works with modern rationality and their pure forms, and corresponding conceptions of intellectual modernist updating the artistic thought at the same time, establishing a national identity, from a reading purposely interested in the past. This wording, creating connections between present and past, without playing mimetic forms and solutions, have the recognition of most architects and intellectuals who defined herself by modernism.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-013.pdf
-  paginas_total: 17
-  referencias:
-  - ANDRADE, Antonio L. D. de. O Nariz Torcido de Lucio Costa. Sinopses, São Paulo, nº 18, pp.517, dez. 1992.
-  - ANDRADE, Mário de. A Enciclopédia Brasileira. São Paulo, Giordano/Loyola/EDUSP, 1993.
-  - ARGAN, Giulio Carlo. Arte Moderna - 1770-1970. São Paulo, Cia. das Letras, 1993.
-  - ÁVILA, Affonso (coord. e org.). O Modernismo. São Paulo, Perspectiva, 1975.
-  - BARATA, Mario. Arquitetura, Tradição e Realidade Brasileira. Anais IV Congresso Brasileiro de Arquitetos, São Paulo. IAB, pp.180-4, 1954.
+  references:
+  - 'ANDRADE, Antonio L. D. de. O Nariz Torcido de Lucio Costa. Sinopses, São Paulo, nº 18, pp.517, dez. 1992.'
+  - 'ANDRADE, Mário de. A Enciclopédia Brasileira. São Paulo, Giordano/Loyola/EDUSP, 1993.'
+  - 'ARGAN, Giulio Carlo. Arte Moderna - 1770-1970. São Paulo, Cia. das Letras, 1993.'
+  - 'ÁVILA, Affonso (coord. e org.). O Modernismo. São Paulo, Perspectiva, 1975.'
+  - 'BARATA, Mario. Arquitetura, Tradição e Realidade Brasileira. Anais IV Congresso Brasileiro de Arquitetos, São Paulo. IAB, pp.180-4, 1954.'
   - 'BELLUZZO, Ana Maria de Moraes (org.). Modernidade: Vanguardas Artísticas na América Latina, Cadernos de Cultura 1. São Paulo, UNESP Editora/Memorial, 1990.'
-  - BRUAND, Yves. A Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1982.
+  - 'BRUAND, Yves. A Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1982.'
   - 'CANCLINI, Néstor García. Culturas Híbridas: estratégias para entrar e sair da modernidade. São Paulo, Edusp, 2000, 3º ed..'
-  - CAVALCANTI, Lauro (org.). Modernistas na Repartição. Rio de Janeiro, UFRJ/Paço Imperial/Tempo Brasileiro, 1993.
+  - 'CAVALCANTI, Lauro (org.). Modernistas na Repartição. Rio de Janeiro, UFRJ/Paço Imperial/Tempo Brasileiro, 1993.'
   - '_________. As Preocupações do Belo: Arquitetura Moderna brasileira nos anos 30/40. Rio de Janeiro, Taurus, 1995.'
-  - CORONA, Eduardo. Características da Arquitetura Brasileira. Anais IV Congresso Brasileiro de Arquitetos. São Paulo, IAB, 1954, pp.188-9.
-  - COSTA, Lúcio. Sobre Arquitetura. Porto Alegre, Centro dos Estudantes Universitários da Arquitetura, 1962.
-  - GOODWIN, Philip L.. Brazil Builds. Architecture Old and New 1652/1942. New York, MOMA, 1943.
-  - GRAMSCI, Antonio. Os Intelectuais e a Organização da Cultura. Rio de Janeiro, Civilização brasileira, 1979, 3a. ed..
-  - HOBSBAWM, Eric J.. Nações e Nacionalismo desde 1780. São Paulo, Paz e Terra, 1991.
-  - LEMOS, Carlos A.C. . Arquitetura Brasileira. São Paulo, Melhoramentos/EDUSP, 1974.
-  - MARTINS, Carlos A. F.. Arquitetura e Estado no Brasil - Elementos para uma Investigação sobre a Constituição do Discurso moderno no Brasil; a Obra de Lúcio Costa (1924/1952). Dissertação de Mestrado, FFLCH/USP, 1987, mimeo..
+  - 'CORONA, Eduardo. Características da Arquitetura Brasileira. Anais IV Congresso Brasileiro de Arquitetos. São Paulo, IAB, 1954, pp.188-9.'
+  - 'COSTA, Lúcio. Sobre Arquitetura. Porto Alegre, Centro dos Estudantes Universitários da Arquitetura, 1962.'
+  - 'GOODWIN, Philip L.. Brazil Builds. Architecture Old and New 1652/1942. New York, MOMA, 1943.'
+  - 'GRAMSCI, Antonio. Os Intelectuais e a Organização da Cultura. Rio de Janeiro, Civilização brasileira, 1979, 3a. ed..'
+  - 'HOBSBAWM, Eric J.. Nações e Nacionalismo desde 1780. São Paulo, Paz e Terra, 1991.'
+  - 'LEMOS, Carlos A.C. . Arquitetura Brasileira. São Paulo, Melhoramentos/EDUSP, 1974.'
+  - 'MARTINS, Carlos A. F.. Arquitetura e Estado no Brasil - Elementos para uma Investigação sobre a Constituição do Discurso moderno no Brasil; a Obra de Lúcio Costa (1924/1952). Dissertação de Mestrado, FFLCH/USP, 1987, mimeo..'
   - 'SEVCENKO, Nicolau - Orfeu Extático na Metrópole: São Paulo, sociedade e cultura nos frementes anos 20. São Paulo, Cia. das Letras, 1992.'
-  - SCHORSKE, Carl E., Viena Fin-de -Siécle - Política e Cultura. São Paulo, Cia. das Letras, 1988.
-  - SCHWARTZMAN, Simon, BOMENY, Helena Maria B., COSTA, Vanda Maria Ribeiro. Tempos de Capanema. São Paulo, Paz e Terra/EDUSP, 1984.
-  - TELES, Gilberto Mendonça. Vanguarda Européia e Modernismo Brasileiro. Petrópolis, Vozes, 1983.
-  - VARGAS, Mílton. Meu Amigo Artigas. Módulo ed. especial Vilanova Artigas, São Paulo s/n, 1986.
-  - ZILIO, Carlos. A Querela do Brasil. Rio de Janeiro, MEC/FUNARTE, 1982.
-- id: sdmg01-014
-  titulo: A paisagem através da arquitetura
-  subtitulo: o Edifício Niemeyer em Belo Horizonte
-  autores:
+  - 'SCHORSKE, Carl E., Viena Fin-de -Siécle - Política e Cultura. São Paulo, Cia. das Letras, 1988.'
+  - 'SCHWARTZMAN, Simon, BOMENY, Helena Maria B., COSTA, Vanda Maria Ribeiro. Tempos de Capanema. São Paulo, Paz e Terra/EDUSP, 1984.'
+  - 'TELES, Gilberto Mendonça. Vanguarda Européia e Modernismo Brasileiro. Petrópolis, Vozes, 1983.'
+  - 'VARGAS, Mílton. Meu Amigo Artigas. Módulo ed. especial Vilanova Artigas, São Paulo s/n, 1986.'
+  - 'ZILIO, Carlos. A Querela do Brasil. Rio de Janeiro, MEC/FUNARTE, 1982.'
+  locale: 'pt-BR'
+  file: 'sdmg01-013.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdmg01-014'
+  title: A paisagem através da Arquitetura
+  subtitle: o edifício Niemeyer em Belo Horizonte
+  authors:
   - givenname: Marcos Vinícius Teles
     familyname: Guimarães
-    email: margui22@hotmail.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'margui22@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'Há uma peculiaridade do Edifício Niemeyer, construído até o ano de 1960 na cidade de Belo Horizonte, que se apresenta como novidade tanto no contexto arquitetônico em que se situa como na literatura especializada. Trata-se do fato de seu pilotis ter uma configuração que conecta visual e espacialmente duas referências fundamentais da paisagem urbana: a Serra do Curral pode ser vista através do edifício desde a Praça da Liberdade. Tal conexão espacial permite recuperar um tema que valoriza tanto esta importante obra do modernismo brasileiro como a cidade onde se situa. Na identificação desse peculiar motivo arquitetônico, foi fundamental um estudo do edifício em seu contexto urbano e paisagístico. Lançou-se mão de uma documentação que, apesar de escassa, revelou relações espaciais essenciais para o entendimento da obra. A paisagem através da arquitetura, contudo, já não é visível na atualidade, devido ao adensamento e a verticalização construtiva do entorno ocorridos nos últimos tempos. Portanto, considera-se essencial verificar sua origem e situá-la no contexto da cidade. Procede-se, assim, ao estudo da evolução do tecido urbano e arquitetônico como subsídio para um maior esclarecimento do edifício. Com vistas a ampliar as referências e verificar a manifestação do tema em outros contextos, faz-se ainda uma incursão por outras obras de Oscar Niemeyer. Como considerações finais, destacam-se a importância do contexto e da formação evolutiva do tecido urbano como subsídios para a pesquisa arquitetônica, as relações locais e globais do território que concorrem no processo de criação projetual, e a importância da conservação e divulgação de documentos históricos.'
+  keywords:
   - arquitetura
   - paisagem
   - Edifício Niemeyer
-  resumo: 'Há uma peculiaridade do Edifício Niemeyer, construído até o ano de 1960 na cidade de Belo Horizonte, que se apresenta como novidade tanto no contexto arquitetônico em que se situa como na literatura especializada. Trata-se do fato de seu pilotis ter uma configuração que conecta visual e espacialmente duas referências fundamentais da paisagem urbana: a Serra do Curral pode ser vista através do edifício desde a Praça da Liberdade. Tal conexão espacial permite recuperar um tema que valoriza tanto esta importante obra do modernismo brasileiro como a cidade onde se situa. Na identificação desse peculiar motivo arquitetônico, foi fundamental um estudo do edifício em seu contexto urbano e paisagístico. Lançou-se mão de uma documentação que, apesar de escassa, revelou relações espaciais essenciais para o entendimento da obra. A paisagem através da arquitetura, contudo, já não é visível na atualidade, devido ao adensamento e a verticalização construtiva do entorno ocorridos nos últimos tempos. Portanto, considera-se essencial verificar sua origem e situá-la no contexto da cidade. Procede-se, assim, ao estudo da evolução do tecido urbano e arquitetônico como subsídio para um maior esclarecimento do edifício. Com vistas a ampliar as referências e verificar a manifestação do tema em outros contextos, faz-se ainda uma incursão por outras obras de Oscar Niemeyer. Como considerações finais, destacam-se a importância do contexto e da formação evolutiva do tecido urbano como subsídios para a pesquisa arquitetônica, as relações locais e globais do território que concorrem no processo de criação projetual, e a importância da conservação e divulgação de documentos históricos.'
-  resumo_en: 'There is a peculiarity in the Niemeyer Apartment Building, built in 1960 in the city of Belo Horizonte, that is a novelty in the architectural context as well as in the specialized literature. Its portico has an open configuration that connects, in visual as well as in spatial terms, two fundamental references of the townscape: the Serra do Curral (mountain range) can be seen through the building from the Liberty Square. Such a spatial connection recovers a theme that valorizes this important building of the Brazilian modernism as well as the city where it is located. While identifying this peculiar architectural and urban feature, the examining of the building in its urban and landscaping context was fundamental. The available material was scarce but a documental research was launched; it showed essential spatial relations for the understanding of the building. The landscape through architecture is, nevertheless, not anymore visible nowadays, due to the constructive densification and growing up occurred in the last decades. So, it is important to verify its origin and situate it in the context of the city. The evolution of the urban and architectural fabric is examined as a means for a better comprehension of the building. In order to increase the references and verify the occurrence of the subject in different contexts, other buildings and projects of Oscar Niemeyer are studied. As final considerations, it is called attention for: the importance of considering the context and evolution of the urban fabric in the architectural research; the local as well as the global relations concurring in the design process; and the relevance in conserving and divulging historic documentation.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-014.pdf
-  paginas_total: 13
-  referencias:
+  abstract_en: 'There is a peculiarity in the Niemeyer Apartment Building, built in 1960 in the city of Belo Horizonte, that is a novelty in the architectural context as well as in the specialized literature. Its portico has an open configuration that connects, in visual as well as in spatial terms, two fundamental references of the townscape: the Serra do Curral (mountain range) can be seen through the building from the Liberty Square. Such a spatial connection recovers a theme that valorizes this important building of the Brazilian modernism as well as the city where it is located. While identifying this peculiar architectural and urban feature, the examining of the building in its urban and landscaping context was fundamental. The available material was scarce but a documental research was launched; it showed essential spatial relations for the understanding of the building. The landscape through architecture is, nevertheless, not anymore visible nowadays, due to the constructive densification and growing up occurred in the last decades. So, it is important to verify its origin and situate it in the context of the city. The evolution of the urban and architectural fabric is examined as a means for a better comprehension of the building. In order to increase the references and verify the occurrence of the subject in different contexts, other buildings and projects of Oscar Niemeyer are studied. As final considerations, it is called attention for: the importance of considering the context and evolution of the urban fabric in the architectural research; the local as well as the global relations concurring in the design process; and the relevance in conserving and divulging historic documentation.'
+  references:
   - 'CALDEIRA, Júnia M. Praça: território de sociabilidade - Uma leitura do processo de restauração da Praça da Liberdade de Belo Horizonte. (Dissertação de Mestrado). Campinas: Universidade Estadual de Campinas, 1998.'
   - 'CAVALCANTI, Lauro. Casa das Canoas: un dialogue non-mimétique avec le paysage. L’Architecture D’Aujourdhui, núm.373, p.54-63, nov-déc, 2007.'
   - 'CERTEAU, Michel de. A invenção do cotidiano: 1. Artes de fazer. Petrópolis: Vozes, 2008.'
@@ -523,35 +688,42 @@ articles:
   - 'FERNÁNDEZ GALIANO, Luis. (ed.). Oscar Niemeyer: One Hundred Years. AV Monografías, n.125, mayo-junio, 2007.'
   - 'FERREIRA, Maura B. A proteção ao patrimônio natural urbano: estudo de caso sobre a Serra do Curral, Belo Horizonte/MG. (Dissertação de Mestrado). Belo Horizonte: Universidade Federal de Minas Gerais, 2003.'
   - 'GOMES, Marco Aurélio A. F., LIMA, Fábio José M. Pensamento e prática urbanística em Belo Horizonte, 1895-1961. In: LEME, Maria Cristina da S. (org). Urbanismo no Brasil 1895-1965. Salvador: EDUFBA, 2005. p.120-140.'
-  - HERVÉ, Lucien (photos). Immeuble a Belo Horizonte, Brésil. L’Architecture D’Aujourdhui, vol.33, núm.104, p.82-83, 1963.
+  - 'HERVÉ, Lucien (photos). Immeuble a Belo Horizonte, Brésil. L’Architecture D’Aujourdhui, vol.33, núm.104, p.82-83, 1963.'
   - 'LANA, Ricardo. Conjunto urbanístico da Praça da Liberdade e Avenida João Pinheiro: uma proposta de preservação. Belo Horizonte: Prefeitura de Belo Horizonte, 1990.'
   - 'MACEDO, Danilo M. A matéria da invenção: criação e construção das obras de Oscar Niemeyer em Minas Gerais – 1938-1954. (Dissertação de Mestrado). Belo Horizonte: Universidade Federal de Minas Gerais, 2002.'
   - 'PAPADAKI, Stamo. The Work of Oscar Niemeyer. New York: Reinhold, 1950.'
   - 'PAPADAKI, Stamo. Oscar Niemeyer: Works in Progress. New York: Reinhold, 1956.'
-  - Ver HERVÉ, 1963, p.83. Ver MACEDO, 2006, p.377-381.
-- id: sdmg01-015
-  titulo: Modernismo versus regionalismo
-  subtitulo: detalhes, tecnologias e materiais construtivos na arquitetura de sylvio de vasconcellos
-  autores:
+  - 'Ver HERVÉ, 1963, p.83. Ver MACEDO, 2006, p.377-381.'
+  locale: 'pt-BR'
+  file: 'sdmg01-014.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdmg01-015'
+  title: Modernismo versus regionalismo
+  subtitle: 'detalhes, tecnologias e materiais construtivos na Arquitetura de Sylvio de Vasconcellos'
+  authors:
   - givenname: Lisandra
     familyname: Mara
-    email: lisandram@gmail.com
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'lisandram@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'A arquitetura se configura como forte ícone cultural; é expressão de um povo e de uma época. Para uma cultura regional, mineira ou brasileira, não é única ou homogênea, mas uma mistura, em constante transformação, de influências exógenas aliadas à tradição local. O objetivo geral desta pesquisa é avaliar em que medida os métodos e os materiais construtivos, ou seja, a tecnologia foi elaborada em uma perspectiva regional pelo arquiteto modernista Sylvio de Vasconcellos (1916-1979) a partir do sincretismo entre os pensamentos vigentes da arquitetura modernista internacional e a arquitetura tradicional mineira. De modo específico, objetiva-se conhecer as tecnologias construtivas tradicionais desenvolvidas em Minas Gerais, principalmente as do período colonial, assim como as tecnologias típicas da gênese do movimento moderno na arquitetura, tanto aquelas utilizadas no hemisfério norte quanto as disponíveis para o emprego na construção civil brasileira da época. A metodologia de trabalho nos deixa claro que ao levantamento tecnológico vincula-se naturalmente a pesquisa de materiais de construção, e nos leva ao estudo das origens e funções dos elementos construtivos assim como à motivação de seu emprego pelo arquiteto, constituindo, ao final, um grande repertório histórico – tecnológico - construtivo. Partindo para além da observação teórico-comportamental do arquiteto, pretende-se compreender as tecnologias construtivas através da observação da prática desenvolvida. Espera-se responder como a arquitetura é muitas vezes definida como um modernismo genuinamente regional, à mercê das tecnologias disponíveis no Brasil, ou mais especificamente, em Belo Horizonte, no período das mais significativas produções arquitetônicas de Sylvio de Vasconcellos.'
+  keywords:
   - Sylvio de Vasconcellos
   - Detalhes de arquitetura
   - Sistemas construtivos
-  palavras_chave_en:
+  abstract_en: 'The architecture is configured as a strong cultural icon, an expression of a group and a time. For a regional culture, from Minas Gerais or Brazil, it is not unique or homogeneous, but a mixture, in constant transformation, of exogenous influences combined with local tradition. The goal of this research is to assess the extent to which technology, ie the methods and the building materials, have been developed in a regional perspective by the modernist architect Sylvio de Vasconcellos (1916-1979) based in the syncretism between the current thoughts of the modernist architecture and traditional local architecture. Specifically, the objective is to know the traditional construction technologies developed in Minas Gerais, especially the colonial period, as well as the technologies typical of the genesis of the modern movement in architecture, both those used in the northern hemisphere as those available for employment in construction Brazilian civil at the time. The methodology of the investigation makes it clear that the waiver is linked to technological research course of construction materials, and leads us to the study of the origins and functions of the building elements as well as the motivation of his employment by the architect, and that it is, in the end, a large historical - technological - constructive repertoire. Starting from beyond the theoretical and behavioral observation of the architect, the research seeks to understand the construction technologies through observation of established practice. We expect to respond how architecture is often defined as a genuinely regional modernism at the mercy of the technologies available in Brazil, or more specifically, in Belo Horizonte, in the production of the most significant architectural productions of Sylvio de Vasconcellos.'
+  keywords_en:
   - Sylvio de Vasconcellos
   - Architectural details
   - Building systems
-  resumo: A arquitetura se configura como forte ícone cultural; é expressão de um povo e de uma época. Para uma cultura regional, mineira ou brasileira, não é única ou homogênea, mas uma mistura, em constante transformação, de influências exógenas aliadas à tradição local. O objetivo geral desta pesquisa é avaliar em que medida os métodos e os materiais construtivos, ou seja, a tecnologia foi elaborada em uma perspectiva regional pelo arquiteto modernista Sylvio de Vasconcellos (1916-1979) a partir do sincretismo entre os pensamentos vigentes da arquitetura modernista internacional e a arquitetura tradicional mineira. De modo específico, objetiva-se conhecer as tecnologias construtivas tradicionais desenvolvidas em Minas Gerais, principalmente as do período colonial, assim como as tecnologias típicas da gênese do movimento moderno na arquitetura, tanto aquelas utilizadas no hemisfério norte quanto as disponíveis para o emprego na construção civil brasileira da época. A metodologia de trabalho nos deixa claro que ao levantamento tecnológico vincula-se naturalmente a pesquisa de materiais de construção, e nos leva ao estudo das origens e funções dos elementos construtivos assim como à motivação de seu emprego pelo arquiteto, constituindo, ao final, um grande repertório histórico – tecnológico - construtivo. Partindo para além da observação teórico-comportamental do arquiteto, pretende-se compreender as tecnologias construtivas através da observação da prática desenvolvida. Espera-se responder como a arquitetura é muitas vezes definida como um modernismo genuinamente regional, à mercê das tecnologias disponíveis no Brasil, ou mais especificamente, em Belo Horizonte, no período das mais significativas produções arquitetônicas de Sylvio de Vasconcellos.
-  resumo_en: The architecture is configured as a strong cultural icon, an expression of a group and a time. For a regional culture, from Minas Gerais or Brazil, it is not unique or homogeneous, but a mixture, in constant transformation, of exogenous influences combined with local tradition. The goal of this research is to assess the extent to which technology, ie the methods and the building materials, have been developed in a regional perspective by the modernist architect Sylvio de Vasconcellos (1916-1979) based in the syncretism between the current thoughts of the modernist architecture and traditional local architecture. Specifically, the objective is to know the traditional construction technologies developed in Minas Gerais, especially the colonial period, as well as the technologies typical of the genesis of the modern movement in architecture, both those used in the northern hemisphere as those available for employment in construction Brazilian civil at the time. The methodology of the investigation makes it clear that the waiver is linked to technological research course of construction materials, and leads us to the study of the origins and functions of the building elements as well as the motivation of his employment by the architect, and that it is, in the end, a large historical - technological - constructive repertoire. Starting from beyond the theoretical and behavioral observation of the architect, the research seeks to understand the construction technologies through observation of established practice. We expect to respond how architecture is often defined as a genuinely regional modernism at the mercy of the technologies available in Brazil, or more specifically, in Belo Horizonte, in the production of the most significant architectural productions of Sylvio de Vasconcellos.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-015.pdf
-  paginas_total: 20
-  referencias:
-  - ANDRADE, Luciana Teixeira de. Modernidade e tradição. 1993. 33f. Projeto FIP 04/91. Monografia (especialização) - Pontíficia Universidade Católica de Minas Gerais.
+  references:
+  - 'ANDRADE, Luciana Teixeira de. Modernidade e tradição. 1993. 33f. Projeto FIP 04/91. Monografia (especialização) - Pontíficia Universidade Católica de Minas Gerais.'
   - 'BAHIA, Denise Marques. O sentido de habitar e as formas de morar: a experiência modernista na arquitetura residencial unifamiliar de Belo Horizonte. 1999. 151p. Dissertação (Mestrado) – Universidade Federal de Minas Gerais, Escola de Arquitetura, Belo Horizonte.'
   - 'BENEVOLO, Leonardo. História da arquitetura moderna. Tradução: Ana M. Goldberger. 3ed. São Paulo: Perspectiva, 1994. Título original: Storia dell''architettura moderna.'
   - 'BERMAN, Marshall. Tudo que e sólido desmancha no ar: a aventura da modernidade. Tradução: Carlos Felipe Moisés, Ana Maria L. Ioriatti. São Paulo: Companhia das Letras, 1986. Título original: All that is solid melts into air.'
@@ -566,60 +738,92 @@ articles:
   - 'FAPEMIG, 2005. Disponível em: <http://www.arq.ufmg.br/modernismo_mg/index1.html> Acesso em: 26 maio 2007.'
   - 'RISEBERO, Bill. La arquitectura y el diseño modernos: una historia alternativa. Tradução: Rafael Fontes. Madrid: Herman Blume, 1986. (El diseño del entorno). Título original: Modern architecture and design: an alternative history.'
   - 'VASCONCELLOS, Sylvio de. Arquitetura, arte e cidade: textos reunidos. Belo Horizonte:'
-  - BDMG Cultural, 2004. 384p.
+  - 'BDMG Cultural, 2004. 384p.'
   - 'VASCONCELLOS, Sylvio de. Arquitetura dois estudos. Porto Alegre: Instituto Estadual do Livro, 1960. 105p. (Cadernos do Rio Grande 11))'
   - 'VASCONCELLOS, SYLVIO DE; UNIVERSIDADE DE MINAS GERAIS. Arquitetura no Brasil: sistemas construtivos. 5. ed. rev. Belo Horizonte: UFMG, 1979. 186p. (Patrimônio cultural ;2 )'
-  - VASCONCELLOS, SYLVIO DE; TESE-UNIVERSIDADE DE MINAS GERAIS, ESCOLA DE
+  - 'VASCONCELLOS, SYLVIO DE; TESE-UNIVERSIDADE DE MINAS GERAIS, ESCOLA DE'
   - 'ARQUITETURA. Arquitetura particular em Vila Rica. Belo Horizonte: [s.n.], 1951. 194p.'
-- id: sdmg01-016
-  titulo: Oscar Niemeyer
-  subtitulo: complexo arquitetônico da Pampulha e sua recepção nas revistas nacionais e internacionais
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-015.pdf'
+  pages_count: 20
+  pages: null
+
+- id: 'sdmg01-016'
+  title: Oscar Niemeyer
+  subtitle: complexo arquitetônico da Pampulha e sua recepção nas revistas nacionais e internacionais
+  authors:
   - givenname: Lucy Ana Lassi Dias da Mota
     familyname: Leite
-    email: Lucyanawel@yahoo.com.br
+    email: 'Lucyanawel@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Maria Beatriz Camargo
     familyname: Cappello
-    email: mbcappello@uol.com.br
-  secao: Apresentações Orais — sdmg01
-  palavras_chave:
+    email: 'mbcappello@uol.com.br'
+    affiliation: null
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentações Orais — sdmg01
+  abstract: 'O presente trabalho faz parte de uma pesquisa maior que tem como objetivo documentar e catalogar a historiografia e iconografia da arquitetura moderna brasileira presente nas revistas de arquitetura de 1945 a 1960, período que se destacou pelo desenvolvimento de uma identidade arquitetônica brasileira. Defendendo a interpretação de obras, como base para a formulação das relações do edifício e seu entorno e das conseqüências das aplicações estéticas para o período atuante, o presente projeto de pesquisa coleta um material que possibilita fazer uma comparação da repercussão da arquitetura moderna brasileira em revistas nacionais e internacionais selecionadas, revelando seu reconhecimento em ambas esferas. A partir da catalogação feita, enfatiza-se aqui o Complexo da Pampulha em Belo Horizonte, obra de Oscar Niemeyer que atingiu maior repercussão na imprensa especializada da época. Através de sua repercussão nas publicações revela-se a importância da obra para o movimento moderno brasileiro.'
+  keywords:
   - revistas
   - Pampulha
   - Niemeyer
-  palavras_chave_en:
+  abstract_en: 'This present work falls in a research projet wich documents and files the articles and the iconography of modern Brazilian architecture present in the architecture`s magazines (1945-1960), period that emphasized the development of a Brazilian architectural identity. Defending the interpretation of works as the basis for the formulation of the relationship of the building and its surroundings and the consequences of aesthetic applications for the active period, this project provides material for a comparison of the impacts of Brazilian''s modern architecture in national and international publications, which shows its recognition in both spheres. From the performed cataloging, it is highlighted the complex of Pampulha in Belo Horizonte, the work of Oscar Niemeyer which had more repercussion in the press of epoch, through magazines`s publications reveals its importance in the modern movement in Brazil.'
+  keywords_en:
   - magazines
   - Pampulha
   - Niemeyer
-  resumo: O presente trabalho faz parte de uma pesquisa maior que tem como objetivo documentar e catalogar a historiografia e iconografia da arquitetura moderna brasileira presente nas revistas de arquitetura de 1945 a 1960, período que se destacou pelo desenvolvimento de uma identidade arquitetônica brasileira. Defendendo a interpretação de obras, como base para a formulação das relações do edifício e seu entorno e das conseqüências das aplicações estéticas para o período atuante, o presente projeto de pesquisa coleta um material que possibilita fazer uma comparação da repercussão da arquitetura moderna brasileira em revistas nacionais e internacionais selecionadas, revelando seu reconhecimento em ambas esferas. A partir da catalogação feita, enfatiza-se aqui o Complexo da Pampulha em Belo Horizonte, obra de Oscar Niemeyer que atingiu maior repercussão na imprensa especializada da época. Através de sua repercussão nas publicações revela-se a importância da obra para o movimento moderno brasileiro.
-  resumo_en: This present work falls in a research projet wich documents and files the articles and the iconography of modern Brazilian architecture present in the architecture`s magazines (1945-1960), period that emphasized the development of a Brazilian architectural identity. Defending the interpretation of works as the basis for the formulation of the relationship of the building and its surroundings and the consequences of aesthetic applications for the active period, this project provides material for a comparison of the impacts of Brazilian's modern architecture in national and international publications, which shows its recognition in both spheres. From the performed cataloging, it is highlighted the complex of Pampulha in Belo Horizonte, the work of Oscar Niemeyer which had more repercussion in the press of epoch, through magazines`s publications reveals its importance in the modern movement in Brazil.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-016.pdf
-  paginas_total: 25
-- id: sdmg01-017
-  titulo: Contribuição à documentação e análise da arquitetura moderna em Minas Gerais
-  subtitulo: O caso de Uberaba
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-016.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdmg01-017'
+  title: Contribuição à documentação e análise da Arquitetura Moderna em Minas Gerais
+  subtitle: o caso de Uberaba
+  authors:
   - givenname: Max Paulo Giacheto
     familyname: Manhas
+    email: 'mmanhas@yahoo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Adriana Capretz Borges da Silva
     familyname: Manhas
+    email: 'dricapretz@hotmail.com'
+    affiliation: null
+    orcid: '0000-0003-0019-1727'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Ana Teresa Cirigliano
     familyname: Villela
-  secao: Pôsteres — sdmg01
-  palavras_chave:
+    email: 'anacirig@hotmail.com'
+    affiliation: null
+    orcid: '0000-0001-6720-935X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: 'A cidade de Uberaba, localizada na região do Triângulo Mineiro, apresenta sua história intimamente relacionada à expansão pecuária desde os primórdios de sua existência, quando constituía rota salineira para os criadores de gado, até o apogeu da pecuária zebuína. Entretanto, a elite pecuária permaneceu tradicional e resistente à modernidade arquitetônica, sendo que até a década de 1960 apresentava a estética em estilo Neocolonial e Art Déco, marcada pelo resgate de importantes símbolos de uma sociedade com forte ascendência árabe. Como a maioria das cidades do país, foi somente a partir da construção da nova capital federal que Uberaba aceitou, incorporou e buscou as influências “modernas”, que constituíram muito mais do que um “ideal” exibido por meio de sua arquitetura, mas o efetivo desenvolvimento que alcançou todas as esferas da sociedade. Este trabalho objetiva contribuir para a documentação e conservação da arquitetura moderna em Minas Gerais, por meio da análise de importantes exemplares edificados na cidade de Uberaba, na região do Triângulo Mineiro. Entre as edificações mostradas, são enfatizadas a Estação Ferroviária, de Oswaldo Bratke, o prédio dos Correios, primeiro exemplar moderno tombado em nível municipal, a Escola Municipal Marechal Humberto A. Castelo Branco, atribuída a Oscar Niemeyer, além dos trabalhos dos principais difusores e consolidadores da arquitetura moderna na cidade: os arquitetos Wagner Schroden, Germano Gultzgoff, e outros que não tiveram formação específica em arquitetura, mas em Engenharia, mas que souberam compreender e traduzir o pensamento e os conceitos da arquitetura moderna, como o engenheiro Wilson Nassif.'
+  keywords:
   - Arquitetura moderna
   - Uberaba
   - Triângulo Mineiro
-  palavras_chave_en:
+  abstract_en: 'Uberaba City, placed in Mineiro Triangle, has it''s history closely connected with the cattle raising, since the primal times of it''s existance, when it was only a salter route and the two top economical activities were the livestock of Zebu cattle race. Meanwhile, the raising cattle elite was always related with the traditional phiilosophies and the architetonic modernity, in the 60''s, presented characteristics of Neocolonial and Art Decó styles, marked by the rescue of important symbols of a traditional society with a strong arabian ancestry. Like the most cities of the country, only after the construction of the new capital, Uberaba accepted, incorporated and searched for the "modernity" influences, which constituted much more an "ideal" exhibited by it''s architecture, than an effective developmentism embracing all spheres of the society. This work objectives to contribute with the documentation and conservation of the modern architectonical accumulation in Minas Gerais, from the presentation and historycal analisys of important exemplaries constructed in Uberaba City, in the Mineiro Triangle region. Between the edifications showed, are emphasized the Railroad Station, by Oswaldo Bratke, The Mail Building, first modern exemplary registered in a municipal level, and the State School Marechal Humberto A. Castelo Branco, attributed to Oscar Niemeyer, besides works os the most important diffusors and consolidators of the modern architecture in the city: the architects Wagner Schroden, Germano Gultzgoff, and much more others who didn''t have architecture graduation, but in Builting Engeneering, who comprehended and translated the philosophy and the modernists concepts, like the engeneer Wilson Nassif.'
+  keywords_en:
   - Modern Architecture
   - Uberaba
   - Mineiro Triangle
-  resumo: 'A cidade de Uberaba, localizada na região do Triângulo Mineiro, apresenta sua história intimamente relacionada à expansão pecuária desde os primórdios de sua existência, quando constituía rota salineira para os criadores de gado, até o apogeu da pecuária zebuína. Entretanto, a elite pecuária permaneceu tradicional e resistente à modernidade arquitetônica, sendo que até a década de 1960 apresentava a estética em estilo Neocolonial e Art Déco, marcada pelo resgate de importantes símbolos de uma sociedade com forte ascendência árabe. Como a maioria das cidades do país, foi somente a partir da construção da nova capital federal que Uberaba aceitou, incorporou e buscou as influências “modernas”, que constituíram muito mais do que um “ideal” exibido por meio de sua arquitetura, mas o efetivo desenvolvimento que alcançou todas as esferas da sociedade. Este trabalho objetiva contribuir para a documentação e conservação da arquitetura moderna em Minas Gerais, por meio da análise de importantes exemplares edificados na cidade de Uberaba, na região do Triângulo Mineiro. Entre as edificações mostradas, são enfatizadas a Estação Ferroviária, de Oswaldo Bratke, o prédio dos Correios, primeiro exemplar moderno tombado em nível municipal, a Escola Municipal Marechal Humberto A. Castelo Branco, atribuída a Oscar Niemeyer, além dos trabalhos dos principais difusores e consolidadores da arquitetura moderna na cidade: os arquitetos Wagner Schroden, Germano Gultzgoff, e outros que não tiveram formação específica em arquitetura, mas em Engenharia, mas que souberam compreender e traduzir o pensamento e os conceitos da arquitetura moderna, como o engenheiro Wilson Nassif.'
-  resumo_en: 'Uberaba City, placed in Mineiro Triangle, has it''s history closely connected with the cattle raising, since the primal times of it''s existance, when it was only a salter route and the two top economical activities were the livestock of Zebu cattle race. Meanwhile, the raising cattle elite was always related with the traditional phiilosophies and the architetonic modernity, in the 60''s, presented characteristics of Neocolonial and Art Decó styles, marked by the rescue of important symbols of a traditional society with a strong arabian ancestry. Like the most cities of the country, only after the construction of the new capital, Uberaba accepted, incorporated and searched for the "modernity" influences, which constituted much more an "ideal" exhibited by it''s architecture, than an effective developmentism embracing all spheres of the society. This work objectives to contribute with the documentation and conservation of the modern architectonical accumulation in Minas Gerais, from the presentation and historycal analisys of important exemplaries constructed in Uberaba City, in the Mineiro Triangle region. Between the edifications showed, are emphasized the Railroad Station, by Oswaldo Bratke, The Mail Building, first modern exemplary registered in a municipal level, and the State School Marechal Humberto A. Castelo Branco, attributed to Oscar Niemeyer, besides works os the most important diffusors and consolidators of the modern architecture in the city: the architects Wagner Schroden, Germano Gultzgoff, and much more others who didn''t have architecture graduation, but in Builting Engeneering, who comprehended and translated the philosophy and the modernists concepts, like the engeneer Wilson Nassif.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-017.pdf
-  paginas_total: 7
-  referencias:
+  references:
   - 'ASTOS, M. A. J. A afirmação de uma feição nacional e outros caminhos. In: SEMINÁRIO DOCOMOMO'
   - '<http://www.docomomo.org.br/seminarios.htm>Acesso em: 12 dez. 2007.'
   - 'LARA, F. L. C. Modernismo popular: elogio ou imitação. Cadernos de Arquitetura e Urbanismo, Belo Horizonte,'
@@ -628,180 +832,282 @@ articles:
   - '<http://www.docomomo.org.br/seminarios.htm>Acesso em: 12 dez. 2007.'
   - 'MANHAS, A. C. B. S.; VILLELA, A. T. C.; CECÍLIO, J. C. B. de O. A modernidade e a síntese das artes a partir das obras do arquiteto Wagner Schroden em Uberaba (MG). In: SEMINÁRIO DOCOMOMO BRASIL, 8. 2009, Rio de Janeiro. Anais ... Rio de Janeiro, 2009. 1 CD-ROM.'
   - 'REGO, R. L. Breve história de três idéias: motivos formais recorrentes na produção da arquitetura moderna brasileira. In: XVI CONGRESSO BRASILEIRO DE ARQUITETOS. Anais do Colóquio Arquitetura Brasileira:'
-  - <http://www.dau.uem.br/professores/rlrego/arqbras.pdf>. Acesso em dez.2007.
-- id: sdmg01-018
-  titulo: Arquitetura de edifícios escolares
-  subtitulo: o Jardim de Infância Ernestina Pessoa de Francisco Bolonha, Vitória, 1950
-  autores:
+  - '<http://www.dau.uem.br/professores/rlrego/arqbras.pdf>. Acesso em dez.2007.'
+  locale: 'pt-BR'
+  file: 'sdmg01-017.pdf'
+  pages_count: 7
+  pages: null
+
+- id: 'sdmg01-018'
+  title: 'Arquitetura de edifícios escolares, o jardim de infância Ernestina Pessoa de Francisco'
+  authors:
   - givenname: Agnes Leite Thompson Dantas
     familyname: Ferreira
-    email: nisthompson@gmail.com
+    email: 'nisthompson@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Clara Luiza
     familyname: Miranda
-    email: claravix@hotmail.com
-  secao: Pôsteres — sdmg01
-  palavras_chave:
+    email: 'claravix@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: 'O arquiteto Francisco Bolonha projetou o Jardim de Infância Ernestina Pessoa, na capital do Espírito Santo em 1952, a convite do governador Jones dos Santos Neves. O jardim de infância Ernestina Pessoa apresenta-se como uma obra paradigmática da arquitetura moderna brasileira, sendo preservada até hoje. Esse edifício foi apresentado em livros de repercussão internacional, como o renomado livro Arquitetura Moderna no Brasil, de Henrique Mindlin. Em Vitória esse edifício compõe o acervo de obras que pode ser colocado no quadro amplo da Arquitetura Moderna Brasileira - AMB. Este artigo relaciona o Jardim de Infância Ernestina Pessoa com o estabelecimento da arquitetura moderna no Espírito Santo e com a questão da educação nos anos 1950. Realiza uma análise do edifício, destacando a utilização dos códigos AMB e sua sintaxe coerente, segura e a adequação ao sítio do parque em que foi construído.'
+  keywords:
   - Francisco Bolonha
   - edifícios escolares
   - Jardim de Infância Ernestina Pessoa
-  resumo: O arquiteto Francisco Bolonha projetou o Jardim de Infância Ernestina Pessoa, na capital do Espírito Santo em 1952, a convite do governador Jones dos Santos Neves. O jardim de infância Ernestina Pessoa apresenta-se como uma obra paradigmática da arquitetura moderna brasileira, sendo preservada até hoje. Esse edifício foi apresentado em livros de repercussão internacional, como o renomado livro Arquitetura Moderna no Brasil, de Henrique Mindlin. Em Vitória esse edifício compõe o acervo de obras que pode ser colocado no quadro amplo da Arquitetura Moderna Brasileira - AMB. Este artigo relaciona o Jardim de Infância Ernestina Pessoa com o estabelecimento da arquitetura moderna no Espírito Santo e com a questão da educação nos anos 1950. Realiza uma análise do edifício, destacando a utilização dos códigos AMB e sua sintaxe coerente, segura e a adequação ao sítio do parque em que foi construído.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-018.pdf
-  paginas_total: 7
-  referencias:
+  references:
   - 'MINDLIN, Henrique E. Arquitetura Moderna no Brasil – Tradução – Paulo Pedreira – Rio de Janeiro: Aeroplano Editora/IPHAN, p. 158-159, 2000.'
   - 'SEDEC/DPU/RU. Inventário do imóvel de interesse de preservação: E20. Vitória, 2006.'
-- id: sdmg01-019
-  titulo: Vilas de Funcionários
-  subtitulo: estudo da Arquitetura Residencial no Campus da UFV em Viçosa, MG.
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-018.pdf'
+  pages_count: 7
+  pages: null
+
+- id: 'sdmg01-019'
+  title: Vilas de Funcionários
+  subtitle: 'estudo da Arquitetura residencial no campus da UFV em Viçosa, MG'
+  authors:
   - givenname: Tatiana Sell
     familyname: Ferreira
-    email: tattysell@gmail.com
+    email: 'tattysell@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Aline Werneck Barbosa de
     familyname: Carvalho
-    email: abarbosa@ufv.br
-  secao: Pôsteres — sdmg01
-  palavras_chave:
+    email: 'abarbosa@ufv.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: null
+  keywords:
   - vilas
   - patrimônio arquitetônico e urbanístico
   - preservação
   - campus universitário
-  locale: pt-BR
-  arquivo_pdf: sdmg01-019.pdf
-  paginas_total: 5
-  referencias:
-  - BLAY, Eva A.. Eu não tenho onde morar. Vilas operárias na cidade de São Paulo. São Paulo:Nobel, 1985.
+  references:
+  - 'BLAY, Eva A.. Eu não tenho onde morar. Vilas operárias na cidade de São Paulo. São Paulo:Nobel, 1985.'
   - 'BONDUKI, Nabil. Origens da habitação social no Brasil. Arquitetura moderna, Lei do Inquilinato e difusão da casa própria. São Paulo: Estação Liberdade, 2004.'
   - 'BORGES, J. M. e SABIONI, G. S. (org.). Relatório de Construção da ESAV (1929) elaborado pelo Engenheiro João Carlos Bello Lisboa. Viçosa, MG: Editora UFV, 2004.'
   - 'BORGES, J. M.; SABIONI, G. S. e MAGALHÃES, G.F.P. A Universidade Federal de Viçosa no Século XX. Viçosa, MG: Editora UFV, 2006.'
   - 'CARVALHO, A. W. B. Em defesa da preservação de um conjunto residencial modernista: a Vila Gianetti no campus da UFV em Viçosa, MG. SEMINÁRIO'
-  - LATINO-AMERICANO ARQUITETURA & DOCUMENTAÇÃO. Belo Horizonte, 10 a 12 de setembro de 2008.
-  - CARVALHO, A. W. C. (coord.) et al. PDFA - Plano de Desenvolvimento Físico e Ambiental do Campus UFV-Viçosa. Parte II – Proposta. Viçosa, 2007.
-  - GOMES E SOUZA, C. J. Residência tipo de uma vila de professores. Revista Arquitetura e Engenharia, n.8, Ano II, ago/out 1948, p. 42-44.
+  - 'LATINO-AMERICANO ARQUITETURA & DOCUMENTAÇÃO. Belo Horizonte, 10 a 12 de setembro de 2008.'
+  - 'CARVALHO, A. W. C. (coord.) et al. PDFA - Plano de Desenvolvimento Físico e Ambiental do Campus UFV-Viçosa. Parte II – Proposta. Viçosa, 2007.'
+  - 'GOMES E SOUZA, C. J. Residência tipo de uma vila de professores. Revista Arquitetura e Engenharia, n.8, Ano II, ago/out 1948, p. 42-44.'
   - 'REIS FILHO, N. G.. Quadro da Arquitetura no Brasil. São Paulo: Perspectiva, 1978.'
   - 'SABIONI, G. S. e ALVARENGA, S. C. UFV: oito décadas em fotos. Viçosa, MG: Editora UFV, 2006.'
-  - UNIVERSIDADE FEDERAL DE VIÇOSA. Resolução no 06/91 do CONDIR. Viçosa, 1991. Determina sobre ocupação dos imóveis residenciais pertencentes ao Campus da
-  - UFV. ____________________. Resolução no 03/93 do CONDIR. Viçosa, 1993. Aprova a política habitacional para imóveis residenciais da UFV.
-  - ____________________. Resolução no 14/08 do CONSU. Viçosa, 2008. Estabelece o Plano de Desenvolvimento Físico e Ambiental do Campus UFV-Viçosa.
+  - 'UNIVERSIDADE FEDERAL DE VIÇOSA. Resolução no 06/91 do CONDIR. Viçosa, 1991. Determina sobre ocupação dos imóveis residenciais pertencentes ao Campus da'
+  - 'UFV. ____________________. Resolução no 03/93 do CONDIR. Viçosa, 1993. Aprova a política habitacional para imóveis residenciais da UFV.'
+  - '____________________. Resolução no 14/08 do CONSU. Viçosa, 2008. Estabelece o Plano de Desenvolvimento Físico e Ambiental do Campus UFV-Viçosa.'
   - 'Três livros publicados pela Editora UFV: BORGES, J. M.; SABIONI, G. S. e MAGALHÃES, G.F.P. A Universidade Federal de Viçosa no Século XX; SABIONI, G. S. e ALVARENGA, S. C. UFV: Oito Décadas em Fotos, e a reprodução do Relatório de Construção da ESAV (1929) elaborado pelo Engenheiro João Carlos Bello Lisboa, organizado por BORGES, J. M. e SABIONI, G. S. ii Dados fornecidos por Edson Araújo, da Pró-Reitoria de Administração – UFV.'
-- id: sdmg01-020
-  titulo: Germano Gultzgoff e o Movimento Moderno em Uberaba
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-019.pdf'
+  pages_count: 5
+  pages: null
+
+- id: 'sdmg01-020'
+  title: Germano Gultzgoff e o Movimento Moderno em Uberaba
+  authors:
   - givenname: Ariel Luis
     familyname: Lazzarin
-    email: arielluislazzarin@yahoo.com.br
+    email: 'arielluislazzarin@yahoo.com.br'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Henrique Vitorino Souza
     familyname: Alves
-    email: henriquevsa@hotmail.com
+    email: 'henriquevsa@hotmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Maria Beatriz Camargo
     familyname: Cappello
-    email: mbcappello@uol.com.br
-  secao: Pôsteres — sdmg01
-  locale: pt-BR
-  arquivo_pdf: sdmg01-020.pdf
-  paginas_total: 4
-  referencias:
+    email: 'mbcappello@uol.com.br'
+    affiliation: null
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: null
+  references:
   - 'BENEVOLO, L. (1976). História da Arquitetura Moderna. São Paulo: Editora Perspectiva.'
-  - BRUAND, Y. (1981). Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva.
-  - GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.
+  - 'BRUAND, Y. (1981). Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva.'
+  - 'GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.'
   - 'LAURENTIZ, L. (1993). Olhando as arquiteturas do cerrado. In: Projeto n.º 163, São Paulo, maio, pp. 75-91.'
   - 'MINDLIN, H. (1956). Arquitetura moderna no Brasil; prefácio de S. Giedion; organizador da edição brasileira. Lauro Cavalcanti; tradução de Paulo Pedreira. 2.ed. Rio de Janeiro : Aeroplano Editora/IPHAN. 2000. Título original em inglês: Modern architecture in Brasil. New York : Reinhold.'
-  - REIS FILHO, N. G. (1970). Quadros da Arquitetura no Brasil. São Paulo, Perspectiva, 1970.
-  - SEGAWA, H. (1998). Arquitetura no Brasil 1900-1990. São Paulo, Edusp.
-  - XAVIER, A. org. (1987). Arquitetura Moderna Brasileira - Depoimentos de uma Geração. São Paulo, Editora Pini, Associação Brasileira de Ensino de Arquitetura e Fundação Vila Nova Artigas.
-  - FILHO, Germano Gultzgoff. Entrevista. Uberaba/MG 2008. Entrevista concedida à Ariel Luis Lazzarin e Henrique Vitorino Souza Alves. http://www.faurb.ufu.br/doc_moderno/index_docomomo.html. Visitação em 28 de fevereiro de 2010.
-- id: sdmg01-021
-  titulo: A influência kitsch nas obras de Geraldo Queiroz e o discurso modernista em Uberlândia na década de 1950.
-  autores:
+  - 'REIS FILHO, N. G. (1970). Quadros da Arquitetura no Brasil. São Paulo, Perspectiva, 1970.'
+  - 'SEGAWA, H. (1998). Arquitetura no Brasil 1900-1990. São Paulo, Edusp.'
+  - 'XAVIER, A. org. (1987). Arquitetura Moderna Brasileira - Depoimentos de uma Geração. São Paulo, Editora Pini, Associação Brasileira de Ensino de Arquitetura e Fundação Vila Nova Artigas.'
+  - 'FILHO, Germano Gultzgoff. Entrevista. Uberaba/MG 2008. Entrevista concedida à Ariel Luis Lazzarin e Henrique Vitorino Souza Alves. http://www.faurb.ufu.br/doc_moderno/index_docomomo.html. Visitação em 28 de fevereiro de 2010.'
+  locale: 'pt-BR'
+  file: 'sdmg01-020.pdf'
+  pages_count: 4
+  pages: null
+
+- id: 'sdmg01-021'
+  title: A influência kitsch nas obras de Geraldo Queiroz e o discurso Modernista em Uberlândia na década de 1950
+  authors:
   - givenname: Juscelino Humberto Cunha Machado
     familyname: Junior
-  secao: Pôsteres — sdmg01
-  palavras_chave:
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: null
+  keywords:
   - síntese das artes
   - arquitetura moderna brasileira
   - mural dentro da modernidade/ Synthesis of the arts
   - Modern Brazilian Architecture
   - Mural within Modrnity
-  resumo_en: The object of this study is focused on the production of panels of glass chips of the artist / craftsman Geraldo Queiroz, in the 1950s, in Uberlandia, state of Minas Gerais, seeking to contribute to an unfilled gap in the academic field, which is the analysis and documentation of the historiographical production of peripheral art in small cities or capitals, but in a discussion of the synthesis of the arts and modernist ideals discussed not only in every country but also internationally in the Second World War. The set of panels the artist has great quality, because of its aesthetic expression, the artistic techniques employed in its composition, representing an important element in the trace of the panorama of the art produced in the county. Moreover, it is part of the work of an artist who has great relevance in the cultural history of the city and the city's development and the resulting distortion of the buildings, retirement or demolition, they are losing, representing not only the loss of the artistic cultural one well integrated, but the loss of cultural references, impoverishing the contents of our collective emory. The goal is to understand how the paradoxes of language arts and speech modernist / progressive, linked in the 1950s in Uberlandia, relate. To do this, we found support the study and the same spatial structure, as understood by space category, is articulated interpretations of sociological, anthropological and political as well as characterizing the work of Geraldo Queiroz in the context examined. Thus it was possible to investigate possible social and political relations on the artistic performances and production of architectural space, town planning, not considering, as an accurate reflection in obtaining true concepts inferred, but in order to better understand the relationship between art, culture and society that both encourages the researcher in art history.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-021.pdf
-  paginas_total: 4
-- id: sdmg01-022
-  titulo: Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba
-  subtitulo: a atuação dos grandes escritórios
-  autores:
+  abstract_en: 'The object of this study is focused on the production of panels of glass chips of the artist / craftsman Geraldo Queiroz, in the 1950s, in Uberlandia, state of Minas Gerais, seeking to contribute to an unfilled gap in the academic field, which is the analysis and documentation of the historiographical production of peripheral art in small cities or capitals, but in a discussion of the synthesis of the arts and modernist ideals discussed not only in every country but also internationally in the Second World War. The set of panels the artist has great quality, because of its aesthetic expression, the artistic techniques employed in its composition, representing an important element in the trace of the panorama of the art produced in the county. Moreover, it is part of the work of an artist who has great relevance in the cultural history of the city and the city''s development and the resulting distortion of the buildings, retirement or demolition, they are losing, representing not only the loss of the artistic cultural one well integrated, but the loss of cultural references, impoverishing the contents of our collective emory. The goal is to understand how the paradoxes of language arts and speech modernist / progressive, linked in the 1950s in Uberlandia, relate. To do this, we found support the study and the same spatial structure, as understood by space category, is articulated interpretations of sociological, anthropological and political as well as characterizing the work of Geraldo Queiroz in the context examined. Thus it was possible to investigate possible social and political relations on the artistic performances and production of architectural space, town planning, not considering, as an accurate reflection in obtaining true concepts inferred, but in order to better understand the relationship between art, culture and society that both encourages the researcher in art history.'
+  locale: 'pt-BR'
+  file: 'sdmg01-021.pdf'
+  pages_count: 4
+  pages: null
+
+- id: 'sdmg01-022'
+  title: Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba
+  subtitle: a atuação dos grandes escritórios
+  authors:
   - givenname: Ana Paula Tavares
     familyname: Miranda
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Maria Beatriz Camargo
     familyname: Cappello
-  secao: Pôsteres — sdmg01
-  palavras_chave_en:
+    email: 'mbcappello@uol.com.br'
+    affiliation: null
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: 'O artigo aqui intitulado “Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: A Atuação dos Grandes Escritórios”, surgiu com base num projeto maior, o trabalho desenvolvido no núcleo de História da Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia, “Documentação da Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: História e Preservação”. O trabalho realizado pelo núcleo de pesquisa tem como objetivo a identificação, análise e catalogação das obras que se inserem na linguagem moderna dentro da região, buscando também promover a conscientização da importância cultural dessas obras ao passo da grande descaracterização que vêm sofrendo. As fichas de inventário, realizadas no modelo DOCOMOMO internacional, serviram de apoio para o artigo em questão, que busca demonstrar a atuação dos grandes escritórios de arquitetura (normalmente provindos das capitais nacionais) e suas contribuições, não só como inserção de uma nova técnica, mas principalmente de uma nova concepção formal.'
+  abstract_en: 'This article, named “Modern Architecture in the Triângulo Mineiro and Alto Paranaíba: The action of Great Offices”, arose based on a bigger project, the work developed at the History Department of the Architecture, Urban Planning and Design College of Uberlândia “Documentation of Modern Architecture in the Triângulo Mineiro and Alto Paranaíba: History and Preservation”. The work carried out by the research department aims at Aluna de graduação da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia - Av. João Naves de Ávila, 2121 - Bloco 1I, sala 43 - Uberlândia/MG - CEP: 38400-100. E-mail: a_paulatavares@hotmail.com Professora Doutora da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia - Av. João Naves de Ávila, 2121 - Bloco 1I, sala 43 - Uberlândia/MG - CEP: 38400-100. E-mail: mbcappello@uol.com.br identifying, analyzing and cataloging the works inserted in the modern language within the region, also seeking to promote awareness of the cultural importance of these works while the great loss of characterization it has been going through. The inventory sheets, realized in the international standard model DOCOMOMO, supported this article which aims at demonstrating the performance of great architecture offices (usually derived from national capitals) and its contributions, not only as insertion of a new technique, but especially as a new formal conception.'
+  keywords_en:
   - modern architecture
   - urbanism and landscape design
   - architecture offices
   - presevation
-  resumo: 'O artigo aqui intitulado “Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: A Atuação dos Grandes Escritórios”, surgiu com base num projeto maior, o trabalho desenvolvido no núcleo de História da Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia, “Documentação da Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: História e Preservação”. O trabalho realizado pelo núcleo de pesquisa tem como objetivo a identificação, análise e catalogação das obras que se inserem na linguagem moderna dentro da região, buscando também promover a conscientização da importância cultural dessas obras ao passo da grande descaracterização que vêm sofrendo. As fichas de inventário, realizadas no modelo DOCOMOMO internacional, serviram de apoio para o artigo em questão, que busca demonstrar a atuação dos grandes escritórios de arquitetura (normalmente provindos das capitais nacionais) e suas contribuições, não só como inserção de uma nova técnica, mas principalmente de uma nova concepção formal.'
-  resumo_en: 'This article, named “Modern Architecture in the Triângulo Mineiro and Alto Paranaíba: The action of Great Offices”, arose based on a bigger project, the work developed at the History Department of the Architecture, Urban Planning and Design College of Uberlândia “Documentation of Modern Architecture in the Triângulo Mineiro and Alto Paranaíba: History and Preservation”. The work carried out by the research department aims at Aluna de graduação da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia - Av. João Naves de Ávila, 2121 - Bloco 1I, sala 43 - Uberlândia/MG - CEP: 38400-100. E-mail: a_paulatavares@hotmail.com Professora Doutora da Faculdade de Arquitetura e Urbanismo e Design da Universidade Federal de Uberlândia - Av. João Naves de Ávila, 2121 - Bloco 1I, sala 43 - Uberlândia/MG - CEP: 38400-100. E-mail: mbcappello@uol.com.br identifying, analyzing and cataloging the works inserted in the modern language within the region, also seeking to promote awareness of the cultural importance of these works while the great loss of characterization it has been going through. The inventory sheets, realized in the international standard model DOCOMOMO, supported this article which aims at demonstrating the performance of great architecture offices (usually derived from national capitals) and its contributions, not only as insertion of a new technique, but especially as a new formal conception.'
-  locale: pt-BR
-  arquivo_pdf: sdmg01-022.pdf
-  paginas_total: 25
-- id: sdmg01-023
-  titulo: Estudos da concepção urbanística e tipologia arquitetônica da cidade de Cachoeira Dourada de Minas Gerais
-  autores:
+  locale: 'pt-BR'
+  file: 'sdmg01-022.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdmg01-023'
+  title: Estudos da concepção urbanística e tipologia arquitetônica da cidade de Cachoeira Dourada de Minas Gerais
+  authors:
   - givenname: Larissa Oliveira
     familyname: Gonçalves
-  - givenname: Maria Eliza A.
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Maria Eliza Alves
     familyname: Guerra
-  secao: Pôsteres — sdmg01
-  palavras_chave_en:
+    email: 'andradeguerra@triang.com.br'
+    affiliation: null
+    orcid: '0000-0001-8573-1918'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: 'O estudo iniciado trata de Cachoeira Dourada, localizada no Triângulo Mineiro, uma cidade implantada para dar apoio a uma Usina Hidrelétrica que, por sua vez, foi criada para ajudar na expansão do estado de Goiás e na criação de Brasília. Para a criação da usina cachoeiras e uma grande área de floresta nativa foram inundadas, além de um povoado chamado Feijoada. Onde, até a primeira metade do século dezenove habitavam índios caiapós. A cidade teve a sua maior taxa habitacional devido à vinda de imigrantes durante o período de construção da hidrelétrica. Com o fim das obras e com a mecanização do trabalho no campo houve uma queda na quantidade de habitantes. Com uma dimensão territorial pequena, Cachoeira Dourada possui como destaque a Avenida da Praia, localizada na orla do lago, utilizada para atividades de lazer e práticas esportivas.'
+  abstract_en: 'The initial study refers to Cachoeira Dourada, located on Triângulo Mineiro, a city established to support a Hydropower Plant that, in turn, was created to assist in the expansion of the state of Goiás and the creation of Brasília. For the creation of the plant, waterfalls and a large area of native forest were flooded, also a town called Feijoada. Until the first half of the nineteenth century Caiapós Indians lived there. The city had its highest rate housing due to the coming of immigrants during the period of construction of the hydropower. With the end of the work and with the mechanization of the work in the field, there was a decrease in the number of inhabitants. The most important avenue in Cachoeira Dourada is the Avenida da Praia what is located on the edge of the lake. There’s an important tourist point used for leisure activities and sports.'
+  keywords_en:
   - urbanismo moderno
   - cidade operadora
   - cidade empresa
-  resumo: O estudo iniciado trata de Cachoeira Dourada, localizada no Triângulo Mineiro, uma cidade implantada para dar apoio a uma Usina Hidrelétrica que, por sua vez, foi criada para ajudar na expansão do estado de Goiás e na criação de Brasília. Para a criação da usina cachoeiras e uma grande área de floresta nativa foram inundadas, além de um povoado chamado Feijoada. Onde, até a primeira metade do século dezenove habitavam índios caiapós. A cidade teve a sua maior taxa habitacional devido à vinda de imigrantes durante o período de construção da hidrelétrica. Com o fim das obras e com a mecanização do trabalho no campo houve uma queda na quantidade de habitantes. Com uma dimensão territorial pequena, Cachoeira Dourada possui como destaque a Avenida da Praia, localizada na orla do lago, utilizada para atividades de lazer e práticas esportivas.
-  resumo_en: The initial study refers to Cachoeira Dourada, located on Triângulo Mineiro, a city established to support a Hydropower Plant that, in turn, was created to assist in the expansion of the state of Goiás and the creation of Brasília. For the creation of the plant, waterfalls and a large area of native forest were flooded, also a town called Feijoada. Until the first half of the nineteenth century Caiapós Indians lived there. The city had its highest rate housing due to the coming of immigrants during the period of construction of the hydropower. With the end of the work and with the mechanization of the work in the field, there was a decrease in the number of inhabitants. The most important avenue in Cachoeira Dourada is the Avenida da Praia what is located on the edge of the lake. There’s an important tourist point used for leisure activities and sports.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-023.pdf
-  paginas_total: 4
-  referencias:
-  - GUERRA, Maria Eliza A. Vilas operadoras de Furnas nas bacias dos rios Grande e Paranaíba – da concepção à atualidade. Doutorado (Geografia) IG – UFU, Uberlândia, 2008
-  - MAIA, Ana Maria. Cachoeira Dourada de Minas Gerais, Projeto de Pesquisa, Uberlândia, s/d
-- id: sdmg01-024
-  titulo: A lógica da superfície. Análise da Residência Migliorini
-  autores:
-  - givenname: Luis Eduardo
+  references:
+  - 'GUERRA, Maria Eliza A. Vilas operadoras de Furnas nas bacias dos rios Grande e Paranaíba – da concepção à atualidade. Doutorado (Geografia) IG – UFU, Uberlândia, 2008'
+  - 'MAIA, Ana Maria. Cachoeira Dourada de Minas Gerais, Projeto de Pesquisa, Uberlândia, s/d'
+  locale: 'pt-BR'
+  file: 'sdmg01-023.pdf'
+  pages_count: 4
+  pages: null
+
+- id: 'sdmg01-024'
+  title: A lógica da superfície. Análise da residência Migliorini
+  authors:
+  - givenname: Luis Eduardo dos Santos
     familyname: Borda
+    email: null
+    affiliation: null
+    orcid: '0000-0001-7831-8164'
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Larissa Ribeiro
     familyname: Cunha
-  secao: Pôsteres — sdmg01
-  palavras_chave:
-  - arquitetura, modernismo, Brasil
-  - architecture, modernism, Brazil
-  resumo_en: This text summarizes a talk about a formal analysis of the Migliorini´s residence, pointing out the relationship between the plastic of the residence and the modernist language. The analysis is centered on the question of the plane (surface), as defined Neoplastic aesthetics. The research concludes that the architect Fernando Graça, author of the project, has a deep understanding of modern language and articulates with talent surfaces, defining a sort of plastic where the plans have a strong presence and configure a language undoubtedly modern.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-024.pdf
-  paginas_total: 7
-- id: sdmg01-025
-  titulo: O desenvolvimento da Indústria Siderúrgica no Brasil no início do século XX
-  subtitulo: contribuições de Minas Gerais
-  autores:
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: null
+  keywords:
+  - 'arquitetura, modernismo, Brasil'
+  - 'architecture, modernism, Brazil'
+  abstract_en: 'This text summarizes a talk about a formal analysis of the Migliorini´s residence, pointing out the relationship between the plastic of the residence and the modernist language. The analysis is centered on the question of the plane (surface), as defined Neoplastic aesthetics. The research concludes that the architect Fernando Graça, author of the project, has a deep understanding of modern language and articulates with talent surfaces, defining a sort of plastic where the plans have a strong presence and configure a language undoubtedly modern.'
+  locale: 'pt-BR'
+  file: 'sdmg01-024.pdf'
+  pages_count: 7
+  pages: null
+
+- id: 'sdmg01-025'
+  title: O desenvolvimento da indústria siderúrgica no Brasil no início do século XX
+  subtitle: contribuições de Minas Gerais
+  authors:
   - givenname: Maristela
     familyname: Siolari
-  secao: Pôsteres — sdmg01
-  palavras_chave:
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: 'Nas primeiras décadas do século XX a arquitetura moderna e seus ideais começam a ser difundidos no Brasil e fortalecendo-se, especialmente, a partir da década de 1930. Antecipando esse momento e sendo fundamental para sua consolidação, houve o desenvolvimento tecnológico da construção civil no país. A historiografia recente vem abordando este desenvolvimento quase como sinônimo de desenvolvimento da tecnologia do concreto armado, em que se destacaram instituições de pesquisa de São Paulo e Rio de Janeiro. Entretanto, o aço é também componente fundamental dos sistemas construtivos que utilizam desse compósito, além de ser um material essencial no processo de industrialização. Este trabalho se dedica a resgatar a história da indústria siderúrgica no Brasil, em três contextos distintos. Em um primeiro momento, no governo de Arthur Bernardes, quando os materiais produzidos no país disputavam com a grande concorrência dos produtos importados. Logo depois, já na década de 1930, com os incentivos do governo de Vargas à industrialização, em que as empresas encontraram ambiente mais favorável ao desenvolvimento. E, então a partir da II Guerra, quando os construtores é que temem a concorrência com o mercado internacional, que demandava cada vez mais os produtos nacionais, especialmente o ferro. Nesse processo, se destacam trabalhos desenvolvidos na Escola de Minas de Ouro Preto (atual Universidade Federal de Ouro Preto), fundada em 1876, e por seus egressos, sobre as jazidas ferríferas do Brasil e o potencial das reservas minerais do estado de Minas Gerais. Outra contribuição importante foi a consolidação da Companhia Siderúrgica Belgo-Mineira, iniciada em 1917, em Sabará (MG). A metodologia utilizada se concentra na revisão bibliográfica e pesquisa a documentos históricos do acervo Histórico da UFOP e da Fundação Belgo-Mineira.'
+  keywords:
   - desenvolvimento tecnológico
   - indústria siderúrgica
   - construção civil
-  palavras_chave_en:
+  abstract_en: 'In the first decades of the twentieth century, M odern Architecture and its ideals started to spread and become strong in Brazil, especially from the 1930s. Anticipating this moment, there was a technological development of the civil construction, which was fundamental for its consolidation. Recent historiography has considered development almost as a synonym of the development of the reinforced concrete technology, with special attention to institutions of São Paulo and Rio de Janeiro. However, steel is also an essential component of the constructive systems which use this composite and an important material in the industrialization process. This work focuses on the Brazilian steel history, in three different moments. First, during the government of Arthur Bernardes, when the materials produced in the country suffered a major concurrency with imported products . Soon afterwards, in the 1930s, with the Vargas government incentives for industrialization, when companies found more favorable environment for development. And next, from the World War II, when builders feared concurrency with the international market, which increasingly demanded national products, especially iron. In this process, it is important to highlight the works developed in the Escola de Minas de Ouro Preto (School of Mines of Ouro Preto, nowadays, Universidade Federal de Ouro Preto - UFOP), founded in 1876, and by its graduates on iron ore deposits of Brazil and the potential of the mineral reserves of the state of Minas Gerais. The consolidation of the Companhia Siderúrgica BelgoMineira (Belgo-Mineira Steel Company), founded in 1917, in Sabará (MG), was another important contribution. The methodology concentrates on literature review and research on the historical documents of the History collection of the UFOP and Fundação Belgo-Mineira (Belgo-Mineira Foundation).'
+  keywords_en:
   - technological development
   - steel industry
   - civil construction
-  resumo: Nas primeiras décadas do século XX a arquitetura moderna e seus ideais começam a ser difundidos no Brasil e fortalecendo-se, especialmente, a partir da década de 1930. Antecipando esse momento e sendo fundamental para sua consolidação, houve o desenvolvimento tecnológico da construção civil no país. A historiografia recente vem abordando este desenvolvimento quase como sinônimo de desenvolvimento da tecnologia do concreto armado, em que se destacaram instituições de pesquisa de São Paulo e Rio de Janeiro. Entretanto, o aço é também componente fundamental dos sistemas construtivos que utilizam desse compósito, além de ser um material essencial no processo de industrialização. Este trabalho se dedica a resgatar a história da indústria siderúrgica no Brasil, em três contextos distintos. Em um primeiro momento, no governo de Arthur Bernardes, quando os materiais produzidos no país disputavam com a grande concorrência dos produtos importados. Logo depois, já na década de 1930, com os incentivos do governo de Vargas à industrialização, em que as empresas encontraram ambiente mais favorável ao desenvolvimento. E, então a partir da II Guerra, quando os construtores é que temem a concorrência com o mercado internacional, que demandava cada vez mais os produtos nacionais, especialmente o ferro. Nesse processo, se destacam trabalhos desenvolvidos na Escola de Minas de Ouro Preto (atual Universidade Federal de Ouro Preto), fundada em 1876, e por seus egressos, sobre as jazidas ferríferas do Brasil e o potencial das reservas minerais do estado de Minas Gerais. Outra contribuição importante foi a consolidação da Companhia Siderúrgica Belgo-Mineira, iniciada em 1917, em Sabará (MG). A metodologia utilizada se concentra na revisão bibliográfica e pesquisa a documentos históricos do acervo Histórico da UFOP e da Fundação Belgo-Mineira.
-  resumo_en: In the first decades of the twentieth century, M odern Architecture and its ideals started to spread and become strong in Brazil, especially from the 1930s. Anticipating this moment, there was a technological development of the civil construction, which was fundamental for its consolidation. Recent historiography has considered development almost as a synonym of the development of the reinforced concrete technology, with special attention to institutions of São Paulo and Rio de Janeiro. However, steel is also an essential component of the constructive systems which use this composite and an important material in the industrialization process. This work focuses on the Brazilian steel history, in three different moments. First, during the government of Arthur Bernardes, when the materials produced in the country suffered a major concurrency with imported products . Soon afterwards, in the 1930s, with the Vargas government incentives for industrialization, when companies found more favorable environment for development. And next, from the World War II, when builders feared concurrency with the international market, which increasingly demanded national products, especially iron. In this process, it is important to highlight the works developed in the Escola de Minas de Ouro Preto (School of Mines of Ouro Preto, nowadays, Universidade Federal de Ouro Preto - UFOP), founded in 1876, and by its graduates on iron ore deposits of Brazil and the potential of the mineral reserves of the state of Minas Gerais. The consolidation of the Companhia Siderúrgica BelgoMineira (Belgo-Mineira Steel Company), founded in 1917, in Sabará (MG), was another important contribution. The methodology concentrates on literature review and research on the historical documents of the History collection of the UFOP and Fundação Belgo-Mineira (Belgo-Mineira Foundation).
-  locale: pt-BR
-  arquivo_pdf: sdmg01-025.pdf
-  paginas_total: 6
-  referencias:
+  references:
   - 'FICHER, S. Os Arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo: FAPESP e EDUSP. 2005.'
   - FUNDAÇÃO BELGO História da Belgo. Sabará/ MG. Mimeo. 2007.
   - 'GITAHY, M. L. C. Adaptando e inovando: o Laboratório de Ensaios de Materiais da Escola Politécnica e a tecnologia do concreto no Brasil. In: História, Ciências, Saúde. Vol. VII (3), novembro 2000 - fevereiro 2007. Rio de Janeiro: Fundação Oswaldo Cruz. p. 675-689. 2001.'
@@ -810,27 +1116,40 @@ articles:
   - UNESP/ CEETEPS. 1994.
   - 'REGO, C. A crise dos materiais de construções. IN: REVISTA DE ARQUITETURA, N. 51, julho/ agosto de 1941.'
   - 'REVISTA DE ARQUITETURA. Rio de Janeiro: O Construtor. 1934 – 1940.'
-  - Vide Ficher (2005), que traz as biografias de vários professores, formados e, ou, capacitados no exterior que atuaram na Politécnica.
-- id: sdmg01-026
-  titulo: A Modernidade nas cidades-industriais mineiras de médio porte demográfico
-  autores:
+  - 'Vide Ficher (2005), que traz as biografias de vários professores, formados e, ou, capacitados no exterior que atuaram na Politécnica.'
+  locale: 'pt-BR'
+  file: 'sdmg01-025.pdf'
+  pages_count: 6
+  pages: null
+
+- id: 'sdmg01-026'
+  title: 'A Modernidade nas cidades-industriais mineiras de médio porte demográfico'
+  authors:
   - givenname: Regina Esteves
     familyname: Lustoza
-  secao: Pôsteres — sdmg01
-  palavras_chave_en:
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres — sdmg01
+  abstract: null
+  abstract_en: 'As an introductory form, the present article looks for to analyze the sprouting and the process of urbanization of some located industrial cities in Minas Gerais State of average demographic in the region known as Zona da Mata Mineira, from the tracing, of the physical conformation of the territory and the social and material morphologic analysis. The basic reason of this study is to notice that Visconde do Rio Branco and Ubá are examples of emergent urban centers that result of a process of local development. In the last few decades these cities come trying a growth economic, passing for expressive ambient and social changes, which influence in (reverse speed) the organization of the urban space. Studies of urban morphology for average cities present different perspectives to be analyzed and in such a way Geography, Urbanism and the Urban Planning, has a privileged field for the development of these studies. This research looks for to approach the most varied aspects of the vestiges of a found modernism urbanism in the Zona da Mata Mineira and little worked, bringing a diversity of examples and situations. It is looked with the research to make questions about the lack of preservation of the constructions and the form of use and occupation, many times forgotten in the cities of average transport. A debate beginning searchs on the preservation of the modern architecture and urbanism from the production of the urban space found in the cities in the period contemporary.'
+  keywords_en:
   - industrial cities
   - urbanism
   - average cities
-  resumo_en: As an introductory form, the present article looks for to analyze the sprouting and the process of urbanization of some located industrial cities in Minas Gerais State of average demographic in the region known as Zona da Mata Mineira, from the tracing, of the physical conformation of the territory and the social and material morphologic analysis. The basic reason of this study is to notice that Visconde do Rio Branco and Ubá are examples of emergent urban centers that result of a process of local development. In the last few decades these cities come trying a growth economic, passing for expressive ambient and social changes, which influence in (reverse speed) the organization of the urban space. Studies of urban morphology for average cities present different perspectives to be analyzed and in such a way Geography, Urbanism and the Urban Planning, has a privileged field for the development of these studies. This research looks for to approach the most varied aspects of the vestiges of a found modernism urbanism in the Zona da Mata Mineira and little worked, bringing a diversity of examples and situations. It is looked with the research to make questions about the lack of preservation of the constructions and the form of use and occupation, many times forgotten in the cities of average transport. A debate beginning searchs on the preservation of the modern architecture and urbanism from the production of the urban space found in the cities in the period contemporary.
-  locale: pt-BR
-  arquivo_pdf: sdmg01-026.pdf
-  paginas_total: 7
-  referencias:
+  references:
   - 'CHOAY, Françoise. O Urbanismo – utopias e realidades, uma antropologia. São Paulo: Editora Perspectiva, 1992.'
-  - CHRYSOSTOMO, Maria Isabel de Jesus e GOUVEIA, Patrícia. DESEJO DE MODERNIDADE E
+  - 'CHRYSOSTOMO, Maria Isabel de Jesus e GOUVEIA, Patrícia. DESEJO DE MODERNIDADE E'
   - 'VONTADE DE PODER: o sonho desenvolvimentista e o projeto de criação da cidadeindústria de Ipatinga, V Congresso CEISAL de latinoamericanistas – “Las relaciones triangulares entre Europa y las Américas en el siglo XXI: expectativas y desafíos”, Bruxelas, 11-14 de abril de 2007, Simpósio organizado por Laurent VIDAL: “Utopías urbanas en América Latina. Siglos XIX y'
   - 'KOHLSDORF, Maria Elaine. Ensaio sobre o Pensamento Urbanístico. Brasília: Faculdade de Arquitetura e Urbanismo, Universidade de Brasília/Programa de Pós-graduação, 1996.'
   - 'LAMAS, José M. Ressano Garcia. Morfologia Urbana e Desenho da Cidade Lisboa – Portugal: Fundação Caloustre Gulbenkian, 1992. Lustoza, R. E. (2006) Produção do Espaço Urbano e Questão Ambiental: a urbanização entre mar e montanha na Cidade do Rio de Janeiro. (Niterói: Departamento de Geografia, Programa de Pósgraduação em Geografia: Tese de Doutorado).'
-  - REZENDE, V. L. F. M. ; SOUZA, C. F. ; LIMA, F. J. M. ; GOMES, M. A. A. F. ; LEME, M. C. S.;
+  - 'REZENDE, V. L. F. M. ; SOUZA, C. F. ; LIMA, F. J. M. ; GOMES, M. A. A. F. ; LEME, M. C. S.;'
   - 'AZEVEDO, M. ; FERNANDES, A. . Urbanismo no Brasil, 1895-1965 (1ª edição). In: Maria Cristina Leme. (Org.). Urbanismo no Brasil, 1895-1965. 1a. ed. São Paulo, 1999, v. 1, p. 1-600'
   - 'SANTOS, Carlos Nelson F. dos. A cidade como um jogo de cartas. Niterói: Universidade Federal Fluminense: EDUFF; São Paulo: Projeto Editores, 1988.'
+  locale: 'pt-BR'
+  file: 'sdmg01-026.pdf'
+  pages_count: 7
+  pages: null

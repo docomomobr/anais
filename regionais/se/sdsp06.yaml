@@ -1,41 +1,51 @@
 issue:
   slug: sdsp06
-  title: 6º Seminário Docomomo São Paulo, São Carlos, 2018
+  title: '6º Seminário Docomomo São Paulo, São Carlos, 2018'
   subtitle: a Arquitetura Moderna paulista e a questão social
   year: 2018
   volume: 2
   number: 6
-  isbn: 978-85-66624-25-0
-  publisher: Núcleo Docomomo São Paulo / IAU-USP
+  isbn: '978-85-66624-25-0'
+  publisher: 'Núcleo Docomomo São Paulo / IAU-USP'
   editors:
   - Miguel Antonio Buzzar
   - Fernando Guillermo Vázquez Ramos
   - Paulo Yasuhide Fujioka
-  volume_pdf: sdsp06_anais.pdf
   description: '6° Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. Disponível também em: www.nucleodocomomosp.com.br/6-seminario. ISBN: 978-85-66624-25-0.'
-  source: https://www.nucleodocomomosp.com.br/6-seminario
+  source: 'https://www.nucleodocomomosp.com.br/6-seminario'
   date_published: '2018-09-24'
+  volume_pdf: sdsp06_anais.pdf
+  sections:
+  - title: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  - title: 'Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial'
+  - title: 'Mesa 3 — Modos de morar: habitações coletivas'
+  - title: 'Mesa 4 — Modos de morar: habitações unifamiliares'
+  - title: 'Mesa 5 — Modos de morar: entre modos de habitar e modos de construir'
+  - title: 'Mesa 6 — Modos de usar a cidade: espaços educacionais universitários'
+  - title: 'Mesa 7 — Modos de usar a cidade: espaços da coletividade'
+  - title: 'Mesa 8 — Modos de usar a cidade: espaços culturais'
+  - title: 'Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos'
 articles:
-- id: sdsp06-001
+
+- id: 'sdsp06-001'
   title: Arquitetura Moderna e seu olhar sobre os ambientes de ensino
   authors:
   - givenname: Jasmine Luiza Souza
     familyname: Silva
+    email: 'silva@exemplo.com'
     affiliation: ''
-    email: silva@exemplo.com
+    orcid: '0000-0001-6156-4086'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 1 - Modos de usar a cidade: espaços educacionais'
-  locale: pt-BR
-  file: sdsp06-001.pdf
-  pages_count: 15
-  pages: 20-34
-  abstract: O movimento moderno arquitetônico se instala no Brasil principalmente na década de 1930 e toma as grandes cidades com diversas obras reconhecidas mundialmente. Nesse mesmo período muitos intelectuais procuram novas propostas educacionais visando melhorar a educação pública brasileira, chegam ao país novas formas pedagógicas de ensinar e consequentemente, novas formas de se fazer arquitetura escolar. Muitos arquitetos do movimento moderno demonstram preocupação social em suas obras, esse período é marcado pela construção de habitações sociais, museus, teatros, espaços públicos e também ambiente de ensino, projetos escolares brasileiros são reconhecidos por sua arquitetura inovadora. Este estudo propõem uma leitura sobre como a arquitetura moderna pode influenciar nas formas de ensino, levantar questões referentes ao diálogo entre arquitetura e pedagogia moderna, dando ênfase os projetos do arquiteto Villanova Artigas, suas obras mostram grande integração da arquitetura moderna com a educação. A pesquisa abordou uma investigação da história, feita através de leitura e análise das bibliografias existentes que tratam do tema de arquitetura escolar e dissertações que se referem ao ambiente de ensino no movimento moderno.
+  section: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  abstract: 'O movimento moderno arquitetônico se instala no Brasil principalmente na década de 1930 e toma as grandes cidades com diversas obras reconhecidas mundialmente. Nesse mesmo período muitos intelectuais procuram novas propostas educacionais visando melhorar a educação pública brasileira, chegam ao país novas formas pedagógicas de ensinar e consequentemente, novas formas de se fazer arquitetura escolar. Muitos arquitetos do movimento moderno demonstram preocupação social em suas obras, esse período é marcado pela construção de habitações sociais, museus, teatros, espaços públicos e também ambiente de ensino, projetos escolares brasileiros são reconhecidos por sua arquitetura inovadora. Este estudo propõem uma leitura sobre como a arquitetura moderna pode influenciar nas formas de ensino, levantar questões referentes ao diálogo entre arquitetura e pedagogia moderna, dando ênfase os projetos do arquiteto Villanova Artigas, suas obras mostram grande integração da arquitetura moderna com a educação. A pesquisa abordou uma investigação da história, feita através de leitura e análise das bibliografias existentes que tratam do tema de arquitetura escolar e dissertações que se referem ao ambiente de ensino no movimento moderno.'
   keywords:
   - Arquitetura Movimento Moderno
   - Escolar
   - Métodos Pedagógicos
   references:
-  - AMARAL, Aracy. Artes plásticas na semana de 22. São Paulo, Perspectiva, 1979. P. 152.
+  - 'AMARAL, Aracy. Artes plásticas na semana de 22. São Paulo, Perspectiva, 1979. P. 152.'
   - 'ARTIGAS, João Batista Vilanova. Caminhos da arquitetura. Sobre escolas. São Paulo: Cosac & Naify Edições, 2004. Pag.122.'
   - 'BUFFA, Ester. PINTO, Gelson de Almeida. Arquitetura e educação: organi- zação do espaço e propostas pedagógicas dos grupos escolares paulistas, 1893 / 1971. São Paulo: Editora Edufscar 1. Ed, 2001.'
   - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspecti- va,3a edição, 1999.'
@@ -48,76 +58,88 @@ articles:
   - 'REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo: Perspectiva, 1987. P. 211.'
   - 'VIÑAO FRAGO, A.; ESCOLANO, A. Currículo, espaço e subjetividade: a ar- quitetura como programa. Tradução de Alfredo Veiga Neto. Rio de Janeiro: DP&A, 1998.'
   - 34 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-002
-  title: As escolas do Convênio Escolar e as transformações urbanas em São Paulo, 1949-1954
+  locale: 'pt-BR'
+  file: 'sdsp06-001.pdf'
+  pages_count: 15
+  pages: '20-34'
+
+- id: 'sdsp06-002'
+  title: 'As escolas do Convênio Escolar e as transformações urbanas em São Paulo, 1949-1954'
   authors:
   - givenname: Juliane Bellot Rolemberg
     familyname: Lessa
+    email: 'lessa@exemplo.com'
     affiliation: ''
-    email: lessa@exemplo.com
+    orcid: '0009-0006-8676-3659'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 1 - Modos de usar a cidade: espaços educacionais'
-  locale: pt-BR
-  file: sdsp06-002.pdf
-  pages_count: 13
-  pages: 35-47
-  abstract: A edificação de uma série de novas unidades escolares pelo Convênio Escolar em São Paulo no final dos anos 1940 e início da década de 1950 tem destaque na historiografia como uma das ações que fundamentaram o processo de modernização da cidade, em curso naquela primeira metade do século XX. Esse conjunto de obras deixou como herança um novo entendimento das potencialidades da escola enquanto equipamento público, e é reconhecido como um modelo de aplicação do programa escolar como força motriz de transformações socioeconômicas que se traduzem em mudanças urbanas, paradigma corrente no campo da arquitetura até hoje. Esse trabalho está fundamentado em uma pesquisa ainda em andamento que tem como objetivo investigar as transformações do espaço urbano e da vida na cidade determinadas pela edificação e implantação do conjunto de equipamentos do Convênio Escolar, entendendoos como uma das experiências da modernidade que contribuíram para a constituição de São Paulo no momento crucial do processo de metropolização. A escala privilegiada da rede de edificações e a especificidade do programa nos permitem compreender os nexos entre as mudanças nas redes de sociabilidades, nos processos de construção de identidade e de figurações, que se traduziram em transformações na materialidade da cidade.
+  section: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  abstract: 'A edificação de uma série de novas unidades escolares pelo Convênio Escolar em São Paulo no final dos anos 1940 e início da década de 1950 tem destaque na historiografia como uma das ações que fundamentaram o processo de modernização da cidade, em curso naquela primeira metade do século XX. Esse conjunto de obras deixou como herança um novo entendimento das potencialidades da escola enquanto equipamento público, e é reconhecido como um modelo de aplicação do programa escolar como força motriz de transformações socioeconômicas que se traduzem em mudanças urbanas, paradigma corrente no campo da arquitetura até hoje. Esse trabalho está fundamentado em uma pesquisa ainda em andamento que tem como objetivo investigar as transformações do espaço urbano e da vida na cidade determinadas pela edificação e implantação do conjunto de equipamentos do Convênio Escolar, entendendoos como uma das experiências da modernidade que contribuíram para a constituição de São Paulo no momento crucial do processo de metropolização. A escala privilegiada da rede de edificações e a especificidade do programa nos permitem compreender os nexos entre as mudanças nas redes de sociabilidades, nos processos de construção de identidade e de figurações, que se traduziram em transformações na materialidade da cidade.'
   keywords:
   - Arquitetura escolar
   - Equipamento público
   - Espaço urbano
   references:
   - 'ABREU, Ivanir Reis Neves. Convênio Escolar: utopia construída. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2007.'
-  - AL ASSAL, Marianna Ramos Boghosian. Arquitetura, Identidade Nacional e Projetos Políticos na Ditadura Varguista. As escolas práticas de agricultura
-  - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 45 do estado de São Paulo. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2009.
+  - 'AL ASSAL, Marianna Ramos Boghosian. Arquitetura, Identidade Nacional e Projetos Políticos na Ditadura Varguista. As escolas práticas de agricultura'
+  - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 45 do estado de São Paulo. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2009.'
   - 'ALBA, Lílian Bueno. 1935-1965: trinta anos de edifícios modernos em São Paulo. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2004.'
   - 'ANELLI, Renato. Centros Educacionais Unificados: arquitetura e educação em São Paulo. Arquitextos, nº55.02. São Paulo, Portal Vitruvius, dez. 2004. Disponível em:< http://www.vitruvius.com.br/revistas/browse/arquitextos>. Acesso em: 10/07/2014.'
   - 'AZEVEDO, Fernando de. Novos caminhos e novos fins: a nova política da educação no Brasil. São Paulo: Editora Melhoramentos, 1958.'
-  - BARDI, Lina Bo. Primeiro escolas. Acrópole, São Paulo, n. 4, p.01, 1951.
+  - 'BARDI, Lina Bo. Primeiro escolas. Acrópole, São Paulo, n. 4, p.01, 1951.'
   - 'CAMPOS, Candido Malta. Os rumos da cidade: urbanismo e modernização em São Paulo. São Paulo, Editora Senac, 2002.'
   - 'CAMPOS, Candido Malta; GAMA, Lucia Helena; SACHETTA, Vladimir. São Paulo: metrópole em trânsito: percursos ubanos e culturais. São Paulo: Edi- tora SENAC, PMSP, 2004.'
   - 'DUARTE, Hélio de Queiroz. Escolas Classe, Escola Parque. São Paulo: FAU/'
-  - ______. O problema escolar e a arquitetura. Habitat, São Paulo, n. 4, p.04-05, 1951.
-  - ______. As arquiteturas do Convênio Escolar. Habitat, São Paulo, n. 4, p.06, 1951.
+  - '______. O problema escolar e a arquitetura. Habitat, São Paulo, n. 4, p.04-05, 1951.'
+  - '______. As arquiteturas do Convênio Escolar. Habitat, São Paulo, n. 4, p.06, 1951.'
   - 'FAUSTO, Boris. História do Brasil. São Paulo: Edusp. 2001.'
   - 'FELDMAN, Sarah. A configuração espacial da metrópole. in CAMPOS, Can- dido Malta. São Paulo, metrópole em trânsito. São Paulo: Editora Senac, 2004'
   - 'FERRAZ, Artemis Rodrigues Fontana. Arquitetura moderna das escolas “S” paulistas, 1952-1968: projetar para a formação do trabalhador. Tese (douto- rado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2008.'
   - 'FERREIRA, Avany de Francisco; MELLO, Mirela Geiger de (Orgs), Arquitetu- ra escolar paulista anos 1950 e 1960. São Paulo: Fundação para o Desenvol- vimento da Educação, 2006.'
   - 'FICHER, Sylvia. Os arquitetos da Poli: ensino e profissão em São Paulo. São Paulo: Edusp, 2005.'
   - 'LESSA, Juliane Bellot Rolemberg. O ensino na prancheta: da arquitetura'
-  - 46 6º SEMINÁRIO SP DOCOMOMO escolar à docência de arquitetura e urbanismo, o legado de Hélio Duarte. Dissertação (mestrado). Faculdade de Arquitetura e Urbanismo da Universi- dade de São Paulo, São Paulo/SP, 2017.
+  - '46 6º SEMINÁRIO SP DOCOMOMO escolar à docência de arquitetura e urbanismo, o legado de Hélio Duarte. Dissertação (mestrado). Faculdade de Arquitetura e Urbanismo da Universi- dade de São Paulo, São Paulo/SP, 2017.'
   - 'MELLO, João Manuel Cardoso de; NOVAIS, Fernando. Capitalismo tardio e sociabilidade moderna. In: SCHAWARCZ, Lilia (org) História da vida privada no Brasil, v.4. São Paulo, Cia das Letras, 1998.'
   - 'MEYER, Regina Maria. Metrópole e Urbanismo: São Paulo nos anos 50. Tese (doutorado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 1991.'
   - 'MOTTA, Renata Vieira da. O Masp em exposição: mostras periódicas na Sete de Abril. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2003.'
-  - PICHELI, Valdir. O IDORT enquanto proposta educacional no contexto de for- mação da hegemonia burguesa no Brasil (1930-1944). Dissertação (mestra- do) Faculdade de Educação da Universidade Estadual de Campinas, Cam- pinas, 1997.
+  - 'PICHELI, Valdir. O IDORT enquanto proposta educacional no contexto de for- mação da hegemonia burguesa no Brasil (1930-1944). Dissertação (mestra- do) Faculdade de Educação da Universidade Estadual de Campinas, Cam- pinas, 1997.'
   - 'ROCHA, Angela Maria; RUAS, Dalton Bertini. A constituição de um projeto tese escolar: as duas hipóteses não-construídas da escola-parque de Hélio Duarte. Arq.Urb. São Paulo, n. 15, p. 51-68, 1º semestre 2016.'
   - 'SILVA, Joana Mello de Carvalho e. O arquiteto e a produção da cidade. São Paulo: Annablume: FAPESP, 2012.'
-  - TAKIYA, André. Edif 60 anos de arquitetura pública. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2009.
+  - 'TAKIYA, André. Edif 60 anos de arquitetura pública. Dissertação (mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2009.'
   - 'TEIXEIRA, Anísio. Educação Progressiva: uma introdução à filosofia da edu- cação. 2ª ed. São Paulo: Cia. Editora Nacional, 1954.'
-  - TEIXEIRA, Anísio. Um presságio do progresso. Acrópole, São Paulo, n. 4, p.02, 1951.
-  - SEGAWA, Hugo. Arquiteturas no Brasil/ Anos 80. São Paulo, Projeto, 1988.
-  - '______. Helio Duarte: Moderno, peregRino, educador. Arquitetura & Urbanis- mo, São Paulo, n.80, out./nov., 1998.'
+  - 'TEIXEIRA, Anísio. Um presságio do progresso. Acrópole, São Paulo, n. 4, p.02, 1951.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil/ Anos 80. São Paulo, Projeto, 1988.'
+  - '______. Helio Duarte: Moderno, peregrino, educador. Arquitetura & Urbanis- mo, São Paulo, n.80, out./nov., 1998.'
   - 'VIDOTTO, Taiana Car. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no estado de São Paulo: 1948- 1962. Dissertação (mestrado), Faculdade de Engenharia Civil, Arquitetura e Urbanismo/Unicamp, 2014.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 47
-- id: sdsp06-003
-  title: 'Concepção de um acampamento escolar: a práxis popular materializada'
+  locale: 'pt-BR'
+  file: 'sdsp06-002.pdf'
+  pages_count: 13
+  pages: '35-47'
+
+- id: 'sdsp06-003'
+  title: Concepção de um acampamento escolar
+  subtitle: a práxis popular materializada
   authors:
   - givenname: Maria Helena Paiva da
     familyname: Costa
+    email: 'costa@exemplo.com'
     affiliation: ''
-    email: costa@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Ana Paula
     familyname: Koury
+    email: 'apkoury@gmail.com'
     affiliation: ''
-    email: koury@exemplo.com
+    orcid: '0000-0001-9511-5561'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 1 - Modos de usar a cidade: espaços educacionais'
-  locale: pt-BR
-  file: sdsp06-003.pdf
-  pages_count: 15
-  pages: 48-62
-  abstract: Nos primeiros anos da década de 1960 o Brasil passa por uma série de experiências educacionais para resolver o problema do analfabetismo no país. A campanha de erradicação do analfabetismo De pé no chão também se aprende a ler surge nesse contexto, no ano de 1961, em Natal/RN. Neste trabalho buscamos contextualizar o conhecimento vernacular com a presença da cultura popular na campanha, em suas práticas educativas, e, principalmente, na arquitetura desenvolvida para as escolas, que foram chamadas de Acampamentos Escolares. A tipologia dos mocambos estudada pelo sociólogo Gilberto Freyre na década de 1930, nos permite traçar um paralelo com a da cultura popular materializada nos prédios escolares.
+  section: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  abstract: 'Nos primeiros anos da década de 1960 o Brasil passa por uma série de experiências educacionais para resolver o problema do analfabetismo no país. A campanha de erradicação do analfabetismo De pé no chão também se aprende a ler surge nesse contexto, no ano de 1961, em Natal/RN. Neste trabalho buscamos contextualizar o conhecimento vernacular com a presença da cultura popular na campanha, em suas práticas educativas, e, principalmente, na arquitetura desenvolvida para as escolas, que foram chamadas de Acampamentos Escolares. A tipologia dos mocambos estudada pelo sociólogo Gilberto Freyre na década de 1930, nos permite traçar um paralelo com a da cultura popular materializada nos prédios escolares.'
   keywords:
   - Arquitetura Erradicação do analfabetismo
   - popular
@@ -134,25 +156,33 @@ articles:
   - 'SECRETARIA DE EDUCAÇÃO, CULTURA E SAÚDE DE NATAL. Cultura popu- lar e pé no chão. Natal: I Encontro de Alfabetização e Cultura Popular, 1963. Disponível em <http://www.dhnet.org.br/educar/penochao/relatorio_1963_ campanha_pe_no_chao.pdf>. Acesso em 04 abr. 2017.'
   - 'SOUZA, Diego Beja Inglez de. Reconstruindo Cajueiro Seco: Arquitetura, po- lítica social e cultura popular em Pernambuco (1960-64). 2008. 276 f. Disser- tação (Mestrado em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo. São Paulo.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 61 62 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-004
-  title: 'A escola moderna enquanto potência do direito à cidade: estudo de caso da EE Conselheiro Crispiniano'
+  locale: 'pt-BR'
+  file: 'sdsp06-003.pdf'
+  pages_count: 15
+  pages: '48-62'
+
+- id: 'sdsp06-004'
+  title: A escola moderna enquanto potência do direito à cidade
+  subtitle: estudo de caso da ee conselheiro Crispiniano
   authors:
   - givenname: Miranda Zamberlan
     familyname: Nedel
+    email: 'nedel@exemplo.com'
     affiliation: ''
-    email: nedel@exemplo.com
+    orcid: '0000-0001-8132-3634'
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Miguel Antonio
+  - givenname: Miguel Antônio
     familyname: Buzzar
+    email: 'm.buzzar@sc.usp.br'
     affiliation: ''
-    email: buzzar@exemplo.com
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 1 - Modos de usar a cidade: espaços educacionais'
-  locale: pt-BR
-  file: sdsp06-004.pdf
-  pages_count: 15
-  pages: 63-77
-  abstract: Aborda-se o papel da arquitetura escolar na consolidação e difusão das premissas modernas em São Paulo, no quadro de afirmação das políticas públicas no ensino, que abrange o Convênio Escolar (1949), o Plano de Ação do Governo do Estado (PAGE, 1959-1963), o Fundo Estadual de Construções Escolares (FECE, 1960-1976), a Companhia de Construções Escolares do Estado de São Paulo (CONESP, 19761987) e a Fundação para o Desenvolvimento da Educação (FDE, 1987-2015). Dentre períodos da historiografia educacional pública paulista, destaca-se o PAGE enquanto momento referencial à construção escolar, cuja contribuição relaciona-se à consolidação de tal tipologia arquitetônica, sobretudo à construção da genealogia do que viria a ser denominado Escola Paulista. Para tanto, a Escola Estadual Conselheiro Crispiniano é abordada como laboratório de experimentação arquitetônica, enquanto espacialidade formativa de um caráter público, marcadamente urbano, porém interiorizado, que Vilanova Artigas aprofundará em outros projetos, assim como de um modelo de escola que visa se consolidar como equipamento público que manifesta sua potência ao direito à educação e, acima de tudo, ao Direito à Cidade. Discute-se, por meio de tal temática, a função social da arquitetura, em seus limites e potencialidades atuais, em paralelo ao aprofundamento do desmonte das políticas públicas educacionais.
+  section: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  abstract: 'Aborda-se o papel da arquitetura escolar na consolidação e difusão das premissas modernas em São Paulo, no quadro de afirmação das políticas públicas no ensino, que abrange o Convênio Escolar (1949), o Plano de Ação do Governo do Estado (PAGE, 1959-1963), o Fundo Estadual de Construções Escolares (FECE, 1960-1976), a Companhia de Construções Escolares do Estado de São Paulo (CONESP, 19761987) e a Fundação para o Desenvolvimento da Educação (FDE, 1987-2015). Dentre períodos da historiografia educacional pública paulista, destaca-se o PAGE enquanto momento referencial à construção escolar, cuja contribuição relaciona-se à consolidação de tal tipologia arquitetônica, sobretudo à construção da genealogia do que viria a ser denominado Escola Paulista. Para tanto, a Escola Estadual Conselheiro Crispiniano é abordada como laboratório de experimentação arquitetônica, enquanto espacialidade formativa de um caráter público, marcadamente urbano, porém interiorizado, que Vilanova Artigas aprofundará em outros projetos, assim como de um modelo de escola que visa se consolidar como equipamento público que manifesta sua potência ao direito à educação e, acima de tudo, ao Direito à Cidade. Discute-se, por meio de tal temática, a função social da arquitetura, em seus limites e potencialidades atuais, em paralelo ao aprofundamento do desmonte das políticas públicas educacionais.'
   keywords:
   - Arquitetura
   - Educação
@@ -161,11 +191,11 @@ articles:
   - 'ARTIGAS, Vilanova. A função social do arquiteto. São Paulo: Nobel, 1989.'
   - 'BERTELLI, Giordano Barbin; FELTRAN, Gabriel (Orgs). Vozes à Margem: pe- riferias, estética e política. São Carlos: EdUFSCar, 2017.'
   - 'BUZZAR, Miguel Antonio. João Batista Vilanova Artigas. Elementos para a compreensão de um caminho da arquitetura brasileira, 1938-1967. São Paulo: Editora Unesp; Editora Senac São Paulo, 2014.'
-  - BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros;
+  - 'BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros;'
   - 'SIMONI, Lucia Noemia. A arquitetura moderna produzida a partir do plano de ação do governo Carvalho Pinto-Page - (1959/1963). Revista arq.urb USJT, São Paulo, nº. 14, 2015.p. 157-170. ENTRE OS MUROS DA ESCOLA (Entre les murs). Direção: Laurent Cantet. França: 2008.'
   - 'FERREIRA, Avany de Francisco; MELLO, Mirela Geiger de (Org.). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo, FDE, 2006. 8 O qual é compreendido a partir das associações entre uma concepção escolar empresarial neoliberal e planos de aprofundamento e implementação de ex- periências de privatização das políticas públicas educacionais estaduais, em especial como demonstrou-se por meio das tentativas do Plano de Reorganização Escolar, de 2015, ( o qual foi adiado devido às Ocupações Secundaristas decorrentes) e o recente Projeto de Contrato de Impacto Social-CIS, de 2017 (também revogado até segunda ordem).'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 75
-  - FRANCO, Maria Sylvia Carvalho. Malogros educacionais. Jornal O Estado de São Paulo. São Paulo, 5 abr. 2015.
+  - 'FRANCO, Maria Sylvia Carvalho. Malogros educacionais. Jornal O Estado de São Paulo. São Paulo, 5 abr. 2015.'
   - 'KAMITA, João Masao. Vilanova Artigas. São Paulo: Cosac Naify, 2000.'
   - 'JAUSS, Hans Robert. A história da literatura como provocação à teoria literá- ria. São Paulo: Ática, 1994.'
   - 'LEFEBVRE, Henri. O direito à cidade. Tradução: Rubens Eduardo Frias. São Paulo: Centauro, 2011.'
@@ -174,67 +204,86 @@ articles:
   - 'MELLO, Mirela G. de. Arquitetura escolar pública paulista. Fundo Estadual de Construções Escolares - FECE: 1966-1976. Dissertação Mestrado FAUUSP, São Paulo, 2012.'
   - 'NOSELLA, Paolo. Ao leitor. In: BUFFA, Ester; PINTO, Gelson de Almeida. Ar- quitetura e educação: organização do espaço e propostas pedagógicas dos Grupos Escolares Paulistas, 1893-1971. São Carlos / Brasília: EdUFSCar /'
   - 'PISANI, Daniele. Paulo Mendes da Rocha: obra completa. São Paulo, Gustavo Gili, 2013.'
-  - TELLES, Sophia. Museu da Escultura. AU. Arquitetura e Urbanismo, São Pau- lo, n. 32, p. 44-51, out.-nov. 1990.
-  - ZEIN, Ruth Verde. A Obra do Arquiteto. Projeto, nº 66, p. 79-91, agosto 1984.
+  - 'TELLES, Sophia. Museu da Escultura. AU. Arquitetura e Urbanismo, São Pau- lo, n. 32, p. 44-51, out.-nov. 1990.'
+  - 'ZEIN, Ruth Verde. A Obra do Arquiteto. Projeto, nº 66, p. 79-91, agosto 1984.'
   - 76 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 77
-- id: sdsp06-005
-  title: 'Difusão da Arquitetura Moderna no interior paulista. Caso de estudo: escola Antonio Adolfo Lobbe em São Carlos (1961)'
+  locale: 'pt-BR'
+  file: 'sdsp06-004.pdf'
+  pages_count: 15
+  pages: '63-77'
+
+- id: 'sdsp06-005'
+  title: Difusão da Arquitetura Moderna no interior paulista. Caso de estudo
+  subtitle: escola Antonio Adolfo Lobbe em São Carlos (1961)
   authors:
   - givenname: Rachel
     familyname: Bergantin
+    email: 'bergantin@exemplo.com'
     affiliation: ''
-    email: bergantin@exemplo.com
+    orcid: '0000-0003-3109-652X'
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Miguel Antonio
+  - givenname: Miguel Antônio
     familyname: Buzzar
+    email: 'm.buzzar@sc.usp.br'
     affiliation: ''
-    email: buzzar@exemplo.com
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Paulo Yassuhide
     familyname: Fujioka
+    email: 'fujioka@exemplo.com'
     affiliation: ''
-    email: fujioka@exemplo.com
+    orcid: '0000-0003-2113-6778'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 1 - Modos de usar a cidade: espaços educacionais'
-  locale: pt-BR
-  file: sdsp06-005.pdf
-  pages_count: 17
-  pages: 78-94
-  abstract: O Plano de Ação do Governo do Estado (PAGE) foi uma ação desenvolvimentista aplicada durante a gestão do Governador Carvalho Pinto (1959-1963) em São Paulo, alinhava-se com os processos desenvolvimentistas em curso naquele período, que teve como marco na esfera federal o Plano de Metas do governo Juscelino Kubitschek. Ambicionava criar infraestrura e novos equipamentos públicos para o desenvolvimento da capital e do interior do estado. Os interesses principais do PAGE estavam voltados às necessidades sociais, políticas e econômicas do Estado. O conjunto de equipamentos públicos construído neste período provocou uma grande difusão da arquitetura moderna no interior de São Paulo, na medida em que o governo estadual, até aquele momento implantava equipamentos com extração arquitetônica basicamente eclética e neocolonial. O objetivo deste trabalho é discutir e analisar os preceitos da Arquitetura Moderna implantada pelo PAGE no Estado de São Paulo, tendo como objeto específico a Escola Antonio Adolfo Lobbe, projetada pelo arquiteto Kurt Hollander em 1961. Partindo dessa obra, investigará possíveis interlocuções entre este segmento da arquitetura moderna no interior de São Paulo e as concepções do arquiteto Richard Neutra, publicadas em livros, artigos e apresentadas aos arquitetos brasileiros em suas viagens à América Latina.
+  section: 'Mesa 1 — Modos de usar a cidade: espaços educacionais'
+  abstract: 'O Plano de Ação do Governo do Estado (PAGE) foi uma ação desenvolvimentista aplicada durante a gestão do Governador Carvalho Pinto (1959-1963) em São Paulo, alinhava-se com os processos desenvolvimentistas em curso naquele período, que teve como marco na esfera federal o Plano de Metas do governo Juscelino Kubitschek. Ambicionava criar infraestrura e novos equipamentos públicos para o desenvolvimento da capital e do interior do estado. Os interesses principais do PAGE estavam voltados às necessidades sociais, políticas e econômicas do Estado. O conjunto de equipamentos públicos construído neste período provocou uma grande difusão da arquitetura moderna no interior de São Paulo, na medida em que o governo estadual, até aquele momento implantava equipamentos com extração arquitetônica basicamente eclética e neocolonial. O objetivo deste trabalho é discutir e analisar os preceitos da Arquitetura Moderna implantada pelo PAGE no Estado de São Paulo, tendo como objeto específico a Escola Antonio Adolfo Lobbe, projetada pelo arquiteto Kurt Hollander em 1961. Partindo dessa obra, investigará possíveis interlocuções entre este segmento da arquitetura moderna no interior de São Paulo e as concepções do arquiteto Richard Neutra, publicadas em livros, artigos e apresentadas aos arquitetos brasileiros em suas viagens à América Latina.'
   keywords:
   - Educação
   - Plano de Ação
   - Richard Neutra
   references:
-  - ARTIGAS, João Batista Vilanova. Sobre escolas.... Acrópole. São Pau- lo,n.377,p.12, set.1970.
+  - 'ARTIGAS, João Batista Vilanova. Sobre escolas.... Acrópole. São Pau- lo,n.377,p.12, set.1970.'
   - 'BUFFA, Ester. Arquitetura e Educação: organização do espaço e propostas pedagógicas dos grupos escolares paulistas, 1893 – 1971. São Carlos: Bra- sília: EdUFSCar, INEP, 2002, 174p. Buzzar, Miguel Antônio(org.). Relatório Final FAPESP Difusão da Arquitetura Moderna no Brasil – O patrimônio arquitetônico criado pelo Plano de Ação do Governo Carvalho Pinto (1959-1963). São Carlos: IAU-USP, 2015, mimeo.'
   - 'CORRÊA, Avany de Francisco; CORRÊA, Maria Elizabeth P.; MELLO, Mirela Geiger de. Arquitetura Escolar Paulista:Restauro. São Paulo: FDE,1998.'
-  - NEUTRA, Richard. Arquitetura social em países de clima quente. Gerth Todt- mann. São Paulo, 1948.
-  - _________. Observations on Latin America. Progressive Architecture. Maio,1946. p.88-91.
-  - _________. Sun Control Devices. Progressive Architecture. Outubro,1946. p.67-72.
-  - PINTO, Carvalho. Plano de Ação do Governo 1959 - 1963. Administração Estadual e Desenvolvimento Econômico-Social. Imprensa Oficial do Estado. São Paulo:1959.
+  - 'NEUTRA, Richard. Arquitetura social em países de clima quente. Gerth Todt- mann. São Paulo, 1948.'
+  - '_________. Observations on Latin America. Progressive Architecture. Maio,1946. p.88-91.'
+  - '_________. Sun Control Devices. Progressive Architecture. Outubro,1946. p.67-72.'
+  - 'PINTO, Carvalho. Plano de Ação do Governo 1959 - 1963. Administração Estadual e Desenvolvimento Econômico-Social. Imprensa Oficial do Estado. São Paulo:1959.'
   - '_________. Mensagem apresentada pelo Governador Carlos Alberto A. de Carvalho Pinto à Assembleia Legislativa do Estado de São Paulo em 14 de março de 1961.São Paulo: Imprensa Oficial,Vol 2.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp.1999.'
   - 92 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 93 94 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-006
-  title: 'Arquitetura Moderna e Fotografia: velando e revelando a FAU-USP de Vilanova Artigas'
+  locale: 'pt-BR'
+  file: 'sdsp06-005.pdf'
+  pages_count: 17
+  pages: '78-94'
+
+- id: 'sdsp06-006'
+  title: Arquitetura Moderna e fotografia
+  subtitle: 'velando e revelando a FAU-USP de Vilanova Artigas'
   authors:
   - givenname: Arthur Simon
     familyname: Zanella
+    email: 'zanella@exemplo.com'
     affiliation: ''
-    email: zanella@exemplo.com
+    orcid: '0000-0001-7072-8193'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Eduardo Luisi Paixão Silva
     familyname: Campolon
+    email: 'campolon@exemplo.com'
     affiliation: ''
-    email: campolon@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 2 - Modos de analisar a cidade: registro e análise projetual e patrimonial'
-  locale: pt-BR
-  file: sdsp06-006.pdf
-  pages_count: 15
-  pages: 96-110
-  abstract: Diante de uma crescente presença da imagem e da fotografia como meio fundamental de transmissão de ideias e conhecimento na sociedade contemporânea, o presente artigo busca uma possibilidade de análise de projeto arquitetônico por meio da produção e análise fotográfica de uma obra. O movimento moderno, por sua tendência formal fotogênica (VIEIRA, 2012) será o escopo deste estudo, tomando como objeto o edifício da FAU-USP, que viabilizará - assim que analisado - correlações com outras obras do arquiteto Vilanova Artigas. A estratégia principal é produzir e analisar graficamente cada fotografia de um conjunto que seja coeso e demonstre em sua totalidade um trajeto apto a abranger a edificação em sua plenitude. Desta maneira podem-se evidenciar características marcantes de Artigas que ressoam pela própria FAU-USP e outras de suas criações, que são distinguíveis pela análise fotográfica e apontam para intenções de projeto e compreensões de mundo do arquiteto.
+  section: 'Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial'
+  abstract: 'Diante de uma crescente presença da imagem e da fotografia como meio fundamental de transmissão de ideias e conhecimento na sociedade contemporânea, o presente artigo busca uma possibilidade de análise de projeto arquitetônico por meio da produção e análise fotográfica de uma obra. O movimento moderno, por sua tendência formal fotogênica (VIEIRA, 2012) será o escopo deste estudo, tomando como objeto o edifício da FAU-USP, que viabilizará - assim que analisado - correlações com outras obras do arquiteto Vilanova Artigas. A estratégia principal é produzir e analisar graficamente cada fotografia de um conjunto que seja coeso e demonstre em sua totalidade um trajeto apto a abranger a edificação em sua plenitude. Desta maneira podem-se evidenciar características marcantes de Artigas que ressoam pela própria FAU-USP e outras de suas criações, que são distinguíveis pela análise fotográfica e apontam para intenções de projeto e compreensões de mundo do arquiteto.'
   keywords:
   - Modernismo
   - Brutalismo
@@ -250,25 +299,33 @@ articles:
   - 'ROSSI, Antonio Carlos. O edifício da FAU-USP de Vilanova Artigas. São Pau- lo: Editora da Cidade, 2016.'
   - 'VIEIRA, César Bastos de Mattos. A fotografia na percepção da arquitetura. Tese de Doutorado, Universidade federal do Rio Grande do Sul, Faculdade de arquitetura. Porto Alegre: 2012.'
   - 110 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-007
-  title: 'Eduardo Kneese de Mello: gestão e organização da coleção iconográfica'
+  locale: 'pt-BR'
+  file: 'sdsp06-006.pdf'
+  pages_count: 15
+  pages: '96-110'
+
+- id: 'sdsp06-007'
+  title: Eduardo Kneese de Mello
+  subtitle: gestão e organização da coleção iconográfica
   authors:
   - givenname: Elisa
     familyname: Horta
+    email: 'horta@exemplo.com'
     affiliation: ''
-    email: horta@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Ademir Pereira dos
     familyname: Santos
+    email: 'santos@exemplo.com'
     affiliation: ''
-    email: santos@exemplo.com
+    orcid: '0000-0003-4863-9375'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 2 - Modos de analisar a cidade: registro e análise projetual e patrimonial'
-  locale: pt-BR
-  file: sdsp06-007.pdf
-  pages_count: 23
-  pages: 111-133
-  abstract: Realizado no ano de 2015, o presente trabalho pauta-se no relato do processo de organização e catalogação primária da seção iconográfica do acervo Eduardo Kneese de Mello (1906 – 1994), atualmente integrado a biblioteca da Belas Artes de São Paulo. O fundo produzido em vida pelo arquiteto, recuperou força com sua proficuidade anunciada como fonte de pesquisa, no ano de 2016, estimulando o início de diferentes manejos. Após a elucidação acerca da trajetória institucional deste material, demonstra-se aqui uma produção orientada por inquietações dispares aos trabalhos anteriores, objetivadas pela correlação da porção mais significativa do acervo, os slides, com as demais espécies documentais que compõem o conjunto do acervo. Demonstra-se a metodologia empregada no tratamento, diagnóstico e a estruturação do catálogo, assim como a sua importância como base informacional; através do qual, constituiu-se um panorama visual e quantitativo com o auxílio e gerenciamento de tabelas descritivas, gráficos percentuais de diferentes análises e a elaboração de mapas com roteiros ilustrativos que proporcionaram a exatidão geográfica de seu conhecimento e dos testemunhos históricos. A especulação das camadas existentes possibilitou o início da confirmação de informações publicadas sobre o arquiteto e mais uma complementação de sua biografia, com o conhecimento total de suas viagens.
+  section: 'Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial'
+  abstract: 'Realizado no ano de 2015, o presente trabalho pauta-se no relato do processo de organização e catalogação primária da seção iconográfica do acervo Eduardo Kneese de Mello (1906 – 1994), atualmente integrado a biblioteca da Belas Artes de São Paulo. O fundo produzido em vida pelo arquiteto, recuperou força com sua proficuidade anunciada como fonte de pesquisa, no ano de 2016, estimulando o início de diferentes manejos. Após a elucidação acerca da trajetória institucional deste material, demonstra-se aqui uma produção orientada por inquietações dispares aos trabalhos anteriores, objetivadas pela correlação da porção mais significativa do acervo, os slides, com as demais espécies documentais que compõem o conjunto do acervo. Demonstra-se a metodologia empregada no tratamento, diagnóstico e a estruturação do catálogo, assim como a sua importância como base informacional; através do qual, constituiu-se um panorama visual e quantitativo com o auxílio e gerenciamento de tabelas descritivas, gráficos percentuais de diferentes análises e a elaboração de mapas com roteiros ilustrativos que proporcionaram a exatidão geográfica de seu conhecimento e dos testemunhos históricos. A especulação das camadas existentes possibilitou o início da confirmação de informações publicadas sobre o arquiteto e mais uma complementação de sua biografia, com o conhecimento total de suas viagens.'
   keywords:
   - Diapositivo
   - História da Arquitetura Brasileira
@@ -285,39 +342,47 @@ articles:
   - 'SANTOS, Ademir Pereira dos. Eduardo Kneese de Mello: o Fotografo, o Ar- quiteto e o Professor. 10f. 2010. Artigo para Programa de Iniciação Científi- ca em Arquitetura e Urbanismo do Centro Universitário Belas Artes de São Paulo.'
   - 'SANTOS, Janaina Francelino dos; AMARAL, Raphael Thomaz Sanches do. Eduardo Kneese de Mello: arquiteto e fotografo – Organização do acervo de diapositivos do MuBA. S/d. 6f. Artigo para Programa de Iniciação Científica em Arquitetura e Urbanismo do Centro Universitário Belas Artes de São Pau- lo. S. l., s. d.'
   - 'KOSSOY, Boris. Fotografia e História. São Paulo: Atica,1989.'
-  - 132 6º SEMINÁRIO SP DOCOMOMO ACERVOS Acervo Eduardo Kneese de Mello – Biblioteca de Obras Raras, Paulo Antonio Cardim Acervo pessoal de Aline Nassaralla Regino.
+  - '132 6º SEMINÁRIO SP DOCOMOMO ACERVOS Acervo Eduardo Kneese de Mello – Biblioteca de Obras Raras, Paulo Antonio Cardim Acervo pessoal de Aline Nassaralla Regino.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 133
-- id: sdsp06-008
-  title: 'Um panorama da Arquitetura Moderna natalense: o caso dos edifícios verticais (anos 1960 e 1970)'
+  locale: 'pt-BR'
+  file: 'sdsp06-007.pdf'
+  pages_count: 23
+  pages: '111-133'
+
+- id: 'sdsp06-008'
+  title: Um panorama da Arquitetura Moderna Natalense
+  subtitle: o caso dos edifícios verticais (anos 1960 e 1970)
   authors:
   - givenname: Maria Heloísa Alves de
     familyname: Oliveira
+    email: 'mhalves.arq@gmail.com'
     affiliation: ''
-    email: oliveira@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Edja
+  - givenname: Edja Bezerra Faria
     familyname: Trigueiro
+    email: 'trigueiro@exemplo.com'
     affiliation: ''
-    email: trigueiro@exemplo.com
+    orcid: '0000-0003-2847-5326'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 2 - Modos de analisar a cidade: registro e análise projetual e patrimonial'
-  locale: pt-BR
-  file: sdsp06-008.pdf
-  pages_count: 15
-  pages: 134-148
+  section: 'Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial'
   abstract: 'Este trabalho examina edifícios representativos do primeiro episódio de verticalização registrado em Natal-RN entre os anos de 1960 e 1970, a partir do esforço de sistematização de um repositório de dados coletado pelo grupo de pesquisa MUsA (Morfologia e Usos da Arquitetura) – UFRN, que embasou a dissertação “Meio Século de Arquitetura: um panorama da produção modernista natalense (19301980) em um repositório de estudos disciplinares” (Oliveira, 2018). Recolhidos do repositório que reúne 137 trabalhos disciplinares e inclui informações sobre 222 construções modernas, os 15 edifícios verticais, apresentados neste artigo, são discutidos a partir de uma análise morfológica que considera seis categorias: (1) relação do edifício-lote-quadra-entorno; (2) forma da caixa mural / volumetria; (3) estrutura / aspectos construtivos; (4) arranjo espacial; (5) soluções / adaptações climáticas; (6) outros elementos. Cada categoria é definida por critérios analíticos derivados de atributos modernistas presentes na forma dos edifícios estudados, os quais ancoraram a classificação dos casos, permitindo delinear um panorama da produção arquitetural modernista natalense.'
   keywords:
   - Modernismo
   - Verticalização
   - Panorama morfológico
-  - Natal-RN
+  - 'Natal-RN'
   references:
   - 'CHAVES, Carolina. Verticalização em João Pessoa: novo ciclo de moderniza- ção (1950-1970). In: Na urdidura da modernidade, Arquitetura moderna na Paraiba I. Organização Nelci Tinem; Marcio Cotrim. João Pessoa: FA Gráfica e Editora/PPGAU-UFPB, 2014. 340p. IL.'
   - 'GALVÃO, Marlene G. Ubirajara Galvão: Trajetória. Natal: Mariz, 2007.'
   - 'GUEDES, Kaline Abrantes. TINEM, Nelci. Documentando o patrimônio mo- derno: informação e visibilidade. 3 seminário Ibero-americano Arquitetura e Documentação. Belo Horizonte. 2013.'
   - 'MEDEIROS, Valério. Dois edifícios modernistas, uma comparação: Palácio'
-  - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 143 Capanema e IPASE. Monografia de disciplina de História e Teoria da Arquite- tura e Urbanismo, UFRN – 1999.
-  - MELO, Jussara de Gois Borba. Os primeiros edifícios verticais do bairro de Cidade Alta. Trabalho disciplinar H.T.A.U. 3. UFRN, 2000.
+  - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 143 Capanema e IPASE. Monografia de disciplina de História e Teoria da Arquite- tura e Urbanismo, UFRN – 1999.'
+  - 'MELO, Jussara de Gois Borba. Os primeiros edifícios verticais do bairro de Cidade Alta. Trabalho disciplinar H.T.A.U. 3. UFRN, 2000.'
   - 'NASLAVSKY, Guilah. Arquitetura Moderna no Recife, 1949-1972. 1a. ed. Re- cife: Prefeitura da Cidade do Recife, 2012. v. 01. 150p.'
   - 'OLIVEIRA, Maria Heloisa Alves de. Meio século de arquitetura: um panorama da produção modernista natalense (1930-1980) em um repositório de estu- dos disciplinares. Natal, 2018. 208f.: il. Dissertação (Mestrado) - Universida- de Federal do Rio Grande do Norte. Centro de Tecnologia. Departamento de Arquitetura e Urbanismo.'
   - 'PEREIRA, Fúlvio. As modernas contribuições de Mario Glauco di Lascio. In: Morte e vida severinas: das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil. Organizadores Nelci Ti- nem e Luiz Amorim; João Pessoa: Editora Universitária PPGAU/UFPB, 2012. 341p. il.'
@@ -326,19 +391,23 @@ articles:
   - 'TARALLI, C. H.; CAMPELO, M. Arquitetura Moderna no Campus da UFC.. In: Fernando Diniz Moreira. (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1 ed. Recife: FASA, 2007, v. 1, p. 303-320)'
   - 'TRIGUEIRO, Edja. MEDEIROS, Valério A. S. Of dwellings and streets that connect: a brief honey-moon. Anais do ISUF 2007 -International Seminar on Urban Form. Ouro Preto, 2007.'
   - 144 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 145 146 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 147 148 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-009
+  locale: 'pt-BR'
+  file: 'sdsp06-008.pdf'
+  pages_count: 15
+  pages: '134-148'
+
+- id: 'sdsp06-009'
   title: A parte e o todo na Arquitetura Moderna no Brasil
   authors:
-  - givenname: Rodrigo
+  - givenname: Rodrigo Cristiano
     familyname: Queiroz
+    email: 'sem-email-1@example.com'
     affiliation: ''
-    email: queiroz@exemplo.com
+    orcid: '0000-0002-7088-6885'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 2 - Modos de analisar a cidade: registro e análise projetual e patrimonial'
-  locale: pt-BR
-  file: sdsp06-009.pdf
-  pages_count: 20
-  pages: 149-168
+  section: 'Mesa 2 — Modos de analisar a cidade: registro e análise projetual e patrimonial'
   abstract: 'No âmbito do seu procedimento formal e projetual, poderíamos classificar a arquitetura moderna em duas categorias principais: aquela que parte do todo para a parte (de fora para dentro) e aquela que parte da parte para o todo (ou de dentro para a fora). No contexto brasileiro percebe-se a supremacia da primeira categoria, seja no ambiente carioca, entre os projetos para o MESP (Palácio Capanema, 1936) e Brasília (1957/1962), seja no tardio desdobramento paulista desta arquitetura moderna (1962/). Tal recorrência é resultado da aclimatação local de procedimentos projetuais nitidamente corbusierianos, seja ele purista (década de 1920), seja ele brutalista (décadas de 1940 e 1950). Apesar de ser identificado pelo todo como ponto de partida do projeto, tal procedimento não revela necessariamente uma formalização lastreada pelos princípios da volumetria e a composição, oriundos de uma tradição clássica que não teve penetração no meio brasileiro. O mesmo não pode ser dito do contexto latino-americano, cuja produção é herdeira de uma tradição tanto orgânico-empírica (da parte para o todo e de dentro para fora) como Clássica (volumetria e composição). Nesses termos, o presente artigo tem o objetivo de identificar um procedimento formal que revela as especificidades da arquitetura moderna brasileira quando comparada à produção latino-americana.'
   keywords:
   - Arquitetura Moderna
@@ -378,7 +447,7 @@ articles:
   - 'MONEO, Rafael. Inquietação teórica e estratégia projetual na obra de oito arquitetos contemporâneos. São Paulo: Cosac Naify, 2008.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 165
   - 'NAVES, Rodrigo. A forma difícil. São Paulo: Companhia das Letras, 2011.'
-  - NOBRE, Ana Luiza. Como se fosse fácil. Blog do Instituto Moreira Salles. Postado em 06/12/2012. http://blogdoims.com.br/ims/oscar-Niemeyer-como- -se-fosse-facil-por-ana-luiza-nobre
+  - 'NOBRE, Ana Luiza. Como se fosse fácil. Blog do Instituto Moreira Salles. Postado em 06/12/2012. http://blogdoims.com.br/ims/oscar-niemeyer-como- -se-fosse-facil-por-ana-luiza-nobre'
   - 'PHILIPPOU, Styliane. Oscar Niemeyer: curves of irreverence. Londres: Yale University Press, 2008.'
   - 'PISANI, Daniele. Paulo Mendes da Rocha: obra completa. São Paulo: Gus- tavo Gili, 2013.'
   - 'SCULLY, Vincent. Arquitetura Moderna. São Paulo: Cosac Naify, 2002.'
@@ -389,28 +458,36 @@ articles:
   - '_____. Oscar Niemeyer: técnica e forma. Òculum n. 02. Campinas, PUC-'
   - '_____. O desenho: forma e imagem. Revista AU n. 55. São Paulo, agosto/ setembro de 1994.'
   - '_____. Os dilemas da prancheta como espaço histórico (entrevista). Desíg- nio: Revista de História da Arquitetura e do Urbanismo. FAUUSP: São Paulo, março/2011.'
-  - VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutora- do. São Paulo, FAUUSP. 2000.
+  - 'VALLE, Marco Antonio Alves do. Desenvolvimento da forma e procedimentos de projeto na arquitetura de Oscar Niemeyer (1935-1998). Tese de Doutora- do. São Paulo, FAUUSP. 2000.'
   - 'WISNIK, Guilherme. Formalismo e Tradição: a arquitetura moderna brasileira e sua recepção crítica. Dissertação de Mestrado. FFLCH-USP: São Paulo, 2003.'
   - 'XAVIER, Alberto (org.). Depoimentos de uma geração. São Paulo: Cosac Nai- fy, 2003.'
   - 166 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 167 168 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-010
-  title: 'Edifício Germaine: morar moderno em três tempos'
+  locale: 'pt-BR'
+  file: 'sdsp06-009.pdf'
+  pages_count: 20
+  pages: '149-168'
+
+- id: 'sdsp06-010'
+  title: Edifício Germaine
+  subtitle: morar moderno em três tempos
   authors:
   - givenname: Alessandro José Castroviejo
     familyname: Ribeiro
+    email: 'ribeiro@exemplo.com'
     affiliation: ''
-    email: ribeiro@exemplo.com
+    orcid: '0000-0002-9552-766X'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Marcos José
     familyname: Carrilho
+    email: 'carrilho@exemplo.com'
     affiliation: ''
-    email: carrilho@exemplo.com
+    orcid: '0000-0001-8601-366X'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 3 - Modos de morar: habitações coletivas'
-  locale: pt-BR
-  file: sdsp06-010.pdf
-  pages_count: 13
-  pages: 170-182
+  section: 'Mesa 3 — Modos de morar: habitações coletivas'
   abstract: 'O edifício Germaine é uma obra pouco conhecida e referida pela historiografia da Arquitetura Moderna em São Paulo. No entanto, foi destacado com o prêmio de “o mais belo edifício de construído no biênio 1941-1942” outorgado pela Prefeitura Municipal de São Paulo (ato no. 1573 de 8/4/39). Embora se trate de um caso excepcional, cuja autoria é atribuída a um arquiteto de origem austríaca – Enrico Brand – de quem não se tem outra referência, esta obra antecipa mudanças sob o aspecto formal que só viriam a se realizar com desenvoltura na década de 1950. Há pelo menos três aspectos que a tornam uma obra de interesse singular: sua implantação, suas características volumétricas e a presença de elementos típicos da linguagem moderna. Mas também poderíamos acrescentar as sucessivas mudanças de uso nele ocorridas: inicialmente como apartamentos de pequenas dimensões seria convertido posteriormente no Hotel Alvear e, recentemente voltaria a ser reconvertido em edifício de apartamentos.'
   keywords:
   - Arquitetura moderna
@@ -421,120 +498,144 @@ articles:
   - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 181 Arquivo digital – Estudo de Tombamento do Centro Histórico da Cidade de São Paulo – Instituto do Patrimônio Histórico e Artístico Nacional – 9ª –SR- São Paulo Banco de Dados Digital – Centro Histórico de São Paulo – Universidade Pres- biteriana Mackenzie. Levantamento de Edifícios Modernos no centro Histórico de São Paulo: IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional, 2014. Mapas: Comissão IV centenário da cidade de São Paulo. São Paulo Antigo – Plantas da Cidade, São Paulo, 1954; Sara Brasil, 1930; Vasp-Cruzeiro, 1954.'
   - 'CARRILHO. Marcos José. Distintos edifícios Modernos no centro histórico de São Paulo. In: III Encontro da Associação Nacional de Pesquisa e Pós-gra- duação em Arquitetura e Urbanismo, São Paulo, 2014. Disponível em: http:// www.anparq.org.br/dvd-enanparq-3/Iniciar.htm. Acesso em: 25 Jun 2018.'
   - 'FICHER, Sylvia. Os arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo, FAPESP: editora da Universidade de São Paulo (Edusp), 2005.'
-  - MONTEIRO. Ana Carla de Castro Alves. Os hotéis da Metrópole - O contexto histórico e urbano da cidade de São Paulo através da produção arquitetôni- ca hoteleira (1940 – 1960). Tese de Doutorado, São Paulo, 2006.
+  - 'MONTEIRO. Ana Carla de Castro Alves. Os hotéis da Metrópole - O contexto histórico e urbano da cidade de São Paulo através da produção arquitetôni- ca hoteleira (1940 – 1960). Tese de Doutorado, São Paulo, 2006.'
   - 'RIBEIRO, A. J. C.. Edifícios Modernos e o centro histórico de São Paulo: difi- culdades de textura e forma. Tese de Doutorado, São Paulo, FAUUSP, 2010.'
   - 182 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-011
-  title: 'Entre a teoria e a prática: Eduardo Kneese de Mello e as diferentes formas de morar'
+  locale: 'pt-BR'
+  file: 'sdsp06-010.pdf'
+  pages_count: 13
+  pages: '170-182'
+
+- id: 'sdsp06-011'
+  title: Entre a teoria e a prática
+  subtitle: Eduardo Kneese de Mello e as diferentes formas de morar
   authors:
   - givenname: Aline Nassaralla
     familyname: Regino
+    email: 'regino@exemplo.com'
     affiliation: ''
-    email: regino@exemplo.com
+    orcid: '0000-0003-1242-8832'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Rafael Antonio Cunha
     familyname: Perrone
+    email: 'racperrone@gmail.com'
     affiliation: ''
-    email: perrone@exemplo.com
+    orcid: '0000-0001-8087-9948'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 3 - Modos de morar: habitações coletivas'
-  locale: pt-BR
-  file: sdsp06-011.pdf
-  pages_count: 15
-  pages: 183-197
-  abstract: Essa pesquisa apresenta parte da trajetória profissional do arquiteto Eduardo Augusto Kneese de Mello (1906–1994) por meio de sua produção arquitetônica e teórica, com foco nas obras e textos voltados para a questão da habitação de interesse social. Buscase, portanto, visualizar nos percursos do arquiteto a importância das relações entre teoria e prática da Arquitetura. Ao intentar o estudo das relações entre os textos e palestras proferidas por Kneese com seus projetos e obras de arquitetura, pôde-se traduzir como ideias e conceitos incorporaram-se à produção arquitetônica. Expõe sua contribuição para a arquitetura brasileira relacionando a qualidade de sua obra, com os textos que produziu e com seu aguerrido empenho no processo de divulgação dos preceitos da Arquitetura Moderna.
+  section: 'Mesa 3 — Modos de morar: habitações coletivas'
+  abstract: 'Essa pesquisa apresenta parte da trajetória profissional do arquiteto Eduardo Augusto Kneese de Mello (1906–1994) por meio de sua produção arquitetônica e teórica, com foco nas obras e textos voltados para a questão da habitação de interesse social. Buscase, portanto, visualizar nos percursos do arquiteto a importância das relações entre teoria e prática da Arquitetura. Ao intentar o estudo das relações entre os textos e palestras proferidas por Kneese com seus projetos e obras de arquitetura, pôde-se traduzir como ideias e conceitos incorporaram-se à produção arquitetônica. Expõe sua contribuição para a arquitetura brasileira relacionando a qualidade de sua obra, com os textos que produziu e com seu aguerrido empenho no processo de divulgação dos preceitos da Arquitetura Moderna.'
   keywords:
   - Habitação de interesse social
   - Movimento Moderno
   - Teoria
   references:
-  - MELLO. Eduardo Kneese. Acrópole de Athenas. Acrópole, São Paulo, n.1, p. 14-18, mai. 1938.
-  - ___. A Arquitetura Colonial e José Wasth Rodrigues. Acrópole, São Paulo, n.6, p. 39, out. 1938.
-  - ___. Porque Arquitetura Contemporânea. Acrópole, São Paulo, n.102, p. 159- 168, out. 1946.
-  - ___. Arquitetura, Urbanismo e Democracia. Acrópole, São Paulo, n.123, p. 91-96, jul. 1948.
-  - ___. Considerações sobre arquitetura moderna. Acrópole, São Paulo, n.134, p. 47-50, jun. 1949.
-  - ___. Habitação na URSS. Arquitetura, São Paulo, n. 9, p. 29-31, 1963.
+  - 'MELLO. Eduardo Kneese. Acrópole de Athenas. Acrópole, São Paulo, n.1, p. 14-18, mai. 1938.'
+  - '___. A Arquitetura Colonial e José Wasth Rodrigues. Acrópole, São Paulo, n.6, p. 39, out. 1938.'
+  - '___. Porque Arquitetura Contemporânea. Acrópole, São Paulo, n.102, p. 159- 168, out. 1946.'
+  - '___. Arquitetura, Urbanismo e Democracia. Acrópole, São Paulo, n.123, p. 91-96, jul. 1948.'
+  - '___. Considerações sobre arquitetura moderna. Acrópole, São Paulo, n.134, p. 47-50, jun. 1949.'
+  - '___. Habitação na URSS. Arquitetura, São Paulo, n. 9, p. 29-31, 1963.'
   - 196 6º SEMINÁRIO SP DOCOMOMO
   - '___. A herança mourisca da arquitetura no Brasil. São Paulo: FAU USP, 1975.'
   - '___. Arquitetura Brasileira: Palestras e Conferências. São Paulo: FAU USP, 1975b.'
   - '___. Mutirão e habitação. In: SÁ, Alvino Augusto; MELLO, Eduardo Kneese de; et. al. A Cidade, A Habitação. Guarulhos, SP: APEC: Universidade de Guarulhos, 1988.'
-  - PINHEIRO, Maria Lucia Bressan. Modernizada ou Moderna? A Arquitetura em São Paulo, 1938-1945.Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Pau- lo, 1997.
-  - SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.
+  - 'PINHEIRO, Maria Lucia Bressan. Modernizada ou Moderna? A Arquitetura em São Paulo, 1938-1945.Tese (Doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Pau- lo, 1997.'
+  - 'SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 197
-- id: sdsp06-012
-  title: O parque Novo Santo Amaro V, uma intervenção moderna na periferia de São Paulo
+  locale: 'pt-BR'
+  file: 'sdsp06-011.pdf'
+  pages_count: 15
+  pages: '183-197'
+
+- id: 'sdsp06-012'
+  title: 'O parque novo Santo Amaro V, uma intervenção moderna na periferia de São Paulo'
   authors:
   - givenname: Catharina Christina
     familyname: Teixeira
+    email: 'teixeira@exemplo.com'
     affiliation: ''
-    email: teixeira@exemplo.com
+    orcid: '0000-0002-2928-2414'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 3 - Modos de morar: habitações coletivas'
-  locale: pt-BR
-  file: sdsp06-012.pdf
-  pages_count: 15
-  pages: 198-212
-  abstract: O projeto habitacional do Parque Novo Santo Amaro V, executado no Jardim Ângela, Zona Sul paulistana para moradores de baixa renda, fez parte de uma intervenção cujo objetivo era o de reurbanizar a favela Luiz Soriano. Foi pensado dentro da estrutura do pensamento moderno e trouxe como referência os projetos desenvolvidos pelo grupo Team X, principalmente as propostas do casal Smithson, no que diz respeito aos espaços de transição entre a escala urbana, pública e a unidade habitacional de caráter privativo. Esse projeto, inserido de forma sistemática em um contexto social e urbanístico bastante peculiar, propõe o objeto arquitetônico como ente articulador e transformador da ordem local. Essa hipótese promissora trazida pelo autor do projeto, Arq. Hector Vigliecca, foi colocada em cheque, aos olhos do observador externo, diante da apropriação “indevida” dos espaços comuns e públicos feito pelos moradores do conjunto.
+  section: 'Mesa 3 — Modos de morar: habitações coletivas'
+  abstract: 'O projeto habitacional do Parque Novo Santo Amaro V, executado no Jardim Ângela, Zona Sul paulistana para moradores de baixa renda, fez parte de uma intervenção cujo objetivo era o de reurbanizar a favela Luiz Soriano. Foi pensado dentro da estrutura do pensamento moderno e trouxe como referência os projetos desenvolvidos pelo grupo Team X, principalmente as propostas do casal Smithson, no que diz respeito aos espaços de transição entre a escala urbana, pública e a unidade habitacional de caráter privativo. Esse projeto, inserido de forma sistemática em um contexto social e urbanístico bastante peculiar, propõe o objeto arquitetônico como ente articulador e transformador da ordem local. Essa hipótese promissora trazida pelo autor do projeto, Arq. Hector Vigliecca, foi colocada em cheque, aos olhos do observador externo, diante da apropriação “indevida” dos espaços comuns e públicos feito pelos moradores do conjunto.'
   keywords:
   - Habitação Social
   - Espaços de transição
   - Jardim Ângela
   references:
   - 'BARONE, Ana Claudia Castilho. Team 10: arquitetura como crítica. São Paulo: Annablume: Fapesp, 2002.'
-  - KOWARICK, Lucio, A Espoliação Urbana. Editora Paz e Terra. São Paulo.1980.
+  - 'KOWARICK, Lucio, A Espoliação Urbana. Editora Paz e Terra. São Paulo.1980.'
   - 'MARICATO, E.T.M. Urbanismo na periferia do mundo globalizado: metrópoles brasileiras. São Paulo em Perspectiva, São Paulo Funda-'
-  - 210 6º SEMINÁRIO SP DOCOMOMO ção SEADE, v. 14, n. 4, 2000.
+  - '210 6º SEMINÁRIO SP DOCOMOMO ção SEADE, v. 14, n. 4, 2000.'
   - 'MONTANER, J.M.; MARTINEZ, Z.M. Soportes: Vivienda y cuidad. Master Laboratorio de la vivienda del siglo XXI. Experiencias. N. J.Habraken, Andrés Mignucci. Iniversitat Politécnica de Catalunya. Barcelona, ES, 2009.'
-  - TAFURI, M. Projeto e Utopia. Editora Presença, Lisboa, 1985. VIGLIECCA H & Associados. O terceiro território. Habitação coletiva e cidade. 2014.
+  - 'TAFURI, M. Projeto e Utopia. Editora Presença, Lisboa, 1985. VIGLIECCA H & Associados. O terceiro território. Habitação coletiva e cidade. 2014.'
   - 'HEUVEL, D., RISSELAD, M., Looking into the mirror of Team 10. Dis- ponível em: http://www.team10online.org/. Acesso em 26/06/2018.'
   - 'VIGLIECCA, H.; Desenvolvimento Urbano. Aula ministrada em 08/05/2014 na Escola da Cidade. Disponível em: http://escoladaci- dade.org/bau/hector-vigliecca-desenvolvimento-urbano/. Acesso em 26/06/2018. Projeto de Golden Lane. Autores: Allisson e Peter Smithson. Crono- logia do Pensamento Urbanístico. Revista eletrônica UFBA. Dispo- nível em: http://www.cronologiadourbanismo.ufba.br/apresentacao. php?idVerbete=11. Acesso em 26/06/2018. Projeto Parque Novo Santo Amaro V. Autor: Hector Vigliecca. Dispo- nível em: https://www.archdaily.com.br/br/623191/residencial-par- que-novo-santo-amaro-v-slash-vigliecca-and-associados/53ac22d- 7c07a80af89000002-novo-santo-amaro-v-park-housing-vigliecca-an- d-associados-photo. Acesso 26/06/2018.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 211 212 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-013
+  locale: 'pt-BR'
+  file: 'sdsp06-012.pdf'
+  pages_count: 15
+  pages: '198-212'
+
+- id: 'sdsp06-013'
   title: IAPC Cidade Jardim e as modernas formas de morar
   authors:
   - givenname: Aline Nassaralla
     familyname: Regino
+    email: 'regino@exemplo.com'
     affiliation: ''
-    email: regino@exemplo.com
+    orcid: '0000-0003-1242-8832'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Rafael Antonio Cunha
     familyname: Perrone
+    email: 'racperrone@gmail.com'
     affiliation: ''
-    email: perrone@exemplo.com
+    orcid: '0000-0001-8087-9948'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 3 - Modos de morar: habitações coletivas'
-  locale: pt-BR
-  file: sdsp06-013.pdf
-  pages_count: 15
-  pages: 213-227
-  abstract: O objetivo principal deste artigo é documentar e analisar o projeto do Conjunto Residencial Cidade Jardim de autoria do arquiteto Eduardo Kneese de Mello (1906-1994) e equipe, desenvolvido entre 1944-1946, em São Paulo, para o Instituto de Aposentadoria e Pensões dos Comerciários (IAPC). A pesquisa analisa, de maneira minuciosa, as propostas elaboradas pela equipe, buscando divulgar um projeto que ainda permanece desconhecido por grande parte dos arquitetos e estudantes. Do mesmo modo, a pesquisa demonstra como este conjunto residencial representa a divulgação, apropriação e adequação de paradigmas do movimento moderno, em especial a Carta de Atenas (CIAM, 1933) para o contexto brasileiro.
+  section: 'Mesa 3 — Modos de morar: habitações coletivas'
+  abstract: 'O objetivo principal deste artigo é documentar e analisar o projeto do Conjunto Residencial Cidade Jardim de autoria do arquiteto Eduardo Kneese de Mello (1906-1994) e equipe, desenvolvido entre 1944-1946, em São Paulo, para o Instituto de Aposentadoria e Pensões dos Comerciários (IAPC). A pesquisa analisa, de maneira minuciosa, as propostas elaboradas pela equipe, buscando divulgar um projeto que ainda permanece desconhecido por grande parte dos arquitetos e estudantes. Do mesmo modo, a pesquisa demonstra como este conjunto residencial representa a divulgação, apropriação e adequação de paradigmas do movimento moderno, em especial a Carta de Atenas (CIAM, 1933) para o contexto brasileiro.'
   keywords:
   - Habitação de Interesse Social
   - Arquitetura Moderna
   - Brasil
   references:
   - 'MELLO. Eduardo Kneese. IAPC. Delegacia de São Paulo. Conjunto Residen- cial Cidade Jardim. Anteprojeto II. São Paulo: 1945. Acervo Roberto Alves de Lima Montenegro Filho.'
-  - ___. Núcleo Residencial do IAPC. Acrópole, São Paulo, n.107, p. 273-284, mar. 1947.
-  - ___. Arquitetura, Urbanismo e Democracia. Acrópole, São Paulo, n.123, p. 91-96, jul. 1948.
+  - '___. Núcleo Residencial do IAPC. Acrópole, São Paulo, n.107, p. 273-284, mar. 1947.'
+  - '___. Arquitetura, Urbanismo e Democracia. Acrópole, São Paulo, n.123, p. 91-96, jul. 1948.'
   - 'REGINO, Aline Nassaralla. Eduardo Kneese de Mello | arquiteto: análise de'
-  - 226 6º SEMINÁRIO SP DOCOMOMO sua contribuição à habilitação coletiva em São Paulo. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Uni- versidade Presbiteriana Mackenzie, São Paulo, 2006.
-  - SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.
+  - '226 6º SEMINÁRIO SP DOCOMOMO sua contribuição à habilitação coletiva em São Paulo. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Uni- versidade Presbiteriana Mackenzie, São Paulo, 2006.'
+  - 'SANTOS, Lena Coelho. Arquitetura Paulista em torno de 1930-1940. Disser- tação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1985.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1999.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 227
-- id: sdsp06-014
-  title: 'Casas no sertão: Arquitetura residencial de Joaquim Guedes em Caraíba-BA'
+  locale: 'pt-BR'
+  file: 'sdsp06-013.pdf'
+  pages_count: 15
+  pages: '213-227'
+
+- id: 'sdsp06-014'
+  title: Casas no Sertão
+  subtitle: 'Arquitetura residencial de Joaquim Guedes em Caraíba-BA'
   authors:
   - givenname: Rogério Penna
     familyname: Quintanilha
+    email: 'quintanilha@exemplo.com'
     affiliation: ''
-    email: quintanilha@exemplo.com
+    orcid: '0000-0002-5730-1301'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 3 - Modos de morar: habitações coletivas'
-  locale: pt-BR
-  file: sdsp06-014.pdf
-  pages_count: 13
-  pages: 228-240
-  abstract: O presente artigo apresenta as unidades habitacionais projetadas e construídas por Joaquim Guedes em Caraíba, atualmente distrito de Pilar, município de Jaguarari, BA, cidade nova de mineração projetada para a companhia Vale do Rio Doce no final dos anos 70. As unidades, divididas entre casas, apartamentos e alojamentos de diferentes níveis, e sua distribuição no espaço, sintetizam algumas propostas do arquiteto para o desenvolvimento do núcleo, dentre as quais o convívio comunitário e a transição de uma sociedade rural para a modernidade. O artigo também faz alguns apontamentos sobre as alterações sofridas por esses edifícios nos últimos anos, especialmente após a privatização da companhia mineradora, a Mineração Caraíba, quando a propriedade dos imóveis, até então mantidos como propriedade da companhia, foi transferida para os trabalhadores.
+  section: 'Mesa 3 — Modos de morar: habitações coletivas'
+  abstract: 'O presente artigo apresenta as unidades habitacionais projetadas e construídas por Joaquim Guedes em Caraíba, atualmente distrito de Pilar, município de Jaguarari, BA, cidade nova de mineração projetada para a companhia Vale do Rio Doce no final dos anos 70. As unidades, divididas entre casas, apartamentos e alojamentos de diferentes níveis, e sua distribuição no espaço, sintetizam algumas propostas do arquiteto para o desenvolvimento do núcleo, dentre as quais o convívio comunitário e a transição de uma sociedade rural para a modernidade. O artigo também faz alguns apontamentos sobre as alterações sofridas por esses edifícios nos últimos anos, especialmente após a privatização da companhia mineradora, a Mineração Caraíba, quando a propriedade dos imóveis, até então mantidos como propriedade da companhia, foi transferida para os trabalhadores.'
   keywords:
   - Cidades Novas
   - Núcleo do Pilar
@@ -544,28 +645,36 @@ articles:
   - 'BIERRENBACH, Ana Carolina. A Caraíba de Joaquim Guedes. A trajetória de uma cidade no sertão. Arquitextos 087.02. Portal Vitruvius, abril 2009. Disponível em <www.vitruvius.com.br/arquitextos>. Acesso em: 4 abr. 2009.'
   - 'CAMARGO, Mônica Junqueira de. Joaquim Guedes. São Paulo: Cosac & Naif, 2000.'
   - 'FARAH, Flavio; FARAH, Marta Ferreira Santos. Vilas de Mineração e de Barra- gens no Brasil. São Paulo: Instituto de Pesquisas Tecnológicas, 1993.'
-  - GUEDES, Joaquim. Um projeto e seus caminhos. Tese de Livre Docência - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo –
-  - FAUUSP, São Paulo, julho de 1981.
+  - 'GUEDES, Joaquim. Um projeto e seus caminhos. Tese de Livre Docência - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo –'
+  - 'FAUUSP, São Paulo, julho de 1981.'
   - 238 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 239 240 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-015
-  title: 'Lina e Bratke: modos de morar dos arquitetos modernos em São Paulo'
+  locale: 'pt-BR'
+  file: 'sdsp06-014.pdf'
+  pages_count: 13
+  pages: '228-240'
+
+- id: 'sdsp06-015'
+  title: Lina e Bratke
+  subtitle: modos de morar dos arquitetos modernos em São Paulo
   authors:
   - givenname: Daniele Aparecida
     familyname: Alves
+    email: 'alves@exemplo.com'
     affiliation: ''
-    email: alves@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Aline Nassaralla
     familyname: Regino
+    email: 'regino@exemplo.com'
     affiliation: ''
-    email: regino@exemplo.com
+    orcid: '0000-0003-1242-8832'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 4 - Modos de morar: habitações unifamiliares'
-  locale: pt-BR
-  file: sdsp06-015.pdf
-  pages_count: 15
-  pages: 242-256
-  abstract: Partindo de um sincretismo arquitetônico luso-ameríndio, São Paulo passou de vila à cidade influenciada pelo avanço das tecnologias construtivas europeias. Com a chegada do século XX, uma nova geração de arquitetos passa a mesclar o estilo e os métodos do modernismo às possibilidades construtivas do período. Destacandose, dentre estes, Lina Bo Bardi e Oswaldo Bratke, partimos deste contexto e destes arquitetos, tendo por objetivo a realização de uma análise reflexiva sobre suas próprias residências. Construídas na década de 1950, através destas, eles instalaram a linguagem da Arquitetura Moderna Brasileira, propondo um novo modo de morar, marcado pela fluidez entre interior-exterior, eficiência construtiva e setorização funcional.
+  section: 'Mesa 4 — Modos de morar: habitações unifamiliares'
+  abstract: 'Partindo de um sincretismo arquitetônico luso-ameríndio, São Paulo passou de vila à cidade influenciada pelo avanço das tecnologias construtivas europeias. Com a chegada do século XX, uma nova geração de arquitetos passa a mesclar o estilo e os métodos do modernismo às possibilidades construtivas do período. Destacandose, dentre estes, Lina Bo Bardi e Oswaldo Bratke, partimos deste contexto e destes arquitetos, tendo por objetivo a realização de uma análise reflexiva sobre suas próprias residências. Construídas na década de 1950, através destas, eles instalaram a linguagem da Arquitetura Moderna Brasileira, propondo um novo modo de morar, marcado pela fluidez entre interior-exterior, eficiência construtiva e setorização funcional.'
   keywords:
   - Arquitetura Moderna Paulistana
   - Residência
@@ -574,37 +683,44 @@ articles:
   - 'ACAYABA, Marlene. Residências em São Paulo, 1947-1975. São Paulo: Bi- blioteca Eucatex de Cultura Brasileira, 1986.'
   - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
   - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspec- tiva, 1999. DALL’ALBA, Anderson. Formas modernas em jardins pitorescos: correlações entre as casas de Bratke e a (sub)urbanização do bairro Paineiras do Mo-'
-  - 254 6º SEMINÁRIO SP DOCOMOMO rumbi. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v. 24, n. 44, p. 44-67, 2017.
+  - '254 6º SEMINÁRIO SP DOCOMOMO rumbi. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v. 24, n. 44, p. 44-67, 2017.'
   - 'DOURADO, Guilherme Mazza; SEGAWA, Hugo. Oswaldo Arthur Bratke. São Paulo: ProEditores, 1997.'
   - 'FERRAZ, Marcelo Carvalho (Org.). Lina Bo Bardi: Casa de vidro. The glass house. São Paulo: Iphan: Sesc SP, 2015.'
-  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Residência no Morumbi / Os- waldo Bratke. Archdaily, fev. 2014. Disponível em: http://www.archdaily.com. br/br/01-172440/classicos-da-arquitetura-residencia-no-morumbi-slash-os- waldo-Bratke. Acesso em: 28 abr. 2018.'
+  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Residência no Morumbi / Os- waldo Bratke. Archdaily, fev. 2014. Disponível em: http://www.archdaily.com. br/br/01-172440/classicos-da-arquitetura-residencia-no-morumbi-slash-os- waldo-bratke. Acesso em: 28 abr. 2018.'
   - 'GIOIA, Mario. Gregori Warchavchik. Um dos pioneiros da moderna ar- quitetura brasileira. Resenhas Online, São Paulo, ano 10, n. 113.01, mai. 2011. Disponível em: http://www.vitruvius.com.br/revistas/read/resenhason- line/10.113/3929. Acesso em: 28 abr. 2018.'
   - 'MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeropla- no, 2000.'
   - 'REIS, Nestor Goulart. São Paulo: vila, cidade, metrópole. São Paulo: Prefeitu- ra de São Paulo, 2004.'
   - 'RUBINO, Silvana; GRINOVER, Marina. Lina por escrito: textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.'
   - 'SEGAWA, Hugo M. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1998.'
-  - 'SOLOT, DeNise Chini. Paulo Mendes da Rocha: estrutura, o êxito da forma. Rio de Janeiro: Viana & Mosley, 2004.'
+  - 'SOLOT, Denise Chini. Paulo Mendes da Rocha: estrutura, o êxito da forma. Rio de Janeiro: Viana & Mosley, 2004.'
   - 'VERÍSSIMO, Francisco Salvador; BITTAR, William SM. 500 anos da casa no Brasil: as transformações da arquitetura e da utilização do espaço de mora- dia. Rio de Janeiro: Ediouro, 1999.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 255 256 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-016
-  title: Como vai Antônio!
+  locale: 'pt-BR'
+  file: 'sdsp06-015.pdf'
+  pages_count: 15
+  pages: '242-256'
+
+- id: 'sdsp06-016'
+  title: 'Como vai Antônio!'
   authors:
-  - givenname: Fernando Guillermo Vázquez
-    familyname: Ramos
+  - givenname: Fernando Guillermo
+    familyname: Vázquez Ramos
+    email: 'prof.vazquez@usjt.br'
     affiliation: ''
-    email: ramos@exemplo.com
+    orcid: '0000-0003-3472-5598'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Andréa de Oliveira
     familyname: Tourinho
+    email: 'tourinho@exemplo.com'
     affiliation: ''
-    email: tourinho@exemplo.com
+    orcid: '0000-0002-8672-9366'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 4 - Modos de morar: habitações unifamiliares'
-  locale: pt-BR
-  file: sdsp06-016.pdf
-  pages_count: 15
-  pages: 257-271
-  abstract: A comunicação analisa os sistemas de caixas (invólucros) e de colunas nas obras de Vilanova Artigas projetadas entre os anos de 1940 e 1960, centrando sua atenção especialmente nas casas concebidas pelo arquiteto nesse período. A abordagem conceitual desses sistemas como possível chave interpretativa da obra do arquiteto apoia-se no entendimento de que neles existem vestígios dos processos compositivos clássicos que seriam capazes de organizar os elementos de arquitetura (como as colunas) dentro de sistemas complexos definidores não só da espacialidade da obra, mas, sobretudo, de sua forma. O trajeto percorrido pelo arquiteto parece demonstrar que tinha conhecimento prévio destes sistemas, entretanto foram sendo modificados (aperfeiçoados ou abandonados) em longos períodos de exercício da profissão. A experimentação constante foi aparentemente fonte de descobertas que consolidaram determinadas posturas de apropriação ou rechaço, ou ainda mistura, de cada um desses sistemas. Da análise das obras surgem alguns momentos chaves (a casa Olga Baeta, a segunda casa Mario Taques Bittencourt e a casa Elza Berquó) em que se materializam com nitidez as propostas e as opções compositivas que o arquiteto desenvolveu. Nessas obras, a análise aprofunda o entendimento sobre os sistemas e seu resultado formal.
+  section: 'Mesa 4 — Modos de morar: habitações unifamiliares'
+  abstract: 'A comunicação analisa os sistemas de caixas (invólucros) e de colunas nas obras de Vilanova Artigas projetadas entre os anos de 1940 e 1960, centrando sua atenção especialmente nas casas concebidas pelo arquiteto nesse período. A abordagem conceitual desses sistemas como possível chave interpretativa da obra do arquiteto apoia-se no entendimento de que neles existem vestígios dos processos compositivos clássicos que seriam capazes de organizar os elementos de arquitetura (como as colunas) dentro de sistemas complexos definidores não só da espacialidade da obra, mas, sobretudo, de sua forma. O trajeto percorrido pelo arquiteto parece demonstrar que tinha conhecimento prévio destes sistemas, entretanto foram sendo modificados (aperfeiçoados ou abandonados) em longos períodos de exercício da profissão. A experimentação constante foi aparentemente fonte de descobertas que consolidaram determinadas posturas de apropriação ou rechaço, ou ainda mistura, de cada um desses sistemas. Da análise das obras surgem alguns momentos chaves (a casa Olga Baeta, a segunda casa Mario Taques Bittencourt e a casa Elza Berquó) em que se materializam com nitidez as propostas e as opções compositivas que o arquiteto desenvolveu. Nessas obras, a análise aprofunda o entendimento sobre os sistemas e seu resultado formal.'
   keywords:
   - Vilanova Artigas
   - Elementos de Composição
@@ -619,48 +735,60 @@ articles:
   - 'RYKWERT, Joseph. The Dancing Column. Cambridge, Mass./London: The MIT Press, 1996.'
   - 'TERRES DE FEMMES. 31 mai 1933. Conférence d’Auguste Perret. Dispo- nível em: http://terresdefemmes.blogs.com/mon_weblog/2006/05/31_mai_ 1933conf.html. Acesso em 22 jun. 2018.'
   - 270 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 271
-- id: sdsp06-017
-  title: Esporádicas intuições. A Arquitetura residencial paulista nas revistas italianas (1930-1960) — considerações à margem
+  locale: 'pt-BR'
+  file: 'sdsp06-016.pdf'
+  pages_count: 15
+  pages: '257-271'
+
+- id: 'sdsp06-017'
+  title: 'Esporádicas intuições. A Arquitetura residencial paulista nas revistas italianas (1930-1960) — considerações à margem'
   authors:
   - givenname: Francesca
     familyname: Sarno
+    email: 'sarno@exemplo.com'
     affiliation: ''
-    email: sarno@exemplo.com
+    orcid: '0000-0003-0100-8568'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 4 - Modos de morar: habitações unifamiliares'
-  locale: pt-BR
-  file: sdsp06-017.pdf
-  pages_count: 17
-  pages: 272-288
+  section: 'Mesa 4 — Modos de morar: habitações unifamiliares'
   abstract: 'A atenção dada pelas revistas italianas à produção arquitetônica do Brasil no século XX foi várias vezes destacada por estudiosos, especialmente brasileiros. A partir dessas reflexões e da pesquisa realizada pela autora sobre a Escola de São Paulo, este texto pretende “reabrir o caso”, focando especificamente na divulgação da produção de residências entre 1930 e 1960. Nos anos de desenvolvimento e expansão da cidade, são experimentados e difundidos novos modelos de “habitar”, nos quais os caracteres distintivos das marcas paulistas aparecem imediatamente identificáveis. Diante de um processo tão criativo e construtivo, as revistas italianas parecem não compreender a revolução arquitetônica paulista, concentrando-se mais frequentemente em projetistas conhecidos e principalmente relacionados à esfera italiana. No panorama paulistano, elementos imprescindíveis para uma contextualização histórica e arquitetônica são: a difusão de posições modernistas; a afirmação do Concretismo; o envolvimento de Artigas no Partido Comunista; a busca constante de uma dialética entre o compromisso político e a liberdade do processo criativo; a austeridade arquitetônica traduzida em projeto social; as preocupações coletivas mais do que as estéticas. A partir daqui se dá a necessidade de uma releitura.'
   keywords:
   - Movimento Moderno
   - Arquitetura paulista e italiana
   - Habitação
-- id: sdsp06-018
-  title: 'As residências para classe média paulistana dos anos 1960: uma obra do arquiteto Mario Mauro Graziosi'
+  locale: 'pt-BR'
+  file: 'sdsp06-017.pdf'
+  pages_count: 17
+  pages: '272-288'
+
+- id: 'sdsp06-018'
+  title: As residências para classe média paulistana dos anos 1960
+  subtitle: uma obra do arquiteto Mario Mauro Graziosi
   authors:
   - givenname: Luciana Monzillo de
     familyname: Oliveira
+    email: 'oliveira@exemplo.com'
     affiliation: ''
-    email: oliveira@exemplo.com
+    orcid: '0000-0002-5299-1120'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: João Carlos
     familyname: Graziosi
+    email: 'graziosi@exemplo.com'
     affiliation: ''
-    email: graziosi@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 4 - Modos de morar: habitações unifamiliares'
-  locale: pt-BR
-  file: sdsp06-018.pdf
-  pages_count: 16
-  pages: 289-304
-  abstract: O presente artigo aborda a questão das residências projetadas por arquitetos nos anos 1960 para a classe média paulistana e que estão vinculadas às características consideradas como representativas da arquitetura moderna. O tema da pesquisa surge da observação de uma lacuna na documentação sobre as residências para classe média, uma vez que as moradias unifamiliares para a elite e a classe média alta, assim como a moradia popular têm sido tema de investigação e produção bibliográfica por parte dos historiadores da arquitetura paulista. O objetivo da pesquisa é contribuir para a formação do acervo de uma tipologia de edificação presente em vários bairros de São Paulo e que compõe parte do cenário da arquitetura residencial paulistana. O objeto selecionado para estudo é uma casa projetada e construída pelo arquiteto Mario Mauro Graziosi (1929-2008), e que pertence à categoria tipológica que Lemos (1989) identificou como moradia de classe média. A análise realizada a partir do redesenho e descrição da residência em consonância com a formação e referencial projetual do arquiteto autor do projeto, comprova a excepcionalidade da obra quando comparada ao padrão das residências assobradadas do período, além de inseri-la como exemplar significativo da tipologia residencial paulistana.
+  section: 'Mesa 4 — Modos de morar: habitações unifamiliares'
+  abstract: 'O presente artigo aborda a questão das residências projetadas por arquitetos nos anos 1960 para a classe média paulistana e que estão vinculadas às características consideradas como representativas da arquitetura moderna. O tema da pesquisa surge da observação de uma lacuna na documentação sobre as residências para classe média, uma vez que as moradias unifamiliares para a elite e a classe média alta, assim como a moradia popular têm sido tema de investigação e produção bibliográfica por parte dos historiadores da arquitetura paulista. O objetivo da pesquisa é contribuir para a formação do acervo de uma tipologia de edificação presente em vários bairros de São Paulo e que compõe parte do cenário da arquitetura residencial paulistana. O objeto selecionado para estudo é uma casa projetada e construída pelo arquiteto Mario Mauro Graziosi (1929-2008), e que pertence à categoria tipológica que Lemos (1989) identificou como moradia de classe média. A análise realizada a partir do redesenho e descrição da residência em consonância com a formação e referencial projetual do arquiteto autor do projeto, comprova a excepcionalidade da obra quando comparada ao padrão das residências assobradadas do período, além de inseri-la como exemplar significativo da tipologia residencial paulistana.'
   keywords:
   - Arquitetura Moradia de classe média
   - Arquitetura paulistana
   references:
-  - ACAYABA, Marlene Milan. Residências em São Paulo – 1947 – 1975. São Paulo, Romano Guerra Editora, 2011.
+  - 'ACAYABA, Marlene Milan. Residências em São Paulo – 1947 – 1975. São Paulo, Romano Guerra Editora, 2011.'
   - 'BLAY, Eva Alterman. Eu não tenho onde morar: vilas operárias na cidade de São Paulo. São Paulo: Nobel, 1985.'
   - 'BONDUKI, Nabil, Org. Origens da habitação social no Brasil: arquitetura mo- derna, lei do inquilinato e difusão da casa própria. 4. ed. São Paulo: Estação Liberdade, 2004.'
   - 'FREYRE, Gilberto. Sobrados e mucambos. São Paulo: Global, 2006.'
@@ -674,20 +802,25 @@ articles:
   - 'SAIA, Luiz. Morada paulista. 3. ed. São Paulo: Perspectiva, 2012.'
   - 'WOLFF, Silvia Ferreira Santos. Jardim América: o primeiro bairro-jardim de São Paulo e sua arquitetura. São Paulo: Editora da Universidade de São Pau- lo, 2015.'
   - 302 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 303 304 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-019
-  title: 'Popconcreto e a Casa Berquó: a influência das propostas de Waldemar Cordeiro na obra de Vilanova Artigas'
+  locale: 'pt-BR'
+  file: 'sdsp06-018.pdf'
+  pages_count: 16
+  pages: '289-304'
+
+- id: 'sdsp06-019'
+  title: Popconcreto e a casa berquó
+  subtitle: a influência das propostas de Waldemar Cordeiro na obra de Vilanova Artigas
   authors:
   - givenname: Rogério Marcondes
     familyname: Machado
+    email: 'machado@exemplo.com'
     affiliation: ''
-    email: machado@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 4 - Modos de morar: habitações unifamiliares'
-  locale: pt-BR
-  file: sdsp06-019.pdf
-  pages_count: 14
-  pages: 305-318
-  abstract: Esse trabalho descreve a influência da Arte Pop no brutalismo arquitetônico paulista tendo como objeto a Casa Berquó (1965-1968), projetada por João Vilanova Artigas. Nessa obra o arquiteto diz ter realizado um projeto irônico, “meio pop, meio protesto”, para mostrar que, sob uma ditadura militar, a simples exaltação da técnica construtiva era “uma tolice irremediável”. Nessa obra Artigas deixa-se influenciar pelas propostas do artista, paisagista e urbanista Waldemar Cordeiro para quem a exaltação do racionalidade industrial, própria da arte concreta, havia favorecido o domínio de uma “Razão Monstruosa”. Cordeiro propõe um modelo de comunicação baseado na apresentação de objetos – prosaicos, populares, resíduos industriais - e não mais na representação artística convencional. Trata-se de uma proposta com atributos políticos - para Cordeiro essa seria a base de um “novo humanismo” – que foi determinante para catalisar as necessidades expressivas de Artigas num momento de intensa repressão da sociedade civil.
+  section: 'Mesa 4 — Modos de morar: habitações unifamiliares'
+  abstract: 'Esse trabalho descreve a influência da Arte Pop no brutalismo arquitetônico paulista tendo como objeto a Casa Berquó (1965-1968), projetada por João Vilanova Artigas. Nessa obra o arquiteto diz ter realizado um projeto irônico, “meio pop, meio protesto”, para mostrar que, sob uma ditadura militar, a simples exaltação da técnica construtiva era “uma tolice irremediável”. Nessa obra Artigas deixa-se influenciar pelas propostas do artista, paisagista e urbanista Waldemar Cordeiro para quem a exaltação do racionalidade industrial, própria da arte concreta, havia favorecido o domínio de uma “Razão Monstruosa”. Cordeiro propõe um modelo de comunicação baseado na apresentação de objetos – prosaicos, populares, resíduos industriais - e não mais na representação artística convencional. Trata-se de uma proposta com atributos políticos - para Cordeiro essa seria a base de um “novo humanismo” – que foi determinante para catalisar as necessidades expressivas de Artigas num momento de intensa repressão da sociedade civil.'
   keywords:
   - Concretismo
   - Novo realismo
@@ -701,30 +834,37 @@ articles:
   - 'CORDEIRO, Waldemar. Realismo: musa da vingança e da tristeza. Habitat, São Paulo, n. 83, p. 45- 48, maio-jun. 1965.'
   - 'COSTA, Helouise. Waldemar Cordeiro: a ruptura como metáfora. In: PONTES, Helouise (curadora). Waldemar Cordeiro e a fotografia. São Paulo: Cosac & Naif, Centro Cultural Maria Antônia USP, 2002. p.10-36'
   - 'GATTI, Luciano. Walter Benjamin e o Surrealismo: escrita e iluminação profa- na. Artefilosofia, Ouro Preto, n.6, p. 74-94, abr.2009.'
-  - 'LOWY, Michael. Walter Benjamin e o surrealismo: história de um encanta- mento revoLucionário. In: LOWY, Michael. Estrela da manhã: surrealismo e marxismo. Rio de Janeiro: Civilização brasileira, 2002. p.37-54'
+  - 'LOWY, Michael. Walter Benjamin e o surrealismo: história de um encanta- mento revolucionário. In: LOWY, Michael. Estrela da manhã: surrealismo e marxismo. Rio de Janeiro: Civilização brasileira, 2002. p.37-54'
   - 'KATINSKY, Julio Roberto. Vilanova Artigas invenção de uma arquitetura. In: Vilanova Artigas (catálogo de exposição). São Paulo: Instituto Tomie Othake, 2003. p. 25-83'
-  - NUNES, Fabricio Vaz. Waldemar Cordeiro da arte concreta ao popcreto. Dis- sertação (mestrado Departamento de História) – Instituto de Filosofia e Ciên- cias Humanas Universidade Estadual de Campinas, 2004
-  - 'ZEIN, Ruth Verde. Artigas Pop-Cult: considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira. Comunicação apresentada ao III Seminário DOCOMOMO SUL, Porto Alegre, e publicada nos Anais do evento, 2010. Disponível em: <https://bibliodarq.files.wordpress.com/2012/10/zein-r- -v-Artigas-pop-cult.pdf>.'
+  - 'NUNES, Fabricio Vaz. Waldemar Cordeiro da arte concreta ao popcreto. Dis- sertação (mestrado Departamento de História) – Instituto de Filosofia e Ciên- cias Humanas Universidade Estadual de Campinas, 2004'
+  - 'ZEIN, Ruth Verde. Artigas Pop-Cult: considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira. Comunicação apresentada ao III Seminário DOCOMOMO SUL, Porto Alegre, e publicada nos Anais do evento, 2010. Disponível em: <https://bibliodarq.files.wordpress.com/2012/10/zein-r- -v-artigas-pop-cult.pdf>.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 317 318 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-020
-  title: Casa Ninca Bordano, uma abóbada na rua das jabuticabeiras
+  locale: 'pt-BR'
+  file: 'sdsp06-019.pdf'
+  pages_count: 14
+  pages: '305-318'
+
+- id: 'sdsp06-020'
+  title: 'Casa Ninca Bordano, uma abóbada na rua das jabuticabeiras'
   authors:
   - givenname: Bárbara Cardoso
     familyname: Garcia
+    email: 'garcia@exemplo.com'
     affiliation: ''
-    email: garcia@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Brunna
     familyname: Heine
+    email: 'heine@exemplo.com'
     affiliation: ''
-    email: heine@exemplo.com
+    orcid: '0000-0002-1013-9634'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 5 - Modos de morar: entre modos de habitar e modos de construir'
-  locale: pt-BR
-  file: sdsp06-020.pdf
-  pages_count: 17
-  pages: 320-336
-  abstract: Este trabalho discorre sobre a casa Ninca Bordano, obra de arquitetura moderna localizada em São Paulo, no bairro Cidade Jardim, na rua das Jabuticabeiras; uma residência em abóbada única. É um projeto de 1968, encomendado a Ronaldo Duschenes por Ninca Bordano, para ela e seu filho, Andreas Pavel, que era amigo do arquiteto. Este artigo aborda o projeto original, os modos de morar em tal residência, o histórico de intervenções e o atual estado de conservação da casa, descrevendo sua condição de arruinamento. É uma casa com características relevantes para o patrimônio edificado moderno de São Paulo, que está sem uso há quase dez anos e atualmente pode ser entendida como uma ruína.
+  section: 'Mesa 5 — Modos de morar: entre modos de habitar e modos de construir'
+  abstract: 'Este trabalho discorre sobre a casa Ninca Bordano, obra de arquitetura moderna localizada em São Paulo, no bairro Cidade Jardim, na rua das Jabuticabeiras; uma residência em abóbada única. É um projeto de 1968, encomendado a Ronaldo Duschenes por Ninca Bordano, para ela e seu filho, Andreas Pavel, que era amigo do arquiteto. Este artigo aborda o projeto original, os modos de morar em tal residência, o histórico de intervenções e o atual estado de conservação da casa, descrevendo sua condição de arruinamento. É uma casa com características relevantes para o patrimônio edificado moderno de São Paulo, que está sem uso há quase dez anos e atualmente pode ser entendida como uma ruína.'
   keywords:
   - Residência moderna
   - Arquitetura paulista
@@ -735,7 +875,7 @@ articles:
   - 332 6º SEMINÁRIO SP DOCOMOMO
   - 'BASTOS, Maria; ZEIN, Ruth. Brasil: Arquitetura após 1950. São Paulo: Perspectiva, 2015.'
   - 'BRANDI, Cesare. Teoria da restauração. Trad. Beatriz Mugayar Kühl. Cotia, SP: Ateliê Editorial, 2004.'
-  - '____________.Teoria del restauro. ToRino: Giuliu Einaudi Editore s.p.a., 2000.'
+  - '____________.Teoria del restauro. Torino: Giuliu Einaudi Editore s.p.a., 2000.'
   - '____________. Il Restauro. Teoria e Pratica. Roma: Editori Riuniti, 1994.'
   - 'DUSCHENES, Ronaldo. Ronaldo Duschenes: depoimento [jun. 2018]. Entre- vistadores: Bárbara Garcia e Brunna Heine. São Paulo, 2018. 1 arquivo .m4a (73 min.).'
   - 'KOURY, Ana Paula. Grupo Arquitetura Nova: Flávio Império, Rodrigo Lefèvre e Sérgio Ferro. São Paulo: Romano Guerra Editora: Editora da Universidade de São Paulo: FAPESP, 2003. – (Coleção olhar arquitetônico; v 1)'
@@ -750,20 +890,25 @@ articles:
   - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre: PROPAR-UFRGS, 2005. Tese de doutoramento orientada por Carlos Eduardo Dias Comas.'
   - 'ZEIN, Ruth Verde; SANTOS, Cecília Rodrigues. Rápidas considerações so- bre a preservação das ruínas da modernidade. Arquitextos, São Paulo, ano 12, n. 135.00, jul. 2011. Disponível em: http://www.vitruvius.com.br/revistas/ read/arquitextos/12.135/3997. Acesso em: 18 jun. 2018.'
   - 334 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 335 336 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-021
-  title: 'Edifício Gemini: construção formal e tectonicidade de um protótipo de habitação coletiva'
+  locale: 'pt-BR'
+  file: 'sdsp06-020.pdf'
+  pages_count: 17
+  pages: '320-336'
+
+- id: 'sdsp06-021'
+  title: Edifício gemini
+  subtitle: construção formal e tectonicidade de um protótipo de habitação coletiva
   authors:
   - givenname: Cristiane
     familyname: Lavall
+    email: 'lavall@exemplo.com'
     affiliation: ''
-    email: lavall@exemplo.com
+    orcid: '0000-0001-7650-828X'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 5 - Modos de morar: entre modos de habitar e modos de construir'
-  locale: pt-BR
-  file: sdsp06-021.pdf
-  pages_count: 13
-  pages: 337-349
-  abstract: Encomendado pela construtora Formaespaço, o conjunto residencial Gemini foi projetado pelo arquiteto Eduardo de Almeida no ano de 1969. A demanda por novas formas de morar impulsionou tal construtora a conceber edifícios de habitação coletiva que pudessem ser repetidos e implantados em lotes disponíveis na cidade de São Paulo. A construção formal do Gemini e a racionalização de sua construção revelam a metodologia de trabalho do arquiteto e a importância do sistema estrutural na concepção do projeto. Além de dar sustentação ao edifício, a estrutura portante tem papel fundamental na organização espacial e na formalização do objeto arquitetônico. Aliado a isso, a utilização de critérios de formação como rigor, precisão e economia de meios denotam a tectonicidade do conjunto. O objetivo do trabalho é elucidar a construção formal e os atributos visuais dessa obra, considerada expoente pela sua tipologia, construção e relação com a cidade. Ainda que concebido para a classe média, as estratégias projetuais adotadas no Gemini outorgam sua possibilidade de adaptação às mais diversas realidades e classes econômicas.
+  section: 'Mesa 5 — Modos de morar: entre modos de habitar e modos de construir'
+  abstract: 'Encomendado pela construtora Formaespaço, o conjunto residencial Gemini foi projetado pelo arquiteto Eduardo de Almeida no ano de 1969. A demanda por novas formas de morar impulsionou tal construtora a conceber edifícios de habitação coletiva que pudessem ser repetidos e implantados em lotes disponíveis na cidade de São Paulo. A construção formal do Gemini e a racionalização de sua construção revelam a metodologia de trabalho do arquiteto e a importância do sistema estrutural na concepção do projeto. Além de dar sustentação ao edifício, a estrutura portante tem papel fundamental na organização espacial e na formalização do objeto arquitetônico. Aliado a isso, a utilização de critérios de formação como rigor, precisão e economia de meios denotam a tectonicidade do conjunto. O objetivo do trabalho é elucidar a construção formal e os atributos visuais dessa obra, considerada expoente pela sua tipologia, construção e relação com a cidade. Ainda que concebido para a classe média, as estratégias projetuais adotadas no Gemini outorgam sua possibilidade de adaptação às mais diversas realidades e classes econômicas.'
   keywords:
   - Arquitetura moderna
   - Edifício Gemini
@@ -774,61 +919,77 @@ articles:
   - 'ARMESTO, Antonio. El aula sincrônica: Um ensaio sobre el análisis em ar- quitectura. Universitat Politécnica de Catalunya. Departamento de proyectos Arquitectónicos, 1993. Tese de doutorado.'
   - 'GUERRA, Abilio (org). Eduardo de Almeida. Arquiteto brasileiro contemporâ- neo. São Paulo: Romano Guerra Editora, 2006.'
   - 'IMBRONITO, Maria Isabel. Três edifícios de habitação para a Formaespaço: Modulares, Gemini e Protótipo. FAU-USP, 2003. Dissertação de mestrado.'
-  - MAHFUZ, Edson da Cunha. Reflexões sobre a construção da forma perti- nente (1). Arquitextos 045, 2004. Disponível em <http://www.vitruvius.com.br/ arquitextos/arq045/arq045_02.asp>. Acesso em maio de 2018.
+  - 'MAHFUZ, Edson da Cunha. Reflexões sobre a construção da forma perti- nente (1). Arquitextos 045, 2004. Disponível em <http://www.vitruvius.com.br/ arquitextos/arq045/arq045_02.asp>. Acesso em maio de 2018.'
   - 'PIÑÓN, Helio. La forma y la mirada. Buenos Aires: Nobuko, 2005.'
   - 348 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 349
-- id: sdsp06-022
-  title: 'Verticalização em São Paulo: novos modos de morar no centro'
+  locale: 'pt-BR'
+  file: 'sdsp06-021.pdf'
+  pages_count: 13
+  pages: '337-349'
+
+- id: 'sdsp06-022'
+  title: Verticalização em São Paulo
+  subtitle: novos modos de morar no centro
   authors:
   - givenname: Marcella França
     familyname: Fernandes
+    email: 'fernandes@exemplo.com'
     affiliation: ''
-    email: fernandes@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Aline Nassaralla
     familyname: Regino
+    email: 'regino@exemplo.com'
     affiliation: ''
-    email: regino@exemplo.com
+    orcid: '0000-0003-1242-8832'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 5 - Modos de morar: entre modos de habitar e modos de construir'
-  locale: pt-BR
-  file: sdsp06-022.pdf
-  pages_count: 17
-  pages: 350-366
-  abstract: A dissertação tem como tema principal o processo de verticalização na cidade de São Paulo, com foco no Centro, e seus novos modos de morar que surgiram entre as décadas de 1920 a 1960. O trabalho vai desde São Paulo nos séculos XIX para o século XX - fazendo uma breve contextualização da cidade - explicando como a capital passou de pequeno burgo a grande metrópole, até o processo de verticalização, que foi iniciado na década de 1920, e teve seu auge nas décadas de 1950 a 1960. É mostrado como a verticalização passou por várias fases, percorrendo predominantemente de caráter terciário, e após a aceitação da população, á caráter residencial.
+  section: 'Mesa 5 — Modos de morar: entre modos de habitar e modos de construir'
+  abstract: 'A dissertação tem como tema principal o processo de verticalização na cidade de São Paulo, com foco no Centro, e seus novos modos de morar que surgiram entre as décadas de 1920 a 1960. O trabalho vai desde São Paulo nos séculos XIX para o século XX - fazendo uma breve contextualização da cidade - explicando como a capital passou de pequeno burgo a grande metrópole, até o processo de verticalização, que foi iniciado na década de 1920, e teve seu auge nas décadas de 1950 a 1960. É mostrado como a verticalização passou por várias fases, percorrendo predominantemente de caráter terciário, e após a aceitação da população, á caráter residencial.'
   keywords:
   - Arquitetura Moderna
   - Morar Vertical
   - Apartamento
   references:
-  - FIGUEROA, Mario Arturo. Habitação coletiva e espaço urbano 1938-1972. Tese Doutorado - Arquitetura e Urbanismo, Universidade de São Paulo, 2002.
+  - 'FIGUEROA, Mario Arturo. Habitação coletiva e espaço urbano 1938-1972. Tese Doutorado - Arquitetura e Urbanismo, Universidade de São Paulo, 2002.'
   - 'HOMEM, Maria Cecília Naclério. A ascensão do imigrante e a verticalização de São Paulo: o prédio Martinelli e sua história. São Paulo: Editora Projeto, 1984.'
   - 'LEMOS, Carlos Alberto Cerqueira. Uma nova proposta de abordagem da história da arquitetura brasileira. Arquitextos, São Paulo, ano 12, n. 141.00, Vitruvius, fev. 2012 <http://www.vitruvius.com.br/revistas/read/arquitex- tos/12.141/4214>. Acesso em: 02/05/2017.'
   - 'OKANO, Taís Lie. Verticalização e Modernidade: São Paulo 1940 - 1957. Tese Mestrado - Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie, 2007.'
-  - PETRONE, Pasquale. A cidade de São Paulo no séc. XX. Revista de História
-  - USP. São Paulo. vol. 10, n. 21/22, 1955.
+  - 'PETRONE, Pasquale. A cidade de São Paulo no séc. XX. Revista de História'
+  - 'USP. São Paulo. vol. 10, n. 21/22, 1955.'
   - 'SOMEKH, Nadia. A cidade vertical e o urbanismo modernizador. São Paulo: Editora Mackenzie, Romano Guerra, 2014.'
-  - 'XAVIER, DeNise. Arquitetura Metropolitana. São Paulo: Editora Annablume, 2007.'
+  - 'XAVIER, Denise. Arquitetura Metropolitana. São Paulo: Editora Annablume, 2007.'
   - 364 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 365 366 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-023
-  title: 'O uso da abóbada na tipologia residencial: obras de Rodrigo Lefrève e Sérgio Ferro'
+  locale: 'pt-BR'
+  file: 'sdsp06-022.pdf'
+  pages_count: 17
+  pages: '350-366'
+
+- id: 'sdsp06-023'
+  title: O uso da abóbada na tipologia residencial
+  subtitle: obras de Rodrigo Lefèvre e Sérgio Ferro
   authors:
   - givenname: Matheus Gomes
     familyname: Chemello
+    email: 'chemello@exemplo.com'
     affiliation: ''
-    email: chemello@exemplo.com
+    orcid: '0000-0002-4177-0402'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Pauline Fonini
     familyname: Felin
+    email: 'felin@exemplo.com'
     affiliation: ''
-    email: felin@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 5 - Modos de morar: entre modos de habitar e modos de construir'
-  locale: pt-BR
-  file: sdsp06-023.pdf
-  pages_count: 16
-  pages: 367-382
-  abstract: Este artigo busca construir um comparativo entre cinco residências que apresentam o mesmo sistema construtivo, através do uso de abóbadas. O período de recorte abrange 1961 a 1972, quando dois arquitetos iniciaram as primeiras proposições estéticas e políticas em um grupo conhecido como Arquitetura Nova. Rodrigo Lefrève e Sérgio Ferro são os dois principais arquitetos destas residências. O panorama em que se inserem deixa clara uma reflexão crítica sobre o trabalho no canteiro de obras. Esse posicionamento repercute em uma série de exemplares que apresentam aproximações no que diz respeito a sua composição formal. Acredita-se que esta análise possa ampliar a abordagem até então conhecida, de forma a contribuir na historiografia daquele dado período histórico. O método de comparação possibilita observar a similaridade entre as residências, através de análise gráfica e textual. Os princípios de forma, espaço e ordem auxiliaram na interpretação e difusão de significados até então desapercebidos.
+  section: 'Mesa 5 — Modos de morar: entre modos de habitar e modos de construir'
+  abstract: 'Este artigo busca construir um comparativo entre cinco residências que apresentam o mesmo sistema construtivo, através do uso de abóbadas. O período de recorte abrange 1961 a 1972, quando dois arquitetos iniciaram as primeiras proposições estéticas e políticas em um grupo conhecido como Arquitetura Nova. Rodrigo Lefrève e Sérgio Ferro são os dois principais arquitetos destas residências. O panorama em que se inserem deixa clara uma reflexão crítica sobre o trabalho no canteiro de obras. Esse posicionamento repercute em uma série de exemplares que apresentam aproximações no que diz respeito a sua composição formal. Acredita-se que esta análise possa ampliar a abordagem até então conhecida, de forma a contribuir na historiografia daquele dado período histórico. O método de comparação possibilita observar a similaridade entre as residências, através de análise gráfica e textual. Os princípios de forma, espaço e ordem auxiliaram na interpretação e difusão de significados até então desapercebidos.'
   keywords:
   - Arquitetura Nova
   - Canteiro de obras
@@ -840,34 +1001,42 @@ articles:
   - 'FLETCHER, Bannister. A History of Architecture on Comparative Method. Lon- don: High Holborn, 1905.'
   - 'JOHNSON, Paul-Alan. The Theory of Architecture: concepts, themes and practices. Nova Iorque: Van Nostrand Reinhold, 1994.'
   - 'KOURY, Ana Paula. Arquitetura Nova. São Paulo: Edusp, 2015.'
-  - ROBERTSON, D.S. Arquitetura Grega e Romana. São Paulo, Martins Fontes, 1997
+  - 'ROBERTSON, D.S. Arquitetura Grega e Romana. São Paulo, Martins Fontes, 1997'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Uni- versidade de São Paulo, 1997.'
   - 'TAFURI, Manfredo. Architecture and utopia: design and capitalist develop- ment. Massachusetts Institute of Technology: The Colonial Press, 1976.'
   - 'VITRUVIUS, Pollio. Vitrúvio: Tratado de Arquitetura. São Paulo: Martins Fontes, 2007'
   - 'WAISMAN, Marina. O Interior da História: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.'
-  - ZEVI, Bruno. Saber Ver a Arquitetura. São Paulo, Martins Fontes, 1996.
+  - 'ZEVI, Bruno. Saber Ver a Arquitetura. São Paulo, Martins Fontes, 1996.'
   - 'SEMPER, Gottfried. The four elements of architecture: a contribution to the comparative study of architecture. In: SEMPER, Gottfried. The four elements of architecture and other writings. Cambridge; Nova York: Cambridge Univer- sity Press, 1989.'
   - 'LINO, Sulamita Fonseca. A Obra de Eládio Dieste: flexibilidade e autono- mia na produção arquitetônica. Arquitextos, São Paulo, ano 08, n. 096.04, maio 2008. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitex- tos/08.096/142. Acesso em: 20 jun. 2018.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 381 382 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-024
-  title: 'Arquitetura Moderna em diálogo: Jorge Caron e Luiz Gastão de Castro Lima'
+  locale: 'pt-BR'
+  file: 'sdsp06-023.pdf'
+  pages_count: 16
+  pages: '367-382'
+
+- id: 'sdsp06-024'
+  title: Arquitetura Moderna em diálogo
+  subtitle: Jorge Caron e Luiz Gastão de Castro Lima
   authors:
   - givenname: Amanda Saba
     familyname: Ruggiero
+    email: 'ruggiero@exemplo.com'
     affiliation: ''
-    email: ruggiero@exemplo.com
+    orcid: '0000-0001-8483-0359'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Cristiane Kröhling Pinheiro Borges
     familyname: Bernardi
+    email: 'bernardi@exemplo.com'
     affiliation: ''
-    email: bernardi@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 6 - Modos de usar a cidade: espaços educacionais universitários'
-  locale: pt-BR
-  file: sdsp06-024.pdf
-  pages_count: 17
-  pages: 384-400
-  abstract: Luiz Gastão de Castro Lima (1927/2003) e Jorge Oswaldo Caron (1936/2000), arquitetos formados pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP), o primeiro graduado na segunda turma em 1954 e o segundo em 1965, tiveram atuação importante no interior de São Paulo entre as décadas de 1960 a 1990, tanto na proposição de projetos como professores e protagonistas na formação de arquitetos e urbanistas. Ambos compartilharam ideais e princípios comuns, acreditavam na função social do arquiteto, participaram ativamente do canteiro de obras em proposições e experiências construtivas, eram sensíveis às manifestações artísticas e musicais, elaboraram cursos de design, tecnologia e dedicaram-se profundamente à formação de jovens arquitetos. O artigo a seguir, seleciona os projetos de Castro Lima e Jorge Caron referente aos campi universitários de São Carlos, Piracicaba e Botucatu, e debate as diferentes materialidades e processos construtivos empregados, tendo a economia de recursos financeiros e o tempo como premissas comuns, sem comprometer a qualidade dos espaços resultantes. Ambos contribuíram com seus ideais para a construção do espaço público e para a produção do conhecimento, compreendendo o campus universitário como locus privilegiado para o aprendizado e a formação humana.
+  section: 'Mesa 6 — Modos de usar a cidade: espaços educacionais universitários'
+  abstract: 'Luiz Gastão de Castro Lima (1927/2003) e Jorge Oswaldo Caron (1936/2000), arquitetos formados pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP), o primeiro graduado na segunda turma em 1954 e o segundo em 1965, tiveram atuação importante no interior de São Paulo entre as décadas de 1960 a 1990, tanto na proposição de projetos como professores e protagonistas na formação de arquitetos e urbanistas. Ambos compartilharam ideais e princípios comuns, acreditavam na função social do arquiteto, participaram ativamente do canteiro de obras em proposições e experiências construtivas, eram sensíveis às manifestações artísticas e musicais, elaboraram cursos de design, tecnologia e dedicaram-se profundamente à formação de jovens arquitetos. O artigo a seguir, seleciona os projetos de Castro Lima e Jorge Caron referente aos campi universitários de São Carlos, Piracicaba e Botucatu, e debate as diferentes materialidades e processos construtivos empregados, tendo a economia de recursos financeiros e o tempo como premissas comuns, sem comprometer a qualidade dos espaços resultantes. Ambos contribuíram com seus ideais para a construção do espaço público e para a produção do conhecimento, compreendendo o campus universitário como locus privilegiado para o aprendizado e a formação humana.'
   keywords:
   - Campi Universitário
   - Arquitetura paulista
@@ -878,41 +1047,51 @@ articles:
   - 'RUGGIERO, Amanda Saba. Retratos e memórias do arquiteto Jorge O. Ca- ron. Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online), São Carlos, n. 22, p. 6-21, dec. 2016. ISSN 1984-4506. Disponível em: <http:// www.revistas.usp.br/risco/article/view/124568>. Acesso em: 27 june 2018. doi:http://dx.doi.org/10.11606/issn.1984-4506.v0i22p6-21.'
   - 'BERGDOLL, B. Comas, Carlos E.; Liernur, Jorge F.; Del Real, Patricio. Latin America in Construction: Architecture 1955-1980. Nova York, MoMA. 2015.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 397 (p.23)
-  - CARON, Jorge. Acrópole. São Paulo, ano 33, n.385. 1971.
+  - 'CARON, Jorge. Acrópole. São Paulo, ano 33, n.385. 1971.'
   - 'FUJIOKA, Paulo Y. Princípios da Arquitetura Organicista de Frank Lloyd Wri- ght e suas influências na Arquitetura Moderna Paulistana. Tese de Doutora- do. São Paulo: Programa de Pós-Graduação em Arquitetura e Urbanismo da'
-  - FAUUSP, 2004, p. 160- 167 e p. 181-246.
+  - 'FAUUSP, 2004, p. 160- 167 e p. 181-246.'
   - 'FUJIOKA, P. Y.. Natureza, Arqueologia e Romantismo: Influência Romântica na Obra de Frank Lloyd Wright. Risco (São Carlos), v. 1, p. 4-21, 2008.'
-  - FUJIOKA, Paulo Y. ; ANELLI, Renato L.S ; BERNARDI, Cristiane. K. P. B.; FO-
+  - 'FUJIOKA, Paulo Y. ; ANELLI, Renato L.S ; BERNARDI, Cristiane. K. P. B.; FO-'
   - 'RESTI, Débora F. . Duas Igrejas Organicistas - Influência de Frank Lloyd Wri- ght na Arquitetura Moderna Religiosa de São Paulo. In: DOCOMOMO Brasil, 2011, Brasília - Distrito Federal. 9º Seminário DOCOMOMO Brasil Interdisci- plinaridade e experiências em documentação e preservação do patrimônio recente, 2011.'
   - 'IAB. INSTITUTO DOS ARQUITETOS DO BRASIL – São Paulo. Arquitetura e desenvolvimento nacional: depoimentos de arquitetos paulistas. Pini, São Paulo, 1979.'
-  - LIMA, Luiz Gastão de Castro; CARON, Jorge. Aula Prof. Gastão e Prof. Ca- ron. EESC-USP. Aula gravada em vídeo. CEDOC. EESC-USP. s/d (data pro- vável:1997)
+  - 'LIMA, Luiz Gastão de Castro; CARON, Jorge. Aula Prof. Gastão e Prof. Ca- ron. EESC-USP. Aula gravada em vídeo. CEDOC. EESC-USP. s/d (data pro- vável:1997)'
   - 'SEGAWA, H. Arquiteturas no Brasil – 1900-1990. São Paulo: EDUSP, 1998'
   - 'VIDOTTO, T. C. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no Estado de São Paulo: 1948 - 1962. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Engenharia Civil, Arquitetura e Urbanismo, Unicamp, Campinas, 2014.'
   - 398 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 399 400 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-025
-  title: O edifício da FAU-USP – projeto e discurso dos vazios
+  locale: 'pt-BR'
+  file: 'sdsp06-024.pdf'
+  pages_count: 17
+  pages: '384-400'
+
+- id: 'sdsp06-025'
+  title: 'O edifício da FAU-USP – projeto e discurso dos vazios'
   authors:
   - givenname: Bárbara Cardoso
     familyname: Garcia
+    email: 'garcia@exemplo.com'
     affiliation: ''
-    email: garcia@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Lucas
     familyname: Barros
+    email: 'barros@exemplo.com'
     affiliation: ''
-    email: barros@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Maíra
     familyname: Baltrush
+    email: 'baltrush@exemplo.com'
     affiliation: ''
-    email: baltrush@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 6 - Modos de usar a cidade: espaços educacionais universitários'
-  locale: pt-BR
-  file: sdsp06-025.pdf
-  pages_count: 15
-  pages: 401-415
-  abstract: O edifício da FAU-USP é consagrado pela historiografia da arquitetura moderna paulista como obra que demonstra o potencial transformador dos espaços. Procuramos refletir sobre essa questão discursiva que enfatiza a dimensão social do projeto de Vilanova Artigas analisando interpretações oferecidas sobre o grande vazio existente no centro do edifício citado, relacionando-o com as táticas projetuais aplicadas que reverberam e corroboram tais interpretações, embasadas pela conhecida atuação multidisciplinar e politicamente engajada do arquiteto. Demonstramos graficamente, fazendo uso de croquis diagramáticos, uma sequência de manipulação da volumetria e dos espaços da FAU-USP para análise das estratégias de projeto e do resultado obtido.
+  section: 'Mesa 6 — Modos de usar a cidade: espaços educacionais universitários'
+  abstract: 'O edifício da FAU-USP é consagrado pela historiografia da arquitetura moderna paulista como obra que demonstra o potencial transformador dos espaços. Procuramos refletir sobre essa questão discursiva que enfatiza a dimensão social do projeto de Vilanova Artigas analisando interpretações oferecidas sobre o grande vazio existente no centro do edifício citado, relacionando-o com as táticas projetuais aplicadas que reverberam e corroboram tais interpretações, embasadas pela conhecida atuação multidisciplinar e politicamente engajada do arquiteto. Demonstramos graficamente, fazendo uso de croquis diagramáticos, uma sequência de manipulação da volumetria e dos espaços da FAU-USP para análise das estratégias de projeto e do resultado obtido.'
   keywords:
   - Análise gráfica
   - Estratégias projetuais
@@ -923,7 +1102,7 @@ articles:
   - 'CAMARGO, Mônica Junqueira de. “O edifício da FAU-USP e o PAGE”. In:'
   - 'BAROSSI, Antonio Carlos (Org.). O edifício da FAU-USP de Vilanova Artigas. São Paulo: Editora da Cidade, 2016. pp. 107-115.'
   - 'CONTIER, Felipe de Araújo. “Breve Crônica da FAU-USP”. In: BAROSSI, An- tonio Carlos (Org.). O edifício da FAU-USP de Vilanova Artigas. São Paulo: Editora da Cidade, 2016.pp. 103-106.'
-  - GUERRA, Abilio. FAU USP, Cidade Universitária, um projeto de Vilanova Ar-
+  - 'GUERRA, Abilio. FAU USP, Cidade Universitária, um projeto de Vilanova Ar-'
   - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 413 tigas e Carlos Cascaldi. Extrato de “Viver na Floresta”. Arquiteturismo, São Paulo, ano 09, n. 102.02, Vitruvius, set. 2015. Disponível em: <http://www. vitruvius.com.br/revistas/read/arquiteturismo/09.102/5677> Acesso em: 21 nov. 2017.'
   - 'KAMITA, João Masao. Vilanova Artigas. São Paulo: Cosac Naify, 2000.'
   - 'MOTA, Carlos Guilherme; ROLIM, Mariana de Souza. “Arquitetura e utopia: o tempo e as ideologias em torno de Artigas”. In: BAROSSI, Antonio Carlos (Org.). O edifício da FAU-USP de Vilanova Artigas. São Paulo: Editora da Cidade, 2016. pp. 158-160.'
@@ -933,33 +1112,43 @@ articles:
   - 'REVISTA MONOLITO. São Paulo: Monolito, n. 27, 2015.'
   - 'SILVA, Joana Mello de Carvalho e. “Arquiteto, militante político e professor”. In: BAROSSI, Antonio Carlos (Org.). O edifício da FAU-USP de Vilanova Arti- gas. São Paulo: Editora da Cidade, 2016. pp. 143-148.'
   - 'THOMAZ, Dalva. “O prédio da FAU-USP numa perspectiva histórica da ar- quitetura brasileira”. In: BAROSSI, Antonio Carlos (Org.). O edifício da FAU- -USP de Vilanova Artigas. São Paulo: Editora da Cidade, 2016. pp. 161-163.'
-  - WEBER, Raquel. A linguagem da estrutura na obra de Vilanova Artigas. 2005. Dissertação (Mestrado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.
-  - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Tese (Doutorado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.
+  - 'WEBER, Raquel. A linguagem da estrutura na obra de Vilanova Artigas. 2005. Dissertação (Mestrado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.'
+  - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Tese (Doutorado em Arquitetura e Urbanismo) - UFRGS, Porto Alegre, 2005.'
   - 414 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 415
-- id: sdsp06-026
+  locale: 'pt-BR'
+  file: 'sdsp06-025.pdf'
+  pages_count: 15
+  pages: '401-415'
+
+- id: 'sdsp06-026'
   title: O edifício da universidade São Judas Tadeu
   authors:
   - givenname: Eneida de
     familyname: Almeida
+    email: 'almeida@exemplo.com'
     affiliation: ''
-    email: almeida@exemplo.com
+    orcid: '0000-0001-9773-5289'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Maria Isabel
     familyname: Imbronito
+    email: 'imbronito@exemplo.com'
     affiliation: ''
-    email: imbronito@exemplo.com
+    orcid: '0000-0001-7394-3809'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Paula de Vicenzo Fidelis Belfort
     familyname: Mattos
+    email: 'mattos@exemplo.com'
     affiliation: ''
-    email: mattos@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 6 - Modos de usar a cidade: espaços educacionais universitários'
-  locale: pt-BR
-  file: sdsp06-026.pdf
-  pages_count: 17
-  pages: 416-432
-  abstract: O objeto deste trabalho é o edifício da Universidade São Judas Tadeu, projetado por Shieh Shueh Yau e Maria Zarria Uehbe Dubena na década de 1980, situado no bairro da Mooca, São Paulo. A leitura proposta para o edifício considera a condição atual do complexo e contrapõe dois modos distintos e sobrepostos de conceber e agir sobre o espaço. O primeiro diz respeito à racionalidade presente desde a concepção do edifício, aportando características do movimento moderno que sustentam o arcabouço principal do edifício. O segundo diz respeito às práticas contemporâneas de ação no espaço. Indícios desses dois princípios são encontrados no edifício em sua condição atual. Nossas análises evidenciam as diferenças de abordagem sobre o projeto de arquitetura, e em que medida essas abordagens se contrariam e se complementam.
+  section: 'Mesa 6 — Modos de usar a cidade: espaços educacionais universitários'
+  abstract: 'O objeto deste trabalho é o edifício da Universidade São Judas Tadeu, projetado por Shieh Shueh Yau e Maria Zarria Uehbe Dubena na década de 1980, situado no bairro da Mooca, São Paulo. A leitura proposta para o edifício considera a condição atual do complexo e contrapõe dois modos distintos e sobrepostos de conceber e agir sobre o espaço. O primeiro diz respeito à racionalidade presente desde a concepção do edifício, aportando características do movimento moderno que sustentam o arcabouço principal do edifício. O segundo diz respeito às práticas contemporâneas de ação no espaço. Indícios desses dois princípios são encontrados no edifício em sua condição atual. Nossas análises evidenciam as diferenças de abordagem sobre o projeto de arquitetura, e em que medida essas abordagens se contrariam e se complementam.'
   keywords:
   - Arquitetura Procedimento de projeto
   - Moderna
@@ -971,30 +1160,40 @@ articles:
   - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 2009.'
   - 'LYOTARD, J.F. A condição pós-moderna. Rio de Janeiro: José Olympio, 2009.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 431 432 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-027
+  locale: 'pt-BR'
+  file: 'sdsp06-026.pdf'
+  pages_count: 17
+  pages: '416-432'
+
+- id: 'sdsp06-027'
   title: O edifício da FAU Santos (1973 – 1976)
   authors:
   - givenname: Taiana Car
     familyname: Vidotto
+    email: 'vidotto@exemplo.com'
     affiliation: ''
-    email: vidotto@exemplo.com
+    orcid: '0000-0002-7498-3789'
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Ana Maria Reis de Goes
+  - givenname: Ana Maria Reis de Góes
     familyname: Monteiro
+    email: 'monteiro@exemplo.com'
     affiliation: ''
-    email: monteiro@exemplo.com
+    orcid: '0000-0001-7345-9558'
+    bio: null
+    country: BR
     primary_contact: false
   - givenname: Fernando Shigueo
     familyname: Nakandakare
+    email: 'nakandakare@exemplo.com'
     affiliation: ''
-    email: nakandakare@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 6 - Modos de usar a cidade: espaços educacionais universitários'
-  locale: pt-BR
-  file: sdsp06-027.pdf
-  pages_count: 16
-  pages: 433-448
-  abstract: Por meio dos desenhos consultados no acervo da Faculdade de Arquitetura e Urbanismo das Faculdades Católicas de Santos (FAUS) e redesenhados, objetiva-se identificar o projeto do edifício da FAUS em meio as duas versões encontradas no arquivo da Faculdade uma delas de autoria de Michael Leiders e outra de Oswaldo Corrêa Gonçalves, provavelmente resultante da instalação da Faculdade de Serviço Social no edifício. Como pressuposto, os projetos foram adotados como documentos que revelam registros, contribuindo à pesquisa da profissão do arquiteto e ao reconhecimento de nuances que permeiam a historiografia da arquitetura modernista. Identificou-se nos desenhos elementos provenientes das mudanças no ensino superior de arquitetura; das transformações na profissão do arquiteto; e dos contrastes entre as obras da arquitetura modernista canonizadas pela historiografia e aquelas que de forma dialética buscaram responder a restrições técnicas, programáticas, econômicas e legislativas do seu contexto local. Dessa forma, reconhecer as características de uma obra como a FAUS, contribui ao reconhecimento de projetos e arquitetos em meio a disseminação da profissão do arquiteto e da arquitetura modernista na década de 1970, bem como do ensino de arquitetura e urbanismo.
+  section: 'Mesa 6 — Modos de usar a cidade: espaços educacionais universitários'
+  abstract: 'Por meio dos desenhos consultados no acervo da Faculdade de Arquitetura e Urbanismo das Faculdades Católicas de Santos (FAUS) e redesenhados, objetiva-se identificar o projeto do edifício da FAUS em meio as duas versões encontradas no arquivo da Faculdade uma delas de autoria de Michael Leiders e outra de Oswaldo Corrêa Gonçalves, provavelmente resultante da instalação da Faculdade de Serviço Social no edifício. Como pressuposto, os projetos foram adotados como documentos que revelam registros, contribuindo à pesquisa da profissão do arquiteto e ao reconhecimento de nuances que permeiam a historiografia da arquitetura modernista. Identificou-se nos desenhos elementos provenientes das mudanças no ensino superior de arquitetura; das transformações na profissão do arquiteto; e dos contrastes entre as obras da arquitetura modernista canonizadas pela historiografia e aquelas que de forma dialética buscaram responder a restrições técnicas, programáticas, econômicas e legislativas do seu contexto local. Dessa forma, reconhecer as características de uma obra como a FAUS, contribui ao reconhecimento de projetos e arquitetos em meio a disseminação da profissão do arquiteto e da arquitetura modernista na década de 1970, bem como do ensino de arquitetura e urbanismo.'
   keywords:
   - Arquitetura Moderna
   - Ensino de Arquitetura e Urbanismo
@@ -1003,29 +1202,33 @@ articles:
   - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: Arquiteturas após 1950. São Paulo: Editora Perspectiva, 2011.'
   - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981.'
   - 'FICHER, Sylvia. Os Arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo: EDUSP – Editora da Universidade de São Paulo, 2005.'
-  - FORTIS, Sergio Novita. A formação do arquiteto na Faculdade de Arquitetura e Urbanismo da UNISANTOS – Universidade Católica de Santos – trajetória, organização curricular e condições de funcionamento no período de 1970 a 2003. Dissertação (Mestrado em Educação). Universidade Católica de San- tos, Santos, 2004.
+  - 'FORTIS, Sergio Novita. A formação do arquiteto na Faculdade de Arquitetura e Urbanismo da UNISANTOS – Universidade Católica de Santos – trajetória, organização curricular e condições de funcionamento no período de 1970 a 2003. Dissertação (Mestrado em Educação). Universidade Católica de San- tos, Santos, 2004.'
   - 'LE GOFF, Jacques. História e Memória. 7a edição. Campinas: Editora Uni- camp, 2013.'
-  - MONTENEGRO FILHO, Roberto Alves de Lima. Pré-Fabricação na trajetória de Eduardo de Kneese de Mello. Tese (Doutorado em História e Fundamen- tos da Arquitetura e do Urbanismo). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2012.
+  - 'MONTENEGRO FILHO, Roberto Alves de Lima. Pré-Fabricação na trajetória de Eduardo de Kneese de Mello. Tese (Doutorado em História e Fundamen- tos da Arquitetura e do Urbanismo). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2012.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 445
   - 'OLIVEIRA, Eliane Rodrigues de. A contribuição de Oswaldo Corrêa Gonçal- ves para a arquitetura moderna brasileira. Dissertação (Mestrado em Tecno- logia do Ambiente Construído). Escola de Engenharia de São Carlos, Univer- sidade de São Paulo, São Carlos, 2000. OSWALDO Correa Gonçalves. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileiras. São Paulo: Itaú Cultural, 2018. Disponível em: http:// enciclopedia.itaucultural.org.br/pessoa345742/oswaldo-correa-goncalves. Acesso em: 21 de Maio 2018. PARECER No 384/69. Currículo Mínimo de Arquitetura de 1969. In: Kelly, C. Sobre a história do ensino de arquitetura no Brasil, São Paulo: Associação Brasileira de Escolas de Arquitetura, 1, 1978. p. 71-75.'
   - 'PUPPI, Marcelo. Por uma história não moderna da arquitetura brasileira. Campinas: Editora Pontes, 1ª edição, 1998.'
   - 'SANTOS JUNIOR, Wilson Ribeiro dos. O currículo mínimo no ensino de arqui- tetura e urbanismo no Brasil: 1969 – 1994. Tese (Doutorado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2001.'
   - 'SILVA, Joana Mello de Carvalho e. Um acervo, uma coleção e três problemas: a Coleção Jacques Pilon da Biblioteca da FAUUSP. Anais do Museu Paulista, São Paulo, v. 24, n. 3, p. 45-70, Dec. 2016. Disponível em: http://www.scielo.br/scie- lo.php?script=sci_arttext&pid=S0101-47142016000300045&lng=en&nrm=i- so. Acesso em: 21 Maio 2018.'
-  - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 193-1973. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Univer- sidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
+  - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 193-1973. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Univer- sidade Federal do Rio Grande do Sul, Porto Alegre, 2005.'
   - 446 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 447 448 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-028
+  locale: 'pt-BR'
+  file: 'sdsp06-027.pdf'
+  pages_count: 16
+  pages: '433-448'
+
+- id: 'sdsp06-028'
   title: A qualidade espacial nas áreas comunitárias de dois conjuntos habitacionais
   authors:
   - givenname: Isadora Finoketti
     familyname: Malicheski
+    email: 'malicheski@exemplo.com'
     affiliation: ''
-    email: malicheski@exemplo.com
+    orcid: '0000-0001-7881-0626'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 7 - Modos de usar a cidade: espaços da coletividade'
-  locale: pt-BR
-  file: sdsp06-028.pdf
-  pages_count: 13
-  pages: 450-462
+  section: 'Mesa 7 — Modos de usar a cidade: espaços da coletividade'
   abstract: 'Este artigo pretende abordar a qualidade espacial das áreas comuns de dois conjuntos de habitação coletiva econômica moderna: o Conjunto Habitacional Zezinho Magalhães Prado (Parque Cecap) e o Conjunto Habitacional do Cafundá (Mirante da Taquara), traçando um comparativo entre as espacialidades identificadas nos mesmos. Os conjuntos foram escolhidos principalmente pelas diferenças de configurações espaciais existente entre eles apesar de pertencerem praticamente ao mesmo período arquitetônico e de construção, de modo a enriquecer o paralelo realizado. A análise comparativa busca verificar, através da apreciação dos projetos arquitetônicos e imagens, os componentes que caracterizem o tratamento dado aos espaços comunitários e elementos que definam sua espacialidade, como a integração espacial, configuração espacial, setorização dos usos, áreas verdes, tipologia dos edifícios e circulações, a fim de determinar as diferentes performances espaciais obtidas em ambos os casos. Através destes estudos de caso, espera-se que o artigo traga subsídios para a discussão da qualidade espacial em habitações coletivas econômicas de arquitetura moderna e contribua na formação de um acervo de conhecimentos acerca do tema.'
   keywords:
   - Habitação coletiva
@@ -1039,40 +1242,45 @@ articles:
   - 'HILLIER, Bill; HANSON, Julienne. The Social Logic of Space. Cambridge: Cambridge University Press, 1984.'
   - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Editora Perspectiva, 1977, 2ª ed.'
   - 'LYNCH, Kevin. The Image of City. Cambridge: MIT Press, 1960.'
-  - SANVITTO, Maria Luiza Adams. Habitação coletiva econômica na arquitetura moderna brasileira entre 1964 e 1986. Tese (Doutorado em Arquitetura) – Fa- culdade de Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010.
+  - 'SANVITTO, Maria Luiza Adams. Habitação coletiva econômica na arquitetura moderna brasileira entre 1964 e 1986. Tese (Doutorado em Arquitetura) – Fa- culdade de Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010.'
   - 462 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-029
-  title: 'O Parque Ibirapuera: monumentalidade e Modernismo'
+  locale: 'pt-BR'
+  file: 'sdsp06-028.pdf'
+  pages_count: 13
+  pages: '450-462'
+
+- id: 'sdsp06-029'
+  title: O Parque Ibirapuera
+  subtitle: monumentalidade e Modernismo
   authors:
   - givenname: Ivan Souza
     familyname: Vieira
+    email: 'vieira@exemplo.com'
     affiliation: ''
-    email: vieira@exemplo.com
+    orcid: '0000-0003-4719-0668'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 7 - Modos de usar a cidade: espaços da coletividade'
-  locale: pt-BR
-  file: sdsp06-029.pdf
-  pages_count: 15
-  pages: 463-477
+  section: 'Mesa 7 — Modos de usar a cidade: espaços da coletividade'
   abstract: 'O presente artigo tem como objetivo proporcionar uma reflexão acerca da monumentalidade e a sua representação no modernismo brasileiro, com destaque para um dos mais representativos empreendimentos urbanísticos do período: o Parque Ibirapuera, em São Paulo. A partir da análise teórico-conceitual e de documentos históricos, buscamos compreender de que forma a monumentalidade, enquanto prática urbana e dimensão simbólica, é captada e utilizada pelos arquitetos e urbanistas modernistas, sobretudo no que diz respeito aos projetos de grandes parques urbanos. Partimos da noção de monumentalidade enquanto produto de um centro de poder que busca a sua perpetuação no espaço-tempo através do espetáculo e da grandiosidade. Trata-se, de modo geral, de transformação do poder em obra urbanística ou arquitetônica.'
   keywords:
   - Monumental
   - Urbanismo moderno
   - Parque urbano
   references:
-  - “A Comissão do IV Centenário – Ao Povo de São Paulo”. Jornal O Estado de S. Paulo, 13 de julho de 1952. “A presença luminosa da Philips”. Revista O Cruzeiro. Rio de Janeiro, ed. 16, 18.09.1954, p. 79. “Alguns dados interessantes acerca das obras do Parque Ibirapuera”. Cor- reio da Manhã, 21 de agosto de 1954. “Inaugura-se hoje, em São Paulo, a exposição do IV Centenário”. Correio da Manhã, 21 de agosto de 1954.
-  - BARONE, Ana Cláudia Castilho. A oposição aos pavilhões do parque Ibira- puera (1950-1954). Anais do Museu Paulista. São Paulo, N. Sér. v.17. n.2., jul.- dez. 2009, p. 295-316.
+  - '“A Comissão do IV Centenário – Ao Povo de São Paulo”. Jornal O Estado de S. Paulo, 13 de julho de 1952. “A presença luminosa da Philips”. Revista O Cruzeiro. Rio de Janeiro, ed. 16, 18.09.1954, p. 79. “Alguns dados interessantes acerca das obras do Parque Ibirapuera”. Cor- reio da Manhã, 21 de agosto de 1954. “Inaugura-se hoje, em São Paulo, a exposição do IV Centenário”. Correio da Manhã, 21 de agosto de 1954.'
+  - 'BARONE, Ana Cláudia Castilho. A oposição aos pavilhões do parque Ibira- puera (1950-1954). Anais do Museu Paulista. São Paulo, N. Sér. v.17. n.2., jul.- dez. 2009, p. 295-316.'
   - 'BARONE, Ana Cláudia Castilho. Ibirapuera: parque metropolitano (1926- 1954). Tese de doutorado - Faculdade de Arquitetura e Urbanismo da Uni- versidade de São Paulo. São Paulo, 2007.'
-  - COMISSÃO DO IV CENTENÁRIO DA CIDADE DE SÃO PAULO. Solicita provi- dências urgentes junto aos Arquitetos e Oscar Niemeyer e Outros, no sentido de apresentarem o projeto da Entrada Monumental do Parque Ibirapuera. Ar- quivo Histórico Municipal de São Paulo; Fundo do IV Centenário. São Paulo, 11 de setembro de 1953.
+  - 'COMISSÃO DO IV CENTENÁRIO DA CIDADE DE SÃO PAULO. Solicita provi- dências urgentes junto aos Arquitetos e Oscar Niemeyer e Outros, no sentido de apresentarem o projeto da Entrada Monumental do Parque Ibirapuera. Ar- quivo Histórico Municipal de São Paulo; Fundo do IV Centenário. São Paulo, 11 de setembro de 1953.'
   - 'COSTA, Lucio. “A nossa arquitetura moderna: oportunidade perdida”. Revista Manchete. Rio de Janeiro, jul. 1953. In: XAVIER, op. cit., 1962, pp. 252-259.'
-  - DIERBERGER, Reynaldo. O Parque Municipal do Ibirapuera, em São Paulo. Revista Architectura e Construções. ,jun., v.1, n. 11, 1930, p. 34.
+  - 'DIERBERGER, Reynaldo. O Parque Municipal do Ibirapuera, em São Paulo. Revista Architectura e Construções. ,jun., v.1, n. 11, 1930, p. 34.'
   - 'FARIAS, Nuri. Oca. Galeria da Arquitetura, 2016. Disponível em: https://www. galeriadaarquitetura.com.br/projeto.aspx?idProject=2511&escritorio=mm-'
   - '474 6º SEMINÁRIO SP DOCOMOMO bb-arquitetos_&projeto=oca. Acesso em: 24 mar 2018.'
-  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Pavilhão Ciccillo Matarazzo / Oscar Niemeyer. Arch daily, 2011. Disponivel em: https://www.archdaily.com. br/br/01-14551/classicos-da-arquitetura-pavilhao-ciccillo-matarazzo-oscar- -Niemeyer. Acesso em: 24 mar. 2018.'
+  - 'FRACALOSSI, Igor. Clássicos da Arquitetura: Pavilhão Ciccillo Matarazzo / Oscar Niemeyer. Arch daily, 2011. Disponivel em: https://www.archdaily.com. br/br/01-14551/classicos-da-arquitetura-pavilhao-ciccillo-matarazzo-oscar- -niemeyer. Acesso em: 24 mar. 2018.'
   - 'FREITAS, Pedro Murilo Gonçalves de; TIRELLO, Regina Andrade. Recupera- ção do Palácio da Agricultura de Oscar Niemeyer: uma obra entre os previs- tos “imprevistos” do patrimônio moderno. Oculum Ensaios, Campinas, 10(1), Janeiro-Junho 2013, p. 87-98.'
   - 'HIRATA, Elaine Farias Veloso. Monumentalidade e representações do poder tirânico no Ocidente grego. in: CORNELLI, Gabriele (org.). Representações da cidade antiga: categorias históricas e discursos filosóficos. Coimbra: Im- prensa da Universidade de Coimbra, 2012. IV CENTENÁRIO da Fundação de São Paulo: O parque Ibirapuera. _ Revista do Instituto de Engenharia_. São Paulo: Vol.XI, n.131 jun. 1953, p.392-393.'
   - 'MACEDO, Wesley; ESCOBAR, Miriam. A concretização da imagem do IV Centenário da cidade de São Paulo: o Parque do Ibirapuera. Arquitextos. São Paulo, ano 05, n. 057.11, Vitruvius, fev. 2005. Disponível em: http://www.vitru- vius.com.br/revistas/read/arquitextos/05.057/507. Acesso em: 18 mar 2018.'
-  - NEVES, Christiano Stocker. Parecer referente ao plano de urbanização do Parque Ibirapuera, elaborado pela Prefeitura da Capital. Arquivo Histórico Municipal de São Paulo; Fundo do IV Centenário. São Paulo, 11 de setembro de 1951.
+  - 'NEVES, Christiano Stocker. Parecer referente ao plano de urbanização do Parque Ibirapuera, elaborado pela Prefeitura da Capital. Arquivo Histórico Municipal de São Paulo; Fundo do IV Centenário. São Paulo, 11 de setembro de 1951.'
   - 'NIEMEYER, Oscar. Minha Arquitetura. Rio de Janeiro: Revan, 3ª edição, 2000.'
   - 'OLIVEIRA, Fabiano Lemes de. Modelos urbanísticos modernos e parques urbanos: as relações entre urbanismo e paisagismo em São Paulo na pri- meira metade do século XX. Tese de doutorado - Universitat Politécnica de Catalunya / UPC. Barcelona, 2008.'
   - 'OLIVEIRA, Fabiano Lemes de. O nascimento da ideia de parque urbano e do urbanismo modernos em São Paulo. Arquitextos, São Paulo, ano 10, n. 120.03, Vitruvius, maio 2010. Disponível em: http://www.vitruvius.com.br/re- vistas/read/arquitextos/10.120/3433. Acesso em: 18 mar. 2018.'
@@ -1080,31 +1288,36 @@ articles:
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 475
   - 'POLIZZO, Ana Paulo. A estética moderna da paisagem: a poética de Rober- to Burle Marx. Dissertação de mestrado - Pontifícia Universidade Católica do Rio de Janeiro. Rio de Janeiro, 2010. Resolução da Secretaria de Cultura 01/92, de 18/12/92, publicada no DOE 19/12/92, p. 24. Resolução nº 06/97 de 18 de dezembro de 1997, do Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo.'
   - 'ROCHA, Ricardo. Por uma nova monumentalidade. O Monumento Nacional aos Mortos na Segunda Guerra Mundial no Rio de Janeiro. Arquitextos, São Paulo, ano 12, n. 136.04, Vitruvius, set. 2011. Disponível em: http://www.vitru- vius.com.br/revistas/read/arquitextos/12.136/4040. Acesso em: 18 mar. 2018.'
-  - RODRIGUES, Cristiane Moreira. Cidade, monumentalidade e poder. Geogra- phia, v. 3, n.6, 2001.
+  - 'RODRIGUES, Cristiane Moreira. Cidade, monumentalidade e poder. Geogra- phia, v. 3, n.6, 2001.'
   - 'RODRIGUES, Cristiane Moreira. O Rio de Janeiro no século XIX: a busca pela cidade-monumento brasileira. In: ABREU, Maurício de Almeida de (org.). Rio de Janeiro: formas, movimentos, representações: estudos de geografia his- tórica carioca. Rio de Janeiro: Da Fonseca Comunicação, 2005.'
   - 'SERT, J. L.; LEGER, F.; GIEDION, S. Nine points of monumentality. In: GIE-'
   - 'DION, S. Architecture you and me. Cambridge: Harvard University Press, Massachusetts, 1943.'
   - 476 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 477
-- id: sdsp06-030
-  title: 'Clubes privados, desenho e cidade dos anos 1960: o caso da sociedade Harmonia de Tênis em São Paulo'
+  locale: 'pt-BR'
+  file: 'sdsp06-029.pdf'
+  pages_count: 15
+  pages: '463-477'
+
+- id: 'sdsp06-030'
+  title: 'Clubes privados, desenho e cidade dos anos 1960'
+  subtitle: o caso da sociedade harmonia de tênis em São Paulo
   authors:
   - givenname: Victor
     familyname: Próspero
+    email: 'próspero@exemplo.com'
     affiliation: ''
-    email: próspero@exemplo.com
+    orcid: '0000-0002-7558-2610'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 7 - Modos de usar a cidade: espaços da coletividade'
-  locale: pt-BR
-  file: sdsp06-030.pdf
-  pages_count: 16
-  pages: 478-493
-  abstract: A cidade de São Paulo desde o início do século XX teve a presença dos clubes privados como referenciais de sociabilidade e lazer para diversos grupos sociais, de imigrantes a elites estabelecidas. A natureza comunitária desses espaços configurou importante objeto de experimentação e campo de trabalho para os arquitetos e para o desenvolvimentos da arquitetura moderna na cidade. Por um lado, exercitava-se o desenho de espaços livres e de intenso convívio social, por outro a potencialidade desses programas fez parte de um modelo de expansão urbana marcado pela segregação e concretizando-os como enclaves inacessíveis para grande parte de população. Para além do conflito patente na própria natureza dos casos, os modos como a arquitetura moderna buscou elaborar as relações em desenhos concretos são objetos de maior interesse, especialmente no sentido de investigar desenvolvimentos dos procedimentos de projeto, em suas contradições e potencialidades.
+  section: 'Mesa 7 — Modos de usar a cidade: espaços da coletividade'
+  abstract: 'A cidade de São Paulo desde o início do século XX teve a presença dos clubes privados como referenciais de sociabilidade e lazer para diversos grupos sociais, de imigrantes a elites estabelecidas. A natureza comunitária desses espaços configurou importante objeto de experimentação e campo de trabalho para os arquitetos e para o desenvolvimentos da arquitetura moderna na cidade. Por um lado, exercitava-se o desenho de espaços livres e de intenso convívio social, por outro a potencialidade desses programas fez parte de um modelo de expansão urbana marcado pela segregação e concretizando-os como enclaves inacessíveis para grande parte de população. Para além do conflito patente na própria natureza dos casos, os modos como a arquitetura moderna buscou elaborar as relações em desenhos concretos são objetos de maior interesse, especialmente no sentido de investigar desenvolvimentos dos procedimentos de projeto, em suas contradições e potencialidades.'
   keywords:
   - História da Arquitetura em São Paulo
   - Clubes
   - Fábio Penteado
   references:
-  - ADORNO, Theodor. W. Funcionalismo Hoje. In. Revista Gávea, Rio de Janei- ro, Pontifícia Universidade Católica, Vol. 15. Julho de 1997.
+  - 'ADORNO, Theodor. W. Funcionalismo Hoje. In. Revista Gávea, Rio de Janei- ro, Pontifícia Universidade Católica, Vol. 15. Julho de 1997.'
   - 'ADORNO, Theodor. W. HORKHEIMER, Max. Dialética do Esclarecimento: fragmentos filosóficos. Zahar. São Paulo. Rio de Janeiro: Zahar., 1985.'
   - 'ARANTES, Pedro Fiori. Arquitetura nova: Sérgio Ferro, Flávio Império e Rodri- go Lefèvre, de Artigas aos mutirões. São Paulo: Editora 34, 2004.'
   - 'ARTIGAS, João Batista Vilanova. Caminhos da arquitetura. Org. José T. C. Lira, Rosa Artigas. São Paulo: CosacNaify, 2004'
@@ -1118,53 +1331,58 @@ articles:
   - 'CONTIER, Felipe de Araujo. O edifício da Faculdade de Arquitetura e Urba- nismo na Cidade Universitária: projeto e construção da escola de Vilanova Artigas. São Carlos. 2015.'
   - 'COSTA, Juliana Braga. Ver não é só ver: dois ensaios a partir de Flávio Motta. Dissertação de mestrado. FAUUSP. São Paulo. 2010.'
   - 'DEDECCA, Paula. Sociabilidade, crítica e posição. O meio arquitetônico, as revistas especializadas e o debate do moderno em São Paulo (1945-1965). Dissertação de mestrado. São Paulo: FAUUSP, 2012.'
-  - DEDECCA, Paula. A ideia de uma identidade paulista na historiografia de arquitetura brasileira. Revista Pós, n. 32, São Paulo, dezembro, 2012, p. 90- 101.
+  - 'DEDECCA, Paula. A ideia de uma identidade paulista na historiografia de arquitetura brasileira. Revista Pós, n. 32, São Paulo, dezembro, 2012, p. 90- 101.'
   - 'ESPALLARGAS, Gimenez, Luis. Arquitetura paulistana da década de 1960: técnica e forma. Tese de doutorado. São Paulo. FAUUSP, 2004.'
-  - FOUCAULT, Michel. Space, Knowledge and Power. Entrevista a Paul Rabi- now. Skyline. 1982. In. HAYS, Michael. Org. Architecture Theory since 1968. The MIT Press.
-  - GIROTO, Ivo Renato. A praça é o povo. Intenção, projeto e multidão na ar- quitetura de Fábio Moura de Penteado. Tese de Doutorado. Barcelonatech. Barcelona. 2013.
+  - 'FOUCAULT, Michel. Space, Knowledge and Power. Entrevista a Paul Rabi- now. Skyline. 1982. In. HAYS, Michael. Org. Architecture Theory since 1968. The MIT Press.'
+  - 'GIROTO, Ivo Renato. A praça é o povo. Intenção, projeto e multidão na ar- quitetura de Fábio Moura de Penteado. Tese de Doutorado. Barcelonatech. Barcelona. 2013.'
   - 'GORELIK, Adrián. Das vanguardas a Brasília: Cultura Urbana e Arquitetura na América Latina. Belo Horizonte: Editora da UFMG, 2005.'
-  - GUATTARI, Félix. Espaço e Poder. Espaço&Debates. n.16. São Paulo 1986. IAB-SP. Arquitetura e Desenvolvimento Nacional. Depoimentos de Arquitetos
+  - 'GUATTARI, Félix. Espaço e Poder. Espaço&Debates. n.16. São Paulo 1986. IAB-SP. Arquitetura e Desenvolvimento Nacional. Depoimentos de Arquitetos'
   - 490 6º SEMINÁRIO SP DOCOMOMO Paulistas. 1979.
   - 'GUERRA, Abílio (org.). Textos fundamentais sobre história da arquitetura mo- derna brasileira. 2 vols. São Paulo: Romano Guerra, 2010.'
   - 'JUNQUEIRA, Monica Camargo. Poéticas da razão e construção: conversa de paulista. Ano de obtenção: 2009. Tese de Livre Docência. 2012.'
   - 'JUNQUEIRA, Monica Camargo. Fábio Penteado: Arquitetura de Integração. AU Pini. 2012.'
   - 'KOURY, Ana Paula. Arquitetura construtiva: proposições para a produção material da arquitetura contemporânea no Brasil. Tese de Doutorado. São Paulo: FAU-USP, 2005.'
-  - LEMOS, Carlos. CORONA, Eduardo. XAVIER, Alberto. Arquitetura Moderna Paulistana. Romano Guerra, 2017.
+  - 'LEMOS, Carlos. CORONA, Eduardo. XAVIER, Alberto. Arquitetura Moderna Paulistana. Romano Guerra, 2017.'
   - 'LIRA, José Tavares Correia de. Gregori Warchavchik: fraturas da vanguarda. São Paulo: Cosac & Naify, 2011.'
   - 'MEDRANO, Leandro Silva; RECAMÁN, Luiz. Vilanova Artigas: Habitação e Ci- dade na modernização brasileira. Campinas, SP. Editora da Unicamp. 2013.'
   - 'PENTEADO, Fábio. Ensaios de arquitetura. São Paulo: Empresa das Artes, 1998'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998'
-  - SENNETT, Richard. O delínio do homem público. As tiranias da intimidade. Rio de Janeiro. Record. 2014.
+  - 'SENNETT, Richard. O delínio do homem público. As tiranias da intimidade. Rio de Janeiro. Record. 2014.'
   - 'SCHWARZ, Roberto. As ideias fora do lugar: ensaios selecionados. Cia. Das Letras. São Paulo. 2014.'
-  - SPADONI, F. A transição do moderno. Arquitetura brasileira nos anos de 1970. Tese de Doutorado. FAUUSP. 2004.
-  - TAFURI, Manfredo. The Sphere and the Labirinth. The MIT Press. 1992.
-  - TAFURI, Manfredo. Architecture and Utopia. The MIT Press. 1976.
+  - 'SPADONI, F. A transição do moderno. Arquitetura brasileira nos anos de 1970. Tese de Doutorado. FAUUSP. 2004.'
+  - 'TAFURI, Manfredo. The Sphere and the Labirinth. The MIT Press. 1992.'
+  - 'TAFURI, Manfredo. Architecture and Utopia. The MIT Press. 1976.'
   - 'TELLES, Sophia da Silva. Arquitetura Moderna no Brasil: O desenho da su- perfície. FFLCH-USP.1988.'
-  - THOMAZ, Dalva Elias. Um olhar sobre Vilanova Artigas e sua contribuição à arquitetura brasileira. Tese de Doutorado. FAUUSP. São Paulo. 1997
-  - WISNIK, Guilherme T. Formalismo e Tradição. Dissertação de
+  - 'THOMAZ, Dalva Elias. Um olhar sobre Vilanova Artigas e sua contribuição à arquitetura brasileira. Tese de Doutorado. FAUUSP. São Paulo. 1997'
+  - 'WISNIK, Guilherme T. Formalismo e Tradição. Dissertação de'
   - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 491 Mestrado. FFLCH-USP. 2003. Orientador: Nicolau Sevcenko.'
   - 'XAVIER, Alberto (org.). Depoimento de uma geração – arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003.'
   - 'ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese de doutorado. Porto Alegre: FAU-UFRGS, 2005.'
   - 492 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 493
-- id: sdsp06-031
-  title: 'A Casa do Povo brasileiro: o pavilhão do Brasil em Osaka, 1970'
+  locale: 'pt-BR'
+  file: 'sdsp06-030.pdf'
+  pages_count: 16
+  pages: '478-493'
+
+- id: 'sdsp06-031'
+  title: A casa do povo brasileiro
+  subtitle: 'o pavilhão do Brasil em Osaka, 1970'
   authors:
   - givenname: Maria Isabel
     familyname: Villac
+    email: 'villac@exemplo.com'
     affiliation: ''
-    email: villac@exemplo.com
+    orcid: '0009-0005-9645-6954'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 7 - Modos de usar a cidade: espaços da coletividade'
-  locale: pt-BR
-  file: sdsp06-031.pdf
-  pages_count: 15
-  pages: 494-508
+  section: 'Mesa 7 — Modos de usar a cidade: espaços da coletividade'
   abstract: 'O trabalho apresenta o projeto do Pavilhão do Brasil em Osaka, na feira internacional de 1970, interpretando sua qualidade simbólica que marca tanto uma posição política de afirmação negativa da realidade repressiva da ditadura militar, de alerta ao avanço tecnológico sem raiz humanista e à globalização que a tudo pasteuriza; sua ética que assinala a hipótese de um mundo mais aberto, igualitário, socializado. Assinala, portanto, como compromisso, criar um amplo espaço social, considerado em tempo histórico. O projeto do pavilhão, em seu projeto, conjuga duas ideias: uma sondagem do período contemporâneo e uma ilustração da inteligência hospitaleira. O pavilhão de Osaka é a casa do povo brasileiro.'
-  abstract_en: 'The Action Plan of the State’s Government was a developmental action that happened during administration of Governor Carvalho Pinto (1959-1963) in São Paulo, it was aligned with developmental processes in that time, which was marked by Jucelino Kubitschek’s Federal Government Goal Plan. Its goal was to provide infrastructure and create new public’s equipments to the state’s capital and countryside’s development. PAGE’s main objectives were connected to the social, political and economic needs of the State. The construction of this public equimment’s group on that moment resulted in a process of modern architecture diffusion to the countryside of São Paulo, to the extent that the state government, until then, had installed equipment with eclectic and neocolonial architectural extraction. The objective of this work is to discuss and analyze the precepts of Modern Architecture on the State of São Paulo, implanted by the Action Plan (PAGE) through Antônio Adolfo Lobbe School’s project, designed by architect Kurt Hollander in 1961. Starting from this project, the work will investigate possible interlocutions between this| belvillac@gmail.com segment of modern Maria Isabel Villac | Fau Mackenzie architecture in the countryside of São Paulo andPolitecnica the architect Arquiteta e Urbanista. DOUTORADO na Universitat de Richard Catalunya (2002). PÓS-DOUTORADO na Università IUAV di Venezia (2014). Pesquisadora Neutra’s conceptions, published in books, articles and presented toe Professora do curso de Pós-Graduação em Arquitetura e Urbanismo da Universidade Brazilian architects during to Latin America. Presbiteriana Mackenzie. Comotrips pesquisadora atua principalmente nos seguintes temas: projeto arquitetura e cidade, cultura, cidadania e uso público do espaço, arte'
   keywords:
   - Arquitetura
   - Sociabilidade
   - Cidade
+  abstract_en: 'The Action Plan of the State’s Government was a developmental action that happened during administration of Governor Carvalho Pinto (1959-1963) in São Paulo, it was aligned with developmental processes in that time, which was marked by Jucelino Kubitschek’s Federal Government Goal Plan. Its goal was to provide infrastructure and create new public’s equipments to the state’s capital and countryside’s development. PAGE’s main objectives were connected to the social, political and economic needs of the State. The construction of this public equimment’s group on that moment resulted in a process of modern architecture diffusion to the countryside of São Paulo, to the extent that the state government, until then, had installed equipment with eclectic and neocolonial architectural extraction. The objective of this work is to discuss and analyze the precepts of Modern Architecture on the State of São Paulo, implanted by the Action Plan (PAGE) through Antônio Adolfo Lobbe School’s project, designed by architect Kurt Hollander in 1961. Starting from this project, the work will investigate possible interlocutions between this| belvillac@gmail.com segment of modern Maria Isabel Villac | Fau Mackenzie architecture in the countryside of São Paulo andPolitecnica the architect Arquiteta e Urbanista. DOUTORADO na Universitat de Richard Catalunya (2002). PÓS-DOUTORADO na Università IUAV di Venezia (2014). Pesquisadora Neutra’s conceptions, published in books, articles and presented toe Professora do curso de Pós-Graduação em Arquitetura e Urbanismo da Universidade Brazilian architects during to Latin America. Presbiteriana Mackenzie. Comotrips pesquisadora atua principalmente nos seguintes temas: projeto arquitetura e cidade, cultura, cidadania e uso público do espaço, arte'
   keywords_en:
   - Action Richard Neutra
   - e arquitetura
@@ -1173,7 +1391,7 @@ articles:
   - relação teoria Plan
   - e projeto
   references:
-  - ANDRADE, Oswald. Manifesto antropófago, 1928.
+  - 'ANDRADE, Oswald. Manifesto antropófago, 1928.'
   - 'ARANTES, Otília B. Fiori. “Uma estratégia fatal”. In: ARANTES, O.; VANIER, C.; MARICATO, E. A cidade do pensamento único: desmanchando consen- sos, Petrópolis, RJ: Vozes, 2009.'
   - 'CACCIARI, M.; DAL CO, F.; TAFURI, M. “La crisis de la utopía: Le Corbusier en Argel”. In: De la vanguardia a la metrópoli – Crítica radical a la arquitectu- ra, trad. cast., Barcelona: Gustavo Gili, 1972.'
   - 'BAUMAN, Zygmunt. Modernidade líquida, Rio de Janeiro: Zahar, 2001.'
@@ -1181,9 +1399,9 @@ articles:
   - 'MOTA, Carlos G. Ideologia da cultura brasileira, São Paulo: Ática 1977.'
   - 'MOTTA, Flavio. Arquitetura brasileira para a EXPO-70, revista Acrópole nº 372, São Paulo: 1970, p. 25-27.'
   - 'MENDES DA ROCHA, P. “Exercício da modernidade”. Entrevista a José Wol- ff. Revista AU: Arquitetura e Urbanismo, n.8, ano 2, 1986, pp.25-31.'
-  - _____. “Desenho urbano, uma forma de compreender e transformar”. Entre- vista a Vanda F. Pinto. Revista Projeto, n.113, 1988b, pp.124-125.
-  - _____. “Baía de Vitória (1993)” - Memória do projeto. Arquivo do arquiteto. Não publicado.
-  - _____. “De um traço nasce a arquitetura”. Revista Quadrifoglio no. 01, 1999, p. 36-38.
+  - '_____. “Desenho urbano, uma forma de compreender e transformar”. Entre- vista a Vanda F. Pinto. Revista Projeto, n.113, 1988b, pp.124-125.'
+  - '_____. “Baía de Vitória (1993)” - Memória do projeto. Arquivo do arquiteto. Não publicado.'
+  - '_____. “De um traço nasce a arquitetura”. Revista Quadrifoglio no. 01, 1999, p. 36-38.'
   - 'MENDES DA ROCHA, P.; VILLAC, M.I. (Org.). América, natureza e cidade. Coleção Arquitetos, volume 01. São Paulo: Estação Liberdade, 2012.'
   - '_____. “A construção do olhar de Paulo Mendes da Rocha”. Entrevista. In:'
   - 'MENDES DA ROCHA, P.; VILLAC, M. I. Paulo Mendes da Rocha com Maria Isabel Villac. América, Cidade e Natureza. São Paulo: Editora Estação Liber- dade, 2012, pp. 27-87.'
@@ -1193,59 +1411,72 @@ articles:
   - 'SCHWARZ, Roberto. “Nacional por subtração”. In: Que horas são？: ensaios, São Paulo: Cia das Letras, 1987.'
   - '_____. “Fim de século”, São Paulo: Folha de São Paulo, 4 de dezembro de 1994.'
   - 'TAFURI, Manfredo. La esfera y el laberinto — Vanguardias y arquitectura de Piranesi a los años 70, Barcelona: Gustavo Gili, 1984.'
-  - VILLAC, M. I. “La construcción de la mirada. Naturaleza, Ciudad y Disucrso en la Arquitectura de Paulo Archias Mendes da Rocha”, Tese (Doutorado em Teoria e História da Arquitetura). Escuela Técnica Superior de Arquitectura de Barcelona, UPC, Barcelona, 2002.
+  - 'VILLAC, M. I. “La construcción de la mirada. Naturaleza, Ciudad y Disucrso en la Arquitectura de Paulo Archias Mendes da Rocha”, Tese (Doutorado em Teoria e História da Arquitetura). Escuela Técnica Superior de Arquitectura de Barcelona, UPC, Barcelona, 2002.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 507 508 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-032
-  title: 'Arquitetura, cinema e sociedade: o cinema de rua'
+  locale: 'pt-BR'
+  file: 'sdsp06-031.pdf'
+  pages_count: 15
+  pages: '494-508'
+
+- id: 'sdsp06-032'
+  title: 'Arquitetura, cinema e sociedade'
+  subtitle: o cinema de rua
   authors:
   - givenname: Isabella Novais
     familyname: Faria
+    email: 'faria@exemplo.com'
     affiliation: ''
-    email: faria@exemplo.com
+    orcid: null
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 8 - Modos de usar a cidade: espaços culturais'
-  locale: pt-BR
-  file: sdsp06-032.pdf
-  pages_count: 19
-  pages: 510-528
-  abstract: A partir da pesquisa realizada sobre os cinemas de rua, busca-se analisar e entender o processo de implantação dos mesmos desde o seu primeiro momento na sociedade brasileira, no século XIX, passando pelo auge e decadência, até atingir os dias atuais. Esse artigo apresenta, num primeiro momento, questões pré-cinema, como a chegada da eletricidade em São Paulo e, também as questões sociopolíticas na qual o Brasil estava inserido. São apresentados os primeiros antecedentes à chegada do cinema em um recorte anterior ao ano de 1936, também mapeando os cines conforme o decorrer dos anos, podendo assim, ser demonstrada a evolução do mesmo. O recorte proposto, tem como ponto focal o estudo arquitetônico dos cinemas do arquiteto Rino Levi. Analisamos como as obras passaram pelo período de auge e decadência, e quais são as atuais situações encontradas, assim, pode-se também levantar as primeiras hipóteses do porquê chegaram a esse estágio de degradação e abandono. Por fim, a pesquisa exibe uma pequena apresentação da sociedade atual e dos novos cinemas de rua, contextualizando-os em uma nova situação e ganhando uma forma de funcionamento menos formal que os primeiros cines.
+  section: 'Mesa 8 — Modos de usar a cidade: espaços culturais'
+  abstract: 'A partir da pesquisa realizada sobre os cinemas de rua, busca-se analisar e entender o processo de implantação dos mesmos desde o seu primeiro momento na sociedade brasileira, no século XIX, passando pelo auge e decadência, até atingir os dias atuais. Esse artigo apresenta, num primeiro momento, questões pré-cinema, como a chegada da eletricidade em São Paulo e, também as questões sociopolíticas na qual o Brasil estava inserido. São apresentados os primeiros antecedentes à chegada do cinema em um recorte anterior ao ano de 1936, também mapeando os cines conforme o decorrer dos anos, podendo assim, ser demonstrada a evolução do mesmo. O recorte proposto, tem como ponto focal o estudo arquitetônico dos cinemas do arquiteto Rino Levi. Analisamos como as obras passaram pelo período de auge e decadência, e quais são as atuais situações encontradas, assim, pode-se também levantar as primeiras hipóteses do porquê chegaram a esse estágio de degradação e abandono. Por fim, a pesquisa exibe uma pequena apresentação da sociedade atual e dos novos cinemas de rua, contextualizando-os em uma nova situação e ganhando uma forma de funcionamento menos formal que os primeiros cines.'
   keywords:
   - Rino Levi
   - Cinelândia
   - Sociabilidade
   references:
-  - ANELLI, R. L. S. Arquitetura de cinemas na cidade de São Paulo. 1990. Dis- sertação (Mestrado)-Universidade Estadual de Campinas, São Paulo, 1990.
+  - 'ANELLI, R. L. S. Arquitetura de cinemas na cidade de São Paulo. 1990. Dis- sertação (Mestrado)-Universidade Estadual de Campinas, São Paulo, 1990.'
   - 'AZEVEDO, Aroldo de. A rede urbana paulista. In: São Paulo. Terra e Povo. São Paulo: Editora Globo, 1966, pág. 65-75.'
-  - CAMPACCI, Claudio. A História dos Primeiros 120 Anos do Cinema. 1. ed.
+  - 'CAMPACCI, Claudio. A História dos Primeiros 120 Anos do Cinema. 1. ed.'
   - '526 6º SEMINÁRIO SP DOCOMOMO [S.I.: s.n.], 2014.'
   - 'CONRADO, Bruno Campos; PRADO, Carina Regina Pestana. O crescimento do cinema na cidade de São Paulo: Salas de Centro x Salas de Bairro. [200- ?]. Trabalho para a disciplina FLH0425 – Uma História para a Cidade de São Paulo: um desafio pedagógico. Faculdade de Filosofia, Letras e Ciências Hu- manas da Universidade de São Paulo, São Paulo, 200-?.'
   - 'COSTA, Sabrina Studart Fontenele. Relações entre o traçado urbano e os edi- fícios modernos no Centro de São Paulo: Arquitetura e Cidade (1938/1960). 2010. Tese (Doutorado em Arquitetura e Urbanismo)-Faculdade de Arquitetu- ra e Urbanismo da Universidade de São Paulo, São Paulo, 2010.'
-  - DOCUMENTÁRIO. Direção e roteiro Rogério Sganzerla. São Paulo, 1966. DVD (11 min).
-  - METRÓPOLE. Direção Bellini Andrade. Produção Nádia Maria. Minas Gerais, 2012. YouTube (25 min).
-  - PONTEDURA, Octávio. Entrevista concedida a Isabella Novais Faria. São Paulo, 07 abr. 2017.
+  - 'DOCUMENTÁRIO. Direção e roteiro Rogério Sganzerla. São Paulo, 1966. DVD (11 min).'
+  - 'METRÓPOLE. Direção Bellini Andrade. Produção Nádia Maria. Minas Gerais, 2012. YouTube (25 min).'
+  - 'PONTEDURA, Octávio. Entrevista concedida a Isabella Novais Faria. São Paulo, 07 abr. 2017.'
   - 'SANTORO, Paula Freire. A relação da sala de cinema com o espaço urba- no em São Paulo: do provinciano ao cosmopolita. 2004. Tese (Mestrado em Estruturas Ambientais Urbanas)-Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2004.'
-  - SÃO PAULO SOCIEDADE ANÔNIMA. Direção e roteiro Luís Sergio Person. São Paulo, Socine Produções Cinematográficas, 1965. DVD (111 min).
+  - 'SÃO PAULO SOCIEDADE ANÔNIMA. Direção e roteiro Luís Sergio Person. São Paulo, Socine Produções Cinematográficas, 1965. DVD (111 min).'
   - 'SIMÕES, Inimá Ferreira. Salas de cinema em São Paulo. São Paulo: Secreta- ria Municipal de Cultura: PW: Secretaria de Estado da Cultura, 1990. 168 p.'
-  - TAPETE VERMELHO. Direção e roteiro Luiz Alberto Pereira. São Paulo, 2006. DVD (102 min).
+  - 'TAPETE VERMELHO. Direção e roteiro Luiz Alberto Pereira. São Paulo, 2006. DVD (102 min).'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 527 528 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-033
-  title: 'A introdução da Arquitetura Moderna nos teatros de São Paulo: o projeto de Roberto Tibau para o Teatro Paulo Eiró'
+  locale: 'pt-BR'
+  file: 'sdsp06-032.pdf'
+  pages_count: 19
+  pages: '510-528'
+
+- id: 'sdsp06-033'
+  title: A introdução da Arquitetura Moderna nos teatros de São Paulo
+  subtitle: o projeto de Roberto Tibau para o teatro Paulo Eiró
   authors:
   - givenname: Luciana Monzillo de
     familyname: Oliveira
+    email: 'oliveira@exemplo.com'
     affiliation: ''
-    email: oliveira@exemplo.com
+    orcid: '0000-0002-5299-1120'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Maria Augusta Justi
     familyname: Pisani
+    email: 'pisani@exemplo.com'
     affiliation: ''
-    email: pisani@exemplo.com
+    orcid: '0000-0002-0467-2854'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 8 - Modos de usar a cidade: espaços culturais'
-  locale: pt-BR
-  file: sdsp06-033.pdf
-  pages_count: 15
-  pages: 529-543
+  section: 'Mesa 8 — Modos de usar a cidade: espaços culturais'
   abstract: 'O presente artigo aborda a relevância dos projetos para teatros municipais do arquiteto Roberto José Goulart Tibau (1924-2003) para o município de São Paulo. Entre os anos de 1952 e 1957, o arquiteto projetou os teatros: Arthur Azevedo, no bairro da Mooca; João Caetano, na Vila Clementino e Paulo Eiró, em Santo Amaro. Os três edifícios faziam parte de um plano da prefeitura para a criação de espaços culturais nos bairros mais distantes da área central da cidade. Em 1992, o Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo – CONPRESP - anunciou o tombamento dos três teatros como bens de valor cultural da cidade, a partir da publicação da Resolução nº 29/92 (SÃO PAULO, 1992). A pesquisa selecionou como estudo de caso, o projeto do Teatro Paulo Eiró, inaugurado em 1957, e utiliza do método de registro fotográfico, redesenho da planta, e análise comparativa da edificação com obras pertencentes ao ideário moderno para identificar as características arquitetônicas que foram relevantes para o processo de tombamento do teatro. O resultado da análise demonstra o pioneirismo do projeto do teatro no cenário cultural e arquitetônico da cidade de São Paulo.'
   keywords:
   - Arquitetura moderna
@@ -1253,35 +1484,39 @@ articles:
   - Teatro Paulo Eiró
   references:
   - 'BARSANELLI, Maria Luísa. Após 4 anos fechado, teatro Paulo Eiró, em Santo Amaro, reabre hoje. Folha de São Paulo, Ilustrada, 28 set. 2015. Disponível em: < https://www1.folha.uol.com.br/ilustrada/2015/09/1687203-apos-4-a- 5 Figura 5 – Interior do Teatro Paulo Eiró, com vista para o mezanino, e os novos revestimentos de paredes e forro, e as novas poltronas. Fonte: Acervo das autoras, 2018.'
-  - 540 6º SEMINÁRIO SP DOCOMOMO nos-fechado-teatro-paulo-eiro-em-santo-amaro-reabre-hoje.shtml>. Acesso em 10 jun. 2018.
+  - '540 6º SEMINÁRIO SP DOCOMOMO nos-fechado-teatro-paulo-eiro-em-santo-amaro-reabre-hoje.shtml>. Acesso em 10 jun. 2018.'
   - 'BRASIL. Decreto-Lei nº 4.958, de 14 de novembro de 1942. Presidência da República. Disponível em: <http://www2.camara.leg.br/legin/fed/de- clei/1940-1949/decreto-lei-4958-14-novembro-1942-414976-publicacaoori- ginal-1-pe.html>. Acesso em: 20 jun. 2018'
   - 'BRASIL. Decreto-Lei nº 7.918, de 31 de agosto de 1945. Presidência da República. Disponível em: <http://www2.camara.leg.br/legin/fed/de- clei/1940-1949/decreto-lei-7918-31-agosto-1945-417265-publicacaooriginal- -1-pe.html>. Acesso em 18 jun. 2018.'
   - 'BRASIL. Decreto-Lei nº 8.529, de 2 de janeiro de 1946. Lei Orgânica do Ensino Primário. Presidência da República. Disponível em: <http://www2.camara.leg. br/legin/fed/declei/1940-1949/decreto-lei-8529-2-janeiro-1946-458442-publi- cacaooriginal-1-pe.html>. Acesso em 20 jun. 2018.'
   - 'FUNDAÇÃO CLÓVIS SALGADO. História In: Portal da Fundação Clóvis Sal- gado, atualizado em 16 dez. 2016. Disponível em: <http://www.fcs.mg.gov. br/index.php?option=com_gmg&view= page&id=2601&controller=page&I- temid=1147>. Acesso em 20 jun. 2018.'
-  - 'FUNDAÇÃO OSCAR NIEMEYER. Teatro Municipal de Belo Horizonte (1941) Disponível em: <http://www.Niemeyer.org.br/obra/pro014> Acesso em 20 maio 2018.'
+  - 'FUNDAÇÃO OSCAR NIEMEYER. Teatro Municipal de Belo Horizonte (1941) Disponível em: <http://www.niemeyer.org.br/obra/pro014> Acesso em 20 maio 2018.'
   - 'CARRANZA, Edite Galote; CARRANZA, Ricardo. Documento Roberto José Goulart Tibau. In: AU - Revista Arquitetura e Urbanismo. São Paulo: v. 103, p 89-95, 2002.'
   - 'PEREIRA, Miguel Alves; SAWAYA, Silvio Barros. Registro do Pensamento e da Produção dos Arquitetos da FAUUSP, nos últimos 25 anos. São Paulo: Cadernos de Arquitetura FAUUSP, 2001 REVISTA SMENA Дворец советов - величайшее здание мира (O Palácio dos Conselhos é o maior edifício do mundo, trad. nossa) Moscow: Revista Smena, 1930. Publicada por Paolo Gesell, 19 jul. 2016. Disponível em: &lt;https://cont.ws/@paolo/322298&gt; Acesso em 01 jun. 2018 SÃO PAULO (Município). Resolução nº 29/92. Prefeitura do Município de São Paulo, Secretaria Municipal de Cultura. Departamento do Patrimônio Históri-'
   - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 541 co. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Disponível em: <http://www.prefeitura. sp.gov.br/cidade/upload/fb463_29_T_Teatros_Municipais.pdf>. Acesso em: 14 jun. 2018. SÃO PAULO (Município). Resolução nº 21/2014, de 02 de setembro de 2014. Prefeitura do Município de São Paulo, Secretaria Municipal de Cultura. De- partamento do Patrimônio Histórico. Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo. Dispo- nível em: <http://www.infopatrimonio.org/wp-content/uploads/2017/04/EEAl- bertoConte-conpresp.pdf>. Acesso em: 28 jun. 2018. SANDERVILLE Junior, Euler. A arquitetura dos teatros distritais da Prefeitura do Município de São Paulo. São Paulo: Secretaria Municipal da Cultura, jan- -fev. 1986, cópia'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. 2. ed. São Paulo: EDUSP, 1999.'
-  - SELMER JÚNIOR, Roberto. Roberto Tibau e o fazer arquitetura. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. 2011.
+  - 'SELMER JÚNIOR, Roberto. Roberto Tibau e o fazer arquitetura. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. 2011.'
   - 'SERRONI, José Carlos. Teatros: uma memória do espaço cênico no Brasil. São Paulo: Ed. SENAC São Paulo, 2002.'
   - 'TAKIYA, André. Edif 60 anos de Arquitetura Pública. Dissertação de Mes- trado, São Paulo: FAUUSP, 2009. Disponível em: www.teses.usp.br/teses/ disponiveis/16/16138/tde-10052010-141328/.../2_edif60.pdf Acesso em 20 jun. 2018.'
   - 'TEATRO PAULO EIRÓ. In: Prefeitura de São Paulo, Secretaria Municipal de Cultura, 28 set. 2015. Disponível em: http://www.prefeitura.sp.gov.br/cidade/ secretarias/cultura/dec/teatros /paulo_eiro/index.php?p=7307>. Acesso em 10 jun. 2018.'
   - 542 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 543
-- id: sdsp06-034
+  locale: 'pt-BR'
+  file: 'sdsp06-033.pdf'
+  pages_count: 15
+  pages: '529-543'
+
+- id: 'sdsp06-034'
   title: Duas obras contemporâneas de dois arquitetos modernos. Oscar Niemeyer e Paulo Mendes da Rocha no século XXI
   authors:
   - givenname: Ivo Renato
     familyname: Giroto
+    email: 'giroto@exemplo.com'
     affiliation: ''
-    email: giroto@exemplo.com
+    orcid: '0000-0002-5062-0107'
+    bio: null
+    country: BR
     primary_contact: true
-  section: 'Mesa 8 - Modos de usar a cidade: espaços culturais'
-  locale: pt-BR
-  file: sdsp06-034.pdf
-  pages_count: 15
-  pages: 544-558
-  abstract: Através da análise de duas obras construídas recentemente, o Museu Oscar Niemeyer e o Museu Nacional dos Coches, o artigo reflete sobre a condição contemporânea da obra de dois epígonos da arquitetura moderna brasileira, Oscar Niemeyer e Paulo Mendes da Rocha. Considera-se que os museus selecionados são representativos das permanências e transformações observadas ao longo da trajetória de ambos, refletidas nos procedimentos projetuais e na própria significação das obras na atualidade. A escolha de dois museus como objeto de análise também é indicativa de parte dessa nova condição, na qual a consagração de suas obras incorre em um expressivo aumento de encomendas para equipamentos culturais. Finalmente, o texto aborda a vigência e o legado de pensamentos que marcaram a arquitetura do século XX na atualidade.
+  section: 'Mesa 8 — Modos de usar a cidade: espaços culturais'
+  abstract: 'Através da análise de duas obras construídas recentemente, o Museu Oscar Niemeyer e o Museu Nacional dos Coches, o artigo reflete sobre a condição contemporânea da obra de dois epígonos da arquitetura moderna brasileira, Oscar Niemeyer e Paulo Mendes da Rocha. Considera-se que os museus selecionados são representativos das permanências e transformações observadas ao longo da trajetória de ambos, refletidas nos procedimentos projetuais e na própria significação das obras na atualidade. A escolha de dois museus como objeto de análise também é indicativa de parte dessa nova condição, na qual a consagração de suas obras incorre em um expressivo aumento de encomendas para equipamentos culturais. Finalmente, o texto aborda a vigência e o legado de pensamentos que marcaram a arquitetura do século XX na atualidade.'
   keywords:
   - Oscar Niemeyer
   - Paulo Mendes da Rocha
@@ -1292,12 +1527,12 @@ articles:
   - 'MAHFUZ, Edson. O clássico, o poético e o erótico: método, contexto e pro- grama na obra de Oscar Niemeyer. In: Textos fundamentais da história da arquitetura moderna brasileira. v. 2. Abilio Guerra (org.). São Paulo: Romano Guerra, 2010, p. 279-298.'
   - 'DIEZ, Fernando. Oscar Niemeyer – além da arquitetura. In: SEGRE, Roberto (org.). Tributo a Niemeyer. Rio de Janeiro: Viana & Mosley, 2009, p. 32-36.'
   - 'ECO, Umberto. Obra aberta. 9. ed. São Paulo: Perspectiva, 2010.'
-  - NIEMEYER, Oscar. Depoimento. Módulo, Rio de Janeiro, n. 09, fev. 1958. p. 03-06.
-  - _____. Ato de fé e solidariedade. Projeto, São Paulo, n. 120, p. 66, abr. 1989.
+  - 'NIEMEYER, Oscar. Depoimento. Módulo, Rio de Janeiro, n. 09, fev. 1958. p. 03-06.'
+  - '_____. Ato de fé e solidariedade. Projeto, São Paulo, n. 120, p. 66, abr. 1989.'
   - 'OTONDO, Catherine. Desenho e espaço construído: relações entre pensar e fazer na obra de Paulo Mendes da Rocha. Tese (doutorado em arquitetura) – Faculdade de Arquitetura e Urbanismio, Universidade de São Paulo, São Paulo, 2013.'
   - 'PISANI, Daniele. Paulo Mendes da Rocha: obra completa. São Paulo: Gus-'
-  - 556 6º SEMINÁRIO SP DOCOMOMO tavo Gili, 2013.
-  - POUND, Ezra. ABC da literatura. São Paulo, Cultrix, 2013.
+  - '556 6º SEMINÁRIO SP DOCOMOMO tavo Gili, 2013.'
+  - 'POUND, Ezra. ABC da literatura. São Paulo, Cultrix, 2013.'
   - 'ROCHA, Paulo Mendes da; WISNIK, Guilherme (org.). Encontros. Rio de Ja- neiro : Beco do azougue, 2012.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 3. ed. São Paulo: Editora da Universidade de São Paulo, 2014.'
   - 'VILLAC, Maria Isabel. Museu dos Coches em Lisboa, de Paulo Mendes da Rocha, MMBB Arquitetos e Bak Gordon Arquitectos. Vitruvius Drops, São Paulo, ano 16, n. 101.06, fev. 16. Disponível em: <http://www.vitruvius.com. br/revistas/read/drops/17.101/5960>. Acesso em: 08/05/2018.'
@@ -1305,25 +1540,33 @@ articles:
   - 'WISNIK, Guilherme. Disposições espaciais. In : MILHEIRO, Ana Vaz ; NO-'
   - 'BRE, Ana Luiza ; WISNIK, Guilherme. Coletivo – arquitetura paulista contem- porânea. São Paulo : Cosac Naify, 2006, p. 170-180.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 557 558 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-035
-  title: 'Dos preceitos às práticas de preservação no patrimônio arquitetônico moderno: o caso da Biblioteca Mário de Andrade'
+  locale: 'pt-BR'
+  file: 'sdsp06-034.pdf'
+  pages_count: 15
+  pages: '544-558'
+
+- id: 'sdsp06-035'
+  title: Dos preceitos às práticas de preservação no Patrimônio Arquitetônico moderno
+  subtitle: o caso da biblioteca Mário de Andrade
   authors:
   - givenname: Thais da Silva
     familyname: Santos
+    email: 'santos@exemplo.com'
     affiliation: ''
-    email: santos@exemplo.com
+    orcid: '0000-0001-5803-528X'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: André Augusto de Almeida
     familyname: Alves
+    email: 'alves@exemplo.com'
     affiliation: ''
-    email: alves@exemplo.com
+    orcid: '0000-0001-7953-9372'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 8 - Modos de usar a cidade: espaços culturais'
-  locale: pt-BR
-  file: sdsp06-035.pdf
-  pages_count: 24
-  pages: 559-582
-  abstract: A preservação do patrimônio envolve questões complexas, concernentes à sua relação com a memória, identidade e patrimonialização enquanto processos sociais; nesse sentido, torna-se relevante considerar tal relação como primeiro passo para a discussão e formulação de diretrizes, preceitos e projetos de intervenção neste patrimônio. As considerações de Jeudy (La machinerie patrimoniale, 2001) acerca da naturalização de preceitos e práticas de conservação do patrimônio cultural constituem o ponto de partida do presente trabalho. Diante disso, analisa-se a intervenção do escritório Piratininga Arquitetos Associados para o edifício da Biblioteca Mário de Andrade (2005-2010), buscando adequá-lo as novas demandas contemporâneas de uso, incorporase a importância do edifício enquanto equipamento público e sua inserção no centro de São Paulo como condicionantes para a preservação do bem em questão, ao mesmo tempo em que a memória social se coloca, nesta oportunidade, como eixo condutor de todo o projeto. Assim, o trabalho revela a contribuição do projeto ao debate sobre intervenção no patrimônio arquitetônico moderno, ao situar este objeto no cruzamento entre teórica crítica, preceitos e práticas de intervenção no patrimônio arquitetônico.
+  section: 'Mesa 8 — Modos de usar a cidade: espaços culturais'
+  abstract: 'A preservação do patrimônio envolve questões complexas, concernentes à sua relação com a memória, identidade e patrimonialização enquanto processos sociais; nesse sentido, torna-se relevante considerar tal relação como primeiro passo para a discussão e formulação de diretrizes, preceitos e projetos de intervenção neste patrimônio. As considerações de Jeudy (La machinerie patrimoniale, 2001) acerca da naturalização de preceitos e práticas de conservação do patrimônio cultural constituem o ponto de partida do presente trabalho. Diante disso, analisa-se a intervenção do escritório Piratininga Arquitetos Associados para o edifício da Biblioteca Mário de Andrade (2005-2010), buscando adequá-lo as novas demandas contemporâneas de uso, incorporase a importância do edifício enquanto equipamento público e sua inserção no centro de São Paulo como condicionantes para a preservação do bem em questão, ao mesmo tempo em que a memória social se coloca, nesta oportunidade, como eixo condutor de todo o projeto. Assim, o trabalho revela a contribuição do projeto ao debate sobre intervenção no patrimônio arquitetônico moderno, ao situar este objeto no cruzamento entre teórica crítica, preceitos e práticas de intervenção no patrimônio arquitetônico.'
   keywords:
   - Intervenção
   - Patrimônio
@@ -1347,76 +1590,95 @@ articles:
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 579
   - 'ZEIN, Ruth Verde; DI MARCO, Anita. Paradoxo do valor artístico e a definição de critérios de preservação na arquitetura, inclusive a moderna. In: 2º SEMI- NÁRIO DOCOMOMO NORTE/NORDESTE, jun. 2008, Salvador.'
   - 580 6º SEMINÁRIO SP DOCOMOMO A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 581 582 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-036
-  title: 'Caixa Econômica estadual de São Paulo em Ibitinga: 40 anos do exemplar de Arquitetura bancária na cidade'
+  locale: 'pt-BR'
+  file: 'sdsp06-035.pdf'
+  pages_count: 24
+  pages: '559-582'
+
+- id: 'sdsp06-036'
+  title: Caixa econômica estadual de São Paulo em Ibitinga
+  subtitle: 40 anos do exemplar de Arquitetura bancária na cidade
   authors:
   - givenname: Paulo Yassuhide
     familyname: Fujioka
+    email: 'fujioka@exemplo.com'
     affiliation: ''
-    email: fujioka@exemplo.com
+    orcid: '0000-0003-2113-6778'
+    bio: null
+    country: BR
     primary_contact: true
   - givenname: Vinicius Galbieri
-    familyname: SeveRino
+    familyname: Severino
+    email: 'severino@exemplo.com'
     affiliation: ''
-    email: seveRino@exemplo.com
+    orcid: '0009-0008-4992-805X'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 9 - Modos de trabalhar: entre edifícios e modos de trabalho modernos'
-  locale: pt-BR
-  file: sdsp06-036.pdf
-  pages_count: 13
-  pages: 584-596
-  abstract: O objetivo deste artigo é apresentar um caso de estudo exemplar da arquitetura de concreto armado aparente da “Escola Paulista” da década de 1970, a agência da Caixa Econômica Estadual em Ibitinga-SP (1976), projetada pelo Arquiteto Siegbert Zanettini (n. 1934). As transformações econômicas, políticas e sociais que ocorrem no Brasil a partir da década de 1960 – após a construção de Brasília e o início do Regime Militar – estimulam no setor financeiro uma expansão de agências bancárias em meio ao fortalecimento de bancos privados (fusões e conglomerados) e de bancos estatais. Nesse período de intensidade de criação de agências bancárias, a grande demanda por novas edificações requereu uma reformulação na tipologia da arquitetura bancária. As virtudes dos espaços funcionais e flexíveis da arquitetura moderna foram adotadas, em particular a ideia da arquitetura da Escola Paulista de um partido em que forma e estrutura são coincidentes. Assim, novas agências vão sendo construídas seguindo esse modelo de arquitetura. Projetadas por arquitetos que agiam na capital paulista ou por outros (inclusive de outras regiões), mas que também acabaram por seguir nos projetos das novas edificações bancárias as soluções da arquitetura de concreto armado aparente da “Escola Paulista”, essas agências constituíram um conjunto de edificações que elevaram a tipologia da arquitetura bancária a um patamar de destaque dentro da evolução do Movimento Moderno em São Paulo e, em particular, na “Escola Paulista”. Além das notáveis qualidades de resolução de programa e estrutura, muitas vezes em terrenos de geometria e topografia difíceis, tais exemplos ainda hoje são modelos de um virtuosismo espacial que se perdeu desde anos 1990; principalmente ao se comparar, com a produção atual, a relação dialética com o contexto urbano tão característico do discurso da “Escola Paulista”.
+  section: 'Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos'
+  abstract: 'O objetivo deste artigo é apresentar um caso de estudo exemplar da arquitetura de concreto armado aparente da “Escola Paulista” da década de 1970, a agência da Caixa Econômica Estadual em Ibitinga-SP (1976), projetada pelo Arquiteto Siegbert Zanettini (n. 1934). As transformações econômicas, políticas e sociais que ocorrem no Brasil a partir da década de 1960 – após a construção de Brasília e o início do Regime Militar – estimulam no setor financeiro uma expansão de agências bancárias em meio ao fortalecimento de bancos privados (fusões e conglomerados) e de bancos estatais. Nesse período de intensidade de criação de agências bancárias, a grande demanda por novas edificações requereu uma reformulação na tipologia da arquitetura bancária. As virtudes dos espaços funcionais e flexíveis da arquitetura moderna foram adotadas, em particular a ideia da arquitetura da Escola Paulista de um partido em que forma e estrutura são coincidentes. Assim, novas agências vão sendo construídas seguindo esse modelo de arquitetura. Projetadas por arquitetos que agiam na capital paulista ou por outros (inclusive de outras regiões), mas que também acabaram por seguir nos projetos das novas edificações bancárias as soluções da arquitetura de concreto armado aparente da “Escola Paulista”, essas agências constituíram um conjunto de edificações que elevaram a tipologia da arquitetura bancária a um patamar de destaque dentro da evolução do Movimento Moderno em São Paulo e, em particular, na “Escola Paulista”. Além das notáveis qualidades de resolução de programa e estrutura, muitas vezes em terrenos de geometria e topografia difíceis, tais exemplos ainda hoje são modelos de um virtuosismo espacial que se perdeu desde anos 1990; principalmente ao se comparar, com a produção atual, a relação dialética com o contexto urbano tão característico do discurso da “Escola Paulista”.'
   keywords:
   - Arquitetura bancária
   - Escola paulista de arquitetura
   - Siegbert Zanettini
   references:
-  - Arquitetura Bancária/ Debate. Rev. PROJETO, número 26, 1981, p. 27-33.
+  - 'Arquitetura Bancária/ Debate. Rev. PROJETO, número 26, 1981, p. 27-33.'
   - 'BASTOS, Maria Alice Junqueira. Pós Brasília: Rumos da Arquitetura Bra- sileira: discurso, prática e pensamento. São Paulo: Perspectiva, 2007.'
-  - 'PETROLI, Marcos Amado. Arquitetura Bancária Gaúcha nos anos 70 - A In- 19 Entrevista 20 Ibitinga: Banco do Brasil passa a operar exclusivamente na unidade ao lado da matriz, 23 janeiro 2017. Disponível em: <http://www.Ibitingadiario.com/noticia/2335/ Ibitinga-banco-do-brasil-passa-a-operar-exclusivamente-na-unidade-ao-lado-da-ma- triz.html>. Acesso em: 01 junho 2018.'
-  - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 595 fluência Brutalista. Tese (Mestrado) - Faculdade de Arquitetura - UFRGS, Porto Alegre, 2014.
-  - ROSA, Roque de. Retalhos II - Outros Tem- pos de Ibitinga. Atrium Editora, Ibitinga - SP, 2002.
-  - SABBAG, Haifa Y.. Arquitetura Bancária. Rev. MÓDULO, número 79, março 1984, p.40-63.
-  - STRÖHER, Ronaldo de Azambuja. As Transformações na Tipologia e no Ca- ráter do Prédio Bancário em Meados deste Século. Tese (Mestrado)1999.
+  - 'PETROLI, Marcos Amado. Arquitetura Bancária Gaúcha nos anos 70 - A In- 19 Entrevista 20 Ibitinga: Banco do Brasil passa a operar exclusivamente na unidade ao lado da matriz, 23 janeiro 2017. Disponível em: <http://www.ibitingadiario.com/noticia/2335/ ibitinga-banco-do-brasil-passa-a-operar-exclusivamente-na-unidade-ao-lado-da-ma- triz.html>. Acesso em: 01 junho 2018.'
+  - 'A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 595 fluência Brutalista. Tese (Mestrado) - Faculdade de Arquitetura - UFRGS, Porto Alegre, 2014.'
+  - 'ROSA, Roque de. Retalhos II - Outros Tem- pos de Ibitinga. Atrium Editora, Ibitinga - SP, 2002.'
+  - 'SABBAG, Haifa Y.. Arquitetura Bancária. Rev. MÓDULO, número 79, março 1984, p.40-63.'
+  - 'STRÖHER, Ronaldo de Azambuja. As Transformações na Tipologia e no Ca- ráter do Prédio Bancário em Meados deste Século. Tese (Mestrado)1999.'
   - 'XAVIER, Alberto; LEMOS, Carlos A.; CORONA, Eduar- do. Arquitetura Moderna Paulistana. São Paulo: Pini, 1983.'
-  - ZANETTINI, Siegbert. Arquitetura, Razão, sensibilidade. São Paulo, Editora da Universidade de São Paulo, 2002.
-  - ZANETTINI, Siegbert. Cadernos Brasileiros de Arquitetura. São Paulo, Projeto Editores Associados, 1981.
+  - 'ZANETTINI, Siegbert. Arquitetura, Razão, sensibilidade. São Paulo, Editora da Universidade de São Paulo, 2002.'
+  - 'ZANETTINI, Siegbert. Cadernos Brasileiros de Arquitetura. São Paulo, Projeto Editores Associados, 1981.'
   - 596 6º SEMINÁRIO SP DOCOMOMO
-- id: sdsp06-037
+  locale: 'pt-BR'
+  file: 'sdsp06-036.pdf'
+  pages_count: 13
+  pages: '584-596'
+
+- id: 'sdsp06-037'
   title: Dois edifícios industriais de Gregório Zolko. Os projetos da Amortex (1968) e Belzer (1976)
   authors:
   - givenname: Ricardo José Rossin de
     familyname: Oliveira
+    email: 'ricardorossin@gmail.com'
     affiliation: ''
-    email: oliveira@exemplo.com
+    orcid: '0009-0007-5815-866X'
+    bio: null
+    country: BR
     primary_contact: true
-  - givenname: Fernando Guillermo Vázquez
-    familyname: Ramos
+  - givenname: Fernando Guillermo
+    familyname: Vázquez Ramos
+    email: 'prof.vazquez@usjt.br'
     affiliation: ''
-    email: ramos@exemplo.com
+    orcid: '0000-0003-3472-5598'
+    bio: null
+    country: BR
     primary_contact: false
-  section: 'Mesa 9 - Modos de trabalhar: entre edifícios e modos de trabalho modernos'
-  locale: pt-BR
-  file: sdsp06-037.pdf
-  pages_count: 14
-  pages: 597-610
-  abstract: O texto apresenta e analisa dois edifícios industriais, um para a fábrica da Amortex, de 1968, e outro para a Belzer, de 1976, cujos projetos foram desenvolvidos pelo arquiteto Gregório Zolko, em parceria com seu sócio Wolfgang Schoedon, quando formavam o escritório Constructa (1958-2008). Ambos os edifícios industriais foram divulgados por revistas especializadas da época, e se constituíram como referências da produção moderna da arquitetura da década de 1970. A abordagem analítica dos projetos identificou duas propostas diferentes para uma mesma tipologia, que influenciou na hora de desenvolver os projetos, seja na concepção (partido), como nas decisões sobre os materiais utilizados para a construção dos edifícios.
+  section: 'Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos'
+  abstract: 'O texto apresenta e analisa dois edifícios industriais, um para a fábrica da Amortex, de 1968, e outro para a Belzer, de 1976, cujos projetos foram desenvolvidos pelo arquiteto Gregório Zolko, em parceria com seu sócio Wolfgang Schoedon, quando formavam o escritório Constructa (1958-2008). Ambos os edifícios industriais foram divulgados por revistas especializadas da época, e se constituíram como referências da produção moderna da arquitetura da década de 1970. A abordagem analítica dos projetos identificou duas propostas diferentes para uma mesma tipologia, que influenciou na hora de desenvolver os projetos, seja na concepção (partido), como nas decisões sobre os materiais utilizados para a construção dos edifícios.'
   keywords:
   - Fábricas
-  - Pré-fabricados
+  - 'Pré-fabricados'
   - Constructa
   references:
   - 'C.J. ARQUITETURA - A industrialização das construções. Revista de arqui- tetura, planejamento e construção. Rio de Janeiro: FC Editora, nº 10, ano 3, 1977.'
-  - CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da Arquitetura Brasilei-
-  - 13 Informação verbal, entrevista com o arquiteto em 09 junho de 2015.
+  - 'CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da Arquitetura Brasilei-'
+  - '13 Informação verbal, entrevista com o arquiteto em 09 junho de 2015.'
   - '608 6º SEMINÁRIO SP DOCOMOMO ra. São Paulo: EDART, 2ª Edição, 2017.'
-  - DINIZ, Antonio Ricardo. Roteiro e análise de projetos industriais. Revista Pro- jeto e Construção. São Paulo, n. 23, p.26, abr. 1979.
+  - 'DINIZ, Antonio Ricardo. Roteiro e análise de projetos industriais. Revista Pro- jeto e Construção. São Paulo, n. 23, p.26, abr. 1979.'
   - 'FRANÇA, Elizabeth. A origem e a trajetória das Bienais de Arquitetura de São Paulo. Disponível em: < http://www.esquina.net.br/2017/11/04/a-origem- -e-a-trajetoria-das-bienais-de-arquitetura-de-sao-paulo/>. Acesso em: 10 jun. 2018.'
   - 'GOMES, Maria T. Serafim. A desconcentração industrial e o crescimento da indústria no interior do estado de São Paulo. Maringá: UEM, 2018. Disponível em: <http://www.observatoriogeograficoamericalatina.org.mx/egal12/Geo- grafiasocioeconomica/Geografiaindustrial/35.pdf>. Acesso em: 10 jun. 2018. IPH - INSTITUTO DE PESQUISAS HOSPITALARES ARQUITETO JARBAS KARMAN (São Paulo). Hospital Israelita Albert Einstein (concurso). 2014. Dis- ponível em: <http://www.iph.org.br/acervo/projetos-arquitetonicos/hospital-is- raelita-albert-einstein-concurso--165>. Acesso em: 19 jun. 2018.'
   - 'LIRA, José Tavares Correia de. Warchavchik Fraturas da Vanguarda. São Paulo: Cosac Naify, 2011.'
   - 'LUCCAS, Luís Henrique Haas. O Sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasi- leira anos 50. Pós. Revista da pós-graduação da FAUUSP. São Paulo, v. 17, n. 27, p. 46-65, jun. 2010.'
-  - SERRA, S. M. B.; FERREIRA, M. de A.; PIGOZZO, B. N. Evolução dos pré- -fabricados de Concreto. Núcleo de Estudos e Tecnologia em Pré-moldados (NET-PRÉ). Departamento de Engenharia Civil da Universidade Federal de São Carlos, 2005.
+  - 'SERRA, S. M. B.; FERREIRA, M. de A.; PIGOZZO, B. N. Evolução dos pré- -fabricados de Concreto. Núcleo de Estudos e Tecnologia em Pré-moldados (NET-PRÉ). Departamento de Engenharia Civil da Universidade Federal de São Carlos, 2005.'
   - 'VELOSO, Fernando A.; VILLELA, André; GIAMBIAGI, Fabio. Determinantes do “milagre” econômico brasileiro (1968-1973): uma análise empírica. Revis- ta Brasileira de Economia, Rio de Janeiro, v. 62, n. 2, p. 221-246, jun. 2008.'
   - 'ZEIN, Ruth Verde: BASTOS, Maria Alice Junqueira. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
-  - ZEIN, Ruth Verde; SANTOS, J. L. T. Arquitetura Brasileira Atual. Revista Proje- to (Porto Alegre) São Paulo, SP, n.42, p. 142-143, 1982.
+  - 'ZEIN, Ruth Verde; SANTOS, J. L. T. Arquitetura Brasileira Atual. Revista Proje- to (Porto Alegre) São Paulo, SP, n.42, p. 142-143, 1982.'
   - A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL 609 610 6º SEMINÁRIO SP DOCOMOMO
+  locale: 'pt-BR'
+  file: 'sdsp06-037.pdf'
+  pages_count: 14
+  pages: '597-610'
