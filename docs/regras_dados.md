@@ -85,7 +85,7 @@ Resumo em `CLAUDE.md`; este arquivo é a referência canônica.
   - Siglas com hífen: `E1-sdbr12`, `AC-CONS-sdnne09`
   - Referências bibliográficas (campo `references`)
 
-### Capitalização (norma brasileira — Ref: FUNAG)
+### Capitalização (norma brasileira)
 
 Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C3%BAsculas
 
@@ -186,7 +186,7 @@ O campo `bio` deve conter informação acadêmica completa e válida:
 
 **Nomes hispânicos (duplo sobrenome):** Respeitar a convenção hispânica, mantendo os dois sobrenomes no `familyname`. Ex: `Fernando Guillermo | Vázquez Ramos`, `Pablo Andrés | Maita Zambrano`. Não reduzir a um sobrenome só.
 
-### Normalização de maiúsculas (FUNAG)
+### Normalização de maiúsculas
 
 Listas de referência em `scripts/normalizar_maiusculas.py` e `dict/normalizar.py`:
 

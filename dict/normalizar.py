@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Biblioteca de normalização FUNAG de maiúsculas/minúsculas.
+Biblioteca de normalização de maiúsculas/minúsculas.
 
 Trata as tipologias de erro #3 (ambiguidade de entidades) e #4 (capitalização)
 descritas em dict/documentacao/ner_fontes.md. Lê dicionário do dict.db.
@@ -10,7 +10,7 @@ Passadas:
   2a — expressões consolidadas (regex multi-palavra)
   3a — toponímicos contextuais (capitalizados após movimento/área/expressão)
 
-Regras FUNAG:
+Regras (norma brasileira, ref. FUNAG):
 - Tudo minúscula, exceto:
   - Primeira letra do título: maiúscula
   - Primeira letra do subtítulo: minúscula
@@ -175,7 +175,7 @@ def normalizar_palavra(palavra, posicao, inicio_frase):
 
 
 def normalizar_texto(texto, eh_subtitulo=False):
-    """Normaliza um texto (título ou subtítulo) conforme FUNAG."""
+    """Normaliza um texto (título ou subtítulo) conforme norma brasileira."""
     load_dict()
 
     if not texto:
@@ -253,7 +253,7 @@ def normalizar_texto(texto, eh_subtitulo=False):
         texto_resultado = pattern.sub(repl, texto_resultado)
 
     # Capitalizar toponímicos após movimentos/áreas (terceira passada)
-    # Regra FUNAG: adjetivos pátrios são capitalizados em expressões
+    # Regra: adjetivos pátrios são capitalizados em expressões
     # consolidadas (ex: "Brutalismo Paulista", "Arquitetura Brasileira")
     texto_resultado = _capitalizar_toponimicos(texto_resultado)
 
@@ -325,7 +325,7 @@ def _capitalizar_toponimicos(texto):
 
 if __name__ == '__main__':
     import argparse
-    parser = argparse.ArgumentParser(description='Normalizar texto FUNAG')
+    parser = argparse.ArgumentParser(description='Normalizar maiúsculas/minúsculas')
     parser.add_argument('texto', nargs='?', help='Texto a normalizar')
     parser.add_argument('--subtitulo', action='store_true',
                         help='Tratar como subtítulo (1a letra minúscula)')

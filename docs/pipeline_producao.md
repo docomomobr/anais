@@ -29,7 +29,7 @@ print(f'Autores com ORCID: {c.fetchone()[0]}')
 Resultado esperado: 21 slugs, ~920 artigos total, ~1100 ORCIDs.
 
 Checklist:
-- [ ] Títulos normalizados (FUNAG) — `scripts/normalizar_maiusculas.py`
+- [x] Títulos normalizados — `scripts/normalizar_maiusculas.py`
 - [ ] Autores deduplicados — `scripts/dedup_authors.py`
 - [ ] ORCIDs buscados — `scripts/fetch_orcid.py`
 - [ ] Fichas catalográficas revisadas — `revisao/fichas_catalograficas.yaml`
@@ -486,7 +486,7 @@ Conferir cada slug com a tabela da Fase 3.
 
 Para cada issue, abrir 2 artigos no navegador e verificar:
 
-- [ ] Título e subtítulo corretos (capitalização FUNAG)
+- [ ] Título e subtítulo corretos (capitalização)
 - [ ] Autores na ordem certa (givenname + familyname)
 - [ ] Abstract presente (quando o artigo tem)
 - [ ] Keywords presentes (quando o artigo tem)

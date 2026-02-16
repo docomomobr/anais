@@ -94,6 +94,8 @@ regionais/{grupo}/
 |--------|--------|
 | `scripts/generate_ojs_xml.py` | Gera XMLs a partir do `anais.db`. `--with-pdf` (1 artigo/XML) ou metadata-only (1 XML/issue) |
 | `scripts/import_ojs.py` | Importa XMLs no OJS. `--per-article` (1 XML/artigo, 15s delay). `--env test` ou `--env prod` |
+| `scripts/normalizar_maiusculas.py` | Normaliza capitalização nos títulos do `anais.db`. `--dry-run`, `--slug SLUG` |
+| `dict/normalizar.py` | Módulo de normalização de maiúsculas. 3 passadas: palavra, expressão, toponímico contextual |
 
 Para autenticação, CSRF, operações destrutivas, importação via curl, e estrutura do XML: ver [`docs/ojs_reference.md`](docs/ojs_reference.md).
 
@@ -106,7 +108,7 @@ Pipeline de produção: ver [`docs/pipeline_producao.md`](docs/pipeline_producao
 Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave:
 
 - **Travessão**: ` - ` isolado → ` — ` (em-dash). Não tocar em intervalos numéricos, palavras compostas, siglas, referências.
-- **Capitalização FUNAG**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial".
+- **Capitalização**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial". Usa `dict/normalizar.py` + `dict.db` (4270 entradas). Ver `docs/devlog_normalizacao_maiusculas.md`.
 - **Autores**: partículas (de, da, do) no `givenname`; `familyname` = último sobrenome. Hispânicos: duplo sobrenome.
 - **Afiliação**: apenas sigla (`FAU-USP`, `PROPAR-UFRGS`). Sem títulos acadêmicos, endereços, emails.
 - **ORCID**: formato `0000-0000-0000-0000` (sem URL).

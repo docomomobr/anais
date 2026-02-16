@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Normaliza maiúsculas/minúsculas nos títulos e subtítulos conforme FUNAG.
+Normaliza maiúsculas/minúsculas nos títulos e subtítulos conforme norma brasileira.
 Usa o módulo dict/ (dict.db) como dicionário de nomes próprios.
 
 ATENÇÃO: Todos os dados de dicionário (nomes, siglas, lugares, movimentos,
@@ -61,7 +61,7 @@ def normalizar_seminario(conn, slug, dry_run=False):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Normalizar maiúsculas FUNAG')
+    parser = argparse.ArgumentParser(description='Normalizar maiúsculas/minúsculas')
     parser.add_argument('--slug', help='Normalizar apenas este seminário')
     parser.add_argument('--dry-run', action='store_true', help='Apenas mostrar, não alterar')
     args = parser.parse_args()
