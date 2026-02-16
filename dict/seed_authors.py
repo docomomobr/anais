@@ -28,7 +28,12 @@ PARTICULAS = {'de', 'da', 'do', 'dos', 'das', 'e', 'del', 'van', 'von', 'di'}
 SKIP = {'a', 'o', 'as', 'os', 'em', 'no', 'na', 'um', 'ao', 'se', 'que', 'com',
         'por', 'para', 'ou', 'mas', 'não', 'sem', 'seu', 'sua', 'mais', 'há',
         'já', 'até', 'entre', 'sobre', 'só', 'bem', 'mal', 'tão', 'nem', 'pois',
-        'como', 'qual', 'cada', 'toda', 'todo', 'esse', 'essa', 'este', 'esta'}
+        'como', 'qual', 'cada', 'toda', 'todo', 'esse', 'essa', 'este', 'esta',
+        # Adjetivos/substantivos comuns que aparecem em nomes compostos
+        # mas não devem ser tratados como nomes próprios standalone
+        'uma', 'cidade', 'verde', 'branco', 'negro', 'maior', 'menor',
+        'discussão', 'intervenções', 'alguns', 'alto', 'baixo',
+        'filho', 'neto', 'neta', 'sobrinho', 'sobrinha'}
 
 
 def is_initial(word):

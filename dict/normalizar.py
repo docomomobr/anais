@@ -181,13 +181,32 @@ def normalizar_texto(texto, eh_subtitulo=False):
     if not texto:
         return texto
 
-    # Remove ponto final se houver
-    texto = texto.rstrip('.')
+    # Remove ponto final se houver (mas preserva abreviações como "E.U.A.")
+    if texto.endswith('.'):
+        last_word = texto.split()[-1] if texto.split() else ''
+        # Só remove se a última palavra não tem pontos internos (abreviação)
+        if '.' not in last_word[:-1]:
+            texto = texto[:-1]
 
     palavras = texto.split()
     resultado = []
+    # Rastrear início de frase (após ponto final, ? ou !)
+    inicio_nova_frase = False
 
     for i, palavra in enumerate(palavras):
+        # Detectar se a palavra anterior terminou com pontuação de fim de frase
+        if i > 0 and resultado:
+            prev = resultado[-1]
+            if prev.endswith('?') or prev.endswith('!'):
+                inicio_nova_frase = True
+            elif prev.endswith('.'):
+                core = re.sub(r'[^\w]', '', prev)
+                # Não é nova frase se:
+                # - Último alfa antes do ponto é maiúsculo (sigla: "MG.", "UFPE.")
+                # - Núcleo curto ≤3 chars (abreviação: "Jr.", "h.", "m.", "ee.", "Dr.")
+                if not (prev[-2:-1].isupper() or len(core) <= 3):
+                    inicio_nova_frase = True
+
         if '-' in palavra and not palavra.startswith('-'):
             # Tratar cada parte do hífen
             partes = palavra.split('-')
@@ -212,8 +231,9 @@ def normalizar_texto(texto, eh_subtitulo=False):
                     partes_norm.append(parte)
             resultado.append('/'.join(partes_norm))
         else:
-            inicio_frase = (i == 0) and not eh_subtitulo
-            palavra_norm = normalizar_palavra(palavra, i, inicio_frase)
+            inicio_frase = ((i == 0) and not eh_subtitulo) or inicio_nova_frase
+            palavra_norm = normalizar_palavra(palavra, i if not inicio_nova_frase else 0, inicio_frase)
+            inicio_nova_frase = False
 
             # Subtítulo: forçar minúscula na 1a palavra (exceto sigla/nome/lugar/area/mov)
             if eh_subtitulo and i == 0:
@@ -227,8 +247,9 @@ def normalizar_texto(texto, eh_subtitulo=False):
     texto_resultado = ' '.join(resultado)
 
     # Aplicar expressões consolidadas (segunda passada)
+    # Usa \b para evitar match dentro de palavras (ex: "aeroporto" ≠ "Porto")
     for expr, repl in _EXPRESSOES.items():
-        pattern = re.compile(re.escape(expr), re.IGNORECASE)
+        pattern = re.compile(r'\b' + re.escape(expr) + r'\b', re.IGNORECASE)
         texto_resultado = pattern.sub(repl, texto_resultado)
 
     # Capitalizar toponímicos após movimentos/áreas (terceira passada)

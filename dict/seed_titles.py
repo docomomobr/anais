@@ -60,6 +60,28 @@ STOPWORDS = {
     'cap', 'eixo', 'mesa', 'sessão', 'grupo', 'temático', 'temática',
     'completo', 'completos', 'resumo', 'resumos', 'expandido', 'expandidos',
     'comunicação', 'comunicações', 'relato', 'relatos', 'experiência',
+    # Adjetivos, substantivos comuns e palavras contextuais (não são nomes próprios)
+    'abolição', 'ação', 'administrativo', 'aeroporto', 'arquitetônico',
+    'arquivo', 'artístico', 'atlântico', 'auditório', 'barra',
+    'belas', 'bienal', 'brutalista', 'caixa', 'calçadão',
+    'cemitério', 'centenário', 'central', 'clínicas', 'colonial',
+    'companhia', 'congresso', 'contemporânea', 'contemporâneo', 'correios',
+    'críticos', 'design', 'diretor', 'distrito', 'educação',
+    'embaixada', 'esplanada', 'extraordinário', 'ferroviária', 'forte',
+    'fórum', 'fundo', 'gaúcha', 'gaúcho', 'gestão',
+    'governo', 'governador', 'grand', 'historiografia', 'histórico',
+    'house', 'indústria', 'industrial', 'infância', 'irmãos',
+    'justiça', 'laboratório', 'latina', 'latino', 'legislativa',
+    'marine', 'minha', 'misericórdia', 'missões', 'modernista',
+    'módulo', 'operária', 'operário', 'oeste', 'palace',
+    'patrimonial', 'pavilhão', 'pensões', 'planalto', 'plásticas',
+    'popular', 'praia', 'prefeito', 'prefeitura', 'presidente',
+    'refeitório', 'regional', 'república', 'residência', 'revista',
+    'sanatório', 'saúde', 'seminário', 'senhora', 'triângulo',
+    'tribunal', 'universitária', 'universitário', 'urbana', 'urbano',
+    'vidro', 'builds', 'concrete', 'déco', 'art',
+    'base', 'campo', 'vista', 'piloto', 'passo',
+    'navio', 'fora', 'palha', 'cristo', 'senhora',
 }
 
 
@@ -111,6 +133,9 @@ def extract_candidates(source_db, table='articles',
                     continue
                 # Pular se é toda maiúscula (possível sigla não catalogada)
                 if clean.isupper():
+                    continue
+                # Pular compostos com UF (Grande-PB, Natal/RN, Santos/SP)
+                if re.search(r'[-/][A-Z]{2}$', clean):
                     continue
 
                 canonical = clean[0].upper() + clean[1:]
