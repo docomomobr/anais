@@ -191,6 +191,10 @@ def export_seminar(conn, slug):
         }
         if art['subtitle']:
             article['subtitle'] = art['subtitle']
+        if art['title_en']:
+            article['title_en'] = art['title_en']
+        if art['subtitle_en']:
+            article['subtitle_en'] = art['subtitle_en']
         article['authors'] = authors
         article['section'] = art['section_title']
         article['abstract'] = art['abstract']

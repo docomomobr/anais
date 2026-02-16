@@ -253,7 +253,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-005'
-  title: Arquitetura Moderna da residência universitária da universidade federal do Ceará
+  title: Arquitetura Moderna da Residência Universitária da Universidade Federal do Ceará
   subtitle: um estudo de caso
   authors:
   - givenname: Marcos Venicius Pinto de
@@ -345,7 +345,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-007'
-  title: Descaracterizações e potencialidades da Arquitetura Moderna dos clubes recreativos e esportivos em
+  title: Descaracterizações e potencialidades da Arquitetura Moderna dos clubes recreativos e esportivos em Belém
   authors:
   - givenname: Renata Lucena
     familyname: Gribel
@@ -444,7 +444,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-009'
-  title: Estudo de edificações Modernistas do arquiteto Miguel Caddah
+  title: Estudo de edificações modernistas do arquiteto Miguel Caddah
   authors:
   - givenname: Nayane Áurea Santiago
     familyname: Costa
@@ -489,7 +489,9 @@ articles:
 
 - id: 'sdnne05-010'
   title: Memórias devastadas
-  subtitle: 'o recente processo de transformação urbana e a dilapidação do Patrimônio Arquitetônico moderno de Macapá-AP. devastated memories: the recent case of urban transformation and the dilapidation of architectural heritage modern of macapa-AP'
+  subtitle: 'o recente processo de transformação urbana e a dilapidação do Patrimônio Arquitetônico Moderno de Macapá-AP'
+  title_en: Devastated memories
+  subtitle_en: 'the recent case of urban transformation and the dilapidation of architectural heritage modern of Macapa-AP'
   authors:
   - givenname: Eloane de Jesus Ramos
     familyname: Cantuária
@@ -559,7 +561,7 @@ articles:
 
 - id: 'sdnne05-011'
   title: “Nordeste selvagem e acolhedor”
-  subtitle: 'o olhar carioca, paulista e mineiro sobre a Arquitetura Moderna Nordestina através das revistas especializadas, 19501970'
+  subtitle: 'o olhar carioca, paulista e mineiro sobre a Arquitetura Moderna Nordestina através das revistas especializadas, 1950–1970'
   authors:
   - givenname: José Carlos Huapaya
     familyname: Espinoza
@@ -608,8 +610,8 @@ articles:
   pages: null
 
 - id: 'sdnne05-012'
-  title: Os edifícios Ouro Preto e almirante barroso de Diógenes Rebouças
-  subtitle: expressões do moderno nos enlaces entre a Arquitetura e o Urbanismo em Salvador
+  title: Os edifícios Ouro Preto e Almirante Barroso de Diógenes Rebouças
+  subtitle: expressões do Moderno nos enlaces entre a Arquitetura e o Urbanismo em Salvador
   authors:
   - givenname: Juliana Cardoso
     familyname: Nery
@@ -667,7 +669,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-013'
-  title: O Nordeste na historiografia da Arquitetura Moderna nacional
+  title: O Nordeste na historiografia da Arquitetura Moderna Nacional
   authors:
   - givenname: Guilah
     familyname: Naslavsky
@@ -803,7 +805,8 @@ articles:
   pages: null
 
 - id: 'sdnne05-016'
-  title: 'Raul de Lagos Cirne. A presença mineira na Arquitetura Piauiense. 1971-1975'
+  title: Raul de Lagos Cirne
+  subtitle: 'a presença mineira na Arquitetura Piauiense, 1971–1975'
   authors:
   - givenname: Alcília Afonso de Albuquerque e
     familyname: Melo
@@ -896,7 +899,9 @@ articles:
 
 - id: 'sdnne05-018'
   title: A (in) sustentável adaptação do poema
-  subtitle: 'considerações sobre a proposta – não concretizada – de adequação do estádio machadão ao padrão FIFA / copa 2014 the (UN)BEARABLE adaptation of the poem: considerations on the proposal – not materialized – of renovations in machadão stadium to meet FIFA´S requirements/ world cup 2014'
+  subtitle: considerações sobre a proposta – não concretizada – de adequação do Estádio Machadão ao padrão FIFA Copa 2014
+  title_en: The (UN)BEARABLE adaptation of the poem
+  subtitle_en: considerations on the proposal – not materialized – of renovations in machadão stadium to meet FIFA´S requirements/ world cup 2014
   authors:
   - givenname: José Clewton do
     familyname: Nascimento
@@ -961,8 +966,8 @@ articles:
   pages: null
 
 - id: 'sdnne05-020'
-  title: Duas obras da memória moderna
-  subtitle: o vivaldão e o Chapéu de Palha
+  title: Duas obras da Memória Moderna
+  subtitle: o Vivaldão e o Chapéu de Palha
   authors:
   - givenname: Andréa Soler
     familyname: Machado
@@ -1019,8 +1024,8 @@ articles:
   pages: null
 
 - id: 'sdnne05-021'
-  title: Estratégias de intervenções para requalificação e valorização do Patrimônio Arquitetônico moderno
-  subtitle: estudo de caso no edifício da secretaria municipal de obras e viação em Porto Alegre
+  title: Estratégias de intervenções para requalificação e valorização do Patrimônio Arquitetônico Moderno
+  subtitle: estudo de caso no Edifício da Secretaria Municipal de Obras e Viação em Porto Alegre
   authors:
   - givenname: Betina Tschiedel
     familyname: Martau
@@ -1171,7 +1176,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-024'
-  title: O barão assinalado
+  title: O Barão assinalado
   subtitle: a maestria compositiva de Amorim e Maia Neto
   authors:
   - givenname: Luiz Manuel do Eirado
@@ -1217,7 +1222,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-025'
-  title: Patrimônio Moderno e acessibilidade universal
+  title: Patrimônio Moderno e Acessibilidade Universal
   subtitle: permanências e interferências
   authors:
   - givenname: Gérsica Vasconcelos
@@ -1337,7 +1342,7 @@ articles:
   pages: null
 
 - id: 'sdnne05-027'
-  title: A memória moderna e a casa popular na contemporaneidade
+  title: A Memória Moderna e a casa popular na Contemporaneidade
   subtitle: 'possibilidades, permanências e devires'
   authors:
   - givenname: Thalita Lins do
@@ -1595,7 +1600,7 @@ articles:
   - Arquitetura Contemporânea
   - Arquitetura Moderna
   - Mapa Arquitetos
-  - Sede do CREAParaíba
+  - 'Sede do CREA-Paraíba'
   - Concursos de Arquitetura
   abstract_en: 'Inaugurated in 2012, the Headquarters of the Regional Council of Engineering and Agronomy (CREA) in Campina Grande - Paraíba, is a representative building for Brazilian contemporary architecture and for the production of the architecture office MAPA (Studio Paralelo + MAAM). As a result of a National Public Architecture Competition, both the project design and the building had great national and international repercussions. In 2014 it was selected, among the four works, to represent Brazilian architecture in the IX Ibero-American Architecture and Urbanism Biennale (BIAU). This article integrates the thematic session "The Permanence of Modernism in Contemporaneity" proposed by the 5° DOCOMOMO N/NE and aims to discuss the continuity of modern architecture in the current production.'
   keywords_en:
@@ -1607,7 +1612,15 @@ articles:
   - 'CAVALCANTI, Lauro e DO LAGO, André Corrêa. Ainda moderno?: arquitetura brasileira contemporânea. Rio de Janeiro: Editora Nova Fronteira, 2005.'
   - 'ACAYABA, Marlene Milan. Residências em São Paulo: 1947-1975. São Paulo: Editora Romano Guerra, 2011.'
   - 'ADRIÀ, Miquel; COMAS, Carlos Eduardo Dias. La casa latinoamericana moderna. 20 paradigmas de mediados del siglo XX. Editorial Gustavo Gili, Barcelona / México DF, 2003.'
-  - 'BAHIA, Denise Marques. Assim caminha a modernidade... MDC - Revista de Arquitetura e Urbanismo, n.º 002, fev. 2006. p. 6. Revista Monolito número 18. Anuário da Editora Monolito 2013. p. 140-149. Revista AU Arquitetura e Urbanismo, número 231. Editora PINI, junho 2013. p. 34-39. Exposição “Nove Novos – Arquitetura emergente do Brasil”, organização DAM Deutsches Architekturmuseum, Frankfurt. 2013-2014. Seleção de obras IX Bienal Ibero-Americana. Disponível em: <http://www.bienalesdearquitectura.es/ index.php/es/resultados-biau2/obras-premiadas/4403-9bi-1492>. Acesso em 19 ago. 2014. Lauro Cavalcanti e André Corrêa do Lago. Ainda moderno? Arquitetura brasileira contemporânea. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404>. Acesso em 19 ago. 2014. Sede Administrativa do CREA: Mapa arquitetos. Disponível em: <http://mapaarq.com/175536/1275427//cre-sede-administrativa-crea>. Acesso em 20 ago. 2014. "Sede CREA-PB / MAPA" [CREA-PB Headquarters / MAPA] 19 Dec 2013. ArchDaily. Disponível em: <http://www.archdaily.com.br/161966/sede-crea-pb-mapa>. Acesso em 24 ago. 2014. 1º Lugar – Sede do CREA – Campina Grande – Paraíba. Disponível em: <http://concursosdeprojeto.org/2010/08/20/conc urso-crea-pb-01>. Acesso em 23 ago. 2014.'
+  - 'BAHIA, Denise Marques. Assim caminha a modernidade... MDC - Revista de Arquitetura e Urbanismo, n.º 002, fev. 2006. p. 6.'
+  - 'Revista Monolito número 18. Anuário da Editora Monolito 2013. p. 140-149.'
+  - 'Revista AU Arquitetura e Urbanismo, número 231. Editora PINI, junho 2013. p. 34-39.'
+  - 'Exposição "Nove Novos — Arquitetura emergente do Brasil", organização DAM Deutsches Architekturmuseum, Frankfurt. 2013-2014.'
+  - 'Seleção de obras IX Bienal Ibero-Americana. Disponível em: <http://www.bienalesdearquitectura.es/index.php/es/resultados-biau2/obras-premiadas/4403-9bi-1492>. Acesso em 19 ago. 2014.'
+  - 'Lauro Cavalcanti e André Corrêa do Lago. Ainda moderno? Arquitetura brasileira contemporânea. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404>. Acesso em 19 ago. 2014.'
+  - 'Sede Administrativa do CREA: Mapa arquitetos. Disponível em: <http://mapaarq.com/175536/1275427//cre-sede-administrativa-crea>. Acesso em 20 ago. 2014.'
+  - '"Sede CREA-PB / MAPA" [CREA-PB Headquarters / MAPA] 19 Dec 2013. ArchDaily. Disponível em: <http://www.archdaily.com.br/161966/sede-crea-pb-mapa>. Acesso em 24 ago. 2014.'
+  - '1º Lugar — Sede do CREA — Campina Grande — Paraíba. Disponível em: <http://concursosdeprojeto.org/2010/08/20/concurso-crea-pb-01>. Acesso em 23 ago. 2014.'
   locale: 'pt-BR'
   file: 'sdnne05-031.pdf'
   pages_count: 7

@@ -46,6 +46,8 @@ CREATE TABLE IF NOT EXISTS articles (
     section_id INTEGER REFERENCES sections(id),
     title TEXT NOT NULL,
     subtitle TEXT,
+    title_en TEXT,
+    subtitle_en TEXT,
     locale TEXT DEFAULT 'pt-BR',
     pages TEXT,
     pages_count INTEGER,

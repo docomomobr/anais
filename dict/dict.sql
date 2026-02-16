@@ -4283,5 +4283,13 @@ INSERT INTO "dict_names" VALUES('residência universitária','expressao','Resid�
 INSERT INTO "dict_names" VALUES('instituto de antibióticos','expressao','Instituto de Antibióticos','revisao-sdnne02');
 INSERT INTO "dict_names" VALUES('instituto de cacau da bahia','expressao','Instituto de Cacau da Bahia','revisao-sdnne02');
 INSERT INTO "dict_names" VALUES('patrimônio arquitetônico moderno','expressao','Patrimônio Arquitetônico Moderno','revisao-sdnne02');
+INSERT INTO "dict_names" VALUES('almirante barroso','lugar','Almirante Barroso','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('vivaldão','lugar','Vivaldão','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('estádio machadão','lugar','Estádio Machadão','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('secretaria municipal de obras e viação','expressao','Secretaria Municipal de Obras e Viação','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('acessibilidade universal','expressao','Acessibilidade Universal','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('memória moderna','expressao','Memória Moderna','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('contemporaneidade','expressao','Contemporaneidade','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('universidade federal do ceará','expressao','Universidade Federal do Ceará','revisao-sdnne05');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;
