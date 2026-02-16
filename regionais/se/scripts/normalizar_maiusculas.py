@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Normaliza maiúsculas/minúsculas nos títulos conforme FUNAG.
+Normaliza maiúsculas/minúsculas nos títulos conforme norma brasileira de capitalização.
 Adaptado de nacionais/sdbr12_fontes/normalizar_maiusculas.py para seminários SP.
 
 Regras:
 - Tudo minúscula, exceto:
   - Primeira letra do título: maiúscula
-  - Primeira letra do subtítulo: minúscula (regra FUNAG)
+  - Primeira letra do subtítulo: minúscula
   - Siglas: maiúsculas (BNH, USP, IPHAN)
   - Nomes próprios: capitalizado (Niemeyer, Brasília, Pedregulho)
 """
@@ -268,14 +268,14 @@ COMPOSTOS_PROPRIOS = {
     'igepac-sp': 'IGEPAC-SP',
 }
 
-# Disciplinas/áreas do saber (FUNAG: maiúscula)
+# Disciplinas/áreas do saber (norma brasileira: maiúscula)
 AREAS_SABER = {
     'arquitetura', 'urbanismo', 'história', 'geografia', 'filosofia',
     'sociologia', 'engenharia', 'arte', 'artes', 'design',
     'fotografia', 'teatro', 'música',
 }
 
-# Movimentos/períodos (FUNAG: maiúscula)
+# Movimentos/períodos (norma brasileira: maiúscula)
 MOVIMENTOS = {
     'modernismo', 'brutalismo', 'concretismo', 'neoclassicismo', 'neocolonial',
     'ecletismo', 'racionalismo', 'funcionalismo', 'renascimento',

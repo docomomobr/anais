@@ -99,7 +99,7 @@ Tipicamente, artigos acadêmicos têm: título, autores, resumo, palavras-chave 
 
 Reutilizar scripts existentes de `regionais/nne/`:
 
-1. **Capitalização FUNAG** (`normalizar_maiusculas.py`): adaptar dicionários para contexto SP
+1. **Normalização de maiúsculas** (`normalizar_maiusculas.py`): adaptar dicionários para contexto SP
    - Adicionar nomes próprios SP: Bratke, Artigas, Warchavchik, Niemeyer, Kneese de Mello, Rino Levi, etc.
    - Expressões consolidadas: "São Paulo", "São Carlos", "São Caetano do Sul", "São Judas Tadeu", etc.
 

@@ -7,7 +7,7 @@ Problemas detectados:
 2. titulo contém título+subtítulo juntos (separados por ": ")
 3. titulo em CAIXA ALTA precisa ser normalizado
 
-Regras FUNAG:
+Regras da norma brasileira de capitalização:
 - Título: primeira letra maiúscula, resto minúscula (exceto nomes próprios e siglas)
 - Subtítulo: inicia com minúscula (exceto nomes próprios, siglas)
 """

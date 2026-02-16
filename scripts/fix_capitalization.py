@@ -137,7 +137,7 @@ for old, new in [
 
 
 # ═══════════════════════════════════════════════════════════════
-# Phase 5: Consolidated expressions (FUNAG rules)
+# Phase 5: Consolidated expressions (norma brasileira de capitalização)
 # ═══════════════════════════════════════════════════════════════
 print("\n── Phase 5: Consolidated expressions ──")
 for old, new in [

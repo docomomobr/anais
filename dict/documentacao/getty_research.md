@@ -110,7 +110,7 @@ Com base na pesquisa AAT + validação contra o corpus de 2345 títulos:
 - `cidade jardim` → `Cidade Jardim` (2 oc.) — conceito urbanístico
 - `cidade moderna` → `Cidade Moderna` (14 oc.) — paralelo a "Arquitetura Moderna"
 
-**Termos descartados (técnicas/tipos, não conceitos FUNAG):**
+**Termos descartados (técnicas/tipos, não conceitos da norma de capitalização):**
 - concreto armado (12 oc.) — técnica construtiva, não conceito capitalizado
 - concreto aparente (5 oc.) — idem
 - habitação social (8 oc.) — tipo habitacional, não expressão consolidada

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Normaliza maiúsculas/minúsculas nos títulos conforme FUNAG.
+Normaliza maiúsculas/minúsculas nos títulos conforme norma brasileira de capitalização.
 
 Regras:
 - Tudo minúscula, exceto:
   - Primeira letra do título: maiúscula
-  - Primeira letra do subtítulo: minúscula (regra FUNAG)
+  - Primeira letra do subtítulo: minúscula
   - Siglas: maiúsculas (BNH, USP, IPHAN)
   - Nomes próprios: capitalizado (Niemeyer, Brasília, Pedregulho)
 """

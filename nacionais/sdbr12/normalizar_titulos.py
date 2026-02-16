@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Normaliza títulos e subtítulos dos YAMLs conforme regras FUNAG.
+Normaliza títulos e subtítulos dos YAMLs conforme norma brasileira de capitalização.
 
 Regras:
 - Títulos: maiúscula na primeira letra e em nomes próprios/siglas

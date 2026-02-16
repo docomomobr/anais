@@ -2,7 +2,7 @@
 
 Módulo reutilizável com dois pipelines:
 
-1. **NER** (Named Entity Recognition) — normalização de maiúsculas/minúsculas em títulos e subtítulos, conforme a norma brasileira de capitalização (ref: [FUNAG](https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C3%BAsculas))
+1. **NER** (Named Entity Recognition) — normalização de maiúsculas/minúsculas em títulos e subtítulos, conforme a norma brasileira de capitalização (referência: manual da [FUNAG](https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C3%BAsculas))
 2. **Entity Resolution** — deduplicação de nomes de pessoas, reconhecendo variantes (abreviações, iniciais, partículas) como a mesma entidade
 
 Usado nos Anais Docomomo Brasil e projetado para reuso em outros projetos (Momopedia, etc.).
@@ -24,7 +24,7 @@ O pipeline aborda 5 tipologias de erro em metadados bibliográficos
 | 1 | **OCR / digitação** (substituição de caracteres, fusão de palavras) | Fora de escopo | Dados vêm de Word/Even3, não de OCR. Erros residuais corrigidos na revisão humana (`revisao/`) |
 | 2 | **Variância terminológica** ("Concreto Aparente" vs "Béton Brut") | Fora de escopo | Normalizamos capitalização, não vocabulário. Termos preservados como no original |
 | 3 | **Ambiguidade de entidades** ("igreja" genérico vs "Igreja da Pampulha") | ✅ Coberto | dict.db distingue por categoria: expressões consolidadas, movimentos, lugares, nomes próprios |
-| 4 | **Inconsistência de capitalização** (CAIXA ALTA, Title Case errado) | ✅ Core | `normalizar.py` aplica regras FUNAG em 3 passadas (palavras → expressões → toponímicos) |
+| 4 | **Inconsistência de capitalização** (CAIXA ALTA, Title Case errado) | ✅ Core | `normalizar.py` aplica norma brasileira de capitalização em 3 passadas (palavras → expressões → toponímicos) |
 | 5 | **Multilíngue / diacríticos** (acentos, mistura de idiomas) | Parcial | <2% dos títulos são en/es. Acentos preservados. Travessão normalizado (hífen → em-dash) |
 
 A tipologia 4 é o núcleo do módulo. As tipologias 1 e 2 são tratadas pela revisão humana

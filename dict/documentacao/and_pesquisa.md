@@ -45,7 +45,7 @@ O módulo `dict/` contém **duas pipelines independentes** que compartilham o me
 
 **Arquivo principal:** `dict/normalizar.py`
 
-Normaliza títulos e subtítulos de artigos conforme as regras brasileiras de capitalização (referência: FUNAG). Usa um banco de dicionário (`dict.db`, 3.443 entradas) para reconhecer entidades nomeadas e aplicar a capitalização correta.
+Normaliza títulos e subtítulos de artigos conforme a norma brasileira de capitalização. Usa um banco de dicionário (`dict.db`, 3.443 entradas) para reconhecer entidades nomeadas e aplicar a capitalização correta.
 
 **Categorias no dicionário:**
 
@@ -181,7 +181,7 @@ O pipeline de dedup reduziu o número de autores e registrou 542 variantes. Os 1
 ```
 dict/
 ├── __init__.py              # Exports dos dois pipelines
-├── normalizar.py            # Pipeline 1: NER + normalização FUNAG
+├── normalizar.py            # Pipeline 1: NER + normalização de maiúsculas
 ├── entity_resolution.py     # Pipeline 2: detecção de variantes de nome
 ├── init_db.py               # Cria dict.db com schema + entradas manuais
 ├── seed_authors.py          # Importa nomes de autores de banco externo

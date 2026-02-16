@@ -10,7 +10,7 @@ Passadas:
   2a — expressões consolidadas (regex multi-palavra)
   3a — toponímicos contextuais (capitalizados após movimento/área/expressão)
 
-Regras (norma brasileira, ref. FUNAG):
+Regras da norma brasileira de capitalização:
 - Tudo minúscula, exceto:
   - Primeira letra do título: maiúscula
   - Primeira letra do subtítulo: minúscula

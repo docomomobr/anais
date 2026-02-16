@@ -2,7 +2,7 @@
 """Constrói sdmg01.yaml a partir dos metadados extraídos.
 
 Lê metadados_extraidos.json (gerado por extrair_metadados.py),
-aplica normalização (FUNAG, travessão, nomes) e gera o YAML
+aplica normalização (maiúsculas, travessão, nomes) e gera o YAML
 consolidado no formato padrão do projeto.
 
 Uso:
