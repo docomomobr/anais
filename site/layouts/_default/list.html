@@ -13,12 +13,14 @@
   {{/* Âmbito level: list events */}}
   <h1 class="ambito-title">{{ .Title }}</h1>
 
-  <div class="event-list">
+  <div class="sort-toggle">
+    <button class="sort-btn active" data-sort="date">cronológico</button>
+    <button class="sort-btn" data-sort="state">por estado</button>
+  </div>
+
+  <div class="event-list" id="event-list">
   {{ range .Sections }}
-    <a href="{{ .RelPermalink }}" class="event-card">
-      {{ with .Params.cover }}
-      {{ $img := $.Page.Resources.Match . }}
-      {{ end }}
+    <a href="{{ .RelPermalink }}" class="event-card" data-date="{{ .Date.Format "2006" }}" data-state="{{ .Params.event_state | default "" }}" data-state-name="{{ .Params.event_state_name | default "" }}">
       {{ with .Resources.GetMatch "*.png" }}
       <img src="{{ .RelPermalink }}" alt="" class="event-cover">
       {{ end }}
@@ -31,6 +33,47 @@
     </a>
   {{ end }}
   </div>
+
+  <script>
+  (function() {
+    var list = document.getElementById('event-list');
+    var btns = document.querySelectorAll('.sort-btn');
+    btns.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        btns.forEach(function(b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+        sortEvents(btn.dataset.sort);
+      });
+    });
+    function sortEvents(mode) {
+      // Remove state headings
+      list.querySelectorAll('.state-heading').forEach(function(h) { h.remove(); });
+      var cards = Array.from(list.querySelectorAll('.event-card'));
+      if (mode === 'date') {
+        cards.sort(function(a, b) { return b.dataset.date.localeCompare(a.dataset.date); });
+        cards.forEach(function(c) { list.appendChild(c); });
+      } else {
+        cards.sort(function(a, b) {
+          var sa = a.dataset.stateName || 'ZZZ', sb = b.dataset.stateName || 'ZZZ';
+          if (sa !== sb) return sa.localeCompare(sb);
+          return b.dataset.date.localeCompare(a.dataset.date);
+        });
+        var current = '';
+        cards.forEach(function(c) {
+          var st = c.dataset.stateName || '';
+          if (st && st !== current) {
+            current = st;
+            var h = document.createElement('h2');
+            h.className = 'state-heading section-heading';
+            h.textContent = st;
+            list.appendChild(h);
+          }
+          list.appendChild(c);
+        });
+      }
+    }
+  })();
+  </script>
 {{ else }}
   {{/* Event level: list articles with cover */}}
   <div class="event-header">

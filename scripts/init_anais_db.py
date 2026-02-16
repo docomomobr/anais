@@ -26,7 +26,8 @@ CREATE TABLE IF NOT EXISTS seminars (
     publisher TEXT,
     source TEXT,
     editors TEXT,
-    volume_pdf TEXT
+    volume_pdf TEXT,
+    related_urls TEXT
 );
 
 CREATE TABLE IF NOT EXISTS sections (

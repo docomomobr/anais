@@ -12,6 +12,7 @@ Uso:
 import argparse
 import json
 import os
+import re
 import sqlite3
 import sys
 import textwrap
@@ -81,6 +82,53 @@ def get_ambito(slug):
         if slug.startswith(prefix):
             return a_slug, a_name
     return 'outros', 'Outros'
+
+
+# City → (state abbrev, state name) for ABNT citation and state grouping
+CITY_STATE = {
+    'Belém': ('PA', 'Pará'),
+    'Belo Horizonte': ('MG', 'Minas Gerais'),
+    'Brasília': ('DF', 'Distrito Federal'),
+    'Campina Grande': ('PB', 'Paraíba'),
+    'Curitiba': ('PR', 'Paraná'),
+    'Fortaleza': ('CE', 'Ceará'),
+    'Manaus': ('AM', 'Amazonas'),
+    'Niterói': ('RJ', 'Rio de Janeiro'),
+    'Palmas': ('TO', 'Tocantins'),
+    'Porto Alegre': ('RS', 'Rio Grande do Sul'),
+    'Recife': ('PE', 'Pernambuco'),
+    'Rio de Janeiro': ('RJ', 'Rio de Janeiro'),
+    'Salvador': ('BA', 'Bahia'),
+    'Santos': ('SP', 'São Paulo'),
+    'São Carlos': ('SP', 'São Paulo'),
+    'São Luís': ('MA', 'Maranhão'),
+    'São Paulo': ('SP', 'São Paulo'),
+    'Uberlândia': ('MG', 'Minas Gerais'),
+    'Viçosa': ('MG', 'Minas Gerais'),
+}
+
+
+def parse_event_title(title):
+    """Decompose event title into ABNT citation components.
+
+    Input:  '4º Seminário Docomomo Rio, Rio de Janeiro, 2017'
+    Output: {'event_name': 'Seminário Docomomo Rio',
+             'event_edition': '4',
+             'event_city': 'Rio de Janeiro',
+             'event_year': '2017'}
+    """
+    m = re.match(
+        r'(\d+)º\s+(Seminário|Encontro)\s+Docomomo\s+(.+?),\s+(.+),\s+(\d{4})$',
+        title
+    )
+    if not m:
+        return None
+    return {
+        'event_name': f'{m.group(2)} Docomomo {m.group(3)}',
+        'event_edition': m.group(1),
+        'event_city': m.group(4),
+        'event_year': m.group(5),
+    }
 
 
 def yaml_escape(val):
@@ -198,6 +246,13 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     lines.append(f'event_slug: {seminar["slug"]}')
     lines.append(f'ambito: {ambito_slug}')
     lines.append(f'ambito_nome: "{ambito_nome}"')
+    # ABNT citation components (parsed from event_title)
+    cite = parse_event_title(seminar['title'])
+    if cite:
+        lines.append(f'event_name: "{yaml_escape(cite["event_name"])}"')
+        lines.append(f'event_edition: {cite["event_edition"]}')
+        lines.append(f'event_city: "{yaml_escape(cite["event_city"])}"')
+        lines.append(f'event_year: {cite["event_year"]}')
     if article['locale']:
         lines.append(f'locale: "{article["locale"]}"')
     if article['pages']:
@@ -308,6 +363,14 @@ def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
     if seminar['volume_pdf']:
         lines.append(f'volume_pdf: "{seminar["volume_pdf"]}"')
     lines.append(f'article_count: {len(articles)}')
+    # State info (parsed from event title city)
+    cite = parse_event_title(seminar['title'])
+    if cite:
+        city = cite['event_city']
+        state_info = CITY_STATE.get(city)
+        if state_info:
+            lines.append(f'event_state: "{state_info[0]}"')
+            lines.append(f'event_state_name: "{state_info[1]}"')
     lines.append('---')
 
     filepath = os.path.join(event_dir, '_index.md')

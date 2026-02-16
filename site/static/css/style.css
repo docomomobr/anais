@@ -112,6 +112,26 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
 .ambito-card h2 { font-size: 1.2rem; margin: 0 0 0.25rem; color: var(--green); }
 .ambito-card p { font-size: var(--font-sm); color: var(--gray-500); margin: 0; }
 
+/* Sort toggle */
+.sort-toggle { margin-top: 0.75rem; display: flex; gap: 0.5rem; }
+.sort-btn {
+  font-family: var(--font-display);
+  font-size: var(--font-sm);
+  font-weight: 500;
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--gray-300);
+  border-radius: 3px;
+  background: var(--white);
+  color: var(--gray-500);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.sort-btn:hover { border-color: var(--green); color: var(--green); }
+.sort-btn.active { background: var(--green); color: var(--white); border-color: var(--green); }
+
+/* State heading (injected by JS) */
+.state-heading { margin-top: 1.5rem; }
+
 /* Event list */
 .event-list { margin-top: 1rem; }
 .event-card {

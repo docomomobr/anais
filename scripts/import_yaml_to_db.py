@@ -53,6 +53,7 @@ def parse_seminar(data):
             'source': iss.get('source'),
             'editors': iss.get('editors', []),
             'volume_pdf': iss.get('volume_pdf'),
+            'related_urls': iss.get('related_urls', []),
         }
 
     # Formato 2: sdnne02/05 com evento/publicacao
@@ -75,6 +76,7 @@ def parse_seminar(data):
             'source': (data.get('fontes', {}).get('docomomobrasil', {}) or {}).get('url'),
             'editors': ev.get('organizacao', []),
             'volume_pdf': data.get('volume_pdf'),
+            'related_urls': data.get('related_urls', []),
         }
 
     # Formato 3: sdsul06-08 com campos no topo
@@ -94,6 +96,7 @@ def parse_seminar(data):
         'source': data.get('source'),
         'editors': data.get('editors', []),
         'volume_pdf': data.get('volume_pdf'),
+        'related_urls': data.get('related_urls', []),
     }
 
 
@@ -266,12 +269,13 @@ def main():
         print(f'{slug:12s} — {len(articles_raw)} artigos ... ', end='', flush=True)
 
         # Inserir seminário
+        related = sem.get('related_urls', [])
         cur.execute('''
             INSERT OR REPLACE INTO seminars
             (slug, title, subtitle, year, volume, number, date_published,
              isbn, doi, description, location, publisher, source, editors,
-             volume_pdf)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+             volume_pdf, related_urls)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (
             slug, sem['title'], sem['subtitle'], sem['year'],
             sem['volume'], sem['number'],
@@ -280,6 +284,7 @@ def main():
             sem['location'], sem['publisher'], sem['source'],
             json.dumps(sem['editors'], ensure_ascii=False) if sem['editors'] else '[]',
             sem['volume_pdf'],
+            json.dumps(related, ensure_ascii=False) if related else None,
         ))
         stats['seminars'] += 1
 

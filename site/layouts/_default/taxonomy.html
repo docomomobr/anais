@@ -11,16 +11,46 @@
 </nav>
 
 <h1>{{ .Title }}</h1>
+
+{{ if eq $section "autores" }}
+  {{/* Find ORCID from any article by this author */}}
+  {{ $orcid := "" }}
+  {{ $termTitle := .Title }}
+  {{ range .Pages }}
+    {{ if not $orcid }}
+      {{ range .Params.authors }}
+        {{ $check := printf "%s, %s" .familyname .givenname }}
+        {{ if and (not $orcid) (eq (lower $check) (lower $termTitle)) }}
+          {{ with .orcid }}{{ $orcid = . }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  <div class="author-list">
+    {{ with $orcid }}
+    <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="orcid-link" title="ORCID: {{ . }}">
+      <img src="{{ "img/orcid.svg" | relURL }}" alt="ORCID" class="orcid-icon">
+    </a>
+    <span class="meta">{{ . }}</span>
+    {{ end }}
+  </div>
+{{ end }}
+
 <p class="meta">{{ len .Pages }} artigo{{ if gt (len .Pages) 1 }}s{{ end }}</p>
 
 <div class="article-list">
   {{ range .Pages }}
   <article class="article-item">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h2>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h3>
     <p class="authors">
       {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ $au.givenname }} {{ $au.familyname }}{{ end }}
     </p>
     <p class="meta">{{ .Params.event_title }}</p>
+    {{ if .Params.zenodo_pdf_url }}
+    <a href="{{ .Params.zenodo_pdf_url }}" class="btn-pdf-sm">PDF</a>
+    {{ else if .Params.pdf_file }}
+    <span class="btn-pdf-sm btn-pdf-sm--pending">PDF</span>
+    {{ end }}
   </article>
   {{ end }}
 </div>

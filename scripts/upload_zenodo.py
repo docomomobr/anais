@@ -262,10 +262,11 @@ def upload_article(session, base_url, token, article, authors, seminar_slug, dry
     depo_id = depo['id']
     bucket_url = depo['links']['bucket']
 
-    # 2. Upload PDF
+    # 2. Upload PDF (obrigatório — artigos sem PDF devem ser filtrados antes)
     pdf_path = find_pdf(article)
     if not pdf_path:
-        print(f"  AVISO: PDF não encontrado para {article_id}, enviando sem arquivo")
+        print(f"  ERRO: PDF não encontrado para {article_id}")
+        return None, None
     else:
         filename = os.path.basename(pdf_path)
         with open(pdf_path, 'rb') as f:
@@ -507,6 +508,12 @@ def main():
 
     for art in articles:
         article_id = art['id']
+
+        # Verificar PDF antes de tudo — sem PDF, não sobe para o Zenodo
+        if not art['file'] or not find_pdf(art):
+            print(f"[SKIP] {article_id}: sem PDF")
+            skipped += 1
+            continue
 
         if args.skip_existing and art['doi'] and not args.dry_run:
             print(f"[SKIP] {article_id}: já tem DOI {art['doi']}")

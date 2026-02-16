@@ -1,6 +1,7 @@
 baseURL = "https://anais.docomomobrasil.com/"
 languageCode = "pt-BR"
 title = "Anais"
+titleCaseStyle = "none"
 
 [taxonomies]
   autores = "autores"

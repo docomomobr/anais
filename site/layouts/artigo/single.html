@@ -93,16 +93,22 @@
   </section>
   {{ end }}
 
-  {{/* Como citar + exportar referência */}}
+  {{/* Como citar — ABNT NBR 6023:2018 */}}
   <section class="how-to-cite">
     <h2>Como citar</h2>
     <p class="citation-abnt">
       {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ upper $au.familyname }}, {{ $au.givenname }}{{ end }}.
       {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}.
-      In: <em>{{ .Params.event_title }}</em>.
-      {{ with .Params.event_location }}{{ . }}, {{ end }}{{ dateFormat "2006" .Date }}.
-      {{ with .Params.pages }}p. {{ . }}. {{ end }}
-      {{ with .Params.doi }}DOI: <a href="https://doi.org/{{ . }}">{{ . }}</a>.{{ end }}
+      {{ if .Params.event_name -}}
+      In: {{ upper .Params.event_name }}, {{ .Params.event_edition }}., {{ .Params.event_year }}, {{ .Params.event_city }}.
+      Anais [...].
+      {{ with $.Params.event_publisher }}{{ $.Params.event_city }}: {{ . }}, {{ end }}{{ .Params.event_year }}.
+      {{- else -}}
+      In: {{ upper .Params.event_title }}. {{ dateFormat "2006" .Date }}.
+      {{- end }}
+      {{ with .Params.pages }}p. {{ . }}. {{ end -}}
+      {{ with .Params.event_isbn }}ISBN {{ . }}. {{ end -}}
+      {{ with .Params.doi }}DOI: <a href="https://doi.org/{{ . }}">{{ . }}</a>. {{ end -}}
     </p>
     <div class="export-links">
       <span class="export-label">Exportar referência:</span>
