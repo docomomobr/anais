@@ -1,8 +1,42 @@
-# Pipeline de Publicação no OJS — Versão Definitiva
+# Pipeline de Publicação — Versão Definitiva
 
-Pipeline livre de erros para importação dos 21 seminários regionais no OJS de produção. Incorpora todas as lições do teste pré-produção (2026-02-12).
+Pipeline para publicação dos anais Docomomo Brasil. Incorpora todas as lições do teste pré-produção (2026-02-12).
 
 **Escopo**: apenas os 21 regionais (sdnne, sdrj, sdsp, sdsul). Os 15 nacionais (sdbr01–15) já estão publicados na produção — NUNCA importar.
+
+---
+
+## Arquitetura de hospedagem
+
+| Serviço | O que hospeda | URL |
+|---------|--------------|-----|
+| **GitHub Pages** | Site estático Hugo (anais) | `anais.docomomobrasil.com` |
+| **GitHub Pages** | Site estático Hugo (livros) | `livros.docomomobrasil.com` |
+| **WordPress** | Site institucional | `docomomobrasil.com` |
+| **Zenodo** | PDFs dos artigos e livros (fonte canônica) | `zenodo.org/records/{id}/files/{arquivo}.pdf` |
+
+### DNS (CNAME em `docomomobrasil.com`)
+
+| Tipo | Host | Valor |
+|------|------|-------|
+| CNAME | `anais` | `docomomobr.github.io` |
+| CNAME | `livros` | `docomomobr.github.io` |
+
+### Estratégia de links
+
+- **Download de PDF**: link direto para o arquivo no Zenodo (`zenodo.org/records/{id}/files/{arquivo}.pdf`)
+- **DOI**: exibido na página do artigo para citação acadêmica (`doi.org/10.5281/zenodo.{id}`)
+- Não usar o DOI como link de download (landing page adiciona clique extra)
+
+### Estimativa de storage
+
+- Site anais (~2400 artigos, 36 seminários): ~30 MB
+- Site livros (~100–200 títulos, com capas): ~30–50 MB
+- Total: ~60–80 MB (limite GitHub Pages: 1 GB)
+
+### OJS de produção
+
+O OJS (`publicacoes.docomomobrasil.com`) será descontinuado após migração completa para os sites estáticos + Zenodo. Enquanto ativo, serve como fonte para importação dos regionais.
 
 ---
 
