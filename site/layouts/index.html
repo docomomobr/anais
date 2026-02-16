@@ -1,11 +1,60 @@
 {{ define "main" }}
-<div class="ambito-grid">
-  {{ range .Site.Sections }}
-  <a href="{{ .RelPermalink }}" class="ambito-card">
-    <h2>{{ .Title }}</h2>
-    {{ $events := .Sections }}
-    <p>{{ len $events }} seminário{{ if gt (len $events) 1 }}s{{ end }}</p>
-  </a>
+<div class="ambito-list">
+  {{ range sort .Site.Sections "Weight" }}
+  {{ $ambito := .Params.ambito }}
+  <div class="ambito-card">
+    <a href="{{ .RelPermalink }}" class="ambito-card-header">
+      <h2>{{ .Title }}</h2>
+      {{ $events := .Sections }}
+      <span class="ambito-count">{{ len $events }} seminário{{ if gt (len $events) 1 }}s{{ end }}</span>
+    </a>
+
+    {{ if eq $ambito "se" }}
+      {{/* Sudeste: agrupar por estado */}}
+      {{ $allEvents := .Sections }}
+      {{ $stateOrder := slice "MG" "RJ" "SP" }}
+      {{ range $stateOrder }}
+        {{ $st := . }}
+        {{ $stEvents := where $allEvents ".Params.event_state" $st }}
+        {{ if $stEvents }}
+        <div class="state-subcard">
+          <span class="state-label">{{ $st }}</span>
+          <div class="ambito-thumbs">
+            {{ range sort $stEvents "Date" }}
+              {{ $cover := .Resources.GetMatch "*.png" }}
+              {{ if $cover }}
+              <a href="{{ .RelPermalink }}" class="thumb-item" title="{{ .Title }}">
+                <img src="{{ $cover.RelPermalink }}" alt="" class="thumb-img">
+                {{ $slug := .Params.slug | default .File.ContentBaseName }}
+                {{ $numStr := slicestr $slug (sub (len $slug) 2) }}
+                {{ $num := int (strings.TrimLeft "0" $numStr) }}
+                <span class="thumb-label">{{ $num }} ({{ .Date.Format "2006" }})</span>
+              </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      {{ end }}
+
+    {{ else }}
+      {{/* Brasil, NNE, Sul: thumbs simples */}}
+      <div class="ambito-thumbs">
+        {{ range sort .Sections "Date" }}
+          {{ $cover := .Resources.GetMatch "*.png" }}
+          {{ if $cover }}
+          <a href="{{ .RelPermalink }}" class="thumb-item" title="{{ .Title }}">
+            <img src="{{ $cover.RelPermalink }}" alt="" class="thumb-img">
+            {{ $slug := .Params.slug | default .File.ContentBaseName }}
+            {{ $numStr := slicestr $slug (sub (len $slug) 2) }}
+            {{ $num := int (strings.TrimLeft "0" $numStr) }}
+            <span class="thumb-label">{{ $num }} ({{ .Date.Format "2006" }})</span>
+          </a>
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
   {{ end }}
 </div>
 {{ end }}

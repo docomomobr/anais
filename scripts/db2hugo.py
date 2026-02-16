@@ -381,6 +381,9 @@ def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
     return filepath
 
 
+AMBITO_WEIGHT = {'brasil': 1, 'se': 2, 'nne': 3, 'sul': 4}
+
+
 def write_ambito_index(outdir, ambito_slug, ambito_nome):
     """Write _index.md for an âmbito (region)."""
     ambito_dir = os.path.join(outdir, ambito_slug)
@@ -390,6 +393,7 @@ def write_ambito_index(outdir, ambito_slug, ambito_nome):
     lines.append(f'type: ambito')
     lines.append(f'ambito: {ambito_slug}')
     lines.append(f'ambito_nome: "{ambito_nome}"')
+    lines.append(f'weight: {AMBITO_WEIGHT.get(ambito_slug, 99)}')
     lines.append('---')
     filepath = os.path.join(ambito_dir, '_index.md')
     with open(filepath, 'w', encoding='utf-8') as f:
