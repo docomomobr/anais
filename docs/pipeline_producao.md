@@ -27,6 +27,7 @@ Pipeline para publicação dos anais Docomomo Brasil. Incorpora todas as liçõe
 - **Download de PDF**: link direto para o arquivo no Zenodo (`zenodo.org/records/{id}/files/{arquivo}.pdf`)
 - **DOI**: exibido na página do artigo para citação acadêmica (`doi.org/10.5281/zenodo.{id}`)
 - Não usar o DOI como link de download (landing page adiciona clique extra)
+- **sdbr04**: os 79 artigos são apenas resumos (sem texto completo). Não subir PDFs ao Zenodo para este seminário.
 
 ### Estimativa de storage
 
