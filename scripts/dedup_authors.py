@@ -35,6 +35,13 @@ DB_PATH = os.path.join(BASE, 'anais.db')
 PILOTIS_PATH = os.path.join(BASE, '..', 'financeiro', 'pilotis', 'dados', 'data', 'pilotis.db')
 
 PARTICLES = {'de', 'da', 'do', 'das', 'dos', 'e', 'del', 'von'}
+PARTICLES_PT = {'de', 'da', 'do', 'dos', 'das'}
+SUFFIXES_ALL = {'filho', 'junior', 'júnior', 'neto', 'netto', 'sobrinho', 'segundo', 'terceiro', 'ii', 'iii'}
+
+# Sobrenomes estrangeiros com partícula integrada (não separar)
+FOREIGN_COMPOUND = {
+    'De Bonis', 'De Izaga', 'De La Torre', 'De Paoli',
+}
 
 
 def strip_accents(s):
@@ -246,20 +253,95 @@ def split_name_canonical(full_tokens_with_particles):
     """Dada lista de tokens (com partículas), separa em (givenname, familyname).
 
     Regra brasileira: familyname = último token (exceto sufixos).
-    Partículas ficam no givenname.
+    Partículas ficam no givenname, em minúscula.
     """
-    suffixes = {'filho', 'junior', 'neto', 'sobrinho'}
     if not full_tokens_with_particles:
         return '', ''
     parts = full_tokens_with_particles
     last = parts[-1].lower()
-    if last in suffixes and len(parts) >= 3:
+    if last in SUFFIXES_ALL and len(parts) >= 3:
         fn = f'{parts[-2]} {parts[-1]}'
-        gn = ' '.join(parts[:-2])
+        gn_parts = parts[:-2]
     else:
         fn = parts[-1]
-        gn = ' '.join(parts[:-1])
-    return gn, fn
+        gn_parts = parts[:-1]
+    # Normalizar casing de partículas no givenname
+    gn_parts = [p.lower() if p.lower() in PARTICLES_PT else p for p in gn_parts]
+    return ' '.join(gn_parts), fn
+
+
+# ─── Normalização de partículas ────────────────────────────────
+
+def normalize_particles(cur, dry_run=False):
+    """Normaliza partição givenname/familyname e casing de partículas.
+
+    Regra: familyname = último sobrenome. Partículas (de, da, do, dos, das)
+    ficam no final do givenname, em minúscula.
+    Sufixos (Júnior, Filho, Neto) ficam junto ao sobrenome.
+    Sobrenomes estrangeiros compostos (De Bonis, De La Torre) são preservados.
+    """
+    print('=== Normalizar partículas ===')
+
+    cur.execute('SELECT id, givenname, familyname FROM authors ORDER BY id')
+    authors = cur.fetchall()
+
+    fixes = 0
+    for aid, gn, fn in authors:
+        if not fn or not gn:
+            continue
+
+        # Skip known foreign compound surnames
+        if fn.strip() in FOREIGN_COMPOUND:
+            continue
+
+        # Skip data with commas (needs manual fix)
+        if ',' in fn:
+            continue
+
+        fn_words = fn.split()
+
+        # Skip familynames that END with a particle (data corruption, not fixable here)
+        if fn_words[-1].lower() in PARTICLES_PT:
+            continue
+
+        # Check if familyname needs fixing:
+        # 1. Has Portuguese particle anywhere (multi-word familyname)
+        # 2. Or givenname has capitalized particle
+        has_fn_particle = len(fn_words) > 1 and any(w.lower() in PARTICLES_PT for w in fn_words)
+
+        gn_words = gn.split()
+        has_gn_cap_particle = any(
+            w.lower() in PARTICLES_PT and w[0].isupper()
+            for w in gn_words if w
+        )
+
+        if not has_fn_particle and not has_gn_cap_particle:
+            continue
+
+        # Recombine full name and re-split canonically
+        full_parts = f'{gn} {fn}'.split()
+        new_gn, new_fn = split_name_canonical(full_parts)
+
+        if new_gn == gn and new_fn == fn:
+            continue
+
+        if dry_run:
+            print(f'  "{gn} | {fn}" → "{new_gn} | {new_fn}"')
+        else:
+            # Register old name as variant
+            try:
+                cur.execute('''
+                    INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source)
+                    VALUES (?, ?, ?, 'particle_norm')
+                ''', (aid, gn, fn))
+            except Exception:
+                pass
+            cur.execute('UPDATE authors SET givenname = ?, familyname = ? WHERE id = ?',
+                        (new_gn, new_fn, aid))
+        fixes += 1
+
+    print(f'  Corrigidos: {fixes}\n')
+    return fixes
 
 
 # ─── Fase 0: Enriquecer com Pilotis ────────────────────────────
@@ -682,6 +764,9 @@ def main():
     total_before = cur.fetchone()[0]
     print(f'Autores no banco: {total_before}\n')
 
+    # Normalizar partículas (antes de tudo)
+    particle_fixes = normalize_particles(cur, dry_run=dry_run or report_only)
+
     # Fase 0
     enriched = phase0_enrich(cur, dry_run=dry_run or report_only)
 
@@ -706,6 +791,7 @@ def main():
     print(f'{"="*50}')
     print(f'Autores antes:    {total_before}')
     if not dry_run and not report_only:
+        print(f'Partículas fix.:  {particle_fixes}')
         print(f'Enriquecidos:     {enriched}')
         print(f'Merges fase 1:    {merges_p1} (último sobrenome)')
         print(f'Merges fase 2:    {merges_p2} (variantes)')
