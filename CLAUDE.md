@@ -96,6 +96,7 @@ regionais/{grupo}/
 | `scripts/import_ojs.py` | Importa XMLs no OJS. `--per-article` (1 XML/artigo, 15s delay). `--env test` ou `--env prod` |
 | `scripts/normalizar_maiusculas.py` | Normaliza capitalização nos títulos do `anais.db`. `--dry-run`, `--slug SLUG` |
 | `dict/normalizar.py` | Módulo de normalização de maiúsculas. 3 passadas: palavra, expressão, toponímico contextual |
+| `scripts/check_references.py` | Detecta erros em referências: concatenadas, não-referências, fragmentos. `--summary`, `--slug`, `--type` |
 
 Para autenticação, CSRF, operações destrutivas, importação via curl, e estrutura do XML: ver [`docs/ojs_reference.md`](docs/ojs_reference.md).
 
