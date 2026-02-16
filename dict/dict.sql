@@ -4291,5 +4291,15 @@ INSERT INTO "dict_names" VALUES('acessibilidade universal','expressao','Acessibi
 INSERT INTO "dict_names" VALUES('memória moderna','expressao','Memória Moderna','revisao-sdnne05');
 INSERT INTO "dict_names" VALUES('contemporaneidade','expressao','Contemporaneidade','revisao-sdnne05');
 INSERT INTO "dict_names" VALUES('universidade federal do ceará','expressao','Universidade Federal do Ceará','revisao-sdnne05');
+INSERT INTO "dict_names" VALUES('atlas cuiabano','expressao','Atlas Cuiabano','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('caixa d''água de olinda','lugar','Caixa d''Água de Olinda','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('orla taumanan','lugar','Orla Taumanan','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('lei de assistência técnica','expressao','Lei de Assistência Técnica','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('centro de boa vista','lugar','Centro de Boa Vista','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('centro de manaus','lugar','Centro de Manaus','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('nordeste brasileiro','expressao','Nordeste Brasileiro','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('moderno amazônico','expressao','Moderno Amazônico','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('documentação','area','Documentação','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('conservação','area','Conservação','revisao-sdnne07');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;

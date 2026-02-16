@@ -1486,8 +1486,8 @@ articles:
     bio: 'Mestre pelo PPGAUD-UFC. Professora da UNIFAMETRO. CASTELO BRANCO BARROS FILHO'
     country: BR
     primary_contact: false
-  - givenname: Marco Antonio
-    familyname: Castelo Branco Barros Filho
+  - givenname: Marco Antonio Castelo Branco
+    familyname: Barros Filho
     email: 'marcoacbbf@gmail.com'
     affiliation: null
     orcid: null
@@ -1940,7 +1940,7 @@ articles:
   pages: null
 
 - id: 'sdnne09-037'
-  title: A conservação através do seu significado
+  title: A Conservação através do seu significado
   subtitle: o memorial padre Cícero em Juazeiro do Norte Ceará
   authors:
   - givenname: Maria Eulália
@@ -2065,8 +2065,8 @@ articles:
     bio: null
     country: BR
     primary_contact: true
-  - givenname: Levi
-    familyname: Medeiros Araujo Pires Leal
+  - givenname: Levi Medeiros Araujo Pires
+    familyname: Leal
     email: '002-020497@aluno.undb.edu.br'
     affiliation: UNDB
     orcid: '0009-0008-0297-4577'
@@ -2252,7 +2252,7 @@ articles:
   pages: null
 
 - id: 'sdnne09-042'
-  title: Patrimônio inteligente e documentação da protomodernidade
+  title: Patrimônio inteligente e Documentação da protomodernidade
   subtitle: 'utilização de VANT para imageamento da Estação Nova de Campina Grande, PB'
   authors:
   - givenname: Wilson Valmir da
