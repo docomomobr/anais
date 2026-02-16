@@ -111,6 +111,8 @@ python3 scripts/check_references.py --type curta
 
 Estado atual: 3341 problemas em 36409 referências (9.2%). Piores: sdsul04 (65.8%), sdsul05 (49.5%), sdrj04 (29.5%). Correção requer revisão manual ou re-extração dos PDFs.
 
+Para os procedimentos completos de deduplicação de autores, expansão de iniciais, busca de ORCIDs e demais etapas de enriquecimento, ver [`docs/pipeline_tratamento.md`](pipeline_tratamento.md) (Fases 7.2–7.7).
+
 ---
 
 ## Fase 1 — Teste de viabilidade na produção

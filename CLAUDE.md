@@ -100,7 +100,9 @@ regionais/{grupo}/
 
 Para autenticação, CSRF, operações destrutivas, importação via curl, e estrutura do XML: ver [`docs/ojs_reference.md`](docs/ojs_reference.md).
 
-Pipeline de produção: ver [`docs/pipeline_producao.md`](docs/pipeline_producao.md).
+Pipeline de tratamento (novos seminários): ver [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md).
+
+Pipeline de produção (publicação no OJS/Zenodo): ver [`docs/pipeline_producao.md`](docs/pipeline_producao.md).
 
 ---
 
