@@ -69,6 +69,11 @@ Resumo em `CLAUDE.md`; este arquivo é a referência canônica.
 
 - O subtítulo é separado do título por `: ` (dois-pontos seguido de espaço)
 - Ao parsear, dividir em `title` e `subtitle` no primeiro `: `
+- **Títulos com ponto seguido de nova frase** devem ser separados em título + subtítulo:
+  - `Hélio Modesto em Fortaleza. Ressonância e resistibilidade` → title: `Hélio Modesto em Fortaleza` + subtitle: `ressonância e resistibilidade`
+  - `Vila Amazonas e Vila Serra do Navio. Por que tombar?` → title: `Vila Amazonas e Vila Serra do Navio` + subtitle: `por que tombar?`
+- **Títulos com travessão** como separador de subtítulo: separar em título + subtítulo:
+  - `Edifício dos arquitetos da Bahia – uma crítica como obra de arte` → title: `Edifício dos arquitetos da Bahia` + subtitle: `uma crítica como obra de arte`
 
 ### Travessão vs. hífen
 
@@ -105,6 +110,8 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 | Expressões consolidadas | Maiúscula | Educação Patrimonial, Patrimônio Cultural, Movimento Moderno, Arquitetura Moderna |
 | Regiões geográficas | Maiúscula | Nordeste, Norte, Sudeste |
 | Artigos/preposições/conjunções | minúscula | o, a, de, da, e, ou, para |
+| Logradouros (nome próprio) | Maiúscula | Praça Sinimbú, Avenida Affonso Penna, Terminal Rodoviário Presidente Kennedy |
+| Logradouros (genérico) | minúscula | as praças da cidade, uma avenida arborizada |
 | Palavras comuns | minúscula | edifício, casa, projeto, estudo |
 | Siglas | MAIÚSCULA | BNB, SESI, SENAI, IPHAN, VANT |
 | Séculos (algarismos romanos) | MAIÚSCULA | XX, XXI, XIX, XVIII |
