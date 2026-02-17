@@ -53,6 +53,16 @@ def check_lowercase_uf(val):
     return fixes
 
 
+def check_lowercase_estado(val):
+    """Encontra 'estado de/do/da + Nome' e 'município de/do/da + Nome' em minúscula."""
+    fixes = []
+    for m in re.finditer(r'\b(estado)(\s+d[eoa]s?\s+[A-Z])', val):
+        fixes.append((m.start(1), m.end(1), 'Estado'))
+    for m in re.finditer(r'\b(município)(\s+d[eoa]s?\s+[A-Z])', val):
+        fixes.append((m.start(1), m.end(1), 'Município'))
+    return fixes
+
+
 def check_date_ranges(val):
     """Encontra intervalos YYYY-YYYY ou YYYY-YY com hífen em vez de en-dash."""
     fixes = []
@@ -156,6 +166,19 @@ def main():
                     print(f'       {val[:120]}')
                     slug_issues += 1
                     if args.fix:
+                        conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
+                        total_fixed += 1
+
+                # Estado/Município
+                est_fixes = check_lowercase_estado(val)
+                if est_fixes:
+                    new_val = apply_text_fixes(val, est_fixes)
+                    print(f'  EST  {art["id"]} {field}: estado→Estado')
+                    print(f'       {val[:120]}')
+                    slug_issues += 1
+                    if args.fix:
+                        current = conn.execute(f'SELECT {field} FROM articles WHERE id=?', (art['id'],)).fetchone()[0]
+                        new_val = apply_text_fixes(current, check_lowercase_estado(current))
                         conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
                         total_fixed += 1
 

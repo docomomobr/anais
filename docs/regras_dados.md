@@ -109,6 +109,8 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 | Conceitos substantivados (período/ideia) | Maiúscula | Modernidade, Brutalismo |
 | Expressões consolidadas | Maiúscula | Educação Patrimonial, Patrimônio Cultural, Movimento Moderno, Arquitetura Moderna |
 | Regiões geográficas | Maiúscula | Nordeste, Norte, Sudeste |
+| Entidades político-administrativas | Maiúscula | Estado de Sergipe, Município de Promissão |
+| Entidades genéricas | minúscula | os estados da federação, os municípios do interior |
 | Artigos/preposições/conjunções | minúscula | o, a, de, da, e, ou, para |
 | Logradouros (nome próprio) | Maiúscula | Praça Sinimbú, Avenida Affonso Penna, Terminal Rodoviário Presidente Kennedy |
 | Logradouros (genérico) | minúscula | as praças da cidade, uma avenida arborizada |
