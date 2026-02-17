@@ -38,17 +38,27 @@
   "keywords": [{{ range $i, $kw := . }}{{ if $i }}, {{ end }}"{{ $kw }}"{{ end }}],
   {{ end -}}
   "isPartOf": {
-    "@type": "Event",
-    "name": "{{ .Params.event_title }}"
-    {{ with .Params.event_location -}}
-    ,"location": { "@type": "Place", "name": "{{ . }}" }
+    "@type": "Book",
+    "name": "{{ .Params.event_title }}",
+    {{ with .Params.event_isbn -}}
+    "isbn": "{{ . }}",
     {{ end -}}
-    ,"startDate": "{{ .Params.event_date }}"
-  },
+    {{ with .Params.event_publisher -}}
+    "publisher": { "@type": "Organization", "name": "{{ . }}" },
+    {{ end -}}
+    "isPartOf": {
+      "@type": "Event",
+      "name": "{{ .Params.event_title }}"
+      {{ with .Params.event_city -}}
+      ,"location": { "@type": "Place", "name": "{{ . }}" }
+      {{ end -}}
+      ,"startDate": "{{ .Params.event_date }}"
+    }
+  }{{ with .Params.event_publisher }},
   "publisher": {
     "@type": "Organization",
-    "name": "Docomomo Brasil"
-  }
+    "name": "{{ . }}"
+  }{{ end }}
 }
 </script>
 {{ end }}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:rs="http://www.openarchives.org/rs/terms/">
+{{ range where .Site.RegularPages "Type" "artigo" -}}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- with .Params.doi }}
+    <rs:ln rel="cite-as" href="https://doi.org/{{ . }}"/>
+    {{- end }}
+    {{- with .Params.zenodo_pdf_url }}
+    <rs:ln rel="item" href="{{ . }}" type="application/pdf"/>
+    {{- end }}
+    <rs:ln rel="describedby" href="{{ .Permalink }}cite.json" type="application/vnd.citationstyles.csl+json"/>
+    {{- with .Params.license_url }}
+    <rs:ln rel="license" href="{{ . }}"/>
+    {{- end }}
+    {{- range .Params.authors }}
+    {{- with .orcid }}
+    <rs:ln rel="author" href="https://orcid.org/{{ . }}"/>
+    {{- end }}
+    {{- end }}
+  </url>
+{{ end -}}
+</urlset>

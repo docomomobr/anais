@@ -12,6 +12,9 @@
 {{ end -}}
 <meta name="citation_publication_date" content="{{ dateFormat "2006/01/02" .Date }}">
 <meta name="citation_conference_title" content="{{ .Params.event_title }}">
+{{ with .Params.event_publisher -}}
+<meta name="citation_publisher" content="{{ . }}">
+{{ end -}}
 {{ with .Params.event_isbn -}}
 <meta name="citation_isbn" content="{{ . }}">
 {{ end -}}
@@ -44,14 +47,31 @@
 {{ with .Params.abstract -}}
 <meta name="DC.description" content="{{ . | plainify | truncate 500 }}">
 {{ end -}}
+{{ with .Params.event_publisher -}}
+<meta name="DC.publisher" content="{{ . }}">
+{{ end -}}
 <meta name="DC.date" content="{{ dateFormat "2006-01-02" .Date }}">
 <meta name="DC.type" content="ConferencePaper">
 <meta name="DC.format" content="text/html">
 <meta name="DC.language" content="{{ .Params.locale | default "pt-BR" }}">
+<meta name="DC.identifier" content="{{ .Permalink }}">
 {{ with .Params.doi -}}
 <meta name="DC.identifier" content="doi:{{ . }}">
 {{ end -}}
+{{ with .Params.event_isbn -}}
+<meta name="DC.relation.isPartOf" content="ISBN {{ . }}">
+{{ end -}}
 <meta name="DC.source" content="{{ .Params.event_title }}">
+{{ with .Params.license_url -}}
+<meta name="DC.rights" content="{{ . }}">
+{{ end -}}
+{{ with .Params.event_city -}}
+<meta name="DC.coverage" content="{{ . }}">
+{{ end -}}
+{{ with .Params.pages -}}
+<meta name="DCTERMS.extent" content="p. {{ . }}">
+{{ end -}}
+<meta name="DCTERMS.bibliographicCitation" content="{{ range $i, $au := $.Params.authors }}{{ if $i }}; {{ end }}{{ upper $au.familyname }}, {{ $au.givenname }}{{ end }}. {{ $.Title }}{{ with $.Params.subtitle }}: {{ . }}{{ end }}. In: {{ upper $.Params.event_title }}. {{ dateFormat "2006" $.Date }}.{{ with $.Params.pages }} p. {{ . }}.{{ end }}{{ with $.Params.event_isbn }} ISBN {{ . }}.{{ end }}{{ with $.Params.doi }} DOI: {{ . }}.{{ end }}">
 
 {{/* 3. Signposting (FAIR) */}}
 {{ with .Params.doi -}}
@@ -85,5 +105,11 @@
 {{ end -}}
 {{ range $.Params.keywords -}}
 <meta property="article:tag" content="{{ . }}">
+{{ end -}}
+
+{{/* 5. Twitter Cards */}}
+<meta name="twitter:title" content="{{ $.Title }}{{ with $.Params.subtitle }}: {{ . }}{{ end }}">
+{{ with $.Params.abstract -}}
+<meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
 {{ end -}}
 {{ end }}

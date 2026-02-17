@@ -626,6 +626,42 @@ for issue in r.json()['items']:
 
 ---
 
+## Fase 7 — Site Hugo
+
+### 7.1. Gerar conteúdo
+
+```bash
+python3 scripts/db2hugo.py --all --outdir site/content
+```
+
+### 7.2. Build
+
+```bash
+cd site && hugo
+```
+
+Verificar: build sem erros, `public/robots.txt` existe, `public/sitemap.xml` existe e contém URLs de artigos, `public/signmap.xml` existe com typed links.
+
+### 7.3. Indexar busca (Pagefind)
+
+```bash
+npx pagefind --site public --glob "artigos/**/*.html"
+```
+
+### 7.4. Deploy
+
+Push para o repositório GitHub. GitHub Pages publica automaticamente via GitHub Actions.
+
+### 7.5. Pós-deploy
+
+- [ ] Criar conta GoatCounter (`anais-docomomo.goatcounter.com`) e verificar que analytics funciona
+- [ ] Submit Google Scholar: preencher formulário em [scholar.google.com/intl/en/scholar/inclusion.html](https://scholar.google.com/intl/en/scholar/inclusion.html)
+- [ ] Verificar `robots.txt` e `sitemap.xml` acessíveis via URL pública
+- [ ] Verificar Signmap (`/signmap.xml`) contém typed links para artigos
+- [ ] Testar acessibilidade: skip link funciona com Tab, foco visível em todos os elementos interativos
+
+---
+
 ## Referência rápida — Armadilhas conhecidas
 
 | # | Armadilha | O que acontece | Prevenção |

@@ -402,6 +402,38 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
 .taxonomy-list a { color: var(--gray-700); text-decoration: none; }
 .taxonomy-list a:hover { color: var(--green); }
 
+/* Skip link (acessibilidade) */
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 1rem;
+  background: var(--green);
+  color: var(--white);
+  padding: 0.5rem 1rem;
+  font-size: var(--font-sm);
+  font-weight: 600;
+  z-index: 100;
+  text-decoration: none;
+  border-radius: 0 0 4px 4px;
+  transition: top 0.2s;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* Focus styles (WCAG 2.2 AA) */
+:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
+}
+a:focus-visible { border-radius: 2px; }
+.sort-btn:focus-visible,
+.btn-pdf:focus-visible,
+.btn-pdf-sm:focus-visible,
+.volume-pdf-btn:focus-visible {
+  outline-offset: 3px;
+}
+
 /* Responsive */
 @media (max-width: 640px) {
   h1 { font-size: 1.35rem; }

@@ -7,8 +7,12 @@ titleCaseStyle = "none"
   autores = "autores"
   "palavras-chave" = "palavras-chave"
 
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "signmap"]
   section = ["HTML"]
   page = ["HTML", "bibtex", "ris", "csljson", "yamlex"]
 
@@ -37,6 +41,12 @@ titleCaseStyle = "none"
     isPlainText = true
     notAlternative = true
     path = ""
+
+[outputFormats.signmap]
+    mediaType = "application/xml"
+    baseName = "signmap"
+    isPlainText = true
+    notAlternative = true
 
 [mediaTypes]
   [mediaTypes."application/x-research-info-systems"]

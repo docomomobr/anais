@@ -9,9 +9,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   <link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
   {{ block "head" . }}{{ end }}
 </head>
 <body>
+  <a href="#main-content" class="skip-link">Pular para o conteúdo</a>
   <header class="site-header">
     <div class="container header-top">
       <a href="https://docomomobrasil.com" class="site-logo-link">
@@ -22,7 +25,7 @@
       <a href="{{ "/" | relURL }}" class="site-title">anais</a>
       <div class="search-bar" id="search"></div>
     </div>
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Navegação principal">
       <div class="container">
         <div class="nav-seminarios">
           <a href="{{ "brasil/" | relURL }}">brasil</a>
@@ -38,7 +41,7 @@
     </nav>
   </header>
 
-  <main class="container">
+  <main id="main-content" class="container">
     {{ block "main" . }}{{ end }}
   </main>
 
@@ -51,5 +54,8 @@
   <script>
     new PagefindUI({ element: "#search", showSubResults: true, translations: { placeholder: "Buscar artigos..." } });
   </script>
+  {{/* GoatCounter — analytics privacy-friendly, sem cookies */}}
+  <script data-goatcounter="https://anais-docomomo.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

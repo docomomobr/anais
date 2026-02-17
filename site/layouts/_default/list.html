@@ -1,3 +1,49 @@
+{{ define "head" }}
+{{ if eq .Type "evento" }}
+{{/* Dublin Core — proceedings */}}
+<meta name="DC.title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
+<meta name="DC.type" content="proceedings">
+<meta name="DC.format" content="text/html">
+<meta name="DC.language" content="pt-BR">
+<meta name="DC.date" content="{{ dateFormat "2006" .Date }}">
+<meta name="DC.identifier" content="{{ .Permalink }}">
+{{ with .Params.event_isbn -}}
+<meta name="DC.identifier" content="ISBN {{ . }}">
+{{ end -}}
+{{ with .Params.editors -}}
+<meta name="DC.creator" content="{{ . }}">
+{{ end -}}
+{{ with .Params.event_publisher -}}
+<meta name="DC.publisher" content="{{ . }}">
+{{ end -}}
+{{ with .Params.description -}}
+<meta name="DC.description" content="{{ . | plainify | truncate 500 }}">
+{{ end -}}
+<meta name="DC.rights" content="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+{{ with .Params.event_location -}}
+<meta name="DC.coverage" content="{{ . }}">
+{{ end -}}
+{{ with .Params.article_count -}}
+<meta name="DCTERMS.extent" content="{{ . }} artigos">
+{{ end -}}
+
+{{/* Open Graph — proceedings */}}
+<meta property="og:title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
+<meta property="og:type" content="book">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ with .Params.description -}}
+<meta property="og:description" content="{{ . | plainify | truncate 200 }}">
+{{ end -}}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+{{/* Twitter Cards */}}
+<meta name="twitter:title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
+{{ with .Params.description -}}
+<meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
+{{ end -}}
+{{ end }}
+{{ end }}
+
 {{ define "main" }}
 <nav class="breadcrumb">
   <a href="{{ "/" | relURL }}">início</a>
@@ -95,6 +141,9 @@
     </div>
   </div>
 
+  {{/* COinS — proceedings (volume) */}}
+  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rfr_id=info%3Asid%2Fanais.docomomobrasil.com&amp;rft.btitle={{ (printf "%s%s" .Title (cond (ne (.Params.subtitle | default "") "") (printf ": %s" .Params.subtitle) "")) | urlquery }}&amp;rft.date={{ dateFormat "2006" .Date }}{{ with .Params.event_isbn }}&amp;rft.isbn={{ . | urlquery }}{{ end }}{{ with .Params.event_publisher }}&amp;rft.pub={{ . | urlquery }}{{ end }}{{ with .Params.event_location }}&amp;rft.place={{ . | urlquery }}{{ end }}"></span>
+
   <div class="article-list">
   {{ $currentSection := "" }}
   {{ range sort .Pages "File.Path" }}
@@ -113,6 +162,8 @@
       {{ else if .Params.pdf_file }}
       <span class="btn-pdf-sm btn-pdf-sm--pending">PDF</span>
       {{ end }}
+      {{/* COinS — artigo individual */}}
+      <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rfr_id=info%3Asid%2Fanais.docomomobrasil.com&amp;rft.atitle={{ (printf "%s%s" .Title (cond (ne (.Params.subtitle | default "") "") (printf ": %s" .Params.subtitle) "")) | urlquery }}&amp;rft.btitle={{ $.Title | urlquery }}&amp;rft.date={{ dateFormat "2006" .Date }}{{ range .Params.authors }}&amp;rft.au={{ (printf "%s, %s" .familyname .givenname) | urlquery }}{{ end }}{{ with .Params.doi }}&amp;rft_id=info%3Adoi%2F{{ . | urlquery }}{{ end }}{{ with .Params.event_isbn }}&amp;rft.isbn={{ . | urlquery }}{{ end }}{{ with .Params.pages }}&amp;rft.pages={{ . | urlquery }}{{ end }}{{ with $.Params.event_publisher }}&amp;rft.pub={{ . | urlquery }}{{ end }}{{ with .Params.event_city }}&amp;rft.place={{ . | urlquery }}{{ end }}"></span>
     </article>
   {{ end }}
   </div>
