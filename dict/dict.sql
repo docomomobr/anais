@@ -4312,5 +4312,18 @@ INSERT INTO "dict_names" VALUES('Igreja Batista','lugar','Igreja Batista','manua
 INSERT INTO "dict_names" VALUES('Casa de Amorim','lugar','Casa de Amorim','manual');
 INSERT INTO "dict_names" VALUES('Cidade do Recife','lugar','Cidade do Recife','manual');
 INSERT INTO "dict_names" VALUES('Seminário Regional do Nordeste','expressao','Seminário Regional do Nordeste','manual');
+INSERT INTO "dict_names" VALUES('Protomodernidade','movimento','Protomodernidade','manual');
+INSERT INTO "dict_names" VALUES('Paisagem','area','Paisagem','manual');
+INSERT INTO "dict_names" VALUES('Recôncavo','lugar','Recôncavo','manual');
+INSERT INTO "dict_names" VALUES('Tribunal de Justiça','lugar','Tribunal de Justiça','manual');
+INSERT INTO "dict_names" VALUES('Receita Federal','lugar','Receita Federal','manual');
+INSERT INTO "dict_names" VALUES('Cine Teatro Municipal','lugar','Cine Teatro Municipal','manual');
+INSERT INTO "dict_names" VALUES('Edifício Oscar Pereira','lugar','Edifício Oscar Pereira','manual');
+INSERT INTO "dict_names" VALUES('Cidade-Museu','expressao','Cidade-Museu','manual');
+INSERT INTO "dict_names" VALUES('Arquitetura Escolar','expressao','Arquitetura Escolar','manual');
+INSERT INTO "dict_names" VALUES('Arquitetura Institucional','expressao','Arquitetura Institucional','manual');
+INSERT INTO "dict_names" VALUES('al','sigla','AL','manual');
+INSERT INTO "dict_names" VALUES('ma','sigla','MA','manual');
+INSERT INTO "dict_names" VALUES('to','sigla','TO','manual');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;
