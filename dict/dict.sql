@@ -4301,5 +4301,16 @@ INSERT INTO "dict_names" VALUES('nordeste brasileiro','expressao','Nordeste Bras
 INSERT INTO "dict_names" VALUES('moderno amazônico','expressao','Moderno Amazônico','revisao-sdnne07');
 INSERT INTO "dict_names" VALUES('documentação','area','Documentação','revisao-sdnne07');
 INSERT INTO "dict_names" VALUES('conservação','area','Conservação','revisao-sdnne07');
+INSERT INTO "dict_names" VALUES('Design Biofílico','expressao','Design Biofílico','manual');
+INSERT INTO "dict_names" VALUES('Modernismo Arquitetônico','expressao','Modernismo Arquitetônico','manual');
+INSERT INTO "dict_names" VALUES('Contemporânea','movimento','Contemporânea','manual');
+INSERT INTO "dict_names" VALUES('Contemporâneo','movimento','Contemporâneo','manual');
+INSERT INTO "dict_names" VALUES('Escola de Puericultura','lugar','Escola de Puericultura','manual');
+INSERT INTO "dict_names" VALUES('Edifício Chadler','lugar','Edifício Chadler','manual');
+INSERT INTO "dict_names" VALUES('Parque da Criança','lugar','Parque da Criança','manual');
+INSERT INTO "dict_names" VALUES('Igreja Batista','lugar','Igreja Batista','manual');
+INSERT INTO "dict_names" VALUES('Casa de Amorim','lugar','Casa de Amorim','manual');
+INSERT INTO "dict_names" VALUES('Cidade do Recife','lugar','Cidade do Recife','manual');
+INSERT INTO "dict_names" VALUES('Seminário Regional do Nordeste','expressao','Seminário Regional do Nordeste','manual');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;

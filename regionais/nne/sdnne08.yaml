@@ -153,7 +153,7 @@ articles:
   doi: 10.5072/zenodo.440902
 
 - id: 'sdnne08-004'
-  title: 'A Modernidade na Arquitetura das escolas industriais federais no Nordeste do Brasil (1930-1960)'
+  title: A Modernidade na Arquitetura das escolas industriais federais no Nordeste do Brasil (1930–1960)
   authors:
   - givenname: Adriana Castelo Branco Ponte de
     familyname: Araujo
@@ -231,7 +231,7 @@ articles:
     country: BR
     primary_contact: false
   section: Artigos Completos
-  abstract: 'O objetivo do artigo é apresentar uma breve abordagem da historiografia da arquitetura moderna realizada no nordeste brasileiro, tomando como base a trajetória do arquiteto José Neudson Braga, um dos protagonistas no processo de introdução e difusão do modernismo arquitetônico na cidade de Fortaleza-Ce. Após sua formação (1959) na Escola Nacional de Arquitetura (RJ), suas obras realizadas no Ceará eram, no início, claramente filiadas à Escola Carioca, adquirindo posteriormente novos atributos, com a introdução de técnicas e materiais relacionados ao contexto local. Três exemplares modernos executados na década de 1960: o Centro de Exportadores do Ceará, o Imperial Palace Hotel e o Edifício Palácio Coronado ilustram essa primeira fase do arquiteto, enquanto sua residência, projetada em 1970, apresenta elementos diferenciados, relacionados ao processo construtivo e técnicas locais, entre outras características, embora com linhas notadamente modernas. O trabalho pretende analisar as obras citadas, evidenciando a evolução presente nas duas fases de sua produção. A relevância do artigo se faz por destacar a importância da contribuição do arquiteto, autor de uma quantidade significativa de projetos, que revelam programas e desenho moderno diferenciados e por seu papel no processo de difusão da arquitetura moderna no país, constituindo importante legado a ser documentado.'
+  abstract: 'O objetivo do artigo é apresentar uma breve abordagem da historiografia da arquitetura moderna realizada no nordeste brasileiro, tomando como base a trajetória do arquiteto José Neudson Braga, um dos protagonistas no processo de introdução e difusão do modernismo arquitetônico na cidade de Fortaleza-CE. Após sua formação (1959) na Escola Nacional de Arquitetura (RJ), suas obras realizadas no Ceará eram, no início, claramente filiadas à Escola Carioca, adquirindo posteriormente novos atributos, com a introdução de técnicas e materiais relacionados ao contexto local. Três exemplares modernos executados na década de 1960: o Centro de Exportadores do Ceará, o Imperial Palace Hotel e o Edifício Palácio Coronado ilustram essa primeira fase do arquiteto, enquanto sua residência, projetada em 1970, apresenta elementos diferenciados, relacionados ao processo construtivo e técnicas locais, entre outras características, embora com linhas notadamente modernas. O trabalho pretende analisar as obras citadas, evidenciando a evolução presente nas duas fases de sua produção. A relevância do artigo se faz por destacar a importância da contribuição do arquiteto, autor de uma quantidade significativa de projetos, que revelam programas e desenho moderno diferenciados e por seu papel no processo de difusão da arquitetura moderna no país, constituindo importante legado a ser documentado.'
   keywords:
   - Arquitetura moderna
   - Neudson Braga
@@ -290,7 +290,7 @@ articles:
 
 - id: 'sdnne08-007'
   title: A vida entre edifícios
-  subtitle: o plano de Palmas (to) frente as teorias urbanas revisionistas pós 1945
+  subtitle: o plano de Palmas (TO) frente as teorias urbanas revisionistas pós 1945
   authors:
   - givenname: Roberto de Almeida
     familyname: Bottura
@@ -336,7 +336,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-008'
-  title: 'Análise da densidade urbana do distrito de Luzimangues-to através da ocupação segregada de Palmas'
+  title: 'Análise da densidade urbana do distrito de Luzimangues-TO através da ocupação segregada de Palmas'
   authors:
   - givenname: Mirela Fonseca
     familyname: Barreto
@@ -407,8 +407,8 @@ articles:
   pages: null
 
 - id: 'sdnne08-009'
-  title: Aplicabilidade do design biofílico em departamentos públicos de trabalho
-  subtitle: secretaria da educação do estado do Tocantins – to
+  title: Aplicabilidade do Design Biofílico em departamentos públicos de trabalho
+  subtitle: secretaria da educação do estado do Tocantins – TO
   authors:
   - givenname: Dienifer Gomes
     familyname: Vieira
@@ -534,7 +534,7 @@ articles:
 
 - id: 'sdnne08-011'
   title: Arquitetura de Zélia Maia Nobre
-  subtitle: 'casas modernas nos anos 1950 em Maceió-al'
+  subtitle: 'casas modernas nos anos 1950 em Maceió-AL'
   authors:
   - givenname: Letícia Brayner
     familyname: Ramalho
@@ -641,7 +641,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-013'
-  title: Arquitetura Moderna X contemporânea
+  title: Arquitetura Moderna X Contemporânea
   subtitle: a transição notada da Arquitetura Palmense observada nas obras da arquiteta Joseísa Martins Vieira Furtado
   authors:
   - givenname: Zibia de Sousa Pereira de
@@ -803,7 +803,7 @@ articles:
 
 - id: 'sdnne08-016'
   title: 'Delfim Amorim, marcas do tempo'
-  subtitle: 'um estudo para Conservação das fachadas dos edifícios de Delfim Amorim, do bairro da Boa Vista, Recife-PE'
+  subtitle: 'um estudo para conservação das fachadas dos edifícios de Delfim Amorim, do bairro da Boa Vista, Recife-PE'
   authors:
   - givenname: Liliana de Souza
     familyname: Adrião
@@ -1078,7 +1078,7 @@ articles:
 
 - id: 'sdnne08-021'
   title: Entre a água e o concreto
-  subtitle: 'a atitude moderna no centro de Maceió-al'
+  subtitle: 'a atitude moderna no centro de Maceió-AL'
   authors:
   - givenname: Roseline Vanessa Santos
     familyname: Oliveira
@@ -1140,7 +1140,7 @@ articles:
 
 - id: 'sdnne08-022'
   title: Entre construção e ruína
-  subtitle: o projeto de Delfim Amorim e equipe para o seminário regional do Nordeste
+  subtitle: o projeto de Delfim Amorim e equipe para o Seminário Regional do Nordeste
   authors:
   - givenname: Julia Carla Santana dos
     familyname: Santos
@@ -1163,7 +1163,7 @@ articles:
     email: 'cantalice2@gmail.com'
     affiliation: null
     orcid: '0000-0003-2730-0890'
-    bio: 'Pós-doutorando do Centro de Estudos de Arquitectura e Urbanismo da Universidade do Porto, CEAU FAUP.                                                                                                                                                              Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE'
+    bio: 'Pós-doutorando do Centro de Estudos de Arquitectura e Urbanismo da Universidade do Porto, CEAU FAUP. Dep. de Arquitetura da Universidade Católica de Pernambuco – R. do Príncipe, 526, Recife - PE'
     country: BR
     primary_contact: false
   - givenname: Diego Beja Inglez de
@@ -1326,7 +1326,7 @@ articles:
 
 - id: 'sdnne08-025'
   title: Giacomo Palumbo
-  subtitle: 'dois grandes hotéis na cidade do Recife, 1924-1938'
+  subtitle: 'dois grandes hotéis na Cidade do Recife, 1924-1938'
   authors:
   - givenname: Karine Maria Gonçalves
     familyname: Cortez
@@ -1384,7 +1384,7 @@ articles:
 
 - id: 'sdnne08-026'
   title: Gênero e Arquitetura
-  subtitle: 'uma análise sobre as discussões de gênero nos seminários DOCOMOMO norte-Nordeste 2006-2018'
+  subtitle: 'uma análise sobre as discussões de gênero nos seminários DOCOMOMO Norte-Nordeste 2006-2018'
   authors:
   - givenname: José Carlos Huapaya
     familyname: Espinoza
@@ -1549,7 +1549,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-029'
-  title: O Modernismo arquitetônico e as transformações na forma de morar
+  title: O Modernismo Arquitetônico e as transformações na forma de morar
   subtitle: a origem da profissionalização da Arquitetura de interiores no Ceará
   authors:
   - givenname: Beatriz Helena Nogueira
@@ -1656,7 +1656,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-031'
-  title: Parque da criança de Goiânia
+  title: Parque da Criança de Goiânia
   subtitle: desafios do espaço público voltado ao público infantojuvenil
   authors:
   - givenname: Marlyene Ferreira
@@ -1824,7 +1824,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-034'
-  title: Primeira igreja Batista de Macapá
+  title: Primeira Igreja Batista de Macapá
   subtitle: 'análise arquitetônico-compositiva de igreja do período moderno-janarista de Macapá'
   authors:
   - givenname: Danilo Augusto Oliveira de
@@ -1905,7 +1905,7 @@ articles:
   pages: null
 
 - id: 'sdnne08-035'
-  title: Qualidade urbana e mobilidade em Palmas (to)
+  title: Qualidade urbana e mobilidade em Palmas (TO)
   authors:
   - givenname: Ítalo Rogério Pachêco
     familyname: Prestes
@@ -1955,7 +1955,7 @@ articles:
 
 - id: 'sdnne08-036'
   title: Repertório singular e regional de Delfim Amorim em um espaço multifacetado
-  subtitle: uma apresentação fenomenológica da “casa de Amorim”
+  subtitle: uma apresentação fenomenológica da "Casa de Amorim"
   authors:
   - givenname: Liliana de Souza
     familyname: Adrião
@@ -2053,7 +2053,7 @@ articles:
 
 - id: 'sdnne08-038'
   title: Trajetória arquitetônica de Hélio Duarte em Salvador
-  subtitle: 'escola de puericultura, edifício Chadler, IBIT e ABI'
+  subtitle: 'Escola de Puericultura, Edifício Chadler, IBIT e ABI'
   authors:
   - givenname: Ana Carolina de Souza
     familyname: Bierrenbach
@@ -2164,7 +2164,7 @@ articles:
 
 - id: 'sdnne08-040'
   title: Um estudo sobre as indústrias da Modernidade em Campina Grande
-  subtitle: 1968/1971
+  subtitle: 1968–1971
   authors:
   - givenname: Alcília Afonso de Albuquerque e
     familyname: Melo
@@ -2202,7 +2202,7 @@ articles:
 
 - id: 'sdnne08-041'
   title: Zenon Lotufo
-  subtitle: 'um paulista em Porto Nacional-to'
+  subtitle: 'um paulista em Porto Nacional-TO'
   authors:
   - givenname: Eurípedes Afonso da Silva
     familyname: Neto

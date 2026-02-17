@@ -114,7 +114,11 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 | Logradouros (genérico) | minúscula | as praças da cidade, uma avenida arborizada |
 | Palavras comuns | minúscula | edifício, casa, projeto, estudo |
 | Siglas | MAIÚSCULA | BNB, SESI, SENAI, IPHAN, VANT |
+| Abreviações de estado (UF) | MAIÚSCULA | TO, AL, PE, CE, MA, SP, RJ |
 | Séculos (algarismos romanos) | MAIÚSCULA | XX, XXI, XIX, XVIII |
+
+**Disciplinas vs. ações genéricas:**
+- "Conservação" e "Documentação" são capitalizadas quando usadas como **áreas disciplinares** (em lista: "Documentação, Conservação e intervenção na Arquitetura"). Minúscula quando usadas como **ação genérica** ("um estudo para conservação das fachadas", "trabalho de documentação").
 
 **Consistência em expressões consolidadas:**
 - Quando um adjetivo pátrio ou toponímico faz parte de uma expressão consolidada capitalizada, ele também deve ser capitalizado para manter a consistência. Ex: "Arquitetura Moderna Brasileira" (não "Arquitetura Moderna brasileira"), "Urbanismo Moderno Paulista" (não "Urbanismo Moderno paulista").
