@@ -124,11 +124,31 @@ Adicionar ao arquivo centralizado `revisao/fichas_catalograficas.yaml`:
 O campo `description` do YAML do seminário deve conter a mesma ficha (em 1 linha).
 O script `generate_ojs_xml.py` lê as fichas de `revisao/fichas_catalograficas.yaml` para gerar o `<description>` da issue no XML.
 
-### 3.2 Estrutura de cada artigo
+### 3.2 Separação e formatação de títulos
+
+Regras completas em `docs/regras_dados.md` §"Regras para títulos e subtítulos". Resumo para o construtor:
+
+1. **Separar título/subtítulo** no construtor (`construir_*.py`), não depois:
+   - Dois-pontos: dividir no primeiro `: ` → `title` + `subtitle`
+   - Ponto + nova frase: `Hélio Modesto em Fortaleza. Ressonância e resistibilidade` → title + subtitle
+   - Travessão como divisor: `Edifício dos arquitetos — uma crítica` → title + subtitle
+   - Não separar se `: ` faz parte do sentido (ex: `Brasília: 50 anos de patrimônio`)
+2. **Subtítulo começa com minúscula** (exceto nome próprio, sigla, início de frase interrogativa)
+3. **Título começa com maiúscula**
+4. **Títulos em inglês misturados**: se o subtítulo contém título em inglês, separá-lo em `title_en`/`subtitle_en`
+   - Ex: título PT + subtítulo "a critical view of modern heritage" → mover para `subtitle_en`
+5. **Travessão**: ` - ` isolado → ` — ` (em-dash). Não tocar em intervalos, compostos, siglas, refs
+6. **ALL CAPS**: converter para sentence case. A normalização fina roda na fase 7.2
+
+A normalização automática de maiúsculas (`dict/normalizar.py`) só roda na fase 7.2 — aqui basta separar corretamente e aplicar o sentence case básico.
+
+### 3.3 Estrutura de cada artigo
 ```yaml
 - id: sdXX99-001
   title: Título normalizado
   subtitle: subtítulo (se houver)
+  title_en: English title (se existir)
+  subtitle_en: english subtitle (se existir)
   tipo: artigo              # artigo | poster | editorial (informativo, não vai pro OJS)
   authors:
   - givenname: Nome
@@ -154,8 +174,28 @@ O script `generate_ojs_xml.py` lê as fichas de `revisao/fichas_catalograficas.y
 
 **Emails:** OJS exige email para cada autor. Quando não temos o email real, usar `sobrenome@exemplo.com` (domínio reservado RFC 2606). Se houver colisão de sobrenome no mesmo artigo, usar `sobrenome.inicial@exemplo.com`.
 
-### 3.3 Renomear PDFs para padrão
+### 3.4 Renomear PDFs para padrão
 `{slug}-{NNN}.pdf` (ex: sdsp03-001.pdf, sdnne07-042.pdf)
+
+### 3.5 Pré-enriquecimento de nomes de autores
+Quando os nomes extraídos são abreviados (ex: filenames com "Adriana Almeida" em vez de "Adriana Leal de Almeida"), cruzar com o banco existente **antes** de gravar o YAML para usar a forma completa:
+
+```python
+# No script construir_*.py, após parsear autores:
+import sqlite3
+db = sqlite3.connect('anais.db')
+c = db.cursor()
+for author in authors:
+    c.execute("""SELECT givenname, familyname FROM authors
+        WHERE familyname = ? AND givenname LIKE ?
+        ORDER BY LENGTH(givenname) DESC LIMIT 1""",
+        (author['familyname'], author['givenname'].split()[0] + '%'))
+    row = c.fetchone()
+    if row and len(row[0]) > len(author['givenname']):
+        author['givenname'] = row[0]
+```
+
+Isso evita criar duplicatas que depois precisam ser resolvidas pelo dedup (etapa 7.4). Essencial quando a fonte de metadados (filename, HTML) traz nomes incompletos.
 
 ---
 
@@ -295,6 +335,19 @@ Flags disponíveis:
 - `--only SLUG [SLUG ...]`: importa apenas os slugs indicados (limpa e reimporta só eles)
 - Sem flags: reimportação destrutiva completa (só para reconstruir do zero)
 
+### 7.1b Alimentar dicionário com novos nomes (AND)
+```bash
+# Importar nomes de autores recém-adicionados ao banco
+python3 dict/seed_authors.py
+
+# Extrair nomes próprios dos títulos dos artigos
+python3 dict/seed_titles.py --apply
+
+# Dump do dicionário atualizado
+python3 dict/dump_db.py
+```
+**OBRIGATÓRIO antes de normalizar.** Sem este passo, o normalizador não reconhece os nomes próprios novos (autores e lugares mencionados nos títulos) e os transforma em minúscula. Os scripts são idempotentes — entradas já existentes no dict.db são ignoradas.
+
 ### 7.2 Normalizar títulos no banco
 ```bash
 # Verificar mudanças (sem alterar)
@@ -316,8 +369,11 @@ python3 scripts/check_references.py --slug {slug}
 Correção requer revisão manual ou re-extração dos PDFs. Ver `docs/devlog_check_references.md`.
 
 ### 7.4 Deduplicação de autores (AND)
+
+Pipeline completo documentado em [`docs/dedup_autores.md`](dedup_autores.md): 11 etapas progressivas, da mais segura à mais agressiva. Resultado típico: ~22% de redução.
+
 ```bash
-# Etapas automáticas (1-8): Pilotis, normalização, auto-merge, partículas, cross-familyname, coautores
+# Etapas automáticas (1-9): Pilotis, normalização, auto-merge, partículas, cross-familyname, coautores, afiliação
 python3 scripts/dedup_authors.py
 
 # Apenas relatório (sem alterar DB)
@@ -326,9 +382,16 @@ python3 scripts/dedup_authors.py --report
 # Dry-run
 python3 scripts/dedup_authors.py --dry-run
 ```
-Author Name Disambiguation em 10 etapas progressivas. Resultado típico: ~20% de redução.
 
-Resolver ambíguos manualmente com SQL:
+Após as etapas automáticas, o script lista os **casos ambíguos** (fase 3). Resolvê-los em duas sub-etapas:
+
+**Etapa 9 — Afiliação em comum:** Compara `article_author.affiliation` dos pares ambíguos. Mesma afiliação + nomes compatíveis = forte indicativo de mesma pessoa. Dados de afiliação nem sempre estão disponíveis.
+
+**Etapa 10 — Revisão por LLM:** O LLM analisa temas dos artigos, coautores, afiliações e período temporal para decidir merge/skip. Pode consultar ORCID/Lattes para desambiguar.
+
+**Etapa 11 — Resolução manual:** Casos que nem o LLM resolve (pai/filho, homônimos, nomes genéricos). Pesquisa Lattes ou consulta direta ao autor.
+
+Resolver ambíguos com SQL (ou script):
 ```sql
 -- Merge: mover artigos do duplicado para o canônico
 UPDATE article_author SET author_id = {CANONICAL} WHERE author_id = {DUPE}
@@ -339,7 +402,10 @@ DELETE FROM article_author WHERE author_id = {DUPE};
 DELETE FROM authors WHERE id = {DUPE};
 ```
 
-Falsos positivos conhecidos (NÃO mergear): pai/filho, irmãs, homônimos com iniciais diferentes.
+**Regras importantes:**
+- Sempre registrar variantes em `author_variants` antes de mergear
+- Enriquecer email/orcid do canônico se a variante tem dado que o canônico não tem
+- Falsos positivos conhecidos (NÃO mergear): pai/filho, irmãs, homônimos com iniciais diferentes. Ver lista completa em `dedup_autores.md`.
 
 ### 7.5 Expansão de iniciais
 ```bash
@@ -451,6 +517,9 @@ Quando existir um PDF compilado dos anais completos (e-book), anexar à **issue*
 | Script | Fase | Função |
 |--------|------|--------|
 | `import_yaml_to_db.py` | 7.1 | Importa YAMLs → SQLite (`--incremental --only SLUG`) |
+| `dict/seed_authors.py` | 7.1b | Alimenta dict.db com nomes de autores do anais.db |
+| `dict/seed_titles.py` | 7.1b | Extrai nomes próprios dos títulos para dict.db (`--apply`) |
+| `dict/dump_db.py` | 7.1b | Gera dict.sql (dump versionável do dicionário) |
 | `normalizar_maiusculas.py` | 7.2 | Capitalização conforme norma brasileira via dict/normalizar.py |
 | `check_references.py` | 7.3 | Detecta erros em referências (`--summary`, `--slug`, `--type`) |
 | `dedup_authors.py` | 7.4 | Dedup autores (Pilotis + Jaro-Winkler + coautoria) |

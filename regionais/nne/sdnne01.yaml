@@ -1,41 +1,1826 @@
-# 1º Seminário Docomomo Norte/Nordeste — Recife (2006)
-slug: sdnne01
-volume: 1
-number: 1
+issue:
+  slug: sdnne01
+  title: '1º Seminário Docomomo Norte/Nordeste, Recife, 2006'
+  subtitle: 'Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade'
+  location: 'Recife, PE'
+  year: 2006
+  volume: 3
+  number: 1
+  isbn: '978-85-98747-02-6'
+  publisher: 'DEA-UNICAP / MDU-UFPE / CECI'
+  editors:
+  - Andréa Câmara
+  - Fernando Diniz Moreira
+  - Guilah Naslavsky
+  - Isabella Leite
+  - Paula Maciel
+  description: '1º Seminário Docomomo Norte/Nordeste: anais: Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade [recurso eletrônico] / comissão organizadora: Andréa Câmara... [et al.]. Recife: DEA-UNICAP; MDU-UFPE; CECI, 2006. 1 CD-ROM. 813 p. ISBN 978-85-98747-02-6'
+  date_published: '2006-05-08'
+  sections:
+  - title: Apresentação Oral
+    abbrev: 'AO-sdnne01'
+  - title: 'Mesa 2 — Museus, escolas e a construção da cidadania'
+    abbrev: 'M2-sdnne01'
+  - title: Pôsteres
+    abbrev: 'POST-sdnne01'
+  - title: Mesa 4 — O universo popular na arquitetura moderna
+    abbrev: 'M4-sdnne01'
+  - title: Mesa 3 — O morar moderno no Norte e Nordeste I
+    abbrev: 'M3-sdnne01'
+  - title: Mesa 7 — O morar moderno no Norte e Nordeste II
+    abbrev: 'M7-sdnne01'
+  - title: Mesa 8 — Arquitetura moderna e contexto urbano
+    abbrev: 'M8-sdnne01'
+  - title: Mesa 6 — A difusão da arquitetura moderna
+    abbrev: 'M6-sdnne01'
+  - title: Mesa 1 — O papel das individualidades
+    abbrev: 'M1-sdnne01'
+  - title: Mesa 5 — A construção das cidades e da paisagem moderna
+    abbrev: 'M5-sdnne01'
+articles:
 
-evento:
-  titulo: 1º Seminário Docomomo Norte/Nordeste
-  tema: "Arquitetura e urbanismo modernos no Norte e Nordeste: Universalidade e diversidade"
-  local: Recife, PE
-  data: 8 a 11 de maio de 2006
-  organizacao:
-    - DOCOMOMO|PE
-    - UNICAP
-    - MDU/UFPE
-  palestrantes:
-    - David Leatherbarrow (Penn)
-    - Hugo Segawa (USP)
-  trabalhos_apresentados: 32
+- id: 'sdnne01-001'
+  title: A Arquitetura de museus de Arte Moderna no Movimento Moderno
+  authors:
+  - givenname: André
+    familyname: Jorge
+    email: 'jorge@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-9079-198X'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Cêça
+    familyname: Guimaraens
+    email: 'guimaraens@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0003-1889-7883'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Margaret
+    familyname: Chokyu
+    email: 'chokyu@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-5765-6850'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Simone
+    familyname: Guerra
+    email: 'guerra@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2616-7613'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Vânia
+    familyname: Polly
+    email: 'polly@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: 'Mesa 2 — Museus, escolas e a construção da cidadania'
+  abstract: 'O trabalho apresenta o projeto arquitetônico do Museu de Arte Moderna do Recife, elaborado pelo arquiteto Acácio Gil Bórsoi com base em estudos reconhecidos pelo valor documental e histórico que consideram o “museu” do ponto de vista formal e dos aspectos ideológicos e políticos. Observa-se que a integração da arte à arquitetura no Movimento Moderno fez com que o “museu de arte” traduzisse, com certa exclusividade formal, as iniciativas de superação de padrões arcaicos e os ímpetos de atualização de grupos de artistas e intelectuais. Assim, no cenário nacional, o espaço museográfico revelou-se lugar adequado para as diferentes atividades educacionais e as “novas”, porque ditas modernas, expressões artísticas. Verifica-se, portanto, que o engajamento na promoção da cultura de figuras proeminentes do mundo empresarial possibilitou a Recife, ao lado das cidades do Rio de Janeiro, São Paulo e Salvador, a realização de experiências simultâneas e adequadas aos novos parâmetros estéticos. Embora não construído, o projeto do pequeno MAM-Recife contém apropriadas referências aos modelos em voga nos meados da década de 1950. Os padrões de concepção plástica modernista, também utilizada por Reidy no MAM-Rio, e a recente transformação de uso do Paço Imperial no Rio de Janeiro, balizam as comparações com o MAM-Recife, constituindo tópico de interesse para a verificação das supostas influências da Escola Carioca no Modernismo Nordestino.'
+  keywords:
+  - Museus
+  - Movimento Moderno
+  - Brasil
+  abstract_en: 'This work presents the architectural design of the Musem of Modern Art of Recife, elaborated by the architect Acácio Gil Borsói based in studies recognized by their documental and historical value that consider the “museum” from the point of view of the form and of the political and ideological aspects. It is observed that the integration of art to the architecture during the Modern Movement made that “museum of art” translated, with a certain formal exclusivity, the initiatives to transcend the archaic patterns and the impetus of modernization of artists and intellectual groups. Due to this, in the national scene, the museographic space revealed itself a place suited for the different educational activities and the “new”, because meant modern, artistic expressions. So, it is verified that the engagement in the promotion of culture of personages come from the enterprise world let the capital of Pernambuco, among the cities of Rio de Janeiro, São Paulo and Salvador, the happening of simultaneous experiences and fitted to the new aesthetical parameters. Although not built, the project of the small MAM-Recife holds appropriates references to the models in vogue during the 1950’s. The patterns of modern plastical conception, also used by Reidy, in MAM-Rio, and the recent transformation of use of Paço Imperial in Rio de Janeiro, guide the comparisons with the MAM-Recife, constituting topic of interest for the verification of supposed influences of the Carioca School on the Brazilian Northeastern Modernism.'
+  keywords_en:
+  - Museums
+  - Modern Movement
+  - Brazil
+  references:
+  - 'AFFONSO EDUARDO REIDY. Rio de Janeiro: PUC-RJ/Solar Grandjean de Montigny, 1985.'
+  - 'ANDRADE,R.M.F. “Os arquitetos no congresso de museus”. Módulo, n.6. Rio de Janeiro, 1956.'
+  - 'BONDUKI,N. (org). Affonso Eduardo Reidy. Lisboa: Blau, 2000.'
+  - 'BURKE,P. História social do conhecimento. Rio de Janeiro: Zahar, 2003.'
+  - 'CAVALCANTI,L. (org.). Paço Imperial. Rio de Janeiro: Sextante Artes, 1999.'
+  - 'CORBUSIER,Le. Arte Decorativa. São Paulo: Martins Fontes, 1996. DISSERTAÇÕES de mestrado de CHOKYU,M.L; GUERRA, S ; JORGE, A.L.M; POLLY, V.. PROARQ/FAU-UFRJ, 2006-1998. EL-JAICK ANDRADE et alli. Museus e centros culturais: 1920-1960. Trabalho de graduação, FAU/UFRJ, 2000.'
+  - 'FERREZ,G. O Paço da cidade do Rio de Janeiro. Rio de Janeiro. 1985.'
+  - 'GUIMARAENS,C., “Lina e Lygia, dois olhares sobre o patrimônio cultural”. Dissertação de mestrado, ECO-UFRJ, 1994.'
+  - 'GUIMARAENS,C. “Lucio Costa e os museus”. JorNau. Brasília: FAUnB, 2002.'
+  - 'http://www.arcoweb.com.br/entrevista/entrevista17.asp (2006).'
+  - 'http://www.fondationlecorbusier.asso.fr/culture.htm (2006).'
+  - 'http://www.pacoimperial.com.br (2006).'
+  - 'JARDIM,E. “As tradições da diversidade cultural – o Modernismo”. LOPES, A.H, e CALABRE, L. (org.) Diversidade cultural brasileira. Rio de Janeiro: Casa de Rui Barbosa, 2005.'
+  - 'KAMITA,J.M. Experiência Moderna e Ética Construtiva – a arquitetura de A.E.Reidy. Dissertação de mestrado, PUC-RJ, 1994.'
+  - 'LEON,A. El museo teoria, praxis y utopia. Madri: Catedra, 1999.'
+  - 'LOURENÇO, M.C.F. Museus acolhem Moderno. São Paulo: Edusp, 1999.'
+  - 'MONTANER,J. M. “Museu contemporâneo: lugar e discurso”. Projeto, nº 144, São Paulo, 1990..'
+  - 'MONTANER,J.M. “Arquitetura de museus no Brasil”. GUIMARAENS, C. e IWATA, N. (org.) Museus, Arquitetura e Reabilitação Urbana. Rio de Janeiro: PROARQ-FAU/UFRJ e MHN/IPHAN, 2003.'
+  - 'Revista Brasil Arquitetura Contemporânea, n.5, p. 28-29, 1955.'
+  - 'Revista do IPHAN. Rio de Janeiro, n. 20, 1984.'
+  - 'SIQUEIRA,V.B. “A cidade e os museus de Castro Maya”. SANTOS, A.C.M., KESSEL, C.,'
+  - 'GUIMARAENS, C. (org.). Museus e Cidades. Rio de Janeiro: Museu Histórico Nacional, 2004.'
+  - 'TOSTES,V. “Museu Histórico Nacional, A.D. 2002”. BITTENCOURT, J., BENCHERIT,S.,'
+  - 'TOSTES,V. (org.). A História representada: o dilema dos museus. Rio de Janeiro: MinC/IPHAN, 2003.'
+  - 'YUDICE, G. A conveniência da cultura. Belo Horizonte:UFMG, 2004.'
+  locale: 'pt-BR'
+  file: 'sdnne01-001.pdf'
+  pages_count: 18
+  pages: null
 
-publicacao:
-  ficha_catalografica: |
-    1° Seminário Docomomo Norte/Nordeste: anais: arquitetura e urbanismo modernos
-    no Norte e Nordeste: universalidade e diversidade [recurso eletrônico].
-    Recife: UFPE, MDU / UNICAP, 2006. 32 trabalhos.
-  isbn: ~
-  editora: ~
-  ano: 2006
+- id: 'sdnne01-002'
+  title: A obra de Mario Russo no Recife e a Tradição nordestina de morar
+  authors:
+  - givenname: Renata
+    familyname: Cabral
+    email: 'cabral@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-6482-0233'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: ''
+  keywords:
+  - Mario Russo
+  - Arquitetura Moderna
+  - tradição
+  keywords_en:
+  - Mario Russo
+  - Modern Architecture
+  - Tradition
+  locale: 'pt-BR'
+  file: 'sdnne01-002.pdf'
+  pages_count: 10
+  pages: null
 
-fontes:
-  docomomobrasil: ~
-  externa:
-    url: ~
-    descricao: "Livro previsto para outubro de 2007 - verificar se foi publicado"
+- id: 'sdnne01-003'
+  title: A relação entre o artesanal e o industrial na obra de Flávio Império
+  subtitle: as bandeiras de carne seca produzidas no Recife no final da década de 70
+  authors:
+  - givenname: Marcelina
+    familyname: Gorni
+    email: 'gorni@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 4 — O universo popular na arquitetura moderna
+  abstract: 'Flávio Império (1935-1985) foi mais do que cenógrafo e diretor teatral. Ele trabalhou junto aos grupos Teatro de Arena e Teatro Oficina, onde participou da realização de importantes espetáculos ao longo dos anos 60. Ele era ainda arquiteto, artista plástico, professor, atuante em diversas áreas artísticas. Ao lado de Sérgio Ferro e Rodrigo Lefèvre, constituiu o Grupo Arquitetura Nova onde, ao longo de mais de dez anos de atividades (1958 à 1969), realizou a crítica e ao mesmo tempo a continuidade de princípios da Arquitetura Moderna brasileira. Império se identificou amplamente com o “povo brasileiro” após suas longas e produtivas viagens pelo Nordeste Brasileiro. Ele se identificou com a “inteligência prática” do artesão que produz do “nada” tudo o que lhe é essencial à sobrevivência, e usava sua criatividade para fazer o impossível a fim de ter um mínimo para se sustentar e ainda ser feliz com aquilo. O trabalho com o reaproveitamento de materiais e objetos que são rejeitados pela sociedade era uma prática usual para Flávio Império desde seus primeiros anos no teatro, em seu trabalho artístico como um todo e também em sua atividade junto ao Grupo Arquitetura Nova. Em seu trabalho ele sempre colecionou e requalificou materiais e objetos que eram descartados. Tratava-se de uma postura artística e política que era crítica e ao mesmo tempo afinada com o Movimento Moderno Brasileiro. Durante viagens pelo Recife em 1978, ele descobriu os panos de “carne seca”, retalhos de tecidos que eram refugos das indústrias de tecelagem, vendidos à preços de banana em mercados do Brasil inteiro, como o Mercado São José no Recife. A partir desses panos ele desenvolve uma série de trabalhos que caracterizaram-se principalmente pela ressemantização dos mesmos, imprimindo-lhes através da serigrafia, um novo status de “obras de arte”, um novo significado artístico. Trabalhar com rejeitos industriais caracteriza um novo olhar do artista sobre aquilo que é descartado pelo senso comum, pela sociedade brasileira dos anos 70 que encontrava-se em pleno desenvolvimento industrial.'
+  keywords:
+  - Arquitetura Nova
+  - artes plásticas
+  - cultura popular
+  abstract_en: 'Flávio Império (1935-1985) was more than a scenographer and theatre director. He worked with Teatro de Arena and Teatro Oficina groups, playing a part in the making of important events during the 60s. He was also an architect, plastic artist and teacher, having worked in several artistic fields. Beside Sérgio Ferro and Rodrigo Lefèvre, he composed the Grupo Arquitetura Nova group, in which along, for more than ten years of activities (1958 to 1969), he was a critic and, at the same time, a follower of Brazilian’s Modern Architecture principles. Império identifies himself with the “Brazilian people” beside his longs and productives travels across the Brazilian Northeast. He identifies himself with the “practical intelligence” of the craftsman that to produce from “nothing” everything that him are essential for his survival, and used his creativity for to do the impossible for to have the minimal for to support himself and yet to be happy with that. The work with the re-utilization of materials and objects that was rejected by the society is a usual practice for Flávio Império from the his originals years in the theatre, in his artistic work in general and his activity next to the Grupo Arquitetura Nova group too. In his job he always collected and re-qualified materials and objects that were rejected. Taked care of a artistic and political attitude that was critical and at the same time got along with the Brazilian Modern Movement. During travels across the Recife in 1978, he discovered the carne seca’s textile, a sheet of cloths that were rejected by the textile’s factory, sold for little prices in markets on every place in the Brazil, like the São José Market in the Recife. From this cloths he developed a series of works that characterized essentially by the itself re-signification, transmitting it through the serigraphy, a new status of “art ”, a new artistic signification. To work with refuse industrial characterize a new look of the artist above everything that is rejected by the usual sound judgement, by the Brazilian society of the 70’s that was in absolute industrial development. Palavras chave: Arquitetura Nova, artes plásticas, cultura popular'
+  keywords_en:
+  - New Architecture
+  - plastic arts
+  - popular culture 2 A relação entre o artesanal e o industrial na obra de Flávio Império – as
+  references:
+  - 'ARANTES, Pedro Fiori. Arquitetura Nova: Sérgio Ferro, Flávio Império e Rodrigo Lefèvre, de Artigas aos mutirões, São Paulo: Ed. 34, 2002.'
+  - 'ARAP, Fauzi. “Flávio Império – Do Bexiga à Liberdade” em Folhetim, São Paulo, nov./ 1979. Republicado em catálogo da exposição realizada pelo SESC, Matrizes, Filiais e Companhias, São Paulo, 1979.'
+  - 'BUZZAR, Miguel. Rodrigo Brotero Lefèvre a Idéia de Vanguarda, tese de doutorado, São Paulo, FAU-USP, 2001.'
+  - 'Depoimento de Amélia Hamburger à autora, em sua residência, no dia 26/10/2001.'
+  - 'Depoimento de Carmela Gross à autora no seu ateliê, localizado na Rua Senador Feijó, n. 121, Sé, São Paulo, no dia 12/09/2002. Para melhor explicitar o trabalho de Rodrigo Lefévre, Sérgio Ferro e Flávio Império como processo de revisão, crítica e continuidade sobre suas posturas acerca do que eles pensavam sobre progresso social e econômico no Brasil, assim como suas posturas acerca dos rumos da produção da arquitetura e dos ideários modernos no Brasil, a partir dos anos 60, consultar KOURY, Ana Paula. Grupo Arquitetura Nova, dissertação de mestrado, São Carlos, EESC - USP, 1999. Ver também sobre o mesmo tema, BUZZAR, Miguel. Rodrigo Brotero Lefèvre a Idéia de Vanguarda, tese de doutorado, São Paulo, FAU-USP, 2001. Depoimento de Renina Katz à autora em sua residência, no dia 11/09/2002. Segundo o depoimento, o quadro “Bota”, de 1979, foi presente de Flávio Império para Renina Katz na época.'
+  - 'GORNI, Marcelina. Flávio Império – arquiteto e professor, dissertação de mestrado, EESC/USP, São Carlos, 2004.'
+  - 'IMPÉRIO, Flávio. Carta a Amélia, 25/01/1978, Sociedade Cultural Flávio Império, São Paulo.'
+  - 'IMPÉRIO, Flávio. Catálogo da exposição realizada pelo SESC Matrizes, Filiais e Companhias, São Paulo, 1979. Arquivo Multimeios da Divisão de Pesquisa do Centro Cultural São Paulo – Secretaria de Cultura de São Paulo.'
+  - 'IMPÉRIO, Flávio. Convite para “Coisas e Loisas: exposição-oficina de Flávio Império”, de 13 a 30 de setembro de 1978 no Sesc, Rua Dr. Vila Nova, 245, em São Paulo. Arquivo Multimeios da Divisão de Pesquisa do Centro Cultural São Paulo – Secretaria de Cultura de São Paulo.'
+  - 'IMPÉRIO, Flávio. Depoimento a Fernanda Perracini Milani (então aluna de Teatro da ECA-USP), em seu trabalho monográfico “Falando sobre Flávio Império”, apresentado àquela faculdade em 1975. Sociedade Cultural Flávio Império.'
+  - 'IMPÉRIO, Flávio. Projeto e realização de filme documentário, original manuscrito a caneta em folhas avulsas revendo trabalho anterior, in “Textos de Flávio Império – seleção de Ruy Moreira Leite para publicação da Editora da Universidade de São Paulo”, Sociedade Cultural Flávio Império, São Paulo.'
+  - 'IMPÉRIO, Flávio. Texto do programa do espetáculo “Pintado de Alegre”, autoria de Flávio Migliaccio, direção de Augusto Boal, com cenários e figurinos de Flávio Império, Teatro de Arena, São Paulo, 1961. Reproduzido em “Textos de Flávio Império – seleção de Ruy Moreira Leite para publicação da Editora da Universidade de São Paulo”, Sociedade Cultural Flávio Império, São Paulo. (Os grifos na citação são nossos.)'
+  - 'KATZ, Renina e HAMBURGER, Amélia Império (orgs.), Flávio Império, col. Artistas brasileiros, São Paulo: Edusp, 1999.'
+  - 'KNAPP, Erica, A Festa Popular de Flávio Império, Jornal Folha de São Paulo, 14/09/1978.'
+  - 'KOURY, Ana Paula. Arquitetura Nova in revista AU no. 89, abr/mai 2000, p. 68 a 72.'
+  - 'KOURY, Ana Paula. Grupo Arquitetura Nova, dissertação de mestrado, EESC/USP, São Carlos, 1999.'
+  - 'PAES, M. H. Simões. A Década de 60, São Paulo: Ed. Ática, 1995.'
+  - 'PAULO, Augusto Francisco. Em Busca de uma Cenografia Pobre, vol. 2, dissertação de mestrado, ECA – USP, São Paulo, 1998, p. 301 a 313.'
+  locale: 'pt-BR'
+  file: 'sdnne01-003.pdf'
+  pages_count: 20
+  pages: null
 
-status: nao_localizado
-contato:
-  instituicao: UFPE / UNICAP
-  programa: MDU UFPE, CAU UNICAP
-  notas: "Buscar livro com os melhores textos previsto para 2007"
+- id: 'sdnne01-004'
+  title: A residência unifamiliar moderna em Recife nos anos 50
+  subtitle: quatro projetos inéditos
+  authors:
+  - givenname: Alcília Afonso de Albuquerque e
+    familyname: Melo
+    email: 'kakiafonso@hotmail.com'
+    affiliation: ''
+    orcid: '0000-0002-6344-9329'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 3 — O morar moderno no Norte e Nordeste I
+  abstract: 'O trabalho que se pretende apresentar tem como objeto de estudo a análise arquitetônica de quatro projetos residenciais modernos desenvolvidos pelos principais personagens responsáveis pelo processo de consolidação da arquitetura moderna em Recife durante os anos 50, que atuaram não somente como profissionais liberais, mas, também como professores do curso de arquitetura na Escola de Belas Artes: Mário Russo, Acácio Gil Borsoi, Delfim Amorim e Heitor Maia Neto.Os projetos selecionados para esta análise são a Casa John Wechegelaar (1954) de Russo, a casa Borsoi (1954) projetada pelo mesmo, a casa Miguel Vita (1958) de Amorim com colaboração de Armindo Leal e a casa José C. Castro (1959), projetada por Heitor M. Neto.Esta seleção foi realizada considerando que: 1) tais obras são inéditas no que é referente a uma análise de projeto arquitetônico em si: materiais de projeto e de construção.Tal análise está baseada em metodologia trabalhada atualmente pela linha de doutorado “La forma moderna” coordenada pelos professores Hélio Piñon e Teresa Rovira, do departamento de projetos arquitetônicos da Escola Superior de Arquitetura de Barcelona /ETSAB/ UPC que vêm desenvolvendo uma pauta de investigação composta por trabalhos analíticos e críticos sobre arquitetura moderna européia e latino- americana, partindo do principio que o desenho e a fotografia são os modos mais convenientes e precisos para especificar a construção de um edifício e comunicar sua arquitetura; 2) estas casas foram projetadas tendo como critérios os valores universais e abstratos da modernidade arquitetônica, partindo sempre de tramas que solucionavam a estrutura, a organização em planta através de núcleos, e demonstrando um rigor técnico e atenção aos detalhes construtivos, como esquadrias, escadas, rampas, cobertas; 3) os quatro arquitetos com estas suas respectivas obras buscaram incorporar as práticas construtivas modernas aos condicionantes climáticos locais, apresentando soluções inovadoras para a melhoria do conforto ambiental das residências; 4) estas quatro casas podem ser consideradas como emblemáticas dos anos 50 em Recife. Enfim, a proposta busca questionar através desta análise de que forma estes arquitetos procuraram intermediar valores universais com a realidade local, incorporando práticas construtivas e atendendo a condicionantes climáticos.'
+  keywords:
+  - arquitetura
+  - modernidade
+  - Recife
+  keywords_en:
+  - architecture
+  - modernity
+  - Recife
+  locale: 'pt-BR'
+  file: 'sdnne01-004.pdf'
+  pages_count: 18
+  pages: null
 
-artigos: []
+- id: 'sdnne01-005'
+  title: Alexander S. Buddeüs
+  subtitle: a passagem do cometa pela Bahia
+  authors:
+  - givenname: Paulo Ormindo de
+    familyname: Azevedo
+    email: 'azevedo@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: ''
+  keywords:
+  - Alexander Buddeüs
+  - Modern Architecture in Brazil
+  - 'City of Salvador-Bahia'
+  keywords_en:
+  - Alexander Buddeüs
+  - Modern Architecture in Brazil
+  - 'City of Salvador-Bahia'
+  locale: 'pt-BR'
+  file: 'sdnne01-005.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdnne01-006'
+  title: Arquitetura Moderna de Manaus
+  subtitle: como a Arquitetura Moderna de Severiano Mário Porto incorporou práticas construtivas e atendeu aos condicionantes climáticos locais
+  authors:
+  - givenname: Ana Rita Sá
+    familyname: Carneiro
+    email: 'carneiro@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2750-5354'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Antonio da Silva
+    familyname: Rodrigues Filho
+    email: 'joebox@uol.com.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Graciete Guerra da
+    familyname: Costa
+    email: 'graciete.costa@ufrr.br'
+    affiliation: ''
+    orcid: '0000-0003-2033-983X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 7 — O morar moderno no Norte e Nordeste II
+  abstract: 'Em texto publicado em 1986, o arquiteto chileno Enrique Browne constata que a consagração internacional costuma preceder o reconhecimento em sua própria região, citando principalmente Oscar Niemeyer e Luis Barragán. Embora a modernidade não possa ser dissolvida ou esquecida apenas pelo desejo da mera novidade, precisa necessariamente ser compreendida de maneira mais abrangente do que vem sendo feito. Severiano Mário Porto, como muitos outros arquitetos latino-americanos, insere-se no que Browne denomina a “outra modernidade”, percorrendo caminhos alternativos que não deixam de ser tributários da herança moderna. A arquitetura da cidade de Manaus, entendida por Severiano, provoca nitidamente esse diálogo entre o local e o global. Mostra universalidade e diversidade. Severiano Mário Porto nasceu em Uberlândia, e com cinco anos mudou-se para o Rio de Janeiro. Começou a trabalhar ainda na faculdade, como desenhista em uma construtora. Formou-se na Faculdade Nacional de Belas-Artes, em 1954. Foi para Manaus em 1965, e durante um bom tempo ficou na ponte aérea, um mês em Manaus, um mês no Rio. Em Manaus havia pouquíssimos profissionais e logo Severiano construiu casa e fixou residência. O projeto da residência do arquiteto lhe rendeu a IX Premiação Anual do Instituto de Arquitetos do Brasil – Rio de Janeiro, ano 1971. Premiado na Bienal de Arquitetura de Buenos Aires, em 1985, mais divulgado por suas obras empregando materiais e madeiras da Região Amazônica, tem, no entanto, uma produção variada e abrangente: Companhia Telefônica de Manaus, Sede Administrativa da PORTOBRÁS, Banco da Amazônia, Residência do Arquiteto (IX Premiação Anual do Instituto dos Arquitetos do Brasil – Rio de Janeiro), Sede da SUFRAMA (XII Premiação Anual do Instituto dos Arquitetos do Brasil – Rio de Janeiro), Campus da Universidade do Amazonas, Ambulatório médico do IPASEA, sede da TELAMAZON, Centros de Apoio Operacional, Centrais Telefônicas no interior do Estado do Amazonas, Assembléia Legislativa de Porto Velho, Escola de Música de Fortaleza-CE, Clube do Trabalhador – SESI-CE, Clube do Trabalhador – SESI-AM, Estádio de Futebol de Manaus e a Vila Olímpica de Manaus, dentre outros.'
+  keywords:
+  - Arquitetura
+  - Amazônia
+  - projeto
+  references:
+  - 'Aba, ARQUITETURA BRASILEIRA DO ANO / Rio de Janeiro, GB/1967-1968.'
+  - 'ALMEIDA, Cláudio Graça d’. Zona Franca: de onde para onde. Manaus: Imprensa Oficial do Estado do Amazonas, 1982.'
+  - 'BENCHIMOL, Samuel. AMAZÔNIA: formação social e cultural. Manaus: Valer, 1999.'
+  - 'BENCHIMOL, Samuel. Zona Franca de Manaus: a conquista da maioridade. São Paulo: Sver & Boccato, 1989.'
+  - 'BRITO, Rosa de Mendonça. Da Escola Universitária Livre de Manáos à Universidade Federal do Amazonas: 95 anos construindo conhecimentos. Manaus: EDUA, 2004.'
+  - 'BROWNE, Enrique. Un Doble Espiritu en la Arquitectura Contemporânea de la America Latina, ensaio correspondente a um capítulo do livro do mesmo autor, acerca da Arquitetura Latino-americana, 1986.'
+  - 'C. J. ARQUITETURA N0 20: AMAZÔNIA, 1978.'
+  - 'DERENJI, Jussara da Silveira. In: Modernismo na Amazônia. Texto publicado na Revista Projeto Nº192, p.75'
+  - 'FICHER, Sylvia e ACAYABA, Marlene Milan. Arquitetura Moderna Brasileira. Projeto Editores Associados Ltda, São Paulo, 1982.'
+  - 'MORIN, Edgar. Educação e complexidade: os sete saberes e outros ensaios. São Paulo: Cortez, 2002.'
+  - 'OLIVEIRA, José Aldemir de. Manaus de 1920-1967. A cidade doce e dura em excesso. Manaus: Editora Valer/ Governo do Estado do Amazonas/ Editora da Universidade Federal do Amazonas, 2003. Primeira mostra de trabalhos de ARQUITETOS DE MANAUS. IAB- AM, 1984.'
+  - Revista PROJETO N0 83/ Janeiro 1986.
+  - Revista aU Nº 130/ Janeiro de 2005.
+  - 'RAPOSO, Gilberto Mestrinho de Medeiros. Amazônia terra verde: sonho da humanidade. São Paulo: Editora Três, 1994.'
+  - 'SCHLEE, Andrey Rosenthal.Estudo de proteção do Centro Histórico de Pelotas, RS. Brasília, 2003.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1999. São Paulo, Edusp, 1997.'
+  locale: 'pt-BR'
+  file: 'sdnne01-006.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdnne01-007'
+  title: Arquitetura Moderna em Campina Grande
+  subtitle: 'emergência, difusão e produção dos anos 1950'
+  authors:
+  - givenname: Fabiano de Melo Duarte
+    familyname: Rocha
+    email: 'rocha@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Marcus Vinicius D.
+    familyname: Queiroz
+    email: 'queiroz@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-6949-0077'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 3 — O morar moderno no Norte e Nordeste I
+  abstract: 'Traça um panorama do momento de emergência e difusão da Arquitetura Moderna na cidade de Campina Grande, Paraíba, durante a década de 1950 e o início dos anos 1960, procurando compreender em que contextos local e nacional se inseriu tal renovação arquitetônica. Estuda a atuação de arquitetos, engenheiros, artistas plásticos, desenhistas e construtores que estiveram envolvidos com esse processo, no qual aparecem nomes como o dos pernambucanos Augusto Reynaldo, Heitor Maia Neto, Lucio Estelita, Waldecy Pinto, Hugo Marques, Corbiniano Lins e Abelardo da Hora, do carioca Ayrton Nóbrega, do polonês Wit Olaf Prochnik e dos campinenses Lynaldo Cavalcante, Austro de França Costa e Geraldino Pereira Duda. Analisa alguns projetos e obras do período proposto, averiguando quais conceitos guiaram a concepção de tais edifícios, em que medida se vincularam à produção de outras partes do país e que peculiaridades assumiram no cenário campinense. Mostra como os elementos formais da Arquitetura Moderna Brasileira se popularizaram entre as mais variadas camadas sociais, ganhando contornos nem sempre eruditos. Diante das constantes perdas, alerta para o valor histórico dessa produção e para a necessidade de uma política de preservação.'
+  keywords:
+  - Arquitetura Moderna
+  - Campina Grande
+  - Paraíba
+  abstract_en: 'This work delimitate a panorama of the emergency and diffusion of the Modern Architecture at the city of Campina Grande, Paraíba, during the decade of 1950 and in the early years of 1960, seeking on understanding in which local and national contexts this architectural renewal was introduced. It also studies the act of architects, engineers, plastic artists, designers and construction builders who were involved with this process, in which some important names such as the Augusto Reynaldo, Heitor Maia Neto, Lucio Estelita, Waldecy Pinto, Hugo Marques, Corbiniano Lins e Abelardo da Hora, do carioca Ayrton Nóbrega from Pernanbuco appears, as well as the polish Wit Olaf Prochnik and Lynaldo Cavalcante, Austro de França Costa e Geraldino Pereira Duda from Paraíba. Nevertheless, it analyses some projects and buildings from the specified period, verifying which concepts guided the creation of the cited constructions, how it can be linked with the production of some other parts of the country and the particularities they assumed on the Campina Grande’s scene. It also shows how the formal elements of the Brazilian Modern Architecture became popular within the most diverse social blocks, gaining outlines not ever erudite. Besides this, the present work alerts to the historical value of this production and, apart from the constant losses, to the necessity of a preservation policy.'
+  keywords_en:
+  - Modern Architecture
+  - Campina Grande
+  - Paraíba
+  locale: 'pt-BR'
+  file: 'sdnne01-007.pdf'
+  pages_count: 20
+  pages: null
+
+- id: 'sdnne01-008'
+  title: Arquitetura Moderna em Fortaleza nos anos 1970
+  subtitle: exemplares paradigmáticos
+  authors:
+  - givenname: Renata Horn
+    familyname: Barbosa
+    email: 'barbosa@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 8 — Arquitetura moderna e contexto urbano
+  abstract: 'O trabalho tem o intuito de ampliar os estudos acerca da arquitetura moderna cearense, produção ainda carente de publicações específicas e de pouca presença na bibliografia brasileira. Vai ao encontro dos anseios de levantamento, documentação e registro do patrimônio moderno, contribuindo, assim, para o debate sobre a modernidade nos contextos regional e nacional. A escolha dos anos 1970 como recorte temporal é justificada pela graduação em 1969 da primeira turma da Escola de Arquitetura e Urbanismo da Universidade Federal do Ceará, uma geração formada sob a influência das escolas carioca, paulista e de Recife. No mesmo período, jovens arquitetos que traziam consigo o ideário moderno oriundo de suas formações nas faculdades de São Paulo, Rio de Janeiro e Brasília, retornavam à Fortaleza com expectativas de trabalho proporcionadas pelo “milagre econômico” brasileiro. Tem como objeto empírico a produção moderna de edifícios públicos e institucionais em Fortaleza ao longo dos anos 1970. Pretende, mediante a apresentação de quatro exemplares paradigmáticos dessa produção – Assembléia Legislativa do Ceará (1972), Instituto de Hematologia (1976), Departamento de Telecomunicações (1978) e Sede do Banco do Nordeste do Brasil (1978) – estabelecer sua relação com outras produções no contexto nacional e identificar até que ponto estas obras se relacionaram a um suposto modelo hegemônico brasileiro e incorporaram particularidades do lugar, adeqüando-se aos condicionantes locais.'
+  abstract_en: 'This paper intends to expand the knowledge concerning modern architecture in the state of Ceará, a production that still lacks specific studies, publications and bibliography. It also meets the yearning of research, documentation and conservation of the architectural heritage of the modern movement, contribuiting, thus, towards the debate about modernity in the regional and national contexts. The choise of the period of time considered is justified by the graduation in 1969 of the first class of the School of Architecture and Urbanism from Ceará Federal University, a generation formed under the influence of the schools of Rio de Janeiro, São Paulo and Recife. Also, in the beginning of the 1970s, young architects graduated in Brasília, São Paulo and Rio de Janeiro returned to Fortaleza with great expectations of work provided by the Brazilian “economic miracle”. The empirical object chosen were institutional and public buildings built in Fortaleza during the 1970s. Through an analisys of four examples of this production – Legislativa Assembly of Ceará (1972), Institute of Hematology (1976), Department of Telecommunications (1978), and Headquarters of Banco do Nordeste do Brasil (1978) - the study intends to establish their relation to a supposed hegemonic model and to identify to what extent they have incorporated particularities of the place and adapted themselves to the site. Palavras – chave: arquitetura moderna; Fortaleza; edifícios institucionais'
+  keywords_en:
+  - modern architecture
+  - Fortaleza
+  - institutional buildings
+  references:
+  - 'ANDRADE, Margarida; DIÓGENES, Beatriz; DUARTE JR, Romeu. Liberal de Castro: o modernismo em Fortaleza. AU - Arquitetura & Urbanismo, São Paulo, n.65, p.73-82, abr/maio 1996.'
+  - 'BASTOS, Maria Alice Junqueira. Pós-Brasília: Rumos da arquitetura brasileira. São Paulo: Perspectiva/Fapesp, 2003. ______. Dos anos 50 aos anos 70: como se completou o projeto moderno da arquitetura brasileira. São Paulo, 2004. Tese (Doutorado em Arquitetura e Urbanismo. Área de Concentração: História e Fundamentos da Arquitetura e do Urbanismo). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.'
+  - 'BENÉVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Perspectiva, 1994.'
+  - 'CZAJKOWSKI, Jorge. Arquitetura brasileira: produção e crítica. Projeto, n.87, p.75, maio 1986.'
+  - 'INSTITUTO DE ARQUITETOS DO BRASIL. Departamento do Ceará. Panorama da Arquitetura Cearense. São Paulo: Projeto, 1982, 2 vols. (Cadernos Brasileiros de Arquitetura vol. 9 e 10).'
+  - 'FERRO, Sérgio. Arquitetura Nova. Arte em Revista, São Paulo, n.2, p.89-94, ago.1980.'
+  - 'FICHER, Sylvia & Acayaba, Marlene Milan. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982.'
+  - 'FRAMPTON, Kenneth. História Crítica da Arquitetura moderna. São Paulo: Martins Fontes, 2000.'
+  - 'GUIMARAENS, Cêca de; TAULOIS, Cláudio; FERREIRA, Flávio & MAGALHÃES, Sérgio Ferraz (coords.). Arquitetura Brasileira após Brasília/Depoimentos. Rio de Janeiro, IAB-RJ, 1978, 3 vols.'
+  - 'LEMOS, Carlos A. C. Arquitetura Brasileira. São Paulo: Melhoramentos/Edusp, 1979.'
+  - 'SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950 – 1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. São Paulo, 2005. Dissertação (Mestrado em Arquitetura e Urbanismo. Área de Concentração: Projeto de Arquitetura). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.'
+  - 'SEGAWA, Hugo (org). Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, 1988. ______. A pesada herança: dilema da arquitetura brasileira. Projeto, n.168, p.86, out.1993. ______. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 2002.'
+  - 'ZEIN, Ruth Verde. O futuro do passado, ou as tendências atuais. Projeto, n.104, pp.87-114, out. 1987. ______. A arquitetura da escola paulista brutalista 1953-1973. São Paulo e Porto Alegre, 2005. Tese (Doutoramento em Arquitetura. Programa de Pesquisa e Pós-graduação em Arquitetura – PROPAR). Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul. 2 vols.'
+  locale: 'pt-BR'
+  file: 'sdnne01-008.pdf'
+  pages_count: 20
+  pages: null
+
+- id: 'sdnne01-009'
+  title: Arquitetura Moderna na cidade de Fortaleza e no campus da UFC
+  authors:
+  - givenname: Cibele Haddad
+    familyname: Taralli
+    email: 'gugtaralli@uol.com.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Magda
+    familyname: Campelo
+    email: 'magdacampelo@baydenet.com.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: 'O debate sobre a arquitetura e o urbanismo moderno no Ceará, encontra referências na obra do arquiteto Neudson Bandeira Braga para o campus da Universidade Federal do Ceará (UFC) em Fortaleza, que retornando a terra natal na década de 50, após sua formação na Escola de Belas Artes no Rio de Janeiro, contribui para disseminar e fomentar discussões conceituais e projetuais realizadas aqui e nas grandes cidades mundiais. Passando a integrar o corpo técnico da UFC, irá influenciar decisivamente, na produção arquitetônica desta Universidade, introduzindo princípios modernistas no projeto e na implantação de novos edifícios que viriam a compor a estrutura física da Instituição. Esta mudança encontra identidade nas diretrizes da Reforma Universitária de 1968, marcada entre outros aspectos, por fatores de racionalização e de flexibilidade pedagógica. Braga desenvolveu tipologias de edificações que se caracterizaram pela proposta da planta-livre, projetada sobre malha modular associada ao módulo estrutural, introduzindo assim o moderno conceito de flexibilidade de arranjos espaciais, como forma de permitir o atendimento de diversas funções de acordo com as solicitações pedagógicas. A forma arquitetônica resultou da planta funcional, representada na composição de volumes puros geométricos destituídos de ornamentação, e de um sistema de cobertura com telhas planas, numa clara alusão à laje plana preconizada nos princípios modernos da nova arquitetura. A metodologia de projeto utilizada consistia em tipificar e ordenar as necessidades funcionais dos espaços conforme o programa de necessidades, resultando na esquematização de blocos padronizados, implantados segundo os limites e as possibilidades fixadas na malha quadrangular. A articulação entre blocos foi viabilizada por passarelas. Merecendo debates e reflexões sobre a expressividade e a representatividade dessa produção arquitetônica, a obra no seu conjunto constitui referência arquitetônica e urbanística para a cidade e para o ensino superior. Palavras-chaves: campus universitário; arquitetura moderna; projeto.'
+  keywords:
+  - campus universitário
+  - arquitetura moderna
+  - projeto
+  abstract_en: 'The debate on architecture and modern city planning in Ceara State finds references in the work undertaken for the Ceará Federal University Campus (UFC) in Fortaleza by architect Neudson Bandeira Braga, who on returning to his homeland in the 50’s, after his graduation in Architecture National School of Brazil''s University, contributes to disseminate and foster the discussions concerning concept and design the features, undertaken both here and in the world’s major cities. When he was incorporated into UFC’s technical staff, he would definitely influence the architectonical production at this University by the introduction of modern principles in the design and implementation of new buildings, that would later on become part of the institution’s physical structure. This change finds identity in the 1968’s University reform guidelines, underscored among other aspects by factors of pedagogical rationalization and flexibility. Braga developed typologies for buildings that were characterized by the proposal of a free-plan designed on a modular frame associated to the structural module, therefore introducing the modern concept of flexibility for spatial arrangements as a way of allowing attending to the requirements of several functions pursuant to the pedagogical demands. The architectonic form resulted from the functional plan, represented in the composition of pure geometrical volumes devoid of adornments, and from a system of roofing with flat roof tiles, in a clear allusion to the flat flagstone recommended in the modern principles of the new architecture. The design methodology employed consisted of typifying and organizing the functional needs of the spaces according to the program of requirements, resulting in the schematization of standardized blocks, installed according to the limits and possibilities in the quadrangular frame. The articulation between blocks was made possible through walkways. Being worthy of debates and reflections on the expressivity and representativeness of this architectonic production, the work as a whole constitutes an architectonical and city planning reference both for the town and for the academic teaching'
+  keywords_en:
+  - university campus
+  - modern architecture
+  - design
+  references:
+  - 'ACAYABA, Marlene Milan; FICHER, Sylvia. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982.'
+  - 'BUFFA, Ester, Pinto, Gelson de Almeida. Arquitetura e Educação: organização do espaço e propostas pedagógicas dos grupos escolares paulistas, 1983 – 1971. São Paulo: EdUFSCar,'
+  - 'CAMPÊLO, Magda. Leitura e análise das interferências físicas na arquitetura dos edifícios para a educação superior: o caso da UFC. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.'
+  - 'COLIN, Silvio. Pós-Modernismo: repensando a arquitetura. Rio de Janeiro: UAPÊ, 2004. ______ Uma introdução à arquitetura. Rio de Janeiro: UAPÊ, 2000.'
+  - 'DIÓGENES, Beatriz Helena Nogueira, et al. Liberal de Castro – Documento. Arquitetura &Urbanismo, São Paulo, ano 11, n. 65, p. 74 – 82, PINI, 1996.'
+  - 'CASTRO, José Liberal de. Ceará, sua arquitetura e seus arquitetos. In: Cadernos Brasileiros de Arquitetura - volume 9 – Panorama da Arquitetura Cearense. São Paulo: Projeto, 1982.'
+  - 'DUARTE, Hélio de Queiroz. Espaços Flexíveis – uma conseqüência em Arquitetura. São Paulo: FAU / USP, [1957 ?].'
+  - 'LIMA, Daniele Abreu. Arquitetura Moderna nos Trópicos – Exemplos em Pernambuco. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2002.'
+  - 'LOUREIRO, Cláudia, AMORIM, Luiz. Por uma arquitetura Social: a influência de Richard Neutra em prédios escolares no Brasil. São Paulo: Vitruvius, 2002. Disponível em <'
+  - 'http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp >Acesso em 25 abr. 2004.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900 – 1990. 2. ed. São Paulo: Edusp, 2002. ______. Hélio Duarte – Moderno, Peregrino, Educador. Arquitetura & Urbanismo, São Paulo, ano 14, n. 80, p. 59 – 65, PINI, 1998.'
+  - 'UNIVERSIDADE FEDERAL DO CEARÁ. Documento de Consolidação da Área Física. Fortaleza: Imprensa Universitária, 1996. ______Plano Diretor – 1980. Fortaleza: Imprensa Universitária, [1980]. ______Ano 20 - Roteiro. Fortaleza: Imprensa Universitária, 1974. ______.Plano de Desenvolvimento – Universidade Federal do Ceará. Fortaleza: Imprensa Universitária, 1966.'
+  locale: 'pt-BR'
+  file: 'sdnne01-009.pdf'
+  pages_count: 23
+  pages: null
+
+- id: 'sdnne01-010'
+  title: Arquiteturas impressas
+  subtitle: 'o Diário, o Commércio e a preservação do Moderno pernambucano'
+  authors:
+  - givenname: Ana Elisabete de Almeida
+    familyname: Medeiros
+    email: 'ana@unb.br'
+    affiliation: ''
+    orcid: '0000-0003-3248-4399'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 6 — A difusão da arquitetura moderna
+  abstract: 'Tradicionalmente ausente dos textos clássicos que tratam a questão da produção modernista nacional, a arquitetura moderna pernambucana vem se tornando, desde “Arquitetura Contemporânea no Brasil”, objeto de estudo e crítica cada vez mais privilegiado, dentro da academia. Todavia, hoje, dezesseis anos após a Carta de Eindhoven ou onze anos depois do I Seminário DOCOMOMO Brasil, apesar do crescente reconhecimento do patrimônio modernista, o fato é que, no contexto nacional – e aqui Pernambuco não constitui exceção à regra -, a idéia da preservação continua associada, no imaginário popular, à salvaguarda do tradicional. Se houve um momento em que a construção do patrimônio teve o Estado Nação como ator principal, senão o único, a última década conferiu ao cidadão um papel jamais antes desempenhado na preservação de bens culturais. Nesse contexto, desvendar o lugar da imprensa na criação imagética da prática preservacionista, enquanto espaço formador de opinião do homem comum parece essencial. E é nesse sentido que o objetivo do presente artigo se define: identificar, sob a perspectiva cognitivista alicerçada na teoria do regime, como o Diário de Pernambuco e o Jornal do Commércio trazem à tona a questão da preservação, em geral e, particularmente, da salvaguarda da arquitetura moderna pernambucana, no período 1998/2000. Para tanto, o texto encontra-se estruturado em três partes: 1) Discorre sobre a teoria dos regimes, a emergência de novos atores e o papel da imprensa sob a perspectiva cognitivista; 2) Levanta e analisa os artigos publicados pelos jornais em questão, no período considerado, buscando identificar respostas a questões do tipo: Como a arquitetura moderna incorporou práticas construtivas, atendeu aos condicionantes climáticos locais ou enfrentou novos programas?; e 3) Traz à luz algumas conclusões a fim de demonstrar o necessário agenciamento dos meios de comunicação impressa no sentido de aumentar o potencial do projeto de preservação da arquitetura moderna em Pernambuco.'
+  keywords:
+  - Imprensa
+  - arquitetura moderna
+  - patrimônio
+  references:
+  - 'ANDERSON, Benedict. (1991). Imagined Communities – Reflections on the Origin and Spread of Nationalism. 2a Ed. London: Verso Press, 1991. 206p.'
+  - 'BID. (1994). PRODETUR/NE - Northeast Tourism Development Program. 841/OC – BR. Brasília, BID/Governo Federal, 1994.'
+  - 'BOURDIEU, Pierre. (1994). Raisons Pratiques sur la Théorie de l’Action. Paris: Editions du Seuil, 1994. 240 p.'
+  - 'BRASIL. (1988). Constituição Federal de 05 de outubro de 1988. _________. (1999). Contrato de Empréstimo no 1200/OC – BR entre a República Federativa do Brasil e o Banco Interamericano de Desenvolvimento – Programa de Preservação do Patrimônio Histórico Urbano (Monumenta). Brasília: Ministério da Fazenda/MinC, 1999. _________. (1999a). Regulamento Operativo – Programa de Preservação do Patrimônio Cultural Urbano – Monumenta (BR 0261). Brasília: Ministério da Fazenda/MinC, 1999. 69 p.'
+  - 'BRUAND, Yves. (1991). Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1991. 398 p.'
+  - 'HUXLEY, Julian. (1947). UNESCO: Its Purpose and its Philosophy. Washington: Public Affairs Press, 1947. 62 p.'
+  - 'IPHAN. (1973). Anais do II Encontro de Governadores para a Preservação do Patrimônio Histórico, Artístico, Arqueológico e Natural do Brasil, realizado em Salvador, Bahia, de 25 a 29 de outubro de 1971. Rio de Janeiro: MEC, Departamento de Assuntos Culturais – DAC, Instituto do Patrimônio Histórico e Artístico Nacional – IBPC, 1973. 382 p.'
+  - 'JOUVE, B. & LEFÈVRE, C. (1999). De la Gouvernance Urbaine au Gouvernement des Villes? Permanence ou Recomposition des Cadres de l’Action Publique en Europe. In: Revue Française de Science Politique. Paris: Presses de la Fondation Nationale des Sciences Politiques. Vol. 49, no. 6; Décembre, 1999. Pp. 835-853.'
+  - 'LEAL, Suely Maria Ribeiro. (1994). Para Além do Estado: Tendências, Limites e Alcance das Novas Formas de Gestão urbana a Nível Local. Tese de Doutorado apresentada ao Curso de Doutorado de Economia do Instituto de Economia da Universidade Estadual de Campinas – UNICAMP sob a orientação do Professor Dr. Carlos Alonso Barbosa de Oliveira. Campinas, 1994. 319 p. __________. (1995). Modelos de Descentralização Política na Gestão Local: Os Novos Formatos na Década de 90. In: Relação Público-privado: do local ao global. MELO, Norma Lacerda de & LEAL, Suely Ribeiro. (Orgs.).Recife: Editora Universitária da UFPE, 1995. Pp. 87 – 125. __________. (1995a). Condicionantes Políticos das Estratégias de Intervenção em Áreas Históricas: O Município do Recife (1986 / 1988). In: Estratégias de Intervenção em Áreas Históricas – Revalorização de Áreas Urbanas Centrais. ZANCHETTI, S., MILET, V. &'
+  - 'MARINHO, G. (Orgs.). Recife: Mestrado em Desenvolvimento Urbano – MDU/UFPE, Projeto PNUD-SEPURB BRA 93/013, 1995. Pp. 211 – 219.'
+  - 'MEDEIROS, Ana Elisabete. (2002). Materialidade e Imaterialidade Criadoras – o Global, o Nacional e o Local na Construção do Patrimônio Mundial: O Bairro do Recife como Caso. Tese de Doutorado Brasília: SOL/UnB. 2002. __________. (2005). Patrimônio Cultural e Identidade (Trans)Nacional: Uma Política da Prática ou do Discurso? Trabalho apresentado por ocasião do V Fomerco (Fórum Universitário Mercosul) – Os Desafios da Integração Sul-Americana. Goiânia: Universidade Católica de Goiás. 9 a 11 de novembro de 2005.'
+  - 'MEDEIROS, Marcelo de Almeida. (2000). La Genèse du Mercosud – Dynamisme Interne, Influence de l’Union Européenne et Insertion Internationale. Paris: L’Hamarttan, 2000. 500p.'
+  - 'OUTTES, Joel. (1997). O Recife: Gênese do Urbanismo 1927-1943. Recife: FUNDAJ - Editora Massangana, 1997. 244p. il'
+  - 'PEREIRA, Renato Aristides Orozco. (2001). A Diplomacia dos Estados Federados, Províncias e Cidades. In: Fronteira – Revista de Iniciação Científica em Relações Internacionais. Belo Horizonte: PUC Minas, Curso de Relações Internacionais, 2001. v. 1. n. 1. (37 – 58).'
+  - 'SASSEN, Saskia. (1991). The Global City: New York, London,Tokyo. Princenton, NJ: Princenton University Press, 1991. _______. (1998). As Cidades na Economia Global. São Paulo: Studio Nobel, 1998. 190 p.'
+  - 'SOUZA, Alberto; ROCHA, Edileusa (Org.). (2004). Guia do Recife: Arquitetura e Paisagismo. Recife: Ed. dos Autores, 2004. 268 p.'
+  locale: 'pt-BR'
+  file: 'sdnne01-010.pdf'
+  pages_count: 14
+  pages: null
+
+- id: 'sdnne01-011'
+  title: Aspectos do debate cultural dos anos 1950
+  subtitle: a participação nordestina nas Bienais paulistanas e a constituição de novos conceitos de Modernidade
+  authors:
+  - givenname: Helio
+    familyname: Herbst
+    email: 'herbst@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0003-2274-840X'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 6 — A difusão da arquitetura moderna
+  abstract: ''
+  keywords:
+  - BIENAIS
+  - MODERNIDADE
+  - DIVERSIDADE
+  keywords_en:
+  - BIENNIALS
+  - MODERNITY
+  - DIVERSITY
+  references:
+  - 'A Cidade Universitária do Recife. Arquitetura e Engenharia, Belo Horizonte, MG, n.26, p.7-8, maio-junho, 1953.'
+  - 'ALBAN, Naia, GALVÃO, Anna Beatriz. História do fazer baiano – entrevista com Diógenes Rebouças. Rua – Revista de Urbanismo e Arquitetura, Salvador, BA, n.7, p.116-125, julho- dezembro, 1999.'
+  - 'ALBAN, Naia; NERY, Pedro; REIS, Assis. Diógenes Rebouças – documento. Arquitetura e Urbanismo, São Paulo, SP, n.58, p.55-63, fevereiro-março, 1995.'
+  - 'AMORIM, Luiz. Uma escola regional? Arquitetura e Urbanismo, São Paulo, SP, n.94, p.66-69, fevereiro-março, 2001.'
+  - 'AZEVEDO, Paulo Ormindo de. Diógenes Rebouças, um pioneiro modernista baiano. In: Cardoso, Luiz Antonio Fernandes; Oliveira, Olívia Fernandes de (Orgs.). (Re)Discutindo o Modernismo: universalidade e diversidade do movimento moderno em arquitetura e urbanismo no Brasil. Salvador: Mestrado em Arquitetura e Urbanismo da UFBA, 1997 p.187-200.'
+  - 'BARDI, Lina Bo. Casa na Bahia. Habitat, São Paulo, SP, n.8, p.16-17, 1952.'
+  - 'BRÉSIL, Hotel a Bahia. L´Architecture d´Aujourd´hui, Paris, n.52, p.32, Janeiro, 1954.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1997.'
+  - 'CABRAL, Renata Campello. Mario Russo: um arquiteto racionalista italiano em Recife. 2003. Dissertação (Mestrado em Tecnologia do Ambiente Construído). EESC/USP, São Carlos, 2003. CARAMURA building (sic). Architectural Review, Londres, n.116, p.246, outubro, 1954.'
+  - 'CAVALCANTI, Lauro. Quando o Brasil era moderno. Rio de Janeiro: Aeroplano, 2001. CIDADE Universitária de Recife. Acrópole, São Paulo, SP, n.213, p.349-363, julho, 1956. EDIFICE Caramuru a Bahia. L´Architecture d´Aujourd´hui, Paris, n.42-43, p.24-26, agosto, 1952. ESCOLA industrial de Terezina (sic). Arquitetura e Engenharia, Belo Horizonte MG, , n.22, p.52- 56, junho-agosto, 1952.'
+  - 'HERBST, Helio. Promessas e conquistas: arquitetura e modernidade nas bienais 1951-1959. 2002. Dissertação (Mestrado em Estruturas Ambientais Urbanas). FAU/USP, São Paulo, 2002. HOTEL a Bahia (Brésil). L´Architecture d´Aujourd´hui, Paris, n.20, p.88-90, dezembro, 1949. HOTEL Amazonas. Arquitetura e Engenharia, Belo Horizonte, MG, n.16, p.36-37, março-abril, 1951. HOTEL da Bahia. Arquitetura e Engenharia, Belo Horizonte, MG, n.17, p.40-41, maio-junho, 1951.'
+  - 'LEMOS, Carlos. Arquitetura brasileira. São Paulo: Melhoramentos/Edusp, 1979. LOJAS Rosemary. Arquitetura, Rio de Janeiro, RJ, n.45, p.20, março, 1966. LOJAS Rosemary, em Parnaíba. Habitat, São Paulo, SP, n.46, p.32-33, janeiro-fevereiro, 1958.'
+  - 'MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
+  - 'NASLAVSKI, Guilah. Modernidade arquitetônica no Recife: arte, técnica e arquitetura de 1920 a 1950. 1998. Dissertação (Mestrado). FAU/USP, São Paulo, 1998.'
+  - 'PAGLIA, Dante. Arquitetura na Bienal de São Paulo. São Paulo: Ediam, 1952.'
+  - 'PERNAMBUCO. Universidade. Cidade Universitária do Recife. Recife: Universidade do Recife, s.d.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2002.'
+  locale: 'pt-BR'
+  file: 'sdnne01-011.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdnne01-012'
+  title: Bahia no Ibirapuera (1959) e Civilização Nordeste (1963)
+  subtitle: duas mostras de cultura popular e a indicação de valores para a cultura moderna
+  authors:
+  - givenname: Juliano Aparecido
+    familyname: Pereira
+    email: 'pereira@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Renato Luiz Sobral
+    familyname: Anelli
+    email: 'anelli@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2036-5897'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 4 — O universo popular na arquitetura moderna
+  abstract: ''
+  keywords:
+  - Lina Bo Bardi
+  - projeto museográfico
+  - 'cultura popular, cultura moderna'
+  - 'Salvador, São Paulo'
+  references:
+  - 'BARDI, Lina Bo. Apresentação-Manifesto da Exposição de Arte Popular do Unhão. Folder da exposição. Salvador: 1963.'
+  - 'BARDI, Lina Bo (1980). Porque o Nordeste? In: SUZUKI, Marcelo (org.). Tempos de grossura: o design no impasse / Lina Bo Bardi. São Paulo: Instituto Lina Bo e PM Bardi, 1994.'
+  - 'BARDI, Lina Bo. PROJETO DA ESCOLA DE ARTESANATO. Texto datilografado. 1963.'
+  - 'BARDI, Lina Bo; GONÇALVES, Martin. Bahia / Exposição no Parque Ibirapuera. Folder da exposição. São Paulo: 1959.'
+  - 'BERTONI, Mateus. Arquitetura cênica de Lina Bo Bardi. São Carlos: Dissertação de mestrado, 2005. (EESC/USP/Depto. de Arquitetura e Urbanismo).'
+  - 'FERRAZ, Marcelo Carvalho (org.). Lina Bo Bardi. São Paulo: Instituto Lina Bo e PM Bardi, 1993.'
+  - 'KURZ, R. (1999). O Fantasma da arte. Folha de São Paulo, Caderno Mais!. São Paulo: 4, abril, 1999.'
+  - 'PEREIRA, Juliano Aparecido. A ação cultural de Lina Bo Bardi na Bahia e no Nordeste (1958- 1964). São Carlos: Dissertação de mestrado, 2001. (EESC/USP/Depto. de Arquitetura e Urbanismo).'
+  - 'RISÉRIO, Antonio. Avant-Garde na Bahia. São Paulo: Instituto Lina Bo e PM Bardi, 1995.'
+  - 'SERÁ a exposição Bahia apresentação de uma cultura e não mostra de exotismo. Diário de São Paulo. São Paulo: 13, setembro, 1959.'
+  - 'À FAPESP, pelo apoio e financiamento da pesquisa.'
+  locale: 'pt-BR'
+  file: 'sdnne01-012.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdnne01-013'
+  title: Caminhos da Arquitetura Moderna em Fortaleza
+  subtitle: a contribuição do arquiteto Roberto Martins Castelo
+  authors:
+  - givenname: Beatriz Helena Nogueira
+    familyname: Diógenes
+    email: 'bhdiogenes@secrel.com.br'
+    affiliation: ''
+    orcid: '0000-0003-4305-5485'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Ricardo Alexandre
+    familyname: Paiva
+    email: 'paiva_ricardo@yahoo.com.br'
+    affiliation: ''
+    orcid: '0000-0002-0332-097X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 1 — O papel das individualidades
+  abstract: ''
+  keywords:
+  - arquitetura moderna
+  - Fortaleza
+  - Roberto Castelo
+  references:
+  - 'BICCA, Paulo. Brasília: mitos e realidades. In: Brasília: Ideologia e realidade/Espaço Urbano em Questão, por Aldo Paviani (org). São Paulo Cadernos Brasileiros de Arquitetura: Panorama da Arquitetetura Cearense. Volumes I e II. Projeto, São Paulo, 1982'
+  - 'CASTRO, José Liberal de. “Ceará, suas arquiteturas e seus arquitetos” In: Cadernos Brasileiros de Arquitetura: Panorama da Arquitetetura Cearense. Vol I. Projeto, São Paulo, 1982.'
+  - 'CASTELO, Roberto Martins. Arquitetura e Sociedade. Mimeo, Fortaleza, 2001.'
+  - 'DIÓGENES, Beatriz H.N. Arquitetura e Estrutura: o uso do concreto armado em Fortaleza. Dissertação (Mestrado). Centro de Tecnologia, UFC. Fortaleza, 2001.'
+  - 'DIÓGENES, Beatriz H.N. A centralidade da Aldeota como expressão da dinâmica intra- urbana de Fortaleza. Dissertação (Mestrado). FAUUSP, São Paulo, 2005.'
+  - 'FICHER, Silvia e ACAYABA, Marlene. Arquitetura Moderna Brasileira. Projeto, São Paulo, 1982 Jornal O Povo'
+  - 'PAIVA, Ricardo A. Entre o mar e o sertão: Paisagem e memória no Centro de Fortaleza. Dissertação (Mestrado). FAUUSP, São Paulo, 2005.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo. Edusp, 2002.'
+  locale: 'pt-BR'
+  file: 'sdnne01-013.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdnne01-014'
+  title: 'Distinção, conforto e higiene'
+  subtitle: Modernidade urbana na Fortaleza de 1930 e 1940
+  authors:
+  - givenname: Marília Santana
+    familyname: Borges
+    email: 'borges@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 5 — A construção das cidades e da paisagem moderna
+  abstract: '“Distinção, Conforto e Higiene: Modernidade Urbana na Fortaleza de 1930 e 1940” A efetivação de Fortaleza como principal centro do Estado no século XIX desencadeou uma série de reformulações urbanas, objetivando o embelezamento da cidade e alinhá-la aos ideais positivistas e republicanos de ‘progresso’ e ‘modernidade’. A principal referência de então eram os grandes centros europeus, em especial Paris. Esse período, que perdurou de cerca de 1860 a 1930, ficou conhecido como Fortaleza Belle Époque. Tal processo entrou em declínio em meados da primeira metade do século XX, quando um conjunto de fatores como revoltas, motins, crescimento desenfreado da população, dos fluxos e da cidade passou a romper com a aparente tranqüilidade e harmonia vivenciada pela capital e uma nova organização urbana, mais pautada pela racionalidade e funcionalidade, do que pelo embelezamento, passou a gerenciar as intervenções na cidade. O presente trabalho buscará mostrar como se consolidou na Fortaleza das décadas de 1930 e 1940 esse ideário moderno, caracterizado por um contexto de intensas reformas urbanas, progresso material, desenvolvimento tecnológico, aceleração da dinâmica urbana, maior racionalidade e funcionalidade, crescimento populacional e territorial, incremento do consumo e expansão do capital, fortemente marcado, também, pela crescente influência norte-americana.'
+  keywords:
+  - 'Modernidade Urbana, Fortaleza'
+  abstract_en: '"Distinction, Comfort and Hygiene: Urban Modernity in Fortaleza – 1930/1940" The affirmation of Fortaleza as the main center of the State in century XIX resulted in many urban modifications, in order to turn the city more beautiful and to line it up with republican ideals of ''progress’ and ''modernity''. In this moment, the main reference was the great european centers, in special Paris. This period, that lasted from 1860 until 1930, was known as ‘Fortaleza Belle Époque’. Such process declined in the middle of the first half of century XX, when a set of factors as rebellions, wild growth of the population, the flows and the city started to break with the apparent tranquillity and harmony of the capital and a new urban organization, more rational and functional, started to manage the transformations in the city. The present work will show how these modern ideas consolidated themselves in Fortaleza of the decades 1930 and 1940, resulting in a context of intense urban reforms, material progress, technological development, acceleration of the urban dynamics, rationality and functionality, population and territorial growth, increment of the consumption and expansion of the capital and also marked for the increasing of North American influence. Palavras-chave: Modernidade Urbana, Fortaleza.'
+  keywords_en:
+  - 'Urban Modernity, Fortaleza'
+  locale: 'pt-BR'
+  file: 'sdnne01-014.pdf'
+  pages_count: 24
+  pages: null
+
+- id: 'sdnne01-015'
+  title: Edf. residencial pres. João Pessoa e edf. Caricé
+  subtitle: João Pessoa e o desafio das habitações multifamiliares
+  authors:
+  - givenname: Carolina Marques Chaves
+    familyname: Galvão
+    email: 'carolinamchaves@gmail.com'
+    affiliation: ''
+    orcid: '0000-0001-9444-3424'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 7 — O morar moderno no Norte e Nordeste II
+  abstract: 'Nas primeiras décadas do século XX, João Pessoa passa por um período de intensa transformação urbana. A cidade modifica-se em nome do progresso, antigas edificações dão lugar a praças, programas de saneamento são implantados, surgem os bondes para o transporte coletivo, as ruas são pavimentadas e a cidade cresce com os novos eixos de expansão urbana. O que pouco se modifica nesse período, no entanto, são as habitações. Ainda predominam as residências unifamiliares, que apenas a partir da década de 1940 anunciam possíveis mudanças na forma de morar; a arquitetura moderna, ainda que timidamente, começa a pontuar a paisagem urbana. Mas, é a partir das décadas de 1950 e 60 que a forma de habitar a cidade sofre relevante alteração com a construção de edifícios residenciais em altura como o Pres. João Pessoa, em 1957-1959, e posteriormente o edifício Caricé, em 1964. O edf. João Pessoa, projeto do arquiteto carioca Ulysses Burlamaqui, é o primeiro exemplar a ser construído, iniciativa do IAPB em parceria com o INSS, onde se associam os usos residencial e institucional. É popularmente conhecido como “18 andares”, referência a seu gabarito. Já o edifício Caricé, primeiro edifício de uso exclusivamente residencial, só é construído na década seguinte. Atualmente ambos estão localizados na área de preservação histórica definida pelo IPHAEP (Instituto de Preservação Histórica e Artística do Estado da Paraíba). Buscamos com este trabalho, além de entender como se desenvolveram as soluções locais para o novo programa habitacional, analisar como a arquitetura moderna respondeu ao desafio de propor novas alternativas funcionais, técnicas e formais. Buscamos ainda contribuir para o registro da produção moderna de nossa cidade, através do estudo e da documentando de obras que marcam o patrimônio moderno da Paraíba, a fim de subsidiar a sua proteção e conservação. Uma arquitetura, sem dúvida, vinculada ao movimento moderno brasileiro, que não se limitou ao eixo Rio – São Paulo, e que assinala uma nova fase de desenvolvimento arquitetônico e urbano.'
+  keywords:
+  - arquitetura moderna
+  - 'habitação multi-familiar'
+  - edf. João Pessoa e Caricé
+  references:
+  - 'AGUIAR, Wellington Hermes Vasconcelos de. Cidade de João Pessoa: a memória do tempo. 3a ed. João Pessoa: Idéia, 2002. 354p.'
+  - 'AGUIAR, Wellington; OCTÁVIO, José. Uma cidade de quatro séculos – evolução e roteiro. 2a ed. João Pessoa: FUNCEP, 1989. 310p.'
+  - 'BONDUKI, Nabil. Origens da Habitação Social no Brasil – arquitetura moderna, lei o inquilinato e difusão da casa própria. Estação Liberdade, São Paulo, n.2, 1999.'
+  - 'CAVALCANTI, Lauro. Quando o Brasil era Moderno – guia de arquitetura 1928 – 1960. Rio de Janeiro: Aeroplano, 2001.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 2005.'
+  - 'MINDLIN, Henrique E. Modern Architecture in Brazil. Rio de Janeiro/Amsterdam, Colibris Editora, 1956.'
+  - 'ROCHA, Mércia Parente. Manifestação da Arquitetura Moderna em João Pessoa. Trabalho Final de Graduação João Pessoa, CAU/UFPB 1987.'
+  - 'RODRIGUEZ, Walfredo. Roteiro Sentimental de uma Cidade. 2ª ed. João Pessoa: A União, 1994. 280p.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da USP, 1999.'
+  - 'TINEM, Nelci, TAVARES, Lia, TAVARES, Marieta. Arquitetura Moderna em João Pessoa – a memória moderna e local de um movimento internacional. Rio de Janeiro, Docomomo, 2005.'
+  locale: 'pt-BR'
+  file: 'sdnne01-015.pdf'
+  pages_count: 28
+  pages: null
+
+- id: 'sdnne01-016'
+  title: Expressões do Moderno sergipano
+  subtitle: as residências unifamiliares do bairro São José nos anos 50 e 60
+  authors:
+  - givenname: Isabella Aragão Melo
+    familyname: Santos
+    email: 'santos@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 3 — O morar moderno no Norte e Nordeste I
+  abstract: 'A disseminação da arquitetura moderna no Brasil apresenta uma diversidade vastíssima, que vai dos grandes marcos referências dessa produção como o Complexo da Pampulha de grandes arquitetos como Niemeyer a uma imensidão de apropriações leigas que se manifestam em pilares, platibandas, elementos vazados, entre outros que demonstram a multiplicidade das vontades, dos entendimentos e das concretizações de ser moderno na vastidão do território brasileiro. A importância do conhecimento das especificidades locais de culturas e contextos se torna fundamental no mapeamento dessa diversidade e no aprofundamento do que foi e do que significou a arquitetura moderna, ou as arquiteturas modernas nas várias regiões do país, e no caso específico no nordeste. Este trabalho visa contribuir nesta jornada através do estudo das residências unifamiliares construídas entre os anos 50 e 60 no Bairro São José em Aracaju que de alguma maneira incorporaram soluções desse movimento em suas concepções arquitetônicas. Esse bairro abriga, no cenário aracajuano, a mais significativa produção (parcialmente protegida por legislação municipal) desse período, com um razoável grau de preservação, na qual ainda é possível identificar e analisar as características e os valores que configuraram e consolidaram a arquitetura moderna na cidade. A partir do inventário das edificações da área num total de 52 obras e 3 em bairros próximos (incluídas dada a excepcionalidade destas na capital sergipana) e do estudo aprofundado das soluções mais relevantes, a pesquisa revela o enfrentamento do morar moderno e seus hibridismos por autores (em sua esmagadora maioria não arquitetos) numa cidade na qual não havia uma escola de arquitetura, que teve seu crescimento fomentado pela chegada da Petrobrás e o afã de modernidade pós – Brasília. As questões que o trabalho busca responder são: Como, quando e quem foram os responsáveis por essas construções? Quais as principais características e as soluções predominantes dessa produção? Quais as principais influências dessa arquitetura? E o que ela representou e ainda representa na história da cidade?'
+  keywords:
+  - residências modernas
+  - Aracaju
+  - arquitetura nordestina
+  abstract_en: 'The dissemination of the Modern architecture in Brazil presents a large diversity, which goes from the great landmarks references of its production as the Pampulha Complex designed by great architects such as Niemeyer to a lay appropriations immensity that manifests in pillars, open elements, among others that demonstrate the multiplicity of wills, of understanding and the concretizing of being modern in the vastness of Brazilian landscape. The importance of knowing the local cultures and contexts peculiarities becomes fundamental in the mapping of this diversity and in the deepening of what it was and what it meant the modern architecture, or the modern architectures in many country’s regions, and in the specific case of the Brazilian Northeast. This work aims to contribute for this journey, with the study of the houses built between the 50’s and the 60’s, at São José Borough in Aracaju City, that somehow has incorporated solutions of this movement in their architectural conceptions. This borough shelters in the Aracaju’s scenario, the most significant production of this period (partially protected by local legislation), with a reasonable preservation level, in which it still is possible to identify and analyze the formal characteristics and values that had configured and consolidated the modern architecture in the city. From the inventory of the area buildings, with total of 52 houses, and other 3 located near the borough (which were included due to their exceptionally at Sergipe’s capital), and from deep study of the most excellent solutions, the research discloses the confrontation of modern living and its authors hybridism (in its majority not architects) at a city which did not have an Architecture School, and had its growth fomented by the arrival of Petrobrás and the eagerness for modernity after the Brasília construction. The questions that this work intends to answer are: How, when and who had been the responsible ones for these buildings? Which are the main characteristics and the predominant solutions of this production? Which are the main influences of this architecture? And what it has represented, and still represents in the history of the city?'
+  keywords_en:
+  - modern residence
+  - Aracaju
+  - architecture of northeast
+  locale: 'pt-BR'
+  file: 'sdnne01-016.pdf'
+  pages_count: 22
+  pages: null
+
+- id: 'sdnne01-017'
+  title: Frank Algot Eugen Svensson
+  subtitle: Arquitetura e ideologia
+  authors:
+  - givenname: Andrey Rosenthal
+    familyname: Schlee
+    email: 'andreysc@terra.com.br'
+    affiliation: ''
+    orcid: '0000-0003-1190-4534'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: ''
+  keywords:
+  - Frank Svensson
+  - Sudene
+  - Ideologia
+  keywords_en:
+  - Frank Svensson
+  - Sudene
+  - Ideologia
+  references:
+  - 'ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1992.'
+  - 'ARTIGAS, Vilanova. Caminhos da arquitetura. São Paulo: Cosac & Naify, 1999.'
+  - 'BIENAL DE SÃO PAULO, 6, 1961, São Paulo. São Paulo: Museu de Arte Moderna (catálogo ge- ral).'
+  - 'COSTA, Lúcio. Obras completas. Belo Horizonte: Edições Escola de Arquitetura, 1961.'
+  - 'COUTINHO, Evaldo. O espaço da arquitetura. São Paulo: Perspectiva, 1977.'
+  - 'DOMINGUES, Marcos. Entrevista a Geraldo Gomes da Silva. Em Busca dos mesmos objetivos.'
+  - 'Revista Projeto, São Paulo, n.106, dez. 1987-jan. 1988.'
+  - 'GRAEFF, Edgar. Arquitetura e o homem. Belo Horizonte: Edições Escola de Arquitetura, 1959'
+  - 'GULLAR, Ferreira. Disponível em <www.pcb.org.br /PCB_ES-TADOS.html>. Acesso em 18 fev. 2006.'
+  - 'INSTITUTO DOS ARQUITETOS DO BRASIL. Premiação anual do IABpe. Recife: IABpe, 1969.'
+  - 'OLIVEIRA, Cléo Alves Pinto; PERPÉTUO, Maini de Oliveira. O ensino de projeto na primeira es- cola de arquitetura do Brasil. In: II Seminário sobre Ensino e Pesquisa em Projeto de Arquitetura, Projetar 2005. Rio de Janeiro. Cadernos de Resumos. Rio de Janeiro: PROARQ, 2005.'
+  - 'ROCHA, Edileusa da (org.). Guia do Recife. Arquitetura e paisagismo. Recife: Ed. dos autores, 2004.'
+  - 'SCHWARZ, Roberto. O pai de família e outros estudos. Rio de Janeiro: Paz e Terra, 1978.'
+  - 'SVENSSON, Frank. (1969) Residência em Olinda. Revista Acrópole, São Paulo, n. 368, dez. 1969.'
+  - 'SVENSSON, Frank. (1985) Carta ao Ministro da Educação do Brasil. Gotemburgo, 6 de junho de 1985.'
+  - 'SVENSSON, Frank. (1988) Entrevista a Geraldo Gomes da Silva. Repensando uma trajetória de quinze anos na arquitetura. Revista Projeto, São Paulo, n.106, dez. 1987.'
+  - 'SVENSSON, Frank. (1992). Arquitetura, criação e necessidade. Brasília: EdUNB, 1992.'
+  - 'SVENSSON, Frank. (1994) Arquitetura e conhecimento. Vol.1. Brasília: AURORA, 1994.'
+  - 'SVENSSON, Frank. (1995) Arquitetura e conhecimento. Vol.2. Brasília: AURORA, 1995.'
+  - 'SVENSSON, Frank. (1996) Arquitetura e conhecimento. Vol.3. Brasília: AURORA, 1996.'
+  - 'SVENSSON, Frank. (1996) Arquitetura e conhecimento. Vol.4. Brasília: AURORA, 1996.'
+  - 'SVENSSON, Frank. (1997) Arquitetura e conhecimento. Vol.5. Brasília: AURORA, 1997.'
+  - 'SVENSSON, Frank. (1998) Arquitetura e conhecimento. Vol.6. Brasília: AURORA, 1998.'
+  - 'SVENSSON, Frank. (1998) Arquitetura e conhecimento: inquietudes pessoais. Aula Inaugural FAU UnB, 5 agos. 1998. Brasília: Cediarte, 1998.1 fita de vídeo (94 min.), VHS, son., color.'
+  - 'SVENSSON, Frank. (2001) Visões de mundo; arquitetura. Brasília: Alva, 2001.'
+  - 'SVENSSON, Frank. (2006) Depoimento a Andrey Rosenthal Schlee. Brasília: inédito, 27 jan. 2006.'
+  - 'SVENSSON, Frank. (2006) Depoimento a Andrey Rosenthal Schlee. Brasília: inédito, 16 fev. 2006.'
+  - 'SVENSSON, Frank. (2006) Entrevista a Andrey Rosenthal Schlee. Brasília: inédito, 15 fev. 2006.'
+  locale: 'pt-BR'
+  file: 'sdnne01-017.pdf'
+  pages_count: 14
+  pages: null
+
+- id: 'sdnne01-018'
+  title: Grande Hotel de Natal
+  subtitle: 'ícone esquecido de um tempo, de um pensamento, de um lugar'
+  authors:
+  - givenname: Angela Lúcia de Araújo
+    familyname: Ferreira
+    email: 'ferreira@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Hélio Takashi Maciel de
+    familyname: Farias
+    email: 'farias@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 8 — Arquitetura moderna e contexto urbano
+  abstract: ''
+  keywords:
+  - 'Arquitetura proto-modernista'
+  - Arquiteto Georges Munier
+  - História Urbana
+  keywords_en:
+  - 'Proto-modernist architecture'
+  - Architect Georges Munier
+  - Urban History
+  references:
+  - 'A REPÚBLICA. Natal, 2 de julho de 1935.'
+  - 'BENTES, Maria Dulce P. Sobrinha e VELOSO, Maísa. Do grande hotel aos palaces & resorts: os empreendimentos hoteleiros na transformação da estrutura e da paisagem urbanas de Natal/RN (1940-2000). VIII Seminário de História e Urbanismo. Salvador: FAUFBA/ UFBA, 2002. CD-ROM.'
+  - 'DANTAS, Ana Caroline C. L. et al. A paisagem criada pelo saneamento: propostas arquitetônicas par a Natal dos anos 30. (XVII Congresso Brasileiro de Arquitetos). Rio de Janeiro: UFRJ, 2003.'
+  - 'DR. GEORGE Munier. A República, Natal, 26 de setembro de 1935.'
+  - 'EDUARDO, Anna Rachel Baracho. Do Higienismo ao saneamento: As Modificações do Espaço Físico de Natal 1850-1935. Monografia de Graduação. Natal, UFRN, 2000.'
+  - 'FARIAS, Hélio T. M. de. Grande Hotel de Natal: Registro histórico-memorial e restauração virtual. Monografia de Graduação. Natal, UFRN, 2005.'
+  - 'LIMA, Pedro de. Arquitetura no Rio Grande do Norte. Natal: Cooperativa Cultural Universitária, 2002.'
+  - 'NASLAVSKY, Guilah. Arquitetura Moderna em Pernambuco 1951-1972, as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim. (Tese, Doutorado em Arquitetura e Urbanismo). São Paulo, USP, 2004.'
+  - 'NESI, Jeanne Fonseca Leite. Natal Monumental. Natal: Fundação José Augusto/APEC, 1994.'
+  - 'O “GRANDE Hotel” continúa. A República, Natal, 23 de abril de 1937.'
+  - 'O GRANDE Hotel de Natal. A República, 28 de dezembro de 1935.'
+  - 'O GRANDE Hotel de Natal. A República, Natal, 13 de dezembro de 1937.'
+  locale: 'pt-BR'
+  file: 'sdnne01-018.pdf'
+  pages_count: 19
+  pages: null
+
+- id: 'sdnne01-019'
+  title: 'Hotel Tambaú, uma experiência na paisagem'
+  authors:
+  - givenname: Fúlvio Teixeira de Barros
+    familyname: Pereira
+    email: 'pereira.2@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: 'Este estudo trata da relação entre arquitetura e lugar. Enfoca o estudo de caso do Hotel Tambaú, projetado por Sérgio Bernardes e localizado em João Pessoa. Analisa como esse exemplar da arquitetura moderna pessoense se relaciona com as peculiaridades do local, por meio de três eixos de investigação: a inserção na paisagem, a adequação ao ambiente urbano e a relação entre as soluções construtivas e as características locais. Realiza pesquisa teórica, baseada em documentos compreendidos entre 1966 – o início do projeto – e 1971 - a inauguração. Constata a integração a paisagem, a redução de sua monumentalidade e a associação entre usos público e privado.'
+  keywords:
+  - Arquitetura Moderna
+  - Sérgio Bernardes
+  - João Pessoa
+  abstract_en: 'This study treats about relation between architecture and site. It focalizes the case study of the Tambaú Hotel, designed by Sérgio Bernardes and situated in João Pessoa. It analyses how this exemplar of modern architecture of João Pessoa has relationship with locals peculiarities, through three investigations axis: insertion in landscape, adaptation for urban environment and relation between constructives solutions and locals characters. It realizes theoretical investigation, based on documents contained between 1966 – beginning of project – and 1971 – inauguration. It verifies integration with landscape, reduction of monumentality and association between public and private uses.'
+  keywords_en:
+  - Modern Architecture
+  - Sérgio Bernardes
+  - João Pessoa
+  references:
+  - 'ÁGUA. A União. João Pessoa, 10 jan. 1967, p. 3. ARQUITETOS Cariocas em João Pessoa. A União. João Pessoa, 28 jun. 1966, p. 8.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. 3 ed. Traduzido por Ana M. Goldberger. São Paulo: Editora Perspectiva, 1997. Tradução de L’architecture contemporaine au Brésil.'
+  - 'CASTOR, Dimitri; MOUTA, Mychelle. Proposta de Tombamento do Hotel Tambaú. João Pessoa: UFPB, Monografia de Graduação (Disciplina: Estágio Curricular V). Departamento de Arquitetura e Urbanismo, Universidade Federal da Paraíba, 2003. Segundo Leal (1996): em 1981, a parte interna sofre transformações, como a diminuição da sauna, e é instalada a boate; entre 1982 e 1986 é ampliado o número de apartamentos (de 115 para 175) e são construídos quadras de tênis, vôlei e quiosque. CONGRESSO e Hotel. A União. João Pessoa, 8 mar. 1967, p. 3.'
+  - 'FRANCO, Martinho Moreira. Meninos, eu vi! O Norte. João Pessoa, 11 set. 1996. Especial, Hotel Tambaú, p. 5. GUIA Turística. A União. João Pessoa, 11 ago. 1968, p. 5. HOTEL: Novo Ponto de Turismo em Tambaú. A União. João Pessoa, 1 set. 1968, p. 5. LANÇADA ontem primeira etapa da construção do Hotel Tambaú. A União. João Pessoa, 27 ago. 1968, p. 8.'
+  - 'LEAL, Wills. Tropical Hotel Tambaú: vinte e cinco anos. O Norte. João Pessoa, 11 set. 1996. Especial, Hotel Tambaú, p. 1-4.'
+  - 'MACUL, Márcia. Sérgio Bernardes: Arquiteto+humanista+poeta+utopista. AU (Arquitetura & Urbanismo), São Paulo, Pini editora, n. 82, p. 63-69, fev./mar. 1999. O GRANDIOSO círculo de concreto. A União. João Pessoa, 11 set. 1971, p. 1. PROBLEMAS de Tambaú. A União. João Pessoa, 13 set. 1967, p. 3. PROJETO Sérgio Bernardes Aguardado Com Ansiedade. A União. João Pessoa, 29 jun. 1966, p. 8.'
+  - 'SABBAG, Hayfa Y. Os projetos de Sérgio Bernardes. A Construção São Paulo, São Paulo, Editora Pini, n. 1904, p. 20, 6 ago. 1984. SALA Especial Sérgio Bernardes. Acrópole, São Paulo, Editora Gruenwald, n. 301, p. 1-19, dez. 1963. SERÁ sábado próximo inauguração de Copacabana em Tambaú. A União. João Pessoa, 11 out. 1967, p. 8.'
+  - 'TAMBAÚ. A União. João Pessoa, 31 ago. 1968, p. 3.'
+  - 'TÓPICOS. A União. João Pessoa, 16 jul. 1966a, p. 3.'
+  - 'TÓPICOS. Hotel. A União. João Pessoa, 17 maio 1966b, p. 3. VIAGEM (turística) ao Mundo da Paraíba. Correio da Paraíba. João Pessoa, 11 set. 1971. Caderno Especial, p. 1-4.'
+  locale: 'pt-BR'
+  file: 'sdnne01-019.pdf'
+  pages_count: 15
+  pages: null
+
+- id: 'sdnne01-020'
+  title: Instituto de Educação de Pernambuco
+  authors:
+  - givenname: Adriana Freire de
+    familyname: Oliveira
+    email: 'adriana_freire@hotmail.com'
+    affiliation: ''
+    orcid: '0000-0002-5275-9874'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: 'Mesa 2 — Museus, escolas e a construção da cidadania'
+  abstract: ''
+  references:
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.'
+  - 'CAVALCANTI, Lauro. Quando o Brasil era Moderno. Guia de Arquitetura. 1928-1960. Rio de Janeiro: Aeroplano, 2001. Cronica del Brasil. Revista Ingenieria Arquitectura. Panamá, n. 71, 1957.'
+  - 'HILDEBRAND, A. Von. El problema de la forma en la obra de arte. Madrid: Visor, 1988.'
+  - 'HINES, Thomas S.. Richard Neutra and the search for modern architecture. A Biography and History. New York: Oxford University Press, 1982.'
+  - 'LOUREIRO, Cláudia, AMORIM, Luiz. Por uma arquitetura social: a influência de Richard Neutra em prédios escolares no Brasil. São Paulo: Vitruvius, 2002. Disponível em: <http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp>. Acesso em 15 fev. 2005, 18:00.'
+  - 'MINDLIN, Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
+  - 'NEUTRA, Richard. Arquitetura social em paises de clima quente / Architecture of social concern in regions of mild climate. São Paulo: Gerth Todtmann, 1948. PIÑON, Hélio. Curso Básico de proyectos. Barcelona: ediciones UPC, 1997. PIÑON, Hélio. El sentido de la Forma Moderna. Barcelona: ediciones UPC, 1998. PIÑON, Hélio. Miradas Intensivas. Barcelona: ediciones UPC, 1999.'
+  - 'SACCK, Manfred. Richard Neutra. Barcelona: Gustavo Gili S.A., 1993.'
+  locale: 'pt-BR'
+  file: 'sdnne01-020.pdf'
+  pages_count: 24
+  pages: null
+
+- id: 'sdnne01-021'
+  title: Inventário de Arquitetura Moderna
+  subtitle: questões teóricas e metodológicas acerca de uma experiência
+  authors:
+  - givenname: Ademir Pereira dos
+    familyname: Santos
+    email: 'santos@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0003-4863-9375'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Aline Nassaralla
+    familyname: Regino
+    email: 'regino@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0003-1242-8832'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Camilla Pilosio
+    familyname: Botelho
+    email: 'botelho@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-0850-2481'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Clévio Dhevias Nobre
+    familyname: Rabelo
+    email: 'rabelo@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Paulo Mauro Mayer de
+    familyname: Aquino
+    email: 'aquino@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Rosa Matilde
+    familyname: Carlos
+    email: 'carlos@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: 'A arquitetura moderna brasileira, em particular a paulistana, tem sido tema de estudos importantes, feitos no Brasil, assim como por estrangeiros, brasilianistas, situação que se reflete positivamente no considerável volume de publicações recentes. Apresentam-se no trabalho os aspectos teóricos e metodológicos da experiência de inventariação da Arquitetura Moderna paulistana, em processo de elaboração, por um Grupo de Trabalho (GT) organizado em função dos últimos seminários realizados no Estado, no caso o 1o. Seminário Docomomo Cidade de São Paulo (tematizando exclusivamente a capital, promovido pelo Unicentro Belas Artes de São Paulo, 2004) e o 3o Seminário Docomomo Estado de São Paulo (Mackenzie, 2005). O GT reúne membros das duas instituições de ensino, associados do Docomomo e voluntários. Esse instrumento de pesquisa deve ter como meta a documentação e a análise das obras arquitetônicas para que se possa avaliar a extensão e as variações assumidas pelo modernismo paulistano. Pretende-se ampliar a cada ano a abrangência (bairros), em termos geográficos, ao mesmo tempo em que se aprofunda a documentação e o estudo do entorno e a análise das obras já inventariadas. O inventário está sendo organizado a partir do sistema de fichas utilizado pelo Docomomo Internacional e contempla experiências anteriores desenvolvidas pelos demais GTs, como o do Alto Tietê Vale do Paraíba e órgãos públicos. Trata- se de um trabalho acumulativo, multi-institucional e multi-autoral que tem como horizonte o suporte digital para armazenamento e divulgação dos resultados. Apresenta-se o estágio atual do inventário nos bairros Higienópolis, Pacaembu e Vila Mariana, que contempla três linhas de atuação no momento: a) levantamento de imagens e informações textuais em obras especializadas (revistas e publicações); b) aplicação das fichas de catalogação sobre as obras de valor internacional, nacional e municipal; c) levantamento exaustivo de campo, rua por rua, selecionando e catalogando obras significativas para integrar o acervo.'
+  locale: 'pt-BR'
+  file: 'sdnne01-021.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdnne01-022'
+  title: 'Lina, o sublime e o efêmero'
+  subtitle: o Nordeste e a Modernidade pelas lentes do vernáculo
+  authors:
+  - givenname: Maria Angélica da
+    familyname: Silva
+    email: 'mas@pq.cnpq.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Roseline Vanessa Santos
+    familyname: Oliveira
+    email: 'roseline@fau.ufal.br'
+    affiliation: ''
+    orcid: '0000-0002-3875-2262'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 4 — O universo popular na arquitetura moderna
+  abstract: 'A experiência da arquitetura moderna no Brasil possui dois traços marcantes: a participação do olhar estrangeiro e o pacto entre o local e o global. Assim, a produção arquitetônica moderna no Nordeste brasileiro consolida-se pela ação dos profissionais instalados na região, mas também é conformada pelos viajantes que acessam essas terras e requalificam a cultura local através dos crivos da Modernidade. Nesse contexto insere-se Lina Bo Bardi, arquiteta italiana que transforma essa tensão moderno-popular na questão fundamental de sua obra, revelando outros parâmetros para pensar o fazer arquitetônico e as expressões do lugar. Esta comunicação versa sobre a conduta prática e teórica de Lina, especialmente quando sua obra é atravessada pelo impacto do patrimônio nordestino vernáculo – as conversações entre sistemas construtivos, entre temporalidades, resultando no amalgamento de condutas a princípio antitéticas, como a do vigor clássico, da prática transparente moderna versus a volubilidade orgânica das paredes de terra. Pretende-se observar como Lina ajudou a construir um outro olhar sobre a cultura nordestina atravessando barreiras de tempos e espaço, retirando o vernáculo da companhia do banal e da tradição conservadora. Palavras-chaves: arquitetura moderna, cultura vernacular e patrimônio.'
+  keywords:
+  - 'arquitetura moderna, cultura vernacular e patrimônio'
+  references:
+  - 'BARDI, Lina Bo. Contribuição propedêutica ao ensaio da teoria da arquitetura. São Paulo: Instituto Lina Bo Bardi, 2002.'
+  - 'BARDI, Lina Bo. Lina Bo Bardi. São Paulo: Empresa das Artes, 1993.'
+  - 'COSTA, Lúcio. A alma dos nossos lares. In: Jornal A Noite. Rio de Janeiro, 19 de março de 1924. Citado em SILVA, Maria Angélica, As formas e as palavras na obra de Lúcio Costa, (dissertação de mestrado), Rio de Janeiro: Pontifícia Universidade Católica, 1991, p. 25/26.'
+  - 'PEREIRA, Margareth Campos da Silva et al. Le Corbusier e o Brasil. São Paulo: Projeto, 1987: 87/89. REVISTA AU – ARQUITETURA E URBANISMO. Lina Bo Bardi. Ano 08. São Paulo: Editora PINI, 1992. pp. 21-41.'
+  locale: 'pt-BR'
+  file: 'sdnne01-022.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdnne01-023'
+  title: Metodologia para análise do desempenho térmico de edificações residenciais em regiões de clima quente úmido
+  subtitle: exemplos da Arquitetura Moderna de Pernambuco
+  authors:
+  - givenname: Alex Azevedo de
+    familyname: Lucena
+    email: 'lucena@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Paula Maria Wanderley Maciel do Rêgo
+    familyname: Silva
+    email: 'paula.maciel@unicap.br'
+    affiliation: ''
+    orcid: '0000-0002-2345-4043'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Romena
+    familyname: Luna
+    email: 'luna@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 7 — O morar moderno no Norte e Nordeste II
+  abstract: 'A adequação dos conceitos da arquitetura moderna às condições climáticas é uma das características da produção arquitetônica do estado de Pernambuco, onde uma geração de arquitetos que abraçou os princípios do modernismo detinham em seus projetos a preocupação com o conforto térmico sem a dependência da energia convencional. O presente trabalho propõe uma metodologia para análise do desempenho térmico de edificações residenciais, através da identificação de soluções arquitetônicas utilizadas que refletem a preocupação com o clima a partir da verificação de aspectos relativos ao controle da radiação solar e da existência de ventilação cruzada nos ambientes. Em função dos resultados obtidos, é possível identificar quais os aspectos priorizados na solução arquitetônica utilizada, classificar os edifícios no que se refere ao desempenho térmico e estabelecer comparação entre eles. Como estudo de caso, são analisados três edifícios na cidade do Recife: Acaiaca, Vila Cristina e Alameda Casa Forte, projetados respectivamente por Delfim Amorim, Wandenkolk Tinoco e Carlos Fernando, que representam uma cronologia da produção arquitetônica na cidade do Recife. Estudos comparativos analisam o desempenho térmico em diferentes períodos do ano em relação ao controle da radiação solar e da existência de ventilação cruzada, aspectos que influenciam diretamente na existência do conforto térmico no interior dos edifícios em regiões de clima quente-úmido. A metodologia apresentada evidencia a característica da adequação da arquitetura moderna ao clima quente-úmido, sendo inicialmente utilizada em edificações residenciais multifamiliares, contudo, pode ser adaptada para outras tipologias arquitetônicas, além de permitir a inserção de novos parâmetros a serem considerados na análise.'
+  keywords:
+  - Desempenho térmico
+  - Arquitetura Moderna
+  - EXEMPLOS DA ARQUITETURA MODERNA DE PERNAMBUCO
+  keywords_en:
+  - Desempenho térmico
+  - Arquitetura Moderna
+  - Clima / Thermal performance / Modern
+  locale: 'pt-BR'
+  file: 'sdnne01-023.pdf'
+  pages_count: 22
+  pages: null
+
+- id: 'sdnne01-024'
+  title: 'Moderna e regional, corbusiana e artesanal'
+  subtitle: a capela do Menino Jesus em Itapetinga
+  authors:
+  - givenname: Nivaldo Vieira de
+    familyname: Andrade Junior
+    email: 'nivandrade@gmail.com'
+    affiliation: ''
+    orcid: '0000-0001-9543-8432'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 4 — O universo popular na arquitetura moderna
+  abstract: 'Em meados dos anos 1960, é construída em uma fazenda em Itapetinga, no interior da Bahia, uma minúscula capela dedicada ao Menino Jesus. Resultado da improvável associação entre um arquiteto japonês convertido ao judaísmo e recém-chegado à Bahia e um contratante impulsionado por um sonho profético que aceita de maneira incondicional a complexidade do projeto, trata-se de um exemplo único de arquitetura que alia complexidade e rusticidade, o moderno e o vernacular, Le Corbusier e a caatinga. O material utilizado na sua construção – blocos de pedra talhada assentados sem argamassa e sem junta visível – e a forma orgânica, que se assemelha a um rochedo geometrizado, conseguem mimetizar a capela à árida paisagem em que se situa, enquanto as delicadas obras do artista plástico Lênio Braga atenuam a sua macicez. Apesar de ter sido totalmente construída com materiais e técnicas construtivas tradicionais e executada por operários da região, a sua complexa geometria – com paredes inclinadas, volumes planos e curvos sobrepostos e aberturas irregulares – tem suas bases no Modulor, o sistema de proporções elaborado por Le Corbusier a partir de 1948 e baseado na seção áurea, aqui utilizado de forma radial. O projeto, de autoria de Yoshiakira Katsuki em parceria com Alberto Hoisel e Guarani Araripe, recebeu Menção Honrosa na II Bienal de Artes Plásticas – Seção de Arquitetura, em 1968. Este trabalho pretende analisar as particularidades desta obra, no contexto da arquitetura moderna brasileira e internacional, ao mesmo tempo em que alerta para a necessidade de estabelecer mecanismos para a sua preservação, uma vez que, após o falecimento do fazendeiro Juvino Oliveira, promotor da sua construção, o seu entorno vem sendo progressivamente descaracterizado e há riscos reais de que esta singular capela venha a desaparecer em definitivo.'
+  keywords:
+  - Yoshiakira Katsuki
+  - Itapetinga
+  - Modulor Moderna e regional
+  - 'corbusiana e artesanal:'
+  keywords_en:
+  - Yoshiakira Katsuki
+  - Itapetinga
+  - Modulor
+  references:
+  - 'AZEVEDO, Paulo Ormindo de. Crise e Modernização: a arquitetura dos anos 30 em Salvador. In: SEGAWA, Hugo (org.). Arquitetura Brasileira: Anos 80. São Paulo: Projeto, 1986, pp. 14-18.'
+  - 'BARDI, Lina Bo; FERRAZ, Marcelo Carvalho (coord.). Lina Bo Bardi. São Paulo: Instituto Lina Bo e P.M. Bardi, 1996.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.'
+  - 'CAMPOS, Márcio C.. Fora do Centro: a lógica das extensões. Qual tem sido o destino dos “edifícios antigos” fora dos centros históricos brasileiros? O caso de Salvador. São Paulo: Vitruvius, 2003. Disponível em http://www.vitruvius.com.br/arquitextos/arq000/esp187.asp.'
+  - 'DUARTE, Hélio; CARVALHO MANGE, Ernesto Roberto. Associação Baiana de Imprensa. Revista Acrópole, nº 259, mai. 1960, pp. 176-177.'
+  - 'FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.'
+  - 'GARCIA, Cione Fona. A Obra de Yoshiakira Katsuki. 2002. Dissertação (Mestrado em Arquitetura e Urbanismo). Faculdade de Arquitetura, Universidade Federal da Bahia, Salvador.'
+  - 'MACUL, Márcia. A dor da perda. Projeto, nº 89, abr./mai. 2000, pp. 44-46.'
+  - 'MINDLIN. Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: MinC/IPHAN : Aeroplano, 1999.'
+  - 'OLIVEIRA, Juvino; HOISEL, Alberto. Capela do Menino Jesus. Itapetinga, s/d. SANT’ANNA, Márcia. Modernismo e Patrimônio: o Antigo-Moderno e o Novo Antigo. In: CARDOSO, Luiz Antônio Fernandes; OLIVEIRA, Olívia Fernandes de (org.). (Re) Discutindo o Modernismo: universalidade e diversidade do movimento moderno em arquitetura e urbanismo no Brasil. Salvador: Mestrado em Arquitetura e Urbanismo da UFBA, 1997. pp. 119-128.'
+  - 'SANTOS, Paulo F. Quatro Séculos de Arquitetura. Valença: Editora Valença, 1977.'
+  - 'ZEIN, Ruth Verde. A Década Ausente: reconhecimento necessário da arquitetura brasileira do brutalismo paulista. In: Anais do 6º Seminário do_co_mo_mo Brasil. Niterói: PPG-AU/UFF / DOCOMOMO Brasil / CREA/RJ, 2005 (CD-Rom).'
+  locale: 'pt-BR'
+  file: 'sdnne01-024.pdf'
+  pages_count: 21
+  pages: null
+
+- id: 'sdnne01-025'
+  title: 'Museu de Arte Moderna do Recife, 1955'
+  subtitle: análise arquitetônica e construção virtual de um projeto não executado
+  authors:
+  - givenname: Alcília Afonso de Albuquerque e
+    familyname: Melo
+    email: 'kakiafonso@hotmail.com'
+    affiliation: ''
+    orcid: '0000-0002-6344-9329'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Eunice García
+    familyname: García
+    email: null
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: 'Mesa 2 — Museus, escolas e a construção da cidadania'
+  abstract: 'Através de investigação realizada em jornais recifenses editados nos anos 50 a respeito da arquitetura produzida neste período, foram encontradas informações referentes ao projeto para o Museu de Arte Moderna de Recife, de autoria de Acácio Gil Borsoi, a ser construído às margens do rio Capibaribe, diante do Grande Hotel, no bairro de Santo Antônio. O material publicado constava de uma sucinta explicação da proposta, esquemas de plantas, fachada e perspectiva.Despertou interesse devido aos critérios adotados para solucionar a planta, estrutura, fechamentos de esquadrias e a proposta volumétrica como um todo. O projeto não foi executado devido a uma série de fatores, mas foi analisado e construído virtualmente em pesquisa realizada sobre a consolidação da arquitetura moderna recifense nos anos 50 para a linha “La Forma Moderna” do curso de doutorado em projetos arquitetônicos da ETSAB/ UPC, Barcelona. A analise arquitetônica realizada observa elementos formais e funcionais da obra, através do “redesenho” do projeto, visando uma melhor compreensão do processo projetual, analisando as soluções empregadas para implantar a edificação, a trama ordenadora estrutural e espacial, esquadrias, volumetria, acabamentos e texturas.O método de análise é o que vem sendo aplicados pelo programa de doutorado citado, sob a orientação dos professores Hélio Piñon e Teresa Rovira.A construção virtual do projeto surgiu como uma necessidade e curiosidade em visualizar o objeto arquitetônico, uma vez que o mesmo não foi construído.Utilizando ferramentas de programas gráficos foram realizadas maquetes eletrônicas internas e externas do edifício, com o objetivo de se observar as relações de transparências entre espaço interior e interior/ exterior, bem como os resultados plásticos volumétricos.Para a reconstituição do objeto arquitetônico foram fundamentais os dados pesquisados anteriormente sobre as soluções construtivas e de materiais empregados pelo arquiteto durante a década de 50 em outras obras. Dessa forma, pretende-se divulgar os resultados desta pesquisa realizada e a sua contribuição para o processo de consolidação de arquitetura moderna recifense. Palavras chaves: arquitetura, modernidade, Recife.'
+  keywords:
+  - arquitetura
+  - modernidade
+  - Recife
+  locale: 'pt-BR'
+  file: 'sdnne01-025.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdnne01-026'
+  title: Neudson Braga e a construção de uma Arquitetura Moderna no Ceará
+  authors:
+  - givenname: Maria Cecília Filgueiras Lima
+    familyname: Gabriele
+    email: 'gabriele@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 1 — O papel das individualidades
+  abstract: 'José Neudson Bandeira Braga, nascido em 1935 no Ceará, formou-se no Rio de Janeiro, na Faculdade Nacional de Arquitetura da antiga Universidade do Brasil em 1959. Sua atuação profissional se desenvolveu em vários setores, do didático ao projetual. Foi um dos fundadores, e posteriormente diretor, da Escola de Arquitetura da Universidade Federal do Ceará, hoje Curso de Arquitetura e Urbanismo (CAU-UFC). Por meio de sua participação, a Escola foi criada segundo o que havia de mais moderno em concepção de ensino de arquitetura. Representou o Ceará junto a entidades profissionais e educacionais. Participou como coordenador do grupo 1 de reabertura do ICA-FAU 2 da Universidade de Brasília, como o nome de consenso indicado pelo IAB. Realizou mais de seiscentas residências unifamiliares espalhadas pelo Brasil, além de numerosos projetos na área de saúde e educação. Foi premiado em vários concursos públicos. Em sua obra demonstra a influência de Lúcio Costa quanto à importância da miscigenação entre a contribuição do Movimento Moderno e os ensinamentos da cultura arquitetônica nacional. Iniciou uma carreira em que, utilizando uma linguagem local, disseminou a modernidade nos seus projetos incorporando temas e peculiaridades recorrentes da arquitetura cearense. Introduziu mudanças nos programas, propondo um rebatimento dos ambientes para o exterior. Através das varandas integrou as salas com pátios abertos, numa valorização das áreas livres. “Limpou” as fachadas dos edifícios, propôs o alargamento das calçadas, e utilizou pilotis e plantas mais livres. Fez uso das galerias propiciando um acesso mais fluido. Este trabalho descreve algumas de suas obras mais representativas desta contribuição inovadora à arquitetura cearense e brasileira, realizadas entre 1960 a 1974, bem como comenta sobre a sua repercussão na sociedade da época. Procura assim demonstrar que a racionalidade e inteligência de sua obra independem da grandeza ou importância dos projetos.'
+  keywords:
+  - '–   Arquitetura moderna – Fortaleza-Ce –   Arquitetura Neudson Braga'
+  references:
+  - 'BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Editora Perspectiva, 1989.'
+  - 'BONDUKI, Nabil org. Affonso Eduardo Reidy. Lisboa: Editorial Blau, Instituto Lina Bo e P.M. Bardi, 2000.'
+  - 'BRITTO, Alfredo. O espírito carioca na arquitetura. Revista Arquitetura e Urbanismo Nº 52- Fev/Mar, 1992.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981. p. 119.'
+  - 'CAMPELO, Magda. Dissertação de Mestrado - Leitura e análise das interferências físicas na arquitetura dos edifícios para a educação superior: o caso da UFC. FAUUSP/UFC, São Paulo, 2005.'
+  - 'KAMITA, João Massao. O rigor do método. Revista Arquitetura e Urbanismo Nº 47 – Abr/Maio, 1993.'
+  - 'SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições doa arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann, Dissertação de Mestrado FAUUSP, São Paulo, 2005.'
+  - 'VASCONCELOS, Tânia. A arte pública de Fortaleza. Fortaleza: Criativemídia, 2003.'
+  locale: 'pt-BR'
+  file: 'sdnne01-026.pdf'
+  pages_count: 20
+  pages: null
+
+- id: 'sdnne01-027'
+  title: O Brasil moderno e a sua influência na Arquitectura Portuguesa
+  subtitle: a abordagem da Tradição em Brazil Builds e o seu reflexo no inquérito à Arquitectura Popular em Portugal
+  authors:
+  - givenname: Ana Cristina Fernandes Vaz
+    familyname: Milheiro
+    email: 'avmilheiro@gmail.com'
+    affiliation: ''
+    orcid: '0000-0001-7213-0478'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 6 — A difusão da arquitetura moderna
+  abstract: ''
+  locale: 'pt-BR'
+  file: 'sdnne01-027.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdnne01-028'
+  title: Os prenúncios do Paisagismo Moderno
+  subtitle: o parque do Derby no "Novo Recife" de 1925
+  authors:
+  - givenname: Aline de Figueirôa
+    familyname: Silva
+    email: 'silva@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0003-2445-9169'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Juliana Cardoso
+    familyname: Nery
+    email: 'jcnery19@yahoo.com.br'
+    affiliation: ''
+    orcid: '0000-0002-8476-5339'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Mesa 5 — A construção das cidades e da paisagem moderna
+  abstract: 'O Parque do Derby, hoje Praça do Derby, implantado em 1925 como iniciativa do governador Sergio Lorêto na gestão do prefeito Antonio de Góis, lançou as bases do paisagismo moderno no Recife, antecedendo a atuação do paisagista Burle Marx (1935-1937). Um projeto de paisagem urbana que contemplava preocupações estéticas e ecológicas, no sentido de embelezamento e higienização, incluía o desenho de um loteamento, a definição de um padrão residencial configurado por palacetes, o projeto do Canal Derby- Tacaruna e a criação de um parque recreativo. A concepção do parque segundo os moldes europeus continha elementos do romantismo inglês como coreto, pérgula, lago e alamedas, e o traçado do barroco francês, com imponentes eixos de circulação que garantiam modernidade e permanência na sua função de refúgio e reclusão para uma futura vida urbana intensa. Nesse sentido, grandes eixos arborizados formavam as ruas que articulavam os maciços vegetais com as futuras residências e edifícios institucionais do entorno, com o canal e com o rio Capibaribe. Tal magnitude, de certo modo, consolidava a idéia de complexo recreativo proposta por Delmiro Gouveia em 1898. O projeto do parque conjugava o ‘verde sanitário’ e o ‘verde decorativo’ do pensamento moderno de Camillo Sitte, que foi perpetuado no traçado sanitário do engenheiro Saturnino de Brito para o Recife entre 1909 e 1915. Trata-se de um projeto de paisagem e de espaço público articulado que exerceu influências no pensamento dos projetistas posteriores, incluindo Burle Marx, conjugando valores locais e universais e lançando as bases para a constituição de um paisagismo moderno na cidade do Recife. Este notável projeto foi conservado até hoje como um dos lugares de referência da cidade.'
+  keywords:
+  - paisagismo moderno
+  - concepção estética
+  - função recreativa
+  abstract_en: 'The Derby Park, now called Derby Square, was built in 1925, as a creation of Pernambuco State Government. It represented one of the first modern landscape design in Recife before Burle Marx gardens in 1935-37. It was considered a relevant urban aesthetical and ecological landscape proposal including a high income residential area, a canal project and a recreation park. It means a complex urban proposal of a quarter with a park as the structural element. The park design was concept according the European pattern had English romantic elements as pavilion, pergola, pool, alamedas and the French baroque design with axes which keeping modernity and permanence in its reclusive setting to guarantee a healthy urban life. In this way, long green axes delineated streets articulating green vegetation with big residences and institutional buildings of the surroundings, the canal and the Capibaribe river. This urban complex associated the ‘sanitary green’ and the ‘decorative green’ of Camillo Sitte modern thought which was kept by Saturnino de Brito engineer between 1909 and 1915 in the Recife Sanitary Plan. This project has influenced the creation of designers along the time including Burle Marx joining local and universal values and forming the subject of the modern landscape in Recife. It design is conserved as one of the references landscape of the city.'
+  keywords_en:
+  - modern landscape design
+  - aesthetic concept
+  - 'recreation function. Os prenúncios do paisagismo moderno: O Parque do Derby no "Novo Recife" de'
+  references:
+  - 'ARRUDA, Juliana Bandeira de. Os canais na paisagem do Recife: Por um sistema azul. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2005.'
+  - 'BARROS, Souza. A Década de 20 em Pernambuco: uma interpretação. 2. ed. Recife: Fundação de Cultura da Cidade do Recife, 1985.'
+  - 'CORREIA, Telma de B. Pedra: plano e cotidiano operário no sertão. Campinas: Papirus, 1998.'
+  - 'LAURIE, Michael. Introducción a la arquitectura del paisaje. Barcelona: Gustavo Gilli, 1983.'
+  - 'LUBAMBO, Cátia Wanderley. Bairro do Recife: Entre o Corpo Santo e o Marco Zero. Recife: Cepe: Fundação de Cultura da Cidade do Recife, 1991.'
+  - 'MARCONDES, Maria José. Patrimônio e lugar: apontamentos para o pensamento urbanístico Projeto de Pesquisa apresentado ao CNPQ, 2005.'
+  - 'MARQUES, Sonia; VAINSENCHER, Kátia. O Bairro do Derby: Influências Européias no Morar Bem das Elites. [Texto apresentado no 4º Seminário de História Cidade e do Urbanismo, em 1996].'
+  - 'MOREIRA, Fernando Diniz. A aventura do Urbanismo Moderno na cidade do Recife – 1900 a 1965. In: LEME, Maria Cristina da Silva (Org.). Urbanismo no Brasil. São Paulo: Studio Nobel: FAUUSP: FUPAM, 1999. ______. A Construção de uma cidade moderna: Recife (1909-1926). Dissertação (Mestrado em Desenvolvimento Urbano) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 1994. REVISTA de Pernambuco. Anno I, Num I, Julho de 1924. ______. Anno I, Num II, Agosto de 1924. ______. Anno I, Num IV, Outubro de 1924. ______. Anno I, Num V, Novembro de 1924. ______. Anno I, Num VI, Dezembro de 1924. ______. Anno II, Num XIII, Julho de 1925. ______. Anno II, Num XIV, Agosto de 1925.'
+  - 'RIBEIRO, Ana Rita Sá Carneiro. The relationship between Park Design, Functions and Uses: A case study in Recife, Brazil. Tese (Doutorado em Parques Urbanos) – Oxford Brookes University, Oxford, 1996.'
+  - 'SERPA, Angelo. Paisagem em Movimento: O Parque André-Citroën em Paris. Paisagem e ambiente: ensaios, São Paulo, n. 19, p. 137-161, 2004.'
+  - 'TERRA, Carlos G. O jardim no Brasil no século XIX: Glaziou revisitado. Rio de Janeiro: EBA:'
+  locale: 'pt-BR'
+  file: 'sdnne01-028.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdnne01-029'
+  title: 'Pilar, um oásis na caatinga baiana'
+  authors:
+  - givenname: Ana Gabriela Wanderley
+    familyname: Soriano
+    email: 'soriano@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-9655-9922'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 5 — A construção das cidades e da paisagem moderna
+  abstract: ''
+  keywords:
+  - urbanismo modernista
+  - Pilar
+  - cidades mineradoras
+  references:
+  - 'FARIAS, Rosa Sulaine Silva. Entre o projetar e o realizar: os (des)caminhos de uma trajetória incompleta: o projeto da Vila de Nova Barcarena – PA. Disponível em'
+  - 'http://www.arq.ufmg.br/arquiteturaeconceito/pdf/ufmg45.pdf'
+  - 'FILHO, Rubens da Silva. A riqueza do sertão da Bahia. Disponível em'
+  - 'http://www.minerios.com.br/277/minerios_cobre2.htm'
+  - 'Visita realizada pela autora ao local em Agosto/2004, juntamente com turma da Disciplina de Ateliê V, coordenado pela Prof. Ana Fernandes.'
+  locale: 'pt-BR'
+  file: 'sdnne01-029.pdf'
+  pages_count: 15
+  pages: null
+
+- id: 'sdnne01-030'
+  title: Planos de Urbanismo para as estâncias hidrominerais de Cipó e Itaparica no cenário urbanístico da Bahia dos anos 30
+  authors:
+  - givenname: Edson Fernandes de Oliveisa Santos
+    familyname: Neto
+    email: 'neto@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 5 — A construção das cidades e da paisagem moderna
+  abstract: 'A “Semana de Urbanismo” realizada em Salvador, no ano de 1935, marca um período de transição no modo de pensar a cidade, entre a tradição do sanitarismo e dos “planos de melhorias” e o ideário do urbanismo moderno, com uma compreensão mais abrangente do urbano. Neste mesmo período, o Governo do Bahia faz planos urbanísticos isolados para algumas cidades do interior e cria o Departamento Central das Municipalidades com o objetivo de dar assistência técnica e financeira aos municípios. Aliado a estes fatos está o desejo do Governo do Estado de dotar a Bahia de estâncias hidrominerais à altura das congêneres de São Paulo e do sul de Minas Gerais e é nesse contexto que são realizados os planos de urbanismo para as recém criadas estâncias hidrominerais de Cipó e Itaparica. Em 1935 é elaborado o “Plano de Expansão e Melhoramentos da Estância Hidromineral de Cipó” com a intenção de transformar a cidade numa “verdadeira cidade-jardim”, pelo Engenheiro Civil Oscar Caetano da Silva, designado prefeito da cidade, por fazer parte do quadro técnico da Secretaria de Obras Públicas do Estado. A cidade de Cipó, localizada no Sertão da Bahia, era até então uma pequena vila, conhecida desde o século XVIII pelo poder curativo das suas águas termais. Em 1937 o Engenheiro Civil Paulo Peltier de Queiroz elabora o “Plano de Urbanismo da Cidade de Itaparica”, no qual propõe a construção de uma nova cidade balneária no lugar da histórica e “heróica” cidade de Itaparica, dentro dos “sãos princípios do urbanismo moderno”. Este trabalho tem por objetivo apresentar estas duas experiências dentro do contexto em que foram pensadas e postas em prática, discutindo as influências do pensamento urbanístico vigente na época sobre as mesmas.'
+  keywords:
+  - 'key-words: cidades balneárias'
+  - new towns
+  - cidades novas
+  abstract_en: 'The “Urbanism Week” carried through in Salvador, in 1935, it marks a period of transition in the way to think the city, between the tradition of the “sanitarismo” and "plans of improvements" and the principles of modern urbanism. In this exactly period, the Government of Bahia State makes isolated urban plans for some small cities of the hinterland and creates the Central Department of the Municipalities with the objective to give technique and financier assistance to the cities. Ally to these facts is the desire of the Government of the Bahia State to endow itself with small water towns like the similars cities of São Paulo State and the south of Minas Gerais State. Is in this context that is carried through the plans of urbanism for just created small water towns of Cipó and Itaparica. This work has for objective to present these two experiences in the context where they had been thought and practiced. Palavras-chave / key-words: cidades balneárias; new towns; cidades novas. 1 Planos de Urbanismo para as Estâncias Hidrominerais de Cipó e Itaparica no Cenário Urbanístico da Bahia dos Anos 30.'
+  references:
+  - 'BRITTO, Antônio Carlos Nogueira. A Medicina Baiana nas Brumas do Passado: Séculos XIX e XX – aspectos inéditos. Salvador: Contexto e Arte Editorial, 2002.'
+  - 'COMMISSÃO DO PLANO DA CIDADE DO SALVADOR. “Semana de Urbanismo” 20 a 27 de outubro de 1935. Conferências. Salvador: Cia. Editora e Graphica da Bahia, 1935.'
+  - 'CHOAY, Françoise. O Urbanismo. São Paulo: Perspectiva, 1997.'
+  - 'FRANCO, Amanda Cristina. Entre o Racional e o Pitoresco: o Plano Diretor de Luís Saia para Águas de Lindóia. In: Anais do 5º Seminário Docomomo Brasil. São Carlos: SAP/EESC/USP, 2003. CD-Rom. ______. A Influência de Concepções Urbanísticas Estrangeiras nos Planos para as Estâncias Hidrominerais Paulistas entre 1920-1950: os casos de Águas da Prata, Águas de Lindóia e Águas de São Pedro. In: Anais do VII Seminário de História da Cidade e do Urbanismo. Salvador: PPGAU, 2002. CD-Rom.'
+  - 'MAGALHÃES, Juracy M. Mensagens 1936-37. Salvador: Governo do Estado da Bahia, 1937.'
+  - 'HOWARD, Ebenezer. Cidades-Jardim de Amanhã. São Paulo: Hucitec, 2002. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE. Enciclopédia dos Municípios Brasileiros. Rio de Janeiro: 1958, vol. XX, pp. 165-170.'
+  - 'LEME, Maria Cristina da Silva. Urbanismo no Brasil - 1895 - 1965. São Paulo: Studio Nobel; FAUSP; FUPAM, 1999.'
+  - 'PINHEIRO, Eloísa Petti. Europa, França e Bahia: Difusão e adaptação de modelos urbanos. Salvador: EDUFBA, 2002. PREFEITURA MUNICIPAL DE CIPÓ/GOVERNO DO ESTADO DA BAHIA. Estância Hidro-mineral do Cipó. Bahia: Livraria Duas Américas, 1942.'
+  - 'QUEIROZ, Paulo Peltier de. Plano de Urbanismo da Cidade de Itaparica. Bahia: Imprensa Regina, 1939.'
+  - 'SAMPAIO, Antônio H. L. Formas Urbanas: Cidade real & cidade ideal; contribuição ao estudo urbanístico de Salvador. Salvador: Quarteto Editora; PPG/AU – Faculdade de Arquitetura da UFBa,1999.'
+  - 'TREVISAN, Ricardo; SILVA, Ricardo S. da. Morfologia Urbanística de uma Cidade Balneária: um passeio analítico em Águas de São Pedro, SP. In: Anais do X Encontro Nacional da ANPUR. Belo Horizonte, 2003. CD-Rom.'
+  locale: 'pt-BR'
+  file: 'sdnne01-030.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdnne01-031'
+  title: Recepção e difusão da Arquitetura Moderna no Brasil
+  subtitle: 'Norte Nordeste nas revistas francesas, inglesas e italianas entre 1940 e 1960'
+  authors:
+  - givenname: Maria Beatriz Camargo
+    familyname: Cappello
+    email: 'mbcappello@uol.com.br'
+    affiliation: ''
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 6 — A difusão da arquitetura moderna
+  abstract: 'A partir de uma pesquisa elaborada sobre a arquitetura moderna no Brasil vista a partir de artigos publicados em revistas de arquitetura européias entre as décadas de 1940 e 1960, foi possível detectar no processo de recepção e difusão desta arquitetura a falta de uma produção que ocorre fora do eixo Rio - São Paulo. Na pesquisa realizada em índices gerais e específicos de arte e arquitetura e em levantamentos bibliográficos sobre arquitetura moderna no Brasil em periódicos europeus da década de 1920 a 1960, encontramos mais de 600 entradas sobre o assunto, sendo a maior parte em periódicos franceses, seguidos pelos ingleses e italianos. Essas entradas são na maioria artigos críticos sobre a arquitetura moderna no Brasil ou sobre a obra de um arquiteto especifico. A produção arquitetônica do Norte-nordeste aparece em apenas 15 artigos. Ao apresentarmos estes artigos destacaremos a trama que envolve a arquitetura moderna no Brasil e sua recepção e difusão nas revistas em estudo. Como se sabe, o primeiro exemplo a ser publicado apresentando uma produção desta região foi a Caixa d’água de Olinda, no número especial sobre o Brasil da Architectural Review de março de 1944. O arquiteto mais publicado neste período, com projetos nestas será o carioca Paulo Antunes Ribeiro, com o Edifício Caramuru, em Salvador, o Hotel Amazonas em Manaus, o Hotel Bahia, em Salvador e o Banco Bahia também em Salvador. Pretende-se com a análise destes artigos levantar uma discussão sobre como se dá a recepção e difusão da arquitetura moderna do Norte-Nordeste do Brasil nas revistas européias pesquisadas e a relação que se estabelece com a cultura arquitetônica universal. Busca-se assim mostrar a partir da análise desses artigos, como a arquitetura moderna brasileira desenvolvida fora do eixo Rio - São Paulo participa dos debates nas revistas de arquitetura e na cultura arquitetônica moderna.'
+  locale: 'pt-BR'
+  file: 'sdnne01-031.pdf'
+  pages_count: 2
+  pages: null
+
+- id: 'sdnne01-032'
+  title: 'Residências em Fortaleza, 1950–1979'
+  subtitle: 'contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann'
+  authors:
+  - givenname: Paulo Costa
+    familyname: Sampaio Neto
+    email: 'paulocosta@daud.ufc.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Mesa 7 — O morar moderno no Norte e Nordeste II
+  abstract: 'Este trabalho analisa a produção de um tipo específico de edificação – a residência unifamiliar – na cidade de Fortaleza, durante o terceiro quartel do século XX, centrada na obra de três arquitetos: José Liberal de Castro, José Neudson Bandeira Braga e Gerhard Ernst Bormann. Os autores enfocados fazem parte da primeira leva de arquitetos estabelecidos na cidade; recém-egressos da Faculdade Nacional de Arquitetura da Universidade do Brasil, no Rio de Janeiro, chegam à Fortaleza entre meados da década de 50 e início dos anos 60, tendo destacadas atuações profissionais e decisivas participações na criação da Escola de Arquitetura da Universidade Federal do Ceará (1964). Tomando, por mote, a temática da residência, apontada reiteradas vezes como local de experimentação por excelência para arquitetos, a pesquisa documenta e analisa a introdução da arquitetura moderna neste meio, tendo por objetivo uma aferição dos vínculos entre tal produção e os modelos hegemônicos da época (sobretudo, nacionais), o seu posicionamento frente à tradição construtiva local e demais condicionantes contextuais, bem como as novas formulações, originadas exatamente do descompasso entre os fatores supracitados, além das intenções dos respectivos autores para com as suas obras. O trabalho desenvolvido busca, assim, contribuir para a crescente ampliação do conhecimento acerca da modernidade brasileira.'
+  keywords:
+  - Arquitetura residencial
+  - arquitetura moderna
+  - Fortaleza
+  abstract_en: 'This work analyses the production of a specific type of building - the single family residence - in the city of Fortaleza, from 1950 to 1979, focusing on the work of three architects, who were part of the very first group of professional architects established in the city: José Liberal de Castro, José Neudson Bandeira Braga and Gerhard Ernst Bormann. Newly graduated at the Faculdade Nacional de Arquitetura, Universidade do Brasil, in Rio de Janeiro, these architects arrived in Fortaleza between 1950 and 1965 and played a decisive role in the creation of the Escola de Arquitetura of Universidade Federal do Ceará (1964); they also had a distinguished professional performance. Taking the single family residence (which has historically been an experimental place for the the architects) as the main research theme, the essay analyses the introduction of modern architecture in Fortaleza, especially the connections between the architecture of Ceará and the national hegemonic trends of the time, its position in relation to the local constructive traditions, as well as the innovations resulting from the gaps among these previous factors and the intentions of the architects concerning their own work. In this way, this work aims to contribute to broaden the knowledge about brazilian modernity. Palavras-chave: Arquitetura residencial, arquitetura moderna, Fortaleza.'
+  keywords_en:
+  - Residential architecture
+  - modern architecture
+  - Fortaleza
+  references:
+  - 'ADRIÀ, Miquel. La casa latinoamericana moderna: 20 paradigmas de mediados del siglo XX. In:'
+  - 'COMAS, Carlos Eduardo; ADRIÀ, Miquel. La casa latinoamericana moderna: 20 paradigmas de mediados de siglo XX. México: Gustavo Gili, 2003. p.28-34.'
+  - 'ANDRADE, Margarida J. F. de S.; DIÓGENES, Beatriz; DUARTE JR., Romeu. Liberal de Castro: o modernismo em Fortaleza. AU (Arquitetura & Urbanismo), São Paulo, n.65, p.73-82, abr/maio 1996.'
+  - 'CASTRO, José Liberal de. Discurso de posse. Revista do Instituto do Ceará, Fortaleza, v.105, p.217-236, 1991.'
+  - 'DIÓGENES, Beatriz Helena Nogueira. Arquitetura e estrutura: o uso do concreto armado em Fortaleza. 2001. 166 f. Dissertação (Mestrado em Engenharia Civil) – Centro de Tecnologia, Universidade Federal do Ceará, Fortaleza, 2001.'
+  - 'HOLSTON, James. A cidade modernista: uma crítica de Brasília e sua utopia. Tradução Marcelo Coelho. São Paulo: Companhia das Letras, 1993. 368 p.'
+  - 'MAHFUZ, Edson da Cunha. Ensaio sobre a razão compositiva; uma investigação sobre a natureza das relações entre as partes e o todo na composição arquitetônica. Viçosa: UFV, Impr. Univ.; Belo Horizonte: AP Cultural, 1995. 176 p. PANORAMA da arquitetura cearense. São Paulo: Projeto, 1982. 99 p. (Cadernos Brasileiros de Arquitetura, 10).'
+  - 'SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuição dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. 2005. 274 f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2005.'
+  - 'SANVITTO, Maria Luiza Adams. Brutalismo paulista: uma análise compositiva de residências paulistanas entre 1957 e 1972.1994. 271 f. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 1994.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2a ed. São Paulo: Edusp, 2002. 224 p. (Acadêmica, 21).'
+  - 'TEDESCHI, Enrico. Teoria de la arquitectura. Buenos Aires: Nueva Visión, 1962. 196 p.'
+  - 'TELLES, Sophia Silva. A casa no atlântico. AU (Arquitetura & Urbanismo), São Paulo, n.60, p.137- 149, jun/jul. 1995.'
+  locale: 'pt-BR'
+  file: 'sdnne01-032.pdf'
+  pages_count: 21
+  pages: null
+
+- id: 'sdnne01-033'
+  title: 'Rio, Pernambuco, Rio Grande e Minas'
+  subtitle: contextualismo e heteromorfismo no espaço público moderno brasileiro
+  authors:
+  - givenname: Carlos Eduardo Dias
+    familyname: Comas
+    email: 'ccomas@uol.com.br'
+    affiliation: ''
+    orcid: '0000-0002-7368-7603'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: ''
+  keywords:
+  - 'Arquitetura moderna brasileira- Espaço público- Ecletismo'
+  abstract_en: 'RIO, PERNAMBUCO, RIO GRANDE E MINAS: contextualism and heteromorphism in the Brazilian Modern public open space Ministry of Education and Public Health, Brazilian Press Association, University City of Brazil (1936) and Guinle Park apartments(1944-53) in Rio de Janeiro, Water Reservoir of Olinda (1937), Museum of the Jesuit Missions (1937-41) and Ouro Preto Grand Hotel(1939) are exemplary projects of the heroic years of Brazilian Modern Architecture. Relationship with the prestigious building or buildings of the past without reccurring to pastiche is a common concern, whether when fitting into a protected architectural setting, as the Reservoir in Pernambuco or the Hotel in Minas, whether when the monument of the past is the exception in a contemporary setting, as the baroque Santa Luzia and the eclectic Library in Rio''s Esplanada do Castelo. Relationship is not just a question of formal contrast, as observed in Le Corbusier''s Plan Voisin, where the preserved monument are the faceted but opaque jewels amongst the glassy office towers that resemble colossal stalactites. Research is wider and includes contrast and similarity in different degrees and proportions, definitely belying the claim that Modern Architecture is anti-contextual, obssessed with the tabula rasa and disinterested in the configuration of public space. Nor does this research end with the heroic years. In the Serra da Piedade complex, by Alcides Rocha Miranda (1956), relationship deals with the rural monument and the spectacular landscape, articulating the old hermitage with the new restaurant and a bigger church. Comparative analysis of thementioned projects in terms of the formal strategies adopted in each context is followed by a discussion of the heteromorphism that they promote in the modern public space. Based on the Carta Italiana del Restauro (1932), this heteromorphism replays in a peculiar way the eclecticism of taste defined by Henry-Russel Hitchcock in Modern Architecture: romanticism and reintegration (1929), challenging the idea of an irrevocable opposition between eclecticism and modernism.'
+  keywords_en:
+  - 'Modern Brazilian architecture- Public space- Eclecticism'
+  locale: 'pt-BR'
+  file: 'sdnne01-033.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdnne01-034'
+  title: A Arquitetura modernista em Teresina (PI) e os projetos do arquiteto mineiro Antonio Luiz
+  authors:
+  - givenname: Joene Saibrosa da
+    familyname: Silva
+    email: 'silva.3@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2944-2211'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'Teresina, por ser uma capital nova e principalmente por motivos políticos e econômicos, apresentou um relativo atraso, com relação aos demais estados brasileiros, na aplicação da Arquitetura Modernista em suas construções. A produção intensificou-se somente a partir da década de 1960 com a chegada de arquitetos formados no Rio de Janeiro. Mesmo sendo uma arquitetura recente, sofre por um processo de descaracterização, seja pela falta de reconhecimento de valor ou por interesses imobiliários, que ditam as regras do mercado. Neste contexto, este trabalho apresenta-se como uma contribuição no registro do acervo existente, enfocando os projetos do arquiteto mineiro Antonio Luiz, como forma de valorizar e reconhecer a importância do trabalho do profissional na construção do patrimônio edificado. Inicialmente, fez-se um breve estudo histórico do cenário teresinense à época do surgimento do Movimento Modernista no Brasil, relatando os acontecimentos que antecederam e serviram de berço ao modernismo local. Em seguida, após um panorama dos projetos realizados por outros arquitetos, é apresentada a trajetória pessoal e profissional do arquiteto Antonio Luiz, cuja produção é a maior e mais diversificada, dentre os demais, sendo exemplificada através das obras que servem de referência à população.'
+  keywords:
+  - Arquitetura Modernista
+  - Teresina
+  - arquiteto Antonio Luiz
+  abstract_en: 'Teresina, as a young capital city and by political and economical reasons, presented a late application of Modern Architecture in its buildings in comparison with other brazilian states. The production was intensified only after the 1960’s, with the arrival of architects from Rio de Janeiro. Despite been a recent archtecture, it’s subjected to alterations of its characteristics due to the lack of acknowledgement of its value and to market rules dictated by business interest. In this context, this paper is presented as a contribution in recording the existing collection of buildings, focusing on Antonio Luiz’s projects, an architect from Minas Gerais, aiming the recognition of importance and the value of his works on the built patrimony. First, a brief historic study of Teresina''s scene at the beginning of the Modernist Movement in Brazil was made, describing the prior events that originated the local modernism. Then, a collection of projects made by other architects is showed. Finally, it''s presented the personal and profissional trajectory of the architect Antonio Luiz, whose production is the largest and most diversified, illustrated by buildings that are references to local people.'
+  keywords_en:
+  - Architecture Modernista
+  - Teresina
+  - Antonio architect Luiz. A ARQUITETURA MODERNISTA EM TERESINA (PI)
+  references:
+  - 'ACAYABA, Marlene, FICHER, Sylvia. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982.'
+  - 'BENÉVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Ed. Perspectiva, 2001.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Ed. Perspectiva, 1999.'
+  - 'CASTELO BRANCO, Moysés Filho. História do Comércio de Teresina. Teresina: Academia Piauiense de Letras, 1982.'
+  - 'GONÇALVES, Wilson Carvalho. Roteiro Cronológico da história do Piauí. Teresina: Academia Piauiense de Letras, 1996.'
+  - 'GUTIÉRREZ, Ramón. Arquitetura Latino-Americana - Textos para reflexão e polêmica.São Paulo: Nobel, 1989.'
+  - 'HOLSTON, James. Cidade Modernista - uma crítica de Brasília e sua utopia. São Paulo: Companhia das letras, 1993.'
+  - 'JANSON, H. W. História Geral da Arte - o mundo moderno. São Paulo: Martins Fontes, 2001.'
+  - 'KALLAS, Luana Miranda Esper. Paisagem e Memória – A praça Marechal Deodoro da Fonseca. In: Cidade, História e Memória - Teresina, 150 anos. Teresina: EDUFPI, 2004.'
+  - 'MELO, Alcília Afonso de Albuquerque. Arquitetura em Teresina: 150 anos - da origem à contemporaneidade. Teresina: Halley, 2002.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: Edusp, 1999.'
+  - 'TAVARES, Zózimo. 100 fatos do Piauí no século XX. 3a. ed. Teresina: Halley, 2001.'
+  - 'TIETZ, Jürgen. História da Arquitetura do Século XX. Portugal: Konermann, 2000.'
+  locale: 'pt-BR'
+  file: 'sdnne01-034.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdnne01-035'
+  title: A preservação da paisagem e a busca da cidade ideal
+  authors:
+  - givenname: Paulo José Lisboa
+    familyname: Nobre
+    email: 'paulonobre@ufrnet.br'
+    affiliation: ''
+    orcid: '0000-0003-4089-9252'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'Estudos recentes acerca da paisagem investigam as atividades impactantes que contribuem para a sua modificação e buscam melhor compreender a sociedade através das marcas do cotidiano nela impressas. Entende-se que paisagens singulares se constituem em patrimônios culturais das cidades, na medida em que fazem parte do cotidiano dos cidadãos e estão presentes nas representações sociais. Alguns autores contemporâneos defendem a preservação da paisagem natural e urbana buscando, acima de tudo, sua importância para os habitantes do lugar. Natal é uma cidade com qualidades ambientais marcantes e se destaca pela beleza do sítio onde está assentada. Encravada num encontro de rio e mar, a cidade se desenvolveu tomando a forma determinada pelo suporte físico. O Rio Potengi, o Oceano Atlântico e o vasto ecossistema dunar existente representaram limites à expansão urbana, ao mesmo tempo em que possibilitaram a configuração de uma paisagem marcada pela dialética entre os elementos naturais e os construtos humanos. Os elementos naturais, hoje inseridos na malha urbana, representam fortes referências visuais, fornecem identidade ao tecido urbano, fazem parte do imaginário coletivo e se destacam no contexto social da cidade. Esta questão remete ao enfoque da paisagem como patrimônio coletivo, alertando que alguns atributos estéticos e paisagísticos, carregados de significados, devem ser preservados como um legado para as gerações futuras. Palavras-Chave:Paisagem, Planos Urbanísticos, Higienismo.'
+  keywords:
+  - Paisagem
+  - Planos Urbanísticos
+  - Higienismo
+  abstract_en: 'Recent studies concerning the landscape have investigated the most important activities that contribute for its modification and have tried to better understand the society through the marks left by its quotidian. It is understood that singular landscapes constitute the cultural patrimonies of the cities, once they are part of the daily life of the citizens and are present in their social representations. Some contemporary authors defend the preservation of the natural and urban landscape trying, specially, to keep its importance for the local population. Natal is a city where the ambient qualities are well defined and known by the beauty of the area where it is located. Situated just between a river and the sea, the city grew following its geographic characteristics. The Potengi River, the Atlantic Ocean and the vast dunes ecosystem represented natural limits to the urban expansion; at the same time they have favored the development of a landscape pattern marked by the dialectic between the natural elements and the human interventions. The natural elements inserted in the urban profile, represent strong visual references and supply identity to the town; they are part of the collective imaginary and are detached in the social context of the city. These questions send us to the approach of the landscape, as a community patrimony, alerting that some of its significant esthetics attributes must be preserved as a legacy for the future generations. Key Words: Landscape, Urban Plans, Hygienics. 3 A PRESERVAÇÃO DA PAISAGEM E A BUSCA DA CIDADE IDEAL'
+  keywords_en:
+  - Landscape
+  - Urban Plans
+  - Hygienics
+  references:
+  - 'CARLOS, Ana Fani Alessandri. A (re)produção do espaço urbano. São Paulo: EDUSP, 1994. 270p.'
+  - 'CASCUDO, Luís da Câmara. História da Cidade do Natal. Rio de Janeiro: Civilização Brasileira; Natal: Universidade Federal do Rio Grande do Norte, 1980. 470 p.'
+  - 'DANTAS, Ana Caroline de Carvalho Lopes. Sanitarismo e planejamento urbano: a trajetória das propostas urbanísticas para Natal entre 1935 e 1969. 243 f. Dissertação (Mestrado) – Universidade Federal do Rio Grande do Norte. Natal, 2003.'
+  - 'DANTAS, George Alexandre Ferreira. Natal, “Caes da Europa”: o plano geral de sistematização no contexto de modernidade da cidade (1929/1930). 142 f. Trabalho de Graduação – UFRN. Curso de Arquitetura e Urbanismo. Natal, 1998.'
+  - 'DEL RIO, Vicente. Introdução ao desenho urbano no processo de planejamento. São Paulo: Pini, 1990. 198 p.'
+  - 'FERREIRA, Angela Lúcia de Araújo. De la producción del espacio urbano a la creación de territorios en la ciudad: un estudio sobre la constituición de lo urbano en Natal, Brasil. 600 p. Tese (Doutorado) – Universidad de Barcelona, Espanha. Barcelona, 1996.'
+  - 'FRANCO, Maria Assunção Ribeiro. Planejamento ambiental para a cidade sustentável. São Paulo: Annablume: FAPESP, 2000. 296p.'
+  - 'LE CORBUSIER. A carta de Atenas. São Paulo: HUCITEC; EDUSP, 1993. (Estudos urbanos. Série Arte e vida urbana, 1).'
+  - 'LEMOS, Carlos. Arquitetura brasileira. São Paulo: Melhoramentos: EDUSP, 1979.'
+  - '______. A república ensina a morar (melhor). São Paulo: HUCITEC, 1999. 108 p.'
+  - 'LIMA, Pedro de. Natal século XX: do urbanismo ao planejamento urbano. Natal: EDUFRN, 2001. 190 p.'
+  - 'LOPES JÚNIOR, Edimilson. A construção social da cidade do prazer: Natal. Natal: EDUFRN, 2000. 186 p.'
+  - 'MARICATO, Ermínia. Metrópole na periferia do capitalismo: ilegalidade, desigualdade e violência. Estudos urbanos, Série Arte e Vida Urbana. São Paulo: Ed. HUCITEC, 1996. 141p.'
+  - 'MIRANDA, João Mauricio Fernandes de. 380 de história fotográfica da cidade de Natal: 1599- 1979. Natal: Editora da UFRN, 1981. 150 p.'
+  - '______. Evolução urbana de Natal em 400 anos 1599-1999. Natal: Prefeitura Municipal de Natal, 1999. 157 p.'
+  - 'NATAL. Lei 3.175/1984. Dispõe sobre o Plano Diretor de Organização físico-territorial do município de Natal e dá outras providências. Diário Oficial. Natal, 29 de fevereiro de 1984. Suplemento. 55 p.'
+  - 'NATAL. Lei Complementar nº 07, de 05 de agosto de 1994. Dispõe sobre o Plano Dietor de Natal e dá outras providências. Diário Oficial, Natal, 07 de setembro de 1994. Caderno Especial. Lei do Plano Diretor de Natal e coletânea de leis dos limites dos bairros de Natal. 43 p.'
+  - 'NOBRE, Paulo José Lisboa. Entre o Cartão-Postal e a Cidade Real: um estudo sobre paisagem e produção imobiliária em Natal/RN. 166 f. Dissertação (Mestrado) – UFRN, Programa de Pós- Graduação em Arquitetura e Urbanismo. Natal, 2001.'
+  - 'OLIVEIRA, Giovana Paiva de. De cidade a cidade: o processo de modernização do Natal 1889/1913. Natal: EDUFRN, 1999. 138 p.'
+  - 'PREFEITURA MUNICIPAL DE NATAL. Plano urbanístico e de desenvolvimento de Natal/RN. Natal: 1968. Mimeo.'
+  - 'REIS FILHO, Nestor Goulart. Algumas experiências urbanísticas do início da república: 1890 – 1920. (Cadernos de Pesquisa do LAP. Série Urbanização e Urbanismo). Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. 1994. 64 p.'
+  - 'SMITH JUNIOR, Clyde. Trampolim para a vitória. Natal: Editora Universitária, 1993. 225 p.'
+  - 'SOUZA, Itamar. O turismo no RN antes da Via Costeira. Diário do Rio Grande do Norte. Natal, 1999. (Fascículo 11 – Suplemento do Jornal O Diário de Natal).'
+  - '______. O Turismo no RN depois da Via Costeira.. Diário do Rio Grande do Norte. Natal, 1999. (Fascículo 12 – Suplemento do Jornal O Diário de Natal).'
+  - 'TEIXEIRA, Maria Lina Leão. A cidade do Natal cantada em quatro poemas. IX Encontro de Ciências Sociais Norte/Nordeste. Natal, 1999. Mimeo.'
+  - 'WILHELM, Jorge. Natal: el urbanismo como estratégia. In: WILHELM, Jorge. Urbanismo y Subdesarrollo. Buenos Aires: Nueva Visión, 1977. p. 164-198.'
+  locale: 'pt-BR'
+  file: 'sdnne01-035.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdnne01-036'
+  title: Arquitetura do século XX
+  subtitle: um estudo dos bangalôs e do Moderno em São Luís do Maranhão
+  authors:
+  - givenname: Eliane Alves Souza de
+    familyname: Oliveira
+    email: 'oliveira.2@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2782-9332'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Grete Soares
+    familyname: Pflueger
+    email: 'grete@elo.com'
+    affiliation: ''
+    orcid: '0000-0002-9376-8689'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres
+  abstract: 'Abordagem sobre a origem, influências, características e localização dos bangalôs e de alguns exemplares da arquitetura moderna em São Luís. Inicia-se a pesquisa com o entendimento do contexto político e econômico do Maranhão no século XX e a relação com as construções, dando ênfase as modernizações promovidas pelo Governo do Interventor Paulo Ramos ilustradas pela expansão da malha urbana na cartografia. O trabalho busca compreender os conceitos de eclético, bangalôs e arquitetura moderna relacionando com os exemplares cadastrados através do levantamento fotográfico e das imagens reveladas pela pesquisa nos álbuns de 1908, 1923 e 1950. As entrevistas realizadas na academia maranhense de letras apontaram a influencia do cinema nas construções comprovadas pelas imagens da revista Cruzeiro. Finaliza-se a pesquisa com uma reflexão sobre o estado de conservação dos exemplares, seus usos atuais e políticas de preservação ressaltando a necessidade de aprofundamento no estudo da arquitetura do século XX.'
+  keywords:
+  - Século XX
+  - Bangalô
+  - Modernismo
+  abstract_en: 'Approach about origin, influences, characteristics and location of the bungalows and of some samples of the modern architecture in São Luís. The research begins with the understanding of the political and economic context of Maranhão in the century XX and the relationship with the constructions, giving emphasis the modernizations promoted by Interventor Paulo Ramos''s Government illustrated by the expansion of the urban mesh in the cartography. The work search to understand eclectic concepts, bungalows and modern architecture relating with the samples cataloged through the photographic rising and of the images revealed by the research in the albums of 1908, 1923 and 1950. The interviews accomplished in the Academia Maranhense de Letras aimed it it influences of the movies in the constructions checked by the images of the magazine Cruzeiro. The research ends with a reflection on the state of conservation of the samples, its current uses and preservation politics standing out the deepening need in the study of the architecture of the century XX.'
+  keywords_en:
+  - Century XX
+  - Bungalow
+  - Modernism
+  - 3 1 INTRODUÇÃO
+  references:
+  - 'ARANTES, Otília. O lugar da arquitetura depois dos modernos. São Paulo: Edusp, 2001.'
+  - 'ARGAN, Giulio Carlos. Arte Moderna. São Paulo: Companhia das Letras, 1998.'
+  - 'ÁVILA, Edson. Bangalô. Disponível em: <http://www.cifrantiga.hpg.ig.com/Itajai/bangalo.html>. Acesso em: 15 out. 2005.'
+  - 'BATTERS, Martin. Art Noveau. [S.l.]: Ao Livro Técnico,1999.'
+  - 'BENÉVOLO, Leonardo. História da arquitetura moderna. São Paulo: Ed. Perspectiva, 1976.'
+  - 'BERGMAN, Marshal. Tudo que é sólido desmancha no ar. São Paulo: Companhia das Letras, 1986.'
+  - 'BRUAND, Yves Arquitetura contemporânea no Brasil. São Paulo: Ed. Perspectiva, 1991.'
+  - 'BURNETT, Carlos Frederico. Expansão urbana em São Luís. 2000. Dissertação (Mestrado em Desenvolvimento Urbano) – Universidade Federal de Pernambuco, Recife, 2002.'
+  - 'CAVALCANTE, Lauro. Quando o Brasil era moderno: guia da arquitetura1928-1960. Rio de Janeiro, 2001.'
+  - 'CZAJKOWSHI, Jorge. Guia da Arquitetura Eclética no Rio de Janeiro. Rio de Janeiro: CAU, 2000.'
+  - 'FABRIS, Annateresa (Org.). Ecletismo na arquitetura brasileira. São Paulo: Nobel; Edusp, 1987.'
+  - 'FERREIRA, Aurélio Buarque de Holanda. Dicionário da Língua Portuguesa. Rio de Janeiro: Nova Fronteira, 2001.'
+  - 'FLETCHERS, Bannister sir. A history of archicteture. , London: Northwor, 1987.'
+  - 'FRAMPTOM, Kenneth. História crítica da arquitetura moderna. São Paulo: Ed.Martins Fontes, 1997.'
+  - 'GONÇALVES, J. et al. O que é urbanismo. São Paulo: Ed. Brasiliense, 1991.'
+  - 'GROPIUS, Walter. Bauhaus: nova arquitetura. São Paulo: ed. Perspectiva. 2001.'
+  - 'GUELL, Xavier. Antoni Gaudi. São Paulo: Ed. Martins Fontes, 1994.'
+  - 'GULLART, Ferreira. O arquiteto do século. Jornal do Brasil, Rio de Janeiro, 3 fev. 2001. Idéias, p. 4.'
+  - 'INTERVENTOR. Disponível em: <http://www.latimedireito.adv.br/art111.htm>. Acesso em: 10 out. 2005.'
+  - 'JACOBS, Jane. Morte e vida nas grandes cidades. São Paulo: Ed. Martins Fontes, 2000.'
+  - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Ed. Perspectiva, 1989'
+  - 'LEMOS, Carlos. O que é arquitetura. São Paulo: Ed. Brasiliense, 1994.'
+  - 'MARANHÃO. Governo do Estado. Relatório de Administração de Paulo Ramos. São Luís, 1940.'
+  - 'MARTINS, Ananias. São Luís: fundamentos do Patrimônio Cultural séculos XVII, XVIII, XIX. São Luís, 2000.'
+  - 'MEIRELES, M. Mário. História do comércio no Maranhão. São Luís: Litograf, 1992. v. 3.'
+  - 'MINDLIN, Henrique E. Arquitetura moderna no Brasil. Rio de Janeiro: Ed. Aeroplano IPHAN, 2000.'
+  - 'MORAES, Jomar . Guia de São Luís do Maranhão. São Luis: Legenda, 1989.'
+  - 'PALHANO, Raimundo. Coisas públicas, serviços públicos e cidadania. São Luís: Ipês, 1988.'
+  - 'PEIXOTO, Gustavo Rocha. Ecletismo e seus contemporâneos na arquitetura do Rio de Janeiro: Rio de Janeiro: CAU, 2000.'
+  - 'PORTOGHESI, Paolo. Depois da arquitetura moderna. São Paulo: Ed. Martins Fontes, 1985.'
+  - 'REINALDO JR., José Formação do espaço urbana de São Luís. São Luís: FUNC, 1999.'
+  - 'REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo: Ed. Perspectiva, 1983.'
+  - 'ROLNIK, Raquel. O que é cidade. São Paulo: Ed. Brasiliense, 2000.'
+  - 'SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo: Ed. da Universidade de São Paulo, 1999.'
+  - 'SILVA, Geraldo Gomes da. Arquitetura de ferro no Brasil. São Paulo: Nobel, 1987.'
+  - 'WOLF, Tom. Da Bauhaus ao nosso caos. Rio de Janeiro: Ed. Rocco, 1990.'
+  - 'WRIGHT, Frank Loyd. Fallingwater: an archetype press book. California: Pomegranate artbookes, 1996.'
+  - 'ZEVI, Bruno. A linguagem moderna da Arquitetura. Lisboa: Publicações Dom Quixote, 1984.'
+  locale: 'pt-BR'
+  file: 'sdnne01-036.pdf'
+  pages_count: 25
+  pages: null
+
+- id: 'sdnne01-037'
+  title: Arquitetura Moderna em Natal
+  subtitle: capela ecumênica do campus central da UFRN
+  authors:
+  - givenname: Marizo Vitor
+    familyname: Pereira
+    email: 'marizovitor@yahoo.com.br'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'Para muitos, a arquitetura moderna no Rio Grande do Norte ainda é uma incógnita, pois as experiências desenvolvidas no estado, principalmente na cidade do Natal - sede do governo - pouco têm sido estudadas. Apesar de Recife ter se constituído em uma das mais fortes referências para a implantação e desenvolvimento da arquitetura moderna potiguar, outras influências externas são percebidas - como a da Escola Carioca. Nos anos 1950 e 1960, alguns arquitetos potiguares realizaram sua formação em Recife e Rio de Janeiro. Dentre os profissionais locais formados pela Faculdade de Arquitetura da Universidade do Brasil, destacamos João Maurício Fernandes de Miranda, concluinte no ano de 1961. Em Natal, observa-se em sua produção forte influência dos princípios corbusierianos diluídos através da tradução disseminada pela Escola Carioca. Esses ensinamentos foram filtrados pela realidade local, no sentido de “acomodar” seus princípios ao contexto da cidade, ajudando a produzir sua versão da arquitetura moderna. A capela do campus central da Universidade Federal do Rio Grande do Norte (UFRN) é um exemplar da vasta produção desse arquiteto. Concebida em concreto armado, originalmente aparente, e construída em 1973, é um dos mais expressivos edifícios do período chamado “brutalismo potiguar e de dispersão do ideário modernista”. Igualmente, importante exemplar para a história da arquitetura moderna local.Trata-se de uma edificação concebida, originalmente, como capela ecumênica e se encontra implantada na entrada do campus; apresenta forma piramidal apoiada em estrutura cruciforme, tendo nave semi-enterrada. Nessa obra evidencia-se influência predominante da escola Paulista. O artigo tem o objetivo de divulgar e chamar a atenção para a arquitetura moderna potiguar, enquanto expressão local da arquitetura moderna brasileira, através de um dos mais representativos exemplares dessa produção.'
+  keywords:
+  - 'arquitetura moderna em Natal, brutalismo potiguar'
+  abstract_en: 'The Modern Architecture in Rio Grande do Norte is not clear for many people due to the lack of local studies. Besides the strong influence of Recife on the implantation and development of Potiguar modern architecture, others external influences are noticed, such as the Carioca School. During the 50´s and 60´s, some Potiguares architects were graduated in Recife and Rio de Janeiro. One of the most important local architects who graduated at Faculdade de Arquitetura da Universidade do Brasil is João Maurício Fernandes de Miranda, in 1961. His production in Natal is strongly influenced by the principles of Corbusier, interpreted by the Carioca School. These knowledge were adapted to match the principles to the city context, supporting the production of the version of local modern architecture. The chapel of central campus of Federal University of Rio Grande do Norte (UFRN) is one sample of this architect’s production. The chapel was conceived in armed concrete, originally exposed, and built in 1973. It became one of the most expressive building of the period called “Potiguar brutalism and divulgation of modernism’s ideal”, and an important example of the local modern architecture. The building was conceived as an ecumenical chapel in the campus entrance. His pyramidal design is support by the cruciform structure, with the nave partially underground. This design evidences the influence of the Paulista School. The paper aims to show the Potiguar architecture as a local expression of the Brazilian modern architecture, through the one of the most representative example.'
+  keywords_en:
+  - 'modern architecture in Natal, Potiguar brutalism'
+  references:
+  - 'Arquivo de projetos da Superintendência de Infra-estrutura-SIN da UFRN.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1991.'
+  - 'FICHER, Sylvia; ACAYABA, Marlene M. Arquitetura moderna brasileira. São Paulo: Projeto Editores, 1982.'
+  - 'LEMOS, Carlos. Arquitetura brasileira. São Paulo: Melhoramentos, 1979.'
+  - 'LIMA, Pedro de. Arquitetura no rio grande do norte: uma introdução. Natal: Cooperativa Cultural Universitária, 2002.'
+  - 'MIRANDA, João Maurício F. de. Entrevistador: Marizo Vitor Pereira. Natal, 14/02/2006. Entrevista informal.'
+  - 'NEWTON JÚNIOR, Carlos et al. Portal da memória:Universidade Federal do Rio Grande do Norte: 45 anos de federalização (1960/2005). Brasília, DF: Senado Federal, 2005.'
+  - 'SANTOS, Jorge Pás dos. Relato da fundação e expansão da cidade do Natal. Natal: Edição do autor, 2004.'
+  - 'SEABRA DE MELO, Alexandra Consulin. Yes, nós temos arquitetura moderna. Dissertação de Mestrado. PPGAU, UFRN, 2004.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil. São Paulo: Edusp, 1997.'
+  locale: 'pt-BR'
+  file: 'sdnne01-037.pdf'
+  pages_count: 14
+  pages: null
+
+- id: 'sdnne01-038'
+  title: Arquitetura residencial modernista em São Luís
+  subtitle: análise da produção do arquiteto Cleon Furtado
+  authors:
+  - givenname: Marina de Miranda
+    familyname: Martins
+    email: 'martins@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: '“Arquitetura Residencial Modernista em São Luís: Análise da produção do arquiteto Cleon Furtado” trata da trajetória do arquiteto Cleon Furtado, conhecido por contemplar a cidade de São Luís com os primeiros projetos residenciais de arquitetura modernista. Nascido em 1929, em São Luís, Maranhão, Cleon muda-se para São Paulo, onde vai estudar arquitetura. Legado de seu estudo na faculdade Mackenzie, entre 1950 e 1955, sua produção modernista foi influenciada por teóricos e arquitetos como Le Corbusier, Oscar Niemeyer, Lúcio Costa, Rino Levi e Oswaldo Bratke. De volta a São Luís, em 1959 Cleon é convidado para projetar a primeira de uma longa série de casas modernistas, que vão acompanhar durante vinte anos a própria expansão urbana de São Luís, disseminando na cidade o repertório do funcionalismo em um ambiente marcado pela arquitetura tradicional portuguesa e eclética. Neste trabalho, busca-se identificar as referências internacionais e nacionais que orientaram a produção do arquiteto Cleon Furtado, bem como suas contribuições pessoais ao movimento modernista brasileiro.'
+  keywords:
+  - 'Arquitetura Residencial – Arquitetura Modernista - São Luís - Cleon Furtado'
+  abstract_en: '“Modernist Residential Architecture in São Luís: Analysis of Architect Cleon Furtado''s Work" discusses the career of architect Cleon Furtado, known for introducing the first modernist residential projects in the city of São Luís. Born in 1929, in São Luís, Maranhão, Cleon moved to São Paulo, where he studied architecture. A legacy of his years of study at Mackenzie University in São Paulo (1950-1955), his modernist production was influenced by theoreticians and architects such as Le Corbusier, Oscar Niemeyer, Lúcio Costa, Rino Levi, and Oswaldo Bratke. Back in São Luís in 1959, Furtado was invited to design the first of a long series of modernist houses, which for twenty years would develop alongside the urban expansion of São Luís, disseminating in the city the tenets of functionalism in an environment thus characterized by traditional architecture, both Portuguese and eclectic. This monograph attempts to identify the international and national references that guided Cleon Furtado''s production, as well as his personal contributions to the Brazilian modernist movement.'
+  keywords_en:
+  - 'Residential Architecture - Modernist Architecture - São Luís - Cleon Furtado'
+  references:
+  - 'BAKER, Geoffrey. Le Corbusier: Uma Análise da Forma. Tradução Alvamar Helena Lamparelli. São Paulo: Martins Fontes, 1998.'
+  - 'BARROS, Valdenira. Imagens do Moderno em São Luís. São Luís: FUNC, 2001.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. Tradução Ana Goldberger. São Paulo: Perspectiva, 1981.'
+  - 'BURNETT, Carlos Frederico. Arquitetura Brasileira da Década de 20 aos anos 80. Uma Análise Crítica e Histórica. 1981. Trabalho Final de Graduação – Universidade Federal do Rio de Janeiro, Rio de Janeiro, 1981.'
+  - 'CAVALCANTI, Lauro. Quando o Brasil Era Moderno: Guia de Arquitetura 1928 - 1960. Rio de Janeiro: Aeroplano, 2001.'
+  - 'CORBUSIER, Le. Por Uma Arquitetura. 5.ed. São Paulo: Perspectiva, 1994.'
+  - 'JORGE, Miécio. Álbum do Maranhão. São Paulo: [s.n.], 1950.'
+  - 'MARANHÃO. Secretaria de Planejamento. Plano Diretor de São Luís. São Luís: Sioge, 1977.'
+  - 'MESQUITA, Rui Ribeiro de. Plano de Expansão de São Luís. São Luís: [s.n.], 1958.'
+  - 'MORAES, Jomar. Guia de São Luís do Maranhão. São Luís: Legenda, 1989.'
+  - 'REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo: Perspectiva, 1995.'
+  - 'RIBEIRO JÚNIOR, José Reinaldo, B. Formação do Espaço Urbano de São Luís: 1612- 1991. São Luís: FUNC, 1999.'
+  - 'XAVIER, Alberto et al. Arquitetura Moderna Paulistana. São Paulo: PINI, 1983.'
+  locale: 'pt-BR'
+  file: 'sdnne01-038.pdf'
+  pages_count: 48
+  pages: null
+
+- id: 'sdnne01-039'
+  title: Do aluguel (IAPs) ao arrendamento (PAR)
+  subtitle: quadro da transformação dos princípios da Arquitetura Moderna nas habitações sociais
+  authors:
+  - givenname: Mariana Fialho
+    familyname: Bonates
+    email: 'bonates@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-9693-4614'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'A política de habitação no Brasil iniciou-se na década de 1930 com a atuação dos Institutos de Aposentadorias e Pensões (IAPs), que apresentavam três planos de financiamento e cujos conjuntos financiados foram predominantemente concebidos sob a influência dos princípios do Movimento Moderno. No entanto, ao longo do desenvolvimento da política habitacional, sobretudo a partir de 1964, com a atuação do Banco Nacional de Habitação (BNH) e a difusão da política da “casa própria”, alguns paradigmas modernos, como a preocupação com a habitabilidade das moradias, foi paulatinamente decrescendo. Por outro lado, outras preocupações modernistas como o barateamento das construções, através da racionalização, verticalização e até a redução da dimensão física das habitações, aumentaram sensivelmente. Atualmente, destaca-se na política habitacional brasileira o Programa de Arrendamento Residencial (PAR), criado em 1999 e que pode ser considerado um leasing habitacional por um período de 15 anos. Já as habitações desse programa diferem bastante do ponto de vista estético daquelas dos IAPs, não obstante verifica-se alguns princípios modernistas. Diante do exposto, este trabalho visa compreender a transformação pela qual passou a arquitetura moderna nas habitações sociais, a partir da análise de 4 elementos: contexto histórico, forma de financiamento, resultados arquitetônicos e urbanísticos. Para isso, realizou-se uma análise comparativa entre duas tipologias habitacionais (IAPs e PAR) localizadas na cidade de João Pessoa. Enfim, evidencia-se que ao longo dos anos houve uma transferência de preocupação com a questão da habitabilidade para uma preocupação com o custo das habitações, consubstanciada na política da casa própria. Essa nova preocupação refletiu em uma perda das propostas estéticas modernistas para habitação social, gerando um empobrecimento formal nos conjuntos do PAR.'
+  keywords:
+  - política habitacional
+  - forma de financiamento
+  - arquitetura
+  abstract_en: 'Brazilian housing policy starts in the 1930s with the creation of the IAPs (Institutos de Aposentadoria e Pensões – Pension and Retirement Funds). Then, programs both for rental and home-owned housing were set up. Buildings built under these schemes followed – specially in the former case – the concepts of modern architecture. Since 1964, when the military governments developed a new housing policy – that of the BNH (Banco Nacional da Habitação – National Housing Bank) –, with the promotion of a stronger home- ownership policy, a number of modernist elements were increasingly left behind. Notwithstanding, other elements like use of more rational forms of house building techniques as well as verticalization and the reduction of size of housing units were still followed. In 1999, a new housing program – PAR (Programa de Arrendamento Residencial – Rental Housing Program) – was set up. The program is a sort of a 15-year lease with right to buy at the end of contract. Regarding the adoption of principles of modernist architecture, house building under this scheme is substantially different from that of IAPs’. This paper try to understand the transformation at the modern architecture as well as of social housing. So, it was realized an analyses about 4 important elements: history, housing finance, architecture and city planning. Drawing on examples from João Pessoa city, a comparative study of IAP and PAR is done. The analysis suggests that, over the years, concerns over quality have lost terrain to concerns over costs of production (thus profitability) and this has to do with an exacerbated, market-oriented home-ownership policy that has been pursued.'
+  keywords_en:
+  - housing policy
+  - housing finance
+  - architecture
+  locale: 'pt-BR'
+  file: 'sdnne01-039.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdnne01-040'
+  title: 'Edifício Caiçara: entre a Modernidade e a Tradição'
+  subtitle: 'um estudo sobre um modo de morar em São Luís, Maranhão'
+  authors:
+  - givenname: Célia Regina
+    familyname: Santos
+    email: 'santos.3@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Marluce Wall de Carvalho
+    familyname: Venancio
+    email: null
+    affiliation: ''
+    orcid: '0000-0002-3778-4465'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Tayana
+    familyname: Figueiredo
+    email: 'figueiredo@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-0062-4900'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres
+  abstract: 'O Edifício Caiçara representa um movimento que, na década de 1960, rompe com a continuidade histórica e tipológica da cidade de São Luís ao mesmo tempo em que inicia um novo modo de morar. Construído em pleno centro da cidade que conservava então, como agora, um dos mais importantes acervos da arquitetura luso-brasileira dos séculos XVIII e XIX no Brasil, o Caiçara se destaca pela sua verticalidade, por suas características que dialogam com o repertório modernista de arquitetura, assim como pelos horizontes culturais e simbólicos que se abriram para a cidade através de sua construção. Na condição de quase manifesto o Caiçara, no entanto, permaneceu, e permanece por todo esse tempo, como único exemplar de edifício residencial na área central, uma vez que, já na década de 1970 tem início a urbanização e ocupação das áreas próximas às praias que, ostentando status privilegiado, atraem para si as classes mais abastadas. Busca-se, nesse trabalho compreender a trajetória do Edifício Caiçara no tocante ao seu significado no contexto sócio- espacial ao longo de diferentes temporalidades do momento da sua construção nas décadas de 60/70 e os dias atuais. Ressaltam-se as motivações, os interesses e os significados culturais presentes. Ressaltam-se a sua permanência e as suas relações com um espaço urbano que exibe a condição de Centro Histórico, próximo a uma área considerada Patrimônio da Humanidade.'
+  keywords:
+  - Habitação
+  - Modernização
+  - Verticalidade
+  references:
+  - 'ANDRÉS, Luiz Phelipe (org). Centro Histórico de São Luís-Maranhão: Patrimônio Mundial. São Paulo: Audichromo, 1998.'
+  - 'ARENDT, Hannah. Entre o passado e o futuro. 4 ed. São Paulo: Perspectiva, 1997.'
+  - 'BARROS, Waldenira. Imagens do Moderno em São Luís. São Luís Edições FUNC. 2001'
+  - 'BURNETT, Carlos Frederico Lago. Além do Rio Anil. 2002. Dissertação (Mestrado em Desenvolvimento Urbano). Programa de Pós- Graduação Universidade Federal de Pernambuco. Recife.'
+  - 'FIGUEIREDO, Tayana do N. Santana Campos. Edifício Caiçara: estudo de um novo modo de habitar na cidade de São Luís. São Luís: (Sub-projeto de pesquisa), UEMA/FAPEMA, 2005.'
+  - 'HARVEY, David. Condição Pós-Moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Edições Loyola, 1992.'
+  - 'HELLER, Agnes. A condição política pós-moderna.Rio de Janeiro:Civilização Brasileira, 1998.'
+  - 'MARTINS, Ananias. São Luís: Fundamentos do patrimônio cultural séculos XVII, XVIII e XIX. São Luís: Editora Fort (Fortaleza), 2005.'
+  - 'MARTINS, Marina de Miranda. Arquitetura residencial modernista: análise da produção do arquiteto Cleon Furtado. São Luís: (Relatório) PIBIC/UEMA, 2005.'
+  - 'MILET, Vera. A Teimosia das Pedras. Olinda: Prefeitura de Olinda, 1988.'
+  - 'PREFEITURA DE SÃO LUÍS. Rua Grande. Um passeio no tempo. São Luís: PMSL, 1992 RIBEIRO Jr, José Reinaldo Barros. Formação do Espaço Urbano de São Luís: 1612-1991,São Luís Edições. FUNC.1999'
+  - 'SÃO LUÍS. Lei nº 3.252, de 29 de dezembro de 1992. Dispõe sobre a instituição do Plano Diretor do município de São Luís. São Luís: PMSL, 2002 (Documento mimeo). SÃO LUÌS. Centro Histórico de São Luís, patrimônio mundial. São Luís: IPHAN, DPHAP, FUMPH e Núcleo Gestor do Centro Histórico de São Luís, 2005.'
+  - 'SANTOS, Célia Regina Mesquita. As representações sócio-espaciais dos antigos habitantes e comerciantes da Rua Grande. Recife, 2002. Dissertação (Mestrado em Desenvolvimento Urbano) - Universidade Federal de Pernambuco, Recife: 2002.'
+  - 'SILVA FILHO, Olavo Pereira. Arquitetura Luso-Brasileira no Maranhão. 2 ed. Belo Horizonte: Formato, 1998.251p.'
+  - 'VAZ, Lílian Fessler. Modernidade e Moradia: habitação coletiva no Rio de Janeiro – séculos XIX e'
+  - 'XX. Rio de Janeiro: Viveiros de Castro Editora Ltda, 2002.'
+  locale: 'pt-BR'
+  file: 'sdnne01-040.pdf'
+  pages_count: 14
+  pages: null
+
+- id: 'sdnne01-041'
+  title: Marcos verticais Modernistas de Aracaju
+  authors:
+  - givenname: Dora
+    familyname: Diniz
+    email: 'diniz@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Élida Regina de Moraes
+    familyname: Zuffo
+    email: 'zuffo@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres
+  abstract: 'No começo dos anos 50 iniciou-se, em Aracaju, o processo de inclusão de novas tipologias de construções, com o desencadear da verticalização, marcado pela construção do primeiro edifício, o Mayara, localizado no centro da cidade e com forte impacto, à época. Com o surgimento de outros edifícios ao longo do tempo, alterou-se definitivamente a paisagem urbana, anteriormente só formada por um plano extenso e horizontal de construções. Em menos de 10 anos, essa verticalização pontuava o centro e estendia-se para a zona sul, criando marcos como o Edifício Atalaia, de 1958, projeto do Engenheiro Rafael Grimaldi, com 11 andares, inaugurando um novo modo de morar moderno. Tal construção justificava-se pelo elevado preço do terreno em área nobre, com grandes residências implantadas. Como elementos inovadores para a cidade apareciam os pilares em V do térreo e também os brises ou escamas horizontais da fachada frontal. Com custos altos, as demais iniciativas de tal porte, por alguns anos, foram realizadas pelo poder público. Esses volumes modernos, de grande impacto, localizaram-se no centro. O Hotel Palace e o Edifício Estado de Sergipe são considerados os exemplos mais significativos dessa fase, porque têm tipologias verticais alinhadas com as tendências da época, absorvendo programas específicos e inéditos na cidade. O primeiro, de 1962, também projeto de Rafael Grimaldi, tornou-se mais um símbolo isolado, com treze pavimentos. Hoje é um prédio em ruínas, esquecido, sem quaisquer perspectivas de uso. Bem próximo, o Edifício Estado de Sergipe, projeto de Alvarez e Pontual Arquitetos, foi inaugurado em 1970, abrigando o Banco do Estado de Sergipe e outras repartições públicas. No tempo do “milagre brasileiro”, simbolizando o poder, com 28 pavimentos, o edifício destacou-se por completo no skyline da cidade, fato marcante até hoje, porque, depois, por muitos anos, a legislação só permitiu um menor gabarito para as edificações.'
+  keywords:
+  - 'arquitetura vertical de Aracaju, arquitetura moderna'
+  abstract_en: 'In the beginning of the 50’s it was started in Aracaju, the inclusion process of new types of construction, developing of verticalization and marked by the construction of the first building, the Mayara, located at downtown and with strong impact at that time. With the appearance of other buildings along the time, the urban landscape has been changed definitively, previously only formed by an extensive and horizontal plan of constructions. In less than 10 years, this verticalization increased at downtown and was extended for the south zone, creating landmarks as the Atalaia Building, in 1958, project of Engineer Rafael Grimaldi, with 11 floors, opening a new way of life modern. Such construction was justified for the high price of the land in noble area, with great implanted residences. As innovative elements for the city show the pillars in V of the land floor and also the shades or horizontal scales of the front elevation With high costs, the others initiatives of such amount, for some years, had been done by the public power. These modern volumes, of great impact, had been situated at downtown. The Palace Hotel and the Building Estado de Sergipe are considered the most significant examples of this period, because they have lined up vertical typologies with the trends of the time, having absorbed specific and innovative programs in the city. The first one, of 1962, also project of Rafael Grimaldi, became one more isolated symbol, with thirteen floors. Today it is a building in ruins, forgotten, without any perspectives of use. Near, the Building Estado de Sergipe, project of Alvarez and Pontual Architects, was inaugurated in 1970, sheltering the Bank of the State of Sergipe and other public services. In the time of the "Brazilian miracle", symbolizing the power, with 28 floors, the building was distinguished for complete in skyline of the city, important fact until today, because, later, for many years, the legislation only allowed lower height for the constructions. Key-words: vertical architecture of Aracaju, modern architecture. 2'
+  references:
+  - 'BARBOZA, Naide. Em Busca de Imagens Perdidas: Centro Histórico de Aracaju 1900-1940. Aracaju: Fundação Cultural Cidade do Aracaju, 1992.'
+  - 'CORREIA, Dora Diniz. Aracaju: Evolução e Verticalização. Monografia de Especialização. São Paulo: Universidade Belas Artes de São Paulo, 2003.'
+  - 'DINIZ, José Alexandre F. Aracaju: Síntese de sua Geografia Urbana. Aracaju, 1963.'
+  - 'FORTES, Bonifácio. Evolução da Paizagem Humana da Cidade do Aracaju. Aracaju: Diretório Acadêmico Jackson de Figueiredo, 1955.'
+  - 'PORTO, Fernando Figueiredo. A Cidade do Aracaju 1855/1865. Aracaju: Governo de Sergipe/'
+  - 'FUNDESC, 1991. _______, Alberto (Alfredo Britto, Ana Luiza Nobre). Arquitetura Moderna no Rio de Janeiro. São Paulo: Pini, Fundação Vilanova Artigas, Rio de Janeiro: Rio Arte, 1991.'
+  - 'JORNAIS E REVISTAS Jornal Correio de Aracaju, Ano LV, n. 6743, 27 de junho de 1962, p. 1 e p.4. Jornal Gazeta de Sergipe, 31 de março de 1970, p.7.'
+  - 'Revista da Associação Sergipana de Imprensa, dez/1961.'
+  - 'Plantas originais do Ed. Hotel Palace e Ed. Estado de Sergipe, Aracaju, CEHOP, Setor da Mapoteca.'
+  locale: 'pt-BR'
+  file: 'sdnne01-041.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdnne01-042'
+  title: O passado colonial das cidades brasileiras na historiografia da Arquitetura
+  authors:
+  - givenname: George Alexandre Ferreira
+    familyname: Dantas
+    email: 'georgeafdantas@ct.ufrn.br'
+    affiliation: ''
+    orcid: '0000-0002-8352-7590'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'O artigo discute a maneira como o tema da cidade colonial é apropriado, lido e articulado nos textos constituintes da historiografia da arquitetura no Brasil. Quais são as matrizes teóricas, quais as referências mobilizadas, quais as palavras e quais os autores (citados direta e/ou indiretamente) utilizados para construir essa(s) narrativa(s)? Esse recorte permite, por um lado, mapear algumas importantes linhas da genealogia das representações sobre a cidade colonial e, por outro, compreender as estratégias de legitimação e afirmação da “nova arquitetura” – a arquitetura modernista – no contexto brasileiro – afinal, a arquitetura também se constrói no campo das disputas simbólicas, dos territórios do imaginário. Atento às questões historiográficas do lugar-comum e do fundo-comum e da circularidade da interpretação, acompanham-se e problematizam-se as teses inaugurais, as linhas de continuidade e os pontos de ruptura, relativos ao tema, na “trama historiográfica” da arquitetura constituída desde os artigos de Lucio Costa nos anos 1930; contemplam-se ainda os estudos e as discussões de Philip Goodwin (além da narrativa fotográfica de Kidder Smith que acompanha Brazil Builds), Henrique Mindlin, Geraldo Ferraz, Paulo Santos, Robert Smith, Carlos Lemos, Nestor Goulart, Yves Bruand, Hugo Segawa, dentre outros que ajudaram a constituir a história da arquitetura brasileira.'
+  keywords:
+  - questões historiográficas – cidade colonial – arquitetura modernista brasileira
+  references:
+  - 'ANDRADE, Mário de. O Turista Aprendiz. São Paulo: Duas Cidades, 1976.'
+  - 'ARANTES, Otília B. F. Urbanismo em fim de linha e outros estudos sobre o colapso da modernização arquitetônica. São Paulo: Edusp, 1998.'
+  - 'AZEVEDO, Fernando de. Cultura brasileira. 4 ed. São Paulo: Melhoramentos, 1964. [orig. 1946]'
+  - 'BRESCIANI, Maria S. M. A cidade: objeto de estudo e experiência vivenciada. In Encontro Nacional da'
+  - 'ANPUR, 11, Salvador, maio 2005, Anais eletrônicos do 11º ENANPUR, Salvador: PPGAU/UFBA, 2005. [cd-rom] __________. Identidades inconclusas no Brasil do século XX – fundamentos de um lugar-comum. In Bresciani, S. e Naxara, M. (Orgs.) Memória e (res)sentimento: indagações sobre uma questão sensível. Campinas: Editora da Unicamp, 2001, p.403-429.'
+  - 'BRUAND, Yves. Lucio Costa: o homem e a obra. In NOBRE, Ana Luiz et al. (orgs.). Um modo de ser moderno: Lúcio Costa e a crítica contemporânea. São Paulo: Cosac & Naify, 2004, p.13-17. __________. Arquitetura contemporânea no Brasil. 3 ed. São Paulo: Perspectiva, 1997 [orig. 1981].'
+  - 'COSTA, Lúcio. Documentação necessária. In Arquitetura Civil II (textos escolhidos da Revista do IPHAN). São Paulo: FAUUSP, MEC/IPHAN, 1975, p. 91-98 [orig. 1937]. __________. Razões da nova Arquitetura. In XAVIER, Alberto (org.). Depoimento de uma geração: arquitetura moderna brasileira. ed. rev. ampl. São Paulo: Cosac & Naify, pp. 39-52, 2003 [texto original de 1936]. __________. A situação do ensino das Belas-Artes. In XAVIER, Alberto (org.). Depoimento de uma geração: arquitetura moderna brasileira. ed. rev. ampl. São Paulo: Cosac & Naify, pp. 57-58, 2003 [texto original publicado em 29 dez 1930].'
+  - 'DECKKER, Zilah Q. Brazil built: the architecture of the modern movement in Brazil. London: Spon Press, 2001'
+  - 'FICHER, Sylvia e ACAYABA, Marlene M. Arquitetura moderna brasileira. São Paulo: Projeto, 1982.'
+  - 'FREYRE, Gilberto. Introdução. In Arquitetura Civil I (textos escolhidos da Revista do IPHAN). São Paulo:'
+  - 'FAUUSP, MEC/IPHAN, 1975, p. 03-26 [orig. 1943].'
+  - 'FRIDMAN, Fania. Breve história do debate sobre a cidade colonial brasileira. In Pinheiro, E. P. e Gomes, M.'
+  - 'A. A. de F. (orgs.) A cidade como História: os arquitetos e a historiografia da cidade e do urbanismo. Salvador: EDUFBA, 2004, p.43-72.'
+  - 'GINZBURG, Carlo. Mitos, Emblemas e Sinais: morfologia e história. São Paulo: Companhia das Letras, 1990 [orig. 1986].'
+  - 'GOODWIN, Philip. Brazil Builds: Architecture old and new 1652-1942. New York: MoMA, 1943.'
+  - 'GUTIÉRREZ, Ramón. Arquitectura y Urbanismo em Iberoamérica. Madrid: Cátedra, 1983.'
+  - 'HOLANDA, Sérgio Buarque de. Raízes do Brasil. 26 ed. São Paulo: Companhia das Letras, 1995 [orig. 1936]. __________. A revolução subterrânea [em entrevista]. Folha de São Paulo, São Paulo, Caderno Mais, pp.12-14, 08 ago. 2004. [orig. 1981].'
+  - 'LEMOS, Carlos A. C. Arquitetura Brasileira. São Paulo: Melhoramentos, Editora da Universidade de São Paulo, 1979.'
+  - 'MARINS, Paulo C. G. Através da rótula: sociedade e arquitetura urbana no Brasil, séculos XVII a XX. São Paulo: Humanitas/FFLCH/USP, 2001.'
+  - 'MARTINS, Carlos A. F. “Hay algo de irracional...”: apuntes sobre la historiografía de la arquitectura brasileña. Block, n.4, pp.08-22, dec. 1999. __________. Arquitetura moderna no Brasil: uma trama recorrente. In Arquitetura e Estado no Brasil: elementos para análise da constituição do discurso moderno no Brasil. A obra de Lucio Costa 1924-52.. Dissertação (Mestrado em História) – Campinas, PUCCamp, 1988.'
+  - 'MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, IPHAN, 2000. (ed.orig. 1956).'
+  - 'NOBRE, Ana Luiza et al. (orgs.) Um modo de ser moderno: Lúcio Costa e a crítica contemporânea. São Paulo: Cosac & Naify, 2004.'
+  - 'REIS, Nestor G. Contribuição ao estudo da evolução urbana do Brasil (1500/1720). 2 ed. rev. e ampl. São Paulo: Pini, 2000 [orig. 1968]. __________. Quadro da Arquitetura no Brasil. 7 ed. São Paulo: Perspectiva, 1995.'
+  - 'RIZEK, Cibele S. Os sentidos da cidade brasileira: figurações da ordem e de seus avessos. In Seminário de História da Cidade e do Urbanismo, 7, Salvador, out. 2002, Anais eletrônicos do 7º SHCU, Salvador: PPGAU/UFBA, 2002. [cd-rom]'
+  - 'RODRIGUES, José Washt. Documentário arquitetônico relativo à antiga construção civil no Brasil. 4 ed. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1979.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2 ed. São Paulo: Edusp, 1999.'
+  - 'SILVA, Joana M. de C. e. Nacionalismo e Arquitetura em Ricardo Severo: Porto 1869 – São Paulo 1940. Dissertação. 2005 (Mestrado em Arquitetura e Urbanismo) – São Carlos, EESC-USP, 2005.'
+  - 'SMITH, Robert C. Arquitetura civil do período colonial. In Arquitetura Civil I (textos escolhidos da Revista do IPHAN). São Paulo: FAUUSP, MEC/IPHAN, 1975, p. 95-190 [orig. 1969].'
+  - 'TAFURI, Manfredo. “Introducción: el proyecto histórico”. In La esfera y el laberinto: vanguardias y arquitectura de Piranesi a los años setenta. Barcelona: Gustavo Gili, 1984.'
+  - 'TINEM, Nelci. O alvo do olhar estrangeiro: o Brasil na historiografia da arquitetura moderna. João Pessoa: Manufatura, 2002.'
+  - 'VASCONCELOS, Sylvio. Formação urbana do Arraial do Tejuco. In Arquitetura Civil II (textos escolhidos da Revista do IPHAN). São Paulo: FAUUSP, MEC/IPHAN, 1975, p. 101-114 [orig. 1959].'
+  - 'VAUTHIER, L. L. Casas de residência no Brasil. In Arquitetura Civil I (textos escolhidos da Revista do IPHAN). São Paulo: FAUUSP, MEC/IPHAN, 1975, p. 27-94 [orig. 1943].'
+  - 'XAVIER, Alberto (org.). Depoimento de uma geração: arquitetura moderna brasileira. ed. rev. ampl. São Paulo: Cosac & Naify, 2003.'
+  locale: 'pt-BR'
+  file: 'sdnne01-042.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdnne01-043'
+  title: Urbanização modernista em São Luís na década de setenta
+  subtitle: o zoneamento enquanto estratégia de segregação social
+  authors:
+  - givenname: Carlos Frederico Lago
+    familyname: Burnett
+    email: 'burnett@exemplo.com'
+    affiliation: ''
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Pôsteres
+  abstract: 'A cidade de São Luís do Maranhão ocupou, por mais de 350 anos, a faixa de terra entre os rios Anil e Bacanga, reproduzindo, para expansão urbana, a grelha colonial do núcleo primitivo. Durante a década de 60, eventos econômicos, políticos e culturais levam à crise este padrão urbanístico, finalmente superado com a travessia dos rios e a conquista de amplos territórios virgens. A partir de uma rede de pontes e avenidas, nos anos 70, um Plano Diretor, embasado nos três estabelecimentos humanos de Le Corbusier, aplica os princípios do zonning às novas áreas. Entretanto, as faixas litorâneas e as zonas industriais determinam a efetiva destinação social do novo território: negando a mistura de usos e de vizinhos da cidade antiga, a nova cidade nasce sob a égide da segregação social e da fragmentação espacial. Com a crise do Estado planejador e a ofensiva neoliberal de fim de século, a primazia das forças do mercado leva, cada vez mais, ao controle privado do espaço urbano, assistindo-se à concentração – senão à exclusividade – dos investimentos nas áreas nobres, enquanto o resto da cidade degrada-se a olhos vistos. Assim, a expansão recente de São Luís expõe de maneira clara a captura, por interesses econômicos e políticos, das propostas urbanísticas do modernismo. Resgatá-las significa reafirmar seus princípios totalizadores e igualitários, bases indispensáveis para a construção da cidade democrática brasileira, que não pode ignorar os efeitos do espaço sobre o social.'
+  keywords:
+  - Planejamento Urbano
+  - Urbanização Modernista
+  - Segregação Social
+  abstract_en: 'The city of São Luís, Maranhão, for over 350 years, it occupied the strip of land situated between the rivers Anil and Bacanga, and reproduced, in the process of urban expansion, the colonial gridiron system of the original nucleus. In the sixties, economical, political and cultural events drove this urban pattern into a crisis, creating a new one that includes the expansion of the city, one that overcomes the boundaries created by the two rivers and allows for the conquering of vast unexplored territories. During the seventies, a Master Plan is created, one that starts with a net of bridges and avenues. It is based on the three human establishments by Le Corbusier, applying the principles of zoning to the new areas. However, the areas close to the sea and the industrial zones determine the actual social destination of the new territory denying the mixture of uses and of neighbors of the old city. A new city is born under the shield of social segregation and spatial fragmentation. After the planning state crisis and the new-liberal offensive at the end of the twentieth century, the predominance of the market forces the control of the urban spaces into the hands of private owners, leading to the concentration – if not exclusivity of the investments into the wealthy areas, meanwhile the rest of the city degrades. Therefore, the recent expansion of São Luís exposes clearly the capture of the proposals of modern urbanism for economic and political interests. To rescue them signifies to recognize the egalitarian and inclusive principles of the modern urbanism – the very principles that constitute the base for the construction of the democratic Brazilian city, which can not ignore the effects of the urban space on society.'
+  keywords_en:
+  - Urban Planning
+  - Modern Urbanization
+  - Social Segregation
+  references:
+  - 'ABRAMO, Pedro. A Regulação Urbana e o Regime Urbano: a Estrutura Urbana, sua Reprodutibilidade e o Capital. Porto Alegre: FEE, 1995.'
+  - 'ALBERTI, Marina et alli. La cittá sostenibile: analise, scenari e proposte per un’ecologia urbana in Europa. Milano: Franco Angeli, 1994.'
+  - 'BARROS, Maria do Amparo Gomes. Mais que um Teto, a luta pelo direito à moradia nos anos 90 em São Luís. In Moreira Lima, Terezinha e Costa, Cândida (orgs.) Políticas Públicas, Trabalho e Movimentos Sociais no Maranhão, São Luís, EDUFMA, 2003.'
+  - 'BELLO FILHO, Wilson Barros. História do Planejamento Econômico no Maranhão: uma arqueologia dos planos estaduais de desenvolvimento. Rio de Janeiro, Editora Papel Virtual, 2004.'
+  - 'BENÉVOLO, Leonardo. História de la arquitectura moderna. Barcelona: Gustavo Gili, 1974.'
+  - '__________________. A cidade e o arquiteto. São Paulo: Editora Perspectiva, 1984.'
+  - 'BURNETT, Carlos F. L. Além do Rio Anil, Urbanização e Desenvolvimento Sustentável: estudo sobre a sustentabilidade dos tipos de urbanização na cidade de São Luís do Maranhão. Dissertação de Mestrado, UFPE, 2002.'
+  - 'CALDEIRA, José de Ribamar Chaves. A Invasão do Itaqui. São Luís, Divisão de Documentação,'
+  - 'CÂMARA DOS DEPUTADOS. Estatuto da Cidade, Guia para Implementação pelos Municípios e Cidadãos. Brasília, DF: Coordenação de Publicações, 2002.'
+  - 'CASTELLS, Manuel. A Questão Urbana. São Paulo, Martins Fontes, 1983.'
+  - 'HARVEY, David. A condição pós-moderna, São Paulo, SP: Loyola, 1992.'
+  - 'LEFEBVRE, Henri. O Direito à Cidade. São Paulo, Centauro, 2001.'
+  - 'MARANHÃO. Plano Diretor de São Luís 1977. São Luís: SIOGE, 1977.'
+  - 'MESQUITA, Rui Ribeiro. Plano de expansão da cidade de São Luís. São Luís: Mimeografo, 1958.'
+  - 'MOTA, A. S. e MANTOVANI, J. D. São Luís do Maranhão no século XVIII: a Construção do Espaço Urbano sob a Lei das Sesmarias. São Luís: FUNC, 1998.'
+  - 'O IMPARCIAL. Diários Associados, São Luís, Edições de 04/06/1938, 24/10/1945, 20/08/1950, 13/02/1981 e 27/02/1986.'
+  - 'OLIVEIRA, Francisco. Elegia para uma Re(li)gião: Sudene, Nordeste. Planejamento e Conflito de Classes. Rio de Janeiro, Paz e Terra, 1981.'
+  - '__________________. O Estado e o Urbano no Brasil, Revista Espaço e Debates, Jun-Set. nº 6,1982, p. 06-36.'
+  - 'REIS, Nestor Goulart. Imagens de Vilas e Cidades do Brasil Colonial. São Paulo: Editora USP, 2000.'
+  - 'RIBEIRO JÚNIOR, José R. B. Formação do espaço urbano de São Luís. São Luís: Edições'
+  - 'SÃO LUÍS. Mensagem apresentada pelo Prefeito Dr. José Octacílio Saboya Ribeiro, no dia 28 de julho p. passado, quando da instalação dos trabalhos da Câmara Municipal. D.O.U., 06 /08/1938.'
+  - 'SÃO LUÍS. Legislação Urbanística Básica de São Luís. São Luís, Prefeitura Municipal, Secretaria Municipal de Terras, Habitação e Urbanismo, Imprensa Universitária, 1997.'
+  - 'SERRA, Geraldo. Urbanização e centralismo autoritário. São Paulo: Editora Universidade de São Paulo, 1991.'
+  - 'VILLAÇA, Flávio. Espaço Intra-Urbano no Brasil, São Paulo, SP: Nobel: FAPESP: Lincoln Institute, 2001.'
+  - '_____________. A Ilusão do Plano Diretor, disponibilizado via Internet, 2005.'
+  locale: 'pt-BR'
+  file: 'sdnne01-043.pdf'
+  pages_count: 19
+  pages: null
+
+- id: 'sdnne01-044'
+  title: Wandenkolk Tinoco
+  subtitle: contribuição para a Modernidade pernambucana
+  authors:
+  - givenname: Deise
+    familyname: Coelho
+    email: 'coelho@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-2602-7362'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Elena
+    familyname: Castro
+    email: 'castro@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0002-3691-6454'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Julia
+    familyname: Machado
+    email: 'machado@exemplo.com'
+    affiliation: ''
+    orcid: '0009-0004-6997-9728'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Tiago
+    familyname: Henrique
+    email: 'henrique@exemplo.com'
+    affiliation: ''
+    orcid: '0000-0001-9100-539X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Pôsteres
+  abstract: ''
+  keywords:
+  - Wandenkolk
+  - modernidade
+  locale: 'pt-BR'
+  file: 'sdnne01-044.pdf'
+  pages_count: 11
+  pages: null
