@@ -13,7 +13,7 @@ Usage:
     # Fetch cover URLs from OJS API and generate pages:
     python3 scripts/generate_static_pages.py --base-url /index.php/ojs \\
         --ojs-url https://docomomo.ojs.com.br/index.php/ojs \\
-        --ojs-user editor --ojs-pass ***
+        --ojs-user $OJS_TEST_USER --ojs-pass $OJS_TEST_PASS
 
     # Or use a pre-built cover map:
     python3 scripts/generate_static_pages.py --cover-map covers.json

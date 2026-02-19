@@ -35,13 +35,13 @@ SPLIT_DIR = os.path.join(BASE_DIR, 'xml_test', 'split')
 ENVS = {
     'test': {
         'url': 'https://docomomo.ojs.com.br/index.php/ojs',
-        'username': 'editor',
-        'password': '***',
+        'username': os.environ.get('OJS_TEST_USER', 'editor'),
+        'password': os.environ.get('OJS_TEST_PASS', ''),
     },
     'prod': {
         'url': 'https://publicacoes.docomomobrasil.com/anais',
-        'username': 'dmacedo',
-        'password': '***',
+        'username': os.environ.get('OJS_PROD_USER', 'dmacedo'),
+        'password': os.environ.get('OJS_PROD_PASS', ''),
     },
 }
 

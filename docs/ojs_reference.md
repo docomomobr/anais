@@ -12,7 +12,7 @@ A API do OJS requer autenticação via **sessão com cookies** (não aceita Basi
 ```bash
 # 1. Login e salvar cookies
 curl -s -c /tmp/ojs_cookies.txt -b /tmp/ojs_cookies.txt \
-  -d "username=dmacedo&password=***" \
+  -d "username=dmacedo&password=$OJS_PASS" \
   "https://publicacoes.docomomobrasil.com/anais/login/signIn" -L -o /dev/null
 
 # 2. Usar cookies nas requisições
@@ -29,7 +29,7 @@ Operações como despublicar e deletar artigos requerem um token CSRF. O token �
 ```bash
 # 1. Login e salvar cookies
 curl -sS -c /tmp/ojs3.txt -b /tmp/ojs3.txt \
-  -d "username=dmacedo&password=***" \
+  -d "username=dmacedo&password=$OJS_PASS" \
   "https://publicacoes.docomomobrasil.com/anais/login/signIn" -L -o /dev/null
 
 # 2. Obter CSRF token de uma página de workflow
@@ -110,7 +110,7 @@ O OJS permite importação em lote de artigos via Native XML Plugin. O processo 
 ```bash
 # 1. Login e salvar cookies
 curl -s -c /tmp/ojs3.txt -b /tmp/ojs3.txt \
-  -d "username=dmacedo&password=***" \
+  -d "username=dmacedo&password=$OJS_PASS" \
   "https://publicacoes.docomomobrasil.com/anais/login/signIn" -L -o /dev/null
 
 # 2. Obter CSRF token de qualquer página autenticada
@@ -190,7 +190,7 @@ done
 import requests, re
 s = requests.Session()
 s.post('https://publicacoes.docomomobrasil.com/anais/login/signIn',
-       data={'username': 'dmacedo', 'password': '***'})
+       data={'username': 'dmacedo', 'password': os.environ['OJS_PASS']})
 
 # 2. Obter formulário da edição para pegar CSRF
 form_resp = s.get('https://publicacoes.docomomobrasil.com/anais/$$$call$$$/grid/issues/back-issue-grid/edit-issue-data?issueId={ISSUE_ID}')

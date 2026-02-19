@@ -48,26 +48,13 @@ regionais/{grupo}/
 
 ## Credenciais de Acesso
 
-### FTP (servidor auxiliar)
-- Host: `ftp.app.docomomobrasil.com`
-- Usuário: `app`
-- Senha: `***`
+Credenciais em `.credentials` (gitignored). Resumo dos serviços:
 
-### WordPress Admin
-- URL: `https://docomomobrasil.com/wp-admin/`
-- Usuário: `admindocomomo`
-- Senha: `***`
-
-### WordPress REST API
-- URL base: `https://docomomobrasil.com/wp-json/wp/v2/`
-- Application Password (claude26): `***`
-- Auth: `admindocomomo:***`
-
-### OJS (Open Journal Systems)
-- URL: `https://publicacoes.docomomobrasil.com/`
-- Journal principal: `/anais`
-- Usuário: `dmacedo`
-- Senha: `***`
+- **FTP**: `ftp.app.docomomobrasil.com` (usuário `app`)
+- **WordPress**: `https://docomomobrasil.com/wp-admin/` (usuário `admindocomomo`)
+- **WordPress REST API**: `https://docomomobrasil.com/wp-json/wp/v2/` (Application Password)
+- **OJS produção**: `https://publicacoes.docomomobrasil.com/anais` (usuário `dmacedo`, papel Editor)
+- **OJS teste**: `docomomo.ojs.com.br/index.php/ojs` (usuário `editor`)
 
 ---
 

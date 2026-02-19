@@ -37,6 +37,7 @@ venv/
 # Credenciais
 *.pem
 .env
+.credentials
 
 # Arquivos de sistema
 .DS_Store

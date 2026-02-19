@@ -22,7 +22,7 @@ log "Files: $(ls "$XML_DIR"/*.xml 2>/dev/null | wc -l)"
 # Login
 log "Logging in as editor..."
 HTTP=$(curl -s -c "$COOKIES" -b "$COOKIES" \
-  -d "username=editor&password=***" \
+  -d "username=editor&password=$OJS_TEST_PASS" \
   "$BASE_URL/login/signIn" -L -o /dev/null -w "%{http_code}")
 log "Login HTTP: $HTTP"
 
@@ -39,7 +39,7 @@ log "CSRF: ${CSRF:0:12}..."
 
 relogin() {
   curl -s -c "$COOKIES" -b "$COOKIES" \
-    -d "username=editor&password=***" \
+    -d "username=editor&password=$OJS_TEST_PASS" \
     "$BASE_URL/login/signIn" -L -o /dev/null
   CSRF=$(curl -s -b "$COOKIES" \
     "$BASE_URL/management/importexport/plugin/NativeImportExportPlugin" \
@@ -127,7 +127,7 @@ log "Total: $TOTAL | Success: $SUCCESS | Failed: $FAIL"
 log ""
 log "Verifying issues..."
 curl -s -c "$COOKIES" -b "$COOKIES" \
-  -d "username=editor&password=***" \
+  -d "username=editor&password=$OJS_TEST_PASS" \
   "$BASE_URL/login/signIn" -L -o /dev/null
 
 curl -s -b "$COOKIES" \

@@ -208,7 +208,7 @@ Spot-check de 2 artigos por issue:
 python3 scripts/generate_static_pages.py \
   --base-url /index.php/ojs \
   --ojs-url https://docomomo.ojs.com.br/index.php/ojs \
-  --ojs-user editor --ojs-pass *** \
+  --ojs-user editor --ojs-pass $OJS_PASS \
   --outdir paginas_estaticas_teste
 ```
 
@@ -278,7 +278,7 @@ Registrado aqui para não repetir o erro.
 ### Upload dos HTMLs
 
 Script Python com `requests.Session()`:
-1. Login (`editor` / `***`)
+1. Login (`editor` / `(ver .credentials)`)
 2. Para cada item (25-30): GET form → extrai CSRF → POST update com HTML
 3. PUT `additionalHomeContent` com landing.html
 
@@ -367,7 +367,7 @@ Script Python com `requests.Session()`:
 3. **Importar**: `python3 scripts/import_ojs.py --env prod --per-article --xml-dir xml_prod` (background)
 4. **Verificar contagens**: comparar artigos por issue com o esperado
 5. **Upload de capas**: PNG via endpoint `edit-issue-data` (21 issues)
-6. **Gerar páginas estáticas**: `python3 scripts/generate_static_pages.py --base-url /anais --ojs-url https://publicacoes.docomomobrasil.com/anais --ojs-user dmacedo --ojs-pass *** --outdir paginas_estaticas`
+6. **Gerar páginas estáticas**: `python3 scripts/generate_static_pages.py --base-url /anais --ojs-url https://publicacoes.docomomobrasil.com/anais --ojs-user dmacedo --ojs-pass $OJS_PASS --outdir paginas_estaticas`
 7. **Upload páginas**: atualizar NMI_TYPE_CUSTOM ou criar novos itens
 8. **Configurar menus**: montar hierarquia do menu primário
 9. **Spot-check**: abrir 2-3 artigos por issue, verificar título/autores/abstract/PDF
@@ -377,7 +377,7 @@ Script Python com `requests.Session()`:
 | Aspecto | Teste | Produção |
 |---------|-------|----------|
 | Base URL | `/index.php/ojs` | `/anais` |
-| Credenciais | `editor` / `***` | `dmacedo` / `***` |
+| Credenciais | `editor` / `(ver .credentials)` | `dmacedo` / `(ver .credentials)` |
 | Journal ID | 1 (path `ojs`) | 1 (path `anais`) |
 | WAF | Cloudflare (bloqueia base64) | Outro provedor (testar) |
 | Nacionais | Não presentes | Já publicados (15 issues, ~1400 arts) |

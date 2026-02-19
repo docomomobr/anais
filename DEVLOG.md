@@ -355,9 +355,9 @@ Uma empresa foi contratada para migrar os anais dos seminários nacionais Docomo
 
 ### Credenciais Disponíveis (em CLAUDE.md)
 
-- WordPress Admin: `admindocomomo` / `***`
-- WordPress REST API: Application Password `***`
-- FTP: `ftp.app.docomomobrasil.com` / `app` / `***`
+- WordPress Admin: `admindocomomo` / `(ver .credentials)`
+- WordPress REST API: Application Password `(ver .credentials)`
+- FTP: `ftp.app.docomomobrasil.com` / `app` / `(ver .credentials)`
 - **Nota**: O tipo "course" (Educaz) NÃO tem endpoint REST API
 
 ### IDs dos Courses (Rascunhos)
@@ -400,7 +400,7 @@ Os PDFs dos artigos estavam vinculados aos Courses (plugin Educaz) de forma espe
 ```bash
 # Passo 1: Login via wp-login.php (HTTP Basic Auth NÃO funciona para previews)
 curl -s -c /tmp/wp_cookies.txt -b /tmp/wp_cookies.txt \
-  -d "log=admindocomomo&pwd=***&wp-submit=Log+In&testcookie=1" \
+  -d "log=admindocomomo&pwd=$WP_PASS&wp-submit=Log+In&testcookie=1" \
   -d "redirect_to=https%3A%2F%2Fdocomomobrasil.com%2Fwp-admin%2F" \
   "https://docomomobrasil.com/wp-login.php" -L > /dev/null
 
@@ -453,11 +453,11 @@ Antes de excluir, verificou-se:
 
 ```bash
 # Buscar IDs dos PDFs na biblioteca
-curl -s -u "admindocomomo:psXb..." \
+curl -s -u "admindocomomo:$WP_APP_PASSWORD" \
   "https://docomomobrasil.com/wp-json/wp/v2/media?per_page=100&mime_type=application/pdf&page={N}"
 
 # Deletar cada PDF
-curl -s -X DELETE -u "admindocomomo:psXb..." \
+curl -s -X DELETE -u "admindocomomo:$WP_APP_PASSWORD" \
   "https://docomomobrasil.com/wp-json/wp/v2/media/{ID}?force=true"
 ```
 

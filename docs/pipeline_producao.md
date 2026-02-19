@@ -265,7 +265,7 @@ import requests, re
 
 BASE = 'https://publicacoes.docomomobrasil.com/anais'
 s = requests.Session()
-s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': '***'})
+s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': os.environ['OJS_PASS']})
 
 # Listar issues
 r = s.get(f'{BASE}/api/v1/issues?count=100')
@@ -305,7 +305,7 @@ for issue in regionais:
 
     # Re-login a cada 4 issues (sessão expira rápido)
     if regionais.index(issue) % 4 == 3:
-        s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': '***'})
+        s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': os.environ['OJS_PASS']})
 ```
 
 ### 4.2. Atualizar descriptions (fichas catalográficas)
@@ -384,7 +384,7 @@ for issue in regionais:
 
     # Re-login a cada 4
     if list(CAPAS.keys()).index(slug) % 4 == 3:
-        s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': '***'})
+        s.post(f'{BASE}/login/signIn', data={'username': 'dmacedo', 'password': os.environ['OJS_PASS']})
 ```
 
 **OJS não aceita SVG** — usar sempre PNG. Para seminários que só têm SVG, converter antes: `inkscape --export-type=png capa.svg`.
@@ -418,7 +418,7 @@ Se faltar alguma, a Fase 5 vai gerar placeholders no lugar de capas reais — N�
 python3 scripts/generate_static_pages.py \
   --base-url /anais \
   --ojs-url https://publicacoes.docomomobrasil.com/anais \
-  --ojs-user dmacedo --ojs-pass *** \
+  --ojs-user dmacedo --ojs-pass $OJS_PASS \
   --outdir paginas_estaticas
 ```
 
@@ -803,7 +803,7 @@ Se o provedor de produção também bloquear uploads com base64 (como o Cloudfla
 |---------|-------|----------|
 | Base URL | `docomomo.ojs.com.br/index.php/ojs` | `publicacoes.docomomobrasil.com/anais` |
 | `--base-url` | `/index.php/ojs` | `/anais` |
-| Credenciais | `editor` / `***` | `dmacedo` / `***` |
+| Credenciais | `editor` / `(ver .credentials)` | `dmacedo` / `(ver .credentials)` |
 | `--env` | `test` | `prod` |
 | WAF | Cloudflare (bloqueia base64 > 1.4 MB) | Outro provedor (testar) |
 | Nacionais | Ausentes | 15 issues publicadas (não tocar) |
