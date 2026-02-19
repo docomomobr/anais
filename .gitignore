@@ -18,6 +18,9 @@
 *.bmp
 *.svg
 
+# Exceção: imagens do site Hugo (necessárias no repo público)
+!site/static/img/**
+
 # Vídeo
 *.mp4
 
