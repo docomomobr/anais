@@ -4,6 +4,34 @@ Registro de aprendizados e decisões técnicas durante a migração.
 
 ---
 
+## 2026-02-19 - Repo público + GitHub Pages + sdnne10 rebuild
+
+### Repo tornado público
+- Credenciais removidas de todos os arquivos rastreados (CLAUDE.md, scripts, docs, DEVLOG)
+- Credenciais movidas para `.credentials` (gitignored)
+- Scripts (`import_ojs.py`, `import_batches.py`, etc.) agora leem de variáveis de ambiente
+- Docs: senhas substituídas por placeholders (`$OJS_PASS`, `(ver .credentials)`)
+- Histórico git reescrito com `git filter-repo` — zero credenciais em commits antigos
+- Force push e repo tornado público
+
+### GitHub Pages — placeholders
+- **anais.docomomobrasil.com**: branch `gh-pages` no `docomomobr/anais`
+- **livros.docomomobrasil.com**: repo `docomomobr/livros` (branch `main`)
+- Ambos com página placeholder no estilo do site Hugo (fonte Jost, verde #399400, logo Docomomo)
+- CNAMEs configurados; DNS pendente (provedor Labasoft)
+- Exceção adicionada ao `.gitignore` para `site/static/img/**`
+
+### sdnne10 — rebuild completo via pdfplumber
+- Campos textuais (abstract, keywords, references em pt/en/es) reconstruídos dos 85 PDFs
+- pdfplumber com crop por coordenada Y (header y<75 em págs 2+, footer y≥770)
+- Eliminou contaminação Even3 (cabeçalhos/rodapés misturados nos textos)
+- Resultado: abstract 85/85, abstract_en 82/85, abstract_es 84/85, keywords 85/85 (3 idiomas), references 82/85
+- Textos limpos salvos em `regionais/nne/sdnne10/textos/` para consulta na revisão
+- Correções pontuais: keywords comma-separated (041), prefixo junk (077), keywords truncados (009), keywords_es mesclados (009, 071)
+- YAML pronto para revisão humana
+
+---
+
 ## 2026-01-27 - Seminários nacionais → Momopedia BR
 
 Os dados dos seminários nacionais (`nacionais/sdbr01.yaml` a

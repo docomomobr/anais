@@ -136,3 +136,29 @@ Todos importados no OJS teste. Importação na produção pendente.
 ### Pendências
 - Importação dos 23 regionais na produção (ver `docs/pipeline_producao.md`)
 - DOIs via ABEC/Crossref (DOI por edição, não por artigo)
+
+---
+
+## GitHub e Sites Estáticos
+
+### Repositório
+- **GitHub**: `https://github.com/docomomobr/anais` (público)
+- Conta `docomomobr` (usuário, plano free)
+- Token PAT em `.env` (gitignored)
+
+### GitHub Pages — Sites estáticos
+
+| Site | Domínio | Repo | Branch | Status |
+|------|---------|------|--------|--------|
+| Anais | `anais.docomomobrasil.com` | `docomomobr/anais` | `gh-pages` | placeholder |
+| Livros | `livros.docomomobrasil.com` | `docomomobr/livros` | `main` | placeholder |
+
+- **DNS**: CNAMEs em `docomomobrasil.com` apontando para `docomomobr.github.io` (provedor Labasoft, pendente criação)
+- **Site Hugo**: `site/` (config, layouts, static). Conteúdo gerado (`site/content/`, `site/public/`) é gitignored
+- **Imagens do site**: exceção no `.gitignore` para `site/static/img/**`
+
+### Credenciais e segurança
+- Credenciais removidas do repo e do histórico git (2026-02-19)
+- Senhas em `.credentials` e `.env` (ambos gitignored)
+- Scripts leem credenciais de variáveis de ambiente (`OJS_TEST_PASS`, `OJS_PROD_PASS`, etc.)
+- Docs usam placeholders (`$OJS_PASS`, `(ver .credentials)`)
