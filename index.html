@@ -3,23 +3,59 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Anais Docomomo Brasil</title>
+  <title>Anais — Docomomo Brasil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: Georgia, 'Times New Roman', serif; background: #fafaf8; color: #333; display: flex; align-items: center; justify-content: center; min-height: 100vh; }
-    .container { text-align: center; max-width: 600px; padding: 2rem; }
-    h1 { font-size: 1.8rem; font-weight: normal; margin-bottom: 0.5rem; letter-spacing: 0.02em; }
-    h2 { font-size: 1.1rem; font-weight: normal; color: #666; margin-bottom: 2rem; }
-    p { font-size: 0.95rem; color: #888; line-height: 1.6; }
-    a { color: #555; }
+    body {
+      font-family: Jost, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #fff; color: #0A0B0C;
+      display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh;
+    }
+    header {
+      border-bottom: 3px solid #399400;
+      width: 100%; max-width: 52rem;
+      padding: 1.5rem; display: flex; align-items: center; gap: 1rem;
+    }
+    header img { height: 48px; }
+    header .title { font-size: 1.9rem; font-weight: 600; color: #0A0B0C; }
+    main {
+      flex: 1; display: flex; align-items: center; justify-content: center;
+      width: 100%; max-width: 52rem; padding: 3rem 1.5rem;
+    }
+    .card {
+      background: #f4f8f0; border-left: 4px solid #399400;
+      padding: 2rem 2.5rem; max-width: 480px; width: 100%;
+    }
+    .card h1 { font-size: 1.35rem; font-weight: 600; margin-bottom: 0.5rem; }
+    .card h2 { font-size: 1rem; font-weight: 400; color: #6b7280; margin-bottom: 1.5rem; }
+    .card p { font-size: 0.95rem; color: #374151; line-height: 1.6; }
+    .card a { color: #399400; text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+    footer {
+      width: 100%; max-width: 52rem; padding: 1.5rem;
+      border-top: 1px solid #d1d5db; text-align: center;
+      font-size: 0.8125rem; color: #6b7280;
+    }
+    footer a { color: #399400; text-decoration: none; }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Anais Docomomo Brasil</h1>
-    <h2>Seminários nacionais e regionais</h2>
-    <p>Em breve.</p>
-    <p style="margin-top: 2rem;"><a href="https://docomomobrasil.com">docomomobrasil.com</a></p>
-  </div>
+  <header>
+    <img src="https://raw.githubusercontent.com/docomomobr/anais/main/site/static/img/logo-docomomo-brasil.png" alt="Docomomo Brasil">
+    <span class="title">anais</span>
+  </header>
+  <main>
+    <div class="card">
+      <h1>Anais Docomomo Brasil</h1>
+      <h2>Seminarios nacionais e regionais</h2>
+      <p>Em breve.</p>
+      <p style="margin-top: 1.5rem;"><a href="https://docomomobrasil.com">docomomobrasil.com</a></p>
+    </div>
+  </main>
+  <footer>
+    <a href="https://docomomobrasil.com">Docomomo Brasil</a>
+  </footer>
 </body>
 </html>
