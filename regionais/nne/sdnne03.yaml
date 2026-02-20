@@ -1,8 +1,8 @@
 issue:
   slug: sdnne03
-  title: '3º Seminário Docomomo Norte/Nordeste, João Pessoa, 2010'
+  title: 3º Seminário Docomomo Norte/Nordeste, João Pessoa, 2010
   subtitle: 'Morte e vida severinas: das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil'
-  location: 'João Pessoa, PB'
+  location: João Pessoa, PB
   year: 2010
   volume: 3
   number: 3
@@ -10,24 +10,23 @@ issue:
   date_published: '2010-05-16'
   sections:
   - title: Seção 1
-    abbrev: 'S1-sdnne03'
+    abbrev: S1-sdnne03
   - title: Seção 2
-    abbrev: 'S2-sdnne03'
+    abbrev: S2-sdnne03
   - title: Seção 3
-    abbrev: 'S3-sdnne03'
+    abbrev: S3-sdnne03
   - title: Seção 4
-    abbrev: 'S4-sdnne03'
+    abbrev: S4-sdnne03
 articles:
-
-- id: 'sdnne03-001'
+- id: sdnne03-001
   title: As recomendações internacionais e a Arquitetura Moderna
   subtitle: limitações e possibilidades de aplicação nas ações de conservação e restauração
   authors:
   - givenname: Flaviana
     familyname: Lira
-    email: 'lira@exemplo.com'
+    email: lira@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-2259-4885'
+    orcid: 0000-0003-2259-4885
     bio: null
     country: BR
     primary_contact: true
@@ -50,28 +49,27 @@ articles:
   - 'CARBONARA, Giovanni; CAMPANELLI, Alessandro Pergoli. Il restauro delle facciate: Grattacielo Pirelli. Recupero e conservazione, n. 52, p. 44-55, 2003.'
   - 'CHOAY, F. A alegoria do patrimônio. Tradução de Luciano Vieira Machado. São Paulo: Estação Liberdade: Editora UNESP, 2001.'
   - 'CURY, Isabelle. (Org.). Cartas Patrimoniais. Brasília: IPHAN, 2000.'
-  - 'GREMENTIERE, Fabio. The preservation of nineteenth- and twentieth-century heritage. In Oers,'
+  - GREMENTIERE, Fabio. The preservation of nineteenth- and twentieth-century heritage. In Oers,
   - 'R.V., Haraguchi, S., editors. World Heritage papers, 5 Identification and documentation of modern heritage. Paris: UNESCO/ WHC, 2003.'
   - 'JOKILEHTO, Jukka. Conceitos e ideias sobre conservação. In ZANCHETI, S.M. ; JOKILEHTO, j. (org.). Gestão do Patrimônio Cultural Integrado. CECI- Ed. da Universidade Federal de Pernambuco, 2002.'
   - 'JOKILEHTO, Jukka. Continuity and Change in Recent Heritage. In Oers, R.V., Haraguchi, S., editors. World Heritage papers, 5 Identification and documentation of modern heritage. Paris: UNESCO/ WHC, 2003.'
   - 'LIRA, Flaviana Barreto. Patrimônio cultural e autenticidade: montagem de um sistema de indicadores para o monitoramento. Tese (doutorado) – Universidade Federal de Pernambuco.'
-  - 'CAC. Desenvolvimento Urbano, 2009.'
+  - CAC. Desenvolvimento Urbano, 2009.
   - 'LEATHERBARROW, David, Mostafavi, Mohsen. On Weathering: The Life of Buildings in Time. Cambridge: The MIT Press, 1997.'
   - 'MACDONALD, Susan. 20th century Heritage: Recognition, Protection and Practical Challenges. In ICOMOS World Report 2002-2003 on monuments and sites in danger. Paris: ICOMOS, 2003.'
   - 'ROWNEY, Barry. Charters and the ethics of conservation - a cross-cultural perspective. Thesis submitted in fulfillment of the requirements of the degree of Doctor of Philosophy. The University of Adelaide, School of Architecture, Landscape Architecture and Urban Design, Centre for Asian and Middle Eastern Architecture (CAMEA). Março, 2004. Disponível em: <http://thesis.library.adelaide.edu.au/public/adt-SUA20050202.180441/index.html>. Acessado em. 11 set. 2006.'
   - 'SALVO, Simona. Il restauro del grattacielo Pirelli: la risposta italiana a una questione internazionale. Arkos: scienza e restauro dell''architettura, Vol. 6, n. 10, p. 64-71, 2005. VIÑAS, Salvador Muñoz. Teoria contemporanea de la restauración. 1. ed. Madrid: Editorial Sintesis, 2004. Zancheti, Silvio. A teoria contemporânea da conservação e a arquitetura moderna. In Curso Latino Americano sobre a Conservação da AM - MARC-AL. Olinda: CECI, 2009.'
-  locale: 'pt-BR'
-  file: 'sdnne03-001.pdf'
+  locale: pt-BR
+  file: sdnne03-001.pdf
   pages_count: 18
   pages: null
-
-- id: 'sdnne03-002'
+- id: sdnne03-002
   title: Conservação da Arquitetura Moderna
   subtitle: plano de conservação para o edifício sede da Companhia Elétrica de Pernambuco
   authors:
   - givenname: Barbara Cortizo de
     familyname: Aguiar
-    email: 'aguiar@exemplo.com'
+    email: aguiar@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -87,7 +85,7 @@ articles:
   - Conservation
   - Modern Architecture
   references:
-  - 'Australia ICOMOS. The Burra Charter. 1999. Disponível em http://www.icomos.org/australia/burra.html'
+  - Australia ICOMOS. The Burra Charter. 1999. Disponível em http://www.icomos.org/australia/burra.html
   - 'CELPE. Energia em Pernambuco. Disponível em <http://www.celpe.com.br/ARQUIVOS_EXTERNOS/Historia_celpe;010101;20060818.pdf>, acesso em 15 jun 2009.'
   - 'LARSEN. Knut Einar (org.). Nara Conference on Authenticity in Relation to the World Heritage Convention. Trondheim: Tapir, 1995.'
   - 'MOREIRA, Fernando Diniz; HOLANDA, Ana Carolina. Arte e ética dos materiais na obra de Vital Pessoa de Melo, 1968 – 1982. In: 2º Seminário DOCOMOMO N-NE, Faculdade de Arquitetura da Universidade Federal da Bahia, Salvador, 04 a 07 de junho de 2008. MUÑOZ VIÑAS Salvador. Contemporary Theory of Conservation. Oxford : Butterworth- Heinemann, 2005.'
@@ -95,25 +93,24 @@ articles:
   - 'UNESCO. The Operational Guidelines for the Implementation of the World Heritage Convention. World Heritage Centre. 2008. Disponível em http://whc.unesco.org/archive/opguide08-en.pdf.'
   - 'ZANCHETI, S. M., Hidaka, L. T. F. 2009, A declaração de significância de exemplares da arquitetura moderna. I Curso Latino Americano sobre a Conservação da Arquitetura Moderna – MARC/AL, CECI-ICCROM. 2009.'
   - 'ZANCHETI, S. M.; Hidaka, L. T. F.; RIBEIRO, C., AGUIAR, B. C. Judgment and validation in the Burra Charter process: introducing feedback in assessing the cultural significance of heritage. Olinda: City & Time, 2009. Disponível em <http://www.ct.ceci-b.org>, acesso em 19 nov. 2009.'
-  locale: 'pt-BR'
-  file: 'sdnne03-002.pdf'
+  locale: pt-BR
+  file: sdnne03-002.pdf
   pages_count: 14
   pages: null
-
-- id: 'sdnne03-003'
+- id: sdnne03-003
   title: Considerações sobre a impossibilidade de sonhar diante de ruínas recentes
   authors:
   - givenname: Ruth Verde
     familyname: Zein
-    email: 'rvzein@gmail.com'
+    email: rvzein@gmail.com
     affiliation: ''
-    orcid: '0000-0003-0923-4914'
+    orcid: 0000-0003-0923-4914
     bio: null
     country: BR
     primary_contact: true
   - givenname: Cecília Rodrigues dos
     familyname: Santos
-    email: 'santos@exemplo.com'
+    email: santos@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -130,43 +127,42 @@ articles:
   - Modern Movement Architecture Conservation
   references:
   - 'BEGIN, Richard. "L’époque de la survivance : de la mémoire des ruines". Revue d''études cinématographiques / Cinémas: Journal of Film Studies, vol. 15, n° 2-3, 2005. Consultado em : http://www.erudit.org/documentation/eruditPolitiqueUtilisation.pdf'
-  - 'BENJAMIN, Walter. Obras escolhidas III. São Paulo, Brasiliense, 1989.'
-  - 'BONNET, Jean-Claude. Diderot - Textes et débats. Paris, Librairie Générale Française, 1984.'
+  - BENJAMIN, Walter. Obras escolhidas III. São Paulo, Brasiliense, 1989.
+  - BONNET, Jean-Claude. Diderot - Textes et débats. Paris, Librairie Générale Française, 1984.
   - 'CHAPOUTOT, Johan. "Comment meurt um empire: le nazisme, l´antiquité et le mythe". Consultado em : http://pagantroop.over-blog.com/article-comment-meurt-un-empire-le-nazisme-l- antiquite-et-le-mythe-2-41251300.html'
   - 'COMAS, Carlos Eduardo Dias, SANTOS, Cecilia Helena Godoy Rodrigues dos, ZEIN, Ruth Verde. "Beyond Oscar Niemeyer: authorities, remodellings, paradoxes and peculiarities in the preservation of Modern buildings in Brazi."l In: 10th International Docomomo Conference The Challenge of Change, 2008, Rotterdan - Holanda. Proceedings of the 10th International Docomomo Conference - The Challenge of Change: dealing with the legacy of Modern Movement.. Delft University Press, Delft, Holand, 2008. v.v.1. p.103 - 108'
-  - 'FRY, Maxawell. A arte da era da máquina. São Paulo, Perspectiva, 1969.'
+  - FRY, Maxawell. A arte da era da máquina. São Paulo, Perspectiva, 1969.
   - 'HABIB, André. "Ruines, décombres, chantiers, archives : l’évolution d’une figure dans le cinéma en Allemagne (1946-1993)". Consultado em : http://www.erudit.org/revue/cine/2007/v18/n1/017845ar.html'
-  - 'JOKILEHTO, Jukka Ilmari. A History of Architectural Conservation. Oxford, Butterworth- Heinemann, 1999.'
+  - JOKILEHTO, Jukka Ilmari. A History of Architectural Conservation. Oxford, Butterworth- Heinemann, 1999.
   - 'KÜHL, Beatriz Mugayar. "As transformações na maneira de se intervir na arquitetura do passado entre os séculos 15 e 18: o período de formação da restauração". Sinopses, 2001, n. 36.'
-  - '___________________. Arquitetura do Ferro e Arquitetura Ferroviária em São Paulo: Reflexões sobre a sua Preservação. São Paulo, Ateliê/FAPESP/SEC, 1998.'
-  - '___________________. "História e Ética na Conservação e na Restauração de Monumentos Históricos". Revista CPC, 2005, v. 1., n. 1. Consultado em : www.usp/cpc/v1'
-  - 'LOUPIAC, Claude. Un artiste dans son temps - Auguste Perret. Paris, SCEREN - CNDP, 2008.'
-  - 'MARTINEZ, Ascension Hernandez. La clonación Arquitectónica. Madrid, Edciones Siruela, 2007.'
+  - 'KÜHL, Beatriz Mugayar. Arquitetura do Ferro e Arquitetura Ferroviária em São Paulo: Reflexões sobre a sua Preservação. São Paulo, Ateliê/FAPESP/SEC, 1998.'
+  - 'KÜHL, Beatriz Mugayar. "História e Ética na Conservação e na Restauração de Monumentos Históricos". Revista CPC, 2005, v. 1., n. 1. Consultado em : www.usp/cpc/v1'
+  - LOUPIAC, Claude. Un artiste dans son temps - Auguste Perret. Paris, SCEREN - CNDP, 2008.
+  - MARTINEZ, Ascension Hernandez. La clonación Arquitectónica. Madrid, Edciones Siruela, 2007.
   - 'RUSKIN, John. A lâmpada da memória. São Paulo, Ateliê, 2009. VIOLLET-LE-DUC, Eugène Emmanuel. Entretiens sur l''architecture. Paris, Morel, 1863/1872.'
-  - 'RUSKIN, John. Restauração. São Paulo, Ateliê, 2000 .'
+  - RUSKIN, John. Restauração. São Paulo, Ateliê, 2000 .
   - 'LAURENT, Christophe. "Quand Auguste Perret définissait l''architecture moderne au XXe siècle Laurent. In: Revue de l''Art, 1998, n°1. Consultado em: http://www.persee.fr'
   - 'LEATHEBARROW, David. Architecture oriented otherwise. New York: Princeton Architectural Press, 2009.'
   - 'MATOS, Olga. "Notas soltas sobre a ''descoberta'' da Arqueologia no século XIX". Praxis Archaeologica - Revista Electrónica de Teoria, Metodologia e Política da Arqueologia, Associação Profissional de Arqueólogos, 2007. Consultado em: http://www.praxisarchaeologica.org/issues/2007_7596.html'
-  - 'PEDROSA, Mario. Dos Murais De Portinari Aos Espaços De Brasília. São Paulo, Perspectiva, 1981.'
+  - PEDROSA, Mario. Dos Murais De Portinari Aos Espaços De Brasília. São Paulo, Perspectiva, 1981.
   - 'PEREIRA, Margareth Aparecida da Silva, SANTOS, Cecilia Helena Godoy Rodrigues dos "Le Corbusier: History as mesure and Poetic Matter". In: Le Corbusier : architecture, urbanism and theory, 2009, Atlanta - EUA. Le Corbusier - the annual dean´s symposium 2009. Atlanta - EUA: Southern Polytechnic University - Olympic Printing, 2009. p.87 - 94'
   - 'SANTOS, Cecilia Helena Godoy Rodrigues dos. "Opus Caementicius: da insuspeita sutileza da pedra bruta".; In: II Seminário DOCOMOMO SUL, 2008, Porto Alegre - RGRS. Plasticidade e Industralização na Arquitetura do Cone Sul Americano 1930/70. Porto Alegre: PROPAR - UFRGS, 2008.'
   - 'SANTOS, Cecilia Helena Godoy Rodrigues dos. "Conservação no DOCOMOMO: modernidade em busca de preservação ou preservação em busca de modernidade?". In: VI DOCOMOMO Brasil, 2005, Niterói. Moderno e Nacional. Niteroi: EduFF, 2005. p.127 - 139'
   - 'SANTOS, Cecilia Helena Godoy Rodrigues dos. "Inventário de perdas". In: I Seminário DOCOMOMO - Grupo de Trabalho do Vale do Paraíba, 1998, São José dos Campos , 1998.'
   - 'SIMONNET, C. "Le béton éclatant - Splendeurs et ruines". Consultado em : http://www.sartonchair.ugent.be/index.php?id=237&type=file'
-  - 'STAROBINSKI, Jean. A invenção da liberdade. São Paulo, UNESP, 1994.'
+  - STAROBINSKI, Jean. A invenção da liberdade. São Paulo, UNESP, 1994.
   - 'ZEIN, R. V. ; MARCO, A. R. "Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna". Arquitextos (São Paulo. Online), v. 098, 2008.'
   - 'ZEIN, R. V. "1950 ve 70''lerin Öteki Brezilya Modernlikleri". BETONART CONCRETE AND'
-  - 'ARCHITECTURE, v. 24, 2009.'
+  - ARCHITECTURE, v. 24, 2009.
   - 'ARCHITECTURE, v. "Roundtable discussion". In: Brillembourg, Carlos. (Org.). Latin American Architecture 1929-1960, contemporary reflections. New York: The Monacelli Press, 2004, v., p. 136-142.'
   - 'ARCHITECTURE, v. "Concretismo, concretão, neo-concretismo: algumas considerações e duas casas de Vilanova Artigas". In: 8ª seminario docomomo brasil, 2009, Rio de Janeiro. Anais do 8º Seminário Docomomo Brasil, 2009. v. CD-ROM.'
-  - 'VITRUVIO. Tratado de Arquitetura. São Paulo, Martins Fontes, 2006.'
+  - VITRUVIO. Tratado de Arquitetura. São Paulo, Martins Fontes, 2006.
   - 'http://www.greatbuildings.com/buildings/Notre_Dame_du_Raincy.html (Peter Collins. Concrete: The Vision of a New Architecture, A Study of Auguste Perret and his Precursors by Peter Collins)'
-  locale: 'pt-BR'
-  file: 'sdnne03-003.pdf'
+  locale: pt-BR
+  file: sdnne03-003.pdf
   pages_count: 9
   pages: null
-
-- id: 'sdnne03-004'
+- id: sdnne03-004
   title: Contribuições para a preservação do Patrimônio Moderno
   authors:
   - givenname: Mércia Parente
@@ -193,26 +189,25 @@ articles:
   - 'PEREIRA, Fúlvio Teixeira de Barros. Difusão da Arquitetura Moderna na Cidade de João Pessoa (1956-1971). 2008. Dissertação de mestrado em Arquitetura e Urbanismo. Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2008. PIÑON, Hélio. Teoria do projeto .Porto Alegre: Livraria do Arquiteto, 2006. STRÖHER, Ronaldo Azambuja. A fachada frontal da Villa Stein: um exorcismo corbusiano. Vitruvius, out. 2005, Arquitextos 065. Disponível em: <http://www.vitruvius.com.br/arquitextos.asp>. Acesso: 24 fev. 2010.'
   - 'TINEM, Nelci. “Desafio da preservação da arquitetura moderna: o caso da Paraíba ”. Cadernos PPGA-AU/FAUFBA. Salvador, 2010.'
   - 'WOLF, José. Metamorfose: memória e reconversão. Arquitetura & Urbanismo, São Paulo, Pini, ano 22, n.158, p 36-45, maio. 2007. Ibid., p.43.'
-  locale: 'pt-BR'
-  file: 'sdnne03-004.pdf'
+  locale: pt-BR
+  file: sdnne03-004.pdf
   pages_count: 24
   pages: null
-
-- id: 'sdnne03-005'
+- id: sdnne03-005
   title: Decrépitos espaços de fantasias
   subtitle: a memória dos clubes sociais da cidade de João Pessoa
   authors:
   - givenname: Maria Berthilde Moura
     familyname: Filha
-    email: 'mourafilha@exemplo.com'
+    email: mourafilha@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-7409-102X'
+    orcid: 0000-0001-7409-102X
     bio: null
     country: BR
     primary_contact: true
   - givenname: Maria Helena de Andrade
     familyname: Azevedo
-    email: 'azevedo@exemplo.com'
+    email: azevedo@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -242,19 +237,18 @@ articles:
   - 'PEREIRA, Fúlvio Teixeira de Barros. Difusão da Arquitetura Moderna na cidade de João Pessoa (1956-1974). São Carlos: Escola de Engenharia de São Carlos; Universidade de São Paulo, 2008. Dissertação de mestrado em Arquitetura e Urbanismo.'
   - 'ROSSI, Aldo. Arquitetura da Cidade. São Paulo: Martins Fontes, 1995.'
   - 'TINEM, Nelci. Desafios da Preservação da arquitetura moderna: o caso da Paraíba. Cadernos PPGAU/FAUFBA, Salvador, 2010. (no prelo).'
-  locale: 'pt-BR'
-  file: 'sdnne03-005.pdf'
+  locale: pt-BR
+  file: sdnne03-005.pdf
   pages_count: 16
   pages: null
-
-- id: 'sdnne03-006'
-  title: O IPHAN entre Ecletismo e Modernismo no edifício Luciano Costa
+- id: sdnne03-006
+  title: O IPHAN entre Ecletismo e Modernismo no Edifício Luciano Costa
   authors:
   - givenname: Renata
     familyname: Cabral
-    email: 'cabral@exemplo.com'
+    email: cabral@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-6482-0233'
+    orcid: 0000-0001-6482-0233
     bio: null
     country: BR
     primary_contact: true
@@ -279,44 +273,43 @@ articles:
   - 'CAVALCANTI, L. Modernistas na repartição. Rio de Janeiro: Editora UFRJ/ Minc-IPHAN, 2000.'
   - 'FONSECA, M. C. L. O patrimônio em processo: trajetória da política federal de preservação no Brasil. Rio de Janeiro: Ed. UFRJ/ MINC/ IPHAN, 1997.'
   - 'GOODWIN, P.L. Brazil Builds. Architecture New and Old 1652-1942. 1ª Ed. New York: Museum of Modern Art, 1943.'
-  - 'GOMES, G. Delfim Amorim. Arquitetura & Urbanismo, São Paulo, p.71-79, dez. 1994 - jan.1995.'
-  - 'MARTINS, C. A. F. “Hay algo de irracional...”. Block, Buenos Aires, n.4, p.8-22, diciembre 1999.'
+  - GOMES, G. Delfim Amorim. Arquitetura & Urbanismo, São Paulo, p.71-79, dez. 1994 - jan.1995.
+  - MARTINS, C. A. F. “Hay algo de irracional...”. Block, Buenos Aires, n.4, p.8-22, diciembre 1999.
   - 'MICELI, S. SPHAN: refrigério da cultura oficial. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n.22, p.44-47, 1987.'
   - 'MINDLIN, H. E. Arquitetura Moderna no Brasil. Tradução por Paulo Pedreira. 2ª Ed. Rio de Janeiro: Aeroplano Editora/IPHAN, 2000.'
   - 'MOTTA, L. A SPHAN em Ouro Preto: uma história de conceitos e critérios. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n.22, p. 108-122, 1987.'
-  - 'NOGUEIRA, A. O florescer do Bairro do Recife. Diário de Pernambuco, Recife, 22 março 1998. Caderno Vida Urbana, p. 52.'
+  - NOGUEIRA, A. O florescer do Bairro do Recife. Diário de Pernambuco, Recife, 22 março 1998. Caderno Vida Urbana, p. 52.
   - 'PESSÔA, J. (org.). Lucio Costa: Documentos de Trabalho. Rio de Janeiro: IPHAN, 1999. A conclusão do projeto data de dezembro 1959 e ele foi aprovado pela Prefeitura Municipal do Recife em janeiro de 1960 (AMORIM, 1999). O Bairro do Recife foi tombado pelo IPHAN por meio da Portaria n. 263 de 23 de julho de 1998. Publicação no Diário Oficial da União em 24 de julho de 1998. Cf. URB-Recife, Ofício 479 de 13 de setembro de 1999. ETBR/PCR/SEPLAM/URB-Recife/DPE/DPU. Proposta de Tombamento do Núcleo Original da Cidade do Recife, Ficha Cadastral: Imóveis Destaque. ID-14.'
-  - 'IPHAN, 5ª SR, Informação n.22/SK/99 de 16 de setembro de 1999.'
+  - IPHAN, 5ª SR, Informação n.22/SK/99 de 16 de setembro de 1999.
   - 'IPHAN, 5ª SR, Ofício n.260/99/5ª SR/IPHAN/MinC de 23 de setembro de 1999. Procedimento de Investigação 132000PIPO – Danos ao Patrimônio Histórico-Cultural.'
-  - 'MP, Termo de Declaração, 13_TD 006/2001. Ibidem.'
-  - 'FUNDARPE, Ofício Pres. 102/2001.'
+  - MP, Termo de Declaração, 13_TD 006/2001. Ibidem.
+  - FUNDARPE, Ofício Pres. 102/2001.
   - 'DEPROT, Parecer n.34/01, encaminhado pelo Ofício 158/01 de 26 de abril de 2001. Participaram: Milton Botler – Fundarpe; Ulisses Pernambucano de Melo – Fundarpe; Betânia Araújo – Fundarpe; Rosa Bomfim – Fundarpe; Neide Fernandes – Fundarpe; Carmem Murano – Fundarpe; Luis Moriel – Fundarpe; Letícia Bandeira de Mello – IPHAN; Cremilda Albuquerque – IPHAN; William Bernardo – ERBR (Escritório de Revitalização do Bairro do Recife); Isabel Rocha – ERBR; Aida Gusmão – ERBR; Sandra Spinelli – ERBR; José Nilson – DPSH (Departamento de Preservação do Sítios Históricos/URB Recife; Paula Gonçalves – Porto Digital; Ricardo Coelho – Ministério Público de Pernambuco; Geraldo Magela – Ministério Público de Pernambuco; Antônio Aristóteles Bastos – IAB; Antônio Carlos Maia – CREA; Moisés Andrade – Arquiteto; Mônica Raposo – Arquiteta; Fernando Borba – Arquiteto; Ronaldo Lamour – Arquiteto; Paula Peixoto – Arquiteta.'
-  - 'DPH, Ofício no 152/2001.'
-  - 'IPHAN, DEPROT, Parecer 072/2001, fl.3. Ibid., fl.2. Ibidem. Ibidem.'
+  - DPH, Ofício no 152/2001.
+  - IPHAN, DEPROT, Parecer 072/2001, fl.3. Ibid., fl.2. Ibidem. Ibidem.
   - 'IPHAN, 5ª SR, Ofício 144/2002 de 17 de abril de 2002. Entrevista concedida a Renata Cabral em 16 de julho de 2009 – gravada.'
-  - 'IPHAN, 5ª SR, Ofício 325/2003 de 12 de agosto de 2003.'
+  - IPHAN, 5ª SR, Ofício 325/2003 de 12 de agosto de 2003.
   - 'IPHAN, 5ª SR, nformação 17/CMA/2004 de 13 de agosto de 2004. “Ata de reunião da comissão técnica para análise conjunta de processos, realizada nessa 5ª regional do IPHAN, em 12 de abril de 2004, em Recife, Estado de Pernambuco”. Ibidem.'
-  - 'IPHAN, 5ª SR, Informação n.19/CMA/2004 de 19 de agosto de 2004.'
+  - IPHAN, 5ª SR, Informação n.19/CMA/2004 de 19 de agosto de 2004.
   - 'IPHAN, 5ª SR, Ofício 970/2006 de 22 de novembro de 2006. São 4 os ofícios enviados ao DEPROT/IPHAN solicitando estudo sobre o caso: 19 de março de 2001 (Ofício 046), 13 de julho de 2001 (ofício 152), 16 de agosto de 2001 (Ofício 201) e 28 de agosto de 2001 (Ofício 244). Em fevereiro de 2005, o Ministério Público de Pernambuco demonstra não estar ciente da situação atual. Envia ofício à FUNDARPE (Ofício 186/2005/13ª P.J.) requisitando informações sobre “o posicionamento adotado acerca da conveniência da realização da interdição arquitetônica na fachada do Edifício Luciano Costa”, requerimento esse repetido em 7 de marco de 2005 (Ofício 277/2005/13ª P.J.). Esse é o último documento que consta no procedimento de investigação.'
-  locale: 'pt-BR'
-  file: 'sdnne03-006.pdf'
+  locale: pt-BR
+  file: sdnne03-006.pdf
   pages_count: 16
   pages: null
-
-- id: 'sdnne03-007'
-  title: 'Para exemplares de uma Arquitetura antiga, uma análise especial, para a moderna, a lei'
+- id: sdnne03-007
+  title: Para exemplares de uma Arquitetura antiga, uma análise especial, para a moderna, a lei
   authors:
   - givenname: Maria
     familyname: Reynaldo
-    email: 'reynaldo@exemplo.com'
+    email: reynaldo@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-4202-8151'
+    orcid: 0000-0003-4202-8151
     bio: null
     country: BR
     primary_contact: true
   - givenname: Amélia
     familyname: Reynaldo
-    email: 'reynaldo.2@exemplo.com'
+    email: reynaldo.2@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -334,13 +327,17 @@ articles:
   - Modern Architecture
   references:
   - 'Associação Brasileira de Normas Técnicas. ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Rio de Janeiro: ABNT, 2004.'
-  - 'COSTA, Lucio. Um guia para a defesa do patrimônio. Divisão de Estudos e Tombamentos. Rio de Janeiro: DPHAN, 1949. Decreto nº25 de 30 de novembro de 1937. Disponível: <h//WWW.iphan.gov.br> Acesso em 18 fev 2010, 13:22:30. Prefeitura do Recife. Decreto nº17.524/2008. Recife: 2008. Prefeitura do Recife. Lei nº16.176. Lei de Uso e Ocupação do Solo da Cidade do Recife. Recife: 1996. Prefeitura do Recife. Lei nº16.292. Lei de Edificações e Instalações na Cidade do Recife. Recife: 1997. Prefeitura do Recife. Lei nº17.511/2008. “Promove a revisão do Plano Diretor do Município do Recife. Recife: Secretaria de Planejamento Participativo, Obras e Desenvolvimento Urbano e Ambiental, 2008.'
-  locale: 'pt-BR'
-  file: 'sdnne03-007.pdf'
+  - 'COSTA, Lucio. Um guia para a defesa do patrimônio. Divisão de Estudos e Tombamentos. Rio de Janeiro: DPHAN, 1949.'
+  - 'Decreto nº25 de 30 de novembro de 1937. Disponível: <h//WWW.iphan.gov.br> Acesso em 18 fev 2010, 13:22:30.'
+  - 'Prefeitura do Recife. Decreto nº17.524/2008. Recife: 2008.'
+  - 'Prefeitura do Recife. Lei nº16.176. Lei de Uso e Ocupação do Solo da Cidade do Recife. Recife: 1996.'
+  - 'Prefeitura do Recife. Lei nº16.292. Lei de Edificações e Instalações na Cidade do Recife. Recife: 1997.'
+  - 'Prefeitura do Recife. Lei nº17.511/2008. “Promove a revisão do Plano Diretor do Município do Recife. Recife: Secretaria de Planejamento Participativo, Obras e Desenvolvimento Urbano e Ambiental, 2008.'
+  locale: pt-BR
+  file: sdnne03-007.pdf
   pages_count: 21
   pages: null
-
-- id: 'sdnne03-008'
+- id: sdnne03-008
   title: Sede da CHESF em Salvador
   subtitle: desafios na conservação da Arquitetura Moderna
   authors:
@@ -378,26 +375,25 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil – 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1999.'
   - 'VIEIRA, Natália Miranda. Antecedentes Conceituais da Conservação: Século XIX e início do Século XX. In: I Curso Latino Americano sobre a Conservação da Arquitetura Moderna – MARC/AL. Recife: Ceci, Iccrom, maio de 2009.'
   - 'ZANCHETI, Silvio Mendes. A Teoria Contemporânea da Conservação e a Arquitetura Moderna. In: I Curso Latino Americano sobre a Conservação da Arquitetura Moderna – MARC/AL. Recife: Ceci, Iccrom, maio de 2009.'
-  locale: 'pt-BR'
-  file: 'sdnne03-008.pdf'
+  locale: pt-BR
+  file: sdnne03-008.pdf
   pages_count: 19
   pages: null
-
-- id: 'sdnne03-009'
+- id: sdnne03-009
   title: Sobre os limites da preservação do Patrimônio Moderno
-  subtitle: 'duas polêmicas recentes em Salvador, BA'
+  subtitle: duas polêmicas recentes em Salvador, BA
   authors:
   - givenname: Priscilla
     familyname: Santos
-    email: 'santos.2@exemplo.com'
+    email: santos.2@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-5844-696X'
+    orcid: 0000-0001-5844-696X
     bio: null
     country: BR
     primary_contact: true
   - givenname: Marco Aurélio Andrade de Filgueiras
     familyname: Gomes
-    email: 'gomes@exemplo.com'
+    email: gomes@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -418,40 +414,35 @@ articles:
   - 'BARROS NETO, N. Perícia confirma descaso. A Tarde. Salvador, 07/12/2007. Disponível em: <'
   - 'http://www.atarde.com.br/esporte/noticia.jsf?id=813631 > Acesso em: 02/02/2010.'
   - 'BIERRENBACH, A. C. de S. Reflexões sobre a reciclagem da arquitetura moderna em Salvador – o Edifício Caramuru e a Cidade Baixa. In: SEMINÁRIO DOCOMOMO, 7. 2007, Porto Alegre. Disponível em: <http://www.docomomo.org.br/seminario%207%20pdfs/002.pdf>. Acesso em: 18/02/2010'
-  - 'BIERRENBACH, A. C. de S.; GALVÃO, A. B. A. Pedido de Tombamento do Edifício Caramuru. Blog Licuri. Salvador, 23/02/2008. Disponível em: <'
-  - 'http://licuri.wordpress.com/2008/02/23/caramuru/>. Acesso em: 18/02/2010 DESAFIOS de Salvador para a Copa 2014, os. Portal Copa 2014. 29/05/2009. Disponível em: <http://www.copa2014.org.br/galeria-de- fotos/16/PROJETO+DO+NOVO+ESTADIO+FONTE+NOVA+EM+SALVADOR.html > Acesso em: 27/01/2010'
-  - 'DIAS, K. Fonte Nova: dois anos da tragédia e da interdição. Portal Copa 2014. Salvador, 24/11/2009. Disponível em: < http://www.copa2014.org.br/noticias/1631/FONTE+NOVA+DOIS+ANOS+DA+TRAGEDIA+E+DA+I'
-  - 'NTERDICAO.html > Acesso em: 28/01/2010'
+  - 'BIERRENBACH, A. C. de S.; GALVÃO, A. B. A. Pedido de Tombamento do Edifício Caramuru. Blog Licuri. Salvador, 23/02/2008. Disponível em: <http://licuri.wordpress.com/2008/02/23/caramuru/>. Acesso em: 18/02/2010'
+  - 'DESAFIOS de Salvador para a Copa 2014, os. Portal Copa 2014. 29/05/2009. Disponível em: <http://www.copa2014.org.br/galeria-de-fotos/16/PROJETO+DO+NOVO+ESTADIO+FONTE+NOVA+EM+SALVADOR.html > Acesso em: 27/01/2010'
+  - 'DIAS, K. Fonte Nova: dois anos da tragédia e da interdição. Portal Copa 2014. Salvador, 24/11/2009. Disponível em: < http://www.copa2014.org.br/noticias/1631/FONTE+NOVA+DOIS+ANOS+DA+TRAGEDIA+E+DA+INTERDICAO.html > Acesso em: 28/01/2010'
   - 'DIAS, K. Grandes Jogos na Fonte Nova. Salvador, maio 2009. Blog Fonte de Emoções. Disponível em: <http://fontedeemocoes.blogspot.com/2009/05/alem-das-inesqueciveis-partidas- de.html > Acesso em: 03/02/2010'
-  - 'DUARTE, L. Comércio agora é patrimônio histórico. A Tarde. Salvador, 16/10/2009. Caderno Principal, p.8'
+  - DUARTE, L. Comércio agora é patrimônio histórico. A Tarde. Salvador, 16/10/2009. Caderno Principal, p.8
   - 'ERHARDT, M. Processo da Fonte Nova ainda está no MP. A Tarde. Salvador, 28/02/2008. Disponível em: < http://www.atarde.com.br/esporte/noticia.jsf?id=845205 > Acesso em: 02/02/2010 Fonte: GOMES, Marco Aurélio A. de Filgueiras Gomes. Preservação e urbanismo: reconceituações e alguns desafios contemporâneos. In: III Seminário ArquiMemória, Salvador, 2008.'
   - 'ESTUDO apontava problemas na estrutura da Fonte Nova. Agência Estado. In: A Tarde. Salvador, 25/11/2007. Disponível em: < http://www.atarde.com.br/brasil/noticia.jsf?id=809715 > Acesso em: 31/01/2010'
   - 'GOMES, Diana. Manutenção ruim causou as mortes na Fonte Nova. A Tarde. Salvador, 01/12/2007. Disponível em: < http://www.atarde.com.br/esporte/noticia.jsf?id=811588 > Acesso em: 02/02/2010'
-  - 'HORI, J. Contas simples, decisões difíceis. Portal da Copa 2014. 01/09/2009. Disponível em: <'
-  - 'http://www.copa2014.org.br/noticias/991/CONTAS+SIMPLES+DECISOES+DIFICEIS.html> Acesso em: 28/01/2010.'
+  - 'HORI, J. Contas simples, decisões difíceis. Portal da Copa 2014. 01/09/2009. Disponível em: <http://www.copa2014.org.br/noticias/991/CONTAS+SIMPLES+DECISOES+DIFICEIS.html> Acesso em: 28/01/2010.'
   - 'INSTITUTO DO PATRIMÔNIO ARTÍSTICO E CULTURAL DA BAHIA. Bens Culturais Tombados e Registrados pelo Estado da Bahia. Salvador, BA, [2009].'
   - 'INSTITUTO DO PATRIMÔNIO ARTÍSTICO E CULTURAL DA BAHIA. OF. GAB Nº 611/2009 de 10 de agosto de 2009. Ofício enviado pelo Diretor Geral do IPAC ao Procurar da República do Ministério Público Federal. Salvador, BA, 2009. Acesso em: 03/02/2010. Leandro SILVA, L. Laudo aponta causas da tragédia na Fonte Nova. A Tarde. Salvador, 25/01/2008. Disponível em: < http://www.atarde.com.br/esporte/noticia.jsf?id=828199 > Acesso em: 02/02/2010.'
   - 'LUIS, Nelson. Estádio da Fonte Nova passa por nova vistoria. A Tarde. Salvador, 27/11/2007. Disponível em: < http://www.atarde.com.br/esporte/noticia.jsf?id=810268> Acesso em: 02/02/2010'
-  - 'MASSIMINO, R. Fonte Nova poderá custar até R$ 1,6 bilhão. Portal Copa 2014. Salvador, 01/02/201. Disponível em: < http://www.copa2014.org.br/noticias/1971/FONTE+NOVA+PODERA+CUSTAR+ATE+R+16+BILH'
-  - 'AO.html > Acesso em: 03/02/2010'
+  - 'MASSIMINO, R. Fonte Nova poderá custar até R$ 1,6 bilhão. Portal Copa 2014. Salvador, 01/02/201. Disponível em: < http://www.copa2014.org.br/noticias/1971/FONTE+NOVA+PODERA+CUSTAR+ATE+R+16+BILHAO.html > Acesso em: 03/02/2010'
   - 'MATOS, Tatiana. Estádio da Fonte Nova é o pior do país, avalia relatório. A Tarde. Salvador, 26/11/2007. Disponível em: < http://www.atarde.com.br/esporte/noticia.jsf?id=810066 > Acesso em: 02/02/2010'
-  - 'MORENO, A. Edifício Caramuru. Blog Guia do Ócio. Salvador, 03/02/? Disponível em: <http://guiadoocio.com/onde-ir/edificio-caramuru>. Acesso em: 19/02/2010 PREFEITO vai prorrogar incentivos fiscais na área do Comércio. SECOM. Salvador, 27/12/2007. Disponível em: <http://www.secom.salvador.ba.gov.br/index.php?option=com_content&task=view&id=7866&Itemi d=42> Acesso em: 19/02/2010 PROJETO muda e estádio da Fonte Nova será totalmente demolido. Correio da Bahia. Salvador, 04/06/2009. Disponível em: <'
-  - 'http://correio24horas.globo.com/noticias/noticia.asp?codigo=27537&mdl=26 > Acesso em: 03/02/2010'
+  - 'MORENO, A. Edifício Caramuru. Blog Guia do Ócio. Salvador, 03/02/? Disponível em: <http://guiadoocio.com/onde-ir/edificio-caramuru>. Acesso em: 19/02/2010 PREFEITO vai prorrogar incentivos fiscais na área do Comércio. SECOM. Salvador, 27/12/2007. Disponível em: <http://www.secom.salvador.ba.gov.br/index.php?option=com_content&task=view&id=7866&Itemi d=42> Acesso em: 19/02/2010 PROJETO muda e estádio da Fonte Nova será totalmente demolido. Correio da Bahia. Salvador, 04/06/2009. Disponível em: < http://correio24horas.globo.com/noticias/noticia.asp?codigo=27537&mdl=26 > Acesso em: 03/02/2010'
   - 'WEINSTEIN, M. Gestores percorrem o Edifício Caramuru. A Tarde. Salvador, 15/05/2008. Disponível em: < http://www.atarde.com.br/cidades/noticia.jsf?id=884565 >. Acesso em: 18/02/2010'
-  locale: 'pt-BR'
-  file: 'sdnne03-009.pdf'
+  locale: pt-BR
+  file: sdnne03-009.pdf
   pages_count: 17
   pages: null
-
-- id: 'sdnne03-010'
+- id: sdnne03-010
   title: Uma História do tempo presente
-  subtitle: 'os tombamentos da Arquitetura Moderna pelo IPHAN (1947-2007)'
+  subtitle: os tombamentos da Arquitetura Moderna pelo IPHAN (1947-2007)
   authors:
   - givenname: Paula Silveira de
     familyname: Paoli
-    email: 'pauladepaoli@ig.com.br'
+    email: pauladepaoli@ig.com.br
     affiliation: ''
-    orcid: '0000-0001-8369-2337'
+    orcid: 0000-0001-8369-2337
     bio: null
     country: BR
     primary_contact: true
@@ -482,7 +473,7 @@ articles:
   - 'RUBINO, Silvana. As fachadas da história: os antecedentes, a criação e os trabalhos do Serviço do Patrimônio Histórico e Artístico Nacional, 1937-1968. Campinas: Departamento de antropologia do Instituto de Filosofia e Ciências Humanas - UNICAMP, 1991. Dissertação de Mestrado.'
   - 'SEGAWA, Hugo. Arquitetura no Brasil. 1900-1990. 2ª ed. São Paulo: Uninversidade de São Paulo, 2002.'
   - 'Documentos: processos de tombamento de arquitetura moderna'
-  - IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional COPEDOC – Coordenação de Pesquisa e Documentação Arquivo Central do IPHAN / Seção Rio de Janeiro
+  - 'IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional COPEDOC – Coordenação de Pesquisa e Documentação Arquivo Central do IPHAN / Seção Rio de Janeiro'
   - 'Igreja de São Francisco de Assis (Pampulha – Belo Horizonte) Projeto: Oscar Niemeyer (1942-43) Processo n. 0373-T-47 Inscrição: Livro de Belas Artes n.312 – 01/12/1947'
   - 'Ministério da Educação e Saúde (Rio de Janeiro) Projeto: equipe coordenada por Lucio Costa, com consultoria de Le Corbusier (1936-45) Processo n. 0375-T-48 Inscrição: Livro de Belas Artes n.315 – 18/03/1948'
   - 'Estação de Hidroaviões (Rio de Janeiro) Projeto: equipe coordenada por Attilio Correia Lima (1938) Processo n. 0552-T-56 Inscrição: Livro de Belas Artes n.438 – 29/01/1957'
@@ -498,26 +489,25 @@ articles:
   - 'Processo n. 1154-T-85 Inscrição: Livro de Belas Artes n.581 – 14/08/1986'
   - 'Conjunto Urbanístico (Plano Piloto – Brasília) Projeto: Lucio Costa (1957) Processo n. 1305-T-90 Inscrição: Livro Histórico n.532 – 14/03/1990'
   - 'Conjunto Arquitetônico e Paisagístico da Pampulha (Belo Horizonte) Projeto: Oscar Niemeyer (1942) Processo n. 1341-T-94 Inscrição: Livro Arqueológico, Etnográfico e Paisagístico n.115 – 15/12/1997 / Livro de Belas Artes n.609 – 15/12/1997 / Livro Histórico n.545 – 15/12/1997'
-  locale: 'pt-BR'
-  file: 'sdnne03-010.pdf'
+  locale: pt-BR
+  file: sdnne03-010.pdf
   pages_count: 17
   pages: null
-
-- id: 'sdnne03-011'
+- id: sdnne03-011
   title: A situação agonizante dos exemplares modernos que integram as Unidades Especiais de Preservação (UEPs) em Maceió
   subtitle: do desconhecimento à descaracterização
   authors:
   - givenname: Adriana Capretz Borges da Silva
     familyname: Manhas
-    email: 'dricapretz@hotmail.com'
+    email: dricapretz@hotmail.com
     affiliation: ''
-    orcid: '0000-0003-0019-1727'
+    orcid: 0000-0003-0019-1727
     bio: null
     country: BR
     primary_contact: true
   - givenname: Max Paulo Giacheto
     familyname: Manhas
-    email: 'mmanhas@yahoo.com'
+    email: mmanhas@yahoo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -535,26 +525,25 @@ articles:
   - 'GUIA, Rose Mary Cavalcante V. da. Os registros de uma história: a relevância das Unidades Especiais de Preservação em Maceió. 2008. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo) – Centro de Estudos Superiores de Maceió, Maceió, 2008.'
   - 'LEATHERBARROW, David. Cidades fortes a partir de um modernismo fraco. In: MOREIRA, Fernando Diniz (org.). Arquitetura Moderna no Norte e Nordeste do Brasil: universalidade e diversidade. Recife: FASA, 2007.'
   - 'SILVA, Maria Angélica da. Arquitetura moderna: a atitude alagoana (1950-1964). Maceió: IAB/UFAL, 1991.'
-  locale: 'pt-BR'
-  file: 'sdnne03-011.pdf'
+  locale: pt-BR
+  file: sdnne03-011.pdf
   pages_count: 12
   pages: null
-
-- id: 'sdnne03-012'
+- id: sdnne03-012
   title: Aportes para investigação do processo de difusão da Arquitetura Moderna na João Pessoa da segunda metade do século XX
   authors:
   - givenname: Carolina Marques Chaves
     familyname: Galvão
-    email: 'carolinamchaves@gmail.com'
+    email: carolinamchaves@gmail.com
     affiliation: ''
-    orcid: '0000-0001-9444-3424'
+    orcid: 0000-0001-9444-3424
     bio: null
     country: BR
     primary_contact: true
   section: Seção 2
   abstract: 'A idéia que sustenta as reflexões presentes nesta comunicação é a de investigar os fatores políticos e ideológicos de constituição do discurso moderno em João Pessoa, que tornou fecundo o cenário para difusão da arquitetura moderna, e cuja paisagem urbana foi renovada por uma arquitetura de linhas “modernas” e “funcionais”, palavras recorrentes nas notícias de jornais locais na segunda metade do século XX. A análise se fundamenta na articulação entre Arquitetura e Estado em João Pessoa utilizando como documento primário de estudo notícias publicadas nos números do jornal governista, A União, veiculados entre 1950 e 1970. Palavras-chaves: Arquitetura Moderna, João Pessoa, Jornal A União.'
   keywords:
-  - 's: Arquitetura Moderna'
+  - Arquitetura Moderna
   - João Pessoa
   - Jornal A União
   abstract_en: 'The idea that supports the reflections presented in this paper is to investigate the political and ideological factors that contribute to the development of modern discourse in João Pessoa, which set the stage for timely dissemination of modern architecture, and whose urban landscape was renewed through an architecture of “modern” and “functional” patterns. These words were recurrent in some local journals in the second half of the 20th century. This analysis is based on the relationship between architecture and State in João Pessoa, using as primary document of study the news published in the pro-government newspaper, A União, printed between 1950 and 1970.'
@@ -562,17 +551,16 @@ articles:
   - Modern Architecture
   - João Pessoa
   - A União Journal
-  locale: 'pt-BR'
-  file: 'sdnne03-012.pdf'
+  locale: pt-BR
+  file: sdnne03-012.pdf
   pages_count: 19
   pages: null
-
-- id: 'sdnne03-013'
+- id: sdnne03-013
   title: Arquitetos migrantes
   authors:
   - givenname: Michelle
     familyname: Scneider
-    email: 'scneider@exemplo.com'
+    email: scneider@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -580,9 +568,9 @@ articles:
     primary_contact: true
   - givenname: Ruth Verde
     familyname: Zein
-    email: 'rvzein@gmail.com'
+    email: rvzein@gmail.com
     affiliation: ''
-    orcid: '0000-0003-0923-4914'
+    orcid: 0000-0003-0923-4914
     bio: null
     country: BR
     primary_contact: false
@@ -592,8 +580,11 @@ articles:
   references:
   - 'BANHAM, Reyner. Brutalismo en Arquitectura, ética ou estética? Barcelona: GG 1966.'
   - 'BASTOS, Maria Alice J. Pós-Brasília: Rumos da Arquitetura Brasileira: Discurso Prática e Pensamento. São Paulo: Perspectiva: Fapesp, 2003. (Estudos;190)'
-  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. 3ª Edição. São Paulo: Perspectiva, 1997. Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de fevereiro de 2005. Disponível em http//www.pernambuco.com/diario/2005/02/23/viver3_0.asp, acesso realizado em 24-11-09. Centro de Convenções de Pernambuco. Sítio eletrônico oficial. Disponível em http://www.cecon- pe.com.br. Acesso realizado em 24-11-09. Centro de Convenções de Pernambuco será requalificado. Jornal do Turismo, Publicado em 29 de Julho de 2009. Disponível emhttp://www.jornaldeturismo.com.br/noticias/estados/26091- centroc onvencoespernambucorequalificado.html, acesso em 24-11-09. Centro de convenções de Pernambuco terá investimentos do MTur. Brasília: Ministério do Turismo. Publicado em 25de junho de 2009, disponível em'
-  - 'http://www.turismo.gov.br/turismo/ noticias/todas_noticias/2009062510.html. Acesso realizado em 24-11-09.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. 3ª Edição. São Paulo: Perspectiva, 1997.'
+  - 'Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de fevereiro de 2005. Disponível em http//www.pernambuco.com/diario/2005/02/23/viver3_0.asp, acesso realizado em 24-11-09.'
+  - 'Centro de Convenções de Pernambuco. Sítio eletrônico oficial. Disponível em http://www.cecon- pe.com.br. Acesso realizado em 24-11-09.'
+  - 'Centro de Convenções de Pernambuco será requalificado. Jornal do Turismo, Publicado em 29 de Julho de 2009. Disponível emhttp://www.jornaldeturismo.com.br/noticias/estados/26091- centroc onvencoespernambucorequalificado.html, acesso em 24-11-09.'
+  - 'Centro de convenções de Pernambuco terá investimentos do MTur. Brasília: Ministério do Turismo. Publicado em 25de junho de 2009, disponível em http://www.turismo.gov.br/turismo/ noticias/todas_noticias/2009062510.html. Acesso realizado em 24-11-09.'
   - 'DUDEQUE, Irã T. Espirais de Madeira. Uma História da Arquitetura de Curitiba. São Paulo: Editora Studio Nobel, 2001.'
   - 'GNOATO, Luís Salvador. Introdução do Ideário Modernista no Paraná. Dissertação (Mestrado em Arquitetura). São Paulo: FAU-USP, 1997.'
   - 'GNOATO, Luís Salvador. CeMoMo Curitiba - Conselho de Estudo do Movimento Moderno na Arquitetura de Curitiba. In: 3º Seminário Docomomo Brasil, São Paulo, de 8 a 11 de dezembro de 1999.'
@@ -601,28 +592,27 @@ articles:
   - 'PACHECO, Paulo C. B. O Risco do Paraná e os Concursos Nacionais de Arquitetura 1962-1981. Dissertação (Mestrado em Arquitetura). Curitiba: PROPAR UFRGS; PUC-PR, 2004. Projeto de Paisagismo para o Centro de Exposições do Estado de Pernambuco. Espaço Cultural Burle Marx. Disponível em http//www.sefaz.es.gov.br/painel/BMBio51.htm, acesso realizado em 01-02-2010.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: EDUSP, 1997.'
   - 'WOLF, José. Uma Pedra No Caminho. Depoimentos de críticos e arquitetos sobre arquitetura paulista. AU, n. 17 abr/mai 1988, p. 49-60.'
-  - 'ZEIN, Ruth Verde. Arquitetura Brasileira – Tendências Atuais. Projeto, n. 42, jul/ ago 1982, p. 119.'
-  - 'ZEIN, Ruth Verde. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, julho 1986, p. 28-30.'
+  - ZEIN, Ruth Verde. Arquitetura Brasileira – Tendências Atuais. Projeto, n. 42, jul/ ago 1982, p. 119.
+  - ZEIN, Ruth Verde. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, julho 1986, p. 28-30.
   - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista: 1953 - 1973. Tese (Doutorado em Arquitetura). Porto Alegre: UFRGS;PROPAR, 2005.'
-  locale: 'pt-BR'
-  file: 'sdnne03-013.pdf'
+  locale: pt-BR
+  file: sdnne03-013.pdf
   pages_count: 12
   pages: null
-
-- id: 'sdnne03-014'
+- id: sdnne03-014
   title: Arquitetura Moderna com Jardim de Burle Marx no Nordeste
   authors:
   - givenname: Patricia
     familyname: Meneses
-    email: 'meneses@exemplo.com'
+    email: meneses@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-7993-1921'
+    orcid: 0000-0001-7993-1921
     bio: null
     country: BR
     primary_contact: true
   - givenname: Manfredo
     familyname: Porto
-    email: 'porto@exemplo.com'
+    email: porto@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -630,9 +620,9 @@ articles:
     primary_contact: false
   - givenname: Ana Rita Sá
     familyname: Carneiro
-    email: 'carneiro@exemplo.com'
+    email: carneiro@exemplo.com
     affiliation: ''
-    orcid: '0000-0002-2750-5354'
+    orcid: 0000-0002-2750-5354
     bio: null
     country: BR
     primary_contact: false
@@ -646,18 +636,17 @@ articles:
   - Burle Marx
   - Private Gardens
   - Conservation
-  locale: 'pt-BR'
-  file: 'sdnne03-014.pdf'
+  locale: pt-BR
+  file: sdnne03-014.pdf
   pages_count: 11
   pages: null
-
-- id: 'sdnne03-015'
-  title: 'Arquitetura Moderna em Belém (1964-2005)'
+- id: sdnne03-015
+  title: Arquitetura Moderna em Belém (1964-2005)
   subtitle: significado(s) de uma trajetória de projeto
   authors:
   - givenname: Giovanni Blanco
     familyname: Sarquis
-    email: 'giovanni.sarquis@hotmail.com'
+    email: giovanni.sarquis@hotmail.com
     affiliation: ''
     orcid: null
     bio: null
@@ -685,28 +674,27 @@ articles:
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1998. SOLÀ-MORALES, Ignasi de. Diferencias. Topografia de la arquitectura contemporànea. Barcelona: Gustavo Gili, 1995.'
   - 'STEVENS, Garry. O círculo privilegiado: fundamentos sociais da distinção arquitetônica. Brasília: UnB, 2003.'
   - 'WAISMAN, Marina. O centro se desloca para as margens. In: Projeto. São Paulo: Arco Editorial, nº 129, jan/fev. 1990.'
-  locale: 'pt-BR'
-  file: 'sdnne03-015.pdf'
+  locale: pt-BR
+  file: sdnne03-015.pdf
   pages_count: 11
   pages: null
-
-- id: 'sdnne03-016'
+- id: sdnne03-016
   title: Bernardes e Campello
   subtitle: expressão tectônica de duas gerações modernistas em João Pessoa
   authors:
   - givenname: Germana Costa
     familyname: Rocha
-    email: 'germana.rocha@exemplo.com'
+    email: germana.rocha@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-6794-8953'
+    orcid: 0000-0001-6794-8953
     bio: null
     country: BR
     primary_contact: true
   - givenname: Sandro
     familyname: Cabral
-    email: 'cabral.2@exemplo.com'
+    email: cabral.2@exemplo.com
     affiliation: ''
-    orcid: '0000-0002-8663-2441'
+    orcid: 0000-0002-8663-2441
     bio: null
     country: BR
     primary_contact: false
@@ -720,12 +708,11 @@ articles:
   - Tectonics
   - Structure
   - Modern Architecture
-  locale: 'pt-BR'
-  file: 'sdnne03-016.pdf'
+  locale: pt-BR
+  file: sdnne03-016.pdf
   pages_count: 20
   pages: null
-
-- id: 'sdnne03-017'
+- id: sdnne03-017
   title: Crônica de uma morte anunciada
   subtitle: Arquitetura Moderna em Natal x Copa de 2014
   authors:
@@ -733,21 +720,21 @@ articles:
     familyname: Veloso
     email: null
     affiliation: ''
-    orcid: '0000-0002-3224-2245'
+    orcid: 0000-0002-3224-2245
     bio: null
     country: BR
     primary_contact: true
   - givenname: Natália Miranda
     familyname: Vieira
-    email: 'vieira@exemplo.com'
+    email: vieira@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-9391-2778'
+    orcid: 0000-0001-9391-2778
     bio: null
     country: BR
     primary_contact: false
   - givenname: Marizo Vitor
     familyname: Pereira
-    email: 'marizovitor@yahoo.com.br'
+    email: marizovitor@yahoo.com.br
     affiliation: ''
     orcid: null
     bio: null
@@ -765,31 +752,29 @@ articles:
   - Obtuary
   references:
   - 'AMORIM, L. Obituário Arquitetônico: Pernambuco Modernista. Recife: Luiz Amorim, 2007.'
-  - 'CARRILHO, Marcos José. Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Arquitextos006, texto especial 030, Novembro de 2000. Disponível em:'
-  - 'http:// www.vitruvius.com.br'
+  - 'CARRILHO, Marcos José. Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Arquitextos006, texto especial 030, Novembro de 2000. Disponível em: http:// www.vitruvius.com.br'
   - 'CHOAY, Françoise. A alegoria do patrimônio. São Paulo: Estação Liberdade/UNESP, 2000.'
   - 'FAGGIN, Carlos. Arquitetura Moderna e preservação. Publicada originalmente em Projeto Design. Ed.294 Agosto de 2004. Disponível em: http://www.arcoweb.com.br'
   - 'KHOLSDORF, Maria Elaine. Sobre a Identidade dos Lugares. Artigo apresentado em workshop e curso de extensão em Fortaleza, promovidos pelo IPHAN, Faculdade de Arquitetura da UFCe e Prefeitura Municipal. Brasília: 1999. Disponível em: vsites.unb.br/fau/cidade_arquitetura/identidade.pdf. Site acessado em 20/02/2010.'
   - 'PEREIRA, Marizo Vitor. Análise da concepção arquitetural à luz da arquiteturologia : um estudo da produção de edifícios de uso não-residencial do arquiteto João Maurício Fernandes de Miranda, entre 1961 e 1981. Dissertação de Mestrado. PPGAU, UFRN. Natal, 2008.'
   - 'PEREIRA, Marizo Vitor et al. Edifício do Ipase, em Natal/RN: o “mais moderno da cidade”, em 1955. Anais do 8º Seminário Docomomo Brasil. Rio de Janeiro,2009.'
   - 'RIEGL, Aloïs. Le culte moderne des monuments. Son essence et sa genèse. Tradução Daniel Wieczorek. Paris: Seuil, 1984.'
-  - 'SEABRA DE MELO, Alexandra Consulin. Yes, nós temos arquitetura moderna. Dissertação de Mestrado. PPGAU, UFRN, 2004.'
+  - SEABRA DE MELO, Alexandra Consulin. Yes, nós temos arquitetura moderna. Dissertação de Mestrado. PPGAU, UFRN, 2004.
   - 'TRIGUEIRO, E.; ELALI, G.; VELOSO, M. Urbanismo modernizador, consolidação modernista, reuso pós-moderno: a dinâmica de transformação urbana em Natal e a dilapidação de seu acervo arquitetônico. Anais do 7º Seminário Docomomo Brasil. Porto Alegre: Propar/UFRGS, 2007.'
   - 'VELOSO, M. Metodologia de Intervenções em Sítios e Edifícios Históricos: uma análise da experiência potiguar. Relatório de pesquisa. Propesq/UFRN, 2005.'
-  locale: 'pt-BR'
-  file: 'sdnne03-017.pdf'
+  locale: pt-BR
+  file: sdnne03-017.pdf
   pages_count: 18
   pages: null
-
-- id: 'sdnne03-018'
-  title: 'Difusão da Arquitetura Moderna em Campina Grande-PB'
+- id: sdnne03-018
+  title: Difusão da Arquitetura Moderna em Campina Grande-PB
   subtitle: necessidades e desafios para preservação de um patrimônio ameaçado
   authors:
   - givenname: Adriana Leal de
     familyname: Almeida
-    email: 'lalmeida@sc.usp.br'
+    email: lalmeida@sc.usp.br
     affiliation: ''
-    orcid: '0009-0004-4822-5767'
+    orcid: 0009-0004-4822-5767
     bio: null
     country: BR
     primary_contact: true
@@ -813,25 +798,24 @@ articles:
   - 'ROCHA, Mércia Parente. Manifestação da arquitetura moderna em João Pessoa. Monografia (Graduação) – Curso Arquitetura e Urbanismo, Universidade Federal da Paraíba. João Pessoa, 1987.'
   - 'TINEM, Nelci; TAVARES, Lia; TAVARES, Marieta. Arquitetura Moderna em João Pessoa. In: Anais do VI Seminário Docomomo Brasil. Niterói, 2005.'
   - 'TRAJANO FILHO, Francisco Sales. D.V.O.P.: arquitetura moderna, estado e modernização (Paraíba, década de 1930). Dissertação (Mestrado) – Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2003.'
-  locale: 'pt-BR'
-  file: 'sdnne03-018.pdf'
+  locale: pt-BR
+  file: sdnne03-018.pdf
   pages_count: 21
   pages: null
-
-- id: 'sdnne03-019'
+- id: sdnne03-019
   title: Em busca da identidade urbana
   authors:
   - givenname: Eloane de Jesus Ramos
     familyname: Cantuária
-    email: 'elocantuaria@gmail.com'
+    email: elocantuaria@gmail.com
     affiliation: ''
-    orcid: '0000-0003-4918-7702'
+    orcid: 0000-0003-4918-7702
     bio: null
     country: BR
     primary_contact: true
   - givenname: José de Vasconcelos
     familyname: Silva
-    email: 'jose.vs@bol.com.br'
+    email: jose.vs@bol.com.br
     affiliation: ''
     orcid: null
     bio: null
@@ -839,14 +823,14 @@ articles:
     primary_contact: false
   - givenname: Fátima
     familyname: Pelaes
-    email: 'pelaes@exemplo.com'
+    email: pelaes@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-0426-9659'
+    orcid: 0000-0003-0426-9659
     bio: null
     country: BR
     primary_contact: false
   section: Seção 2
-  abstract: 'A cidade de Macapá, capital do Estado do Amapá, vem paulatinamente perdendo seus monumentos, parte de sua memória e da história da cidade pela inabilidade dos poderes constituídos em buscar meios de identificar, conhecer e proteger o patrimônio material do município. Recentemente, por iniciativa da recém criada Superintendência Regional do IPHAN no Amapá, iniciou-se o Inventário de Bens Imóveis do município. Esta pesquisa explicitou que ao longo do século XX a cidade sofreu bruscas renovações arquitetônicas e urbana restando pouquíssimos exemplares da arquitetura colonial, imperial ou do início da República. Contudo, o Inventário identificou um significativo número de bens do período moderno, sobretudo, no núcleo inicial da cidade, o centro comercial que, no entanto, não se reconhece como centro histórico de Macapá, já que dificilmente se identifica os mais de 250 anos de fundação da cidade. O tecido apresenta características marcantes da arquitetura moderna em quase todo seu perímetro. Entretanto, mesmo estes imóveis identificados como bens de interesse histórico também estão correndo riscos de sucumbirem em nome da especulação imobiliária e pela fragilidade do sistema estadual de proteção do patrimônio cultural e da quase inexistência de dispositivos legais na instância municipal. O município vive na atualidade um intenso processo de expansão e crescimento urbano, estimulando a ocupação das áreas periféricas assim como a verticalização e o adensamento das áreas centrais. Essa rápida transformação reflete diretamente na paisagem urbana, observando-se mais uma vez a destruição das referências históricas e tipológicas da arquitetura amapaense, realidade constatada durante a realização do Inventário de Conhecimento dos Bens Imóveis da Cidade de Macapá, quando se observou que diversos imóveis foram reformados, vendidos, abandonados ou simplesmente demolidos no decorrer da pesquisa. Palavras-Chave: Patrimônio Cultural, Arquitetura Moderna e Renovação Urbana'
+  abstract: 'A cidade de Macapá, capital do Estado do Amapá, vem paulatinamente perdendo seus monumentos, parte de sua memória e da história da cidade pela inabilidade dos poderes constituídos em buscar meios de identificar, conhecer e proteger o patrimônio material do município. Recentemente, por iniciativa da recém criada Superintendência Regional do IPHAN no Amapá, iniciou-se o Inventário de Bens Imóveis do município. Esta pesquisa explicitou que ao longo do século XX a cidade sofreu bruscas renovações arquitetônicas e urbana restando pouquíssimos exemplares da arquitetura colonial, imperial ou do início da República. Contudo, o Inventário identificou um significativo número de bens do período moderno, sobretudo, no núcleo inicial da cidade, o centro comercial que, no entanto, não se reconhece como centro histórico de Macapá, já que dificilmente se identifica os mais de 250 anos de fundação da cidade. O tecido apresenta características marcantes da arquitetura moderna em quase todo seu perímetro. Entretanto, mesmo estes imóveis identificados como bens de interesse histórico também estão correndo riscos de sucumbirem em nome da especulação imobiliária e pela fragilidade do sistema estadual de proteção do patrimônio cultural e da quase inexistência de dispositivos legais na instância municipal. O município vive na atualidade um intenso processo de expansão e crescimento urbano, estimulando a ocupação das áreas periféricas assim como a verticalização e o adensamento das áreas centrais. Essa rápida transformação reflete diretamente na paisagem urbana, observando-se mais uma vez a destruição das referências históricas e tipológicas da arquitetura amapaense, realidade constatada durante a realização do Inventário de Conhecimento dos Bens Imóveis da Cidade de Macapá, quando se observou que diversos imóveis foram reformados, vendidos, abandonados ou simplesmente demolidos no decorrer da pesquisa.'
   keywords:
   - Patrimônio Cultural
   - Arquitetura Moderna
@@ -866,32 +850,32 @@ articles:
   - 'SANTOS, Fernando Rodrigues dos. História do Amapá: da autonomia territorial ao fim do Janarismo. Macapá: FUNDECAP/GEA, 1998.'
   - 'SANTOS, Milton. Salvador: Centro e centralidade na cidade contemporânea. In: GOMES, Marco Aurélio A. de Filgueiras (org). Pelo Pêlo: História Cultura e Cidade. Salvador: ed. da Universidade Federal da Bahia/ Faculdade de Arquitetura/ Mestrado em Arquitetura e Urbanismo, 1995. p. 11-29.'
   - 'TOSTES, José Alberto. Planos diretores no Estado do Amapá: uma contribuição para o Desenvolvimento Regional. Macapá: J.A. Tostes, 2006.'
-  locale: 'pt-BR'
-  file: 'sdnne03-019.pdf'
+  locale: pt-BR
+  file: sdnne03-019.pdf
   pages_count: 13
   pages: null
-
-- id: 'sdnne03-020'
+  abstract_en: 'The city of Macapá, capital of Amapá State, has been gradually losing its monuments, some of its memory and history of the city by the inability of the powers that be to seek ways to identify, understand and protect the material heritage of the city. Recently, at the initiative of the newly established Regional Superintendent of IPHAN in Amapá, began the inventory of real estate in the city. This research explained that throughout the twentieth century the city suffered sudden architectural and urban renewal few remaining examples of colonial architecture, imperial or the beginning of the Republic. However, the inventory identified a significant number of propriety of the modern period, especially in the initial core of the city, the shopping center, however, is recognized as the historic center of Macapá, since it is difficult to identify the more than 250 years foundation of the city. The fabric has the striking features of modern architecture in most of its perimeter. Meanwhile, even these properties identified as real estate of historical interest are also at risk of succumbing on behalf of property speculation and the weakness of the state system of protection of cultural heritage and absence of legal provisions at the municipal level. The municipal district currently lives in an intense process of expansion and urban growth, stimulating the occupation of surrounding areas as well as vertical integration and consolidation of the central areas. This rapid transformation reflects directly the urban landscape, observing once again the destruction of historical references and typological architecture Amapá, actually recorded during the implementation of the Inventory of Knowledge of the Real Estate City of Macapa, when it was observed that several properties were retired, sold, abandoned or simply demolished during the research.'
+- id: sdnne03-020
   title: Lina Bo em Salvador
   authors:
   - givenname: Eneida de
     familyname: Almeida
-    email: 'almeida@exemplo.com'
+    email: almeida@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-9773-5289'
+    orcid: 0000-0001-9773-5289
     bio: null
     country: BR
     primary_contact: true
   - givenname: Katia
     familyname: Teixeira
-    email: 'teixeira@exemplo.com'
+    email: teixeira@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
     country: BR
     primary_contact: false
   section: Seção 2
-  abstract: ''
+  abstract: 'A atuação de Lina Bo Bardi em Salvador desperta interesse pela tentativa de superação da fratura histórica entre o “antigo” e o “moderno” e pela ativação de um pertinente exercício crítico aplicado na intervenção relacionada a preexistências de valor documental. Este estudo analisa duas intervenções concebidas em momentos diferentes: o Solar do Unhão (1962) e a Ladeira da Misericórdia (1987), preexistências de interesse cultural, que envolvem necessariamente a relação entre arquitetura e cidade. A abordagem busca estabelecer um confronto entre as referências conceituais presentes nos escritos da arquiteta, nos memoriais de projeto, e os parâmetros contidos nas teorias e nos documentos internacionais do campo disciplinar do restauro dos bens arquitetônicos. Além disso, pretende explorar os vínculos estabelecidos com o contexto de sua formação e com a tradição crítica italiana, de modo mais amplo. A produção de Lina Bo Bardi é aqui considerada pelo projeto do novo que surge a partir de uma complexa urdidura entre erudição e cultura popular, entre presente e passado. Rever essas duas intervenções, após tanto tempo desde suas concepções, considerando o abandono em que se encontra a Ladeira da Misericórdia, permite não só reavaliar os critérios do próprio plano ao qual estão associadas, mas analisar esses objetos em diferentes temporalidades, com base nas categorias criadas por Amorim: a morte lenta e dolorosa a que estava submetido o conjunto histórico de Salvador tanto no momento em que se decide pela intervenção no Solar do Unhão, como quando da atuação na Ladeira; a morte prematura do projeto da Ladeira da Misericórdia que a transforma em ruína antes mesmo de ter seu uso plenamente ativado; a oscilação entre vitalidade e morte anunciada presente na ação mais recente do Programa de Recuperação do Centro Histórico de Salvador (iniciado em 1992) baseada no resgate físico de uma cidade-mercadoria.'
   keywords:
   - memória urbana
   - patrimônio
@@ -903,7 +887,7 @@ articles:
   references:
   - 'ALMEIDA, E., BOGÉA, M., SILVA, L. O., REBELLO, Y. “Território de contato: Ladeira da Misericórdia, Salvador, Bahia”. Revista AU n.171, junho 2008.'
   - 'AMORIM, L. Obituário arquitetônico pernambucano modernista. Recife: UFPE: Funcultura, 2007.'
-  - 'BARDI, L. B. “Ladeira da misericórdia”. Revista Projeto 149, jan./ fev. 1992'
+  - BARDI, L. B. “Ladeira da misericórdia”. Revista Projeto 149, jan./ fev. 1992
   - 'BIERRENBACH, A. C. de Souza. Os restauros de Lina Bo Bardi e as interpretações da história. PPG-AU/FAUFBA, Dissertação de Mestrado, 2001.'
   - 'BOITO, C. Os restauradores. Tradução de Paulo M. Kühl e Beatriz M. Kühl. Cotia, SP: Ateliê Editorial, 2002.'
   - 'BONELLI, R. Verbete: “Il restauro architettonico”. Enciclopedia Universale dell’Arte, vol. XI, Veneza-Roma, Istituto per La colaborazione culturale, 1963.'
@@ -920,26 +904,26 @@ articles:
   - 'RISÉRIO, A. Avant Garde na Bahia. São Paulo: Instituto Lina Bo e P. M. Bardi, 1995.'
   - 'RUBINO, S. e GRINOVER, M. Lina por escrito. São Paulo: Cosacnaify, 2009.'
   - 'SANTOS, C. R. “Uma aula de arquitetura”. Revista Projeto n. 133. VIOLLET-LE-DUC, E. E. Restauração. Tradução de Beatriz M. Kühl. Cotia, S.P.: Ateliê Editorial, 2000. Site da internet : www.iphan.br'
-  locale: 'pt-BR'
-  file: 'sdnne03-020.pdf'
+  locale: pt-BR
+  file: sdnne03-020.pdf
   pages_count: 19
   pages: null
-
-- id: 'sdnne03-021'
+  abstract_en: 'Lina Bo Bardi''s work in the city of Salvador arouses interest due to its attempt to overcome the historical fracture between the ''old'' and the ''modern'', and by activating a relevant critical exercise applied to intervention regarding existent buildings and sites of documental value. This study analyses two interventions conceived at different moments: Solar do Unhão (1962), and Ladeira da Misericórdia (1987), existent cases of cultural interest which necessarily involve the relation between architecture and the city. The approach aims at establishing a parallel between conceptual references present in the architect''s writings and project records and the parameters contained in the theories and international documents pertaining to architectural heritage preservation as a field of study. In addition, it intends to explore the links established with the context of the architect''s training and with the Italian critical tradition, in a more ample way. Lina Bo Bardi''s production is considered here by way of the design which comes about via a complex weaving of both learned and popular culture, the present and the past. To look again at both the interventions so long after their conception, and considering the state of abandonment of the Ladeira da Memória, allows us not only to re-evaluate the criteria of the plan itself to which they are associated, but to analyse these objects in different time perspectives, based on the categories established by Amorim: the slow and painful death to which Salvador''s historical set was subjected by the time of the Solar do Unhão intervention as well as by the time action was taken regarding the Ladeira; the premature death of the Ladeira da Misericórdia project which made it into ruins even before its use had resumed; the oscillation between vitality and announced death present in the more recent action of the Historical Recuperation Program of the City of Salvador (started in 1992) based on the physical rescue of a commodity-town.'
+- id: sdnne03-021
   title: Moderno Colonial
   subtitle: Património escolar em Angola construído durante o Estado Novo português
   authors:
   - givenname: Ana Cristina Fernandes Vaz
     familyname: Milheiro
-    email: 'avmilheiro@gmail.com'
+    email: avmilheiro@gmail.com
     affiliation: ''
-    orcid: '0000-0001-7213-0478'
+    orcid: 0000-0001-7213-0478
     bio: null
     country: BR
     primary_contact: true
   - givenname: Jorge Manuel Figueira Fernandes
     familyname: Ferreira
-    email: 'ferreira@exemplo.com'
+    email: ferreira@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -960,7 +944,7 @@ articles:
   - 'CORREIA, Miguel Anacoreta (Coord.). Viva a Malta do Liceu! Liceu Nacional Salvador Correia, uma memória de 90 anos, Lisboa: Associação dos Antigos Alunos do Liceu Salvador Correia, Pangeia Editores; Luanda: Chá de Caxinde, 2009'
   - 'FERNANDES, José Manuel. Para o Estudo da Arquitectura e do Urbanismo no espaço ultramarino português, no século XX – alguns temas sobre Angola e Moçambique, Lisboa: Candidatura a Provas de Agregação, FA-UTL, 1999'
   - 'FERNANDES, José Manuel. Geração Africana – Arquitectura e Cidades em Angola e Moçambique, 1925-1975, Lisboa: Livros Horizonte, 2002'
-  - 'FERNANDES, José Manuel. “O arquitecto do Lobito”, Expresso, Actual, 18/02/2006, p. 42-43'
+  - FERNANDES, José Manuel. “O arquitecto do Lobito”, Expresso, Actual, 18/02/2006, p. 42-43
   - 'FERREIRA, André Faria. Obras Públicas em Moçambique – inventário da produção arquitectónica executada entre 1933 e 1961, Lisboa: Edições Universitárias Lusófonas, 2008'
   - 'FONTE, Maria Manuela Afonso de. Urbanismo e Arquitectura em Angola – de Norton de Matos à Revolução, Lisboa: Dissertação para Doutoramento em Planeamento Urbanístico, FA-UTL, 2007'
   - 'GOODWIN, Philip L., SMITH, G.E. Kidder. Brazil Builds – Architecture New and Old 1652-1942. New York: The Museum of Modern Art, 1943.'
@@ -975,7 +959,7 @@ articles:
   - 'MILHEIRO, Ana Vaz; DIAS, Eduardo Costa. “Arquitectura em Bissau e os Gabinetes de Urbanização Colonial (1944-1974)”, in arq.urb, Revista eletrônica de Arquitetura e Urbanismo, #2, 2009 (http://www.usjt.br/arq.urb/numero_02/artigo_ana.pdf)'
   - 'MILHEIRO, Ana; FIGUEIRA, Jorge, “A Joyous Architecture: as exposições de Arquitectura Moderna Brasileira em Portugal e a sua influência nos territórios português e africano” in 8º Seminário Docomomo Brasil, Cidade Moderna e Contemporânea: Síntese e Paradoxo das Artes, Rio de Janeiro, 1, 2, 3 e 4 de Setembro de 2009 [editado em CD]'
   - 'MONIZ, Gonçalo Canto. Arquitectura e Instrução, o projecto moderno do Liceu, 1836-1936, Coimbra: Ed.Arq, 2007'
-  - '“Porquê? Mistério que é necessário desvendar”, Noticias da Huila, 07/03/1941, nº 888, p. 1/3'
+  - “Porquê? Mistério que é necessário desvendar”, Noticias da Huila, 07/03/1941, nº 888, p. 1/3
   - 'RIBEIRO, Ana Isabel de Melo. Arquitectos Portugueses: 90 anos de vida associativa 1863-1953, Porto: FAUP Publicações, 2002'
   - 'RODRIGUES, Francisco Castro. “A Arquitectura Moderna Brasileira”, Palestra proferida pelo Senhor Arquitecto Francisco Castro Rodrigues, no dia 13 de Junho de 1961, integrada na Jornada Luso-Brasileira levada a efeito de colaboração com o Núcleo de Estudos Angolano-Brasileiros, na Cidade do Lobito [texto policopiado]'
   - 'RODRIGUES, Francisco Castro. “O Betão Nú e o Lobito”, Divulgação – Boletim da Câmara Municipal do Lobito, primeiro semestre, 1964, p.3-9'
@@ -984,17 +968,16 @@ articles:
   - 'ROSAS, Fernando; BRITO, JM Brandão de. Dicionário de História do Estado Novo, volume II, Lisboa: Bertrand Editora, 1996'
   - 'SANTOS, Martins dos. Cultura, Educação e Ensino em Angola, [Edição electrónica, 1998] http://reocities.com/Athens/troy/4285/ensino.html'
   - 'SIMÕES, João. “A Profissão de Arquitecto nas Colónias”, in: Sindicato Nacional dos Arquitectos, Actas do I Congresso de Arquitectura, Lisboa: SNA, 1948, p. 147-150'
-  locale: 'pt-BR'
-  file: 'sdnne03-021.pdf'
+  locale: pt-BR
+  file: sdnne03-021.pdf
   pages_count: 20
   pages: null
-
-- id: 'sdnne03-022'
+- id: sdnne03-022
   title: Monumentalidade e tectônica no fórum de Teresina de Acácio Gil Borsoi
   authors:
   - givenname: Amanda Rafaelly Casé
     familyname: Monteiro
-    email: 'arqamandacase@gmail.com'
+    email: arqamandacase@gmail.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1002,9 +985,9 @@ articles:
     primary_contact: true
   - givenname: Fernando Diniz
     familyname: Moreira
-    email: 'fmoreira@hotlink.com.br'
+    email: fmoreira@hotlink.com.br
     affiliation: ''
-    orcid: '0000-0002-1387-4036'
+    orcid: 0000-0002-1387-4036
     bio: null
     country: BR
     primary_contact: false
@@ -1026,37 +1009,36 @@ articles:
   - 'HARTOONIAN, Gevork. Ontology of construction: on nihilism of technology in theories of Modern Architecture, 1994.'
   - 'LEATHERBARREOW, David, MOSTAFAVI, Moshsen. On weathering: The life of buildings in time. Cambridge: The Mit Press, 1997 p. 51-53.'
   - 'MOURA, Éride. Arquitetura é construção. Disponível em: http://www.arcoweb.com.br/entrevista/acacio-gil-borsoi-arquitetura-e-24-07-2001.html'
-  - '_____.Ideal de vida. Disponível em: http://www.revistaau.com.br/arquitetura-urbanismo/139/ideal- de-vida-22242-1.asp'
+  - 'MOURA, Éride. Ideal de vida. Disponível em: http://www.revistaau.com.br/arquitetura-urbanismo/139/ideal- de-vida-22242-1.asp'
   - 'PALLASMAA, Juhani. Encounters, Architectural Essays. Helsinki: Rakennustieto, 2005.'
-  - 'Revista Projetodesign, Edição 257 Julho 2001.'
+  - Revista Projetodesign, Edição 257 Julho 2001.
   - 'SERT, Jose Luis, GIEDEON, Sigfried, LÉGER, Ferdinand. Nine Points on Monumentality. In: Joan Ockman (org). Architecture Culture 1943-1968. New York: Rizzoli, 1993. (pp.27-30).'
   - 'WOLF, José. Um mestre ainda aprendiz. Disponível em: http://www.revistaau.com.br/arquitetura- urbanismo/84/artigo24214-1.asp.'
-  locale: 'pt-BR'
-  file: 'sdnne03-022.pdf'
+  locale: pt-BR
+  file: sdnne03-022.pdf
   pages_count: 16
   pages: null
-
-- id: 'sdnne03-023'
-  title: 'Presenças e projectos de Simões de Carvalho em Portugal, em Angola e no Brasil'
+- id: sdnne03-023
+  title: Presenças e projectos de Simões de Carvalho em Portugal, em Angola e no Brasil
   authors:
   - givenname: Tânia Beisl
     familyname: Ramos
-    email: 'taniabeislramos@clix.pt'
+    email: taniabeislramos@clix.pt
     affiliation: ''
-    orcid: '0000-0002-6102-7288'
+    orcid: 0000-0002-6102-7288
     bio: null
     country: BR
     primary_contact: true
   - givenname: Madalena Cunha
     familyname: Matos
-    email: 'mcunhamatos@fa.utl.pt'
+    email: mcunhamatos@fa.utl.pt
     affiliation: ''
-    orcid: '0000-0003-1779-3855'
+    orcid: 0000-0003-1779-3855
     bio: null
     country: BR
     primary_contact: false
   section: Seção 2
-  abstract: ''
+  abstract: 'O arquitecto português Fernão Lopes Simões de Carvalho tem um vasto conjunto de obras construídas dispersas por três continentes: Europa, África e América. Nasceu em 1929 em Angola e faz estudos liceais e o curso de arquitectura em Lisboa. O seu fascínio pelo urbanismo levou-o a inscrever-se no Institut d’Urbanisme da Université de Paris - Sorbonne. Nesta cidade, integrou o pequeno número de colaboradores de Le Corbusier, trabalhando no seu atelier e no de Worgensky. Colaborou nos projectos da Unidade de Habitação de Berlim, do Mosteiro de La Tourette e do Pavilhão do Brasil na Cidade Universitária. Findo este período, as reduzidas oportunidades de trabalho em Portugal levaram-no a transferir-se para Luanda, onde ademais havia uma maior liberdade de aplicação dos ideais corbusianos. Este ciclo, que será o primeiro da sua vida profissional, centra-se na década de 60, com a estruturação do gabinete público de urbanização da capital angolana. O segundo ciclo centra-se em Lisboa, de onde realiza ainda trabalhos com destino a Angola. O terceiro ciclo ocorre após a revolução de 1974. De 1975 a 1979, Simões de Carvalho reside e desenvolve a sua vida profissional no Brasil, entre o Rio de Janeiro, a Bahia e o Recife. No quarto ciclo, está de volta a Portugal, onde projecta urbanizações e arquitectura habitacional, comercial e de equipamentos para Lisboa. O artigo apresenta a biografia e as obras realizadas deste arquitecto português e expõe o seu percurso triangular à volta do Atlântico.'
   keywords:
   - trajectórias
   - urbanismo moderno
@@ -1072,19 +1054,19 @@ articles:
   - 'FERNANDES, José Manuel. Geração Africana. Arquitectura e Cidades em Angola e Moçambique, 1925-1975. Lisboa: Livros Horizonte, 2002.'
   - 'MATOS, Madalena Cunha e RAMOS, Tânia Beisl. Um Encontro, um Desencontro. Lucio Costa, Raul Lino e Carlos Ramos. 7º Seminário DOCOMOMO Brasil, UFRS, Rio Grande do Sul, 2007.'
   - 'MATOS, Madalena Cunha e RAMOS, Tânia Beisl. Por via do Atlântico: traçados e monumentos urbanos no Brasil e em territórios africanos de colonização portuguesa. 8º Seminário DOCOMOMO Brasil, Rio de Janeiro, 2009.'
-  locale: 'pt-BR'
-  file: 'sdnne03-023.pdf'
+  locale: pt-BR
+  file: sdnne03-023.pdf
   pages_count: 11
   pages: null
-
-- id: 'sdnne03-024'
+  abstract_en: 'The Portuguese architect Fernão Lopes Simões de Carvalho has lived and worked in three continents: Europe, Africa and America. Although born in Angola, in 1929, he went to Lisbon for his secondary school studies and architectural diploma course. His fascination with town planning led him to enroll at the Institut d''Urbanisme of the University of Paris - Sorbonne. In this city, he joined the small number of employees of Le Corbusier, working in his studio and in Worgensky’s. He collaborated in the projects of the Unité d’Habitation of Berlin, in the Monastery of La Tourette and Brazil’s Pavilion at the Cité Universitaire After this period, the inhospitable context in Portugal, offering few work opportunities, led him to set out to Luanda, where there was greater freedom for the application of Le Corbusier’s ideals. This cycle, which will be the first of his professional life, takes place in the 60’s, culminating in the structuring of the public office of urbanization of the Angolan capital. The second cycle takes place in Lisbon, where he also conducts work destined for Angola. The third cycle takes place after the revolution of 1974. From 1975 to 1979, Simões de Carvalho lives and develops his professional life in Brazil, between Rio de Janeiro, Bahia and Recife. In the fourth cycle he is back in Portugal, where he projects urban plans settlements and residential and commercial architecture, as well as various public facilities in Lisbon. The article presents the biography and main production of the Portuguese architect and describes his triangular route around the Atlantic.'
+- id: sdnne03-024
   title: As experiências do habitar moderno em João Pessoa entre 1950/1970
   authors:
   - givenname: Carolina Marques Chaves
     familyname: Galvão
-    email: 'carolinamchaves@gmail.com'
+    email: carolinamchaves@gmail.com
     affiliation: ''
-    orcid: '0000-0001-9444-3424'
+    orcid: 0000-0001-9444-3424
     bio: null
     country: BR
     primary_contact: true
@@ -1099,18 +1081,17 @@ articles:
   - Modern Architecture
   - João Pessoa
   - Modern Living
-  locale: 'pt-BR'
-  file: 'sdnne03-024.pdf'
+  locale: pt-BR
+  file: sdnne03-024.pdf
   pages_count: 19
   pages: null
-
-- id: 'sdnne03-025'
-  title: 'Arquitetura Moderna, verticalização e novas formas de habitar a cidade'
-  subtitle: 'Campina Grande (PB) 1955-1970'
+- id: sdnne03-025
+  title: Arquitetura Moderna, verticalização e novas formas de habitar a cidade
+  subtitle: Campina Grande (PB) 1955-1970
   authors:
   - givenname: Felipe
     familyname: Crispim
-    email: 'crispim@exemplo.com'
+    email: crispim@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1118,7 +1099,7 @@ articles:
     primary_contact: true
   - givenname: Emanuel
     familyname: Souto
-    email: 'souto@exemplo.com'
+    email: souto@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1136,14 +1117,19 @@ articles:
   - Vertical Integration
   - Campina Grande (PB)
   references:
-  - '1. ALMEIDA, A. Da Construção de uma Arte Nacional aos Murais de Campina Grande. Anais do 8° Seminário DOCOMOMO Nacional. Rio de Janeiro, RJ. 4. FREIRE, Adriana. Arquitetura Moderna Residencial de Campina Grande: registros e especulações (1960 – 1969) Monografia (Graduação em Arquitetura e Urbanismo) – Centro de Tecnologia da Universidade Federal da Paraíba, João Pessoa, 2007 5. O BANCO Industrial de Campina Grande S.A. Retalhos Históricos de Campina Grande. Disponível em <http://cgretalhos.blogspot.com/2010/03/o-banco-industrial-de-campina-grande- sa.html>. Acesso em: 15 fev. 2010. 6. PINHEIRO, M. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista v. 16. n.1. jan.-jun. 2008. São Paulo, SP. 7. QUEIROZ, M.; ROCHA, F. Caminhos da arquitetura moderna em campina grande: emergência, difusão e a produção dos anos 1950. Anais do 1° Seminário DOCOMOMO Norte-Nordeste Brasil. Recife, PE. 8. SOMEKH, N. A cidade vertical e o urbanismo modernizador. São Paulo: Editora da Universidade de São Paulo, 1997. 9. VAZ, L. Modernidade e moradia – habitação coletiva no Rio de Janeiro séculos XIV e XX. Rio de Janeiro: 7 Letras, 2002.'
-  locale: 'pt-BR'
-  file: 'sdnne03-025.pdf'
+  - 'ALMEIDA, A. Da Construção de uma Arte Nacional aos Murais de Campina Grande. Anais do 8° Seminário DOCOMOMO Nacional. Rio de Janeiro, RJ.'
+  - 'FREIRE, Adriana. Arquitetura Moderna Residencial de Campina Grande: registros e especulações (1960 – 1969) Monografia (Graduação em Arquitetura e Urbanismo) – Centro de Tecnologia da Universidade Federal da Paraíba, João Pessoa, 2007.'
+  - 'O BANCO Industrial de Campina Grande S.A. Retalhos Históricos de Campina Grande. Disponível em <http://cgretalhos.blogspot.com/2010/03/o-banco-industrial-de-campina-grande- sa.html>. Acesso em: 15 fev. 2010.'
+  - 'PINHEIRO, M. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista v. 16. n.1. jan.-jun. 2008. São Paulo, SP.'
+  - 'QUEIROZ, M.; ROCHA, F. Caminhos da arquitetura moderna em campina grande: emergência, difusão e a produção dos anos 1950. Anais do 1° Seminário DOCOMOMO Norte-Nordeste Brasil. Recife, PE.'
+  - 'SOMEKH, N. A cidade vertical e o urbanismo modernizador. São Paulo: Editora da Universidade de São Paulo, 1997.'
+  - 'VAZ, L. Modernidade e moradia – habitação coletiva no Rio de Janeiro séculos XIV e XX. Rio de Janeiro: 7 Letras, 2002.'
+  locale: pt-BR
+  file: sdnne03-025.pdf
   pages_count: 14
   pages: null
-
-- id: 'sdnne03-026'
-  title: 'Arquitetura residencial em João Pessoa-PB'
+- id: sdnne03-026
+  title: Arquitetura residencial em João Pessoa-PB
   subtitle: a experiência moderna nos anos 1970
   authors:
   - givenname: Ricardo Ferreira de
@@ -1155,9 +1141,9 @@ articles:
     country: BR
     primary_contact: true
   section: Seção 3
-  abstract: ''
+  abstract: 'Em meados da década de 80, a Revista Projeto publicava o catálogo Arquitetura Brasileira Atual, com textos de apresentação de Hugo Segawa e Ruth Verde Zein, o qual apresentava um corpus de obras e arquitetos atuantes nas décadas de 60 e 70. Naqueles anos 1980, compreender a produção arquitetônica brasileira pós-64 tornava-se uma missão significativa para reacender o debate arquitetônico brasileiro enfraquecido pela ditadura militar. Em sua tese de doutoramento SPADONI (2003) trata das “trajetórias” que caracterizaram a produção arquitetônica brasileira dos anos 1970. Marcada pela inventividade, esta produção mantinha-se alinhada com o pensamento moderno e somente na passagem dos anos 1970 para os anos 1980 sintonizava o debate internacional envolto com uma chamada arquitetura “pós-moderna”. Tomando como base a tese de Spadoni, este trabalho trata da experiência moderna observada nas habitações unifamiliares construídas em João Pessoa nos anos 1970. Em um dos grupos residenciais a experiência moderna estava oculta e para observá-la foi necessário buscar em sua essência o tipo de experiência, pois na aparência elas não se apropriavam do vocabulário moderno. Outras experiências observadas remeteram ao repertório do movimento moderno do período áureo brasileiro dos anos 19401960; à experiência do concreto bruto aparente, ou do “prisma elevado” e do “grande abrigo” da arquitetura brutalista paulista dos anos 60 e à experiência em que o clima da região Nordeste influenciou fortemente a concepção arquitetônica. Mas também vamos encontrar, num número restrito de casas, uma experiência que se distingue das demais experiências. Trata de experiências que expõe o fazer construtivo, deixando o material aparente e aplicando ao tipo residencial a experiência da pré-fabricação industrial.'
   keywords:
-  - 's: residências'
+  - residências
   - modernismo
   - anos 1970
   keywords_en:
@@ -1177,27 +1163,27 @@ articles:
   - 'SANVITTO, Maria Luiza Adams. Brutalismo Paulista: uma análise compositiva de residências paulistanas entre 1957 e 1972. Porto Alegre: UFRGS, Faculdade de Arquitetura, Dissertação de mestrado, 1994.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2ª. Edição. São Paulo: Editora da USP, 2002.'
   - 'SPADONI, Francisco. A Transição do Moderno – Arquitetura Brasileira nos anos de 1970. São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Tese de Doutoramento, 2003.'
-  locale: 'pt-BR'
-  file: 'sdnne03-026.pdf'
+  locale: pt-BR
+  file: sdnne03-026.pdf
   pages_count: 23
   pages: null
-
-- id: 'sdnne03-027'
+  abstract_en: 'In the mid-1980s, the magazine Projeto published the Actual Brazilian Architecture catalogue presenting texts by Hugo Segawa and Ruth Verde Zein with a corpus of works and engaged architects of the 1960s and 1970s. To comprehend the Brazilian architectural production post-1964, in those years of the 1980s, became a significant mission to reactivate the Brazilian architectural debate weakened by the military dictatorship. In his doctoral thesis SPADONI (2003) deals with the different ways which characterises the Brazilian architectural production of the 1970s. Marked by inventiveness, this production was in tune with the modern thinking and in the transition period between the 1970s and the 1980s it synchronized with the international debate in trend called “post-modern” architecture. Considering Spadoni’s doctoral thesis, this work deals with the modern experience observed in the one-family-houses built in the seventies in João Pessoa. In one of the residential groups the modern experience was not explicit in its appearance and did not reveal the use of the modern language. Other observed experiences allude to the repertoire of the golden Brazilian period in the years 1940s-1960s, to the experience of the Brutalist buildings in the state of São Paulo and to those experiences in which the climate of the Northeastern region strongly influenced the architectural conception. We can also find in a reduced number of houses a particular experience when compared to the experiences realised in some other residences: it refers to experiences that expose the constructive doing, which leave the material apparent and apply to the residential type the experience of the industrial pre-fabricated buildings.'
+- id: sdnne03-027
   title: Augusto Reynaldo
   authors:
   - givenname: Juliano Loureiro Celino Morais de
     familyname: Carvalho
-    email: 'julianolcarvalho@gmail.com'
+    email: julianolcarvalho@gmail.com
     affiliation: ''
-    orcid: '0000-0001-9210-5771'
+    orcid: 0000-0001-9210-5771
     bio: null
     country: BR
     primary_contact: true
   - givenname: Adriana Leal de
     familyname: Almeida
-    email: 'lalmeida@sc.usp.br'
+    email: lalmeida@sc.usp.br
     affiliation: ''
-    orcid: '0009-0004-4822-5767'
+    orcid: 0009-0004-4822-5767
     bio: null
     country: BR
     primary_contact: false
@@ -1222,18 +1208,17 @@ articles:
   - 'NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim. São Paulo, 2004. Tese (Doutorado) – PPG- AU/FAU/ USP.'
   - 'QUEIROZ, M. V. D. Quem te vê não te conhece mais: arquitetura e cidade de Campina Grande em transformação (1930-1950). São Carlos, 2008. Dissertação (Mestrado) – PPG-AU/EESC/USP.'
   - 'QUEIROZ, M. ; ROCHA, Fabiano de Melo Duarte. Caminhos da arquitetura moderna em Campina Grande: emergência, difusão e produção dos anos 1950. In: DINIZ, Fernando M. (org.). Arquitetura moderna no Norte e Nordeste do Brasil. Recife: FASA/Docomomo PE, 2007, p.259-276.'
-  locale: 'pt-BR'
-  file: 'sdnne03-027.pdf'
+  locale: pt-BR
+  file: sdnne03-027.pdf
   pages_count: 29
   pages: null
-
-- id: 'sdnne03-028'
+- id: sdnne03-028
   title: Casas da orla marítima de João Pessoa
   subtitle: um olhar sobre a Arquitetura Moderna (1960–1974)
   authors:
   - givenname: Roberta Xavier
     familyname: Costa
-    email: 'xavier@exemplo.com'
+    email: xavier@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1251,7 +1236,7 @@ articles:
   - dissemination
   - residences Paraíba
   references:
-  - 'ACAYABA, Marlene Milan & FICHER, Silvia. Arquitetura Moderna Brasileira. São Paulo, Projeto, 1982.'
+  - ACAYABA, Marlene Milan & FICHER, Silvia. Arquitetura Moderna Brasileira. São Paulo, Projeto, 1982.
   - 'ALMEIDA, Adriana Leal de. Arquitetura Moderna Residencial de Campina Grande: Registros e Especulações (1960-1969). Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa, 2007.'
   - 'AMORIM, Luiz do Eiraldo. Obituário Arquitetônico: Pernambuco Modernista. Recife, Gráfica Santa Marta, 2007.'
   - 'ANDRADE, Sayonara & FERNANDES, Ana Emilia. Registro moderno: Residência José Pinheiro. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2009.'
@@ -1266,7 +1251,7 @@ articles:
   - 'COSTA, Robson Xavier & COSTA, Roberta Xavier. Trajetórias da cidade: as imagens das fachadas nos projetos de arquitetura residencial como indício da História de João Pessoa. João Pessoa: Arcus, 2009.'
   - 'CHAVES, Carolina. João Pessoa: verticalização, progresso e modernidade 1958 – 1975. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa. 2008.'
   - 'DIAS, Angela Teixeira & GONÇALVES, Camilla D. Registro moderno: Residência José Waldomiro Ribeiro Coutinho. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2009.'
-  - 'GAMBARRA, Thaíse.& TINEM, Nelci. HOTEL TAMBAÚ E A MODERNIDADE DA CAPITAL DA'
+  - GAMBARRA, Thaíse.& TINEM, Nelci. HOTEL TAMBAÚ E A MODERNIDADE DA CAPITAL DA
   - PARAÍBA. OS JORNAIS COMO INSTRUMENTO DE CONSTRUÇÃO DA HISTÓRIA DA
   - 'ARQUITETURA. Belo Horizonte: Anais do SLAAD. 2008.'
   - 'GOLDFARB, Marina & MARTINS, Paula Dieb. Registro moderno: Residência Gilson Espínola Guedes. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2009.'
@@ -1275,28 +1260,27 @@ articles:
   - 'LEMOS, Denise Alves & MONTEIRO, Raissa G. Registro moderno: Residência Major Adolfo Lira Fernandes Maia. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2009.'
   - 'LIMA, Kelly Christine Silva Registro da Arquitetura Moderna em João Pessoa. Residência Ferdinando Paraguay Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: PPGAU/UFRN/UFPB/LPPM, 2009.'
   - 'MAZZARO, João Felipe & OASHI, Thaisa. Registro moderno: COSIBRA. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2009.'
-  - 'NESBITT, Kate. Uma Nova Agenda para Arquitetura. Antologia Teórica 1965-1995.'
+  - NESBITT, Kate. Uma Nova Agenda para Arquitetura. Antologia Teórica 1965-1995.
   - 'NISHIDA, Nathalia et al.Um registro da arquitetura moderna. Residência Astralgésilo de Freitas. (Graduação) João Pessoa: UFPB/LPPM, 2009.'
   - 'ROCHA, Mércia Pereira. Manifestações da Arquitetura Moderna em João Pessoa. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa, 1987.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900 – 1990. São Paulo: Editora da Universidade de São Paulo, 2002.'
   - 'SILVA, Izabel do Amaral e. Um olhar sobre a obra de Acácio Gil Bórsoi: obras e projetos residenciais 1953 – 1970. Dissertação (Mestrado em Arquitetura e Urbanismo) PPGAU/UFRN, Natal, 2004.'
   - 'TAVARES,Lia, TAVARES, Marieta & TINEM, Nelci. Arquitetura Moderna em João Pessoa. A memória moderna e local de um movimento Internacional. Niterói, VI Docomomo Brasil, 2005. <'
-  - 'http://www.docomomo.org.br>. Acessado em 28 de maio de 2009.'
+  - http://www.docomomo.org.br>. Acessado em 28 de maio de 2009.
   - 'PEREIRA, Fúlvio Teixeira de Barros. Difusão da Arquitetura Moderna na cidade de João Pessoa (1956-1974). Dissertação (Mestrado em Arquitetura e Urbanismo) - EESC/USP, São Carlos, 2006.'
   - 'TRAJANO FILHO, Francisco Sales. Do rio ao mar: uma leitura da cidade de João Pessoa entre duas margens. In TINEM, Nelci, (org.). Fronteiras Marcos e Sinais. Leituras das ruas de João Pessoa. João Pessoa; Editora Universitária/Prefeitura Municipal de João Pessoa, 2006.'
   - 'VIANA, Mariana Porto. Residência Antônio José do Amaral. Arquitetura Moderna Residencial na Orla Marítima de João Pessoa. Relatório do Estágio Supervisionado VI (Graduação) João Pessoa: UFPB/LPPM, 2008.'
-  locale: 'pt-BR'
-  file: 'sdnne03-028.pdf'
+  locale: pt-BR
+  file: sdnne03-028.pdf
   pages_count: 17
   pages: null
-
-- id: 'sdnne03-029'
+- id: sdnne03-029
   title: Conjunto Residencial Nova Tirol
-  subtitle: 'novas perspectivas (modernas) para a habitação em Natal-RN nos anos 1950'
+  subtitle: novas perspectivas (modernas) para a habitação em Natal-RN nos anos 1950
   authors:
   - givenname: Luiza
     familyname: Lima
-    email: 'lima@exemplo.com'
+    email: lima@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1306,13 +1290,13 @@ articles:
     familyname: Almeida
     email: null
     affiliation: ''
-    orcid: '0000-0002-8477-389X'
+    orcid: 0000-0002-8477-389X
     bio: null
     country: BR
     primary_contact: false
   - givenname: Angela Lúcia de Araújo
     familyname: Ferreira
-    email: 'ferreira@exemplo.com'
+    email: ferreira@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1341,59 +1325,57 @@ articles:
   - 'INSS. Processos de financiamento (1937-1964). Natal: INSS-RN, 2007-2008.'
   - 'IBGE. Estatística do Século XX. Disponível em: <http://www.ibge.gov.br/seculoxx/arquivos_xls/ palavra_chave/trabalho/salario_minimo.shtm>. Acesso em: 03 mar 2010.'
   - 'LIMA, Luiza M. M. de; FERREIRA, Angela L. de A. Os IAPs e a configuração arquitetônica e urbanística dos conjuntos de moradias. Natal: PROPESQ, 2009. Relatório final de iniciação científica.'
-  - 'PORTO, Rubens. O problema das casas operárias e os Institutos e Caixas de Pensões. Rio de Janeiro, 1983.'
+  - PORTO, Rubens. O problema das casas operárias e os Institutos e Caixas de Pensões. Rio de Janeiro, 1983.
   - 'RODRIGUES, Clara O. M.; LIMA, Luiza M. M.; FERREIRA, Angela L. de A. A influência dos IAPS na configuração urbana de Natal: o caso de Tirol, Petrópolis e Alecrim nas Décadas de 1940 a 1960. In: I SEHTHAB, 2008, Itatiba, SP. Anais do I SEHTHAB. Itatiba: Universidade de São Francisco, 2008. v.1. p.1-12. VAI CONSTRUIR o IAPC um grupo residencial no Tirol. Tribuna do Norte, n.864, 26/03/1953, p.08.'
-  locale: 'pt-BR'
-  file: 'sdnne03-029.pdf'
+  locale: pt-BR
+  file: sdnne03-029.pdf
   pages_count: 18
   pages: null
-
-- id: 'sdnne03-030'
+- id: sdnne03-030
   title: Os arquitetos Sylvio de Vasconcellos e Delfim Amorim
   subtitle: aproximações e distinções sobre o conceito do morar moderno
   authors:
   - givenname: Suellen dos
     familyname: Santos
-    email: 'santos.3@exemplo.com'
+    email: santos.3@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-7280-7856'
+    orcid: 0000-0001-7280-7856
     bio: null
     country: BR
     primary_contact: true
   - givenname: Celina Borges
     familyname: Lemos
-    email: 'celina.lemos@uol.com.br'
+    email: celina.lemos@uol.com.br
     affiliation: ''
-    orcid: '0000-0001-8717-8095'
+    orcid: 0000-0001-8717-8095
     bio: null
     country: BR
     primary_contact: false
   - givenname: André
     familyname: Dornelles
-    email: 'dornelles@exemplo.com'
+    email: dornelles@exemplo.com
     affiliation: ''
-    orcid: '0000-0002-7143-6202'
+    orcid: 0000-0002-7143-6202
     bio: null
     country: BR
     primary_contact: false
   section: Seção 3
-  abstract: 'A formação do arquiteto Sylvio de Vasconcellos atribuiu-lhe uma oportunidade de representar a condição de testemunha do modernismo mineiro. Enquanto apurava seus conhecimentos e destacava-sena academia e nas suas experiências como pesquisador, professor e diretor do IPHAN, o arquiteto criou oportunidades para construir vários projetos. Entre eles ressaltam-se vários projetos residenciais entre outras relevantes arquiteturas. Seguindo os ensinamentos modernistas, seus espaços, segundo sua singela análise, figuram uma despretensiosa beleza e fisionomia não maquiada. O arquiteto Delfim Amorim nasceu em Portugal e se fixou no Brasil, no Recife, em dezembro de 1951, tendo se naturalizado brasileiro em 1956. Tanto no seu país de origem como no Brasil realizou um conjunto de obras arquitetônicas inseridas no Movimento Moderno e que alcançaram repercussão pela qualidade e originalidade de suas concepções. O arquiteto, além de ter recebido vários prêmios, também atuou como professor e pesquisador, tendo colaborado com o Serviço Federal de Proteção aos Monumentos Nacionais elaborando pareceres sobre patrimônio cultural nordestino. Este artigo examina as peculiaridades conceituais e projetuais que aproximam e distanciam tais arquitetos. Neste contexto observa-se que entre as suas aproximações têm-se que muito contribuíram para a elucidação de identidades regionais tão em pauta naquele período.'
+  abstract: 'A formação do arquiteto Sylvio de Vasconcellos atribuiu-lhe uma oportunidade de representar a condição de testemunha do modernismo mineiro. Enquanto apurava seus conhecimentos e destacava-se na academia e nas suas experiências como pesquisador, professor e diretor do IPHAN, o arquiteto criou oportunidades para construir vários projetos. Entre eles ressaltam-se vários projetos residenciais entre outras relevantes arquiteturas. Seguindo os ensinamentos modernistas, seus espaços, segundo sua singela análise, figuram uma despretensiosa beleza e fisionomia não maquiada. O arquiteto Delfim Amorim nasceu em Portugal e se fixou no Brasil, no Recife, em dezembro de 1951, tendo se naturalizado brasileiro em 1956. Tanto no seu país de origem como no Brasil realizou um conjunto de obras arquitetônicas inseridas no Movimento Moderno e que alcançaram repercussão pela qualidade e originalidade de suas concepções. O arquiteto, além de ter recebido vários prêmios, também atuou como professor e pesquisador, tendo colaborado com o Serviço Federal de Proteção aos Monumentos Nacionais elaborando pareceres sobre patrimônio cultural nordestino. Este artigo examina as peculiaridades conceituais e projetuais que aproximam e distanciam tais arquitetos. Neste contexto observa-se que entre as suas aproximações têm-se que muito contribuíram para a elucidação de identidades regionais tão em pauta naquele período.'
   keywords:
   - Arquitetura Moderna
   - Cultura
   - Moradia
-  locale: 'pt-BR'
-  file: 'sdnne03-030.pdf'
+  locale: pt-BR
+  file: sdnne03-030.pdf
   pages_count: 14
   pages: null
-
-- id: 'sdnne03-031'
+- id: sdnne03-031
   title: Modernismo Potiguar
-  subtitle: 'vida, reprodução e quase morte'
+  subtitle: vida, reprodução e quase morte
   authors:
   - givenname: Fernanda
     familyname: Cappi
-    email: 'cappi@exemplo.com'
+    email: cappi@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1401,15 +1383,15 @@ articles:
     primary_contact: true
   - givenname: Edja Bezerra Faria
     familyname: Trigueiro
-    email: 'trigueiro@exemplo.com'
+    email: trigueiro@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-2847-5326'
+    orcid: 0000-0003-2847-5326
     bio: null
     country: BR
     primary_contact: false
   - givenname: Maira
     familyname: Nascimento
-    email: 'nascimento@exemplo.com'
+    email: nascimento@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1425,7 +1407,7 @@ articles:
   - 'ARAUJO, Ricardo. “Arquitetura residencial em João Pessoa: a experiência moderna nos anos 1970”. Dissertação de Mestrado, Natal, PPGAU/UFRN, 2010'
   - 'CASCUDO, Luiz da Câmara. História da cidade do Natal. Rio de Janeiro: Civilização Brasileira; Brasília: INL; Natal: UFRN, 1980'
   - 'FERREIRA, Ângela, DANTAS, George e EDUARDO, Anna Rachel. “A paisagem criada pelo saneamento”. XVII Congresso Brasileiro de Arquitetos. Rio de Janeiro, 2003'
-  - 'LARA, Fernando. “A insustentável leveza da modernidade” in Arquitextos, Vitruvius, Texto Especial 276 – fevereiro 2005'
+  - LARA, Fernando. “A insustentável leveza da modernidade” in Arquitextos, Vitruvius, Texto Especial 276 – fevereiro 2005
   - 'LIMA, Pedro. Arquitetura no Rio Grande do Norte: uma introdução. Natal: Cooperativa Cultural Universitária, 2002'
   - 'LIMA, Fábio Ribeiro de. “Machadão, poema do concreto e exemplar brutalista”. Trabalho disciplinar de História e Teoria da Arquitetura, Natal: UFRN, 2005.'
   - 'MARQUES, Sônia, NASLAVSKY, Guilah. “Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno” in Arquitextos, Vitruvius, Texto Especial 065 – abril 2001'
@@ -1435,25 +1417,24 @@ articles:
   - 'MOREIRA, D. Fernando. “Arquitetura moderna no Norte e Nordeste: uma estratégia de reconciliação” in MOREIRA, D. Fernando (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. Recife: FASA, 2007'
   - 'PEREIRA, Marizo Vitor. “Análise da concepção arquitetural à luz da arquiteturologia: um estudo da produção de edifícios de uso não-residencial do arquiteto João Maurício Fernandes de Miranda, entre 1961 e 1981”. Dissertação de Mestrado. Natal: UFRN, 2008'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil. São Paulo: Edusp, 1997'
-  - 'TRIGUEIRO, Edja. “Arquitetura da UFRN” in NEWTON JR, Carlos (org), TRIGUEIRO, Edja B.F.'
+  - TRIGUEIRO, Edja. “Arquitetura da UFRN” in NEWTON JR, Carlos (org), TRIGUEIRO, Edja B.F.
   - 'YAMAMOTO, Oswaldo H. e MELO, Paulo de Tarso C.. Portal da memória – Universidade Federal do Rio Grande do Norte: 45 anos de federalização (1960-2005) Brasília, DF: Senado Federal, 2005'
   - 'TRIGUEIRO, Edja e MEDEIROS, Valério A. S. “Of dwellings and streets that connect: a brief honey-moon”. Anais do ISUF 2007 -International Seminar on Urban Form. Ouro Preto, 2007'
   - 'TRIGUEIRO, Edja e ELALI, Gleice. VELOSO, Maísa. “Urbanismo modernizador, consolidação modernista, re-uso pós-moderno: a dinâmica de transformação urbana em Natal e a dilapidação de seu acervo arquitetônico”. Anais do DoCoMoMo Brasil 2007, Porto Alegre:UFRGS, 2007'
   - 'TRIGUEIRO, Edja et al. “Inventário de uma herança ameaçada: um estudo de centros históricos do Seridó. Projeto de Extensão. Natal: MUsA, UFRN (1996-2000). Parcialmente disponível em www.musa.ct.ufrn.br/bdc'
   - 'VIEIRA, Anaceli de Carvalho. “Hotel Internacional dos Reis Magos”. Trabalho disciplinar de História e Teoria da Arquitetura, Natal: UFRN, 2003.'
   - 'Site: Carpe Diem, 28/04/2009, http://manucarpediem.wordpress.com/2009/04/28/moacyr-gomes-sua- obra-e-o-machadao/ http://manucarpediem.wordpress.com/2009/04/28/moacyr-gomes-sua-obra-e- o-machadao/ consultado em 03/03/2010'
-  locale: 'pt-BR'
-  file: 'sdnne03-031.pdf'
+  locale: pt-BR
+  file: sdnne03-031.pdf
   pages_count: 26
   pages: null
-
-- id: 'sdnne03-032'
-  title: 'A Arquitetura, a trama e o parque'
+- id: sdnne03-032
+  title: A Arquitetura, a trama e o parque
   subtitle: um olhar transversal no processo de modernização da cidade de João Pessoa
   authors:
   - givenname: Maria Cecilia
     familyname: Almeida
-    email: 'almeida.4@exemplo.com'
+    email: almeida.4@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1463,7 +1444,7 @@ articles:
   abstract: ''
   references:
   - 'ALMEIDA, Maria Cecilia F. de. Espaços Públicos em João Pessoa (1889-1940): Formas, Usos e Nomes. Dissertação de Mestrado, EESC-USP, São Carlos, 2006.'
-  - 'ANDRADE, Carlos R.M. “Saturnino de Brito, um projetista de cidade” Revista AU, N°72, jun/jul 1997'
+  - ANDRADE, Carlos R.M. “Saturnino de Brito, um projetista de cidade” Revista AU, N°72, jun/jul 1997
   - 'INACIO, Joaquim. Notícias de uma viagem à Paraíba, em 1924. Mossoró: 1987.'
   - 'MARIZ, Celso. Evolução Econômica da Paraíba. João Pessoa: A União, 1978.'
   - 'MONTANER, Josep Maria. A Modernidade Superada. Barcelona: Gustavi Gili, 2001'
@@ -1471,20 +1452,19 @@ articles:
   - 'PREFEITURA MUNICIPAL DE JOÃO PESSOA. Mensagem Apresentada à Câmara Municipal de João Pessoa pelo prefeito interino, Dr. Oscar Castro. João Pessoa: Imprensa Oficial, 1936.'
   - RYKWERT. Joseph. A sedução do lugar. São Paulo. Martins Fontes. 2004.
   - 'SALGADO, Ivone. “A modernização da cidade setecentista: o contributo das culturas urbanísticas francesa e inglesa”. In: TEIXEIRA, C. Manuel (coord.) A Construção da cidade brasileira. Lisboa: Livros Horizontz, 2004.'
-  - 'VIDAL, Adhemar. “Chonica” Revista Era Nova.Parahyba, n°7, 01 abr.1925.'
-  locale: 'pt-BR'
-  file: 'sdnne03-032.pdf'
+  - VIDAL, Adhemar. “Chonica” Revista Era Nova.Parahyba, n°7, 01 abr.1925.
+  locale: pt-BR
+  file: sdnne03-032.pdf
   pages_count: 18
   pages: null
-
-- id: 'sdnne03-033'
+- id: sdnne03-033
   title: A produção Art Déco e as transformações na Arquitetura de João Pessoa com o advento da “Modernidade”
   authors:
   - givenname: Fernanda de Castro
     familyname: Farias
     email: null
     affiliation: ''
-    orcid: '0000-0002-4168-6905'
+    orcid: 0000-0002-4168-6905
     bio: null
     country: BR
     primary_contact: true
@@ -1500,19 +1480,24 @@ articles:
   - João Pessoa
   - Advent of Modernity
   references:
-  - '1. CAMPOS, Victor José Baptista. O Art Déco e a Construção do Imaginário Moderno: um estudo de linguagem arquitetônica. São Paulo: FAUUSP, 2003. Tese de Doutorado. 2. CAMPOS, Victor José Baptista. O Art Déco na Arquitetura Paulistana. Uma outra face do Moderno. São Paulo: FAUUSP,1996. Dissertação de mestrado. 3 CZAJKOWSKI, Jorge. (org.). Guia da arquitetura Art Déco no Rio de Janeiro.Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/Casa da Palavra, 2000. 4. CZAJKOWSKI, Jorge (coord.) Primeiro Seminário Internacional Art Déco na América Latina. Rio de Janeiro:PUC/RJ, 1997. 5. FIGUEIRÓ, Aline Fortes. Art Deco no Sul do Brasil, o caso da Avenida Farrapos, Porto Alegre'
-  - 'RS. Brasília: Unb, 2007. Dissertação de mestrado. 6. QUEIROZ, Marcus Vinicius. Quem te vê não te conhece mais. Arquitetura e Cidade de Campina Grande em Transformações (1930 -1950). São Carlos:FAU/USP, 2008. Dissertação de Mestrado. 7. UNES, Wolney. Identidade art déco de Goiânia. São Paulo:Ed. Da UFG,2001. 8. VIANA, Alice de Oliveira.A persistência dos rastros: manifestações do Art Déco na arquitetura de Florianópolis. Florianópolis: CEART/ UDESC, 2008. Dissertação de Mestrado.'
-  locale: 'pt-BR'
-  file: 'sdnne03-033.pdf'
+  - 'CAMPOS, Victor José Baptista. O Art Déco e a Construção do Imaginário Moderno: um estudo de linguagem arquitetônica. São Paulo: FAUUSP, 2003. Tese de Doutorado.'
+  - 'CAMPOS, Victor José Baptista. O Art Déco na Arquitetura Paulistana. Uma outra face do Moderno. São Paulo: FAUUSP,1996. Dissertação de mestrado.'
+  - 'CZAJKOWSKI, Jorge. (org.). Guia da arquitetura Art Déco no Rio de Janeiro.Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/Casa da Palavra, 2000.'
+  - CZAJKOWSKI, Jorge (coord.) Primeiro Seminário Internacional Art Déco na América Latina. Rio de Janeiro:PUC/RJ, 1997.
+  - 'FIGUEIRÓ, Aline Fortes. Art Deco no Sul do Brasil, o caso da Avenida Farrapos, Porto Alegre RS. Brasília: Unb, 2007. Dissertação de mestrado.'
+  - 'QUEIROZ, Marcus Vinicius. Quem te vê não te conhece mais. Arquitetura e Cidade de Campina Grande em Transformações (1930 -1950). São Carlos:FAU/USP, 2008. Dissertação de Mestrado.'
+  - UNES, Wolney. Identidade art déco de Goiânia. São Paulo:Ed. Da UFG,2001.
+  - 'VIANA, Alice de Oliveira.A persistência dos rastros: manifestações do Art Déco na arquitetura de Florianópolis. Florianópolis: CEART/ UDESC, 2008. Dissertação de Mestrado.'
+  locale: pt-BR
+  file: sdnne03-033.pdf
   pages_count: 14
   pages: null
-
-- id: 'sdnne03-034'
+- id: sdnne03-034
   title: A Sinfonia em dois tempos composta pelos mestres modernos
   authors:
   - givenname: Amélia
     familyname: Reynaldo
-    email: 'reynaldo.2@exemplo.com'
+    email: reynaldo.2@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1531,28 +1516,27 @@ articles:
   - 'BORBA, Lauro. Os novos horizontes da administração municipal. In: Diário da Manhã. Recife, 10/5/1931.'
   - 'CAVALCANTI, Lauro. As preocupações do Belo. Tese de doutorado. Rio de Janeiro: Universidade Federal do Rio de Janeiro, 1993.'
   - 'COSTA, Lucio. Carta dirigida a Rodrigo de Melo Franco, diretor geral do SPHAN. In: Revista do Patrimônio Histórico e Artístico Nacional, nº22. Rio de Janeiro, 1987. Diário da Manhã. Recife, 28/04/1931. Diário da Manhã. Recife, 09/08/1931. Diário da Manhã. Recife, 23/04/1938. Diário de Pernambuco. Recife, 20/4/1924 e 3/8/1924.'
-  - 'FIGUEIREDO, Nestor de. Diário da Manhã. Recife, 26/2/1932.'
+  - FIGUEIREDO, Nestor de. Diário da Manhã. Recife, 26/2/1932.
   - 'FIGUEIREDO, Nestor de. Pelo embelezamento e progresso do Recife. In : Diário da Manhã. Recife, 3/9/1931.'
   - 'HENARD, Eugène. Estudes sur les transformations de París. Paris: Editions l''Equerre, 1982.'
   - 'LE CORBUSIER. Cuando eran blancas las catedrales. Barcelona, 1979. Livro de Atas da Comissão do Plano da Cidade (1942-1952).'
   - 'MAIA FILHO, Heitor. O projeto de remodelação e expansão do Recife. In: Diário da Manhã. Recife, 22/7/1934.'
-  - 'MELO FRANCO, Rodrigo. Relatório das atividades do SPHAN entre 1936 e 1940. Rio de Janeiro, 1940.'
-  - 'NOVAES FILHO, Antônio. Seis anos de administração municipal (1937-1943). (Memória). Recife, dezembro de 1944.'
+  - MELO FRANCO, Rodrigo. Relatório das atividades do SPHAN entre 1936 e 1940. Rio de Janeiro, 1940.
+  - NOVAES FILHO, Antônio. Seis anos de administração municipal (1937-1943). (Memória). Recife, dezembro de 1944.
   - 'REYNALDO, Amélia. Las catedrales siguen siendo blancas: un estudio sobre las políticas de tratamiento del centro antiguo de Recife. Tese de doutorado. Barcelona: Unversitat Politècnica de Catalunya, 1998.'
-  - 'SOUZA REIS, José. Informação nº181 no oficio nº141/1er Distrito de 20/8/1953.'
+  - SOUZA REIS, José. Informação nº181 no oficio nº141/1er Distrito de 20/8/1953.
   - 'ULHÔA CINTRA, João Florêncio de. Sugestões para orientação do estudo de um plano geral de remodelação e expansão da cidade do Recife. In: Arquivos, 1er número. Recife, 1943.'
-  locale: 'pt-BR'
-  file: 'sdnne03-034.pdf'
+  locale: pt-BR
+  file: sdnne03-034.pdf
   pages_count: 19
   pages: null
-
-- id: 'sdnne03-035'
+- id: sdnne03-035
   title: Campi universitários do Nordeste
   subtitle: memórias de um modelo espacial
   authors:
   - givenname: Magda
     familyname: Campelo
-    email: 'magdacampelo@baydenet.com.br'
+    email: magdacampelo@baydenet.com.br
     affiliation: ''
     orcid: null
     bio: null
@@ -1570,48 +1554,47 @@ articles:
   - 'BOMENY, Helena. A Reforma Universitária de 1968 25 anos depois. In.: Revista Brasileira de Ciências Sociais, no. 26, ano 9, 1994. Pp.51-65.'
   - 'BOSCHETTI, Regina Vânia. Plano Atcon e Comissão Meira Mattos: Construção do Ideário da Universidade Pós-64. Disponível em http://www.histedbr.fae.inicamp.br/art:_27.pdf. Acesso em 17/03/2009.'
   - 'BRAGA, Márcia. Conservação e restauro – Arquitetura Brasileira. Rio de Janeiro: Ed. Rio, 2003.'
-  - 'CHOAY, Francoyse. O Urbanismo, utopias, e realidade, uma antologia. Perspectiva; São Paulo, 1965.'
+  - CHOAY, Francoyse. O Urbanismo, utopias, e realidade, uma antologia. Perspectiva; São Paulo, 1965.
   - 'CAMPÊLO, Magda. Leitura e análise das interferências físicas na arquitetura dos edifícios para a educação superior: o caso da UFC. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.'
   - 'CARVALHO, Sheila Oliveira de. Análise Bioclimática como ferramenta para implementação do plano diretor do campus central da UFRN.Dissertação (Mestrado em Arquitetura e Urbanismo) – Centro de Tecnologia, Universidade federal do Rio Grande do Norte, Natal, 2005. DIVISÃO DE PROJETOS – Universidade Federal do Piauí (DIPRO – UFPi). Dez Anos de Atividades. Teresina: DIPRO-UFPi, 1981. MEC/CEDATE. Campus universitários: textos. Brasília: CEDATE, 1984.'
   - 'OLIVEIRA, Joaquim Aristides de. A universidade e seu território: um estudo sobre as concepções de campus e suas configurações no processo de formação do território da Universidade Federal do Ceará. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.'
   - 'RODRIGUES, Luiz Augusto Fernandes. Universidade e a fantasia moderna – a falácia de um modelo espacial único. Niterói: EdUFF, 2001.'
   - 'SOUZA, I. Nova História de Natal: Lagoa Nova, um bairro nobre. Natal: Diário de Natal, 16p. Fascículo 19. Projeto Ler, 1999. UNIVERSIDADE FEDERAL DO PIAUÍ – UFPi. Plano Diretor. João Pessoa: Imprensa Universitária da Paraíba, 1972.'
-  locale: 'pt-BR'
-  file: 'sdnne03-035.pdf'
+  locale: pt-BR
+  file: sdnne03-035.pdf
   pages_count: 25
   pages: null
-
-- id: 'sdnne03-036'
-  title: 'Comunicação, diversão e oração'
+- id: sdnne03-036
+  title: Comunicação, diversão e oração
   subtitle: Documentação e Conservação do acervo Art Déco no interior de Pernambuco
   authors:
   - givenname: Aline de Figueirôa
     familyname: Silva
-    email: 'silva@exemplo.com'
+    email: silva@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-2445-9169'
+    orcid: 0000-0003-2445-9169
     bio: null
     country: BR
     primary_contact: true
   - givenname: Adelaide Zhayra
     familyname: Santos
-    email: 'santos@exemplo.com'
+    email: santos@exemplo.com
     affiliation: ''
-    orcid: '0000-0002-2098-2887'
+    orcid: 0000-0002-2098-2887
     bio: null
     country: BR
     primary_contact: false
   - givenname: Dayanne J. Azevedo
     familyname: Alves
-    email: 'alves@exemplo.com'
+    email: alves@exemplo.com
     affiliation: ''
-    orcid: '0009-0009-5506-7724'
+    orcid: 0009-0009-5506-7724
     bio: null
     country: BR
     primary_contact: false
   - givenname: Gibson Jatobá de
     familyname: Souza
-    email: 'souza@exemplo.com'
+    email: souza@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1619,7 +1602,7 @@ articles:
     primary_contact: false
   - givenname: Jéssica L. do Nascimento
     familyname: Jorge
-    email: 'jorge@exemplo.com'
+    email: jorge@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1636,18 +1619,17 @@ articles:
   - Art Deco
   - History
   - Pernambuco
-  locale: 'pt-BR'
-  file: 'sdnne03-036.pdf'
+  locale: pt-BR
+  file: sdnne03-036.pdf
   pages_count: 25
   pages: null
-
-- id: 'sdnne03-037'
+- id: sdnne03-037
   title: Conservação da Arquitetura Moderna
   subtitle: plano de conservação e de reuso para o Instituto de Micologia da UFPE
   authors:
   - givenname: Alcione Sarkis
     familyname: Simão
-    email: 'simao@exemplo.com'
+    email: simao@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1655,7 +1637,7 @@ articles:
     primary_contact: true
   - givenname: Barbara Cortizo de
     familyname: Aguiar
-    email: 'aguiar@exemplo.com'
+    email: aguiar@exemplo.com
     affiliation: CECI
     orcid: null
     bio: null
@@ -1663,7 +1645,7 @@ articles:
     primary_contact: false
   - givenname: Daniel Lopes
     familyname: Moreira
-    email: 'moreira@exemplo.com'
+    email: moreira@exemplo.com
     affiliation: Fiocruz
     orcid: null
     bio: null
@@ -1679,9 +1661,9 @@ articles:
     primary_contact: false
   - givenname: Marília Maria Brasileiro Teixeira
     familyname: Vale
-    email: 'vale@exemplo.com'
-    affiliation: 'FAUeD-UFU'
-    orcid: '0000-0002-1727-9445'
+    email: vale@exemplo.com
+    affiliation: FAUeD-UFU
+    orcid: 0000-0002-1727-9445
     bio: null
     country: BR
     primary_contact: false
@@ -1695,7 +1677,7 @@ articles:
     primary_contact: false
   - givenname: Rafael
     familyname: Aycinena
-    email: 'aycinena@exemplo.com'
+    email: aycinena@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1703,7 +1685,7 @@ articles:
     primary_contact: false
   - givenname: Raúl Estuardo
     familyname: Monterroso
-    email: 'monterroso@exemplo.com'
+    email: monterroso@exemplo.com
     affiliation: USAC
     orcid: null
     bio: null
@@ -1711,7 +1693,7 @@ articles:
     primary_contact: false
   - givenname: Rodrigo
     familyname: Lucas
-    email: 'lucas@exemplo.com'
+    email: lucas@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1719,15 +1701,15 @@ articles:
     primary_contact: false
   - givenname: Sérgio Ricardo dos
     familyname: Santos
-    email: 'santos.4@exemplo.com'
+    email: santos.4@exemplo.com
     affiliation: ''
-    orcid: '0000-0003-3999-093X'
+    orcid: 0000-0003-3999-093X
     bio: null
     country: BR
     primary_contact: false
   - givenname: Silvia Cristina Denardi
     familyname: Roveroni
-    email: 'roveroni@exemplo.com'
+    email: roveroni@exemplo.com
     affiliation: UNICAMP
     orcid: null
     bio: null
@@ -1735,9 +1717,9 @@ articles:
     primary_contact: false
   - givenname: Sonia
     familyname: Fuentes
-    email: 'fuentes@exemplo.com'
+    email: fuentes@exemplo.com
     affiliation: USAC
-    orcid: '0000-0002-4595-855X'
+    orcid: 0000-0002-4595-855X
     bio: null
     country: BR
     primary_contact: false
@@ -1753,7 +1735,7 @@ articles:
   - project
   - Modern Architecture
   references:
-  - 'RUSSO, Mario (1956). Cidade Universitária do Recife. Acrópole, n.213, jun. p. 351.'
+  - RUSSO, Mario (1956). Cidade Universitária do Recife. Acrópole, n.213, jun. p. 351.
   - 'AMORIM, Luiz. Obituário Arquitetônico: Pernambuco modernista. Recife, 2007'
   - 'AMORIM, L., BRASILEIRO, C., LUDERMIR, R, Da conservação do espaço da arquitetura: o caso do Instituto de Antibióticos. In: 8º Seminário DOCOMOMO Brasil, 2009, Rio de Janeiro. Anais do 8º Seminário DOCOMOMO Brasil. Rio de Janeiro: DOCOMOMO-RIO, 2009.'
   - 'AMORIM, L., LOUREIRO, C., 2005, On the Spatial Dimension of Modern Architecture as an Object of Conservation, Proceedings, International Seminar on the Management of the Shared Mediterranean Heritage. 5th Conference on the Modern Heritage, IRD, Alexandria, s/n.'
@@ -1763,20 +1745,19 @@ articles:
   - 'CABRAL, Renata. Mario Russo: um arquiteto racionalista italiano em Recife. Recife: Editora Universitária da UFPE, 2006.'
   - 'ZANCHETI, S.M., Hidaka, L.T.F. 2009, A declaração de significância de exemplares da arquitetura moderna. I Curso Latino Americano sobre a Conservação da Arquitetura Moderna – MARC/AL, CECI-ICCROM. 2009.'
   - 'ZANCHETI, S.M.; Hidaka, L.T.F.; RIBEIRO, C., AGUIAR, B. Judgment and validation in the Burra Charter process: introducing feedback in assessing the cultural significance of heritage. Olinda: City & Time, 2009. Disponível em <http://www.ct.ceci-b.org>, acesso em 19 nov. 2009.'
-  locale: 'pt-BR'
-  file: 'sdnne03-037.pdf'
+  locale: pt-BR
+  file: sdnne03-037.pdf
   pages_count: 20
   pages: null
-
-- id: 'sdnne03-038'
-  title: 'Estilo moderno, feição moderna e tipo moderno'
-  subtitle: 'arquiteturas da Modernidade. Campina Grande (PB) 1930-1950'
+- id: sdnne03-038
+  title: Estilo moderno, feição moderna e tipo moderno
+  subtitle: arquiteturas da Modernidade. Campina Grande (PB) 1930-1950
   authors:
   - givenname: Marcus Vinicius D.
     familyname: Queiroz
-    email: 'queiroz@exemplo.com'
+    email: queiroz@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-6949-0077'
+    orcid: 0000-0001-6949-0077
     bio: null
     country: BR
     primary_contact: true
@@ -1787,22 +1768,44 @@ articles:
   - Modernização
   - Campina Grande (PB)
   references:
-  - '1. ALANIS, E. X. A. A arquitetura Déco no México: uma proposta de vanguarda em tempos de modernidade. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997. 2. AMARAL, A. Architectura e urbanismo. Jornal A União, João Pessoa, 30 jul. 1935. 3. ANDRADE, C. R. M. Barry Parker: um arquiteto inglês na cidade de São Paulo. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1998. 4. BERMAN, M. Tudo o que é sólido desmancha no ar: a aventura da modernidade. São Paulo: Companhia das letras, 1986. 5. BRESLER, H. O Art Décoratif moderno na França. In: CENTRO DE ARQUITETURA E'
-  - 'URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997. 6. CÂMARA, E. Os alicerces de Campina Grande. Campina Grande: Livraria Moderna, 1943 (Reimpressão de 1999 pela Editora Caravela). 7.'
-  - 'URBANISMO DO RIO DE JANEIRO. Datas campinenses. João Pessoa: Departamento de publicidade, 1947 (Reimpressão de 1998 pela Editora Caravela). 8.'
-  - 'URBANISMO DO RIO DE JANEIRO. Continuação. Revista Manaíra, Campina Grande, n.65, dez. 1950. 9. CAMPOS, V. J. B. Art déco na arquitetura paulistana: uma outra face do moderno. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1996. Cf. Berman (1986).'
-  - '10.'
-  - '______. O art déco e a construção do imaginário moderno: um estudo de linguagem arquitetônica. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2003. 11. CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997. 12. COELHO, G. N. A modernidade do art déco na construção de Goiânia. Goiânia: Ed. do Autor, 1997. 13. CONDE, L. P.; ALMADA, M. Panorama do Art Déco na arquitetura e no urbanismo do Rio de Janeiro. In: CZAJKOWSKI, J. (org.). Guia da arquitetura Art Déco no Rio de Janeiro. 3 ed. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Casa da Palavra, 2000. 14. CORREIA, T. B. Art déco e indústria: Brasil, décadas de 1930 e 1940. Anais do Museu Paulista. São Paulo, v.16, n.2, p.47-104, jul.-dez. 2008. 15. DINOÁ, R. A arquitetura de Geraldino Duda. Jornal Diário da Borborema, Campina Grande, 28 ago. 1988. 16. FABRIS, A. (org.). Ecletismo na arquitetura brasileira. São Paulo: Nobel/Edusp, 1987. 17. JORNAES e revistas. Jornal Voz da Borborema, Campina Grande, 28 jul. 1937. 18. LEMOS, C. A. C. A república ensina a morar (melhor). São Paulo: Hucitec, 1999. 19. MASCARO, L. P.; BORTOLUCCI, M. A.; LOURENÇO, J. M. Raul Lino: uma leitura dos projetos das “casas portuguesas”. Artigo submetido à revista Oculum, out. 2007. 20. MOURA, F; VICENTE, A. Jackson do Pandeiro: o rei do ritmo. São Paulo: 34, 2007. 21. NASLAVSKY, G. Modernidade arquitetônica no Recife: arte, técnica e arquitetura (1920- 1950). Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 1998. 22. PEREIRA, M. S. Os correios e telégrafos no Brasil: um patrimônio histórico e arquitetônico. São Paulo: MSP/ Empresa Brasileira de Correios e Telégrafos, 1999. 23. PINHEIRO, M. L. B. Moderno ou moderne? Questões sobre a arquitetura francesa no entreguerras. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997. 24.'
-  - '______; D’AGOSTINHO, M. H. S. A noção de pitoresco e o debate cultural das primeiras décadas do século XX no Brasil. Desígnio: revista de história da arquitetura e do urbanismo. FAU – USP. São Paulo: Annablume, n.1, mar. 2004, p.119-128. 25.'
-  - '______. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista. São Paulo, v.16, n.1, p.109-149, jan.-jun. 2008. 26. PORTO, D. R. O Barreiro de Araxá: projetos para uma estância hidromineral em Minas Gerais. Dissertação (Mestrado) - Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2005. 27. QUEIROZ, M. V. D. Quem te vê não te conhece mais: arquitetura e cidade de Campina Grande em transformação (1930-1950). Dissertação (Mestrado). Programa de Pós-Graduação em Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2008. 28. REIS FILHO, N. G. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 1970. 29. ROSSI, L. M. Art Déco sertanejo. Design & Interiores, São Paulo, n.41, 1994.'
-  - '30. SEGAWA, H. Arquiteturas no Brasil 1900-1990. 2 ed. São Paulo: EDUSP, 2002. 31. SOMEKH, N. A forma da utopia: o urbanismo modernizador de Prestes Maia. In: CENTRO DE'
-  - 'ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997. 32. SOUSA, F. G. R. B. Cartografias e imagens da cidade: Campina Grande 1920-1945. Tese (Doutorado) - Departamento de Historia do Instituto de Filosofia e Ciências Humanas, Universidade de Campinas, Campinas, 2001. 33. TEIXEIRA, L. E. F. Art Déco ou a modernidade tranqüilizadora. In: A arquitetura Art Déco em Lages/SC (Relatório de pesquisa) – Universidade do Planalto Catarinense/ Universidade Federal de Santa Catarina, Florianópolis, 2003. 34. TRAJANO FILHO, F. S. D.V.O.P.: arquitetura moderna, estado e modernização: Paraíba, década de 1930. Dissertação (Mestrado) – Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2003. 35. UNES, W. Identidade art déco de Goiânia. São Paulo; Goiânia : Ateliê editorial/ Universidade Federal de Goiás, 2001.'
-  locale: 'pt-BR'
-  file: 'sdnne03-038.pdf'
+  - 'ALANIS, E. X. A. A arquitetura Déco no México: uma proposta de vanguarda em tempos de modernidade. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997.'
+  - AMARAL, A. Architectura e urbanismo. Jornal A União, João Pessoa, 30 jul. 1935.
+  - 'ANDRADE, C. R. M. Barry Parker: um arquiteto inglês na cidade de São Paulo. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo,'
+  - '4. BERMAN, M. Tudo o que é sólido desmancha no ar: a aventura da modernidade. São Paulo: Companhia das letras, 1986.'
+  - 'BRESLER, H. O Art Décoratif moderno na França. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997.'
+  - 'CÂMARA, E. Os alicerces de Campina Grande. Campina Grande: Livraria Moderna, 1943 (Reimpressão de 1999 pela Editora Caravela).'
+  - '______. Datas campinenses. João Pessoa: Departamento de publicidade, 1947 (Reimpressão de 1998 pela Editora Caravela).'
+  - ______. Continuação. Revista Manaíra, Campina Grande, n.65, dez. 1950.
+  - 'CAMPOS, V. J. B. Art déco na arquitetura paulistana: uma outra face do moderno. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1996. 24 Cf. Berman (1986).'
+  - 'CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny,'
+  - '12. COELHO, G. N. A modernidade do art déco na construção de Goiânia. Goiânia: Ed. do Autor, 1997.'
+  - 'CONDE, L. P.; ALMADA, M. Panorama do Art Déco na arquitetura e no urbanismo do Rio de Janeiro. In: CZAJKOWSKI, J. (org.). Guia da arquitetura Art Déco no Rio de Janeiro. 3 ed. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Casa da Palavra, 2000.'
+  - 'CORREIA, T. B. Art déco e indústria: Brasil, décadas de 1930 e 1940. Anais do Museu Paulista. São Paulo, v.16, n.2, p.47-104, jul.-dez. 2008.'
+  - DINOÁ, R. A arquitetura de Geraldino Duda. Jornal Diário da Borborema, Campina Grande, 28 ago. 1988.
+  - 'FABRIS, A. (org.). Ecletismo na arquitetura brasileira. São Paulo: Nobel/Edusp, 1987.'
+  - JORNAES e revistas. Jornal Voz da Borborema, Campina Grande, 28 jul. 1937.
+  - 'LEMOS, C. A. C. A república ensina a morar (melhor). São Paulo: Hucitec, 1999.'
+  - 'MASCARO, L. P.; BORTOLUCCI, M. A.; LOURENÇO, J. M. Raul Lino: uma leitura dos projetos das “casas portuguesas”. Artigo submetido à revista Oculum, out. 2007.'
+  - 'MOURA, F; VICENTE, A. Jackson do Pandeiro: o rei do ritmo. São Paulo: 34, 2007.'
+  - 'NASLAVSKY, G. Modernidade arquitetônica no Recife: arte, técnica e arquitetura (19201950). Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 1998.'
+  - 'PEREIRA, M. S. Os correios e telégrafos no Brasil: um patrimônio histórico e arquitetônico. São Paulo: MSP/ Empresa Brasileira de Correios e Telégrafos, 1999.'
+  - 'PINHEIRO, M. L. B. Moderno ou moderne? Questões sobre a arquitetura francesa no entreguerras. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art Déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997.'
+  - '______; D’AGOSTINHO, M. H. S. A noção de pitoresco e o debate cultural das primeiras décadas do século XX no Brasil. Desígnio: revista de história da arquitetura e do urbanismo. FAU – USP. São Paulo: Annablume, n.1, mar. 2004, p.119-128.'
+  - '______. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista. São Paulo, v.16, n.1, p.109-149, jan.-jun. 2008.'
+  - 'PORTO, D. R. O Barreiro de Araxá: projetos para uma estância hidromineral em Minas Gerais. Dissertação (Mestrado) - Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2005.'
+  - 'QUEIROZ, M. V. D. Quem te vê não te conhece mais: arquitetura e cidade de Campina Grande em transformação (1930-1950). Dissertação (Mestrado). Programa de Pós-Graduação em Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2008.'
+  - 'REIS FILHO, N. G. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 1970.'
+  - ROSSI, L. M. Art Déco sertanejo. Design & Interiores, São Paulo, n.41, 1994.
+  - 'SOMEKH, N. A forma da utopia: o urbanismo modernizador de Prestes Maia. In: CENTRO DE ARQUITETURA E URBANISMO DO RIO DE JANEIRO. Art déco na América Latina. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro/ Solar Grandjean de Montigny, 1997.'
+  - 'SOUSA, F. G. R. B. Cartografias e imagens da cidade: Campina Grande 1920-1945. Tese (Doutorado) - Departamento de Historia do Instituto de Filosofia e Ciências Humanas, Universidade de Campinas, Campinas, 2001.'
+  - 'TEIXEIRA, L. E. F. Art Déco ou a modernidade tranqüilizadora. In: A arquitetura Art Déco em Lages/SC (Relatório de pesquisa) – Universidade do Planalto Catarinense/ Universidade Federal de Santa Catarina, Florianópolis, 2003.'
+  - 'TRAJANO FILHO, F. S. D.V.O.P.: arquitetura moderna, estado e modernização: Paraíba, década de 1930. Dissertação (Mestrado) – Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2003.'
+  - 'UNES, W. Identidade art déco de Goiânia. São Paulo; Goiânia : Ateliê editorial/ Universidade Federal de Goiás, 2001.'
+  locale: pt-BR
+  file: sdnne03-038.pdf
   pages_count: 25
   pages: null
-
-- id: 'sdnne03-039'
+- id: sdnne03-039
   title: Expansão no campus João Pessoa da Universidade Federal da Paraíba
   subtitle: entre o diálogo e a alienação
   authors:
@@ -1816,17 +1819,17 @@ articles:
     primary_contact: true
   - givenname: Patricia
     familyname: Alonso
-    email: 'alonso@exemplo.com'
+    email: alonso@exemplo.com
     affiliation: ''
-    orcid: '0000-0002-6405-5671'
+    orcid: 0000-0002-6405-5671
     bio: null
     country: BR
     primary_contact: false
   - givenname: Wylnna Carlos Lima
     familyname: Vidal
-    email: 'vidal@exemplo.com'
+    email: vidal@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-5014-1301'
+    orcid: 0000-0001-5014-1301
     bio: null
     country: BR
     primary_contact: false
@@ -1853,20 +1856,19 @@ articles:
   - 'UNIVERSIDADE FEDERAL DA PARAÍBA. Campus Universitário. João Pessoa: Imprensa Universitária da Paraíba, ago. 1969.'
   - 'UNIVERSIDADE FEDERAL DA PARAÍBA. UFPB Campus: Plano Diretor. João Pessoa: Imprensa Universitária da Paraíba, out. 1972.'
   - 'UNIVERSIDAD NACIONAL AUTÓNOMA DE MEXICO. Disponível em: <http://www.unam.mx/patrimonio/ portugues/index.html > Acesso em 03 jan. 2010, 17:30.'
-  locale: 'pt-BR'
-  file: 'sdnne03-039.pdf'
+  locale: pt-BR
+  file: sdnne03-039.pdf
   pages_count: 18
   pages: null
-
-- id: 'sdnne03-040'
+- id: sdnne03-040
   title: Jardins "severinos"
   subtitle: os projetos de Burle Marx para Natal
   authors:
   - givenname: Paulo José Lisboa
     familyname: Nobre
-    email: 'paulonobre@ufrnet.br'
+    email: paulonobre@ufrnet.br
     affiliation: ''
-    orcid: '0000-0003-4089-9252'
+    orcid: 0000-0003-4089-9252
     bio: null
     country: BR
     primary_contact: true
@@ -1877,7 +1879,7 @@ articles:
   - Projeto Paisagístico Modernista
   abstract_en: 'The gardens are an important expression of the Brazilian modern movement, since the vegetation became an icon of modernity and Brazilianness. Even before Roberto Burle Marx honor the Brazilian biomes on the plazas Euclides da Cunha and Casa Forte, in Recife, the use of tropical plants already expressed our nativist feelings – is in the landscape compositions of Mina Klabin for the modernist houses of Gregori Warchavchik, is in the pictorial trajectory of Tarsila do Amaral, Anita Malfatti and Lasar Segal. Considered the creator of the “Brazilian Garden”, Burle Marx spread his work through the country, including Rio Grande do Norte. The gardens designed to Natal, cited by authors as Jacques Leenhardt (2000) and Flávio Motta (1984), are nowadays unknown and non-existent. This work is the result of the efforts made to register and catalogue this work of Early Death. The passage of Burle Marx left few records in the local historiography and is still ignored by the population. The studied authors registered three projects, among them stands out the Parque das Dunas-Via Costeira, of 1981 – compared to the Parque do Flamengo by Lauro Cavalcanti and Farès El- Dahdah (2009), who cite them as the two most significant projects of the partnership with the botanist Luiz Emygdio de Mello Filho. This research, ongoing since 2007, seeks to rescue and emphasize the ideas of the landscape designer for Natal from bibliographic and documentary research and interviews. So far, this project raised debates, resulted on the finding of part of the graphic registers and on the discovery of a garden project conceived in 1976 for the Internal courtyard of the UFRN Central Campus Library, which Study of Case is here presented. Since there are indications that the garden did exist, this study has as one of its main objectives the sensitization of the university community towards its rescue, giving priority to the virtual reconstitution as a teaching-methodology.'
   keywords_en:
-  - Burle Marx's Gardens
+  - 'Burle Marx''s Gardens'
   - Modernist Landscape Project
   references:
   - 'CARNEIRO, Ana Rita Sá et al. Os Jardins de Burle Marx no Recife. Recife: MXM Gráfica, 2009.'
@@ -1894,25 +1896,24 @@ articles:
   - 'SOUZA, Itamar de. Nova História de Natal. 2 ed.rev.atual. Natal (RN): Departamento Estadual de Imprensa, 2008.'
   - 'TABACOW, José. Roberto Burle Marx: a ciência da percepção. In: CAVALCANTI, Lauro, EL-DAHDAH, Ferès (Orgs). A Permanência do Estável: Roberto Burle Marx 100 Anos. Rio de Janeiro: Rocco, 2009. p.100-110.'
   - 'WUO, Tatiana. Café literário homenageia Euclides da Cunha. Vitória: Gazeta On Line, 2009. Disponível em: <http://gazetaonline.globo.com>. Acesso em: 17/08/2009. 17:12:30.'
-  locale: 'pt-BR'
-  file: 'sdnne03-040.pdf'
+  locale: pt-BR
+  file: sdnne03-040.pdf
   pages_count: 21
   pages: null
-
-- id: 'sdnne03-041'
-  title: 'Paisagem moderna, paisagem histórica?'
+- id: sdnne03-041
+  title: Paisagem moderna, paisagem histórica?
   authors:
   - givenname: Dayse
     familyname: Martins
-    email: 'martins@exemplo.com'
+    email: martins@exemplo.com
     affiliation: ''
-    orcid: '0000-0001-6230-2168'
+    orcid: 0000-0001-6230-2168
     bio: null
     country: BR
     primary_contact: true
   - givenname: Jussara
     familyname: Bióca
-    email: 'bioca@exemplo.com'
+    email: bioca@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1920,7 +1921,7 @@ articles:
     primary_contact: false
   - givenname: Therezinha
     familyname: Monteiro
-    email: 'monteiro@exemplo.com'
+    email: monteiro@exemplo.com
     affiliation: ''
     orcid: null
     bio: null
@@ -1947,7 +1948,7 @@ articles:
   - 'CURY, Izabelle (org.). Cartas Patrimoniais, 3ª ed. Rio de Janeiro: IPHAN, 2004.'
   - 'FONSECA, Maria Cecília Londres. O Patrimônio em processo: Trajetória da política federal de preservação no Brasil. Rio de Janeiro: Ed. UFRJ; MINC – IPHAN, 2005.'
   - 'MARTINS, Dayse Luckwü. Paisagem e memória – patrimônio natural e edificado no centro histórico de João Pessoa – PB. Maceió: Dissertação de Mestrado. Prodema/ UFAL, 2003.'
-  - 'PROPOSTA DE TOMBAMENTO NACIONAL DO CENTRO HISTÓRICO DE JOÃO PESSOA. Acervo do IPHAN,João Pessoa, 2006.'
+  - PROPOSTA DE TOMBAMENTO NACIONAL DO CENTRO HISTÓRICO DE JOÃO PESSOA. Acervo do IPHAN,João Pessoa, 2006.
   - 'PEREIRA, Fúlvio Teixeira de Barros. Difusão da Arquitetura Moderna na Cidade de João Pessoa (1956-1974). Dissertação apresentada à Escola de Engenharia de São Carlos da USP, 2008.'
   - 'RIBEIRO, Rafael Winter. Paisagem Cultural e Patrimônio. Rio de Janeiro: IPHAN / COPEDOC, 2007.'
   - 'SCOCUGLIA, Jovanka Baracuhy Cavalcanti. Revitalização Urbana e (re) invenção do centro histórico na cidade de João Pessoa (1987-2002). João Pessoa: Editora Universitária / UFPB, 2004.'
@@ -1955,7 +1956,7 @@ articles:
   - 'PEREIRA, Fúlvio Teixeira de Barros. Difusão da Arquitetura Moderna na Cidade de João Pessoa (1956-1974). Dissertação apresentada à Escola de Engenharia de São Carlos da'
   - 'TINEM, Nelci (org.). Fronteiras, marcos e sinais: Leituras das ruas de João Pessoa. João Pessoa: Ed. UFPB, 2006.'
   - 'VIDAL, Wilnna Carlos Lima. Transformações Urbanas: a modernização da capital paraibana e o desenho da cidade, 1910-1940. Dissertação apresentada ao Curso de Pós Graduação de Engenharia Urbana da UFPB. João Pessoa, 2004.'
-  locale: 'pt-BR'
-  file: 'sdnne03-041.pdf'
+  locale: pt-BR
+  file: sdnne03-041.pdf
   pages_count: 13
   pages: null

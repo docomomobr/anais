@@ -82,7 +82,7 @@ OJS (arquivado): ver [`docs/archive/ojs_reference.md`](docs/archive/ojs_referenc
 Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave:
 
 - **Travessão**: ` - ` isolado → ` — ` (em-dash). Não tocar em intervalos numéricos, palavras compostas, siglas, referências.
-- **Capitalização**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial". Usa `dict/normalizar.py` + `dict.db` (4270 entradas). Ver `docs/devlog_normalizacao_maiusculas.md`.
+- **Capitalização**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial". Usa `dict/normalizar.py` + `dict.db` (5013 entradas). Ver `docs/devlog_normalizacao_maiusculas.md`.
 - **Autores**: partículas (de, da, do) no `givenname`; `familyname` = último sobrenome. Hispânicos: duplo sobrenome.
 - **Afiliação**: apenas sigla (`FAU-USP`, `PROPAR-UFRGS`). Sem títulos acadêmicos, endereços, emails.
 - **ORCID**: formato `0000-0000-0000-0000` (sem URL).
@@ -95,16 +95,16 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave
 |--------|-------|-----------|-------|---------|
 | 1 | Brasil | `nacionais/` | sdbr01–sdbr15 | 1–15 |
 | 2 | Sudeste | `regionais/se/` | sdmg01, sdrj02–04, sdsp03, 05–09 | varies |
-| 3 | Norte/Nordeste | `regionais/nne/` | sdnne02, 05, 07–10 | 2, 5, 7, 8, 9, 10 |
+| 3 | Norte/Nordeste | `regionais/nne/` | sdnne01–03, 05, 07–10 | 1, 2, 3, 5, 7, 8, 9, 10 |
 | 4 | Sul | `regionais/sul/` | sdsul01–08 | 1–8 |
 
 ---
 
 ## Status dos Seminários Regionais
 
-### Prontos para produção (23 seminários, ~943 artigos)
+### Prontos para produção (25 seminários, ~1028 artigos)
 
-**N/NE** (`regionais/nne/`): sdnne02 (33), sdnne05 (32), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
+**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne05 (32), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
 
 **Sudeste** (`regionais/se/`): sdmg01 (68), sdrj02 (19), sdrj03 (4), sdrj04 (17), sdsp03 (74), sdsp05 (68), sdsp06 (37), sdsp07 (43), sdsp08 (40), sdsp09 (27)
 
@@ -113,7 +113,7 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave
 Todos importados no OJS teste. Importação na produção pendente.
 
 ### Sem dados (não localizados)
-- sdnne01 (Recife 2006), sdnne03 (João Pessoa 2010), sdnne04 (Natal 2012)
+- sdnne04 (Natal 2012)
 - sdnne06 (Teresina 2016 — só caderno de resumos)
 - sdsp04, sdrj01
 

@@ -139,18 +139,16 @@ articles:
   - 'MCCOMB, Christopher; JABLOKOW, Kathryn. A conceptual framework for multidisciplinary design research with example application to agent-based modeling. Design Studies, [S.L.], v. 78, p. 101074, jan. 2022.'
   - 'MEDEIROS, Ayana Dantas de (2020). A obra de Severiano Mário Porto na cidade de Roraima: um olhar com enfoque bioclimático. Dissertação de mestrado em Arquitetura e Urbanismo. Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade de Brasília, DF, 150 p.'
   - 'OLIVEIRA, Rogério de Castro. Usos do precedente: a construção do repertório arquitetônico na prática projetual. Thésis, Rio de Janeiro, v.2, n. 2, p. 58-73, jul./dez. 2016'
-  - 'OLIVEIRA, Sebastião Monteiro. Origem e organização do sistema de ensino e as políticas de formação docente no Estado de Roraima. Tese (doutorado).'
-  - 'Programa de Pós-Graduação em Educação da Universidade Nove de Julho UNINOVE. São Paulo, 2016.'
+  - 'OLIVEIRA, Sebastião Monteiro. Origem e organização do sistema de ensino e as políticas de formação docente no Estado de Roraima. Tese (doutorado). Programa de Pós-Graduação em Educação da Universidade Nove de Julho UNINOVE. São Paulo, 2016.'
   - 'PORTO, Severiano Mário. Criatividade, correção e beleza em quaisquer arquiteturas. Projeto, São Paulo, n. 83, p.48-49, out. 1986. Síntese da palestra proferida em Nova Orleans durante a conferência "A Herança Arquitetônica de Nova Orleans: a Influência Latina".'
-  - 'SILVA, Amanda Araújo da. A Política de Segurança Nacional e Desenvolvimento: Um projeto da Ditadura Militar para o Território Federal de Roraima (1970-1979).'
-  - 'Mestrado do Programa de Pós-graduação em Sociedade e Fronteiras do Centro de Ciências Humanas da Universidade Federal de Roraima – UFRR. Boa Vista, 2020.'
-  - 'Word), e serão precedidas por seu número em negrito.'
+  - 'SILVA, Amanda Araújo da. A Política de Segurança Nacional e Desenvolvimento: Um projeto da Ditadura Militar para o Território Federal de Roraima (1970-1979). Mestrado do Programa de Pós-graduação em Sociedade e Fronteiras do Centro de Ciências Humanas da Universidade Federal de Roraima – UFRR. Boa Vista, 2020.'
   locale: 'pt-BR'
   file: 'sdnne10-002.pdf'
   pages: null
 
 - id: 'sdnne10-003'
-  title: A Arquitetura Moderna industrial o caso da fábrica Wallig
+  title: A Arquitetura Moderna Industrial
+  subtitle: o caso da Fábrica Wallig
   authors:
   - givenname: Maria Helena Leite
     familyname: Campos
@@ -242,8 +240,8 @@ articles:
   pages: null
 
 - id: 'sdnne10-005'
-  title: 'A arte azulejar de Athos Bulcão no parque histórico nacional dos Guararapes-PE'
-  subtitle: um estudo sob a perspectiva do design de superfície das peças de azulejo do parque
+  title: 'A arte azulejar de Athos Bulcão no Parque Histórico Nacional dos Guararapes-PE'
+  subtitle: um estudo sob a perspectiva do design de superfície das peças de azulejo do Parque
   authors:
   - givenname: Alcília Afonso de Albuquerque e
     familyname: Melo

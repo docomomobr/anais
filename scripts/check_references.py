@@ -271,7 +271,10 @@ def main():
     # Resumo final
     total_probs = sum(s['concatenada'] + s['nao_ref'] + s['curta'] for s in stats_by_slug.values())
     total_refs = sum(s['total_refs'] for s in stats_by_slug.values())
-    print(f"\nResumo: {total_probs} problemas / {total_refs} referências ({total_probs/total_refs*100:.1f}%)")
+    if total_refs > 0:
+        print(f"\nResumo: {total_probs} problemas / {total_refs} referências ({total_probs/total_refs*100:.1f}%)")
+    else:
+        print(f"\nResumo: {total_probs} problemas / 0 referências")
 
 
 if __name__ == '__main__':

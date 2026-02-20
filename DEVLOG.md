@@ -4,6 +4,37 @@ Registro de aprendizados e decisões técnicas durante a migração.
 
 ---
 
+## 2026-02-20 - Tratamento sdnne01/sdnne10 + limpeza referências nacionais + NER
+
+### sdnne10 — cobertura multilíngue completa
+- Preenchidas lacunas restantes: 3 abstract_en, 1 abstract_es, 4 keywords_en, 1 keywords_es
+- Todas extraídas dos PDFs (Even3 template com seções SUMMARY/RESUMEN/PALABRAS CLAVE)
+- Cobertura final: 85/85 em todos os 6 campos (abstract + keywords em PT, EN, ES)
+
+### sdnne01 — revisão humana aplicada
+- 10 correções da revisão do YAML aplicadas ao banco:
+  - 7 títulos/subtítulos: capitalização de gentílicos (Pernambucano, Sergipano), conceitos (Modernista, Vernáculo, Cultura Popular/Moderna), nome próprio (Inquérito à Arquitectura Popular), expansão de abreviações (Edf. → Edifício)
+  - 3 referências: backfill SEGAWA (sdnne01-008), remoção FAPESP/agradecimento (sdnne01-012), join+backfill BRESCIANI (sdnne01-042)
+- 13 artigos sem referências: extraídas dos PDFs via LLM (total 689 refs)
+  - Correções durante extração: "SEGAWA, Silvio" → "Hugo", "(Re) discutindo o Modernismo" 1977 → 1997, ref garbled AZEVEDO reconstruída, underscores COMAS backfilled
+  - sdnne01-031: resumo expandido sem corpo textual (sem referências)
+
+### Limpeza de referências nacionais (sdbr07, sdbr09, sdbr10)
+- sdbr09: removidas 68 contaminações de rodapé ("interdisciplinaridade e experiências em documentação e preservação...") de 39 artigos
+- Status pós-limpeza: sdbr07 4.1%, sdbr09 5.6%, sdbr10 15.6% (maioria concatenadas sem separador claro)
+
+### NER — aprendizados incorporados ao dict.db (+11 entradas)
+- Expressões: "cultura popular", "cultura moderna", "arquitetura modernista", "arquitetura vernácula/vernacular"
+- Movimentos: "modernista", "vernáculo", "vernacular", "vernaculares"
+- Nomes: "Inquérito à Arquitectura Popular em Portugal"
+- Total dict.db: 5013 entradas
+
+### Nacionais — keywords e iniciais
+- 11 keywords longas split/corrigidas (sdbr08, 09, 10, 11, 12)
+- 2 autores com iniciais expandidas: C. H. Silva → Caio Henrique, V Franco → Felipe Henrique
+
+---
+
 ## 2026-02-19 - Repo público + GitHub Pages + sdnne10 rebuild
 
 ### Repo tornado público
