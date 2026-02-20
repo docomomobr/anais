@@ -225,9 +225,33 @@ Norma brasileira (sentence case). Pipeline em 3 passadas via `dict/normalizar.py
 
 **A normalização roda no banco (Fase 7.2).** Aqui ficam apenas as regras. Ver `docs/regras_dados.md` e `docs/devlog_normalizacao_maiusculas.md`.
 
-### 4.4 Verificação de referências
+### 4.4 Limpeza e verificação de referências
 
-Detecta erros nas referências extraídas automaticamente:
+Sub-pipeline em 3 etapas: limpeza automática → detecção → correção manual/LLM.
+
+#### 4.4a — Limpeza automática (`clean_references.py`)
+
+Script reutilizável que corrige padrões sistemáticos. **Rodar logo após a extração (Fase 2) ou após importação no banco (Fase 7.1).**
+
+```bash
+python3 scripts/clean_references.py --slug sdnne01 --dry-run   # preview
+python3 scripts/clean_references.py --slug sdnne01              # aplicar
+python3 scripts/clean_references.py                              # banco inteiro
+```
+
+Operações automáticas:
+
+1. **Split de underscores ABNT**: Na convenção ABNT, `______` (6+ underscores) substitui o nome do autor quando há obras consecutivas do mesmo autor. O pdftotext extrai tudo em uma linha só. O script separa em referências individuais.
+   - Exemplo: `SEGAWA, Hugo. Arquiteturas... ______. A pesada herança...` → 2 refs
+2. **Backfill de autores**: Refs que começam com `______` recebem o nome extraído da ref anterior.
+   - Exemplo: `______. A república ensina a morar...` → `CORREIA, Telma de Barros. A república ensina a morar...`
+3. **Join de URLs órfãs**: URLs em linha separada são juntadas à ref anterior (`Disponível em` + URL).
+
+O script é **idempotente** (seguro rodar múltiplas vezes) e **não altera refs que já estão corretas**.
+
+#### 4.4b — Detecção de problemas (`check_references.py`)
+
+Detecta erros restantes após a limpeza automática:
 - **Concatenadas**: múltiplas refs na mesma linha (> 400 chars, padrão "ano. SOBRENOME,")
 - **Não-referências**: texto corrido, legendas de figuras, URLs soltas
 - **Fragmentos**: refs incompletas ou continuações (< 25 chars, início minúsculo)
@@ -238,7 +262,22 @@ python3 scripts/check_references.py --slug sdsul04       # detalhe
 python3 scripts/check_references.py --type concatenada   # filtrar por tipo
 ```
 
-Ver `docs/devlog_check_references.md`.
+Meta: **< 2% de problemas** por seminário. Ver detalhes das heurísticas em `docs/devlog_check_references.md`.
+
+#### 4.4c — Correção manual ou por LLM
+
+Problemas não corrigíveis automaticamente (refs de jornais concatenadas, texto corrido misturado, refs garbled):
+
+1. Extrair problemas: `check_references.py --slug {slug} --type todas`
+2. Ler e classificar cada problema (join, split, remove, truncate, replace)
+3. Aplicar correções via script one-shot com operações hardcoded por artigo
+4. Re-verificar: `check_references.py --slug {slug} --summary`
+
+Padrões comuns de correção manual:
+- **Refs de jornal/revista sem autor pessoal** concatenadas (ex: `HOTEL a Bahia. L'Architecture... HOTEL Amazonas. Arquitetura...`) — split manual
+- **Texto corrido** (corpo do artigo, notas de rodapé, biografias) inserido entre as refs — remove/truncate
+- **Refs garbled** (texto de outra seção inserido no meio) — replace com texto correto
+- **Fragmentos pós-split** (editora/ano quebrados em linha separada) — join à ref anterior
 
 ### 4.5 Revisão de autores
 Verificar automaticamente:
@@ -361,12 +400,17 @@ python3 scripts/normalizar_maiusculas.py
 ```
 Usa `dict/normalizar.py` + `dict.db` para capitalização conforme norma brasileira. Se aparecerem falsos positivos, corrigir no `dict/dict.db` — remover a entrada standalone e, se necessário, adicionar como expressão multi-palavra. Ver `docs/devlog_normalizacao_maiusculas.md`.
 
-### 7.3 Verificar referências
+### 7.3 Limpar e verificar referências
 ```bash
-python3 scripts/check_references.py --summary
+# Limpeza automática (underscores ABNT, URLs órfãs)
+python3 scripts/clean_references.py --slug {slug} --dry-run
+python3 scripts/clean_references.py --slug {slug}
+
+# Verificação de problemas restantes
+python3 scripts/check_references.py --slug {slug} --summary
 python3 scripts/check_references.py --slug {slug}
 ```
-Correção requer revisão manual ou re-extração dos PDFs. Ver `docs/devlog_check_references.md`.
+Ver § 4.4 para o sub-pipeline completo de limpeza de referências.
 
 ### 7.4 Deduplicação de autores (AND)
 
@@ -521,7 +565,8 @@ Quando existir um PDF compilado dos anais completos (e-book), anexar à **issue*
 | `dict/seed_titles.py` | 7.1b | Extrai nomes próprios dos títulos para dict.db (`--apply`) |
 | `dict/dump_db.py` | 7.1b | Gera dict.sql (dump versionável do dicionário) |
 | `normalizar_maiusculas.py` | 7.2 | Capitalização conforme norma brasileira via dict/normalizar.py |
-| `check_references.py` | 7.3 | Detecta erros em referências (`--summary`, `--slug`, `--type`) |
+| `clean_references.py` | 7.3 | Limpeza automática de refs: split underscores ABNT, backfill autores, join URLs |
+| `check_references.py` | 7.3 | Detecta erros restantes em referências (`--summary`, `--slug`, `--type`) |
 | `dedup_authors.py` | 7.4 | Dedup autores (Pilotis + Jaro-Winkler + coautoria) |
 | `expand_initials.py` | 7.5 | Expande iniciais de givennames |
 | `fetch_orcid.py` | 7.6 | Busca ORCIDs via OpenAlex/Crossref/ORCID (`--search --review --apply`) |
