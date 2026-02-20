@@ -73,6 +73,10 @@ REF_PATTERNS = [
     re.compile(r'^\['),
     # Starts with bullet point
     re.compile(r'^[•·]'),
+    # Latin shorthand: idem, ibid, op. cit., etc.
+    re.compile(r'^(idem|ibid|op\.\s*cit)', re.IGNORECASE),
+    # Spanish/Portuguese abbreviated titles: arqto, prof., dr., etc.
+    re.compile(r'^(arqto|arqta|prof\.|dr\.|dra\.)\s', re.IGNORECASE),
 ]
 
 # Padrão que sugere refs concatenadas: "ano. SOBRENOME," no meio do texto
