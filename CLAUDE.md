@@ -58,39 +58,22 @@ Credenciais em `.credentials` (gitignored). Resumo dos serviços:
 
 ---
 
-## OJS — Referência rápida
-
-### Limitações da API
-
-- A API **não retorna todos os campos** (ex: `abstract`, `keywords` podem vir vazios). **Sempre verificar na página real** (`/article/view/{id}`) com WebFetch antes de concluir que dados estão faltando.
-- O locale `en_US` não está habilitado. Dados em inglês existem no banco mas não são exibidos.
-- Conta `dmacedo`: papel de Editor (não Journal Manager nem Site Admin).
-
-### Endpoints úteis
-
-| Endpoint | Método | Descrição |
-|----------|--------|-----------|
-| `/api/v1/issues` | GET | Lista edições |
-| `/api/v1/submissions` | GET | Lista artigos |
-| `/api/v1/submissions?count=N` | GET | Lista N artigos |
-| `/api/v1/submissions/{id}` | GET | Detalhes de um artigo |
-
-### Scripts
+## Scripts principais
 
 | Script | Função |
 |--------|--------|
-| `scripts/generate_ojs_xml.py` | Gera XMLs a partir do `anais.db`. `--with-pdf` (1 artigo/XML) ou metadata-only (1 XML/issue) |
-| `scripts/import_ojs.py` | Importa XMLs no OJS. `--per-article` (1 XML/artigo, 15s delay). `--env test` ou `--env prod` |
 | `scripts/normalizar_maiusculas.py` | Normaliza capitalização nos títulos do `anais.db`. `--dry-run`, `--slug SLUG` |
 | `dict/normalizar.py` | Módulo de normalização de maiúsculas. 3 passadas: palavra, expressão, toponímico contextual |
 | `scripts/clean_references.py` | Limpeza automática de refs: split underscores ABNT, backfill autores, join URLs. `--dry-run`, `--slug` |
 | `scripts/check_references.py` | Detecta erros em referências: concatenadas, não-referências, fragmentos. `--summary`, `--slug`, `--type` |
-
-Para autenticação, CSRF, operações destrutivas, importação via curl, e estrutura do XML: ver [`docs/ojs_reference.md`](docs/ojs_reference.md).
+| `scripts/upload_zenodo.py` | Upload PDFs para Zenodo (sandbox/production, dry-run, skip-existing) |
+| `scripts/db2hugo.py` | Gera conteúdo Hugo a partir do anais.db |
 
 Pipeline de tratamento (novos seminários): ver [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md).
 
-Pipeline de produção (publicação no OJS/Zenodo): ver [`docs/pipeline_producao.md`](docs/pipeline_producao.md).
+Pipeline de produção (Hugo + Zenodo): ver [`docs/pipeline_producao.md`](docs/pipeline_producao.md).
+
+OJS (arquivado): ver [`docs/archive/ojs_reference.md`](docs/archive/ojs_reference.md) e [`docs/archive/pipeline_producao_ojs.md`](docs/archive/pipeline_producao_ojs.md).
 
 ---
 

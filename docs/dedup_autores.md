@@ -144,6 +144,20 @@ python3 scripts/dump_anais_db.py
 - **Hispânicos** (duplo sobrenome): Vázquez Ramos, não mergear com só "Ramos"
 - **Alcília** é exemplo de caso complexo: Melo vs Costa (casamento?), com/sem "e", typo "Aluquerque"
 
+## Nomes preferidos (exceções à regra do nome mais completo)
+
+O pipeline de dedup usa por padrão a **versão mais completa** do nome como canônica. Porém, alguns autores preferem uma versão curta ou informal. Nesses casos, manter o nome preferido como canônico e registrar o nome completo como **variante** (source `preferred-name-exception`), útil para buscas de ORCID e cruzamento.
+
+| Canônico (preferido) | Nome completo (variante) | ORCID | Notas |
+|---|---|---|---|
+| Cêça Guimaraens | Maria da Conceição Alves de Guimaraens | 0000-0003-1889-7883 | 9 artigos, sdbr02–sdrj03 |
+
+**Regras:**
+- O nome canônico é o que o autor **publica com** e **prefere ser citado**
+- O nome completo fica em `author_variants` com source `preferred-name-exception`
+- O dedup NÃO deve substituir o canônico pelo nome mais longo se houver variante com esta source
+- Para busca de ORCID, usar **ambos** os nomes (canônico e variante)
+
 ## Falsos positivos conhecidos
 
 | Par | Motivo |

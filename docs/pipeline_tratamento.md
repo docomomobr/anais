@@ -494,63 +494,7 @@ git push
 - [ ] Ambíguos de dedup resolvidos
 - [ ] `anais.sql` atualizado e commitado
 
----
-
-## Fase 8 — Preparação para OJS
-
-**IMPORTANTE:** Gerar XMLs somente APÓS completar toda a Fase 7 (NER, dedup, ORCID). XMLs gerados antes do enriquecimento ficam desatualizados.
-
-### 8.1 Gerar XMLs de importação
-Script centralizado: `scripts/generate_ojs_xml.py`
-
-```bash
-# Teste (só metadados, 1 XML por seminário):
-python3 scripts/generate_ojs_xml.py --slug sdrj02 --outdir xml_test
-
-# Produção (com PDFs em base64, 1 XML por artigo):
-python3 scripts/generate_ojs_xml.py --slug sdrj02 --with-pdf --outdir xml_prod
-```
-
-O script:
-- Lê do `anais.db` (artigos, autores, seções) — por isso precisa rodar APÓS enriquecimento
-- Lê fichas de `revisao/fichas_catalograficas.yaml` para `<description>` (NÃO usa o campo `description` do banco)
-- Gera títulos de seção únicos por issue (sufixo ` — {slug}`) para evitar colisão OJS
-- Respeita `hide_title` das seções
-- Mapeia volumes para nomes (1→Brasil, 2→Sudeste, etc.)
-- Inclui ORCIDs dos autores quando disponíveis
-
-**Fonte de verdade para `description`:** `revisao/fichas_catalograficas.yaml`. O campo `description` do YAML/banco é redundante — manter sincronizado mas o XML usa as fichas.
-
-### 8.2 Issues e seções são criadas pelo XML
-O XML com `published="1"` cria a issue e suas seções automaticamente.
-Não é necessário criar manualmente antes da importação.
-
-### 8.3 Upload de capa da edição
-Capas em PNG: `regionais/{região}/capas/{slug}.png` ou `nacionais/capas/{slug}.png`.
-OJS não aceita SVG como capa — usar PNG.
-
-### 8.4 Galley de edição completa (PDF compilado)
-
-Quando existir um PDF compilado dos anais completos (e-book), anexar à **issue** como galley com label "EDIÇÃO COMPLETA".
-
-**Seminários com PDF compilado:** sdsp05, sdsp06, sdsp07, sdsp08, sdsp09, sdnne07, sdnne09 (e possivelmente outros).
-
-### 8.5 Upload e importação dos artigos
-1. Login e obter cookies de sessão
-2. Obter CSRF token
-3. Para cada XML: upload → importBounce → confirmar resultado
-4. Sleep 0.5s entre uploads
-
----
-
-## Fase 9 — Verificação pós-importação
-
-- [ ] Contagem de artigos por seção confere
-- [ ] PDFs acessíveis (baixar e abrir 2-3 amostras)
-- [ ] Metadados corretos (títulos, autores, resumos)
-- [ ] urlPath da issue funcionando
-- [ ] Data de publicação correta
-- [ ] Capa da edição (se houver)
+**Após a Fase 7, o seminário está pronto para publicação** (site Hugo + Zenodo). O pipeline de produção via OJS foi arquivado em `docs/archive/pipeline_producao_ojs.md`.
 
 ---
 
@@ -572,9 +516,6 @@ Quando existir um PDF compilado dos anais completos (e-book), anexar à **issue*
 | `fetch_orcid.py` | 7.6 | Busca ORCIDs via OpenAlex/Crossref/ORCID (`--search --review --apply`) |
 | `dump_anais_db.py` | 7.7 | Gera anais.sql (dump versionável) |
 | `init_anais_db.py` | — | Cria schema do anais.db |
-| `generate_ojs_xml.py` | 8.1 | Gera Native XML para OJS (`--slug --with-pdf --outdir`) |
-| `import_ojs.py` | 8.5 | Importa XMLs no OJS (test/prod) |
-| `generate_static_pages.py` | — | Gera HTMLs das páginas estáticas |
 
 ### Scripts regionais (por diretório)
 
