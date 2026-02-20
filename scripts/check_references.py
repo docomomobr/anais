@@ -4,20 +4,22 @@ Detecta erros nas referências bibliográficas do anais.db.
 
 Heurísticas:
   1. Referências concatenadas (múltiplas na mesma linha)
-     - Muito longas (> 400 chars)
-     - Contêm padrão de separação: autor em CAPS seguido de vírgula no meio do texto
+     - Padrão "ano. SOBRENOME," no meio do texto (concatenada_padrao)
+     - Espaço duplo + novo autor no meio (concatenada_padrao2)
+     - Nota: refs longas NÃO são flagged apenas por tamanho — as existentes foram
+       todas revisadas manualmente. A heurística de tamanho foi desativada.
   2. Conteúdo que não é referência
-     - Fragmentos de texto corrido (sem autor, sem ano, sem editora)
+     - Fragmentos de texto corrido (alta proporção de palavras comuns, >150 chars, >40%)
      - Legendas de figuras, notas de rodapé
-     - URLs soltas
-     - Bullet points, listas de materiais
+     - Sem ano e sem ponto (>100 chars, não casa com padrões de referência)
   3. Referências incompletas
-     - Muito curtas (< 25 chars)
-     - Parecem continuação da ref anterior (não começam com maiúscula/dígito)
+     - Muito curtas (< 12 chars)
+     - Não começam com maiúscula/dígito E são curtas (<40 chars)
 
 Uso:
-    python3 scripts/check_references.py [--slug SLUG] [--min-len N] [--max-len N]
+    python3 scripts/check_references.py [--slug SLUG]
     python3 scripts/check_references.py --summary
+    python3 scripts/check_references.py --type concatenada|nao_ref|curta|todas
 """
 
 import argparse
@@ -32,32 +34,45 @@ DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
 # Padrões que indicam texto corrido (não referência)
 NOT_REF_PATTERNS = [
-    # Fragmentos de texto narrativo (verbos conjugados no meio)
-    re.compile(r'^[a-záàãâéêíóôõúüç].*\b(encontram-se|trata-se|merece destaque|em pauta|escusado|independentemente)\b', re.IGNORECASE),
     # Legendas de figuras
     re.compile(r'^\(?\s*(fig\.|figura|foto|imagem|fonte:)\s', re.IGNORECASE),
-    # Apenas URL
-    re.compile(r'^(https?://|www\.)\S+$', re.IGNORECASE),
-    # Bullet points ou listas
-    re.compile(r'^[•\-–—]\s'),
     # Apenas pontuação/símbolos
     re.compile(r'^[\s•\-–—·.,;:]+$'),
-    # Notas de rodapé numeradas (sem ser referência)
+    # Notas de rodapé numeradas (sem ser referência) — long narrative text
     re.compile(r'^\d+\s+[A-Z][a-z]+\s+(é|foi|são|era|tem|deve|pode|precisa|quer|como|quando|onde|porque)\b'),
 ]
 
 # Padrões que indicam referência legítima
 REF_PATTERNS = [
-    # SOBRENOME, Nome. Título...
+    # SOBRENOME, Nome. Título... (all-caps surname)
     re.compile(r'^[A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ][A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ\s]+,\s*[A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ]'),
+    # Sobrenome, Nome. Título... (mixed-case surname followed by comma)
+    re.compile(r'^[A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ][A-Za-záàãâéêíóôõúüç]+,\s'),
     # Nome Sobrenome. Título...  ou  SIGLA. Título...
     re.compile(r'^[A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ][A-Za-záàãâéêíóôõúüç\s]+\.\s'),
-    # _____. (mesmo autor)
-    re.compile(r'^_{2,}\.'),
+    # _____. (mesmo autor) or ------. or ––––.
+    re.compile(r'^[_\-–—]{2,}'),
     # Número. SOBRENOME (refs numeradas)
     re.compile(r'^\d+[\.\)]\s*[A-ZÁÀÃÂÉÊÍÓÔÕÚÜÇ]'),
     # SIGLA (IBGE, IPHAN, BRASIL, etc.)
     re.compile(r'^[A-Z]{2,}[\s.,]'),
+    # Quoted title start
+    re.compile(r'^["\u201c\u00ab\']'),
+    # Starts with lowercase but looks like ref: s.n.a., www, http, etc.
+    re.compile(r'^(s\.n\.a\.|www\.|http)', re.IGNORECASE),
+    # Starts with ... (continuation marker)
+    re.compile(r'^\.{2,}'),
+    # Starts with < (URL in angle brackets)
+    re.compile(r'^<'),
+    # Starts with ( — parenthetical ref
+    re.compile(r'^\('),
+    # Section headers for sources: "Fontes Documentais", "Crédito Iconográfico",
+    # "Processos Consultados", "Entrevistas", "Arquivos e acervos", etc.
+    re.compile(r'^(Fontes|Cr[eé]dito|Processos|Entrevistas|Arquivos|Acervos|Depoimentos)', re.IGNORECASE),
+    # Starts with [ (bracketed note/reference number)
+    re.compile(r'^\['),
+    # Starts with bullet point
+    re.compile(r'^[•·]'),
 ]
 
 # Padrão que sugere refs concatenadas: "ano. SOBRENOME," no meio do texto
@@ -82,14 +97,16 @@ def classify_ref(ref, index, total):
 
     length = len(ref)
 
-    # 1. Muito curta
-    if length < 25:
+    # 1. Muito curta (< 12 chars is almost certainly a fragment)
+    #    Between 12-14 chars there are many valid entries (siglas + year, short refs)
+    if length < 12:
         problems.append(('curta', f'Muito curta ({length} chars)'))
 
-    # 2. Muito longa (possível concatenação)
-    if length > 400:
-        severity = 'concatenada_provavel' if length > 800 else 'concatenada_possivel'
-        problems.append((severity, f'Muito longa ({length} chars)'))
+    # 2. Concatenação por tamanho: DESATIVADA
+    #    Todas as refs longas existentes foram revisadas manualmente.
+    #    Refs legítimas podem ter 600-6000+ chars (listas de documentos, endnotes,
+    #    bibliografias temáticas). A detecção por tamanho só gerava falsos positivos.
+    #    Mantemos apenas a detecção por PADRÃO (checks 3a/3b abaixo).
 
     # 3. Padrão de concatenação no meio do texto
     if CONCAT_PATTERN.search(ref[50:] if len(ref) > 50 else ''):
@@ -99,28 +116,36 @@ def classify_ref(ref, index, total):
         problems.append(('concatenada_padrao2', 'Espaço duplo + novo autor detectado no meio'))
 
     # 4. Não começa com maiúscula nem dígito (possível continuação ou texto)
-    if ref and not ref[0].isupper() and not ref[0].isdigit() and not ref.startswith('_') and not ref.startswith('http') and not ref.startswith('('):
-        # Verificar se parece texto corrido
+    #    Only flag if ALSO short (<40 chars), since long lowercase-start refs
+    #    are commonly legitimate: s.n.a. refs, www URLs, quoted titles, foreign
+    #    language refs starting with articles, etc.
+    is_ref = any(p.match(ref) for p in REF_PATTERNS)
+    if (ref and not ref[0].isupper() and not ref[0].isdigit()
+            and not is_ref and length < 40):
         problems.append(('inicio_minuscula', 'Não começa com maiúscula/dígito'))
 
     # 5. Parece texto corrido (não referência)
-    is_ref = any(p.match(ref) for p in REF_PATTERNS)
-    if not is_ref and length > 50:
+    if not is_ref and length > 100:
         # Heurística: referências geralmente têm ano (4 dígitos) e ponto
         has_year = bool(re.search(r'\b[12]\d{3}\b', ref))
         has_period = '.' in ref
         if not has_year and not has_period:
             problems.append(('sem_ano_ponto', 'Sem ano e sem ponto (provavelmente não é referência)'))
-        elif not has_year:
-            # Pode ser texto corrido longo sem ano
+        elif not has_year and length > 150:
+            # Only flag long entries without a year — shorter entries are often
+            # legitimate (archives, credits, proceedings without year in ref)
             words = ref.split()
             # Texto corrido tende a ter muitas palavras comuns em sequência
             common_words = {'de', 'do', 'da', 'dos', 'das', 'em', 'no', 'na', 'nos', 'nas',
                            'um', 'uma', 'o', 'a', 'os', 'as', 'que', 'se', 'com', 'por',
-                           'para', 'como', 'mais', 'não', 'ou', 'é', 'foi', 'são', 'ser'}
+                           'para', 'como', 'mais', 'não', 'ou', 'é', 'foi', 'são', 'ser',
+                           'e', 'ao', 'à', 'pelo', 'pela', 'sobre', 'entre', 'até', 'já',
+                           'mas', 'nem', 'também', 'ainda', 'muito', 'essa', 'este', 'esta',
+                           'esse', 'isso', 'aqui', 'onde', 'quando', 'porque', 'sua', 'seu',
+                           'suas', 'seus'}
             common_count = sum(1 for w in words if w.lower() in common_words)
             ratio = common_count / len(words) if words else 0
-            if ratio > 0.35 and length > 100:
+            if ratio > 0.40:
                 problems.append(('texto_corrido', f'Alta proporção de palavras comuns ({ratio:.0%})'))
 
     # 6. Padrões específicos de não-referência

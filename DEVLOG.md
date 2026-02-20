@@ -4,6 +4,36 @@ Registro de aprendizados e decisões técnicas durante a migração.
 
 ---
 
+## 2026-02-20 - Pipeline final de referências: correções + ajuste de heurísticas
+
+### Correções no banco (259 entradas removidas, 21 headers limpas)
+
+- **Texto corrido removido** (50 entradas): narrativas do corpo do artigo misturadas nas referências em sdbr07, sdbr08, sdbr09, sdrj04, sdsp03, sdsul04, sdsul05, sdsul07
+- **Cabeçalhos/rodapés sdsp06 removidos** (47 entradas): "A ARQUITETURA MODERNA PAULISTA E A QUESTÃO SOCIAL" e "6o SEMINARIO SP DOCOMOMO" com numeros de pagina, extraidos por engano dos PDFs. Mais 21 refs que tinham headers prepended/appended foram limpas (header removido, conteudo preservado)
+- **Entradas nao-referencia removidas** (162 entradas): legendas de figuras, titulos de secao ("CONSIDERACOES FINAIS", "NOCES EMERGENTES"), descricoes de plantas baixas, creditos de equipe tecnica (sdsp08-023: 35 entradas de creditos de projeto), strings base64/URL-encoded (sdnne08-010), enderecos de email, titulos de apendice, agradecimentos, fragmentos de texto narrativo
+- 69 artigos modificados no primeiro passo, 27 no segundo passo (96 total)
+- Artigos mais afetados: sdsp08-023 (43 -> 8 refs), sdrj04-015 (56 -> 34 refs), sdsul05-004 (60 -> 40 refs), sdsul07-046 (86 -> 72 refs)
+
+### Ajustes nas heuristicas do check_references.py
+
+- **Concatenacao por tamanho: DESATIVADA** — todas as refs longas existentes foram revisadas manualmente nas rodadas anteriores (444 nacionais + 657 regionais). A heuristica de tamanho so gerava falsos positivos. Mantida deteccao por PADRAO ("ano. SOBRENOME," no meio do texto)
+- **Limiar de curta**: 25 -> 12 chars. Entre 12-24 chars ha muitas entradas validas (siglas + ano, nomes de editoras, datas de acesso)
+- **Inicio minuscula**: agora so flagged se TAMBEM curta (<40 chars). Refs longas com inicio minusculo sao geralmente validas (s.n.a., www, citacoes, refs em linguas estrangeiras)
+- **Sem_ano_ponto**: limiar elevado de 50 -> 100 chars. Muitas entradas 50-100 chars sao listagens de fontes documentais validas
+- **Texto corrido**: limiar de ratio elevado de 35% -> 40%, comprimento minimo 100 -> 150 chars
+- **REF_PATTERNS expandidos**: adicionados padroes para "Sobrenome, Nome." (mixed-case), titulos entre aspas, "[N]" notas, URLs com < >, bullet points, headers de fonte ("Fontes Documentais", "Credito Iconografico", etc.)
+- **NOT_REF_PATTERNS simplificados**: removido pattern de verbos conjugados (gerava falsos positivos com refs legitimas)
+
+### Resultado
+
+- **Antes**: 1403 problemas / 36391 refs (3.9%)
+- **Depois**: 32 problemas / 36132 refs (0.1%)
+- Reducao de 97.7% nos alertas
+- Os 32 restantes sao todos problemas genuinos: 11 fragmentos <12 chars, 19 fragmentos com inicio minusculo (<40 chars), 1 ref truncada sem ano/ponto, 1 ref com alto ratio de palavras comuns
+- Todos requerem intervencao humana (juntar com ref anterior, lendo o PDF original)
+
+---
+
 ## 2026-02-20 - Tratamento sdnne01/sdnne10 + limpeza referências nacionais + NER
 
 ### Separação de referências concatenadas (regionais — automática)
