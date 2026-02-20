@@ -6,7 +6,7 @@ Registro de aprendizados e decisões técnicas durante a migração.
 
 ## 2026-02-20 - Tratamento sdnne01/sdnne10 + limpeza referências nacionais + NER
 
-### Separação de referências concatenadas (regionais)
+### Separação de referências concatenadas (regionais — automática)
 
 - Rodou `split_concat_references.py` nos regionais (sem `--only-sdbr`)
 - +534 refs separadas, -223 não-refs removidas em 21 seminários regionais
@@ -22,6 +22,22 @@ Registro de aprendizados e decisões técnicas durante a migração.
 - Padrões identificados: texto corrido/comentário do corpo do artigo misturado com refs (sdbr08-138, sdbr12-043, sdbr05-003), notas de rodapé (sdbr10, sdbr13-175), listas de URLs ("Sites Relacionados"), entradas de periódicos concatenadas (sdbr14-085), referências legislativas com URLs longos
 - Resultado geral: 6.0% → 5.4% problemas (2178 → 1967 / 36741 refs)
 - Script: `/tmp/process_concat_refs.py` (decisões codificadas, reproduzível)
+
+### Separação de referências concatenadas (regionais — LLM)
+
+- 657 referências concatenadas em 24 seminários regionais analisadas via LLM (2 passes)
+- Pass 1: 639 decisões — 39 splits (+77 new), 387 removes, 213 skips, 74 artigos modificados
+- Pass 2: 70 decisões adicionais para sdsul05 — 13 splits (+16 new), 56 removes, 1 skip, 7 artigos modificados
+- Total: 52 splits (+93 new refs), 443 removes, 214 skips, 81 artigos modificados
+- Padrões encontrados:
+  - **sdsul05** (230→1): Pior caso — 8 artigos com corpo inteiro do texto no campo de referências (sdsul05-003, -004, -009, -012, -020, -022, -029, -034, -037). Também concatenações de bibliografia e legendas de figuras
+  - **sdsul04** (90→8): Similar — 4 artigos com texto do corpo (sdsul04-006, -008, -022, -036), bibliografias concatenadas
+  - **sdsul07** (50→1): 3 artigos com texto do corpo (sdsul07-022, -023, -046)
+  - **sdrj04** (43→7): sdrj04-015 com texto integral, mais concatenações e legendas
+  - **Demais seminários**: maioria das refs sinalizadas são referências individuais legitimamente longas (URLs longos, detalhes completos de publicação) — classificadas como skip
+- Scripts: `/tmp/process_regional_concat_refs.py` (pass 1), `/tmp/process_regional_concat_refs_pass2.py` (pass 2)
+- Resultado geral: 5.4% → 3.9% problemas (1967 → 1403 / 36391 refs)
+- Restam 209 concat sinalizados: quase todos refs individuais longas (skips) + ~196 dos nacionais (inalterados)
 
 ### sdnne10 — cobertura multilíngue completa
 - Preenchidas lacunas restantes: 3 abstract_en, 1 abstract_es, 4 keywords_en, 1 keywords_es
