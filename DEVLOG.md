@@ -6,6 +6,13 @@ Registro de aprendizados e decisões técnicas durante a migração.
 
 ## 2026-02-20 - Tratamento sdnne01/sdnne10 + limpeza referências nacionais + NER
 
+### Separação de referências concatenadas (regionais)
+
+- Rodou `split_concat_references.py` nos regionais (sem `--only-sdbr`)
+- +534 refs separadas, -223 não-refs removidas em 21 seminários regionais
+- Destaques: sdsul03 +206 splits, sdsul05 +104, sdsul04 +70, sdnne03 +25
+- Resultado geral: 7.4% → 6.0% problemas (2621 → 2178 / 36440 refs)
+
 ### sdnne10 — cobertura multilíngue completa
 - Preenchidas lacunas restantes: 3 abstract_en, 1 abstract_es, 4 keywords_en, 1 keywords_es
 - Todas extraídas dos PDFs (Even3 template com seções SUMMARY/RESUMEN/PALABRAS CLAVE)
