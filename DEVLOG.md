@@ -13,6 +13,16 @@ Registro de aprendizados e decisões técnicas durante a migração.
 - Destaques: sdsul03 +206 splits, sdsul05 +104, sdsul04 +70, sdnne03 +25
 - Resultado geral: 7.4% → 6.0% problemas (2621 → 2178 / 36440 refs)
 
+### Separação de referências concatenadas (nacionais — LLM)
+
+- 444 referências concatenadas em sdbr01-15 analisadas manualmente via LLM
+- Cada referência classificada como split (separar), remove (não-referência) ou skip (manter)
+- Resultados: 185 splits (+365 net novas refs), 64 removes (textos corridos, notas de rodapé, CVs, URLs avulsas), 195 skips (refs individuais longas com URL)
+- 159 artigos modificados em 14 seminários nacionais
+- Padrões identificados: texto corrido/comentário do corpo do artigo misturado com refs (sdbr08-138, sdbr12-043, sdbr05-003), notas de rodapé (sdbr10, sdbr13-175), listas de URLs ("Sites Relacionados"), entradas de periódicos concatenadas (sdbr14-085), referências legislativas com URLs longos
+- Resultado geral: 6.0% → 5.4% problemas (2178 → 1967 / 36741 refs)
+- Script: `/tmp/process_concat_refs.py` (decisões codificadas, reproduzível)
+
 ### sdnne10 — cobertura multilíngue completa
 - Preenchidas lacunas restantes: 3 abstract_en, 1 abstract_es, 4 keywords_en, 1 keywords_es
 - Todas extraídas dos PDFs (Even3 template com seções SUMMARY/RESUMEN/PALABRAS CLAVE)
