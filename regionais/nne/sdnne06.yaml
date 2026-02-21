@@ -50,12 +50,17 @@ articles:
   authors:
   - givenname: E.
     familyname: Soares
+  - givenname: M.
+    familyname: Cotrim
   section: Apresentação Oral
   abstract: 'Marcel Breuer após o término de sua parceira com Walter Gropius se dedicou aos estudos do programa residencial, visando atender aos requisitos das famílias modernas, o arquiteto levava em consideração o aspecto sociocultural dos clientes e da sociedade, a intenção era de fazer uma adequação do espaço ao homem moderno, criando áreas funcionais para as diversas atividades. Ao longo dos anos 1943 e 1959, Breuer desenvolve dois modelos de casas unifamiliares, sobre os quais irá se debruçar de modo recorrente: a long house, que é baseada numa distribuição longitudinal; e a binuclear house, que tem como proposta uma estruturação baseada nos ambientes de usos diurnos e noturnos, sempre com um espaço de transição entre eles. Dentre os dois modelos desenvolvidos por Breuer, este trabalho centrará seu interesse nas casas binucleares cuja ideia central associa questões formais às questões espaciais. Ou seja, a ideia de dois núcleos que supõe uma questão formal está associada a uma questão de uso do espaço, cada um destes núcleos atenderia uma demanda, tendo um uso predominantemente diurno ou noturno. Tomaremos como estudo de caso para identificar as relações entre os atributos formais e espaciais na pesquisa tipológica desenvolvida por Breuer um projeto realizado para um concurso de casas econômicas, intitulado Design for post-war living, este concurso foi organizado pela revista California Arts&Architecture em 1943, para o qual foi desenvolvida a primeira casa binuclear.'
   keywords:
   - Breuer
   - Binuclear
   - ASE
+  keywords_en:
+  - Breuer
+  - Binuclear
   - SSA
   pages: ''
 - id: 3
@@ -120,6 +125,7 @@ articles:
   - arquitetura tropical
   - estruturalismo
   - indústria
+  keywords_en:
   - tropical architecture
   - structuralism
   - industry
@@ -187,6 +193,10 @@ articles:
     familyname: Silva
   - givenname: R. S.
     familyname: Martins
+  - givenname: R. S.
+    familyname: Santos
+  - givenname: T. D. F. R. C.
+    familyname: Nunes
   section: Apresentação Oral
   file: sdnne06-011.pdf
   abstract: Este artigo, que possui como eixo temático as discussões sobre as relações projetuais e bioclimáticas existentes na obra do arquiteto modernista Acácio Gil Borsoi, o Tribunal Judiciário do Piauí, abordará inicialmente as técnicas construtivas, com a discussão dos materiais empregados e dos planos de desenvolvimento adotados pelo arquiteto. Construído na década de 70, a construção possui grande preocupação com adequação ao local e ao clima, visando o combate à radiação solar excessiva, grande luminosidade e privilegia a ventilação natural. Esta adequação, pode ser observada com a utilização de grandes brises verticais em volta de toda planta básica, dispostos de maneira informal em concreto, sendo este o principal traço da concepção do projeto. Outrossim, baseiase em materiais locais, como o concreto, pedra, tijolo e madeira, tendo sua estrutura realizada totalmente in loco, como seus pilares, vigas, lajes e lâminas verticais. A partir do estudo do projeto inicial do arquiteto e posteriores visitas a edificação, foram realizadas análises da insolação da construção e da proteção efetiva dos brises e dos elementos vazados empregados nas fachadas, utilizando os softwares Sketchup e SUNSURVEYOR. O enfoque do artigo é a adequação do edifício ao desenho e ao clima urbano, valorizando a espacialidade e somando à Teresina uma nova perspectiva no contexto da arquitetura brutalista brasileira.
@@ -312,6 +322,8 @@ articles:
   authors:
   - givenname: A. F. B.
     familyname: Souza
+  - givenname: A. A. A.
+    familyname: Alves
   section: Apresentação Oral
   abstract: Fundada em 5 de abril de 1962 como subproduto da Superintendência do Desenvolvimento do Nordeste (SUDENE), a sociedade de economia mista denominada Artesanato do Nordeste S/A. – ARTENE – já era prevista desde o I Plano Diretor de Desenvolvimento Econômico e Social do Nordeste do triênio 1961-1963, com investimento inicial de 28 milhões de cruzeiros e tinha como objetivos, apresentados no II Plano Diretor do triênio 1963-1965, estimular a criação de cooperativas artesanais, promovendo a venda dos seus produtos; prestar assistência técnica e administrativa, inclusive meios de aprendizagem e treinamento, dentre outros. O artigo debruça-se sobre a trajetória da Artene a partir das atas das reuniões da Sudene, resoluções e proposições da Artene e jornais da época, tais como o Correio da Manhã e o Diário de Pernambuco. Descreve a criação da sociedade em 1962; discorre sobre as transformações por ela sofridas, em especial sobre o que era o plano da sociedade e o que realmente foi implantado, como por exemplo, a questão de proporcionar aprendizagem e treinamento aos artesãos, um dos objetivos principais citados na Resolução nº 381 de 5 de abril de 1962, que criou a Artene, e que não foi cumprido; discute as dificuldades advindas do golpe militar, quando a sociedade passa de agência de desenvolvimento a esquema de comercialização. Teria sido então a Artene um plano para o desenvolvimento industrial nordestino ou apenas lojinhas de lembranças para turistas? A sociedade tinha boas intenções, entretanto o seu foco principal era organizar os artesãos em cooperativas e vender os seus produtos, deixando os outros objetivos em segundo plano, que acabaram por não ser executados. O trabalho contribui, assim, para a elucidação deste importante episódio da arquitetura moderna, design e economia do
   keywords:
@@ -1364,6 +1376,18 @@ articles:
   - Glauco Campello
   - Campina Grande
   pages: ''
+- id: 104
+  title: 'A presença de Moacyr Gomes em Mossoró (RN): Escola Estadual Jerônimo Rosado'
+  authors:
+  - givenname: A. L.
+    familyname: Silva
+  section: Doco Jovem
+  abstract: O presente artigo apresenta como objeto de estudo a Escola Estadual Jerônimo Rosado localizada na cidade de Mossoró (RN), fundada no ano de 1959 com o nome de Instituto de Educação de Mossoró, tendo como autoria de projeto, o arquiteto potiguar, Moacyr Gomes. Gomes nasceu em 07 de junho de 1927, em Caicó (RN), graduou-se em 1954 pela Faculdade Nacional de Arquitetura da Universidade do Brasil, atualmente Universidade Federal do Rio de Janeiro - UFRJ, posteriormente se especializou em Planejamento Urbano e Administração no Rio de Janeiro, Recife e São Paulo. Após um período no Rio de Janeiro, ele retornou a Natal (RN), onde atuou como arquiteto em variadas obras no Estado, professor universitário e também na área de planejamento urbano na prefeitura municipal de Natal. A importância dessa pesquisa vem do fato de existir poucos estudos sobre a arquitetura Moderna em Mossoró, que devido ausência de políticas públicas preservacionistas por parte do município, vêm sofrendo transformações radicais ao longo do tempo. Além disso, esta edificação, em especifico, contempla o conjunto de obras de Gomes no Estado Potiguar, sendo importante o registro da sua contribuição para à arquitetura moderna brasileira. Trabalhará, portanto, com tema da modernidade através de uma análise projetual, dessa forma, a metodologia utilizada será a de pesquisa em arquitetura e urbanismo de SERRA (2006), procurando entender os processos e investigar as causas das mudanças pelas quais a escola está passando, entendendo ela como um sistema arquitetônico que interage com uma série de fatores externos como pessoas, entorno, usos, conforto, entre outros. Irá adotar também o método de GASTÓN E ROVIRA (2007) para análise do objeto arquitetônico, que parte do estudo gráfico, realizando imagens fotográficas, levantamento de material de projeto, como plantas, cortes, fachadas e construções tridimensionais, que permitam a melhor compreensão do objeto em estudo.
+  keywords:
+  - análise projetual
+  - arquitetura moderna
+  - patrimônio moderno
+  pages: ''
 - id: 88
   title: Análise da eficiência do conforto e funcionalidade das edificações modernistas de Fortaleza
   authors:
@@ -1478,6 +1502,8 @@ articles:
     familyname: Castro
   - givenname: A. R. S. N.
     familyname: Feitosa
+  - givenname: Á. O. C.
+    familyname: Serra
   section: Doco Jovem
   file: sdnne06-094.pdf
   abstract: O artigo tem como objetivo explorar a arquitetura moderna na cidade de Teresina através da análise trabalho do arquiteto piauiense Raimundo Dias, dando maior enfoque, nas obras construídas na década de 1970. Nascido em São Raimundo Nonato, Piauí no ano de 1943, estudou Arquitetura e Urbanismo na Universidade de Brasília, nos anos 1964 a 1969, participando na terceira turma do referido curso. Sua vida acadêmica foi marcada pela participação intensa no movimento estudantil. Suas principais influências em sua formação estão relacionadas a profissionais como Edgar Albuquerque Graeff, importante teórico brasileiro, o qual Dias teve a oportunidade de estagiar em seu escritório; o artista plástico Athos Bulcão, seu professor na disciplina Oficina de Plástica, e o seu professor de Referencia Projetual e orientador do seu trabalho de conclusão de curso, Pedro Paulo Saraiva. Em Teresina, o arquiteto projetou o Centro Administrativo do Piauí – reconhecido como o mais importante conjunto de edifícios da arquitetura moderna da cidade. Levam a assinatura dele, entre outros, o Terminal Rodoviário Lucídio Portela, Quartel do Comando Geral da Polícia Militar do Piauí, Centro de Convenções, sede do Jockey Club. Dentre suas obras, destacamos o prédio da AGESPISA, sistema de água e esgotos do Piauí. A escolha do projeto resultou de um concurso que contou com a participação de profissionais de todo o país. O projeto arrojado de Raimundo Dias foi o escolhido e hoje compõe a paisagem urbana da cidade, localizado na alça de acesso da ponte Juscelino Kubitschek. Mediante o exposto, o presente artigo irá tratar das obras do então arquiteto já citado e suas contribuições para a arquitetura moderna piauiense, contudo sem aprofundar-se em uma obra específica; será realizada uma análise geral de suas principais obras e vida.
