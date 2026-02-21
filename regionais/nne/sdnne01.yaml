@@ -258,8 +258,8 @@ articles:
   pages: null
 
 - id: 'sdnne01-005'
-  title: Alexander S. Buddeüs
-  subtitle: a passagem do cometa pela Bahia
+  title: Alexander s. Buddeüs
+  subtitle: a passagem do cometa Pela Bahia
   authors:
   - givenname: Paulo Ormindo de
     familyname: Azevedo
@@ -519,7 +519,7 @@ articles:
 
 - id: 'sdnne01-010'
   title: Arquiteturas impressas
-  subtitle: 'o Diário, o Commércio e a preservação do Moderno Pernambucano'
+  subtitle: 'o Diário, o Commércio e a preservação do moderno pernambucano'
   authors:
   - givenname: Ana Elisabete de Almeida
     familyname: Medeiros
@@ -665,7 +665,7 @@ articles:
 
 - id: 'sdnne01-013'
   title: Caminhos da Arquitetura Moderna em Fortaleza
-  subtitle: a contribuição do arquiteto Roberto Martins Castelo
+  subtitle: a contribuição do Arquiteto Roberto Martins Castelo
   authors:
   - givenname: Beatriz Helena Nogueira
     familyname: Diógenes
@@ -763,7 +763,7 @@ articles:
   pages: null
 
 - id: 'sdnne01-015'
-  title: Edifício Residencial Presidente João Pessoa e Edifício Caricé
+  title: Edifício residencial presidente João Pessoa e edifício Caricé
   subtitle: João Pessoa e o desafio das habitações multifamiliares
   authors:
   - givenname: Carolina Marques Chaves
@@ -802,8 +802,8 @@ articles:
   pages: null
 
 - id: 'sdnne01-016'
-  title: Expressões do Moderno Sergipano
-  subtitle: as residências unifamiliares do bairro São José nos anos 50 e 60
+  title: Expressões do moderno sergipano
+  subtitle: as Residências unifamiliares do bairro São José nos anos 50 e 60
   authors:
   - givenname: Isabella Aragão Melo
     familyname: Santos
@@ -975,7 +975,8 @@ articles:
   - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. 3 ed. Traduzido por Ana M. Goldberger. São Paulo: Editora Perspectiva, 1997. Tradução de L’architecture contemporaine au Brésil.'
   - 'CASTOR, Dimitri; MOUTA, Mychelle. Proposta de Tombamento do Hotel Tambaú. João Pessoa: UFPB, Monografia de Graduação (Disciplina: Estágio Curricular V). Departamento de Arquitetura e Urbanismo, Universidade Federal da Paraíba, 2003.'
   - 'CONGRESSO e Hotel. A União. João Pessoa, 8 mar. 1967, p. 3.'
-  - 'FRANCO, Martinho Moreira. Meninos, eu vi! O Norte. João Pessoa, 11 set. 1996. Especial, Hotel Tambaú, p. 5.'
+  - 'FRANCO, Martinho Moreira. Meninos, eu vi! O Norte. João Pessoa, 11 set. 1996.'
+  - 'Especial, Hotel Tambaú, p. 5.'
   - 'GUIA Turística. A União. João Pessoa, 11 ago. 1968, p. 5.'
   - 'HOTEL: Novo Ponto de Turismo em Tambaú. A União. João Pessoa, 1 set. 1968, p. 5.'
   - 'LANÇADA ontem primeira etapa da construção do Hotel Tambaú. A União. João Pessoa, 27 ago. 1968, p. 8.'
@@ -1021,7 +1022,10 @@ articles:
   - 'HINES, Thomas S.. Richard Neutra and the search for modern architecture. A Biography and History. New York: Oxford University Press, 1982.'
   - 'LOUREIRO, Cláudia, AMORIM, Luiz. Por uma arquitetura social: a influência de Richard Neutra em prédios escolares no Brasil. São Paulo: Vitruvius, 2002. Disponível em: <http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp>. Acesso em 15 fev. 2005, 18:00.'
   - 'MINDLIN, Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
-  - 'NEUTRA, Richard. Arquitetura social em paises de clima quente / Architecture of social concern in regions of mild climate. São Paulo: Gerth Todtmann, 1948. PIÑON, Hélio. Curso Básico de proyectos. Barcelona: ediciones UPC, 1997. PIÑON, Hélio. El sentido de la Forma Moderna. Barcelona: ediciones UPC, 1998. PIÑON, Hélio. Miradas Intensivas. Barcelona: ediciones UPC, 1999.'
+  - 'NEUTRA, Richard. Arquitetura social em paises de clima quente / Architecture of social concern in regions of mild climate. São Paulo: Gerth Todtmann, 1948.'
+  - 'PIÑON, Hélio. Curso Básico de proyectos. Barcelona: ediciones UPC, 1997.'
+  - 'PIÑON, Hélio. El sentido de la Forma Moderna. Barcelona: ediciones UPC, 1998.'
+  - 'PIÑON, Hélio. Miradas Intensivas. Barcelona: ediciones UPC, 1999.'
   - 'SACCK, Manfred. Richard Neutra. Barcelona: Gustavo Gili S.A., 1993.'
   locale: 'pt-BR'
   file: 'sdnne01-020.pdf'
@@ -1242,7 +1246,7 @@ articles:
 
 - id: 'sdnne01-025'
   title: 'Museu de Arte Moderna do Recife, 1955'
-  subtitle: análise arquitetônica e construção virtual de um projeto não executado
+  subtitle: análise Arquitetônica e construção virtual de um projeto não executado
   authors:
   - givenname: Alcília Afonso de Albuquerque e
     familyname: Melo
@@ -1699,7 +1703,7 @@ articles:
 
 - id: 'sdnne01-036'
   title: Arquitetura do século XX
-  subtitle: um estudo dos bangalôs e do Moderno em São Luís do Maranhão
+  subtitle: um estudo dos bangalôs e do moderno em São Luís do Maranhão
   authors:
   - givenname: Eliane Alves Souza de
     familyname: Oliveira
@@ -1809,7 +1813,7 @@ articles:
   pages: null
 
 - id: 'sdnne01-038'
-  title: Arquitetura residencial modernista em São Luís
+  title: Arquitetura residencial Modernista em São Luís
   subtitle: análise da produção do arquiteto Cleon Furtado
   authors:
   - givenname: Marina de Miranda
@@ -2049,7 +2053,7 @@ articles:
   pages: null
 
 - id: 'sdnne01-043'
-  title: Urbanização modernista em São Luís na década de setenta
+  title: Urbanização Modernista em São Luís na década de setenta
   subtitle: o zoneamento enquanto estratégia de segregação social
   authors:
   - givenname: Carlos Frederico Lago

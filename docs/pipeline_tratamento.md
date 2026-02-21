@@ -43,8 +43,28 @@ Campos a extrair:
 - **Abstract** em inglês (se existir)
 - **Resumen** em espanhol (se existir)
 - **Palavras-chave** / Keywords / Palabras clave
-- **Referências bibliográficas** (lista ao final do artigo)
+- **Referências bibliográficas** (lista ao final do artigo) — ver §2.1b
 - **Contagem de páginas** (`pdfinfo`)
+
+### 2.1b Extrair referências bibliográficas dos PDFs
+
+Cada artigo completo contém uma seção de referências ao final. A extração usa `pdftotext -layout` e parsing da seção "Referências" / "REFERÊNCIAS" / "Bibliografia" / variantes (com e sem acento).
+
+**Não há um script único genérico.** Cada seminário pode exigir adaptações (variantes do heading, formatação do PDF, artefatos). Consultar os scripts existentes como referência e adaptar ao caso:
+
+| Script | Região | Notas |
+|--------|--------|-------|
+| `regionais/se/scripts/extrair_refs_sp.py` | SP | Aceita slug como argumento. Lógica mais completa (backfill `______`, join URLs, filtro de não-refs). Boa base para novos seminários. |
+| `regionais/se/scripts/extrair_referencias_sp.py` | SP | Versão anterior / alternativa |
+| `regionais/se/scripts/extrair_metadados_pagina1.py` | SE | Extrai refs junto com outros metadados |
+| `nacionais/scripts/extrair_metadados_textos.py` | Nacionais | Extrai de textos brutos (pdftotext pré-gerado) |
+
+**Procedimento:**
+1. Verificar se já existe script de extração para o grupo regional
+2. Se não, usar `extrair_refs_sp.py` como base e adaptar paths e patterns
+3. Variantes comuns do heading: `REFERENCIAS` (sem acento), `Referências Bibliográficas`, `Bibliography`, `References`
+4. Após extração, sempre rodar `clean_references.py` (§4.4a) e `check_references.py` (§4.4b)
+5. Meta: < 2% de problemas por seminário
 
 ### 2.2 Checklist pós-extração
 - [ ] Todos os PDFs foram processados? (contar vs total esperado)
@@ -478,7 +498,13 @@ Critérios de aceitação automática: resultado único + afiliação BR. Exclus
 python3 scripts/dump_anais_db.py     # gera anais.sql (versionado no git)
 ```
 
-### 7.8 Git commit e push
+### 7.8 Gerar conteúdo Hugo
+```bash
+python3 scripts/db2hugo.py --seminar {slug}
+```
+Gera as páginas do seminário em `site/content/{ambito}/{slug}/`. Para revisar localmente: `cd site && hugo server`.
+
+### 7.9 Git commit e push
 ```bash
 git add anais.sql {yamls} {scripts modificados}
 git commit -m "Importar {slug}: N artigos, NER, dedup, ORCIDs"
