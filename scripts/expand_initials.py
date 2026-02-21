@@ -223,21 +223,49 @@ def search_lattes_name(given, family):
 # ---------------------------------------------------------------------------
 
 def apply_corrections(db, corrections):
-    """Apply a list of (author_id, new_givenname) to the database."""
+    """Apply a list of (author_id, new_givenname) to the database.
+    If the expanded name already exists as another author, merge instead of update."""
     cur = db.cursor()
     applied = 0
+    merged = 0
     for aid, new_gn in corrections:
         old = cur.execute(
             "SELECT givenname, familyname FROM authors WHERE id = ?", (aid,)
         ).fetchone()
-        if old:
-            print(f"  [{aid}] {old[0]} {old[1]}  →  {new_gn} {old[1]}")
+        if not old:
+            continue
+        old_gn, fn = old
+        # Check if expanded name already exists as a different author
+        existing = cur.execute(
+            "SELECT id FROM authors WHERE givenname = ? AND familyname = ? AND id != ?",
+            (new_gn, fn, aid)
+        ).fetchone()
+        if existing:
+            canonical_id = existing[0]
+            print(f"  [{aid}] {old_gn} {fn}  →  MERGE into [{canonical_id}] {new_gn} {fn}")
+            # Move articles from dupe to canonical (skip duplicates)
+            cur.execute(
+                "UPDATE OR IGNORE article_author SET author_id = ? WHERE author_id = ?",
+                (canonical_id, aid)
+            )
+            # Clean up any remaining (duplicates that were ignored)
+            cur.execute("DELETE FROM article_author WHERE author_id = ?", (aid,))
+            # Register variant
+            cur.execute(
+                "INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source) VALUES (?, ?, ?, 'expand-merge')",
+                (canonical_id, old_gn, fn)
+            )
+            # Delete dupe author
+            cur.execute("DELETE FROM authors WHERE id = ?", (aid,))
+            merged += 1
+        else:
+            print(f"  [{aid}] {old_gn} {fn}  →  {new_gn} {fn}")
             cur.execute(
                 "UPDATE authors SET givenname = ? WHERE id = ?", (new_gn, aid)
             )
             applied += 1
     db.commit()
-    print(f"\nAtualizados: {applied} autores")
+    print(f"\nAtualizados: {applied} autores, merges: {merged}")
     remaining = cur.execute(
         "SELECT COUNT(*) FROM authors WHERE givenname LIKE '%.%'"
     ).fetchone()[0]

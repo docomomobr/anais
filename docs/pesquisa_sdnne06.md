@@ -279,15 +279,38 @@ O course no WordPress tem **ID 5494**, status `publish`, slug `6-seminario-docom
 - Manter apenas os metadados no YAML e na pagina estatica
 - Justificativa: trata-se apenas de resumos, sem textos completos publicados
 
+## Resultado da busca de artigos completos (2026-02-20)
+
+### Fonte: emails do Outlook
+Os artigos completos foram submetidos por email pelos autores a Alcilia Afonso. Foram baixados 652 arquivos anexos dos emails da caixa do Outlook (formato .pst), triados e mapeados contra os 102 resumos do caderno.
+
+### Resultado
+- **58 artigos com texto completo** encontrados (doc, docx, pdf, dot)
+- **44 resumos sem artigo completo** (lista em `sdnne06/fontes/resumos_sem_artigo.txt`)
+- 1 artigo encontrado em formato .dot (Word template): Art.69 (Idearios urbanos, Lara Alencar)
+
+### Pipeline aplicado
+- `construir_sdnne06.py` — mapeamento dos 102 resumos do caderno
+- `construir_sdnne06_files.py` — matching de arquivos de email contra resumos
+- `fetch_sdnne06_emails.py` — download dos anexos do Outlook via Thunderbird/MailExtensions
+- Mapeamento manual em `sdnne06/fontes/mapeamento_artigos.yaml`
+- Busca reversa (texto do arquivo → titulo do resumo) para arquivos sem match direto
+- Verificacao de todos os 652 arquivos (incluindo .pptx, .htm, .dot, .txt, sem extensao)
+
+### Importacao no banco
+- 102 artigos importados no anais.db (58 com PDF, 44 so resumo)
+- AND/dedup rodado: expand_initials (22 expansoes + 22 merges) + dedup_authors (+1 merge)
+- Estado apos: 2401 autores, 926 variantes
+
+### Pendencia
+- **44 resumos sem artigo**: lista enviada aos organizadores para busca dos textos completos
+- Os 44 estao no YAML com metadados (titulo, autores, abstract, keywords) mas sem `file`
+
 ## Proximos passos
 
-1. **Decisao sobre importacao**: definir com o usuario se sdnne06 deve ser importado no OJS e em qual formato
-2. **Se importar (Opcao A)**: expandir nomes dos autores usando:
-   - Cruzamento com autores ja conhecidos no banco (dedup_authors.py)
-   - Busca no Lattes/ORCID para identificacao completa
-3. **Buscar anais completos**: contatar Alcilia Afonso (coordenadora) para verificar se existem textos completos nao publicados online
-4. **Atualizar sdnne06.yaml**: incluir dados do evento (tema, ISBN, datas, organizacao, eixos tematicos)
-5. **Salvar caderno de resumos**: copiar o PDF para o diretorio local de fontes
+1. **Aguardar resposta dos organizadores** sobre os 44 artigos faltantes
+2. Se chegarem novos artigos: adicionar PDFs, atualizar YAML, re-importar incremental
+3. ORCID dos autores novos (adiado)
 
 ## Fontes
 

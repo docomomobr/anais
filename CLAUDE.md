@@ -102,9 +102,9 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave
 
 ## Status dos Seminários Regionais
 
-### Prontos para produção (25 seminários, ~1028 artigos)
+### Prontos para produção (26 seminários, ~1130 artigos)
 
-**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne05 (32), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
+**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne05 (32), sdnne06 (102), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
 
 **Sudeste** (`regionais/se/`): sdmg01 (68), sdrj02 (19), sdrj03 (4), sdrj04 (17), sdsp03 (74), sdsp05 (68), sdsp06 (37), sdsp07 (43), sdsp08 (40), sdsp09 (27)
 
@@ -114,7 +114,6 @@ Todos importados no OJS teste. Importação na produção pendente.
 
 ### Sem dados (não localizados)
 - sdnne04 (Natal 2012)
-- sdnne06 (Teresina 2016 — só caderno de resumos)
 - sdsp04, sdrj01
 
 ### Pendências

@@ -1,41 +1,18 @@
 # 6º Seminário Docomomo Norte/Nordeste — Teresina (2016)
-slug: sdnne06
-volume: 1
-number: 6
+# Fonte: caderno de resumos (apenas resumos, sem textos completos)
+# Autores listados com iniciais — expandir quando possível
 
-evento:
-  titulo: 6º Seminário Docomomo Norte/Nordeste
-  tema: "Arquitetura: Tectônica e Lugar"
-  local: Teresina, PI
-  instituicao: Universidade Federal do Piauí (UFPI)
-  data: "10 a 13 de agosto de 2016"
-  organizacao:
-    - nome: Alcília Afonso
-      instituicao: UFCG
-      papel: Coordenadora geral
-    - nome: Víctor Veríssimo
-      instituicao: UFCG
-    - nome: Rômulo Marques
-      instituicao: UFPI
-    - nome: Péricles Medeiros
-      instituicao: Prefeitura do Recife
-    - nome: Thiscianne Pessoa
-      instituicao: UFPI
-    - nome: Nayane Costa
-      instituicao: UFPI
-    - nome: Camilla Meneses
-      instituicao: UFCG
-    - nome: Ana Rosa Negreiros
-      instituicao: UFPI
-    - nome: Aracelly Magalhães
-      instituicao: Centro Universitário UNINOVAFAPI
-    - nome: Isis Meireles
-      instituicao: Centro Universitário UNINOVAFAPI
-    - nome: Allyson Barbosa
-      instituicao: UFCG
-
-publicacao:
-  ficha_catalografica: |
+issue:
+  slug: sdnne06
+  title: 6º Seminário Docomomo Norte/Nordeste, Teresina, 2016
+  subtitle: Arquitetura — tectônica e lugar
+  year: 2016
+  volume: 3
+  number: 6
+  date_published: '2016-08-10'
+  isbn: 978-85-7463-919-2
+  publisher: UFPI
+  description: |-
     DOCOMOMO Norte/Nordeste (6.:2016:.Teresina, PI)
     Arquitetura: tectônica e lugar / VI DOCOMOMO Norte/Nordeste. — Teresina, 2016.
     200p. il.
@@ -43,32 +20,1579 @@ publicacao:
     Seminário realizado em Teresina de 10 a 13 de agosto de 2016.
     1. Patrimônio e cidade. 2. História e cidade. I. Título. II. Afonso, Alcília.
     CDD 725.948 122
-  isbn: "978-85-7463-919-2"
-  editora: UFPI
-  ano: 2016
-  tipo: Caderno de Resumos
-
-secoes:
-  - titulo: Eixo Temático 1 — Arquitetura e Modernidade
-  - titulo: Eixo Temático 2 — Tectônica e Modernidade
-  - titulo: Eixo Temático 3 — Lugar e Modernidade
-  - titulo: Eixo Temático 4 — Arquitetura x Tectônica x Lugar — Interdisciplinaridade
-  - titulo: Eixo Temático 5 — Manifestações Artísticas e Culturais na Modernidade
-
-fontes:
-  docomomobrasil:
-    url: https://docomomobrasil.com/course/6-seminario-docomomo-n-ne-teresina-2016/
-    wordpress_id: 5494
-    tipo: Caderno de Resumos apenas
-  caderno_resumos:
-    url: https://docomomobrasil.com/wp-content/uploads/2022/04/6docomomoNNE_caderno_de_resumos.pdf
-    arquivo_local: regionais/nne/sdnne06/6docomomoNNE_caderno_de_resumos.pdf
-    paginas: 134
-    tamanho: 64 MB
-  ufpi:
-    url: https://ufpi.br/ultimas-noticias-ufpi/14777-curso-de-arquitetura-e-urbanismo-da-ufpi-promove-o-6-docomomo-n-ne
-
-status: parcial
-notas: "Apenas caderno de resumos (106 resumos). Sem textos completos, sem PDFs individuais. Autores listados com iniciais apenas. Contatar Alcília Afonso para verificar existência de anais completos."
-
-artigos: []
+  editors:
+  - givenname: Alcília
+    familyname: Afonso
+  sections:
+  - title: Apresentação Oral
+    abbrev: AO-sdnne06
+  - title: Poster Digital
+    abbrev: PD-sdnne06
+  - title: Doco Jovem
+    abbrev: DJ-sdnne06
+articles:
+- id: 1
+  title: 'A (não) permanência das obras de Severiano Mário Porto: análise da reforma do edifício sede do TRE-AM'
+  authors:
+  - givenname: D. L. F.
+    familyname: Pontes
+  - givenname: R. P. da
+    familyname: Fonseca
+  section: Apresentação Oral
+  abstract: A produção do arquiteto Severiano Mário Porto não segue características específicas de uma única escola brasileira, assumindo diferentes narrativas que oscilam entre vertentes da escola carioca, do brutalismo paulista, e até mesmo da arquitetura vernacular, entretanto, sempre foi reconhecida pelo expressivo caráter regionalista, com narrativas que revelam a constate preocupação com a tectônica necessária à Amazônia Brasileira. Recentemente, o edifício Sede do Tribunal Regional Eleitoral do Amazo
+  keywords:
+  - Severiano Porto
+  - reforma
+  - desfiguração
+  pages: ''
+- id: 2
+  title: 'A casa do pós-guerra: a relação entre a forma e o espaço na casa binuclear de Marcel Breuer'
+  authors:
+  - givenname: E.
+    familyname: Soares
+  section: Apresentação Oral
+  abstract: Marcel Breuer após o término de sua parceira com Walter Gropius se dedicou aos estudos do programa residencial, visando atender aos requisitos das famílias modernas, o arquiteto levava em consideração o aspecto sociocultural dos clientes e da sociedade, a intenção era de fazer uma adequação do espaço ao homem moderno, criando áreas funcionais para as diversas atividades. Ao longo dos anos 1943 e 1959, Breuer desenvolve dois modelos de casas unifamiliares, sobre os quais irá se debruça
+  keywords:
+  - Breuer
+  - Binuclear
+  - ASE
+  - SSA
+  pages: ''
+- id: 3
+  title: 'A casa modernista como ponto de inflexão na natureza morfológica de uma possível “morada brasileira”: o caso Natal, RN'
+  authors:
+  - givenname: E.
+    familyname: Trigueiro
+  - givenname: L. L.
+    familyname: Jacome
+  - givenname: I.
+    familyname: Araújo
+  section: Apresentação Oral
+  file: sdnne06-003.pdf
+  abstract: A natureza morfológica de residências modernistas potiguares é explorada, quanto à caixa mural e à estrutura espacial, entendidas como expressivas e conformadoras de práticas socioculturais. Acreditase que os 27 casos analisados, parte de um acervo documental sobre arquitetura potiguar predominantemente desaparecida, são representativos da produção modernista local quanto ao recorte temporal e social, indo dos anos 1950 aos 1970, e contendo habitações de camadas economicamente mais e menos privi
+  keywords:
+  - arquitetura modernista
+  - morada brasileira
+  - morfologia da arquitetura
+  pages: ''
+- id: 4
+  title: A contribuição de Geraldino Duda para a consolidação da modernidade arquitetônica em Campina Grande, na década de 60
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  - givenname: C.
+    familyname: Meneses
+  - givenname: A.
+    familyname: Barbosa
+  section: Apresentação Oral
+  file: sdnne06-004.pdf
+  abstract: O presente artigo se enquadra no eixo temático 1 (Arquitetura e Modernidade) deste congresso e possui como objeto de estudo a obra de Geraldino Duda produzida nos anos sessenta na cidade de Campina Grande, agreste paraibano.O objetivo de apresentar esse estudo nesse evento é divulgar o trabalho desse personagem, pouco estudado e reconhecido, como um dos profissionais que possuiu uma produção profícua e rica, com centenas de obras produzidas na cidade, e que, de certa maneira, pode ser considerad
+  keywords:
+  - arquitetura moderna
+  - linguagem moderna
+  - inventário moderno
+  pages: ''
+- id: 5
+  title: A memória da arquitetura moderna na cidade de São Luís no Maranhão (Brasil) no período de 1930 a 1960
+  authors:
+  - givenname: L. M. do
+    familyname: Nascimento
+  - givenname: G. S.
+    familyname: Pflueger
+  section: Apresentação Oral
+  file: sdnne06-005.pdf
+  abstract: São Luís, capital do Estado do Maranhão (Brasil), tem sua imagem ligada principalmente à herança colonial dos séculos XVIII e XIX. Na primeira metade do século XX, a cidade passa por intervenções com intuito de modernizar sua estrutura, pautadas em ideais de higienização, circulação e embelezamento, e previram a criação de novas avenidas e ampliação das estruturas do centro histórico com a demolição de casario antigo, a exemplo do alargamento da Rua do Egito e a construção de novas avenidas a ex
+  keywords:
+  - produção arquitetônica
+  - arquitetura moderna
+  - São Luís
+  pages: ''
+- id: 6
+  title: 'À procura do essencial na arquitetura: construindo com pouco no nordeste brasileiro — arte-indústria, regional-internacional, trópicos-temperos: fenômenos ainda gêmeos?'
+  authors:
+  - givenname: G.
+    familyname: Naslavsky
+  - givenname: J.
+    familyname: Ramos
+  section: Apresentação Oral
+  abstract: Propõe-se explorar conexões entre as arquiteturas do pernambucano Armando de Holanda Cavalcanti e do holandês Aldo Van Eyck, argumentando a existência de diálogos conciliatórios entre elementos em aparente eterna oposição – “fenômenos gêmeos”, segundo Van Eyck (STRAUVEN, 2007) –, via princípios teóricos desenvolvidos pelos mesmos – também Van Eyck, “claridade labiríntica”, essencialidade e tradição arcaica e o oitavo ponto do “Roteiro para construir no Nordeste” de Armando, “construir com pouco”
+  keywords:
+  - arquitetura tropical
+  - estruturalismo
+  - indústria
+  - tropical architecture
+  - structuralism
+  - industry
+  pages: ''
+- id: 7
+  title: 'A produção moderna da praça pública nas cidades pequenas: reflexões sobre Pau dos Ferros — RN'
+  authors:
+  - givenname: A. C. L.
+    familyname: Barbosa
+  section: Apresentação Oral
+  file: sdnne06-007.pdf
+  abstract: Este artigo traz um apanhado da produção da praça moderna e sua relação com a pequena cidade, objetivando a compreensão dos processos de projetação com a dinâmica urbana e territorial do lugar, que por sua vez, que acabam incorporando novos valores e significados de urbanidades para os espaços públicos. A vida citadina perpassa pela praça pública, seja em momentos de passagem ou de permanência, transcendendo os limites da conversa, da calmaria e da simplicidade do lugar. Os pequenos municípios e
+  keywords:
+  - praça
+  - cidade
+  - Pau dos Ferros
+  pages: ''
+- id: 8
+  title: A residência modernista aracajuana dos Souza Freire
+  authors:
+  - givenname: J.
+    familyname: Maciel
+  section: Apresentação Oral
+  abstract: Aracaju foi fundada em 1855 sob o signo da modernidade. A secular cidade de São Cristóvão perdeu o título de capital motivada por questões econômicas, políticas e pela expectativa de sua elite por um ideal moderno aos moldes do ocorrido no sudeste brasileiro e na Europa finissecular. Os anseios da sociedade foram parcialmente satisfeitos a partir dos anos 1910, graças à remodelação e modernização urbana, pautadas no embelezamento dos espaços públicos, na atualização das fachadas e na construção
+  keywords:
+  - análise arquitetônica
+  - residência modernista
+  - tectônica
+  pages: ''
+- id: 9
+  title: A Transparência do Desenho. João Filgueiras Lima estudado a partir de seus desenhos
+  authors:
+  - givenname: D.
+    familyname: Paz
+  section: Apresentação Oral
+  abstract: No artigo exploramos os desenhos do arquiteto João Filgueiras Lima, o Lelé, como algo que ajuda a desvendar seus projetos, revelando o quê e como o arquiteto vê. No caso de Lelé, como uma prospecção de um futuro hipotético, ao invés de uma escavação arqueológica da sensível, croquis de estudos, feitos e refeitos. Entendemos desenho e edifício como expressões de um mesmo espírito, e não como etapas de um processo. Nos desenhos de Lelé não há sombras. Tudo é irradiado pela mesma luz suave constant
+  keywords:
+  - João Filgueiras Lima
+  - expressão gráfica
+  - desenho
+  pages: ''
+- id: 10
+  title: Análise da adequação bioclimática de residências modernas em Teresina-PI
+  authors:
+  - givenname: R.
+    familyname: Alencar
+  - givenname: D.
+    familyname: Costa
+  - givenname: A. L.
+    familyname: Silveira
+  section: Apresentação Oral
+  file: sdnne06-010.pdf
+  abstract: O movimento moderno na arquitetura brasileira inicia-se nas primeiras décadas do século XX, trazendo novas prioridades e critérios de planejamento, sobretudo na importância dada ao clima. Esse fator trouxe novas formas de projetar, condicionando a volumetria, o uso dos materiais, disposição de aberturas, entre outros, às características do clima local. Estas estratégias foram um pouco deixadas de lado com o uso de recursos artificiais para climatização e somente após o episódio da crise energéti
+  keywords:
+  - arquitetura moderna
+  - soluções bioclimáticas
+  - eficiência energética
+  pages: ''
+- id: 11
+  title: Análise das técnicas construtivas e adequação bioclimática do edifício Tribunal Judiciário do Piauí
+  authors:
+  - givenname: D. S.
+    familyname: Araújo
+  - givenname: L. C. S.
+    familyname: Silva
+  - givenname: R. S.
+    familyname: Martins
+  section: Apresentação Oral
+  file: sdnne06-011.pdf
+  abstract: Este artigo, que possui como eixo temático as discussões sobre as relações projetuais e bioclimáticas existentes na obra do arquiteto modernista Acácio Gil Borsoi, o Tribunal Judiciário do Piauí, abordará inicialmente as técnicas construtivas, com a discussão dos materiais empregados e dos planos de desenvolvimento adotados pelo arquiteto. Construído na década de 70, a construção possui grande preocupação com adequação ao local e ao clima, visando o combate à r
+  keywords:
+  - estudo bioclimático
+  - técnicas construtivas
+  - Acácio Gil Borsoi
+  pages: ''
+- id: 12
+  title: Análise projetual do complexo arquitetônico do Clube do Trabalhador do Serviço Social da Indústria (SESI). Campina Grande — PB
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  - givenname: C. T. de M.
+    familyname: Landim
+  section: Apresentação Oral
+  file: sdnne06-012.pdf
+  abstract: O presente artigo se enquadra no eixo temático 1 (Arquitetura e Modernidade) deste congresso e possui como objeto de estudo o Complexo arquitetônico moderno do Clube do Trabalhador do Serviço Social da Indústria (SESI) composto por três volumes, localizado em Campina Grande, zona do agreste paraibano. Projetado pelo arquiteto pernambucano Tertuliano Dionísio e pelo engenheiro Edson da Costa os dos dois volumes que abrigam a zona administrativa e a quadra poliesportiva foram inaugurados em 1962.
+  keywords:
+  - complexo arquitetônico
+  - construção moderna
+  - análise projetual
+  pages: ''
+- id: 13
+  title: 'Arquitetura do poder: análise teórica da avenida Gétulio Vargas em São Luis — MA'
+  authors:
+  - givenname: M.
+    familyname: Silva
+  - givenname: C.
+    familyname: Mesquita
+  section: Apresentação Oral
+  file: sdnne06-013.pdf
+  abstract: A Avenida Getúlio Vargas foi um marco da Arquitetura Moderna e da manifestação da arquitetura do poder em São Luís do Maranhão na Era Vargas, no período de intervenção de Paulo Ramos entre 1937-40. A sua construção materializou o prolongamento da antiga Rua grande, eixo estruturador do urbanismo colonial, com a proposta de expansão da cidade moderna para dentro. Ao longo da nova avenida, novas linguagens arquitetônicas surgiram através dos exemplares da arquitetura residencial e institucional do
+  keywords:
+  - urbanismo
+  - moderna
+  - arquitetura do poder
+  - Era Vargas
+  pages: ''
+- id: 14
+  title: Arquitetura moderna & conforto ambiental em casas modernistas potiguares
+  authors:
+  - givenname: I.
+    familyname: Araújo
+  - givenname: E.
+    familyname: Trigueiro
+  - givenname: L. L.
+    familyname: Jacome
+  section: Apresentação Oral
+  file: sdnne06-014.pdf
+  abstract: Este trabalho aborda a adequação da arquitetura modernista natalense a aspectos bioclimáticos do Nordeste brasileiro. Mediante a construção de uma matriz valorativa, objetiva-se explorar sete casos de arquitetura residencial considerados representativos da produção modernista local, a título de estudo piloto que servirá de base para a análise de uma amostra mais ampla, podendo contribuir como referências para estudos afins neste momento em que a arquitetura modernista potiguar desaparece do cená
+  keywords:
+  - arquitetura modernista
+  - aspectos bioclimáticos
+  - residências
+  pages: ''
+- id: 15
+  title: 'Arquitetura Moderna e o Lugar: registro e estudo de duas residências modernas em Aracaju/SE'
+  authors:
+  - givenname: C.
+    familyname: Chaves
+  - givenname: E.
+    familyname: Siqueira
+  - givenname: G.
+    familyname: Santos
+  - givenname: J.
+    familyname: Barbosa
+  section: Apresentação Oral
+  file: sdnne06-015.pdf
+  abstract: Nos textos canônicos a cerca da Arquitetura Moderna no Brasil a adaptabilidade aparece como importante elemento definidor da arquitetura brasileira, forjando uma identidade nacional que se construiria a partir da síntese modernidade e tradição, na qual aquilo que ‘nos é próprio’ está imbricado a uma condição tropical “corajosamente encarada e brilhantemente resolvida” (Goodwin, 1943). Essa ideia foi reforçada por Mindlin, em 1956, ao apresentar essa arquitetura como “arquitetura do sol”, bem com
+  keywords:
+  - casas modernas
+  - adaptação
+  - arquitetura moderna
+  pages: ''
+- id: 16
+  title: 'Arquitetura moderna em Fortaleza: nascimento e morte da residência unifamiliar na cidade'
+  authors:
+  - givenname: I.
+    familyname: Ribeiro
+  - givenname: B.
+    familyname: Diógenes
+  section: Apresentação Oral
+  abstract: Em Fortaleza, as primeiras obras de arquitetura moderna foram introduzidas por uma primeira geração de arquitetos formados fora de Fortaleza, como Liberal de Castro, Neudson Braga, Armando Farias, Enéas Botelho, Ivan Britto, entre outros. Para estes arquitetos recém-chegados à cidade, além de algumas oportunidades de trabalho em órgãos públicos, um dos programas mais solicitados era a residência unifamiliar. Dessa forma, o programa ganha importância como registro da produção arquitetônica de um
+  keywords:
+  - arquitetura moderna
+  - residência unifamiliar
+  - Fortaleza
+  pages: ''
+- id: 17
+  title: 'Arquitetura nordestina [des]conhecida: por uma ampliação da história da arquitetura moderna brasileira, 1950-1970'
+  authors:
+  - givenname: J. H.
+    familyname: Espinoza
+  - givenname: C.
+    familyname: Liu
+  section: Apresentação Oral
+  file: sdnne06-017.pdf
+  abstract: Nos últimos anos vem se consolidando um conjunto de pesquisas que apontam para a diversidade da arquitetura moderna brasileira para além das experiências já consolidadas pela historiografia referencial, como nos casos do Rio de Janeiro, São Paulo e Brasília. Essa ampliação vem revelando diferenças, desafios e particularidades da produção desenvolvida em diferentes cidades do país, entre elas, aquelas das regiões Norte e Nordeste. A presente comunicação tem por objetivo trazer à luz uma série de
+  keywords:
+  - arquitetura nordestina
+  - arquitetura moderna
+  - revistas especializadas
+  pages: ''
+- id: 18
+  title: 'Arquiteturas entre o Plano e a Cidade: os projetos do engenheiro-arquiteto Otávio Roscoe no contexto de modernização urbana de Currais Novos/RN (década de 1950)'
+  authors:
+  - givenname: M. de M.
+    familyname: Lopes
+  - givenname: G. A. F.
+    familyname: Dantas
+  section: Apresentação Oral
+  file: sdnne06-018.pdf
+  abstract: A produção e discussão dos anos 1940 e 1950 foram cruciais para a consolidação da arquitetura modernista no Brasil como linguagem hegemônica. Além da realização de obras e debates icônicos, que, de maneira geral, foram bem analisados pela historiografia, esse processo de consolidação só foi possível também pela disseminação de uma cultura técnica que se manifestou, por exemplo, na formação de escritórios cuja atuação foi abrangente e, muitas vezes, de escala nacional e para além dos grandes cent
+  keywords:
+  - arquitetura modernista
+  - Otávio Roscoe
+  - Currais Novos
+  - RN
+  pages: ''
+- id: 19
+  title: 'ARTENE: Um plano para o desenvolvimento industrial nordestino ou uma lojinha de souvenir para turistas?'
+  authors:
+  - givenname: A. F. B.
+    familyname: Souza
+  section: Apresentação Oral
+  abstract: Fundada em 5 de abril de 1962 como subproduto da Superintendência do Desenvolvimento do Nordeste (SUDENE), a sociedade de economia mista denominada Artesanato do Nordeste S/A. – ARTENE – já era prevista desde o I Plano Diretor de Desenvolvimento Econômico e Social do Nordeste do triênio 1961-1963, com investimento inicial de 28 milhões de cruzeiros e tinha como objetivos, apresentados no II Plano Diretor do triênio 1963-1965, estimular a criação de cooperativas artesanais, promove
+  keywords:
+  - ARTENE
+  - Celso Furtado
+  - Lina Bo Bardi
+  pages: ''
+- id: 20
+  title: As casas modernistas de Cleon Furtado em São Luis-MA
+  authors:
+  - givenname: G. S.
+    familyname: Pflueger
+  - givenname: M.
+    familyname: Moniz
+  section: Apresentação Oral
+  file: sdnne06-020.pdf
+  abstract: A arquitetura moderna residencial se consolidou no centro histórico e bairros periféricos de São Luís com a obra do arquiteto Cleon Furtado. Diferente dos primeiros edifícios modernos que chegaram com as instituições federais como INSS, Correios e Sulacap, as residências de Cleon mudaram a linguagem do centro histórico com suas formas geométricas onde predominava apenas a arquitetura colonial portuguesa. Nascido no Maranhão em 1929, Furtado cursou a faculdade de arquitetura no Mackenzie de São P
+  keywords:
+  - arquitetura moderna
+  - casa moderna
+  - Cleon Furtado
+  pages: ''
+- id: 21
+  title: As escolas de João Filgueiras Lima em Salvador
+  authors:
+  - givenname: C. R. C.
+    familyname: Cardoso
+  section: Apresentação Oral
+  abstract: João Filgueiras Lima, o Lelé, um dos maiores arquitetos brasileiros da contemporaneidade, realizou parte importante da sua obra na cidade de Salvador, no atendimento a demandas sociais e comunitárias apoiadas pelo poder público. Este artigo explanará sobre as unidades escolares construídas pelo arquiteto com o uso do sistema de pré-fabricação em argamassa armada entre os anos de 1986 a 1989, quando coordenou os trabalhos da Fábrica de Equipamentos Comunitários - FAEC, também chamada Fábrica de C
+  keywords:
+  - Lelé
+  - escolas
+  - pré-fabricação
+  pages: ''
+- id: 22
+  title: 'BASA: um “Palácio de Cristal” na Amazônia'
+  authors:
+  - givenname: M.
+    familyname: Cereto
+  - givenname: V.
+    familyname: Espinosa
+  - givenname: L.
+    familyname: Santos
+  section: Apresentação Oral
+  abstract: O ensaio é um recorte do projeto de pesquisa em andamento do curso de Arquitetura e Urbanismo da Universidade Federal do Amazonas, que investiga a arquitetura moderna na Amazônia e a obra de Severiano Porto. Mineiro de nascimento, carioca por formação e amazonense de coração, esse peregrino concluiu o curso na Faculdade de Belas-Artes do Rio de Janeiro em 1954. Foi Diretor Técnico da Construtora Ary C.R. de Britto no Rio de Janeiro onde realizou alguns projetos e em 1965 iniciou a sua jornada na
+  keywords:
+  - arquitetura moderna
+  - severiano porto
+  - amazônia
+  pages: ''
+- id: 23
+  title: Boas práticas de manutenção do concreto para conservação de monumentos modernos de Teresina
+  authors:
+  - givenname: A.
+    familyname: Brauna
+  - givenname: A.
+    familyname: Liberato
+  - givenname: D.
+    familyname: Oliveira
+  - givenname: D.
+    familyname: Pessoa
+  - givenname: E.
+    familyname: Coutinho
+  - givenname: H.
+    familyname: Mendes
+  - givenname: Y.
+    familyname: Caddah
+  section: Apresentação Oral
+  abstract: Este trabalho irá tratar do concreto, tido como material que veio proporcionar aos arquitetos e engenheiros, desde o movimento moderno, uma série de novas possibilidades espaciais e plásticas, e que trouxe à época o ideal de inovação e progresso. Também motivado pela interdisciplinaridade encontrada no campo da Arquitetura – ciência capaz de abranger assuntos transversais relacionados à História e à Engenharia –, este trabalho tem como objetivo contribuir para a importância da preservação de mon
+  keywords:
+  - arquitetura moderna
+  - Teresina
+  - concreto
+  pages: ''
+- id: 24
+  title: 'Carcomido pelas beiradas: intervenções à Sede Social do América Futebol Clube ao longo de cinco décadas'
+  authors:
+  - givenname: M. H.
+    familyname: Oliveira
+  section: Apresentação Oral
+  file: sdnne06-024.pdf
+  abstract: O trabalho proposto analisa o edifício da Sede Social do América Futebol Clube diante das sucessivas mutilações por ele sofridas ao longo de suas cinco décadas de existência. Projetada pelo arquiteto luso-pernambucano Delfim Amorim, e inaugurada em 1966, é considerada uma das mais importantes obras de arquitetura moderna do estado do Rio Grande do Norte em qualidade projetual e construtiva. Porém, nos últimos anos vem passando por sucessivas intervenções que tem colocado em risco a integridade f
+  keywords:
+  - Sede Social do América Futebol Clube
+  - degradação do patrimônio modernista
+  pages: ''
+- id: 25
+  title: 'Centros administrativos como tipologia urbana moderna: o caso do Cambeba em Fortaleza'
+  authors:
+  - givenname: B.
+    familyname: Braga
+  - givenname: R.
+    familyname: Paiva
+  section: Apresentação Oral
+  file: sdnne06-025.pdf
+  abstract: A preservação do patrimônio de complexos urbanos ainda é algo rarefeito nas cidades brasileiras. Se, no caso de edifícios, ações preservacionistas já se fazem mais presentes, tal preocupação com relação a conjuntos edificados é bem mais recente. Iniciativas que visem à preservação de conjuntos edificados modernos são ainda mais raras. No entanto, é preciso reconhecer o legado material de alguns trechos urbanos do patrimônio deste período que não são apenas um aglomerado de edifícios modernistas,
+  keywords:
+  - arquitetura moderna
+  - centros político-administrativos
+  - Fortaleza
+  pages: ''
+- id: 26
+  title: 'Diagnóstico dos conjuntos habitacionais de Teresina: um estudo de caso sobre o Mocambinho'
+  authors:
+  - givenname: N. A. S.
+    familyname: Costa
+  - givenname: L. K. B. de
+    familyname: Brito
+  - givenname: Y. M. G. P.
+    familyname: Furtado
+  - givenname: J. A.
+    familyname: Araújo
+  - givenname: F. E. F.
+    familyname: Silva
+  - givenname: G. S. M. da
+    familyname: Silva
+  - givenname: T. V.
+    familyname: Martins
+  - givenname: R. M. S.
+    familyname: Cunha
+  section: Apresentação Oral
+  file: sdnne06-026.pdf
+  abstract: Os conjuntos habitacionais desenvolvidos na cidade de Teresina–PI, a partir da década de 1960, tiveram grande influência na produção da atual malha urbana da cidade, sendo na maioria dos casos, o elemento propulsor na formação de novos bairros. A construção desses conjuntos habitacionais se deve a uma tentativa de atenuar o déficit habitacional vivenciado pela cidade de Teresina, sendo também fomentador da economia, produzindo empregos e renda para toda uma região. Através do levantamento de tai
+  keywords:
+  - moderno
+  - conjuntos habitacionais
+  - diagnóstico
+  pages: ''
+- id: 27
+  title: 'Discutindo a descaraterização do bem cultural: jardins modernos de Burle Marx'
+  authors:
+  - givenname: B. I. W.
+    familyname: Prado
+  section: Apresentação Oral
+  abstract: Cada povo ou nação deve definir aquilo o que representa sua cultura e identidade. Pode ser um símbolo, um produto agrícola, uma manifestação cultural, uma obra arquitetônica, um jardim. Também um jeito de viver a vida num determinado lugar, um jeito de produzir as coisas, de criar e fazer os bens e artefatos. Os valores culturais de uma nação ou país não só representam sua identidade, mas suas riquezas. Mas não paramos de produzir ou de se desenvolver, muitos saberes e fazeres se sobrepõem uns a
+  keywords:
+  - bem cultural
+  - descaracterização
+  pages: ''
+- id: 28
+  title: 'Dois projetos distintos e uma única biblioteca: análise do projeto de intervenção na Biblioteca Central Zila Mamede (UFRN), a partir da inserção de seu anexo'
+  authors:
+  - givenname: L.
+    familyname: Hernandes
+  - givenname: E.
+    familyname: Medeiros
+  - givenname: F.
+    familyname: Aguiar
+  section: Apresentação Oral
+  abstract: As intervenções em edificações de reconhecido valor cultural têm se revelado um desafio, especialmente no Brasil. Embora não haja concordância a respeito de uma postura a ser adotada para subsidiar a prática de intervenção, é consenso que tal atividade deve ser respaldada em embasamento de cunho teórico-crítico e em princípios norteadores. O trabalho tem como objetivo analisar os projetos de intervenção realizados na Biblioteca Central Zila Mamede (BCZM), nos anos de 1975 e 2011 e suas interferê
+  keywords:
+  - modernismo
+  - intervenção
+  - BCZM
+  pages: ''
+- id: 29
+  title: 'Escola Politécnica da Universidade Federal da Bahia: documentação e genealogia do projeto'
+  authors:
+  - givenname: N.
+    familyname: Andrade Junior
+  - givenname: L.
+    familyname: Oliveira
+  - givenname: I.
+    familyname: Cardoso
+  - givenname: K.
+    familyname: Dultra
+  - givenname: A.
+    familyname: Silva
+  - givenname: L.
+    familyname: Souza
+  - givenname: D.
+    familyname: Vasconcellos
+  section: Apresentação Oral
+  abstract: A Escola Polythecnica da Bahia foi fundada em 1896 e, em 1946, foi federalizada e integrada à Universidade da Bahia, atual Universidade Federal da Bahia (UFBA). Tendo sido instalada, desde a sua criação, em edifícios adaptados, localizados no centro de Salvador, a Escola Politécnica passou, com a incorporação à UFBA, a demandar uma sede que pudesse atender às crescentes demandas de expansão. O Escritório do Plano de Urbanismo da Cidade do Salvador (EPUCS), liderado pelo Eng. Mário Leal Ferreira
+  keywords:
+  - Escola Politécnica da Universidade Federal da Bahia
+  - arquitetura moderna
+  - documentação cartográfica
+  pages: ''
+- id: 30
+  title: 'Espaço Público x Espaço Privado: uma análise de edifícios residenciais multifamiliares modernos no bairro Meireles em Fortaleza-CE'
+  authors:
+  - givenname: C.
+    familyname: Luana
+  - givenname: S.
+    familyname: Zilsa
+  section: Apresentação Oral
+  file: sdnne06-030.pdf
+  abstract: É na escala humana que acontecem os verdadeiros encontros e percepções acerca do ambiente urbano e, considerando a hipótese da interferência da produção privada (edifícios) na qualidade do espaço público, admitese a existência de uma zona de transição que será, aqui, denominada de interface. Essa zona é composta por elementos de ordem privada (o edifício, seus recuos, muros, acessos, dentre outros) e de ordem pública (calçadas, passeios, a rua, jardins etc). Baseado neste pressuposto, o objetivo
+  keywords:
+  - espaço público
+  - espaço privado
+  - modernismo
+  pages: ''
+- id: 31
+  title: 'Espaços escolares e princípios modernistas: o Instituto de Educação do Ceará'
+  authors:
+  - givenname: S.
+    familyname: Zilsa
+  section: Apresentação Oral
+  file: sdnne06-031.pdf
+  abstract: Em Fortaleza, na década de 1950, havia poucos exemplares de Arquitetura Moderna, principalmente se tratando de projetos de instituições escolares, que em sua maioria eram de características ecléticas ou edificações adaptadas. O presente artigo trata da análise do edifício do Instituto de Educação do Ceará, que tem sua origem na Escola Normal Pedro II. Entre 1922 e 1957, a Escola Normal funcionou em sede projetada para tal fim localizada na Praça Filgueiras de Melo, quando a escola se transforma
+  keywords:
+  - modernismo
+  - instituição pública
+  - arquitetura escolar
+  pages: ''
+- id: 32
+  title: 'Estádio Alberto Tavares Silva: conhecimento e reconhecimento de uma obra'
+  authors:
+  - givenname: L.
+    familyname: Sousa
+  - givenname: R.
+    familyname: Perrone
+  section: Apresentação Oral
+  file: sdnne06-032.pdf
+  abstract: O artigo proposto visa realizar um reconhecimento arquitetônico, crítico e referenciado, do Estádio de Futebol Alberto Tavares Silva, o Albertão, construído e inaugurado na cidade de Teresina-PI em 1973, com conclusão total de sua obra em 1978. Seu projeto de arquitetura é de autoria do arquiteto mineiro Raul de Lagos Cirne, realizado em parceria com a empresa de engenharia SEEBLA entre os anos de 1972 e 1974. A pesquisa a ser realizada deve se aprofundar nos critérios relacionados às soluções c
+  keywords:
+  - estádio em Teresina
+  - arquitetura brutalista
+  - análise de obra
+  pages: ''
+- id: 33
+  title: 'Itararé: análise morfológica e influência no urbanismo de Teresina'
+  authors:
+  - givenname: A.
+    familyname: Braz
+  - givenname: J.
+    familyname: Souza
+  section: Apresentação Oral
+  file: sdnne06-033.pdf
+  abstract: O bairro Itararé, objeto de estudo desse artigo, é produto da soma das políticas habitacionais do estado e das diretrizes estabelecidas pelos primeiros planos diretores do município. Suas contribuições resultaram na implantação e definição territorial da região sudeste e consolidaram o adensamento populacional na área. Também conhecido como Dirceu Arcoverde, sua implantação gerou impacto no desenvolvimento urbano de Teresina, determinou uma nova orientação de crescimento da cidade e possui hoje
+  keywords:
+  - Itararé
+  - morfologia
+  - urbanismo
+  pages: ''
+- id: 34
+  title: Las plantas bajas, Union de diferencias
+  authors:
+  - givenname: C. M. P.
+    familyname: Nanclares
+  section: Apresentação Oral
+  file: sdnne06-034.pdf
+  abstract: A comienzos de los 70, aparece el rascacielos en Colombia, aquel que supera en pisos habitables el promedio de edificaciones del paisaje urbano, que sobresale en la distancia y que se construye como respuesta a una confluencia de factores, que van desde lo económico hasta lo tecnológico, edificios que se comienzan a construir bajo condiciones urbanas propias de ciudades con una estructura formal definida por las leyes de indias con trazados reticulares, dimensiones de manzana pequeñas, estrecha
+  keywords:
+  - rascacielos
+  - plantas bajas
+  - ciudad
+  pages: ''
+- id: 35
+  title: 'Modernidade arquitetônica na obra do engenheiro Rafael Grimaldi em Aracaju: o Edifício Atalaia e o Terminal Rodoviário Luiz Garcia'
+  authors:
+  - givenname: B.
+    familyname: Brendle
+  - givenname: T.
+    familyname: Costa
+  section: Apresentação Oral
+  abstract: A arquitetura moderna tem um desenvolvimento relativamente tardio em Aracaju. Somente na década de 1950, o interesse pelas expressões arquitetônicas e artísticas modernas começa a ser timidamente despertado com a iniciativa oficial do Governo de Leandro Maciel, que entusiasmado com a construção de Brasília incentiva um movimento voltado para “modernizar a cidade”. Além de tardia, a arquitetura moderna em Aracaju é modesta, efêmera e não fez escola, ao contrário de outras capitais do Nordeste com
+  keywords:
+  - Aracaju
+  - Rafael Grimaldi
+  - Athos Bulcão
+  pages: ''
+- id: 36
+  title: 'Modernidade e tradição na construção em madeira: três casas de Zanine Caldas em Brasília'
+  authors:
+  - givenname: G.
+    familyname: Chaim
+  - givenname: A.
+    familyname: Medeiros
+  - givenname: I.
+    familyname: Valle
+  section: Apresentação Oral
+  file: sdnne06-036.pdf
+  abstract: Zanine Caldas foi um importante arquiteto no contexto do período moderno no Brasil, cuja obra representativa da arquitetura em madeira relaciona modernidade e primitivismo, inovação, regionalismo e tradição. Aprendeu a construir a partir da observação do trabalho dos mestres carpinteiros e canoeiros de sua cidade natal, Belmonte, na Bahia, e aprimorou a técnica de construção em madeira tendo desenvolvido encaixes e entalhes primordiais na escala do modelo reduzido, durante os anos em que fazia m
+  keywords:
+  - arquitetura moderna
+  - madeira
+  - Zanine Caldas
+  pages: ''
+- id: 37
+  title: 'O conceito de lugar no projeto de arquitetura: notas a partir da obra de Fernando Távora'
+  authors:
+  - givenname: B. F.
+    familyname: Leite
+  section: Apresentação Oral
+  abstract: Este artigo pretende explorar um processo metodológico de intervenção no espaço urbano, a partir da relação e interferência entre o Lugar e o Projeto de Arquitetura, nomeadamente através da obra do arquitecto português Fernando Távora, realizada por si e sua equipa durante a segunda metade do século XX, mais concretamente a partir de intervenções em espaço urbano com escalas, preexistências e conteúdos distintos. A partir da observação das suas obras, intentar-se-á uma desmontagem explicativa, i
+  keywords:
+  - lugar
+  - Fernando Távora
+  - espaço público
+  pages: ''
+- id: 38
+  title: 'O edifício de apartamentos em Fortaleza (1960-1972): a atuação dos arquitetos pioneiros na incorporação dos conceitos modernos'
+  authors:
+  - givenname: M. G.
+    familyname: Cavalcante
+  section: Apresentação Oral
+  file: sdnne06-038.pdf
+  abstract: O artigo analisará a produção do edifício residencial em Fortaleza no período de 1960 a 1972, protagonizada pelos arquitetos pioneiros cearenses. O recorte temporal se inicia com a construção do primeiro edifício moderno projetado por arquiteto, e finaliza com a mudança da linguagem estética, quando da adoção do concreto e tijolos aparentes, que irá configurar uma nova linguagem. O estudo se justifica por comprovar que a formação e atuação dos primeiros arquitetos, graduados principalmente na Fa
+  keywords:
+  - edifício de apartamentos
+  - Fortaleza
+  - modernismo
+  pages: ''
+- id: 39
+  title: 'O lugar da adequação em Severiano Porto: Aldeia SOS do Amazonas'
+  authors:
+  - givenname: M.
+    familyname: Lima
+  section: Apresentação Oral
+  file: sdnne06-039.pdf
+  abstract: Este artigo tem como objeto de estudo o processo projetual de Severiano Porto (1930). Arquiteto com intensa atuação na Amazônia e detentor de diversos prêmios no Brasil, formou-se no Rio de Janeiro concluindo seus estudos em 1954 na Faculdade Nacional de Arquitetura. Foi para Manaus em 1965 e lá compreendeu a gravidade dos impactos ambientais causados pelo desenvolvimento urbano. Com uma atitude eminentemente crítica realiza projetos que são notáveis pelas soluções que apresentam no encontro das
+  keywords:
+  - Severiano Mário Porto
+  - tectônica
+  - solução de design
+  pages: ''
+- id: 40
+  title: 'O Residencial Iracema em Fortaleza: a simples modernidade ameaçada.'
+  authors:
+  - givenname: M.
+    familyname: Andrade
+  - givenname: B.
+    familyname: Diogenes
+  - givenname: R.
+    familyname: Duarte Junior
+  - givenname: C. R.
+    familyname: Jucá Neto
+  - givenname: S.
+    familyname: Schramm
+  section: Apresentação Oral
+  abstract: Com o presente artigo, tenciona-se analisar arquitetura do conjunto Residencial Iracema, em Fortaleza, bem como sua proposta de tombamento no âmbito municipal. Trata-se uma obra da fase inicial da arquitetura modernista cearense, no qual se mesclam influências do Movimento Moderno e das construções vernáculas brasileiras. O projeto é atribuído ao Arq. Porto Lima, ex-professor da Escola de Arquitetura e Artes da UFC. Datado do final da década de 1960, o Residencial apresenta desenho caracteristic
+  keywords:
+  - edifício de apartamentos
+  - Fortaleza
+  - modernismo
+  pages: ''
+- id: 41
+  title: 'O Urbanismo Moderno Interrompido: análise da proposta não executada de Lúcio Costa para o Novo Pólo Urbano na São Luís- MA, anos 70'
+  authors:
+  - givenname: M. C.
+    familyname: Marques
+  section: Apresentação Oral
+  file: sdnne06-041.pdf
+  abstract: 'No quarto Congresso Internacional de Arquitetura Moderna (CIAM), em 1933 na cidade de Atenas, foram analisadas 33 cidades, a partir das quais foram produzidos documentos sobre diagnósticos urbanísticos dos casos estudados. Os documentos são compostos por códigos e princípios gerais que preveem a extinção do traçado das cidades baseado em ruas e quadras e propõe a implantação do zoneamento seletivo, uma divisão de áreas que seguia quatro funções: habitar, trabalhar, circular e recrear, o que defi'
+  keywords:
+  - urbanismo moderno
+  - Lúcio Costa
+  - São Luís
+  pages: ''
+- id: 42
+  title: Os Arquitetos Modernistas em Manaus
+  authors:
+  - givenname: G.
+    familyname: Costa
+  - givenname: A.
+    familyname: Rodrigues
+  section: Apresentação Oral
+  abstract: O estudo faz parte de um trabalho sobre o patrimônio arquitetônico e urbano da cidade de Manaus. No período de 1967 a 1990 identificou-se os principais acontecimentos relacionados com a Arquitetura Moderna e a história econômica mais recente do Amazonas, que após o apogeu da borracha, caracterizou-se pelo advento da Zona Franca de Manaus - ZFM. A arquitetura moderna de Severiano Mário Porto já foi amplamente identificada, e continua sendo estudada, mas falta a produção, nesse tema, de outros arq
+  keywords:
+  - Manaus
+  - arquitetura moderna
+  - Amazônia
+  pages: ''
+- id: 43
+  title: Os elementos da arquitetura moderna traduzidos nas residências parnaibanas
+  authors:
+  - givenname: A.
+    familyname: Sousa
+  - givenname: N.
+    familyname: Melo
+  section: Apresentação Oral
+  abstract: Este artigo tem como objetivo investigar o modernismo popular brasileiro pela ótica da apropriação do vocabulário formal do Movimento Moderno, na cidade de Parnaíba, tendo como eixo a arquitetura residencial presente no sítio histórico local, produzida entre as décadas de 1950 e 1960. A análise dessa produção ocorrerá a partir do contexto econômico, político, social e cultural que envolve o período e, ainda, das diversas outras influencias identificadas nessa formação. Entende-se que o Modernism
+  keywords:
+  - arquitetura
+  - modernismo
+  - popular
+  pages: ''
+- id: 44
+  title: Patrimônio moderno industrial no nordeste brasileiro. Dois estudos de casos
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  section: Apresentação Oral
+  file: sdnne06-044.pdf
+  abstract: Este artigo possui como objeto de estudo, o patrimônio industrial moderno produzido no nordeste brasileiro, tomando como estudo de caso, a Fábrica da Bombril (1979/ 1983) - uma edificação localizada na BR-101 Norte, no município de Abreu e Lima, Região Metropolitana do Recife, Pernambuco. O objetivo do trabalho é trazer à tona o debate entre o patrimônio arquitetônico moderno e o patrimônio industrial, duas categorias de acervos que, infelizmente, muitos de seus exemplares, não são inventariados
+  keywords:
+  - patrimônio industrial moderno
+  - arquitetura moderna
+  - edifícios industriais
+  pages: ''
+- id: 45
+  title: 'Patrimônio recente: intervenções no Tribunal de Justiça do Piauí'
+  authors:
+  - givenname: R.
+    familyname: Marques
+  - givenname: W.
+    familyname: Pinheiro
+  - givenname: A.
+    familyname: Afonso
+  section: Apresentação Oral
+  abstract: 'Este artigo possui como objeto de estudo, o edifício sede do Tribunal de Justiça do Estado do Piauí, localizado no bairro Cabral, zona centro-norte de Teresina, PI, projetado em 1972, pelo arquiteto Acácio Gil Borsoi. Objetivase analisar as intervenções arquitetônicas que esta obra, de linguagem brutalista, sofreu ao decorrer dos últimos anos, enfatizando-se a mais recente: a construção de um anexo situado entre o recuo da fachada sudoeste da edificação e a rua Gov. Tibério Nunes. Este exemplar,'
+  keywords:
+  - Teresina
+  - patrimônio recente
+  - intervenções
+  pages: ''
+- id: 46
+  title: 'Pousada na Ilha de Silves de Severiano Porto: modernidade, lugar e tectônica'
+  authors:
+  - givenname: R.
+    familyname: Paiva
+  - givenname: P. de
+    familyname: Paula
+  - givenname: V.
+    familyname: Maciel
+  section: Apresentação Oral
+  file: sdnne06-046.pdf
+  abstract: Desde a década de 1950, a diminuição das disparidades regionais no Brasil compunha a política de desenvolvimento empreendida pelo Estado, que se intensificou no Governo Militar com a criação de agências de desenvolvimento, como a SUDAM (Superintendência do Desenvolvimento da Amazônia) na Região Norte, assim como com a implementação de planos de modernização das infraestruturas, a instalação da Zona Franca de Manaus (1967) e a concessão de incentivos fiscais e financeiros no setor industrial e, m
+  keywords:
+  - arquitetura moderna
+  - turismo
+  - Severiano Porto
+  pages: ''
+- id: 47
+  title: 'Praça Monumento Da Costa e Silva: a desconstrução de um patrimônio na cidade de Teresina, Piaui'
+  authors:
+  - givenname: M.
+    familyname: Araújo
+  - givenname: J.
+    familyname: Beilfuss
+  - givenname: M. C.
+    familyname: Carcará
+  - givenname: J.
+    familyname: Leal Junior
+  section: Apresentação Oral
+  file: sdnne06-047.pdf
+  abstract: 'Roberto Burle Marx como importante paisagista moderno brasileiro do século XX, reconhecido tanto em nível nacional como internacional, foi responsável por aflorar o nacionalismo no ramo paisagístico. Tinha como preceitos projetuais a harmonização dos espaços livres com o contexto, uso de contraste de elementos, caminhos sinuosos e formas assimétricas assim como a valorização das espécies vegetais nativas. São encontrados na cidade de Teresina três exemplares de Burle Marx: os jardins do Palácio'
+  keywords:
+  - Praça Monumento Da Costa e Silva
+  - Burle Marx
+  - espaços livres
+  pages: ''
+- id: 48
+  title: Residência Djalma da Costa e Silva
+  authors:
+  - givenname: R. K.
+    familyname: Carvalho C
+  - givenname: C. L. H.
+    familyname: Lima
+  section: Apresentação Oral
+  file: sdnne06-048.pdf
+  abstract: 'Este artigo tem como objeto de estudo o projeto de uma residência unifamiliar, de valores e estética moderna, projetada, em 1973, pelo arquiteto mineiro Antônio Luiz, na cidade de Teresina, Piauí. Esse estudo faz parte da pesquisa “Estudo da casa piauiense: tecnologias construtivas”, desenvolvida pelo Grupo NEAPI, do Centro Universitário Uninovafapi, pelo Curso de Arquitetura e Urbanismo, desde o ano de 2013. A qualidade projetual da residência, espacial, formal e tecnologicamente, justifica seu'
+  keywords:
+  - análise arquitetônica
+  - residência modernista
+  - arquiteto Antônio Luiz
+  pages: ''
+- id: 49
+  title: 'Rota Moderna: proposta de estudo e (re)conhecimento das edificações presentes na Avenida Frei Serafim em Teresina-PI'
+  authors:
+  - givenname: A.
+    familyname: Miranda
+  - givenname: N.
+    familyname: Melo
+  section: Apresentação Oral
+  file: sdnne06-049.pdf
+  abstract: O presente trabalho busca desenvolver o (re)conhecimento da Arquitetura Moderna presente no entorno da Avenida Frei Serafim em Teresina – PI, através do estudo e das perspectivas de preservação dessa área representativa do sítio histórico local. A pesquisa aborda as edificações construídas entre as décadas de 1940 e 1960, período que ocorreu a disseminação do Movimento Moderno nas construções da área em análise. O objetivo é criar uma “Rota Moderna”, delimitada a partir da análise das edificaçõe
+  keywords:
+  - arquitetura
+  - modernismo
+  - Frei Serafim
+  pages: ''
+- id: 50
+  title: 'Trajetórias do moderno em Belém: construção, expansão e destruição'
+  authors:
+  - givenname: C.
+    familyname: Chaves
+  section: Apresentação Oral
+  file: sdnne06-050.pdf
+  abstract: 'O objetivo do artigo é revisitar a trajetória que se observa em Belém desde 1930, e que se apresenta reiteradamente até a década de 1970. Trata-se das expressões intermitentes que se apresentam em dois espaços diferenciados: na área central da cidade, com propostas de equipamentos públicos e dos primeiros edifícios em altura modernizados na década de 30 e 40; e no espaço urbano em expansão ao longo de vias centrais e suas adjacentes, onde erguem-se residências, escolas, sedes de instituições púb'
+  keywords:
+  - Amazônia
+  - experiência
+  - modernidade
+  pages: ''
+- id: 51
+  title: Transferências modernistas e o conjunto edificado da Praça dos Girassóis em Palmas
+  authors:
+  - givenname: M.
+    familyname: Cardoso
+  - givenname: P.
+    familyname: Reis
+  section: Apresentação Oral
+  file: sdnne06-051.pdf
+  abstract: Os edifícios institucionais da Praça dos Girassóis foram construídos no início da década de noventa para sediar o governo do recém-criado estado do Tocantins. As edificações desse conjunto inaugural - Palácio Araguaia, Assembleia Legislativa, Tribunal de Justiça e Secretarias Estaduais – estabelecem-se não somente como marcos simbólicos da capital, mas também como modelos arquitetônicos alinhados as premissas difundidas pelo Movimento Moderno. Nesse sentido, o presente artigo objetiva apresentar
+  keywords:
+  - arquitetura moderna
+  - Praça dos Girassóis
+  - Palmas
+  pages: ''
+- id: 52
+  title: 'Um sonho de unidade: João Filgueiras Lima e sua Gesamtkunswerk'
+  authors:
+  - givenname: D.
+    familyname: Paz
+  section: Apresentação Oral
+  file: sdnne06-052.pdf
+  abstract: Gesamtkunstwerk, a Obra de Arte Total e a Síntese das Artes são conceitos que convergem na História das Artes. Na obra de João Filgueiras Lima, o Lelé, aparece esse sonho de unidade. Em primeiro lugar, no sistema construtivo, com a redução na pré-fabricação a componentes essenciais e versáteis. A evolução da tecnologia eliminou as peças físicas e as tornaram componentes abstratas, sempre aperfeiçoadas. Neles, uma unidade modular, crescentemente universal, regia o conjunto, a ponto de constituir
+  keywords:
+  - João Filgueiras Lima
+  - Gesamtkunstwerk
+  - obra de arte total
+  pages: ''
+- id: 53
+  title: Uma análise da concepção positivista de ocupação industrial no espaço geográfico do Amapá
+  authors:
+  - givenname: L. O.
+    familyname: Galiano
+  section: Apresentação Oral
+  abstract: O objetivo desta pesquisa foi procurar responder qual corrente filosófica influenciou a formação do estado do Amapá, na qual historicamente o Positivismo tem uma grande formação dos espaços geográficos no Brasil. No Amapá, principalmente com a ocupação industrial no estado do Amapá, como a ICOMI e o PROJETO JARI. Para isso procuramos apresentar as principais primícias da filosofia positivista, principalmente no tocante ao estímulo e exaltação de conceber a ideia de progresso à expansão industria
+  keywords:
+  - positivismo
+  - Amapá
+  - natureza
+  pages: ''
+- id: 54
+  title: 'Uma reflexão sobre acessibilidade na obra de Oscar Niemeyr: a cidade administrativa Tancredo Neves'
+  authors:
+  - givenname: C. A. B.
+    familyname: Martins
+  - givenname: A. C. M.
+    familyname: Moreira
+  section: Apresentação Oral
+  abstract: Este artigo tem como principal objetivo realizar uma discussão reflexiva acerca da acessibilidade nas edificações, embasando-se em abordagens atuais sobre o tema e especialmente no estudo de caso da Cidade Administrativa Presidente Tancredo Neves, projetada por Oscar Niemeyer em 2004 e inaugurada em 2010 para sede oficial do governo na capital mineira, segundo uma busca por continuidade dos critérios projetuais modernos, mesmo que na contemporaneidade. Esta discussão nasce da necessidade de reit
+  keywords:
+  - acessibilidade
+  - Oscar Niemeyer
+  - Cidade Administrativa Tancredo Neves
+  pages: ''
+- id: 55
+  title: Vida e morte do Hotel Esplanada em Fortaleza
+  authors:
+  - givenname: R.
+    familyname: Paiva
+  - givenname: B.
+    familyname: Diógenes
+  section: Apresentação Oral
+  file: sdnne06-055.pdf
+  abstract: Em fins de 2014 estava anunciado o fim do Hotel Esplanada em Fortaleza em consequência da aquisição do edifício pelo empresário Ivens Dias Branco para construção, em seu lugar, de um empreendimento imobiliário ímpar na Av. Beira Mar, depois de uma tentativa frustrada do Grupo português Dorisol Hotels de requalificar o edifício. O processo de desconstrução por implosão foi substituído por uma demolição por fases, representando uma “morte” lenta, que foi pouco a pouco apagando os vestígios de um í
+  keywords:
+  - arquitetura moderna
+  - turismo
+  - Hotel Esplanada
+  pages: ''
+- id: 56
+  title: A arquitetura de Miguel Caddah para paisagem moderna teresinense
+  authors:
+  - givenname: N. Á. S.
+    familyname: Costa
+  - givenname: Alcília A. de A. e
+    familyname: Melo
+  section: Poster Digital
+  file: sdnne06-056.pdf
+  abstract: A cidade de Teresina, no centro do nordeste brasileiro, passou por uma expansão urbana na década de 1960 que promoveu a capital do Estado o caráter “pólo de serviços e habitantes”. Através da construção de grandes obras estaduais durante o governo militar (1965-1985) a cidade, que era em anos anteriores, com arquitetura predominantemente eclética e neoclássica, passou a receber uma produção expressiva de edificações em estilo modernista. Como não possuia, nos primeiros anos da década de 60 uma u
+  keywords:
+  - arquitetura
+  - modernismo
+  - paisagem cultural
+  pages: ''
+- id: 57
+  title: 'A arquitetura pública modernista: a contribuição de Antônio Luis para Teresina'
+  authors:
+  - givenname: M. C. de L.
+    familyname: Bento
+  section: Poster Digital
+  file: sdnne06-057.pdf
+  abstract: Esse trabalho tem como objetivo analisar a arquitetura moderna no Brasil, e como ela repercutiu na cidade de Teresina, referente, principalmente, às obras públicas, do Arquiteto Antônio Luis Dutra. Essa pesquisa fundamentase primordialmente nos conceitos da arquitetura moderna, trazidos desde a escola de Bauhaus aos primeiros arquitetos brasileiros modernistas, chegando posteriormente à Teresina, com os avanços nas técnicas construtivas juntamente com a ideologia estética do “menos é mais”, que
+  keywords:
+  - arquitetura moderna
+  - arquitetura pública
+  - Antonio Luis
+  pages: ''
+- id: 58
+  title: 'A legitimidade material e estrutural na criação da identidade da obra moderna: o edifício do Centro de Tecnologia da Universidade Federal do Piauí'
+  authors:
+  - givenname: B.
+    familyname: Negreiros
+  - givenname: J.
+    familyname: Pacheco Junior
+  - givenname: J.
+    familyname: Sousa
+  section: Poster Digital
+  file: sdnne06-058.pdf
+  abstract: inicio da segunda metade do século XX, marcado pelo aumento significativo da população residente na zona urbana do município e o consequente crescimento da economia da cidade provocou, entre outros, a criação de novos vetores para a expansão da cidade. Frente a este desenvolvimento econômico já se via a necessidade do aumento da oferta de oportunidades de capacitação profissional para a sociedade que, apesar da já existência de cursos de graduação ofertados, não possuía grande variedade de opçõe
+  keywords:
+  - soluções bioclimáticas
+  - plasticidade
+  - modernismo
+  pages: ''
+- id: 59
+  title: Pesquisas sobre modernidade arquitetônica em Campina Grande. Um trabalho de arquitetura e documentação do acervo
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  section: Poster Digital
+  file: sdnne06-059.pdf
+  abstract: O trabalho que se pretende apresentar neste evento tem como objeto de estudo, a divulgação das pesquisas sobre a produção da arquitetura moderna produzida na cidade de Campina Grande, zona do agreste paraibano, durante o século XX. A proposta das investigações que vêm sendo realizadas pelo grupo de pesquisa Arquitetura e Lugar, cadastrado na UFCG e no CNPq, e inserido no curso de Arquitetura e Urbanismo da UFCG, possui como objetivo, resgatar a história arquitetônica moderna local, coletando dad
+  keywords:
+  - história da arquitetura em Campina Grande
+  - arquitetura moderna
+  - preservação patrimonial
+  pages: ''
+- id: 60
+  title: 'Arquitetura moderna em Teresina: a contribuição do arquiteto Antonio Luiz'
+  authors:
+  - givenname: H. L. M.
+    familyname: Mota
+  - givenname: M. C. R.
+    familyname: Feitosa
+  section: Poster Digital
+  file: sdnne06-060.pdf
+  abstract: Este artigo busca refletir sobre o processo de modernização pelo qual passou Teresina a partir da década de 1950, visando a trajetória profissional do arquiteto Antonio Luiz Dutra de Araújo na cidade. Nascido em Minas Gerais e formado na Faculdade Nacional de Arquitetura da Universidade do Brasil teve uma vasta produção arquitetônica no estado, trabalhando com diversas escalas e tipologia, e é considerado um dos pioneiros ao utilizar a linguagem moderna em seus projetos na capital piauiense. A q
+  keywords:
+  - arquitetura piauiense
+  - arquitetura moderna
+  - arquiteto Antonio Luiz
+  pages: ''
+- id: 61
+  title: 'Arquitetura Moderna na Amazônia: digitalizando em 3D o cinema de Oswaldo Bratke em Santana – AP'
+  authors:
+  - givenname: A.
+    familyname: Freitas
+  - givenname: T.
+    familyname: Santos
+  - givenname: L.
+    familyname: Mateus
+  - givenname: V.
+    familyname: Ferreira
+  section: Poster Digital
+  abstract: A Arquitetura Moderna na Amazônia teve características ímpares por conta das peculiaridades do local. Uma das patrocinadoras dessa fase foi a Indústria e Comércio de Minérios S.A. (ICOMI) – exploradora de manganês na região – que em 1955 contratou o engenheiro-arquiteto brasileiro Oswaldo Arthur Bratke (1907-1997) para projetar duas Vilas no Amapá (assentamentos urbanos), uma em Santana chamada de Amazonas e outra em Serra do Navio, chamada pelo mesmo nome da localidade. Ambos projetos foram ela
+  keywords:
+  - arquitetura moderna
+  - projeto de cinema
+  - Santana – AP
+  pages: ''
+- id: 62
+  title: 'Brutalismo em São Luis: análise de três edifícios — Receita Federal (1979), Estádio Castelão (1980) e Memorial Bandeira Tribuzzi (1985)'
+  authors:
+  - givenname: S. R. J. de
+    familyname: Oliveira
+  - givenname: G. S.
+    familyname: Pflueger
+  section: Poster Digital
+  file: sdnne06-062.pdf
+  abstract: As Influências do movimento moderno na arquitetura chegaram em São Luís do Maranhão a partir de 1933 até 1980 quando foram inseridos dentro do conjunto tombado edifícios para abrigar sedes dos órgãos públicos governamentais de instituições federais como Correios, Sulacap e INSS. Entre os anos de 1970-80 outra linguagem arquitetônica pode ser observada com influencias do pós-guerra. São os edifícios em concreto bruto do movimento brutalista identificados na construção de grandes obras de concreto
+  keywords:
+  - arquitetura moderna
+  - brutalismo
+  - arquitetura do século XX
+  pages: ''
+- id: 63
+  title: Características vernacular na arquitetura moderna teresinese
+  authors:
+  - givenname: C. M. S.
+    familyname: Albuquerque Júnior
+  - givenname: A. G.
+    familyname: Barreto
+  section: Poster Digital
+  abstract: Teresina foi fundada em 1852, 41 e anos depois do Piauí ter se tornado capitania independente. A arquitetura praticada até então não somente em Teresina, mas em boa parte do território piauiense era puramente vernacular, utilizando materiais locais e técnicas construtivas adquiridos empiricamente. Devido a transferência da capital do Piauí para Teresina, vários profissionais de planejamento migraram para assim ser praticado o desenvolvimento da nova capital. O tipo de arquitetura utilizada a pri
+  keywords:
+  - vernacular
+  - moderno
+  - Teresina
+  pages: ''
+- id: 64
+  title: 'Cine Rex: uma análise de sua importância arquitetônica e cultural para a cidade de Teresina'
+  authors:
+  - givenname: K.
+    familyname: Galeno
+  - givenname: L.
+    familyname: Silva
+  - givenname: R.
+    familyname: Cardoso
+  - givenname: D.
+    familyname: Costa
+  - givenname: A.
+    familyname: Negreiros
+  section: Poster Digital
+  abstract: Durante o final do século XIX chega ao Brasil o cinema, pouco depois, nas primeiras décadas do século seguinte, a arquitetura moderna. Teresina seguiu a mesma marcha, o cinema não tardou a se popularizar, em 1930 é construído o Cine Rex, edificação destinada exclusivamente para a exibição de películas e caracterizado por uma nova linguagem arquitetônica. Sua construção não só consolidou importância do cinema na vida cultural da cidade como trouxe um dos primeiros exemplares de arquitetura modern
+  keywords:
+  - modernismo
+  - cultura
+  - cinema
+  pages: ''
+- id: 65
+  title: 'Cobogós de Teresina: inventário visual na arquitetura moderna'
+  authors:
+  - givenname: V.
+    familyname: Verissimo
+  - givenname: M. L. G.
+    familyname: Teixeira
+  section: Poster Digital
+  abstract: 'O presente resumo tem como objeto de estudo os cobogós utilizados na arquitetura moderna de Teresina. O objetivo geral do trabalho consiste em realizar um levantamento dos padrões visuais, dos materiais construtivos e da aplicação dos cobogós empregados na arquitetura moderna de Teresina. Entre os objetivos específicos listam-se: apontar uma pesquisa histórica e documental sobre o surgimento e desenvolvimento do uso do cobogó na capital piauiense; e propor o resgate da memória local. A justifica'
+  keywords:
+  - cobogó
+  - arquitetura moderna
+  - Teresina
+  pages: ''
+- id: 66
+  title: 'Conservação da Arquitetura Moderna: um estudo sobre a significância cultural patrimonial do edifício São Carlos, projetado pelo arquiteto Walter Cunha na segunda metade do século XX, em Maceió, Alagoas'
+  authors:
+  - givenname: A. R. de
+    familyname: Almeida
+  - givenname: L. T. F.
+    familyname: Hidaka
+  section: Poster Digital
+  file: sdnne06-066.pdf
+  abstract: 'Este trabalho tem como objeto de estudo o edifício São Carlos, primeiro prédio residencial de Maceió/ Alagoas, localizado na Zona Especial de Preservação 2 (ZEP 2) no bairro do Centro. O enfoque da investigação é a relação entre os atributos materiais e imateriais na construção da significância cultural da arquitetura moderna, segundo o método de análise tipológica. A metodologia da pesquisa é dividida em quatro etapas: primeiramente o levantamento histórico, iconográfico e textual; em seguida a'
+  keywords:
+  - moderna
+  pages: ''
+- id: 67
+  title: 'Design e arquitetura na obra de Delfim Amorim: uso de azulejos como revestimento de fachadas de edifícios na arquitetura moderna recifense'
+  authors:
+  - givenname: V.
+    familyname: Verissimo
+  - givenname: A.
+    familyname: Afonso
+  section: Poster Digital
+  abstract: Este artigo pretende apresentar o estado da arte da pesquisa relacionada com o tema do desenho de azulejos empregados no revestimento de fachadas de edifícios durante o período da modernidade arquitetônica nacional; Para tanto, utilizou como estudo de caso específico, a obra desenvolvida pelo arquiteto português Delfim Amorim (1930-1972), erradicado no Brasil, na cidade do Recife, durante as décadas de 50 a 70, e que desenvolveu na cidade, uma série de projetos arquitetônicos que possuíam como m
+  keywords:
+  - design
+  - arquitetura
+  - azulejos
+  pages: ''
+- id: 68
+  title: 'Digitalizando o Moderno na Amazônia: levantamento do Clube Social da Vila Amazonas em Santana – AP'
+  authors:
+  - givenname: A. C. M.
+    familyname: Palheta
+  - givenname: L. de J. dos S.
+    familyname: Beltrão
+  - givenname: L. C. M.
+    familyname: Mateus
+  - givenname: V. M.
+    familyname: Ferreira
+  section: Poster Digital
+  abstract: O Moderno na Amazônia acompanha a sua tardia ocupação territorial, onde o desenvolvimento das principais cidades, bem como o surgimento de outras, tem como motor propulsor estímulo à implantação de grandes projetos econômicos, como parte da estratégia do Governo Federal para inserir mais controle na região. Quando se reporta a exemplares desta arquitetura, é incontornável o nome Oswaldo Arthur Bratke, que projetou, na década de 1950, duas vilas operárias encomendadas pela ICOMI (Indústria de Com
+  keywords:
+  - moderno na Amazônia
+  - digitalização 3D
+  pages: ''
+- id: 69
+  title: 'Ideários urbanos: estudo do plano de Wit Olaf Prochinik para São Luis em 1977'
+  authors:
+  - givenname: G. S.
+    familyname: Pflueger
+  - givenname: L. S. P. de
+    familyname: Alencar
+  section: Poster Digital
+  file: sdnne06-069.pdf
+  abstract: Esta pesquisa de iniciação cientifica realizou um estudo sobre o ideário urbano contido no plano elaborado pelo arquiteto Wit Olaf Prochinik para a cidade de São Luís do Maranhão em 1977, no âmbito da gestão do Prefeito Haroldo Tavares, com o objetivo de resgatar esta iniciativa do planejamento urbano, que resultou no primeiro plano diretor da cidade. Tal plano enfrentou questões como a organização da infra-estrutura viária, a política do uso de terra, propondo hipóteses de desenvolvimento da ci
+  keywords:
+  - urbanismo moderno
+  - planos urbanos
+  - idearios urbanos
+  pages: ''
+- id: 70
+  title: 'Instituto Nacional De Previdência Social (INPS): uma analise arquitetônica e histórica'
+  authors:
+  - givenname: R.
+    familyname: Cardoso
+  - givenname: K.
+    familyname: Apinheiro
+  - givenname: L.
+    familyname: Silva
+  - givenname: A.
+    familyname: Negreiros
+  section: Poster Digital
+  abstract: Este artigo, que se enquadra no eixo temático 1 (Arquitetura e Modernidade - Análise de Obras modernas.) deste seminário, a obra analisada é o prédio do antigo Instituto Nacional de Previdência Social (INPS), obra protomodernista construída em 1948, foi o primeiro arranha-céu da cidade de Teresina localizado no centro histórico e comercial da cidade. O edifício foi inaugurado em 24 de janeiro de 1950, para uso institucional, possuindo um programa de necessidades voltado para aquele funcionamento
+  keywords:
+  - INPS
+  - análise
+  - crítica
+  pages: ''
+- id: 71
+  title: 'Modernidade em Campina Grande: o edifício da escola politécnica da universidade da Paraíba'
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  - givenname: J.
+    familyname: Silva Junior
+  - givenname: S.
+    familyname: Moreira
+  section: Poster Digital
+  abstract: O presente trabalho tem como objeto de estudo o edifício da antiga Escola Politécnica da Universidade da Paraíba, situado no atual campus sede da Universidade Federal de Campina Grande (UFCG) na Rua Aprígio Veloso, número 882, bairro Universitário, importante ícone da disseminação da arquitetura moderna em Campina Grande. O edifício é composto de dois volumes conectados por um grande vão livre, tendo o volume principal dois pavimentos apoiados sobre pilares em V e o prédio anexo sendo composto p
+  keywords:
+  - arquitetura
+  - modernismo
+  - Campina Grande
+  pages: ''
+- id: 72
+  title: 'Movimento Moderno em Campina Grande: um estudo residencial'
+  authors:
+  - givenname: C.
+    familyname: Freitas
+  section: Poster Digital
+  abstract: O presente artigo tem como objeto de estudo Residências de estilo Moderno, localizadas na cidade de Campina Grande no agreste Paraibano. Objetivando um enfoque mais abrangente sobre a arquitetura moderna da região, o artigo busca aprofundar o estudo desse estilo e resgatar parte da produção residencial modernista que por muitas vezes se vê esquecida no âmbito citadino. As construções foram analisadas seguindo a metodologia de pesquisa histórica e arquitetônica, utilizando-se de documentos origin
+  keywords:
+  - movimento moderno
+  - arquitetura residencial
+  - estilo
+  pages: ''
+- id: 73
+  title: 'O comportamento dos espelhos: documentos, modernidade e verticalização em Campina Grande, Paraíba (1942 a 1970)'
+  authors:
+  - givenname: A. V. B.
+    familyname: Oliveira Junior
+  section: Poster Digital
+  abstract: Discute as relações entre verticalização, habitação e arquitetura moderna no Brasil, através do estudo de caso da cidade de Campina Grande, Paraíba. O período de estudo compreende o intervalo entre os anos de 1942 e 1970, entendido como o ciclo inaugural de construção de edifícios em altura no município. Traça um paralelo entre o fenômeno campinense e as experiências de verticalização ocorridas em outras cidades brasileiras, considerando as conjunturas política, econômica e social do país e reve
+  keywords:
+  - verticalização
+  - modernidade
+  - Campina Grande-PB
+  pages: ''
+- id: 74
+  title: 'O mestre e a madeira: trajetória profissional e contribuição de Zanine Caldas para a construção em madeira na arquitetura moderna brasileira'
+  authors:
+  - givenname: G.
+    familyname: Chaim
+  - givenname: A.
+    familyname: Medeiros
+  - givenname: I.
+    familyname: Valle
+  section: Poster Digital
+  file: sdnne06-074.pdf
+  abstract: Apesar de sempre empregada como material de construção na história da arquitetura brasileira, a madeira não teve o mesmo protagonismo no período moderno. Mesmo assim, alguns arquitetos souberam se apropriar do material e realizar obras que trazem à discussão questões que relacionam modernidade e primitivismo, inovação e tradição. Neste contexto, José Zanine Caldas deve ser tido como referência no estudo das obras em madeira realizadas nos anos do modernismo brasileiro, pelo fato de aliar a técni
+  keywords:
+  - arquitetura moderna
+  - madeira
+  - Zanine Caldas
+  pages: ''
+- id: 75
+  title: 'O modernismo no Edifício Chagas Rodrigues (DER-PI): conhecimento e preservação'
+  authors:
+  - givenname: A. M. C. C.
+    familyname: Branco
+  - givenname: A. R. S.
+    familyname: Magalhães
+  - givenname: N. B. A. L.
+    familyname: Melo
+  section: Poster Digital
+  file: sdnne06-075.pdf
+  abstract: A presente pesquisa propõe o estudo arquitetônico do Edifício Chagas Rodrigues, sede do DER em Teresina, no Piauí, como forma de reconhecimento desse espaço e, assim, discussão de perspectivas que abordem a sua preservação. O projeto do arquiteto carioca Maurício Sued, datado de 1955, é considerado o primeiro edifício modernista do estado. Exemplo característico da Escola Carioca de Arquitetura, ele apresenta os princípios corbusianos de fachada e planta livres da estrutura e uso de pilotis no t
+  keywords:
+  - arquitetura moderna
+  - Teresina
+  - Edifício Chagas Rodrigues
+  pages: ''
+- id: 76
+  title: O processo de integração socioespacial da Praça Ocílio Lago (Praça dos Skatistas) em Teresina — PI
+  authors:
+  - givenname: E.
+    familyname: Chaves
+  - givenname: O.
+    familyname: Silva
+  section: Poster Digital
+  abstract: Praças representam, identificam e definem uma cidade. Atualmente estão ganhando outros contornos, pois acabam esquecidas e desabitadas, devida a insegurança, falta de cuidado com o patrimônio público, iluminação inadequada, etc. Esses ambientes que deveriam ser destinados ao lazer e a população, abrem espaço para a marginalidade, afastando cada vez mais os seus frequentantes. Esse caso vem se repetindo em muitas capitais do Brasil, em Teresina não seria diferente. Tomando como exemplo a Praça Oc
+  keywords:
+  - espaço público
+  - praça
+  - integração
+  pages: ''
+- id: 77
+  title: O projeto e o pensamento do arquiteto — uma análise do edifício Alberto Silva
+  authors:
+  - givenname: L.
+    familyname: Daniel
+  - givenname: R.
+    familyname: Perrone
+  section: Poster Digital
+  abstract: Antônio Luiz Dutra de Araújo foi um dos arquitetos precursores da arquitetura moderna em Teresina e teve sua produção mais expressiva na década de 1970, devido ao crescimento e modernização da cidade. Foi responsável por importantes exemplares institucionais, como o prédio do Ministério da Fazenda, o edifício da Cepisa, o Palácio do Comércio e ainda contabilizou uma produção de variadas tipologias. O eixo temático do artigo é “Arquitetura e Modernidade” e o objeto de estudo em questão é o Edifíc
+  keywords:
+  - arquitetura moderna
+  - edifício Cepisa
+  - critérios projetuais
+  pages: ''
+- id: 78
+  title: 'Paisagens participativas: o uso da praça Edgar Nogueira como incentivo ao (re) conhecimento da Arquitetura Moderna Piauiense'
+  authors:
+  - givenname: F.
+    familyname: Siqueira
+  - givenname: G.
+    familyname: Andrade
+  - givenname: E.
+    familyname: Oliveira
+  section: Poster Digital
+  file: sdnne06-078.pdf
+  abstract: O trabalho tem por escopo a proposição de medidas de requalificação da praça Edgar Nogueira, situada no centro da cidade de Teresina- PI. A proposta almeja a revitalização do espaço em questão e, a partir do seu uso, enquanto paisagem participativa, pretende incentivar o (re)conhecimento da Arquitetura Moderna Piauiense, representada pelos exemplares arquitetônicos contidos no entorno imediato, os prédios do Tribunal de Justiça do Estado do Piauí(TJ-PI) e da Águas e Esgotos do Piauí S. A.(AGESPI
+  keywords:
+  - praça
+  - arquitetura moderna
+  - Teresina
+  pages: ''
+- id: 79
+  title: 'Patrimônio Arquitetônico Moderno Nordestino: edifífio Holiday, Recife'
+  authors:
+  - givenname: A. C.
+    familyname: Fagundes
+  - givenname: R. R.
+    familyname: Lima
+  section: Poster Digital
+  abstract: Nos anos de 1950, os apartamentos buscaram novos caminhos quanto aos aspectos formais e aos modos de morar modernos, principalmente, quanto as novas dimensões propostas pelo Movimento Moderno. Assim, grandes conjuntos habitacionais foram construídos, alguns revolucionários como projeto, procurando interpretar modelos internacionais, e propondo soluções funcionais para abrigar grupos sociais diversos, surgidos a partir da modernização das cidades brasileiras e caracterizando suas identidades. Qua
+  keywords:
+  - arquitetura moderna nordestina
+  - patrimônio moderno
+  - Edifício Holiday
+  pages: ''
+- id: 80
+  title: 'Raimundo Dias: contribuições para a arquitetura moderna Piauiense'
+  authors:
+  - givenname: M. L. G.
+    familyname: Teixeira
+  - givenname: V.
+    familyname: Verissimo
+  section: Poster Digital
+  abstract: 'O presente trabalho discorre sobre vida e obra de Raimundo Dias, arquiteto piauiense representante da Arquitetura Moderna Brutalista no Piauí, principalmente na capital, Teresina. Este trabalho tem como objetivo documentar a trajetória do arquiteto Raimundo Dias, além de analisar suas principais projetos como: Terminal Rodoviário Lucídio Portela, Jockey Club, Centro Administrativo, Quartel da Polícia e Agespisa. A cidade do recorte geográfico possui uma significativa produção arquitetônica moder'
+  pages: ''
+- id: 81
+  title: Três casas modernas e a transformação do espaço doméstico em Belém
+  authors:
+  - givenname: A.
+    familyname: Chaves
+  - givenname: R.
+    familyname: Dias
+  section: Poster Digital
+  abstract: A produção arquitetônica formal na cidade de Belém durante o período 19401960 possui referências modernas as quais precisam ser analisadas dentro de um processo de recepção, de difusão de ideias, concepções e conceituações. Deste modo, neste artigo propõe-se a análise mais aprofundada desses exemplares, viabilizada a partir de etapas prévias como a recuperação de projetos, redesenhos, visitas in loco e levantamentos arquitetônicos. A sistematização e análise desse material contribuiu para o ente
+  keywords:
+  - arquitetura residencial
+  - modernização
+  - Belém
+  pages: ''
+- id: 82
+  title: Um estudo de edifícios modernos na cidade de Floriano, Piauí. 1950-1980
+  authors:
+  - givenname: L.
+    familyname: Carvalho
+  - givenname: A.
+    familyname: Afonso
+  section: Poster Digital
+  abstract: Esse artigo que se intitula “Um estudo de edifícios modernos na cidade de Floriano, Piauí. 1950-1980”. Possui como objeto de estudo três obras modernas, com tipologias diferenciadas, datadas entre os anos de 1950 a 1980. Obras do período contemporâneo no Brasil, moderno tardio piauiense, Comércio Esporte Clube (1957) e Casa Moderna de Graci Guimarães (1960) são projetos do autodidata Otacílio Fortes e a Igreja de Nossa Senhora das Graças (1976) do arquiteto Miguel Caddah. Como justificativa cons
+  keywords:
+  - arquitetura moderna
+  - projetos arquitetônicos
+  - patrimônio material
+  pages: ''
+- id: 83
+  title: A estação ferroviária nova de Campina Grande
+  authors:
+  - givenname: J.
+    familyname: Melo
+  - givenname: M.
+    familyname: Sousa Junior
+  - givenname: M.
+    familyname: Garcia
+  section: Doco Jovem
+  abstract: O objeto de estudo do presente artigo é a Estação Ferroviária Nova, que possui característica da arquitetura moderna, finalizada no final da década de 50 e que foi de grande importância para a cidade, devido às relações desta com o ciclo do algodão. A cidade de Campina Grande, localizada no agreste paraibano, possui um grande acervo de construções históricas que ao longo do tempo sofreram depredações e permanecem abandonadas. Contudo, seus vestígios são importantes para a narração da história ca
+  keywords:
+  - análise arquitetônica
+  - arquitetura modernista
+  - cidade
+  pages: ''
+- id: 84
+  title: 'A expressão tectônica na obra residencial de Geraldino Duda: Campina Grande, anos 1960'
+  authors:
+  - givenname: F.
+    familyname: Macedo
+  - givenname: A.
+    familyname: Setubal
+  section: Doco Jovem
+  abstract: O presente trabalho tem como objetos de estudo exemplares residenciais da Arquitetura Moderna de Campina Grande, agreste da Paraíba, projetados nos anos 1960 pelo engenheiro civil Geraldino Pereira Duda. Campinense, nascido em 1935, trabalhou desde cedo no serviço público como desenhista, onde desenvolveu seu interesse pela arquitetura, ingressando anos depois no curso de Engenharia Civil da Universidade Federal da Paraíba (UFPB). Influenciado inicialmente pela obra de Oscar Niemeyer, em Belo Ho
+  keywords:
+  - arquitetura moderna
+  - projetos residenciais
+  - composição
+  - tectônica
+  - relevância arquitetônica
+  pages: ''
+- id: 85
+  title: A influência da metodologia modernista no partido urbanístico do conjunto habitacional Tancredo Neves em Teresina/PI
+  authors:
+  - givenname: B.
+    familyname: Negreiros
+  - givenname: J.
+    familyname: Pacheco Junior
+  - givenname: J.
+    familyname: Sousa
+  section: Doco Jovem
+  file: sdnne06-085.pdf
+  abstract: A segunda metade do século XX apresentou mudanças nos cenários político e econômico do Brasil, desencadeando o aumento da população das cidades, resultado do êxodo rural marcante desta época. Intensificou-se, assim, a problemática do déficit habitacional nos centros urbanos brasileiros, inclusive em Teresina, onde se criou, em 1965, a Companhia de Habitação do Piauí (COHAB/PI) como medida governamental de política habitacional. A construção de diversos conjuntos habitacionais destinados à popula
+  keywords:
+  - habitação
+  - modernismo
+  - urbanismo
+  pages: ''
+- id: 86
+  title: 'A modernidade brutalista paraibana na década de 70: o caso do Museu de Artes Assis Chateaubriand'
+  authors:
+  - givenname: C. A. de
+    familyname: Lima Neto
+  - givenname: I. M. B.
+    familyname: Dantas
+  - givenname: K. V. N. da
+    familyname: Silva
+  section: Doco Jovem
+  file: sdnne06-086.pdf
+  abstract: O presente artigo visa analisar a arquitetura do antigo Museu de Artes Assis Chateaubriand (MAAC), no município de Campina Grande – PB. A análise será realizada sob diversos aspectos, dentre eles a materialidade da sua forma e de sua tectonicidade. O prédio, inaugurado em 1974 para abrigar o acervo artístico de Assis Chateaubriand, foi idealizado pelo artista plástico Chico Pereira e pelo arquiteto Renato Azevedo durante a vigência do Plano de Desenvolvimento Local Integrado (PDLI). Este trabalh
+  keywords:
+  - modernidade
+  - brutalismo
+  - Campina Grande
+  pages: ''
+- id: 87
+  title: A permanência dos critérios modernos na obra de Glauco Campello — Estação Rodoviária Argemiro de Figueiredo. Campina Grande. PB
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  - givenname: C. K. S. de
+    familyname: Araújo
+  section: Doco Jovem
+  file: sdnne06-087.pdf
+  abstract: Este artigo possui como objeto de estudo, o Terminal Rodoviário Argemiro Figueiredo, inaugurado em 25 de maio de 1985, localizado no bairro Sandra Cavalcante, Campina Grande, zona agreste da Paraíba. O projeto é de autoria do arquiteto Glauco Campello, nascido em 1934, em Mamanguape, Paraíba. O objetivo desse artigo é o de analisar arquitetonicamente essa obra, observando-se a permanência dos critérios modernos na mesma, que apesar de ter sido concluída em 1985, manteve todos os princípios projetuais da linguagem moderna, tais como uso de modulação, racionalidade projetual e construtiva, transparências espaciais, e atenção especial ao detalhe dos elementos compositivos.
+  keywords:
+  - arquitetura moderna
+  - Glauco Campello
+  - Campina Grande
+  pages: ''
+- id: 88
+  title: Análise da eficiência do conforto e funcionalidade das edificações modernistas de Fortaleza
+  authors:
+  - givenname: R.
+    familyname: Alencar
+  - givenname: I.
+    familyname: Carvalho
+  - givenname: B.
+    familyname: Silva
+  - givenname: T.
+    familyname: Vidal
+  section: Doco Jovem
+  file: sdnne06-088.pdf
+  abstract: O modernismo foi um movimento que influenciou diversas áreas do conhecimento no século XX. Na arquitetura, o movimento deu inicio a um estilo específico de projeto e teve como seu principal conceptor o arquiteto Le Corbusier. Contudo, deve-se notar que apesar que esse modo de projetar tenha sido gerado na Europa, ele foi adotado mundialmente seguindo os mesmos princípios tecnológicos e estéticos. Essa falta de adaptação ao clima e a paisagem pode acarretar em problemas de ordem ambiental e const
+  keywords:
+  - conforto ambiental
+  - modernismo
+  - eficiência
+  pages: ''
+- id: 89
+  title: 'Análise projetual do acervo moderno da cidade de Campina Grande, PB: edifício Lucas de Hugo Marques'
+  authors:
+  - givenname: E.
+    familyname: Almeida
+  - givenname: A.
+    familyname: Lima
+  - givenname: M.
+    familyname: Passos
+  - givenname: A.
+    familyname: Afonso
+  section: Doco Jovem
+  file: sdnne06-089.pdf
+  abstract: O artigo se propõe a analisar o Edifício Lucas, importante obra moderna localizada no centro da cidade de Campina Grande, no interior paraibano. Projetada por Hugo Marques, a edificação aproveita a declividade existente entre a Rua Marquês de Herval e a Rua Cardoso Vieira, esquina onde foi construída, configurando dois níveis térreos. Hugo Marques foi um arquitetolicenciado carioca, conhecido por seus trabalhos tidos como progressistas em Campina Grande e Recife, onde participou das principais i
+  keywords:
+  - campinense
+  pages: ''
+- id: 90
+  title: 'Arquitetura bioclimática: a obra de Acácio Gil Borsoi em Teresina, PI'
+  authors:
+  - givenname: K. H. O.
+    familyname: Alves
+  - givenname: A. A.
+    familyname: Pereira
+  - givenname: P. E. P.
+    familyname: Santiago
+  - givenname: R.
+    familyname: Marques
+  - givenname: A. L. R. C. da
+    familyname: Silveira
+  section: Doco Jovem
+  file: sdnne06-090.pdf
+  abstract: Este artigo possui como objetos de análise, os edifícios sedes do Tribunal de Justiça e da Assembleia Legislativa do Estado do Piauí, ambos situados no bairro Cabral, na região central de Teresina, PI, projetados pelo arquiteto Acácio Gil Borsoi. O escopo deste artigo delimita-se no estudo das soluções projetuais empregadas pelo autor, afim de promover maior eficiência dos edifícios, no que tange ao conforto ambiental, mediante as condições climáticas da região. O Tribunal de Justiça do Estado d
+  keywords:
+  - Teresina
+  - arquitetura bioclimática
+  - Acácio Gil Borsoi
+  pages: ''
+- id: 91
+  title: Arquitetura moderna em Fortaleza. Análise arquitetônica das Residências da Família Alcântara
+  authors:
+  - givenname: A.
+    familyname: Afonso
+  - givenname: A.
+    familyname: Barbosa
+  - givenname: Y.
+    familyname: Rodrigues
+  section: Doco Jovem
+  file: sdnne06-091.pdf
+  abstract: O presente artigo se enquadra no eixo temático 1 (Arquitetura e Modernidade) deste congresso. Tem como objeto de estudo a arquitetura moderna na cidade de Fortaleza no Ceará, mais precisamente as residências da Família Alcântara – 1962 e 1977, projetadas pelos arquitetos José Barros Maia, o Mainha e pelo professor José Neudson Braga. O objetivo da pesquisa é o enriquecimento do inventário moderno no Nordeste, buscando analisar uma residência pouco visível no cenário acadêmico, mas que possui sol
+  keywords:
+  - ponte de conhecimento
+  - arquitetura moderna
+  - resgate histórico
+  pages: ''
+- id: 92
+  title: 'CEPISA: um marco da arquitetura moderna da década de 70 até os dias atuais'
+  authors:
+  - givenname: R.
+    familyname: Alencar
+  - givenname: A.
+    familyname: Negreiros
+  section: Doco Jovem
+  file: sdnne06-092.pdf
+  abstract: 'A arquitetura moderna piauiense se instala a partir da década de 1950, com os primeiros projetos de arquitetos que utilizaram os seus princípios. Entretanto, o acervo desse estilo arquitetônico em Teresina só foi produzido, em maior escala, no final da década de 1960 e na década de 1970. Nesse período foi-se erigido um dos maiores exemplos da arquitetura institucional: a Companhia Energética do Piauí S/A (atual Eletrobrás), projetada pelo arquiteto mineiro Antonio Luiz Dutra, sendo construída em'
+  keywords:
+  - arquitetura moderna
+  - Teresina
+  - arquitetos migrantes
+  pages: ''
+- id: 93
+  title: 'Cine Rex: memória sobrevivente'
+  authors:
+  - givenname: D. N. B.
+    familyname: Silva
+  - givenname: H. R. S.
+    familyname: Mendes
+  - givenname: N. V.
+    familyname: Campos
+  - givenname: M. L.
+    familyname: Silva
+  section: Doco Jovem
+  abstract: 'O presente trabalho, intitulado “Cine Rex: Memória Sobrevivente” aborda o edifício do antigo Cine Rex, atualmente disponível para aluguel, situado no centro fundacional da cidade de Teresina, capital piauiense, inserindo-o no conceito de paisagem cultural e urbana atrelado às estratégias de preservação, destacando-se a importância do referido prédio na construção da identidade local e no complexo cultural no qual está inserido. Atualmente em uso diferente do qual foi planejado – Cinema –, o Cine'
+  keywords:
+  - arquitetura
+  - memória
+  - paisagem cultural
+  pages: ''
+- id: 94
+  title: Contribuições do arquiteto Raimundo Dias para arquitetura moderna piauiense
+  authors:
+  - givenname: F. F. de S. C.
+    familyname: Castro
+  - givenname: A. R. S. N.
+    familyname: Feitosa
+  section: Doco Jovem
+  file: sdnne06-094.pdf
+  abstract: SERRA, Á. O. C. O artigo tem como objetivo explorar a arquitetura moderna na cidade de Teresina através da análise trabalho do arquiteto piauiense Raimundo Dias, dando maior enfoque, nas obras construídas na década de 1970. Nascido em São Raimundo Nonato, Piauí no ano de 1943, estudou Arquitetura e Urbanismo na Universidade de Brasília, nos anos 1964 a 1969, participando na terceira turma do referido curso. Sua vida acadêmica foi marcada pela participação intensa no movimento estudantil. Suas pr
+  keywords:
+  - arquitetura moderna
+  - Teresina
+  - Raimundo Dias
+  pages: ''
+- id: 95
+  title: 'Desafios para a preservação do patrimônio cultural moderno no Piauí: Av. Frei Serafim e Hospital Getúlio Vargas'
+  authors:
+  - givenname: A.
+    familyname: Magalhaes
+  - givenname: I.
+    familyname: Rodrigues
+  - givenname: C.
+    familyname: Moura
+  - givenname: A.
+    familyname: Liberato
+  - givenname: A.
+    familyname: Almeida
+  section: Doco Jovem
+  file: sdnne06-095.pdf
+  abstract: Esta pesquisa trabalhará com o tema da história urbana moderna e da arquitetura para saúde, investigando a respeito de três objetos (a Ponte Juscelino Kubistchek, o traçado da Avenida Frei Serafim e seu entorno e o Hospital Getúlio Vargas), observando as relações existentes entre eles e que acarretaram na configuração espacial da Avenida Frei Serafim, existente na contemporaneidade, bem como as dificuldades em se preservar o patrimônio urbano, arquitetônico e cultural moderno na cidade de Teresi
+  keywords:
+  - patrimônio moderno
+  - Teresina
+  - paisagem urbana
+  pages: ''
+- id: 96
+  title: 'Monumento da Batalha do Jenipapo: o exemplar moderno no interior do Piauí'
+  authors:
+  - givenname: J.
+    familyname: Araujo
+  section: Doco Jovem
+  abstract: O Monumento da Batalha do Jenipapo está localizado no Município de Campo Maior no Piauí, distante cerca de noventa quilômetros de Teresina, capital do estado. Corresponde a um memorial com autoria de Raul Cirne de característica arquitetônica brutalista. Foi projetado a pedido do Exército em parceria com o então governador Alberto Silva, sendo inaugurado em 1973, período da ditadura militar. O monumento possui excelente qualidade arquitetônica, com inteligentes soluções de conforto ambiental e e
+  keywords:
+  - arquitetura moderna
+  - monumento do jenipapo
+  pages: ''
+- id: 97
+  title: O Edifício Dourado e a introdução de novas formas de habitar
+  authors:
+  - givenname: C. A. da S. de
+    familyname: Almeida
+  section: Doco Jovem
+  abstract: O presente artigo intitulado “O Edifício Dourado e a introdução de novas formas de habitar” tem o objetivo de analisar a arquitetura do Edifício Dourado, construído no ano de 1937, com projeto de Arézio Fonseca, na cidade de Salvador/BA. Inicialmente, é realizada a contextualização do edifício no processo de desenvolvimento da cidade, enfatizando sua importância ao se tratar do primeiro edifício residencial de Salvador, responsável por romper com o tipo de arquitetura residencial predominante e
+  keywords:
+  - arquitetura moderna
+  - Salvador
+  pages: ''
+- id: 98
+  title: O resgate de obras residenciais modernas do arquiteto Antonio Luiz em Teresina
+  authors:
+  - givenname: D.
+    familyname: Ribeiro
+  - givenname: P.
+    familyname: Meneses
+  - givenname: W.
+    familyname: Soares
+  section: Doco Jovem
+  file: sdnne06-098.pdf
+  abstract: O seguinte trabalho, intitulado de “O resgate de obras residenciais modernas do arquiteto Antonio Luiz em Teresina”, tem como enfoque a análise de soluções projetuais e técnicas construtivas modernas adotadas em obras residenciais do arquiteto Antonio Luiz Dutra de Oliveira, enquadrandose no eixo temático 2 – Tectônica e Modernidade, deste evento. Antonio Luiz atua no cenário da construção civil do Piauí-Brasil desde 1967 até a presente data, sendo considerado um dos principais arquitetos piauie
+  keywords:
+  - modernismo
+  - técnicas construtivas
+  - arquitetura residencial
+  pages: ''
+- id: 99
+  title: 'Prédios modernistas geminados da Avenida Magalhães de Almeida: um estudo de reabilitação arquitetônica'
+  authors:
+  - givenname: B. T. L. R.
+    familyname: Barbosa
+  - givenname: G. S.
+    familyname: Pflueger
+  section: Doco Jovem
+  file: sdnne06-099.pdf
+  abstract: A Avenida Magalhaes de Almeida, foi executada com a demolição do casario colonial, no âmbito das renovações urbanas realizadas em 1940 pelo interventor Paulo Ramos no centro histórico de São Luis do Maranhão. Ela foi um marco da arquitetura e do urbanismo moderno do século XX na capital, pois foi desenhada de forma inusitada, rasgando a malha xadrez tradicional do centro com uma diagonal. Ao longo desta avenida uma nova linguagem arquitetônica surgiu com os exemplares da arquitetura art deco e m
+  keywords:
+  - arquitetura moderna
+  - reabilitação arquitetônica
+  - habitação estudantil
+  - Art Decó
+  pages: ''
+- id: 100
+  title: ROVSA/Campina Grande, Paraíba. Análise arquitetônica
+  authors:
+  - givenname: L.
+    familyname: Almeida
+  - givenname: N.
+    familyname: Pinheiro
+  - givenname: R.
+    familyname: Borges
+  section: Doco Jovem
+  abstract: O artigo presente tem como objeto de estudo, a indústria ROVSA/Refinaria de óleos vegetais S.A.E. Fundada em 1948, uma das mais importantes impulsionadoras da economia local, iniciou suas atividades destinadas à produção de sabão. Em seguida, tornou-se uma moderna fábrica de óleo vegetal. A matéria-prima era retirada da região o que significou grande estimulo ao estado da Paraíba. Localiza-se no bairro do Bodocongó, norte da cidade de Campina Grande, zona do agreste Paraibano. Seu estilo arquite
+  keywords:
+  - cidade
+  - patrimônio industrial
+  - arquitetura
+  pages: ''
+- id: 101
+  title: 'Sesc Pompéia: arquitetura moderna e patrimônio industrial na obra de Lina Bo Bardi'
+  authors:
+  - givenname: P.
+    familyname: Franco
+  - givenname: V.
+    familyname: Moura
+  section: Doco Jovem
+  file: sdnne06-101.pdf
+  abstract: O artigo ora apresentado tem por objeto de estudo o projeto do Centro de lazer Sesc Pompéia, obra de inegável representatividade nacional e internacional da arquitetura moderna da escola paulista. Com projeto que foi trabalhado durante nove anos (1977 a 1986), Lina Bo Bardi, a convite dos então diretores do Sesc, quebra um ostracismo de quase dez anos, devido sua posição contrária ao regime antidemocrático vivido na época. O local era a antiga fábrica de tambores em Pompeia, São Paulo, a propost
+  keywords:
+  - arquitetura moderna
+  - patrimônio industrial
+  - Sesc Pompéia
+  - Lina Bo Bardi
+  pages: ''
+- id: 102
+  title: 'Traços modernos e arquitetura bioclimática: Centro de Tecnologia da Universidade Federal do Piauí (UFPI)'
+  authors:
+  - givenname: P.
+    familyname: Meneses
+  - givenname: T.
+    familyname: Teles
+  section: Doco Jovem
+  abstract: 'O artigo intitulado de “Traços Modernos e Arquitetura Bioclimática: Centro de Tecnologia da Universidade Federal do Piauí (UFPI) ” tem como objetivo analisar a obra moderna piauiense do Centro de tecnologia da Universidade Federal do Piauí (UFPI), inserido no Campus Ministro Petrônio Portela na cidade de Teresina. A produção se enquadra no eixo temático 2 – Tectônica e Modernidade, no intuito de apresentar as soluções projetuais e construtivas, bem como os critérios modernos empregados. O projet'
+  keywords:
+  - modernidade
+  - arquitetura piauiense
+  - soluções bioclimáticas
+  pages: ''
