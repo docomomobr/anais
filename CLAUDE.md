@@ -18,7 +18,7 @@ anais/
 ├── regionais/
 │   ├── nne/             # Norte/Nordeste (sdnne01-10)
 │   ├── se/              # Sudeste: MG + RJ + SP (sdmg01, sdrj02-04, sdsp03-09)
-│   └── sul/             # Sul (sdsul01-08)
+│   └── sul/             # Sul (sdsul01-08, sdpr01-02)
 ├── scripts/             # Scripts principais (generate_ojs_xml, import_ojs, dedup_authors, etc.)
 │   └── legacy/          # Scripts antigos de processamento (não mais usados)
 ├── dict/                # Módulo NER + Entity Resolution (dict.db, normalizar.py)
@@ -95,29 +95,28 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave
 |--------|-------|-----------|-------|---------|
 | 1 | Brasil | `nacionais/` | sdbr01–sdbr15 | 1–15 |
 | 2 | Sudeste | `regionais/se/` | sdmg01, sdrj02–04, sdsp03, 05–09 | varies |
-| 3 | Norte/Nordeste | `regionais/nne/` | sdnne01–03, 05, 07–10 | 1, 2, 3, 5, 7, 8, 9, 10 |
-| 4 | Sul | `regionais/sul/` | sdsul01–08 | 1–8 |
+| 3 | Norte/Nordeste | `regionais/nne/` | sdnne01–05, 07–10 | 1–5, 7–10 |
+| 4 | Sul | `regionais/sul/` | sdsul01–08, sdpr01–02 | 1–8, PR1–2 |
 
 ---
 
 ## Status dos Seminários Regionais
 
-### Prontos para produção (26 seminários, ~1130 artigos)
+### Prontos para produção (29 seminários, ~1211 artigos)
 
-**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne05 (32), sdnne06 (104), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
+**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne04 (45), sdnne05 (32), sdnne06 (104), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
 
 **Sudeste** (`regionais/se/`): sdmg01 (68), sdrj02 (19), sdrj03 (4), sdrj04 (17), sdsp03 (74), sdsp05 (68), sdsp06 (37), sdsp07 (43), sdsp08 (40), sdsp09 (27)
 
-**Sul** (`regionais/sul/`): sdsul01 (48), sdsul02 (35), sdsul03 (39), sdsul04 (46), sdsul05 (37), sdsul06 (24), sdsul07 (46), sdsul08 (51)
+**Sul** (`regionais/sul/`): sdsul01 (48), sdsul02 (35), sdsul03 (39), sdsul04 (46), sdsul05 (37), sdsul06 (24), sdsul07 (46), sdsul08 (51), sdpr01 (26), sdpr02 (10)
 
-Todos importados no OJS teste. Importação na produção pendente.
+Seminários nacionais importados no OJS teste. Importação dos regionais na produção pendente.
 
 ### Sem dados (não localizados)
-- sdnne04 (Natal 2012)
 - sdsp04, sdrj01
 
 ### Pendências
-- Importação dos 23 regionais na produção (ver `docs/pipeline_producao.md`)
+- Importação dos regionais na produção (ver `docs/pipeline_producao.md`)
 - DOIs via ABEC/Crossref (DOI por edição, não por artigo)
 
 ---

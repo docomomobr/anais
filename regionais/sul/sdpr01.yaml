@@ -1,0 +1,973 @@
+issue:
+  slug: sdpr01
+  title: '1º Seminário Docomomo Paraná, Curitiba, 2006'
+  subtitle: Constituição da Arquitetura Moderna no Paraná
+  location: 'Curitiba, PR'
+  year: 2006
+  volume: 4
+  publisher: 'PUC-PR'
+  description: '1º Seminário Docomomo Paraná: Constituição da Arquitetura Moderna no Paraná. 17 a 19 de agosto de 2006. Curitiba, PR: PUC-PR, 2006.'
+  date_published: '2006-08-17'
+  sections:
+  - title: Conferência
+    abbrev: 'CF-sdpr01'
+  - title: Precursores do Moderno
+    abbrev: 'PM-sdpr01'
+  - title: As Cidades Assumem o Moderno
+    abbrev: 'CM-sdpr01'
+  - title: Painel
+    abbrev: 'PN-sdpr01'
+articles:
+
+- id: 'sdpr01-001'
+  title: A preservação do moderno
+  subtitle: Ibirapuera e MASP
+  authors:
+  - givenname: Mônica Junqueira de
+    familyname: Camargo
+    email: 'junqueira.monica@uol.com.br'
+    affiliation: 'FAU-USP'
+    orcid: '0000-0002-2625-5074'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Conferência
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdpr01-001.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdpr01-002'
+  title: A importância da revitalização da Arquitetura Moderna
+  subtitle: um estudo sobre o Museu Oscar Niemeyer
+  authors:
+  - givenname: Fabiana Nathalie
+    familyname: Ferreira
+    email: 'ferreira@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Joseane Alves de
+    familyname: Lima
+    email: 'lima@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Precursores do Moderno
+  abstract: 'A partir de uma necessidade funcional e administrativa, o Governo do Estado do Paraná, no final da década de 60, mandou construir o Edifício Presidente Castelo Branco com projeto do arquiteto Oscar Niemeyer. A obra tornou-se um marco na Arquitetura moderna Paranaense. Cerca de 30 anos depois, já com seu uso defasado pelas funções administrativas, Niemeyer é chamado novamente e reestuda o edifício dentro de uma nova proposta governamental de cunho cultural. Cria-se um novo edifício. Com esta intervenção formal em traços contemporâneos, nova função é dada ao conjunto. Este trabalho constitui-se numa analise arquitetônica do Museu Oscar Niemeyer (MON), fazendo a partir dele, uma reflexão acerca das possibilidades de revitalização de edifícios de arquitetura moderna, tendo ou não alterações nas suas funções de uso. Nesta analise são levantados princípios arquitetônicos modernos em contra partida com a cultura contemporânea, geradora do pensamento da cidade atual. Numa dialética do pensamento arquitetônico, tem-se o moderno enquanto tese, o contemporâneo como antítese e a importância da preservação da arquitetura moderna como síntese desta análise. O MON é uma demonstração de respeito pela arquitetura moderna, que vem se perdendo em meio à mutação da cidade. Generosa intervenção arquitetônica que tenta resgatar a memória e atribuir a devida importância à Arquitetura Moderna no Paraná.'
+  locale: 'pt-BR'
+  file: 'sdpr01-002.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdpr01-003'
+  title: A Obra de Philipp Lohbauer no Paraná
+  authors:
+  - givenname: Juliana Harumi
+    familyname: Suzuki
+    email: 'suzuki@exemplo.com'
+    affiliation: 'FAU-USP'
+    orcid: '0000-0002-6148-5238'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: 'As pesquisas em história da arquitetura sempre tiveram como uma de suas principais fontes de informação os arquivos existentes nos órgãos públicos. O exame das chamadas “plantas de prefeitura” fornece dados sobre a autoria dos projetos, bem como suas características gerais. Contudo, não raro tais documentos deixam de revelar as reais condições em que muitas obras foram concebidas, freqüentemente obscurecendo a atuação de muitos profissionais que, por diferentes razões, não se tornam os responsáveis técnicos de suas obras. Este trabalho traça um breve panorama da atuação do arquiteto Philipp Lohbauer no Paraná. Nascido em 1906, em Nuremberg, Alemanha, Lohbauer chegou ao Brasil fugindo da perseguição contra os judeus empreendida pelos nazistas nos anos 1930. Na década de 1940, trabalhou como projetista da Empresa de Construções Brasil, realizando uma série de projetos e estudos para diversas cidades paranaenses, como Curitiba, mas sobretudo na região norte, como Londrina, Maringá, Mandaguari e Cornélio Procópio, constituindo-se em um dos primeiros arquitetos a atuarem nesta região. Sua condição de estrangeiro não permitiu que seu nome figurasse nos documentos oficiais destes projetos, fato que em muito comprometeu a autoria de seus trabalhos. Pretende-se elaborar um quadro de alguns dos mais significativos trabalhos desse arquiteto, resgatando sua importância para a história da arquitetura paranaense.'
+  keywords:
+  - Arquitetura Moderna no Paraná
+  - História da Arquitetura
+  - Philipp Lohbauer
+  references:
+  - 'CASTELNOU, Antonio. Arquitetura Londrinense: Expressões de Intenção Pioneira. Londrina: A.'
+  - 'SEGAWA. Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1997.'
+  - 'Christian Lohbauer, cientista político, n.1967. Depoimento ‘a autora. São Paulo, 08 de fevereiro de 2006.'
+  - Fontes das Ilustrações
+  - 'Figs. 1, 2, 8: ACERVO DE CHRISTIAN LOHBAUER'
+  - 'Figs. 3, 4, 5, 6, 7: ACERVO DA BIBLIOTECA DA FAUUSP'
+  locale: 'pt-BR'
+  file: 'sdpr01-003.pdf'
+  pages_count: 10
+  pages: null
+
+- id: 'sdpr01-004'
+  title: A Paisagem Urbana como cena moderna
+  authors:
+  - givenname: Renato Leão
+    familyname: Rego
+    email: 'rego@exemplo.com'
+    affiliation: UEM
+    orcid: '0000-0003-1822-2907'
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Karin Schwabe
+    familyname: Meneguetti
+    email: 'meneguetti@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Precursores do Moderno
+  abstract: 'O norte do Paraná é constituído por ume rede de cidades planejadas. Estas cidades foram construídas entre os anos 1930 e 1960, o período de destaque da arquitetura moderna no Brasil. A imagem de uma cidade nova, planejada, já era, por si só, uma cena moderna. Entretanto, as edificações que iam construindo a paisagem urbana desta região acatavam a linguagem da nova arquitetura: aí figuravam as ‘composições cúbicas’, as superfícies de vidro, o concreto aparente, a ruptura com a imagem tradicional da morada. A arquitetura modernista surge nestas cidades do interior, como Maringá, basicamente através de três atitudes distintas: pelas mãos de arquitetos trazidos de São Paulo para construir edifícios relevantes no contexto urbano, como os que veremos aqui; por arquitetos migrantes que deixaram centros maiores e se instalaram nas cidades menores em busca da realização profissional e de um mercado de trabalho menos disputado e mais promissor; e ainda por profissionais locais – engenheiros, projetistas anônimos ou mesmo sem formação acadêmica – que reproduziam o que se via ali e acolá. Por meio dos edifícios analisados neste trabalho, poderemos notar tanto a conjunção de diferentes correntes do Movimento Moderno em Maringá como a sucessão delas nas novas construções, de modo a refazer localmente, e com certo descompasso, aquelas conformações já celebradas nos grandes centros. Ainda que subvertendo princípios e rompendo a coerência das propostas originais do Movimento Moderno, estas edificações retinham a aparência modernista, o que garantia a elas – e principalmente às cidades onde se encontravam – a imagem da modernidade.'
+  keywords:
+  - Maringá
+  - Companhia Melhoramentos Norte do Paraná
+  - arquitetura moderna
+  references:
+  - 'CHOAY, Françoise. O Urbanismo. 3ed. São Paulo: Perspectiva, 1992.'
+  - 'COLQHOUN, Alan. Tipologías y métodos de diseño. In: COLQHOUN, Alan. Arquitectura moderna y cambio histórico .'
+  - 'Barcelona: GG, 1978, p.61-74.'
+  - 'COSTA, Lucio. Documentação necessária. In: COSTA, L. Registros de uma vivência. 2ed. São Paulo: Empresa das artes, 1997, p.457-462.'
+  - 'HALL, Peter. Cidades do amanhã. São Paulo: Perspectiva, 2002.'
+  - 'HARVEY, David. Condição pós-moderna. São Paulo: Loyola, 1992.'
+  - 'LARA, Fernando. Modernismo de fachada? Considerações sobre a apropriação popular da estética modernista.'
+  - 'Seminário de História da Cidade e do Urbanismo, 7, Anais.... Salvador: UFBa, 2002.'
+  - 'LE CORBUSIER e JEANNERET, Pierre. Ouevre complete 1910-1929. Zurique: Les editions d’architecture, 1964.'
+  - 'LÉVI-STRAUSS, Claude. Tristes trópicos. São Paulo: Companhia das Letras, 1996.'
+  - 'LUZ, France. O fenômeno urbano numa zona pioneira: Maringá. Maringá: A Prefeitura, 1997.'
+  - 'MONBEIG, Pierre. Pioneiros e fazendeiros de São Paulo. São Paulo: Hucitec: Polis, 1984.'
+  - 'MONTANER, Josep Maria. Después del movimiento moderno. Barcelona: GG, 1995.'
+  - 'REGO, R. L. e DELMONICO, R. Casas de estilo: arquitetura moderna e edificações residenciais em Maringá, estado do'
+  - 'Paraná. Acta Scientiarum, Maringá, v.25, n.2, p.179-184, 2003.'
+  - 'REGO, Renato Leão e SILVEIRA, Aline Montagna da. A arquitetura moderna no interior. Os casos de Marília-SP e'
+  - 'Maringá-PR. Seminário Docomomo Estado de São Paulo, 3, Anais...São Paulo: Mackenzie, 2005.'
+  - 'REGO, Renato Leão et al. Desenhar cidades: padrão e prática da Companhia de Terras Norte do Paraná. In: ENTECA, 5, Maringá. Anais... Maringá: DEC/UEM, 2005, p.21-29.'
+  - 'REGO, Renato Leão. O desenho urbano de Maringá e a idéia de cidade-jardim. Acta Scientiarum, Maringá, v.23, n.6, p.1569-1577, 2001.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1997.'
+  - 'UNWIN, Raymond. La practica del urbanismo. Una introducción al arte de proyectar ciudades e barrios . Barcelona: GG, 1984.'
+  locale: 'pt-BR'
+  file: 'sdpr01-004.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdpr01-005'
+  title: Arquitetura Art Déco em Londrina PR
+  authors:
+  - givenname: Antonio Manuel Nunes
+    familyname: Castelnou
+    email: 'castelnou@exemplo.com'
+    affiliation: UFPR
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: 'A cidade de Londrina, com mais de 70 anos de existência e cerca de meio milhão de habitantes, nasceu a partir de uma iniciativa planejada de ocupação territorial, que a transformou em grande pólo irradiador de desenvolvimento na década de 1940, papel que se consolidou com a expansão da cultura cafeeira na região e seu apogeu nos anos 50, período em que ocorreu a sua efetiva modernização. Ao mesmo tempo em que o desenvolvimentismo predominava em nível nacional, o que acabou se refletindo no âmbito local e, conseqüentemente, na mentalidade de seus administradores, os quais possibilitaram a introdução e a afirmação da arquitetura moderna na cidade, Londrina atingia seu ápice como centro de influência regional. Tal situação coloca o acervo modernista da cidade em destaque, mas não invalida o estudo das bases que este encontrou para ali se consolidar. Diante disto, este artigo procura abordar o período que antecede à transformação moderna da paisagem londrinense, enfocando a arquitetura dos anos 40, predominantemente de características Art Déco e que já possuía elementos questionadores da prática eclética ou, no caso local, das construções vernáculas em madeira. A partir da pesquisa em campo e catalogação de seus principais exemplares, o texto aponta os elementos mais marcantes dessa linguagem arquitetônica, a qual apresentava algumas ênfases técnico-funcionais, geometrização e resgate de unidade estilística. Visando destacar a importância da preservação dessas edificações que antecediam algumas das soluções modernas, esta pesquisa sublinha o valor desse tipo de arquitetura como patrimônio histórico e artístico de todo o Paraná.'
+  references:
+  - 'CASTELNOU, A. M. N. A Influência da produção modernista na transformação do panorama arquitetônico da cidade de londrina nos anos 50. São Carlos: Dissertação de Mestrado, Escola de'
+  - 'Engenharia de São Carlos, Universidade de São Paulo, 1998.'
+  - '_____. Arquitetura Art Déco em Londrina. Londrina: Atrito Art Editorial, 2002a.'
+  - '_____. Arquitetura londrinense: expressões de intenção pioneira. Londrina: Atrito Art Editorial, 2002b.'
+  - 'CONDE, L. P. F.; ALMADA, M. Panorama do Art Déco na arquitetura e no urbanismo do Rio de'
+  - 'Janeiro. In: GUIA DA ARQUITETURA ART DÉCO NO RIO DE JANEIRO. Rio de Janeiro: Index:'
+  - 'Secretaria Municipal de Urbanismo, 1997.'
+  - 'DUCHER, R. Características do estilos. 2a. ed. São Paulo: Martins Fontes, 2001.'
+  - 'DUNCAN, A. Art Déco. London: Thames and Hudson Ltd., 1988.'
+  - 'JOFFILY, J. Londres - Londrina. Rio de Janeiro: Paz e Terra, 1985.'
+  - 'LAMBERT, R. A arte do século XX. São Paulo: Círculo do Livro, 1981.'
+  - 'LASSALLE, H. A gramática dos estilos: a arte do século XX. São Paulo: Martins Fontes, Vol. I, 1986.'
+  - 'LEMOS, C. A. C. Alvenaria burguesa. 2a. ed. São Paulo: Nobel, 1989.'
+  - 'MAENZ, P. Art Déco: 1920-1940. Barcelona: Gustavo Gilli, Col. Comunicación Visual, 1974.'
+  - 'STRINER, R. Art Déco. New York: Abbeville Press, 1997.'
+  - 'TAMBINI, M. O design do século. 2a. ed. São Paulo: Ática, 1999.'
+  - 'WEBER, E. Art Déco. Leicester: Bison Books Ltd., 1993.'
+  - 'ZANI, A. C. Arquitetura em madeira. São Paulo: IMESP, 2003.'
+  - 'ZORTÉA, A. J. Londrina através dos tempos e crônicas da vida. São Paulo: Juriscredi, 1975.'
+  locale: 'pt-BR'
+  file: 'sdpr01-005.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdpr01-006'
+  title: As casas de Lucio Costa
+  authors:
+  - givenname: Marcelo
+    familyname: Carlucci
+    email: 'carlucci@exemplo.com'
+    affiliation: 'EESC-USP'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: 'A partir da tentativa de estabelecer uma nova classificação dos projetos residenciais de Lucio Costa e, ao mesmo tempo, identificar recorrências projetuais que permeiam essa produção, o trabalho procura levantar aspectos peculiares de sua atividade profissional como arquiteto, tendo como base metodológica a leitura livre das imagens disponíveis dos projetos: fotos, desenhos e plantas. Produção informal e sempre motivada por questões subjetivas, suas casas se constituem amplo material de referência para quem quiser lê-las e contextualizá-las. Assim, ao ampliar a visada de Costa para os acontecimentos que marcaram o início de sua carreira, pudemos identificar que o tema habitação esteve presente como pauta primordial nos debates intelectuais brasileiros nas primeiras décadas do século, não sem incursões constantes aos terrenos da moral, da ética higienista e do nacionalismo ufanista. As casas projetadas por Costa, tomadas, por pressuposto, como obras de arte, não teriam sua importância e seu significado restritos ao ambiente sócio-cultural imediato em que foram produzidas – o Rio de Janeiro, antiga capital federal, metrópole e centro nacional de referência – mas cumprem o seu papel de objeto fragmentado, imprevisto, múltiplo e diluído nas diferentes interpretações e leituras que dele pode-se fazer, hoje e futuramente. A busca de um sentido para a relação entre o passado/tradição e o presente/modernidade, assim como todas as implicações que esse aparente paradoxo engendra, configurase como uma possibilidade teórica a ser alcançada ao longo dessa análise das casas de Lucio Costa.'
+  keywords:
+  - Lucio Costa
+  - habitação
+  - arquitetura moderna brasileira
+  references:
+  - 'MOTTA FILHO, Geraldo (org.) O Risco. Lucio Costa e a utopia moderna. Bang Bang filmes. RJ: 2003.'
+  - 'NOBRE, Ana Luiza; KAMITA, João Massao; LEONÍDIO, Otávio; CONDURU, Roberto (orgs.). Lucio'
+  - 'Costa: um modo de ser moderno. São Paulo: Cozac & Naify, 2004.'
+  - 'SILVA, Maria Angélica da (1991). Formas e palavras na obra de Lucio Costa. Dissertação (Mestrado em História) - Dep. de História e Geografia da PUC, Rio de Janeiro.1991.'
+  - 'WISNIK, Guilherme. Lucio Costa. Coleção espaços da arte brasileira, São Paulo: Cosac & Naify, 2001.'
+  - 'COSTA, Lucio. Lucio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995.'
+  - 'XAVIER, Alberto; CENTRO DOS ESTUDANTES UNIVERSITÁRIOS DE ARQUITETURA. Lucio Costa: sobre arquitetura. Porto Alegre: 1962.'
+  - 'CARLUCCI, Marcelo (2005). As casas de Lucio Costa. Dissertação (Mestrado em Teoria e História da Arquitetura e Urbanismo) - Dep. de Arquitetura e Urbanismo da EESC-USP, São Carlos, 2005.'
+  locale: 'pt-BR'
+  file: 'sdpr01-006.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdpr01-007'
+  title: Critérios de conforto ambiental orientam concepção do partido na residência Tolardo
+  authors:
+  - givenname: Carlos Augusto de Melo
+    familyname: Tamanini
+    email: 'tamanini@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Fernanda
+    familyname: Matarazzo
+    email: 'matarazzo@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Renata
+    familyname: Redmerski
+    email: 'redmerski@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Precursores do Moderno
+  abstract: 'O início da ocupação da cidade de Maringá coincide com o período de consolidação da arquitetura moderna no Brasil. Assim, não é difícil constatar elementos dessa corrente em muitos edifícios da cidade. Este estudo analisa um dos expoentes arquitetônicos mais significativos da década de sessenta, a Residência Tolardo, que confirma alguns dos princípios base para a concepção de uma obra moderna, segundo preceitos Corbusianos; entretanto, o fator determinante para a sua escolha consiste no fato de que esse edifício apresenta características que aliam “arte e tecnologia”, proporcionando espaços agradáveis, funcionais e confortáveis. Esse fator faz parte de um projeto de pesquisa que visa analisar edifícios que apresentam o emprego de técnicas de análise na sua concepção e como as estratégias de projeto foram utilizadas no processo projetual. A metodologia do trabalho baseia-se nos estudos de inventário conduzido por professores da Universidade Estadual de Maringá, pela pesquisa e análise do projeto original e visitas in loco. A residência Tolardo, de 1966, foi projetada por Luty Vicente Kasprowicz, compõe o Conjunto Residencial Tolardo. Apresenta evidentes características do movimento moderno, como uso de volume geométrico simples, cobertura plana e janela corrida. Como outras obras da época, esta é dotada dos preceitos da arquitetura racionalista, sendo a estrutura determinante nos demais componentes do projeto. O bem-estar dos usuários foi considerado a partir de algumas estratégias de projeto: orientação dos ambientes, tratamento das superfícies de fechamento (paredes e cobertura), o tamanho e a posição das aberturas, a criação de microclima, o emprego de elementos de controle e técnicas de ventilação. Com este estudo, verifica-se a influência que essa residência sofreu do modernismo e possibilita a reflexão sobre como o domínio técnico influencia a criatividade, permitindo uma atuação consciente do projetista.'
+  keywords:
+  - Arquitetura moderna
+  - conforto ambiental
+  - residência
+  references:
+  - 'ACAYABA, Marlene Millan. Residências em São Paulo. 1947 – 1975. São Paulo: Projeto, 1986.'
+  - 'LAMBERTS, R.; DUTRA, L.; PEREIRA, F. Eficiência energética na arquitetura. São Paulo: PW'
+  - 'REGO, R. L.; DELMONICO, R. Casas de estilo: arquitetura moderna e edificação residenciais em'
+  - 'Maringá, Estado do Paraná. Acta Scientiarun. Technnology. Maringá, v. 25, n° 2, p. 179 –184, 2003.'
+  locale: 'pt-BR'
+  file: 'sdpr01-007.pdf'
+  pages_count: 15
+  pages: null
+
+- id: 'sdpr01-008'
+  title: Depoimento de um Arquiteto carioca
+  subtitle: a atuação de Jorge Ferreira no Paraná
+  authors:
+  - givenname: Marcia
+    familyname: Poppe
+    email: 'poppe@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: null
+  references:
+  - 'COSTA, Renato da Gama-Rosa; RIBEIRO, Cristina; PESSOA, Alexandre; ONISHI, Beatriz Naomi;'
+  - 'ALMEIDA, Leonardo de. A Restauração do Refeitório Central da Fundação Oswaldo Cruz. In:'
+  - 'Anais do 5º Seminário Docomomo Brasil. São Carlos, 2003.'
+  - 'COSTA, Renato da Gama-Rosa; PESSOA, Alexandre; RIBEIRO, Cristina. Restauração do'
+  - 'Refeitório Central. A work in progress. In: Anais do 6º Seminário Docomomo Brasil. Niterói, 2005.'
+  - 'FERREIRA, Jorge. Curriculum Vitae. Encadernação, s/d. . Depoimento [jan. 2006]. Entrevistadores: Luiz Ackel e Hugo Segawa. Teresópolis. 3 fitas cassete (180 min.) . Depoimento [jul. 2006]. Entrevistadora: Marcia Poppe. Teresópolis. 3 fitas cassete (180 min.) . Novo Campus Universitário da Fundação Universidade Estadual de Ponta Grossa.'
+  - 'Relatório de 1977. . Palestra sobre arquitetura. Encadernação, s/d.'
+  - 'GNOATO, L. Salvador P. Introdução ao Ideário Modernista na Arquitetura de Curitiba (1930-1960). 1997. Dissertação (Mestrado em Arquitetura). Faculdade de Arquitetura e Urbanismo.'
+  - 'Universidade de São Paulo. . Preservação da Arquitetura dos Primeiros Modernos em Curitiba. In: Anais do 3º'
+  - 'Seminário Docomomo Brasil. São Paulo, 1999. . Arquitetura e Urbanismo em Curitiba: Transformações do Movimento Moderno. 2002.'
+  - Tese (Doutorado em Arquitetura). Faculdade de Arquitetura e Urbanismo. Universidade de
+  - 'IPPUC. Proposta de Preservação da Arquitetura Moderna em Curitiba. In: Anais do 5º Seminário'
+  - 'Docomomo Brasil. São Carlos, 2003.'
+  - 'SEGAWA, Hugo. Arquitetura na Era Vargas: o avesso da unidade pretendida. Artigo a ser publicado em livro. No prelo.'
+  - 'XAVIER, Alberto; BRITTO, Alfredo; NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro.'
+  - 'São Paulo / Rio de Janeiro: Fundação Vilanova Artigas / Pini / Rioarte, 1991.'
+  - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: PINI, 1982.'
+  locale: 'pt-BR'
+  file: 'sdpr01-008.pdf'
+  pages_count: 20
+  pages: null
+
+- id: 'sdpr01-009'
+  title: Grande Hotel Maringá
+  authors:
+  - givenname: Aníbal Verri
+    familyname: Júnior
+    email: 'junior@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: null
+  references:
+  - COMPANHIA MELHORAMENTOS NORTE DO PARANÁ – Colonização e desenvolvimento do
+  - 'Norte do Paraná, publicação comemorativa do Cinqüentenário da Companhia de Melhoramentos'
+  - 'Norte do Paraná, São Paulo, s.e., 1975.'
+  - 'COSTA, Lúcio. Documentação Necessária, 1937. In Lúcio Costa – Sobre Arquitetura, Porto'
+  - 'COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo, Empresa das Artes, 1995 2 a. edição.'
+  - 'VERRI, ANÍBAL JR. A obra do arquiteto José Augusto Bellucci em Maringá . São Paulo,'
+  - 'Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. Fevereiro de 2001.'
+  - Dissertação de Mestrado.
+  locale: 'pt-BR'
+  file: 'sdpr01-009.pdf'
+  pages_count: 23
+  pages: null
+
+- id: 'sdpr01-010'
+  title: O Arquiteto João Antonio Monteiro Neto
+  authors:
+  - givenname: Günter
+    familyname: Weimer
+    email: 'weimer@exemplo.com'
+    affiliation: UFRGS
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: 'A literatura paranaense que trata dos precursores do modernismo tem citado os arquitetos Frederico Kirchgässner da década de 1930 e Ayrton Cornelsen, a partir da década de 1940. Até o presente, não tenho encontrado referências a Monteiro Neto, nascido na cidade de Lapa, em 1893. A partir de 1916, trabalhou em diversas firmas importantes do Rio de Janeiro tendo participado de obras do porte do Ministério da Guerra e da Catedral de Petrópolis. Em 1927 voltou a Curitiba onde trabalhou como na Secretaria de Obras do Estado. Em fins de 1929 veio a Porto Alegre onde exerceu suas atividades na Diretoria do Saneamento da Prefeitura Municipal onde ficou pouco tempo. Em 1931 foi nomeado arquiteto-chefe da firma Barcelos & Cia. e de 1936 a 1940, atuou na mais importante construtora do Estado, a Azevedo Moura & Gertum. Em fins de 1940 entrou de sócio na firma Spolidoro & Cia. na qual foi o responsável pelo Departamento de Projetos. A partir de 1948 manteve um escritório próprio de arquitetura que foi um dos mais ativos senão o de maior produção da cidade até os primeiros anos da década de 1950. Devido a doenças, teve de diminuir o ritmo de suas atividades e veio a falecer em 1956. Embora nunca tenha abandonado suas vinculações com as linguagens historicistas, foi um dos expoentes do modernismo na cidade com a realização de diversas residências já nos inícios da década de 1930 e, enquanto trabalhava da Firma Azevedo Moura & Gertum realizou uma das obras mais importantes da cidade, o edifício Vera Cruz, além de outros, nas Avenidas Independência e Salgado Filho. Apesar de sua ambivalência referente ao emprego de diversas linguagens arquitetônicas, não há dúvida que foi um dos expoentes mais importantes do início do modernismo no Rio Grande do Sul.'
+  keywords:
+  - Monteiro Neto. Precursores do modernismo. Inícios do modernismo
+  locale: 'pt-BR'
+  file: 'sdpr01-010.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdpr01-011'
+  title: Sérgio Rodrigues e o Paraná
+  authors:
+  - givenname: Tânia Nunes
+    familyname: Galvão
+    email: 'galvao@exemplo.com'
+    affiliation: 'FAU-USP'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: null
+  references:
+  - 'ACAYABA, Marlene Milan. Branco & Preto - Uma história do design brasileiro nos anos 50. São'
+  - 'Paulo, Pontos Sobre o Brasil - Instituto Lina Bo e P. M. Bardi, 1994.'
+  - 'ARGAN, Giulio Carlo. Arte Moderna. São Paulo, Cia das Letras, 1992.'
+  - 'BAYEUX, Glória e SAGGESE, Antônio. O Móvel da Casa Brasileira. São Paulo, Museu da Casa'
+  - 'CALS, Soraia. Sérgio Rodrigues. Introdução Millôr Fernandes; ensaio Maria Ceília Loschiavo dos'
+  - 'Santos; perfil bibliográfico André Sefrin; fotografia Paulo Affonso Agapito da Veiga – Rio Janeiro, 2000.'
+  - 'COSTA, Lúcio. Registro de uma Vivência. São Paulo: Empresa das Artes,1995.'
+  - 'GNOATO, Luís Salvador Petrucci. Introdução ao Ideário Modernista na Arquitetura de Curitiba (1930-1965). Dissertação de Mestrado defendida na FAUUSP, 1997.'
+  - 'GRAEFF, Edgar A. Arte e Técnica na Formação do Arquiteto.São Paulo, Studio Nobel: Fundação'
+  - 'Vilanova Artigas, 1995.'
+  - 'KATINSKY, Júlio Roberto. Leituras de Arquitetura, Viagens e Projeto. São Paulo, 1990. Tese –'
+  - 'Livre-Docência/FAUUSP.'
+  - 'RODRIGUES, Sérgio. O Espelho do Dragãozinho. Revista Senhor, maio, 1963.'
+  - 'SANTOS, Maria Cecília Loschiavo dos. Móvel Moderno no Brasil. Studio Nobel. Fapesp. Edusp, 1995.'
+  - 'SANTOS, Maria Cecília Loschiavo dos. Tradição e Modernidade no Móvel Brasileiro. Visões da Utopia na Obra de Carrera,'
+  - 'Tenreiro, Zanine e Sérgio Rodrigues. São Paulo, 1993. Tese apresentada à Faculdade de'
+  - 'Filosofia, Letras e Ciências e Humanas da USP para obtenção do título de Doutor em Filosofia.'
+  - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. Editora Pini, Curitiba, 1986'
+  locale: 'pt-BR'
+  file: 'sdpr01-011.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdpr01-012'
+  title: Uma casa de Hermann Muthesius em Curitiba
+  authors:
+  - givenname: Humberto
+    familyname: Mezzadri
+    email: 'humbertomezzadri@gmail.com'
+    affiliation: UFRGS
+    orcid: '0000-0003-0690-1240'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Precursores do Moderno
+  abstract: null
+  references:
+  - 'Amaral, Aracy coord. Arquitectura neocolonial – América Latina, Caribe, Estados Unidos. Fundação Memorial da América Latina, São Paulo, 1994'
+  - 'Banham, Reyner Teoria e projeto na primeira era da máquina. 2a edição, Perspectiva, São Paulo, 1979'
+  - 'Collins, Peter Los ideales de la arquitectura moderna; su evolucion (1750 – 1950). 5a edição, Gustavo Gili,'
+  - 'Colquhoun, Alan Modern architecture. Oxford University Press, Oxford, 2002'
+  - 'Duarte, Rodrigo e Figueiredo, Virgínia org. Mímesis e espressão. Editora UFMG, Belo Horizonte, 2001'
+  - 'Dudeque, Irã Taborda Espirais de Madeira – Uma história da arquitetura de Curitiba. Nobel, São Paulo, 2001'
+  - 'Muthesius, Hermann Landhäuser. 2a edição, F. Bruckmann A. G. Munique, 1922'
+  - 'Muthesius, Hermann Style-architecture and building-art: transformations of architecture in the nineteenth century and its present condition. Introdução e tradução de Stanford Anderson, The Getty Center, Santa Monica,'
+  - 'Pevner, Nikolaus Pioneiros do desenho moderno – de William Morris a Walter Gropius. Martins Fontes, São'
+  - 'Puglisi, Luigi Prestinenza Forme e ombre – Introduzione all’architettura contemporanea 1905-1933. Testo & imagine, Turim, 2003'
+  - 'Puppi, Ildefonso Fatos e reminiscências da faculdade – retrospecto da Escola de Engenharia da Universidade'
+  - 'Federal do Paraná. Curitiba, 1986'
+  - 'Tafuri, Manfredo e Dal Co, Francesco Architettura contemporanea. Electa, Milão, 2002'
+  locale: 'pt-BR'
+  file: 'sdpr01-012.pdf'
+  pages_count: 18
+  pages: null
+
+- id: 'sdpr01-013'
+  title: A formação da Modernidade em Santo Ângelo
+  authors:
+  - givenname: Rodrigo Fabrício
+    familyname: Kerber
+    email: 'kerber@exemplo.com'
+    affiliation: UFSC
+    orcid: '0000-0002-2918-7847'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: null
+  references:
+  - 'CALLEGARO, Adriana. Uma outra Modernidade em Porto Alegre: Um estudo sobre a evolução de'
+  - 'Padrões Tipológicos a partir da Arquitetura da Exposição Farroupilha. Porto Alegre: UFRGS.'
+  - 'Dissertação [Mestrado em Teoria, História e Crítica da Arquitetura] – PROPAR, Faculdade de'
+  - 'Arquitetura, Universidade Federal do Rio Grande do Sul, 2002.'
+  - 'FERREIRA, Jurandyr Pires. Enciclopédia dos Municípios Brasileiros. Vol. XXXIV. Instituto Brasileiro de Geografia e Estatística: Rio de Janeiro, 1959.'
+  - 'FROTA, José Artur D’Aló. A Permanência do Transitório. In: Arqtexto: Revista do Departamento de'
+  - 'Arquitetura e do PROPAR. UFRGS. V. 1, n. zero, 2000. P. 13-21. Porto Alegre: Faculdade de'
+  - 'Arquitetura, UFRGS, 2000.'
+  - 'KERBER, Rodrigo Fabrício. Levantamento Arquitetônico e Urbanístico: Construtora Santo Angelense'
+  - 'Ltda, 1932 -1938, Porto Alegre, 2005.'
+  - 'Relatório Apresentado ao Conselho Municipal pelo intendente Ulysses Rodrigues. Santo Ângelo, 1929.'
+  - ROSA. Alexandre Martins da. Planta da Villa de Santo Ângelo. Administração Carlos Kruel. Santo
+  - 'SANTO ÂNGELO.Registro de Atos do Intendente. !897-1918.'
+  - 'SILVEIRA, Hemetério José Velloso da. As Missões Orientais e seus antigos domínios. Porto Alegre.'
+  - 'WEIMER, Günter. Arquitetos e Construtores no Rio Grande do Sul, 1892-1945. Santa Maria: Editora'
+  - 'WEIMER, Günter. Arquitetura Modernista em Porto Alegre entre 1930 a 1945. Porto Alegre: Unidade'
+  - 'Editorial. Porto Alegre,1998.'
+  - 'Editorial. A Arquitetura Erudita da Imigração Alemã no Rio Grande do Sul. Porto Alegre: Edições'
+  - 'YUNES, Gilberto Sarkis. Cidades Reticuladas: a persistência do modelo na formação da rede urbana do Rio Grande do Sul. Tese de Doutorado. São Paulo: FAU – USP, 1995.'
+  locale: 'pt-BR'
+  file: 'sdpr01-013.pdf'
+  pages_count: 13
+  pages: null
+
+- id: 'sdpr01-014'
+  title: 'A gestão de Rafael Dely na COHAB-ct'
+  authors:
+  - givenname: Caroline Gural
+    familyname: Nunes
+    email: 'nunes@exemplo.com'
+    affiliation: 'PUC-PR'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: 'O trabalho refere-se à importância da gestão de Rafael Dely na Cohab-CT; evidenciando as Habitações de Interesse Social na Cidade de Curitiba e sua consolidação como projeto urbano, arquitetônico, político, social e objeto transformador da Arquitetura Moderna. A elaboração de planos urbanos em Curitiba vinha tentando adaptar-se a nova realidade social; mas somente em 1964 com o Plano Wilheim-IPPUC, as coisas começaram a funcionar adequadamente, onde Rafael Dely participa ativamente da implantação. Também neste período (1965) é criada a Companhia de Habitação Popular de Curitiba (Cohab-CT). A década de 70 acompanha o processo com a implantação do Plano Diretor na cidade. Mas o “auge” da política social curitibana ocorre no início dos anos 80, quando Rafael Dely estava na presidência da Cohab-CT (1979-1983). Esta gestão muda a política da Cohab-CT desde o uso de verbas na viabilidade dos projetos até significativas alterações arquitetônicas. Há um rompimento das concepções dos tradicionais conjuntos do BNH e a prova de que existe viabilidade no princípio da “humanização” da moradia também para a população de baixa renda. A gestão de Dely trata as Habitações de Interesse Social observando a cidade, sua história e cultura, causando significativas transformações na Cohab-CT e consequentemente na Cidade de Curitiba.'
+  keywords:
+  - Habitação
+  - Moderna
+  - Curitiba
+  - Social
+  - Política Habitacional
+  references:
+  - 'BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Perspectiva, 1976.'
+  - 'BONBUKY, Nabil. Origens da habitação social no Brasil. São Paulo: Estação Liberdade/FAPESP, 1998.'
+  - 'BRUNA, Paulo Júlio Valentino. Arquitetura, Industrialização e desenvolvimento. São Paulo: Perspectiva, 1976.'
+  - 'BRUNA, Paulo Júlio Valentino. Os primeiros arquitetos modernos: Habitação social no Brasil 1930-1950 . São Paulo,'
+  - 'Tese Livre Docência. FAU-USP, 1998.'
+  - 'COHAB CT. Habitação Popular: O grande Mutirão do Paraná – I Encontro de Cohab´s do Paraná - Documento Final.'
+  - 'COHAB CT. Relatório de Diretoria – Gestão 1979/1983 - Documento Final. Curitiba, 1983.'
+  - 'COHAB CT. Relatório de Diretoria – Gestão 2002/2004 - Documento Final. Curitiba, 2004.'
+  - 'COVELLO, Teresa E. Gomes. A análise da Concepção dos Empreendimentos Habitacionais da Cohab-CT . Monografia para conclusão do Curso de Pós-Graduação GTU Brasil - Puc-Pr, UTC-França, CITPAR,1992.'
+  - 'DELY, Rafael Bernardo. Uma concepção mais humana da Moradia de Interesse Social no contexto urbano – Programa'
+  - 'Habitacional Cidade Industrial de Curitiba. Curitiba: IPPUC, 1996.'
+  - 'DUDEQUE, Irã Taborda. Espirais de Madeira. São Paulo: Stúdio Nobel, 2001.'
+  - 'FINEP. Habitação popular: Inventário da Ação Governamental. Rio de Janeiro: Garilli, 1985.'
+  - 'FISCHER, Sylvia; ACAYABA, Marlene Milan. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982.'
+  - 'GARAU, Pietro. Planejamento Urbano - Cidades do Brasil . Curitiba: Prefeitura Municipal de Curitiba, 2006. Disponível em < http://www.curitiba.pr.org.br/ctba/esp140.asp.> Acesso em 29 jun. 2006, 09:13:30.'
+  - 'GNOATO, Luis Salvador. Curitiba, cidade do amanhã: 40 anos depois. Algumas premissas teóricas do Plano WilheimIPPUC. São Paulo: Vitruvius, 2006. Disponível em: < http://www.vitruvius.com.br/arquitextos/arq072/arq072_01.asp.> Acesso em 01jul. 2006, 16:49:35.'
+  - 'GNOATO, Luis Salvador. Introdução do Ideário Modernista na Arquitetura de Curitiba. Dissertação de Mestrado'
+  - 'FAUUSP, São Paulo, 1997.'
+  - 'IPPUC. Memórias da Curitiba Urbana. 2ªed. Curitiba, nov. 1989. 37p. (Depoimentos, 1)'
+  - 'IPPUC. Memórias da Curitiba Urbana. 2ªed. Curitiba, dez. 1990. 118p. (Depoimentos, 5)'
+  - 'IPPUC. Memórias da Curitiba Urbana. 2ªed. Curitiba, set. 1991. 320p. (Depoimentos, 7)'
+  - 'IPPUC; COHAB-CT; PMC. Política Habitacional de Interesse Social – Plano de Desfavelamento - Documento Final – mimeo: Curitiba, mar. 1976.'
+  - 'MARICATO, Ermínia. Auto-construção : a arquitetura possível. São Paulo: Fau, 1976.'
+  - 'MINDLIN, Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.'
+  - 'PRESTES, Lucinda Ferreira. A arquitetura como produção social e o papel do arquiteto. Entrevista a Nestor Goulart'
+  - 'Reis Filho em 06/07/1998 por Miguel Alves Pereira. 1ªed. São Paulo: FAUUSP, 1999.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
+  - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: Pini, 1982.'
+  locale: 'pt-BR'
+  file: 'sdpr01-014.pdf'
+  pages_count: 21
+  pages: null
+
+- id: 'sdpr01-015'
+  title: A persistência do clássico na Arquitetura e sua influência na Arquitetura Moderna
+  authors:
+  - givenname: Joseane Alves de
+    familyname: Lima
+    email: 'lima@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: 'A arquitetura clássica tem sido a inspiração de muitos arquitetos no decorrer dos séculos. A harmonia, simplicidade e beleza que emanam de suas formas, são as principais características dessa arquitetura que sobrevive ao tempo. Para a arquitetura moderna, a simplicidade das formas clássicas, trouxe uma solução compatível às necessidades arquitetônicas da época. Esse movimento, que surgiu na primeira metade do século XX, teve efeitos tão fortes e se espalhou com tanta precisão, que causou uma grande transformação na arquitetura mundial. Este trabalho tem por objetivo estudar a persistência do clássico ao longo da história, bem com sua influência sobre a Arquitetura moderna. Primeiramente, é feita uma revisão histórica de vários períodos que sofreram influência clássica como: renascimento, barroco, neoclassicismo e outros, destacando seus principais arquitetos e obras. Num segundo momento é feito um estudo de sua influência sobre a arquitetura moderna e seus principais representantes. Por fim, faz-se uma análise do projeto do Seagram Building, do arquiteto Ludwig Mies van der Rohe, na cidade de Nova York, e do edifício da Caixa Econômica Federal, de autoria do engenheiro Rubens Meister, na cidade de Curitiba, dando a este último atenção especial, destacando-o como um dos representantes da Arquitetura Moderna Paranaense.'
+  locale: 'pt-BR'
+  file: 'sdpr01-015.pdf'
+  pages_count: 14
+  pages: null
+
+- id: 'sdpr01-016'
+  title: A presença carioca na Arquitetura Moderna Paranaense
+  subtitle: ascendências de uma ideia
+  authors:
+  - givenname: Isadora Ruiz
+    familyname: Dias
+    email: 'dias@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Cristiane Harumi
+    familyname: Suzuki
+    email: 'suzuki@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Érica Aparecida
+    familyname: Ruiz
+    email: 'ruiz@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Natália Mayumi
+    familyname: Okamoto
+    email: 'okamoto@exemplo.com'
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: As Cidades Assumem o Moderno
+  abstract: 'Analisa a bibliografia produzida sobre a arquitetura moderna paranaense e investiga a pendular influência das chamadas “escola carioca” e “escola paulista”. A influência “paulista” se confirma tanto pela atuação do arquiteto paranaense Vilanova Artigas quanto por profissionais que migraram para o Paraná. Este trabalho foca sua análise na validade da segunda influência - de uma modernidade carioca. Para tanto analisa dois edifícios paradigmáticos dessa linhagem: o Ministério da Educação e Saúde no Rio de Janeiro (1937-43) e o Pavilhão do Brasil na Feira Mundial de Nova York (1939-40). A análise discorre sobre a volumetria, partido e inovações arquitetônicas que os caracterizaram, em um primeiro momento, como criações autenticamente brasileiras e que mais tarde receberam por parte da crítica a designação de arquitetura da escola carioca: jogo de curvas, mezanino sinuoso, entrada monumental, cobogós, flora e fauna típicas do país. Em seguida verifica na arquitetura moderna produzida no norte do Paraná (Londrina e Maringá) - edifícios públicos e de uso coletivo, residências burguesas e na cultura arquitetônica vernacular - a presença desses mesmos elementos. Como resultado, espera-se que este trabalho seja um registro inicial das obras realizadas na região por profissionais cariocas e de obras significativas que notadamente se nutriram dessa influência.'
+  keywords:
+  - arquitetura moderna
+  - arquitetura paranaense
+  - escola carioca
+  - arquitetura em Londrina
+  - arquitetura em Maringá
+  references:
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.'
+  - 'CASA de LUCIO COSTA, disponível em < http://www.casadeluciocosta.org/ > acessada em 21 de abril de 2006.'
+  - 'COMAS, Carlos Eduardo. Arquitetura Moderna, estilo Corbu, Pavilão Brasileiro. AU 26.'
+  - 'COMAS, Carlos Eduardo. Protótipo, Monumento, um Ministério, o Ministério. Projeto 102. São Paulo, 1987.'
+  - 'COSTA, Lucio. Lucio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995.'
+  - 'FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo: Martins'
+  - 'Fontes, 1997, pp 310-1.'
+  - 'GOODWIN, Phillip L. Brazil builds: architecture old and new: 1652-1942. Nova York,'
+  - 'Museu de Arte Moderna – MOMA, 1943.'
+  - 'MATTIE, Erik. World´s Fair. Nova York: Princeton Architectural Press, 1998.'
+  - 'MEDICUS COLLECTION. New York World''s Fair, 1939-40. Disponível em < http://open-video.org/ > acessado em abril de 2003.'
+  - 'MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999, pp.202-3.'
+  - 'REGO, Renato Leão. Breve História de Três Idéias: Motivos formais recorrentes na produção da arquitetura moderna brasileira. Cuiabá: Colóquio Arquitetura Brasileira:'
+  - 'SUZUKI, Juliana. Artigas e Cascaldi. São Paulo: Ateliê Editorial: 2003'
+  - 'WATHEN COLLECTION. New York World''s Fair, 1939-40 (Amateur film). Disponível em < http://open-video.org/ > acessado em abril de 2003.'
+  - 'WORLD’S FAIR 1939-1940 Nova Iorque. Pavilhão do Brasil: Feira Mundial de Nova'
+  - 'York de 1939. Nova York: H. K. Publising, 1939.'
+  - 'WISNIK, Guilherme. Lucio Costa.2001.Espaços da Arte Brasileira. Cosac e Naify'
+  locale: 'pt-BR'
+  file: 'sdpr01-016.pdf'
+  pages_count: 22
+  pages: null
+
+- id: 'sdpr01-017'
+  title: 'Arquitetura residencial paulista dos anos 1960-1970'
+  authors:
+  - givenname: Maria Cecília
+    familyname: Tavares
+    email: 'tavares@exemplo.com'
+    affiliation: UNERJ
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdpr01-017.pdf'
+  pages_count: 10
+  pages: null
+
+- id: 'sdpr01-018'
+  title: Espaço urbano de Curitiba em seis décadas de Modernidade
+  subtitle: suas raízes e seus prognósticos
+  authors:
+  - givenname: Cláudio
+    familyname: Menna
+    email: 'menna@exemplo.com'
+    affiliation: IPPUC
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Paulo
+    familyname: Chiesa
+    email: 'chiesa@exemplo.com'
+    affiliation: UFPR
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: As Cidades Assumem o Moderno
+  abstract: 'A concepção da cidade de Curitiba contida no Plano Agache de 1943, vigorou por duas décadas. Os conceitos urbanísticos que lhe sucederam, a partir do Plano Preliminar de Urbanismo realizado em 1965, foram estimulados, na região, pela implementação do ensino da arquitetura e do urbanismo. A partir daí, o plano foi desenvolvido, atualizado e mantido durante quatro décadas. Ambas vertentes de prática urbanística continuada sobre o mesmo território, compõem um período de seis décadas, cuja memória regional está vinculada à modernidade dos espaços coletivos e às expressões contemporâneas na paisagem do cenário metropolitano. A compreensão e o conhecimento, que hoje é possível obter avaliando tal período, impõe, uma leitura das raízes culturais que remontam aos séculos dezoito, dezenove e vinte, até o Plano Agache, bem como das peculiaridades geopolíticas e naturais que caracterizaram Curitiba. São fatores que contribuíram para determinar suas configurações, significados e conformação espacial: emblemas do planejamento urbano praticado na cidade, que ainda irradia influências nacionais e mundo afora. É a partir desses dois painéis, - de um lado a vocação pela modernidade, expandindo-se à contemporaneidade do mundo globalizado e, de outro lado, raízes coloniais, imperiais, imigratórias e republicanas - que poderemos esboçar algumas linhas de prognósticos para Curitiba. O que a história modernista nessas iniciativas de planejamento urbano, reconhecidas internacionalmente por ações efetivas tão persistentemente praticadas, poderia hoje nos insinuar, tendo em vista um horizonte projetado para, digamos, os cenários até metade do século vinte e um? Esta breve comunicação técnica pretende lançar algumas leituras e olhares na direção de tal futuro. Para que nós, - técnicos, estudiosos e segmentos da sociedade -, possamos refletir e contribuir sobre os desígnios de cidades que, assim como Curitiba e as suas várias linguagens espaciais de pós-modernidade, são vistas como expressão de uma dimensão metropolitana, regional e globalmente cosmopolita. Palavras- chave: Memória-Regional, modernidade, prognósticos, espaço-urbano, planejamentourbano. 2'
+  locale: 'pt-BR'
+  file: 'sdpr01-018.pdf'
+  pages_count: 17
+  pages: null
+
+- id: 'sdpr01-019'
+  title: 'Luis forte Netto, Francisco Moreira e José Maria Gandolfi'
+  subtitle: três projetos de prédios escolares por dois escritórios de Arquitetura Paulistanos do início da década de 1960
+  authors:
+  - givenname: André Augusto de Almeida
+    familyname: Alves
+    email: 'alves@exemplo.com'
+    affiliation: UEM
+    orcid: '0000-0001-7953-9372'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: 'O artigo trata de três projetos de prédios escolares projetados para o IPESP – Instituto de Previdência do Estado de São Paulo – pelos escritórios de Luis Forte Netto, Francisco Moreira e José Maria Gandolfi nos primeiros meses de 1962. Luis Forte Netto gradua-se na Universidade Mackenzie, em São Paulo, iniciando atividade profissional em escritório próprio em 1958 e transferindo-se para Curitiba por ocasião da vitória no concurso para o Clube de Campo Santa Mônica, em 1962. É de fevereiro de 1962 o projeto para o Ginásio de Vila Arens em Jundiaí, elaborado com o curitibano Francisco Moreira no escritório então instalado na sala 13 do número 1333 da Av. São João, em São Paulo. Luis Forte Netto e Francisco Moreira são acompanhados em sua mudança para a capital paranaense pelo colega de faculdade José Maria Gandolfi, e associam-se no escritório Forte/Gandolfi. São deste último arquiteto os projetos do Grupo Escolar de Pedreira, elaborado em janeiro de 1962, e do Grupo Escolar de Guapiaçu, elaborado em abril deste mesmo ano, no escritório localizado no segundo andar da Rua Major Sertório 110. Os projetos são apresentados através de fac-similes em alta resolução de suas pranchas originais, e levantamentos fotográficos recentes, acompanhados de uma revisão dos textos referenciais dedicados a seus autores e observações acerca de aspectos relevantes da produção em tela. Destacam-se desde esta primeira abordagem questões relativas à metodologia projetual, bem como questões espaciais, plásticas e construtivas pertinentes à leitura histórica dessa arquitetura, e à sua preservação.'
+  keywords:
+  - arquitetura escolar
+  - arquitetura moderna
+  - São Paulo
+  - IPESP
+  - Carvalho Pinto
+  references:
+  - 'BARDI, Pietro Maria. Arte Brasileira. Rio de Janeiro: Ministério das Relações Exteriores/ Abril,'
+  - 'DUQUEQUE, Irã Taborda.'
+  - 'Espirais de madeira: uma história da arquitetura de Curitiba. São Paulo:'
+  - 'Studio Nobel/ Fapesp, 2001.'
+  - 'FERREIRA, Avany de F.; Mello, Mirella G. de.'
+  - 'Arquitetura escolar paulista: anos 1950 e 1960. São'
+  - 'GNOATO, Luis Salvador Petrucci'
+  - 'Arquitetura e urbanismo de Curitiba: transformações do movimento moderno. São Paulo: [s.n.], 2002. (tese de doutorado apresentada à FAUUSP).'
+  - 'GNOATO, Luis Salvador Petrucci'
+  - 'Introdução do Ideário Modernista na arquitetura de Curitiba (1930 – 1965). São Paulo: [s.n.], 1997. (dissertação de mestrado apresentada à FAUUSP).'
+  - 'Arquitetura Brasileira. São Paulo: Melhoramentos/EDUSP, 1979.'
+  - 'LEMOS, Carlos A. C. Arquitetura Contemporânea. In: ZANINI, Walter (org). História Geral da Arte'
+  - 'no Brasil. São Paulo: Instituto Moreira Salles, 1983, v. 2, p. 825-865.'
+  - 'SEGAWA, HugoM. Arquiteturas no Brasil: 1900 – 1990.'
+  - 'São Paulo: EDUSP, 1997.'
+  - 'XAVIER, Alberto Melchiades. Arquitetura moderna em Curitiba. São Paulo: Pini; Curitiba:'
+  - 'Fundação Cultural de Curitiba, 1985.'
+  locale: 'pt-BR'
+  file: 'sdpr01-019.pdf'
+  pages_count: 22
+  pages: null
+
+- id: 'sdpr01-020'
+  title: O Centro Cívico de Curitiba e os CIAM
+  authors:
+  - givenname: Maria Beatriz Camargo
+    familyname: Cappello
+    email: 'mbcappello@uol.com.br'
+    affiliation: UFU
+    orcid: '0000-0002-0930-5826'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: null
+  references:
+  - CIAM. (1947). CONGRESS. CIAM Congress at Bridgwater. Lectures on ‘Urbanism’ by Walter Gropius and ‘Architectural Expression’ by J.M. Richards and an intervention by Le Corbusier. Architects’
+  - 'Journal, vol. 106 (2746):276-279, september 25.'
+  - 'CIAM. (1948). Grille ciam d''urbanisme : mise en pratique de la charte d''athenes Bolougne-Sur-Seine :'
+  - Architectura D'aujord'hui
+  - 'CIUCCI, Giorgio. (1980). Il Mito Movimento Moderno e le vicende dei CIAM. Casabella. Nº463/464, nov./dez., número especial “Il dibattito sul Movimento Moderno”, p. 28-35'
+  - 'COSTA, Lucio; GIEDION, Siegfried; GROPIUS, Walter; HITCHCOCK, Henry-Russel; HOLFORD,'
+  - 'William; PAULSSON, Gregor e ROTH Alfred. (1948). In search of a New Monumentality. (a symposium ). Architectural Review, London, v. 104 (621):117-28, sept.'
+  - 'GIEDION, S. LEGER, F. e SERT, J. L. (1943). Nine Points on Monumentality. In: Architektur und'
+  - 'Gemeinschaft. Hamburg: Rowohlt, 1956 ( trad. em português ) Arquitectura e comunidade. Lisboa :'
+  - 'Livros do Brasil, (?)'
+  - 'GIEDION, Siegfried. (1951). A decade of new architecture. Zürich, Girsberger.'
+  - 'GIEDION, Siegfried. (1956). Architektur und Gemeinschaft. Hamburg: Rowohlt, ( trad. em português )'
+  - 'Arquitectura e comunidade. Lisboa : Livros do Brasil, (?)'
+  - 'GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The'
+  - Museum of Modern Art.
+  - 'GROPIUS, Walter (1947). ‘Urbanism’. 6º CIAM Congress at Bridgwater. Architects’ Journal, vol. 106 (2746):276-277, september 25.'
+  - JANNIERE; Helene. (2002). Politiques editoriales et architecture de nouvelles revues en France et en
+  - 'Italie (1923-1939). Paris, Arguments.'
+  - 'L’ARCHITECTURE d’Aujourd’hui. (1952). Brésil. Ano 23º, nº 42/43 mar. nº especial'
+  - 'LE CORBUSIER. (1936). L’Architecture et les Arts Majeurs. Trad. port. A arquitetura e as Belas-Artes.'
+  - 'Revista do Patrimonio Histórico e Artistico Nacional (19):53-69, 1984'
+  - 'LE CORBUSIER. (1943). La Charte d''Athénes: Travaux du 4me. CIAM, Paris, Plon. Trad. Cast.'
+  - 'Principios de Urbanismo (La Carta de Atenas ), Barcelona, Ariel, 1971. Trad. Brasileira Rebeca'
+  - 'Scherer, São Paulo, HUCITEC/EDUSP, 1993.'
+  - 'LE CORBUSIER. (1952). Canteiro de Síntese das Artes Maiores. In: SANTOS, C. R. et. alli (1987). Le'
+  - 'Corbusier e o Brasil. São Paulo, Projeto/Tessela, p. 239-241. “LÊS ACTES OFFICIELS DU VIIº C.I.A.M”. Metron (33-34):49-72, 1949.'
+  - 'MIRANDA, C. L. (1998). A crítica nas revistas de arquitetura nos anos 50: a expressão plástica e a síntese das artes. Dissertação (Mestrado) EESC-USP.'
+  - 'MUMFORD, Eric Paul. (2000). The CIAM discourse on urbanism, 1928-1960.Cambridge, Mass.: MIT'
+  - 'OCKMAN, Joan.(1997). Los años de la guerra: Nueva York, Nueva Monumentalidad. In: COSTA,'
+  - 'Xavier, and Guido Hartray. (Org). Sert: Arquitecto a Nueva York. Barcelona: MACBA.'
+  - 'RICHARDS, J. M. (1947). ‘Architectural Expression’. 6º CIAM Congress at Bridgwater. Architects’'
+  - 'Journal, vol. 106 (2746):277-279, september 25, 1947.'
+  - 'ROGERS, Ernest N., José Luis Sert, Jaqueline Tyrwhitt (org.)(1954). Il Cuore della città: per una vita umana della comunità. Milano: Hoepli. Título original: The heart of the city; tradução de Julia Banfi'
+  - 'SANTOS, C. R. et. alli (1987). Le Corbusier e o Brasil. São Paulo, Projeto/Tessela,.'
+  - 'SERT, José Luis. (1942).Can our cities survive? : an ABC of urban problems, their analysis, their solutions; based on the proposals formulated by the C.I.A.M., International Congresses for Modern'
+  - 'Architecture. Cambridge; London : Harvard University Press: H. Milford, Oxford University Press.'
+  - 'Introdução, Sigfried Giedion, secretary of the C.I.A.M'
+  - 'SERT, J. L. (1944). “The Human Scale in City Planing”. In: Zucker, Paul (org.) New architecture and city planning : a symposium. New York : Philosophical Library. p. 392-412.'
+  - 'SILVA, Fernanda Fernandes da. (2001). ‘Bienal 50 anos : exposições internacionais de arquitetura’. In: 50 anos Bienal de São Paulo = 50 years of the São Paulo Biennial: 1951-2001 São Paulo :'
+  - 'Fundação Bienal de São Paulo, 2001, p. 262-287.'
+  locale: 'pt-BR'
+  file: 'sdpr01-020.pdf'
+  pages_count: 11
+  pages: null
+
+- id: 'sdpr01-021'
+  title: O Modernismo nos espaços do poder e suas relações com a gestão urbana
+  subtitle: reflexões sobre o Centro Cívico de Curitiba — Paraná
+  authors:
+  - givenname: Flávia Tosta
+    familyname: Padilha
+    email: 'padilha@exemplo.com'
+    affiliation: 'PUC-PR'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Letícia Peret Antunes
+    familyname: Hardt
+    email: 'hardt@exemplo.com'
+    affiliation: 'PUC-PR'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: As Cidades Assumem o Moderno
+  abstract: 'A partir da análise e interpretação de conceitos referentes a espaços de poder inseridos na paisagem urbana, tem-se a compreensão dos processos evolutivos mundiais para a sua conformação. Com destacada expressão no Brasil nas décadas de 30 e 40, o Modernismo representa uma das vertentes que nortearam a implantação de inúmeras obras relacionadas ao poder no país, a exemplo do Centro Cívico de Curitiba. Como estudo de caso, parte-se da análise do complexo modernista de poder na capital paranaense, indicando-se as influências deste local na configuração do seu entorno. Também são contempladas, neste contexto, as preocupações da gestão da cidade com a manutenção da identidade do complexo cívico e com a sua valorização, por meio da criação de eixos, esplanadas, praças e equipamentos, dentre outros componentes urbanos. Assim, tem-se um conjunto de reflexões acerca dos principais aspectos histórico-culturais que envolvem os espaços de poder, com especial ênfase àqueles vinculados ao Modernismo, abordando-se, em maior grau de detalhe, os aspectos relacionados ao estudo de caso, partindo-se da sua idealização pelo Plano Agache, na década de 40, e alcançando-se políticas públicas de planos diretores posteriores. Como conclusões, são apresentadas as influências modernistas na conformação da cidade e as relações existentes entre espaços de poder e seu entorno, com destaque para a escala humana, posto que atualmente a arquitetura e o urbanismo se voltam para a humanização das suas obras, visando aos seus reais usuários e representando um olhar moderno sobre os espaços consolidados da cidade.'
+  keywords:
+  - Modernismo. Poder. Gestão Urbana. Centro Cívico. Curitiba
+  references:
+  - 'ALBERNAZ, M. P.; LIMA, C. M. Dicionário ilustrado de arquitetura. São Paulo: ProEditores, 2000.'
+  - 'BRAZILIAJOR. Eixo monumental. Disponível em: http://www.brazilia.jor.br/Vias/Monumental.htm. Acesso em: jul. 2006.'
+  - 'DUDEQUE, I. T. Esperais de madeira. São Paulo: Studio Nobel; Fapesp, 2001.'
+  - 'FENIANOS E. E.; MILLA, J. Centro Cívico: um bairro e três poderes. Curitiba: UniverCidade, 1996. (Coleção'
+  - 'Bairros de Curitiba, v. 4)'
+  - 'GOOGLE EARTH. Imagem de satélite: Curitiba. (2006) Disponível em: http://earth.google.com. Acesso em: jul. 2006.'
+  - 'HARDT, L. P. A. Subsídios à gestão da qualidade da paisagem urbana: aplicação a Curitiba – Paraná.'
+  - 'Curitiba: 2000. Tese (Doutorado em Ciências Florestais) Setor de Ciências Agrárias, Universidade Federal do'
+  - 'JANSON, H. W; JANSON, A.F. Iniciação à história da arte. 2. ed. São Paulo: Martins Fontes, 1996.'
+  - 'KLOSS, M. E. C. de O. Requalificação da paisagem urbana: estudo de caso no Centro Cívico de Curitiba –'
+  - 'Paraná. Curitiba: 2003. Monografia (Especialização em Paisagismo) Centro de Ciências Exatas e de'
+  - 'Tecnologia, Pontifícia Universidade Católica do Paraná.'
+  - 'LAMAS, J. M. R. G. Morfologia urbana e desenho da cidade. Lisboa: Fundação Calouste Gulbenkian;'
+  - 'Fundação para a Ciência e a Tecnologia, 2004.'
+  - 'LEUPEN, B.; GRAFE, C.; KÖRNING, N.; LAMPE, M.; ZEEUW, P. Projecto e análisis: evolución de los princípios em arquitectura. Barcelona: Gustavo Gilli, 1993.'
+  - 'MARTINS, C. Bajo aquella luz nació una arquitectura. Block, Buenos Aires, n.2, p.83, 1998.'
+  - 'MARTINS, F. M. Políticas de gestão urbana para recuperação de áreas centrais degradadas. Curitiba: 2001.'
+  - 'Monografia (Especialização em Gestão Técnica do Meio Urbano) Centro de Ciências Exatas e de Tecnologia,'
+  - 'Pontifícia Universidade Católica do Paraná, Université de Technologie de Compiégne.'
+  - 'SPITTA, S. Between two waters. Narratives of transculturations in Latin America. Houston: Rice University'
+  - 'WONG, W. Princípios de forma e desenho. São Paulo: Martins Fontes, 2001.'
+  locale: 'pt-BR'
+  file: 'sdpr01-021.pdf'
+  pages_count: 16
+  pages: null
+
+- id: 'sdpr01-022'
+  title: O Paraná
+  subtitle: uma raiz para o Brutalismo de Artigas
+  authors:
+  - givenname: Miguel Antônio
+    familyname: Buzzar
+    email: 'm.buzzar@sc.usp.br'
+    affiliation: 'EESC-USP'
+    orcid: '0000-0001-6251-0338'
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: 'A Arquitetura Moderna Brasileira – AMB - conheceu a consolidação do seu primeiro repertório com as obras de Niemeyer na Pampulha sob a ótica das idéias de Lúcio Costa, integrando modernismo internacional ao passado e características locais, atribuindo a ele legitimidade cultural. Durante os anos 1950 a mesma AMB foi objeto de várias críticas. A que nos interessa é aquela que afirmava ser a AMB alheia ao povo, frutificando em empreendimentos da especulação imobiliária. Artigas que havia se convertido ao modernismo de Costa e Niemeyer em meados dos anos 1940, mostrou-se absolutamente crítico da arquitetura moderna em 1951 e 1952 em textos como Le Corbusier e o Imperialismo e Caminhos da Arquitetura Moderna. A sua crítica apenas é possível de ser entendida no quadro das formulações do Realismo e em particular do Realismo Socialista, que se não tiveram uma formalização na arquitetura, não deixaram de marcar o debate artístico e arquitetônico do período. Artigas superou as limitações do Realismo, após este ter sido desautorizado no debate internacional que os Partidos Comunistas realizaram em meados dos anos 1950. Entretanto, as críticas realistas ao modernismo de certa forma permaneceram vivas em Artigas na sua retomada moderna, que se dá com a Casa Baeta, em 1956, na qual cita explicitamente as casas de madeira do Paraná, utilizando as pranchas das formas de madeira no sentido vertical, atribuindo particularidade ao tratamento bruto do concreto, como a buscar substância e propriedade de raiz que o modernismo brasileiro não possuía, em que pese as formulações de Costa. Nesta operação, que inicia a fase brutalista, inverte o sentido das suas obras modernas em Londrina. Nelas, era o Brasil moderno que integrava o interior/arcaico com a arquitetura, agora era o Brasil “autêntico”, mas também arcaico, que qualificava positivamente o modernismo, afirmando a realidade como forma de informar a arquitetura.'
+  keywords:
+  - Arquitetura Moderna Brasileira
+  - Realismo moderno/arcaico
+  references:
+  - 'LIVROS, TEXTOS E ARTIGOS:'
+  - 'AMARAL, Aracy A.(org.) - “Projeto Construtivo Brasileiro na Arte - (1950-1962),” São Paulo - Rio de Janeiro, MEC-FUNARTE - Secretaria da Cultura, Ciência e Tecnologia do Est. de São Paulo, 1977. .............. - “Arte Para quê?,” São Paulo, Nobel, 1987.'
+  - 'ANDRADE, Antonio L. D. de - O Nariz Torcido de Lucio Costa, in Sinopses, São Paulo, nº 18, dez. 1992, pp.5-17.'
+  - 'ANELLI, Renato L. S. - “Arquitetura e Cidade na Obra de Rino Levi,” Tese de Doutoramento,'
+  - 'FAUUSP, 1995, mimeo..'
+  - 'ARGAN, Giulio Carlo - “Projeto e Destino,” São Paulo, Ática, 2000.'
+  - 'ARTIGAS, João Batista Vilanova - “Caminhos da Arquitetura,” São Paulo, Fundação Vilanova'
+  - 'Artigas/Pini, 1986, 2ª ed.. ................. - “Função Social do Arquiteto,” São Paulo, Fund. Vilanova Artigas/Nobel, 1989. ................. - Le Corbusier e o Imperialismo, in Fundamentos, São Paulo, nº 18, maio 1951, pp.8-9 e 27. .................. - A Bienal É Contra Os Artistas Brasileiros, in Fundamentos, São Paulo, nº 23, dez. 1951, pp.10-2. .................. - Os Caminhos da Arquitetura Moderna, in Fundamentos, São Paulo, nº 24, jan. 1952, pp.20-5. .................. - Aos Jovens Arquitetos, in Fundamentos, São Paulo, nº 40, dez. 1955, pp.22-7.'
+  - 'BARNHAN, Reyner - “El Brutalismo en Arquitectura,” Barcelona, Gustavo Gili, 1966.'
+  - 'BRUAND, Yves - “A Arquitetura Contemporânea no Brasil,” São Paulo, Perspectiva, 1982.'
+  - 'COSTA, Lúcio - “Sobre Arquitetura,” Porto Alegre, Centro dos Estudantes Universitários da'
+  - 'FARIAS, Agnaldo A. C. - “La Arquitectura de Ruy Ohtake,” Madrid, Celeste, 1994.'
+  - 'FERREIRA, Carlos A. Martins - “Arquitetura e Estado no Brasil - Elementos para uma Investigação sobre a Constituição do Discurso Moderno no Brasil; a Obra de Lúcio Costa (1924/1952),”'
+  - 'Dissertação de Mestrado, FFLCH/USP, 1987, mimeo..'
+  - 'FRAMPTON, Kenneth - História Crítica de la Arquitectura Moderna, Barcelona, G.G., 1983, 2a ed.. ....................(ed.) - Tadao Ando. Edificios. Proyetos. Escritos, Barcelona, G.G., 1985.'
+  - 'GOODWIN, Philip L. - “Brazil Builds. Architecture Old and New 1652/1942”, New York, MoMA, 1943.'
+  - 'JAMESON, Fredric - “Espaço e Imagem: Teorias do Pós-Moderno e Outros Ensaios,” Rio de'
+  - 'LEMOS, Carlos A. C. - “Arquitetura Brasileira,” São Paulo, Melhoramentos/EDUSP, 1974.'
+  - 'MINDLIN, Henrique E. - “Brazilian Architecture,” London, Royal College of Art, 1961.'
+  - 'MONTANER, Josep Maria - “Despues del movimiento Moderno,” Barcelona, Gustavo Gili, 1993.'
+  - 'NIEMEYER, Oscar - Problemas Atuais da Arquitetura Brasileira, in Módulo, Rio de Janeiro, nº 3, dez. 1955, pp.19-27.'
+  - 'NOVAIS, Adauto (org.) - “O Olhar,” São Paulo, Cia das Letras, 1988.'
+  - 'PEREIRA, Miguel A - Recuperar as Utopias (a recriação do novo), in Arquitetura e Urbanismo, nº 06, 1985, p.45.'
+  - 'RIBEIRO, Demetrio - Sobre Arquitetura Brasileira, in Horizonte, Porto Alegre, nº 5, maio 1951, p.145. ................, SOUZA, NELSON, RIBEIRO, ENILDA - Situação da Arquitetura Brasileira, in Anais IV'
+  - 'Congresso Brasileiro de Arquitetos, São Paulo, IAB, 1954, pp.185-7.'
+  - 'ROCHA Filho, Gustavo Neves da - A Tradição na Arquitetura Brasileira, Anais IV Congresso'
+  - 'Brasileiro de Arquitetos, São Paulo, IAB, 1954, pp.177-9.'
+  - 'ROGERS, Ernesto N. - “Experiencia de la Arquitectura,” Buenos Aires, Nueva Visión, 1965.'
+  - 'SCHWARZ, Roberto - “Que Horas São,” São Paulo, Cia das Letras, 1989.'
+  - 'TAFURI, Manfredo - “Architettura Contemporanea,” Milano, Electa, 1976.'
+  - 'XAVIER, Alberto/MIZOGUCHI, Ivan - “Arquitetura Moderna em Porto Alegre,” São Paulo,'
+  - 'FAUFRGS/Pini, 1987. .............../LEMOS, Carlos/CORONA, Eduardo - “Arquitetura Moderna Paulistana,” São Paulo, Pini, 1983.'
+  - 'ARCHITECTURAL REVIEW - London - nº 708, 722, 747'
+  - 'CASABELLA-CONTINUITÁ - Milano - nº 228.'
+  - 'HABITAT - São Paulo - nº 1, 9.'
+  - 'PROJETO - São Paulo - nº 109.'
+  - 'Anais IV Congresso Brasileiro de Arquitetos, São Paulo, Instituto dos Arquitetos do Brasil, 1954.'
+  - 'Relatório de Pesquisa: A Revista “Casabella” e o debate arquitetônico italiano dos anos 50 e 60, s/d. Pesquisador responsável: Prof.a Dra. Fernanda Fernandes da Silva.'
+  - DEPOIMENTOS DE VILANOVA ARTIGAS
+  - 'As Posições dos anos 50 (1980), depoimento a Aracy A. Amaral, Projeto, São Paulo, (109), 1988, pp.95-102.'
+  - 'Prof. Dr. Júlio Roberto Katinsky, março de 1996.'
+  locale: 'pt-BR'
+  file: 'sdpr01-022.pdf'
+  pages_count: 19
+  pages: null
+
+- id: 'sdpr01-023'
+  title: Transformações modernas na paisagem londrinense
+  authors:
+  - givenname: Antonio Manuel Nunes
+    familyname: Castelnou
+    email: 'castelnou@exemplo.com'
+    affiliation: UFPR
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: As Cidades Assumem o Moderno
+  abstract: 'Com base na pesquisa histórica de fontes locais, em entrevistas e em estudos de casos, o trabalho identifica e descreve os principais elementos de alteração da paisagem arquitetônica da cidade de Londrina, situada no norte do Estado do Paraná, a partir da introdução dos exemplares da arquitetura moderna – em especial as obras de Vilanova Artigas e Carlos Cascaldi –, no início da década de 1950, os quais contribuíram decisivamente para a implantação e a afirmação da imagem de Londrina como pólo pioneiro, “moderno” e motor de desenvolvimento macro-regional. Produto de uma bem-sucedida ação de planejamento urbano-territorial, de iniciativa britânica e que ocorreu entre os anos 20 e 30, resultando na rede de cidades novas que compõem grande parte do norte paranaense, Londrina apresentava até a metade do século passado uma paisagem caracterizada predominantemente por construções em madeira, alguns exemplares ecléticos e obras com referências Art Déco, em sua zona central. Em plena fase de apogeu da cultura cafeeira e início da industrialização, a paisagem londrinense passou por um processo de transformação marcante que, em curto período de tempo, alterou sua fisionomia pela proliferação de edificações e espaços urbanos que procuravam reforçar os elementos técnicos e estéticos dos exemplares modernistas pioneiros, o que coincidia com a política desenvolvimentista em nível federal. Paralelamente à sua expansão populacional e territorial, Londrina teve sua paisagem central alterada com a criação desses marcos modernistas, os quais ainda existem, mas que necessitam de uma ação coordenada entre os diversos setores da sociedade visando a sua preservação como patrimônio cultural moderno.'
+  references:
+  - 'ALENCAR, F.; CARPI, L.; RIBEIRO, M. V. História da sociedade brasileira. 18a. ed. Rio de'
+  - 'Janeiro: Ao Livro Técnico Editora, 1994.'
+  - 'ASARI, A. Y.; TUMA, M. M. Aspectos históricos, físicos, econômicos e institucionais do Município de Londrina. Londrina: Prefeitura Municipal de Londrina, 1978.'
+  - 'BRANCO, G.; MIONI, F. Documentário histórico: jubileu de prata. Londrina: Revista Realizações'
+  - 'CARONE, E. A Quarta República (1945-1964). São Paulo: Bertrand Brasil: Difusão Editorial, 1980.'
+  - 'CASTELNOU, A. M. N. A Influência da produção modernista na transformação do panorama arquitetônico da cidade de londrina nos anos 50. São Carlos: Dissertação de Mestrado, Escola de'
+  - 'Engenharia de São Carlos, Universidade de São Paulo, 1998.'
+  - '_____. Arquitetura londrinense: expressões de intenção pioneira. Londrina: Atrito Art Editorial, 2002.'
+  - 'FERRARA, L. D. A estratégia dos signos. São Paulo: Perspectiva, Col. Estudos, n. 79, 1981.'
+  - 'MARX, M. Cidade brasileira. São Paulo: Melhoramentos: EdUSP, 1980.'
+  - 'PELLEGRINI, D. Londrina. In: REVISTA ÍCARO, n. 125, 1995.'
+  - 'RIOS, J. A. Londrina, uma análise sociológica. Londrina: Prefeitura Municipal de Londrina, 1980.'
+  - 'ROSSI, A. A arquitetura da cidade. 2a. ed. São Paulo: Martins Fontes, 2001.'
+  - 'SEGAWA, H. Artigas e Cascaldi em Londrina. In: REVISTA PROJETO, mar. 1992.'
+  - 'SHIMBA, O.; UREN, F. Londrina: cidade-cenário. Londrina: Midiograf, 1999.'
+  - 'SUZUKI, J. Artigas e Cascaldi: arquitetura em Londrina. São Paulo: Atelier Editorial, 2003.'
+  - 'ZANI, A. C. Arquitetura em madeira. São Paulo: IMESP, 2003.'
+  - 'ZORTÉA, A. J. Londrina através dos tempos e crônicas da vida. São Paulo: Juriscredi, 1975.'
+  locale: 'pt-BR'
+  file: 'sdpr01-023.pdf'
+  pages_count: 23
+  pages: null
+
+- id: 'sdpr01-024'
+  title: Urbanismo e sustentabilidade
+  authors:
+  - givenname: Geovany Jessé Alexandre da
+    familyname: Silva
+    email: 'silva@exemplo.com'
+    affiliation: UFMT
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Luiz da Rosa Garcia
+    familyname: Netto
+    email: 'netto@exemplo.com'
+    affiliation: UFMT
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: As Cidades Assumem o Moderno
+  abstract: 'Este presente trabalho tem o objetivo de discutir o processo de urbanização anterior e posterior à era industrial, assim como as políticas e conceitos de sustentabilidade contemporâneos, levantando questões e propondo possíveis soluções para a implementação de teorias através de projetos urbanísticos que proporcionem melhoria efetiva na qualidade de vida das cidades brasileiras, em equilíbrio com a natureza e ambiente rural. Tem-se, a partir da análise crítica, uma série de sugestões decorrentes da observação de projetos de desenho urbano, dos modelos de sustentabilidade atuais, sua relação com o meio-ambiente e fatores sociais, econômicos, políticos e culturais. O entendimento dessas relações é essencial para que se possam propor soluções que minimizem os impactos. Respostas eficientes no processo de urbanização determinarão novos desenhos, métodos e conceitos, que atendam às necessidades sociais e econômicas regionais e a implementação de um urbanismo sustentável e mais humano para as cidades brasileiras do século XXI.'
+  keywords:
+  - Desenvolvimento Urbano e Regional
+  - Sustentabilidade
+  - Arquitetura e Urbanismo
+  locale: 'pt-BR'
+  file: 'sdpr01-024.pdf'
+  pages_count: 21
+  pages: null
+
+- id: 'sdpr01-025'
+  title: Vilanova Artigas
+  subtitle: a casa Bettega e o Desenho
+  authors:
+  - givenname: Carlos Egídio
+    familyname: Alonso
+    email: 'alonso@exemplo.com'
+    affiliation: 'FAU-Mackenzie'
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Giceli Portela Cunico de
+    familyname: Oliveira
+    email: 'sem-email-34@example.com'
+    affiliation: 'G-Arquitetura'
+    orcid: '0000-0002-3292-203X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: As Cidades Assumem o Moderno
+  abstract: null
+  references:
+  - 'ALONSO, Carlos Egídio. Uma política de ensino; enfoques prioritários. Revista “Se... no.3”, São'
+  - 'Paulo, FAU-Mackenzie, 2001.'
+  - 'ARTIGAS, João Batista Vilanova. Caminhos da Arquitetura. São Paulo, FVA/PINI, 1986.'
+  - 'ARTIGAS, João Batista Vilanova. O desenho. São Paulo, Centro de Estudos Brasileiros do GFAUUSP, 1975.'
+  - 'CUNHA, Marcio Cotrim. Diálogos imaginários: Marcel Breuer e Vilanova Artigas, São Paulo, Portal'
+  - 'Vitruvius, 2005. (retirado da dissertação de mestrado do autor, João Batista Vilanova Artigas: doze casas paulistas, 1942 a 1969, Barcelona, ETSAB-UPC, 2002).'
+  - 'THOMAZ, Dalva Elias. Artigas: a liberdade na inversão do olhar, São Paulo, 2005. (Tese de'
+  - 'Doutorado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.'
+  locale: 'pt-BR'
+  file: 'sdpr01-025.pdf'
+  pages_count: 12
+  pages: null
+
+- id: 'sdpr01-026'
+  title: 'Galeria da imagem — re-modernar com o olhar'
+  subtitle: galeria pública de fotografia — reciclagem de Arquitetura Moderna
+  authors:
+  - givenname: Gabriel
+    familyname: Gallarza
+    email: 'gallarza@exemplo.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Painel
+  abstract: null
+  locale: 'pt-BR'
+  file: 'sdpr01-026.jpg'
+  pages_count: 0
+  pages: null
