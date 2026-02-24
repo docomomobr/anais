@@ -31,7 +31,8 @@ COVER_DIRS = {
 }
 
 slug = sys.argv[1] if len(sys.argv) > 1 else 'sdpr02'
-OUT = f'/tmp/revisao-{slug}.html'
+REVISAO_DIR = os.path.join(REPO_ROOT, 'revisao')
+OUT = os.path.join(REVISAO_DIR, f'revisao-{slug}.html')
 
 
 # ── helpers ──────────────────────────────────────────────────────────
@@ -514,4 +515,4 @@ conn.close()
 with open(OUT, 'w', encoding='utf-8') as f:
     f.write('\n'.join(lines))
 
-print(f'{OUT} ({n_articles} artigos, {n_sections} seções)')
+print(f'{os.path.relpath(OUT)} ({n_articles} artigos, {n_sections} seções)')
