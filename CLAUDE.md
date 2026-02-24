@@ -7,6 +7,32 @@ Regras de processamento de dados: [`docs/regras_dados.md`](docs/regras_dados.md)
 
 ---
 
+## Regra de ouro — Pipeline existente
+
+ANTES de escrever qualquer código ou rodar qualquer comando:
+1. Consultar [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md) para o fluxo completo
+2. Consultar [`docs/dedup_autores.md`](docs/dedup_autores.md) para deduplicação de autores
+3. Consultar a memória em `.claude/projects/.../memory/MEMORY.md`
+4. Verificar se já existe script em `scripts/` ou `regionais/*/scripts/`
+5. Se o script existe, USAR. Se não existe, PERGUNTAR antes de criar.
+6. NUNCA escrever Python ad-hoc inline quando existe script para a tarefa.
+7. NUNCA alterar o banco sem aprovação explícita do usuário.
+
+Quando o usuário diz "rodar o pipeline", significa executar os scripts documentados na ordem documentada — não inventar processo novo.
+
+### Como rodar o pipeline completo
+
+Quando o usuário pedir "rode o pipeline completo nos seminários X, Y, Z":
+1. Abrir `docs/pipeline_tratamento.md` e executar CADA fase na ordem (4→5→6→7)
+2. Dentro de cada fase, executar CADA sub-etapa na ordem documentada
+3. Reportar resultado de cada etapa de forma concisa e CONTINUAR para a próxima
+4. NÃO parar para perguntar entre etapas — só parar se houver erro bloqueante
+5. Ao final, apresentar um resumo consolidado com os problemas que precisam de decisão humana
+
+As fases 1-3 (aquisição, extração, construção do YAML) são feitas antes e não fazem parte de "rodar o pipeline".
+
+---
+
 ## Estrutura do Projeto
 
 ```
@@ -82,7 +108,7 @@ OJS (arquivado): ver [`docs/archive/ojs_reference.md`](docs/archive/ojs_referenc
 Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave:
 
 - **Travessão**: ` - ` isolado → ` — ` (em-dash). Não tocar em intervalos numéricos, palavras compostas, siglas, referências.
-- **Capitalização**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial". Usa `dict/normalizar.py` + `dict.db` (5013 entradas). Ver `docs/devlog_normalizacao_maiusculas.md`.
+- **Capitalização**: título com maiúscula; subtítulo com minúscula (exceto nome próprio/sigla). Expressões consolidadas: "Arquitetura Moderna Brasileira", "Movimento Moderno", "Educação Patrimonial". Usa `dict/normalizar.py` + `dict.db` (5279 entradas). Ver `docs/devlog_normalizacao_maiusculas.md`.
 - **Autores**: partículas (de, da, do) no `givenname`; `familyname` = último sobrenome. Hispânicos: duplo sobrenome.
 - **Afiliação**: apenas sigla (`FAU-USP`, `PROPAR-UFRGS`). Sem títulos acadêmicos, endereços, emails.
 - **ORCID**: formato `0000-0000-0000-0000` (sem URL).

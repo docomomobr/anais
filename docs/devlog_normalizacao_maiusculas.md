@@ -108,6 +108,23 @@ O dicionário cresceu de ~3687 para 4270 entradas (+580):
 - **664 artigos nacionais** teriam mudanças mas não foram alterados (já publicados no OJS)
 - Dump atualizado: `anais.sql` e `dict/dict.sql`
 
+## Correções 2026-02-24 — sdbr02 e seed_titles
+
+Ao rodar o pipeline no sdbr02, `seed_titles.py --apply` adicionou 3 entradas ao dict que eram falsos positivos:
+
+| Palavra | Motivo da remoção |
+|---------|-------------------|
+| elementos | Substantivo comum: "alguns elementos" → "alguns Elementos" |
+| panorama | Substantivo comum: "breve panorama" → "breve Panorama" |
+| verre | Substantivo francês (vidro): do título "Maison de Verre" — fora de contexto seria indevidamente capitalizado |
+| arquitetura-cidade | Composto de um título específico: "relação Arquitetura-cidade" — não generalizável |
+
+Além disso:
+- **CPEU** adicionado como `sigla` (Centro de Pesquisas e Estudos Urbanísticos da FAU-USP). Estava sendo lowercased em "cpeu-FAUUSP".
+- **argentina** recategorizado de `toponimico` → `lugar`. Como país, "Argentina" deve ser sempre capitalizada (assim como Colômbia, Chile, Venezuela que já eram `lugar`). A categoria `toponimico` é para adjetivos pátrios contextuais (ex: "Paulista" em "Brutalismo Paulista").
+
+**Lição**: `seed_titles.py` extrai candidatos de baixa frequência (≥1 ocorrência) que incluem palavras comuns de títulos. Sempre revisar os nomes adicionados antes de rodar a normalização.
+
 ## Limitações conhecidas
 
 1. **Ambiguidade inerente**: "Modernidade" pode ser período histórico (maiúscula) ou qualidade abstrata (minúscula). O normalizador sempre capitaliza — revisão manual necessária para os poucos casos de uso genérico.

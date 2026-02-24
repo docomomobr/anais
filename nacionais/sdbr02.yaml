@@ -18,131 +18,103 @@ issue:
   - 'https://repositorio.ufba.br/handle/ri/31446'
 articles:
 
-- id: 'sdbr02-001'
-  title: Introdução ao projeto
-  authors:
-  - givenname: José Carlos Huapaya
-    familyname: Espinoza
-    email: 'jhuapayae@gmail.com'
-    affiliation: null
-    orcid: '0000-0001-6776-8821'
-    bio: null
-    country: BR
-    primary_contact: false
-  - givenname: Rômulo
-    familyname: Marques
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
-  - givenname: Thiscianne
-    familyname: Moraes Pessoa
-    email: 'thisciannempessoa@gmail.com'
-    affiliation: null
-    orcid: '0000-0002-1459-2460'
-    bio: null
-    country: BR
-    primary_contact: false
-  section: null
-  abstract: null
-  locale: 'pt-BR'
-  file: 'sdbr02-001.pdf'
-  pages: '4-12'
-
-- id: 'sdbr02-002'
-  title: O processo de digitalização dos Anais
-  subtitle: 'método, técnica e dificuldades'
-  authors:
-  - givenname: Caio Anderson da Silva de
-    familyname: Almeida
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
-  - givenname: Gabriela Sales
-    familyname: Otremba
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
-  section: null
-  abstract: null
-  locale: 'pt-BR'
-  file: 'sdbr02-002.pdf'
-  pages: '13-19'
-
 - id: 'sdbr02-003'
   title: Vertentes da Modernidade no Brasil
   authors:
   - givenname: Hugo
     familyname: Segawa
     email: 'segawa@exemplo.com'
-    affiliation: null
+    affiliation: 'EESC-USP'
     orcid: '0000-0002-2532-4664'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: null
+  abstract: 'A arquitetura moderna tem sido objeto de preocupação por parte das instituições de preservação de bens culturais em todo o mundo. O DOCOMOMO vem promovendo gestões no sentido de estabelecer critérios de elaboração de listagens de bens arquitetônicos a se preservar, em meio ao debate acerca da normalização dos procedimentos para essas finalidades e as diferenças emergentes entre as várias regiões do planeta. Este trabalho busca uma discussão preliminar da questão dos critérios de avaliação de modernidade arquitetônica no âmbito brasileiro a partir de sucintos estudos de caso, com realizações nem sempre julgadas como manifestações modernas: arquiteturas de ensino, hospitalar, aeroportuário, habitacional, do sistema de correios e telégrafos; e concluindo com a singularidade de obras de Lucio Costa e Lina Bo Bardi como firmas de modernidades heterodoxas.'
+  references:
+  - 'AZEVEDO, Paulo Ormindo de. Crise e modernização, a arquitetura dos anos 30 em Salvador. In: SEGAWA, Hugo (ed.). Arquiteturas no Brasil/Anos 80. São Paulo, Projeto, p. 14-18, 1988.'
+  - 'MARTINS, Carlos A. F. Um parecer arquitetônico. A/U Arquitetura e Urbanismo, São Paulo, n. 20, p. 86-96, out./nov. 1988.'
+  - 'MONTANER, Josep Maria. La modernidad superada: arquitectura, arte y pensamiento del siglo XX. Barcelona, Gustavo Gili, 1997.'
+  - 'OLIVEIRA, Beatriz Santos de. Modernidade oficial: a arquitetura das escolas públicas do Distrito Federal (1936-1940). Dissertação (Mestrado — Arquitetura e Urbanismo) — Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 1991.'
+  - 'SEGAWA, Hugo. Modernidade programática: uma arquitetura dos anos 1930/40 fora dos manuais. Projeto, São Paulo, n. 131, p. 73-84, mar. 1990.'
+  - 'SILVA, Geraldo Gomes da. Marcos da arquitetura moderna em Pernambuco. In: SEGAWA, Hugo (ed.). Arquiteturas no Brasil/Anos 80. São Paulo, Projeto, p. 19-27, 1988.'
+  - 'SISSON, Rachel. Escolas públicas do primeiro grau. Inventário, tipologia e história. Rio de Janeiro 1870/1945. Arquitetura revista, Rio de Janeiro, n. 8, p. 63-78, 1990.'
+  - 'WEIMER, Günter. Arquitetura erudita da imigração alemã no Rio Grande do Sul. Tese (Doutorado) — Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 1989.'
   locale: 'pt-BR'
   file: 'sdbr02-003.pdf'
   pages: '21-28'
 
 - id: 'sdbr02-004'
   title: Paradoxos entrelaçados
-  subtitle: as torres para o futuro e a tradição nacional
+  subtitle: as Torres para o futuro e a Tradição nacional
   authors:
   - givenname: Cêça
     familyname: Guimaraens
     email: 'guimaraens@exemplo.com'
-    affiliation: null
+    affiliation: 'PROURB-UFRJ'
     orcid: '0000-0003-1889-7883'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'A comunicação apresenta a delimitação de um cenário onde se verifica os acontecimentos arquitetônicos que antecederam e decorreram da participação dos arquitetos do Patrimônio na configuração do espaço contemporâneo do Centro do Rio de Janeiro. Retoma-se uma determinada estória na tentativa de alinhar e avaliar atos e fatos que caracterizaram os períodos onde ocorreram as principais formas de verticalização do espaço “histórico” da cidade. A integração entre o Estado e o poder econômico no Brasil estabelece a outra pauta do trabalho. As torres de escritórios são produtos da expansão I concentração financeira; expressão e registro de manifestações culturais essas formas constituem “pistas” para o estudo do desenvolvimento da “indústria da preservação”.'
+  abstract: 'A comunicação apresenta a delimitação de um cenário onde se verifica os acontecimentos arquitetônicos que antecederam e decorreram da participação dos arquitetos do Patrimônio na configuração do espaço contemporâneo do Centro do Rio de Janeiro. Retoma-se uma determinada estória na tentativa de alinhar e avaliar atos e fatos que caracterizaram os períodos onde ocorreram as principais formas de verticalização do espaço "histórico" da cidade. A integração entre o Estado e o poder econômico no Brasil estabelece a outra pauta do trabalho. As torres de escritórios são produtos da expansão / concentração financeira; expressão e registro de manifestações culturais essas formas constituem "pistas" para o estudo do desenvolvimento da "indústria da preservação".'
+  references:
+  - 'AMARAL, Aracy. A Arquitectura neocolonial. São Paulo: Memorial/Fondo de Cultura Económica, 1994.'
+  - 'AMARAL, Aracy. Arte p''rá quê? São Paulo: Edusp/Nobel, 1988.'
+  - 'BARTHES, Roland. Mitologias. São Paulo: Difusão Editorial, 1982.'
+  - 'Cahiers du Centre de Création Industrielle, n. 1, 3 e especial. Paris: Éditions du Centre Pompidou, 1986-87.'
+  - 'CASTRO, Sonia Rabello de. O Estado na preservação dos bens culturais. 1991.'
+  - 'DELEUZE, Gilles. Proust e os signos. Rio de Janeiro: Forense Universitária, 1987.'
+  - 'Entrevista. Revista PROJETO, São Paulo, n. 189, set. 1995.'
+  - 'GUIMARAENS, Cênia. "Patrimônio: aparente ruptura na tradição". Revista PROJETO, n. 129, pp. 160-163, fev. 1990.'
+  - 'LEME MACHADO, Paulo Affonso. Direito Ambiental Brasileiro. São Paulo: Editora Revista dos Tribunais, 1991.'
+  - 'MOTTA SANTOS, Mariza Veloso. O tecido do tempo: a constituição da idéia de patrimônio no Brasil entre 1920-1970. Tese de Doutorado. PPGAS-UnB, 1992.'
+  - 'SCHAMA, Simon. Paisagem e Memória. São Paulo: Companhia das Letras, 1996.'
+  - 'TAFURI, Manfredo. "La dialectique de l''absurde". Architecture d''Aujourd''hui, n. 178, pp. 1-16, 1975.'
+  - 'TAFURI, Manfredo. Projeto e utopia. Lisboa: Editorial Presença, 1985.'
   locale: 'pt-BR'
   file: 'sdbr02-004.pdf'
   pages: '29-41'
 
 - id: 'sdbr02-005'
-  title: O Arquivo da City em São Paulo
+  title: O arquivo da City em São Paulo
   authors:
   - givenname: Silvia Ferreira Santos
     familyname: Wolff
     email: 'wolff@exemplo.com'
-    affiliation: null
+    affiliation: 'UPPH-SEC-SP'
     orcid: '0000-0001-7538-2750'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: null
+  abstract: 'Dentro da perspectiva proposta pelo temário deste encontro do DOCOMOMO, o presente relato insere-se no grupo 3 relativo à preservação da arquitetura moderna. Trata-se de pesquisa documental realizada junto ao arquivo de uma empresa particular de extensa ação urbanizadora na história da cidade de São Paulo, a Cia. City. Esta pesquisa desenvolveu-se como parte integrante da Tese de Doutoramento "O bairro Jardim América e sua arquitetura" que vem sendo realizada na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. O aspecto que se optou por enfatizar no encontro foi o do desenvolvimento das etapas da pesquisa em uma situação em que se alia grande riqueza documental pouco explorada às condições adversas de se trabalhar em um arquivo que não prevê este tipo de consulta. Infelizmente esta situação não é de excepcionalidade. Como arquiteta ligada à preservação do patrimônio cultural paulista no CONDEPHAAT, tenho consciência das dificuldades para obtenção de documentos sobre a cidade de São Paulo.'
+  references:
+  - 'BACELLI, Ronei. A presença da Cia. City em São Paulo (1915-1940) e a implantação do Primeiro Bairro-Jardim. São Paulo. Dis. Mestrado, Depto. de História, FFLCUSP, 1982.'
+  - 'HOWARD, Ebenezer. Garden cities of to-morrow. 1902 (cuja primeira versão com outro nome é de 1898). A versão da Faber & Faber de 1944 tem a vantagem de apresentar introdução de OSBORN, seu colaborador, e prefácio de Lewis MUMFORD.'
+  - 'SOUZA, M. Cláudia Pereira. O capital imobiliário e a produção do espaço urbano: o caso da Cia. City. São Paulo. Dis. Mestrado. FGV/EASP, 1988.'
+  - 'TAGLIAVENTI, Gabriele (cura). Città giardino. Garden city. Roma: Gangemi, 1994.'
   locale: 'pt-BR'
   file: 'sdbr02-005.pdf'
   pages: '42-51'
 
 - id: 'sdbr02-006'
   title: Lina Bo Bardi
-  subtitle: a Casa Valéria Cirell e a poética do abrigo
+  subtitle: a casa Valéria Cirell e a poética do abrigo
   authors:
   - givenname: Maria de Fátima
     familyname: Campello
     email: null
-    affiliation: null
+    affiliation: 'DAU-UFAL'
     orcid: '0000-0001-6979-1478'
     bio: null
     country: BR
     primary_contact: false
   section: null
   abstract: 'Entre os vários projetos de arquitetura que Lina Bo Bardi realiza entre 1949 e 1958 apenas dois são construídos no período: a Casa de Vidro - residência da Arquiteta - e a Casa Valeria Piacentini Cirell - residência de uma amiga muito próxima de Lina Bo Bardi. Essas duas casas - uma aérea, leve e totalmente transparente e a outra opaca e pesada, atada ao chão - representam duas tendências na obra da Arquiteta. Enquanto uma é a “casa do ar”, a outra é a “casa da terra”. Acreditamos que, essas duas expressões tão contrastantes entre si, estão presentes em todo o desenvolvimento futuro da sua obra.'
+  references:
+  - 'CAMPELLO, Maria de Fátima de Mello Barreto (1997). Lina Bo Bardi: as moradas da alma. São Carlos. Dissertação (Mestrado) — EESC-USP, Depto de Arquitetura e Planejamento.'
+  - 'HABITAT (1952±). Arquitetura e jardinagem. São Paulo, n. 6, p. 71, s/d, s/mês.'
   locale: 'pt-BR'
   file: 'sdbr02-006.pdf'
   pages: '52-63'
@@ -163,15 +135,20 @@ articles:
   references:
   - 'BONDESAN, Altino - São José em Quatro Tempos. São Paulo, Editora Bentivegna. 1967.'
   - 'BOTELHO, Manuel H. Campos - A História da Construção Civil em São José dos Campos. São Paulo, Editora Bandeirante. 1989.'
-  - 'BRUAND, Yves - Arquitetura Contemporânea no Brasil. São Paulo, Edi- tora Perspectiva. 1981.'
+  - 'BRUAND, Yves - Arquitetura Contemporânea no Brasil. São Paulo, Editora Perspectiva. 1981.'
   - 'CESAR, Roberto Cerqueira - Depoimento gravado prestado ao autor. São Paulo, 16 de julho de 1996.'
   - 'CORONA, Eduardo; LEMOS, Carlos Alberto Cerqueira - Dicionário da Arquitetura Brasileira. São Paulo, Artshow Books. 1989.'
+  - 'IAB (Instituto dos Arquitetos do Brasil) / MG - Revista Arquitetura e Engenharia No.5 Ano 1. Rio de Janeiro. 1947.'
+  - 'MOREIRA, Luiz Erasmo - A Atuação do Arquiteto de São José dos Campos de 1960 a 1980. São José dos Campos, Fundação Cultural Cassiano Ricardo, Esfera No. 43 Ano 6. 1996.'
+  - 'PROJETO No 189. São Paulo, Arco Editorial. 1995.'
+  - 'RESCHILIAN, Paulo Romano - Produção e Apropriação da Arquitetura como Bem Social. Revista Pós Número Especial. São Paulo, Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Anais do Seminário Nacional "O Estudo da História na Formação do Arquiteto". 1996.'
   locale: 'pt-BR'
   file: 'sdbr02-007.pdf'
   pages: '64-74'
 
 - id: 'sdbr02-008'
-  title: Do arquiteto integral à equipe multidisciplinar
+  title: Do Arquiteto integral à equipe multidisciplinar
+  subtitle: um estudo de caso na Arquitetura Moderna no Brasil
   authors:
   - givenname: Renato Luiz Sobral
     familyname: Anelli
@@ -183,23 +160,81 @@ articles:
     primary_contact: false
   section: null
   abstract: null
+  references:
+  - 'ARANHA, Maria Beatriz Camargo. "Rino Levi — Arquitetura como ofício". Óculum, Campinas, FAU-PUCCAMP, n. 3, mai. 1993, pp. 46-52.'
+  - 'ARGAN, Giulio Carlo. Walter Gropius e la Bauhaus. Torino: Einaudi, 1988 (1ª edição 1951).'
+  - 'BANHAM, Reyner. Theory and Design in the First Machine Age. London: The Architectural Press, 1967.'
+  - 'BELLORI, Giovanni Pietro. La Idea del Pittore, dello Scultore e dell''Architetto. Roma, 1672.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.'
+  - 'CAMPAGNIN, Loredana; MAZZOLA, Maria Luísa. "La nascita delle scuole superiori di architettura in Italia". In: PATETTA, L.; DANESI, S. (Org.). Il razionalismo e l''architettura in Italia durante il fascismo. Milano: Electa, 1976, pp. 194-195.'
+  - 'CHOISY, Auguste. Histoire de l''Architecture. Paris, 1899.'
+  - 'CHRISTIANO DE SOUZA, Ricardo. "A ex-máquina de habitar de Levi". Folha de São Paulo, 02/01/1983.'
+  - 'CIUCCI, Giorgio. Gli architetti e il fascismo — Architettura e città 1922-1944. Torino: Einaudi, 1989.'
+  - 'COSTA, Lúcio. "Depoimento". O Jornal, 13/03/1948. Republicado em Lúcio Costa — registro de uma vivência. São Paulo: Empresa das Artes, 1995, pp. 198-200.'
+  - 'FARIAS, Agnaldo A. C. Arquitetura Eclipsada: notas sobre história e arquitetura a propósito da obra de Gregori Warchavchik. Dissertação de Mestrado em História. IFCH-UNICAMP, 1990.'
+  - 'FERRAZ, Geraldo. Warchavchik e a introdução da nova arquitetura no Brasil: 1925 e 1940. 1965.'
+  - 'FICHER, Sylvia. "Rino Levi — Um profissional arquiteto e a arquitetura paulista". Projeto, São Paulo, n. 189, set. 1995, pp. 73-82.'
+  - 'GIOVANNONI, Gustavo. "Discussioni Didattiche". In: Questioni di architettura nella storia e nella vita. Roma: Società Editrice d''Arte Illustrata, 1925.'
+  - 'GIOVANNONI, Gustavo. "L''architettura italiana nella storia e nella vita". In: Questioni di architettura nella storia e nella vita. Roma: Società Editrice d''Arte Illustrata, 1925, p. 7.'
+  - 'GUADET, Julien. Éléments et Théorie de l''Architecture. Paris, 1902.'
+  - 'LEVI, Rino. "O ensino da arquitetura" — Conferência na Universidade Mackenzie, 16/10/1956.'
+  - 'LEVI, Rino. "O que há na arquitetura" (1939). In: Depoimentos 1. São Paulo: GFAU, 1960.'
+  - 'LEVI, Rino. "Técnica hospitalar e arquitetura" (1948). In: Depoimentos 1. São Paulo: GFAU, 1960.'
+  - 'MACHADO, Lúcio Gomes. Rino Levi e a renovação da Arquitetura Brasileira. Tese de Doutorado. FAU-USP, 1992.'
+  - 'MARCONI, Paolo; GABETTI, Roberto. "L''insegnamento dell''architettura nel sistema didattico franco-italiano (1739-1922)". Controspazio, mar., jun., set. e out./nov. 1971.'
+  - 'MARTINS, Carlos A. F. Arquitetura e Estado no Brasil: Elementos para uma investigação sobre a Constituição do Discurso Modernista no Brasil; a obra de Lúcio Costa. Dissertação de Mestrado em História. FFLCH-USP, 1988.'
+  - 'MARTINS, Carlos A. F. Razón y Naturaleza en Le Corbusier. Tese de Doutorado. Escola Politécnica de Madrid, 1992.'
+  - 'MICHELIS, Mario De. Las Vanguardias artísticas del siglo XX. Madrid: Alianza Editorial, 1979.'
+  - 'MINUCCI, G. "L''architettura italiana e l''estetica degli edifici industriali". Architettura ed Arti Decorative, ano V, fasc. 11-12, jul.-ago. 1926, pp. 481-492.'
+  - 'MUNTONI, Alessandra. "1926-28: dalla Scuola di architettura di Roma alla Prima esposizione di architettura razionale". In: CIUCCI, Giorgio (cura). Adalberto Libera — Opera completa. Milano: Electa, 1989.'
+  - 'OZENFANT; JEANNERET. "Nature et Création". L''Esprit Nouveau, n. 19, dez. 1923.'
+  - 'PANOFSKY, Erwin. Idea — Contribuición a la historia de la teoria del arte. Madrid: Ediciones Cátedra, 1989.'
+  - 'SELVAFOLTA, Ornella. "L''Istituto tecnico superiore di Milano: metodi didattici ed ordinamento interno (1863-1914)". In: AAVV. Il Politecnico di Milano — Una scuola nella formazione della società industriale 1863-1914. Milano: Electa, 1981, pp. 87-118.'
+  - 'TAFURI, Manfredo. "Architettura e storia" (entrevista). La rivista dei libri, abr. 1994. Republicada parcialmente em Casabella, n. 633, abr. 1996.'
+  - 'THOENES, Christof. "Bramante — Giovannoni, Il Rinascimento interpretato dall''architettura fascista". Casabella, n. 633, abr. 1996, p. 68.'
+  - 'VAGNETTI, L. "Arnaldo Foschini, 1884-1968". In: PIRAZZOLI, Nullo (org.). Arnaldo Foschini / didattica e gestione dell''architettura in Italia nella prima metà del Novecento. Russi, Itália, dez. 1978.'
+  - 'ZUCCONI, Guido. La città contesa, dagli ingegneri sanitari agli urbanisti (1885-1942). Milano: Editoriale Jaca Book, 1989.'
   locale: 'pt-BR'
   file: 'sdbr02-008.pdf'
   pages: '75-89'
 
 - id: 'sdbr02-009'
-  title: 'Espaço público, habitação social e Arquitetura Moderna'
+  title: 'Espaço Público, habitação social e Arquitetura Moderna'
   authors:
   - givenname: Nabil
     familyname: Bonduki
     email: null
-    affiliation: null
+    affiliation: 'EESC-USP'
     orcid: '0000-0002-1553-3147'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Este texto é um dos resultados preliminares da pesquisa “Habitação Econômica e Arquitetura Moderna no Brasil (1930-1964)” que está sendo desenvolvida por um grupo de pesquisadores do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos e da Faculdade de Arquitetura e Urbanismo, ambas da Universidade de São Paulo. Esta pesquisa, que recebe apoio da Fapesp e CNPq, tem por objetivo realizar um levantamento sistemático da produção habitacional realizada entre o início da intervenção estatal na questão, no governo Vargas, e a criação do BNH buscando verificar influência do movimento moderno na produção habitacional no Brasil. urbanismo e paisagem. Sua preservação ou recria-'
+  abstract: 'Este texto é um dos resultados preliminares da pesquisa "Habitação Econômica e Arquitetura Moderna no Brasil (1930-1964)" que está sendo desenvolvida por um grupo de pesquisadores do Departamento de Arquitetura e Urbanismo da Escola de Engenharia de São Carlos e da Faculdade de Arquitetura e Urbanismo, ambas da Universidade de São Paulo. Esta pesquisa, que recebe apoio da Fapesp e CNPq, tem por objetivo realizar um levantamento sistemático da produção habitacional realizada entre o início da intervenção estatal na questão, no governo Vargas, e a criação do BNH buscando verificar influência do movimento moderno na produção habitacional no Brasil.'
+  references:
+  - 'ARAUJO, Oscar E. - O papel da habitação e do salário no nível de vida da família operária. in Jornadas de Habitação Econômica. Revista do Arquivo Municipal 82, São Paulo, 1942.'
+  - 'Aureliano, L. e Azevedo, S. - Habitação e Poder. Zahar, Rio de Janeiro, 1982.'
+  - 'AYMONINO, Carlo - La vivienda racional. Gustavo Gili, Barcelona, 1971.'
+  - 'BONDUKI, Nabil e SAMPAIO, Maria Ruth - Habitação Econômica e Arquitetura Moderna no Brasil (1930-1964). Projeto de Pesquisa Temático apresentado a FAPESP, São Paulo, 1995.'
+  - 'BONDUKI, Nabil - Origens da habitação social no Brasil: O caso de São Paulo. Tese de Doutorado defendida na FAU-USP, São Paulo, 1994, mimeo.'
+  - 'BONDUKI, Nabil - Origens da habitação social no Brasil in Habitação na Cidade Industrial. Análise Social 127, 4a Série, Vol. XXIX, Lisboa, 1994.'
+  - 'BONDUKI, Nabil - Habitação social na vanguarda do movimento moderno no Brasil in OCULUM 7/8, Campinas, 1996.'
+  - 'CAVALCANTI, Lauro - Casas para o povo. Dissertação de Mestrado apresentada ao Museu Nacional, Rio de Janeiro, 1986.'
+  - 'FERREIRA, F. P. - A habitação e a moral in Jornadas de Habitação Econômica. Revista do Arquivo Municipal 82, São Paulo, 1942.'
+  - 'GOODWIN, Philip - Construção Brasileira. Arquitetura Moderna e Antiga 1652-1942. Museu de Arte Moderna, Nova York, 1943.'
+  - 'IAPI - O seguro social. A indústria brasileira. O Instituto dos Industriários. IAPI, 1950.'
+  - 'IAPTC (1947) - Um problema em vias de solução in IAPTC Órgão Oficial do Instituto de Aposentadoria e Pensões dos Trabalhadores em Transportes e Cargas, Ano VI, nº 10, outubro.'
+  - 'KOPP, Anatole - Quando o moderno não era um estilo e sim uma causa. Nobel, São Paulo, 1991.'
+  - 'LE CORBUSIER - A Carta de Atenas. Hucitec, São Paulo, 1989.'
+  - 'LIMA, Attílio Corrêa - Parecer sobre o plano da cidade operária da FNM (24/8/1943) in Arquitetura 14, agosto 1963.'
+  - 'MELO, Marcus André - The state, the housing question and policy formation in Brazil 1937-1975. Tese de Doutorado, Graduate School in Art and Social Studies, London, 1987.'
+  - 'MELO, Marcus André - A não-política da casa popular 1946/1947 in Revista Brasileira de Ciências Sociais 15, ano 6, ANPOCS, 1991.'
+  - 'MAGRO, Simões - A habitação operária in 1 Congresso de Habitação. Instituto de Engenharia, São Paulo, 1931.'
+  - 'MINDLIN, Henrique - L''architecture moderne au Brésil. Vincent et Fréal, Paris, 1956.'
+  - 'PORTO, Rubens - O Problema das Casas Operárias e os Institutos e Caixas de Pensões, Rio de Janeiro, 1938.'
+  - 'SOUZA, Abelardo - Depoimentos.'
+  - 'TAFURI, Manfredo - Vienna Rossa. Electa, Milão, 1980.'
+  - 'VARGAS, Getúlio - A nova política do Brasil. Vol. 1,2,7,10. José Olímpio Editora. Rio de Janeiro, 1938.'
   locale: 'pt-BR'
   file: 'sdbr02-009.pdf'
   pages: '90-102'
@@ -210,13 +245,39 @@ articles:
   - givenname: Telma de Barros
     familyname: Correia
     email: null
-    affiliation: null
+    affiliation: 'EESC-USP'
     orcid: '0000-0001-8002-8748'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'O estreito vínculo entre a percepção e a gestão do tempo e a organização da cidade moderna é o tema deste trabalho. Entendendo a cidade como uma organização espacial e temporal, investiga como o urbanismo e a arquitetura dos séculos XIX e XX empenharam-se num descongestionamento e funcionalização da cidade e da moradia, que envolveu uma reordenação do espaço e do tempo, solidária com à produção crescente de velocidade correlata à Revolução industrial e à difusão de uma concepção linear e abstrata do tempo. Procura mostrar o impacto dessa aceleração sobre a forma e o ambiente urbano, através da reforma do habitat e da ênfase à circulação no desenho urbano. produção industrial – tornou-se um elemento impor-'
+  abstract: 'O estreito vínculo entre a percepção e a gestão do tempo e a organização da cidade moderna é o tema deste trabalho. Entendendo a cidade como uma organização espacial e temporal, investiga como o urbanismo e a arquitetura dos séculos XIX e XX empenharam-se num descongestionamento e funcionalização da cidade e da moradia, que envolveu uma reordenação do espaço e do tempo, solidária com à produção crescente de velocidade correlata à Revolução industrial e à difusão de uma concepção linear e abstrata do tempo. Procura mostrar o impacto dessa aceleração sobre a forma e o ambiente urbano, através da reforma do habitat e da ênfase à circulação no desenho urbano.'
+  references:
+  - 'BÉGUIN, François. Les Machines Anglaises du Confort. Recherches, Fontenay-sous-Bois, NOIRES-1466, 1978.'
+  - 'CORREIA, Telma de Barros. Pedra: plano e cotidiano operário no Sertão. O projeto urbano de Delmiro Gouveia. São Paulo, FAU-USP, agosto de 1995. Tese de Doutorado.'
+  - 'COSTA, Lucio. Relatório do Plano Piloto de Brasília. In: Seminário de Estudos dos Problemas Urbanos de Brasília. Brasília, Gráfica do Senado Federal, 1974.'
+  - 'ENGELS, Frederico. A Situação da classe trabalhadora na Inglaterra. Coleção Bases, São Paulo, Global, 1985.'
+  - 'GAZETA DE NOTÍCIAS. Rio de Janeiro, 30 de novembro de 1895.'
+  - 'GIEDION, Sigfried. Mechanization Takes Command. A Contribution to Anonymous History. New York-London, W.W. Norton & Company, 1948.'
+  - 'GROPIUS, Walter. Bauhaus: Novarquitetura. São Paulo, Perspectiva, 1977.'
+  - 'GUNN, Philip. Frank Lloyd Wright and the passage to Fordism. Capital & Class, London, N44 73-80, 1991.'
+  - 'KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo, Nobel-Edusp, 1990.'
+  - 'LE CORBUSIER. Tercer Congreso Internacional de Arquitectura Moderna - Bruselas. "¿Edificación alta, media o baja?" Rapport de Le Corbusier. In: A.C. Documentos de Actividad Contemporánea. Publicación del G.A.T.E.P.A.C. Barcelona-Madrid-San Sebastián, N° 3, 1931.'
+  - 'LE CORBUSIER. Urbanismo. São Paulo, Martins Fontes, 1992.'
+  - 'LE CORBUSIER. A Carta de Atenas. São Paulo, Editora Hucitec, 1993.'
+  - 'MAIA, Francisco Prestes. Estudo de Um Plano de Avenidas para a Cidade de São Paulo. São Paulo, Companhia de Melhoramentos de São Paulo, 1930.'
+  - 'MARINETTI, F. T. O Futurismo. Lisboa, Hiena Editora, 1995.'
+  - 'MUMFORD, Lewis. Cidade na História: suas origens, desenvolvimento e perspectivas. 2 ed. São Paulo, Martins Fontes, 1982.'
+  - 'MURARD, Lion; ZYLBERMAN, Patrick. Le Petit Travailleur Infatigable. Recherches, Paris, N.25, 1976.'
+  - 'NEUTRA, Richard J. Rush City Reformed. AC Documentos de Actividad Contemporánea. Publicación del G.A.T.E.P.A.C. Barcelona-Madrid-San Sebastián, N.15,19,23, 1934.'
+  - 'NOTAS Previas a un estudio urbanístico sobre Barcelona. A.C. Documentos de Actividad Contemporánea. Publicación del G.A.T.E.P.A.C. Barcelona-Madrid-San Sebastián, Año IV N.13/804-30, 1934.'
+  - 'PORTOGHESI, Paolo. Depois da Arquitectura Moderna. Lisboa, Edições 70, 1985.'
+  - 'RYBCZYNSKI, Witold. Casa: pequena história de uma idéia. Rio de Janeiro, Record, 1996.'
+  - 'THOMPSON, Edward P. Tradición, Revuelta y consciencia de clase. Estudios sobre la crisis de la sociedad preindustrial. Barcelona, Editorial Crítica, 1979.'
+  - 'TOLEDO, Eneás. A Cidade Moderna. Telas, Controvérsia e Feria. São Paulo, Cultura Moderna, 1937.'
+  - 'VIRILIO, Paul. O Espaço Crítico e As Perspectivas do Tempo Real. Rio de Janeiro, Editora 34, 1992.'
+  - 'VIRILIO, Paul e LOTRINGER, Sylvère. Guerra Pura. A militarização do cotidiano. São Paulo, Brasiliense, 1984.'
+  - 'ZEVI, Bruno. Frank Lloyd Wright. 2 ed. Barcelona, Editorial Gustavo Gili S.A., 1985.'
   locale: 'pt-BR'
   file: 'sdbr02-010.pdf'
   pages: '103-113'
@@ -227,7 +288,7 @@ articles:
   - givenname: Alberto
     familyname: Xavier
     email: null
-    affiliation: null
+    affiliation: 'Belas Artes-SP'
     orcid: null
     bio: null
     country: BR
@@ -235,7 +296,7 @@ articles:
   - givenname: Hugo
     familyname: Segawa
     email: 'segawa@exemplo.com'
-    affiliation: null
+    affiliation: 'EESC-USP'
     orcid: '0000-0002-2532-4664'
     bio: null
     country: BR
@@ -247,7 +308,8 @@ articles:
   pages: '114-117'
 
 - id: 'sdbr02-012'
-  title: Arquitetura e metrópole
+  title: Arquitetura e Metrópole
+  subtitle: 'alguns elementos para a caracterização do contexto arquitetônico em São Paulo, anos 40 e 50'
   authors:
   - givenname: Carlos Alberto Ferreira
     familyname: Martins
@@ -258,18 +320,29 @@ articles:
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Este texto não pretende comunicar resul- tados de um trabalho concluído mas antes relatar alguns aspectos do estágio atual da pesquisa sobre “A constituição da Arquitetura Moderna em São Paulo 1930-70”, em desenvolvimento pelo Grupo de Pesquisa em Arquitetura e Urbanismo da USP de São Carlos. Na fase atual da pesquisa o trabalho está concentrado na tentativa de caracterização do ambiente arquitetônico paulista durante os anos 40 e 50. Mais especificamente trata-se de identificar as condições econômicas e sociais, o ambiente cultural e os agentes arquitetônicos que contribuíram para a configuração de um contexto arquitetônico específico a partir do qual poderá ser reavaliada a emergência da chamada “escola paulista”. de intenso processo de internacionalização da infor-'
+  abstract: 'Este texto não pretende comunicar resultados de um trabalho concluído mas antes relatar alguns aspectos do estágio atual da pesquisa sobre "A constituição da Arquitetura Moderna em São Paulo 1930-70", em desenvolvimento pelo Grupo de Pesquisa em Arquitetura e Urbanismo da USP de São Carlos. Na fase atual da pesquisa o trabalho está concentrado na tentativa de caracterização do ambiente arquitetônico paulista durante os anos 40 e 50. Mais especificamente trata-se de identificar as condições econômicas e sociais, o ambiente cultural e os agentes arquitetônicos que contribuíram para a configuração de um contexto arquitetônico específico a partir do qual poderá ser reavaliada a emergência da chamada "escola paulista".'
+  references:
+  - 'BANEVILLE Jr., A. Euler. A Arquitetura dos Teatros Distritais da Prefeitura Municipal de São Paulo. São Paulo: Museu de Teatro Municipal, PMSP. (Caderno de pesquisa).'
+  - 'DUARTE, Hélio. "O problema escolar e a arquitetura". Habitat, São Paulo, n. 4, 1951, pp. 4 e 6.'
+  - 'FELDMAN, Sarah. Planejamento e Zoneamento. São Paulo: 1947-1972. Tese de Doutoramento. FAU-USP, 1996.'
+  - 'FERREIRA, Jorge. "São Paulo". O Cruzeiro, 25/01/1954, pp. 26-28.'
+  - 'MANGE, Ernesto R. C. "Arquitetura Escolar". Acrópole, São Paulo, ano XVII, n. 197, mar. 1955, p. 212.'
+  - 'MARTINS, Carlos. "A Constituição da Trama Narrativa na Historiografia da Arquitetura Brasileira". Revista Pós, jul. 1995, pp. 91-96.'
+  - 'MEYER, Regina. Metrópole e Urbanismo — São Paulo anos 50. Tese de Doutorado. FAU-USP, 1991.'
+  - 'MINDLIN, Henrique E. L''Architecture Moderne au Brésil. Amsterdam: Colibris, 1956.'
+  - 'SOMECK, Nadia. A Cidade Vertical e o Urbanismo Modernizador. Tese de Doutoramento. FAU-USP, 1994.'
+  - 'TEIXEIRA, Anísio. "Sobre o Convênio Escolar". Habitat, São Paulo, n. 4, jul.-set. 1951.'
   locale: 'pt-BR'
   file: 'sdbr02-012.pdf'
   pages: '118-124'
 
 - id: 'sdbr02-013'
-  title: O fim dos CIAM e a produção arquitetônica como crítica na década de 50
+  title: O fim dos CIAM e a produção Arquitetônica como crítica na década de 50
   authors:
   - givenname: Ana Claudia
     familyname: Castilho Barone
     email: null
-    affiliation: null
+    affiliation: 'FAU-USP'
     orcid: '0000-0001-6395-7668'
     bio: null
     country: BR
@@ -277,33 +350,43 @@ articles:
   - givenname: Ana Lúcia
     familyname: Duarte Lanna
     email: null
-    affiliation: null
+    affiliation: 'FAU-USP'
     orcid: '0000-0002-7868-5711'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Este trabalho é um projeto de pesquisa que terá como objeto a crítica ao movimento moderno em arquitetura tal como foi formulada na década de 50, pelos arquitetos do Team X, que se motivaram a fazer, partir de sua própria produção, uma revisão dos postulados funcionalistas propostos pelos CIAM desde 1928. Pretenderemos entender qual foi a repercussão da dissolução dos CIAM para a arquitetura e para o urbanismo naquele momento e quais foram as novas possibilidades abertas à prática do projeto no encaminhamento do trabalho dos arquitetos do Team X. O objetivo do trabalho não será dar fundamento ou apoio às críticas formuladas naquele momento, mas revelar a condição histórica do aparecimento de discursos e projetos arquitetônicos que se propunham a estabelecer critérios de abordagem dos problemas da cidade depois da II Guerra Mundial de modo diferente da abordagem universal do funcionalismo do período entre-guerras. Com este trabalho pretendemos estimular a discussão da arquitetura como campo privilegiado para o estudo das práticas de intervenção nas cidades. postulação dos princípios que passariam a reger o'
+  abstract: 'Este trabalho é um projeto de pesquisa que terá como objeto a crítica ao movimento moderno em arquitetura tal como foi formulada na década de 50, pelos arquitetos do Team X, que se motivaram a fazer, a partir de sua própria produção, uma revisão dos postulados funcionalistas propostos pelos CIAM desde 1928. Pretenderemos entender qual foi a repercussão da dissolução dos CIAM para a arquitetura e para o urbanismo naquele momento e quais foram as novas possibilidades abertas à prática do projeto no encaminhamento do trabalho dos arquitetos do Team X. O objetivo do trabalho não será dar fundamento ou apoio às críticas formuladas naquele momento, mas revelar a condição histórica do aparecimento de discursos e projetos arquitetônicos que se propunham a estabelecer critérios de abordagem dos problemas da cidade depois da II Guerra Mundial de modo diferente da abordagem universal do funcionalismo do período entre-guerras. Com este trabalho pretendemos estimular a discussão da arquitetura como campo privilegiado para o estudo das práticas de intervenção nas cidades.'
+  references:
+  - 'BAKEMA, J. "Otterlo ''59", introductory talk. Stuttgart.'
+  - 'BRUNNER, José Joaquín. "Cultura y crisis de la hegemonía". In: BRUNNER, J. J.; CATALÁN, G. Cinco estudios sobre cultura y sociedad. Santiago: FLACSO, 1985.'
+  - 'BÜRGER, Peter. Teoria da vanguarda. Lisboa: Vega.'
+  - 'CHOAY, Françoise. Urbanismo, utopias y realidades. Barcelona: Lumen, 1975.'
+  - 'FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1994.'
+  - 'HABERMAS, Jürgen. "Moderno, pós-moderno e contemporâneo". Arte em Revista, São Paulo, CEAC, n. 7, 1983.'
+  - 'HOBSBAWM, Eric. A era dos extremos. São Paulo: Companhia das Letras, 1997.'
+  - 'KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel-Edusp, 1990.'
   locale: 'pt-BR'
   file: 'sdbr02-013.pdf'
   pages: '125-129'
 
 - id: 'sdbr02-014'
   title: A estância moderna internacional
+  subtitle: 'a experiência do CPEU-FAUUSP em Campos do Jordão — SP'
   authors:
   - givenname: José Oswaldo Soares de
     familyname: Oliveira
     email: null
-    affiliation: null
+    affiliation: UNITAU
     orcid: null
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Esse texto apresenta o trabalho do CPEU - FAUUSP, Centro de Pesquisas e Estudos Urbanísticos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, realizado nos idos de 1958 à 1963 em Campos do Jordão, Sp. Aponta-se os antagonismos existentes entre as idéias do CPEU (tributárias do CIAM e do democracia cristã do Padre Lebret) e as propostas para transformar essa estância em centro turístico internacional. Destaca-se as contradições entre a previsão de expansão urbana ante ao ambiente dessa região da Mantiqueira, impróprio a concentração urbana. E, revela-se a dicotomia entre os diagnósticos e a fragilidade das intenções sociais diante da realidade de miséria social no município. 1 Pesquisa apresentada pelo autor à disciplina Os Processos de Planejamento e do Projeto Urbano: Philip Gunn, FAUUSP, curso de doutorado, 1992. iniciativas para transformar as fazendas de Campos'
+  abstract: 'Esse texto apresenta o trabalho do CPEU - FAUUSP, Centro de Pesquisas e Estudos Urbanísticos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, realizado nos idos de 1958 à 1963 em Campos do Jordão, Sp. Aponta-se os antagonismos existentes entre as idéias do CPEU (tributárias do CIAM e da democracia cristã do Padre Lebret) e as propostas para transformar essa estância em centro turístico internacional. Destaca-se as contradições entre a previsão de expansão urbana ante ao ambiente dessa região da Mantiqueira, impróprio à concentração urbana. E, revela-se a dicotomia entre os diagnósticos e a fragilidade das intenções sociais diante da realidade de miséria social no município.'
   references:
-  - '1 vide, OLIVEIRA, José Oswaldo Soares de. A Quem Interessa a Ur- banização Clandestina ? São Carlos. EESC-USP. 1991 - Dissertação de mestrado - esp.: 1a parte; O Planejamento das Cidades Modelos: Sanitária e Turística; Considerações Analíticas; e, Conclusões.'
-  - 2 Jornal A Cidade de Campos do Jordão. 11.3.1951
+  - 'OLIVEIRA, José Oswaldo Soares de. A Quem Interessa a Urbanização Clandestina? São Carlos: EESC-USP, 1991. Dissertação de Mestrado.'
+  - 'Plano Diretor de Campos do Jordão. São Paulo: CPEU, 1960.'
   locale: 'pt-BR'
   file: 'sdbr02-014.pdf'
   pages: '130-142'
@@ -321,14 +404,22 @@ articles:
     country: BR
     primary_contact: false
   section: null
-  abstract: null
+  abstract: 'Este trabalho busca mostrar alguns projetos e idéias sobre arquitetura, que fazem parte dos debates que se processaram principalmente nos anos 50 em São Paulo e se revelam como desdobramentos de uma postura que se desenvolve em âmbito internacional. São apresentadas algumas obras onde o trabalho conjunto de arquitetos, artistas plásticos e paisagistas produziu resultados que visavam à constituição de uma arquitetura voltada para a inserção da esfera artística na vida cotidiana e a construção de um ambiente que revertesse para o bem estar do homem. Esta proposta abrangente é aqui mostrada em suas formulações e nas obras a elas correlatas, que hoje ainda pontuam a paisagem paulista como fragmentos, indicando o ideário e as aspirações de um momento rico e instigante da arquitetura moderna no Brasil.'
+  references:
+  - 'ARGAN, Giulio Carlo. Walter Gropius e a Bauhaus. Lisboa: Editorial Presença, 1984.'
+  - 'BRANCA, Mario. "A Arquitetura como plástica e a importância atual de síntese das artes". Brasil-Arquitetura Contemporânea, n. 7, 1956.'
+  - 'CLARK, Lígia. "Uma experiência de integração". Brasil Arquitetura Contemporânea, Rio de Janeiro, n. 6, 1956.'
+  - 'CORDEIRO, Waldemar. "A Arte Humanista, O Mural e a escultura — O Cruzeiro citou ''as tendências de vanguarda: Para uma arte coletiva''". Folha da Manhã, 30 ago. 1955, p. 7.'
+  - 'CORDEIRO, Waldemar. "Arte, Arquitetura e Vida". AD Arquitetura e Decoração, n. 26, dez. 1957, p. 3.'
+  - 'GIEDION, Siegfried. Arquitectura y Comunidad. Buenos Aires: Ediciones Nueva Visión, 1964.'
+  - 'LEVI, Rino. "Síntese das Artes Plásticas". Revista Acrópole, São Paulo, ano 16, n. 184, 1953, p. 131.'
   locale: 'pt-BR'
   file: 'sdbr02-015.pdf'
   pages: '143-148'
 
 - id: 'sdbr02-016'
   title: Artigas
-  subtitle: um caminho da Arquitetura brasileira
+  subtitle: um caminho da Arquitetura Brasileira
   authors:
   - givenname: Miguel Antônio
     familyname: Buzzar
@@ -339,18 +430,35 @@ articles:
     country: BR
     primary_contact: false
   section: null
-  abstract: null
+  abstract: 'O trabalho procura discutir o percurso inicial da obra de Artigas a partir das questões que sua produção revela. Centrado principalmente nas residências projetadas nos anos 40 e 50, desde as suas propostas wrightianas, passando pelo período marcado pelo trabalho de Le Corbusier e do grupo moderno carioca, busca-se verificar as constantes conceituais na sua produção, bem como sua contribuição específica, formadora da denominada escola paulista.'
+  references:
+  - 'ANDRADE, Antonio Luiz Dias de. "O Nariz Torcido de Lucio Costa". Sinopses, n. 18, p. 6.'
+  - 'ARANTES, Otília F. "Arquitetura Simulada". In: O Olhar, p. 262.'
+  - 'ARTIGAS, J. B. V. A Função Social do Arquiteto.'
+  - 'ARTIGAS, J. B. V. "Arquitetura, política e paixão: a idéia de humanismo" (entrevista). Arquitetura e Urbanismo, n. 1, p. 26.'
+  - 'BANHAM, Reyner. O Brutalismo em Arquitectura.'
+  - '"Caminhos da Arquitetura Moderna". Fundamentos, São Paulo, n. 24, jan. 1952, pp. 20-24.'
+  - '"Construir com Simplicidade". Habitat, n. 9, 1952, p. 15.'
+  - 'COSTA, Lúcio. "Razões da Nova Arquitetura". In: Sobre Arquitetura, pp. 17-41.'
+  - 'FARIAS, Agnaldo. La Arquitectura de Ruy Ohtake.'
+  - 'JAMESON, Fredric. "Sobre a Substituição de Importações Literárias e Culturais no Terceiro Mundo: O Caso da Obra Testemunhal". In: JAMESON, F. Espaço e Imagem, p. 103.'
+  - 'ROCHA FILHO, Gustavo Neves da. "A Tradição na Arquitetura Brasileira". In: Anais do IV Congresso Brasileiro de Arquitetos, pp. 177-179.'
+  - 'ROSSI, Aldo. A Arquitetura da Cidade.'
+  - 'ROSSI, Aldo. Autobiografia Científica.'
+  - 'SILVA, Fernanda Fernandes da. Relatório de Pesquisa.'
+  - 'WRIGHT, Frank Lloyd. "Arquitetura Moderna". In: KAUFFMAN, E.; RAEBURN, B. (ed.). Frank Lloyd Wright — Sus Ideas y sus Realizaciones.'
   locale: 'pt-BR'
   file: 'sdbr02-016.pdf'
   pages: '149-159'
 
 - id: 'sdbr02-017'
-  title: Tradição e modernidade no desenho da cidade estadonovista brasileira
+  title: Tradição e Modernidade no Desenho da cidade estadonovista brasileira
+  subtitle: a avenida Guararapes no Recife
   authors:
   - givenname: Fernando Diniz
     familyname: Moreira
     email: 'fmoreira@hotlink.com.br'
-    affiliation: null
+    affiliation: 'MDU-UFPE'
     orcid: '0000-0002-1387-4036'
     bio: null
     country: BR
@@ -358,19 +466,36 @@ articles:
   - givenname: Guilah
     familyname: Naslavsky
     email: 'guilahn@uol.com.br'
-    affiliation: null
+    affiliation: 'MDU-UFPE'
     orcid: '0000-0003-3367-9657'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Este trabalho procura analisar a produção de um conjunto urbanístico-arquitetônico moderno durante o Estado Novo, a abertura da Av. 10 de Novembro, atual Guararapes. Esta intervenção, feito de uma ampla discussão sobre o urbanismo moderno no Recife, configurou uma nova imagem de cidade e de estética urbana e foi influenciada pelas idéias de modernização e embelezamento vigentes na época, podendo ser associada ao ideário de Alfred Agache, em seu Plano do Rio de Janeiro e sua ênfase na conformação de conjuntos monumentais nas áreas centrais. Após uma breve apresentação da obra de Agache, procuramos refazer a trajetória de influências e transferências dos ideários urbanísticos, analisando a discussão do urbanismo moderno no Recife dos anos 20, o plano de Nestor de Figueiredo, o processo de abertura da referida Avenida, o regulamento imposto e o conjunto arquitetônico e urbanístico gerado. do plano de Nestor de Figueiredo para Recife. Em'
+  abstract: 'Este trabalho procura analisar a produção de um conjunto urbanístico-arquitetônico moderno durante o Estado Novo, a abertura da Av. 10 de Novembro, atual Guararapes. Esta intervenção, feita de uma ampla discussão sobre o urbanismo moderno no Recife, configurou uma nova imagem de cidade e de estética urbana e foi influenciada pelas idéias de modernização e embelezamento vigentes na época, podendo ser associada ao ideário de Alfred Agache, em seu Plano do Rio de Janeiro e sua ênfase na conformação de conjuntos monumentais nas áreas centrais. Após uma breve apresentação da obra de Agache, procuramos refazer a trajetória de influências e transferências dos ideários urbanísticos, analisando a discussão do urbanismo moderno no Recife dos anos 20, o plano de Nestor de Figueiredo, o processo de abertura da referida Avenida, o regulamento imposto e o conjunto arquitetônico e urbanístico gerado.'
+  references:
+  - 'AGACHE, Alfred. Cidade do Rio de Janeiro: remodelação, extensão e embellezamento. Paris: Foyer Brésilien, 1930.'
+  - 'AZEVEDO, Washington. "Parecer sobre a remodelação e extensão da cidade do Recife". Revista Brasileira de Engenharia, Rio de Janeiro, vol. XXVII, n. 5, jun. 1934.'
+  - 'AZEVEDO, Washington. Urbanismo no Brasil. Rio de Janeiro: Cia Ed. Henrique Mello, 1934.'
+  - '"Ata da 1ª Reunião da Comissão do Plano da Cidade". Boletim de Engenharia, Recife, n. 12, ago. 1931, pp. 283-284.'
+  - 'BRUANT, Catherine. "Donat Alfred Agache: urbanismo, sociologia aplicada". In: RIBEIRO, Luiz Cézar; PECHMAN, Robert (orgs). Cidade, povo, nação: gênese do urbanismo moderno. Rio de Janeiro: Civilização Brasileira, 1994.'
+  - 'CORREA LIMA, Attílio. "Plano de remodelação do Recife". Urbanismo e Viação, Rio de Janeiro, n. 9, jul. 1940; n. 11, dez. 1940; n. 15, jul. 1941.'
+  - 'ESTELITA, José. "As duas maiores necessidades do Recife". A Província, Recife, 3 jul. 1929, n. 150.'
+  - 'LAMAS, José R. G. Morfologia urbana e desenho da cidade. Lisboa: JNICT/Calouste Gulbenkian, 1994.'
+  - 'MOREIRA, Fernando D. "Idéias e planos do Urbanismo moderno na cidade do Recife no segundo quartel do século". In: Anais do IV Seminário de História da Cidade e do Urbanismo. Rio de Janeiro: PROURB/UFRJ, 1997, pp. 777-791.'
+  - 'OUTTES, Joel. Recife pregado à cruz das grandes avenidas: contribuição à história do Urbanismo (1927-1945). Tese de Mestrado. Recife: MDU/UFPE, 1991.'
+  - 'Prefeitura Municipal do Recife. Decreto nº 374 de 12/08/1936. Regulamento de Construções do Município do Recife. Recife: Imprensa Oficial, 1936.'
+  - 'PRESTES MAIA, Francisco. "Os melhoramentos de Recife: notas de viagem". Revista Polytechnica, São Paulo, n. 110, 111, 113, 115, 119, 122.'
+  - 'PRESTES MAIA, Francisco; ULHÔA CINTRA, J. F. "Os grandes melhoramentos de São Paulo". Boletim do Instituto de Engenharia, São Paulo, n. 26-27, out./1924-mar./1925; n. 28-29, 1925; n. 31, mar.-jun./1926.'
+  - '"Seis annos de administração municipal (1937-1943)". Relatório do prefeito Novaes Filho. Recife: PMR, 1944.'
+  - 'ULHÔA CINTRA, J. F. "Sugestões para orientação do Estado de um Plano Geral de Remodelação e Expansão da Cidade do Recife". Arquivos, ano 2, n. 1-2, dez. 1943.'
   locale: 'pt-BR'
   file: 'sdbr02-017.pdf'
   pages: '160-184'
 
 - id: 'sdbr02-018'
-  title: A posição do Brasil quanto à Arquitetura contemporânea na América Latina
+  title: A posição do Brasil quanto à Arquitetura Contemporânea na América Latina
+  subtitle: 'breve panorama incluindo Argentina, Colômbia, Chile e Venezuela'
   authors:
   - givenname: Ana
     familyname: Lima
@@ -383,25 +508,32 @@ articles:
   section: null
   abstract: null
   references:
-  - 'lizado em casas das classes mais abastadas, pro- jetadas em estilo inglês, especialmente em Bogotá, 1 Waisman, Marina opus cit Fernández-Galiano, Luis. “America de Me- nos anos 30. À medida em que o material foi adotado moria: Una Mirada Espanhola”. A&V Monografias de Arquitectura y Vi- vienda, n° 48, 1994. em larga escala também nos projetos modernistas, acabou criando uma forte identidade, sendo tratado 2 Roca, Miguel Angel(Ed). “The Architecture of Latin America”. Aca- de forma bastante detalhada e bem acabada, o que demy editions. Great Britain, 1995. foi possível graças à presença de mão-de-obra es- 3 Fernández-Galiano, Luis. “America de Memoria: Una Mirada Espa- pecializada nas técnicas envolvidas no uso do tijolo. nhola”. A&V Monografias de Arquitectura y Vivienda, n° 48, 1994.'
-  - 'Bogotá, a capital colombiana, possuiu durante muito'
+  - 'FERNÁNDEZ-GALIANO, Luis. "América de Memoria: Una Mirada Española". A&V Monografías de Arquitectura y Vivienda, nº 48, 1994.'
+  - 'Roca, Miguel Angel (Ed). "The Architecture of Latin America". Academy editions. Great Britain, 1995.'
+  - 'Fernández-Galiano, Luis. "America de Memoria. Una Mirada Española". A&V Monografías de Arquitectura y Vivienda, nº 48, 1994.'
   locale: 'pt-BR'
   file: 'sdbr02-018.pdf'
   pages: '185-189'
 
 - id: 'sdbr02-019'
-  title: A Arquitetura Moderna na orla santista 1930/1970
+  title: A Arquitetura Moderna na Orla santista 1930/1970
   authors:
   - givenname: Jaqueline Fernández
     familyname: Alves
     email: 'j.fernandez.alves@gmail.com'
-    affiliation: null
+    affiliation: 'FAU-USP'
     orcid: '0009-0001-4939-0324'
     bio: null
     country: BR
     primary_contact: false
   section: null
   abstract: null
+  references:
+  - 'Harvey, David. "Condição Pós-Moderna". São Paulo: Loyola, 1994.'
+  - 'Alves, Jaqueline Fernández. "A Vocação Turística Santista — Notas sobre a evolução urbana da orla marítima". FAU/USP Pós-Graduação. Trabalho para a disciplina "História Social da Arquitetura e do Urbanismo Modernos". São Paulo, dezembro de 1994.'
+  - 'Giddens, Anthony. "As Consequências da Modernidade". São Paulo: Unesp, 1990.'
+  - 'Stroeter, João Rodolfo. "Arquitetura e Teorias". São Paulo, Nobel, 1986.'
+  - 'Costa, Lúcio. "Registro de Uma Vivência". Encarte anexo. São Paulo: Empresa das Artes, 1995.'
   locale: 'pt-BR'
   file: 'sdbr02-019.pdf'
   pages: '190-193'
@@ -412,19 +544,25 @@ articles:
   - givenname: Gunter
     familyname: Kohlsdorf
     email: null
-    affiliation: null
+    affiliation: 'FAU-UnB'
     orcid: null
     bio: null
     country: BR
     primary_contact: false
   section: null
   abstract: 'Apresenta-se uma avaliação do centro urbano de Brasília a partir de certas dimensões morfológicas - a funcional, a bioclimática, a topoceptiva, a co-presencial e a expressivo-simbólica - visando oferecer uma moldura conceitual mais transparente e objetiva à discussão sobre esta cidade, especificamente, e sobre o urbanismo modernista, genericamente. Conclui-se especulando sobre possíveis posturas de intervenção, a partir do leque de virtudes e problemas apontados, bem como de suas possíveis implicações.'
+  references:
+  - 'COSTA, Lucio. Brasília, cidade que inventei / Relatório do Plano Piloto de Brasília. Brasília: GDF / CODEPLAN, 1991.'
+  - 'GDF / Administração Regional de Brasília. Pré-diagnóstico dos Principais Problemas Urbanos do Plano Piloto de Brasília. Brasília: GDF, 1994.'
+  - 'Governo do Distrito Federal / Universidade de Brasília. Plano de Circulação da Área Central Sul de Brasília. Brasília: GDF, 1992.'
+  - 'HOLANDA, F.; KOHLSDORF, G.; KOHLSDORF, M. E.; OLIVEIRA, P. M.; VILLAS BOAS, M. Dimensões Morfológicas do Processo de Urbanização. Brasília: FAU / UnB - FINEP e CNPq, relatórios de pesquisa não-publicados, 1989, 1992.'
+  - 'HOLANDA, F. Uma caricatura de urbanidade. Brasília: mimeo, 1995.'
   locale: 'pt-BR'
   file: 'sdbr02-020.pdf'
   pages: '194-206'
 
 - id: 'sdbr02-021'
-  title: As três faces modernistas de Brasília
+  title: As três faces Modernistas de Brasília
   authors:
   - givenname: Maria Elaine
     familyname: Kohlsdorf
@@ -435,57 +573,84 @@ articles:
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Apresentam-se resultados de estudos comparativos de desempenho topoceptivo de três tipos mórficos brasilienses, pertencentes à vertente modernista de organização do espaço. Os tipos acampamento pioneiro, modernista genuíno e modernista periférico possuem, por um lado, capacidades topoceptivas distintas mas sofrem, por outro, processos de mutação de suas características morfológicas que indicam assemelhação entre os mesmos e, conseqüentemente, queda da intensidade de suas respectivas identidades. distâncias. Não obstante, todas estas partes cons-'
+  abstract: 'Apresentam-se resultados de estudos comparativos de desempenho topoceptivo de três tipos mórficos brasilienses, pertencentes à vertente modernista de organização do espaço. Os tipos acampamento pioneiro, modernista genuíno e modernista periférico possuem, por um lado, capacidades topoceptivas distintas mas sofrem, por outro, processos de mutação de suas características morfológicas que indicam assemelhação entre os mesmos e, consequentemente, queda da intensidade de suas respectivas identidades.'
+  references:
+  - 'CHOAY, Françoise. O Urbanismo. São Paulo: Ed. Perspectiva, 1980.'
+  - 'CHOAY, Françoise. The Modern City: Planning in the 19th Century. New York: Braziller, 1969.'
+  - 'COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995.'
+  - 'COSTA, Lúcio. Relatório do Plano Piloto de Brasília. Brasília: GDF/ArPDF/CODEPLAN/DePHA, 1991.'
+  - 'GOROWITZ, Matheus. Brasília, uma Questão de Escala. São Paulo: Ed. Projeto.'
+  - 'GT Brasília: Dossier Brasília / UNESCO. Brasília: SPHAN/Pró-Memória/UnB/GDF, 1987.'
+  - 'KOHLSDORF, Gunter. "Brasília: O Dilema entre ser Cidade Ideal ou Cidade Real". In: Anais do IV Seminário sobre História da Cidade e do Urbanismo. Rio de Janeiro: PROURB, 1996.'
+  - 'KOHLSDORF, Gunter; CORDEIRO, L. A. "Brasília: Algumas Especulações Prospectivas". In: PAVIANI, Aldo. Brasília, Ideologia e Realidade. São Paulo: Ed. Projeto, 1985.'
+  - 'KOHLSDORF, Maria Elaine. A Apreensão da Forma da Cidade. Brasília: Ed. UnB, 1996.'
   locale: 'pt-BR'
   file: 'sdbr02-021.pdf'
   pages: '207-217'
 
 - id: 'sdbr02-022'
-  title: A determinação negativa do movimento moderno
+  title: A determinação negativa do Movimento Moderno
   authors:
   - givenname: Frederico Rosa Borges de
     familyname: Holanda
     email: null
-    affiliation: null
+    affiliation: 'FAU-UnB'
     orcid: '0000-0002-3592-2246'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'A questão do chamado “determinismo arquitetônico” tem sido mal colocada pela teoria. Nesta comunicação, sugere-se que a arquitetura tem implicações que são inerentes a certos aspectos de sua configuração, e outras que são convencionais. Frisa-se a importância de compreender as primeiras, pois, afinal, projetamos a forma a ser efetivamente construída, e não as convenções pelas quais ela virá a ser utilizada. Sugere-se que, na natureza contraditória do urbanismo moderno, a configuração das cidades naquilo que diz respeito à sua sintaxe - seu sistema de barreiras e permeabilidades - é sua dimensão mais problemática. “Arquitetura ou revolução. Podemos evitar a revolução.” Le Corbusier1 “Muitas escadas e portas de fundos fazem ladrões e prostitutas” Sir Balthazar Garbier2 (admitindo que exerça algum) na construção da sociedade. Parece que na base destes problemas está a falta de uma conceituação mais precisa da própria arquitetura, de uma maneira geral, e da compreensão de suas implicações quanto aos comportamentos sociais, de maneira mais específica. As teorias arquitetônicas têm pecado por imprecisão em duas direções: A. na descrição do próprio fenô-meno, pela qual se captariam melhor os atributos arquitetônicos que permitiriam, com rigor, estabelecer semelhanças e diferenças entre manifestações e B. no relacionamento entre os atributos do fenômeno, assim rigorosamente captados, e as expectativas sociais, historicamente determinadas, em relação a tal fenômeno. No que se segue, não há uma discussão extensiva sobre o tema. Antes, a atenção se concentra num determinado tipo de implicações, aquelas que estão relacionadas, dito de maneira genérica por enquanto, aos comportamentos sociais. Entretanto, farei inicialmente algumas colocações de natureza mais geral, para contextualizar esta discussão no âmbito'
+  abstract: 'A questão do chamado "determinismo arquitetônico" tem sido mal colocada pela teoria. Nesta comunicação, sugere-se que a arquitetura tem implicações que são inerentes a certos aspectos de sua configuração, e outras que são convencionais. Frisa-se a importância de compreender as primeiras, pois, afinal, projetamos a forma a ser efetivamente construída, e não as convenções pelas quais ela virá a ser utilizada. Sugere-se que, na natureza contraditória do urbanismo moderno, a configuração das cidades naquilo que diz respeito à sua sintaxe — seu sistema de barreiras e permeabilidades — é sua dimensão mais problemática.'
+  references:
+  - 'ALEXANDER, Christopher. Comunidad y privacidad. Buenos Aires: Ed. Nueva Visión, 1970.'
+  - 'ARANTES, Otília. "Do universalismo moderno ao regionalismo pós-crítico". Comunicação. Seminário Universidade e diversidade no Movimento Moderno em Arquitetura e Urbanismo no Brasil, UFBA, Salvador, 12-14 jun. 1995.'
+  - 'BERMAN, Marshall. Tudo que é Sólido Desmancha no Ar — A Aventura da Modernidade. São Paulo: Companhia das Letras, 1987.'
+  - 'DOUGLAS, Mary. "Symbolic orders in the use of domestic space". In: UCKO, P. J. et al. (eds.). Man, Settlement and Urbanism. London: Duckworth, 1972.'
+  - 'FOUCAULT, Michel. "Espaço, conhecimento e poder" (entrevista a Paul Rabinow). Skyline, 1982.'
+  - 'HILLIER, Bill. Space is the machine. Cambridge: Cambridge University Press, 1996.'
+  - 'HILLIER, Bill; HANSON, Julienne. The Social Logic of Space. Cambridge: Cambridge University Press, 1984.'
+  - 'HOBSBAWM, Eric. "Cities and insurrections". In: Revolutionaries. London: Quartet Books, 1977, p. 233.'
+  - 'HOLANDA, Frederico de. "Formalidade e urbanidade: dois paradigmas sócio-espaciais". Comunicação. Seminário Cidade e Imaginação, Rio de Janeiro, 16-18 nov. 1994.'
+  - 'HOLANDA, Frederico de. O espaço de exceção. Tese de Doutorado. Universidade de Londres, 1997.'
+  - 'HOLANDA, Frederico de; KOHLSDORF, Gunter. "Sobre o Conceito de Arquitetura". In: Anais do Seminário Nacional — O Estudo da História na Formação do Arquiteto. FAUSP/FAPESP, 1995, pp. 196-203.'
+  - 'HOLSTON, James. A cidade modernista — Uma crítica de Brasília e sua utopia. São Paulo: Companhia das Letras, 1993.'
+  - 'LE CORBUSIER. Por uma Arquitetura. São Paulo: Ed. Perspectiva, 1977.'
+  - 'MACHADO, Lia Z.; MAGALHÃES, Themis Q. "Imagens do espaço: imagens de vida". In: PAVIANI, Aldo (org.). Brasília, ideologia e realidade — espaço urbano em questão. São Paulo: Projeto, 1985.'
+  - 'PEARSON, M. P.; RICHARDS, C. Architecture & Order. London/New York: Routledge, 1997.'
+  - 'PEPONIS, John. "Espaço, cultura e desenho urbano no modernismo tardio e além dele". Boletim do Instituto de Arquitetura e Urbanismo, Universidade de Brasília, n. 51.'
+  - 'SÁ, Cristina. "Observações sobre a habitação em três grupos indígenas brasileiros". In: NOVAES, Sylvia C. (org.). Habitações Indígenas. São Paulo: Livraria Nobel / Ed. da Universidade de São Paulo, 1983.'
+  - 'SENNETT, Richard. Carne e pedra — O corpo e a cidade na civilização ocidental. São Paulo: Editora Record, 1997.'
+  - 'SENNETT, Richard. O declínio do homem público — as tiranias da intimidade. São Paulo: Companhia das Letras, 1988.'
   locale: 'pt-BR'
   file: 'sdbr02-022.pdf'
   pages: '218-229'
 
 - id: 'sdbr02-023'
-  title: Modernidade e tradição
+  title: Modernidade e Tradição
   subtitle: 'o projeto da Malagueira em Évora, Portugal'
   authors:
   - givenname: Juan Antonio
     familyname: Zapatel
     email: null
-    affiliation: null
+    affiliation: UFSC
     orcid: '0000-0002-6784-8415'
     bio: null
     country: BR
     primary_contact: false
   section: null
-  abstract: 'Este artigo apresenta um estudo do projeto habitacional da Malagueira, do arquiteto Álvaro Siza Viera, para a periferia da cidade de Évora, em Portugal. O projeto e o início da construção datam de 1977. Atualmente, a maior parte das unidades estão concluídas, representando em termos europeos uma das maiores obras recentes no campo da habitação social. Sob uma análise da prática contemporânea do projeto urbano, vinculada tanto a cultura arquitetónica moderna como a local, reconhece-se através deste trabalho, um dos caminhos da arquitetura habitacional para a construção da cidade contemporânea. urbana de Évora, é desapropiada a “Quinta da Mala-'
-  references:
-  - 'Modernidade e tradição, entendidas sob uma pers- 1 A proposito dos projetos SAAL, vide Costa, 1978. pectiva histórica que informa o futuro; utilizando-se tanto os instrumentos conceituaís e operativos de- 2 As informações transcritas neste item foram obtidas por meio de en- trevista com o Sr. Alfredo Gonçalves, vice-presidente da Cooperativa senvolvidos pela cultura moderna, quanto da ado- Giralda, em entrevista realizada em julho de 1997, em Évora, Portugal. ção de soluções características dos modos de vida, que sedimentadas ao longo do tempo, constituem a 3 O valor percentual é calculado sobre o preço de venda do imóvel e pode incidir uma taxação de 15% na transferência do imóvel, segun- cultura arquitetõnica do lugar. do informações obtidas junto a Cooperativa Giralda.'
-  - 'O conhecimento do universal e do local, e sua incor- 4 A proposito sobre este assunto, vide Rowe, 1993, p. 261. poração ao projeto, através da reinterpretação de so- 5 Esclarecimentos sobre este assunto foram obtidos com o técnico em luções, permite o estabelecendo de vínculos, onde construção Sr, Jose Bandeira, em entrevista realizada em julho de 1997.'
-  - 'figura 07 – Rua da Malagueira. Foto: autor figura 08 – Aqueduto romano em Évora. Foto: autor'
+  abstract: 'Este artigo apresenta um estudo do projeto habitacional da Malagueira, do arquiteto Álvaro Siza Vieira, para a periferia da cidade de Évora, em Portugal. O projeto e o início da construção datam de 1977. Atualmente, a maior parte das unidades estão concluídas, representando em termos europeus uma das maiores obras recentes no campo da habitação social. Sob uma análise da prática contemporânea do projeto urbano, vinculada tanto a cultura arquitetônica moderna como a local, reconhece-se através deste trabalho, um dos caminhos da arquitetura habitacional para a construção da cidade contemporânea.'
   locale: 'pt-BR'
   file: 'sdbr02-023.pdf'
   pages: '230-237'
 
 - id: 'sdbr02-024'
   title: Intervenções contemporâneas na Arquitetura e no Urbanismo modernos
+  subtitle: 'limites conceituais, políticos e operacionais da preservação'
   authors:
   - givenname: Sônia Maria de Barros
     familyname: Marques
     email: 'marquessonia@hotmail.com'
-    affiliation: null
+    affiliation: UFPE
     orcid: '0000-0003-0481-0118'
     bio: null
     country: BR
@@ -493,7 +658,7 @@ articles:
   - givenname: Kátia
     familyname: Vainsencher
     email: null
-    affiliation: null
+    affiliation: 'MDU-UFPE'
     orcid: null
     bio: null
     country: BR

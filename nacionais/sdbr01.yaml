@@ -9,7 +9,7 @@ issue:
   editors:
   - José Carlos Huapaya Espinoza
   - Alexandre Pajeú Moura
-  description: '1° Seminário Docomomo Brasil: anais: Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Alexandre Pajeú Moura. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia; PPGAU-UFBA, 1995. ISBN: 978-85-66843-07-1.'
+  description: '1° Seminário Docomomo Brasil: anais: Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Alexandre Pajeú Moura. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia; PPGAU-UFBA, 1995. ISBN: 978-85-66843-07-1. Disponível em: https://repositorio.ufba.br/handle/ri/30972'
   source: 'https://publicacoes.docomomobrasil.com/anais/issue/view/sdbr01'
   date_published: '1995-01-01'
   volume_pdf: sdbr01_anais.pdf
@@ -20,34 +20,8 @@ issue:
   - title: Parte 02
 articles:
 
-- id: 'sdbr01-001'
-  title: O 1º Seminário Docomomo_Brasil
-  subtitle: 'proposta, realização, memória'
-  authors:
-  - givenname: José Carlos Huapaya
-    familyname: Espinoza
-    email: 'jhuapayae@gmail.com'
-    affiliation: null
-    orcid: '0000-0001-6776-8821'
-    bio: null
-    country: BR
-    primary_contact: false
-  - givenname: Caio Anderson da Silva de
-    familyname: Almeida
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
-  section: Parte 01
-  abstract: null
-  locale: 'pt-BR'
-  file: 'sdbr01-001.pdf'
-  pages: '8-13'
-
 - id: 'sdbr01-002'
-  title: O Patrimônio Histórico e Artístico do SPHAN
+  title: O Patrimônio Histórico e artístico do SPHAN
   authors:
   - givenname: Silvana Barbosa
     familyname: Rubino
@@ -60,20 +34,12 @@ articles:
   section: Parte 02
   abstract: null
   references:
-  - 'CONSIDERAÇÕES FINAIS ANDRADE, Mário de (1981). Cartas de trabalho. Brasília, MEC/SPHAN/ Fundação Nacional Pró-Memória. Publicações SPHAN no. 33. Não é a intenção deste trabalho tecer críticas à ação'
-  - 'ANDRADE, Rodrigo Mello Franco de (1986) Rodrigo e seus tempos. do SPHAN, mas refletir um pouco sobre esta. Se a Rio de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória, questão para Rodrigo ao fundar uma instituição, formar Publicações SPHAN no. 37. um corpo técnico, iniciar um trabalho de pesquisa'
-  - 'ANDRADE, Rodrigo Mello Franco de (1987) Rodrigo e o SPHAN. Rio e documentação era romper com o amadorismo de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória. que detectava em nos anos trinta, hoje temos mais Publicações SPHAN no. 38 de cinqüenta anos de experiência acumulada, e é'
-  - 'BOURDIEU, Pierre (1988) Lições de Aula. São Paulo, Editora Ática. consenso que o SPHAN foi uma experiência intelectual e institucional extremamente bem sucedida. Ao LÉVI-STRAUSS, Claude (1976) O Pensamento Selvagem. São Paulo, organizar, catalogar, classificar e salvar, resíduos da Companhia Editora Nacional. história passada e presente, o SPHAN realiza um duplo RUBINO, Silvana (1995) “Clube de Pesquisadores: a Sociedade de movimento: nos permite uma recomposição de quatro Etnografia e Folclore e a Sociedade de Sociologia” in MICELI, Sergio séculos de Brasil e nos dá um retrato de si próprio, (org.) História das Ciências Sociais no Brasil. volume II. São Paulo, Editora Sumaré (no preto). de uma geração que marcou a experiência cultural brasileira deste século e com quem continuamos a dialogar, implícita ou explicitamente. NOTAS 1 Aula proferida por Rodrigo Mello Franco de Andrade no Instituto “Como é um lugar quando ninguém passa por ele?’ Guarujá-Bertioga em 1961 onde ele cunhou essa definição “clássica”: escreveu o poeta Carlos Drummond de Andrade, “O que se denomina patrimônio histórico e artístico nacional representa parte muito relevante e expressiva do acervo aludido, por ser o espólio'
-  - 'dos bens materiais móveis e imóveis aqui produzidos por nossos antepassados, com valor de obras de arte erudita e popular, ou vinculados a personagens e fatos memoráveis da história do Brasil. São documentos de identidade da nação brasileira.” In ANDRADE, R. :1987,57'
-  - '4 ANDRADE, R. (1987:48)'
-  - '5 ANDRADE, R.1985:254.'
-  - '6 Essas categorias estão definidas no decreto-lei no. 25: 1º) no livro do Tombo Arqueológico, Etnográfico e Paisagístico, as coisas pertencentes às categorias de arte arqueológica, etnográfica, ameríndia e popular (...); 2º) no livro do Tombo Histórico, as coisas de interesse histórico e as obras de arte histórica; 3º) no livro do Tombo das Belas-Artes, as coisas de arte erudita nacional ou estrangeira; 4º) no livro do Tombo das Artes Aplicadas, as obras que se incluem na categoria artes aplicadas, nacionais ou estrangeiras.”'
-  - '7 Me refiro ao projeto do deputado estadual Paulo Duarte, que pretendia criar um serviço estadual de patrimônio com base no anteprojeto de Mário de Andrade, muito colado neste e em cooperação com o governo federal. Este projeto tramitou pela assembléia paulista no ano de 1937 e ainda não havia sido votado quando esta foi extinta pelo Estado Novo.'
-  - 8 A ordem régia de Dona Maria I determinava que o governador da Capitania de Minas Gerais mandasse fazer “urnas memórias anuais
-  - 'dos novos estabelecimentos, fatos e casas mais notáveis e dignos de história que tivessem sucedido desde a fundação desta capitania.” Esse documento se perdeu e alguns fragmentos são conhecidos por sua transcrição em um estudo que Rodrigo Bretas, bisavô de Rodrigo Mello Franco de Andrade, realizou sobre o Aleijadinho.'
-  - '9 “Programa”, Revista do Patrimônio Histórico e Artístico Nacional no. 1, Rio de janeiro, 1937.'
-  - '10 Processo de tombamento da Igreja de São Francisco de Assis, da Pampulha. Arquivo SPHAN.'
-  - '11 “Proposta de tombamento: Edifício-sede do Ministério da Educação”, de 3 de março de 1948. Arquivo SPHAN.'
+  - 'ANDRADE, Mário de (1981). Cartas de trabalho. Brasília, MEC/SPHAN/Fundação Nacional Pró-Memória. Publicações SPHAN no. 33.'
+  - 'ANDRADE, Rodrigo Mello Franco de (1986) Rodrigo e seus tempos. Rio de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória, Publicações SPHAN no. 37.'
+  - 'ANDRADE, Rodrigo Mello Franco de (1987) Rodrigo e o SPHAN. Rio de Janeiro, Ministério da Cultural Fundação Nacional Pró-Memória. Publicações SPHAN no. 38.'
+  - 'BOURDIEU, Pierre (1988) Lições de Aula. São Paulo, Editora Ática.'
+  - 'LÉVI-STRAUSS, Claude (1976) O Pensamento Selvagem. São Paulo, Companhia Editora Nacional.'
+  - 'RUBINO, Silvana (1995) "Clube de Pesquisadores: a Sociedade de Etnografia e Folclore e a Sociedade de Sociologia" in MICELI, Sergio (org.) História das Ciências Sociais no Brasil. volume II. São Paulo, Editora Sumaré (no prelo).'
   locale: 'pt-BR'
   file: 'sdbr01-002.pdf'
   pages: '15-24'
@@ -91,13 +57,31 @@ articles:
     primary_contact: false
   section: Parte 02
   abstract: null
+  references:
+  - 'AZEVEDO, Paulo Ormindo de. Crise e modernização, a arquitetura dos anos 30 em Salvador. In: SEGAWA, Hugo (ed.). Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, 1988, p. 14-18.'
+  - 'BECKER, Alfredo Ernesto. Novas tendencias da architectura monumental europea. Acrópole, São Paulo, n.1, p. 34-37, mai. 1938.'
+  - 'COLLINS, Peter. Concrete: the vision of a new architecture: a study of Auguste Perret and his precursors. London: Faber and Faber, 1959.'
+  - 'COSTA, Lúcio. Sobre Arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.'
+  - 'EXPOSITION Internationale des Arts Décoratifs et Industriels Modernes paris 1925: Rapport Général présenté au nom de M. Fernand David, Sénateur, Comissaire Général de l''Exposition, par M. Paul Léon, Membre d  l''Institut,  Directeur  Général  des  Beaux-Arts,  Commissaire  Général  adjoint de l''Exposition. Paris: Librairie Larousse, 1928, v.2.'
+  - 'LEMOS, Carlos A. C. Arquitetura Contemporânea. In: ZANINI, Walter (org.). História  geral  da  arte  no  Brasil.  São  Paulo:  Instituto  Walther  Moreira Salles, 1983. V.2, p. 822-865'
+  - 'LIMA, Evelyn Furkim Werneck. Avenida Presidente Vargas: uma drástica cirurgia. Rio de Janeiro: Secretaria Municipal de Cultura, Turismo e Esportes/Departamento Geral de Documentação e Informação Cultural, 1990.'
+  - 'MARIANO FILHO, José. À margem do problema arquitetônico nacional. Rio de Janeiro: C. Mendes Jr., 1943.'
+  - 'PIERMARTIRI, Maria Luísa Valenti. Retrospectiva: Frederico Kirschgässner. Curitiba: Galeria de Arte Banestado, 1989 [folheto- catálogo da exposição].'
+  - 'SECRETARIA DOS NEGÓCIOS DA EDUCAÇÃO E SAÚDE PÚBLICA – DIRECTORIA DO ENSINO (São Paulo). Novos prédios para Grupo Escolar (Estudos da Directoria do Ensino e da Directoria de Obras Públicas). São Paulo: 1936.'
+  - 'SEGAWA, Hugo. Elisiário Bahiana e a arquitetura art déco. Projeto, São Paulo, n. 67, p. 14-22, set. 1984.'
+  - 'SEGAWA, Hugo. Samuel Roder, o auxiliar de Barry Parker em São Paulo. Projeto, São Paulo, n. 72, p. 45, fev. 1985.'
+  - 'SILVA, Enéas. Os novos prédios escolares do Districto Federal. Revista da Directoria de Engenharia – Prefeitura do Districto Federal, Rio de Janeiro, n. 16, p. 359-365, mai. 1935.'
+  - 'SILVA, Geraldo Gomes da. Marcos da arquitetura moderna em Pernambuco. In: SEGAWA, Hugo (ed.). Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, 1988, p. 19-27.'
+  - 'SILVA, J. Loureiro da. Um plano de urbanização. [Colaboração técnica do urbanista Eduardo Pereira Paiva]. Porto Alegre: Of. Graf. Livraria Globo, 1943.'
+  - 'WEIMER, Günter. Arquitetura erudita da imigração alemã no Rio Grande do Sul.Tese (Doutorado – Estrutura Ambientais Urbanas) Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 1989.'
+  - 'XAVIER, Alberto, LEMOS, Carlos, CORONA, Eduardo. Arquitetura moderna paulista. São Paulo: Pini, 1983.'
   locale: 'pt-BR'
   file: 'sdbr01-003.pdf'
   pages: '25-40'
 
 - id: 'sdbr01-004'
   title: Por uma cidade com alma brasileira
-  subtitle: a Arquitetura de Rino Levi
+  subtitle: a arquitetura de Rino Levi
   authors:
   - givenname: Renato Luiz Sobral
     familyname: Anelli
@@ -109,6 +93,27 @@ articles:
     primary_contact: false
   section: Parte 02
   abstract: null
+  references:
+  - 'AAVV. Rino Levi. Milão: Edizioni di Comunità, 1974, p. 97.'
+  - 'ACAYABA, Marlene Milam Acayaba e FICHER, Sylvia. Residências em São Paulo. São Paulo, 1986.'
+  - 'BRITO, Ronaldo. Neoconcretismo, vértice e ruptura do projeto construtivo brasileiro. Rio de Janeiro: FUNARTE, 1985.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.'
+  - 'DAL CO, Francesco - "Architettura e città negli Stati Uniti, 1870-1910". Capítulo de sua autoria in TAFURI, Manfredo e DAL CO, Francesco. Architettura Contemporanea. Milano: Electa, 1992, p. 64.'
+  - 'FERRAZ, Geraldo - "Individualidades na História da Atual Arquitetura no Brasil - III - Arq. Rino Levi", in Revista Habitat, maio de 1956.'
+  - 'L''Architecture d''Aujourd''Hui n. 18-19, 1948.'
+  - 'L. C. Olivieri, "Casa a San Paolo", in Domus n. 232, 1949; idem., "Gusto del sottile" in Domus n. 233, 1949.'
+  - 'LEVI, Rino - "A Casa", maio de 1954, texto datilografado - arquivo Rino Levi.'
+  - 'LEVI, Rino - "Arquitetura e a estética das cidades", 15 de outubro de 1925, jornal O Estado de São Paulo, in XAVIER, Alberto (Org.) Arquitetura Moderna Brasileira: Depoimento de uma geração. São Paulo: Editora Pini/ABEA/FVA, 1987. Também a próxima citação.'
+  - 'LEVI, Rino - "Concepções da Cidade Moderna" - Anotações manuscritas para uma conferência a se realizar em Curitiba, a convite da Fac. de Engenharia, em 14/11/1933.'
+  - 'LEVI, Rino - "Evolução da arquitetura", 1958, texto datilografado - arquivo Rino Levi.'
+  - 'LEVI, Rino - "Técnica hospitalar e arquitetura".'
+  - 'LEVI, Rino e CERQUEIRA CÉSAR, Roberto - "Cidade Universitária de São Paulo, Setor Residencial do Estudante - Memorial Justificativo" - Texto datilografado - arquivo Rino Levi.'
+  - 'MARTINS, Carlos. Razão e Natureza em Le Corbusier. Tese de Doutorado, Politécnico de Madrid, 1992, p. 94.'
+  - 'PEDROSA, Mario. Dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, 1981, p. 332.'
+  - 'PERSICO, Edoardo - "Gli architetti italiani" (1933), reeditado em CIUCCI, Giorgio e DAL CO, Francesco - Architettura italiana del''900, Milão, Electa, 1993, p. 118).'
+  - 'TAFURI, Manfredo e DAL CO, Francesco. Architettura Contemporânea. Milano: Electa, 1992, p. 157.'
+  - 'ZUCCONI, G. Daniele Calabi, architettura e progetti 1932-1964. IUAV, 1992.'
+  - 'ZUCCONI, G. Daniele Calabi: Variações de um espaço introverso". in Revista óculum, n. 5/6 em 1995.'
   locale: 'pt-BR'
   file: 'sdbr01-004.pdf'
   pages: '41-57'
@@ -127,6 +132,13 @@ articles:
     primary_contact: false
   section: Parte 02
   abstract: null
+  references:
+  - 'SILVA, Elvan. Uma Introdução ao Projeto Arquitetônico. Porto Alegre: Ed. da Universidade, UFRGS; Brasília, MEC/SESu/PROED, 1983.'
+  - 'REIS F., Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo: Editora Perspectiva, 1970.'
+  - 'REZENDE, M. E REZENDE, M. Proto-Modernismo em Vitória. Monografia apresentada ao Departamento de Arquitetura e Urbanismo da Universidade Federal do Espírito Santo como requisito final para obtenção de grau em Arquitetura. Vitória, 1990. p.41.'
+  - 'COMAS, Carlos Eduardo Dias. "Da Atualidade de seu Pensamento". Revista AU 38. São Paulo: PINI, 1991 (69-74) p. 69.'
+  - 'MACHADO, Lúcio Gomes. "Paradigma para a arquitetura moderna brasileira". Revista AU 46. São Paulo: PINI, 193 (60-70), p.60.'
+  - 'SILVA, Elvan. "Uma crítica sem isenção: a demolição da arquitetura moderna por Tom Wolfe". Revista Projeto 172. São Paulo: Arco Editorial Ltda, 1994 (71-76) p. 76.'
   locale: 'pt-BR'
   file: 'sdbr01-005.pdf'
   pages: '58-73'
@@ -163,6 +175,49 @@ articles:
     primary_contact: false
   section: Parte 02
   abstract: null
+  references:
+  - 'ARGAN, Giulio Carlo (1970), El Arte Moderno - 1770-1970, Valência, Fernando Torres Editor, 1976. Ed. orig.: Roma-Bari Editori, 1970. BANHAN, Reyner, Teoria e Projeto na Primeira Era da Máquina, São Paulo, Perspectiva, 1975.'
+  - 'BARDI, Pietro Maria (1981), Contribuições dos Italianos na Arquitetura Brasileira. São Paulo, FIAT do Brasil S.A., 1981.'
+  - 'BENÉVOLO, Leonardo e outros, La Projetación de la Ciudad Moderna, Colección Punto y Línea, Barcelona, Gustavo Gili, 1978.'
+  - 'BRUAND, Yves (1981), A Arquitetura Contemporânea no Brasil, São Paulo, Perspectiva, 1981.'
+  - 'COLQUHOUN, Allan (1989), Modernidad y Tradición Clásica, Barcelona, Júcar Universidad, 1991. Ed. orig.: Cambridge (Mass.), MIT Press, 1989.'
+  - 'CONRADS, Ulrich (1973), Programas y Manifiestos de la Arquitetura del Siglo XX, Barcelona, Lúmen, 1973.'
+  - 'DANESI, S./PATETA, L.(orgs.) (1988), // razionalismo e l''architettura in Italia durante il Fascismo. Milão, Electa, 1988.'
+  - 'DE BENEDETTI, Mara e PRACCHI, Attilio (1988), Antologia dell''architettura moderna. Testi, manifest,i utopie, Bologna, Zanichelli, 1988.'
+  - 'De FUSCO, Renato (1977),. L''idea di architettura. Storia della critica da Violet-le-Duc a Persico. Milão, Etas Libri, 1977.'
+  - 'DE SETA, Cesare (1972),. La Cultura Architettonica in Italia tra le due Guerre. Bari, Laterza, 1972.'
+  - 'FERRAZ, Marcelo. C. (org.) (1993), Lina Bo Bardi. São Paulo, Instituto Lina Bo e Pietro Maria Bardi, 1993.'
+  - 'FERRAZ, Geraldo (1965), Warchavchic e a Introdução da Nova Arquitetura no Brasil: 1925-1940, São Paulo, Museu de Arte, 1965.'
+  - 'FIZ Simon Marchan, (org.) (1974), La arquitectura del Siglo XX, Madrid, Alberto Corazón, 1974. (Comunicación V. 21).'
+  - 'FRAMPTON, Keneth (1983), Historia Crítica de la Arquitectura Moderna, Barcelona, Gustavo G1li, 1983.'
+  - 'GOODWIN, Philip L. (1943), Brazil Builds, Architecture old of new: 1952-1942, New York, M.M.A., 1943.'
+  - 'GROPIUS, Walter (1972), Bauhaus: Novarquitetura, São Paulo, Perspectiva, 1972'
+  - 'KOPP, Anatole (1990), Quando o moderno não era um estilo e sim uma causa, São Paulo, Nobel I EDUSP, 1990.'
+  - 'LE CORBUSIER, Os Três Estabelecimentos Urbanos, Debates, São Paulo, Perspectiva, 1976.'
+  - 'LE CORBUSIER (1923), Por Uma Arquitetura, Estudos, São Paulo, Perspectiva, 1973. Ed.orig.: Paris, Ed. Esprit Nouveau, 1923.'
+  - 'LE CORBUSIER (1925), Urbanismo, São Paulo, Martins Fontes, 1991. Ed. orig.: Paris, Crès, 1925.'
+  - 'LE CORBUSIER (1930), Precisiones respecto a un estado actual de la arquitectura y del urbanismo, Barcelona, Poseidón, 1978. Ed. orig.:Paris, Crês, 1930.'
+  - 'LE CORBUSIER, Oevre Complete, 5vs., Zurich, Omega, 1972.'
+  - 'LEMOS, Carlos A. C. (1974), Arquitetura Brasileira, São Paulo, Melhoramentos/ EDUSP, 1974.'
+  - 'LEMOS, Carlos A. C. (1984), "Arquitetura Contemporânea" in ZANINI, Walter, (org.) História Geral da Arte no Brasil, São Paulo, Instituto Walther Moreira Salles, 1984.'
+  - 'LUPANO, M.(1991), Marcelo Piacentini. Roma, Laterza, 1991.'
+  - 'MARTINS, Carlos A. F. (1988), Arquitetura e Estado no Brasil. Elementos para uma investigação sobre a constituição do discurso moderno no Brasil; a obra de Lúcio Costa 1924/1952, Dissertação de mestrado, São Paulo, FFLCH_USP, 1988.'
+  - 'MARTINS, Carlos A. F. (1992), Razón, Ciudad y Naturaleza. La génesis de los conceptos en el urbanismo de Le Corbusier. Tese de doutoramento.. Madrid, Universidad Politécnica de Madrid, 1992.'
+  - 'MEYER, Regina (1991), Metrópole e Urbanismo: São Paulo anos 50, Tese de Doutoramento, FAUUSP, 1991.'
+  - 'MINDLIN, Henrique E. (1961), Brazilian Architecture, London, Royal College of Art, 1961.'
+  - 'MINDLIN, Henrique E. (1956), Modern Architecture in Brazil, New York, Reinhold, 1956.'
+  - 'PAZ, Otávio, Os Filhos do Barro, Rio de Janeiro, Nova Fronteira, 1984.'
+  - 'REIS FILHO, Nestor G. (1970), Quadro da Arquitetura no Brasil, São Paulo, Perspectiva, 1970.'
+  - 'SALMONI A./DEBENEDETTI, E. (1981) - Arquitetura italiana em São Paulo. São Paulo, Ed. Perspectiva, 1981.'
+  - 'SAMONÀ, G (1972) , L''Urbanistica e l''Avenire delle Città. Laterza, Roma-Bari, 1972.'
+  - 'SOUZA, Ricardo F. C. (1982), Trajetórias da Arquitetura Modernista, São Paulo, PMSP/IDART, 1982.'
+  - 'SOUZA, Abelardo de (1978), Arquitetura no Brasil: depoimentos. São Paulo, Oladorin/ EDUSP, 1978.'
+  - 'TAFURI, Manfredo (197?), Teorias e História da Arquitectura, Lisboa. Presença / Martins Fontes, 1979.'
+  - 'TAFURI, Manfredo e DAL CO, Francesco (1976), Modern Architecture. New York, Electa/Rizzoli, 2 vs., 1986. Ed. Orig. Milano, Electa, 1976.'
+  - 'TAFURI, M., CACCIAR,I M., DAL CO P. (1972), De La Vanguardia a La Metropoli Barcelona, Gustavo Gili, 1972.'
+  - 'TAFURI, Manfredo, Teorias e História da Arquitetura, Lisboa, Presença/Martins Fontes, 1981.'
+  - 'VERONESI, G.(org.) (1964), Eduardo Persico tutte le opere (1923-1935). Milão, Edizioni di Comunità, 1964.'
+  - 'ZEVI, Bruno (1950), Storía dell''Architettura Moderna. Torino, Einaudi, 1950.'
   locale: 'pt-BR'
   file: 'sdbr01-007.pdf'
   pages: '81-92'

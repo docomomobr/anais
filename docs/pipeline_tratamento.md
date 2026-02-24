@@ -66,6 +66,104 @@ Cada artigo completo contém uma seção de referências ao final. A extração 
 4. Após extração, sempre rodar `clean_references.py` (§4.4a) e `check_references.py` (§4.4b)
 5. Meta: < 2% de problemas por seminário
 
+### 2.1c Extrair referências de notas de rodapé/endnotes
+
+Quando o artigo não possui seção de "Referências" mas tem notas numeradas (endnotes) ao final, as referências bibliográficas estão misturadas com comentários. Este pipeline extrai, filtra, resolve abreviações e formata as referências.
+
+**Quando usar:** Artigos com 0 refs após a extração padrão (§2.1b) que possuem seção "NOTAS" ao final.
+
+**Classificação prévia dos artigos sem refs:**
+
+| Situação | Ação |
+|----------|------|
+| Tem seção "NOTAS" com endnotes numeradas | Usar este pipeline |
+| Tem seção "Referências Bibliográficas" numerada | Extração direta (§2.1b) |
+| Notas inline dispersas no texto (sem seção agrupada) | Geralmente impraticável — pular |
+| Relatório institucional / sem notas | Sem refs — pular |
+
+#### Etapa 1 — Localizar e extrair notas
+
+```bash
+# Extrair texto do PDF
+pdftotext artigo.pdf /tmp/artigo.txt
+
+# Encontrar início das notas
+grep -n "^NOTAS\|^Notas\|^NOTES" /tmp/artigo.txt
+
+# Ler do ponto encontrado em diante
+# Se layout em duas colunas, pdftotext embaralha a ordem
+# Nesse caso, extrair imagens das páginas de notas:
+pdftoppm -png -r 200 -f {pag_inicio_notas} -l {ultima_pag} artigo.pdf /tmp/artigo-notas
+```
+
+**Dica:** Para artigos com muitas notas (>20), combinar pdftotext (texto legível) + imagens (ordem correta das colunas). Para poucos notes (<10), ler direto das imagens.
+
+#### Etapa 2 — Transcrever e classificar cada nota
+
+Para cada nota numerada, classificar em uma das categorias:
+
+| Categoria | Exemplo | Ação |
+|-----------|---------|------|
+| **Referência bibliográfica** | `BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.` | **Manter** |
+| **Comentário/contexto** | `O Rio de Janeiro é a cidade com maior número de bens tombados...` | **Excluir** |
+| **Op. cit.** | `BRUAND, op. cit., p. 24.` | **Excluir** (ref já capturada) |
+| **Idem / Ibidem** | `Idem, p. 167.` | **Excluir** (ref já capturada) |
+| **Apud** (citação indireta) | `BELLORI, 1672, apud PANOFSKY, 1989.` | **Manter** a obra citante (Panofsky); opcionalmente manter a original (Bellori) |
+| **Misto** (comentário + ref) | `A historiadora Mariza Veloso publicou a tese "O tecido do tempo" (PPGAS-UnB, 1992).` | **Extrair** a parte bibliográfica |
+| **Nota composta** | `BARTHES, Mitologias, 1982. DELEUZE, Proust e os signos, 1987. TAFURI, Projeto e utopia, 1985.` | **Desmembrar** em refs individuais |
+
+#### Etapa 3 — Resolver op.cit. / idem / ibidem
+
+Manter um registro de qual obra cada nota referencia para garantir que todas sejam capturadas:
+
+```
+Nota 7 → DUARTE, Hélio. "O problema escolar..."  ← REF (capturada)
+Nota 8 → Idem, p. 5                               ← aponta para nota 7 → já capturada
+Nota 9 → Ibidem                                    ← aponta para nota 7 → já capturada
+Nota 12 → Duarte, op. cit., p. 6                   ← aponta para nota 7 → já capturada
+```
+
+Se a primeira ocorrência de uma obra é via op.cit. (a nota original está fora do trecho extraído), reconstruir a referência a partir do contexto.
+
+#### Etapa 4 — Formatar em ABNT e ordenar
+
+Para cada referência extraída:
+
+1. **Padronizar formato**: `SOBRENOME, Nome. Título. Local: Editora, Ano.`
+2. **Completar dados quando possível** (editora, local) sem inventar
+3. **Preservar texto original** quando a referência no artigo difere do padrão ABNT — não corrigir erros factuais do autor (ex: atribuição errada), apenas formatar
+4. **Ordenar alfabeticamente** por sobrenome do primeiro autor
+5. **Deduplicar** dentro do mesmo artigo (mesma obra citada em notas diferentes)
+
+#### Etapa 5 — Aplicar ao banco
+
+```python
+import sqlite3, json
+conn = sqlite3.connect('anais.db')
+c = conn.cursor()
+refs_json = json.dumps(ref_list, ensure_ascii=False)
+c.execute('UPDATE articles SET references_ = ? WHERE id = ?', (refs_json, art_id))
+conn.commit()
+```
+
+#### Etapa 6 — Verificar
+
+```bash
+python3 scripts/check_references.py --slug {slug} --summary
+python3 scripts/clean_references.py --slug {slug} --dry-run
+```
+
+#### Volume de trabalho típico
+
+| Artigos com notas | Esforço | Estratégia |
+|-------------------|---------|------------|
+| ≤10 notas | Leve (minutos) | Ler imagens, transcrever direto |
+| 10-20 notas | Médio | pdftotext + imagens, filtragem manual |
+| 20-50 notas | Pesado | pdftotext + imagens + rastreamento op.cit. |
+| >50 notas | Muito pesado | Dividir em lotes, processar com LLM |
+
+**Caso real — sdbr02:** 22 artigos, dos quais 7 com notas pesadas (8 a 50 notas cada). Pipeline produziu 105 refs dos artigos com notas + 110 refs dos com bibliografia direta = 215 refs totais. Artigos sem refs (3/22) eram relatório institucional ou textos sem notas.
+
 ### 2.2 Checklist pós-extração
 - [ ] Todos os PDFs foram processados? (contar vs total esperado)
 - [ ] Resumos estão COMPLETOS (não truncados em "...")?
@@ -285,6 +383,8 @@ python3 scripts/check_references.py --type concatenada   # filtrar por tipo
 Meta: **< 2% de problemas** por seminário. Ver detalhes das heurísticas em `docs/devlog_check_references.md`.
 
 #### 4.4c — Correção manual ou por LLM
+
+**Para artigos com notas de rodapé em vez de bibliografia:** ver §2.1c (pipeline de extração de referências de notas).
 
 Problemas não corrigíveis automaticamente (refs de jornais concatenadas, texto corrido misturado, refs garbled):
 
@@ -577,3 +677,5 @@ git push
 15. **Palavras ambíguas no dicionário** (nome próprio E substantivo comum) devem ser tratadas como expressões multi-palavra, nunca como entradas standalone
 16. **Siglas de 2 letras** (SE, AL, MA, TO) conflitam com palavras comuns — evitar no dict.db
 17. **Referências extraídas de PDFs** frequentemente contêm texto corrido, legendas e fragmentos — sempre rodar `check_references.py` após extração
+18. **Artigos com notas de rodapé em vez de bibliografia** exigem pipeline específico (§2.1c) — filtrar comentários, resolver op.cit./idem, desmembrar notas compostas, formatar e deduplicar. Para volumes antigos (sdbr01-02), esse é o padrão dominante
+19. **pdftotext em layout de duas colunas** embaralha a ordem das notas — sempre conferir com imagens (`pdftoppm`) quando a numeração parece fora de sequência
