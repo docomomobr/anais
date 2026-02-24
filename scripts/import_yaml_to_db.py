@@ -215,7 +215,7 @@ def main():
         print('Execute init_anais_db.py primeiro.')
         sys.exit(1)
 
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(DB_PATH, timeout=60)
     conn.execute('PRAGMA foreign_keys = ON')
     cur = conn.cursor()
 

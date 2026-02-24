@@ -1,59 +1,75 @@
 issue:
   slug: sdpr02
   title: 2º Seminário Docomomo Paraná
+  subtitle: Arquitetura moderna em cidades de porte médio, 1940-70
+  location: Londrina, PR
   year: 2012
   volume: 4
+  number: 2
+  isbn: null
+  publisher: Núcleo Docomomo Paraná
+  editors:
+  - Salvador Gnoato
+  - Leandro Henrique Magalhães
+  date_published: '2012-10-01'
+  description: '2º Seminário Docomomo Paraná: Arquitetura moderna em cidades de porte médio, 1940-70. Anais com 19 artigos: 10 apresentados no seminário (Londrina, 2012) e 9 capítulos do livro homônimo publicado pela Editora UniFil (180 p.).'
   sections:
   - title: Apresentação Oral
-    abbrev: 'AO-sdpr02'
+    abbrev: AO-sdpr02
 articles:
-
-- id: 'sdpr02-001'
+- id: sdpr02-001
   title: 'Lucio Costa: três Obras e a Criação do lugar em cidades brasileiras de pequeno e médio porte'
   authors:
   - givenname: Anna Paula Moura
     familyname: Canez
-    email: 'canez@exemplo.com'
+    email: canez@exemplo.com
     affiliation: UniRitter
-    orcid: '0000-0003-3225-1704'
+    orcid: 0000-0003-3225-1704
     bio: null
     country: BR
     primary_contact: true
+  - givenname: Alex Carvalho
+    familyname: Brino
+    email: brino@exemplo.com
+    affiliation: UniRitter
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   section: Apresentação Oral
-  abstract: 'A finalidade deste trabalho é realizar uma análise crítica de três obras exemplares de Lucio Costa, construídas em cidades brasileiras de pequeno e médio porte, cujo pressuposto de criar o lugar, conforme identificamos, foi condição relevante. Para tanto, selecionamos o Museu Nacional das Missões, construído junto às ruínas de São Miguel - RS (1937); a Residência Saavedra, localizada em Correias - RJ (1942-44) e o Park Hotel, em Nova Friburgo - RJ (1944). Nos três casos escolhidos para estudo, de distintos programas, busca-se investigar a ênfase dada ao lugar no processo de projeto do arquiteto, considerando ainda que a comparação entre as obras selecionadas para exame reforça o entendimento do destaque dado a esta questão por aquele que foi o mentor da arquitetura moderna brasileira. O Museu Nacional das Missões é, sem dúvida, das três, a mais reconhecida quanto a este aspecto. Sua implantação recria a praça central do povoado missioneiro e a simples inserção do museu propriamente dito e da casa do caseiro, garantem tal delimitação. A Residência Saavedra, inserida em meio à paisagem natural, não possui qualquer referência construída ao seu redor, sua implantação original é composta por duas grandes barras horizontais elevadas, constituindo um "L" que define um conjunto de espaços com diferentes hierarquias. O Park Hotel São Clemente parece não ter sido pensado de forma diferente das outras duas obras. Projetado igualmente na condição de marco referencial, é ele quem delimita através de sua implantação, que demarca o espaço ao seu redor. Deste conjunto de obras de Lucio Costa, do final dos anos 30 e início dos anos quarenta do século passado, é discutido neste trabalho, principalmente, o modo de relacionar e criar espaços em regiões de baixa densidade e relevante entorno natural.'
+  abstract: A finalidade deste trabalho é realizar uma análise crítica de três obras exemplares de Lucio Costa, construídas em cidades brasileiras de pequeno e médio porte, cujo pressuposto de criar o lugar, conforme identificamos, foi condição relevante. Para tanto, selecionamos o Museu Nacional das Missões, construído junto às ruínas de São Miguel - RS (1937); a Residência Saavedra, localizada em Correias - RJ (1942-44) e o Park Hotel, em Nova Friburgo - RJ (1944). Nos três casos escolhidos para estudo, de distintos programas, busca-se investigar a ênfase dada ao lugar no processo de projeto do arquiteto, considerando ainda que a comparação entre as obras selecionadas para exame reforça o entendimento do destaque dado a esta questão por aquele que foi o mentor da arquitetura moderna brasileira. O Museu Nacional das Missões é, sem dúvida, das três, a mais reconhecida quanto a este aspecto. Sua implantação recria a praça central do povoado missioneiro e a simples inserção do museu propriamente dito e da casa do caseiro, garantem tal delimitação. A Residência Saavedra, inserida em meio à paisagem natural, não possui qualquer referência construída ao seu redor, sua implantação original é composta por duas grandes barras horizontais elevadas, constituindo um "L" que define um conjunto de espaços com diferentes hierarquias. O Park Hotel São Clemente parece não ter sido pensado de forma diferente das outras duas obras. Projetado igualmente na condição de marco referencial, é ele quem delimita através de sua implantação, que demarca o espaço ao seu redor. Deste conjunto de obras de Lucio Costa, do final dos anos 30 e início dos anos quarenta do século passado, é discutido neste trabalho, principalmente, o modo de relacionar e criar espaços em regiões de baixa densidade e relevante entorno natural.
   references:
-  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil - São Paulo. Editora Perspectiva, 2002.'
+  - BRUAND, Yves. Arquitetura Contemporânea no Brasil - São Paulo. Editora Perspectiva, 2002.
   - 'CANEZ, Anna Paula; SILVA, Cairo Albuquerque da (Org.). Composição, partido e programa: uma visão crítica de conceitos em mutação. Porto Alegre: Ed. UniRitter, 2010.'
   - 'CAVALCANTI, Lauro - Quando o Brasil era Moderno: guia de arquitetura 1928-1960, Rio de Janeiro. Aeroplano, 2001.'
   - 'COSTA, Lucio; Alberto Xavier (Org.). Lúcio Costa: sôbre arquitetura. Porto Alegre: UniRitter, 2007. Edição fac símile do livro de mesmo título publicado em 1962.'
   - 'COSTA, Lucio; Alberto Xavier. (Org.). Lúcio Costa: sôbre Arquitetura. CEUA: Porto Alegre, 1962.'
   - 'COSTA, Lucio. Registro de uma vivência. Empresa das Artes: São Paulo, 1995.'
-  - 'COMAS, Carlos Eduardo Dias. Precisões Brasileiras sobre um passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-45. 2002. Tese (Doutorado em Arquitetura) - Université de Paris VIII, Paris, 2002. CDROM.'
-  - 'DANTAS, Carlos Felipe Albuquerque. A "transformação do Lugar" na arquitetura contemporânea, Brasília, UNB, 2007.'
+  - COMAS, Carlos Eduardo Dias. Precisões Brasileiras sobre um passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-45. 2002. Tese (Doutorado em Arquitetura) - Université de Paris VIII, Paris, 2002. CDROM.
+  - DANTAS, Carlos Felipe Albuquerque. A "transformação do Lugar" na arquitetura contemporânea, Brasília, UNB, 2007.
   - 'NESBITT, Kate (org). Uma nova agenda para arquitetura: antologia teórica 1965-95. São Paulo: CosacNaify, 2006.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo, Editora da Universidade de São Paulo, 2002.'
   - 'WISNIK, Guilherme. Lucio Costa. São Paulo: Cosac & Naify, 2001.'
   - 'XAVIER, Alberto. Depoimento de uma Geração: arquitetura moderna brasileira. São Paulo. Cosac & Naify, 2003.'
-  locale: 'pt-BR'
-  file: 'sdpr02-001.pdf'
+  locale: pt-BR
+  file: sdpr02-001.pdf
   pages_count: 9
   pages: null
-
-- id: 'sdpr02-002'
+- id: sdpr02-002
   title: 'Modernidade Carioca no interior: dois edifícios em Erechim'
   authors:
   - givenname: Marcos Flavio Teitelroit
     familyname: Bueno
-    email: 'bueno@exemplo.com'
-    affiliation: 'PROPAR-UFRGS'
+    email: bueno@exemplo.com
+    affiliation: PROPAR-UFRGS
     orcid: null
     bio: null
     country: BR
     primary_contact: true
-  - givenname: Silvio Belmonte de Abreu
-    familyname: Filho
-    email: 'abreu@exemplo.com'
-    affiliation: 'PROPAR-UFRGS'
+  - givenname: Silvio Belmonte de
+    familyname: Abreu Filho
+    email: abreu.filho@exemplo.com
+    affiliation: PROPAR-UFRGS
     orcid: null
     bio: null
     country: BR
@@ -68,20 +84,19 @@ articles:
   - 'LE CORBUSIER. Oeuvre Complète: 1946-1952. Zurich: Girseberger, V.7, 1953.'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EdUSP, 1997.'
   - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.'
-  locale: 'pt-BR'
-  file: 'sdpr02-002.pdf'
+  locale: pt-BR
+  file: sdpr02-002.pdf
   pages_count: 9
   pages: null
-
-- id: 'sdpr02-003'
+- id: sdpr02-003
   title: O projeto como um elemento de organização do território
   subtitle: análise crítica de Algumas Obras de Paulo Mendes da Rocha
   authors:
   - givenname: Ana Elisa Moraes
     familyname: Souto
-    email: 'anesouto@ig.com.br'
+    email: anesouto@ig.com.br
     affiliation: Feevale
-    orcid: '0000-0002-4486-4324'
+    orcid: 0000-0002-4486-4324
     bio: null
     country: BR
     primary_contact: true
@@ -92,26 +107,25 @@ articles:
   - organização território
   - relação com o lugar
   references:
-  - 'ARTIGAS, Rosa (ORG.). Paulo Mendes da Rocha projetos 1957-1999. Cosac Naify, São Paulo, 2006.'
+  - ARTIGAS, Rosa (ORG.). Paulo Mendes da Rocha projetos 1957-1999. Cosac Naify, São Paulo, 2006.
   - 'ARTIGAS VILANOVA, João Batista. Caminhos da Arquitetura: Vilanova Artigas: São Paulo: Cosac&naify, 1999, 171p.'
   - 'Piñón Pallares, Helio. Paulo Mendes da Rocha. São Paulo: Romano Guerra Editora, 2002. 179 p.'
   - 'Piñón, Pallares Helio. Mahfuz, Edson da Cunha. Teoria do projeto. Porto Alegre: Livraria do Arquiteto, 2006. 227 p.'
   - 'SABBAG, Haifa. Paulo Mendes da Rocha: somos o projeto de nós mesmos. Entrevista in: Arquitetura e Urbanismo, São Paulo, PINI, nº 131, fevereiro 2005.'
   - 'SEGRE, Roberto. Um modernista nostálgico. Projeto Design. São Paulo: Arco, junho, 2006.'
-  - 'SOUTO, Ana Elisa Moraes. Projeto arquitetônico e a relação com o lugar nas obras de Paulo Mendes da Rocha 1958-2000. 2010. 2 v. Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2010.'
+  - SOUTO, Ana Elisa Moraes. Projeto arquitetônico e a relação com o lugar nas obras de Paulo Mendes da Rocha 1958-2000. 2010. 2 v. Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2010.
   - 'TELLES, Sophia Silva. Paulo Mendes da Rocha: A casa no Atlântico. Documento: In: AU: Arquitetura e Urbanismo, São Paulo, Pini, nº 60, junho-julho 1995.'
-  - 'ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. 2005. 2 v. Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2005.'
-  locale: 'pt-BR'
-  file: 'sdpr02-003.pdf'
+  - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. 2005. 2 v. Tese (doutorado) - Universidade Federal do Rio Grande do Sul. Faculdade de Arquitetura. Programa de Pesquisa e Pós-Graduação em Arquitetura, Porto Alegre, BR-RS, 2005.
+  locale: pt-BR
+  file: sdpr02-003.pdf
   pages_count: 10
   pages: null
-
-- id: 'sdpr02-004'
-  title: 'O projeto da universidade do Sagrado Coração em Bauru - SP'
+- id: sdpr02-004
+  title: O projeto da universidade do Sagrado Coração em Bauru — SP
   authors:
   - givenname: Paulo Canguçu Fraga
     familyname: Burgo
-    email: 'burgo@exemplo.com'
+    email: burgo@exemplo.com
     affiliation: UNIP
     orcid: null
     bio: null
@@ -119,52 +133,51 @@ articles:
     primary_contact: true
   - givenname: Maria Isabel
     familyname: Villac
-    email: 'villac@exemplo.com'
+    email: villac@exemplo.com
     affiliation: Mackenzie
-    orcid: '0009-0005-9645-6954'
+    orcid: 0009-0005-9645-6954
     bio: null
     country: BR
     primary_contact: false
   - givenname: Ana Gabriela Godinho
     familyname: Lima
-    email: 'gabriela.lima@uol.com.br'
+    email: gabriela.lima@uol.com.br
     affiliation: Mackenzie
-    orcid: '0000-0003-2529-0596'
+    orcid: 0000-0003-2529-0596
     bio: null
     country: BR
     primary_contact: false
   - givenname: Ruth Verde
     familyname: Zein
-    email: 'rvzein@gmail.com'
+    email: rvzein@gmail.com
     affiliation: Mackenzie
-    orcid: '0000-0003-0923-4914'
+    orcid: 0000-0003-0923-4914
     bio: null
     country: BR
     primary_contact: false
   section: Apresentação Oral
-  abstract: 'O edifício da Universidade do Sagrado Coração em Bauru é conhecido em todo o interior do estado de São Paulo como um modelo de arquitetura onde os espaços destinados à educação proporcionam a excelência do aprendizado. Seu projeto e construção marcam profundamente as formas da arquitetura da cidade, eles traçam a ruptura entre a forma do espaço construído em moldes tradicionais para um modelo definitivamente moderno. Além do aspecto formal a linguagem do concreto armado aparente propõe um novo significado à cor e à beleza das edificações. O projeto desenvolvido pelo arquiteto bauruense Jurandyr Bueno Filho utiliza de leituras simbólicas da arquitetura religiosa e as aplica à construção do conhecimento. O arquiteto que até então havia tinha em seu principal eixo de trabalho o exercício de formas habitacionais propõe um conjunto institucional de grande porte que se relaciona com a paisagem e transforma o ambiente e seu entorno. O presente trabalho faz uma análise do projeto e da construção da Universidade do Sagrado Coração de Jesus sob os parâmetros do simbólico em sua arquitetura e instalações.'
+  abstract: O edifício da Universidade do Sagrado Coração em Bauru é conhecido em todo o interior do estado de São Paulo como um modelo de arquitetura onde os espaços destinados à educação proporcionam a excelência do aprendizado. Seu projeto e construção marcam profundamente as formas da arquitetura da cidade, eles traçam a ruptura entre a forma do espaço construído em moldes tradicionais para um modelo definitivamente moderno. Além do aspecto formal a linguagem do concreto armado aparente propõe um novo significado à cor e à beleza das edificações. O projeto desenvolvido pelo arquiteto bauruense Jurandyr Bueno Filho utiliza de leituras simbólicas da arquitetura religiosa e as aplica à construção do conhecimento. O arquiteto que até então havia tinha em seu principal eixo de trabalho o exercício de formas habitacionais propõe um conjunto institucional de grande porte que se relaciona com a paisagem e transforma o ambiente e seu entorno. O presente trabalho faz uma análise do projeto e da construção da Universidade do Sagrado Coração de Jesus sob os parâmetros do simbólico em sua arquitetura e instalações.
   keywords:
   - Arquitetura
   - Edifício educacional
   - análise simbólica
   references:
-  - 'ÁBALOS, Iñaki. A boa vida — Visita guiada às casas da modernidade. Tradução de Alicia Duarte Penna. Barcelona, Editorial Gustavo Gili, 2008.'
+  - ÁBALOS, Iñaki. A boa vida — Visita guiada às casas da modernidade. Tradução de Alicia Duarte Penna. Barcelona, Editorial Gustavo Gili, 2008.
   - 'ARTIGAS, Rosa Camargo. João Valter Toscano. São Paulo: Editora UNESP; Instituto Takano de Projetos Culturais Educacionais e Culturais. 2002.'
   - 'BAXANDALL, Michael. Padrões de intenção: a explicação teórica dos quadros. Tradução: Vera Maria Pereira. São Paulo: Companhia das Letras. 2006.'
-  - 'CENTURION, Monique. Há um ano, cidade perdia Jurandyr. Bauru, Jornal da Cidade 06 de fevereiro de 2009.'
+  - CENTURION, Monique. Há um ano, cidade perdia Jurandyr. Bauru, Jornal da Cidade 06 de fevereiro de 2009.
   - 'DUARTE, Cristiane Rose; Reingantz, Paulo Afonso; Azevedo, Giselle; Bronstein, Lais [orgs]. O lugar do projeto: no ensino e na pesquisa em arquitetura e urbanismo. Rio de janeiro, Contra Capa Livraria. 2007.'
   - 'MONEO, Rafael. Inquietação teórica e estratégia projetual na obra de oito arquitetos contemporâneos. Tradução de Flávio Coddou. São Paulo: Cosac Naify, 2008.'
-  locale: 'pt-BR'
-  file: 'sdpr02-004.pdf'
+  locale: pt-BR
+  file: sdpr02-004.pdf
   pages_count: 10
   pages: null
-
-- id: 'sdpr02-005'
+- id: sdpr02-005
   title: O reflexo da Arquitetura Moderna na dinâmica da identidade cultural
   authors:
   - givenname: Cezar
     familyname: Rabel
-    email: 'rabel_arquitetura@hotmail.com'
+    email: rabel_arquitetura@hotmail.com
     affiliation: FAG
     orcid: null
     bio: null
@@ -172,7 +185,7 @@ articles:
     primary_contact: false
   - givenname: Silmara Dias
     familyname: Feiber
-    email: 'silmaradias@fag.edu.br'
+    email: silmaradias@fag.edu.br
     affiliation: FAG
     orcid: null
     bio: null
@@ -180,14 +193,14 @@ articles:
     primary_contact: true
   - givenname: Fúlvio Natércio
     familyname: Feiber
-    email: 'fulvio@fag.edu.br'
+    email: fulvio@fag.edu.br
     affiliation: FAG
     orcid: null
     bio: null
     country: BR
     primary_contact: false
   section: Apresentação Oral
-  abstract: 'Simultaneamente ao processo de desmatamento para a colonização do estado do Paraná em meados do século XX, acontece o fenômeno do Movimento Moderno, o qual se firmava no país. A arquitetura Moderna nas cidades do interior do Paraná encontrou aceitação por parte da população devido à imagem vinculada ao progresso e perspectiva de futuro, isso fica particularmente claro quando observado as construções vernaculares, as quais também passam a adotar ao longo do tempo elementos da linguagem modernista. Paralelo a essa visão de futuro, principalmente nas décadas de 1950 a 1970, constata-se ações do Estado, na intenção de ocupar o território paranaense de forma organizada dentro dos preceitos vigentes à época do urbanismo progressista, fomentando o desenvolvimento com obras de linguagem que evocassem progresso, trabalho e eficiência. Desta forma, obras de expressão financiadas pelo poder público e iniciativa privada, somadas às promovidas pela própria população, contribuíram para a formação do Paraná, tornando-se elementos de identidade para grande parte do estado. Em um segundo momento, percebe-se a influência principalmente do que hoje se denomina de Brutalismo quando arquitetos formados em Curitiba, capital do estado, buscam dar continuidade a essa imagem de progresso às cidades de maior representatividade. Apesar de exemplos significativos distribuídos em todo o Paraná verifica-se um atual descaso e mesmo ignorância pertinente ao assunto, acarretando em intervenções a edificações e espaços públicos desprovidas de critério ou respeito aos projetos originais. A contribuição do presente artigo está em apontar como a arquitetura moderna no Paraná pode ser considerada sinônima de identidade à população. A relevância do assunto está justamente por se tratar de um processo de ocupação pioneiro no país, vinculadas a uma arquitetura de expressão que, devido à carência de estudos, corre o risco de ter seu legado esquecido em meio ao desenvolvimento atual.'
+  abstract: Simultaneamente ao processo de desmatamento para a colonização do estado do Paraná em meados do século XX, acontece o fenômeno do Movimento Moderno, o qual se firmava no país. A arquitetura Moderna nas cidades do interior do Paraná encontrou aceitação por parte da população devido à imagem vinculada ao progresso e perspectiva de futuro, isso fica particularmente claro quando observado as construções vernaculares, as quais também passam a adotar ao longo do tempo elementos da linguagem modernista. Paralelo a essa visão de futuro, principalmente nas décadas de 1950 a 1970, constata-se ações do Estado, na intenção de ocupar o território paranaense de forma organizada dentro dos preceitos vigentes à época do urbanismo progressista, fomentando o desenvolvimento com obras de linguagem que evocassem progresso, trabalho e eficiência. Desta forma, obras de expressão financiadas pelo poder público e iniciativa privada, somadas às promovidas pela própria população, contribuíram para a formação do Paraná, tornando-se elementos de identidade para grande parte do estado. Em um segundo momento, percebe-se a influência principalmente do que hoje se denomina de Brutalismo quando arquitetos formados em Curitiba, capital do estado, buscam dar continuidade a essa imagem de progresso às cidades de maior representatividade. Apesar de exemplos significativos distribuídos em todo o Paraná verifica-se um atual descaso e mesmo ignorância pertinente ao assunto, acarretando em intervenções a edificações e espaços públicos desprovidas de critério ou respeito aos projetos originais. A contribuição do presente artigo está em apontar como a arquitetura moderna no Paraná pode ser considerada sinônima de identidade à população. A relevância do assunto está justamente por se tratar de um processo de ocupação pioneiro no país, vinculadas a uma arquitetura de expressão que, devido à carência de estudos, corre o risco de ter seu legado esquecido em meio ao desenvolvimento atual.
   keywords:
   - Processo de urbanização
   - Arquitetura Moderna
@@ -204,26 +217,25 @@ articles:
   - 'SBRIGLIO, Jacques. Le Corbusier: entre dois mundos. Curitiba: MON, 2010.'
   - 'SPERANÇA, Alceu A. Cascavel: A historia. Editora Gráfica Positiva, 2007.'
   - 'ZANI, Antonio Carlos. Repertório Arquitetônico das Casas de Madeira de Londrina. Londrina: Antonio Carlos Zani, 2005.'
-  locale: 'pt-BR'
-  file: 'sdpr02-005.pdf'
+  locale: pt-BR
+  file: sdpr02-005.pdf
   pages_count: 9
   pages: null
-
-- id: 'sdpr02-006'
+- id: sdpr02-006
   title: O respeito pelo local Edificado
   subtitle: uma experiência de Acácio Gil Borsoi em Teresina
   authors:
   - givenname: Ana Rosa Soares Negreiros
     familyname: Feitosa
-    email: 'ananegreiros@gmail.com'
-    affiliation: 'PROPAR-UFRGS'
+    email: ananegreiros@gmail.com
+    affiliation: PROPAR-UFRGS
     orcid: null
     bio: null
     country: BR
     primary_contact: true
   - givenname: Lívia
     familyname: Santos
-    email: 'liviamaced@gmail.com'
+    email: liviamaced@gmail.com
     affiliation: UFPI
     orcid: null
     bio: null
@@ -231,7 +243,7 @@ articles:
     primary_contact: false
   - givenname: Rosa Gabriela Uchôa Lima
     familyname: Oliveira
-    email: 'gabrielauchoa@gmail.com'
+    email: gabrielauchoa@gmail.com
     affiliation: UFPI
     orcid: null
     bio: null
@@ -239,7 +251,7 @@ articles:
     primary_contact: false
   - givenname: Cíntia
     familyname: Machado
-    email: 'cintiabartz@gmail.com'
+    email: cintiabartz@gmail.com
     affiliation: UFPI
     orcid: null
     bio: null
@@ -247,48 +259,47 @@ articles:
     primary_contact: false
   - givenname: Valério
     familyname: Silva
-    email: 'valerioas@gmail.com'
+    email: valerioas@gmail.com
     affiliation: UFPI
     orcid: null
     bio: null
     country: BR
     primary_contact: false
   section: Apresentação Oral
-  abstract: 'A proposta neste artigo é enfatizar a importância de se preservar o patrimônio arquitetônico, através da divulgação da experiência de conservação e transformação de espaços já edificados de grandes intelectuais que defendem tal prática. Tomado como exemplo, explana-se uma síntese da biografia do Arquiteto Acácio Gil Borsoi e os projetos realizados na cidade de Teresina, capital do estado do Piauí, que mesmo tendo em sua essência o modernismo não deixou de lado a lição dada por Lucio Costa sobre preservação patrimonial. Para isso foram realizadas pesquisas documentais, entrevistas e visitas aos projetos aqui descritos, com levantamento de dados e fotográficos. Através desse material é possível perceber uma identidade construída e o papel do arquiteto com seu comprometimento, responsabilidade social e respeito que deve exercer sobre a cidade e sua memória. Neste trabalho foi utilizada uma metodologia que trabalhou com o método empregado no grupo de Pesquisa "Modernidade Arquitetônica" da Universidade Federal do Piauí, cadastrado no CNPq e orientado, pela Arquiteta, Professora Doutora em Projetos Arquitetônicos pela ETSAB/UPC, Alcilia Afonso de Albuquerque Costa, que segue os métodos do departamento de projetos arquitetônicos da Escola Técnica Superior de Arquitetura de Barcelona, ETSAB/UPC da linha "la forma moderna".'
+  abstract: A proposta neste artigo é enfatizar a importância de se preservar o patrimônio arquitetônico, através da divulgação da experiência de conservação e transformação de espaços já edificados de grandes intelectuais que defendem tal prática. Tomado como exemplo, explana-se uma síntese da biografia do Arquiteto Acácio Gil Borsoi e os projetos realizados na cidade de Teresina, capital do estado do Piauí, que mesmo tendo em sua essência o modernismo não deixou de lado a lição dada por Lucio Costa sobre preservação patrimonial. Para isso foram realizadas pesquisas documentais, entrevistas e visitas aos projetos aqui descritos, com levantamento de dados e fotográficos. Através desse material é possível perceber uma identidade construída e o papel do arquiteto com seu comprometimento, responsabilidade social e respeito que deve exercer sobre a cidade e sua memória. Neste trabalho foi utilizada uma metodologia que trabalhou com o método empregado no grupo de Pesquisa "Modernidade Arquitetônica" da Universidade Federal do Piauí, cadastrado no CNPq e orientado, pela Arquiteta, Professora Doutora em Projetos Arquitetônicos pela ETSAB/UPC, Alcilia Afonso de Albuquerque Costa, que segue os métodos do departamento de projetos arquitetônicos da Escola Técnica Superior de Arquitetura de Barcelona, ETSAB/UPC da linha "la forma moderna".
   keywords:
   - Arquitetura moderna
   - Preservação
   - Acácio Gil Borsoi
-  - 'Teresina-PI'
-  abstract_en: 'The proposal in this paper is to emphasize the importance of preserving the architectural heritage through the dissemination of the experience of conservation and transformation of spaces already built the great intellectuals who defend the practice. Taken as an example, explained by a summary biography of the architect Acácio Gil Borsoi and projects conducted in Teresina, capital of the Piaui, that even though in essence modernism did not leave aside the lesson given by Lucio Costa on heritage preservation. Were performed to documentary research, interviews and visits to the projects described here, with survey data and photographs. Through this material is possible to realize a constructed identity and the role of the architect with his commitment, social responsibility and respect to be exercised over the city and its memory. In this work we used a methodology that worked with the method employed in the research group "Modernidade Arquitetônica", Federal University of Piaui, registered at CNPq and directed by Architect, PhD in Architectural Design by ETSAB / UPC, Alcília Afonso de Albuquerque Costa, which follows the methods of the department of architectural projects of the Higher Technical School of Architecture of Barcelona, ETSAB / UPC line "la forma moderna".'
+  - Teresina-PI
+  abstract_en: The proposal in this paper is to emphasize the importance of preserving the architectural heritage through the dissemination of the experience of conservation and transformation of spaces already built the great intellectuals who defend the practice. Taken as an example, explained by a summary biography of the architect Acácio Gil Borsoi and projects conducted in Teresina, capital of the Piaui, that even though in essence modernism did not leave aside the lesson given by Lucio Costa on heritage preservation. Were performed to documentary research, interviews and visits to the projects described here, with survey data and photographs. Through this material is possible to realize a constructed identity and the role of the architect with his commitment, social responsibility and respect to be exercised over the city and its memory. In this work we used a methodology that worked with the method employed in the research group "Modernidade Arquitetônica", Federal University of Piaui, registered at CNPq and directed by Architect, PhD in Architectural Design by ETSAB / UPC, Alcília Afonso de Albuquerque Costa, which follows the methods of the department of architectural projects of the Higher Technical School of Architecture of Barcelona, ETSAB / UPC line "la forma moderna".
   keywords_en:
   - Modern Architecture
   - Preservation
   - Acácio Gil Borsoi
-  - 'Teresina-PI'
+  - Teresina-PI
   references:
   - 'AFONSO, Alcília A. Arquitetura em Teresina: 150 anos. Da origem a contemporaneidade. Teresina. ED. Halley, 2002.'
   - 'AFONSO, Alcilia A.; MORAES, Michele. Arquitetura Piauiense. 1. ed. Teresina: EDUFPI, 2009.'
-  - 'BORSOI, Acácio Gil Borsoi. Reflexões. Revista AU — Arquitetura e Urbanismo. nº21, p-84, dez 1988/jan 1989.'
+  - BORSOI, Acácio Gil Borsoi. Reflexões. Revista AU — Arquitetura e Urbanismo. nº21, p-84, dez 1988/jan 1989.
   - 'BORSOI, Eduardo. Opinião. Teresina e Borsoi: um enfoque em seu legado de modernidade. Mercado do Imóvel. Ano IV, nº06. 2009. Teresina-PI.'
-  - 'BORSOI, Marco Antonio Gil. Revisão. Revista AU — Arquitetura e Urbanismo. nº21, p-82-83, dez 1988/jan 1989.'
-  - 'CONDURU, Roberto. Garimpo lúcido. Resenhas Online, São Paulo, 01.002, Vitruvius, fev 2002.'
-  - 'COSTA, Maria Elisa (org.). Com a palavra Lucio Costa. Rio de Janeiro, Aeroplano, 2001.'
+  - BORSOI, Marco Antonio Gil. Revisão. Revista AU — Arquitetura e Urbanismo. nº21, p-82-83, dez 1988/jan 1989.
+  - CONDURU, Roberto. Garimpo lúcido. Resenhas Online, São Paulo, 01.002, Vitruvius, fev 2002.
+  - COSTA, Maria Elisa (org.). Com a palavra Lucio Costa. Rio de Janeiro, Aeroplano, 2001.
   - 'ROWE, Colin. "Neo-''Classicism'' and modern architecture II". In: The mathematics of the ideal villa and other essays. Cambridge: The MIT Press, 1982-1997.'
   - 'SANTOS, Cecília Rodrigues dos. Lucio Costa: problema mal posto, problema reposto. Arquitextos, São Paulo, 10.115, Vitruvius, dez 2009.'
-  - 'REVISTA PROJETO DESIGN. São Paulo, Edição 131, abril-maio/1990.'
-  locale: 'pt-BR'
-  file: 'sdpr02-006.pdf'
+  - REVISTA PROJETO DESIGN. São Paulo, Edição 131, abril-maio/1990.
+  locale: pt-BR
+  file: sdpr02-006.pdf
   pages_count: 10
   pages: null
-
-- id: 'sdpr02-007'
-  title: 'Patrimônio Cultural Edificado em Anápolis-GO'
+- id: sdpr02-007
+  title: Patrimônio Cultural Edificado em Anápolis-GO
   subtitle: diálogos entre a Arquitetura e a cidade
   authors:
   - givenname: Celina Fernandes Almeida
     familyname: Manso
-    email: 'celina.manso@hotmail.com'
+    email: celina.manso@hotmail.com
     affiliation: UEG
     orcid: null
     bio: null
@@ -296,7 +307,7 @@ articles:
     primary_contact: true
   - givenname: Sandra Catharinne Pantaleão
     familyname: Resende
-    email: 'sandrinhapanta@gmail.com'
+    email: sandrinhapanta@gmail.com
     affiliation: UEG
     orcid: null
     bio: null
@@ -304,7 +315,7 @@ articles:
     primary_contact: false
   - givenname: Pedro Henrique Máximo
     familyname: Pereira
-    email: 'arqurbarv.pedrohenrique.mx@gmail.com'
+    email: arqurbarv.pedrohenrique.mx@gmail.com
     affiliation: UEG
     orcid: null
     bio: null
@@ -312,7 +323,7 @@ articles:
     primary_contact: false
   - givenname: Daniela José da
     familyname: Silva
-    email: 'danijdesigner@gmail.com'
+    email: danijdesigner@gmail.com
     affiliation: UnB
     orcid: null
     bio: null
@@ -328,33 +339,32 @@ articles:
   - 'POLONIAL, J. M. Anápolis nos tempos da ferrovia. Goiânia: UFG, 1995. (Dissertação de Mestrado).'
   - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2ª ed. São Paulo: Edusp, 1999.'
   - 'XAVIER, Alberto (org.). Arquitetura Moderna Brasileira: Depoimento de uma geração. São Paulo: Editora Pini/ABEA/FVA, 1987.'
-  locale: 'pt-BR'
-  file: 'sdpr02-007.pdf'
+  locale: pt-BR
+  file: sdpr02-007.pdf
   pages_count: 12
   pages: null
-
-- id: 'sdpr02-008'
+- id: sdpr02-008
   title: Philipp Lohbauer no Norte do Paraná
   subtitle: Arquitetura e Modernidade
   authors:
   - givenname: Carla Martins
     familyname: Olivo
-    email: 'olivo.carla@gmail.com'
-    affiliation: 'UEM-UEL'
+    email: olivo.carla@gmail.com
+    affiliation: UEM-UEL
     orcid: null
     bio: null
     country: BR
     primary_contact: true
   - givenname: Renato Leão
     familyname: Rego
-    email: 'rego@exemplo.com'
-    affiliation: 'UEM-UEL'
-    orcid: '0000-0003-1822-2907'
+    email: rego@exemplo.com
+    affiliation: UEM-UEL
+    orcid: 0000-0003-1822-2907
     bio: null
     country: BR
     primary_contact: false
   section: Apresentação Oral
-  abstract: 'Esse trabalho versa sobre a obra do arquiteto de origem alemã Philipp Lohbauer que, situado na cidade de São Paulo e por intermédio da Empresa de Construções Brasil, projetou mais de quarenta edificações no norte do Paraná na década de 40 — mais especificamente nas cidades de Londrina, Maringá, Apucarana, Mandaguari e Marialva. Mantidos em sua grande maioria do Acervo da Biblioteca da FAU-USP, estes projetos variam em tamanho, complexidade, importância e uso. Certamente, a maior expressão do conjunto está em sua variação estilística. Assim, o presente trabalho busca compreendê-los através da sistematização de certos aspectos, como cronologia, localização e finalidade (observada através dos usos residenciais, comerciais, mistos e culturais). A análise levada a cabo contribui para o entendimento das diversas estratégias projetuais empregadas, resultantes dos valores e modelos arquitetônicos vigentes no começo do século XX — um momento no qual o modernismo não era hegemônico e cuja produção arquitetônica variada seguramente interferiu na formação acadêmica de Lohbauer. Através da apreensão das motivações e das limitações de uma carreira arquitetônica de aparente sucesso, é possível ampliar o foco de discussão sobre a modernidade no norte do Paraná, sobretudo ao cotejar as características da arquitetura proposta e da sociedade contratante que, em sua conjuntura socioeconômica particular, almejava uma imagem progressista.'
+  abstract: Esse trabalho versa sobre a obra do arquiteto de origem alemã Philipp Lohbauer que, situado na cidade de São Paulo e por intermédio da Empresa de Construções Brasil, projetou mais de quarenta edificações no norte do Paraná na década de 40 — mais especificamente nas cidades de Londrina, Maringá, Apucarana, Mandaguari e Marialva. Mantidos em sua grande maioria do Acervo da Biblioteca da FAU-USP, estes projetos variam em tamanho, complexidade, importância e uso. Certamente, a maior expressão do conjunto está em sua variação estilística. Assim, o presente trabalho busca compreendê-los através da sistematização de certos aspectos, como cronologia, localização e finalidade (observada através dos usos residenciais, comerciais, mistos e culturais). A análise levada a cabo contribui para o entendimento das diversas estratégias projetuais empregadas, resultantes dos valores e modelos arquitetônicos vigentes no começo do século XX — um momento no qual o modernismo não era hegemônico e cuja produção arquitetônica variada seguramente interferiu na formação acadêmica de Lohbauer. Através da apreensão das motivações e das limitações de uma carreira arquitetônica de aparente sucesso, é possível ampliar o foco de discussão sobre a modernidade no norte do Paraná, sobretudo ao cotejar as características da arquitetura proposta e da sociedade contratante que, em sua conjuntura socioeconômica particular, almejava uma imagem progressista.
   references:
   - 'BANHAM, R. Teoria e projeto na primeira era da máquina. 3ed. São Paulo: Perspectiva, 2003.'
   - 'CASTELNOU, A. M. N. A influência da produção modernista na transformação do panorama arquitetônico da cidade de Londrina nos anos 50. São Carlos: USP, 1998.'
@@ -365,59 +375,57 @@ articles:
   - 'REGO, R. L. As cidades plantadas. Londrina: Humanidades, 2009.'
   - 'SEGAWA, H. Arquiteturas no Brasil — 1900-1990. São Paulo: EdUSP, 2002.'
   - 'SUZUKI. J. Idealizações de Modernidade — Arquitetura dos Edifícios Verticais em Londrina 1949-1969. Londrina: Kan, 2011.'
-  locale: 'pt-BR'
-  file: 'sdpr02-008.pdf'
+  locale: pt-BR
+  file: sdpr02-008.pdf
   pages_count: 10
   pages: null
-
-- id: 'sdpr02-009'
-  title: 'Tardias manifestações do Art Déco em cascavel-PR'
+- id: sdpr02-009
+  title: Tardias manifestações do Art Déco em cascavel-PR
   authors:
   - givenname: Tamara
     familyname: Vieira
-    email: 'tamara_vieira_7@hotmail.com'
+    email: tamara_vieira_7@hotmail.com
     affiliation: FAG
     orcid: null
     bio: null
     country: BR
     primary_contact: true
   section: Apresentação Oral
-  abstract: 'A pesquisa trata do estudo e análise da produção arquitetônica Art Déco, e da existência de possíveis tardias manifestações na cidade de Cascavel-PR. O Art Déco teve repercussões no Brasil, especialmente nas cidades do Rio de Janeiro e Goiânia, que podem ser consideradas referenciais do estilo do país. O trabalho pretende investigar sua disseminação, e demonstrar que houve uma continuação dessa arte, mesmo mais tarde, em outras regiões do território brasileiro, em especial no Estado do Paraná o qual teve um processo de ocupação acentuado a partir dos anos de 1940. Toma como estudo de caso a cidade paranaense de Cascavel, localizada no Oeste do Estado, que apresenta manifestações, em algumas de suas construções mais antigas, as quais acredita-se que sejam enquadradas nesta expressão artística. Iniciado a partir de 1915, tendo seu apogeu em 1930, e seu fim marcado por volta de 1945, o Art Déco contempla ainda algumas tardias manifestações, acreditando ser esse o caso de Cascavel-PR, por possuir obras características do Estilo. Tendo em vista o entendimento dessas obras encontradas em Cascavel-PR, como possíveis manifestações tardias do estilo Art Déco, é realizado um estudo de levantamento de campo, para que seja feita a análise e interpretação e, acreditando na importância como patrimônios históricos, espera-se que haja uma maior preocupação e cuidado, preservando para que não se perca essa produção.'
+  abstract: A pesquisa trata do estudo e análise da produção arquitetônica Art Déco, e da existência de possíveis tardias manifestações na cidade de Cascavel-PR. O Art Déco teve repercussões no Brasil, especialmente nas cidades do Rio de Janeiro e Goiânia, que podem ser consideradas referenciais do estilo do país. O trabalho pretende investigar sua disseminação, e demonstrar que houve uma continuação dessa arte, mesmo mais tarde, em outras regiões do território brasileiro, em especial no Estado do Paraná o qual teve um processo de ocupação acentuado a partir dos anos de 1940. Toma como estudo de caso a cidade paranaense de Cascavel, localizada no Oeste do Estado, que apresenta manifestações, em algumas de suas construções mais antigas, as quais acredita-se que sejam enquadradas nesta expressão artística. Iniciado a partir de 1915, tendo seu apogeu em 1930, e seu fim marcado por volta de 1945, o Art Déco contempla ainda algumas tardias manifestações, acreditando ser esse o caso de Cascavel-PR, por possuir obras características do Estilo. Tendo em vista o entendimento dessas obras encontradas em Cascavel-PR, como possíveis manifestações tardias do estilo Art Déco, é realizado um estudo de levantamento de campo, para que seja feita a análise e interpretação e, acreditando na importância como patrimônios históricos, espera-se que haja uma maior preocupação e cuidado, preservando para que não se perca essa produção.
   references:
   - 'BRANDI, Cesare. Teoria da Restauração. São Paulo: Ateliê Editorial, 2004.'
   - 'BRESLER, Henri. O Art Decorafit Moderno na França. P. 11-17. Art Déco na América Latina. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro/SMU, Solar Grandjean de Montigny — PUC/RJ, 1997.'
   - 'CASTELNOU, Antonio. Arquitetura Art Déco em Londrina. Londrina: Midiograf, 2002.'
   - 'CZAJKWOSKI, Jorge (org). Guia da Arquitetura Art Déco no Rio De Janeiro. Rio de Janeiro: Casa da Palavra, 2000.'
   - 'DIAS, Caio Smolarek; FEIBER, Fúlvio Natércio; MUKAI, Hitomi; DIAS, Solange Irene Smolarek. Cascavel: um espaço no tempo. A história do planejamento urbano. Cascavel: Sintagma Editores, 2005.'
-  - 'SPERANÇA, Alceu A. Cascavel a História. Gráfica Positiva, 2011.'
-  locale: 'pt-BR'
-  file: 'sdpr02-009.pdf'
+  - SPERANÇA, Alceu A. Cascavel a História. Gráfica Positiva, 2011.
+  locale: pt-BR
+  file: sdpr02-009.pdf
   pages_count: 10
   pages: null
-
-- id: 'sdpr02-010'
+- id: sdpr02-010
   title: Templos modernos
   subtitle: as igrejas de Dominikus e Gottfried Böhm no Brasil
   authors:
   - givenname: Karine
     familyname: Daufenbach
-    email: 'daufenbach@exemplo.com'
+    email: daufenbach@exemplo.com
     affiliation: UFSC
-    orcid: '0000-0002-2292-8219'
+    orcid: 0000-0002-2292-8219
     bio: null
     country: BR
     primary_contact: true
   - givenname: Flávia Martini
     familyname: Ramos
-    email: 'ramos@exemplo.com'
+    email: ramos@exemplo.com
     affiliation: UFSC
     orcid: null
     bio: null
     country: BR
     primary_contact: false
-  - givenname: Leodi
+  - givenname: Leodi Antônio
     familyname: Covatti
-    email: 'covatti@exemplo.com'
+    email: covatti@exemplo.com
     affiliation: UFSC
     orcid: null
     bio: null
@@ -438,7 +446,333 @@ articles:
   - 'PEHNT, Wolfgang. La Arquitectura Expresionista. Barcelona: G. Gili, 1975.'
   - 'VOIGT, Wolfgang (org.). Gottfried Böhm. Frankfurt: Jovis, 2008.'
   - 'VOIGT, Wolfgang; FLAGGE, Ingeborg (org.). Dominikus Böhm (1880-1955). Tübingen, Berlin: Ernst Wasmuth Verlage, 2005.'
-  locale: 'pt-BR'
-  file: 'sdpr02-010.pdf'
+  locale: pt-BR
+  file: sdpr02-010.pdf
   pages_count: 8
+  pages: null
+- id: sdpr02-011
+  title: A estação rodoviária de Jandaia do Sul — PR, inventário de uma obra brutalista
+  authors:
+  - givenname: Amanda Yumi
+    familyname: Yamaguchi
+    email: yamaguchi@exemplo.com
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Oigres Leici Cordeiro de
+    familyname: Macedo
+    email: oigres.macedo@exemplo.com
+    affiliation: UEM
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'GUIMARÃES, Terezinha Barbosa. Jandaia do Sul: Passado e Presente. Jandaia do Sul: 2006.'
+  - JANDAIA DO SUL. Desenhos arquitetônicos da Estação Ferroviária de Jandaia do Sul, 1969.
+  - 'IPARDES. Caderno Estatístico Município de Jandaia do Sul. Curitiba: IPARDES, 2007.'
+  - 'MAGALHÃES, A. et al. Educação Patrimonial: da teoria à prática. Londrina: Unifil, 2009.'
+  - 'REGO, Renato Leão. As cidades plantadas. Londrina: Humanidades, 2009.'
+  - SANTOS, Gonçalves e Macedo. Enteca 2007.
+  - YAMAGUCHI, Toshio. Acervo pessoal de fotos antigas de Jandaia do Sul. Jandaia do Sul, 1941-1965.
+  - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. São Paulo e Porto Alegre, 2005.
+  locale: pt-BR
+  file: sdpr02-011.pdf
+  pages_count: 5
+  pages: null
+- id: sdpr02-012
+  title: 'Da revolta tenentista ao Plano Diretor de 1978: o caso de Cascavel, PR e seu urbanismo modernista'
+  authors:
+  - givenname: Caio Smolarek
+    familyname: Dias
+    email: caio.dias@exemplo.com
+    affiliation: FAG
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Fúlvio Natércio
+    familyname: Feiber
+    email: fulvio@fag.edu.br
+    affiliation: FAG
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Hitomi
+    familyname: Mukai
+    email: mukai@exemplo.com
+    affiliation: FAG
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Solange Irene Smolarek
+    familyname: Dias
+    email: solange.dias@exemplo.com
+    affiliation: FAG
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'DIAS, Caio Smolarek; FEIBER, Fúlvio Natércio; MUKAI, Hitomi; DIAS, Solange Irene Smolarek. Cascavel: um espaço no tempo. A história do planejamento urbano. Cascavel: Sintagma Editores, 2005.'
+  - PMC, Prefeitura Municipal de Cascavel. Plano diretor de desenvolvimento. Leis n. 1183/75, 1184/75 e 1186/6. Exemplar do arquivo da SEPLAN. Cascavel. 1976.
+  - ______. Cidade de Cascavel. Estrutura urbana. V. Jaime Lerner planejamento urbano. Exemplar do arquivo da SEPLAN. V. 1. Cascavel. 1978.
+  - 'PRESTES, Anita Leocádia. A coluna Prestes — uma epopeia brasileira. Disponível em: http://www.cecac.org.br/. Acesso em: 31 ago. 2005.'
+  - 'SPERANÇA, Celso. A história de Cascavel. Cascavel: Lagarto, 1992.'
+  locale: pt-BR
+  file: sdpr02-012.pdf
+  pages_count: 15
+  pages: null
+- id: sdpr02-013
+  title: 'Modernidades alternativas na fronteira do Brasil: a obra de Luís Fernando Corona em Porto Alegre'
+  authors:
+  - givenname: Cláudio Calovi
+    familyname: Pereira
+    email: calovi@exemplo.com
+    affiliation: PROPAR-UFRGS
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'ALVAREZ, Cícero. Palácio da Justiça de Porto Alegre. Dissertação de mestrado. Porto Alegre: PROPAR-UFRGS, 2008.'
+  - 'CALOVI PEREIRA, Cláudio. Os irmãos Roberto e a arquitetura moderna no Rio de Janeiro (1936-1945). Dissertação de mestrado. Porto Alegre: PROPAR-UFRGS, 1993.'
+  - 'CALOVI PEREIRA, Cláudio. Transparência e permeabilidade: diálogos entre tradição e modernidade nos pisos térreos dos Irmãos Roberto no centro do Rio de Janeiro (1936-1952). In: Cadernos de arquitetura Ritter dos Reis, Vol. 5, 2007, p. 93-113.'
+  - 'LUCCAS, Luis Henrique Haas. Arquitetura moderna brasileira em Porto Alegre. Tese de doutorado. Porto Alegre: PROPAR/UFRGS, 2004.'
+  - 'SZEKUT, Alessandra. Vertentes da modernidade no Rio Grande do Sul: a obra do arquiteto Luis Fernando Corona. Dissertação de mestrado. Porto Alegre: PROPAR-UFRGS, 2008.'
+  - 'XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: FAUFRGS/Editora Pini, 1987.'
+  locale: pt-BR
+  file: sdpr02-013.pdf
+  pages_count: 15
+  pages: null
+- id: sdpr02-014
+  title: A legislação, o incentivo e limitação à nova arquitetura em Londrina
+  authors:
+  - givenname: Dafne Marques de
+    familyname: Mendonça
+    email: mendonca@exemplo.com
+    affiliation: PPGAU-UFBA
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'ANDRADE, Carlos Roberto Monteiro de. A construção historiográfica da cidade e do urbanismo moderno no Brasil: o caso das cidades novas planejadas. In: PINHEIRO, Eloísa P.; GOMES, Marco Aurélio A. de F. (Org.). A cidade como história: os arquitetos e a historiografia da cidade e do urbanismo. Salvador: EDUFBA, 2004.'
+  - 'AYMONINO, Carlo. La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Editora G. Gili S.A., 1973.'
+  - 'COELHO, Gustavo Neiva. Art Déco: uma vertente da modernidade. Goiânia: Vieira/Trilhas Urbanas, 2000.'
+  - 'BARNABÉ, Marcos F. A organização espacial do território e o projeto da cidade: o caso da CTNP. Dissertação de mestrado. São Carlos: USP, 1989.'
+  - 'BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Editora Perspectiva, 4ª ed., 2006.'
+  - 'BERTOLOTTI, João Baptista. Planejar é preciso: memórias do planejamento urbano de Londrina. Londrina: Midiograf, 2007.'
+  - 'BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 2008.'
+  - 'COMPANHIA Melhoramentos Norte do Paraná. Colonização e desenvolvimento do Norte do Paraná. São Paulo: Editora Ave Maria, 2ª ed., 1977.'
+  - 'COMAS, Eduardo D. C. Arquitetura moderna estilo Corbu, pavilhão brasileiro, 1989. In: Textos fundamentais sobre a arquitetura moderna brasileira, Vol. 1. São Paulo: Romano Guerra, 2010.'
+  - '______. Uma certa arquitetura moderna brasileira: experiência a reconhecer, 1987. In: Textos fundamentais sobre a arquitetura moderna brasileira, Vol. 1. São Paulo: Romano Guerra, 2010.'
+  - 'CURTIS, William J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008.'
+  - 'FRAMPTON, Kenneth. História e crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.'
+  - 'GIEDION, Sigfried. Espaço, tempo e arquitetura: o desenvolvimento de uma tradição. São Paulo: Martins Fontes, 2004.'
+  - 'GOMES, Marco Aurélio A. de Filgueiras (Org.). Cadernos PPG-AU/FA/UFBA: Urbanismo modernista — Brasil, 1930-1960. Ano 3, edição especial, 2005. Salvador: PPG-AU/FAUFBA, 2005.'
+  - 'GROPIUS, Walter. The new architecture and the Bauhaus. Cambridge: MIT Press, 1965.'
+  - 'KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel/Edusp, 1990.'
+  - 'LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 2006.'
+  - '______. A carta de Atenas. São Paulo: HUCITEC/USP, 1993.'
+  - 'LIMA, Fausto C. de. Prestes Maia em Londrina: moderno em que sentido? Dissertação de mestrado. São Paulo: FAUUSP, 2000.'
+  - 'MUMFORD, Eric Paul. The CIAM discourse on urbanism, 1928-1960. Cambridge: MIT Press, 2000.'
+  - 'NERY, Juliana Cardoso. Configurações da Metrópole Moderna — os arranha-céus de Belo Horizonte 1940/1960. Dissertação de mestrado. Salvador: PPGAU-UFBA, 2001.'
+  - 'REGO, Renato L. As cidades plantadas: os britânicos e a construção da paisagem do norte do Paraná. Londrina: Humanidades, 2009.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.'
+  - 'SUZUKI, Juliana. Artigas e Cascaldi — Arquitetura em Londrina. São Paulo: Ateliê Editorial, 2003.'
+  - '______. Idealizações da modernidade: edifícios verticais em Londrina 1949-1960. Tese de doutorado. São Paulo: FAUUSP, 2007.'
+  - 'TYRWHITT, J.; SERT, J. L.; ROGERS, E. N. (Org.). The heart of the city: towards the humanization of urban life. London: Internacional Congress for Modern Architecture, 1952.'
+  - 'SERT, José Luis. Can our cities survive? An ABC of urban problems, their analysis, their solutions. London: Oxford University Press, 1942.'
+  - 'YAMAKI, Humberto. Iconografia Londrinense. Londrina: Edições Humanidades, 2003.'
+  - '______. Lembranças e deslembranças: álbum Londrina 1941. Londrina: Edições Humanidades, 2008.'
+  - 'ZANI, Antonio Carlos. Repertório arquitetônico das casas de madeira de Londrina-PR. Londrina: Antonio Carlos Zani, 2005.'
+  locale: pt-BR
+  file: sdpr02-014.pdf
+  pages_count: 18
+  pages: null
+- id: sdpr02-015
+  title: 'A trajetória do patrimônio moderno em Londrina: obras de Vilanova Artigas e Carlos Cascaldi'
+  authors:
+  - givenname: Elisa Roberta
+    familyname: Zanon
+    email: zanon@exemplo.com
+    affiliation: UniFil
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Leandro Henrique
+    familyname: Magalhães
+    email: magalhaes@exemplo.com
+    affiliation: UniFil
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'CERNEV, Jorge. Memória e Cotidiano — Cenas do Norte do Paraná: escritos que se recompõem. Londrina: IPAC/UEL, 1995.'
+  - FOLHA DE LONDRINA. Acervo fotográfico.
+  - MUSEU HISTÓRICO DE LONDRINA PE. CARLOS WEISS. Acervo Fotográfico. UEL.
+  - 'SUZUKI, Juliana H. Artigas e Cascaldi, Arquitetura em Londrina. São Paulo: Ateliê Editorial, 2003.'
+  - 'YAMAKI, Humberto. Plano Diretor de Preservação do Patrimônio Histórico de Londrina — Documentos para discussão. Londrina: Prefeitura Municipal de Londrina, 2003.'
+  locale: pt-BR
+  file: sdpr02-015.pdf
+  pages_count: 9
+  pages: null
+- id: sdpr02-016
+  title: Itinerário da arquitetura moderna no aglomerado urbano de Florianópolis, SC
+  authors:
+  - givenname: Gilberto Sarkis
+    familyname: Yunes
+    email: yunes@exemplo.com
+    affiliation: UFSC
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  - givenname: Luiz Eduardo Fontoura
+    familyname: Teixeira
+    email: teixeira@exemplo.com
+    affiliation: UFSC
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Beatriz
+    familyname: Menegon
+    email: menegon@exemplo.com
+    affiliation: UFSC
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Lucas Battisti de
+    familyname: Souza
+    email: battisti@exemplo.com
+    affiliation: UFSC
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'ALBERTON, Josicler Orbem. Influência modernista na arquitetura residencial de Florianópolis. Dissertação de mestrado. Florianópolis: Pós-Arq/UFSC, 2006.'
+  - 'ANDRADE JÚNIOR, Nivaldo Vieira; CARVALHO, Maria Rosa; FREIRE, Raquel Neimann da Cunha. O IPHAN e os desafios da preservação do Patrimônio Moderno: a aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos. In: SEGRE, Roberto et al. (Org.). Arquitetura + Arte + Cidade: Um debate internacional. 8º Docomomo Brasil. Rio de Janeiro: Viana & Mosley, 2010.'
+  - 'CASTRO, Eloah Rocha Monteiro de. Jogo de formas híbridas. Arquitetura e modernidade em Florianópolis na década de 50. Tese de doutorado. Florianópolis: PPGH/CFCH/UFSC, 2002.'
+  - 'CAVALCANTI, Lauro. Quando o Brasil era Moderno. Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.'
+  - DAUFENBACH, Karine. Hans Broos — A expressividade da forma. Rio de Janeiro, 2006.
+  - 'MATTOS, Melissa. Arquitetura institucional em concreto aparente e suas repercussões no espaço urbano de Florianópolis entre 1970 e 1985. Dissertação de mestrado. Florianópolis: PGAU-CIDADE/UFSC, 2009.'
+  - 'MINDLIN, Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano/IPHAN, 2000.'
+  - 'MUNARIM, Ulisses. Arquitetura dos cinemas: um estudo da modernidade em Santa Catarina. Dissertação de mestrado. Florianópolis: PGAU-CIDADE/UFSC, 2008.'
+  - 'PREFEITURA DA CIDADE DO RIO DE JANEIRO. Guia da Arquitetura Moderna no Rio de Janeiro. Rio de Janeiro: Casa da Palavra, 2001.'
+  - 'TEIXEIRA, Luiz Eduardo Fontoura. Arquitetura e cidade: a modernidade (possível) em Florianópolis, Santa Catarina — 1930-1960. Tese de doutorado. São Carlos: USP, 2009.'
+  - 'TEIXEIRA, Luiz Eduardo Fontoura; GRAD, Guilherme Freitas; MUNARIM, Ulisses. Moderno mas não Eterno. Algumas reflexões sobre um patrimônio ameaçado em Florianópolis, SC. 3º Encontro de pesquisadores do Modernismo na Arquitetura e Urbanismo de Santa Catarina. Blumenau: FURB, 2011.'
+  - 'YUNES, Gilberto Sarkis. Ícones modernos nos clubes sociais de Florianópolis. 2º Encontro de Pesquisadores do Modernismo na Arquitetura e Urbanismo de Santa Catarina. Florianópolis: UFSC, 2009.'
+  - 'YUNES, Gilberto Sarkis; OLIVEIRA, Lisete Assen de. Dinâmica da Verticalização em Florianópolis. In: Oficina Verticalização das Cidades Brasileiras. São Paulo: Universidade Mackenzie, 2006.'
+  - ZEIN, Ruth Verde; DI MARCO, A. R. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Revista eletrônica Vitruvius, Arquitextos, ano 09, jul. 2008.
+  locale: pt-BR
+  file: sdpr02-016.pdf
+  pages_count: 10
+  pages: null
+- id: sdpr02-017
+  title: 'A arquitetura moderna chega ao litoral do Paraná: o caso da residência Guido Weber em Caiobá'
+  authors:
+  - givenname: Michelle Schneider
+    familyname: Santos
+    email: schneider.santos@exemplo.com
+    affiliation: Mackenzie
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'ARTIGAS, João Batista Vilanova. Vilanova Artigas. (Ed. Marcelo Ferraz). São Paulo: Fundação Lina Bo e P. M. Bardi/Fundação Vilanova Artigas, 1997.'
+  - 'BANHAM, Reyner. Brutalismo en Arquitectura, ética ou estética? Barcelona: GG, 1966.'
+  - 'BASTOS, Maria Alice. Pós-Brasília: Rumos da Arquitetura Brasileira — Discurso, Prática e Pensamento. São Paulo: Perspectiva, 2003.'
+  - 'DUDEQUE, Irã Taborda. Espirais de Madeira. Uma História da Arquitetura de Curitiba. São Paulo: Studio Nobel, 2001.'
+  - 'GNOATO, Luis Salvador. A Arquitetura do Movimento Moderno em Curitiba. Curitiba: Travessa dos Editores, 2009.'
+  - '______. Arquitetura e Urbanismo de Curitiba: transformações do movimento moderno. Tese de doutorado. São Paulo: FAU-USP, 2002.'
+  - 'PACHECO, Paulo C. B. A Arquitetura do Grupo do Paraná 1957-1980. Tese de doutorado. Porto Alegre: PROPAR/UFRGS, 2010.'
+  - '______. O Risco do Paraná e os Concursos Nacionais de Arquitetura 1962-1981. Dissertação de mestrado. Curitiba: PROPAR-UFRGS/PUC-PR, 2004.'
+  - 'PETRACCO, Francisco. Arquitetura: Desenho, Estrutura e Ritmo. Tese de doutorado. São Paulo: FAU-USP, 2004.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: Edusp, 1999.'
+  - 'ZEIN, Ruth Verde; BASTOS, Maria Alice J. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
+  - 'ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista: 1953-1973. Tese de doutorado. Porto Alegre: PROPAR/UFRGS, 2005.'
+  - ______. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, jul. 1986, p. 28-30.
+  locale: pt-BR
+  file: sdpr02-017.pdf
+  pages_count: 11
+  pages: null
+- id: sdpr02-018
+  title: Duas casas de Vilanova Artigas em Ponta Grossa, PR
+  authors:
+  - givenname: Roberto Tourinho
+    familyname: Fontan
+    email: fontan@exemplo.com
+    affiliation: PROPAR-UFRGS
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'BARDI, Lina Bo. Casas de Vilanova Artigas. Habitat, n. 1, São Paulo, out.-dez. 1950, p. 2-16. In: RUBINO, Silvana; GRINOVER, Marina (Org.). Lina por escrito. Textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.'
+  - 'BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1997.'
+  - 'JULIANO, Miguel. Sobre Residências. In: Cadernos Brasileiros de Arquitetura: Arquiteto Miguel Juliano, pensamento e obra. São Paulo: Projeto, 1980, p. 17-18.'
+  - 'COELHO, Julio; CAMPOS, A. Carlos (Org.). Giocondo Villanova Artigas: o formador de cirurgiões. Curitiba: Relisul, 1991.'
+  - 'DUDEQUE, Irã. Espirais de madeira: uma história da arquitetura de Curitiba. São Paulo: Studio Nobel, 2001.'
+  - 'FERREIRA, João Carlos Vicente. O Paraná e seus Municípios. Cuiabá: Editora Memória do Brasil, 1999.'
+  - 'FISCHER, Sylvia. Arquitetos da Poli: Ensino e Profissão em São Paulo. São Paulo: Fapesp/Edusp, 2005.'
+  - 'GNOATO, Salvador. Arquitetura do movimento moderno em Curitiba. Curitiba: Travessa dos Editores, 2009.'
+  - 'INSTITUTO LINA BO E P. M. BARDI. Vilanova Artigas: arquitetos brasileiros — brazilian architects. São Paulo: Instituto Lina Bo e P. M. Bardi/Instituto Vilanova Artigas, 1997.'
+  - 'MIGLIORINI, Jeanine Mafra. Pilotis e Pans de Verres sob a ótica Bourdiana: um estudo sobre a arquitetura modernista no espaço urbano de Ponta Grossa-PR. Dissertação de mestrado. Ponta Grossa: UEPG, 2008.'
+  - 'PORTELA, Giceli. A Casa Bettega de Vilanova Artigas — Desenhos e conceitos. Dissertação de mestrado. São Paulo: FAUUSP, 2008.'
+  - 'SUZUKI, Juliana. Artigas e Cascaldi: Arquitetura em Londrina. São Paulo: Ateliê Editorial, 2003.'
+  - 'XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: Pini/Fundação Cultural de Curitiba, 1985.'
+  - 'ZEIN, Ruth Verde. O lugar da crítica: ensaios oportunos de arquitetura. Porto Alegre: Faculdades Integradas do Instituto Ritter dos Reis, 2001.'
+  locale: pt-BR
+  file: sdpr02-018.pdf
+  pages_count: 19
+  pages: null
+- id: sdpr02-019
+  title: O Museu de Arte de Londrina — MAL, Vilanova Artigas e as vanguardas modernas
+  authors:
+  - givenname: Salvador
+    familyname: Gnoato
+    email: gnoato@exemplo.com
+    affiliation: PUCPR
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: true
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2010.'
+  - 'DE FEO, Vittorio. Arquitetura Construtivista — URSS 1917-1936. Trad. Luiz Antonio Pitanga do Amparo. São Paulo: Worldwhitewall, 2005.'
+  - 'IRIGOYEN, Adriana. Wright e Artigas — duas viagens. São Paulo: Ateliê Editorial, 2002.'
+  - 'SUZUKI, Juliana. Artigas e Cascaldi — Arquitetura em Londrina. São Paulo: Ateliê Editorial, 2003.'
+  - 'WISNIK, Guilherme. Vilanova Artigas y la dialéctica de los esfuerzos. In: 2G, n. 54, João Vilanova Artigas. Barcelona: Gustavo Gili, 2010, p. 11-24.'
+  locale: pt-BR
+  file: sdpr02-019.pdf
+  pages_count: 6
   pages: null
