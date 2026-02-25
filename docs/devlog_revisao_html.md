@@ -48,8 +48,11 @@ O script `scripts/gerar_revisao_html.py` gera uma página HTML self-contained pa
 - `revisao/fichas_catalograficas.yaml` — adicionado link repositório UFBA ao sdbr01
 - `CLAUDE.md` — adicionado script à tabela de scripts principais
 
+### Saída para pasta revisao/ (2026-02-25)
+- Output padrão alterado de `/tmp/` para `revisao/revisao-{slug}.html`
+
 ## Uso
 ```bash
-python3 scripts/gerar_revisao_html.py sdbr02
-# → /tmp/revisao-sdbr02.html
+python3 scripts/gerar_revisao_html.py sdbr03
+# → revisao/revisao-sdbr03.html
 ```
