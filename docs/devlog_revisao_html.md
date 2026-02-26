@@ -51,6 +51,14 @@ O script `scripts/gerar_revisao_html.py` gera uma página HTML self-contained pa
 ### Saída para pasta revisao/ (2026-02-25)
 - Output padrão alterado de `/tmp/` para `revisao/revisao-{slug}.html`
 
+### Revisão sdbr04 (2026-02-26)
+- 79 artigos (todos só resumo, sem referências)
+- 27 títulos corrigidos (capitalização sentence case)
+- 10 subtítulos corrigidos
+- 5 resumos ausentes recuperados dos PDFs
+- 7 resumos truncados completados dos PDFs
+- Padrões adicionados ao dict.db: Esplanada, Vila Ferroviária
+
 ## Uso
 ```bash
 python3 scripts/gerar_revisao_html.py sdbr03
