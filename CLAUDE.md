@@ -7,6 +7,20 @@ Regras de processamento de dados: [`docs/regras_dados.md`](docs/regras_dados.md)
 
 ---
 
+## Seminários revisados — NÃO ALTERAR
+
+Os seminários abaixo já foram revisados manualmente pelo usuário (títulos, subtítulos, referências).
+**NÃO modificar seus dados** (títulos, subtítulos, autores, referências) em nenhuma circunstância,
+a menos que o usuário peça explicitamente uma alteração específica.
+
+| Seminário | Artigos | Status | Data |
+|-----------|---------|--------|------|
+| sdbr01 | 37 | ✅ revisado | 2026-02-24 |
+| sdbr02 | 22 | ✅ revisado | 2026-02-24 |
+| sdbr03 | 56 | ✅ revisado | 2026-02-26 |
+
+---
+
 ## Regra de ouro — Pipeline existente
 
 ANTES de escrever qualquer código ou rodar qualquer comando:
