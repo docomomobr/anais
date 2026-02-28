@@ -150,13 +150,22 @@ WHERE seminar_slug = '{slug}' AND (abstract IS NULL OR abstract = '');
 
 **REGRA: Inspecionar TODOS os artigos fora do padrão, sem exceção.** Não avançar para a Fase 0.4 nem para a Fase 1 enquanto todos os PDFs não tiverem sido inspecionados. Verificar parcialmente e prosseguir é o erro mais comum nesta etapa.
 
-Para **cada** artigo fora do padrão, extrair texto do PDF (`pdftotext`) e buscar o campo faltante:
+**Extração de texto**: Extrair texto de TODOS os PDFs do seminário com `pdftotext` e salvar na pasta `fontes/` do seminário. Os txts ficam disponíveis para todas as etapas seguintes e para uso futuro.
+
+```bash
+mkdir -p nacionais/{slug}/fontes  # ou regionais/{grupo}/{slug}/fontes
+for pdf in nacionais/{slug}/pdfs/*.pdf; do
+  pdftotext "$pdf" "nacionais/{slug}/fontes/$(basename "$pdf" .pdf).txt" 2>/dev/null
+done
+```
+
+Para PDFs escaneados, verificar com `pdfinfo` e usar `ocrmypdf` antes do `pdftotext`.
+
+Para **cada** artigo fora do padrão, buscar o campo faltante no txt extraído:
 - **Abstract/resumo**: geralmente após o título e autores, antes das keywords
 - **Keywords**: geralmente após o abstract, marcadas com "Palavras-chave:" ou "Keywords:"
 - **Referências**: ver subetapas abaixo
 - **Abstract EN**: após o abstract PT ou no final do artigo
-
-Para PDFs escaneados, verificar com `pdfinfo` e usar `ocrmypdf` se necessário.
 
 #### Subetapas para referências faltantes
 
