@@ -83,6 +83,39 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 
 Antes de qualquer revisão, identificar o **padrão de metadados do seminário** e preencher as lacunas nos artigos que desviam desse padrão. A lógica é simples: se a maioria dos artigos tem um campo (ex: keywords), os poucos que não têm provavelmente tinham o dado no PDF e ele se perdeu na extração. Mas se nenhum artigo tem o campo, é porque o evento não exigia — e não adianta buscar.
 
+### 0.0 Registro de diagnóstico
+
+**ANTES de qualquer ação**, criar um registro de diagnóstico no formato abaixo. Este registro serve como checklist — nenhuma fase pode avançar enquanto houver itens pendentes.
+
+```markdown
+## Diagnóstico — {slug} ({N} artigos)
+
+### Padrão de metadados
+| Campo | Presença | Classificação | Ação |
+|-------|----------|---------------|------|
+| abstract | X% | PRESENTE/AUSENTE/INTERMEDIÁRIO | buscar nos PDFs / não buscar |
+| abstract_en | X% | ... | ... |
+| keywords | X% | ... | ... |
+| keywords_en | X% | ... | ... |
+| references | X% | ... | ... |
+
+### Artigos fora do padrão — {campo}
+| Artigo | Status | Observação |
+|--------|--------|------------|
+| {file} | ⏳ pendente | |
+...
+
+(repetir para cada campo classificado como PRESENTE ou INTERMEDIÁRIO)
+```
+
+O registro é preenchido progressivamente:
+- **0.1** preenche a tabela de padrão
+- **0.2** preenche as listas de artigos fora do padrão (todos com status ⏳)
+- **0.3** atualiza cada artigo para ✅ (preenchido) ou ⬜ (genuinamente ausente)
+- **0.4** salva no banco apenas os ✅, confirma que não restam ⏳
+
+**Regra de transição**: só avançar para a Fase 1 quando **zero** itens ⏳ restarem no registro.
+
 ### 0.1 Levantar padrão de metadados
 
 Consultar o banco para cada campo relevante:
@@ -115,20 +148,65 @@ WHERE seminar_slug = '{slug}' AND (abstract IS NULL OR abstract = '');
 
 ### 0.3 Reinspecionar PDFs
 
-Para cada artigo fora do padrão, extrair texto do PDF e buscar o campo faltante:
+**REGRA: Inspecionar TODOS os artigos fora do padrão, sem exceção.** Não avançar para a Fase 0.4 nem para a Fase 1 enquanto todos os PDFs não tiverem sido inspecionados. Verificar parcialmente e prosseguir é o erro mais comum nesta etapa.
+
+Para **cada** artigo fora do padrão, extrair texto do PDF (`pdftotext`) e buscar o campo faltante:
 - **Abstract/resumo**: geralmente após o título e autores, antes das keywords
 - **Keywords**: geralmente após o abstract, marcadas com "Palavras-chave:" ou "Keywords:"
-- **Referências**: geralmente no final do artigo, sob "Referências", "Bibliografia", "Notas"
+- **Referências**: ver subetapas abaixo
 - **Abstract EN**: após o abstract PT ou no final do artigo
 
-Usar `pdftotext` para extração. Para PDFs escaneados, verificar com `pdfinfo` e usar `ocrmypdf` se necessário.
+Para PDFs escaneados, verificar com `pdfinfo` e usar `ocrmypdf` se necessário.
+
+#### Subetapas para referências faltantes
+
+O diagnóstico de referências é mais granular que os demais campos, porque existem três tipos de fonte no PDF:
+
+**Passo 1 — Extrair texto e classificar todos os artigos sem refs:**
+
+| Artigo | Tipo | Status |
+|--------|------|--------|
+| {file} | 📚 bibliografia explícita / 📝 endnotes / 📄 footnotes / ⬜ sem refs | ⏳ |
+
+Onde:
+- **📚 bibliografia explícita**: seção "Referências", "Bibliografia", "Referências Bibliográficas" etc.
+- **📝 endnotes (notas de fim)**: seção "Notas", "Notas ao Texto" com citações numeradas
+- **📄 footnotes (notas de rodapé)**: citações dispersas no rodapé das páginas, sem seção dedicada
+- **⬜ sem refs**: PDF inspecionado, nenhuma referência encontrada
+
+**Passo 2 — Extrair na ordem de facilidade:**
+1. Primeiro: 📚 bibliografias explícitas (extração direta)
+2. Depois: 📝 endnotes (extração + limpeza de numeração)
+3. Por último: 📄 footnotes (extração complexa, pode não valer o esforço)
+
+**Passo 3 — Salvar extração em arquivo antes de inserir no banco:**
+
+```bash
+# Salvar refs extraídas em JSON para não perder na compactação de sessão
+# Arquivo: revisao/{slug}-refs-extraidas.json
+{
+    "sdbr06-006.pdf": ["ref1", "ref2", ...],
+    "sdbr06-012.pdf": ["ref1", "ref2", ...],
+    ...
+}
+```
+
+Só depois de salvo o arquivo, inserir no banco. Isso garante que a extração não se perde se a sessão for compactada.
+
+**Checklist obrigatório** antes de prosseguir: todos os artigos devem estar marcados como:
+- ✅ preenchido (dado encontrado no PDF, salvo em arquivo e no banco)
+- ⬜ genuinamente ausente (PDF inspecionado, campo não existe no documento)
+- 📄 footnotes (flagged para avaliação futura — não bloqueia a transição)
+
+Só avançar quando **zero** itens ⏳ restarem.
 
 ### 0.4 Preencher lacunas no banco
 
-Aplicar os dados extraídos ao banco. Reportar:
+Aplicar os dados extraídos ao banco **a partir do arquivo JSON salvo na etapa anterior**. Reportar:
 - Quantos artigos estavam fora do padrão por campo
 - Quantos foram preenchidos com sucesso
-- Quantos genuinamente não têm o dado (confirmar no PDF)
+- Quantos genuinamente não têm o dado (confirmado no PDF)
+- **Lista completa** com status de cada artigo (checklist ✅/⬜/📄)
 
 ---
 
@@ -159,23 +237,67 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 
 Os critérios de capitalização estão em [`docs/regras_dados.md`](regras_dados.md) e na memória do projeto.
 
-**Retroalimentação do dicionário:** Após aplicar as correções do LLM, incorporar os aprendizados ao `dict.db` para que o normalizador automático acerte nos seminários seguintes:
+**Registro granular de aprendizado:** Durante a revisão LLM, **cada correção e cada aprendizado devem ser salvos em arquivo** progressivamente, à medida que são identificados. Isso evita perder o trabalho numa compactação de sessão.
 
-1. **Novos nomes próprios** (LLM capitalizou algo que o normalizador não conhecia):
+Arquivo: `revisao/{slug}-titulos-aprendizado.json`
+
+```json
+{
+  "correcoes": [
+    {
+      "file": "sdbr06-008.pdf",
+      "campo": "title",
+      "de": "esplanada em Santos",
+      "para": "Esplanada em Santos",
+      "motivo": "nome próprio de edifício",
+      "dict_acao": "add_nome:Esplanada"
+    },
+    {
+      "file": "sdbr06-019.pdf",
+      "campo": "title",
+      "de": "Arquitetura Brasileira",
+      "para": "arquitetura brasileira",
+      "motivo": "termo genérico, não é 'Arquitetura Moderna'",
+      "dict_acao": null
+    }
+  ],
+  "dict_additions": {
+    "nomes": ["Esplanada", "Pedregulho"],
+    "expressoes": ["Plano Agache", "Brutalismo Paulista"],
+    "remover": []
+  },
+  "padroes_confirmados": [
+    "'Arquitetura Moderna' sempre maiúscula",
+    "'arquitetura' isolada sempre minúscula"
+  ]
+}
+```
+
+**Procedimento:**
+1. Analisar títulos em lotes (ex: 10 por vez)
+2. **Após cada lote**, salvar as correções e aprendizados no arquivo JSON
+3. Ao final de todos os lotes, aplicar correções ao banco e dict_additions ao dict.db
+4. Se a sessão for compactada no meio, o próximo ciclo lê o arquivo e continua de onde parou
+
+**Retroalimentação do dicionário:** Após aplicar as correções do LLM, incorporar os aprendizados ao `dict.db` **a partir do arquivo JSON** (campo `dict_additions`):
+
+1. **Novos nomes próprios** (`dict_additions.nomes`):
    - Edifícios, lugares, instituições → adicionar à tabela `nomes` ou `expressoes`
    - Ex: "Esplanada" (nome de edifício), "Vila Operária" (nome próprio)
-2. **Novas expressões consolidadas** (LLM manteve maiúscula em expressão multi-palavra):
+2. **Novas expressões consolidadas** (`dict_additions.expressoes`):
    - Ex: "Brutalismo Paulista", "Plano Agache"
    - Adicionar à tabela `expressoes` do `dict.db`
-3. **Falsos positivos** (LLM corrigiu algo que o normalizador ou o PDF deixou em maiúscula indevida):
-   - Verificar se a palavra está no `dict.db` como nome próprio e não deveria estar
-   - Se estiver, remover a entrada
-4. **Padrões confirmados**: registrar em `MEMORY.md` para referência futura
+3. **Falsos positivos** (`dict_additions.remover`):
+   - Palavras que estão no `dict.db` como nome próprio mas não deveriam estar
+   - Remover a entrada
+4. **Padrões confirmados** (`padroes_confirmados`): registrar em `MEMORY.md` para referência futura
 
 ```bash
-# Verificar se as correções implicam mudanças no dict.db:
+# Aplicar aprendizados do arquivo JSON ao dict.db:
 python3 -c "
-import sqlite3
+import json, sqlite3
+with open('revisao/{slug}-titulos-aprendizado.json') as f:
+    data = json.load(f)
 conn = sqlite3.connect('dict/dict.db')
 cur = conn.cursor()
 # Adicionar expressões novas
