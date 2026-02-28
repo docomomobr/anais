@@ -1,0 +1,645 @@
+{
+  "resumo": "Diagnóstico de abstracts — sdbr06",
+  "tipo_a_label_no_pdf_sem_no_db": [
+    {
+      "file": "sdbr06-005.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 2,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    },
+    {
+      "file": "sdbr06-010.pdf",
+      "abs_pt": 0,
+      "abs_en": 1754,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 1,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    },
+    {
+      "file": "sdbr06-014.pdf",
+      "abs_pt": 0,
+      "abs_en": 275,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 1,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    },
+    {
+      "file": "sdbr06-037.pdf",
+      "abs_pt": 0,
+      "abs_en": 644,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 1,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    },
+    {
+      "file": "sdbr06-046.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 1,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    },
+    {
+      "file": "sdbr06-053.pdf",
+      "abs_pt": 0,
+      "abs_en": 2020,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 1,
+      "status": "tipo_a",
+      "nota": "PDF tem label Resumo/Abstract mas DB vazio"
+    }
+  ],
+  "tipo_b_sem_label_com_kw": [
+    {
+      "file": "sdbr06-001.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-002.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-003.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-004.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-007.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-008.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-009.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-012.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-015.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-017.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-018.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-019.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-021.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-023.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-024.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-026.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-027.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-028.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-029.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-030.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-031.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-032.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-033.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-035.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-039.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-040.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-041.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-045.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-047.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-050.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-051.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-052.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-054.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-055.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-056.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-058.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-059.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-060.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-061.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    },
+    {
+      "file": "sdbr06-062.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "tipo_b",
+      "nota": "PDF sem label mas tem keywords — provável abstract implícito"
+    }
+  ],
+  "ja_ok": [
+    {
+      "file": "sdbr06-011.pdf",
+      "abs_pt": 948,
+      "abs_en": 765,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 2,
+      "status": "ok"
+    },
+    {
+      "file": "sdbr06-020.pdf",
+      "abs_pt": 1366,
+      "abs_en": 1414,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 2,
+      "status": "ok"
+    },
+    {
+      "file": "sdbr06-025.pdf",
+      "abs_pt": 2128,
+      "abs_en": 2176,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 2,
+      "status": "ok"
+    },
+    {
+      "file": "sdbr06-036.pdf",
+      "abs_pt": 1295,
+      "abs_en": 1293,
+      "has_kw": true,
+      "has_kw_en": true,
+      "pdf_has_label": 1,
+      "status": "ok"
+    },
+    {
+      "file": "sdbr06-044.pdf",
+      "abs_pt": 611,
+      "abs_en": 542,
+      "has_kw": true,
+      "has_kw_en": false,
+      "pdf_has_label": 2,
+      "status": "ok"
+    },
+    {
+      "file": "sdbr06-048.pdf",
+      "abs_pt": 1664,
+      "abs_en": 456,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 2,
+      "status": "ok"
+    }
+  ],
+  "sem_kw_sem_abstract": [
+    {
+      "file": "sdbr06-006.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-013.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-016.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-022.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-034.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-038.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-042.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-043.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-049.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": true,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-057.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-063.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    },
+    {
+      "file": "sdbr06-064.pdf",
+      "abs_pt": 0,
+      "abs_en": 0,
+      "has_kw": false,
+      "has_kw_en": false,
+      "pdf_has_label": 0,
+      "status": "sem_dados",
+      "nota": "Sem keywords nem abstract — possível padrão do artigo"
+    }
+  ]
+}
