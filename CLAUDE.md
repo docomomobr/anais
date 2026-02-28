@@ -19,6 +19,19 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr02 | 22 | ✅ revisado | 2026-02-24 |
 | sdbr03 | 56 | ✅ revisado | 2026-02-26 |
 | sdbr04 | 79 | ✅ revisado | 2026-02-26 |
+| sdbr05 | 56 | ✅ revisado | 2026-02-28 |
+
+---
+
+## Regra de ouro — Listas de revisão do usuário
+
+Quando o usuário fornece um arquivo de revisão (`revisao/{slug}-rev.md`) com uma lista de correções:
+1. Ler o arquivo **inteiro** antes de começar
+2. Listar **todos** os itens encontrados
+3. Executar **cada item**, sem exceção, na ordem
+4. Verificar cada item no banco após execução
+5. Reportar checklist completa (✅/❌) item a item
+6. NÃO buscar outros problemas durante a execução da lista — isso é outra fase
 
 ---
 

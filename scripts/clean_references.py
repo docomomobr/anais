@@ -27,9 +27,12 @@ import sys
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
-# Regex para detectar underscores ABNT (3+ underscores)
-UNDERSCORE_MID = re.compile(r'\s+(_{3,})')
-UNDERSCORE_START = re.compile(r'^(_{3,})[.,]?\s*(.*)', re.DOTALL)
+# Regex para detectar repetição de autor ABNT.
+# Variantes encontradas nos anais: underscores (______), pontos (..........),
+# traços simples (---------), en-dashes (–––––––), em-dashes (———————)
+REPEAT_CHARS = r'[_.\-–—]'
+UNDERSCORE_MID = re.compile(r'\s+(' + REPEAT_CHARS + r'{3,})')
+UNDERSCORE_START = re.compile(r'^(' + REPEAT_CHARS + r'{3,})[.,]?\s*(.*)', re.DOTALL)
 
 # URLs órfãs (ref é só URL ou começa com "Disponível em" / "Acesso em" / URL)
 ORPHAN_URL = re.compile(r'^(https?://|www\.|Disponível\s+em\s*$|Acesso\s+em)', re.IGNORECASE)

@@ -520,6 +520,21 @@ python3 scripts/normalizar_maiusculas.py
 ```
 Usa `dict/normalizar.py` + `dict.db` para capitalização conforme norma brasileira. Se aparecerem falsos positivos, corrigir no `dict/dict.db` — remover a entrada standalone e, se necessário, adicionar como expressão multi-palavra. Ver `docs/devlog_normalizacao_maiusculas.md`.
 
+### 7.2b Retroalimentar dicionário após revisão LLM
+
+Quando um LLM (ou revisão humana) corrige títulos que o normalizador automático não acertou, as correções devem ser incorporadas ao `dict.db` para beneficiar os seminários seguintes:
+
+1. **Novos nomes próprios** (capitalizados pelo LLM): adicionar à tabela `nomes` ou `expressoes`
+2. **Novas expressões consolidadas**: adicionar à tabela `expressoes`
+3. **Falsos positivos** (o normalizador capitalizou algo indevidamente): remover ou ajustar no `dict.db`
+
+```bash
+# Após aplicar correções do LLM:
+python3 dict/dump_db.py
+```
+
+Este ciclo de retroalimentação é cumulativo: cada seminário processado melhora o normalizador para os seguintes. Ver ciclo de aprendizado em [`docs/pipeline_revisao.md`](pipeline_revisao.md).
+
 ### 7.3 Limpar e verificar referências
 ```bash
 # Limpeza automática (underscores ABNT, URLs órfãs)
