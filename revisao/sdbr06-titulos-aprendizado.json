@@ -1,0 +1,267 @@
+{
+  "slug": "sdbr06",
+  "date": "2026-02-28",
+  "total_articles": 64,
+  "corrections_applied": [
+    {
+      "file": "sdbr06-002.pdf",
+      "field": "title",
+      "old": "Um estudo sobre o Mestre Artigas e o aprendiz Jorge Caron",
+      "new": "Um estudo sobre o mestre Artigas e o aprendiz Jorge Caron",
+      "rule": "professional titles lowercase",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-011.pdf",
+      "field": "title",
+      "old": "Setenta e cinco anos da primeira escola de Arquitetura do Brasil",
+      "new": "Setenta e cinco anos da primeira escola de arquitetura do Brasil",
+      "rule": "generic reference (escola de arquitetura, not proper name)",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-022.pdf",
+      "field": "title",
+      "old": "Arquitetura no Brasil no segundo pós-Guerra",
+      "new": "Arquitetura no Brasil no segundo pós-guerra",
+      "rule": "pós-guerra lowercase (generic expression)",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-023.pdf",
+      "field": "title",
+      "old": "Urbanismo, Modernidade e projeto nacional",
+      "new": "Urbanismo, modernidade e projeto nacional",
+      "rule": "modernidade lowercase (generic concept)",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-026.pdf",
+      "field": "subtitle",
+      "old": "a busca pelo homem novo através da Arquitetura no conjunto do Pedregulho",
+      "new": "a busca pelo homem novo através da arquitetura no conjunto do Pedregulho",
+      "rule": "arquitetura alone (generic, without Moderna) lowercase",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-028.pdf",
+      "field": "title",
+      "old": "A Modernidade das salas de cinema do Recife",
+      "new": "A modernidade das salas de cinema do Recife",
+      "rule": "modernidade lowercase (generic concept)",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-032.pdf",
+      "field": "title",
+      "old": "O Modernismo Arquitetônico em Teresina (PI)",
+      "new": "O modernismo arquitetônico em Teresina (PI)",
+      "rule": "modernismo arquitetônico lowercase (not a consolidated expression)",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-033.pdf",
+      "field": "title",
+      "old": "O Movimento Moderno e a Arquitetura residencial de Florianópolis",
+      "new": "O Movimento Moderno e a arquitetura residencial de Florianópolis",
+      "rule": "arquitetura alone (generic) lowercase; Movimento Moderno stays uppercase",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-035.pdf",
+      "field": "title",
+      "old": "Continuidades e dissonâncias na Arquitetura industrial de Hans Broos",
+      "new": "Continuidades e dissonâncias na arquitetura industrial de Hans Broos",
+      "rule": "arquitetura alone (generic, followed by adjective) lowercase",
+      "phase": "1.1-redo"
+    },
+    {
+      "file": "sdbr06-062.pdf",
+      "field": "title",
+      "old": "Tradição e contradições na Arquitetura religiosa brasileira dos anos 1950",
+      "new": "Tradição e contradições na arquitetura religiosa brasileira dos anos 1950",
+      "rule": "arquitetura alone (generic, religiosa confirms) lowercase",
+      "phase": "1.1-redo"
+    }
+  ],
+  "corrections_previous_run": [
+    {
+      "file": "sdbr06-006.pdf",
+      "field": "subtitle",
+      "old": "a construção de uma Teoria",
+      "new": "a construção de uma teoria",
+      "rule": "generic concept"
+    },
+    {
+      "file": "sdbr06-009.pdf",
+      "field": "title",
+      "old": "Análise Arquitetônica de uma residência moderna na cidade de João Pessoa/PB",
+      "new": "Análise arquitetônica de uma residência moderna na cidade de João Pessoa/PB",
+      "rule": "generic adjective"
+    },
+    {
+      "file": "sdbr06-023.pdf",
+      "field": "subtitle",
+      "old": "reflexões em torno do plano Agache",
+      "new": "reflexões em torno do Plano Agache",
+      "rule": "proper name (urban plan)"
+    },
+    {
+      "file": "sdbr06-024.pdf",
+      "field": "title",
+      "old": "Modernidade Arquitetônica e internacionalismo nos Trópicos",
+      "new": "Modernidade arquitetônica e internacionalismo nos Trópicos",
+      "rule": "generic adjective"
+    },
+    {
+      "file": "sdbr06-026.pdf",
+      "field": "subtitle",
+      "old": "a busca pelo Homem novo através da Arquitetura no conjunto do Pedregulho",
+      "new": "a busca pelo homem novo através da Arquitetura no conjunto do Pedregulho",
+      "rule": "generic concept (Homem novo)"
+    },
+    {
+      "file": "sdbr06-036.pdf",
+      "field": "subtitle",
+      "old": "a preservação do acervo do laboratório de Fotodocumentação Sylvio de Vasconcellos",
+      "new": "a preservação do acervo do Laboratório de Fotodocumentação Sylvio de Vasconcellos",
+      "rule": "proper name (institution)"
+    },
+    {
+      "file": "sdbr06-037.pdf",
+      "field": "title",
+      "old": "A Obra de Severiano Porto na Amazônia",
+      "new": "A obra de Severiano Porto na Amazônia",
+      "rule": "generic term"
+    },
+    {
+      "file": "sdbr06-044.pdf",
+      "field": "title",
+      "old": "A afirmação de uma feição nacional e Outros caminhos",
+      "new": "A afirmação de uma feição nacional e outros caminhos",
+      "rule": "generic word"
+    },
+    {
+      "file": "sdbr06-045.pdf",
+      "field": "title",
+      "old": "Lúcio Costa e a Escola Nacional de Belas Artes",
+      "new": "Lucio Costa e a Escola Nacional de Belas Artes",
+      "rule": "name convention (no accent on Lucio)"
+    },
+    {
+      "file": "sdbr06-048.pdf",
+      "field": "title",
+      "old": "Histórias e memórias de um Arquiteto",
+      "new": "Histórias e memórias de um arquiteto",
+      "rule": "professional title lowercase"
+    },
+    {
+      "file": "sdbr06-051.pdf",
+      "field": "title",
+      "old": "Conservação de Residências de linguagem moderna construídas na década de 50",
+      "new": "Conservação de residências de linguagem moderna construídas na década de 50",
+      "rule": "generic term"
+    },
+    {
+      "file": "sdbr06-052.pdf",
+      "field": "title",
+      "old": "Ideologia moderna de uma Civilização do projeto",
+      "new": "Ideologia moderna de uma civilização do projeto",
+      "rule": "generic term"
+    },
+    {
+      "file": "sdbr06-053.pdf",
+      "field": "title",
+      "old": "A flexibilidade da planta Livre moderna para novos usos",
+      "new": "A flexibilidade da planta livre moderna para novos usos",
+      "rule": "generic adjective"
+    },
+    {
+      "file": "sdbr06-054.pdf",
+      "field": "title",
+      "old": "Restauração do refeitório central",
+      "new": "Restauração do Refeitório Central",
+      "rule": "building proper name"
+    },
+    {
+      "file": "sdbr06-058.pdf",
+      "field": "title",
+      "old": "Recepção da Arquitectura moderna brasileira em Portugal",
+      "new": "Recepção da Arquitectura Moderna Brasileira em Portugal",
+      "rule": "consolidated expression (Arquitetura Moderna Brasileira)"
+    },
+    {
+      "file": "sdbr06-060.pdf",
+      "field": "title",
+      "old": "A noção de adaptabilidade ao meio no discurso Modernista",
+      "new": "A noção de adaptabilidade ao meio no discurso modernista",
+      "rule": "adjective lowercase"
+    },
+    {
+      "file": "sdbr06-061.pdf",
+      "field": "subtitle",
+      "old": "mudanças e continuidades no modelo espacial Modernista dos grandes conjuntos",
+      "new": "mudanças e continuidades no modelo espacial modernista dos grandes conjuntos",
+      "rule": "adjective lowercase"
+    },
+    {
+      "file": "sdbr06-063.pdf",
+      "field": "subtitle",
+      "old": "Lúcio Costa em defesa do Plano Piloto da Barra da Tijuca",
+      "new": "Lucio Costa em defesa do Plano Piloto da Barra da Tijuca",
+      "rule": "name convention (no accent on Lucio)"
+    }
+  ],
+  "flagged_for_human_review": [
+    {
+      "file": "sdbr06-007.pdf",
+      "field": "title",
+      "issue": "'Arquitetura Brasileira' without 'Moderna' -- lowercase generic or keep as quasi-consolidated?",
+      "current": "A visão estrangeira sobre a Arquitetura Brasileira nos anos 1950"
+    },
+    {
+      "file": "sdbr06-020.pdf",
+      "field": "title",
+      "issue": "Odd title structure -- 'Rino Levi' may belong in subtitle; pipe separator missing?",
+      "current": "Arquitetura e estado no Brasil Rino Levi|Hespéria nos Trópicos"
+    },
+    {
+      "file": "sdbr06-025.pdf",
+      "field": "title",
+      "issue": "'Tradição Inventada' -- Hobsbawm reference (book title) or generic expression?",
+      "current": "Escola Pernambucana ou Tradição Inventada?"
+    },
+    {
+      "file": "sdbr06-056.pdf",
+      "field": "subtitle",
+      "issue": "'Arquitetura Brasileira do Brutalismo Paulista' -- keep uppercase because of movement name context?",
+      "current": "reconhecimento necessário da Arquitetura Brasileira do Brutalismo Paulista"
+    },
+    {
+      "file": "sdbr06-063.pdf",
+      "field": "title",
+      "issue": "'Verde' and 'Branco' -- colors as nouns lowercase or stylistic capitalization? May refer to Revista Verde or another cultural reference.",
+      "current": "O jogo de Verde com Branco"
+    }
+  ],
+  "dict_additions": [
+    {"expression": "Plano Agache", "type": "proper_name", "added_by": "previous_run"},
+    {"expression": "Laboratório de Fotodocumentação", "type": "proper_name", "added_by": "previous_run"},
+    {"expression": "Refeitório Central", "type": "proper_name", "added_by": "previous_run"}
+  ],
+  "confirmed_patterns": [
+    "Arquitetura Moderna (consolidated) -> always uppercase",
+    "Movimento Moderno (consolidated) -> always uppercase",
+    "Arquitetura Moderna Brasileira (consolidated) -> always uppercase",
+    "Brutalismo Paulista -> proper movement name, uppercase",
+    "Escola Pernambucana -> proper school name, uppercase",
+    "arquitetura (alone, generic) -> lowercase",
+    "modernismo (alone, generic) -> lowercase",
+    "modernista (adjective) -> lowercase",
+    "modernidade (concept) -> lowercase",
+    "mestre (professional title) -> lowercase",
+    "arquiteto (professional title) -> lowercase",
+    "pos-guerra (generic) -> lowercase",
+    "Lucio Costa -> no accent"
+  ]
+}
