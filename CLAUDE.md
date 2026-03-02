@@ -20,6 +20,8 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr03 | 56 | ✅ revisado | 2026-02-26 |
 | sdbr04 | 79 | ✅ revisado | 2026-02-26 |
 | sdbr05 | 56 | ✅ revisado | 2026-02-28 |
+| sdbr06 | 63 | ✅ revisado | 2026-03-01 |
+| sdbr07 | 62 | ✅ revisado | 2026-03-02 |
 
 ---
 
