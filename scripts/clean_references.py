@@ -28,11 +28,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
 # Regex para detectar repetição de autor ABNT.
-# Variantes encontradas nos anais: underscores (______), pontos (..........),
-# traços simples (---------), en-dashes (–––––––), em-dashes (———————)
-REPEAT_CHARS = r'[_.\-–—]'
-UNDERSCORE_MID = re.compile(r'\s+(' + REPEAT_CHARS + r'{3,})')
-UNDERSCORE_START = re.compile(r'^(' + REPEAT_CHARS + r'{3,})[.,]?\s*(.*)', re.DOTALL)
+# Variantes encontradas nos anais: underscores (__ a ________________________),
+# traços simples (---------), en-dashes (–––––––), em-dashes (———————),
+# pontos (..........  — raro, mínimo 5 para não confundir com reticências).
+# Mínimo 2 caracteres para não-pontos; 5 para pontos.
+REPEAT_NODOT = r'[_\-–—]'
+REPEAT_PATTERN = r'(?:' + REPEAT_NODOT + r'{2,}|\.{5,})'
+UNDERSCORE_MID = re.compile(r'\s+(' + REPEAT_PATTERN + r')')
+UNDERSCORE_START = re.compile(r'^(' + REPEAT_PATTERN + r')[.,]?\s*(.*)', re.DOTALL)
 
 # URLs órfãs (ref é só URL ou começa com "Disponível em" / "Acesso em" / URL)
 ORPHAN_URL = re.compile(r'^(https?://|www\.|Disponível\s+em\s*$|Acesso\s+em)', re.IGNORECASE)

@@ -299,6 +299,12 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 - Termos genéricos que ficaram em maiúscula indevida
 - Subtítulos que deveriam começar com minúscula (ou vice-versa)
 - Separação incorreta entre título e subtítulo
+- **Expressões consolidadas com toponímico:** "Arquitetura Moderna", "Arquitetura Modernista", "Arquitetura Contemporânea", "Arquitetura Vernacular" etc. são expressões consolidadas e ficam com maiúscula quando referem o movimento/conceito. Porém, quando seguidas de toponímico ou locativo, funcionam como descritivas e devem ficar em **minúscula**:
+  - ✅ "Os princípios da Arquitetura Moderna no Brasil" (conceito)
+  - ✅ "a arquitetura moderna de Recife" (descritiva + toponímico)
+  - ✅ "Patrimônio da Arquitetura Modernista" (conceito)
+  - ✅ "a arquitetura modernista em Belém do Pará" (descritiva + toponímico)
+  - O dict/normalizer força maiúscula em todas as ocorrências — a revisão LLM deve rebaixar para minúscula quando o contexto é descritivo (tipicamente: "a/da/na arquitetura moderna/modernista de/em [cidade/estado/país]").
 
 Os critérios de capitalização estão em [`docs/regras_dados.md`](regras_dados.md) e na memória do projeto.
 
@@ -398,7 +404,7 @@ python3 scripts/check_references.py --slug {slug} --summary
 for art in articles:
     for ref in art.references:
         # Backfill pendente (qualquer variante de underscores/traços)
-        if re.match(r'^[-–—_]{3,}', ref.strip()):
+        if re.match(r'^[-–—_.]{2,}', ref.strip()):
             flag("backfill pendente")
         # Não-referência (agradecimentos, créditos, cabeçalhos)
         if any(x in ref.lower() for x in ['crédito', 'ilustraç', 'agradec',
@@ -468,9 +474,24 @@ sdbr05-008:
     subtitle: 'uma análise tipológica'
 ```
 
-**Referências com `______` / `--------` (autor repetido não expandido):**
+**Referências com marcador de repetição de autor (backfill):**
 
 Basta indicar os artigos afetados — o Claude localiza as refs, identifica o autor da ref anterior e preenche automaticamente. Não é necessário informar qual é o autor.
+
+Sintaxes de marcador de repetição encontradas nos anais (todas tratadas por `clean_references.py`):
+
+| Sintaxe | Exemplo | Seminários |
+|---------|---------|------------|
+| `__` (2 underscores) | `__. Plug-in City...` | sdbr07 |
+| `______` (6 underscores) | `______. Caminhos...` | sdbr03, sdbr05, sdbr07 |
+| `________` (8+ underscores) | `________ Função Social...` | sdbr07 |
+| `________________________` (24) | `________________________. Mensário FAC...` | sdbr07 |
+| `---------` (hífens) | `---------. A cidade...` | sdbr05 |
+| `–––––––` (en-dashes) | `–––––––. Espaços...` | vários |
+| `———————` (em-dashes) | `———————. Obras...` | vários |
+| `..........` (pontos) | `..........Arquitetura...` | vários |
+
+O `clean_references.py` reconhece qualquer sequência de 2+ caracteres de `[_.\-–—]` como marcador de repetição (regex `{2,}`).
 
 ```
 refs com ______: 012, 029, 049
@@ -508,6 +529,38 @@ sdbr05-010:
 4. **Verificar cada item** após execução — consultar o banco para confirmar que a correção foi aplicada
 5. **Reportar o resultado** como checklist completa, item a item, com ✅ ou ❌
 6. Só depois de todos os itens verificados: atualizar o YAML e regenerar o HTML
+
+### 4.1 Incorporar aprendizado ao dict e às regras
+
+**Executar APÓS aplicar todas as correções de títulos/subtítulos do rev.md.** Etapas concretas:
+
+**a) Verificar contradições com dict.db:**
+```python
+# Para cada correção de capitalização aplicada, verificar se o dict contradiz:
+# Palavras corrigidas para minúscula → NÃO devem estar no dict forçando maiúscula
+# Expressões corrigidas para maiúscula → DEVEM estar no dict como expressão
+import sqlite3
+db = sqlite3.connect('dict/dict.db')
+# Exemplo: se corrigiu "Modernista" → "modernista", verificar:
+db.execute("SELECT * FROM dict_names WHERE word='modernista' COLLATE NOCASE")
+# Se retornar resultado com canonical maiúsculo → REMOVER do dict
+```
+
+**b) Atualizar dict.db:**
+- **Remover** palavras que o dict força maiúscula mas que são genéricas (ex: `modernista`, `obra`, `jardim`)
+- **Adicionar expressões** confirmadas como nomes próprios compostos (ex: `Assembleia Legislativa`, `Mercado Central`, `Conjunto Habitacional`)
+- **Adicionar nomes** próprios novos encontrados nos títulos (ex: `Nordschild`)
+
+**c) Atualizar MEMORY.md** (seção "Padrões de capitalização confirmados"):
+- Adicionar novos padrões confirmados pela revisão
+
+**d) Verificar backfills em referências:**
+- Se algum backfill manual usou sintaxe que `clean_references.py` não detectou, corrigir o regex e documentar na tabela de sintaxes da Fase 3.
+
+**e) Dump do dict:**
+```bash
+python3 dict/dump_db.py
+```
 
 **O que NÃO fazer:**
 - Não buscar outros problemas enquanto executa a lista — isso é trabalho da Fase 1, não da Fase 4
