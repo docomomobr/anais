@@ -5289,5 +5289,6 @@ INSERT INTO "dict_names" VALUES('verre','nome','Verre','titulos');
 INSERT INTO "dict_names" VALUES('plano agache','expressao','Plano Agache','revisao-sdbr06');
 INSERT INTO "dict_names" VALUES('laboratório de fotodocumentação','expressao','Laboratório de Fotodocumentação','revisao-sdbr06');
 INSERT INTO "dict_names" VALUES('refeitório central','expressao','Refeitório Central','revisao-sdbr06');
+INSERT INTO "dict_names" VALUES('arquitectura','nome','Arquitectura','titulos');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;

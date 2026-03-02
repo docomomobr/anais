@@ -1,0 +1,179 @@
+{
+  "correcoes": [
+    {
+      "file": "sdbr07-002.pdf",
+      "campo": "subtitle",
+      "de": "busca por uma destinação compatível e utilitária aos monumentos construídos Modernistas",
+      "para": "busca por uma destinação compatível e utilitária aos monumentos construídos modernistas",
+      "motivo": "modernistas: minúscula"
+    },
+    {
+      "file": "sdbr07-004.pdf",
+      "campo": "title",
+      "de": "Pelas Ruas do mercado, o pulsar de velhos costumes e novos anseios",
+      "para": "Pelas ruas do mercado, o pulsar de velhos costumes e novos anseios",
+      "motivo": "ruas: minúscula"
+    },
+    {
+      "file": "sdbr07-004.pdf",
+      "campo": "subtitle",
+      "de": "o desafio da requalificação do mercado central de João Pessoa — PB",
+      "para": "o desafio da requalificação do Mercado Central de João Pessoa — PB",
+      "motivo": "Mercado Central: nome próprio"
+    },
+    {
+      "file": "sdbr07-005.pdf",
+      "campo": "title",
+      "de": "Assembléia legislativa de Fortaleza",
+      "para": "Assembléia Legislativa de Fortaleza",
+      "motivo": "Assembleia Legislativa: instituição (nome próprio)"
+    },
+    {
+      "file": "sdbr07-009.pdf",
+      "campo": "title",
+      "de": "Conjunto habitacional presidente Getúlio Vargas",
+      "para": "Conjunto Habitacional Presidente Getúlio Vargas",
+      "motivo": "nome próprio de edificação"
+    },
+    {
+      "file": "sdbr07-009.pdf",
+      "campo": "subtitle",
+      "de": "da proposta monumental a sobrevivência nos Dias atuais",
+      "para": "da proposta monumental a sobrevivência nos dias atuais",
+      "motivo": "dias: minúscula"
+    },
+    {
+      "file": "sdbr07-013.pdf",
+      "campo": "title",
+      "de": "Urbanismo modernizador, consolidação Modernista, reuso pós-moderno",
+      "para": "Urbanismo modernizador, consolidação modernista, reuso pós-moderno",
+      "motivo": "modernista: minúscula"
+    },
+    {
+      "file": "sdbr07-017.pdf",
+      "campo": "subtitle",
+      "de": "a 'sobrevida' de uma Obra da Arquitetura Moderna em Natal",
+      "para": "a 'sobrevida' de uma obra da Arquitetura Moderna em Natal",
+      "motivo": "obra: minúscula"
+    },
+    {
+      "file": "sdbr07-020.pdf",
+      "campo": "title",
+      "de": "A construção do teatro do museu de Arte Moderna do Rio de Janeiro 50 anos depois",
+      "para": "A construção do Teatro do Museu de Arte Moderna do Rio de Janeiro, 50 anos depois",
+      "motivo": "Teatro do Museu de Arte Moderna: nome próprio; vírgula antes de \"50 anos\""
+    },
+    {
+      "file": "sdbr07-026.pdf",
+      "campo": "subtitle",
+      "de": "o teatro do museu de Arte Moderna de Affonso Eduardo Reidy. Rio de Janeiro 2007",
+      "para": "o Teatro do Museu de Arte Moderna de Affonso Eduardo Reidy. Rio de Janeiro 2007",
+      "motivo": "Teatro do Museu de Arte Moderna: nome próprio"
+    },
+    {
+      "file": "sdbr07-029.pdf",
+      "campo": "title",
+      "de": "Restaurando o Jardim moderno de Burle Marx",
+      "para": "Restaurando o jardim moderno de Burle Marx",
+      "motivo": "jardim: conceito genérico"
+    },
+    {
+      "file": "sdbr07-029.pdf",
+      "campo": "subtitle",
+      "de": "a praça Faria Neves no Recife-PE",
+      "para": "a Praça Faria Neves no Recife-PE",
+      "motivo": "Praça Faria Neves: nome próprio"
+    },
+    {
+      "file": "sdbr07-034.pdf",
+      "campo": "subtitle",
+      "de": "a longa espera pelo fim, 1952-2006. O projeto de Recuperação, Restauração e Readequação do ícone da Arquitetura Moderna de Porto Alegre",
+      "para": "a longa espera pelo fim, 1952-2006. O projeto de recuperação, restauração e readequação do ícone da Arquitetura Moderna de Porto Alegre",
+      "motivo": "recuperação/restauração/readequação: termos genéricos"
+    },
+    {
+      "file": "sdbr07-037.pdf",
+      "campo": "subtitle",
+      "de": "o trabalho de Recuperação e atualização do passado em Obra já demolida — a casa Nordschild",
+      "para": "o trabalho de recuperação e atualização do passado em obra já demolida — a Casa Nordschild",
+      "motivo": "recuperação/obra: minúscula; Casa Nordschild: nome próprio"
+    },
+    {
+      "file": "sdbr07-039.pdf",
+      "campo": "subtitle",
+      "de": "estudo de caso de uma edificação de linguagem Modernista em Belém do Pará",
+      "para": "estudo de caso de uma edificação de linguagem modernista em Belém do Pará",
+      "motivo": "modernista: minúscula"
+    },
+    {
+      "file": "sdbr07-043.pdf",
+      "campo": "title",
+      "de": "Edifício e galeria Califórnia",
+      "para": "Edifício e Galeria Califórnia",
+      "motivo": "Galeria Califórnia: nome próprio"
+    },
+    {
+      "file": "sdbr07-045.pdf",
+      "campo": "subtitle",
+      "de": "o regionalismo crítico de Lúcio Costa e o desafio da rearquitetura em Obras modernas",
+      "para": "o regionalismo crítico de Lúcio Costa e o desafio da rearquitetura em obras modernas",
+      "motivo": "obras: minúscula"
+    },
+    {
+      "file": "sdbr07-046.pdf",
+      "campo": "title",
+      "de": "Considerações sobre o debate dos conjuntos Residências modernos e as questões de Conservação e reabilitação",
+      "para": "Considerações sobre o debate dos conjuntos residenciais modernos e as questões de conservação e reabilitação",
+      "motivo": "residências→residenciais (conforme PDF); conservação: minúscula"
+    },
+    {
+      "file": "sdbr07-054.pdf",
+      "campo": "subtitle",
+      "de": "um estudo da universidade de Brasília",
+      "para": "um estudo da Universidade de Brasília",
+      "motivo": "Universidade de Brasília: nome próprio"
+    },
+    {
+      "file": "sdbr07-057.pdf",
+      "campo": "title",
+      "de": "Reflexão sobre rearquiteturas e Obras modernas",
+      "para": "Reflexão sobre rearquiteturas e obras modernas",
+      "motivo": "obras: minúscula"
+    },
+    {
+      "file": "sdbr07-059.pdf",
+      "campo": "title",
+      "de": "Um caminho para a Glória Lucio Costa",
+      "para": "Um caminho para a Glória",
+      "motivo": "separar título/subtítulo (conforme PDF)"
+    },
+    {
+      "file": "sdbr07-059.pdf",
+      "campo": "subtitle",
+      "de": "a construção do passado e mais um Milagre",
+      "para": "Lucio Costa: a construção do passado e mais um Milagre",
+      "motivo": "conforme PDF: \"Lucio Costa:\" faz parte do subtítulo; Milagre: referência ao texto de Lucio Costa"
+    },
+    {
+      "file": "sdbr07-062.pdf",
+      "campo": "title",
+      "de": "O conceito de identidade e Diferença na requalificação do espaço da cidade",
+      "para": "O conceito de identidade e diferença na requalificação do espaço da cidade",
+      "motivo": "diferença: minúscula"
+    }
+  ],
+  "dict_additions": {
+    "nomes": [
+      "Nordschild"
+    ],
+    "expressoes": [],
+    "remover": []
+  },
+  "padroes_confirmados": [
+    "'modernista' isolado: minúscula",
+    "'Galeria [Nome]': maiúscula quando nome próprio",
+    "'Mercado Central': maiúscula (nome próprio de equipamento)",
+    "'Assembleia Legislativa': maiúscula (instituição)",
+    "'Milagre': maiúscula quando referência ao texto de Lucio Costa"
+  ]
+}

@@ -55,6 +55,7 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 │   0.2 Identificar artigos fora do padrão            │
 │   0.3 Reinspecionar PDFs dos artigos fora do padrão │
 │   0.4 Preencher lacunas no banco                    │
+│   0.5 Verificar abstracts existentes (truncamento)  │
 ├─────────────────────────────────────────────────────┤
 │ Fase 1 — Revisão automática (Claude)                │
 │   1.1 Títulos e subtítulos (LLM + PDF)              │
@@ -216,6 +217,61 @@ Aplicar os dados extraídos ao banco **a partir do arquivo JSON salvo na etapa a
 - Quantos foram preenchidos com sucesso
 - Quantos genuinamente não têm o dado (confirmado no PDF)
 - **Lista completa** com status de cada artigo (checklist ✅/⬜/📄)
+
+### 0.5 Verificar abstracts existentes (truncamento e lixo)
+
+Após preencher as lacunas (0.4), varrer **todos** os abstracts do seminário — tanto os já existentes quanto os recém-inseridos — para detectar problemas de extração. A varredura deve cobrir 100% dos artigos, não apenas os que foram preenchidos na Fase 0.
+
+**Problemas a detectar:**
+
+1. **Truncamento**: abstract termina no meio de uma frase (sem `.`, `?`, `!`, `"`, `)` no final)
+2. **Texto PT colado no abstract_en**: palavras em português após o fim do abstract em inglês (padrão mais comum: abstract_en seguido de "A historiografia...", "O presente trabalho...", "Palavras-chave:...")
+3. **Keywords vazadas**: "Palavras-chave:", "Keywords:", "Key words:" no final do abstract
+4. **Cabeçalhos e metadados**: títulos de seções, nomes de autores, números de página misturados
+5. **Início truncado**: abstract começa no meio de uma frase (faltando o início)
+6. **Abstract muito curto**: < 100 caracteres para PT ou < 80 para EN (pode ser genuíno, mas verificar)
+
+**Procedimento:**
+
+```python
+# 1. Detecção automática
+import sqlite3, re
+conn = sqlite3.connect('anais.db')
+cur = conn.cursor()
+cur.execute("""SELECT file, abstract, abstract_en FROM articles
+               WHERE seminar_slug = ? AND (abstract IS NOT NULL OR abstract_en IS NOT NULL)""", (slug,))
+
+for file, abs_pt, abs_en in cur.fetchall():
+    issues = []
+    for field, text in [('abstract', abs_pt), ('abstract_en', abs_en)]:
+        if not text:
+            continue
+        text = text.strip()
+        # Truncamento: não termina com pontuação de fim de frase
+        if text and text[-1] not in '.?!"\')':
+            issues.append(f"{field}: possível truncamento (termina com '{text[-20:]}')")
+        # Muito curto
+        if len(text) < 100:
+            issues.append(f"{field}: muito curto ({len(text)} chars)")
+        # PT no abstract_en
+        if field == 'abstract_en':
+            pt_markers = ['Palavras-chave', 'Resumo', 'O presente trabalho',
+                         'Este artigo', 'Este trabalho', 'A pesquisa']
+            for marker in pt_markers:
+                if marker in text:
+                    issues.append(f"abstract_en: possível texto PT ('{marker}')")
+                    break
+    if issues:
+        print(f"{file}: {'; '.join(issues)}")
+```
+
+```bash
+# 2. Para cada caso suspeito, conferir no fontes/ e corrigir
+# Ler nacionais/{slug}/fontes/{file%.pdf}.txt
+# Localizar o abstract correto e fazer o trim/substituição no banco
+```
+
+**Regra**: Corrigir diretamente no banco. Não deixar para a revisão humana — problemas de truncamento e lixo são mecânicos e devem ser resolvidos nesta fase.
 
 ---
 
@@ -589,6 +645,32 @@ Para não bloquear a publicação pelo esforço de revisão dos seminários mais
 3. **Onda 3** — Seminários problemáticos (611 artigos, 10 seminários): extração extensiva, possivelmente com GROBID ou LLM para referências. Publicar.
 
 Cada onda segue o mesmo fluxo (Fases 1-5). Os seminários já revisados (sdbr01-04) e os nacionais já publicados no OJS não entram no pipeline.
+
+---
+
+## Notas sobre uso de agentes em background
+
+A Fase 0 envolve leitura e extração de dezenas de arquivos de texto. É tentador delegar tudo a agentes em background, mas na prática os agentes travam frequentemente ao gerar scripts longos de extração. As regras abaixo evitam desperdício de tempo:
+
+### O que funciona em agentes
+- **Keywords**: extração por regex simples (buscar "Palavras-chave:" e "Keywords:"), pouca variação → agente funciona bem
+- **References**: extração da seção "Bibliografia"/"Referências" no final do texto → agente funciona bem
+- **Verificação de truncamento**: detecção por padrão (terminação, comprimento, marcadores PT em EN) → agente funciona bem
+
+### O que NÃO funciona em agentes
+- **Abstracts**: extração difícil porque a maioria dos artigos não tem header "Resumo"/"Abstract" em linha separada. O abstract é o bloco de texto entre os dados dos autores e "Palavras-chave:", sem delimitador explícito. Casos especiais frequentes:
+  - Abstract EN antes do PT (ordem invertida)
+  - "Abstract:" inline na mesma linha do texto (não em linha separada)
+  - Artigo em espanhol (com "Resumen") ou francês (com "Résumé")
+  - Comunicação curta sem header de abstract
+  - Notas de rodapé coladas no final do abstract
+
+### Estratégia recomendada
+1. **Primeiro passo**: rodar script de detecção de marcadores em todos os fontes/ (localizar posições de "Resumo", "Abstract", "Palavras-chave", "Keywords" em cada arquivo)
+2. **Segundo passo**: extrair automaticamente os casos simples (marcadores em linha separada, padrão claro)
+3. **Terceiro passo**: para os casos que falharam, ler manualmente os primeiros 60-80 linhas do fontes/ e extrair com lógica específica
+
+Esse fluxo em 3 passos é mais rápido que delegar tudo a um agente e esperar ele travar.
 
 ---
 
