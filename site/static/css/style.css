@@ -349,9 +349,16 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
 .keyword-list li {
   background: var(--green-bg);
   color: var(--gray-700);
-  padding: 0.15rem 0.5rem;
   border-radius: 3px;
   font-size: var(--font-xs);
+  padding: 0.15rem 0.5rem;
+}
+.keyword-list li a {
+  color: inherit;
+  text-decoration: none;
+}
+.keyword-list li a:hover {
+  text-decoration: underline;
 }
 
 /* How to cite */
