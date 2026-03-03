@@ -161,7 +161,7 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md). Pontos-chave
 
 ### Prontos para produção (29 seminários, ~1211 artigos)
 
-**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne04 (45), sdnne05 (32), sdnne06 (104), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
+**N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne04 (45), sdnne05 (32), sdnne06 (109), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
 
 **Sudeste** (`regionais/se/`): sdmg01 (68), sdrj02 (19), sdrj03 (4), sdrj04 (17), sdsp03 (74), sdsp05 (68), sdsp06 (37), sdsp07 (43), sdsp08 (40), sdsp09 (27)
 
@@ -201,3 +201,18 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 - Senhas em `.credentials` e `.env` (ambos gitignored)
 - Scripts leem credenciais de variáveis de ambiente (`OJS_TEST_PASS`, `OJS_PROD_PASS`, etc.)
 - Docs usam placeholders (`$OJS_PASS`, `(ver .credentials)`)
+
+---
+
+## Devlog
+
+### 2026-03-03 — sdnne06 novos PDFs + pipeline produção Hugo
+
+- **sdnne06**: 8 PDFs novos do livro-cd (3 upgrades só-resumo→com-PDF: arts 22, 40, 45; 5 artigos novos: 105-109). Total: 109 artigos (66 artigo, 43 resumo)
+- **Metadados extraídos**: abstract_en, keywords_en, referências para os 8 artigos. Arts 108/109 sem abstract (originais não têm)
+- **Autores**: merges manuais (Clóvis Jucá→Jucá Neto, Y. Caddah→Yasmine, E. Coutinho→Elane, D. Pessoa→Daniel Victor, Ana Karolyne Liberato). 5 ORCIDs novos
+- **document_type=resumo**: 43 artigos sdnne06 marcados; sdbr04 já estava. `upload_zenodo.py` agora pula resumos
+- **db2hugo.py**: exporta title_en, subtitle_en, abstract_en, keywords_en, abstract_es, keywords_es
+- **Template Hugo**: abstract/keywords EN e ES exibidos; keywords são links para taxonomia `palavras-chave`
+- **Control chars**: removido U+0002 de sdbr08-166.abstract, U+0083 de sdsp03-016.abstract_en
+- **Scripts novos**: `extrair_metadados_en.py`, `normalizar_titulos_en.py`
