@@ -56,11 +56,14 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 │   0.3 Reinspecionar PDFs dos artigos fora do padrão │
 │   0.4 Preencher lacunas no banco                    │
 │   0.5 Verificar abstracts existentes (truncamento)  │
+│   0.6 Extrair metadados EN (title_en, subtitle_en)  │
 ├─────────────────────────────────────────────────────┤
 │ Fase 1 — Revisão automática (Claude)                │
-│   1.1 Títulos e subtítulos (LLM + PDF)              │
-│   1.2 Referências (clean + check + extração)        │
-│   1.3 Aplicar todas as correções ao banco           │
+│   1.1a Títulos e subtítulos PT (LLM + PDF)          │
+│   1.1b Normalizar títulos EN (Title Case)           │
+│   1.1c Revisão LLM de títulos EN                    │
+│   1.2  Referências (clean + check + extração)       │
+│   1.3  Aplicar todas as correções ao banco          │
 ├─────────────────────────────────────────────────────┤
 │ Fase 2 — Gerar HTML de revisão                      │
 ├─────────────────────────────────────────────────────┤
@@ -224,12 +227,13 @@ Após preencher as lacunas (0.4), varrer **todos** os abstracts do seminário �
 
 **Problemas a detectar:**
 
-1. **Truncamento**: abstract termina no meio de uma frase (sem `.`, `?`, `!`, `"`, `)` no final)
-2. **Texto PT colado no abstract_en**: palavras em português após o fim do abstract em inglês (padrão mais comum: abstract_en seguido de "A historiografia...", "O presente trabalho...", "Palavras-chave:...")
-3. **Keywords vazadas**: "Palavras-chave:", "Keywords:", "Key words:" no final do abstract
-4. **Cabeçalhos e metadados**: títulos de seções, nomes de autores, números de página misturados
-5. **Início truncado**: abstract começa no meio de uma frase (faltando o início)
-6. **Abstract muito curto**: < 100 caracteres para PT ou < 80 para EN (pode ser genuíno, mas verificar)
+1. **Truncamento por quebra de página**: o `pdftotext` insere números de página como linhas isoladas (`\n\n3\n\n`). Quando o abstract cruza a fronteira de uma página, o extrator pode parar no número de página e truncar o texto. **Tratamento**: antes de extrair, limpar o texto com `re.sub(r'\n\s*\n\s*\d{1,3}\s*\n\s*\n', '\n\n', text)` para remover números de página soltos. Após extração, verificar se o abstract termina com pontuação de fim de frase.
+2. **Truncamento genérico**: abstract termina no meio de uma frase (sem `.`, `?`, `!`, `"`, `)` no final)
+3. **Texto PT colado no abstract_en**: palavras em português após o fim do abstract em inglês (padrão mais comum: abstract_en seguido de "A historiografia...", "O presente trabalho...", "Palavras-chave:...")
+4. **Keywords vazadas**: "Palavras-chave:", "Keywords:", "Key words:" no final do abstract
+5. **Cabeçalhos e metadados**: títulos de seções, nomes de autores, números de página misturados
+6. **Início truncado**: abstract começa no meio de uma frase (faltando o início)
+7. **Abstract muito curto**: < 100 caracteres para PT ou < 80 para EN (pode ser genuíno, mas verificar)
 
 **Procedimento:**
 
@@ -273,13 +277,32 @@ for file, abs_pt, abs_en in cur.fetchall():
 
 **Regra**: Corrigir diretamente no banco. Não deixar para a revisão humana — problemas de truncamento e lixo são mecânicos e devem ser resolvidos nesta fase.
 
+### 0.6 Extrair metadados EN (title_en, subtitle_en, abstract_en, keywords_en)
+
+Se o diagnóstico (0.1) mostrar presença de `abstract_en` ≥ 30%, extrair metadados em inglês dos textos:
+
+```bash
+python3 scripts/extrair_metadados_en.py --slug {slug} --dry-run
+python3 scripts/extrair_metadados_en.py --slug {slug}
+```
+
+O script busca nos fontes/ a seção EN de cada artigo (delimitada pelo marcador "Abstract") e extrai:
+- **title_en**: título em inglês (entre keywords_PT e "Abstract", ou em ALL CAPS após o header)
+- **subtitle_en**: subtítulo (separado do title_en por `: `, ` — ` ou ` – `)
+- **abstract_en**: texto do abstract (se ainda não preenchido)
+- **keywords_en**: palavras-chave EN (se ainda não preenchidas)
+
+Flags: `--force` re-extrai mesmo se o campo já tem valor; `--only-title` extrai apenas title_en/subtitle_en.
+
+**Nota:** A extração automática não captura todos os títulos EN — muitos PDFs têm o título inline com o abstract ou em formato não-padrão. Os títulos não capturados serão revisados na Fase 1.1c (revisão LLM).
+
 ---
 
 ## Fase 1 — Revisão automática
 
 O Claude executa verificações automatizadas e aplica correções ao banco **antes** de gerar o HTML de revisão, para que o humano revise o estado já corrigido.
 
-### 1.1 Títulos e subtítulos
+### 1.1a Títulos e subtítulos PT
 
 **Objetivo:** Corrigir capitalização conforme norma brasileira (sentence case com dict.db).
 
@@ -382,6 +405,53 @@ conn.commit()
 python3 dict/dump_db.py
 ```
 
+### 1.1b Normalizar títulos EN (Title Case)
+
+**Objetivo:** Aplicar Title Case inglês (Chicago/APA) a `title_en` e `subtitle_en`.
+
+```bash
+python3 scripts/normalizar_titulos_en.py --slug {slug} --dry-run
+python3 scripts/normalizar_titulos_en.py --slug {slug}
+```
+
+Regras de Title Case:
+- Capitalizar todas as palavras **exceto** artigos (a, an, the), preposições curtas (in, of, at, by, to, for, with, on), conjunções coordenativas (and, but, or, nor)
+- **Primeira e última palavra**: sempre maiúscula
+- **Primeira palavra após `:` ou `—`**: sempre maiúscula
+- **Acrônimos**: preservar ALL CAPS (IPHAN, UNESCO, CIAM) — via `dict.db` categoria `sigla`
+- **Nomes próprios**: preservar forma canônica (Brasilia, Niemeyer) — via `dict.db` categorias `nome`, `lugar`
+
+Usa a biblioteca Python `titlecase` com callback que consulta `dict.db`.
+
+### 1.1c Revisão LLM de títulos EN
+
+**Objetivo:** O Claude compara cada `title_en` com o PDF original para detectar:
+- Títulos truncados (extração cortou no meio)
+- Title Case incorreto em nomes próprios
+- Separação errada título/subtítulo
+- Título que é na verdade a primeira frase do abstract (falso positivo)
+- Artigos com seção EN no PDF mas sem `title_en` no banco (extração não capturou)
+
+Salvar aprendizado em `revisao/{slug}-titulos-en-aprendizado.json`:
+
+```json
+{
+  "correcoes": [
+    {
+      "file": "sdbr08-020.pdf",
+      "campo": "title_en",
+      "de": null,
+      "para": "The City of Recife as Artistic Object in the Interventions of Paulo Bruscky",
+      "motivo": "título não extraído automaticamente (inline com abstract)"
+    }
+  ],
+  "dict_additions": {
+    "nomes": ["Bruscky"],
+    "siglas": []
+  }
+}
+```
+
 ### 1.2 Referências
 
 **Objetivo:** Limpar, verificar e extrair referências faltantes.
@@ -451,6 +521,8 @@ O usuário revisa o HTML no navegador e anota as correções necessárias.
 |-------|----------------|
 | **Título** | Capitalização, separação título/subtítulo, acentuação |
 | **Subtítulo** | Começa com minúscula (exceto nome próprio/sigla) |
+| **Título EN** | Title Case correto, nomes próprios preservados, sem truncamento |
+| **Subtítulo EN** | Title Case, separação correta do título |
 | **Autores** | Nomes corretos, ordem, partículas no givenname |
 | **Resumo PT** | Completo, não truncado |
 | **Abstract EN** | Presente quando o PDF tem, não truncado |
@@ -731,8 +803,10 @@ Esse fluxo em 3 passos é mais rápido que delegar tudo a um agente e esperar el
 
 | Comando | Fase | Função |
 |---------|------|--------|
-| `dict/seed_authors.py` + `seed_titles.py --apply` + `dump_db.py` | 1.1 | Alimentar dicionário |
-| `scripts/normalizar_maiusculas.py --slug {slug}` | 1.1 | Normalizar títulos |
+| `scripts/extrair_metadados_en.py --slug {slug}` | 0.6 | Extrair title_en, subtitle_en, abstract_en, keywords_en |
+| `dict/seed_authors.py` + `seed_titles.py --apply` + `dump_db.py` | 1.1a | Alimentar dicionário |
+| `scripts/normalizar_maiusculas.py --slug {slug}` | 1.1a | Normalizar títulos PT |
+| `scripts/normalizar_titulos_en.py --slug {slug}` | 1.1b | Normalizar títulos EN (Title Case) |
 | `scripts/clean_references.py --slug {slug}` | 1.2 | Limpar referências |
 | `scripts/check_references.py --slug {slug} --summary` | 1.2 | Verificar referências |
 | `scripts/gerar_revisao_html.py {slug}` | 2 | Gerar HTML de revisão |

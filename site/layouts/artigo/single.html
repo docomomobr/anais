@@ -93,6 +93,22 @@
   </section>
   {{ end }}
 
+  {{ with .Params.abstract_es }}
+  <section class="abstract abstract-es">
+    <h2>Resumen</h2>
+    <p>{{ . }}</p>
+  </section>
+  {{ end }}
+
+  {{ with .Params.keywords_es }}
+  <section class="keywords-section">
+    <h2>Palabras clave</h2>
+    <ul class="keyword-list">
+      {{ range . }}<li>{{ . }}</li>{{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
   {{/* Como citar — ABNT NBR 6023:2018 */}}
   <section class="how-to-cite">
     <h2>Como citar</h2>

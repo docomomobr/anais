@@ -521,6 +521,11 @@ def main():
             skipped += 1
             continue
 
+        if art['document_type'] == 'resumo':
+            print(f"[SKIP] {article_id}: resumo (sem texto completo)")
+            skipped += 1
+            continue
+
         if args.skip_existing and art['doi'] and not args.dry_run:
             print(f"[SKIP] {article_id}: já tem DOI {art['doi']}")
             skipped += 1

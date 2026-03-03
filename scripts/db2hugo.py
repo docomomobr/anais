@@ -216,6 +216,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
 
     keywords = parse_json_field(article['keywords'])
+    keywords_en = parse_json_field(article['keywords_en'])
+    keywords_es = parse_json_field(article['keywords_es'])
     references = parse_json_field(article['references_'])
 
     # Build front matter
@@ -223,6 +225,10 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     lines.append(f'title: "{yaml_escape(article["title"])}"')
     if article['subtitle']:
         lines.append(f'subtitle: "{yaml_escape(article["subtitle"])}"')
+    if article['title_en']:
+        lines.append(f'title_en: "{yaml_escape(article["title_en"])}"')
+    if article['subtitle_en']:
+        lines.append(f'subtitle_en: "{yaml_escape(article["subtitle_en"])}"')
     lines.append(f'date: {seminar["date_published"]}')
     lines.append(f'slug: {article_id}')
     lines.append(f'type: artigo')
@@ -270,6 +276,22 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     if keywords:
         lines.append('keywords:')
         for kw in keywords:
+            lines.append(f'  - "{yaml_escape(kw)}"')
+
+    # Abstract EN
+    if article['abstract_en']:
+        lines.append(f'abstract_en: {yaml_multiline(article["abstract_en"])}')
+    if keywords_en:
+        lines.append('keywords_en:')
+        for kw in keywords_en:
+            lines.append(f'  - "{yaml_escape(kw)}"')
+
+    # Abstract ES
+    if article['abstract_es']:
+        lines.append(f'abstract_es: {yaml_multiline(article["abstract_es"])}')
+    if keywords_es:
+        lines.append('keywords_es:')
+        for kw in keywords_es:
             lines.append(f'  - "{yaml_escape(kw)}"')
 
     # Authors (structured)

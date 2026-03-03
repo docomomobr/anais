@@ -56,6 +56,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '10'
   title: 'Análise da adequação bioclimática de residências modernas em Teresina-PI'
@@ -72,7 +73,7 @@ articles:
     familyname: Costa
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-7617-4945'
     bio: null
     country: BR
     primary_contact: false
@@ -150,6 +151,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '101'
   title: SESC Pompéia
@@ -229,6 +231,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '103'
   title: Transformações do Centro Cívico do Estado do Piauí
@@ -250,6 +253,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '104'
   title: A presença de Moacyr Gomes em Mossoró (RN)
@@ -271,6 +275,271 @@ articles:
   - patrimônio moderno
   locale: 'pt-BR'
   file: null
+  pages: null
+  document_type: resumo
+
+- id: '105'
+  title: O Moderno no Antigo Largo do Amparo
+  authors:
+  - givenname: Alessandra Braúna
+    familyname: Meireles
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Ana Karolyne de Souza
+    familyname: Liberato
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Daniel Oliveira
+    familyname: Machado
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Daniel Victor Oliveira
+    familyname: Pessoa
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Elane Lopes
+    familyname: Coutinho
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Yasmine Ibiapina
+    familyname: Caddah
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: 'O trabalho analisará sobre a arquitetura de elementos modernistas e seu diálogo com o entorno arquitetônico mais imediato. A pesquisa será desenvolvida por meio da análise arquitetônica do edifício do Ministério da Fazenda, localizado no Largo do Amparo, cuja edificação data da década de 1970 e que teve na sua conclusão um projeto de autoria do arquiteto e urbanista Antônio Luiz Dutra de Araújo – radicado em Teresina desde 1968 –, trazendo apontamentos sobre o vínculo da edificação com a paisagem urbana pertencente à Praça Marechal Deodoro da Fonseca, também conhecida como ''Praça da Bandeira''. A pesquisa divide-se em duas abordagens. A primeira pretende discorrer sobre a influência da arquitetura de estilo modernista na cidade de Teresina, tendo como objeto o edifício do Ministério da Fazenda, identificando e analisando seus elementos arquitetônicos, num contexto histórico da cidade e da própria edificação, e evidenciando o trabalho do arquiteto autor como grande influência na expressão desse tipo de arquitetura na cidade. A segunda abordagem analisará a edificação e seu entorno imediato, objetivando compreender de que maneira o monumento está relacionado com a arquitetura do seu entorno, bem como os principais aspectos relacionados a essa temática, como as noções de ambiência e visibilidade. Desse modo, a pesquisa a ser apresentada neste artigo visa ao melhor entendimento da forma como o moderno relaciona-se com outros estilos arquitetônicos anteriores, e sobre o ato do ''construir no construído'', a partir da verificação do modo como as edificações hodiernas podem estar inseridas num contexto histórico e coexistir harmoniosamente com a arquitetura antiga ali existente.'
+  keywords:
+  - Arquitetura modernista
+  - entorno arquitetônico
+  - paisagem urbana
+  abstract_en: 'The work will analyze about modernist architectural elements and its dialogue with an immediate surrounding architectural. The research will be developed by analyzing of the architecture of Ministério da Fazenda building, located at Square of Amparo, that was built in 1970 and had in the conclusion a project developed by the architect and urbanist Antonio Luiz Dutra de Araujo – radicated in Teresina since 1968 –, bringing appointments about the relation between the building and the urban landscape at Marechal Deodoro da Fonseca Square, called ''Praça da Bandeira''. The research is divided in two approaches, the first intend to explain about the modernist architecture of Teresina focus in the Ministério da Fazenda building, identifying and analyzing of its architectural features, in a historical context of city and edification, and evidencing the Antonio Luiz''s work as a big influence in this great expression of architecture in the city. The second approach intends to analyze the construction and its immediate surrounding, intending to understand the way as the monument is related to the surrounding architecture, as well as the main related aspects whit this theme as the notions of ambience and visibility. So, the goals of this research for this article is a better understanding about the relation between the modern and others ancient architectural styles, and about the act of ''build in the built'', from the verification as the modern buildings can be inserted in the historic context and coexisting harmoniously whit the old architecture in there.'
+  keywords_en:
+  - Modernist Architecture
+  - Architectural Surroundings
+  - Urban Ambience
+  references:
+  - 'COSTA, Francisco Augusto Pereira da. Cronologia Histórica do Estado do Piauí: desde os seus tempos primitivos até a Proclamação da República. Rio de Janeiro: Artenova S.A., 1974. 597 p. 2 v.'
+  - 'FREITAS, Clodoaldo. História de Teresina. Teresina: Fundação Cultural Monsenhor Chaves, 1988. 227 p.'
+  - 'MALARD, Maria Lúcia. Forma, arquitetura. Repositório - Universidade Federal de Minas Gerais, 2003. 11 p.'
+  - 'MOURA, Mayra Izaura de. Teresina e o futebol da Capital na década de 1970. VII Simpósio Nacional de História Cultural, 2014. 13 p.'
+  - 'NASCIMENTO, Francisco Alcides do. Em busca de uma cidade perdida. História Oral. Teresina: Universidade Federal do Piauí, nº 5, p. 171-183, 2002a.'
+  - 'SILVA, Joene Saibrosa da. Antônio Luiz Araújo e o modernismo das edificações em Teresina (PI). Cadernos de Teresina. Teresina: Fundação Cultural Monsenhor Chaves, ano 18, nº 38, p. 94-109, agosto 2006.'
+  - 'SILVA FILHO, Olavo Pereira da. Carnaúba, pedra e barro na Capitania de São José do Piauhy. Belo Horizonte: Editora do Autor, 2007. 3 v.'
+  locale: 'pt-BR'
+  file: 'sdnne06-105.pdf'
+  pages: null
+
+- id: '106'
+  title: 'Perdas, danos ou ganho?'
+  subtitle: sobre as intervenções no edifício do antigo Restaurante Universitário da UFBA
+  authors:
+  - givenname: Juliana Cardoso
+    familyname: Nery
+    email: 'jcnery19@yahoo.com.br'
+    affiliation: null
+    orcid: '0000-0002-8476-5339'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Susanna Carrozzo Cohim
+    familyname: Moreira
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Samir Santos da
+    familyname: Conceição
+    email: null
+    affiliation: null
+    orcid: '0000-0003-3578-1655'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Rafael Teles de Menezes Luz
+    familyname: Corongiu
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: 'Esse artigo se propõe a refletir sobre os impactos das várias transformações que um edifício no transcurso do tempo sofre e quais os resultados e significados dessas intervenções. A trilha dessa investigação segue a saga do antigo Restaurante Universitário (RU) da Universidade Federal da Bahia (UFBA). Ele teve seu projeto literalmente construído pela metade, uma significativa intervenção ao ser transformado na Faculdade de Comunicação da UFBA (FACOM) e atualmente vem sendo ampliado a partir da construção da ala prevista e não executada da proposta original. Busca-se compreender o que restou dos princípios e soluções da arquitetura moderna e como ela interagiu às sucessivas intervenções para o reuso do edifício. Projetado e construído entre 1976 e 1980, o antigo RU possuía uma forma composta por um bloco retangular e um volume em balanço que se projeta a partir dele, dividindo-o em dois blocos. A obra mescla elementos metálicos na grelha que protege as esquadrias; alvenaria nas paredes e janelas em vidro e metal, além das estruturas em concreto aparente de grande valor estético para a identidade do edifício. O volume em balanço de dupla altura abriga as escadas e possui vedação externa em telhas de fibrocimento na vertical que funcionam como elementos de ventilação e proteção solar. As formas criam espaços de convívio e o volume possui grandes aberturas favorecendo ventilação e iluminação natural. O edifício segue a estética brutalista e o desenvolvimento em módulo integra-o ao conjunto dos edifícios que compõem o Campus Federação-Ondina da UFBA. Em 1999 o prédio passou a abrigar a FACOM e apesar do aspecto externo ter permanecido razoavelmente o mesmo, seu interior foi significativamente reformulado nessa primeira intervenção nos anos 2000. A última intervenção prestes a ser inaugurada mergulhou o edifício num paradoxo: ao mesmo tempo em que alterou por completo a solução assimétrica que caracterizava o edifício construído, deu à edificação a simetria do projeto original. Perdas, danos ou ganho?'
+  keywords:
+  - intervenção
+  - reuso
+  - arquitetura universitária
+  - arquitetura moderna na Bahia
+  abstract_en: 'This article aims to reflect on the impacts of the various transformations that a building in the course of time suffers and which the results and meanings of these interventions. The trail of this investigation follows the saga of the Federal University of Bahia''s old University Restaurant (RU). He had his project literally built by half, a significant intervention to be transformed into the Communication''s Faculty of UFBA (FACOM) and currently is being extended from the wing provided for construction and not executed the original proposal. Searches understand what''s left of the principles and solutions of modern architecture and how it interacted at successive interventions for the reuse of the building. Designed and built between 1976 and 1980, the RU''s shape possessed a form consisting of a rectangular block and a volume on balance that protrudes from it, dividing it in two blocks. The work merges the metallic element on the grill that protects the frames; masonry in the walls and windows in glass and metal, in addition to the concrete structures of great aesthetic value for the building''s identity. The double height balance volume houses the stairs and has external sealing cement tiles vertically, which act as solar protection and ventilation elements. The shapes create spaces of conviviality and the volume has large gaps favoring natural ventilation and lighting. The building follows the brutalist aesthetic and module development integrates the set of buildings that make up the Federação-Ondina Campus at UFBA. In 1999 the building went on to house the FACOM and despite the external aspect have remained reasonably the same, its interior was significantly reworked in this intervention of the years 2000. The last intervention plunged the building in a paradox: at the same time in that amended the asymmetric solution that characterized the building built, gave the building the symmetry of the original project. Damages or gain?'
+  keywords_en:
+  - intervention
+  - reuse
+  - University architecture
+  - modern architecture in Bahia
+  references:
+  - 'ANDRADE JUNIOR, Nivaldo Vieira de. Diógenes rebouças e o EPUCS: planejamento urbano e arquitetura na Bahia, 1947-1950. URBANA, V.5, nº6, mar. 2013 - Dossiê: Urbanistas e Urbanismo- CIEC/UNICAMP. Disponível em: http://periodicos.sbu.unicamp.br/ojs/index.php/urbana/article/download/8635086/pdf'
+  - 'ANDRADE JUNIOR, Nivaldo Vieira de; e LEA, João Legal. Arquitetura Moderna e Reciclagem do Patrimônio Edificado: a contribuição baiana de Diógenes Rebouças. 2007. Disponível em: http://www.docomomo.org.br/seminario%207%20pdfs/074.pdf'
+  - 'BIERRENBACH, Ana Carolina; NERY, Juliana Cardoso. O que é que a Bahia tem? In: Anais do X Seminário Docomomo Brasil, Arquitetura moderna e internacional: conexões brutalistas 1955-75. Curitiba: PUCPR, outubro de 2013.'
+  - 'CARBONARA, Giovanni. Architettura d''oggi e Restauro: un confronto antico-nuovo. Torino: UTET, 2013.'
+  - 'FACOM news Edição de 2013.1 páginas 25-27. Disponível em: <https://issuu.com/boletimfacomnews/docs/facom_news_1_-_2013>'
+  - 'FONTES, Antônio Nelson D. Entrevista concedida pelo autor do projeto de ampliação da FACOM ao bolsista Leonardo Rocha. 2014.'
+  - 'FONTES, Antônio Nelson D. Minuta de artigo sobre o Restaurante Universitário da UFBA (1977-1978). 2016'
+  - 'FONTES, Antônio. Breve histórico dos campi da UFBA. Salvador: Dissertação de Mestrado apresentada ao PPGAU/UFBA, 2010.'
+  - 'FRACALOSSI, Igor. O resgate da unidade perdida: o Teatro do Museu de Arte Moderna de Affonso Eduardo Reidy / Roberto Segre. Archdaily Brasil, 2013. Disponível na internet por http em: <http://www.archdaily.com.br/br/01-102349/o-resgate-da-unidade-perdida-o-teatro-do-museu-de-arte-moderna-de-affonso-eduardo-reidy-roberto-segre>. Acesso em 30 jun. 2016'
+  - 'IMBIRIBA, José Luiz. Depoimento concedido por um dos autores da ampliação da FACOM a professora Juliana Nery. 2016.'
+  - 'KRAACK, Thomas. Entrevista concedida por um dos autores do projeto de ampliação da FACOM a bolsista Susanna Moreira. 2016.'
+  - 'MENDES, Paulo; CUNHA, Jorge, ISMAEL, Jurandir. Dossiê FACOM, a história da faculdade de comunicação. Disponível em: <http://www.facom.ufba.br/com112/dossie_facom/index.htm>'
+  - 'PELLEGRINI, Ana Carolina Santos. Quando o projeto é patrimônio: a modernidade póstuma em questão. Porto Alegre: Tese de doutorado do Programa de Pesquisa e Pós-Graduação em Arquitetura - PROPAR – da Universidade Federal do Rio Grande do Sul, 2011.'
+  - 'SUMAI. Memoriais Descritivos, imagens e desenhos técnicos do projeto de 2000 e de 2008 cedidos pela SUMAI (Superintendência do meio ambiente e infraestrutura).'
+  locale: 'pt-BR'
+  file: 'sdnne06-106.pdf'
+  pages: null
+
+- id: '107'
+  title: Colégio Zacarias de Goés
+  subtitle: a arquitetura como reflexo da reforma educacional em Teresina
+  authors:
+  - givenname: Ana Rosa Soares Negreiros
+    familyname: Feitosa
+    email: 'ananegreiros@gmail.com'
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Denise Rodrigues
+    familyname: Santiago
+    email: null
+    affiliation: null
+    orcid: '0000-0003-1952-7913'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Lucas Coelho
+    familyname: Ferreira
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: 'Este trabalho tem como objetivo o estudo e a documentação do edifício do Colégio Estadual Zacarias de Goés, em Teresina, Piauí e sua relação com o cenário educacional e político dos anos 1930. Este texto fundamenta-se em pesquisas históricas e acadêmicas sobre os temas abordados, bem como informações coletadas junto a órgãos de preservação do patrimônio e na própria instituição. Projeto datado de 1933, suas características formais enquadradas no estilo arquitetônico Art Déco refletem todos os anseios do contexto histórico e político local e nacional da época de sua construção. Durante a Era Vargas, um sentimento de renovação disseminou-se pelo país, chegando a Teresina, onde se buscava uma reforma educacional que fosse digna das realizações do período e que consolidasse o Liceu como uma das principais instituições de ensino do estado. Iniciou-se então, em 1934, a construção do edifício do Liceu, seguindo a estética Art Déco, contrastando com outras instituições de ensino mais tradicionais, que possuíam estilos arquitetônicos conservadores. Ao fim das obras, dois anos mais tarde, materializou-se nele a almejada mudança na educação piauiense, ofertando disciplinas em consonância com as reformas no ensino secundário empreendidas por Vargas. Em 1962, adquiriu sua atual denominação, Colégio Estadual Zacarias de Goés, em homenagem ao fundador da instituição. Suas características arquitetônicas persistem até os dias de hoje, apesar das inúmeras reformas e ampliações que ocorreram ao longo dos anos, sendo um dos mais bem conservados do centro histórico da cidade. Logo, é considerado um marco tanto na arquitetura quanto na evolução da educação de Teresina e do Piauí, como se, de certa forma, ao buscar a hierarquização das formas do estilo Art Déco, buscasse-se também a hierarquização do ensino na instituição, anunciando na forma do edifício o sentimento ufanista cultivado pelos políticos e intelectuais da época.'
+  keywords:
+  - Teresina
+  - patrimônio
+  - documentação arquitetônica
+  abstract_en: 'This paper aims to study and documentate the Zacarias de Goés State College building in Teresina, Piauí and its relation to the educational and political landscape of the 1930''s This text is based on historical and academic research on themes, as well as information collected from the heritage preservation agencies and within the institution. Project dated 1933, its formal characteristics framed in architectural Art Deco style reflect all the aspirations of the local and national historical-political context by the time of its construction. During the Vargas Era, a sense of renewal has spread across the country, reaching Teresina, where it sought an educational reform that was worthy of the achievements of the period and consolidate the College as one of the main state educational institutions. It began then, in 1934, the construction of the Liceu building, following the Art Deco aesthetic, contrasting with other more traditional educational institutions, which had conservative architectural styles. At the end of the works, two years later, it materialized the desired change in Piauí education, offering courses in line with the reforms in secondary education undertaken by Vargas. In 1962, it acquired its current name, the State College of Zacarias de Goés, named after the founder of the institution. Its architectural features persist to this day, despite several renovations and expansions that have occurred over the years, being one of the best preserved buildings of the historic city center. Therefore, it is considered a landmark both in architecture and in the evolution of Teresina and Piauí education, as if, somehow, seeking for the hierarchy of Art Deco style forms, seek also the hierarchy of education in the institution, announcing through the building form the vainglorious feeling cultivated by politicians and intellectuals of the time.'
+  keywords_en:
+  - Teresina
+  - heritage
+  - architectural documentation
+  references:
+  - 'AFONSO, Alcília; VERÍSSIMO, Víctor. Arquitetura Moderna em Teresina: guia. Teresina: Gráfica Cidade Verde; Edufpi, 2015.'
+  - 'ALESCANTRE, José Martins Pereira. Memória cronológica, histórica e corográfica da província do Piauí. Teresina: COMEPI, 1981.'
+  - 'BRITO, Itamar de Sousa. História da educação no Piauí: enfoque normativo, estrutura organizacional, processo de sistematização. Teresina: UFPI, 1996.'
+  - 'CAPELATO, Maria Helena Rolim. Estado Novo: Novas Histórias, p. 183-213.'
+  - 'CASTELNOU, Antonio. Arquitetura Art Déco em Londrina. Londrina: Atrito Art Editorial, 2002'
+  - 'CONDE, Luiz Paulo Fernandez; ALMADA, Mauro. Panorama do Art Déco na Arquitetura e no Urbanismo do Rio de Janeiro. In: Guia da Arquitetura Art Déco no Rio de Janeiro. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro/Casa da Palavra, 2000.'
+  - 'ESCOLANO, Agustín. Arquitetura como programa. Espaço-escola e currículo. In: FRAGO, A. Viñao;'
+  - 'ESCOLANO, Agustín. (orgs.). Currículo, espaço e subjetividade: a arquitetura como programa. Rio de Janeiro: DP&A, 2001.'
+  - 'REIS, Márcio Vinícius. O Art Déco na obra getuliana: Moderno antes do Modernismo. São Paulo, 2014.'
+  - 'SEGAWA, Hugo M. Arquiteturas do Brasil 1900-1990. São Paulo: Edusp, 1998.'
+  locale: 'pt-BR'
+  file: 'sdnne06-107.pdf'
+  pages: null
+
+- id: '108'
+  title: Modernidade (Arqui)Tectônica
+  subtitle: a arte de construir
+  authors:
+  - givenname: Ricardo Alexandre
+    familyname: Paiva
+    email: 'paiva_ricardo@yahoo.com.br'
+    affiliation: null
+    orcid: '0000-0002-0332-097X'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'AMARAL, Izabel. Quase tudo que você queria saber sobre tectônica, mas tinha vergonha de perguntar. Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, [S.l.], n. 26, p. 148-167, dec. 2009. ISSN 2317-2762. Disponível em: <http://www.revistas.usp.br/posfau/article/view/43644>. Acesso em: 24 feb. 2016. doi:http://dx.doi.org/10.11606/issn.2317-2762.v0i26p148-167.'
+  - 'ARANTES, P. F. Arquitetura na era digital-financeira: desenho, canteiro e renda da forma. São Paulo: Editora 34, 2012.'
+  - 'ARGAN, G.C. Arte Moderna. São Paulo: Companhia das Letras, 2006.'
+  - 'ARTIGAS, João Batista Vilanova. Caminhos da arquitetura. São Paulo: Cosac & Naify, 1999.'
+  - 'BARRIOS, Sônia. A Produção do Espaço. In: SOUZA, Adélia de e SANTOS, Milton (org.). A Construção do Espaço. São Paulo: Nobel, Coleção Espaços, 1986.'
+  - 'BRANDÃO, C. A. L.. A formação do homem moderno vista através da arquitetura. Belo Horizonte: Editora da Universidade Federal de Minas Gerais, 2001.'
+  - 'CHAUÍ, M. S. Convite à Filosofia. São Paulo: Ática, 2002.'
+  - 'COSTA, Lúcio. Arquitetura Bioclimática. In: SEMINÁRIO DE ARQUITETURA BIOCLIMÁTICA, RJ, 1983. Trabalhos.'
+  - 'CURTIS, William J.R. A arquitetura moderna desde 1900. 3. ed. Porto alegre: Bookman, 2008.'
+  - 'HAUSER, Arnold. História Social da Literatura e da Arte. São Paulo: Martins Fontes, 1998.'
+  - 'KAPP, Silke. Forma na Arquitetura: um palimpsesto. Interpretar Arquitetura, Belo Horizonte, v. 3, n.6, p. 3, 2003.'
+  - 'MARTINEZ, Alfonso Corona. Ensaio Sobre o Projeto. Brasília: UnB. 2000.'
+  - 'MONTANER, J. M. Depois do movimento moderno: arquitetura da segunda metade do século XX. Barcelona: Gustavo Gili, 2001.'
+  - 'PAIVA, Ricardo Alexandre. Arena Castelão em Fortaleza: destruição do moderno ou (des)construção contemporânea. In: Arquimemória 4 - Encontro Internacional sobre a Preservação do Patrimônio Edificado, 2013, Salvador. Arquimemória 4. Salvador: IAB-BA, 2013.'
+  - 'PAIVA, R.A. Os ícones urbanos e arquitetônicos. In: VARGAS, H.C.; PAIVA, R.A. (Orgs.). Turismo, arquitetura e cidade. Barueri: Manole, 2016. p. 289-314.'
+  - 'VIANNA, Nelson Solano. Tecnologia e Arquitetura. in: MASCARÓ, Lúcia. Tecnologia & Arquitetura. São Paulo: Nobel, 1989.'
+  - 'VITRUVIO, M.L. Los Diez Libros de Arquitectura. Tradução, Prólogo e Notas por Agustín Blánquez, Barcelona: Editorial Ibéria, 1985.'
+  locale: 'pt-BR'
+  file: 'sdnne06-108.pdf'
+  pages: null
+
+- id: '109'
+  title: Arquiteturas da Modernidade em Belém
+  subtitle: materialidades e conceitos
+  authors:
+  - givenname: Celma
+    familyname: Chaves
+    email: 'celma_chaves@hotmail.com'
+    affiliation: null
+    orcid: '0000-0003-3437-3844'
+    bio: null
+    country: BR
+    primary_contact: false
+  section: Apresentação Oral
+  abstract: null
+  references:
+  - 'BOURDIEU, P. La miseria del mundo. Ediciones Akal/Fondo de Cultura Económica da Argentina: Madrid, 1999.'
+  - 'CHAVES, Celma. Arquitetura, modernização e política entre 1930 e 1945 na cidade de Belém. 2008. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/08.094/161>. Acesso em: 14 out. 2015.'
+  - 'CHAVES, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. Revista Risco: revista de pesquisa em arquitetura e urbanismo, São Paulo, n. 4, p.145-163, fev. 2008. Disponível em: <http://www.iau.usp.br/revista_risco/Risco8-pdf/02_art10_risco8.pdf>. Acesso em: 20 out. 2015.'
+  - 'CHAVES, C. Recepção, particularidades e limites da arquitetura modernista produzida em Belém. In: Seminário Internacional Brasil-Argentina-México - 4º Encontro de estudos comparados em Arquitetura e Urbanismo nas Américas - A Circulação das idéias na América Latina: o moderno na Arquitetura e Urbanismo, Uberlândia, 2012.'
+  - 'CHAVES, Celma; MACHADO, Izabelle. Moradias Modernistas em Belém (PA): Documentando um novo modo de vida. In: SEMINÁRIO IBERO-AMERICANO ARQUITETURA E DOCUMENTAÇÃO, 3., 2013, Belo Horizonte. Artigo. Belo Horizonte: Editora, 2013. p. 1-14.'
+  - 'GORELIK, Adrian. Prefácio em: Müller, Luis. Modernidades de Provincia: Estado y Arquitectura en la Ciudad de Santa Fe, 1935-1943, por. Santa Fe: Universidad Nacional del Litoral, 2011. 246p.'
+  - 'MARQUES, Sonia M. B.; NASLAVSKY, Guilah. Recepção x difusão: reflexões para a preservação do patrimônio recente. In: SEMINÁRIO DOCOMOMO BRASIL, 9., 2011, Brasília. Artigo. Recife: Edufpe, 2011. p. 1-11.'
+  - 'MARTINS, Carlos Alberto Ferreira. Identidade nacional e o Estado no projeto modernista: modernidade, Estado e tradição. In: GUERRA, Abilio (Org.). Textos fundamentais sobre história da arquitetura moderna brasileira: parte 1. São Paulo: Romano Guerra, 2010. p. 279-297.'
+  - 'MÜLLER, Luis. Modernidades de Provincia: Estado y Arquitectura em la Ciudad de Santa Fe, 1935-1943. Santa Fe: UNL, 2011. 246 p.'
+  - 'NORBERG-SCHULZ, Christian. Los Principios de la Arquitectura Moderna. Barcelona: Reverté, 2005. 283 p.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil. 1900-1990. Ed. EDUSP, São Paulo, 1999.'
+  - 'TAFURI, Manfredo. Por una crítica de la ideologia arquitectónica. In: TAFURI, Manfredo; DAL CO, Francesco; CACCIARI, Máximo. De la Vanguardia a la Metrópolis. Crítica radical a la arquitectura. Barcelona: Gustavo Gili, 1978.'
+  - 'WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.'
+  locale: 'pt-BR'
+  file: 'sdnne06-109.pdf'
   pages: null
 
 - id: '11'
@@ -296,7 +565,7 @@ articles:
     familyname: Martins
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0009-0004-0328-1546'
     bio: null
     country: BR
     primary_contact: false
@@ -304,7 +573,7 @@ articles:
     familyname: Santos
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-3950-8157'
     bio: null
     country: BR
     primary_contact: false
@@ -349,7 +618,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -435,7 +704,7 @@ articles:
     familyname: Araújo
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-9226-7321'
     bio: null
     country: BR
     primary_contact: false
@@ -481,9 +750,9 @@ articles:
   authors:
   - givenname: Carolina
     familyname: Chaves
-    email: null
+    email: 'carolinamchaves@gmail.com'
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-8645-9717'
     bio: null
     country: BR
     primary_contact: false
@@ -549,7 +818,7 @@ articles:
     primary_contact: false
   - givenname: Beatriz Helena Bezerra Nogueira
     familyname: Diógenes
-    email: null
+    email: 'bhdiogenes@yahoo.com.br'
     affiliation: null
     orcid: null
     bio: null
@@ -564,6 +833,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '17'
   title: 'Arquitetura Nordestina [des]conhecida'
@@ -686,6 +956,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '2'
   title: 'A casa do pós-Guerra'
@@ -720,6 +991,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '20'
   title: 'As casas Modernistas de Cleon Furtado em São Luis-MA'
@@ -736,7 +1008,7 @@ articles:
     familyname: Moniz
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-9450-0214'
     bio: null
     country: BR
     primary_contact: false
@@ -789,6 +1061,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '22'
   title: BASA
@@ -802,6 +1075,14 @@ articles:
     bio: null
     country: BR
     primary_contact: false
+  - givenname: Luiza
+    familyname: Santos
+    email: null
+    affiliation: null
+    orcid: null
+    bio: null
+    country: BR
+    primary_contact: false
   - givenname: Vasilka
     familyname: Espinosa
     email: null
@@ -810,22 +1091,37 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: L.
-    familyname: Santos
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
   section: Apresentação Oral
-  abstract: 'O ensaio é um recorte do projeto de pesquisa em andamento do curso de Arquitetura e Urbanismo da Universidade Federal do Amazonas, que investiga a arquitetura moderna na Amazônia e a obra de Severiano Porto. Mineiro de nascimento, carioca por formação e amazonense de coração, esse peregrino concluiu o curso na Faculdade de Belas-Artes do Rio de Janeiro em 1954. Foi Diretor Técnico da Construtora Ary C.R. de Britto no Rio de Janeiro onde realizou alguns projetos e em 1965 iniciou a sua jornada na cidade de Manaus. Na Amazônia, o arquiteto desenvolveu mais de 300 projetos impulsionado pelo ambiente favorável e devido ao impulso econômico proporcionado pela implantação da Zona Franca de Manaus. Alcançou o reconhecimento nacional e internacional através das obras na Região Norte com uma modernidade periférica ao eixo Rio - São Paulo. O Banco de Crédito da Borracha foi fundado em 1942 durante o governo de Getúlio Vargas na Segunda Guerra Mundial para financiar a produção da borracha para os países aliados. Em 1966, já como Banco da Amazônia, tornou-se agente financeiro da política de desenvolvimento da Amazônia Legal e após a implantação dos incentivos fiscais da Zona Franca de Manaus, em 1967, depositário dos recursos provenientes dos incentivos fiscais. Severiano Porto fez os projetos para agências do BASA em Manaus (1974), Rio de Janeiro (1975) e São Paulo (1976) onde podemos constatar a sua modernidade em diferentes realidades. O redesenho, a modelagem e a análise do edifício-sede do BASA em Manaus, um “Palácio de Cristal”, único construído dos três projetos, representa um importante capítulo na arquitetura moderna na Amazônia com o diálogo entre o universal e o regional.'
+  abstract: 'O ensaio é um recorte do projeto de pesquisa em andamento do curso de Arquitetura e Urbanismo da Universidade Federal do Amazonas, que investiga a arquitetura moderna na Amazônia e a obra de Severiano Porto. Mineiro de nascimento, carioca por formação e amazonense de coração, esse peregrino concluiu o curso na Faculdade Nacional de Arquitetura no Rio de Janeiro na turma de 1954. Foi Diretor Técnico da Construtora Ary C.R. de Britto no Rio de Janeiro onde realizou alguns projetos e em 1965 iniciou a sua jornada na cidade de Manaus. Na Amazônia, o arquiteto desenvolveu mais de 300 projetos impulsionado pelo ambiente favorável e ao impulso econômico proporcionado pela implantação da Zona Franca de Manaus. Alcançou o reconhecimento nacional e internacional através das obras na Região Norte com uma modernidade periférica ao eixo Rio - São Paulo. O Banco de Crédito da Borracha foi fundado em 1942 durante o governo de Getúlio Vargas na Segunda Guerra Mundial para financiar investidores na produção da borracha para os países aliados. Em 1966, já como Banco da Amazônia, tornou-se agente financeiro da política de desenvolvimento da Amazônia Legal e após a implantação dos incentivos fiscais da Zona Franca de Manaus, em 1967, depositário dos recursos provenientes dos incentivos fiscais. Severiano Porto fez os projetos para agências do BASA em Manaus (1970 e 1974), Rio de Janeiro (1975) e São Paulo (1976) onde podemos analisar a sua modernidade em diferentes tonalidades. O redesenho, a modelagem e a análise do edifício-sede do BASA em Manaus, um "Palácio de Cristal", único construído dos três projetos, são necessários para conhecer e reconhecer o edifício como um importante capítulo da arquitetura moderna na Amazônia com o diálogo entre a tradição e a modernidade.'
   keywords:
   - arquitetura moderna
   - severiano porto
   - amazônia
+  references:
+  - 'III Premiação Anual do IAB – GB, 1965. In Arquitetura, n. 44, Rio de Janeiro, IAB, fev. 1966.'
+  - 'ABA, Revista Arquitetura Brasileira do Ano -. Rio de Janeiro: Gráfica Editora Itambé S/A, 1969.'
+  - 'BERNARDELLI, Kellen Cristina Costa Alves. História e Memória do liceu de Uberlândia,MG - 1928 a 1942. 2007.174 f. Dissertação (Mestrado). Universidade Federal de Uberlândia, Curso de Pós-Graduação em Eduacação.'
+  - 'CERETO, Marcos Paulo. Amazônia Moderna. A criação do SAMA – Seminário de Arqiutetura Moderna na Amazônia. Drops. São Paulo, ano 17, n. 102.01, Vitruvius, mar. 2016 <http://www.vitruvius.com.br/revistas/read/drops/17.102/5951>.'
+  - 'CERETO, Marcos Paulo. Severiano Porto: The world Cup lost. In. Proceedings of 13th Docomomo International Conference Seoul. Expansion & Conflict. p.136-139. Seoul: Com-Pro Namyang, 2014.'
+  - 'CERETO, Marcos Paulo; SANTOS, Luiza; ESPINOSA, Vasilka. Recife 1762 e 1435: considerações sobre a permanência e o transitório na obra de Severiano Porto. Recife: XI Docomomo Brasil, 2016 <http://www.seminario2016.docomomo.org.br/artigos_apresentacao/sessao%2018/DOCO_PE_S16_CERETO_SANTOS_ESPINOSA.pdf>.'
+  - 'CERETO, Marcos Paulo. O moderno regional? Considerações sobre um patrimônio em extinção. Niteroi: VI Docomomo Brasil, 2005. <http://www.docomomo.org.br/seminario%206%20pdfs/Marcos%20Cereto.pdf>.'
+  - 'CERETO, Marcos Paulo. Estádios brasileiros de futebol: uma reflexão modernista? IN: Seminário Docomomo Brasil, 5, 2003, São Carlos. Anais. São Paulo: Edusp, 2003.'
+  - 'CONDURU, Roberto. Vital Brazil. São Paulo: Cosac & Naify, 2000.'
+  - 'GOODWIN, Philip L. Brazil Builds. Acrhitecture New and Old 1652 – 1942. New York: MOMA, 1943.'
+  - 'INSTITUTO GEOGRÁFICO E HISTÓRICO DO AMAZONAS. Manaus: memória fotográfica. Manaus: SUFRAMA, 1985.'
+  - 'SANTOS, Luiza [et all]. Banco da Amazônia 70 anos. Belém: PLW – Projetos e Linguagens; Banco da Amazônia, 2012.'
+  - 'PORTO, Severiano. Entrevista concedida a Marcos Cereto. Rio de Janeiro, 2002.'
+  - 'PORTO, Severiano. Curriculum Vitae. Rio de Janeiro: Acervo NPD/UFRJ. 2002.'
+  - 'PORTO, Severiano Mário. A longa trajetória, da efervescência cultural do Rio a Manaus. In Revista Projeto 83, São Paulo: Projeto Editores Associados, janeiro de 1986, p. 46.'
+  - 'OLIVEIRA, Beatriz Santos. Entrevista concedida a Marcos Cereto. Rio de Janeiro, 2015.'
+  - 'PODESTÁ, Sylvio. Entrevista concedida a Marcos Cereto. Belo Horizonte, 2015.'
+  - 'RODRIGUES DE CAMPO, Elisabete. A arquitetura brasileira de Severiano Mario Porto. Arquitextos. São Paulo, ano 04, n. 043.08, Vitruvius, dez 2003 <http://www.vitruvius.com.br/revistas/read/arquitextos/04.043/631>.'
+  - 'SEGAWA, Hugo. Entrevista concedida a Marcos Cereto. São Paulo, 2015.'
+  - 'SEGAWA, Hugo. Arquitetos peregrino, nômades e migrantes. p. 9-14. In Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, 1988.'
+  - 'ZEIN, Ruth Verde. Entrevista concedida a Marcos Cereto. São Paulo, 2015.'
+  - 'ZEIN, Ruth Verde. Um arquiteto brasileiro: Severiano Mario Porto. In Projeto, n. 83, São Paulo: Projeto Editores Associados, janeiro de 1986, p. 44.'
   locale: 'pt-BR'
-  file: null
+  file: 'sdnne06-022.pdf'
   pages: null
 
 - id: '23'
@@ -839,7 +1135,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: Ana Karolyne
+  - givenname: Ana Karolyne de Souza
     familyname: Liberato
     email: null
     affiliation: null
@@ -855,7 +1151,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: D.
+  - givenname: Daniel Victor Oliveira
     familyname: Pessoa
     email: null
     affiliation: null
@@ -863,7 +1159,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: E.
+  - givenname: Elane Lopes
     familyname: Coutinho
     email: null
     affiliation: null
@@ -879,7 +1175,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: Y.
+  - givenname: Yasmine Ibiapina
     familyname: Caddah
     email: null
     affiliation: null
@@ -896,6 +1192,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '24'
   title: Carcomido pelas beiradas
@@ -1073,6 +1370,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '28'
   title: Dois projetos distintos e uma única biblioteca
@@ -1111,6 +1409,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '29'
   title: Escola Politécnica da Universidade Federal da Bahia
@@ -1181,6 +1480,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '3'
   title: A casa Modernista como ponto de inflexão na natureza morfológica de uma possível “Morada brasileira”
@@ -1206,7 +1506,7 @@ articles:
     familyname: Araújo
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-9226-7321'
     bio: null
     country: BR
     primary_contact: false
@@ -1274,7 +1574,7 @@ articles:
     familyname: Cavalcante
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-0102-1108'
     bio: null
     country: BR
     primary_contact: false
@@ -1504,7 +1804,7 @@ articles:
   authors:
   - givenname: Betânia
     familyname: Brendle
-    email: null
+    email: 'maria_cavalcanti@baunetz.de'
     affiliation: null
     orcid: null
     bio: null
@@ -1527,6 +1827,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '36'
   title: Modernidade e tradição na construção em madeira
@@ -1597,6 +1898,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '38'
   title: 'O edifício de Apartamentos em Fortaleza (1960-1972)'
@@ -1641,7 +1943,7 @@ articles:
     familyname: Lima
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-3700-2945'
     bio: null
     country: BR
     primary_contact: false
@@ -1674,7 +1976,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -1716,9 +2018,17 @@ articles:
   title: O Residencial Iracema em Fortaleza
   subtitle: a simples Modernidade ameaçada
   authors:
-  - givenname: M.
+  - givenname: Clóvis Ramiro
+    familyname: Jucá Neto
+    email: 'clovisjuca@gmail.com'
+    affiliation: null
+    orcid: '0000-0002-8424-1527'
+    bio: null
+    country: BR
+    primary_contact: false
+  - givenname: Margarida Júlia Farias de Salles
     familyname: Andrade
-    email: null
+    email: 'desallesandrade@exemplo.com'
     affiliation: null
     orcid: null
     bio: null
@@ -1728,7 +2038,7 @@ articles:
     familyname: Diogenes
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0003-4305-5485'
     bio: null
     country: BR
     primary_contact: false
@@ -1740,30 +2050,24 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: Clóvis Ramiro
-    familyname: Jucá Neto
-    email: 'clovisjuca@gmail.com'
-    affiliation: null
-    orcid: '0000-0002-8424-1527'
-    bio: null
-    country: BR
-    primary_contact: false
-  - givenname: Solange Maria de Oliveira
-    familyname: Schramm
-    email: null
-    affiliation: null
-    orcid: null
-    bio: null
-    country: BR
-    primary_contact: false
   section: Apresentação Oral
   abstract: 'Com o presente artigo, tenciona-se analisar arquitetura do conjunto Residencial Iracema, em Fortaleza, bem como sua proposta de tombamento no âmbito municipal. Trata-se uma obra da fase inicial da arquitetura modernista cearense, no qual se mesclam influências do Movimento Moderno e das construções vernáculas brasileiras. O projeto é atribuído ao Arq. Porto Lima, ex-professor da Escola de Arquitetura e Artes da UFC. Datado do final da década de 1960, o Residencial apresenta desenho caracteristicamente popular conquanto concebido segundo a norma culta da arquitetura. O conjunto é dotado de singular implantação urbana, com destaque para a escala de sua volumetria, o arranjo dos seus nove blocos retangulares desenvolvidos em dois pavimentos. O modo de ocupação da gleba gerou faixas livres entre os blocos, sombreadas e tratadas paisagisticamente como jardins com espécies arbóreas autóctones. Na composição arquitetônica destaca-se a predominância dos cheios em relação aos vazios, em contraponto à solução do pórtico de entrada, na qual a escada, levando ao apartamento do pavimento superior, tem seu patamar de chegada, em sutil balanço, convidando ao acesso à moradia abaixo. A volumetria resultante é a mistura de elementos modernistas, com outros vernáculos (coberta em duas águas em telha de barro sobre laje em concreto vincada com duas inclinações; esquadrias em madeira e vidro com abertura em tramela, tijolinho cerâmico vermelho e uso de cobogó). Os sistemas construtivos são uma mescla de soluções estruturais simples em concreto armado (lajes, pilares e vigas), sem destaque evidente, com vedações em alvenaria de tijolos rebocada, emassada e pintada na cor branco, conferindo simplicidade à obra. O risco moderno do Residencial apresenta evidentes predicados urbanísticos, arquitetônicos, paisagísticos e ambientais, e sua presença remete à relevância cultural de uma produção técnica e artística que urge ser identificada, documentada, preservada e valorizada, face à ameaça de sua iminente demolição.'
   keywords:
-  - edifício de apartamentos
-  - Fortaleza
-  - modernismo
+  - Arquitetura Moderna
+  - proposta de tombamento
+  - Fortaleza/Ceará
+  abstract_en: 'With the present article, we tend to analyze the architecture of Iracema Residential, in Fortaleza, as well as its proposal to be officially proclaimed as a historical landmark in the city. It is a construction of the initial phase of the modern architecture of Ceará, in which the influences of the modern movement merge with the Brazilian "vernacular" constructions. The project is accredited to the architect Porto Lima, a former professor of the School of Architecture and Arts of the Federal University of Ceará (UFC). Dated to the end of the 1960 decade, the Residential presents a characteristically popular drawing although conceived according to the architectural standards. The set is endowed of a singular urban implantation, with a highlight to the scale of its volumetry, the bouquet of its nine rectangular blocks, shadowed and landscaped treated as gardens with aboriginal arboreal specimens. The architectural composition highlights the predominance of fulls in relation to the empties, in contrast to the solution of the entrance portico, in which the stairs, leading to the apartment of the upper floor, has its arriving threshold, in subtle swing, inviting to the access if the apartment below. The resulting volumetry is a mixture of modern elements, with other vernaculars ("duas águas" topping in clay roofing on the roof slab in concrete pronounced with two inclinations; wooden and glass frames with opening in "tramela"; ceramic red tiles and the use of "cobogó"). The constructive systems are a blend of simple structural solutions in reinforced concrete (roof slabs, pillars and beams), without obvious emphasis, with cement seals of plastered bricks, filled and painted in white, giving simplicity to the construction work. The modern risk of Iracema Residential presents obvious urban, architectural, landscape and environmental predicates, and its presence refer to the cultural relevance of a technical and artistic production, that urges to be identified, documented, preserved and valued, in face of the danger of its immediate demolition.'
+  keywords_en:
+  - Modern architecture
+  - Fortaleza/Ceará
+  references:
+  - 'CASTRO, José Liberal de. Ceará, sua Arquitetura e seus Arquitetos. In NEVES, Nélson Serra e e DE LEON, Delberg Ponce (orgs.). Panorama da Arquitetura Cearense (Cadernos Brasileiros de Arquitetura/ Vols. I e II). São Paulo: Projeto Editores Associados Ltda., 1982.'
+  - 'BANHAM, R. Guide to Modern Archtecture. London: The Architectural Press, 1962.'
+  - 'FUSCO, Renato de. História de La arquitectura contemporânea. Madrid: Blume, 1981.'
+  - 'NEVES, Nélson Serra e DE LEON, Delberg Ponce (orgs.). Panorama da Arquitetura Cearense (Cadernos Brasileiros de Arquitetura/ Vols. I e II). São Paulo: Projeto Editores Associados Ltda., 1982.'
+  - 'SEGAWA, Hugo. Arquiteturas no Brasil (1900-1990). São Paulo: Edusp - Editora da Universidade de São Paulo, 1997.'
   locale: 'pt-BR'
-  file: null
+  file: 'sdnne06-040.pdf'
   pages: null
 
 - id: '41'
@@ -1823,6 +2127,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '43'
   title: Os elementos da arquitetura moderna traduzidos nas residências parnaibanas
@@ -1852,6 +2157,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '44'
   title: Patrimônio Moderno industrial no Nordeste Brasileiro
@@ -1861,7 +2167,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -1884,7 +2190,7 @@ articles:
 
 - id: '45'
   title: Patrimônio recente
-  subtitle: intervenções no Tribunal de Justiça do Piauí
+  subtitle: proposta de intervenção no Tribunal de Justiça do Piauí
   authors:
   - givenname: Rômulo
     familyname: Marques
@@ -1894,7 +2200,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: W.
+  - givenname: Wilnne
     familyname: Pinheiro
     email: null
     affiliation: null
@@ -1906,18 +2212,35 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
   section: Apresentação Oral
-  abstract: 'Este artigo possui como objeto de estudo, o edifício sede do Tribunal de Justiça do Estado do Piauí, localizado no bairro Cabral, zona centro-norte de Teresina, PI, projetado em 1972, pelo arquiteto Acácio Gil Borsoi. Objetivase analisar as intervenções arquitetônicas que esta obra, de linguagem brutalista, sofreu ao decorrer dos últimos anos, enfatizando-se a mais recente: a construção de um anexo situado entre o recuo da fachada sudoeste da edificação e a rua Gov. Tibério Nunes. Este exemplar, em associação a outras produções modernas, constituem o acervo do patrimônio arquitetônico recente da cidade, sendo, ainda, considerada obra prima da produção arquitetônica de Borsoi, por consolidar um método projetual extremamente sensível ao lugar. Justifica-se a elaboração deste artigo, pela necessidade de se averiguar, tecnicamente, a construção deste anexo, mediante a relevância da obra em questão para o patrimônio piauiense. A metodologia empregada seguiu duas linhas de investigação: a primeira, direcionada ao estudo individual do edifício, foi embasada nas pautas de análise projetual propostas pelo Grupo FORM da ETSAB/UPC, que busca compreender a obra através do estudo de sua implantação, programa e configuração do projeto. Ao passo que na segunda, buscou-se qualificar os impactos da construção do anexo através de estudos volumétricos e registros fotográficos. O valor arquitetônico da produção moderna piauiense é inquestionável, dessa forma, medidas preservacionistas devem ser tomadas urgentemente, a fim de se proteger tal acervo estadual, que a qualquer momento, pode sofrer descaracterizações ou mesmo, demolições.'
+  abstract: 'Este artigo possui como objeto de estudo, o edifício sede do Tribunal de Justiça do Estado do Piauí, localizado no bairro Cabral, zona centro-norte de Teresina, PI, projetado em 1972 pelo arquiteto Acácio Gil Borsoi. Objetiva-se analisar uma proposta de intervenção nesta obra, referente à construção de um anexo situado entre o recuo da fachada sudoeste do edifício original e a rua Gov. Tibério Nunes. Este exemplar, em associação a outras produções modernas, constituem o patrimônio arquitetônico recente da cidade, sendo, ainda, considerada obra prima da produção arquitetônica de Borsoi, por consolidar um método projetual extremamente sensível ao lugar. Justifica-se a elaboração deste artigo pela necessidade de se averiguar, tecnicamente, a proposta deste anexo mediante a relevância da obra em questão para o patrimônio estadual. A metodologia empregada seguiu duas linhas de investigação: direcionou-se a primeira à análise do caso, desenvolvida através da coleta de dados referentes aos processos administrativos gerados para o licenciamento da obra. Ao passo que na segunda, buscou-se qualificar os impactos da proposta de intervenção através de simulações volumétricas e estudos das Cartas Patrimoniais. O valor arquitetônico da produção moderna piauiense é inquestionável, dessa forma, medidas preservacionistas devem ser tomadas urgentemente a fim de se proteger tal acervo, que a qualquer momento pode sofrer descaracterizações ou mesmo, demolições.'
   keywords:
   - Teresina
   - patrimônio recente
   - intervenções
+  references:
+  - 'AFONSO, A. A. M. Arquitetura em Teresina: 150 anos. Da origem à contemporaneidade. Teresina: Halley, 2002. 104 p.'
+  - 'AFONSO, A. Arquitetura brutalista no Piauí nos anos 1970. Arquitextos, São Paulo, ano 15, n. 174.02, dez. 2014. Disponível em: <http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367>. Acesso em: 02 jun. 2016.'
+  - 'AFONSO, A.; MARQUES, R. Teresina em aquarelas. Teresina: Cidade Verde, 2014. 190 p.'
+  - 'AFONSO, A.; NEGREIROS, A. R. Documentos da arquitetura moderna no Piauí. Teresina: Halley, 2010. 307 p.'
+  - 'AFONSO, A.; VERÍSSIMO, V. (Org.). Arquitetura Moderna em Teresina. Guia. 1ed.Teresina: Cidade Verde; EDUFPI, 2015, v. 1, p. 11-316.'
+  - 'ANDRADE JÚNIOR, N. V. O IPHAN e os desafios da preservação do patrimônio moderno: a aplicação na Bahia do inventário nacional da arquitetura, urbanismo e paisagismo modernos. In: SEMINÁRIO DOCOMOMO BRASIL, 8., 2009, Rio de Janeiro. Anais eletrônicos...Rio de Janeiro: UFRJ, 2009. Disponível em: <http://www.docomomo.org.br/seminario%208%20pdfs/142.pdf>. Acesso: 22 jun. 2016.'
+  - 'CIAM. Carta de Atenas, Atenas: 1933'
+  - 'FEITOSA, A. R. S. N. A produção arquitetônica de Acácio Gil Borsoi em Teresina: análise dos critérios projetuais em edifícios institucionais. 2012. 275 f. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul, Porto Alegre, 2012.'
+  - 'ICOMOS. Carta de Burra. Burra Austrália: 1980.'
+  - 'ICOMOS. Carta de Veneza. Veneza: 1964.'
+  - 'INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Patrimônio mundial: fundamentos para seu reconhecimento - a convenção sobre proteção do patrimônio mundial, cultural e natural, de 1972: para saber o essencial. Brasília, DF: Iphan, 2008.'
+  - 'OKSMAN, S. Preservação do patrimônio arquitetônico moderno: a FAU de Villanova Artigas. 2011. 128 f. Dissertação (Mestrado em Projeto, Espaço e Cultura) – Faculdade de Arquitetura da Universidade de São Paulo, São Paulo, 2011.'
+  - 'ROCHA, M. P.; TINEM, N. O patrimônio arquitetônico moderno: reflexões sobre sua conservação. In: ENCONTRO INTERNACIONAL SOBRE PRESERVAÇÃO DO PATRIMÔNIO EDIFICADO, 4., 2013. Salvador. Anais eletrônicos...João Pessoa: UFPB, 2013. Disponível em: <http://www.lppm.com.br/sites/default/files/livros/O%20patrim%C3%B4nio%20arquitet%C3%B4nico%20moderno%20%20reflex%C3%B5es%20sobre%20sua%20conserva%C3%A7%C3%A3o_0.pdf>. Acesso em: 22 jun. 2016.'
+  - 'RODRIGUES, F. L. L. Patrimônio cultural: a propriedade dos bens culturais no Estado Democrático de Direito. Fortaleza: Universidade de Fortaleza, 2008.'
+  - 'ROSSETI, E. P. Lucio Costa e Lina Bo Bardi: patrimônio e projeto moderno. In: SEMINÁRIO DOCOMOMO BRASIL, 7., 2007, Porto Alegre. Anais eletrônicos...Porto Alegre: UFRGS, 2007. Disponível em: <http://www.docomomo.org.br/seminario%207%20pdfs/019.pdf>. Acesso em: 22 jun. 2016.'
+  - 'TOMAZ, P. C. A preservação do patrimônio cultural e sua trajetória no Brasil. Revista de História e Estudos Culturais, Uberlândia, vol. 7, n. 2, maio-ago. 2010.'
   locale: 'pt-BR'
-  file: null
+  file: 'sdnne06-045.pdf'
   pages: null
 
 - id: '46'
@@ -1936,7 +2259,7 @@ articles:
     familyname: Paula
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-3327-1451'
     bio: null
     country: BR
     primary_contact: false
@@ -2197,9 +2520,9 @@ articles:
   authors:
   - givenname: Carolina
     familyname: Chaves
-    email: null
+    email: 'carolinamchaves@gmail.com'
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-8645-9717'
     bio: null
     country: BR
     primary_contact: false
@@ -2250,7 +2573,7 @@ articles:
     familyname: Reis
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0003-0645-1091'
     bio: null
     country: BR
     primary_contact: false
@@ -2378,6 +2701,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '54'
   title: Uma reflexão sobre Acessibilidade na obra de Oscar Niemeyr
@@ -2408,6 +2732,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '55'
   title: Vida e morte do Hotel Esplanada em Fortaleza
@@ -2422,7 +2747,7 @@ articles:
     primary_contact: false
   - givenname: Beatriz Helena Bezerra Nogueira
     familyname: Diógenes
-    email: null
+    email: 'bhdiogenes@yahoo.com.br'
     affiliation: null
     orcid: null
     bio: null
@@ -2529,7 +2854,7 @@ articles:
     familyname: Pacheco Junior
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-7891-1475'
     bio: null
     country: BR
     primary_contact: false
@@ -2571,7 +2896,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -2635,6 +2960,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '60'
   title: Arquitetura Moderna em Teresina
@@ -2726,6 +3052,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '62'
   title: Brutalismo em São Luis
@@ -2802,6 +3129,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '64'
   title: Cine Rex
@@ -2835,7 +3163,7 @@ articles:
     familyname: Costa
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-7617-4945'
     bio: null
     country: BR
     primary_contact: false
@@ -2856,6 +3184,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '65'
   title: Cobogós de Teresina
@@ -2886,6 +3215,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '66'
   title: Conservação da Arquitetura Moderna
@@ -2945,7 +3275,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -2958,6 +3288,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '68'
   title: Digitalizando o moderno na Amazônia
@@ -3003,6 +3334,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '69'
   title: Ideários urbanos
@@ -3140,6 +3472,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '71'
   title: Modernidade em Campina Grande
@@ -3149,7 +3482,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -3178,6 +3511,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '72'
   title: Movimento Moderno em Campina Grande
@@ -3200,6 +3534,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '73'
   title: O comportamento dos espelhos
@@ -3222,6 +3557,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '74'
   title: O mestre e a madeira
@@ -3359,6 +3695,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '77'
   title: O projeto e o pensamento do Arquiteto
@@ -3389,6 +3726,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '78'
   title: Paisagens participativas
@@ -3398,7 +3736,7 @@ articles:
     familyname: Siqueira
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-9385-5053'
     bio: null
     country: BR
     primary_contact: false
@@ -3473,6 +3811,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '8'
   title: A residência Modernista aracajuana dos Souza Freire
@@ -3494,6 +3833,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '80'
   title: Raimundo Dias
@@ -3520,6 +3860,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '81'
   title: Três casas modernas e a transformação do espaço doméstico em Belém
@@ -3549,6 +3890,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '82'
   title: 'Um estudo de edifícios modernos na cidade de Floriano, Piauí. 1950-1980'
@@ -3557,7 +3899,7 @@ articles:
     familyname: Carvalho
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0009-0000-6592-1298'
     bio: null
     country: BR
     primary_contact: false
@@ -3565,7 +3907,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -3578,6 +3920,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '83'
   title: A Estação Ferroviária Nova de Campina Grande
@@ -3615,6 +3958,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '84'
   title: A expressão tectônica na obra residencial de Geraldino Duda
@@ -3647,6 +3991,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '85'
   title: A influência da metodologia Modernista no partido urbanístico do conjunto habitacional Tancredo Neves em Teresina/PI
@@ -3663,7 +4008,7 @@ articles:
     familyname: Pacheco Junior
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-7891-1475'
     bio: null
     country: BR
     primary_contact: false
@@ -3753,7 +4098,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -3863,7 +4208,7 @@ articles:
     familyname: Lima
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0003-1417-1962'
     bio: null
     country: BR
     primary_contact: false
@@ -3871,7 +4216,7 @@ articles:
     familyname: Passos
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-9160-957X'
     bio: null
     country: BR
     primary_contact: false
@@ -3879,7 +4224,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -3919,6 +4264,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '90'
   title: Arquitetura bioclimática
@@ -3994,7 +4340,7 @@ articles:
     familyname: Afonso
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-6344-9329'
     bio: null
     country: BR
     primary_contact: false
@@ -4010,7 +4356,7 @@ articles:
     familyname: Rodrigues
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0001-9771-7523'
     bio: null
     country: BR
     primary_contact: false
@@ -4124,6 +4470,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '94'
   title: Contribuições do Arquiteto Raimundo Dias para Arquitetura Moderna Piauiense
@@ -4132,7 +4479,7 @@ articles:
     familyname: Castro
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0003-3031-6682'
     bio: null
     country: BR
     primary_contact: false
@@ -4208,7 +4555,7 @@ articles:
     bio: null
     country: BR
     primary_contact: false
-  - givenname: Ana Karolyne
+  - givenname: Ana Karolyne de Souza
     familyname: Liberato
     email: null
     affiliation: null
@@ -4287,6 +4634,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '97'
   title: O Edifício Dourado e a introdução de novas formas de habitar
@@ -4307,6 +4655,7 @@ articles:
   locale: 'pt-BR'
   file: null
   pages: null
+  document_type: resumo
 
 - id: '98'
   title: O resgate de obras residenciais modernas do arquiteto Antonio Luiz em Teresina
@@ -4315,7 +4664,7 @@ articles:
     familyname: Ribeiro
     email: null
     affiliation: null
-    orcid: null
+    orcid: '0000-0002-9470-7028'
     bio: null
     country: BR
     primary_contact: false
