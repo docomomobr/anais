@@ -1,8 +1,10 @@
-# Pipeline de Revisão de Metadados
+# Pipeline de Revisão Automática de Metadados
 
-Pipeline para revisão humana dos metadados dos artigos no `anais.db`. Complementa o [pipeline de tratamento](pipeline_tratamento.md) (fases 1-7) e antecede o [pipeline de produção](pipeline_producao.md) (Zenodo + Hugo).
+Pipeline para revisão automática dos metadados dos artigos no `anais.db`. Complementa o [pipeline de tratamento](pipeline_tratamento.md) (fases 1-7) e antecede o [pipeline de revisão humana](pipeline_revisao_humana.md) (Fases 3–5).
 
-A revisão é necessária porque a extração automatizada dos PDFs produz erros sistemáticos: títulos com capitalização errada, resumos truncados, keywords faltantes, referências concatenadas ou ausentes. A revisão humana corrige esses problemas seminário a seminário.
+A revisão é necessária porque a extração automatizada dos PDFs produz erros sistemáticos: títulos com capitalização errada, resumos truncados, keywords faltantes, referências concatenadas ou ausentes. O pipeline automático corrige os problemas detectáveis por heurísticas; o que escapar vai para a revisão humana.
+
+**IMPORTANTE:** Este pipeline roda **uma única vez** por seminário, **antes** da revisão humana. Após a revisão humana ter corrigido títulos, subtítulos e outros campos, **nunca** re-rodar este pipeline no mesmo seminário — scripts como `normalizar_maiusculas.py` sobrescreveriam os ajustes manuais.
 
 ### Ciclo de aprendizado
 
@@ -34,18 +36,6 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 
 ---
 
-## Seminários revisados — NÃO ALTERAR
-
-| Seminário | Artigos | Data | Observações |
-|-----------|---------|------|-------------|
-| sdbr01 | 37 | 2026-02-24 | |
-| sdbr02 | 22 | 2026-02-24 | |
-| sdbr03 | 56 | 2026-02-26 | 39 títulos, 160+ refs extraídas de notas |
-| sdbr04 | 79 | 2026-02-26 | Só resumos, sem refs nem texto completo |
-| sdbr05 | 56 | 2026-02-28 | 25 títulos corrigidos, 971 refs limpas, backfills dots/dashes |
-
----
-
 ## Visão geral do fluxo
 
 ```
@@ -66,19 +56,9 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 │   1.3  Aplicar todas as correções ao banco          │
 ├─────────────────────────────────────────────────────┤
 │ Fase 2 — Gerar HTML de revisão                      │
-├─────────────────────────────────────────────────────┤
-│ Fase 3 — Revisão humana (usuário)                   │
-│   3.1 Revisar HTML no navegador                     │
-│   3.2 Anotar correções em arquivo .md ou .txt       │
-├─────────────────────────────────────────────────────┤
-│ Fase 4 — Aplicar correções da revisão humana        │
-├─────────────────────────────────────────────────────┤
-│ Fase 5 — Fechar revisão                             │
-│   5.1 Rodar pipeline final (clean + check)          │
-│   5.2 Regenerar HTML (verificação)                  │
-│   5.3 Atualizar status (CLAUDE.md, memória)         │
-│   5.4 Dump + commit + push                          │
 └─────────────────────────────────────────────────────┘
+         ↓
+   Pipeline de revisão humana (pipeline_revisao_humana.md)
 ```
 
 ---
@@ -276,6 +256,18 @@ for file, abs_pt, abs_en in cur.fetchall():
 ```
 
 **Regra**: Corrigir diretamente no banco. Não deixar para a revisão humana — problemas de truncamento e lixo são mecânicos e devem ser resolvidos nesta fase.
+
+**Script de validação automática** (complementa a detecção manual):
+
+```bash
+# Detectar todos os problemas de abstract do seminário
+python3 scripts/validar_abstracts.py --slug {slug}
+
+# Corrigir automaticamente swaps abstract PT↔EN
+python3 scripts/validar_abstracts.py --slug {slug} --fix-swap
+```
+
+O script `validar_abstracts.py` implementa 9 regras de validação aprendidas das revisões humanas anteriores. Rodar **antes** da detecção manual para resolver os problemas mais comuns automaticamente.
 
 ### 0.6 Extrair metadados EN (title_en, subtitle_en, abstract_en, keywords_en)
 
@@ -509,187 +501,7 @@ Gera `revisao/revisao-{slug}.html` com:
 
 Abrir no navegador para revisão humana.
 
----
-
-## Fase 3 — Revisão humana
-
-O usuário revisa o HTML no navegador e anota as correções necessárias.
-
-### O que verificar
-
-| Campo | O que procurar |
-|-------|----------------|
-| **Título** | Capitalização, separação título/subtítulo, acentuação |
-| **Subtítulo** | Começa com minúscula (exceto nome próprio/sigla) |
-| **Título EN** | Title Case correto, nomes próprios preservados, sem truncamento |
-| **Subtítulo EN** | Title Case, separação correta do título |
-| **Autores** | Nomes corretos, ordem, partículas no givenname |
-| **Resumo PT** | Completo, não truncado |
-| **Abstract EN** | Presente quando o PDF tem, não truncado |
-| **Keywords PT** | Presentes, corretas |
-| **Keywords EN** | Presentes, corretas |
-| **Referências** | Presentes, sem concatenações, sem lixo |
-| **Ficha catalográfica** | ISBN, editora, organizadores, ano |
-| **Seções** | Artigos na seção correta |
-
-### Formato das anotações
-
-O usuário anota correções em arquivo markdown (`revisao/{slug}-rev.md`) ou comunica diretamente ao Claude. Formato sugerido:
-
-**Correções de campos específicos:**
-```yaml
-sdbr05-034:
-    title: 'Museu de Arte de São Paulo'
-
-sdbr05-008:
-    title: 'O edifício Esplanada em Santos'
-    subtitle: 'uma análise tipológica'
-```
-
-**Referências com marcador de repetição de autor (backfill):**
-
-Basta indicar os artigos afetados — o Claude localiza as refs, identifica o autor da ref anterior e preenche automaticamente. Não é necessário informar qual é o autor.
-
-Sintaxes de marcador de repetição encontradas nos anais (todas tratadas por `clean_references.py`):
-
-| Sintaxe | Exemplo | Seminários |
-|---------|---------|------------|
-| `__` (2 underscores) | `__. Plug-in City...` | sdbr07 |
-| `______` (6 underscores) | `______. Caminhos...` | sdbr03, sdbr05, sdbr07 |
-| `________` (8+ underscores) | `________ Função Social...` | sdbr07 |
-| `________________________` (24) | `________________________. Mensário FAC...` | sdbr07 |
-| `---------` (hífens) | `---------. A cidade...` | sdbr05 |
-| `–––––––` (en-dashes) | `–––––––. Espaços...` | vários |
-| `———————` (em-dashes) | `———————. Obras...` | vários |
-| `..........` (pontos) | `..........Arquitetura...` | vários |
-
-O `clean_references.py` reconhece qualquer sequência de 2+ caracteres de `[_.\-–—]` como marcador de repetição (regex `{2,}`).
-
-```
-refs com ______: 012, 029, 049
-```
-
-**Outros problemas em referências:**
-```
-sdbr05-012:
-    refs: concatenadas (verificar)
-
-sdbr05-049:
-    refs: lixo misturado (notas de rodapé, legendas)
-```
-
-**Campos faltantes (resumo, keywords, abstract):**
-```
-sdbr05-045:
-    abstract_en: falta (tem no PDF)
-
-sdbr05-010:
-    keywords_en: falta
-```
-
----
-
-## Fase 4 — Aplicar correções da revisão humana
-
-**REGRA**: O arquivo de revisão (`revisao/{slug}-rev.md`) é uma lista de instruções. O Claude deve executar **todos** os itens da lista, sem exceção. Não executar metade. Não pular itens. Não misturar com outras tarefas.
-
-**Procedimento obrigatório:**
-
-1. **Ler o arquivo inteiro** antes de começar qualquer correção
-2. **Listar todos os itens** encontrados (ex: "12 itens: sdbr05-003, 010, 015, 016, 019, 020, 028, 030, 031, 039, 043, ...")
-3. **Executar cada item**, na ordem em que aparece no arquivo
-4. **Verificar cada item** após execução — consultar o banco para confirmar que a correção foi aplicada
-5. **Reportar o resultado** como checklist completa, item a item, com ✅ ou ❌
-6. Só depois de todos os itens verificados: atualizar o YAML e regenerar o HTML
-
-### 4.1 Incorporar aprendizado ao dict e às regras
-
-**Executar APÓS aplicar todas as correções de títulos/subtítulos do rev.md.** Etapas concretas:
-
-**a) Verificar contradições com dict.db:**
-```python
-# Para cada correção de capitalização aplicada, verificar se o dict contradiz:
-# Palavras corrigidas para minúscula → NÃO devem estar no dict forçando maiúscula
-# Expressões corrigidas para maiúscula → DEVEM estar no dict como expressão
-import sqlite3
-db = sqlite3.connect('dict/dict.db')
-# Exemplo: se corrigiu "Modernista" → "modernista", verificar:
-db.execute("SELECT * FROM dict_names WHERE word='modernista' COLLATE NOCASE")
-# Se retornar resultado com canonical maiúsculo → REMOVER do dict
-```
-
-**b) Atualizar dict.db:**
-- **Remover** palavras que o dict força maiúscula mas que são genéricas (ex: `modernista`, `obra`, `jardim`)
-- **Adicionar expressões** confirmadas como nomes próprios compostos (ex: `Assembleia Legislativa`, `Mercado Central`, `Conjunto Habitacional`)
-- **Adicionar nomes** próprios novos encontrados nos títulos (ex: `Nordschild`)
-
-**c) Atualizar MEMORY.md** (seção "Padrões de capitalização confirmados"):
-- Adicionar novos padrões confirmados pela revisão
-
-**d) Verificar backfills em referências:**
-- Se algum backfill manual usou sintaxe que `clean_references.py` não detectou, corrigir o regex e documentar na tabela de sintaxes da Fase 3.
-
-**e) Dump do dict:**
-```bash
-python3 dict/dump_db.py
-```
-
-**O que NÃO fazer:**
-- Não buscar outros problemas enquanto executa a lista — isso é trabalho da Fase 1, não da Fase 4
-- Não aplicar metade dos itens e perguntar ao usuário se pode continuar
-- Não misturar itens da lista com correções que o Claude encontrou por conta própria
-
----
-
-## Fase 5 — Fechar revisão
-
-### 5.1 Pipeline final
-
-```bash
-python3 scripts/clean_references.py --slug {slug}
-python3 scripts/check_references.py --slug {slug} --summary
-```
-
-Resultado esperado: 0 problemas (ou apenas problemas aceitos conscientemente).
-
-### 5.2 Regenerar HTML (verificação opcional)
-
-```bash
-python3 scripts/gerar_revisao_html.py {slug}
-```
-
-O usuário pode dar uma olhada rápida para confirmar que as correções foram aplicadas.
-
-### 5.3 Alimentar dicionário (aprendizado)
-
-Incorporar ao `dict.db` os nomes próprios e padrões descobertos durante a revisão:
-
-```bash
-# Nomes de autores novos
-python3 dict/seed_authors.py
-
-# Nomes próprios dos títulos (edifícios, lugares, obras)
-python3 dict/seed_titles.py --apply
-
-# Dump do dicionário
-python3 dict/dump_db.py
-```
-
-Se a revisão humana revelou expressões consolidadas novas (ex: "Vila Operária" como nome próprio) ou exceções de capitalização, adicioná-las manualmente ao `dict.db`. Registrar padrões confirmados na memória do projeto (`MEMORY.md`) para referência futura.
-
-### 5.4 Atualizar status
-
-- Adicionar seminário à tabela de revisados em `CLAUDE.md` e neste documento
-- Atualizar memória do projeto com padrões confirmados
-
-### 5.5 Dump, commit e push
-
-```bash
-python3 scripts/dump_anais_db.py
-git add anais.sql CLAUDE.md
-git commit -m "Revisão {slug}: N títulos, N refs, N resumos corrigidos"
-git push
-```
+**Próximo passo:** Executar o [pipeline de revisão humana](pipeline_revisao_humana.md).
 
 ---
 
@@ -769,7 +581,7 @@ Para não bloquear a publicação pelo esforço de revisão dos seminários mais
 2. **Onda 2** — Seminários com lacunas pontuais (589 artigos, 11 seminários): extrair campos faltantes dos PDFs + revisão humana. Publicar.
 3. **Onda 3** — Seminários problemáticos (611 artigos, 10 seminários): extração extensiva, possivelmente com GROBID ou LLM para referências. Publicar.
 
-Cada onda segue o mesmo fluxo (Fases 1-5). Os seminários já revisados (sdbr01-04) e os nacionais já publicados no OJS não entram no pipeline.
+Cada onda segue o mesmo fluxo (Fases 0-2 automáticas + Fases 3-5 humanas). Os seminários já revisados (sdbr01-07) e os nacionais já publicados no OJS não entram no pipeline.
 
 ---
 
@@ -804,10 +616,11 @@ Esse fluxo em 3 passos é mais rápido que delegar tudo a um agente e esperar el
 | Comando | Fase | Função |
 |---------|------|--------|
 | `scripts/extrair_metadados_en.py --slug {slug}` | 0.6 | Extrair title_en, subtitle_en, abstract_en, keywords_en |
+| `scripts/validar_abstracts.py --slug {slug}` | 0.5 | Validar abstracts (9 regras heurísticas) |
+| `scripts/validar_abstracts.py --slug {slug} --fix-swap` | 0.5 | Corrigir swaps abstract PT↔EN |
 | `dict/seed_authors.py` + `seed_titles.py --apply` + `dump_db.py` | 1.1a | Alimentar dicionário |
 | `scripts/normalizar_maiusculas.py --slug {slug}` | 1.1a | Normalizar títulos PT |
 | `scripts/normalizar_titulos_en.py --slug {slug}` | 1.1b | Normalizar títulos EN (Title Case) |
 | `scripts/clean_references.py --slug {slug}` | 1.2 | Limpar referências |
 | `scripts/check_references.py --slug {slug} --summary` | 1.2 | Verificar referências |
 | `scripts/gerar_revisao_html.py {slug}` | 2 | Gerar HTML de revisão |
-| `scripts/dump_anais_db.py` | 5.4 | Dump do banco |

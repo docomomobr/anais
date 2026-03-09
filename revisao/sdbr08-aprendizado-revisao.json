@@ -1,0 +1,76 @@
+{
+  "seminario": "sdbr08",
+  "data_revisao": "2026-03-08/2026-03-09",
+  "total_itens": 84,
+  "erros_sistematicos": [
+    {
+      "categoria": "SWAP_PT_EN",
+      "quantidade": 10,
+      "artigos": ["sdbr08-062", "sdbr08-082", "sdbr08-112", "sdbr08-132", "sdbr08-142", "sdbr08-151", "sdbr08-162", "sdbr08-170", "sdbr08-173", "sdbr08-174"],
+      "causa_raiz": "extrator confundiu idioma quando abstract vem depois de seção EN no PDF",
+      "validacao_adicionada": "langdetect no abstract vs locale do artigo (validar_abstracts.py)"
+    },
+    {
+      "categoria": "ABSTRACT_GARBAGE",
+      "quantidade": 7,
+      "artigos": ["sdbr08-050", "sdbr08-070", "sdbr08-088", "sdbr08-093", "sdbr08-104", "sdbr08-107", "sdbr08-184"],
+      "causa_raiz": "extrator pegou trecho do corpo do artigo em vez do abstract real (geralmente na p.1 em vez da p.2)",
+      "validacao_adicionada": "MISSING_PATTERN em validar_abstracts.py detecta ausência"
+    },
+    {
+      "categoria": "ABSTRACT_NOT_EXTRACTED",
+      "quantidade": 6,
+      "artigos": ["sdbr08-039", "sdbr08-075", "sdbr08-123", "sdbr08-153", "sdbr08-159", "sdbr08-169"],
+      "causa_raiz": "abstract_en existia no PDF (p.2 ou p.3) mas não foi extraído",
+      "validacao_adicionada": "nenhuma (depende de re-extração manual)"
+    },
+    {
+      "categoria": "TITLE_IN_ABSTRACT",
+      "quantidade": 2,
+      "artigos": ["sdbr08-013"],
+      "causa_raiz": "título repetido no início do abstract e abstract_en",
+      "validacao_adicionada": "TITLE_IN_ABSTRACT em validar_abstracts.py"
+    },
+    {
+      "categoria": "REFS_FROM_FOOTNOTES",
+      "quantidade": 3,
+      "artigos": ["sdbr08-014", "sdbr08-150", "sdbr08-180"],
+      "causa_raiz": "extrator capturou notas de rodapé em vez da bibliografia formal",
+      "validacao_adicionada": "nenhuma (depende de re-extração manual)"
+    },
+    {
+      "categoria": "REFS_BODY_CONTENT",
+      "quantidade": 1,
+      "artigos": ["sdbr08-138"],
+      "causa_raiz": "extrator incluiu conteúdo do artigo (ementas de disciplina) como referências",
+      "validacao_adicionada": "nenhuma (caso raro)"
+    },
+    {
+      "categoria": "REFS_COLLAPSED",
+      "quantidade": 2,
+      "artigos": ["sdbr08-088", "sdbr08-169"],
+      "causa_raiz": "referências colapsadas numa só entrada por falta de separador no texto fonte",
+      "validacao_adicionada": "nenhuma (depende de re-extração manual)"
+    },
+    {
+      "categoria": "AUTHOR_MISSING",
+      "quantidade": 3,
+      "artigos": ["sdbr08-018", "sdbr08-134", "sdbr08-145"],
+      "causa_raiz": "PDFs submetidos sem nome do autor no texto; identificados via DVD XML e metadados PDF",
+      "validacao_adicionada": "nenhuma (caso raro, específico do sistema de submissão)"
+    }
+  ],
+  "regras_capitalizacao": [
+    {
+      "expressao": "Conjunto Pedregulho",
+      "regra": "nome próprio de conjunto habitacional",
+      "adicionado_ao_dict": true
+    }
+  ],
+  "padroes_confirmados": [
+    "sdbr08 tem ~10% de artigos com abstract PT/EN trocados (SWAP_PT_EN) — maior taxa entre os seminários",
+    "Artigos de pesquisadores portugueses (pt-PT) frequentemente não incluem abstract",
+    "Abstracts na p.2 do PDF não são capturados pelo extrator padrão",
+    "80 correções de capitalização aplicadas via sdbr08-titulos-aprendizado.json"
+  ]
+}

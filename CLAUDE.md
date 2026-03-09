@@ -22,6 +22,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr05 | 56 | ✅ revisado | 2026-02-28 |
 | sdbr06 | 63 | ✅ revisado | 2026-03-01 |
 | sdbr07 | 62 | ✅ revisado | 2026-03-02 |
+| sdbr08 | 188 | ✅ revisado | 2026-03-09 |
 
 ---
 
@@ -127,6 +128,10 @@ Credenciais em `.credentials` (gitignored). Resumo dos serviços:
 | `scripts/gerar_revisao_html.py` | HTML de revisão por seminário: capa, ficha, artigos por seção. `python3 scripts/gerar_revisao_html.py SLUG` → `/tmp/revisao-SLUG.html` |
 
 Pipeline de tratamento (novos seminários): ver [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md).
+
+Pipeline de revisão automática (diagnóstico, normalização, extração): ver [`docs/pipeline_revisao.md`](docs/pipeline_revisao.md).
+
+Pipeline de revisão humana (correções manuais, log, fechamento): ver [`docs/pipeline_revisao_humana.md`](docs/pipeline_revisao_humana.md).
 
 Pipeline de produção (Hugo + Zenodo): ver [`docs/pipeline_producao.md`](docs/pipeline_producao.md).
 
