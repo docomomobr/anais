@@ -272,65 +272,83 @@ Se a revisão humana revelou expressões consolidadas novas (ex: "Vila Operária
 
 ### 5.4 Incorporar aprendizado da revisão humana
 
-A revisão humana identifica erros **sistemáticos** que podem ser detectados e corrigidos automaticamente nos próximos seminários. Esta fase captura esses padrões e os transforma em validações para o [pipeline automático](pipeline_revisao.md).
+A revisão humana identifica erros que se repetem. O aprendizado só existe se resultar em **alteração concreta**: entrada no dict, regra no script, ou instrução documentada. Documentar sem alterar nada não é aprendizado.
 
-**Passo 1 — Categorizar erros da revisão:**
+**Passo 1 — Atualizar dict.db com as correções de capitalização:**
 
-Parsear o arquivo de revisão (`revisao/{slug}-rev.md`) e classificar cada correção numa categoria:
+Analisar o arquivo `revisao/{slug}-titulos-aprendizado.json` (ou as correções manuais da Fase 4) e classificar cada correção:
 
-| Categoria | Exemplo | Validação automática |
-|-----------|---------|---------------------|
-| `SWAP_PT_EN` | abstract PT preenchido com texto EN | `langdetect(abstract)` ≠ locale |
-| `KW_EN_NO_ABSTRACT` | keywords_en sem abstract_en | campo cruzado |
-| `ABSTRACT_GARBAGE` | abstract é trecho do corpo | comparar com fontes/ |
-| `ABSTRACT_NOT_EXTRACTED` | abstract existe no PDF mas não foi extraído | padrão ≥70% + campo vazio |
-| `TITLE_IN_ABSTRACT` | título repetido no início do abstract | comparação de strings |
-| `TRUNCATED` | abstract termina sem pontuação | regex fim de frase |
-| `KW_LEAKED` | keywords vazaram para o abstract | regex marcadores |
-| `CONTROL_CHARS` | caracteres de controle no texto | regex [\x00-\x1f] |
-| `EN_IS_PT` | abstract_en está em português | langdetect |
-
-**Passo 2 — Rodar validação automática:**
+| Tipo | Ação no dict.db | Exemplo |
+|------|----------------|---------|
+| Palavra genérica forçando maiúscula | **REMOVER** do dict | `obra`, `restauração`, `tradição` |
+| Gentílico/adjetivo forçando maiúscula | **REMOVER** do dict | `carioca`, `metropolitana` |
+| Nome próprio faltando | **ADICIONAR** ao dict | `Bienal`, `Esplanada`, `Centenário` |
+| Expressão consolidada faltando | **ADICIONAR** como expressão | `Centro Administrativo`, `Base Naval` |
 
 ```bash
-# Verificar problemas residuais no seminário atual
-python3 scripts/validar_abstracts.py --slug {slug} --summary
+# Verificar contradições: palavras corrigidas p/ minúscula que estão no dict
+python3 -c "
+import sqlite3
+conn = sqlite3.connect('dict/dict.db')
+# Listar palavras genéricas que seed_titles inseriu indevidamente
+for row in conn.execute(\"\"\"
+    SELECT word, category, source FROM dict_names
+    WHERE source = 'titulos' ORDER BY word
+\"\"\"):
+    print(f'{row[0]} ({row[1]}/{row[2]})')
+"
 
-# Verificar todos os seminários (visão geral)
-python3 scripts/validar_abstracts.py --summary
+# Após remover/adicionar:
+python3 dict/dump_db.py
 ```
 
-**Passo 3 — Salvar aprendizado estruturado:**
+**Critério de remoção**: se a revisão humana corrigiu uma palavra para minúscula em ≥2 artigos, e a palavra não é nome próprio, remover do dict.
+
+**Critério de adição**: se a revisão humana corrigiu uma palavra para maiúscula, e é nome de edifício, instituição, evento ou lugar, adicionar ao dict.
+
+**Passo 2 — Atualizar scripts de validação:**
+
+Se um tipo de erro apareceu em ≥3 artigos e **não** é coberto pelo `validar_abstracts.py`, adicionar a regra ao script.
+
+Categorias conhecidas (detectadas por `validar_abstracts.py`):
+
+| Categoria | Detecção |
+|-----------|----------|
+| `SWAP_PT_EN` | `langdetect(abstract)` ≠ locale |
+| `KW_EN_NO_ABSTRACT` | keywords_en sem abstract_en |
+| `TITLE_IN_ABSTRACT` | título repetido no início do abstract |
+| `TRUNCATED` | abstract termina sem pontuação |
+| `KW_LEAKED` | keywords vazaram para o abstract |
+| `CONTROL_CHARS` | caracteres de controle |
+| `EN_IS_PT` | abstract_en em português |
+| `MISSING_PATTERN` | abstract ausente quando ≥70% do seminário tem |
+
+```bash
+python3 scripts/validar_abstracts.py --slug {slug} --summary
+```
+
+**Passo 3 — Atualizar MEMORY.md:**
+
+Registrar na seção "Padrões de capitalização confirmados" apenas padrões **novos** que resultaram em alteração do dict ou dos scripts. Não registrar o que já está documentado.
+
+**Passo 4 — Salvar registro do aprendizado:**
 
 Arquivo: `revisao/{slug}-aprendizado-revisao.json`
 
+Registrar **apenas as ações concretas realizadas** (não os problemas encontrados — isso já está no `{slug}-rev-status.md`):
+
 ```json
 {
-  "erros_sistematicos": [
-    {
-      "categoria": "SWAP_PT_EN",
-      "quantidade": 14,
-      "causa_raiz": "extrator confundiu idioma quando abstract vem depois de seção EN",
-      "validacao_adicionada": "langdetect no abstract vs locale do artigo"
-    }
-  ],
-  "regras_capitalizacao": [
-    {
-      "expressao": "Praça [nome]",
-      "regra": "maiúscula como logradouro",
-      "adicionado_ao_dict": true
-    }
-  ],
+  "dict_removals": ["obra", "restauração", "tradição"],
+  "dict_additions": ["Bienal", "Esplanada", "Centenário"],
+  "scripts_alterados": ["validar_abstracts.py"],
+  "scripts_criados": [],
   "padroes_confirmados": [
     "'Arquitetura Moderna' sempre maiúscula como conceito",
     "'arquitetura moderna de [cidade]' descritiva → minúscula"
   ]
 }
 ```
-
-**Passo 4 — Atualizar validações para próximos seminários:**
-
-Se uma categoria apareceu em ≥3 artigos e **não** é coberta pelo script `validar_abstracts.py`, adicionar a regra ao script. O objetivo é que cada revisão humana gere pelo menos uma melhoria no pipeline automático.
 
 ### 5.5 Atualizar status
 
