@@ -278,7 +278,10 @@ a {{ color: #336; }}
   font-size: 0.95em; color: #555; font-style: italic; margin: 0 0 0.3em 0;
 }}
 .article-title-en {{
-  font-size: 0.9em; color: #666; margin: 0.1em 0;
+  font-size: 0.9em; color: #666; margin: 0.2em 0 0;
+}}
+.article-subtitle-en {{
+  font-size: 0.85em; color: #888; font-style: italic; margin: 0 0 0.2em 0;
 }}
 
 /* ── Fields ── */
@@ -437,10 +440,15 @@ for sec_title, sec_articles in section_map.items():
 
         # Title EN / Subtitle EN
         if art['title_en']:
-            en_title = e(art['title_en'])
+            lines.append(f'<div class="article-title-en">[EN] {e(art["title_en"])}</div>')
             if art['subtitle_en']:
-                en_title += f': {e(art["subtitle_en"])}'
-            lines.append(f'<div class="article-title-en">[EN] {en_title}</div>')
+                lines.append(f'<div class="article-subtitle-en">{e(art["subtitle_en"])}</div>')
+
+        # Title ES / Subtitle ES
+        if art['title_es']:
+            lines.append(f'<div class="article-title-en">[ES] {e(art["title_es"])}</div>')
+            if art['subtitle_es']:
+                lines.append(f'<div class="article-subtitle-en">{e(art["subtitle_es"])}</div>')
 
         # Authors
         authors = conn.execute('''
@@ -499,6 +507,16 @@ for sec_title, sec_articles in section_map.items():
         kw_en = fmt_keywords(art['keywords_en'])
         if kw_en:
             lines.append(f'<div class="field"><span class="label">Keywords</span> <span class="keywords">{e(kw_en)}</span></div>')
+
+        # Abstract ES
+        if art['abstract_es']:
+            lines.append('<div class="field"><span class="label">Resumen</span></div>')
+            lines.append(f'<div class="abstract abstract-es">{e(art["abstract_es"])}</div>')
+
+        # Keywords ES
+        kw_es = fmt_keywords(art['keywords_es'])
+        if kw_es:
+            lines.append(f'<div class="field"><span class="label">Palabras clave</span> <span class="keywords">{e(kw_es)}</span></div>')
 
         # References
         refs_html = fmt_refs(art['references_'])

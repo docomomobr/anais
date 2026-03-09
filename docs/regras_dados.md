@@ -127,6 +127,73 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 - Da mesma forma, "Moderna/Moderno" deve acompanhar a capitalização de "Arquitetura/Urbanismo": "Arquitetura Moderna" (não "Arquitetura moderna"), "Urbanismo Moderno" (não "Urbanismo moderno").
 - "Modernidade" substantivado (como período ou conceito histórico) leva maiúscula: "a Modernidade brasileira", "imagens da Modernidade paulistana". Quando usado como qualidade abstrata genérica, minúscula: "a modernidade do projeto".
 
+### Capitalização em inglês (title case)
+
+Referência: Chicago Manual of Style / APA Style.
+
+Títulos em inglês (`title_en`, `subtitle_en`) seguem **Title Case**: todas as palavras em maiúscula, exceto palavras funcionais curtas.
+
+**Palavras em minúscula** (exceto se forem a primeira ou última do título):
+- Artigos: a, an, the
+- Preposições curtas (≤4 letras): in, of, at, by, to, for, with, on, up, as
+- Conjunções coordenativas: and, but, or, nor, for, so, yet
+
+**Sempre maiúscula:**
+- Primeira e última palavra do título ou subtítulo
+- Primeira palavra após `: ` ou ` — `
+- Verbos (incluindo curtos: Is, Be, Are, Was, Has, Do)
+- Substantivos, adjetivos, advérbios, pronomes
+
+**Preservar casing original:**
+- Siglas/acrônimos: IPHAN, UNESCO, CIAM, FAU-USP
+- Nomes próprios: Brasília, Niemeyer, Le Corbusier
+
+Exemplos:
+- `MODERN ARCHITECTURE IN BRAZIL` → `Modern Architecture in Brazil`
+- `THE ROLE OF IPHAN IN HERITAGE PRESERVATION` → `The Role of IPHAN in Heritage Preservation`
+- `BETWEEN TRADITION AND MODERNITY: a case study` → `Between Tradition and Modernity: A Case Study`
+
+### Capitalização em espanhol (norma RAE)
+
+Referência: Real Academia Española (RAE), *Ortografía de la lengua española* (2010), § 4.2.4.
+
+Títulos em espanhol (`title_es`, `subtitle_es`) seguem **sentence case** (oración): apenas a primeira palavra e nomes próprios em maiúscula. A norma é idêntica à do português para títulos de artigos.
+
+**Regras gerais:**
+- **Primeira palavra** do título: maiúscula
+- **Subtítulo** (após `: ` ou ` — `): primeira letra minúscula (exceto nome próprio)
+- **Nomes próprios**: maiúscula (Brasil, Brasilia, Niemeyer, São Paulo, Le Corbusier)
+- **Demais palavras**: minúscula
+
+**Diferenças do português — o espanhol NÃO capitaliza:**
+
+| Categoria | Português | Espanhol | Exemplo ES |
+|-----------|-----------|----------|------------|
+| Disciplinas/áreas do saber | Arquitectura, Urbanismo | arquitectura, urbanismo | "La arquitectura moderna en Brasil" |
+| Meses e dias da semana | (já minúscula) | minúscula | enero, lunes |
+| Gentílicos/adjetivos pátrios | minúscula (isolado) | minúscula | brasileño, argentino, español |
+| Siglas | MAIÚSCULA | MAIÚSCULA | IPHAN, UNESCO, CIAM |
+| Movimentos artísticos | Maiúscula (Modernismo) | minúscula | modernismo, brutalismo |
+
+**Exceções — maiúscula em espanhol:**
+- **Nomes próprios de lugares**: Brasil, La Habana, Ciudad de México, Buenos Aires
+- **Nomes de instituições**: Universidad de São Paulo, Ministerio de Cultura
+- **Nomes de obras/edifícios** (como entidade): Palacio de Cristal, Edificio Copan
+- **Siglas**: IPHAN, UNESCO, DOCOMOMO, CIAM
+- **Séculos** (algarismos romanos): XX, XXI
+
+**Expressões consolidadas — diferença importante:**
+- Em português, "Arquitetura Moderna", "Movimento Moderno", "Patrimônio Cultural" são expressões consolidadas capitalizadas.
+- Em espanhol, segundo a RAE, essas expressões **não são capitalizadas**: "arquitectura moderna", "movimiento moderno", "patrimonio cultural".
+- Exceção pragmática: em contexto acadêmico Docomomo, pode-se aceitar "Arquitectura Moderna" e "Movimiento Moderno" como expressões consagradas, desde que haja consistência interna no corpus. O padrão default para normalização automática é **sentence case RAE** (minúscula).
+
+Exemplos:
+- `ARQUITECTURA MODERNA EN BRASIL` → `Arquitectura moderna en Brasil`
+- `PATRIMONIO Y MODERNIDAD: UN ESTUDIO DE CASO` → `Patrimonio y modernidad: un estudio de caso`
+- `EL MOVIMIENTO MODERNO EN BUENOS AIRES` → `El movimiento moderno en Buenos Aires`
+- `LA OBRA DE NIEMEYER EN BRASILIA` → `La obra de Niemeyer en Brasilia`
+- `DOCUMENTACIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL` → `Documentación y conservación del patrimonio cultural`
+
 ---
 
 ## Regras de limpeza de dados
