@@ -762,12 +762,15 @@ def check_abstract_en_in_abstract(article):
 
 
 # Regex para detectar keywords coladas no final de qualquer abstract (pré-compilado)
+# Exige ":" após o marcador para evitar falsos positivos com "Keywords are..." no texto
 _KW_TAIL_PATTERNS = [
-    re.compile(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:?\s+\S', re.IGNORECASE),
-    re.compile(r'\s*Keywords?\s*:?\s+\S', re.IGNORECASE),
-    re.compile(r'\s*Key[\s-]*[Ww]ords?\s*:?\s+\S', re.IGNORECASE),
-    re.compile(r'\s*Palabras[\s-]*[Cc]laves?\s*:?\s+\S', re.IGNORECASE),
-    re.compile(r'\s*PALAVRAS[\s-]*CHAVE', re.IGNORECASE),
+    re.compile(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:\s*\S', re.IGNORECASE),
+    re.compile(r'\s*Keywords?\s*:\s*\S', re.IGNORECASE),
+    re.compile(r'\s*Key[\s-]*[Ww]ords?\s*:\s*\S', re.IGNORECASE),
+    re.compile(r'\s*Palabras[\s-]*[Cc]laves?\s*:\s*\S', re.IGNORECASE),
+    # Variante sem ":" mas com palavra seguinte em maiúscula (lista de keywords)
+    re.compile(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇÑ]', re.IGNORECASE),
+    re.compile(r'\s*Keywords?\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇÑ]'),  # Sem IGNORECASE: "Keywords" com K maiúsculo
 ]
 
 
