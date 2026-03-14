@@ -451,7 +451,8 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
    - **Todo o resto → minúscula** (obra, norte/sul como direção, ensino, conservação, tombamento, apartamento, imaginário, intervenção, escolar, edificado, brutalista como adjetivo isolado...)
 3. Para **cada palavra com minúscula** que deveria ser maiúscula: perguntar "deveria ser maiúscula?"
    - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris) → **corrigir**
-4. Verificar typos (preservaçâo → preservação)
+4. Para **cada subtítulo**: verificar que começa com **minúscula** (exceto nome próprio, sigla). "Elementos iniciais..." → "elementos iniciais..."
+5. Verificar typos (preservaçâo → preservação)
 5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
 6. Registrar todas as correções e aprendizados no `revisao/{slug}-titulos-aprendizado.json`
 
