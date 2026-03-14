@@ -801,6 +801,8 @@ For each article:
 - **Header**: entrada que é nome de seção ("Livros", "Revistas e Periódicos") → remover
 - **Backfill em-dash**: `—.` ou `–.` entre refs = mesmo autor, obra diferente → separar e prepor o autor
 
+**REGRA ABSOLUTA**: Nunca aceitar campo vazio como "genuinamente ausente" sem abrir o PDF/docx original e confirmar visualmente. Se o docx não tem, abrir o PDF. Se o PDF não tem, aí sim é ausente.
+
 **REGRA ABSOLUTA**: A 1.2c **corrige** — não apenas relata. Se identificou um problema, **corrige na hora** e grava no banco. Relatório sem correção = etapa não executada. Cada problema identificado deve ter uma ação correspondente (cortar, juntar, separar, remover). Se não sabe como corrigir, perguntar ao usuário — não pular.
 
 **REGRA**: Revisar **todos** os artigos, sem exceção. Não pular artigos por parecerem limpos. A revisão é exaustiva.
