@@ -724,8 +724,8 @@ def check_abstract_en_in_abstract(article):
         # Também verificar "Abstract:" standalone
         pass
     else:
-        # Tentar "Abstract:" como boundary
-        m = re.search(r'\s+Abstract\s*:\s+', text)
+        # Tentar "Abstract" (com ou sem ":") como boundary
+        m = re.search(r'\s+Abstract\s*:?\s+(?:The|This|In\s+this)\s', text, re.IGNORECASE)
         if m and m.start() > 100:
             pass
         else:
@@ -733,7 +733,7 @@ def check_abstract_en_in_abstract(article):
 
     # Verificar "Palavras-chave:" no meio (indica boundary PT keywords → EN)
     if not m:
-        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015‐-]*[Cc]have\s*:', text)
+        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015‐-]*[Cc]haves?\s*:', text)
         if kw_m and kw_m.start() > 100:
             after_kw = text[kw_m.end():]
             en_m = re.search(r'(?:Abstract\s*:?\s*)?(?:The\s+|This\s+|In\s+this\s+)', after_kw, re.IGNORECASE)
