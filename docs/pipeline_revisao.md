@@ -217,7 +217,10 @@ find nacionais/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.rtf" -
 # Se existem .docx: ler diretamente com python-docx (preserva estilos)
 # Se existem .doc: converter para .docx primeiro
 #   soffice --headless --convert-to docx --outdir nacionais/{slug}/fontes_doc/ "{arquivo}.doc"
-# Depois: mapear os nomes dos .docx para os IDs dos artigos (cruzar por autor/título)
+# Mapear nomes dos .docx para IDs dos artigos:
+#   - O YAML pode ter campo source_file com o nome do arquivo original
+#   - Se não tem, cruzar por autor (familyname no nome do arquivo) ou título
+#   - Registrar o mapeamento no YAML (campo source_file) para reuso futuro
 
 # 2. SE NÃO existem doc/docx: extrair com pdfplumber
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only  # calibrar
