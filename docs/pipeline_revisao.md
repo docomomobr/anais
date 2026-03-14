@@ -440,9 +440,24 @@ python3 scripts/normalizar_maiusculas.py --slug {slug} --dry-run
 python3 scripts/normalizar_maiusculas.py --slug {slug}
 ```
 
-**Verificação com LLM — OBRIGATÓRIA:** Após a normalização automática, o Claude **lê cada título e subtítulo** e julga se cada palavra maiúscula tem razão de ser. Não basta verificar ALL CAPS, encoding e truncamento — o LLM deve identificar palavras comuns que o dict.db forçou maiúscula indevidamente (ex: "Obra", "Norte", "Mar", "Campo"). Para cada erro encontrado: corrigir no banco E remover a entrada falsa do dict.db.
+**Verificação com LLM — OBRIGATÓRIA:** Após a normalização automática, o Claude **lista todos os títulos e subtítulos** e analisa **cada palavra** de cada um. Procedimento concreto:
 
-Detecções específicas:
+1. Rodar `SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id` e imprimir a lista completa
+2. Para **cada palavra com maiúscula** (exceto a primeira do título): perguntar "por que está maiúscula?"
+   - Nome próprio de pessoa, edifício, instituição, cidade, país → **manter**
+   - Nome de revista, periódico, evento → **manter**
+   - Expressão consolidada (Arquitetura Moderna, Movimento Moderno, Educação Patrimonial) → **manter**
+   - Sigla (SUDENE, IPHAN, GT) → **manter**
+   - **Todo o resto → minúscula** (obra, norte/sul como direção, ensino, conservação, tombamento, apartamento, imaginário, intervenção, escolar, edificado, brutalista como adjetivo isolado...)
+3. Para **cada palavra com minúscula** que deveria ser maiúscula: perguntar "deveria ser maiúscula?"
+   - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris) → **corrigir**
+4. Verificar typos (preservaçâo → preservação)
+5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
+6. Registrar todas as correções e aprendizados no `revisao/{slug}-titulos-aprendizado.json`
+
+**Não usar heurísticas para esta etapa.** Ler cada título com os olhos, não com regex.
+
+Detecções adicionais:
 - Nomes próprios de edifícios/lugares que ficaram em minúscula
 - Termos genéricos que ficaram em maiúscula indevida
 - Subtítulos que deveriam começar com minúscula (ou vice-versa)
