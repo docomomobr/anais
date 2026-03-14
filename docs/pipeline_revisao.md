@@ -711,11 +711,16 @@ For each article:
 - **Header**: entrada que é nome de seção ("Livros", "Revistas e Periódicos") → remover
 - **Backfill em-dash**: `—.` ou `–.` entre refs = mesmo autor, obra diferente → separar e prepor o autor
 
+**REGRA ABSOLUTA**: A 1.2c **corrige** — não apenas relata. Se identificou um problema, **corrige na hora** e grava no banco. Relatório sem correção = etapa não executada. Cada problema identificado deve ter uma ação correspondente (cortar, juntar, separar, remover). Se não sabe como corrigir, perguntar ao usuário — não pular.
+
+**REGRA**: Revisar **todos** os artigos com refs, sem exceção. Não pular artigos por terem "poucas" refs ou parecerem limpos. A revisão é exaustiva.
+
 **Relatório final**: o agente deve produzir:
-1. Lista de artigos modificados com contagem antes/depois
-2. Estatísticas por tipo de erro (concatenação, split, nota, junk)
+1. Lista de **todos** os artigos modificados com contagem antes/depois
+2. Estatísticas por tipo de correção (concatenação, split, nota cortada, junk removido, backfill resolvido)
 3. **Para cada artigo onde cortou notas**: indicar o ponto de corte (ref N → nota N+1)
-4. Análise de padrões: erros que se repetem → candidatos a nova heurística
+4. Lista de artigos revisados **sem problemas** (confirma que foram verificados)
+5. Análise de padrões: erros que se repetem → candidatos a nova heurística
 
 **Retroalimentação do pipeline**: após a revisão LLM, analisar os padrões de erro encontrados e implementar novas heurísticas no sweep para evitar os mesmos problemas nos seminários seguintes. Testar as melhorias em outro seminário (não no que acabou de ser revisado).
 
