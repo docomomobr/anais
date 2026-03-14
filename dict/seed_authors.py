@@ -13,6 +13,17 @@ Uso:
 
 import argparse
 import os
+
+# Sobrenomes que são também palavras comuns em português — NÃO adicionar ao dict.
+# Forçariam maiúscula indevida em títulos ("a costa lusitana" → "a Costa lusitana").
+# Como sobrenomes são reconhecidos pelo contexto ABNT (ALL CAPS), não precisam do dict.
+EXCLUDE_COMMON_WORDS = {
+    'anjos', 'campos', 'carneiro', 'carvalho', 'castelo', 'coelho', 'cordeiro',
+    'costa', 'cruz', 'duarte', 'ferreira', 'flores', 'guerra', 'lago', 'leite',
+    'lima', 'lobos', 'luz', 'mar', 'mata', 'mello', 'monteiro', 'moreira', 'norte',
+    'obra', 'obras', 'pedra', 'pereira', 'pinto', 'ponte', 'reis', 'rio', 'rocha',
+    'rosa', 'santos', 'serra', 'silva', 'vale',
+}
 import re
 import sqlite3
 import unicodedata
@@ -89,6 +100,8 @@ def seed(source_db, table='authors', gn_col='givenname', fn_col='familyname'):
 
     added = 0
     for word, canonical in sorted(all_parts):
+        if word in EXCLUDE_COMMON_WORDS:
+            continue
         if word not in existing:
             dict_conn.execute(
                 'INSERT INTO dict_names (word, category, canonical, source) '
