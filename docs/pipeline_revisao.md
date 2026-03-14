@@ -220,7 +220,15 @@ find nacionais/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.rtf" -
 # Mapear nomes dos .docx para IDs dos artigos:
 #   - O YAML pode ter campo source_file com o nome do arquivo original
 #   - Se não tem, cruzar por autor (familyname no nome do arquivo) ou título
+#   - VALIDAR o mapeamento: abrir o docx e confirmar que o título do artigo
+#     corresponde ao título no banco. Se dois docx mapeiam para o mesmo autor,
+#     usar o título para desambiguar. NUNCA substituir dados sem confirmar.
 #   - Registrar o mapeamento no YAML (campo source_file) para reuso futuro
+#
+# REGRA: Ao substituir refs de um artigo por dados de outra fonte (docx, plumber),
+#   SEMPRE comparar o conteúdo antes de sobrescrever. Se a fonte nova tem MENOS
+#   refs que o banco, investigar — pode ser extração incompleta. Não sobrescrever
+#   cegamente.
 
 # 2. SE NÃO existem doc/docx: extrair com pdfplumber
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only  # calibrar
