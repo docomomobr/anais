@@ -442,8 +442,21 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 
 **Verificação com LLM — OBRIGATÓRIA:** Após a normalização automática, o Claude **lista todos os títulos e subtítulos** e analisa **cada palavra** de cada um. Procedimento concreto:
 
-1. Rodar `SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id` e imprimir a lista completa
-2. Para **cada palavra com maiúscula** (exceto a primeira do título): perguntar "por que está maiúscula?"
+1. Rodar `SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id`
+2. Processar **um artigo por vez** — NÃO em lote. Para cada artigo, imprimir título e subtítulo e escrever o julgamento de CADA palavra antes de passar ao próximo. Formato obrigatório:
+
+```
+sdbr12-041:
+  T: O Habitat moderno em São Luís do Maranhão
+  → "Habitat": conceito genérico (moradia), não revista → CORRIGIR para "habitat"
+  → "São Luís": cidade → OK
+  → "Maranhão": estado → OK
+  RESULTADO: O habitat moderno em São Luís do Maranhão
+```
+
+Se não escreveu o julgamento de cada palavra, não revisou. Pular direto para a correção sem este registro = revisão não feita.
+
+3. Para **cada palavra com maiúscula** (exceto a primeira do título): perguntar "por que está maiúscula?"
    - Nome próprio de pessoa, edifício, instituição, cidade, país → **manter**
    - Nome de revista, periódico, evento → **manter**
    - Expressão consolidada (Arquitetura Moderna, Movimento Moderno, Educação Patrimonial) → **manter**
@@ -452,7 +465,8 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 3. Para **cada palavra com minúscula** que deveria ser maiúscula: perguntar "deveria ser maiúscula?"
    - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris) → **corrigir**
 4. Para **cada subtítulo**: verificar que começa com **minúscula** (exceto nome próprio, sigla). "Elementos iniciais..." → "elementos iniciais..."
-5. Verificar typos (preservaçâo → preservação)
+5. Verificar **formatação**: hífens soltos ("1970- as" → split em título+subtítulo), travessões, dois pontos
+6. Verificar **acentuação**: São Luis → São Luís, preservaçâo → preservação
 5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
 6. **Aplicar correções escrevendo o título completo**, não por replace parcial de string. Replace parcial causa erros: falha silenciosamente ("a Obra" ≠ "A Obra"), ou rebaixa a primeira palavra do título para minúscula. Escrever o título inteiro garante que o resultado é o correto.
 7. **Após aplicar, reler o título corrigido** para confirmar. A primeira palavra do título é SEMPRE maiúscula.
