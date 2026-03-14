@@ -390,6 +390,24 @@ def split_concatenated_refs(ref_text):
     Retorna lista de partes (1 elemento = não separou).
     Aceita ABNT (SOBRENOME, Nome) e Chicago (Sobrenome, Nome).
     """
+    # Passo 0: backfill em-dash (—. ou –.) — mesmo autor, outra obra
+    # Ex: "Arango, Silvia. Obra 1. 2012. —. Obra 2. Bogotá, 1990."
+    # O "—." substitui o nome do autor na norma Chicago/ES.
+    emdash_parts = re.split(r'(?<=\.)\s+[—–]\.\s+', ref_text)
+    if len(emdash_parts) > 1:
+        # Extrair autor da primeira parte e prepor às demais
+        first = emdash_parts[0]
+        author = None
+        # Chicago: "Sobrenome, Nome."
+        m = re.match(r'^([A-ZÁÉÍÓÚÂÊÔÃÕÇÑa-záéíóúâêôãõç][^.]+\.)\s', first)
+        if m:
+            author = m.group(1)
+        if author:
+            result = [first]
+            for part in emdash_parts[1:]:
+                result.append(f'{author} {part}')
+            return result
+
     # Passo 1: boundary por autor ABNT (ALL CAPS) após ponto
     parts = ABNT_BOUNDARY_RE.split(ref_text)
     if len(parts) > 1:
