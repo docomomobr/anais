@@ -202,18 +202,23 @@ WHERE seminar_slug = '{slug}' AND (abstract IS NULL OR abstract = '');
 
 **REGRA: Inspecionar TODOS os artigos fora do padrão, sem exceção.** Não avançar para a Fase 0.4 nem para a Fase 1 enquanto todos os PDFs não tiverem sido inspecionados. Verificar parcialmente e prosseguir é o erro mais comum nesta etapa.
 
-**Extração de texto**: Extrair texto de TODOS os PDFs do seminário com `pdftotext` e salvar na pasta `fontes/` do seminário. Os txts ficam disponíveis para todas as etapas seguintes e para uso futuro.
+**Extração de texto**: Usar **pdfplumber** como fonte primária na fase de revisão. O pdftotext pode existir de fases anteriores (tratamento), mas **não é confiável para revisão** — não lida com colunas, fragmenta texto, mistura notas com corpo.
 
 ```bash
-mkdir -p nacionais/{slug}/fontes  # ou regionais/{grupo}/{slug}/fontes
-for pdf in nacionais/{slug}/pdfs/*.pdf; do
-  pdftotext "$pdf" "nacionais/{slug}/fontes/$(basename "$pdf" .pdf).txt" 2>/dev/null
-done
+# Extrair com pdfplumber (fonte primária para revisão)
+python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only  # calibrar
+python3 scripts/extrair_fontes_plumber.py --slug {slug}                 # extrair
+
+# pdftotext (opcional, só se fontes/ não existir de fase anterior)
+# mkdir -p nacionais/{slug}/fontes
+# for pdf in nacionais/{slug}/pdfs/*.pdf; do
+#   pdftotext "$pdf" "nacionais/{slug}/fontes/$(basename "$pdf" .pdf).txt" 2>/dev/null
+# done
 ```
 
-Para PDFs escaneados, verificar com `pdfinfo` e usar `ocrmypdf` antes do `pdftotext`.
+**REGRA**: Na fase de revisão, **sempre usar fontes_plumber/** como fonte primária. O fontes/ (pdftotext) é fallback apenas quando fontes_plumber/ não existe. Para PDFs escaneados, usar `ocrmypdf` antes de qualquer extração.
 
-Para **cada** artigo fora do padrão, buscar o campo faltante no txt extraído:
+Para **cada** artigo fora do padrão, buscar o campo faltante nos blocos do `.jsonl`:
 - **Abstract/resumo**: geralmente após o título e autores, antes das keywords
 - **Keywords**: geralmente após o abstract, marcadas com "Palavras-chave:" ou "Keywords:"
 - **Referências**: ver subetapas abaixo
@@ -261,9 +266,11 @@ Só depois de salvo o arquivo, inserir no banco. Isso garante que a extração n
 
 Só avançar quando **zero** itens ⏳ restarem.
 
-### 0.3b Extrair fontes estruturadas (pdfplumber)
+### 0.3b Extrair fontes estruturadas (pdfplumber) — OBRIGATÓRIO
 
-Após gerar os `fontes/` com `pdftotext` (0.3), extrair uma **segunda camada de fontes** com `pdfplumber`, que preserva metadados tipográficos (tamanho de fonte, bold, posição Y). Esses dados permitem distinguir automaticamente:
+**Esta etapa é obrigatória.** O `fontes_plumber/` é a **fonte primária** para toda a fase de revisão. Todas as etapas seguintes (0.5, 1.2, 1.5) devem usar fontes_plumber/ em vez de fontes/ (pdftotext).
+
+O pdfplumber preserva metadados tipográficos (tamanho de fonte, bold, posição Y), permitindo distinguir automaticamente:
 
 - **Corpo** (maior tamanho) vs **abstract/refs** (tamanho intermediário) vs **notas de rodapé** (menor tamanho)
 - **Headings** (bold, tamanho > corpo) vs **texto normal**
@@ -288,7 +295,7 @@ python3 scripts/extrair_fontes_plumber.py --slug {slug}
 - **Fase 1.2** (referências): usar blocos `reference` como fonte preferencial — já exclui notas de rodapé (`footnote`) e corpo (`body`)
 - **fix_validation_issues.py**: `find_alt_source()` consulta `fontes_plumber/` como fonte intermediária entre `fontes_doc/` e `fontes/`
 
-**IMPORTANTE:** `fontes_plumber/` é **complementar**, não substitui `fontes/` (pdftotext). O pdftotext é mais rápido e adequado para busca textual. O pdfplumber é preferido quando a **estrutura tipográfica** é relevante (delimitação de abstract, separação refs/notas).
+**IMPORTANTE:** Na fase de revisão, `fontes_plumber/` é a **fonte primária**, não complementar. O pdftotext (`fontes/`) pode existir de fases anteriores e serve como fallback, mas o pdfplumber é sempre preferido — especialmente para delimitação de abstract, separação refs/notas, e PDFs com layout em colunas.
 
 ### 0.4 Preencher lacunas no banco
 
