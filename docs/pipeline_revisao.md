@@ -466,7 +466,7 @@ Se não escreveu o julgamento de cada palavra, não revisou. Pular direto para a
    - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris) → **corrigir**
 4. Para **cada subtítulo**: verificar que começa com **minúscula** (exceto nome próprio, sigla). "Elementos iniciais..." → "elementos iniciais..."
 5. Verificar **formatação**: hífens soltos ("1970- as" → split em título+subtítulo), travessões, dois pontos
-6. Verificar **acentuação**: São Luis → São Luís, preservaçâo → preservação
+6. Verificar **typos e acentuação**: São Luis → São Luís, preservaçâo → preservação, madri → Madri
 5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
 6. **Aplicar correções escrevendo o título completo**, não por replace parcial de string. Replace parcial causa erros: falha silenciosamente ("a Obra" ≠ "A Obra"), ou rebaixa a primeira palavra do título para minúscula. Escrever o título inteiro garante que o resultado é o correto.
 7. **Após aplicar, reler o título corrigido** para confirmar. A primeira palavra do título é SEMPRE maiúscula.
