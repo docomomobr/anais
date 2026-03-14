@@ -761,6 +761,49 @@ def check_abstract_en_in_abstract(article):
     return issues
 
 
+# Regex para detectar keywords coladas no final de qualquer abstract (pré-compilado)
+_KW_TAIL_PATTERNS = [
+    re.compile(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:?\s+\S', re.IGNORECASE),
+    re.compile(r'\s*Keywords?\s*:?\s+\S', re.IGNORECASE),
+    re.compile(r'\s*Key[\s-]*[Ww]ords?\s*:?\s+\S', re.IGNORECASE),
+    re.compile(r'\s*Palabras[\s-]*[Cc]laves?\s*:?\s+\S', re.IGNORECASE),
+    re.compile(r'\s*PALAVRAS[\s-]*CHAVE', re.IGNORECASE),
+]
+
+
+def check_abstract_keywords_tail(article):
+    """A25: keywords coladas no final de qualquer abstract.
+
+    Detecta "Palavras-chave:", "Keywords:", "Palabras clave:" no final do texto
+    de abstract, abstract_en ou abstract_es. Auto-fix: corta no marcador.
+    """
+    issues = []
+    aid = article['id']
+
+    for field_name in ('abstract', 'abstract_en', 'abstract_es'):
+        text = article.get(field_name)
+        if not text or len(text) < 100:
+            continue
+
+        best_pos = None
+        for pattern in _KW_TAIL_PATTERNS:
+            m = pattern.search(text)
+            if m and m.start() > 50:
+                if best_pos is None or m.start() < best_pos:
+                    best_pos = m.start()
+
+        if best_pos is not None:
+            issues.append({
+                'check': 'A25', 'article_id': aid, 'field': field_name,
+                'severity': 'warning', 'auto_fixable': True,
+                'detail': f'{field_name}: keywords coladas no final (pos {best_pos})',
+                'suggestion': 'Cortar no marcador de keywords',
+                'fix_action': {'truncate_kw_tail': field_name, 'pos': best_pos},
+            })
+
+    return issues
+
+
 def check_abstract_truncation(article):
     """A19: abstract possivelmente truncado (não termina com pontuação de fim de frase)."""
     issues = []
@@ -869,6 +912,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_refs_body_text(article))
         issues.extend(check_abstract_en_in_abstract(article))
         issues.extend(check_bad_encoding(article))
+        issues.extend(check_abstract_keywords_tail(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -1026,6 +1070,17 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             article['abstract'] = pt_part
                             article['abstract_en'] = en_part
                             auto_fixed.append(issue)
+                elif 'truncate_kw_tail' in action:
+                    field = action['truncate_kw_tail']
+                    pos = action['pos']
+                    text = article.get(field, '')
+                    if text and pos > 50 and pos < len(text):
+                        cleaned = text[:pos].strip()
+                        if len(cleaned) > 50:
+                            cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
+                                        (cleaned, article['id']))
+                            article[field] = cleaned
+                            auto_fixed.append(issue)
 
         all_issues.extend(issues)
 
@@ -1094,6 +1149,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A22': 'body text em refs',
         'A23': 'abstract_en no abstract',
         'A24': 'encoding ruim',
+        'A25': 'keywords no abstract',
     }
 
     if not check_counts:
