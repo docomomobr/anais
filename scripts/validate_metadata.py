@@ -79,44 +79,45 @@ AFFILIATION_START = re.compile(
 # Limiar para "campo esperado" no perfil do seminário
 FIELD_THRESHOLD = 0.30  # 30%
 
+# A23: boundary abstract PT → EN (pré-compilado)
+_EN_BOUNDARY_RE = re.compile(
+    r'(?<=[.!?])\s+'
+    r'(?=(?:Abstract\s*:?\s+)?'
+    r'(?:The\s+(?:present\s+)?(?:paper|article|work|study|research)\b|'
+    r'This\s+(?:paper|article|work|study|research)\b|'
+    r'In\s+this\s+(?:paper|article|work|study)\b))',
+    re.IGNORECASE
+)
+
 
 def build_profile(cur, slug):
-    """Constrói perfil do seminário: % de preenchimento por campo."""
+    """Constrói perfil do seminário: % de preenchimento por campo. Query única."""
     cur.execute("""
-        SELECT COUNT(*) FROM articles
+        SELECT
+            COUNT(*) as total,
+            SUM(CASE WHEN abstract IS NOT NULL AND abstract != '' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN abstract_en IS NOT NULL AND abstract_en != '' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN abstract_es IS NOT NULL AND abstract_es != '' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN keywords IS NOT NULL AND keywords != '' AND keywords != '[]' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN keywords_en IS NOT NULL AND keywords_en != '' AND keywords_en != '[]' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN keywords_es IS NOT NULL AND keywords_es != '' AND keywords_es != '[]' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN references_ IS NOT NULL AND references_ != '' AND references_ != '[]' THEN 1 ELSE 0 END),
+            SUM(CASE WHEN locale = 'es' THEN 1 ELSE 0 END)
+        FROM articles
         WHERE seminar_slug = ? AND document_type NOT IN ('mesa', 'resumo')
     """, (slug,))
-    total = cur.fetchone()[0]
+    row = cur.fetchone()
+    total = row[0]
     if total == 0:
         return None
 
-    fields = {
-        'abstract': "abstract IS NOT NULL AND abstract != ''",
-        'abstract_en': "abstract_en IS NOT NULL AND abstract_en != ''",
-        'abstract_es': "abstract_es IS NOT NULL AND abstract_es != ''",
-        'keywords': "keywords IS NOT NULL AND keywords != '' AND keywords != '[]'",
-        'keywords_en': "keywords_en IS NOT NULL AND keywords_en != '' AND keywords_en != '[]'",
-        'keywords_es': "keywords_es IS NOT NULL AND keywords_es != '' AND keywords_es != '[]'",
-        'references_': "references_ IS NOT NULL AND references_ != '' AND references_ != '[]'",
-    }
-
-    profile = {'total': total, 'locale_es': 0}
-    for field, condition in fields.items():
-        cur.execute(f"""
-            SELECT COUNT(*) FROM articles
-            WHERE seminar_slug = ? AND document_type NOT IN ('mesa', 'resumo')
-            AND {condition}
-        """, (slug,))
-        count = cur.fetchone()[0]
+    field_names = ['abstract', 'abstract_en', 'abstract_es', 'keywords',
+                   'keywords_en', 'keywords_es', 'references_']
+    profile = {'total': total, 'locale_es': row[8]}
+    for i, field in enumerate(field_names):
+        count = row[i + 1]
         profile[field] = count
         profile[f'{field}_pct'] = count / total
-
-    cur.execute("""
-        SELECT COUNT(*) FROM articles
-        WHERE seminar_slug = ? AND document_type NOT IN ('mesa', 'resumo')
-        AND locale = 'es'
-    """, (slug,))
-    profile['locale_es'] = cur.fetchone()[0]
 
     return profile
 
@@ -197,22 +198,9 @@ def check_cross_language(article, profile):
     return issues
 
 
-def check_locale_fields(article):
-    """A05-A06: locale=es mas campos ES vazios (abstract e keywords em campo PT)."""
-    issues = []
-    aid = article['id']
-
-    if article['locale'] != 'es':
-        return issues
-
-    # A05 REMOVIDO: em locale=es, abstract já contém o resumo em espanhol.
-    # Copiar abstract→abstract_es é redundante (A21 NULLaria de volta, criando ciclo).
-    # abstract_es é para artigos PT/EN que TAMBÉM têm resumen em ES (segundo idioma).
-
-    # A06 REMOVIDO: mesma lógica do A05 — em locale=es, keywords já está em espanhol.
-    # keywords_es é para artigos PT/EN que TAMBÉM têm palabras clave em ES.
-
-    return issues
+# A05/A06 REMOVIDOS: em locale=es, abstract/keywords já contêm o texto em espanhol.
+# Copiar para abstract_es/keywords_es criava ciclo com A21.
+# abstract_es e keywords_es são para artigos PT/EN com tradução ES adicional.
 
 
 def check_fontes_markers(article, fontes_lines, profile):
@@ -558,14 +546,10 @@ def check_duplicate_refs(article):
     return issues
 
 
-def check_no_authors(article, conn):
-    """A18: artigo sem autores vinculados."""
+def check_no_authors(article, articles_with_authors):
+    """A18: artigo sem autores vinculados. Usa set pré-computado."""
     issues = []
-    cur = conn.cursor()
-    cur.execute("SELECT COUNT(*) FROM article_author WHERE article_id = ?",
-                (article['id'],))
-    count = cur.fetchone()[0]
-    if count == 0:
+    if article['id'] not in articles_with_authors:
         issues.append({
             'check': 'A18', 'article_id': article['id'], 'field': 'authors',
             'severity': 'error', 'auto_fixable': False,
@@ -735,17 +719,7 @@ def check_abstract_en_in_abstract(article):
     if not text or len(text) < 200:
         return issues
 
-    # Marcadores de início de abstract EN dentro do texto PT
-    EN_BOUNDARY = re.compile(
-        r'(?<=[.!?])\s+'
-        r'(?=(?:Abstract\s*:?\s+)?'
-        r'(?:The\s+(?:present\s+)?(?:paper|article|work|study|research)\b|'
-        r'This\s+(?:paper|article|work|study|research)\b|'
-        r'In\s+this\s+(?:paper|article|work|study)\b))',
-        re.IGNORECASE
-    )
-
-    m = EN_BOUNDARY.search(text)
+    m = _EN_BOUNDARY_RE.search(text)
     if m and m.start() > 100:
         # Também verificar "Abstract:" standalone
         pass
@@ -828,6 +802,11 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
     # Localizar fontes/
     fontes_dir = find_fontes_dir(slug)
 
+    # Pré-computar artigos com autores (evita N+1 queries)
+    cur.execute("""SELECT DISTINCT article_id FROM article_author
+        WHERE article_id IN (SELECT id FROM articles WHERE seminar_slug = ?)""", (slug,))
+    articles_with_authors = {r[0] for r in cur.fetchall()}
+
     all_issues = []
     auto_fixed = []
 
@@ -866,7 +845,6 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         # Rodar todas as checagens
         issues = []
         issues.extend(check_cross_language(article, profile))
-        issues.extend(check_locale_fields(article))
         issues.extend(check_fontes_markers(article, fontes_lines, profile))
         issues.extend(check_refs_backfill(article))
         issues.extend(check_refs_long(article))
@@ -876,7 +854,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_locale_mismatch(article))
         issues.extend(check_control_chars(article))
         issues.extend(check_duplicate_refs(article))
-        issues.extend(check_no_authors(article, conn))
+        issues.extend(check_no_authors(article, articles_with_authors))
         issues.extend(check_abstract_overflow(article))
         issues.extend(check_abstract_es_garbage(article))
         issues.extend(check_refs_body_text(article))

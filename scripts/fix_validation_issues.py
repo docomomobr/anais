@@ -198,35 +198,39 @@ YEAR_CHICAGO_RE = re.compile(
 PUBLISHER_BOUNDARY_WORDS = ('Press', 'Editora', 'Editorial', 'Edições', 'Editions', 'Verlag', 'Publishers', 'Publisher')
 
 
+NARRATIVE_THRESHOLD = 3
+
+# Pré-compilar marcadores narrativos (evita re.compile por chamada)
+_NARRATIVE_MARKERS = [re.compile(p, re.IGNORECASE) for p in [
+    r'\bque\s', r'\bpara\s', r'\bcomo\s', r'\bquando\s', r'\bonde\s',
+    r'\bporém\b', r'\bcontudo\b', r'\bentretanto\b', r'\btambém\b',
+    r'\bapesar\s+de\b', r'\bembora\b', r'\benquanto\b',
+    r'\bsendo\b', r'\bfoi\b', r'\bforam\b', r'\bsão\b',
+    r'\bdeste\b', r'\bdesta\b', r'\bdesses\b', r'\bdessas\b',
+    r'\bneste\b', r'\bnesta\b', r'\bnesse\b', r'\bnessa\b',
+    r'\baqui\b', r'\bassim\b', r'\bportanto\b',
+    r'\bwhich\b', r'\bthat\b', r'\bwhere\b', r'\bhowever\b',
+    r'\balthough\b', r'\btherefore\b', r'\bthus\b',
+    # Espanhol
+    r'\buna\s', r'\bcuya\b', r'\bcuyo\b', r'\baunque\b',
+    r'\bsin\s+embargo\b', r'\bademás\b', r'\btambién\b',
+    r'\bdonde\b', r'\bcuando\b', r'\bsobre\b',
+    r'\bdesde\b', r'\bhacia\b', r'\bmientras\b',
+]]
+
+
 def has_narrative_structure(text):
     """Detecta se o texto tem estrutura narrativa (nota/comentário) vs bibliográfica.
 
-    Notas contêm frases com sujeito-verbo, conectivos, argumentação.
-    Referências são listas de dados bibliográficos (autor, título, editora, ano).
-
-    Retorna True se parece narrativa/nota.
+    Retorna True se ≥3 marcadores narrativos encontrados (early exit).
     """
-    # Conectivos e marcadores de texto argumentativo
-    narrative_markers = [
-        r'\bque\s', r'\bpara\s', r'\bcomo\s', r'\bquando\s', r'\bonde\s',
-        r'\bporém\b', r'\bcontudo\b', r'\bentretanto\b', r'\btambém\b',
-        r'\bapesar\s+de\b', r'\bembora\b', r'\benquanto\b',
-        r'\bsendo\b', r'\bfoi\b', r'\bforam\b', r'\bsão\b',
-        r'\bdeste\b', r'\bdesta\b', r'\bdesses\b', r'\bdessas\b',
-        r'\bneste\b', r'\bnesta\b', r'\bnesse\b', r'\bnessa\b',
-        r'\baqui\b', r'\bassim\b', r'\bportanto\b',
-        r'\bwhich\b', r'\bthat\b', r'\bwhere\b', r'\bhowever\b',
-        r'\balthough\b', r'\btherefore\b', r'\bthus\b',
-        # Espanhol
-        r'\buna\s', r'\bcuya\b', r'\bcuyo\b', r'\baunque\b',
-        r'\bsin\s+embargo\b', r'\bademás\b', r'\btambién\b',
-        r'\bdonde\b', r'\bcuando\b', r'\bsobre\b',
-        r'\bdesde\b', r'\bhacia\b', r'\bmientras\b',
-    ]
-    count = sum(1 for m in narrative_markers if re.search(m, text, re.IGNORECASE))
-    # Refs longas genuínas podem ter 1-2 matches acidentais.
-    # Notas tipicamente têm 3+ marcadores narrativos.
-    return count >= 3
+    count = 0
+    for m in _NARRATIVE_MARKERS:
+        if m.search(text):
+            count += 1
+            if count >= NARRATIVE_THRESHOLD:
+                return True
+    return False
 
 
 def is_bibliographic_ref(ref):
@@ -995,7 +999,7 @@ def read_plumber_refs(fontes_dir, art_id):
     if not os.path.exists(jsonl_path):
         return None
 
-    import json as _json
+    _json = json
     refs_text = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -1046,7 +1050,7 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
     if not os.path.exists(jsonl_path):
         return None
 
-    import json as _json
+    _json = json
     blocks = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
