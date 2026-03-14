@@ -526,7 +526,11 @@ conn.commit()
 python3 dict/dump_db.py
 ```
 
-### 1.1b Normalizar títulos EN (Title Case)
+### 1.1b Normalizar títulos EN e ES
+
+**Objetivo:** Normalizar capitalização de `title_en`, `subtitle_en`, `title_es`, `subtitle_es`.
+
+**Títulos EN** — Title Case (Chicago/APA):
 
 **Objetivo:** Aplicar Title Case inglês (Chicago/APA) a `title_en` e `subtitle_en`.
 
@@ -544,14 +548,27 @@ Regras de Title Case:
 
 Usa a biblioteca Python `titlecase` com callback que consulta `dict.db`.
 
-### 1.1c Revisão LLM de títulos EN
+**Títulos ES** — Sentence case (mesma regra do PT):
+- Capitalização sentence case via `dict.db` (mesmas regras dos títulos PT)
+- Nomes próprios, expressões consolidadas, siglas preservados
+- Se `title_es` ou `subtitle_es` existir (campo AUSENTE no diagnóstico → pular)
 
-**Objetivo:** O Claude compara cada `title_en` com o PDF original para detectar:
+```bash
+python3 scripts/normalizar_maiusculas.py --slug {slug} --field title_es --dry-run
+python3 scripts/normalizar_maiusculas.py --slug {slug} --field title_es
+```
+
+**Títulos de artigos em locale=es**: o título principal (`title`) está em espanhol — aplicar as mesmas regras de capitalização sentence case. Verificar se `title` não foi normalizado incorretamente pelo dict.db (que é calibrado para PT).
+
+### 1.1c Revisão LLM de títulos EN e ES
+
+**Objetivo:** O Claude compara cada `title_en`, `title_es`, e títulos de artigos locale=es/en com o PDF/docx original para detectar:
 - Títulos truncados (extração cortou no meio)
-- Title Case incorreto em nomes próprios
+- Title Case incorreto em nomes próprios (EN) ou sentence case incorreto (ES)
 - Separação errada título/subtítulo
 - Título que é na verdade a primeira frase do abstract (falso positivo)
-- Artigos com seção EN no PDF mas sem `title_en` no banco (extração não capturou)
+- Artigos com seção EN/ES no PDF mas sem `title_en`/`title_es` no banco
+- Títulos de artigos locale=es que foram normalizados incorretamente pelo dict.db (calibrado para PT)
 
 Salvar aprendizado em `revisao/{slug}-titulos-en-aprendizado.json`:
 
