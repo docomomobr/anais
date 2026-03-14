@@ -411,6 +411,58 @@ def check_locale_mismatch(article):
     return issues
 
 
+# Regex para detectar encoding ruim (caracteres comuns em PDFs com fontes problemáticas)
+# ĕ, ė, ĩ = ligaduras/substituições erradas
+BAD_ENCODING_RE = re.compile(r'[ĕėĖĘ]')
+# Espaços entre letras: 4+ letras isoladas em sequência (ex: "Es te a rtigo")
+# Threshold alto para evitar falsos positivos com preposições
+SPACED_LETTERS_RE = re.compile(r'(?<!\w)[a-záéíóú] [a-záéíóú] [a-záéíóú] [a-záéíóú](?!\w)')
+
+
+def check_bad_encoding(article):
+    """A24: encoding ruim em campos de texto (fontes problemáticas no PDF).
+
+    Detecta caracteres substitutos (ĕ, ė) e espaços entre letras ("Es te a rtigo").
+    Não é auto-fixável — requer extração via imagem do PDF (pdftoppm + leitura visual).
+    """
+    issues = []
+    aid = article['id']
+
+    for field_name in ('abstract', 'abstract_en', 'abstract_es', 'title', 'subtitle'):
+        text = article.get(field_name)
+        if not text:
+            continue
+        problems = []
+        if BAD_ENCODING_RE.search(text):
+            problems.append('caracteres substitutos')
+        if SPACED_LETTERS_RE.search(text):
+            problems.append('espaços entre letras')
+        if problems:
+            issues.append({
+                'check': 'A24', 'article_id': aid, 'field': field_name,
+                'severity': 'error', 'auto_fixable': False,
+                'detail': f'{field_name}: encoding ruim ({", ".join(problems)})',
+                'suggestion': 'Re-extrair via imagem do PDF (pdftoppm + leitura visual)',
+            })
+
+    # Checar keywords
+    for col in ('keywords', 'keywords_en', 'keywords_es'):
+        kws = article.get(col)
+        if not kws or not isinstance(kws, list):
+            continue
+        for k in kws:
+            if BAD_ENCODING_RE.search(k) or SPACED_LETTERS_RE.search(k):
+                issues.append({
+                    'check': 'A24', 'article_id': aid, 'field': col,
+                    'severity': 'error', 'auto_fixable': False,
+                    'detail': f'{col}: encoding ruim em keyword "{k[:40]}"',
+                    'suggestion': 'Re-extrair via imagem do PDF',
+                })
+                break
+
+    return issues
+
+
 # Regex para detectar control characters (exceto \n, \r, \t)
 CONTROL_CHAR_RE = re.compile(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]')
 
@@ -829,6 +881,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_es_garbage(article))
         issues.extend(check_refs_body_text(article))
         issues.extend(check_abstract_en_in_abstract(article))
+        issues.extend(check_bad_encoding(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -1053,6 +1106,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A21': 'abstract_es lixo EN',
         'A22': 'body text em refs',
         'A23': 'abstract_en no abstract',
+        'A24': 'encoding ruim',
     }
 
     if not check_counts:
