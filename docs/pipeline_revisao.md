@@ -454,7 +454,8 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 4. Para **cada subtítulo**: verificar que começa com **minúscula** (exceto nome próprio, sigla). "Elementos iniciais..." → "elementos iniciais..."
 5. Verificar typos (preservaçâo → preservação)
 5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
-6. **Após aplicar cada correção, reler o título corrigido** e confirmar que a correção aplicou. Replaces por string podem falhar silenciosamente (ex: "a Obra" não casa com "A Obra"). Se falhou, corrigir manualmente.
+6. **Aplicar correções escrevendo o título completo**, não por replace parcial de string. Replace parcial causa erros: falha silenciosamente ("a Obra" ≠ "A Obra"), ou rebaixa a primeira palavra do título para minúscula. Escrever o título inteiro garante que o resultado é o correto.
+7. **Após aplicar, reler o título corrigido** para confirmar. A primeira palavra do título é SEMPRE maiúscula.
 7. Registrar todas as correções e aprendizados no `revisao/{slug}-titulos-aprendizado.json`
 
 **Não usar heurísticas para esta etapa.** Ler cada título com os olhos, não com regex.
