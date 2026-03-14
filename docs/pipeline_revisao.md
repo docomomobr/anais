@@ -95,7 +95,9 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 
 ### Registro de status (`revisao/{slug}-rev-status.md`)
 
-**Criar o arquivo no início da Fase 0** e atualizar progressivamente ao longo de todas as fases (0, 1, 2 e depois 3, 4, 5 na revisão humana). O mesmo arquivo acompanha o seminário do diagnóstico até o fechamento.
+**Criar o arquivo no início da Fase 0** e **atualizar a cada etapa concluída** — não no final. Se a sessão crashar ou compactar, o próximo ciclo sabe exatamente onde parou.
+
+**REGRA**: Após concluir cada etapa (0.1, 0.2, ..., 1.1a, 1.2b, etc.), gravar imediatamente no arquivo de status com ✅ e os contadores. Não acumular várias etapas para registrar depois.
 
 O registro deve conter:
 - Cada ação concreta realizada, marcada como ✅ (concluída) ou ⚠️ (pendente)
