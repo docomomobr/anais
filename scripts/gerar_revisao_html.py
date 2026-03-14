@@ -574,52 +574,44 @@ for sec_title, sec_articles in section_map.items():
                 lines.append(f'  <span class="validation-badge {sev}">{check}</span> <small>{e(detail)}</small><br>')
             lines.append('</div>')
 
-        # Abstracts e keywords — labels fixos ao campo, ordem por locale
+        # Abstracts e keywords — labels fixos, mostra o que existe
         # abstract=PT (Resumo), abstract_en=EN (Abstract), abstract_es=ES (Resumen)
-        locale = art['locale'] or 'pt-BR'
 
-        # Montar blocos disponíveis
-        blocks = []  # [(label, text, css_class, type)]
-
+        # Resumo (PT)
         if art['abstract']:
-            blocks.append(('Resumo', art['abstract'], 'abstract', 'abs'))
-        if art['abstract_en']:
-            blocks.append(('Abstract', art['abstract_en'], 'abstract abstract-en', 'abs'))
-        if art['abstract_es']:
-            blocks.append(('Resumen', art['abstract_es'], 'abstract abstract-es', 'abs'))
+            lines.append('<div class="field"><span class="label">Resumo</span></div>')
+            lines.append(f'<div class="abstract">{e(art["abstract"])}</div>')
 
+        # Palavras-chave (PT)
         kw = fmt_keywords(art['keywords'])
-        kw_en = fmt_keywords(art['keywords_en'])
-        kw_es = fmt_keywords(art['keywords_es'])
         if kw:
-            blocks.append(('Palavras-chave', kw, '', 'kw'))
+            lines.append(f'<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">{e(kw)}</span></div>')
+
+        # Abstract (EN)
+        if art['abstract_en']:
+            lines.append('<div class="field"><span class="label">Abstract</span></div>')
+            lines.append(f'<div class="abstract abstract-en">{e(art["abstract_en"])}</div>')
+
+        # Keywords (EN)
+        kw_en = fmt_keywords(art['keywords_en'])
         if kw_en:
-            blocks.append(('Keywords', kw_en, '', 'kw'))
+            lines.append(f'<div class="field"><span class="label">Keywords</span> <span class="keywords">{e(kw_en)}</span></div>')
+
+        # Resumen (ES)
+        if art['abstract_es']:
+            lines.append('<div class="field"><span class="label">Resumen</span></div>')
+            lines.append(f'<div class="abstract abstract-es">{e(art["abstract_es"])}</div>')
+
+        # Palabras clave (ES)
+        kw_es = fmt_keywords(art['keywords_es'])
         if kw_es:
-            blocks.append(('Palabras clave', kw_es, '', 'kw'))
+            lines.append(f'<div class="field"><span class="label">Palabras clave</span> <span class="keywords">{e(kw_es)}</span></div>')
 
-        # Ordenar: idioma do artigo primeiro
-        lang_order = {'pt-BR': ['Resumo', 'Palavras-chave', 'Abstract', 'Keywords', 'Resumen', 'Palabras clave'],
-                      'en':    ['Abstract', 'Keywords', 'Resumo', 'Palavras-chave', 'Resumen', 'Palabras clave'],
-                      'es':    ['Resumen', 'Palabras clave', 'Resumo', 'Palavras-chave', 'Abstract', 'Keywords']}
-        order = lang_order.get(locale, lang_order['pt-BR'])
-        blocks.sort(key=lambda b: order.index(b[0]) if b[0] in order else 99)
-
-        # Renderizar
-        has_any_abs = any(b[3] == 'abs' for b in blocks)
-        for label, text, css, btype in blocks:
-            if btype == 'abs':
-                lines.append(f'<div class="field"><span class="label">{label}</span></div>')
-                lines.append(f'<div class="{css}">{e(text)}</div>')
-            elif btype == 'kw':
-                lines.append(f'<div class="field"><span class="label">{label}</span> <span class="keywords">{e(text)}</span></div>')
-
-        if not has_any_abs:
-            missing_label = 'No abstract' if locale == 'en' else 'Sin resumen' if locale == 'es' else 'Sem resumo'
-            lines.append(f'<div class="field"><span class="missing">{missing_label}</span></div>')
+        # Sem nenhum abstract
+        if not art['abstract'] and not art['abstract_en'] and not art['abstract_es']:
+            lines.append('<div class="field"><span class="missing">Sem resumo</span></div>')
         if not kw and not kw_en and not kw_es:
-            missing_kw = 'No keywords' if locale == 'en' else 'Sin palabras clave' if locale == 'es' else 'Sem palavras-chave'
-            lines.append(f'<div class="field"><span class="missing">{missing_kw}</span></div>')
+            lines.append('<div class="field"><span class="missing">Sem palavras-chave</span></div>')
 
         # References
         refs_html = fmt_refs(art['references_'])
