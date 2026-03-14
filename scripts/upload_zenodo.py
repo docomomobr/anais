@@ -62,6 +62,9 @@ def fetch_articles(db, seminar_slug, limit=None):
     """Fetch articles with seminar and section metadata."""
     sql = """
         SELECT a.id, a.title, a.subtitle, a.abstract, a.keywords,
+               a.abstract_en, a.abstract_es,
+               a.keywords_en, a.keywords_es,
+               a.title_en, a.subtitle_en,
                a.file, a.locale, a.pages, a.doi, a.document_type,
                s.title as section_title,
                sem.title as sem_title, sem.subtitle as sem_subtitle,
@@ -144,20 +147,39 @@ def build_metadata(article, authors, seminar_slug):
         creators.append(creator)
 
     # Keywords (article keywords + seminar title for grouping)
+    # Fallback: usa keywords_en ou keywords_es se keywords principal está vazio
     keywords = []
-    if article['keywords']:
-        kw = article['keywords']
-        if kw.startswith('['):
-            keywords = json.loads(kw)
+    kw_raw = article['keywords']
+    if not kw_raw and article['locale'] == 'en':
+        kw_raw = article['keywords_en']
+    if not kw_raw and article['locale'] == 'es':
+        kw_raw = article['keywords_es']
+    if not kw_raw:
+        kw_raw = article['keywords_en'] or article['keywords_es']
+    if kw_raw:
+        if kw_raw.startswith('['):
+            keywords = json.loads(kw_raw)
         else:
-            keywords = [k.strip() for k in kw.split(',') if k.strip()]
+            keywords = [k.strip() for k in kw_raw.split(',') if k.strip()]
     keywords.append(article['sem_title'])
 
     # Language
     language = LOCALE_TO_ISO639.get(article['locale'], 'por')
 
-    # Description (abstract or fallback)
-    description = article['abstract'] or '(sem resumo)'
+    # Description: use abstract na língua do artigo, com fallback
+    locale = article['locale']
+    description = article['abstract']
+    if not description:
+        if locale == 'en' and article['abstract_en']:
+            description = article['abstract_en']
+        elif locale == 'es' and article['abstract_es']:
+            description = article['abstract_es']
+        elif article['abstract_en']:
+            description = article['abstract_en']
+        elif article['abstract_es']:
+            description = article['abstract_es']
+        else:
+            description = '(sem resumo)'
     if is_resumo:
         description = '<p><em>Resumo de comunicação apresentada em evento.</em></p>\n' + description
 

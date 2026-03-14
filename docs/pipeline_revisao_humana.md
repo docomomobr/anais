@@ -6,6 +6,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 - Fase 0 — Diagnóstico e preenchimento de lacunas
 - Fase 1 — Revisão automática (normalização de títulos, limpeza de refs)
 - Fase 2 — Geração do HTML de revisão (`revisao/revisao-{slug}.html`)
+- Arquivo `revisao/{slug}-rev-status.md` já existente (criado na Fase 0 do pipeline automático)
 
 **IMPORTANTE:** Após a revisão humana, **nunca** re-rodar o pipeline automático no mesmo seminário — scripts como `normalizar_maiusculas.py` sobrescreveriam os ajustes manuais.
 
@@ -23,6 +24,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdbr06 | 63 | 2026-03-01 | |
 | sdbr07 | 62 | 2026-03-02 | |
 | sdbr08 | 188 | 2026-03-09 | 84 itens: 80 títulos, 10 swaps PT/EN, 6 refs re-extraídas, 3 autores identificados |
+| sdbr09 | 170 | 2026-03-09 | ~40 itens: 4 keywords_en, 6 abstracts, 11 backfills (fix extract_author), 13 refs re-extraídas de .doc, 5 refs adicionadas |
 
 ---
 
@@ -102,9 +104,37 @@ Sintaxes de marcador de repetição encontradas nos anais (todas tratadas por `c
 | `———————` (em-dashes) | `———————. Obras...` | vários |
 | `..........` (pontos) | `..........Arquitetura...` | vários |
 
+**Causas conhecidas de falha do backfill** (identificadas no sdbr09, 2026-03-09):
+
+O backfill depende de `extract_author()` em `clean_references.py` para extrair o nome do autor da ref anterior. Essa função pode falhar silenciosamente (retorna `None`), deixando o marcador `______` no texto. Causas documentadas:
+
+| Causa | Exemplo | Fix aplicado |
+|-------|---------|-------------|
+| Ano entre parênteses após autor | `SOBRENOME, Nome (2003) Título...` | Padrão 1 adicionado: `AUTHOR (YYYY) Title` |
+| Multi-autor com `&` ou `;` | `MARQUES & NASLAVSKY. Título...` | `&` e `;` na classe de caracteres |
+| Nomes compostos com hífen | `LINS-CORRÊA, Maria. Título...` | Hífen explícito na classe |
+| Nomes com apóstrofo | `D'ASSUNÇÃO, Maria. Título...` | Apóstrofo/aspas na classe |
+
+Se encontrar backfills pendentes após `clean_references.py`, verificar se `extract_author()` falha na ref anterior. Se sim, expandir o regex e documentar aqui.
+
 ```
 refs com ______: 012, 029, 049
 ```
+
+**Referências concatenadas — re-extração via .doc:**
+
+Quando refs estão aglutinadas (várias obras numa única entrada) e o pdftotext não consegue separar, usar os arquivos .doc originais:
+
+```bash
+# 1. Converter .doc para .txt via LibreOffice
+soffice --headless --convert-to txt --outdir /tmp arquivo.doc
+
+# 2. Extrair refs do .txt (seção após "Referências" / "Bibliografia" / "References")
+# 3. Salvar os .txt convertidos em nacionais/{slug}/fontes_doc/
+#    Convenção de nome: {id}-doc.txt (ex: sdbr09-006-doc.txt)
+```
+
+O diretório `fontes_doc/` contém textos extraídos de .doc/.docx via LibreOffice (mais limpos que o pdftotext). Quando disponível, **preferir `fontes_doc/` a `fontes/`** para re-extração de referências. Os .doc originais ficam no acervo do seminário (ex: `~/Dropbox/_docomomo/seminarios/.../`). Mapeamento .doc↔artigo: ver `revisao/{slug}-rev-status.md`.
 
 **Outros problemas em referências:**
 ```

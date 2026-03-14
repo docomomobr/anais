@@ -61,52 +61,70 @@
     {{ end }}
   </section>
 
-  {{ with .Params.abstract }}
-  <section class="abstract">
-    <h2>Resumo</h2>
-    <p itemprop="abstract">{{ . }}</p>
-  </section>
-  {{ end }}
+  {{/* Abstracts e keywords — labels fixos ao campo, ordem por locale.
+       abstract=PT (Resumo), abstract_en=EN (Abstract), abstract_es=ES (Resumen).
+       Artigo ES mostra Resumen primeiro; artigo EN mostra Abstract primeiro. */}}
 
-  {{ with .Params.keywords }}
-  <section class="keywords-section">
-    <h2>Palavras-chave</h2>
-    <ul class="keyword-list">
-      {{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}
-    </ul>
-  </section>
-  {{ end }}
-
-  {{ with .Params.abstract_en }}
-  <section class="abstract abstract-en">
-    <h2>Abstract</h2>
-    <p>{{ . }}</p>
-  </section>
-  {{ end }}
-
-  {{ with .Params.keywords_en }}
-  <section class="keywords-section">
-    <h2>Keywords</h2>
-    <ul class="keyword-list">
-      {{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}
-    </ul>
-  </section>
-  {{ end }}
-
-  {{ with .Params.abstract_es }}
-  <section class="abstract abstract-es">
-    <h2>Resumen</h2>
-    <p>{{ . }}</p>
-  </section>
-  {{ end }}
-
-  {{ with .Params.keywords_es }}
-  <section class="keywords-section">
-    <h2>Palabras clave</h2>
-    <ul class="keyword-list">
-      {{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}
-    </ul>
-  </section>
+  {{ if eq .Params.locale "es" }}
+    {{/* ES: Resumen → Resumo → Abstract */}}
+    {{ with .Params.abstract_es }}
+    <section class="abstract abstract-es"><h2>Resumen</h2><p itemprop="abstract">{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_es }}
+    <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract }}
+    <section class="abstract"><h2>Resumo</h2><p{{ if not $.Params.abstract_es }} itemprop="abstract"{{ end }}>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords }}
+    <section class="keywords-section"><h2>Palavras-chave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract_en }}
+    <section class="abstract abstract-en"><h2>Abstract</h2><p>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_en }}
+    <section class="keywords-section"><h2>Keywords</h2><ul class="keyword-list">{{ range .Params.keywords_en }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+  {{ else if eq .Params.locale "en" }}
+    {{/* EN: Abstract → Resumo → Resumen */}}
+    {{ with .Params.abstract_en }}
+    <section class="abstract abstract-en"><h2>Abstract</h2><p itemprop="abstract">{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_en }}
+    <section class="keywords-section"><h2>Keywords</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract }}
+    <section class="abstract"><h2>Resumo</h2><p{{ if not $.Params.abstract_en }} itemprop="abstract"{{ end }}>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords }}
+    <section class="keywords-section"><h2>Palavras-chave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract_es }}
+    <section class="abstract abstract-es"><h2>Resumen</h2><p>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_es }}
+    <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+  {{ else }}
+    {{/* PT (default): Resumo → Abstract → Resumen */}}
+    {{ with .Params.abstract }}
+    <section class="abstract"><h2>Resumo</h2><p itemprop="abstract">{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords }}
+    <section class="keywords-section"><h2>Palavras-chave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract_en }}
+    <section class="abstract abstract-en"><h2>Abstract</h2><p>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_en }}
+    <section class="keywords-section"><h2>Keywords</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
+    {{ with .Params.abstract_es }}
+    <section class="abstract abstract-es"><h2>Resumen</h2><p>{{ . }}</p></section>
+    {{ end }}
+    {{ with .Params.keywords_es }}
+    <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
+    {{ end }}
   {{ end }}
 
   {{/* Como citar — ABNT NBR 6023:2018 */}}

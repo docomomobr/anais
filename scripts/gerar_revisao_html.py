@@ -20,6 +20,8 @@ REPO_ROOT = os.path.join(SCRIPT_DIR, '..')
 DB = os.path.join(REPO_ROOT, 'anais.db')
 FICHAS_PATH = os.path.join(REPO_ROOT, 'revisao', 'fichas_catalograficas.yaml')
 
+VALIDATION_PATH_TPL = os.path.join(REPO_ROOT, 'revisao', '{slug}-validation.json')
+
 COVER_DIRS = {
     'sdbr': 'nacionais/capas',
     'sdmg': 'regionais/se/capas',
@@ -106,6 +108,39 @@ def parse_editors(editors_json):
     return [s.strip() for s in str(editors_json).split(',') if s.strip()]
 
 
+def load_validation(slug):
+    """Load validation report and return dict of article_id → list of issues."""
+    path = VALIDATION_PATH_TPL.format(slug=slug)
+    if not os.path.isfile(path):
+        return {}
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            report = json.load(f)
+    except (json.JSONDecodeError, IOError):
+        return {}
+    by_article = {}
+    for issue in report.get('issues', []):
+        aid = issue.get('article_id', '')
+        by_article.setdefault(aid, []).append(issue)
+    return by_article
+
+
+# Descrições curtas dos checks de validação
+VALIDATION_CHECK_DESC = {
+    'A01': 'abs_en sem kw_en', 'A02': 'kw_en sem abs_en',
+    'A03': 'abs_es sem kw_es', 'A04': 'kw_es sem abs_es',
+    'A05': 'locale_es→abs_es', 'A06': 'locale_es→kw_es',
+    'A07': 'fontes: Abstract', 'A08': 'fontes: Keywords',
+    'A09': 'fontes: Resumen', 'A10': 'backfill pendente',
+    'A11': 'ref longa', 'A12': 'não-ref em refs',
+    'A13': 'URL órfã', 'A14': 'abstract contaminado',
+    'A15': 'locale mismatch', 'A16': 'control chars',
+    'A17': 'refs duplicadas', 'A18': 'sem autores',
+    'A19': 'abstract truncado?',
+    'A20': 'abstract overflow',
+}
+
+
 def strip_section_suffix(sec_title):
     """Remove slug suffix like ' — sdnne08' from section title."""
     if not sec_title:
@@ -145,13 +180,16 @@ for art in articles:
     sec = strip_section_suffix(art['section_title']) or 'Sem seção'
     section_map.setdefault(sec, []).append(art)
 
-# Cover + ficha
+# Cover + ficha + validation
 cover_path = find_cover(slug)
 fichas = load_fichas()
 ficha = fichas.get(slug, '')
 editors = parse_editors(sem['editors'])
 n_articles = len(articles)
 n_sections = len(section_map)
+validation_issues = load_validation(slug)
+n_issues = sum(len(v) for v in validation_issues.values())
+n_articles_with_issues = len(validation_issues)
 
 
 # ── HTML generation ──────────────────────────────────────────────────
@@ -327,6 +365,28 @@ a {{ color: #336; }}
 
 .missing {{ color: var(--color-missing); font-style: italic; }}
 
+/* ── Validation warnings ── */
+.validation-summary {{
+  background: #fff8e1; border: 1px solid #ffc107; border-radius: 4px;
+  padding: 0.8em 1em; margin-bottom: 1.5em; font-size: 0.88em;
+}}
+.validation-summary-title {{
+  font-weight: bold; color: #856404; margin-bottom: 0.3em;
+}}
+.validation-badges {{
+  display: flex; flex-wrap: wrap; gap: 3px; margin-top: 0.3em;
+}}
+.validation-badge {{
+  display: inline-block; padding: 1px 6px; border-radius: 3px;
+  font-size: 0.8em; font-family: monospace;
+}}
+.validation-badge.warning {{ background: #fff3cd; color: #856404; }}
+.validation-badge.error {{ background: #f8d7da; color: #721c24; }}
+.validation-badge.info {{ background: #d1ecf1; color: #0c5460; }}
+.article-warnings {{
+  margin: 0.3em 0; font-size: 0.82em;
+}}
+
 @media print {{
   .toc {{ page-break-after: always; }}
   .article-divider {{ page-break-before: always; border-top: none; }}
@@ -379,10 +439,29 @@ lines.append('  </div>')
 lines.append('</div>')
 
 # --- Ficha catalográfica ---
-if ficha:
+# Preferir description do banco; fallback para YAML
+ficha_text = sem['description'] or ficha or ''
+if ficha_text:
     lines.append('<div class="ficha">')
     lines.append('  <div class="ficha-title">Ficha catalográfica</div>')
-    lines.append(f'  {linkify(ficha)}')
+    lines.append(f'  {linkify(ficha_text)}')
+    lines.append('</div>')
+
+# --- Validation summary ---
+if validation_issues:
+    lines.append('<div class="validation-summary">')
+    lines.append(f'  <div class="validation-summary-title">Validação: {n_issues} issues em {n_articles_with_issues} artigos</div>')
+    # Count by check
+    check_counts = {}
+    for issues_list in validation_issues.values():
+        for issue in issues_list:
+            c = issue.get('check', '?')
+            check_counts[c] = check_counts.get(c, 0) + 1
+    lines.append('  <div class="validation-badges">')
+    for c in sorted(check_counts.keys()):
+        desc = VALIDATION_CHECK_DESC.get(c, c)
+        lines.append(f'    <span class="validation-badge warning">{c} {desc}: {check_counts[c]}</span>')
+    lines.append('  </div>')
     lines.append('</div>')
 
 # --- TOC (grouped by section) ---
@@ -484,39 +563,63 @@ for sec_title, sec_articles in section_map.items():
         if meta_parts:
             lines.append(f'<div class="meta-bar">{" · ".join(meta_parts)}</div>')
 
-        # Abstract PT
+        # Validation warnings for this article
+        art_issues = validation_issues.get(art['id'], [])
+        if art_issues:
+            lines.append('<div class="article-warnings">')
+            for issue in art_issues:
+                sev = issue.get('severity', 'warning')
+                check = issue.get('check', '?')
+                detail = issue.get('detail', '')
+                lines.append(f'  <span class="validation-badge {sev}">{check}</span> <small>{e(detail)}</small><br>')
+            lines.append('</div>')
+
+        # Abstracts e keywords — labels fixos ao campo, ordem por locale
+        # abstract=PT (Resumo), abstract_en=EN (Abstract), abstract_es=ES (Resumen)
+        locale = art['locale'] or 'pt-BR'
+
+        # Montar blocos disponíveis
+        blocks = []  # [(label, text, css_class, type)]
+
         if art['abstract']:
-            lines.append('<div class="field"><span class="label">Resumo</span></div>')
-            lines.append(f'<div class="abstract">{e(art["abstract"])}</div>')
-        else:
-            lines.append('<div class="field"><span class="missing">Sem resumo</span></div>')
-
-        # Keywords PT
-        kw = fmt_keywords(art['keywords'])
-        if kw:
-            lines.append(f'<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">{e(kw)}</span></div>')
-        else:
-            lines.append('<div class="field"><span class="missing">Sem palavras-chave</span></div>')
-
-        # Abstract EN
+            blocks.append(('Resumo', art['abstract'], 'abstract', 'abs'))
         if art['abstract_en']:
-            lines.append('<div class="field"><span class="label">Abstract</span></div>')
-            lines.append(f'<div class="abstract abstract-en">{e(art["abstract_en"])}</div>')
-
-        # Keywords EN
-        kw_en = fmt_keywords(art['keywords_en'])
-        if kw_en:
-            lines.append(f'<div class="field"><span class="label">Keywords</span> <span class="keywords">{e(kw_en)}</span></div>')
-
-        # Abstract ES
+            blocks.append(('Abstract', art['abstract_en'], 'abstract abstract-en', 'abs'))
         if art['abstract_es']:
-            lines.append('<div class="field"><span class="label">Resumen</span></div>')
-            lines.append(f'<div class="abstract abstract-es">{e(art["abstract_es"])}</div>')
+            blocks.append(('Resumen', art['abstract_es'], 'abstract abstract-es', 'abs'))
 
-        # Keywords ES
+        kw = fmt_keywords(art['keywords'])
+        kw_en = fmt_keywords(art['keywords_en'])
         kw_es = fmt_keywords(art['keywords_es'])
+        if kw:
+            blocks.append(('Palavras-chave', kw, '', 'kw'))
+        if kw_en:
+            blocks.append(('Keywords', kw_en, '', 'kw'))
         if kw_es:
-            lines.append(f'<div class="field"><span class="label">Palabras clave</span> <span class="keywords">{e(kw_es)}</span></div>')
+            blocks.append(('Palabras clave', kw_es, '', 'kw'))
+
+        # Ordenar: idioma do artigo primeiro
+        lang_order = {'pt-BR': ['Resumo', 'Palavras-chave', 'Abstract', 'Keywords', 'Resumen', 'Palabras clave'],
+                      'en':    ['Abstract', 'Keywords', 'Resumo', 'Palavras-chave', 'Resumen', 'Palabras clave'],
+                      'es':    ['Resumen', 'Palabras clave', 'Resumo', 'Palavras-chave', 'Abstract', 'Keywords']}
+        order = lang_order.get(locale, lang_order['pt-BR'])
+        blocks.sort(key=lambda b: order.index(b[0]) if b[0] in order else 99)
+
+        # Renderizar
+        has_any_abs = any(b[3] == 'abs' for b in blocks)
+        for label, text, css, btype in blocks:
+            if btype == 'abs':
+                lines.append(f'<div class="field"><span class="label">{label}</span></div>')
+                lines.append(f'<div class="{css}">{e(text)}</div>')
+            elif btype == 'kw':
+                lines.append(f'<div class="field"><span class="label">{label}</span> <span class="keywords">{e(text)}</span></div>')
+
+        if not has_any_abs:
+            missing_label = 'No abstract' if locale == 'en' else 'Sin resumen' if locale == 'es' else 'Sem resumo'
+            lines.append(f'<div class="field"><span class="missing">{missing_label}</span></div>')
+        if not kw and not kw_en and not kw_es:
+            missing_kw = 'No keywords' if locale == 'en' else 'Sin palabras clave' if locale == 'es' else 'Sem palavras-chave'
+            lines.append(f'<div class="field"><span class="missing">{missing_kw}</span></div>')
 
         # References
         refs_html = fmt_refs(art['references_'])

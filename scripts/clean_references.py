@@ -43,20 +43,49 @@ BARE_URL = re.compile(r'^https?://\S+$')
 
 
 def extract_author(ref):
-    """Extrai nome do autor do início de uma ref ABNT.
+    """Extrai nome do autor do início de uma ref ABNT ou similar.
 
     Retorna string como "SOBRENOME, Nome." ou "ORGANIZAÇÃO." ou None.
+
+    Formatos suportados:
+      - ABNT padrão: "SOBRENOME, Nome. Título..."
+      - Com ano entre parênteses: "SOBRENOME, Nome (YYYY) Título..."
+      - Multi-autor com &: "SOBRENOME, Nome & SOBRENOME2, Nome2. Título..."
+      - Editor/org: "SOBRENOME, Nome (org). Título..."
+
+    Causas de falha identificadas na revisão sdbr09 (2026-03-09):
+      1. Parênteses não estavam na classe de caracteres → refs com "(YYYY)"
+         após o autor faziam o regex parar antes do ano (sdbr09-140, 50 refs)
+      2. & não estava na classe → multi-autor "MARQUES & NASLAVSKY" falhava
+         (sdbr09-093, sdbr09-090)
+      3. Hífen não estava explícito → nomes compostos com hífen falhavam
+      4. Apóstrofo/aspas não estavam → nomes como "D'Assunção" falhavam
     """
-    # SOBRENOME, Nome. ou SOBRENOME, INICIAIS.
-    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ][A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑA-záéíóúàâêôãõçñ\s,\.]+?)\.\s', ref)
+    # Classe de caracteres ampliada: letras (com acentos), espaços, vírgula,
+    # ponto, parênteses, &, hífen, apóstrofo
+    AUTHOR_CHARS = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s,\.;&\-\(\)\'']"
+
+    # Padrão 1: SOBRENOME, Nome (YYYY) Título...
+    # Captura até " (YYYY) " e retorna só o nome
+    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ]' + AUTHOR_CHARS + r'+?)\s*\(\d{4}\)\s', ref)
+    if m:
+        candidate = m.group(1).rstrip(' ,.')
+        if ',' in candidate:
+            return candidate + '.'
+        return candidate + '.'
+
+    # Padrão 2: SOBRENOME, Nome. Título... (ABNT padrão)
+    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ]' + AUTHOR_CHARS + r'+?)\.\s', ref)
     if m:
         candidate = m.group(1)
         if ',' in candidate:
             return candidate + '.'
-    # ORGANIZAÇÃO.
-    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ][A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑA-záéíóúàâêôãõçñ\s]+?)\.\s', ref)
+
+    # Padrão 3: ORGANIZAÇÃO. Título...
+    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ][A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s&\-]+?)\.\s', ref)
     if m:
         return m.group(1) + '.'
+
     return None
 
 

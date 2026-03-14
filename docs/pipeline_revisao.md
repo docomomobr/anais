@@ -44,22 +44,65 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 │   0.1 Levantar padrão de metadados do seminário     │
 │   0.2 Identificar artigos fora do padrão            │
 │   0.3 Reinspecionar PDFs dos artigos fora do padrão │
+│   0.3b Extrair fontes estruturadas (pdfplumber)     │
 │   0.4 Preencher lacunas no banco                    │
-│   0.5 Verificar abstracts existentes (truncamento)  │
+│   0.5 Verificar abstracts existentes (truncamento   │
+│       e lixo de cruzamento de idiomas)              │
 │   0.6 Extrair metadados EN (title_en, subtitle_en)  │
 ├─────────────────────────────────────────────────────┤
 │ Fase 1 — Revisão automática (Claude)                │
 │   1.1a Títulos e subtítulos PT (LLM + PDF)          │
 │   1.1b Normalizar títulos EN (Title Case)           │
 │   1.1c Revisão LLM de títulos EN                    │
-│   1.2  Referências (clean + check + extração)       │
-│   1.3  Aplicar todas as correções ao banco          │
+│   1.2  Referências (limpeza completa)               │
+│     1.2a clean_references.py (backfills, split,     │
+│          join URLs)                                  │
+│     1.2b sweep_refs (8 passadas: lixo grosso,       │
+│          headers, page breaks, fragmentos,           │
+│          endnotes, split, remoção, body text         │
+│          truncado, near-duplicates)                  │
+│     1.2c Revisão LLM de TODAS as refs (agente)      │
+│          (concatenações, splits, notas, junk —       │
+│          tudo que escapou ao sweep heurístico)       │
+│   1.3  Keywords (split, garbage, capitalização)     │
+│   1.4  Aplicar correções ao banco                   │
+│                                                      │
+│   ┌─── LOOP até convergir (max 5 iterações) ──────┐ │
+│   │ 1.5a validate_metadata.py --fix (auto-fixes)   │ │
+│   │ 1.5b fix handlers: A07 abs_en, A08 kw_en,      │ │
+│   │      A19 abstract truncado (extração fontes/)   │ │
+│   │ 1.5c Se zero issues corrigíveis: sair do loop  │ │
+│   └────────────────────────────────────────────────┘ │
+│                                                      │
+│   1.6  Auditoria final                               │
+│     1.6a Cobertura de metadados (artigos)            │
+│     1.6b Metadados do seminário (verificar+preencher)│
+│     1.6c Seções (eixos) ou sessões (programa)        │
 ├─────────────────────────────────────────────────────┤
 │ Fase 2 — Gerar HTML de revisão                      │
+├─────────────────────────────────────────────────────┤
+│ Registro — revisao/{slug}-rev-status.md             │
+│   Criar no início da Fase 0, atualizar a cada etapa │
+│   Registrar ✅/⚠️ para cada ação concreta realizada  │
 └─────────────────────────────────────────────────────┘
          ↓
    Pipeline de revisão humana (pipeline_revisao_humana.md)
 ```
+
+**Princípio do loop 1.2–1.5:** A revisão automática (1.2–1.4) e a validação (1.5) formam um ciclo. A validação é o checkpoint — se ainda encontra problemas que a revisão automática deveria resolver, volta-se às etapas relevantes. Só se sai do loop quando os issues restantes são **fatos** (dado genuinamente ausente no PDF), não **erros** (dado extraível ou corrigível). A revisão humana (Fases 3–5 do pipeline_revisao_humana.md) recebe apenas o que a automação não consegue resolver.
+
+**Princípio da Fase 3 (aprendizado):** Após a revisão humana, cada correção manual é analisada: por que o pipeline não resolveu isso? A resposta é incorporada aos scripts, ao dict.db ou à documentação, para que o próximo seminário tenha menos correções manuais. O pipeline é **cumulativo** — melhora a cada seminário revisado.
+
+### Registro de status (`revisao/{slug}-rev-status.md`)
+
+**Criar o arquivo no início da Fase 0** e atualizar progressivamente ao longo de todas as fases (0, 1, 2 e depois 3, 4, 5 na revisão humana). O mesmo arquivo acompanha o seminário do diagnóstico até o fechamento.
+
+O registro deve conter:
+- Cada ação concreta realizada, marcada como ✅ (concluída) ou ⚠️ (pendente)
+- Contadores atualizados (abstracts, refs, keywords, etc.)
+- Etapas restantes antes da próxima fase
+
+Este registro evita re-trabalho entre sessões e serve como auditoria do que foi feito.
 
 ---
 
@@ -119,6 +162,31 @@ Classificar cada campo como:
 - **Padrão presente** (≥70% dos artigos têm): buscar nos PDFs dos artigos faltantes
 - **Padrão ausente** (<30% dos artigos têm): não buscar — é característica do evento
 - **Intermediário** (30-70%): avaliar caso a caso, pode ser um subconjunto (ex: pôsteres sem abstract)
+
+#### Identificar norma de citação
+
+Verificar nos fontes/ qual norma de citação predomina no seminário. Isso afeta a extração e split de referências nas fases seguintes.
+
+```python
+# Amostrar 10-20 artigos com referências e classificar
+import re, json
+
+ABNT_RE = re.compile(r'^[A-ZÁÉÍÓÚÂÊÔÃÕÇÑ]{2,},\s+[A-Z]')          # SOBRENOME, Nome
+CHICAGO_RE = re.compile(r'^[A-ZÁÉÍÓÚÂÊÔÃÕÇÑ][a-záéíóú]+,\s+[A-Z]')  # Sobrenome, Nome
+FOOTNOTE_RE = re.compile(r'^\d{1,3}\s+[A-Z]')                       # 1 Autor...
+
+for art_id, refs_text in sample:
+    refs = json.loads(refs_text)
+    abnt = sum(1 for r in refs if ABNT_RE.match(r.strip()))
+    chicago = sum(1 for r in refs if CHICAGO_RE.match(r.strip()) and not ABNT_RE.match(r.strip()))
+    footnote = sum(1 for r in refs if FOOTNOTE_RE.match(r.strip()))
+    # Classificar: ABNT / Chicago / Misto / Footnotes
+```
+
+Registrar no diagnóstico:
+- **Norma predominante**: ABNT / Chicago / Misto
+- **Artigos com footnotes/endnotes**: lista (esses terão notas no campo refs que devem ser removidas)
+- **Idiomas das refs**: pt-BR, en, es (afeta os padrões de split)
 
 ### 0.2 Identificar artigos fora do padrão
 
@@ -193,6 +261,35 @@ Só depois de salvo o arquivo, inserir no banco. Isso garante que a extração n
 
 Só avançar quando **zero** itens ⏳ restarem.
 
+### 0.3b Extrair fontes estruturadas (pdfplumber)
+
+Após gerar os `fontes/` com `pdftotext` (0.3), extrair uma **segunda camada de fontes** com `pdfplumber`, que preserva metadados tipográficos (tamanho de fonte, bold, posição Y). Esses dados permitem distinguir automaticamente:
+
+- **Corpo** (maior tamanho) vs **abstract/refs** (tamanho intermediário) vs **notas de rodapé** (menor tamanho)
+- **Headings** (bold, tamanho > corpo) vs **texto normal**
+- **Referências bibliográficas** (após heading "Referências") vs **notas** (após heading "NOTAS" ou na parte inferior da página)
+
+```bash
+# Profile: analisa amostra do seminário para calibrar tamanhos
+python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
+
+# Extração completa: gera .jsonl por artigo com blocos anotados
+python3 scripts/extrair_fontes_plumber.py --slug {slug}
+```
+
+**Output:** `{slug}/fontes_plumber/{id}.jsonl` — cada linha é um bloco de texto com campos:
+- `page`, `font_size`, `font_name`, `role`, `text`, `bold`, `lines`
+- `role`: `body`, `abstract`, `reference`, `footnote`, `heading`, `subheading`, `pagenum`, `small`
+
+**Calibração automática:** O script faz profiling do seminário (amostra de 10 PDFs) para detectar os tamanhos de cada role. Depois adapta per-artigo, recalibrando quando o artigo usa template diferente do seminário. Pós-classificação posicional reclassifica blocos com base em headings semânticos ("Resumo", "Referências", "NOTAS").
+
+**Uso nas fases seguintes:**
+- **Fase 0.5** (verificar abstracts): usar blocos `abstract` do `.jsonl` para detectar truncamento — o abstract termina quando o role muda de `abstract` para `body`
+- **Fase 1.2** (referências): usar blocos `reference` como fonte preferencial — já exclui notas de rodapé (`footnote`) e corpo (`body`)
+- **fix_validation_issues.py**: `find_alt_source()` consulta `fontes_plumber/` como fonte intermediária entre `fontes_doc/` e `fontes/`
+
+**IMPORTANTE:** `fontes_plumber/` é **complementar**, não substitui `fontes/` (pdftotext). O pdftotext é mais rápido e adequado para busca textual. O pdfplumber é preferido quando a **estrutura tipográfica** é relevante (delimitação de abstract, separação refs/notas).
+
 ### 0.4 Preencher lacunas no banco
 
 Aplicar os dados extraídos ao banco **a partir do arquivo JSON salvo na etapa anterior**. Reportar:
@@ -201,7 +298,7 @@ Aplicar os dados extraídos ao banco **a partir do arquivo JSON salvo na etapa a
 - Quantos genuinamente não têm o dado (confirmado no PDF)
 - **Lista completa** com status de cada artigo (checklist ✅/⬜/📄)
 
-### 0.5 Verificar abstracts existentes (truncamento e lixo)
+### 0.5 Verificar abstracts existentes (truncamento, lixo, contaminação)
 
 Após preencher as lacunas (0.4), varrer **todos** os abstracts do seminário — tanto os já existentes quanto os recém-inseridos — para detectar problemas de extração. A varredura deve cobrir 100% dos artigos, não apenas os que foram preenchidos na Fase 0.
 
@@ -214,6 +311,8 @@ Após preencher as lacunas (0.4), varrer **todos** os abstracts do seminário �
 5. **Cabeçalhos e metadados**: títulos de seções, nomes de autores, números de página misturados
 6. **Início truncado**: abstract começa no meio de uma frase (faltando o início)
 7. **Abstract muito curto**: < 100 caracteres para PT ou < 80 para EN (pode ser genuíno, mas verificar)
+8. **abstract_es com lixo de cruzamento de idiomas**: a extração não parou no marcador de keywords e incluiu o conteúdo EN (abstract_en, keywords_en, page breaks) dentro do campo abstract_es. Padrão frequente em artigos ES que usam "Palabras-chave:" (forma híbrida PT/ES) em vez de "Palabras clave:". **Detecção**: abstract_es contém "Abstract", "Keywords:", "⏐" (page break marker), ou é significativamente mais longo que o abstract PT. **Tratamento**: limpar abstract_es truncando no marcador de keywords; se locale=es e o abstract principal já contém o texto correto em espanhol, setar abstract_es = NULL (campo redundante).
+9. **abstract_es duplicado do abstract**: em artigos ES (locale=es), o abstract principal já contém o resumo em espanhol. Se abstract_es = abstract (mesma string), é redundância — setar abstract_es = NULL.
 
 **Procedimento:**
 
@@ -444,46 +543,553 @@ Salvar aprendizado em `revisao/{slug}-titulos-en-aprendizado.json`:
 }
 ```
 
-### 1.2 Referências
+### 1.2 Referências (limpeza completa)
 
-**Objetivo:** Limpar, verificar e extrair referências faltantes.
+**Objetivo:** Limpar, verificar e corrigir referências em 4 subetapas. A limpeza deve ser **exaustiva** — a validação (1.5) não deve encontrar problemas que esta etapa poderia ter resolvido.
+
+#### 1.2a Limpeza base (clean_references.py)
 
 ```bash
-# Limpeza automática
 python3 scripts/clean_references.py --slug {slug} --dry-run
 python3 scripts/clean_references.py --slug {slug}
-
-# Verificação
 python3 scripts/check_references.py --slug {slug} --summary
 ```
 
+Resolve: backfills (underscores ABNT → autor anterior), split de refs concatenadas por underscores, join de URLs órfãs.
+
 **Artigos com 0 referências:** Verificar nos PDFs se há seção de referências ou notas de rodapé com citações. Se houver, extrair seguindo o procedimento documentado em `pipeline_tratamento.md` §2.1b (referências) ou §2.1c (notas de rodapé).
 
-**Varredura completa de TODAS as referências:** O `check_references.py` detecta apenas padrões específicos (concatenadas, fragmentos curtos). Ele **não detecta**: notas de rodapé misturadas, agradecimentos, cabeçalhos de seção ("FONTES PRIMÁRIAS:", "Artigos de jornais:"), créditos de ilustração, refs quebradas em múltiplas linhas, nem backfills pendentes com padrões incomuns (`---------`, `––––––`). É obrigatório varrer as referências de **todos os artigos** do seminário, não apenas os sinalizados pelos scripts. Fazer isso programaticamente:
+**Re-extração de refs via .doc:** Se `fontes/` (pdftotext) produz refs concatenadas que `clean_references.py` não consegue separar, converter os .doc originais via LibreOffice (`soffice --headless --convert-to txt`) e re-extrair. Salvar os .txt convertidos em `nacionais/{slug}/fontes_doc/` (nome: `{id}-doc.txt`). Quando disponível, preferir `fontes_doc/` para extração de refs — a formatação é mais limpa que o pdftotext.
 
-```python
-# Verificação completa: backfills, não-refs, fragmentos, quebras de linha
-for art in articles:
-    for ref in art.references:
-        # Backfill pendente (qualquer variante de underscores/traços)
-        if re.match(r'^[-–—_.]{2,}', ref.strip()):
-            flag("backfill pendente")
-        # Não-referência (agradecimentos, créditos, cabeçalhos)
-        if any(x in ref.lower() for x in ['crédito', 'ilustraç', 'agradec',
-               'fapesp', 'cnpq', 'capes', 'fontes primárias', 'artigos de jornais']):
-            flag("possível não-referência")
-        # Ref quebrada em linha (começa com minúscula, ou < 30 chars sem ser URL)
-        if ref[0].islower() or (len(ref) < 30 and not ref.startswith('http')):
-            flag("possível fragmento / quebra de linha")
+#### 1.2b Varredura completa de referências (sweep_refs)
+
+```bash
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs --dry-run
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs
 ```
 
-**Meta:** < 2% de problemas por seminário.
+Varredura completa de TODAS as refs do seminário em 8 passadas:
 
-### 1.3 Aplicar correções ao banco
+| Passada | Ação | Heurística |
+|---------|------|------------|
+| 0. Lixo grosso | Remover body text, figure captions, headers standalone, NOTAS | `is_body_text()`, `FIGURE_RE`, `SECTION_HEADER_STANDALONE`, `NON_REF_CONTENT` |
+| 0b. Headers prefixo | Strip headers de seção prepostos/apostos | `SECTION_HEADER_PREFIXES`: "Escritos ", "Teses e Dissertações ", etc. |
+| 0c. Page breaks | Split em marcadores ⏐ + número de página | `PAGE_BREAK_RE`: `\s*[⏐│\|][\uf000-\uf8ff]*\s*\d+\s+` |
+| 1. Fragmentos | Juntar à ref anterior | `is_fragment()`: começa com minúscula, ano isolado (`2003.`), URL isolada (`http://...`), `Disponível em:` isolado, curto (<60) com padrão de cidade/ano/página, começa com "In:", "Editora", "vol.", "n." |
+| 2. Endnotes | Se contém ref: extrair; senão: remover | `is_numbered_endnote()`: prefixo `^\d{1,3}\s+` seguido de texto classificado por `is_bibliographic_ref()` |
+| 3. Split | Separar concatenadas > 300 chars | `split_concatenated_refs()`: boundaries ABNT (`SOBRENOME, Nome`), Chicago (`Sobrenome, Nome`), ano+ponto, publisher (`Press,` `Editora,`), pipe (`\|`) |
+| 4. Remoção | Remover não-referências restantes | `is_bibliographic_ref()`: aceita ABNT/Chicago/APA; rejeita se começa com marcador narrativo, tem `has_narrative_structure()` ≥ 3 (PT/EN/ES), ou é nota numerada |
+| 5. Body text | Truncar body text do final de refs mistas | `truncate_body_text()`: detecta início de narrativa após dados bibliográficos |
+| 6. Near-dupes | Remover near-duplicates | `normalize_ref_for_dedup()`: normaliza pontuação, URLs, meses PT/EN/ES |
 
-Todas as correções das etapas 1.1–1.2 são aplicadas ao `anais.db`. Reportar contagens (N títulos, N refs corrigidas).
+**Passada 0 — padrões de lixo grosso** (problema de boundary na extração):
 
-**Nota:** Resumos, abstracts e keywords faltantes já foram tratados na Fase 0. A Fase 1 foca apenas em **corrigir** dados existentes (capitalização de títulos, limpeza de refs), não em preencher lacunas.
+Esses padrões indicam que a extração errou o início da seção de referências e capturou conteúdo que não é ref:
+
+```python
+# Figure captions (legendas de figuras capturadas como refs)
+FIGURE_RE = re.compile(r'^(Figura|Fig\.?|Figure|Imagem)\s*\d', re.IGNORECASE)
+
+# Section headers standalone (removidos inteiramente)
+SECTION_HEADER_STANDALONE = re.compile(
+    r'^(Escritos|Livros|Revistas e Periódicos|...)\.?\s*$')
+
+# Body text (>200 chars + narrativa + sem padrão de autor)
+def is_body_text(ref):
+    return (len(ref) > 200
+            and has_narrative_structure(ref)
+            and not ABNT_AUTHOR_RE.match(ref)
+            and not re.match(r'^[A-Z][a-z]+,\s+[A-Z]', ref))
+
+# Agradecimentos, créditos, CVs, cabeçalhos de subseção
+NON_REF_CONTENT = ['agradec', 'crédito', 'ilustraç', 'currículo',
+    'fapesp', 'cnpq', 'capes', 'bolsista',
+    'fontes primárias', 'artigos de jornais',
+    'engenheiro e proprietário']
+```
+
+**Passada 0b — headers de seção** (infiltrados como prefixo/sufixo das refs):
+
+Quando a extração pega um header de subseção bibliográfica ("Escritos", "Teses e Dissertações", "Revistas e Periódicos") junto com a primeira ref daquela subseção, o header fica preposto: `"Escritos Banham, Reyner..."`. A passada 0b detecta e remove o header, preservando a ref. Funciona também para headers no final: `"Rowe, Colin. ... 1999. Revistas e Periódicos"`.
+
+**Passada 0c — page breaks** (artefatos de quebra de página no pdftotext):
+
+Entradas como `"USP. São Carlos, 2003 ⏐ 27 Zein, Ruth Verde..."` contêm marcador de page break (⏐ U+23D0 ou │ U+2502, às vezes com PUA chars) seguido de número de página. A passada 0c divide essas entradas em duas.
+
+**Passada 2 — NOTAS/footnotes** (problema mais frequente em artigos ES):
+
+A extração captura a seção BIBLIOGRAFÍA + a seção NOTAS que vem depois. As NOTAS contêm: texto narrativo, citações abreviadas (Ibid., Op. cit.), comentários. A passada 2 detecta endnotes numeradas e extrai apenas a ref bibliográfica embutida, descartando o número e o texto narrativo.
+
+**Passada 5 — body text truncado** (refs mistas):
+
+Quando body text se juntou ao final de uma referência (ex: `"Tese de doutorado. ETSAB-UPC. Pag. 145. Vilanova Artigas já utilizava..."`), a passada 5 detecta o início da narrativa via regex e trunca a ref no boundary.
+
+**Passada 6 — near-duplicates:**
+
+Normaliza refs removendo URLs, pontuação, e mapeando meses PT/EN/ES para forma canônica antes de comparar. Detecta duplicatas que diferem apenas em: presença/ausência de URL, formato do mês (dez/dec/dic), pontuação.
+
+**Safeguard (passada 1):** fragmentos que `is_bibliographic_ref()` classifica como ref legítima NÃO são juntados — preserva refs curtas independentes (ex: "Banham, Reyner. op. cit. p. 361").
+
+**`has_narrative_structure()`:** conta marcadores de discurso em 3 idiomas (PT, EN, ES). Threshold ≥ 3 marcadores = texto narrativo, não referência.
+
+**Meta:** < 2% de problemas por seminário ao final desta etapa.
+
+#### 1.2c Revisão LLM de TODAS as referências
+
+Após o sweep determinístico (1.2b), **todas** as referências do seminário devem ser revisadas por LLM. O sweep resolve ~70% dos problemas, mas os ~30% restantes escapam às heurísticas — especialmente concatenações Chicago, notas sem marcadores numéricos, e boundary ambíguos.
+
+**Por que revisar tudo (não só os flaggados):**
+A experiência com sdbr10 (118 artigos, ~2000 refs) mostrou que o sweep + validate deixou passar ~100 problemas em 51 artigos. Muitos não eram flaggados por nenhum check — refs de 200-400 chars com concatenação Chicago, notas narrativas sem número, headers de subseção colados. A revisão LLM encontrou e corrigiu todos.
+
+**Tipos de problema que escapam às heurísticas:**
+
+| Tipo | Exemplo | Por que escapa |
+|------|---------|----------------|
+| Concatenação Chicago | `"...MIT Press, 2003. Sobrenome, Nome. Title..."` | Boundary mixed-case, ref <500 chars |
+| Notas sem número | `"O autor argumenta que a técnica construtiva..."` | Não começa com `\d+`, não flaggado como endnote |
+| Notas com ref embutida | `"Depoimento de Bucci em: Cotrim, M. (org.)..."` | Começa com nome próprio, parece ref |
+| Concatenação backfill | `"______. Obra 1. 1990. ______. Obra 2. 1995."` | Backfill resolveu só o primeiro `______` |
+| Fragmento contextual | `"Tese de doutorado. PROPAR-UFRGS, 2005."` | Parece ref independente mas é continuação |
+| Near-dupes com variação | Duas versões da mesma ref, uma com URL | `normalize_ref_for_dedup()` não normaliza tudo |
+| Headers infiltrados | `"Livros e revistas"` colado como ref | Não está na lista `SECTION_HEADER_STANDALONE` |
+
+**Procedimento (agente background):**
+
+1. Ler TODAS as refs do seminário do banco (batch de ~20 artigos)
+2. Para cada artigo, ler também o `fontes/{id}.txt` para comparar com a seção de referências original
+3. Identificar e corrigir: concatenações, splits errados, notas, junk, headers
+4. Gravar as correções no banco via UPDATE SQL
+5. Ao final, gerar relatório de mudanças e rodar `dump_anais_db.py`
+
+**Prompt para o agente:**
+
+```
+Review ALL references in {slug}. For each article:
+1. Read refs from DB and fontes/{id}.txt
+2. Fix: concatenated refs, split refs, notes/endnotes, figure captions, headers, junk
+3. Write corrected refs back to DB
+4. Track all changes for final report
+```
+
+**Critérios de decisão LLM:**
+- **Concatenação**: duas estruturas bibliográficas na mesma entrada → separar
+- **Split**: entrada que começa com minúscula, "In:", URL, ano isolado, cidade/editora → juntar à anterior
+- **Nota vs ref**: entrada com narrativa ("O autor argumenta...", "Ver também...") → remover; entrada com dados bibliográficos → manter
+- **Header**: entrada que é nome de seção sem dados bibliográficos → remover
+
+**Relatório final**: o agente deve produzir:
+1. Lista de artigos modificados com contagem antes/depois
+2. Estatísticas por tipo de erro (concatenação, split, nota, junk)
+3. Análise de padrões: erros que se repetem → candidatos a nova heurística
+
+**Retroalimentação do pipeline**: após a revisão LLM, analisar os padrões de erro encontrados e implementar novas heurísticas no sweep para evitar os mesmos problemas nos seminários seguintes. Testar as melhorias em outro seminário (não no que acabou de ser revisado).
+
+**NÃO passa para revisão humana** — resolve-se inteiramente na sessão Claude Code.
+
+### 1.3 Keywords (split, garbage, capitalização)
+
+**Objetivo:** Limpar e normalizar keywords em PT, EN e ES. A extração via `pdftotext` frequentemente produz keywords aglutinadas (separadas com `.`, `,` ou `/` dentro de uma única entrada), texto de template de formulário ("máximo 3, separados com ponto"), e capitalização inconsistente.
+
+```bash
+# 1. Limpeza automática: split, garbage, trim, dedup
+python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords --dry-run
+python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords
+```
+
+O `--clean-keywords` executa 4 operações em sequência:
+
+1. **Remover template garbage** — instruções de formulário que ficaram no lugar de keywords reais (regex: `máximo \d`, `separados com`, `espaçamento`, `parágrafo de \d+ pt`)
+2. **Separar keywords aglutinadas** — detecta separadores internos:
+   - `. ` ou `.` sem espaço (quando seguido de maiúscula e keyword > 30 chars)
+   - ` / ` (barra)
+   - `, ` (vírgula, só se keyword > 40 chars e cada parte ≥ 3 chars)
+3. **Trim de pontuação final** — remove `.`, `;`, `,` do final
+4. **Dedup** — remove duplicatas case-insensitive (preserva primeira ocorrência)
+
+```bash
+# 2. Normalizar capitalização (após limpeza)
+```
+
+A capitalização das keywords depende do idioma:
+
+- **PT**: usar as mesmas regras dos títulos — expressões consolidadas em maiúscula ("Arquitetura Moderna", "Brutalismo"), termos genéricos em minúscula ("concreto armado", "preservação"). Consultar `dict.db` e `MEMORY.md` para as formas canônicas.
+- **EN**: Title Case para movimentos e expressões ("Modern Architecture", "New Brutalism"), lowercase para termos genéricos ("aesthetics", "structure"). Nomes próprios preservados.
+- **ES**: mesma lógica que PT — expressões consolidadas maiúscula, genéricos minúscula.
+
+A normalização de capitalização é **manual** (não automatizada), porque depende de contexto semântico. Após a limpeza automática, verificar inconsistências:
+
+```python
+# Detectar formas inconsistentes (mesmo keyword com casing diferente)
+import json, sqlite3
+conn = sqlite3.connect('anais.db')
+cur = conn.cursor()
+for col in ['keywords', 'keywords_en', 'keywords_es']:
+    cur.execute(f"SELECT id, {col} FROM articles WHERE seminar_slug = ? AND {col} IS NOT NULL", (slug,))
+    kw_forms = {}
+    for art_id, kw_json in cur.fetchall():
+        for k in json.loads(kw_json):
+            lower = k.strip().lower()
+            kw_forms.setdefault(lower, set()).add(k.strip())
+    inconsistent = {l: f for l, f in kw_forms.items() if len(f) > 1}
+    if inconsistent:
+        print(f"\n{col}: {len(inconsistent)} inconsistências")
+        for lower, forms in sorted(inconsistent.items()):
+            print(f"  {lower}: {forms}")
+```
+
+Escolher a forma canônica para cada caso e aplicar com UPDATE direto no banco.
+
+### 1.4 Aplicar correções ao banco
+
+Todas as correções das etapas 1.1–1.3 são aplicadas ao `anais.db`. Reportar contagens (N títulos, N refs corrigidas, N keywords corrigidas).
+
+**Nota:** Resumos, abstracts e keywords faltantes já foram tratados na Fase 0. A Fase 1 foca apenas em **corrigir** dados existentes (capitalização de títulos, limpeza de refs, normalização de keywords), não em preencher lacunas.
+
+### 1.5 Loop de validação e correção
+
+A validação é o **checkpoint** do loop. O `--loop` combina validação + auto-fixes + fix handlers numa única execução iterativa. Só sai do loop quando nenhuma correção é aplicada numa iteração, ou após 5 iterações (cap de segurança).
+
+```bash
+# Executar o loop completo (recomendado):
+python3 scripts/fix_validation_issues.py --slug {slug} --loop
+```
+
+```
+         ┌───────────────────────────────────────────┐
+         │  validate_metadata.py --fix (auto-fixes)   │
+         │  A15 locale mismatch                       │
+         │  A16 control chars                         │
+         │  A17 refs duplicadas                       │
+         │  A20 abstract overflow                     │
+         │  A21 abstract_es lixo EN / redundante      │
+         │  A22 body text em refs (remove entradas)   │
+         └──────────────┬────────────────────────────┘
+                        │
+                        ▼
+         ┌───────────────────────────────────────────┐
+         │  fix handlers (extração de fontes/)        │
+         │  A07 extrair abstract_en                   │
+         │  A08 extrair keywords_en                   │
+         │  A19 re-extrair abstracts truncados         │
+         └──────────────┬────────────────────────────┘
+                        │
+                        ▼
+              Algo foi corrigido?
+              ╱              ╲
+            sim               não → sair do loop → 1.6
+              ╲              ╱
+               ▼
+              volta ao topo (max 5×)
+
+**NOTA:** A10 (backfills), A11 (split), A12 (não-refs), A13 (URLs órfãs)
+são resolvidos pelo sweep_refs (1.2b) — NÃO fazem parte do loop.
+Se restarem após o sweep, são casos ambíguos para revisão LLM (1.2c).
+```
+
+**IMPORTANTE:** O `--loop` **NÃO** re-roda `clean_references.py` nem `--sweep-refs`. Esses devem ser executados **antes** do loop (etapas 1.2a e 1.2b). O loop trata apenas extração de fontes/ (A07, A08, A19) — issues de refs (A10-A13) são resolvidos pelo sweep e pela revisão LLM (1.2c).
+
+**Máximo 5 iterações.** Se não convergir, os issues restantes vão para revisão humana.
+
+**Sem risco de loop infinito:** cada fix handler só aplica correções idempotentes (extrair texto mais longo, remover não-ref, substituir backfill). Nenhuma correção pode criar um issue que outra correção desfaz.
+
+#### 1.5a Checks da validação
+
+```bash
+# Preview (sem alterar banco)
+python3 scripts/validate_metadata.py --slug {slug} --dry-run
+
+# Aplicar auto-fixes e gerar relatório
+python3 scripts/validate_metadata.py --slug {slug} --fix
+```
+
+O script primeiro constrói um **perfil do seminário** (% de preenchimento de cada campo). Só sinaliza campo faltante se ≥30% dos artigos do seminário têm esse campo (evita ruído em seminários sem seção EN).
+
+**Checks:**
+
+| Check | Descrição | Modo |
+|-------|-----------|------|
+| A01 | abstract_en existe mas keywords_en falta | REPORT |
+| A02 | keywords_en existe mas abstract_en falta | REPORT |
+| A03 | abstract_es existe mas keywords_es falta | REPORT |
+| A04 | keywords_es existe mas abstract_es falta | REPORT |
+| A05 | ~~REMOVIDO~~ — em locale=es, `abstract` já contém o resumo em espanhol; copiar para abstract_es criava ciclo com A21 | — |
+| A06 | ~~REMOVIDO~~ — mesma lógica: `keywords` já está em espanhol para locale=es | — |
+| A07 | Marcador "Abstract" no fontes/ mas abstract_en vazio | REPORT |
+| A08 | Marcador "Keywords" no fontes/ mas keywords_en vazio | REPORT |
+| A09 | Marcador "Resumen" no fontes/ mas abstract_es vazio | REPORT |
+| A10 | Backfill pendente (refs com `__`, `---`, etc.) | REPORT |
+| A11 | Ref > 500 chars (provavelmente concatenada) | REPORT |
+| A12 | Não-referência nas refs (créditos, CVs, agradecimentos) | REPORT |
+| A13 | URLs órfãs (ref é só URL) | REPORT |
+| A14 | Abstract contém email, afiliação ou CV | REPORT |
+| A15 | Locale mismatch (abstract em ES mas locale=pt-BR) | AUTO-FIX |
+| A16 | Control characters em campos de texto | AUTO-FIX |
+| A17 | Referências duplicadas no mesmo artigo | AUTO-FIX |
+| A18 | Artigo sem autores vinculados | REPORT |
+| A19 | Abstract possivelmente truncado (sem pontuação final) | REPORT |
+| A20 | Abstract overflow (>5000 chars — corpo do texto vazado) | AUTO-FIX |
+| A21 | abstract_es com lixo EN (marcadores Abstract/Keywords/⏐) ou redundante (== abstract em locale=es) | AUTO-FIX |
+| A22 | Refs com body text (>200 chars narrativo) ou figure captions | AUTO-FIX (remove entradas) + LLM (ambíguos) |
+
+**Relatório:** Salva `revisao/{slug}-validation.json` com a lista de issues e `category_b_candidates` (issues que precisam de julgamento LLM).
+
+#### 1.5b Issues e responsabilidades
+
+| Check | Descrição | Quem resolve | Método |
+|-------|-----------|-------------|--------|
+| A01-A04 | Mismatches EN/ES | revisão humana | conferência no PDF |
+| A05, A06 | ~~REMOVIDOS~~ — ciclo com A21 | — | — |
+| A07 | abstract_en faltante (marcador no fontes/) | fix handler | `extract_abstract_en()` |
+| A08 | keywords_en faltante (marcador no fontes/) | fix handler | `extract_keywords_en()` |
+| A09 | abstract_es faltante (marcador no fontes/) | revisão humana | extração manual |
+| A10 | Backfill pendente (___) | sweep_refs (1.2b) | `clean_references.py` + sweep passada 1 |
+| A11 | Ref > 500 chars (concatenada) | sweep_refs (1.2b, threshold 300) + validate (report >500) | `split_concatenated_refs()` passada 3 |
+| A12 | Não-referência nas refs | sweep_refs (1.2b) | `is_bibliographic_ref()` passada 4 |
+| A13 | URLs órfãs | sweep_refs (1.2b) | passada 1 (fragmentos) |
+| A14 | Abstract contaminado | revisão humana | falsos positivos frequentes |
+| A15 | Locale mismatch | auto-fix (validate) | detecção de idioma |
+| A16 | Control characters | auto-fix (validate) | remoção automática |
+| A17 | Refs duplicadas | auto-fix (validate) | dedup automático |
+| A18 | Sem autores | revisão humana | investigação manual |
+| A19 | Abstract truncado | fix handler | `re_extract_abstract()` (prioriza fontes_doc/) |
+| A20 | Abstract overflow (>5000 chars) | auto-fix (validate) | trunca no marcador de keywords |
+| A21 | abstract_es com lixo EN | auto-fix (validate) | truncar no marcador de keywords ES, ou NULL se redundante |
+| A22 | Refs com body text/figure captions | sweep_refs passada 0 | `is_body_text()`, `FIGURE_RE` |
+
+**REGRA CRÍTICA sobre refs:** Lugar de footnote e endnote **NÃO** é no campo `references_`. Se o artigo usa citação em nota de rodapé ao invés de bibliografia, o campo `references_` fica vazio (ou com as poucas refs bibliográficas que houver).
+
+#### 1.5c Critério de saída do loop
+
+**Critério de conclusão**: os issues restantes são **fatos** (dado não existe no documento original), não **erros** (dado errado ou extraível). Se um issue é corrigível, o script deve corrigi-lo — não deixar para revisão humana.
+
+Após convergir, atualizar `revisao/{slug}-rev-status.md` com:
+- Resultados da validação final (issues restantes por categoria)
+- Estatísticas de preenchimento atualizadas
+- Issues residuais devem ser **dados ausentes no PDF** (verificados), não erros
+
+### 1.6 Auditoria final
+
+#### 1.6a Cobertura de metadados (artigos)
+
+Verificar a cobertura de **todos** os campos dos artigos. Funciona como checklist final — nenhum campo deve passar despercebido.
+
+```python
+import json, sqlite3
+conn = sqlite3.connect('anais.db')
+conn.row_factory = sqlite3.Row
+cur = conn.cursor()
+
+fields = ['title', 'subtitle', 'abstract', 'abstract_en', 'abstract_es',
+          'keywords', 'keywords_en', 'keywords_es', 'references_', 'locale',
+          'title_en', 'subtitle_en']
+
+cur.execute('SELECT * FROM articles WHERE seminar_slug = ? ORDER BY id', (slug,))
+rows = cur.fetchall()
+
+print(f'=== Cobertura — {slug} ({len(rows)} artigos) ===')
+for col in fields:
+    filled = sum(1 for r in rows if r[col] and r[col] not in ('[]', ''))
+    pct = filled * 100 // len(rows)
+    print(f'  {col:15s}: {filled:3d}/{len(rows)} ({pct:3d}%)')
+
+# Autores
+cur.execute("""SELECT a.id, COUNT(aa.author_id) as n
+    FROM articles a LEFT JOIN article_author aa ON a.id = aa.article_id
+    WHERE a.seminar_slug = ? GROUP BY a.id""", (slug,))
+no_auth = [r['id'] for r in cur.fetchall() if r['n'] == 0]
+print(f'  {"autores":15s}: {len(rows)-len(no_auth):3d}/{len(rows)}')
+if no_auth:
+    print(f'    SEM AUTORES: {no_auth}')
+
+# Seções
+cur.execute('SELECT COUNT(*) FROM sections WHERE seminar_slug = ?', (slug,))
+n_sections = cur.fetchone()[0]
+cur.execute('SELECT COUNT(*) FROM articles WHERE seminar_slug = ? AND section_id IS NOT NULL', (slug,))
+with_section = cur.fetchone()[0]
+print(f'  {"seções":15s}: {n_sections} seções, {with_section}/{len(rows)} artigos com seção')
+```
+
+| Campo | Obrigatório | Observação |
+|-------|-------------|------------|
+| title | ✅ sim | Deve ter 100% |
+| subtitle | ❌ não | Nem todo artigo tem subtítulo |
+| abstract | ✅ sim | Exceções: artigos só resumo sem abstract no PDF |
+| abstract_en | condicional | Se ≥30% do seminário tem, buscar nos faltantes |
+| abstract_es | condicional | Só artigos em espanhol |
+| keywords | ✅ sim | Exceções: template vazio no PDF |
+| keywords_en | condicional | Se ≥30% do seminário tem |
+| keywords_es | condicional | Só artigos em espanhol |
+| references_ | ✅ sim | Exceções: artigos com footnotes (sem lista de refs) |
+| locale | ✅ sim | Deve ter 100% |
+| title_en | ❌ não | Só se o artigo tem seção EN no PDF |
+| subtitle_en | ❌ não | Raro |
+| autores | ✅ sim | Deve ter 100% |
+
+#### 1.6b Metadados do seminário (verificar + preencher)
+
+**Objetivo:** Garantir que os metadados do seminário estejam completos e corretos. Diferente da cobertura de artigos (que é estatística), aqui cada campo deve ser **verificado e preenchido** — não basta listar o que falta.
+
+```python
+cur.execute('SELECT * FROM seminars WHERE slug = ?', (slug,))
+sem = cur.fetchone()
+sem_fields = ['title', 'subtitle', 'publisher', 'isbn', 'date_published',
+              'location', 'description', 'editors']
+print(f'\n=== Metadados do seminário ===')
+for col in sem_fields:
+    val = sem[col] if sem[col] else '— FALTANDO'
+    print(f'  {col:15s}: {str(val)[:80]}')
+```
+
+| Campo | Obrigatório | Fonte | Como preencher |
+|-------|-------------|-------|----------------|
+| title | ✅ | Capa/ficha catalográfica | Nome completo do evento |
+| subtitle | ❌ | Capa | Tema do evento (quando houver) |
+| publisher | ✅ | Ficha catalográfica | Editora dos anais. Se não constar, usar "Núcleo Docomomo {Estado/Região}" |
+| isbn | ✅ | Ficha catalográfica | Se disponível. Buscar também via Google `"ISBN" "{título do evento}"` |
+| date_published | ✅ | Capa/programa | Data do evento (formato YYYY-MM-DD) |
+| location | ✅ | Capa/programa | Cidade do evento |
+| description | ✅ | Construir | Referência bibliográfica completa dos anais (ABNT) |
+| editors | ❌ | Ficha catalográfica / programa / site | Organizadores. Se não constar na ficha, buscar no programa do evento ou no site |
+
+**Procedimento para campos faltantes:**
+
+1. **Verificar a ficha catalográfica** no PDF dos anais (geralmente nas primeiras páginas, capa ou contracapa)
+2. **Se a ficha não tem o dado**, buscar na internet: `"{título do evento}" "{ano}" site:{domínio do evento}`, buscar no Google Scholar, no Catálogo da Biblioteca Nacional
+3. **Se não encontrar**, registrar como "não localizado" no `revisao/{slug}-rev-status.md`
+4. **Regra do publisher**: quando não indicado na ficha, usar "Núcleo Docomomo {Estado/Região}" para regionais ou "Docomomo Brasil" para nacionais
+
+**Após preencher todos os campos, gerar/atualizar a `description` (ficha catalográfica ABNT):**
+
+O campo `description` é a referência bibliográfica completa dos anais, construída a partir dos demais campos. Formato padrão:
+
+```
+N° Nome do Evento: anais: Subtítulo [recurso eletrônico] / organização: Editor1, Editor2. Cidade: Editora, Ano. ISBN: XXX.
+```
+
+Exemplos reais:
+```
+5° Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo modernos: projeto e preservação [recurso eletrônico] / organização: Hugo Segawa. São Carlos: SAP-EESC-USP, 2003. ISBN: 85-85205-43-1.
+
+1º Seminário Docomomo Norte/Nordeste: anais: Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade [recurso eletrônico] / comissão organizadora: Andréa Câmara... [et al.]. Recife: DEA-UNICAP; MDU-UFPE; CECI, 2006.
+```
+
+Código para gerar e verificar:
+
+```python
+import json, re
+
+EVENT_NAME = {
+    'sdbr': 'Seminário Docomomo Brasil',
+    'sdnne': 'Seminário Docomomo Norte/Nordeste',
+    'sdmg': 'Seminário Docomomo Minas Gerais',
+    'sdrj': 'Encontro Docomomo Rio',
+    'sdsp': 'Seminário Docomomo São Paulo',
+    'sdsul': 'Seminário Docomomo Sul',
+    'sdpr': 'Seminário Docomomo Paraná',
+}
+
+def get_event_name(slug):
+    for prefix, name in EVENT_NAME.items():
+        if slug.startswith(prefix):
+            return name
+    return 'Seminário Docomomo'
+
+def build_description(sem):
+    """Gera a ficha catalográfica a partir dos campos do seminário."""
+    slug = sem['slug']
+    number = int(re.search(r'(\d+)$', slug).group(1))
+    event = get_event_name(slug)
+    subtitle = sem['subtitle'] or ''
+    publisher = sem['publisher'] or ''
+    isbn = sem['isbn'] or ''
+    year = sem['year']
+    location = sem['location'] or ''
+
+    editors = []
+    if sem['editors']:
+        try:
+            editors = json.loads(sem['editors'])
+        except (json.JSONDecodeError, TypeError):
+            pass
+
+    # Montar
+    desc = f'{number}° {event}: anais'
+    if subtitle:
+        desc += f': {subtitle}'
+    desc += ' [recurso eletrônico]'
+
+    if editors:
+        if len(editors) <= 3:
+            desc += f' / organização: {", ".join(editors)}'
+        else:
+            desc += f' / organização: {editors[0]} et al.'
+
+    # Imprenta: Cidade: Editora, Ano
+    if location and publisher and year:
+        desc += f'. {location}: {publisher}, {year}'
+    elif location and year:
+        desc += f'. {location}, {year}'
+    elif publisher and year:
+        desc += f'. {publisher}, {year}'
+
+    if isbn:
+        desc += f'. ISBN: {isbn}'
+
+    desc += '.'
+    return desc
+
+# Verificar
+cur.execute('SELECT * FROM seminars WHERE slug = ?', (slug,))
+sem = cur.fetchone()
+generated = build_description(sem)
+current = sem['description'] or ''
+
+print(f'Atual:  {current}')
+print(f'Gerada: {generated}')
+
+if current != generated:
+    print('→ DIFERENÇA — atualizar:')
+    cur.execute('UPDATE seminars SET description = ? WHERE slug = ?',
+                (generated, slug))
+    conn.commit()
+```
+
+**Regras da ficha catalográfica:**
+- `N°`: usar número ordinal (1°, 2°, ..., não 1º)
+- `[recurso eletrônico]`: sempre presente (todos os anais são digitais)
+- Editores: até 3 nomes completos; 4+ usa `et al.`
+- Cidade: é a cidade de **publicação** (sede da editora), não necessariamente a do evento
+- ISBN: manter formato original (com ou sem hífens)
+- Ponto final no fim
+- Se a ficha original dos anais tiver informações adicionais (DOI, URL, número de páginas), preservar ao final
+
+#### 1.6c Seções / sessões (estrutura temática do evento)
+
+**Objetivo:** Mapear os artigos à estrutura temática do evento — eixos temáticos, mesas temáticas, ou sessões.
+
+**Hierarquia de preferência:** Primeiro buscar **seções (eixos temáticos)** — são a divisão editorial dos anais, mais estável e significativa. Só recorrer a **sessões** (divisão logística do programa) se os eixos não forem encontrados. Eixos temáticos geralmente aparecem na **chamada de trabalhos**, na **capa dos anais**, no **sumário**, ou no **cabeçalho dos artigos**. Sessões aparecem no **programa do evento**.
+
+**Fontes (em ordem de preferência):**
+1. Sumário ou índice dos anais (PDF do volume)
+2. Cabeçalho dos PDFs dos artigos (eixo/mesa indicado na primeira página)
+3. Chamada de trabalhos (site do evento, e-mail de divulgação)
+4. Caderno de programação / programa das sessões
+5. Caderno de resumos (quando publicado em separado)
+
+**Procedimento:**
+
+1. **Verificar os PDFs dos artigos** — o cabeçalho da primeira página indica o eixo temático? Se sim, extrair os eixos daí (mais confiável que o programa)
+2. **Verificar o sumário dos anais** — se o PDF do volume tem sumário organizado por seções/eixos, usar essa estrutura
+3. **Se não houver eixos**, localizar o programa do evento — buscar na internet `"{título do evento}" programa sessões`, verificar o site do evento
+4. **Extrair as seções** — listar seção/eixo + título + artigos/autores. Se o PDF do programa tiver layout de 2 colunas, converter para imagem (`pdftoppm`) e ler visualmente em vez de confiar no pdftotext
+5. **Criar as seções no banco** — `INSERT INTO sections (seminar_slug, title, seq)`
+6. **Mapear artigos → seções** — cruzar autores e títulos com o banco. Usar fuzzy matching + verificação manual dos autores para desambiguar títulos que mudaram entre programa e publicação
+7. **Artigos sem seção** — artigos nos anais que não aparecem no programa (pôsteres, adições tardias) ficam com `section_id = NULL`
+8. **Seções sem artigos** — sessões cujos papers não foram publicados nos anais (ex: conferências de convidados, mesas-redondas). Criar a seção mesmo assim para documentar a estrutura do evento
+
+**Quando não encontrar nem eixos nem programa:** Registrar no status que a estrutura temática não foi localizada.
+
+**Critério de conclusão da 1.6**: todos os campos obrigatórios dos artigos com 100% (ou exceções documentadas); metadados do seminário preenchidos; seções/sessões criadas e artigos mapeados onde possível. Tudo registrado no `revisao/{slug}-rev-status.md`.
 
 ---
 
@@ -495,13 +1101,42 @@ python3 scripts/gerar_revisao_html.py {slug}
 
 Gera `revisao/revisao-{slug}.html` com:
 - Capa do seminário (se houver)
-- Ficha catalográfica
+- Ficha catalográfica (campo `description` do DB, com fallback para YAML)
+- **Sumário de validação** — se `revisao/{slug}-validation.json` existir, exibe painel com contagem de issues por categoria
 - Artigos agrupados por seção
 - Para cada artigo: título, subtítulo, autores (com afiliação), resumo PT, abstract EN, keywords PT/EN, referências
+- **Alertas inline** — artigos com issues de validação exibem badges coloridos (warning/error/info) com detalhes do problema
 
-Abrir no navegador para revisão humana.
+O HTML é auto-contido (CSS inline, capa em base64). Abrir no navegador para revisão humana.
+
+**IMPORTANTE:** Rodar `validate_metadata.py --fix` **ANTES** de gerar o HTML, para que os warnings estejam atualizados. Sem o JSON de validação, o HTML não mostra alertas.
 
 **Próximo passo:** Executar o [pipeline de revisão humana](pipeline_revisao_humana.md).
+
+---
+
+## Fase 3 — Aprendizado pós-revisão humana
+
+Após a revisão humana (Fases 3–5 do [pipeline de revisão humana](pipeline_revisao_humana.md)), cada correção manual é analisada para retroalimentar o pipeline automático.
+
+**Princípio:** Para cada correção humana, perguntar: "por que o pipeline não resolveu isso?" A resposta é incorporada ao código, ao dict.db ou à documentação, para que o próximo seminário tenha menos correções manuais.
+
+O procedimento detalhado está na **Fase 5.4** do [pipeline de revisão humana](pipeline_revisao_humana.md). Resumo:
+
+1. **Para cada correção** no `revisao/{slug}-rev.md`: ir ao fontes/ original, identificar em qual etapa do pipeline o erro deveria ter sido pego
+2. **Classificar**: padrão recorrente (automatizar), caso único (só aplicar), dado faltante no dict.db (adicionar)
+3. **Incorporar**: novo padrão em `is_bibliographic_ref()`, `is_fragment()`, `sweep_refs`, `re_extract_abstract()`, `dict.db`, etc.
+4. **Verificar**: re-rodar em dry-run no mesmo seminário + testar num seminário não revisado
+5. **Registrar**: documentar falhas e melhorias em `revisao/{slug}-rev-status.md`
+
+**Exemplos concretos (aprendidos na revisão do sdbr10):**
+
+| Correção humana | Falha identificada | Incorporação |
+|-----------------|-------------------|-------------|
+| "la" maiúscula indevida em título ES | `dict.db` tinha "la" como `nome` (vindo de `seed_authors.py`) | Removido do dict — "La" em nomes próprios é tratado por expressões ("La Coruña") |
+| NOTAS misturadas com refs (sdbr10-047, 049, 096) | sweep_refs não tinha passada 0 para lixo grosso | Adicionados padrões de body text e figure captions |
+| abstract_es com lixo EN (sdbr10-047, 049) | End marker "Palabras-chave:" (híbrido PT/ES) não reconhecido | Adicionado ao `re_extract_abstract()` |
+| Body text como refs (sdbr10-086: 29 entradas) | Boundary de extração errou | `is_body_text()` detecta parágrafos narrativos longos |
 
 ---
 
@@ -615,12 +1250,17 @@ Esse fluxo em 3 passos é mais rápido que delegar tudo a um agente e esperar el
 
 | Comando | Fase | Função |
 |---------|------|--------|
+| `scripts/extrair_fontes_plumber.py --slug {slug}` | 0.3b | Extrair fontes estruturadas (pdfplumber → .jsonl com roles semânticos) |
 | `scripts/extrair_metadados_en.py --slug {slug}` | 0.6 | Extrair title_en, subtitle_en, abstract_en, keywords_en |
-| `scripts/validar_abstracts.py --slug {slug}` | 0.5 | Validar abstracts (9 regras heurísticas) |
+| `scripts/validar_abstracts.py --slug {slug}` | 0.5 | Validar abstracts (9 regras + lixo ES) |
 | `scripts/validar_abstracts.py --slug {slug} --fix-swap` | 0.5 | Corrigir swaps abstract PT↔EN |
 | `dict/seed_authors.py` + `seed_titles.py --apply` + `dump_db.py` | 1.1a | Alimentar dicionário |
 | `scripts/normalizar_maiusculas.py --slug {slug}` | 1.1a | Normalizar títulos PT |
 | `scripts/normalizar_titulos_en.py --slug {slug}` | 1.1b | Normalizar títulos EN (Title Case) |
-| `scripts/clean_references.py --slug {slug}` | 1.2 | Limpar referências |
-| `scripts/check_references.py --slug {slug} --summary` | 1.2 | Verificar referências |
-| `scripts/gerar_revisao_html.py {slug}` | 2 | Gerar HTML de revisão |
+| `scripts/clean_references.py --slug {slug}` | 1.2a | Limpar referências (backfills, split ABNT, URLs) |
+| `scripts/check_references.py --slug {slug} --summary` | 1.2a | Verificar referências |
+| `scripts/fix_validation_issues.py --slug {slug} --sweep-refs` | 1.2b | Varredura completa de refs (fragmentos, endnotes, body text) |
+| `scripts/fix_validation_issues.py --slug {slug} --clean-keywords` | 1.3 | Limpeza de keywords (split, garbage, trim, dedup) |
+| `scripts/validate_metadata.py --slug {slug} --fix` | 1.5a | Validar + auto-fix (checkpoint do loop) |
+| `scripts/fix_validation_issues.py --slug {slug} --loop` | 1.5 | Loop validate→fix→validate até convergir |
+| `scripts/gerar_revisao_html.py {slug}` | 2 | Gerar HTML de revisão (com alertas de validação) |

@@ -23,6 +23,8 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr06 | 63 | ✅ revisado | 2026-03-01 |
 | sdbr07 | 62 | ✅ revisado | 2026-03-02 |
 | sdbr08 | 188 | ✅ revisado | 2026-03-09 |
+| sdbr09 | 170 | ✅ revisado | 2026-03-09 |
+| sdbr10 | 118 | 🔄 em revisão | 2026-03-14 |
 
 ---
 
@@ -123,6 +125,7 @@ Credenciais em `.credentials` (gitignored). Resumo dos serviços:
 | `dict/normalizar.py` | Módulo de normalização de maiúsculas. 3 passadas: palavra, expressão, toponímico contextual |
 | `scripts/clean_references.py` | Limpeza automática de refs: split underscores ABNT, backfill autores, join URLs. `--dry-run`, `--slug` |
 | `scripts/check_references.py` | Detecta erros em referências: concatenadas, não-referências, fragmentos. `--summary`, `--slug`, `--type` |
+| `scripts/validate_metadata.py` | Validação abrangente pós-pipeline: cruzamentos idioma, backfills, refs longas, locale, fontes/. `--fix`, `--dry-run`, `--slug` |
 | `scripts/upload_zenodo.py` | Upload PDFs para Zenodo (sandbox/production, dry-run, skip-existing) |
 | `scripts/db2hugo.py` | Gera conteúdo Hugo a partir do anais.db |
 | `scripts/gerar_revisao_html.py` | HTML de revisão por seminário: capa, ficha, artigos por seção. `python3 scripts/gerar_revisao_html.py SLUG` → `/tmp/revisao-SLUG.html` |
@@ -210,6 +213,17 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-14 — Revisão pipeline + sdbr10 refs + abstracts multilíngues
+
+- **Pipeline revisão refatorado**: sweep_refs agora roda ANTES do loop validate (1.2b); loop 1.5 reduzido a A07/A08/A19 (extração fontes/); A05/A06 removidos (ciclo com A21); A10-A13 removidos do loop (cobertos pelo sweep)
+- **sweep_refs melhorado**: threshold 300 chars (era 500), novos patterns: publisher boundary, pipe separator, ano isolado, URL isolada, Disponível em: isolado; NON_REF_STARTERS expandido (Ibíd., Op.cit., créditos de foto); truncate_body_text com +12 verbos narrativos
+- **1.2c revisão LLM completa**: documentada como etapa obrigatória para TODAS as refs (não só ambíguas). Agente background revisa refs vs fontes/, corrige concatenações/splits/notas, retroalimenta pipeline
+- **sdbr10 refs**: revisão LLM de 113 artigos (51 modificados, ~100 refs corrigidas: 45 concatenações, 40 notas, 15 splits). Correções manuais do rev.md aplicadas (029, 055, 057 entre outros)
+- **Abstracts multilíngues**: labels fixos ao campo (abstract=Resumo, abstract_en=Abstract, abstract_es=Resumen), ordem por locale (ES: Resumen primeiro). Fallback no Zenodo: abstract → abstract_en → abstract_es. HTML e Hugo atualizados
+- **validate_metadata.py**: fix A17/A22 stale refs (sync in-memory); keywords não-JSON parseadas como comma-separated
+- **upload_zenodo.py**: SELECT ampliado com abstract_en/es, keywords_en/es, title_en/subtitle_en; fallback inteligente de abstract e keywords por locale
+- **fix_validation_issues.py**: fix_a19 integra fontes_plumber/; "The "/"In " removidos de NON_REF_STARTERS (falsos positivos)
 
 ### 2026-03-03 — sdnne06 novos PDFs + pipeline produção Hugo
 
