@@ -356,7 +356,7 @@ def check_abstract_contamination(article):
 
         # Lixo de extração: formulário/tabela capturado como abstract
         # Padrão: texto com muitas repetições, campos de formulário, dados tabulares
-        if text.count('?') > 3 and len(text) > 200:
+        if text.count('?') > 5 and len(text) > 200:
             problems.append('possível formulário/questionário (muitas interrogações)')
         # Proporção alta de maiúsculas = tabela/cabeçalhos, não prosa
         upper_ratio = sum(1 for c in text if c.isupper()) / max(len(text), 1)
@@ -1016,8 +1016,8 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                         kw_m = re.search(r'\s*(Keywords?\s*:|Key-?\s*words?\s*:)', en_part, re.IGNORECASE)
                         if kw_m:
                             en_part = en_part[:kw_m.start()].strip()
-                        # Remover keywords do final do PT
-                        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]have\s*:', pt_part)
+                        # Remover keywords do final do PT (todas as variantes)
+                        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:?', pt_part)
                         if kw_m:
                             pt_part = pt_part[:kw_m.start()].strip()
                         if len(pt_part) > 50 and len(en_part) > 30:
