@@ -202,21 +202,29 @@ WHERE seminar_slug = '{slug}' AND (abstract IS NULL OR abstract = '');
 
 **REGRA: Inspecionar TODOS os artigos fora do padrão, sem exceção.** Não avançar para a Fase 0.4 nem para a Fase 1 enquanto todos os PDFs não tiverem sido inspecionados. Verificar parcialmente e prosseguir é o erro mais comum nesta etapa.
 
-**Extração de texto**: Usar **pdfplumber** como fonte primária na fase de revisão. O pdftotext pode existir de fases anteriores (tratamento), mas **não é confiável para revisão** — não lida com colunas, fragmenta texto, mistura notas com corpo.
+**Extração de texto — hierarquia de fontes:**
+
+A qualidade da extração depende da fonte. Verificar **nesta ordem** antes de qualquer extração:
+
+1. **doc/docx originais** — qualidade máxima. O formato .docx é XML estruturado: preserva estilos de parágrafo (Heading, Title, Normal), negrito, itálico. Com `python-docx` é possível separar título, abstract, keywords e referências **pelo estilo**, sem depender de regex. Os originais podem estar em `fontes/anais/`, organizados por eixo. Arquivos .doc (formato binário antigo) podem ser convertidos para .docx com LibreOffice antes de processar.
+2. **pdfplumber** → `fontes_plumber/` — boa qualidade, preserva estrutura tipográfica (separa refs de notas por font_size). Usar quando não há doc/docx.
+3. **pdftotext** → `fontes/` — fallback. Não lida com colunas, fragmenta texto.
 
 ```bash
-# Extrair com pdfplumber (fonte primária para revisão)
+# 1. PRIMEIRO: verificar se existem doc/docx/rtf/odt originais
+find nacionais/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.rtf" -o -name "*.odt" | wc -l
+
+# Se existem .docx: ler diretamente com python-docx (preserva estilos)
+# Se existem .doc: converter para .docx primeiro
+#   soffice --headless --convert-to docx --outdir nacionais/{slug}/fontes_doc/ "{arquivo}.doc"
+# Depois: mapear os nomes dos .docx para os IDs dos artigos (cruzar por autor/título)
+
+# 2. SE NÃO existem doc/docx: extrair com pdfplumber
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only  # calibrar
 python3 scripts/extrair_fontes_plumber.py --slug {slug}                 # extrair
-
-# pdftotext (opcional, só se fontes/ não existir de fase anterior)
-# mkdir -p nacionais/{slug}/fontes
-# for pdf in nacionais/{slug}/pdfs/*.pdf; do
-#   pdftotext "$pdf" "nacionais/{slug}/fontes/$(basename "$pdf" .pdf).txt" 2>/dev/null
-# done
 ```
 
-**REGRA**: Na fase de revisão, **sempre usar fontes_plumber/** como fonte primária. O fontes/ (pdftotext) é fallback apenas quando fontes_plumber/ não existe. Para PDFs escaneados, usar `ocrmypdf` antes de qualquer extração.
+**REGRA**: **SEMPRE verificar se existem doc/docx originais ANTES de rodar pdfplumber.** Muitos seminários receberam os artigos em Word — essa é a fonte de maior qualidade. Usar `python-docx` para ler os .docx com seus estilos, não converter para .txt (perde-se a estrutura). pdfplumber é para quando só há PDFs.
 
 Para **cada** artigo fora do padrão, buscar o campo faltante nos blocos do `.jsonl`:
 - **Abstract/resumo**: geralmente após o título e autores, antes das keywords
@@ -266,9 +274,11 @@ Só depois de salvo o arquivo, inserir no banco. Isso garante que a extração n
 
 Só avançar quando **zero** itens ⏳ restarem.
 
-### 0.3b Extrair fontes estruturadas (pdfplumber) — OBRIGATÓRIO
+### 0.3b Extrair fontes estruturadas — OBRIGATÓRIO
 
-**Esta etapa é obrigatória.** O `fontes_plumber/` é a **fonte primária** para toda a fase de revisão. Todas as etapas seguintes (0.5, 1.2, 1.5) devem usar fontes_plumber/ em vez de fontes/ (pdftotext).
+**Esta etapa é obrigatória.** Hierarquia: doc/docx originais > pdfplumber > pdftotext.
+
+**ANTES de rodar pdfplumber**, verificar se existem doc/docx/rtf/odt originais no diretório fontes/ do seminário. Se existirem, converter para .txt em fontes_doc/ e usar como fonte primária. Só rodar pdfplumber se não houver originais.
 
 O pdfplumber preserva metadados tipográficos (tamanho de fonte, bold, posição Y), permitindo distinguir automaticamente:
 

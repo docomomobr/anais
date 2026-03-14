@@ -52,14 +52,15 @@ ANTES de escrever qualquer código ou rodar qualquer comando:
 6. NUNCA escrever Python ad-hoc inline quando existe script para a tarefa.
 7. NUNCA alterar o banco sem aprovação explícita do usuário.
 
-## Regra de ouro — pdfplumber ANTES de pdftotext
+## Regra de ouro — Hierarquia de fontes para extração
 
-Quando o fontes/ (pdftotext) estiver fragmentado, ilegível ou com layout em colunas:
-1. **SEMPRE usar pdfplumber** para re-extrair. O pdftotext não lida com colunas.
-2. Se `fontes_plumber/` já existe para o seminário, usar diretamente.
-3. Se não existe, rodar `python3 scripts/extrair_fontes_plumber.py --slug {slug}` ANTES de tentar ler o fontes/.
-4. Para artigos individuais: extrair com pdfplumber inline se necessário.
-5. **NUNCA tentar reconstruir manualmente texto fragmentado do pdftotext** — é perda de tempo e gera erros.
+Verificar **nesta ordem** antes de qualquer extração de texto:
+1. **doc/docx originais** → ler com `python-docx` (preserva estilos de parágrafo). **NÃO converter para .txt** — perde-se a estrutura. Originais podem estar em `fontes/anais/`.
+2. **pdfplumber** → `fontes_plumber/`. Boa qualidade, separa refs de notas por font_size.
+3. **pdftotext** → `fontes/`. Fallback. Não lida com colunas.
+
+**SEMPRE verificar se existem doc/docx ANTES de rodar pdfplumber.** Muitos seminários têm os originais em Word.
+**NUNCA tentar reconstruir manualmente texto fragmentado** — é perda de tempo e gera erros.
 
 Quando o usuário diz "rodar o pipeline", significa executar os scripts documentados na ordem documentada — não inventar processo novo.
 
