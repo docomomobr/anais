@@ -4342,7 +4342,6 @@ INSERT INTO "dict_names" VALUES('bióca','nome','Bióca','autores');
 INSERT INTO "dict_names" VALUES('britto','nome','Britto','autores');
 INSERT INTO "dict_names" VALUES('burnett','nome','Burnett','autores');
 INSERT INTO "dict_names" VALUES('calháu','nome','Calháu','autores');
-INSERT INTO "dict_names" VALUES('campos','nome','Campos','autores');
 INSERT INTO "dict_names" VALUES('cantuaria','nome','Cantuaria','autores');
 INSERT INTO "dict_names" VALUES('cappi','nome','Cappi','autores');
 INSERT INTO "dict_names" VALUES('carnevale','nome','Carnevale','autores');
