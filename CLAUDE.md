@@ -25,6 +25,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr08 | 188 | ✅ revisado | 2026-03-09 |
 | sdbr09 | 170 | ✅ revisado | 2026-03-09 |
 | sdbr10 | 118 | 🔄 em revisão | 2026-03-14 |
+| sdbr11 | 101 | 🔄 em revisão | 2026-03-14 |
 
 ---
 
@@ -223,16 +224,41 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
-### 2026-03-14 — Revisão pipeline + sdbr10 refs + abstracts multilíngues
+### 2026-03-14 — sdbr10/sdbr11 revisados, pipeline refatorado, checks A23/A24
 
-- **Pipeline revisão refatorado**: sweep_refs agora roda ANTES do loop validate (1.2b); loop 1.5 reduzido a A07/A08/A19 (extração fontes/); A05/A06 removidos (ciclo com A21); A10-A13 removidos do loop (cobertos pelo sweep)
-- **sweep_refs melhorado**: threshold 300 chars (era 500), novos patterns: publisher boundary, pipe separator, ano isolado, URL isolada, Disponível em: isolado; NON_REF_STARTERS expandido (Ibíd., Op.cit., créditos de foto); truncate_body_text com +12 verbos narrativos
-- **1.2c revisão LLM completa**: documentada como etapa obrigatória para TODAS as refs (não só ambíguas). Agente background revisa refs vs fontes/, corrige concatenações/splits/notas, retroalimenta pipeline
-- **sdbr10 refs**: revisão LLM de 113 artigos (51 modificados, ~100 refs corrigidas: 45 concatenações, 40 notas, 15 splits). Correções manuais do rev.md aplicadas (029, 055, 057 entre outros)
-- **Abstracts multilíngues**: labels fixos ao campo (abstract=Resumo, abstract_en=Abstract, abstract_es=Resumen), ordem por locale (ES: Resumen primeiro). Fallback no Zenodo: abstract → abstract_en → abstract_es. HTML e Hugo atualizados
-- **validate_metadata.py**: fix A17/A22 stale refs (sync in-memory); keywords não-JSON parseadas como comma-separated
-- **upload_zenodo.py**: SELECT ampliado com abstract_en/es, keywords_en/es, title_en/subtitle_en; fallback inteligente de abstract e keywords por locale
-- **fix_validation_issues.py**: fix_a19 integra fontes_plumber/; "The "/"In " removidos de NON_REF_STARTERS (falsos positivos)
+**Pipeline revisão refatorado:**
+- sweep_refs ANTES do loop validate (1.2b); loop 1.5 reduzido a A07/A08/A19
+- A05/A06 removidos (ciclo com A21); A10-A13 removidos do loop (cobertos pelo sweep)
+- 1.2c: revisão LLM de TODAS as refs (obrigatória, corrige na hora, não relata)
+- pdfplumber obrigatório na fase de revisão (fontes/ é fallback)
+- Prompt LLM reescrito: passo crítico = identificar boundary BIBLIOGRAFIA→NOTAS
+
+**sweep_refs melhorado:**
+- Threshold 300 chars (era 500), +publisher/pipe/em-dash boundaries
+- NON_REF_STARTERS expandido (Ibíd., Op.cit., créditos de foto)
+- Passada 0-pre: corta bloco de NOTAS numeradas do final (3+ consecutivas)
+- truncate_body_text +12 verbos narrativos
+- has_narrative_structure: early exit + markers pré-compilados
+
+**Novos checks:**
+- A23: abstract_en colado no abstract PT → AUTO-FIX (separa no boundary)
+- A24: encoding ruim (ĕ/ė) → REPORT (extração via imagem do PDF)
+
+**Performance:**
+- build_profile: 9 queries → 1 (COUNT CASE WHEN)
+- check_no_authors: N+1 → set pré-computado
+- EN_BOUNDARY regex: pré-compilado no topo do módulo
+
+**sdbr10** (118 artigos): revisão LLM completa, 51 artigos corrigidos (~100 refs), rev.md aplicado
+**sdbr11** (101 artigos): pipeline completo (Fases 0-2), 25 itens do rev.md corrigidos, 2 issues genuínos
+
+**Abstracts multilíngues:**
+- abstract=PT (Resumo), abstract_en=EN (Abstract), abstract_es=ES (Resumen). Labels fixos.
+- Display: mostra o que existe, sem lógica de locale. Zenodo: fallback por locale.
+- Hugo e gerar_revisao_html atualizados
+
+**upload_zenodo.py**: SELECT +abstract_en/es/kw_en/es, fallback inteligente por locale
+**regras_dados.md**: tabela completa de campos por idioma documentada
 
 ### 2026-03-03 — sdnne06 novos PDFs + pipeline produção Hugo
 
