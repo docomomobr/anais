@@ -472,6 +472,7 @@ Se não escreveu o julgamento de cada palavra, não revisou. Pular direto para a
    - `––` ou `--` → substituir por `—` (em-dash) ou split
    - `- ` (hífen+espaço) no meio do título → split ou `—`
    - `:` no meio → pode indicar subtítulo não separado
+   - `.` seguido de frase nova no mesmo campo → split título/subtítulo
 5. Para cada correção: aplicar no banco. Se a causa foi o dict.db (forçou maiúscula em palavra comum), remover a entrada do dict.
 6. **Aplicar correções escrevendo o título completo**, não por replace parcial de string. Replace parcial causa erros: falha silenciosamente ("a Obra" ≠ "A Obra"), ou rebaixa a primeira palavra do título para minúscula. Escrever o título inteiro garante que o resultado é o correto.
 7. **Após aplicar, reler o título corrigido** para confirmar. A primeira palavra do título é SEMPRE maiúscula.
