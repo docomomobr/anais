@@ -460,6 +460,14 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 
 **Não usar heurísticas para esta etapa.** Ler cada título com os olhos, não com regex.
 
+**COMPARAR COM O ORIGINAL:** Para cada título, comparar com o docx (python-docx) ou PDF original. O `normalizar_maiusculas.py` rebaixa nomes que não estão no dict — a comparação com o original revela o que foi rebaixado indevidamente. Tipos comuns de erro:
+- Nomes de edifícios/equipamentos: Hospital de Clínicas, Centro de Convenções, Estação Rodoviária, Plenário Legislativo
+- Nomes de lugares/loteamentos: Jardim do Embaixador, Vila dos Operadores, Campus Central
+- Períodos/movimentos históricos: Estado Novo, Novecento
+- Nomes de revistas/periódicos: Módulo, A Casa, Le Carré Bleu
+- Nomes próprios com grafia incomum: Mallet-Stevens, São Luís (acento)
+- Adjetivos gentílicos que não devem ser maiúsculas: capixaba, sul-americano
+
 Detecções adicionais:
 - Nomes próprios de edifícios/lugares que ficaram em minúscula
 - Termos genéricos que ficaram em maiúscula indevida
