@@ -1310,6 +1310,7 @@ def sweep_all_refs(conn, slug, dry_run):
         WHERE seminar_slug = ? AND references_ IS NOT NULL AND references_ != '[]'
     """, (slug,))
 
+    total_notes_cut = 0
     total_junk = 0
     total_header_stripped = 0
     total_pagebreak = 0
@@ -1335,6 +1336,37 @@ def sweep_all_refs(conn, slug, dry_run):
         art_removed = 0
         art_truncated = 0
         art_dedup = 0
+
+        # ── Passada 0-pre: cortar bloco de NOTAS numeradas no final ──────
+        # Muitos artigos têm BIBLIOGRAFIA seguida de NOTAS. As notas são
+        # numeradas (1., 2., 3. ou ¹²³) e contêm narrativa/Op.cit./Ibid.
+        # Detectar o ponto de corte e remover tudo depois.
+        art_notes_cut = 0
+        note_indicators = re.compile(
+            r'^(\d{1,3}[.)]\s|[¹²³⁴⁵⁶⁷⁸⁹⁰]+\s|'
+            r'Op\.\s*cit|Ibid|Idem\b|Cfr\.\s|'
+            r'Ver\s+(também|igualmente|especialmente)\b)',
+            re.IGNORECASE
+        )
+        # Encontrar o ponto de corte: sequência de 3+ entradas consecutivas
+        # no final que são notas (numeradas ou com marcadores de nota)
+        note_start = len(refs)
+        consecutive_notes = 0
+        for i in range(len(refs) - 1, -1, -1):
+            r = refs[i].strip()
+            if note_indicators.match(r) or (has_narrative_structure(r) and len(r) > 100):
+                consecutive_notes += 1
+                note_start = i
+            else:
+                # Se já acumulou 3+ notas consecutivas, parar
+                if consecutive_notes >= 3:
+                    break
+                # Senão, resetar
+                consecutive_notes = 0
+                note_start = len(refs)
+        if consecutive_notes >= 3 and note_start < len(refs):
+            art_notes_cut = len(refs) - note_start
+            refs = refs[:note_start]
 
         # ── Passada 0: remover lixo grosso ───────────────────────────────
         clean0 = []
@@ -1445,13 +1477,15 @@ def sweep_all_refs(conn, slug, dry_run):
                 seen_normalized.add(norm)
                 final_refs.append(ref)
 
-        changed = (art_junk > 0 or art_header_stripped > 0 or art_pagebreak > 0 or
-                   art_joined > 0 or art_endnote_stripped > 0 or
+        changed = (art_notes_cut > 0 or art_junk > 0 or art_header_stripped > 0 or
+                   art_pagebreak > 0 or art_joined > 0 or art_endnote_stripped > 0 or
                    art_endnote_removed > 0 or art_split > 0 or art_removed > 0 or
                    art_truncated > 0 or art_dedup > 0)
 
         if changed:
             details = []
+            if art_notes_cut:
+                details.append(f"{art_notes_cut} notas cortadas do final")
             if art_junk:
                 details.append(f"{art_junk} lixo grosso removido")
             if art_header_stripped:
@@ -1477,6 +1511,7 @@ def sweep_all_refs(conn, slug, dry_run):
             if not dry_run:
                 cur.execute("UPDATE articles SET references_ = ? WHERE id = ?",
                             (json.dumps(final_refs, ensure_ascii=False), art_id))
+            total_notes_cut += art_notes_cut
             total_junk += art_junk
             total_header_stripped += art_header_stripped
             total_pagebreak += art_pagebreak
@@ -1493,6 +1528,8 @@ def sweep_all_refs(conn, slug, dry_run):
         conn.commit()
 
     print(f"\n  Varredura completa: {articles_changed} artigos alterados")
+    if total_notes_cut:
+        print(f"  Notas cortadas do final: {total_notes_cut}")
     if total_junk:
         print(f"  Lixo grosso removido: {total_junk}")
     if total_header_stripped:

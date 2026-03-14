@@ -655,32 +655,60 @@ A experiência com sdbr10 (118 artigos, ~2000 refs) mostrou que o sweep + valida
 
 **Procedimento (agente background):**
 
-1. Ler TODAS as refs do seminário do banco (batch de ~20 artigos)
-2. Para cada artigo, ler também o `fontes/{id}.txt` para comparar com a seção de referências original
-3. Identificar e corrigir: concatenações, splits errados, notas, junk, headers
-4. Gravar as correções no banco via UPDATE SQL
-5. Ao final, gerar relatório de mudanças e rodar `dump_anais_db.py`
+1. **PRIMEIRO**: Para cada artigo, ler `fontes_plumber/{id}.jsonl` (se existir) ou `fontes/{id}.txt`. Se fontes/ estiver fragmentado (colunas), rodar pdfplumber antes. **NUNCA tentar reconstruir texto fragmentado do pdftotext.**
+2. **SEGUNDO — PASSO CRÍTICO**: No texto fonte, identificar o **ponto de corte** entre BIBLIOGRAFIA e NOTAS. Indicadores:
+   - Heading "NOTAS", "Notes", "Notas de fim", "Notas ao texto"
+   - Numeração sequencial (1, 2, 3... ou ¹, ², ³...) que inicia após a última ref
+   - Quebra na ordem alfabética dos autores
+   - Mudança de padrão: refs são "AUTOR. Título. Editora, Ano." / notas são "Ver Fulano (2003)...", "Op. cit.", "Ibid.", narrativa
+   - No pdfplumber: mudança de font_size (refs em size maior, notas em size menor)
+3. Definir a lista de refs válidas (até o ponto de corte) e descartar notas
+4. Dentro das refs válidas, corrigir: concatenações, splits, headers
+5. Gravar no banco
+6. Ao final, gerar relatório + `dump_anais_db.py`
 
 **Prompt para o agente:**
 
 ```
-Review ALL references in {slug}. For each article:
-1. Read refs from DB and fontes/{id}.txt
-2. Fix: concatenated refs, split refs, notes/endnotes, figure captions, headers, junk
-3. Write corrected refs back to DB
-4. Track all changes for final report
+Review ALL references in {slug}.
+
+CRITICAL FIRST STEP: For each article, identify WHERE THE BIBLIOGRAPHY ENDS
+and WHERE THE NOTES BEGIN. Many articles have a BIBLIOGRAPHY section followed
+by a NOTES section — the notes MUST be removed. Indicators:
+- Numbered entries (1., 2., 3. or ¹²³) after the last proper reference
+- "Op. cit.", "Ibid.", "Idem", "Cfr.", "Ver" — these are notes, not refs
+- Narrative text ("O autor argumenta...", "Segundo Fulano...") — notes
+- Break in alphabetical order of authors
+- In fontes_plumber/: font_size change (refs larger, notes smaller)
+
+PREFERRED SOURCE: Use fontes_plumber/{id}.jsonl when available — it separates
+reference blocks from footnote blocks by font size. Only fall back to
+fontes/{id}.txt when plumber data is unavailable.
+If fontes/ text is fragmented (each word on a separate line), the PDF has
+column layout — extract with pdfplumber, do NOT try to reconstruct manually.
+
+For each article:
+1. Read fontes_plumber/ or fontes/ and identify the bibliography boundary
+2. Read current refs from DB
+3. Set refs = only the bibliography entries (cut notes)
+4. Within bibliography: fix concatenated refs, split refs, junk
+5. Write corrected refs to DB
+6. Track all changes for final report
 ```
 
 **Critérios de decisão LLM:**
+- **Ponto de corte BIBLIOGRAFIA→NOTAS**: o critério mais importante. Identificar ANTES de analisar ref a ref.
 - **Concatenação**: duas estruturas bibliográficas na mesma entrada → separar
-- **Split**: entrada que começa com minúscula, "In:", URL, ano isolado, cidade/editora → juntar à anterior
-- **Nota vs ref**: entrada com narrativa ("O autor argumenta...", "Ver também...") → remover; entrada com dados bibliográficos → manter
-- **Header**: entrada que é nome de seção sem dados bibliográficos → remover
+- **Split**: entrada que começa com minúscula, "In:", URL, ano isolado, cidade/editora → juntar à anterior. Quebra na ordem alfabética indica split.
+- **Nota vs ref**: entrada com narrativa, "Op. cit.", "Ibid.", "Ver também", numeração sequencial → remover
+- **Header**: entrada que é nome de seção ("Livros", "Revistas e Periódicos") → remover
+- **Backfill em-dash**: `—.` ou `–.` entre refs = mesmo autor, obra diferente → separar e prepor o autor
 
 **Relatório final**: o agente deve produzir:
 1. Lista de artigos modificados com contagem antes/depois
 2. Estatísticas por tipo de erro (concatenação, split, nota, junk)
-3. Análise de padrões: erros que se repetem → candidatos a nova heurística
+3. **Para cada artigo onde cortou notas**: indicar o ponto de corte (ref N → nota N+1)
+4. Análise de padrões: erros que se repetem → candidatos a nova heurística
 
 **Retroalimentação do pipeline**: após a revisão LLM, analisar os padrões de erro encontrados e implementar novas heurísticas no sweep para evitar os mesmos problemas nos seminários seguintes. Testar as melhorias em outro seminário (não no que acabou de ser revisado).
 

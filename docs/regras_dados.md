@@ -41,12 +41,43 @@ Resumo em `CLAUDE.md`; este arquivo é a referência canônica.
 |------------|-----------|-------------|-------|
 | `title` | title | Sim | Título do artigo |
 | `subtitle` | subtitle | Não | Manter separado do title |
-| `abstract` | abstract | Não | Resumo do artigo |
-| `keywords` | keywords | Não | Lista de palavras-chave |
+| `abstract` | abstract | Não | Resumo em **português**. Mesmo para artigos ES/EN, este campo é PT. |
+| `abstract_en` | — | Não | Abstract em **inglês**. Só para artigos que têm seção EN. |
+| `abstract_es` | — | Não | Resumen em **espanhol**. Só para artigos que têm seção ES. |
+| `keywords` | keywords | Não | Palavras-chave em **português** |
+| `keywords_en` | — | Não | Keywords em **inglês** |
+| `keywords_es` | — | Não | Palabras clave em **espanhol** |
 | `section` | section_ref | Sim | Seção (ex: "Artigos Completos - Documentação") |
 | `pages` | pages | Não | Páginas (ex: "1-15") |
 | `file` | galley | Não | Caminho para o arquivo PDF |
 | `locale` | locale | Sim | Formato: pt-BR (não pt_BR) |
+
+#### Regra dos campos de abstract e keywords por idioma
+
+Os campos `abstract`/`keywords` são **sempre em português**, independente do locale do artigo. Os campos `_en` e `_es` são sempre no respectivo idioma. **Labels fixos:**
+
+| Campo | Label | Idioma | Conteúdo |
+|-------|-------|--------|----------|
+| `abstract` | Resumo | PT | Resumo em português |
+| `abstract_en` | Abstract | EN | Abstract em inglês |
+| `abstract_es` | Resumen | ES | Resumen em espanhol |
+| `keywords` | Palavras-chave | PT | Keywords em português |
+| `keywords_en` | Keywords | EN | Keywords em inglês |
+| `keywords_es` | Palabras clave | ES | Keywords em espanhol |
+
+**Artigos em espanhol (locale=es):**
+- O resumen vai em `abstract_es`, NÃO em `abstract`
+- As palabras clave vão em `keywords_es`, NÃO em `keywords`
+- Se o artigo também tem resumo em PT, vai em `abstract`
+- Se o artigo NÃO tem resumo em PT, `abstract` fica vazio
+
+**Artigos em inglês (locale=en):**
+- O abstract vai em `abstract_en`, NÃO em `abstract`
+- As keywords vão em `keywords_en`, NÃO em `keywords`
+
+**Display (HTML/Hugo):** Mostra todos os campos que existem, com labels fixos. Sem lógica de locale, sem fallback, sem reordenação.
+
+**Zenodo:** `description` usa fallback: `abstract` → `abstract_en` (se locale=en) → `abstract_es` (se locale=es) → qualquer disponível.
 
 ### Author (Autor)
 
