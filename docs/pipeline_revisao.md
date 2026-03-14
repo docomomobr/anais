@@ -440,7 +440,9 @@ python3 scripts/normalizar_maiusculas.py --slug {slug} --dry-run
 python3 scripts/normalizar_maiusculas.py --slug {slug}
 ```
 
-**Verificação adicional com LLM:** Após a normalização automática, o Claude compara cada título com o PDF original para detectar:
+**Verificação com LLM — OBRIGATÓRIA:** Após a normalização automática, o Claude **lê cada título e subtítulo** e julga se cada palavra maiúscula tem razão de ser. Não basta verificar ALL CAPS, encoding e truncamento — o LLM deve identificar palavras comuns que o dict.db forçou maiúscula indevidamente (ex: "Obra", "Norte", "Mar", "Campo"). Para cada erro encontrado: corrigir no banco E remover a entrada falsa do dict.db.
+
+Detecções específicas:
 - Nomes próprios de edifícios/lugares que ficaram em minúscula
 - Termos genéricos que ficaram em maiúscula indevida
 - Subtítulos que deveriam começar com minúscula (ou vice-versa)
