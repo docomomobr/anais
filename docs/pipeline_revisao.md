@@ -235,7 +235,9 @@ python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only  # calibr
 python3 scripts/extrair_fontes_plumber.py --slug {slug}                 # extrair
 ```
 
-**REGRA**: **SEMPRE verificar se existem doc/docx originais ANTES de rodar pdfplumber.** Muitos seminários receberam os artigos em Word — essa é a fonte de maior qualidade. Usar `python-docx` para ler os .docx com seus estilos, não converter para .txt (perde-se a estrutura). pdfplumber é para quando só há PDFs.
+**REGRA**: **SEMPRE verificar se existem doc/docx originais ANTES de rodar pdfplumber.** Muitos seminários receberam os artigos em Word — essa é a fonte de maior qualidade. Usar `python-docx` para ler os .docx com seus estilos, não converter para .txt (perde-se a estrutura).
+
+**REGRA**: **Completar SEMPRE a extração pdfplumber para 100% dos artigos**, mesmo quando existem docx. O plumber é fallback para artigos sem docx e para verificação cruzada. Extração parcial é inaceitável — causa erros quando se tenta usar plumber parcial como fonte.
 
 Para **cada** artigo fora do padrão, buscar o campo faltante nos blocos do `.jsonl`:
 - **Abstract/resumo**: geralmente após o título e autores, antes das keywords
