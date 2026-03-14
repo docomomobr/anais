@@ -713,7 +713,13 @@ For each article:
 
 **REGRA ABSOLUTA**: A 1.2c **corrige** — não apenas relata. Se identificou um problema, **corrige na hora** e grava no banco. Relatório sem correção = etapa não executada. Cada problema identificado deve ter uma ação correspondente (cortar, juntar, separar, remover). Se não sabe como corrigir, perguntar ao usuário — não pular.
 
-**REGRA**: Revisar **todos** os artigos com refs, sem exceção. Não pular artigos por terem "poucas" refs ou parecerem limpos. A revisão é exaustiva.
+**REGRA**: Revisar **todos** os artigos, sem exceção. Não pular artigos por parecerem limpos. A revisão é exaustiva.
+
+**REGRA**: A revisão LLM NÃO é só de referências. Verificar TAMBÉM:
+- **Abstracts**: texto que não é resumo (formulários, tabelas, legendas, dados de questionário) → re-extrair do PDF
+- **Abstract PT com EN colado**: o A23 pega a maioria, mas variantes escapam (keywords sem hífen, "Abstract" sem ponto antes)
+- **Keywords**: lixo, encoding ruim, split errado
+- Se o abstract parece lixo (proporção alta de maiúsculas, muitas interrogações, texto repetitivo), extrair da imagem do PDF (pdftoppm)
 
 **Relatório final**: o agente deve produzir:
 1. Lista de **todos** os artigos modificados com contagem antes/depois
