@@ -738,11 +738,20 @@ For each article:
 
 **REGRA**: Revisar **todos** os artigos, sem exceção. Não pular artigos por parecerem limpos. A revisão é exaustiva.
 
-**REGRA**: A revisão LLM NÃO é só de referências. Verificar TAMBÉM:
-- **Abstracts**: texto que não é resumo (formulários, tabelas, legendas, dados de questionário) → re-extrair do PDF
-- **Abstract PT com EN colado**: o A23 pega a maioria, mas variantes escapam (keywords sem hífen, "Abstract" sem ponto antes)
-- **Keywords**: lixo, encoding ruim, split errado
-- Se o abstract parece lixo (proporção alta de maiúsculas, muitas interrogações, texto repetitivo), extrair da imagem do PDF (pdftoppm)
+**REGRA**: A revisão LLM NÃO é só de referências. Verificar TODOS os campos:
+- **abstract, abstract_en, abstract_es**: ler cada um e julgar:
+  - Está no idioma correto? (abstract=PT, abstract_en=EN, abstract_es=ES)
+  - Está completo? (não truncado no meio da frase)
+  - Não tem lixo? (formulários, tabelas, legendas, dados de questionário, título colado)
+  - Não tem outro idioma misturado? (EN no PT, keywords coladas)
+  - Faz sentido como resumo acadêmico?
+- **keywords, keywords_en, keywords_es**: ler cada lista e julgar:
+  - São palavras-chave reais? (não lixo, não texto corrido, não citação ABNT)
+  - Estão no idioma correto?
+  - Não estão splitadas demais ou aglutinadas?
+- Se qualquer campo parece errado → re-extrair do docx (python-docx) ou da imagem do PDF (pdftoppm)
+- Se o abstract parece lixo → extrair da imagem do PDF
+- **Cada artigo deve ser verificado, sem exceção.** Heurísticas (A23, A25, A14) pegam padrões comuns; o LLM pega o resto.
 
 **Relatório final**: o agente deve produzir:
 1. Lista de **todos** os artigos modificados com contagem antes/depois
