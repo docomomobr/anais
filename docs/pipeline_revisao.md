@@ -870,6 +870,7 @@ O script primeiro constrói um **perfil do seminário** (% de preenchimento de c
 | A20 | Abstract overflow (>5000 chars — corpo do texto vazado) | AUTO-FIX |
 | A21 | abstract_es com lixo EN (marcadores Abstract/Keywords/⏐) ou redundante (== abstract em locale=es) | AUTO-FIX |
 | A22 | Refs com body text (>200 chars narrativo) ou figure captions | AUTO-FIX (remove entradas) + LLM (ambíguos) |
+| A23 | abstract_en colado no abstract PT (extração capturou PT+EN como bloco único) | AUTO-FIX (separa PT e EN no boundary "Abstract:"/"The present paper"/etc.) |
 
 **Relatório:** Salva `revisao/{slug}-validation.json` com a lista de issues e `category_b_candidates` (issues que precisam de julgamento LLM).
 

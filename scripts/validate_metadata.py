@@ -669,6 +669,63 @@ def check_refs_body_text(article):
     return issues
 
 
+def check_abstract_en_in_abstract(article):
+    """A23: abstract_en colado no final do abstract PT.
+
+    Padrão frequente: extração captura PT+EN como bloco único no campo abstract.
+    Detecta marcadores EN no campo abstract: "Abstract:", "The present paper",
+    "This article", "This work", "This study", "In this paper".
+    Auto-fix: separa PT e EN.
+    """
+    issues = []
+    aid = article['id']
+    text = article.get('abstract')
+    if not text or len(text) < 200:
+        return issues
+
+    # Marcadores de início de abstract EN dentro do texto PT
+    EN_BOUNDARY = re.compile(
+        r'(?<=[.!?])\s+'
+        r'(?=(?:Abstract\s*:?\s+)?'
+        r'(?:The\s+(?:present\s+)?(?:paper|article|work|study|research)\b|'
+        r'This\s+(?:paper|article|work|study|research)\b|'
+        r'In\s+this\s+(?:paper|article|work|study)\b))',
+        re.IGNORECASE
+    )
+
+    m = EN_BOUNDARY.search(text)
+    if m and m.start() > 100:
+        # Também verificar "Abstract:" standalone
+        pass
+    else:
+        # Tentar "Abstract:" como boundary
+        m = re.search(r'\s+Abstract\s*:\s+', text)
+        if m and m.start() > 100:
+            pass
+        else:
+            m = None
+
+    # Verificar "Palavras-chave:" no meio (indica boundary PT keywords → EN)
+    if not m:
+        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015‐-]*[Cc]have\s*:', text)
+        if kw_m and kw_m.start() > 100:
+            after_kw = text[kw_m.end():]
+            en_m = re.search(r'(?:Abstract\s*:?\s*)?(?:The\s+|This\s+|In\s+this\s+)', after_kw, re.IGNORECASE)
+            if en_m:
+                m = type('Match', (), {'start': lambda self: kw_m.start()})()
+
+    if m:
+        issues.append({
+            'check': 'A23', 'article_id': aid, 'field': 'abstract',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'abstract_en colado no abstract PT (boundary em pos {m.start()})',
+            'suggestion': 'Separar PT e EN',
+            'fix_action': {'split_abstract_en': m.start()},
+        })
+
+    return issues
+
+
 def check_abstract_truncation(article):
     """A19: abstract possivelmente truncado (não termina com pontuação de fim de frase)."""
     issues = []
@@ -771,6 +828,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_overflow(article))
         issues.extend(check_abstract_es_garbage(article))
         issues.extend(check_refs_body_text(article))
+        issues.extend(check_abstract_en_in_abstract(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -906,6 +964,28 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                                 (json.dumps(cleaned, ensure_ascii=False), article['id']))
                     article['refs_parsed'] = cleaned  # sync in-memory
                     auto_fixed.append(issue)
+                elif 'split_abstract_en' in action:
+                    pos = action['split_abstract_en']
+                    text = article.get('abstract', '')
+                    if text and pos > 100 and pos < len(text):
+                        pt_part = text[:pos].strip()
+                        en_part = text[pos:].strip()
+                        # Limpar marcadores
+                        en_part = re.sub(r'^Abstract\s*:?\s*', '', en_part, flags=re.IGNORECASE).strip()
+                        # Remover keywords do final do EN
+                        kw_m = re.search(r'\s*(Keywords?\s*:|Key-?\s*words?\s*:)', en_part, re.IGNORECASE)
+                        if kw_m:
+                            en_part = en_part[:kw_m.start()].strip()
+                        # Remover keywords do final do PT
+                        kw_m = re.search(r'\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]have\s*:', pt_part)
+                        if kw_m:
+                            pt_part = pt_part[:kw_m.start()].strip()
+                        if len(pt_part) > 50 and len(en_part) > 30:
+                            cur.execute("UPDATE articles SET abstract = ?, abstract_en = ? WHERE id = ?",
+                                        (pt_part, en_part, article['id']))
+                            article['abstract'] = pt_part
+                            article['abstract_en'] = en_part
+                            auto_fixed.append(issue)
 
         all_issues.extend(issues)
 
@@ -972,6 +1052,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A20': 'abstract overflow',
         'A21': 'abstract_es lixo EN',
         'A22': 'body text em refs',
+        'A23': 'abstract_en no abstract',
     }
 
     if not check_counts:
