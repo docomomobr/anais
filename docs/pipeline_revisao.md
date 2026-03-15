@@ -1297,40 +1297,95 @@ if current != generated:
 
 **Quando não encontrar nem eixos nem programa:** Registrar no status que a estrutura temática não foi localizada.
 
-#### 1.6d Autores (verificação de completude e correção)
+#### 1.6d Autores (verificação exaustiva)
 
-**Objetivo:** Verificar que a lista de autores de cada artigo está completa e correta, comparando com o PDF original.
+**Objetivo:** Garantir que **todos** os autores de **todos** os artigos estão no banco, com nomes corretos. Não podemos deixar de citar um autor.
 
-**Verificações:**
+**REGRA**: Esta verificação é **exaustiva** — comparar CADA artigo com o PDF. Não amostrar.
 
-1. **Completude**: todos os autores listados no PDF estão no banco? Comparar o cabeçalho do PDF (nomes após o título) com os autores vinculados no banco. Artigos com discrepância devem ser corrigidos.
+**Passo 1 — Comparar autores do banco com a fonte de cada artigo:**
+
+Para cada artigo, extrair os nomes dos autores da fonte e comparar com os autores vinculados no banco. Seguir a **hierarquia de fontes** do pipeline (mesma ordem de §0.3):
+
+1. **doc/docx/odt/fodt/rtf** → ler com python-docx ou equivalente (preserva estilos — autor geralmente em estilo específico)
+2. **fontes_plumber/** (.jsonl) → blocos com role near "heading" ou entre título e abstract
+3. **fontes/** (.txt do pdftotext) → texto entre título e "Resumo"
+4. **PDF** → ler página 1 (pdfplumber ou imagem para escaneados)
+
+Verificar:
+
+1. **Completude**: todos os autores do PDF estão no banco? Nenhum faltando?
 2. **Nomes**: `givenname` e `familyname` corretos? Partículas (de, da, do) no `givenname`, último sobrenome no `familyname`. Hispânicos: duplo sobrenome.
 3. **Afiliação**: preenchida e no formato correto (sigla: `FAU-USP`, `PROPAR-UFRGS`)? Sem títulos acadêmicos, endereços, emails.
-4. **Ordem**: a ordem dos autores no banco corresponde à do PDF?
-
-**Procedimento:**
+4. **Ordem**: a ordem dos autores no banco corresponde à do PDF (primeiro autor = autor principal)?
 
 ```python
-# Listar artigos com autores para verificação
-import sqlite3
+# Gerar relatório comparativo: autores do banco vs PDF
+import sqlite3, pdfplumber, re, json
+
 conn = sqlite3.connect('anais.db')
 cur = conn.cursor()
+
 cur.execute("""
     SELECT a.file, a.title,
-           GROUP_CONCAT(au.givenname || ' ' || au.familyname, '; ') as autores
+           GROUP_CONCAT(au.givenname || ' ' || au.familyname, '; ' ) as db_autores,
+           COUNT(aa.author_id) as n_db
     FROM articles a
     LEFT JOIN article_author aa ON a.id = aa.article_id
     LEFT JOIN authors au ON aa.author_id = au.id
     WHERE a.seminar_slug = ?
     GROUP BY a.id ORDER BY a.file
 """, (slug,))
-for file, title, autores in cur.fetchall():
-    print(f"{file}: {autores or 'SEM AUTORES'}")
+
+discrepancias = []
+for file, title, db_autores, n_db in cur.fetchall():
+    # Ler PDF e extrair autores do cabeçalho
+    pdf = pdfplumber.open(f'nacionais/{slug}/pdfs/{file}')
+    text = pdf.pages[0].extract_text() or ''
+    pdf.close()
+
+    # Contar autores no PDF (entre título e Resumo)
+    m = re.search(r'(?:RESUMO|Resumo)', text)
+    if m:
+        header = text[:m.start()]
+        # Heurística: contar nomes próprios no cabeçalho
+        # (implementação depende do formato do seminário)
+
+    # Comparar e reportar discrepâncias
+    # ...
 ```
 
-Para seminários com muitos artigos, amostrar 20-30 PDFs e verificar os autores. Se encontrar padrão de erro sistemático (ex: partículas no familyname), corrigir em lote.
+**Passo 2 — Corrigir discrepâncias:**
 
-**Nota:** A verificação completa de autores (ORCID, deduplicação) é feita pelo `scripts/dedup_authors.py` — ver `docs/dedup_autores.md`. A etapa 1.6d foca apenas em completude e correção básica dos nomes.
+Para cada artigo com autor faltante ou nome errado:
+- Adicionar o autor ao banco (`INSERT INTO authors` + `INSERT INTO article_author`)
+- Corrigir givenname/familyname se necessário
+- Registrar cada correção no rev-status
+
+**Passo 3 — Deduplicação, expansão de iniciais e ORCID:**
+
+Se autores novos foram adicionados ao banco, rodar o mesmo fluxo do pipeline_tratamento.md §7.4–7.6:
+
+```bash
+# 1. Alimentar dict.db com nomes novos
+python3 dict/seed_authors.py
+
+# 2. Deduplicar autores (merge duplicatas: Pilotis + Jaro-Winkler + coautoria)
+python3 scripts/dedup_authors.py --dry-run
+python3 scripts/dedup_authors.py
+
+# 3. Expandir iniciais (se houver givennames abreviados)
+python3 scripts/expand_initials.py --report
+python3 scripts/expand_initials.py --pilotis
+
+# 4. Buscar ORCID para autores sem ORCID
+# Lembrar: tentar múltiplas combinações de sobrenome (ver memory/feedback_orcid_search.md)
+python3 scripts/fetch_orcid.py --search
+python3 scripts/fetch_orcid.py --review
+python3 scripts/fetch_orcid.py --apply
+```
+
+**REGRA**: Se um autor novo foi adicionado ao banco, SEMPRE rodar o fluxo completo (seed → dedup → iniciais → ORCID). Autores podem já existir no banco por outro seminário com grafia ligeiramente diferente.
 
 **Critério de conclusão da 1.6**: todos os campos obrigatórios dos artigos com 100% (ou exceções documentadas); metadados do seminário preenchidos; seções/sessões criadas e artigos mapeados onde possível; autores verificados (completude e nomes). Tudo registrado no `revisao/{slug}-rev-status.md`.
 

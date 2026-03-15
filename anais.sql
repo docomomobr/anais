@@ -10622,7 +10622,7 @@ INSERT INTO "authors" VALUES(2344,'Laura Ribeiro de Toledo','Camargo',NULL,NULL,
 INSERT INTO "authors" VALUES(2345,'Júnio Carvalho','Santos',NULL,NULL,'2026-02-22','2.0');
 INSERT INTO "authors" VALUES(2347,'Gabriel Alvariz','Lopes',NULL,'0000-0001-6726-050X','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(2349,'Maria Inés Travieso','Rios',NULL,'0000-0003-0514-2334','2026-02-12','2.0');
-INSERT INTO "authors" VALUES(2352,'Jorge Herrera','De La Torre',NULL,NULL,'2026-02-22','2.0');
+INSERT INTO "authors" VALUES(2352,'Jorge','Herrera De La Torre',NULL,NULL,'2026-02-22','2.0');
 INSERT INTO "authors" VALUES(2354,'Ronaldo Nonato Ferreira Marques de','Carvalho','romarca@ufpa.br','0000-0002-0076-9966','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(2355,'Vithoria Carvalho da','Silva',NULL,'0000-0003-4316-7794','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(2356,'Thiago Augusto','Tavares',NULL,'0000-0001-5997-5089','2026-02-12','2.0');
