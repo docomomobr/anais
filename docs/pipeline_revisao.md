@@ -796,6 +796,8 @@ Aprendido com sdbr13: `clean_references.py` (1.2a) resolveu 6 backfills, mas ap�
 
 #### 1.2c Revisão LLM de TODAS as referências
 
+**REGRA ABSOLUTA**: Esta etapa é uma revisão LLM real — um agente que lê CADA artigo contra a fonte (fontes_plumber/ ou PDF) e compara com o banco. NÃO é rodar scripts heurísticos e declarar concluído. Scripts heurísticos são as etapas 1.2a e 1.2b. A 1.2c é o que pega o que os scripts não pegam.
+
 Após o sweep determinístico (1.2b) e re-backfill (1.2b+), **todas** as referências do seminário devem ser revisadas por LLM. O sweep resolve ~70% dos problemas, mas os ~30% restantes escapam às heurísticas — especialmente concatenações Chicago, notas sem marcadores numéricos, e boundary ambíguos.
 
 **Por que revisar tudo (não só os flaggados):**
@@ -1418,6 +1420,8 @@ python3 scripts/fetch_orcid.py --apply
 ---
 
 ## Fase 2 — Gerar HTML de revisão
+
+**ANTES de gerar o HTML**, verificar que TODAS as etapas da Fase 0 e Fase 1 foram executadas. Reler o rev-status e confirmar que não há etapas ⏳. O HTML é entregue para revisão humana — se houver etapas puladas (ex: 1.2c não feita), o humano vai encontrar problemas que deveriam ter sido resolvidos automaticamente.
 
 ```bash
 python3 scripts/gerar_revisao_html.py {slug}
