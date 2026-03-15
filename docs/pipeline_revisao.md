@@ -78,6 +78,7 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 │     1.6a Cobertura de metadados (artigos)            │
 │     1.6b Metadados do seminário (verificar+preencher)│
 │     1.6c Seções (eixos) ou sessões (programa)        │
+│     1.6d Autores (completude e correção)             │
 ├─────────────────────────────────────────────────────┤
 │ Fase 2 — Gerar HTML de revisão                      │
 ├─────────────────────────────────────────────────────┤
@@ -1296,7 +1297,42 @@ if current != generated:
 
 **Quando não encontrar nem eixos nem programa:** Registrar no status que a estrutura temática não foi localizada.
 
-**Critério de conclusão da 1.6**: todos os campos obrigatórios dos artigos com 100% (ou exceções documentadas); metadados do seminário preenchidos; seções/sessões criadas e artigos mapeados onde possível. Tudo registrado no `revisao/{slug}-rev-status.md`.
+#### 1.6d Autores (verificação de completude e correção)
+
+**Objetivo:** Verificar que a lista de autores de cada artigo está completa e correta, comparando com o PDF original.
+
+**Verificações:**
+
+1. **Completude**: todos os autores listados no PDF estão no banco? Comparar o cabeçalho do PDF (nomes após o título) com os autores vinculados no banco. Artigos com discrepância devem ser corrigidos.
+2. **Nomes**: `givenname` e `familyname` corretos? Partículas (de, da, do) no `givenname`, último sobrenome no `familyname`. Hispânicos: duplo sobrenome.
+3. **Afiliação**: preenchida e no formato correto (sigla: `FAU-USP`, `PROPAR-UFRGS`)? Sem títulos acadêmicos, endereços, emails.
+4. **Ordem**: a ordem dos autores no banco corresponde à do PDF?
+
+**Procedimento:**
+
+```python
+# Listar artigos com autores para verificação
+import sqlite3
+conn = sqlite3.connect('anais.db')
+cur = conn.cursor()
+cur.execute("""
+    SELECT a.file, a.title,
+           GROUP_CONCAT(au.givenname || ' ' || au.familyname, '; ') as autores
+    FROM articles a
+    LEFT JOIN article_author aa ON a.id = aa.article_id
+    LEFT JOIN authors au ON aa.author_id = au.id
+    WHERE a.seminar_slug = ?
+    GROUP BY a.id ORDER BY a.file
+""", (slug,))
+for file, title, autores in cur.fetchall():
+    print(f"{file}: {autores or 'SEM AUTORES'}")
+```
+
+Para seminários com muitos artigos, amostrar 20-30 PDFs e verificar os autores. Se encontrar padrão de erro sistemático (ex: partículas no familyname), corrigir em lote.
+
+**Nota:** A verificação completa de autores (ORCID, deduplicação) é feita pelo `scripts/dedup_authors.py` — ver `docs/dedup_autores.md`. A etapa 1.6d foca apenas em completude e correção básica dos nomes.
+
+**Critério de conclusão da 1.6**: todos os campos obrigatórios dos artigos com 100% (ou exceções documentadas); metadados do seminário preenchidos; seções/sessões criadas e artigos mapeados onde possível; autores verificados (completude e nomes). Tudo registrado no `revisao/{slug}-rev-status.md`.
 
 ---
 

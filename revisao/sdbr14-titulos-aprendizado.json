@@ -1,0 +1,129 @@
+{
+  "seminario": "sdbr14",
+  "data": "2026-03-15",
+  "total_artigos": 122,
+  "artigos_corrigidos": 65,
+  "categorias_de_correcao": {
+    "nome_proprio_edificio_maiuscula": [
+      "sdbr14-004: Edifício Marquês de Herval",
+      "sdbr14-010: Residência Virgil Trifan",
+      "sdbr14-033: Biblioteca Pública Belmonte",
+      "sdbr14-037: Edifício de Apartamentos Caricé",
+      "sdbr14-045: Igreja do CAB",
+      "sdbr14-072: Edifício Sede I do TRF",
+      "sdbr14-074: Parque Naturalístico Mangal das Garças",
+      "sdbr14-089: Conjunto Arquitetônico da Pampulha",
+      "sdbr14-093: Edifício Palmares",
+      "sdbr14-094: Pavilhão Reitor Martins Filho",
+      "sdbr14-107: Catedral de Brasília",
+      "sdbr14-115: Conjunto Santa Clara, Edifícios São Bento, Nossa Senhora da Ponte",
+      "sdbr14-116: Palácio dos Esportes",
+      "sdbr14-117: Estação de Hidroaviões, Aeroporto Santos Dumont",
+      "sdbr14-121: Edifício Vista Alegre"
+    ],
+    "nome_proprio_instituicao_maiuscula": [
+      "sdbr14-004: Senado Federal",
+      "sdbr14-012: Escola de Artes Cândido Portinari",
+      "sdbr14-016: Caixa Paulista de Pensões",
+      "sdbr14-029: Museu de Arte Moderna",
+      "sdbr14-035: Plano de Ação do Governo do Estado",
+      "sdbr14-048: Escola de Arquitetura da UFMG",
+      "sdbr14-067: Hospital das Clínicas",
+      "sdbr14-078: Ministério da Educação e Saúde, Edifício Conde Matarazzo",
+      "sdbr14-084: República Federativa do Brasil",
+      "sdbr14-108: Bienal Internacional de Arquitetura de São Paulo",
+      "sdbr14-116: Clube Athlético Paulistano"
+    ],
+    "nome_proprio_logradouro_maiuscula": [
+      "sdbr14-018: Calçadão de Copacabana",
+      "sdbr14-024: Praça Portugal",
+      "sdbr14-039: Calçadão de Copacabana",
+      "sdbr14-092: Praça das Mães",
+      "sdbr14-098: Praça da Cidadania"
+    ],
+    "nome_proprio_publicacao_maiuscula": [
+      "sdbr14-042: Revista do Patrimônio",
+      "sdbr14-097: Revista Módulo",
+      "sdbr14-104: Revista do Patrimônio",
+      "sdbr14-106: Paris-Match"
+    ],
+    "nome_proprio_regiao_maiuscula": [
+      "sdbr14-046: Alto Uruguai",
+      "sdbr14-072: 1ª Região"
+    ],
+    "profissao_generica_minuscula": [
+      "sdbr14-010: arquitetos (Arquitetos →)",
+      "sdbr14-032: arquiteto (Arquiteto →)",
+      "sdbr14-059: arquitetos (Arquitetos →)",
+      "sdbr14-076: arquiteto (Arquiteto →)",
+      "sdbr14-116: arquitetos (Arquitetos →)",
+      "sdbr14-118: arquiteto (Arquiteto →)"
+    ],
+    "termo_generico_minuscula": [
+      "sdbr14-001: guerra",
+      "sdbr14-008: ensino, obras",
+      "sdbr14-009: obra",
+      "sdbr14-011: artesanato popular brasileiro",
+      "sdbr14-012: patrimônio arquitetônico macapaense",
+      "sdbr14-017: residências",
+      "sdbr14-022: residências (início subtítulo)",
+      "sdbr14-024: patrimônio histórico (descritivo)",
+      "sdbr14-030: restauração",
+      "sdbr14-036: torre moderna",
+      "sdbr14-038: conservação",
+      "sdbr14-041: conservação",
+      "sdbr14-058: urbanístico",
+      "sdbr14-064: concurso",
+      "sdbr14-066: paisagem cultural (descritivo)",
+      "sdbr14-071: tradição",
+      "sdbr14-076: mestre",
+      "sdbr14-077: pela (preposição), vernacular",
+      "sdbr14-079: obras",
+      "sdbr14-081: livre",
+      "sdbr14-082: obra escolar",
+      "sdbr14-088: arquitetônica",
+      "sdbr14-091: memorial",
+      "sdbr14-095: conservação, preservação, arquitetura escolar",
+      "sdbr14-103: obra (mão de obra)",
+      "sdbr14-107: sagrado",
+      "sdbr14-113: obra",
+      "sdbr14-114: mar, análises (início subtítulo)",
+      "sdbr14-119: tecnologia, documentação"
+    ],
+    "preposicao_minuscula": [
+      "sdbr14-013: pela (Pela →)",
+      "sdbr14-077: pela (Pela →)"
+    ],
+    "estilo_movimento_maiuscula": [
+      "sdbr14-032: Beaux-Arts"
+    ],
+    "expressao_consolidada_maiuscula": [
+      "sdbr14-082: Escola Paulista",
+      "sdbr14-089: Conjunto Arquitetônico da Pampulha"
+    ],
+    "sigla_maiuscula": [
+      "sdbr14-064: PREVI",
+      "sdbr14-110: SR2"
+    ],
+    "travessao": [
+      "sdbr14-021: - → — (em-dash)"
+    ],
+    "split_titulo_subtitulo": [
+      "sdbr14-044: Ensaio | arranha-céu na paisagem preservada de Porto Alegre"
+    ],
+    "ortografia": [
+      "sdbr14-059: entre guerras → entreguerras"
+    ]
+  },
+  "notas": [
+    "Movimento Moderno, Arquitetura Moderna, Arquitetura Moderna Brasileira, Escola Paulista → expressões consolidadas, sempre maiúscula",
+    "Modernidade (substantivado como conceito/período) → maiúscula",
+    "Modernismo (movimento histórico) → maiúscula",
+    "arquiteto/a como profissão genérica → minúscula",
+    "Patrimônio Moderno, Patrimônio Cultural, Patrimônio Histórico → pode ser consolidado ou descritivo conforme contexto",
+    "Nomes de edifícios, parques, praças, instituições → sempre maiúscula",
+    "Nomes de publicações (Revista Módulo, Revista do Patrimônio, Paris-Match) → maiúscula",
+    "Subtítulo: primeira letra minúscula EXCETO nome próprio, sigla ou expressão consolidada",
+    "Cineteatro Moderno em Recife = nome próprio do edifício → maiúscula"
+  ]
+}

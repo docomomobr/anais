@@ -1,0 +1,83 @@
+{
+  "slug": "sdbr14",
+  "date": "2026-03-15",
+  "total_articles": 122,
+  "profile": {
+    "total": 122,
+    "locale_es": 0,
+    "abstract": 122,
+    "abstract_en": 6,
+    "abstract_es": 0,
+    "keywords": 120,
+    "keywords_en": 4,
+    "keywords_es": 0,
+    "references_": 118
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdbr14-048",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "Ref muito longa (657 chars), possível concatenação: \"GARCEZ, Mônica; MENEGHETTI, Leila; SILVA FILHO, Luiz Carlos Pinto da; MEIER, Urs...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr14-048",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 20,
+      "detail": "Ref muito longa (623 chars), possível concatenação: \"LIMA, Rogério H. F.; ARAÚJO, Bruno Gonçalves; PAZ, Gracy; OLIVEIRA, Isi Monellin...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr14-091",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (512 chars), possível concatenação: \"FORTALEZA. Lei Complementar nº 0190, de 22 de dezembro de 2014. Dispõe sobre a p...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr14-099",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Ref muito longa (512 chars), possível concatenação: \"FORTALEZA. Lei Complementar nº 0190, de 22 de dezembro de 2014. Dispõe sobre a p...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr14-048",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (657 chars), possível concatenação: \"GARCEZ, Mônica; MENEGHETTI, Leila; SILVA FILHO, Luiz Carlos Pinto da; MEIER, Urs...\""
+    },
+    {
+      "article_id": "sdbr14-091",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (512 chars), possível concatenação: \"FORTALEZA. Lei Complementar nº 0190, de 22 de dezembro de 2014. Dispõe sobre a p...\""
+    },
+    {
+      "article_id": "sdbr14-099",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (512 chars), possível concatenação: \"FORTALEZA. Lei Complementar nº 0190, de 22 de dezembro de 2014. Dispõe sobre a p...\""
+    }
+  ]
+}
