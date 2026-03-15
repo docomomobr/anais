@@ -1372,10 +1372,14 @@ def sweep_all_refs(conn, slug, dry_run):
             art_notes_cut = len(refs) - note_start
             refs = refs[:note_start]
 
-        # ── Passada 0: remover lixo grosso ───────────────────────────────
+        # ── Passada 0: remover lixo grosso + strip hífens iniciais ─────────
         clean0 = []
         for ref in refs:
             ref = ref.strip()
+            if not ref:
+                continue
+            # Strip hífens/traços iniciais (marcadores de lista)
+            ref = re.sub(r'^[-–—]+\s*', '', ref).strip()
             if not ref:
                 continue
             if is_gross_junk(ref):

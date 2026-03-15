@@ -355,13 +355,19 @@ def check_abstract_contamination(article):
             problems.append('começa com afiliação/título acadêmico')
 
         # Lixo de extração: formulário/tabela capturado como abstract
-        # Padrão: texto com muitas repetições, campos de formulário, dados tabulares
         if text.count('?') > 5 and len(text) > 200:
             problems.append('possível formulário/questionário (muitas interrogações)')
-        # Proporção alta de maiúsculas = tabela/cabeçalhos, não prosa
         upper_ratio = sum(1 for c in text if c.isupper()) / max(len(text), 1)
         if upper_ratio > 0.4 and len(text) > 200:
             problems.append('proporção alta de maiúsculas (possível tabela/cabeçalho)')
+
+        # Template text do formulário de submissão
+        template_markers = ['máximo de', 'fonte Arial', 'espaçamento simples',
+                           'máximo de 1000 caracteres', 'parágrafo de']
+        for marker in template_markers:
+            if marker in text.lower():
+                problems.append(f'contém template de formulário ("{marker}")')
+                break
 
         if problems:
             issues.append({
