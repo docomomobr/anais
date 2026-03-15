@@ -7,7 +7,7 @@
     "locale_es": 1,
     "abstract": 99,
     "abstract_en": 99,
-    "abstract_es": 98,
+    "abstract_es": 99,
     "keywords": 100,
     "keywords_en": 99,
     "keywords_es": 97,
@@ -36,13 +36,13 @@
       "suggestion": "Verificar e separar se necessário"
     },
     {
-      "check": "A09",
+      "check": "A03",
       "article_id": "sdbr15-076",
-      "field": "abstract_es",
-      "severity": "info",
+      "field": "keywords_es",
+      "severity": "warning",
       "auto_fixable": false,
-      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
-      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
     },
     {
       "check": "A03",

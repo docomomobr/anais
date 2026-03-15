@@ -17,6 +17,11 @@ sdbr15-031:
     os títulos e subtítulos em ES e EN não estão divididos como o title e subtitle
 sdbr15-082:
     title: '100 anos de "A construção funcional moderna'
----
+sdbr15-086:
+    as keywords em PT, ES e EN estão com problemas de split e outras coisas
+sdbr15-033:
+    title_es: ajustar capitalização
+sdbr15-075:
+    subtitle_es: está com lixo no final
+--
 
-x`j
