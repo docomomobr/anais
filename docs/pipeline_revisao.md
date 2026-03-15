@@ -1291,6 +1291,7 @@ if current != generated:
 3. **Se não houver eixos**, localizar o programa do evento — buscar na internet `"{título do evento}" programa sessões`, verificar o site do evento
 4. **Extrair as seções** — listar seção/eixo + título + artigos/autores. Se o PDF do programa tiver layout de 2 colunas, converter para imagem (`pdftoppm`) e ler visualmente em vez de confiar no pdftotext
 5. **Criar as seções no banco** — `INSERT INTO sections (seminar_slug, title, seq)`
+   - **Capitalização**: aplicar as mesmas regras dos títulos de artigos (sentence case, expressões consolidadas maiúsculas, genéricos minúsculas). Títulos de eixos no PDF geralmente estão em ALL CAPS — converter para sentence case.
 6. **Mapear artigos → seções** — cruzar autores e títulos com o banco. Usar fuzzy matching + verificação manual dos autores para desambiguar títulos que mudaram entre programa e publicação
 7. **Artigos sem seção** — artigos nos anais que não aparecem no programa (pôsteres, adições tardias) ficam com `section_id = NULL`
 8. **Seções sem artigos** — sessões cujos papers não foram publicados nos anais (ex: conferências de convidados, mesas-redondas). Criar a seção mesmo assim para documentar a estrutura do evento
