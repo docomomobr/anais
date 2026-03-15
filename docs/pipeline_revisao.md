@@ -1415,8 +1415,18 @@ Registrar os achados e correções no `{slug}-rev-status.md`.
 
 ### 3.8 Atualizar status e fechar
 
-- Adicionar seminário à tabela de revisados em `CLAUDE.md` e neste documento
-- `python3 scripts/dump_anais_db.py && git add && git commit && git push`
+1. Adicionar seminário à tabela de revisados em `CLAUDE.md` (status ✅, data)
+2. Adicionar entrada no devlog do `CLAUDE.md` com resumo do que foi feito
+3. Atualizar tabela de revisados neste documento (se houver)
+4. Dump, commit e push:
+
+```bash
+python3 scripts/dump_anais_db.py
+git add anais.sql CLAUDE.md docs/pipeline_revisao.md docs/pipeline_revisao_humana.md \
+       scripts/*.py dict/dict.sql revisao/{slug}-*
+git commit -m "{slug} revisado + melhorias pipeline"
+git push
+```
 
 **Exemplos concretos:**
 
