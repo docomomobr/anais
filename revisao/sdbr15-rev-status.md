@@ -45,7 +45,7 @@ Data: 2026-03-15
 - ✅ 1.1a Revisão LLM títulos PT — 48 correções
 - ✅ 1.1b Títulos EN — 85 normalizados + 11 garbled/typos + 18 partículas/acentos/acronyms
 - ✅ 1.1b Títulos ES — 12 normalizados RAE + nomes próprios corrigidos
-- ✅ 1.1c Revisão LLM títulos EN concluída
+- ✅ 1.1c Revisão LLM títulos EN + ES concluída (99 title_es verificados, 9 corrigidos RAE)
 - ✅ 1.2a clean_references — 6 backfills
 - ✅ 1.2b sweep_refs — 56 artigos: 27 lixo, 30 fragmentos, 11 endnotes, 7 splits, 5 não-refs, 1 dedup
 - ✅ 1.2b+ re-rodar clean_references — 0 backfills adicionais
