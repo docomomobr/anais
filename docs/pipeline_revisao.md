@@ -1526,7 +1526,9 @@ Atualizar MEMORY.md com padrões confirmados novos.
 
 ### 3.7 Revisão de engenharia
 
-Após implementar as melhorias (3.2–3.6), revisar o `pipeline_revisao.md`, o `pipeline_revisao_humana.md` e os scripts alterados com olhar de engenheiro de software:
+**PRIMEIRO — Autoavaliação**: antes de revisar os scripts, responder: "executei **todas** as etapas do pipeline_revisao.md para este seminário?" Reler o pipeline do início (§0.0) ao fim (Fase 2) e verificar que nenhuma etapa foi pulada ou feita pela metade. Se alguma etapa foi pulada, voltar e fazer.
+
+Após confirmar que o pipeline foi executado integralmente e as melhorias (3.2–3.6) foram implementadas, revisar o `pipeline_revisao.md`, o `pipeline_revisao_humana.md` e os scripts alterados com olhar de engenheiro de software:
 
 - **Lints**: inconsistências entre o que o pipeline documenta e o que os scripts fazem
 - **Erros de lógica**: checks que se contradizem (ex: A25 cortava abstracts que A19 depois flaggava como truncados), auto-fixes que desfazem correções manuais
@@ -1538,7 +1540,21 @@ Após implementar as melhorias (3.2–3.6), revisar o `pipeline_revisao.md`, o `
 
 Registrar os achados e correções no `{slug}-rev-status.md`.
 
-### 3.8 Atualizar status e fechar
+### 3.8 Checklist de conclusão
+
+**ANTES de commitar**, verificar que TODAS as etapas da Fase 3 foram executadas:
+
+- [ ] 3.1 Diagnóstico unificado (automático + humano) — tabela de causa raiz no rev-status
+- [ ] 3.2 Dict atualizado (remoções + adições)
+- [ ] 3.3 Scripts corrigidos (se aplicável)
+- [ ] 3.4 Pipeline atualizado (se aplicável)
+- [ ] 3.5 Verificação (dry-run no mesmo seminário + teste em outro)
+- [ ] 3.6 Aprendizado registrado (JSON + MEMORY.md)
+- [ ] 3.7 Revisão de engenharia (lints, lógica, regressão)
+
+Se algum item não foi feito, **parar e fazer antes de commitar**.
+
+### 3.9 Atualizar status e fechar
 
 1. Adicionar seminário à tabela de revisados em `CLAUDE.md` (status ✅, data)
 2. Adicionar entrada no devlog do `CLAUDE.md` com resumo do que foi feito

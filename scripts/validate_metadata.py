@@ -781,7 +781,7 @@ def check_pt_in_abstract_en(article):
 
     # Caso especial: campo inteiro é keywords PT (não abstract EN)
     # Ex: "Palavras‐chave: kw1; kw2; kw3"
-    if re.match(r'^\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:', text):
+    if re.match(r'^\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:', text, re.IGNORECASE):
         issues.append({
             'check': 'A27', 'article_id': aid, 'field': 'abstract_en',
             'severity': 'warning', 'auto_fixable': True,
