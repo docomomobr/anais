@@ -52,8 +52,8 @@ Quanto mais seminários forem revisados, menos correções manuais serão necess
 ├─────────────────────────────────────────────────────┤
 │ Fase 1 — Revisão automática (Claude)                │
 │   1.1a Títulos e subtítulos PT (LLM + PDF)          │
-│   1.1b Normalizar títulos EN (Title Case)           │
-│   1.1c Revisão LLM de títulos EN                    │
+│   1.1b Normalizar títulos EN (Title Case) e ES (RAE) │
+│   1.1c Revisão LLM de títulos EN e ES               │
 │   1.2  Referências (limpeza completa)               │
 │     1.2a clean_references.py (backfills, split,     │
 │          join URLs)                                  │
@@ -650,7 +650,7 @@ Regras de Title Case:
 
 Usa a biblioteca Python `titlecase` com callback que consulta `dict.db`.
 
-**Títulos ES** — Sentence case com regras RAE (Real Academia Española):
+**Títulos ES** — Sentence case com regras RAE (Real Academia Española). Ver [`docs/regras_cap_es.md`](regras_cap_es.md) para regras completas.
 - Maiúscula **somente** para: primeira palavra do título, nomes próprios (pessoas, cidades, países, instituições, edifícios), siglas
 - **NÃO** usar expressões consolidadas em maiúscula — em espanhol não existem ("arquitectura moderna", não "Arquitectura Moderna"; "movimiento moderno", não "Movimiento Moderno")
 - **NÃO** usar `normalizar_maiusculas.py` — o dict.db é calibrado para PT e forçaria maiúsculas erradas
