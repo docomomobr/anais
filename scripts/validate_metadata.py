@@ -34,7 +34,7 @@ DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 # Importar de scripts existentes
 sys.path.insert(0, os.path.join(BASE_DIR, 'scripts'))
 from clean_references import UNDERSCORE_START, BARE_URL
-from extrair_metadados_en import find_fontes_dir, ABSTRACT_MARKERS, KW_EN_MARKERS
+from extrair_metadados_en import find_fontes_dir, read_fontes_text, ABSTRACT_MARKERS, KW_EN_MARKERS
 from validar_abstracts import detect_language
 
 # ── Padrões ──────────────────────────────────────────────────────────────────
@@ -140,18 +140,13 @@ def has_marker(lines, markers):
     return False
 
 
-def read_fontes(fontes_dir, article_id):
-    """Lê o arquivo fontes/ de um artigo. Retorna lista de linhas ou None."""
-    # Tentar {id}.txt (sem .pdf)
-    base = article_id
-    path = os.path.join(fontes_dir, f'{base}.txt')
-    if not os.path.exists(path):
-        return None
-    try:
-        with open(path, 'r', encoding='utf-8', errors='replace') as f:
-            return f.readlines()
-    except Exception:
-        return None
+def read_fontes(fontes_dir, fontes_tipo, article_id):
+    """Lê o arquivo fontes/ ou fontes_plumber/ de um artigo. Retorna lista de linhas ou None."""
+    file_name = article_id + '.pdf'
+    text = read_fontes_text(fontes_dir, fontes_tipo, file_name)
+    if text:
+        return text.split('\n')
+    return None
 
 
 # ── Checks ───────────────────────────────────────────────────────────────────
@@ -951,8 +946,8 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
     """, (slug,))
     rows = cur.fetchall()
 
-    # Localizar fontes/
-    fontes_dir = find_fontes_dir(slug)
+    # Localizar fontes/ ou fontes_plumber/
+    fontes_dir, fontes_tipo = find_fontes_dir(slug)
 
     # Pré-computar artigos com autores (evita N+1 queries)
     cur.execute("""SELECT DISTINCT article_id FROM article_author
@@ -994,7 +989,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                 pass
 
         # Ler fontes/
-        fontes_lines = read_fontes(fontes_dir, article['id']) if fontes_dir else None
+        fontes_lines = read_fontes(fontes_dir, fontes_tipo, article['id']) if fontes_dir else None
 
         # Rodar todas as checagens
         issues = []

@@ -77,16 +77,54 @@ BODY_TEXT_PATTERNS = re.compile(
 
 
 def find_fontes_dir(slug):
-    """Localiza o diretório fontes/ para um seminário."""
+    """Localiza o diretório fontes/ para um seminário.
+
+    Retorna (path, tipo) onde tipo é 'txt' (pdftotext) ou 'plumber' (jsonl).
+    Hierarquia: fontes/ > fontes_plumber/.
+    """
     # Nacionais
-    path = os.path.join(BASE_DIR, 'nacionais', slug, 'fontes')
-    if os.path.isdir(path):
-        return path
+    for subdir, tipo in [('fontes', 'txt'), ('fontes_plumber', 'plumber')]:
+        path = os.path.join(BASE_DIR, 'nacionais', slug, subdir)
+        if os.path.isdir(path):
+            return path, tipo
     # Regionais
     for grupo in ['nne', 'se', 'sul']:
-        path = os.path.join(BASE_DIR, 'regionais', grupo, slug, 'fontes')
-        if os.path.isdir(path):
-            return path
+        for subdir, tipo in [('fontes', 'txt'), ('fontes_plumber', 'plumber')]:
+            path = os.path.join(BASE_DIR, 'regionais', grupo, slug, subdir)
+            if os.path.isdir(path):
+                return path, tipo
+    return None, None
+
+
+def read_fontes_text(fontes_dir, fontes_tipo, file_name):
+    """Lê o texto de um artigo a partir de fontes/ (txt) ou fontes_plumber/ (jsonl).
+
+    Retorna o texto como string, ou None se o arquivo não existe.
+    """
+    art_id = file_name.replace('.pdf', '')
+
+    if fontes_tipo == 'txt':
+        txt_name = file_name.replace('.pdf', '.txt')
+        txt_path = os.path.join(fontes_dir, txt_name)
+        if not os.path.exists(txt_path):
+            return None
+        with open(txt_path, 'r', encoding='utf-8', errors='replace') as f:
+            return f.read()
+
+    elif fontes_tipo == 'plumber':
+        jsonl_path = os.path.join(fontes_dir, art_id + '.jsonl')
+        if not os.path.exists(jsonl_path):
+            return None
+        # Converter blocos do plumber em texto contínuo (preservando quebras de linha)
+        lines = []
+        with open(jsonl_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                block = json.loads(line)
+                text = block.get('text', '').strip()
+                if text:
+                    lines.append(text)
+        return '\n'.join(lines)
+
     return None
 
 
@@ -383,10 +421,11 @@ def extract_keywords_en(lines):
 
 def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
     """Processa todos os artigos de um seminário."""
-    fontes_dir = find_fontes_dir(slug)
+    fontes_dir, fontes_tipo = find_fontes_dir(slug)
     if not fontes_dir:
-        print(f'ERRO: diretório fontes/ não encontrado para {slug}')
+        print(f'ERRO: diretório fontes/ e fontes_plumber/ não encontrados para {slug}')
         return
+    print(f'Fonte: {fontes_dir} ({fontes_tipo})')
 
     rows = conn.execute(
         '''SELECT id, file, title_en, subtitle_en, abstract_en, keywords_en
@@ -412,16 +451,12 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
     print('-' * 100)
 
     for art_id, file_name, old_title_en, old_subtitle_en, old_abstract_en, old_kw_en in rows:
-        txt_name = file_name.replace('.pdf', '.txt') if file_name else f'{art_id}.txt'
-        txt_path = os.path.join(fontes_dir, txt_name)
+        text = read_fontes_text(fontes_dir, fontes_tipo, file_name or f'{art_id}.pdf')
 
-        if not os.path.exists(txt_path):
-            print(f'{art_id:<15} {"—":<60} {"—":<5} sem fontes/')
+        if not text:
+            print(f'{art_id:<15} {"—":<60} {"—":<5} sem fonte')
             stats['title_failed'] += 1
             continue
-
-        with open(txt_path, 'r', encoding='utf-8', errors='replace') as f:
-            text = f.read()
 
         lines = text.split('\n')
 

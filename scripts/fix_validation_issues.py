@@ -39,7 +39,7 @@ DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 sys.path.insert(0, os.path.join(BASE_DIR, 'scripts'))
 from clean_references import UNDERSCORE_START, extract_author
 from extrair_metadados_en import (
-    find_fontes_dir, extract_abstract_en, extract_keywords_en
+    find_fontes_dir, read_fontes_text, extract_abstract_en, extract_keywords_en
 )
 
 
@@ -664,6 +664,27 @@ def clean_keywords(conn, slug, dry_run):
 
 # ── Handlers por categoria ───────────────────────────────────────────────────
 
+def _read_fontes_lines(fontes_dir, art_id):
+    """Lê linhas do fontes/ (txt) ou fontes_plumber/ (jsonl). Retorna lista de linhas ou None."""
+    # Tentar .txt primeiro
+    txt_path = os.path.join(fontes_dir, f'{art_id}.txt')
+    if os.path.exists(txt_path):
+        with open(txt_path, 'r', encoding='utf-8', errors='replace') as f:
+            return f.readlines()
+    # Tentar .jsonl (plumber)
+    jsonl_path = os.path.join(fontes_dir, f'{art_id}.jsonl')
+    if os.path.exists(jsonl_path):
+        lines = []
+        with open(jsonl_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                block = json.loads(line)
+                text = block.get('text', '').strip()
+                if text:
+                    lines.extend(text.split('\n'))
+        return [l + '\n' for l in lines]
+    return None
+
+
 def fix_a07(conn, slug, issues, fontes_dir, dry_run):
     """A07: Extrair abstract_en do fontes/ quando marcador existe."""
     fixed = 0
@@ -674,13 +695,10 @@ def fix_a07(conn, slug, issues, fontes_dir, dry_run):
         return 0
 
     for art_id in sorted(article_ids):
-        path = os.path.join(fontes_dir, f'{art_id}.txt')
-        if not os.path.exists(path):
-            print(f"  {art_id}: fontes/ não encontrado")
+        lines = _read_fontes_lines(fontes_dir, art_id)
+        if not lines:
+            print(f"  {art_id}: fonte não encontrada")
             continue
-
-        with open(path, 'r', encoding='utf-8', errors='replace') as f:
-            lines = f.readlines()
 
         abstract = extract_abstract_en(lines)
         if abstract and len(abstract) > 50:
@@ -707,13 +725,10 @@ def fix_a08(conn, slug, issues, fontes_dir, dry_run):
         return 0
 
     for art_id in sorted(article_ids):
-        path = os.path.join(fontes_dir, f'{art_id}.txt')
-        if not os.path.exists(path):
-            print(f"  {art_id}: fontes/ não encontrado")
+        lines = _read_fontes_lines(fontes_dir, art_id)
+        if not lines:
+            print(f"  {art_id}: fonte não encontrada")
             continue
-
-        with open(path, 'r', encoding='utf-8', errors='replace') as f:
-            lines = f.readlines()
 
         keywords = extract_keywords_en(lines)
         if keywords:
@@ -1215,15 +1230,12 @@ def fix_a19(conn, slug, issues, fontes_dir, dry_run):
                 result = plumber_result
                 print(f"  {art_id}.{field}: re-extraído de fontes_plumber/ ({len(current)}→{len(result)} chars)")
 
-        # Fallback: fonte padrão (pdftotext)
+        # Fallback: fonte padrão (pdftotext ou plumber)
         if not result:
-            path = os.path.join(fontes_dir, f'{art_id}.txt')
-            if not os.path.exists(path):
-                print(f"  {art_id}: fontes/ não encontrado")
+            lines = _read_fontes_lines(fontes_dir, art_id)
+            if not lines:
+                print(f"  {art_id}: fonte não encontrada")
                 continue
-
-            with open(path, 'r', encoding='utf-8', errors='replace') as f:
-                lines = f.readlines()
 
             result = re_extract_abstract(lines, field, current)
             if result:
@@ -1728,7 +1740,7 @@ def main():
         # Import validate_metadata inline (circular dep prevention)
         from validate_metadata import validate_seminar, save_report
 
-        fontes_dir = find_fontes_dir(slug)
+        fontes_dir, fontes_tipo = find_fontes_dir(slug)
         only = args.only.upper() if args.only else None
         # IMPORTANTE: rodar --sweep-refs ANTES de --loop (são comandos separados).
         # O sweep resolve A10/A11/A12/A13. Depois re-rodar clean_references.py (1.2b+).
@@ -1825,7 +1837,7 @@ def main():
     print(f"Issues a processar: {', '.join(f'{k}={v}' for k, v in sorted(counts.items()))}")
     print()
 
-    fontes_dir = find_fontes_dir(slug)
+    fontes_dir, fontes_tipo = find_fontes_dir(slug)
     results = run_one_pass(conn, slug, issues, fontes_dir, args.dry_run, only)
 
     # Resumo
