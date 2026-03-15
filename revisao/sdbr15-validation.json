@@ -17,16 +17,6 @@
   "issues": [
     {
       "check": "A10",
-      "article_id": "sdbr15-049",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 9,
-      "detail": "Backfill pendente: \"______. Secretária de Estado dos Negócios da Agricultura. Fu...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
       "article_id": "sdbr15-055",
       "field": "references_",
       "severity": "warning",
