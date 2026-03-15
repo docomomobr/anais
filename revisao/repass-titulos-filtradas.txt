@@ -1,0 +1,1771 @@
+Repassagem de titulos sdbr01-sdbr09
+Data: 2026-03-15
+Total de propostas: 347
+ACCEPT: 16
+REJECT: 331
+Aplicadas no DB: 16
+
+======================================================================
+
+
+--- sdbr01 ---
+
+[REJECT] [S]
+  Atual:     uma análise de residências da Praia do Canto
+  Proposta:  uma análise de Residências da Praia do Canto
+  Razao:     "Residências" generic word, keep lowercase
+
+[ACCEPT] [S]
+  Atual:     uma Torre Eiffel nos trópicos?
+  Proposta:  uma Torre Eiffel nos Trópicos?
+  Razao:     "trópicos?"->"Trópicos?" geographical region
+
+
+--- sdbr02 ---
+
+[REJECT] [S]
+  Atual:     as torres para o futuro e a Tradição Nacional
+  Proposta:  as Torres para o futuro e a Tradição nacional
+  Razao:     "Torres" no clear rule, keep lowercase; "Nacional" in "Tradição Nacional", keep human
+
+[REJECT] [T]
+  Atual:     Do arquiteto integral à equipe multidisciplinar
+  Proposta:  Do Arquiteto integral à equipe multidisciplinar
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Espaço público, habitação social e Arquitetura Moderna
+  Proposta:  Espaço Público, habitação social e Arquitetura Moderna
+  Razao:     "Público," generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura e metrópole
+  Proposta:  Arquitetura e Metrópole
+  Razao:     "Metrópole" no clear rule, keep lowercase
+
+[REJECT] [S]
+  Atual:     alguns elementos para a caracterização do contexto arquitetônico em São Paulo, anos 40 e 50
+  Proposta:  alguns Elementos para a caracterização do contexto arquitetônico em São Paulo, anos 40 e 50
+  Razao:     "Elementos" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O fim dos CIAM e a produção arquitetônica como crítica na década de 50
+  Proposta:  O fim dos CIAM e a produção Arquitetônica como crítica na década de 50
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     um caminho da Arquitetura Brasileira
+  Proposta:  um caminho da arquitetura brasileira
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Brasileira" in "Arquitetura Brasileira", keep human
+
+[REJECT] [T]
+  Atual:     Tradição e Modernidade no desenho da cidade estadonovista brasileira
+  Proposta:  Tradição e Modernidade no Desenho da cidade estadonovista brasileira
+  Razao:     "Desenho" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     breve panorama incluindo Argentina, Colômbia, Chile e Venezuela
+  Proposta:  breve Panorama incluindo Argentina, Colômbia, Chile e Venezuela
+  Razao:     "Panorama" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A Arquitetura Moderna na orla santista 1930/1970
+  Proposta:  A Arquitetura Moderna na Orla santista 1930/1970
+  Razao:     "Orla" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     As três faces modernistas de Brasília
+  Proposta:  As três faces Modernistas de Brasília
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     Intervenções contemporâneas na Arquitetura e no Urbanismo Modernos
+  Proposta:  Intervenções contemporâneas na arquitetura e no urbanismo modernos
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Urbanismo" human uppercase, conservative keep; "Modernos" human uppercase, conservative keep
+
+
+--- sdbr03 ---
+
+[REJECT] [T]
+  Atual:     O passado mora ao lado
+  Proposta:  O passado Mora ao lado
+  Razao:     "Mora" verb morar
+
+[REJECT] [S]
+  Atual:     Lucio Costa e o projeto do Grand Hotel de Ouro Preto, 1938/40
+  Proposta:  Lucio Costa e o projeto do grand hotel de Ouro Preto, 1938/40
+  Razao:     "Grand" human uppercase, conservative keep; "Hotel" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Teorias e práticas "modernistas" na disciplina de projeto
+  Proposta:  Teorias e práticas "Modernistas" na disciplina de projeto
+  Razao:     ""Modernistas"" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     O Laboratório de Ensaio de Materiais da Escola Politécnica de São Paulo 1926–1934
+  Proposta:  O laboratório de Ensaio de Materiais da Escola Politécnica de São Paulo 1926–1934
+  Razao:     "Laboratório" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Rumo ao Moderno
+  Proposta:  Rumo ao moderno
+  Razao:     "Moderno" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     projetos do arquiteto Fernando Pinho
+  Proposta:  projetos do Arquiteto Fernando Pinho
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A paixão do início na arquitetura de Paulo Mendes da Rocha
+  Proposta:  A Paixão do início na arquitetura de Paulo Mendes da Rocha
+  Razao:     "Paixão" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O CODEPAC e a luta pela preservação de edifícios modernos em Bauru – SP
+  Proposta:  O CODEPAC e a luta Pela preservação de edifícios modernos em Bauru – SP
+  Razao:     "Pela" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Textos do Urbanismo Moderno no Plano Diretor, Santos — 1968
+  Proposta:  Textos do Urbanismo Moderno no plano diretor, Santos — 1968
+  Razao:     "Plano" human uppercase, conservative keep; "Diretor," human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     a Arquitetura Moderna a serviço do Ensino Público
+  Proposta:  a Arquitetura Moderna a Serviço do Ensino público
+  Razao:     "Serviço" generic word, keep lowercase; "Público" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Modernismo tardio nas transformações do Centro de Salvador nos anos 60
+  Proposta:  Modernismo tardio nas transformações do centro de Salvador nos anos 60
+  Razao:     "Centro" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Conjunto Residencial de Deodoro
+  Proposta:  Conjunto residencial de Deodoro
+  Razao:     "Residencial" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Conjunto Residencial da Lagoinha
+  Proposta:  Conjunto residencial da Lagoinha
+  Razao:     "Residencial" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     análise crítica de algumas obras de Paulo Mendes da Rocha
+  Proposta:  análise crítica de Algumas Obras de Paulo Mendes da Rocha
+  Razao:     "Algumas" generic word, keep lowercase; "Obras" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A importância do decoro urbano na Arquitetura de Rino Levi
+  Proposta:  A importância do decoro urbano na arquitetura de Rino Levi
+  Razao:     "Arquitetura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o caso das residências
+  Proposta:  o caso das Residências
+  Razao:     "Residências" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Inventário do Patrimônio Urbano e Cultural de Betim
+  Proposta:  Inventário do patrimônio urbano e cultural de Betim
+  Razao:     "Patrimônio" human uppercase, conservative keep; "Urbano" human uppercase, conservative keep; "Cultural" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A participação da Escola de Arquitetura na construção do pensamento moderno em Belo Horizonte
+  Proposta:  A participação da escola de arquitetura na construção do pensamento moderno em Belo Horizonte
+  Razao:     "Escola" human uppercase, conservative keep; "Arquitetura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     projeto e obra de restauro, reforma e adaptação
+  Proposta:  projeto e Obra de restauro, reforma e adaptação
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A arquitetura entre o renascimento do moderno e o luto da Modernidade
+  Proposta:  A arquitetura entre o Renascimento do moderno e o luto da Modernidade
+  Razao:     "Renascimento" no clear rule, keep lowercase
+
+[REJECT] [T]
+  Atual:     Cinco questões sobre o Movimento Moderno no ensino de Teoria e História da Arquitetura e do Urbanismo
+  Proposta:  Cinco questões sobre o Movimento Moderno no Ensino de Teoria e história da arquitetura e do urbanismo
+  Razao:     "Ensino" generic word, keep lowercase; "História" human uppercase, conservative keep; "Arquitetura" human uppercase, conservative keep; "Urbanismo" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     contribuição histórica à construção econômica
+  Proposta:  contribuição histórica à construção Econômica
+  Razao:     "Econômica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Sobre miscigenação, falta de tradição e orquídeas
+  Proposta:  Sobre miscigenação, falta de Tradição e orquídeas
+  Razao:     "Tradição" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Plano Diretor de 1945 elaborado para Ribeirão Preto
+  Proposta:  Plano diretor de 1945 elaborado para Ribeirão Preto
+  Razao:     "Diretor" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     proposta do engenheiro José de Oliveira Reis
+  Proposta:  proposta do Engenheiro José de Oliveira Reis
+  Razao:     "Engenheiro" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Aspectos de preservação da obra de Frank Lloyd Wright dentro do quadro da conservação do Patrimônio Moderno nos E.U.A.
+  Proposta:  Aspectos de preservação da Obra de Frank Lloyd Wright dentro do quadro da Conservação do Patrimônio Moderno nos E.U.A.
+  Razao:     "Obra" generic word, keep lowercase; "Conservação" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     as permanências do moderno no entorno do prédio do Ministério
+  Proposta:  as permanências do moderno no entorno do prédio do ministério
+  Razao:     "Ministério" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O tombo da Praça?
+  Proposta:  O tombo da praça?
+  Razao:     "Praça?" human uppercase, conservative keep
+
+[ACCEPT] [T]
+  Atual:     Modernidade, modernismo e modernização
+  Proposta:  Modernidade, Modernismo e modernização
+  Razao:     "modernismo"->"Modernismo" historical movement
+
+[REJECT] [T]
+  Atual:     Os impasses da Arquitetura Paulista recente
+  Proposta:  Os impasses da arquitetura paulista recente
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Paulista" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o projeto dos Irmãos Roberto para o Aeroporto Santos Dumont
+  Proposta:  o projeto dos Irmãos Roberto para o aeroporto Santos Dumont
+  Razao:     "Aeroporto" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O Modernismo e o núcleo fabril
+  Proposta:  O Modernismo e o Núcleo fabril
+  Razao:     "Núcleo" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     impactos dolosos de seu tombamento
+  Proposta:  impactos dolosos de seu Tombamento
+  Razao:     "Tombamento" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Cidade Operária de Monlevade
+  Proposta:  Cidade operária de Monlevade
+  Razao:     "Operária" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o espaço público abandonado
+  Proposta:  o Espaço Público abandonado
+  Razao:     "Espaço" generic word, keep lowercase; "Público" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Reconhecimento e preservação da Arquitetura Art-Déco no Estado de São Paulo
+  Proposta:  Reconhecimento e preservação da arquitetura Art-Déco no Estado de São Paulo
+  Razao:     "Arquitetura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     processo de restauração e revitalização
+  Proposta:  processo de Restauração e revitalização
+  Razao:     "Restauração" generic word, keep lowercase
+
+
+--- sdbr04 ---
+
+[REJECT] [S]
+  Atual:     arquitetura, técnica e natureza
+  Proposta:  arquitetura, Técnica e natureza
+  Razao:     "Técnica" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     arquiteto Gustavo Penna e sua modernidade
+  Proposta:  Arquiteto Gustavo Penna e sua Modernidade
+  Razao:     "Arquiteto" subtitle starts lowercase; "Modernidade" quality, not concept
+
+[ACCEPT] [T]
+  Atual:     Francisco Bolonha, modernidade insigne
+  Proposta:  Francisco Bolonha, Modernidade insigne
+  Razao:     "modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [T]
+  Atual:     A comunhão entre as artes plásticas e a moderna arquitetura religiosa brasileira
+  Proposta:  A comunhão entre as Artes Plásticas e a moderna arquitetura religiosa brasileira
+  Razao:     "Artes" generic word, keep lowercase; "Plásticas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Os salões, a escola e as obras
+  Proposta:  Os salões, a escola e as Obras
+  Razao:     "Obras" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     As vanguardas artísticas e a Arquitetura Paulista nos anos 50/60
+  Proposta:  As vanguardas artísticas e a arquitetura paulista nos anos 50/60
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Paulista" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A representação pictórica do trabalhador brasileiro em obras da Arquitetura Moderna Brasileira
+  Proposta:  A representação pictórica do Trabalhador brasileiro em Obras da Arquitetura Moderna Brasileira
+  Razao:     "Trabalhador" generic word, keep lowercase; "Obras" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     as vilas de Jupiá
+  Proposta:  as Vilas de Jupiá
+  Razao:     "Vilas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A presença dos princípios do Urbanismo Modernista nos projetos dos campi
+  Proposta:  A presença dos princípios do urbanismo modernista nos projetos dos campi
+  Razao:     "Urbanismo" human uppercase, conservative keep; "Modernista" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A Escola Paulista e os bairros-jardim
+  Proposta:  A Escola Paulista e os bairros-Jardim
+  Razao:     no analyzable changes
+
+[REJECT] [T]
+  Atual:     Os apartamentos do Parque Guinle e a cidade moderna brasileira
+  Proposta:  Os Apartamentos do Parque Guinle e a cidade moderna brasileira
+  Razao:     "Apartamentos" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Urbanismo Modernista no Brasil
+  Proposta:  Urbanismo modernista no Brasil
+  Razao:     "Modernista" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     revisitando suas articulações internacionais
+  Proposta:  revisitando suas articulações Internacionais
+  Razao:     "Internacionais" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A modernidade da obra de Roberto Burle Marx
+  Proposta:  A Modernidade da Obra de Roberto Burle Marx
+  Razao:     MIXED: reject="Obra" generic word, keep lowercase | accept="modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [T]
+  Atual:     O Departamento de Habitação Popular da Prefeitura do Distrito Federal
+  Proposta:  O departamento de habitação popular da prefeitura do Distrito Federal
+  Razao:     "Departamento" human uppercase, conservative keep; "Habitação" human uppercase, conservative keep; "Popular" human uppercase, conservative keep; "Prefeitura" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Os arranha-céus de Belo Horizonte e a metrópole moderna
+  Proposta:  Os arranha-céus de Belo Horizonte e a Metrópole moderna
+  Razao:     "Metrópole" no clear rule, keep lowercase
+
+[REJECT] [T]
+  Atual:     O Urbanismo Modernista na cidade do Rio de Janeiro
+  Proposta:  O urbanismo modernista na cidade do Rio de Janeiro
+  Razao:     "Urbanismo" human uppercase, conservative keep; "Modernista" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O espaço universitário e o Movimento Moderno de Arquitetura
+  Proposta:  O espaço universitário e o Movimento Moderno de arquitetura
+  Razao:     "Arquitetura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     a fábrica da Bombril em Pernambuco
+  Proposta:  a Fábrica da Bombril em Pernambuco
+  Razao:     "Fábrica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura Paraibana Modernista, sim senhor
+  Proposta:  Arquitetura paraibana modernista, sim senhor
+  Razao:     "Paraibana" human uppercase, conservative keep; "Modernista," human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Rodrigo Lefèvre, arquitetura, técnica e historiografia
+  Proposta:  Rodrigo Lefèvre, arquitetura, Técnica e historiografia
+  Razao:     "Técnica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A modernidade arquitetônica das vilas operárias em Cataguases
+  Proposta:  A Modernidade Arquitetônica das Vilas operárias em Cataguases
+  Razao:     MIXED: reject="Arquitetônica" generic word, keep lowercase; "Vilas" generic word, keep lowercase | accept="modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [T]
+  Atual:     O espaço da produção industrial na obra de Elifas Lopes Martins em Uberlândia
+  Proposta:  O espaço da produção industrial na Obra de Elifas Lopes Martins em Uberlândia
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A Casa São Luiz para a Velhice, 1935
+  Proposta:  A casa São Luiz para a Velhice, 1935
+  Razao:     "Casa" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o racionalismo sem forma da Companhia Construtora de Santos
+  Proposta:  o Racionalismo sem forma da companhia Construtora de Santos
+  Razao:     "Racionalismo" generic word, keep lowercase; "Companhia" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Industrialização das construções na obra de Artigas e Cascaldi
+  Proposta:  Industrialização das construções na Obra de Artigas e Cascaldi
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura da razão e da técnica
+  Proposta:  Arquitetura da razão e da Técnica
+  Razao:     "Técnica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Estática, ética e estética na Arquitetura Paulista Brutalista
+  Proposta:  Estática, ética e estética na arquitetura paulista Brutalista
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Paulista" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     a qualificação dos espaços nas residências projetadas por Vilanova Artigas
+  Proposta:  a qualificação dos espaços nas Residências projetadas por Vilanova Artigas
+  Razao:     "Residências" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O Departamento de Habitação Popular do Distrito Federal 1946/1960
+  Proposta:  O departamento de habitação popular do Distrito Federal 1946/1960
+  Razao:     "Departamento" human uppercase, conservative keep; "Habitação" human uppercase, conservative keep; "Popular" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A aliança entre modernidade e tradição no desenho do Park Hotel de Friburgo
+  Proposta:  A aliança entre Modernidade e Tradição no Desenho do Park Hotel de Friburgo
+  Razao:     MIXED: reject="Tradição" generic word, keep lowercase; "Desenho" generic word, keep lowercase | accept="modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [S]
+  Atual:     espaço doméstico na alvorada do terceiro milênio
+  Proposta:  espaço doméstico na Alvorada do terceiro milênio
+  Razao:     "Alvorada" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     considerações de uma proposta de restauração
+  Proposta:  considerações de uma proposta de Restauração
+  Razao:     "Restauração" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura Moderna nos trópicos
+  Proposta:  Arquitetura Moderna nos Trópicos
+  Razao:     "trópicos"->"Trópicos" geographical region
+
+[REJECT] [T]
+  Atual:     Sistematização do banco de dados da produção arquitetônica em Uberlândia
+  Proposta:  Sistematização do Banco de dados da produção Arquitetônica em Uberlândia
+  Razao:     "Banco" no clear rule, keep lowercase; "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Dois projetos, dois arquitetos, duas palavras
+  Proposta:  Dois projetos, dois Arquitetos, duas palavras
+  Razao:     "Arquitetos," generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Quando os ares modernos chegam à Esplanada
+  Proposta:  Quando os Ares modernos chegam à esplanada
+  Razao:     "Ares" generic word, keep lowercase; "Esplanada" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o IPASE e a Vila Ferroviária em Natal-RN
+  Proposta:  o IPASE e a vila ferroviária em Natal-RN
+  Razao:     "Vila" human uppercase, conservative keep; "Ferroviária" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O desenho do espaço moderno
+  Proposta:  O Desenho do espaço moderno
+  Razao:     "Desenho" generic word, keep lowercase
+
+
+--- sdbr05 ---
+
+[REJECT] [T]
+  Atual:     Um percurso na obra do arquiteto Fernando Ferreira Pinho
+  Proposta:  Um percurso na Obra do Arquiteto Fernando Ferreira Pinho
+  Razao:     "Obra" generic word, keep lowercase; "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A obra de Giancarlo Palanti no Brasil
+  Proposta:  A Obra de Giancarlo Palanti no Brasil
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O jardim moderno de Burle Marx
+  Proposta:  O Jardim moderno de Burle Marx
+  Razao:     "Jardim" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     CBI-Esplanada
+  Proposta:  CBI-esplanada
+  Razao:     no analyzable changes
+
+[REJECT] [T]
+  Atual:     A popularização dos elementos da casa moderna em Campo Grande
+  Proposta:  A popularização dos Elementos da casa moderna em Campo Grande
+  Razao:     "Elementos" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Aperfeiçoamento tipológico, referência contextual e Arquitetura Moderna
+  Proposta:  Aperfeiçoamento tipológico, Referência contextual e Arquitetura Moderna
+  Razao:     "Referência" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Preservando o patrimônio da Vila Operária do Saco dos Limões
+  Proposta:  Preservando o patrimônio da vila operária do Saco dos Limões
+  Razao:     "Vila" human uppercase, conservative keep; "Operária" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O Parque do Ibirapuera
+  Proposta:  O parque do Ibirapuera
+  Razao:     "Parque" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O edifício residencial e a Arquitetura Brasileira (1945/55)
+  Proposta:  O edifício residencial e a arquitetura brasileira (1945/55)
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Brasileira" in "Arquitetura Brasileira", keep human
+
+[REJECT] [T]
+  Atual:     Pelos salões das Bienais e pelas ruas do Brasil
+  Proposta:  Pelos salões das Bienais e pelas Ruas do Brasil
+  Razao:     "Ruas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A produção de painéis em mosaico no período pós-guerra em São Paulo
+  Proposta:  A produção de painéis em mosaico no período pós-Guerra em São Paulo
+  Razao:     no analyzable changes
+
+[REJECT] [T]
+  Atual:     Brasília e o tombamento de uma idéia
+  Proposta:  Brasília e o Tombamento de uma idéia
+  Razao:     "Tombamento" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A Arquitetura Moderna e o sesquicentenário de Emancipação Política do Paraná
+  Proposta:  A Arquitetura Moderna e o Sesquicentenário de Emancipação política do Paraná
+  Razao:     "Sesquicentenário" generic word, keep lowercase; "Política" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     as residências modernistas em Aracaju nas décadas de 50 e 60
+  Proposta:  as Residências Modernistas em Aracaju nas décadas de 50 e 60
+  Razao:     "Residências" generic word, keep lowercase; "Modernistas" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     A preservação do edifício do Museu de Arte de São Paulo
+  Proposta:  A preservação do edifício do museu de arte de São Paulo
+  Razao:     "Museu" human uppercase, conservative keep; "Arte" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Estádios brasileiros de futebol
+  Proposta:  Estádios brasileiros de Futebol
+  Razao:     "Futebol" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura do sagrado em Francisco Bologna
+  Proposta:  Arquitetura do Sagrado em Francisco Bologna
+  Razao:     "Sagrado" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Expressões e vestígios modernistas na capital fluminense
+  Proposta:  Expressões e vestígios Modernistas na capital fluminense
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     Casas não são ilhas
+  Proposta:  Casas não São ilhas
+  Razao:     "São" verb ser, not saint
+
+[REJECT] [T]
+  Atual:     Análise tipológica da produção de habitação econômica no Brasil (1930-1964)
+  Proposta:  Análise tipológica da produção de habitação Econômica no Brasil (1930-1964)
+  Razao:     "Econômica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Edifício do Pavilhão de Óbitos do Recife
+  Proposta:  Edifício do pavilhão de Óbitos do Recife
+  Razao:     "Pavilhão" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A restauração do Refeitório Central da Fundação Oswaldo Cruz
+  Proposta:  A Restauração do Refeitório Central da Fundação Oswaldo Cruz
+  Razao:     "Restauração" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a Garagem de Barcos do Clube Santapaula
+  Proposta:  a Garagem de Barcos do clube Santapaula
+  Razao:     "Clube" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A trajetória profissional do arquiteto Victor Reif
+  Proposta:  A trajetória profissional do Arquiteto Victor Reif
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura Moderna no cinema pós-guerra
+  Proposta:  Arquitetura Moderna no cinema pós-Guerra
+  Razao:     no analyzable changes
+
+
+--- sdbr06 ---
+
+[REJECT] [T]
+  Atual:     Um estudo sobre o mestre Artigas e o aprendiz Jorge Caron
+  Proposta:  Um estudo sobre o Mestre Artigas e o aprendiz Jorge Caron
+  Razao:     "Mestre" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a construção de uma teoria
+  Proposta:  a construção de uma Teoria
+  Razao:     "Teoria" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Análise arquitetônica de uma residência moderna na cidade de João Pessoa/PB
+  Proposta:  Análise Arquitetônica de uma residência moderna na cidade de João Pessoa/PB
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura e Estado no Brasil
+  Proposta:  Arquitetura e estado no Brasil
+  Razao:     "Estado" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Arquitetura no Brasil no segundo Pós-Guerra
+  Proposta:  Arquitetura no Brasil no segundo pós-Guerra
+  Razao:     "Pós-Guerra" human uppercase, conservative keep
+
+[ACCEPT] [T]
+  Atual:     Urbanismo, modernidade e projeto nacional
+  Proposta:  Urbanismo, Modernidade e projeto nacional
+  Razao:     "modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [T]
+  Atual:     Modernidade arquitetônica e internacionalismo nos Trópicos
+  Proposta:  Modernidade Arquitetônica e internacionalismo nos Trópicos
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Escola Pernambucana ou tradição inventada?
+  Proposta:  Escola Pernambucana ou Tradição inventada?
+  Razao:     "Tradição" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a busca pelo homem novo através da arquitetura no conjunto do Pedregulho
+  Proposta:  a busca pelo Homem novo através da arquitetura no conjunto do Pedregulho
+  Razao:     "Homem" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     A modernidade das salas de cinema do Recife
+  Proposta:  A Modernidade das salas de cinema do Recife
+  Razao:     "modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [T]
+  Atual:     O modernismo arquitetônico em Teresina (PI)
+  Proposta:  O Modernismo Arquitetônico em Teresina (PI)
+  Razao:     MIXED: reject="Arquitetônico" generic word, keep lowercase | accept="modernismo"->"Modernismo" historical movement
+
+[REJECT] [T]
+  Atual:     A obra de Severiano Porto na Amazônia
+  Proposta:  A Obra de Severiano Porto na Amazônia
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A afirmação de uma feição nacional e outros caminhos
+  Proposta:  A afirmação de uma feição nacional e Outros caminhos
+  Razao:     "Outros" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Histórias e memórias de um arquiteto
+  Proposta:  Histórias e memórias de um Arquiteto
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Conservação de residências de linguagem moderna construídas na década de 50
+  Proposta:  Conservação de Residências de linguagem moderna construídas na década de 50
+  Razao:     "Residências" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Ideologia moderna de uma civilização do projeto
+  Proposta:  Ideologia moderna de uma Civilização do projeto
+  Razao:     "Civilização" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A flexibilidade da planta livre moderna para novos usos
+  Proposta:  A flexibilidade da planta Livre moderna para novos usos
+  Razao:     "Livre" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     reconhecimento necessário da Arquitetura Brasileira do Brutalismo Paulista
+  Proposta:  reconhecimento necessário da arquitetura brasileira do Brutalismo Paulista
+  Razao:     "Arquitetura" human uppercase, conservative keep; "Brasileira" in "Arquitetura Brasileira", keep human
+
+[REJECT] [T]
+  Atual:     Recepção da Arquitectura Moderna Brasileira em Portugal
+  Proposta:  Recepção da Arquitectura moderna brasileira em Portugal
+  Razao:     "Moderna" human uppercase, conservative keep; "Brasileira" human uppercase, conservative keep
+
+
+--- sdbr07 ---
+
+[REJECT] [S]
+  Atual:     busca por uma destinação compatível e utilitária aos monumentos construídos modernistas
+  Proposta:  busca por uma destinação compatível e utilitária aos Monumentos construídos Modernistas
+  Razao:     "Monumentos" generic word, keep lowercase; "Modernistas" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     Pelas ruas do mercado, o pulsar de velhos costumes e novos anseios
+  Proposta:  Pelas Ruas do mercado, o pulsar de velhos costumes e novos anseios
+  Razao:     "Ruas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Conjunto Habitacional Presidente Getúlio Vargas
+  Proposta:  Conjunto Habitacional presidente Getúlio Vargas
+  Razao:     "Presidente" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     da proposta monumental a sobrevivência nos dias atuais
+  Proposta:  da proposta monumental a sobrevivência nos Dias atuais
+  Razao:     "Dias" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Residência moderna e palacete eclético
+  Proposta:  Residência moderna e Palacete eclético
+  Razao:     "Palacete" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a 'sobrevida' de uma obra da Arquitetura Moderna em Natal
+  Proposta:  a 'sobrevida' de uma Obra da Arquitetura Moderna em Natal
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A rosa por outro nome tão doce ...seria?
+  Proposta:  A Rosa por outro nome tão doce ...seria?
+  Razao:     "Rosa" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A construção do Teatro do Museu de Arte Moderna do Rio de Janeiro, 50 anos depois
+  Proposta:  A construção do teatro do museu de Arte Moderna do Rio de Janeiro, 50 anos depois
+  Razao:     "Teatro" human uppercase, conservative keep; "Museu" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     vida e sobrevida do Auditório Araújo Vianna em Porto Alegre
+  Proposta:  Vida e sobrevida do Auditório Araújo Vianna em Porto Alegre
+  Razao:     "Vida" subtitle starts lowercase
+
+[REJECT] [T]
+  Atual:     Turismo cultural e revitalização de centro antigo
+  Proposta:  Turismo cultural e revitalização de centro Antigo
+  Razao:     "Antigo" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     o Teatro do Museu de Arte Moderna de Affonso Eduardo Reidy. Rio de Janeiro 2007
+  Proposta:  o teatro do museu de Arte Moderna de Affonso Eduardo Reidy. Rio de Janeiro 2007
+  Razao:     "Teatro" human uppercase, conservative keep; "Museu" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     reciclagem segundo a tradição funcional (1963-1969)
+  Proposta:  reciclagem segundo a Tradição funcional (1963-1969)
+  Razao:     "Tradição" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Restaurando o jardim moderno de Burle Marx
+  Proposta:  Restaurando o Jardim moderno de Burle Marx
+  Razao:     "Jardim" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a Praça Faria Neves no Recife-PE
+  Proposta:  a praça Faria Neves no Recife-PE
+  Razao:     "Praça" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o caso do plano de ação do Governo do Estado de São Paulo (1959-1963)
+  Proposta:  o caso do plano de ação do governo do Estado de São Paulo (1959-1963)
+  Razao:     "Governo" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o projeto de recuperação, restauração e readequação do ícone da Arquitetura Moderna de Porto Alegre
+  Proposta:  o projeto de Recuperação, Restauração e Readequação do ícone da Arquitetura Moderna de Porto Alegre
+  Razao:     "Recuperação," generic word, keep lowercase; "Restauração" generic word, keep lowercase; "Readequação" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     A transmutação do espaço museológico e a modernidade expográfica
+  Proposta:  A transmutação do espaço museológico e a Modernidade expográfica
+  Razao:     "modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [S]
+  Atual:     o trabalho de recuperação e atualização do passado em obra já demolida — a Casa Nordschild
+  Proposta:  o trabalho de Recuperação e atualização do passado em Obra já demolida — a casa Nordschild
+  Razao:     "Recuperação" generic word, keep lowercase; "Obra" generic word, keep lowercase; "Casa" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o desenho e a cidade
+  Proposta:  o Desenho e a cidade
+  Razao:     "Desenho" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     o regionalismo crítico de Lúcio Costa e o desafio da rearquitetura em obras modernas
+  Proposta:  o regionalismo crítico de Lúcio Costa e o desafio da rearquitetura em Obras modernas
+  Razao:     "Obras" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Considerações sobre o debate dos conjuntos residenciais modernos e as questões de conservação e reabilitação
+  Proposta:  Considerações sobre o debate dos conjuntos residenciais modernos e as questões de Conservação e reabilitação
+  Razao:     "Conservação" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Os novos apartamentos velhos
+  Proposta:  Os novos Apartamentos velhos
+  Razao:     "Apartamentos" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Patrimônio Modernista em risco
+  Proposta:  Patrimônio modernista em risco
+  Razao:     "Modernista" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o caso do Colégio Estadual Raul Vidal de Álvaro Vital Brazil. Uma questão de gestão pública ou de formação e/ou prática do arquiteto contemporâneo?
+  Proposta:  o caso do Colégio estadual Raul Vidal de Álvaro Vital Brazil. Uma questão de gestão pública ou de formação e/ou prática do Arquiteto contemporâneo?
+  Razao:     "Estadual" human uppercase, conservative keep; "Arquiteto" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     Holiday Inn Select Jaraguá, antigo hotel Jaraguá
+  Proposta:  Holiday Inn Select Jaraguá, Antigo hotel Jaraguá
+  Razao:     "Antigo" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Reflexão sobre rearquiteturas e obras modernas
+  Proposta:  Reflexão sobre rearquiteturas e Obras modernas
+  Razao:     "Obras" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Um encontro, um desencontro
+  Proposta:  Um Encontro, um desencontro
+  Razao:     "Encontro," generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O conceito de identidade e diferença na requalificação do espaço da cidade
+  Proposta:  O conceito de identidade e Diferença na requalificação do espaço da cidade
+  Razao:     "Diferença" generic word, keep lowercase
+
+
+--- sdbr08 ---
+
+[REJECT] [S]
+  Atual:     síntese das artes interlocuções com a fotografia moderna e de vanguarda
+  Proposta:  síntese das artes interlocuções com a fotografia moderna e de Vanguarda
+  Razao:     "Vanguarda" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Cartas sobre cartas
+  Proposta:  Cartas sobre Cartas
+  Razao:     "Cartas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arte e Arquitetura Moderna na obra de Luís Fernando Corona em Porto Alegre
+  Proposta:  Arte e Arquitetura Moderna na Obra de Luís Fernando Corona em Porto Alegre
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura Moderna e tradição construtiva
+  Proposta:  Arquitetura Moderna e Tradição construtiva
+  Razao:     "Tradição" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a difusão da Modernidade às cidades do interior paulista através das obras iniciais promovidas pelo IPESP com projetos de arquitetos modernos paulistas, 1959-1960
+  Proposta:  a difusão da Modernidade às cidades do interior paulista através das Obras iniciais promovidas pelo IPESP com projetos de Arquitetos modernos paulistas, 1959-1960
+  Razao:     "Obras" generic word, keep lowercase; "Arquitetos" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura Moderna e conforto ambiental nos trópicos
+  Proposta:  Arquitetura Moderna e conforto ambiental nos Trópicos
+  Razao:     "trópicos"->"Trópicos" geographical region
+
+[REJECT] [T]
+  Atual:     A teoria perdida
+  Proposta:  A Teoria perdida
+  Razao:     "Teoria" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A obra de Athos Bulcão
+  Proposta:  A Obra de Athos Bulcão
+  Razao:     "Obra" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna de Campinas no período de 1930 a 1970
+  Proposta:  Arquitetura Moderna de Campinas no período de 1930 a 1970
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Da restauração do espaço da arquitetura
+  Proposta:  Da Restauração do espaço da arquitetura
+  Razao:     "Restauração" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Casas modernistas em Anápolis
+  Proposta:  Casas Modernistas em Anápolis
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[REJECT] [S]
+  Atual:     a cidade em obras e o Congresso Internacional Extraordinário dos Críticos de Arte
+  Proposta:  a cidade em Obras e o congresso internacional extraordinário dos críticos de arte
+  Razao:     "Obras" generic word, keep lowercase; "Congresso" human uppercase, conservative keep; "Internacional" human uppercase, conservative keep; "Extraordinário" human uppercase, conservative keep; "Críticos" human uppercase, conservative keep; "Arte" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     análise sobre a contribuição do Movimento Moderno para as diretrizes internacionais e nacionais de preservação do Patrimônio Cultural
+  Proposta:  análise sobre a contribuição do Movimento Moderno para as diretrizes Internacionais e nacionais de preservação do Patrimônio Cultural
+  Razao:     "Internacionais" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     síntese e paradoxos, no ontem e no hoje uma análise através de algumas das obras de Abelardo da Hora e Francisco Brennand
+  Proposta:  síntese e paradoxos, no ontem e no hoje uma análise através de Algumas das Obras de Abelardo da Hora e Francisco Brennand
+  Razao:     "Algumas" generic word, keep lowercase; "Obras" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     um estudo a partir de manuais de higiene escolar
+  Proposta:  um estudo a partir de manuais de higiene Escolar
+  Razao:     "Escolar" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura moderna modesta carioca
+  Proposta:  Arquitetura Moderna modesta Carioca
+  Razao:     MIXED: reject="Carioca" pátrio/generic adjective | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     o moderno e a tradição em dois periódicos representativos dos campos acadêmico e profissional da arquitetura e do urbanismo
+  Proposta:  o moderno e a Tradição em dois periódicos representativos dos Campos acadêmico e profissional da arquitetura e do urbanismo
+  Razao:     "Tradição" generic word, keep lowercase; "Campos" generic word, keep lowercase
+
+[ACCEPT] [S]
+  Atual:     ecos da modernidade
+  Proposta:  ecos da Modernidade
+  Razao:     "modernidade"->"Modernidade" substantivized concept
+
+[REJECT] [S]
+  Atual:     a flor, o cristal e o bulldozer
+  Proposta:  a flor, o Cristal e o bulldozer
+  Razao:     "Cristal" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Análise da adequação bioclimática de edifícios modernos em Teresina-PI
+  Proposta:  Análise da Adequação bioclimática de edifícios modernos em Teresina-PI
+  Razao:     "Adequação" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A participação do arquiteto Richard Neutra no Congresso Internacional Extraordinário de Críticos de Arte em 1959
+  Proposta:  A participação do Arquiteto Richard Neutra no Congresso Internacional Extraordinário de Críticos de Arte em 1959
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A obra de Burle Marx em Teresina
+  Proposta:  A Obra de Burle Marx em Teresina
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     as exposições de Arquitectura Moderna Brasileira em Portugal e a sua influência nos territórios português e africano
+  Proposta:  as exposições de Arquitectura moderna brasileira em Portugal e a sua influência nos Territórios português e africano
+  Razao:     "Moderna" human uppercase, conservative keep; "Brasileira" human uppercase, conservative keep; "Territórios" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     indagações em torno da relação entre arte e técnica
+  Proposta:  indagações em torno da relação entre arte e Técnica
+  Razao:     "Técnica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A arquitetura moderna latino-americana nas publicações do MoMA
+  Proposta:  A Arquitetura Moderna Latino-Americana nas publicações do MoMA
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase; "Latino-Americana" pátrio/generic adjective | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     a obra de Burle Marx na V Bienal de São Paulo
+  Proposta:  a Obra de Burle Marx na V bienal de São Paulo
+  Razao:     "Obra" generic word, keep lowercase; "Bienal" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     algumas considerações e duas casas
+  Proposta:  Algumas considerações e duas casas
+  Razao:     "Algumas" subtitle starts lowercase
+
+[REJECT] [S]
+  Atual:     o Modernismo e o colonial na abertura de uma via monumental
+  Proposta:  o Modernismo e o colonial na abertura de uma Via monumental
+  Razao:     "Via" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura moderna paulista
+  Proposta:  Arquitetura Moderna Paulista
+  Razao:     MIXED: reject="Paulista" pátrio/generic adjective | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     imaginário social urbano, uso e apropriação do espaço
+  Proposta:  Imaginário social urbano, uso e apropriação do espaço
+  Razao:     "Imaginário" subtitle starts lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna em Campinas
+  Proposta:  Arquitetura Moderna em Campinas
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     dificuldades na conservação do Patrimônio Moderno dentro do contexto urbano japonês
+  Proposta:  dificuldades na Conservação do Patrimônio Moderno dentro do contexto urbano japonês
+  Razao:     "Conservação" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A Modernidade e a síntese das artes a partir das obras do arquiteto Wagner Schroden em Uberaba (MG)
+  Proposta:  A Modernidade e a síntese das artes a partir das Obras do Arquiteto Wagner Schroden em Uberaba (MG)
+  Razao:     "Obras" generic word, keep lowercase; "Arquiteto" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     jovens arquitetos, concurseiros, planejadores
+  Proposta:  jovens Arquitetos, concurseiros, planejadores
+  Razao:     "Arquitetos," generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     difusão nas revistas internacionais e nacionais especializadas
+  Proposta:  difusão nas revistas Internacionais e nacionais especializadas
+  Razao:     "Internacionais" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Centro Administrativo do Piauí
+  Proposta:  Centro administrativo do Piauí
+  Razao:     "Administrativo" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Caminhos da arquitetura moderna em Fortaleza
+  Proposta:  Caminhos da Arquitetura Moderna em Fortaleza
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     três edifícios modernistas lisboetas
+  Proposta:  três edifícios Modernistas lisboetas
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna no Rio de Janeiro
+  Proposta:  Arquitetura Moderna no Rio de Janeiro
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna em Porto Alegre na década de 1950
+  Proposta:  Arquitetura Moderna em Porto Alegre na década de 1950
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Arquitetura institucional em concreto aparente em Florianópolis/SC e suas repercussões no espaço urbano da cidade entre 1970 e 1985
+  Proposta:  Arquitetura Institucional em concreto aparente em Florianópolis/SC e suas repercussões no espaço urbano da cidade entre 1970 e 1985
+  Razao:     "Institucional" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A obra de Roberto Burle Marx para a cidade do Rio de Janeiro
+  Proposta:  A Obra de Roberto Burle Marx para a cidade do Rio de Janeiro
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     um Patrimônio Cultural carioca
+  Proposta:  um Patrimônio Cultural Carioca
+  Razao:     "Carioca" pátrio/generic adjective
+
+[REJECT] [T]
+  Atual:     A cidade cinematográfica e a síntese das artes no imaginário das vanguardas
+  Proposta:  A cidade cinematográfica e a síntese das artes no Imaginário das vanguardas
+  Razao:     "Imaginário" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A arte no Conjunto Pedregulho sob o olhar do morador
+  Proposta:  A arte no conjunto Pedregulho sob o olhar do morador
+  Razao:     "Conjunto" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     A última capital planejada do século XX
+  Proposta:  A última capital Planejada do século XX
+  Razao:     "Planejada" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Residências da orla marítima de João Pessoa
+  Proposta:  Residências da Orla marítima de João Pessoa
+  Razao:     "Orla" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     possíveis caminhos para a atualização tecnológica de fachadas modernistas e a reforma do edifício IRB
+  Proposta:  possíveis caminhos para a atualização tecnológica de fachadas Modernistas e a reforma do edifício IRB
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     O papel da preservação arquitetônica na busca de uma identidade local
+  Proposta:  O papel da preservação Arquitetônica na busca de uma identidade local
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O jardim como ordenamento da natureza e a poética de Burle Marx
+  Proposta:  O Jardim como ordenamento da natureza e a poética de Burle Marx
+  Razao:     "Jardim" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O azulejo na Modernidade arquitetônica
+  Proposta:  O azulejo na Modernidade Arquitetônica
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     proposta de intervenção física com a participação comunitária
+  Proposta:  proposta de Intervenção física com a participação comunitária
+  Razao:     "Intervenção" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     uma velha técnica para novos desafios
+  Proposta:  uma velha Técnica para novos desafios
+  Razao:     "Técnica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Por via do Atlântico
+  Proposta:  Por Via do Atlântico
+  Razao:     "Via" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     traçados e monumentos urbanos no Brasil e em territórios africanos de colonização portuguesa
+  Proposta:  traçados e Monumentos urbanos no Brasil e em Territórios africanos de colonização portuguesa
+  Razao:     "Monumentos" generic word, keep lowercase; "Territórios" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O Ministério da Educação e Saúde Pública (1935-1945)
+  Proposta:  O ministério da educação e saúde pública (1935-1945)
+  Razao:     "Ministério" human uppercase, conservative keep; "Educação" human uppercase, conservative keep; "Saúde" human uppercase, conservative keep; "Pública" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     as inovações climáticas e tecnológicas
+  Proposta:  as inovações climáticas e Tecnológicas
+  Razao:     "Tecnológicas" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     restauração e uso
+  Proposta:  Restauração e uso
+  Razao:     "Restauração" subtitle starts lowercase
+
+[REJECT] [S]
+  Atual:     arquitetura moderna em Ipanema
+  Proposta:  Arquitetura Moderna em Ipanema
+  Razao:     MIXED: reject="Arquitetura" subtitle starts lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     dilemas para a preservação do complexo balneário em Araxá/MG
+  Proposta:  dilemas para a preservação do Complexo balneário em Araxá/MG
+  Razao:     "Complexo" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     investigações sobre uma intervenção artística coletiva em um espaço público
+  Proposta:  investigações sobre uma Intervenção artística coletiva em um Espaço Público
+  Razao:     "Intervenção" generic word, keep lowercase; "Espaço" generic word, keep lowercase; "Público" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Um especial dedicado a arquitetos
+  Proposta:  Um Especial dedicado a Arquitetos
+  Razao:     "Especial" generic word, keep lowercase; "Arquitetos" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     Arquitetura Moderna no IV Centenário de São Paulo
+  Proposta:  Arquitetura Moderna no IV centenário de São Paulo
+  Razao:     "Centenário" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Interlocuções entre a engenharia e o urbanismo modernista no processo de elaboração do plano urbanístico de uma cidade anexa à Base Naval de Aratú
+  Proposta:  Interlocuções entre a Engenharia e o urbanismo modernista no processo de elaboração do plano Urbanístico de uma cidade anexa à base Naval de Aratú
+  Razao:     "Engenharia" no clear rule, keep lowercase; "Urbanístico" generic word, keep lowercase; "Base" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Estádio Governador Alberto Tavares Silva
+  Proposta:  Estádio governador Alberto Tavares Silva
+  Razao:     "Governador" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     Patrimônio Moderno dentro de um contexto urbanístico e histórico na cidade contemporânea
+  Proposta:  Patrimônio Moderno dentro de um contexto Urbanístico e histórico na cidade contemporânea
+  Razao:     "Urbanístico" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Do classicismo moderno à tradição inventada
+  Proposta:  Do Classicismo moderno à Tradição inventada
+  Razao:     MIXED: reject="Tradição" generic word, keep lowercase | accept="classicismo"->"Classicismo" historical movement
+
+[REJECT] [T]
+  Atual:     De volta para o futuro
+  Proposta:  De Volta para o futuro
+  Razao:     "Volta" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     projeto antigo, patrimônio novo
+  Proposta:  projeto Antigo, patrimônio novo
+  Razao:     "Antigo," generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a cidade dos Motores. Xerém. RJ. TPA/Town Planning Associates. 1945-46
+  Proposta:  a cidade dos Motores. Xerém. RJ. TPA/town Planning Associates. 1945-46
+  Razao:     no analyzable changes
+
+[REJECT] [T]
+  Atual:     Sérgio Ferro e o ensino de arquitetura
+  Proposta:  Sérgio Ferro e o Ensino de arquitetura
+  Razao:     "Ensino" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Percepções em arquitetura e arte e o imaginário cotidiano do uso das estações do Metrô de São Paulo
+  Proposta:  Percepções em arquitetura e arte e o Imaginário cotidiano do uso das estações do Metrô de São Paulo
+  Razao:     "Imaginário" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     uma referência da arte pública de Roberto Burle Marx
+  Proposta:  uma Referência da arte pública de Roberto Burle Marx
+  Razao:     "Referência" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Os projetos para a Esplanada de Santo Antônio em três décadas da Revista Municipal de Engenharia, da Prefeitura do Distrito Federal
+  Proposta:  Os projetos para a esplanada de Santo Antônio em três décadas da revista municipal de Engenharia, da prefeitura do Distrito Federal
+  Razao:     "Esplanada" human uppercase, conservative keep; "Revista" human uppercase, conservative keep; "Municipal" human uppercase, conservative keep; "Prefeitura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     a aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos
+  Proposta:  a aplicação na Bahia do inventário nacional da arquitetura, urbanismo e Paisagismo modernos
+  Razao:     "Inventário" human uppercase, conservative keep; "Nacional" human uppercase, conservative keep; "Arquitetura," human uppercase, conservative keep; "Urbanismo" human uppercase, conservative keep; "Modernos" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Estrutura, espaço e forma na obra do uruguaio Román Fresnedo Siri em Porto Alegre (1951-1952)
+  Proposta:  Estrutura, espaço e forma na Obra do uruguaio Román Fresnedo Siri em Porto Alegre (1951-1952)
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Os desafios postos pela conservação da Arquitetura Moderna
+  Proposta:  Os desafios postos Pela Conservação da Arquitetura Moderna
+  Razao:     "Pela" generic word, keep lowercase; "Conservação" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     O lugar da arte no desenho de Oscar Niemeyer
+  Proposta:  O lugar da arte no Desenho de Oscar Niemeyer
+  Razao:     "Desenho" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     dois ícones modernistas no Centro de Juiz de Fora: Francisco Bolonha e Oscar Niemeyer
+  Proposta:  dois ícones Modernistas no centro de Juiz de Fora: Francisco Bolonha e Oscar Niemeyer
+  Razao:     "Modernistas" adjective, keep lowercase; "Centro" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     David Libeskind e o Conjunto Nacional
+  Proposta:  David Libeskind e o conjunto nacional
+  Razao:     "Conjunto" human uppercase, conservative keep; "Nacional" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     reflexão crítica sobre a nova condição metropolitana
+  Proposta:  reflexão crítica sobre a nova condição Metropolitana
+  Razao:     "Metropolitana" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     PRONAF-Ciudad Juárez
+  Proposta:  Pronaf-Ciudad Juárez
+  Razao:     no analyzable changes
+
+[REJECT] [S]
+  Atual:     una visión moderna de ciudad
+  Proposta:  una visión moderna de Ciudad
+  Razao:     "Ciudad" no clear rule, keep lowercase
+
+[REJECT] [T]
+  Atual:     O legado arquitetônico e a influência das edificações executadas pelo Plano de Ação do Governo do Estado de São Paulo (1959 a 1963) nas cidades do interior
+  Proposta:  O legado arquitetônico e a influência das edificações executadas pelo plano de ação do governo do Estado de São Paulo (1959 a 1963) nas cidades do interior
+  Razao:     "Plano" human uppercase, conservative keep; "Ação" human uppercase, conservative keep; "Governo" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     As casas populares e a formação do subúrbio carioca
+  Proposta:  As casas populares e a formação do subúrbio Carioca
+  Razao:     "Carioca" pátrio/generic adjective
+
+[REJECT] [T]
+  Atual:     Análise da Residência Antônio Barbosa e sua relação patrimonial
+  Proposta:  Análise da residência Antônio Barbosa e sua relação patrimonial
+  Razao:     "Residência" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     clareza e objetividade na "função social do arquiteto" de Vilanova Artigas
+  Proposta:  clareza e objetividade na "função social do Arquiteto" de Vilanova Artigas
+  Razao:     "Arquiteto"" generic word, keep lowercase
+
+
+--- sdbr09 ---
+
+[REJECT] [T]
+  Atual:     O entrelaçamento entre linguagem arquitetônica e ideias pedagógicas
+  Proposta:  O entrelaçamento entre linguagem Arquitetônica e ideias pedagógicas
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Inventário da arquitetura moderna cearense
+  Proposta:  Inventário da Arquitetura Moderna Cearense
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase; "Cearense" pátrio/generic adjective | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     o Campus do Benfica da Universidade Federal do Ceará
+  Proposta:  o campus do Benfica da Universidade Federal do Ceará
+  Razao:     "Campus" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Uma nova proposta tipológica na obra de Vilanova Artigas nos anos 1970
+  Proposta:  Uma nova proposta tipológica na Obra de Vilanova Artigas nos anos 1970
+  Razao:     "Obra" generic word, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna em Goiânia
+  Proposta:  Arquitetura Moderna em Goiânia
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     Praça Ernesto Tochetto
+  Proposta:  praça Ernesto Tochetto
+  Razao:     "Praça" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     ver e olhar a arquitetura modernista na Serra Gaúcha
+  Proposta:  ver e olhar a Arquitetura Modernista na Serra Gaúcha
+  Razao:     "Arquitetura" no clear rule, keep lowercase; "Modernista" adjective, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitectura moderna en la obra pública
+  Proposta:  Arquitectura moderna en La Obra pública
+  Razao:     "La" Spanish article/prep, keep lowercase; "Obra" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a transmissão da linhagem corbusiana pela Escola Carioca
+  Proposta:  a transmissão da linhagem corbusiana Pela Escola Carioca
+  Razao:     "Pela" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Identidade e subjetividade na obra de Fernando Távora
+  Proposta:  Identidade e subjetividade na Obra de Fernando Távora
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     notas sobre interferências das normas de financiamento do BNH no projeto de edifícios de apartamentos paulistanos
+  Proposta:  notas sobre interferências das normas de financiamento do BNH no projeto de edifícios de Apartamentos paulistanos
+  Razao:     "Apartamentos" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Gestão do CODEPAC na preservação do patrimônio cultural
+  Proposta:  Gestão do CODEPAC na preservação do Patrimônio Cultural
+  Razao:     "Patrimônio" no clear rule, keep lowercase; "Cultural" no clear rule, keep lowercase
+
+[REJECT] [S]
+  Atual:     arquitetura moderna em Bauru-SP
+  Proposta:  Arquitetura Moderna em Bauru-SP
+  Razao:     MIXED: reject="Arquitetura" subtitle starts lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Nuevas formas y estructuras en la arquitectura religiosa
+  Proposta:  Nuevas formas y estructuras en La Arquitectura religiosa
+  Razao:     "La" Spanish article/prep, keep lowercase; "Arquitectura" no clear rule, keep lowercase
+
+[REJECT] [S]
+  Atual:     Enrique de la Mora y Félix Candela en San Luis Potosí
+  Proposta:  Enrique de La Mora y Félix Candela en San Luis Potosí
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[REJECT] [T]
+  Atual:     A perda de um ícone do Movimento Moderno carioca
+  Proposta:  A perda de um ícone do Movimento Moderno Carioca
+  Razao:     "Carioca" pátrio/generic adjective
+
+[REJECT] [T]
+  Atual:     Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à conservação do patrimônio arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal
+  Proposta:  Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à Conservação do Patrimônio Arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal
+  Razao:     "Conservação" generic word, keep lowercase; "Patrimônio" no clear rule, keep lowercase; "Arquitetônico" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Autores y producción del Movimiento Moderno en Mendoza Argentina (1930-1970)
+  Proposta:  Autores y producción del Movimiento moderno en Mendoza Argentina (1930-1970)
+  Razao:     "Moderno" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de la arquitectura moderna
+  Proposta:  Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de La Arquitectura moderna
+  Razao:     "La" Spanish article/prep, keep lowercase; "Arquitectura" no clear rule, keep lowercase
+
+[REJECT] [S]
+  Atual:     una experiencia en la Universidad Nacional de Tucumán, Argentina
+  Proposta:  una experiencia en La Universidad nacional de Tucumán, Argentina
+  Razao:     "La" Spanish article/prep, keep lowercase; "Nacional" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Valoración de la arquitectura del siglo XX
+  Proposta:  Valoración de La Arquitectura del siglo XX
+  Razao:     "La" Spanish article/prep, keep lowercase; "Arquitectura" no clear rule, keep lowercase
+
+[ACCEPT] [S]
+  Atual:     a cidade moderna dos anos 1950 e o construtivismo
+  Proposta:  a cidade moderna dos anos 1950 e o Construtivismo
+  Razao:     "construtivismo"->"Construtivismo" art movement
+
+[REJECT] [S]
+  Atual:     as residências modernas na Serra Gaúcha — Brasil
+  Proposta:  as Residências modernas na Serra Gaúcha — Brasil
+  Razao:     "Residências" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Documentos da arquitetura moderna em Teresina, Piauí
+  Proposta:  Documentos da Arquitetura Moderna em Teresina, Piauí
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     O concreto na arquitetura moderna em Santos
+  Proposta:  O concreto na Arquitetura Moderna em Santos
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     o caso do Teatro Municipal de Santos, um relato para registro e reflexões
+  Proposta:  o caso do teatro municipal de Santos, um relato para registro e reflexões
+  Razao:     "Teatro" human uppercase, conservative keep; "Municipal" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O desenho da cidade
+  Proposta:  O Desenho da cidade
+  Razao:     "Desenho" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     indisciplinado, sempre interdisciplinar
+  Proposta:  indisciplinado, Sempre interdisciplinar
+  Razao:     "Sempre" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Quando documentar não é suficiente
+  Proposta:  Quando Documentar não é suficiente
+  Razao:     "Documentar" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     obras, datas, reflexões e construções teóricas
+  Proposta:  Obras, datas, reflexões e construções teóricas
+  Razao:     "Obras," subtitle starts lowercase
+
+[REJECT] [T]
+  Atual:     O planejamento urbano, o Patrimônio Moderno e o valor de contemporaneidade
+  Proposta:  O planejamento urbano, o Patrimônio Moderno e o valor de Contemporaneidade
+  Razao:     "Contemporaneidade" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     reflexões sobre a trajetória da casa da Rua Santa Cruz
+  Proposta:  reflexões sobre a trajetória da casa da rua Santa Cruz
+  Razao:     "Rua" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     El patrimonio efímero y la representación del trabajo
+  Proposta:  El patrimonio efímero y La representación del trabajo
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[REJECT] [S]
+  Atual:     a forma da residência moderna portuguesa e a sua influência nos territórios brasileiro e africano
+  Proposta:  a forma da residência moderna portuguesa e a sua influência nos Territórios brasileiro e africano
+  Razao:     "Territórios" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Descobrindo o Art Déco no Cemitério São João Batista
+  Proposta:  Descobrindo o Art Déco no cemitério São João Batista
+  Razao:     "Cemitério" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     um breve balanço da consulta ao acervo da Comissão de Gestão de Imóveis do IPESP
+  Proposta:  um breve balanço da consulta ao acervo da Comissão de gestão de Imóveis do IPESP
+  Razao:     "Gestão" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Sobre o edifício A Tarde
+  Proposta:  Sobre o edifício a Tarde
+  Razao:     "A" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Lucio Costa — obra completa
+  Proposta:  Lucio Costa — Obra completa
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     análise sintática de residências unifamiliares em João Pessoa
+  Proposta:  análise sintática de Residências unifamiliares em João Pessoa
+  Razao:     "Residências" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a contribuição do Curso de Arquitetura da ENBA
+  Proposta:  a contribuição do Curso de arquitetura da ENBA
+  Razao:     "Arquitetura" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     o abrigo e o monumento do carnaval das escolas de samba do Rio de Janeiro
+  Proposta:  o abrigo e o Monumento do carnaval das escolas de Samba do Rio de Janeiro
+  Razao:     "Monumento" generic word, keep lowercase; "Samba" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Arquitetura moderna na sede campestre da Tuna Luso Brasileira em Belém do Pará
+  Proposta:  Arquitetura Moderna na sede campestre da Tuna Luso brasileira em Belém do Pará
+  Razao:     MIXED: reject="Brasileira" in "Arquitetura Brasileira", keep human | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     A experiência de conservação do Iate Tênis Clube da Pampulha como indicador da importância da abordagem contextual
+  Proposta:  A experiência de Conservação do Iate Tênis clube da Pampulha como indicador da importância da abordagem contextual
+  Razao:     "Conservação" generic word, keep lowercase; "Clube" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Diálogos entre arquitetura e educação na arquitetura escolar moderna
+  Proposta:  Diálogos entre arquitetura e educação na Arquitetura Escolar moderna
+  Razao:     "Arquitetura" no clear rule, keep lowercase; "Escolar" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     La documentación de la intervención de Burle Marx en el Paseo de Copacabana
+  Proposta:  La documentación de La intervención de Burle Marx en el Paseo de Copacabana
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[REJECT] [S]
+  Atual:     lecturas para la protección de un patrimonio paisajístico moderno
+  Proposta:  lecturas para La protección de un patrimonio paisajístico moderno
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[ACCEPT] [T]
+  Atual:     Arquitetura moderna e contemporânea em Belém
+  Proposta:  Arquitetura Moderna e contemporânea em Belém
+  Razao:     "moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Escritório Forte Gandolfi
+  Proposta:  Escritório forte Gandolfi
+  Razao:     "Forte" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     um registro da sua produção arquitetônica (1962-1973)
+  Proposta:  um registro da sua produção Arquitetônica (1962-1973)
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     o Gabinete de Urbanização Colonial e a habitação nas regiões tropicais
+  Proposta:  o Gabinete de urbanização colonial e a habitação nas regiões tropicais
+  Razao:     "Urbanização" human uppercase, conservative keep; "Colonial" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Caminhos da arquitetura moderna em Fortaleza
+  Proposta:  Caminhos da Arquitetura Moderna em Fortaleza
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     a contribuição do professor arquiteto José Liberal de Castro
+  Proposta:  a contribuição do Professor Arquiteto José Liberal de Castro
+  Razao:     "Professor" generic word, keep lowercase; "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Restauração do Conjunto Residencial Prefeito Mendes de Moraes — Pedregulho
+  Proposta:  Restauração do conjunto residencial prefeito Mendes de Moraes — Pedregulho
+  Razao:     "Conjunto" human uppercase, conservative keep; "Residencial" human uppercase, conservative keep; "Prefeito" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O papel do museólogo na consolidação do documento histórico em patrimônio cultural
+  Proposta:  O papel do museólogo na consolidação do documento histórico em Patrimônio Cultural
+  Razao:     "Patrimônio" no clear rule, keep lowercase; "Cultural" no clear rule, keep lowercase
+
+[REJECT] [S]
+  Atual:     critérios para documentação da arquitetura moderna no Nordeste, 1930-1980
+  Proposta:  critérios para documentação da Arquitetura Moderna no Nordeste, 1930-1980
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Una obra olvidada de la modernidad arquitectónica española
+  Proposta:  Una Obra olvidada de La modernidad arquitectónica española
+  Razao:     "Obra" generic word, keep lowercase; "La" Spanish article/prep, keep lowercase
+
+[REJECT] [S]
+  Atual:     la embajada de España en Brasilia
+  Proposta:  La embajada de España en Brasilia
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[REJECT] [T]
+  Atual:     Lina Bo Bardi é o Museu Imaginário de André Malraux
+  Proposta:  Lina Bo Bardi é o museu Imaginário de André Malraux
+  Razao:     "Museu" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     As obras do plano de edificações escolares de Anísio Teixeira e a arquitetura moderna na Bahia (1947-1950)
+  Proposta:  As Obras do plano de edificações escolares de Anísio Teixeira e a Arquitetura Moderna na Bahia (1947-1950)
+  Razao:     MIXED: reject="Obras" generic word, keep lowercase; "Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [T]
+  Atual:     Construtores estrangeiros e a produção arquitetônica moderna no Bom Retiro (1950-1970)
+  Proposta:  Construtores estrangeiros e a produção Arquitetônica moderna no Bom Retiro (1950-1970)
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Grades de ferro ornamentais em Belo Horizonte
+  Proposta:  Grades de Ferro ornamentais em Belo Horizonte
+  Razao:     "Ferro" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     a obra de Aristides Salgado
+  Proposta:  a Obra de Aristides Salgado
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A obra de Raphael Hardy Filho em Araxá-MG
+  Proposta:  A Obra de Raphael Hardy Filho em Araxá-MG
+  Razao:     "Obra" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Quanto vale um patrimônio cultural?
+  Proposta:  Quanto Vale um Patrimônio Cultural?
+  Razao:     "Vale" verb valer; "Patrimônio" no clear rule, keep lowercase; "Cultural?" no clear rule, keep lowercase
+
+[REJECT] [T]
+  Atual:     Registro da rede social dos projetistas do concurso do Plano Piloto para Brasília
+  Proposta:  Registro da rede social dos projetistas do Concurso do Plano Piloto para Brasília
+  Razao:     "Concurso" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     As propostas de ensino de Anísio Teixeira e os projetos de José de Souza Reis para a arquitetura escolar de Brasília
+  Proposta:  As propostas de Ensino de Anísio Teixeira e os projetos de José de Souza Reis para a Arquitetura Escolar de Brasília
+  Razao:     "Ensino" generic word, keep lowercase; "Arquitetura" no clear rule, keep lowercase; "Escolar" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     influência de Frank Lloyd Wright na arquitetura moderna religiosa em São Paulo
+  Proposta:  influência de Frank Lloyd Wright na Arquitetura Moderna religiosa em São Paulo
+  Razao:     MIXED: reject="Arquitetura" no clear rule, keep lowercase | accept="moderna"->"Moderna" completing consolidated "Arquitetura Moderna"
+
+[REJECT] [S]
+  Atual:     arquivos de uma experiência arquitetônica
+  Proposta:  arquivos de uma experiência Arquitetônica
+  Razao:     "Arquitetônica" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Silos, barcos y readymades
+  Proposta:  Silos, Barcos y readymades
+  Razao:     "Barcos" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     Jardim de Infância Ana Rosa Falcão de Carvalho
+  Proposta:  Jardim de infância Ana Rosa Falcão de Carvalho
+  Razao:     "Infância" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     relato da experiência e intervenção
+  Proposta:  relato da experiência e Intervenção
+  Razao:     "Intervenção" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     9º Seminário DOCOMOMO Brasil
+  Proposta:  9º seminário DOCOMOMO Brasil
+  Razao:     "Seminário" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     O caráter de três casas modernistas na av. Washington Luiz em Presidente Prudente-SP
+  Proposta:  O caráter de três casas Modernistas na av. Washington Luiz em Presidente Prudente-SP
+  Razao:     "Modernistas" adjective, keep lowercase
+
+[REJECT] [S]
+  Atual:     projeto de pesquisa "Arquivo Histórico Municipal Washington Luís — a cidade de São Paulo e sua arquitetura"
+  Proposta:  projeto de pesquisa "arquivo histórico municipal Washington Luís — a cidade de São Paulo e sua arquitetura"
+  Razao:     ""Arquivo" human uppercase, conservative keep; "Histórico" human uppercase, conservative keep; "Municipal" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Preservação do patrimônio e formação da área metropolitana de Brasília
+  Proposta:  Preservação do patrimônio e formação da área Metropolitana de Brasília
+  Razao:     "Metropolitana" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Políticas de preservação do conjunto urbanístico de Brasília e de desenvolvimento territorial e urbano da área metropolitana de Brasília
+  Proposta:  Políticas de preservação do conjunto Urbanístico de Brasília e de desenvolvimento territorial e urbano da área Metropolitana de Brasília
+  Razao:     "Urbanístico" generic word, keep lowercase; "Metropolitana" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     arquiteto moderno
+  Proposta:  Arquiteto moderno
+  Razao:     "Arquiteto" subtitle starts lowercase
+
+[REJECT] [S]
+  Atual:     reflexiones sobre la relación arquitectura y Estado en la Argentina peronista
+  Proposta:  reflexiones sobre La relación Arquitectura y estado en La Argentina peronista
+  Razao:     "La" Spanish article/prep, keep lowercase; "Arquitectura" no clear rule, keep lowercase; "Estado" human uppercase, conservative keep; "La" Spanish article/prep, keep lowercase
+
+[REJECT] [T]
+  Atual:     Duas casas, a mesma orla marítima, os mesmos arquitetos, dois mundos
+  Proposta:  Duas casas, a mesma Orla marítima, os mesmos Arquitetos, dois mundos
+  Razao:     "Orla" generic word, keep lowercase; "Arquitetos," generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A arquitetura escolar na Serra Gaúcha no contexto da Modernidade
+  Proposta:  A Arquitetura Escolar na Serra Gaúcha no contexto da Modernidade
+  Razao:     "Arquitetura" no clear rule, keep lowercase; "Escolar" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Preservación del patrimonio edificado del siglo XX
+  Proposta:  Preservación del patrimonio Edificado del siglo XX
+  Razao:     "Edificado" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     caso de estudio: el Palacio de Bellas Artes de la Ciudad de México
+  Proposta:  caso de estudio: el Palacio de Bellas Artes de La Ciudad de México
+  Razao:     "La" Spanish article/prep, keep lowercase
+
+[REJECT] [T]
+  Atual:     Ecos de samba
+  Proposta:  Ecos de Samba
+  Razao:     "Samba" generic word, keep lowercase
+
+[REJECT] [S]
+  Atual:     el papel de Brasil en la puesta al día de la arquitectura española con la internacional (1950-1965)
+  Proposta:  el papel de Brasil en La puesta AL día de La Arquitectura española con La internacional (1950-1965)
+  Razao:     "La" Spanish article/prep, keep lowercase; "AL" Spanish article/prep, keep lowercase; "La" Spanish article/prep, keep lowercase; "Arquitectura" no clear rule, keep lowercase; "La" Spanish article/prep, keep lowercase
+
+[REJECT] [T]
+  Atual:     A experiência do Museu de Arte de São Paulo
+  Proposta:  A experiência do museu de arte de São Paulo
+  Razao:     "Museu" human uppercase, conservative keep; "Arte" human uppercase, conservative keep
+
+[REJECT] [S]
+  Atual:     a ação de arquitetos e artistas estrangeiros na Modernidade paulista
+  Proposta:  a ação de Arquitetos e artistas estrangeiros na Modernidade Paulista
+  Razao:     "Arquitetos" generic word, keep lowercase; "Paulista" pátrio/generic adjective
+
+[REJECT] [S]
+  Atual:     documentações, conexões, críticas — detalhes são coisas muito grandes pra esquecer
+  Proposta:  documentações, conexões, críticas — detalhes São coisas muito grandes pra esquecer
+  Razao:     "São" verb ser, not saint
+
+[REJECT] [S]
+  Atual:     residências modernas
+  Proposta:  Residências modernas
+  Razao:     "Residências" subtitle starts lowercase
+
+[REJECT] [S]
+  Atual:     expansão metropolitana: o desafio da gestão das grandes cidades
+  Proposta:  expansão Metropolitana: o desafio da gestão das grandes cidades
+  Razao:     "Metropolitana:" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Medo de ser moderno e outros medos
+  Proposta:  Medo de ser moderno e Outros medos
+  Razao:     "Outros" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A formação do arquiteto e o patrimônio recente
+  Proposta:  A formação do Arquiteto e o patrimônio recente
+  Razao:     "Arquiteto" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Capacitação em conservação da Arquitetura Moderna
+  Proposta:  Capacitação em Conservação da Arquitetura Moderna
+  Razao:     "Conservação" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     A função social da propriedade & o Plano Diretor
+  Proposta:  A função social da propriedade & o plano diretor
+  Razao:     "Plano" human uppercase, conservative keep; "Diretor" human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Uma intervenção controvertida
+  Proposta:  Uma Intervenção controvertida
+  Razao:     "Intervenção" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Instituto Lina Bo e P. M. Bardi 2011
+  Proposta:  Instituto Lina Bo e p. m. Bardi 2011
+  Razao:     "P." human uppercase, conservative keep; "M." human uppercase, conservative keep
+
+[REJECT] [T]
+  Atual:     Uma casa, alguns desenhos e algumas cartas
+  Proposta:  Uma casa, alguns desenhos e Algumas Cartas
+  Razao:     "Algumas" generic word, keep lowercase; "Cartas" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Recepção e difusão da Arquitetura Moderna Brasileira nos números especiais das revistas especializadas européias (1940-1960)
+  Proposta:  Recepção e difusão da Arquitetura Moderna Brasileira nos números Especiais das revistas especializadas européias (1940-1960)
+  Razao:     "Especiais" generic word, keep lowercase
+
+[REJECT] [T]
+  Atual:     Archimedes Memória
+  Proposta:  Archimedes memória
+  Razao:     "Memória" human uppercase, conservative keep
+
