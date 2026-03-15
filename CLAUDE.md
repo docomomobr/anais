@@ -28,6 +28,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr11 | 101 | ✅ revisado | 2026-03-14 |
 | sdbr12 | 82 | ✅ revisado | 2026-03-14 |
 | sdbr13 | 181 | ✅ revisado | 2026-03-15 |
+| sdbr14 | 122 | ✅ revisado | 2026-03-15 |
 
 ---
 

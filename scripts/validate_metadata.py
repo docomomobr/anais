@@ -776,13 +776,28 @@ def check_pt_in_abstract_en(article):
     issues = []
     aid = article['id']
     text = article.get('abstract_en')
-    if not text or len(text) < 200:
+    if not text or len(text) < 10:
+        return issues
+
+    # Caso especial: campo inteiro é keywords PT (não abstract EN)
+    # Ex: "Palavras‐chave: kw1; kw2; kw3"
+    if re.match(r'^\s*Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:', text):
+        issues.append({
+            'check': 'A27', 'article_id': aid, 'field': 'abstract_en',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'abstract_en contém keywords PT (não é abstract EN)',
+            'suggestion': 'Setar abstract_en = NULL',
+            'fix_action': {'null_field': 'abstract_en'},
+        })
+        return issues
+
+    if len(text) < 200:
         return issues
 
     # Procurar marcadores PT no texto EN
     PT_MARKERS = [
         r'(?:Este\s+artigo|O\s+presente|A\s+pesquisa|Este\s+trabalho|O\s+artigo|A\s+dissertação|A\s+tese)',
-        r'Palavras[\s-]*[Cc]haves?\s*:',
+        r'Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:',
         r'Resumo\s*:',
     ]
     best_pos = None

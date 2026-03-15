@@ -289,6 +289,8 @@ Onde:
 - **📄 footnotes (notas de rodapé)**: citações dispersas no rodapé das páginas, sem seção dedicada
 - **⬜ sem refs**: PDF inspecionado, nenhuma referência encontrada
 
+**REGRA**: Ao classificar um artigo como 📄 footnotes ou ⬜ sem refs, verificar **TODAS** as páginas do PDF, não só as últimas 2-3. Alguns artigos têm a seção de referências em páginas intermediárias (ex: sdbr14-122 tinha refs na p.15 de 17). Classificar errado como "footnotes only" causa perda de dados.
+
 **Passo 2 — Extrair na ordem de facilidade:**
 1. Primeiro: 📚 bibliografias explícitas (extração direta)
 2. Depois: 📝 endnotes (extração + limpeza de numeração)
