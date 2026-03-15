@@ -668,8 +668,17 @@ Usa a biblioteca Python `titlecase` com callback que consulta `dict.db`.
 
 ### 1.1c Revisão LLM de títulos EN e ES
 
+**REGRA**: Esta é uma revisão LLM real — ler CADA título contra o PDF, não rodar regex. Para cada artigo com title_en ou title_es, abrir o PDF (ou fontes_plumber) e comparar o título no banco com o que está no documento. Problemas que só uma leitura real pega:
+- Palavras coladas sem espaço ("Destructionorconstruction..." — garbled da extração)
+- Lixo vazado de outros campos ("— Unidentified", "NÃO IDENTIFICADO" colado no título)
+- Texto de outro idioma misturado (espanhol no title_en, português no title_es)
+- Typos de OCR ("Refletion", "Funcional", "T He")
+- Acentos faltantes em nomes próprios ("Brasilia" → "Brasília", "Joao" → "João")
+
 **Objetivo:** O Claude compara cada `title_en`, `title_es`, e títulos de artigos locale=es/en com o PDF/docx original para detectar:
 - Títulos truncados (extração cortou no meio)
+- Títulos garbled (palavras coladas, espaços perdidos)
+- Lixo de outros campos vazado para o título
 - Title Case incorreto em nomes próprios (EN) ou sentence case incorreto (ES)
 - Separação errada título/subtítulo
 - Título que é na verdade a primeira frase do abstract (falso positivo)
