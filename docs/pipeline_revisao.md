@@ -120,9 +120,17 @@ Este registro evita re-trabalho entre sessões e serve como auditoria do que foi
 
 Antes de qualquer revisão, identificar o **padrão de metadados do seminário** e preencher as lacunas nos artigos que desviam desse padrão. A lógica é simples: se a maioria dos artigos tem um campo (ex: keywords), os poucos que não têm provavelmente tinham o dado no PDF e ele se perdeu na extração. Mas se nenhum artigo tem o campo, é porque o evento não exigia — e não adianta buscar.
 
-### 0.0 Registro de diagnóstico
+### 0.0 Checkpoint inicial + registro de diagnóstico
 
-**ANTES de qualquer ação**, criar um registro de diagnóstico no formato abaixo. Este registro serve como checklist — nenhuma fase pode avançar enquanto houver itens pendentes.
+**ANTES de qualquer ação**, fazer dump e commit para salvar o estado limpo:
+
+```bash
+python3 scripts/dump_anais_db.py
+git add anais.sql
+git commit -m "{slug} pré-revisão: estado inicial"
+```
+
+Em seguida, criar um registro de diagnóstico no formato abaixo. Este registro serve como checklist — nenhuma fase pode avançar enquanto houver itens pendentes.
 
 ```markdown
 ## Diagnóstico — {slug} ({N} artigos)

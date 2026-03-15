@@ -304,6 +304,12 @@ Se a revisão humana revelou expressões consolidadas novas (ex: "Vila Operária
 
 A revisão humana termina quando todas as correções do `revisao/{slug}-rev.md` foram aplicadas e verificadas. Registrar o status final no `{slug}-rev-status.md`.
 
-**Próximo passo:** Executar a [Fase 3 — Aprendizado](pipeline_revisao.md#fase-3--aprendizado-pós-revisão) do pipeline de revisão automática.
+**Checkpoint — dump e commit:**
 
-~~§5.5/5.6 movidos para a [Fase 3](pipeline_revisao.md#fase-3--aprendizado-pós-revisão) (§3.6–3.8): registro, status, dump, commit e push.~~
+```bash
+python3 scripts/dump_anais_db.py
+git add anais.sql revisao/{slug}-*
+git commit -m "{slug} revisão humana concluída"
+```
+
+**Próximo passo:** Executar a [Fase 3 — Aprendizado](pipeline_revisao.md#fase-3--aprendizado-pós-revisão) do pipeline de revisão automática.
