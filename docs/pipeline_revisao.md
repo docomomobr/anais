@@ -1170,7 +1170,9 @@ for col in sem_fields:
 
 **Após preencher todos os campos, gerar/atualizar a `description` (ficha catalográfica ABNT):**
 
-O campo `description` é a referência bibliográfica completa dos anais, construída a partir dos demais campos. Formato padrão:
+O campo `description` é a referência bibliográfica completa dos anais. **Prioridade**: usar a ficha catalográfica do próprio PDF dos anais (quando existir). Se o PDF tem ficha CIP, transcrever fielmente — usar os mesmos termos (coordenação/organização, editora completa vs sigla, modo de acesso se constar). Se o PDF não tem ficha, construir a partir dos campos do seminário usando o formato padrão abaixo.
+
+Formato padrão (quando não há ficha no PDF):
 
 ```
 N° Nome do Evento: anais: Subtítulo [recurso eletrônico] / organização: Editor1, Editor2. Cidade: Editora, Ano. ISBN: XXX.
