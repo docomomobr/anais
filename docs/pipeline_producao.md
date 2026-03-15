@@ -27,7 +27,7 @@ Pipeline para publicação dos anais Docomomo Brasil. Substitui o pipeline OJS (
 - Não usar o DOI como link de download (landing page adiciona clique extra)
 - **sdbr04**: os 79 artigos são apenas resumos (sem texto completo). Não subir PDFs ao Zenodo para este seminário.
 - **Resumos (document_type=resumo)**: não subir PDFs ao Zenodo — o conteúdo do resumo vai integralmente nos metadados do site (abstract, keywords, autores). Upload de PDF de resumo é redundante.
-- **Artigos com DOI externo**: se o artigo já tem DOI individual atribuído em outra plataforma (periódico, repositório institucional), **não subir para o Zenodo** — referenciar o DOI existente. **Verificar se o DOI resolve** antes de aceitar (`curl -I https://doi.org/{DOI}`). Nota: o Even3 vende DOI como serviço opcional — a maioria dos artigos no Even3 NÃO tem DOI individual (só o DOI da coleção). Verificar artigo por artigo.
+- **Artigos com DOI externo**: sempre subir para o Zenodo (nosso DOI + nosso PDF hospedado). Se o artigo também tem DOI de outra plataforma (Even3, periódico, repositório), exibir ambos na ficha do artigo no site Hugo. O download de PDF sempre aponta para o Zenodo (nossa fonte canônica). Nota: o Even3 vende DOI como serviço opcional — a maioria dos artigos NÃO tem DOI individual (só o DOI da coleção). Verificar artigo por artigo (`curl -I https://doi.org/{DOI}`).
 
 ### Estimativa de storage
 
