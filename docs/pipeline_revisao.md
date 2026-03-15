@@ -114,6 +114,14 @@ Este log é insumo obrigatório da Fase 3 (aprendizado pós-revisão) — sem el
 
 Este registro evita re-trabalho entre sessões e serve como auditoria do que foi feito.
 
+**REGRA — O rev-status é o fio condutor do processo:** O pipeline tem muitas etapas e é comum surgir um problema inesperado durante a execução (overflow, lixo, dados faltantes). Ao encontrar um problema:
+1. **Resolver** o problema
+2. **Registrar** a correção no rev-status (artigo, campo, antes/depois, causa)
+3. **Reler o rev-status** para identificar a próxima etapa ⏳ pendente
+4. **Retomar** o pipeline no ponto exato onde parou
+
+Nunca avançar para uma etapa seguinte sem verificar no rev-status que a etapa atual está ✅. Nunca deixar o pipeline pela metade para resolver um problema secundário sem antes registrar onde parou. O rev-status é a memória de execução — sem ele, o agente perde o fio e pula etapas.
+
 ---
 
 ## Fase 0 — Diagnóstico de padrão e preenchimento de lacunas
