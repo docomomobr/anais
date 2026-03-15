@@ -1139,6 +1139,14 @@ print(f'  {"seções":15s}: {n_sections} seções, {with_section}/{len(rows)} ar
 
 **Objetivo:** Garantir que os metadados do seminário estejam completos e corretos. Diferente da cobertura de artigos (que é estatística), aqui cada campo deve ser **verificado e preenchido** — não basta listar o que falta.
 
+**REGRA — Verificar contra a ficha catalográfica original:** Abrir o PDF dos anais (geralmente primeiras páginas) e comparar CADA campo com a ficha CIP/catalográfica. Verificar:
+- **title/subtitle**: corresponde ao que consta na capa e na ficha? Ortografia, pontuação, capitalização.
+- **publisher**: é o que consta na ficha (nome completo ou sigla)? Não inventar — usar exatamente o que a publicação indica.
+- **editors**: "organização" ou "coordenação"? Usar o termo da ficha. Nomes completos conforme a ficha.
+- **description**: transcrever a ficha catalográfica do PDF (ver procedimento abaixo). Se o campo foi gerado automaticamente por `build_description`, comparar com a ficha original e corrigir divergências.
+- **isbn**: confere com a ficha?
+- **location/date_published**: confere com a capa?
+
 ```python
 cur.execute('SELECT * FROM seminars WHERE slug = ?', (slug,))
 sem = cur.fetchone()
