@@ -45,26 +45,6 @@
       "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
     },
     {
-      "check": "A10",
-      "article_id": "sdbr15-097",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 6,
-      "detail": "Backfill pendente: \"________. Severiano Porto: [Re] Pensando a Arquitetura [Mode...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdbr15-097",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 7,
-      "detail": "Backfill pendente: \"________. Arquitetura Contemporânea na Amazônia. In: Arquite...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
       "check": "A03",
       "article_id": "sdbr15-098",
       "field": "keywords_es",
