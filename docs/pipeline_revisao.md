@@ -1147,6 +1147,8 @@ print(f'  {"seções":15s}: {n_sections} seções, {with_section}/{len(rows)} ar
 - **isbn**: confere com a ficha?
 - **location/date_published**: confere com a capa?
 
+**"Disponível originalmente em:"**: se os anais foram publicados originalmente em site externo ao docomomobrasil.com (ex: site da universidade organizadora, Even3, plataforma do evento), adicionar ao final da description: `Disponível originalmente em: <URL>.` — NÃO usar links do docomomobrasil.com (é o site que estamos substituindo).
+
 ```python
 cur.execute('SELECT * FROM seminars WHERE slug = ?', (slug,))
 sem = cur.fetchone()
