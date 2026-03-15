@@ -23,5 +23,12 @@ sdbr15-033:
     title_es: ajustar capitalização
 sdbr15-075:
     subtitle_es: está com lixo no final
---
+sdbr15-088:
+    title_es: 'La Ciudad Universitaria y el Ministério de la Educación y Salud Pública'
+sdbr15-098:
+    abstract_es: está com muito lixo no final. as keywords_es estão no meio.
+sdbr15-077: 
+    title: 'O Patrimônio Histórico e Artístico Nacional (des)montado durante a gestão do Governo Gederal (2019-2022)'
+    em espanhol tb.
+---
 
