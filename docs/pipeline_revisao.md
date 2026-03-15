@@ -134,7 +134,8 @@ Antes de qualquer revisão, identificar o **padrão de metadados do seminário**
 
 ```bash
 python3 scripts/dump_anais_db.py
-git add anais.sql
+python3 dict/dump_db.py
+git add anais.sql dict/dict.sql
 git commit -m "{slug} pré-revisão: estado inicial"
 ```
 
@@ -473,7 +474,6 @@ O Claude executa verificações automatizadas e aplica correções ao banco **an
 # 1. Alimentar dicionário com nomes novos
 python3 dict/seed_authors.py
 python3 dict/seed_titles.py --apply
-python3 dict/dump_db.py
 
 # 2. Normalizar
 python3 scripts/normalizar_maiusculas.py --slug {slug} --dry-run
@@ -614,8 +614,9 @@ for nome in ['NovoNome', ...]:
     cur.execute('INSERT OR IGNORE INTO nomes (nome) VALUES (?)', (nome,))
 conn.commit()
 "
-python3 dict/dump_db.py
 ```
+
+**Nota:** `dict/dict.sql` será salvo no próximo checkpoint (Fase 2).
 
 ### 1.1b Normalizar títulos EN e ES
 
@@ -1321,7 +1322,8 @@ O HTML é auto-contido (CSS inline, capa em base64). Abrir no navegador para rev
 
 ```bash
 python3 scripts/dump_anais_db.py
-git add anais.sql revisao/{slug}-* dict/dict.sql
+python3 dict/dump_db.py
+git add anais.sql dict/dict.sql revisao/{slug}-*
 git commit -m "{slug} revisão automática concluída (Fases 0-2)"
 ```
 
@@ -1385,10 +1387,9 @@ for row in conn.execute(\"\"\"
 \"\"\"):
     print(f'{row[0]} ({row[1]}/{row[2]})')
 "
-
-# Após remover/adicionar:
-python3 dict/dump_db.py
 ```
+
+**Nota:** `dict/dict.sql` será salvo no checkpoint da §3.8.
 
 **Critério de remoção**: se a revisão corrigiu uma palavra para minúscula em ≥2 artigos, e a palavra não é nome próprio, remover do dict.
 
@@ -1448,8 +1449,9 @@ Registrar os achados e correções no `{slug}-rev-status.md`.
 
 ```bash
 python3 scripts/dump_anais_db.py
-git add anais.sql CLAUDE.md docs/pipeline_revisao.md docs/pipeline_revisao_humana.md \
-       scripts/*.py dict/dict.sql revisao/{slug}-*
+python3 dict/dump_db.py
+git add anais.sql dict/dict.sql CLAUDE.md docs/pipeline_revisao.md docs/pipeline_revisao_humana.md \
+       scripts/*.py revisao/{slug}-*
 git commit -m "{slug} revisado + melhorias pipeline"
 git push
 ```
@@ -1581,7 +1583,7 @@ Esse fluxo em 3 passos é mais rápido que delegar tudo a um agente e esperar el
 | `scripts/extrair_metadados_en.py --slug {slug}` | 0.6 | Extrair title_en, subtitle_en, abstract_en, keywords_en |
 | `scripts/validar_abstracts.py --slug {slug}` | 0.5 | Validar abstracts (9 regras + lixo ES) |
 | `scripts/validar_abstracts.py --slug {slug} --fix-swap` | 0.5 | Corrigir swaps abstract PT↔EN |
-| `dict/seed_authors.py` + `seed_titles.py --apply` + `dump_db.py` | 1.1a | Alimentar dicionário |
+| `dict/seed_authors.py` + `seed_titles.py --apply` | 1.1a | Alimentar dicionário |
 | `scripts/normalizar_maiusculas.py --slug {slug}` | 1.1a | Normalizar títulos PT |
 | `scripts/normalizar_titulos_en.py --slug {slug}` | 1.1b | Normalizar títulos EN (Title Case) |
 | `scripts/clean_references.py --slug {slug}` | 1.2a | Limpar referências (backfills, split ABNT, URLs) |

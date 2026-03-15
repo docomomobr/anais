@@ -247,10 +247,7 @@ db.execute("SELECT * FROM dict_names WHERE word='modernista' COLLATE NOCASE")
 **d) Verificar backfills em referências:**
 - Se algum backfill manual usou sintaxe que `clean_references.py` não detectou, corrigir o regex e documentar na tabela de sintaxes da Fase 3
 
-**e) Dump do dict:**
-```bash
-python3 dict/dump_db.py
-```
+**Nota:** `dict/dict.sql` será salvo no checkpoint §5.4 (fim da revisão humana).
 
 ---
 
@@ -293,9 +290,6 @@ python3 dict/seed_authors.py
 
 # Nomes próprios dos títulos (edifícios, lugares, obras)
 python3 dict/seed_titles.py --apply
-
-# Dump do dicionário
-python3 dict/dump_db.py
 ```
 
 Se a revisão humana revelou expressões consolidadas novas (ex: "Vila Operária" como nome próprio) ou exceções de capitalização, adicioná-las manualmente ao `dict.db`. Registrar padrões confirmados na memória do projeto (`MEMORY.md`) para referência futura.
@@ -308,7 +302,8 @@ A revisão humana termina quando todas as correções do `revisao/{slug}-rev.md`
 
 ```bash
 python3 scripts/dump_anais_db.py
-git add anais.sql revisao/{slug}-*
+python3 dict/dump_db.py
+git add anais.sql dict/dict.sql revisao/{slug}-*
 git commit -m "{slug} revisão humana concluída"
 ```
 
