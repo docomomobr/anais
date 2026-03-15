@@ -14485,9 +14485,9 @@ INSERT INTO "sections" VALUES(249,'sdbr13','Inventário e Documentação',NULL,3
 INSERT INTO "sections" VALUES(250,'sdbr13','O Modernismo como Cultura',NULL,4,0);
 INSERT INTO "sections" VALUES(251,'sdbr13','Teorias e Práticas de Intervenção no Moderno',NULL,5,0);
 INSERT INTO "sections" VALUES(252,'sdbr14','A Arquitetura Moderna, Cultura e Natureza',NULL,1,0);
-INSERT INTO "sections" VALUES(253,'sdbr14','Documentar, Preservar, Conservar: o patrimônio moderno e seus usos e reusos',NULL,2,0);
+INSERT INTO "sections" VALUES(253,'sdbr14','Documentar. Preservar. Conservar. O Patrimônio Moderno e seus Usos e Reusos',NULL,2,0);
 INSERT INTO "sections" VALUES(254,'sdbr14','Novas Cartografias e Cronologias da Arquitetura e do Urbanismo Modernos no Brasil',NULL,3,0);
-INSERT INTO "sections" VALUES(255,'sdbr14','Espaços Modernos e os Novos Desafios Técnicos, Ecológicos e Sociais do Século XXI',NULL,4,0);
+INSERT INTO "sections" VALUES(255,'sdbr14','Espaços Modernos e os Novos Desafios Técnicos, Ecológicos e Sociais do Legado da Arquitetura Moderna',NULL,4,0);
 CREATE TABLE seminars (
     slug TEXT PRIMARY KEY,
     title TEXT NOT NULL,
