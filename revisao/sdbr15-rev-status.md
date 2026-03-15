@@ -55,3 +55,4 @@ Data: 2026-03-15
 - ✅ 1.6b Metadados: publisher=IAU-USP; FAU-USP, location=São Carlos SP, date=2023-10-17, DOI=10.29327/1344945
 - ⏳ 1.6c Seções: 4 eixos criados, mapeamento pendente (PDFs sem eixo no header, Even3 JS-only)
 - ⏳ 1.6d Autores
+- ✅ 1.2c Revisão LLM abstracts+keywords: 101 artigos, 1 truncamento corrigido (058)

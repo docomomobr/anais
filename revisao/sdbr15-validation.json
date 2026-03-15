@@ -46,15 +46,6 @@
       "suggestion": "Verificar e separar se necessário"
     },
     {
-      "check": "A19",
-      "article_id": "sdbr15-058",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...lic capital in the capital city of Ceará\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A11",
       "article_id": "sdbr15-067",
       "field": "references_",
