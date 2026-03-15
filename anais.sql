@@ -14494,6 +14494,9 @@ INSERT INTO "sections" VALUES(258,'sdbr15','Dimensões políticas e sociais',NUL
 INSERT INTO "sections" VALUES(259,'sdbr15','Tensões entre público e privado',NULL,4,0);
 INSERT INTO "sections" VALUES(260,'sdbr15','Mesas especiais',NULL,5,0);
 INSERT INTO "sections" VALUES(261,'sdbr15','Lançamento de publicações',NULL,6,0);
+INSERT INTO "sections" VALUES(262,'sdbr06','A preservação e o moderno',NULL,1,0);
+INSERT INTO "sections" VALUES(263,'sdbr06','A problemática do moderno nacional',NULL,2,0);
+INSERT INTO "sections" VALUES(264,'sdbr06','A construção da história: o fato e as versões',NULL,3,0);
 CREATE TABLE seminars (
     slug TEXT PRIMARY KEY,
     title TEXT NOT NULL,
@@ -14569,7 +14572,7 @@ CREATE INDEX idx_article_author_article ON article_author(article_id);
 CREATE INDEX idx_author_variants_author ON author_variants(author_id);
 CREATE INDEX idx_authors_familyname ON authors(familyname);
 DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('sections',261);
+INSERT INTO "sqlite_sequence" VALUES('sections',264);
 INSERT INTO "sqlite_sequence" VALUES('authors',3333);
 INSERT INTO "sqlite_sequence" VALUES('author_variants',1209);
 COMMIT;
