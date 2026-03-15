@@ -572,7 +572,14 @@ def clean_keywords(conn, slug, dry_run):
                     print(f"  {art_id}.{col}: ALL CAPS removido: \"{k[:60]}\"")
                     continue
 
-                # 1e. Too long (>80 chars) — likely body text, not a keyword
+                # 1e. Garbled (words stuck together, no spaces)
+                if len(k) > 25 and ' ' not in k:
+                    stats['garbage'] += 1
+                    changed = True
+                    print(f"  {art_id}.{col}: GARBLED removido: " + repr(k[:60]))
+                    continue
+
+                # 1f. Too long (>80 chars) — likely body text, not a keyword
                 if len(k) > 80:
                     stats['garbage'] += 1
                     changed = True

@@ -1,0 +1,14 @@
+{
+  "correcoes_auto": 9,
+  "correcoes_humanas": 14,
+  "padroes": [
+    "Títulos EN/ES garbled (palavras coladas): extração Even3 com encoding quebrado",
+    "Subtítulos ES com lixo de autor/afiliação: extração sem delimitação",
+    "Split título/subtítulo em \". \" não reconhecido (só \":\")",
+    "Backfills em refs institucionais: extract_author falha"
+  ],
+  "scripts_alterados": [
+    "fix_validation_issues.py (garbled detection)"
+  ],
+  "pipeline_alterado": true
+}
