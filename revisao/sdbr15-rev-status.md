@@ -42,7 +42,10 @@ Data: 2026-03-15
 - ✅ 0.4 Lacunas: 076 refs extraídas (6)
 - ✅ 0.5 validate --fix: 1 overflow (A20), 1 dupe (A17), 1 body text (A22). 9 issues restantes.
 - ✅ 1.1a normalizar_maiusculas.py — 11 artigos
-- 🔄 1.1a Revisão LLM títulos (agente em background)
+- ✅ 1.1a Revisão LLM títulos PT — 48 correções
+- ✅ 1.1b Títulos EN — 85 normalizados + 11 garbled/typos + 18 partículas/acentos/acronyms
+- ✅ 1.1b Títulos ES — 12 normalizados RAE + nomes próprios corrigidos
+- ✅ 1.1c Revisão LLM títulos EN concluída
 - ✅ 1.2a clean_references — 6 backfills
 - ✅ 1.2b sweep_refs — 56 artigos: 27 lixo, 30 fragmentos, 11 endnotes, 7 splits, 5 não-refs, 1 dedup
 - ✅ 1.2b+ re-rodar clean_references — 0 backfills adicionais
