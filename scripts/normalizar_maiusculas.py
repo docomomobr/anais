@@ -25,15 +25,25 @@ sys.path.insert(0, BASE_DIR)
 from dict.normalizar import normalizar_texto, load_dict, stats
 
 
-def normalizar_seminario(conn, slug, dry_run=False):
-    """Normaliza títulos/subtítulos de um seminário no banco."""
+def normalizar_seminario(conn, slug, dry_run=False, field=None):
+    """Normaliza títulos/subtítulos de um seminário no banco.
+
+    field: None (default) = title/subtitle. 'title_es' = title_es/subtitle_es.
+    """
+    if field == 'title_es':
+        title_col, subtitle_col = 'title_es', 'subtitle_es'
+    else:
+        title_col, subtitle_col = 'title', 'subtitle'
+
     rows = conn.execute(
-        'SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id',
+        f'SELECT id, {title_col}, {subtitle_col} FROM articles WHERE seminar_slug = ? ORDER BY id',
         (slug,)
     ).fetchall()
 
     alterados = 0
     for art_id, old_t, old_s in rows:
+        if not old_t:
+            continue
         new_t = normalizar_texto(old_t, eh_subtitulo=False)
         new_s = normalizar_texto(old_s, eh_subtitulo=True) if old_s else old_s
 
@@ -49,7 +59,7 @@ def normalizar_seminario(conn, slug, dry_run=False):
 
             if not dry_run:
                 conn.execute(
-                    'UPDATE articles SET title = ?, subtitle = ? WHERE id = ?',
+                    f'UPDATE articles SET {title_col} = ?, {subtitle_col} = ? WHERE id = ?',
                     (new_t, new_s, art_id))
 
     if not dry_run:

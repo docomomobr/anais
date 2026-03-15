@@ -650,17 +650,13 @@ Regras de Title Case:
 
 Usa a biblioteca Python `titlecase` com callback que consulta `dict.db`.
 
-**Títulos ES** — Sentence case (mesma regra do PT):
-- Capitalização sentence case via `dict.db` (mesmas regras dos títulos PT)
-- Nomes próprios, expressões consolidadas, siglas preservados
-- Se `title_es` ou `subtitle_es` existir (campo AUSENTE no diagnóstico → pular)
+**Títulos ES** — Sentence case com regras RAE (Real Academia Española):
+- Maiúscula **somente** para: primeira palavra do título, nomes próprios (pessoas, cidades, países, instituições, edifícios), siglas
+- **NÃO** usar expressões consolidadas em maiúscula — em espanhol não existem ("arquitectura moderna", não "Arquitectura Moderna"; "movimiento moderno", não "Movimiento Moderno")
+- **NÃO** usar `normalizar_maiusculas.py` — o dict.db é calibrado para PT e forçaria maiúsculas erradas
+- Normalizar manualmente ou com revisão LLM específica para ES
 
-```bash
-python3 scripts/normalizar_maiusculas.py --slug {slug} --field title_es --dry-run
-python3 scripts/normalizar_maiusculas.py --slug {slug} --field title_es
-```
-
-**Títulos de artigos em locale=es**: o título principal (`title`) está em espanhol — aplicar as mesmas regras de capitalização sentence case. Verificar se `title` não foi normalizado incorretamente pelo dict.db (que é calibrado para PT).
+**Títulos de artigos em locale=es**: o título principal (`title`) está em espanhol — aplicar regras RAE, não PT. O `normalizar_maiusculas.py` pode ter normalizado incorretamente (dict.db é PT).
 
 ### 1.1c Revisão LLM de títulos EN e ES
 
