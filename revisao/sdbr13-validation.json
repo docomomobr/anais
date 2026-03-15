@@ -1,0 +1,56 @@
+{
+  "slug": "sdbr13",
+  "date": "2026-03-15",
+  "total_articles": 181,
+  "profile": {
+    "total": 181,
+    "locale_es": 2,
+    "abstract": 179,
+    "abstract_en": 172,
+    "abstract_es": 5,
+    "keywords": 174,
+    "keywords_en": 171,
+    "keywords_es": 4,
+    "references_": 177
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdbr13-040",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr13-090",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (508 chars), possível concatenação: \"O’BYRNE OROZCO, M. C., DAZA, R. The Pilot Plan seen by Germán Samper (entrevista...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdbr13-153",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr13-090",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (508 chars), possível concatenação: \"O’BYRNE OROZCO, M. C., DAZA, R. The Pilot Plan seen by Germán Samper (entrevista...\""
+    }
+  ]
+}

@@ -24,8 +24,10 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr07 | 62 | ✅ revisado | 2026-03-02 |
 | sdbr08 | 188 | ✅ revisado | 2026-03-09 |
 | sdbr09 | 170 | ✅ revisado | 2026-03-09 |
-| sdbr10 | 118 | 🔄 em revisão | 2026-03-14 |
-| sdbr11 | 101 | 🔄 em revisão | 2026-03-14 |
+| sdbr10 | 118 | ✅ revisado | 2026-03-14 |
+| sdbr11 | 101 | ✅ revisado | 2026-03-14 |
+| sdbr12 | 82 | ✅ revisado | 2026-03-14 |
+| sdbr13 | 181 | ✅ revisado | 2026-03-15 |
 
 ---
 
@@ -224,6 +226,38 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-15 — sdbr12/sdbr13 revisados, Fase 3 refatorada, checks A26/A27
+
+**sdbr13** (181 artigos): pipeline completo (Fases 0-2), revisão humana (10 itens), Fase 3 completa.
+- Cobertura: abstract 100%, seções 100%, demais >94%
+- 5 eixos criados (HTML do site inscricoes13docomomobrasil.ufba.br)
+- 11 overflows abstract_en corrigidos, 36 backfills resolvidos, 31 keywords_en com lixo re-extraídas
+- 93 correções de capitalização (agente LLM), 91 artigos refs limpas (sweep)
+
+**sdbr12** (82 artigos): revisão humana (12 itens) aplicada em sessão anterior. 0 issues finais.
+
+**Fase 3 refatorada:**
+- Movida de §5.4 do pipeline_revisao_humana.md para Fase 3 autônoma no pipeline_revisao.md
+- 8 etapas: diagnóstico unificado (3.1), dict (3.2), scripts (3.3), pipeline (3.4), verificação (3.5), registro (3.6), engenharia (3.7), fechar (3.8)
+- Diagnóstico agora cobre TODAS as correções (automáticas + humanas), não só humanas
+- Registro de status obriga log de cada correção automática (artigo/campo/antes/depois/causa)
+
+**Novos checks:**
+- A26: abstract em idioma errado (ES no campo PT) → AUTO-FIX (move para abstract_es)
+- A27: PT colado no abstract_en → AUTO-FIX (corta no boundary)
+
+**Scripts corrigidos:**
+- validate_metadata.py: +A26, +A27, guard no A25 (falso positivo narrativo), A16 filtra keywords vazias após strip, EMAIL_RE com word boundary, JSON fallback logado, A05/A06 mortos removidos
+- fix_validation_issues.py: clean_keywords com KW_JUNK_RE, ALL CAPS ≥15, newlines, >80c, zero-width spaces, template prefix inteligente
+- clean_references.py: extract_author refatorado (AUTHOR_CHARS unificado)
+
+**Pipeline atualizado:**
+- Fase 0.4: verificar idioma ao inserir abstract, extrair ES, rodar sweep após inserir refs
+- Fase 0.5: rodar validate --fix ANTES da varredura manual
+- Fase 1.2b+: re-rodar clean_references após sweep
+- §1.1a: prompt LLM reforçado (arquiteto genérico, grupos artísticos, split vs PDF, PDFs escaneados)
+- §1.2c: procedimento para A11 (refs longas que o sweep não resolveu)
 
 ### 2026-03-14 — sdbr10/sdbr11 revisados, pipeline refatorado, checks A23/A24
 

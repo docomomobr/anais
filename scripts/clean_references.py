@@ -63,26 +63,25 @@ def extract_author(ref):
     """
     # Classe de caracteres ampliada: letras (com acentos), espaços, vírgula,
     # ponto, parênteses, &, hífen, apóstrofo
-    AUTHOR_CHARS = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s,\.;&\-\(\)\'']"
+    AC = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s,\.;&\-\(\)\'']"
+    INITIAL = r'[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ]'
 
     # Padrão 1: SOBRENOME, Nome (YYYY) Título...
-    # Captura até " (YYYY) " e retorna só o nome
-    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ]' + AUTHOR_CHARS + r'+?)\s*\(\d{4}\)\s', ref)
+    m = re.match(r'^(' + INITIAL + AC + r'+?)\s*\(\d{4}\)\s', ref)
     if m:
         candidate = m.group(1).rstrip(' ,.')
-        if ',' in candidate:
-            return candidate + '.'
         return candidate + '.'
 
     # Padrão 2: SOBRENOME, Nome. Título... (ABNT padrão)
-    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ]' + AUTHOR_CHARS + r'+?)\.\s', ref)
+    m = re.match(r'^(' + INITIAL + AC + r'+?)\.\s', ref)
     if m:
         candidate = m.group(1)
         if ',' in candidate:
             return candidate + '.'
 
-    # Padrão 3: ORGANIZAÇÃO. Título...
-    m = re.match(r'^([A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑ][A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s&\-]+?)\.\s', ref)
+    # Padrão 3: ORGANIZAÇÃO. Título... (sem vírgula, sem chars especiais)
+    AC_ORG = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s&\-]"
+    m = re.match(r'^(' + INITIAL + AC_ORG + r'+?)\.\s', ref)
     if m:
         return m.group(1) + '.'
 

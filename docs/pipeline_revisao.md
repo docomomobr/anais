@@ -104,6 +104,14 @@ O registro deve conter:
 - Contadores atualizados (abstracts, refs, keywords, etc.)
 - Etapas restantes antes da próxima fase
 
+**REGRA — Registrar cada correção automática significativa**: Sempre que uma correção manual for feita durante a fase automática (overflows de abstract, keywords com lixo, backfills, abstracts em idioma errado, refs com notas cortadas, etc.), registrar no rev-status:
+- **Artigo** afetado
+- **Campo** corrigido
+- **Antes → depois** (resumo: ex. "45107→748c", "NULL→29 refs", "ES no campo PT → movido para abstract_es")
+- **Causa** provável (extração sem delimitação, template do formulário, boundary incorreto, etc.)
+
+Este log é insumo obrigatório da Fase 3 (aprendizado pós-revisão) — sem ele, o diagnóstico fica incompleto e problemas se repetem nos seminários seguintes. As correções automáticas indicam gaps no pipeline tanto quanto as correções humanas.
+
 Este registro evita re-trabalho entre sessões e serve como auditoria do que foi feito.
 
 ---
@@ -330,9 +338,25 @@ Aplicar os dados extraídos ao banco **a partir do arquivo JSON salvo na etapa a
 - Quantos genuinamente não têm o dado (confirmado no PDF)
 - **Lista completa** com status de cada artigo (checklist ✅/⬜/📄)
 
+**REGRA — Verificação de idioma ao inserir abstracts:** Antes de inserir um abstract, verificar o idioma do texto. Se o texto é em espanhol (contém "El presente trabajo", "se propone", "arquitectura") e o `locale` do artigo é `pt-BR`, inserir em `abstract_es`, **não** em `abstract`. Um Resumen em espanhol no campo `abstract` (PT) é um erro que o validate não detecta. (Aprendido com sdbr13-143.)
+
+**REGRA — Extrair também metadados ES:** A Fase 0 deve buscar `abstract_es` e `keywords_es` nos PDFs, não apenas EN. Artigos em PT podem ter seção Resumen/Palabras clave (ex: sdbr13-123). O validate A09 detecta marcador "Resumen" nos `fontes/`, mas se `fontes/` não existe, o dado se perde. (Aprendido com sdbr13-123.)
+
+**REGRA — Rodar sweep_refs DEPOIS de inserir refs:** Se a Fase 0.3/0.4 insere novas refs extraídas dos PDFs, o sweep_refs (1.2b) deve rodar sobre TODAS as refs, incluindo as recém-inseridas. Refs extraídas do pdfplumber frequentemente vêm splitadas por `\n` e precisam que a passada 1 (fragmentos) as junte. Não basta rodar o sweep apenas sobre as refs que já estavam no banco. (Aprendido com sdbr13-024.)
+
 ### 0.5 Verificar abstracts existentes (truncamento, lixo, contaminação)
 
-Após preencher as lacunas (0.4), varrer **todos** os abstracts do seminário — tanto os já existentes quanto os recém-inseridos — para detectar problemas de extração. A varredura deve cobrir 100% dos artigos, não apenas os que foram preenchidos na Fase 0.
+**PRIMEIRO**, rodar o validate para detectar e corrigir automaticamente os problemas mais grossos:
+
+```bash
+# Rodar auto-fixes do validate ANTES da varredura manual
+# Pega: A20 (overflow >5000c), A25 (keywords coladas), A26 (idioma errado), A27 (PT no EN)
+python3 scripts/validate_metadata.py --slug {slug} --fix
+```
+
+Isso resolve overflows, keywords coladas e idioma errado antes da inspeção manual, evitando que o operador perca tempo com problemas que o script já sabe corrigir. (Aprendido com sdbr13: 11 overflows de abstract_en foram detectados manualmente na Fase 0.5 — A20 já sabia corrigir mas só rodava na Fase 1.5.)
+
+Após preencher as lacunas (0.4) e rodar o validate, varrer **todos** os abstracts do seminário — tanto os já existentes quanto os recém-inseridos — para detectar problemas de extração. A varredura deve cobrir 100% dos artigos, não apenas os que foram preenchidos na Fase 0.
 
 **Problemas a detectar:**
 
@@ -461,11 +485,12 @@ Se não escreveu o julgamento de cada palavra, não revisou. Pular direto para a
    - Nome de revista, periódico, evento → **manter**
    - Expressão consolidada (Arquitetura Moderna, Movimento Moderno, Educação Patrimonial) → **manter**
    - Sigla (SUDENE, IPHAN, GT) → **manter**
-   - **Todo o resto → minúscula** (obra, norte/sul como direção, ensino, conservação, tombamento, apartamento, imaginário, intervenção, escolar, edificado, brutalista como adjetivo isolado...)
+   - **Todo o resto → minúscula** (obra, norte/sul como direção, ensino, conservação, tombamento, apartamento, imaginário, intervenção, escolar, edificado, brutalista como adjetivo isolado, arquiteto/a como profissão genérica...)
 3. Para **cada palavra com minúscula** que deveria ser maiúscula: perguntar "deveria ser maiúscula?"
-   - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris) → **corrigir**
+   - Nome de cidade (madri → Madri), edifício (congresso nacional → Congresso Nacional), monumento (cristo redentor → Cristo Redentor), periódico (le carré bleu → Le Carré Bleu), apelido (petit paris → Petit Paris), coletivo/grupo artístico (grupo arquitetura nova → Grupo Arquitetura Nova) → **corrigir**
 4. Para **cada subtítulo**: verificar que começa com **minúscula** (exceto nome próprio, sigla). "Elementos iniciais..." → "elementos iniciais..."
-5. Verificar **formatação**: hífens soltos ("1970- as" → split em título+subtítulo), travessões, dois pontos
+5. Verificar **separação título/subtítulo** contra o PDF original. Conferir se o split no `:` ou ` — ` corresponde à intenção do autor. Para PDFs escaneados (sem OCR), ler a IMAGEM do PDF para conferir.
+6. Verificar **formatação**: hífens soltos ("1970- as" → split em título+subtítulo), travessões, dois pontos
 6. Verificar **typos e acentuação**: São Luis → São Luís, preservaçâo → preservação, madri → Madri
 7. Verificar **pontuação anômala** que indica separação título/subtítulo mal feita:
    - `//` → split em título + subtítulo
@@ -731,9 +756,20 @@ Normaliza refs removendo URLs, pontuação, e mapeando meses PT/EN/ES para forma
 
 **Meta:** < 2% de problemas por seminário ao final desta etapa.
 
+#### 1.2b+ Re-rodar backfills após o sweep
+
+O sweep (1.2b) pode criar novos backfills ao splittar refs concatenadas. Re-rodar `clean_references.py` para resolver esses backfills pendentes:
+
+```bash
+python3 scripts/clean_references.py --slug {slug} --dry-run
+python3 scripts/clean_references.py --slug {slug}
+```
+
+Aprendido com sdbr13: `clean_references.py` (1.2a) resolveu 6 backfills, mas após o sweep + inserção de refs da Fase 0, restaram 36 backfills que a 1.2a não tinha visto. Re-rodar resolve sem intervenção manual.
+
 #### 1.2c Revisão LLM de TODAS as referências
 
-Após o sweep determinístico (1.2b), **todas** as referências do seminário devem ser revisadas por LLM. O sweep resolve ~70% dos problemas, mas os ~30% restantes escapam às heurísticas — especialmente concatenações Chicago, notas sem marcadores numéricos, e boundary ambíguos.
+Após o sweep determinístico (1.2b) e re-backfill (1.2b+), **todas** as referências do seminário devem ser revisadas por LLM. O sweep resolve ~70% dos problemas, mas os ~30% restantes escapam às heurísticas — especialmente concatenações Chicago, notas sem marcadores numéricos, e boundary ambíguos.
 
 **Por que revisar tudo (não só os flaggados):**
 A experiência com sdbr10 (118 artigos, ~2000 refs) mostrou que o sweep + validate deixou passar ~100 problemas em 51 artigos. Muitos não eram flaggados por nenhum check — refs de 200-400 chars com concatenação Chicago, notas narrativas sem número, headers de subseção colados. A revisão LLM encontrou e corrigiu todos.
@@ -800,6 +836,8 @@ For each article:
 - **Nota vs ref**: entrada com narrativa, "Op. cit.", "Ibid.", "Ver também", numeração sequencial → remover
 - **Header**: entrada que é nome de seção ("Livros", "Revistas e Periódicos") → remover
 - **Backfill em-dash**: `—.` ou `–.` entre refs = mesmo autor, obra diferente → separar e prepor o autor
+
+**REGRA — Refs longas (A11) que o sweep não resolveu:** Refs >500 chars que `split_concatenated_refs()` não conseguiu separar (sem boundary ABNT/Chicago claro) devem ser resolvidas na revisão LLM. Para cada uma: ler o PDF/plumber, identificar se é concatenação, lista de fontes/URLs, ou ref legítima longa (capítulo em livro com editora longa). Ações: separar, remover URLs órfãs, remover listas de fontes não-bibliográficas, ou marcar como legítima. Não deixar para revisão humana.
 
 **REGRA ABSOLUTA**: Nunca aceitar campo vazio como "genuinamente ausente" sem abrir o PDF/docx original e confirmar visualmente. Se o docx não tem, abrir o PDF. Se o PDF não tem, aí sim é ausente.
 
@@ -979,7 +1017,9 @@ O script primeiro constrói um **perfil do seminário** (% de preenchimento de c
 | A22 | Refs com body text (>200 chars narrativo) ou figure captions | AUTO-FIX (remove entradas) + LLM (ambíguos) |
 | A23 | abstract_en colado no abstract PT (extração capturou PT+EN como bloco único) | AUTO-FIX (separa PT e EN no boundary "Abstract:"/"The present paper"/etc.) |
 | A24 | Encoding ruim (caracteres substitutos ĕ/ė, espaços entre letras) — fonte do PDF com encoding não-padrão | REPORT (requer extração via imagem: `pdftoppm` + leitura visual) |
-| A25 | Keywords coladas no final de abstract/abstract_en/abstract_es ("Palavras-chave:", "Keywords:", "Palabras clave:") | AUTO-FIX (corta no marcador) |
+| A25 | Keywords coladas no final de abstract/abstract_en/abstract_es ("Palavras-chave:", "Keywords:", "Palabras clave:") | AUTO-FIX (corta no marcador). **Guard**: se o marcador aparece no meio de uma frase narrativa (precedido por palavra em minúscula), NÃO corta — é parte do texto, não label de seção. |
+| A26 | Abstract em idioma diferente do locale: campo `abstract` (PT) contém texto em espanhol (Resumen inserido no campo errado) | AUTO-FIX (move abstract → abstract_es, seta abstract = NULL) |
+| A27 | Texto PT colado no abstract_en: extração capturou EN + notas/texto em PT no mesmo campo | AUTO-FIX (corta no boundary EN→PT, detectado por marcadores PT como "Este artigo", "Palavras-chave:") |
 
 **Relatório:** Salva `revisao/{slug}-validation.json` com a lista de issues e `category_b_candidates` (issues que precisam de julgamento LLM).
 
@@ -1265,28 +1305,129 @@ O HTML é auto-contido (CSS inline, capa em base64). Abrir no navegador para rev
 
 ---
 
-## Fase 3 — Aprendizado pós-revisão humana
+## Fase 3 — Aprendizado pós-revisão
 
-Após a revisão humana (Fases 3–5 do [pipeline de revisão humana](pipeline_revisao_humana.md)), cada correção manual é analisada para retroalimentar o pipeline automático.
+Executar **após** a conclusão da revisão humana ([pipeline de revisão humana](pipeline_revisao_humana.md)). Usa como insumo **todas** as correções: tanto as da fase automática (Fases 0–1) quanto as da revisão humana.
 
-**Princípio:** Para cada correção humana, perguntar: "por que o pipeline não resolveu isso?" A resposta é incorporada ao código, ao dict.db ou à documentação, para que o próximo seminário tenha menos correções manuais.
+**Princípio:** Para cada correção (automática ou humana), perguntar: "por que o pipeline não resolveu isso automaticamente?" O aprendizado só existe se resultar em **alteração concreta**: entrada no dict, regra no script, ou instrução documentada. Documentar sem alterar nada não é aprendizado.
 
-O procedimento detalhado está na **Fase 5.4** do [pipeline de revisão humana](pipeline_revisao_humana.md). Resumo:
+### 3.1 Diagnóstico unificado
 
-1. **Para cada correção** no `revisao/{slug}-rev.md`: ir ao fontes/ original, identificar em qual etapa do pipeline o erro deveria ter sido pego
-2. **Classificar**: padrão recorrente (automatizar), caso único (só aplicar), dado faltante no dict.db (adicionar)
-3. **Incorporar**: novo padrão em `is_bibliographic_ref()`, `is_fragment()`, `sweep_refs`, `re_extract_abstract()`, `dict.db`, etc.
-4. **Verificar**: re-rodar em dry-run no mesmo seminário + testar num seminário não revisado
-5. **Registrar**: documentar falhas e melhorias em `revisao/{slug}-rev-status.md`
+Agregar TODAS as correções num log único antes de diagnosticar:
 
-**Exemplos concretos (aprendidos na revisão do sdbr10):**
+1. **Correções da fase automática** (registradas no `{slug}-rev-status.md`):
+   - Overflows de abstract corrigidos manualmente (deveria ter sido A20?)
+   - Keywords com lixo limpas manualmente (deveria ter sido clean_keywords?)
+   - Backfills resolvidos manualmente (deveria ter sido clean_references?)
+   - Abstracts em idioma errado (deveria ter sido A26?)
+   - Refs com notas/lixo removidas manualmente (deveria ter sido sweep_refs?)
 
-| Correção humana | Falha identificada | Incorporação |
-|-----------------|-------------------|-------------|
-| "la" maiúscula indevida em título ES | `dict.db` tinha "la" como `nome` (vindo de `seed_authors.py`) | Removido do dict — "La" em nomes próprios é tratado por expressões ("La Coruña") |
-| NOTAS misturadas com refs (sdbr10-047, 049, 096) | sweep_refs não tinha passada 0 para lixo grosso | Adicionados padrões de body text e figure captions |
-| abstract_es com lixo EN (sdbr10-047, 049) | End marker "Palabras-chave:" (híbrido PT/ES) não reconhecido | Adicionado ao `re_extract_abstract()` |
-| Body text como refs (sdbr10-086: 29 entradas) | Boundary de extração errou | `is_body_text()` detecta parágrafos narrativos longos |
+2. **Correções da revisão humana** (registradas no `{slug}-rev.md`):
+   - Títulos/subtítulos corrigidos (deveria ter sido normalizar_maiusculas + LLM?)
+   - Refs com splits errados (deveria ter sido sweep_refs passada 1?)
+   - Dados faltantes (deveria ter sido extraído na Fase 0?)
+
+3. **Cruzamento com seminários anteriores**: quais problemas se repetiram? Fixes que deveriam ter sido incorporados na revisão do seminário anterior e não foram.
+
+Para cada problema, classificar:
+- **Padrão recorrente** → automatizar (novo check, nova heurística, novo filtro)
+- **Caso único** → só aplicar a correção
+- **Dado faltante no dict.db** → adicionar
+- **Gap na ordem de execução** → ajustar pipeline (ex: rodar check X antes da Fase Y)
+
+Registrar o diagnóstico completo no `{slug}-rev-status.md`, seção "Log de correções" com tabela causa raiz.
+
+### 3.2 Atualizar dict.db
+
+Analisar o arquivo `revisao/{slug}-titulos-aprendizado.json` (ou as correções da revisão) e classificar cada correção:
+
+| Tipo | Ação no dict.db | Exemplo |
+|------|----------------|---------|
+| Palavra genérica forçando maiúscula | **REMOVER** do dict | `obra`, `restauração`, `tradição` |
+| Gentílico/adjetivo forçando maiúscula | **REMOVER** do dict | `carioca`, `metropolitana` |
+| Nome próprio faltando | **ADICIONAR** ao dict | `Bienal`, `Esplanada`, `Centenário` |
+| Expressão consolidada faltando | **ADICIONAR** como expressão | `Centro Administrativo`, `Base Naval` |
+
+```bash
+# Verificar contradições: palavras corrigidas p/ minúscula que estão no dict
+python3 -c "
+import sqlite3
+conn = sqlite3.connect('dict/dict.db')
+for row in conn.execute(\"\"\"
+    SELECT word, category, source FROM dict_names
+    WHERE source = 'titulos' ORDER BY word
+\"\"\"):
+    print(f'{row[0]} ({row[1]}/{row[2]})')
+"
+
+# Após remover/adicionar:
+python3 dict/dump_db.py
+```
+
+**Critério de remoção**: se a revisão corrigiu uma palavra para minúscula em ≥2 artigos, e a palavra não é nome próprio, remover do dict.
+
+**Critério de adição**: se a revisão corrigiu uma palavra para maiúscula, e é nome de edifício, instituição, evento ou lugar, adicionar ao dict.
+
+### 3.3 Atualizar scripts de validação
+
+Se um tipo de erro apareceu em ≥3 artigos e **não** é coberto pelos scripts existentes, adicionar a regra.
+
+### 3.4 Atualizar pipeline
+
+Se o diagnóstico identificou gaps na ordem de execução (ex: "A20 deveria rodar na Fase 0.5, não só na 1.5"), atualizar este documento.
+
+### 3.5 Verificar
+
+Re-rodar os scripts alterados em dry-run no mesmo seminário para confirmar que as melhorias não causam regressão. Testar também num seminário não revisado.
+
+### 3.6 Registrar aprendizado
+
+Arquivo: `revisao/{slug}-aprendizado-revisao.json`
+
+```json
+{
+  "dict_removals": ["obra", "restauração"],
+  "dict_additions": ["Bienal", "Esplanada"],
+  "scripts_alterados": ["validate_metadata.py", "fix_validation_issues.py"],
+  "pipeline_alterado": true,
+  "padroes_confirmados": [
+    "'Arquitetura Moderna' sempre maiúscula como conceito",
+    "'arquitetura moderna de [cidade]' descritiva → minúscula"
+  ]
+}
+```
+
+Atualizar MEMORY.md com padrões confirmados novos.
+
+### 3.7 Revisão de engenharia
+
+Após implementar as melhorias (3.2–3.6), revisar o `pipeline_revisao.md`, o `pipeline_revisao_humana.md` e os scripts alterados com olhar de engenheiro de software:
+
+- **Lints**: inconsistências entre o que o pipeline documenta e o que os scripts fazem
+- **Erros de lógica**: checks que se contradizem (ex: A25 cortava abstracts que A19 depois flaggava como truncados), auto-fixes que desfazem correções manuais
+- **Redundância**: mesma verificação em dois lugares, checks duplicados, código morto
+- **Riscos de loop**: auto-fixes que podem criar problemas que outros auto-fixes tentam resolver (ex: A05/A06 criavam ciclo com A21 — já removidos)
+- **Ordem de execução**: checks que dependem de dados que só existem após outra etapa
+- **Cobertura**: gaps entre o que o pipeline promete e o que os scripts implementam (ex: pipeline diz "verificar idioma" mas nenhum check faz isso)
+- **Robustez**: scripts que crasham com dados inesperados (ex: keywords não-JSON), guards insuficientes
+
+Registrar os achados e correções no `{slug}-rev-status.md`.
+
+### 3.8 Atualizar status e fechar
+
+- Adicionar seminário à tabela de revisados em `CLAUDE.md` e neste documento
+- `python3 scripts/dump_anais_db.py && git add && git commit && git push`
+
+**Exemplos concretos:**
+
+| Seminário | Correção | Falha identificada | Incorporação |
+|-----------|----------|-------------------|-------------|
+| sdbr10 | "la" maiúscula em título ES | `dict.db` tinha "la" como `nome` (de `seed_authors.py`) | Removido do dict |
+| sdbr10 | NOTAS misturadas com refs | sweep_refs sem passada 0 para lixo grosso | Adicionados padrões body text e figure captions |
+| sdbr13 | 11 overflows abstract_en | A20 só rodava na Fase 1.5 | Rodar validate --fix na Fase 0.5 |
+| sdbr13 | 31 keywords_en com lixo | clean_keywords sem filtros ALL CAPS/junk | KW_JUNK_RE, ALL CAPS ≥15, >80c |
+| sdbr13 | abstract ES no campo PT | Não existia check para idioma errado | A26 novo (auto-fix) |
+| sdbr13 | PT colado no abstract_en | A23 só detecta EN→PT, não PT→EN | A27 novo (auto-fix) |
 
 ---
 

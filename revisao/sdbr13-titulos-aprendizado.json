@@ -1,0 +1,673 @@
+{
+  "seminario": "sdbr13",
+  "data": "2026-03-14",
+  "total_artigos": 181,
+  "artigos_corrigidos": 84,
+  "correcoes": [
+    {
+      "id": "sdbr13-003",
+      "campo": "title+subtitle",
+      "de": "Pela valorização da Obra residencial modernista... | o caso da residência Benedito Macedo",
+      "para": "Pela valorização da obra residencial modernista... | o caso da Residência Benedito Macedo",
+      "regra": "obra=genérico→lowercase; Residência Benedito Macedo=nome de edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-009",
+      "campo": "subtitle",
+      "de": "Arquitetos paulistas nas diretorias do IAB/SP, SASP e ABEA (1971-1981)",
+      "para": "arquitetos paulistas nas diretorias do IAB/SP, SASP e ABEA (1971-1981)",
+      "regra": "subtítulo inicia lowercase; arquitetos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-005",
+      "campo": "subtitle",
+      "de": "bloco cm",
+      "para": "Bloco CM",
+      "regra": "nome de edifício + sigla→uppercase"
+    },
+    {
+      "id": "sdbr13-008",
+      "campo": "title+subtitle",
+      "de": "O teatro da república | história do projeto do palácio Itamaraty",
+      "para": "O Teatro da República | história do projeto do Palácio Itamaraty",
+      "regra": "nomes de edifícios/monumentos→uppercase"
+    },
+    {
+      "id": "sdbr13-010",
+      "campo": "subtitle",
+      "de": "uma análise morfológica da casa-museu Ema Klabin e da Casa de Vidro de Lina Bo Bardi",
+      "para": "uma análise morfológica da Casa-Museu Ema Klabin e da Casa de Vidro de Lina Bo Bardi",
+      "regra": "Casa-Museu Ema Klabin=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-011",
+      "campo": "subtitle",
+      "de": "o caso do edifício nova Cintra, Parque Guinle, Rio de Janeiro",
+      "para": "o caso do Edifício Nova Cintra, Parque Guinle, Rio de Janeiro",
+      "regra": "Edifício Nova Cintra=nome de edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-012",
+      "campo": "title+subtitle",
+      "de": "Paisagem Cultural, Terra, água, fogo e ar | (praça do) Cruzeiro em Brasília",
+      "para": "Paisagem Cultural, Terra, Água, Fogo e Ar | (Praça do) Cruzeiro em Brasília",
+      "regra": "elementos poéticos consistentes + Praça do Cruzeiro=nome de lugar→uppercase"
+    },
+    {
+      "id": "sdbr13-014",
+      "campo": "subtitle",
+      "de": "as vicissitudes do parque e seus Pavilhões publicadas nas revistas de arquitetura",
+      "para": "as vicissitudes do parque e seus pavilhões publicadas nas revistas de arquitetura",
+      "regra": "pavilhões=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-017",
+      "campo": "title+subtitle",
+      "de": "O museu de arte de Brasília | desde o Anexo do Brasília palace hotel (1958-2019)",
+      "para": "O Museu de Arte de Brasília | desde o Anexo do Brasília Palace Hotel (1958-2019)",
+      "regra": "nomes de instituições e edifícios→uppercase"
+    },
+    {
+      "id": "sdbr13-018",
+      "campo": "title",
+      "de": "Salvaguarda do acervo do Arquiteto Hans Broos",
+      "para": "Salvaguarda do acervo do arquiteto Hans Broos",
+      "regra": "título profissional/papel→lowercase"
+    },
+    {
+      "id": "sdbr13-021",
+      "campo": "title",
+      "de": "Sergio Bernardes e sanatório de Curicica",
+      "para": "Sergio Bernardes e Sanatório de Curicica",
+      "regra": "Sanatório de Curicica=nome de edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-024",
+      "campo": "subtitle",
+      "de": "justificando os atos de proteção patrimonial de Obras modernas recém inauguradas",
+      "para": "justificando os atos de proteção patrimonial de obras modernas recém inauguradas",
+      "regra": "obras=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-026",
+      "campo": "subtitle",
+      "de": "Lucio Costa, Carlos Drummond de Andrade e a igreja",
+      "para": "Lucio Costa, Carlos Drummond de Andrade e a Igreja",
+      "regra": "Igreja=instituição (Igreja Católica)→uppercase"
+    },
+    {
+      "id": "sdbr13-028",
+      "campo": "subtitle",
+      "de": "o projeto vencedor do Concurso para a sede do BNDE em Brasília",
+      "para": "o projeto vencedor do concurso para a sede do BNDE em Brasília",
+      "regra": "concurso=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-031",
+      "campo": "subtitle",
+      "de": "ampliação de edifícios modernos como experiência no Ensino de projeto",
+      "para": "ampliação de edifícios modernos como experiência no ensino de projeto",
+      "regra": "ensino=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-032",
+      "campo": "subtitle",
+      "de": "identificação e análise de edificações com filiações Modernistas na cidade de Juazeiro do Padre Cícero",
+      "para": "identificação e análise de edificações com filiações modernistas na cidade de Juazeiro do Padre Cícero",
+      "regra": "modernistas=adjetivo→lowercase"
+    },
+    {
+      "id": "sdbr13-033",
+      "campo": "subtitle",
+      "de": "o Nascimento de uma historiografia da arquitetura",
+      "para": "o nascimento de uma historiografia da arquitetura",
+      "regra": "nascimento=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-036",
+      "campo": "subtitle",
+      "de": "o caso do laboratório da Febre Amarela",
+      "para": "o caso do Laboratório da Febre Amarela",
+      "regra": "Laboratório da Febre Amarela=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-037",
+      "campo": "subtitle",
+      "de": "para sistemas de revestimento de fachada em mármore: o caso do congresso nacional",
+      "para": "para sistemas de revestimento de fachada em mármore: o caso do Congresso Nacional",
+      "regra": "Congresso Nacional=nome de instituição/edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-042",
+      "campo": "title+subtitle",
+      "de": "...da Tradição moderna Pela Arquitetura Contemporânea | a casa da Música e a cidade das artes",
+      "para": "...da Tradição Moderna pela Arquitetura Contemporânea | a Casa da Música e a Cidade das Artes",
+      "regra": "pela=preposição→lowercase; Casa da Música e Cidade das Artes=nomes de edifícios→uppercase; Tradição Moderna=expressão consolidada"
+    },
+    {
+      "id": "sdbr13-043",
+      "campo": "title",
+      "de": "Casa do chame-chame",
+      "para": "Casa do Chame-Chame",
+      "regra": "Chame-Chame=nome de bairro→uppercase"
+    },
+    {
+      "id": "sdbr13-044",
+      "campo": "subtitle",
+      "de": "a segunda expansão do museu de Belas Artes de Caracas e o bloco Esportivo do SESC Pompeia",
+      "para": "a segunda expansão do Museu de Belas Artes de Caracas e o Bloco Esportivo do SESC Pompeia",
+      "regra": "nomes de instituições e edifícios→uppercase"
+    },
+    {
+      "id": "sdbr13-045",
+      "campo": "title",
+      "de": "À medida do Mar e da montanha",
+      "para": "À medida do mar e da montanha",
+      "regra": "mar=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-046",
+      "campo": "subtitle",
+      "de": "livros de pioneiros e de Funcionários da NOVACAP",
+      "para": "livros de pioneiros e de funcionários da NOVACAP",
+      "regra": "funcionários=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-048",
+      "campo": "title+subtitle",
+      "de": "As técnicas construtivas das casas Modernistas de Augusto Reynaldo no Recife | projeto de Intervenção e restauro",
+      "para": "As técnicas construtivas das casas modernistas de Augusto Reynaldo no Recife | projeto de intervenção e restauro",
+      "regra": "modernistas=adjetivo→lowercase; intervenção=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-049",
+      "campo": "title",
+      "de": "A implantação do MEC na esplanada do Castelo",
+      "para": "A implantação do MEC na Esplanada do Castelo",
+      "regra": "Esplanada do Castelo=nome de lugar→uppercase"
+    },
+    {
+      "id": "sdbr13-050",
+      "campo": "title+subtitle",
+      "de": "A Recuperação do projeto paisagístico... para a Orla de Copacabana | o caso da praça Coronel Eugênio Franco",
+      "para": "A recuperação do projeto paisagístico... para a orla de Copacabana | o caso da Praça Coronel Eugênio Franco",
+      "regra": "recuperação=ação genérica→lowercase; orla=genérico→lowercase; Praça Coronel Eugênio Franco=nome de logradouro→uppercase"
+    },
+    {
+      "id": "sdbr13-051",
+      "campo": "title+subtitle",
+      "de": "Século XIX | hospital sanatório Santa Terezinha",
+      "para": "A morfologia urbana e o edifício hospitalar no século XIX | Hospital Sanatório Santa Terezinha",
+      "regra": "título estava truncado/errado, corrigido conforme PDF original"
+    },
+    {
+      "id": "sdbr13-053",
+      "campo": "title+subtitle",
+      "de": "Brasília modernista e o uso da Madeira | Tombamento e desafios na preservação do Catetinho",
+      "para": "Brasília modernista e o uso da madeira | tombamento e desafios na preservação do Catetinho",
+      "regra": "madeira=material→lowercase; tombamento=ação genérica (início de subtítulo)→lowercase"
+    },
+    {
+      "id": "sdbr13-054",
+      "campo": "title",
+      "de": "Os quartos de empregada nos Apartamentos Modernistas na Orla da cidade de João Pessoa (PB)",
+      "para": "Os quartos de empregada nos apartamentos modernistas na orla da cidade de João Pessoa (PB)",
+      "regra": "apartamentos=genérico→lowercase; modernistas=adjetivo→lowercase; orla=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-055",
+      "campo": "subtitle",
+      "de": "casas do Arquiteto João Carlos Paiva da Silva nos anos 1960",
+      "para": "casas do arquiteto João Carlos Paiva da Silva nos anos 1960",
+      "regra": "título profissional→lowercase"
+    },
+    {
+      "id": "sdbr13-057",
+      "campo": "title",
+      "de": "Art Déco e a centralidade urbana de Passo Fundo/RS - Brasil",
+      "para": "Art Déco e a centralidade urbana de Passo Fundo/RS — Brasil",
+      "regra": "hífen isolado→travessão (em-dash)"
+    },
+    {
+      "id": "sdbr13-058",
+      "campo": "subtitle",
+      "de": "documentação da Obra de Maria do Carmo Schwab",
+      "para": "documentação da obra de Maria do Carmo Schwab",
+      "regra": "obra=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-059",
+      "campo": "title+subtitle",
+      "de": "Conjuntos habitacionais Guiomar e do passo D'Areia | uma análise comparativa entre duas Obras do IAPI",
+      "para": "Conjuntos habitacionais Guiomar e do Passo D'Areia | uma análise comparativa entre duas obras do IAPI",
+      "regra": "Passo D'Areia=nome de bairro→uppercase; obras=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-060",
+      "campo": "title",
+      "de": "Forma Desenho e trabalho na catedral de Brasília",
+      "para": "Forma, desenho e trabalho na Catedral de Brasília",
+      "regra": "desenho=genérico→lowercase; Catedral de Brasília=nome de edifício→uppercase; vírgula adicionada para clareza"
+    },
+    {
+      "id": "sdbr13-061",
+      "campo": "title",
+      "de": "O Culto moderno dos Monumentos modernos",
+      "para": "O culto moderno dos monumentos modernos",
+      "regra": "culto=genérico (referência ao conceito de Riegl)→lowercase; monumentos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-062",
+      "campo": "subtitle",
+      "de": "a Restauração do Museu das Missões",
+      "para": "a restauração do Museu das Missões",
+      "regra": "restauração=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-063",
+      "campo": "title",
+      "de": "Teorias e práticas de Intervenção no Patrimônio Moderno em Brasília",
+      "para": "Teorias e práticas de intervenção no Patrimônio Moderno em Brasília",
+      "regra": "intervenção=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-064",
+      "campo": "subtitle",
+      "de": "a capela Brennand de Paulo Mendes da Rocha e Eduardo Colonelli no Recife",
+      "para": "a Capela Brennand de Paulo Mendes da Rocha e Eduardo Colonelli no Recife",
+      "regra": "Capela Brennand=nome de edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-065",
+      "campo": "title",
+      "de": "As estações rodoviárias Modernistas no Brasil e o Imaginário do 'edifício-cidade'",
+      "para": "As estações rodoviárias modernistas no Brasil e o imaginário do 'edifício-cidade'",
+      "regra": "modernistas=adjetivo→lowercase; imaginário=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-066",
+      "campo": "title",
+      "de": "Restauro do Monumento ao Soldado Constitucionalista de 1932 - Obelisco do Ibirapuera",
+      "para": "Restauro do Monumento ao Soldado Constitucionalista de 1932 — Obelisco do Ibirapuera",
+      "regra": "hífen isolado→travessão (em-dash)"
+    },
+    {
+      "id": "sdbr13-067",
+      "campo": "title",
+      "de": "O pavilhão do mercado Livre do Produtor da companhia de Entrepostos e Armazéns Gerais de São Paulo",
+      "para": "O Pavilhão do Mercado Livre do Produtor da Companhia de Entrepostos e Armazéns Gerais de São Paulo",
+      "regra": "nomes de edifício e empresa→uppercase"
+    },
+    {
+      "id": "sdbr13-068",
+      "campo": "title",
+      "de": "Tijolo com tijolo num Desenho lógico",
+      "para": "Tijolo com tijolo num desenho lógico",
+      "regra": "desenho=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-072",
+      "campo": "title",
+      "de": "Um Corpo útil para a cidade moderna",
+      "para": "Um corpo útil para a cidade moderna",
+      "regra": "corpo=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-073",
+      "campo": "title+subtitle",
+      "de": "Os 'jardins suspensos' da praça do Ferreira de 1968 | Paisagismo e Modernismo em Fortaleza",
+      "para": "Os 'jardins suspensos' da Praça do Ferreira de 1968 | paisagismo e Modernismo em Fortaleza",
+      "regra": "Praça do Ferreira=nome de logradouro→uppercase; subtítulo inicia lowercase"
+    },
+    {
+      "id": "sdbr13-074",
+      "campo": "subtitle",
+      "de": "momento histórico e as Obras da região Metropolitana de Sorocaba",
+      "para": "momento histórico e as obras da região metropolitana de Sorocaba",
+      "regra": "obras=genérico→lowercase; metropolitana=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-076",
+      "campo": "title",
+      "de": "Rumo ao Mar",
+      "para": "Rumo ao mar",
+      "regra": "mar=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-077",
+      "campo": "title",
+      "de": "Brasília palace hotel (1958)",
+      "para": "Brasília Palace Hotel (1958)",
+      "regra": "Brasília Palace Hotel=nome de hotel→uppercase"
+    },
+    {
+      "id": "sdbr13-081",
+      "campo": "title+subtitle",
+      "de": "A poética da economia na arquitetura do grupo Arquitetura Nova (GAN) | à Contemporaneidade",
+      "para": "A poética da economia na arquitetura | do grupo Arquitetura Nova (GAN) à contemporaneidade",
+      "regra": "split corrigido conforme PDF (dois-pontos após 'arquitetura'); contemporaneidade=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-082",
+      "campo": "title",
+      "de": "O edifício de Apartamentos no centro de Fortaleza (1935-1959)",
+      "para": "O edifício de apartamentos no centro de Fortaleza (1935-1959)",
+      "regra": "apartamentos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-083",
+      "campo": "title",
+      "de": "A síntese das artes no contexto regional do edifício da companhia Energética do Piauí",
+      "para": "A síntese das artes no contexto regional do edifício da Companhia Energética do Piauí",
+      "regra": "Companhia Energética do Piauí=nome de empresa→uppercase"
+    },
+    {
+      "id": "sdbr13-086",
+      "campo": "title",
+      "de": "Restauração do conjunto residencial prefeito Mendes de Moraes - Pedregulho",
+      "para": "Restauração do Conjunto Residencial Prefeito Mendes de Moraes — Pedregulho",
+      "regra": "nome de edifício→uppercase; hífen isolado→travessão"
+    },
+    {
+      "id": "sdbr13-087",
+      "campo": "title",
+      "de": "Brazil Builds - repercussão e disseminação da Arquitetura Moderna Brasileira",
+      "para": "Brazil Builds — repercussão e disseminação da Arquitetura Moderna Brasileira",
+      "regra": "hífen isolado→travessão"
+    },
+    {
+      "id": "sdbr13-091",
+      "campo": "title",
+      "de": "São Miguel das missões",
+      "para": "São Miguel das Missões",
+      "regra": "São Miguel das Missões=nome de cidade→uppercase"
+    },
+    {
+      "id": "sdbr13-092",
+      "campo": "subtitle",
+      "de": "o caso do instituto Vital Brazil em Niterói",
+      "para": "o caso do Instituto Vital Brazil em Niterói",
+      "regra": "Instituto Vital Brazil=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-097",
+      "campo": "title",
+      "de": "Os edifícios de Apartamentos de Vilanova Artigas",
+      "para": "Os edifícios de apartamentos de Vilanova Artigas",
+      "regra": "apartamentos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-099",
+      "campo": "title",
+      "de": "Edifícios de Apartamentos modernos em Porto Alegre",
+      "para": "Edifícios de apartamentos modernos em Porto Alegre",
+      "regra": "apartamentos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-100",
+      "campo": "subtitle",
+      "de": "estudo de caso do edifício da embaixada do Brasil em Buenos Aires",
+      "para": "estudo de caso do edifício da Embaixada do Brasil em Buenos Aires",
+      "regra": "Embaixada do Brasil=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-103",
+      "campo": "title+subtitle",
+      "de": "...na universidade de São Paulo | ...pelo conselho municipal de preservação de São Paulo",
+      "para": "...na Universidade de São Paulo | ...pelo Conselho Municipal de Preservação de São Paulo",
+      "regra": "nomes de instituições→uppercase"
+    },
+    {
+      "id": "sdbr13-104",
+      "campo": "subtitle",
+      "de": "a relação entre o Espírito progressista de Santa Rosa/RS e seu acervo Edificado moderno",
+      "para": "a relação entre o espírito progressista de Santa Rosa/RS e seu acervo edificado moderno",
+      "regra": "espírito=genérico→lowercase; edificado=adjetivo→lowercase"
+    },
+    {
+      "id": "sdbr13-107",
+      "campo": "title",
+      "de": "Arquitetura Moderna em São João del-rei",
+      "para": "Arquitetura Moderna em São João del-Rei",
+      "regra": "São João del-Rei=nome de cidade (grafia oficial com R maiúsculo)"
+    },
+    {
+      "id": "sdbr13-115",
+      "campo": "title",
+      "de": "O edifício Niemeyer e o Movimento Moderno na praça da Liberdade, em Belo Horizonte",
+      "para": "O Edifício Niemeyer e o Movimento Moderno na Praça da Liberdade, em Belo Horizonte",
+      "regra": "Edifício Niemeyer=nome de edifício→uppercase; Praça da Liberdade=nome de logradouro→uppercase"
+    },
+    {
+      "id": "sdbr13-116",
+      "campo": "subtitle",
+      "de": "uma leitura da exposição Territórios e do evento-manifesto do Corpo à Terra",
+      "para": "uma leitura da exposição Territórios e do evento-manifesto Do Corpo à Terra",
+      "regra": "Do Corpo à Terra=nome de evento artístico→uppercase"
+    },
+    {
+      "id": "sdbr13-119",
+      "campo": "title",
+      "de": "A Madeira no Patrimônio Moderno",
+      "para": "A madeira no Patrimônio Moderno",
+      "regra": "madeira=material→lowercase (não confundir com Ilha da Madeira)"
+    },
+    {
+      "id": "sdbr13-122",
+      "campo": "title",
+      "de": "Diálogos entre Arquitetos - Richard Neutra e o Brasil",
+      "para": "Diálogos entre arquitetos — Richard Neutra e o Brasil",
+      "regra": "arquitetos=genérico→lowercase; hífen isolado→travessão"
+    },
+    {
+      "id": "sdbr13-123",
+      "campo": "subtitle",
+      "de": "Obras das décadas de 1960 e 1970",
+      "para": "obras das décadas de 1960 e 1970",
+      "regra": "subtítulo inicia lowercase; obras=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-126",
+      "campo": "subtitle",
+      "de": "trajetória das mulheres no Curso de arquitetura em Salvador (1920-1960)",
+      "para": "trajetória das mulheres no curso de arquitetura em Salvador (1920-1960)",
+      "regra": "curso=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-129",
+      "campo": "title",
+      "de": "O tectônico presente na Obra do Tribunal de Justiça do Piauí",
+      "para": "O tectônico presente na obra do Tribunal de Justiça do Piauí",
+      "regra": "obra=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-130",
+      "campo": "subtitle",
+      "de": "sede do departamento de correios e Telégrafos",
+      "para": "sede do Departamento de Correios e Telégrafos",
+      "regra": "Departamento de Correios e Telégrafos=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-131",
+      "campo": "title",
+      "de": "Éramos palace",
+      "para": "Éramos Palace",
+      "regra": "Éramos Palace=nome de hotel→uppercase"
+    },
+    {
+      "id": "sdbr13-133",
+      "campo": "title",
+      "de": "Los hospitales modernos y La consolidación de las instituciones de salud del estado chileno",
+      "para": "Los hospitales modernos y la consolidación de las instituciones de salud del Estado chileno",
+      "regra": "espanhol: la=artigo→lowercase; Estado=entidade política→uppercase (RAE)"
+    },
+    {
+      "id": "sdbr13-137",
+      "campo": "subtitle",
+      "de": "de Warchavchik às escolas Carioca e paulista na década de 1950",
+      "para": "de Warchavchik às escolas carioca e paulista na década de 1950",
+      "regra": "carioca=adjetivo (consistência com paulista, ambos lowercase conforme PDF)"
+    },
+    {
+      "id": "sdbr13-138",
+      "campo": "subtitle",
+      "de": "a síntese das artes na Obra de João Filgueiras Lima",
+      "para": "a síntese das artes na obra de João Filgueiras Lima",
+      "regra": "obra=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-142",
+      "campo": "title+subtitle",
+      "de": "Espaços livres na faculdade de arquitetura da UFBA | um olhar socioecológico sobre uma Intervenção no moderno",
+      "para": "Espaços livres na Faculdade de Arquitetura da UFBA | um olhar socioecológico sobre uma intervenção no moderno",
+      "regra": "Faculdade de Arquitetura=nome de instituição→uppercase; intervenção=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-143",
+      "campo": "subtitle",
+      "de": "las Unidades vecinales de Arquitectura moderna en Chile",
+      "para": "las unidades vecinales de arquitectura moderna en Chile",
+      "regra": "espanhol: sentence case (RAE), sem capitalização de disciplinas"
+    },
+    {
+      "id": "sdbr13-144",
+      "campo": "title",
+      "de": "Conservar já! Documentar Sempre",
+      "para": "Conservar já! Documentar sempre",
+      "regra": "sempre=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-152",
+      "campo": "subtitle",
+      "de": "a residência Lota de Macedo Soares pelo olhar da crítica e Pela escrita de Elizabeth Bishop",
+      "para": "a residência Lota de Macedo Soares pelo olhar da crítica e pela escrita de Elizabeth Bishop",
+      "regra": "pela=preposição→lowercase"
+    },
+    {
+      "id": "sdbr13-154",
+      "campo": "title+subtitle",
+      "de": "Las firmas de Arquitectura en Bogotá (1920-1970) | desarrollo de modelos organizativos para La producción edificatoria",
+      "para": "Las firmas de arquitectura en Bogotá (1920-1970) | desarrollo de modelos organizativos para la producción edificatoria",
+      "regra": "espanhol: sentence case (RAE); arquitectura=disciplina→lowercase; la=artigo→lowercase"
+    },
+    {
+      "id": "sdbr13-156",
+      "campo": "title+subtitle",
+      "de": "Transformacion urbana y patrimonio moderno | josep Lluis Sert en Barcelona",
+      "para": "Transformación urbana y patrimonio moderno | Josep Lluís Sert en Barcelona",
+      "regra": "acento faltante (Transformación); Josep=nome próprio→uppercase; Lluís=acento catalão correto"
+    },
+    {
+      "id": "sdbr13-159",
+      "campo": "title",
+      "de": "Interlocução entre a Europa e o Brasil - os CIAM e os Arquitetos brasileiros",
+      "para": "Interlocução entre a Europa e o Brasil — os CIAM e os arquitetos brasileiros",
+      "regra": "hífen isolado→travessão; arquitetos=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-163",
+      "campo": "subtitle",
+      "de": "a viagem de 1962 e o projeto da embaixada da França em Brasília",
+      "para": "a viagem de 1962 e o projeto da Embaixada da França em Brasília",
+      "regra": "Embaixada da França=nome de instituição→uppercase"
+    },
+    {
+      "id": "sdbr13-165",
+      "campo": "title+subtitle",
+      "de": "Projeto Morada nova | uma experiência de planejamento físico e arquitetura Rural nos sertões do Ceará",
+      "para": "Projeto Morada Nova | uma experiência de planejamento físico e arquitetura rural nos sertões do Ceará",
+      "regra": "Morada Nova=nome de cidade→uppercase; rural=adjetivo→lowercase"
+    },
+    {
+      "id": "sdbr13-166",
+      "campo": "title+subtitle",
+      "de": "Elaboração e prática do plano de gestão de Conservação | para as mudanças contínuas do edifício Aula na tu Delft",
+      "para": "Elaboração e prática do Plano de Gestão de Conservação | para as mudanças contínuas do edifício Aula na TU Delft",
+      "regra": "Plano de Gestão de Conservação=nome de documento/conceito específico; TU Delft=sigla de universidade→uppercase"
+    },
+    {
+      "id": "sdbr13-169",
+      "campo": "title+subtitle",
+      "de": "História e historiografia da arquitetura e do urbanismo modernos no Brasil",
+      "para": "As 'outras' do 'outro' | pioneiras arquitetas no Nordeste brasileiro: migrações, gênero e regionalismo",
+      "regra": "TÍTULO ERRADO: era nome do eixo temático, não do artigo. Corrigido conforme PDF"
+    },
+    {
+      "id": "sdbr13-170",
+      "campo": "title+subtitle",
+      "de": "A Intervenção no palácio governador João Alves Filho | o desaparecimento do edifício moderno da praça Fausto Cardoso, em Aracaju",
+      "para": "A intervenção no Palácio Governador João Alves Filho | o desaparecimento do edifício moderno da Praça Fausto Cardoso, em Aracaju",
+      "regra": "intervenção=ação genérica→lowercase; Palácio e Praça=nomes de edifício e logradouro→uppercase"
+    },
+    {
+      "id": "sdbr13-171",
+      "campo": "subtitle",
+      "de": "a Feira internacional de Amostras do Rio de Janeiro",
+      "para": "a Feira Internacional de Amostras do Rio de Janeiro",
+      "regra": "Feira Internacional de Amostras=nome de evento→uppercase"
+    },
+    {
+      "id": "sdbr13-172",
+      "campo": "title",
+      "de": "Le Corbusier e a Intervenção no construído",
+      "para": "Le Corbusier e a intervenção no construído",
+      "regra": "intervenção=ação genérica→lowercase"
+    },
+    {
+      "id": "sdbr13-175",
+      "campo": "title",
+      "de": "O plástico, o Sagrado e o simbólico em Oscar Niemeyer",
+      "para": "O plástico, o sagrado e o simbólico em Oscar Niemeyer",
+      "regra": "sagrado=substantivado genérico→lowercase (consistência com plástico e simbólico)"
+    },
+    {
+      "id": "sdbr13-177",
+      "campo": "title",
+      "de": "Desdobramentos vitruvianos nas Obras de Le Corbusier",
+      "para": "Desdobramentos vitruvianos nas obras de Le Corbusier",
+      "regra": "obras=genérico→lowercase"
+    },
+    {
+      "id": "sdbr13-178",
+      "campo": "title",
+      "de": "A organização do fundo do Arquiteto Joaquim Guedes",
+      "para": "A organização do fundo do arquiteto Joaquim Guedes",
+      "regra": "título profissional→lowercase"
+    },
+    {
+      "id": "sdbr13-179",
+      "campo": "title",
+      "de": "Verticalização da esplanada de Santo Antônio",
+      "para": "Verticalização da Esplanada de Santo Antônio",
+      "regra": "Esplanada de Santo Antônio=nome de lugar→uppercase"
+    },
+    {
+      "id": "sdbr13-180",
+      "campo": "subtitle",
+      "de": "revisitando a capela do Menino Jesus",
+      "para": "revisitando a Capela do Menino Jesus",
+      "regra": "Capela do Menino Jesus=nome de edifício→uppercase"
+    },
+    {
+      "id": "sdbr13-181",
+      "campo": "subtitle",
+      "de": "projeto de Intervenção na residência Heleno Sabino, Campina Grande-PB",
+      "para": "projeto de intervenção na Residência Heleno Sabino, Campina Grande-PB",
+      "regra": "intervenção=ação genérica→lowercase; Residência Heleno Sabino=nome de edifício→uppercase"
+    }
+  ],
+  "padroes_recorrentes": {
+    "obra_maiuscula": "Palavra 'Obra/Obras' frequentemente em maiúscula indevida. É genérico, sempre lowercase.",
+    "intervenção_maiuscula": "Palavra 'Intervenção' frequentemente em maiúscula indevida. É ação genérica, lowercase.",
+    "apartamentos_maiuscula": "Palavra 'Apartamentos' frequentemente em maiúscula indevida. É genérico, lowercase.",
+    "arquiteto_maiuscula": "Palavra 'Arquiteto' (como título profissional) frequentemente em maiúscula indevida. Lowercase.",
+    "nomes_edificios_minuscula": "Nomes de edifícios, palácios, museus, hospitais frequentemente em minúscula indevida. Uppercase.",
+    "nomes_instituicoes_minuscula": "Nomes de instituições (universidades, embaixadas, empresas) frequentemente em minúscula indevida. Uppercase.",
+    "nomes_logradouros_minuscula": "Nomes de praças, esplanadas frequentemente em minúscula indevida. Uppercase.",
+    "hifen_travessao": "Hífen isolado ( - ) usado como separador deve ser travessão ( — ).",
+    "modernistas_adjetivo": "'Modernistas' como adjetivo deve ser lowercase (casas modernistas, estações modernistas).",
+    "subtitulo_maiuscula": "Subtítulo deve começar com minúscula (exceto nome próprio/sigla).",
+    "espanhol_rae": "Em espanhol, disciplinas e conceitos NÃO são capitalizados (diferente do português).",
+    "titulos_truncados": "Verificar sempre contra PDF para títulos que parecem incompletos (ex: sdbr13-051)."
+  }
+}

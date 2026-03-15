@@ -369,6 +369,10 @@ def is_fragment(ref):
     if re.match(r'^En\s+[A-Z]', r) and len(r) < 80:
         return True
 
+    # NOTA: padrão "SIGLA, Cidade, Ano" (ex: "UFRN, Natal, Fevereiro 2019.") é
+    # ambíguo — pode ser fragmento de ref anterior (local de evento) ou autor
+    # institucional legítimo (IPHAN, IBGE). Deixar para a revisão LLM (1.2c).
+
     return False
 
 
@@ -469,7 +473,16 @@ def split_concatenated_refs(ref_text):
 
 # Template garbage patterns (instruções do template em vez de keywords reais)
 TEMPLATE_GARBAGE_RE = re.compile(
-    r'(máximo\s+\d|separados\s+com|espaçamento|parágrafo\s+de\s+\d+\s*pt)',
+    r'(máximo\s+\d|separados\s+com|espaçamento|parágrafo\s+de\s+\d+\s*pt'
+    r'|título\s+em\s+negrito|alinhamento|entre\s*linhas)',
+    re.IGNORECASE
+)
+
+# Padrões de lixo em keywords: título do artigo, body text, captions
+KW_JUNK_RE = re.compile(
+    r'^(Introdução|Figure\s|Figura\s|Fonte:|Source:|http|file:///|'
+    r'O presente|Este artigo|The present|This article|'
+    r'"[A-Z])',  # citação entre aspas
     re.IGNORECASE
 )
 
@@ -510,14 +523,60 @@ def clean_keywords(conn, slug, dry_run):
 
             for k in kws:
                 k = k.strip()
+                # Limpar zero-width spaces e control chars
+                k = re.sub(r'[\u200b\u200c\u200d\ufeff]', '', k).strip()
                 if not k:
                     continue
 
-                # 1. Template garbage
+                # 1a. Template garbage — strip prefix or remove entirely
                 if TEMPLATE_GARBAGE_RE.search(k):
+                    # Check if there's a useful keyword after the template text
+                    # Pattern: "(título em negrito): keyword" or "arial 10, entre linhas..."
+                    m = re.search(r'[):]\s*(.+)$', k)
+                    if m and len(m.group(1).strip()) > 1 and not TEMPLATE_GARBAGE_RE.search(m.group(1)):
+                        k = m.group(1).strip()
+                        changed = True
+                        print(f"  {art_id}.{col}: TEMPLATE prefix removido: \"{k[:60]}\"")
+                        new_kws.append(k)
+                    else:
+                        stats['garbage'] += 1
+                        changed = True
+                        print(f"  {art_id}.{col}: GARBAGE removido: \"{k[:60]}\"")
+                    continue
+
+                # 1b. Junk patterns (body text, titles, captions, URLs)
+                if KW_JUNK_RE.match(k):
                     stats['garbage'] += 1
                     changed = True
-                    print(f"  {art_id}.{col}: GARBAGE removido: \"{k[:60]}\"")
+                    print(f"  {art_id}.{col}: JUNK removido: \"{k[:60]}\"")
+                    continue
+
+                # 1c. Newlines (keyword with body text bleeding in)
+                if '\n' in k:
+                    # Keep only text before first newline
+                    clean = k.split('\n')[0].strip().rstrip('.,;')
+                    if len(clean) > 1:
+                        k = clean
+                        changed = True
+                    else:
+                        stats['garbage'] += 1
+                        changed = True
+                        print(f"  {art_id}.{col}: NEWLINE removido: \"{k[:60]}\"")
+                        continue
+
+                # 1d. ALL CAPS block (≥15 chars, likely title text infiltrated)
+                # Preserva siglas curtas (CIAM, IPHAN, UNESCO etc.)
+                if len(k) >= 15 and re.match(r'^[A-ZÁÉÍÓÚÂÊÔÃÕÇÑ\s:–—\-]{15,}$', k):
+                    stats['garbage'] += 1
+                    changed = True
+                    print(f"  {art_id}.{col}: ALL CAPS removido: \"{k[:60]}\"")
+                    continue
+
+                # 1e. Too long (>80 chars) — likely body text, not a keyword
+                if len(k) > 80:
+                    stats['garbage'] += 1
+                    changed = True
+                    print(f"  {art_id}.{col}: LONGA removida ({len(k)}c): \"{k[:60]}\"")
                     continue
 
                 # 2. Split por separadores
@@ -1671,8 +1730,9 @@ def main():
 
         fontes_dir = find_fontes_dir(slug)
         only = args.only.upper() if args.only else None
-        # A10/A11/A12/A13 são redundantes com sweep_refs (1.2b) — sweep deve rodar ANTES do loop.
-        # O loop foca em extração de fontes/ (A07, A08, A19).
+        # IMPORTANTE: rodar --sweep-refs ANTES de --loop (são comandos separados).
+        # O sweep resolve A10/A11/A12/A13. Depois re-rodar clean_references.py (1.2b+).
+        # O loop foca apenas em extração de fontes/ (A07, A08, A19).
         fixable_checks = {'A07', 'A08', 'A19'}
 
         for iteration in range(1, 6):

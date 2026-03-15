@@ -300,85 +300,11 @@ python3 dict/dump_db.py
 
 Se a revisão humana revelou expressões consolidadas novas (ex: "Vila Operária" como nome próprio) ou exceções de capitalização, adicioná-las manualmente ao `dict.db`. Registrar padrões confirmados na memória do projeto (`MEMORY.md`) para referência futura.
 
-### 5.4 Incorporar aprendizado da revisão humana
+### 5.4 Fechar revisão humana
 
-A revisão humana identifica erros que se repetem. O aprendizado só existe se resultar em **alteração concreta**: entrada no dict, regra no script, ou instrução documentada. Documentar sem alterar nada não é aprendizado.
+A revisão humana termina quando todas as correções do `revisao/{slug}-rev.md` foram aplicadas e verificadas. Registrar o status final no `{slug}-rev-status.md`.
 
-**Passo 1 — Atualizar dict.db com as correções de capitalização:**
-
-Analisar o arquivo `revisao/{slug}-titulos-aprendizado.json` (ou as correções manuais da Fase 4) e classificar cada correção:
-
-| Tipo | Ação no dict.db | Exemplo |
-|------|----------------|---------|
-| Palavra genérica forçando maiúscula | **REMOVER** do dict | `obra`, `restauração`, `tradição` |
-| Gentílico/adjetivo forçando maiúscula | **REMOVER** do dict | `carioca`, `metropolitana` |
-| Nome próprio faltando | **ADICIONAR** ao dict | `Bienal`, `Esplanada`, `Centenário` |
-| Expressão consolidada faltando | **ADICIONAR** como expressão | `Centro Administrativo`, `Base Naval` |
-
-```bash
-# Verificar contradições: palavras corrigidas p/ minúscula que estão no dict
-python3 -c "
-import sqlite3
-conn = sqlite3.connect('dict/dict.db')
-# Listar palavras genéricas que seed_titles inseriu indevidamente
-for row in conn.execute(\"\"\"
-    SELECT word, category, source FROM dict_names
-    WHERE source = 'titulos' ORDER BY word
-\"\"\"):
-    print(f'{row[0]} ({row[1]}/{row[2]})')
-"
-
-# Após remover/adicionar:
-python3 dict/dump_db.py
-```
-
-**Critério de remoção**: se a revisão humana corrigiu uma palavra para minúscula em ≥2 artigos, e a palavra não é nome próprio, remover do dict.
-
-**Critério de adição**: se a revisão humana corrigiu uma palavra para maiúscula, e é nome de edifício, instituição, evento ou lugar, adicionar ao dict.
-
-**Passo 2 — Atualizar scripts de validação:**
-
-Se um tipo de erro apareceu em ≥3 artigos e **não** é coberto pelo `validar_abstracts.py`, adicionar a regra ao script.
-
-Categorias conhecidas (detectadas por `validar_abstracts.py`):
-
-| Categoria | Detecção |
-|-----------|----------|
-| `SWAP_PT_EN` | `langdetect(abstract)` ≠ locale |
-| `KW_EN_NO_ABSTRACT` | keywords_en sem abstract_en |
-| `TITLE_IN_ABSTRACT` | título repetido no início do abstract |
-| `TRUNCATED` | abstract termina sem pontuação |
-| `KW_LEAKED` | keywords vazaram para o abstract |
-| `CONTROL_CHARS` | caracteres de controle |
-| `EN_IS_PT` | abstract_en em português |
-| `MISSING_PATTERN` | abstract ausente quando ≥70% do seminário tem |
-
-```bash
-python3 scripts/validar_abstracts.py --slug {slug} --summary
-```
-
-**Passo 3 — Atualizar MEMORY.md:**
-
-Registrar na seção "Padrões de capitalização confirmados" apenas padrões **novos** que resultaram em alteração do dict ou dos scripts. Não registrar o que já está documentado.
-
-**Passo 4 — Salvar registro do aprendizado:**
-
-Arquivo: `revisao/{slug}-aprendizado-revisao.json`
-
-Registrar **apenas as ações concretas realizadas** (não os problemas encontrados — isso já está no `{slug}-rev-status.md`):
-
-```json
-{
-  "dict_removals": ["obra", "restauração", "tradição"],
-  "dict_additions": ["Bienal", "Esplanada", "Centenário"],
-  "scripts_alterados": ["validar_abstracts.py"],
-  "scripts_criados": [],
-  "padroes_confirmados": [
-    "'Arquitetura Moderna' sempre maiúscula como conceito",
-    "'arquitetura moderna de [cidade]' descritiva → minúscula"
-  ]
-}
-```
+**Próximo passo:** Executar a [Fase 3 — Aprendizado](pipeline_revisao.md#fase-3--aprendizado-pós-revisão) do pipeline de revisão automática.
 
 ### 5.5 Atualizar status
 

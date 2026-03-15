@@ -66,7 +66,7 @@ NONREF_PATTERNS = [
 ]
 
 # Contaminação de abstract (CV, email, afiliação)
-EMAIL_RE = re.compile(r'\S+@\S+\.\S+')
+EMAIL_RE = re.compile(r'\b\S+@\S+\.\S+\b')
 AFFILIATION_START = re.compile(
     r'^\s*(\d\s*)?(Professor[ae]?\s+(d[aoe]|adjunt|titular|associad)|'
     r'Doutor[ae]?\s+(em|pel[ao])|Mestrando|Doutorando|Graduando|'
@@ -128,7 +128,11 @@ def is_field_expected(profile, field):
 
 
 def has_marker(lines, markers):
-    """Verifica se alguma linha do fontes/ tem um dos marcadores."""
+    """Verifica se alguma linha do fontes/ tem um dos marcadores.
+
+    Limitação: markers devem estar no início de uma linha. Se o pdftotext
+    splitou o marker entre duas linhas (raro), não será detectado.
+    """
     for line in lines:
         for m in markers:
             if m.match(line):
@@ -767,6 +771,48 @@ def check_abstract_en_in_abstract(article):
     return issues
 
 
+def check_pt_in_abstract_en(article):
+    """A27: texto em português colado no abstract_en.
+
+    Reverso do A23: a extração capturou o abstract EN seguido de notas ou texto em PT.
+    Detecta marcadores PT no campo abstract_en após o texto em inglês.
+    Auto-fix: corta no boundary EN→PT.
+    """
+    issues = []
+    aid = article['id']
+    text = article.get('abstract_en')
+    if not text or len(text) < 200:
+        return issues
+
+    # Procurar marcadores PT no texto EN
+    PT_MARKERS = [
+        r'(?:Este\s+artigo|O\s+presente|A\s+pesquisa|Este\s+trabalho|O\s+artigo|A\s+dissertação|A\s+tese)',
+        r'Palavras[\s-]*[Cc]haves?\s*:',
+        r'Resumo\s*:',
+    ]
+    best_pos = None
+    for pattern in PT_MARKERS:
+        m = re.search(pattern, text)
+        if m and m.start() > 100:
+            # Confirmar que o que vem antes é EN
+            before = text[max(0, m.start()-60):m.start()]
+            en_words = len(re.findall(r'\b(the|of|in|and|to|is|are|was|this|that|with|for|from)\b', before, re.IGNORECASE))
+            if en_words >= 2:
+                if best_pos is None or m.start() < best_pos:
+                    best_pos = m.start()
+
+    if best_pos is not None:
+        issues.append({
+            'check': 'A27', 'article_id': aid, 'field': 'abstract_en',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'abstract_en: texto PT colado após EN (boundary em pos {best_pos})',
+            'suggestion': 'Cortar no boundary EN→PT',
+            'fix_action': {'truncate_kw_tail': 'abstract_en', 'pos': best_pos},
+        })
+
+    return issues
+
+
 # Regex para detectar keywords coladas no final de qualquer abstract (pré-compilado)
 # Exige ":" após o marcador para evitar falsos positivos com "Keywords are..." no texto
 _KW_TAIL_PATTERNS = [
@@ -798,6 +844,15 @@ def check_abstract_keywords_tail(article):
         for pattern in _KW_TAIL_PATTERNS:
             m = pattern.search(text)
             if m and m.start() > 50:
+                # Evitar falso positivo: se o marcador aparece no meio de uma frase
+                # (precedido por texto narrativo sem quebra de parágrafo), é parte do
+                # texto, não um label de seção. Ex: "possui como palavras-chaves ..."
+                # Olhar os 50 chars ao redor do match para detectar contexto narrativo
+                pre_start = max(0, m.start() - 40)
+                context = text[pre_start:m.end()]
+                if re.search(r'[a-záéíóúâêôãõç]\s+[Pp]alavras|[a-z]\s+[Kk]ey\s*-?\s*[Ww]', context):
+                    # Precedido por palavra em minúscula + espaço + marcador = meio de frase
+                    continue
                 if best_pos is None or m.start() < best_pos:
                     best_pos = m.start()
 
@@ -809,6 +864,42 @@ def check_abstract_keywords_tail(article):
                 'suggestion': 'Cortar no marcador de keywords',
                 'fix_action': {'truncate_kw_tail': field_name, 'pos': best_pos},
             })
+
+    return issues
+
+
+def check_abstract_language_mismatch(article):
+    """A26: abstract em idioma diferente do locale.
+
+    Detecta quando o campo 'abstract' (que deveria ser PT) contém texto em espanhol.
+    Indica que o abstract_es foi inserido no campo errado. Auto-fix: move para abstract_es.
+    """
+    issues = []
+    aid = article['id']
+    locale = article.get('locale', 'pt-BR')
+    abstract = article.get('abstract')
+
+    if not abstract or locale == 'es':
+        return issues
+
+    # Heurística: contar marcadores de espanhol vs português
+    es_markers = len(re.findall(
+        r'\b(el presente|la\s|las\s|los\s|del\s|una\s|arquitect|investigación|también|además|'
+        r'análisis|realizado|objetivo|estudio|ciudad|edifici|desarroll|propone)\b',
+        abstract, re.IGNORECASE))
+    pt_markers = len(re.findall(
+        r'\b(o presente|a\s|as\s|os\s|do\s|da\s|uma\s|também|além|'
+        r'análise|realizado|objetivo|estudo|cidade|edifíci|desenvolv|propõe)\b',
+        abstract, re.IGNORECASE))
+
+    if es_markers > pt_markers * 2 and es_markers >= 5:
+        issues.append({
+            'check': 'A26', 'article_id': aid, 'field': 'abstract',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'abstract parece estar em espanhol ({es_markers} marcadores ES vs {pt_markers} PT) — mover para abstract_es',
+            'suggestion': 'Mover abstract → abstract_es, setar abstract = NULL',
+            'fix_action': {'move_abstract_to_es': True},
+        })
 
     return issues
 
@@ -889,7 +980,8 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                     parsed = json.loads(raw)
                     article[field] = parsed if parsed else None
                 except (json.JSONDecodeError, TypeError):
-                    # Try as comma-separated text
+                    # Try as comma-separated text (log the fallback)
+                    print(f"  AVISO: {article['id']}.{field}: JSON inválido, fallback para split por vírgula")
                     article[field] = [k.strip() for k in raw.split(',') if k.strip()]
 
         # Parse refs
@@ -898,6 +990,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
             try:
                 article['refs_parsed'] = json.loads(refs_raw)
             except (json.JSONDecodeError, TypeError):
+                print(f"  AVISO: {article['id']}.references_: JSON inválido, refs ignoradas")
                 pass
 
         # Ler fontes/
@@ -922,6 +1015,8 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_en_in_abstract(article))
         issues.extend(check_bad_encoding(article))
         issues.extend(check_abstract_keywords_tail(article))
+        issues.extend(check_abstract_language_mismatch(article))
+        issues.extend(check_pt_in_abstract_en(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -964,7 +1059,9 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                     col = action['strip_control_chars_kw']
                     kws = article.get(col)
                     if kws and isinstance(kws, list):
-                        cleaned = [CONTROL_CHAR_RE.sub('', k) for k in kws]
+                        cleaned = [CONTROL_CHAR_RE.sub('', k).strip() for k in kws]
+                        # Filtrar keywords que ficaram vazias ou muito curtas após limpeza
+                        cleaned = [k for k in cleaned if len(k) > 1]
                         cur.execute(f"UPDATE articles SET {col} = ? WHERE id = ?",
                                     (json.dumps(cleaned, ensure_ascii=False), article['id']))
                         auto_fixed.append(issue)
@@ -1090,6 +1187,14 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                                         (cleaned, article['id']))
                             article[field] = cleaned
                             auto_fixed.append(issue)
+                elif 'move_abstract_to_es' in action:
+                    abstract = article.get('abstract')
+                    if abstract:
+                        cur.execute("UPDATE articles SET abstract_es = ?, abstract = NULL WHERE id = ?",
+                                    (abstract, article['id']))
+                        article['abstract_es'] = abstract
+                        article['abstract'] = None
+                        auto_fixed.append(issue)
 
         all_issues.extend(issues)
 
@@ -1138,8 +1243,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A02': 'kw_en sem abs_en',
         'A03': 'abs_es sem kw_es',
         'A04': 'kw_es sem abs_es',
-        'A05': 'locale_es→abs_es',
-        'A06': 'locale_es→kw_es',
+        # A05/A06 removidos (ciclo com A21)
         'A07': 'fontes: Abstract',
         'A08': 'fontes: Keywords',
         'A09': 'fontes: Resumen',
@@ -1159,6 +1263,8 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A23': 'abstract_en no abstract',
         'A24': 'encoding ruim',
         'A25': 'keywords no abstract',
+        'A26': 'abstract em idioma errado',
+        'A27': 'PT no abstract_en',
     }
 
     if not check_counts:
