@@ -73,6 +73,8 @@ def normalizar_seminario(conn, slug, dry_run=False, field=None):
 def main():
     parser = argparse.ArgumentParser(description='Normalizar maiúsculas/minúsculas')
     parser.add_argument('--slug', help='Normalizar apenas este seminário')
+    parser.add_argument('--field', choices=['title', 'title_es'], default=None,
+                        help='Campo a normalizar (default: title/subtitle. title_es: title_es/subtitle_es)')
     parser.add_argument('--dry-run', action='store_true', help='Apenas mostrar, não alterar')
     args = parser.parse_args()
 
@@ -96,7 +98,7 @@ def main():
 
     total = 0
     for slug in slugs:
-        n = normalizar_seminario(conn, slug, dry_run=args.dry_run)
+        n = normalizar_seminario(conn, slug, dry_run=args.dry_run, field=args.field)
         total += n
 
     print(f'Total: {total} artigos alterados em {len(slugs)} seminários')
