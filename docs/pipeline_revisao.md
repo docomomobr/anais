@@ -1301,6 +1301,16 @@ O HTML é auto-contido (CSS inline, capa em base64). Abrir no navegador para rev
 
 **IMPORTANTE:** Rodar `validate_metadata.py --fix` **ANTES** de gerar o HTML, para que os warnings estejam atualizados. Sem o JSON de validação, o HTML não mostra alertas.
 
+**Checkpoint — dump e commit:**
+
+```bash
+python3 scripts/dump_anais_db.py
+git add anais.sql revisao/{slug}-* dict/dict.sql
+git commit -m "{slug} revisão automática concluída (Fases 0-2)"
+```
+
+Este commit marca o estado pós-revisão automática / pré-revisão humana. Permite reverter se a revisão humana introduzir problemas.
+
 **Próximo passo:** Executar o [pipeline de revisão humana](pipeline_revisao_humana.md).
 
 ---
