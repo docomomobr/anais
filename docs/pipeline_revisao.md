@@ -1,5 +1,13 @@
 # Pipeline de Revisão Automática de Metadados
 
+**REGRA #0 — EXECUTAR CADA ETAPA COMO DOCUMENTADA, SEM ATALHOS:**
+- Se o pipeline diz "revisar TODOS os artigos" → revisar TODOS, não amostrar
+- Se diz "revisão LLM" → usar LLM (agente contra fonte), não rodar script heurístico e declarar concluído
+- Se diz "registrar no rev-status" → gravar IMEDIATAMENTE, não acumular
+- Se diz "verificar campos X, Y, Z" → verificar X, Y E Z, não só X
+- Antes de declarar qualquer fase concluída, reler a seção inteira do pipeline e confirmar que CADA sub-etapa foi executada
+- O pipeline é um checklist, não uma sugestão. Pular etapas gera retrabalho e perda de confiança.
+
 Pipeline para revisão automática dos metadados dos artigos no `anais.db`. Complementa o [pipeline de tratamento](pipeline_tratamento.md) (fases 1-7) e antecede o [pipeline de revisão humana](pipeline_revisao_humana.md) (Fases 3–5).
 
 A revisão é necessária porque a extração automatizada dos PDFs produz erros sistemáticos: títulos com capitalização errada, resumos truncados, keywords faltantes, referências concatenadas ou ausentes. O pipeline automático corrige os problemas detectáveis por heurísticas; o que escapar vai para a revisão humana.
