@@ -1304,14 +1304,18 @@ if current != generated:
 
 **REGRA**: Esta verificação é **exaustiva** — comparar CADA artigo com o PDF. Não amostrar.
 
-**Passo 1 — Comparar autores do banco com a fonte de cada artigo:**
+**Passo 1 — Extrair autores da fonte e comparar com o banco (PDF→DB):**
 
-Para cada artigo, extrair os nomes dos autores da fonte e comparar com os autores vinculados no banco. Seguir a **hierarquia de fontes** do pipeline (mesma ordem de §0.3):
+A direção da verificação é **fonte → banco**: extrair os nomes do documento original e verificar se cada um existe no banco. O erro mais provável é um autor que está no PDF mas não foi inserido no banco.
+
+Para cada artigo, extrair os nomes dos autores seguindo a **hierarquia de fontes** (mesma ordem de §0.3):
 
 1. **doc/docx/odt/fodt/rtf** → ler com python-docx ou equivalente (preserva estilos — autor geralmente em estilo específico)
 2. **fontes_plumber/** (.jsonl) → blocos com role near "heading" ou entre título e abstract
 3. **fontes/** (.txt do pdftotext) → texto entre título e "Resumo"
 4. **PDF** → ler página 1 (pdfplumber ou imagem para escaneados)
+
+Para cada autor encontrado na fonte, verificar se existe no banco (comparar familyname). Atenção aos falsos positivos: sobrenomes que aparecem no cabeçalho mas são de pessoas mencionadas no **título** (objeto de estudo, não autor), siglas de universidades no formato "SIGLA, cidade" que parecem "SOBRENOME, Nome", e palavras em inglês de títulos bilíngues.
 
 Verificar:
 
