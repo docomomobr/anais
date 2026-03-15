@@ -814,7 +814,7 @@ A experiência com sdbr10 (118 artigos, ~2000 refs) mostrou que o sweep + valida
 3. Definir a lista de refs válidas (até o ponto de corte) e descartar notas
 4. Dentro das refs válidas, corrigir: concatenações, splits, headers
 5. Gravar no banco
-6. Ao final, gerar relatório + `dump_anais_db.py`
+6. Ao final, gerar relatório
 
 **Prompt para o agente:**
 
