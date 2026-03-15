@@ -123,6 +123,13 @@ Este registro evita re-trabalho entre sessões e serve como auditoria do que foi
 
 Nunca avançar para uma etapa seguinte sem verificar no rev-status que a etapa atual está ✅. Nunca deixar o pipeline pela metade para resolver um problema secundário sem antes registrar onde parou. O rev-status é a memória de execução — sem ele, o agente perde o fio e pula etapas.
 
+**REGRA — Registrar é parte da execução, não é passo separado:** A etapa só está concluída quando o rev-status foi atualizado. O fluxo de cada etapa é:
+1. Executar a etapa
+2. **Imediatamente** gravar no rev-status: ✅, contadores, correções feitas (artigo/campo/antes/depois)
+3. Só então passar à próxima etapa
+
+Se entre a execução e o registro surgir outro problema, **primeiro registrar a etapa atual**, depois resolver o problema. O rev-status nunca pode ficar mais de uma etapa atrás da execução real.
+
 ---
 
 ## Fase 0 — Diagnóstico de padrão e preenchimento de lacunas
