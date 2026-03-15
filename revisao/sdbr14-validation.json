@@ -6,15 +6,24 @@
     "total": 122,
     "locale_es": 0,
     "abstract": 122,
-    "abstract_en": 6,
+    "abstract_en": 5,
     "abstract_es": 0,
-    "keywords": 120,
+    "keywords": 121,
     "keywords_en": 4,
     "keywords_es": 0,
-    "references_": 118
+    "references_": 119
   },
   "auto_fixed": [],
   "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdbr14-004",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... mesmos na cidade existente.\nEntretanto,\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
     {
       "check": "A11",
       "article_id": "sdbr14-048",
