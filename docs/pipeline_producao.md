@@ -26,6 +26,8 @@ Pipeline para publicação dos anais Docomomo Brasil. Substitui o pipeline OJS (
 - **DOI**: exibido na página do artigo para citação acadêmica (`doi.org/10.5281/zenodo.{id}`)
 - Não usar o DOI como link de download (landing page adiciona clique extra)
 - **sdbr04**: os 79 artigos são apenas resumos (sem texto completo). Não subir PDFs ao Zenodo para este seminário.
+- **Resumos (document_type=resumo)**: não subir PDFs ao Zenodo — o conteúdo do resumo vai integralmente nos metadados do site (abstract, keywords, autores). Upload de PDF de resumo é redundante.
+- **Artigos com DOI externo**: se o artigo já tem DOI atribuído em outra plataforma (Even3, periódico, repositório institucional), **não subir para o Zenodo**. Referenciar o DOI existente no site. O DOI é permanente — se alguém fez DOI, é porque o link não cai. Exemplo: sdbr15 (Even3, DOI 10.29327/1344945).
 
 ### Estimativa de storage
 
