@@ -1,0 +1,139 @@
+{
+  "seminario": "sdbr15",
+  "data": "2026-03-15",
+  "total_artigos": 101,
+  "artigos_corrigidos": 48,
+  "categorias_de_correcao": {
+    "nome_proprio_edificio_maiuscula": [
+      "sdbr15-007: Cine Teatro (Cine teatro →), Grande Hotel de Cuiabá",
+      "sdbr15-015: Instituto de Ortopedia e Traumatologia, Hospital das Clínicas, Universidade de São Paulo",
+      "sdbr15-021: Estação Deputado Wilson Roriz",
+      "sdbr15-024: Residência Moreira Salles",
+      "sdbr15-025: Edifício R3",
+      "sdbr15-056: Pavilhão Luiz Nunes (pavilhão →)",
+      "sdbr15-060: Aeroporto Internacional dos Guararapes",
+      "sdbr15-062: Othon Palace (Othon palace →)",
+      "sdbr15-067: Conjunto 23 de Enero",
+      "sdbr15-071: Santuário de Nossa Senhora da Piedade",
+      "sdbr15-074: Edifício João Brícola",
+      "sdbr15-080: Auditório \"Oscar Niemeyer\"",
+      "sdbr15-100: Hospital de Isolamento de Mont Serrat"
+    ],
+    "nome_proprio_instituicao_maiuscula": [
+      "sdbr15-009: Fórum do Patrimônio Moderno",
+      "sdbr15-030: Instituto de Puericultura da UFRJ",
+      "sdbr15-040: Centro de Referência da Cultura Arquitetônica Paulista",
+      "sdbr15-049: Conjunto DATE-CETREC",
+      "sdbr15-077: Patrimônio Histórico e Artístico Nacional (artístico → Artístico, nacional → Nacional)",
+      "sdbr15-083: Centro de Artes — Urca",
+      "sdbr15-088: Cidade Universitária do Brasil, Ministério da Educação e Saúde Pública",
+      "sdbr15-095: Universidade Rural"
+    ],
+    "nome_proprio_logradouro_maiuscula": [
+      "sdbr15-008: Vila Buarque (vila → Vila, nome de bairro)"
+    ],
+    "nome_proprio_publicacao_maiuscula": [
+      "sdbr15-064: Revista Acrópole (revista → Revista)"
+    ],
+    "nome_proprio_evento_maiuscula": [
+      "sdbr15-036: Roteiro da Fé (fé → Fé)",
+      "sdbr15-090: Seminário DOCOMOMO Brasil (seminário → Seminário)"
+    ],
+    "nome_proprio_pessoa_maiuscula": [
+      "sdbr15-014: Moholy-Nagy (moholy-nagy →)"
+    ],
+    "nome_proprio_lugar_maiuscula": [
+      "sdbr15-006: Cidade-Porto (cidade-Porto →, conceito de Caracaraí)",
+      "sdbr15-046: Vila Piloto, Vila dos Operadores, Usina Hidrelétrica de Jupiá",
+      "sdbr15-073: Matão (matão →, nome de cidade)",
+      "sdbr15-087: Zona 1 (zona →, parte do nome do conjunto)"
+    ],
+    "termo_generico_minuscula": [
+      "sdbr15-001: assistência pública (Assistência pública →, genérico)",
+      "sdbr15-005: modernistas (Modernistas →, adjetivo)",
+      "sdbr15-012: bosque (Bosque →, genérico)",
+      "sdbr15-018: funcionalismo (Funcionalismo →), obras públicas (Obras →)",
+      "sdbr15-019: torre de vidro (Torre →, tipo genérico)",
+      "sdbr15-023: arquitetos (Arquitetos →), universidades internacionais (Internacionais →)",
+      "sdbr15-029: embasamento-torre (embasamento-Torre →, tipo genérico)",
+      "sdbr15-035: obras (Obras →, genérico)",
+      "sdbr15-042: análise arquitetônica (Arquitetônica →, início subtítulo genérico)",
+      "sdbr15-046: desenho moderno (Desenho →, genérico)",
+      "sdbr15-051: modernistas (Modernistas →, adjetivo)",
+      "sdbr15-054: obra (Obra →, genérico)",
+      "sdbr15-056: sala de espera (Sala →, metáfora descritiva)",
+      "sdbr15-057: arquitetônica (Arquitetônica →, adjetivo genérico)",
+      "sdbr15-059: ensaio (Ensaio →, início subtítulo genérico)",
+      "sdbr15-076: desenho institucional (Desenho Institucional →, conceito genérico)",
+      "sdbr15-083: modernista (Modernista →, adjetivo)",
+      "sdbr15-089: especiais (Especiais →), homenagem (Homenagem →)",
+      "sdbr15-094: conservação (Conservação →, ação genérica)",
+      "sdbr15-098: internacionais (Internacionais →, adjetivo)",
+      "sdbr15-099: ensino (Ensino →, ação genérica)"
+    ],
+    "estado_entidade_politica_maiuscula": [
+      "sdbr15-007: Estado Novo (estado novo →, período histórico)",
+      "sdbr15-022: Estado (estado →, entidade política)",
+      "sdbr15-027: Estado (estado →, entidade política)",
+      "sdbr15-069: Estado (estado →, entidade política)",
+      "sdbr15-085: Estado (estado →, entidade política)"
+    ],
+    "plano_programa_maiuscula": [
+      "sdbr15-003: Plano de Ação (plano de ação →, nome de programa governamental)"
+    ],
+    "sigla_maiuscula": [
+      "sdbr15-015: IOT/HC (iot/hc →)",
+      "sdbr15-025: R3 (r3 →)",
+      "sdbr15-049: DATE-CETREC (date-cetrec →)"
+    ],
+    "travessao": [
+      "sdbr15-015: – → — (em-dash, separador)",
+      "sdbr15-100: – → — (em-dash, separador)"
+    ],
+    "espanhol_rae": [
+      "sdbr15-078: la torre (La Torre →), la acción (La acción →), la oportunidad (La oportunidad →) — artigos em espanhol minúscula"
+    ],
+    "formatacao_datas": [
+      "sdbr15-072: '. 1960 - 1970' → '(1960-1970)' (normalização de intervalo)"
+    ],
+    "subtitulo_maiuscula_corrigida": [
+      "sdbr15-042: análise (Análise →, início de subtítulo genérico)",
+      "sdbr15-059: ensaio (Ensaio →, início de subtítulo genérico)",
+      "sdbr15-078: la torre (La Torre →, subtítulo em espanhol)"
+    ]
+  },
+  "artigos_sem_correcao": [
+    "sdbr15-002", "sdbr15-004", "sdbr15-010", "sdbr15-011", "sdbr15-013",
+    "sdbr15-016", "sdbr15-017", "sdbr15-020", "sdbr15-026", "sdbr15-028",
+    "sdbr15-031", "sdbr15-032", "sdbr15-033", "sdbr15-034", "sdbr15-037",
+    "sdbr15-038", "sdbr15-039", "sdbr15-041", "sdbr15-043", "sdbr15-044",
+    "sdbr15-045", "sdbr15-047", "sdbr15-048", "sdbr15-050", "sdbr15-052",
+    "sdbr15-053", "sdbr15-055", "sdbr15-058", "sdbr15-061", "sdbr15-063",
+    "sdbr15-065", "sdbr15-066", "sdbr15-068", "sdbr15-070", "sdbr15-075",
+    "sdbr15-079", "sdbr15-081", "sdbr15-082", "sdbr15-084", "sdbr15-086",
+    "sdbr15-091", "sdbr15-092", "sdbr15-093", "sdbr15-096", "sdbr15-097",
+    "sdbr15-101"
+  ],
+  "notas": [
+    "Arquitetura Moderna, Arquitetura Moderna Brasileira, Arquitetura Moderna Argentina, Urbanismo Moderno → expressões consolidadas, sempre maiúscula",
+    "Modernidade (substantivado como conceito/período) → maiúscula",
+    "Modernismo (movimento histórico) → maiúscula",
+    "Brutalismo (movimento) → maiúscula",
+    "modernista/modernistas como adjetivo → minúscula",
+    "arquiteto/a como profissão genérica → minúscula",
+    "Estado (entidade política ou período como Estado Novo) → maiúscula",
+    "estado (genérico, 'estado de conservação') → minúscula",
+    "Patrimônio Cultural, Patrimônio Moderno, Patrimônio Histórico e Artístico Nacional → expressões consolidadas maiúscula",
+    "Nomes de edifícios, hospitais, hotéis, conjuntos, estações → sempre maiúscula",
+    "Nomes de instituições (universidades, ministérios, centros) → sempre maiúscula",
+    "Nomes de publicações (Revista Acrópole) → maiúscula",
+    "Nomes de eventos/roteiros (Roteiro da Fé, Seminário DOCOMOMO) → maiúscula",
+    "Subtítulo: primeira letra minúscula EXCETO nome próprio, sigla ou expressão consolidada",
+    "Espanhol (RAE): artigos (la, el) minúscula em subtítulo; disciplinas minúscula",
+    "Plano de Ação = nome de programa governamental → maiúscula",
+    "Cidade-Porto (conceito/nome de projeto para Caracaraí) → maiúscula",
+    "obras, ensino, conservação, desenho, funcionalismo como termos descritivos genéricos → minúscula",
+    "Siglas (IOT/HC, DATE-CETREC, R3, SENAI) → MAIÚSCULA",
+    "Travessão: hífen/en-dash isolado como separador → em-dash (—)"
+  ]
+}

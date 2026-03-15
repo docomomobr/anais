@@ -1,0 +1,122 @@
+{
+  "slug": "sdbr15",
+  "date": "2026-03-15",
+  "total_articles": 101,
+  "profile": {
+    "total": 101,
+    "locale_es": 1,
+    "abstract": 99,
+    "abstract_en": 99,
+    "abstract_es": 98,
+    "keywords": 100,
+    "keywords_en": 99,
+    "keywords_es": 97,
+    "references_": 100
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A10",
+      "article_id": "sdbr15-049",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Backfill pendente: \"______. Secretária de Estado dos Negócios da Agricultura. Fu...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdbr15-055",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 17,
+      "detail": "Backfill pendente: \"______. Para uma ontologia do ser social II. São Paulo: Boit...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr15-057",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "Ref muito longa (578 chars), possível concatenação: \"RIBEIRO, Patricia Pimenta Azevedo; CRUZ, Denise Galhardi Rodrigues De Oliveira. ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr15-058",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...lic capital in the capital city of Ceará\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr15-067",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (510 chars), possível concatenação: \"BAUDOIN TERÁN, Facundo; HERNÁNDEZ, S., Beatriz; GUITIÁN P., Carmen Dina. La vivi...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdbr15-076",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdbr15-097",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Backfill pendente: \"________. Severiano Porto: [Re] Pensando a Arquitetura [Mode...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdbr15-097",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 7,
+      "detail": "Backfill pendente: \"________. Arquitetura Contemporânea na Amazônia. In: Arquite...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdbr15-098",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr15-057",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (578 chars), possível concatenação: \"RIBEIRO, Patricia Pimenta Azevedo; CRUZ, Denise Galhardi Rodrigues De Oliveira. ...\""
+    },
+    {
+      "article_id": "sdbr15-067",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (510 chars), possível concatenação: \"BAUDOIN TERÁN, Facundo; HERNÁNDEZ, S., Beatriz; GUITIÁN P., Carmen Dina. La vivi...\""
+    }
+  ]
+}
