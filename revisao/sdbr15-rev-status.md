@@ -56,3 +56,16 @@ Data: 2026-03-15
 - ⏳ 1.6c Seções: 4 eixos criados, mapeamento pendente (PDFs sem eixo no header, Even3 JS-only)
 - ⏳ 1.6d Autores
 - ✅ 1.2c Revisão LLM abstracts+keywords: 101 artigos, 1 truncamento corrigido (058)
+
+
+## Revisão humana — 14 itens ✅
+020 title_es, 026 typo/RAE, 076 title_es/en, 095/031 splits, 099 title_en,
+100 kw_en, 016/075 subtitle_es lixo, 082 aspas, 033 MODERNISMO, 088 Ministerio,
+098 abstract_es, 077 Gobierno Federal, 086 kw
+
+## Fase 3 — Aprendizado ✅
+- 3.1 Diagnóstico: 8 garbled EN/ES, 4 backfills, 2 splits, 2 lixo subtítulos
+- 3.3 Scripts: garbled detection no clean_keywords (>25c sem espaço)
+- 3.5 Verificação: dry-run sdbr15/14/13 sem regressão
+- 3.7 Engenharia: threshold garbled 15→25 (falso positivo Environmentalism)
+- 3.8 CLAUDE.md: sdbr15 ✅ revisado
