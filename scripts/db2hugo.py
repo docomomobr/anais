@@ -155,7 +155,8 @@ def fetch_seminar(db, slug):
 
 def fetch_articles(db, slug):
     return db.execute("""
-        SELECT a.*, s.title as section_title, s.abbrev as section_abbrev
+        SELECT a.*, s.title as section_title, s.abbrev as section_abbrev,
+               s.hide_title as section_hide_title
         FROM articles a
         LEFT JOIN sections s ON s.id = a.section_id
         WHERE a.seminar_slug = ?
@@ -231,7 +232,7 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     lines.append(f'type: artigo')
     if article['document_type'] and article['document_type'] != 'artigo':
         lines.append(f'document_type: {article["document_type"]}')
-    if article['section_title']:
+    if article['section_title'] and not article['section_hide_title']:
         # Strip slug suffix from section title for display
         sec = article['section_title']
         # Remove " — sdnne08" suffix if present
@@ -240,6 +241,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
             if idx > 0:
                 sec = sec[:idx]
         lines.append(f'section_title: "{yaml_escape(sec)}"')
+        if seminar['section_label']:
+            lines.append(f'section_label: "{yaml_escape(seminar["section_label"])}"')
     lines.append(f'event_title: "{yaml_escape(seminar["title"])}"')
     if seminar['location']:
         lines.append(f'event_location: "{yaml_escape(seminar["location"])}"')

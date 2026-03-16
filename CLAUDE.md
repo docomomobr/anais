@@ -4,6 +4,7 @@ Convenções e referência rápida para migração dos anais dos seminários Doc
 
 Referência técnica OJS completa: [`docs/ojs_reference.md`](docs/ojs_reference.md)
 Regras de processamento de dados: [`docs/regras_dados.md`](docs/regras_dados.md)
+Fontes das seções/eixos temáticos: [`docs/fontes_secoes.md`](docs/fontes_secoes.md)
 
 ---
 

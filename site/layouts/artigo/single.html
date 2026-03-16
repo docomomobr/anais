@@ -46,7 +46,7 @@
     </a>
     {{ end }}
     <div class="event-meta-text">
-      {{ with .Params.section_title }}<p class="section-label">{{ . }}</p>{{ end }}
+      {{ with .Params.section_title }}<p class="section-label">{{ with $.Params.section_label }}<span class="section-type">{{ . }}:</span> {{ end }}{{ . }}</p>{{ end }}
       <p class="event-title-label">{{ .Params.event_title }}</p>
     </div>
   </div>

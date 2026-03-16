@@ -283,6 +283,7 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
   color: var(--green);
   margin-bottom: 0.25rem;
 }
+.section-type { font-weight: 400; color: var(--gray-500); }
 
 .author-list { margin: 0.75rem 0 1rem; line-height: 1.8; font-size: 0.9rem; }
 .author { white-space: nowrap; }
