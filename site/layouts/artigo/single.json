@@ -1,9 +1,9 @@
 {
   "id": "{{ .Params.slug }}",
   "type": "paper-conference",
-  "title": "{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}",
-  "container-title": "{{ .Params.event_title }}",
-  "event-title": "{{ .Params.event_title }}",
+  "title": {{ printf "%s%s" .Title (cond (ne (.Params.subtitle | default "") "") (printf ": %s" .Params.subtitle) "") | jsonify }},
+  "container-title": {{ .Params.event_title | jsonify }},
+  "event-title": {{ .Params.event_title | jsonify }},
   {{- with .Params.event_location }}
   "event-place": "{{ . }}",
   "publisher-place": "{{ . }}",
@@ -26,11 +26,11 @@
   "abstract": {{ . | jsonify }},
   {{- end }}
   {{- with .Params.keywords }}
-  "keyword": "{{ delimit . ", " }}",
+  "keyword": {{ delimit . ", " | jsonify }},
   {{- end }}
   "author": [
     {{- range $i, $au := .Params.authors }}{{ if $i }},{{ end }}
-    { "family": "{{ $au.familyname }}", "given": "{{ $au.givenname }}"{{ with $au.orcid }}, "ORCID": "https://orcid.org/{{ . }}"{{ end }} }
+    { "family": {{ $au.familyname | jsonify }}, "given": {{ $au.givenname | jsonify }}{{ with $au.orcid }}, "ORCID": "https://orcid.org/{{ . }}"{{ end }} }
     {{- end }}
   ]
 }
