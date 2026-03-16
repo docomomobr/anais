@@ -40,8 +40,15 @@
   {{ with .Params.pages }}<p class="meta">p. {{ . }}</p>{{ end }}
 
   <div class="event-meta">
-    {{ with .Params.section_title }}<p class="section-label">{{ . }}</p>{{ end }}
-    <p class="event-title-label">{{ .Params.event_title }}</p>
+    {{ with .CurrentSection }}
+    <a href="{{ .RelPermalink }}" class="event-meta-cover-link">
+      <img src="{{ printf "img/capas/%s.png" .Params.slug | relURL }}" alt="" class="event-meta-cover">
+    </a>
+    {{ end }}
+    <div class="event-meta-text">
+      {{ with .Params.section_title }}<p class="section-label">{{ . }}</p>{{ end }}
+      <p class="event-title-label">{{ .Params.event_title }}</p>
+    </div>
   </div>
 
   {{/* PDF — destaque principal */}}
@@ -81,7 +88,6 @@
   {{ end }}
   {{ with .Params.keywords_es }}
   <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
-  {{ end }}
   {{ end }}
 
   {{/* Como citar — ABNT NBR 6023:2018 */}}

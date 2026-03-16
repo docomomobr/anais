@@ -229,6 +229,18 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-15 — Hugo: capa do seminário na página do artigo
+
+**Template artigo (`site/layouts/artigo/single.html`):**
+- Capa do seminário exibida como miniatura (160px) no bloco `event-meta`, ao lado do eixo temático e título do evento
+- Clicável, leva à página do seminário (via `.CurrentSection`)
+- Capas copiadas de `nacionais/capas/` para `site/static/img/capas/` (15 PNGs)
+
+**CSS (`site/static/css/style.css`):**
+- `.event-meta` agora é flex container com gap
+- `.event-meta-cover`: 160px, borda, border-radius, hover verde
+- `.event-meta-text`: wrapper para section_label + event_title
+
 ### 2026-03-15 — sdbr12/sdbr13 revisados, Fase 3 refatorada, checks A26/A27
 
 **sdbr13** (181 artigos): pipeline completo (Fases 0-2), revisão humana (10 itens), Fase 3 completa.

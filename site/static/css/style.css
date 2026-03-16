@@ -299,7 +299,22 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
   border-left: 3px solid var(--green-light);
   font-size: var(--font-sm);
   color: var(--gray-700);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
+.event-meta-cover-link { flex-shrink: 0; line-height: 0; }
+.event-meta-cover {
+  width: 160px;
+  max-width: 160px;
+  height: auto;
+  border: 1px solid var(--gray-300);
+  border-radius: 2px;
+  transition: border-color 0.15s;
+  display: block;
+}
+.event-meta-cover-link:hover .event-meta-cover { border-color: var(--green); }
+.event-meta-text { flex: 1; }
 .event-meta p { margin-bottom: 0.15rem; }
 .event-title-label {
   font-size: 1rem;
