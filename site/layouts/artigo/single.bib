@@ -1,7 +1,7 @@
-@inproceedings{ {{- .Params.slug -}},
-  title     = { {{- .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end -}} },
+@inproceedings{ {{- .Params.slug | replaceRE "-" "_" -}},
+  title     = { {{- .Title | replaceRE "&" "\\&" }}{{ with .Params.subtitle }}: {{ . | replaceRE "&" "\\&" }}{{ end -}} },
   author    = { {{- range $i, $au := .Params.authors }}{{ if $i }} and {{ end }}{{ $au.familyname }}, {{ $au.givenname }}{{ end -}} },
-  booktitle = { {{- .Params.event_title -}} },
+  booktitle = { {{- .Params.event_title | replaceRE "&" "\\&" -}} },
   year      = { {{- dateFormat "2006" .Date -}} },
   {{- with .Params.event_location }}
   address   = { {{- . -}} },
@@ -17,5 +17,8 @@
   {{- end }}
   {{- with .Params.zenodo_pdf_url }}
   url       = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.event_publisher }}
+  organization = { {{- . -}} },
   {{- end }}
 }

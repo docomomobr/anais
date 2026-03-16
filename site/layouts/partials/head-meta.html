@@ -1,3 +1,10 @@
+{{/* 0. Meta description */}}
+{{ if eq .Type "artigo" }}
+{{ with .Params.abstract -}}
+<meta name="description" content="{{ . | plainify | truncate 160 }}">
+{{ end -}}
+{{ end }}
+
 {{/* 1. Highwire Press meta tags (Google Scholar) */}}
 {{ if eq .Type "artigo" }}
 <meta name="citation_title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
@@ -26,6 +33,9 @@
 {{ end -}}
 {{ with .Params.abstract -}}
 <meta name="citation_abstract" content="{{ . | plainify | truncate 500 }}">
+{{ end -}}
+{{ range .Params.keywords -}}
+<meta name="citation_keywords" content="{{ . }}">
 {{ end -}}
 <meta name="citation_language" content="{{ .Params.locale | default "pt-BR" }}">
 {{ with .Params.pages -}}
@@ -59,7 +69,7 @@
 <meta name="DC.identifier" content="doi:{{ . }}">
 {{ end -}}
 {{ with .Params.event_isbn -}}
-<meta name="DC.relation.isPartOf" content="ISBN {{ . }}">
+<meta name="DC.relation.isPartOf" content="urn:isbn:{{ . }}">
 {{ end -}}
 <meta name="DC.source" content="{{ .Params.event_title }}">
 {{ with .Params.license_url -}}
@@ -112,4 +122,8 @@
 {{ with $.Params.abstract -}}
 <meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
 {{ end -}}
+{{ with $.Params.event_slug -}}
+<meta name="twitter:image" content="{{ printf "img/capas/%s.png" . | absURL }}">
+{{ end -}}
+<meta property="og:image" content="{{ with $.Params.event_slug }}{{ printf "img/capas/%s.png" . | absURL }}{{ else }}{{ $.Site.Params.ogImage | absURL }}{{ end }}">
 {{ end }}

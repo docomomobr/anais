@@ -25,9 +25,8 @@ Pipeline para publicação dos anais Docomomo Brasil. Substitui o pipeline OJS (
 - **Download de PDF**: link direto para o arquivo no Zenodo (`zenodo.org/records/{id}/files/{arquivo}.pdf`)
 - **DOI**: exibido na página do artigo para citação acadêmica (`doi.org/10.5281/zenodo.{id}`)
 - Não usar o DOI como link de download (landing page adiciona clique extra)
-- **sdbr04**: os 79 artigos são apenas resumos (sem texto completo). Não subir PDFs ao Zenodo para este seminário.
-- **Resumos (document_type=resumo)**: não subir PDFs ao Zenodo — o conteúdo do resumo vai integralmente nos metadados do site (abstract, keywords, autores). Upload de PDF de resumo é redundante.
-- **Artigos com DOI externo**: sempre subir o PDF para o Zenodo (fonte canônica do arquivo). Na página do artigo no site Hugo: exibir **um DOI só** — o externo (Even3, periódico) quando existir, senão o do Zenodo. Dois DOIs confundem os autores. O link de download do PDF sempre aponta para o Zenodo. Nota: o Even3 vende DOI como serviço opcional — a maioria dos artigos NÃO tem DOI individual (só o DOI da coleção). Verificar artigo por artigo (`curl -I https://doi.org/{DOI}`).
+- **Resumos (document_type=resumo)**: não subir PDFs ao Zenodo — o conteúdo do resumo vai integralmente nos metadados do site (abstract, keywords, autores). Upload de PDF de resumo é redundante. Afeta: sdbr04 (79), sdnne06 (43), sdbr09 (1), sdbr11 (1).
+- **Artigos com DOI externo**: sempre subir o PDF para o Zenodo (fonte canônica do arquivo). Na página do artigo: exibir **um DOI só** — o externo (Even3, periódico) quando existir, senão o do Zenodo. O link de download do PDF sempre aponta para o Zenodo.
 
 ### Estimativa de storage
 
@@ -39,61 +38,167 @@ Pipeline para publicação dos anais Docomomo Brasil. Substitui o pipeline OJS (
 
 ## Pré-requisitos
 
-Banco `anais.db` com tratamento completo (ver [`pipeline_tratamento.md`](pipeline_tratamento.md)):
+Banco `anais.db` com tratamento completo (ver [`pipeline_revisao.md`](pipeline_revisao.md)):
 
+- [ ] Todos os seminários revisados (pipeline de revisão completo)
+- [ ] Seções mapeadas para todos os artigos (ou aceitável que faltem para sdbr02, 03, 06, 07)
 - [ ] Títulos normalizados — `scripts/normalizar_maiusculas.py`
 - [ ] Referências limpas — `scripts/clean_references.py` + `scripts/check_references.py`
 - [ ] Autores deduplicados — `scripts/dedup_authors.py`
 - [ ] ORCIDs buscados — `scripts/fetch_orcid.py`
 - [ ] Fichas catalográficas revisadas — `revisao/fichas_catalograficas.yaml`
+- [ ] `document_type` correto para todos os artigos (artigo/resumo/mesa)
 - [ ] Dump atualizado — `python3 scripts/dump_anais_db.py`
+
+---
+
+## Fase 0 — Limpeza pré-produção
+
+### 0.1. Limpar DOIs de sandbox
+
+Se houve testes no sandbox, os DOIs de teste (`10.5072/zenodo.*`) podem ter sido gravados no banco. Limpar:
+
+```bash
+sqlite3 anais.db "UPDATE articles SET doi = NULL, zenodo_record_id = NULL WHERE doi LIKE '10.5072/%'"
+```
+
+### 0.2. Verificar integridade
+
+```bash
+# Artigos sem seção (aceitar ou resolver antes)
+sqlite3 anais.db "SELECT seminar_slug, COUNT(*) FROM articles WHERE section_id IS NULL GROUP BY seminar_slug"
+
+# document_type inconsistente
+sqlite3 anais.db "SELECT document_type, COUNT(*) FROM articles GROUP BY document_type"
+
+# Artigos com PDF mas sem file no banco
+sqlite3 anais.db "SELECT id FROM articles WHERE file IS NULL AND document_type='artigo' AND seminar_slug LIKE 'sdbr%'"
+```
 
 ---
 
 ## Fase 1 — Upload para Zenodo
 
-### 1.1. Upload dos PDFs
+O script `upload_zenodo.py` usa a **API InvenioRDM** (`POST /api/records`), não a legacy.
+
+### 1.0. Testar no sandbox
+
+Já validado (2026-03-16): 1 artigo de cada seminário nacional subiu sem erros.
 
 ```bash
-# Sandbox (teste)
-python3 scripts/upload_zenodo.py --env sandbox --dry-run
-python3 scripts/upload_zenodo.py --env sandbox
+# Dry-run para inspecionar payload
+python3 scripts/upload_zenodo.py --sandbox --dry-run --seminar sdbr15 --limit 1
 
-# Produção
-python3 scripts/upload_zenodo.py --env production --dry-run
-python3 scripts/upload_zenodo.py --env production
+# Upload real no sandbox
+python3 scripts/upload_zenodo.py --sandbox --seminar sdbr15 --limit 1
+```
+
+**ATENÇÃO**: O script grava DOIs no banco mesmo no modo sandbox. Rodar Fase 0.1 antes de ir para produção.
+
+### 1.1. Upload dos artigos (produção)
+
+Um seminário por vez, na ordem. Verificar resultado antes de prosseguir.
+
+```bash
+# Dry-run primeiro
+python3 scripts/upload_zenodo.py --dry-run --seminar sdbr01
+
+# Upload real
+python3 scripts/upload_zenodo.py --seminar sdbr01
 ```
 
 O script:
-- Lê `anais.db` + PDFs dos artigos
-- Cria um registro Zenodo por artigo (tipo: conference paper)
-- Campos: creators, contributors (editors), notes (ficha catalográfica), conference_url, ISBN
-- Comunidade: `docomomobr`
-- Agrupamento por keyword com nome do seminário
-- `--skip-existing`: pula artigos já publicados no Zenodo
-- Tokens em `.env`: `ZENODO_SANDBOX_TOKEN`, `ZENODO_TOKEN`
+- Cria um registro Zenodo por artigo (tipo: `publication-conferencepaper`)
+- Upload do PDF em 3 etapas (initiate → content → commit)
+- Metadados: creators (com ORCID e afiliação), contributors (editors), meeting (conference), imprint (ISBN, pages), subjects (keywords PT+EN+ES), description (abstracts PT+EN+ES), additional_titles (EN, ES)
+- Pula automaticamente: resumos, artigos sem PDF, artigos sem autores, artigos que já têm DOI
+- Grava DOI no banco após publicação bem-sucedida
+- Rate limit: 1.5s entre artigos
+- Log: `/tmp/zenodo_{slug}_results.json`
+- Token em `.env`: `ZENODO_TOKEN` (produção) ou `ZENODO_SANDBOX_TOKEN` (sandbox)
 
-**IMPORTANTE — API InvenioRDM (nova)**: O Zenodo migrou para InvenioRDM. Os testes anteriores na sandbox usaram a API legacy (`/api/deposit/depositions`), que tem limitações (ex: `imprint_isbn` falha silenciosamente com ISBNs inválidos). **Usar a nova API** (`/api/records/{id}/draft`) para produção. Ver detalhes em `CLAUDE.md` (seção "Zenodo API").
+### 1.2. Upload dos volumes completos (opcional)
 
-Antes de subir os ~920 artigos, testar na sandbox com a nova API:
-1. Criar 1 depósito via nova API
-2. Verificar que `custom_fields["imprint:imprint"]` funciona (ISBN, place, title)
-3. Verificar que `custom_fields["meeting:meeting"]` funciona (conference metadata)
-4. Só depois escalar para produção
-
-### 1.2. Verificar
+PDF dos anais inteiros, para seminários que possuem `volume_pdf`:
 
 ```bash
-python3 scripts/upload_zenodo.py --env production --verify
+python3 scripts/upload_zenodo.py --seminar sdbr01 --upload-volume
 ```
 
-### 1.3. Registrar DOIs no banco
+### 1.3. Comunidade Zenodo (opcional)
 
-Após upload, registrar os DOIs e record_ids no `anais.db`:
+Para submeter à comunidade `docomomobr` (se existir na produção):
 
 ```bash
-python3 scripts/upload_zenodo.py --env production --sync-ids
+python3 scripts/upload_zenodo.py --seminar sdbr01 --community docomomobr
 ```
+
+O script cria o review request, submete (que também publica) e auto-aceita se o token for do curador.
+
+### 1.4. Verificar
+
+Após upload de cada seminário, verificar 2-3 registros manualmente:
+
+- Abrir no Zenodo: título, autores, ORCID, abstract, keywords
+- Baixar o PDF: verificar que é o arquivo correto
+- Conferir meeting, ISBN, pages
+
+### 1.5. Resumo de artigos para upload
+
+| Seminário | Artigos | Com PDF | Resumos (skip) | Upload |
+|-----------|---------|---------|----------------|--------|
+| sdbr01 | 6 | 6 | 0 | 6 |
+| sdbr02 | 22 | 22 | 0 | 22 |
+| sdbr03 | 56 | 56 | 0 | 56 |
+| sdbr04 | 79 | 79 | 79 | 0 |
+| sdbr05 | 56 | 56 | 0 | 56 |
+| sdbr06 | 64 | 64 | 0 | 64 |
+| sdbr07 | 62 | 62 | 0 | 62 |
+| sdbr08 | 188 | 188 | 0 | 188 |
+| sdbr09 | 170 | 170 | 24 | 146 |
+| sdbr10 | 118 | 118 | 0 | 118 |
+| sdbr11 | 101 | 101 | 1 | 100 |
+| sdbr12 | 82 | 82 | 0 | 82 |
+| sdbr13 | 181 | 181 | 0 | 181 |
+| sdbr14 | 122 | 122 | 0 | 122 |
+| sdbr15 | 101 | 101 | 0 | 101 |
+| **Total** | **1408** | **1408** | **104** | **~1304** |
+
+### 1.6. Resumo de artigos regionais para upload
+
+| Seminário | Artigos | Com PDF | Resumos (skip) | Upload |
+|-----------|---------|---------|----------------|--------|
+| sdmg01 | 26 | 26 | 0 | 26 |
+| sdnne01 | 44 | 44 | 0 | 44 |
+| sdnne02 | 33 | 33 | 0 | 33 |
+| sdnne03 | 41 | 41 | 0 | 41 |
+| sdnne04 | 45 | 45 | 0 | 45 |
+| sdnne05 | 32 | 32 | 0 | 32 |
+| sdnne06 | 109 | 66 | 43 | 66 |
+| sdnne07 | 65 | 65 | 0 | 65 |
+| sdnne08 | 41 | 41 | 0 | 41 |
+| sdnne09 | 50 | 50 | 0 | 50 |
+| sdnne10 | 85 | 85 | 0 | 85 |
+| sdpr01 | 26 | 26 | 0 | 26 |
+| sdpr02 | 19 | 19 | 0 | 19 |
+| sdrj02 | 19 | 19 | 0 | 19 |
+| sdrj03 | 4 | 4 | 0 | 4 |
+| sdrj04 | 17 | 17 | 0 | 17 |
+| sdsp03 | 74 | 74 | 0 | 74 |
+| sdsp05 | 68 | 68 | 0 | 68 |
+| sdsp06 | 37 | 37 | 0 | 37 |
+| sdsp07 | 43 | 43 | 0 | 43 |
+| sdsp08 | 40 | 40 | 0 | 40 |
+| sdsp09 | 27 | 27 | 0 | 27 |
+| sdsul01 | 48 | 48 | 0 | 48 |
+| sdsul02 | 35 | 35 | 0 | 35 |
+| sdsul03 | 39 | 39 | 0 | 39 |
+| sdsul04 | 46 | 46 | 0 | 46 |
+| sdsul05 | 37 | 37 | 0 | 37 |
+| sdsul06 | 24 | 24 | 0 | 24 |
+| sdsul07 | 46 | 46 | 0 | 46 |
+| sdsul08 | 51 | 51 | 0 | 51 |
+| **Total** | **1311** | **1268** | **43** | **~1268** |
 
 ---
 
@@ -106,9 +211,11 @@ python3 scripts/db2hugo.py --all --outdir site/content
 ```
 
 O script gera:
-- Uma página por seminário (issue)
-- Uma página por artigo (com metadados, link para PDF no Zenodo, DOI)
-- Índices por região/grupo
+- `_index.md` na raiz (homepage)
+- `_index.md` por âmbito (brasil, se, nne, sul)
+- `_index.md` por seminário (com capa, ficha, metadados)
+- `index.md` por artigo (front matter completo + referências no body)
+- DOI e `zenodo_pdf_url` vêm do banco (gravados na Fase 1)
 
 ### 2.2. Build
 
@@ -116,44 +223,126 @@ O script gera:
 cd site && hugo
 ```
 
-Verificar: build sem erros, `public/robots.txt` existe, `public/sitemap.xml` com URLs de artigos.
+Verificar:
+- Build sem erros
+- `public/sitemap.xml` com URLs de artigos
+- `public/robots.txt` existe
 
 ### 2.3. Indexar busca (Pagefind)
 
 ```bash
-npx pagefind --site public --glob "artigos/**/*.html"
+npx pagefind --site public
 ```
 
-### 2.4. Deploy
+(Sem `--glob` — indexa tudo. Pagefind detecta automaticamente as páginas relevantes.)
 
-Push para o repositório GitHub. GitHub Pages publica automaticamente via GitHub Actions.
+### 2.4. Preview local
+
+```bash
+cd site && hugo server
+```
+
+Verificar:
+- Navegação entre âmbitos, seminários e artigos
+- Capas exibidas nas páginas de artigo e de seminário
+- Links de PDF apontam para Zenodo
+- DOIs aparecem e resolvem
+- Busca funciona (Pagefind)
+- Abstracts em PT/EN/ES renderizam
+- Keywords são links para taxonomia
 
 ---
 
-## Fase 3 — Verificação final
+## Fase 3 — Deploy
 
+### 3.1. Configurar GitHub Actions
+
+Criar `.github/workflows/hugo.yml`:
+
+```yaml
+name: Deploy Hugo site
+on:
+  push:
+    branches: [gh-pages]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+      - run: hugo --minify
+        working-directory: site
+      - run: npx pagefind --site site/public
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site/public
+          cname: anais.docomomobrasil.com
+```
+
+### 3.2. Deploy
+
+```bash
+# Gerar conteúdo e buildar
+python3 scripts/db2hugo.py --all --outdir site/content
+cd site && hugo
+
+# Commit do conteúdo gerado na branch gh-pages
+# (ou push para main se o workflow monitora main)
+```
+
+### 3.3. Configurar DNS
+
+No provedor de DNS de `docomomobrasil.com`:
+- Criar CNAME `anais` → `docomomobr.github.io`
+- No GitHub Pages (repo settings): adicionar custom domain `anais.docomomobrasil.com`, habilitar HTTPS
+
+---
+
+## Fase 4 — Verificação final
+
+### Checklist funcional
+
+- [ ] Site acessível em `anais.docomomobrasil.com`
+- [ ] HTTPS funciona (certificado Let's Encrypt via GitHub Pages)
 - [ ] Build sem erros
 - [ ] Busca funciona (Pagefind)
-- [ ] Links para PDFs no Zenodo funcionam (spot check 5-10 artigos)
-- [ ] DOIs resolvem corretamente
+- [ ] Links para PDFs no Zenodo funcionam (spot check 5-10 artigos de seminários diferentes)
+- [ ] DOIs resolvem corretamente (`curl -I https://doi.org/10.5281/zenodo.XXXXX`)
 - [ ] Metadados completos (título, autores, resumo, keywords, referências)
 - [ ] ORCIDs aparecem nos autores cadastrados
-- [ ] Capas dos seminários exibidas
-- [ ] Navegação entre seminários e artigos funciona
+- [ ] Capas dos seminários exibidas (página do artigo e do seminário)
+- [ ] Navegação: início → âmbito → seminário → artigo → voltar
+- [ ] Taxonomias: autores e palavras-chave listam e filtram
 - [ ] `robots.txt` e `sitemap.xml` acessíveis
-- [ ] Analytics configurado (GoatCounter)
+- [ ] Resumos (sdbr04 etc.) aparecem sem botão "Baixar PDF"
 
-### 3.1. Pós-deploy
+### Checklist SEO / indexação
 
+- [ ] `<meta>` tags (Open Graph, Dublin Core) presentes nas páginas de artigo
+- [ ] JSON-LD (ScholarlyArticle) renderiza no HTML
+- [ ] COinS tags presentes
+- [ ] Sitemap submetido ao Google Search Console
 - [ ] Submit Google Scholar: [scholar.google.com/intl/en/scholar/inclusion.html](https://scholar.google.com/intl/en/scholar/inclusion.html)
 - [ ] Verificar indexação após 2–4 semanas
+
+### Checklist Zenodo
+
+- [ ] Todos os registros publicados e acessíveis
+- [ ] DOIs resolvem para a landing page correta
+- [ ] PDFs baixam corretamente
+- [ ] Metadados no Zenodo batem com o site (título, autores, abstract)
+- [ ] Comunidade `docomomobr` aparece nos registros (se configurada)
 
 ---
 
 ## DOIs
 
-- **DOIs via ABEC/Crossref**: DOI por edição (não por artigo). sdbr15 e sdnne10 já têm DOIs Even3/Crossref (prefixo 10.29327).
 - **DOIs Zenodo**: cada artigo recebe DOI individual (`10.5281/zenodo.{id}`)
+- **DOIs externos (Even3/Crossref)**: sdbr15 e sdnne10 já têm DOIs Even3 (prefixo `10.29327`). Estes DOIs devem ser preservados — o script pula artigos que já têm DOI.
+- **DOIs de coleção**: Even3 vende DOI como serviço opcional. A maioria dos artigos NÃO tem DOI individual, apenas o DOI da coleção. Verificar artigo por artigo se necessário.
 
 ---
 
@@ -161,8 +350,8 @@ Push para o repositório GitHub. GitHub Pages publica automaticamente via GitHub
 
 | Script | Fase | Função |
 |--------|------|--------|
-| `upload_zenodo.py` | 1 | Upload PDFs para Zenodo (sandbox/production, dry-run, skip-existing) |
-| `db2hugo.py` | 2 | Gera conteúdo Hugo a partir do anais.db |
+| `upload_zenodo.py` | 1 | Upload PDFs para Zenodo via API InvenioRDM. `--sandbox`, `--dry-run`, `--seminar`, `--limit`, `--community`, `--upload-volume` |
+| `db2hugo.py` | 2 | Gera conteúdo Hugo a partir do anais.db. `--all`, `--seminar`, `--outdir` |
 
 ---
 

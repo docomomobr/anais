@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
-"""Upload artigos do anais.db para o Zenodo (ou sandbox) via REST API.
+"""Upload artigos do anais.db para o Zenodo (ou sandbox) via API InvenioRDM.
+
+Usa a API nova (/api/records) — NÃO a legacy (/api/deposit/depositions).
 
 Uso:
-    # Teste no sandbox (3 primeiros artigos do sdnne08)
-    python3 scripts/upload_zenodo.py --sandbox --token TOKEN --seminar sdnne08 --limit 3
+    # Teste no sandbox
+    python3 scripts/upload_zenodo.py --sandbox --seminar sdbr15 --limit 1
 
-    # Seminário completo no sandbox
-    python3 scripts/upload_zenodo.py --sandbox --token TOKEN --seminar sdnne08
+    # Dry run (mostra payload sem enviar)
+    python3 scripts/upload_zenodo.py --dry-run --seminar sdbr15
 
-    # Produção real
-    python3 scripts/upload_zenodo.py --token TOKEN --seminar sdnne08
+    # Produção
+    python3 scripts/upload_zenodo.py --seminar sdbr15
 
-    # Dry run (mostra metadados sem enviar)
-    python3 scripts/upload_zenodo.py --dry-run --seminar sdnne08
+    # Upload do volume completo (anais em PDF único)
+    python3 scripts/upload_zenodo.py --sandbox --seminar sdbr15 --upload-volume
 
+Tokens em .env: ZENODO_SANDBOX_TOKEN, ZENODO_TOKEN
 Requer: requests (pip install requests)
 """
 
@@ -25,9 +28,42 @@ import sys
 import time
 
 import requests
+from requests.exceptions import ConnectionError, Timeout
 
-DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'anais.db')
-PDF_BASE = os.path.join(os.path.dirname(__file__), '..')
+
+RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+
+
+def _retry(func, *args, max_attempts=3, backoff=2, **kwargs):
+    """Retry wrapper with exponential backoff for network calls."""
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = func(*args, **kwargs)
+        except (ConnectionError, Timeout) as e:
+            if attempt == max_attempts:
+                raise
+            wait = backoff ** attempt
+            print(f"  Rede: tentativa {attempt}/{max_attempts} falhou ({e}), "
+                  f"retentando em {wait}s...")
+            time.sleep(wait)
+            continue
+        # Check for retryable HTTP status codes
+        if r.status_code in RETRYABLE_STATUS:
+            if attempt == max_attempts:
+                return r
+            if r.status_code == 429:
+                wait = int(r.headers.get('Retry-After', backoff ** attempt))
+            else:
+                wait = backoff ** attempt
+            print(f"  HTTP {r.status_code}: tentativa {attempt}/{max_attempts}, "
+                  f"retentando em {wait}s...")
+            time.sleep(wait)
+            continue
+        return r
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, 'anais.db')
+PDF_BASE = BASE_DIR
 
 ZENODO_URL = 'https://zenodo.org'
 SANDBOX_URL = 'https://sandbox.zenodo.org'
@@ -49,6 +85,7 @@ SLUG_TO_AMBITO = {
     'sdrj': 'se',
     'sdsp': 'se',
     'sdsul': 'sul',
+    'sdpr': 'sul',
 }
 
 
@@ -65,13 +102,14 @@ def fetch_articles(db, seminar_slug, limit=None):
                a.abstract_en, a.abstract_es,
                a.keywords_en, a.keywords_es,
                a.title_en, a.subtitle_en,
-               a.file, a.locale, a.pages, a.doi, a.document_type,
+               a.title_es, a.subtitle_es,
+               a.file, a.locale, a.pages, a.doi, a.zenodo_record_id, a.document_type,
                s.title as section_title,
                sem.title as sem_title, sem.subtitle as sem_subtitle,
                sem.date_published, sem.location, sem.isbn, sem.publisher,
                sem.editors, sem.description as sem_description
         FROM articles a
-        JOIN sections s ON s.id = a.section_id
+        LEFT JOIN sections s ON s.id = a.section_id
         JOIN seminars sem ON sem.slug = a.seminar_slug
         WHERE a.seminar_slug = ?
         ORDER BY a.id
@@ -97,20 +135,17 @@ def find_pdf(article):
     """Locate the PDF file for an article."""
     if not article['file']:
         return None
-    # Try seminar-specific paths
-    slug = article['id'].rsplit('-', 1)[0]  # sdnne08-001 -> sdnne08
-    # Map slug to directory
+    slug = article['id'].rsplit('-', 1)[0]
     if slug.startswith('sdbr'):
         base = os.path.join(PDF_BASE, 'nacionais', slug)
     elif slug.startswith('sdnne'):
         base = os.path.join(PDF_BASE, 'regionais', 'nne', slug)
-    elif slug.startswith('sdsul'):
+    elif slug.startswith('sdsul') or slug.startswith('sdpr'):
         base = os.path.join(PDF_BASE, 'regionais', 'sul', slug)
     elif slug.startswith(('sdsp', 'sdrj', 'sdmg')):
         base = os.path.join(PDF_BASE, 'regionais', 'se', slug)
     else:
         base = PDF_BASE
-
     pdf_path = os.path.join(base, 'pdfs', article['file'])
     if os.path.isfile(pdf_path):
         return pdf_path
@@ -125,8 +160,96 @@ def _slug_to_ambito(slug):
     return slug
 
 
-def build_metadata(article, authors, seminar_slug):
-    """Build Zenodo metadata dict from DB data."""
+def _parse_keywords(raw):
+    """Parse keywords from DB (JSON array string or comma-separated)."""
+    if not raw:
+        return []
+    if raw.startswith('['):
+        return json.loads(raw)
+    return [k.strip() for k in raw.split(',') if k.strip()]
+
+
+def _build_creators(authors):
+    """Build InvenioRDM creators list from DB authors."""
+    creators = []
+    for au in authors:
+        person = {
+            'type': 'personal',
+            'given_name': au['givenname'],
+            'family_name': au['familyname'],
+        }
+        if au['orcid']:
+            person['identifiers'] = [
+                {'scheme': 'orcid', 'identifier': au['orcid']}
+            ]
+        creator = {'person_or_org': person}
+        if au['affiliation']:
+            creator['affiliations'] = [{'name': au['affiliation']}]
+        creators.append(creator)
+    return creators
+
+
+def _build_editors(editors_json):
+    """Build InvenioRDM contributors list from seminar editors."""
+    if not editors_json:
+        return []
+    editors_list = json.loads(editors_json) if editors_json.startswith('[') else [editors_json]
+    contributors = []
+    for name in editors_list:
+        name = name.strip()
+        if not name:
+            continue
+        parts = name.rsplit(' ', 1)
+        if len(parts) == 2:
+            person = {'type': 'personal', 'given_name': parts[0], 'family_name': parts[1]}
+        else:
+            person = {'type': 'personal', 'family_name': name, 'given_name': ''}
+        contributors.append({
+            'person_or_org': person,
+            'role': {'id': 'editor'},
+        })
+    return contributors
+
+
+def _build_description(article):
+    """Build HTML description with abstracts in all available languages."""
+    parts = []
+
+    is_resumo = article['document_type'] == 'resumo'
+    if is_resumo:
+        parts.append('<p><em>Resumo de comunicação apresentada em evento.</em></p>')
+
+    # Primary abstract (PT)
+    if article['abstract']:
+        parts.append(f"<p><strong>Resumo:</strong> {article['abstract']}</p>")
+
+    # Abstract EN
+    if article['abstract_en']:
+        parts.append(f"<p><strong>Abstract:</strong> {article['abstract_en']}</p>")
+
+    # Abstract ES
+    if article['abstract_es']:
+        parts.append(f"<p><strong>Resumen:</strong> {article['abstract_es']}</p>")
+
+    if not parts:
+        return '<p>(sem resumo)</p>'
+
+    # Se só tem abstract num idioma, não precisa do label
+    non_resumo = [p for p in parts if '<em>Resumo de comunicação' not in p]
+    if len(non_resumo) == 1:
+        # Remove o label (strong) quando é abstract único
+        text = non_resumo[0]
+        for label in ['<strong>Resumo:</strong> ', '<strong>Abstract:</strong> ', '<strong>Resumen:</strong> ']:
+            text = text.replace(label, '')
+        if is_resumo:
+            return parts[0] + '\n' + text
+        return text
+
+    return '\n'.join(parts)
+
+
+def build_record_payload(article, authors, seminar_slug, license_id='cc-by-4.0'):
+    """Build InvenioRDM record payload from DB data."""
     is_resumo = article['document_type'] == 'resumo'
 
     # Title: combine title + subtitle
@@ -137,205 +260,347 @@ def build_metadata(article, authors, seminar_slug):
         title += ' [Resumo]'
 
     # Creators
-    creators = []
-    for au in authors:
-        creator = {'name': f"{au['familyname']}, {au['givenname']}"}
-        if au['affiliation']:
-            creator['affiliation'] = au['affiliation']
-        if au['orcid']:
-            creator['orcid'] = au['orcid']
-        creators.append(creator)
+    creators = _build_creators(authors)
 
-    # Keywords (article keywords + seminar title for grouping)
-    # Fallback: usa keywords_en ou keywords_es se keywords principal está vazio
-    keywords = []
-    kw_raw = article['keywords']
-    if not kw_raw and article['locale'] == 'en':
-        kw_raw = article['keywords_en']
-    if not kw_raw and article['locale'] == 'es':
-        kw_raw = article['keywords_es']
-    if not kw_raw:
-        kw_raw = article['keywords_en'] or article['keywords_es']
-    if kw_raw:
-        if kw_raw.startswith('['):
-            keywords = json.loads(kw_raw)
-        else:
-            keywords = [k.strip() for k in kw_raw.split(',') if k.strip()]
-    keywords.append(article['sem_title'])
+    # Keywords → subjects (all languages, deduplicated)
+    subjects = []
+    seen = set()
+    for kw_field in ['keywords', 'keywords_en', 'keywords_es']:
+        for kw in _parse_keywords(article[kw_field]):
+            kw_lower = kw.lower()
+            if kw_lower not in seen:
+                seen.add(kw_lower)
+                subjects.append({'subject': kw})
+    # Add seminar title for grouping
+    sem_lower = article['sem_title'].lower()
+    if sem_lower not in seen:
+        subjects.append({'subject': article['sem_title']})
 
     # Language
     language = LOCALE_TO_ISO639.get(article['locale'], 'por')
 
-    # Description: use abstract na língua do artigo, com fallback
-    locale = article['locale']
-    description = article['abstract']
-    if not description:
-        if locale == 'en' and article['abstract_en']:
-            description = article['abstract_en']
-        elif locale == 'es' and article['abstract_es']:
-            description = article['abstract_es']
-        elif article['abstract_en']:
-            description = article['abstract_en']
-        elif article['abstract_es']:
-            description = article['abstract_es']
-        else:
-            description = '(sem resumo)'
-    if is_resumo:
-        description = '<p><em>Resumo de comunicação apresentada em evento.</em></p>\n' + description
+    # Description (all abstracts)
+    description = _build_description(article)
 
-    metadata = {
-        'title': title,
-        'upload_type': 'publication',
-        'publication_type': 'conferencepaper',
-        'description': description,
-        'creators': creators,
-        'language': language,
-        'access_right': 'open',
-        'license': 'zenodo-freetoread-1.0',
-        'publication_date': article['date_published'],
-        'conference_title': article['sem_title'],
-        'conference_place': article['location'] or '',
-        'conference_url': f'https://anais.docomomobrasil.com/{_slug_to_ambito(seminar_slug)}/{seminar_slug}',
-        'partof_title': f"Anais do {article['sem_title']}",
+    # Conference URL
+    ambito = _slug_to_ambito(seminar_slug)
+    conference_url = f'https://anais.docomomobrasil.com/{ambito}/{seminar_slug}'
+
+    # Additional titles (EN, ES)
+    additional_titles = []
+    if article['title_en']:
+        t_en = article['title_en']
+        if article['subtitle_en']:
+            t_en += ': ' + article['subtitle_en']
+        additional_titles.append({
+            'title': t_en,
+            'type': {'id': 'translated-title'},
+            'lang': {'id': 'eng'},
+        })
+    if article['title_es']:
+        t_es = article['title_es']
+        if article['subtitle_es']:
+            t_es += ': ' + article['subtitle_es']
+        additional_titles.append({
+            'title': t_es,
+            'type': {'id': 'translated-title'},
+            'lang': {'id': 'spa'},
+        })
+
+    payload = {
+        'access': {
+            'record': 'public',
+            'files': 'public',
+        },
+        'files': {
+            'enabled': True,
+        },
+        'metadata': {
+            'title': title,
+            'resource_type': {'id': 'publication-conferencepaper'},
+            'publication_date': article['date_published'],
+            'creators': creators,
+            'description': description,
+            'languages': [{'id': language}],
+            # License: cc-by-4.0 by default; override via --license argument
+            'rights': [{'id': license_id}],
+            'publisher': article['publisher'] or 'Docomomo Brasil',
+            'subjects': subjects,
+            'related_identifiers': [
+                {
+                    'identifier': conference_url,
+                    'scheme': 'url',
+                    'relation_type': {'id': 'ispartof'},
+                    'resource_type': {'id': 'publication-conferenceproceeding'},
+                }
+            ],
+        },
+        'custom_fields': {
+            'meeting:meeting': {
+                'title': article['sem_title'],
+                'place': article['location'] or '',
+                'url': conference_url,
+            },
+            'imprint:imprint': {
+                'title': f"Anais do {article['sem_title']}",
+            },
+        },
     }
 
+    # Additional titles
+    if additional_titles:
+        payload['metadata']['additional_titles'] = additional_titles
+
+    # ISBN
     if article['isbn']:
-        metadata['imprint_isbn'] = article['isbn']
+        payload['metadata']['identifiers'] = [
+            {'identifier': article['isbn'], 'scheme': 'isbn'}
+        ]
+        payload['custom_fields']['imprint:imprint']['isbn'] = article['isbn']
+
+    # Pages
     if article['pages']:
-        metadata['partof_pages'] = article['pages']
-    if keywords:
-        metadata['keywords'] = keywords
-    if article['publisher']:
-        metadata['imprint_publisher'] = article['publisher']
+        payload['custom_fields']['imprint:imprint']['pages'] = article['pages']
+
+    # Editors as contributors
+    contributors = _build_editors(article['editors'])
+    if contributors:
+        payload['metadata']['contributors'] = contributors
+
+    # Notes (ficha catalográfica)
     if article['sem_description']:
-        metadata['notes'] = article['sem_description']
+        payload['metadata']['additional_descriptions'] = [
+            {
+                'description': article['sem_description'],
+                'type': {'id': 'other'},
+            }
+        ]
 
-    # Contributors (editors/organizers from seminar)
-    if article['editors']:
-        editors_list = json.loads(article['editors']) if article['editors'].startswith('[') else [article['editors']]
-        contributors = []
-        for name in editors_list:
-            name = name.strip()
-            if not name:
-                continue
-            # Try to split "Givenname Familyname" → "Familyname, Givenname"
-            parts = name.rsplit(' ', 1)
-            if len(parts) == 2:
-                formatted = f"{parts[1]}, {parts[0]}"
-            else:
-                formatted = name
-            contributors.append({'name': formatted, 'type': 'Editor'})
-        if contributors:
-            metadata['contributors'] = contributors
+    # Section title (eixo temático) in meeting session
+    if article['section_title']:
+        payload['custom_fields']['meeting:meeting']['session'] = article['section_title']
 
-    metadata['communities'] = [{'identifier': COMMUNITY_ID}]
-
-    return metadata
+    return payload
 
 
-def _accept_community_request(session, base_url, token, record_id):
-    """Auto-accept pending community-inclusion request for a record."""
-    headers = {'Authorization': f'Bearer {token}'}
-    r = session.get(
-        f'{base_url}/api/requests/',
+def _upload_file(session, base_url, token, record_id, pdf_path):
+    """Upload PDF via 3-step InvenioRDM file upload."""
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json',
+    }
+    filename = os.path.basename(pdf_path)
+
+    # Step 1: Initiate
+    r = _retry(session.post,
+        f'{base_url}/api/records/{record_id}/draft/files',
         headers=headers,
-        params={'sort': 'newest', 'size': 50, 'q': 'type:community-inclusion AND status:submitted'},
+        json=[{'key': filename}],
+    )
+    if r.status_code not in (200, 201):
+        print(f"  ERRO initiate file: {r.status_code} {r.text[:300]}")
+        return False
+
+    # Step 2: Upload content (read into memory so retries work)
+    pdf_data = open(pdf_path, 'rb').read()
+    r = _retry(session.put,
+        f'{base_url}/api/records/{record_id}/draft/files/{filename}/content',
+        headers={'Authorization': f'Bearer {token}', 'Content-Type': 'application/octet-stream'},
+        data=pdf_data,
     )
     if r.status_code != 200:
-        return
-    for req in r.json().get('hits', {}).get('hits', []):
-        topic = req.get('topic', {})
-        if topic.get('record') == str(record_id):
-            accept_url = req.get('links', {}).get('actions', {}).get('accept')
-            if accept_url:
-                r2 = session.post(accept_url, headers={**headers, 'Content-Type': 'application/json'}, json={})
-                if r2.status_code == 200:
-                    print(f"  Community: aceito")
-                else:
-                    print(f"  Community: erro ao aceitar ({r2.status_code})")
-            return
-    print(f"  Community: request não encontrado")
+        print(f"  ERRO upload content: {r.status_code} {r.text[:300]}")
+        return False
+
+    # Step 3: Commit
+    r = _retry(session.post,
+        f'{base_url}/api/records/{record_id}/draft/files/{filename}/commit',
+        headers={'Authorization': f'Bearer {token}'},
+    )
+    if r.status_code != 200:
+        print(f"  ERRO commit file: {r.status_code} {r.text[:300]}")
+        return False
+
+    size = r.json().get('size', 0)
+    print(f"  PDF: {filename} ({size/1024:.0f} KB)")
+    return True
 
 
-def upload_article(session, base_url, token, article, authors, seminar_slug, dry_run=False):
-    """Upload a single article to Zenodo. Returns (doi, deposition_id) or (None, None)."""
+def _submit_community(session, base_url, token, record_id, community_id):
+    """Submit draft for community review (also publishes)."""
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json',
+    }
+
+    # 1. Create review request
+    r = session.put(
+        f'{base_url}/api/records/{record_id}/draft/review',
+        headers=headers,
+        json={
+            'receiver': {'community': community_id},
+            'type': 'community-submission',
+        },
+    )
+    if r.status_code not in (200, 201):
+        print(f"  Community review: erro ao criar ({r.status_code} {r.text[:200]})")
+        return None
+
+    # 2. Submit (publishes + submits for review)
+    r = session.post(
+        f'{base_url}/api/records/{record_id}/draft/actions/submit-review',
+        headers=headers,
+        json={
+            'payload': {
+                'content': 'Artigo dos Anais Docomomo Brasil.',
+                'format': 'html',
+            }
+        },
+    )
+    if r.status_code in (200, 202):
+        request_id = r.json().get('id')
+        print(f"  Community: submetido (request {request_id})")
+        return request_id
+    else:
+        print(f"  Community submit-review: erro ({r.status_code} {r.text[:200]})")
+        return None
+
+
+def _accept_community_request(session, base_url, token, request_id):
+    """Accept community request (if you are the community curator)."""
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json',
+    }
+    r = session.post(
+        f'{base_url}/api/requests/{request_id}/actions/accept',
+        headers=headers,
+        json={},
+    )
+    if r.status_code == 200:
+        print(f"  Community: aceito")
+    else:
+        print(f"  Community: erro ao aceitar ({r.status_code} {r.text[:200]})")
+
+
+def upload_article(session, base_url, token, article, authors, seminar_slug,
+                   dry_run=False, community_id=None, license_id='cc-by-4.0'):
+    """Upload a single article to Zenodo via InvenioRDM API.
+    Returns (doi, record_id) or (None, None)."""
     article_id = article['id']
-    metadata = build_metadata(article, authors, seminar_slug)
+    payload = build_record_payload(article, authors, seminar_slug, license_id=license_id)
 
     if dry_run:
         print(f"\n{'='*60}")
-        print(f"[DRY RUN] {article_id}: {metadata['title'][:80]}")
-        print(f"  Creators: {', '.join(c['name'] for c in metadata['creators'])}")
-        print(f"  Language: {metadata['language']}")
-        print(f"  Keywords: {metadata.get('keywords', [])}")
-        if 'contributors' in metadata:
-            print(f"  Editors: {', '.join(c['name'] for c in metadata['contributors'])}")
+        print(f"[DRY RUN] {article_id}: {payload['metadata']['title'][:80]}")
+        print(f"  Creators: {len(payload['metadata']['creators'])}")
+        for c in payload['metadata']['creators']:
+            p = c['person_or_org']
+            orcid = ''
+            if p.get('identifiers'):
+                orcid = f" (ORCID: {p['identifiers'][0]['identifier']})"
+            print(f"    {p.get('given_name', '')} {p.get('family_name', '')}{orcid}")
+        print(f"  Language: {payload['metadata']['languages'][0]['id']}")
+        print(f"  Subjects: {len(payload['metadata']['subjects'])}")
+        if payload['metadata'].get('additional_titles'):
+            for at in payload['metadata']['additional_titles']:
+                print(f"  Title ({at['lang']['id']}): {at['title'][:70]}")
+        print(f"  Meeting: {payload['custom_fields']['meeting:meeting']['title']}")
+        if payload['custom_fields']['meeting:meeting'].get('session'):
+            print(f"  Session: {payload['custom_fields']['meeting:meeting']['session']}")
         pdf = find_pdf(article)
         print(f"  PDF: {pdf or 'NÃO ENCONTRADO'}")
+        print(f"\n  Payload JSON:")
+        print(json.dumps(payload, indent=2, ensure_ascii=False)[:2000])
         return None, None
 
-    headers = {'Authorization': f'Bearer {token}'}
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json',
+    }
 
-    # 1. Create empty deposition
+    # 1. Create draft
     r = session.post(
-        f'{base_url}/api/deposit/depositions',
-        headers={**headers, 'Content-Type': 'application/json'},
-        json={},
+        f'{base_url}/api/records',
+        headers=headers,
+        json=payload,
     )
     if r.status_code != 201:
-        print(f"  ERRO ao criar deposition: {r.status_code} {r.text[:200]}")
+        print(f"  ERRO ao criar draft: {r.status_code} {r.text[:500]}")
         return None, None
 
-    depo = r.json()
-    depo_id = depo['id']
-    bucket_url = depo['links']['bucket']
+    record = r.json()
+    record_id = record['id']
+    print(f"  Draft criado: {record_id}")
 
-    # 2. Upload PDF (obrigatório — artigos sem PDF devem ser filtrados antes)
+    def _delete_draft():
+        """Clean up orphan draft on error."""
+        try:
+            session.delete(
+                f'{base_url}/api/records/{record_id}/draft',
+                headers={'Authorization': f'Bearer {token}'},
+            )
+            print(f"  Draft {record_id} removido (cleanup)")
+        except Exception as e:
+            print(f"  AVISO: falha ao remover draft {record_id}: {e}")
+
+    # 2. Upload PDF
     pdf_path = find_pdf(article)
     if not pdf_path:
         print(f"  ERRO: PDF não encontrado para {article_id}")
+        _delete_draft()
         return None, None
-    else:
-        filename = os.path.basename(pdf_path)
-        with open(pdf_path, 'rb') as f:
-            r = session.put(
-                f'{bucket_url}/{filename}',
-                headers=headers,
-                data=f,
+
+    if not _upload_file(session, base_url, token, record_id, pdf_path):
+        _delete_draft()
+        return None, None
+
+    # 3. Publish (or submit to community)
+    if community_id:
+        request_id = _submit_community(session, base_url, token, record_id, community_id)
+        if not request_id:
+            # Fallback: publish without community
+            print(f"  Fallback: publicando sem community...")
+            r = _retry(session.post,
+                f'{base_url}/api/records/{record_id}/draft/actions/publish',
+                headers={'Authorization': f'Bearer {token}'},
             )
-        if r.status_code not in (200, 201):
-            print(f"  ERRO upload PDF: {r.status_code} {r.text[:200]}")
+            if r.status_code not in (200, 202):
+                print(f"  ERRO ao publicar: {r.status_code} {r.text[:300]}")
+                _delete_draft()
+                return None, None
+            record = r.json()
+        else:
+            # Auto-accept if we're the curator
+            _accept_community_request(session, base_url, token, request_id)
+            # Re-fetch the record to get DOI
+            r = session.get(
+                f'{base_url}/api/records/{record_id}',
+                headers={'Authorization': f'Bearer {token}'},
+            )
+            record = r.json() if r.status_code == 200 else {}
+    else:
+        r = _retry(session.post,
+            f'{base_url}/api/records/{record_id}/draft/actions/publish',
+            headers={'Authorization': f'Bearer {token}'},
+        )
+        if r.status_code not in (200, 202):
+            print(f"  ERRO ao publicar: {r.status_code} {r.text[:300]}")
+            _delete_draft()
             return None, None
+        record = r.json()
 
-    # 3. Set metadata
-    r = session.put(
-        f'{base_url}/api/deposit/depositions/{depo_id}',
-        headers={**headers, 'Content-Type': 'application/json'},
-        json={'metadata': metadata},
-    )
-    if r.status_code != 200:
-        print(f"  ERRO ao definir metadados: {r.status_code} {r.text[:300]}")
-        return None, None
+    # DOI: try multiple locations (InvenioRDM vs legacy format)
+    doi = (record.get('pids', {}).get('doi', {}).get('identifier')
+           or record.get('doi')
+           or record.get('metadata', {}).get('doi', ''))
+    zenodo_url = record.get('links', {}).get('self_html', '')
 
-    # 4. Publish
-    r = session.post(
-        f'{base_url}/api/deposit/depositions/{depo_id}/actions/publish',
-        headers=headers,
-    )
-    if r.status_code != 202:
-        print(f"  ERRO ao publicar: {r.status_code} {r.text[:300]}")
-        return None, None
-
-    result = r.json()
-    doi = result.get('doi', result.get('metadata', {}).get('doi'))
-    record_id = result.get('record_id', result.get('id'))
     print(f"  DOI: {doi}")
+    if zenodo_url:
+        print(f"  URL: {zenodo_url}")
 
-    # 5. Auto-accept community inclusion request (owner of community)
-    if record_id:
-        _accept_community_request(session, base_url, token, record_id)
-
-    return doi, depo_id
+    return doi, record_id
 
 
 def find_volume_pdf(seminar_slug):
@@ -351,7 +616,7 @@ def find_volume_pdf(seminar_slug):
         base = os.path.join(PDF_BASE, 'nacionais', slug)
     elif slug.startswith('sdnne'):
         base = os.path.join(PDF_BASE, 'regionais', 'nne', slug)
-    elif slug.startswith('sdsul'):
+    elif slug.startswith('sdsul') or slug.startswith('sdpr'):
         base = os.path.join(PDF_BASE, 'regionais', 'sul', slug)
     elif slug.startswith(('sdsp', 'sdrj', 'sdmg')):
         base = os.path.join(PDF_BASE, 'regionais', 'se', slug)
@@ -364,7 +629,8 @@ def find_volume_pdf(seminar_slug):
     return None
 
 
-def upload_volume(session, base_url, token, seminar_slug, dry_run=False):
+def upload_volume(session, base_url, token, seminar_slug, dry_run=False, community_id=None,
+                  license_id='cc-by-4.0'):
     """Upload the complete volume PDF as a Zenodo proceedings record."""
     db = get_db()
     sem = db.execute('SELECT * FROM seminars WHERE slug = ?', (seminar_slug,)).fetchone()
@@ -390,116 +656,192 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False):
             continue
         parts = name.rsplit(' ', 1)
         if len(parts) == 2:
-            creators.append({'name': f"{parts[1]}, {parts[0]}"})
+            person = {'type': 'personal', 'given_name': parts[0], 'family_name': parts[1]}
         else:
-            creators.append({'name': name})
+            person = {'type': 'personal', 'family_name': name, 'given_name': ''}
+        creators.append({'person_or_org': person})
     if not creators:
-        creators = [{'name': 'Docomomo Brasil'}]
+        creators = [{'person_or_org': {'type': 'organizational', 'name': 'Docomomo Brasil'}}]
 
-    metadata = {
-        'title': title,
-        'upload_type': 'publication',
-        'publication_type': 'conferencepaper',
-        'description': sem['description'] or title,
-        'creators': creators,
-        'language': 'por',
-        'access_right': 'open',
-        'license': 'zenodo-freetoread-1.0',
-        'publication_date': sem['date_published'],
-        'conference_title': sem['title'],
-        'conference_place': sem['location'] or '',
-        'conference_url': f'https://anais.docomomobrasil.com/{_slug_to_ambito(seminar_slug)}/{seminar_slug}',
-        'keywords': [sem['title'], 'Docomomo', 'Arquitetura Moderna'],
-        'communities': [{'identifier': COMMUNITY_ID}],
+    ambito = _slug_to_ambito(seminar_slug)
+    conference_url = f'https://anais.docomomobrasil.com/{ambito}/{seminar_slug}'
+
+    payload = {
+        'access': {'record': 'public', 'files': 'public'},
+        'files': {'enabled': True},
+        'metadata': {
+            'title': title,
+            'resource_type': {'id': 'publication-conferenceproceeding'},
+            'publication_date': sem['date_published'],
+            'creators': creators,
+            'description': sem['description'] or title,
+            'languages': [{'id': 'por'}],
+            # License: cc-by-4.0 by default; override via --license argument
+            'rights': [{'id': license_id}],
+            'publisher': sem['publisher'] or 'Docomomo Brasil',
+            'subjects': [
+                {'subject': sem['title']},
+                {'subject': 'Docomomo'},
+                {'subject': 'Arquitetura Moderna'},
+            ],
+            'related_identifiers': [
+                {
+                    'identifier': conference_url,
+                    'scheme': 'url',
+                    'relation_type': {'id': 'isidenticalto'},
+                    'resource_type': {'id': 'publication-conferenceproceeding'},
+                }
+            ],
+        },
+        'custom_fields': {
+            'meeting:meeting': {
+                'title': sem['title'],
+                'place': sem['location'] or '',
+                'url': conference_url,
+            },
+        },
     }
+
     if sem['isbn']:
-        metadata['imprint_isbn'] = sem['isbn']
-    if sem['publisher']:
-        metadata['imprint_publisher'] = sem['publisher']
+        payload['metadata']['identifiers'] = [
+            {'identifier': sem['isbn'], 'scheme': 'isbn'}
+        ]
+        payload['custom_fields']['imprint:imprint'] = {
+            'title': title,
+            'isbn': sem['isbn'],
+        }
+
     if sem['description']:
-        metadata['notes'] = sem['description']
+        payload['metadata']['additional_descriptions'] = [
+            {'description': sem['description'], 'type': {'id': 'other'}}
+        ]
 
     if dry_run:
         print(f"\n[DRY RUN] Volume: {title}")
-        print(f"  Creators: {', '.join(c['name'] for c in creators)}")
+        print(f"  Creators: {len(creators)}")
         print(f"  PDF: {pdf_path or 'NÃO ENCONTRADO'}")
         if pdf_path:
             print(f"  Tamanho: {os.path.getsize(pdf_path)/1024/1024:.1f} MB")
+        print(f"\n  Payload JSON:")
+        print(json.dumps(payload, indent=2, ensure_ascii=False)[:2000])
         return None, None
 
     if not pdf_path:
         print(f"  PDF não encontrado: {sem['volume_pdf']}")
         return None, None
 
-    headers = {'Authorization': f'Bearer {token}'}
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json',
+    }
 
-    # 1. Create deposition
-    r = session.post(
-        f'{base_url}/api/deposit/depositions',
-        headers={**headers, 'Content-Type': 'application/json'},
-        json={},
-    )
+    # 1. Create draft
+    r = session.post(f'{base_url}/api/records', headers=headers, json=payload)
     if r.status_code != 201:
-        print(f"  ERRO ao criar deposition: {r.status_code}")
+        print(f"  ERRO ao criar draft: {r.status_code} {r.text[:300]}")
         return None, None
-    depo = r.json()
-    depo_id = depo['id']
-    bucket_url = depo['links']['bucket']
+
+    record = r.json()
+    record_id = record['id']
+    print(f"  Draft criado: {record_id}")
+
+    def _delete_draft():
+        """Clean up orphan draft on error."""
+        try:
+            session.delete(
+                f'{base_url}/api/records/{record_id}/draft',
+                headers={'Authorization': f'Bearer {token}'},
+            )
+            print(f"  Draft {record_id} removido (cleanup)")
+        except Exception as e:
+            print(f"  AVISO: falha ao remover draft {record_id}: {e}")
 
     # 2. Upload PDF
-    filename = os.path.basename(pdf_path)
-    size_mb = os.path.getsize(pdf_path) / 1024 / 1024
-    print(f"  Uploading {filename} ({size_mb:.1f} MB)...")
-    with open(pdf_path, 'rb') as f:
-        r = session.put(
-            f'{bucket_url}/{filename}',
-            headers=headers,
-            data=f,
-        )
-    if r.status_code not in (200, 201):
-        print(f"  ERRO upload: {r.status_code}")
+    if not _upload_file(session, base_url, token, record_id, pdf_path):
+        _delete_draft()
         return None, None
 
-    # 3. Set metadata
-    r = session.put(
-        f'{base_url}/api/deposit/depositions/{depo_id}',
-        headers={**headers, 'Content-Type': 'application/json'},
-        json={'metadata': metadata},
-    )
-    if r.status_code != 200:
-        print(f"  ERRO metadados: {r.status_code} {r.text[:200]}")
-        return None, None
+    # 3. Publish
+    if community_id:
+        request_id = _submit_community(session, base_url, token, record_id, community_id)
+        if request_id:
+            _accept_community_request(session, base_url, token, request_id)
+            r = session.get(f'{base_url}/api/records/{record_id}',
+                            headers={'Authorization': f'Bearer {token}'})
+            record = r.json() if r.status_code == 200 else {}
+        else:
+            r = session.post(f'{base_url}/api/records/{record_id}/draft/actions/publish',
+                             headers={'Authorization': f'Bearer {token}'})
+            if r.status_code not in (200, 202):
+                print(f"  ERRO ao publicar: {r.status_code}")
+                _delete_draft()
+                return None, None
+            record = r.json()
+    else:
+        r = session.post(f'{base_url}/api/records/{record_id}/draft/actions/publish',
+                         headers={'Authorization': f'Bearer {token}'})
+        if r.status_code not in (200, 202):
+            print(f"  ERRO ao publicar: {r.status_code} {r.text[:300]}")
+            _delete_draft()
+            return None, None
+        record = r.json()
 
-    # 4. Publish
-    r = session.post(
-        f'{base_url}/api/deposit/depositions/{depo_id}/actions/publish',
-        headers=headers,
-    )
-    if r.status_code != 202:
-        print(f"  ERRO publicar: {r.status_code}")
-        return None, None
-
-    result = r.json()
-    doi = result.get('doi', result.get('metadata', {}).get('doi'))
+    doi = (record.get('pids', {}).get('doi', {}).get('identifier')
+           or record.get('doi')
+           or record.get('metadata', {}).get('doi', ''))
     print(f"  DOI: {doi}")
-    return doi, depo_id
+
+    # Save DOI and record_id to seminars table
+    if doi:
+        db2 = get_db()
+        try:
+            db2.execute('ALTER TABLE seminars ADD COLUMN zenodo_doi TEXT')
+        except Exception:
+            pass  # column already exists
+        try:
+            db2.execute('ALTER TABLE seminars ADD COLUMN zenodo_record_id TEXT')
+        except Exception:
+            pass  # column already exists
+        db2.execute('UPDATE seminars SET zenodo_doi=?, zenodo_record_id=? WHERE slug=?',
+                    (doi, str(record_id), seminar_slug))
+        db2.commit()
+        db2.close()
+
+    return doi, record_id
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Upload artigos para Zenodo')
+    parser = argparse.ArgumentParser(description='Upload artigos para Zenodo (API InvenioRDM)')
     parser.add_argument('--sandbox', action='store_true', help='Usar sandbox.zenodo.org')
     parser.add_argument('--token', help='API token (ou variável ZENODO_TOKEN / ZENODO_SANDBOX_TOKEN)')
-    parser.add_argument('--seminar', required=True, help='Slug do seminário (ex: sdnne08)')
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument('--seminar', help='Slug do seminário (ex: sdbr15)')
+    group.add_argument('--all', action='store_true', help='Upload de todos os seminários')
     parser.add_argument('--limit', type=int, help='Limitar número de artigos')
     parser.add_argument('--dry-run', action='store_true', help='Apenas mostrar metadados')
-    parser.add_argument('--skip-existing', action='store_true', default=True,
-                        help='Pular artigos que já têm DOI (padrão: sim)')
+    parser.add_argument('--no-skip-existing', action='store_false', dest='skip_existing',
+                        help='Não pular artigos que já têm DOI (padrão: pula)')
+    parser.add_argument('--license', default='cc-by-4.0',
+                        help='Licença SPDX (padrão: cc-by-4.0)')
+    parser.add_argument('--community', default=None,
+                        help=f'Submeter à comunidade (default: sem community). Ex: {COMMUNITY_ID}')
     parser.add_argument('--upload-volume', action='store_true',
                         help='Upload do PDF da edição completa (em vez de artigos individuais)')
     args = parser.parse_args()
 
     base_url = SANDBOX_URL if args.sandbox else ZENODO_URL
     env_var = 'ZENODO_SANDBOX_TOKEN' if args.sandbox else 'ZENODO_TOKEN'
+
+    # Load .env before checking token so env vars are available
+    env_path = os.path.join(BASE_DIR, '.env')
+    if os.path.isfile(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    k, v = line.split('=', 1)
+                    os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+
     token = args.token or os.environ.get(env_var)
 
     if not token and not args.dry_run:
@@ -508,85 +850,116 @@ def main():
 
     # Modo volume: upload da edição completa
     if args.upload_volume:
+        if not args.seminar:
+            print("Erro: --upload-volume requer --seminar")
+            sys.exit(1)
         session = requests.Session()
-        doi, depo_id = upload_volume(session, base_url, token, args.seminar, args.dry_run)
+        doi, record_id = upload_volume(session, base_url, token, args.seminar,
+                                       args.dry_run, args.community,
+                                       license_id=args.license)
         if doi:
             print(f"\nVolume publicado: DOI {doi}")
         return
 
     db = get_db()
-    articles = fetch_articles(db, args.seminar, args.limit)
 
-    if not articles:
-        print(f"Nenhum artigo encontrado para '{args.seminar}'")
-        sys.exit(1)
+    # Determine which seminars to process
+    if args.all:
+        slugs = [r['slug'] for r in db.execute(
+            "SELECT slug FROM seminars ORDER BY slug"
+        ).fetchall()]
+    else:
+        slugs = [args.seminar]
 
     env_label = 'SANDBOX' if args.sandbox else 'PRODUÇÃO'
     print(f"Zenodo {env_label}: {base_url}")
-    print(f"Seminário: {args.seminar}")
-    print(f"Artigos: {len(articles)}")
+    if args.all:
+        print(f"Seminários: {len(slugs)}")
     print()
 
     session = requests.Session()
-    uploaded = 0
-    skipped = 0
-    errors = 0
-    current = 0
-    results = []
+    total_uploaded = 0
+    total_skipped = 0
+    total_errors = 0
+    all_results = []
 
-    for art in articles:
-        article_id = art['id']
-
-        # Verificar PDF antes de tudo — sem PDF, não sobe para o Zenodo
-        if not art['file'] or not find_pdf(art):
-            print(f"[SKIP] {article_id}: sem PDF")
-            skipped += 1
+    for sem_slug in slugs:
+        articles = fetch_articles(db, sem_slug, args.limit)
+        if not articles:
+            print(f"[{sem_slug}] Nenhum artigo encontrado")
             continue
 
-        if art['document_type'] == 'resumo':
-            print(f"[SKIP] {article_id}: resumo (sem texto completo)")
-            skipped += 1
-            continue
+        # Pre-count uploadable articles for progress display
+        uploadable = []
+        for art in articles:
+            if not art['file'] or not find_pdf(art):
+                continue
+            if art['document_type'] in ('resumo', 'mesa'):
+                continue
+            if args.skip_existing and art['doi'] and not args.dry_run:
+                continue
+            if not fetch_authors(db, art['id']):
+                continue
+            uploadable.append(art['id'])
+        total_to_upload = len(uploadable)
 
-        if args.skip_existing and art['doi'] and not args.dry_run:
-            print(f"[SKIP] {article_id}: já tem DOI {art['doi']}")
-            skipped += 1
-            continue
+        print(f"--- {sem_slug}: {len(articles)} artigos ({total_to_upload} para upload) ---")
 
-        authors = fetch_authors(db, article_id)
-        if not authors:
-            print(f"[SKIP] {article_id}: sem autores")
-            skipped += 1
-            continue
+        current = 0
+        for art in articles:
+            article_id = art['id']
 
-        current += 1
-        print(f"[{current}/{len(articles)}] {article_id}: {art['title'][:60]}...")
+            if not art['file'] or not find_pdf(art):
+                print(f"[SKIP] {article_id}: sem PDF")
+                total_skipped += 1
+                continue
 
-        doi, depo_id = upload_article(session, base_url, token, art, authors, args.seminar, args.dry_run)
+            if art['document_type'] in ('resumo', 'mesa'):
+                print(f"[SKIP] {article_id}: {art['document_type']} (sem texto completo)")
+                total_skipped += 1
+                continue
 
-        if args.dry_run:
-            continue
+            if args.skip_existing and art['doi'] and not args.dry_run:
+                print(f"[SKIP] {article_id}: já tem DOI {art['doi']}")
+                total_skipped += 1
+                continue
 
-        if doi:
-            # Save DOI to database
-            db.execute('UPDATE articles SET doi = ? WHERE id = ?', (doi, article_id))
-            db.commit()
-            uploaded += 1
-            results.append({'id': article_id, 'doi': doi, 'deposition_id': depo_id})
-        else:
-            errors += 1
+            authors = fetch_authors(db, article_id)
+            if not authors:
+                print(f"[SKIP] {article_id}: sem autores")
+                total_skipped += 1
+                continue
 
-        # Rate limiting
-        time.sleep(1.5)
+            current += 1
+            print(f"  [{current}/{total_to_upload}] {article_id}: {art['title'][:60]}...")
+
+            doi, record_id = upload_article(session, base_url, token, art, authors,
+                                            sem_slug, args.dry_run, args.community,
+                                            license_id=args.license)
+
+            if args.dry_run:
+                continue
+
+            if doi:
+                db.execute('UPDATE articles SET doi = ?, zenodo_record_id = ? WHERE id = ?',
+                           (doi, str(record_id), article_id))
+                db.commit()
+                total_uploaded += 1
+                all_results.append({'id': article_id, 'doi': doi, 'record_id': record_id})
+            else:
+                total_errors += 1
+
+            # Rate limiting
+            time.sleep(1.5)
 
     print(f"\n{'='*60}")
-    print(f"Resultado: {uploaded} enviados, {skipped} pulados, {errors} erros")
+    print(f"Resultado: {total_uploaded} enviados, {total_skipped} pulados, {total_errors} erros")
 
-    if results:
-        # Save results log
-        log_path = f'/tmp/zenodo_{args.seminar}_results.json'
+    if all_results:
+        label = slugs[0] if len(slugs) == 1 else 'all'
+        log_path = f'/tmp/zenodo_{label}_results.json'
         with open(log_path, 'w') as f:
-            json.dump(results, f, indent=2, ensure_ascii=False)
+            json.dump(all_results, f, indent=2, ensure_ascii=False)
         print(f"Log salvo em: {log_path}")
 
     db.close()

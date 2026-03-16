@@ -15,8 +15,6 @@ import os
 import re
 import sqlite3
 import sys
-import textwrap
-
 import shutil
 
 import yaml
@@ -33,6 +31,7 @@ COVER_DIRS = {
     'sdrj': 'regionais/se/capas',
     'sdsp': 'regionais/se/capas',
     'sdsul': 'regionais/sul/capas',
+    'sdpr': 'regionais/sul/capas',
 }
 
 AMBITO_MAP = {
@@ -42,6 +41,7 @@ AMBITO_MAP = {
     'sdrj': ('se', 'Sudeste'),
     'sdsp': ('se', 'Sudeste'),
     'sdsul': ('sul', 'Sul'),
+    'sdpr': ('sul', 'Sul'),
 }
 
 
@@ -136,7 +136,7 @@ def yaml_escape(val):
     if val is None:
         return ''
     s = str(val)
-    s = s.replace('\\', '\\\\').replace('"', '\\"')
+    s = s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
     return s
 
 
@@ -151,13 +151,6 @@ def yaml_multiline(text, indent=2):
 
 def fetch_seminar(db, slug):
     return db.execute('SELECT * FROM seminars WHERE slug = ?', (slug,)).fetchone()
-
-
-def fetch_sections(db, slug):
-    return db.execute(
-        'SELECT * FROM sections WHERE seminar_slug = ? ORDER BY seq',
-        (slug,)
-    ).fetchall()
 
 
 def fetch_articles(db, slug):
@@ -210,7 +203,7 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     os.makedirs(article_dir, exist_ok=True)
 
     doi = article['doi']
-    record_id = doi_to_record_id(doi)
+    record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
     pdf_url = ''
     if record_id and article['file']:
         pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
@@ -229,6 +222,10 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append(f'title_en: "{yaml_escape(article["title_en"])}"')
     if article['subtitle_en']:
         lines.append(f'subtitle_en: "{yaml_escape(article["subtitle_en"])}"')
+    if article['title_es']:
+        lines.append(f'title_es: "{yaml_escape(article["title_es"])}"')
+    if article['subtitle_es']:
+        lines.append(f'subtitle_es: "{yaml_escape(article["subtitle_es"])}"')
     lines.append(f'date: {seminar["date_published"]}')
     lines.append(f'slug: {article_id}')
     lines.append(f'type: artigo')
@@ -311,7 +308,7 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     if pdf_url:
         lines.append(f'zenodo_pdf_url: "{pdf_url}"')
 
-    lines.append(f'license_url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"')
+    lines.append(f'license_url: "https://creativecommons.org/licenses/by/4.0/"')
 
     # Ficha catalográfica
     if ficha:
@@ -334,7 +331,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     if references:
         body_parts.append('## Referências\n')
         for ref in references:
-            body_parts.append(f'- {ref}')
+            safe_ref = ref.replace('<', '&lt;').replace('>', '&gt;')
+            body_parts.append(f'- {safe_ref}')
 
     content = '\n'.join(lines) + '\n'
     if body_parts:

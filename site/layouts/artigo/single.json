@@ -22,6 +22,12 @@
   "URL": "{{ . }}",
   {{- end }}
   "language": "{{ .Params.locale | default "pt-BR" }}",
+  {{- with .Params.abstract }}
+  "abstract": {{ . | jsonify }},
+  {{- end }}
+  {{- with .Params.keywords }}
+  "keyword": "{{ delimit . ", " }}",
+  {{- end }}
   "author": [
     {{- range $i, $au := .Params.authors }}{{ if $i }},{{ end }}
     { "family": "{{ $au.familyname }}", "given": "{{ $au.givenname }}"{{ with $au.orcid }}, "ORCID": "https://orcid.org/{{ . }}"{{ end }} }

@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-<nav class="breadcrumb">
+<nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="{{ "/" | relURL }}">início</a>
   {{ with .CurrentSection }}
     {{ with .Parent }}
@@ -42,7 +42,7 @@
   <div class="event-meta">
     {{ with .CurrentSection }}
     <a href="{{ .RelPermalink }}" class="event-meta-cover-link">
-      <img src="{{ printf "img/capas/%s.png" .Params.slug | relURL }}" alt="" class="event-meta-cover">
+      <img src="{{ printf "img/capas/%s.png" .Params.slug | relURL }}" alt="Capa dos anais" class="event-meta-cover">
     </a>
     {{ end }}
     <div class="event-meta-text">
@@ -78,13 +78,13 @@
   <section class="keywords-section"><h2>Palavras-chave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
   {{ end }}
   {{ with .Params.abstract_en }}
-  <section class="abstract abstract-en"><h2>Abstract</h2><p>{{ . }}</p></section>
+  <section class="abstract abstract-en" lang="en"><h2>Abstract</h2><p>{{ . }}</p></section>
   {{ end }}
   {{ with .Params.keywords_en }}
   <section class="keywords-section"><h2>Keywords</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
   {{ end }}
   {{ with .Params.abstract_es }}
-  <section class="abstract abstract-es"><h2>Resumen</h2><p>{{ . }}</p></section>
+  <section class="abstract abstract-es" lang="es"><h2>Resumen</h2><p>{{ . }}</p></section>
   {{ end }}
   {{ with .Params.keywords_es }}
   <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
