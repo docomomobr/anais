@@ -355,6 +355,82 @@ No provedor de DNS de `docomomobrasil.com`:
 
 ---
 
+## Fase 5 — Migração do OJS
+
+Fluxo para desativar o OJS (`publicacoes.docomomobrasil.com`) e redirecionar para o site Hugo (`anais.docomomobrasil.com`).
+
+**Restrição técnica**: GitHub Pages aceita apenas 1 custom domain por repositório. Os redirects de `publicacoes.docomomobrasil.com` precisam de um repo separado.
+
+### 5.1. Coexistência (2-4 semanas após deploy)
+
+- OJS continua rodando normalmente em `publicacoes.docomomobrasil.com`
+- Site novo já ativo em `anais.docomomobrasil.com`
+- Adicionar banner no OJS: "Este conteúdo foi migrado para anais.docomomobrasil.com"
+- Submeter sitemap do novo site ao Google Search Console
+- Esperar Google Scholar começar a indexar o novo site
+
+### 5.2. Preparar repo de redirects
+
+Criar repositório `docomomobr/publicacoes` com GitHub Pages:
+- Custom domain: `publicacoes.docomomobrasil.com`
+- Conteúdo: páginas HTML estáticas com `<meta http-equiv="refresh">` para cada URL antiga
+
+Mapeamento de URLs:
+
+| URL antiga (OJS) | URL nova (Hugo) |
+|-------------------|-----------------|
+| `/anais/issue/archive` | `anais.docomomobrasil.com/` |
+| `/anais/issue/view/sdbr15` | `anais.docomomobrasil.com/brasil/sdbr15/` |
+| `/anais/article/view/692` | `anais.docomomobrasil.com/brasil/sdbr15/sdbr15-001/` |
+| `/anais/index` | `anais.docomomobrasil.com/` |
+| `/anais/issue/current` | `anais.docomomobrasil.com/brasil/sdbr15/` |
+
+O mapeamento OJS numeric ID → article ID está em `docs/ojs_article_mapping.json`.
+
+Cada página de redirect:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-001/">
+  <link rel="canonical" href="https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-001/">
+  <title>Redirecionando...</title>
+</head>
+<body>
+  <p>Este conteúdo foi movido para <a href="https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-001/">anais.docomomobrasil.com</a>.</p>
+</body>
+</html>
+```
+
+### 5.3. Ativar redirects
+
+1. Fazer deploy do repo `docomomobr/publicacoes` no GitHub Pages
+2. Testar redirects: abrir URLs antigas e verificar que redirecionam
+3. Configurar DNS: CNAME `publicacoes` → `docomomobr.github.io`
+4. No GitHub Pages (repo settings): custom domain `publicacoes.docomomobrasil.com`, habilitar HTTPS
+
+### 5.4. Desligar OJS
+
+- [ ] Confirmar que Google Scholar indexou o novo site (verificar 2-4 semanas após deploy)
+- [ ] Confirmar que redirects funcionam para todas as URLs
+- [ ] Desligar o servidor OJS
+- [ ] Manter repo de redirects indefinidamente (preserva citações antigas)
+
+### Checklist de migração
+
+- [ ] Site novo acessível e completo
+- [ ] Banner no OJS ativo
+- [ ] Sitemap submetido ao Google Search Console
+- [ ] Google Scholar indexando novo site
+- [ ] Repo de redirects criado e deployado
+- [ ] DNS `publicacoes` apontando para GitHub Pages
+- [ ] Redirects testados (amostra de 10-20 artigos)
+- [ ] OJS desligado
+- [ ] Redirects funcionando após desligamento
+
+---
+
 ## OJS (arquivado)
 
 O OJS (`publicacoes.docomomobrasil.com`) foi utilizado para publicação dos 15 nacionais e 21 regionais em teste. A documentação completa está em `archive/pipeline_producao_ojs.md` e `archive/ojs_reference.md`.
