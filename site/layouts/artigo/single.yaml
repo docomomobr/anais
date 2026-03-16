@@ -22,14 +22,16 @@ isbn: "{{ . }}"
 pages: "{{ . }}"
 {{ end -}}
 authors:
-{{ range .Params.authors -}}
-  - givenname: "{{ .givenname }}"
-    familyname: "{{ .familyname }}"
-{{ with .affiliation }}    affiliation: "{{ . }}"
-{{ end -}}
-{{ with .orcid }}    orcid: "{{ . }}"
-{{ end -}}
-{{ end -}}
+{{- range .Params.authors }}
+  - givenname: {{ .givenname | jsonify }}
+    familyname: {{ .familyname | jsonify }}
+{{- with .affiliation }}
+    affiliation: {{ . | jsonify }}
+{{- end }}
+{{- with .orcid }}
+    orcid: "{{ . }}"
+{{- end }}
+{{- end }}
 {{ with .Params.abstract -}}
 abstract: |
 {{ . | replaceRE "(?m)^" "  " }}

@@ -23,7 +23,7 @@
   {{- end }}
   "language": "{{ .Params.locale | default "pt-BR" }}",
   {{- with .Params.abstract }}
-  "abstract": {{ . | jsonify }},
+  "abstract": {{ . | strings.TrimRight "\n" | jsonify }},
   {{- end }}
   {{- with .Params.keywords }}
   "keyword": {{ delimit . ", " | jsonify }},

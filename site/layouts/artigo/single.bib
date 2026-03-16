@@ -21,4 +21,10 @@
   {{- with .Params.event_publisher }}
   organization = { {{- . -}} },
   {{- end }}
+  {{- with .Params.abstract }}
+  abstract  = { {{- . -}} },
+  {{- end }}
+  {{- with .Params.keywords }}
+  keywords  = { {{- delimit . ", " -}} },
+  {{- end }}
 }
