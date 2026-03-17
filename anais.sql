@@ -14379,10 +14379,10 @@ INSERT INTO "sections" VALUES(78,'sdbr04','Engajamento das Artes Plásticas na M
 INSERT INTO "sections" VALUES(79,'sdbr04','Novas Práticas Urbanísticas e Desenho Urbano Moderno',NULL,69,0);
 INSERT INTO "sections" VALUES(80,'sdbr04','Industrialização Brasileira e Novas Técnicas Construtivas',NULL,70,0);
 INSERT INTO "sections" VALUES(81,'sdbr04','Uma Forma Moderna de Uso dos Espaços',NULL,71,0);
-INSERT INTO "sections" VALUES(82,'sdbr12','Eixo 1 — A recepção e a difusão da arquitetura e urbanismo modernos brasileiros',NULL,72,0);
-INSERT INTO "sections" VALUES(83,'sdbr12','Eixo 2 — Práticas de preservação da arquitetura e do urbanismo modernos',NULL,73,0);
-INSERT INTO "sections" VALUES(84,'sdbr12','Eixo 3 — Práticas (ações e projetos) de Educação Patrimonial',NULL,74,0);
-INSERT INTO "sections" VALUES(85,'sdbr12','Eixo 4 — A formação dos futuros profissionais e a preservação do Movimento Moderno',NULL,75,0);
+INSERT INTO "sections" VALUES(82,'sdbr12','A recepção e a difusão da arquitetura e urbanismo modernos brasileiros',NULL,72,0);
+INSERT INTO "sections" VALUES(83,'sdbr12','Práticas de preservação da arquitetura e do urbanismo modernos',NULL,73,0);
+INSERT INTO "sections" VALUES(84,'sdbr12','Práticas (ações e projetos) de Educação Patrimonial',NULL,74,0);
+INSERT INTO "sections" VALUES(85,'sdbr12','A formação dos futuros profissionais e a preservação do Movimento Moderno',NULL,75,0);
 INSERT INTO "sections" VALUES(86,'sdnne10','Artigos Completos — Documentação do Moderno',NULL,0,0);
 INSERT INTO "sections" VALUES(87,'sdnne10','Resumos Expandidos — Documentação do Moderno',NULL,1,0);
 INSERT INTO "sections" VALUES(88,'sdnne10','Artigos Completos — Conservação do Moderno',NULL,2,0);
