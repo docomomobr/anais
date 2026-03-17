@@ -457,6 +457,19 @@ a:focus-visible { border-radius: 2px; }
   outline-offset: 3px;
 }
 
+/* Page content (sobre, etc.) */
+.page-content { margin-bottom: 2rem; }
+.page-content h1 { font-size: 1.5rem; margin-bottom: 1.5rem; }
+.page-content h2 { font-size: 1.2rem; margin: 2rem 0 0.75rem; border-bottom: 1px solid var(--gray-300); padding-bottom: 0.3rem; }
+.page-content h3 { font-size: 1.05rem; margin: 1.5rem 0 0.5rem; color: var(--green); }
+.page-content p { margin-bottom: 0.75rem; line-height: 1.7; color: var(--gray-700); }
+.page-content ul, .page-content ol { margin: 0.5rem 0 1rem 1.5rem; color: var(--gray-700); line-height: 1.7; }
+.page-content table { font-size: var(--font-sm); margin: 0.75rem 0; border-collapse: collapse; }
+.page-content th, .page-content td { padding: 0.4rem 0.75rem; border: 1px solid var(--gray-300); }
+.page-content th { background: var(--gray-100); font-weight: 600; }
+.page-content a { color: var(--green); }
+.page-content hr { border: none; border-top: 1px solid var(--gray-300); margin: 2rem 0; }
+
 /* Responsive */
 @media (max-width: 640px) {
   h1 { font-size: 1.35rem; }

@@ -5331,5 +5331,6 @@ INSERT INTO "dict_names" VALUES('casa-museu','nome','Casa-Museu','titulos');
 INSERT INTO "dict_names" VALUES('fogo','nome','Fogo','titulos');
 INSERT INTO "dict_names" VALUES('lluís','nome','Lluís','titulos');
 INSERT INTO "dict_names" VALUES('água','nome','Água','titulos');
+INSERT INTO "dict_names" VALUES('cidade-porto','nome','Cidade-Porto','titulos');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;

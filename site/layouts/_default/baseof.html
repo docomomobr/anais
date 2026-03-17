@@ -32,14 +32,17 @@
     <nav class="site-nav" aria-label="Navegação principal">
       <div class="container">
         <div class="nav-seminarios">
+          {{/* descomentar quando publicar regionais
           <a href="{{ "brasil/" | relURL }}">brasil</a>
           <a href="{{ "se/" | relURL }}">sudeste</a>
           <a href="{{ "nne/" | relURL }}">norte/nordeste</a>
           <a href="{{ "sul/" | relURL }}">sul</a>
+          */}}
         </div>
         <div class="nav-indices">
           <a href="{{ "autores/" | relURL }}">autores</a>
           <a href="{{ "palavras-chave/" | relURL }}">palavras-chave</a>
+          <a href="{{ "expediente/" | relURL }}">expediente</a>
         </div>
       </div>
     </nav>
@@ -51,7 +54,8 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p><strong>docomomo brasil</strong><br>documentação e conservação de edifícios, sítios e bairros do movimento moderno</p>
+      <p><strong>docomomo brasil</strong></p>
+      <p>Conteúdo licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a></p>
     </div>
   </footer>
   <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>

@@ -50,3 +50,9 @@ venv/
 
 # Fontes originais (pesados)
 fontes/
+
+# Notas internas (não públicas)
+CLAUDE.md
+DEVLOG.md
+docs/devlog_*.md
+docs/archive/devlog_*.md

@@ -363,11 +363,11 @@ Fluxo para desativar o OJS (`publicacoes.docomomobrasil.com`) e redirecionar par
 
 ### 5.1. Coexistência (2-4 semanas após deploy)
 
-- OJS continua rodando normalmente em `publicacoes.docomomobrasil.com`
+- OJS continua rodando normalmente em `publicacoes.docomomobrasil.com` (sem alteração)
 - Site novo já ativo em `anais.docomomobrasil.com`
-- Adicionar banner no OJS: "Este conteúdo foi migrado para anais.docomomobrasil.com"
 - Submeter sitemap do novo site ao Google Search Console
 - Esperar Google Scholar começar a indexar o novo site
+- Enquanto isso, preparar o repo de redirects (5.2)
 
 ### 5.2. Preparar repo de redirects
 

@@ -426,6 +426,19 @@ def _upload_file(session, base_url, token, record_id, pdf_path):
     return True
 
 
+def _resolve_community_id(session, base_url, token, community_slug):
+    """Resolve community slug to UUID (production API requires UUID, not slug)."""
+    r = session.get(
+        f'{base_url}/api/communities/{community_slug}',
+        headers={'Authorization': f'Bearer {token}'},
+    )
+    if r.status_code == 200:
+        uuid = r.json().get('id')
+        if uuid:
+            return uuid
+    return community_slug  # fallback to slug
+
+
 def _submit_community(session, base_url, token, record_id, community_id):
     """Submit draft for community review (also publishes)."""
     headers = {
@@ -433,12 +446,15 @@ def _submit_community(session, base_url, token, record_id, community_id):
         'Content-Type': 'application/json',
     }
 
+    # Resolve slug to UUID (production API requires UUID)
+    community_uuid = _resolve_community_id(session, base_url, token, community_id)
+
     # 1. Create review request
     r = session.put(
         f'{base_url}/api/records/{record_id}/draft/review',
         headers=headers,
         json={
-            'receiver': {'community': community_id},
+            'receiver': {'community': community_uuid},
             'type': 'community-submission',
         },
     )
