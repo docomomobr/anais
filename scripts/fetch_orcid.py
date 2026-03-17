@@ -28,6 +28,7 @@ Versionamento:
 import json
 import os
 import re
+import socket
 import sqlite3
 import sys
 import time
@@ -35,6 +36,13 @@ import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta
+
+# Forçar IPv4 — Python tenta IPv6 primeiro, que falha com timeout de ~30s
+# em redes sem suporte IPv6, causando latência de 30s por request.
+_orig_getaddrinfo = socket.getaddrinfo
+def _getaddrinfo_ipv4(host, port, family=0, *args, **kwargs):
+    return _orig_getaddrinfo(host, port, socket.AF_INET, *args, **kwargs)
+socket.getaddrinfo = _getaddrinfo_ipv4
 
 # Versão do pipeline — incrementar ao adicionar fontes, corrigir bugs, ou
 # alterar critérios de matching. Permite saber se vale a pena re-checar autores.
@@ -50,7 +58,8 @@ RESULTS_PATH = os.path.join(BASE, 'orcid_results.json')
 
 ORCID_API = 'https://pub.orcid.org/v3.0'
 OPENALEX_API = 'https://api.openalex.org'
-OPENALEX_EMAIL = 'danilo@docomomobrasil.com'  # Polite Pool
+OPENALEX_API_KEY = os.environ.get('OPENALEX_API_KEY', '1Vt5PmYGDGSkDFiDTCrpLI')
+CONTACT_EMAIL = 'tesouraria.docomomobr@gmail.com'
 REQUEST_DELAY = 0.5  # seconds between API requests
 OPENALEX_DELAY = 0.15  # OpenAlex Polite Pool allows ~10 req/s
 MAX_PROFILES = 5      # max profiles to check per author
@@ -151,10 +160,11 @@ def openalex_search(fullname, filter_br=True):
     if filter_br:
         url += '&filter=last_known_institutions.country_code:BR'
     url += '&per_page=5'
+    if OPENALEX_API_KEY:
+        url += f'&api_key={OPENALEX_API_KEY}'
 
     headers = {
         'Accept': 'application/json',
-        'User-Agent': f'fetch_orcid/1.0 (mailto:{OPENALEX_EMAIL})',
     }
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -272,7 +282,7 @@ def crossref_find_orcid(fullname, db_gn, db_fn):
 
     headers = {
         'Accept': 'application/json',
-        'User-Agent': f'fetch_orcid/1.0 (mailto:{OPENALEX_EMAIL})',
+        'User-Agent': f'fetch_orcid/1.0 (mailto:{CONTACT_EMAIL})',
     }
     req = urllib.request.Request(url, headers=headers)
     try:
