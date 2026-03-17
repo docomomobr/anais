@@ -14,7 +14,7 @@ Seminários sem seções temáticas ou com seções genéricas (ex: "Artigos Com
 | sdbr01 | parte | 2 | PDF integral `nacionais/sdbr01/pdfs/sdbr01.pdf` — "PARTE 01", "PARTE 02" |
 | sdbr04 | subtema | 4 | Folha de rosto dos artigos — "Subtema 1 – ...", "Subtema 2 – ..." |
 | sdbr05 | sessão | 13 | `nacionais/sdbr05/sessoes-dvd.md` — "Sessão 1 — ...", "Painéis" |
-| sdbr06 | sessão | 3 | Commit 6dbc128 — "sessões criadas" (fonte: programa do evento, pendente confirmação) |
+| sdbr06 | sessão | 3 | `docomomobrasil.com/old/seminarios/6%20seminario/sessoes.htm` — "Sessão 1 – A Preservação e o Moderno", "Sessão 2 – A Problemática do Moderno Nacional", "Sessão 3 – A Construção da História: O Fato e as Versões" |
 | sdbr08 | sessão temática | 4 | DVD dos anais (`docomomo2009.xml` + cabeçalho dos artigos: "Sessão Temática: ...") |
 | sdbr09 | mesa | 29 | DVD dos anais (`indice_mesa.html`) — "Mesa: Expansão metropolitana...", cada mesa com coordenador |
 | sdbr10 | sessão | 26 | `nacionais/sdbr10/fontes/Programa_das_sessoes_XDOCOMOMO_Brasil.pdf` — "Sessão 1. Ética & Estética" (baixado de xdocomomobrasil.com.br) |
@@ -49,7 +49,7 @@ Seminários N/NE com seções genéricas escondidas: sdnne02, sdnne07, sdnne08.
 
 | Slug | Label | Seções | Fonte |
 |------|-------|--------|-------|
-| sdmg01 | *(pendente)* | 1 visível | Precisa verificar no DVD |
+| sdmg01 | *(sem eixos)* | 2 | DVD: só "Apresentações Orais" e "Pôsteres", sem divisão temática. Apresentação .ppt copiada para fontes/ |
 | sdrj04 | eixo | 3 | `revisao/04_secoes_regionais.txt` — "Eixo 1 — ...", "Eixo 2 — ...", "Workshop" |
 | sdsp03 | sessão | 10 | `revisao/04_secoes_regionais.txt` — "Painéis — ...", "Comunicações Orais — ..." |
 | sdsp05 | eixo | 3 | `revisao/04_secoes_regionais.txt` — "Reconhecimento", "Intervenção", "Gestão" |
