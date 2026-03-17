@@ -15,7 +15,7 @@ Seminários sem seções temáticas ou com seções genéricas (ex: "Artigos Com
 | sdbr04 | subtema | 4 | Folha de rosto dos artigos — "Subtema 1 – ...", "Subtema 2 – ..." |
 | sdbr05 | sessão | 13 | `nacionais/sdbr05/sessoes-dvd.md` — "Sessão 1 — ...", "Painéis" |
 | sdbr06 | sessão | 3 | Commit 6dbc128 — "sessões criadas" (fonte: programa do evento, pendente confirmação) |
-| sdbr08 | *(pendente)* | 4 | Precisa verificar no DVD |
+| sdbr08 | sessão temática | 4 | DVD dos anais (`docomomo2009.xml` + cabeçalho dos artigos: "Sessão Temática: ...") |
 | sdbr09 | mesa | 29 | Confirmado pelo usuário |
 | sdbr10 | sessão | 26 | `nacionais/sdbr10/fontes/Programa_das_sessoes_XDOCOMOMO_Brasil.pdf` — "Sessão 1. Ética & Estética" (baixado de xdocomomobrasil.com.br) |
 | sdbr12 | eixo | 4 | Nomes das seções no banco: "Eixo 1 — ...", "Eixo 2 — ..." |
