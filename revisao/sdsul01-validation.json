@@ -1,0 +1,440 @@
+{
+  "slug": "sdsul01",
+  "date": "2026-03-17",
+  "total_articles": 48,
+  "profile": {
+    "total": 48,
+    "locale_es": 6,
+    "abstract": 48,
+    "abstract_en": 1,
+    "abstract_es": 0,
+    "keywords": 1,
+    "keywords_en": 1,
+    "keywords_es": 0,
+    "references_": 43
+  },
+  "auto_fixed": [
+    {
+      "check": "A17",
+      "article_id": "sdsul01-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "1 referências duplicadas",
+      "suggestion": "Remover duplicatas",
+      "dup_indices": [
+        11
+      ]
+    },
+    {
+      "check": "A17",
+      "article_id": "sdsul01-011",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "1 referências duplicadas",
+      "suggestion": "Remover duplicatas",
+      "dup_indices": [
+        22
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdsul01-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Ref muito longa (1042 chars), possível concatenação: \"RILEY, Terence; BERGDOLL, Barry (ed.). Mies in Berlin. New York : The Museum of ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdsul01-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 12,
+      "detail": "Possível não-referência: \"Fontes das Ilustrações Figuras 1, 5, 6, 7, 8, 9, 10, 12, 13 Autor: Lucio Costa –...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-003",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ção dos museus, priorizando a iluminação\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-004",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (695 chars), possível concatenação: \"Costa, Lucio. Sobre Arquitetura, Porto Alegre, CEAU, 1962; Transparency and Arch...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-004",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...emitério e dos muros e sucessivos pátios\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-005",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (3578 chars), possível concatenação: \"1 O presente artigo condensa e expande observações da tese de doutorado de Carlo...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-005",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (2422 chars), possível concatenação: \"Goodwin, Philip e Kidder-Smith, George. Brazil Builds: new and old. New York: Mo...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-005",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... extremidade da praça oposta à igreja. 3\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-006",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 28,
+      "detail": "Ref muito longa (510 chars), possível concatenação: \"PAPADAKI, Stamo. Op. Cit. p.151. 10. Oca. Vista interna do subsolo – escotilhas ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-006",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"..., seu vôo solo sobre o mesmo terreno. “A\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-007",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ca. A luz reduzida, controlada de acordo\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-010",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ountry Club Plaza é construído por Jesse\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-011",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...1925); o Banco Francés 7 (1926); o Banco\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul01-013",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 5,
+      "detail": "Backfill pendente: \"_______, “Teoria Acadêmica, Arquitetura Moderna, Corolário B...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul01-013",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Backfill pendente: \"________, “Lucio Costa e a revolução na arquitetura brasilei...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-013",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...nstruir suas novas sedes, valorizassem a\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-014",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ovas áreas fora projetada com legislação\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-019",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... 2800 m2 Superficie cubierta : 29.200 m2\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-022",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"..., que está acompanhado de outra série de\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-023",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...m uma vista magnífica de 360° da cidade,\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-025",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... do mosteiro durou 50 anos (1949-1999) e\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-026",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...rais, encarregados de proteger a casa da\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-027",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 31,
+      "detail": "Ref muito longa (801 chars), possível concatenação: \"Referências das Imagens Fig. 01 – Casa e Jardim. São Paulo – Rio de Janeiro, n. ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdsul01-028",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Possível não-referência: \"Créditos das fotografias: P. Scheier, F. Albuquerque, J. Pires e Instituto Lina ...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-030",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...uais” da Cia.City ou semelhantes propõem\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-031",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ente dita como ensaiada na casa burguesa\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-032",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 28,
+      "detail": "Ref muito longa (539 chars), possível concatenação: \"Revista AU - ano 11 - nº 63, dez 95/jan 96. São Paulo, Pini Editora, 1996. Revis...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-034",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...ndustria, Santiago de Chile, 1938, p. 24\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-036",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...al - através do estudo de caso de alguns\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-039",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...e celebrassem o poder civil e religioso,\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul01-042",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Backfill pendente: \"______. Protótipo e Monumento, um ministério, o ministério. ...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul01-042",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 4,
+      "detail": "Backfill pendente: \"______. Da atualidade de seu pensamento. Arquitetura e Urban...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-044",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... levara à decisão de prover a cidade com\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-047",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... Oks, y que nombres tan importantes como\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul01-048",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (1263 chars), possível concatenação: \"Wladimiro Acosta, Vivienda y Ciudad, Buenos Aires, Anaconda, 1937, 1947) Peter C...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul01-048",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"... “estados naturales de lo constructivo”:\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdsul01-003",
+      "checks_flagged": [
+        "A11",
+        "A12",
+        "A19"
+      ],
+      "reason": "Ref muito longa (1042 chars), possível concatenação: \"RILEY, Terence; BERGDOLL, Barry (ed.). Mies in Berlin. New York : The Museum of ...\""
+    },
+    {
+      "article_id": "sdsul01-004",
+      "checks_flagged": [
+        "A11",
+        "A19"
+      ],
+      "reason": "Ref muito longa (695 chars), possível concatenação: \"Costa, Lucio. Sobre Arquitetura, Porto Alegre, CEAU, 1962; Transparency and Arch...\""
+    },
+    {
+      "article_id": "sdsul01-005",
+      "checks_flagged": [
+        "A11",
+        "A11",
+        "A19"
+      ],
+      "reason": "Ref muito longa (3578 chars), possível concatenação: \"1 O presente artigo condensa e expande observações da tese de doutorado de Carlo...\""
+    },
+    {
+      "article_id": "sdsul01-006",
+      "checks_flagged": [
+        "A11",
+        "A19"
+      ],
+      "reason": "Ref muito longa (510 chars), possível concatenação: \"PAPADAKI, Stamo. Op. Cit. p.151. 10. Oca. Vista interna do subsolo – escotilhas ...\""
+    },
+    {
+      "article_id": "sdsul01-027",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (801 chars), possível concatenação: \"Referências das Imagens Fig. 01 – Casa e Jardim. São Paulo – Rio de Janeiro, n. ...\""
+    },
+    {
+      "article_id": "sdsul01-032",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (539 chars), possível concatenação: \"Revista AU - ano 11 - nº 63, dez 95/jan 96. São Paulo, Pini Editora, 1996. Revis...\""
+    },
+    {
+      "article_id": "sdsul01-048",
+      "checks_flagged": [
+        "A11",
+        "A19"
+      ],
+      "reason": "Ref muito longa (1263 chars), possível concatenação: \"Wladimiro Acosta, Vivienda y Ciudad, Buenos Aires, Anaconda, 1937, 1947) Peter C...\""
+    }
+  ]
+}

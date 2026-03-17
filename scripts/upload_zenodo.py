@@ -190,7 +190,9 @@ def _build_creators(authors):
 
 
 def _build_editors(editors_json):
-    """Build InvenioRDM contributors list from seminar editors."""
+    """Build InvenioRDM contributors list from seminar editors.
+    Não inclui ORCID nos editors para evitar spam de notificações
+    no perfil ORCID dos editores (1 notificação por artigo)."""
     if not editors_json:
         return []
     editors_list = json.loads(editors_json) if editors_json.startswith('[') else [editors_json]
@@ -663,8 +665,9 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
     if sem['subtitle']:
         title += f": {sem['subtitle']}"
 
-    # Editors as creators
+    # Editors as creators (with ORCID lookup from authors table)
     editors_list = json.loads(sem['editors']) if sem['editors'] and sem['editors'].startswith('[') else []
+    db2 = get_db()
     creators = []
     for name in editors_list:
         name = name.strip()
@@ -672,10 +675,19 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
             continue
         parts = name.rsplit(' ', 1)
         if len(parts) == 2:
-            person = {'type': 'personal', 'given_name': parts[0], 'family_name': parts[1]}
+            given, family = parts[0], parts[1]
         else:
-            person = {'type': 'personal', 'family_name': name, 'given_name': ''}
+            given, family = '', name
+        person = {'type': 'personal', 'given_name': given, 'family_name': family}
+        # Lookup ORCID in authors table
+        row = db2.execute(
+            'SELECT orcid FROM authors WHERE givenname = ? AND familyname = ?',
+            (given, family)
+        ).fetchone()
+        if row and row['orcid']:
+            person['identifiers'] = [{'scheme': 'orcid', 'identifier': row['orcid']}]
         creators.append({'person_or_org': person})
+    db2.close()
     if not creators:
         creators = [{'person_or_org': {'type': 'organizational', 'name': 'Docomomo Brasil'}}]
 
@@ -727,10 +739,7 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
             'isbn': sem['isbn'],
         }
 
-    if sem['description']:
-        payload['metadata']['additional_descriptions'] = [
-            {'description': sem['description'], 'type': {'id': 'other'}}
-        ]
+    # Não duplicar description em additional_descriptions
 
     if dry_run:
         print(f"\n[DRY RUN] Volume: {title}")
