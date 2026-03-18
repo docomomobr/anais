@@ -23,15 +23,16 @@ DB_PATH = os.path.join(os.path.dirname(__file__), '..', 'anais.db')
 FICHAS_PATH = os.path.join(os.path.dirname(__file__), '..', 'revisao', 'fichas_catalograficas.yaml')
 REPO_ROOT = os.path.join(os.path.dirname(__file__), '..')
 
-# Map slug prefix -> cover directory (relative to REPO_ROOT)
+# Map slug prefix -> cover directories (relative to REPO_ROOT), in priority order.
+# site/static/img/capas/ is tracked in git; nacionais/capas/ etc. are gitignored.
 COVER_DIRS = {
-    'sdbr': 'nacionais/capas',
-    'sdmg': 'regionais/se/capas',
-    'sdnne': 'regionais/nne/capas',
-    'sdrj': 'regionais/se/capas',
-    'sdsp': 'regionais/se/capas',
-    'sdsul': 'regionais/sul/capas',
-    'sdpr': 'regionais/sul/capas',
+    'sdbr': ['site/static/img/capas', 'nacionais/capas'],
+    'sdmg': ['site/static/img/capas', 'regionais/se/capas'],
+    'sdnne': ['site/static/img/capas', 'regionais/nne/capas'],
+    'sdrj': ['site/static/img/capas', 'regionais/se/capas'],
+    'sdsp': ['site/static/img/capas', 'regionais/se/capas'],
+    'sdsul': ['site/static/img/capas', 'regionais/sul/capas'],
+    'sdpr': ['site/static/img/capas', 'regionais/sul/capas'],
 }
 
 AMBITO_MAP = {
@@ -68,11 +69,12 @@ def load_fichas():
 
 def find_cover(slug):
     """Find cover image (PNG) for a seminar slug. Returns absolute path or None."""
-    for prefix, cover_dir in COVER_DIRS.items():
+    for prefix, cover_dirs in COVER_DIRS.items():
         if slug.startswith(prefix):
-            png = os.path.join(REPO_ROOT, cover_dir, f'{slug}.png')
-            if os.path.isfile(png):
-                return png
+            for cover_dir in cover_dirs:
+                png = os.path.join(REPO_ROOT, cover_dir, f'{slug}.png')
+                if os.path.isfile(png):
+                    return png
     return None
 
 
