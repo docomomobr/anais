@@ -263,6 +263,10 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 **upload_zenodo.py:**
 - Bloqueio de `mesa` removido (só `resumo` continua bloqueado)
 
+**Hugo — abstracts e mesas no template:**
+- Abstracts renderizam com parágrafos (`<p>`) via `replaceRE "\n\n+" "</p><p>"` + `safeHTML`
+- Mesas mostram botão "Baixar PDF" e DOI badge (removida exclusão de `mesa` da seção `pdf-action`)
+
 ### 2026-03-18 — 3 artigos novos, 11 videoposters sdbr14, seções agrupadas
 
 **sdbr14 videoposters (11 vídeos):**
