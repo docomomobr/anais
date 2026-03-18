@@ -35,7 +35,7 @@
   </div>
 
   {{ with .Params.doi }}
-  <p class="doi">DOI: <a href="https://doi.org/{{ . }}" itemprop="sameAs">{{ . }}</a></p>
+  <p class="doi"><a href="https://doi.org/{{ . }}" itemprop="sameAs">https://doi.org/{{ . }}</a></p>
   {{ end }}
   {{ with .Params.pages }}<p class="meta">p. {{ . }}</p>{{ end }}
 
