@@ -27,7 +27,10 @@ jobs:
         run: pip install pyyaml
 
       - name: Generate Hugo content from database
-        run: python3 scripts/db2hugo.py --all --outdir site/content
+        run: |
+          for s in sdbr01 sdbr02 sdbr03 sdbr04 sdbr05 sdbr06 sdbr07 sdbr08 sdbr09 sdbr10 sdbr11 sdbr12 sdbr13 sdbr14 sdbr15; do
+            python3 scripts/db2hugo.py --seminar $s --outdir site/content
+          done
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
