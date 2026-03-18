@@ -62,6 +62,17 @@
   <script>
     new PagefindUI({ element: "#search", showSubResults: true, translations: { placeholder: "Buscar artigos..." } });
   </script>
+  <script>
+  document.addEventListener('click', function(e) {
+    var btn = e.target.closest('.doi-copy');
+    if (!btn) return;
+    navigator.clipboard.writeText(btn.dataset.doi).then(function() {
+      btn.classList.add('copied');
+      btn.title = 'Copiado!';
+      setTimeout(function() { btn.classList.remove('copied'); btn.title = 'Copiar DOI'; }, 2000);
+    });
+  });
+  </script>
   {{/* GoatCounter — analytics privacy-friendly, sem cookies */}}
   <script data-goatcounter="https://anais-docomomo.goatcounter.com/count"
           async src="//gc.zgo.at/count.js"></script>
