@@ -243,7 +243,7 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append(f'section_title: "{yaml_escape(sec)}"')
         if article['section_seq']:
             lines.append(f'section_seq: {article["section_seq"]}')
-        if seminar['section_label']:
+        if article['section_seq'] and article['section_seq'] < 90 and seminar['section_label']:
             lines.append(f'section_label: "{yaml_escape(seminar["section_label"])}"')
     lines.append(f'event_title: "{yaml_escape(seminar["title"])}"')
     if seminar['location']:

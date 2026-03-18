@@ -150,7 +150,7 @@
     {{ $sec := .Params.section_title | default "" }}
     {{ if ne $sec $currentSection }}
       {{ $currentSection = $sec }}
-      {{ if $sec }}<h2 class="section-heading">{{ if .Params.section_seq }}{{ with .Params.section_label }}{{ . }} {{ end }}{{ .Params.section_seq }}. {{ end }}{{ $sec }}</h2>{{ end }}
+      {{ if $sec }}<h2 class="section-heading">{{ if .Params.section_label }}{{ .Params.section_label }} {{ if .Params.section_seq }}{{ .Params.section_seq }}. {{ end }}{{ end }}{{ $sec }}</h2>{{ end }}
     {{ end }}
     <article class="article-item">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h3>
@@ -158,9 +158,9 @@
         {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ $au.givenname }} {{ $au.familyname }}{{ end }}
       </p>
       {{ if .Params.zenodo_pdf_url }}
-      <a href="{{ .Params.zenodo_pdf_url }}" class="btn-pdf-sm">PDF</a>
+      <a href="{{ .Params.zenodo_pdf_url }}" class="btn-pdf-sm">{{ if eq .Params.document_type "video" }}MP4{{ else }}PDF{{ end }}</a>
       {{ else if .Params.pdf_file }}
-      <span class="btn-pdf-sm btn-pdf-sm--pending">PDF</span>
+      <span class="btn-pdf-sm btn-pdf-sm--pending">{{ if eq .Params.document_type "video" }}MP4{{ else }}PDF{{ end }}</span>
       {{ end }}
       {{/* COinS — artigo individual */}}
       <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rfr_id=info%3Asid%2Fanais.docomomobrasil.com&amp;rft.atitle={{ (printf "%s%s" .Title (cond (ne (.Params.subtitle | default "") "") (printf ": %s" .Params.subtitle) "")) | urlquery }}&amp;rft.btitle={{ $.Title | urlquery }}&amp;rft.date={{ dateFormat "2006" .Date }}{{ range .Params.authors }}&amp;rft.au={{ (printf "%s, %s" .familyname .givenname) | urlquery }}{{ end }}{{ with .Params.doi }}&amp;rft_id=info%3Adoi%2F{{ . | urlquery }}{{ end }}{{ with .Params.event_isbn }}&amp;rft.isbn={{ . | urlquery }}{{ end }}{{ with .Params.pages }}&amp;rft.pages={{ . | urlquery }}{{ end }}{{ with $.Params.event_publisher }}&amp;rft.pub={{ . | urlquery }}{{ end }}{{ with .Params.event_city }}&amp;rft.place={{ . | urlquery }}{{ end }}"></span>

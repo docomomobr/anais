@@ -43,13 +43,13 @@
     </a>
     {{ end }}
     <div class="event-meta-text">
-      {{ with .Params.section_title }}<p class="section-label">{{ if $.Params.section_seq }}{{ with $.Params.section_label }}{{ . }} {{ end }}{{ $.Params.section_seq }}. {{ end }}{{ . }}</p>{{ end }}
+      {{ with .Params.section_title }}<p class="section-label">{{ if $.Params.section_label }}{{ $.Params.section_label }} {{ if $.Params.section_seq }}{{ $.Params.section_seq }}. {{ end }}{{ end }}{{ . }}</p>{{ end }}
       <p class="event-title-label">{{ .Params.event_title }}</p>
     </div>
   </div>
 
-  {{/* PDF — destaque principal. Não mostrar para resumos/mesas. */}}
-  {{ if not (or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa")) }}
+  {{/* PDF — destaque principal. Não mostrar para resumos/mesas/vídeos. */}}
+  {{ if not (or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa") (eq .Params.document_type "video")) }}
   <section class="pdf-action">
     {{ with .Params.zenodo_pdf_url }}
     <a href="{{ . }}" class="btn-pdf" target="_blank" rel="noopener">
@@ -69,6 +69,29 @@
     <button class="doi-copy" data-doi="https://doi.org/{{ . }}" title="Copiar DOI"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg></button>
     {{ end }}
   </section>
+  {{ end }}
+  {{/* Video player para videoposters */}}
+  {{ if eq .Params.document_type "video" }}
+  <section class="pdf-action">
+    {{ with .Params.zenodo_pdf_url }}
+    <a href="{{ . }}" class="btn-pdf" target="_blank" rel="noopener" download>
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Baixar MP4
+    </a>
+    {{ end }}
+    {{ with $.Params.doi }}
+    <a href="https://doi.org/{{ . }}" class="doi-badge" itemprop="sameAs" target="_blank" rel="noopener"><span class="doi-label">DOI</span><span class="doi-value">{{ . }}</span></a>
+    <button class="doi-copy" data-doi="https://doi.org/{{ . }}" title="Copiar DOI"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg></button>
+    {{ end }}
+  </section>
+  {{ with .Params.zenodo_pdf_url }}
+  <section class="video-player">
+    <video controls preload="metadata" width="100%">
+      <source src="{{ . }}" type="video/mp4">
+      Seu navegador não suporta o elemento de vídeo.
+    </video>
+  </section>
+  {{ end }}
   {{ end }}
   {{/* DOI para resumos (sem seção pdf-action) */}}
   {{ if or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa") }}
