@@ -39,6 +39,9 @@ jobs:
         working-directory: site
         run: hugo --gc --minify
 
+      - name: Build Pagefind search index
+        run: npx pagefind --site site/public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
