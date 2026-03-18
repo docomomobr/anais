@@ -156,7 +156,7 @@ def fetch_seminar(db, slug):
 def fetch_articles(db, slug):
     return db.execute("""
         SELECT a.*, s.title as section_title, s.abbrev as section_abbrev,
-               s.hide_title as section_hide_title
+               s.hide_title as section_hide_title, s.seq as section_seq
         FROM articles a
         LEFT JOIN sections s ON s.id = a.section_id
         WHERE a.seminar_slug = ?
@@ -241,6 +241,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
             if idx > 0:
                 sec = sec[:idx]
         lines.append(f'section_title: "{yaml_escape(sec)}"')
+        if article['section_seq']:
+            lines.append(f'section_seq: {article["section_seq"]}')
         if seminar['section_label']:
             lines.append(f'section_label: "{yaml_escape(seminar["section_label"])}"')
     lines.append(f'event_title: "{yaml_escape(seminar["title"])}"')

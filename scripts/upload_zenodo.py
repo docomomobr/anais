@@ -144,8 +144,8 @@ def fetch_authors(db, article_id):
     return db.execute(sql, (article_id,)).fetchall()
 
 
-def find_pdf(article):
-    """Locate the PDF file for an article."""
+def find_file(article):
+    """Locate the file (PDF or video) for an article."""
     if not article['file']:
         return None
     slug = article['id'].rsplit('-', 1)[0]
@@ -159,10 +159,16 @@ def find_pdf(article):
         base = os.path.join(PDF_BASE, 'regionais', 'se', slug)
     else:
         base = PDF_BASE
-    pdf_path = os.path.join(base, 'pdfs', article['file'])
-    if os.path.isfile(pdf_path):
-        return pdf_path
+    # Try pdfs/ first, then videos/
+    for subdir in ('pdfs', 'videos'):
+        path = os.path.join(base, subdir, article['file'])
+        if os.path.isfile(path):
+            return path
     return None
+
+
+# Backwards compatibility
+find_pdf = find_file
 
 
 def _slug_to_ambito(slug):
@@ -332,7 +338,7 @@ def build_record_payload(article, authors, seminar_slug, license_id='cc-by-4.0')
         },
         'metadata': {
             'title': title,
-            'resource_type': {'id': 'publication-conferencepaper'},
+            'resource_type': {'id': 'video' if article['document_type'] == 'video' else 'publication-conferencepaper'},
             'publication_date': article['date_published'],
             'creators': creators,
             'description': description,
@@ -417,11 +423,14 @@ def _upload_file(session, base_url, token, record_id, pdf_path):
         return False
 
     # Step 2: Upload content (read into memory so retries work)
-    pdf_data = open(pdf_path, 'rb').read()
+    file_data = open(pdf_path, 'rb').read()
+    # Timeout proportional to file size: 120s base + 30s per MB
+    upload_timeout = (15, max(120, 30 * len(file_data) // (1024 * 1024) + 120))
     r = _retry(session.put,
         f'{base_url}/api/records/{record_id}/draft/files/{filename}/content',
         headers={'Authorization': f'Bearer {token}', 'Content-Type': 'application/octet-stream'},
-        data=pdf_data,
+        data=file_data,
+        timeout=upload_timeout,
     )
     if r.status_code != 200:
         print(f"  ERRO upload content: {r.status_code} {r.text[:300]}")

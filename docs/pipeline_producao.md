@@ -351,6 +351,7 @@ No provedor de DNS de `docomomobrasil.com`:
 | Script | Fase | Função |
 |--------|------|--------|
 | `upload_zenodo.py` | 1 | Upload PDFs para Zenodo via API InvenioRDM. `--sandbox`, `--dry-run`, `--seminar`, `--limit`, `--community`, `--upload-volume` |
+| `fix_zenodo_metadata.py` | pós-1 | Corrige metadados de artigos já publicados no Zenodo. Cria nova versão com payload completo do DB (PUT substitui tudo). Aceita múltiplos IDs. `--dry-run` |
 | `db2hugo.py` | 2 | Gera conteúdo Hugo a partir do anais.db. `--all`, `--seminar`, `--outdir` |
 
 ---

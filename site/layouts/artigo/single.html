@@ -43,7 +43,7 @@
     </a>
     {{ end }}
     <div class="event-meta-text">
-      {{ with .Params.section_title }}<p class="section-label">{{ with $.Params.section_label }}{{ if not (hasPrefix (lower $.Params.section_title) (lower .)) }}<span class="section-type">{{ . }}:</span> {{ end }}{{ end }}{{ . }}</p>{{ end }}
+      {{ with .Params.section_title }}<p class="section-label">{{ if $.Params.section_seq }}{{ with $.Params.section_label }}{{ . }} {{ end }}{{ $.Params.section_seq }}. {{ end }}{{ . }}</p>{{ end }}
       <p class="event-title-label">{{ .Params.event_title }}</p>
     </div>
   </div>
