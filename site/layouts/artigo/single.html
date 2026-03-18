@@ -34,9 +34,6 @@
     {{ end }}
   </div>
 
-  {{ with .Params.doi }}
-  <p class="doi"><a href="https://doi.org/{{ . }}" itemprop="sameAs">https://doi.org/{{ . }}</a></p>
-  {{ end }}
   {{ with .Params.pages }}<p class="meta">p. {{ . }}</p>{{ end }}
 
   <div class="event-meta">
@@ -46,7 +43,7 @@
     </a>
     {{ end }}
     <div class="event-meta-text">
-      {{ with .Params.section_title }}<p class="section-label">{{ with $.Params.section_label }}<span class="section-type">{{ . }}:</span> {{ end }}{{ . }}</p>{{ end }}
+      {{ with .Params.section_title }}<p class="section-label">{{ with $.Params.section_label }}{{ if not (hasPrefix (lower $.Params.section_title) (lower .)) }}<span class="section-type">{{ . }}:</span> {{ end }}{{ end }}{{ . }}</p>{{ end }}
       <p class="event-title-label">{{ .Params.event_title }}</p>
     </div>
   </div>
@@ -67,7 +64,16 @@
       </span>
       {{ end }}
     {{ end }}
+    {{ with $.Params.doi }}
+    <a href="https://doi.org/{{ . }}" class="doi-badge" itemprop="sameAs" target="_blank" rel="noopener"><span class="doi-label">DOI</span><span class="doi-value">{{ . }}</span></a>
+    {{ end }}
   </section>
+  {{ end }}
+  {{/* DOI para resumos (sem seção pdf-action) */}}
+  {{ if or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa") }}
+  {{ with .Params.doi }}
+  <a href="https://doi.org/{{ . }}" class="doi-badge" itemprop="sameAs" target="_blank" rel="noopener"><span class="doi-label">DOI</span><span class="doi-value">{{ . }}</span></a>
+  {{ end }}
   {{ end }}
 
   {{/* Abstracts e keywords — labels fixos ao campo, mostra o que existe.
