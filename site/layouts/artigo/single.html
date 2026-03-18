@@ -48,8 +48,8 @@
     </div>
   </div>
 
-  {{/* PDF — destaque principal. Não mostrar para resumos/mesas/vídeos. */}}
-  {{ if not (or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa") (eq .Params.document_type "video")) }}
+  {{/* PDF — destaque principal. Não mostrar para resumos/vídeos. */}}
+  {{ if not (or (eq .Params.document_type "resumo") (eq .Params.document_type "video")) }}
   <section class="pdf-action">
     {{ with .Params.zenodo_pdf_url }}
     <a href="{{ . }}" class="btn-pdf" target="_blank" rel="noopener">
@@ -94,7 +94,7 @@
   {{ end }}
   {{ end }}
   {{/* DOI para resumos (sem seção pdf-action) */}}
-  {{ if or (eq .Params.document_type "resumo") (eq .Params.document_type "mesa") }}
+  {{ if eq .Params.document_type "resumo" }}
   {{ with .Params.doi }}
   <a href="https://doi.org/{{ . }}" class="doi-badge" itemprop="sameAs" target="_blank" rel="noopener"><span class="doi-label">DOI</span><span class="doi-value">{{ . }}</span></a>
   <button class="doi-copy" data-doi="https://doi.org/{{ . }}" title="Copiar DOI"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg></button>
