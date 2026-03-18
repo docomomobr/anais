@@ -1,88 +1,78 @@
 [
   {
-    "doi": "10.29327/1344945.1-1",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660679-aqui-jaz-jk--o-tumulo-moderno-como-consolidacao-da-individualidade-de-um-chefe-de-estado/",
-    "db_id": null
+    "even3_id": 660679,
+    "doi": "10.29327/1344945.1-1"
   },
   {
-    "doi": "10.29327/1344945.1-2",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660832-cine-teatro-e-grande-hotel-de-cuiaba--a-mao-do-estado-novo-nos-equipamentos-de-uso-coletivo/",
-    "db_id": "sdbr15-007"
+    "even3_id": 658487,
+    "doi": "10.29327/1344945.1-10"
   },
   {
-    "doi": "10.29327/1344945.1-3",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660196-o-conjunto-paisagistico-do-instituto-de-puericultura-da-ufrj--o-ocaso-de-um-patrimonio/",
-    "db_id": "sdbr15-030"
+    "even3_id": 658073,
+    "doi": "10.29327/1344945.1-11"
   },
   {
-    "doi": "10.29327/1344945.1-4",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/658178-o-moderno-e-o-contemporaneo--um-estudo-sobre-arquitetura-social-na-amazonia/",
-    "db_id": "sdbr15-097"
+    "even3_id": 648416,
+    "doi": "10.29327/1344945.1-12"
   },
   {
-    "doi": "10.29327/1344945.1-5",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/786578-01-mesas-especiais-e-homenagem-a-mirthes-baffi/",
-    "db_id": null,
-    "note": "SKIP (mesas especiais)"
+    "even3_id": 660862,
+    "doi": "10.29327/1344945.1-13"
   },
   {
-    "doi": "10.29327/1344945.1-6",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660523-o-auditorio-oscar-niemeyer-da-cidade-de-ravello--trajetoria-de-uma-ideia/",
-    "db_id": "sdbr15-080"
+    "even3_id": 660858,
+    "doi": "10.29327/1344945.1-14"
   },
   {
-    "doi": "10.29327/1344945.1-7",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/649494-um-carater-local-inconfundivel--reflexoes-da-equipe-brasileira-sobre-a-cidade-universitaria-de-1936/",
-    "db_id": "sdbr15-026"
+    "even3_id": 660575,
+    "doi": "10.29327/1344945.1-15"
   },
   {
-    "doi": "10.29327/1344945.1-8",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/658903-caminhada-de-inventario-como-ferramenta-metodologica-para-a-salvaguarda-e-reconhecimento-da-memoria-patrimonial/",
-    "db_id": "sdbr15-065"
+    "even3_id": 656415,
+    "doi": "10.29327/1344945.1-16"
   },
   {
-    "doi": "10.29327/1344945.1-9",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660898-um-edificio-um-bosque-e-a-construcao-do-discurso-moderno-em-goiania/",
-    "db_id": "sdbr15-012"
+    "even3_id": 660645,
+    "doi": "10.29327/1344945.1-17"
   },
   {
-    "doi": "10.29327/1344945.1-10",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/658487-hospital-tide-setubal--passado-presente-e-futuro/",
-    "db_id": "sdbr15-092"
+    "even3_id": 660832,
+    "doi": "10.29327/1344945.1-2"
   },
   {
-    "doi": "10.29327/1344945.1-11",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/658073-celebracao-ou-requiem--percalsos-na-preservacao-da-arquitetura-moderna-de-curitiba/",
-    "db_id": "sdbr15-084"
+    "even3_id": 660196,
+    "doi": "10.29327/1344945.1-3"
   },
   {
-    "doi": "10.29327/1344945.1-12",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/648416-um-acervo-de-arquitetura-moderna-a-ceu-aberto--os-bairros-paulistanos-de-higienopolis-santa-cecilia-vila-buarqu/",
-    "db_id": "sdbr15-008"
+    "even3_id": 658178,
+    "doi": "10.29327/1344945.1-4"
   },
   {
-    "doi": "10.29327/1344945.1-13",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660862-equipamentos-esportivos-modernos-publicos-e-memoria--o-conjunto-de-matao-sp/",
-    "db_id": "sdbr15-073"
+    "even3_id": 786578,
+    "doi": "10.29327/1344945.1-5"
   },
   {
-    "doi": "10.29327/1344945.1-14",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660858-viaduto-negrao-de-lima--espaco-tempo-e-patrimonio/",
-    "db_id": "sdbr15-010"
+    "even3_id": 660523,
+    "doi": "10.29327/1344945.1-6"
   },
   {
-    "doi": "10.29327/1344945.1-15",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660575-habitacao-vertical-no-rio-de-janeiro--ensaio-sobre-as-primeiras-diretrizes-modernas/",
-    "db_id": "sdbr15-059"
+    "even3_id": 649494,
+    "doi": "10.29327/1344945.1-7"
   },
   {
-    "doi": "10.29327/1344945.1-16",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/656415-de-sala-de-espera-dos-mortos-a-obituario-moderno--pavilhao-luiz-nunes/",
-    "db_id": "sdbr15-056"
+    "even3_id": 658903,
+    "doi": "10.29327/1344945.1-8"
   },
   {
-    "doi": "10.29327/1344945.1-17",
-    "url": "https://www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023/660645-o-bloco-como-patrimonio--o-caso-do-edificio-r3-de-milton-ramos-e-aleixo-furtado/",
-    "db_id": "sdbr15-025"
+    "even3_id": 660898,
+    "doi": "10.29327/1344945.1-9"
+  },
+  {
+    "even3_id": 658562,
+    "doi": "10.29327/1344945.658562"
+  },
+  {
+    "even3_id": 660670,
+    "doi": "10.29327/1344945.660670"
   }
 ]
