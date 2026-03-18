@@ -28,7 +28,7 @@
   {{ end }}
   <div class="author-list">
     {{ with $orcid }}
-    <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="orcid-link" title="ORCID: {{ . }}">
+    <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="orcid-link" title="ORCID: {{ . }}" style="margin-right: 0.3em;">
       <img src="{{ "img/orcid.svg" | relURL }}" alt="ORCID" class="orcid-icon">
     </a>
     <span class="meta">{{ . }}</span>
