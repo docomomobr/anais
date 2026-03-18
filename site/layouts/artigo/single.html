@@ -105,19 +105,19 @@
        abstract=PT (Resumo), abstract_en=EN (Abstract), abstract_es=ES (Resumen). */}}
 
   {{ with .Params.abstract }}
-  <section class="abstract"><h2>Resumo</h2><p itemprop="abstract">{{ . }}</p></section>
+  <section class="abstract"><h2>Resumo</h2><div itemprop="abstract">{{ . | htmlEscape | replaceRE "\n\n+" "</p><p>" | printf "<p>%s</p>" | safeHTML }}</div></section>
   {{ end }}
   {{ with .Params.keywords }}
   <section class="keywords-section"><h2>Palavras-chave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
   {{ end }}
   {{ with .Params.abstract_en }}
-  <section class="abstract abstract-en" lang="en"><h2>Abstract</h2><p>{{ . }}</p></section>
+  <section class="abstract abstract-en" lang="en"><h2>Abstract</h2><div>{{ . | htmlEscape | replaceRE "\n\n+" "</p><p>" | printf "<p>%s</p>" | safeHTML }}</div></section>
   {{ end }}
   {{ with .Params.keywords_en }}
   <section class="keywords-section"><h2>Keywords</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
   {{ end }}
   {{ with .Params.abstract_es }}
-  <section class="abstract abstract-es" lang="es"><h2>Resumen</h2><p>{{ . }}</p></section>
+  <section class="abstract abstract-es" lang="es"><h2>Resumen</h2><div>{{ . | htmlEscape | replaceRE "\n\n+" "</p><p>" | printf "<p>%s</p>" | safeHTML }}</div></section>
   {{ end }}
   {{ with .Params.keywords_es }}
   <section class="keywords-section"><h2>Palabras clave</h2><ul class="keyword-list">{{ range . }}<li><a href="{{ printf "/palavras-chave/%s/" (. | urlize) | relURL }}">{{ . }}</a></li>{{ end }}</ul></section>
