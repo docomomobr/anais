@@ -608,13 +608,18 @@ def upload_article(session, base_url, token, article, authors, seminar_slug,
             return None, None
         record = r.json()
 
-    # DOI: try multiple locations (InvenioRDM vs legacy format)
-    doi = (record.get('pids', {}).get('doi', {}).get('identifier')
-           or record.get('doi')
-           or record.get('metadata', {}).get('doi', ''))
+    # DOI: prefer concept DOI (always resolves to latest version)
+    concept_doi = (record.get('conceptdoi')
+                   or record.get('metadata', {}).get('relations', {}).get('version', [{}])[0].get('parent', {}).get('pid_value', ''))
+    version_doi = (record.get('pids', {}).get('doi', {}).get('identifier')
+                   or record.get('doi')
+                   or record.get('metadata', {}).get('doi', ''))
+    doi = concept_doi if concept_doi else version_doi
     zenodo_url = record.get('links', {}).get('self_html', '')
 
     print(f"  DOI: {doi}")
+    if concept_doi and concept_doi != version_doi:
+        print(f"  DOI versão: {version_doi}")
     if zenodo_url:
         print(f"  URL: {zenodo_url}")
 

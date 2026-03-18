@@ -13,7 +13,7 @@ Para ler, traduzir e organizar a massa de dados, e para fazer a publicação, tr
 
 ## Arquitetura de publicação
 
-Os **artigos em PDF** estão depositados no [Zenodo](https://zenodo.org), repositório acadêmico mantido pelo CERN (Organização Europeia para a Pesquisa Nuclear) e financiado pela Comissão Europeia. O Zenodo é uma infraestrutura pública de longo prazo, sem custo para o depositante, que garante a preservação e o acesso permanente aos arquivos. Cada artigo recebe um DOI (Digital Object Identifier) individual, identificador persistente que assegura que o trabalho será sempre localizável, mesmo que endereços de internet mudem.
+Os **artigos em PDF** estão depositados na [comunidade Docomomo Brasil no Zenodo](https://zenodo.org/communities/docomomobr), repositório acadêmico mantido pelo CERN (Organização Europeia para a Pesquisa Nuclear) e financiado pela Comissão Europeia. O Zenodo é uma infraestrutura pública de longo prazo, sem custo para o depositante, que garante a preservação e o acesso permanente aos arquivos. Cada artigo recebe um DOI (Digital Object Identifier) individual, identificador persistente que assegura que o trabalho será sempre localizável, mesmo que endereços de internet mudem.
 
 O **site de consulta** que você está lendo é gerado estaticamente com [Hugo](https://gohugo.io) e hospedado no [GitHub Pages](https://pages.github.com). Não depende de banco de dados em tempo real, de servidor de aplicação nem de manutenção contínua. A íntegra do código-fonte, dos metadados e do histórico de alterações está em repositório público no [GitHub](https://github.com/docomomobr/anais). Qualquer pessoa pode verificar, reproduzir ou continuar este trabalho.
 
