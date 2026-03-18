@@ -31,6 +31,18 @@ import requests
 from requests.exceptions import ConnectionError, Timeout
 
 
+class TimeoutSession(requests.Session):
+    """Session that enforces a default timeout on all requests."""
+
+    def __init__(self, timeout=(15, 120)):
+        super().__init__()
+        self.timeout = timeout
+
+    def request(self, method, url, **kwargs):
+        kwargs.setdefault('timeout', self.timeout)
+        return super().request(method, url, **kwargs)
+
+
 RETRYABLE_STATUS = {429, 500, 502, 503, 504}
 
 
@@ -67,6 +79,7 @@ PDF_BASE = BASE_DIR
 
 ZENODO_URL = 'https://zenodo.org'
 SANDBOX_URL = 'https://sandbox.zenodo.org'
+REQUEST_TIMEOUT = (15, 120)  # (connect, read) seconds
 
 LOCALE_TO_ISO639 = {
     'pt-BR': 'por',
@@ -883,7 +896,7 @@ def main():
         if not args.seminar:
             print("Erro: --upload-volume requer --seminar")
             sys.exit(1)
-        session = requests.Session()
+        session = TimeoutSession(REQUEST_TIMEOUT)
         doi, record_id = upload_volume(session, base_url, token, args.seminar,
                                        args.dry_run, args.community,
                                        license_id=args.license)
@@ -907,7 +920,7 @@ def main():
         print(f"Seminários: {len(slugs)}")
     print()
 
-    session = requests.Session()
+    session = TimeoutSession(REQUEST_TIMEOUT)
     total_uploaded = 0
     total_skipped = 0
     total_errors = 0

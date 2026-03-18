@@ -147,10 +147,10 @@
   <div class="article-list">
   {{ $currentSection := "" }}
   {{ range sort .Pages "File.Path" }}
-    {{ $sec := .Params.section_title | default "Sem seção" }}
+    {{ $sec := .Params.section_title | default "" }}
     {{ if ne $sec $currentSection }}
       {{ $currentSection = $sec }}
-      <h2 class="section-heading">{{ $sec }}</h2>
+      {{ if $sec }}<h2 class="section-heading">{{ $sec }}</h2>{{ end }}
     {{ end }}
     <article class="article-item">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h3>
