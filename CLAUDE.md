@@ -267,6 +267,23 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 - Abstracts renderizam com parágrafos (`<p>`) via `replaceRE "\n\n+" "</p><p>"` + `safeHTML`
 - Mesas mostram botão "Baixar PDF" e DOI badge (removida exclusão de `mesa` da seção `pdf-action`)
 
+**Deploy do site Hugo:**
+- GitHub Actions workflow: reconstruct DB → db2hugo → hugo build → Pagefind → deploy
+- Pagefind: busca estática indexando todos os artigos
+- Favicon: ícone Docomomo do site principal
+- Google Search Console: verificação HTML, sitemap submetido
+- CNAME: `anais.docomomobrasil.com`
+- Workflow gera só nacionais (regionais ainda não publicados)
+- Capas: db2hugo busca em `site/static/img/capas/` (tracked) antes de `nacionais/capas/` (gitignored)
+
+**13 artigos faltantes inseridos (comparação OJS vs banco):**
+- sdbr03: 1 (Marcos Carrilho, "A ruína da Casa Modernista")
+- sdbr05: 5 mesas temáticas (Comas, Lara, Camisassa, Camargo, Conduru) — seção "Mesas Temáticas" criada
+- sdbr07: 7 (Rocha, Leão, Alves, Diez, Moreira/Naslavsky, Schlee/Donato, Pellegrini/Machado)
+- Dedup autores: Fernando Luiz Camargos Lara → Fernando Luiz Lara
+- Normalização de títulos + revisão LLM: 3 correções (descritiva+toponímico, IPESP sigla)
+- Mapeamento OJS completo documentado: `docs/ojs_revista_mapping.json`, `docs/artigos_faltantes_ojs.md`
+
 ### 2026-03-18 — 3 artigos novos, 11 videoposters sdbr14, seções agrupadas
 
 **sdbr14 videoposters (11 vídeos):**
@@ -340,9 +357,11 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 - Pendentes: sdbr08 (DVD), sdmg01 (DVD) — resolvidos pelo usuário
 
 **Migração OJS documentada (Fase 5):**
-- Mapeamento OJS ID → artigo: 1421 artigos em `docs/ojs_article_mapping.json`
+- Mapeamento OJS ID → artigo (anais): 1421 artigos em `docs/ojs_article_mapping.json`
+- Mapeamento OJS revista: 120 artigos + 13 edições em `docs/ojs_revista_mapping.json`
 - Fluxo: coexistência → repo de redirects → DNS → desligar OJS
 - Repo separado `docomomobr/publicacoes` para redirects (GitHub Pages = 1 domain/repo)
+- Redirects: `/anais/*` → `anais.docomomobrasil.com/*`, `/revista/*` → `revista.docomomobrasil.com/*`
 
 **Site Hugo:**
 - Homepage simplificada (só nacionais, regionais comentados no nav)
