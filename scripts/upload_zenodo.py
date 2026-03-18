@@ -946,7 +946,7 @@ def main():
         for art in articles:
             if not art['file'] or not find_pdf(art):
                 continue
-            if art['document_type'] in ('resumo', 'mesa'):
+            if art['document_type'] == 'resumo':
                 continue
             if args.skip_existing and art['doi'] and not args.dry_run:
                 continue
@@ -966,8 +966,8 @@ def main():
                 total_skipped += 1
                 continue
 
-            if art['document_type'] in ('resumo', 'mesa'):
-                print(f"[SKIP] {article_id}: {art['document_type']} (sem texto completo)")
+            if art['document_type'] == 'resumo':
+                print(f"[SKIP] {article_id}: resumo (sem texto completo)")
                 total_skipped += 1
                 continue
 

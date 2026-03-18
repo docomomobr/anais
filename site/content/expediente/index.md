@@ -9,7 +9,7 @@ Muitos seminários já estavam disponibilizados na internet — inclusive na pá
 
 Até aqui, todos os organizadores consultados foram solícitos em atender prontamente a nossa solicitação, enviando os arquivos originais. Esse esforço de busca foi empreendido juntamente a Juliana Nery (Norte / Nordeste) e a Suely Puppi (Paraná).
 
-Para ler, traduzir e organizar a massa de dados, e para fazer a publicação, trabalhamos com a ferramenta Claude Code. Graças a esse recurso, foi possível pesquisar e organizar a publicação dos anais de acordo com os mais atuais padrões de dados e metadados vigentes. Seguimos ainda uma filosofia de armazenagem e publicação que acreditamos ser mais robusta que simplesmente dispor os arquivos num servidor pago que poderia ser desativado por alguma inadimplência acidental. Os dados foram distribuídos em plataformas estáveis e resilientes da seguinte forma.
+Para ler, traduzir e organizar a massa de dados, e para fazer a publicação, trabalhamos com a ferramenta Claude Code. Graças a esse recurso, foi possível pesquisar e organizar a publicação dos anais de acordo com os mais atuais padrões de dados e metadados vigentes. Partimos de uma primeira extração de dados feita pela empresa Acesso Acadêmico, que contratamos em 2025 para disponibilizar os arquivos em OJS — *Open Journal System*. Esse sistema, voltado para o fluxo de periódicos, revelou-se problemático para publicar anais, o que ao fim e ao cabo era um adaptação. Cogitamos então a migração para sistemas como dSpace. Por fim, optamos por uma filosofia de armazenagem e publicação, acreditamos, mais robusta que simplesmente dispor os arquivos num servidor pago que poderia ser desativado por alguma inadimplência acidental. Os dados foram distribuídos em plataformas estáveis e resilientes da seguinte forma.
 
 ## Arquitetura de publicação
 
@@ -76,6 +76,5 @@ Os artigos são disponibilizados sob licença [Creative Commons Atribuição 4.0
 
 ---
 
-Danilo Matoso Macedo
-Tesoureiro
-Docomomo Brasil, gestão 26-27
+Danilo Matoso Macedo  
+Editor

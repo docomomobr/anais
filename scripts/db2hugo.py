@@ -232,6 +232,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     lines.append(f'type: artigo')
     if article['document_type'] and article['document_type'] != 'artigo':
         lines.append(f'document_type: {article["document_type"]}')
+    # Mesas primeiro dentro de cada seção
+    lines.append(f'weight: {0 if article["document_type"] == "mesa" else 10}')
     if article['section_title'] and not article['section_hide_title']:
         # Strip slug suffix from section title for display
         sec = article['section_title']

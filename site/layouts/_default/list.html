@@ -146,7 +146,7 @@
 
   <div class="article-list">
   {{ $currentSection := "" }}
-  {{ range sort (sort .Pages "File.Path") "Params.section_seq" }}
+  {{ range sort (sort (sort .Pages "File.Path") "Weight") "Params.section_seq" }}
     {{ $sec := .Params.section_title | default "" }}
     {{ if ne $sec $currentSection }}
       {{ $currentSection = $sec }}
