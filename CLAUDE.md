@@ -245,6 +245,30 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-19 — 13 artigos faltantes: pipeline revisão completo
+
+**Artigos inseridos (comparação OJS vs banco):**
+- sdbr03: 1 (Marcos Carrilho, "A ruína da Casa Modernista")
+- sdbr05: 5 mesas temáticas (Comas, Lara, Camisassa, Camargo, Conduru) — seção "Mesas Temáticas" criada (seq=90)
+- sdbr07: 7 (Rocha, Leão, Alves, Diez, Moreira/Naslavsky, Schlee/Donato, Pellegrini/Machado)
+- PDFs baixados do OJS, fontes salvas (txt/jsonl)
+- Dedup: Fernando Luiz Camargos Lara → Fernando Luiz Lara; Ricardo Rocha → Ricardo de Souza Rocha
+
+**Pipeline revisão (etapas 0.3b a Fase 2):**
+- Extração pdfplumber: abstracts, keywords, abstract_en, keywords_en, referências
+- sdbr07: 6 abstracts completos (064-069), keywords PT/EN, abstract_en extraídos
+- sdbr05-058: 42 refs; sdbr05-060: 3 refs
+- sdbr07: 19+37+12+14+32+30+10 refs (154 total)
+- Normalização de títulos + revisão LLM: 3 correções (descritiva+toponímico, IPESP sigla)
+- clean_references: 6 backfills (063), 2 junções (058), 1 split (063, 064)
+- validate --fix: 0 issues nos novos artigos
+- HTML de revisão: `revisao/revisao-artigos-novos.html`
+
+**Mapeamento OJS:**
+- Revista: 120 artigos, 13 edições em `docs/ojs_revista_mapping.json`
+- Artigos faltantes documentados: `docs/artigos_faltantes_ojs.md`
+- Falsos negativos identificados: sdbr03-005 (Maísa Veloso), sdbr05-003/020/031, sdbr02-001
+
 ### 2026-03-18 — sdbr09 mesas publicadas, reclassificações, Hugo weight
 
 **sdbr09 mesas (21+2 textos publicados no Zenodo):**
