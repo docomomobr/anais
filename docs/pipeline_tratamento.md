@@ -34,6 +34,9 @@ regionais/{região}/{slug}/
 ## Fase 2 — Extração de metadados
 
 ### 2.1 Extrair metadados de cada PDF
+
+**Hierarquia de fontes:** Antes de extrair, verificar se existem doc/docx originais (maior qualidade). Ver [`modulos_pipeline.md` §A](modulos_pipeline.md#a-hierarquia-de-fontes-para-extração) para o procedimento completo.
+
 Script: `extrair_metadados_pagina1.py` (ou extração via agente para seminários novos)
 
 Campos a extrair:
@@ -242,6 +245,8 @@ Adicionar ao arquivo centralizado `revisao/fichas_catalograficas.yaml`:
 O campo `description` do YAML do seminário deve conter a mesma ficha (em 1 linha).
 O script `generate_ojs_xml.py` lê as fichas de `revisao/fichas_catalograficas.yaml` para gerar o `<description>` da issue no XML.
 
+Para verificação e geração automática da ficha catalográfica, ver [`modulos_pipeline.md` §H](modulos_pipeline.md#h-metadados-do-seminário).
+
 ### 3.2 Separação e formatação de títulos
 
 Regras completas em `docs/regras_dados.md` §"Regras para títulos e subtítulos". Resumo para o construtor:
@@ -382,22 +387,26 @@ python3 scripts/check_references.py --type concatenada   # filtrar por tipo
 
 Meta: **< 2% de problemas** por seminário. Ver detalhes das heurísticas em `docs/devlog_check_references.md`.
 
-#### 4.4c — Correção manual ou por LLM
+#### 4.4c — Sweep completo de referências
+
+Após limpeza base e detecção, rodar varredura em 8 passadas. Ver [`modulos_pipeline.md` §C](modulos_pipeline.md#c-sweep_refs--passadas-e-heurísticas) para heurísticas detalhadas.
+
+```bash
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs --dry-run
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs
+```
+
+#### 4.4d — Correção manual ou por LLM
 
 **Para artigos com notas de rodapé em vez de bibliografia:** ver §2.1c (pipeline de extração de referências de notas).
 
-Problemas não corrigíveis automaticamente (refs de jornais concatenadas, texto corrido misturado, refs garbled):
-
-1. Extrair problemas: `check_references.py --slug {slug} --type todas`
-2. Ler e classificar cada problema (join, split, remove, truncate, replace)
-3. Aplicar correções via script one-shot com operações hardcoded por artigo
-4. Re-verificar: `check_references.py --slug {slug} --summary`
+Problemas não corrigíveis automaticamente. Ver [`modulos_pipeline.md` §F](modulos_pipeline.md#f-revisão-llm-de-referências) para o procedimento LLM completo, prompt e critérios de decisão.
 
 Padrões comuns de correção manual:
-- **Refs de jornal/revista sem autor pessoal** concatenadas (ex: `HOTEL a Bahia. L'Architecture... HOTEL Amazonas. Arquitetura...`) — split manual
-- **Texto corrido** (corpo do artigo, notas de rodapé, biografias) inserido entre as refs — remove/truncate
-- **Refs garbled** (texto de outra seção inserido no meio) — replace com texto correto
-- **Fragmentos pós-split** (editora/ano quebrados em linha separada) — join à ref anterior
+- **Refs de jornal/revista sem autor pessoal** concatenadas — split manual
+- **Texto corrido** (corpo do artigo, notas de rodapé, biografias) — remove/truncate
+- **Refs garbled** (texto de outra seção) — replace com texto correto
+- **Fragmentos pós-split** (editora/ano quebrados) — join à ref anterior
 
 ### 4.5 Revisão de autores
 Verificar automaticamente:
@@ -414,6 +423,8 @@ Verificar automaticamente:
 - [ ] Todos os resumos estão completos (não truncados)?
 - [ ] Abstracts em inglês foram extraídos quando existem?
 - [ ] Artigos sem resumo: são exceções legítimas (homenagens, editoriais)?
+
+Ver [`modulos_pipeline.md` §K](modulos_pipeline.md#k-verificação-de-abstracts) para os 9 tipos de problema de abstracts e código de detecção automática.
 
 ---
 
@@ -520,6 +531,8 @@ python3 scripts/normalizar_maiusculas.py
 ```
 Usa `dict/normalizar.py` + `dict.db` para capitalização conforme norma brasileira. Se aparecerem falsos positivos, corrigir no `dict/dict.db` — remover a entrada standalone e, se necessário, adicionar como expressão multi-palavra. Ver `docs/devlog_normalizacao_maiusculas.md`.
 
+Para revisão LLM de títulos (PT, EN, ES), ver [`modulos_pipeline.md` §D](modulos_pipeline.md#d-revisão-llm-de-títulos-pt) e [§E](modulos_pipeline.md#e-revisão-llm-de-títulos-en-e-es).
+
 ### 7.2b Retroalimentar dicionário após revisão LLM
 
 Quando um LLM (ou revisão humana) corrige títulos que o normalizador automático não acertou, as correções devem ser incorporadas ao `dict.db` para beneficiar os seminários seguintes:
@@ -533,7 +546,7 @@ Quando um LLM (ou revisão humana) corrige títulos que o normalizador automáti
 python3 dict/dump_db.py
 ```
 
-Este ciclo de retroalimentação é cumulativo: cada seminário processado melhora o normalizador para os seguintes. Ver ciclo de aprendizado em [`docs/pipeline_revisao.md`](pipeline_revisao.md).
+Este ciclo de retroalimentação é cumulativo: cada seminário processado melhora o normalizador para os seguintes. Ver ciclo de aprendizado em [`modulos_pipeline.md` §L](modulos_pipeline.md#l-ciclo-de-aprendizado).
 
 ### 7.3 Limpar e verificar referências
 ```bash
@@ -546,6 +559,50 @@ python3 scripts/check_references.py --slug {slug} --summary
 python3 scripts/check_references.py --slug {slug}
 ```
 Ver § 4.4 para o sub-pipeline completo de limpeza de referências.
+
+### 7.3b Sweep completo de referências
+Após a limpeza base (7.3), rodar a varredura completa em 8 passadas:
+
+```bash
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs --dry-run
+python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs
+```
+
+Resolve: lixo grosso, headers infiltrados, page breaks, fragmentos, endnotes, concatenadas, body text, near-dupes. Ver [`modulos_pipeline.md` §C](modulos_pipeline.md#c-sweep_refs--passadas-e-heurísticas) para detalhes das passadas e heurísticas.
+
+Após o sweep, re-rodar backfills (o sweep pode criar novos ao splittar refs):
+
+```bash
+python3 scripts/clean_references.py --slug {slug}
+```
+
+### 7.3c Verificar abstracts
+Rodar auto-fixes e verificar truncamento, lixo e contaminação de idiomas:
+
+```bash
+python3 scripts/validate_metadata.py --slug {slug} --fix
+```
+
+Detecta e corrige: overflows (A20), keywords coladas (A25), idioma errado (A26), PT no EN (A27). Ver [`modulos_pipeline.md` §K](modulos_pipeline.md#k-verificação-de-abstracts) para os 9 tipos de problema e código de detecção.
+
+**Regra — Verificar idioma ao inserir abstracts:** texto em espanhol → `abstract_es`, não `abstract`.
+
+### 7.3d Limpar keywords
+
+```bash
+python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords --dry-run
+python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords
+```
+
+Resolve: template garbage, split de keywords aglutinadas, trim de pontuação, dedup. Ver [`modulos_pipeline.md` §J](modulos_pipeline.md#j-keywords) para detalhes.
+
+### 7.3e Validação de metadados (loop)
+
+```bash
+python3 scripts/fix_validation_issues.py --slug {slug} --loop
+```
+
+Loop: validate_metadata --fix (auto-fixes A15–A27) → fix handlers (A07 abstract_en, A08 keywords_en, A19 abstract truncado) → repete até convergir (max 5 iterações). Ver [`modulos_pipeline.md` §G](modulos_pipeline.md#g-checks-de-validação-a01a27) para a lista completa de checks.
 
 ### 7.4 Deduplicação de autores (AND)
 
