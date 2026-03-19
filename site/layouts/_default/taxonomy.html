@@ -46,10 +46,8 @@
       {{ range $i, $au := .Params.authors }}{{ if $i }}; {{ end }}{{ $au.givenname }} {{ $au.familyname }}{{ end }}
     </p>
     <p class="meta">{{ .Params.event_title }}</p>
-    {{ if .Params.zenodo_pdf_url }}
-    <a href="{{ .Params.zenodo_pdf_url }}" class="btn-pdf-sm">PDF</a>
-    {{ else if .Params.pdf_file }}
-    <span class="btn-pdf-sm btn-pdf-sm--pending">PDF</span>
+    {{ with .Params.zenodo_pdf_url }}
+    <a href="{{ . }}" class="btn-pdf-sm">PDF</a>
     {{ end }}
   </article>
   {{ end }}
