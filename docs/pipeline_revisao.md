@@ -325,6 +325,27 @@ Onde:
 
 Só depois de salvo o arquivo, inserir no banco. Isso garante que a extração não se perde se a sessão for compactada.
 
+**Pós-processamento obrigatório** após extrair abstract e refs:
+
+O script `extrair_fontes_plumber.py` fornece funções de pós-processamento (`post_process_abstract`, `post_process_refs`) que devem ser aplicadas antes de inserir no banco:
+
+1. **Abstract + keywords coladas**: o PDF pode ter "Palavras-chave:" grudado no final do abstract. `post_process_abstract()` separa e retorna `(abstract, keywords)`.
+2. **Hifenização de PDF**: "movimen- to" → "movimento". Corrigido automaticamente.
+3. **Quebras de linha espúrias**: linhas quebradas por coluna do PDF são juntadas (preserva `\n\n` como parágrafo).
+4. **Refs concatenadas**: refs >300 chars com padrão ABNT duplo são splitadas por `post_process_refs()`.
+5. **Underscores ABNT**: `________` no início de ref é substituído pelo autor da ref anterior.
+6. **Refs curtas**: <25 chars são removidas (lixo de extração).
+
+```python
+from scripts.extrair_fontes_plumber import post_process_abstract, post_process_refs
+
+# Ao inserir abstract no banco:
+abstract_limpo, keywords_extraidas = post_process_abstract(abstract_bruto)
+
+# Ao inserir refs no banco:
+refs_limpas = post_process_refs(refs_brutas)
+```
+
 **Checklist obrigatório** antes de prosseguir: todos os artigos devem estar marcados como:
 - ✅ preenchido (dado encontrado no PDF, salvo em arquivo e no banco)
 - ⬜ genuinamente ausente (PDF inspecionado, campo não existe no documento)
