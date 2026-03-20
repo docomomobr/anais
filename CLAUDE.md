@@ -245,6 +245,20 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-19 — SEO: títulos e meta descriptions para Google
+
+**Site title corrigido:**
+- `config.toml`: title "Anais" → "Anais Docomomo Brasil"
+- `baseof.html`: `<title>` agora inclui subtítulo do seminário
+
+**Meta descriptions adicionadas em todas as páginas:**
+- Homepage (`index.html`): description + Open Graph + Twitter Cards
+- Seminários (`list.html`): ficha catalográfica como description
+- Índice de autores/palavras-chave (`terms.html`): contagem de itens
+- Página de autor/keyword (`taxonomy.html`): contagem de artigos
+
+**Verificação:** DNS CNAME ativo (`docomomobr.github.io`), robots.txt permite indexação, sitemap declarado. Google ainda não indexou (site com <2 dias).
+
 ### 2026-03-19 — sdbr07 renumerado, 5 artigos novos, seções sdbr03/06/07
 
 **sdbr07 renumeração (PROPAR/UFRGS):**

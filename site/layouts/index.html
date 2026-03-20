@@ -1,3 +1,14 @@
+{{ define "head" }}
+<meta name="description" content="{{ .Site.Params.description }}">
+<meta property="og:title" content="{{ .Site.Title }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:description" content="{{ .Site.Params.description }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta name="twitter:title" content="{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ .Site.Params.description }}">
+{{ end }}
+
 {{ define "main" }}
 {{/* Enquanto só há nacionais, homepage = lista de seminários brasil */}}
 {{ $brasil := .Site.GetPage "brasil" }}

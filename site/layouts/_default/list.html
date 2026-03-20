@@ -1,5 +1,9 @@
 {{ define "head" }}
 {{ if eq .Type "evento" }}
+{{/* Meta description — proceedings */}}
+{{ with .Params.description -}}
+<meta name="description" content="{{ . | plainify | truncate 160 }}">
+{{ end -}}
 {{/* Dublin Core — proceedings */}}
 <meta name="DC.title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
 <meta name="DC.type" content="proceedings">
