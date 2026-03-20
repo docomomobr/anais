@@ -33,8 +33,15 @@ COVER_DIRS = {
 }
 
 slug = sys.argv[1] if len(sys.argv) > 1 else 'sdpr02'
+# Optional: --articles id1,id2,id3 to filter specific articles
+FILTER_IDS = None
+OUT_SUFFIX = ''
+for i, arg in enumerate(sys.argv):
+    if arg == '--articles' and i + 1 < len(sys.argv):
+        FILTER_IDS = set(sys.argv[i + 1].split(','))
+        OUT_SUFFIX = '-novos'
 REVISAO_DIR = os.path.join(REPO_ROOT, 'revisao')
-OUT = os.path.join(REVISAO_DIR, f'revisao-{slug}.html')
+OUT = os.path.join(REVISAO_DIR, f'revisao-{slug}{OUT_SUFFIX}.html')
 
 
 # ── helpers ──────────────────────────────────────────────────────────
@@ -173,6 +180,10 @@ articles = conn.execute('''
     WHERE a.seminar_slug=?
     ORDER BY s.seq, s.id, a.id
 ''', (slug,)).fetchall()
+
+# Filter articles if --articles was given
+if FILTER_IDS:
+    articles = [a for a in articles if a['id'] in FILTER_IDS]
 
 # Group articles by section
 section_map = {}  # section_title -> list of articles

@@ -1,0 +1,158 @@
+# Artigos faltantes — buffer para revisão antes de inserir no DB
+# Data: 2026-03-19
+# Fonte: site antigo docomomobrasil.com/old/ + PROPAR/UFRGS
+# Status: PDFs pendentes (maioria 404 na Wayback Machine)
+# Ação: NÃO inserir no DB sem aprovação do usuário
+
+# ============================================================
+# sdbr03 — 3 artigos faltantes
+# Fonte: docomomobrasil.com/old/seminarios/3 seminario/
+# ============================================================
+
+sdbr03_faltantes:
+
+  - titulo_site: "Arquitetura Metropolitana — São Paulo Década de 50"
+    autor_sessao: "Denise Xavier de Mendonça (EESC-USP)"
+    sessao_programa: "Sessão B - Inventários e critérios de valor (sexta-feira tarde)"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Denise_mendonça.pdf"
+    pdf_wayback: "404 em todas as capturas"
+    pdf_local: null
+    notas: "Título completo no programa: 'Arquitetura metropolitana – São Paulo década de 50. Análise de 4 edifícios – Edifício do Jornal O Estado de São Paulo / Edifício Itália / Edifício Copan / Conjunto Nacional'"
+
+  - titulo_site: "Monumentalidade na Arquitetura e Urbanismo Modernos no Brasil"
+    autor_sessao: "Emília Stenzel (IPHAN/UnB, mestrado)"
+    sessao_programa: "Sessão A - Os conceitos do MOMO (quinta-feira tarde 14:30)"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Emília_stenzel.pdf"
+    pdf_wayback: "não encontrado"
+    pdf_local: null
+    notas: "Título completo: 'Monumentalidade na arquitetura e urbanismo modernos no Brasil. Os casos de Lúcio Costa e Oscar Niemeyer'"
+
+  - titulo_site: "Porque Lúcio Costa usa a Pequena Casa do Colono na sua Construção Teórica"
+    autor_sessao: "Maria da Graça Rodrigues Santos (FAUUSP, doutorado)"
+    sessao_programa: "Sessão A - Os conceitos do MOMO (quinta-feira tarde 16:15)"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Maria_graça.pdf"
+    pdf_wayback: "404 em todas as capturas"
+    pdf_local: null
+
+# ============================================================
+# sdbr06 — 15 artigos faltantes
+# Fonte: docomomobrasil.com/old/seminarios/6 seminario/
+# ============================================================
+
+sdbr06_faltantes:
+
+  - titulo_site: "Arquitetura Moderna e Habitação Social no Brasil: um Abismo e algumas Transposições"
+    autor: "Aída Pompeo Nogueira"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Aída Pompeo Nogueira.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Contradições na Tábula Rasa: a Preservação do Parque Edificado Moderno"
+    autor: "Maria da Graça Rodrigues Santos"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Maria da Graça Rodrigues Santos.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "O debate Modernidade x Tradição nas Casas Modernas Cariocas"
+    autor: "Márcia Heck"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Márcia Heck.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Edifício do Ministério da Educação e Saúde (1936-1945): Transgredindo a Monumentalidade"
+    autores: "José Barki, José Kos, Roberto Segre, Naylor Vilas Boas"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/José Barki, José Kos, Roberto Segre, Naylor Vilas Boas.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "A experiência do SPHAN em São Paulo, 1937-1975: Em Quatro pontos, Quatro Exemplos para Reflexão"
+    autor: "Cristiane Souza Gonçalves"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Cristiane Souza Gonçalves.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Habitação social e o Movimento Modernista: o Caso do Plano Piloto da Barra da Tijuca e da Baixada de Jacarepaguá"
+    autores: "Gerônimo Leitão, Andreia Margarido"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Geronimo Leitão e Andreia Margarido.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "O IPHAN e a Construção da Identidade Nacional"
+    autor: "Ralf José Castanheira Flores"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Ralf José Castanheira Flores.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+    notas: "Mesmo autor do 'Murais Modernos em São João del-Rei' — mesmo PDF?"
+
+  # FALSO POSITIVO REMOVIDO: "Leitura do Ambiente Urbano" = sdbr06-027 (Inês El-Jaick de Andrade) — já no DB
+
+  - titulo_site: "Memória de Papel: Acervos do Movimento Moderno Carioca"
+    autor: "?"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Memória de Papel_VII Docomomo_com anexo.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Murais Modernos em São João del-Rei"
+    autor: "Ralf José Castanheira Flores"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Ralf José Castanheira Flores.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+    notas: "Mesmo PDF que 'O IPHAN e a Construção da Identidade Nacional'?"
+
+  - titulo_site: "Ornamentação e Modernidade em São Paulo"
+    autores: "André Luiz Tavares Pereira, Anna Paula Silva Gouveia"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/André Luiz tavares Pereira, Anna Paula Silva Gouveia.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Princípio e os Princípios do Paisagismo Moderno: o Jardim-Patrimônio de Roberto Burle Marx"
+    autor: "Aline Figueirôa da Silva"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Aline Figueirôa da Silva.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Sobre a Arquitetura Moderna em Goiânia"
+    autores: "Maria Diva Araújo, Maria Heloísa Veloso"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Maria Diva Araújo, Maria Heloísa Veloso.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  - titulo_site: "Urbanismo em Minas Gerais: Sobre as Contradições do Discurso Moderno Presentes nas Idealizações e Realizações Urbanísticas do Arquiteto Angelo A. Murgel (1932-1942)"
+    autor: "Fábio José Martins de Lima"
+    pdf_url_original: "http://www.docomomo.org.br/seminario%206%20pdfs/Fabio José Martins.pdf"
+    pdf_wayback: "404"
+    pdf_local: null
+
+  # FALSO POSITIVO REMOVIDO: "Visão Estrangeira" = sdbr06-007 (Antônio Renato Guarino Lopes) — já no DB
+
+# ============================================================
+# sdbr07 — 5 artigos faltantes (PDFs já baixados do PROPAR)
+# Ver revisao/sdbr07-rev.md
+# ============================================================
+
+sdbr07_faltantes:
+
+  - id: sdbr07-020
+    titulo_site: "Arquitetura dos Anexos na Praça dos Três Poderes — O caso do Congresso Nacional"
+    pdf_local: "nacionais/sdbr07/pdfs/sdbr07-020.pdf"
+    fontes_plumber: ok
+
+  - id: sdbr07-022
+    titulo_site: "Tanto Cemitério!"
+    pdf_local: "nacionais/sdbr07/pdfs/sdbr07-022.pdf"
+    fontes_plumber: ok
+
+  - id: sdbr07-023
+    titulo_site: "A Tectônica na Reciclagem e Requalificação de Obras Arquitetônicas Modernas"
+    pdf_local: "nacionais/sdbr07/pdfs/sdbr07-023.pdf"
+    fontes_plumber: ok
+
+  - id: sdbr07-030
+    titulo_site: "Park hotel, a urgência de uma ação"
+    pdf_local: "nacionais/sdbr07/pdfs/sdbr07-030.pdf"
+    fontes_plumber: ok
+
+  - id: sdbr07-031
+    titulo_site: "Centro Cultural FIESP: o aço requalificando o espaço"
+    pdf_local: "nacionais/sdbr07/pdfs/sdbr07-031.pdf"
+    fontes_plumber: ok

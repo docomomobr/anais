@@ -1,0 +1,192 @@
+{
+  "slug": "sdbr07",
+  "date": "2026-03-19",
+  "total_articles": 74,
+  "profile": {
+    "total": 74,
+    "locale_es": 1,
+    "abstract": 71,
+    "abstract_en": 66,
+    "abstract_es": 1,
+    "keywords": 65,
+    "keywords_en": 57,
+    "keywords_es": 1,
+    "references_": 71
+  },
+  "auto_fixed": [
+    {
+      "check": "A25",
+      "article_id": "sdbr07-020",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: keywords coladas no final (pos 1949)",
+      "suggestion": "Cortar no marcador de keywords"
+    }
+  ],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdbr07-013",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr07-022",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (612 chars), possível concatenação: \"SITTE, Camillo. A construção das cidades segundo seus princípios artísticos. Org...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-029",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-032",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-033",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A15",
+      "article_id": "sdbr07-033",
+      "field": "locale",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Abstract detectado como inglês (conf=1.00) mas locale=pt-BR",
+      "suggestion": "Verificar se locale deveria ser \"en\""
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-038",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdbr07-046",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdbr07-050",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 33,
+      "detail": "Backfill pendente: \"________________ NASCIMENTO, Flavia Brito do. Entre a estéti...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr07-055",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Ref muito longa (1729 chars), possível concatenação: \"Curitiba, Ano VIII, nº78, novembro 1958. pg 14 -17. Revista O Cruzeiro. Ano XXX,...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-056",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-062",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-063",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A15",
+      "article_id": "sdbr07-064",
+      "field": "locale",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Abstract detectado como inglês (conf=1.00) mas locale=pt-BR",
+      "suggestion": "Verificar se locale deveria ser \"en\""
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-070",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdbr07-072",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr07-022",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (612 chars), possível concatenação: \"SITTE, Camillo. A construção das cidades segundo seus princípios artísticos. Org...\""
+    },
+    {
+      "article_id": "sdbr07-055",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (1729 chars), possível concatenação: \"Curitiba, Ano VIII, nº78, novembro 1958. pg 14 -17. Revista O Cruzeiro. Ano XXX,...\""
+    }
+  ]
+}

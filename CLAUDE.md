@@ -245,6 +245,41 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-19 — sdbr07 renumerado, 5 artigos novos, seções sdbr03/06/07
+
+**sdbr07 renumeração (PROPAR/UFRGS):**
+- 69 artigos renumerados conforme ordem original do PROPAR (https://www.ufrgs.br/propar/anais-do-7o-seminario-docomomo-brasil/)
+- IDs, PDFs, fontes, YAML, OJS mapping, anais.sql atualizados; Zenodo não alterado
+- Gaps 028 e 048 normais (numeração do PROPAR pula)
+- 5 artigos faltantes identificados, PDFs baixados do PROPAR, inseridos no DB:
+  - sdbr07-020: Arquitetura dos anexos na Praça dos Três Poderes (Silva, Sánchez)
+  - sdbr07-022: "Tanto cemitério!" (Holanda, Vasconcellos)
+  - sdbr07-023: A tectônica na reciclagem e requalificação de obras arquitetônicas modernas (Rocha)
+  - sdbr07-030: Park Hotel, a urgência de uma ação (Corrêa, Piquet, Cabral)
+  - sdbr07-031: Centro Cultural FIESP (Vasconcellos)
+- Pipeline de revisão completo nos 5 novos (abstracts, refs, keywords, autores, ORCIDs)
+- 5 artigos publicados no Zenodo (community docomomobr)
+
+**Seções atribuídas a partir do site antigo (docomomobrasil.com/old/):**
+- HTMLs de sessões/trabalhos/autores salvos em `revisao/site_antigo/` (sdbr03-09)
+- sdbr03: 6 sessões criadas (Conceitos do MoMo, Inventários, Práticas, Pesquisas tecnológicas, Ensino, Experiências internacionais). 58/58 artigos
+- sdbr06: 4 sessões (A preservação e o moderno, A problemática do moderno nacional, A construção da história, Conferências). 64/64 artigos
+- sdbr07: 10 mesas (Praça e Palácio, Palácio e Residência, Residência, Urbanismo, Casa, Cultura e Educação, Paisagem/Transporte/Mercado, Agência e Consideração, Autor e Consideração, Hotel/Escritório/Expansão). 74/74 artigos
+- sdbr07: 29 títulos/subtítulos revisados (capitalização LLM — 2 passadas)
+
+**Diagnóstico site antigo vs banco:**
+- sdbr03: 3 artigos faltantes (PDFs 404 na Wayback, não encontrados online)
+- sdbr05: 0 faltantes reais (títulos abreviados no DB)
+- sdbr06: 13 artigos faltantes (PDFs 404, não encontrados online)
+- sdbr08/09: 7/4 faltantes (verificar com DVDs)
+- Artigos faltantes registrados em `revisao/artigos_faltantes_buffer.yaml`
+- Diagnóstico completo em `revisao/site_antigo_diagnostico.md`
+
+**sdbr02 — sessões pendentes:**
+- 3 eixos conhecidos, mapeamento artigo→mesa no arquivo físico do Lab20/UFBA (Prof. Huapaya)
+
+**gerar_revisao_html.py:** suporte a `--articles id1,id2` para filtrar artigos específicos
+
 ### 2026-03-19 — 13 artigos faltantes: pipeline revisão completo
 
 **Artigos inseridos (comparação OJS vs banco):**
