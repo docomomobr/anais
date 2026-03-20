@@ -49,13 +49,14 @@ Quando o usuário fornece um arquivo de revisão (`revisao/{slug}-rev.md`) com u
 ## Regra de ouro — Pipeline existente
 
 ANTES de escrever qualquer código ou rodar qualquer comando:
-1. Consultar [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md) para o fluxo completo
-2. Consultar [`docs/dedup_autores.md`](docs/dedup_autores.md) para deduplicação de autores
-3. Consultar a memória em `.claude/projects/.../memory/MEMORY.md`
-4. Verificar se já existe script em `scripts/` ou `regionais/*/scripts/`
-5. Se o script existe, USAR. Se não existe, PERGUNTAR antes de criar.
-6. NUNCA escrever Python ad-hoc inline quando existe script para a tarefa.
-7. NUNCA alterar o banco sem aprovação explícita do usuário.
+1. Verificar se existe `revisao/{slug}-runner.md` — se sim, **seguir o runner**
+2. Se não existe, gerar: `python3 scripts/gerar_runner.py {slug}`
+3. Consultar `docs/pipeline_*.md` apenas para detalhes e edge cases — o runner é a fonte primária
+4. Consultar a memória em `.claude/projects/.../memory/MEMORY.md`
+5. Verificar se já existe script em `scripts/` ou `regionais/*/scripts/`
+6. Se o script existe, USAR. Se não existe, PERGUNTAR antes de criar.
+7. NUNCA escrever Python ad-hoc inline quando existe script para a tarefa.
+8. NUNCA alterar o banco sem aprovação explícita do usuário.
 
 ## Regra de ouro — Hierarquia de fontes para extração
 
@@ -67,7 +68,7 @@ Verificar **nesta ordem** antes de qualquer extração de texto:
 **SEMPRE verificar se existem doc/docx ANTES de rodar pdfplumber.** Muitos seminários têm os originais em Word.
 **NUNCA tentar reconstruir manualmente texto fragmentado** — é perda de tempo e gera erros.
 
-Quando o usuário diz "rodar o pipeline", significa executar os scripts documentados na ordem documentada — não inventar processo novo.
+Quando o usuário diz "rodar o pipeline", significa seguir o runner do seminário — não ler o pipeline inteiro nem inventar processo novo.
 
 ## Regra de ouro — Zenodo API (InvenioRDM)
 
@@ -83,16 +84,25 @@ Para corrigir metadados de um record publicado:
 
 **Editors nos artigos**: NÃO incluir ORCID dos editors/contributors. Cada artigo geraria uma notificação no perfil ORCID do editor — spam indesejado. ORCID só nos **creators** (autores do artigo e organizadores de volume).
 
-### Como rodar o pipeline completo
+### Como rodar o pipeline
 
-Quando o usuário pedir "rode o pipeline completo nos seminários X, Y, Z":
-1. Abrir `docs/pipeline_tratamento.md` e executar CADA fase na ordem (4→5→6→7)
-2. Dentro de cada fase, executar CADA sub-etapa na ordem documentada
-3. Reportar resultado de cada etapa de forma concisa e CONTINUAR para a próxima
-4. NÃO parar para perguntar entre etapas — só parar se houver erro bloqueante
-5. Ao final, apresentar um resumo consolidado com os problemas que precisam de decisão humana
+O **runner** (`revisao/{slug}-runner.md`) é o checklist executável do seminário.
+Os pipelines (`docs/pipeline_*.md`) são a referência de consulta para edge cases.
 
-As fases 1-3 (aquisição, extração, construção do YAML) são feitas antes e não fazem parte de "rodar o pipeline".
+Quando o usuário pedir "rode o pipeline" num seminário:
+1. Verificar se existe `revisao/{slug}-runner.md`
+2. Se não existe, gerar: `python3 scripts/gerar_runner.py {slug}`
+3. Ler o runner — encontrar a primeira etapa `[ ]`
+4. Executar a etapa, marcar `[x]` no runner, avançar
+5. Se precisar de detalhes sobre uma etapa, consultar o pipeline referenciado no runner
+6. NUNCA pular etapa — se falha, parar e reportar
+7. Ao retomar uma sessão, reler o runner para encontrar onde parou
+
+**Runners por tipo:**
+- `python3 scripts/gerar_runner.py SLUG` — revisão automática (pipeline_revisao.md)
+- `python3 scripts/gerar_runner.py SLUG --type producao` — publicação (Hugo + Zenodo)
+- `python3 scripts/gerar_runner.py` — lista seminários e runners existentes
+- `python3 scripts/gerar_runner.py SLUG --status` — mostra progresso
 
 ---
 
@@ -160,6 +170,7 @@ Credenciais em `.credentials` (gitignored). Resumo dos serviços:
 | `scripts/fix_zenodo_metadata.py` | Corrige metadados de artigos já publicados no Zenodo. Cria nova versão com payload completo reconstruído do DB. `--dry-run`, aceita múltiplos IDs |
 | `scripts/db2hugo.py` | Gera conteúdo Hugo a partir do anais.db |
 | `scripts/gerar_revisao_html.py` | HTML de revisão por seminário: capa, ficha, artigos por seção. `python3 scripts/gerar_revisao_html.py SLUG` → `/tmp/revisao-SLUG.html` |
+| `scripts/gerar_runner.py` | Gera/consulta runners (checklists executáveis). Sem args: lista seminários. `SLUG`: gera runner. `--status`: progresso. `--type producao` |
 
 Pipeline de tratamento (novos seminários): ver [`docs/pipeline_tratamento.md`](docs/pipeline_tratamento.md).
 
