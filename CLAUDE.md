@@ -259,6 +259,11 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 **Verificação:** DNS CNAME ativo (`docomomobr.github.io`), robots.txt permite indexação, sitemap declarado. Google ainda não indexou (site com <2 dias).
 
+**Exportação CSL-YAML:**
+- Template `single.yaml` reescrito como CSL-YAML padrão (campos: `type`, `container-title`, `event-title`, `issued.date-parts`, `DOI`, `author.family/given/ORCID`, etc.)
+- 1438 arquivos validados (yaml.safe_load + campos obrigatórios), 0 erros
+- Expediente atualizado: "YAML" → "CSL-YAML | pandoc-citeproc, processamento automatizado"
+
 ### 2026-03-19 — sdbr07 renumerado, 5 artigos novos, seções sdbr03/06/07
 
 **sdbr07 renumeração (PROPAR/UFRGS):**

@@ -64,7 +64,7 @@ Cada artigo oferece a referência bibliográfica em quatro formatos, acessíveis
 | **BibTeX** | LaTeX, JabRef, Overleaf |
 | **RIS** | EndNote, Mendeley, Zotero |
 | **CSL-JSON** | Zotero, processadores CSL |
-| **YAML** | Processamento automatizado |
+| **CSL-YAML** | pandoc-citeproc, processamento automatizado |
 
 ### Citação ABNT
 
