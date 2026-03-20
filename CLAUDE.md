@@ -245,6 +245,16 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-20 — sdbr11 sessões atribuídas, SEO, CSL-YAML
+
+**sdbr11 — 17 sessões criadas (fonte: Wayback Machine, seminario2016.docomomo.org.br):**
+- 16 sessões + Campo de Liça, extraídas da programação do site original (captura 2017-02-18)
+- 66 artigos atribuídos (fuzzy matching título), 35 sem sessão (artigos não apresentados mas aceitos)
+- Sessões 2 e 13 ambas "Artes Integradas" → "Artes Integradas I" e "Artes Integradas II" (constraint UNIQUE)
+- Diretórios `sessao 17/18` no site eram overflow das sessões 15/16 (não sessões reais)
+- "Isso não matou aquilo" (programa) não encontrado no DB
+- `section_label = 'sessão'`
+
 ### 2026-03-19 — SEO: títulos e meta descriptions para Google
 
 **Site title corrigido:**
