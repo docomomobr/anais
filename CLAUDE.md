@@ -256,6 +256,16 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-21 — sdsul01/sdsul02 revisão completa (Fases 0-3)
+
+**sdsul02** (35 artigos, 41 autores, 1 seção):
+- Abstracts: 30/35 (86%), abstract_en: 26/35 (74%), keywords: 26/35 (74%), refs: 33/33 (100%)
+- ORCID: 29/41 (71%)
+- 10 correções de capitalização, 12 refs split (005), keywords cleanup
+- Revisão humana: 5 abstracts truncados reextraídos, 3 abstract_en contaminados, 2 title_en extraídos
+- 033/034 reclassificados como resumo
+- Contaminação EN/PT recorrente nos regionais Sul (abstracts no mesmo bloco)
+
 ### 2026-03-21 — sdsul01 revisão completa (Fases 0-3)
 
 **sdsul01** (48 artigos, 60 autores, 6 seções):

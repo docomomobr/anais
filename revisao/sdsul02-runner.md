@@ -52,12 +52,12 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** Diagnóstico unificado
+- [x] **3.2** dict.db: sem alterações
+- [x] **3.3** Scripts: padrão truncamento de abstracts multi-bloco (5 artigos) — não automatizável sem falsos positivos
+- [x] **3.4** Pipeline: contaminação EN/PT recorrente nos Sul; check document_type para resumos
+- [x] **3.5** Validação: 0 regressões
+- [x] **3.6** Aprendizado registrado
+- [x] **3.7** Revisão OK
+- [x] **3.8** Checklist: 16/16 ✅
+- [x] **3.9** Fechar
