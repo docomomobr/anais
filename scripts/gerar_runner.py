@@ -191,7 +191,12 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
   python3 scripts/extrair_fontes_plumber.py --slug {slug}
   ```
-- [ ] **0.4** Seções/sessões (fontes: sumário, site do evento, cabeçalhos PDF, programa)
+- [ ] **0.4** Seções/sessões — verificar nesta ordem:
+  1. `fontes/` do seminário (HTML/XML de DVDs, sumários, programas)
+  2. Folha de rosto dos artigos (cabeçalho do PDF indica eixo/sessão)
+  3. Site original (campo `source` na tabela `seminars`)
+  4. Busca na internet / Wayback Machine
+  5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
 - [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
 - [ ] **0.6** Extrair metadados EN{skip_en}: `python3 scripts/extrair_metadados_en.py --slug {slug}`
 - [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)

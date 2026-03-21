@@ -581,12 +581,15 @@ Gerar/atualizar a `description` (ficha catalográfica ABNT). Prioridade: transcr
 
 **Hierarquia de preferência:** Primeiro eixos temáticos (divisão editorial), depois sessões (divisão logística) se eixos não encontrados.
 
-**Fontes (em ordem):**
-1. Sumário ou índice dos anais (PDF do volume)
-2. Cabeçalho dos PDFs dos artigos
-3. Chamada de trabalhos (site do evento)
-4. Caderno de programação
-5. Caderno de resumos
+**Fontes (em ordem de prioridade):**
+1. `fontes/` do seminário — HTML/XML de DVDs originais, sumários, programas impressos
+2. Folha de rosto dos artigos — muitos PDFs indicam o eixo/sessão no cabeçalho
+3. Site original (campo `source` na tabela `seminars`) — site de onde os PDFs foram baixados
+4. Busca na internet / Wayback Machine — programação do evento
+5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
+6. Caderno de resumos
+
+**NUNCA** manter seção genérica "Artigos" sem esgotar todas as fontes acima. Documentar qual fonte foi usada.
 
 **Procedimento:** Verificar PDFs — extrair eixos — criar seções no banco (`INSERT INTO sections`) — mapear artigos — seções sem artigos ficam para documentar a estrutura. Capitalização: sentence case (converter ALL CAPS do PDF).
 
