@@ -191,13 +191,14 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
   python3 scripts/extrair_fontes_plumber.py --slug {slug}
   ```
-- [ ] **0.4** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
-- [ ] **0.5** Verificar abstracts + auto-fix
+- [ ] **0.4** Seções/sessões (fontes: sumário, site do evento, cabeçalhos PDF, programa)
+- [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
+- [ ] **0.6** Verificar abstracts + auto-fix
   ```
   python3 scripts/validate_metadata.py --slug {slug} --fix
   ```
   Depois: varredura manual (truncamento, lixo, cruzamento de idiomas)
-- [ ] **0.6** Extrair metadados EN{skip_en}
+- [ ] **0.7** Extrair metadados EN{skip_en}
   ```
   python3 scripts/extrair_metadados_en.py --slug {slug}
   ```
@@ -232,7 +233,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords
   ```
 - [ ] **1.5** Loop validação: `python3 scripts/fix_validation_issues.py --slug {slug} --loop`
-- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora) + seções
+- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora)
 - [ ] **1.7** Autores: verificar completude vs PDF (confrontar cada artigo com o PDF)
 - [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
 - [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug {slug}` → `--review` → `--apply`
