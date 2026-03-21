@@ -526,13 +526,14 @@ def name_compatible(db_gn, db_fn, orcid_gn, orcid_fn):
 
 # ─── Fase 1: Busca ────────────────────────────────────────────
 
-def phase_search(resume=False, recheck_days=None):
+def phase_search(resume=False, recheck_days=None, slug=None):
     """Busca ORCIDs na API pública.
 
     Args:
         resume: retomar busca interrompida (usa orcid_results.json)
         recheck_days: se > 0, re-checa autores cuja última verificação
                       foi há mais de N dias (mesmo que já tenham sido checados)
+        slug: se informado, busca apenas autores vinculados a artigos desse seminário
     """
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
@@ -575,15 +576,29 @@ def phase_search(resume=False, recheck_days=None):
         print(f'  Pipeline version atual: {PIPELINE_VERSION}')
 
     # Todos os autores sem ORCID, ordenados por nº de artigos
-    cur.execute("""
-        SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
-               a.orcid_checked_at, a.orcid_pipeline_version
-        FROM authors a
-        JOIN article_author aa ON aa.author_id = a.id
-        WHERE (a.orcid IS NULL OR a.orcid = '')
-        GROUP BY a.id
-        ORDER BY n_arts DESC
-    """)
+    if slug:
+        print(f'Filtrando por seminário: {slug}')
+        cur.execute("""
+            SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
+                   a.orcid_checked_at, a.orcid_pipeline_version
+            FROM authors a
+            JOIN article_author aa ON aa.author_id = a.id
+            JOIN articles art ON aa.article_id = art.id
+            WHERE (a.orcid IS NULL OR a.orcid = '')
+              AND art.seminar_slug = ?
+            GROUP BY a.id
+            ORDER BY n_arts DESC
+        """, (slug,))
+    else:
+        cur.execute("""
+            SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
+                   a.orcid_checked_at, a.orcid_pipeline_version
+            FROM authors a
+            JOIN article_author aa ON aa.author_id = a.id
+            WHERE (a.orcid IS NULL OR a.orcid = '')
+            GROUP BY a.id
+            ORDER BY n_arts DESC
+        """)
     authors_raw = cur.fetchall()
 
     # Filtrar autores conforme modo
@@ -1178,10 +1193,13 @@ def main():
     if '--search' in sys.argv:
         resume = '--resume' in sys.argv
         recheck_days = None
+        slug = None
         for i, arg in enumerate(sys.argv):
             if arg == '--recheck-days' and i + 1 < len(sys.argv):
                 recheck_days = int(sys.argv[i + 1])
-        phase_search(resume=resume, recheck_days=recheck_days)
+            if arg == '--slug' and i + 1 < len(sys.argv):
+                slug = sys.argv[i + 1]
+        phase_search(resume=resume, recheck_days=recheck_days, slug=slug)
     elif '--review' in sys.argv:
         phase_review()
     elif '--apply' in sys.argv and '--scrape-faculty' not in sys.argv:
