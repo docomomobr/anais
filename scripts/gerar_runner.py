@@ -239,7 +239,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   ```
   python3 dict/seed_authors.py
   python3 scripts/dedup_authors.py
-  python3 scripts/fetch_orcid.py --search
+  python3 scripts/fetch_orcid.py --search --slug {slug}
   python3 scripts/fetch_orcid.py --review
   python3 scripts/fetch_orcid.py --apply
   ```
