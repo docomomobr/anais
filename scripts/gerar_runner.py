@@ -193,15 +193,13 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   ```
 - [ ] **0.4** Seções/sessões (fontes: sumário, site do evento, cabeçalhos PDF, programa)
 - [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
-- [ ] **0.6** Verificar abstracts + auto-fix
+- [ ] **0.6** Extrair metadados EN{skip_en}: `python3 scripts/extrair_metadados_en.py --slug {slug}`
+- [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)
+- [ ] **0.8** Verificar abstracts + auto-fix
   ```
   python3 scripts/validate_metadata.py --slug {slug} --fix
   ```
   Depois: varredura manual (truncamento, lixo, cruzamento de idiomas)
-- [ ] **0.7** Extrair metadados EN{skip_en}
-  ```
-  python3 scripts/extrair_metadados_en.py --slug {slug}
-  ```
 
 ## Fase 1 — Revisão automática
 
