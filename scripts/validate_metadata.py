@@ -794,11 +794,13 @@ def check_pt_in_abstract_en(article):
     if len(text) < 200:
         return issues
 
-    # Procurar marcadores PT no texto EN
+    # Procurar marcadores PT no texto EN (inclui body text PT colado)
     PT_MARKERS = [
         r'(?:Este\s+artigo|O\s+presente|A\s+pesquisa|Este\s+trabalho|O\s+artigo|A\s+dissertação|A\s+tese)',
         r'Palavras[\s\u00AD\u002D\u2010-\u2015\u200B‐-]*[Cc]haves?\s*:',
         r'Resumo\s*:',
+        # Títulos PT colados após abstract EN (padrão Sul)
+        r'(?:A\s+(?:obra|importância|utilização|construção)|O\s+(?:artigo|conjunto|edifício|projeto|trabalho|tema))\s+',
     ]
     best_pos = None
     for pattern in PT_MARKERS:
@@ -910,6 +912,56 @@ def check_abstract_language_mismatch(article):
             'suggestion': 'Mover abstract → abstract_es, setar abstract = NULL',
             'fix_action': {'move_abstract_to_es': True},
         })
+
+    return issues
+
+
+def check_title_in_abstract(article):
+    """A28: título duplicado no início do abstract.
+
+    Detecta quando o abstract começa com texto idêntico (ou muito similar) ao título.
+    Comum em regionais Sul onde título e abstract estão no mesmo bloco do PDF.
+    Auto-fix: remove o título do início do abstract.
+    """
+    issues = []
+    aid = article['id']
+    title = article.get('title', '')
+    if not title:
+        return issues
+
+    for field_name, title_field in [('abstract', 'title'), ('abstract_en', 'title_en')]:
+        text = article.get(field_name)
+        t = article.get(title_field, '')
+        if not text or not t or len(text) < len(t) + 20:
+            continue
+
+        # Normalizar para comparação
+        t_norm = t.strip().upper()
+        text_norm = text.strip().upper()
+
+        if text_norm.startswith(t_norm):
+            # Calcular onde o título acaba no abstract
+            end_pos = len(t)
+            # Pode ter subtítulo também
+            sub = article.get('subtitle' if field_name == 'abstract' else 'subtitle_en', '')
+            if sub:
+                sub_norm = sub.strip().upper()
+                rest = text[end_pos:].strip().upper()
+                if rest.startswith(sub_norm):
+                    end_pos += len(text[end_pos:]) - len(text[end_pos:].lstrip()) + len(sub)
+
+            clean = text[end_pos:].strip()
+            # Remover separadores no início (: - —)
+            clean = re.sub(r'^[\s:—\-–]+', '', clean).strip()
+
+            if len(clean) > 50:
+                issues.append({
+                    'check': 'A28', 'article_id': aid, 'field': field_name,
+                    'severity': 'warning', 'auto_fixable': True,
+                    'detail': f'{field_name}: começa com título "{t[:40]}..."',
+                    'suggestion': f'Remover título do início',
+                    'fix_action': {'set_field': field_name, 'value': clean},
+                })
 
     return issues
 
@@ -1027,6 +1079,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_keywords_tail(article))
         issues.extend(check_abstract_language_mismatch(article))
         issues.extend(check_pt_in_abstract_en(article))
+        issues.extend(check_title_in_abstract(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -1275,6 +1328,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A25': 'keywords no abstract',
         'A26': 'abstract em idioma errado',
         'A27': 'PT no abstract_en',
+        'A28': 'título no abstract',
     }
 
     if not check_counts:

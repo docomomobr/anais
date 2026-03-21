@@ -651,6 +651,8 @@ Executar **após** a conclusão da revisão humana. Usa como insumo **todas** as
 
 **Princípio:** Para cada correção, perguntar: "por que o pipeline não resolveu isso automaticamente?" O aprendizado só existe se resultar em **alteração concreta**: entrada no dict, regra no script, ou instrução documentada.
 
+**REGRA CRÍTICA:** A Fase 3 **NÃO é um registro passivo**. É a fase onde se **modificam scripts, dict.db e pipeline** para que os mesmos erros não ocorram no próximo seminário. Se a Fase 3 não produz nenhuma alteração em código ou dados, ela falhou — significa que ou os erros foram ignorados, ou o diagnóstico foi superficial. "Não automatizável" só é aceitável se o problema for genuinamente único (1 artigo, sem padrão). Se >=2 seminários tiveram o mesmo tipo de erro manual, é automatizável.
+
 ### 3.1 Diagnóstico unificado
 
 > **GATE**: revisão humana concluída
