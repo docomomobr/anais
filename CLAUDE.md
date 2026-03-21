@@ -256,6 +256,21 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-21 — sdsul01 revisão completa (Fases 0-3)
+
+**sdsul01** (48 artigos, 60 autores, 6 seções):
+- 96% dos artigos sem RESUMO no PDF — abstracts falsos (texto do corpo) limpos, mantidos só 2 genuínos (001, 040)
+- Refs: 45/48 (92%), 4 artigos reconstruídos do plumber (004: 1→7, 034: 1→21, 037: 1→23, 048: 4→11)
+- 20 correções de capitalização (nomes próprios, instituições)
+- ORCID: 41/60 (68%), 19 sem ORCID (todos já checados)
+- Revisão humana: 2 títulos lowercase, 8 correções de refs (splits, notas vs refs, legendas)
+- Aprendizado: check obrigatório de label RESUMO na Fase 0
+
+**Runner system implementado:**
+- `scripts/gerar_runner.py`: gerador de checklists executáveis por seminário
+- Modos: `--status` (progresso), `--type producao`, sem args (lista todos)
+- CLAUDE.md atualizado com instruções de uso
+
 ### 2026-03-20 — sdbr11 sessões atribuídas, SEO, CSL-YAML
 
 **sdbr11 — 17 sessões criadas (fonte: Wayback Machine, seminario2016.docomomo.org.br):**
