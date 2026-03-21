@@ -232,14 +232,18 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords
   ```
 - [ ] **1.5** Loop validação: `python3 scripts/fix_validation_issues.py --slug {slug} --loop`
-- [ ] **1.6** Cobertura de metadados → tabela final
-- [ ] **1.7** Metadados do seminário (título, ISBN, editora, ficha catalográfica)
-- [ ] **1.8** Seções/sessões (fontes: sumário, cabeçalhos PDF, programa)
-- [ ] **1.9** Seed autores: `python3 dict/seed_authors.py`
-- [ ] **1.10** Dedup autores: `python3 scripts/dedup_authors.py`
-- [ ] **1.11** ORCID busca: `python3 scripts/fetch_orcid.py --search --slug {slug}`
-- [ ] **1.12** ORCID revisão: `python3 scripts/fetch_orcid.py --review`
-- [ ] **1.13** ORCID aplicar: `python3 scripts/fetch_orcid.py --apply`
+- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora) + seções
+- [ ] **1.7** Autores: completude vs PDF + seed + dedup
+  ```
+  python3 dict/seed_authors.py
+  python3 scripts/dedup_authors.py
+  ```
+- [ ] **1.8** ORCID: busca + revisão + aplicar
+  ```
+  python3 scripts/fetch_orcid.py --search --slug {slug}
+  python3 scripts/fetch_orcid.py --review
+  python3 scripts/fetch_orcid.py --apply
+  ```
 
 ## Fase 2 — HTML de revisão + checkpoint
 
