@@ -1,0 +1,92 @@
+{
+  "slug": "sdsul02",
+  "date": "2026-03-21",
+  "total_articles": 35,
+  "profile": {
+    "total": 35,
+    "locale_es": 1,
+    "abstract": 30,
+    "abstract_en": 26,
+    "abstract_es": 0,
+    "keywords": 26,
+    "keywords_en": 22,
+    "keywords_es": 0,
+    "references_": 33
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdsul02-007",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul02-007",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...dada, talvez devido em parte a sua menor\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul02-010",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul02-010",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...Aires: Fondo Nacional de las artes, 2001\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul02-026",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdsul02-029",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul02-031",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul02-032",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}
