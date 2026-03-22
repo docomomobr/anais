@@ -966,6 +966,70 @@ def check_title_in_abstract(article):
     return issues
 
 
+def check_abstract_leading_junk(article):
+    """A29: abstract começa com pontuação ou whitespace indevido.
+
+    Detecta abstracts que começam com ':', '-', espaços, etc.
+    Comum em regionais Sul onde a extração inclui separadores.
+    Auto-fix: remove a pontuação/whitespace do início.
+    """
+    issues = []
+    aid = article['id']
+
+    for field_name in ('abstract', 'abstract_en', 'abstract_es'):
+        text = article.get(field_name)
+        if not text or len(text) < 20:
+            continue
+
+        # Detectar início com pontuação/whitespace
+        stripped = text.lstrip(' \t\n:;-–—•·')
+        if len(stripped) < len(text) and len(stripped) > 50:
+            issues.append({
+                'check': 'A29', 'article_id': aid, 'field': field_name,
+                'severity': 'warning', 'auto_fixable': True,
+                'detail': f'{field_name}: começa com pontuação/espaço indevido',
+                'suggestion': 'Remover pontuação do início',
+                'fix_action': {'set_field': field_name, 'value': stripped},
+            })
+
+    return issues
+
+
+def check_abstract_en_wrong_locale(article):
+    """A30: abstract_en contém texto no idioma do artigo (ES) em vez de inglês.
+
+    Para artigos com locale=es, detecta quando abstract_en contém espanhol.
+    Auto-fix: setar abstract_en = NULL.
+    """
+    issues = []
+    aid = article['id']
+    locale = article.get('locale', 'pt-BR')
+    abstract_en = article.get('abstract_en')
+
+    if not abstract_en or len(abstract_en) < 100:
+        return issues
+
+    if locale == 'es':
+        # Contar marcadores EN vs ES
+        en_words = len(re.findall(
+            r'\b(the|of|in|and|to|is|are|was|this|that|with|for|from|which|between|through)\b',
+            abstract_en, re.IGNORECASE))
+        es_words = len(re.findall(
+            r'\b(el|la|los|las|del|una|que|por|con|como|más|entre|desde|sobre|esta|este)\b',
+            abstract_en, re.IGNORECASE))
+
+        if es_words > en_words * 2 and es_words >= 5:
+            issues.append({
+                'check': 'A30', 'article_id': aid, 'field': 'abstract_en',
+                'severity': 'warning', 'auto_fixable': True,
+                'detail': f'abstract_en contém espanhol (locale=es, {es_words} ES vs {en_words} EN)',
+                'suggestion': 'Setar abstract_en = NULL',
+                'fix_action': {'null_field': 'abstract_en'},
+            })
+
+    return issues
+
+
 def check_abstract_truncation(article):
     """A19: abstract possivelmente truncado (não termina com pontuação de fim de frase)."""
     issues = []
@@ -1080,6 +1144,8 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_language_mismatch(article))
         issues.extend(check_pt_in_abstract_en(article))
         issues.extend(check_title_in_abstract(article))
+        issues.extend(check_abstract_leading_junk(article))
+        issues.extend(check_abstract_en_wrong_locale(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -1329,6 +1395,8 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A26': 'abstract em idioma errado',
         'A27': 'PT no abstract_en',
         'A28': 'título no abstract',
+        'A29': 'pontuação no início',
+        'A30': 'abstract_en em ES',
     }
 
     if not check_counts:
