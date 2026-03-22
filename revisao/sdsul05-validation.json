@@ -44,15 +44,6 @@
       "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
     },
     {
-      "check": "A19",
-      "article_id": "sdsul05-019",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...nd provides many elements to discuss the\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A01",
       "article_id": "sdsul05-025",
       "field": "keywords_en",
