@@ -11,7 +11,7 @@
     "keywords": 40,
     "keywords_en": 33,
     "keywords_es": 0,
-    "references_": 28
+    "references_": 43
   },
   "auto_fixed": [],
   "issues": [
@@ -71,6 +71,16 @@
       "auto_fixable": false,
       "detail": "abstract_en presente mas keywords_en faltando",
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul04-014",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 24,
+      "detail": "Ref muito longa (788 chars), possível concatenação: \"“Nem a função, nem a técnica, nem a sociedade, tripé do movimento moderno, visit...\"",
+      "suggestion": "Verificar e separar se necessário"
     },
     {
       "check": "A19",
@@ -147,6 +157,13 @@
     }
   ],
   "category_b_candidates": [
+    {
+      "article_id": "sdsul04-014",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (788 chars), possível concatenação: \"“Nem a função, nem a técnica, nem a sociedade, tripé do movimento moderno, visit...\""
+    },
     {
       "article_id": "sdsul04-018",
       "checks_flagged": [
