@@ -1,0 +1,35 @@
+---
+title: "A introdução do Movimento Moderno no Brasil e a ambivalência dos modelos de habitação"
+date: 2001-01-01
+slug: sdbr04-019
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+section_seq: 2
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-2"
+pdf_file: "sdbr04-019.pdf"
+abstract: |
+  O presente trabalho busca levantar hipóteses sobre quais os reflexos dos discursos e das publicações sobre habitação entre os anos de 1920-1950, encontrados na construção de moradias operárias junto aos espaços voltados integralmente à produção fabril – as vilas operárias. Partindo-se de uma breve análise dos discursos, manifestações e modelos de habitação operária nos 20-50 encontrados em diferentes meios de divulgação do período, como nos anais do Primeiro Congresso de Habitação (1931) e da Jornada da Habitação Econômica (1941), nos manifestos sobre a constituição de um “estilo nacional” e sobre a introdução do Movimento Moderno no país, bem como nas revistas e manuais arquitetônicos do período, a fim de compreender o processo de formação da casa brasileira moral, higiênica e econômica. Num momento de afirmação e /ou resgate dos referenciais arquitetônicos brasileiros e da afirmação do Movimento Moderno no Brasil – em que a aplicação das teorias e práticas arquitetônicas correntes dividia-se entre a formulação da habitação modernizada de estilos variados e na formulação da habitação “moderna”. Busca-se através da análise do caso do Centro Industrial Jaguaré em São Paulo - exemplar de construção de vila operária pela iniciativa industrial apresentado e divulgado pelo engenheiro e membro do I.D.O.R.T. Henrique Dumont Villares – apontar alguns paralelos entre as tendências predominantes e a construção de vilas operárias no dado período.
+authors:
+  - givenname: "Mary Helle"
+    familyname: "Moda Balleiras"
+    affiliation: "EESC-USP"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Moda Balleiras, Mary Helle"
+---

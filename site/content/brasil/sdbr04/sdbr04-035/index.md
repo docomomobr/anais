@@ -1,0 +1,35 @@
+---
+title: "O espaço universitário e o Movimento Moderno de Arquitetura"
+date: 2001-01-01
+slug: sdbr04-035
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+section_seq: 2
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-2"
+pdf_file: "sdbr04-035.pdf"
+abstract: |
+  O surgimento das cidades ou campi universitários exigiu a reserva de grandes terrenos, caracterizando a progressiva especialização de atividades urbanas ocorridas nos últimos dois séculos. Essas grandes áreas promoveram a reunião de várias edificações destinadas ao ensino superior em um mesmo espaço, muito embora grandes distâncias possam acontecer entre cada um dos edifícios e demais equipamentos. No Brasil, é possível afirmar que a universidade se consolida na década de 1930, período coincidente com as primeiras expressões da arquitetura moderna, tal como a do prédio do Ministério de Educação e Cultura no Rio de Janeiro. Capital do país e centro da cultura nacional, a cidade é também a sede da Universidade do Brasil, e apresenta uma oportunidade única de experimentar novas tipologias espaciais propostas pelo movimento moderno de arquitetura. É quando surgem os primeiros esboços da nova cidade universitária, cuja localização foi finalmente definida para a Ilha do Fundão, atualmente ocupada pela Universidade Federal do Rio de Janeiro (UFRJ). Utilizando tal espaço como referência, propõe-se estabelecer uma análise comparativa com o atual campus da Universidade Federal Fluminense (UFF) e cujo projeto foi desenvolvido na década de 1970, destacando-se: 1) análise das morfologias propostas para cada um dos espaços universitários; 2) análise do zoneamento proposto e suas adaptações ao longo do tempo; 3) análise das relações entre estes conjuntos com o restante da cidade. Na conclusão, pretende-se evidenciar como no passado, novos programas – tais como os de uma cidade universitária ou de um campus - puderam servir para a aplicação dos fundamentos trazidos pelo movimento moderno; e ainda, como os paradigmas adotados por ocasião de suas primeiras expressões continuaram sendo aplicados ao longo do tempo, independente de transformações significativas no sistema de ensino, tais como a mudança do sistema de faculdades isoladas para a atual estrutura em departamentos. Este é o caso do campus da Universidade Federal Fluminense, cujo início das obras deu-se somente na década de 1980. A adoção de tal modelo resultou também, em ambos os casos (UFRJ e UFF), na falta de integração com o tecido preexistente da cidade.
+authors:
+  - givenname: "Lélia Mendes de"
+    familyname: "Vasconcellos"
+    affiliation: "UFF"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Vasconcellos, Lélia Mendes de"
+---

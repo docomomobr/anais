@@ -1,0 +1,54 @@
+---
+title: "Poder público e patrimônio recente"
+date: 2011-10-10
+slug: sdbr09-153
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "Poder público e patrimônio recente"
+section_seq: 10
+section_label: "mesa"
+event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
+event_location: "Brasília"
+event_date: "2011-10-10"
+event_isbn: "978-85-60762-04-0"
+event_publisher: "PPG-FAU-UnB"
+event_slug: sdbr09
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 9
+event_city: "Brasília"
+event_year: 2011
+locale: "pt-BR"
+pages: "1-3"
+pdf_file: "sdbr09-153.pdf"
+abstract: |
+  Toda obra de arquitetura construída na cidade cumpre ao nascer uma dupla função pública que extrapola sua finalidade imediata, por mais particular que seja. Ao compor a cidade, constitui o espaço público. Ao permanecer no tempo constitui uma forma de patrimônio. A primeira, uma função pública imediata; a segunda, uma função pública temporal. Mais ainda, sua concepção, construção, conservação e até mesmo demolição envolvem uma gama tão vasta de intervenientes que a transformam num tipo de objeto forçosamente político — fruto de negociações entre grupos sociais. E de fato, obras de arquitetura são instrumentos preferenciais de ação nos jogos de poder de nossa sociedade.
+  
+  No caso específico brasileiro — sobretudo desde o governo Vargas — a própria noção cultural do que é arquitetura está intimamente ligada à noção estatal sobre o que é cultura, sugerindo-nos diversas leituras possíveis desta relação entre poder público e constituição de nossa arquitetura. No campo do patrimônio e de sua gestão — forçosamente institucional — as relações entre poder e valores que em princípio pertencem exclusivamente ao campo da arquitetura são ainda mais explícitas. Afinal, a valoração do patrimônio acaba por retratar os critérios qualitativos a ela contemporâneos.
+  
+  Convidamos todos à reflexão sobre os trabalhos aqui apresentados tendo em vista qual o papel do poder público nos processos descritos. Mais especificamente o modo como o estado estabelece ou legitima determinada arquitetura, e como lida com ela ao longo do tempo — muitas vezes de modo negligente.
+  
+  O primeiro trabalho, "Palácio Farroupilha: uma reflexão sobre a monumentalidade moderna", apresentado por Andrea Soler Machado, apresenta o conceito da monumentalidade e a circulação cultural como chave para compreensão da confluência entre um certo discurso arquitetônico racionalista de raiz norte-americana e o momento político então vivido em nosso país.
+  
+  Esta difusão cultural ampla ganha um viés local no segundo trabalho, "A adoção da linguagem moderna dos edifícios públicos e privados da região de Viçosa-MG", apresentado pelo grupo de Bruno Dalto do Nascimento — orientado por Maria Marta Camisassa — que trata da presença dos edifícios públicos numa região específica e seu papel especialmente difusor de certo léxico arquitetônico.
+  
+  O terceiro trabalho, "Paulo Motta e a arquitetura de saúde em Santa Catarina, 1936/1940", apresentado por Ana Albano Amora, explica como a centralização estatal da concepção de edifícios públicos num arquiteto provindo da capital exercia papel fundamental na definição das arquiteturas que então eram identificadas com o poder público. Mais que isso: mostra que havia outras modernidades estatais, distintas daquelas consagradas pela historiografia.
+  
+  Este mesmo tipo de centralização está presente no quarto trabalho, "Monumentalidad y reproductividad del patrimonio moderno", apresentado por María Laura Tarchini, mostrando como os edifícios das centrais de Correios na Argentina colaboraram para a difusão e recepção locais de uma determinada cultura arquitetônica internacional. Mostra ainda como a patrimonialização destes edifícios e sua gestão levantam interessantes questões teóricas acerca de especificidades do patrimônio recente neste campo.
+  
+  O quinto trabalho, "Restauração do Conjunto Residencial Prefeito Mendes de Moraes — Pedregulho", apresentado por Ubirajara Mello, fecha nossa mesa mostrando questões específicas de conservação decorrentes de uma concepção estatal de moradia (ainda vigentes em certos locais), as responsabilidades de cada ator político, e principalmente suas consequências para a gestão e conservação de edifícios representativos do patrimônio recente.
+  
+  Convido todos a compartilhar das interessantes experiências e instigantes propostas destes pesquisadores, que fazem a gentileza de trazê-las a nós. Tenho certeza de que a concatenação aqui proposta poderá direcionar um debate frutífero e novas reflexões acerca de valores que considerávamos, por assim dizer, exclusivamente arquitetônicos.
+authors:
+  - givenname: "Danilo Matoso"
+    familyname: "Macedo"
+    orcid: "0009-0008-4670-9812"
+doi: "10.5281/zenodo.19099230"
+zenodo_pdf_url: "https://zenodo.org/records/19099231/files/sdbr09-153.pdf"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
+autores:
+  - "Macedo, Danilo Matoso"
+---

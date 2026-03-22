@@ -1,0 +1,45 @@
+---
+title: "Patrimônio e cidades universitárias modernas"
+date: 2011-10-10
+slug: sdbr09-144
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "Patrimônio e cidades universitárias modernas"
+section_seq: 25
+section_label: "mesa"
+event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
+event_location: "Brasília"
+event_date: "2011-10-10"
+event_isbn: "978-85-60762-04-0"
+event_publisher: "PPG-FAU-UnB"
+event_slug: sdbr09
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 9
+event_city: "Brasília"
+event_year: 2011
+locale: "pt-BR"
+pages: "1-3"
+pdf_file: "sdbr09-144.pdf"
+abstract: |
+  Na América Latina as cidades universitárias coincidiram com o desenvolvimento do Movimento Moderno. Com exceção do Campus da Universidade de Havana, que foi o primeiro da região — criado no início do século vinte sob o modelo clássico da Columbia University de McKim, Mead & White em Nova York —, nos anos trinta começou o desenvolvimento de projetos modernos. Na Colômbia, Hans Rother desenha a Cidade Universitária de Bogotá (1937); e no Rio de Janeiro, Lúcio Costa e a equipe de arquitetos brasileiros, assim como Le Corbusier, desenvolvem as propostas não aceitas para o Campus da Universidade do Brasil (1936).
+  
+  Com a finalização da Segunda Guerra Mundial, os governos nacionalistas dos países latino-americanos apoiaram a construção de grandes cidades universitárias como expressão do desejo de formar os próprios profissionais. As duas mais importantes — e declaradas Patrimônio Universal pela UNESCO — foram a da Universidade Central de Venezuela em Caracas de Carlos Raúl Villanueva (1955), e a sede da Universidade Nacional Autônoma de México de Mario Pani e Enrique del Moral (1952). No Brasil, na Ilha do Fundão, em 1949, Jorge Machado Moreira desenvolveu o projeto do Campus da Universidade do Brasil.
+  
+  Estas experiências, que aplicaram ortodoxamente os princípios do Movimento Moderno, serviram de embasamento para os projetos que se concretizaram depois dos anos sessenta, como alguns conjuntos localizados nos diferentes estados do Brasil. Se por uma parte, no Campus de Benfica da Universidade Federal de Ceará em Fortaleza, persiste o modelo ortodoxo; no conjunto construído em Belo Horizonte para a Universidade Federal de Minas Gerais, a solução se aproxima às novas ideias formuladas pelo Team 10, que procuravam um esquema de modulação integradora das escalas arquitetônicas e urbanísticas.
+  
+  Com a criação de Brasília, a nova capital foi um importante campo de experimentação da arquitetura brasileira. E na sede da UnB, tanto Lúcio Costa quanto Oscar Niemeyer concretizaram as suas propostas para a organização do Campus. Costa elaborou uma distribuição urbanística que superava o rígido esquema proposto no Rio de Janeiro em 1936, com uma livre organização volumétrica dos edifícios; e Niemeyer elaborou um detalhado projeto da praça central da Cidade Universitária — que não se concretizou com a chegada da ditadura militar —, que devia configurar o centro da vida social, cultural e política da universidade, assumindo a falida solução do espaço público monumental para o edifício sede das Nações Unidas em Nova York (1947).
+  
+  A saúde pública foi um elemento importante nas Cidades Universitárias, quase o ícone funcional principal do conjunto arquitetônico, como aconteceu na CU do Rio de Janeiro. E contrariamente à influência europeia na arquitetura, o modelo do hospital era assumido dos exemplos norte-americanos. Daí a importância da Escola de Enfermagem de São Paulo, desenhada por Peter Pfisterer, colaborador de Richard Neutra. A significação nacional que tinha o Hospital Universitário do Fundão, como exemplo dos avanços da medicina brasileira, justificou a dimensão inusitada do conjunto arquitetônico. Mas o abandono da metade do gigantesco prédio ao longo de cinquenta anos, levou a sua absurda derrubada no ano 2010.
+authors:
+  - givenname: "Roberto"
+    familyname: "Segre"
+doi: "10.5281/zenodo.19099210"
+zenodo_pdf_url: "https://zenodo.org/records/19099211/files/sdbr09-144.pdf"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
+autores:
+  - "Segre, Roberto"
+---

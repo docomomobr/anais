@@ -1,0 +1,35 @@
+---
+title: "W3 Sul"
+date: 2001-01-01
+slug: sdbr04-020
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
+section_seq: 2
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-3"
+pdf_file: "sdbr04-020.pdf"
+abstract: |
+  Neste momento discute-se a possibilidade da perda do título de patrimônio da humanidade outorgado pela UNESCO a Brasília em 1987 devido a uma série de desvios do seu plano original, alguns muito graves, que realmente o comprometem, outros nem tanto. Entendo que o principal risco de perda desse título se deve a invasões de áreas públicas e mudanças de destinação de áreas urbanas dentro do Plano Piloto e a transformações ocorridas ao longo do processo de consolidação e crescimento da cidade sem o devido acompanhamento pelos organismos que deveriam cuidar de seu desenvolvimento, organismos estes pertencentes a distintas esferas do poder público e/ou representativos de diversos segmentos da sociedade brasiliense. Sempre que abordada nas discussões sobre as mudanças ocorridas ao longo dos 41 anos da cidade, a W3 Sul o é no sentido de sua decadência comercial e da necessidade de sua revitalização. Seu setor habitacional permanece praticamente esquecido. Alguma vez ouvimos críticas ao estado em que se encontram algumas de suas quadras residenciais, seja pela sua “bastardização”, pelas modificações arquitetônicas introduzidas por seus moradores, seja pela proliferação do comércio nessas quadras que deveriam ser estritamente residenciais. Mas, ainda que alguns críticos de arquitetura se preocupem com a qualidade das edificações residenciais na W3 Sul, ou com as modificações de função naquele local, esta parece ser habitualmente uma questão menor, digamos, nos debates sobre os problemas que Brasília vem enfrentando. No entanto, ali, nas primeiras habitações individuais populares construídas no Plano Piloto, acontece um curioso fenômeno relacionado principalmente à falta de opções para a permanência da classe média baixa dentro do mesmo Plano, incluindo as populações flutuantes cujos rendimentos não permitem sua hospedagem nos setores hoteleiros oficiais da cidade. Práticas comuns em outras cidades brasileiras foram se estabelecendo na W3 Sul em aparente contradição com o desenho moderno da cidade, por ele camufladas. Algumas intervenções arquitetônicas refletem o desejo dos proprietários de personalizar sua habitação, procurando extraí-las da uniformidade do conjunto. Outras têm origem no problema da segurança, apesar dos esforços de remoção dos chamados “invasores” do Plano Piloto. Os jardins imediatos às habitações foram apropriados pelos moradores por meio de grades variadas e as áreas públicas estão quase que restritas ao uso como acesso ou como distanciamento providencial da casa em frente. Sob nova embalagem para um produto antigo, proliferam as pensões, subdividindo as iniciais habitações unifamiliares, A densidade populacional nessas quadras, ainda que variável, devido à população flutuante, é bastante diferente da programada. A transformação nas suas funções e na sua arquitetura; a substituição da proposta moderna de uso das quadras da W3 Sul por práticas alternativas e tradicionais; a mudança na sua densidade populacional, explicitam a dinâmica do processo de ocupação do espaço projetado e colocam outra vez em pauta um certo conflito entre o Plano Piloto idealizado pelo Urbanista e a cidade paralela, que o realiza e transgride.
+authors:
+  - givenname: "Lucia Maria Borges de"
+    familyname: "Oliveira"
+    affiliation: "Senado Federal"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Oliveira, Lucia Maria Borges de"
+---

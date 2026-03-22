@@ -1,0 +1,41 @@
+---
+title: "Parque Guinle"
+subtitle: "considerações de uma proposta de restauração"
+date: 2001-01-01
+slug: sdbr04-064
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Uma Forma Moderna de Uso dos Espaços"
+section_seq: 4
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-2"
+pdf_file: "sdbr04-064.pdf"
+abstract: |
+  Os Edifícios Nova Cintra, Bristol e Caledônia, conhecidos por Parque Guinle, construídos entre 1948 e 1954, situados no Rio de Janeiro, projeto de Lucio Costa, são tidos como uma das principais experiências no campo residencial modernista brasileiro. Considerados pela crítica como um dos melhores trabalhos em grande escala do arquiteto, tendo recebido em 1951, na I Bienal de Arquitetura em São Paulo, o primeiro prêmio para prédios residenciais, num júri presidido por Siegfried Giedion. Descritos pelo autor como sendo um laboratório das superquadras de Brasília, foram os primeiros edifícios de apartamentos a assentarem-se sobre pilotis. Revelam uma experiência de moradia inédita em que se revive, em um apartamento, uma característica da casa brasileira tradicional: as duas varandas – uma social e uma caseira. Orientados para a pior insolação, mas com a vista para o Parque, Lúcio Costa lança mão de cobogós e brises, em uma composição de fachada inovadora. O Conjunto, ao longo de seus 50 anos de existência sofreu inúmeras alterações, modificações e acréscimos, provocados pelo homem ou pelo tempo. Estas o descaracterizaram, e, em certa medida, fizeram com que perdesse alguns de seus aspectos mais significativos. Tombados pelo IPHAN em 1986, os edifícios passaram a ser isentos de IPTU. Os acréscimos e modificações, entretanto, permaneceram, a ponto de os condomínios dos edifícios serem multados pela Prefeitura da Cidade do Rio de Janeiro. Contratados pelo condomínio do Edifício Nova Cintra, realizamos um diagnóstico dos danos e problemas do mesmo, resultando em um caderno de considerações e propostas para sua restauração. Os edifícios modernistas, concebidos fundamentalmente com um apelo funcionalista, tornam-se um grande desafio ao serem restaurados, uma vez que na maioria das vezes a função para o qual foram construídos já não mais existe. O seu desgaste não é apenas material - ferragens aparentes, revestimentos faltantes, brises e cobogós quebrados, grades e janelas indevidas – mas é também conceitual. As propostas modernistas e as bases conceituais dos projetos encontram-se desgastadas, e, para alguns, superadas. No caso específico dos edifícios do Parque Guinle, a função habitacional original permanece, porém os modos de habitar modificaram-se no decorrer dos anos, e muitas das intervenções feitas pelos moradores visam atender seus anseios por apartamentos ditos “modernizados”. Tais intervenções, como inserção de banheiros, a partir do advento da suíte, a instalação de aparelhos de ar condicionado, ou ainda, o aumento indiscriminado dos cômodos com a construção de alvenarias junto aos cobogós, não se restringem ao âmbito privado. Elas repercutem nas fachadas, comprometendo a leitura do edifício e seu projeto original. O grande desafio é articular os interesses privados de quem habita e/ou é proprietário com a manutenção íntegra de um bem listado como monumento artístico nacional. Pretende-se apresentar nesta comunicação a experiência concreta de diagnóstico e projeto para o Edifício Nova Cintra bem como as bases conceituais norteadoras.
+authors:
+  - givenname: "Jorge Eduardo"
+    familyname: "Hue"
+    affiliation: "FAU-UFRJ"
+  - givenname: "Flávia Brito do"
+    familyname: "Nascimento"
+    affiliation: "FAU-UFRJ; EESC-USP"
+    orcid: "0000-0002-6889-7614"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Hue, Jorge Eduardo"
+  - "Nascimento, Flávia Brito do"
+---

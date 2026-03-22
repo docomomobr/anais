@@ -1,0 +1,44 @@
+---
+title: "Carlos Lack, um pioneiro da moderna arquitetura no interior de São Paulo"
+date: 2001-01-01
+slug: sdbr04-045
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Industrialização Brasileira e Novas Técnicas Construtivas"
+section_seq: 3
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-3"
+pdf_file: "sdbr04-045.pdf"
+abstract: |
+  O objetivo deste trabalho é analisar as concepções e inovações arquitetônicas e tecnológicas propiciadas por três obras modernistas realizadas pelo arquiteto Carlos Lack em Franca, no período de 1951 a 1955.
+  As etapas desenvolvidas foram: 1. Localização dos projetos elaborados por Lack em Franca; 2. Entrevista com o eng. Maurício França, que foi sócio de Lack; 3. Levantamento biográfico de Lack; 4. Análise dos impactos das obras realizadas por Lack na arquitetura da cidade de Franca.
+  Os produtos obtidos foram: 1. Digitalização dos desenhos dos projetos originais de Lack executados em Franca; 2. Elaboração de resumo biográfico do arquiteto; 3. Estudo dos impactos decorrentes da realização das obras de Lack na paisagem urbana de Franca.
+  A cidade de Franca está situada no extremo nordeste do estado de São Paulo, a 400 quilômetros da capital, possuindo hoje 267 mil habitantes e uma economia de predominância coureiro-calçadista. A cidade polariza os pequenos burgos do entorno, num raio de influência de aproximadamente 60 km, e seu parque industrial, desde os anos 50, exerce forte atração migratória. Sua economia caracterizada por esta produção industrial coureiro-calçadista intensificou-se no imediato pós-guerra e na década de 1950. Até então a cidade, embora possuísse desde os anos 20, experiências industriais maquinizadas em curtumes e na fabricação de calçados, ainda tinha sua economia voltada principalmente para o setor agrícola, notadamente a produção de café e leite.
+  A substituição da cidade imperial, de taipa, pela cidade republicana em tijolos e outros materiais como o vidro e o cimento trazidos pela estrada de ferro que chegou no final do século XIX, deu-se nos primeiros decênios do século XX principalmente com a participação de construtores italianos, como Schirato, Cariolato, Tasso, Tellini e tantos outros.
+  É no ano de 1951 que se ergue, na esquina das ruas do Comércio e Marechal Deodoro, no coração da cidade que era a praça Barão da Franca, o primeiro edifício com todas as características defendidas pelos modernistas, um prédio comercial e de escritórios: ali estão a estrutura independente da alvenaria, os brises voltados para a fachada oeste, as linhas retas e a ausência de adereços decorativos tão caras aos construtores italianos, os pilotis, o uso intensivo do concreto armado, os caixilhos envidraçados seqüencialmente, em grandes panos.
+  O inovador projeto arquitetônico para a cidade foi elaborado de fato por um estudante de arquitetura da Escola Politécnica de São Paulo, o boliviano Carlos Gonzalez Lack. A oportunidade de realizar e construir o projeto de Lack, pelo empresário francano Francisco Barbosa, se deu por um fortuito: Lack morava numa "república" de estudantes em São Paulo, com dois estudantes de engenharia civil de Franca, os irmãos Maurício Costa França e Paulo Vieira França.
+  A associação de Lack com Costa França resultou na constituição de uma empresa de engenharia, a "França & Gonzalez Arquitetura e Engenharia", que durou de 1952 a 1955. Nestes três curtos anos, a associação dos dois profissionais resultou, para a pacata cidade do interior, na realização de três obras modernistas seminais: o já citado prédio comercial, a sede do clube Associação dos Empregados no Comércio e uma grande fábrica de calçados, a Samello, cuja importância histórica, arquitetônica e econômica, são fundamentais para Franca. O impacto da fábrica, com quase 5 mil metros quadrados, vai privilegiar uma visão do processo de produção industrial taylorista, da chamada "organização científica do trabalho". O projeto de Lack e Maurício obedeceu estritamente o rigoroso "lay-out" fornecido pela United Shoes, empresa americana que forneceria todo o maquinário da indústria. Segundo o proprietário da Samello, o empresário Wilson de Mello, o projeto "visava a racionalização do trabalho e sua melhor organização". A concepção arquitetônica incorporou os preceitos racionalistas da arquitetura modernista daquele período ao projeto, como o pilotis, o brise-soleil, os grandes vãos livres internos, tornando-a adequada à implantação dos princípios da gerência técnico-científica, orientada para um novo tipo de trabalhador que se submetesse às exigências da nova disciplina fabril necessária a um novo ritmo de trabalho, com maior produtividade. O novo tipo de planta fabril que surge em Franca, a partir da obra da Samello, incorporou processos de produção industrial novos e permitiu um salto de produtividade, como o advento da esteira e outros métodos de produção, ampliando o desenvolvimento do parque industrial da cidade, que se tornou a principal produtora de calçados masculinos do Brasil.
+  Lack retornou à Bolívia provavelmente em 1955, onde desenvolveu intenso trabalho na região de Santa Cruz de la Sierra, vindo a falecer em 1992.
+authors:
+  - givenname: "Mauro"
+    familyname: "Ferreira"
+    affiliation: "UEMG"
+    orcid: "0000-0002-0843-4829"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Ferreira, Mauro"
+---

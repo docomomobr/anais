@@ -1,0 +1,77 @@
+---
+title: "Inserções Modernistas na moradia financiada pelos IAPS em Natal (décadas de 1950 e 1960)"
+date: 2012-05-29
+slug: sdnne04-025
+type: artigo
+weight: 10
+section_title: "Narrativas historiográficas"
+section_seq: 1
+section_label: "eixo temático"
+event_title: "4º Seminário Docomomo Norte/Nordeste, Natal, 2012"
+event_location: "Natal, RN"
+event_date: "2012-05-29"
+event_isbn: "978-85-63014-05-4"
+event_publisher: "UFRN"
+event_slug: sdnne04
+ambito: nne
+ambito_nome: "Norte/Nordeste"
+event_name: "Seminário Docomomo Norte/Nordeste"
+event_edition: 4
+event_city: "Natal"
+event_year: 2012
+locale: "pt-BR"
+pdf_file: "sdnne04-025.pdf"
+abstract: |
+  Emergiam em Natal, em meio aos anos de 1930 e de 1960, novas linguagens na arquitetura. Tendências racionalizantes e elementos da “arquitetura moderna” disseminavam-se em prédios institucionais, equipamentos públicos e residências particulares. Paralelamente, instalavam-se na capital as primeiras instituições federais encarregadas de intervir diretamente no mercado de moradias por meio do financiamento para construção e aquisição de imóveis, além da produção direta de vilas e de conjuntos: os Institutos de Aposentadorias e Pensões – IAPs. Atualizados quanto ao debate acerca da “reformulação da moradia”, profissionais articulados por esses órgãos propuseram obras que traduziram preceitos da arquitetura e do urbanismo modernos por vários centros do país. Nos agrupamentos residenciais propostos para Natal, estes princípios se materializaram especialmente no Conjunto Nova Tirol, concebido e edificado pelo IAPC em 1958. Neste trabalho, objetiva-se discutir a apropriação de novas tendências na arquitetura das moradias individuais, alvo de sua política entre 1946 e 1964. Para tanto, foram identificados e discutidos os “traços e linhas” que revelavam inovações na moradia, conforme três aspectos: formais, técnicos e espaciais. Os dados primários provêem dos processos prediais arquivados no INSS-RN e armazenados no Banco de dados do HCUrb, sobretudo do material gráfico anexado a 40% desses processos. Verificou-se que novas tendêncas se apresentam em intensidades diferentes ao longo dos períodos, sendo mais “incisivas” nas décadas de 1950 e 1960, quando profissionais alinhados com a arquitetura moderna passaram a atuar na cidade, e, também, no corpo técnico dos IAPs.
+keywords:
+  - "arquitetura modernista"
+  - "financiamento habitacional"
+  - "história da moradia"
+abstract_en: |
+  In the period comprising the 1930s to the 1960s, new architectural forms emerged in Natal. Rationalizing tendencies and the use of “modern” architectural elements were growing in institutional buildings, public equipment and private houses. Concurrently, the first federal institutions tasked to intervening directly in the housing market - the “Institutos de Aposentadorias e Pensões” (Retirement and Pension Institutes - IAPs) - were being created, taking part in the mortgaging and buying of real estate, as well as directly producing groups of housing developments. Professionals linked to these institutions, being familiar with the debate on “housing reformulation”, proposed works that translated the paradigms modern architecture and urban planning on several urban centers in the country. In residential groups proposed for Natal, these principles set to materialize especially in “Nova Tirol”, designed and built by the IAPC in 1958. This work aims to discuss the new architecture trends’ appropriation of individual houses, the target of its policy between 1946 and 1964. Thus the following factors were identified and discussed about the "features and lines" that revealed housing innovations, according to three aspects: formal, technical and space. The primary data have been extracted from the building processes archived in INSS-RN and stored in the HCUrb database - including the plans’ graphical material attached to 40% of these processes. It was found that new trends were presented at different intensities throughout the period, being more "incisive " in the 1950s and 1960s, when professionals aligned with the modern architecture started to work in the city, and also, in IAPs’ staff.
+keywords_en:
+  - "modernist architecture (Natal)"
+  - "housing mortgaging"
+  - "history of housing"
+  - "Natal/RN"
+authors:
+  - givenname: "Luiza Maria Medeiros"
+    familyname: "Lima"
+    affiliation: "UFRN"
+  - givenname: "Angela Lúcia de Araújo"
+    familyname: "Ferreira"
+    affiliation: "PPGAU-UFRN"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "Seminário DOCOMOMO Norte Nordeste (4. : 2012 : Natal, RN). Arquitetura em cidades \"sempre novas\": modernismo, projeto e patrimônio [CD-ROM] / organização: George A. F. Dantas, Rubenilson B. Teixeira. Natal, RN: UFRN, 2012. 1 CD-ROM. ISBN 978-85-63014-05-4"
+autores:
+  - "Lima, Luiza Maria Medeiros"
+  - "Ferreira, Angela Lúcia de Araújo"
+palavras-chave:
+  - "arquitetura modernista"
+  - "financiamento habitacional"
+  - "história da moradia"
+---
+
+## Referências
+
+- ALMEIDA, Caliane Christie Oliveira de. Habitação Social: origens e produção (Natal, 18891964). 2007. Dissertação (Mestrado em Arquitetura e Urbanismo) – EESC/USP, São Carlos, 2007.
+- AMORIM, Luiz M. Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos, ano 01, maio 2001. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889&gt;. Acesso em: 10 nov. 2011.
+- BONDUKI, Nabil. Origens da Habitação Social no Brasil: Arquitetura, Lei do Inquilinato e difusão da casa própria. São Paulo: Estação Liberdade, FAPESP, 1998.
+- CORREIA, Telma de Barros. A construção do habitat moderno no Brasil 1870-1950. São Carlos: RiMa, 2004.
+- DANTAS, Ana Caroline de C. L. Sanitarismo e planejamento urbano: a trajetória das propostas urbanísticas para Natal entre 1935 e 1969. 2003. Dissertação (Mestrado em Arquitetura e Urbanismo) – PPGAU/Ufrn. Natal, 2003.
+- FARAH, Marta Ferreira Santos. Estado, Previdência Social e Habitação. 1983. Dissertação (Mestrado em Sociologia) – FFLCH/USP, São Paulo, 1983.
+- FERREIRA, Angela Lúcia. De la producción del espacio urbano a la creación de territorios en la ciudad: un estudio sobre la constitución de lo urbano en Natal, Brasil. 1996. Tese (Doutorado em Geografia Humana) – Universidad de Barcelona. Barcelona, 1996.
+- FERREIRA, Angela Lúcia; EDUARDO, Anna Rachel B.; DANTAS, Ana Caroline C. L.; DANTAS, George A. F. Uma cidade sã e bela: a trajetória do saneamento em Natal - 1850 a 1969. Natal: IAB-RN/ CREA-RN, 2008.
+- GORELIK, Adrián. Das vanguardas a Brasília: cultura urbana e arquitetura na América Latina. Belo Horizonte: UFMG, 2005.
+- KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel-Edusp, 1990.
+- LIMA, Luiza M. M. Modernismo à prestação: traços e linhas da arquitetura nas moradias financiadas pelos IAPs (Natal, décadas de 1940-60). 2011. Trabalho de conclusão de curso (Graduação em arquitetura e urbanismo) – Universidade Federal do Rio Grande do Norte. Natal, 2011.
+- LARA, Fernando L. C. Modernismo popular: elogio ou imitação? Cadernos de Arquitetura e Urbanismo, Belo Horizonte, v. 12, n. 13, p. 171-184, dez. 2005. Disponível em:http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI2007051409185 2.pdf. Acesso em: 10 nov. 2011.
+- LARA, Fernando L. Modernismo de fachada? Considerações sobre a apropriação popular da estética modernista. In: SEMINÁRIO DE HISTÓRIA DA CIDADE E DO URBANISMO, 7, 2002, Salvador. Anais eletrônicos... Salvador: PPGAU / FAUUFBA, 2002.
+- LEMOS, Carlos A. C.. Alvenaria Burguesa. São Paulo: Nobel, 1989.
+- LEMOS, Carlos A. A República Ensina a Morar. São Paulo: Hucitec, 1999.
+- LEMOS, Carlos A. História da Casa Brasileira. São Paulo: Contexto, 1996
+- LIMA, Luiza M. M.; ALMEIDA, Caliane C. O.; FERREIRA, Angela Lúcia. Conjunto Residencial Tirol: Novas perspectivas (modernas) para a habitação em Natal-RN nos anos 1950. In: DOCOMOMO N-NE, 3, 2010, João Pessoa. Anais Eletrônicos... João Pessoa: UFPB, 2010.
+- MELO, Alexandra C. Yes, nós temos arquitetura moderna! Reconstituição e análise da arquitetura residencial moderna em natal das décadas de 50 e 60. 2004. Dissertação de Mestrado (Mestrado em Arquitetura e Urbanismo) – PPGAU/ UFRN. Natal, 2004.
+- RODRIGUES, Clara O. M.; LIMA, Luiza M. M.; FERREIRA, Angela Lúcia. A influência dos IAPS na configuração urbana de Natal: o caso de Tirol, Petrópolis e Alecrim nas décadas de 1940 a 1960. In: SEMINÁRIO DE HISTÓRIA E DE TECNOLOGIA DA HABITAÇÃO, 1. 2008, Itatiba-SP. Anais eletrônicos... Itatiba: Universidade de São Francisco, 2008. p. 1-12.
+- SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1999.
+- VERÍSSIMO, Francisco Salvador; BITTAR, William S. M. 500 anos da casa no Brasil. Rio de Janeiro: Ediouro, 1999.

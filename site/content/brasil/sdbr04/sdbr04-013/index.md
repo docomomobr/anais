@@ -1,0 +1,40 @@
+---
+title: "A expressão artística moderna de caráter público na arquitetura e no espaço urbano de São Paulo"
+date: 2001-01-01
+slug: sdbr04-013
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Engajamento das Artes Plásticas na Modernização da Arquitetura"
+section_seq: 1
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-3"
+pdf_file: "sdbr04-013.pdf"
+abstract: |
+  As formas tradicionais de arte em lugares públicos são manifestadas pelas esculturas, monumentos, fontes, murais e painéis. A inclusão da arte em espaços urbanos ou integrados à arquitetura em seu interface com a cidade é o que a caracteriza como pública. Este conceito traduz a possibilidade de qualificação de espaços públicos através da arte, que com certeza acompanhou as propostas das obras escolhidas pelo presente trabalho. Arte pública e espaço público são dois elementos na historia da cidade que mantém uma forte relação. A obra de arte não define um espaço público, mas toda vez que uma obra de arte é instalada num espaço de usufruto público, este espaço reforça o seu papel publico, pois ganha significação social. Uma obra de arte não necessita de um espaço publico para existir. Porém um espaço público de grande qualificação necessita da obra de arte para se realizar. O espaço público excepcional integra-se a uma obra de arte de fruição pública que torna explicitas as características históricas e sociais deste espaço, reforçando o papel da intervenção arquitetônica e urbana. Na arquitetura e no urbanismo moderno paulista esta relação com a arte aparece nas principais obras, traduzindo um pensamento integrador e conceitual. A cidade de São Paulo foi reconstruída duas vezes sobre si mesma. Até meados do século XIX, a cidade manteve o aspecto colonial. Nos fins do mesmo século, sobre o mesmo traçado da cidade de taipa assumiu lugar a arquitetura eclética, para ser novamente reconstruída pelo modernismo, no século XX. Nestes quatro séculos, o centro da cidade, portanto, se reconstruiu sobre o mesmo traçado urbano e expandiu-se mesclando influencias na definição dos novos bairros, como no caso dos bairros-jardim. Diversos fatos urbanos moldaram a cidade hoje conhecida: as remodelações europeizantes de Prestes Maia, o crescimento da malha viária, a intensa expansão urbana, a conurbação com os municípios vizinhos, a implantação do metro e as renovações urbanas que buscavam solucionar os problemas de transito, etc. A arte urbana paulistana surgiu em meio a essa dinâmica urbana, sem um plano definido, caracterizando-se, principalmente por locações pontuais de obras, ora ligadas a esforços embelezadores, ora a datas comemorativas. Destaca-se ainda, em São Paulo a desvinculação entre os aspectos históricos de caráter erudito e o espaço urbano cotidiano. Isto impede que a população compreenda a arte pública integrada a um espaço simbólico e significativo culturalmente. Isto provem da heterogeneidade dos grupos e interesses na formação da cidade somado ao fato da importância relativa e recente da cidade na hierarquia nacional. Apesar do aparente caráter fragmentário da arte urbana paulistana é sempre necessário situar-se a sua produção e implantação no contexto cultural, histórico, social, econômico e espacial para compreendê-la em sua plenitude. A interpretação de Aldo Rossi e de Fustel de Coulanges estabelecem relações entre o monumento, rito e elemento mitológico que são fundamentais para estabelecer-se a dimensão cultural e histórica. A primeira obra a ser estudada é o “Monumento às Bandeiras” de Victor Brecheret, principal expressão em escultura na Semana de Arte Moderna em 1922. O monumento foi realizado em 1953 no Parque do Ibirapuera de autoria do arquiteto Oscar Niemeyer, muito tempo depois de sua concepção, na véspera do IV Centenário da cidade de São Paulo, As duas outras obras a serem analisadas são murais integrados à arquitetura, mosaicos de pastilhas de autoria de Di Cavalcanti. O primeiro que enfoca o drama e a comédia na arte teatral foi feito entre 1947 e 1949 para o Teatro Cultura Artística, edifício projetado por Rino Levi, arquiteto das melhores salas de espetáculos do país. O outro é o mural “A Homenagem à Imprensa” que integra um edifício de projeto arquitetônico paradigmático do arquiteto Franz Heep, Jacques Pillon e Gian Gasperini de 1952, ocupado durante décadas pelo jornal O Estado de São Paulo. O último exemplo a ser analisado são painéis de Clóvis Graciano de 1969, localizados na Avenida Rubem Berta, importante via expressa da cidade. A temática dos 4 painéis artísticos é de caráter épico resumida pelos títulos: “A subida da Serra”, “Os Bandeirantes”, “A epopéia do café” e “A cidade de hoje”.
+authors:
+  - givenname: "Maria Eleonora Ulian de Paula"
+    familyname: "Simões"
+    affiliation: "PPGAU-Mackenzie"
+  - givenname: "Roberto"
+    familyname: "Righi"
+    affiliation: "PPGAU-Mackenzie"
+    orcid: "0000-0001-8810-1348"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Simões, Maria Eleonora Ulian de Paula"
+  - "Righi, Roberto"
+---

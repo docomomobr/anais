@@ -1,0 +1,41 @@
+---
+title: "Industrialização das construções na obra de Artigas e Cascaldi"
+date: 2001-01-01
+slug: sdbr04-051
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Industrialização Brasileira e Novas Técnicas Construtivas"
+section_seq: 3
+section_label: "subtema"
+event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_location: "Viçosa"
+event_date: "2001-01-01"
+event_publisher: "UFV"
+event_slug: sdbr04
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 4
+event_city: "Viçosa"
+event_year: 2001
+locale: "pt-BR"
+pages: "1-2"
+pdf_file: "sdbr04-051.pdf"
+abstract: |
+  O trabalho proposto é parte da dissertação de mestrado “A Arquitetura Escolar de Vilanova Artigas e Carlos Cascaldi: 1959-62”, em desenvolvimento. Ainda que não contemplada pela historiografia corrente, pode-se dizer que, a exemplo do que ocorreu no resto do mundo, a questão da “industrialização das construções” foi tema relevante durante toda a trajetória da arquitetura moderna brasileira, ganhando nova dimensão nos anos 60, no momento de elaboração teórica e projetual da vertente chamada “escola paulista”. Neste tema, destacam-se os projetos para arquitetura escolar dos anos 60, tanto por características intrínsecas ao programa, extremamente associadas à demanda urgente por educação escolarizada; quanto pela dimensão política que a “Arquitetura Escolar” assumiu para o grupo de arquitetos articulados em torno de Vilanova Artigas, fazendo de suas obras e projetos, em particular deste período, importante referencial teórico e formal. Pretendemos mostrar que o projeto para o Ginásio Estadual de Utinga (1961-2), de Vilanova Artigas e Carlos Cascaldi, tem como questão central a racionalização dos processos construtivos, tendo servido de paradigma para o conjunto de experiências que foram desenvolvidas neste sentido, e se configurado como um antecedente fundamental daquela que seria a experiência mais conhecida da arquitetura paulista neste campo: o Conjunto Habitacional Zezinho Magalhães Prado, de 1967. O projeto para Utinga parece encaminhar-se mais no sentido de uma arquitetura passível de ser industrializada, que na proposta de um sistema fechado, admitindo processos construtivos com estágios distintos de desenvolvimento; e sua experimentação projetual, ao que parece, trabalha no estreito limite entre as pesquisas formais que já vinham sendo desenvolvidas pelos autores e as exigências pertinentes a processos construtivos industrializados com forte presença do Estado como agente promotor.
+authors:
+  - givenname: "Alexandre"
+    familyname: "Rodrigues Seixas"
+    affiliation: "EESC-USP"
+    orcid: "0009-0008-5257-482X"
+  - givenname: "Carlos Alberto Ferreira"
+    familyname: "Martins"
+    affiliation: "EESC-USP"
+    orcid: "0000-0003-4321-2057"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
+autores:
+  - "Rodrigues Seixas, Alexandre"
+  - "Martins, Carlos Alberto Ferreira"
+---

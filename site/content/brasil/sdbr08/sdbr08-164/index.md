@@ -1,0 +1,36 @@
+---
+title: "Um filme, seis anos depois"
+date: 2009-10-11
+slug: sdbr08-164
+type: artigo
+weight: 10
+section_title: "Síntese e paradoxo das artes"
+section_seq: 1
+section_label: "sessão temática"
+event_title: "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009"
+event_location: "Rio de Janeiro"
+event_date: "2009-10-11"
+event_isbn: "978-85-88027-11-4"
+event_publisher: "PROURB-UFRJ"
+event_slug: sdbr08
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 8
+event_city: "Rio de Janeiro"
+event_year: 2009
+locale: "pt-BR"
+pages: "1-5"
+pdf_file: "sdbr08-164.pdf"
+abstract: |
+  Seis anos após o encontro da AICA de 1959, tem início uma série de movimentos (internacionais) para a produção de um filme documentário a respeito da cidade de Brasília: as articulações para esta produção envolvem, entre outras coisas, a conhecida política de mecenato da empresa italiana Olivetti, o arquiteto e urbanista Lúcio Costa e o cineasta brasileiro Joaquim Pedro de Andrade (autor de obras importantes da cinematografia nacional como ''Macunaíma'', ''os Inconfidentes'' e ''Garrincha, alegria do povo''). O filme afinal realizado por Andrade no biênio 1966-67 [''Brasília: contradições de uma cidade nova''] se pauta por uma espécie de balanço crítico daquilo em que a cidade havia resultado. As leituras que Joaquim Pedro de Andrade e sua equipe realizaram para a produção de sua película envolveram fichamentos cuidadosos dos anais do congresso de 1959 –entregues ao cineasta pelo próprio Lúcio Costa (que tem papel importante na construção da película). Há registro de diálogos entre os dois, à época (1966): neles, Lúcio Costa chama a atenção de Joaquim Pedro para as críticas que a cidade havia recebido na época de sua construção –sugerindo ali a necessidade de que, entre outras coisas, o documentário enfrentasse algumas daquelas questões (aproveitando o tempo que havia transcorrido desde então e a possibilidade histórica de se compreender melhor, àquela altura, os acertos e desacertos urbanísticos e sociais da ''nova capital''). Tendo aliás se envolvido no processo de restauração desta interessante obra (processo que a deu finalmente, agora, ao conhecimento de um público mais amplo), o autor deste trabalho, condensando assim o conteúdo de sua dissertação de mestrado (financiada pela Fapesp), pretende expor ao público do 8º DO.CO.MO.MO_BRASIL, em resumo, os múltiplos modos através dos quais o filme de Joaquim Pedro de Andrade se fez imbricado num debate internacional –que tinha no congresso da AICA uma de suas referências fundamentais. É importante a leitura deste filme como inscrito no conjunto das duradouras e acesas repercussões daquele célebre encontro.
+authors:
+  - givenname: "José Guilherme Pereira"
+    familyname: "Leite"
+doi: "10.5281/zenodo.19073397"
+zenodo_pdf_url: "https://zenodo.org/records/19073398/files/sdbr08-164.pdf"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
+autores:
+  - "Leite, José Guilherme Pereira"
+---
