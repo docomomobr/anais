@@ -167,9 +167,9 @@ def get_article_ids(slug):
 def gen_revisao(slug, s):
     t = s['total']
     has_en = pct(s['abstract_en'], t) >= 30
-    has_title_en = pct(s['title_en'], t) >= 30
+    has_title_en = s['title_en'] > 0
     skip_en = '' if has_en else ' `[SKIP: abstract_en < 30%]`'
-    skip_ten = '' if has_title_en else ' `[SKIP: title_en < 30%]`'
+    skip_ten = '' if has_title_en else ' `[SKIP: title_en = 0]`'
 
     # Gerar sub-checklist por artigo para etapa 1.10
     article_ids = get_article_ids(slug)

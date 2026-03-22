@@ -981,8 +981,16 @@ def check_abstract_leading_junk(article):
         if not text or len(text) < 20:
             continue
 
+        # Detectar label colado no início (ABSTRACT, Resumo, Abstract, RESUMO)
+        import re as _re
+        label_match = _re.match(r'^(?:ABSTRACT|Abstract|RESUMO|Resumo|Resumen|RESUMEN)\s*[.:]?\s*', text)
+        if label_match:
+            stripped = text[label_match.end():]
+        else:
+            stripped = text
+
         # Detectar início com pontuação/whitespace
-        stripped = text.lstrip(' \t\n:;-–—•·')
+        stripped = stripped.lstrip(' \t\n:;-–—•·')
         if len(stripped) < len(text) and len(stripped) > 50:
             issues.append({
                 'check': 'A29', 'article_id': aid, 'field': field_name,

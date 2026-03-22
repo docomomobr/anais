@@ -1,0 +1,62 @@
+{
+  "slug": "sdsul05",
+  "date": "2026-03-22",
+  "causas_raiz": [
+    {
+      "tipo": "abstract_en truncado por bloco adjacente",
+      "artigos": ["005", "016", "019", "025", "031"],
+      "causa": "plumber divide abstract em blocos por page/role, extração só pega o primeiro",
+      "ação": "na 1.10 verificar blocos adjacentes (role=footnote) para continuação",
+      "recorrente": true,
+      "seminarios_anteriores": ["sdsul04"]
+    },
+    {
+      "tipo": "refs contaminadas com notas/legendas/body text",
+      "artigos": ["004", "008", "009", "029"],
+      "causa": "plumber atribui role=reference baseado em font_size, mas legendas e body com mesmo fs entram",
+      "ação": "1.2c obrigatória — ler plumber e identificar boundary BIBLIOGRAFIA/NOTAS",
+      "recorrente": true,
+      "seminarios_anteriores": ["sdsul01", "sdsul02", "sdsul03", "sdsul04"]
+    },
+    {
+      "tipo": "label ABSTRACT colado no abstract_en",
+      "artigos": ["025"],
+      "causa": "strip de label incompleto na extração",
+      "ação": "A29 expandido para detectar/remover labels ABSTRACT/RESUMO no início",
+      "recorrente": true,
+      "script_alterado": "validate_metadata.py (A29)"
+    },
+    {
+      "tipo": "title_en em ALL CAPS não normalizado",
+      "artigos": ["023"],
+      "causa": "runner skipava 1.1b se title_en < 30%, mesmo tendo title_en > 0",
+      "ação": "gerar_runner.py corrigido: skip só se title_en = 0",
+      "recorrente": false,
+      "script_alterado": "gerar_runner.py"
+    },
+    {
+      "tipo": "normalizer over-capitaliza subtítulos",
+      "artigos": ["002", "005", "008", "010", "012", "019", "020", "021", "030", "036", "037"],
+      "causa": "dict.db tem palavras ambíguas (nome próprio em título, genérico em subtítulo)",
+      "ação": "sem alteração no dict (regressão em títulos). Revisão LLM corrige subtítulos.",
+      "recorrente": true,
+      "limitacao_conhecida": true
+    }
+  ],
+  "scripts_alterados": [
+    "validate_metadata.py: A29 expandido — strip de labels ABSTRACT/RESUMO/Resumen no início do abstract",
+    "gerar_runner.py: skip 1.1b só se title_en = 0 (não < 30%)"
+  ],
+  "dict_alterado": false,
+  "pipeline_alterado": false,
+  "cobertura_final": {
+    "abstract": "97%",
+    "abstract_en": "89%",
+    "keywords": "100%",
+    "keywords_en": "86%",
+    "references": "97%",
+    "orcid": "70%"
+  },
+  "issues_humana": 6,
+  "issues_genuinos": 4
+}
