@@ -1030,6 +1030,54 @@ def check_abstract_en_wrong_locale(article):
     return issues
 
 
+def check_es_in_pt_field(article):
+    """A31: artigo locale=es com abstract/keywords em campos PT em vez de _es.
+
+    Auto-fix: mover abstract→abstract_es e keywords→keywords_es.
+    """
+    issues = []
+    aid = article['id']
+    locale = article.get('locale', 'pt-BR')
+
+    if locale != 'es':
+        return issues
+
+    abstract = article.get('abstract')
+    abstract_es = article.get('abstract_es')
+
+    if abstract and not abstract_es and len(abstract) > 50:
+        # Detect ES text in abstract field
+        es_words = len(re.findall(
+            r'\b(el|la|los|las|del|una|que|por|con|como|más|entre|desde|sobre|esta|este)\b',
+            abstract, re.IGNORECASE))
+        pt_words = len(re.findall(
+            r'\b(o|a|os|as|do|da|dos|das|um|uma|que|por|com|como|mais|entre|desde|sobre|esta|este)\b',
+            abstract, re.IGNORECASE))
+        if es_words > pt_words:
+            issues.append({
+                'check': 'A31', 'article_id': aid, 'field': 'abstract',
+                'severity': 'warning', 'auto_fixable': True,
+                'detail': f'locale=es, abstract contém ES ({es_words} ES vs {pt_words} PT) — mover para abstract_es',
+                'suggestion': 'Mover abstract → abstract_es',
+                'fix_action': {'move_field': ('abstract', 'abstract_es')},
+            })
+
+    keywords = article.get('keywords')
+    keywords_es = article.get('keywords_es')
+
+    if keywords and not keywords_es:
+        # Se locale=es e keywords existe mas keywords_es não, mover
+        issues.append({
+            'check': 'A31', 'article_id': aid, 'field': 'keywords',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': 'locale=es, keywords em campo PT — mover para keywords_es',
+            'suggestion': 'Mover keywords → keywords_es',
+            'fix_action': {'move_field': ('keywords', 'keywords_es')},
+        })
+
+    return issues
+
+
 def check_abstract_truncation(article):
     """A19: abstract possivelmente truncado (não termina com pontuação de fim de frase)."""
     issues = []
@@ -1146,6 +1194,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_title_in_abstract(article))
         issues.extend(check_abstract_leading_junk(article))
         issues.extend(check_abstract_en_wrong_locale(article))
+        issues.extend(check_es_in_pt_field(article))
         issues.extend(check_abstract_truncation(article))
 
         # Aplicar auto-fixes
@@ -1257,6 +1306,12 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             cur.execute("UPDATE articles SET abstract_es = NULL WHERE id = ?",
                                         (article['id'],))
                             auto_fixed.append(issue)
+                elif 'move_field' in action:
+                    src, dst = action['move_field']
+                    cur.execute(
+                        f"UPDATE articles SET {dst} = {src}, {src} = NULL WHERE id = ?",
+                        (article['id'],))
+                    auto_fixed.append(issue)
                 elif 'null_field' in action:
                     field = action['null_field']
                     cur.execute(f"UPDATE articles SET {field} = NULL WHERE id = ?",
@@ -1397,6 +1452,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A28': 'título no abstract',
         'A29': 'pontuação no início',
         'A30': 'abstract_en em ES',
+        'A31': 'ES em campo PT',
     }
 
     if not check_counts:

@@ -44,12 +44,12 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** 7 causas raiz: abstracts truncados (12), title_en=lixo (4), refs=notas (6), refs splits (5), ES em campo PT (9), subtítulo no abstract (4), abstract=credenciais (1)
+- [x] **3.2** dict.db: sem alterações
+- [x] **3.3** Scripts: +A31 (check_es_in_pt_field) no validate — detecta/corrige locale=es com abstract/keywords em campos PT. +move_field fix_action.
+- [x] **3.4** Pipeline §1.10 reescrito: 8 passos explícitos, seção PROIBIDO, runner com checklist por artigo
+- [x] **3.5** Dry-run sdsul01-03: 0 regressões, 0 A31 (já corrigidos)
+- [x] **3.6** Memória: feedback_revisao_llm_real.md (ler plumber, não heurísticas)
+- [x] **3.7** Revisão eng: A31 definido+chamado, move_field handler, pipeline §1.10 coerente com runner
+- [x] **3.8** Cobertura final: abs 76%, abs_en 76%, abs_es 20%, kw 70%, kw_en 70%, kw_es 20%, refs 100%
+- [x] **3.9** Fechar: dump + commit

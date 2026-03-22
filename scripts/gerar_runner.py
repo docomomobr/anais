@@ -154,12 +154,26 @@ def list_seminars():
     print(f"\nUso: python3 scripts/gerar_runner.py SLUG [--status]")
 
 
+def get_article_ids(slug):
+    """Retorna lista de IDs dos artigos do seminário, em ordem."""
+    db = sqlite3.connect('anais.db')
+    rows = db.execute(
+        "SELECT id FROM articles WHERE seminar_slug = ? ORDER BY id", (slug,)
+    ).fetchall()
+    db.close()
+    return [r[0] for r in rows]
+
+
 def gen_revisao(slug, s):
     t = s['total']
     has_en = pct(s['abstract_en'], t) >= 30
     has_title_en = pct(s['title_en'], t) >= 30
     skip_en = '' if has_en else ' `[SKIP: abstract_en < 30%]`'
     skip_ten = '' if has_title_en else ' `[SKIP: title_en < 30%]`'
+
+    # Gerar sub-checklist por artigo para etapa 1.10
+    article_ids = get_article_ids(slug)
+    article_lines = '\n'.join(f'  - [ ] {aid}:' for aid in article_ids)
 
     return f"""# {slug} — Runner de revisão
 
@@ -241,9 +255,12 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
 - [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug {slug}` → `--review` → `--apply`
 - [ ] **1.10** Revisão LLM final — TODOS os artigos, TODOS os campos vs plumber
-  Confrontar CADA artigo com o PDF/plumber. Verificar: título, subtítulo, abstract,
-  abstract_en, keywords, keywords_en, refs. Corrigir na hora (R8). Esta é a ÚLTIMA
-  etapa antes do HTML. Nenhum campo pode passar sem ser confrontado com a fonte.
+  Para CADA artigo: ler o plumber INTEIRO, confrontar CADA campo (título, subtítulo,
+  abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF.
+  Corrigir na hora (R8). Registrar resultado de CADA artigo abaixo.
+  Ver §1.10 do pipeline para procedimento detalhado.
+  **1.10 — Resultado por artigo:**
+{article_lines}
 
 ## Fase 2 — HTML de revisão + checkpoint
 

@@ -631,14 +631,31 @@ Ver [ref S-I](modulos_pipeline.md#i-autores--detalhes) para código de verifica�
 
 **Diferença da 1.2c**: A 1.2c foca nas refs durante a fase de limpeza. A 1.10 é o passo final que verifica tudo — incluindo campos que podem ter sido corrompidos por auto-fixes, abstracts truncados que escaparam, títulos com discrepância vs PDF, keywords com lixo.
 
-**Procedimento:**
-1. Para cada artigo, ler o plumber JSONL
-2. Comparar título do DB com título do PDF (SequenceMatcher > 0.8)
-3. Verificar abstract: sem junk no início/final, sem truncamento, sem credenciais
-4. Verificar abstract_en: é EN de fato (não ES/PT), sem truncamento
-5. Verificar keywords: sem lixo, sem fragmentos, tamanho razoável
-6. Verificar refs: sem concatenações, sem body text, sem fragments curtos
-7. Artigos com 0 refs: confirmar que o PDF realmente não tem referências
+**Procedimento — UM artigo por vez:**
+
+Para cada artigo, na ordem do HTML:
+
+1. **Ler o plumber INTEIRO** — `cat fontes_plumber/{id}.jsonl`. Não "primeiras/últimas linhas". O arquivo inteiro.
+2. **Título e subtítulo**: o texto na primeira página com font_size grande (≥12) é o título do PDF. Comparar com o campo `title` no banco. Verificar capitalização, acentos, truncamento.
+3. **Abstract PT**: localizar o bloco de texto após "Resumo" (font_size ~10). Comparar com `abstract` no banco. Verificar:
+   - Começa no mesmo ponto? (Truncamento no início é o erro mais comum)
+   - Termina no mesmo ponto? (Truncamento no final)
+   - Contém credenciais/afiliação em vez de abstract?
+   - Contém subtítulo duplicado no início?
+4. **Abstract EN**: localizar "Abstract" no plumber. Mesmo checklist do item 3.
+5. **Keywords**: localizar "Palavras-chave" / "Keywords". Comparar com `keywords` / `keywords_en`. Verificar se são keywords reais (não fragmentos de texto, não numeração).
+6. **Title EN**: se existe no banco, verificar que NÃO é um footnote, referência bibliográfica, ou fragmento de abstract. Se o PDF não tem título em EN, o campo deve ser NULL.
+7. **Refs**: localizar "Referências" / "Bibliografia" no plumber. Comparar com `references_` no banco. Verificar:
+   - Refs são bibliográficas (não notas de rodapé, não legendas de figuras)
+   - Lista está completa (conferir primeira e última ref vs plumber)
+   - Sem concatenações (refs coladas sem separação)
+   - Artigos com 0 refs: confirmar que o PDF realmente não tem referências
+8. **Registrar resultado**: `{id}: {N} correções` ou `{id}: OK (verificado)`. Cada artigo deve ter uma linha no runner.
+
+**PROIBIDO:**
+- Rodar heurísticas em batch e marcar como "revisão LLM" — isso NÃO é revisão
+- Processar artigos sem ler o plumber — ler é obrigatório, não opcional
+- Marcar 1.10 como concluída sem listar o resultado de CADA artigo no runner
 
 **Após a 1.10**, rodar validate + gerar HTML. Nenhuma etapa de conteúdo pode ser feita após a 1.10 — apenas etapas mecânicas (validate, HTML, dump, commit).
 
