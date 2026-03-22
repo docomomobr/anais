@@ -16,15 +16,6 @@
   "auto_fixed": [],
   "issues": [
     {
-      "check": "A19",
-      "article_id": "sdsul04-002",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...ns Museum (1937), Park Hotel St. Clement\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A10",
       "article_id": "sdsul04-003",
       "field": "references_",
@@ -55,15 +46,6 @@
       "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
     },
     {
-      "check": "A19",
-      "article_id": "sdsul04-005",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: possível truncamento (termina com \"...n professional practices that Portuguese\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A01",
       "article_id": "sdsul04-010",
       "field": "keywords_en",
@@ -81,15 +63,6 @@
       "ref_index": 23,
       "detail": "Ref muito longa (788 chars), possível concatenação: \"“Nem a função, nem a técnica, nem a sociedade, tripé do movimento moderno, visit...\"",
       "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A19",
-      "article_id": "sdsul04-017",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract: possível truncamento (termina com \"...go, realizou-se um recorte que considera\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
     },
     {
       "check": "A11",
