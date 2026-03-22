@@ -240,6 +240,10 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [ ] **1.7** Autores: verificar completude vs PDF (confrontar cada artigo com o PDF)
 - [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
 - [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug {slug}` → `--review` → `--apply`
+- [ ] **1.10** Revisão LLM final — TODOS os artigos, TODOS os campos vs plumber
+  Confrontar CADA artigo com o PDF/plumber. Verificar: título, subtítulo, abstract,
+  abstract_en, keywords, keywords_en, refs. Corrigir na hora (R8). Esta é a ÚLTIMA
+  etapa antes do HTML. Nenhum campo pode passar sem ser confrontado com a fonte.
 
 ## Fase 2 — HTML de revisão + checkpoint
 

@@ -88,10 +88,11 @@ Criar em `revisao/{slug}-rev-status.md` na etapa 0.0:
 □ 1.3  Keywords
 □ 1.4  Aplicar correções ao banco
 □ 1.5  Loop de validação
-□ 1.6a Cobertura de metadados
-□ 1.6b Metadados do seminário
-□ 1.6c Seções/sessões
-□ 1.6d Autores
+□ 1.6  Cobertura de metadados + metadados do seminário
+□ 1.7  Autores: completude vs PDF
+□ 1.8  Dedup autores
+□ 1.9  ORCID
+□ 1.10 Revisão LLM final (TODOS artigos × TODOS campos vs plumber)
 □ 2.0  Gerar HTML de revisão + checkpoint
 □ 3.1  Diagnóstico unificado
 □ 3.2  Atualizar dict.db
@@ -472,7 +473,7 @@ Tipos de problema que escapam: concatenação Chicago, notas sem número, notas 
 
 **REGRA**: A 1.2c **corrige** — não apenas relata. Relatório sem correção = etapa não executada.
 
-**REGRA**: Verificar TODOS os campos (abstract, abstract_en, abstract_es, keywords, keywords_en, keywords_es) — não só referências. Cada artigo deve ser verificado, sem exceção.
+**NOTA**: A verificação completa de TODOS os campos (títulos, abstracts, keywords) é feita na etapa 1.10 — a revisão LLM final. A 1.2c foca nas referências.
 
 **Refs longas (A11) que o sweep não resolveu:** Resolver na revisão LLM — ler o PDF/plumber, identificar se é concatenação, lista de fontes/URLs, ou ref legítima longa. Não deixar para revisão humana.
 
@@ -621,11 +622,31 @@ python3 scripts/fetch_orcid.py --apply
 
 Ver [ref S-I](modulos_pipeline.md#i-autores--detalhes) para código de verificação comparativa.
 
+### 1.10 Revisão LLM final — TODOS os artigos, TODOS os campos
+
+> **GATE**: 1.9 ✅
+> **DONE**: CADA artigo confrontado com o plumber, CADA campo verificado
+
+**REGRA ABSOLUTA**: Esta é a ÚLTIMA etapa antes do HTML. Confrontar **CADA artigo** com o plumber e verificar **TODOS os campos**: título, subtítulo, abstract, abstract_en, keywords, keywords_en, referências. Corrigir na hora (R8).
+
+**Diferença da 1.2c**: A 1.2c foca nas refs durante a fase de limpeza. A 1.10 é o passo final que verifica tudo — incluindo campos que podem ter sido corrompidos por auto-fixes, abstracts truncados que escaparam, títulos com discrepância vs PDF, keywords com lixo.
+
+**Procedimento:**
+1. Para cada artigo, ler o plumber JSONL
+2. Comparar título do DB com título do PDF (SequenceMatcher > 0.8)
+3. Verificar abstract: sem junk no início/final, sem truncamento, sem credenciais
+4. Verificar abstract_en: é EN de fato (não ES/PT), sem truncamento
+5. Verificar keywords: sem lixo, sem fragmentos, tamanho razoável
+6. Verificar refs: sem concatenações, sem body text, sem fragments curtos
+7. Artigos com 0 refs: confirmar que o PDF realmente não tem referências
+
+**Após a 1.10**, rodar validate + gerar HTML. Nenhuma etapa de conteúdo pode ser feita após a 1.10 — apenas etapas mecânicas (validate, HTML, dump, commit).
+
 ---
 
 ## Fase 2 — Gerar HTML de revisão + checkpoint
 
-> **GATE**: TODAS as etapas Fase 0 e 1 ✅
+> **GATE**: TODAS as etapas Fase 0 e 1 (incluindo 1.10) ✅
 > **DONE**: HTML gerado, dump + commit
 
 **ANTES de gerar**, reler o rev-status e confirmar que não há etapas ⏳.
