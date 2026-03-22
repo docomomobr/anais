@@ -78,7 +78,7 @@
       "field": "references_",
       "severity": "warning",
       "auto_fixable": false,
-      "ref_index": 24,
+      "ref_index": 23,
       "detail": "Ref muito longa (788 chars), possível concatenação: \"“Nem a função, nem a técnica, nem a sociedade, tripé do movimento moderno, visit...\"",
       "suggestion": "Verificar e separar se necessário"
     },
@@ -147,26 +147,6 @@
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
-      "check": "A11",
-      "article_id": "sdsul04-041",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 1,
-      "detail": "Ref muito longa (551 chars), possível concatenação: \"Casinha Pequenina, letra e música de Silvio Caldas, 1958. Os sambinhas da primei...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul04-041",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 2,
-      "detail": "Ref muito longa (1319 chars), possível concatenação: \"“Construção”, 1971, letra e música de Chico Buarque de Holanda. Ex-aluno de arqu...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
       "check": "A09",
       "article_id": "sdsul04-045",
       "field": "abstract_es",
@@ -190,15 +170,6 @@
         "A11"
       ],
       "reason": "Ref muito longa (639 chars), possível concatenação: \"COMAS, Carlos Eduardo Dias. “Precisões brasileiras: sobre um estado passado da a...\""
-    },
-    {
-      "article_id": "sdsul04-041",
-      "checks_flagged": [
-        "A01",
-        "A11",
-        "A11"
-      ],
-      "reason": "Ref muito longa (551 chars), possível concatenação: \"Casinha Pequenina, letra e música de Silvio Caldas, 1958. Os sambinhas da primei...\""
     }
   ]
 }
