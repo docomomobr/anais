@@ -11,7 +11,7 @@
     "keywords": 35,
     "keywords_en": 32,
     "keywords_es": 0,
-    "references_": 36
+    "references_": 37
   },
   "auto_fixed": [],
   "issues": [
@@ -24,6 +24,16 @@
       "ref_index": 36,
       "detail": "Ref muito longa (558 chars), possível concatenação: \"Zanirato, Silvia Helena. “O patrimônio cultural em cidades novas. Leituras da po...\"",
       "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdsul05-012",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Possível não-referência: \"Lima, Evelyn F.W e Cardoso, Ricardo B. Arquitetura e Teatro. Edifícios teatrais ...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
     },
     {
       "check": "A01",
@@ -51,6 +61,26 @@
       "auto_fixable": false,
       "detail": "abstract_en presente mas keywords_en faltando",
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul05-026",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "URL órfã: \"http://www.werkbundsiedlung-wien.at/en/\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
+    },
+    {
+      "check": "A13",
+      "article_id": "sdsul05-026",
+      "field": "references_",
+      "severity": "info",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "URL órfã: \"http://www.dasrotewien.at\"",
+      "suggestion": "Juntar à ref anterior ou verificar se é ref válida"
     }
   ],
   "category_b_candidates": [
