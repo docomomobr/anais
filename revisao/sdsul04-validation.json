@@ -1,0 +1,158 @@
+{
+  "slug": "sdsul04",
+  "date": "2026-03-21",
+  "total_articles": 46,
+  "profile": {
+    "total": 46,
+    "locale_es": 9,
+    "abstract": 43,
+    "abstract_en": 36,
+    "abstract_es": 1,
+    "keywords": 40,
+    "keywords_en": 33,
+    "keywords_es": 0,
+    "references_": 28
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdsul04-002",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ns Museum (1937), Park Hotel St. Clement\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Backfill pendente: \"______Rafael Lorente Escudero. Montevideo: Agua-m, 2004...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 4,
+      "detail": "Backfill pendente: \"______Mario Payseé Reyes. Monografías Elarqa. Montevideo: Ed...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdsul04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 5,
+      "detail": "Backfill pendente: \"______Ernesto Leborgne. Montevideo: Agua-m, 2005...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul04-005",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...n professional practices that Portuguese\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul04-010",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsul04-017",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...go, realizou-se um recorte que considera\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdsul04-018",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Ref muito longa (639 chars), possível concatenação: \"COMAS, Carlos Eduardo Dias. “Precisões brasileiras: sobre um estado passado da a...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdsul04-020",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul04-022",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdsul04-023",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul04-039",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul04-041",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A09",
+      "article_id": "sdsul04-045",
+      "field": "abstract_es",
+      "severity": "info",
+      "auto_fixable": false,
+      "detail": "Marcador \"Resumen\" encontrado no fontes/ mas abstract_es vazio",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdsul04-018",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (639 chars), possível concatenação: \"COMAS, Carlos Eduardo Dias. “Precisões brasileiras: sobre um estado passado da a...\""
+    }
+  ]
+}
