@@ -26,56 +26,6 @@
       "suggestion": "Verificar e separar se necessário"
     },
     {
-      "check": "A10",
-      "article_id": "sdsul05-008",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 3,
-      "detail": "Backfill pendente: \"_________________________. Précisions brésiliennes sur un ét...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdsul05-008",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 4,
-      "detail": "Backfill pendente: \"_________________________. \"The Poetics of Development: Note...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdsul05-010",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 0,
-      "detail": "Backfill pendente: \"____Cadernos Brasileiros de Arquitetura 8: Arquiteto Siegber...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdsul05-010",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 1,
-      "detail": "Backfill pendente: \"____Vilanova Artigas: arquitetos brasileiros – brazilian arc...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A12",
-      "article_id": "sdsul05-012",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 8,
-      "detail": "Possível não-referência: \"Lima, Evelyn F.W e Cardoso, Ricardo B. Arquitetura e Teatro. Edifícios teatrais ...\"",
-      "suggestion": "Verificar e remover se não for referência bibliográfica"
-    },
-    {
       "check": "A01",
       "article_id": "sdsul05-015",
       "field": "keywords_en",
@@ -94,26 +44,6 @@
       "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
     },
     {
-      "check": "A10",
-      "article_id": "sdsul05-018",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 3,
-      "detail": "Backfill pendente: \"______, “Três edifícios de habitação da Formaespaço: Modular...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdsul05-018",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 4,
-      "detail": "Backfill pendente: \"______, \"Três edifícios de habitação da Formaespaço: Modular...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
-    {
       "check": "A19",
       "article_id": "sdsul05-019",
       "field": "abstract_en",
@@ -121,16 +51,6 @@
       "auto_fixable": false,
       "detail": "abstract_en: possível truncamento (termina com \"...nd provides many elements to discuss the\")",
       "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A10",
-      "article_id": "sdsul05-020",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 21,
-      "detail": "Backfill pendente: \"_____. Fios Cortantes: arquitetura e design no Rio de Janeir...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
     },
     {
       "check": "A01",
