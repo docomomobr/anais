@@ -718,11 +718,19 @@ Arquivo: `revisao/{slug}-aprendizado-revisao.json`. Atualizar MEMORY.md com padr
 ### 3.7 Revisão de engenharia
 
 > **GATE**: 3.6 ✅
-> **DONE**: achados registrados no rev-status
+> **DONE**: achados **listados individualmente** no runner (NÃO aceitar "OK" genérico)
 
-**PRIMEIRO — Autoavaliação**: "executei **todas** as etapas do pipeline para este seminário?" Reler do início ao fim e verificar.
+**REGRA:** Esta etapa só pode ser marcada como concluída se o runner listar explicitamente o que foi verificado e o resultado de cada verificação. "OK" ou "sem problemas" sem evidência = etapa não executada.
 
-Depois revisar pipeline e scripts com olhar de engenheiro:
+**Se houve alteração de código na Fase 3** (checks novos, fix_actions, heurísticas), verificar:
+- Novos fix_actions têm handler correspondente no bloco de aplicação?
+- Novos checks estão registrados no `check_desc`?
+- Novos checks estão na lista de chamadas (`issues.extend(...)`)?
+- Dry-run em seminário revisado: 0 regressões?
+- Dry-run em seminário não revisado: 0 falsos positivos?
+
+**Sempre:**
+- Autoavaliação: "executei **todas** as etapas do pipeline para este seminário?"
 - Lints: inconsistências pipeline vs scripts
 - Erros de lógica: checks que se contradizem, auto-fixes que desfazem correções manuais
 - Redundância: mesma verificação em dois lugares, código morto

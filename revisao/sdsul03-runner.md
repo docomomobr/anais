@@ -47,6 +47,6 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **3.4** Pipeline: hierarquia de fontes para seções documentada
 - [x] **3.5** Validação: 0 regressões em sdsul01/03, 0 falsos positivos em sdsul04
 - [x] **3.6** Aprendizado registrado
-- [x] **3.7** OK
+- [x] **3.7** Revisão eng.: fix_actions auditados (A28/A29/A30 ok), pipeline 3.7 reforçado (proíbe "OK" genérico)
 - [x] **3.8** Checklist: 25/25 ✅
 - [x] **3.9** Fechar
