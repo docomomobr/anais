@@ -37,18 +37,18 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **1.2a** Refs: clean (3 splits, 6 backfills)
 - [x] **1.2b** Refs sweep (37 notas, 9 lixo, 29 joins, 5+11 endnotes, 8 splits, 25 não-refs, 2 dedup)
 - [x] **1.2b+** Re-backfills: 1 backfill
+- [x] **1.2c** Refs revisão LLM: 008 (30→14, notas removidas), 009 (16→5, legendas/body), 012 (12→12 footnote+header+split), 028 (1→13, re-extraído), 029 (6→14, re-extraído), 030 (16→15, footnote)
 - [x] **1.3** Keywords: 10 artigos (6 garbage, 21 splits), 6 kw_en re-extraídas do plumber
-- [x] **1.5** Loop: 19 restantes (A01×2, A02×2, A10×7, A11×1, A12×1, A19×3)
-- [x] **1.2c** Refs revisão LLM: 008 (30→14, notas removidas), 009 (16→5, legendas/body), 012 (12→11, footnote+header), 028 (1→13, re-extraído), 029 (6→14, re-extraído), 030 (16→15, footnote)
-- [x] **1.6** abs 97%, abs_en 89%, kw 100%, kw_en 86%, refs 97%, ORCID 70%
+- [x] **1.5** Loop: 19→13 issues após correções pós-1.10
+- [x] **1.6a** abs 97%, abs_en 89%, kw 100%, kw_en 86%, refs 97%, ORCID 70%
 - [x] **1.6b** Metadados seminário: OK (título, ISBN 978-85-61965-40-2, publisher Marcavisual, description)
-- [x] **1.6c** Seções: 1 seção genérica "Artigos" — site PROPAR/Wayback/Google: sem eixos publicados
+- [x] **1.6c** Seções: 1 seção genérica "Artigos" — esgotadas fontes (site PROPAR 404, Wayback inacessível, Google, Facebook, cabeçalhos dos PDFs: nenhuma indicação de eixos)
 - [x] **1.6d** Autores verificados: 37/37 artigos confrontados com PDF. 1 correção: Marchetto→Marquetto (018)
 - [x] **1.7** Autores: 48 autores
 - [x] **1.8** Dedup: 0 merges
 - [x] **1.9** ORCID: 14 buscados, 0 novos (1 candidato descartado)
 - [x] **1.10** Revisão LLM final — 6 agentes paralelos (37 artigos)
-  Correções aplicadas:
+  Correções 1.10 (revisão LLM por campo):
   - 002: abstract_en re-extraído (contaminado com legendas/citações do corpo)
   - 005: abstract_en completado (faltava 1o parágrafo — bloco role=footnote no plumber)
   - 009: abstract e abstract_en — removido ". " inicial (artefato label "Resumo.")
@@ -56,42 +56,53 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   - 012: abstract/abstract_en — cortada bibliografia colada no final; keyword limpa (". TRC")
   - 015: abstract/abstract_en — removido "!" final (artefato template)
   - 016: abstract completado (faltava continuação em bloco footnote)
-  - 019: abstract — removido EN colado; abstract_en re-extraído
+  - 019: abstract — removido EN colado; abstract_en re-extraído + completado (bloco adjacente)
   - 024: keyword corrigida ("moderna"→"modernas")
   - 034: abstract — removido heading EN colado no final
-  Issues para revisão humana: refs contaminadas com notas em 008, 009, 012
+  Correções pós-1.10 (issues residuais resolvidos):
+  - 004: keywords_en split ("building rehabilitation, environmental comfort" → 2 entradas)
+  - 008: 7 backfills (Comas ×2 + underscores)
+  - 010: underscores removidos de refs [0],[1]
+  - 012: ref [8] split (Lima+Luz concatenadas)
+  - 018: 2 backfills (Imbronito)
+  - 019: abstract_en completado (bloco footnote adjacente: "preservation of modern industrial heritage.")
+  - 020: 1 backfill (Ana Luiza Nobre)
+  - 025: abstract_en re-extraído (truncado 1999→3182c)
+  - 027: keywords limpa (prefixo "/key words:" removido); keywords_en zerada (= PT, não EN real)
+  - 030: keywords split (3 termos concatenados com "-"); keywords_en corrigida (body text → 3 termos)
+  - 031: abstract_en re-extraído (truncado 1240→2672c)
   **1.10 — Resultado por artigo:**
   - [x] sdsul05-001: OK
-  - [x] sdsul05-002: abstract_en re-extraído (contaminado), title "de"→"em" Montevidéu (anotado)
+  - [x] sdsul05-002: abstract_en re-extraído (contaminado com body text)
   - [x] sdsul05-003: OK
-  - [x] sdsul05-004: keywords_en "building rehabilitation, environmental comfort" é 1 entrada (deveria ser 2)
+  - [x] sdsul05-004: keywords_en split (1→3 entradas)
   - [x] sdsul05-005: abstract_en completado (1o parágrafo faltava)
   - [x] sdsul05-006: OK (title "A preservação" vs PDF "Preservação" — mantido)
   - [x] sdsul05-007: OK
-  - [x] sdsul05-008: refs contaminadas — notas [12]-[30], body text [1]. Para rev humana.
-  - [x] sdsul05-009: abstract ". " removido; refs [1]-[11] são legendas/body, só [12]-[16] são refs reais
-  - [x] sdsul05-010: keywords_en corrigido
-  - [x] sdsul05-011: refs [9] word-run, [10] misattributed (Summerson→Viollet-le-Duc)
-  - [x] sdsul05-012: abstract/kw limpos; refs [3] body text, [4] header, [10] footnote
-  - [x] sdsul05-013: OK (refs genuínas, sem kw_en no PDF)
+  - [x] sdsul05-008: refs limpas (30→14, notas removidas) + 2 backfills Comas
+  - [x] sdsul05-009: abstract ". " removido; refs limpas (16→5, legendas/body removidos)
+  - [x] sdsul05-010: keywords_en corrigido; underscores removidos de refs
+  - [x] sdsul05-011: OK (refs [9] word-run e [10] misattribution são do PDF original)
+  - [x] sdsul05-012: abstract/kw limpos; refs: footnote removido, header limpo, split Lima+Luz
+  - [x] sdsul05-013: OK (sem kw_en no PDF — genuíno)
   - [x] sdsul05-014: OK
   - [x] sdsul05-015: abstract "!" removido, kw_en vazio (genuíno)
-  - [x] sdsul05-016: abstract completado (continuação em footnote block)
+  - [x] sdsul05-016: abstract completado (continuação em bloco footnote)
   - [x] sdsul05-017: OK (kw_en "Gravel" = erro do autor, não extração)
-  - [x] sdsul05-018: OK
-  - [x] sdsul05-019: abstract limpo (EN removido), abstract_en re-extraído
-  - [x] sdsul05-020: OK
+  - [x] sdsul05-018: OK + 2 backfills Imbronito
+  - [x] sdsul05-019: abstract limpo (EN removido), abstract_en completado (bloco adjacente)
+  - [x] sdsul05-020: OK + 1 backfill Nobre
   - [x] sdsul05-021: OK
   - [x] sdsul05-022: OK (em-dash é convenção do projeto)
   - [x] sdsul05-023: OK
-  - [x] sdsul05-024: keyword corrigida
-  - [x] sdsul05-025: OK
+  - [x] sdsul05-024: keyword corrigida ("moderna"→"modernas")
+  - [x] sdsul05-025: abstract_en re-extraído (1999→3182c)
   - [x] sdsul05-026: OK (EN, sem abstract genuíno)
-  - [x] sdsul05-027: OK
-  - [x] sdsul05-028: OK
-  - [x] sdsul05-029: OK
-  - [x] sdsul05-030: OK
-  - [x] sdsul05-031: OK
+  - [x] sdsul05-027: keywords limpa (prefix removido), kw_en zerada
+  - [x] sdsul05-028: refs re-extraídas do plumber (1→13)
+  - [x] sdsul05-029: refs re-extraídas do plumber (6 body text → 14 refs reais)
+  - [x] sdsul05-030: keywords split, keywords_en corrigida, refs: footnote+header removidos
+  - [x] sdsul05-031: abstract_en re-extraído (1240→2672c)
   - [x] sdsul05-032: OK
   - [x] sdsul05-033: OK
   - [x] sdsul05-034: abstract limpo (heading EN removido)
@@ -101,7 +112,25 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [x] **2.0** Validação final (13 issues) + HTML (37 artigos, 1 seção) + dump
+- [x] **2.0** Validação final (4 issues genuínos) + HTML (37 artigos, 1 seção) + dump + commit
+
+Issues genuínos restantes:
+- A01: 015, 025 — kw_en ausente no PDF
+- A02: 016 — abs_en ausente no PDF
+- A11: 006 — ref legítima com URL longa (não é concatenação)
+
+## Cobertura final
+
+| Campo | N/37 | % |
+|-------|-------|---|
+| abstract | 36 | 97% |
+| abstract_en | 33 | 89% |
+| keywords | 37 | 100% |
+| keywords_en | 32 | 86% |
+| references | 36 | 97% |
+| title_en | 5 | 13% |
+| sections | 37 | 100% |
+| ORCID | 34/48 | 70% |
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
