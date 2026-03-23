@@ -1,0 +1,27 @@
+{
+  "slug": "sdsul06",
+  "date": "2026-03-22",
+  "causas_raiz": [
+    {
+      "tipo": "título com ponto separando subtítulo não splitado",
+      "artigos": ["021"],
+      "causa": "ponto no meio do título pode separar título/subtítulo, mas distinção é semântica",
+      "ação": "sem alteração (não automatizável, 1 ocorrência)",
+      "recorrente": false
+    }
+  ],
+  "scripts_alterados": [],
+  "dict_alterado": false,
+  "pipeline_alterado": false,
+  "cobertura_final": {
+    "abstract": "96%",
+    "abstract_en": "96%",
+    "keywords": "92%",
+    "keywords_en": "92%",
+    "references": "100%",
+    "orcid": "71%"
+  },
+  "issues_humana": 1,
+  "issues_genuinos": 3,
+  "nota": "Melhor resultado até agora: 1 correção humana (vs 6 no sdsul05, 10 no sdsul04). Padrão 'Disponível também em' corrigido em 22 seminários."
+}

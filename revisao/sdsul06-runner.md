@@ -83,16 +83,32 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 - [x] **2.0** Validação final (3 issues genuínos) + HTML (24 artigos, 5 seções) + dump + commit
 
+Issues genuínos restantes:
+- A01: 005, 019 — kw_en ausente no PDF
+- A02: 021 — abs_en ausente no PDF
+
+## Cobertura final
+
+| Campo | N/24 | % |
+|-------|------|---|
+| abstract | 23 | 96% |
+| abstract_en | 23 | 96% |
+| keywords | 22 | 92% |
+| keywords_en | 22 | 92% |
+| references | 24 | 100% |
+| sections | 10/24 | — |
+| ORCID | 25/35 | 71% |
+
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** 1 causa raiz: título com ponto separando subtítulo não é splitado automaticamente (021). Padrão não automatizável (semântico).
+- [x] **3.2** Dict: sem alterações (1 correção humana, não recorrente)
+- [x] **3.3** Scripts: sem alterações (causa raiz semântica, não automatizável)
+- [x] **3.4** Pipeline: sem alterações
+- [x] **3.5** Dry-run: sdsul06 3 genuínos, sdsul05 7 genuínos — 0 regressões
+- [x] **3.6** Aprendizado: sdsul06-aprendizado-revisao.json
+- [x] **3.7** Engenharia: 0 regressões, scripts OK
+- [x] **3.8** Cobertura final: abs 96%, abs_en 96%, kw 92%, kw_en 92%, refs 100%, ORCID 71%
+- [x] **3.9** Fechar: dump + commit
