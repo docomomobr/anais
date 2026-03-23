@@ -129,8 +129,8 @@ Issues genuínos restantes:
 - [x] **3.2** Dict: sem alterações (brutalismo como movimento é correto em títulos; contexto de subtítulo é revisão LLM)
 - [x] **3.3** Scripts: `dedup_authors.py` corrigido (match por sufixo em `is_abbreviation_of`), `extrair_metadados_doc.py` criado (novo)
 - [x] **3.4** Pipeline: sem alterações necessárias
-- [x] **3.5** Verificar: dry-runs sdsul07+sdpr02 sem regressão, 0 auto-merges falsos no dedup
+- [x] **3.5** Verificar: dry-runs sdpr02+dedup sem regressão, 0 auto-merges falsos
 - [x] **3.6** Aprendizado: .doc como fonte primária quando disponível, sufixo match no dedup
-- [x] **3.7** Revisão de engenharia: dedup_authors.py + extrair_metadados_doc.py testados
+- [x] **3.7** Revisão de engenharia: dedup_authors.py (suffix match) + extrair_metadados_doc.py (5 fixes: abstract_es separado de RESUMO, busca recursiva em subdiretórios, threshold 0.5, DB try/finally, abstract_es no apply/report)
 - [x] **3.8** Cobertura final: abs 69%, abs_en 4%, kw 65%, kw_en 19%, refs 88%, ORCID 49%
 - [x] **3.9** Fechar: dump + commit + CLAUDE.md

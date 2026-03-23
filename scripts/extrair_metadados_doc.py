@@ -42,9 +42,14 @@ EDITABLE_EXTS = {'.doc', '.docx', '.odt', '.rtf'}
 # ---------------------------------------------------------------------------
 
 ABSTRACT_PT_RE = re.compile(
-    r'^(?:RESUMO|Resumo|RESUMEN|Resumen)\s*[:\.\-—]?\s*$', re.IGNORECASE)
+    r'^(?:RESUMO|Resumo)\s*[:\.\-—]?\s*$', re.IGNORECASE)
 ABSTRACT_PT_INLINE_RE = re.compile(
-    r'^(?:RESUMO|Resumo|RESUMEN|Resumen)\s*[:\.\-—]\s*(.+)', re.IGNORECASE | re.DOTALL)
+    r'^(?:RESUMO|Resumo)\s*[:\.\-—]\s*(.+)', re.IGNORECASE | re.DOTALL)
+
+ABSTRACT_ES_RE = re.compile(
+    r'^(?:RESUMEN|Resumen)\s*[:\.\-—]?\s*$', re.IGNORECASE)
+ABSTRACT_ES_INLINE_RE = re.compile(
+    r'^(?:RESUMEN|Resumen)\s*[:\.\-—]\s*(.+)', re.IGNORECASE | re.DOTALL)
 
 ABSTRACT_EN_RE = re.compile(
     r'^(?:ABSTRACT|Abstract)\s*[:\.\-—]?\s*$', re.IGNORECASE)
@@ -120,14 +125,21 @@ def find_fontes_dir(slug):
 
 
 def find_editable_files(fontes_dir):
-    """Retorna lista de arquivos editáveis no diretório."""
+    """Retorna lista de arquivos editáveis no diretório e subdiretórios conhecidos."""
     files = []
     if not fontes_dir or not os.path.isdir(fontes_dir):
         return files
-    for f in os.listdir(fontes_dir):
-        ext = os.path.splitext(f)[1].lower()
-        if ext in EDITABLE_EXTS:
-            files.append(os.path.join(fontes_dir, f))
+    # Buscar no diretório raiz e em subdiretórios comuns
+    search_dirs = [fontes_dir]
+    for subdir in ('anais', 'originais', 'artigos', 'docs', 'textos'):
+        d = os.path.join(fontes_dir, subdir)
+        if os.path.isdir(d):
+            search_dirs.append(d)
+    for search_dir in search_dirs:
+        for f in os.listdir(search_dir):
+            ext = os.path.splitext(f)[1].lower()
+            if ext in EDITABLE_EXTS:
+                files.append(os.path.join(search_dir, f))
     return sorted(files)
 
 
@@ -279,13 +291,14 @@ def extract_metadata(paragraphs, verbose=False):
 
     State machine:
         SCAN → detecta marcador → entra no estado correspondente
-        ABSTRACT_PT / ABSTRACT_EN / KEYWORDS_PT / KEYWORDS_EN / REFS / BODY
+        ABSTRACT_PT / ABSTRACT_EN / ABSTRACT_ES / KEYWORDS_PT / KEYWORDS_EN / REFS / BODY
 
     Retorna dict com campos extraídos (None se não encontrado).
     """
     state = 'SCAN'
     abstract_pt = []
     abstract_en = []
+    abstract_es = []
     keywords_pt = []
     keywords_en = []
     keywords_es = []
@@ -304,7 +317,7 @@ def extract_metadata(paragraphs, verbose=False):
         text_stripped = text.strip()
         if not text_stripped:
             # Parágrafo vazio — pode indicar fim de seção
-            if state in ('ABSTRACT_PT', 'ABSTRACT_EN'):
+            if state in ('ABSTRACT_PT', 'ABSTRACT_EN', 'ABSTRACT_ES'):
                 # Parágrafo vazio no abstract: pode ser quebra legítima
                 # Mas se já temos conteúdo, pode indicar fim
                 pass
@@ -355,6 +368,27 @@ def extract_metadata(paragraphs, verbose=False):
             state = 'ABSTRACT_EN'
             if verbose:
                 print(f'    §{i}: → ABSTRACT_EN')
+            continue
+
+        # --- Resumen ES ---
+        m = ABSTRACT_ES_INLINE_RE.match(text_stripped)
+        if m:
+            if state == 'REFS':
+                flush_ref()
+            state = 'ABSTRACT_ES'
+            content = m.group(1).strip()
+            if content:
+                abstract_es.append(content)
+            if verbose:
+                print(f'    §{i}: → ABSTRACT_ES (inline)')
+            continue
+
+        if ABSTRACT_ES_RE.match(text_stripped):
+            if state == 'REFS':
+                flush_ref()
+            state = 'ABSTRACT_ES'
+            if verbose:
+                print(f'    §{i}: → ABSTRACT_ES')
             continue
 
         # --- Keywords bilíngue (Palavras-chave / key words: ...) ---
@@ -427,7 +461,7 @@ def extract_metadata(paragraphs, verbose=False):
             continue
 
         # --- Seção do corpo (interrompe abstract) ---
-        if state in ('ABSTRACT_PT', 'ABSTRACT_EN', 'SCAN'):
+        if state in ('ABSTRACT_PT', 'ABSTRACT_EN', 'ABSTRACT_ES', 'SCAN'):
             if BODY_SECTION_RE.match(text_stripped):
                 state = 'BODY'
                 if verbose:
@@ -478,6 +512,21 @@ def extract_metadata(paragraphs, verbose=False):
                 continue
             abstract_en.append(text_stripped)
 
+        elif state == 'ABSTRACT_ES':
+            m = KW_ES_RE.match(text_stripped)
+            if m:
+                kw_list, _ = parse_keywords(m.group(1))
+                keywords_es = kw_list
+                state = 'SCAN'
+                continue
+            current_len = sum(len(p) for p in abstract_es)
+            if current_len + len(text_stripped) > ABSTRACT_MAX_CHARS:
+                if verbose:
+                    print(f'    §{i}: ABSTRACT_ES overflow ({current_len}c), parando')
+                state = 'BODY'
+                continue
+            abstract_es.append(text_stripped)
+
         elif state == 'REFS':
             # Cada parágrafo pode ser uma referência completa
             # ou continuação da anterior
@@ -501,6 +550,7 @@ def extract_metadata(paragraphs, verbose=False):
     result = {
         'abstract': '\n\n'.join(abstract_pt) if abstract_pt else None,
         'abstract_en': '\n\n'.join(abstract_en) if abstract_en else None,
+        'abstract_es': '\n\n'.join(abstract_es) if abstract_es else None,
         'keywords': keywords_pt if keywords_pt else None,
         'keywords_en': keywords_en if keywords_en else None,
         'keywords_es': keywords_es if keywords_es else None,
@@ -589,7 +639,7 @@ def match_files_to_articles(files, articles, verbose=False):
                 best_score = score
                 best_id = art_id
 
-        if best_score >= 0.4:
+        if best_score >= 0.5:
             mapping[fpath] = best_id
             used_ids.add(best_id)
             if verbose:
@@ -642,6 +692,14 @@ def main():
 
     # Carregar artigos do banco
     conn = sqlite3.connect(args.db)
+    try:
+        _run_extraction(conn, args, editable_files)
+    finally:
+        conn.close()
+
+
+def _run_extraction(conn, args, editable_files):
+    """Lógica principal de extração (separada para garantir conn.close())."""
     articles = conn.execute(
         'SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id',
         (args.slug,)).fetchall()
@@ -649,13 +707,14 @@ def main():
     # Dados atuais do banco
     current_data = {}
     for row in conn.execute(
-            'SELECT id, abstract, abstract_en, keywords, keywords_en, '
+            'SELECT id, abstract, abstract_en, abstract_es, keywords, keywords_en, '
             'keywords_es, references_ FROM articles WHERE seminar_slug = ?',
             (args.slug,)):
         current_data[row[0]] = {
             'abstract': row[1], 'abstract_en': row[2],
-            'keywords': row[3], 'keywords_en': row[4],
-            'keywords_es': row[5], 'references': row[6],
+            'abstract_es': row[3],
+            'keywords': row[4], 'keywords_en': row[5],
+            'keywords_es': row[6], 'references': row[7],
         }
 
     # Filtro --only
@@ -739,6 +798,7 @@ def main():
             for field, key in [
                 ('abstract', 'abstract'),
                 ('abstract_en', 'abstract_en'),
+                ('abstract_es', 'abstract_es'),
                 ('keywords', 'keywords'),
                 ('keywords_en', 'keywords_en'),
                 ('keywords_es', 'keywords_es'),
@@ -767,8 +827,8 @@ def main():
     # Resumo
     print('=== Resumo ===\n')
     total_new = {f: 0 for f in
-                 ['abstract', 'abstract_en', 'keywords', 'keywords_en',
-                  'keywords_es', 'references']}
+                 ['abstract', 'abstract_en', 'abstract_es', 'keywords',
+                  'keywords_en', 'keywords_es', 'references']}
     total_update = {f: 0 for f in total_new}
 
     for art_id, meta in results.items():
@@ -810,6 +870,7 @@ def main():
             for field, db_col in [
                 ('abstract', 'abstract'),
                 ('abstract_en', 'abstract_en'),
+                ('abstract_es', 'abstract_es'),
                 ('keywords', 'keywords'),
                 ('keywords_en', 'keywords_en'),
                 ('keywords_es', 'keywords_es'),
@@ -851,8 +912,6 @@ def main():
         if sum(total_update.values()) > 0:
             print(f'Use --apply --force para sobrescrever '
                   f'{sum(total_update.values())} campo(s) existentes.')
-
-    conn.close()
 
 
 if __name__ == '__main__':
