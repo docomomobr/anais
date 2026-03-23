@@ -5,7 +5,7 @@
   "profile": {
     "total": 51,
     "locale_es": 0,
-    "abstract": 29,
+    "abstract": 51,
     "abstract_en": 0,
     "abstract_es": 0,
     "keywords": 0,
@@ -24,66 +24,6 @@
       "ref_index": 6,
       "detail": "Ref muito longa (557 chars), possível concatenação: \"COLLISCHONN, Walter; FAN, Fernando Mainardi; POSSANTTI, Iporã; DORNELLES, Fernan...\"",
       "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-005",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 9,
-      "detail": "Ref muito longa (601 chars), possível concatenação: \"Pesavento, S. J. Um discurso científico sobre a cidade: a revista Egatea, da Esc...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-007",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 2,
-      "detail": "Ref muito longa (561 chars), possível concatenação: \"CORREIO DO POVO. “Ponte em Nova Roma do Sul, construída sem dinheiro público, já...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-014",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 7,
-      "detail": "Ref muito longa (512 chars), possível concatenação: \"MELLO, Denise Brunoro de Barros et al. Soluções para enchentes em planícies aluv...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-024",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 14,
-      "detail": "Ref muito longa (1352 chars), possível concatenação: \"SBS PR-6/1. Setor Bancário Sul. Projeto. Esplanada. Escala 1/500 (26 maio 1970)....\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-047",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 1,
-      "detail": "Ref muito longa (535 chars), possível concatenação: \"BELLET, C.; LLOP J. M. _”Miradas a otros espacios urbanos: las ciudades intermed...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdsul08-050",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 12,
-      "detail": "Ref muito longa (586 chars), possível concatenação: \"RIO GRANDE DO SUL. Governo do Estado. Com investimento de R$ 237 mil, Estado con...\"",
-      "suggestion": "Verificar e separar se necessário"
     }
   ],
   "category_b_candidates": [
@@ -93,48 +33,6 @@
         "A11"
       ],
       "reason": "Ref muito longa (557 chars), possível concatenação: \"COLLISCHONN, Walter; FAN, Fernando Mainardi; POSSANTTI, Iporã; DORNELLES, Fernan...\""
-    },
-    {
-      "article_id": "sdsul08-005",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (601 chars), possível concatenação: \"Pesavento, S. J. Um discurso científico sobre a cidade: a revista Egatea, da Esc...\""
-    },
-    {
-      "article_id": "sdsul08-007",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (561 chars), possível concatenação: \"CORREIO DO POVO. “Ponte em Nova Roma do Sul, construída sem dinheiro público, já...\""
-    },
-    {
-      "article_id": "sdsul08-014",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (512 chars), possível concatenação: \"MELLO, Denise Brunoro de Barros et al. Soluções para enchentes em planícies aluv...\""
-    },
-    {
-      "article_id": "sdsul08-024",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (1352 chars), possível concatenação: \"SBS PR-6/1. Setor Bancário Sul. Projeto. Esplanada. Escala 1/500 (26 maio 1970)....\""
-    },
-    {
-      "article_id": "sdsul08-047",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (535 chars), possível concatenação: \"BELLET, C.; LLOP J. M. _”Miradas a otros espacios urbanos: las ciudades intermed...\""
-    },
-    {
-      "article_id": "sdsul08-050",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (586 chars), possível concatenação: \"RIO GRANDE DO SUL. Governo do Estado. Com investimento de R$ 237 mil, Estado con...\""
     }
   ]
 }
