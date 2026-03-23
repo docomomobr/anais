@@ -40,6 +40,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdsul07 | 46 | 2026-03-23 | 1 correção (033 topônimo + PDF páginas-imagem re-extraído) |
 | sdsul08 | 51 | 2026-03-23 | 1 correção (017 subtitle Estadual) |
 | sdpr01 | 26 | 2026-03-23 | 2 correções (016 moderna, 022 brutalismo) |
+| sdpr02 | 19 | 2026-03-23 | 3 correções (001 split título/subtítulo, 012 urbanismo, 014 arquitetura) |
 
 ---
 

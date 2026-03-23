@@ -1,0 +1,42 @@
+{
+  "slug": "sdpr02",
+  "date": "2026-03-23",
+  "corrections": {
+    "automatic": {
+      "titles": 15,
+      "abstracts_fixed": 2,
+      "refs_articles": 7,
+      "refs_total_added": 49,
+      "keywords": 0,
+      "orcid_new": 7
+    },
+    "human": {
+      "count": 3,
+      "items": [
+        {"id": "sdpr02-001", "field": "title/subtitle", "cause": "título/subtítulo não separado no colon"},
+        {"id": "sdpr02-012", "field": "title", "cause": "normalização contextual (urbanismo genérico capitalizado)"},
+        {"id": "sdpr02-014", "field": "title", "cause": "normalização contextual (arquitetura genérica capitalizada)"}
+      ]
+    }
+  },
+  "root_causes": [
+    {
+      "pattern": "normalização contextual de áreas do saber",
+      "frequency": 2,
+      "classification": "padrao_recorrente",
+      "action": "dict mantém Arquitetura/Urbanismo como área — revisão LLM/humana corrige contextuais"
+    },
+    {
+      "pattern": "título/subtítulo não separado",
+      "frequency": 1,
+      "classification": "caso_unico",
+      "action": "colon como separador de título/subtítulo — verificar na revisão LLM"
+    }
+  ],
+  "engineering_review": {
+    "scripts_audited": [],
+    "bugs_found": 0,
+    "bugs_fixed": 0,
+    "note": "sdpr02 é o último seminário Sul — sem novos scripts criados, engenharia auditada extensivamente no sdpr01"
+  }
+}
