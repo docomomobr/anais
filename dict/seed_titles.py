@@ -82,6 +82,19 @@ STOPWORDS = {
     'vidro', 'builds', 'concrete', 'déco', 'art',
     'base', 'campo', 'vista', 'piloto', 'passo',
     'navio', 'fora', 'palha', 'cristo', 'senhora',
+    # Genéricos encontrados erroneamente no dict (sdsul08, 2026-03-23)
+    'águas', 'técnica', 'técnicas', 'panorama', 'obras', 'obra',
+    'serviço', 'criação', 'ensaio', 'encontro', 'sertão',
+    'arquitetônica', 'arquitetônicas', 'arquitetônico', 'arquitetônicos',
+    'infraestrutura', 'infraestruturas', 'superestrutura',
+    'mobilidade', 'resiliência', 'sustentabilidade',
+    'enchente', 'enchentes', 'inundação', 'inundações',
+    'proteção', 'defesa', 'sistema', 'sistemas',
+    'produção', 'dispositivo', 'dispositivos', 'controle',
+    'ambiental', 'climática', 'climático',
+    'subordinação', 'subversão', 'aproveitamento',
+    'heroicos', 'pragmáticos', 'pertinência', 'regeneração',
+    'estruturar', 'desconstruindo',
 }
 
 

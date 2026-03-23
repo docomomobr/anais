@@ -317,6 +317,14 @@ Após o validate, varrer **todos** os abstracts do seminário para detectar: tru
 
 **Regra**: Corrigir diretamente no banco. Não deixar para a revisão humana — problemas de truncamento e lixo são mecânicos.
 
+**Resumos expandidos (aprendido com sdsul07/08):** Seminários Sul frequentemente têm artigos marcados como "(Resumo expandido)" no PDF (label no footnote da p1). Esses artigos:
+- Não têm seção "Resumo" separada — o corpo inteiro (3-10 páginas, 5000-12000c) é o resumo expandido
+- A extração original captura o corpo inteiro como abstract → **overflow** (limpar)
+- Solução: extrair o **1o parágrafo** (~1500-2500c) como abstract descritivo, cortando na última frase completa dentro de ~2500c
+- Detecção: verificar label "(Resumo expandido)" nos blocos footnote da p1 do plumber
+- Artigos completos sem seção Resumo: mesmo procedimento (1o parágrafo)
+- sdsul08: 19/51 (37%) eram resumo expandido; sdsul07: 7/46 (15%) sem abstract genuíno
+
 ### 0.6 Extrair metadados EN
 
 > **GATE**: 0.5 ✅
