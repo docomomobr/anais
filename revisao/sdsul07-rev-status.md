@@ -55,3 +55,12 @@ Norma de citação: ABNT predominante
 | 43 artigos | references_ | fragmentos, não-refs, body text | corrigido (1083→678 refs) | 3 agentes LLM |
 | 14 refs | references_ | backfill ______ | autor preenchido | backfill manual |
 | sdsul07-044 | references_ | 1 ref concatenada (561c) | split em 2 | revisão manual |
+
+## Revisão humana — 2026-03-23
+
+Fonte: `revisao/sdsul07-rev.md`
+
+### Itens concluídos (1/1)
+
+- ✅ sdsul07-033: title "Capela de Santana do pé do morro" → "Capela de Santana do Pé do Morro" (topônimo)
+  - Nota: PDF mal extraído (começa na p1 sem título/autor/abstract — PDF incompleto ou mal splitado)
