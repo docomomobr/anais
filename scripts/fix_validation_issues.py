@@ -1437,7 +1437,11 @@ def sweep_all_refs(conn, slug, dry_run):
     articles_changed = 0
 
     for art_id, refs_text in cur.fetchall():
-        refs = json.loads(refs_text)
+        try:
+            refs = json.loads(refs_text)
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {art_id}: refs JSON inválido, pulando")
+            continue
         original_refs = list(refs)
         art_junk = 0
         art_header_stripped = 0

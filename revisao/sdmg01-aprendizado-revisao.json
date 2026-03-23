@@ -1,0 +1,71 @@
+{
+  "slug": "sdmg01",
+  "date": "2026-03-23",
+  "corrections": {
+    "automatic": {
+      "titles": 9,
+      "title_llm_fixes": 7,
+      "abstracts_fixed": 6,
+      "refs_articles": 18,
+      "refs_total_reconstructed": 100,
+      "keywords_inserted": 9,
+      "authors_fixed": 2,
+      "orcid_new": 4
+    },
+    "human": {
+      "count": 1,
+      "items": [
+        {"id": "sdmg01-012", "field": "subtitle", "cause": "typo no dado de origem (mg1 → MG)"}
+      ]
+    }
+  },
+  "root_causes": [
+    {
+      "pattern": "typo no dado de origem",
+      "frequency": 1,
+      "classification": "caso_unico",
+      "action": "não é erro de pipeline — dado de origem com '1' grudado na sigla"
+    }
+  ],
+  "engineering_review": {
+    "scripts_audited": [
+      "extrair_fontes_plumber.py", "normalizar_maiusculas.py", "clean_references.py",
+      "check_references.py", "fix_validation_issues.py", "validate_metadata.py",
+      "extrair_metadados_en.py", "gerar_revisao_html.py", "fetch_orcid.py",
+      "dedup_authors.py", "dump_anais_db.py", "gerar_runner.py",
+      "dict/seed_authors.py", "dict/seed_titles.py", "dict/dump_db.py"
+    ],
+    "bugs_found": 4,
+    "bugs_fixed": 4,
+    "fixes": [
+      {
+        "file": "scripts/fix_validation_issues.py",
+        "line": 523,
+        "before": "aid (undefined variable)",
+        "after": "art_id",
+        "impact": "clean_keywords crashava em keywords não-JSON"
+      },
+      {
+        "file": "scripts/gerar_revisao_html.py",
+        "line": 75,
+        "before": "json.loads sem try/except",
+        "after": "try/except (JSONDecodeError, TypeError)",
+        "impact": "refs JSON malformado crashava geração HTML inteira"
+      },
+      {
+        "file": "scripts/fix_validation_issues.py",
+        "line": 1440,
+        "before": "json.loads sem try/except em sweep_all_refs",
+        "after": "try/except com warn e continue",
+        "impact": "refs JSON malformado abortava sweep de todos os artigos"
+      },
+      {
+        "file": "scripts/check_references.py",
+        "line": 199,
+        "before": "WHERE não excluía '[]'",
+        "after": "AND references_ != '[]'",
+        "impact": "artigos com refs vazia processados desnecessariamente"
+      }
+    ]
+  }
+}

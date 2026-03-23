@@ -196,7 +196,7 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
 
-    where = "WHERE references_ IS NOT NULL AND references_ != ''"
+    where = "WHERE references_ IS NOT NULL AND references_ != '' AND references_ != '[]'"
     params = []
     if args.slug:
         where += " AND seminar_slug = ?"

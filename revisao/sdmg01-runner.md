@@ -94,12 +94,17 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** 1 correção humana (012 subtitle typo "mg1"→"MG"). Causa: dado de origem, não pipeline.
+  37 correções automáticas: 7 títulos, 18 artigos refs, 6 abstracts, 4 keywords, 2 autores
+- [x] **3.2** Dict: "Vilas Operadoras" adicionado por seed_titles. MG já era sigla. Sem alterações manuais.
+- [x] **3.3** Scripts: 1 bug corrigido (fix_validation_issues.py:523, aid→art_id em clean_keywords)
+- [x] **3.4** Pipeline: sem alterações necessárias
+- [x] **3.5** Verificar: dry-run normalizar (7 regressões esperadas = correções LLM), validate 3 issues genuínos, dedup 0 merges
+- [x] **3.6** Aprendizado: `revisao/sdmg01-aprendizado-revisao.json`
+- [x] **3.7** Revisão de engenharia: 15 scripts auditados (Opus), 4 bugs corrigidos:
+  - fix_validation_issues.py:523 — aid→art_id (clean_keywords crash)
+  - gerar_revisao_html.py:75 — fmt_refs json.loads sem try/except (crash HTML)
+  - fix_validation_issues.py:1440 — sweep_all_refs json.loads sem guard (abort sweep)
+  - check_references.py:199 — WHERE não excluía '[]' (processamento desnecessário)
+- [x] **3.8** Cobertura final: abs 73%, abs_en 76%, kw 80%, kw_en 69%, refs 100%, ORCID 60%
+- [x] **3.9** Fechar: dump + commit

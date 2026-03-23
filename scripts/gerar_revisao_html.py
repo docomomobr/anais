@@ -72,7 +72,10 @@ def fmt_keywords(kw_json):
 def fmt_refs(refs_json):
     if not refs_json:
         return ''
-    refs = json.loads(refs_json)
+    try:
+        refs = json.loads(refs_json)
+    except (json.JSONDecodeError, TypeError):
+        return ''
     return '\n'.join(f'<li>{e(r)}</li>' for r in refs)
 
 

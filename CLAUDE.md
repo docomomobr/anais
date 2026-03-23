@@ -41,6 +41,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdsul08 | 51 | ✅ revisado | 2026-03-23 |
 | sdpr01 | 26 | ✅ revisado | 2026-03-23 |
 | sdpr02 | 19 | ✅ revisado | 2026-03-23 |
+| sdmg01 | 26 | ✅ revisado | 2026-03-23 |
 
 ---
 
@@ -265,6 +266,20 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-23 — sdmg01 revisão completa (Fases 0-3)
+
+**sdmg01** (26 artigos, 40 autores, 2 seções):
+- Cobertura: abstract 73%, abs_en 76%, kw 80%, kw_en 69%, refs 100%, ORCID 60%
+- Fonte primária: DVD (PPT interativo + PDFs individuais), sem doc/docx
+- Seções: 2 (Apresentações Orais + Pôsteres), sem eixos temáticos (confirmado via PPT)
+- 9 títulos normalizados + 7 correções LLM (engenheiro, presente, materiais, complexo, etc.)
+- Refs: 77%→100% (002 +14, 006 +46, 016 +34, 022 +30 reconstruídas 2-col)
+- 6 abstracts corrigidos (completados, limpos, ou removidos por falta de RESUMO)
+- 2 autores corrigidos: Di Marco (sobrenome composto), Lisandra Mara Silva (familyname errado)
+- 4 ORCIDs novos (Lazzarin, Azevedo, Rezende, Silva)
+- Revisão humana: 1 correção (012 subtitle "mg1" → "MG" — typo dado de origem)
+- Revisão engenharia (15 scripts auditados): 4 bugs corrigidos (json.loads sem guard em 3 scripts, WHERE inconsistente)
 
 ### 2026-03-23 — sdpr02 revisão completa (Fases 0-3)
 
