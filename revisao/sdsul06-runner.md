@@ -81,13 +81,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
-  ```
-  python3 scripts/validate_metadata.py --slug sdsul06 --fix
-  python3 scripts/gerar_revisao_html.py sdsul06
-  sqlite3 anais.db .dump > anais.sql
-  git add anais.sql revisao/sdsul06-* && git commit -m "sdsul06 revisão automática (Fases 0-2)"
-  ```
+- [x] **2.0** Validação final (3 issues genuínos) + HTML (24 artigos, 5 seções) + dump + commit
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
