@@ -68,9 +68,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **1.7** Autores: 74 autores, 51/51 verificados vs plumber. Nomes completos no DB
 - [x] **1.8** Dedup: 0 merges
 - [x] **1.9** ORCID: 19 buscados, 0 novos confirmados. Cobertura: 55/74 (74%)
-- [x] **1.10** Revisão LLM final — 3 agentes paralelos (49 artigos com refs)
-  ~40/49 artigos corrigidos. Totais: ~32 joins, ~21 splits, ~24 adds, 4 backfills, ~20 fixes
-  024: 4 refs SBS concatenadas separadas pós-agente
+- [x] **1.2c+1.10** Revisão LLM (refs: 3 agentes, ~40/49 corrigidos) + revisão final (todos campos: 3 agentes, 15 correções em 10 artigos)
   **1.10 — Resultado por artigo:**
   - [x] sdsul08-001: 5 joins, 1 add (RODRIGUES)
   - [x] sdsul08-002: 1 join, 1 join+split
