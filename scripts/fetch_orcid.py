@@ -50,8 +50,10 @@ socket.getaddrinfo = _getaddrinfo_ipv4
 #   1.0 — API ORCID apenas (search + employments)
 #   2.0 — OpenAlex (primário) + Crossref + Semantic Scholar + ORCID API (fallback)
 #         + exclusões de falsos positivos + name_compatible corrigido (rejeita iniciais)
-#   3.0 — Google search fallback (busca "Nome" ORCID site:orcid.org quando APIs falham)
-PIPELINE_VERSION = '3.0'
+#   3.0 — ORCID fulltext search fallback (busca nome completo como texto livre quando
+#         busca estruturada family-name+given-names falha — pega nomes registrados
+#         de forma diferente, ex: "Martins" no familyname em vez de givenname)
+PIPELINE_VERSION = '3.1'
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DB_PATH = os.path.join(BASE, 'anais.db')
@@ -379,39 +381,40 @@ def semantic_scholar_find_orcid(fullname, db_gn, db_fn):
     return None, None
 
 
-# ─── Google search fallback ──────────────────────────────────
+# ─── ORCID fulltext search fallback ──────────────────────────
 
-GOOGLE_DELAY = 2.0  # be polite to Google
+def orcid_fulltext_search(fullname, db_gn, db_fn):
+    """Busca ORCID via texto livre na API ORCID.
 
-def google_find_orcid(fullname, db_gn, db_fn):
-    """Busca ORCID via Google: '"Nome Completo" ORCID site:orcid.org'.
+    A busca estruturada (family-name:X AND given-names:Y) falha quando o
+    autor registrou os nomes de forma diferente no ORCID (ex: "Martins" como
+    parte do familyname em vez de givenname). A busca de texto livre retorna
+    o nome completo como relevância e costuma achar esses casos.
 
-    Fallback para quando as APIs acadêmicas não encontram. Busca o nome
-    completo entre aspas no Google, restrito ao site orcid.org, e extrai
-    IDs ORCID dos URLs retornados. Depois verifica cada perfil com
-    name_compatible + has_br_affiliation.
+    Verifica os primeiros MAX_PROFILES resultados com name_compatible +
+    has_br_affiliation.
     """
-    query = urllib.parse.quote(f'"{fullname}" ORCID site:orcid.org')
-    url = f'https://www.google.com/search?q={query}&num=5'
-    req = urllib.request.Request(url, headers={
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36',
-        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
-    })
+    query = urllib.parse.quote(fullname)
+    url = f'{ORCID_API}/search/?q={query}&rows={MAX_PROFILES}'
+    req = urllib.request.Request(url, headers={'Accept': 'application/json'})
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
-            html = resp.read().decode('utf-8', errors='replace')
+            data = json.loads(resp.read().decode('utf-8'))
     except Exception as e:
         return None, None
 
-    # Extract ORCID IDs from URLs in the HTML
-    orcid_ids = list(dict.fromkeys(re.findall(r'orcid\.org/(\d{4}-\d{4}-\d{4}-\d{3}[\dX])', html)))
-    if not orcid_ids:
+    results = data.get('result', [])
+    if not results:
         return None, None
 
-    # Verify each candidate
+    orcid_ids = [r['orcid-identifier']['path'] for r in results]
+
+    # Filter out IDs already checked in the structured search
+    # (caller should pass these to avoid redundant API calls)
+
     confirmed = None
     candidates = []
-    for oid in orcid_ids[:MAX_PROFILES]:
+    for oid in orcid_ids:
         time.sleep(REQUEST_DELAY)
         person = orcid_person(oid)
         orc_gn = person.get('givenname', '')
@@ -442,7 +445,7 @@ def google_find_orcid(fullname, db_gn, db_fn):
 
     if confirmed:
         return confirmed['orcid'], {
-            'source': 'google',
+            'source': 'orcid_fulltext',
             'display_name': confirmed['orcid_name'],
             'orgs': confirmed['orgs'],
         }
@@ -580,10 +583,18 @@ def name_compatible(db_gn, db_fn, orcid_gn, orcid_fn):
     db_fn_n = strip_accents(db_fn.lower().strip())
     orc_fn_n = strip_accents(orcid_fn.lower().strip())
 
-    # Aceita igualdade ou um contendo o outro
+    # Aceita igualdade ou um sendo sufixo do outro
+    # (ex: "Marques" vs "Martins Marques" — OK)
+    # Mas rejeita substring no meio (ex: "Franco" in "Regis Franco de Almeida" — falso)
     if db_fn_n != orc_fn_n:
-        # Ex: "Lima" vs "Godinho Lima" — um contém o outro
-        if db_fn_n not in orc_fn_n and orc_fn_n not in db_fn_n:
+        db_fn_tokens = db_fn_n.split()
+        orc_fn_tokens = orc_fn_n.split()
+        # DB familyname must be a suffix of ORCID familyname, or vice-versa
+        if orc_fn_tokens[-len(db_fn_tokens):] == db_fn_tokens:
+            pass  # OK: "Marques" is suffix of "Martins Marques"
+        elif db_fn_tokens[-len(orc_fn_tokens):] == orc_fn_tokens:
+            pass  # OK: reverse case
+        else:
             return False
 
     # Primeiro nome deve ser similar
@@ -883,17 +894,17 @@ def phase_search(resume=False, recheck_days=None, slug=None):
             results['confirmed'].append(entry)
             print(f'✓ {confirmed_orcid["orcid"]} ({confirmed_orcid["orcid_name"]})')
         else:
-            # === Fase E: Fallback Google antes de desistir ===
+            # === Fase E: Fallback ORCID fulltext search ===
             if not confirmed_orcid:
-                time.sleep(GOOGLE_DELAY)
-                g_orcid, g_detail = google_find_orcid(fullname, gn, fn)
-                if g_orcid and (aid, g_orcid) not in exclusions:
-                    entry['orcid'] = g_orcid
-                    entry['orcid_name'] = g_detail.get('display_name', '')
-                    entry['orgs'] = g_detail.get('orgs', [])
-                    entry['source'] = 'google'
+                time.sleep(REQUEST_DELAY)
+                ft_orcid, ft_detail = orcid_fulltext_search(fullname, gn, fn)
+                if ft_orcid and (aid, ft_orcid) not in exclusions:
+                    entry['orcid'] = ft_orcid
+                    entry['orcid_name'] = ft_detail.get('display_name', '')
+                    entry['orgs'] = ft_detail.get('orgs', [])
+                    entry['source'] = 'orcid_fulltext'
                     results['confirmed'].append(entry)
-                    print(f'✓ Google {g_orcid} ({g_detail.get("display_name", "")})')
+                    print(f'✓ FT {ft_orcid} ({ft_detail.get("display_name", "")})')
                     mark_checked(aid)
                     checked_count += 1
                     if (i + 1) % 10 == 0:
@@ -901,11 +912,11 @@ def phase_search(resume=False, recheck_days=None, slug=None):
                         with open(RESULTS_PATH, 'w') as f:
                             json.dump(results, f, ensure_ascii=False, indent=2)
                     continue
-                elif g_detail and g_detail.get('candidates'):
-                    # Google found candidates but couldn't confirm — add to existing
-                    for gc in g_detail['candidates']:
-                        if gc['orcid'] not in [c['orcid'] for c in candidate_orcids]:
-                            candidate_orcids.append(gc)
+                elif ft_detail and ft_detail.get('candidates'):
+                    # Fulltext found candidates but couldn't confirm — add to existing
+                    for fc in ft_detail['candidates']:
+                        if fc['orcid'] not in [c['orcid'] for c in candidate_orcids]:
+                            candidate_orcids.append(fc)
 
             if candidate_orcids:
                 entry['orcid_options'] = candidate_orcids
