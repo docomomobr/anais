@@ -85,7 +85,10 @@ def read_plumber_blocks(fontes_dir, file_name):
     blocks = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
-            blocks.append(json.loads(line))
+            try:
+                blocks.append(json.loads(line))
+            except (json.JSONDecodeError, TypeError):
+                continue
     return blocks
 
 
@@ -318,7 +321,10 @@ def read_fontes_text(fontes_dir, fontes_tipo, file_name):
         lines = []
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for line in f:
-                block = json.loads(line)
+                try:
+                    block = json.loads(line)
+                except (json.JSONDecodeError, TypeError):
+                    continue
                 text = block.get('text', '').strip()
                 if text:
                     lines.append(text)

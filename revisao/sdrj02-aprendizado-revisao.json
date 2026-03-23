@@ -1,0 +1,36 @@
+{
+  "slug": "sdrj02",
+  "date": "2026-03-23",
+  "corrections": {
+    "automatic": {
+      "titles": 2,
+      "subtitles_added": 2,
+      "refs_added": 14,
+      "refs_articles": 2,
+      "sweep_lixo": 1,
+      "orcid_new": 3
+    },
+    "human": {
+      "count": 2,
+      "items": [
+        {"id": "sdrj02-002", "field": "title", "cause": "Arquitetura genérico → minúscula"},
+        {"id": "sdrj02-007", "field": "title", "cause": "Arquivologia campo disciplinar → maiúscula"}
+      ]
+    }
+  },
+  "root_causes": [
+    {
+      "pattern": "capitalização contextual (genérico vs campo disciplinar)",
+      "frequency": 2,
+      "classification": "dado_de_origem",
+      "action": "Arquivologia adicionado ao dict como area. Títulos do YAML original tinham capitalização inconsistente."
+    }
+  ],
+  "notes": {
+    "source": "CD-ROM interativo (HTML + PDFs). 8 artigos texto + 11 pôsteres gráficos.",
+    "ocr": "ocrmypdf + tesseract-por nos 5 pôsteres imagem/CID → plumber ok",
+    "missing": "Roberto Segre (9º artigo no HTML) — PDF inexistente. 4 pôsteres sem PDF (011, 017, 018, 019).",
+    "keywords": "0% em todos os 19 artigos — genuinamente ausentes nos PDFs",
+    "poster_010": "Discrepância título catálogo (Banco de dados) vs PDF (O Futuro do Passado) — mantido catálogo"
+  }
+}

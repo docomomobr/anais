@@ -223,14 +223,18 @@ def main():
         slug = row['seminar_slug']
         issues = check_article(article_id, row['references_'])
 
+        try:
+            n_refs = len(json.loads(row['references_']))
+        except (json.JSONDecodeError, TypeError):
+            n_refs = 0
         if slug not in stats_by_slug:
             stats_by_slug[slug] = {
-                'total_refs': len(json.loads(row['references_'])),
+                'total_refs': n_refs,
                 'concatenada': 0, 'nao_ref': 0, 'curta': 0, 'outras': 0,
                 'artigos_com_problema': 0,
             }
         else:
-            stats_by_slug[slug]['total_refs'] += len(json.loads(row['references_']))
+            stats_by_slug[slug]['total_refs'] += n_refs
 
         if issues:
             stats_by_slug[slug]['artigos_com_problema'] += 1

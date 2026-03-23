@@ -688,7 +688,10 @@ def _read_fontes_lines(fontes_dir, art_id):
         lines = []
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for line in f:
-                block = json.loads(line)
+                try:
+                    block = json.loads(line)
+                except (json.JSONDecodeError, TypeError):
+                    continue
                 text = block.get('text', '').strip()
                 if text:
                     lines.extend(text.split('\n'))
@@ -1166,7 +1169,10 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
     blocks = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
-            blocks.append(_json.loads(line))
+            try:
+                blocks.append(_json.loads(line))
+            except (_json.JSONDecodeError, TypeError):
+                continue
 
     # Para abstract_en: usar extração estruturada (com blocos adjacentes)
     if field == 'abstract_en':

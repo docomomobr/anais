@@ -100,3 +100,15 @@ ISBN: 978-85-88341-55-5
 
 ### Validate loop (§1.5)
 - [x] 0 issues, convergiu em 1 iteração
+
+---
+
+## Revisão humana
+
+Fonte: `revisao/sdrj02-rev.md`
+
+### Itens concluídos (2/2)
+
+#### Títulos corrigidos
+- ✅ sdrj02-002: title "Arquivos de Arquitetura" → "Arquivos de arquitetura" (genérico, minúscula)
+- ✅ sdrj02-007: title "arquivologia" → "Arquivologia" (campo disciplinar, maiúscula)

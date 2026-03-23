@@ -42,6 +42,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdpr01 | 26 | ✅ revisado | 2026-03-23 |
 | sdpr02 | 19 | ✅ revisado | 2026-03-23 |
 | sdmg01 | 26 | ✅ revisado | 2026-03-23 |
+| sdrj02 | 19 | ✅ revisado | 2026-03-23 |
 
 ---
 
