@@ -50,7 +50,8 @@ socket.getaddrinfo = _getaddrinfo_ipv4
 #   1.0 — API ORCID apenas (search + employments)
 #   2.0 — OpenAlex (primário) + Crossref + Semantic Scholar + ORCID API (fallback)
 #         + exclusões de falsos positivos + name_compatible corrigido (rejeita iniciais)
-PIPELINE_VERSION = '2.0'
+#   3.0 — Google search fallback (busca "Nome" ORCID site:orcid.org quando APIs falham)
+PIPELINE_VERSION = '3.0'
 
 BASE = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 DB_PATH = os.path.join(BASE, 'anais.db')
@@ -374,6 +375,80 @@ def semantic_scholar_find_orcid(fullname, db_gn, db_fn):
             'affiliations': c['affiliations'][:3],
             'paper_count': c['paper_count'],
         }
+
+    return None, None
+
+
+# ─── Google search fallback ──────────────────────────────────
+
+GOOGLE_DELAY = 2.0  # be polite to Google
+
+def google_find_orcid(fullname, db_gn, db_fn):
+    """Busca ORCID via Google: '"Nome Completo" ORCID site:orcid.org'.
+
+    Fallback para quando as APIs acadêmicas não encontram. Busca o nome
+    completo entre aspas no Google, restrito ao site orcid.org, e extrai
+    IDs ORCID dos URLs retornados. Depois verifica cada perfil com
+    name_compatible + has_br_affiliation.
+    """
+    query = urllib.parse.quote(f'"{fullname}" ORCID site:orcid.org')
+    url = f'https://www.google.com/search?q={query}&num=5'
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en;q=0.8',
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode('utf-8', errors='replace')
+    except Exception as e:
+        return None, None
+
+    # Extract ORCID IDs from URLs in the HTML
+    orcid_ids = list(dict.fromkeys(re.findall(r'orcid\.org/(\d{4}-\d{4}-\d{4}-\d{3}[\dX])', html)))
+    if not orcid_ids:
+        return None, None
+
+    # Verify each candidate
+    confirmed = None
+    candidates = []
+    for oid in orcid_ids[:MAX_PROFILES]:
+        time.sleep(REQUEST_DELAY)
+        person = orcid_person(oid)
+        orc_gn = person.get('givenname', '')
+        orc_fn = person.get('familyname', '')
+        if not name_compatible(db_gn, db_fn, orc_gn, orc_fn):
+            continue
+
+        time.sleep(REQUEST_DELAY)
+        orgs = orcid_employments(oid)
+        is_br = has_br_affiliation(orgs)
+        org_names = [o.get('name', '') for o in orgs]
+
+        candidate = {
+            'orcid': oid,
+            'orcid_name': f'{orc_gn} {orc_fn}',
+            'orgs': org_names,
+            'is_br': is_br,
+        }
+
+        if is_br:
+            if confirmed is None:
+                confirmed = candidate
+            else:
+                # More than one BR — ambiguous
+                return None, {'candidates': [confirmed, candidate]}
+        else:
+            candidates.append(candidate)
+
+    if confirmed:
+        return confirmed['orcid'], {
+            'source': 'google',
+            'display_name': confirmed['orcid_name'],
+            'orgs': confirmed['orgs'],
+        }
+
+    if candidates:
+        return None, {'candidates': candidates}
 
     return None, None
 
@@ -807,19 +882,38 @@ def phase_search(resume=False, recheck_days=None, slug=None):
             entry['orgs'] = confirmed_orcid['orgs']
             results['confirmed'].append(entry)
             print(f'✓ {confirmed_orcid["orcid"]} ({confirmed_orcid["orcid_name"]})')
-        elif num_found == 1 and not confirmed_orcid and candidate_orcids:
-            # Único resultado mas sem afiliação BR — candidato
-            entry['orcid_options'] = candidate_orcids
-            results['candidates'].append(entry)
-            c = candidate_orcids[0]
-            print(f'? {c["orcid"]} (sem BR, {c.get("orcid_name", "")})')
-        elif candidate_orcids:
-            entry['orcid_options'] = candidate_orcids
-            results['candidates'].append(entry)
-            print(f'? {len(candidate_orcids)} candidatos')
         else:
-            results['not_found'].append(entry)
-            print('nenhum compatível')
+            # === Fase E: Fallback Google antes de desistir ===
+            if not confirmed_orcid:
+                time.sleep(GOOGLE_DELAY)
+                g_orcid, g_detail = google_find_orcid(fullname, gn, fn)
+                if g_orcid and (aid, g_orcid) not in exclusions:
+                    entry['orcid'] = g_orcid
+                    entry['orcid_name'] = g_detail.get('display_name', '')
+                    entry['orgs'] = g_detail.get('orgs', [])
+                    entry['source'] = 'google'
+                    results['confirmed'].append(entry)
+                    print(f'✓ Google {g_orcid} ({g_detail.get("display_name", "")})')
+                    mark_checked(aid)
+                    checked_count += 1
+                    if (i + 1) % 10 == 0:
+                        conn.commit()
+                        with open(RESULTS_PATH, 'w') as f:
+                            json.dump(results, f, ensure_ascii=False, indent=2)
+                    continue
+                elif g_detail and g_detail.get('candidates'):
+                    # Google found candidates but couldn't confirm — add to existing
+                    for gc in g_detail['candidates']:
+                        if gc['orcid'] not in [c['orcid'] for c in candidate_orcids]:
+                            candidate_orcids.append(gc)
+
+            if candidate_orcids:
+                entry['orcid_options'] = candidate_orcids
+                results['candidates'].append(entry)
+                print(f'? {len(candidate_orcids)} candidatos')
+            else:
+                results['not_found'].append(entry)
+                print('nenhum')
 
         mark_checked(aid)
         checked_count += 1
