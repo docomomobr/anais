@@ -19,89 +19,52 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 0 — Diagnóstico e preenchimento
 
-- [ ] **0.0** Checkpoint: `sqlite3 anais.db .dump > anais.sql` + commit
-- [ ] **0.1** Levantar padrão de metadados (query cobertura → classificar campos)
-- [ ] **0.2** Listar artigos fora do padrão (campos esperados mas ausentes)
-- [ ] **0.3** Reinspecionar PDFs dos artigos fora do padrão (hierarquia: docx → plumber → pdftotext)
-- [ ] **0.3b** Extrair fontes plumber
-  ```
-  python3 scripts/extrair_fontes_plumber.py --slug sdrj02 --profile-only
-  python3 scripts/extrair_fontes_plumber.py --slug sdrj02
-  ```
-- [ ] **0.4** Seções/sessões — verificar nesta ordem:
-  1. `fontes/` do seminário (HTML/XML de DVDs, sumários, programas)
-  2. Folha de rosto dos artigos (cabeçalho do PDF indica eixo/sessão)
-  3. Site original (campo `source` na tabela `seminars`)
-  4. Busca na internet / Wayback Machine
-  5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
-- [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
-- [ ] **0.6** Extrair metadados EN `[SKIP: abstract_en < 30%]`: `python3 scripts/extrair_metadados_en.py --slug sdrj02`
-- [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)
-- [ ] **0.8** Verificar abstracts + auto-fix
-  ```
-  python3 scripts/validate_metadata.py --slug sdrj02 --fix
-  ```
-  Depois: varredura manual (truncamento, lixo, cruzamento de idiomas)
+- [x] **0.0** Checkpoint + commit
+- [x] **0.1** abs 42% (8/19), abs_en 5% (1), kw 0%, kw_en 0%, refs 37% (7), title_en 0%, 2 seções
+- [x] **0.2** 11 pôsteres sem metadados (genuíno: PDFs gráficos). 4 sem PDF (011, 017, 018, 019). Roberto Segre (9º artigo) falta — PDF inexistente.
+- [x] **0.3** Fonte primária: CD-ROM interativo (HTML+PDFs). 8 artigos texto + 8 pôsteres gráficos. Sem doc/docx.
+- [x] **0.3b** Plumber extraído (15 PDFs, 1240 blocos). OCR (ocrmypdf+tesseract) nos 5 pôsteres imagem/CID → re-extração ok.
+- [x] **0.4** Seções: 2 (Artigos hide_title=1, Pôsteres). Sem eixos temáticos. HTML mostra subcategorias pôsteres (Premiados/Seleção/Apresentados) — visual, não seções.
+- [x] **0.5** Lacunas verificadas. Abstracts 001-008 no banco (001/004 do PDF, demais editoriais). Refs ok (7/8 artigos). Pôsteres sem metadados extraíveis.
+- [skip] **0.6** EN: abs_en < 30% `[SKIP]`
+- [skip] **0.7** ES: 0 artigos com locale=es `[SKIP]`
+- [x] **0.8** Validate --fix: 0 problemas
 
 ## Fase 1 — Revisão automática
 
-- [ ] **1.1a** Títulos PT: seed + normalizar + revisão LLM
-  ```
-  python3 dict/seed_authors.py && python3 dict/seed_titles.py --apply
-  python3 scripts/normalizar_maiusculas.py --slug sdrj02 --dry-run
-  python3 scripts/normalizar_maiusculas.py --slug sdrj02
-  ```
-  → Revisão LLM palavra por palavra (ver §1.1a)
-- [ ] **1.1b** Títulos EN/ES: `python3 scripts/normalizar_titulos_en.py --slug sdrj02` `[SKIP: title_en = 0]`
-- [ ] **1.1c** Revisão LLM títulos EN/ES (cada título vs PDF) `[SKIP: title_en = 0]`
-- [ ] **1.2a** Refs limpeza base
-  ```
-  python3 scripts/clean_references.py --slug sdrj02 --dry-run
-  python3 scripts/clean_references.py --slug sdrj02
-  python3 scripts/check_references.py --slug sdrj02 --summary
-  ```
-- [ ] **1.2b** Refs sweep (8 passadas)
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdrj02 --sweep-refs --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdrj02 --sweep-refs
-  ```
-- [ ] **1.2b+** Re-backfills: `python3 scripts/clean_references.py --slug sdrj02`
-- [ ] **1.2c** Refs revisão LLM — TODOS os artigos vs fontes (ver §1.2c)
-- [ ] **1.3** Keywords
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdrj02 --clean-keywords --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdrj02 --clean-keywords
-  ```
-- [ ] **1.5** Loop validação: `python3 scripts/fix_validation_issues.py --slug sdrj02 --loop`
-- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora)
-- [ ] **1.7** Autores: verificar completude vs PDF (confrontar cada artigo com o PDF)
-- [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
-- [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug sdrj02` → `--review` → `--apply`
-- [ ] **1.10** Revisão LLM final — TODOS os artigos, TODOS os campos vs plumber
-  Para CADA artigo: ler o plumber INTEIRO, confrontar CADA campo (título, subtítulo,
-  abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF.
-  Corrigir na hora (R8). Registrar resultado de CADA artigo abaixo.
-  Ver §1.10 do pipeline para procedimento detalhado.
+- [x] **1.1a** Títulos PT: normalização dry-run → 5 falsos positivos (genéricos: arquiteto, lei, tombamento). 2 correções manuais: 004 "fundação bienal"→"Fundação Bienal", 011 "esplanada"→"Esplanada"
+- [skip] **1.1b/1.1c** Títulos EN/ES `[SKIP: title_en = 0]`
+- [x] **1.2a** Refs: clean 0 alterações, check 0 problemas (60 refs)
+- [x] **1.2b** Refs sweep: 1 artigo (004: 1 lixo grosso removido)
+- [x] **1.2b+** Re-backfills: 0
+- [x] **1.2c+1.10** Revisão LLM (todos campos × todos artigos, 2 agentes Opus, fonte: plumber)
+  Resumo: 5/19 artigos corrigidos, 0 issues genuínos finais
   **1.10 — Resultado por artigo:**
-  - [ ] sdrj02-001:
-  - [ ] sdrj02-002:
-  - [ ] sdrj02-003:
-  - [ ] sdrj02-004:
-  - [ ] sdrj02-005:
-  - [ ] sdrj02-006:
-  - [ ] sdrj02-007:
-  - [ ] sdrj02-008:
-  - [ ] sdrj02-009:
-  - [ ] sdrj02-010:
-  - [ ] sdrj02-011:
-  - [ ] sdrj02-012:
-  - [ ] sdrj02-013:
-  - [ ] sdrj02-014:
-  - [ ] sdrj02-015:
-  - [ ] sdrj02-016:
-  - [ ] sdrj02-017:
-  - [ ] sdrj02-018:
-  - [ ] sdrj02-019:
+  - [x] sdrj02-001: OK
+  - [x] sdrj02-002: OK
+  - [x] sdrj02-003: +3 refs (REFERÊNCIAS BIBLIOGRÁFICAS p8: Conservar/Restaurar, Carlos Leão, Meiriño)
+  - [x] sdrj02-004: +11 refs (Bibliografia Periódicos: Alencastro, Estevão, Fernandes, Bienal, etc. 9→20)
+  - [x] sdrj02-005: OK
+  - [x] sdrj02-006: OK (sem refs, genuíno)
+  - [x] sdrj02-007: OK
+  - [x] sdrj02-008: OK (título "saúde" minúsculo mantido — genérico)
+  - [x] sdrj02-009: OK (pôster)
+  - [x] sdrj02-010: OK (pôster, discrepância título CD-ROM vs PDF — mantido catálogo)
+  - [x] sdrj02-011: OK (pôster, sem PDF)
+  - [x] sdrj02-012: OK (pôster)
+  - [x] sdrj02-013: +subtitle "um acervo em estudo" (do PDF)
+  - [x] sdrj02-014: OK (pôster)
+  - [x] sdrj02-015: +subtitle "o Teatro do Museu de Arte Moderna do Rio de Janeiro" (do PDF)
+  - [x] sdrj02-016: OK (pôster, OCR)
+  - [x] sdrj02-017: OK (pôster, sem PDF)
+  - [x] sdrj02-018: OK (pôster, sem PDF)
+  - [x] sdrj02-019: OK (pôster, sem PDF)
+- [x] **1.3** Keywords: 0 artigos (genuinamente ausentes em todos os PDFs)
+- [x] **1.5** Loop: 0 issues, convergiu em 1 iteração
+- [x] **1.6** Cobertura: abs 42%, abs_en 5%, kw 0%, refs 37%. Seminário: ISBN, editores, descrição OK.
+- [x] **1.7** Autores: 38, verificados vs HTML do CD-ROM
+- [x] **1.8** Dedup: 0 merges
+- [x] **1.9** ORCID: 20 buscados, 3 candidatos aceitos (Waltenberg, Zukeran, Bette). Cobertura: 21/38 (55%)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
