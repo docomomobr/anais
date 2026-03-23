@@ -154,12 +154,12 @@ Issues genuínos restantes:
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** 1 correção humana (017 subtitle Estadual). Causas raiz automáticas: 19 overflows abstract, 4 refs concatenadas pós-LLM
+- [x] **3.2** Dict: 20 nomes próprios adicionados (seed_titles)
+- [x] **3.3** Scripts: sem alterações necessárias
+- [x] **3.4** Pipeline: sem alterações
+- [x] **3.5** Verificar: 0 problemas refs, 1 A11 genuíno
+- [x] **3.6** Aprendizado: resumos expandidos → 1o parágrafo como abstract
+- [x] **3.7** Engenharia: DB íntegro, refs JSON válido, 0 backfills
+- [x] **3.8** Cobertura final: abs 100%, abs_en 0%, kw 0%, kw_en 0%, refs 96%, ORCID 74%
+- [x] **3.9** Fechar: dump + commit + CLAUDE.md

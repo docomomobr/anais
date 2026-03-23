@@ -38,6 +38,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdsul05 | 37 | ✅ revisado | 2026-03-22 |
 | sdsul06 | 24 | ✅ revisado | 2026-03-22 |
 | sdsul07 | 46 | ✅ revisado | 2026-03-23 |
+| sdsul08 | 51 | ✅ revisado | 2026-03-23 |
 
 ---
 

@@ -36,6 +36,14 @@
 - ✅ 1.10 — Revisão LLM final: 3 agentes paralelos (refs) + verificação campo a campo (títulos, abstracts)
 - ✅ 2.0 — Validação final + HTML + dump + commit
 
+### Revisão humana
+- ✅ sdsul08-017: subtitle "estadual" → "Estadual" (Plano Rodoviário Estadual = nome próprio)
+
+### Fechamento
+- ✅ 5.1 — clean + check refs: 0 problemas / 670 refs
+- ✅ 5.2 — HTML regenerado
+- ✅ 5.3 — Dict: 20 nomes próprios adicionados (seed_titles)
+
 ### Log de correções automáticas
 
 #### Abstracts (Fase 0)
