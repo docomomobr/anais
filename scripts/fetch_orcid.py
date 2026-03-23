@@ -1046,7 +1046,8 @@ def print_stats(results=None):
     oa_count = sum(1 for c in confirmed if c.get('source', '').startswith('openalex'))
     cr_count = sum(1 for c in confirmed if c.get('source') == 'crossref')
     s2_count = sum(1 for c in confirmed if c.get('source') == 'semantic_scholar')
-    orcid_count = len(confirmed) - oa_count - cr_count - s2_count
+    ft_count = sum(1 for c in confirmed if c.get('source') == 'orcid_fulltext')
+    orcid_count = len(confirmed) - oa_count - cr_count - s2_count - ft_count
 
     print(f'\n{"="*50}')
     print(f'Confirmados total:    {len(confirmed)}')
@@ -1054,6 +1055,7 @@ def print_stats(results=None):
     print(f'  - via Crossref:     {cr_count}')
     print(f'  - via Sem. Scholar: {s2_count}')
     print(f'  - via ORCID API:    {orcid_count}')
+    print(f'  - via ORCID fulltext: {ft_count}')
     print(f'Candidatos (LLM):  {len(results.get("candidates", []))}')
     print(f'Sem resultado:     {len(results.get("not_found", []))}')
     print(f'Muitos resultados: {len(results.get("too_many", []))}')
