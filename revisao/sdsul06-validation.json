@@ -1,0 +1,47 @@
+{
+  "slug": "sdsul06",
+  "date": "2026-03-22",
+  "total_articles": 24,
+  "profile": {
+    "total": 24,
+    "locale_es": 0,
+    "abstract": 23,
+    "abstract_en": 23,
+    "abstract_es": 0,
+    "keywords": 22,
+    "keywords_en": 22,
+    "keywords_es": 0,
+    "references_": 24
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdsul06-005",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdsul06-019",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdsul06-021",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}
