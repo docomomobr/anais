@@ -160,6 +160,6 @@ Issues genuínos restantes:
 - [x] **3.4** Pipeline: sem alterações
 - [x] **3.5** Verificar: 0 problemas refs, 1 A11 genuíno
 - [x] **3.6** Aprendizado: resumos expandidos → 1o parágrafo como abstract
-- [x] **3.7** Engenharia: DB íntegro, refs JSON válido, 0 backfills
+- [x] **3.7** Engenharia: 6 scripts compilam, dry-run sdsul07+sdpr01 sem regressão, DB íntegro (0 bad JSON, 0 backfills)
 - [x] **3.8** Cobertura final: abs 100%, abs_en 0%, kw 0%, kw_en 0%, refs 96%, ORCID 74%
 - [x] **3.9** Fechar: dump + commit + CLAUDE.md
