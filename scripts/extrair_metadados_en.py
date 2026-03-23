@@ -76,23 +76,222 @@ BODY_TEXT_PATTERNS = re.compile(
 )
 
 
+def read_plumber_blocks(fontes_dir, file_name):
+    """Lê os blocos do plumber JSONL. Retorna lista de dicts ou None."""
+    art_id = file_name.replace('.pdf', '')
+    jsonl_path = os.path.join(fontes_dir, art_id + '.jsonl')
+    if not os.path.exists(jsonl_path):
+        return None
+    blocks = []
+    with open(jsonl_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            blocks.append(json.loads(line))
+    return blocks
+
+
+def extract_en_from_plumber(blocks):
+    """Extrai abstract_en, keywords_en, title_en, subtitle_en dos blocos plumber.
+
+    Usa a estrutura dos blocos (role, page, font_size) em vez de busca por linhas.
+    Retorna dict com campos extraídos (chaves só presentes se encontrados).
+    """
+    result = {}
+
+    # --- Localizar blocos com marcadores EN ---
+    abstract_en_parts = []
+    keywords_en_raw = None
+    title_en_candidates = []
+
+    # Índices de marcadores PT para delimitar a zona EN
+    kw_pt_block_idx = None
+    abstract_marker_idx = None
+
+    for i, b in enumerate(blocks):
+        text = b['text']
+        # Keywords PT marker
+        if kw_pt_block_idx is None:
+            if re.search(r'Palavras[\s-]*[Cc]haves?\s*:', text, re.IGNORECASE):
+                kw_pt_block_idx = i
+
+        # Abstract EN marker — heading block or inline
+        if abstract_marker_idx is None:
+            if b['role'] == 'heading' and re.match(r'\s*Abstract\s*:?\s*$', text, re.IGNORECASE):
+                abstract_marker_idx = i
+            elif re.search(r'(?:^|\n)\s*Abstract\s*:', text, re.IGNORECASE):
+                abstract_marker_idx = i
+
+    # --- abstract_en ---
+    if abstract_marker_idx is not None:
+        b = blocks[abstract_marker_idx]
+        text = b['text']
+
+        # Caso 1: heading "Abstract" — conteúdo nos blocos seguintes
+        if b['role'] == 'heading' and re.match(r'\s*Abstract\s*:?\s*$', text, re.IGNORECASE):
+            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 5)):
+                nb = blocks[j]
+                if nb['role'] in ('abstract', 'small', 'body', 'footnote'):
+                    nt = nb['text'].strip()
+                    # Parar se atingir keywords_en
+                    if re.match(r'\s*Key[\s-]*[Ww]ords?\s*:', nt, re.IGNORECASE):
+                        break
+                    # Parar se atingir heading de seção (Introdução, etc.)
+                    if nb['role'] == 'heading' and nb['page'] > b['page']:
+                        break
+                    abstract_en_parts.append(nt)
+                    # Verificar se tem keywords embutidas no final
+                    m_kw = re.search(r'\n\s*Key[\s-]*[Ww]ords?\s*:', nt)
+                    if m_kw:
+                        abstract_en_parts[-1] = nt[:m_kw.start()].strip()
+                        keywords_en_raw = nt[m_kw.end():].strip()
+                        break
+                elif nb['role'] == 'heading':
+                    break
+
+        # Caso 2: "Abstract:" inline no bloco
+        else:
+            m = re.search(r'Abstract\s*:\s*(.+)', text, re.DOTALL)
+            if m:
+                content = m.group(1).strip()
+                # Pode ter keywords_en embutidas
+                m_kw = re.search(r'\n\s*Key[\s-]*[Ww]ords?\s*:', content)
+                if m_kw:
+                    abstract_en_parts.append(content[:m_kw.start()].strip())
+                    keywords_en_raw = content[m_kw.end():].strip()
+                else:
+                    abstract_en_parts.append(content)
+
+            # Verificar blocos adjacentes (continuation em role=footnote/small)
+            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 4)):
+                nb = blocks[j]
+                if nb['page'] != b['page'] and nb['page'] > b['page'] + 1:
+                    break
+                if nb['role'] in ('footnote', 'small', 'abstract'):
+                    nt = nb['text'].strip()
+                    # Rejeitar se parece PT
+                    if looks_like_pt(nt[:100]):
+                        break
+                    if re.match(r'\s*Key[\s-]*[Ww]ords?\s*:', nt, re.IGNORECASE):
+                        keywords_en_raw = re.sub(r'^\s*Key[\s-]*[Ww]ords?\s*:\s*', '', nt,
+                                                 flags=re.IGNORECASE).strip()
+                        break
+                    # Se parece continuação EN
+                    if not has_pt_accents(nt[:100], 2):
+                        abstract_en_parts.append(nt)
+                elif nb['role'] in ('heading', 'body'):
+                    break
+
+    if abstract_en_parts:
+        ae = ' '.join(abstract_en_parts)
+        ae = re.sub(r'\n', ' ', ae).strip()
+        ae = re.sub(r'  +', ' ', ae)
+        # Strip label residual
+        ae = re.sub(r'^Abstract\s*:?\s*', '', ae, flags=re.IGNORECASE).strip()
+        # Strip keywords no final
+        m_kw = re.search(r'\s*Key[\s-]*[Ww]ords?\s*:.*$', ae, re.IGNORECASE)
+        if m_kw:
+            if keywords_en_raw is None:
+                keywords_en_raw = ae[m_kw.start():].strip()
+                keywords_en_raw = re.sub(r'^\s*Key[\s-]*[Ww]ords?\s*:\s*', '', keywords_en_raw,
+                                         flags=re.IGNORECASE).strip()
+            ae = ae[:m_kw.start()].strip()
+        if len(ae) > 50:
+            result['abstract_en'] = ae
+
+    # --- keywords_en ---
+    if keywords_en_raw is None:
+        # Buscar em todos os blocos
+        for b in blocks:
+            m = re.search(r'Key[\s-]*[Ww]ords?\s*:\s*(.+?)(?:\n|$)', b['text'])
+            if m:
+                keywords_en_raw = m.group(1).strip()
+                break
+
+    if keywords_en_raw:
+        keywords_en_raw = keywords_en_raw.rstrip('.')
+        if ';' in keywords_en_raw:
+            kw_list = [k.strip().rstrip('.') for k in keywords_en_raw.split(';') if k.strip()]
+        else:
+            kw_list = [k.strip().rstrip('.') for k in keywords_en_raw.split(',') if k.strip()]
+        kw_list = [k for k in kw_list if len(k) > 1]
+        if kw_list:
+            result['keywords_en'] = json.dumps(kw_list, ensure_ascii=False)
+
+    # --- title_en ---
+    # Procurar entre keywords_PT e Abstract: linhas EN (não-PT) em blocos heading/small
+    if kw_pt_block_idx is not None and abstract_marker_idx is not None:
+        for i in range(kw_pt_block_idx + 1, abstract_marker_idx):
+            b = blocks[i]
+            text = b['text'].strip()
+            if not text or len(text) < 3:
+                continue
+            # Pular números de página
+            if re.match(r'^\d{1,3}$', text):
+                continue
+            # Pular continuação de keywords PT (texto curto com vírgulas)
+            if len(text) < 40 and ',' in text and not is_all_caps(text):
+                continue
+            # Verificar se não é PT
+            if looks_like_pt(text):
+                continue
+            if is_likely_title_line(text):
+                title_en_candidates.append(text)
+
+    # Padrão B: título ALL CAPS logo após heading "Abstract"
+    if not title_en_candidates and abstract_marker_idx is not None:
+        b = blocks[abstract_marker_idx]
+        if b['role'] == 'heading' and re.match(r'\s*Abstract\s*:?\s*$', b['text'], re.IGNORECASE):
+            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 5)):
+                nb = blocks[j]
+                text = nb['text'].strip()
+                if not text:
+                    continue
+                if re.match(r'^\d{1,3}$', text):
+                    continue
+                if is_all_caps(text) and not has_pt_accents(text, 2):
+                    title_en_candidates.append(text)
+                else:
+                    break
+
+    if title_en_candidates:
+        title_raw = ' '.join(title_en_candidates)
+        title_raw = re.sub(r'\s+', ' ', title_raw).strip()
+        title_en, subtitle_en = split_title_subtitle(title_raw)
+        if title_en:
+            result['title_en'] = title_en
+            if subtitle_en:
+                result['subtitle_en'] = subtitle_en
+
+    return result
+
+
+def _has_relevant_files(path, ext):
+    """Verifica se o diretório tem arquivos com a extensão relevante."""
+    try:
+        return any(f.endswith(ext) for f in os.listdir(path))
+    except OSError:
+        return False
+
+
 def find_fontes_dir(slug):
     """Localiza o diretório fontes/ para um seminário.
 
     Retorna (path, tipo) onde tipo é 'txt' (pdftotext) ou 'plumber' (jsonl).
-    Hierarquia: fontes/ > fontes_plumber/.
+    Hierarquia: fontes/ com .txt > fontes_plumber/ com .jsonl.
     """
-    # Nacionais
-    for subdir, tipo in [('fontes', 'txt'), ('fontes_plumber', 'plumber')]:
-        path = os.path.join(BASE_DIR, 'nacionais', slug, subdir)
-        if os.path.isdir(path):
-            return path, tipo
-    # Regionais
+    search_dirs = [os.path.join(BASE_DIR, 'nacionais', slug)]
     for grupo in ['nne', 'se', 'sul']:
-        for subdir, tipo in [('fontes', 'txt'), ('fontes_plumber', 'plumber')]:
-            path = os.path.join(BASE_DIR, 'regionais', grupo, slug, subdir)
-            if os.path.isdir(path):
-                return path, tipo
+        search_dirs.append(os.path.join(BASE_DIR, 'regionais', grupo, slug))
+
+    for base in search_dirs:
+        # Preferir fontes/ .txt (mais completo)
+        fontes_path = os.path.join(base, 'fontes')
+        if os.path.isdir(fontes_path) and _has_relevant_files(fontes_path, '.txt'):
+            return fontes_path, 'txt'
+        # Fallback: fontes_plumber/ .jsonl
+        plumber_path = os.path.join(base, 'fontes_plumber')
+        if os.path.isdir(plumber_path) and _has_relevant_files(plumber_path, '.jsonl'):
+            return plumber_path, 'plumber'
+
     return None, None
 
 
@@ -451,33 +650,31 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
     print('-' * 100)
 
     for art_id, file_name, old_title_en, old_subtitle_en, old_abstract_en, old_kw_en in rows:
-        text = read_fontes_text(fontes_dir, fontes_tipo, file_name or f'{art_id}.pdf')
-
-        if not text:
-            print(f'{art_id:<15} {"—":<60} {"—":<5} sem fonte')
-            stats['title_failed'] += 1
-            continue
-
-        lines = text.split('\n')
-
-        has_abstract = any(is_abstract_marker(l) for l in lines)
-        if not has_abstract:
-            print(f'{art_id:<15} {"—":<60} {"—":<5} sem seção EN')
-            stats['no_en_section'] += 1
-            continue
-
+        fname = file_name or f'{art_id}.pdf'
         updates = {}
 
-        # --- title_en ---
-        if old_title_en and not force:
-            stats['title_existing'] += 1
-            status_title = 'existente'
-        else:
-            title_en, subtitle_en = extract_title_en(lines)
-            if title_en:
-                updates['title_en'] = title_en
-                if subtitle_en:
-                    updates['subtitle_en'] = subtitle_en
+        if fontes_tipo == 'plumber':
+            # Extração estruturada do plumber
+            plumber_blocks = read_plumber_blocks(fontes_dir, fname)
+            if not plumber_blocks:
+                print(f'{art_id:<15} {"—":<60} {"—":<5} sem fonte')
+                stats['title_failed'] += 1
+                continue
+
+            extracted = extract_en_from_plumber(plumber_blocks)
+            if not extracted:
+                print(f'{art_id:<15} {"—":<60} {"—":<5} sem seção EN')
+                stats['no_en_section'] += 1
+                continue
+
+            # title_en
+            if old_title_en and not force:
+                stats['title_existing'] += 1
+                status_title = 'existente'
+            elif 'title_en' in extracted:
+                updates['title_en'] = extracted['title_en']
+                if 'subtitle_en' in extracted:
+                    updates['subtitle_en'] = extracted['subtitle_en']
                     stats['subtitle_extracted'] += 1
                 stats['title_extracted'] += 1
                 status_title = 'NOVO'
@@ -485,25 +682,73 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
                 stats['title_failed'] += 1
                 status_title = 'falhou'
 
-        # --- abstract_en ---
-        if not only_title:
-            if old_abstract_en and not force:
-                stats['abstract_existing'] += 1
-            else:
-                abstract_en = extract_abstract_en(lines)
-                if abstract_en:
-                    updates['abstract_en'] = abstract_en
+            # abstract_en
+            if not only_title:
+                if old_abstract_en and not force:
+                    stats['abstract_existing'] += 1
+                elif 'abstract_en' in extracted:
+                    updates['abstract_en'] = extracted['abstract_en']
                     stats['abstract_extracted'] += 1
 
-        # --- keywords_en ---
-        if not only_title:
-            if old_kw_en and old_kw_en != '[]' and not force:
-                stats['keywords_existing'] += 1
-            else:
-                kw_en = extract_keywords_en(lines)
-                if kw_en:
-                    updates['keywords_en'] = json.dumps(kw_en, ensure_ascii=False)
+            # keywords_en
+            if not only_title:
+                if old_kw_en and old_kw_en != '[]' and not force:
+                    stats['keywords_existing'] += 1
+                elif 'keywords_en' in extracted:
+                    updates['keywords_en'] = extracted['keywords_en']
                     stats['keywords_extracted'] += 1
+        else:
+            # Extração por linhas (fontes/ .txt)
+            text = read_fontes_text(fontes_dir, fontes_tipo, fname)
+            if not text:
+                print(f'{art_id:<15} {"—":<60} {"—":<5} sem fonte')
+                stats['title_failed'] += 1
+                continue
+
+            lines = text.split('\n')
+
+            has_abstract = any(is_abstract_marker(l) for l in lines)
+            if not has_abstract:
+                print(f'{art_id:<15} {"—":<60} {"—":<5} sem seção EN')
+                stats['no_en_section'] += 1
+                continue
+
+            # title_en
+            if old_title_en and not force:
+                stats['title_existing'] += 1
+                status_title = 'existente'
+            else:
+                title_en, subtitle_en = extract_title_en(lines)
+                if title_en:
+                    updates['title_en'] = title_en
+                    if subtitle_en:
+                        updates['subtitle_en'] = subtitle_en
+                        stats['subtitle_extracted'] += 1
+                    stats['title_extracted'] += 1
+                    status_title = 'NOVO'
+                else:
+                    stats['title_failed'] += 1
+                    status_title = 'falhou'
+
+            # abstract_en
+            if not only_title:
+                if old_abstract_en and not force:
+                    stats['abstract_existing'] += 1
+                else:
+                    abstract_en = extract_abstract_en(lines)
+                    if abstract_en:
+                        updates['abstract_en'] = abstract_en
+                        stats['abstract_extracted'] += 1
+
+            # keywords_en
+            if not only_title:
+                if old_kw_en and old_kw_en != '[]' and not force:
+                    stats['keywords_existing'] += 1
+                else:
+                    kw_en = extract_keywords_en(lines)
+                    if kw_en:
+                        updates['keywords_en'] = json.dumps(kw_en, ensure_ascii=False)
+                        stats['keywords_extracted'] += 1
 
         # Mostrar resultado
         title_display = updates.get('title_en', old_title_en or '—')

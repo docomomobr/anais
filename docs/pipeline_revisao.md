@@ -331,10 +331,7 @@ python3 scripts/extrair_metadados_en.py --slug {slug}
 
 Flags: `--force` re-extrai; `--only-title` extrai apenas title_en/subtitle_en. Títulos não capturados automaticamente serão revisados na 1.1c.
 
-**ATENÇÃO:** `extrair_metadados_en.py` lê de `fontes/` (.txt). Se o seminário só tem `fontes_plumber/` (.jsonl), o script retorna 0 resultados. Nesse caso, extrair manualmente do plumber:
-- abstract_en: procurar blocos com "Abstract:" (inline ou heading). **Sempre verificar bloco adjacente** (role=footnote/small) para continuação — truncamento recorrente.
-- keywords_en: procurar "Keywords:" / "Key words:" nos blocos de p1.
-- title_en: procurar títulos EN no cabeçalho (raro nos regionais Sul).
+O script suporta `fontes/` (.txt) e `fontes_plumber/` (.jsonl). Para plumber, usa extração estruturada com verificação de blocos adjacentes (role=footnote/small) para continuação de abstract_en.
 
 ---
 
