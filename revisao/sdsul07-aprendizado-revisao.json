@@ -1,30 +1,101 @@
 [
   {
+    "causa": "abstract_overflow_extracao_original",
+    "artigos": ["sdsul07-003", "sdsul07-005", "sdsul07-006", "sdsul07-008", "sdsul07-011", "sdsul07-014", "sdsul07-015", "sdsul07-016", "sdsul07-018", "sdsul07-025", "sdsul07-027", "sdsul07-030", "sdsul07-032", "sdsul07-037", "sdsul07-038", "sdsul07-040", "sdsul07-043"],
+    "campo": "abstract",
+    "descricao": "17 abstracts vinham do YAML original com 2443-24019 chars — o script de extração original (pipeline de tratamento) capturou o corpo do texto inteiro, não só o Resumo. O A20 do validate pega os >5000c mas vários estavam entre 2400-4500c e escapavam. Re-extraídos do plumber (bloco com 'Resumo' na p1) com tamanhos corretos (287-2124c)",
+    "recorrencia": "alta — todos os seminários Sul (sdsul01-07) têm esse problema na extração original",
+    "acao_tomada": "re-extração manual do plumber na Fase 0.5/0.8",
+    "acao_sugerida": "reduzir threshold do A20 (de 5000c para ~3000c) ou adicionar check de ratio DB/plumber. Ou melhorar o script de extração original para usar o bloco 'Resumo' do plumber como boundary"
+  },
+  {
+    "causa": "abstract_truncado_bloco_split",
+    "artigos": ["sdsul07-012", "sdsul07-025"],
+    "campo": "abstract",
+    "descricao": "Plumber divide o abstract em múltiplos blocos (role=small) quando há mudança de page ou font. O script de extração pega só o primeiro bloco (com 'Resumo'), perdendo a continuação. 012: 287→2290c (8 blocos), 025: 490→1990c (2 blocos)",
+    "recorrencia": "média — visto também em sdsul04/05/06",
+    "acao_tomada": "concatenação manual de blocos adjacentes na Fase 0.5",
+    "acao_sugerida": "o script de extração (ou a Fase 0.5) deveria automaticamente concatenar blocos small adjacentes após o bloco com 'Resumo', parando em heading/pagenum/body"
+  },
+  {
+    "causa": "abstract_body_text_overflow",
+    "artigos": ["sdsul07-017"],
+    "campo": "abstract",
+    "descricao": "Abstract no banco incluía 940c de body text após o resumo real (seção 'UFRGS' grudada). O plumber tem o boundary correto. Cortado de 4293→3353c pelo agente LLM",
+    "recorrencia": "baixa",
+    "acao_tomada": "cortado pelo agente LLM na Fase 1.10",
+    "acao_sugerida": "nenhuma — coberto pela revisão LLM"
+  },
+  {
+    "causa": "refs_body_text_na_extracao",
+    "artigos": ["sdsul07-022", "sdsul07-023", "sdsul07-046"],
+    "campo": "references_",
+    "descricao": "YAML original tinha body text, footnotes e headings misturados com refs bibliográficas. 022: 10 não-refs (seção 'REFERÊNCIAS EXTERNAS' era texto narrativo, não bibliografia), 023: 21 footnotes inline, 046: 16 entradas de body text. Total: 47 não-refs removidos",
+    "recorrencia": "alta — o script de extração original não identifica corretamente o boundary REFERÊNCIAS→NOTAS nem filtra body text",
+    "acao_tomada": "removidos pelos agentes LLM na Fase 1.10",
+    "acao_sugerida": "melhorar passada 0 do sweep_refs para detectar body text no início das refs (threshold: se >30% das primeiras N refs parecem narrativas, remover bloco)"
+  },
+  {
+    "causa": "refs_fragmentadas_plumber",
+    "artigos": ["42 dos 46 artigos"],
+    "campo": "references_",
+    "descricao": "142 joins pelo sweep + dezenas adicionais pelo LLM. O plumber extrai refs splitadas por quebra de linha, gerando fragmentos. O sweep (passada 1) junta a maioria, mas refs com padrões não-standard (autores institucionais, títulos começando com maiúscula, URLs longas) escapam",
+    "recorrencia": "alta — problema estrutural do pdfplumber com refs",
+    "acao_tomada": "sweep + revisão LLM",
+    "acao_sugerida": "nenhuma — a combinação sweep + LLM cobre bem. O sweep melhorou progressivamente (threshold 300c)"
+  },
+  {
+    "causa": "refs_faltantes",
+    "artigos": ["sdsul07-003", "sdsul07-007", "sdsul07-015", "sdsul07-020", "sdsul07-029", "sdsul07-034", "sdsul07-040"],
+    "campo": "references_",
+    "descricao": "7 artigos tinham refs que existiam no plumber mas não no banco. Causas: ref no final do bloco de referências cortada na extração, ref em formato não-standard (sem autor CAPS), ref institucional",
+    "recorrencia": "média",
+    "acao_tomada": "adicionadas pelos agentes LLM na Fase 1.10",
+    "acao_sugerida": "nenhuma — coberto pela revisão LLM"
+  },
+  {
+    "causa": "backfills_nao_resolvidos",
+    "artigos": ["sdsul07-037", "sdsul07-040", "sdsul07-041", "sdsul07-044"],
+    "campo": "references_",
+    "descricao": "14 refs com ______ que clean_references.py não resolveu. Causa: o agente LLM reconstruiu as refs mas manteve alguns ______ (037 tinha 10 de COSTA, Lucio que o agente não expandiu). Resolvidos manualmente após a revisão LLM",
+    "recorrencia": "média — backfills em refs de autor único com muitas obras (COSTA, Lucio = 10 obras)",
+    "acao_tomada": "backfill manual pós-LLM",
+    "acao_sugerida": "instruir os agentes LLM a resolver backfills (expandir ______ para o autor da ref anterior) em vez de manter"
+  },
+  {
+    "causa": "titulos_normalizacao_incorreta",
+    "artigos": ["35 artigos"],
+    "campo": "title/subtitle",
+    "descricao": "normalizar_maiusculas.py aplicou regras incorretas: 'B' (abreviação temática do seminário) forçado para lowercase, nomes próprios de edifícios/instituições não reconhecidos (Taba Guaianases, Cine Marrocos, Brasília Palace Hotel, EMEIs, CIAMs, Grupo Bloch, Casa Edgar Duvivier, Metalúrgica Abramo Eberle, etc.), genéricos forçados para maiúscula (Arquiteto, Residências, Torres, Escritório, Complexo, Escolar)",
+    "recorrencia": "alta — cada seminário tem 20-30 correções LLM de títulos",
+    "acao_tomada": "seed_titles adicionou 13 nomes próprios. Correções LLM aplicadas",
+    "acao_sugerida": "nenhuma fundamental — a normalização automática é um primeiro passo, a revisão LLM é o segundo. O dict cresce a cada seminário"
+  },
+  {
     "causa": "topônimo_não_detectado",
     "artigos": ["sdsul07-033"],
     "campo": "title",
-    "antes": "Capela de Santana do pé do morro",
-    "depois": "Capela de Santana do Pé do Morro",
-    "descricao": "Normalização forçou lowercase em 'Pé do Morro' — é topônimo (nome do lugar/fazenda)",
-    "recorrencia": "baixa (nomes de fazendas/localidades rurais são raros nos anais)",
-    "acao": "nenhuma — caso isolado, não justifica regra no dict"
+    "descricao": "Normalização forçou lowercase em 'Pé do Morro' — é topônimo (nome do lugar/fazenda). Correção humana",
+    "recorrencia": "baixa",
+    "acao_tomada": "correção humana",
+    "acao_sugerida": "nenhuma — caso isolado"
   },
   {
     "causa": "paginas_imagem_no_pdf",
     "artigos": ["sdsul07-033"],
     "campo": "abstract",
-    "antes": "NULL (0c)",
-    "depois": "589c (extraído via OCR visual)",
-    "descricao": "4 primeiras páginas do artigo eram imagens escaneadas no PDF dos anais. pdfplumber não extrai texto de imagens. Páginas apareciam como vazias",
-    "recorrencia": "baixa (primeiro caso encontrado nos anais)",
-    "acao": "re-extração do PDF individual com páginas corretas (339-348). Abstract extraído manualmente via leitura da imagem. Pipeline não alterado — OCR automático seria over-engineering para 1 caso"
+    "descricao": "4 primeiras páginas do artigo eram imagens escaneadas no PDF dos anais. pdfplumber não extrai texto de imagens. PDF re-extraído com pikepdf, abstract inserido via OCR visual",
+    "recorrencia": "baixa (primeiro caso nos anais)",
+    "acao_tomada": "extração manual",
+    "acao_sugerida": "nenhuma — OCR automático seria over-engineering para 1 caso"
   },
   {
-    "causa": "orcid_fulltext_search",
+    "causa": "orcid_busca_estruturada_limitada",
     "artigos": [],
     "campo": "orcid",
-    "descricao": "fetch_orcid.py v3.1: adicionado ORCID fulltext search como Fase E (fallback quando busca estruturada family-name+given-names falha). Pega casos como 'Valentina Martins' no givenname + 'Marques' no familyname vs ORCID com 'Valentina' given + 'Martins Marques' family. Também corrigido name_compatible para exigir sufixo no familyname (evita falso positivo 'Franco' in 'Regis Franco de Almeida')",
-    "recorrencia": "média (nomes com partículas/sobrenomes compostos são comuns)",
-    "acao": "script atualizado e commitado (v3.1)"
+    "descricao": "Busca ORCID estruturada (family-name:X AND given-names:Y) falha quando o autor registrou nomes de forma diferente. Adicionado fulltext search como Fase E + corrigido name_compatible para exigir sufixo no familyname",
+    "recorrencia": "média",
+    "acao_tomada": "fetch_orcid.py v3.1",
+    "acao_sugerida": "já implementado"
   }
 ]
