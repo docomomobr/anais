@@ -6,13 +6,45 @@
       "tipo": "título com ponto separando subtítulo não splitado",
       "artigos": ["021"],
       "causa": "ponto no meio do título pode separar título/subtítulo, mas distinção é semântica",
-      "ação": "sem alteração (não automatizável, 1 ocorrência)",
+      "ação": "sem alteração no código (não automatizável, 1 ocorrência). Pipeline 1.6c atualizado: verificar subtítulos para atribuição de seções.",
+      "recorrente": false
+    },
+    {
+      "tipo": "extrair_metadados_en.py falha sem fontes .txt",
+      "artigos": ["001-024"],
+      "causa": "script lê de fontes/ (.txt), não de fontes_plumber/ (.jsonl). Todos os Sul só têm plumber.",
+      "ação": "pipeline 0.6 e runner atualizados: nota sobre extração manual do plumber quando script falha. Sempre verificar bloco adjacente para continuação.",
+      "recorrente": true,
+      "seminarios_anteriores": ["sdsul01", "sdsul02", "sdsul03", "sdsul04", "sdsul05"]
+    },
+    {
+      "tipo": "abstract_en truncado por bloco adjacente",
+      "artigos": ["003", "004", "007", "011", "014", "015", "016", "018", "020", "024"],
+      "causa": "plumber divide abstract em blocos por role (footnote/small/abstract), extração só pega o primeiro",
+      "ação": "documentado no pipeline 0.6 e runner: sempre verificar bloco adjacente",
+      "recorrente": true,
+      "seminarios_anteriores": ["sdsul04", "sdsul05"]
+    },
+    {
+      "tipo": "subtema inferível do subtítulo",
+      "artigos": ["022", "023"],
+      "causa": "artigos sem label 'Subtema:' no cabeçalho, mas subtítulo referencia diretamente o subtema",
+      "ação": "pipeline 1.6c atualizado: verificar subtítulos quando artigos ficam sem seção",
       "recorrente": false
     }
   ],
-  "scripts_alterados": [],
+  "scripts_alterados": [
+    "gerar_runner.py: etapa 0.6 com nota sobre extração manual do plumber + verificação de bloco adjacente"
+  ],
+  "pipeline_alterado": true,
+  "pipeline_alteracoes": [
+    "pipeline_revisao.md §0.6: documentado que extrair_metadados_en.py só funciona com fontes/ .txt; instruções de extração manual do plumber",
+    "pipeline_revisao.md §1.6c: verificar subtítulos para atribuição de seções quando fontes externas esgotadas"
+  ],
   "dict_alterado": false,
-  "pipeline_alterado": false,
+  "dados_corrigidos": [
+    "22 seminários: 'Disponível também em' → 'Disponível originalmente em' na ficha catalográfica"
+  ],
   "cobertura_final": {
     "abstract": "96%",
     "abstract_en": "96%",
@@ -22,6 +54,5 @@
     "orcid": "71%"
   },
   "issues_humana": 1,
-  "issues_genuinos": 3,
-  "nota": "Melhor resultado até agora: 1 correção humana (vs 6 no sdsul05, 10 no sdsul04). Padrão 'Disponível também em' corrigido em 22 seminários."
+  "issues_genuinos": 3
 }

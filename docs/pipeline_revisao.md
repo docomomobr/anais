@@ -331,6 +331,11 @@ python3 scripts/extrair_metadados_en.py --slug {slug}
 
 Flags: `--force` re-extrai; `--only-title` extrai apenas title_en/subtitle_en. Títulos não capturados automaticamente serão revisados na 1.1c.
 
+**ATENÇÃO:** `extrair_metadados_en.py` lê de `fontes/` (.txt). Se o seminário só tem `fontes_plumber/` (.jsonl), o script retorna 0 resultados. Nesse caso, extrair manualmente do plumber:
+- abstract_en: procurar blocos com "Abstract:" (inline ou heading). **Sempre verificar bloco adjacente** (role=footnote/small) para continuação — truncamento recorrente.
+- keywords_en: procurar "Keywords:" / "Key words:" nos blocos de p1.
+- title_en: procurar títulos EN no cabeçalho (raro nos regionais Sul).
+
 ---
 
 ## Fase 1 — Revisão automática
@@ -593,6 +598,8 @@ Gerar/atualizar a `description` (ficha catalográfica ABNT). Prioridade: transcr
 6. Caderno de resumos
 
 **NUNCA** manter seção genérica "Artigos" sem esgotar todas as fontes acima. Documentar qual fonte foi usada.
+
+**Quando artigos ficam sem seção após esgotar as fontes acima:** verificar subtítulos dos artigos — podem conter referência direta ao subtema/eixo (ex: "projeto, restauro e retrofit" → subtema Restauro). Atribuir nesses casos.
 
 **Procedimento:** Verificar PDFs — extrair eixos — criar seções no banco (`INSERT INTO sections`) — mapear artigos — seções sem artigos ficam para documentar a estrutura. Capitalização: sentence case (converter ALL CAPS do PDF).
 
