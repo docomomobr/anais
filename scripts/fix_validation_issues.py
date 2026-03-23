@@ -1121,6 +1121,7 @@ def read_plumber_refs(fontes_dir, art_id):
     """
     jsonl_path = _find_best_jsonl(fontes_dir, art_id)
     if not jsonl_path:
+        return None
 
     _json = json
     refs_text = []
@@ -1175,6 +1176,7 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
     """
     jsonl_path = _find_best_jsonl(fontes_dir, art_id)
     if not jsonl_path:
+        return None
 
     _json = json
     blocks = []

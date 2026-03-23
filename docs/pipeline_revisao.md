@@ -1,6 +1,6 @@
 # Pipeline de Revisão Automática de Metadados
 
-Pipeline para revisão automática dos metadados dos artigos no `anais.db`. Complementa o [pipeline de tratamento](pipeline_tratamento.md) (fases 1-7) e antecede o [pipeline de revisão humana](pipeline_revisao_humana.md) (Fases 3-5).
+Pipeline para revisão automática dos metadados dos artigos no `anais.db`. Complementa o [pipeline de tratamento](pipeline_tratamento.md) (fases 1-8) e antecede o [pipeline de revisão humana](pipeline_revisao_humana.md) (Fases 3-5).
 
 A revisão é necessária porque a extração automatizada dos PDFs produz erros sistemáticos: títulos com capitalização errada, resumos truncados, keywords faltantes, referências concatenadas ou ausentes. O pipeline automático corrige os problemas detectáveis por heurísticas; o que escapar vai para a revisão humana.
 
@@ -32,7 +32,7 @@ Para procedimentos detalhados, código e edge cases, ver [modulos_pipeline.md](m
 
 10. **R10 — Nenhuma etapa pode ser marcada com "OK" genérico.** Ao marcar `[x]` no runner, registrar o que foi feito e o resultado concreto (ex: "12 correções", "0 merges", "3 refs extraídas"). Se não há nada a registrar, a etapa não foi executada.
 
-10. **R10 — Footnotes/endnotes NÃO vão no campo `references_`.** Se o artigo usa citação em nota de rodapé, o campo fica vazio (ou com as poucas refs bibliográficas que houver).
+11. **R11 — Footnotes/endnotes NÃO vão no campo `references_`.** Se o artigo usa citação em nota de rodapé, o campo fica vazio (ou com as poucas refs bibliográficas que houver).
 
 ---
 

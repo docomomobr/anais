@@ -37,12 +37,14 @@ import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta
 
-# Forçar IPv4 — Python tenta IPv6 primeiro, que falha com timeout de ~30s
-# em redes sem suporte IPv6, causando latência de 30s por request.
-_orig_getaddrinfo = socket.getaddrinfo
-def _getaddrinfo_ipv4(host, port, family=0, *args, **kwargs):
-    return _orig_getaddrinfo(host, port, socket.AF_INET, *args, **kwargs)
-socket.getaddrinfo = _getaddrinfo_ipv4
+# IPv4 forçado dentro de main() — ver _force_ipv4()
+def _force_ipv4():
+    """Força IPv4 para evitar timeout de ~30s em redes sem IPv6.
+    Chamado apenas em main(), não no import (evita side effect global)."""
+    _orig = socket.getaddrinfo
+    def _ipv4_only(host, port, family=0, *args, **kwargs):
+        return _orig(host, port, socket.AF_INET, *args, **kwargs)
+    socket.getaddrinfo = _ipv4_only
 
 # Versão do pipeline — incrementar ao adicionar fontes, corrigir bugs, ou
 # alterar critérios de matching. Permite saber se vale a pena re-checar autores.
@@ -407,7 +409,8 @@ def orcid_fulltext_search(fullname, db_gn, db_fn):
     if not results:
         return None, None
 
-    orcid_ids = [r['orcid-identifier']['path'] for r in results]
+    orcid_ids = [r['orcid-identifier']['path'] for r in results
+                 if 'orcid-identifier' in r and 'path' in r.get('orcid-identifier', {})]
 
     # Filter out IDs already checked in the structured search
     # (caller should pass these to avoid redundant API calls)
@@ -1297,6 +1300,7 @@ def phase_scrape_faculty(apply=False):
 
 
 def main():
+    _force_ipv4()
     if '--search' in sys.argv:
         resume = '--resume' in sys.argv
         recheck_days = None

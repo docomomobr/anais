@@ -91,7 +91,7 @@ BODY_SECTION_RE = re.compile(
     r'NOTAS?|Notes?|NOTAS?\s+DE\s+RODAPÉ|'
     r'AGRADECIMENTOS|Agradecimentos|ACKNOWLEDGEMENTS|'
     r'ANEXOS?|Anexos?|APÊNDICE|Apêndice|'
-    r'\d+[\.\s]+\w)',  # seções numeradas: "1. Introdução", "1 INTRODUÇÃO"
+    r'\d+[.\s]+[A-Z][a-záéíóúâêôãõç]{3,})',  # seções numeradas: "1. Introdução", "1 INTRODUÇÃO"
     re.IGNORECASE)
 
 # Separa keywords
@@ -891,8 +891,6 @@ def _run_extraction(conn, args, editable_files):
             if args.jsonl:
                 structured = read_paragraphs_structured(docx_path)
                 if structured:
-                    base_dir = os.path.dirname(os.path.dirname(
-                        find_fontes_dir(args.slug)))
                     # fontes_docx/ no mesmo nível que fontes/
                     docx_out_dir = os.path.join(
                         os.path.dirname(find_fontes_dir(args.slug)),

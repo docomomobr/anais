@@ -374,7 +374,7 @@ def is_likely_title_line(line):
     if len(line) > 200:
         return False
     # Rejeitar linhas que são claramente continuação de keywords
-    if re.match(r'^[a-záéíóúàâêôãõüç,;.\s-]+$', line, re.IGNORECASE) and len(line) < 40:
+    if re.match(r'^[a-záéíóúàâêôãõüç,;.\s-]+$', line) and len(line) < 40:
         return False
     return True
 
