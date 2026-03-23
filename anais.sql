@@ -9299,7 +9299,7 @@ INSERT INTO "authors" VALUES(36,'Ricardo Alexandre','Paiva','paiva_ricardo@yahoo
 INSERT INTO "authors" VALUES(37,'Rodrigo Miranda','Feitosa','feitosamiranda@gmail.com','0009-0000-9120-1841','2026-02-12','2.0');
 INSERT INTO "authors" VALUES(38,'Grete Soares','Pflueger','grete@elo.com','0000-0002-9376-8689','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(39,'Ruth Verde','Zein','rvzein@gmail.com','0000-0003-0923-4914','2026-02-12','pre-2.0');
-INSERT INTO "authors" VALUES(40,'Anita Regina Di','Marco','ardimarco@uol.com.br',NULL,'2026-03-23','3.1');
+INSERT INTO "authors" VALUES(40,'Anita Regina','Di Marco','ardimarco@uol.com.br',NULL,'2026-03-23','3.1');
 INSERT INTO "authors" VALUES(41,'Tânia Beisl','Ramos','taniabeislramos@clix.pt','0000-0002-6102-7288','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(42,'Madalena Cunha','Matos','mcunhamatos@fa.utl.pt','0000-0003-1779-3855','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(43,'Valério de Araújo','Silva','valeriodearaujo@hotmail.com',NULL,'2026-03-03','2.0');
@@ -11399,7 +11399,7 @@ INSERT INTO "authors" VALUES(2702,'Ricardo dos Santos','Teixeira','tsrico@gmail.
 INSERT INTO "authors" VALUES(2703,'Bruno Tropia','Caldas','tropiacaldas@yahoo.com.br',NULL,'2026-03-23','3.1');
 INSERT INTO "authors" VALUES(2705,'Douglas Oliveira','Santos',NULL,'0000-0002-2760-2541','2026-02-19','2.0');
 INSERT INTO "authors" VALUES(2708,'Marcos Vinícius Teles','Guimarães','margui22@hotmail.com','0000-0002-2601-4377','2026-02-19','2.0');
-INSERT INTO "authors" VALUES(2709,'Lisandra','Mara','lisandram@gmail.com',NULL,'2026-03-23','3.1');
+INSERT INTO "authors" VALUES(2709,'Lisandra Mara','Silva','lisandram@gmail.com',NULL,'2026-03-23','3.1');
 INSERT INTO "authors" VALUES(2710,'Lucy Ana Lassi Dias da Mota','Leite','Lucyanawel@yahoo.com.br','0000-0002-5874-6783','2026-02-19','2.0');
 INSERT INTO "authors" VALUES(2711,'Agnes Leite Thompson Dantas','Ferreira','nisthompson@gmail.com',NULL,'2026-03-23','3.1');
 INSERT INTO "authors" VALUES(2712,'Tatiana Sell','Ferreira','tattysell@gmail.com',NULL,'2026-03-23','3.1');

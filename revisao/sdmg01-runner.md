@@ -43,80 +43,52 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 1 — Revisão automática
 
-- [ ] **1.1a** Títulos PT: seed + normalizar + revisão LLM
-  ```
-  python3 dict/seed_authors.py && python3 dict/seed_titles.py --apply
-  python3 scripts/normalizar_maiusculas.py --slug sdmg01 --dry-run
-  python3 scripts/normalizar_maiusculas.py --slug sdmg01
-  ```
-  → Revisão LLM palavra por palavra (ver §1.1a)
-- [ ] **1.1b** Títulos EN/ES: `python3 scripts/normalizar_titulos_en.py --slug sdmg01` `[SKIP: title_en = 0]`
-- [ ] **1.1c** Revisão LLM títulos EN/ES (cada título vs PDF) `[SKIP: title_en = 0]`
-- [ ] **1.2a** Refs limpeza base
-  ```
-  python3 scripts/clean_references.py --slug sdmg01 --dry-run
-  python3 scripts/clean_references.py --slug sdmg01
-  python3 scripts/check_references.py --slug sdmg01 --summary
-  ```
-- [ ] **1.2b** Refs sweep (8 passadas)
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdmg01 --sweep-refs --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdmg01 --sweep-refs
-  ```
-- [ ] **1.2b+** Re-backfills: `python3 scripts/clean_references.py --slug sdmg01`
-- [ ] **1.2c** Refs revisão LLM — TODOS os artigos vs fontes (ver §1.2c)
-- [ ] **1.3** Keywords
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdmg01 --clean-keywords --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdmg01 --clean-keywords
-  ```
-- [ ] **1.5** Loop validação: `python3 scripts/fix_validation_issues.py --slug sdmg01 --loop`
-- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora)
-- [ ] **1.7** Autores: verificar completude vs PDF (confrontar cada artigo com o PDF)
-- [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
-- [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug sdmg01` → `--review` → `--apply`
-- [ ] **1.10** Revisão LLM final — TODOS os artigos, TODOS os campos vs plumber
-  Para CADA artigo: ler o plumber INTEIRO, confrontar CADA campo (título, subtítulo,
-  abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF.
-  Corrigir na hora (R8). Registrar resultado de CADA artigo abaixo.
-  Ver §1.10 do pipeline para procedimento detalhado.
+- [x] **1.1a** Títulos PT: 9 normalização + 7 correções LLM (engenheiro, presente, materiais, complexo, nacionais/internacionais, jardim, arquitetônica, desenvolvimento)
+- [skip] **1.1b/1.1c** Títulos EN/ES `[SKIP: title_en = 0]`
+- [x] **1.2a** Refs: clean (4 splits, 5 backfills, 1 join URL)
+- [x] **1.2b** Refs sweep (9 arts alterados: 12 joins, 12 endnotes, 8 non-refs removidas)
+- [x] **1.2b+** Re-backfills: 2 backfills
+- [x] **1.2c+1.10** Revisão LLM (todos campos × todos artigos, 3 agentes, fonte: plumber)
+  Resumo: 18/26 artigos corrigidos, 3 issues genuínos finais
   **1.10 — Resultado por artigo:**
-  - [ ] sdmg01-001:
-  - [ ] sdmg01-002:
-  - [ ] sdmg01-003:
-  - [ ] sdmg01-004:
-  - [ ] sdmg01-005:
-  - [ ] sdmg01-006:
-  - [ ] sdmg01-007:
-  - [ ] sdmg01-008:
-  - [ ] sdmg01-009:
-  - [ ] sdmg01-010:
-  - [ ] sdmg01-011:
-  - [ ] sdmg01-012:
-  - [ ] sdmg01-013:
-  - [ ] sdmg01-014:
-  - [ ] sdmg01-015:
-  - [ ] sdmg01-016:
-  - [ ] sdmg01-017:
-  - [ ] sdmg01-018:
-  - [ ] sdmg01-019:
-  - [ ] sdmg01-020:
-  - [ ] sdmg01-021:
-  - [ ] sdmg01-022:
-  - [ ] sdmg01-023:
-  - [ ] sdmg01-024:
-  - [ ] sdmg01-025:
-  - [ ] sdmg01-026:
+  - [x] sdmg01-001: OK
+  - [x] sdmg01-002: +14 refs (bibliografia body block)
+  - [x] sdmg01-003: OK
+  - [x] sdmg01-004: abstract_en limpo (cid garbage), +1 ref GAZETA
+  - [x] sdmg01-005: OK
+  - [x] sdmg01-006: abstract PT completado (p3-p4), abstract_en completado
+  - [x] sdmg01-007: OK (abs_en genuinamente ausente)
+  - [x] sdmg01-008: +1 ref Minas Gerais/EMBRATUR (abs_en genuinamente ausente)
+  - [x] sdmg01-009: subtítulo corrigido (vilas operadoras Furnas), refs reconstruídas (7→5)
+  - [x] sdmg01-010: abstract_en limpo (contaminação footnote), refs split CAVALCANTI (13→14)
+  - [x] sdmg01-011: refs limpas — joins, splits, fragments (20→18)
+  - [x] sdmg01-012: refs corrigidas — PIRES join, backfill incorreto removido (13→14)
+  - [x] sdmg01-013: OK
+  - [x] sdmg01-014: refs limpas (footnote removida do PAPADAKI)
+  - [x] sdmg01-015: refs juntadas — MALARD, VASCONCELLOS x2 (20→17)
+  - [x] sdmg01-016: refs reconstruídas — splits BRUAND/GOODWIN/GUEGEN/MARTINS (25→34)
+  - [x] sdmg01-017: refs reconstruídas — joins ASTOS/LARA, MALARD completado (8→5)
+  - [x] sdmg01-018: OK (abs_en genuinamente ausente)
+  - [x] sdmg01-019: abstract removido (body text sem RESUMO), keywords mantidas
+  - [x] sdmg01-020: OK (abs/kw genuinamente ausentes, sem RESUMO)
+  - [x] sdmg01-021: abstract_en trimmed (PT kw removidas), keywords split PT/EN
+  - [x] sdmg01-022: abstract_en limpo (footnote contaminação), refs reconstruídas 2-col (2→30)
+  - [x] sdmg01-023: OK
+  - [x] sdmg01-024: abstract trimmed (body text removido, só Resumo)
+  - [x] sdmg01-025: +1 ref FICHER, abstract_en typo corrigido
+  - [x] sdmg01-026: refs joins (CHRYSOSTOMO, REZENDE)
+- [x] **1.3** Keywords: 1 art alterado (2 splits) + 9 keywords convertidas para JSON array
+- [x] **1.5** Loop: 11→3 issues (A01×2 genuíno, A10×1 genuíno)
+- [x] **1.6** abs 73% (19/26), abs_en 76% (20), kw 80% (21), kw_en 69% (18), refs 100% (26)
+- [x] **1.7** Autores: 40 autores, todos verificados vs plumber. 2 corrigidos:
+  - Anita Regina Di Marco: familyname "Marco" → "Di Marco" (sobrenome composto)
+  - Lisandra Mara Silva: familyname "Mara" → "Silva" (era Lisandra|Mara)
+- [x] **1.8** Dedup: 0 merges
+- [x] **1.9** ORCID: 20 buscados, 1 confirmado + 3 candidatos aceitos. Cobertura: 23/40 (57%)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
-  ```
-  python3 scripts/validate_metadata.py --slug sdmg01 --fix
-  python3 scripts/gerar_revisao_html.py sdmg01
-  sqlite3 anais.db .dump > anais.sql
-  git add anais.sql revisao/sdmg01-* && git commit -m "sdmg01 revisão automática (Fases 0-2)"
-  ```
+- [x] **2.0** Validação final (3 issues genuínos) + HTML (26 artigos, 2 seções) + dump + commit
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
