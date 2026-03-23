@@ -1,0 +1,48 @@
+{
+  "slug": "sdmg01",
+  "date": "2026-03-23",
+  "total_articles": 26,
+  "profile": {
+    "total": 26,
+    "locale_es": 0,
+    "abstract": 19,
+    "abstract_en": 20,
+    "abstract_es": 0,
+    "keywords": 21,
+    "keywords_en": 18,
+    "keywords_es": 0,
+    "references_": 26
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdmg01-004",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdmg01-005",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 4,
+      "detail": "Backfill pendente: \"___. Estação Rodoviária de Juiz de Fora. REVISTA TÉCNICA E D...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdmg01-014",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}

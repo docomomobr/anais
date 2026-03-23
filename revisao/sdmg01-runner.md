@@ -19,29 +19,27 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 0 — Diagnóstico e preenchimento
 
-- [ ] **0.0** Checkpoint: `sqlite3 anais.db .dump > anais.sql` + commit
-- [ ] **0.1** Levantar padrão de metadados (query cobertura → classificar campos)
-- [ ] **0.2** Listar artigos fora do padrão (campos esperados mas ausentes)
-- [ ] **0.3** Reinspecionar PDFs dos artigos fora do padrão (hierarquia: docx → plumber → pdftotext)
-- [ ] **0.3b** Extrair fontes plumber
-  ```
-  python3 scripts/extrair_fontes_plumber.py --slug sdmg01 --profile-only
-  python3 scripts/extrair_fontes_plumber.py --slug sdmg01
-  ```
-- [ ] **0.4** Seções/sessões — verificar nesta ordem:
-  1. `fontes/` do seminário (HTML/XML de DVDs, sumários, programas)
-  2. Folha de rosto dos artigos (cabeçalho do PDF indica eixo/sessão)
-  3. Site original (campo `source` na tabela `seminars`)
-  4. Busca na internet / Wayback Machine
-  5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
-- [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
-- [ ] **0.6** Extrair metadados EN: `python3 scripts/extrair_metadados_en.py --slug sdmg01`
-- [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)
-- [ ] **0.8** Verificar abstracts + auto-fix
-  ```
-  python3 scripts/validate_metadata.py --slug sdmg01 --fix
-  ```
-  Depois: varredura manual (truncamento, lixo, cruzamento de idiomas)
+- [x] **0.0** Checkpoint
+- [x] **0.1** abs 65% (17/26), abs_en 69% (18), kw 69% (18), kw_en 58% (15), refs 77% (20), title_en 0%, 2 seções
+- [x] **0.2** 9 sem abs, 8 sem abs_en, 8 sem kw, 11 sem kw_en, 6 sem refs
+- [x] **0.3** Fonte primária: DVD com PPT interativo + PDFs individuais. Sem doc/docx.
+- [x] **0.3b** Plumber extraído (26 artigos, 2526 blocos)
+- [x] **0.4** Seções: 2 (Apresentações Orais hide_title=1, Pôsteres). Sem eixos temáticos. PPT confirma: só "apresentações orais | posters". fontes_secoes.md já documenta.
+- [x] **0.5** Lacunas preenchidas do plumber:
+  - 006: abstract PT (p3-p4, 9.8pt) + 46 refs
+  - 019: abstract PT (small p1) + keywords PT
+  - 024: abstract PT (resumo p1) + keywords PT/EN (bilingual)
+  - 004: abstract_en (Abstract p1)
+  - 011: keywords PT (embedded no abstract)
+  - 022: keywords PT + EN, refs (2-col mangled, 70 entries)
+  - 023: keywords PT/EN (bilingual)
+  - 005: keywords_en
+  - 016: refs (37, split de 2 blocos concatenados)
+  - 021: refs (22, reference + footnote blocks)
+  - Genuinamente ausentes: 009 abs/kw/refs, 010/012/026 abs PT, 007/008/018-020 abs_en
+- [skip] **0.6** EN: 1 abs_en extraído, 19 title_en falharam (sem seção EN nos PDFs)
+- [skip] **0.7** ES: 0 artigos com locale=es `[SKIP]`
+- [x] **0.8** Validate --fix: 4 auto-fixed (A17 dedup refs, A20 overflow), 16 issues para Fase 1
 
 ## Fase 1 — Revisão automática
 

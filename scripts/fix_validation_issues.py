@@ -520,7 +520,7 @@ def clean_keywords(conn, slug, dry_run):
             try:
                 kws = json.loads(field_val)
             except (json.JSONDecodeError, TypeError):
-                print(f"  WARN: {aid} {col}: JSON inválido, pulando")
+                print(f"  WARN: {art_id} {col}: JSON inválido, pulando")
                 continue
             new_kws = []
             changed = False
