@@ -38,6 +38,9 @@
 - ✅ 1.9 — ORCID: 24/40 (60%), 4 novos (Lazzarin, Azevedo, Rezende, Silva)
 - ✅ 2.0 — Validação final (3 issues genuínos) + HTML + commit (aa9b10a, f102f44)
 
+### Revisão humana
+- ✅ sdmg01-012: subtitle "— mg1" → "— MG" (typo, "1" grudado na sigla do estado)
+
 ### Log de correções automáticas
 | Artigo | Campo | Antes | Depois | Causa |
 |--------|-------|-------|--------|-------|

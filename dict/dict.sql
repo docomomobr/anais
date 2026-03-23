@@ -5444,5 +5444,6 @@ INSERT INTO "dict_names" VALUES('grande hotel','expressao','Grande Hotel','manua
 INSERT INTO "dict_names" VALUES('castelo branco','expressao','Castelo Branco','manual');
 INSERT INTO "dict_names" VALUES('souto maior','expressao','Souto Maior','manual');
 INSERT INTO "dict_names" VALUES('vital brazil','expressao','Vital Brazil','manual');
+INSERT INTO "dict_names" VALUES('operadoras','nome','Operadoras','titulos');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;
