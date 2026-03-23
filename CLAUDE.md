@@ -266,6 +266,21 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 
 ## Devlog
 
+### 2026-03-23 — sdpr02 revisão completa (Fases 0-3)
+
+**sdpr02** (19 artigos, 43 autores, 1 seção):
+- Cobertura: abstract 53%, abs_en 5%, kw 26%, kw_en 5%, refs 100%, ORCID 70%
+- Fonte primária: 11 doc/docx (arts 001-010), plumber (011-019). PDF completo dos anais (livro 180p)
+- 9 artigos sem abstract — genuíno (sem RESUMO no PDF)
+- 15 títulos normalizados + 5 correções manuais LLM (Algumas, Universidade, edificado, estação/obra, fronteiras)
+- 2 abstracts truncados completados (005 +1 parágrafo, 007 1→3 parágrafos)
+- Refs: 185→234 (+49 refs em 7 artigos: 007 reconstruído 7→35, 009 reconstruído 6→18)
+- 7 ORCIDs novos (3 confirmados + 4 candidatos aceitos)
+- Revisão humana: 3 correções (001 split título/subtítulo, 012 urbanismo, 014 arquitetura — normalização contextual)
+- Ficha catalográfica normatizada: GNOATO/MAGALHÃES (org.), ISBN do livro discriminado
+- Galley do livro completo: volume_pdf com label "PDF do livro (12 dos 19 artigos)"
+- volume_pdf_label: novo campo no DB + db2hugo.py + template Hugo
+
 ### 2026-03-23 — sdsul07 revisão completa (Fases 0-3)
 
 **sdsul07** (46 artigos, 56 autores, 8 sessões):

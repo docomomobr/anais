@@ -393,6 +393,8 @@ def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
         lines.append(f'cover: "{slug}.png"')
     if seminar['volume_pdf']:
         lines.append(f'volume_pdf: "{seminar["volume_pdf"]}"')
+    if seminar['volume_pdf_label']:
+        lines.append(f'volume_pdf_label: "{seminar["volume_pdf_label"]}"')
     lines.append(f'article_count: {len(articles)}')
     # State info (parsed from event title city)
     cite = parse_event_title(seminar['title'])
