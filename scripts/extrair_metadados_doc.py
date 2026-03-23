@@ -188,6 +188,105 @@ def read_paragraphs(docx_path):
         return []
 
 
+def _classify_paragraph_role(style_name, text, font_size):
+    """Classifica role de um parágrafo docx no formato plumber.
+
+    Mapeamento:
+        Heading 1-3, Title    → heading
+        Normal, Body Text     → body
+        Abstract, Resumo      → abstract
+        Bibliography, Refs    → reference
+        Footnote, Endnote     → footnote
+        Caption, No Spacing   → small
+    """
+    sn = (style_name or '').lower()
+    txt = text.strip()
+
+    # Headings
+    if sn.startswith('heading') or sn in ('title', 'titulo', 'título'):
+        return 'heading'
+
+    # Footnotes / endnotes
+    if 'footnote' in sn or 'endnote' in sn or 'nota' in sn:
+        return 'footnote'
+
+    # Bibliography / references (estilo)
+    if 'biblio' in sn or 'reference' in sn or 'referência' in sn:
+        return 'reference'
+
+    # Caption / legend
+    if 'caption' in sn or 'legenda' in sn or sn == 'no spacing':
+        return 'small'
+
+    # Abstract (estilo)
+    if 'abstract' in sn or 'resumo' in sn:
+        return 'abstract'
+
+    # Quote / block quote
+    if 'quote' in sn or 'citação' in sn:
+        return 'small'
+
+    # Detecção por conteúdo (quando estilo é genérico)
+    if txt:
+        # Marcadores de seção
+        if ABSTRACT_PT_RE.match(txt) or ABSTRACT_EN_RE.match(txt) or ABSTRACT_ES_RE.match(txt):
+            return 'heading'
+        if REFS_RE.match(txt):
+            return 'heading'
+        if KW_PT_RE.match(txt) or KW_EN_RE.match(txt):
+            return 'heading'
+
+    # Font size heuristic (quando disponível)
+    if font_size:
+        if font_size < 9:
+            return 'footnote'
+        if font_size > 14:
+            return 'heading'
+
+    return 'body'
+
+
+def read_paragraphs_structured(docx_path):
+    """Lê parágrafos de um .docx com estilos, retorna blocos no formato plumber.
+
+    Cada bloco: {"text": str, "role": str, "page": 1, "size": float|None, "style": str}
+    """
+    try:
+        doc = Document(docx_path)
+    except Exception as e:
+        print(f'  ERRO lendo {docx_path}: {e}', file=sys.stderr)
+        return []
+
+    blocks = []
+    for p in doc.paragraphs:
+        text = p.text.strip()
+        if not text:
+            continue
+
+        style_name = p.style.name if p.style else 'Normal'
+
+        # Determinar tamanho de fonte do primeiro run com tamanho explícito
+        font_size = None
+        for run in p.runs:
+            if run.font.size:
+                font_size = run.font.size.pt
+                break
+        if not font_size and p.style and p.style.font and p.style.font.size:
+            font_size = p.style.font.size.pt
+
+        role = _classify_paragraph_role(style_name, text, font_size)
+
+        blocks.append({
+            'text': text,
+            'role': role,
+            'page': 1,  # docx não tem numeração de página
+            'size': font_size,
+            'style': style_name,
+        })
+
+    return blocks
+
+
 # ---------------------------------------------------------------------------
 # Extração de metadados
 # ---------------------------------------------------------------------------
@@ -669,6 +768,8 @@ def main():
                         help='Artigos específicos (ex: 001,005,010)')
     parser.add_argument('--force', action='store_true',
                         help='Sobrescrever campos já preenchidos no banco')
+    parser.add_argument('--jsonl', action='store_true',
+                        help='Gerar JSONL estruturado em fontes_docx/ (formato plumber)')
     parser.add_argument('--db', default=DB_PATH,
                         help=f'Caminho do banco (default: {DB_PATH})')
     args = parser.parse_args()
@@ -785,6 +886,25 @@ def _run_extraction(conn, args, editable_files):
 
             if args.verbose:
                 print(f'  {len(paragraphs)} parágrafos')
+
+            # Gerar JSONL estruturado (formato plumber)
+            if args.jsonl:
+                structured = read_paragraphs_structured(docx_path)
+                if structured:
+                    base_dir = os.path.dirname(os.path.dirname(
+                        find_fontes_dir(args.slug)))
+                    # fontes_docx/ no mesmo nível que fontes/
+                    docx_out_dir = os.path.join(
+                        os.path.dirname(find_fontes_dir(args.slug)),
+                        'fontes_docx')
+                    os.makedirs(docx_out_dir, exist_ok=True)
+                    jsonl_path = os.path.join(docx_out_dir,
+                                              f'{art_id}.jsonl')
+                    with open(jsonl_path, 'w', encoding='utf-8') as jf:
+                        for block in structured:
+                            jf.write(json.dumps(block,
+                                                ensure_ascii=False) + '\n')
+                    print(f'  → {jsonl_path} ({len(structured)} blocos)')
 
             # Extrair metadados
             meta = extract_metadata(paragraphs, verbose=args.verbose)

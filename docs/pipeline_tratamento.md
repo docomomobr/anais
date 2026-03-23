@@ -712,7 +712,9 @@ Loop: validate_metadata --fix (auto-fixes A15–A27) → fix handlers (A07 abstr
 
 ### 7.3f Revisão LLM final — TODOS os artigos × TODOS os campos
 
-**OBRIGATÓRIA.** Para CADA artigo, ler o plumber inteiro e confrontar CADA campo (título, subtítulo, abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF. Corrigir na hora (R8). Registrar resultado de cada artigo no runner.
+**OBRIGATÓRIA.** Para CADA artigo, ler a melhor fonte estruturada (`fontes_docx/*.jsonl` > `fontes_plumber/*.jsonl`) e confrontar CADA campo (título, subtítulo, abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto original. Corrigir na hora (R8). Registrar resultado de cada artigo no runner.
+
+Os scripts de leitura (`_read_fontes_lines`, `read_plumber_refs`, `read_plumber_abstract`) já seguem a hierarquia automaticamente: `fontes_docx/` > `fontes_plumber/` > `fontes/`.
 
 Esta etapa é o gate final antes de gerar o HTML de revisão. Pega problemas que as heurísticas não detectam: truncamentos sutis, refs faltantes, subtítulos não separados, keywords ausentes mas presentes no PDF.
 

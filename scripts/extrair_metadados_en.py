@@ -77,11 +77,20 @@ BODY_TEXT_PATTERNS = re.compile(
 
 
 def read_plumber_blocks(fontes_dir, file_name):
-    """Lê os blocos do plumber JSONL. Retorna lista de dicts ou None."""
+    """Lê blocos JSONL (fontes_docx/ > fontes_plumber/). Retorna lista de dicts ou None."""
     art_id = file_name.replace('.pdf', '')
+    # Tentar no diretório fornecido
     jsonl_path = os.path.join(fontes_dir, art_id + '.jsonl')
     if not os.path.exists(jsonl_path):
-        return None
+        # Tentar fontes_docx/ e fontes_plumber/ no mesmo nível
+        parent = os.path.dirname(fontes_dir)
+        for subdir in ('fontes_docx', 'fontes_plumber'):
+            alt = os.path.join(parent, subdir, art_id + '.jsonl')
+            if os.path.exists(alt):
+                jsonl_path = alt
+                break
+        else:
+            return None
     blocks = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
@@ -278,22 +287,26 @@ def _has_relevant_files(path, ext):
 def find_fontes_dir(slug):
     """Localiza o diretório fontes/ para um seminário.
 
-    Retorna (path, tipo) onde tipo é 'txt' (pdftotext) ou 'plumber' (jsonl).
-    Hierarquia: fontes/ com .txt > fontes_plumber/ com .jsonl.
+    Retorna (path, tipo) onde tipo é 'txt' (pdftotext), 'plumber' (jsonl) ou 'docx' (jsonl de docx).
+    Hierarquia: fontes_docx/ > fontes_plumber/ > fontes/ (.txt).
     """
     search_dirs = [os.path.join(BASE_DIR, 'nacionais', slug)]
     for grupo in ['nne', 'se', 'sul']:
         search_dirs.append(os.path.join(BASE_DIR, 'regionais', grupo, slug))
 
     for base in search_dirs:
-        # Preferir fontes/ .txt (mais completo)
-        fontes_path = os.path.join(base, 'fontes')
-        if os.path.isdir(fontes_path) and _has_relevant_files(fontes_path, '.txt'):
-            return fontes_path, 'txt'
+        # Preferir fontes_docx/ .jsonl (melhor qualidade — estilos preservados)
+        docx_path = os.path.join(base, 'fontes_docx')
+        if os.path.isdir(docx_path) and _has_relevant_files(docx_path, '.jsonl'):
+            return docx_path, 'plumber'  # mesmo formato JSONL
         # Fallback: fontes_plumber/ .jsonl
         plumber_path = os.path.join(base, 'fontes_plumber')
         if os.path.isdir(plumber_path) and _has_relevant_files(plumber_path, '.jsonl'):
             return plumber_path, 'plumber'
+        # Fallback: fontes/ .txt
+        fontes_path = os.path.join(base, 'fontes')
+        if os.path.isdir(fontes_path) and _has_relevant_files(fontes_path, '.txt'):
+            return fontes_path, 'txt'
 
     return None, None
 

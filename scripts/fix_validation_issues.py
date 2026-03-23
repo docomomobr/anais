@@ -675,16 +675,28 @@ def clean_keywords(conn, slug, dry_run):
 
 # ── Handlers por categoria ───────────────────────────────────────────────────
 
-def _read_fontes_lines(fontes_dir, art_id):
-    """Lê linhas do fontes/ (txt) ou fontes_plumber/ (jsonl). Retorna lista de linhas ou None."""
-    # Tentar .txt primeiro
-    txt_path = os.path.join(fontes_dir, f'{art_id}.txt')
-    if os.path.exists(txt_path):
-        with open(txt_path, 'r', encoding='utf-8', errors='replace') as f:
-            return f.readlines()
-    # Tentar .jsonl (plumber)
+def _find_best_jsonl(fontes_dir, art_id):
+    """Encontra o melhor .jsonl para um artigo: fontes_docx/ > fontes_plumber/.
+
+    Retorna caminho do .jsonl ou None."""
+    parent = os.path.dirname(fontes_dir)
+    for subdir in ('fontes_docx', 'fontes_plumber'):
+        jsonl_path = os.path.join(parent, subdir, f'{art_id}.jsonl')
+        if os.path.exists(jsonl_path):
+            return jsonl_path
+    # Fallback: procurar no próprio fontes_dir
     jsonl_path = os.path.join(fontes_dir, f'{art_id}.jsonl')
     if os.path.exists(jsonl_path):
+        return jsonl_path
+    return None
+
+
+def _read_fontes_lines(fontes_dir, art_id):
+    """Lê linhas da melhor fonte disponível. Hierarquia: fontes_docx/ > fontes_plumber/ > fontes/ (.txt).
+    Retorna lista de linhas ou None."""
+    # Tentar .jsonl (docx > plumber)
+    jsonl_path = _find_best_jsonl(fontes_dir, art_id)
+    if jsonl_path:
         lines = []
         with open(jsonl_path, 'r', encoding='utf-8') as f:
             for line in f:
@@ -696,6 +708,11 @@ def _read_fontes_lines(fontes_dir, art_id):
                 if text:
                     lines.extend(text.split('\n'))
         return [l + '\n' for l in lines]
+    # Fallback: .txt
+    txt_path = os.path.join(fontes_dir, f'{art_id}.txt')
+    if os.path.exists(txt_path):
+        with open(txt_path, 'r', encoding='utf-8', errors='replace') as f:
+            return f.readlines()
     return None
 
 
@@ -1097,16 +1114,13 @@ def re_extract_abstract(lines, field, current_text):
 
 
 def read_plumber_refs(fontes_dir, art_id):
-    """Lê referências do fontes_plumber/ (extração estruturada via pdfplumber).
+    """Lê referências do fontes estruturado (fontes_docx/ > fontes_plumber/).
 
     Retorna lista de strings de referência, ou None se não disponível.
     Usa apenas blocos com role='reference', excluindo footnotes e body text.
     """
-    parent = os.path.dirname(fontes_dir)
-    plumber_dir = os.path.join(parent, 'fontes_plumber')
-    jsonl_path = os.path.join(plumber_dir, f'{art_id}.jsonl')
-    if not os.path.exists(jsonl_path):
-        return None
+    jsonl_path = _find_best_jsonl(fontes_dir, art_id)
+    if not jsonl_path:
 
     _json = json
     refs_text = []
@@ -1151,7 +1165,7 @@ def read_plumber_refs(fontes_dir, art_id):
 
 
 def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
-    """Lê abstract do fontes_plumber/ (extração estruturada via pdfplumber).
+    """Lê abstract do fontes estruturado (fontes_docx/ > fontes_plumber/).
 
     Retorna texto do abstract, ou None se não disponível.
     field: 'abstract' para PT/principal, 'abstract_en' para EN.
@@ -1159,11 +1173,8 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
     Para abstract_en, usa extract_en_from_plumber() de extrair_metadados_en.py
     que faz extração estruturada com verificação de blocos adjacentes.
     """
-    parent = os.path.dirname(fontes_dir)
-    plumber_dir = os.path.join(parent, 'fontes_plumber')
-    jsonl_path = os.path.join(plumber_dir, f'{art_id}.jsonl')
-    if not os.path.exists(jsonl_path):
-        return None
+    jsonl_path = _find_best_jsonl(fontes_dir, art_id)
+    if not jsonl_path:
 
     _json = json
     blocks = []
