@@ -2,6 +2,39 @@
 
 Fluxo completo validado nos seminários SP (sdsp03, sdsp05-09) e Rio (sdrj02, sdrj03). Aplicável a qualquer série regional.
 
+Para procedimentos detalhados de revisão automática (normalização, extração, validação), ver [pipeline_revisao.md](pipeline_revisao.md). Para revisão humana, ver [pipeline_revisao_humana.md](pipeline_revisao_humana.md).
+
+---
+
+## Regras de execução
+
+As mesmas regras do [pipeline de revisão](pipeline_revisao.md#regras-de-execução) aplicam-se aqui:
+
+1. **R1 — Execução literal.** Cada etapa é obrigatória. Não pular.
+2. **R2 — Registro imediato.** Após cada etapa, gravar no `revisao/{slug}-rev-status.md`.
+3. **R3 — Gates de transição.** Não avançar sem verificar etapa anterior.
+4. **R4 — Hierarquia de fontes.** (1) doc/docx, (2) fontes_plumber/, (3) fontes/ (pdftotext).
+5. **R5 — Salvar antes de inserir.** JSON intermediário antes de gravar no banco.
+6. **R6 — Registrar correções.** Artigo, campo, antes/depois, causa.
+7. **R7 — Retomada.** Ler rev-status — última ✅ — retomar próxima.
+8. **R8 — Corrigir, não relatar.** Problema identificado → corrigir na hora.
+9. **R9 — Campo vazio ≠ genuinamente ausente.** Confirmar no PDF/docx.
+10. **R10 — Nenhum "OK" genérico.** Registrar o que foi feito e o resultado concreto.
+
+---
+
+## Runner
+
+O **runner** (`revisao/{slug}-runner.md`) é o checklist executável do seminário. Para gerar:
+
+```bash
+python3 scripts/gerar_runner.py {slug}           # gerar runner de revisão
+python3 scripts/gerar_runner.py {slug} --status   # ver progresso
+python3 scripts/gerar_runner.py                    # listar seminários
+```
+
+Quando existir um runner, **seguir o runner** — os pipelines (este documento e pipeline_revisao.md) são referência de consulta para edge cases.
+
 ---
 
 ## Fase 1 — Aquisição e organização dos fontes
@@ -35,9 +68,35 @@ regionais/{região}/{slug}/
 
 ### 2.1 Extrair metadados de cada PDF
 
-**Hierarquia de fontes:** Antes de extrair, verificar se existem doc/docx originais (maior qualidade). Ver [`modulos_pipeline.md` §A](modulos_pipeline.md#a-hierarquia-de-fontes-para-extração) para o procedimento completo.
+**Hierarquia de fontes (R4):** Verificar nesta ordem:
+1. **doc/docx originais** → ler com `python-docx` (preserva estilos). **NÃO converter para .txt.**
+2. **pdfplumber** → `fontes_plumber/` (`.jsonl`). Boa qualidade, separa roles por font_size.
+3. **pdftotext** → `fontes/` (`.txt`). Fallback.
 
-Script: `extrair_metadados_pagina1.py` (ou extração via agente para seminários novos)
+Ver [`modulos_pipeline.md` §A](modulos_pipeline.md#a-hierarquia-de-fontes-para-extração) para o procedimento completo.
+
+**Extração pdfplumber — OBRIGATÓRIA:**
+
+```bash
+# Verificar se existem doc/docx originais primeiro
+find regionais/{região}/{slug}/fontes/ -name "*.doc" -o -name "*.docx" | wc -l
+
+# Profile + extração completa
+python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
+python3 scripts/extrair_fontes_plumber.py --slug {slug}
+```
+
+Gera `fontes_plumber/{slug}-NNN.jsonl` com blocos estruturados (role: heading/body/abstract/reference/footnote). Fonte primária para a revisão automática.
+
+**OCR para PDFs imagem:** Pôsteres e PDFs escaneados (0 caracteres de texto) precisam de OCR antes do pdfplumber:
+
+```bash
+ocrmypdf -l por --force-ocr input.pdf output-ocr.pdf
+```
+
+Requer `tesseract-ocr` + `tesseract-ocr-por`. Após OCR, re-rodar pdfplumber no PDF OCR'ado.
+
+Scripts: `extrair_fontes_plumber.py`, `extrair_metadados_pagina1.py` (ou extração via agente)
 
 Campos a extrair:
 - **Título** (pode estar em ALL CAPS)
@@ -167,17 +226,39 @@ python3 scripts/clean_references.py --slug {slug} --dry-run
 
 **Caso real — sdbr02:** 22 artigos, dos quais 7 com notas pesadas (8 a 50 notas cada). Pipeline produziu 105 refs dos artigos com notas + 110 refs dos com bibliografia direta = 215 refs totais. Artigos sem refs (3/22) eram relatório institucional ou textos sem notas.
 
+### 2.1d Extrair metadados EN
+
+```bash
+python3 scripts/extrair_metadados_en.py --slug {slug} --dry-run
+python3 scripts/extrair_metadados_en.py --slug {slug}
+```
+
+Extrai `title_en`, `subtitle_en`, `abstract_en`, `keywords_en` dos PDFs. Suporta `fontes/` (.txt) e `fontes_plumber/` (.jsonl). Para plumber, usa extração estruturada com verificação de blocos adjacentes (role=footnote/small) para continuação de abstract_en.
+
+Rodar se ≥30% dos artigos têm abstract_en ou se os PDFs têm seções em inglês.
+
 ### 2.2 Checklist pós-extração
 - [ ] Todos os PDFs foram processados? (contar vs total esperado)
+- [ ] `fontes_plumber/` gerado para 100% dos artigos?
+- [ ] PDFs escaneados passaram por OCR (`ocrmypdf`)?
 - [ ] Resumos estão COMPLETOS (não truncados em "...")?
 - [ ] Keywords foram capturadas? Quantos artigos sem keywords?
 - [ ] Autores foram identificados em todos os artigos?
-- [ ] Existem PDFs escaneados (sem texto)? Se sim, rodar `ocrmypdf`
+- [ ] Metadados EN extraídos quando existentes?
 
 ### 2.3 Identificar seções/eixos temáticos
-- Fontes: sumário do PDF compilado, programa do evento (PPT, site), caderno de resumos
-- Mapear cada artigo à sua seção
-- Formatos típicos: "Eixo N — Nome", "Mesa N — Nome", "Comunicações Orais — Tema", "Painéis — Tema"
+
+Verificar nesta ordem (hierarquia de fontes para seções):
+1. `fontes/` do seminário (HTML/XML de DVDs, sumários, programas)
+2. Folha de rosto dos artigos (cabeçalho do PDF indica eixo/sessão)
+3. Site original do evento (campo `source` na tabela `seminars`)
+4. Busca na internet / Wayback Machine
+5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
+6. Caderno de resumos
+
+Formatos típicos: "Eixo N — Nome", "Mesa N — Nome", "Sessão N — Nome", "Comunicações Orais — Tema", "Painéis — Tema"
+
+Fontes das seções documentadas em [`docs/fontes_secoes.md`](fontes_secoes.md).
 
 ---
 
@@ -396,13 +477,20 @@ python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs --dry-run
 python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs
 ```
 
-#### 4.4d — Correção manual ou por LLM
+#### 4.4d — Revisão LLM de referências
 
 **Para artigos com notas de rodapé em vez de bibliografia:** ver §2.1c (pipeline de extração de referências de notas).
 
-Problemas não corrigíveis automaticamente. Ver [`modulos_pipeline.md` §F](modulos_pipeline.md#f-revisão-llm-de-referências) para o procedimento LLM completo, prompt e critérios de decisão.
+**Revisão LLM sistemática — OBRIGATÓRIA.** Após a limpeza automática (4.4a-c), fazer revisão LLM de TODAS as referências de TODOS os artigos, confrontando com o plumber:
 
-Padrões comuns de correção manual:
+1. Para CADA artigo: ler o plumber inteiro
+2. Identificar a boundary BIBLIOGRAFIA → NOTAS (passo crítico)
+3. Confrontar refs no banco com refs no PDF
+4. Corrigir na hora (R8): splits, joins, refs faltantes, lixo
+
+Ver [`modulos_pipeline.md` §F](modulos_pipeline.md#f-revisão-llm-de-referências) para o procedimento LLM completo, prompt e critérios de decisão.
+
+Padrões comuns de correção:
 - **Refs de jornal/revista sem autor pessoal** concatenadas — split manual
 - **Texto corrido** (corpo do artigo, notas de rodapé, biografias) — remove/truncate
 - **Refs garbled** (texto de outra seção) — replace com texto correto
@@ -486,11 +574,14 @@ A: Taís de Carvalho Ossani
 
 **IMPORTANTE:** O script padrão `import_yaml_to_db.py` é **destrutivo** (apaga tudo). Para adicionar seminários novos sem perder ORCIDs, variantes e dedup, usar modo incremental.
 
-### 7.0 Git checkpoint ANTES de mexer no banco
+### 7.0 Git checkpoint + rev-status
+
 ```bash
 python3 scripts/dump_anais_db.py
 git add anais.sql && git commit -m "Checkpoint antes de importar {slug}"
 ```
+
+Criar `revisao/{slug}-rev-status.md` com o template do [pipeline de revisão](pipeline_revisao.md#template-do-rev-status). Atualizar progressivamente a cada etapa (R2).
 
 ### 7.1 Importar YAML para o banco SQLite (incremental)
 ```bash
@@ -604,6 +695,14 @@ python3 scripts/fix_validation_issues.py --slug {slug} --loop
 
 Loop: validate_metadata --fix (auto-fixes A15–A27) → fix handlers (A07 abstract_en, A08 keywords_en, A19 abstract truncado) → repete até convergir (max 5 iterações). Ver [`modulos_pipeline.md` §G](modulos_pipeline.md#g-checks-de-validação-a01a27) para a lista completa de checks.
 
+### 7.3f Revisão LLM final — TODOS os artigos × TODOS os campos
+
+**OBRIGATÓRIA.** Para CADA artigo, ler o plumber inteiro e confrontar CADA campo (título, subtítulo, abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF. Corrigir na hora (R8). Registrar resultado de cada artigo no runner.
+
+Esta etapa é o gate final antes de gerar o HTML de revisão. Pega problemas que as heurísticas não detectam: truncamentos sutis, refs faltantes, subtítulos não separados, keywords ausentes mas presentes no PDF.
+
+Ver [pipeline_revisao.md §1.10](pipeline_revisao.md) para procedimento detalhado.
+
 ### 7.4 Deduplicação de autores (AND)
 
 Pipeline completo documentado em [`docs/dedup_autores.md`](dedup_autores.md): 11 etapas progressivas, da mais segura à mais agressiva. Resultado típico: ~22% de redução.
@@ -692,7 +791,58 @@ git push
 - [ ] Ambíguos de dedup resolvidos
 - [ ] `anais.sql` atualizado e commitado
 
-**Após a Fase 7, o seminário está pronto para publicação** (site Hugo + Zenodo). O pipeline de produção via OJS foi arquivado em `docs/archive/pipeline_producao_ojs.md`.
+**Após a Fase 7, gerar o HTML de revisão e submeter à revisão humana:**
+
+```bash
+python3 scripts/validate_metadata.py --slug {slug} --fix
+python3 scripts/gerar_revisao_html.py {slug}
+sqlite3 anais.db .dump > anais.sql
+git add anais.sql revisao/{slug}-* && git commit -m "{slug} revisão automática"
+```
+
+→ Próximo: [pipeline de revisão humana](pipeline_revisao_humana.md)
+
+---
+
+## Fase 8 — Aprendizado pós-revisão
+
+Após a revisão humana, cada correção manual é analisada para melhorar o pipeline cumulativamente. Ver [pipeline_revisao.md Fase 3](pipeline_revisao.md) para procedimento detalhado.
+
+### 8.1 Diagnóstico unificado
+Agregar TODAS as correções (automáticas + humanas) e identificar causa raiz de cada uma. Por que o pipeline não resolveu?
+
+### 8.2 Atualizar dict.db
+- **Remover** palavras genéricas que o dict força maiúscula (ex: `modernista`, `jardim`)
+- **Adicionar** nomes próprios novos encontrados durante a revisão
+- **Adicionar** expressões consolidadas confirmadas (ex: `Assembleia Legislativa`)
+
+### 8.3 Atualizar scripts
+Se ≥3 artigos têm o mesmo erro não coberto pelas heurísticas → corrigir o script.
+
+### 8.4 Atualizar pipeline
+Se a revisão revelou gaps na ordem de execução → ajustar a documentação.
+
+### 8.5 Verificar
+Dry-run normalizar (verificar que as correções da revisão humana não regridem), validate 0 issues, dedup 0 merges.
+
+### 8.6 Registrar aprendizado
+Criar `revisao/{slug}-aprendizado-revisao.json` com correções automáticas e humanas, causas raiz, bugs corrigidos.
+
+### 8.7 Revisão de engenharia
+Auditar TODOS os scripts usados no pipeline (usar Opus). Verificar: json.loads sem guard, SQL sem parâmetros, edge cases com valores nulos.
+
+### 8.8 Fechar
+
+```bash
+python3 scripts/dump_anais_db.py
+python3 dict/dump_db.py
+git add anais.sql dict/dict.sql revisao/{slug}-*
+git commit -m "{slug} revisão completa (Fases 0-8)"
+```
+
+Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_humana.md` (tabela de seminários).
+
+**Após a Fase 8, o seminário está pronto para publicação** (site Hugo + Zenodo). O pipeline de produção via OJS foi arquivado em `docs/archive/pipeline_producao_ojs.md`.
 
 ---
 
@@ -713,6 +863,12 @@ git push
 | `expand_initials.py` | 7.5 | Expande iniciais de givennames |
 | `fetch_orcid.py` | 7.6 | Busca ORCIDs via OpenAlex/Crossref/ORCID (`--search --review --apply`) |
 | `dump_anais_db.py` | 7.7 | Gera anais.sql (dump versionável) |
+| `extrair_fontes_plumber.py` | 2.1 | Extrai texto estruturado dos PDFs via pdfplumber (`--profile-only`, `--slug`) |
+| `extrair_metadados_en.py` | 2.1d | Extrai title_en, abstract_en, keywords_en dos PDFs |
+| `validate_metadata.py` | 7.3c | Validação abrangente: cruzamentos idioma, backfills, refs longas (`--fix`, `--slug`) |
+| `fix_validation_issues.py` | 7.3 | Sweep refs, clean keywords, loop validação (`--sweep-refs`, `--clean-keywords`, `--loop`) |
+| `gerar_revisao_html.py` | 7 | HTML de revisão por seminário (capa, ficha, artigos por seção) |
+| `gerar_runner.py` | — | Gera/consulta runners (checklists executáveis). `--status`, `--type producao` |
 | `init_anais_db.py` | — | Cria schema do anais.db |
 
 ### Scripts regionais (por diretório)
