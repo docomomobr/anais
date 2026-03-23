@@ -624,24 +624,25 @@ def check_abstract_es_garbage(article):
         if marker.search(text):
             found.append(marker.pattern)
 
-    if found:
-        issues.append({
-            'check': 'A21', 'article_id': aid, 'field': 'abstract_es',
-            'severity': 'warning', 'auto_fixable': True,
-            'detail': f'abstract_es contém lixo EN: {", ".join(found[:3])}',
-            'suggestion': 'Truncar no marcador de keywords ES ou setar NULL',
-            'fix_action': {'clean_abstract_es': True},
-        })
+    # abstract_es == abstract (redundância em artigos locale=es) — prioridade sobre garbage
+    is_redundant = (article.get('locale') == 'es' and article.get('abstract') and
+                    text.strip() == article['abstract'].strip())
 
-    # Também: abstract_es == abstract (redundância em artigos locale=es)
-    if (article.get('locale') == 'es' and article.get('abstract') and
-            text.strip() == article['abstract'].strip()):
+    if is_redundant:
         issues.append({
             'check': 'A21', 'article_id': aid, 'field': 'abstract_es',
             'severity': 'info', 'auto_fixable': True,
             'detail': 'abstract_es idêntico ao abstract (redundante para locale=es)',
             'suggestion': 'Setar abstract_es = NULL',
             'fix_action': {'null_field': 'abstract_es'},
+        })
+    elif found:
+        issues.append({
+            'check': 'A21', 'article_id': aid, 'field': 'abstract_es',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'abstract_es contém lixo EN: {", ".join(found[:3])}',
+            'suggestion': 'Truncar no marcador de keywords ES ou setar NULL',
+            'fix_action': {'clean_abstract_es': True},
         })
 
     return issues
@@ -752,7 +753,8 @@ def check_abstract_en_in_abstract(article):
             after_kw = text[kw_m.end():]
             en_m = re.search(r'(?:Abstract\s*:?\s*)?(?:The\s+|This\s+|In\s+this\s+)', after_kw, re.IGNORECASE)
             if en_m:
-                m = type('Match', (), {'start': lambda self: kw_m.start()})()
+                en_start = kw_m.end() + en_m.start()
+                m = type('Match', (), {'start': lambda self: en_start})()
 
     if m:
         issues.append({
@@ -982,8 +984,7 @@ def check_abstract_leading_junk(article):
             continue
 
         # Detectar label colado no início (ABSTRACT, Resumo, Abstract, RESUMO)
-        import re as _re
-        label_match = _re.match(r'^(?:ABSTRACT|Abstract|RESUMO|Resumo|Resumen|RESUMEN)\s*[.:]?\s*', text)
+        label_match = re.match(r'^(?:ABSTRACT|Abstract|RESUMO|Resumo|Resumen|RESUMEN)\s*[.:]?\s*', text)
         if label_match:
             stripped = text[label_match.end():]
         else:
@@ -1209,19 +1210,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         for issue in issues:
             if issue.get('auto_fixable') and fix and not dry_run:
                 action = issue.get('fix_action', {})
-                if 'copy_field' in action:
-                    src = action['copy_field']
-                    dst = action['to_field']
-                    val = article.get(src)
-                    if val is not None:
-                        if isinstance(val, list):
-                            val_db = json.dumps(val, ensure_ascii=False)
-                        else:
-                            val_db = val
-                        cur.execute(f"UPDATE articles SET {dst} = ? WHERE id = ?",
-                                    (val_db, article['id']))
-                        auto_fixed.append(issue)
-                elif 'set_field' in action:
+                if 'set_field' in action:
                     field = action['set_field']
                     val = action['value']
                     cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
@@ -1240,6 +1229,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                     new_refs = [CONTROL_CHAR_RE.sub('', r) for r in refs]
                     cur.execute("UPDATE articles SET references_ = ? WHERE id = ?",
                                 (json.dumps(new_refs, ensure_ascii=False), article['id']))
+                    article['refs_parsed'] = new_refs  # sync in-memory
                     auto_fixed.append(issue)
                 elif 'strip_control_chars_kw' in action:
                     col = action['strip_control_chars_kw']
@@ -1382,10 +1372,11 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                 elif 'move_abstract_to_es' in action:
                     abstract = article.get('abstract')
                     if abstract:
-                        cur.execute("UPDATE articles SET abstract_es = ?, abstract = NULL WHERE id = ?",
+                        cur.execute("UPDATE articles SET abstract_es = ?, abstract = NULL, locale = 'es' WHERE id = ?",
                                     (abstract, article['id']))
                         article['abstract_es'] = abstract
                         article['abstract'] = None
+                        article['locale'] = 'es'
                         auto_fixed.append(issue)
 
         all_issues.extend(issues)

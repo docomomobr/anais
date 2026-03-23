@@ -212,24 +212,28 @@ def normalizar_texto(texto, eh_subtitulo=False):
             partes = palavra.split('-')
             partes_norm = []
             for j, parte in enumerate(partes):
+                inicio_frase_part = ((i == 0 and j == 0) and not eh_subtitulo) or (j == 0 and inicio_nova_frase)
                 p_norm = normalizar_palavra(
                     parte, i if j == 0 else 1,
-                    inicio_frase=(i == 0 and j == 0) and not eh_subtitulo)
+                    inicio_frase=inicio_frase_part)
                 partes_norm.append(p_norm)
             resultado.append('-'.join(partes_norm))
+            inicio_nova_frase = False
         elif '/' in palavra and not palavra.startswith('http'):
             # Tratar cada parte da barra
             partes = palavra.split('/')
             partes_norm = []
             for j, parte in enumerate(partes):
                 if parte:
+                    inicio_frase_part = ((i == 0 and j == 0) and not eh_subtitulo) or (j == 0 and inicio_nova_frase)
                     p_norm = normalizar_palavra(
                         parte, i if j == 0 else 1,
-                        inicio_frase=(i == 0 and j == 0) and not eh_subtitulo)
+                        inicio_frase=inicio_frase_part)
                     partes_norm.append(p_norm)
                 else:
                     partes_norm.append(parte)
             resultado.append('/'.join(partes_norm))
+            inicio_nova_frase = False
         else:
             inicio_frase = ((i == 0) and not eh_subtitulo) or inicio_nova_frase
             palavra_norm = normalizar_palavra(palavra, i if not inicio_nova_frase else 0, inicio_frase)
@@ -249,7 +253,7 @@ def normalizar_texto(texto, eh_subtitulo=False):
     # Aplicar expressões consolidadas (segunda passada)
     # Usa \b para evitar match dentro de palavras (ex: "aeroporto" ≠ "Porto")
     for expr, repl in _EXPRESSOES.items():
-        pattern = re.compile(r'\b' + re.escape(expr) + r'\b', re.IGNORECASE)
+        pattern = re.compile(r'\b' + re.escape(expr) + r'\b', re.IGNORECASE | re.UNICODE)
         texto_resultado = pattern.sub(repl, texto_resultado)
 
     # Capitalizar toponímicos após movimentos/áreas (terceira passada)

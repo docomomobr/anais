@@ -37,8 +37,7 @@ REPEAT_PATTERN = r'(?:' + REPEAT_NODOT + r'{2,}|\.{5,})'
 UNDERSCORE_MID = re.compile(r'\s+(' + REPEAT_PATTERN + r')')
 UNDERSCORE_START = re.compile(r'^(' + REPEAT_PATTERN + r')[.,]?\s*(.*)', re.DOTALL)
 
-# URLs órfãs (ref é só URL ou começa com "Disponível em" / "Acesso em" / URL)
-ORPHAN_URL = re.compile(r'^(https?://|www\.|Disponível\s+em\s*$|Acesso\s+em)', re.IGNORECASE)
+# URLs órfãs (ref é só URL)
 BARE_URL = re.compile(r'^https?://\S+$')
 
 
@@ -144,6 +143,9 @@ def backfill_authors(refs):
                 rest = m.group(2)
                 new_refs[i] = author + ' ' + rest
                 backfill_count += 1
+            else:
+                import sys
+                print(f"  WARN: ref[{i}] backfill falhou (extract_author=None na ref anterior)", file=sys.stderr)
 
     return new_refs, backfill_count
 
@@ -163,11 +165,7 @@ def join_orphan_urls(refs):
 
         if new_refs and BARE_URL.match(ref):
             # URL solta → juntar à anterior
-            prev = new_refs[-1].rstrip()
-            if prev.endswith(('em', 'em:', 'in', 'in:')):
-                new_refs[-1] = prev + ' ' + ref
-            else:
-                new_refs[-1] = prev + ' ' + ref
+            new_refs[-1] = new_refs[-1].rstrip() + ' ' + ref
             join_count += 1
         elif new_refs and ref.startswith(('Disponível em', 'Acesso em', 'Available at')):
             # Continuação de "Disponível em..." → juntar
@@ -224,7 +222,14 @@ def main():
               'refs_before': 0, 'refs_after': 0}
 
     for aid, fname, slug, refs_text in articles:
-        refs = json.loads(refs_text)
+        try:
+            refs = json.loads(refs_text)
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {aid} ({fname}): JSON inválido em references_, pulando")
+            continue
+        if not isinstance(refs, list):
+            print(f"  WARN: {aid} ({fname}): references_ não é array, pulando")
+            continue
         totals['refs_before'] += len(refs)
 
         cleaned, stats = clean_article_refs(refs)

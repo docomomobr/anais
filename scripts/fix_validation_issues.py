@@ -517,7 +517,11 @@ def clean_keywords(conn, slug, dry_run):
         for field_val, col in [(kw, 'keywords'), (kw_en, 'keywords_en'), (kw_es, 'keywords_es')]:
             if not field_val:
                 continue
-            kws = json.loads(field_val)
+            try:
+                kws = json.loads(field_val)
+            except (json.JSONDecodeError, TypeError):
+                print(f"  WARN: {aid} {col}: JSON inválido, pulando")
+                continue
             new_kws = []
             changed = False
 
@@ -772,7 +776,11 @@ def fix_a10(conn, slug, issues, dry_run):
         if not row or not row[0]:
             continue
 
-        refs = json.loads(row[0])
+        try:
+            refs = json.loads(row[0])
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {art_id}: JSON inválido em references_, pulando")
+            continue
         changed = False
 
         for idx in sorted(ref_indices):
@@ -785,9 +793,14 @@ def fix_a10(conn, slug, issues, dry_run):
 
             rest = m.group(2) if m.group(2) else ''
 
-            # Encontrar autor da ref anterior
+            # Encontrar autor: chain-walk para trás (pode haver cadeia de ______)
+            author = None
             if idx > 0:
-                author = extract_author(refs[idx - 1])
+                for j in range(idx - 1, -1, -1):
+                    prev = refs[j].strip()
+                    if not UNDERSCORE_START.match(prev):
+                        author = extract_author(prev)
+                        break
                 if author:
                     refs[idx] = author + ' ' + rest if rest else author
                     print(f"  {art_id} ref[{idx}]: backfill → {author[:40]}")
@@ -830,7 +843,11 @@ def fix_a11(conn, slug, issues, dry_run):
         if not row or not row[0]:
             continue
 
-        refs = json.loads(row[0])
+        try:
+            refs = json.loads(row[0])
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {art_id}: JSON inválido em references_, pulando")
+            continue
         new_refs = []
         art_split = 0
         art_removed = 0
@@ -896,7 +913,11 @@ def fix_a12(conn, slug, issues, dry_run):
         if not row or not row[0]:
             continue
 
-        refs = json.loads(row[0])
+        try:
+            refs = json.loads(row[0])
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {art_id}: JSON inválido em references_, pulando")
+            continue
         indices_to_remove = set(ref_indices)
         new_refs = [r for i, r in enumerate(refs) if i not in indices_to_remove]
         removed = len(refs) - len(new_refs)
@@ -934,7 +955,11 @@ def fix_a13(conn, slug, issues, dry_run):
         if not row or not row[0]:
             continue
 
-        refs = json.loads(row[0])
+        try:
+            refs = json.loads(row[0])
+        except (json.JSONDecodeError, TypeError):
+            print(f"  WARN: {art_id}: JSON inválido em references_, pulando")
+            continue
         indices_to_remove = set()
 
         for idx in sorted(ref_indices, reverse=True):
@@ -1084,9 +1109,12 @@ def read_plumber_refs(fontes_dir, art_id):
     refs_text = []
     with open(jsonl_path, 'r', encoding='utf-8') as f:
         for line in f:
-            block = _json.loads(line)
+            try:
+                block = _json.loads(line)
+            except _json.JSONDecodeError:
+                continue
             if block.get('role') == 'reference':
-                refs_text.append(block['text'])
+                refs_text.append(block.get('text', ''))
 
     if not refs_text:
         return None

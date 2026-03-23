@@ -234,7 +234,7 @@ TOPONIMICOS = {
     'uberlandense': 'Uberlandense',
     # Países
     'alemã': 'Alemã', 'alemão': 'Alemão', 'alemãs': 'Alemãs', 'alemães': 'Alemães',
-    'argentina': 'Argentina', 'argentino': 'Argentino',
+    'argentino': 'Argentino',
     'argentinas': 'Argentinas', 'argentinos': 'Argentinos',
     'chilena': 'Chilena', 'chileno': 'Chileno',
     'colombiana': 'Colombiana', 'colombiano': 'Colombiano',
@@ -271,6 +271,7 @@ EXPRESSOES = {
     'arquitetura contemporânea': 'Arquitetura Contemporânea',
     'art déco': 'Art Déco',
     'art nouveau': 'Art Nouveau',
+    'pós-modernismo': 'Pós-Modernismo',
     'base aérea': 'Base Aérea',
     'bo bardi': 'Bo Bardi',
     'boa vista': 'Boa Vista',
@@ -392,9 +393,7 @@ EXPRESSOES = {
     # Regiões e compostos geográficos
     'triângulo mineiro': 'Triângulo Mineiro',
     'alto paranaíba': 'Alto Paranaíba',
-    'campina grande': 'Campina Grande',
     'santo antônio': 'Santo Antônio',
-    'santo andré': 'Santo André',
     'cachoeira dourada': 'Cachoeira Dourada',
     'grande hotel': 'Grande Hotel',
     'castelo branco': 'Castelo Branco',

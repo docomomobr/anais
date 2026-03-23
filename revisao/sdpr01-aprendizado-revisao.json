@@ -1,0 +1,76 @@
+{
+  "slug": "sdpr01",
+  "date": "2026-03-23",
+  "corrections": {
+    "automatic": {
+      "titles": 13,
+      "refs_articles": 20,
+      "refs_total_change": "329 (from 18 articles with refs)",
+      "keywords": 0,
+      "orcid_new": 1
+    },
+    "human": {
+      "count": 2,
+      "items": [
+        {"id": "sdpr01-016", "field": "title", "cause": "normalização contextual (moderna em subtítulo)"},
+        {"id": "sdpr01-022", "field": "subtitle", "cause": "normalização contextual (brutalismo como movimento em subtítulo)"}
+      ]
+    }
+  },
+  "root_causes": [
+    {
+      "pattern": "normalização contextual em subtítulos",
+      "frequency": 2,
+      "classification": "caso_unico",
+      "action": "revisão LLM já cobre — contexto de subtítulo é difícil para heurísticas"
+    },
+    {
+      "pattern": ".doc como fonte primária",
+      "frequency": "sdpr01 inteiro",
+      "classification": "padrao_recorrente",
+      "action": "script extrair_metadados_doc.py criado, hierarquia doc>plumber>pdftotext"
+    },
+    {
+      "pattern": "dedup suffix match",
+      "frequency": 1,
+      "classification": "padrao_recorrente",
+      "action": "is_abbreviation_of corrigido em dedup_authors.py"
+    }
+  ],
+  "engineering_review": {
+    "scripts_audited": [
+      "validate_metadata.py",
+      "clean_references.py",
+      "fix_validation_issues.py",
+      "normalizar.py",
+      "normalizar_maiusculas.py",
+      "extrair_metadados_doc.py",
+      "dedup_authors.py",
+      "init_db.py"
+    ],
+    "bugs_found": 18,
+    "bugs_fixed": 18,
+    "categories": {
+      "high_severity": [
+        "A23 Palavras-chave branch: posição EN errada → dados corrompidos",
+        "json.loads sem try/except: 6 locais → crash em JSON malformado",
+        "block['text'] sem .get(): KeyError em plumber malformado"
+      ],
+      "medium_severity": [
+        "A26 não setava locale='es' após mover abstract",
+        "A21 emitia 2 fixes conflitantes no mesmo campo",
+        "strip_control_chars_ref não sincronizava in-memory",
+        "copy_field handler sem emitter (código morto)",
+        "join_orphan_urls branches idênticos (dead if/else)",
+        "ORPHAN_URL regex nunca usada",
+        "backfill silencioso quando extract_author=None",
+        "fix_a10 sem chain-walk para underscores consecutivos",
+        "inicio_nova_frase não resetado em branches hífen/barra",
+        "\\b sem re.UNICODE: expressões com acento final não matched",
+        "pós-modernismo corrompido pelo pass 1 (faltava em EXPRESSOES)",
+        "argentina duplicada em LUGARES e TOPONIMICOS",
+        "campina grande e santo andré duplicados em EXPRESSOES"
+      ]
+    }
+  }
+}

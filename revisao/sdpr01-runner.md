@@ -126,11 +126,18 @@ Issues genuínos restantes:
 ## Fase 3 — Aprendizado (após revisão humana)
 
 - [x] **3.1** 2 correções humanas (016 moderna, 022 brutalismo). Causas: normalização contextual (expressões em subtítulo)
-- [x] **3.2** Dict: sem alterações (brutalismo como movimento é correto em títulos; contexto de subtítulo é revisão LLM)
-- [x] **3.3** Scripts: `dedup_authors.py` corrigido (match por sufixo em `is_abbreviation_of`), `extrair_metadados_doc.py` criado (novo)
+- [x] **3.2** Dict: pós-modernismo→EXPRESSOES, argentina removida de TOPONIMICOS (duplicata), duplicatas campina grande/santo andré removidas
+- [x] **3.3** Scripts: `dedup_authors.py` (suffix match), `extrair_metadados_doc.py` (5 fixes), + auditoria completa: 18 bugs em 5 scripts
 - [x] **3.4** Pipeline: sem alterações necessárias
-- [x] **3.5** Verificar: dry-runs sdpr02+dedup sem regressão, 0 auto-merges falsos
-- [x] **3.6** Aprendizado: .doc como fonte primária quando disponível, sufixo match no dedup
-- [x] **3.7** Revisão de engenharia: dedup_authors.py (suffix match) + extrair_metadados_doc.py (5 fixes: abstract_es separado de RESUMO, busca recursiva em subdiretórios, threshold 0.5, DB try/finally, abstract_es no apply/report)
+- [x] **3.5** Verificar: dry-runs sdpr01+sdbr08+sdbr13+dedup sem regressão
+- [x] **3.6** Aprendizado: `revisao/sdpr01-aprendizado-revisao.json` + MEMORY.md (feedback_engineering_review)
+- [x] **3.7** Revisão de engenharia completa (8 scripts auditados):
+  - validate_metadata.py: 6 fixes (A23 boundary, A26 locale, A21 mutual exclusion, copy_field morto, refs sync, import morto)
+  - clean_references.py: 4 fixes (json.loads crash, join_orphan_urls dead code, ORPHAN_URL morto, backfill warning)
+  - fix_validation_issues.py: 3 fixes (block['text'] crash, json.loads ×5, fix_a10 chain-walk)
+  - normalizar.py: 2 fixes (inicio_nova_frase reset+usage, \b UNICODE)
+  - init_db.py: 3 fixes (pós-modernismo, argentina, duplicatas)
+  - extrair_metadados_doc.py: 5 fixes (abstract_es, subdirs, threshold, try/finally, apply/report)
+  - dedup_authors.py: 1 fix (suffix match)
 - [x] **3.8** Cobertura final: abs 69%, abs_en 4%, kw 65%, kw_en 19%, refs 88%, ORCID 49%
-- [x] **3.9** Fechar: dump + commit + CLAUDE.md
+- [x] **3.9** Fechar: dump + commit
