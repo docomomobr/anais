@@ -25,6 +25,19 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdbr07 | 62 | 2026-03-02 | |
 | sdbr08 | 188 | 2026-03-09 | 84 itens: 80 títulos, 10 swaps PT/EN, 6 refs re-extraídas, 3 autores identificados |
 | sdbr09 | 170 | 2026-03-09 | ~40 itens: 4 keywords_en, 6 abstracts, 11 backfills (fix extract_author), 13 refs re-extraídas de .doc, 5 refs adicionadas |
+| sdbr10 | 118 | 2026-03-14 | |
+| sdbr11 | 101 | 2026-03-14 | |
+| sdbr12 | 82 | 2026-03-14 | |
+| sdbr13 | 181 | 2026-03-15 | |
+| sdbr14 | 122 | 2026-03-15 | |
+| sdbr15 | 101 | 2026-03-15 | |
+| sdsul01 | 48 | 2026-03-21 | |
+| sdsul02 | 35 | 2026-03-21 | |
+| sdsul03 | 39 | 2026-03-21 | |
+| sdsul04 | 46 | 2026-03-22 | |
+| sdsul05 | 37 | 2026-03-22 | |
+| sdsul06 | 24 | 2026-03-22 | 1 correção (021 título→subtítulo) |
+| sdsul07 | 46 | 2026-03-23 | 1 correção (033 topônimo + PDF páginas-imagem re-extraído) |
 
 ---
 
