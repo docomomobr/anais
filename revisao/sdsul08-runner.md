@@ -64,7 +64,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/fix_validation_issues.py --slug sdsul08 --clean-keywords
   ```
 - [x] **1.5** Loop: 12 issues (3 A10 backfills, 9 A11 refs longas — cobertos pela revisão LLM)
-- [x] **1.6** abs 57% (29/51), abs_en 0%, kw 0%, kw_en 0%, refs 96%. ISBN 978-85-61965-82-2, publisher Núcleo Docomomo RS / Marcavisual
+- [x] **1.6** abs 94% (48/51), abs_en 0%, kw 0%, kw_en 0%, refs 96%. ISBN 978-85-61965-82-2, publisher Núcleo Docomomo RS / Marcavisual. 19 resumos expandidos: 1o parágrafo como abstract
 - [x] **1.7** Autores: 74 autores, 51/51 verificados vs plumber. Nomes completos no DB
 - [x] **1.8** Dedup: 0 merges
 - [x] **1.9** ORCID: 19 buscados, 0 novos confirmados. Cobertura: 55/74 (74%)
@@ -135,7 +135,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   ```
 
 Issues genuínos restantes:
-- 22 artigos sem abstract (19 resumos expandidos + 004, 033, 039 artigos completos sem seção Resumo)
+- 3 artigos sem abstract (004, 033, 039 — artigos completos sem seção Resumo)
 - 0% keywords (nenhum artigo tem seção Palavras-chave no PDF)
 - 0% abstract_en (nenhum artigo tem seção Abstract em inglês no PDF)
 - 2 artigos sem refs (003, 037 — resumos expandidos, genuíno)
@@ -144,7 +144,7 @@ Issues genuínos restantes:
 
 | Campo | N/51 | % |
 |-------|------|---|
-| abstract | 29 | 57% |
+| abstract | 48 | 94% |
 | abstract_en | 0 | 0% |
 | keywords | 0 | 0% |
 | keywords_en | 0 | 0% |
