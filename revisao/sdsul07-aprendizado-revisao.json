@@ -1,0 +1,30 @@
+[
+  {
+    "causa": "topônimo_não_detectado",
+    "artigos": ["sdsul07-033"],
+    "campo": "title",
+    "antes": "Capela de Santana do pé do morro",
+    "depois": "Capela de Santana do Pé do Morro",
+    "descricao": "Normalização forçou lowercase em 'Pé do Morro' — é topônimo (nome do lugar/fazenda)",
+    "recorrencia": "baixa (nomes de fazendas/localidades rurais são raros nos anais)",
+    "acao": "nenhuma — caso isolado, não justifica regra no dict"
+  },
+  {
+    "causa": "paginas_imagem_no_pdf",
+    "artigos": ["sdsul07-033"],
+    "campo": "abstract",
+    "antes": "NULL (0c)",
+    "depois": "589c (extraído via OCR visual)",
+    "descricao": "4 primeiras páginas do artigo eram imagens escaneadas no PDF dos anais. pdfplumber não extrai texto de imagens. Páginas apareciam como vazias",
+    "recorrencia": "baixa (primeiro caso encontrado nos anais)",
+    "acao": "re-extração do PDF individual com páginas corretas (339-348). Abstract extraído manualmente via leitura da imagem. Pipeline não alterado — OCR automático seria over-engineering para 1 caso"
+  },
+  {
+    "causa": "orcid_fulltext_search",
+    "artigos": [],
+    "campo": "orcid",
+    "descricao": "fetch_orcid.py v3.1: adicionado ORCID fulltext search como Fase E (fallback quando busca estruturada family-name+given-names falha). Pega casos como 'Valentina Martins' no givenname + 'Marques' no familyname vs ORCID com 'Valentina' given + 'Martins Marques' family. Também corrigido name_compatible para exigir sufixo no familyname (evita falso positivo 'Franco' in 'Regis Franco de Almeida')",
+    "recorrencia": "média (nomes com partículas/sobrenomes compostos são comuns)",
+    "acao": "script atualizado e commitado (v3.1)"
+  }
+]

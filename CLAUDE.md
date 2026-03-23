@@ -37,6 +37,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdsul04 | 46 | ✅ revisado | 2026-03-22 |
 | sdsul05 | 37 | ✅ revisado | 2026-03-22 |
 | sdsul06 | 24 | ✅ revisado | 2026-03-22 |
+| sdsul07 | 46 | ✅ revisado | 2026-03-23 |
 
 ---
 
@@ -261,6 +262,23 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-23 — sdsul07 revisão completa (Fases 0-3)
+
+**sdsul07** (46 artigos, 56 autores, 8 sessões):
+- Cobertura: abstract 87%, abs_en 0%, kw 0%, kw_en 0%, refs 100%, ORCID 86%
+- 0% keywords e abstract_en — genuíno (PDFs não têm seções EN nem Palavras-chave)
+- 35 títulos corrigidos (normalização + LLM + agente): B/b, nomes próprios (Taba Guaianases, Cine Marrocos, EMEIs, CIAMs, etc.)
+- 17 abstracts overflow re-extraídos do plumber, 3 truncados completados (blocos adjacentes)
+- Refs: 1083 → 678 (limpeza extensiva: 142 joins sweep, 43/46 artigos revisão LLM)
+- 033 PDF: 4 primeiras páginas eram imagens escaneadas — re-extraído com pikepdf, abstract inserido via OCR visual
+- Revisão humana: 1 correção (033 "Pé do Morro" topônimo)
+
+**fetch_orcid.py v3.1 — ORCID fulltext search + name_compatible fix:**
+- Nova Fase E: quando busca estruturada (family-name+given-names) falha, busca nome completo como texto livre na API ORCID
+- Pega nomes registrados com familyname diferente (ex: "Martins Marques" vs "Marques")
+- name_compatible: exige sufixo no familyname (evita falso positivo "Franco" in "Regis Franco de Almeida")
+- 2 ORCIDs novos: Valentina Martins Marques, Diego Fonseca Brasil Vianna
 
 ### 2026-03-22 — sdsul06 revisão completa (Fases 0-3)
 

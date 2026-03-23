@@ -149,24 +149,24 @@ Issues genuínos restantes:
 
 | Campo | N/46 | % |
 |-------|------|---|
-| abstract | 39 | 85% |
+| abstract | 40 | 87% |
 | abstract_en | 0 | 0% |
 | keywords | 0 | 0% |
 | keywords_en | 0 | 0% |
 | references | 46 | 100% |
 | sections | 46/46 | 100% |
-| ORCID | 47/56 | 84% |
+| ORCID | 48/56 | 86% |
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** 2 causas raiz: topônimo "Pé do Morro" (normalização forçou lowercase), páginas-imagem no PDF (pdfplumber ignora)
+- [x] **3.2** Dict: 13 nomes próprios adicionados (seed_titles). "Pé do Morro" não recorrente — não adicionar
+- [x] **3.3** Scripts: fetch_orcid.py v3.1 — ORCID fulltext search fallback + name_compatible sufixo fix
+- [x] **3.4** Pipeline: sem alterações (1 correção humana, caso isolado de imagem no PDF)
+- [x] **3.5** Verificar: 0 problemas refs, script compila
+- [x] **3.6** Aprendizado: sdsul07-aprendizado-revisao.json (3 causas raiz)
+- [x] **3.7** Engenharia: scripts compilam, 0 regressões (sdsul05/06/07)
+- [x] **3.8** Cobertura final: abs 87%, abs_en 0%, kw 0%, kw_en 0%, refs 100%, ORCID 86%
+- [x] **3.9** Fechar: dump + commit
