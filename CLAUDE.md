@@ -31,6 +31,12 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdbr13 | 181 | ✅ revisado | 2026-03-15 |
 | sdbr14 | 122 | ✅ revisado | 2026-03-15 |
 | sdbr15 | 101 | ✅ revisado | 2026-03-15 |
+| sdsul01 | 48 | ✅ revisado | 2026-03-21 |
+| sdsul02 | 35 | ✅ revisado | 2026-03-21 |
+| sdsul03 | 39 | ✅ revisado | 2026-03-21 |
+| sdsul04 | 46 | ✅ revisado | 2026-03-22 |
+| sdsul05 | 37 | ✅ revisado | 2026-03-22 |
+| sdsul06 | 24 | ✅ revisado | 2026-03-22 |
 
 ---
 
@@ -255,6 +261,27 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-22 — sdsul06 revisão completa (Fases 0-3)
+
+**sdsul06** (24 artigos, 35 autores, 5 subtemas):
+- Cobertura: abstract 96%, abstract_en 96%, keywords 92%, keywords_en 92%, refs 100%, ORCID 71%
+- 5 subtemas criados (Renovação, Restauro, Equipamento, Ampliação, Mistura) — 10/24 atribuídos (8 do PDF + 2 do subtítulo)
+- 18 correções de capitalização LLM, 20/24 artigos refs corrigidas por LLM
+- 21 abstract_en extraídos do plumber (10 truncados completados com blocos adjacentes)
+- Revisão humana: 1 correção (021 título→subtítulo) — melhor resultado até agora (vs 6 sdsul05, 10 sdsul04)
+- Ficha catalográfica: "Disponível também em" → "Disponível originalmente em" corrigido em 22 seminários
+
+**extrair_metadados_en.py — suporte a fontes_plumber:**
+- Nova função `extract_en_from_plumber()`: extração estruturada usando role/page dos blocos
+- Verifica blocos adjacentes (role=footnote/small) para continuação de abstract_en
+- `find_fontes_dir()`: verifica presença de .txt/.jsonl (não só existência do diretório)
+- `fix_validation_issues.py`: `read_plumber_abstract()` reutiliza `extract_en_from_plumber`
+- Testado: sdsul04 (11 abs, 29 kw), sdsul05 (5 abs, 32 kw), sdsul06 (20 abs, 21 kw), sdbr08 0 regressões
+
+**Pipeline atualizado:**
+- §0.6: nota sobre suporte plumber no script
+- §1.6c: verificar subtítulos para atribuição de seções quando fontes externas esgotadas
 
 ### 2026-03-21 — sdsul01/sdsul02 revisão completa (Fases 0-3)
 

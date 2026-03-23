@@ -1124,6 +1124,9 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
 
     Retorna texto do abstract, ou None se não disponível.
     field: 'abstract' para PT/principal, 'abstract_en' para EN.
+
+    Para abstract_en, usa extract_en_from_plumber() de extrair_metadados_en.py
+    que faz extração estruturada com verificação de blocos adjacentes.
     """
     parent = os.path.dirname(fontes_dir)
     plumber_dir = os.path.join(parent, 'fontes_plumber')
@@ -1137,16 +1140,22 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
         for line in f:
             blocks.append(_json.loads(line))
 
-    # Coletar blocos abstract
+    # Para abstract_en: usar extração estruturada (com blocos adjacentes)
+    if field == 'abstract_en':
+        try:
+            from extrair_metadados_en import extract_en_from_plumber
+            result = extract_en_from_plumber(blocks)
+            return result.get('abstract_en')
+        except ImportError:
+            pass
+
+    # Para abstract PT: coletar blocos abstract
     abstract_blocks = [b for b in blocks if b.get('role') == 'abstract']
     if not abstract_blocks:
         return None
 
-    # Separar PT e EN baseado no heading anterior
-    # Procurar heading "Abstract" para delimitar EN
     in_en = False
     pt_parts = []
-    en_parts = []
 
     for b in blocks:
         text = b.get('text', '').strip()
@@ -1156,22 +1165,16 @@ def read_plumber_abstract(fontes_dir, art_id, field='abstract'):
             elif re.match(r'^(?:\d+[\.\s]*)?Resum[eo]\b', text, re.IGNORECASE):
                 in_en = False
         elif b.get('role') == 'abstract':
-            # Detectar inline labels
             first_line = text.split('\n')[0].strip()
             if re.match(r'^Abstract\s*:', first_line, re.IGNORECASE):
                 in_en = True
             elif re.match(r'^Resum[eo]\s*:', first_line, re.IGNORECASE):
                 in_en = False
 
-            if in_en:
-                en_parts.append(text)
-            else:
+            if not in_en:
                 pt_parts.append(text)
 
-    if field == 'abstract_en':
-        return '\n'.join(en_parts).strip() if en_parts else None
-    else:
-        return '\n'.join(pt_parts).strip() if pt_parts else None
+    return '\n'.join(pt_parts).strip() if pt_parts else None
 
 
 def find_alt_source(fontes_dir, art_id):

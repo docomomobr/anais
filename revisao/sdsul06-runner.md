@@ -103,12 +103,12 @@ Issues genuínos restantes:
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [x] **3.1** 1 causa raiz: título com ponto separando subtítulo não é splitado automaticamente (021). Padrão não automatizável (semântico).
+- [x] **3.1** 4 causas raiz: título.subtítulo semântico (1), extrair_metadados_en sem plumber (24), abstract_en truncado (10), subtema no subtítulo (2)
 - [x] **3.2** Dict: sem alterações (1 correção humana, não recorrente)
-- [x] **3.3** Scripts: sem alterações (causa raiz semântica, não automatizável)
-- [x] **3.4** Pipeline: sem alterações
-- [x] **3.5** Dry-run: sdsul06 3 genuínos, sdsul05 7 genuínos — 0 regressões
+- [x] **3.3** Scripts: extrair_metadados_en.py — suporte a fontes_plumber (extração estruturada com blocos adjacentes)
+- [x] **3.4** Pipeline: §0.6 nota sobre suporte plumber; §1.6c verificar subtítulos para seções
+- [x] **3.5** Dry-run: sdsul04 (11 abs, 29 kw), sdsul05 (5 abs, 32 kw), sdsul06 (20 abs, 21 kw), sdbr08 0 regressões
 - [x] **3.6** Aprendizado: sdsul06-aprendizado-revisao.json
-- [x] **3.7** Engenharia: 0 regressões, scripts OK
+- [x] **3.7** Engenharia: 3 scripts compilam OK, 0 regressões (sdsul06/05/04, sdbr13/08), import cruzado OK, sem código morto
 - [x] **3.8** Cobertura final: abs 96%, abs_en 96%, kw 92%, kw_en 92%, refs 100%, ORCID 71%
 - [x] **3.9** Fechar: dump + commit
