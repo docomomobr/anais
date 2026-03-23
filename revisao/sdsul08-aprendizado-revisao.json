@@ -1,0 +1,65 @@
+[
+  {
+    "causa": "abstract_overflow_extracao_original",
+    "artigos": ["sdsul08-002", "sdsul08-006", "sdsul08-011", "sdsul08-015", "sdsul08-017", "sdsul08-019", "sdsul08-022", "sdsul08-024", "sdsul08-025", "sdsul08-031", "sdsul08-036", "sdsul08-040", "sdsul08-046", "sdsul08-047", "sdsul08-048", "sdsul08-049"],
+    "campo": "abstract",
+    "descricao": "16 abstracts no banco tinham 1700-4500c — o script de extração original capturou corpo do texto além do Resumo. Re-extraídos do plumber (bloco com 'Resumo' na p1), tamanhos corretos (787-2635c)",
+    "recorrencia": "alta — todos os seminários Sul têm esse problema",
+    "acao_tomada": "re-extração do plumber na Fase 0.3/0.5",
+    "acao_sugerida": "nenhuma nova — mesma causa raiz que sdsul07"
+  },
+  {
+    "causa": "resumo_expandido_sem_abstract",
+    "artigos": ["sdsul08-003", "sdsul08-005", "sdsul08-010", "sdsul08-013", "sdsul08-016", "sdsul08-020", "sdsul08-026", "sdsul08-027", "sdsul08-028", "sdsul08-029", "sdsul08-032", "sdsul08-034", "sdsul08-037", "sdsul08-038", "sdsul08-041", "sdsul08-042", "sdsul08-043", "sdsul08-044", "sdsul08-045"],
+    "campo": "abstract",
+    "descricao": "19 artigos classificados como '(Resumo expandido)' no PDF — sem seção Resumo separada, corpo de 3-10 páginas (5000-12000c) era capturado inteiro como abstract. Solução: extrair 1o parágrafo (~1500-2500c) como abstract descritivo",
+    "recorrencia": "alta — sdsul08 tem 19/51 (37%) como resumo expandido. sdsul07 tinha 7/46 sem abstract genuíno",
+    "acao_tomada": "1o parágrafo extraído como abstract",
+    "acao_sugerida": "automatizar detecção de '(Resumo expandido)' na Fase 0 e extrair 1o parágrafo automaticamente"
+  },
+  {
+    "causa": "artigo_completo_sem_secao_resumo",
+    "artigos": ["sdsul08-004", "sdsul08-033", "sdsul08-039"],
+    "campo": "abstract",
+    "descricao": "3 artigos completos sem seção 'Resumo' no PDF — começam direto no corpo. 1o parágrafo extraído como abstract",
+    "recorrencia": "baixa",
+    "acao_tomada": "1o parágrafo extraído como abstract",
+    "acao_sugerida": "mesma lógica do resumo expandido"
+  },
+  {
+    "causa": "titulos_normalizacao_incorreta",
+    "artigos": ["28 artigos"],
+    "campo": "title/subtitle",
+    "descricao": "normalizar_maiusculas.py forçou maiúscula em genéricos (águas, pontes, técnica, obras, serviço, criação, ensaio, encontro, sertão, panorama, arquitetônicas) e minúscula em nomes próprios (Neyrpic, Viveiros de Leiria, Bairro Mauá, Muro da Mauá, Campus Cachoeirinha). 10 genéricos removidos do dict, 4 nomes adicionados",
+    "recorrencia": "alta — cada seminário tem 20-30 correções LLM de títulos",
+    "acao_tomada": "10 genéricos removidos do dict.db, 4 nomes/expressões adicionados (Texaco, Piscinas das Marés, Torres del Parque, Cidade Industrial)",
+    "acao_sugerida": "nenhuma fundamental — normalização + revisão LLM é o fluxo correto"
+  },
+  {
+    "causa": "refs_concatenadas_pos_sweep",
+    "artigos": ["sdsul08-005", "sdsul08-007", "sdsul08-014", "sdsul08-024"],
+    "campo": "references_",
+    "descricao": "4 artigos com refs concatenadas que escaparam ao sweep e à revisão LLM dos agentes. Separadas manualmente na verificação final",
+    "recorrencia": "baixa — 4/49 artigos",
+    "acao_tomada": "split manual pós-agentes",
+    "acao_sugerida": "nenhuma — coberto pela verificação final"
+  },
+  {
+    "causa": "abstract_epigrafe_contaminacao",
+    "artigos": ["sdsul08-010"],
+    "campo": "abstract",
+    "descricao": "Epígrafe em francês (Quatremère de Quincy, font_size=10pt=abstract no plumber) colada ao início do abstract. Removida na revisão LLM final",
+    "recorrencia": "baixa",
+    "acao_tomada": "removida pelo agente LLM na 1.10",
+    "acao_sugerida": "nenhuma — coberto pela revisão LLM"
+  },
+  {
+    "causa": "dict_genericos_como_nomes",
+    "artigos": [],
+    "campo": "dict",
+    "descricao": "10 palavras genéricas no dict.db forçando maiúscula: águas, técnica, panorama, obras, serviço, criação, ensaio, arquitetônicas, sertão, encontro. Origem: seed_titles.py (8) e manual (2). Causavam normalização incorreta em todos os seminários",
+    "recorrencia": "alta — afeta normalização de todos os seminários futuros",
+    "acao_tomada": "10 entradas removidas do dict.db",
+    "acao_sugerida": "seed_titles.py deveria ter filtro de palavras genéricas (stopwords de títulos)"
+  }
+]
