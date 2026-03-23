@@ -39,6 +39,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdsul06 | 24 | 2026-03-22 | 1 correção (021 título→subtítulo) |
 | sdsul07 | 46 | 2026-03-23 | 1 correção (033 topônimo + PDF páginas-imagem re-extraído) |
 | sdsul08 | 51 | 2026-03-23 | 1 correção (017 subtitle Estadual) |
+| sdpr01 | 26 | 2026-03-23 | 2 correções (016 moderna, 022 brutalismo) |
 
 ---
 

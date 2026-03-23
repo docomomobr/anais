@@ -63,7 +63,12 @@ def normalize_name(name):
 
 
 def is_abbreviation_of(short, long):
-    """Verifica se 'short' é abreviação de 'long'."""
+    """Verifica se 'short' é abreviação de 'long'.
+
+    Testa prefixo (início→início) e sufixo (fim→fim).
+    Ex: "J. Silva" abrevia "João Silva" (prefixo)
+        "Salvador" abrevia "Luís Salvador" (sufixo — 2o nome usado sozinho)
+    """
     short_n = normalize_name(short)
     long_n = normalize_name(long)
 
@@ -78,6 +83,21 @@ def is_abbreviation_of(short, long):
     if len(short_parts) > len(long_parts):
         return False
 
+    # Match por prefixo (posição 0→0, 1→1, ...)
+    if _parts_match(short_parts, long_parts):
+        return True
+
+    # Match por sufixo (últimas N palavras do longo)
+    if len(short_parts) < len(long_parts):
+        suffix = long_parts[-len(short_parts):]
+        if _parts_match(short_parts, suffix):
+            return True
+
+    return False
+
+
+def _parts_match(short_parts, long_parts):
+    """Verifica se cada parte do curto casa com a parte correspondente do longo."""
     for s, l in zip(short_parts, long_parts):
         if s == l:
             continue
@@ -86,7 +106,6 @@ def is_abbreviation_of(short, long):
         if l.startswith(s) and len(s) >= 2:
             continue
         return False
-
     return True
 
 
@@ -117,8 +136,13 @@ def confidence(gn_short, gn_long):
 
     Baixa: givenname curto tem ≤1 palavra real (ex: "Ana", "Carlos")
     — risco de falso positivo com sobrenomes comuns.
+
+    Exceção: se o nome curto é sufixo do longo (ex: "Salvador" é a
+    última parte de "Luís Salvador"), é alta confiança — pessoa usando
+    o segundo nome.
     """
     short_parts = normalize_name(gn_short).split()
+    long_parts = normalize_name(gn_long).split()
     # Filtrar iniciais (1 char)
     real_parts = [p for p in short_parts if len(p) > 1]
     if len(real_parts) <= 1:
