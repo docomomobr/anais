@@ -273,18 +273,36 @@ Para referências: classificar cada artigo (📚 bibliografia / 📝 endnotes / 
 ### 0.3b Extrair fontes estruturadas — OBRIGATÓRIO
 
 > **GATE**: 0.3 em andamento ou concluído
-> **DONE**: `fontes_plumber/` para 100% dos artigos
+> **DONE**: fontes estruturadas para 100% dos artigos
+
+**Hierarquia de fontes (R4):**
+
+| Prioridade | Fonte | Ferramenta | Qualidade |
+|------------|-------|-----------|-----------|
+| 1 | doc/docx/odt/rtf | `extrair_metadados_doc.py` | Melhor (estilos preservados) |
+| 2 | PDF texto | `extrair_fontes_plumber.py` | Boa (roles por font_size) |
+| 3 | PDF imagem | `ocrmypdf` → plumber | Razoável |
+| 4 | pdftotext | fallback | Básico |
 
 ```bash
-# PRIMEIRO: verificar se existem doc/docx originais
-find nacionais/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.rtf" -o -name "*.odt" | wc -l
+# 1. Verificar se existem editáveis
+find {base}/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.odt" -o -name "*.rtf" | wc -l
 
-# Profile + extração completa
+# 2a. Se existem editáveis → extrair via docx (fonte primária)
+python3 scripts/extrair_metadados_doc.py --slug {slug}           # diagnóstico
+python3 scripts/extrair_metadados_doc.py --slug {slug} --apply   # extrair e gravar
+
+# 2b. Extrair plumber TAMBÉM (fallback + verificação cruzada)
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
 python3 scripts/extrair_fontes_plumber.py --slug {slug}
+
+# 2c. OCR para PDFs imagem (pôsteres, escaneados)
+ocrmypdf -l por --force-ocr input.pdf output-ocr.pdf
 ```
 
-Completar SEMPRE a extração para 100% dos artigos, mesmo quando existem docx. O plumber é fallback para artigos sem docx e para verificação cruzada. Na fase de revisão, `fontes_plumber/` é a **fonte primária** — especialmente para delimitação de abstract, separação refs/notas, e PDFs com layout em colunas.
+Quando existem editáveis, `extrair_metadados_doc.py` é a **fonte primária** — preserva estilos de parágrafo e não tem problemas de colunas/OCR. O plumber serve como **fallback** para artigos sem docx e para **verificação cruzada**.
+
+Completar SEMPRE o plumber para 100% dos artigos, mesmo quando existem docx. Na revisão LLM (§1.10), usar a melhor fonte disponível para cada artigo (docx > plumber > pdftotext).
 
 ### 0.4 Preencher lacunas no banco
 

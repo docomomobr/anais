@@ -68,25 +68,42 @@ regionais/{região}/{slug}/
 
 ### 2.1 Extrair metadados de cada PDF
 
-**Hierarquia de fontes (R4):** Verificar nesta ordem:
-1. **doc/docx originais** → ler com `python-docx` (preserva estilos). **NÃO converter para .txt.**
-2. **pdfplumber** → `fontes_plumber/` (`.jsonl`). Boa qualidade, separa roles por font_size.
-3. **pdftotext** → `fontes/` (`.txt`). Fallback.
+**Hierarquia de fontes (R4):** Verificar nesta ordem. A fonte determina a ferramenta de extração:
+
+| Prioridade | Fonte | Ferramenta | Qualidade |
+|------------|-------|-----------|-----------|
+| 1 | doc/docx/odt/rtf | `extrair_metadados_doc.py` | Melhor (estilos preservados) |
+| 2 | PDF texto | `extrair_fontes_plumber.py` | Boa (roles por font_size) |
+| 3 | PDF imagem | `ocrmypdf` → plumber | Razoável |
+| 4 | pdftotext | `extrair_metadados_textos.py` | Fallback |
 
 Ver [`modulos_pipeline.md` §A](modulos_pipeline.md#a-hierarquia-de-fontes-para-extração) para o procedimento completo.
 
-**Extração pdfplumber — OBRIGATÓRIA:**
+**Etapa 1 — Verificar se existem editáveis:**
 
 ```bash
-# Verificar se existem doc/docx originais primeiro
-find regionais/{região}/{slug}/fontes/ -name "*.doc" -o -name "*.docx" | wc -l
+find regionais/{região}/{slug}/fontes/ -name "*.doc" -o -name "*.docx" -o -name "*.odt" -o -name "*.rtf" | wc -l
+```
 
-# Profile + extração completa
+**Se existem editáveis** → usar `extrair_metadados_doc.py` (fonte primária):
+
+```bash
+python3 scripts/extrair_metadados_doc.py --slug {slug}             # diagnóstico
+python3 scripts/extrair_metadados_doc.py --slug {slug} --apply     # extrair e gravar no banco
+```
+
+Converte para .docx via LibreOffice, lê com python-docx (preserva estilos de parágrafo), extrai abstract, keywords, refs. Substitui o plumber quando disponível — **NÃO converter docx para .txt** (perde-se a estrutura).
+
+**Se não existem editáveis** (ou para artigos sem docx) → extrair via pdfplumber:
+
+```bash
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
 python3 scripts/extrair_fontes_plumber.py --slug {slug}
 ```
 
-Gera `fontes_plumber/{slug}-NNN.jsonl` com blocos estruturados (role: heading/body/abstract/reference/footnote). Fonte primária para a revisão automática.
+Gera `fontes_plumber/{slug}-NNN.jsonl` com blocos estruturados (role: heading/body/abstract/reference/footnote).
+
+**NOTA:** Mesmo quando existem editáveis, rodar o plumber para 100% dos artigos — serve como fallback e verificação cruzada.
 
 **OCR para PDFs imagem:** Pôsteres e PDFs escaneados (0 caracteres de texto) precisam de OCR antes do pdfplumber:
 
@@ -95,8 +112,6 @@ ocrmypdf -l por --force-ocr input.pdf output-ocr.pdf
 ```
 
 Requer `tesseract-ocr` + `tesseract-ocr-por`. Após OCR, re-rodar pdfplumber no PDF OCR'ado.
-
-Scripts: `extrair_fontes_plumber.py`, `extrair_metadados_pagina1.py` (ou extração via agente)
 
 Campos a extrair:
 - **Título** (pode estar em ALL CAPS)
@@ -863,6 +878,7 @@ Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_h
 | `expand_initials.py` | 7.5 | Expande iniciais de givennames |
 | `fetch_orcid.py` | 7.6 | Busca ORCIDs via OpenAlex/Crossref/ORCID (`--search --review --apply`) |
 | `dump_anais_db.py` | 7.7 | Gera anais.sql (dump versionável) |
+| `extrair_metadados_doc.py` | 2.1 | Extrai metadados de editáveis (doc/docx/odt/rtf) via python-docx (`--apply`, `--slug`) |
 | `extrair_fontes_plumber.py` | 2.1 | Extrai texto estruturado dos PDFs via pdfplumber (`--profile-only`, `--slug`) |
 | `extrair_metadados_en.py` | 2.1d | Extrai title_en, abstract_en, keywords_en dos PDFs |
 | `validate_metadata.py` | 7.3c | Validação abrangente: cruzamentos idioma, backfills, refs longas (`--fix`, `--slug`) |
