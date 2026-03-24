@@ -310,8 +310,14 @@ python3 scripts/extrair_metadados_doc.py --slug {slug} --apply   # extrair e gra
 python3 scripts/extrair_fontes_plumber.py --slug {slug} --profile-only
 python3 scripts/extrair_fontes_plumber.py --slug {slug}
 
-# 2c. OCR para PDFs imagem (pôsteres, escaneados)
-ocrmypdf -l por --force-ocr input.pdf output-ocr.pdf
+# 2c. Pôsteres/painéis em imagem (JPG/PNG/TIFF): converter + OCR
+python3 -c "import img2pdf; open('out.pdf','wb').write(img2pdf.convert('poster.jpg'))"
+ocrmypdf -l por --force-ocr out.pdf pdfs/{slug}-NNN.pdf
+# Re-rodar plumber no artigo OCR'd
+python3 scripts/extrair_fontes_plumber.py --slug {slug} --article {slug}-NNN
+
+# 2d. PDFs escaneados (0 chars texto): OCR direto
+ocrmypdf -l por --force-ocr input.pdf pdfs/{slug}-NNN.pdf
 ```
 
 Quando existem editáveis, `extrair_metadados_doc.py` é a **fonte primária** — preserva estilos de parágrafo e não tem problemas de colunas/OCR. O plumber serve como **fallback** para artigos sem docx e para **verificação cruzada**.

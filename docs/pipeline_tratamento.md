@@ -117,13 +117,25 @@ Gera `fontes_plumber/{slug}-NNN.jsonl` com blocos estruturados (role: heading/bo
 
 **NOTA:** Mesmo quando existem editáveis, rodar o plumber para 100% dos artigos — serve como fallback e verificação cruzada.
 
-**OCR para PDFs imagem:** Pôsteres e PDFs escaneados (0 caracteres de texto) precisam de OCR antes do pdfplumber:
+**OCR para PDFs imagem e pôsteres/painéis:**
+
+Pôsteres, painéis e PDFs escaneados (0 caracteres de texto) precisam de conversão + OCR antes do pdfplumber:
 
 ```bash
+# 1. Se a fonte é imagem (JPG/PNG/TIFF): converter para PDF
+python3 -c "import img2pdf; open('output.pdf','wb').write(img2pdf.convert('poster.jpg'))"
+
+# 2. OCR (funciona tanto em PDFs imagem quanto em PDFs convertidos de imagem)
 ocrmypdf -l por --force-ocr input.pdf output-ocr.pdf
+
+# 3. Copiar o PDF OCR'd para pdfs/ e re-rodar pdfplumber
+cp output-ocr.pdf regionais/{região}/{slug}/pdfs/{slug}-NNN.pdf
+python3 scripts/extrair_fontes_plumber.py --slug {slug} --article {slug}-NNN
 ```
 
-Requer `tesseract-ocr` + `tesseract-ocr-por`. Após OCR, re-rodar pdfplumber no PDF OCR'ado.
+Requer `tesseract-ocr` + `tesseract-ocr-por` + `img2pdf` (instalado com ocrmypdf).
+
+**Quando usar:** Qualquer artigo cujo PDF tem 0 caracteres de texto (verificar com `pdfminer`), ou cujo fonte original é imagem (JPG de pôster, TIFF de painel). Exemplo: sdrj02 (pôsteres PDF imagem), sdrj03 (pôsteres JPG convertidos).
 
 Campos a extrair:
 - **Título** (pode estar em ALL CAPS)
