@@ -1,0 +1,110 @@
+{
+  "slug": "sdnne02",
+  "date": "2026-03-24",
+  "total_articles": 32,
+  "profile": {
+    "total": 32,
+    "locale_es": 0,
+    "abstract": 32,
+    "abstract_en": 30,
+    "abstract_es": 0,
+    "keywords": 31,
+    "keywords_en": 25,
+    "keywords_es": 0,
+    "references_": 32
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdnne02-005",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne02-006",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne02-013",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ot itself in different cultural contexts\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne02-018",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne02-019",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne02-024",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A32",
+      "article_id": "sdnne02-026",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en possivelmente truncado (PT=3848 EN=2293 ratio=0.60)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdnne02-029",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível formulário/questionário (muitas interrogações)",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdnne02-029",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível formulário/questionário (muitas interrogações)",
+      "suggestion": "Verificar e limpar o abstract"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdnne02-029",
+      "checks_flagged": [
+        "A14",
+        "A14"
+      ],
+      "reason": "abstract: possível formulário/questionário (muitas interrogações)"
+    }
+  ]
+}
