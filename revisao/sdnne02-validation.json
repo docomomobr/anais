@@ -34,15 +34,6 @@
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
-      "check": "A19",
-      "article_id": "sdnne02-013",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...ot itself in different cultural contexts\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
       "check": "A01",
       "article_id": "sdnne02-018",
       "field": "keywords_en",
