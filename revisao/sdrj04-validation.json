@@ -1,0 +1,100 @@
+{
+  "slug": "sdrj04",
+  "date": "2026-03-23",
+  "total_articles": 17,
+  "profile": {
+    "total": 17,
+    "locale_es": 0,
+    "abstract": 16,
+    "abstract_en": 11,
+    "abstract_es": 2,
+    "keywords": 15,
+    "keywords_en": 11,
+    "keywords_es": 2,
+    "references_": 15
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A10",
+      "article_id": "sdrj04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Backfill pendente: \"__________, 17 de março de 1946....\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 10,
+      "detail": "Backfill pendente: \"__________, 24 de março de 1946....\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 11,
+      "detail": "Backfill pendente: \"__________, 31 de março de 1946...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 12,
+      "detail": "Backfill pendente: \"__________, 14 de abril de 1946...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Backfill pendente: \"__________, 23 jan. 1949, Presença de Mulher....\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-009",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 19,
+      "detail": "Backfill pendente: \"_____. Impacto, vulnerabilidade e adaptação das cidades cost...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-009",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 20,
+      "detail": "Backfill pendente: \"_____. Policy Document on the Impacts of Climate Change on W...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A10",
+      "article_id": "sdrj04-009",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 21,
+      "detail": "Backfill pendente: \"_____. Case Studies on Climate Change and World Heritage. Pa...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    }
+  ],
+  "category_b_candidates": []
+}
