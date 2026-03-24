@@ -147,7 +147,9 @@ O checklist rápido (l.92-94) define §1.7 (Autores), §1.8 (Dedup), §1.9 (ORCI
 |-----------|-------|-----------|-----------|
 | CRITICAL | 2 | 2 | 0 |
 | HIGH | 4 | 4 | 0 |
-| MEDIUM (código) | 6 | 3 | 3 (#2, #3, #4) |
-| MEDIUM (docs) | 4 | 0 | 4 (#8-#11) |
-| LOW (código) | 4 | 0 | 4 (#5-#7, API key) |
-| LOW (docs) | 1 | 0 | 1 (#12) |
+| MEDIUM (código) | 6 | 6 | 0 |
+| MEDIUM (docs) | 4 | 4 | 0 |
+| LOW (código) | 4 | 4 | 0 |
+| LOW (docs) | 1 | 1 | 0 |
+
+**Todos os 21 itens resolvidos.** Commits: `ea29f91` (8 bugs), `3209fd1` (12 pendências).
