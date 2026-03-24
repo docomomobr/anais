@@ -279,8 +279,10 @@ def apply_corrections(db, corrections):
 def cmd_report():
     """Generate a report of all authors with initials."""
     db = sqlite3.connect(DB_PATH)
-    authors = get_authors_with_initials(db)
-    db.close()
+    try:
+        authors = get_authors_with_initials(db)
+    finally:
+        db.close()
 
     report = []
     for aid, gn, fn, cnt in authors:
@@ -302,37 +304,39 @@ def cmd_report():
 def cmd_pilotis():
     """Match authors with initials against Pilotis and apply."""
     db = sqlite3.connect(DB_PATH)
-    authors = get_authors_with_initials(db)
+    try:
+        authors = get_authors_with_initials(db)
 
-    pilotis = load_pilotis_names()
-    if not pilotis:
+        pilotis = load_pilotis_names()
+        if not pilotis:
+            return
+
+        corrections = []
+        for author in authors:
+            new_gn, pilotis_name = match_pilotis(author, pilotis)
+            if new_gn:
+                corrections.append((author[0], new_gn))
+                print(
+                    f"  MATCH: [{author[0]}] {author[1]} {author[2]}  →  "
+                    f"{new_gn} {author[2]}  (Pilotis: {pilotis_name})"
+                )
+
+        if corrections:
+            print(f"\n{len(corrections)} matches encontrados. Aplicando...")
+            apply_corrections(db, corrections)
+        else:
+            print("Nenhum match do Pilotis encontrado.")
+    finally:
         db.close()
-        return
-
-    corrections = []
-    for author in authors:
-        new_gn, pilotis_name = match_pilotis(author, pilotis)
-        if new_gn:
-            corrections.append((author[0], new_gn))
-            print(
-                f"  MATCH: [{author[0]}] {author[1]} {author[2]}  →  "
-                f"{new_gn} {author[2]}  (Pilotis: {pilotis_name})"
-            )
-
-    if corrections:
-        print(f"\n{len(corrections)} matches encontrados. Aplicando...")
-        apply_corrections(db, corrections)
-    else:
-        print("Nenhum match do Pilotis encontrado.")
-
-    db.close()
 
 
 def cmd_web():
     """Search the web for full names of authors with initials."""
     db = sqlite3.connect(DB_PATH)
-    authors = get_authors_with_initials(db)
-    db.close()
+    try:
+        authors = get_authors_with_initials(db)
+    finally:
+        db.close()
 
     results = []
     total = len(authors)
@@ -394,8 +398,10 @@ def cmd_apply(filepath):
         return
 
     db = sqlite3.connect(DB_PATH)
-    apply_corrections(db, corrections)
-    db.close()
+    try:
+        apply_corrections(db, corrections)
+    finally:
+        db.close()
 
 
 def main():

@@ -98,6 +98,8 @@ STOPWORDS = {
     # Genéricos encontrados erroneamente no dict (sdnne02, 2026-03-24)
     'arquiteto', 'arquitetos', 'materiais', 'tombamento', 'tradição',
     'anexo', 'judiciário',
+    # Genéricos encontrados erroneamente no dict (sdnne03, 2026-03-24)
+    'antiga', 'exposições', 'marítima', 'migrantes', 'severinos',
 }
 
 

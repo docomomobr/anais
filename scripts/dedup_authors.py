@@ -1544,106 +1544,107 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.execute('PRAGMA foreign_keys = ON')
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    cur.execute('SELECT COUNT(*) FROM authors')
-    total_before = cur.fetchone()[0]
-    print(f'Autores no banco: {total_before}\n')
+        cur.execute('SELECT COUNT(*) FROM authors')
+        total_before = cur.fetchone()[0]
+        print(f'Autores no banco: {total_before}\n')
 
-    def should_run(phase_num):
-        return phase_only is None or phase_only == phase_num
+        def should_run(phase_num):
+            return phase_only is None or phase_only == phase_num
 
-    # Normalizar partículas (antes de tudo)
-    particle_fixes = 0
-    if should_run(-1):
-        particle_fixes = normalize_particles(cur, dry_run=dry_run or report_only)
+        # Normalizar partículas (antes de tudo)
+        particle_fixes = 0
+        if should_run(-1):
+            particle_fixes = normalize_particles(cur, dry_run=dry_run or report_only)
 
-    # Etapa 0
-    enriched = 0
-    if should_run(0):
-        enriched = phase0_enrich(cur, dry_run=dry_run or report_only)
+        # Etapa 0
+        enriched = 0
+        if should_run(0):
+            enriched = phase0_enrich(cur, dry_run=dry_run or report_only)
 
-    # Etapa 1 — merge por último sobrenome (corrige partição errada)
-    merges_p1 = 0
-    if should_run(1):
-        merges_p1 = phase1_last_surname(cur, dry_run=dry_run or report_only)
+        # Etapa 1 — merge por último sobrenome (corrige partição errada)
+        merges_p1 = 0
+        if should_run(1):
+            merges_p1 = phase1_last_surname(cur, dry_run=dry_run or report_only)
 
-    # Etapa 2 — merge por variantes (mesmo familyname)
-    merges_p2 = 0
-    low_conf = 0
-    if should_run(2):
-        merges_p2, low_conf = phase2_merge(cur, dry_run=dry_run or report_only)
+        # Etapa 2 — merge por variantes (mesmo familyname)
+        merges_p2 = 0
+        low_conf = 0
+        if should_run(2):
+            merges_p2, low_conf = phase2_merge(cur, dry_run=dry_run or report_only)
 
-    if not dry_run and not report_only:
-        conn.commit()
+        if not dry_run and not report_only:
+            conn.commit()
 
-    # Etapa 3 — relatório de ambíguos
-    ambiguous = 0
-    if should_run(3):
-        ambiguous = phase3_report(cur)
+        # Etapa 3 — relatório de ambíguos
+        ambiguous = 0
+        if should_run(3):
+            ambiguous = phase3_report(cur)
 
-    # Etapa 4 — familyname com/sem partícula
-    merges_p4 = 0
-    if should_run(4):
-        merges_p4 = phase4_particle_familyname(cur, dry_run=dry_run or report_only)
+        # Etapa 4 — familyname com/sem partícula
+        merges_p4 = 0
+        if should_run(4):
+            merges_p4 = phase4_particle_familyname(cur, dry_run=dry_run or report_only)
 
-    # Etapa 5 — primeiro nome + familyname
-    merges_p5 = 0
-    if should_run(5):
-        merges_p5 = phase5_first_plus_family(cur, dry_run=dry_run or report_only)
+        # Etapa 5 — primeiro nome + familyname
+        merges_p5 = 0
+        if should_run(5):
+            merges_p5 = phase5_first_plus_family(cur, dry_run=dry_run or report_only)
 
-    # Etapa 6 — iniciais → nome completo
-    merges_p6 = 0
-    if should_run(6):
-        merges_p6 = phase6_initials(cur, dry_run=dry_run or report_only)
+        # Etapa 6 — iniciais → nome completo
+        merges_p6 = 0
+        if should_run(6):
+            merges_p6 = phase6_initials(cur, dry_run=dry_run or report_only)
 
-    # Etapa 7 — cross-familyname (subset de tokens)
-    merges_p7 = 0
-    if should_run(7):
-        merges_p7 = phase7_cross_familyname(cur, dry_run=dry_run or report_only)
+        # Etapa 7 — cross-familyname (subset de tokens)
+        merges_p7 = 0
+        if should_run(7):
+            merges_p7 = phase7_cross_familyname(cur, dry_run=dry_run or report_only)
 
-    # Etapa 8 — coautores em comum
-    merges_p8 = 0
-    if should_run(8):
-        merges_p8 = phase8_coauthors(cur, dry_run=dry_run or report_only)
+        # Etapa 8 — coautores em comum
+        merges_p8 = 0
+        if should_run(8):
+            merges_p8 = phase8_coauthors(cur, dry_run=dry_run or report_only)
 
-    if not dry_run and not report_only:
-        conn.commit()
+        if not dry_run and not report_only:
+            conn.commit()
 
-    # Resumo final
-    cur.execute('SELECT COUNT(*) FROM authors')
-    total_after = cur.fetchone()[0]
-    cur.execute('SELECT COUNT(*) FROM author_variants')
-    variants = cur.fetchone()[0]
+        # Resumo final
+        cur.execute('SELECT COUNT(*) FROM authors')
+        total_after = cur.fetchone()[0]
+        cur.execute('SELECT COUNT(*) FROM author_variants')
+        variants = cur.fetchone()[0]
 
-    print(f'{"="*50}')
-    print(f'Autores antes:    {total_before}')
-    if not dry_run and not report_only:
-        print(f'Partículas fix.:  {particle_fixes}')
-        print(f'Enriquecidos:     {enriched}')
-        print(f'Merges etapa 1:   {merges_p1} (último sobrenome)')
-        print(f'Merges etapa 2:   {merges_p2} (variantes)')
-        print(f'Merges etapa 4:   {merges_p4} (partícula familyname)')
-        print(f'Merges etapa 5:   {merges_p5} (primeiro nome + familyname)')
-        print(f'Merges etapa 6:   {merges_p6} (iniciais)')
-        print(f'Merges etapa 7:   {merges_p7} (cross-familyname)')
-        print(f'Merges etapa 8:   {merges_p8} (coautores em comum)')
-        print(f'Autores depois:   {total_after}')
-        print(f'Variantes reg.:   {variants}')
-    print(f'Ambíguos:         {ambiguous} (revisão manual)')
+        print(f'{"="*50}')
+        print(f'Autores antes:    {total_before}')
+        if not dry_run and not report_only:
+            print(f'Partículas fix.:  {particle_fixes}')
+            print(f'Enriquecidos:     {enriched}')
+            print(f'Merges etapa 1:   {merges_p1} (último sobrenome)')
+            print(f'Merges etapa 2:   {merges_p2} (variantes)')
+            print(f'Merges etapa 4:   {merges_p4} (partícula familyname)')
+            print(f'Merges etapa 5:   {merges_p5} (primeiro nome + familyname)')
+            print(f'Merges etapa 6:   {merges_p6} (iniciais)')
+            print(f'Merges etapa 7:   {merges_p7} (cross-familyname)')
+            print(f'Merges etapa 8:   {merges_p8} (coautores em comum)')
+            print(f'Autores depois:   {total_after}')
+            print(f'Variantes reg.:   {variants}')
+        print(f'Ambíguos:         {ambiguous} (revisão manual)')
 
-    # Top autores
-    if not dry_run and not report_only:
-        print(f'\nTop 15 autores por nº de artigos:')
-        cur.execute('''
-            SELECT a.givenname, a.familyname, COUNT(*) as n
-            FROM article_author aa JOIN authors a ON aa.author_id = a.id
-            GROUP BY a.id ORDER BY n DESC LIMIT 15
-        ''')
-        for gn, fn, n in cur.fetchall():
-            print(f'  {n:3d} artigos — {gn} {fn}')
-
-    conn.close()
+        # Top autores
+        if not dry_run and not report_only:
+            print(f'\nTop 15 autores por nº de artigos:')
+            cur.execute('''
+                SELECT a.givenname, a.familyname, COUNT(*) as n
+                FROM article_author aa JOIN authors a ON aa.author_id = a.id
+                GROUP BY a.id ORDER BY n DESC LIMIT 15
+            ''')
+            for gn, fn, n in cur.fetchall():
+                print(f'  {n:3d} artigos — {gn} {fn}')
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

@@ -58,7 +58,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
+- [x] **2.0** Validação + HTML + commits (87c867f)
   ```
   python3 scripts/validate_metadata.py --slug sdnne03 --fix
   python3 scripts/gerar_revisao_html.py sdnne03
@@ -68,14 +68,20 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
+## Revisão humana
+
+- [x] Sem correções humanas pendentes (0 items no rev.md)
+
+> Próximo: Fase 3
+
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** Diagnóstico: 245 correções automáticas, 0 humanas. Causas: 4 subtítulos ausentes, 53 refs LLM, 22 títulos LLM, 13 autores corrigidos, 61 afiliações
+- [x] **3.2** Dict: 5 genéricos adicionados ao STOPWORDS (antiga, exposições, marítima, migrantes, severinos)
+- [x] **3.3** Scripts: sem alterações (padrões já cobertos)
+- [x] **3.4** Pipeline: sem gaps a adicionar
+- [x] **3.5** Dry-run: 0 regressões em sdbr01/sdbr08/sdsul06/sdnne01
+- [x] **3.6** Aprendizado registrado (sdnne03-aprendizado.json)
+- [x] **3.7** Engenharia: 46 scripts auditados, 9 fixes (1 HIGH + 8 MEDIUM) em 6 scripts
+- [x] **3.8** Checklist: abstract 100%, abs_en 95%, kw 95%, kw_en 90%, refs 100%, ORCID 56%, 6 issues genuínos
+- [x] **3.9** Fechar: dump + commit + push + CLAUDE.md

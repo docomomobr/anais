@@ -47,6 +47,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdrj04 | 17 | ✅ revisado | 2026-03-24 |
 | sdnne01 | 44 | ✅ revisado | 2026-03-24 |
 | sdnne02 | 33 | ✅ revisado | 2026-03-24 |
+| sdnne03 | 41 | ✅ revisado | 2026-03-24 |
 
 ---
 
@@ -271,6 +272,27 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-24 — sdnne03 revisão completa (Fases 0-3)
+
+**sdnne03** (41 artigos, 79 autores, 4 seções genéricas — Seção 1-4, hide_title=1):
+- Cobertura: abstract 100%, abs_en 95%, kw 95%, kw_en 90%, refs 100%, ORCID 56%
+- Fonte: CD-ROM (sem doc/docx), plumber (6261 blocos)
+- 245 correções automáticas, 0 humanas
+- 22 títulos corrigidos vs PDF (4 subtítulos adicionados: 013/019/020/027)
+- 10 normalizer, 7 reversões (Presente, preservação, Tectônica, X, Vida, Residencial, Nova)
+- Refs: 677→710 (sweep -20 junk, LLM +53 correções em 24 artigos)
+- 13 autores corrigidos (nomes, familynames, 5 ordens), 61 afiliações inseridas
+- 8 abstract_en extraídos do plumber, 3 abstract_en via loop, 2 abstract_en trimmed (contaminação)
+- 2 ORCIDs novos (Amélia Reynaldo, Mércia Parente Rocha)
+- Seções genéricas (Seção 1-4): sem nomes temáticos nas fontes (rodapé só tem subtítulo do seminário)
+
+**dict — 5 genéricos adicionados ao STOPWORDS:**
+- antiga, exposições, marítima, migrantes, severinos
+
+**Engenharia (46 scripts auditados):**
+- 1 HIGH: _post_pipeline.py os.system→subprocess.run (command injection)
+- 8 MEDIUM: try/finally em _post_pipeline, split_concat_references, expand_initials, fetch_orcid, dedup_authors, gerar_revisao_html
 
 ### 2026-03-24 — sdnne02 revisão completa (Fases 0-3)
 

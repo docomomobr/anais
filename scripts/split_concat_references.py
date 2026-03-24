@@ -508,122 +508,124 @@ def main():
         sys.exit(1)
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    where_clauses = ["references_ IS NOT NULL", "references_ != ''", "references_ != '[]'"]
-    params = []
+        where_clauses = ["references_ IS NOT NULL", "references_ != ''", "references_ != '[]'"]
+        params = []
 
-    if args.slug:
-        where_clauses.append("seminar_slug = ?")
-        params.append(args.slug)
-    elif args.only_sdbr:
-        where_clauses.append("seminar_slug LIKE 'sdbr%'")
+        if args.slug:
+            where_clauses.append("seminar_slug = ?")
+            params.append(args.slug)
+        elif args.only_sdbr:
+            where_clauses.append("seminar_slug LIKE 'sdbr%'")
 
-    where = "WHERE " + " AND ".join(where_clauses)
+        where = "WHERE " + " AND ".join(where_clauses)
 
-    cur.execute(
-        f"SELECT id, file, seminar_slug, references_ FROM articles {where} ORDER BY id",
-        params
-    )
-    articles = cur.fetchall()
-
-    totals = {
-        'articles_changed': 0,
-        'refs_before': 0,
-        'refs_after': 0,
-        'splits': 0,
-        'non_refs_removed': 0,
-        'by_slug': {},
-    }
-
-    for aid, fname, slug, refs_text in articles:
-        try:
-            refs = json.loads(refs_text)
-        except (json.JSONDecodeError, TypeError):
-            continue
-
-        if not isinstance(refs, list):
-            continue
-
-        totals['refs_before'] += len(refs)
-
-        if slug not in totals['by_slug']:
-            totals['by_slug'][slug] = {'before': 0, 'after': 0, 'splits': 0, 'removed': 0}
-        totals['by_slug'][slug]['before'] += len(refs)
-
-        # Phase 1: Split concatenated references
-        new_refs, split_changes = process_article(aid, refs, verbose=args.verbose)
-
-        # Phase 2: Remove non-references (if requested)
-        removal_changes = []
-        if args.remove_non_refs:
-            new_refs, removal_changes = remove_non_references(new_refs, verbose=args.verbose)
-
-        changed = len(new_refs) != len(refs) or any(
-            a.strip() != b.strip() for a, b in zip(refs, new_refs) if len(refs) == len(new_refs)
+        cur.execute(
+            f"SELECT id, file, seminar_slug, references_ FROM articles {where} ORDER BY id",
+            params
         )
+        articles = cur.fetchall()
 
-        if changed:
-            totals['articles_changed'] += 1
-            n_splits = len(new_refs) - len(refs) + len(removal_changes)
-            totals['splits'] += max(0, len(new_refs) - len(refs) + len(removal_changes))
-            totals['non_refs_removed'] += len(removal_changes)
-            totals['by_slug'][slug]['splits'] += max(0, len(new_refs) - len(refs) + len(removal_changes))
-            totals['by_slug'][slug]['removed'] += len(removal_changes)
+        totals = {
+            'articles_changed': 0,
+            'refs_before': 0,
+            'refs_after': 0,
+            'splits': 0,
+            'non_refs_removed': 0,
+            'by_slug': {},
+        }
 
-            if args.dry_run:
-                if split_changes or removal_changes:
-                    print(f"\n{aid} ({fname}): {len(refs)} refs → {len(new_refs)} refs")
-                    for ch in split_changes:
-                        print(ch)
-                    for ch in removal_changes:
-                        print(ch)
+        for aid, fname, slug, refs_text in articles:
+            try:
+                refs = json.loads(refs_text)
+            except (json.JSONDecodeError, TypeError):
+                continue
 
-            if args.apply:
-                cur.execute(
-                    "UPDATE articles SET references_ = ? WHERE id = ?",
-                    (json.dumps(new_refs, ensure_ascii=False), aid)
-                )
+            if not isinstance(refs, list):
+                continue
 
-        totals['refs_after'] += len(new_refs)
-        totals['by_slug'][slug]['after'] += len(new_refs)
+            totals['refs_before'] += len(refs)
 
-    if args.apply:
-        conn.commit()
+            if slug not in totals['by_slug']:
+                totals['by_slug'][slug] = {'before': 0, 'after': 0, 'splits': 0, 'removed': 0}
+            totals['by_slug'][slug]['before'] += len(refs)
 
-    # Print summary
-    print(f"\n{'='*60}")
-    print(f"{'RESUMO':^60}")
-    print(f"{'='*60}")
+            # Phase 1: Split concatenated references
+            new_refs, split_changes = process_article(aid, refs, verbose=args.verbose)
 
-    if args.slug:
-        print(f"Seminário: {args.slug}")
-    elif args.only_sdbr:
-        print(f"Seminários: sdbr* (nacionais)")
-    else:
-        print(f"Seminários: todos")
+            # Phase 2: Remove non-references (if requested)
+            removal_changes = []
+            if args.remove_non_refs:
+                new_refs, removal_changes = remove_non_references(new_refs, verbose=args.verbose)
 
-    print(f"\nArtigos modificados: {totals['articles_changed']}")
-    print(f"Refs antes:  {totals['refs_before']}")
-    print(f"Refs depois: {totals['refs_after']}")
-    print(f"Refs novas (splits):    +{totals['refs_after'] - totals['refs_before'] + totals['non_refs_removed']}")
-    if args.remove_non_refs:
-        print(f"Não-refs removidas:     -{totals['non_refs_removed']}")
-    print(f"Diferença líquida:      {totals['refs_after'] - totals['refs_before']:+d}")
+            changed = len(new_refs) != len(refs) or any(
+                a.strip() != b.strip() for a, b in zip(refs, new_refs) if len(refs) == len(new_refs)
+            )
 
-    if len(totals['by_slug']) > 1:
-        print(f"\n{'Slug':<12} {'Antes':>6} {'Depois':>7} {'Splits':>7} {'Removidas':>10}")
-        print('-' * 50)
-        for slug in sorted(totals['by_slug']):
-            s = totals['by_slug'][slug]
-            diff = s['after'] - s['before']
-            if diff != 0:
-                print(f"{slug:<12} {s['before']:>6} {s['after']:>7} {s['splits']:>7} {s['removed']:>10}")
+            if changed:
+                totals['articles_changed'] += 1
+                n_splits = len(new_refs) - len(refs) + len(removal_changes)
+                totals['splits'] += max(0, len(new_refs) - len(refs) + len(removal_changes))
+                totals['non_refs_removed'] += len(removal_changes)
+                totals['by_slug'][slug]['splits'] += max(0, len(new_refs) - len(refs) + len(removal_changes))
+                totals['by_slug'][slug]['removed'] += len(removal_changes)
 
-    mode = 'DRY RUN' if args.dry_run else 'APLICADO'
-    print(f"\nModo: {mode}")
+                if args.dry_run:
+                    if split_changes or removal_changes:
+                        print(f"\n{aid} ({fname}): {len(refs)} refs → {len(new_refs)} refs")
+                        for ch in split_changes:
+                            print(ch)
+                        for ch in removal_changes:
+                            print(ch)
 
-    conn.close()
+                if args.apply:
+                    cur.execute(
+                        "UPDATE articles SET references_ = ? WHERE id = ?",
+                        (json.dumps(new_refs, ensure_ascii=False), aid)
+                    )
+
+            totals['refs_after'] += len(new_refs)
+            totals['by_slug'][slug]['after'] += len(new_refs)
+
+        if args.apply:
+            conn.commit()
+
+        # Print summary
+        print(f"\n{'='*60}")
+        print(f"{'RESUMO':^60}")
+        print(f"{'='*60}")
+
+        if args.slug:
+            print(f"Seminário: {args.slug}")
+        elif args.only_sdbr:
+            print(f"Seminários: sdbr* (nacionais)")
+        else:
+            print(f"Seminários: todos")
+
+        print(f"\nArtigos modificados: {totals['articles_changed']}")
+        print(f"Refs antes:  {totals['refs_before']}")
+        print(f"Refs depois: {totals['refs_after']}")
+        print(f"Refs novas (splits):    +{totals['refs_after'] - totals['refs_before'] + totals['non_refs_removed']}")
+        if args.remove_non_refs:
+            print(f"Não-refs removidas:     -{totals['non_refs_removed']}")
+        print(f"Diferença líquida:      {totals['refs_after'] - totals['refs_before']:+d}")
+
+        if len(totals['by_slug']) > 1:
+            print(f"\n{'Slug':<12} {'Antes':>6} {'Depois':>7} {'Splits':>7} {'Removidas':>10}")
+            print('-' * 50)
+            for slug in sorted(totals['by_slug']):
+                s = totals['by_slug'][slug]
+                diff = s['after'] - s['before']
+                if diff != 0:
+                    print(f"{slug:<12} {s['before']:>6} {s['after']:>7} {s['splits']:>7} {s['removed']:>10}")
+
+        mode = 'DRY RUN' if args.dry_run else 'APLICADO'
+        print(f"\nModo: {mode}")
+
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

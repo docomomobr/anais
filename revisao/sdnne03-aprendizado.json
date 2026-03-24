@@ -1,0 +1,62 @@
+{
+  "seminar": "sdnne03",
+  "date": "2026-03-24",
+  "articles": 41,
+  "corrections": {
+    "total": 245,
+    "automatic": 245,
+    "human": 0
+  },
+  "patterns": [
+    {
+      "pattern": "subtitles missing from DB (only title imported)",
+      "count": 4,
+      "cause": "YAML import only captured text before colon/period as title, discarding the subtitle",
+      "fix": "Manual insertion from plumber heading blocks",
+      "articles": ["013", "019", "020", "027"]
+    },
+    {
+      "pattern": "refs concatenated/split across PDF pages",
+      "count": 53,
+      "cause": "PDF line breaks and page breaks split or join refs incorrectly",
+      "fix": "LLM review comparing each ref with plumber blocks",
+      "articles": ["001","003","004","005","006","007","009","010","013","015","018","020","025","026","028","029","033","034","035","036","038","039","040","041"]
+    },
+    {
+      "pattern": "abstract_en not extracted (Caso 3 needed)",
+      "count": 8,
+      "cause": "PDFs had Abstract with explicit marker but script already handles this; these were edge cases",
+      "fix": "extrair_metadados_en.py extracted correctly (Caso 1/2/3)",
+      "articles": ["005","011","017","019","022","030","035","038"]
+    },
+    {
+      "pattern": "abstract_en contaminated with body text or headers",
+      "count": 2,
+      "cause": "Plumber continuation blocks included seminar header or body text",
+      "fix": "Trim at contamination boundary",
+      "articles": ["013","033"]
+    },
+    {
+      "pattern": "author names/order wrong in DB",
+      "count": 13,
+      "cause": "YAML import had wrong author order, abbreviated names, or typos",
+      "fix": "Manual correction from plumber author blocks",
+      "articles": ["003","009","013","014","019","020","025","027","029","030","038","039","041"]
+    },
+    {
+      "pattern": "affiliations empty",
+      "count": 61,
+      "cause": "YAML import did not extract affiliations from PDFs",
+      "fix": "Extracted from plumber author/affiliation blocks",
+      "articles": ["all"]
+    },
+    {
+      "pattern": "normalizer capitalizes generic words",
+      "count": 7,
+      "cause": "Normalizer dictionary lacks context-dependent rules",
+      "fix": "Manual revert after comparison with PDF",
+      "words": ["Presente", "preservação", "Tectônica", "X", "Vida", "Residencial", "Nova"]
+    }
+  ],
+  "human_corrections": []
+}

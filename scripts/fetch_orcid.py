@@ -625,213 +625,221 @@ def phase_search(resume=False, recheck_days=None, slug=None):
         slug: se informado, busca apenas autores vinculados a artigos desse seminário
     """
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    # Garantir que as colunas de tracking existem
-    cur.execute("PRAGMA table_info(authors)")
-    cols = [r[1] for r in cur.fetchall()]
-    if 'orcid_checked_at' not in cols:
-        cur.execute('ALTER TABLE authors ADD COLUMN orcid_checked_at TEXT')
-    if 'orcid_pipeline_version' not in cols:
-        cur.execute('ALTER TABLE authors ADD COLUMN orcid_pipeline_version TEXT')
-    conn.commit()
+        # Garantir que as colunas de tracking existem
+        cur.execute("PRAGMA table_info(authors)")
+        cols = [r[1] for r in cur.fetchall()]
+        if 'orcid_checked_at' not in cols:
+            cur.execute('ALTER TABLE authors ADD COLUMN orcid_checked_at TEXT')
+        if 'orcid_pipeline_version' not in cols:
+            cur.execute('ALTER TABLE authors ADD COLUMN orcid_pipeline_version TEXT')
+        conn.commit()
 
-    # Carregar resultados anteriores se resumindo
-    results = {'confirmed': [], 'candidates': [], 'not_found': [],
-               'too_many': [], 'skipped': [], 'already_has': []}
-    processed_ids = set()
+        # Carregar resultados anteriores se resumindo
+        results = {'confirmed': [], 'candidates': [], 'not_found': [],
+                   'too_many': [], 'skipped': [], 'already_has': []}
+        processed_ids = set()
 
-    if resume and os.path.exists(RESULTS_PATH):
-        with open(RESULTS_PATH, 'r') as f:
-            results = json.load(f)
-        for category in results.values():
-            for entry in category:
-                processed_ids.add(entry.get('author_id'))
-        print(f'Retomando: {len(processed_ids)} autores já processados')
+        if resume and os.path.exists(RESULTS_PATH):
+            with open(RESULTS_PATH, 'r') as f:
+                results = json.load(f)
+            for category in results.values():
+                for entry in category:
+                    processed_ids.add(entry.get('author_id'))
+            print(f'Retomando: {len(processed_ids)} autores já processados')
 
-    # Carregar exclusões (falsos positivos conhecidos)
-    cur.execute("SELECT author_id, orcid FROM orcid_exclusions")
-    exclusions = set()
-    for row in cur.fetchall():
-        exclusions.add((row[0], row[1]))
-    if exclusions:
-        print(f'Exclusões carregadas: {len(exclusions)}')
+        # Carregar exclusões (falsos positivos conhecidos)
+        cur.execute("SELECT author_id, orcid FROM orcid_exclusions")
+        exclusions = set()
+        for row in cur.fetchall():
+            exclusions.add((row[0], row[1]))
+        if exclusions:
+            print(f'Exclusões carregadas: {len(exclusions)}')
 
-    # Determinar cutoff para recheck
-    recheck_cutoff = None
-    if recheck_days and recheck_days > 0:
-        recheck_cutoff = (datetime.now() - timedelta(days=recheck_days)).strftime('%Y-%m-%d')
-        print(f'Modo recheck: re-verificando autores checados antes de {recheck_cutoff}')
-        print(f'  Pipeline version atual: {PIPELINE_VERSION}')
+        # Determinar cutoff para recheck
+        recheck_cutoff = None
+        if recheck_days and recheck_days > 0:
+            recheck_cutoff = (datetime.now() - timedelta(days=recheck_days)).strftime('%Y-%m-%d')
+            print(f'Modo recheck: re-verificando autores checados antes de {recheck_cutoff}')
+            print(f'  Pipeline version atual: {PIPELINE_VERSION}')
 
-    # Todos os autores sem ORCID, ordenados por nº de artigos
-    if slug:
-        print(f'Filtrando por seminário: {slug}')
-        cur.execute("""
-            SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
-                   a.orcid_checked_at, a.orcid_pipeline_version
-            FROM authors a
-            JOIN article_author aa ON aa.author_id = a.id
-            JOIN articles art ON aa.article_id = art.id
-            WHERE (a.orcid IS NULL OR a.orcid = '')
-              AND art.seminar_slug = ?
-            GROUP BY a.id
-            ORDER BY n_arts DESC
-        """, (slug,))
-    else:
-        cur.execute("""
-            SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
-                   a.orcid_checked_at, a.orcid_pipeline_version
-            FROM authors a
-            JOIN article_author aa ON aa.author_id = a.id
-            WHERE (a.orcid IS NULL OR a.orcid = '')
-            GROUP BY a.id
-            ORDER BY n_arts DESC
-        """)
-    authors_raw = cur.fetchall()
+        # Todos os autores sem ORCID, ordenados por nº de artigos
+        if slug:
+            print(f'Filtrando por seminário: {slug}')
+            cur.execute("""
+                SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
+                       a.orcid_checked_at, a.orcid_pipeline_version
+                FROM authors a
+                JOIN article_author aa ON aa.author_id = a.id
+                JOIN articles art ON aa.article_id = art.id
+                WHERE (a.orcid IS NULL OR a.orcid = '')
+                  AND art.seminar_slug = ?
+                GROUP BY a.id
+                ORDER BY n_arts DESC
+            """, (slug,))
+        else:
+            cur.execute("""
+                SELECT a.id, a.givenname, a.familyname, COUNT(aa.article_id) as n_arts,
+                       a.orcid_checked_at, a.orcid_pipeline_version
+                FROM authors a
+                JOIN article_author aa ON aa.author_id = a.id
+                WHERE (a.orcid IS NULL OR a.orcid = '')
+                GROUP BY a.id
+                ORDER BY n_arts DESC
+            """)
+        authors_raw = cur.fetchall()
 
-    # Filtrar autores conforme modo
-    authors = []
-    skipped_recent = 0
-    for aid, gn, fn, n_arts, checked_at, pv in authors_raw:
-        if recheck_cutoff:
-            # Modo recheck: incluir se nunca checado OU checado antes do cutoff
-            # OU checado com versão mais antiga
-            if checked_at and checked_at >= recheck_cutoff and pv == PIPELINE_VERSION:
-                skipped_recent += 1
+        # Filtrar autores conforme modo
+        authors = []
+        skipped_recent = 0
+        for aid, gn, fn, n_arts, checked_at, pv in authors_raw:
+            if recheck_cutoff:
+                # Modo recheck: incluir se nunca checado OU checado antes do cutoff
+                # OU checado com versão mais antiga
+                if checked_at and checked_at >= recheck_cutoff and pv == PIPELINE_VERSION:
+                    skipped_recent += 1
+                    continue
+            authors.append((aid, gn, fn, n_arts))
+
+        total = len(authors)
+        print(f'Autores sem ORCID: {len(authors_raw)}')
+        if recheck_cutoff and skipped_recent:
+            print(f'  Pulando {skipped_recent} já checados recentemente (v{PIPELINE_VERSION})')
+        print(f'A processar: {total}')
+
+        def mark_checked(author_id):
+            """Registra que o autor foi verificado nesta execução."""
+            now = datetime.now().strftime('%Y-%m-%d')
+            cur.execute(
+                "UPDATE authors SET orcid_checked_at = ?, orcid_pipeline_version = ? WHERE id = ?",
+                (now, PIPELINE_VERSION, author_id))
+
+        checked_count = 0  # para commit periódico
+
+        for i, (aid, gn, fn, n_arts) in enumerate(authors):
+            if aid in processed_ids:
                 continue
-        authors.append((aid, gn, fn, n_arts))
 
-    total = len(authors)
-    print(f'Autores sem ORCID: {len(authors_raw)}')
-    if recheck_cutoff and skipped_recent:
-        print(f'  Pulando {skipped_recent} já checados recentemente (v{PIPELINE_VERSION})')
-    print(f'A processar: {total}')
+            entry = {'author_id': aid, 'name': f'{gn} {fn}', 'n_arts': n_arts}
 
-    def mark_checked(author_id):
-        """Registra que o autor foi verificado nesta execução."""
-        now = datetime.now().strftime('%Y-%m-%d')
-        cur.execute(
-            "UPDATE authors SET orcid_checked_at = ?, orcid_pipeline_version = ? WHERE id = ?",
-            (now, PIPELINE_VERSION, author_id))
+            # Pular iniciais
+            if is_initials_only(gn):
+                entry['reason'] = 'initials_only'
+                results['skipped'].append(entry)
+                mark_checked(aid)
+                checked_count += 1
+                if (i + 1) % 100 == 0:
+                    print(f'  [{i+1}/{total}] (pulando iniciais)')
+                continue
 
-    checked_count = 0  # para commit periódico
+            first = first_real_name(gn)
+            if not first:
+                entry['reason'] = 'no_real_name'
+                results['skipped'].append(entry)
+                mark_checked(aid)
+                checked_count += 1
+                continue
 
-    for i, (aid, gn, fn, n_arts) in enumerate(authors):
-        if aid in processed_ids:
-            continue
+            print(f'  [{i+1}/{total}] {gn} {fn} ({n_arts} arts)...', end=' ', flush=True)
 
-        entry = {'author_id': aid, 'name': f'{gn} {fn}', 'n_arts': n_arts}
+            db_affil = get_db_affiliation(cur, aid)
+            entry['db_affiliation'] = db_affil
 
-        # Pular iniciais
-        if is_initials_only(gn):
-            entry['reason'] = 'initials_only'
-            results['skipped'].append(entry)
-            mark_checked(aid)
-            checked_count += 1
-            if (i + 1) % 100 == 0:
-                print(f'  [{i+1}/{total}] (pulando iniciais)')
-            continue
+            # === Fase A: Tentar OpenAlex primeiro ===
+            time.sleep(OPENALEX_DELAY)
+            fullname = f'{gn} {fn}'.strip()
+            oa_orcid, oa_detail = openalex_find_orcid(fullname, gn, fn, db_affil)
+            if oa_orcid and (aid, oa_orcid) not in exclusions:
+                entry['orcid'] = oa_orcid
+                entry['orcid_name'] = oa_detail.get('display_name', '')
+                entry['orgs'] = oa_detail.get('orgs', [])
+                entry['source'] = oa_detail.get('source', 'openalex')
+                entry['works_count'] = oa_detail.get('works_count', 0)
+                results['confirmed'].append(entry)
+                print(f'✓ OA {oa_orcid} ({oa_detail.get("display_name", "")})')
+                mark_checked(aid)
+                checked_count += 1
+                # Salvar periodicamente
+                if (i + 1) % 10 == 0:
+                    conn.commit()
+                    with open(RESULTS_PATH, 'w') as f:
+                        json.dump(results, f, ensure_ascii=False, indent=2)
+                continue
 
-        first = first_real_name(gn)
-        if not first:
-            entry['reason'] = 'no_real_name'
-            results['skipped'].append(entry)
-            mark_checked(aid)
-            checked_count += 1
-            continue
+            # === Fase B: Fallback Crossref ===
+            time.sleep(CROSSREF_DELAY)
+            cr_orcid, cr_detail = crossref_find_orcid(fullname, gn, fn)
+            if cr_orcid and (aid, cr_orcid) not in exclusions:
+                entry['orcid'] = cr_orcid
+                entry['orcid_name'] = cr_detail.get('display_name', '')
+                entry['source'] = 'crossref'
+                results['confirmed'].append(entry)
+                print(f'✓ CR {cr_orcid} ({cr_detail.get("display_name", "")})')
+                mark_checked(aid)
+                checked_count += 1
+                if (i + 1) % 10 == 0:
+                    conn.commit()
+                    with open(RESULTS_PATH, 'w') as f:
+                        json.dump(results, f, ensure_ascii=False, indent=2)
+                continue
 
-        print(f'  [{i+1}/{total}] {gn} {fn} ({n_arts} arts)...', end=' ', flush=True)
+            # === Fase C: Fallback Semantic Scholar ===
+            time.sleep(S2_DELAY)
+            s2_orcid, s2_detail = semantic_scholar_find_orcid(fullname, gn, fn)
+            if s2_orcid and (aid, s2_orcid) not in exclusions:
+                entry['orcid'] = s2_orcid
+                entry['orcid_name'] = s2_detail.get('display_name', '')
+                entry['source'] = 'semantic_scholar'
+                results['confirmed'].append(entry)
+                print(f'✓ S2 {s2_orcid} ({s2_detail.get("display_name", "")})')
+                mark_checked(aid)
+                checked_count += 1
+                if (i + 1) % 10 == 0:
+                    conn.commit()
+                    with open(RESULTS_PATH, 'w') as f:
+                        json.dump(results, f, ensure_ascii=False, indent=2)
+                continue
 
-        db_affil = get_db_affiliation(cur, aid)
-        entry['db_affiliation'] = db_affil
+            # === Fase D: Fallback API ORCID ===
+            time.sleep(REQUEST_DELAY)
+            data = orcid_search(fn, first)
+            if data is None:
+                entry['reason'] = 'api_error'
+                results['skipped'].append(entry)
+                print('ERRO API')
+                mark_checked(aid)
+                checked_count += 1
+                continue
 
-        # === Fase A: Tentar OpenAlex primeiro ===
-        time.sleep(OPENALEX_DELAY)
-        fullname = f'{gn} {fn}'.strip()
-        oa_orcid, oa_detail = openalex_find_orcid(fullname, gn, fn, db_affil)
-        if oa_orcid and (aid, oa_orcid) not in exclusions:
-            entry['orcid'] = oa_orcid
-            entry['orcid_name'] = oa_detail.get('display_name', '')
-            entry['orgs'] = oa_detail.get('orgs', [])
-            entry['source'] = oa_detail.get('source', 'openalex')
-            entry['works_count'] = oa_detail.get('works_count', 0)
-            results['confirmed'].append(entry)
-            print(f'✓ OA {oa_orcid} ({oa_detail.get("display_name", "")})')
-            mark_checked(aid)
-            checked_count += 1
-            # Salvar periodicamente
-            if (i + 1) % 10 == 0:
-                conn.commit()
-                with open(RESULTS_PATH, 'w') as f:
-                    json.dump(results, f, ensure_ascii=False, indent=2)
-            continue
+            num_found = data.get('num-found', 0)
 
-        # === Fase B: Fallback Crossref ===
-        time.sleep(CROSSREF_DELAY)
-        cr_orcid, cr_detail = crossref_find_orcid(fullname, gn, fn)
-        if cr_orcid and (aid, cr_orcid) not in exclusions:
-            entry['orcid'] = cr_orcid
-            entry['orcid_name'] = cr_detail.get('display_name', '')
-            entry['source'] = 'crossref'
-            results['confirmed'].append(entry)
-            print(f'✓ CR {cr_orcid} ({cr_detail.get("display_name", "")})')
-            mark_checked(aid)
-            checked_count += 1
-            if (i + 1) % 10 == 0:
-                conn.commit()
-                with open(RESULTS_PATH, 'w') as f:
-                    json.dump(results, f, ensure_ascii=False, indent=2)
-            continue
+            if num_found == 0:
+                results['not_found'].append(entry)
+                print('nenhum')
+                mark_checked(aid)
+                checked_count += 1
+                continue
 
-        # === Fase C: Fallback Semantic Scholar ===
-        time.sleep(S2_DELAY)
-        s2_orcid, s2_detail = semantic_scholar_find_orcid(fullname, gn, fn)
-        if s2_orcid and (aid, s2_orcid) not in exclusions:
-            entry['orcid'] = s2_orcid
-            entry['orcid_name'] = s2_detail.get('display_name', '')
-            entry['source'] = 'semantic_scholar'
-            results['confirmed'].append(entry)
-            print(f'✓ S2 {s2_orcid} ({s2_detail.get("display_name", "")})')
-            mark_checked(aid)
-            checked_count += 1
-            if (i + 1) % 10 == 0:
-                conn.commit()
-                with open(RESULTS_PATH, 'w') as f:
-                    json.dump(results, f, ensure_ascii=False, indent=2)
-            continue
-
-        # === Fase D: Fallback API ORCID ===
-        time.sleep(REQUEST_DELAY)
-        data = orcid_search(fn, first)
-        if data is None:
-            entry['reason'] = 'api_error'
-            results['skipped'].append(entry)
-            print('ERRO API')
-            mark_checked(aid)
-            checked_count += 1
-            continue
-
-        num_found = data.get('num-found', 0)
-
-        if num_found == 0:
-            results['not_found'].append(entry)
-            print('nenhum')
-            mark_checked(aid)
-            checked_count += 1
-            continue
-
-        if num_found > 20:
-            # Tentar busca mais específica com givenname completo
-            gn_clean = re.sub(r'\b(de|da|do|dos|das|e)\b', '', gn, flags=re.IGNORECASE).strip()
-            gn_clean = re.sub(r'\s+', ' ', gn_clean).strip()
-            if gn_clean != first:
-                time.sleep(REQUEST_DELAY)
-                data2 = orcid_search(fn, gn_clean)
-                if data2 and 0 < data2.get('num-found', 0) <= 20:
-                    data = data2
-                    num_found = data2['num-found']
-                    print(f'(refinado {num_found}) ', end='', flush=True)
+            if num_found > 20:
+                # Tentar busca mais específica com givenname completo
+                gn_clean = re.sub(r'\b(de|da|do|dos|das|e)\b', '', gn, flags=re.IGNORECASE).strip()
+                gn_clean = re.sub(r'\s+', ' ', gn_clean).strip()
+                if gn_clean != first:
+                    time.sleep(REQUEST_DELAY)
+                    data2 = orcid_search(fn, gn_clean)
+                    if data2 and 0 < data2.get('num-found', 0) <= 20:
+                        data = data2
+                        num_found = data2['num-found']
+                        print(f'(refinado {num_found}) ', end='', flush=True)
+                    else:
+                        entry['num_found'] = num_found
+                        results['too_many'].append(entry)
+                        print(f'demais ({num_found})')
+                        mark_checked(aid)
+                        checked_count += 1
+                        continue
                 else:
                     entry['num_found'] = num_found
                     results['too_many'].append(entry)
@@ -839,113 +847,107 @@ def phase_search(resume=False, recheck_days=None, slug=None):
                     mark_checked(aid)
                     checked_count += 1
                     continue
-            else:
-                entry['num_found'] = num_found
-                results['too_many'].append(entry)
-                print(f'demais ({num_found})')
-                mark_checked(aid)
-                checked_count += 1
-                continue
 
-        # Buscar perfis dos candidatos (limitar a MAX_PROFILES)
-        orcid_ids = [r['orcid-identifier']['path'] for r in data.get('result', [])][:MAX_PROFILES]
+            # Buscar perfis dos candidatos (limitar a MAX_PROFILES)
+            orcid_ids = [r['orcid-identifier']['path'] for r in data.get('result', [])][:MAX_PROFILES]
 
-        confirmed_orcid = None
-        candidate_orcids = []
+            confirmed_orcid = None
+            candidate_orcids = []
 
-        for oid in orcid_ids:
-            time.sleep(REQUEST_DELAY)
-            person = orcid_person(oid)
-            time.sleep(REQUEST_DELAY)
-            orgs = orcid_employments(oid)
-
-            orc_gn = person.get('givenname', '')
-            orc_fn = person.get('familyname', '')
-
-            # Verificar compatibilidade de nome
-            if not name_compatible(gn, fn, orc_gn, orc_fn):
-                continue
-
-            is_br = has_br_affiliation(orgs)
-            affil_match = affiliation_matches(db_affil, orgs) if db_affil else False
-
-            org_names = [o.get('name', '') for o in orgs]
-
-            candidate = {
-                'orcid': oid,
-                'orcid_name': f'{orc_gn} {orc_fn}',
-                'orgs': org_names,
-                'is_br': is_br,
-                'affil_match': affil_match,
-            }
-
-            if is_br or affil_match:
-                if confirmed_orcid is None:
-                    confirmed_orcid = candidate
-                else:
-                    # Mais de um BR — ambíguo
-                    candidate_orcids.append(confirmed_orcid)
-                    candidate_orcids.append(candidate)
-                    confirmed_orcid = None
-            else:
-                candidate_orcids.append(candidate)
-
-        if confirmed_orcid and not candidate_orcids:
-            entry['orcid'] = confirmed_orcid['orcid']
-            entry['orcid_name'] = confirmed_orcid['orcid_name']
-            entry['orgs'] = confirmed_orcid['orgs']
-            results['confirmed'].append(entry)
-            print(f'✓ {confirmed_orcid["orcid"]} ({confirmed_orcid["orcid_name"]})')
-        else:
-            # === Fase E: Fallback ORCID fulltext search ===
-            if not confirmed_orcid:
+            for oid in orcid_ids:
                 time.sleep(REQUEST_DELAY)
-                ft_orcid, ft_detail = orcid_fulltext_search(fullname, gn, fn)
-                if ft_orcid and (aid, ft_orcid) not in exclusions:
-                    entry['orcid'] = ft_orcid
-                    entry['orcid_name'] = ft_detail.get('display_name', '')
-                    entry['orgs'] = ft_detail.get('orgs', [])
-                    entry['source'] = 'orcid_fulltext'
-                    results['confirmed'].append(entry)
-                    print(f'✓ FT {ft_orcid} ({ft_detail.get("display_name", "")})')
-                    mark_checked(aid)
-                    checked_count += 1
-                    if (i + 1) % 10 == 0:
-                        conn.commit()
-                        with open(RESULTS_PATH, 'w') as f:
-                            json.dump(results, f, ensure_ascii=False, indent=2)
+                person = orcid_person(oid)
+                time.sleep(REQUEST_DELAY)
+                orgs = orcid_employments(oid)
+
+                orc_gn = person.get('givenname', '')
+                orc_fn = person.get('familyname', '')
+
+                # Verificar compatibilidade de nome
+                if not name_compatible(gn, fn, orc_gn, orc_fn):
                     continue
-                elif ft_detail and ft_detail.get('candidates'):
-                    # Fulltext found candidates but couldn't confirm — add to existing
-                    for fc in ft_detail['candidates']:
-                        if fc['orcid'] not in [c['orcid'] for c in candidate_orcids]:
-                            candidate_orcids.append(fc)
 
-            if candidate_orcids:
-                entry['orcid_options'] = candidate_orcids
-                results['candidates'].append(entry)
-                print(f'? {len(candidate_orcids)} candidatos')
+                is_br = has_br_affiliation(orgs)
+                affil_match = affiliation_matches(db_affil, orgs) if db_affil else False
+
+                org_names = [o.get('name', '') for o in orgs]
+
+                candidate = {
+                    'orcid': oid,
+                    'orcid_name': f'{orc_gn} {orc_fn}',
+                    'orgs': org_names,
+                    'is_br': is_br,
+                    'affil_match': affil_match,
+                }
+
+                if is_br or affil_match:
+                    if confirmed_orcid is None:
+                        confirmed_orcid = candidate
+                    else:
+                        # Mais de um BR — ambíguo
+                        candidate_orcids.append(confirmed_orcid)
+                        candidate_orcids.append(candidate)
+                        confirmed_orcid = None
+                else:
+                    candidate_orcids.append(candidate)
+
+            if confirmed_orcid and not candidate_orcids:
+                entry['orcid'] = confirmed_orcid['orcid']
+                entry['orcid_name'] = confirmed_orcid['orcid_name']
+                entry['orgs'] = confirmed_orcid['orgs']
+                results['confirmed'].append(entry)
+                print(f'✓ {confirmed_orcid["orcid"]} ({confirmed_orcid["orcid_name"]})')
             else:
-                results['not_found'].append(entry)
-                print('nenhum')
+                # === Fase E: Fallback ORCID fulltext search ===
+                if not confirmed_orcid:
+                    time.sleep(REQUEST_DELAY)
+                    ft_orcid, ft_detail = orcid_fulltext_search(fullname, gn, fn)
+                    if ft_orcid and (aid, ft_orcid) not in exclusions:
+                        entry['orcid'] = ft_orcid
+                        entry['orcid_name'] = ft_detail.get('display_name', '')
+                        entry['orgs'] = ft_detail.get('orgs', [])
+                        entry['source'] = 'orcid_fulltext'
+                        results['confirmed'].append(entry)
+                        print(f'✓ FT {ft_orcid} ({ft_detail.get("display_name", "")})')
+                        mark_checked(aid)
+                        checked_count += 1
+                        if (i + 1) % 10 == 0:
+                            conn.commit()
+                            with open(RESULTS_PATH, 'w') as f:
+                                json.dump(results, f, ensure_ascii=False, indent=2)
+                        continue
+                    elif ft_detail and ft_detail.get('candidates'):
+                        # Fulltext found candidates but couldn't confirm — add to existing
+                        for fc in ft_detail['candidates']:
+                            if fc['orcid'] not in [c['orcid'] for c in candidate_orcids]:
+                                candidate_orcids.append(fc)
 
-        mark_checked(aid)
-        checked_count += 1
+                if candidate_orcids:
+                    entry['orcid_options'] = candidate_orcids
+                    results['candidates'].append(entry)
+                    print(f'? {len(candidate_orcids)} candidatos')
+                else:
+                    results['not_found'].append(entry)
+                    print('nenhum')
 
-        # Salvar e commitar periodicamente
-        if (i + 1) % 10 == 0:
-            conn.commit()
-            with open(RESULTS_PATH, 'w') as f:
-                json.dump(results, f, ensure_ascii=False, indent=2)
+            mark_checked(aid)
+            checked_count += 1
 
-    # Salvar e commitar resultados finais
-    conn.commit()
-    with open(RESULTS_PATH, 'w') as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+            # Salvar e commitar periodicamente
+            if (i + 1) % 10 == 0:
+                conn.commit()
+                with open(RESULTS_PATH, 'w') as f:
+                    json.dump(results, f, ensure_ascii=False, indent=2)
 
-    conn.close()
-    print(f'\nChecagem registrada para {checked_count} autores (pipeline v{PIPELINE_VERSION})')
-    print_stats(results)
+        # Salvar e commitar resultados finais
+        conn.commit()
+        with open(RESULTS_PATH, 'w') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+
+        print(f'\nChecagem registrada para {checked_count} autores (pipeline v{PIPELINE_VERSION})')
+        print_stats(results)
+    finally:
+        conn.close()
 
 
 # ─── Fase 2: Revisão ──────────────────────────────────────────
@@ -961,36 +963,37 @@ def phase_review():
         results = json.load(f)
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    candidates = results.get('candidates', [])
-    print(f'Candidatos para revisão: {len(candidates)}\n')
+        candidates = results.get('candidates', [])
+        print(f'Candidatos para revisão: {len(candidates)}\n')
 
-    for entry in candidates:
-        aid = entry['author_id']
-        name = entry['name']
-        n_arts = entry.get('n_arts', '?')
-        db_affil = entry.get('db_affiliation', '')
+        for entry in candidates:
+            aid = entry['author_id']
+            name = entry['name']
+            n_arts = entry.get('n_arts', '?')
+            db_affil = entry.get('db_affiliation', '')
 
-        arts = get_author_articles(cur, aid)
-        options = entry.get('orcid_options', [])
+            arts = get_author_articles(cur, aid)
+            options = entry.get('orcid_options', [])
 
-        print(f'--- {name} (id={aid}, {n_arts} arts, afil: {db_affil or "?"}) ---')
-        for art_id, title in arts:
-            print(f'  [{art_id}] {title[:70]}')
-        print()
-        for opt in options:
-            orcid = opt['orcid']
-            oname = opt.get('orcid_name', '')
-            orgs = opt.get('orgs', [])
-            is_br = opt.get('is_br', False)
-            print(f'  ORCID: {orcid} — {oname}')
-            print(f'    BR: {"sim" if is_br else "não"}')
-            for org in orgs[:3]:
-                print(f'    Org: {org}')
-        print()
-
-    conn.close()
+            print(f'--- {name} (id={aid}, {n_arts} arts, afil: {db_affil or "?"}) ---')
+            for art_id, title in arts:
+                print(f'  [{art_id}] {title[:70]}')
+            print()
+            for opt in options:
+                orcid = opt['orcid']
+                oname = opt.get('orcid_name', '')
+                orgs = opt.get('orgs', [])
+                is_br = opt.get('is_br', False)
+                print(f'  ORCID: {orcid} — {oname}')
+                print(f'    BR: {"sim" if is_br else "não"}')
+                for org in orgs[:3]:
+                    print(f'    Org: {org}')
+            print()
+    finally:
+        conn.close()
 
 
 # ─── Fase 3: Aplicação ────────────────────────────────────────
@@ -1010,28 +1013,30 @@ def phase_apply():
         return
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    applied = 0
-    for entry in confirmed:
-        aid = entry['author_id']
-        orcid = entry['orcid']
+        applied = 0
+        for entry in confirmed:
+            aid = entry['author_id']
+            orcid = entry['orcid']
 
-        # Verificar se já tem ORCID
-        cur.execute("SELECT orcid FROM authors WHERE id = ?", (aid,))
-        row = cur.fetchone()
-        if row and row[0]:
-            continue
+            # Verificar se já tem ORCID
+            cur.execute("SELECT orcid FROM authors WHERE id = ?", (aid,))
+            row = cur.fetchone()
+            if row and row[0]:
+                continue
 
-        now = datetime.now().strftime('%Y-%m-%d')
-        cur.execute("UPDATE authors SET orcid = ?, orcid_checked_at = ?, orcid_pipeline_version = ? WHERE id = ?",
-                    (orcid, now, PIPELINE_VERSION, aid))
-        applied += 1
-        print(f'  ✓ {entry["name"]} → {orcid}')
+            now = datetime.now().strftime('%Y-%m-%d')
+            cur.execute("UPDATE authors SET orcid = ?, orcid_checked_at = ?, orcid_pipeline_version = ? WHERE id = ?",
+                        (orcid, now, PIPELINE_VERSION, aid))
+            applied += 1
+            print(f'  ✓ {entry["name"]} → {orcid}')
 
-    conn.commit()
-    conn.close()
-    print(f'\nAplicados: {applied} ORCIDs')
+        conn.commit()
+        print(f'\nAplicados: {applied} ORCIDs')
+    finally:
+        conn.close()
 
 
 # ─── Estatísticas ─────────────────────────────────────────────
@@ -1070,27 +1075,28 @@ def print_stats(results=None):
 def print_check_status():
     """Mostra estatísticas de checagem de ORCIDs no banco."""
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    cur.execute("SELECT COUNT(*) FROM authors")
-    total = cur.fetchone()[0]
+        cur.execute("SELECT COUNT(*) FROM authors")
+        total = cur.fetchone()[0]
 
-    cur.execute("SELECT COUNT(*) FROM authors WHERE orcid IS NOT NULL AND orcid != ''")
-    with_orcid = cur.fetchone()[0]
+        cur.execute("SELECT COUNT(*) FROM authors WHERE orcid IS NOT NULL AND orcid != ''")
+        with_orcid = cur.fetchone()[0]
 
-    cur.execute("SELECT COUNT(*) FROM authors WHERE orcid_checked_at IS NOT NULL")
-    checked = cur.fetchone()[0]
+        cur.execute("SELECT COUNT(*) FROM authors WHERE orcid_checked_at IS NOT NULL")
+        checked = cur.fetchone()[0]
 
-    cur.execute("""SELECT orcid_pipeline_version, COUNT(*), MIN(orcid_checked_at), MAX(orcid_checked_at)
-                   FROM authors WHERE orcid_checked_at IS NOT NULL
-                   GROUP BY orcid_pipeline_version ORDER BY orcid_pipeline_version""")
-    versions = cur.fetchall()
+        cur.execute("""SELECT orcid_pipeline_version, COUNT(*), MIN(orcid_checked_at), MAX(orcid_checked_at)
+                       FROM authors WHERE orcid_checked_at IS NOT NULL
+                       GROUP BY orcid_pipeline_version ORDER BY orcid_pipeline_version""")
+        versions = cur.fetchall()
 
-    cur.execute("""SELECT COUNT(*) FROM authors
-                   WHERE (orcid IS NULL OR orcid = '') AND orcid_checked_at IS NULL""")
-    never_checked = cur.fetchone()[0]
-
-    conn.close()
+        cur.execute("""SELECT COUNT(*) FROM authors
+                       WHERE (orcid IS NULL OR orcid = '') AND orcid_checked_at IS NULL""")
+        never_checked = cur.fetchone()[0]
+    finally:
+        conn.close()
 
     print(f'Total de autores:      {total}')
     print(f'Com ORCID:             {with_orcid} ({with_orcid*100/total:.1f}%)')
@@ -1201,94 +1207,95 @@ def phase_scrape_faculty(apply=False):
         pages = yaml.safe_load(f)
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    # TODOS os autores sem ORCID
-    cur.execute("""
-        SELECT a.id, a.givenname, a.familyname
-        FROM authors a
-        WHERE (a.orcid IS NULL OR a.orcid = '')
-    """)
-    all_authors_no_orcid = [(aid, gn, fn) for aid, gn, fn in cur.fetchall()]
+        # TODOS os autores sem ORCID
+        cur.execute("""
+            SELECT a.id, a.givenname, a.familyname
+            FROM authors a
+            WHERE (a.orcid IS NULL OR a.orcid = '')
+        """)
+        all_authors_no_orcid = [(aid, gn, fn) for aid, gn, fn in cur.fetchall()]
 
-    # Index por familyname normalizado → autores
-    from collections import defaultdict
-    fn_index = defaultdict(list)
-    for aid, gn, fn in all_authors_no_orcid:
-        fn_norm = strip_accents(fn.lower().strip())
-        fn_index[fn_norm].append((aid, gn, fn))
+        # Index por familyname normalizado → autores
+        from collections import defaultdict
+        fn_index = defaultdict(list)
+        for aid, gn, fn in all_authors_no_orcid:
+            fn_norm = strip_accents(fn.lower().strip())
+            fn_index[fn_norm].append((aid, gn, fn))
 
-    total_found = 0
-    total_new = 0
-    applied_ids = []
+        total_found = 0
+        total_new = 0
+        applied_ids = []
 
-    for page in pages:
-        url = page.get('url', '')
-        program = page.get('program', '')
-        if not url:
-            continue
-
-        print(f'\n--- {program} ---')
-        print(f'    {url}')
-
-        time.sleep(0.5)
-        faculty = scrape_faculty_page(url)
-        if not faculty:
-            print(f'    Nenhum ORCID encontrado na página')
-            continue
-
-        print(f'    {len(faculty)} docentes com ORCID na página')
-        total_found += len(faculty)
-
-        # Cruzar cada docente com TODOS os autores sem ORCID (por familyname)
-        for page_name, page_orcid in faculty:
-            page_parts = page_name.strip().split()
-            if len(page_parts) < 2:
+        for page in pages:
+            url = page.get('url', '')
+            program = page.get('program', '')
+            if not url:
                 continue
 
-            fn_page = strip_accents(page_parts[-1].lower())
-            candidates = fn_index.get(fn_page, [])
+            print(f'\n--- {program} ---')
+            print(f'    {url}')
 
-            for aid, gn, fn in candidates:
-                # Primeiro nome deve bater
-                first_page = strip_accents(page_parts[0].lower())
-                first_db = strip_accents(gn.split()[0].lower()) if gn.split() else ''
-                if first_page != first_db:
+            time.sleep(0.5)
+            faculty = scrape_faculty_page(url)
+            if not faculty:
+                print(f'    Nenhum ORCID encontrado na página')
+                continue
+
+            print(f'    {len(faculty)} docentes com ORCID na página')
+            total_found += len(faculty)
+
+            # Cruzar cada docente com TODOS os autores sem ORCID (por familyname)
+            for page_name, page_orcid in faculty:
+                page_parts = page_name.strip().split()
+                if len(page_parts) < 2:
                     continue
 
-                # Verificar compatibilidade completa
-                if not name_compatible(gn, fn, ' '.join(page_parts[:-1]), page_parts[-1]):
-                    continue
+                fn_page = strip_accents(page_parts[-1].lower())
+                candidates = fn_index.get(fn_page, [])
 
-                # Verificação extra para faculty scrape: se ambos têm 3+ nomes,
-                # o segundo nome deve ser compatível para evitar falsos positivos
-                # (ex: "Eduardo Galbes Breda de Lima" vs "Eduardo Rocha Lima")
-                db_parts = gn.split()
-                particles = {'de', 'da', 'do', 'dos', 'das', 'e', 'del', 'di'}
-                db_real = [p for p in db_parts if p.lower() not in particles]
-                pg_real = [p for p in page_parts[:-1] if p.lower() not in particles]
-                if len(db_real) >= 2 and len(pg_real) >= 2:
-                    second_db = strip_accents(db_real[1].lower())
-                    second_pg = strip_accents(pg_real[1].lower())
-                    if second_db != second_pg and not second_db.startswith(second_pg) and not second_pg.startswith(second_db):
+                for aid, gn, fn in candidates:
+                    # Primeiro nome deve bater
+                    first_page = strip_accents(page_parts[0].lower())
+                    first_db = strip_accents(gn.split()[0].lower()) if gn.split() else ''
+                    if first_page != first_db:
                         continue
 
-                # Match!
-                total_new += 1
-                if apply:
-                    now = datetime.now().strftime('%Y-%m-%d')
-                    cur.execute("""UPDATE authors SET orcid = ?, orcid_checked_at = ?,
-                                  orcid_pipeline_version = ? WHERE id = ? AND (orcid IS NULL OR orcid = '')""",
-                                (page_orcid, now, PIPELINE_VERSION, aid))
-                    applied_ids.append(aid)
-                    print(f'    ✓ {gn} {fn} ← {page_orcid} ({page_name})')
-                else:
-                    print(f'    ? {gn} {fn} ← {page_orcid} ({page_name})')
+                    # Verificar compatibilidade completa
+                    if not name_compatible(gn, fn, ' '.join(page_parts[:-1]), page_parts[-1]):
+                        continue
 
-    if apply and applied_ids:
-        conn.commit()
+                    # Verificação extra para faculty scrape: se ambos têm 3+ nomes,
+                    # o segundo nome deve ser compatível para evitar falsos positivos
+                    # (ex: "Eduardo Galbes Breda de Lima" vs "Eduardo Rocha Lima")
+                    db_parts = gn.split()
+                    particles = {'de', 'da', 'do', 'dos', 'das', 'e', 'del', 'di'}
+                    db_real = [p for p in db_parts if p.lower() not in particles]
+                    pg_real = [p for p in page_parts[:-1] if p.lower() not in particles]
+                    if len(db_real) >= 2 and len(pg_real) >= 2:
+                        second_db = strip_accents(db_real[1].lower())
+                        second_pg = strip_accents(pg_real[1].lower())
+                        if second_db != second_pg and not second_db.startswith(second_pg) and not second_pg.startswith(second_db):
+                            continue
 
-    conn.close()
+                    # Match!
+                    total_new += 1
+                    if apply:
+                        now = datetime.now().strftime('%Y-%m-%d')
+                        cur.execute("""UPDATE authors SET orcid = ?, orcid_checked_at = ?,
+                                      orcid_pipeline_version = ? WHERE id = ? AND (orcid IS NULL OR orcid = '')""",
+                                    (page_orcid, now, PIPELINE_VERSION, aid))
+                        applied_ids.append(aid)
+                        print(f'    ✓ {gn} {fn} ← {page_orcid} ({page_name})')
+                    else:
+                        print(f'    ? {gn} {fn} ← {page_orcid} ({page_name})')
+
+        if apply and applied_ids:
+            conn.commit()
+    finally:
+        conn.close()
 
     print(f'\n{"="*50}')
     print(f'Docentes com ORCID encontrados: {total_found}')
