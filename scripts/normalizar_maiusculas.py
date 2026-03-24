@@ -25,6 +25,9 @@ sys.path.insert(0, BASE_DIR)
 from dict.normalizar import normalizar_texto, load_dict, stats
 
 
+_VALID_COLS = {'title', 'subtitle', 'title_es', 'subtitle_es'}
+
+
 def normalizar_seminario(conn, slug, dry_run=False, field=None):
     """Normaliza títulos/subtítulos de um seminário no banco.
 
@@ -34,6 +37,9 @@ def normalizar_seminario(conn, slug, dry_run=False, field=None):
         title_col, subtitle_col = 'title_es', 'subtitle_es'
     else:
         title_col, subtitle_col = 'title', 'subtitle'
+
+    assert title_col in _VALID_COLS, f"Invalid column: {title_col}"
+    assert subtitle_col in _VALID_COLS, f"Invalid column: {subtitle_col}"
 
     rows = conn.execute(
         f'SELECT id, {title_col}, {subtitle_col} FROM articles WHERE seminar_slug = ? ORDER BY id',

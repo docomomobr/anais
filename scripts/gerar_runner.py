@@ -19,9 +19,14 @@ import os
 import re
 from datetime import date
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)
+DB_PATH = os.path.join(BASE_DIR, 'anais.db')
+REVISAO_DIR = os.path.join(BASE_DIR, 'revisao')
+
 
 def get_stats(slug):
-    db = sqlite3.connect('anais.db')
+    db = sqlite3.connect(DB_PATH)
     row = db.execute("""
         SELECT
             COUNT(*),
@@ -61,7 +66,7 @@ def pct(n, total):
 
 def show_status(slug):
     """Mostra progresso de um runner existente."""
-    path = f'revisao/{slug}-runner.md'
+    path = os.path.join(REVISAO_DIR, f'{slug}-runner.md')
     if not os.path.exists(path):
         print(f"Runner não existe: {path}")
         print(f"Gerar com: python3 scripts/gerar_runner.py {slug}")
@@ -115,7 +120,7 @@ def show_status(slug):
 
 def list_seminars():
     """Lista seminários no banco e runners existentes."""
-    db = sqlite3.connect('anais.db')
+    db = sqlite3.connect(DB_PATH)
     rows = db.execute("""
         SELECT s.slug, s.title, COUNT(a.id) as n
         FROM seminars s
@@ -127,8 +132,8 @@ def list_seminars():
 
     # Check existing runners
     runners = set()
-    if os.path.exists('revisao'):
-        for f in os.listdir('revisao'):
+    if os.path.exists(REVISAO_DIR):
+        for f in os.listdir(REVISAO_DIR):
             m = re.match(r'(.+)-runner\.md$', f)
             if m:
                 runners.add(m.group(1))
@@ -139,7 +144,7 @@ def list_seminars():
     for slug, title, n in rows:
         runner_status = ''
         if slug in runners:
-            path = f'revisao/{slug}-runner.md'
+            path = os.path.join(REVISAO_DIR, f'{slug}-runner.md')
             with open(path) as f:
                 content = f.read()
             done = len(re.findall(r'- \[x\]', content))
@@ -156,7 +161,7 @@ def list_seminars():
 
 def get_article_ids(slug):
     """Retorna lista de IDs dos artigos do seminário, em ordem."""
-    db = sqlite3.connect('anais.db')
+    db = sqlite3.connect(DB_PATH)
     rows = db.execute(
         "SELECT id FROM articles WHERE seminar_slug = ? ORDER BY id", (slug,)
     ).fetchall()
@@ -335,7 +340,7 @@ def main():
         show_status(args.slug)
         return
 
-    out = f'revisao/{args.slug}-runner.md'
+    out = os.path.join(REVISAO_DIR, f'{args.slug}-runner.md')
     if os.path.exists(out) and not args.force:
         print(f"Já existe: {out}")
         show_status(args.slug)
@@ -350,7 +355,7 @@ def main():
     gen = gen_revisao if args.type == 'revisao' else gen_producao
     content = gen(args.slug, stats)
 
-    os.makedirs('revisao', exist_ok=True)
+    os.makedirs(REVISAO_DIR, exist_ok=True)
     with open(out, 'w') as f:
         f.write(content)
     print(f"{out} ({stats['total']} artigos)")

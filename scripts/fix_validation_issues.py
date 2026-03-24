@@ -487,6 +487,9 @@ KW_JUNK_RE = re.compile(
 )
 
 
+_VALID_KW_COLS = {'keywords', 'keywords_en', 'keywords_es'}
+
+
 def clean_keywords(conn, slug, dry_run):
     """Limpeza automática de keywords: split, garbage, trimming.
 
@@ -515,6 +518,7 @@ def clean_keywords(conn, slug, dry_run):
         art_changed = False
 
         for field_val, col in [(kw, 'keywords'), (kw_en, 'keywords_en'), (kw_es, 'keywords_es')]:
+            assert col in _VALID_KW_COLS, f"Invalid column: {col}"
             if not field_val:
                 continue
             try:
