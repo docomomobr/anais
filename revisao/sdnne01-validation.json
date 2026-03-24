@@ -13,7 +13,53 @@
     "keywords_es": 0,
     "references_": 43
   },
-  "auto_fixed": [],
+  "auto_fixed": [
+    {
+      "check": "A25",
+      "article_id": "sdnne01-004",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: keywords coladas no final (pos 2449)",
+      "suggestion": "Cortar no marcador de keywords"
+    },
+    {
+      "check": "A29",
+      "article_id": "sdnne01-012",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: começa com pontuação/espaço indevido",
+      "suggestion": "Remover pontuação do início"
+    },
+    {
+      "check": "A29",
+      "article_id": "sdnne01-021",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: começa com pontuação/espaço indevido",
+      "suggestion": "Remover pontuação do início"
+    },
+    {
+      "check": "A29",
+      "article_id": "sdnne01-024",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: começa com pontuação/espaço indevido",
+      "suggestion": "Remover pontuação do início"
+    },
+    {
+      "check": "A29",
+      "article_id": "sdnne01-026",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract_en: começa com pontuação/espaço indevido",
+      "suggestion": "Remover pontuação do início"
+    }
+  ],
   "issues": [
     {
       "check": "A19",
