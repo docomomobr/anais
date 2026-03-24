@@ -63,7 +63,7 @@ RESULTS_PATH = os.path.join(BASE, 'orcid_results.json')
 
 ORCID_API = 'https://pub.orcid.org/v3.0'
 OPENALEX_API = 'https://api.openalex.org'
-OPENALEX_API_KEY = os.environ.get('OPENALEX_API_KEY', '1Vt5PmYGDGSkDFiDTCrpLI')
+OPENALEX_API_KEY = os.environ.get('OPENALEX_API_KEY', '')
 CONTACT_EMAIL = 'tesouraria.docomomobr@gmail.com'
 REQUEST_DELAY = 0.5  # seconds between API requests
 OPENALEX_DELAY = 0.15  # OpenAlex Polite Pool allows ~10 req/s

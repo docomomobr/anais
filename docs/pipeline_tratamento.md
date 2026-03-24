@@ -37,6 +37,18 @@ Quando existir um runner, **seguir o runner** — os pipelines (este documento e
 
 ---
 
+## Correspondência entre pipelines
+
+| Etapa | Tratamento | Revisão | Rev. Humana |
+|-------|-----------|---------|-------------|
+| Aquisição/extração | Fases 1–6 | — | — |
+| Banco + enriquecimento | Fase 7 | — | — |
+| Revisão automática | Fase 7.3 (→ rev.) | Fases 0–2 | — |
+| Revisão humana | — | — | Fases 3–5 |
+| Aprendizado | Fase 8 (→ rev.) | Fase 3 | — |
+
+---
+
 ## Fase 1 — Aquisição e organização dos fontes
 
 ### 1.1 Identificar tipo de fonte
@@ -531,7 +543,9 @@ Ver [`modulos_pipeline.md` §K](modulos_pipeline.md#k-verificação-de-abstracts
 
 ---
 
-## Fase 5 — Revisão humana
+## Fase 5 — Revisão humana (LEGACY)
+
+> **NOTA:** Este workflow (levas .txt com neovim) foi substituído pelo [pipeline de revisão humana](pipeline_revisao_humana.md) que usa HTML de revisão no navegador + anotações em `revisao/{slug}-rev.md`. Mantido aqui como referência histórica.
 
 ### 5.1 Sistema de 3 levas (`revisao/`)
 
@@ -654,71 +668,14 @@ python3 dict/dump_db.py
 
 Este ciclo de retroalimentação é cumulativo: cada seminário processado melhora o normalizador para os seguintes. Ver ciclo de aprendizado em [`modulos_pipeline.md` §L](modulos_pipeline.md#l-ciclo-de-aprendizado).
 
-### 7.3 Limpar e verificar referências
-```bash
-# Limpeza automática (underscores ABNT, URLs órfãs)
-python3 scripts/clean_references.py --slug {slug} --dry-run
-python3 scripts/clean_references.py --slug {slug}
+### 7.3–7.3f Revisão automática de metadados
 
-# Verificação de problemas restantes
-python3 scripts/check_references.py --slug {slug} --summary
-python3 scripts/check_references.py --slug {slug}
-```
-Ver § 4.4 para o sub-pipeline completo de limpeza de referências.
+Executar o [pipeline de revisão automática](pipeline_revisao.md) Fases 0–2 neste ponto. O pipeline cobre:
+- Diagnóstico e preenchimento de lacunas (Fase 0)
+- Normalização de títulos, limpeza de refs, keywords, validação, revisão LLM (Fase 1)
+- Geração do HTML de revisão (Fase 2)
 
-### 7.3b Sweep completo de referências
-Após a limpeza base (7.3), rodar a varredura completa em 8 passadas:
-
-```bash
-python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs --dry-run
-python3 scripts/fix_validation_issues.py --slug {slug} --sweep-refs
-```
-
-Resolve: lixo grosso, headers infiltrados, page breaks, fragmentos, endnotes, concatenadas, body text, near-dupes. Ver [`modulos_pipeline.md` §C](modulos_pipeline.md#c-sweep_refs--passadas-e-heurísticas) para detalhes das passadas e heurísticas.
-
-Após o sweep, re-rodar backfills (o sweep pode criar novos ao splittar refs):
-
-```bash
-python3 scripts/clean_references.py --slug {slug}
-```
-
-### 7.3c Verificar abstracts
-Rodar auto-fixes e verificar truncamento, lixo e contaminação de idiomas:
-
-```bash
-python3 scripts/validate_metadata.py --slug {slug} --fix
-```
-
-Detecta e corrige: overflows (A20), keywords coladas (A25), idioma errado (A26), PT no EN (A27). Ver [`modulos_pipeline.md` §K](modulos_pipeline.md#k-verificação-de-abstracts) para os 9 tipos de problema e código de detecção.
-
-**Regra — Verificar idioma ao inserir abstracts:** texto em espanhol → `abstract_es`, não `abstract`.
-
-### 7.3d Limpar keywords
-
-```bash
-python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords --dry-run
-python3 scripts/fix_validation_issues.py --slug {slug} --clean-keywords
-```
-
-Resolve: template garbage, split de keywords aglutinadas, trim de pontuação, dedup. Ver [`modulos_pipeline.md` §J](modulos_pipeline.md#j-keywords) para detalhes.
-
-### 7.3e Validação de metadados (loop)
-
-```bash
-python3 scripts/fix_validation_issues.py --slug {slug} --loop
-```
-
-Loop: validate_metadata --fix (auto-fixes A15–A27) → fix handlers (A07 abstract_en, A08 keywords_en, A19 abstract truncado) → repete até convergir (max 5 iterações). Ver [`modulos_pipeline.md` §G](modulos_pipeline.md#g-checks-de-validação-a01a27) para a lista completa de checks.
-
-### 7.3f Revisão LLM final — TODOS os artigos × TODOS os campos
-
-**OBRIGATÓRIA.** Para CADA artigo, ler a melhor fonte estruturada (`fontes_docx/*.jsonl` > `fontes_plumber/*.jsonl`) e confrontar CADA campo (título, subtítulo, abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto original. Corrigir na hora (R8). Registrar resultado de cada artigo no runner.
-
-Os scripts de leitura (`_read_fontes_lines`, `read_plumber_refs`, `read_plumber_abstract`) já seguem a hierarquia automaticamente: `fontes_docx/` > `fontes_plumber/` > `fontes/`.
-
-Esta etapa é o gate final antes de gerar o HTML de revisão. Pega problemas que as heurísticas não detectam: truncamentos sutis, refs faltantes, subtítulos não separados, keywords ausentes mas presentes no PDF.
-
-Ver [pipeline_revisao.md §1.10](pipeline_revisao.md) para procedimento detalhado.
+Após a Fase 2, submeter à [revisão humana](pipeline_revisao_humana.md).
 
 ### 7.4 Deduplicação de autores (AND)
 
@@ -883,6 +840,7 @@ Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_h
 | `extrair_metadados_doc.py` | 2.1 | Extrai metadados de editáveis (doc/docx/odt/rtf) via python-docx (`--apply`, `--slug`) |
 | `extrair_fontes_plumber.py` | 2.1 | Extrai texto estruturado dos PDFs via pdfplumber (`--profile-only`, `--slug`) |
 | `extrair_metadados_en.py` | 2.1d | Extrai title_en, abstract_en, keywords_en dos PDFs |
+| `extrair_titulo_es.py` | 1.1b | Extrai títulos ES dos PDFs (`--slug`, `--dry-run`, `--also-en`) |
 | `validate_metadata.py` | 7.3c | Validação abrangente: cruzamentos idioma, backfills, refs longas (`--fix`, `--slug`) |
 | `fix_validation_issues.py` | 7.3 | Sweep refs, clean keywords, loop validação (`--sweep-refs`, `--clean-keywords`, `--loop`) |
 | `gerar_revisao_html.py` | 7 | HTML de revisão por seminário (capa, ficha, artigos por seção) |

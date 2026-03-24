@@ -2,6 +2,16 @@
 
 Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executado **após** o [pipeline de revisão automática](pipeline_revisao.md) (Fases 0–2).
 
+## Correspondência entre pipelines
+
+| Etapa | Tratamento | Revisão | Rev. Humana |
+|-------|-----------|---------|-------------|
+| Aquisição/extração | Fases 1–6 | — | — |
+| Banco + enriquecimento | Fase 7 | — | — |
+| Revisão automática | Fase 7.3 (→ rev.) | Fases 0–2 | — |
+| Revisão humana | — | — | Fases 3–5 |
+| Aprendizado | Fase 8 (→ rev.) | Fase 3 | — |
+
 **Pré-requisitos:** Antes de iniciar a revisão humana, o seminário deve ter passado por:
 - Fase 0 — Diagnóstico e preenchimento de lacunas
 - Fase 1 — Revisão automática (normalização de títulos, limpeza de refs)

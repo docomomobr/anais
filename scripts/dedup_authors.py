@@ -1390,96 +1390,132 @@ def phase8_coauthors(cur, dry_run=False):
     processed = set()
 
     # Pré-computar tokens reais de cada autor
+    author_info = {}  # aid -> (gn, fn)
     author_tokens = {}
     for aid, gn, fn in authors:
+        author_info[aid] = (gn, fn)
         author_tokens[aid] = set(real_tokens(gn, fn))
 
-    # Para cada par de autores
-    for i in range(len(authors)):
-        for j in range(i + 1, len(authors)):
-            id1, gn1, fn1 = authors[i]
-            id2, gn2, fn2 = authors[j]
+    # Build inverted index: article -> set of author_ids
+    cur.execute('SELECT article_id, author_id FROM article_author')
+    article_to_authors = defaultdict(set)
+    author_to_articles = defaultdict(set)
+    for art_id, auth_id in cur.fetchall():
+        article_to_authors[art_id].add(auth_id)
+        author_to_articles[auth_id].add(art_id)
 
-            pair = (id1, id2)
-            if pair in processed or pair in SKIP_PAIRS:
+    # Build coauthor sets from inverted index (no per-pair DB queries)
+    coauthor_sets = {}
+    for aid in author_info:
+        coauths = set()
+        for art_id in author_to_articles.get(aid, set()):
+            coauths.update(article_to_authors[art_id])
+        coauths.discard(aid)
+        if coauths:
+            coauthor_sets[aid] = coauths
+
+    # Build candidate pairs: only authors that share at least one coauthor
+    # (i.e., author A has coauthor C, and author B also has coauthor C)
+    coauth_to_authors = defaultdict(set)
+    for aid, coauths in coauthor_sets.items():
+        for c in coauths:
+            coauth_to_authors[c].add(aid)
+
+    candidate_pairs = set()
+    for coauth_id, connected in coauth_to_authors.items():
+        connected_list = sorted(connected)
+        for i in range(len(connected_list)):
+            for j in range(i + 1, len(connected_list)):
+                candidate_pairs.add((connected_list[i], connected_list[j]))
+
+    # Pre-compute same-article pairs (coauthors on same paper = different people)
+    same_article_pairs = set()
+    for art_id, auth_ids in article_to_authors.items():
+        auth_list = sorted(auth_ids)
+        for i in range(len(auth_list)):
+            for j in range(i + 1, len(auth_list)):
+                same_article_pairs.add((auth_list[i], auth_list[j]))
+
+    # Only compare candidate pairs
+    for id1, id2 in sorted(candidate_pairs):
+        pair = (id1, id2)
+        if pair in processed or pair in SKIP_PAIRS:
+            continue
+
+        if id1 not in author_info or id2 not in author_info:
+            continue
+
+        gn1, fn1 = author_info[id1]
+        gn2, fn2 = author_info[id2]
+
+        t1 = author_tokens.get(id1, set())
+        t2 = author_tokens.get(id2, set())
+
+        # ≥3 palavras reais em comum (≥2 é muito frouxo)
+        common = t1 & t2
+        if len(common) < 3:
+            continue
+
+        # Primeiro nome real deve bater
+        first1 = first_real_token(gn1)
+        first2 = first_real_token(gn2)
+        if first1 != first2:
+            continue
+
+        # Já foi tratado por fases anteriores? (familyname idêntico)
+        if normalize_name(fn1) == normalize_name(fn2):
+            continue
+
+        # Familyname tokens devem ter overlap (evita "Ana Carolina Holanda" ↔ "Ana Carolina Freire")
+        fn1_tokens = set(t for t in normalize_name(fn1).split() if t not in PARTICLES and len(t) > 1)
+        fn2_tokens = set(t for t in normalize_name(fn2).split() if t not in PARTICLES and len(t) > 1)
+        if fn1_tokens and fn2_tokens and not (fn1_tokens & fn2_tokens):
+            # Verificar se familyname de um aparece no givenname do outro
+            gn1_tokens = set(t for t in normalize_name(gn1).split() if t not in PARTICLES and len(t) > 1)
+            gn2_tokens = set(t for t in normalize_name(gn2).split() if t not in PARTICLES and len(t) > 1)
+            if not (fn1_tokens & gn2_tokens) and not (fn2_tokens & gn1_tokens):
                 continue
 
-            t1 = author_tokens.get(id1, set())
-            t2 = author_tokens.get(id2, set())
+        processed.add(pair)
 
-            # ≥3 palavras reais em comum (≥2 é muito frouxo)
-            common = t1 & t2
-            if len(common) < 3:
-                continue
+        # NÃO contar se estão no MESMO artigo (seriam coautores = pessoas diferentes)
+        if pair in same_article_pairs:
+            continue  # Coautores no mesmo artigo = pessoas diferentes
 
-            # Primeiro nome real deve bater
-            first1 = first_real_token(gn1)
-            first2 = first_real_token(gn2)
-            if first1 != first2:
-                continue
+        # Verificar coautores em comum (from pre-computed sets)
+        shared = coauthor_sets.get(id1, set()) & coauthor_sets.get(id2, set())
 
-            # Já foi tratado por fases anteriores? (familyname idêntico)
-            if normalize_name(fn1) == normalize_name(fn2):
-                continue
+        if not shared:
+            continue
 
-            # Familyname tokens devem ter overlap (evita "Ana Carolina Holanda" ↔ "Ana Carolina Freire")
-            fn1_tokens = set(t for t in normalize_name(fn1).split() if t not in PARTICLES and len(t) > 1)
-            fn2_tokens = set(t for t in normalize_name(fn2).split() if t not in PARTICLES and len(t) > 1)
-            if fn1_tokens and fn2_tokens and not (fn1_tokens & fn2_tokens):
-                # Verificar se familyname de um aparece no givenname do outro
-                gn1_tokens = set(t for t in normalize_name(gn1).split() if t not in PARTICLES and len(t) > 1)
-                gn2_tokens = set(t for t in normalize_name(gn2).split() if t not in PARTICLES and len(t) > 1)
-                if not (fn1_tokens & gn2_tokens) and not (fn2_tokens & gn1_tokens):
-                    continue
+        # Verificar existência (pode ter sido mergeado em fase anterior)
+        cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (id1,))
+        r1 = cur.fetchone()
+        cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (id2,))
+        r2 = cur.fetchone()
+        if not r1 or not r2:
+            continue
 
-            processed.add(pair)
+        arts1 = get_author_articles(cur, id1)
+        arts2 = get_author_articles(cur, id2)
 
-            # Verificar coautores em comum
-            coauth1 = get_coauthor_ids(cur, id1)
-            coauth2 = get_coauthor_ids(cur, id2)
-            shared = coauth1 & coauth2
+        # Keep = mais artigos
+        if len(arts2) > len(arts1) or (len(arts2) == len(arts1) and len(t2) >= len(t1)):
+            keep_id, keep_gn, keep_fn = id2, gn2, fn2
+            remove_id, remove_gn, remove_fn = id1, gn1, fn1
+            arts_keep, arts_remove = arts2, arts1
+        else:
+            keep_id, keep_gn, keep_fn = id1, gn1, fn1
+            remove_id, remove_gn, remove_fn = id2, gn2, fn2
+            arts_keep, arts_remove = arts1, arts2
 
-            # NÃO contar se estão no MESMO artigo (seriam coautores = pessoas diferentes)
-            cur.execute('''
-                SELECT aa1.article_id FROM article_author aa1
-                JOIN article_author aa2 ON aa1.article_id = aa2.article_id
-                WHERE aa1.author_id = ? AND aa2.author_id = ?
-            ''', (id1, id2))
-            same_article = cur.fetchone()
-            if same_article:
-                continue  # Coautores no mesmo artigo = pessoas diferentes
-
-            if not shared:
-                continue
-
-            # Verificar existência (pode ter sido mergeado em fase anterior)
-            cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (id1,))
-            r1 = cur.fetchone()
-            cur.execute('SELECT id, givenname, familyname FROM authors WHERE id = ?', (id2,))
-            r2 = cur.fetchone()
-            if not r1 or not r2:
-                continue
-
-            arts1 = get_author_articles(cur, id1)
-            arts2 = get_author_articles(cur, id2)
-
-            # Keep = mais artigos
-            if len(arts2) > len(arts1) or (len(arts2) == len(arts1) and len(t2) >= len(t1)):
-                keep_id, keep_gn, keep_fn = id2, gn2, fn2
-                remove_id, remove_gn, remove_fn = id1, gn1, fn1
-                arts_keep, arts_remove = arts2, arts1
-            else:
-                keep_id, keep_gn, keep_fn = id1, gn1, fn1
-                remove_id, remove_gn, remove_fn = id2, gn2, fn2
-                arts_keep, arts_remove = arts1, arts2
-
-            if dry_run:
-                print(f'  MERGE: "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts) [{len(shared)} coautores em comum]')
-            else:
-                merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn,
-                              remove_gn, remove_fn, 'dedup_phase8_coauthors')
-                print(f'  ⊕ "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts) [{len(shared)} coautores em comum]')
-            merge_count += 1
+        if dry_run:
+            print(f'  MERGE: "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts) [{len(shared)} coautores em comum]')
+        else:
+            merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn,
+                          remove_gn, remove_fn, 'dedup_phase8_coauthors')
+            print(f'  ⊕ "{keep_gn} | {keep_fn}" ({len(arts_keep)} arts) << "{remove_gn} | {remove_fn}" ({len(arts_remove)} arts) [{len(shared)} coautores em comum]')
+        merge_count += 1
 
     print(f'  Merges: {merge_count}\n')
     return merge_count

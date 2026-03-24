@@ -56,21 +56,19 @@ def profile_seminar(pdf_dir, sample_n=10):
 
     for pdf_path in sample:
         try:
-            pdf = pdfplumber.open(pdf_path)
+            with pdfplumber.open(pdf_path) as pdf:
+                for i, page in enumerate(pdf.pages):
+                    for c in page.chars:
+                        s = round(c['size'], 1)
+                        size_freq_all[s] += 1
+                        if 2 <= i < len(pdf.pages) - 2:
+                            size_freq[s] += 1
+                        fn = c.get('fontname', '')
+                        if 'Bold' in fn:
+                            bold_sizes[s] += 1
         except Exception as e:
             print(f"  AVISO: não abriu {pdf_path}: {e}", file=sys.stderr)
             continue
-
-        for i, page in enumerate(pdf.pages):
-            for c in page.chars:
-                s = round(c['size'], 1)
-                size_freq_all[s] += 1
-                if 2 <= i < len(pdf.pages) - 2:
-                    size_freq[s] += 1
-                fn = c.get('fontname', '')
-                if 'Bold' in fn:
-                    bold_sizes[s] += 1
-        pdf.close()
 
     # Usar frequências das páginas internas para determinar corpo
     freq = size_freq if size_freq else size_freq_all
@@ -185,15 +183,13 @@ def adapt_profile(pdf_path, profile):
     recalibra os roles para esse artigo.
     """
     try:
-        pdf = pdfplumber.open(pdf_path)
+        with pdfplumber.open(pdf_path) as pdf:
+            size_freq = defaultdict(int)
+            for page in pdf.pages:
+                for c in page.chars:
+                    size_freq[round(c['size'], 1)] += 1
     except Exception:
         return profile
-
-    size_freq = defaultdict(int)
-    for page in pdf.pages:
-        for c in page.chars:
-            size_freq[round(c['size'], 1)] += 1
-    pdf.close()
 
     if not size_freq:
         return profile
@@ -259,87 +255,66 @@ def extract_blocks(pdf_path, profile):
 
     blocks = []
 
-    for page_idx, page in enumerate(pdf.pages):
-        chars = page.chars
-        if not chars:
-            continue
-
-        # Agrupar caracteres em linhas por posição Y
-        lines_by_y = defaultdict(list)
-        for c in chars:
-            y = round(c['top'], 0)
-            lines_by_y[y].append(c)
-
-        # Processar linhas em ordem
-        current_block = None
-
-        for y in sorted(lines_by_y.keys()):
-            line_chars = lines_by_y[y]
-            text = ''.join(c['text'] for c in line_chars).strip()
-            if not text:
+    with pdf:
+        for page_idx, page in enumerate(pdf.pages):
+            chars = page.chars
+            if not chars:
                 continue
 
-            # Tamanho dominante na linha
-            size_counts = defaultdict(int)
-            for c in line_chars:
-                size_counts[round(c['size'], 1)] += 1
-            dominant_size = max(size_counts, key=size_counts.get)
+            # Agrupar caracteres em linhas por posição Y
+            lines_by_y = defaultdict(list)
+            for c in chars:
+                y = round(c['top'], 0)
+                lines_by_y[y].append(c)
 
-            # Role da linha
-            # Verificar se é bold (para headings)
-            bold_chars = sum(1 for c in line_chars if 'Bold' in c.get('fontname', ''))
-            is_bold = bold_chars > len(line_chars) * 0.5
+            # Processar linhas em ordem
+            current_block = None
 
-            role = classify_char({'size': dominant_size}, profile)
+            for y in sorted(lines_by_y.keys()):
+                line_chars = lines_by_y[y]
+                text = ''.join(c['text'] for c in line_chars).strip()
+                if not text:
+                    continue
 
-            # Refinar: notas de rodapé ficam na parte inferior da página
-            # Se o texto é pequeno (≤ abstract_size) e está abaixo de 70%
-            # da página, é provavelmente nota de rodapé
-            page_height = page.height or 842
-            y_pct = y / page_height
-            if (role in ('abstract', 'small') and y_pct > 0.70 and
-                    dominant_size <= profile['abstract_size']):
-                role = 'footnote'
+                # Tamanho dominante na linha
+                size_counts = defaultdict(int)
+                for c in line_chars:
+                    size_counts[round(c['size'], 1)] += 1
+                dominant_size = max(size_counts, key=size_counts.get)
 
-            # Refinar: texto bold do tamanho do corpo pode ser sub-heading
-            if role == 'body' and is_bold and len(text) < 100:
-                role = 'subheading'
+                # Role da linha
+                # Verificar se é bold (para headings)
+                bold_chars = sum(1 for c in line_chars if 'Bold' in c.get('fontname', ''))
+                is_bold = bold_chars > len(line_chars) * 0.5
 
-            # Detectar número de página (linha curta, só dígitos)
-            clean = text.replace('⏐', '').strip()
-            if clean.isdigit() and len(clean) <= 4:
-                role = 'pagenum'
+                role = classify_char({'size': dominant_size}, profile)
 
-            # Font name dominante
-            font_counts = defaultdict(int)
-            for c in line_chars:
-                fn = c.get('fontname', '').split('+')[-1]
-                font_counts[fn] += 1
-            dominant_font = max(font_counts, key=font_counts.get)
+                # Refinar: notas de rodapé ficam na parte inferior da página
+                # Se o texto é pequeno (≤ abstract_size) e está abaixo de 70%
+                # da página, é provavelmente nota de rodapé
+                page_height = page.height or 842
+                y_pct = y / page_height
+                if (role in ('abstract', 'small') and y_pct > 0.70 and
+                        dominant_size <= profile['abstract_size']):
+                    role = 'footnote'
 
-            line_data = {
-                'page': page_idx + 1,
-                'font_size': dominant_size,
-                'font_name': dominant_font,
-                'role': role,
-                'text': text,
-                'y': y,
-                'bold': is_bold,
-            }
+                # Refinar: texto bold do tamanho do corpo pode ser sub-heading
+                if role == 'body' and is_bold and len(text) < 100:
+                    role = 'subheading'
 
-            # Agrupar linhas consecutivas com mesmo role na mesma página
-            if (current_block and
-                    current_block['role'] == role and
-                    current_block['page'] == page_idx + 1 and
-                    y - current_block['_last_y'] < 25):  # gap < 25pt
-                current_block['text'] += '\n' + text
-                current_block['_last_y'] = y
-                current_block['lines'] += 1
-            else:
-                if current_block:
-                    del current_block['_last_y']
-                    blocks.append(current_block)
-                current_block = {
+                # Detectar número de página (linha curta, só dígitos)
+                clean = text.replace('⏐', '').strip()
+                if clean.isdigit() and len(clean) <= 4:
+                    role = 'pagenum'
+
+                # Font name dominante
+                font_counts = defaultdict(int)
+                for c in line_chars:
+                    fn = c.get('fontname', '').split('+')[-1]
+                    font_counts[fn] += 1
+                dominant_font = max(font_counts, key=font_counts.get)
+
+                line_data = {
                     'page': page_idx + 1,
                     'font_size': dominant_size,
                     'font_name': dominant_font,
@@ -347,15 +322,35 @@ def extract_blocks(pdf_path, profile):
                     'text': text,
                     'y': y,
                     'bold': is_bold,
-                    'lines': 1,
-                    '_last_y': y,
                 }
 
-        if current_block:
-            del current_block['_last_y']
-            blocks.append(current_block)
+                # Agrupar linhas consecutivas com mesmo role na mesma página
+                if (current_block and
+                        current_block['role'] == role and
+                        current_block['page'] == page_idx + 1 and
+                        y - current_block['_last_y'] < 25):  # gap < 25pt
+                    current_block['text'] += '\n' + text
+                    current_block['_last_y'] = y
+                    current_block['lines'] += 1
+                else:
+                    if current_block:
+                        del current_block['_last_y']
+                        blocks.append(current_block)
+                    current_block = {
+                        'page': page_idx + 1,
+                        'font_size': dominant_size,
+                        'font_name': dominant_font,
+                        'role': role,
+                        'text': text,
+                        'y': y,
+                        'bold': is_bold,
+                        'lines': 1,
+                        '_last_y': y,
+                    }
 
-    pdf.close()
+            if current_block:
+                del current_block['_last_y']
+                blocks.append(current_block)
 
     # Pós-classificação posicional
     blocks = post_classify(blocks)

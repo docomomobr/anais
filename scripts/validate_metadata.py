@@ -79,6 +79,14 @@ AFFILIATION_START = re.compile(
 # Limiar para "campo esperado" no perfil do seminário
 FIELD_THRESHOLD = 0.30  # 30%
 
+# Whitelist of columns that can be used in dynamic SQL UPDATE statements
+_VALID_COLS = frozenset({
+    'abstract', 'abstract_en', 'abstract_es',
+    'keywords', 'keywords_en', 'keywords_es',
+    'references_', 'locale',
+    'title', 'subtitle', 'title_en', 'subtitle_en', 'title_es', 'subtitle_es',
+})
+
 # A23: boundary abstract PT → EN (pré-compilado)
 _EN_BOUNDARY_RE = re.compile(
     r'(?<=[.!?])\s+'
@@ -1213,6 +1221,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                 if 'set_field' in action:
                     field = action['set_field']
                     val = action['value']
+                    assert field in _VALID_COLS, f"Invalid column: {field}"
                     cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
                                 (val, article['id']))
                     auto_fixed.append(issue)
@@ -1221,6 +1230,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                     val = article.get(field)
                     if val:
                         cleaned = CONTROL_CHAR_RE.sub('', val)
+                        assert field in _VALID_COLS, f"Invalid column: {field}"
                         cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
                                     (cleaned, article['id']))
                         auto_fixed.append(issue)
@@ -1238,6 +1248,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                         cleaned = [CONTROL_CHAR_RE.sub('', k).strip() for k in kws]
                         # Filtrar keywords que ficaram vazias ou muito curtas após limpeza
                         cleaned = [k for k in cleaned if len(k) > 1]
+                        assert col in _VALID_COLS, f"Invalid column: {col}"
                         cur.execute(f"UPDATE articles SET {col} = ? WHERE id = ?",
                                     (json.dumps(cleaned, ensure_ascii=False), article['id']))
                         auto_fixed.append(issue)
@@ -1263,6 +1274,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             truncated = text[:best_pos].rstrip()
                             # Limpar: remover trailing whitespace/pipe
                             truncated = truncated.rstrip(' |')
+                            assert field in _VALID_COLS, f"Invalid column: {field}"
                             cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
                                         (truncated, article['id']))
                             auto_fixed.append(issue)
@@ -1271,6 +1283,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             last_dot = text.rfind('.', 0, 4500)
                             if last_dot > 100:
                                 truncated = text[:last_dot + 1]
+                                assert field in _VALID_COLS, f"Invalid column: {field}"
                                 cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
                                             (truncated, article['id']))
                                 auto_fixed.append(issue)
@@ -1306,12 +1319,15 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             auto_fixed.append(issue)
                 elif 'move_field' in action:
                     src, dst = action['move_field']
+                    assert src in _VALID_COLS, f"Invalid column: {src}"
+                    assert dst in _VALID_COLS, f"Invalid column: {dst}"
                     cur.execute(
                         f"UPDATE articles SET {dst} = {src}, {src} = NULL WHERE id = ?",
                         (article['id'],))
                     auto_fixed.append(issue)
                 elif 'null_field' in action:
                     field = action['null_field']
+                    assert field in _VALID_COLS, f"Invalid column: {field}"
                     cur.execute(f"UPDATE articles SET {field} = NULL WHERE id = ?",
                                 (article['id'],))
                     auto_fixed.append(issue)
@@ -1365,6 +1381,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                     if text and pos > 50 and pos < len(text):
                         cleaned = text[:pos].strip()
                         if len(cleaned) > 50:
+                            assert field in _VALID_COLS, f"Invalid column: {field}"
                             cur.execute(f"UPDATE articles SET {field} = ? WHERE id = ?",
                                         (cleaned, article['id']))
                             article[field] = cleaned

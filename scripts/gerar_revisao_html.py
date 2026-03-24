@@ -5,6 +5,7 @@ Produces a self-contained HTML file that mirrors the Hugo site layout:
 cover + metadata header, ficha catalográfica, TOC grouped by section,
 and full article details grouped by section.
 """
+import argparse
 import base64
 import re
 import sqlite3
@@ -32,14 +33,16 @@ COVER_DIRS = {
     'sdpr': 'regionais/sul/capas',
 }
 
-slug = sys.argv[1] if len(sys.argv) > 1 else 'sdpr02'
-# Optional: --articles id1,id2,id3 to filter specific articles
+parser = argparse.ArgumentParser(description='Gerar HTML de revisão por seminário')
+parser.add_argument('slug', help='Slug do seminário (ex: sdrj02)')
+parser.add_argument('--articles', help='Filtrar artigos específicos (ex: sdrj02-001,sdrj02-005)')
+args = parser.parse_args()
+slug = args.slug
 FILTER_IDS = None
 OUT_SUFFIX = ''
-for i, arg in enumerate(sys.argv):
-    if arg == '--articles' and i + 1 < len(sys.argv):
-        FILTER_IDS = set(sys.argv[i + 1].split(','))
-        OUT_SUFFIX = '-novos'
+if args.articles:
+    FILTER_IDS = set(args.articles.split(','))
+    OUT_SUFFIX = '-novos'
 REVISAO_DIR = os.path.join(REPO_ROOT, 'revisao')
 OUT = os.path.join(REVISAO_DIR, f'revisao-{slug}{OUT_SUFFIX}.html')
 
@@ -630,7 +633,10 @@ for sec_title, sec_articles in section_map.items():
         # References
         refs_html = fmt_refs(art['references_'])
         if refs_html:
-            n = len(json.loads(art['references_']))
+            try:
+                n = len(json.loads(art['references_']))
+            except (json.JSONDecodeError, TypeError):
+                n = 0
             lines.append(f'<div class="refs"><span class="label">Referências ({n})</span><ol>{refs_html}</ol></div>')
         else:
             lines.append('<div class="field"><span class="missing">Sem referências</span></div>')

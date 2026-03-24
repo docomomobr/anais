@@ -36,6 +36,18 @@ Para procedimentos detalhados, código e edge cases, ver [modulos_pipeline.md](m
 
 ---
 
+## Correspondência entre pipelines
+
+| Etapa | Tratamento | Revisão | Rev. Humana |
+|-------|-----------|---------|-------------|
+| Aquisição/extração | Fases 1–6 | — | — |
+| Banco + enriquecimento | Fase 7 | — | — |
+| Revisão automática | Fase 7.3 (→ rev.) | Fases 0–2 | — |
+| Revisão humana | — | — | Fases 3–5 |
+| Aprendizado | Fase 8 (→ rev.) | Fase 3 | — |
+
+---
+
 ## Template do rev-status
 
 Criar em `revisao/{slug}-rev-status.md` na etapa 0.0:
@@ -149,7 +161,9 @@ Criar em `revisao/{slug}-rev-status.md` na etapa 0.0:
 │     1.6a Cobertura de metadados (artigos)            │
 │     1.6b Metadados do seminário (verificar+preencher)│
 │     1.6c Seções (eixos) ou sessões (programa)        │
-│     1.6d Autores (completude e correção)             │
+│   1.7  Autores (completude vs PDF)                   │
+│   1.8  Dedup autores                                 │
+│   1.9  ORCID                                         │
 ├─────────────────────────────────────────────────────┤
 │ Fase 2 — Gerar HTML de revisão                      │
 ├─────────────────────────────────────────────────────┤
@@ -626,7 +640,7 @@ Gerar/atualizar a `description` (ficha catalográfica ABNT). Prioridade: transcr
 
 **Procedimento:** Verificar PDFs — extrair eixos — criar seções no banco (`INSERT INTO sections`) — mapear artigos — seções sem artigos ficam para documentar a estrutura. Capitalização: sentence case (converter ALL CAPS do PDF).
 
-### 1.6d Autores
+### 1.7 Autores: completude vs PDF
 
 > **GATE**: 1.6c ✅
 > **DONE**: autores verificados para TODOS os artigos
@@ -639,18 +653,34 @@ Se autores novos foram adicionados, rodar:
 
 ```bash
 python3 dict/seed_authors.py
+```
+
+Ver [ref S-I](modulos_pipeline.md#i-autores--detalhes) para código de verificação comparativa.
+
+### 1.8 Dedup autores
+
+> **GATE**: 1.7 ✅
+> **DONE**: zero merges pendentes
+
+```bash
 python3 scripts/dedup_authors.py --dry-run
 python3 scripts/dedup_authors.py
 python3 scripts/expand_initials.py --report
 python3 scripts/expand_initials.py --pilotis
+```
+
+### 1.9 ORCID
+
+> **GATE**: 1.8 ✅
+> **DONE**: ORCIDs buscados e aplicados
+
+```bash
 python3 scripts/fetch_orcid.py --search
 python3 scripts/fetch_orcid.py --review
 python3 scripts/fetch_orcid.py --apply
 ```
 
 **REGRA**: Se um autor novo foi adicionado, SEMPRE rodar o fluxo completo (seed — dedup — iniciais — ORCID).
-
-Ver [ref S-I](modulos_pipeline.md#i-autores--detalhes) para código de verificação comparativa.
 
 ### 1.10 Revisão LLM final — TODOS os artigos, TODOS os campos
 
