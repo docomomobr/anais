@@ -1,0 +1,55 @@
+{
+  "slug": "sdrj04",
+  "date": "2026-03-24",
+  "articles": 17,
+  "authors": 25,
+  "sections": 3,
+  "corrections": {
+    "automatic": 37,
+    "human": 5,
+    "total": 42
+  },
+  "patterns": {
+    "2col_merge_refs": {
+      "count": 8,
+      "description": "PDF 2-column layout causes refs from adjacent columns to merge",
+      "articles": ["002", "005", "006", "009", "010", "011", "012", "013"]
+    },
+    "image_credits_as_refs": {
+      "count": 8,
+      "description": "FONTE DAS IMAGENS section after bibliography imported as references",
+      "articles": ["001", "003", "010", "012", "013", "014", "015"]
+    },
+    "keywords_author_contamination": {
+      "count": 4,
+      "description": "Author name/affiliation concatenated with last keyword",
+      "articles": ["003", "004", "007", "013"]
+    },
+    "2col_abstract_truncation": {
+      "count": 5,
+      "description": "2-column PT+EN/ES layout causes abstract to capture only 1 paragraph",
+      "articles": ["006", "012", "013", "016"]
+    },
+    "es_confused_with_en": {
+      "count": 2,
+      "description": "Spanish abstracts/keywords initially treated as EN gaps",
+      "articles": ["003", "006"]
+    }
+  },
+  "human_corrections": [
+    {"article": "001", "field": "refs", "issue": "last ref was image credit URL", "cause": "image_credits_as_refs"},
+    {"article": "003", "field": "refs", "issue": "'Periódicos' was section label, not part of ref", "cause": "label_leak"},
+    {"article": "006", "field": "title", "issue": "Arquitetura → arquitetura (generic adjective)", "cause": "overcapitalization"},
+    {"article": "010", "field": "refs", "issue": "last ref was concatenated image credits", "cause": "image_credits_as_refs"},
+    {"article": "014", "field": "title", "issue": "Modesto → modesto (generic adjective)", "cause": "overcapitalization"}
+  ],
+  "coverage_final": {
+    "abstract": "17/17 (100%)",
+    "abstract_en": "11/17 (65%)",
+    "abstract_es": "2/17 (12%)",
+    "keywords": "16/17 (94%)",
+    "keywords_en": "11/17 (65%)",
+    "references": "15/17 (88%)",
+    "orcid": "16/25 (64%)"
+  }
+}

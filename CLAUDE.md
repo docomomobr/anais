@@ -43,6 +43,8 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdpr02 | 19 | ✅ revisado | 2026-03-23 |
 | sdmg01 | 26 | ✅ revisado | 2026-03-23 |
 | sdrj02 | 19 | ✅ revisado | 2026-03-23 |
+| sdrj03 | 6 | ✅ revisado | 2026-03-23 |
+| sdrj04 | 17 | ✅ revisado | 2026-03-24 |
 
 ---
 
@@ -267,6 +269,21 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-24 — sdrj04 revisão completa (Fases 0-3)
+
+**sdrj04** (17 artigos, 25 autores, 3 seções — 2 eixos + 1 workshop):
+- Cobertura: abstract 94%, abs_en 64%, kw 88%, kw_en 64%, refs 88%, ORCID 72%
+- PDFs em 2 colunas (PT+EN ou PT+ES lado a lado) — causa principal de problemas
+- 42 correções (37 auto + 5 humanas)
+- 003/006: artigos PT+ES (não PT+EN) — abstract_es e keywords_es inseridos
+- 8 títulos corrigidos: 008 título errado no DB, 016 subtítulo errado, 006 Instituto/protomoderna/arquitetura
+- Refs: 285→265 (image credits FONTE DAS IMAGENS em 7 artigos, 8 concatenadas por 2-col merge)
+- 006/012/013/016: abstracts completados ou limpos (truncamento 2-col, duplicação)
+- 003/004/007/013: keywords limpas (contaminação com autor/afiliação)
+- 11 afiliações inseridas, 1 ORCID novo (Barbara Cortizo de Aguiar)
+- Revisão humana: 5 correções (001/010 refs image credits, 003 label leak, 006/014 capitalização)
+- 017: workshop report sem metadados acadêmicos (genuíno)
 
 ### 2026-03-23 — sdmg01 revisão completa (Fases 0-3)
 

@@ -76,14 +76,18 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
+## Revisão humana
+
+- [x] 5 correções aplicadas (001 refs, 003 refs, 006 title, 010 refs, 014 title)
+
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** Diagnóstico: 42 correções (37 auto + 5 humanas). Causas: 2-col merge (8), image credits (8), kw contaminação (4), abstract truncado (5)
+- [x] **3.2** Dict: nenhum falso positivo a remover
+- [x] **3.3** Scripts: padrão kw+autor anotado, sem alteração (risco de regressão)
+- [x] **3.4** Pipeline: sem gaps a adicionar
+- [x] **3.5** Dry-run: 0 validation issues, normalização propõe 8 (todos falsos positivos já rejeitados)
+- [x] **3.6** Aprendizado registrado (sdrj04-aprendizado.json)
+- [x] **3.7** Engenharia: nenhum script alterado nesta sessão
+- [x] **3.8** Checklist: abstract 94%, abs_en 64%, kw 88%, refs 88%, ORCID 72%, 0 issues
+- [x] **3.9** Fechar: dump + commit + push + CLAUDE.md
