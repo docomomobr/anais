@@ -139,7 +139,7 @@ def extract_en_from_plumber(blocks):
 
         # Caso 1: heading "Abstract" — conteúdo nos blocos seguintes
         if b['role'] == 'heading' and re.match(r'\s*Abstract\s*:?\s*$', text, re.IGNORECASE):
-            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 5)):
+            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 10)):
                 nb = blocks[j]
                 if nb['role'] in ('abstract', 'small', 'body', 'footnote'):
                     nt = nb['text'].strip()
@@ -173,7 +173,7 @@ def extract_en_from_plumber(blocks):
                     abstract_en_parts.append(content)
 
             # Verificar blocos adjacentes (continuation em role=footnote/small)
-            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 4)):
+            for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 8)):
                 nb = blocks[j]
                 if nb['page'] != b['page'] and nb['page'] > b['page'] + 1:
                     break

@@ -1118,6 +1118,29 @@ def check_abstract_truncation(article):
     return issues
 
 
+def check_abstract_en_ratio(article):
+    """A32: abstract_en possivelmente truncado (ratio PT/EN < 0.65)."""
+    issues = []
+    aid = article['id']
+
+    pt = (article.get('abstract') or '').strip()
+    en = (article.get('abstract_en') or '').strip()
+
+    if not pt or not en or len(pt) < 200 or len(en) < 200:
+        return issues
+
+    ratio = len(en) / len(pt)
+    if ratio < 0.65:
+        issues.append({
+            'check': 'A32', 'article_id': aid, 'field': 'abstract_en',
+            'severity': 'warning', 'auto_fixable': False,
+            'detail': f'abstract_en possivelmente truncado (PT={len(pt)} EN={len(en)} ratio={ratio:.2f})',
+            'suggestion': 'Re-extrair do fontes/ ou do plumber',
+        })
+
+    return issues
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def validate_seminar(conn, slug, fix=False, dry_run=False):
@@ -1213,6 +1236,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_en_wrong_locale(article))
         issues.extend(check_es_in_pt_field(article))
         issues.extend(check_abstract_truncation(article))
+        issues.extend(check_abstract_en_ratio(article))
 
         # Aplicar auto-fixes
         for issue in issues:
@@ -1469,6 +1493,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A29': 'pontuação no início',
         'A30': 'abstract_en em ES',
         'A31': 'ES em campo PT',
+        'A32': 'abstract_en truncado?',
     }
 
     if not check_counts:
