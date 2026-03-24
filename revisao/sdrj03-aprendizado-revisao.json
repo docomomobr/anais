@@ -1,0 +1,24 @@
+{
+  "slug": "sdrj03",
+  "date": "2026-03-23",
+  "corrections": {
+    "automatic": {
+      "abstracts_replaced": 2,
+      "editorial_reclassified": 2,
+      "videos_inserted": 3,
+      "posters_ocr": 2,
+      "orcid_new": 2
+    },
+    "human": {
+      "count": 0,
+      "items": []
+    }
+  },
+  "root_causes": [],
+  "notes": {
+    "source": "CD-ROM: 2 PDFs (texto editorial 1p), 2 JPGs (pôsteres), 3 MP4 (mesa redonda + MOMOTUR)",
+    "poster_workflow": "JPG → img2pdf → ocrmypdf → pdfplumber. Documentado nos pipelines.",
+    "editorial": "001/002 marcados document_type=editorial, abstract=texto completo, sem PDF no Zenodo",
+    "videos": "Mesa redonda (Marcio Roberto, João Calafate, Luiz Felipe Machado) parte 1/2 + MOMOTUR"
+  }
+}

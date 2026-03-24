@@ -5446,5 +5446,6 @@ INSERT INTO "dict_names" VALUES('souto maior','expressao','Souto Maior','manual'
 INSERT INTO "dict_names" VALUES('vital brazil','expressao','Vital Brazil','manual');
 INSERT INTO "dict_names" VALUES('operadoras','nome','Operadoras','titulos');
 INSERT INTO "dict_names" VALUES('arquivologia','area','Arquivologia','manual');
+INSERT INTO "dict_names" VALUES('calafate','nome','Calafate','autores');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;
