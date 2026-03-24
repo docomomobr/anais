@@ -23,6 +23,8 @@ from collections import defaultdict
 
 import pdfplumber
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 
 # ---------------------------------------------------------------------------
 # Calibração: detectar papéis semânticos dos tamanhos de fonte
@@ -581,13 +583,13 @@ def write_jsonl(blocks, output_path):
 def find_pdf_dir(slug):
     """Localiza o diretório de PDFs para um slug."""
     # Nacionais
-    d = f'nacionais/{slug}/pdfs'
+    d = os.path.join(BASE_DIR, 'nacionais', slug, 'pdfs')
     if os.path.isdir(d):
         return d
 
     # Regionais
     for grupo in ['nne', 'se', 'sul']:
-        d = f'regionais/{grupo}/{slug}/pdfs'
+        d = os.path.join(BASE_DIR, 'regionais', grupo, slug, 'pdfs')
         if os.path.isdir(d):
             return d
 
@@ -597,7 +599,8 @@ def find_pdf_dir(slug):
 def find_output_dir(slug):
     """Localiza/cria o diretório de output para fontes_plumber."""
     # Mesmo nível do fontes/
-    for base in [f'nacionais/{slug}', *[f'regionais/{g}/{slug}' for g in ['nne', 'se', 'sul']]]:
+    for base in [os.path.join(BASE_DIR, 'nacionais', slug),
+                 *[os.path.join(BASE_DIR, 'regionais', g, slug) for g in ['nne', 'se', 'sul']]]:
         if os.path.isdir(base):
             out = os.path.join(base, 'fontes_plumber')
             os.makedirs(out, exist_ok=True)

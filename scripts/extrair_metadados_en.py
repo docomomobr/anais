@@ -817,9 +817,11 @@ def main():
     args = parser.parse_args()
 
     conn = sqlite3.connect(DB_PATH)
-    process_seminar(conn, args.slug, dry_run=args.dry_run, force=args.force,
-                    only_title=args.only_title)
-    conn.close()
+    try:
+        process_seminar(conn, args.slug, dry_run=args.dry_run, force=args.force,
+                        only_title=args.only_title)
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

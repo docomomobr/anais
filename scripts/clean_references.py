@@ -204,73 +204,74 @@ def main():
     args = parser.parse_args()
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
+    try:
+        cur = conn.cursor()
 
-    where = "WHERE references_ IS NOT NULL AND references_ != '' AND references_ != '[]'"
-    params = []
-    if args.slug:
-        where += " AND seminar_slug = ?"
-        params.append(args.slug)
+        where = "WHERE references_ IS NOT NULL AND references_ != '' AND references_ != '[]'"
+        params = []
+        if args.slug:
+            where += " AND seminar_slug = ?"
+            params.append(args.slug)
 
-    cur.execute(
-        f"SELECT id, file, seminar_slug, references_ FROM articles {where} ORDER BY file",
-        params
-    )
-    articles = cur.fetchall()
+        cur.execute(
+            f"SELECT id, file, seminar_slug, references_ FROM articles {where} ORDER BY file",
+            params
+        )
+        articles = cur.fetchall()
 
-    totals = {'articles': 0, 'split': 0, 'backfill': 0, 'join': 0,
-              'refs_before': 0, 'refs_after': 0}
+        totals = {'articles': 0, 'split': 0, 'backfill': 0, 'join': 0,
+                  'refs_before': 0, 'refs_after': 0}
 
-    for aid, fname, slug, refs_text in articles:
-        try:
-            refs = json.loads(refs_text)
-        except (json.JSONDecodeError, TypeError):
-            print(f"  WARN: {aid} ({fname}): JSON inválido em references_, pulando")
-            continue
-        if not isinstance(refs, list):
-            print(f"  WARN: {aid} ({fname}): references_ não é array, pulando")
-            continue
-        totals['refs_before'] += len(refs)
+        for aid, fname, slug, refs_text in articles:
+            try:
+                refs = json.loads(refs_text)
+            except (json.JSONDecodeError, TypeError):
+                print(f"  WARN: {aid} ({fname}): JSON inválido em references_, pulando")
+                continue
+            if not isinstance(refs, list):
+                print(f"  WARN: {aid} ({fname}): references_ não é array, pulando")
+                continue
+            totals['refs_before'] += len(refs)
 
-        cleaned, stats = clean_article_refs(refs)
-        totals['refs_after'] += len(cleaned)
+            cleaned, stats = clean_article_refs(refs)
+            totals['refs_after'] += len(cleaned)
 
-        changed = stats['split'] > 0 or stats['backfill'] > 0 or stats['join'] > 0
+            changed = stats['split'] > 0 or stats['backfill'] > 0 or stats['join'] > 0
 
-        if changed:
-            totals['articles'] += 1
-            totals['split'] += stats['split']
-            totals['backfill'] += stats['backfill']
-            totals['join'] += stats['join']
+            if changed:
+                totals['articles'] += 1
+                totals['split'] += stats['split']
+                totals['backfill'] += stats['backfill']
+                totals['join'] += stats['join']
 
-            if args.dry_run:
-                changes = []
-                if stats['split']:
-                    changes.append(f"{stats['split']} splits")
-                if stats['backfill']:
-                    changes.append(f"{stats['backfill']} backfills")
-                if stats['join']:
-                    changes.append(f"{stats['join']} joins")
-                print(f"  {fname}: {', '.join(changes)}")
-            else:
-                cur.execute("UPDATE articles SET references_ = ? WHERE id = ?",
-                            (json.dumps(cleaned, ensure_ascii=False), aid))
+                if args.dry_run:
+                    changes = []
+                    if stats['split']:
+                        changes.append(f"{stats['split']} splits")
+                    if stats['backfill']:
+                        changes.append(f"{stats['backfill']} backfills")
+                    if stats['join']:
+                        changes.append(f"{stats['join']} joins")
+                    print(f"  {fname}: {', '.join(changes)}")
+                else:
+                    cur.execute("UPDATE articles SET references_ = ? WHERE id = ?",
+                                (json.dumps(cleaned, ensure_ascii=False), aid))
 
-    if not args.dry_run:
-        conn.commit()
+        if not args.dry_run:
+            conn.commit()
 
-    print(f"\n=== Limpeza de referências ===")
-    if args.slug:
-        print(f"Seminário: {args.slug}")
-    print(f"Artigos modificados: {totals['articles']}")
-    print(f"Refs antes: {totals['refs_before']}")
-    print(f"Refs depois: {totals['refs_after']}")
-    print(f"Underscores split: {totals['split']}")
-    print(f"Autores backfilled: {totals['backfill']}")
-    print(f"URLs juntadas: {totals['join']}")
-    print(f"{'DRY RUN' if args.dry_run else 'APLICADO'}")
-
-    conn.close()
+        print(f"\n=== Limpeza de referências ===")
+        if args.slug:
+            print(f"Seminário: {args.slug}")
+        print(f"Artigos modificados: {totals['articles']}")
+        print(f"Refs antes: {totals['refs_before']}")
+        print(f"Refs depois: {totals['refs_after']}")
+        print(f"Underscores split: {totals['split']}")
+        print(f"Autores backfilled: {totals['backfill']}")
+        print(f"URLs juntadas: {totals['join']}")
+        print(f"{'DRY RUN' if args.dry_run else 'APLICADO'}")
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

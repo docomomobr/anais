@@ -179,22 +179,23 @@ def main():
           f'{s["lugares"]} lugares, {s["expressoes"]} expressões\n')
 
     conn = sqlite3.connect(DB_PATH)
+    try:
+        if args.slug:
+            slugs = [args.slug]
+        else:
+            rows = conn.execute(
+                "SELECT slug FROM seminars ORDER BY volume, number"
+            ).fetchall()
+            slugs = [r[0] for r in rows]
 
-    if args.slug:
-        slugs = [args.slug]
-    else:
-        rows = conn.execute(
-            "SELECT slug FROM seminars ORDER BY volume, number"
-        ).fetchall()
-        slugs = [r[0] for r in rows]
+        total = 0
+        for slug in slugs:
+            n = normalizar_seminario(conn, slug, dry_run=args.dry_run)
+            total += n
 
-    total = 0
-    for slug in slugs:
-        n = normalizar_seminario(conn, slug, dry_run=args.dry_run)
-        total += n
-
-    print(f'Total: {total} títulos EN alterados em {len(slugs)} seminários')
-    conn.close()
+        print(f'Total: {total} títulos EN alterados em {len(slugs)} seminários')
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

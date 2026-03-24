@@ -679,8 +679,10 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
                   license_id='cc-by-4.0'):
     """Upload the complete volume PDF as a Zenodo proceedings record."""
     db = get_db()
-    sem = db.execute('SELECT * FROM seminars WHERE slug = ?', (seminar_slug,)).fetchone()
-    db.close()
+    try:
+        sem = db.execute('SELECT * FROM seminars WHERE slug = ?', (seminar_slug,)).fetchone()
+    finally:
+        db.close()
     if not sem:
         print(f"Seminário '{seminar_slug}' não encontrado")
         return None, None
@@ -696,26 +698,28 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
     # Editors as creators (with ORCID lookup from authors table)
     editors_list = json.loads(sem['editors']) if sem['editors'] and sem['editors'].startswith('[') else []
     db2 = get_db()
-    creators = []
-    for name in editors_list:
-        name = name.strip()
-        if not name:
-            continue
-        parts = name.rsplit(' ', 1)
-        if len(parts) == 2:
-            given, family = parts[0], parts[1]
-        else:
-            given, family = '', name
-        person = {'type': 'personal', 'given_name': given, 'family_name': family}
-        # Lookup ORCID in authors table
-        row = db2.execute(
-            'SELECT orcid FROM authors WHERE givenname = ? AND familyname = ?',
-            (given, family)
-        ).fetchone()
-        if row and row['orcid']:
-            person['identifiers'] = [{'scheme': 'orcid', 'identifier': row['orcid']}]
-        creators.append({'person_or_org': person})
-    db2.close()
+    try:
+        creators = []
+        for name in editors_list:
+            name = name.strip()
+            if not name:
+                continue
+            parts = name.rsplit(' ', 1)
+            if len(parts) == 2:
+                given, family = parts[0], parts[1]
+            else:
+                given, family = '', name
+            person = {'type': 'personal', 'given_name': given, 'family_name': family}
+            # Lookup ORCID in authors table
+            row = db2.execute(
+                'SELECT orcid FROM authors WHERE givenname = ? AND familyname = ?',
+                (given, family)
+            ).fetchone()
+            if row and row['orcid']:
+                person['identifiers'] = [{'scheme': 'orcid', 'identifier': row['orcid']}]
+            creators.append({'person_or_org': person})
+    finally:
+        db2.close()
     if not creators:
         creators = [{'person_or_org': {'type': 'organizational', 'name': 'Docomomo Brasil'}}]
 
@@ -849,12 +853,14 @@ def upload_volume(session, base_url, token, seminar_slug, dry_run=False, communi
         db2 = get_db()
         try:
             db2.execute('ALTER TABLE seminars ADD COLUMN zenodo_doi TEXT')
-        except Exception:
-            pass  # column already exists
+        except sqlite3.OperationalError as e:
+            if 'duplicate column' not in str(e):
+                raise
         try:
             db2.execute('ALTER TABLE seminars ADD COLUMN zenodo_record_id TEXT')
-        except Exception:
-            pass  # column already exists
+        except sqlite3.OperationalError as e:
+            if 'duplicate column' not in str(e):
+                raise
         db2.execute('UPDATE seminars SET zenodo_doi=?, zenodo_record_id=? WHERE slug=?',
                     (doi, str(record_id), seminar_slug))
         db2.commit()

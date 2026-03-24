@@ -138,7 +138,11 @@ def yaml_escape(val):
     if val is None:
         return ''
     s = str(val)
-    s = s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', '\\n')
+    s = s.replace('\\', '\\\\').replace('"', '\\"')
+    s = s.replace('\t', '\\t').replace('\r', '\\r')
+    # Strip control characters (ord < 32) except \n
+    s = ''.join(c if c == '\n' or ord(c) >= 32 else '' for c in s)
+    s = s.replace('\n', '\\n')
     return s
 
 

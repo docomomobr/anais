@@ -194,7 +194,7 @@ def openalex_search(fullname, filter_br=True):
                 'cited_by_count': item.get('cited_by_count', 0),
             })
         return results
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'    ERRO OpenAlex: {e}')
         return []
 
@@ -293,7 +293,7 @@ def crossref_find_orcid(fullname, db_gn, db_fn):
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = json.loads(resp.read().decode('utf-8'))
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'CR-err ', end='', flush=True)
         return None, None
 
@@ -345,7 +345,7 @@ def semantic_scholar_find_orcid(fullname, db_gn, db_fn):
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = json.loads(resp.read().decode('utf-8'))
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'S2-err ', end='', flush=True)
         return None, None
 
@@ -402,7 +402,7 @@ def orcid_fulltext_search(fullname, db_gn, db_fn):
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode('utf-8'))
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         return None, None
 
     results = data.get('result', [])
@@ -470,7 +470,7 @@ def orcid_search(familyname, givenname_first):
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read().decode('utf-8'))
         return data
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'    ERRO search: {e}')
         return None
 
@@ -493,7 +493,7 @@ def orcid_employments(orcid_id):
                 city = addr.get('city', '')
                 orgs.append({'name': name, 'country': country, 'city': city})
         return orgs
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'    ERRO employments: {e}')
         return []
 
@@ -509,7 +509,7 @@ def orcid_person(orcid_id):
         gn = name.get('given-names', {}).get('value', '') if name.get('given-names') else ''
         fn = name.get('family-name', {}).get('value', '') if name.get('family-name') else ''
         return {'givenname': gn, 'familyname': fn}
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'    ERRO person: {e}')
         return {}
 
@@ -1127,7 +1127,7 @@ def scrape_faculty_page(url):
         ctx.verify_mode = __import__('ssl').CERT_NONE
         with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
             html = resp.read().decode('utf-8', errors='replace')
-    except Exception as e:
+    except (urllib.error.URLError, socket.timeout, OSError, json.JSONDecodeError, KeyError, ValueError) as e:
         print(f'    ERRO fetch {url}: {e}')
         return []
 

@@ -1343,8 +1343,9 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
                             auto_fixed.append(issue)
                 elif 'move_field' in action:
                     src, dst = action['move_field']
-                    assert src in _VALID_COLS, f"Invalid column: {src}"
-                    assert dst in _VALID_COLS, f"Invalid column: {dst}"
+                    _VALID_MOVE_COLS = {'abstract', 'abstract_en', 'abstract_es', 'keywords', 'keywords_en', 'keywords_es'}
+                    if src not in _VALID_MOVE_COLS or dst not in _VALID_MOVE_COLS:
+                        raise ValueError(f"move_field: invalid columns {src} → {dst}")
                     cur.execute(
                         f"UPDATE articles SET {dst} = {src}, {src} = NULL WHERE id = ?",
                         (article['id'],))
@@ -1579,28 +1580,29 @@ def main():
         args.fix = False
 
     conn = sqlite3.connect(DB_PATH)
-    cur = conn.cursor()
-
-    if args.slug:
-        slugs = [args.slug]
-    else:
-        cur.execute("SELECT DISTINCT seminar_slug FROM articles ORDER BY seminar_slug")
-        slugs = [r[0] for r in cur.fetchall()]
-
-    for slug in slugs:
-        issues, auto_fixed, profile = validate_seminar(
-            conn, slug, fix=args.fix, dry_run=args.dry_run)
-        print_summary(slug, issues, auto_fixed, profile)
+    try:
+        cur = conn.cursor()
 
         if args.slug:
-            save_report(slug, issues, auto_fixed, profile)
+            slugs = [args.slug]
+        else:
+            cur.execute("SELECT DISTINCT seminar_slug FROM articles ORDER BY seminar_slug")
+            slugs = [r[0] for r in cur.fetchall()]
 
-    if args.dry_run:
-        print("\nDRY RUN — nenhuma alteração aplicada")
-    elif args.fix:
-        print(f"\nALTERAÇÕES APLICADAS")
+        for slug in slugs:
+            issues, auto_fixed, profile = validate_seminar(
+                conn, slug, fix=args.fix, dry_run=args.dry_run)
+            print_summary(slug, issues, auto_fixed, profile)
 
-    conn.close()
+            if args.slug:
+                save_report(slug, issues, auto_fixed, profile)
+
+        if args.dry_run:
+            print("\nDRY RUN — nenhuma alteração aplicada")
+        elif args.fix:
+            print(f"\nALTERAÇÕES APLICADAS")
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

@@ -27,37 +27,38 @@ REVISAO_DIR = os.path.join(BASE_DIR, 'revisao')
 
 def get_stats(slug):
     db = sqlite3.connect(DB_PATH)
-    row = db.execute("""
-        SELECT
-            COUNT(*),
-            SUM(CASE WHEN abstract IS NOT NULL AND abstract != '' THEN 1 ELSE 0 END),
-            SUM(CASE WHEN abstract_en IS NOT NULL AND abstract_en != '' THEN 1 ELSE 0 END),
-            SUM(CASE WHEN keywords IS NOT NULL AND keywords != '' AND keywords != '[]' THEN 1 ELSE 0 END),
-            SUM(CASE WHEN keywords_en IS NOT NULL AND keywords_en != '' AND keywords_en != '[]' THEN 1 ELSE 0 END),
-            SUM(CASE WHEN references_ IS NOT NULL AND references_ != '' AND references_ != '[]' THEN 1 ELSE 0 END),
-            SUM(CASE WHEN title_en IS NOT NULL AND title_en != '' THEN 1 ELSE 0 END)
-        FROM articles WHERE seminar_slug = ?
-    """, (slug,)).fetchone()
+    try:
+        row = db.execute("""
+            SELECT
+                COUNT(*),
+                SUM(CASE WHEN abstract IS NOT NULL AND abstract != '' THEN 1 ELSE 0 END),
+                SUM(CASE WHEN abstract_en IS NOT NULL AND abstract_en != '' THEN 1 ELSE 0 END),
+                SUM(CASE WHEN keywords IS NOT NULL AND keywords != '' AND keywords != '[]' THEN 1 ELSE 0 END),
+                SUM(CASE WHEN keywords_en IS NOT NULL AND keywords_en != '' AND keywords_en != '[]' THEN 1 ELSE 0 END),
+                SUM(CASE WHEN references_ IS NOT NULL AND references_ != '' AND references_ != '[]' THEN 1 ELSE 0 END),
+                SUM(CASE WHEN title_en IS NOT NULL AND title_en != '' THEN 1 ELSE 0 END)
+            FROM articles WHERE seminar_slug = ?
+        """, (slug,)).fetchone()
 
-    if not row or row[0] == 0:
+        if not row or row[0] == 0:
+            return None
+
+        n_sections = db.execute(
+            "SELECT COUNT(*) FROM sections WHERE seminar_slug = ?", (slug,)
+        ).fetchone()[0]
+
+        return {
+            'total': row[0],
+            'abstract': row[1] or 0,
+            'abstract_en': row[2] or 0,
+            'keywords': row[3] or 0,
+            'keywords_en': row[4] or 0,
+            'refs': row[5] or 0,
+            'title_en': row[6] or 0,
+            'sections': n_sections,
+        }
+    finally:
         db.close()
-        return None
-
-    n_sections = db.execute(
-        "SELECT COUNT(*) FROM sections WHERE seminar_slug = ?", (slug,)
-    ).fetchone()[0]
-
-    db.close()
-    return {
-        'total': row[0],
-        'abstract': row[1] or 0,
-        'abstract_en': row[2] or 0,
-        'keywords': row[3] or 0,
-        'keywords_en': row[4] or 0,
-        'refs': row[5] or 0,
-        'title_en': row[6] or 0,
-        'sections': n_sections,
-    }
 
 
 def pct(n, total):
@@ -121,14 +122,16 @@ def show_status(slug):
 def list_seminars():
     """Lista seminários no banco e runners existentes."""
     db = sqlite3.connect(DB_PATH)
-    rows = db.execute("""
-        SELECT s.slug, s.title, COUNT(a.id) as n
-        FROM seminars s
-        LEFT JOIN articles a ON a.seminar_slug = s.slug
-        GROUP BY s.slug
-        ORDER BY s.slug
-    """).fetchall()
-    db.close()
+    try:
+        rows = db.execute("""
+            SELECT s.slug, s.title, COUNT(a.id) as n
+            FROM seminars s
+            LEFT JOIN articles a ON a.seminar_slug = s.slug
+            GROUP BY s.slug
+            ORDER BY s.slug
+        """).fetchall()
+    finally:
+        db.close()
 
     # Check existing runners
     runners = set()
@@ -162,11 +165,13 @@ def list_seminars():
 def get_article_ids(slug):
     """Retorna lista de IDs dos artigos do seminário, em ordem."""
     db = sqlite3.connect(DB_PATH)
-    rows = db.execute(
-        "SELECT id FROM articles WHERE seminar_slug = ? ORDER BY id", (slug,)
-    ).fetchall()
-    db.close()
-    return [r[0] for r in rows]
+    try:
+        rows = db.execute(
+            "SELECT id FROM articles WHERE seminar_slug = ? ORDER BY id", (slug,)
+        ).fetchall()
+        return [r[0] for r in rows]
+    finally:
+        db.close()
 
 
 def gen_revisao(slug, s):

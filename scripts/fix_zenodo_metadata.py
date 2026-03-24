@@ -83,6 +83,7 @@ def fix_article(session, token, db, article_id, dry_run=False):
     )
     if r.status_code not in (200, 201):
         print(f"  ERRO ao importar arquivos: {r.status_code} {r.text[:300]}")
+        return False
 
     # 3. PUT full metadata
     r = session.put(

@@ -225,7 +225,7 @@ def merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_f
             INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source)
             VALUES (?, ?, ?, ?)
         ''', (keep_id, remove_gn, remove_fn, source))
-    except Exception:
+    except sqlite3.IntegrityError:
         pass
 
     # 2. Mover vínculos article_author
@@ -261,6 +261,10 @@ def merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_f
         if rem[1] and not kp[1]:
             updates['orcid'] = rem[1]
     if updates:
+        _VALID_AUTHOR_UPDATE_COLS = {'email', 'orcid', 'givenname', 'familyname'}
+        for k in updates:
+            if k not in _VALID_AUTHOR_UPDATE_COLS:
+                raise ValueError(f"merge_authors: invalid column '{k}'")
         sets = ', '.join(f'{k} = ?' for k in updates)
         cur.execute(f'UPDATE authors SET {sets} WHERE id = ?',
                     list(updates.values()) + [keep_id])
