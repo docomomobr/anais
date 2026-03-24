@@ -268,10 +268,11 @@ def main():
             removed = original_count - len(refs)
             print(f"  {article_id}: {original_count} → {len(refs)} refs ({removed} removed)")
 
-    if not dry_run:
-        conn.commit()
-
-    conn.close()
+    try:
+        if not dry_run:
+            conn.commit()
+    finally:
+        conn.close()
 
     print(f"\n{'DRY RUN - ' if dry_run else ''}Summary:")
     print(f"  Articles modified: {stats['articles_modified']}")

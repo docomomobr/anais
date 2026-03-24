@@ -189,6 +189,10 @@ def update_author_contact(cur, author_id, email, orcid):
     if orcid and not current[1]:
         updates['orcid'] = orcid
     if updates:
+        _VALID_AUTHOR_COLS = {'email', 'orcid'}
+        for k in updates:
+            if k not in _VALID_AUTHOR_COLS:
+                raise ValueError(f"update_author_contact: invalid column '{k}'")
         sets = ', '.join(f'{k} = ?' for k in updates)
         cur.execute(f'UPDATE authors SET {sets} WHERE id = ?',
                     list(updates.values()) + [author_id])

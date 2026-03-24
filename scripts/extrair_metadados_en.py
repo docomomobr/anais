@@ -192,6 +192,79 @@ def extract_en_from_plumber(blocks):
                 elif nb['role'] in ('heading', 'body'):
                     break
 
+    # Caso 3: sem marcador "Abstract" — buscar blocos abstract com texto EN
+    if not abstract_en_parts and abstract_marker_idx is None:
+        for i, b in enumerate(blocks):
+            if b['role'] != 'abstract':
+                continue
+            text = b['text'].strip()
+            if len(text) < 150:
+                continue
+            # Rejeitar blocos que são claramente PT
+            if looks_like_pt(text[:200]):
+                continue
+            # Rejeitar cabeçalhos de seminário (ex: "2º Seminário DOCOMOMO")
+            if re.match(r'^\d+[ºªo]\s+Semin', text):
+                continue
+            # Rejeitar blocos de afiliação/email
+            if '@' in text[:200]:
+                continue
+            # Verificar presença de palavras EN comuns
+            first200 = text[:200].lower()
+            en_words = len(re.findall(
+                r'\b(the|of|and|in|to|is|was|that|for|with|this|from|are|an|'
+                r'which|has|been|its|by|as|on|at|or|it|were|have|not|but|'
+                r'between|their|these|modern|architecture|city|building)\b',
+                first200))
+            if en_words < 3:
+                continue
+            # Bloco EN encontrado — extrair
+            clean = text
+            # Remover label "Abstract" se presente no início
+            clean = re.sub(r'^Abstract\s*:?\s*', '', clean, flags=re.IGNORECASE).strip()
+            # Remover keywords no final
+            m_kw = re.search(r'\n\s*Key[\s-]*[Ww]ords?\s*:(.+?)$', clean, re.IGNORECASE | re.DOTALL)
+            if m_kw:
+                if keywords_en_raw is None:
+                    keywords_en_raw = m_kw.group(1).strip()
+                clean = clean[:m_kw.start()].strip()
+            # Remover "Words keys:" no final (variante)
+            m_wk = re.search(r'\n\s*Words?\s*keys?\s*:(.+?)$', clean, re.IGNORECASE | re.DOTALL)
+            if m_wk:
+                if keywords_en_raw is None:
+                    keywords_en_raw = m_wk.group(1).strip()
+                clean = clean[:m_wk.start()].strip()
+            if len(clean) > 100:
+                abstract_en_parts.append(clean)
+                # Check next blocks for continuation
+                for j in range(i + 1, min(len(blocks), i + 8)):
+                    nb = blocks[j]
+                    nt = nb['text'].strip()
+                    # Skip pagenum and short footnotes (seminar headers, page footers)
+                    if nb['role'] == 'pagenum':
+                        continue
+                    if nb['role'] == 'footnote' and len(nt) < 200:
+                        continue
+                    if nb['role'] not in ('abstract', 'small', 'footnote', 'body'):
+                        break
+                    if len(nt) < 50:
+                        continue
+                    # PT block after EN = end of EN section
+                    if looks_like_pt(nt[:200]):
+                        break
+                    if re.match(r'\s*Key[\s-]*[Ww]ords?\s*:', nt, re.IGNORECASE):
+                        kw_part = re.sub(r'^\s*Key[\s-]*[Ww]ords?\s*:\s*', '', nt,
+                                         flags=re.IGNORECASE).strip()
+                        if keywords_en_raw is None:
+                            keywords_en_raw = kw_part
+                        break
+                    en_ct = len(re.findall(
+                        r'\b(the|of|and|in|to|is|was|that|for|with|this|from|are)\b',
+                        nt[:200].lower()))
+                    if en_ct >= 2:
+                        abstract_en_parts.append(nt)
+                break  # Só o primeiro bloco EN encontrado
+
     if abstract_en_parts:
         ae = ' '.join(abstract_en_parts)
         ae = re.sub(r'\n', ' ', ae).strip()

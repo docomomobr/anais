@@ -219,67 +219,71 @@ def get_author_articles(cur, author_id):
 
 def merge_authors(cur, keep_id, remove_id, keep_gn, keep_fn, remove_gn, remove_fn, source='dedup'):
     """Faz merge de remove_id em keep_id."""
-    # 1. Registrar variante
     try:
-        cur.execute('''
-            INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source)
-            VALUES (?, ?, ?, ?)
-        ''', (keep_id, remove_gn, remove_fn, source))
-    except sqlite3.IntegrityError:
-        pass
-
-    # 2. Mover vínculos article_author
-    cur.execute('''
-        SELECT article_id, seq, primary_contact, affiliation, bio, country
-        FROM article_author WHERE author_id = ?
-    ''', (remove_id,))
-    links = cur.fetchall()
-
-    for article_id, seq, pc, affil, bio, country in links:
-        cur.execute('''
-            SELECT 1 FROM article_author
-            WHERE article_id = ? AND author_id = ?
-        ''', (article_id, keep_id))
-        if cur.fetchone():
-            cur.execute('DELETE FROM article_author WHERE article_id = ? AND author_id = ?',
-                        (article_id, remove_id))
-        else:
+        # 1. Registrar variante
+        try:
             cur.execute('''
-                UPDATE article_author SET author_id = ?
+                INSERT OR IGNORE INTO author_variants (author_id, givenname, familyname, source)
+                VALUES (?, ?, ?, ?)
+            ''', (keep_id, remove_gn, remove_fn, source))
+        except sqlite3.IntegrityError:
+            pass
+
+        # 2. Mover vínculos article_author
+        cur.execute('''
+            SELECT article_id, seq, primary_contact, affiliation, bio, country
+            FROM article_author WHERE author_id = ?
+        ''', (remove_id,))
+        links = cur.fetchall()
+
+        for article_id, seq, pc, affil, bio, country in links:
+            cur.execute('''
+                SELECT 1 FROM article_author
                 WHERE article_id = ? AND author_id = ?
-            ''', (keep_id, article_id, remove_id))
+            ''', (article_id, keep_id))
+            if cur.fetchone():
+                cur.execute('DELETE FROM article_author WHERE article_id = ? AND author_id = ?',
+                            (article_id, remove_id))
+            else:
+                cur.execute('''
+                    UPDATE article_author SET author_id = ?
+                    WHERE article_id = ? AND author_id = ?
+                ''', (keep_id, article_id, remove_id))
 
-    # 3. Mover email/orcid se keep não tem
-    cur.execute('SELECT email, orcid FROM authors WHERE id = ?', (remove_id,))
-    rem = cur.fetchone()
-    cur.execute('SELECT email, orcid FROM authors WHERE id = ?', (keep_id,))
-    kp = cur.fetchone()
-    updates = {}
-    if rem and kp:
-        if rem[0] and not kp[0]:
-            updates['email'] = rem[0]
-        if rem[1] and not kp[1]:
-            updates['orcid'] = rem[1]
-    if updates:
-        _VALID_AUTHOR_UPDATE_COLS = {'email', 'orcid', 'givenname', 'familyname'}
-        for k in updates:
-            if k not in _VALID_AUTHOR_UPDATE_COLS:
-                raise ValueError(f"merge_authors: invalid column '{k}'")
-        sets = ', '.join(f'{k} = ?' for k in updates)
-        cur.execute(f'UPDATE authors SET {sets} WHERE id = ?',
-                    list(updates.values()) + [keep_id])
+        # 3. Mover email/orcid se keep não tem
+        cur.execute('SELECT email, orcid FROM authors WHERE id = ?', (remove_id,))
+        rem = cur.fetchone()
+        cur.execute('SELECT email, orcid FROM authors WHERE id = ?', (keep_id,))
+        kp = cur.fetchone()
+        updates = {}
+        if rem and kp:
+            if rem[0] and not kp[0]:
+                updates['email'] = rem[0]
+            if rem[1] and not kp[1]:
+                updates['orcid'] = rem[1]
+        if updates:
+            _VALID_AUTHOR_UPDATE_COLS = {'email', 'orcid', 'givenname', 'familyname'}
+            for k in updates:
+                if k not in _VALID_AUTHOR_UPDATE_COLS:
+                    raise ValueError(f"merge_authors: invalid column '{k}'")
+            sets = ', '.join(f'{k} = ?' for k in updates)
+            cur.execute(f'UPDATE authors SET {sets} WHERE id = ?',
+                        list(updates.values()) + [keep_id])
 
-    # 4. Atualizar givenname/familyname se remove é mais completo
-    best_gn = longer_name(keep_gn, remove_gn)
-    if best_gn != keep_gn:
-        cur.execute('UPDATE authors SET givenname = ? WHERE id = ?', (best_gn, keep_id))
+        # 4. Atualizar givenname/familyname se remove é mais completo
+        best_gn = longer_name(keep_gn, remove_gn)
+        if best_gn != keep_gn:
+            cur.execute('UPDATE authors SET givenname = ? WHERE id = ?', (best_gn, keep_id))
 
-    # 5. Mover variantes que apontavam para remove
-    cur.execute('UPDATE author_variants SET author_id = ? WHERE author_id = ?',
-                (keep_id, remove_id))
+        # 5. Mover variantes que apontavam para remove
+        cur.execute('UPDATE author_variants SET author_id = ? WHERE author_id = ?',
+                    (keep_id, remove_id))
 
-    # 6. Deletar autor removido
-    cur.execute('DELETE FROM authors WHERE id = ?', (remove_id,))
+        # 6. Deletar autor removido
+        cur.execute('DELETE FROM authors WHERE id = ?', (remove_id,))
+    except Exception:
+        cur.connection.rollback()
+        raise
 
 
 def split_name_canonical(full_tokens_with_particles):

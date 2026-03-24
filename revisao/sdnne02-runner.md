@@ -82,7 +82,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
+- [x] **2.0** Validação + HTML + commits (758d085)
   ```
   python3 scripts/validate_metadata.py --slug sdnne02 --fix
   python3 scripts/gerar_revisao_html.py sdnne02
@@ -90,16 +90,20 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   git add anais.sql revisao/sdnne02-* && git commit -m "sdnne02 revisão automática (Fases 0-2)"
   ```
 
-→ Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
+## Revisão humana
+
+- [x] 3 correções aplicadas (005 abstract_en lixo removido, 009 subtitle Arquitetura→arquitetura, 031 title arquitetura moderna→Arquitetura Moderna)
+
+→ Próximo: Fase 3
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** Diagnóstico: 143 correções (140 auto + 3 humanas). Causa principal: abstract_en não extraído (20 arts), refs quebradas (55 fixes)
+- [x] **3.2** Dict: 7 genéricos removidos (arquiteto, materiais, tombamento, tradição, etc.) + STOPWORDS
+- [x] **3.3** Scripts: extrair_metadados_en.py Caso 3 (abstract_en sem marcador "Abstract"), continuação pula footnotes curtos
+- [x] **3.4** Pipeline: sem gaps a adicionar
+- [x] **3.5** Dry-run: 0 regressões em sdbr01/sdbr08/sdsul06/sdnne01
+- [x] **3.6** Aprendizado registrado (sdnne02-aprendizado.json)
+- [x] **3.7** Engenharia: 42 scripts auditados, 10 fixes (2 HIGH + 8 MEDIUM)
+- [x] **3.8** Checklist: abstract 100%, abs_en 93%, kw 96%, kw_en 78%, refs 100%, ORCID 70%, 8 issues genuínos
+- [x] **3.9** Fechar: dump + commit + push + CLAUDE.md

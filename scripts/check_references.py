@@ -195,17 +195,19 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    try:
+        where = "WHERE references_ IS NOT NULL AND references_ != '' AND references_ != '[]'"
+        params = []
+        if args.slug:
+            where += " AND seminar_slug = ?"
+            params.append(args.slug)
 
-    where = "WHERE references_ IS NOT NULL AND references_ != '' AND references_ != '[]'"
-    params = []
-    if args.slug:
-        where += " AND seminar_slug = ?"
-        params.append(args.slug)
-
-    rows = conn.execute(
-        f"SELECT id, seminar_slug, references_ FROM articles {where} ORDER BY id",
-        params
-    ).fetchall()
+        rows = conn.execute(
+            f"SELECT id, seminar_slug, references_ FROM articles {where} ORDER BY id",
+            params
+        ).fetchall()
+    finally:
+        conn.close()
 
     # Classificar problemas em categorias
     TYPE_MAP = {
@@ -256,8 +258,6 @@ def main():
                         continue
 
                 all_issues.append((article_id, ref_idx, ref_text, prob_type, prob_desc))
-
-    conn.close()
 
     # Mostrar resultado
     if args.summary:

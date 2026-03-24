@@ -46,6 +46,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdrj03 | 6 | ✅ revisado | 2026-03-23 |
 | sdrj04 | 17 | ✅ revisado | 2026-03-24 |
 | sdnne01 | 44 | ✅ revisado | 2026-03-24 |
+| sdnne02 | 33 | ✅ revisado | 2026-03-24 |
 
 ---
 
@@ -270,6 +271,34 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-24 — sdnne02 revisão completa (Fases 0-3)
+
+**sdnne02** (33 artigos, 44 autores, 1 seção — Artigos Completos):
+- Cobertura: abstract 100%, abs_en 93%, kw 96%, kw_en 78%, refs 100%, ORCID 70%
+- Fonte: RAR/CD-ROM (sem doc/docx), plumber (5329 blocos)
+- 143 correções (140 auto + 3 humanas)
+- 20 abstract_en extraídos do plumber (Caso 3: sem marcador "Abstract" explícito)
+- 4 abstract_en limpos (contaminação com legendas/notas de figuras)
+- 11 títulos corrigidos vs PDF + 13 reversões do normalizador
+- Refs: 611→620 (55 correções LLM: splits, joins, missing, truncated, hyphens)
+- 033 reclassificado como mesa (texto de conferência, sem abstract/kw/refs)
+- 4 afiliações corrigidas (009 Miranda FAU-UFPA, 015 Costa/Rodrigues Filho UnB, 029 Zein UPM)
+- Revisão humana: 3 correções (005 abstract_en lixo, 009 subtitle, 031 title capitalização)
+
+**extrair_metadados_en.py — novo Caso 3:**
+- Quando não há marcador "Abstract" explícito (heading ou inline), busca blocos `abstract` role com texto EN
+- Detecção por: ausência de acentos PT + presença de ≥3 palavras EN comuns
+- Continuação de blocos pula footnotes curtos (<200c) e pagenum
+- 0 regressões nos seminários revisados (sdbr01/sdbr08/sdsul06/sdnne01)
+
+**dict — 7 genéricos removidos:**
+- arquiteto, arquitetos, materiais, tombamento, tradição, anexo, judiciário
+- Adicionados ao STOPWORDS de seed_titles.py para evitar reinserção
+
+**Engenharia (42 scripts auditados):**
+- 2 HIGH: SQL injection guards (import_yaml_to_db.py, extrair_metadados_doc.py)
+- 8 MEDIUM: conn try/finally (fix_capitalization, check_quality, check_references, fix_references, extract_title_en_sdbr13, validar_abstracts, extrair_titulo_es) + hardcoded DB_PATH (validar_abstracts, extrair_titulo_es) + dedup rollback
 
 ### 2026-03-24 — sdnne01 revisão completa (Fases 0-3)
 

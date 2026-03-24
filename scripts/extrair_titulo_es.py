@@ -19,7 +19,8 @@ import sys
 import pdfplumber
 
 
-DB_PATH = "anais.db"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
 
 # ── Detecção de idioma EN vs ES ──────────────────────────────────────────────
@@ -340,9 +341,11 @@ def main():
             values = list(updates.values()) + [art_id]
             cur.execute(f"UPDATE articles SET {set_clause} WHERE id = ?", values)
 
-    if not args.dry_run:
-        conn.commit()
-    conn.close()
+    try:
+        if not args.dry_run:
+            conn.commit()
+    finally:
+        conn.close()
 
     print(f"\n{'[DRY-RUN] ' if args.dry_run else ''}Resultado:")
     print(f"  Extraídos: {stats['extracted']}")

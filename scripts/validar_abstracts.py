@@ -22,7 +22,8 @@ import re
 import sqlite3
 import sys
 
-DB_PATH = "anais.db"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
 # ── Detecção de idioma leve (sem dependência externa) ────────────────────────
 
@@ -226,48 +227,48 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
-
-    if args.slug:
-        slugs = [args.slug]
-    else:
-        slugs = [row[0] for row in conn.execute(
-            "SELECT DISTINCT seminar_slug FROM articles ORDER BY seminar_slug").fetchall()]
-
-    grand_totals = {}
-
-    for slug in slugs:
-        issues = validate_seminar(conn, slug, fix_swap=args.fix_swap)
-
-        if not issues:
-            continue
-
-        if args.summary:
-            cats = {}
-            for art_id, art_issues in issues:
-                for cat, msg in art_issues:
-                    cats[cat] = cats.get(cat, 0) + 1
-            if cats:
-                total_arts = conn.execute("SELECT COUNT(*) FROM articles WHERE seminar_slug=?", (slug,)).fetchone()[0]
-                print(f"\n{slug} ({total_arts} artigos, {len(issues)} com problemas):")
-                for cat, count in sorted(cats.items(), key=lambda x: -x[1]):
-                    print(f"  {cat}: {count}")
-                    grand_totals[cat] = grand_totals.get(cat, 0) + count
+    try:
+        if args.slug:
+            slugs = [args.slug]
         else:
+            slugs = [row[0] for row in conn.execute(
+                "SELECT DISTINCT seminar_slug FROM articles ORDER BY seminar_slug").fetchall()]
+
+        grand_totals = {}
+
+        for slug in slugs:
+            issues = validate_seminar(conn, slug, fix_swap=args.fix_swap)
+
+            if not issues:
+                continue
+
+            if args.summary:
+                cats = {}
+                for art_id, art_issues in issues:
+                    for cat, msg in art_issues:
+                        cats[cat] = cats.get(cat, 0) + 1
+                if cats:
+                    total_arts = conn.execute("SELECT COUNT(*) FROM articles WHERE seminar_slug=?", (slug,)).fetchone()[0]
+                    print(f"\n{slug} ({total_arts} artigos, {len(issues)} com problemas):")
+                    for cat, count in sorted(cats.items(), key=lambda x: -x[1]):
+                        print(f"  {cat}: {count}")
+                        grand_totals[cat] = grand_totals.get(cat, 0) + count
+            else:
+                print(f"\n{'='*60}")
+                print(f"{slug}")
+                print(f"{'='*60}")
+                for art_id, art_issues in issues:
+                    for cat, msg in art_issues:
+                        print(f"  {art_id} [{cat}]: {msg}")
+
+        if args.summary and grand_totals:
             print(f"\n{'='*60}")
-            print(f"{slug}")
+            print("TOTAL")
             print(f"{'='*60}")
-            for art_id, art_issues in issues:
-                for cat, msg in art_issues:
-                    print(f"  {art_id} [{cat}]: {msg}")
-
-    if args.summary and grand_totals:
-        print(f"\n{'='*60}")
-        print("TOTAL")
-        print(f"{'='*60}")
-        for cat, count in sorted(grand_totals.items(), key=lambda x: -x[1]):
-            print(f"  {cat}: {count}")
-
-    conn.close()
+            for cat, count in sorted(grand_totals.items(), key=lambda x: -x[1]):
+                print(f"  {cat}: {count}")
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

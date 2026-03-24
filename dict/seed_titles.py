@@ -95,6 +95,9 @@ STOPWORDS = {
     'subordinação', 'subversão', 'aproveitamento',
     'heroicos', 'pragmáticos', 'pertinência', 'regeneração',
     'estruturar', 'desconstruindo',
+    # Genéricos encontrados erroneamente no dict (sdnne02, 2026-03-24)
+    'arquiteto', 'arquitetos', 'materiais', 'tombamento', 'tradição',
+    'anexo', 'judiciário',
 }
 
 

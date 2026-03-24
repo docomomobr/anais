@@ -1,0 +1,52 @@
+{
+  "seminar": "sdnne02",
+  "date": "2026-03-24",
+  "articles": 33,
+  "corrections": {
+    "total": 143,
+    "automatic": 140,
+    "human": 3
+  },
+  "patterns": [
+    {
+      "pattern": "abstract_en not imported from original YAML",
+      "count": 20,
+      "cause": "Original import pre-dated plumber extraction; abstract_en blocks in plumber not loaded",
+      "fix": "Manual extraction from plumber blocks (role=abstract, EN text detection)",
+      "articles": ["001","002","003","005","006","010","013","014","015","018","019","023","024","025","026","027","028","029","030","031"]
+    },
+    {
+      "pattern": "refs concatenated/split across PDF pages",
+      "count": 55,
+      "cause": "PDF line breaks and page breaks split or join refs incorrectly",
+      "fix": "LLM review comparing each ref with plumber blocks",
+      "articles": ["001","003","004","005","006","007","012","013","014","015","016","017","018","020","021","022","023","024","025","026","028","029","030","031","032"]
+    },
+    {
+      "pattern": "abstract_en contaminated with figure captions/footnotes",
+      "count": 4,
+      "cause": "Plumber classifies captions as abstract role in some PDFs",
+      "fix": "Trim at contamination boundary (Fig./Figura markers)",
+      "articles": ["014","018","025","030"]
+    },
+    {
+      "pattern": "normalizer capitalizes generic words from dict",
+      "count": 13,
+      "cause": "seed_titles.py added generic words (arquiteto, materiais, etc.) to dict_names",
+      "fix": "Removed 7 generics from dict, added to STOPWORDS",
+      "words": ["arquiteto","arquitetos","materiais","tombamento","tradição","anexo","judiciário"]
+    },
+    {
+      "pattern": "keywords with numbering prefix or bad translation",
+      "count": 4,
+      "cause": "PDF had numbered keywords (1. 2. 3.) and 'Tumble' instead of 'Heritage listing'",
+      "fix": "Strip numbering, fix translation",
+      "articles": ["020","021"]
+    }
+  ],
+  "human_corrections": [
+    {"article": "sdnne02-005", "field": "abstract_en", "issue": "trailing ref 'SEGAWA, 1997.' in abstract"},
+    {"article": "sdnne02-009", "field": "subtitle", "issue": "Arquitetura→arquitetura (genérico neste contexto)"},
+    {"article": "sdnne02-031", "field": "title", "issue": "arquitetura moderna→Arquitetura Moderna (expressão consolidada)"}
+  ]
+}

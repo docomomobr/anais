@@ -130,124 +130,124 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    try:
+        if args.slug:
+            slugs = [args.slug]
+        elif args.all:
+            slugs = [r['slug'] for r in conn.execute('SELECT slug FROM seminars ORDER BY volume, number')]
+        else:
+            slugs = [r['slug'] for r in conn.execute(
+                "SELECT slug FROM seminars WHERE slug NOT LIKE 'sdbr%' ORDER BY volume, number"
+            )]
 
-    if args.slug:
-        slugs = [args.slug]
-    elif args.all:
-        slugs = [r['slug'] for r in conn.execute('SELECT slug FROM seminars ORDER BY volume, number')]
-    else:
-        slugs = [r['slug'] for r in conn.execute(
-            "SELECT slug FROM seminars WHERE slug NOT LIKE 'sdbr%' ORDER BY volume, number"
-        )]
+        total_issues = 0
+        total_fixed = 0
 
-    total_issues = 0
-    total_fixed = 0
+        for slug in slugs:
+            articles = conn.execute(
+                'SELECT id, title, subtitle, keywords, keywords_en FROM articles WHERE seminar_slug=? ORDER BY id',
+                (slug,)
+            ).fetchall()
 
-    for slug in slugs:
-        articles = conn.execute(
-            'SELECT id, title, subtitle, keywords, keywords_en FROM articles WHERE seminar_slug=? ORDER BY id',
-            (slug,)
-        ).fetchall()
+            slug_issues = 0
 
-        slug_issues = 0
+            for art in articles:
+                for field in ['title', 'subtitle']:
+                    val = art[field]
+                    if not val:
+                        continue
 
-        for art in articles:
-            for field in ['title', 'subtitle']:
-                val = art[field]
-                if not val:
-                    continue
+                    # UFs minúsculas
+                    uf_fixes = check_lowercase_uf(val)
+                    if uf_fixes:
+                        new_val = apply_text_fixes(val, uf_fixes)
+                        ufs = ', '.join(f.upper() for _, _, f in uf_fixes)
+                        print(f'  UF  {art["id"]} {field}: {ufs}')
+                        print(f'       {val[:120]}')
+                        slug_issues += 1
+                        if args.fix:
+                            conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
+                            total_fixed += 1
 
-                # UFs minúsculas
-                uf_fixes = check_lowercase_uf(val)
-                if uf_fixes:
-                    new_val = apply_text_fixes(val, uf_fixes)
-                    ufs = ', '.join(f.upper() for _, _, f in uf_fixes)
-                    print(f'  UF  {art["id"]} {field}: {ufs}')
-                    print(f'       {val[:120]}')
+                    # Estado/Município
+                    est_fixes = check_lowercase_estado(val)
+                    if est_fixes:
+                        new_val = apply_text_fixes(val, est_fixes)
+                        print(f'  EST  {art["id"]} {field}: estado→Estado')
+                        print(f'       {val[:120]}')
+                        slug_issues += 1
+                        if args.fix:
+                            current = conn.execute(f'SELECT {field} FROM articles WHERE id=?', (art['id'],)).fetchone()[0]
+                            new_val = apply_text_fixes(current, check_lowercase_estado(current))
+                            conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
+                            total_fixed += 1
+
+                    # En-dash
+                    dash_fixes = check_date_ranges(val)
+                    if dash_fixes:
+                        new_val = apply_text_fixes(val, dash_fixes)
+                        print(f'  DASH {art["id"]} {field}: {val[:120]}')
+                        slug_issues += 1
+                        if args.fix:
+                            # Re-read in case UF fix already applied
+                            current = conn.execute(f'SELECT {field} FROM articles WHERE id=?', (art['id'],)).fetchone()[0]
+                            new_val = apply_text_fixes(current, check_date_ranges(current))
+                            conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
+                            total_fixed += 1
+
+                    # Nomes de edifícios (apenas alerta, não auto-fix)
+                    bldg = check_building_names(val)
+                    if bldg:
+                        for b in bldg:
+                            print(f'  BLDG {art["id"]} {field}: {b}')
+                        slug_issues += len(bldg)
+
+                # Keywords numeradas
+                for kfield in ['keywords', 'keywords_en']:
+                    bad_kws = check_numbered_keywords(art[kfield])
+                    if bad_kws:
+                        print(f'  KW#  {art["id"]} {kfield}: {bad_kws}')
+                        slug_issues += 1
+
+            # Autores com familyname multi-palavra
+            authors = conn.execute('''
+                SELECT DISTINCT au.id, au.givenname, au.familyname
+                FROM authors au JOIN article_author aa ON aa.author_id=au.id
+                JOIN articles a ON a.id=aa.article_id
+                WHERE a.seminar_slug=?
+            ''', (slug,)).fetchall()
+
+            for au in authors:
+                if check_multiword_familyname(au['givenname'], au['familyname']):
+                    print(f'  NAME {slug} author {au["id"]}: {au["givenname"]} | {au["familyname"]}')
                     slug_issues += 1
-                    if args.fix:
-                        conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
-                        total_fixed += 1
 
-                # Estado/Município
-                est_fixes = check_lowercase_estado(val)
-                if est_fixes:
-                    new_val = apply_text_fixes(val, est_fixes)
-                    print(f'  EST  {art["id"]} {field}: estado→Estado')
-                    print(f'       {val[:120]}')
-                    slug_issues += 1
-                    if args.fix:
-                        current = conn.execute(f'SELECT {field} FROM articles WHERE id=?', (art['id'],)).fetchone()[0]
-                        new_val = apply_text_fixes(current, check_lowercase_estado(current))
-                        conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
-                        total_fixed += 1
+            # Bios com whitespace
+            bios = conn.execute('''
+                SELECT aa.article_id, au.givenname, au.familyname, aa.bio
+                FROM article_author aa JOIN authors au ON au.id=aa.author_id
+                JOIN articles a ON a.id=aa.article_id
+                WHERE a.seminar_slug=? AND aa.bio IS NOT NULL
+            ''', (slug,)).fetchall()
 
-                # En-dash
-                dash_fixes = check_date_ranges(val)
-                if dash_fixes:
-                    new_val = apply_text_fixes(val, dash_fixes)
-                    print(f'  DASH {art["id"]} {field}: {val[:120]}')
-                    slug_issues += 1
-                    if args.fix:
-                        # Re-read in case UF fix already applied
-                        current = conn.execute(f'SELECT {field} FROM articles WHERE id=?', (art['id'],)).fetchone()[0]
-                        new_val = apply_text_fixes(current, check_date_ranges(current))
-                        conn.execute(f'UPDATE articles SET {field}=? WHERE id=?', (new_val, art['id']))
-                        total_fixed += 1
-
-                # Nomes de edifícios (apenas alerta, não auto-fix)
-                bldg = check_building_names(val)
-                if bldg:
-                    for b in bldg:
-                        print(f'  BLDG {art["id"]} {field}: {b}')
-                    slug_issues += len(bldg)
-
-            # Keywords numeradas
-            for kfield in ['keywords', 'keywords_en']:
-                bad_kws = check_numbered_keywords(art[kfield])
-                if bad_kws:
-                    print(f'  KW#  {art["id"]} {kfield}: {bad_kws}')
+            for b in bios:
+                if check_bio_whitespace(b['bio']):
+                    print(f'  BIO  {b["article_id"]}: {b["givenname"]} {b["familyname"]} — whitespace excessivo')
                     slug_issues += 1
 
-        # Autores com familyname multi-palavra
-        authors = conn.execute('''
-            SELECT DISTINCT au.id, au.givenname, au.familyname
-            FROM authors au JOIN article_author aa ON aa.author_id=au.id
-            JOIN articles a ON a.id=aa.article_id
-            WHERE a.seminar_slug=?
-        ''', (slug,)).fetchall()
+            if slug_issues:
+                print(f'  === {slug}: {slug_issues} problemas ===\n')
+            total_issues += slug_issues
 
-        for au in authors:
-            if check_multiword_familyname(au['givenname'], au['familyname']):
-                print(f'  NAME {slug} author {au["id"]}: {au["givenname"]} | {au["familyname"]}')
-                slug_issues += 1
-
-        # Bios com whitespace
-        bios = conn.execute('''
-            SELECT aa.article_id, au.givenname, au.familyname, aa.bio
-            FROM article_author aa JOIN authors au ON au.id=aa.author_id
-            JOIN articles a ON a.id=aa.article_id
-            WHERE a.seminar_slug=? AND aa.bio IS NOT NULL
-        ''', (slug,)).fetchall()
-
-        for b in bios:
-            if check_bio_whitespace(b['bio']):
-                print(f'  BIO  {b["article_id"]}: {b["givenname"]} {b["familyname"]} — whitespace excessivo')
-                slug_issues += 1
-
-        if slug_issues:
-            print(f'  === {slug}: {slug_issues} problemas ===\n')
-        total_issues += slug_issues
-
-    if args.fix:
-        conn.commit()
-        print(f'\nTotal: {total_issues} problemas encontrados, {total_fixed} corrigidos automaticamente')
-    else:
-        print(f'\nTotal: {total_issues} problemas encontrados')
-        if total_issues:
-            print('Use --fix para aplicar correções automáticas (UF, en-dash)')
-
-    conn.close()
+        if args.fix:
+            conn.commit()
+            print(f'\nTotal: {total_issues} problemas encontrados, {total_fixed} corrigidos automaticamente')
+        else:
+            print(f'\nTotal: {total_issues} problemas encontrados')
+            if total_issues:
+                print('Use --fix para aplicar correções automáticas (UF, en-dash)')
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

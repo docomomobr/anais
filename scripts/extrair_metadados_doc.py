@@ -1013,7 +1013,14 @@ def _run_extraction(conn, args, editable_files):
                 updates.append((db_col, db_val))
 
             if updates:
+                _VALID_DOC_COLS = frozenset({
+                    'abstract', 'abstract_en', 'abstract_es',
+                    'keywords', 'keywords_en', 'keywords_es',
+                    'references_',
+                })
                 for db_col, db_val in updates:
+                    if db_col not in _VALID_DOC_COLS:
+                        raise ValueError(f"extrair_metadados_doc: invalid column '{db_col}'")
                     conn.execute(
                         f'UPDATE articles SET {db_col} = ? WHERE id = ?',
                         (db_val, art_id))

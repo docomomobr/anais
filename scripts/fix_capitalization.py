@@ -168,8 +168,10 @@ if cur.rowcount:
 # ═══════════════════════════════════════════════════════════════
 # COMMIT & REPORT
 # ═══════════════════════════════════════════════════════════════
-db.commit()
-db.close()
+try:
+    db.commit()
+finally:
+    db.close()
 
 print(f"\n{'='*50}")
 print(f"Total DB changes: {total}")
