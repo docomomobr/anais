@@ -45,6 +45,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdrj02 | 19 | ✅ revisado | 2026-03-23 |
 | sdrj03 | 6 | ✅ revisado | 2026-03-23 |
 | sdrj04 | 17 | ✅ revisado | 2026-03-24 |
+| sdnne01 | 44 | ✅ revisado | 2026-03-24 |
 
 ---
 
@@ -269,6 +270,35 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-24 — sdnne01 revisão completa (Fases 0-3)
+
+**sdnne01** (44 artigos, 73 autores, 10 seções — 8 mesas + Apresentação Oral + Pôsteres):
+- Cobertura: abstract 100%, abs_en 95%, kw 100%, kw_en 86%, refs 100%, ORCID 58%
+- Fonte: CD-ROM (sem doc/docx), plumber (8023 blocos)
+- 190 correções (185 auto + 5 humanas)
+- 12 abstract_en truncados da importação YAML original — completados via plumber
+- 16 títulos corrigidos vs PDF (009 "na cidade de Fortaleza" removido, 029 caatinga→sertão, 031 norte-nordeste hifenizado)
+- Refs: 693→684 (sweep + LLM review: splits, joins, missing, non-refs)
+- 10 autores corrigidos (001/006 autores removidos, 016 autora adicionada, 021 +3 autores), 61 afiliações
+- Seções reordenadas (mesas 1-8 por número)
+- 031 reclassificado como resumo
+- Dedup: Mariana Bonates (2→1), Ceila Cardoso (2→1)
+- 1 ORCID novo (Hélio Takashi Maciel de Farias, UFRN)
+- Revisão humana: 5 correções (009 ponto final, 001 título, 020/029 abstract_en truncado, 031 resumo)
+
+**validate_metadata.py — novo check A32:**
+- Detecta abstract_en truncado via ratio PT/EN < 0.65
+- Captura truncamentos que A19 (pontuação final) não detectava
+- 0 falsos positivos nos seminários revisados
+
+**extrair_metadados_en.py — limites de blocos aumentados:**
+- Caso 1 (heading "Abstract"): 5→10 blocos
+- Caso 2 (inline "Abstract:"): 4→8 blocos de continuação
+
+**Engenharia (18 scripts auditados):**
+- 1 HIGH: upload_zenodo.py file handle leak corrigido
+- 6 MEDIUM: SQL injection guards assert→ValueError (seed_authors, seed_titles, normalizar_maiusculas, fix_validation_issues), whitelist em fix_a19 e extrair_metadados_en
 
 ### 2026-03-24 — sdrj04 revisão completa (Fases 0-3)
 

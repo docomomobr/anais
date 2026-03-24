@@ -777,7 +777,11 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
         print(f'{art_id:<15} {title_display:<60} {sub_flag:<5} {status_title}')
 
         # Aplicar ao banco
+        _VALID_EN_COLS = {'title_en', 'subtitle_en', 'abstract_en', 'keywords_en'}
         if updates and not dry_run:
+            for k in updates:
+                if k not in _VALID_EN_COLS:
+                    raise ValueError(f"extrair_metadados_en: campo inválido '{k}'")
             set_clauses = ', '.join(f'{k} = ?' for k in updates)
             values = list(updates.values()) + [art_id]
             conn.execute(f'UPDATE articles SET {set_clauses} WHERE id = ?', values)

@@ -1,75 +1,20 @@
 {
   "slug": "sdnne01",
   "date": "2026-03-24",
-  "total_articles": 44,
+  "total_articles": 43,
   "profile": {
-    "total": 44,
+    "total": 43,
     "locale_es": 0,
-    "abstract": 44,
+    "abstract": 43,
     "abstract_en": 41,
     "abstract_es": 0,
-    "keywords": 44,
-    "keywords_en": 38,
+    "keywords": 43,
+    "keywords_en": 37,
     "keywords_es": 0,
     "references_": 43
   },
-  "auto_fixed": [
-    {
-      "check": "A25",
-      "article_id": "sdnne01-004",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "abstract_en: keywords coladas no final (pos 2449)",
-      "suggestion": "Cortar no marcador de keywords"
-    },
-    {
-      "check": "A29",
-      "article_id": "sdnne01-012",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "abstract_en: começa com pontuação/espaço indevido",
-      "suggestion": "Remover pontuação do início"
-    },
-    {
-      "check": "A29",
-      "article_id": "sdnne01-021",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "abstract_en: começa com pontuação/espaço indevido",
-      "suggestion": "Remover pontuação do início"
-    },
-    {
-      "check": "A29",
-      "article_id": "sdnne01-024",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "abstract_en: começa com pontuação/espaço indevido",
-      "suggestion": "Remover pontuação do início"
-    },
-    {
-      "check": "A29",
-      "article_id": "sdnne01-026",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "abstract_en: começa com pontuação/espaço indevido",
-      "suggestion": "Remover pontuação do início"
-    }
-  ],
+  "auto_fixed": [],
   "issues": [
-    {
-      "check": "A19",
-      "article_id": "sdnne01-009",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...r the town and for the academic teaching\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
     {
       "check": "A01",
       "article_id": "sdnne01-010",
@@ -125,13 +70,13 @@
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
     },
     {
-      "check": "A02",
-      "article_id": "sdnne01-031",
+      "check": "A32",
+      "article_id": "sdnne01-030",
       "field": "abstract_en",
       "severity": "warning",
       "auto_fixable": false,
-      "detail": "keywords_en presente mas abstract_en faltando",
-      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+      "detail": "abstract_en possivelmente truncado (PT=1734 EN=917 ratio=0.53)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
     }
   ],
   "category_b_candidates": []

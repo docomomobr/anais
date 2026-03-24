@@ -518,7 +518,8 @@ def clean_keywords(conn, slug, dry_run):
         art_changed = False
 
         for field_val, col in [(kw, 'keywords'), (kw_en, 'keywords_en'), (kw_es, 'keywords_es')]:
-            assert col in _VALID_KW_COLS, f"Invalid column: {col}"
+            if col not in _VALID_KW_COLS:
+                raise ValueError(f"Invalid column: {col}")
             if not field_val:
                 continue
             try:
@@ -1263,9 +1264,13 @@ def fix_a19(conn, slug, issues, fontes_dir, dry_run):
     if not a19_issues or not fontes_dir:
         return 0
 
+    _VALID_ABSTRACT_COLS = {'abstract', 'abstract_en', 'abstract_es'}
+
     for issue in a19_issues:
         art_id = issue['article_id']
         field = issue['field']
+        if field not in _VALID_ABSTRACT_COLS:
+            raise ValueError(f"fix_a19: campo inválido '{field}'")
 
         # Ler abstract atual
         cur.execute(f"SELECT {field} FROM articles WHERE id = ?", (art_id,))

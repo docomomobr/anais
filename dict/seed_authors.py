@@ -79,9 +79,12 @@ _VALID_COLS = {'givenname', 'familyname', 'name', 'title', 'subtitle'}
 
 
 def seed(source_db, table='authors', gn_col='givenname', fn_col='familyname'):
-    assert table in _VALID_TABLES, f"Invalid table: {table}"
-    assert gn_col in _VALID_COLS, f"Invalid column: {gn_col}"
-    assert fn_col in _VALID_COLS, f"Invalid column: {fn_col}"
+    if table not in _VALID_TABLES:
+        raise ValueError(f"Invalid table: {table}")
+    if gn_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {gn_col}")
+    if fn_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {fn_col}")
 
     if not os.path.exists(DICT_DB):
         print(f'ERRO: {DICT_DB} não existe. Rode init_db.py primeiro.')

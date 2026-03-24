@@ -1,0 +1,58 @@
+{
+  "slug": "sdnne01",
+  "date": "2026-03-24",
+  "articles": 44,
+  "authors": 73,
+  "sections": 10,
+  "corrections": {
+    "automatic": 185,
+    "human": 5,
+    "total": 190
+  },
+  "patterns": {
+    "abstract_en_truncated": {
+      "count": 12,
+      "description": "EN abstract shorter than plumber extraction — initial YAML import pre-dated plumber",
+      "articles": ["004", "006", "010", "012", "015", "020", "021", "023", "024", "025", "026", "029"]
+    },
+    "keywords_not_split": {
+      "count": 6,
+      "description": "Keywords stored as single string with dash/comma separators instead of JSON array",
+      "articles": ["022", "026", "033", "038"]
+    },
+    "title_vs_pdf_mismatch": {
+      "count": 16,
+      "description": "Title/subtitle in DB differed from PDF text (capitalisation, words, split)",
+      "articles": ["002", "005", "009", "016", "017", "025", "028", "029", "031", "034", "036", "037", "040", "041", "044"]
+    },
+    "keywords_contamination": {
+      "count": 4,
+      "description": "Keywords contained title text, section headers, or label prefixes",
+      "articles": ["024", "030", "034", "036"]
+    },
+    "abstract_en_keywords_glued": {
+      "count": 11,
+      "description": "Keywords appended to abstract_en in same field",
+      "articles": ["003", "008", "014", "022", "025", "030", "032", "035", "041"]
+    }
+  },
+  "human_corrections": [
+    {"article": "009", "field": "abstract_en", "issue": "falta ponto final", "cause": "extraction_artifact"},
+    {"article": "001", "field": "title", "issue": "Arquitetura → arquitetura (genérico)", "cause": "overcapitalization"},
+    {"article": "020", "field": "abstract_en", "issue": "truncado (1211→2023c)", "cause": "abstract_en_truncated"},
+    {"article": "029", "field": "abstract_en", "issue": "truncado (1627→1878c)", "cause": "abstract_en_truncated"},
+    {"article": "031", "field": "document_type", "issue": "reclassificado como resumo", "cause": "misclassification"}
+  ],
+  "coverage_final": {
+    "abstract": "43/43 (100%)",
+    "abstract_en": "41/43 (95%)",
+    "keywords": "43/43 (100%)",
+    "keywords_en": "37/43 (86%)",
+    "references": "43/43 (100%)",
+    "orcid": "43/73 (58%)"
+  },
+  "engineering": {
+    "A32_ratio_check": "novo check validate_metadata.py — detecta abstract_en truncado via ratio PT/EN < 0.65",
+    "plumber_block_limits": "extrair_metadados_en.py — limites de blocos aumentados de 4-5 para 8-10"
+  }
+}

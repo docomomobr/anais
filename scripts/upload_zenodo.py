@@ -423,7 +423,8 @@ def _upload_file(session, base_url, token, record_id, pdf_path):
         return False
 
     # Step 2: Upload content (read into memory so retries work)
-    file_data = open(pdf_path, 'rb').read()
+    with open(pdf_path, 'rb') as f:
+        file_data = f.read()
     # Timeout proportional to file size: 120s base + 30s per MB
     upload_timeout = (15, max(120, 30 * len(file_data) // (1024 * 1024) + 120))
     r = _retry(session.put,

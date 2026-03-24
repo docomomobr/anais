@@ -105,9 +105,12 @@ _VALID_COLS = {'title', 'subtitle', 'title_en', 'subtitle_en', 'title_es', 'subt
 def extract_candidates(source_db, table='articles',
                        title_col='title', subtitle_col='subtitle'):
     """Extrai candidatos a nomes próprios dos títulos."""
-    assert table in _VALID_TABLES, f"Invalid table: {table}"
-    assert title_col in _VALID_COLS, f"Invalid column: {title_col}"
-    assert subtitle_col in _VALID_COLS, f"Invalid column: {subtitle_col}"
+    if table not in _VALID_TABLES:
+        raise ValueError(f"Invalid table: {table}")
+    if title_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {title_col}")
+    if subtitle_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {subtitle_col}")
 
     if not os.path.exists(DICT_DB):
         print(f'ERRO: {DICT_DB} não existe. Rode init_db.py primeiro.')

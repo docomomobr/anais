@@ -38,8 +38,10 @@ def normalizar_seminario(conn, slug, dry_run=False, field=None):
     else:
         title_col, subtitle_col = 'title', 'subtitle'
 
-    assert title_col in _VALID_COLS, f"Invalid column: {title_col}"
-    assert subtitle_col in _VALID_COLS, f"Invalid column: {subtitle_col}"
+    if title_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {title_col}")
+    if subtitle_col not in _VALID_COLS:
+        raise ValueError(f"Invalid column: {subtitle_col}")
 
     rows = conn.execute(
         f'SELECT id, {title_col}, {subtitle_col} FROM articles WHERE seminar_slug = ? ORDER BY id',
