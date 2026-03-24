@@ -10986,8 +10986,8 @@ INSERT INTO authors VALUES(3362,'Frederico de','Holanda',NULL,NULL,NULL,NULL);
 INSERT INTO authors VALUES(3363,'Rodrigo Botelho de Hollanda','Vasconcellos',NULL,NULL,NULL,NULL);
 INSERT INTO authors VALUES(3364,'Juliana Sicuro','Corrêa',NULL,NULL,NULL,NULL);
 INSERT INTO authors VALUES(3365,'Marina Peregrino','Piquet',NULL,NULL,NULL,NULL);
-INSERT INTO authors VALUES(3366,'João','Calafate',NULL,NULL,NULL,NULL);
-INSERT INTO authors VALUES(3367,'Marcio','Roberto',NULL,NULL,NULL,NULL);
+INSERT INTO authors VALUES(3366,'João','Calafate',NULL,NULL,'2026-03-23','3.1');
+INSERT INTO authors VALUES(3367,'Marcio','Roberto',NULL,NULL,'2026-03-23','3.1');
 CREATE TABLE dict_names (
         word TEXT PRIMARY KEY,
         category TEXT NOT NULL,  -- 'nome', 'sigla', 'lugar', 'area', 'movimento', 'expressao'
