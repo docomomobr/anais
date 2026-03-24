@@ -1,0 +1,111 @@
+{
+  "slug": "sdnne01",
+  "date": "2026-03-24",
+  "total_articles": 44,
+  "profile": {
+    "total": 44,
+    "locale_es": 0,
+    "abstract": 44,
+    "abstract_en": 41,
+    "abstract_es": 0,
+    "keywords": 44,
+    "keywords_en": 38,
+    "keywords_es": 0,
+    "references_": 43
+  },
+  "auto_fixed": [
+    {
+      "check": "A28",
+      "article_id": "sdnne01-017",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract: começa com título \"Frank Algot Eugen Svensson...\"",
+      "suggestion": "Remover título do início"
+    }
+  ],
+  "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdnne01-009",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...r the town and for the academic teaching\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne01-010",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne01-020",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne01-021",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne01-026",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdnne01-027",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne01-030",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne01-030",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"... thought and practiced. Palavras-chave /\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A02",
+      "article_id": "sdnne01-031",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}
