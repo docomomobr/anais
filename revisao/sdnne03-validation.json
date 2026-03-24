@@ -1,0 +1,108 @@
+{
+  "slug": "sdnne03",
+  "date": "2026-03-24",
+  "total_articles": 41,
+  "profile": {
+    "total": 41,
+    "locale_es": 0,
+    "abstract": 41,
+    "abstract_en": 39,
+    "abstract_es": 0,
+    "keywords": 39,
+    "keywords_en": 37,
+    "keywords_es": 0,
+    "references_": 41
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdnne03-003",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 4,
+      "detail": "Ref muito longa (508 chars), possível concatenação: \"COMAS, Carlos Eduardo Dias, SANTOS, Cecilia Helena Godoy Rodrigues dos, ZEIN, Ru...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdnne03-004",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (568 chars), possível concatenação: \"ANDRADE, Paulo Raposo; CÂMARA, Andréa Nascimento Dornelas; MEDINA, Luciano L.. E...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdnne03-009",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "Ref muito longa (596 chars), possível concatenação: \"MORENO, A. Edifício Caramuru. Blog Guia do Ócio. Salvador, 03/02/? Disponível em...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne03-011",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A01",
+      "article_id": "sdnne03-013",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdnne03-013",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Ref muito longa (822 chars), possível concatenação: \"Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de feverei...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdnne03-003",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (508 chars), possível concatenação: \"COMAS, Carlos Eduardo Dias, SANTOS, Cecilia Helena Godoy Rodrigues dos, ZEIN, Ru...\""
+    },
+    {
+      "article_id": "sdnne03-004",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (568 chars), possível concatenação: \"ANDRADE, Paulo Raposo; CÂMARA, Andréa Nascimento Dornelas; MEDINA, Luciano L.. E...\""
+    },
+    {
+      "article_id": "sdnne03-009",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (596 chars), possível concatenação: \"MORENO, A. Edifício Caramuru. Blog Guia do Ócio. Salvador, 03/02/? Disponível em...\""
+    },
+    {
+      "article_id": "sdnne03-013",
+      "checks_flagged": [
+        "A01",
+        "A11"
+      ],
+      "reason": "Ref muito longa (822 chars), possível concatenação: \"Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de feverei...\""
+    }
+  ]
+}
