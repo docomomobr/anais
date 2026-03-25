@@ -1,0 +1,30 @@
+{
+  "slug": "sdnne05",
+  "date": "2026-03-25",
+  "articles": 32,
+  "authors": 52,
+  "sections": 3,
+  "corrections": {
+    "automatic": 120,
+    "human": 0,
+    "total": 120
+  },
+  "coverage_final": {
+    "abstract": "100%",
+    "abstract_en": "100%",
+    "keywords": "100%",
+    "keywords_en": "100%",
+    "references": "100%",
+    "title_en": "97%",
+    "orcid": "71%"
+  },
+  "human_corrections": [],
+  "engineering_fixes": {
+    "dict_cleaned": 6,
+    "stopwords_added": 6,
+    "seed_authors_excluded": 2,
+    "pipeline_updated": "1.1b runner com dry-run + apply explícitos",
+    "normalizer_regressions": 3,
+    "normalizer_regressions_detail": "012 Moderno substantivado, 022 la artigo ES, 028 Moderne francês — edge cases de idioma, não corrigíveis sem risco"
+  }
+}

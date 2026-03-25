@@ -36,7 +36,7 @@ STOPWORDS = {
     'arquitetura', 'urbanismo', 'preservação', 'documentação', 'restauro',
     'habitação', 'habitacional', 'conjunto', 'conjuntos', 'residencial', 'residenciais',
     'construção', 'espaço', 'espaços', 'lugar', 'lugares', 'paisagem', 'paisagens',
-    'entre', 'anos', 'século', 'séculos', 'processo', 'práticas',
+    'anos', 'século', 'séculos', 'processo', 'práticas',
     'história', 'registro', 'inventário', 'levantamento', 'mapeamento',
     'notas', 'considerações', 'contribuição', 'contribuições',
     'aproximações', 'perspectivas', 'olhares', 'diálogos',
@@ -81,7 +81,7 @@ STOPWORDS = {
     'tribunal', 'universitária', 'universitário', 'urbana', 'urbano',
     'vidro', 'builds', 'concrete', 'déco', 'art',
     'base', 'campo', 'vista', 'piloto', 'passo',
-    'navio', 'fora', 'palha', 'cristo', 'senhora',
+    'navio', 'fora', 'palha', 'cristo',
     # Genéricos encontrados erroneamente no dict (sdsul08, 2026-03-23)
     'águas', 'técnica', 'técnicas', 'panorama', 'obras', 'obra',
     'serviço', 'criação', 'ensaio', 'encontro', 'sertão',

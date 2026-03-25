@@ -19,8 +19,8 @@ import os
 # Como sobrenomes são reconhecidos pelo contexto ABNT (ALL CAPS), não precisam do dict.
 EXCLUDE_COMMON_WORDS = {
     'anjos', 'campos', 'carneiro', 'carvalho', 'castelo', 'coelho', 'cordeiro',
-    'costa', 'cruz', 'duarte', 'ferreira', 'flores', 'guerra', 'lago', 'leite',
-    'lima', 'lobos', 'luz', 'mar', 'mata', 'mello', 'monteiro', 'moreira', 'norte',
+    'costa', 'cruz', 'duarte', 'ferreira', 'flores', 'guerra', 'homem', 'lago', 'leite',
+    'lima', 'lobos', 'luz', 'madeira', 'mar', 'mata', 'mello', 'monteiro', 'moreira', 'norte',
     'obra', 'obras', 'pedra', 'pereira', 'pinto', 'ponte', 'reis', 'rio', 'rocha',
     'rosa', 'santos', 'serra', 'silva', 'vale',
 }
