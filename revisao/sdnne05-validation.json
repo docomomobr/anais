@@ -26,15 +26,6 @@
     },
     {
       "check": "A19",
-      "article_id": "sdnne05-013",
-      "field": "abstract_en",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_en: possível truncamento (termina com \"...ast; modern architecture; historiography\")",
-      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
-    },
-    {
-      "check": "A19",
       "article_id": "sdnne05-028",
       "field": "abstract_en",
       "severity": "warning",
