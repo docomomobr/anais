@@ -48,6 +48,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdnne01 | 44 | ✅ revisado | 2026-03-24 |
 | sdnne02 | 33 | ✅ revisado | 2026-03-24 |
 | sdnne03 | 41 | ✅ revisado | 2026-03-24 |
+| sdnne04 | 45 | ✅ revisado | 2026-03-25 |
 
 ---
 
@@ -272,6 +273,36 @@ Seminários nacionais importados no OJS teste. Importação dos regionais na pro
 ---
 
 ## Devlog
+
+### 2026-03-25 — sdnne04 revisão completa (Fases 0-3)
+
+**sdnne04** (45 artigos, 83 autores, 3 eixos temáticos — A arquitetura moderna como projeto, Narrativas historiográficas, Experiências de conservação e transformação):
+- Cobertura: abstract 100%, abs_en 98%, kw 98%, kw_en 96%, refs 100%, ORCID 55%
+- Fonte: CD-ROM (sem doc/docx), plumber (5785 blocos)
+- 269 correções (260 auto + 9 humanas)
+- 11 normalizer + 34 correções LLM títulos vs PDF
+- Refs: 0→192 (backfill plumber) → 677 (clean) → 651 (sweep) → 642 (LLM review)
+- 9 dedup merges manuais (givenname prefixo: Carrilho, Gonsales, Lopes, Machado, Meneses, Poppe, Santos, Silva, Vidal)
+- 4 ORCIDs novos (Gustavo Sobral, Marília Brito, Regina Cavalcante, Isadora Paiva)
+- 2 abstracts truncados completados do plumber (039: 1029→2090, 043: 1235→2299)
+- Revisão humana: 5 genéricos no dict (obra, circulação, tessituras/tectônicas, envelopado, mágica), 2 expressões consolidadas (Moderna, Moderno — regra de/no)
+
+**dict — 20 genéricos removidos, 18 STOPWORDS adicionados:**
+- obra, circulação, tessituras, tectônicas, envelopado, mágica, esperança, presente, desenho, conservação, apartamentos, arenas, desportivas, iconográfico, escritório, professor, referência, intervenção, escolar + 4 stale (Bienal, Centenário, Esplanada, arquitetônica)
+
+**validate_metadata.py — novo check A33:**
+- Detecta abstract truncado comparando DB com plumber (prefix match: DB é início de bloco mais longo)
+- Evita falsos positivos de A32 (ratio) quando plumber block inclui corpo do artigo
+- 0 falsos positivos nos seminários revisados (sdnne03/sdnne04/sdbr08)
+
+**pipeline_revisao.md:**
+- §1.1a: retroalimentação do dict OBRIGATÓRIA na hora da correção LLM (não na Fase 3)
+- Regra toponímico clarificada: "de/do/da + lugar" → minúscula, "no/na/em + lugar" → maiúscula
+
+**Engenharia (3 scripts corrigidos):**
+- seed_titles.py: try/finally no --apply (DB connection leak)
+- dedup_authors.py: try/finally no load_pilotis() (DB connection leak)
+- validate_metadata.py: block.get('text','') no A33 (KeyError uncaught)
 
 ### 2026-03-24 — sdnne03 revisão completa (Fases 0-3)
 
