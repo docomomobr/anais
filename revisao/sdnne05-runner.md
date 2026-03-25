@@ -33,8 +33,8 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 ## Fase 1 — Revisão automática
 
 - [x] **1.1a** Títulos PT: 9 normalizer, 5 reversões (modernistas, Moderno, adequação, ciudad/La, homem/fábrica), 4 correções LLM (019 madeira, 028 Moderne, 030 subtitle adicionado, 032 split title/subtitle). Dict limpo: 6 genéricos removidos + STOPWORDS atualizados
-- [x] **1.1b** Títulos EN: 26 title_en extraídos dos PDFs. Correções: 001 (PT→EN traduzido), 009 (Caddahin→Caddah in), 013 (cleared bad), 030/032 (ALL CAPS → normalizado)
-- [x] **1.1c** Revisão LLM títulos EN/ES: incluída em 1.1b
+- [x] **1.1b** Títulos EN: 26 title_en extraídos dos PDFs. Correções: 001 (PT→EN traduzido), 009 (Caddahin→Caddah in), 013 (cleared bad), 030/032 (ALL CAPS → normalizado). normalizar_titulos_en.py Title Case aplicado (28 correções)
+- [x] **1.1c** Revisão LLM títulos EN/ES: incluída em 1.1b e 1.10
 - [x] **1.2a** Refs limpeza base: 5 artigos, 4 underscore splits, 8 backfills. 529→561 refs
 - [x] **1.2b** Refs sweep: 10 artigos (1 lixo, 5 joins, 3 splits, 2 non-refs, 1 dedup). 561→555 refs
 - [x] **1.2b+** Re-backfills: 0 necessários

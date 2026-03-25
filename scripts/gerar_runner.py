@@ -239,7 +239,11 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   python3 scripts/normalizar_maiusculas.py --slug {slug}
   ```
   → Revisão LLM palavra por palavra (ver §1.1a)
-- [ ] **1.1b** Títulos EN/ES: `python3 scripts/normalizar_titulos_en.py --slug {slug}`{skip_ten}
+- [ ] **1.1b** Títulos EN/ES:
+  ```
+  python3 scripts/normalizar_titulos_en.py --slug {slug} --dry-run
+  python3 scripts/normalizar_titulos_en.py --slug {slug}
+  ```{skip_ten}
 - [ ] **1.1c** Revisão LLM títulos EN/ES (cada título vs PDF){skip_ten}
 - [ ] **1.2a** Refs limpeza base
   ```
