@@ -1,0 +1,29 @@
+{
+  "slug": "sdnne04",
+  "date": "2026-03-25",
+  "total_articles": 45,
+  "profile": {
+    "total": 45,
+    "locale_es": 0,
+    "abstract": 45,
+    "abstract_en": 44,
+    "abstract_es": 0,
+    "keywords": 44,
+    "keywords_en": 43,
+    "keywords_es": 0,
+    "references_": 45
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdnne04-043",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}
