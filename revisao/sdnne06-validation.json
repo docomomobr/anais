@@ -8,42 +8,26 @@
     "abstract": 63,
     "abstract_en": 19,
     "abstract_es": 1,
-    "keywords": 64,
+    "keywords": 63,
     "keywords_en": 12,
-    "keywords_es": 0,
+    "keywords_es": 1,
     "references_": 66
   },
   "auto_fixed": [
     {
-      "check": "A31",
-      "article_id": "34",
-      "field": "keywords",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "locale=es, keywords em campo PT — mover para keywords_es",
-      "suggestion": "Mover keywords → keywords_es"
-    }
-  ],
-  "issues": [
-    {
-      "check": "A03",
-      "article_id": "34",
-      "field": "keywords_es",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "abstract_es presente mas keywords_es faltando",
-      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
-    },
-    {
-      "check": "A10",
+      "check": "A17",
       "article_id": "75",
       "field": "references_",
       "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 21,
-      "detail": "Backfill pendente: \"______. Charter for the Conservation of Historic Towns and U...\"",
-      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
-    },
+      "auto_fixable": true,
+      "detail": "1 referências duplicadas",
+      "suggestion": "Remover duplicatas",
+      "dup_indices": [
+        21
+      ]
+    }
+  ],
+  "issues": [
     {
       "check": "A12",
       "article_id": "106",
