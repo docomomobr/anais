@@ -1,0 +1,37 @@
+{
+  "slug": "sdnne04",
+  "date": "2026-03-25",
+  "articles": 45,
+  "authors": 83,
+  "sections": 3,
+  "corrections": {
+    "automatic": 260,
+    "human": 9,
+    "total": 269
+  },
+  "coverage_final": {
+    "abstract": "100%",
+    "abstract_en": "98%",
+    "keywords": "98%",
+    "keywords_en": "96%",
+    "references": "100%",
+    "orcid": "55%"
+  },
+  "human_corrections": [
+    {"id": "sdnne04-004", "field": "subtitle", "before": "Arquitetura moderna no sertão", "after": "Arquitetura Moderna no sertão", "cause": "LLM aplicou regra toponímico errada (no ≠ de)"},
+    {"id": "sdnne04-012", "field": "title", "before": "na Obra de", "after": "na obra de", "cause": "dict.db: 'obra' como nome"},
+    {"id": "sdnne04-039", "field": "abstract", "before": "truncado 1029c", "after": "completo 2090c", "cause": "importação original truncou"},
+    {"id": "sdnne04-011", "field": "title", "before": "em Circulação", "after": "em circulação", "cause": "dict.db: 'circulação' como nome"},
+    {"id": "sdnne04-016", "field": "title", "before": "Tessituras Tectônicas", "after": "tessituras tectônicas", "cause": "dict.db: genéricos como nome"},
+    {"id": "sdnne04-019", "field": "title", "before": "Urbanismo moderno", "after": "Urbanismo Moderno", "cause": "LLM rebaixou expressão consolidada"},
+    {"id": "sdnne04-043", "field": "abstract", "before": "truncado 1235c", "after": "completo 2299c", "cause": "importação original truncou"},
+    {"id": "sdnne04-007", "field": "title", "before": "Envelopado", "after": "envelopado", "cause": "dict.db: 'envelopado' como nome"},
+    {"id": "sdnne04-026", "field": "title", "before": "Mágica", "after": "mágica", "cause": "dict.db: 'mágica' como nome"}
+  ],
+  "engineering_fixes": {
+    "dict_cleaned": 20,
+    "stopwords_added": 20,
+    "script_new_check": "A33 (abstract vs plumber prefix match)",
+    "pipeline_updated": "1.1a retroalimentação dict obrigatória + regra toponímico de/no clarificada"
+  }
+}

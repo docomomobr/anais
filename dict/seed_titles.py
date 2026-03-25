@@ -100,6 +100,11 @@ STOPWORDS = {
     'anexo', 'judiciário',
     # Genéricos encontrados erroneamente no dict (sdnne03, 2026-03-24)
     'antiga', 'exposições', 'marítima', 'migrantes', 'severinos',
+    # Genéricos encontrados erroneamente no dict (sdnne04, 2026-03-25)
+    'circulação', 'tessituras', 'tectônicas', 'envelopado', 'mágica',
+    'esperança', 'presente', 'desenho', 'conservação', 'apartamentos',
+    'arenas', 'desportivas', 'iconográfico', 'escritório', 'professor',
+    'referência', 'intervenção', 'escolar',
 }
 
 
@@ -212,16 +217,18 @@ def main():
 
     if args.apply:
         dict_conn = sqlite3.connect(DICT_DB)
-        added = 0
-        for word, info in sorted_cands:
-            dict_conn.execute(
-                'INSERT OR IGNORE INTO dict_names (word, category, canonical, source) '
-                'VALUES (?, ?, ?, ?)',
-                (word, 'nome', info['canonical'], 'titulos'))
-            added += 1
-        dict_conn.commit()
-        dict_conn.close()
-        print(f'\nAdicionados: {added}')
+        try:
+            added = 0
+            for word, info in sorted_cands:
+                dict_conn.execute(
+                    'INSERT OR IGNORE INTO dict_names (word, category, canonical, source) '
+                    'VALUES (?, ?, ?, ?)',
+                    (word, 'nome', info['canonical'], 'titulos'))
+                added += 1
+            dict_conn.commit()
+            print(f'\nAdicionados: {added}')
+        finally:
+            dict_conn.close()
     else:
         print(f'\nUse --apply para inserir no dict.db')
 

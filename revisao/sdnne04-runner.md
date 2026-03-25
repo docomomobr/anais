@@ -59,14 +59,26 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
+## Revisão humana — 9 correções
+
+1. ✅ sdnne04-004 subtitle: moderna → Moderna (expressão consolidada)
+2. ✅ sdnne04-012 title: Obra → obra (genérico no dict)
+3. ✅ sdnne04-039 abstract: truncado 1029→2090 chars
+4. ✅ sdnne04-011 title: Circulação → circulação (genérico no dict)
+5. ✅ sdnne04-016 title: Tessituras Tectônicas → tessituras tectônicas (genéricos no dict)
+6. ✅ sdnne04-019 title: moderno → Moderno (expressão consolidada)
+7. ✅ sdnne04-043 abstract: truncado 1235→2299 chars
+8. ✅ sdnne04-007 title: Envelopado → envelopado (genérico no dict)
+9. ✅ sdnne04-026 title: Mágica → mágica (genérico no dict)
+
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
+- [x] **3.1** Diagnóstico: 5/9 dict genérico, 2/9 regra toponímico LLM, 2/9 abstract truncado
+- [x] **3.2** Dict: 20 genéricos removidos + 18 STOPWORDS adicionados
+- [x] **3.3** Scripts: novo check A33 (abstract vs plumber prefix match), validate_metadata.py block.get('text','')
+- [x] **3.4** Pipeline: 1.1a retroalimentação dict obrigatória + regra toponímico de/no clarificada
+- [x] **3.5** Dry-run: 0 A33 falsos positivos em sdnne03/sdnne04/sdbr08
+- [x] **3.6** Aprendizado: sdnne04-aprendizado.json + MEMORY.md feedback_dict_retroalimentacao
+- [x] **3.7** Engenharia: 0 HIGH, 3 MEDIUM corrigidos (validate KeyError, seed_titles try/finally, dedup pilotis try/finally), 1 LOW (STOPWORDS duplicatas removidas)
+- [x] **3.8** Checklist de conclusão
 - [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md

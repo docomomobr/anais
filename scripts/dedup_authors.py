@@ -390,20 +390,22 @@ def load_pilotis():
         return {}, {}
 
     pconn = sqlite3.connect(PILOTIS_PATH)
-    pc = pconn.cursor()
+    try:
+        pc = pconn.cursor()
 
-    # nome por id
-    pc.execute('SELECT id, nome FROM pessoas')
-    nomes = {row[0]: row[1] for row in pc.fetchall()}
+        # nome por id
+        pc.execute('SELECT id, nome FROM pessoas')
+        nomes = {row[0]: row[1] for row in pc.fetchall()}
 
-    # email → pessoa_id
-    pc.execute('SELECT pessoa_id, email FROM emails')
-    emails = {}
-    for pid, em in pc.fetchall():
-        emails[em.strip().lower()] = pid
+        # email → pessoa_id
+        pc.execute('SELECT pessoa_id, email FROM emails')
+        emails = {}
+        for pid, em in pc.fetchall():
+            emails[em.strip().lower()] = pid
 
-    pconn.close()
-    return nomes, emails
+        return nomes, emails
+    finally:
+        pconn.close()
 
 
 def split_pilotis_name(full_name):

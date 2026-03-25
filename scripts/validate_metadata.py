@@ -1118,6 +1118,62 @@ def check_abstract_truncation(article):
     return issues
 
 
+def check_abstract_vs_plumber(article):
+    """A33: abstract truncado vs plumber (DB text is a prefix of a longer plumber block)."""
+    issues = []
+    aid = article['id']
+    slug = aid.rsplit('-', 1)[0]
+
+    db_abstract = (article.get('abstract') or '').strip()
+    if not db_abstract or len(db_abstract) < 100:
+        return issues
+
+    # Find plumber file
+    plumber_file = None
+    for base in ('regionais/nne', 'regionais/se', 'regionais/sul', 'nacionais'):
+        candidate = os.path.join(base, slug, 'fontes_plumber', f'{aid}.jsonl')
+        if os.path.exists(candidate):
+            plumber_file = candidate
+            break
+
+    if not plumber_file:
+        return issues
+
+    try:
+        with open(plumber_file) as f:
+            for line in f:
+                block = json.loads(line)
+                if block.get('role') != 'abstract' or block.get('page', 0) > 3:
+                    continue
+                text = block.get('text', '').strip()
+                # Skip headings
+                if text.upper() in ('RESUMO', 'ABSTRACT', 'RESUMEN'):
+                    continue
+                if text.lower().startswith(('palavras-chave', 'keywords', 'key words', 'abstract:')):
+                    continue
+                # Check if DB abstract is a prefix of this plumber block
+                # Normalize whitespace for comparison
+                db_norm = ' '.join(db_abstract.split())
+                pl_norm = ' '.join(text.split())
+                # Strip RESUMO: prefix from plumber
+                for prefix in ('RESUMO:', 'RESUMO :', 'Resumo:'):
+                    if pl_norm.startswith(prefix):
+                        pl_norm = pl_norm[len(prefix):].strip()
+                if len(pl_norm) > len(db_norm) * 1.3 and pl_norm.startswith(db_norm[:80]):
+                    ratio = len(db_norm) / len(pl_norm)
+                    issues.append({
+                        'check': 'A33', 'article_id': aid, 'field': 'abstract',
+                        'severity': 'warning', 'auto_fixable': False,
+                        'detail': f'abstract truncado vs plumber (DB={len(db_abstract)} plumber={len(text)} ratio={ratio:.2f})',
+                        'suggestion': 'Re-extrair abstract do plumber',
+                    })
+                    break
+    except (OSError, json.JSONDecodeError):
+        pass
+
+    return issues
+
+
 def check_abstract_en_ratio(article):
     """A32: abstract_en possivelmente truncado (ratio PT/EN < 0.65)."""
     issues = []
@@ -1236,6 +1292,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_en_wrong_locale(article))
         issues.extend(check_es_in_pt_field(article))
         issues.extend(check_abstract_truncation(article))
+        issues.extend(check_abstract_vs_plumber(article))
         issues.extend(check_abstract_en_ratio(article))
 
         # Aplicar auto-fixes

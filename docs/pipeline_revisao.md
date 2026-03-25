@@ -400,6 +400,11 @@ python3 scripts/normalizar_maiusculas.py --slug {slug} --dry-run
 python3 scripts/normalizar_maiusculas.py --slug {slug}
 ```
 
+**Retroalimentação do dict — OBRIGATÓRIA.** Após cada correção LLM que reverte uma capitalização do normalizador:
+1. Verificar se a palavra está no dict.db: `sqlite3 dict/dict.db "SELECT * FROM dict_names WHERE word='xxx'"`
+2. Se está e não deveria (palavra genérica como "obra", "estudo", "arquitetônica"): **remover do dict** e **adicionar ao STOPWORDS** de `seed_titles.py` se ainda não estiver.
+3. Isso DEVE ser feito na hora da correção, não na Fase 3. A Fase 3 apenas verifica que foi feito.
+
 **Verificação com LLM — OBRIGATÓRIA.** Após a normalização automática, listar todos os títulos e analisar **cada palavra** de cada um. Procedimento:
 
 1. `SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id`
@@ -416,9 +421,13 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 5. Verificar separação título/subtítulo contra o PDF original.
 6. **Aplicar correções escrevendo o título completo**, não por replace parcial. Reler após aplicar.
 
-**Expressões consolidadas com toponímico:** "Arquitetura Moderna", "Arquitetura Modernista" etc. ficam maiúsculas quando referem o conceito. Porém, quando seguidas de toponímico, funcionam como descritivas e ficam em **minúscula**:
-- ✅ "Os princípios da Arquitetura Moderna no Brasil" (conceito)
-- ✅ "a arquitetura moderna de Recife" (descritiva + toponímico)
+**Expressões consolidadas com toponímico:** "Arquitetura Moderna", "Urbanismo Moderno" etc. ficam maiúsculas quando referem o conceito/movimento. Ficam minúsculas quando descrevem a arquitetura **de** um lugar específico:
+- ✅ "Os princípios da Arquitetura Moderna no Brasil" (conceito — preposição "no")
+- ✅ "Arquitetura Moderna no sertão da Bahia" (conceito — "no" localiza, não modifica)
+- ✅ "Urbanismo Moderno no Brasil" (conceito — "Moderno" é parte do nome do movimento)
+- ✅ "a arquitetura moderna de Recife" (descritiva — preposição "de" indica pertença)
+- ✅ "a arquitetura moderna recifense" (descritiva — gentílico modifica)
+- **Regra prática:** "de/do/da + lugar" → minúscula (descritiva). "no/na/em + lugar" → maiúscula (conceito + contexto geográfico).
 
 Ver [ref S-D](modulos_pipeline.md#d-revisão-llm-de-títulos-pt--procedimento-detalhado) para formato completo, retroalimentação do dict.db e registro de aprendizado.
 
