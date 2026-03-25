@@ -20,7 +20,8 @@ import os
 EXCLUDE_COMMON_WORDS = {
     'anjos', 'campos', 'carneiro', 'carvalho', 'castelo', 'coelho', 'cordeiro',
     'costa', 'cruz', 'duarte', 'ferreira', 'flores', 'guerra', 'homem', 'lago', 'leite',
-    'lima', 'lobos', 'luz', 'madeira', 'mar', 'mata', 'mello', 'monteiro', 'moreira', 'norte',
+    'lima', 'lobos', 'longo', 'luz', 'madeira', 'mar', 'marco', 'mata', 'mello', 'mestre',
+    'monteiro', 'moreira', 'nascimento', 'norte',
     'obra', 'obras', 'pedra', 'pereira', 'pinto', 'ponte', 'reis', 'rio', 'rocha',
     'rosa', 'santos', 'serra', 'silva', 'vale',
 }

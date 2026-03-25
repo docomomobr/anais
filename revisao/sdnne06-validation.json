@@ -1,0 +1,69 @@
+{
+  "slug": "sdnne06",
+  "date": "2026-03-25",
+  "total_articles": 66,
+  "profile": {
+    "total": 66,
+    "locale_es": 1,
+    "abstract": 63,
+    "abstract_en": 19,
+    "abstract_es": 1,
+    "keywords": 64,
+    "keywords_en": 12,
+    "keywords_es": 0,
+    "references_": 66
+  },
+  "auto_fixed": [
+    {
+      "check": "A31",
+      "article_id": "34",
+      "field": "keywords",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "locale=es, keywords em campo PT — mover para keywords_es",
+      "suggestion": "Mover keywords → keywords_es"
+    }
+  ],
+  "issues": [
+    {
+      "check": "A03",
+      "article_id": "34",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A10",
+      "article_id": "75",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 21,
+      "detail": "Backfill pendente: \"______. Charter for the Conservation of Historic Towns and U...\"",
+      "suggestion": "Verificar extract_author() na ref anterior ou corrigir manualmente"
+    },
+    {
+      "check": "A12",
+      "article_id": "106",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 5,
+      "detail": "Possível não-referência: \"FONTES, Antônio Nelson D. Entrevista concedida pelo autor do projeto de ampliaçã...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A12",
+      "article_id": "106",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 10,
+      "detail": "Possível não-referência: \"KRAACK, Thomas. Entrevista concedida por um dos autores do projeto de ampliação ...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    }
+  ],
+  "category_b_candidates": []
+}

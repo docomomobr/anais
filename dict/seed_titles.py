@@ -107,6 +107,10 @@ STOPWORDS = {
     'referência', 'intervenção', 'escolar',
     # Genéricos encontrados erroneamente no dict (sdnne05, 2026-03-25)
     'homem', 'fábrica', 'adequação', 'ciudad', 'modernistas', 'madeira',
+    # Genéricos encontrados erroneamente no dict (sdnne06, 2026-03-25)
+    'complexo', 'desenvolvimento', 'edificado', 'elementos', 'longo',
+    'monumento', 'monumentos', 'residências', 'tectônica', 'urbanos',
+    'vernacular',
 }
 
 
