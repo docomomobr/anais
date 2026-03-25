@@ -105,6 +105,8 @@ STOPWORDS = {
     'esperança', 'presente', 'desenho', 'conservação', 'apartamentos',
     'arenas', 'desportivas', 'iconográfico', 'escritório', 'professor',
     'referência', 'intervenção', 'escolar',
+    # Genéricos encontrados erroneamente no dict (sdnne05, 2026-03-25)
+    'homem', 'fábrica', 'adequação', 'ciudad', 'modernistas', 'madeira',
 }
 
 

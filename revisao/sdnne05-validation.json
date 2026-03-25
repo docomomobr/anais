@@ -1,0 +1,55 @@
+{
+  "slug": "sdnne05",
+  "date": "2026-03-25",
+  "total_articles": 32,
+  "profile": {
+    "total": 32,
+    "locale_es": 1,
+    "abstract": 31,
+    "abstract_en": 32,
+    "abstract_es": 1,
+    "keywords": 32,
+    "keywords_en": 32,
+    "keywords_es": 1,
+    "references_": 32
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A14",
+      "article_id": "sdnne05-001",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém template de formulário (\"máximo de\")",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne05-013",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ast; modern architecture; historiography\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne05-028",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...and the title translation to portuguese…\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdnne05-001",
+      "checks_flagged": [
+        "A14"
+      ],
+      "reason": "abstract: contém template de formulário (\"máximo de\")"
+    }
+  ]
+}
