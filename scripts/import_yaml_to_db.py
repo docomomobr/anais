@@ -220,204 +220,206 @@ def main():
         sys.exit(1)
 
     conn = sqlite3.connect(DB_PATH, timeout=60)
-    conn.execute('PRAGMA foreign_keys = ON')
-    cur = conn.cursor()
+    try:
+        conn.execute('PRAGMA foreign_keys = ON')
+        cur = conn.cursor()
 
-    if not args.incremental and not args.only:
-        # Limpar dados existentes (para reimportação completa)
-        for table in ['article_author', 'author_variants', 'articles', 'authors', 'sections', 'seminars']:
-            cur.execute(f'DELETE FROM {table}')
-        # Reset autoincrement
-        cur.execute("DELETE FROM sqlite_sequence")
-        conn.commit()
-    elif args.only:
-        # Limpar apenas os slugs especificados
-        for slug in args.only:
-            cur.execute('DELETE FROM article_author WHERE article_id IN (SELECT id FROM articles WHERE seminar_slug = ?)', (slug,))
-            cur.execute('DELETE FROM articles WHERE seminar_slug = ?', (slug,))
-            cur.execute('DELETE FROM sections WHERE seminar_slug = ?', (slug,))
-            cur.execute('DELETE FROM seminars WHERE slug = ?', (slug,))
-        conn.commit()
-        print(f'Limpou dados de: {", ".join(args.only)}')
+        if not args.incremental and not args.only:
+            # Limpar dados existentes (para reimportação completa)
+            for table in ['article_author', 'author_variants', 'articles', 'authors', 'sections', 'seminars']:
+                cur.execute(f'DELETE FROM {table}')
+            # Reset autoincrement
+            cur.execute("DELETE FROM sqlite_sequence")
+            conn.commit()
+        elif args.only:
+            # Limpar apenas os slugs especificados
+            for slug in args.only:
+                cur.execute('DELETE FROM article_author WHERE article_id IN (SELECT id FROM articles WHERE seminar_slug = ?)', (slug,))
+                cur.execute('DELETE FROM articles WHERE seminar_slug = ?', (slug,))
+                cur.execute('DELETE FROM sections WHERE seminar_slug = ?', (slug,))
+                cur.execute('DELETE FROM seminars WHERE slug = ?', (slug,))
+            conn.commit()
+            print(f'Limpou dados de: {", ".join(args.only)}')
 
-    yaml_files = find_yaml_files()
-    stats = {
-        'seminars': 0, 'sections': 0, 'articles': 0,
-        'authors': 0, 'article_author': 0, 'skipped': 0,
-    }
+        yaml_files = find_yaml_files()
+        stats = {
+            'seminars': 0, 'sections': 0, 'articles': 0,
+            'authors': 0, 'article_author': 0, 'skipped': 0,
+        }
 
-    for path in yaml_files:
-        with open(path) as f:
-            data = yaml.safe_load(f)
+        for path in yaml_files:
+            with open(path) as f:
+                data = yaml.safe_load(f)
 
-        if not data or not isinstance(data, dict):
-            continue
-
-        # Verificar se tem artigos
-        articles_raw = parse_articles(data)
-        if not articles_raw:
-            continue
-
-        # Parsear seminário
-        sem = parse_seminar(data)
-        if not sem.get('slug'):
-            print(f'  SKIP (sem slug): {path}')
-            continue
-
-        slug = sem['slug']
-
-        # Filtrar por --only se especificado
-        if args.only and slug not in args.only:
-            continue
-
-        print(f'{slug:12s} — {len(articles_raw)} artigos ... ', end='', flush=True)
-
-        # Inserir seminário
-        related = sem.get('related_urls', [])
-        cur.execute('''
-            INSERT OR REPLACE INTO seminars
-            (slug, title, subtitle, year, volume, number, date_published,
-             isbn, doi, description, location, publisher, source, editors,
-             volume_pdf, related_urls)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (
-            slug, sem['title'], sem['subtitle'], sem['year'],
-            sem['volume'], sem['number'],
-            str(sem['date_published']) if sem['date_published'] else None,
-            sem['isbn'], sem['doi'], sem['description'],
-            sem['location'], sem['publisher'], sem['source'],
-            json.dumps(sem['editors'], ensure_ascii=False) if sem['editors'] else '[]',
-            sem['volume_pdf'],
-            json.dumps(related, ensure_ascii=False) if related else None,
-        ))
-        stats['seminars'] += 1
-
-        # Seções pré-definidas (sdsul06-08 no topo, sdrj02-03 em issue.sections)
-        predefined_sections = parse_sections_from_data(data) or parse_issue_sections(data)
-        for i, sec in enumerate(predefined_sections):
-            cur.execute('''
-                INSERT OR IGNORE INTO sections (seminar_slug, title, abbrev, seq, hide_title)
-                VALUES (?, ?, ?, ?, ?)
-            ''', (slug, sec['title'], sec.get('abbrev'), i,
-                  1 if sec.get('hide_title') else 0))
-
-        # Processar artigos
-        art_count = 0
-        for idx, art_raw in enumerate(articles_raw):
-            art = normalize_article(art_raw, slug)
-
-            # Gerar ID se ausente
-            art_id = art['id'] or f'{slug}-{idx+1:03d}'
-
-            # Seção: buscar ou criar
-            section_id = None
-            if art['section']:
-                cur.execute(
-                    'SELECT id FROM sections WHERE seminar_slug = ? AND title = ?',
-                    (slug, art['section'])
-                )
-                row = cur.fetchone()
-                if row:
-                    section_id = row[0]
-                else:
-                    cur.execute(
-                        'INSERT INTO sections (seminar_slug, title, seq) VALUES (?, ?, ?)',
-                        (slug, art['section'], stats['sections'])
-                    )
-                    section_id = cur.lastrowid
-                    stats['sections'] += 1
-
-            # Inserir artigo
-            try:
-                cur.execute('''
-                    INSERT INTO articles
-                    (id, seminar_slug, section_id, title, subtitle, locale,
-                     pages, pages_count, file, abstract, abstract_en, abstract_es,
-                     keywords, keywords_en, keywords_es, references_, ojs_id, doi)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (
-                    art_id, slug, section_id, art['title'], art['subtitle'],
-                    art['locale'], art['pages'], art['pages_count'], art['file'],
-                    art['abstract'], art['abstract_en'], art['abstract_es'],
-                    art['keywords'], art['keywords_en'], art['keywords_es'],
-                    art['references_'], art['ojs_id'], art['doi'],
-                ))
-            except sqlite3.IntegrityError as e:
-                print(f'\n  ERRO artigo {art_id}: {e}')
-                stats['skipped'] += 1
+            if not data or not isinstance(data, dict):
                 continue
 
-            art_count += 1
+            # Verificar se tem artigos
+            articles_raw = parse_articles(data)
+            if not articles_raw:
+                continue
 
-            # Autores
-            for seq, author in enumerate(art['authors']):
-                gn = (author.get('givenname') or '').strip()
-                fn = (author.get('familyname') or '').strip()
-                if not gn or not fn:
-                    continue
+            # Parsear seminário
+            sem = parse_seminar(data)
+            if not sem.get('slug'):
+                print(f'  SKIP (sem slug): {path}')
+                continue
 
-                author_id = get_or_create_author(cur, gn, fn)
-                update_author_contact(
-                    cur, author_id,
-                    author.get('email'),
-                    author.get('orcid')
-                )
+            slug = sem['slug']
 
+            # Filtrar por --only se especificado
+            if args.only and slug not in args.only:
+                continue
+
+            print(f'{slug:12s} — {len(articles_raw)} artigos ... ', end='', flush=True)
+
+            # Inserir seminário
+            related = sem.get('related_urls', [])
+            cur.execute('''
+                INSERT OR REPLACE INTO seminars
+                (slug, title, subtitle, year, volume, number, date_published,
+                 isbn, doi, description, location, publisher, source, editors,
+                 volume_pdf, related_urls)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (
+                slug, sem['title'], sem['subtitle'], sem['year'],
+                sem['volume'], sem['number'],
+                str(sem['date_published']) if sem['date_published'] else None,
+                sem['isbn'], sem['doi'], sem['description'],
+                sem['location'], sem['publisher'], sem['source'],
+                json.dumps(sem['editors'], ensure_ascii=False) if sem['editors'] else '[]',
+                sem['volume_pdf'],
+                json.dumps(related, ensure_ascii=False) if related else None,
+            ))
+            stats['seminars'] += 1
+
+            # Seções pré-definidas (sdsul06-08 no topo, sdrj02-03 em issue.sections)
+            predefined_sections = parse_sections_from_data(data) or parse_issue_sections(data)
+            for i, sec in enumerate(predefined_sections):
+                cur.execute('''
+                    INSERT OR IGNORE INTO sections (seminar_slug, title, abbrev, seq, hide_title)
+                    VALUES (?, ?, ?, ?, ?)
+                ''', (slug, sec['title'], sec.get('abbrev'), i,
+                      1 if sec.get('hide_title') else 0))
+
+            # Processar artigos
+            art_count = 0
+            for idx, art_raw in enumerate(articles_raw):
+                art = normalize_article(art_raw, slug)
+
+                # Gerar ID se ausente
+                art_id = art['id'] or f'{slug}-{idx+1:03d}'
+
+                # Seção: buscar ou criar
+                section_id = None
+                if art['section']:
+                    cur.execute(
+                        'SELECT id FROM sections WHERE seminar_slug = ? AND title = ?',
+                        (slug, art['section'])
+                    )
+                    row = cur.fetchone()
+                    if row:
+                        section_id = row[0]
+                    else:
+                        cur.execute(
+                            'INSERT INTO sections (seminar_slug, title, seq) VALUES (?, ?, ?)',
+                            (slug, art['section'], stats['sections'])
+                        )
+                        section_id = cur.lastrowid
+                        stats['sections'] += 1
+
+                # Inserir artigo
                 try:
                     cur.execute('''
-                        INSERT OR IGNORE INTO article_author
-                        (article_id, author_id, seq, primary_contact,
-                         affiliation, bio, country)
-                        VALUES (?, ?, ?, ?, ?, ?, ?)
+                        INSERT INTO articles
+                        (id, seminar_slug, section_id, title, subtitle, locale,
+                         pages, pages_count, file, abstract, abstract_en, abstract_es,
+                         keywords, keywords_en, keywords_es, references_, ojs_id, doi)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     ''', (
-                        art_id, author_id, seq,
-                        1 if author.get('primary_contact') else 0,
-                        author.get('affiliation'),
-                        author.get('bio'),
-                        author.get('country', 'BR'),
+                        art_id, slug, section_id, art['title'], art['subtitle'],
+                        art['locale'], art['pages'], art['pages_count'], art['file'],
+                        art['abstract'], art['abstract_en'], art['abstract_es'],
+                        art['keywords'], art['keywords_en'], art['keywords_es'],
+                        art['references_'], art['ojs_id'], art['doi'],
                     ))
-                    stats['article_author'] += 1
-                except sqlite3.IntegrityError:
-                    pass  # mesmo autor duplicado no artigo
+                except sqlite3.IntegrityError as e:
+                    print(f'\n  ERRO artigo {art_id}: {e}')
+                    stats['skipped'] += 1
+                    continue
 
-        stats['articles'] += art_count
-        print(f'{art_count} importados')
+                art_count += 1
 
-    conn.commit()
+                # Autores
+                for seq, author in enumerate(art['authors']):
+                    gn = (author.get('givenname') or '').strip()
+                    fn = (author.get('familyname') or '').strip()
+                    if not gn or not fn:
+                        continue
 
-    # Contar autores
-    cur.execute('SELECT COUNT(*) FROM authors')
-    stats['authors'] = cur.fetchone()[0]
+                    author_id = get_or_create_author(cur, gn, fn)
+                    update_author_contact(
+                        cur, author_id,
+                        author.get('email'),
+                        author.get('orcid')
+                    )
 
-    # Resumo
-    print(f'\n{"="*50}')
-    print(f'Seminários:      {stats["seminars"]}')
-    print(f'Seções:          {stats["sections"]}')
-    print(f'Artigos:         {stats["articles"]}')
-    print(f'Autores únicos:  {stats["authors"]}')
-    print(f'Vínculos autor:  {stats["article_author"]}')
-    if stats['skipped']:
-        print(f'Artigos pulados: {stats["skipped"]}')
+                    try:
+                        cur.execute('''
+                            INSERT OR IGNORE INTO article_author
+                            (article_id, author_id, seq, primary_contact,
+                             affiliation, bio, country)
+                            VALUES (?, ?, ?, ?, ?, ?, ?)
+                        ''', (
+                            art_id, author_id, seq,
+                            1 if author.get('primary_contact') else 0,
+                            author.get('affiliation'),
+                            author.get('bio'),
+                            author.get('country', 'BR'),
+                        ))
+                        stats['article_author'] += 1
+                    except sqlite3.IntegrityError:
+                        pass  # mesmo autor duplicado no artigo
 
-    # Top autores recorrentes
-    print(f'\nTop 10 autores por nº de artigos:')
-    cur.execute('''
-        SELECT a.givenname, a.familyname, COUNT(*) as n
-        FROM article_author aa JOIN authors a ON aa.author_id = a.id
-        GROUP BY a.id ORDER BY n DESC LIMIT 10
-    ''')
-    for gn, fn, n in cur.fetchall():
-        print(f'  {n:3d} artigos — {gn} {fn}')
+            stats['articles'] += art_count
+            print(f'{art_count} importados')
 
-    # Autores com email/orcid
-    cur.execute('SELECT COUNT(*) FROM authors WHERE email IS NOT NULL')
-    with_email = cur.fetchone()[0]
-    cur.execute('SELECT COUNT(*) FROM authors WHERE orcid IS NOT NULL')
-    with_orcid = cur.fetchone()[0]
-    print(f'\nAutores com email: {with_email}/{stats["authors"]}')
-    print(f'Autores com ORCID: {with_orcid}/{stats["authors"]}')
+        conn.commit()
 
-    conn.close()
+        # Contar autores
+        cur.execute('SELECT COUNT(*) FROM authors')
+        stats['authors'] = cur.fetchone()[0]
+
+        # Resumo
+        print(f'\n{"="*50}')
+        print(f'Seminários:      {stats["seminars"]}')
+        print(f'Seções:          {stats["sections"]}')
+        print(f'Artigos:         {stats["articles"]}')
+        print(f'Autores únicos:  {stats["authors"]}')
+        print(f'Vínculos autor:  {stats["article_author"]}')
+        if stats['skipped']:
+            print(f'Artigos pulados: {stats["skipped"]}')
+
+        # Top autores recorrentes
+        print(f'\nTop 10 autores por nº de artigos:')
+        cur.execute('''
+            SELECT a.givenname, a.familyname, COUNT(*) as n
+            FROM article_author aa JOIN authors a ON aa.author_id = a.id
+            GROUP BY a.id ORDER BY n DESC LIMIT 10
+        ''')
+        for gn, fn, n in cur.fetchall():
+            print(f'  {n:3d} artigos — {gn} {fn}')
+
+        # Autores com email/orcid
+        cur.execute('SELECT COUNT(*) FROM authors WHERE email IS NOT NULL')
+        with_email = cur.fetchone()[0]
+        cur.execute('SELECT COUNT(*) FROM authors WHERE orcid IS NOT NULL')
+        with_orcid = cur.fetchone()[0]
+        print(f'\nAutores com email: {with_email}/{stats["authors"]}')
+        print(f'Autores com ORCID: {with_orcid}/{stats["authors"]}')
+
+    finally:
+        conn.close()
     print(f'\nBanco atualizado: {os.path.abspath(DB_PATH)}')
 
 

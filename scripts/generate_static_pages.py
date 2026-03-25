@@ -283,23 +283,23 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
+    try:
+        # Generate landing page
+        landing = generate_landing_page(conn, args.base_url, cover_map)
+        with open(os.path.join(args.outdir, 'landing.html'), 'w', encoding='utf-8') as f:
+            f.write(landing)
+        print(f'Generated: landing.html')
 
-    # Generate landing page
-    landing = generate_landing_page(conn, args.base_url, cover_map)
-    with open(os.path.join(args.outdir, 'landing.html'), 'w', encoding='utf-8') as f:
-        f.write(landing)
-    print(f'Generated: landing.html')
-
-    # Generate group pages
-    for group in GROUPS:
-        page = generate_group_page(conn, group, args.base_url, cover_map)
-        filename = f'{group["slug"]}.html'
-        with open(os.path.join(args.outdir, filename), 'w', encoding='utf-8') as f:
-            f.write(page)
-        n_sems = len(get_seminars(conn, group['volume']))
-        print(f'Generated: {filename} ({n_sems} seminários)')
-
-    conn.close()
+        # Generate group pages
+        for group in GROUPS:
+            page = generate_group_page(conn, group, args.base_url, cover_map)
+            filename = f'{group["slug"]}.html'
+            with open(os.path.join(args.outdir, filename), 'w', encoding='utf-8') as f:
+                f.write(page)
+            n_sems = len(get_seminars(conn, group['volume']))
+            print(f'Generated: {filename} ({n_sems} seminários)')
+    finally:
+        conn.close()
     print(f'\nAll pages in {args.outdir}/')
 
 

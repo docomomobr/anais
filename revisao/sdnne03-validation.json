@@ -13,7 +13,20 @@
     "keywords_es": 0,
     "references_": 41
   },
-  "auto_fixed": [],
+  "auto_fixed": [
+    {
+      "check": "A17",
+      "article_id": "sdnne03-006",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "1 referências duplicadas",
+      "suggestion": "Remover duplicatas",
+      "dup_indices": [
+        20
+      ]
+    }
+  ],
   "issues": [
     {
       "check": "A11",
@@ -62,16 +75,6 @@
       "auto_fixable": false,
       "detail": "abstract_en presente mas keywords_en faltando",
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
-    },
-    {
-      "check": "A11",
-      "article_id": "sdnne03-013",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 6,
-      "detail": "Ref muito longa (822 chars), possível concatenação: \"Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de feverei...\"",
-      "suggestion": "Verificar e separar se necessário"
     }
   ],
   "category_b_candidates": [
@@ -95,14 +98,6 @@
         "A11"
       ],
       "reason": "Ref muito longa (596 chars), possível concatenação: \"MORENO, A. Edifício Caramuru. Blog Guia do Ócio. Salvador, 03/02/? Disponível em...\""
-    },
-    {
-      "article_id": "sdnne03-013",
-      "checks_flagged": [
-        "A01",
-        "A11"
-      ],
-      "reason": "Ref muito longa (822 chars), possível concatenação: \"Centro de Convenções do Estado. Diário de Pernambuco. Publicado em 23 de feverei...\""
     }
   ]
 }

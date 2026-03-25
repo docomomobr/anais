@@ -70,18 +70,25 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Revisão humana
 
-- [x] Sem correções humanas pendentes (0 items no rev.md)
+- [x] 5 correções humanas aplicadas:
+  - sdnne03-004: refs split (ANDRADE+IAB concatenadas), removido Ibid colado
+  - sdnne03-006: backfill 3 Idem/Ibidem, split entrevista+ofício, removido ref "."
+  - sdnne03-007: title lowercase (antiga, análise, especial, moderna)
+  - sdnne03-013: refs concatenadas (ref[6] 4-em-1 truncada, PACHECO+Projeto splitada)
+  - sdnne03-021: subtitle "Património" → "património"
 
 > Próximo: Fase 3
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [x] **3.1** Diagnóstico: 245 correções automáticas, 0 humanas. Causas: 4 subtítulos ausentes, 53 refs LLM, 22 títulos LLM, 13 autores corrigidos, 61 afiliações
+- [x] **3.1** Diagnóstico: 245 correções automáticas + 5 humanas. Causas: 4 subtítulos ausentes, 53 refs LLM, 22 títulos LLM, 13 autores corrigidos, 61 afiliações. Humanas: 3 refs concatenadas (004/013), 1 backfill idem/ibidem (006), 1 title capitalização (007), 1 subtitle capitalização (021)
 - [x] **3.2** Dict: 5 genéricos adicionados ao STOPWORDS (antiga, exposições, marítima, migrantes, severinos)
 - [x] **3.3** Scripts: sem alterações (padrões já cobertos)
 - [x] **3.4** Pipeline: sem gaps a adicionar
 - [x] **3.5** Dry-run: 0 regressões em sdbr01/sdbr08/sdsul06/sdnne01
 - [x] **3.6** Aprendizado registrado (sdnne03-aprendizado.json)
-- [x] **3.7** Engenharia: 46 scripts auditados, 9 fixes (1 HIGH + 8 MEDIUM) em 6 scripts
-- [x] **3.8** Checklist: abstract 100%, abs_en 95%, kw 95%, kw_en 90%, refs 100%, ORCID 56%, 6 issues genuínos
+- [x] **3.7** Engenharia: 46 scripts auditados, 22 fixes total (3+1 HIGH + 10+8 MEDIUM) em 16 scripts
+  - HIGH: _scan_fonts_sdbr13.py, _find_no_abstract_label.py, _check_pdf_text.py (file handle leaks)
+  - MEDIUM: dump_anais_db, db2hugo, generate_ojs_xml, generate_static_pages, export_db_to_yaml, import_yaml_to_db, extract_title_en_sdbr13, dict/dump_db, dict/seed_titles, dict/seed_authors (try/finally)
+- [x] **3.8** Checklist: abstract 100%, abs_en 95%, kw 95%, kw_en 90%, refs 100%, ORCID 56%, 5 issues genuínos
 - [x] **3.9** Fechar: dump + commit + push + CLAUDE.md

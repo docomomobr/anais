@@ -3,9 +3,9 @@
   "date": "2026-03-24",
   "articles": 41,
   "corrections": {
-    "total": 245,
+    "total": 250,
     "automatic": 245,
-    "human": 0
+    "human": 5
   },
   "patterns": [
     {
@@ -58,5 +58,11 @@
       "words": ["Presente", "preservação", "Tectônica", "X", "Vida", "Residencial", "Nova"]
     }
   ],
-  "human_corrections": []
+  "human_corrections": [
+    {"article": "004", "field": "references", "action": "split concatenated ANDRADE+IAB refs, removed Ibid from WOLF ref"},
+    {"article": "006", "field": "references", "action": "backfill 3 Idem/Ibidem, split entrevista+ofício, removed empty ref"},
+    {"article": "007", "field": "title", "action": "lowercase: antiga, análise, especial, moderna"},
+    {"article": "013", "field": "references", "action": "truncated 4-in-1 concatenated ref, split PACHECO+Projeto"},
+    {"article": "021", "field": "subtitle", "action": "lowercase: património"}
+  ]
 }

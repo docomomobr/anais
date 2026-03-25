@@ -122,14 +122,18 @@ def extract_candidates(source_db, table='articles',
         return {}
 
     src = sqlite3.connect(source_db)
-    rows = src.execute(f'SELECT {title_col}, {subtitle_col} FROM {table}').fetchall()
-    src.close()
+    try:
+        rows = src.execute(f'SELECT {title_col}, {subtitle_col} FROM {table}').fetchall()
+    finally:
+        src.close()
 
     dict_conn = sqlite3.connect(DICT_DB)
-    existing = set(
-        r[0] for r in dict_conn.execute('SELECT word FROM dict_names').fetchall()
-    )
-    dict_conn.close()
+    try:
+        existing = set(
+            r[0] for r in dict_conn.execute('SELECT word FROM dict_names').fetchall()
+        )
+    finally:
+        dict_conn.close()
 
     # Contar ocorrências de cada candidato
     candidates = {}  # word_lower → {canonical, count, contexts}

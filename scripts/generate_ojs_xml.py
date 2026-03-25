@@ -599,31 +599,31 @@ def main():
 
     # Connect to DB
     conn = get_db()
+    try:
+        if args.slug:
+            slugs = [args.slug]
+        else:
+            # Only regionals (never import nationals — they're already published)
+            rows = conn.execute(
+                "SELECT slug FROM seminars WHERE slug NOT LIKE 'sdbr%' ORDER BY volume, number"
+            ).fetchall()
+            slugs = [r['slug'] for r in rows]
 
-    if args.slug:
-        slugs = [args.slug]
-    else:
-        # Only regionals (never import nationals — they're already published)
-        rows = conn.execute(
-            "SELECT slug FROM seminars WHERE slug NOT LIKE 'sdbr%' ORDER BY volume, number"
-        ).fetchall()
-        slugs = [r['slug'] for r in rows]
+        mode = 'with PDF (1 per article)' if args.with_pdf else 'metadata only (1 per seminar)'
+        print(f'Generating XML for {len(slugs)} seminars ({mode})...\n')
 
-    mode = 'with PDF (1 per article)' if args.with_pdf else 'metadata only (1 per seminar)'
-    print(f'Generating XML for {len(slugs)} seminars ({mode})...\n')
+        total_files = 0
+        for slug in slugs:
+            result = generate_issue_xml(conn, slug, fichas, args.outdir, with_pdf=args.with_pdf)
+            if result:
+                if isinstance(result, list):
+                    total_files += len(result)
+                else:
+                    total_files += 1
 
-    total_files = 0
-    for slug in slugs:
-        result = generate_issue_xml(conn, slug, fichas, args.outdir, with_pdf=args.with_pdf)
-        if result:
-            if isinstance(result, list):
-                total_files += len(result)
-            else:
-                total_files += 1
-
-    print(f'\nDone: {total_files} XML files in {args.outdir}/')
-
-    conn.close()
+        print(f'\nDone: {total_files} XML files in {args.outdir}/')
+    finally:
+        conn.close()
 
 
 if __name__ == '__main__':

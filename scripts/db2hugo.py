@@ -492,30 +492,32 @@ def main():
         sys.exit(1)
 
     db = get_db()
-    outdir = args.outdir
-    os.makedirs(outdir, exist_ok=True)
+    try:
+        outdir = args.outdir
+        os.makedirs(outdir, exist_ok=True)
 
-    # Load fichas catalográficas
-    fichas = load_fichas()
+        # Load fichas catalográficas
+        fichas = load_fichas()
 
-    # Write homepage
-    write_homepage(outdir)
+        # Write homepage
+        write_homepage(outdir)
 
-    if args.all:
-        slugs = [r['slug'] for r in db.execute(
-            "SELECT slug FROM seminars ORDER BY slug"
-        ).fetchall()]
-    else:
-        slugs = [args.seminar]
+        if args.all:
+            slugs = [r['slug'] for r in db.execute(
+                "SELECT slug FROM seminars ORDER BY slug"
+            ).fetchall()]
+        else:
+            slugs = [args.seminar]
 
-    total = 0
-    for slug in slugs:
-        count = generate_seminar(db, slug, outdir, fichas=fichas)
-        print(f"{slug}: {count} artigos")
-        total += count
+        total = 0
+        for slug in slugs:
+            count = generate_seminar(db, slug, outdir, fichas=fichas)
+            print(f"{slug}: {count} artigos")
+            total += count
 
-    print(f"\nTotal: {total} artigos em {outdir}/")
-    db.close()
+        print(f"\nTotal: {total} artigos em {outdir}/")
+    finally:
+        db.close()
 
 
 if __name__ == '__main__':

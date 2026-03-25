@@ -20,12 +20,12 @@ def dump():
         return
 
     conn = sqlite3.connect(DB_PATH)
-
-    with open(SQL_PATH, 'w', encoding='utf-8') as f:
-        for line in conn.iterdump():
-            f.write(line + '\n')
-
-    conn.close()
+    try:
+        with open(SQL_PATH, 'w', encoding='utf-8') as f:
+            for line in conn.iterdump():
+                f.write(line + '\n')
+    finally:
+        conn.close()
 
     total = os.path.getsize(SQL_PATH)
     print(f'→ {SQL_PATH} ({total:,} bytes)')

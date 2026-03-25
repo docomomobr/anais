@@ -259,40 +259,40 @@ def main():
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
-
-    if args.slug:
-        slugs = [args.slug]
-    else:
-        rows = conn.execute('SELECT slug FROM seminars ORDER BY volume, number').fetchall()
-        slugs = [r['slug'] for r in rows]
-
-    exported = 0
-    for slug in slugs:
-        data = export_seminar(conn, slug)
-        if not data:
-            continue
-
-        n_articles = len(data['articles'])
-
-        if args.outdir:
-            outpath = os.path.join(args.outdir, f'{slug}.yaml')
-        elif slug in SLUG_TO_PATH:
-            outpath = SLUG_TO_PATH[slug]
+    try:
+        if args.slug:
+            slugs = [args.slug]
         else:
-            print(f'  {slug}: sem YAML existente, pulando (use --outdir)', file=sys.stderr)
-            continue
+            rows = conn.execute('SELECT slug FROM seminars ORDER BY volume, number').fetchall()
+            slugs = [r['slug'] for r in rows]
 
-        if args.dry_run:
-            print(f'  {slug}: {n_articles} artigos → {outpath}')
-        else:
-            os.makedirs(os.path.dirname(outpath), exist_ok=True)
-            with open(outpath, 'w', encoding='utf-8') as f:
-                f.write(dump_yaml(data))
-            print(f'  {slug}: {n_articles} artigos → {outpath}')
+        exported = 0
+        for slug in slugs:
+            data = export_seminar(conn, slug)
+            if not data:
+                continue
 
-        exported += 1
+            n_articles = len(data['articles'])
 
-    conn.close()
+            if args.outdir:
+                outpath = os.path.join(args.outdir, f'{slug}.yaml')
+            elif slug in SLUG_TO_PATH:
+                outpath = SLUG_TO_PATH[slug]
+            else:
+                print(f'  {slug}: sem YAML existente, pulando (use --outdir)', file=sys.stderr)
+                continue
+
+            if args.dry_run:
+                print(f'  {slug}: {n_articles} artigos → {outpath}')
+            else:
+                os.makedirs(os.path.dirname(outpath), exist_ok=True)
+                with open(outpath, 'w', encoding='utf-8') as f:
+                    f.write(dump_yaml(data))
+                print(f'  {slug}: {n_articles} artigos → {outpath}')
+
+            exported += 1
+    finally:
+        conn.close()
     print(f'\nTotal: {exported} seminários exportados')
 
 

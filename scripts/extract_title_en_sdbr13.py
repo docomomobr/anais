@@ -188,76 +188,75 @@ def main():
     args = parser.parse_args()
 
     conn = sqlite3.connect(DB_PATH)
-
-    rows = conn.execute(
-        '''SELECT file, title, subtitle, abstract_en, title_en, subtitle_en
-           FROM articles WHERE seminar_slug='sdbr13' AND abstract_en IS NOT NULL
-           ORDER BY file'''
-    ).fetchall()
-
-    print(f'Total articles with abstract_en: {len(rows)}')
-    print()
-
-    extracted = []
-    skipped_existing = 0
-    no_title_found = 0
-
-    for file, title_pt, subtitle_pt, abstract_en, existing_title_en, existing_subtitle_en in rows:
-        if existing_title_en and existing_title_en.strip():
-            skipped_existing += 1
-            continue
-
-        pdf_path = os.path.join(PDF_DIR, file)
-        if not os.path.exists(pdf_path):
-            continue
-
-        text = extract_text_pages(pdf_path)
-        if not text:
-            continue
-
-        title_en, subtitle_en = find_en_title(text)
-
-        if title_en:
-            title_en_norm = apply_title_case(title_en)
-            subtitle_en_norm = apply_title_case(subtitle_en) if subtitle_en else None
-
-            extracted.append((file, title_en, subtitle_en, title_en_norm, subtitle_en_norm))
-            print(f'{file}:')
-            print(f'  PT: {title_pt}')
-            if subtitle_pt:
-                print(f'  PT sub: {subtitle_pt}')
-            print(f'  EN raw: {title_en}')
-            if subtitle_en:
-                print(f'  EN sub raw: {subtitle_en}')
-            print(f'  EN norm: {title_en_norm}')
-            if subtitle_en_norm:
-                print(f'  EN sub norm: {subtitle_en_norm}')
-            print()
-        else:
-            no_title_found += 1
-            if args.verbose:
-                print(f'{file}: no EN title found')
-
-    print(f'=== Summary ===')
-    print(f'Articles with abstract_en: {len(rows)}')
-    print(f'Already had title_en: {skipped_existing}')
-    print(f'EN titles extracted: {len(extracted)}')
-    print(f'No EN title found: {no_title_found}')
-    print()
-
-    if args.scan_only:
-        print('(scan-only mode)')
-        return
-
-    if not extracted:
-        print('No titles to write.')
-        return
-
-    if args.dry_run:
-        print('(dry-run mode)')
-        return
-
     try:
+        rows = conn.execute(
+            '''SELECT file, title, subtitle, abstract_en, title_en, subtitle_en
+               FROM articles WHERE seminar_slug='sdbr13' AND abstract_en IS NOT NULL
+               ORDER BY file'''
+        ).fetchall()
+
+        print(f'Total articles with abstract_en: {len(rows)}')
+        print()
+
+        extracted = []
+        skipped_existing = 0
+        no_title_found = 0
+
+        for file, title_pt, subtitle_pt, abstract_en, existing_title_en, existing_subtitle_en in rows:
+            if existing_title_en and existing_title_en.strip():
+                skipped_existing += 1
+                continue
+
+            pdf_path = os.path.join(PDF_DIR, file)
+            if not os.path.exists(pdf_path):
+                continue
+
+            text = extract_text_pages(pdf_path)
+            if not text:
+                continue
+
+            title_en, subtitle_en = find_en_title(text)
+
+            if title_en:
+                title_en_norm = apply_title_case(title_en)
+                subtitle_en_norm = apply_title_case(subtitle_en) if subtitle_en else None
+
+                extracted.append((file, title_en, subtitle_en, title_en_norm, subtitle_en_norm))
+                print(f'{file}:')
+                print(f'  PT: {title_pt}')
+                if subtitle_pt:
+                    print(f'  PT sub: {subtitle_pt}')
+                print(f'  EN raw: {title_en}')
+                if subtitle_en:
+                    print(f'  EN sub raw: {subtitle_en}')
+                print(f'  EN norm: {title_en_norm}')
+                if subtitle_en_norm:
+                    print(f'  EN sub norm: {subtitle_en_norm}')
+                print()
+            else:
+                no_title_found += 1
+                if args.verbose:
+                    print(f'{file}: no EN title found')
+
+        print(f'=== Summary ===')
+        print(f'Articles with abstract_en: {len(rows)}')
+        print(f'Already had title_en: {skipped_existing}')
+        print(f'EN titles extracted: {len(extracted)}')
+        print(f'No EN title found: {no_title_found}')
+        print()
+
+        if args.scan_only:
+            print('(scan-only mode)')
+            return
+
+        if not extracted:
+            print('No titles to write.')
+            return
+
+        if args.dry_run:
+            print('(dry-run mode)')
+            return
+
         for file, _, _, title_en_norm, subtitle_en_norm in extracted:
             conn.execute(
                 "UPDATE articles SET title_en=?, subtitle_en=? WHERE file=? AND seminar_slug='sdbr13'",

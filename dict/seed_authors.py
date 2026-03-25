@@ -103,26 +103,27 @@ def seed(source_db, table='authors', gn_col='givenname', fn_col='familyname'):
         all_parts.update(extract_name_parts(gn, fn))
 
     dict_conn = sqlite3.connect(DICT_DB)
+    try:
+        # Não sobrescrever entradas manuais ou de outras categorias
+        existing = set(
+            r[0] for r in dict_conn.execute('SELECT word FROM dict_names').fetchall()
+        )
 
-    # Não sobrescrever entradas manuais ou de outras categorias
-    existing = set(
-        r[0] for r in dict_conn.execute('SELECT word FROM dict_names').fetchall()
-    )
+        added = 0
+        for word, canonical in sorted(all_parts):
+            if word in EXCLUDE_COMMON_WORDS:
+                continue
+            if word not in existing:
+                dict_conn.execute(
+                    'INSERT INTO dict_names (word, category, canonical, source) '
+                    'VALUES (?, ?, ?, ?)',
+                    (word, 'nome', canonical, 'autores'))
+                added += 1
 
-    added = 0
-    for word, canonical in sorted(all_parts):
-        if word in EXCLUDE_COMMON_WORDS:
-            continue
-        if word not in existing:
-            dict_conn.execute(
-                'INSERT INTO dict_names (word, category, canonical, source) '
-                'VALUES (?, ?, ?, ?)',
-                (word, 'nome', canonical, 'autores'))
-            added += 1
-
-    dict_conn.commit()
-    total = dict_conn.execute("SELECT COUNT(*) FROM dict_names WHERE category='nome'").fetchone()[0]
-    dict_conn.close()
+        dict_conn.commit()
+        total = dict_conn.execute("SELECT COUNT(*) FROM dict_names WHERE category='nome'").fetchone()[0]
+    finally:
+        dict_conn.close()
 
     print(f'Autores lidos: {len(rows)}')
     print(f'Partes de nome extraídas: {len(all_parts)}')
