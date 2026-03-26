@@ -272,6 +272,8 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   Para CADA artigo: ler o plumber INTEIRO, confrontar CADA campo (título, subtítulo,
   abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF.
   Corrigir na hora (R8). Registrar resultado de CADA artigo abaixo.
+  **ATENÇÃO**: subtítulo começa com minúscula (exceto nome próprio/sigla/expressão consolidada).
+  PDFs em ALL CAPS devem ser convertidos respeitando essa regra.
   Ver §1.10 do pipeline para procedimento detalhado.
   **1.10 — Resultado por artigo:**
 {article_lines}

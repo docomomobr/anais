@@ -711,7 +711,7 @@ python3 scripts/fetch_orcid.py --apply
 Para cada artigo, na ordem do HTML:
 
 1. **Ler o plumber INTEIRO** — `cat fontes_plumber/{id}.jsonl`. Não "primeiras/últimas linhas". O arquivo inteiro.
-2. **Título e subtítulo**: o texto na primeira página com font_size grande (≥12) é o título do PDF. Comparar com o campo `title` no banco. Verificar capitalização, acentos, truncamento.
+2. **Título e subtítulo**: o texto na primeira página com font_size grande (≥12) é o título do PDF. Comparar com o campo `title` no banco. Verificar capitalização, acentos, truncamento. **Subtítulo começa com minúscula** (exceto se iniciar com nome próprio, sigla, ou expressão consolidada — ver `regras_dados.md` §Capitalização). PDFs em ALL CAPS devem ser convertidos: o título mantém maiúscula inicial, o subtítulo recebe minúscula inicial.
 3. **Abstract PT**: localizar o bloco de texto após "Resumo" (font_size ~10). Comparar com `abstract` no banco. Verificar:
    - Começa no mesmo ponto? (Truncamento no início é o erro mais comum)
    - Termina no mesmo ponto? (Truncamento no final)
