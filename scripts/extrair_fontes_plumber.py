@@ -374,8 +374,9 @@ def post_classify(blocks):
     # Padrão: aceita número prefixado ("9.Referências", "7. NOTAS", etc.)
     _NUM_PREFIX = r'(?:\d+[\.\s\-–—]*\s*)?'
 
+    # Tolerante a typos: "Rerefências" (r/f swap), "Bibliográfica" (singular)
     REF_HEADINGS = re.compile(
-        _NUM_PREFIX + r'(referências|referencias|bibliograf[íi]a|references|refer[êe]ncias\s+bibliográficas)$',
+        _NUM_PREFIX + r'(re[rf]e[rf][êe]ncias|referencias|bibliograf[íi]as?|references|re[rf]e[rf][êe]ncias\s+bibliogr[áa]ficas?)$',
         re.IGNORECASE
     )
     NOTE_HEADINGS = re.compile(

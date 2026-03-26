@@ -1,0 +1,44 @@
+{
+  "seminario": "sdnne07",
+  "artigos": 65,
+  "correcoes_automaticas": 59,
+  "correcoes_humanas": 14,
+  "causas": {
+    "normalizer_falsos_positivos": {
+      "count": 6,
+      "palavras_removidas": [
+        "tropical",
+        "banco",
+        "concurso",
+        "futebol",
+        "imóveis",
+        "três",
+        "urbanístico"
+      ],
+      "nota": "brutalismo vs Brutalismo depende do contexto (substantivo=maiúscula, adjetivo=minúscula)"
+    },
+    "llm_split_titulo_subtitulo": {
+      "count": 2,
+      "nota": "Agentes LLM separaram título longo em título+subtítulo quando não deviam. Pipeline 1.10 atualizado"
+    },
+    "plumber_heading_nao_reconhecido": {
+      "count": 2,
+      "nota": "Typo Rerefências (r/f swap) e Bibliográfica (singular). Regex REF_HEADINGS corrigido"
+    },
+    "pdf_corrompido": {
+      "count": 2,
+      "nota": "015 e 032 sem /Root object. Marcados document_type=defeituoso"
+    },
+    "subtitulo_maiuscula": {
+      "count": 16,
+      "nota": "Agentes LLM copiaram capitalização do PDF. Regra adicionada no pipeline e runner"
+    }
+  },
+  "scripts_alterados": [
+    "extrair_fontes_plumber.py",
+    "gerar_runner.py"
+  ],
+  "docs_alterados": [
+    "pipeline_revisao.md"
+  ]
+}

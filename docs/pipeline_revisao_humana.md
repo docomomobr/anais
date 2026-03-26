@@ -54,6 +54,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdmg01 | 26 | 2026-03-23 | 1 correção (012 subtitle typo mg1→MG) |
 | sdrj02 | 19 | 2026-03-23 | 2 correções (002 arquitetura lowercase, 007 Arquivologia uppercase) |
 | sdrj03 | 7 | 2026-03-23 | 0 correções (2 editorial + 2 pôsteres + 3 vídeos) |
+| sdnne07 | 65 | 2026-03-26 | 14 correções: 6 títulos capitalização, 2 títulos expandidos, 3 refs extraídas/corrigidas, 2 PDFs defeituosos, 1 resumo |
 
 ---
 
