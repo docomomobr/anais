@@ -63,6 +63,6 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **3.4** Pipeline: §1.10 atualizado com regra explícita de subtítulo minúsculo; gerar_runner.py template atualizado
 - [x] **3.5** Dry-run: regex testado, sem regressão
 - [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + CLAUDE.md
+- [x] **3.7** Revisão de engenharia: auditoria completa de 13 scripts. 1 fix: fetch_orcid.py (orcid_exclusions table crash em bancos sem a tabela)
+- [x] **3.8** Checklist de conclusão
+- [x] **3.9** Fechar: dump + commit + CLAUDE.md

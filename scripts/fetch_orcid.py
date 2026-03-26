@@ -651,10 +651,13 @@ def phase_search(resume=False, recheck_days=None, slug=None):
             print(f'Retomando: {len(processed_ids)} autores já processados')
 
         # Carregar exclusões (falsos positivos conhecidos)
-        cur.execute("SELECT author_id, orcid FROM orcid_exclusions")
         exclusions = set()
-        for row in cur.fetchall():
-            exclusions.add((row[0], row[1]))
+        try:
+            cur.execute("SELECT author_id, orcid FROM orcid_exclusions")
+            for row in cur.fetchall():
+                exclusions.add((row[0], row[1]))
+        except sqlite3.OperationalError:
+            pass  # tabela não existe em bancos antigos/novos
         if exclusions:
             print(f'Exclusões carregadas: {len(exclusions)}')
 
