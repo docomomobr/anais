@@ -1,0 +1,52 @@
+{
+  "slug": "sdnne08",
+  "date": "2026-03-26",
+  "total_articles": 41,
+  "corrections": {
+    "automatic": {
+      "normalizer": 19,
+      "normalizer_reversions": 12,
+      "dict_removals": 8,
+      "sweep": 16,
+      "llm_review": 30
+    },
+    "human": 0
+  },
+  "causes": [
+    {
+      "cause": "dict genéricos (8 palavras)",
+      "words": ["planejada", "vida", "água", "especiais", "indústrias", "transição", "espaço público", "espaço privado"],
+      "count": 12,
+      "fix": "removidas do dict.db",
+      "recurrence_risk": "baixo"
+    },
+    {
+      "cause": "refs concatenadas não detectadas pelo sweep",
+      "articles": ["012", "020", "033", "035"],
+      "count": 4,
+      "fix": "split manual na revisão LLM",
+      "recurrence_risk": "médio — sweep não detecta quando refs adjacentes não têm separador ABNT claro"
+    },
+    {
+      "cause": "plumber OCR: palavras grudadas ou quebradas",
+      "articles": ["037", "039"],
+      "count": 6,
+      "fix": "correção manual",
+      "recurrence_risk": "baixo — depende da qualidade do PDF"
+    },
+    {
+      "cause": "refs faltantes no banco (presentes no PDF)",
+      "articles": ["001", "028", "031"],
+      "count": 4,
+      "fix": "adicionadas manualmente",
+      "recurrence_risk": "médio — importação inicial pode perder refs no final da lista"
+    },
+    {
+      "cause": "subtítulo capitalização contextual (nomes próprios vs genéricos)",
+      "articles": ["003", "009", "010", "021", "024"],
+      "count": 6,
+      "fix": "correção manual na revisão LLM",
+      "recurrence_risk": "alto — normalizer não entende contexto institucional/geográfico"
+    }
+  ]
+}
