@@ -104,6 +104,6 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 - [x] **3.4** Pipeline: sem gaps identificados
 - [x] **3.5** Dry-run: normalizer mostra 10 mudanças (todas são reversões já aplicadas — esperado)
 - [x] **3.6** Registrar aprendizado: sdnne08-aprendizado.json
-- [x] **3.7** Revisão de engenharia: 16 scripts auditados, 0 bugs críticos, 2 high (column whitelist, IPv4 monkey-patch), 9 medium
+- [x] **3.7** Revisão de engenharia (pós-rev.humana): 16 scripts auditados, 0 critical, 4 high (assert→raise, column whitelist, IPv4 patch, LIMIT), 7 medium, 5 low. Sem bugs novos
 - [x] **3.8** Checklist de conclusão
 - [x] **3.9** Fechar: dump + commit + CLAUDE.md
