@@ -1,0 +1,65 @@
+{
+  "slug": "sdnne08",
+  "date": "2026-03-26",
+  "total_articles": 41,
+  "profile": {
+    "total": 41,
+    "locale_es": 0,
+    "abstract": 41,
+    "abstract_en": 0,
+    "abstract_es": 0,
+    "keywords": 41,
+    "keywords_en": 0,
+    "keywords_es": 0,
+    "references_": 41
+  },
+  "auto_fixed": [
+    {
+      "check": "A28",
+      "article_id": "sdnne08-041",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract: começa com título \"Zenon Lotufo...\"",
+      "suggestion": "Remover título do início"
+    }
+  ],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdnne08-010",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "Ref muito longa (511 chars), possível concatenação: \"PEREIRA, Ana Cristina Furtado; FAVARO, Neide de Almeida Lança Galvão; História d...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdnne08-027",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "Ref muito longa (662 chars), possível concatenação: \"GOVERNO DO DISTRITO FEDERAL. Decreto n. 40.569, de 27 de março de 2020. Regulame...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdnne08-010",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (511 chars), possível concatenação: \"PEREIRA, Ana Cristina Furtado; FAVARO, Neide de Almeida Lança Galvão; História d...\""
+    },
+    {
+      "article_id": "sdnne08-027",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (662 chars), possível concatenação: \"GOVERNO DO DISTRITO FEDERAL. Decreto n. 40.569, de 27 de março de 2020. Regulame...\""
+    }
+  ]
+}

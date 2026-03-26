@@ -1,0 +1,43 @@
+{
+  "body_size": 12.0,
+  "abstract_size": 10.0,
+  "footnote_max": 8.8,
+  "heading_min": 12.5,
+  "pagenum_sizes": [
+    9.1
+  ],
+  "size_role": {
+    "5.2": "footnote",
+    "5.5": "footnote",
+    "5.8": "footnote",
+    "6.4": "footnote",
+    "6.5": "footnote",
+    "7.0": "footnote",
+    "7.9": "footnote",
+    "8.0": "footnote",
+    "8.4": "footnote",
+    "9.0": "small",
+    "9.1": "pagenum",
+    "10.0": "abstract",
+    "10.1": "abstract",
+    "10.5": "small",
+    "10.6": "small",
+    "11.0": "small",
+    "11.5": "small",
+    "12.0": "body",
+    "12.5": "heading",
+    "13.0": "heading",
+    "13.4": "heading",
+    "13.9": "heading",
+    "14.0": "heading",
+    "15.1": "heading",
+    "15.6": "heading",
+    "16.1": "heading",
+    "17.0": "heading",
+    "17.5": "heading",
+    "18.0": "heading",
+    "24.0": "heading"
+  },
+  "sample_count": 10,
+  "total_pdfs": 41
+}
