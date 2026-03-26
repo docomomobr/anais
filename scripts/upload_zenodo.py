@@ -128,7 +128,8 @@ def fetch_articles(db, seminar_slug, limit=None):
         ORDER BY a.id
     """
     if limit:
-        sql += f' LIMIT {int(limit)}'
+        sql += ' LIMIT ?'
+        return db.execute(sql, (seminar_slug, int(limit))).fetchall()
     return db.execute(sql, (seminar_slug,)).fetchall()
 
 

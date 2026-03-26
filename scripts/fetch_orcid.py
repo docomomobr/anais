@@ -38,13 +38,18 @@ import urllib.request
 from datetime import datetime, timedelta
 
 # IPv4 forçado dentro de main() — ver _force_ipv4()
+_orig_getaddrinfo = socket.getaddrinfo
+
 def _force_ipv4():
     """Força IPv4 para evitar timeout de ~30s em redes sem IPv6.
     Chamado apenas em main(), não no import (evita side effect global)."""
-    _orig = socket.getaddrinfo
-    def _ipv4_only(host, port, family=0, *args, **kwargs):
-        return _orig(host, port, socket.AF_INET, *args, **kwargs)
+    def _ipv4_only(host, port, family=0, type=0, proto=0, flags=0):
+        return _orig_getaddrinfo(host, port, socket.AF_INET, type, proto, flags)
     socket.getaddrinfo = _ipv4_only
+
+def _restore_getaddrinfo():
+    """Restaura socket.getaddrinfo original."""
+    socket.getaddrinfo = _orig_getaddrinfo
 
 # Versão do pipeline — incrementar ao adicionar fontes, corrigir bugs, ou
 # alterar critérios de matching. Permite saber se vale a pena re-checar autores.

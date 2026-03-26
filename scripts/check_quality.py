@@ -26,6 +26,8 @@ import sys
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(BASE_DIR, 'anais.db')
 
+_VALID_COLS = frozenset({'title', 'subtitle', 'keywords', 'keywords_en'})
+
 STATES = frozenset({
     'ac', 'al', 'am', 'ap', 'ba', 'ce', 'df', 'es', 'go', 'ma', 'mg', 'ms',
     'mt', 'pa', 'pb', 'pe', 'pi', 'pr', 'rj', 'rn', 'ro', 'rr', 'rs', 'sc',
@@ -153,6 +155,8 @@ def main():
 
             for art in articles:
                 for field in ['title', 'subtitle']:
+                    if field not in _VALID_COLS:
+                        raise ValueError(f"Invalid column: {field}")
                     val = art[field]
                     if not val:
                         continue

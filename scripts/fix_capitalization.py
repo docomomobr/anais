@@ -15,10 +15,14 @@ db = sqlite3.connect(DB)
 cur = db.cursor()
 total = 0
 
+_VALID_COLS = frozenset({'title', 'subtitle'})
+
 def fix(old, new):
     """Case-sensitive REPLACE on title and subtitle, only regionals."""
     global total
     for f in ('title', 'subtitle'):
+        if f not in _VALID_COLS:
+            raise ValueError(f"Invalid column: {f}")
         cur.execute(
             f"UPDATE articles SET {f} = REPLACE({f}, ?, ?) "
             f"WHERE {f} GLOB ? AND seminar_slug NOT LIKE 'sdbr%'",

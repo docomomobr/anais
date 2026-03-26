@@ -35,6 +35,13 @@ import sys
 
 DB = "/home/danilomacedo/Dropbox/docomomo/26-27/anais/anais.db"
 
+_VALID_COLS = frozenset({
+    'title', 'subtitle', 'title_es', 'subtitle_es',
+    'abstract', 'abstract_en', 'abstract_es',
+    'keywords', 'keywords_en', 'keywords_es',
+    'references_',
+})
+
 def main():
     dry_run = '--dry-run' in sys.argv
     conn = sqlite3.connect(DB)
@@ -213,6 +220,8 @@ def main():
     # Execute updates
     count = 0
     for art_id, field, new_val, old_val, reason in updates:
+        if field not in _VALID_COLS:
+            raise ValueError(f"Invalid column: {field}")
         # Verify current value matches expected
         cur.execute(f"SELECT {field} FROM articles WHERE seminar_slug='sdnne06' AND id=?", (art_id,))
         row = cur.fetchone()

@@ -337,6 +337,10 @@ def main():
             print(f"  {art_id} [EN]: {en_display}")
 
         if not args.dry_run:
+            _valid_es_cols = {'title_es', 'subtitle_es', 'title_en', 'subtitle_en'}
+            for k in updates:
+                if k not in _valid_es_cols:
+                    raise ValueError(f"extrair_titulo_es: campo inválido '{k}'")
             set_clause = ', '.join(f"{k} = ?" for k in updates)
             values = list(updates.values()) + [art_id]
             cur.execute(f"UPDATE articles SET {set_clause} WHERE id = ?", values)
