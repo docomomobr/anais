@@ -10,7 +10,7 @@
       "sweep": 16,
       "llm_review": 30
     },
-    "human": 0
+    "human": 2
   },
   "causes": [
     {
@@ -47,6 +47,13 @@
       "count": 6,
       "fix": "correção manual na revisão LLM",
       "recurrence_risk": "alto — normalizer não entende contexto institucional/geográfico"
+    },
+    {
+      "cause": "capitalização contextual (revisão humana)",
+      "articles": ["004", "029"],
+      "count": 2,
+      "fix": "004 Arquitetura→arquitetura (genérico), 029 interiores→Interiores ('Arquitetura de Interiores' expressão consolidada). Expressão adicionada ao dict.",
+      "recurrence_risk": "baixo — expressão agora no dict"
     }
   ]
 }
