@@ -1,0 +1,39 @@
+{
+  "seminar": "sdnne09",
+  "date": "2026-03-26",
+  "articles": 50,
+  "corrections_auto": 91,
+  "corrections_human": 1,
+  "issues": [
+    {
+      "type": "footer_contamination",
+      "count": 52,
+      "description": "Rodapé '9° Seminário Docomomo Norte e Nordeste São Luís, 2022' contaminava abstract_en (10 arts) e references (42 arts)",
+      "fix": "Regex removal in fix_sdnne09_llm_review.py",
+      "systemic": false,
+      "reason": "Specific to sdnne09 footer pattern; each seminar has different footers"
+    },
+    {
+      "type": "subtitle_truncation",
+      "count": 5,
+      "description": "Subtítulos truncados na extração (003, 005, 006, 011, 030)",
+      "fix": "Manual correction per LLM review",
+      "systemic": true,
+      "reason": "Extraction misses long subtitles spanning multiple pdfplumber blocks"
+    },
+    {
+      "type": "dict_generic_word",
+      "count": 4,
+      "words_removed": ["história", "modernidade", "rural", "sociedade"],
+      "description": "Dict.db forcing uppercase on generic words",
+      "fix": "Removed from dict.db"
+    },
+    {
+      "type": "keyword_split",
+      "count": 4,
+      "description": "Keywords with ambiguous separator (comma vs semicolon)",
+      "fix": "Manual split per LLM review",
+      "systemic": false
+    }
+  ]
+}

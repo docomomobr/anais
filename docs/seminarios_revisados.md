@@ -43,12 +43,13 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdnne06 | 109 | revisado | 2026-03-25 |
 | sdnne07 | 65 | revisado | 2026-03-26 |
 | sdnne08 | 41 | revisado | 2026-03-26 |
+| sdnne09 | 50 | revisado | 2026-03-26 |
 
 ---
 
 ## Status dos Seminários Regionais
 
-### Prontos para produção (29 seminarios, ~1211 artigos)
+### Prontos para produção (30 seminarios, ~1261 artigos)
 
 **N/NE** (`regionais/nne/`): sdnne01 (44), sdnne02 (33), sdnne03 (41), sdnne04 (45), sdnne05 (32), sdnne06 (109), sdnne07 (65), sdnne08 (41), sdnne09 (50), sdnne10 (85)
 

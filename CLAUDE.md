@@ -134,8 +134,8 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 - [x] **2 Paraná** (sdpr01-02): 45 artigos revisados
 - [x] **1 Minas** (sdmg01): 26 artigos revisados
 - [x] **3 Rio** (sdrj02-04): 42 artigos revisados
-- [x] **8 N/NE** (sdnne01-08): 410 artigos revisados
-- [ ] **2 N/NE restantes** (sdnne09-10): ~135 artigos pendentes
+- [x] **9 N/NE** (sdnne01-09): 460 artigos revisados
+- [ ] **1 N/NE restante** (sdnne10): ~85 artigos pendentes
 - [ ] **7 Sudeste SP** (sdsp03, 05-09): ~289 artigos pendentes
 
 ### Produção (pipeline_producao.md)

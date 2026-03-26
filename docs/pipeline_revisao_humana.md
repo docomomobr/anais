@@ -56,6 +56,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdrj03 | 7 | 2026-03-23 | 0 correções (2 editorial + 2 pôsteres + 3 vídeos) |
 | sdnne07 | 65 | 2026-03-26 | 14 correções: 6 títulos capitalização, 2 títulos expandidos, 3 refs extraídas/corrigidas, 2 PDFs defeituosos, 1 resumo |
 | sdnne08 | 41 | 2026-03-26 | 2 correções: 1 título capitalização (arquitetura lowercase), 1 subtítulo capitalização (Interiores uppercase) |
+| sdnne09 | 50 | 2026-03-26 | 1 correção: título capitalização (história lowercase). 91 correções automáticas (footer contamination, subtítulos truncados, keywords) |
 
 ---
 
