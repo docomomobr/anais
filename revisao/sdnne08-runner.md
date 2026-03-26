@@ -91,9 +91,14 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 - [x] **2.0** Validação + HTML + commits
 
+## Revisão humana
+
+- [x] 2 correções: 1 título capitalização (004 Arquitetura→arquitetura), 1 subtítulo capitalização (029 interiores→Interiores, "Arquitetura de Interiores" expressão consolidada)
+- [x] Dict: "arquitetura de interiores" adicionada como expressão consolidada
+
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [x] **3.1** Diagnóstico: ~30 correções automáticas. Causas: dict genéricos (12), subtítulo contextual (6), refs concatenadas (4), refs faltantes (4), OCR (6), travessões (4), keywords (2), abstract (2)
+- [x] **3.1** Diagnóstico: ~30 correções automáticas + 2 humanas. Causas: dict genéricos (12), subtítulo contextual (6+1), refs concatenadas (4), refs faltantes (4), OCR (6), travessões (4), keywords (2), abstract (2), capitalização contextual (1)
 - [x] **3.2** Dict: 8 genéricos removidos na Fase 1.1a (planejada, vida, água, especiais, indústrias, transição, espaço público, espaço privado)
 - [x] **3.3** Scripts: sem fix necessário (nenhum padrão recorrente ≥3 artigos)
 - [x] **3.4** Pipeline: sem gaps identificados
