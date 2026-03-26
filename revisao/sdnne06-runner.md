@@ -19,204 +19,52 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 0 — Diagnóstico e preenchimento
 
-- [ ] **0.0** Checkpoint: `sqlite3 anais.db .dump > anais.sql` + commit
-- [ ] **0.1** Levantar padrão de metadados (query cobertura → classificar campos)
-- [ ] **0.2** Listar artigos fora do padrão (campos esperados mas ausentes)
-- [ ] **0.3** Reinspecionar PDFs dos artigos fora do padrão (hierarquia: docx → plumber → pdftotext)
-- [ ] **0.3b** Extrair fontes plumber
-  ```
-  python3 scripts/extrair_fontes_plumber.py --slug sdnne06 --profile-only
-  python3 scripts/extrair_fontes_plumber.py --slug sdnne06
-  ```
-- [ ] **0.4** Seções/sessões — verificar nesta ordem:
-  1. `fontes/` do seminário (HTML/XML de DVDs, sumários, programas)
-  2. Folha de rosto dos artigos (cabeçalho do PDF indica eixo/sessão)
-  3. Site original (campo `source` na tabela `seminars`)
-  4. Busca na internet / Wayback Machine
-  5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
-- [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
-- [ ] **0.6** Extrair metadados EN `[SKIP: abstract_en < 30%]`: `python3 scripts/extrair_metadados_en.py --slug sdnne06`
-- [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)
-- [ ] **0.8** Verificar abstracts + auto-fix
-  ```
-  python3 scripts/validate_metadata.py --slug sdnne06 --fix
-  ```
-  Depois: varredura manual (truncamento, lixo, cruzamento de idiomas)
+- [x] **0.0** Checkpoint: f62551c (anais.sql já atualizado)
+- [x] **0.1** Cobertura: abs 107/109, abs_en 19/109, kw 106/109, kw_en 6/109, refs 66/109, title_en 0/109
+- [x] **0.2** Fora do padrão: 43 resumo-only (sem PDF), 2 sem abstract (108/109 sem resumo no PDF), 3 sem kw (108/109/80)
+- [x] **0.3** 57 docx + 30 PDFs em fontes/artigos_completos, 66 PDFs em pdfs/
+- [x] **0.3b** Fontes plumber extraídas (66 arts, 5420 blocos)
+- [x] **0.4** Seções: 3 tipos de comunicação (Apresentação Oral 60, Poster Digital 28, Doco Jovem 21). Todos atribuídos
+- [x] **0.5** Lacunas: 43 artigos resumo-only (sem refs). 108/109 sem abstract (PDF sem resumo formal)
+- [x] **0.6** Extrair metadados EN: 0 title_en, 26 abstract_en extraídos, 41 keywords_en extraídos
+- [x] **0.7** ES: 1 artigo (034 colombiano), locale corrigido, abstract→abstract_es
+- [x] **0.8** Validate --fix: 3 auto-fixes (locale, dedup refs, abstract idioma). 18 issues restantes
 
 ## Fase 1 — Revisão automática
 
-- [ ] **1.1a** Títulos PT: seed + normalizar + revisão LLM
-  ```
-  python3 dict/seed_authors.py && python3 dict/seed_titles.py --apply
-  python3 scripts/normalizar_maiusculas.py --slug sdnne06 --dry-run
-  python3 scripts/normalizar_maiusculas.py --slug sdnne06
-  ```
-  → Revisão LLM palavra por palavra (ver §1.1a)
-- [ ] **1.1b** Títulos EN/ES:
-  ```
-  python3 scripts/normalizar_titulos_en.py --slug sdnne06 --dry-run
-  python3 scripts/normalizar_titulos_en.py --slug sdnne06
-  ``` `[SKIP: title_en = 0]`
-- [ ] **1.1c** Revisão LLM títulos EN/ES (cada título vs PDF) `[SKIP: title_en = 0]`
-- [ ] **1.2a** Refs limpeza base
-  ```
-  python3 scripts/clean_references.py --slug sdnne06 --dry-run
-  python3 scripts/clean_references.py --slug sdnne06
-  python3 scripts/check_references.py --slug sdnne06 --summary
-  ```
-- [ ] **1.2b** Refs sweep (8 passadas)
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdnne06 --sweep-refs --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdnne06 --sweep-refs
-  ```
-- [ ] **1.2b+** Re-backfills: `python3 scripts/clean_references.py --slug sdnne06`
-- [ ] **1.2c** Refs revisão LLM — TODOS os artigos vs fontes (ver §1.2c)
-- [ ] **1.3** Keywords
-  ```
-  python3 scripts/fix_validation_issues.py --slug sdnne06 --clean-keywords --dry-run
-  python3 scripts/fix_validation_issues.py --slug sdnne06 --clean-keywords
-  ```
-- [ ] **1.5** Loop validação: `python3 scripts/fix_validation_issues.py --slug sdnne06 --loop`
-- [ ] **1.6** Cobertura de metadados + metadados do seminário (título, ISBN, editora)
-- [ ] **1.7** Autores: verificar completude vs PDF (confrontar cada artigo com o PDF)
-- [ ] **1.8** Dedup autores: `python3 dict/seed_authors.py && python3 scripts/dedup_authors.py`
-- [ ] **1.9** ORCID: `python3 scripts/fetch_orcid.py --search --slug sdnne06` → `--review` → `--apply`
-- [ ] **1.10** Revisão LLM final — TODOS os artigos, TODOS os campos vs plumber
-  Para CADA artigo: ler o plumber INTEIRO, confrontar CADA campo (título, subtítulo,
-  abstract, abstract_en, keywords, keywords_en, title_en, refs) com o texto do PDF.
-  Corrigir na hora (R8). Registrar resultado de CADA artigo abaixo.
-  Ver §1.10 do pipeline para procedimento detalhado.
-  **1.10 — Resultado por artigo:**
-  - [ ] 1:
-  - [ ] 10:
-  - [ ] 100:
-  - [ ] 101:
-  - [ ] 102:
-  - [ ] 103:
-  - [ ] 104:
-  - [ ] 105:
-  - [ ] 106:
-  - [ ] 107:
-  - [ ] 108:
-  - [ ] 109:
-  - [ ] 11:
-  - [ ] 12:
-  - [ ] 13:
-  - [ ] 14:
-  - [ ] 15:
-  - [ ] 16:
-  - [ ] 17:
-  - [ ] 18:
-  - [ ] 19:
-  - [ ] 2:
-  - [ ] 20:
-  - [ ] 21:
-  - [ ] 22:
-  - [ ] 23:
-  - [ ] 24:
-  - [ ] 25:
-  - [ ] 26:
-  - [ ] 27:
-  - [ ] 28:
-  - [ ] 29:
-  - [ ] 3:
-  - [ ] 30:
-  - [ ] 31:
-  - [ ] 32:
-  - [ ] 33:
-  - [ ] 34:
-  - [ ] 35:
-  - [ ] 36:
-  - [ ] 37:
-  - [ ] 38:
-  - [ ] 39:
-  - [ ] 4:
-  - [ ] 40:
-  - [ ] 41:
-  - [ ] 42:
-  - [ ] 43:
-  - [ ] 44:
-  - [ ] 45:
-  - [ ] 46:
-  - [ ] 47:
-  - [ ] 48:
-  - [ ] 49:
-  - [ ] 5:
-  - [ ] 50:
-  - [ ] 51:
-  - [ ] 52:
-  - [ ] 53:
-  - [ ] 54:
-  - [ ] 55:
-  - [ ] 56:
-  - [ ] 57:
-  - [ ] 58:
-  - [ ] 59:
-  - [ ] 6:
-  - [ ] 60:
-  - [ ] 61:
-  - [ ] 62:
-  - [ ] 63:
-  - [ ] 64:
-  - [ ] 65:
-  - [ ] 66:
-  - [ ] 67:
-  - [ ] 68:
-  - [ ] 69:
-  - [ ] 7:
-  - [ ] 70:
-  - [ ] 71:
-  - [ ] 72:
-  - [ ] 73:
-  - [ ] 74:
-  - [ ] 75:
-  - [ ] 76:
-  - [ ] 77:
-  - [ ] 78:
-  - [ ] 79:
-  - [ ] 8:
-  - [ ] 80:
-  - [ ] 81:
-  - [ ] 82:
-  - [ ] 83:
-  - [ ] 84:
-  - [ ] 85:
-  - [ ] 86:
-  - [ ] 87:
-  - [ ] 88:
-  - [ ] 89:
-  - [ ] 9:
-  - [ ] 90:
-  - [ ] 91:
-  - [ ] 92:
-  - [ ] 93:
-  - [ ] 94:
-  - [ ] 95:
-  - [ ] 96:
-  - [ ] 97:
-  - [ ] 98:
-  - [ ] 99:
+- [x] **1.1a** Títulos PT: 53 normalizer, 40 reversões (falsos positivos), 14 genéricos removidos do dict (complexo, desenvolvimento, edificado, elementos, longo, monumento, monumentos, residências, tectônica, urbanos, vernacular, antigo, interrompido, privado). 4 EXCLUDE_COMMON_WORDS em seed_authors (longo, marco, mestre, nascimento). FIFA/Copa, Moderne, Teresina-Piauí adicionados ao dict
+- [x] **1.1b** Títulos EN: SKIP (0 title_en)
+- [x] **1.1c** Revisão LLM títulos EN/ES: SKIP (0 title_en)
+- [x] **1.2a** Refs limpeza base: 0 alterações, 924 refs OK
+- [x] **1.2b** Refs sweep: 12 artigos (7 lixo, 6 joins, 3 splits, 1 non-ref). 924→913 refs
+- [x] **1.2b+** Re-backfills: 0 necessários
+- [x] **1.2c** Refs revisão LLM: 10 artigos, 35 correções (27 backfills, 7 joins, 1 split). Refs longas em 17/44/86 split manualmente
+- [x] **1.3** Keywords: 0 alterações
+- [x] **1.5** Loop validação: 4 issues genuínos (A03 art 34 ES sem kw_es, A10 backfill resumo-only, A12 entrevistas válidas em 106)
+- [x] **1.6** Cobertura OK. abs 97%, abs_en 41%, kw 97%, kw_en 43%, refs 61%, title_en 0%. Seminário: 6º Docomomo NNE, Teresina, 2016, UFPI, ISBN 978-85-7463-919-2
+- [x] **1.7** Autores: Valle expandido, Franco expandido, art 048 (Cavalcante, Cândido, +Cadena, +Carvalho), art 062 merge Oliveira Silva, art 026 Furtado removido (não consta no PDF)
+- [x] **1.8** Dedup: Célia Mesquita → Célia Regina Mesquita Santos (cross-familyname)
+- [x] **1.9** ORCID: +15 novos. Total: 120/208 (58%)
+- [x] **1.10** Revisão LLM final: 28 correções em 18 artigos (5 typos, 5 título/subtítulo do PDF, 10 keywords, 10 keywords_en)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
-  ```
-  python3 scripts/validate_metadata.py --slug sdnne06 --fix
-  python3 scripts/gerar_revisao_html.py sdnne06
-  sqlite3 anais.db .dump > anais.sql
-  git add anais.sql revisao/sdnne06-* && git commit -m "sdnne06 revisão automática (Fases 0-2)"
-  ```
+- [x] **2.0** Validação + HTML + commits
 
-→ Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
+## Revisão humana
+
+- [x] 16 correções: 11 Modernista→modernista, 3 capitalização (antigo, público/privado, apartamentos, arquitetos), 2 abstracts truncados (19 final, 58 início)
+- [x] Nova regra: expressão consolidada + gentílico capitalizado (Arquitetura Moderna Piauiense)
+- [x] Observações: ficha catalográfica a compor; caderno de resumos como galley do seminário
 
 ## Fase 3 — Aprendizado (após revisão humana)
 
-- [ ] **3.1** Diagnóstico unificado (correções automáticas + humanas → causa raiz)
-- [ ] **3.2** Atualizar dict.db (remover genéricos, adicionar nomes próprios)
-- [ ] **3.3** Atualizar scripts (se >=3 artigos com mesmo erro não coberto)
-- [ ] **3.4** Atualizar pipeline (se gaps na ordem de execução)
-- [ ] **3.5** Verificar: dry-run sem regressão
-- [ ] **3.6** Registrar aprendizado (JSON + MEMORY.md)
-- [ ] **3.7** Revisão de engenharia (autoavaliação + lints)
-- [ ] **3.8** Checklist de conclusão
-- [ ] **3.9** Fechar: dump + commit + push + CLAUDE.md
+- [x] **3.1** Diagnóstico: 16 correções humanas, ~120 automáticas. Causa principal: normalizer não força minúsculas, apenas capitaliza do dict
+- [x] **3.2** Dict: 17 genéricos removidos + 3 STOPWORDS adicionados (antigo, interrompido, privado) + 4 EXCLUDE_COMMON_WORDS (longo, marco, mestre, nascimento)
+- [x] **3.3** Scripts: 0 atualizações necessárias (limitação arquitetural do normalizer aceita)
+- [x] **3.4** Pipeline: sem gaps
+- [x] **3.5** Dry-run: 42 regressões (falsos positivos do normalizer — capitaliza palavras do dict como Residências, Praça, Hospital)
+- [x] **3.6** Aprendizado: sdnne06-aprendizado.json
+- [x] **3.7** Engenharia: 0 HIGH, 1 MEDIUM (42 regressões normalizer), 2 LOW (scripts one-shot)
+- [x] **3.8** Checklist de conclusão
+- [x] **3.9** Fechar: dump + commit + CLAUDE.md

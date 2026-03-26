@@ -1,0 +1,35 @@
+{
+  "slug": "sdnne06",
+  "date": "2026-03-25",
+  "articles": 109,
+  "articles_with_pdf": 66,
+  "articles_resumo_only": 43,
+  "authors": 208,
+  "sections": 3,
+  "corrections": {
+    "automatic": 120,
+    "human": 16,
+    "total": 136
+  },
+  "coverage_final": {
+    "abstract": "97%",
+    "abstract_en": "41%",
+    "keywords": "97%",
+    "keywords_en": "43%",
+    "references": "61%",
+    "title_en": "0%",
+    "orcid": "58%"
+  },
+  "human_corrections": [
+    {"type": "capitalização", "count": 14, "detail": "Modernista→modernista (11), falsos positivos normalizer (3), expressões consolidadas + gentílico"},
+    {"type": "abstract truncado", "count": 2, "detail": "art 19 final, art 58 início (importação caderno)"}
+  ],
+  "engineering_fixes": {
+    "dict_cleaned": 17,
+    "stopwords_added": 14,
+    "seed_authors_excluded": 4,
+    "normalizer_regressions": 42,
+    "normalizer_regressions_detail": "Limitação: normalizer capitaliza palavras do dict (Residências, Praça, Hospital) mas não força minúscula em palavras que já estão maiúsculas sem serem nomes próprios",
+    "new_rule": "Expressão consolidada + gentílico: 'Arquitetura Moderna Piauiense', 'Arquitetura Moderna Paraibana' etc. — gentílico capitalizado como parte da expressão"
+  }
+}

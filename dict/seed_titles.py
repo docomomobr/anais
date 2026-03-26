@@ -111,6 +111,8 @@ STOPWORDS = {
     'complexo', 'desenvolvimento', 'edificado', 'elementos', 'longo',
     'monumento', 'monumentos', 'residências', 'tectônica', 'urbanos',
     'vernacular',
+    # Genéricos encontrados erroneamente no dict (sdnne06, 2026-03-25)
+    'antigo', 'interrompido', 'privado',
 }
 
 

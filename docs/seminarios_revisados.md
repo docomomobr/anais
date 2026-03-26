@@ -40,6 +40,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdnne03 | 41 | revisado | 2026-03-24 |
 | sdnne04 | 45 | revisado | 2026-03-25 |
 | sdnne05 | 32 | revisado | 2026-03-25 |
+| sdnne06 | 109 | revisado | 2026-03-25 |
 
 ---
 
