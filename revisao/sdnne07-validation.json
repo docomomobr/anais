@@ -1,0 +1,47 @@
+{
+  "slug": "sdnne07",
+  "date": "2026-03-26",
+  "total_articles": 65,
+  "profile": {
+    "total": 65,
+    "locale_es": 0,
+    "abstract": 63,
+    "abstract_en": 62,
+    "abstract_es": 0,
+    "keywords": 63,
+    "keywords_en": 63,
+    "keywords_es": 0,
+    "references_": 60
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A02",
+      "article_id": "sdnne07-007",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_en presente mas abstract_en faltando",
+      "suggestion": "Extrair abstract_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne07-011",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...cumentation of the most emblematic works\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdnne07-055",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ive dimension of architecture: tectonics\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    }
+  ],
+  "category_b_candidates": []
+}
