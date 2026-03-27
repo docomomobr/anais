@@ -34,6 +34,8 @@ Para procedimentos detalhados, código e edge cases, ver [modulos_pipeline.md](m
 
 11. **R11 — Footnotes/endnotes NÃO vão no campo `references_`.** Se o artigo usa citação em nota de rodapé, o campo fica vazio (ou com as poucas refs bibliográficas que houver).
 
+12. **R12 — NUNCA gerar, traduzir ou inventar metadados.** Todos os metadados (títulos, subtítulos, abstracts, keywords — em qualquer idioma) devem ser **extraídos** das fontes originais (PDF, docx, plumber, fontes do DVD). Se o dado não existe no documento original, o campo fica vazio/NULL. Isto é **absoluto e sem exceção**: não traduzir abstract para ES, não gerar title_en por tradução, não inventar keywords_en. O pipeline é de **extração e correção**, nunca de geração.
+
 ---
 
 ## Correspondência entre pipelines

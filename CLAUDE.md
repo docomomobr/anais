@@ -38,6 +38,7 @@ ANTES de escrever qualquer código ou rodar qualquer comando:
 5. Se o script existe, USAR. Se não existe, PERGUNTAR antes de criar.
 6. NUNCA escrever Python ad-hoc inline quando existe script para a tarefa.
 7. NUNCA alterar o banco sem aprovação explícita do usuário.
+8. NUNCA gerar, traduzir ou inventar metadados. Títulos, abstracts, keywords (em qualquer idioma) são **extraídos** do PDF/docx/fontes — jamais traduzidos ou gerados por LLM. Campo ausente no documento = campo vazio no banco.
 
 Runners: `python3 scripts/gerar_runner.py SLUG` (revisão) | `--type producao` (publicação) | sem args (lista todos) | `--status` (progresso)
 
