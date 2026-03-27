@@ -144,7 +144,6 @@ def backfill_authors(refs):
                 new_refs[i] = author + ' ' + rest
                 backfill_count += 1
             else:
-                import sys
                 print(f"  WARN: ref[{i}] backfill falhou (extract_author=None na ref anterior)", file=sys.stderr)
 
     return new_refs, backfill_count

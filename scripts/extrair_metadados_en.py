@@ -44,6 +44,15 @@ PT_FUNCTION_WORDS = {
     'nesse', 'nessa', 'nesses', 'nessas', 'algumas', 'alguns',
 }
 
+# Padrões de cabeçalhos de seminário (repetidos em todas as páginas, não são título EN)
+SEMINAR_HEADER_RE = re.compile(
+    r'^\d+[ºªo°]?\s*Semin[aá]rio|'
+    r'^Semin[aá]rio\s|'
+    r'\bDocomomo\b|'
+    r'\bSEMIN[AÁ]RIO\b',
+    re.IGNORECASE
+)
+
 # Marcadores de abstract EN
 ABSTRACT_MARKERS = [
     re.compile(r'^\s*ABSTRACT\s*:?\s*$', re.IGNORECASE),
@@ -309,9 +318,10 @@ def extract_en_from_plumber(blocks):
     if keywords_en_raw is None:
         # Buscar em todos os blocos
         for b in blocks:
-            m = re.search(r'Key[\s-]*[Ww]ords?\s*:\s*(.+?)(?:\n|$)', b['text'])
+            m = re.search(r'Key[\s-]*[Ww]ords?\s*:\s*(.+)', b['text'], re.DOTALL)
             if m:
-                keywords_en_raw = m.group(1).strip()
+                # Juntar linhas quebradas pelo PDF (preservar espaço)
+                keywords_en_raw = re.sub(r'\s*\n\s*', ' ', m.group(1)).strip()
                 break
 
     if keywords_en_raw:
@@ -334,6 +344,9 @@ def extract_en_from_plumber(blocks):
                 continue
             # Pular números de página
             if re.match(r'^\d{1,5}$', text):
+                continue
+            # Pular cabeçalhos de seminário (repetidos em todas as páginas)
+            if SEMINAR_HEADER_RE.search(text):
                 continue
             # Pular continuação de keywords PT (texto curto com vírgulas)
             if len(text) < 40 and ',' in text and not is_all_caps(text):
@@ -383,6 +396,9 @@ def extract_en_from_plumber(blocks):
                 continue
             text = b['text'].strip()
             if not text or len(text) < 5:
+                continue
+            # Pular cabeçalhos de seminário
+            if SEMINAR_HEADER_RE.search(text):
                 continue
             words = re.findall(r'[a-záàâãéêíóôõúüçñ]+', text.lower())
             if not words:

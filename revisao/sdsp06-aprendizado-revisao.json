@@ -1,0 +1,14 @@
+[
+  {
+    "issue": "LLM agent lowercased 'Natalense' treating it as generic adjective",
+    "root_cause": "LLM review agent doesn't distinguish gentílicos (Natalense, Paulista, Carioca) from generic adjectives (esportiva, hospitalar) when used with Arquitetura",
+    "fix": "Manual correction. Dict.db already has 'natalense→Natalense' as toponímico",
+    "prevention": "LLM review prompt should explicitly note: gentílicos (derivados de cidades/estados) are always capitalized even when adjectivating Arquitetura"
+  },
+  {
+    "issue": "Title sdsp06-017 had subtitle concatenated with ' — ' separator",
+    "root_cause": "Original PDF used ' - ' (hyphen) as separator. Extraction kept it as single title field. Pipeline didn't auto-split",
+    "fix": "Manual separation into title + subtitle fields (PT and EN)",
+    "prevention": "Edge case, 1 occurrence in 37 articles. No pipeline change warranted"
+  }
+]

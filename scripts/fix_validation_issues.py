@@ -587,10 +587,10 @@ def clean_keywords(conn, slug, dry_run):
                     print(f"  {art_id}.{col}: JUNK removido: \"{k[:60]}\"")
                     continue
 
-                # 1c. Newlines (keyword with body text bleeding in)
+                # 1c. Newlines (line break inside keyword — join, not truncate)
                 if '\n' in k:
-                    # Keep only text before first newline
-                    clean = k.split('\n')[0].strip().rstrip('.,;')
+                    # Juntar linhas (quebra de PDF dentro de keyword)
+                    clean = re.sub(r'\s*\n\s*', ' ', k).strip().rstrip('.,;')
                     if len(clean) > 1:
                         k = clean
                         changed = True

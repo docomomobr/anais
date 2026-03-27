@@ -113,6 +113,8 @@ STOPWORDS = {
     'vernacular',
     # Genéricos encontrados erroneamente no dict (sdnne06, 2026-03-25)
     'antigo', 'interrompido', 'privado',
+    # Genéricos encontrados erroneamente no dict (sdsp06, 2026-03-27)
+    'ensino', 'teoria', 'sociedade', 'industriais', 'três',
 }
 
 

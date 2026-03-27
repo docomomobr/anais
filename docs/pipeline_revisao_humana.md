@@ -60,6 +60,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdnne10 | 85 | 2026-03-26 | 15 correções: 4 títulos capitalização, 2 subtítulos, 2 abstract_es (header contaminação), 7 refs reconstruídas (0→27, splits). 170+ correções automáticas (Fases 0-2) |
 | sdsp03 | 74 | 2026-03-27 | 6 correções: 3 títulos Paulistana, 1 ref espúria, 9 refs extraídas, 3 headers refs removidos |
 | sdsp05 | 68 | 2026-03-27 | 6 correções: 3 títulos arquitetura→minúscula, 1 header ES removido (FUENTE DE IMÁGENES), 2 refs splitadas, 3 lixo (ficha catalográfica) removido |
+| sdsp06 | 37 | 2026-03-27 | 2 correções: 1 gentílico Natalense capitalizado, 1 título/subtítulo concatenado separado (PT+EN) |
 
 ---
 
