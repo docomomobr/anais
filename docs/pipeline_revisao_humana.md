@@ -62,6 +62,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdsp05 | 68 | 2026-03-27 | 6 correções: 3 títulos arquitetura→minúscula, 1 header ES removido (FUENTE DE IMÁGENES), 2 refs splitadas, 3 lixo (ficha catalográfica) removido |
 | sdsp06 | 37 | 2026-03-27 | 2 correções: 1 gentílico Natalense capitalizado, 1 título/subtítulo concatenado separado (PT+EN) |
 | sdsp07 | 43 | 2026-03-27 | 6 correções: 2 título/subtítulo separados (PT+EN), 2 refs truncadas reextraídas, 1 capitalização "arquitetura", 1 refs split |
+| sdsp08 | 40 | 2026-03-27 | 1 correção: refs 008 agradecimento FAPESP removido + 2 fragmentos juntados (17→14 refs) |
 
 ---
 

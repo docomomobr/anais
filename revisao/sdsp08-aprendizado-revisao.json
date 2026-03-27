@@ -1,0 +1,34 @@
+[
+  {
+    "seminario": "sdsp08",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "Título do artigo 026 estava trocado com o 028 (importação original errada)",
+    "correcao": "LLM review detectou e corrigiu confrontando com plumber",
+    "artigos_afetados": 2
+  },
+  {
+    "seminario": "sdsp08",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "subtitle_en truncados em ~8 artigos: script extrai título EN inteiro mas split_title_subtitle perde parte quando subtítulo é longo",
+    "correcao": "LLM review completou subtitle_en confrontando com plumber. Não é bug de script — é edge case de linhas longas",
+    "artigos_afetados": 8
+  },
+  {
+    "seminario": "sdsp08",
+    "data": "2026-03-27",
+    "tipo": "bug_script",
+    "descricao": "fix_validation_issues.py --sweep-refs não detectou agradecimento FAPESP por extenso ('Fundação de Amparo à Pesquisa')",
+    "correcao": "Adicionados 2 marcadores NON_REF_CONTENT: 'fundação de amparo à pesquisa', 'auxílio aos projetos de pesquisa'",
+    "artigos_afetados": 1
+  },
+  {
+    "seminario": "sdsp08",
+    "data": "2026-03-27",
+    "tipo": "dict",
+    "descricao": "8 palavras genéricas erroneamente seedadas como nomes próprios: desenhos, pesquisas, brasileiro, ferroviário, bienais, fontes, escolas, concurso",
+    "correcao": "Removidas do dict.db, adicionadas como stopwords em seed_titles.py",
+    "artigos_afetados": 8
+  }
+]

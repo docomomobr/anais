@@ -89,6 +89,8 @@ FIGURE_RE = re.compile(r'^(Figura|Fig\.?|Figure|Imagem)\s*\d', re.IGNORECASE)
 NON_REF_CONTENT = [
     'agradec', 'crédito', 'ilustraç', 'currículo',
     'fapesp', 'cnpq', 'capes', 'bolsista',
+    'fundação de amparo à pesquisa',  # FAPESP por extenso
+    'auxílio aos projetos de pesquisa',  # agradecimento a agência de fomento
     'fontes primárias', 'artigos de jornais',
     'engenheiro e proprietário',
 ]
