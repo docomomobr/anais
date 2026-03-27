@@ -1,0 +1,38 @@
+{
+  "slug": "sdsp05",
+  "date": "2026-03-27",
+  "total_articles": 68,
+  "profile": {
+    "total": 68,
+    "locale_es": 1,
+    "abstract": 68,
+    "abstract_en": 68,
+    "abstract_es": 1,
+    "keywords": 67,
+    "keywords_en": 68,
+    "keywords_es": 1,
+    "references_": 68
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdsp05-009",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (541 chars), possível concatenação: \"CASTRO, Carmen Silvia Saraiva M. de; GONÇALVES, Ana Pau- la Arato; VERGILI, Rodr...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdsp05-009",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (541 chars), possível concatenação: \"CASTRO, Carmen Silvia Saraiva M. de; GONÇALVES, Ana Pau- la Arato; VERGILI, Rodr...\""
+    }
+  ]
+}
