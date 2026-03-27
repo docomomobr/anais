@@ -1,0 +1,57 @@
+{
+  "slug": "sdnne10",
+  "date": "2026-03-26",
+  "total_articles": 85,
+  "profile": {
+    "total": 85,
+    "locale_es": 0,
+    "abstract": 85,
+    "abstract_en": 85,
+    "abstract_es": 85,
+    "keywords": 85,
+    "keywords_en": 85,
+    "keywords_es": 85,
+    "references_": 84
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A14",
+      "article_id": "sdnne10-082",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível formulário/questionário (muitas interrogações)",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdnne10-082",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível formulário/questionário (muitas interrogações)",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdnne10-082",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es: possível formulário/questionário (muitas interrogações)",
+      "suggestion": "Verificar e limpar o abstract"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdnne10-082",
+      "checks_flagged": [
+        "A14",
+        "A14",
+        "A14"
+      ],
+      "reason": "abstract: possível formulário/questionário (muitas interrogações)"
+    }
+  ]
+}
