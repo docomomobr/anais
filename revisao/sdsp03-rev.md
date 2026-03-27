@@ -1,5 +1,10 @@
 ---
 sdsp03-002:
     references: a 13 parece estar errada
-sdsp03-028:
-    title: 'Moderno edificado em São Paulo'
+sdsp03-052:
+    title: 'A crítica de Arquitetura na revista Habitat (1950–1954)'
+sdsp03-022:
+    title: 'A arte mural na Arquitetura Paulistana'
+sdsp03-009:
+    title: 'Imagens da Modernidade Paulistana' 
+    references: extrair
