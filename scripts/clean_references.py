@@ -78,8 +78,8 @@ def extract_author(ref):
         if ',' in candidate:
             return candidate + '.'
 
-    # Padrão 3: ORGANIZAÇÃO. Título... (sem vírgula, sem chars especiais)
-    AC_ORG = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s&\-]"
+    # Padrão 3: ORGANIZAÇÃO. Título... (sem vírgula; aceita parênteses e pontos)
+    AC_ORG = r"[A-ZÁÉÍÓÚÀÂÊÔÃÕÇÑa-záéíóúàâêôãõçñ\s&\-\(\)\.]"
     m = re.match(r'^(' + INITIAL + AC_ORG + r'+?)\.\s', ref)
     if m:
         return m.group(1) + '.'
@@ -230,6 +230,10 @@ def main():
                 continue
             if not isinstance(refs, list):
                 print(f"  WARN: {aid} ({fname}): references_ não é array, pulando")
+                continue
+            # Filtrar elementos não-string (None, int, etc.)
+            refs = [r for r in refs if isinstance(r, str)]
+            if not refs:
                 continue
             totals['refs_before'] += len(refs)
 

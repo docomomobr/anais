@@ -1206,6 +1206,63 @@ def check_abstract_en_ratio(article):
     return issues
 
 
+def check_title_en_quality(article):
+    """A34: title_en é número de página, contém ABSTRACT, ou está em ALL CAPS."""
+    issues = []
+    aid = article['id']
+
+    title_en = (article.get('title_en') or '').strip()
+    subtitle_en = (article.get('subtitle_en') or '').strip()
+
+    if not title_en:
+        return issues
+
+    # Page number as title_en
+    if re.match(r'^\d{2,5}$', title_en):
+        issues.append({
+            'check': 'A34', 'article_id': aid, 'field': 'title_en',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'title_en é número de página: "{title_en}"',
+            'suggestion': 'Limpar title_en',
+            'fix_action': {'set_field': 'title_en', 'value': ''},
+        })
+        return issues
+
+    # "ABSTRACT" or "SUMMARY" leaked into title_en
+    if re.search(r'\bABSTRACT\b|\bSUMMARY\b', title_en) and not title_en.startswith('Abstract'):
+        cleaned = re.sub(r'\s*(ABSTRACT|SUMMARY)\s*$', '', title_en).strip()
+        issues.append({
+            'check': 'A34', 'article_id': aid, 'field': 'title_en',
+            'severity': 'warning', 'auto_fixable': True,
+            'detail': f'title_en contém marcador: "{title_en}"',
+            'suggestion': f'Limpar para: "{cleaned}"',
+            'fix_action': {'set_field': 'title_en', 'value': cleaned},
+        })
+
+    # ALL CAPS title_en (>10 alpha chars)
+    alpha = re.sub(r'[^a-zA-Z]', '', title_en)
+    if len(alpha) > 10 and alpha == alpha.upper():
+        issues.append({
+            'check': 'A34', 'article_id': aid, 'field': 'title_en',
+            'severity': 'info', 'auto_fixable': False,
+            'detail': f'title_en em ALL CAPS: "{title_en[:60]}..."',
+            'suggestion': 'Converter para Title Case',
+        })
+
+    # ALL CAPS subtitle_en
+    if subtitle_en:
+        alpha_s = re.sub(r'[^a-zA-Z]', '', subtitle_en)
+        if len(alpha_s) > 10 and alpha_s == alpha_s.upper():
+            issues.append({
+                'check': 'A34', 'article_id': aid, 'field': 'subtitle_en',
+                'severity': 'info', 'auto_fixable': False,
+                'detail': f'subtitle_en em ALL CAPS: "{subtitle_en[:60]}..."',
+                'suggestion': 'Converter para lowercase',
+            })
+
+    return issues
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def validate_seminar(conn, slug, fix=False, dry_run=False):
@@ -1303,6 +1360,7 @@ def validate_seminar(conn, slug, fix=False, dry_run=False):
         issues.extend(check_abstract_truncation(article))
         issues.extend(check_abstract_vs_plumber(article))
         issues.extend(check_abstract_en_ratio(article))
+        issues.extend(check_title_en_quality(article))
 
         # Aplicar auto-fixes
         for issue in issues:
@@ -1569,6 +1627,7 @@ def print_summary(slug, issues, auto_fixed, profile):
         'A31': 'ES em campo PT',
         'A32': 'abstract_en truncado?',
         'A33': 'abstract truncado vs plumber',
+        'A34': 'title_en qualidade',
     }
 
     if not check_counts:
