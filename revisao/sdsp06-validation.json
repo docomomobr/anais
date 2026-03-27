@@ -1,0 +1,29 @@
+{
+  "slug": "sdsp06",
+  "date": "2026-03-27",
+  "total_articles": 37,
+  "profile": {
+    "total": 37,
+    "locale_es": 0,
+    "abstract": 37,
+    "abstract_en": 37,
+    "abstract_es": 0,
+    "keywords": 37,
+    "keywords_en": 37,
+    "keywords_es": 0,
+    "references_": 37
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdsp06-019",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...ntense militar repression on the society\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    }
+  ],
+  "category_b_candidates": []
+}
