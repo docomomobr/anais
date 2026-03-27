@@ -1,0 +1,111 @@
+{
+  "slug": "sdsp03",
+  "date": "2026-03-26",
+  "total_articles": 74,
+  "profile": {
+    "total": 74,
+    "locale_es": 0,
+    "abstract": 74,
+    "abstract_en": 74,
+    "abstract_es": 74,
+    "keywords": 74,
+    "keywords_en": 74,
+    "keywords_es": 74,
+    "references_": 71
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdsp03-007",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...as, cultural e cotidiana da vida pública\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsp03-009",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...shment of the new paradigms of modernity\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsp03-018",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en: possível truncamento (termina com \"...School as any other one of the State Net\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsp03-030",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...cidade com melhores condições ambientais\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A14",
+      "article_id": "sdsp03-067",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: contém header de conferência (\"seminário docomomo\")",
+      "suggestion": "Verificar e limpar o abstract"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdsp03-067",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...hos originais da Biblioteca desta escola\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A32",
+      "article_id": "sdsp03-067",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en possivelmente truncado (PT=3435 EN=1670 ratio=0.49)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
+    },
+    {
+      "check": "A32",
+      "article_id": "sdsp03-071",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en possivelmente truncado (PT=1702 EN=518 ratio=0.30)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
+    },
+    {
+      "check": "A32",
+      "article_id": "sdsp03-072",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en possivelmente truncado (PT=1739 EN=747 ratio=0.43)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdsp03-067",
+      "checks_flagged": [
+        "A14",
+        "A19",
+        "A32"
+      ],
+      "reason": "abstract: contém header de conferência (\"seminário docomomo\")"
+    }
+  ]
+}
