@@ -8,3 +8,9 @@ sdsp03-022:
 sdsp03-009:
     title: 'Imagens da Modernidade Paulistana' 
     references: extrair
+sdsp-3-062:
+    subtitle: 'o papel de Ricardo Severo na transição para a Arquitetura Moderna Paulistana'
+sdsp03-071:
+    references: tem sutítulos mesclados
+---
+
