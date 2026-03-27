@@ -333,7 +333,7 @@ def extract_en_from_plumber(blocks):
             if not text or len(text) < 3:
                 continue
             # Pular números de página
-            if re.match(r'^\d{1,3}$', text):
+            if re.match(r'^\d{1,5}$', text):
                 continue
             # Pular continuação de keywords PT (texto curto com vírgulas)
             if len(text) < 40 and ',' in text and not is_all_caps(text):
@@ -361,7 +361,7 @@ def extract_en_from_plumber(blocks):
                 text = nb['text'].strip()
                 if not text:
                     continue
-                if re.match(r'^\d{1,3}$', text):
+                if re.match(r'^\d{1,5}$', text):
                     continue
                 if is_all_caps(text) and not has_pt_accents(text, 2):
                     title_en_candidates.append(text)
@@ -592,13 +592,16 @@ def extract_title_en(lines):
                     continue
                 in_kw_continuation = False
             # Pular números de página isolados e marcadores tipo "-1-"
-            if re.match(r'^[\s\-]*\d{1,3}[\s\-]*$', line):
+            if re.match(r'^[\s\-]*\d{1,5}[\s\-]*$', line):
                 continue
             # Pular se parece texto PT
             if looks_like_pt(line):
                 continue
             # Pular marcadores de keywords EN
             if is_kw_en_marker(lines[i]):
+                continue
+            # Pular "ABSTRACT" / "SUMMARY" isolados (marcadores de seção)
+            if re.match(r'^\s*(ABSTRACT|Abstract|SUMMARY|Summary)\s*:?\s*$', line):
                 continue
             if is_likely_title_line(line):
                 candidate_lines.append(line)
@@ -618,7 +621,7 @@ def extract_title_en(lines):
                 if candidate_lines:
                     break
                 continue
-            if re.match(r'^\d{1,3}$', line):
+            if re.match(r'^\d{1,5}$', line):
                 continue
             if is_all_caps(line) and not has_pt_accents(line, 2):
                 candidate_lines.append(line)
@@ -643,7 +646,7 @@ def extract_title_en(lines):
                 continue
             if looks_like_pt(line):
                 break
-            if re.match(r'^\d{1,3}$', line):
+            if re.match(r'^\d{1,5}$', line):
                 continue
             if is_likely_title_line(line):
                 candidate_lines.insert(0, line)
@@ -795,7 +798,7 @@ def extract_abstract_en(lines):
         line = lines[i].strip()
         if not line:
             continue
-        if re.match(r'^\d{1,3}$', line):
+        if re.match(r'^\d{1,5}$', line):
             continue
         if is_all_caps(line) and not has_pt_accents(line, 2):
             skip_until_body = i + 1
@@ -821,7 +824,7 @@ def extract_abstract_en(lines):
         else:
             empty_count = 0
 
-        if re.match(r'^\d{1,3}$', stripped):
+        if re.match(r'^\d{1,5}$', stripped):
             continue
 
         if i == abstract_text_start and abstract_text_start == abstract_pos:
@@ -850,7 +853,7 @@ def extract_keywords_en(lines):
                 next_line = lines[j].strip()
                 if not next_line:
                     break
-                if re.match(r'^\d{1,3}$', next_line):
+                if re.match(r'^\d{1,5}$', next_line):
                     break
                 if len(next_line) > 100:
                     break

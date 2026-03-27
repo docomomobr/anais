@@ -129,6 +129,9 @@ SECTION_HEADER_PREFIXES = [
     'Artículos ',
     'Documentos oficiales ',
     'Documentos Oficiales ',
+    'Referencias bibliográficas ',
+    'Referencias Bibliográficas ',
+    'Referencias ',
 ]
 
 # Headers de seção standalone (sem ref depois — remover inteiramente)
@@ -141,7 +144,8 @@ SECTION_HEADER_STANDALONE = re.compile(
     r'Capítulos de [Ll]ivros|Fontes|Notas|'
     # Variantes ES
     r'Fuente de [Ii]mágenes|Bibliografía|Libros|Revistas|'
-    r'Tesis|Artículos|Documentos [Oo]ficiales)\.?\s*$',
+    r'Tesis|Artículos|Documentos [Oo]ficiales|'
+    r'Referencias [Bb]ibliográficas|Referencias)\.?\s*$',
     re.IGNORECASE
 )
 
