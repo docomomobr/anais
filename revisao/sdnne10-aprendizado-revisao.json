@@ -1,0 +1,35 @@
+{
+  "slug": "sdnne10",
+  "date": "2026-03-26",
+  "corrections_auto": 199,
+  "corrections_human": 15,
+  "learning": [
+    {
+      "type": "script_fix",
+      "description": "validate_metadata.py A14: adicionado check para header de conferência em abstracts",
+      "pattern": "Seminário Docomomo, Conservar Já, Nome Completo dos Autores, Título do artigo",
+      "seminars_affected": ["sdnne03", "sdnne06", "sdnne09", "sdnne10"],
+      "action": "check added to validate_metadata.py"
+    },
+    {
+      "type": "dict_addition",
+      "description": "seed_authors +3, seed_titles +9 (Atlas, Anamnese, Campinense, etc.)",
+      "action": "dict.db updated"
+    },
+    {
+      "type": "pattern_confirmed",
+      "description": "Expressões consolidadas devem ser capitalizadas em ES: Arquitectura Moderna, Movimiento Moderno",
+      "action": "LLM review ES now checks these expressions"
+    },
+    {
+      "type": "pattern_confirmed",
+      "description": "Conference header contamination: 29 abstracts in sdnne10 had 'X Seminário Docomomo Norte e Nordeste | Conservar Já...' mid-text",
+      "action": "Cleaned in DB + validation check added"
+    },
+    {
+      "type": "observation",
+      "description": "References in sdnne10 are heavily fragmented by plumber (28 blocks for 17 refs in one case). Manual reconstruction needed for 7 articles.",
+      "recommendation": "For future NNE seminars with this PDF format, consider pre-processing plumber output to join reference blocks"
+    }
+  ]
+}

@@ -341,7 +341,7 @@ def check_refs_orphan_urls(article):
 
 
 def check_abstract_contamination(article):
-    """A14: abstract contém email, afiliação ou CV."""
+    """A14: abstract contém email, afiliação, CV ou header de conferência."""
     issues = []
     aid = article['id']
 
@@ -367,6 +367,15 @@ def check_abstract_contamination(article):
         upper_ratio = sum(1 for c in text if c.isupper()) / max(len(text), 1)
         if upper_ratio > 0.4 and len(text) > 200:
             problems.append('proporção alta de maiúsculas (possível tabela/cabeçalho)')
+
+        # Header de conferência contaminando abstract
+        conf_markers = ['seminário docomomo', 'conservar já', 'documentar sempre',
+                        'nome completo dos autores', 'título do artigo: subtítulo']
+        text_lower = text.lower()
+        for marker in conf_markers:
+            if marker in text_lower:
+                problems.append(f'contém header de conferência ("{marker}")')
+                break
 
         # Template text do formulário de submissão
         template_markers = ['máximo de', 'fonte Arial', 'espaçamento simples',
