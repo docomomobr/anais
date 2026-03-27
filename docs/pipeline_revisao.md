@@ -405,6 +405,8 @@ python3 scripts/normalizar_maiusculas.py --slug {slug}
 2. Se está e não deveria (palavra genérica como "obra", "estudo", "arquitetônica"): **remover do dict** e **adicionar ao STOPWORDS** de `seed_titles.py` se ainda não estiver.
 3. Isso DEVE ser feito na hora da correção, não na Fase 3. A Fase 3 apenas verifica que foi feito.
 
+**LEITURA OBRIGATÓRIA antes de qualquer revisão LLM de títulos/subtítulos:** [`regras_dados.md` §Capitalização](regras_dados.md#capitalização-norma-brasileira). As regras de capitalização PT **NÃO são Title Case inglês**. São sentence case com exceções para nomes próprios, siglas, disciplinas/áreas do saber, movimentos históricos e expressões consolidadas. Ao delegar a agentes LLM, **incluir as regras completas na instrução** — não resumir como "Title Case PT".
+
 **Verificação com LLM — OBRIGATÓRIA.** Após a normalização automática, listar todos os títulos e analisar **cada palavra** de cada um. Procedimento:
 
 1. `SELECT id, title, subtitle FROM articles WHERE seminar_slug = ? ORDER BY id`
@@ -457,6 +459,10 @@ Ver [ref S-E](modulos_pipeline.md#e-regras-de-capitalização-en-e-es) para regr
 > **DONE**: cada título comparado com PDF
 
 Revisão LLM real — ler CADA título contra o PDF. Problemas que só uma leitura real pega: palavras coladas ("Destructionorconstruction..."), lixo vazado de outros campos, typos de OCR, acentos faltantes em nomes próprios.
+
+**Regras de capitalização ao delegar a agentes LLM — incluir na instrução:**
+- **EN** — Title Case (Chicago/APA). Palavras PT preservadas como nome próprio mantêm casing PT (ex: "Hospital das Clínicas", não "Hospital Das Clínicas").
+- **ES** — Sentence case RAE: maiúscula apenas para primeira palavra, nomes próprios e siglas. NÃO capitalizar disciplinas, movimentos ou expressões consolidadas (diferente do PT). Exceção pragmática: "Arquitectura Moderna" e "Movimiento Moderno" podem ser aceitos como expressões consagradas no corpus Docomomo.
 
 Salvar aprendizado em `revisao/{slug}-titulos-en-aprendizado.json`. Ver [ref S-E.1](modulos_pipeline.md#e1-revisão-llm-de-títulos-en-e-es) para procedimento.
 
@@ -705,6 +711,36 @@ python3 scripts/fetch_orcid.py --apply
 **REGRA ABSOLUTA**: Esta é a ÚLTIMA etapa antes do HTML. Confrontar **CADA artigo** com o plumber e verificar **TODOS os campos**: título, subtítulo, abstract, abstract_en, keywords, keywords_en, referências. Corrigir na hora (R8).
 
 **Diferença da 1.2c**: A 1.2c foca nas refs durante a fase de limpeza. A 1.10 é o passo final que verifica tudo — incluindo campos que podem ter sido corrompidos por auto-fixes, abstracts truncados que escaparam, títulos com discrepância vs PDF, keywords com lixo.
+
+**Regras de capitalização PT — OBRIGATÓRIO incluir nas instruções de agentes LLM:**
+
+Títulos PT usam **sentence case brasileiro** (NÃO Title Case inglês). Referência completa: [`regras_dados.md` §Capitalização](regras_dados.md#capitalização-norma-brasileira). Resumo operacional:
+
+| Categoria | Regra | Exemplos |
+|-----------|-------|----------|
+| Primeira palavra do título | Maiúscula | "Os hotéis da Metrópole" |
+| Subtítulo | **minúscula** (exceto nome próprio/sigla) | "o caso do Hotel Jaraguá" |
+| Nomes próprios | Maiúscula | Niemeyer, Brasília, Copan, Parque Ibirapuera |
+| Siglas | MAIÚSCULA | IPHAN, IAPs, FAU-USP |
+| Disciplinas/áreas do saber | Maiúscula | Arquitetura, Urbanismo, História |
+| Movimentos/conceitos substantivados | Maiúscula | Modernismo, Modernidade, Brutalismo |
+| Expressões consolidadas | Maiúscula | Arquitetura Moderna, Movimento Moderno, Patrimônio Cultural |
+| Adjetivos pátrios isolados | **minúscula** | paulista, brasileiro, paulistana |
+| Adjetivos pátrios em expressão consolidada | Maiúscula | Arquitetura Moderna **Brasileira** |
+| Entidades político-administrativas | Maiúscula | Estado de São Paulo, Município de Promissão |
+| Palavras comuns | **minúscula** | edifício, casa, projeto, tombamento, tipologia, experiência |
+| Artigos/preposições/conjunções | **minúscula** | o, a, de, da, e, ou, para, na, do |
+
+**Erro típico de agentes LLM:** aplicar Title Case inglês nos títulos PT (capitalizar todas as palavras "importantes"). Isso está **ERRADO** em português. Exemplo:
+- ❌ "Os Percursos do Desenho" (Title Case inglês)
+- ✅ "Os percursos do desenho" (sentence case PT)
+- ❌ "Edifícios Comerciais – Tipologia Vertical da Metrópole em Construção"
+- ✅ "Edifícios comerciais – tipologia vertical da metrópole em construção"
+
+**Regras ES** — Sentence case RAE (igual ao PT, mas SEM capitalizar disciplinas ou movimentos):
+- ❌ "La Arquitectura Moderna en Brasil" (capitalizou disciplina+movimento)
+- ✅ "La arquitectura moderna en Brasil" (RAE: só nomes próprios)
+- Exceção pragmática Docomomo: "Arquitectura Moderna" e "Movimiento Moderno" aceitos
 
 **Procedimento — UM artigo por vez:**
 
