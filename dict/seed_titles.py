@@ -117,6 +117,9 @@ STOPWORDS = {
     'ensino', 'teoria', 'sociedade', 'industriais', 'três',
     # Genéricos encontrados erroneamente no dict (sdsp07, 2026-03-27)
     'galeria', 'interiores', 'exposição',
+    # Genéricos encontrados erroneamente no dict (sdsp08, 2026-03-27)
+    'desenhos', 'pesquisas', 'brasileiro', 'ferroviário', 'bienais',
+    'fontes', 'escolas', 'concurso',
 }
 
 

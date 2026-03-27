@@ -1,0 +1,38 @@
+{
+  "slug": "sdsp08",
+  "date": "2026-03-27",
+  "total_articles": 40,
+  "profile": {
+    "total": 40,
+    "locale_es": 0,
+    "abstract": 36,
+    "abstract_en": 36,
+    "abstract_es": 0,
+    "keywords": 36,
+    "keywords_en": 36,
+    "keywords_es": 0,
+    "references_": 38
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdsp08-019",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...o de sua residência através das análises\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A32",
+      "article_id": "sdsp08-023",
+      "field": "abstract_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en possivelmente truncado (PT=838 EN=516 ratio=0.62)",
+      "suggestion": "Re-extrair do fontes/ ou do plumber"
+    }
+  ],
+  "category_b_candidates": []
+}
