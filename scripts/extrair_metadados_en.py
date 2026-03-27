@@ -311,6 +311,11 @@ def extract_en_from_plumber(blocks):
                 keywords_en_raw = re.sub(r'^\s*Key[\s-]*[Ww]ords?\s*:\s*', '', keywords_en_raw,
                                          flags=re.IGNORECASE).strip()
             ae = ae[:m_kw.start()].strip()
+        # Remover números de página isolados (3-4 dígitos) colados no texto
+        ae = re.sub(r'(\w)\s+(\d{3,4})\s+(\w)', lambda m: m.group(1) + ' ' + m.group(3)
+                    if 50 <= int(m.group(2)) <= 9999 else m.group(0), ae)
+        # Remover número de página no final
+        ae = re.sub(r'\s+\d{3,4}\s*$', '', ae)
         if len(ae) > 50:
             result['abstract_en'] = ae
 
@@ -381,8 +386,9 @@ def extract_en_from_plumber(blocks):
                 else:
                     break
 
-    # Padrão C: título EN em heading na página 1 (seminários com títulos trilíngues)
-    # Procurar headings p1 que são claramente EN (palavras funcionais EN, não PT/ES)
+    # Padrão C: título EN em heading/subheading na página 1 (seminários com títulos trilíngues)
+    # Procurar headings e subheadings p1 que são claramente EN (palavras funcionais EN, não PT/ES)
+    # Subheadings podem conter títulos EN+ES em linhas separadas (ex: sdsp07)
     if not title_en_candidates:
         EN_FUNC = {'the', 'of', 'and', 'in', 'to', 'for', 'from', 'by', 'with',
                    'on', 'at', 'between', 'an', 'its', 'their', 'as', 'or'}
@@ -392,33 +398,40 @@ def extract_en_from_plumber(blocks):
         for i, b in enumerate(blocks):
             if b['page'] != 1:
                 break
-            if b['role'] != 'heading':
+            if b['role'] not in ('heading', 'subheading'):
                 continue
-            text = b['text'].strip()
-            if not text or len(text) < 5:
+            raw_text = b['text'].strip()
+            if not raw_text or len(raw_text) < 5:
                 continue
-            # Pular cabeçalhos de seminário
-            if SEMINAR_HEADER_RE.search(text):
-                continue
-            words = re.findall(r'[a-záàâãéêíóôõúüçñ]+', text.lower())
-            if not words:
-                continue
-            # Detect PT title (first heading on p1 that's clearly PT)
-            pt_count = sum(1 for w in words if w in PT_FUNCTION_WORDS)
-            if pt_count >= 2 and pt_title_idx is None:
-                pt_title_idx = i
-                continue
-            # Skip author lines (SOBRENOME, Nome pattern)
-            if re.match(r'^[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ]+,\s', text):
-                continue
-            # Skip ES titles
-            es_count = sum(1 for w in words if w in ES_FUNC)
-            if es_count >= 2:
-                continue
-            # Check if EN
-            en_count = sum(1 for w in words if w in EN_FUNC)
-            if en_count >= 2 or (len(words) <= 4 and en_count >= 1):
-                title_en_candidates.append(text)
+            # Subheadings podem ter EN+ES em linhas separadas; testar cada linha
+            lines_to_test = [raw_text]
+            if b['role'] == 'subheading' and '\n' in raw_text:
+                lines_to_test = [ln.strip() for ln in raw_text.split('\n') if ln.strip()]
+            for text in lines_to_test:
+                if len(text) < 5:
+                    continue
+                # Pular cabeçalhos de seminário
+                if SEMINAR_HEADER_RE.search(text):
+                    continue
+                words = re.findall(r'[a-záàâãéêíóôõúüçñ]+', text.lower())
+                if not words:
+                    continue
+                # Detect PT title (first heading on p1 that's clearly PT)
+                pt_count = sum(1 for w in words if w in PT_FUNCTION_WORDS)
+                if pt_count >= 2 and pt_title_idx is None:
+                    pt_title_idx = i
+                    continue
+                # Skip author lines (SOBRENOME, Nome pattern)
+                if re.match(r'^[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ]+,\s', text):
+                    continue
+                # Skip ES titles
+                es_count = sum(1 for w in words if w in ES_FUNC)
+                if es_count >= 2:
+                    continue
+                # Check if EN
+                en_count = sum(1 for w in words if w in EN_FUNC)
+                if en_count >= 2 or (len(words) <= 4 and en_count >= 1):
+                    title_en_candidates.append(text)
 
     if title_en_candidates:
         title_raw = ' '.join(title_en_candidates)

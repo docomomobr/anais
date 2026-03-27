@@ -48,6 +48,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdsp03 | 74 | revisado | 2026-03-27 |
 | sdsp05 | 68 | revisado | 2026-03-27 |
 | sdsp06 | 37 | revisado | 2026-03-27 |
+| sdsp07 | 43 | revisado | 2026-03-27 |
 
 ---
 

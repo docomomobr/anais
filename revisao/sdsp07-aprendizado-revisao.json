@@ -1,0 +1,34 @@
+[
+  {
+    "seminario": "sdsp07",
+    "data": "2026-03-27",
+    "tipo": "bug_script",
+    "descricao": "extrair_metadados_en.py Padrão C: só procurava blocos heading, mas títulos EN podem estar em subheading (sdsp07: 43/43 falharam)",
+    "correcao": "Expandir Padrão C para incluir role=subheading; split linhas por \\n para separar EN de ES",
+    "artigos_afetados": 43
+  },
+  {
+    "seminario": "sdsp07",
+    "data": "2026-03-27",
+    "tipo": "bug_script",
+    "descricao": "extrair_metadados_en.py: page numbers (3-4 dígitos) contaminam abstract_en — colados no texto por extração pdfplumber",
+    "correcao": "Adicionar limpeza regex de números de página isolados no abstract_en (antes de salvar)",
+    "artigos_afetados": 14
+  },
+  {
+    "seminario": "sdsp07",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "Refs em bloco único: plumber coloca todas as refs em um único bloco reference quando não há separação visual no PDF",
+    "correcao": "Não é bug de script — re-extração manual necessária quando refs estão num bloco só",
+    "artigos_afetados": 2
+  },
+  {
+    "seminario": "sdsp07",
+    "data": "2026-03-27",
+    "tipo": "dict",
+    "descricao": "Palavras genéricas erroneamente seedadas: galeria, interiores, exposição",
+    "correcao": "Removidas do dict.db, adicionadas como stopwords em seed_titles.py",
+    "artigos_afetados": 3
+  }
+]

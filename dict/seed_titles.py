@@ -115,6 +115,8 @@ STOPWORDS = {
     'antigo', 'interrompido', 'privado',
     # Genéricos encontrados erroneamente no dict (sdsp06, 2026-03-27)
     'ensino', 'teoria', 'sociedade', 'industriais', 'três',
+    # Genéricos encontrados erroneamente no dict (sdsp07, 2026-03-27)
+    'galeria', 'interiores', 'exposição',
 }
 
 

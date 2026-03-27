@@ -1,0 +1,22 @@
+{
+  "body_size": 11.0,
+  "abstract_size": 10.0,
+  "footnote_max": 8.8,
+  "heading_min": 11.5,
+  "pagenum_sizes": [],
+  "size_role": {
+    "6.0": "footnote",
+    "6.6": "footnote",
+    "7.2": "footnote",
+    "8.0": "footnote",
+    "9.0": "small",
+    "10.0": "abstract",
+    "10.5": "small",
+    "11.0": "body",
+    "12.0": "heading",
+    "14.0": "heading",
+    "24.0": "heading"
+  },
+  "sample_count": 10,
+  "total_pdfs": 44
+}
