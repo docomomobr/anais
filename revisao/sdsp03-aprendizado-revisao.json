@@ -1,0 +1,30 @@
+{
+  "slug": "sdsp03",
+  "date": "2026-03-27",
+  "corrections_auto": 30,
+  "corrections_human": 6,
+  "learning": [
+    {
+      "type": "script_fix",
+      "description": "fix_validation_issues.py: SECTION_HEADER_STANDALONE ampliado com 'Artigos em periódicos', 'Números monográficos de periódicos', 'Sites eletrônicos', 'Capítulos de livros'",
+      "pattern": "Headers de subseção bibliográfica infiltrados como refs",
+      "seminars_affected": ["sdsp03"],
+      "action": "Regex expandido em SECTION_HEADER_STANDALONE"
+    },
+    {
+      "type": "pipeline_fix",
+      "description": "R12: NUNCA gerar/traduzir/inventar metadados. Agentes LLM fabricaram title_es, abstract_es, keywords_es, title_en, keywords_en para 74 artigos — nenhum existia nos PDFs",
+      "action": "R12 adicionada ao pipeline_revisao.md e CLAUDE.md"
+    },
+    {
+      "type": "pipeline_fix",
+      "description": "Tabela de regras de capitalização PT incluída na §1.10 do pipeline. Agentes LLM aplicavam Title Case inglês nos títulos PT",
+      "action": "Tabela operacional + exemplos de erros adicionados na §1.10"
+    },
+    {
+      "type": "pattern_confirmed",
+      "description": "'Paulistana' capitalizado em expressões consolidadas: 'Arquitetura Paulistana', 'Modernidade Paulistana'. Gentílico toponímico em expressão consolidada = maiúscula",
+      "action": "Dict já tinha paulistana→Paulistana. Confirmado pela revisão humana"
+    }
+  ]
+}

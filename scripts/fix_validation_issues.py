@@ -103,12 +103,20 @@ SECTION_HEADER_PREFIXES = [
     'Teses e Dissertações ',
     'Dissertações e Teses ',
     'Artigos e Periódicos ',
+    'Artigos em Periódicos ',
+    'Artigos em periódicos ',
     'Artigos ',
     'Periódicos ',
+    'Números monográficos de periódicos ',
+    'Números Monográficos de Periódicos ',
     'Referências Bibliográficas ',
     'Bibliografia ',
     'Fontes Bibliográficas ',
+    'Sites eletrônicos ',
+    'Sites Eletrônicos ',
     'Sites ',
+    'Capítulos de livros ',
+    'Capítulos de Livros ',
     'Documentos ',
     'Documentos Oficiais ',
 ]
@@ -116,9 +124,11 @@ SECTION_HEADER_PREFIXES = [
 # Headers de seção standalone (sem ref depois — remover inteiramente)
 SECTION_HEADER_STANDALONE = re.compile(
     r'^(Escritos|Livros|Revistas e Periódicos|Teses e Dissertações|'
-    r'Dissertações e Teses|Artigos e Periódicos|Artigos|Periódicos|'
+    r'Dissertações e Teses|Artigos e Periódicos|Artigos em [Pp]eriódicos|'
+    r'Artigos|Periódicos|Números [Mm]onográficos de [Pp]eriódicos|'
     r'Referências Bibliográficas|Bibliografia|Fontes Bibliográficas|'
-    r'Sites|Documentos|Documentos Oficiais|Fontes|Notas)\.?\s*$',
+    r'Sites [Ee]letrônicos|Sites|Documentos|Documentos Oficiais|'
+    r'Capítulos de [Ll]ivros|Fontes|Notas)\.?\s*$',
     re.IGNORECASE
 )
 

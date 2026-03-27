@@ -58,6 +58,7 @@ Pipeline para a revisão humana dos metadados dos artigos no `anais.db`. Executa
 | sdnne08 | 41 | 2026-03-26 | 2 correções: 1 título capitalização (arquitetura lowercase), 1 subtítulo capitalização (Interiores uppercase) |
 | sdnne09 | 50 | 2026-03-26 | 1 correção: título capitalização (história lowercase). 91 correções automáticas (footer contamination, subtítulos truncados, keywords) |
 | sdnne10 | 85 | 2026-03-26 | 15 correções: 4 títulos capitalização, 2 subtítulos, 2 abstract_es (header contaminação), 7 refs reconstruídas (0→27, splits). 170+ correções automáticas (Fases 0-2) |
+| sdsp03 | 74 | 2026-03-27 | 6 correções: 3 títulos Paulistana, 1 ref espúria, 9 refs extraídas, 3 headers refs removidos |
 
 ---
 

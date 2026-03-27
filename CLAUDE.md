@@ -10,7 +10,7 @@ Fontes das seções/eixos temáticos: [`docs/fontes_secoes.md`](docs/fontes_seco
 
 ## Seminários revisados — NÃO ALTERAR
 
-38 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10).
+39 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03).
 **NÃO modificar seus dados** sem pedido explícito do usuário.
 Tabela completa: [`docs/seminarios_revisados.md`](docs/seminarios_revisados.md)
 
