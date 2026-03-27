@@ -152,6 +152,7 @@ Referência: https://funag.gov.br/manual/index.php?title=Mai%C3%BAsculas_e_min%C
 
 **Disciplinas vs. ações genéricas:**
 - "Conservação" e "Documentação" são capitalizadas quando usadas como **áreas disciplinares** (em lista: "Documentação, Conservação e intervenção na Arquitetura"). Minúscula quando usadas como **ação genérica** ("um estudo para conservação das fachadas", "trabalho de documentação").
+- "Arquitetura" é maiúscula quando usada como **disciplina/área** ("a Arquitetura no Brasil", "ensino de Arquitetura") ou em **expressão consolidada** ("Arquitetura Moderna", "Arquitetura Paulista"). Minúscula quando adjetivada genericamente e referindo-se a um tipo/subárea descritiva: "arquitetura esportiva", "arquitetura hospitalar", "arquitetura religiosa", "arquitetura residencial", "arquitetura escolar" (exceto em expressão consolidada como "Arquitetura Escolar Paulista").
 
 **Consistência em expressões consolidadas:**
 - Quando um adjetivo pátrio ou toponímico faz parte de uma expressão consolidada capitalizada, ele também deve ser capitalizado para manter a consistência. Ex: "Arquitetura Moderna Brasileira" (não "Arquitetura Moderna brasileira"), "Urbanismo Moderno Paulista" (não "Urbanismo Moderno paulista").

@@ -129,7 +129,7 @@ def extract_en_from_plumber(blocks):
         if abstract_marker_idx is None:
             if b['role'] == 'heading' and re.match(r'\s*Abstract\s*:?\s*$', text, re.IGNORECASE):
                 abstract_marker_idx = i
-            elif re.search(r'(?:^|\n)\s*Abstract\s*:', text, re.IGNORECASE):
+            elif re.search(r'(?:^|\n)\s*Abstract\s*:?\s*(?:\n|$)', text, re.IGNORECASE):
                 abstract_marker_idx = i
 
     # --- abstract_en ---
@@ -159,10 +159,33 @@ def extract_en_from_plumber(blocks):
                 elif nb['role'] == 'heading':
                     break
 
-        # Caso 2: "Abstract:" inline no bloco
+        # Caso 2: "Abstract:" ou "ABSTRACT\n" inline, ou standalone "ABSTRACT" block
         else:
-            m = re.search(r'Abstract\s*:\s*(.+)', text, re.DOTALL)
-            if m:
+            # Standalone "ABSTRACT" block (sem conteúdo) — tratar como Caso 1
+            if re.match(r'\s*Abstract\s*:?\s*$', text, re.IGNORECASE):
+                for j in range(abstract_marker_idx + 1, min(len(blocks), abstract_marker_idx + 10)):
+                    nb = blocks[j]
+                    if nb['role'] in ('abstract', 'small', 'body', 'footnote'):
+                        nt = nb['text'].strip()
+                        if re.match(r'\s*Key[\s-]*[Ww]ords?\s*:', nt, re.IGNORECASE):
+                            break
+                        if nb['role'] == 'heading' and nb['page'] > b['page']:
+                            break
+                        abstract_en_parts.append(nt)
+                        m_kw = re.search(r'\n\s*Key[\s-]*[Ww]ords?\s*:', nt)
+                        if m_kw:
+                            abstract_en_parts[-1] = nt[:m_kw.start()].strip()
+                            keywords_en_raw = nt[m_kw.end():].strip()
+                            break
+                    elif nb['role'] == 'heading':
+                        break
+            else:
+                pass  # fall through to inline extraction below
+
+            m = re.search(r'Abstract\s*:?\s*\n(.+)', text, re.DOTALL | re.IGNORECASE)
+            if not m:
+                m = re.search(r'Abstract\s*:\s*(.+)', text, re.DOTALL)
+            if m and not abstract_en_parts:
                 content = m.group(1).strip()
                 # Pode ter keywords_en embutidas
                 m_kw = re.search(r'\n\s*Key[\s-]*[Ww]ords?\s*:', content)
@@ -315,8 +338,16 @@ def extract_en_from_plumber(blocks):
             # Pular continuação de keywords PT (texto curto com vírgulas)
             if len(text) < 40 and ',' in text and not is_all_caps(text):
                 continue
-            # Verificar se não é PT
-            if looks_like_pt(text):
+            # Verificar se não é PT — mas para blocos heading entre os marcadores,
+            # usar heurística mais permissiva (nomes de cidades BR em títulos EN
+            # causam falsos positivos no has_pt_accents)
+            if b['role'] == 'heading':
+                # Para headings, verificar se tem palavras funcionais PT (não só acentos)
+                words = text.lower().split()
+                pt_func = sum(1 for w in words if w.strip('.,;:()[]') in PT_FUNCTION_WORDS)
+                if pt_func >= max(2, len(words) * 0.25):
+                    continue
+            elif looks_like_pt(text):
                 continue
             if is_likely_title_line(text):
                 title_en_candidates.append(text)
@@ -336,6 +367,42 @@ def extract_en_from_plumber(blocks):
                     title_en_candidates.append(text)
                 else:
                     break
+
+    # Padrão C: título EN em heading na página 1 (seminários com títulos trilíngues)
+    # Procurar headings p1 que são claramente EN (palavras funcionais EN, não PT/ES)
+    if not title_en_candidates:
+        EN_FUNC = {'the', 'of', 'and', 'in', 'to', 'for', 'from', 'by', 'with',
+                   'on', 'at', 'between', 'an', 'its', 'their', 'as', 'or'}
+        ES_FUNC = {'el', 'la', 'los', 'las', 'del', 'de', 'en', 'y', 'un', 'una',
+                   'por', 'con', 'como', 'entre', 'su', 'sus', 'al', 'para'}
+        pt_title_idx = None
+        for i, b in enumerate(blocks):
+            if b['page'] != 1:
+                break
+            if b['role'] != 'heading':
+                continue
+            text = b['text'].strip()
+            if not text or len(text) < 5:
+                continue
+            words = re.findall(r'[a-záàâãéêíóôõúüçñ]+', text.lower())
+            if not words:
+                continue
+            # Detect PT title (first heading on p1 that's clearly PT)
+            pt_count = sum(1 for w in words if w in PT_FUNCTION_WORDS)
+            if pt_count >= 2 and pt_title_idx is None:
+                pt_title_idx = i
+                continue
+            # Skip author lines (SOBRENOME, Nome pattern)
+            if re.match(r'^[A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ]+,\s', text):
+                continue
+            # Skip ES titles
+            es_count = sum(1 for w in words if w in ES_FUNC)
+            if es_count >= 2:
+                continue
+            # Check if EN
+            en_count = sum(1 for w in words if w in EN_FUNC)
+            if en_count >= 2 or (len(words) <= 4 and en_count >= 1):
+                title_en_candidates.append(text)
 
     if title_en_candidates:
         title_raw = ' '.join(title_en_candidates)
@@ -607,6 +674,99 @@ def split_title_subtitle(title_raw):
     return title_raw, None
 
 
+def _is_page_number(text):
+    """Detecta texto que é apenas um número de página (3-4 dígitos)."""
+    return bool(re.match(r'^\d{2,4}$', text.strip()))
+
+
+def _strip_abstract_suffix(text):
+    """Remove 'ABSTRACT' ou 'SUMMARY' grudado no final do título."""
+    for suffix in [' ABSTRACT', ' Abstract', ' SUMMARY', ' Summary']:
+        if text.endswith(suffix):
+            text = text[:-len(suffix)].strip()
+    return text
+
+
+def _allcaps_to_titlecase(text):
+    """Converte ALL CAPS para Title Case EN.
+
+    Respeita: acrônimos conhecidos (FAU, USP, SESC, SENAI, IPHAN, etc.).
+    Quando o texto inteiro é ALL CAPS, palavras curtas NÃO são tratadas como
+    acrônimos — são convertidas normalmente. Apenas siglas conhecidas são preservadas.
+    """
+    if not text or text != text.upper():
+        return text
+    # Já é mixed case — não alterar
+    alpha = re.sub(r'[^a-zA-Z]', '', text)
+    if len(alpha) <= 3:
+        return text  # acrônimo curto isolado
+    known_acronyms = {
+        'FAU', 'USP', 'SESC', 'SENAI', 'IPHAN', 'IAB', 'UFRGS', 'UFBA',
+        'UNICAMP', 'UFMG', 'UFRJ', 'UFPE', 'UNB', 'PROPAR', 'SP', 'RJ',
+        'PR', 'MG', 'RS', 'BA', 'PE', 'CE', 'UNESCO', 'OJS', 'CEAGESP',
+        'IPESP', 'ICOMOS', 'ABNT', 'CIAM',
+    }
+    small_words = {'a', 'an', 'the', 'and', 'or', 'but', 'in', 'on', 'at',
+                   'to', 'for', 'of', 'with', 'by', 'from', 'as', 'into', 'is',
+                   'de', 'da', 'do', 'dos', 'das', 'e'}  # PT particles in names
+    words = text.split()
+    result = []
+    for i, w in enumerate(words):
+        w_alpha = re.sub(r'[^a-zA-Z]', '', w)
+        # Hyphenated: check each part (e.g., FAU-USP)
+        if '-' in w:
+            parts = w.split('-')
+            converted = []
+            for p in parts:
+                p_alpha = re.sub(r'[^a-zA-Z]', '', p)
+                if p_alpha in known_acronyms:
+                    converted.append(p)
+                elif p.lower() in small_words and i > 0:
+                    converted.append(p.lower())
+                else:
+                    converted.append(p.capitalize())
+            result.append('-'.join(converted))
+        elif w_alpha in known_acronyms:
+            result.append(w)  # preservar acrônimo
+        elif w.lower() in small_words and i > 0:
+            result.append(w.lower())
+        else:
+            result.append(w.capitalize())
+    return ' '.join(result)
+
+
+def clean_title_en(title, subtitle=None):
+    """Pós-processamento de title_en/subtitle_en extraídos.
+
+    1. Rejeita números de página
+    2. Remove sufixo ABSTRACT/SUMMARY
+    3. Converte ALL CAPS → Title Case
+    4. subtitle começa com minúscula (exceto nome próprio/acrônimo)
+    """
+    if not title:
+        return title, subtitle
+
+    # Rejeitar números de página
+    if _is_page_number(title):
+        return None, None
+
+    title = _strip_abstract_suffix(title)
+    title = _allcaps_to_titlecase(title)
+
+    if subtitle:
+        subtitle = _strip_abstract_suffix(subtitle)
+        subtitle = _allcaps_to_titlecase(subtitle)
+        # subtitle começa com minúscula
+        if subtitle and subtitle[0].isupper():
+            first_word = subtitle.split()[0] if subtitle.split() else ''
+            first_alpha = re.sub(r'[^a-zA-Z]', '', first_word)
+            # Não baixar se acrônimo ou nome próprio curto (heurística: >4 chars = provavelmente palavra comum)
+            if len(first_alpha) > 4 or (len(first_alpha) > 1 and not first_alpha.isupper()):
+                subtitle = subtitle[0].lower() + subtitle[1:]
+
+    return title, subtitle
+
+
 def extract_abstract_en(lines):
     """Extrai abstract EN do texto.
 
@@ -764,12 +924,19 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
                 stats['title_existing'] += 1
                 status_title = 'existente'
             elif 'title_en' in extracted:
-                updates['title_en'] = extracted['title_en']
-                if 'subtitle_en' in extracted:
-                    updates['subtitle_en'] = extracted['subtitle_en']
-                    stats['subtitle_extracted'] += 1
-                stats['title_extracted'] += 1
-                status_title = 'NOVO'
+                t_en, s_en = clean_title_en(
+                    extracted['title_en'],
+                    extracted.get('subtitle_en'))
+                if t_en:
+                    updates['title_en'] = t_en
+                    if s_en:
+                        updates['subtitle_en'] = s_en
+                        stats['subtitle_extracted'] += 1
+                    stats['title_extracted'] += 1
+                    status_title = 'NOVO'
+                else:
+                    stats['title_failed'] += 1
+                    status_title = 'falhou'
             else:
                 stats['title_failed'] += 1
                 status_title = 'falhou'
@@ -811,6 +978,7 @@ def process_seminar(conn, slug, dry_run=False, force=False, only_title=False):
                 status_title = 'existente'
             else:
                 title_en, subtitle_en = extract_title_en(lines)
+                title_en, subtitle_en = clean_title_en(title_en, subtitle_en)
                 if title_en:
                     updates['title_en'] = title_en
                     if subtitle_en:

@@ -1,0 +1,32 @@
+{
+  "slug": "sdsp05",
+  "date": "2026-03-27",
+  "corrections_auto": 119,
+  "corrections_human": 6,
+  "learning": [
+    {
+      "type": "pattern_confirmed",
+      "description": "'arquitetura' em contexto genérico (adjetivado: esportiva, hospitalar) deve ser minúscula. 'Arquitetura' maiúscula só como disciplina/área isolada ou em expressão consolidada (Arquitetura Moderna, Arquitetura Paulista)",
+      "pattern": "Agentes LLM capitalizam 'Arquitetura' sempre, mas é minúscula quando adjetivada genericamente",
+      "seminars_affected": ["sdsp05"],
+      "action": "3 títulos corrigidos na revisão humana"
+    },
+    {
+      "type": "script_fix",
+      "description": "fix_validation_issues.py: SECTION_HEADER_STANDALONE deve incluir 'FUENTE DE IMÁGENES' (ES) para artigos em espanhol",
+      "pattern": "Headers de subseção bibliográfica em espanhol infiltrados como refs",
+      "seminars_affected": ["sdsp05"],
+      "action": "Verificar se regex cobre variantes ES"
+    },
+    {
+      "type": "pipeline_fix",
+      "description": "title_en/subtitle_en extraídos via script vinham em ALL CAPS com 'ABSTRACT' grudado. Necessário pós-processamento: remover sufixo ABSTRACT/SUMMARY, converter ALL CAPS para Title Case, subtitle começa minúscula",
+      "action": "Limpeza manual de 14 subtitle_en e 17 title_en"
+    },
+    {
+      "type": "pipeline_fix",
+      "description": "Refs inseridas por agentes em formato texto (;-separated) em vez de JSON array causam warnings de 'JSON inválido' no validate_metadata. Converter para JSON após inserção",
+      "action": "5 artigos convertidos de texto para JSON"
+    }
+  ]
+}

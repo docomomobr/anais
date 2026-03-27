@@ -46,6 +46,7 @@ a menos que o usuário peça explicitamente uma alteração específica.
 | sdnne09 | 50 | revisado | 2026-03-26 |
 | sdnne10 | 85 | revisado | 2026-03-26 |
 | sdsp03 | 74 | revisado | 2026-03-27 |
+| sdsp05 | 68 | revisado | 2026-03-27 |
 
 ---
 
