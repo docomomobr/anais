@@ -1,8 +1,8 @@
-# Fluxo de Tratamento e Revisão de Anais para OJS
+# Fluxo de Tratamento e Revisão de Anais
 
-Fluxo completo validado nos seminários SP (sdsp03, sdsp05-09) e Rio (sdrj02, sdrj03). Aplicável a qualquer série regional.
+Fluxo completo validado em 45 seminários (sdbr01-15, sdnne01-10, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdsp03, sdsp05-09). Aplicável a qualquer série.
 
-Para procedimentos detalhados de revisão automática (normalização, extração, validação), ver [pipeline_revisao.md](pipeline_revisao.md). Para revisão humana, ver [pipeline_revisao_humana.md](pipeline_revisao_humana.md).
+Para procedimentos detalhados de revisão automática (normalização, extração, validação), ver [pipeline_revisao.md](pipeline_revisao.md). Para revisão humana, ver [pipeline_revisao_humana.md](pipeline_revisao_humana.md). Para publicação (site Hugo + Zenodo), ver [pipeline_producao.md](pipeline_producao.md).
 
 ---
 
@@ -13,13 +13,15 @@ As mesmas regras do [pipeline de revisão](pipeline_revisao.md#regras-de-execuç
 1. **R1 — Execução literal.** Cada etapa é obrigatória. Não pular.
 2. **R2 — Registro imediato.** Após cada etapa, gravar no `revisao/{slug}-rev-status.md`.
 3. **R3 — Gates de transição.** Não avançar sem verificar etapa anterior.
-4. **R4 — Hierarquia de fontes.** (1) doc/docx, (2) fontes_plumber/, (3) fontes/ (pdftotext).
+4. **R4 — Hierarquia de fontes.** (1) doc/docx — `python-docx`, (2) `fontes_plumber/` — `.jsonl`, (3) `fontes/` (pdftotext). SEMPRE verificar doc/docx antes de pdfplumber. NUNCA converter docx para txt — perde-se a estrutura.
 5. **R5 — Salvar antes de inserir.** JSON intermediário antes de gravar no banco.
 6. **R6 — Registrar correções.** Artigo, campo, antes/depois, causa.
 7. **R7 — Retomada.** Ler rev-status — última ✅ — retomar próxima.
-8. **R8 — Corrigir, não relatar.** Problema identificado → corrigir na hora.
-9. **R9 — Campo vazio ≠ genuinamente ausente.** Confirmar no PDF/docx.
-10. **R10 — Nenhum "OK" genérico.** Registrar o que foi feito e o resultado concreto.
+8. **R8 — Corrigir, não relatar.** Problema identificado → corrigir na hora. Relatório sem correção = etapa não executada.
+9. **R9 — Campo vazio ≠ genuinamente ausente.** Abrir PDF/docx para confirmar.
+10. **R10 — Nenhum "OK" genérico.** Registrar o que foi feito e o resultado concreto (ex: "12 correções", "0 merges", "3 refs extraídas").
+11. **R11 — Footnotes/endnotes NÃO vão no campo `references_`.** Se o artigo usa citação em nota de rodapé, o campo fica vazio (ou com as poucas refs bibliográficas que houver).
+12. **R12 — NUNCA gerar, traduzir ou inventar metadados.** Todos os metadados (títulos, subtítulos, abstracts, keywords — em qualquer idioma) devem ser **extraídos** das fontes originais (PDF, docx, plumber, fontes do DVD). Se o dado não existe no documento original, o campo fica vazio/NULL. Isto é **absoluto e sem exceção**: não traduzir abstract para ES, não gerar title_en por tradução, não inventar keywords_en. O pipeline é de **extração e correção**, nunca de geração.
 
 ---
 
@@ -461,12 +463,38 @@ Aplica-se a: títulos, subtítulos, nomes de eventos, eixos/seções.
 
 ### 4.3 Normalização de títulos e subtítulos
 
-Norma brasileira (sentence case). Pipeline em 3 passadas via `dict/normalizar.py` + `dict/dict.db` (~4270 entidades):
+Norma brasileira (sentence case). Pipeline em 3 passadas via `dict/normalizar.py` + `dict/dict.db` (~5300 entidades):
 1. **Palavra a palavra**: siglas, nomes, lugares, áreas, movimentos → forma canônica; resto → minúscula
 2. **Expressões consolidadas**: regex multi-palavra (ex: "Movimento Moderno", "Patrimônio Cultural")
 3. **Toponímicos contextuais**: adjetivos pátrios capitalizados após movimento/área (ex: "Brutalismo Paulista")
 
 **A normalização roda no banco (Fase 7.2).** Aqui ficam apenas as regras. Ver `docs/regras_dados.md` e `docs/devlog_normalizacao_maiusculas.md`.
+
+**Retroalimentação do dict — OBRIGATÓRIA.** Após cada correção LLM que reverte uma capitalização do normalizador:
+1. Verificar se a palavra está no dict.db
+2. Se está e não deveria (palavra genérica): **remover do dict na hora** (não na Fase 8)
+3. Adicionar ao STOPWORDS de `seed_titles.py` se ainda não estiver
+
+**Regras de capitalização PT (sentence case brasileiro — NÃO é Title Case inglês):**
+
+| Categoria | Regra | Exemplos |
+|-----------|-------|----------|
+| Primeira palavra do título | Maiúscula | "Os hotéis da Metrópole" |
+| Subtítulo | **minúscula** (exceto nome próprio/sigla) | "o caso do Hotel Jaraguá" |
+| Nomes próprios | Maiúscula | Niemeyer, Brasília, Copan |
+| Siglas | MAIÚSCULA | IPHAN, IAPs, FAU-USP |
+| Disciplinas/áreas do saber | Maiúscula | Arquitetura, Urbanismo, História |
+| Movimentos/conceitos substantivados | Maiúscula | Modernismo, Brutalismo |
+| Expressões consolidadas | Maiúscula | Arquitetura Moderna, Movimento Moderno |
+| Adjetivos pátrios isolados | **minúscula** | paulista, brasileiro |
+| Adjetivos pátrios em expressão consolidada | Maiúscula | Arquitetura Moderna **Brasileira** |
+| Palavras comuns | **minúscula** | edifício, casa, projeto, tombamento |
+
+**Expressões consolidadas com toponímico:** "de/do/da + lugar" → minúscula (descritiva). "no/na/em + lugar" → maiúscula (conceito + contexto geográfico).
+
+**Títulos EN** — Title Case (Chicago/APA): capitalizar tudo exceto artigos, preposições curtas, conjunções. Primeira/última palavra e após `:` ou `—` sempre maiúscula.
+
+**Títulos ES** — Sentence case RAE: maiúscula somente para primeira palavra, nomes próprios e siglas. NÃO capitalizar disciplinas ou movimentos (diferente do PT). Exceção pragmática Docomomo: "Arquitectura Moderna" e "Movimiento Moderno" aceitos.
 
 ### 4.4 Limpeza e verificação de referências
 
@@ -550,6 +578,20 @@ Verificar automaticamente:
 - [ ] Todos os resumos estão completos (não truncados)?
 - [ ] Abstracts em inglês foram extraídos quando existem?
 - [ ] Artigos sem resumo: são exceções legítimas (homenagens, editoriais)?
+
+**PRIMEIRO**, rodar validate para corrigir problemas grossos automaticamente:
+```bash
+python3 scripts/validate_metadata.py --slug {slug} --fix
+```
+(Aprendido com sdbr13: overflows de abstract_en que A20 já sabia corrigir mas só rodava mais tarde.)
+
+**Resumos expandidos (aprendido com sdsul07/08):** Seminários Sul frequentemente têm artigos marcados como "(Resumo expandido)" no PDF (label no footnote da p1). Esses artigos:
+- Não têm seção "Resumo" separada — o corpo inteiro (3-10 páginas) é o resumo expandido
+- A extração original captura o corpo inteiro como abstract → **overflow** (limpar)
+- Solução: extrair o **1o parágrafo** (~1500-2500c) como abstract descritivo, cortando na última frase completa dentro de ~2500c
+- Detecção: verificar label "(Resumo expandido)" nos blocos footnote da p1 do plumber
+
+**Verificação de idioma ao inserir abstracts:** Antes de inserir um abstract, verificar o idioma. Se o texto é em espanhol e o `locale` do artigo é `pt-BR`, inserir em `abstract_es`, não em `abstract`. (Aprendido com sdbr13-143.)
 
 Ver [`modulos_pipeline.md` §K](modulos_pipeline.md#k-verificação-de-abstracts) para os 9 tipos de problema de abstracts e código de detecção automática.
 
@@ -683,11 +725,38 @@ Este ciclo de retroalimentação é cumulativo: cada seminário processado melho
 ### 7.3–7.3f Revisão automática de metadados
 
 Executar o [pipeline de revisão automática](pipeline_revisao.md) Fases 0–2 neste ponto. O pipeline cobre:
-- Diagnóstico e preenchimento de lacunas (Fase 0)
-- Normalização de títulos, limpeza de refs, keywords, validação, revisão LLM (Fase 1)
-- Geração do HTML de revisão (Fase 2)
+
+**Fase 0 — Diagnóstico e preenchimento:**
+- 0.1 Levantar padrão de metadados (>=70% presente / <30% ausente / intermediário)
+- 0.2 Identificar artigos fora do padrão
+- 0.3 Reinspecionar PDFs (zero ⏳ — todos ✅ ou ⬜)
+- 0.3b Extrair fontes estruturadas (plumber para 100% dos artigos — OBRIGATÓRIO)
+- 0.4 Preencher lacunas no banco
+- 0.5 Verificar abstracts existentes (**rodar validate --fix ANTES** — aprendido com sdbr13)
+- 0.6 Extrair metadados EN
+
+**Fase 1 — Revisão automática (Claude):**
+- 1.1a Títulos PT (normalizar + LLM palavra por palavra + retroalimentar dict na hora)
+- 1.1b Títulos EN (Title Case) e ES (sentence case RAE)
+- 1.1c Revisão LLM de títulos EN e ES vs PDF
+- 1.2a Referências: limpeza base (backfills, split ABNT, URLs)
+- 1.2b Referências: sweep completo (8 passadas)
+- 1.2b+ Re-rodar backfills (sweep cria novos — aprendido com sdbr13)
+- 1.2c Referências: revisão LLM real (ler CADA artigo vs plumber, boundary BIBLIOGRAFIA→NOTAS)
+- 1.3 Keywords (split, garbage, capitalização, dedup)
+- 1.4 Aplicar correções ao banco
+- 1.5 Loop de validação (validate → fix → validate, max 5×)
+- 1.6 Cobertura de metadados + metadados do seminário + seções
+- 1.7 Autores: completude vs PDF
+- 1.8 Dedup autores
+- 1.9 ORCID
+- **1.10 Revisão LLM final** — TODOS artigos × TODOS campos vs plumber (última etapa antes do HTML)
+
+**Fase 2 — Gerar HTML de revisão + checkpoint**
 
 Após a Fase 2, submeter à [revisão humana](pipeline_revisao_humana.md).
+
+**IMPORTANTE:** A revisão LLM (1.2c, 1.10) é uma leitura real de CADA artigo contra a fonte — NÃO é rodar heurísticas em batch. O sweep resolve ~70% dos problemas; os ~30% restantes escapam às heurísticas e só são detectados pela leitura.
 
 ### 7.4 Deduplicação de autores (AND)
 
@@ -792,15 +861,37 @@ git add anais.sql revisao/{slug}-* && git commit -m "{slug} revisão automática
 
 ## Fase 8 — Aprendizado pós-revisão
 
-Após a revisão humana, cada correção manual é analisada para melhorar o pipeline cumulativamente. Ver [pipeline_revisao.md Fase 3](pipeline_revisao.md) para procedimento detalhado.
+Executar **após** a conclusão da revisão humana. Usa como insumo **todas** as correções: tanto as da fase automática (Fases 0-1 do pipeline de revisão) quanto as da revisão humana.
+
+**Princípio:** Para cada correção, perguntar: "por que o pipeline não resolveu isso automaticamente?" O aprendizado só existe se resultar em **alteração concreta**: entrada no dict, regra no script, ou instrução documentada.
+
+**REGRA CRÍTICA:** A Fase 8 **NÃO é um registro passivo**. É a fase onde se **modificam scripts, dict.db e pipeline** para que os mesmos erros não ocorram no próximo seminário. Se a Fase 8 não produz nenhuma alteração em código ou dados, ela falhou. "Não automatizável" só é aceitável se o problema for genuinamente único (1 artigo, sem padrão). Se >=2 seminários tiveram o mesmo tipo de erro manual, é automatizável.
+
+Ver [pipeline_revisao.md Fase 3](pipeline_revisao.md) para procedimento detalhado.
 
 ### 8.1 Diagnóstico unificado
-Agregar TODAS as correções (automáticas + humanas) e identificar causa raiz de cada uma. Por que o pipeline não resolveu?
+Agregar TODAS as correções num log único:
+1. **Correções automáticas** (do rev-status): overflows, keywords com lixo, backfills, idioma errado, refs com notas
+2. **Correções humanas** (do rev.md): títulos, refs, dados faltantes
+3. **Cruzamento com seminários anteriores**: problemas que se repetiram
+
+Para cada problema, classificar:
+- **Padrão recorrente** — automatizar (novo check, nova heurística)
+- **Caso único** — só aplicar a correção
+- **Dado faltante no dict.db** — adicionar
+- **Gap na ordem de execução** — ajustar pipeline
 
 ### 8.2 Atualizar dict.db
-- **Remover** palavras genéricas que o dict força maiúscula (ex: `modernista`, `jardim`)
-- **Adicionar** nomes próprios novos encontrados durante a revisão
-- **Adicionar** expressões consolidadas confirmadas (ex: `Assembleia Legislativa`)
+
+| Tipo | Ação no dict.db | Exemplo |
+|------|----------------|---------|
+| Palavra genérica forçando maiúscula | **REMOVER** | `obra`, `restauração`, `tradição` |
+| Gentílico/adjetivo forçando maiúscula | **REMOVER** | `carioca`, `metropolitana` |
+| Nome próprio faltando | **ADICIONAR** | `Bienal`, `Esplanada`, `Centenário` |
+| Expressão consolidada faltando | **ADICIONAR** como expressão | `Centro Administrativo`, `Base Naval` |
+
+Critério de remoção: revisão corrigiu para minúscula em >=2 artigos e não é nome próprio.
+Critério de adição: revisão corrigiu para maiúscula e é nome de edifício/instituição/evento/lugar.
 
 ### 8.3 Atualizar scripts
 Se ≥3 artigos têm o mesmo erro não coberto pelas heurísticas → corrigir o script.
@@ -809,13 +900,23 @@ Se ≥3 artigos têm o mesmo erro não coberto pelas heurísticas → corrigir o
 Se a revisão revelou gaps na ordem de execução → ajustar a documentação.
 
 ### 8.5 Verificar
-Dry-run normalizar (verificar que as correções da revisão humana não regridem), validate 0 issues, dedup 0 merges.
+Re-rodar scripts alterados em dry-run no mesmo seminário. Testar também num seminário não revisado. Dry-run normalizar (verificar que as correções da revisão humana não regridem), validate 0 issues, dedup 0 merges.
 
 ### 8.6 Registrar aprendizado
-Criar `revisao/{slug}-aprendizado-revisao.json` com correções automáticas e humanas, causas raiz, bugs corrigidos.
+Criar `revisao/{slug}-aprendizado-revisao.json` com correções automáticas e humanas, causas raiz, bugs corrigidos. Atualizar MEMORY.md com padrões confirmados novos.
 
 ### 8.7 Revisão de engenharia
-Auditar TODOS os scripts usados no pipeline (usar Opus). Verificar: json.loads sem guard, SQL sem parâmetros, edge cases com valores nulos.
+**Se houve alteração de código na Fase 8** (checks novos, fix_actions, heurísticas), verificar:
+- Novos fix_actions têm handler correspondente?
+- Novos checks estão registrados?
+- Dry-run em seminário revisado: 0 regressões?
+- Dry-run em seminário não revisado: 0 falsos positivos?
+
+**Sempre** (usar Opus):
+- Autoavaliação: "executei **todas** as etapas do pipeline para este seminário?"
+- Auditar scripts: json.loads sem guard, SQL sem parâmetros, edge cases com valores nulos
+- Lints: inconsistências pipeline vs scripts, código morto, redundância
+- Riscos: auto-fixes que desfazem correções manuais, checks que se contradizem
 
 ### 8.8 Fechar
 
@@ -826,9 +927,21 @@ git add anais.sql dict/dict.sql revisao/{slug}-*
 git commit -m "{slug} revisão completa (Fases 0-8)"
 ```
 
-Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_humana.md` (tabela de seminários).
+1. Adicionar seminário à tabela de revisados em `CLAUDE.md` e `docs/seminarios_revisados.md`
+2. Adicionar entrada no devlog
+3. Atualizar `docs/pipeline_revisao_humana.md` (tabela de seminários)
 
-**Após a Fase 8, o seminário está pronto para publicação** (site Hugo + Zenodo). O pipeline de produção via OJS foi arquivado em `docs/archive/pipeline_producao_ojs.md`.
+**Após a Fase 8, o seminário está pronto para publicação** (site Hugo + Zenodo). Ver [pipeline_producao.md](pipeline_producao.md).
+
+**Exemplos concretos de aprendizado:**
+
+| Seminário | Correção | Falha identificada | Incorporação |
+|-----------|----------|-------------------|-------------|
+| sdbr10 | "la" maiúscula em título ES | `dict.db` tinha "la" como `nome` | Removido do dict |
+| sdbr10 | NOTAS misturadas com refs | sweep_refs sem passada 0 | Adicionados padrões body text e figure captions |
+| sdbr13 | 11 overflows abstract_en | A20 só rodava na Fase 1.5 | Rodar validate --fix na Fase 0.5 |
+| sdbr13 | abstract ES no campo PT | Não existia check para idioma errado | A26 novo (auto-fix) |
+| sdsul07/08 | Resumos expandidos overflow | Sem detecção de "(Resumo expandido)" | Extrair 1o parágrafo (~2500c) |
 
 ---
 
@@ -881,8 +994,8 @@ Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_h
 3. **Resumos DEVEM ser extraídos completos** — truncar causa retrabalho
 4. **Keywords sempre precisam de limpeza** — a contaminação é regra, não exceção
 5. **Normalização de títulos requer iteração** — cada seminário traz nomes próprios novos
-6. **Revisão humana ANTES de gerar XML** — corrigir depois do upload é muito mais trabalhoso
-7. **Verificar PDFs antes de gerar XML** — confirmar contagem de páginas e existência
+6. **Revisão humana ANTES de publicar** — corrigir depois do upload no Zenodo exige nova versão
+7. **Verificar PDFs antes de publicar** — confirmar contagem de páginas e existência
 8. **Homenageados/editoriais sem resumo são exceção legítima** — documentar no YAML
 9. **Distinguir organizadores (editors) de editora (publisher)** — campos diferentes
 10. **NUNCA rodar import_yaml_to_db.py sem flags** para adicionar seminários — destrói ORCIDs, variantes e dedup. Sempre `--incremental --only SLUG`
@@ -895,3 +1008,12 @@ Atualizar CLAUDE.md (tabela de seminários revisados) e `docs/pipeline_revisao_h
 17. **Referências extraídas de PDFs** frequentemente contêm texto corrido, legendas e fragmentos — sempre rodar `check_references.py` após extração
 18. **Artigos com notas de rodapé em vez de bibliografia** exigem pipeline específico (§2.1c) — filtrar comentários, resolver op.cit./idem, desmembrar notas compostas, formatar e deduplicar. Para volumes antigos (sdbr01-02), esse é o padrão dominante
 19. **pdftotext em layout de duas colunas** embaralha a ordem das notas — sempre conferir com imagens (`pdftoppm`) quando a numeração parece fora de sequência
+20. **Retroalimentar dict.db na hora da correção** — não acumular para a Fase 8. Cada palavra genérica removida e cada nome próprio adicionado melhora os seminários seguintes imediatamente
+21. **Rodar validate --fix ANTES da revisão** (Fase 0.5) — overflows, swaps de idioma e keywords coladas são mecânicos e devem ser resolvidos logo
+22. **Sweep de refs cria novos backfills** — sempre re-rodar clean_references após o sweep
+23. **Revisão LLM ≠ heurística em batch** — revisão LLM real exige ler CADA artigo contra a fonte e verificar CADA campo
+24. **Subtítulos começam com minúscula** — instruir agentes LLM explicitamente, pois eles aplicam Title Case inglês por padrão
+25. **Capitalização PT NÃO é Title Case inglês** — sentence case com exceções para nomes próprios, siglas, disciplinas e expressões consolidadas. Incluir regras completas na instrução de agentes LLM
+26. **Zenodo API (InvenioRDM): PUT substitui TODO o metadata** — enviar payload COMPLETO. Para corrigir publicados: POST versions → files-import → PUT draft → publish
+27. **Upload de PDFs grandes (>20MB) no Zenodo** — Python requests pode dar timeout; usar curl com --max-time 1800 como fallback
+28. **ORCID dos editors: NÃO incluir no Zenodo** — gera spam de notificações. ORCID só nos creators
