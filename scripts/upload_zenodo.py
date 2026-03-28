@@ -46,7 +46,7 @@ class TimeoutSession(requests.Session):
 RETRYABLE_STATUS = {429, 500, 502, 503, 504}
 
 
-def _retry(func, *args, max_attempts=3, backoff=2, **kwargs):
+def _retry(func, *args, max_attempts=5, backoff=3, **kwargs):
     """Retry wrapper with exponential backoff for network calls."""
     for attempt in range(1, max_attempts + 1):
         try:
@@ -79,7 +79,7 @@ PDF_BASE = BASE_DIR
 
 ZENODO_URL = 'https://zenodo.org'
 SANDBOX_URL = 'https://sandbox.zenodo.org'
-REQUEST_TIMEOUT = (30, 600)  # (connect, read) seconds
+REQUEST_TIMEOUT = (30, 1200)  # (connect, read) seconds — large files on slow upload
 
 LOCALE_TO_ISO639 = {
     'pt-BR': 'por',
