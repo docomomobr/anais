@@ -8,7 +8,7 @@ O acervo reúne os anais de **45 seminários** Docomomo Brasil — 15 nacionais 
 
 ## Arquitetura de publicação
 
-Os **artigos em PDF** estão depositados no [Zenodo](https://zenodo.org), repositório acadêmico mantido pelo CERN. Cada edição dos anais recebe um DOI via ABEC/Crossref.
+Os **artigos em PDF** estão depositados no [Zenodo](https://zenodo.org), repositório acadêmico mantido pelo CERN. Cada artigo recebe um DOI individual.
 
 O **site de consulta** é gerado estaticamente com [Hugo](https://gohugo.io) e hospedado no [GitHub Pages](https://pages.github.com). Não depende de banco de dados em tempo real nem de manutenção contínua.
 
