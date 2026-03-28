@@ -79,7 +79,7 @@ PDF_BASE = BASE_DIR
 
 ZENODO_URL = 'https://zenodo.org'
 SANDBOX_URL = 'https://sandbox.zenodo.org'
-REQUEST_TIMEOUT = (15, 120)  # (connect, read) seconds
+REQUEST_TIMEOUT = (30, 600)  # (connect, read) seconds
 
 LOCALE_TO_ISO639 = {
     'pt-BR': 'por',
@@ -111,7 +111,7 @@ def get_db():
 def fetch_articles(db, seminar_slug, limit=None):
     """Fetch articles with seminar and section metadata."""
     sql = """
-        SELECT a.id, a.title, a.subtitle, a.abstract, a.keywords,
+        SELECT a.id, a.seminar_slug, a.title, a.subtitle, a.abstract, a.keywords,
                a.abstract_en, a.abstract_es,
                a.keywords_en, a.keywords_es,
                a.title_en, a.subtitle_en,
@@ -149,7 +149,10 @@ def find_file(article):
     """Locate the file (PDF or video) for an article."""
     if not article['file']:
         return None
-    slug = article['id'].rsplit('-', 1)[0]
+    try:
+        slug = article['seminar_slug']
+    except (KeyError, IndexError):
+        slug = article['id'].rsplit('-', 1)[0]
     if slug.startswith('sdbr'):
         base = os.path.join(PDF_BASE, 'nacionais', slug)
     elif slug.startswith('sdnne'):

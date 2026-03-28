@@ -39,7 +39,12 @@
   <div class="event-meta">
     {{ with .CurrentSection }}
     <a href="{{ .RelPermalink }}" class="event-meta-cover-link">
+      {{ $cover := .Resources.GetMatch "*.png" }}
+      {{ if $cover }}
+      <img src="{{ $cover.RelPermalink }}" alt="Capa dos anais" class="event-meta-cover">
+      {{ else }}
       <img src="{{ printf "img/capas/%s.png" .Params.slug | relURL }}" alt="Capa dos anais" class="event-meta-cover">
+      {{ end }}
     </a>
     {{ end }}
     <div class="event-meta-text">

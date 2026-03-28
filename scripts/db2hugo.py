@@ -93,6 +93,10 @@ CITY_STATE = {
     'Brasília': ('DF', 'Distrito Federal'),
     'Campina Grande': ('PB', 'Paraíba'),
     'Curitiba': ('PR', 'Paraná'),
+    'João Pessoa': ('PB', 'Paraíba'),
+    'Londrina': ('PR', 'Paraná'),
+    'Natal': ('RN', 'Rio Grande do Norte'),
+    'Teresina': ('PI', 'Piauí'),
     'Fortaleza': ('CE', 'Ceará'),
     'Manaus': ('AM', 'Amazonas'),
     'Niterói': ('RJ', 'Rio de Janeiro'),
@@ -348,7 +352,7 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     if references:
         body_parts.append('## Referências\n')
         for ref in references:
-            safe_ref = ref.replace('<', '&lt;').replace('>', '&gt;')
+            safe_ref = _linkify_urls(ref)
             body_parts.append(f'- {safe_ref}')
 
     content = '\n'.join(lines) + '\n'
@@ -360,9 +364,36 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         f.write(content)
 
     # Generate citation files with slug-based names
-    write_citation_files(article_dir, article_id, article, authors, seminar)
+    write_citation_files(article_dir, article_id, article, authors, seminar, ambito_slug)
 
     return filepath
+
+
+_URL_RE = re.compile(
+    r'<?\s*'                    # optional < and whitespace before URL
+    r'(https?://[^\s>)\]]+?)'   # the URL itself (non-greedy)
+    r'[.,;:>)]*'                # trailing punctuation and >
+    r'(?=\s|$)'                 # followed by whitespace or end
+)
+
+
+def _linkify_urls(text):
+    """Convert URLs in reference text to clickable links, preserving ABNT < > notation."""
+    # First, convert URLs to placeholder links (before escaping < >)
+    def _replace(m):
+        url = m.group(1)
+        return f' \x00LINK:{url}\x00'
+    text = _URL_RE.sub(_replace, text)
+    text = re.sub(r'  +', ' ', text)
+    # Escape remaining < >
+    text = text.replace('<', '&lt;').replace('>', '&gt;')
+    # Replace placeholders with HTML links wrapped in < >
+    text = re.sub(
+        r'\x00LINK:(.*?)\x00',
+        lambda m: f'&lt;<a href="{m.group(1)}">{m.group(1)}</a>&gt;',
+        text
+    )
+    return text
 
 
 def _bibtex_escape(s):
@@ -372,7 +403,7 @@ def _bibtex_escape(s):
     return s.replace('&', '\\&').replace('_', '\\_').replace('%', '\\%')
 
 
-def write_citation_files(outdir, slug, article, authors, seminar):
+def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''):
     """Write .bib, .ris, .json, .yaml citation files for an article."""
     title = article['title'] or ''
     subtitle = article['subtitle'] or ''
@@ -386,10 +417,7 @@ def write_citation_files(outdir, slug, article, authors, seminar):
     pages = article['pages'] or ''
     doi = article['doi'] or ''
     locale = article['locale'] or 'pt'
-    record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
-    pdf_url = ''
-    if record_id and article['file']:
-        pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
+    article_url = f"https://anais.docomomobrasil.com/{ambito_slug}/{seminar['slug']}/{slug}/"
 
     abstract = (article['abstract'] or '').strip()
     keywords = parse_json_field(article['keywords'])
@@ -412,8 +440,7 @@ def write_citation_files(outdir, slug, article, authors, seminar):
         bib_lines.append(f'  doi       = {{{doi}}},')
     if isbn:
         bib_lines.append(f'  isbn      = {{{isbn}}},')
-    if pdf_url:
-        bib_lines.append(f'  url       = {{{pdf_url}}},')
+    bib_lines.append(f'  url       = {{{article_url}}},')
     if abstract:
         bib_lines.append(f'  abstract  = {{{_bibtex_escape(abstract)}}},')
     if keywords:
@@ -443,8 +470,7 @@ def write_citation_files(outdir, slug, article, authors, seminar):
         ris_lines.append(f'DO  - {doi}')
     if isbn:
         ris_lines.append(f'SN  - {isbn}')
-    if pdf_url:
-        ris_lines.append(f'UR  - {pdf_url}')
+    ris_lines.append(f'UR  - {article_url}')
     if abstract:
         ris_lines.append(f'AB  - {abstract}')
     for kw in keywords:
@@ -478,8 +504,7 @@ def write_citation_files(outdir, slug, article, authors, seminar):
         csl['ISBN'] = isbn
     if pages:
         csl['page'] = pages
-    if pdf_url:
-        csl['URL'] = pdf_url
+    csl['URL'] = article_url
     if abstract:
         csl['abstract'] = abstract
     if keywords:
@@ -512,8 +537,7 @@ def write_citation_files(outdir, slug, article, authors, seminar):
         yaml_csl['ISBN'] = isbn
     if pages:
         yaml_csl['page'] = pages
-    if pdf_url:
-        yaml_csl['URL'] = pdf_url
+    yaml_csl['URL'] = article_url
     if abstract:
         yaml_csl['abstract'] = abstract
     if keywords:
@@ -542,11 +566,8 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
         pages = article['pages'] or ''
         doi = article['doi'] or ''
         locale = article['locale'] or 'pt'
-        record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
-        pdf_url = ''
-        if record_id and article['file']:
-            pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
         art_id = article['id']
+        article_url = f"https://anais.docomomobrasil.com/{ambito_slug}/{slug}/{art_id}/"
 
         # BibTeX
         bib_key = art_id.replace('-', '_')
@@ -566,8 +587,7 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
             entry.append(f'  doi       = {{{doi}}},')
         if isbn:
             entry.append(f'  isbn      = {{{isbn}}},')
-        if pdf_url:
-            entry.append(f'  url       = {{{pdf_url}}},')
+        entry.append(f'  url       = {{{article_url}}},')
         entry.append('}')
         bib_all.append('\n'.join(entry))
 
@@ -592,8 +612,7 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
             ris.append(f'DO  - {doi}')
         if isbn:
             ris.append(f'SN  - {isbn}')
-        if pdf_url:
-            ris.append(f'UR  - {pdf_url}')
+        ris.append(f'UR  - {article_url}')
         ris.append(f'LA  - {locale}')
         ris.append('ER  -')
         ris_all.append('\n'.join(ris))
@@ -622,8 +641,7 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
             csl['ISBN'] = isbn
         if pages:
             csl['page'] = pages
-        if pdf_url:
-            csl['URL'] = pdf_url
+        csl['URL'] = article_url
         csl_all.append(csl)
 
         # YAML entry
@@ -638,6 +656,102 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
         f.write('\n')
     with open(os.path.join(event_dir, f'{slug}.yaml'), 'w', encoding='utf-8') as f:
         yaml.dump(yaml_all, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
+
+PARTICLES = {'de', 'da', 'do', 'das', 'dos', 'e', 'del', 'di', 'van', 'von'}
+
+
+def split_name(full_name):
+    """Split a full name into (givenname, familyname)."""
+    parts = full_name.strip().split()
+    if len(parts) <= 1:
+        return ('', full_name)
+    # Walk backwards to find familyname (skip particles)
+    i = len(parts) - 1
+    while i > 0 and parts[i].lower() in PARTICLES:
+        i -= 1
+    # familyname = from last non-particle to end
+    # but particles before familyname belong to givenname
+    return (' '.join(parts[:i]), ' '.join(parts[i:]))
+
+
+def write_volume_citations(outdir, seminar, ambito_slug):
+    """Write citation files for the proceedings volume itself."""
+    slug = seminar['slug']
+    event_dir = os.path.join(outdir, ambito_slug, slug)
+    event_title = seminar['title'] or ''
+    year = seminar['date_published'][:4] if seminar['date_published'] else ''
+    date_full = seminar['date_published'] or ''
+    location = seminar['location'] or ''
+    isbn = seminar['isbn'] or ''
+    publisher = seminar['publisher'] or ''
+    editors_raw = parse_json_field(seminar['editors']) if seminar['editors'] else []
+    editors = [split_name(ed) for ed in editors_raw]  # [(given, family), ...]
+    vol_url = f"https://anais.docomomobrasil.com/{ambito_slug}/{slug}/"
+
+    # BibTeX
+    bib_key = slug.replace('-', '_')
+    bib_editors = ' and '.join(f"{fn}, {gn}" for gn, fn in editors) if editors else ''
+    bib_lines = [f'@proceedings{{{bib_key},']
+    bib_lines.append(f'  title     = {{{_bibtex_escape(event_title)}}},')
+    if bib_editors:
+        bib_lines.append(f'  editor    = {{{bib_editors}}},')
+    bib_lines.append(f'  year      = {{{year}}},')
+    if location:
+        bib_lines.append(f'  address   = {{{location}}},')
+    if publisher:
+        bib_lines.append(f'  publisher = {{{_bibtex_escape(publisher)}}},')
+    if isbn:
+        bib_lines.append(f'  isbn      = {{{isbn}}},')
+    bib_lines.append(f'  url       = {{{vol_url}}},')
+    bib_lines.append('}')
+    with open(os.path.join(event_dir, f'{slug}-vol.bib'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(bib_lines) + '\n')
+
+    # RIS
+    ris_lines = ['TY  - CONF']
+    for gn, fn in editors:
+        ris_lines.append(f'ED  - {fn}, {gn}')
+    ris_lines.append(f'TI  - {event_title}')
+    ris_lines.append(f'PY  - {year}')
+    ris_lines.append(f'DA  - {date_full.replace("-", "/")}')
+    if location:
+        ris_lines.append(f'CY  - {location}')
+    if publisher:
+        ris_lines.append(f'PB  - {publisher}')
+    if isbn:
+        ris_lines.append(f'SN  - {isbn}')
+    ris_lines.append(f'UR  - {vol_url}')
+    ris_lines.append('LA  - pt')
+    ris_lines.append('ER  -')
+    with open(os.path.join(event_dir, f'{slug}-vol.ris'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(ris_lines) + '\n')
+
+    # CSL-JSON
+    csl = {
+        'id': slug,
+        'type': 'book',
+        'title': event_title,
+        'issued': {'date-parts': [[int(year)]]} if year else {},
+        'language': 'pt-BR',
+        'URL': vol_url,
+    }
+    if editors:
+        csl['editor'] = [{'family': fn, 'given': gn} for gn, fn in editors]
+    if location:
+        csl['event-place'] = location
+        csl['publisher-place'] = location
+    if publisher:
+        csl['publisher'] = publisher
+    if isbn:
+        csl['ISBN'] = isbn
+    with open(os.path.join(event_dir, f'{slug}-vol.json'), 'w', encoding='utf-8') as f:
+        json.dump(csl, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+
+    # YAML
+    with open(os.path.join(event_dir, f'{slug}-vol.yaml'), 'w', encoding='utf-8') as f:
+        yaml.dump(csl, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
 
 def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
@@ -763,6 +877,9 @@ def generate_seminar(db, slug, outdir, fichas=None):
 
     # Write combined citation files for the seminar
     write_seminar_citations(outdir, seminar, articles_data, ambito_slug)
+
+    # Write volume citation files
+    write_volume_citations(outdir, seminar, ambito_slug)
 
     return count
 

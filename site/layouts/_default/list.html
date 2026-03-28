@@ -143,7 +143,14 @@
       </div>
       {{ end }}
       <div class="export-links">
-        <span class="export-label">Exportar todas as referências:</span>
+        <span class="export-label">Exportar anais (volume):</span>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}-vol.bib" download>BibTeX</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}-vol.ris" download>RIS</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}-vol.json" download>CSL-JSON</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}-vol.yaml" download>YAML</a>
+      </div>
+      <div class="export-links">
+        <span class="export-label">Exportar artigos ({{ .Params.article_count }} referências):</span>
         <a href="{{ .RelPermalink }}{{ .Params.slug }}.bib" download>BibTeX</a>
         <a href="{{ .RelPermalink }}{{ .Params.slug }}.ris" download>RIS</a>
         <a href="{{ .RelPermalink }}{{ .Params.slug }}.json" download>CSL-JSON</a>

@@ -90,3 +90,5 @@ Brasília, 28 de março de 2026.
 
 Danilo Matoso Macedo <a href="https://orcid.org/0009-0008-4670-9812" target="_blank" rel="noopener" class="orcid-link" title="ORCID: 0009-0008-4670-9812"><img src="/img/orcid.svg" alt="ORCID" class="orcid-icon"></a>  
 Editor
+
+---
