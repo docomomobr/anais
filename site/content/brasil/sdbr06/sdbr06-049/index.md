@@ -41,6 +41,7 @@ authors:
     orcid: "0000-0003-3202-0906"
   - givenname: "Lia"
     familyname: "Tavares"
+    orcid: "0009-0002-4058-7873"
   - givenname: "Marieta Dantas Tavares de"
     familyname: "Melo"
 doi: "10.5281/zenodo.19072488"

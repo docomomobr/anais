@@ -24,6 +24,7 @@ pdf_file: "sdbr14-vp09.mp4"
 authors:
   - givenname: "Pedro Guimarães"
     familyname: "Teixeira"
+    orcid: "0000-0001-9075-8998"
   - givenname: "Priscilla Alves"
     familyname: "Peixoto"
     orcid: "0000-0002-7809-2633"

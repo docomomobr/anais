@@ -37,6 +37,7 @@ keywords_en:
 authors:
   - givenname: "Guilherme Silva"
     familyname: "Graciano"
+    orcid: "0000-0002-8547-2888"
   - givenname: "Maria Beatriz Camargo"
     familyname: "Cappello"
     orcid: "0000-0002-0930-5826"

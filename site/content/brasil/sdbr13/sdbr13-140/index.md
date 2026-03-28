@@ -43,6 +43,7 @@ keywords_en:
 authors:
   - givenname: "Fellipe Decrescenzo Andrade"
     familyname: "Amaral"
+    orcid: "0000-0002-6827-3502"
 doi: "10.5281/zenodo.19077761"
 zenodo_pdf_url: "https://zenodo.org/records/19077762/files/sdbr13-140.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

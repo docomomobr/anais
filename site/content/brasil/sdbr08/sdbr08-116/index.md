@@ -42,6 +42,7 @@ authors:
     familyname: "Rezende"
   - givenname: "Vera Lucia Ferreira Motta"
     familyname: "Rezende"
+    orcid: "0000-0002-3686-3954"
 doi: "10.5281/zenodo.19073180"
 zenodo_pdf_url: "https://zenodo.org/records/19073181/files/sdbr08-116.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

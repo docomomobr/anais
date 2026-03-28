@@ -35,6 +35,7 @@ keywords:
 authors:
   - givenname: "Luciana Tombi"
     familyname: "Brasil"
+    orcid: "0000-0001-9166-1514"
 doi: "10.5281/zenodo.19073460"
 zenodo_pdf_url: "https://zenodo.org/records/19073461/files/sdbr08-180.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

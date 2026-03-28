@@ -142,6 +142,13 @@
         <a href="#" class="volume-pdf-btn">{{ with $.Params.volume_pdf_label }}{{ . }}{{ else }}PDF da edição completa{{ end }}</a>
       </div>
       {{ end }}
+      <div class="export-links">
+        <span class="export-label">Exportar todas as referências:</span>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}.bib" download>BibTeX</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}.ris" download>RIS</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}.json" download>CSL-JSON</a>
+        <a href="{{ .RelPermalink }}{{ .Params.slug }}.yaml" download>YAML</a>
+      </div>
     </div>
   </div>
 

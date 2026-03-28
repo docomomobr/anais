@@ -24,6 +24,7 @@ pdf_file: "sdbr05-061.pdf"
 authors:
   - givenname: "Roberto Luís Torres"
     familyname: "Conduru"
+    orcid: "0000-0003-0197-0300"
 doi: "10.5281/zenodo.19110689"
 zenodo_pdf_url: "https://zenodo.org/records/19110692/files/sdbr05-061.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

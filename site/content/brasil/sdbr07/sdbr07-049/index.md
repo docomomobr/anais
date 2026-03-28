@@ -36,15 +36,15 @@ authors:
   - givenname: "Ruth Verde"
     familyname: "Zein"
     orcid: "0000-0003-0923-4914"
-  - givenname: "Anita Regina Di"
-    familyname: "Marco"
+  - givenname: "Anita Regina"
+    familyname: "Di Marco"
 doi: "10.5281/zenodo.19072611"
 zenodo_pdf_url: "https://zenodo.org/records/19072612/files/sdbr07-049.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
   - "Zein, Ruth Verde"
-  - "Marco, Anita Regina Di"
+  - "Di Marco, Anita Regina"
 palavras-chave:
   - "Preservação"
   - "restauro"

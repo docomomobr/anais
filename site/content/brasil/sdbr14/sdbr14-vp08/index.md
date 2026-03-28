@@ -26,6 +26,7 @@ authors:
     familyname: "Oliveira"
   - givenname: "Luiza Apolinário Rangel"
     familyname: "Victorino"
+    orcid: "0009-0003-0771-4057"
   - givenname: "Priscilla Alves"
     familyname: "Peixoto"
     orcid: "0000-0002-7809-2633"

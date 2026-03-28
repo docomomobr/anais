@@ -35,7 +35,7 @@ authors:
   - givenname: "Beatriz Alcantara"
     familyname: "Gomes"
     orcid: "0000-0003-0121-9496"
-  - givenname: "Flaviana"
+  - givenname: "Flaviana Barreto"
     familyname: "Lira"
     orcid: "0000-0003-2259-4885"
 doi: "10.5281/zenodo.19078099"
@@ -44,7 +44,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
   - "Gomes, Beatriz Alcantara"
-  - "Lira, Flaviana"
+  - "Lira, Flaviana Barreto"
 palavras-chave:
   - "Superquadra"
   - "preservação"

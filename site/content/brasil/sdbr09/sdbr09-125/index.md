@@ -35,14 +35,15 @@ keywords_en:
   - "Mural Painting"
   - "Tile"
 authors:
-  - givenname: "Juscelino Humberto Cunha Machado"
-    familyname: "Junior"
+  - givenname: "Juscelino Humberto Cunha"
+    familyname: "Machado Junior"
+    orcid: "0009-0005-7099-1502"
 doi: "10.5281/zenodo.19073970"
 zenodo_pdf_url: "https://zenodo.org/records/19073971/files/sdbr09-125.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:
-  - "Junior, Juscelino Humberto Cunha Machado"
+  - "Machado Junior, Juscelino Humberto Cunha"
 palavras-chave:
   - "Arquitetura Moderna"
   - "Muralismo"

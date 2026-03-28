@@ -32,6 +32,7 @@ keywords:
 authors:
   - givenname: "Marlice Nazareth Soares de"
     familyname: "Azevedo"
+    orcid: "0009-0000-7689-3720"
   - givenname: "Cinthia Lobato"
     familyname: "Serrano"
     orcid: "0009-0008-2639-5246"

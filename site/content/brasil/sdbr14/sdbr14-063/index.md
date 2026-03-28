@@ -38,6 +38,7 @@ authors:
     familyname: "Camargo"
   - givenname: "Júnio Carvalho"
     familyname: "Santos"
+    orcid: "0000-0002-0794-267X"
 doi: "10.5281/zenodo.19078133"
 zenodo_pdf_url: "https://zenodo.org/records/19078134/files/sdbr14-063.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

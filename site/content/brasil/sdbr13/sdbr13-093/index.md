@@ -45,6 +45,7 @@ authors:
     orcid: "0000-0002-3292-203X"
   - givenname: "Thalita Cristina"
     familyname: "Di Masironi Andrade"
+    orcid: "0000-0002-0493-2257"
 doi: "10.5281/zenodo.19077602"
 zenodo_pdf_url: "https://zenodo.org/records/19077603/files/sdbr13-093.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

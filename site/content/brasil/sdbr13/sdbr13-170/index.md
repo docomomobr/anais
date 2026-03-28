@@ -45,8 +45,8 @@ keywords_en:
 authors:
   - givenname: "Viviane Oliveira de"
     familyname: "Jesus"
-  - givenname: "Reginaldo Passos Pina"
-    familyname: "Neto"
+  - givenname: "Reginaldo Passos"
+    familyname: "Pina Neto"
     orcid: "0000-0001-6480-8357"
 doi: "10.5281/zenodo.19077857"
 zenodo_pdf_url: "https://zenodo.org/records/19077858/files/sdbr13-170.pdf"
@@ -54,7 +54,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
   - "Jesus, Viviane Oliveira de"
-  - "Neto, Reginaldo Passos Pina"
+  - "Pina Neto, Reginaldo Passos"
 palavras-chave:
   - "Palácio Construtor João Alves Filho"
   - "Praça Fausto Cardoso"

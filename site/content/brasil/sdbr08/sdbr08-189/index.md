@@ -32,6 +32,7 @@ authors:
   - givenname: "Juliana Couto"
     familyname: "Trujillo"
     affiliation: "UFMS"
+    orcid: "0000-0002-7070-0227"
   - givenname: "Gilfranco Medeiros"
     familyname: "Alves"
     affiliation: "UNIDERP"

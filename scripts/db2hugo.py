@@ -251,8 +251,12 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append(f'section_title: "{yaml_escape(sec)}"')
         if article['section_seq']:
             lines.append(f'section_seq: {article["section_seq"]}')
-        if article['section_seq'] and article['section_seq'] < 90 and seminar['section_label']:
-            lines.append(f'section_label: "{yaml_escape(seminar["section_label"])}"')
+        # Emit section_label only if seq < 90 and the title doesn't already
+        # start with the label (e.g. sdbr01 "Parte 01" already contains "parte")
+        label = seminar['section_label'] or ''
+        title_starts_with_label = label and sec.lower().startswith(label.lower())
+        if article['section_seq'] and article['section_seq'] < 90 and label and not title_starts_with_label:
+            lines.append(f'section_label: "{yaml_escape(label)}"')
     lines.append(f'event_title: "{yaml_escape(seminar["title"])}"')
     if seminar['location']:
         lines.append(f'event_location: "{yaml_escape(seminar["location"])}"')
@@ -355,7 +359,285 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
 
+    # Generate citation files with slug-based names
+    write_citation_files(article_dir, article_id, article, authors, seminar)
+
     return filepath
+
+
+def _bibtex_escape(s):
+    """Escape special chars for BibTeX."""
+    if not s:
+        return ''
+    return s.replace('&', '\\&').replace('_', '\\_').replace('%', '\\%')
+
+
+def write_citation_files(outdir, slug, article, authors, seminar):
+    """Write .bib, .ris, .json, .yaml citation files for an article."""
+    title = article['title'] or ''
+    subtitle = article['subtitle'] or ''
+    full_title = f"{title}: {subtitle}" if subtitle else title
+    year = seminar['date_published'][:4] if seminar['date_published'] else ''
+    date_full = seminar['date_published'] or ''
+    location = seminar['location'] or ''
+    event_title = seminar['title'] or ''
+    isbn = seminar['isbn'] or ''
+    publisher = seminar['publisher'] or ''
+    pages = article['pages'] or ''
+    doi = article['doi'] or ''
+    locale = article['locale'] or 'pt'
+    record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
+    pdf_url = ''
+    if record_id and article['file']:
+        pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
+
+    abstract = (article['abstract'] or '').strip()
+    keywords = parse_json_field(article['keywords'])
+
+    # BibTeX
+    bib_key = slug.replace('-', '_')
+    bib_authors = ' and '.join(
+        f"{au['familyname']}, {au['givenname']}" for au in authors
+    )
+    bib_lines = [f'@inproceedings{{{bib_key},']
+    bib_lines.append(f'  title     = {{{_bibtex_escape(full_title)}}},')
+    bib_lines.append(f'  author    = {{{bib_authors}}},')
+    bib_lines.append(f'  booktitle = {{{_bibtex_escape(event_title)}}},')
+    bib_lines.append(f'  year      = {{{year}}},')
+    if location:
+        bib_lines.append(f'  address   = {{{location}}},')
+    if pages:
+        bib_lines.append(f'  pages     = {{{pages}}},')
+    if doi:
+        bib_lines.append(f'  doi       = {{{doi}}},')
+    if isbn:
+        bib_lines.append(f'  isbn      = {{{isbn}}},')
+    if pdf_url:
+        bib_lines.append(f'  url       = {{{pdf_url}}},')
+    if abstract:
+        bib_lines.append(f'  abstract  = {{{_bibtex_escape(abstract)}}},')
+    if keywords:
+        bib_lines.append(f'  keywords  = {{{", ".join(keywords)}}},')
+    bib_lines.append('}')
+    with open(os.path.join(outdir, f'{slug}.bib'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(bib_lines) + '\n')
+
+    # RIS
+    ris_lines = ['TY  - CPAPER']
+    for au in authors:
+        ris_lines.append(f"AU  - {au['familyname']}, {au['givenname']}")
+    ris_lines.append(f'TI  - {full_title}')
+    ris_lines.append(f'T2  - {event_title}')
+    ris_lines.append(f'PY  - {year}')
+    ris_lines.append(f'DA  - {date_full.replace("-", "/")}')
+    if location:
+        ris_lines.append(f'CY  - {location}')
+    if pages:
+        parts = pages.split('-')
+        if len(parts) == 2:
+            ris_lines.append(f'SP  - {parts[0]}')
+            ris_lines.append(f'EP  - {parts[1]}')
+        else:
+            ris_lines.append(f'SP  - {pages}')
+    if doi:
+        ris_lines.append(f'DO  - {doi}')
+    if isbn:
+        ris_lines.append(f'SN  - {isbn}')
+    if pdf_url:
+        ris_lines.append(f'UR  - {pdf_url}')
+    if abstract:
+        ris_lines.append(f'AB  - {abstract}')
+    for kw in keywords:
+        ris_lines.append(f'KW  - {kw}')
+    ris_lines.append(f'LA  - {locale}')
+    ris_lines.append('ER  -')
+    with open(os.path.join(outdir, f'{slug}.ris'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(ris_lines) + '\n')
+
+    # CSL-JSON
+    csl = {
+        'id': slug,
+        'type': 'paper-conference',
+        'title': full_title,
+        'container-title': event_title,
+        'event-title': event_title,
+        'issued': {'date-parts': [[int(year)]]} if year else {},
+        'language': locale,
+        'author': [
+            {'family': au['familyname'], 'given': au['givenname'],
+             **(({'ORCID': f"https://orcid.org/{au['orcid']}"}) if au['orcid'] else {})}
+            for au in authors
+        ],
+    }
+    if location:
+        csl['event-place'] = location
+        csl['publisher-place'] = location
+    if doi:
+        csl['DOI'] = doi
+    if isbn:
+        csl['ISBN'] = isbn
+    if pages:
+        csl['page'] = pages
+    if pdf_url:
+        csl['URL'] = pdf_url
+    if abstract:
+        csl['abstract'] = abstract
+    if keywords:
+        csl['keyword'] = ', '.join(keywords)
+    with open(os.path.join(outdir, f'{slug}.json'), 'w', encoding='utf-8') as f:
+        json.dump(csl, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+
+    # YAML (CSL-YAML)
+    yaml_csl = {
+        'id': slug,
+        'type': 'paper-conference',
+        'title': full_title,
+        'container-title': event_title,
+        'event-title': event_title,
+        'issued': {'date-parts': [[int(year)]]} if year else {},
+        'language': locale,
+        'author': [
+            {'family': au['familyname'], 'given': au['givenname'],
+             **(({'ORCID': f"https://orcid.org/{au['orcid']}"}) if au['orcid'] else {})}
+            for au in authors
+        ],
+    }
+    if location:
+        yaml_csl['event-place'] = location
+        yaml_csl['publisher-place'] = location
+    if doi:
+        yaml_csl['DOI'] = doi
+    if isbn:
+        yaml_csl['ISBN'] = isbn
+    if pages:
+        yaml_csl['page'] = pages
+    if pdf_url:
+        yaml_csl['URL'] = pdf_url
+    if abstract:
+        yaml_csl['abstract'] = abstract
+    if keywords:
+        yaml_csl['keyword'] = '; '.join(keywords)
+    with open(os.path.join(outdir, f'{slug}.yaml'), 'w', encoding='utf-8') as f:
+        yaml.dump(yaml_csl, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
+
+def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
+    """Write combined citation files for an entire seminar."""
+    slug = seminar['slug']
+    event_dir = os.path.join(outdir, ambito_slug, slug)
+
+    event_title = seminar['title'] or ''
+    year = seminar['date_published'][:4] if seminar['date_published'] else ''
+    date_full = seminar['date_published'] or ''
+    location = seminar['location'] or ''
+    isbn = seminar['isbn'] or ''
+
+    bib_all, ris_all, csl_all, yaml_all = [], [], [], []
+
+    for article, authors in articles_data:
+        title = article['title'] or ''
+        subtitle = article['subtitle'] or ''
+        full_title = f"{title}: {subtitle}" if subtitle else title
+        pages = article['pages'] or ''
+        doi = article['doi'] or ''
+        locale = article['locale'] or 'pt'
+        record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
+        pdf_url = ''
+        if record_id and article['file']:
+            pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
+        art_id = article['id']
+
+        # BibTeX
+        bib_key = art_id.replace('-', '_')
+        bib_authors = ' and '.join(
+            f"{au['familyname']}, {au['givenname']}" for au in authors
+        )
+        entry = [f'@inproceedings{{{bib_key},']
+        entry.append(f'  title     = {{{_bibtex_escape(full_title)}}},')
+        entry.append(f'  author    = {{{bib_authors}}},')
+        entry.append(f'  booktitle = {{{_bibtex_escape(event_title)}}},')
+        entry.append(f'  year      = {{{year}}},')
+        if location:
+            entry.append(f'  address   = {{{location}}},')
+        if pages:
+            entry.append(f'  pages     = {{{pages}}},')
+        if doi:
+            entry.append(f'  doi       = {{{doi}}},')
+        if isbn:
+            entry.append(f'  isbn      = {{{isbn}}},')
+        if pdf_url:
+            entry.append(f'  url       = {{{pdf_url}}},')
+        entry.append('}')
+        bib_all.append('\n'.join(entry))
+
+        # RIS
+        ris = ['TY  - CPAPER']
+        for au in authors:
+            ris.append(f"AU  - {au['familyname']}, {au['givenname']}")
+        ris.append(f'TI  - {full_title}')
+        ris.append(f'T2  - {event_title}')
+        ris.append(f'PY  - {year}')
+        ris.append(f'DA  - {date_full.replace("-", "/")}')
+        if location:
+            ris.append(f'CY  - {location}')
+        if pages:
+            parts = pages.split('-')
+            if len(parts) == 2:
+                ris.append(f'SP  - {parts[0]}')
+                ris.append(f'EP  - {parts[1]}')
+            else:
+                ris.append(f'SP  - {pages}')
+        if doi:
+            ris.append(f'DO  - {doi}')
+        if isbn:
+            ris.append(f'SN  - {isbn}')
+        if pdf_url:
+            ris.append(f'UR  - {pdf_url}')
+        ris.append(f'LA  - {locale}')
+        ris.append('ER  -')
+        ris_all.append('\n'.join(ris))
+
+        # CSL-JSON
+        csl = {
+            'id': art_id,
+            'type': 'paper-conference',
+            'title': full_title,
+            'container-title': event_title,
+            'event-title': event_title,
+            'issued': {'date-parts': [[int(year)]]} if year else {},
+            'language': locale,
+            'author': [
+                {'family': au['familyname'], 'given': au['givenname'],
+                 **(({'ORCID': f"https://orcid.org/{au['orcid']}"}) if au['orcid'] else {})}
+                for au in authors
+            ],
+        }
+        if location:
+            csl['event-place'] = location
+            csl['publisher-place'] = location
+        if doi:
+            csl['DOI'] = doi
+        if isbn:
+            csl['ISBN'] = isbn
+        if pages:
+            csl['page'] = pages
+        if pdf_url:
+            csl['URL'] = pdf_url
+        csl_all.append(csl)
+
+        # YAML entry
+        yaml_all.append(csl.copy())
+
+    with open(os.path.join(event_dir, f'{slug}.bib'), 'w', encoding='utf-8') as f:
+        f.write('\n\n'.join(bib_all) + '\n')
+    with open(os.path.join(event_dir, f'{slug}.ris'), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(ris_all) + '\n')
+    with open(os.path.join(event_dir, f'{slug}.json'), 'w', encoding='utf-8') as f:
+        json.dump(csl_all, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+    with open(os.path.join(event_dir, f'{slug}.yaml'), 'w', encoding='utf-8') as f:
+        yaml.dump(yaml_all, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
 
 def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
@@ -470,12 +752,17 @@ def generate_seminar(db, slug, outdir, fichas=None):
     # Write event index
     write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome)
 
-    # Write article pages
+    # Write article pages and collect data for seminar citations
     count = 0
+    articles_data = []
     for art in articles:
         authors = fetch_authors(db, art['id'])
         write_article_page(outdir, art, authors, seminar, ambito_slug, ambito_nome, ficha=ficha)
+        articles_data.append((art, authors))
         count += 1
+
+    # Write combined citation files for the seminar
+    write_seminar_citations(outdir, seminar, articles_data, ambito_slug)
 
     return count
 

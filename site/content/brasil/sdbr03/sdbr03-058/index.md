@@ -22,12 +22,13 @@ event_year: 1999
 locale: "pt-BR"
 pdf_file: "sdbr03-058.pdf"
 authors:
-  - givenname: "Marcos"
+  - givenname: "Marcos José"
     familyname: "Carrilho"
+    orcid: "0000-0001-8601-366X"
 doi: "10.5281/zenodo.19110658"
 zenodo_pdf_url: "https://zenodo.org/records/19110659/files/sdbr03-058.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "3º Seminário Docomomo Brasil: anais: a permanência do moderno [recurso eletrônico]. São Carlos: EESC-USP, 1999. ISBN 85-85205-56-3"
 autores:
-  - "Carrilho, Marcos"
+  - "Carrilho, Marcos José"
 ---

@@ -39,7 +39,8 @@ keywords_en:
 authors:
   - givenname: "Magali Nocchi Collares"
     familyname: "Gonçalves"
-  - givenname: "Silvio Belmonte de Abreu"
+    orcid: "0000-0003-1227-671X"
+  - givenname: "Silvio Belmonte de"
     familyname: "Abreu Filho"
 doi: "10.5281/zenodo.19077567"
 zenodo_pdf_url: "https://zenodo.org/records/19077568/files/sdbr13-085.pdf"
@@ -47,7 +48,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
   - "Gonçalves, Magali Nocchi Collares"
-  - "Abreu Filho, Silvio Belmonte de Abreu"
+  - "Abreu Filho, Silvio Belmonte de"
 palavras-chave:
   - "Holanda Mendonça"
   - "arquitetura moderna"

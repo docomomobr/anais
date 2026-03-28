@@ -14,49 +14,13 @@ titleCaseStyle = "none"
 [outputs]
   home = ["HTML", "signmap"]
   section = ["HTML"]
-  page = ["HTML", "bibtex", "ris", "csljson", "yamlex"]
-
-[outputFormats]
-  [outputFormats.bibtex]
-    mediaType = "application/x-bibtex"
-    baseName = "cite"
-    isPlainText = true
-    notAlternative = true
-    path = ""
-  [outputFormats.ris]
-    mediaType = "application/x-research-info-systems"
-    baseName = "cite"
-    isPlainText = true
-    notAlternative = true
-    path = ""
-  [outputFormats.csljson]
-    mediaType = "application/vnd.citationstyles.csl+json"
-    baseName = "cite"
-    isPlainText = true
-    notAlternative = true
-    path = ""
-  [outputFormats.yamlex]
-    mediaType = "text/x-yaml"
-    baseName = "cite"
-    isPlainText = true
-    notAlternative = true
-    path = ""
+  page = ["HTML"]
 
 [outputFormats.signmap]
     mediaType = "application/xml"
     baseName = "signmap"
     isPlainText = true
     notAlternative = true
-
-[mediaTypes]
-  [mediaTypes."application/x-research-info-systems"]
-    suffixes = ["ris"]
-  [mediaTypes."application/x-bibtex"]
-    suffixes = ["bib"]
-  [mediaTypes."application/vnd.citationstyles.csl+json"]
-    suffixes = ["json"]
-  [mediaTypes."text/x-yaml"]
-    suffixes = ["yaml"]
 
 [markup]
   [markup.goldmark]

@@ -1,0 +1,33 @@
+{
+  "id": "sdbr03-002",
+  "type": "paper-conference",
+  "title": "Arquitetura Moderna: ruptura ou continuidade",
+  "container-title": "3º Seminário Docomomo Brasil, São Paulo, 1999",
+  "event-title": "3º Seminário Docomomo Brasil, São Paulo, 1999",
+  "issued": {
+    "date-parts": [
+      [
+        1999
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "author": [
+    {
+      "family": "Falbel",
+      "given": "Anat",
+      "ORCID": "https://orcid.org/0009-0009-3934-9537"
+    },
+    {
+      "family": "Lima",
+      "given": "Ana Gabriela Godinho",
+      "ORCID": "https://orcid.org/0000-0003-2529-0596"
+    }
+  ],
+  "event-place": "São Paulo",
+  "publisher-place": "São Paulo",
+  "DOI": "10.5281/zenodo.19070444",
+  "ISBN": "85-85205-56-3",
+  "page": "1-8",
+  "URL": "https://zenodo.org/records/19070445/files/sdbr03-002.pdf"
+}

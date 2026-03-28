@@ -33,6 +33,7 @@ keywords:
 authors:
   - givenname: "Raíssa Armelin"
     familyname: "Lopes"
+    orcid: "0000-0002-5351-1408"
   - givenname: "Ana Maria Reis de Góes"
     familyname: "Monteiro"
     orcid: "0000-0001-7345-9558"

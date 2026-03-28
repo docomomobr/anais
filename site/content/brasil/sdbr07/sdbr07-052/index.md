@@ -40,14 +40,14 @@ keywords_en:
   - "Gladosch and Moreira"
   - "Porto Alegre"
 authors:
-  - givenname: "Silvio Belmonte de Abreu"
+  - givenname: "Silvio Belmonte de"
     familyname: "Abreu Filho"
 doi: "10.5281/zenodo.19072579"
 zenodo_pdf_url: "https://zenodo.org/records/19072580/files/sdbr07-052.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
-  - "Abreu Filho, Silvio Belmonte de Abreu"
+  - "Abreu Filho, Silvio Belmonte de"
 palavras-chave:
   - "Urbanismo Moderno"
   - "Gladosch e Moreira"

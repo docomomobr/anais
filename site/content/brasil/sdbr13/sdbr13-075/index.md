@@ -36,7 +36,7 @@ keywords_en:
   - "modern architecture in RS"
   - "Architect Emil Bered"
 authors:
-  - givenname: "Silvio Belmonte de Abreu"
+  - givenname: "Silvio Belmonte de"
     familyname: "Abreu Filho"
   - givenname: "Angela Cristiane"
     familyname: "Fagundes"
@@ -47,7 +47,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077542/files/sdbr13-075.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
-  - "Abreu Filho, Silvio Belmonte de Abreu"
+  - "Abreu Filho, Silvio Belmonte de"
   - "Fagundes, Angela Cristiane"
   - "Oliveira, Maitê Trojahn"
 palavras-chave:

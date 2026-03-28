@@ -42,6 +42,7 @@ keywords_en:
 authors:
   - givenname: "Flávia Laranjeira Costa de"
     familyname: "Assis"
+    orcid: "0000-0001-5930-9692"
   - givenname: "Raissa Camila"
     familyname: "Salviano Ferreira"
 doi: "10.5281/zenodo.19074550"

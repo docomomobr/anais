@@ -35,6 +35,7 @@ authors:
     orcid: "0009-0007-6200-8285"
   - givenname: "Marlice Nazareth Soares de"
     familyname: "Azevedo"
+    orcid: "0009-0000-7689-3720"
 doi: "10.5281/zenodo.19073446"
 zenodo_pdf_url: "https://zenodo.org/records/19073447/files/sdbr08-177.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

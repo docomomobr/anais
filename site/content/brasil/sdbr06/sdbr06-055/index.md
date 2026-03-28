@@ -37,8 +37,8 @@ keywords_en:
 authors:
   - givenname: "René"
     familyname: "Galesi"
-  - givenname: "Candido Malta Campos"
-    familyname: "Neto"
+  - givenname: "Candido Malta"
+    familyname: "Campos Neto"
     orcid: "0009-0007-2304-438X"
 doi: "10.5281/zenodo.19072512"
 zenodo_pdf_url: "https://zenodo.org/records/19072513/files/sdbr06-055.pdf"
@@ -46,7 +46,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "6º Seminário Docomomo Brasil: anais: moderno e nacional, Arquitetura e Urbanismo [recurso eletrônico] / organização: José Pessôa, Eduardo Vasconcellos, Elisabete Reis, Maria Lobo. Niterói: Pós-Graduação em Arquitetura e Urbanismo, UFF, 2005. ISBN 85-99618-01-6"
 autores:
   - "Galesi, René"
-  - "Neto, Candido Malta Campos"
+  - "Campos Neto, Candido Malta"
 palavras-chave:
   - "arquitetura"
   - "modernismo"

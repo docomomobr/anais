@@ -25,6 +25,7 @@ authors:
   - givenname: "Juliana Sicuro"
     familyname: "Corrêa"
     affiliation: "PUC-Rio"
+    orcid: "0000-0003-0545-3896"
   - givenname: "Marina Peregrino"
     familyname: "Piquet"
     affiliation: "PUC-Rio"

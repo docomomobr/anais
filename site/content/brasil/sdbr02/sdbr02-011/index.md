@@ -23,6 +23,7 @@ authors:
   - givenname: "Alberto"
     familyname: "Xavier"
     affiliation: "Belas Artes-SP"
+    orcid: "0000-0003-4562-8478"
   - givenname: "Hugo"
     familyname: "Segawa"
     affiliation: "EESC-USP"

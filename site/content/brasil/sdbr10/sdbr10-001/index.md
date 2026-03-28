@@ -41,6 +41,7 @@ authors:
     familyname: "Mello"
   - givenname: "Jorge"
     familyname: "Schneider"
+    orcid: "0000-0002-9926-4297"
   - givenname: "Fabrício Rocha"
     familyname: "Souza"
   - givenname: "Liza Lopes"

@@ -35,6 +35,7 @@ authors:
     orcid: "0000-0002-7288-5173"
   - givenname: "Juliana Couto"
     familyname: "Trujillo"
+    orcid: "0000-0002-7070-0227"
 doi: "10.5281/zenodo.19073097"
 zenodo_pdf_url: "https://zenodo.org/records/19073098/files/sdbr08-092.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

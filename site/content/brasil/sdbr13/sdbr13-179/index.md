@@ -31,6 +31,7 @@ authors:
     orcid: "0000-0002-6997-2284"
   - givenname: "João Magnus"
     familyname: "Pires"
+    orcid: "0000-0002-8374-558X"
   - givenname: "Nina Zonis"
     familyname: "Nepomuceno"
   - givenname: "Felipe Oliveira"

@@ -55,6 +55,7 @@ authors:
     orcid: "0000-0002-7002-8207"
   - givenname: "Arthur"
     familyname: "Monte"
+    orcid: "0009-0006-9033-3731"
   - givenname: "Giovanna"
     familyname: "Numeriano"
 doi: "10.5281/zenodo.19069830"

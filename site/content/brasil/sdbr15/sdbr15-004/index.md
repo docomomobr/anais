@@ -48,6 +48,7 @@ keywords_es:
 authors:
   - givenname: "Valentina Martins"
     familyname: "Marques"
+    orcid: "0000-0003-1204-6842"
 doi: "10.5281/zenodo.19069532"
 zenodo_pdf_url: "https://zenodo.org/records/19069533/files/sdbr15-004.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -28,6 +28,7 @@ authors:
   - givenname: "Vera Lucia Ferreira Motta"
     familyname: "Rezende"
     affiliation: "EAU-UFF"
+    orcid: "0000-0002-3686-3954"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
 autores:

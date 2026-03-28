@@ -28,6 +28,7 @@ abstract_en: |
 authors:
   - givenname: "Vera Lucia Ferreira Motta"
     familyname: "Rezende"
+    orcid: "0000-0002-3686-3954"
   - givenname: "Gerônimo"
     familyname: "Leitão"
     orcid: "0000-0001-7100-8411"

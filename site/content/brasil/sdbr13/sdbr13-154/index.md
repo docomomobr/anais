@@ -51,6 +51,7 @@ authors:
     familyname: "Roa Rojas"
   - givenname: "Maarten"
     familyname: "Goossens"
+    orcid: "0000-0002-3744-0283"
 doi: "10.5281/zenodo.19077807"
 zenodo_pdf_url: "https://zenodo.org/records/19077808/files/sdbr13-154.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -30,15 +30,15 @@ keywords:
   - "Modernismo"
   - "Goiânia"
 authors:
-  - givenname: "Eurípedes Afonso da Silva"
-    familyname: "Neto"
+  - givenname: "Eurípedes Afonso da"
+    familyname: "Silva Neto"
     orcid: "0000-0001-7232-8556"
 doi: "10.5281/zenodo.19073474"
 zenodo_pdf_url: "https://zenodo.org/records/19073475/files/sdbr08-183.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
-  - "Neto, Eurípedes Afonso da Silva"
+  - "Silva Neto, Eurípedes Afonso da"
 palavras-chave:
   - "Habitação"
   - "Modernismo"

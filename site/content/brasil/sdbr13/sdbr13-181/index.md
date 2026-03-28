@@ -29,7 +29,7 @@ authors:
   - givenname: "Diego Claudino de Sousa"
     familyname: "Diniz"
     orcid: "0000-0003-1275-809X"
-  - givenname: "Julia Ribeiro Maranhão Leite"
+  - givenname: "Julia Ribeiro Maranhão"
     familyname: "Leite"
     orcid: "0000-0002-7644-8181"
 doi: "10.5281/zenodo.19077890"
@@ -38,7 +38,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
   - "Diniz, Diego Claudino de Sousa"
-  - "Leite, Julia Ribeiro Maranhão Leite"
+  - "Leite, Julia Ribeiro Maranhão"
 ---
 
 ## Referências

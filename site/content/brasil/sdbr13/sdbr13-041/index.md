@@ -50,6 +50,7 @@ authors:
     orcid: "0009-0002-4306-3952"
   - givenname: "Cláudia Naves David"
     familyname: "Amorim"
+    orcid: "0000-0001-6769-1983"
 doi: "10.5281/zenodo.19077425"
 zenodo_pdf_url: "https://zenodo.org/records/19077426/files/sdbr13-041.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

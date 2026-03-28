@@ -48,6 +48,7 @@ authors:
     familyname: "Gomes"
   - givenname: "Myllena Bezerra"
     familyname: "Alves"
+    orcid: "0000-0002-4707-9532"
   - givenname: "Taise Costa de"
     familyname: "Farias"
     orcid: "0000-0001-5390-6269"

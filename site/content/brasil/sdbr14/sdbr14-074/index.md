@@ -34,6 +34,7 @@ keywords:
 authors:
   - givenname: "Sidney Pery da Silva"
     familyname: "Costa Filho"
+    orcid: "0000-0002-7191-2248"
   - givenname: "Thayse Layane Oliveira de"
     familyname: "Queiroz"
     orcid: "0000-0002-2650-371X"

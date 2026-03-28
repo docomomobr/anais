@@ -34,8 +34,8 @@ keywords_en:
   - "historical garden"
   - "restoration"
 authors:
-  - givenname: "Ana Rita Sá"
-    familyname: "Carneiro"
+  - givenname: "Ana Rita"
+    familyname: "Sá Carneiro"
     orcid: "0000-0002-2750-5354"
   - givenname: "Aline de Figueirôa"
     familyname: "Silva"
@@ -47,7 +47,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19072114/files/sdbr05-007.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Anais do 5º Seminário Docomomo Brasil [arquivo de computador] / comissão organizadora: Hugo Segawa... [et al.]. São Carlos: SAP-EESC-USP, 2003. 1 CD-ROM. \"Arquitetura e Urbanismo modernos: projeto e preservação\". ISBN 85-85205-43-1"
 autores:
-  - "Carneiro, Ana Rita Sá"
+  - "Sá Carneiro, Ana Rita"
   - "Silva, Aline de Figueirôa"
   - "Girão, Pricylla Amorim"
 palavras-chave:

@@ -29,13 +29,13 @@ authors:
     familyname: "Campos"
     affiliation: "PPGAU-Mackenzie"
     orcid: "0000-0003-2933-8032"
-  - givenname: "José Geraldo Simões"
-    familyname: "Junior"
+  - givenname: "José Geraldo"
+    familyname: "Simões Junior"
     affiliation: "PPGAU-Mackenzie"
     orcid: "0000-0002-2130-2134"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
 autores:
   - "Campos, Candido Malta"
-  - "Junior, José Geraldo Simões"
+  - "Simões Junior, José Geraldo"
 ---

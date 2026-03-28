@@ -42,6 +42,7 @@ keywords_en:
 authors:
   - givenname: "Sílvia Lopes Carneiro"
     familyname: "Leão"
+    orcid: "0000-0001-9109-8127"
   - givenname: "Raquel Rodrigues"
     familyname: "Lima"
     orcid: "0000-0003-4200-1805"

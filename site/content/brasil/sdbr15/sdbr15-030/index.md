@@ -52,6 +52,7 @@ authors:
     familyname: "Abreu Torres"
   - givenname: "Pedro Guimarães"
     familyname: "Teixeira"
+    orcid: "0000-0001-9075-8998"
   - givenname: "Priscilla Villela da"
     familyname: "Costa"
 doi: "10.29327/1344945.1-3"

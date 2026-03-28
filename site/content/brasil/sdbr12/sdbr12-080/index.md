@@ -37,6 +37,7 @@ keywords_en:
 authors:
   - givenname: "Bráulio Vinícius"
     familyname: "Ferreira"
+    orcid: "0000-0001-8148-9474"
   - givenname: "Simone Borges Camargo de"
     familyname: "Oliveira"
 doi: "10.5281/zenodo.19077236"

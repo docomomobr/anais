@@ -52,6 +52,7 @@ authors:
     orcid: "0000-0001-5022-1889"
   - givenname: "Javiera"
     familyname: "Garrido"
+    orcid: "0000-0002-0667-7958"
 doi: "10.5281/zenodo.19069844"
 zenodo_pdf_url: "https://zenodo.org/records/19069845/files/sdbr15-078.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

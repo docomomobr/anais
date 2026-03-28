@@ -40,6 +40,7 @@ authors:
     orcid: "0000-0003-1176-1502"
   - givenname: "Karine de Vargas"
     familyname: "Soares"
+    orcid: "0000-0002-4182-7528"
 doi: "10.5281/zenodo.19074677"
 zenodo_pdf_url: "https://zenodo.org/records/19074678/files/sdbr11-073.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -34,6 +34,7 @@ keywords:
 authors:
   - givenname: "Eloise Mendes"
     familyname: "Rabelo"
+    orcid: "0009-0002-0421-1924"
   - givenname: "Hugo Felipe Arraes de"
     familyname: "Souza"
   - givenname: "Ana Klaudia de Almeida Viana"

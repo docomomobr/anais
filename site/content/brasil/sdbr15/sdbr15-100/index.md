@@ -48,6 +48,7 @@ keywords_es:
 authors:
   - givenname: "Mariana Barbosa"
     familyname: "Sodré"
+    orcid: "0009-0001-2083-5326"
   - givenname: "Antônio Pedro"
     familyname: "Carvalho"
     orcid: "0000-0003-0723-6940"

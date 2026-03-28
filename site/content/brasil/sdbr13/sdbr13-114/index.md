@@ -36,7 +36,7 @@ keywords_en:
   - "Modern architecture"
 authors:
   - givenname: "Aníbal Verri"
-    familyname: "Junior"
+    familyname: "Verri Junior"
     orcid: "0000-0003-1855-2324"
   - givenname: "Eduardo"
     familyname: "Verri Lopes"
@@ -50,7 +50,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077670/files/sdbr13-114.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
-  - "Junior, Aníbal Verri"
+  - "Verri Junior, Aníbal Verri"
   - "Verri Lopes, Eduardo"
   - "Verri, Tânia Nunes Galvão"
   - "Araujo, Vinícius Alves de"

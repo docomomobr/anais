@@ -43,6 +43,7 @@ keywords_en:
 authors:
   - givenname: "Letícia Regina"
     familyname: "Lorenzi"
+    orcid: "0000-0003-4041-4980"
   - givenname: "Pedro Henrique Carretta"
     familyname: "Diniz"
     orcid: "0000-0001-6726-3380"

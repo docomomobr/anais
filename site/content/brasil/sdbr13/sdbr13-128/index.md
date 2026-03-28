@@ -44,6 +44,7 @@ authors:
     orcid: "0000-0003-2328-6497"
   - givenname: "Taciana Souza"
     familyname: "Bezerra"
+    orcid: "0000-0001-6553-460X"
 doi: "10.5281/zenodo.19077719"
 zenodo_pdf_url: "https://zenodo.org/records/19077720/files/sdbr13-128.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -36,6 +36,7 @@ keywords_en:
 authors:
   - givenname: "Marlice Nazareth Soares de"
     familyname: "Azevedo"
+    orcid: "0009-0000-7689-3720"
   - givenname: "Danielle"
     familyname: "Bendicto"
   - givenname: "Silvio"

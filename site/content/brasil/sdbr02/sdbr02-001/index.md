@@ -27,6 +27,7 @@ authors:
   - givenname: "Rômulo"
     familyname: "Marques"
     affiliation: "UFPI"
+    orcid: "0000-0003-1712-3579"
   - givenname: "Thiscianne Moraes"
     familyname: "Pessoa"
     affiliation: "UFBA"

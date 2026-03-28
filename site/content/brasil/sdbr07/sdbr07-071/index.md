@@ -35,8 +35,8 @@ keywords_en:
   - "modern garden"
   - "Faria Neves Square"
 authors:
-  - givenname: "Ana Rita Sá"
-    familyname: "Carneiro"
+  - givenname: "Ana Rita"
+    familyname: "Sá Carneiro"
     orcid: "0000-0002-2750-5354"
   - givenname: "Aline de Figueirôa"
     familyname: "Silva"
@@ -48,7 +48,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19072653/files/sdbr07-071.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
-  - "Carneiro, Ana Rita Sá"
+  - "Sá Carneiro, Ana Rita"
   - "Silva, Aline de Figueirôa"
   - "Mafra, Fátima"
 palavras-chave:

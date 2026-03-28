@@ -26,6 +26,7 @@ authors:
     familyname: "Santana"
   - givenname: "Giovanna"
     familyname: "Cabral"
+    orcid: "0000-0002-4780-516X"
   - givenname: "Maria Cristina Nascentes"
     familyname: "Cabral"
     orcid: "0000-0002-6997-2284"

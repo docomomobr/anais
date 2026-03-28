@@ -33,6 +33,7 @@ keywords:
 authors:
   - givenname: "Eduardo Garcia"
     familyname: "Arantes"
+    orcid: "0000-0003-2578-5513"
 doi: "10.5281/zenodo.19078193"
 zenodo_pdf_url: "https://zenodo.org/records/19078194/files/sdbr14-085.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

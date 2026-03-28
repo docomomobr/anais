@@ -40,6 +40,7 @@ authors:
     familyname: "Feitosa"
   - givenname: "Lívia Maria Macêdo"
     familyname: "Santos"
+    orcid: "0000-0003-3696-762X"
 doi: "10.5281/zenodo.19073225"
 zenodo_pdf_url: "https://zenodo.org/records/19073226/files/sdbr08-127.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

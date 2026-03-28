@@ -41,8 +41,8 @@ authors:
   - givenname: "Tatiana Caniçali"
     familyname: "Casado"
     orcid: "0000-0003-2414-3877"
-  - givenname: "Genildo Coelho Hautequestt"
-    familyname: "Filho"
+  - givenname: "Genildo Coelho"
+    familyname: "Hautequestt Filho"
     orcid: "0000-0001-8869-6118"
 doi: "10.5281/zenodo.19076889"
 zenodo_pdf_url: "https://zenodo.org/records/19076890/files/sdbr12-011.pdf"
@@ -51,7 +51,7 @@ ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urba
 autores:
   - "Freitas, Rafaela Lima Nunes"
   - "Casado, Tatiana Caniçali"
-  - "Filho, Genildo Coelho Hautequestt"
+  - "Hautequestt Filho, Genildo Coelho"
 palavras-chave:
   - "arquitetura modernista"
   - "arquitetura capixaba"

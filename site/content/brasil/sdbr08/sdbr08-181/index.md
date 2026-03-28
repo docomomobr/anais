@@ -38,14 +38,14 @@ keywords_en:
   - "Candia, Salvador"
   - "Gasperini, Gian Carlo"
 authors:
-  - givenname: "Jaime Cunha"
-    familyname: "Junior"
+  - givenname: "Jaime"
+    familyname: "Cunha Junior"
 doi: "10.5281/zenodo.19073462"
 zenodo_pdf_url: "https://zenodo.org/records/19073463/files/sdbr08-181.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
-  - "Junior, Jaime Cunha"
+  - "Cunha Junior, Jaime"
 palavras-chave:
   - "Arquitetura Moderna – São Paulo, SP, Brasil"
   - "Candia, Salvador"

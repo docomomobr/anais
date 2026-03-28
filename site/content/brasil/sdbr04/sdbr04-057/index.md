@@ -28,6 +28,7 @@ authors:
   - givenname: "Marcos de Oliveira"
     familyname: "Costa"
     affiliation: "FAU-USP"
+    orcid: "0000-0001-9836-9444"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
 autores:

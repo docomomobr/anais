@@ -33,6 +33,7 @@ keywords_en:
 authors:
   - givenname: "Marco Antonio"
     familyname: "Coutinho"
+    orcid: "0009-0004-6245-497X"
   - givenname: "Wylnna Carlos Lima"
     familyname: "Vidal"
     orcid: "0000-0001-5014-1301"

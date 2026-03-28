@@ -25,6 +25,7 @@ pdf_file: "sdbr06-063.pdf"
 authors:
   - givenname: "Vera Lucia Ferreira Motta"
     familyname: "Rezende"
+    orcid: "0000-0002-3686-3954"
 doi: "10.5281/zenodo.19072545"
 zenodo_pdf_url: "https://zenodo.org/records/19072546/files/sdbr06-063.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

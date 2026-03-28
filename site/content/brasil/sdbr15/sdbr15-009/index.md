@@ -53,6 +53,7 @@ authors:
     orcid: "0009-0006-2487-3588"
   - givenname: "Ronaldo Nunes de"
     familyname: "Moraes"
+    orcid: "0000-0003-2871-4446"
   - givenname: "Lohanna Ferreira de"
     familyname: "Souza"
 doi: "10.5281/zenodo.19069554"

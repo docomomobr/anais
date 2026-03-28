@@ -38,6 +38,7 @@ keywords_en:
 authors:
   - givenname: "Ana Paula da Conceição"
     familyname: "Esteves"
+    orcid: "0000-0002-2862-3440"
   - givenname: "Louise Land Bittencourt"
     familyname: "Lomardo"
     orcid: "0009-0001-9515-7734"

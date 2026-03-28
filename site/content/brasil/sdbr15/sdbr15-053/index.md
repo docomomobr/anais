@@ -48,6 +48,7 @@ keywords_es:
 authors:
   - givenname: "Natália Toralles dos Santos"
     familyname: "Braga"
+    orcid: "0000-0002-8389-1982"
   - givenname: "Célia Helena Castro"
     familyname: "Gonsales"
     orcid: "0000-0002-9249-1390"

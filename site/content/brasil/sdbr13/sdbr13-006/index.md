@@ -42,6 +42,7 @@ keywords_en:
 authors:
   - givenname: "Adriano Braz"
     familyname: "Contardi"
+    orcid: "0000-0002-7793-5811"
   - givenname: "Renato Leão"
     familyname: "Rego"
     orcid: "0000-0003-1822-2907"

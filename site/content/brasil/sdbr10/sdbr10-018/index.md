@@ -37,6 +37,7 @@ keywords_en:
 authors:
   - givenname: "Sílvia Lopes Carneiro"
     familyname: "Leão"
+    orcid: "0000-0001-9109-8127"
 doi: "10.5281/zenodo.19074108"
 zenodo_pdf_url: "https://zenodo.org/records/19074109/files/sdbr10-018.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

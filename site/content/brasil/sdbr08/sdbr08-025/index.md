@@ -38,6 +38,7 @@ keywords_en:
 authors:
   - givenname: "Paulo Henrique"
     familyname: "Alonso"
+    orcid: "0009-0000-3179-1333"
   - givenname: "Leonardo Barci"
     familyname: "Castriota"
     orcid: "0000-0002-9159-1787"

@@ -40,6 +40,7 @@ authors:
     orcid: "0000-0001-8573-1918"
   - givenname: "Guilherme Silva"
     familyname: "Graciano"
+    orcid: "0000-0002-8547-2888"
 doi: "10.5281/zenodo.19077180"
 zenodo_pdf_url: "https://zenodo.org/records/19077181/files/sdbr12-068.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

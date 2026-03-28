@@ -25,6 +25,7 @@ pdf_file: "sdbr14-vp03.mp4"
 authors:
   - givenname: "Victoria Jannuzi da"
     familyname: "Cunha"
+    orcid: "0000-0002-3142-1751"
   - givenname: "Luciana"
     familyname: "Saboia"
     orcid: "0000-0002-6394-9024"

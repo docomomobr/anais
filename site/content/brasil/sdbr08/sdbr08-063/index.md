@@ -32,6 +32,7 @@ keywords:
 authors:
   - givenname: "Vera Lucia Ferreira Motta"
     familyname: "Rezende"
+    orcid: "0000-0002-3686-3954"
   - givenname: "Fernanda de Azevedo"
     familyname: "Ribeiro"
 doi: "10.5281/zenodo.19072995"

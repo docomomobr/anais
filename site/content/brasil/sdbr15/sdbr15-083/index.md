@@ -52,6 +52,7 @@ authors:
     familyname: "Gomes"
   - givenname: "Myllena Bezerra"
     familyname: "Alves"
+    orcid: "0000-0002-4707-9532"
   - givenname: "Carolina Mapurunga Bezerra"
     familyname: "Coutinho"
 doi: "10.5281/zenodo.19069867"

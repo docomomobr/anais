@@ -49,6 +49,7 @@ keywords_es:
 authors:
   - givenname: "Fábio Domingos"
     familyname: "Batista"
+    orcid: "0000-0002-4357-3162"
   - givenname: "Hugo"
     familyname: "Segawa"
     orcid: "0000-0002-2532-4664"

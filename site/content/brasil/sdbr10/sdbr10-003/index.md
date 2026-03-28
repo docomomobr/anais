@@ -40,6 +40,7 @@ authors:
     orcid: "0000-0002-4477-3895"
   - givenname: "Ricardo Hernán"
     familyname: "Medrano"
+    orcid: "0000-0003-4524-6090"
 doi: "10.5281/zenodo.19074056"
 zenodo_pdf_url: "https://zenodo.org/records/19074057/files/sdbr10-003.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

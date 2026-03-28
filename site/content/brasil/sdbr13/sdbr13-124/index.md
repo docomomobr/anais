@@ -38,6 +38,7 @@ keywords_en:
 authors:
   - givenname: "Luiza Maia"
     familyname: "Fagundes"
+    orcid: "0009-0009-6380-2602"
   - givenname: "Paola Maia"
     familyname: "Fagundes"
     orcid: "0009-0009-1190-9424"

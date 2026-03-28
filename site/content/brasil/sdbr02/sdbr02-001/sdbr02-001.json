@@ -1,0 +1,37 @@
+{
+  "id": "sdbr02-001",
+  "type": "paper-conference",
+  "title": "Apresentação: o 2º Seminário Docomomo_Brasil: proposta, realização, memória",
+  "container-title": "2º Seminário Docomomo Brasil, Salvador, 1997",
+  "event-title": "2º Seminário Docomomo Brasil, Salvador, 1997",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "author": [
+    {
+      "family": "Espinoza",
+      "given": "José Carlos Huapaya",
+      "ORCID": "https://orcid.org/0000-0001-6776-8821"
+    },
+    {
+      "family": "Marques",
+      "given": "Rômulo",
+      "ORCID": "https://orcid.org/0000-0003-1712-3579"
+    },
+    {
+      "family": "Pessoa",
+      "given": "Thiscianne Moraes",
+      "ORCID": "https://orcid.org/0000-0002-1459-2460"
+    }
+  ],
+  "event-place": "Salvador",
+  "publisher-place": "Salvador",
+  "DOI": "10.5281/zenodo.19079991",
+  "ISBN": "978-85-509-0555-6",
+  "URL": "https://zenodo.org/records/19079992/files/sdbr02-001.pdf"
+}

@@ -48,6 +48,7 @@ keywords_es:
 authors:
   - givenname: "Mércia Parente"
     familyname: "Rocha"
+    orcid: "0000-0001-9507-7032"
 doi: "10.5281/zenodo.19069569"
 zenodo_pdf_url: "https://zenodo.org/records/19069570/files/sdbr15-014.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

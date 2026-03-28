@@ -44,6 +44,7 @@ authors:
     familyname: "Silveira"
   - givenname: "Tatiana Paiva"
     familyname: "Xavier"
+    orcid: "0000-0002-5325-1036"
   - givenname: "Romell Fernando Varoto"
     familyname: "Barbosa"
   - givenname: "Maria Marta dos Santos"

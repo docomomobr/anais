@@ -32,6 +32,7 @@ authors:
     orcid: "0000-0003-0923-4914"
   - givenname: "Lêda Brandão de"
     familyname: "Oliveira"
+    orcid: "0000-0002-3349-5148"
 doi: "10.5281/zenodo.19072284"
 zenodo_pdf_url: "https://zenodo.org/records/19072285/files/sdbr05-052.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

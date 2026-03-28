@@ -33,7 +33,7 @@ keywords_en:
   - "Paulo Mendes da Rocha, Maringá, BANESPA, banking architecture"
 authors:
   - givenname: "Aníbal Verri"
-    familyname: "Junior"
+    familyname: "Verri Junior"
     orcid: "0000-0003-1855-2324"
   - givenname: "Tânia Nunes Galvão"
     familyname: "Verri"
@@ -45,7 +45,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077047/files/sdbr12-043.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
-  - "Junior, Aníbal Verri"
+  - "Verri Junior, Aníbal Verri"
   - "Verri, Tânia Nunes Galvão"
   - "Araujo, Vinícius Alves de"
 palavras-chave:

@@ -30,6 +30,7 @@ authors:
     familyname: "Andrade"
   - givenname: "Tarcisio Dorn de"
     familyname: "Oliveira"
+    orcid: "0000-0001-5842-2415"
 doi: "10.5281/zenodo.19094520"
 zenodo_pdf_url: "https://zenodo.org/records/19094522/files/sdbr14-vp01.mp4"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
