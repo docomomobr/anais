@@ -120,6 +120,8 @@ STOPWORDS = {
     # Genéricos encontrados erroneamente no dict (sdsp08, 2026-03-27)
     'desenhos', 'pesquisas', 'ferroviário', 'bienais',
     'fontes', 'escolas', 'concurso',
+    # Genéricos encontrados erroneamente no dict (sdsp09, 2026-03-27)
+    'restauração', 'imóveis',
 }
 
 

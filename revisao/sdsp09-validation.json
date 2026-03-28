@@ -1,0 +1,29 @@
+{
+  "slug": "sdsp09",
+  "date": "2026-03-27",
+  "total_articles": 27,
+  "profile": {
+    "total": 27,
+    "locale_es": 0,
+    "abstract": 27,
+    "abstract_en": 27,
+    "abstract_es": 0,
+    "keywords": 26,
+    "keywords_en": 26,
+    "keywords_es": 0,
+    "references_": 27
+  },
+  "auto_fixed": [],
+  "issues": [
+    {
+      "check": "A01",
+      "article_id": "sdsp09-015",
+      "field": "keywords_en",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_en presente mas keywords_en faltando",
+      "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    }
+  ],
+  "category_b_candidates": []
+}
