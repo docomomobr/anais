@@ -748,7 +748,25 @@ Títulos PT usam **sentence case brasileiro** (NÃO Title Case inglês). Referê
 
 Para cada artigo, na ordem do HTML:
 
-1. **Ler o plumber INTEIRO** — `cat fontes_plumber/{id}.jsonl`. Não "primeiras/últimas linhas". O arquivo inteiro.
+0. **Escolher a fonte de leitura.** A fonte primária é o plumber (`.jsonl`). Se o plumber for de baixa qualidade (OCR ruim, duas colunas embaralhadas, caracteres garbled), usar **leitura de imagem** como fonte alternativa ou complementar:
+
+   ```bash
+   # Converter páginas do PDF para imagens
+   pdftoppm -png -r 200 -f {pag_inicio} -l {pag_fim} {pdf_path} /tmp/{id}
+   ```
+
+   Ler as imagens diretamente (o Claude é multimodal). Isso resolve problemas de:
+   - Layout em duas colunas que o pdftotext/pdfplumber embaralha
+   - OCR de baixa qualidade (Tesseract em documentos antigos/escaneados)
+   - Proceedings internacionais sem padrão uniforme de formatação
+
+   **Quando usar imagem:** PDFs com OCR (ex: conferências internacionais, anais antigos escaneados), artigos cujo plumber tem linhas mescladas entre colunas, ou qualquer caso em que o plumber não preserve a estrutura do texto. Usar `Read` do Claude com o arquivo `.png`.
+
+   **Quando usar plumber:** PDFs com texto nativo (a maioria dos anais brasileiros recentes). O plumber é mais rápido e preserva font_size/bold.
+
+   Ambas as fontes podem ser usadas em conjunto: plumber para font_size/roles + imagem para conferência visual de conteúdo.
+
+1. **Ler o plumber INTEIRO** (ou as imagens, conforme item 0) — `cat fontes_plumber/{id}.jsonl`. Não "primeiras/últimas linhas". O arquivo inteiro.
 2. **Título e subtítulo**: o texto na primeira página com font_size grande (≥12) é o título do PDF. Comparar com o campo `title` no banco. Verificar capitalização, acentos, truncamento. **Subtítulo começa com minúscula** (exceto se iniciar com nome próprio, sigla, ou expressão consolidada — ver `regras_dados.md` §Capitalização). PDFs em ALL CAPS devem ser convertidos: o título mantém maiúscula inicial, o subtítulo recebe minúscula inicial.
 3. **Abstract PT**: localizar o bloco de texto após "Resumo" (font_size ~10). Comparar com `abstract` no banco. Verificar:
    - Começa no mesmo ponto? (Truncamento no início é o erro mais comum)
@@ -767,7 +785,7 @@ Para cada artigo, na ordem do HTML:
 
 **PROIBIDO:**
 - Rodar heurísticas em batch e marcar como "revisão LLM" — isso NÃO é revisão
-- Processar artigos sem ler o plumber — ler é obrigatório, não opcional
+- Processar artigos sem ler o plumber/imagem — ler é obrigatório, não opcional
 - Marcar 1.10 como concluída sem listar o resultado de CADA artigo no runner
 
 **Após a 1.10**, rodar validate + gerar HTML. Nenhuma etapa de conteúdo pode ser feita após a 1.10 — apenas etapas mecânicas (validate, HTML, dump, commit).
