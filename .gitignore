@@ -20,6 +20,7 @@
 
 # Exceção: imagens do site Hugo (necessárias no repo público)
 !site/static/img/**
+!site/content/**/*.png
 
 # Vídeo
 *.mp4

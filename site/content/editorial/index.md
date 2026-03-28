@@ -3,6 +3,16 @@ title: "Editorial"
 slug: editorial
 ---
 
+<div class="author-list">
+<span class="author">Danilo Matoso Macedo
+<a href="https://orcid.org/0009-0008-4670-9812" target="_blank" rel="noopener" class="orcid-link" title="ORCID: 0009-0008-4670-9812"><img src="/img/orcid.svg" alt="ORCID" class="orcid-icon"></a>
+<span class="affiliation">(Docomomo Brasil)</span></span>
+</div>
+
+<section class="pdf-action">
+<a href="https://doi.org/10.5281/zenodo.19297561" class="doi-badge" target="_blank" rel="noopener"><span class="doi-label">DOI</span><span class="doi-value">10.5281/zenodo.19297561</span></a>
+</section>
+
 A organização dos anais de eventos realizados dentro do âmbito do Docomomo Brasil é parte de uma filosofia de armazenagem, descrição e difusão sistemáticas da produção deste nosso grupo com mais de 30 anos de história.
 
 Muitos seminários já estavam disponibilizados na internet — inclusive na página do Docomomo Brasil, conforme organizada em gestões anteriores. Um excelente trabalho de pesquisa sobre os dois primeiros seminários Docomomo Brasil já foi feito por José Carlos Huapaya Espinoza, Alexandre Pajeú Moura, Rômulo Marques e Thiscianne Pessoa em 2019-20. Certo número estava somente em CDs e DVDs hoje obsoletos, guardados nas estantes dos colegas. Outros estavam em sites temporários que já haviam saído do ar. Alguns compõem livros disponibilizados em PDF que puderam ser desmembrados em artigos. Por fim, havia seminários cujos anais não haviam sido previamente publicados. Ainda há muito mais que reunir, sistematizar e publicar. É tarefa coletiva em permanente progresso.
@@ -84,11 +94,3 @@ A página de cada artigo inclui a referência formatada segundo a **NBR 6023:201
 
 Os artigos são disponibilizados sob licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), que permite compartilhar e adaptar o material, desde que seja dado crédito ao autor.
 
----
-
-Brasília, 28 de março de 2026.
-
-Danilo Matoso Macedo <a href="https://orcid.org/0009-0008-4670-9812" target="_blank" rel="noopener" class="orcid-link" title="ORCID: 0009-0008-4670-9812"><img src="/img/orcid.svg" alt="ORCID" class="orcid-icon"></a>  
-Editor
-
----
