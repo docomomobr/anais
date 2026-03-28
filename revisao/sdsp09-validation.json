@@ -1,20 +1,29 @@
 {
   "slug": "sdsp09",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "total_articles": 27,
   "profile": {
     "total": 27,
     "locale_es": 0,
     "abstract": 27,
     "abstract_en": 27,
-    "abstract_es": 0,
+    "abstract_es": 26,
     "keywords": 26,
     "keywords_en": 26,
-    "keywords_es": 0,
+    "keywords_es": 25,
     "references_": 27
   },
   "auto_fixed": [],
   "issues": [
+    {
+      "check": "A19",
+      "article_id": "sdsp09-014",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es: possível truncamento (termina com \"... promover la protección de estos activos\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
     {
       "check": "A01",
       "article_id": "sdsp09-015",
@@ -23,6 +32,15 @@
       "auto_fixable": false,
       "detail": "abstract_en presente mas keywords_en faltando",
       "suggestion": "Extrair keywords_en do fontes/ ou do PDF"
+    },
+    {
+      "check": "A03",
+      "article_id": "sdsp09-015",
+      "field": "keywords_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract_es presente mas keywords_es faltando",
+      "suggestion": "Extrair keywords_es do fontes/ ou do PDF"
     }
   ],
   "category_b_candidates": []

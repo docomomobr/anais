@@ -10,7 +10,7 @@ Fontes das seções/eixos temáticos: [`docs/fontes_secoes.md`](docs/fontes_seco
 
 ## Seminários revisados — NÃO ALTERAR
 
-44 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-08).
+45 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-09).
 **NÃO modificar seus dados** sem pedido explícito do usuário.
 Tabela completa: [`docs/seminarios_revisados.md`](docs/seminarios_revisados.md)
 
@@ -136,8 +136,7 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 - [x] **1 Minas** (sdmg01): 26 artigos revisados
 - [x] **3 Rio** (sdrj02-04): 42 artigos revisados
 - [x] **10 N/NE** (sdnne01-10): 545 artigos revisados
-- [x] **4 Sudeste SP** (sdsp03, sdsp05-08): 262 artigos revisados
-- [ ] **1 Sudeste SP** (sdsp09): ~27 artigos pendentes
+- [x] **5 Sudeste SP** (sdsp03, sdsp05-09): 289 artigos revisados
 
 ### Produção (pipeline_producao.md)
 

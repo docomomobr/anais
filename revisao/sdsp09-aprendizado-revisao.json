@@ -11,8 +11,8 @@
     "seminario": "sdsp09",
     "data": "2026-03-27",
     "tipo": "bug_dados",
-    "descricao": "Artigo 025 sem título EN no PDF (só tem título PT e autores, sem heading EN/ES)",
-    "correcao": "Campo title_en deixado vazio (regra: não inventar metadados)",
+    "descricao": "Artigo 025 sem título EN/ES no PDF (só tem título PT e autores, sem heading EN/ES)",
+    "correcao": "Campos title_en/title_es deixados vazios (regra: não inventar metadados)",
     "artigos_afetados": 1
   },
   {
@@ -27,8 +27,8 @@
     "seminario": "sdsp09",
     "data": "2026-03-27",
     "tipo": "bug_dados",
-    "descricao": "Artigo 015 sem keywords PT/EN no PDF (confirmado ausente)",
-    "correcao": "Campo keywords/keywords_en vazio — warning irresolvível A01",
+    "descricao": "Artigo 015 sem keywords PT/EN/ES no PDF (confirmado ausente)",
+    "correcao": "Campos keywords/keywords_en/keywords_es vazios — warning irresolvível A01/A03",
     "artigos_afetados": 1
   },
   {
@@ -38,5 +38,21 @@
     "descricao": "Refs ausentes para artigos 010 (16 refs) e 025 (17 refs) — extração original não capturou refs classificadas como footnote/abstract no plumber",
     "correcao": "Inseridas manualmente do plumber",
     "artigos_afetados": 2
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-28",
+    "tipo": "revisao_humana",
+    "descricao": "4 correções: 003 patrimônio minúscula + Litoral maiúscula; 010 Santista maiúscula; 012 arquitetura minúscula (uso genérico); 027 ref espúria (URL de evento) removida",
+    "correcao": "dict: +santista como gentílico. Nenhuma alteração de script necessária (padrão raro, não recorrente)",
+    "artigos_afetados": 4
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-28",
+    "tipo": "pipeline",
+    "descricao": "Metadados ES (title_es, subtitle_es, abstract_es, keywords_es) não foram extraídos na Fase 0 — step 0.7 do runner condicionava a locale=es",
+    "correcao": "gerar_runner.py corrigido: step 0.7 agora independe do locale. Extração ES feita para sdsp07/08/09 (110 artigos)",
+    "artigos_afetados": 110
   }
 ]
