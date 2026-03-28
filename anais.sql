@@ -9399,7 +9399,7 @@ INSERT INTO authors VALUES(1043,'Cristina de','Campos','prof.cristinacampos@usjt
 INSERT INTO authors VALUES(1044,'Mario','Rodrigues Jr.','mariodragonetti@gmail.com',NULL,'2026-03-27','3.1');
 INSERT INTO authors VALUES(1045,'Flávia Neves','Dantas','flaviandantas@gmail.com',NULL,'2026-03-27','3.1');
 INSERT INTO authors VALUES(1046,'Luísa','Destefani','luisa18.pinheiro@gmail.com',NULL,'2026-03-27','3.1');
-INSERT INTO authors VALUES(1047,'José Geraldo Simões','Junior','josegeraldo.simoes@mackenzie.br','0000-0002-2130-2134','2026-02-12','2.0');
+INSERT INTO authors VALUES(1047,'José Geraldo','Simões Junior','josegeraldo.simoes@mackenzie.br','0000-0002-2130-2134','2026-02-12','2.0');
 INSERT INTO authors VALUES(1048,'Fábio Azevedo','Vasconcellos','fabiovasconcellos@cefetmg.br','0000-0003-1823-7789','2026-02-12','2.0');
 INSERT INTO authors VALUES(1049,'Maria Júlia','Cotta','cottamaju@gmail.com','0009-0004-8873-1752','2026-03-17','2.0');
 INSERT INTO authors VALUES(1050,'Felipe','Moraes','felipefmoraes02@gmail.com','0000-0002-2740-8263','2026-03-17','2.0');
