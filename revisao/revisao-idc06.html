@@ -1,0 +1,1518 @@
+<!DOCTYPE html>
+        <html lang="pt-BR">
+        <head>
+        <meta charset="utf-8">
+        <title>Revisão — 6th International DOCOMOMO Conference</title>
+        <style>
+        :root {
+          --color-text: #222;
+          --color-muted: #777;
+          --color-label: #555;
+          --color-missing: #c44;
+          --color-orcid: #a6ce39;
+          --color-pdf-yes: #2a7;
+          --color-pdf-no: #bbb;
+          --color-section-bg: #e8edf5;
+          --color-section-text: #335;
+          --color-abstract-bg: #f8f8f5;
+          --color-abstract-border: #ccc;
+          --color-author-bg: #eee;
+          --color-toc-bg: #f5f5f5;
+        }
+        body {
+          font-family: Georgia, serif;
+          max-width: 900px; margin: 2em auto; padding: 0 1em;
+          color: var(--color-text); line-height: 1.6;
+        }
+        a { color: #336; }
+
+        /* ── Header ── */
+        .event-header {
+          display: flex; gap: 1.5em; align-items: flex-start;
+          margin-bottom: 1.5em; padding-bottom: 1.5em;
+          border-bottom: 2px solid #333;
+        }
+        .event-cover {
+          width: 220px; min-width: 220px;
+          border: 1px solid #ccc; border-radius: 3px;
+        }
+        .cover-placeholder {
+          width: 220px; min-width: 220px; height: 300px;
+          background: #eee; border: 1px dashed #bbb; border-radius: 3px;
+          display: flex; align-items: center; justify-content: center;
+          color: #999; font-size: 0.9em;
+        }
+        .event-header-info h1 {
+          font-size: 1.4em; margin: 0 0 0.3em 0; border: none; padding: 0;
+        }
+        .event-header-info .subtitle {
+          font-size: 1.05em; color: #555; margin: 0 0 0.6em 0; font-style: italic;
+        }
+        .event-header-info .meta-line {
+          font-size: 0.9em; color: var(--color-muted); margin: 0.15em 0;
+        }
+        .event-header-info .stats {
+          font-size: 0.9em; margin-top: 0.6em; font-weight: bold;
+        }
+        .volume-pdf-badge {
+          display: inline-block; margin-top: 0.5em;
+          padding: 3px 10px; border-radius: 3px;
+          background: #e0e8f0; color: #335; font-size: 0.85em;
+        }
+
+        /* ── Ficha ── */
+        .ficha {
+          background: #fafaf8; border: 1px solid #ddd; border-radius: 4px;
+          padding: 0.8em 1em; margin-bottom: 2em; font-size: 0.88em;
+          color: #444; line-height: 1.6;
+        }
+        .ficha-title {
+          font-weight: bold; text-transform: uppercase; font-size: 0.8em;
+          letter-spacing: 0.05em; color: var(--color-label); margin-bottom: 0.3em;
+        }
+
+        /* ── TOC ── */
+        .toc {
+          background: var(--color-toc-bg); padding: 1em 1.2em;
+          border-radius: 5px; margin-bottom: 2em;
+        }
+        .toc-title { font-weight: bold; margin-bottom: 0.5em; }
+        .toc-section { font-weight: bold; margin-top: 0.6em; color: var(--color-section-text); }
+        .toc ol { padding-left: 1.5em; margin: 0.2em 0; }
+        .toc li { margin: 0.15em 0; font-size: 0.9em; }
+        .toc a { text-decoration: none; color: #336; }
+        .toc a:hover { text-decoration: underline; }
+        .toc .id { font-family: monospace; font-size: 0.85em; color: #888; }
+        .toc .pdf-dot { font-size: 0.75em; }
+        .toc .pdf-yes { color: var(--color-pdf-yes); }
+        .toc .pdf-no { color: var(--color-pdf-no); }
+        .toc .toc-authors { color: var(--color-muted); font-size: 0.88em; }
+
+        /* ── Section headings ── */
+        .section-heading {
+          background: var(--color-section-bg); color: var(--color-section-text);
+          padding: 0.5em 0.8em; border-radius: 4px;
+          font-size: 1.15em; margin-top: 2.5em; margin-bottom: 0.5em;
+        }
+
+        /* ── Article ── */
+        .article-divider {
+          display: flex; align-items: center; gap: 0.5em;
+          margin-top: 2.5em; border-top: 1px solid #bbb; padding-top: 0.8em;
+        }
+        .article-divider .id {
+          font-family: monospace; font-size: 0.9em; color: #888;
+          white-space: nowrap;
+        }
+        .article-divider .pdf-badge {
+          margin-left: auto; font-size: 0.8em; padding: 2px 8px;
+          border-radius: 3px; white-space: nowrap;
+        }
+        .pdf-badge.yes { background: #dff5ea; color: #1a6; }
+        .pdf-badge.no { background: #f0f0f0; color: #999; }
+        .article-title {
+          font-size: 1.15em; font-weight: bold; margin: 0.3em 0 0.1em 0;
+        }
+        .article-subtitle {
+          font-size: 0.95em; color: #555; font-style: italic; margin: 0 0 0.3em 0;
+        }
+        .article-title-en {
+          font-size: 0.9em; color: #666; margin: 0.2em 0 0;
+        }
+        .article-subtitle-en {
+          font-size: 0.85em; color: #888; font-style: italic; margin: 0 0 0.2em 0;
+        }
+
+        /* ── Fields ── */
+        .field { margin: 0.3em 0; }
+        .label {
+          font-weight: bold; color: var(--color-label);
+          font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.05em;
+        }
+        .meta-bar {
+          font-size: 0.85em; color: var(--color-muted); margin: 0.3em 0;
+        }
+        .meta-bar .section-tag {
+          background: #dde; padding: 2px 6px; border-radius: 3px;
+          font-size: 0.9em; color: #446;
+        }
+        .meta-bar .file { font-family: monospace; color: #668; }
+        .locale-tag {
+          background: #fde; padding: 1px 5px; border-radius: 3px;
+          font-size: 0.8em; color: #844;
+        }
+
+        .authors { margin: 0.4em 0; }
+        .author {
+          display: inline-block; background: var(--color-author-bg);
+          padding: 2px 8px; border-radius: 3px; margin: 2px; font-size: 0.9em;
+        }
+        .author .affil { color: #777; font-size: 0.85em; }
+        .author .orcid { color: var(--color-orcid); font-size: 0.8em; }
+
+        .abstract {
+          background: var(--color-abstract-bg); padding: 0.8em 1em;
+          border-left: 3px solid var(--color-abstract-border);
+          margin: 0.5em 0; font-size: 0.95em;
+        }
+        .abstract-en {
+          border-left-color: #b0c4de;
+        }
+        .keywords { font-style: italic; color: #555; }
+
+        .refs { font-size: 0.85em; color: #444; }
+        .refs ol { padding-left: 1.5em; }
+        .refs li { margin-bottom: 0.3em; }
+
+        .missing { color: var(--color-missing); font-style: italic; }
+
+        /* ── Validation warnings ── */
+        .validation-summary {
+          background: #fff8e1; border: 1px solid #ffc107; border-radius: 4px;
+          padding: 0.8em 1em; margin-bottom: 1.5em; font-size: 0.88em;
+        }
+        .validation-summary-title {
+          font-weight: bold; color: #856404; margin-bottom: 0.3em;
+        }
+        .validation-badges {
+          display: flex; flex-wrap: wrap; gap: 3px; margin-top: 0.3em;
+        }
+        .validation-badge {
+          display: inline-block; padding: 1px 6px; border-radius: 3px;
+          font-size: 0.8em; font-family: monospace;
+        }
+        .validation-badge.warning { background: #fff3cd; color: #856404; }
+        .validation-badge.error { background: #f8d7da; color: #721c24; }
+        .validation-badge.info { background: #d1ecf1; color: #0c5460; }
+        .article-warnings {
+          margin: 0.3em 0; font-size: 0.82em;
+        }
+
+        @media print {
+          .toc { page-break-after: always; }
+          .article-divider { page-break-before: always; border-top: none; }
+        }
+        </style>
+        </head>
+        <body>
+        
+<div class="event-header">
+  <div class="cover-placeholder">sem capa</div>
+  <div class="event-header-info">
+    <h1>6th International DOCOMOMO Conference</h1>
+    <p class="subtitle">The Modern City Facing the Future</p>
+    <p class="meta-line">Brasília, DF — Universidade de Brasília; Universidade Federal da Bahia · <span class="missing">sem ISBN</span></p>
+    <p class="meta-line">Org.: Anna Beatriz A. Galvão, Alejandra H. Muñoz, Hugo Segawa, Mirthes Baffi, Marina B. Donelli</p>
+    <p class="stats">54 artigos · 13 seções</p>
+  </div>
+</div>
+<div class="validation-summary">
+  <div class="validation-summary-title">Validação: 8 issues em 2 artigos</div>
+  <div class="validation-badges">
+    <span class="validation-badge warning">A11 ref longa: 8</span>
+  </div>
+</div>
+<div class="toc">
+  <div class="toc-title">Sumário</div>
+  <div class="toc-section">Opening Session (2)</div>
+  <ol>
+  <li><a href="#idc06-001"><span class="id">idc06-001</span> Conference and Proceedings</a> <span class="toc-authors">Frederico Holanda</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-002"><span class="id">idc06-002</span> Opening Session</a> <span class="toc-authors">Hubert-Jan Henket</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Opening Lecture (1)</div>
+  <ol>
+  <li><a href="#idc06-003"><span class="id">idc06-003</span> The Symbolic City</a> <span class="toc-authors">Kisho Kurokawa</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Main Theme Lectures (4)</div>
+  <ol>
+  <li><a href="#idc06-004"><span class="id">idc06-004</span> Main Theme Report, by the Chair</a> <span class="toc-authors">Hubert-Jan Henket</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-005"><span class="id">idc06-005</span> Modern Movement and Urban History</a> <span class="toc-authors">Jean-Louis Cohen</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-006"><span class="id">idc06-006</span> Le Corbusier and Latin America: A Third World Modern Urbanism</a> <span class="toc-authors">Fernando Pérez-Oyarzún</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-007"><span class="id">idc06-007</span> Urban Thinking/Urban Projects</a> <span class="toc-authors">Milton Santos</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Main Theme Session (5)</div>
+  <ol>
+  <li><a href="#idc06-008"><span class="id">idc06-008</span> Latin American Cities</a> <span class="toc-authors">Silvia Arango</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-009"><span class="id">idc06-009</span> French Modern Cities</a> <span class="toc-authors">Philippe Panerai</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-010"><span class="id">idc06-010</span> Rome, the city of the future in the lessons of history: typological models and strategies of intervention</a> <span class="toc-authors">Maria Letizia Conforto</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-011"><span class="id">idc06-011</span> Paradoxes in the conservation of newness: the invention of an antipodean &quot;civic domain&quot;</a> <span class="toc-authors">Hanna Lewi</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-012"><span class="id">idc06-012</span> The conception of Abuja — the new capital city of Nigeria — as synthesis of planning principles from Europe, America and Japan</a> <span class="toc-authors">Jürgen Lafrenz</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Brasilia Session (6)</div>
+  <ol>
+  <li><a href="#idc06-013"><span class="id">idc06-013</span> City and Citizenship: a contribution to the study of the modern city considered a work of art — Chandigarh and Brasilia</a> <span class="toc-authors">Matheus Gorovitz</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-014"><span class="id">idc06-014</span> Living with Brasilia: a resident&#x27;s perspective of the confrontation between heroic vision and social reality</a> <span class="toc-authors">Rosane Bauer</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-015"><span class="id">idc06-015</span> What do we really know about Brasilia? Misleading and prejudice in canonical books</a> <span class="toc-authors">Ruth Verde Zein; Ana Gabriela Godinho Lima</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-016"><span class="id">idc06-016</span> A legal system for urbanism: the Modern Movement&#x27;s unseen face</a> <span class="toc-authors">Sarah Feldman</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-017"><span class="id">idc06-017</span> Architectural and social modernity: the image of Brasilia in the European movies</a> <span class="toc-authors">Márcio Campos</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-018"><span class="id">idc06-018</span> Brasilia reproduced as backdrop</a> <span class="toc-authors">Sunil Bald</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">History &amp; Theory Session (5)</div>
+  <ol>
+  <li><a href="#idc06-019"><span class="id">idc06-019</span> Buildings building the city: São Paulo in the Fifties</a> <span class="toc-authors">Carlos Alberto Ferreira Martins</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-020"><span class="id">idc06-020</span> Ancient and modern cities in the work of Constantine Doxiadis</a> <span class="toc-authors">Panayotis Tournikiotis</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-021"><span class="id">idc06-021</span> Brazil in Modern Architectural Handbooks</a> <span class="toc-authors">Nelci Tinem; Lucia Borges</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-022"><span class="id">idc06-022</span> Matrix of Man</a> <span class="toc-authors">Hilde Heynen</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-023"><span class="id">idc06-023</span> About the teaching of theory and history of Modern Architecture: for the dissemination of new notions and conceptions</a> <span class="toc-authors">Pasqualino Romano Magnavita</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Housing Session (6)</div>
+  <ol>
+  <li><a href="#idc06-024"><span class="id">idc06-024</span> Housing Session Report, by the Chair</a> <span class="toc-authors">Miles Glendinning</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-025"><span class="id">idc06-025</span> Fifty years after the INA-Casa</a> <span class="toc-authors">Paola Di Biagi</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-026"><span class="id">idc06-026</span> Modern City as a tool of russification: Estonian experience</a> <span class="toc-authors">Mart Kalm</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-027"><span class="id">idc06-027</span> The heritage of the Grands Ensembles</a> <span class="toc-authors">Philippe Panerai</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-028"><span class="id">idc06-028</span> A la recherche de la maison moderniste perdue</a> <span class="toc-authors">Sonia Marques; Edja Trigueiro</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-029"><span class="id">idc06-029</span> Creating historic modern cities, by learning from modern historic cities</a> <span class="toc-authors">Paul Meurs</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Public Space Session (7)</div>
+  <ol>
+  <li><a href="#idc06-030"><span class="id">idc06-030</span> SOS Berlin Alexander Platz: the razing of DDR Modernism</a> <span class="toc-authors">Maria de Betania Cavalcanti-Brendle</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-031"><span class="id">idc06-031</span> Airport as city square: Toronto, Edmonton and Winnipeg Airports, 1964</a> <span class="toc-authors">Bernard Flaman</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-032"><span class="id">idc06-032</span> In Search of the Sublime Villanueva and the Central University Campus in Caracas</a> <span class="toc-authors">Silvia Hernández de Lasala</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-033"><span class="id">idc06-033</span> Clone city: Modernism, Landscape and the crisis of the European conurbation</a> <span class="toc-authors">Miles Glendinning</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-034"><span class="id">idc06-034</span> Rethinking the core of the city: Beyond the Functionalism in the Hiroshima Peace Centre by Kenzo Tange</a> <span class="toc-authors">Kenji Watanabe; Yoshiyuki Yamana</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-035"><span class="id">idc06-035</span> Public Spaces by Burle Marx</a> <span class="toc-authors">Guilherme Mazza-Dourado</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-036"><span class="id">idc06-036</span> The &quot;Ville Verte&quot;: Rethinking City Landscape</a> <span class="toc-authors">Franco Panzini</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Urban Conservation Session (5)</div>
+  <ol>
+  <li><a href="#idc06-037"><span class="id">idc06-037</span> Urban Conservation Session Report, by the Chair</a> <span class="toc-authors">Paul Meurs</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-038"><span class="id">idc06-038</span> The Modern Movement City Planning in the Russian Provinces</a> <span class="toc-authors">Jan Molema; Ivan V. Nevzgodine</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-039"><span class="id">idc06-039</span> Contextualism &amp; Rupture: Modernism in the Post-War Reconstruction of Lübeck</a> <span class="toc-authors">Klaus Brändle</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-040"><span class="id">idc06-040</span> Large scale interventions in Boston&#x27;s Back Bay (1950-present): a self-correcting Modernist Urbanism</a> <span class="toc-authors">David Fixler; Hélène Lipstadt</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-041"><span class="id">idc06-041</span> Brussels skyscrapers: problems of identity. Destroying in the name of protection</a> <span class="toc-authors">Sarah Moutury</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Register Session (4)</div>
+  <ol>
+  <li><a href="#idc06-042"><span class="id">idc06-042</span> Coming of age: Scottish new towns in the 21st Century</a> <span class="toc-authors">David Witham</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-043"><span class="id">idc06-043</span> The social housing in the 1920&#x27;s: the garden city concept</a> <span class="toc-authors">Jean-Marc Basyn; Luc Verpoest</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-044"><span class="id">idc06-044</span> X-ray the city! Ernest Fooks, modern planner in the new world</a> <span class="toc-authors">Catherine Townsend</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-045"><span class="id">idc06-045</span> Modern shops and modern shapes — registration vs. regeneration</a> <span class="toc-authors">Mariëka Kuipers</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Technology Session (4)</div>
+  <ol>
+  <li><a href="#idc06-046"><span class="id">idc06-046</span> Power Architecture in Modern New Zealand</a> <span class="toc-authors">Andrew Stuart Leach</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-047"><span class="id">idc06-047</span> Essential war material, modernist harbinger: unseasoned hardwood and its implications for the Post-war Australian city</a> <span class="toc-authors">Philip Goad; Julie Willis</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-048"><span class="id">idc06-048</span> Brazilian Modern Architecture: climatic adaptation principles</a> <span class="toc-authors">Griselda Pinheiro Klüppel</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-049"><span class="id">idc06-049</span> Transitions in modernist factory planning in São Paulo 1945-1955: the influence of British and North-American design ideas</a> <span class="toc-authors">Phillip Gunn</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">Main Theme Closing Lectures (4)</div>
+  <ol>
+  <li><a href="#idc06-050"><span class="id">idc06-050</span> Reconsidering Chandigarh: the question of preservation and intervention in the Sector 17 Central Chowk</a> <span class="toc-authors">Jagdish Sagar</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-051"><span class="id">idc06-051</span> Brasilia facing the future</a> <span class="toc-authors">Paulo Zimbres</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-052"><span class="id">idc06-052</span> Perspectives</a> <span class="toc-authors">Cláudia Sobreira</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  <li><a href="#idc06-053"><span class="id">idc06-053</span> The Modern City facing the future</a> <span class="toc-authors">Allen Cunningham</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+  <div class="toc-section">7th International DOCOMOMO Conference (1)</div>
+  <ol>
+  <li><a href="#idc06-054"><span class="id">idc06-054</span> The Reception of Modern Architecture</a> <span class="toc-authors">Fabienne Chevallier</span> <span class="pdf-dot pdf-no">&#x25CB;</span></li>
+  </ol>
+</div>
+<h2 class="section-heading">Opening Session (2)</h2>
+<div class="article-divider" id="idc06-001">
+  <span class="id">idc06-001</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Conference and Proceedings</div>
+<div class="authors">
+  <span class="author">Frederico Holanda <span class="affil">(UnB)</span> <span class="orcid">&#x2B21; 0000-0002-3592-2246</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Opening Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-002">
+  <span class="id">idc06-002</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Opening Session</div>
+<div class="authors">
+  <span class="author">Hubert-Jan Henket <span class="affil">(DOCOMOMO International)</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Opening Session</span> · 4 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Opening Lecture (1)</h2>
+<div class="article-divider" id="idc06-003">
+  <span class="id">idc06-003</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The Symbolic City</div>
+<div class="authors">
+  <span class="author">Kisho Kurokawa</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Opening Lecture</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Metabolism; Recycle; Ecology; Symbiosis; Information</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Main Theme Lectures (4)</h2>
+<div class="article-divider" id="idc06-004">
+  <span class="id">idc06-004</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Main Theme Report, by the Chair</div>
+<div class="authors">
+  <span class="author">Hubert-Jan Henket <span class="affil">(DOCOMOMO International)</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Lectures</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-005">
+  <span class="id">idc06-005</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Modern Movement and Urban History</div>
+<div class="authors">
+  <span class="author">Jean-Louis Cohen <span class="orcid">&#x2B21; 0000-0002-8420-3598</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Lectures</span> · 7 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (5)</span><ol><li>Both buildings remain vestiges of larger urban Cohen, Jean-Louis and André Lortie. (1992). Des fortifs au périf, Paris, les seuils de la ville. Paris: Pavillon de schemes for the development of suburbia in the case l’Arsenal/Picard. of Lurçat or for the complete reorganization of the</li>
+<li>Cohen, Jean-Louis and Hartmut Frank, eds. (1989). Les</li>
+<li>Barcelona region -the Macid plan- with Casa Bloc. relations franco-allemandes 1940-1950 et leurs effets</li>
+<li>The theme of the conference is “the moder city fac- sur l’architecture et la forme urbaine. Paris: École ing the future”.</li>
+<li>Come ; European Architecture and the American Chal- 30</li></ol></div>
+<div class="article-divider" id="idc06-006">
+  <span class="id">idc06-006</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Le Corbusier and Latin America</div>
+<div class="article-subtitle">A Third World Modern Urbanism</div>
+<div class="authors">
+  <span class="author">Fernando Pérez-Oyarzún</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Lectures</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Le Corbusier; Latin America; urban thinking; urban projects</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-007">
+  <span class="id">idc06-007</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Urban Thinking/Urban Projects</div>
+<div class="authors">
+  <span class="author">Milton Santos</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Lectures</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">globalization; third world; urbanism; citizenship</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Main Theme Session (5)</h2>
+<div class="article-divider" id="idc06-008">
+  <span class="id">idc06-008</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Latin American Cities</div>
+<div class="authors">
+  <span class="author">Silvia Arango <span class="orcid">&#x2B21; 0009-0001-7314-4043</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Session</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Latin America; cities; history; urbanism; modernity; fragmentation</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-009">
+  <span class="id">idc06-009</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">French Modern Cities</div>
+<div class="authors">
+  <span class="author">Philippe Panerai</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Session</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">France; conventional urban development; rebuilding after war; rationalism; Grands Ensembles; new directions</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-010">
+  <span class="id">idc06-010</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Rome, the city of the future in the lessons of history</div>
+<div class="article-subtitle">typological models and strategies of intervention</div>
+<div class="authors">
+  <span class="author">Maria Letizia Conforto</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Italian; history; restoration</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-011">
+  <span class="id">idc06-011</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Paradoxes in the conservation of newness</div>
+<div class="article-subtitle">the invention of an antipodean &quot;civic domain&quot;</div>
+<div class="authors">
+  <span class="author">Hanna Lewi</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-012">
+  <span class="id">idc06-012</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The conception of Abuja — the new capital city of Nigeria — as synthesis of planning principles from Europe, America and Japan</div>
+<div class="authors">
+  <span class="author">Jürgen Lafrenz</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Abuja; Capital City; international planning principles</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (29)</span><ol><li>Achurch, P (1994) ‘A Citizen’s View’, Council House —</li>
+<li>To Be or Not To Be?. Perth: Australian Institute of Urban</li>
+<li>Assessors’ Report, (1960) The Architect. vol 3:61, Perth:</li>
+<li>RAIA (WA).</li>
+<li>Baddeley, T. The West Australian. (1994) July 6, West- ern Australia.</li>
+<li>Beilharz, P (1997) Imagining the Antipodes: Culture,</li>
+<li>Theory and the Visual in the Work of Bernard Smith. Melbourne: Cambridge University Press.</li>
+<li>Belting, H. (1987) The End of the History of Art?. Chi- cago: University of Chicago Press.</li>
+<li>Brew, P &amp; Markham, M. (eds) (1992) Architectural Projects: Jeoffrey Howlett. Perth: University of Western</li>
+<li>Australia, School of Architecture.</li>
+<li>Brown, N. (1995) Governing Prosperity. Melbourne:</li>
+<li>Cambridge University Press.</li>
+<li>Colquhoun, A. (1989) Modernity and Classical Tradi- tion: Architectural Essays 1980-1987. Cambridge Mass:</li>
+<li>MIT Press.</li>
+<li>Donzelot, J. (1988) ‘The Apprehension of Time’ in Barry and Muecke (eds), The Apprehension of Time. Sydney:</li>
+<li>Jirgen Lafrenz The decision for a new capital</li>
+<li>The problem of the relocation or new founding of capitals after the colonization of Tropical Africa with the pros and cons of a new start was discussed in many new countries. The motives of alternative foun- dations result - and this is also the case for Nigeria mainly from political aims of the young states.</li>
+<li>The new capital should</li>
+<li>The conception of become a symbol and strengthen the image of</li>
+<li>Nigeria’s aspiration of identity and greatness.</li>
+<li>Abuja - the new contribute to reduce strong ethnic and political</li>
+<li>Capital City of contrasts in Nigeria, especially of the Islamic North and the Christian South.</li>
+<li>Nigeria - as synthesis diminish the functional superiority of the primary city of Lagos. of planning principles lessen regional disparities and be a magnet of</li>
+<li>“pull”-factors” in the “Middle Belt” of Nigeria with from Europe, America low population density. and Japan</li>
+<li>Planning for Abuja</li>
+<li>Location and site</li>
+<li>Discussions on a new federal capital to replace Lagos started even before independence, but the realization was not until oil brought an economic boom to Nigeria. Immediately after the coup, which brought him to power in August 1975, the late</li>
+<li>General Murtala Muhammed set up the Aguda</li>
+<li>Introduction Panel to find a new Federal Capital. The committee, which set the process of selecting Abuja is not only the latest, but also one of the the location in motion, started out with at least 33</li></ol></div>
+<h2 class="section-heading">Brasilia Session (6)</h2>
+<div class="article-divider" id="idc06-013">
+  <span class="id">idc06-013</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">City and Citizenship</div>
+<div class="article-subtitle">a contribution to the study of the modern city considered a work of art — Chandigarh and Brasilia</div>
+<div class="authors">
+  <span class="author">Matheus Gorovitz</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 9 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (24)</span><ol><li>Argan, G.C. (1989). Botticelli. Genêve: Skira.</li>
+<li>Costa, L. (1962). Sobre arquitetura. Porto Alegre:</li>
+<li>Costa, L. (1991). &#x27;Relatério&#x27;. Brasília, cidade que inventei. Brasilia: Ed. GDF.</li>
+<li>Edict of Chandigarh. ANQ - Architectura &amp; natura quar- terly, Amsterdam: Architectura &amp; Natura, s/d. p. 25.</li>
+<li>Jauss, H.R. (1978). Pour une esthéthique de la réception. Paris: Gallimard.</li>
+<li>Ferry, L. (1990). Homo Aestheticus. Paris: Grasset.</li>
+<li>Ferry, L. (1998). Le Sens du Beau. Paris: Cercle d&#x27;Art.</li>
+<li>Ferry, L. (1996). Lhomme Dieu. Paris: Grasset.</li>
+<li>Frampton, K. (1997). Le Corbusier. Paris: Hazan.</li>
+<li>Gorovitz,M. (1985). Brasília, uma questão de escala.</li>
+<li>S.Paulo, Projeto.</li>
+<li>Gorovitz, M. (1991). &quot;Unidade de vizinhança marca o modo de vida brasiliense&quot;. Revista da Codeplan, Brasília, nº 1, pp 45-52.</li>
+<li>Kant, E. (1990). Observations sur le sentimentdu  beau et du sublime. Paris: Flammarion.</li>
+<li>Le Corbusier (1951). Conference de presse. Paris:</li>
+<li>Fundação Le Corbusier.(manuscript).</li>
+<li>Le Corbusier (1953). Oeuvre complête. Zurique:</li>
+<li>Girsberger.</li>
+<li>Le Corbusier (1980). Urbanisme. Paris: Arthaud.</li>
+<li>Le Corbusier (1995). Vers une architecture. Paris:</li>
+<li>Flammarion.</li>
+<li>Lukacs, G. (1967). Estética. México: Grijalbo.</li>
+<li>Souriau, E. (1990). Vocabulaire d&#x27;esthétique. Paris: PUF.</li>
+<li>Schiller, F (1997). Du Sublime. Arles: Sulliver.</li>
+<li>Wind, E. (1988). Chapter &#x27;Art et anarchie&#x27;. Art et anarchie. Paris: Gallimard.</li></ol></div>
+<div class="article-divider" id="idc06-014">
+  <span class="id">idc06-014</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Living with Brasilia</div>
+<div class="article-subtitle">a resident&#x27;s perspective of the confrontation between heroic vision and social reality</div>
+<div class="authors">
+  <span class="author">Rosane Bauer</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 4 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">City; citizenship; aesthetics; urbanism; art</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (23)</span><ol><li>Argan, G.C. (1989). Botticelli. Genêve: Skira.</li>
+<li>Costa, L. (1962). Sobre arquitetura. Porto Alegre:</li>
+<li>Costa, L. (1991). &#x27;Relatério&#x27;. Brasília, cidade que inventei. Brasilia: Ed. GDF.</li>
+<li>Edict of Chandigarh. ANQ - Architectura &amp; natura quar- terly, Amsterdam: Architectura &amp; Natura, s/d. p. 25.</li>
+<li>Jauss, H.R. (1978). Pour une esthéthique de la réception. Paris: Gallimard.</li>
+<li>Ferry, L. (1990). Homo Aestheticus. Paris: Grasset.</li>
+<li>Ferry, L. (1998). Le Sens du Beau. Paris: Cercle d&#x27;Art.</li>
+<li>Ferry, L. (1996). Lhomme Dieu. Paris: Grasset.</li>
+<li>Frampton, K. (1997). Le Corbusier. Paris: Hazan.</li>
+<li>Gorovitz,M. (1985). Brasília, uma questão de escala. S.Paulo, Projeto.</li>
+<li>Gorovitz, M. (1991). &quot;Unidade de vizinhança marca o modo de vida brasiliense&quot;. Revista da Codeplan, Brasília, nº 1, pp 45-52.</li>
+<li>Kant, E. (1990). Observations sur le sentimentdu  beau et du sublime. Paris: Flammarion.</li>
+<li>Le Corbusier (1951). Conference de presse. Paris:</li>
+<li>Fundação Le Corbusier.(manuscript).</li>
+<li>Le Corbusier (1953). Oeuvre complête. Zurique:</li>
+<li>Girsberger.</li>
+<li>Le Corbusier (1980). Urbanisme. Paris: Arthaud.</li>
+<li>Le Corbusier (1995). Vers une architecture. Paris:</li>
+<li>Flammarion.</li>
+<li>Lukacs, G. (1967). Estética. México: Grijalbo.</li>
+<li>Souriau, E. (1990). Vocabulaire d&#x27;esthétique. Paris: PUF.</li>
+<li>Schiller, F (1997). Du Sublime. Arles: Sulliver.</li>
+<li>Wind, E. (1988). Chapter &#x27;Art et anarchie&#x27;. Art et anarchie. Paris: Gallimard.</li></ol></div>
+<div class="article-divider" id="idc06-015">
+  <span class="id">idc06-015</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">What do we really know about Brasilia? Misleading and prejudice in canonical books</div>
+<div class="authors">
+  <span class="author">Ruth Verde Zein <span class="orcid">&#x2B21; 0000-0003-0923-4914</span></span>
+  <span class="author">Ana Gabriela Godinho Lima <span class="orcid">&#x2B21; 0000-0003-2529-0596</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 4 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Brasilia; modernist city; production of space; appropriation</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-016">
+  <span class="id">idc06-016</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">A legal system for urbanism</div>
+<div class="article-subtitle">the Modern Movement&#x27;s unseen face</div>
+<div class="authors">
+  <span class="author">Sarah Feldman</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (13)</span><ol><li>Arquitectura. In EL LISSITZKY.1929. La Reconstruccion</li>
+<li>| Ernst May, Le Corbusier, and Victor Bourgeois also de la Arquitectura en la URSS. Barcelona: Editorial presented works at CIAM II. Gustavo Gili. 1970</li>
+<li>Other works were presented by Boehm and Kaufmann,</li>
+<li>SERT, José Luis.(1937) 5º Congrês de Paris. Logis et</li>
+<li>Richard J. Neutra, and K. Teige.</li>
+<li>Loisirs. Rapport nº 2. Cas d&#x27;Application: Villes. Paris:</li>
+<li>Prestes Maia&#x27;s proposed zonal regime is part of the</li>
+<li>Henri Jourde, maftre imprimeur technical memorandum accompanying the city plan.</li>
+<li>(1942) Can Our Cities Survive? An ABC</li>
+<li>His notes were not passed as town legislation. of Urban Problems, Their Analysis, Their Solutions. Cam-</li>
+<li>On American influence in the construction of zoning bridge: The Harvard University Press in Brazil and decline in the importance of plan, see</li>
+<li>Feldman (1997)</li>
+<li>CORREIA LIMA, Attílio( 1935) Plano Diretor de Goiânia.</li></ol></div>
+<div class="article-divider" id="idc06-017">
+  <span class="id">idc06-017</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Architectural and social modernity</div>
+<div class="article-subtitle">the image of Brasilia in the European movies</div>
+<div class="authors">
+  <span class="author">Márcio Campos <span class="orcid">&#x2B21; 0000-0001-7409-3228</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="article-warnings">
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (574 chars), possível concatenação: &quot;The image of Brasilia acterize what he defines as modernism of underde- velopmen...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (636 chars), possível concatenação: &quot;The last of the great successful Brazilian movies, for its incapacity of alone b...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (691 chars), possível concatenação: &quot;Brazilian modern architecture. This architectural scen- tions, which for Berman ...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (561 chars), possível concatenação: &quot;Brazilian capital. On one hand, using cinema, the most representative medium of ...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (964 chars), possível concatenação: &quot;Castro from be murdered by the bandits, who rob his statue. In the sequence Agne...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (747 chars), possível concatenação: &quot;Brasilia, the hero is involved in weapon smuggling once weapons were in the lorr...&quot;</small><br>
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (2563 chars), possível concatenação: &quot;It is possible to clearly identify easily with the Freddy the German films here ...&quot;</small><br>
+</div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (61)</span><ol><li>COSTA, Lucio (1956) Relatório do Plano Piloto de</li>
+<li>AYMONINO, Carlo (1973) La Vivienda Racional. Brasília, in Módulo,n.18, junho/1960 Barcelona: Gustavo Gili</li>
+<li>PRESTES MAIA, Francisco (1952) Relatório -Projeto para</li>
+<li>CIAM (1933) ‘The Town Planning Charter’. In SERT a cidade Panorama (1942)</li>
+<li>VIEIRA, Jorge de Macedo (1938) Memorial- “Águas</li>
+<li>CIAM (1954) La Carta de Atenas. Buenos Aires:</li>
+<li>Sulfídricas e Termais de São Pedro S/A&quot;</li>
+<li>Contempora</li>
+<li>FELDMAN, Sarah (1999) Avanços e Limites na</li>
+<li>Historiografia da Legislação Urbanística no Brasil. Anais LAWS do VIII Encontro Nacional da ANPUR. PROPUR/UFRGS Decreto Municipal 374, de 12 de agosto de 1936 -</li>
+<li>Regulamento de Construções dee Recife (1997) O Zoneamento Ocupa o Lugar do Plano: São Paulo, 1947-1961 in Anais do VII</li>
+<li>Decreto 6000, de 1 de julho de 1937 —Cédigo de</li>
+<li>Encontro Nacional da ANPUR -Associação Nacional Obras do Distrito Federal (Rio de Janeiro) de Pós-Graduação e Pesquisa em Planejamento</li>
+<li>Lei n.196 de 23/7/1937- Normas gerais para</li>
+<li>Urbano, ANPUR, Recife regulamentação de Construções — Goiânia ee and CHIQUITO, Elisângela(1998)</li>
+<li>Lei n.133/1951- Londrina</li>
+<li>Legislação Urbanística e Cidades Planejados (1930-</li>
+<li>Decreto n.7 de 12/6/1960 — Normas para Construções</li>
+<li>Engenheiros e Urbanistas e o Debate Sobre Legislação em Brasília</li>
+<li>Urbanística no Brasil1930-1964 Relatório de Iniciação</li>
+<li>GIEDION, Siegfried (1929) ‘Los Congresos Inter- KEYWORDS nacionales de Arquitetura Moderna’. in AYMONINO, legislation, urbanism, Modern Movement, Brasilia.</li>
+<li>Carlos (1973) (1951) A Decade of New Architecture.</li>
+<li>Sarah Feldman. Architect and planner: Profes-</li>
+<li>Zurich: Editions Girsberger sor and researcher at Departamento de Arquitetura</li>
+<li>GOLD, John R ( 1997) The Experience of Modernism.</li>
+<li>Modern Architects and the Future City. London: E &amp; FN e Urbanismo da Escola de Engenharia de São</li>
+<li>SPON Carlos/Universidade de São Paulo (EESCUSP) -Bra-</li>
+<li>GROPIUS, Walter (1929) ’ Los Fundamentos Socio- zil. Engaged in researches on the history of urban logicos de la Vivienda Minima ( para la población obrera legislation in Brazil with many papers published. de la ciudad)’. in AYMONINO, Carlo(1973) (1930)&quot;Construcción baja, media o alta?” in AYMONINO, Carlo(1973)</li>
+<li>LE CORBUSIER y JEANNERET, Pierre (1929) Analisis de los Elementos Fundamentales en el Problema de la</li>
+<li>Vivienda Minima, in AYMONINO, Carlo(1973)</li>
+<li>LE CORBUSIER( 1930) “La parcelación del suelo en las ciudades in AYMONINO, Carlo(1973) 82</li>
+<li>Marcio Correia Campos</li>
+<li>Northeast hinterland and by the Rio de Janeiro city, shows a serious misunderstanding of the non-lin- earity of modernity, as Marshall Berman presents it in his work “All That Is Solid Melts Into Air”, when specifically analyzing the modernism of the periph- ery, beginning with the literature on Petersburg and its social history. He states that the meanings of modernity in Petersburg that come from the “shock and (...) interaction of experiments of moderniza-</li>
+<li>Architectural and tion in both top and base” (Berman, 1986:269), social modernity: “had to be more complex, paradoxical and indefi- nite” (Berman, 1986:169). Berman is trying to char-</li>
+<li>The image of Brasilia acterize what he defines as modernism of underde- velopment. In opposition to an experience of a in two European modernized reality of the developed nations; the modernism of Petersburg “emerges from hardship movies and underdevelopment” and, for this reason, “it is forced to be construed of fantasies and dreams of modernity, to be nourished of an intimacy and fighting against mirages and phantoms. To be truthful in relation to the life from which it emerges, it is forced to be strident, harsh and incipient. It folds on itself and tortures itself</li>
+<li>The last of the great successful Brazilian movies, for its incapacity of alone building a history, or it “Central do Brasil” (English version Central Station, launches in extravagant tentativeness of absorbing 1998) by Walter Salles, shows the Brazilian architec- all the burden of history. It beats itself in frenzies tural image of the forties and the fifties in a way that of self-aversion and preserves itself only through somehow has not pleased admirers of modern archi- vast reserves of self-irony” (Berman, 1986:220). tecture, as we here gathered. Narrating a story of two characters who leave the urban life, which is portrayed</li>
+<li>Berman himself suggests that the process of mod- as savage and rotten, in order to find lost human val- ernization in Petersburg “may offer cues to some of ves in a rural and pure space, the movie adopts an the mysteries of the political and spiritual life of the anti-modern and conservative perspective, as pointed third world cities — Lagos, Brasilia, New Delhi, out by Olavo de Carvalho (Carvalho, 1999:34-38).</li>
+<li>Mexico City — nowadays” (Berman, 1986:269).</li>
+<li>The journey from Rio de Janeiro to Brazil&#x27;s Northeast</li>
+<li>Who definitely has not followed these clues indi- interior starts in the Pedregulho housing project, de- cated by Berman was James Holston, who, in his signed by Affonso Eduardo Reidy. This building repre- book “A Modernist City A Criticism of Brasilia and sents till nowadays the required social commitment of its Utopia”, identifies all the paradoxes and distor-</li>
+<li>Brazilian modern architecture. This architectural scen- tions, which for Berman are foundational part of ery is just the headquarters of organ traffic dealers, this sort of modernizing process, as problems and who had bought the boy, the story’s hero. The boy is accidents that make the utopia not working. Believ- kept captive just in this building, which is undoubtedly ing in the possibility of a homogeneous and entire associated with an existential void and with the ab- modernity that inflexibly establishes itself and based sence of a moral fiber in urban life. This sequence of on a questionable unified vision of the Modern the film could be interpreted as follow: the first step in</li>
+<li>Movement in architecture, that, for example does finding again basic human values and national iden- not distinguishes between the modern architectural tity, which were both destroyed by the big contempo- history of the twenties in Germany from the fifties in rary metropolis, requires running away as fast as pos-</li>
+<li>Brazil, Holston does not perceive nuances that put sible from this modern architecture, the evil dwelling. in question his polarized position and ends linking</li>
+<li>Revolution communist ideals. Holston even says that aspirations between which modern architecture in Bra- for these architects the Brazilian modern architec- zil has oscillated. ture represented a rupture with the colonial past</li>
+<li>The extremely simple duality between good and (Holston, 1993:81; 103-105;174). Summarizing, the evil in the story, spatially represented by the what for Berman is the moving force of this moder- 83 nity, the confrontation between its phantasms and collapse of the cavern where the gang’s leader had their appropriation, is for Holston its failure. just discovered the treasure, killing him. The last</li>
+<li>By trying to identify in narratives about Brasilia scene in Brazil, showing the couple running away some of the themes aroused by Berman in his analy- from the forest, shakes and explosions, reveals that sis on Petersburg,</li>
+<li>Brazilian capital. On one hand, using cinema, the most representative medium of 20th century com- The film’s characters remain all the time foreign- munication, this object of study can be understood ers passing rapidly through the country and in Brasilia as an actualization of the use of literature to the the mutual influence between the story and the so- study of the modernization of Petersburg in 19th cial space is minimum, limited to a social gathering offered by De Castro. The architectural modernity century. On the other hand, even if the history of</li>
+<li>The film “LHomme de Rio”, a French-ltalian co- a radically different urban space — one futuristic and production of 1963, which was directed by Phillipe indecipherable. de Broca and featured by Jean-Paul Belmondo and However more important to our analysis is trying</li>
+<li>Françoise Dorleac, is a typical film of adventure that, to understand the function performed by the charac- not without irony, follows the patterns of James ter De Castro: a powerful person, nice and of “Latin spirit”, a macho in terms of the way he treats his wife</li>
+<li>Agnes’ father lives, Mr. De Castro, who had in the “Audácia, Pessoal!</li>
+<li>De Castro not only owns one of the sculptures, he is these flats are the wings of a butterfly.” also one of the builders of the new capital. The This discourse, typical of the modern architects of couple, however, do not menage to prevent De the twenties, was radical. Now it is easily repeated by this so conservative character. In this moment all the</li>
+<li>Castro from be murdered by the bandits, who rob his statue. In the sequence Agnes is kidnapped again paradoxes of this “Modernity from top to bottom” and taken to the Amazonas state. Adrien takes an are explained: its promoter is all but revolutionary or airplane in the Paranoá lake and falls by parachute committed; he is a great entrepreneur from Rio de in the middle of the Amazonian forest, but he soon Janeiro, somebody who is really committed to the localizes the gang in Manaus’. Hidden inside the establishment and the hierarchy, who is a typical ex- boat which took them to the place where the three ample of the country’s older social order. sculptures would reveal a diamond treasure, Adrien The film, a French-ltalian production directed to rescues Agnes while consecutive shakes cause the the international public, uses a last subtle point in 84 order to reinforce the specificity of the character De the State and thinks about going back to Salvador</li>
+<li>Castro, which is only clear to the spectator who and adopting the girl.</li>
+<li>However, Anita and Jane are knows Brasilia or Rio de Janeiro. The shots of the already in front of the Federal Supreme Tribunal building site as well as the ones of De Castro’s pri- waiting for him. From there the three arrive in the vate residence were filmed in the spaces of Rio de Praça dos Três Poderes as a new family in the new</li>
+<li>Janeiro Modern Art Museum, designed by Affonso city, this is the scene that ends the film.</li>
+<li>The second film, “Weit ist der Weg” (Long is the lished. Thus, in Salvador the hero is a dweller of a way) is a German production of the early sixties di- favela; there is no public health system except the rected by Wolfgang Schleif and featuring Freddy orphanage headed by catholic sisters, there is no</li>
+<li>Quinn and Ingeborg Schôner. It tells the story of a opportunity for getting jobs, and the city lacks po- fisherman, who lives in Salvador and befriends at lice service and transportation system. lts inhabit- the same time Jane, a homeless girl, who becomes ants are all the time singing and dancing, while in attached to him calling him “daddy”, and a medi-</li>
+<li>Arriving in the Brazilian central highland Freddy “Miro,</li>
+<li>Brasilia, the hero is involved in weapon smuggling once weapons were in the lorry which he was driv- the not-modern universe of traditional Brazilian cit- ing. He is arrested by the police who soon after are ies — the informal commerce done in the streets and convinced of his innocence and releasing him. He the organized crime — all clearly show that the di- than heroically saves Anita, who is in danger inside mension of life transformation of that group is di- a mobile X-rays vehicle which is in the middle of a minished and that the chances of access to the fire caused by the gang in the savanna. Once he spaces effectively modern of the new capital remain has saved Anita, he receives his savings back from reduced, almost nonexistent. 85</li>
+<li>It is possible to clearly identify easily with the Freddy the German films here studied* . On the other hand, if one compares Freddy to the first “common man” character, the figure of the “common man” who fights for his rights to face the phantasm of moder- of Petersburg, Evgeni from the “Chevalier of Bronze”, nity that imposes itself from top to button, a figure poem by Alexander Puschkin, who became crazy as that Berman identifies as elementary in the moder- he faced one of the city’s phantasms, the hero of the German production has a slightly more opti- nity of Petersburg. Dreaming of going to the new capital in order to transform his life, Freddy first works mistic end. constructing new roads, later in the Cidade Livre, If we try to further this question to a real discus- having access to the Plano Piloto only when he is sion about the evaluation of Brasilia in the history arrested by the police. Until this moment, the few of Modern architecture, it seems possible to say that images of the Plano Piloto buildings always appeared Brasilia appropriated the image of modernism which in the background, somehow blurred, almost mi- was “available” when the city was built to itself. The rages, to use a term borrowed from Berman. The difficulties of this appropriation are connected to final scene, showing the three main characters walk- two different aspects. First, the role which Brazilian ing through the Praça dos Três Poderes, clearly in- modern architecture played within the Modern dicates that the “common man” conquered his right Movement in relation to the aesthetic “dead end” to the modernity proclaimed by the buildings of that of the years following the Second World War: at city, that finally he has tamed the phantasms. The this time, the production of architects like Niemeyer, architectural modernity here became a lived space, Costa or Reidy was considered by some as some- one that may eventually indicate a social moder- thing new which could overcome the architecture nity*, even if in a very elitist mode because it is re- built in Europe and the United States between the served only to a hero but not to the thousands of two wars and by others as a force which could give the Cidade Livre inhabitants, who due to the restric- a fresh impetus to the modern architecture of the tions imposed on the Federal District population, “great masters”. Second, due to its way of produc- were forced to live in the satellite-cities. tion, i. e. as an example of a modernism of under- development, or “from the top to the bottom”, the</li>
+<li>On one hand, the discourse present in both mov- perhaps only visionary, potential which constitutes ies examined here shows in several moments that the city’s image. the understanding of the construction of the Brazil-</li></ol></div>
+<div class="article-divider" id="idc06-018">
+  <span class="id">idc06-018</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Brasilia reproduced as backdrop</div>
+<div class="authors">
+  <span class="author">Sunil Bald</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Brasilia Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Brasília; Movies; Modern Urbanism; Aesthetics of Reception</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (32)</span><ol><li>Berman, Marshall (1982). All That Is Solid Melts Into Air: The Experience Of Modernity. New York: Simon and</li>
+<li>Schuster. (Port.: (1986). Tudo que é sólido desmancha no ar: a aventura da modernidade. São Paulo:</li>
+<li>Companhia das Letras.)</li>
+<li>Carvalho, Olavo de (1999). O Elogio da Compaixão.</li>
+<li>In Bravo 19, Ano Il, pp. 34-38, São Paulo: Abril.</li>
+<li>Holston, James (1993). A Cidade Modernista Uma</li>
+<li>Crítica de Brasília e sua Utopia. São Paulo: Companhia das Letras.</li>
+<li>FILMOGRAPHY</li>
+<li>Central do Brasil (1998). Dir. Walter Salles. Perf.</li>
+<li>Fernanda Montenegro, Marília Pêra, Vinícius de</li>
+<li>Oliveira, Sônia Lira.</li>
+<li>UHomme de Rio (1963). Dir. Phillipe de Broca. Perf.</li>
+<li>Jean-Paul Belmondo, Françoise Dorleac, Jean Servais,</li>
+<li>Simone Renant.</li>
+<li>Weit ist der Weg (1960). Dir. Wolfgang Schleif. Perf.</li>
+<li>Freddy Quinn, Ingeborg Schôner, Ann Savo, and Leon</li>
+<li>Appadurai, A. (1997). Modernity at Large: Cultural Di- mensions of Globolization. Minneapolis: University of</li>
+<li>Minnesota Press.</li>
+<li>Bald, S. (2000). “Challenging the Nation-State at the</li>
+<li>Carmen Miranda Museum,” in Rice, C. ed. Double Frames. Sydney: University of New South</li>
+<li>Bataille, G. (1971). Oeuvres Completes. Paris:</li>
+<li>Gallimard.</li>
+<li>Bryan, R. (1996). “Reviving the Look of the Future,” The</li>
+<li>New York Times Magazine, 24 March 1996. New York.</li>
+<li>Costa, L. (1957). “Plano Piloto do Brasilia,” Modulo, no. 18. Rio de Janeiro.</li>
+<li>DaMatta, R. (1990). Carnavais, Malandros, e Herois,</li>
+<li>Sth ed. Rio de Janeiro: Ed. Guanabara.</li>
+<li>Lispector, C. (1989). The Foreign Legion. Minneapolis:</li>
+<li>University of Minnesota Press.</li>
+<li>Niemeyer, O. (1959). “Form and Function in Architec- ture,” Modulo, no. 21. Rio de Janeiro.</li>
+<li>Tafuri, M. (1979). Architecture and Utopia. Cambridge:</li>
+<li>MIT Press.</li></ol></div>
+<h2 class="section-heading">History &amp; Theory Session (5)</h2>
+<div class="article-divider" id="idc06-019">
+  <span class="id">idc06-019</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Buildings building the city</div>
+<div class="article-subtitle">São Paulo in the Fifties</div>
+<div class="authors">
+  <span class="author">Carlos Alberto Ferreira Martins <span class="orcid">&#x2B21; 0000-0003-4321-2057</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">History &amp; Theory Session</span> · 16 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-020">
+  <span class="id">idc06-020</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Ancient and modern cities in the work of Constantine Doxiadis</div>
+<div class="authors">
+  <span class="author">Panayotis Tournikiotis</span>
+</div>
+<div class="meta-bar"><span class="section-tag">History &amp; Theory Session</span> · 11 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Doxiadis; Constantinos; Greece (ancient); Islamabad</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-021">
+  <span class="id">idc06-021</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Brazil in Modern Architectural Handbooks</div>
+<div class="authors">
+  <span class="author">Nelci Tinem <span class="orcid">&#x2B21; 0000-0003-3202-0906</span></span>
+  <span class="author">Lucia Borges <span class="orcid">&#x2B21; 0000-0001-8978-4048</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">History &amp; Theory Session</span> · 10 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Brazilian modern architecture; modern architectural handbooks; modern architecture historiography</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (21)</span><ol><li>ROGERS, E. (1954b). ‘Polemica per una polemico’. &quot;Office Building in Brazil’ (1943). Architectural Forum</li>
+<li>Casabella 201, 05: 02, 02: 37-44 33 ROGERS, E. (1954c). ‘Lettere al direttore’. Cosabella 2 ‘Brazil’ (1947). Architectural Forum 05, 11: 65-117 201, 05: 34 ROGERS, E. (1954d). ‘Report on Brazil’. Architec- 3 ‘Brazil’ (1944) Architectural Review 567, 03: 58-82 tural Review, 116, 10: 4 ARGAN, G. C. (1954). ‘Architettura Moderna in</li>
+<li>Brasile”. Comunitá 24, 04: 35 SARTORIS, A. (1931). Gli elementi dell’architettura funzionale. Milan, Ulrico Hoepli 5 ARGAN, G. C. (1971). LArte Moderna 1770-1970.</li>
+<li>Firenze, Sansoni, 1º edition 36 SARTORIS, A. (1950). Storia dell’Architettura</li>
+<li>Moderna. Torino, Giulio Einaudi 6 BENÉVOLO, L. (1960). Storia dell’Architettura</li>
+<li>Moderna. Bari, Laterza, 1* edition 37 SCALVINI, M. L. (1984). immagine storiografia 7BILL, M. (1954a). ‘Lettere al direttore’. Casabella 201, dell’architettura contemporanea da Platz a Giedeon. 05: Il Roma, Officina Edizioni 38 TAFURI, M. &amp; DAL CO, F. (1976). Architettura 8 BILL, M. (1954b). ‘Report on Brazil’ Architectural Re-</li>
+<li>Contemporanea. Venecia, Electa Editrice view 116, 10:. 234/250. 3? TAFURI, M. (1984). ‘El proyecto histórico”. La esfera 9 Bo Bardi, L. (1991). Catálogo Tintas Suvinil. São Paulo y el labirinto. Barcelona, Gili 10 BONTA, J. P (1977). Sistemas de Significación en 117 40 VEYNE, P (1982). Como se escreve a historia. Fou- cault revoluciona a historia. Brasilia, UnB. 4) ZEVI, B. (1950). Storia dell’Architettura Moderna.</li>
+<li>Torino, Giulio Einaudi, 1º edición 42 ZEVI, B. (1954). ‘La moda lecorbuseriana in Brasile:</li>
+<li>Max Bill apostrofa Oscar Niemeyer’ (02/11/1954).</li>
+<li>Cronache di Architettura | 1954/1955 Bari, Laterza, 1971 43 ZEVI, B. (1955) ‘Incontro con Oscar Niemeyer. Nau- sea dell’abbondanza brasiliana’ (26/04/1955).</li>
+<li>Cronache di Architettura | - 1954/1955 (1/72). Bari,</li>
+<li>Laterza, 1971.. 44 ZEVI, B. (1973). Storia dell’Architettura Moderna.</li>
+<li>Torino, Giulio Einaudi number _ subjet assunto From 1,2,3</li>
+<li>The Crystal House and the São Paulo Art Museum by Lina Bo A Casa de Vidro e o Museu de Arte de São Paulo de Lina Bo</li>
+<li>Art Museum of Rio de Janeiro by Affonso Eduardo Reidy are Museu de Arte Moderna do Rio de Janeiro são exemplos da AA 54 may/jun 1954 examples of these two Brazilian modem architecture obra dessas duas figuras importantes na arquitetura modema important personalities work. brasileira. 9,10 The Maternity Hospital by Rino Levi and the Itápolis House by O Hospital Maternidade de Rino Levi e a Casa Itápolis de AF nov 1947</li>
+<li>Station by João Batista Vilanova Artigas were forgotten too. Rodoviária de Londrina de João Batista Vilanova Artigas foram igualmente esquecidas. 15,16, Three images are spread out in all of modern architecture Três imagens aparecem em todos os manuais de arquitetura AF feb 1943 7 handbooks: The Education Ministry by Costa, Niemeyer, moderna: o Ministério da Educação de Costa, Niemeyer, AA 06 dec 1946</li>
+<li>Reidy, Moreira, Leão, Vasconcelos, the Pampulha Chapel by Reidy, Moreira, Leão, Vasconcelos; a Capela de Pampulha de AA 42/43 aug 1952</li>
+<li>Railroad Station office by Reidy Educação, a Associação Brasileira de Imprensa e o edifício da</li>
+<li>Esplanade of Ministries by Frampton. e a Esplanada dos Ministérios por Frampton. 32,33 As examples of a exaggerated formalism, Max Bill quotes the Como exemplos de um formalismo maneirista, Mox Bill citaa Mindlin, 1956</li>
+<li>Tiennrreeeerr é</li>
+<li>IUeeeeeeneTeTT re 121 122</li></ol></div>
+<div class="article-divider" id="idc06-022">
+  <span class="id">idc06-022</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Matrix of Man</div>
+<div class="authors">
+  <span class="author">Hilde Heynen <span class="orcid">&#x2B21; 0000-0002-3920-4890</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">History &amp; Theory Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-023">
+  <span class="id">idc06-023</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">About the teaching of theory and history of Modern Architecture</div>
+<div class="article-subtitle">for the dissemination of new notions and conceptions</div>
+<div class="authors">
+  <span class="author">Pasqualino Romano Magnavita <span class="orcid">&#x2B21; 0000-0002-9571-5775</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">History &amp; Theory Session</span> · 9 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (18)</span><ol><li>Benjamin, Andrew. (1989). Deconstruction. N.Y.: Rizzoli.</li>
+<li>Deleuze, Gilles; Guattari, Felix. (1996). Mil Platôs. Rio de Janeiro: Ed.34, vol.1.</li>
+<li>Deleuze, Gilles. (1998). Diferença e Repetição. São Paulo: Graal.</li>
+<li>Foucault, Michel. (1987). Arqueologia do Saber. Rio de Janeiro: Forense Universitário.</li>
+<li>Grau, Cristina. (1995). Borges y la arquitectura. Madrid: Cátedra.</li>
+<li>Heisenberg, Werner. (1995). Física e Filosofia. Brasília: ed. UnB.</li>
+<li>Jameson, Fredric. (1985). Il Post Moderno o La Logica del Tardo Capitalismo. Milan: Garzanti.</li>
+<li>Jencks, Charles. (1989). Arquitectura Internacional — Últimas tendências. Barcelona: Gili.</li>
+<li>Lissitzky, Christine. (1990). El Constructivismo Russo. Madrid: Alianza Forma.</li>
+<li>Mandelbrot, Benoit. (1983). The Fractal Geometry of Nature. N.Y.: Freeman.</li>
+<li>Puppi, Marcelo. (1998). Por uma História não moderna da Arquitetura Brasileira. Campinas: Pontes/CEPAV/IFCH.</li>
+<li>Rossi, Aldo. (1982). L&#x27;architettura della città. Padua: Ed. Marsilio. 2a. ed.</li>
+<li>Tafuri, Manfredo. (1972). La Sfera e il Labirinto. Turin: Einaudi.</li>
+<li>Venturi, Robert. (1977). Complejidad y Contradiccion en la arquitectura. Barcelona: Gili.</li>
+<li>Venturi, Robert; Scott Brown, Denise; Izenour, Steven. (1995). Learning from Las Vegas. Cambridge: MIT Press.</li>
+<li>Virilio, Paul. (1969). O espaço crítico. Rio de Janeiro: ed. 34.</li>
+<li>Virilio, Paul. (1995). A arte do Motor. São Paulo: Ed. Lorentini.</li>
+<li>Zevi, Bruno. (1961). Architecture in nuce. Madrid: Aguilar.</li></ol></div>
+<h2 class="section-heading">Housing Session (6)</h2>
+<div class="article-divider" id="idc06-024">
+  <span class="id">idc06-024</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Housing Session Report, by the Chair</div>
+<div class="authors">
+  <span class="author">Miles Glendinning <span class="orcid">&#x2B21; 0000-0001-5512-5597</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 2 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-025">
+  <span class="id">idc06-025</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Fifty years after the INA-Casa</div>
+<div class="authors">
+  <span class="author">Paola Di Biagi</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="article-warnings">
+  <span class="validation-badge warning">A11</span> <small>Ref muito longa (1011 chars), possível concatenação: &quot;Ina-Casa, Staderini, Roma 1963. borhoods produced by the Ina-Casa Plan, are they...&quot;</small><br>
+</div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (22)</span><ol><li>Ina-Casa, Staderini, Roma 1963. borhoods produced by the Ina-Casa Plan, are they - Piano incremento occupazione operaia. Case per to be considered as a group of patrimonial subjects lavoratori, 1 Suggerimenti, norme e schemi per la for which to define policies for intervention and pro- elaborazione e presentazione dei progetti, Roma 1949. tection coordinated on a national level? Should the - Piano incremento occupazione operaia. Case per great variety of projects built (of which a census must lavoratori, 2 Suggerimenti, esempi e norme per la be taken, how many and where?) be considered as progettazione urbanistica, Roma 1950. a set of distinct blocks, at the same time belonging - G. Astengo, “Nuovi quartieri in Italia”, Urbanistica, 1951,n.7. to a single unitary constellation, representing the result of the same plan, implemented in a circum- lang2057 - P Di Biagi (edited by), La grande ricostruzione. Il piano Ina-Casa e I’Italia degli anni ‘50, scribed period? In this sense what would constitute</li>
+<li>Donzelli, Roma 2001. the minimum common denominator to be identi- - J. Le Goff, “Monumento/Documento” Enciclopedia fied as the basis for a unitary national policy of pro- Einaudi vol. 5, Einaudi, Torino 1978. tection? Or, on the contrary, should rehabilitation - M.</li>
+<li>Guillame, La politique du patrimoine, Galilée, Paris and protection policies be defined locally, given that 1980. each neighborhood belongs much more to a local — A. Bourdin, “Sur quoi fonder les politiques du urban and social history than to other more com- patrimoine urbain?”, Les Annales de la Recherche</li>
+<li>Urbaine, 1996, n. 72 prehensive histories? 143 - F Choay, Vallegorie du patrimoine, Editions du Seuil,</li>
+<li>Paris 1992. - Les Annales de la Recherche Urbaine, 1996, n. 72,</li>
+<li>Patrimoine et modernité. - O. Sôderstrôm, Les métamorphoses du patrimoine.</li>
+<li>Formes de conservation du construit et urbanité, Tesi di dottorato, Universita di Losanna, Losanna 1992. A Falchera</li>
+<li>Torino, Falchera Area, 1950-52, G. Astengo (u), S. Molli Boffa, M.</li>
+<li>Passanti (c), N. Renacco, A. Rizzotti; E.G. Sottsass (c), G. Becker, G.</li>
+<li>Fasana, N. Grassi, M. Oreglia, P Perona, A. Romano.</li>
+<li>Fig. Al- General Plan</li>
+<li>FALCHERA CENTRO i &quot;tutto Te farsa» ! 14 Avjoo iz wa aaa ! de</li>
+<li>Fig. A3 — Central Square 144</li>
+<li>Fig. A2 — Aerial View Fig. A4 — Central Square sao ee</li>
+<li>Fig. A5 — Historical Photos Fig. Aó — Historical Photos j x</li>
+<li>Fig. A8 — Historical Photos 145 B Genova</li>
+<li>Genova, Forte Quezzi Area, 1956-1957, L.C. Daneri (c), L. Grossi</li>
+<li>Bianchi, V. Oddi, F Surace, G. Zappa; E. Fuselli (c), R. De Maestri, G. Fortunato, G. Gaggero, M. Innocenti; C. Andreani (c), G. Caioli, D. Corte, O. Matelli, M. Tavoletti, P Tessiore; R. Morozzo Della</li>
+<li>Rocca (e), M. Braccialini, G. Cotroneo, M. Dasso, D. Datta, A.</li>
+<li>Spina; M. Poteri (c), V. Ghiglione, E. Loi, M. Loi, M. Testoni; G.F</li>
+<li>Pulitzer (c), E. Arnaldi, A. Guerello, G. Pazzi; A. Sibilla (c), E.</li>
+<li>Magnani, A. Sibilla, V. Esposti 1 2-3-4-5 Historical Photos 6-7 Drafts of the Church</li></ol></div>
+<div class="article-divider" id="idc06-026">
+  <span class="id">idc06-026</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Modern City as a tool of russification</div>
+<div class="article-subtitle">Estonian experience</div>
+<div class="authors">
+  <span class="author">Mart Kalm</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Housing; russification; colonisation; immigration; culture conflicts</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-027">
+  <span class="id">idc06-027</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The heritage of the Grands Ensembles</div>
+<div class="authors">
+  <span class="author">Philippe Panerai</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">France; Grands Ensembles</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-028">
+  <span class="id">idc06-028</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">A la recherche de la maison moderniste perdue</div>
+<div class="authors">
+  <span class="author">Sonia Marques</span>
+  <span class="author">Edja Trigueiro <span class="orcid">&#x2B21; 0000-0003-2847-5326</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 10 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Modernist house; Change and continuity; Space configuration</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (28)</span><ol><li>Amorim, L.M.E. (1999). ‘The sectors’ paradigm: a study of the spatial function and nature of modernist housing in Northeast Brazil’. Doctoral thesis, University College</li>
+<li>Hanson, J. (1992). ‘Tradition and Experimentation in</li>
+<li>Housing and Neighbourhood Design’ in Proceedings of Prospects on Housing Policy and Technology Devel- opment for the 21st Century, Korea, pp.139-186.</li>
+<li>Hanson, J. (1998). Decoding homes and houses. Cam- bridge University Press.</li>
+<li>Hillier, B. &amp; Hanson, J. (1984) The social logic of space.</li>
+<li>Cambridge University Press.</li>
+<li>Holanda, F. (1999). ‘Sintaxe de uma casa-átrio moderna’, paper presented at DOCOMOMO, Sao Paulo, mimeo.</li>
+<li>Loureiro, C e Marques, S. (1999). ‘Morar novo, cenário antigo’, paper presented at ANPUR, Porto Alegre, mimeo.</li>
+<li>Marques, S. (1994). ‘Arquitetura Brasileira. uma pós/ modernidade mais do que contraditória”, paper pre- sented at ANPOCS, Caxambu, mimeo.</li>
+<li>Teles, V.M.M. (1999). “O grau de satisfação e as mudanças ocorridas no condomínio Leonardo da Vinci”,</li>
+<li>Specialisation Final Work, Natal, UFRN</li>
+<li>From the public space From the exterior trough all doors through the front door</li>
+<li>D - Dining room</li>
+<li>V -Visitor’s room</li>
+<li>T - social Terrace</li>
+<li>K — Kitchen</li>
+<li>B — Master bed</li>
+<li>Cp - “Copa”</li>
+<li>RUA ADAUTO CÂMARA</li>
+<li>RUA DO MOTOR</li>
+<li>RUA HENRY KOSTER Source: Galvão, V. C. et al. (2000)</li>
+<li>“Levantamento histórico das edificações”, Coursework, UFRN.</li>
+<li>RUA OLIVEIRA GALVAO (2) Source: Dantas, U. C. (2000)</li>
+<li>“Arquitetura modernista: um exemplar em Natal”.</li>
+<li>RUA JUNDIAÍ Source: Rodrigues, A. (1999)</li>
+<li>“Platibanda azul”, Coursework, UFRN</li>
+<li>RUA PINTO MARTINS</li>
+<li>AV. SILVIO PEDROSA Source: Guedes, A. A. et al. (1999)</li></ol></div>
+<div class="article-divider" id="idc06-029">
+  <span class="id">idc06-029</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Creating historic modern cities, by learning from modern historic cities</div>
+<div class="authors">
+  <span class="author">Paul Meurs</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Housing Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Public Space Session (7)</h2>
+<div class="article-divider" id="idc06-030">
+  <span class="id">idc06-030</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">SOS Berlin Alexander Platz</div>
+<div class="article-subtitle">the razing of DDR Modernism</div>
+<div class="authors">
+  <span class="author">Maria de Betania Cavalcanti-Brendle</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">politics; symbolism; cultural heritage; urban destruction; reconstruction</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (38)</span><ol><li>Demokratischen Republik. VEB Verlag fir Bauwesen</li>
+<li>Baumeister, Nicollete &amp; Bodenschatz, Harald &amp; Ginter,</li>
+<li>Angelika (1995) Das ehemalige Staatsratgebaude auf</li>
+<li>Senatsverwaltung fiir Bauen, Wohnen und Verkerhr. der Spreeinsel. In: Eine Zukunft fir das Ehemalige</li>
+<li>Bezirksamt Mitte von Berlin. (1997) Der Alexanderplatz</li>
+<li>Staatsratsgebáude! Berlin: Architektenkammer Berlin und die Alexanderstrasse. Berlin. and the Deutscher Werkbund Berlin.</li>
+<li>Senatsverwaltung fir Stadtentwicklung Berlin (2000)</li>
+<li>Beyme, Klaus &amp; Durth, Werner &amp; Gutschow, Niels &amp;</li>
+<li>Letter to the Author with the Report: Planungsgebiet</li>
+<li>Nerdinger, Winfrid &amp; Topfstedt (1992) Neue Stadte aus</li>
+<li>Alexanderplatz. Bebauungsplan | -B4a. Ziele, Inhalte der</li>
+<li>Ruinen. Deutscher Stadtebau der Nachkriegszeit. Prestel-</li>
+<li>Verlag. Múnchen. Planung, das Bebauungsplanverfahren und seine geplante Umsetzung. Berlin.</li>
+<li>Bodenschatz, Harald (1994) Baudenkmal in Gefahr.</li>
+<li>Topfstedt, Thomas (1988) Stadtbau in der DDR. 1955-</li>
+<li>Berliner Zeitung. 17.June. Berlin. 1971. VEB E.A. Seemann Verlag. Leipzig.</li>
+<li>Cavalcanti, Maria de Betânia Uchôa (1994) Urban</li>
+<li>Tscheschner, Dorothea (1994) Der Alexanderplatz. Seine</li>
+<li>Reconstruction and Autocratic Régimes: the Case of</li>
+<li>Entwicklung nach 1945. In: Alexanderplatz. Stadte-</li>
+<li>Bucharest. PhD Thesis at Oxford Brookes University. baulicher Ideenwettbewerb. Ernst &amp; Sohn. Berlin.</li>
+<li>Tscheschner, Dorothea (1993) Der Ideenwettbewerb zur</li>
+<li>Cavalcanti, Maria de Betânia Uchôa (1997) Urban sozialistischen Umgestaltung des Zentrums der</li>
+<li>Reconstruction and Autocratic Regimes: Ceausescu’s</li>
+<li>Hauptstadt der Deutschen Demokratischen Republik,</li>
+<li>Bucharest in its Historic Context. Planning Perspectives,</li>
+<li>Berlin. In: Hauptstadt Berlin - Wohin mit der Mitte. n.12, pp.71-109. E.&amp; FN Spon. London.</li>
+<li>Akademie Verlag. Berlin.</li>
+<li>Cavalcanti, Maria de Betânia Uchôa &amp; Brendle, Klaus</li>
+<li>Verein Entwicklungsgemeinschaft Alexanderplatz (1994) (1998) Transformações Urbanas e Arquitetônicas na</li>
+<li>Alexanderplatz. Stadtebaulicher Ideenwettbewerb. Ernst</li>
+<li>Alemanha Reunificada. Conference Proceedings of the &amp; Sohn. Berlin. V Seminário História da Cidade e do Urbanismo. PUC-</li>
+<li>Volk, Waltraud (1971) Berlin Hauptstadt der DDR.</li>
+<li>Historische Strassen und Plátze heute. Verlag fir</li>
+<li>Deutscher Bundestag. Baukomission des Altestenrates</li>
+<li>Bauwesen. Berlin. (1994) Lettert o Dr. Harald Bodenschatz. In: Eine Zukunft fir das Ehemalige Staatsratsgebaude ! Berlin: Weiss, Patrick (1994) Notes on the Competition Proce-</li>
+<li>Architektenkammer Berlin and the Deutscher Werkbund dure. In: Alexanderplatz. Stadtebaulicher Ideen-</li>
+<li>Berlin. wettbewerb. Ernst &amp; Sohn. Berlin. 172</li></ol></div>
+<div class="article-divider" id="idc06-031">
+  <span class="id">idc06-031</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Airport as city square</div>
+<div class="article-subtitle">Toronto, Edmonton and Winnipeg Airports, 1964</div>
+<div class="authors">
+  <span class="author">Bernard Flaman</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 5 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">politics; symbolism; cultural heritage; urban destruction; reconstruction</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-032">
+  <span class="id">idc06-032</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">In Search of the Sublime Villanueva and the Central University Campus in Caracas</div>
+<div class="authors">
+  <span class="author">Silvia Hernández de Lasala</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 3 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-033">
+  <span class="id">idc06-033</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Clone city</div>
+<div class="article-subtitle">Modernism, Landscape and the crisis of the European conurbation</div>
+<div class="authors">
+  <span class="author">Miles Glendinning <span class="orcid">&#x2B21; 0000-0001-5512-5597</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 3 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (3)</span><ol><li>Italian Clone City equivalent: Luca Molinari and Mirko</li>
+<li>Zardini, Archis, July 1999, p.42</li>
+<li>M Glendinning and D Page, Clone City: Crisis and Re- newal in Contemporary Scottish Architecture, 1999 Geddes: M Glendinning et al, A History of Scottish Ar- chitecture, 1996, Chapter 7</li></ol></div>
+<div class="article-divider" id="idc06-034">
+  <span class="id">idc06-034</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Rethinking the core of the city</div>
+<div class="article-subtitle">Beyond the Functionalism in the Hiroshima Peace Centre by Kenzo Tange</div>
+<div class="authors">
+  <span class="author">Kenji Watanabe</span>
+  <span class="author">Yoshiyuki Yamana</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 2 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (11)</span><ol><li>Edited by MARS Group (1951), CIAM8 Documents:</li>
+<li>Report of the Hoddesdon Conference, London</li>
+<li>Edited by Tyrwhitt, J. et al (1952), The Heart of the City: towards the humanization of urban life, London, Lund</li>
+<li>Tange, K.(10.1951), Youroppa-no-Kyoshu (European</li>
+<li>Homesickness), Tokyo, Kokusai-kenchiku</li>
+<li>Mayekawa, K. Tange, K et al (12 1951), Oubeishakai- kindaikenchiku-no-choryu-CIAM-to-Youroppakenchiku</li>
+<li>(Modern Movement in Western countries-CIAM and</li>
+<li>European Architecture), Tokyo, Kokusai-kenchiku</li>
+<li>Tange, K. (1.1955), Hiroshima Plan 1946-1953, To- kyo, Sinkenchiku</li>
+<li>Tange, K. (1966), 1946-1958 Genjitsu-to-Sozo (Real- ity and Creation), Tokyo, Bijyutsushuppansha</li>
+<li>Edited by Bettinotti, M. (1996), Kenzo Tange 1946- 1996, Architecture and Urban Design, Milano, Electa</li></ol></div>
+<div class="article-divider" id="idc06-035">
+  <span class="id">idc06-035</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Public Spaces by Burle Marx</div>
+<div class="authors">
+  <span class="author">Guilherme Mazza-Dourado</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Kenzo Tange; Hiroshima Peace Centre; CIAM; modern movement in Japan; Core; Urbanism</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (10)</span><ol><li>Edited by MARS Group (1951), CIAM8 Documents:</li>
+<li>Report of the Hoddesdon Conference, London</li>
+<li>Edited by Tyrwhitt, J. et al (1952), The Heart of the City: towards the humanization of urban life, London, Lund</li>
+<li>Tange, K.(10.1951), Youroppa-no-Kyoshu (European</li>
+<li>Homesickness), Tokyo, Kokusai-kenchiku</li>
+<li>Mayekawa, K. Tange, K et al (12 1951), Oubeishakai- kindaikenchiku-no-choryu-CIAM-to-Youroppakenchiku (Modern Movement in Western countries-CIAM and</li>
+<li>European Architecture), Tokyo, Kokusai-kenchiku</li>
+<li>Tange, K. (1.1955), Hiroshima Plan 1946-1953, To- kyo, Sinkenchiku</li>
+<li>Tange, K. (1966), 1946-1958 Genjitsu-to-Sozo (Real- ity and Creation), Tokyo, Bijyutsushuppansha</li>
+<li>Edited by Bettinotti, M. (1996), Kenzo Tange 1946- 1996, Architecture and Urban Design, Milano, Electa</li></ol></div>
+<div class="article-divider" id="idc06-036">
+  <span class="id">idc06-036</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The &quot;Ville Verte&quot;</div>
+<div class="article-subtitle">Rethinking City Landscape</div>
+<div class="authors">
+  <span class="author">Franco Panzini</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Public Space Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Landscape; Le Corbusier; Public parks; Open Space; Urban environment</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Urban Conservation Session (5)</h2>
+<div class="article-divider" id="idc06-037">
+  <span class="id">idc06-037</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Urban Conservation Session Report, by the Chair</div>
+<div class="authors">
+  <span class="author">Paul Meurs</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Urban Conservation Session</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-038">
+  <span class="id">idc06-038</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The Modern Movement City Planning in the Russian Provinces</div>
+<div class="authors">
+  <span class="author">Jan Molema</span>
+  <span class="author">Ivan V. Nevzgodine</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Urban Conservation Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Rehabilitation; Constructivism; Siberia</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-039">
+  <span class="id">idc06-039</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Contextualism &amp; Rupture</div>
+<div class="article-subtitle">Modernism in the Post-War Reconstruction of Lübeck</div>
+<div class="authors">
+  <span class="author">Klaus Brändle</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Urban Conservation Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Rehabilitation; Constructivism; Siberia; Netherlands</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (37)</span><ol><li>Alberts, Klaus &amp; Hôhns, Ulrich (Eds.) (1994) Architektur in Schleswig-Holstein seit 1945. Junius Verlag. Hamburg.</li>
+<li>Amt fiir Denkmalplege der Hansestadt Lúbeck (Ed.) Lúbeck. Altstadt Weltkulturerbe. Ansprúche an ein</li>
+<li>Denkmal. Hansestadt LUBECK. Denkmalplege in Lúbeck, N.1. Charles Colleman Verlag. Lúbeck.</li>
+<li>Andresen, Hans-Ginther (1989) Bauen in Backstein.</li>
+<li>Schleswig-Holsteinische Heimatschutz-Architektur zwischen Tradition und Reform. Westholsteinische</li>
+<li>Verlagsanstalt Boyens &amp; Co. Heide in Holstein.</li>
+<li>Becker, Martin &amp; Mehlhorn, Dieter-J. Siedlungen der zwanziger Jahre in Schleswig-Holstein. Westholsteinische</li>
+<li>Verlagsanstalt Boyens &amp; Co. Heide.</li>
+<li>Beyme, Klaus et all (1992) Neue Stâdte aus Ruinen. the Bauverwaltung / Planungsamt (building administration / planning</li>
+<li>Deutscher Stadtebau der Nachkriegszeit. Prestel-Verlag. office). The three areas discussed in this paper are highlighted. Source: (Beyme: 1992) Minchen.</li>
+<li>Brix, Michael (Ed.) (1975) Lúbeck. Die Altstadt als</li>
+<li>Denkmal. Heinz Moos Verlag. Múnchen</li>
+<li>It is interesting to emphasize that the Rathaus-Hof</li>
+<li>Drieschner, Axel (2000) Zum 100.Geburtstag von Paul</li>
+<li>Baumgarten. Bauwelt N.18. (Fig.3), one of the buildings comprising the Rathaus</li>
+<li>Markt as developed in the 50’s, is a listed building, Durth, Werner &amp; Gutschow, Niels (Eds.) (1987)</li>
+<li>Architektur und Stadtebau der Fúnfziger Jahre. revealing some regards from the Lubeck Conserva-</li>
+<li>Schriftenreihe des Deutschen Nationalkomitees fir tion Authority with its post-war Modernism. The old</li>
+<li>Denkmalschutz, N.33. Bonn. Hanseatic centre, has been since 1978, part of the</li>
+<li>Durth, Werner &amp; Gutschow, Niels (Eds.) (1990) Architektur</li>
+<li>Unesco World Heritage. However, architectural and und Stadtbau der Fiinfziger Jahre. Ergebnisse der Fachtagung urban history in Lúbeck does not end with the in Hannover 1990. Schriftenreihe des Deutschen</li>
+<li>Nationalkomitees fiir Denkmalschutz, N.41. Bonn.</li>
+<li>Hanseatic or XIX century periods. It is time to carry</li>
+<li>Lange, Ralf (1994) Hamburg - Wiederaufbau und out a comprehensive evaluation of the still intact post-</li>
+<li>Neuplanung 1943-1963. Hans Késter Verlags- war building ensembles of Lúbeck designed accord- buchhandlung KG. Kônigstein im Taunus. ing to Modernism, their qualities and the extent to</li>
+<li>Latzel, Sabine (2000) Architekten-Idee: Haerder weg, which they integrate in the old city fabric. Should the</li>
+<li>Parkhaus weg. Lúbecker Nachrichten N.56. (07.03.00). last 50 years of Lúbeck architectural and urban de- Lúbecker Nachrichten (Ed.) (undated) Lúbeck aus der velopments not be considered as history too? And Luft gesehen. Farbbildmappe der Lúbecker Nachrichten. the Wiederaufbau, the reconstruction of Libeck not Mai, Kurt (1999) Bauen in Lúbeck. Stédtische to be seen as a genuine part of the Hanseatic city? Hochbauten und Kunst am Bau 1949-1969. Verlag</li>
+<li>Schmidt-Rômhild. Lúbeck.</li>
+<li>NOTES Meyer, G. (Ed.) (1986) Lébeck 1945. Tagebuchauszige von Arthur Geoffrey Dickens. Uberblick von Gerhard &quot;In collaboration with Maria de Betânia Uchôa</li>
+<li>Meyer und Erinnerungen von Wilhelm Stier. Verlag</li>
+<li>Cavalcanti-Brendle.</li>
+<li>Schmidt-Rômhild. Libeck. 2 This refers to the german traditionalism in architecture</li>
+<li>Pieper, Hans (1946) Lúbeck. Stadtebauliche Studien zum as developed before WWII</li>
+<li>Wiederaufbau einer historischen deutschen Stadt. Pieper, (Muthesius, Tessenow, Bonatz, Schmitthenner, among Klaus (Ed.) BR.Sachse Verlag. Hamburg. others), and not to the vernacular</li>
+<li>Senat und Búrgerschaft der Hansestadt Lúbeck (Eds.) architecture addopted by the nazis during the Ill Reich. (1955) Lúbeck zehn Jahre danach. Lúbeck. 3 (Gropius, Gutschow, Hillebrecht, Meyer, Reichow,</li>
+<li>Senat der Hansestadt Lbeck (Ed.) (1995) Lúbecker Markt. Scharoun, etc.)</li>
+<li>Stadtebaulicher Ideenwettbewerb mit Realisierungsteil. 4“Ich strahlte: Welch eine Móglichkeit, hier eine neue Liibeck plant und baut. N.61. Lúbeck. 213</li></ol></div>
+<div class="article-divider" id="idc06-040">
+  <span class="id">idc06-040</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Large scale interventions in Boston&#x27;s Back Bay (1950-present)</div>
+<div class="article-subtitle">a self-correcting Modernist Urbanism</div>
+<div class="authors">
+  <span class="author">David Fixler</span>
+  <span class="author">Hélène Lipstadt</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Urban Conservation Session</span> · 8 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">post-war reconstruction; Lübeck; contextualism; old &amp; new built forms; Modernism in historic centres</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (7)</span><ol><li>&#x27; Interviews with Henry Cobb of Pei, Cobb, Freed and</li>
+<li>Partners, March 16, 2000 and Robert Sturgis, May 23, 2000. Robert Sturgis is an architect who chaired a com- mittee of the Boston Society of Architects that proposed the idea of the High Spine.</li>
+<li>Lynch, Kevin (1959): The Image of the City, Cambridge,</li>
+<li>* Hancock threatened to move their operations to Chi- cago if the City would not comply with their request.</li>
+<li>Moneo,Raphael (1989): ‘Concerning the Hancock</li>
+<li>Tower’. Harvard Architecture Review 7 Cambridge.</li>
+<li>$ Interview with Henry Cobb,op.cit.</li></ol></div>
+<div class="article-divider" id="idc06-041">
+  <span class="id">idc06-041</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Brussels skyscrapers</div>
+<div class="article-subtitle">problems of identity. Destroying in the name of protection</div>
+<div class="authors">
+  <span class="author">Sarah Moutury</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Urban Conservation Session</span> · 7 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Skyscraper; Brussels; urban policy; heritage preservation</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (10)</span><ol><li>Hatier. under way in some circles. Witness several punctual * Bekaert, G., Strauven F. (1970). La construction en attempts to reclaim the city in its most unwelcoming</li>
+<li>Belgique 1945-1970. Brussels: CNC. quarters. For example, open-air parties and film * Bekaert, G. (1996). Architecture contemporaine en projections were recently put on in the gardens of</li>
+<li>Belgique. Brussels: Racine. the Cité Administrative de |’Etat and along the North- * Demey T. (1990-1992). Bruxelles. Chronique d&#x27;une</li>
+<li>South Junction viaduct. As part of the opening cer- capitale en chantier. Brussels: Paul Legrain, 2 vol. emonies for Brussels 2,000 (Cultural Capital of * Lacour M. et al. (1987). Morphologie urbaine à</li>
+<li>Europe), words were displayed at night on the fa- Bruxelles. Brussels: CERAA. * La Fonderie &amp; le Foyer Bruxellois (octobre 1997). 3000 cades of Brussels skyscrapers in huge letters made</li>
+<li>Foyers Bruxellois, dossier nº 2 of Cahiers de la Fonderie. up of lit-up or occluded windows. Passersby were * Plissart M.F, Peeters, B. (1998). Bruxelles, horizon given a playful opportunity to rediscover these build- vertical. Brussels: Prisme Editions. ings. Some artists took pictures of the city from the 227 * Région de Bruxelles-Capitale (1997). Ensembles architecturaux en région bruxelloise. Brussels: Racine. * Exhibition Catal. (1989). 50 ans Architecture Bruxelles.</li>
+<li>Brussels: Marc Lacour. * Exhibition Catal. (1982). Pierres et rues. Bruxelles: croissance urbaine 1780-1980. Brussels: F Poot * Exhibition Catal. (1999). The Century of the Office. 1900-2000. Brussels: Fondation pour |’Architecture. * City of Brussels. Plan Communal de Développement.</li>
+<li>Preparatory document adopted by the Government on 04.02.1999. (The Municipal Development Plan is re- ferred to as PCD in the text.) * Articles by François Robert in Le Soir newspaper: 07.10.1998: ‘Pour dégager la vue du balcon de I’hétel de ville, de Donnéa veut étêter la tour de |&#x27;hôtel</li>
+<li>Westbury’, p. 20. 22.10.1998: ‘De Donnéa décapite la tour du Lotto. “Ce qui est petit est beau”. Le nouveau credo urbanistique de la Ville vient de faire sa premiére victime’, p. 21. 16.03.1999: ‘Premiére décapitation dans le Pentagone.</li>
+<li>La tour du Lotto rabotée de 12 étages’. 09.04.1999: ‘C’est dans le PCD... D&#x27;autres tours à raboter, dans le Pentagone?’, p. 21. 28.10.1999: ‘Un milliard pour un nouvel hôtel, des bureaux et un “Health Center”. Les Manhattan cow- boys de la place Rogier’. 29.01.2000: ‘Artesia apporte les sous, I&#x27;ARAU retire son recours au Conseil d’Etat. La tour Rogier reconstruite en 2001’.</li></ol></div>
+<h2 class="section-heading">Register Session (4)</h2>
+<div class="article-divider" id="idc06-042">
+  <span class="id">idc06-042</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Coming of age</div>
+<div class="article-subtitle">Scottish new towns in the 21st Century</div>
+<div class="authors">
+  <span class="author">David Witham</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Register Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">new towns; regional context; history and significance of Cumbernauld; dilemmas of conservation and planning for change; new towns as exemplars for future development</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (8)</span><ol><li>Architectural Design; May 1963, pp 206-225.</li>
+<li>Abercrombie, Sir Patrick &amp; Matthew, Robert M (1949)</li>
+<li>The Clyde Valley regional plan, Edinburgh.</li>
+<li>Adam Smith Institute (1988) Livingston plc, | presume?,</li>
+<li>The Planning Exchange (1997) The new towns record:</li>
+<li>London. 1956-1996, Glasgow.</li>
+<li>Banham, Reyner (1976) Megastructure, London. 8 David Whitham, October 2000</li>
+<li>City of Glasgow Corporation (1947) First and second planning reports, 2&quot;! edition, Glasgow.</li></ol></div>
+<div class="article-divider" id="idc06-043">
+  <span class="id">idc06-043</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The social housing in the 1920&#x27;s</div>
+<div class="article-subtitle">the garden city concept</div>
+<div class="authors">
+  <span class="author">Jean-Marc Basyn</span>
+  <span class="author">Luc Verpoest</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Register Session</span> · 12 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">social housing; garden-city; large scale high rise ensembles; urban concept; analysis and conservation policy</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-044">
+  <span class="id">idc06-044</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">X-ray the city! Ernest Fooks, modern planner in the new world</div>
+<div class="authors">
+  <span class="author">Catherine Townsend <span class="orcid">&#x2B21; 0000-0002-3679-1233</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Register Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (37)</span><ol><li>(1945). Housing in victorial. Architecture (April-June):</li>
+<li>Australia between 1930 and 1960: their experience ppl 80-185. and contribution to Australian architecture”. An Aus-</li>
+<li>(1950). Neighbourtlood Shopping Centres. Newiands tralian Postgraduate Award from the Commonwealth</li>
+<li>Estate, Coburg’. Australian Housing Bulletin. No 20.</li>
+<li>Government of Australia funds her thesis.</li>
+<li>(April): pp359-361.</li>
+<li>Barron, Stephanie. (1997). European Artists in Exile: A</li>
+<li>Reading between the lines. Exiles and E~migrés. The</li>
+<li>Hkjht of European Artists ftorn Hiffer. New York- Hany</li>
+<li>N. Abrams.</li>
+<li>Boyd, Robin. (1947). Victorian Modern: one hundred and eleven years of modern architecture in Victoria,</li>
+<li>Australia. Melbourne: Architectural StudenW Society of the Royal Victorian Institute of Architects.</li>
+<li>Boyd, Robin. (1960). The Australian Ugliness. Melbourne: FW. Cheshire.</li>
+<li>Broorne, Richard. (1987). Coburg. Between two creeks. Melbourne: Lothian Publishing Company</li>
+<li>Curtis, William. (1996). Modern Architecture since 1900. 3d ed. London: Phaidon,</li>
+<li>Fooks, Emest. (1946). X-Ray the City! The Density Dia- gram: Basis for Urban Planning. Melbourne: Ruskin Press.</li>
+<li>Fuchs, Ernst. (1942) The Democratic CR)(. The</li>
+<li>Austraflan Quarterly. Vol XIV. No. 1. (March): pp81-85.</li>
+<li>Goad, Philip. (2000 forthcoming). Sanctioning Modemism: Architecture in Australia 1930-1970&quot;. Fibro</li>
+<li>House to opera House: conserving architecture at rnid-century. Sydney: Museum of Sydney.</li>
+<li>Historic Buildings Branch, Office of Housing and Con- struction, Department of Planning and Housing. (1991)</li>
+<li>Newiands Estate Shopping Centre Corner Murray Road and Efizabeth Street Coburg. Photographic Record</li>
+<li>Housing Commission of Victoria. (1938-1939 to</li>
+<li>1949-1950). First Annual Report - Tweitth Annual Re- port.</li>
+<li>Hubbard, Timothy. (1990). City of Coburg Heritage</li>
+<li>Conservation and Streetscape Study.</li>
+<li>Mees, Paul. (2000). A Very Public Solution. Transport in the Dispersed City. Melbourne: Melbourne University</li>
+<li>National Trust. Newlands Estate Shopping Centre File</li>
+<li>B6211 including Raworth, Bryce Newiands Estate Shop- ping Centre: Classification Report (c 1991).</li>
+<li>Sandercock, Leonie. (1990). Property, Politics and Ur- ban Planning. a History of Australian City Planning</li>
+<li>1890-19w. 2nd ed. London: Transaction Publishers.</li>
+<li>State Library of Victoria, Australia. Frank Heath Picture</li>
+<li>Collection LTAD20.</li>
+<li>State Library of Victoria, Australia. 8. &amp; J. Johnson Col- lection MS 13214</li>
+<li>Willis, Julie. (1997) Women in Architecture in Victoria</li>
+<li>1905-1955: their education and professional life. PhD thesis, University of Melbourne, Australia.</li>
+<li>Marieke Kuipers sation and rebuilding obligation. In 1946 the ASRO</li></ol></div>
+<div class="article-divider" id="idc06-045">
+  <span class="id">idc06-045</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Modern shops and modern shapes — registration vs. regeneration</div>
+<div class="authors">
+  <span class="author">Mariëka Kuipers</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Register Session</span> · 14 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">documenting and developing early shopping centres; Lijnbaan; Rotterdam</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">Technology Session (4)</h2>
+<div class="article-divider" id="idc06-046">
+  <span class="id">idc06-046</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Power Architecture in Modern New Zealand</div>
+<div class="authors">
+  <span class="author">Andrew Stuart Leach</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Technology Session</span> · 4 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Electrification; New Zealand; F. H. Newman; Power Station</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-047">
+  <span class="id">idc06-047</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Essential war material, modernist harbinger</div>
+<div class="article-subtitle">unseasoned hardwood and its implications for the Post-war Australian city</div>
+<div class="authors">
+  <span class="author">Philip Goad <span class="orcid">&#x2B21; 0000-0002-8315-4325</span></span>
+  <span class="author">Julie Willis <span class="orcid">&#x2B21; 0000-0002-1605-2791</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Technology Session</span> · 10 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Electrification; New Zealand; F. H. Newman; Power Station</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (9)</span><ol><li>Martin, J. E. (1998). People, Politics and Power Stations:</li>
+<li>Electric Power Generation in New Zealand 1880-1998, 2&quot; ed. Wellington: Bridget Williams Books and the Elec- tricity Corporation of New Zealand.</li>
+<li>Newman, F. (1959). “Architecture in Hydro Design,”</li>
+<li>Journal of the New Zealand Institute of Architects 26 (3): 71-81.</li>
+<li>Newman, F. (1952b). “Beauty in Engineering,” Design</li>
+<li>Review 4(4): 88-89.</li>
+<li>Newman, F. (1952a). Social Factors in Architecture and</li>
+<li>Their Implications for New Zealand. Wellington: Wright and Carmen.</li>
+<li>Newman, F. (c1956). Unpublished Exhibition Notes, Hy- droelectric Design Office, Ministry of Works Exhibition.</li></ol></div>
+<div class="article-divider" id="idc06-048">
+  <span class="id">idc06-048</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Brazilian Modern Architecture</div>
+<div class="article-subtitle">climatic adaptation principles</div>
+<div class="authors">
+  <span class="author">Griselda Pinheiro Klüppel</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Technology Session</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">modern architecture; building technology; tropical environmental design; solar control</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (10)</span><ol><li>Adolpho, Diva. (1997). Aplicação no cultural Issa — Iandinha. Rio de Janeiro, IPHAN.</li>
+<li>Bonduki, Nabil, Portinho, Carmen. (2000). Alfonso Eduardo Reidy. Editorial Blau e Instituto Lina e P. M. Bardi.</li>
+<li>Bruand, Yves. (1997). Arquitetura contemporânea no Brasil. 3ª edição, São Paulo: Editora Perspectiva S.A.</li>
+<li>Costa, Lúcio. (1995). Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes/UNB.</li>
+<li>Givoni, B. (1981). Man, Climate and Architecture. Applied Science Publishers Ltd, London. 2ª edição.</li>
+<li>Goodwin, Philip L. (1943). Brazil Builds: Architecture New and Old 1652-1942. New York: MOMA.</li>
+<li>Hitchcock, Henry-Russell. (1994). Die Architecten des 19. und 20. Jarhunderts. München: Aries Verlag.</li>
+<li>Mindlin, Henrique E. (1956). Modern Architecture in Brazil. Rio de Janeiro/Amsterdam: Colibris Editora Ltda.</li>
+<li>Paredes, Alexandre. (1997). Arquitetura Moderna em São José dos Campos. São Paulo.</li>
+<li>Segawa, H. e Dourado, G. M. (1997). Oswaldo Arthur Bratke. São Paulo: ProEditores.</li></ol></div>
+<div class="article-divider" id="idc06-049">
+  <span class="id">idc06-049</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Transitions in modernist factory planning in São Paulo 1945-1955</div>
+<div class="article-subtitle">the influence of British and North-American design ideas</div>
+<div class="authors">
+  <span class="author">Phillip Gunn</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Technology Session</span> · 16 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">factory; architecture; fordism; Brazil; industry</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (29)</span><ol><li>&#x27; Frederick J. Woodbridge (Architect - Evans, Moore &amp; Distribuidora Record, 1965.</li>
+<li>Woodbridge) JAN.1941 “Industrial Practice Disciplines 4 Ford,op.cit.p.286. the Architect in Kenneth Reid (Ed.) “Industrial Buildings</li>
+<li>The Architectural Record of a Decade”, New York,</li>
+<li>&#x27;5Reid, 1951, op.cit p.9 FW.Dodge Corp., 1951, pp.28-29</li>
+<li>&#x27;6 Albert Kahn Associated Architects and Engineers Study</li>
+<li>Albert Kahn, Architect “Producer Of Production Lines” for Mill and Factory and the Architectural Record “Fac-</li>
+<li>Architectural Record, June 1942 em Reid, 1951, ibid. tory Design for Low-cost Production” (AR nov.1945) in 257-259 Reid, 1951 p.141</li>
+<li>Geurst, Jeroen e Futagawa, Yukio “J.A.Brinkman and 7 Unwin, H.D. “Industrial Piping” Architectural Record</li>
+<li>L.C. Van der Vlugt - Van Nelle Factory, Rotterdam, The Feb.1943, in Reid ibid. p.485 Netherlands 1925-31”, Tokyo, ADA Edita, 1994. 18 see Reid 51 op.cit.,p.343.</li>
+<li>Wank, Ronald A. (Associate Felheimer and Wagner, ibid p.143.</li>
+<li>Architects and Engineers) “the Architects Opportunities</li>
+<li>In Kenneth Reid, 1951, op.cit. pp.178-180. 2! ibid pp. 24,74,75, 82,257 among the factory projects designed by the Kahn practise reviewed by the Architec-</li>
+<li>Sharp, Denis &amp; Futagawa, Yukio “Wa;lter Gropius tural Record were the following:</li>
+<li>Bauhaus, Dessau, Germany, 1925-26 Fagus factory,</li>
+<li>Alfeld-an-der-Line, Germany 1911-25(with Adolf , Willow Run plant Ford, Albert Kahn Associated,</li>
+<li>Chevrolet-Flint Assmbly Plant, Flint Michigan August Meyer”, Tokyo, ADA Edita, 1994. 1948.</li>
+<li>An Arch.Record Case Study Feb.1940 Chemical Fac- tory, in Buckinghamshire, England Raymond McGrath, 22 Gramsci, Antonio “Selections from the prison note-</li>
+<li>A.R.1.B.A., architect which commented the presentation books”, London, Lawrance &amp; Wishart, 1971, p.298. of the case: “Started shortly before hostilities broke out</li>
+<li>23The car industries arriving in São Bernardo in the fif- in Europe this factory contains numerous provisions for ties had a close relationship with new petrol refinaries, recreation and comfort, as well as a system of air-raid petro-chemical and steel plants in the neighbouring ABC shelters, all for employees benefit.” In Kenneth Reid, 951, and Cubatão local authority areas. see Gunn, 1992.</li>
+<li>Crawford,Margaret “Building the Workingmans Para-</li>
+<li>7 see “Design for mass production”. The Architectural dise : The Design of American Company Towns”, Lon- Record. Feb.1940. in Reid ibid.p.1 don, Haymarket,) Verso Books, 1996.</li>
+<li>H.K.Ferguson “New Techniques meet Changed Con-</li>
+<li>Buchanan, Colin “Traffic in Towns”, Harmondsworth, ditions Economically” jan. 1941 in Reid, 1951, op.cit Penguin, 1963. pp.36-37</li>
+<li>Albert Kahn (Associated Architects ir Engineers, Inc.) “ibid. p.37</li>
+<li>“&quot;\NARSPEED” system of construction in concrete. as</li>
+<li>For this architects contemporary industrial work see first used for a new aircraft plant”, Architectural Record</li>
+<li>Kahn,A. “the Architect Working in Industry “,Architectural December 1942, in Reid p.72,73,82.</li>
+<li>Record, March 1941 in Reid, 1951, pp416-417, and 27 Penedo,Alexandre “Arquitectura Moderna São José</li>
+<li>Kahn,A. Architect “Producer Of Production Lines” Archi- dos Campos”, São José dos Campos, A.Penedo, 1997,</li></ol></div>
+<h2 class="section-heading">Main Theme Closing Lectures (4)</h2>
+<div class="article-divider" id="idc06-050">
+  <span class="id">idc06-050</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Reconsidering Chandigarh</div>
+<div class="article-subtitle">the question of preservation and intervention in the Sector 17 Central Chowk</div>
+<div class="authors">
+  <span class="author">Jagdish Sagar</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Closing Lectures</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Le Corbusier; Chandigarh; City Centre; preservation; intervention</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (27)</span><ol><li>&quot;This is, | am told, changing under the present Chandigarh became a Union Territory, function- ing as the capital of both States but itself ad- dispensation. ministered by the Central Government. This ar-</li>
+<li>Chandigarh is administered by the Central Gov- ernment, while shared as their capital by the rangement continues.</li>
+<li>States of Punjab and Haryana; this unusual ar- 23 Costermongers rangement has worked well enough since the partition of the old Punjab in 1965. KEYWORDS</li>
+<li>Le Corbusier, Chandigarh, City Centre, preserva-</li>
+<li>The author was Adviser to the Administrator — in effect Chief Executive ofthe Chandigarh Admin- tion, intervention istration, of which the Governor of Punjab is titu- lar Administrator — from February 1997 to April Jagdish Sagar, a national of India and a civil servant since 1966, has held various positions in- 1999.</li>
+<li>The term did not occurt o me at the time: | heard volving urban management.</li>
+<li>Organised the Conference Celebrating Chandigarh it as a cliché much later. held in January, 1999, while seving in Chandigarh.</li>
+<li>The beds of seasonal streams that flow during the monsoon. Earlie, was Principal Secretary, Urban Development, é Statute of the Land. in the Government of Delhi. Currently Chairman of</li>
+<li>Agood account of it is to be found in Ravi Kalia, the Delhi Vidyut (i.e. Electricity) Board.</li>
+<li>Chandigarh:The Making of an Indian City, Ox-</li>
+<li>*This text was published in “Back from Utopia. ford University Press, Delhi 1987.</li>
+<li>Quoted in Ravi Kalia, op. cit. pp.28-29. the Challenge of the Modern Movement”, edited</li>
+<li>? JaspreetTakhar (ed.), Celebrating Chandigarh, by Hubert-Jan Henket and Hilde Hynen (Rotterdam:</li>
+<li>Publishers, 2002) Mapin, 2002, p. 194. These are the proceed- ings of the Conference Celebrating Chandigarh:</li>
+<li>At the insistence of Charles Correa, a full-scale mock-up was erected at the site for the Confer- ence Celebrating Chandigarh held in January,</li>
+<li>1999: | hope that is not the closest we ever get to constructing it.</li>
+<li>NThe Governor s residence.</li>
+<li>&#x27;2 Chandigarh Tribune, August 31,2001.</li>
+<li>Particularly the northern, older and more sought- after sectors.</li>
+<li>&#x27;5 Charles Correa in Celebrating Chandigarh, p.196. 16 Slum Areas (Improvemenantd  Clearance) Act, 1956.</li>
+<li>Remarks like Correa’s provoked howls of pro- test after the Conference Celebrating Chandi- garh in 1999, and the most appalling accusa- tions of bad faith.</li>
+<li>&#x27;8 Statute of the Land.</li>
+<li>1º See Madhu Sarin, Urban Planning in the Third World: The Chandigarh Experience, Mansell</li>
+<li>Publishing, London 1982. Despite its obtrusive ideological perspective, this is a really valuable book that ought to have had more influence in</li>
+<li>Chandigarh.</li>
+<li>Rajivlochan et al., Chandigarh Lifescape: Brief</li>
+<li>Social History of a Planned City, Chandigarh</li></ol></div>
+<div class="article-divider" id="idc06-051">
+  <span class="id">idc06-051</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Brasilia facing the future</div>
+<div class="authors">
+  <span class="author">Paulo Zimbres</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Closing Lectures</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem palavras-chave</span></div>
+<div class="refs"><span class="label">Referências (9)</span><ol><li>Hydrological Resources - SEMARH. Collaboration: SINDUSCON, ASBRACO and ADEMI.</li>
+<li>Technical Services produced by Zimbres Arquitetos</li>
+<li>Associados</li>
+<li>Technical Team Urbanism: Architects Paulo Zimbres, Geraldo Sá</li>
+<li>Nogueira Batista, Luiz Antonio Reis, Otto Ribas and José</li>
+<li>Renato Carvalho</li>
+<li>Environment and Sanitation: Otto Ribas and Eng. José de Sena Pereira Jr. Landscape design: Eurico João Salviatti</li>
+<li>Technical Coordination: Arch. Marcos Zimbres</li>
+<li>Production Coordination: Arch. Joara Cronemberger activities, a new zoning was produced, respecting the project selected in a public competition. The axis toward the Television Tower orga- Production Team: Architects Mônica Schramm and nizes the distribution of landmarks and sites. 317</li></ol></div>
+<div class="article-divider" id="idc06-052">
+  <span class="id">idc06-052</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">Perspectives</div>
+<div class="authors">
+  <span class="author">Cláudia Sobreira <span class="orcid">&#x2B21; 0000-0002-7420-1644</span></span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Closing Lectures</span> · 1 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Brasília; urban sprawl; future trends; urban configuration; world heritage</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<div class="article-divider" id="idc06-053">
+  <span class="id">idc06-053</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The Modern City facing the future</div>
+<div class="authors">
+  <span class="author">Allen Cunningham</span>
+</div>
+<div class="meta-bar"><span class="section-tag">Main Theme Closing Lectures</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">Urban; Form; Process; Future</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="field"><span class="missing">Sem referências</span></div>
+<h2 class="section-heading">7th International DOCOMOMO Conference (1)</h2>
+<div class="article-divider" id="idc06-054">
+  <span class="id">idc06-054</span>
+  <span class="pdf-badge no">sem PDF</span>
+</div>
+<div class="article-title">The Reception of Modern Architecture</div>
+<div class="authors">
+  <span class="author">Fabienne Chevallier</span>
+</div>
+<div class="meta-bar"><span class="section-tag">7th International DOCOMOMO Conference</span> · 6 p. · <span class="locale-tag">en</span></div>
+<div class="field"><span class="label">Palavras-chave</span> <span class="keywords">DOCOMOMO International Conference; Reception Theory</span></div>
+<div class="field"><span class="missing">Sem resumo</span></div>
+<div class="refs"><span class="label">Referências (7)</span><ol><li>Barré-Despont, A., ed. (1996), Dictionnaire international are among her fields of research. Her last book, L’ des arts appliqués et du design, Paris, Ed.du Regard. ceuvre d’ Eliel Saarinen en Finlande et la question de</li>
+<li>Bayer H., Gropius W. and al., preface by A. Barr (1938; I’ architecture nationale de 1898 à 1909, is a contri- second printing 1952; third printing 1959), Bauhaus bution to the History of the idea of nation in the archi- 1919-1928, exh.cat., Boston, Ch.T. Branford Company (for the third printing). tectural field. She is chairing DOCOMOMO France.</li>
+<li>Bourdeix P (1919), ‘Uurbanisme’, La Construction Moderne, 1º mars 1919, Paris : 34-35.</li>
+<li>Bourdeix, P (1920), ‘ Une conférence interalliée de Town Planning ‘, La Construction Moderne, 15 février 1920, Paris : 153-155.</li>
+<li>Chevallier, F (2000), ‘ Finland through French Eyes:</li>
+<li>Alvar Aalto’s Pavilion at the Paris International Exhibi- tion of 1937 ‘. Decorative Arts, the Bard Graduate Cen- ter for Studies in the Decorative Arts, vol.VIl, number 1 (Fall-Winter 1999-2000), New York : 65-105.</li>
+<li>Cohen, J.-L. (1992), Le Corbusier and the mystique of 329</li></ol></div>
+</body></html>
