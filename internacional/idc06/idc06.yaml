@@ -1,0 +1,620 @@
+issue:
+  slug: idc06
+  title: 6th International DOCOMOMO Conference
+  subtitle: The Modern City Facing the Future
+  year: 2000
+  date_published: '2000-09-19'
+  publisher: Universidade de Brasília; Universidade Federal da Bahia
+  editors:
+  - Anna Beatriz A. Galvão
+  - Alejandra H. Muñoz
+  - Hugo Segawa
+  - Mirthes Baffi
+  - Marina B. Donelli
+  source: ''
+  event_city: Brasília
+  event_state: DF
+  event_country: BR
+  locale: en
+  sections:
+  - title: Opening Session
+    abbrev: OPEN-idc06
+  - title: Opening Lecture
+    abbrev: LECT-idc06
+  - title: Main Theme Lectures
+    abbrev: MAIN-idc06
+  - title: Main Theme Session
+    abbrev: MTSESS-idc06
+  - title: Brasilia Session
+    abbrev: BRAS-idc06
+  - title: History & Theory Session
+    abbrev: HIST-idc06
+  - title: Housing Session
+    abbrev: HOUS-idc06
+  - title: Public Space Session
+    abbrev: PUBL-idc06
+  - title: Urban Conservation Session
+    abbrev: URBC-idc06
+  - title: Register Session
+    abbrev: REG-idc06
+  - title: Technology Session
+    abbrev: TECH-idc06
+  - title: Main Theme Closing Lectures
+    abbrev: CLOSE-idc06
+  - title: 7th International DOCOMOMO Conference
+    abbrev: 7IDC-idc06
+articles:
+- id: idc06-001
+  title: Conference and Proceedings
+  authors:
+  - givenname: Frederico
+    familyname: Holanda
+    affiliation: UnB
+  section: Opening Session
+  locale: en
+  pages: 7-11
+  page_start: 7
+  page_end: 11
+- id: idc06-002
+  title: Opening Session
+  authors:
+  - givenname: Hubert-Jan
+    familyname: Henket
+    affiliation: DOCOMOMO International
+  section: Opening Session
+  locale: en
+  pages: 12-15
+  page_start: 12
+  page_end: 15
+- id: idc06-003
+  title: The Symbolic City
+  authors:
+  - givenname: Kisho
+    familyname: Kurokawa
+  section: Opening Lecture
+  locale: en
+  pages: 16-23
+  page_start: 16
+  page_end: 23
+- id: idc06-004
+  title: Main Theme Report, by the Chair
+  authors:
+  - givenname: Hubert-Jan
+    familyname: Henket
+    affiliation: DOCOMOMO International
+  section: Main Theme Lectures
+  locale: en
+  pages: 24
+  page_start: 24
+  page_end: 24
+- id: idc06-005
+  title: Modern Movement and Urban History
+  authors:
+  - givenname: Jean-Louis
+    familyname: Cohen
+  section: Main Theme Lectures
+  locale: en
+  pages: 25-31
+  page_start: 25
+  page_end: 31
+- id: idc06-006
+  title: 'Le Corbusier and Latin America: A Third World Modern Urbanism'
+  authors:
+  - givenname: Fernando
+    familyname: Pérez-Oyarzún
+  section: Main Theme Lectures
+  locale: en
+  pages: 33-33
+  page_start: 33
+  page_end: 33
+- id: idc06-007
+  title: Urban Thinking/Urban Projects
+  authors:
+  - givenname: Milton
+    familyname: Santos
+  section: Main Theme Lectures
+  locale: en
+  pages: 34-39
+  page_start: 34
+  page_end: 39
+- id: idc06-008
+  title: Latin American Cities
+  authors:
+  - givenname: Silvia
+    familyname: Arango
+  section: Main Theme Session
+  locale: en
+  pages: 41-41
+  page_start: 41
+  page_end: 41
+- id: idc06-009
+  title: French Modern Cities
+  authors:
+  - givenname: Philippe
+    familyname: Panerai
+  section: Main Theme Session
+  locale: en
+  pages: 42-42
+  page_start: 42
+  page_end: 42
+- id: idc06-010
+  title: 'Rome, the city of the future in the lessons of history: typological models
+    and strategies of intervention'
+  authors:
+  - givenname: Maria Letizia
+    familyname: Conforto
+  section: Main Theme Session
+  locale: en
+  pages: 43-47
+  page_start: 43
+  page_end: 47
+- id: idc06-011
+  title: 'Paradoxes in the conservation of newness: the invention of an antipodean
+    "civic domain"'
+  authors:
+  - givenname: Hanna
+    familyname: Lewi
+  section: Main Theme Session
+  locale: en
+  pages: 48-53
+  page_start: 48
+  page_end: 53
+- id: idc06-012
+  title: The conception of Abuja — the new capital city of Nigeria — as synthesis
+    of planning principles from Europe, America and Japan
+  authors:
+  - givenname: Jürgen
+    familyname: Lafrenz
+  section: Main Theme Session
+  locale: en
+  pages: 54-59
+  page_start: 54
+  page_end: 59
+- id: idc06-013
+  title: 'City and Citizenship: A contribution to the study of the modern city considered
+    a work of art — Chandigarh and Brasilia'
+  authors:
+  - givenname: Matheus
+    familyname: Gorovitz
+  section: Brasilia Session
+  locale: en
+  pages: 60-68
+  page_start: 60
+  page_end: 68
+- id: idc06-014
+  title: 'Living with Brasilia: a resident''s perspective of the confrontation between
+    heroic vision and social reality'
+  authors:
+  - givenname: Rosane
+    familyname: Bauer
+  section: Brasilia Session
+  locale: en
+  pages: 69-72
+  page_start: 69
+  page_end: 72
+- id: idc06-015
+  title: What do we really know about Brasilia? Misleading and prejudice in canonical
+    books
+  authors:
+  - givenname: Ruth Verde
+    familyname: Zein
+  - givenname: Ana Gabriela Godinho
+    familyname: Lima
+  section: Brasilia Session
+  locale: en
+  pages: 73-76
+  page_start: 73
+  page_end: 76
+- id: idc06-016
+  title: 'A legal system for urbanism: the Modern Movement''s unseen face'
+  authors:
+  - givenname: Sarah
+    familyname: Feldman
+  section: Brasilia Session
+  locale: en
+  pages: 77-82
+  page_start: 77
+  page_end: 82
+- id: idc06-017
+  title: 'Architectural and social modernity: the image of Brasilia in the European
+    movies'
+  authors:
+  - givenname: Márcio
+    familyname: Campos
+  section: Brasilia Session
+  locale: en
+  pages: 83-87
+  page_start: 83
+  page_end: 87
+- id: idc06-018
+  title: Brasilia reproduced as backdrop
+  authors:
+  - givenname: Sunil
+    familyname: Bald
+  section: Brasilia Session
+  locale: en
+  pages: 88-95
+  page_start: 88
+  page_end: 95
+- id: idc06-019
+  title: 'Buildings building the city: São Paulo in the Fifties'
+  authors:
+  - givenname: Carlos A. Ferreira
+    familyname: Martins
+  section: History & Theory Session
+  locale: en
+  pages: 97-112
+  page_start: 97
+  page_end: 112
+- id: idc06-020
+  title: Ancient and modern cities in the work of Constantine Doxiadis
+  authors:
+  - givenname: Panayotis
+    familyname: Tournikiotis
+  section: History & Theory Session
+  locale: en
+  pages: 113-123
+  page_start: 113
+  page_end: 113
+- id: idc06-021
+  title: Brazil in Modern Architectural Handbooks
+  authors:
+  - givenname: Nelci
+    familyname: Tinem
+  - givenname: Lucia
+    familyname: Borges
+  section: History & Theory Session
+  locale: en
+  pages: 114-123
+  page_start: 114
+  page_end: 123
+- id: idc06-022
+  title: Matrix of Man
+  authors:
+  - givenname: Hilde
+    familyname: Heynen
+  section: History & Theory Session
+  locale: en
+  pages: 124-128
+  page_start: 124
+  page_end: 128
+- id: idc06-023
+  title: 'About the teaching of theory and history of Modern Architecture: for the
+    dissemination of new notions and conceptions'
+  authors:
+  - givenname: Pasqualino Romano
+    familyname: Magnavita
+  section: History & Theory Session
+  locale: en
+  pages: 129-137
+  page_start: 129
+  page_end: 137
+- id: idc06-024
+  title: Housing Session Report, by the Chair
+  authors:
+  - givenname: Miles
+    familyname: Glendinning
+  section: Housing Session
+  locale: en
+  pages: 138-139
+  page_start: 138
+  page_end: 139
+- id: idc06-025
+  title: Fifty years after the INA-Casa
+  authors:
+  - givenname: Paola
+    familyname: Di Biagi
+  section: Housing Session
+  locale: en
+  pages: 140-147
+  page_start: 140
+  page_end: 147
+- id: idc06-026
+  title: 'Modern City as a tool of russification: Estonian experience'
+  authors:
+  - givenname: Mart
+    familyname: Kalm
+  section: Housing Session
+  locale: en
+  pages: 149-149
+  page_start: 149
+  page_end: 149
+- id: idc06-027
+  title: The heritage of the Grands Ensembles
+  authors:
+  - givenname: Philippe
+    familyname: Panerai
+  section: Housing Session
+  locale: en
+  pages: 150-150
+  page_start: 150
+  page_end: 150
+- id: idc06-028
+  title: A la recherche de la maison moderniste perdue
+  authors:
+  - givenname: Sonia
+    familyname: Marques
+  - givenname: Edja
+    familyname: Trigueiro
+  section: Housing Session
+  locale: en
+  pages: 151-160
+  page_start: 151
+  page_end: 160
+- id: idc06-029
+  title: Creating historic modern cities, by learning from modern historic cities
+  authors:
+  - givenname: Paul
+    familyname: Meurs
+  section: Housing Session
+  locale: en
+  pages: 161-165
+  page_start: 161
+  page_end: 165
+- id: idc06-030
+  title: 'SOS Berlin Alexander Platz: the razing of DDR Modernism'
+  authors:
+  - givenname: Maria de Betania
+    familyname: Cavalcanti-Brendle
+  section: Public Space Session
+  locale: en
+  pages: 166-173
+  page_start: 166
+  page_end: 173
+- id: idc06-031
+  title: 'Airport as city square: Toronto, Edmonton and Winnipeg Airports, 1964'
+  authors:
+  - givenname: Bernard
+    familyname: Flaman
+  section: Public Space Session
+  locale: en
+  pages: 174-178
+  page_start: 174
+  page_end: 178
+- id: idc06-032
+  title: In Search of the Sublime Villanueva and the Central University Campus in
+    Caracas
+  authors:
+  - givenname: Silvia Hernández
+    familyname: de Lasala
+  section: Public Space Session
+  locale: en
+  pages: 180-182
+  page_start: 180
+  page_end: 182
+- id: idc06-033
+  title: 'Clone city: Modernism, Landscape and the crisis of the European conurbation'
+  authors:
+  - givenname: Miles
+    familyname: Glendinning
+  section: Public Space Session
+  locale: en
+  pages: 183-185
+  page_start: 183
+  page_end: 183
+- id: idc06-034
+  title: 'Rethinking the core of the city: Beyond the Functionalism in the Hiroshima
+    Peace Centre by Kenzo Tange'
+  authors:
+  - givenname: Kenji
+    familyname: Watanabe
+  - givenname: Yoshiyuki
+    familyname: Yamana
+  section: Public Space Session
+  locale: en
+  pages: 184-185
+  page_start: 184
+  page_end: 185
+- id: idc06-035
+  title: Public Spaces by Burle Marx
+  authors:
+  - givenname: Guilherme
+    familyname: Mazza-Dourado
+  section: Public Space Session
+  locale: en
+  pages: 186-191
+  page_start: 186
+  page_end: 191
+- id: idc06-036
+  title: 'The "Ville Verte": Rethinking City Landscape'
+  authors:
+  - givenname: Franco
+    familyname: Panzini
+  section: Public Space Session
+  locale: en
+  pages: 192-199
+  page_start: 192
+  page_end: 199
+- id: idc06-037
+  title: Urban Conservation Session Report, by the Chair
+  authors:
+  - givenname: Paul
+    familyname: Meurs
+  section: Urban Conservation Session
+  locale: en
+  pages: 200-200
+  page_start: 200
+  page_end: 200
+- id: idc06-038
+  title: The Modern Movement City Planning in the Russian Provinces
+  authors:
+  - givenname: Jan
+    familyname: Molema
+  - givenname: Ivan V.
+    familyname: Nevzgodine
+  section: Urban Conservation Session
+  locale: en
+  pages: 201-206
+  page_start: 201
+  page_end: 206
+- id: idc06-039
+  title: 'Contextualism & Rupture: Modernism in the Post-War Reconstruction of Lübeck'
+  authors:
+  - givenname: Klaus
+    familyname: Brändle
+  section: Urban Conservation Session
+  locale: en
+  pages: 207-214
+  page_start: 207
+  page_end: 214
+- id: idc06-040
+  title: 'Large scale interventions in Boston''s Back Bay (1950-present): a self-correcting
+    Modernist Urbanism'
+  authors:
+  - givenname: David
+    familyname: Fixler
+  - givenname: Hélène
+    familyname: Lipstadt
+  section: Urban Conservation Session
+  locale: en
+  pages: 215-222
+  page_start: 215
+  page_end: 222
+- id: idc06-041
+  title: 'Brussels skyscrapers: problems of identity. Destroying in the name of protection'
+  authors:
+  - givenname: Sarah
+    familyname: Moutury
+  section: Urban Conservation Session
+  locale: en
+  pages: 223-229
+  page_start: 223
+  page_end: 229
+- id: idc06-042
+  title: 'Coming of age: Scottish new towns in the 21st Century'
+  authors:
+  - givenname: David
+    familyname: Witham
+  section: Register Session
+  locale: en
+  pages: 230-235
+  page_start: 230
+  page_end: 235
+- id: idc06-043
+  title: 'The social housing in the 1920''s: the garden city concept'
+  authors:
+  - givenname: Jean-Marc
+    familyname: Basyn
+  - givenname: Luc
+    familyname: Verpoest
+  section: Register Session
+  locale: en
+  pages: 236-247
+  page_start: 236
+  page_end: 247
+- id: idc06-044
+  title: X-ray the city! Ernest Fooks, modern planner in the new world
+  authors:
+  - givenname: Catherine
+    familyname: Townsend
+  section: Register Session
+  locale: en
+  pages: 248-253
+  page_start: 248
+  page_end: 253
+- id: idc06-045
+  title: Modern shops and modern shapes — registration vs. regeneration
+  authors:
+  - givenname: Mariëka
+    familyname: Kuipers
+  section: Register Session
+  locale: en
+  pages: 254-267
+  page_start: 254
+  page_end: 267
+- id: idc06-046
+  title: Power Architecture in Modern New Zealand
+  authors:
+  - givenname: Andrew Stuart
+    familyname: Leach
+  section: Technology Session
+  locale: en
+  pages: 269-272
+  page_start: 269
+  page_end: 272
+- id: idc06-047
+  title: 'Essential war material, modernist harbinger: unseasoned hardwood and its
+    implications for the Post-war Australian city'
+  authors:
+  - givenname: Philip
+    familyname: Goad
+  - givenname: Julie
+    familyname: Willis
+  section: Technology Session
+  locale: en
+  pages: 273-282
+  page_start: 273
+  page_end: 282
+- id: idc06-048
+  title: 'Brazilian Modern Architecture: climatic adaptation principles'
+  authors:
+  - givenname: Griselda Pinheiro
+    familyname: Klüppel
+  section: Technology Session
+  locale: en
+  pages: 284-289
+  page_start: 284
+  page_end: 289
+- id: idc06-049
+  title: 'Transitions in modernist factory planning in São Paulo 1945-1955: the influence
+    of British and North-American design ideas'
+  authors:
+  - givenname: Phillip
+    familyname: Gunn
+  section: Technology Session
+  locale: en
+  pages: 290-305
+  page_start: 290
+  page_end: 305
+- id: idc06-050
+  title: 'Reconsidering Chandigarh: the question of preservation and intervention
+    in the Sector 17 Central Chowk'
+  authors:
+  - givenname: Jagdish
+    familyname: Sagar
+  section: Main Theme Closing Lectures
+  locale: en
+  pages: 307-312
+  page_start: 307
+  page_end: 312
+- id: idc06-051
+  title: Brasilia facing the future
+  authors:
+  - givenname: Paulo
+    familyname: Zimbres
+  section: Main Theme Closing Lectures
+  locale: en
+  pages: 313-318
+  page_start: 313
+  page_end: 318
+- id: idc06-052
+  title: Perspectives
+  subtitle: ''
+  authors:
+  - givenname: Cláudia
+    familyname: Sobreira
+  section: Main Theme Closing Lectures
+  locale: en
+  pages: 319-319
+  page_start: 319
+  page_end: 319
+- id: idc06-053
+  title: The Modern City facing the future
+  authors:
+  - givenname: Allen
+    familyname: Cunningham
+  section: Main Theme Closing Lectures
+  locale: en
+  pages: 320-325
+  page_start: 320
+  page_end: 325
+- id: idc06-054
+  title: The Reception of Modern Architecture
+  authors:
+  - givenname: Fabienne
+    familyname: Chevallier
+  section: 7th International DOCOMOMO Conference
+  locale: en
+  pages: 326-331
+  page_start: 327
+  page_end: 331
