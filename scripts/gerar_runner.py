@@ -223,7 +223,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
   5. Site PROPAR (apenas Sul): `https://www.ufrgs.br/propar/wp-content/uploads/`
 - [ ] **0.5** Preencher lacunas no banco (salvar JSON antes, verificar idioma dos abstracts)
 - [ ] **0.6** Extrair metadados EN{skip_en}: `python3 scripts/extrair_metadados_en.py --slug {slug}`
-- [ ] **0.7** Extrair metadados ES (artigos com locale=es: abstract, keywords do plumber)
+- [ ] **0.7** Extrair metadados ES (title_es, subtitle_es, abstract_es, keywords_es do plumber — independe do locale)
 - [ ] **0.8** Verificar abstracts + auto-fix
   ```
   python3 scripts/validate_metadata.py --slug {slug} --fix

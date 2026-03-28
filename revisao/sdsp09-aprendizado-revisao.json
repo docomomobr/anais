@@ -1,0 +1,42 @@
+[
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "OCR sem espaços em ~6 artigos (010, 016, 018, 020, 021, 023) — texto de headings concatenado (ex: MUZIEARENANAPRODUÇÃODAARQUITETURA)",
+    "correcao": "LLM agents reconstruíram os títulos EN manualmente a partir do contexto",
+    "artigos_afetados": 6
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "Artigo 025 sem título EN no PDF (só tem título PT e autores, sem heading EN/ES)",
+    "correcao": "Campo title_en deixado vazio (regra: não inventar metadados)",
+    "artigos_afetados": 1
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-27",
+    "tipo": "dict",
+    "descricao": "2 palavras genéricas erroneamente seedadas como nomes próprios: restauração, imóveis",
+    "correcao": "Removidas do dict.db, adicionadas como stopwords em seed_titles.py",
+    "artigos_afetados": 2
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "Artigo 015 sem keywords PT/EN no PDF (confirmado ausente)",
+    "correcao": "Campo keywords/keywords_en vazio — warning irresolvível A01",
+    "artigos_afetados": 1
+  },
+  {
+    "seminario": "sdsp09",
+    "data": "2026-03-27",
+    "tipo": "bug_dados",
+    "descricao": "Refs ausentes para artigos 010 (16 refs) e 025 (17 refs) — extração original não capturou refs classificadas como footnote/abstract no plumber",
+    "correcao": "Inseridas manualmente do plumber",
+    "artigos_afetados": 2
+  }
+]
