@@ -55,7 +55,7 @@ palavras-chave:
 
 - BAYER, H. GROPIUS, W. GROPIUS, I. Bauhaus: 1929 - 1928. Museu de Arte Moderna, Nova Iorque, 1938.
 - CABRAL, N. A. J. Universidade de São Paulo, A: Modelos e Projetos. Edusp - Editora da USP. São Paulo, 2019.
-- CAMARGO, A. R. Escola Real de Ciências, Artes e Ofícios. Dicionário Período Colonial – Arquivo Nacional, 2016. Disponível em: http://mapa.an.gov.br/index.php/dicionario-periodo-colonial/173-escola-real-de-ciencias-artes-e- oficios. Acessado em: 13/04/2021
+- CAMARGO, A. R. Escola Real de Ciências, Artes e Ofícios. Dicionário Período Colonial – Arquivo Nacional, 2016. Disponível em: &lt;<a href="http://mapa.an.gov.br/index.php/dicionario-periodo-colonial/173-escola-real-de-ciencias-artes-e-">http://mapa.an.gov.br/index.php/dicionario-periodo-colonial/173-escola-real-de-ciencias-artes-e-</a>&gt; oficios. Acessado em: 13/04/2021
 - DROSTE, M. Bauhaus: 1919 - 1933. Taschen. [S.l], 2006
 - EMANUEL, M. Contemporary Architects. St. Marti’s Press. Nova Iorque, 1980.
 - FAVERO, M. Dos mestres sem escola à escola sem mestre. Tese (Doutorado em Arquitetura - PROARQ) – Faculdade de Arquitetura e Urbanismo, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2009.

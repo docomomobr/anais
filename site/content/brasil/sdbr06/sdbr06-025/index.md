@@ -73,7 +73,7 @@ palavras-chave:
 - COMBOGÓ- uma invenção pernambucana. Fisco & Finanças. Recife: Secretaria da Fazenda do Estado de Pernambuco, nº 12, jul.-set./ 1982. p. 34.
 - COSTA, Lúcio. Escola Carioca Depoimentos. AU, São Paulo; nº 16, fev./mar. 1988 p.57-58.
 - COUTINHO, Aluízio Bezerra. O problema da Habitação Higiênica nos países quentes em face da “Arquitetura Viva”. Tese de doutoramento. Faculdade de Medicina do Rio de Janeiro. Rio de Janeiro: Oficina Alba Gráficas, 1930.
-- Dados de população estimada em 1º julho de 1950 (milhares de habitantes) Fonte: Laboratório de estatística. Tabela extraída de: Anuário estatístico do Brasil em 1954. Rio de Janeiro, IBGE, v.15, 1954.Consultado em http://www.ibge.gov.br/ Estatísticas do séc.XX, consultado em 17/02/2004, às 12:42 hs.
+- Dados de população estimada em 1º julho de 1950 (milhares de habitantes) Fonte: Laboratório de estatística. Tabela extraída de: Anuário estatístico do Brasil em 1954. Rio de Janeiro, IBGE, v.15, 1954.Consultado em &lt;<a href="http://www.ibge.gov.br/">http://www.ibge.gov.br/</a>&gt; Estatísticas do séc.XX, consultado em 17/02/2004, às 12:42 hs.
 - FRAMPTON, Kenneth. Prospects for a Critical Regionalism (1983). In: NESBITT, Katte. (Editor). Theorizing a New Agenda for Architecture Theory 1965-1995. New York: Princeton Architectural Press, 1996. p. 468-482.
 - FRAMPTON, Kenneth. História Crítica de la Arquitectura Moderna. Barcelona: Editorial Gustavo Gili S.A.1993.
 - GOODWIN, P. L. Brazil Builds. Architecture. New and Old. 1652-1942. New York, 1943.
@@ -83,7 +83,7 @@ palavras-chave:
 - LIMA, Daniele Abreu e. Arquitetura Moderna nos Trópicos. Exemplos em Pernambuco. São Paulo, 2002. 297p. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo de São Paulo.
 - LOUREIRO, Cláudia & AMORIM, Luiz. Por uma arquitetura social: a influência de Richard neutra em prédios escolares no Brasil. São Paulo: Vitruvius, 2002. Disponível em:&lt;http:// www.Vitruvius.com.br/arquitextos.0.20.2002&gt;.
 - MARQUES, Sonia. Maestro sem Orquestra: um estudo da ideologia do arquiteto no Brasil 1820- 1950. Recife, 1983. Dissertação (Mestrado), PIMIS. Universidade Federal de Pernambuco.
-- MARQUES, Sonia e NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;http://www.Vitruvius.com.br/ arquitextos 065&gt; Acesso em 07/04/2001.
+- MARQUES, Sonia e NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.Vitruvius.com.br/">http://www.Vitruvius.com.br/</a>&gt; arquitextos 065&gt; Acesso em 07/04/2001.
 - MARQUES, Sonia e NASLAVSKY, Guilah. La Reception du Modernism à Recife. In: 7th DOCOMOMO International Conference. Paris: set. 2002.
 - MARQUES, Sonia e NASLAVSKY, Guilah. A Escola de Amorim. Recife: 2001. mimeo. 2001.
 - MARQUES, Sonia & LOUREIRO, Cláudia. A moradia econômica: bonitinha, ordinária e barata. In: Vº SEMINÁRIO DE HISTÓRIA DA CIDADE E DO URBANISMO. 1998. Campinas. Anais... Campinas: Unicamp, 1998.

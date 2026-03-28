@@ -63,7 +63,7 @@ palavras-chave:
 
 ## Referências
 
-- ANOS DE BRASILIA PALACE HOTEL A PRESENCA DO ACO NA CAPITAL FEDERAL. Portal Met@lica Construção Civil. In: http://wwwo.metalica.com.br/50-anos-de-brasilia-palace-hotel-a- presenca-do-aco-na-capital-federal, 2010. Acesso em: 10 jun. 2109.
+- ANOS DE BRASILIA PALACE HOTEL A PRESENCA DO ACO NA CAPITAL FEDERAL. Portal Met@lica Construção Civil. In: &lt;<a href="http://wwwo.metalica.com.br/50-anos-de-brasilia-palace-hotel-a-">http://wwwo.metalica.com.br/50-anos-de-brasilia-palace-hotel-a-</a>&gt; presenca-do-aco-na-capital-federal, 2010. Acesso em: 10 jun. 2109.
 - BRASÍLIA Palace Hotel. Módulo, Rio de Janeiro, v.2, n.12, p.28, fev. 1959
 - BRASÍLIA PALACE HOTEL. Acrópole, 256/7: 105-8, fev./mar. 1960.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.

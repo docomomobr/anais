@@ -58,6 +58,6 @@ palavras-chave:
 - ROCHA, P. M. da. “Morar na era Moderna”. Projeto 94 (1986): 99. (c)
 - SOARES, A. A. “Estudo de Caso e Levantamento de Campo – Residência Família Bueno Netto de Paulo Mendes da Rocha – Catanduva-SP.” Monografia, Universidade Paulista de São José do Rio Preto, 2007.
 - SPADONI, F. “A Transição do Moderno.” Tese de Doutorado, Universidade de São Paulo, 2003.
-- SPERLING, D. “Museu Brasileiro da Escultura, utopia de um território”, Arquitextos, Vitruvius, 2001, acesso Agosto 10, 2013. http://www.vitruvius.com.br/revistas/read/arquitextos/02.018/828.
+- SPERLING, D. “Museu Brasileiro da Escultura, utopia de um território”, Arquitextos, Vitruvius, 2001, acesso Agosto 10, 2013. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.018/828">http://www.vitruvius.com.br/revistas/read/arquitextos/02.018/828</a>&gt;
 - TELLES, S. S. “Museu da Escultura”. AU 32 (1990): 44-51.
 - WOLF, J. “Exercício da Modernidade”. AU 08 (1986): 26-33. ⏐

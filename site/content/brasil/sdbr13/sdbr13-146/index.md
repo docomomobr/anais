@@ -58,12 +58,12 @@ palavras-chave:
 - ARRUDA, Ângelo Marcos Vieira de. A Popularização dos Elementos da Casa Moderna em Campo Grande – Mato Grosso do Sul. In: SEMINÁRIO DOCOMOMO BRASIL, 5., 2003, São Carlos. Anais... São Carlos: Edusp, 2003.
 - CHAVES, Carolina. Casa (moderna) brasileira: Difusão da arquitetura moderna em João pessoa 1950-60’s. 2012. Dissertação (Mestrado em Arquitetura e Urbanismo) – Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos.
 - FARO, Nestor. Entrevista concedida no dia 11 de novembro de 2018. Aracaju-SE.
-- FILHO, Hilário. Verbete Documentação. In: Dicionário do Patrimônio Cultural. Disponível: http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/27/documentacao.
+- FILHO, Hilário. Verbete Documentação. In: Dicionário do Patrimônio Cultural. Disponível: &lt;<a href="http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/27/documentacao">http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/27/documentacao</a>&gt;
 - FREIRE, Adriana. Modernização e modernidade: uma leitura sobre a arquitetura moderna de Campina Grande (1940-1970). 2010. Dissertação (Mestrado em Arquitetura e Urbanismo) – Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos.
 - MACIEL, Josinaide. Olhar aproximado para as residências Souza Freire e Hora Oliveira: bens modernistas de interesse cultural. 2013. 270 f. Dissertação (Mestrado em Arquitetura e Urbanismo) – FAUUFBA, Universidade Federal da Bahia, Salvador.
 - MACIEL, Josinaide. Entrevista concedida no dia 19 de setembro de 2018. Aracaju-SE.
 - MINDLIN, Henrique. Arquitetura Moderna no Brasil. São Paulo: Instituto Brasileiro de Edições Pedagógicas, 2000.
-- NERY, Juliana. Registros: As Residências Modernistas em Aracaju nas Décadas de 50 e 60. In: V http://www.docomomo.org.br/seminario%205%20pdfs/079R.pdf. Acesso: 06 jun. 2010.
+- NERY, Juliana. Registros: As Residências Modernistas em Aracaju nas Décadas de 50 e 60. In: V &lt;<a href="http://www.docomomo.org.br/seminario%205%20pdfs/079R.pdf">http://www.docomomo.org.br/seminario%205%20pdfs/079R.pdf</a>&gt; Acesso: 06 jun. 2010.
 - NERY, Juliana. ; SANTOS, Isabella Aragão Melo. Expressões do moderno sergipano: as residências unifamiliares do bairro São José nos anos 50 e 60. In: Fernando Diniz Moreira. (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 01ed.Recife: Fasa Gráfica, 2007, v. 01, p. 237-258.
 - NETO, Paulo. Residências em Fortaleza, 1950 – 1979: 1 contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. Dissertação (Mestrado) Programa de Pós-Graduação Arquitetura e Urbanismo da Universidade de São Paulo FAUUSP-SP, 2005.
 - OLIVEIRA, Maria Hora. Entrevista concedida no dia 28 de setembro de 2018. Aracaju-SE.

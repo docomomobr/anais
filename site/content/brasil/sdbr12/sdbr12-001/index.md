@@ -53,8 +53,8 @@ palavras-chave:
 ## Referências
 
 - Amaral, Aracy Abreu. Blaise Cendrars no Brasil e os modernistas. São Paulo: Editora 34, 1997.
-- ANDRADE, Mário de. Cataguazes. In: Diário Nacional, São Paulo, ano 5, n. 1.510, 10 jul. 1932. Disponível em: &lt;http://bndigital.bn.br/hemeroteca-digital/&gt;. Acesso em: jun.2016.
-- ANDRADE, Mário de. O movimento modernista. In: O Estado de S. Paulo, fev. 1942. Disponível em: &lt;http://www.estadao.com.br&gt;. Acesso em: jul. 2012.
+- ANDRADE, Mário de. Cataguazes. In: Diário Nacional, São Paulo, ano 5, n. 1.510, 10 jul. 1932. Disponível em: &lt;<a href="http://bndigital.bn.br/hemeroteca-digital/">http://bndigital.bn.br/hemeroteca-digital/</a>&gt; Acesso em: jun.2016.
+- ANDRADE, Mário de. O movimento modernista. In: O Estado de S. Paulo, fev. 1942. Disponível em: &lt;<a href="http://www.estadao.com.br">http://www.estadao.com.br</a>&gt; Acesso em: jul. 2012.
 - ANDRADE, Mário de. Mário de. Cartas a Manuel Bandeira. São Paulo: Ediouro, 2009.
 - Araujo, Roberto Assumpção de. Cataguazes: Audaces d’Architecture et d’Art. In: L’Architecture d’Aujourd’hui, n. 42-43, 1952.
 - Bosi, Alfredo. História concisa da literatura brasileira. São Paulo: Cultrix, 2006.
@@ -69,15 +69,15 @@ palavras-chave:
 - Gonçalves, Lisbeth Rebollo. Sérgio Milliet: crítico de arte. São Paulo: Perspectiva, 1992.
 - Goodwin, Philip L. Brazil Builds: Architecture New and Old (1652-1942). New York: The Museum of Modern Art, 1943.
 - GUBERNIKOFF, Giselle. O cinema e seu público. In: AQUINO, Victor (Org.). Metáfora da arte. São Paulo: USP/MAC, 2008.
-- MANIFESTO DO GRUPO VERDE DE CATAGUAZES. Cataguases: A Brasileira, 1927 [Panfleto]. Disponível em: &lt; http://www.brasiliana.usp.br/handle/1918/06001470&gt;. Acesso em: ago. 2014.
+- MANIFESTO DO GRUPO VERDE DE CATAGUAZES. Cataguases: A Brasileira, 1927 [Panfleto]. Disponível em: &lt;<a href="http://www.brasiliana.usp.br/handle/1918/06001470">http://www.brasiliana.usp.br/handle/1918/06001470</a>&gt; Acesso em: ago. 2014.
 - MARTINS, Wilson. O Modernismo. São Paulo: Cultrix, 1973.
 - Mauro, Humberto. O ciclo de Cataguases. In: Werneck, Ronaldo. Kiryrí Rendauá Toribóca Opé: Humberto Mauro revisto por Ronaldo Werneck. São Paulo: Arte Pau-Brasil, 2009.
-- Menezes, Ana Lúcia G. R. L. A correspondência de Mário de Andrade com os rapazes do grupo Verde de Cataguases como território de criação. In: Cadernos do Congresso Nacional de Linguística e Filologia. Rio de Janeiro, vol. 15, n. 5, 2011. Disponível em: &lt;http://www.filologia.org.br&gt;. Acesso em: mar. 2014.
+- Menezes, Ana Lúcia G. R. L. A correspondência de Mário de Andrade com os rapazes do grupo Verde de Cataguases como território de criação. In: Cadernos do Congresso Nacional de Linguística e Filologia. Rio de Janeiro, vol. 15, n. 5, 2011. Disponível em: &lt;<a href="http://www.filologia.org.br">http://www.filologia.org.br</a>&gt; Acesso em: mar. 2014.
 - Menezes, Ana Lúcia G. Amizade carteada: o diálogo epistolar de Mário de Andrade com o Grupo Verde de Cataguases (Tese de Doutorado). São Paulo: Universidade de São Paulo, Faculdade de Filosofia, Letras e Ciências Humanas, 2013.
 - Mindlin, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.
 - Ortiz, Renato. A moderna tradição brasileira: cultura brasileira e identidade cultural. São Paulo: Brasiliense, 1989.
 - Papadaki, Stamo. The Work of Oscar Niemeyer. New York: Reinhold, 1950.
-- PENAFRIA, Manuela. Análise de Filmes - conceitos e metodologia(s). In: VI Congresso SOPCOM, Lisboa, 2009. Disponível em: http://www.bocc.uff.br/pag/bocc-penafria-analise.pdf. Acesso em: 18 de jun. de 2017.
+- PENAFRIA, Manuela. Análise de Filmes - conceitos e metodologia(s). In: VI Congresso SOPCOM, Lisboa, 2009. Disponível em: &lt;<a href="http://www.bocc.uff.br/pag/bocc-penafria-analise.pdf">http://www.bocc.uff.br/pag/bocc-penafria-analise.pdf</a>&gt; Acesso em: 18 de jun. de 2017.
 - Resende, Enrique. Pequena história sentimental de Cataguases. Belo Horizonte/São Paulo: Itatiaia, 1969.
 - Ruffato, Luiz. Os ases de Cataguases: uma história dos primórdios do modernismo. Cataguases: Instituto Francisca de Souza Peixoto, 2002.
 - Sodré, Nelson Werneck. Síntese de história da cultura brasileira. Rio de Janeiro: Bertrand Brasil, 1988.

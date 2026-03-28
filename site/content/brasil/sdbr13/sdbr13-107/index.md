@@ -79,7 +79,7 @@ palavras-chave:
 - LIMA, F.D.G. Conservatório. O Correio, São João del-Rei, 13 mar. 1960.
 - MANGILI, L. P. Anseios, dissonâncias, enfrentamentos: o lugar e a trajetória do patrimônio em Lençóis (BA). Tese [doutorado em arquitetura e urbanismo], Faculdade de Arquitetura e Urbanismo na Universidade de São Paulo. São Paulo, 2015.
 - MANGILI, L. P.; NOGUEIRA, M. N. Percalços na conservação da arquitetura moderna frente ao patrimônio colonial: o caso de São João del-Rei/MG. In: SIMPÓSIO CIENTÍFICO 2018 - ICOMOS
-- BRASIL, 2., 2018, Belo Horizonte. Anais… Belo Horizonte: UFMG, 2018. p. 7350-7373. MEC/SPHAN/FNPM. Proteção e revitalização do patrimônio histórico e artístico no Brasil: uma trajetória. Brasília: MEC, 1980. Disponível em: &lt;http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=531&gt;&gt;. Acesso em: 30 jan. 2014.
+- BRASIL, 2., 2018, Belo Horizonte. Anais… Belo Horizonte: UFMG, 2018. p. 7350-7373. MEC/SPHAN/FNPM. Proteção e revitalização do patrimônio histórico e artístico no Brasil: uma trajetória. Brasília: MEC, 1980. Disponível em: &lt;<a href="http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=531&gt">http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=531&gt</a>&gt; Acesso em: 30 jan. 2014.
 - MOREIRA, F. D. Os desafios postos pela conservação da arquitetura moderna. In: Revista CPC, São Paulo, n. 11, p. 152-187, nov. 2010/abr. 2011.
 - MOTTA, L. A SPHAN em Ouro Preto: uma história de conceitos e critérios. In: Revista do Patrimônio Histórico e Artístico Nacional nº 22. Rio de Janeiro: IPHAN, 1987.
 - OPORTUNO balanço de realizações. O Correio, São João del-Rei, 04 jul. 1954.

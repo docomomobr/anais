@@ -61,7 +61,7 @@ palavras-chave:
 
 - CERETO, M.P. Severiano Porto: The world cup lost. In: PROCEEDINGS OF THE 13TH DOCOMOMO
 - INTERNATIONAL CONFERENCE SEOUL – EXPANSION & CONFLIT. 2014, Seoul: Com-Pro Namyang, 2014. p. 136- 139.
-- COMAS, C. Arquitetura moderna, estilo campestre. Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513. Acessado em 12 mar.2016. KELLER-LEUZINGER,F. The Amazon and Madeira rivers. Londres: Chapman and Hali, 1874.
+- COMAS, C. Arquitetura moderna, estilo campestre. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513">http://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513</a>&gt; Acessado em 12 mar.2016. KELLER-LEUZINGER,F. The Amazon and Madeira rivers. Londres: Chapman and Hali, 1874.
 - REIS, A.C.F. Como governei o Amazonas (relat[orio de dois anos e seis meses de seu mandato como Governador do Estado do Amazonas, no per[iodo de 27 de junho de 1964 a 31 de janeiro de 1967. Relatório Oficial, Manaus: Secretaria de Imprensa e Divulgação, 1967.
 - SEGAWA, H. Arquiteturas no Brasil 1900-1990. 2. ed. São Paulo: Editora da USP, 1999.
 - SEGAWA, H.; DOURADO, G. M. Oswaldo Arthur Bratke. A arte de bem projetar e construir. 2. ed. São Paulo: PW Editores, 2012.

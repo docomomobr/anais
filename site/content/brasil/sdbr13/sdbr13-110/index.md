@@ -52,26 +52,26 @@ palavras-chave:
 
 ## Referências
 
-- BRASIL. Decreto nº 60.155, de 27 de janeiro de 1967. Cria, no Ministério da Educação e Cultura, o Grupo Nacional de Desenvolvimento das Construções Escolares e dá outras providências. Câmara dos Deputados. Brasília, DF, [20--]. Disponível em: &lt;https://www2.camara.leg.br&gt;. Acesso em: 22 abr. 2019.
+- BRASIL. Decreto nº 60.155, de 27 de janeiro de 1967. Cria, no Ministério da Educação e Cultura, o Grupo Nacional de Desenvolvimento das Construções Escolares e dá outras providências. Câmara dos Deputados. Brasília, DF, [20--]. Disponível em: &lt;<a href="https://www2.camara.leg.br">https://www2.camara.leg.br</a>&gt; Acesso em: 22 abr. 2019.
 - BRASIL. Ministério da Educação e Cultura. Exposição de motivos. Diário Oficial da União. Brasília,
-- DF, 07 out. 1969a. Seção I, p. 9. Disponível em: &lt;http://www.jusbrasil.com.br&gt;. Acesso em: 22 abr. 2015.
+- DF, 07 out. 1969a. Seção I, p. 9. Disponível em: &lt;<a href="http://www.jusbrasil.com.br">http://www.jusbrasil.com.br</a>&gt; Acesso em: 22 abr. 2015.
 - BRASIL. Gabinete do Ministro. Portarias de 29 de outubro de 1969b. Diário Oficial da União. Brasília,
-- DF, 05 nov. 1969. Seção I, p. 17. Disponível em: &lt;http://www.jusbrasil.com.br&gt;. Acesso em: 22 abr. 2015.
+- DF, 05 nov. 1969. Seção I, p. 17. Disponível em: &lt;<a href="http://www.jusbrasil.com.br">http://www.jusbrasil.com.br</a>&gt; Acesso em: 22 abr. 2015.
 - CONESCAL. Campanhas de Construções Escolares_m030p01: La Organización de los Grupos de Desarrollo de las Construcciones Escolares en Brasil, 1966. INSTITUTO NACIONAL DE ESTUDOS E
-- PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Arquivo Histórico do INEP. Brasília, dez. 2018. Disponível em: &lt;http://arquivohistorico.inep.gov.br&gt;. Acesso em: 14 fev. 2019.
+- PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Arquivo Histórico do INEP. Brasília, dez. 2018. Disponível em: &lt;<a href="http://arquivohistorico.inep.gov.br">http://arquivohistorico.inep.gov.br</a>&gt; Acesso em: 14 fev. 2019.
 - EDITORIAL. CONESCAL: revista del Centro Regional de Construcciones Escolares para América Latina, México, n. 62/63, p. 5, out. 1983.
 - EL CENTRO Regional de Construcciones Escolares para América Latina. CONESCAL: revista del Centro Regional de Construcciones Escolares para América Latina, México, n. 1, p. II, ago. 1965.
 - FIORITO, Mariana I. Arquitectura + Educación = Funcionalismo: edificios para la enseñanza media en la revista Conescal (1965-1969). Monografia (Seminario de Historia y Crítica de la Arquitetctura
-- ARQ 3007-1) – Facultad de Arquitectura, Diseño y Estudios Urbanos, Pontificia Universidad Católica de Chile, Santiago de Chile, Dic. 2009. Disponível em: &lt;https://www.academia.edu&gt;. Acesso em: 30 maio 2018.
+- ARQ 3007-1) – Facultad de Arquitectura, Diseño y Estudios Urbanos, Pontificia Universidad Católica de Chile, Santiago de Chile, Dic. 2009. Disponível em: &lt;<a href="https://www.academia.edu">https://www.academia.edu</a>&gt; Acesso em: 30 maio 2018.
 - GOMES, Marco Aurélio A. de Filgueiras; ESPINOZA, José Carlos Huapaya. Olhares cruzados: visões do urbanismo moderno na América do Sul, 1930-1960. In: GOMES, Marco Aurélio A. de Filgueiras (org.). Urbanismo na América do Sul: circulação de ideias e constituição do campo. Salvador: EDUFBA, 2009. p. 13-39.
 - GONÇALVES, Rita de Cássia Pacheco. Arquitetura Flexível e pedagogia ativa: um (des)encontro nas escolas de espaços abertos. 2011. Tese (Doutorado em História da Educação) – Instituto de Educação, Universidade de Lisboa, Lisboa, jan. 2011.
 - GNDCE. Campanhas de Construções Escolares_m045p01: Atas de reuniões do Grupo Nacional de Desenvolvimento das Construções Escolares, 1969-1970. INSTITUTO NACIONAL DE ESTUDOS E
 - INEP. ENCONTRO_m261p01 - Fotos e Recortes de Jornais da II Conferência Nacional de Educação,
 - LIERNUR, Jorge Francisco. Foreword. In: CARRANZA, Luis E.; LARA, Fernando Luiz. Modern Architecture in Latin America: art, technology, and utopia. Austin: University of Texas, 2014. p. XI-
-- LOUREIRO, Cláudia; AMORIM, Luiz. Por uma arquitetura social: a influência de Richard Neutra em prédios escolares no Brasil. Arquitextos, São Paulo, SP, jan. 2002. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/813&gt;. Acesso em: 14 abr. 2019.
-- PEREIRA, Fúlvio Teixeira de Barros. Exporting progress: os norte-americanos e o planejamento do campus no Brasil. 2017. Tese (Doutorado em Teoria e História da Arquitetura e do Urbanismo) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2017. Disponível em: &lt;http://www.teses.usp.br&gt;. Acesso em: 29 maio 2018.
+- LOUREIRO, Cláudia; AMORIM, Luiz. Por uma arquitetura social: a influência de Richard Neutra em prédios escolares no Brasil. Arquitextos, São Paulo, SP, jan. 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/813">http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/813</a>&gt; Acesso em: 14 abr. 2019.
+- PEREIRA, Fúlvio Teixeira de Barros. Exporting progress: os norte-americanos e o planejamento do campus no Brasil. 2017. Tese (Doutorado em Teoria e História da Arquitetura e do Urbanismo) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2017. Disponível em: &lt;<a href="http://www.teses.usp.br">http://www.teses.usp.br</a>&gt; Acesso em: 29 maio 2018.
 - SÁNCHES, Alvaro. Formación del personal latinoamericano en la especialidad de planeamiento de las construcciones escolares. CONESCAL: revista del Centro Regional de Construcciones Escolares para América Latina, México, n. 2, p. 153-156, dez. 1965.
-- SEGRE, Roberto. A razão construtiva nas escolas paulistas. Projeto Design, São Paulo, n. 321, dez. 2006. Disponível em: &lt;https://arcoweb.com.br/&gt;. Acesso em: 14 abr. 2018.
-- UNESCO. Principios del planeamiento de la educación. Paris: UNESCO, [1962?]. Disponível em: &lt;http://unesdoc.unesco.org/images/0013/001338/133860so.pdf&gt;. Acesso em: 08 dez. 2015.
-- UNESCO. 50 Years of Education. Paris: UNESCO, 1997. Disponível em: &lt;http://www.unesco.org/education/educprog/50y/brochure/index.htm&gt;. Acesso em: 19 abr. 2016.
-- VIEYRA, E. Ferrer. Informe sobre el Centro Regional de Construcciones Escolares para America Latina y la región del Caribe (CONESCAL). Ginebra: UNESCO, nov. 1973. Disponível em: &lt;http://unesdoc.unesco.org/images/0001/000106/ 010652sb.pdf&gt;. Acesso em: 21 abr. 2015.
+- SEGRE, Roberto. A razão construtiva nas escolas paulistas. Projeto Design, São Paulo, n. 321, dez. 2006. Disponível em: &lt;<a href="https://arcoweb.com.br/">https://arcoweb.com.br/</a>&gt; Acesso em: 14 abr. 2018.
+- UNESCO. Principios del planeamiento de la educación. Paris: UNESCO, [1962?]. Disponível em: &lt;<a href="http://unesdoc.unesco.org/images/0013/001338/133860so.pdf">http://unesdoc.unesco.org/images/0013/001338/133860so.pdf</a>&gt; Acesso em: 08 dez. 2015.
+- UNESCO. 50 Years of Education. Paris: UNESCO, 1997. Disponível em: &lt;<a href="http://www.unesco.org/education/educprog/50y/brochure/index.htm">http://www.unesco.org/education/educprog/50y/brochure/index.htm</a>&gt; Acesso em: 19 abr. 2016.
+- VIEYRA, E. Ferrer. Informe sobre el Centro Regional de Construcciones Escolares para America Latina y la región del Caribe (CONESCAL). Ginebra: UNESCO, nov. 1973. Disponível em: &lt;<a href="http://unesdoc.unesco.org/images/0001/000106/">http://unesdoc.unesco.org/images/0001/000106/</a>&gt; 010652sb.pdf&gt;. Acesso em: 21 abr. 2015.

@@ -57,6 +57,6 @@ palavras-chave:
 - KESSEL, Carlos. Arquitetura Neocolonial no Brasil. Rio de Janeiro, Editora Jauá, 2008.
 - LEMOS, Carlos. "Azulejos decorados na modernidade arquitetônica brasileira". In: Revista do Patrimônio Histórico e Artístico Nacional. Rio de Janeiro, IPHAN, n. 20/1984. "Oportunidade perdida" (entrevista de Max Bill à revista Manchete, e réplica de Lucio Costa). In:
 - XAVIER, Alberto (org.). Lucio Costa: sobre arquitetura. Porto Alegre, Editora UniRitter, 2007.
-- RIBEIRO, Paulo Eduardo Vidal Leite. "Palácio Gustavo Capanema - Processo de restauração e revitalização" Consultado em: http://www.docomomo.org.br/seminario%203%20pdfs/subtema_B1F/Paulo_eduardo_ribeiro.pdf
+- RIBEIRO, Paulo Eduardo Vidal Leite. "Palácio Gustavo Capanema - Processo de restauração e revitalização" Consultado em: &lt;<a href="http://www.docomomo.org.br/seminario%203%20pdfs/subtema_B1F/Paulo_eduardo_ribeiro.pdf">http://www.docomomo.org.br/seminario%203%20pdfs/subtema_B1F/Paulo_eduardo_ribeiro.pdf</a>&gt;
 - RODRIGUES, José Wasth. Documentário Arquitetônico – Relativo à antiga construção civil no Brasil .São Paulo, Itatiaia – USP, 1979.
-- XAVIER, Alberto (org.). Lucio Costa: sobre arquitetura. Porto Alegre, Editora UniRitter, 2007. http://www.fondationlecorbusier.fr/ConfCONF1(2).htm http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/index.cfm?fuseaction=termos_texto&c d_verbete=334
+- XAVIER, Alberto (org.). Lucio Costa: sobre arquitetura. Porto Alegre, Editora UniRitter, 2007. http://www.fondationlecorbusier.fr/ConfCONF1(2).htm &lt;<a href="http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/index.cfm?fuseaction=termos_texto&c">http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/index.cfm?fuseaction=termos_texto&c</a>&gt; d_verbete=334

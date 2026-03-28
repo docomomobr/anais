@@ -49,6 +49,6 @@ palavras-chave:
 
 - BOTEY, Josep Ma. Oscar Niemeyer. Barcelona: Gustavo Gili, 1996. Goodwin, Philip. Brazil Builds. New York: MoMA, 1943.
 - GRAEFF, Edgar. Arquitetura contemporânea no Brasil. Rio de Janeiro: Gertum Carneiro Editora, 1947. L’Architecture D’Aujourd’hui n.13-14, set./1947. L’Architecture D’Aujourd’hui n.18-19, jun./1948. L’Architecture D’Aujourd’hui n.42-43, ago./1952.
-- LUCCAS, Luís Henrique Haas Luccas. Arquitetura moderna brasileira em Porto Alegre: sob o mito do “gênio artístico nacional”. Porto Alegre: PROPAR/UFRGS, 2004. (Tese de doutorado em arquitetura) . A escola carioca e a arquitetura moderna em Porto Alegre. Arquitextos n. 73, 06/2006. http://www.vitruvius.com.br/arquitextos/arq000/esp370.asp . Acesso em: 06 dez. 2010.
+- LUCCAS, Luís Henrique Haas Luccas. Arquitetura moderna brasileira em Porto Alegre: sob o mito do “gênio artístico nacional”. Porto Alegre: PROPAR/UFRGS, 2004. (Tese de doutorado em arquitetura) . A escola carioca e a arquitetura moderna em Porto Alegre. Arquitextos n. 73, 06/2006. &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp370.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp370.asp</a>&gt; . Acesso em: 06 dez. 2010.
 - MINDLIN, Henrique. Modern architecture in Brazil. Rio de Janeiro: Colibris, 1956.
 - XAVIER, Alberto/ MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo: Pini, 1987.

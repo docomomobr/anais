@@ -59,16 +59,16 @@ palavras-chave:
 - CARTA DE ATENAS. CIAM: Congresso Internacional de Arquitetura Moderna. Novembro de 1933: versão pdf; IPHAN.
 - Código de Obras Arthur Saboya: consolidação aprovada pelo ato nº 663 de 10 de Agosto de 1934. São Paulo; Escola Profissionaes Salesianas, 1935.
 - CARRILHO, Marcos José. O Edifício Esther. IN: Seminário DO.CO.MO.MO BRASIL , 3.,São Paulo, 1999. {versão DO.CO.MO.MO, [Marcos_Carrilho. Pdf].
-- COLQUHOUN, Alan. Modernidade e tradição clássica: ensaios sobre arquitetura 1980-87.  Trad. Chirstriane Brito. São Paulo, Cosac & Naify, 2004
-- COMAS, Carlos Eduardo Dias. Projeto e monumento, um ministério, o ministério. São  Paulo, Revista Projeto 102, 1987, p.133-49.
+- COLQUHOUN, Alan. Modernidade e tradição clássica: ensaios sobre arquitetura 1980-87. Trad. Chirstriane Brito. São Paulo, Cosac & Naify, 2004
+- COMAS, Carlos Eduardo Dias. Projeto e monumento, um ministério, o ministério. São Paulo, Revista Projeto 102, 1987, p.133-49.
 - CONDURU, Roberto (orgs). Vital Brasil. São Paulo, Cosac & Naify, 2000.
-- FALBEL, Anat.  Lucjan Korngold: a trajetória de um arquiteto imigrante. Tese de Doutorado. Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. São Paulo, 2003.
+- FALBEL, Anat. Lucjan Korngold: a trajetória de um arquiteto imigrante. Tese de Doutorado. Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. São Paulo, 2003.
 - LISSOVSKY, Maurício; SÁ, Paulo Sérgio Moraes de. Colunas da Educação: a construção do Ministério da Educação e Saúde (1935-1945). Rio de Janeiro: MINC/IPHAN; Fundação Getulio Vargas/CPDOC, 1996.
 - MINDLIN, Henrique E.. Modern Architecture in Brazil. Rio de Janeiro/Amsterdam, Colibris editora, 1956.
 - RIBEIRO, Alessandro J. Castroviejo. Edifícios Modernos e o Centro Histórico de São Paulo: dificuldades de textura e forma. Tese de doutorado. Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. São Paulo, 2010.
-- ROWE, Colin. ROWE, Colin; KOETTERr, Fred. Ciudad Collage. Trad: Esteve Riambau Sauri.  Barcelona: Gustavo Gili, , 1998.
+- ROWE, Colin. ROWE, Colin; KOETTERr, Fred. Ciudad Collage. Trad: Esteve Riambau Sauri. Barcelona: Gustavo Gili, , 1998.
 - SEGAWA, Hugo. O herói desconhecido da moderna arquitetura brasileira. São Paulo, Revista Projeto nº 96, 1987, p.59-64.
-- XAVIER, Alberto, LEMOS, Carlos, CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo,  Pini, 1983.
+- XAVIER, Alberto, LEMOS, Carlos, CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo, Pini, 1983.
 - BRITO, Alfredo, NOBRE, Ana Luiza.
 - XAVIER, Alberto, LEMOS, Carlos, CORONA, Eduardo. Arquitetura moderna no Rio de Janeiro. São Paulo, Pini; Fundação Vilanova Artigas; Rio de Janeiro, Rioarte,1991.
 - Mapas: Comissão IV centenário da cidade de São Paulo. São Paulo Antigo – Plantas da Cidade, São Paulo, 1954.

@@ -46,7 +46,7 @@ palavras-chave:
 - BARROS, Luiz Antônio Recamán. Por uma Arquitetura Brasileira. 1996. 196p. Tese (doutorado em Filosofia) – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 1996.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Ed. Perspectiva, 1999.
 - BUZZAR, Miguel Antonio. João Batista Vilanova Artigas: elementos para a compreensão de um caminho da arquitetura brasileira, 1938-1967. 1996. Tese (doutorado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1996.
-- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Texto disponível na internet, em: http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf. Acesso em: 12 março 2007.
+- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Texto disponível na internet, em: &lt;<a href="http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf">http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf</a>&gt; Acesso em: 12 março 2007.
 - CAVALCANTI, Lauro. Moderno e Brasileiro – A história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar Editor, 2006.
 - COELHO, Isabel Ruas Pereira. Painéis em mosaico na arquitetura moderna paulista – 1945- 1964. 2000. 224p + anexos. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2000.
 - COSTA, Lúcio. Lúcio Costa: Registro de uma Vivência. São Paulo: Empresa das Artes, 1995.
@@ -64,7 +64,7 @@ palavras-chave:
 - MUSEU NACIONAL DE BELAS ARTES (org.), FUNDAÇÃO ROBERTO MARINHO (org.). Djanira e a Azulejaria Contemporânea: catálogo. Rio de Janeiro, 1997. 28 p. Publicado por ocasião da exposição realizada no Museu Nacional de Belas Artes de Fevereiro a Março de 1997.
 - OLIVEIRA, Márcia David de. O Lugar da Arte: o Caso do Ministério da Educação e Saúde Pública – Rio de Janeiro 1935/1945. 2005. 268p. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2005.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora Edusp, 1997.
-- SEGRE, Roberto et al. O edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira. Texto disponível na internet, em: http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp. Acesso em: 10 setembro 2006.
+- SEGRE, Roberto et al. O edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira. Texto disponível na internet, em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp">http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp</a>&gt; Acesso em: 10 setembro 2006.
 - UNDERWWOD, David. Oscar Niemeyer e o modernismo de formas livres no Brasil. São Paulo: Editora Cosac Naify, tradução de Betina Bischof, 2002.
 - XAVIER, Alberto (org.). Depoimento de uma Geração – Arquitetura Moderna Brasileira. São Paulo: Cosac Naify, 2003.
 - ZEIN, Ruth Verde. As Tendências e as Discussões do Pós-Brasília. In: REVISTA PROJETO. São Paulo: Arco, n. 53, julho 1983, p. 75-85.

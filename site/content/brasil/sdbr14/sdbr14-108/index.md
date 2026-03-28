@@ -38,7 +38,7 @@ authors:
     familyname: "Monteiro"
     orcid: "0000-0001-7345-9558"
 doi: "10.5281/zenodo.19078257"
-zenodo_pdf_url: "https://zenodo.org/records/19078258/files/sdbr14-108.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285682/files/sdbr14-108.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:

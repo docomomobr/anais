@@ -78,21 +78,21 @@ palavras-chave:
 - HUYGHE, René. Diálogo com o visível. Lisboa: Bertrand Editora, 1955.
 - KOSSOY, Boris. Os Tempos da Fotografia. O Efêmero e o Perpétuo. São Paulo: Ateliê Editorial, 2007.
 - KOSSOY, Boris. Realidades e Ficções na Trama Fotográfica. São Paulo: Ateliê Editorial, 1999.
-- LARA, Fernando. Espelho de fora: arquitetura brasileira vista do exterior. Arquitextos 004. Texto especial 012. São Paulo: Vitruvius, 2000. Disponível em http://www.vitruvius.com.br/arquitextos/arq000/esp012.asp. Acesso em 30 de Setembro de 2008.
+- LARA, Fernando. Espelho de fora: arquitetura brasileira vista do exterior. Arquitextos 004. Texto especial 012. São Paulo: Vitruvius, 2000. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp012.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp012.asp</a>&gt; Acesso em 30 de Setembro de 2008.
 - MAGALHÃES, Ana; GONÇALVES, Inês. Moderno Tropical. Arquitectura em Angola e Moçambique, 1948-1975. Lisboa: Edições tinta-da-china, 2009.
-- MATOS, Madalena Cunha, RAMOS, Tânia Beisl. Um encontro, um desencontro. Lucio Costa, Raul Lino e Carlos Ramos. Lisboa, 2007. Disponível em: http://www.docomomo.org.br/seminario 7 pdfs/034.pdf. Acesso em 16 de Junho de 2008.
-- MATOS, Madalena Cunha, RAMOS, Tânia Beisl. Por via do Atlântico: Traçados e Monumentos Urbanos no Brasil e em Territórios Africanos de Colonização Portuguesa. Disponível em http://www.docomomo.org.br/seminario%208%20pdfs/163.pdf. Acesso em 10 de Outubro de 2010.
+- MATOS, Madalena Cunha, RAMOS, Tânia Beisl. Um encontro, um desencontro. Lucio Costa, Raul Lino e Carlos Ramos. Lisboa, 2007. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario">http://www.docomomo.org.br/seminario</a>&gt; 7 pdfs/034.pdf. Acesso em 16 de Junho de 2008.
+- MATOS, Madalena Cunha, RAMOS, Tânia Beisl. Por via do Atlântico: Traçados e Monumentos Urbanos no Brasil e em Territórios Africanos de Colonização Portuguesa. Disponível em &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/163.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/163.pdf</a>&gt; Acesso em 10 de Outubro de 2010.
 - MILHEIRO, Ana Vaz. A construção do Brasil – Relações com a Cultura Arquitectónica Portuguesa. Porto: Faculdade de Arquitectura da Universidade do Porto, FAUP Publicações, 2005.
 - MILHEIRO, Ana Vaz. O Brasil moderno e a sua influência na arquitetura portuguesa: a tradição em Brazil Builds (1943) e o seu reflexo no Inquérito à Arquitetura Popular em Portugal (1955-1961) in MOREIRA, Fernando Diniz (org). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade, pp.107-128.
 - MILHEIRO, Ana Vaz. A Tradição em Brazil Builds (1943) e o seu Reflexo no Inquérito à Arquitectura Popular em Portugal (1955-1961). Fonte: Texto cedido por Ana Vaz de Milheiro.
 - NEWITT, Malyn. História de Moçambique. Biblioteca da História. Sintra: Biblioteca da História. Publicações Europa-América, 1997.
-- RAMOS, Tânia Beisl. MATOS, Madalena Cunha. Recepção da Arquitectura Moderna Brasileira em Portugal – registos e uma leitura. Disponível em http://www.docomomo.org.br/seminario6pdfs/TaniaBeisiRamos.pdf. Acesso em 17 de Março de 2008.
+- RAMOS, Tânia Beisl. MATOS, Madalena Cunha. Recepção da Arquitectura Moderna Brasileira em Portugal – registos e uma leitura. Disponível em &lt;<a href="http://www.docomomo.org.br/seminario6pdfs/TaniaBeisiRamos.pdf">http://www.docomomo.org.br/seminario6pdfs/TaniaBeisiRamos.pdf</a>&gt; Acesso em 17 de Março de 2008.
 - SANTIAGO, Miguel. Pancho Guedes – Metamorfoses Espaciais. Portugal – Casal de Cambra: Caleidoscópio, 2007.
 - SERT, J. L., LÉGER, F., GIEDION, S. Nine Points on Monumentality. In: Harvard Architecture Review, 1984.
 - SUDJIC, Deyan; JONES, Helen. Architecture and Democracy. Londres: Laurence King, 2001.
 - TINEM, Nelci. O alvo do olhar estrangeiro: o Brasil na historiografia da arquitetura moderna. João Pessoa: Editora Universitária, 2006, 2ª edição.
 - TINEM, Nelci. Universalidade, diversidade e audácia da arquitectura moderna brasileira nas páginas de L’Architecture d’Aujourd’hui. In MOREIRA, Fernando Diniz (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade, pp.151-173.
-- TINEM, Nelci. Arquitetura Moderna Brasileira: a imagem como texto. São Paulo: Vitruvius, 2006. Disponível em: http://www.vitruvius.com.br/arquitextos/arq072/arq072_02.asp. Acesso em 07 de Agosto de 2008.
+- TINEM, Nelci. Arquitetura Moderna Brasileira: a imagem como texto. São Paulo: Vitruvius, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq072/arq072_02.asp">http://www.vitruvius.com.br/arquitextos/arq072/arq072_02.asp</a>&gt; Acesso em 07 de Agosto de 2008.
 - TOSTÕES, Ana. Os Verdes Anos na Arquitectura Portuguesa dos Anos 50. Porto: Faculdade de Arquitectura da Universidade do Porto, 1997.
 - TOSTÕES, Ana. Moderno e nacional na arquitectura portuguesa. A Descoberta da Modernidade
 - Brasileira. in PESSÔA, José et allii orgs. Moderno e Nacional. Rio de Janeiro: EdUFF, 2006. pp.101-124.

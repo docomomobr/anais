@@ -58,13 +58,13 @@ palavras-chave:
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 9050: Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Rio de Janeiro, 2015.
 - BRASILEIRO, C. F. L.; NÓBREGA, L.; PINTO, F.; SIQUEIRA, R. Plano de Conservação: Jardim de Infância Ana Rosa Falcão de Carvalho. In:: 9º seminário Docomomo Brasil Brasil,, 2011, Brasília. Interdisciplinaridade e experiências ias em documentação e preservação do patrimônio recente. Brasília: UnB UnB--FAU, 2011.
-- BRASIL. Lei n. 10.098 de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para promoção de acessibilidade das pessoas portadoras de deficiência ou com mo mobilidade reduzida e dá outras providências.. Brasília, 2000. Disponível em: http://www.planalto.gov.br/ccivil_03/LEIS/L10098.htm. Acesso em: 13 ago. 2020.
+- BRASIL. Lei n. 10.098 de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para promoção de acessibilidade das pessoas portadoras de deficiência ou com mo mobilidade reduzida e dá outras providências.. Brasília, 2000. Disponível em: &lt;<a href="http://www.planalto.gov.br/ccivil_03/LEIS/L10098.htm">http://www.planalto.gov.br/ccivil_03/LEIS/L10098.htm</a>&gt; Acesso em: 13 ago. 2020.
 - BRUAND, Y. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CONSELHO ESTADUAL DE EDUCAÇÃO
 - DUCAÇÃO DE PERNAMBUCO
 - PERNAMBUCO. Resolução CEE/PE Nº 3.. Recife: Conselho Estadual de Educação de Pernambuco, 2006. rasil | Belém, 27 a 29 de outubro de 2021
 - COSTA, A. A. A. A produção arquitetônica moderna dos primeiros discípulos de uma Escola. Arquitextos, São Paulo, ano 09, n. 098.05, Vitruvius, jul. 20 2008.
-- DOM Bosco / Shieh Arquitetos Associados. Associados.ArchDaily Brasil, 2017. 2017 Disponível em: https://www.archdaily.com.br/br/867494/dom https://www.archdaily.com.br/br/867494/dom-bosco-shieh-arquitetos-associados. associados. Acesso em: 10 ago. 2020.
+- DOM Bosco / Shieh Arquitetos Associados. Associados.ArchDaily Brasil, 2017. 2017 Disponível em: &lt;<a href="https://www.archdaily.com.br/br/867494/dom">https://www.archdaily.com.br/br/867494/dom</a>&gt; &lt;<a href="https://www.archdaily.com.br/br/867494/dom-bosco-shieh-arquitetos-associados">https://www.archdaily.com.br/br/867494/dom-bosco-shieh-arquitetos-associados</a>&gt; associados. Acesso em: 10 ago. 2020.
 - FERREIRA, A. F.; MELLO, M. G. (Orgs.). Arquitetura escolar paulista: estruturas pré-fabricadas. pré São Paulo:
 - FREIRE, A. Descaracterização do Instituto de Educação de Pernambuco. In:: IV Projetar 2009. 2009 Projeto como investigação: ensino, pesquisa e prática, 2009, São Paulo. IV Projetar 2009. Projeto como investigaçã investigação: antologia. São Paulo: Alter Market, 2009 2009a.
 - FREIRE, A. Marcos Domingues. Sentimento estético revelado. AU. Arquitetura e Urbanismo, Urbanismo v. Ano 24, p. 55-59, 2009b.

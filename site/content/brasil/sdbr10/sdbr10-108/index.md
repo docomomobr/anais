@@ -53,4 +53,4 @@ palavras-chave:
 - Banham, Reyner .The new brutalism. The Architectural Review, (1955): 354-361. Frampton, Kenneth Modern Architecture, a critical history. Londres: Thames and Hudson, 1982.
 - Marg, Volkwin. Stadia and Arenas, von Gerkan,Marg und partner. Berlim: Hatje Cantz, 2005.
 - Marg, Volkwin (org.) Choreography of the masses: In Sport.In the StadIum. In a frenzy.Berlim: Akademie der Künste, Berlim, 2012.
-- Zein, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, Portal Vitruvius (2007 - http://www.vitruvius.com.br), consultado em 09/06/2013, gmp-architekten.de - consultado em 10/08/2013
+- Zein, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, Portal Vitruvius (2007 - &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; consultado em 09/06/2013, gmp-architekten.de - consultado em 10/08/2013

@@ -55,7 +55,7 @@ palavras-chave:
 
 ## Referências
 
-- CARRASCO, Daniel Matus. Diplômes et diplômés en urbanisme: Paris 1919-1969. Architecture, aménagement de l’espace. Université de Nanterre - Paris X, 2018. França. Disponível em https://tel.archives-ouvertes.fr/tel-02165940/document.
+- CARRASCO, Daniel Matus. Diplômes et diplômés en urbanisme: Paris 1919-1969. Architecture, aménagement de l’espace. Université de Nanterre - Paris X, 2018. França. Disponível em &lt;<a href="https://tel.archives-ouvertes.fr/tel-02165940/document">https://tel.archives-ouvertes.fr/tel-02165940/document</a>&gt;
 - CONDE, Luiz Paulo Conde & ALMADA, Mauro. Panorama do art déco na arquitetura e no urbanismo do Rio de Janeiro. In: CZAJKOWSKI, Jorge (org.). Guia da arquitetura art déco no Rio de Janeiro. Rio de Janeiro: Casa da Palavra, [1996] 2000.
 - CORREIA, Telma de Barros. Art déco e indústria, Brasil décadas de 1930 e 1940. Anais do Museu Paulista, v.16, n.2, p.47-104, 2008.
 - DANTAS, George Alexandre Ferreira. Linhas convulsas e tortuosas retificações: transformações urbanas em Natal nos anos 1920. Dissertação (Mestrado em Tecnologia do Ambiente Construído) - Escola de Engenharia de São Carlos, Universidade de São Paulo, 2003.
@@ -63,7 +63,7 @@ palavras-chave:
 - ÉCOLE SPÉCIALE D'ARCHITECTURE. Établissement d'enseignement supérieur décrété d' utilité publique en 1870 reconnu par l'état (décret du 9 janvier 1934), Paris, n.24, janeiro de 1968. Acessado em brochure_ESA_1968.pdf.
 - MARGENAT, Juan P. Arquitetura art deco en Montevideo (1925-1950). Montevideo: Mercur, 2000.
 - MARQUES, Sônia. Maestro sem orquestra, um estudo da ideologia do arquiteto no Brasil 1820-1950. (Dissertação de Mestrado) – PIMES, Universidade Federal de Pernambuco, 1983.
-- MARQUES, Sonia; NASLAVSKY, Guilah. Eu vi o modernismo nascer… foi no Recife. Arquitextos, ano 11, n.131.02, p.1-17. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3826&gt;. Acesso em: 19 set. 2017. 2011.
+- MARQUES, Sonia; NASLAVSKY, Guilah. Eu vi o modernismo nascer… foi no Recife. Arquitextos, ano 11, n.131.02, p.1-17. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3826">http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3826</a>&gt; Acesso em: 19 set. 2017. 2011.
 - MENEZES, José Luiz Mota; REINAUX, Marcílio. Palácio da Justiça. 2. ed. rev. e ampl. Recife: Gráfica e Editora Liceu, 1997.
 - MIRANDA, João Maurício Fernandes. 380 anos de história fotográfica da cidade de Natal 1599-1979. Natal: Prefeitura Municipal de Natal, 1981.
 - MOREIRA, Fernando Diniz. A aventura do urbanismo moderno no Recife. LEME, Maria Cristina (org.) Urbanismo no Brasil 1895-1965, São Paulo: Nobel; Edusp, 1999

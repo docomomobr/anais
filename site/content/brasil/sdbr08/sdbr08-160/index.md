@@ -59,25 +59,25 @@ palavras-chave:
 
 ## Referências
 
-- AMORIM, Luiz. Modernismo recifense:uma escola de arquitetura, três paradigmas e alguns paradoxos.Portal Vitruvius, 2001. Disponível em: http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp acessado em março de 2009.
-- BRASIL, Decreto nº 3.860, de 09 de julho de 2001. Dispõe sobre a organização do ensino superior, a avaliação de cursos e instituições, e dá outras providências. Portal Prolei – Inep.Disponível em: http://www.prolei.inep.gov.br/ acessado em fevereiro de 2009.
-- BRASIL. Decreto-Lei n° 60.461, de 13 de março de 19 67. Cria a Comissão Especial no Ministério da Educação e Cultura. Portal Prolei – Inep.Disponível em: http://www.prolei.inep.gov.br/ acessado em fevereiro de 2009.
-- BRASIL. Decreto-Lei n° 73.857, de 14 de março de 19 74. Reestrutura a Comissão Especial para Execução do Plano de Melhoramento e Expansão do Ensino Superior - CEPES. Portal Prolei – Inep. Disponível em: http://www.prolei.inep.gov.br/ acessado em fevereiro de 2009.
-- BRASIL. Lei n° 5.590, de 28 de novembro de 1968. Fi xa normas de organização e funcionamento do ensino superior e sua articulação com a escola média, e dá outras providências. Portal da República Federativa do Brasil. Disponível em: http://www.planalto.gov.br/CCIVIL/Leis/L5540.htm acessado em abril de 2009.
-- BRASIL.Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional - Lei de Diretrizes e Bases da Educação – LDB. Portal Prolei – Inep. Disponível em: http://www.prolei.inep.gov.br/ acessado em fevereiro de 2009.
+- AMORIM, Luiz. Modernismo recifense:uma escola de arquitetura, três paradigmas e alguns paradoxos.Portal Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp">http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp</a>&gt; acessado em março de 2009.
+- BRASIL, Decreto nº 3.860, de 09 de julho de 2001. Dispõe sobre a organização do ensino superior, a avaliação de cursos e instituições, e dá outras providências. Portal Prolei – Inep.Disponível em: &lt;<a href="http://www.prolei.inep.gov.br/">http://www.prolei.inep.gov.br/</a>&gt; acessado em fevereiro de 2009.
+- BRASIL. Decreto-Lei n° 60.461, de 13 de março de 19 67. Cria a Comissão Especial no Ministério da Educação e Cultura. Portal Prolei – Inep.Disponível em: &lt;<a href="http://www.prolei.inep.gov.br/">http://www.prolei.inep.gov.br/</a>&gt; acessado em fevereiro de 2009.
+- BRASIL. Decreto-Lei n° 73.857, de 14 de março de 19 74. Reestrutura a Comissão Especial para Execução do Plano de Melhoramento e Expansão do Ensino Superior - CEPES. Portal Prolei – Inep. Disponível em: &lt;<a href="http://www.prolei.inep.gov.br/">http://www.prolei.inep.gov.br/</a>&gt; acessado em fevereiro de 2009.
+- BRASIL. Lei n° 5.590, de 28 de novembro de 1968. Fi xa normas de organização e funcionamento do ensino superior e sua articulação com a escola média, e dá outras providências. Portal da República Federativa do Brasil. Disponível em: &lt;<a href="http://www.planalto.gov.br/CCIVIL/Leis/L5540.htm">http://www.planalto.gov.br/CCIVIL/Leis/L5540.htm</a>&gt; acessado em abril de 2009.
+- BRASIL.Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional - Lei de Diretrizes e Bases da Educação – LDB. Portal Prolei – Inep. Disponível em: &lt;<a href="http://www.prolei.inep.gov.br/">http://www.prolei.inep.gov.br/</a>&gt; acessado em fevereiro de 2009.
 - BRUAND, Y. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981.
 - CANTALICE, A. Um Brutalismo Suave: Traços da Arquitetura em Pernambuco (1965-1980). Dissertação (Mestrado em Arquitetura e Urbanismo) Faculdade Federal de Pernambuco, Recife.
 - FRAMPTON,K. História Crítica da Arquitetura Moderna.São Paulo: Martins Fontes, 2003.
-- FUÃO, Fernando Freitas. Brutalismo, a última trincheira do movimento moderno. Portal Vitruvius, 2000. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp acessado em abril de 2009.
+- FUÃO, Fernando Freitas. Brutalismo, a última trincheira do movimento moderno. Portal Vitruvius, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp</a>&gt; acessado em abril de 2009.
 - HERTZBERGER, H. Lições de Arquitetura. São Paulo: Martins Fontes,2002.
 - LOUREIRO, C. Classe, Controle e Encontro: o espaço escolar 2000. Tese (Doutorado em Arquitetura e Urbanismo) Faculdade de Arquitetura e Urbanismo de São Paulo, São Paulo.
 - LOUREIRO, C.; AMORIM, L.; ALMEIDA, F.; NASCIMENTO, C. Metodologia de Avaliação de Mudança de Uso. In: II CONGRESSO INTERNACIONAL NA RECUPERAÇÃO, MANUTENÇÃO E RESTAURAÇÃO DE
 - EDFÍCIOS, 2006 RIO DE JANEIRO. Anais de II Congresso Internacional na Recuperação, Manutenção e Restauração de Edifícios... Rio de Janeiro: UFRJ, 2006.
 - MONTAGNER,J.M. Depois do Monvimento Moderno. Barcelona: Gustavo Gili, 2001.
 - MOSCOVICI, S.Representações sociais: investigações em psicologia social. Rio de Janeiro, Vozes. 2003.
-- PELEGRINI, Thiago; AZEVEDO, Mário L.. A Educação nos anos de chumbo: a Política Educacional ambicionada pela “Utopia Autoritária”. Portal História e-História, 2006. Disponível em: http://www.historiaehistoria.com.br/materia.cfm?tb=artigos&id=45 acessado em março de 2009.
+- PELEGRINI, Thiago; AZEVEDO, Mário L.. A Educação nos anos de chumbo: a Política Educacional ambicionada pela “Utopia Autoritária”. Portal História e-História, 2006. Disponível em: &lt;<a href="http://www.historiaehistoria.com.br/materia.cfm?tb=artigos&id=45">http://www.historiaehistoria.com.br/materia.cfm?tb=artigos&id=45</a>&gt; acessado em março de 2009.
 - PREISER, W. F.E. Building Evaluation. New York: Plenum Press, 1989.
-- SABBAG, Haifa. Escola Montessori Oost, Amsterdam, Holanda. Portal Vitruvius, 2001. Disponível em: http://www.vitruvius.com.br/ac/ac003/ac003_3.asp acessado em maio de 2009.
+- SABBAG, Haifa. Escola Montessori Oost, Amsterdam, Holanda. Portal Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/ac/ac003/ac003_3.asp">http://www.vitruvius.com.br/ac/ac003/ac003_3.asp</a>&gt; acessado em maio de 2009.
 - SEGAWA,H. Arquiteturas no Brasil 1900-1990.São Paulo: EDUSP,1998.
-- UIEDA, Maurício. Orfanato em Amstelveenseweg – Aldo Van Eyck. Portal Ponto 2, 1998. Disponível em: http://www.ponto.org/2/orfanato.html acessado em abril de 2009.
+- UIEDA, Maurício. Orfanato em Amstelveenseweg – Aldo Van Eyck. Portal Ponto 2, 1998. Disponível em: &lt;<a href="http://www.ponto.org/2/orfanato.html">http://www.ponto.org/2/orfanato.html</a>&gt; acessado em abril de 2009.
 - ZEIZEL,J. Inquiry by Desing. Cambridge: Cambridge University Press, 1995.

@@ -51,7 +51,7 @@ palavras-chave:
 - AMORIM, Luiz. Flexibilidade espacial: entre o princípio e o mito. In:
 - AMORIM, Luiz. (org.); GRIZ, Cristiana (org.) Cidades: Urbanismo, Patrimônio e Sociedade. Olinda: Livro Rápido, 2008.
 - ARAÚJO, Ricardo Ferreira de. Arquitetura residencial em João Pessoa-PB: a experiência moderna nos anos 1970. 2010. Dissertação (Mestrado em Arquitetura e Urbanismo) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Norte, Natal, 2010.
-- ARAÚJO, Ricardo Ferreira de. ; TINEM, Nelci; CUNHA, Márcio Cotrim. Arquitetura residencial moderna em João Pessoa nos anos 1970. Vitruvius, São Paulo, nov. 2010. Seção Arquitextos 126.03. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/11.126/3651&gt;. Acesso em: 06 dez. 2010.
+- ARAÚJO, Ricardo Ferreira de. ; TINEM, Nelci; CUNHA, Márcio Cotrim. Arquitetura residencial moderna em João Pessoa nos anos 1970. Vitruvius, São Paulo, nov. 2010. Seção Arquitextos 126.03. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/11.126/3651">http://www.vitruvius.com.br/revistas/read/arquitextos/11.126/3651</a>&gt; Acesso em: 06 dez. 2010.
 - BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetura moderna brasileira. São Paulo: Perspectiva, 2007.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. 4 ed. Tradução: Ana Maria Goldberger. São Paulo: Perspectiva, 2003.
 - CHAVES, Carolina. As experiências do habitar moderno em João Pessoa entre 1950/70. In: SEMINÁRIO DOCOMOMO NORTE E NORDESTE, 3., 2010, João Pessoa. Anais eletrônicos... João Pessoa: Editora Universitária/UFPB, 2010. 1 CD-ROM.
@@ -60,7 +60,7 @@ palavras-chave:
 - HANSON, Julienne. Decoding homes and houses. Cambridge: Cambridge University Press, 1998.
 - HILLIER, Bill; HANSON, Julienne. The social logic of space. Cambridge: Cambridge University Press, 1984.
 - LEMOS, Carlos A. C. História da casa brasileira: a casa colonial, casas urbanas e rurais, a habitação burguesa. São Paulo: Contexto, 1989.
-- MONTEIRO, Circe. Activity Analysis in Houses of Recife, Brazil. In: INTERNATIONAL SPACE SYNTAX SYMPOSIUM, 1., 1997, London. Proceedings… London: Space Syntax Laboratory, 1997. Disponível em: &lt;http://www.spacesyntax.org/symposia/index.asp&gt;. Acesso em 05: out. 2010.
+- MONTEIRO, Circe. Activity Analysis in Houses of Recife, Brazil. In: INTERNATIONAL SPACE SYNTAX SYMPOSIUM, 1., 1997, London. Proceedings… London: Space Syntax Laboratory, 1997. Disponível em: &lt;<a href="http://www.spacesyntax.org/symposia/index.asp">http://www.spacesyntax.org/symposia/index.asp</a>&gt; Acesso em 05: out. 2010.
 - PEREIRA, Fúlvio Teixeira de Barros. Difusão da arquitetura moderna na cidade de João Pessoa (1956 – 1974). 2008. Dissertação (Mestrado em Arquitetura e Urbanismo) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2008.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2 ed. São Paulo: Editora da Universidade de São Paulo, 2002.
 - XAVIER, Roberta. Casas da orla marítima de João Pessoa: um olhar sobre a arquitetura moderna (1960-1974). In: SEMINÁRIO DOCOMOMO NORTE E NORDESTE, 3., 2010, João Pessoa. Anais eletrônicos... João Pessoa: Editora Universitária/UFPB, 2010. 1 CD-ROM.

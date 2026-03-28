@@ -71,7 +71,7 @@ palavras-chave:
 - AMARAL, Izabel Fraga Do. Quase tudo que você queria saber sobre tectônica, mas tinha vergonha de perguntar. Pós.: Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da
 - FAUUSP, São Paulo, v. 16, n. 26, p. 148–167, 2009.
 - BARATA, Mário. Azulejos no Brasil: Séculos XVII, XVIII, e XIX. Tese apresentada à Escola Nacional de Belas Artes em 1955 para o concurso de professor catedrático de História da Arte da Universidade do Brasil. Rio de Janeiro: Jornal do Comercio, 1955.
-- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf&gt;. Acesso em: 12 mar. 2009.
+- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;<a href="http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf">http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf</a>&gt; Acesso em: 12 mar. 2009.
 - CARVALHO, Claudia S. Rodrigues. Preservação da Arquitetura Moderna: edifícios de escritório no Rio de Janeiro construídos entre 1930-1960. 2005. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.
 - CAVALCANTI, Armando de Holanda. Parque Histórico Nacional dos Guararapes: projeto físico.
 - CAVALCANTI, Sylvia Tigre de Hollanda. O azulejo na arquitetura religiosa de Pernambuco: séculos XVII e XVII. São Paulo: Metalivros, 2006.
@@ -86,7 +86,7 @@ palavras-chave:
 - MILHEIRO, Ana Vaz. A construção do Brasil - relações com a cultura arquitetônica portuguesa. Porto: FAUP Publicações, 2005.
 - MORAIS, Frederico. Azulejaria contemporânea no Brasil v.2. São Paulo: Editoração Publicações e Comunicação, 1990.
 - PINTO, Estévão. Muxarabis e Balcões. Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, v. 7, p. 309–340, 1943.
-- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius, São Paulo, n. ano 8, 2007. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp&gt;. Acesso em: 4 abr. 2009.
+- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius, São Paulo, n. ano 8, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp</a>&gt; Acesso em: 4 abr. 2009.
 - RACHED, Mary da Silva. As tramas azulejadas nas fachadas da arquitetura moderna e contemporânea brasileira. 2018. Dissertação (Mestrado) – Universidade Federal de Pernambuco, Centro de Artes e Comunicação. Programa de Pós-Graduação em Desenvolvimento Urbano, Recife, 2018.
 - RUSKIN, John. Las siete lamparas de la arquitectura, 1849. Buenos Aires: El Ateneo, 1956.
 - SILVA, Geraldo Gomes Da. Armando de Holanda. AU Documento, São Paulo, p. 68–71, 1997.

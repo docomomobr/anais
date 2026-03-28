@@ -54,5 +54,5 @@ palavras-chave:
 ## Referências
 
 - Parent, Claude; Virilio, Paul. Architecture Príncipe 1966-1996. Paris : Ministère de La Culture Française/ Les Editions de L'Imprimer, 1977.
-- Fondation Avicenne. In: http://www.ciup.fr/les_maisons/fondation_avicenne. Acesso em 03.06.13
-- Layzell, William. Oblique funtion: dead or alive in http://creativestoreys.com/wordpress/wp-content/uploads/2012/05/2010_William-Layzell_Oblique-Function.pdf. Acesso em 01.06.13
+- Fondation Avicenne. In: &lt;<a href="http://www.ciup.fr/les_maisons/fondation_avicenne">http://www.ciup.fr/les_maisons/fondation_avicenne</a>&gt; Acesso em 03.06.13
+- Layzell, William. Oblique funtion: dead or alive in &lt;<a href="http://creativestoreys.com/wordpress/wp-content/uploads/2012/05/2010_William-Layzell_Oblique-Function.pdf">http://creativestoreys.com/wordpress/wp-content/uploads/2012/05/2010_William-Layzell_Oblique-Function.pdf</a>&gt; Acesso em 01.06.13

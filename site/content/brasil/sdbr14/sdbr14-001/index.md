@@ -62,12 +62,12 @@ palavras-chave:
 - BRUNA, Paulo. Arquitetura, Industrialização e Desenvolvimento. 2ª Edição. São Paulo: Editora Perspectiva, 2002. C&J ARQUITETURA. São Paulo, 1976. nº15, p. 72‐76.
 - CALAZANS, José. Entrevista concedida a Roberto Alves de Lima Montenegro Filho. Paraibuna, 2005. [In:
 - MONTENEGRO FILHO, R. A. L. Pré‐fabricação e a obra de Eduardo Kneese de Mello. 2007. Dissertação (Mestrado) – Universidade de São Paulo, Programa de Pós Graduação em Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo, São Paulo, 2007].
-- CAMARGO, Mônica Junqueira de. Muito além do Ibirapuera. Exposição revela a origem do projeto maior de Niemeyer em São Paulo. Arquiteturismo, São Paulo, ano 08, n. 091.02, Vitruvius, out. 2014 &lt;https://www.vitruvius.com.br/revistas/read/arquiteturismo/08.091/5306&gt;.
+- CAMARGO, Mônica Junqueira de. Muito além do Ibirapuera. Exposição revela a origem do projeto maior de Niemeyer em São Paulo. Arquiteturismo, São Paulo, ano 08, n. 091.02, Vitruvius, out. 2014 &lt;<a href="https://www.vitruvius.com.br/revistas/read/arquiteturismo/08.091/5306">https://www.vitruvius.com.br/revistas/read/arquiteturismo/08.091/5306</a>&gt;
 - CAMPOS, Candido Malta.; SOMEKH, Nadia. (Org). A cidade que não pode parar: planos urbanísticos de São Paulo no Séc. XX. São Paulo: Mackpesquisa, 2002.
 - CASA E JARDIM. São Paulo, 1955. n° 15, p. 22‐25.
 - DAVIES, Collin. The prefabricated home. Londres: Reaktion Books, 2005.
 - FIGUEIREDO, Geórgia Novis de. Cap. 4: Industrialização e o Espaço Habitacional da Arquitetura Moderna em São Paulo. In: Gitahy e Xavier, Maria Lucia Caira e Paulo César. O Complexo Industrial da Construção e a Habitação Econômica Moderna 1930 – 1964. São Paulo: Editora Rima, 2002. p. 35 – 51.
-- FRANCIS, Paul. The history of Uni‐Seco Structures. 2016. Prefab Museum: Celebrating Britain’s post‐war prefabs and their residents. Disponível em: https://bit.ly/2Fyvnju. Acesso em: 14 ago. 2020.
+- FRANCIS, Paul. The history of Uni‐Seco Structures. 2016. Prefab Museum: Celebrating Britain’s post‐war prefabs and their residents. Disponível em: &lt;<a href="https://bit.ly/2Fyvnju">https://bit.ly/2Fyvnju</a>&gt; Acesso em: 14 ago. 2020.
 - GITAHY E XAVIER, Maria Lucia Caira e Paulo César. Cap. 2 e 3: A Construção habitacional em São Paulo na Década de 30, e Arquitetura Moderna e Construção Habitacional em São Paulo na Década de 30. In:
 - GITAHY E XAVIER, Maria Lucia Caira e Paulo César. O Complexo Industrial da Construção e a Habitação Econômica Moderna 1930 – 1964. São Paulo: Editora Rima, 2002. p. 15 – 33.
 - IPESP. Divisão de Engenharia. Cadastro Jardim Nova Jaboticabal. São Paulo, SP, [195?].

@@ -64,7 +64,7 @@ palavras-chave:
 - DIÓGENES, Beatriz H. N. A centralidade da Aldeota como expressão da dinâmica urbana de Fortaleza. (Dissertação de Mestrado). FAUUSP, São Paulo, 2005.
 - DIÓGENES, Beatriz H. N.; ANDRADE, Margarida J. F. O modernismo arquitetônico em Fortaleza. JUCÁ NETO, Clóvis; PEREIRA, Adelaide G. Arquitetura Moderna Campus do Benfica. Edições UFC, Fortaleza, 2014.
 - DIÓGENES, Beatriz H. N.; PAIVA, Ricardo A. “Arquitetura e cidade – a Fortaleza dos anos de 1950-1970”. IAB-CE. Anuário Arquitetura Cearense. Expressão Gráfica, Fortaleza, 2007.
-- DIOGENES, B. H.; PAIVA, Ricardo Alexandre. Caminhos da Arquitetura Moderna em Fortaleza: A contribuição do arquiteto Acacio Gil Borsoi. In:  2 Seminário DOCOMOMO N-Ne – Desafios da Preservação: referências da arquitetura e do urbanismos modernos no Norte e no Nordeste, Salvador, 2008.
+- DIOGENES, B. H.; PAIVA, Ricardo Alexandre. Caminhos da Arquitetura Moderna em Fortaleza: A contribuição do arquiteto Acacio Gil Borsoi. In: 2 Seminário DOCOMOMO N-Ne – Desafios da Preservação: referências da arquitetura e do urbanismos modernos no Norte e no Nordeste, Salvador, 2008.
 - DUARTE JR, Romeu. O Ceará e o patrimônio Cultural.
 - CARVALHO, Gilmar de. Bonito para Chover, Ensaios sobre a cultura cearense. Fortaleza: Edições Demócrito Rocha, 2003.
 - LORES, Raul Juste. São Paulo nas alturas. A revolução modernista da arquitetura e do mercado imobiliário nos anos 1950 e 1960. São Paulo: Três Estrelas, 2017.
@@ -76,4 +76,4 @@ palavras-chave:
 - PAIVA, Ricardo Alexandre; DIOGENES, B. H. . Vida e morte do Hotel Esplanada, de Paulo Casé, em Fortaleza. ARQ.URB, v. 1, p. 47-60, 2017.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo. Editora da Universidade de São Paulo, 2002.
 - VARGAS, H. C.. O fator localização revisitado. In: Heliana Comin Vargas; Cristina Pereira de Araujo. (Org.). Arquitetura e Mercado Imobiliário. 1ed.São Paulo: Manole, 2014, v. , p. 35-52.
-- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;http://vitruvius.com.br/revistas/read/arquitextos/09.098/123&gt;.
+- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/09.098/123">http://vitruvius.com.br/revistas/read/arquitextos/09.098/123</a>&gt;

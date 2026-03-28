@@ -63,14 +63,14 @@ palavras-chave:
 - Frampton, Kenneth. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.
 - Frampton, Kenneth. Le Corbusier. Madrid: Akal, 2000.
 - Frampton, Kenneth. Le Corbusier: Architect of the twentieth century. New York: Harry N. Abrams, 2002.
-- Frampton, Kenneth. The English Crucible. In CIAM Team 10, the English context. Report on the expert meeting, held at the Faculty of Architecture, TU Delft, on November 5th 2001. Available in: http://www.team10online.org/research/papers/delft1/frampton.pdf
+- Frampton, Kenneth. The English Crucible. In CIAM Team 10, the English context. Report on the expert meeting, held at the Faculty of Architecture, TU Delft, on November 5th 2001. Available in: &lt;<a href="http://www.team10online.org/research/papers/delft1/frampton.pdf">http://www.team10online.org/research/papers/delft1/frampton.pdf</a>&gt;
 - Gowan, James, ed. A Continuing Experiment: Learning and Teaching at the Architectural Association. London: Architectural Press, 1975.
 - Macul, Marcia. Sergio Bernardes: Arquiteto, humanista, poeta e utopista. In AU 82 (1999): 63-69. Maniaque, Caroline and Le Corbusier. Le Corbusier and the Maisons Jaoul. New York: Princeton Architectural Press, 2009.
 - Mindlin, Henrique E. Modern Architecture in Brazil. New York: Reinhold publishing corporation, 1956.
-- Monteys, Xavier. Le Plan Paralysé. Revisando los cinco puntos. In Massilia: Anuario de estudios lecorbusierianos (2002). Acessed July 10, 2013. Available in: http://upcommons.upc.edu/revistes/handle/2099/2659
+- Monteys, Xavier. Le Plan Paralysé. Revisando los cinco puntos. In Massilia: Anuario de estudios lecorbusierianos (2002). Acessed July 10, 2013. Available in: &lt;<a href="http://upcommons.upc.edu/revistes/handle/2099/2659">http://upcommons.upc.edu/revistes/handle/2099/2659</a>&gt;
 - Nobre, A. L. Sérgio Bernardes: A subversão do possível. In Arquitetura Crítica 9 (2002).
-- Available in: http://www.vitruvius.com.br/ac/ac009/ac009.asp Segre, Roberto. Sergio Bernardes (1919-2002).
-- Available in: http://vitruvius.com.br/revistas/read/arquitextos/03.026/764 Smithson, Alison, Peter Smithson, Jane B. Drew and E. Maxwell Fry. Conversation on Brutalism. Zodiac: Revue Internationale d’Architecture Contemporaine 4 (1959): 73-81.
+- Available in: &lt;<a href="http://www.vitruvius.com.br/ac/ac009/ac009.asp">http://www.vitruvius.com.br/ac/ac009/ac009.asp</a>&gt; Segre, Roberto. Sergio Bernardes (1919-2002).
+- Available in: &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/03.026/764">http://vitruvius.com.br/revistas/read/arquitextos/03.026/764</a>&gt; Smithson, Alison, Peter Smithson, Jane B. Drew and E. Maxwell Fry. Conversation on Brutalism. Zodiac: Revue Internationale d’Architecture Contemporaine 4 (1959): 73-81.
 - Smithson, Alison and Peter Smithson. Thoughts in Progress: The New Brutalism. In Architectural Design, 4 (1957): 111-113.
 - Smithson, Peter. Le Corbusier. Contribution to the 1959 Symposium on Le Corbusier organinized by the Architectural Association. In Murray, Irena Zantovská and Julian Osley. Le Corbusier and Britain: An Anthology. Abingdon: Routledge, 2009. Original version in Architectural Association Journal 05 (1959).
 - Stirling, James. Garches to Jaoul: Le Corbusier as a Domestic Architect in 1927 and 1953. In Murray, Irena Zantovská and Julian Osley. Le Corbusier and Britain: An Anthology. Abingdon: Routledge, 2009. Original version in Architectural Review 09 (1955).

@@ -52,15 +52,15 @@ palavras-chave:
 - Fischer, Sylvia. Os Arquitetos da Poli: Ensino e Profissão em São Paulo. Ediusp: São Paulo, 2005, p.212.
 - Gravina, Pedro. CAT GP 008 BIS DSC00516, Epistolário Ponti. “Mazzucchelli, A.M. George Howe e William Lescaze Architetti americani”. Domus n.89, 1935, p. 14 -17.
 - Olivieri, L.C. Uma nazione balza in testa all´architettura moderna. Domus n.229, 1948, p.2-3.
-- Ponti, Gio.”Sequenze di paesaggi architettonici”.  Domus, n. 270, 1952, p.6.
-- Ponti, Gio. “Illusività della architettura”.  Domus, n.277, 1952, p.1. P.G., “Stile di Niemeyer”. Domus, n.278, 1953, p.8-9. P., G. “Stile di Niemeyer”. Domus n.278, 1953, p.8,9.
+- Ponti, Gio.”Sequenze di paesaggi architettonici”. Domus, n. 270, 1952, p.6.
+- Ponti, Gio. “Illusività della architettura”. Domus, n.277, 1952, p.1. P.G., “Stile di Niemeyer”. Domus, n.278, 1953, p.8-9. P., G. “Stile di Niemeyer”. Domus n.278, 1953, p.8,9.
 - Ponti, Gio. “Idea per La casa Del dottor T. A San Paolo”. Domus, n.283, p.8-11.
 - Ponti, Gio. “Istituto di Fisica Nucleare a San Paolo”. Domus, n.284, 1953, p. 16-21.
 - Ponti, Gio. “La “gaiatè artificielle”. Domus, n.286, 1953, p.1.
 - Ponti, Gio. “Si fa coi pensieri”. Domus n.379, 1961, p.2
 - Ponti, Gio. “Prima e dopo la Pirelli”. Domus, n.379, 1961, p.31.
 - Ponti, Lisa. Gio Ponti – The Complete Work – 1923-1978. Thames and Hudson: Londres, 1990, p: 159.
-- Ponti, Gio. Amate L´Architettura. Rizzoli: Milano, 2 edição, 2008.  p. 230, 62 e 63.
+- Ponti, Gio. Amate L´Architettura. Rizzoli: Milano, 2 edição, 2008. p. 230, 62 e 63.
 - Ponti, Gio. CAT GP 008 Bis DSC00490/491/492. Epistolário Ponti.
 - Ponti, Gio. CAT GP 008 Bis DSC00484. Epistolario Ponti
 - Ponti, Gio e Alberti, Eugenia. CAT GP 008 Bis DSC00475/474/473. Epistolario Ponti

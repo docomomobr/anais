@@ -53,4 +53,4 @@ palavras-chave:
 
 ## Referências
 
-- Sigrid Adriaenssens, Rosa Lowinger, Jorge Hernandez, et. al., "The Shells of the Miami Marine Stadium: Synergy between Form, Force and Environment." Article accessible on-line at the Friends of Marine Stadium website: http://www.marinestadium.org
+- Sigrid Adriaenssens, Rosa Lowinger, Jorge Hernandez, et. al., "The Shells of the Miami Marine Stadium: Synergy between Form, Force and Environment." Article accessible on-line at the Friends of Marine Stadium website: &lt;<a href="http://www.marinestadium.org">http://www.marinestadium.org</a>&gt;

@@ -49,7 +49,7 @@ palavras-chave:
 
 - ANELLI, Renato; GUERRA, Abílio; KON, Nelson. Rino Levi: Arquitetura e Cidade. São Paulo: Romano Guerra, 2001.
 - CAMPOS, Candido Malta; GAMA, Lúcia Helena; SACCHETTA, Vladimir (organizadores). São Paulo Metrópole em Trânsito – Percursos Urbanos e Culturais. São Paulo: Editora Senac, 2004.
-- CAVALCANTE, Rosa Karina Carvalho. Edifício Banco Sul-Americano do Brasil, São Paulo, 1961-63. Docomomo: Julho, 2009. &lt;http://www.docomomo.org.br/seminario%208%20 pdfs/098.pdf&gt;
+- CAVALCANTE, Rosa Karina Carvalho. Edifício Banco Sul-Americano do Brasil, São Paulo, 1961-63. Docomomo: Julho, 2009. &lt;<a href="http://www.docomomo.org.br/seminario%208%20">http://www.docomomo.org.br/seminario%208%20</a>&gt; pdfs/098.pdf&gt;
 - FRAU, Fernanda Marafon. O Conjunto Nacional: entre arquitetura e urbanismo modernos. Dissertação de Mestrado. Campinas: PUC CAMP, 2016.
 - LEMOS, Carlos Alberto Cerqueira. A história do Copan. Volume 1. São Paulo: Imesp, 2014.
 - XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo: Editora Pini, 1983.

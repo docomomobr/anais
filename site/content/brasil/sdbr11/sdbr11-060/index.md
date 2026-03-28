@@ -53,18 +53,18 @@ palavras-chave:
 ## Referências
 
 - BARDI, Lina Bo. Curriculum Literário. In: FERRAZ, Marcelo Carvalho (Org.). Lina Bo Bardi. São Paulo: Instituto Lina Bo e P. M. Bardi, 1993. p. 9-12.
-- CAFAGNA, Luciano. L'industrializzazione italiana. La formazione di una "Base industriale" fra il 1896 e il 1914. In: GRAMSCI, Fondazione Istituto (Org.). Studi Storici. Milão: Fondazione Istituto Gramsci, 1962. p. 690-724. Disponível em: &lt;http://www.jstor.org/stable/20563214&gt;. Acesso em: 25 mar. 2016.
-- CALVINO, Istituto. Antonio Sant'Elia: Manifesto dell'Architettura Futurista. Disponível em: &lt;http://www.istitutocalvino.it/studenti/siti/santelia/manifesto.htm&gt;. Acesso em: 28 fev. 2016.
-- DOMUS, Editoriale. Il riferimento internazionale per l’architettura, il design e l’urbanistica. Disponível em: &lt;http://www.edidomus.it/it/brand/domus&gt;. Acesso em: 24 mar. 2016.
-- ENCICLOPEDIA TRECCANI. Novecento. Disponível em: &lt;http://www.treccani.it/enciclopedia/novecento/&gt;. Acesso em: 29 fev. 2016.
+- CAFAGNA, Luciano. L'industrializzazione italiana. La formazione di una "Base industriale" fra il 1896 e il 1914. In: GRAMSCI, Fondazione Istituto (Org.). Studi Storici. Milão: Fondazione Istituto Gramsci, 1962. p. 690-724. Disponível em: &lt;<a href="http://www.jstor.org/stable/20563214">http://www.jstor.org/stable/20563214</a>&gt; Acesso em: 25 mar. 2016.
+- CALVINO, Istituto. Antonio Sant'Elia: Manifesto dell'Architettura Futurista. Disponível em: &lt;<a href="http://www.istitutocalvino.it/studenti/siti/santelia/manifesto.htm">http://www.istitutocalvino.it/studenti/siti/santelia/manifesto.htm</a>&gt; Acesso em: 28 fev. 2016.
+- DOMUS, Editoriale. Il riferimento internazionale per l’architettura, il design e l’urbanistica. Disponível em: &lt;<a href="http://www.edidomus.it/it/brand/domus">http://www.edidomus.it/it/brand/domus</a>&gt; Acesso em: 24 mar. 2016.
+- ENCICLOPEDIA TRECCANI. Novecento. Disponível em: &lt;<a href="http://www.treccani.it/enciclopedia/novecento/">http://www.treccani.it/enciclopedia/novecento/</a>&gt; Acesso em: 29 fev. 2016.
 - FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 2000.
-- GRAZIA. Grazia. Disponível em: &lt;http://www.mondadori.it/Il-Gruppo/Periodici/Italia/Grazia&gt;. Acesso em: 03 mar. 2016.
+- GRAZIA. Grazia. Disponível em: &lt;<a href="http://www.mondadori.it/Il-Gruppo/Periodici/Italia/Grazia">http://www.mondadori.it/Il-Gruppo/Periodici/Italia/Grazia</a>&gt; Acesso em: 03 mar. 2016.
 - GREGOTTI, Vittorio. 1919 - 1945. In: GREGOTTI, Vittorio. Il Disegno del Prodotto Industriale: Italia 1860 - 1980. 5. ed. Milão: Edizioni Electa Spa, 2003. Cap. 2. p. 127-145.
-- GRINOVER, Marina Mange. Uma Ideia de Arquitetura: Escritos de Lina Bo Bardi. 2010. 256 f. Dissertação (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2010. Disponível em: &lt;http://teses.usp.br&gt;. Acesso em: 25 mar. 2016.
+- GRINOVER, Marina Mange. Uma Ideia de Arquitetura: Escritos de Lina Bo Bardi. 2010. 256 f. Dissertação (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2010. Disponível em: &lt;<a href="http://teses.usp.br">http://teses.usp.br</a>&gt; Acesso em: 25 mar. 2016.
 - HARVEY, David. Condição Pós-Moderna. 25. ed. São Paulo: Loyola, 1992.
 - HOBSBAWN, Eric. A era dos extremos: o breve século XX. 1941-1991. São Paulo: Companhia das Letras, 1995.
-- LA SAPIENZA, Università Degli Studi di Roma. Sapienza - Università di Roma. 2016. Disponível em: &lt;http://www.uniroma1.it/&gt;. Acesso em: 22 mar. 2016.
-- LIMA, Zeuler de Almeida. Lina Bo Bardi, entre margens e centros. Arqtextos, Porto Alegre, n. 14, p.110-144, jun. 2009. Disponível em: &lt;http://www.ufrgs.br/propar/publicacoes/ARQtextos/pdfs_revista_14/05_ZL_entre margens e centro_070210.pdf&gt;. Acesso em: 22 mar. 2016.
+- LA SAPIENZA, Università Degli Studi di Roma. Sapienza - Università di Roma. 2016. Disponível em: &lt;<a href="http://www.uniroma1.it/">http://www.uniroma1.it/</a>&gt; Acesso em: 22 mar. 2016.
+- LIMA, Zeuler de Almeida. Lina Bo Bardi, entre margens e centros. Arqtextos, Porto Alegre, n. 14, p.110-144, jun. 2009. Disponível em: &lt;<a href="http://www.ufrgs.br/propar/publicacoes/ARQtextos/pdfs_revista_14/05_ZL_entre">http://www.ufrgs.br/propar/publicacoes/ARQtextos/pdfs_revista_14/05_ZL_entre</a>&gt; margens e centro_070210.pdf&gt;. Acesso em: 22 mar. 2016.
 - ORTEGA, Cristina Garcia. Lina Bo Bardi: móveis e interiores (1947-1968): Interlocuções entre moderno e local. 2008. 428 f. Tese (Doutorado) - Curso de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2008. Disponível em: &lt;www.teses.usp.br/teses/disponiveis/.../CristinaOrtega_LinaBoBardi.pdf&gt;. Acesso em: 25 mar. 2016.
 - RUBINO, Silvana; GRINOVER, Marina (Org.). Lina por escrito: Textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009. 208 p.
 - TONET, Ivo. Modernidade, Pós-Modernidade e Razão. Revista da Associação Brasileira de Ensino e Pesquisa em Serviço Social - ABEPSS, Recife, v., n. 10, p.11-28, dez. 2005. Textos citados da revista Domus

@@ -54,6 +54,6 @@ autores:
 - BALLESTER, José María, Rafael Leoz. Exposición homenaje Abril-Junio, 1978, Ministerio de Cultura, Madrid.
 - GARCÍA GIL, Alberto, “Rafael Leoz: fama y marginación”, On nº extra enero-febrero 1983.
 - GIL, Paloma, “Rafael Leoz”, en: POZO, José Manuel (Ed.), Los brillantes 50. 35 proyectos, T6 Ediciones, Pamplona, 2004.
-- GÓMEZ DE LAS HERAS, María Elisa,  “Rafael Leoz y la inegración de las artes en una arquitectura social”,  Revista de Cuadernos Hispanoamericanos nº 341, Noviembre de 1978.
+- GÓMEZ DE LAS HERAS, María Elisa, “Rafael Leoz y la inegración de las artes en una arquitectura social”, Revista de Cuadernos Hispanoamericanos nº 341, Noviembre de 1978.
 - LEOZ, Rafael, “Así debió ser”, TA nº 37, 1962
 - LEOZ, Rafael, Arquitectura e industrialización de la construcción, Fundación Rafael Leoz, Madrid, s/f.

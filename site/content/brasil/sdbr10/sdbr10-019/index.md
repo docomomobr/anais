@@ -56,13 +56,13 @@ palavras-chave:
 - Anelli, Renato. Architettura Contemporanea: Brasile-arquitetura brasileira entre 1957 e 2007. mdc - revista de arquitetura e urbanismo, 2011.
 - Artigas, J. B. Vilanova. Caminhos da arquitetura. São Paulo: Cosac & Naify, 4ª ed., 2004.
 - Carranza, Edite G. R. Arquitetura alternativa: 1956-1979. Tese de doutorado, São Paulo: FAUUSP, 2012.
-- Colin, Silvio. "Técnicas Construtivas do período Colonial". http://coisasdaarquitetura.wordpress.com/ (outubro 2010)
+- Colin, Silvio. "Técnicas Construtivas do período Colonial". &lt;<a href="http://coisasdaarquitetura.wordpress.com/">http://coisasdaarquitetura.wordpress.com/</a>&gt; (outubro 2010)
 - Kamita, João Masao. Vilanova Artigas. São Paulo: Cosac & Naify, 2000.
 - Acayaba, Marlene M. "Usos do primitivismo. Pedra, barro e arquitetura moderna". IV docomomo sul. Pedra, barro e metal. Norma e licença na arquitetura moderna do cone sul americano 1930-1970. Porto Alegre mar 2013.
-- Comas, Carlos Eduardo. "Lina 3x2", Arquitexto 14 (2010):100-139. http://www.ufrgs.br/propar. (março, 14, 2011). Curtis, Willian J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008.
-- Davi, Laura Mardini. Alison e Peter Smithson. Uma arquitetura da realidade. Dissertação de mestrado. Propar-UFRGS, 2009. http://www.lume.ufrgs.br/handle/10183/24734 (maio,10, 2013) Ferraz, Marcelo (org), Lina Bo Bardi, São Paulo: ILBPMB, 1993.
-- Fuão, Fernando Freitas. Brutalismo. "A última trincheira do movimento moderno". Arquitextos, São Paulo, 01.007, Vitruvius, dez 2000. http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949. Jencks, Charles. Movimentos Modernos em Arquitetura, São Paulo: Martins Fontes, 1985.
+- Comas, Carlos Eduardo. "Lina 3x2", Arquitexto 14 (2010):100-139. &lt;<a href="http://www.ufrgs.br/propar">http://www.ufrgs.br/propar</a>&gt; (março, 14, 2011). Curtis, Willian J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008.
+- Davi, Laura Mardini. Alison e Peter Smithson. Uma arquitetura da realidade. Dissertação de mestrado. Propar-UFRGS, 2009. &lt;<a href="http://www.lume.ufrgs.br/handle/10183/24734">http://www.lume.ufrgs.br/handle/10183/24734</a>&gt; (maio,10, 2013) Ferraz, Marcelo (org), Lina Bo Bardi, São Paulo: ILBPMB, 1993.
+- Fuão, Fernando Freitas. Brutalismo. "A última trincheira do movimento moderno". Arquitextos, São Paulo, 01.007, Vitruvius, dez 2000. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949">http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949</a>&gt; Jencks, Charles. Movimentos Modernos em Arquitetura, São Paulo: Martins Fontes, 1985.
 - Puppi, Suely de O. F. "Lina Bo Bardi: metal e pedra na Casa de Vidro". IV seminário docomomo sul. Pedra, barro e metal, norma e licença na arquitetura moderna do cone sul americano, 1930/70, março 2013. Solà - Morales, Ignasi de. Diferencias. Topografía de la arquitectura contemporânea, Barcelona: GG, 2000.
 - Tafuri, Manfredo. Architettura Contemporanea. Milano: Electa, 1979.
 - Valcarne, Maria Teresa. "El Nuevo Brutalismo : una aproximación y una bibliografía", Cuaderno de Notas . Revista del Departamento de Composición de la ETSAM, no 7, 130 -140.
-- Zein, Ruth Verde. A arquitetura da escola paulista brutalista, 1953-1973.Tese de doutorado. Porto Alegre: Propar-UFRGS, 2005. http://www.lume.ufrgs.br/handle/10183/5452, (março, 14, 2010).
+- Zein, Ruth Verde. A arquitetura da escola paulista brutalista, 1953-1973.Tese de doutorado. Porto Alegre: Propar-UFRGS, 2005. &lt;<a href="http://www.lume.ufrgs.br/handle/10183/5452">http://www.lume.ufrgs.br/handle/10183/5452</a>&gt; (março, 14, 2010).

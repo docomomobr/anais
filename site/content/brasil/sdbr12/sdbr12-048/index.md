@@ -57,7 +57,7 @@ palavras-chave:
 - Arantes, Pedro e Wisnik, Guilherme in Forty, Adrian e Andreoli, Elisabetta (orgs.) Arquitetura Moderna Brasileira, Londres, Phaidon, 2004.
 - Baptista, Luís Santiago ‘Arquitetura ou revolução: Um atlas da arquitectura social’ in Arquitectura Social - Três olhares críticos, Centro Cultural de Belém, Lisboa, 2014.
 - Bardi, Lina Bo ‘Ao Limite da Casa Popular – Comunidade Cajueiro Seco’ in Mirante das Artes Nº 2, 1967.
-- Borsoi, Acácio  Gil Prefabrication Taipa Recife: Recife Gráfica, 1963.
+- Borsoi, Acácio Gil Prefabrication Taipa Recife: Recife Gráfica, 1963.
 - Castro, Josué de Homens e Caranguejos São Paulo: Civilização Brasileira, 4a. Ed., 2001.
 - Condições de vida das classes operárias no Recife : estudo econômico e sua alimentação Rio de Janeiro: Ministerio do Trabalho, 1935.
 - Ferro, Sergio O canteiro e o desenho. São Paulo: Projeto, 1979.
@@ -67,6 +67,6 @@ palavras-chave:
 - Oliveira, Francisco Crítica à Razão dualista / O ornitorrinco São Paulo: Boitempo Editorial, 2003.
 - Santiago, Vandeck Pernambuco em chamas - A intervenção dos EUA e o golpe de 1964 Recife: Cepe Editora, 2016.
 - União Internacional dos Arquitetos Congres de L’union Internationale des Architectes Havana: UIA, 1963.
-- Wilheim, Jorge ‘Notas de Viagem – VII Congresso da UIA’ in Acrópole  Nº300 (Out./Nov.), São Paulo, 1963.
+- Wilheim, Jorge ‘Notas de Viagem – VII Congresso da UIA’ in Acrópole Nº300 (Out./Nov.), São Paulo, 1963.
 - Hemeroteca do Arquivo Público Jordão Emerenciano (APEJE –PE): Coleções dos jornais Diário de Pernambuco, Jornal do Commercio, Última Hora, a Hora, Folha do Povo do período 1960-1964
 - Entrevistas com Acácio Gil Borsoi (Ago/2006 e Set/2007), Geraldo Gomes da Silva (Jul/2006 e Out/2007), Maurício Castro (Out/2007) e Germano Coelho (Set/2007) e com moradores do Cajueiro Seco (Set/2007).

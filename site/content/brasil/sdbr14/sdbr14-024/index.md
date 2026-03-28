@@ -64,4 +64,4 @@ palavras-chave:
 - LEAL, Angela Barros. Praça Portugal: um laço entre Portugal e o Ceará. Fortaleza: Terra da Luz Editorial. 2009, 108 p.
 - MARQUES, Ana Cesaltina Barbosa. Apropriar-se da Praça: Uma Disputa de Sentidos de Lugar. I n t e r c o m – Sociedade Brasileira de Estudos Interdisciplinares da Comunicação 40º Congresso Brasileiro de Ciências da Comunicação, Curitiba, 2017.
 - MURATORI, RICARDO. Entrevista com Ricardo Muratori. Entrevistadora: Ingrid Peixoto. Março de 2021.
-- SOMEKH, Nadia. Cidade, patrimônio, herança e inclusão. Em busca de novos instrumentos. Arquitextos, São Paulo, ano 18, n. 211.00, Vitruvius, dez. 2017 &lt;https://vitruvius.com.br/revistas/read/arquitextos/18.211/6825&gt;.
+- SOMEKH, Nadia. Cidade, patrimônio, herança e inclusão. Em busca de novos instrumentos. Arquitextos, São Paulo, ano 18, n. 211.00, Vitruvius, dez. 2017 &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/18.211/6825">https://vitruvius.com.br/revistas/read/arquitextos/18.211/6825</a>&gt;

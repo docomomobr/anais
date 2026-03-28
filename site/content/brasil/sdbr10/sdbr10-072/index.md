@@ -67,5 +67,5 @@ palavras-chave:
 - Milheiro, Ana Vaz. Simões de Carvalho, o arquitecto de Béton Brut. In JA – Jornal Arquitectos, Ser Pobre, n.º 236, Jul./Ago./Set. 2009, p.22-27.
 - Milheiro, Ana Vaz. Luanda no Futuro: o Bairro Prenda. In AA.VV. Luanda, Cidade (im)Previsível? Lx: Fundação Serra Henriques, 2012, p.38-50.
 - Prado, Roberto G.; Martí, Paz N. La Modernidad Ignorada - Arquitectura Moderna de Luanda. Acalà de Henares: Universidad de Alcalà, 2011
-- Puppi, Marcello. Espaços Inacabados: Le Corbusier, Lucio Costa e a Saga da Casa do Brasil, 1953-56. In ARQTexto, n.º 12, 1º semestre 2008, p. 160-203. Disponível em &lt;http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/07_MP_espa%C3%A7os_3 00409C.pdf&gt;
+- Puppi, Marcello. Espaços Inacabados: Le Corbusier, Lucio Costa e a Saga da Casa do Brasil, 1953-56. In ARQTexto, n.º 12, 1º semestre 2008, p. 160-203. Disponível em &lt;<a href="http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/07_MP_espa%C3%A7os_3">http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/07_MP_espa%C3%A7os_3</a>&gt; 00409C.pdf&gt;
 - Zein, Ruth Verde. Brutalismo, sobre sua definição (ou , de como um rótulo superficial é, por isso mesmo, adequado). In Arquitextos, n.º 84, Maio 2007.

@@ -71,15 +71,15 @@ palavras-chave:
 - LIMA, Antônia Jesuíta de Lima. Políticas urbanas, governos locais e segregação socioespacial: alcances e limites das novas intervenções públicas. In:
 - LIMA, Antônia Jesuíta de Lima. LIMA, Antônia Jesuíta de. (Org.) Cidades brasileiras: atores, processos e gestão pública. Belo Horizonte, MG: Autêntica, 2007. p. 251 – 282.
 - LOPES, José Antônio Viana (Org.). São Luís Ilha do Maranhão e Alcântara: guia de arquitetura e paisagem. Sevillha: Consejería de Obras Públicas y Transportes, Direción General de Arquitectura y Vivienda, 2008. 448 p.
-- Ministério das Cidades. Disponível em &lt; http://www.cidades.gov.br/&gt;, acesso em 2008.
+- Ministério das Cidades. Disponível em &lt;<a href="http://www.cidades.gov.br/">http://www.cidades.gov.br/</a>&gt; acesso em 2008.
 - MORA, Luis de la. A institucionalização dos processos de negociação para assegurar a sustentabilidade dos projetos de conservação urbana integrada. In
 - MORA, Luis de la. ZANCHETI, Silvio Mendes (Org.) Gestão do patrimônio cultural integrado. Centro de Conservação Integrada Urbana e Territorial. Programa de Pós-Graduação em Desenvolvimento Urbano. Recife: Ed. Universitária da UFPE, 2002. p. 245-250.
 - NETO, José Bello Salgado. Uma análise do espaço público em meio ao conflito entre políticas públicas urbanas e ambientais: o caso Lagoa da Jansen. Dissertação (Doutorado em Urbanismo). Programa de Pós-Graduação Universidade Federal do Rio de Janeiro. Rio de Janeiro.
 - OLIVEIRA, Alex. Patrimônio São Luís. Estudo sobre a sustentabilidade do processo de conservação do patrimônio cultural edificado. Dissertação (Mestrado em Conservação Integrada). Programa de Pós-Graduação Universidade Federal de Pernambuco. Recife.
 - PONTUAL, Virgínia. A gestão da conservação integrada. In
 - PONTUAL, Virgínia. ZANCHETI, Silvio Mendes (Org.) Gestão do patrimônio cultural integrado. Centro de Conservação Integrada Urbana e Territorial. Programa de Pós-Graduação em Desenvolvimento Urbano. Recife: Ed. Universitária da UFPE, 2002. p. 113-117.
-- Portal do Governo do Estado do Maranhão. Disponível em &lt;http://www.ma.gov.br/&gt;, acesso em 2008.
-- PORTELA, Ana Margarida; QUEIROZ, Francisco. Conservação urbana territorial integrada. Disponível em &lt;http://franciscoeanamargarida.planetaclix.pt/cuti.htm&gt;, acesso em 19 de abril de 2008.
+- Portal do Governo do Estado do Maranhão. Disponível em &lt;<a href="http://www.ma.gov.br/">http://www.ma.gov.br/</a>&gt; acesso em 2008.
+- PORTELA, Ana Margarida; QUEIROZ, Francisco. Conservação urbana territorial integrada. Disponível em &lt;<a href="http://franciscoeanamargarida.planetaclix.pt/cuti.htm">http://franciscoeanamargarida.planetaclix.pt/cuti.htm</a>&gt; acesso em 19 de abril de 2008.
 - SACHS, Ignacy. Desenvolvimento: includente, sustentável e sustentado. Rio de Janeiro, RJ: Garamond, 2004. 152 p.
 - SANTANA, Raimunda Nonata do Nascimento. Urbanidade e segregação: usos do território, modos segregados de moradia e imagens urbanas em São Luís, cidade patrimônio cultural da humanidade. In:
 - SANTANA, Raimunda Nonata do Nascimento. LIMA, Antônia Jesuíta de. (Org.) Cidades brasileiras: atores, processos e gestão pública. Belo Horizonte, MG: Autêntica, 2007. p. 49 – 74.

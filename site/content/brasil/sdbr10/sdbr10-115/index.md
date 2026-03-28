@@ -52,12 +52,12 @@ palavras-chave:
 - Bastos, M. A. J.; ZEIN, R. V. Brasil: Arquiteturas após 1950. 1. ed. São Paulo: Editora Perspectiva, 2010. v. 01.
 - Bierrenbach, Ana Carolina. El caracol y el lagarto: abstracción y mímesis en la arquitectura de Lina Bo Bardi. Barcelona: Tese apresentada à ETSAB-UPC, 2006.
 - Cabral, Maria Cristina. O racionalismo arquitetônico de Lina Bo Bardi. Rio de Janeiro: Dissertação apresentada à Universidade Católica do Rio de Janeiro, 1996.
-- Fuão, F. Fernando. Brutalismo: a última trincheira do movimento moderno. São Paulo: Vitruvius. Arquitextos 007.09, 2000. Disponível em: http://www.vitruvius.com.br (maio de 2013).
+- Fuão, F. Fernando. Brutalismo: a última trincheira do movimento moderno. São Paulo: Vitruvius. Arquitextos 007.09, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; (maio de 2013).
 - Giannecchini, Ana Clara. Técnica e estética no concreto armado: um estudo sobre os edifícios do MASP e da FAUSP. Dissertação apresentada à Faculdade de Arquitetura da USP, 2009.
-- Grinover, Marina. "A forma a partir do espaço em uso, construções de Lina Bo Bardi". Brasília: Anais do 9º Seminário DOCOMOMO BRASIL, 2011. Disponível em http://www.docomomo.org.br (maio de 2013).
+- Grinover, Marina. "A forma a partir do espaço em uso, construções de Lina Bo Bardi". Brasília: Anais do 9º Seminário DOCOMOMO BRASIL, 2011. Disponível em &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; (maio de 2013).
 - Oliveira, Olivia. "I mondi immaginari e i mondi reali" In: Gallo, Antonella (org). Lina Bo Bardi. Architetto. Veneza, 2004. 73-91.
 - Oliveira, Olivia. Sutis substâncias da arquitetura de Lina Bo Bardi. Tese doutoral apresentada à ETSAB-UPC, 2000.
-- Sanvitto, M. L. A. "As Questões Compositivas e o Ideário do Brutalismo Paulista". Porto Alegre: ARQTEXTO (UFRGS), v. 1, p. 98-107, 2002. Disponível em: http://www.ufrgs.br (maio de 2013).
-- Zein, R. V. "Breve introdução à Arquitetura da Escola Paulista Brutalista". São Paulo: Vitruvius. Arquitextos 069.01, 2006. Disponível em: http://www.vitruvius.com.br (maio de 2013).
-- Zein, R. V. "Brutalismo, Escola Paulista: entre o ser e o não ser". Porto Alegre: ARQTEXTO (UFRGS), v.1, 6-31, 2002. Disponível em: http://www.vitruvius.com.br (maio de 2013).
-- Zein, R. V. "Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)". São Paulo: Vitruvius. Arquitextos 084.00, 2007. Disponível em: http://www.vitruvius.com.br (maio de 2013)
+- Sanvitto, M. L. A. "As Questões Compositivas e o Ideário do Brutalismo Paulista". Porto Alegre: ARQTEXTO (UFRGS), v. 1, p. 98-107, 2002. Disponível em: &lt;<a href="http://www.ufrgs.br">http://www.ufrgs.br</a>&gt; (maio de 2013).
+- Zein, R. V. "Breve introdução à Arquitetura da Escola Paulista Brutalista". São Paulo: Vitruvius. Arquitextos 069.01, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; (maio de 2013).
+- Zein, R. V. "Brutalismo, Escola Paulista: entre o ser e o não ser". Porto Alegre: ARQTEXTO (UFRGS), v.1, 6-31, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; (maio de 2013).
+- Zein, R. V. "Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)". São Paulo: Vitruvius. Arquitextos 084.00, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; (maio de 2013)

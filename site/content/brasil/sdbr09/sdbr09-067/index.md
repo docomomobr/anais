@@ -63,9 +63,9 @@ palavras-chave:
 - ARTIGAS, Vilanova. Sobre escolas. In: ARTIGAS, Vilanova. Caminhos da Arquitetura. São Paulo: Cosac & Naify, 2004.
 - AZEVEDO, João (coord.). Universidade Federal de Alagoas: Documentos Históricos. Maceió, Univ. Fed. Alagoas, 775p. 1982.
 - BARROS, Francisco Reinaldo Amorim de Barros. ABC das Alagoas: dicionário bibliográfico, histórico e geográfico de Alagoas. Volume 1. Senado Federal, 2005.
-- BUFFA, Ester e PINTO, Gelson de Almeida.  Arquitetura e educação: organização do espaço e propostas pedagógicas dos grupos escolares paulistas, 1893/1971. São Carlos: EDUFSCar, 2002.
-- NEUFERT, Ernst.  Arte de projetar em arquitetura: princípios, normas e prescrições sobre construção, instalações, distribuição e programa de necessidades, dimensões de edifícios, locais e utensílios Barcelona: Gustavo Gili, 1987.
+- BUFFA, Ester e PINTO, Gelson de Almeida. Arquitetura e educação: organização do espaço e propostas pedagógicas dos grupos escolares paulistas, 1893/1971. São Carlos: EDUFSCar, 2002.
+- NEUFERT, Ernst. Arte de projetar em arquitetura: princípios, normas e prescrições sobre construção, instalações, distribuição e programa de necessidades, dimensões de edifícios, locais e utensílios Barcelona: Gustavo Gili, 1987.
 - PINTO, Gelson de Almeida e BUFFA, Ester. Arquitetura, urbanismo e educação: campi universitários brasileiros. In: VI Congresso Luso-Brasileiro de História da Educação, 2006, Uberlândia-MG. Anais do VI Congresso Luso-Brasileiro de História da Educação. Uberlândia. MG : EDUFU, 2006. v. 1. p. 5724-5746.
 - SEGRE, Roberto. A razão construtiva nas escolas paulistas. Revista Projeto Design, São Paulo, n. 321, p. 80 – 83, nov. 2006.
-- SCHLEE, Andrey Rosenthal. O plano piloto do campus da Universidade Federal de Santa Maria, RS. In: 5° Seminário Docomomo Brasil. São Carlos, out. 2003. Disponível em: &lt;http://www.docomomo.org.br/seminarios.htm&gt; Acesso em: 07 mai. 2010.
+- SCHLEE, Andrey Rosenthal. O plano piloto do campus da Universidade Federal de Santa Maria, RS. In: 5° Seminário Docomomo Brasil. São Carlos, out. 2003. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminarios.htm">http://www.docomomo.org.br/seminarios.htm</a>&gt; Acesso em: 07 mai. 2010.
 - SILVA, Maria Angélica da. Arquitetura moderna: a atitude alagoana (1950-1964). Maceió: IAB/UFAL, 1991.

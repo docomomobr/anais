@@ -57,4 +57,4 @@ palavras-chave:
 - GRAEFF, Edgard. A superação da dependencia cultural. A arquitetura brasileira após Brasilia. Rio de Janeiro: IAB-RJ. 1977.
 - Revista Módulo – Revista de Arquitetura, Urbanismo e Artes – Dezembro de 1975 – Janeiro de 1976. N. 4.
 - VIOLLET-LE-DUC, E. E., Restauração. Brasil, Artes & Ofícios.
-- BRANDI, Cesare. Teoria da Restauração. Artes & Ofícios.http://www.vitruvius.com.br/arquitextos/arq000/esp030.asphttp://w ww.arcoweb.com.br/debate/debate10.aspProjeto Design, edição 252, Fevereiro de 2001.FCA site: http://www.fcasa.com.brEstações Ferroviárias site: http://www.estacoesferroviarias.com.br
+- BRANDI, Cesare. Teoria da Restauração. Artes & Ofícios. &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp030.asphttp://w">http://www.vitruvius.com.br/arquitextos/arq000/esp030.asphttp://w</a>&gt; ww.arcoweb.com.br/debate/debate10.aspProjeto Design, edição 252, Fevereiro de 2001.FCA site: &lt;<a href="http://www.fcasa.com.brEstações">http://www.fcasa.com.brEstações</a>&gt; Ferroviárias site: &lt;<a href="http://www.estacoesferroviarias.com.br">http://www.estacoesferroviarias.com.br</a>&gt;

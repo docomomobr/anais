@@ -42,7 +42,7 @@ authors:
     familyname: "Carvalho"
     orcid: "0000-0002-0076-9966"
 doi: "10.5281/zenodo.19078162"
-zenodo_pdf_url: "https://zenodo.org/records/19078163/files/sdbr14-074.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285677/files/sdbr14-074.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
@@ -60,7 +60,7 @@ palavras-chave:
 ## Referências
 
 - AUGÉ, Marc. Não-lugares: introdução a uma antropologia da supermodernidade. Tradução de Maria Lúcia Pereira. São Paulo: Papirus, 1994.
-- BELÉM. Lei Ordinária N.º 7709, de 18 de maio de 1994. Dispõe sobre a preservação e proteção do Patrimônio Histórico, Artístico, Ambiental e Cultural do Município de Belém e dá outras providências. Disponível em http://www.belem.pa.gov.br/semaj/app/paginas/lom.html. Acesso em: 29 jan. 2021.
+- BELÉM. Lei Ordinária N.º 7709, de 18 de maio de 1994. Dispõe sobre a preservação e proteção do Patrimônio Histórico, Artístico, Ambiental e Cultural do Município de Belém e dá outras providências. Disponível em &lt;<a href="http://www.belem.pa.gov.br/semaj/app/paginas/lom.html">http://www.belem.pa.gov.br/semaj/app/paginas/lom.html</a>&gt; Acesso em: 29 jan. 2021.
 - BELÉM. Governo Alacid Nunes (1966 – 1971): Saneamento dos canais de Belém. Publicado no Diário Oficial do Estado de 23 de maio de 2016.
 - BISPO, Raphael. Selecionar, disputar e conservar: práticas de comunicação social e constituição da memória nacional pelo Iphan. Revista CPC USP, n. 11, p. 33-59, Nov 2010/abr2011.
 - COSTA FILHO, Sidney Pery da Silva. O “sítio da patrimonial”: uma análise sobre a outra faceta do bairro gênese da cidade de Belém. 2019. 102 f. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade Federal do Pará, Belém, 2009.
@@ -72,4 +72,4 @@ palavras-chave:
 - SARQUIS, Giovanni Blanco. Diálogos Contemporâneos na arquitetura belenense (1979 - 2007). Tese (Doutorado em Arquitetura e Urbanismo) - Programa de Pós-Graduação em Arquitetura e Urbanismo da Universidade Presbiteriana Mackenzie. São Paulo. 350f. 2012.
 - SOARES, Elizabeth Nelo (org.). Largos, coretos e praças de Belém. Brasília, DF: Iphan/ Programa Monumenta, 2009.
 - TUAN, Yi-fu. Topofilia: Um estudo da percepção, atitudes e valores do meio ambiente. Ed. DIFEL Difusão Editorial S. A. São Paulo, SP. 1980.
-- SITES CONSULTADOS https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=443395&view=detalhes. Acesso em: 11 mai. 2021. https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=42526&view=detalhes. Acesso em: 12 mai. 2021. http://www.belem.pa.gov.br/ver-belem/detalhe.php?p=228&i=1. Acesso em 12 mai. 2021. https://www.marinha.mil.br/dia-do-marinheiro. Acesso em 16 mai. 2021.
+- SITES CONSULTADOS &lt;<a href="https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=443395&view=detalhes">https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=443395&view=detalhes</a>&gt; Acesso em: 11 mai. 2021. &lt;<a href="https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=42526&view=detalhes">https://biblioteca.ibge.gov.br/biblioteca-catalogo.html?id=42526&view=detalhes</a>&gt; Acesso em: 12 mai. 2021. &lt;<a href="http://www.belem.pa.gov.br/ver-belem/detalhe.php?p=228&i=1">http://www.belem.pa.gov.br/ver-belem/detalhe.php?p=228&i=1</a>&gt; Acesso em 12 mai. 2021. &lt;<a href="https://www.marinha.mil.br/dia-do-marinheiro">https://www.marinha.mil.br/dia-do-marinheiro</a>&gt; Acesso em 16 mai. 2021.

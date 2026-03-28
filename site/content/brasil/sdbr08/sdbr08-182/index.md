@@ -46,7 +46,7 @@ authors:
     familyname: "Sánchez"
     orcid: "0000-0003-0426-8090"
 doi: "10.5281/zenodo.19073468"
-zenodo_pdf_url: "https://zenodo.org/records/19073469/files/sdbr08-182.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285570/files/sdbr08-182.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
@@ -75,7 +75,7 @@ palavras-chave:
 - NIEMEYER, Oscar. Oscar niemeyer. Trad. Di Luciano Di Pietro e Gianni Rizzoni.- Milão: A. Mondadori, 1975. 511 p. REVISTA e o título, Acrópole – Brasília. São Paulo: M Grunewald n. 256/257, abr. 1960. REVISTA e o título, Brasília: Revista da Companhia Urbanizadora da Nova Capital. Brasília: Novacap, n. 7, Jul. 1957. REVISTA e o título, Módulo. Rio de Janeiro. n. 6, Dez. 1956.
 - NIEMEYER, Oscar. Módulo. Rio de Janeiro. n. 9, Jul. 1958.
 - NIEMEYER, Oscar. Módulo. Rio de Janeiro. n. 21, Dez. 1960.
-- SILVA, Elcio Gomes da; SÁNCHEZ, José Manoel Morales, Congresso Nacional – da documentação técnica à obra construída . in: http://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/
+- SILVA, Elcio Gomes da; SÁNCHEZ, José Manoel Morales, Congresso Nacional – da documentação técnica à obra construída . in: &lt;<a href="http://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/">http://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/</a>&gt;
 - SPADE, Rupert; TUTAGAWA, Yukio. Oscar Niemeyer. New York: Simon & Schuster, 1969. 305p.
 - VASCONCELLOS, Juliano Caldas de. Concreto armado Arquitetura Moderna Escola Carioca: levantamentos e notas. 2004. 313f. Dissertação (Mestrado em Arquitetura) - Faculdade de Arquitetura, Programa de Pesquisa e Pós-Graduação em Arquitetura, UFRS, Porto Alegre, 2004.
 - VASCONCELOS, Carlos Augusto de. Concreto no Brasil: recordes, realizações, história. 2.ed. São Paulo: Pini, 1992. 277p.

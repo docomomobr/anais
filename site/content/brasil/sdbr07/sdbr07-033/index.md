@@ -64,5 +64,5 @@ palavras-chave:
 - HECKSHER, Marcelo. China. Indicadores de Uma Visão sem Preconceitos. Idéias em Destaque, No 22, set/dez 2006, p. 99-117: Instituto Histórico-Cultural da Aeronáutica.
 - HIBBARD, Peter. The Bund, Shanghai. China Faces West. Hong Kong: Odyssey Books, 2007.
 - NESBITT, Kate (ed.). Theorizing a New Agenda for Architecture. An Anthology of Architectural Theory 1965- 1995. New York: Princeton Architectural Press, 1996.
-- PRAGER, Emily. Setting Down in a City in Motion. The New York Times. &lt;http://www.nytimes.com /2007/07/19&gt;
+- PRAGER, Emily. Setting Down in a City in Motion. The New York Times. &lt;<a href="http://www.nytimes.com">http://www.nytimes.com</a>&gt; /2007/07/19&gt;
 - ROGERS, Richard. Cities for a Small Planet. Boulder, CO: Westview Press, 1998.

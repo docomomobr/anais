@@ -27,7 +27,7 @@ authors:
     familyname: "Rezende"
     orcid: "0000-0002-3686-3954"
 doi: "10.5281/zenodo.19072545"
-zenodo_pdf_url: "https://zenodo.org/records/19072546/files/sdbr06-063.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285518/files/sdbr06-063.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "6º Seminário Docomomo Brasil: anais: moderno e nacional, Arquitetura e Urbanismo [recurso eletrônico] / organização: José Pessôa, Eduardo Vasconcellos, Elisabete Reis, Maria Lobo. Niterói: Pós-Graduação em Arquitetura e Urbanismo, UFF, 2005. ISBN 85-99618-01-6"
 autores:

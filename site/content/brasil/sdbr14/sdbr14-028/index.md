@@ -51,7 +51,7 @@ palavras-chave:
 
 ## Referências
 
-- ALBUQUERQUE, Carlos. Habitações berlinenses tornam-se patrimônio mundial. DW Brasil | Notícias e análises do Brasil e do mundo, 2008. Disponível em: &lt;https://www.dw.com/pt-br/habita%C3%A7%C3%B5es-modernas-berlinenses-tornam-se-patrim%C3%B4ni o-mundial/a-3469237&gt;. Acesso em: 10 de Maio de 2021.
+- ALBUQUERQUE, Carlos. Habitações berlinenses tornam-se patrimônio mundial. DW Brasil | Notícias e análises do Brasil e do mundo, 2008. Disponível em: &lt;<a href="https://www.dw.com/pt-br/habita%C3%A7%C3%B5es-modernas-berlinenses-tornam-se-patrim%C3%B4ni">https://www.dw.com/pt-br/habita%C3%A7%C3%B5es-modernas-berlinenses-tornam-se-patrim%C3%B4ni</a>&gt; o-mundial/a-3469237&gt;. Acesso em: 10 de Maio de 2021.
 - AMORIM, Luiz. Obituário arquitetônico: Pernambuco modernista/Luiz Amorim. Recife, 2007.
 - BIHUM, Bruno. A significância cultural do Sítio Histórico da Boa Vista. Trabalho de Conclusão de Curso,
 - DIRETORIA DE PRESERVAÇÃO DO PATRIMÔNIO CULTURAL. Diagnóstico Propositivo para as Zonas Especiais de Preservação do Patrimônio Cultural - ZEPP, Prefeitura do Recife. Lei de Uso e Ocupação do Solo -
@@ -59,12 +59,12 @@ palavras-chave:
 - FREITAS, Marcelo; SMITH, Roberta. Estudo para a preservação da arquitetura moderna no Recife (1930 a 1960). In: DOCOMOMO N-NE, 2° Seminário, Salvador - BA, 2008.
 - FUNDAÇÃO DE DESENVOLVIMENTO DA REGIÃO METROPOLITANA DO RECIFE. Plano de preservação dos sítios históricos da Região Metropolitana do Recife. Recife: FIDEM, 1978
 - GHIROTTO, Fernanda. O Lugar como categoria de análise: a definição de zonas de interesse no Bairro da Boa Vista, Recife/PE. 2012. 188f. Dissertação (Mestrado Profissional em Preservação do Patrimônio Cultural) – Instituto do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro.
-- MACDONALD, Susan. Modern Matters. Breaking the Barriers to Conserving Modern Heritage. The Getty Conservation Institute Spring, 2013. Disponível em &lt;https://www.getty.edu/conservation/publications_resources/newsletters/28_1/modern_matters.html&gt;. Acesso em: 14 de Maio de 2021.
+- MACDONALD, Susan. Modern Matters. Breaking the Barriers to Conserving Modern Heritage. The Getty Conservation Institute Spring, 2013. Disponível em &lt;<a href="https://www.getty.edu/conservation/publications_resources/newsletters/28_1/modern_matters.html">https://www.getty.edu/conservation/publications_resources/newsletters/28_1/modern_matters.html</a>&gt; Acesso em: 14 de Maio de 2021.
 - MARQUES, Sônia, NASLAVSKY, Guilah. Arquitetura Moderna. Guia do Recife: Arquitetura e paisagismo. in: Rocha, Edileuza da (org.) Recife: Edileusa Oliveira da Rocha. 2004.
 - MEDINA, Luciano. REINVENÇÃO DA QUADRA: o Plano de Quadra como alternativa de controle e desenho urbano para o Recife Tese de Doutoramento, Programa de Pós-graduação em Desenvolvimento Urbano da Universidade Federal de Pernambuco – UFPE, 2018.
 - MOREIRA, Fernando. DESAFIOS POSTOS PELA CONSERVAÇÃO DA ARQUITETURA MODERNA. Centro de Estudos Avançados da Conservação Integrada. Textos para discussão - Série Gestão de Restauro. Olinda, 2010.
 - NASCIMENTO, Flávia Britto do. Conjuntos residenciais modernos: valor e preservação. In: O MODERNO JÁ
-- PASSADO, O MODERNO NO PASSADO, Reciclagem, Requalificação, Rearquitetura, DOCOMOMO BRASIL, 7, 2007, Porto Alegre: UFRGS, 2007. p. 1-13. Disponível em: &lt;http://docomomo.org.br/wp-content/uploads/2016/01/021&gt;. Acesso em: 20 junho de 2021.
+- PASSADO, O MODERNO NO PASSADO, Reciclagem, Requalificação, Rearquitetura, DOCOMOMO BRASIL, 7, 2007, Porto Alegre: UFRGS, 2007. p. 1-13. Disponível em: &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/021">http://docomomo.org.br/wp-content/uploads/2016/01/021</a>&gt; Acesso em: 20 junho de 2021.
 - NASLAVSKY, Guilah. Arquitetura Moderna do Recife 1949-1972. Recife: E. da Rocha, 2012.
 - NASLAVSKY, Guilah. In: Vários autores. Verticalização no Recife. Os céus como fronteira: a verticalização no Brasil.
 - NASLAVSKY, Guilah. 1. ed.
@@ -73,4 +73,4 @@ palavras-chave:
 - SILVA, Vanessa. Conservação do patrimônio moderno no bairro da Boa Vista: um olhar sobre o Edifício Pirapama. Trabalho de Conclusão de Curso, 2021. Universidade Federal de Pernambuco, Recife, Pernambuco.
 - SOBREIRA, C.; LEAL,C. Uma Análise Tipológica dos Edifícios de Uso Misto em São Paulo entre os anos de 1940 e 1970. In: DOCOMOMO BRASIL, 13, 2019, Salvador, Anais… Salvador: UFBA, 2019.
 - SOUZA, Lara Melo; AMORIM, Luiz; LOUREIRO, Claudia. Morar no centro: preservando a moradia no centro. In: CLACS’04 - Construção Sustentável - I Conferência Latino Americana de Construção Sustentável, São Paulo, 2004.
-- RECIFE. Lei nº 16.176, de 09 de abril de 1996. Estabelece a Lei de Uso e Ocupação do Solo da Cidade do Recife. Disponível em: &lt;https://leismunicipais.com.br/a1/plano-de-zoneamento-uso-e-ocupacao-do-solo-recife-pe&gt;.
+- RECIFE. Lei nº 16.176, de 09 de abril de 1996. Estabelece a Lei de Uso e Ocupação do Solo da Cidade do Recife. Disponível em: &lt;<a href="https://leismunicipais.com.br/a1/plano-de-zoneamento-uso-e-ocupacao-do-solo-recife-pe">https://leismunicipais.com.br/a1/plano-de-zoneamento-uso-e-ocupacao-do-solo-recife-pe</a>&gt;

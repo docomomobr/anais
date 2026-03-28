@@ -56,32 +56,32 @@ palavras-chave:
 
 ## Referências
 
-- ANDRADE JUNIOR, Nivaldo Vieira de; CARVALHO, Maria Rosa; FREIRE, Raquel Neimann da Cunha. Avant-Garde na Bahia: urbanismo, arquitetura e artes plásticas em Salvador nas décadas de DOCOMOMO-Brasil; PROARQ/FAU/UFRJ, 2009. Disponível em: &lt;http://www.docomomo.org.br&gt; Último acesso em: 8 jun 2019.
-- ANELLI, Renato Luiz Sobral. Da integração à autonomia: arte, arquitetura e cultura no Brasil (1950- DOCOMOMO-Brasil; PROARQ/FAU/UFRJ, 2009. Disponível em: &lt;http://www.docomomo.org.br&gt; Último acesso em: 8 jun 2019.
+- ANDRADE JUNIOR, Nivaldo Vieira de; CARVALHO, Maria Rosa; FREIRE, Raquel Neimann da Cunha. Avant-Garde na Bahia: urbanismo, arquitetura e artes plásticas em Salvador nas décadas de DOCOMOMO-Brasil; PROARQ/FAU/UFRJ, 2009. Disponível em: &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Último acesso em: 8 jun 2019.
+- ANELLI, Renato Luiz Sobral. Da integração à autonomia: arte, arquitetura e cultura no Brasil (1950- DOCOMOMO-Brasil; PROARQ/FAU/UFRJ, 2009. Disponível em: &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Último acesso em: 8 jun 2019.
 - BOESIGER, Willy (org.). LE CORBUSIER - Les dernières Oeuvres. Vol. 8 des Oeuvres completes. Zurich: Les Éditions d´Architecture, 1995. [Originalmente publicado em 1970].
 - BOESIGER, Willy & STONOROV, O. (org.). LE CORBUSIER ET PIERRE JEANNERET - Oeuvre Complète 1910-1929. Zurich: Les Éditions d´Architecture, 1995. [Originalmente publicado em 1935].
 - BRANDI, Cesare. Teoria da Restauração. Cotia, São Paulo: Ateliê Editorial, 2004.
 - CINQUALBRE, Olivier. Um Encontro Postergado: Léger e a arquitetura. In: HEDEL-SAMSON, Brigitte & BARROS, Regina Teixeira de (org.). Fernand Léger: relações e amizades brasileiras. São Paulo: Pinacoteca do Estado de São Paulo/ Imprensa Oficial do Estado de São paulo, 2009. Pp.32-41.
 - CLARK, Lígia [Lygia]. Uma experiência de integração. In: Brasil - Arquitetura Contemporânea, Rio de Janeiro, n.8, 1956.
 - COSTA, Lúcio. A Crise da Arte Contemporânea. In: Brasil - Arquitetura Contemporânea, Rio de Janeiro, n.1, ago-set 1953, pp. 2-3.
-- COSTA, Lúcio. Arte e Educação. Congresso Internacional Extraordinário de Críticos de Arte, 1959, Brasília, São Paulo e Rio de Janeiro. Anais... Brasília, São Paulo e Rio de Janeiro: 1959. Disponível em: &lt;http://www.jobim.org/lucio/bitstream/handle/2010.3/3593/V%20A%2006- 03324%20L.pdf?sequence=3&gt;
+- COSTA, Lúcio. Arte e Educação. Congresso Internacional Extraordinário de Críticos de Arte, 1959, Brasília, São Paulo e Rio de Janeiro. Anais... Brasília, São Paulo e Rio de Janeiro: 1959. Disponível em: &lt;<a href="http://www.jobim.org/lucio/bitstream/handle/2010.3/3593/V%20A%2006-">http://www.jobim.org/lucio/bitstream/handle/2010.3/3593/V%20A%2006-</a>&gt; 03324%20L.pdf?sequence=3&gt;
 - CZALJOWSKI, Jorge et al (org). Carlos Leão: Arquitetura. Rio de Janeiro: Bazar do Tempo, 2016.
 - DAMAZ, Paul. Art in European Architecture. New York: Reinhold Publishing Corporation, 1956.
-- FARIAS, Agnaldo Farias. A Obra de Athos Bulcão, Ponto Alto da Vertente Construtiva. In: Anais do PPGAU- UFF, 2005. Disponível em: &lt;http://www.docomomo.org.br&gt; Último acesso em: 8 jun 2019.
+- FARIAS, Agnaldo Farias. A Obra de Athos Bulcão, Ponto Alto da Vertente Construtiva. In: Anais do PPGAU- UFF, 2005. Disponível em: &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Último acesso em: 8 jun 2019.
 - FERNANDES, Fernanda. Síntese das Artes e cultura urbana. Relações entre arte, arquitetura e urbanismo. Rio de Janeiro: PPGAU-UFF, 2005.
 - FERNÁNDEZ-MORALES, Angélica & CHECA, Zaira Joanna Peinado. Le Corbusier, Alfred Roth y el color. In: dearq n14, jul 2014. Bogotá: Uniandes, 2014, pp. 112-129.
 - GOULD, Stephen Jay. Viva o Brontossauro: reflexões sobre história natural. São Paulo: Companhia das Letras, 1992.
 - GUÉGEN, Pierre. Pevsner et la Conquete Plastique de l´Espace. In : Art d´Aujourd´Hui - Revue d´Art Contemporain, n.1, fev 1954.
 - HALL, Edward. A Dimensão Oculta. São Paulo: Ed. Martins Fontes, 2005
-- KLINKHAMMER, Barbara. Creation of the Myth: “White” Modernism. In: GONZALEZ, Robert Alexander & NEPOMECHIE, Marilys Rebecca (ed.). 2004 ACSA Technology, Conference Enclaves Amidst Technology. 92nd ACSA Annual Meeting, Miami – FL, March 18-21. Miami, EUA: ACSA – Association of Collegiate Schools of Architecture, 2004a, pp 429-434. Disponível em: &lt;http://www.acsa-arch.org/&gt; Último acesso em 8 jun 2019.
+- KLINKHAMMER, Barbara. Creation of the Myth: “White” Modernism. In: GONZALEZ, Robert Alexander & NEPOMECHIE, Marilys Rebecca (ed.). 2004 ACSA Technology, Conference Enclaves Amidst Technology. 92nd ACSA Annual Meeting, Miami – FL, March 18-21. Miami, EUA: ACSA – Association of Collegiate Schools of Architecture, 2004a, pp 429-434. Disponível em: &lt;<a href="http://www.acsa-arch.org/">http://www.acsa-arch.org/</a>&gt; Último acesso em 8 jun 2019.
 - KLINKHAMMER, Barbara. Machine a Habiter or Oeuvre Plastique? The Color Concept of the Villa Savoye. In: DUNHAM-JONES, Ellen & MOHNEY, David. 91st ACSA Annual Meeting Proceedings, Recalibrating Centers and Margins. 91st ACSA Annual Meeting, Louisville – KY, March 14-17, 2003.
-- Louisville, EUA: ACSA – Association of Collegiate Schools of Architecture, 2003, pp 188-195. Disponível em: &lt;http://www.acsa-arch.org/&gt; Último acesso em 8 jun 2019.
+- Louisville, EUA: ACSA – Association of Collegiate Schools of Architecture, 2003, pp 188-195. Disponível em: &lt;<a href="http://www.acsa-arch.org/">http://www.acsa-arch.org/</a>&gt; Último acesso em 8 jun 2019.
 - KLINKHAMMER, Barbara. Poème de Murs: The Color Concept of the House La Roche. In: FISHER, Thomas & MACY, Christine. 89th ACSA Annual Meeting Proceedings, Paradoxes of Progresss. 89th ACSA Annual Meeting, Baltimore - MD, March 16-20, 2001.
-- Baltimore, EUA: ACSA – Association of Collegiate Schools of Architecture, 2001, pp.349. Disponível em: &lt;http://www.acsa-arch.org/&gt; Último acesso em 8 jun 2019.
+- Baltimore, EUA: ACSA – Association of Collegiate Schools of Architecture, 2001, pp.349. Disponível em: &lt;<a href="http://www.acsa-arch.org/">http://www.acsa-arch.org/</a>&gt; Último acesso em 8 jun 2019.
 - KLINKHAMMER, Barbara. The Spatial Use of Color in Early Modernism. In: FORBES, Geraldine &
-- MALECHA, Marvin. 87th ACSA Annual Meetings, Legacy. 87th ACSA Annual Meeting. ACSA – Association of Collegiate Schools of Architecture, 1999, pp.222-225. Disponível em: &lt;http://www.acsa- arch.org/&gt; Último acesso em 8 jun 2019.
+- MALECHA, Marvin. 87th ACSA Annual Meetings, Legacy. 87th ACSA Annual Meeting. ACSA – Association of Collegiate Schools of Architecture, 1999, pp.222-225. Disponível em: &lt;<a href="http://www.acsa-">http://www.acsa-</a>&gt; arch.org/&gt; Último acesso em 8 jun 2019.
 - KLINKHAMMER, Barbara. Towards Standardization and Industrialization: Le Corbusier's Swiss Pavilion and His Polychromie Architecturale. In: GONZALEZ, Robert Alexander & NEPOMECHIE, Marilys Rebecca (ed.). 2004 ACSA Technology, Conference Enclaves Amidst Technology. 92nd
-- ACSA Annual Meeting, Miami – FL, March 18-21. Miami, EUA: ACSA – Association of Collegiate Schools of Architecture, 2004a, pp 382-388. Disponível em: &lt;http://www.acsa-arch.org/&gt; Último acesso em 8 jun 2019.
+- ACSA Annual Meeting, Miami – FL, March 18-21. Miami, EUA: ACSA – Association of Collegiate Schools of Architecture, 2004a, pp 382-388. Disponível em: &lt;<a href="http://www.acsa-arch.org/">http://www.acsa-arch.org/</a>&gt; Último acesso em 8 jun 2019.
 - LANGER, Suzanne K. Feeling and Form – a theory of art developed from Philosophy in a New Key. London: Routledge & Kegan Paul Ltd., 1963.
 - LATORRACA, Giancarlo. João Filgueiras Lima Lelé. Lisboa/ São Paulo: Editorial Blau/ Instituto Lina Bo e P.M. Bardi, 2000.
 - LE CORBUSIER. A Arquitetura e as Belas-Artes (1936). In: Revista do Patrimônio Histórico e Artístico Nacional, n.19, 1984, p.53-68.
@@ -102,15 +102,15 @@ palavras-chave:
 - OVERY, Paul. De Stijl. Londres: Thames & Hudson, 1991.
 - OVERY, Paul. Light, Air and Openness: Modern Architecture Between the Wars. Londres: James & Hudson Ltd., 2007.
 - OZENFANT, Amédée & JEANNERET, Charles-Édouard [Le Corbusier]. Depois do Cubismo. São Paulo: Cosacnaify, 2005. [Originalmente publicado em 1919]
-- OZENFANT, Amédée & JEANNERET, Charles-Édouard [Le Corbusier]. Le Purisme. In: L´Esprit Nouveau n.4. Paris: Éditions de l´Esprit Nouveau S.A., 1921. Pp.369-386. Disponível em: &lt;https://gallica.bnf.fr&gt; Último acesso em: 8 jun 2019.
-- PAZ, Daniel J. Mellado. Luz, Espaço e Verde: alguns temas modernistas na obra de João Filgueiras 2016. Disponível em: &lt;http://www.seminario2016.docomomo.org.br/&gt; Último acesso em: 8 jun 2019.
+- OZENFANT, Amédée & JEANNERET, Charles-Édouard [Le Corbusier]. Le Purisme. In: L´Esprit Nouveau n.4. Paris: Éditions de l´Esprit Nouveau S.A., 1921. Pp.369-386. Disponível em: &lt;<a href="https://gallica.bnf.fr">https://gallica.bnf.fr</a>&gt; Último acesso em: 8 jun 2019.
+- PAZ, Daniel J. Mellado. Luz, Espaço e Verde: alguns temas modernistas na obra de João Filgueiras 2016. Disponível em: &lt;<a href="http://www.seminario2016.docomomo.org.br/">http://www.seminario2016.docomomo.org.br/</a>&gt; Último acesso em: 8 jun 2019.
 - PAZ, Daniel J. Mellado. Sob as Ondas: a obra de João Filgueiras Lima, o Lelé, vista a partir dos sheds. In: Anais do 5º Seminário Docomomo N/NE, CD-ROM. Fortaleza: Departamento de Arquitetura e Urbanismo/ UFC, 2014.
-- PAZ, Daniel J. Mellado. Um Sonho de Unidade: João Filgueiras Lima e sua Gesamtkunstwerk. In: Revista PROJETAR v2 n1 abr 2017. Natal: UFRN, 2017. Disponível em: &lt;https://periodicos.ufrn.br/revprojetar/index&gt; Último acesso em: 8 jun 2019.
+- PAZ, Daniel J. Mellado. Um Sonho de Unidade: João Filgueiras Lima e sua Gesamtkunstwerk. In: Revista PROJETAR v2 n1 abr 2017. Natal: UFRN, 2017. Disponível em: &lt;<a href="https://periodicos.ufrn.br/revprojetar/index">https://periodicos.ufrn.br/revprojetar/index</a>&gt; Último acesso em: 8 jun 2019.
 - PEZOLET, Nicola. Spectacles Plastiques: Reconstruction and the Debates on the "Synthesis of the Arts" in France, 1944-1962. Tese de Doutorado em Arquitetura: História e Teoria da Arte. Massachusetts Institute of Technology, fev 2013.
-- PORTO, Cláudia Estrela. Athos Bulcão: A linha tênue entre arte e arquitetura. Brasília: Fundação Athos Bulcão, s/d. Disponível em: &lt;http://www.fundathos.org.br&gt; Último acesso em: 8 jun 2019.
+- PORTO, Cláudia Estrela. Athos Bulcão: A linha tênue entre arte e arquitetura. Brasília: Fundação Athos Bulcão, s/d. Disponível em: &lt;<a href="http://www.fundathos.org.br">http://www.fundathos.org.br</a>&gt; Último acesso em: 8 jun 2019.
 - PORTO, Cláudia Estrela. Quando arte e arquitetura se mesclam: a obra de Athos Bulcão e Lelé. In:
-- RACHED, Mary da Silva. O Azulejo na Fachada da Arquitetura Moderna: um estudo sobre o azulejar 2016. Disponível em: &lt;http://www.seminario2016.docomomo.org.br/&gt; Último acesso em: 8 jun 2019.
-- SANTOS, Cecília Rodrigues do. A Arquitetura e as Artes Menores. In: Anais do 6º Seminário Docomomo Brasil, Niterói, 16 a 19 de novembro de 2005. Niterói, Rio de Janeiro: PPGAU- UFF, 2005. Disponível em: &lt;http://www.docomomo.org.br&gt; Último acesso em: 8 jun 2019.
+- RACHED, Mary da Silva. O Azulejo na Fachada da Arquitetura Moderna: um estudo sobre o azulejar 2016. Disponível em: &lt;<a href="http://www.seminario2016.docomomo.org.br/">http://www.seminario2016.docomomo.org.br/</a>&gt; Último acesso em: 8 jun 2019.
+- SANTOS, Cecília Rodrigues do. A Arquitetura e as Artes Menores. In: Anais do 6º Seminário Docomomo Brasil, Niterói, 16 a 19 de novembro de 2005. Niterói, Rio de Janeiro: PPGAU- UFF, 2005. Disponível em: &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Último acesso em: 8 jun 2019.
 - SHAH, Mahnaz. Le Corbusier´s Venice Hospital Project: an investigation into its structural formulation. Burlingon, EUA/ Farnham, Inglaterra: Ashgate Publishing Co., 2013.
 - TROY, Nancy J. The De Stijl Environment. Cambridge, EUA/ Londres/ Inglaterra: The MIT Press, 1983.
 - ULRICH, Conrads (org). Programs and Manifestoes on 20th-Century Architecture. Cambridge, Massachusetts: The MIT Press, 1971.

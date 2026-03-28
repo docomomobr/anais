@@ -61,7 +61,7 @@ palavras-chave:
 - Marques, Sergio Moacir. CEPA – CENTRO EVANGÉLICO DE PORTO ALEGRE 1959- 1969 Arquitetura Moderna e Contexto. UNIRITTER. www.uniritter.edu.br/eventos/.../VI_SEPesq_1.pdf. Acesso em 08 Maio, 2013
 - Mizogushi, Ivan. Xavier, Alberto. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.
 - Sanvitto, Maria Luiza Adams. Brutalismo paulista: uma análise compositiva de residências paulistanas entre 1957 e 1972. [Dissertação de mestrado]. Porto Alegre: PROPAR-UFRGS,1994.
-- Zein, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. [Tese de doutoramento]. Porto Alegre: PROPAR-UFRGS, 2005. http://www.spatialagency.net/database/1960s.utopian.groups. Acessado em 18 Junho, 2013. http://www.spatialagency.net/database/haus-rucker-co. Acessado em 18 Junho, 2013.
+- Zein, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. [Tese de doutoramento]. Porto Alegre: PROPAR-UFRGS, 2005. &lt;<a href="http://www.spatialagency.net/database/1960s.utopian.groups">http://www.spatialagency.net/database/1960s.utopian.groups</a>&gt; Acessado em 18 Junho, 2013. &lt;<a href="http://www.spatialagency.net/database/haus-rucker-co">http://www.spatialagency.net/database/haus-rucker-co</a>&gt; Acessado em 18 Junho, 2013.
 - Blaser, Werner. Patios: 5000 años de evolución desde la antigüedad hasta nuestros dias. Barcelona: G.Gili, 1999. p.11
 - Sanvitto, Maria Luiza Adams. Brutalismo paulista: uma análise compositiva de residências paulistanas entre 1957 e 1972. [Dissertação de mestrado]. Porto Alegre: PROPAR-UFRGS,1994. p. 32 Heuvel, Dirk van den.
 - Risselada, Max. Alison and Peter Smithson – From the House of the Future to a House of Today. Rotterdam: 010 Publishers, 2004. p. 16

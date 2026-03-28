@@ -67,11 +67,11 @@ palavras-chave:
 - CHOAY, Françoise. A Alegoria do Patrimônio. 3. ed. São Paulo: Estação Liberdade: UNESP, 2008.
 - DANIEL, Letícia Soares. Arquitetura Moderna em Teresina : Reflexos de em Arquiteto Migrante. Análise dos critérios projetuais em Edifícios Institucionais. Dissertação de Mestrado, PROPAR-UFRGS, 2012.
 - GASTÓN,C; ROVIRA,T. El proyecto Moderno: Pautas de Investigación. Barcelona: Ediciones UPC, 2007.
-- MOURA FÉ, IRACILDE. Teresina Agenda 2015: Plano de Desenvolvimento Sustentável. Prefeitura Municipal de Teresina, 2002. Disponível em: &lt; http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924- 160-591-D.pdf &gt;. Acesso em: 15 fev. 2014.
+- MOURA FÉ, IRACILDE. Teresina Agenda 2015: Plano de Desenvolvimento Sustentável. Prefeitura Municipal de Teresina, 2002. Disponível em: &lt;<a href="http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924-">http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924-</a>&gt; 160-591-D.pdf &gt;. Acesso em: 15 fev. 2014.
 - NEGREIROS, Ana Rosa. A produção Arquitetônica de Acácio Gil Borsoi em Teresina. Análise dos critérios projetuais em Edifícios Institucionais. Dissertação de Mestrado, PROPAR-UFRGS, 2012.
 - PÁDUA, Carolina Dal Ben. Arquitetura Moderna: um estudo sobre preservação. Dissertação de Mestrado FAUSP, 2013.
 - PINHEIRO, M. L. B.. Dilemas na Preservação da Arquitetura Moderna: o edifício da FAUUSP. In: V Seminário
 - DOCOMOMO Brasil, 2003, São Carlos. Arquitetura e Urbanismo Modernos: projeto e preservação, 2003.
 - PIÑON, H. Teoria do Projeto. Porto Alegre: Livraria do Arquiteto, 2006
 - QUEIROZ, E. Educação: um caminho para a preservação do patrimônio.
-- Cepaipac, Ituberá, mar.2009. Disponível em: &lt; http://cepaipac.wordpress.com/2009/11/03/hello-world/&gt;. Acesso em: 05 março. 2016. Secretaria Municipal de Planejamento e Coordenação Geral. Teresina: aspectos e características – Perfil 1993. Teresina: PMT.1993
+- Cepaipac, Ituberá, mar.2009. Disponível em: &lt;<a href="http://cepaipac.wordpress.com/2009/11/03/hello-world/">http://cepaipac.wordpress.com/2009/11/03/hello-world/</a>&gt; Acesso em: 05 março. 2016. Secretaria Municipal de Planejamento e Coordenação Geral. Teresina: aspectos e características – Perfil 1993. Teresina: PMT.1993

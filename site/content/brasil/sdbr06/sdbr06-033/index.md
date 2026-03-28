@@ -50,7 +50,7 @@ palavras-chave:
 
 ## Referências
 
-- AFONSO, Sônia. Fotos de Florianópolis. Florianópolis: UFSC, 2005. Disponível em: &lt;http://www.arq.ufsc.br/~soniaa&gt; Acesso em 30 maio 2005, 16:00.
+- AFONSO, Sônia. Fotos de Florianópolis. Florianópolis: UFSC, 2005. Disponível em: &lt;<a href="http://www.arq.ufsc.br/~soniaa">http://www.arq.ufsc.br/~soniaa</a>&gt; Acesso em 30 maio 2005, 16:00.
 - AYMONINO, Carlo. La vivienda racional. Barcelona: Gustavo Gilli, 1973.
 - BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Editora Perspectiva, 1976.
 - CASTRO, Eloah Rocha Monteiro de. Jogo de Formas Híbridas: Florianópolis dec 50. Tese de Doutorado. Florianópolis: UFSC, 2000.
@@ -58,5 +58,5 @@ palavras-chave:
 - DIAS, Adriana Fabre. Arquivo digitalizado do centro de Florianópolis. Acesso restrito. Florianópolis, 2005. LE CORBUSIER. A Célula Comanda. Texto traduzido para uso em aulas do 2º ano- 1970. São Paulo: Laboratório de Artes Gráficas/ FAU-USP, 1970. LE CORBUSIER. Por uma Arquitetura. São Paulo: Perspectiva, 1973.
 - MINDLIN, Henrique E. Arquitetura Moderna no Brasil. 2ª edição. Rio de janeiro: Aeroplano Editora/
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2ª edição. São Paulo: Editora da USP, 2002.
-- SILVA, Edson Luiz. Fotos de Florianópolis. Florianópolis: UFSC, 2005. Disponível em: &lt;http://www. ufsc.br/~esilva&gt; Acesso em 31 maio 2005, 10:00.
+- SILVA, Edson Luiz. Fotos de Florianópolis. Florianópolis: UFSC, 2005. Disponível em: &lt;<a href="http://www">http://www</a>&gt; ufsc.br/~esilva&gt; Acesso em 31 maio 2005, 10:00.
 - WESTON, Richard. A Casa no Século Vinte. Lisboa: Editorial Blau, 2002.

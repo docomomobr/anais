@@ -56,6 +56,6 @@ autores:
 - Foucault, Michel, Las palabras y las cosas, Siglo xxi, México, 1986. Hernández Sampieri, Roberto et alt., Metodología de la investigación, Mc GrawHill, México, 1991.
 - Leff, Enrique, Saber ambiental: sustentabilidad, racionalidad, complejidad y poder, Siglo xxi/pnuma/unam, México, 1998.
 - Lowe, David, Historia de la percepción burguesa, México, fce, 1986. Musée d’Histoire de Marseille/iiriam, L’image en architecture. Les machines à dessiner, Marseille, 1984.
-- Riggen, Antonio, Luis Barragán, El Croquis Editorial, Madrid, 2000. Salazar González, Guadalupe,  “Conocimiento, difusión y valoración en la arquitectura del siglo xx. Más allá de la imagen”, Aedificare 2004, Monterrey, Universidad Autónoma de Nuevo León, 2004, pp. 43-80.
+- Riggen, Antonio, Luis Barragán, El Croquis Editorial, Madrid, 2000. Salazar González, Guadalupe, “Conocimiento, difusión y valoración en la arquitectura del siglo xx. Más allá de la imagen”, Aedificare 2004, Monterrey, Universidad Autónoma de Nuevo León, 2004, pp. 43-80.
 - Waisman, Marina, El interior de la historia. Historiografía arquitectónica para uso de latinoamericanos, Escala, Bogotá, 1990.
 - Waisman, Marina, El interior de la historia. La arquitectura descentrada, Escala, Bogotá, 1995.

@@ -50,10 +50,10 @@ palavras-chave:
 - BRANDI, Cesare. Teoria da restauração. Tradução Beatriz Mugayar Kühl. Cotia: Ateliê Editorial, 2004.
 - CARBONARA, Giovanni. Avvicinamento al restauro. Teoria, storia, monumenti. Napoli: Liguori Editore, 1997. Diário de Poços de Caldas, jan 1948. Arquivo PUC Minas Poços de Caldas. Diário de Poços de Caldas, jan 1948. Arquivo PUC Minas Poços de Caldas.
 - DOCOMOMO. 8º Cidade Moderna e Contemporânea: Síntese e Paradoxo das Artes. 2009, Rio de Janeiro. Rio de Janeiro:
-- ESPADA, Heloisa.“Brasil constrói Brasília, por Mary Vieira, 1959”. In: Anais do xxx Colóquio do Comitê Brasileiro de História da Arte. Outubro de 2010. Disponível em http://www.cbha.art.br/coloquios/2010/anais/site/pdf/cbha_2010_espada_heloisa_art.pdf
+- ESPADA, Heloisa.“Brasil constrói Brasília, por Mary Vieira, 1959”. In: Anais do xxx Colóquio do Comitê Brasileiro de História da Arte. Outubro de 2010. Disponível em &lt;<a href="http://www.cbha.art.br/coloquios/2010/anais/site/pdf/cbha_2010_espada_heloisa_art.pdf">http://www.cbha.art.br/coloquios/2010/anais/site/pdf/cbha_2010_espada_heloisa_art.pdf</a>&gt;
 - ESPADA, Heloisa. Monumentalidade e sombra. A representação do centro cívico de Brasília por Marcel Gautherot. Doutorado em Artes Visuais. ECA-­‐USP, 2011.
 - FREIRE, Cristina. Além dos mapas: os monumentos no imaginário urbano contemporâneo. São Paulo: Annablume, 1997.
-- FREIRE, Cristina. “A utilização de materiais não convencionais na arte contemporânea. Do perene ao transitório: novos paradigmas para o museu de arte contemporânea”. In: Conservar para não restaurar. São Paulo: Itaú Cultural, 2000. Paper disponível em: http://www.itaucultural.org.br/conservar_nao_restaurar/ficha.htm.
+- FREIRE, Cristina. “A utilização de materiais não convencionais na arte contemporânea. Do perene ao transitório: novos paradigmas para o museu de arte contemporânea”. In: Conservar para não restaurar. São Paulo: Itaú Cultural, 2000. Paper disponível em: &lt;<a href="http://www.itaucultural.org.br/conservar_nao_restaurar/ficha.htm">http://www.itaucultural.org.br/conservar_nao_restaurar/ficha.htm</a>&gt;
 - HERNÁNDES, Ascensión Martínez. La clonación arquitectónica. Madri: Siruela, 2007.
 - JOKILEHTO, Jukka Ilmari. A History of Architectural Conservation. Oxford: Butterworth‑Heinemann, 1999.
 - KRAUSS, Rosalind E. “A escultura no campo ampliado”. In: Gávea nº 1, Rio de Janeiro: 1984.

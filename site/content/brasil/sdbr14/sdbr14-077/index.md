@@ -41,7 +41,7 @@ authors:
     familyname: "Perdigão"
     orcid: "0009-0006-6656-7706"
 doi: "10.5281/zenodo.19078170"
-zenodo_pdf_url: "https://zenodo.org/records/19078171/files/sdbr14-077.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285678/files/sdbr14-077.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
@@ -59,17 +59,17 @@ palavras-chave:
 ## Referências
 
 - COLQUHOUN, A. Modernidade e tradição clássica: ensaios sobre arquitetura 1980-87. São Paulo: Cosac & Naify, 2004. p. 39-47.
-- COSTA, A. L.R. M. F; AMORIM, L.M.E. Acre, história e arquitetura: Tradição vernácula e moderna num ambiente de floresta. Vitruvius, 2007. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/07.083/257. Acesso em: 25 abr.2021.
+- COSTA, A. L.R. M. F; AMORIM, L.M.E. Acre, história e arquitetura: Tradição vernácula e moderna num ambiente de floresta. Vitruvius, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.083/257">http://www.vitruvius.com.br/revistas/read/arquitextos/07.083/257</a>&gt; Acesso em: 25 abr.2021.
 - CHAVES, C. Arquitetura moderna e Estado na capital do Pará: contribuições para a construção do campo historiográfico. In: Tostes, J. A. (Org.). Pesquisa em Arquitetura e Urbanismo na Amazônia. 1. ed. v. 1. Macapá: UNIFAP, 2019. p. 133-156.
 - GALLOIS, C. Wajãpi rena: roças, pátios e casas. Rio de Janeiro: Museu do Índio, 2002.
-- MIRANDA, C. S.; CARVALHO, R. M.; TUTYIA, D. R. Uma formação em curso: esboços da graduação em arquitetura e urbanismo da UFPA. Belém: UFPA, 2015. Disponível em: https://fauufpa.files.wordpress.com/2015/07/uma-formac3a7c3a3o-em-curso.pdf. Acesso em: 27 abr. 2021.
+- MIRANDA, C. S.; CARVALHO, R. M.; TUTYIA, D. R. Uma formação em curso: esboços da graduação em arquitetura e urbanismo da UFPA. Belém: UFPA, 2015. Disponível em: &lt;<a href="https://fauufpa.files.wordpress.com/2015/07/uma-formac3a7c3a3o-em-curso.pdf">https://fauufpa.files.wordpress.com/2015/07/uma-formac3a7c3a3o-em-curso.pdf</a>&gt; Acesso em: 27 abr. 2021.
 - MONTE, J. M. P. Estudos e contribuições sobre modelos de projetos e edificações na Amazônia Equatorial. 1986. 61f. Monografia (Especialização em Arquitetura nos Trópicos)- Universidade Federal do Pará, Belém, 1986.
 - NOGUEIRA, L. R. B. Arquitetura vernácular e paisagem amazônica: um caminho na busca pelo habitar poético. Revista da Abordagem Gestáltica – Phenomenological Studies, v. 22, n. 2, p. 171-180, 2016.
 - PERDIGÃO, A. K. A. V. Beiral quebra-sol/quebra-chuva: um estudo comparativo da resposta térmica no ambiente construído em zonas equatoriais úmidas. 1994. Dissertação (Mestrado em Arquitetura) - Escola de Engenharia de São Carlos, São Carlos, 1994.
-- PERDIGÃO, A. K. A. V. Considerações sobre o tipo e seu uso em projetos de arquitetura. Vitruvius, 2009. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/10.114/14. Acesso em: 11 mar. 2021.
+- PERDIGÃO, A. K. A. V. Considerações sobre o tipo e seu uso em projetos de arquitetura. Vitruvius, 2009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/10.114/14">http://www.vitruvius.com.br/revistas/read/arquitextos/10.114/14</a>&gt; Acesso em: 11 mar. 2021.
 - PERDIGÃO, A. K. A. V. Princípios bioclimáticos consolidados num modelo de arquitetura em Belém (PA). In:
 - ENCONTRO NACIONAL SOBRE EDIFICAÇÕES E COMUNIDADES SUSTENTÁVEIS, 1997, Canela. Anais [...]. Canela, 1997. p.197-202.
-- PERDIGÃO, A. K. A. V. Tipo e tipologia na palafita amazônica da cidade de Afuá. V!RUS, n. 13, 2016. Disponível em: http://143.107.236.240/virus/virus13/?sec=4&item=2&lang=pt. Acesso em: 28 abr. 2021.
+- PERDIGÃO, A. K. A. V. Tipo e tipologia na palafita amazônica da cidade de Afuá. V!RUS, n. 13, 2016. Disponível em: &lt;<a href="http://143.107.236.240/virus/virus13/?sec=4&item=2&lang=pt">http://143.107.236.240/virus/virus13/?sec=4&item=2&lang=pt</a>&gt; Acesso em: 28 abr. 2021.
 - PERDIGÃO, A. K. A. V.; OLIVEIRA, L. F. MILTON MONTE E SUA ARQUITETURA DO BARRACÃO: análise da residência Onda Amarela, Ilha do Mosqueiro (PA). In: III SEMINÁRIO DE ARQUITETURA MODERNA NA
 - AMAZÔNIA, 2018, Belém. Anais [...]. Belém, 2018.
 - PERDIGÃO, A. K. A. V. O habitat amazônico sob o enfoque da sustentabilidade: entre arquitetura erudita e vernacular. Revista Latina-Americana del Entorno Construido y Sustentabilidad, [S.I], v. 1, n. 4, p. 98-110, 2020.
@@ -79,4 +79,4 @@ palavras-chave:
 - SILVA, E. Matéria, Ideia e Forma: uma definição de arquitetura. Porto Alegre: Ed. Universidade/UFRGS, 1994.
 - SILVA, E. Uma introdução ao projeto arquitetônico. Porto Alegre: Editora da Universidade/UFRGS, 1984.
 - RABELO, E. M. Análise e interpretação de projetos de escolas do Arq. Milton Monte no contexto amazônico: olhares entre a arquitetura erudita e não erudita. Belém: Universidade Federal do Pará, 2019. Relatório PIBIC.
-- WAWZYNIAK, J. V. Do Barracão à Casa: uma etnografia das transformações nas formas de apropriação, gestão e transmissão dos recursos naturais por seringueiros do Rio Ouro Preto-RO. 2000. 140f. Dissertação (Mestrado em Antropologia) - Departamento de Antropologia, Universidade Federal do Paraná, Curitiba. Disponível em: http://acervodigital.ufpr.br/bitstream/handle/1884/43673/D%20%20JOAO%20VALENTIN%20WAWZYNIAK. pdf?sequence=1&isAllowed=y. Acesso em: 30 abr. 2021.
+- WAWZYNIAK, J. V. Do Barracão à Casa: uma etnografia das transformações nas formas de apropriação, gestão e transmissão dos recursos naturais por seringueiros do Rio Ouro Preto-RO. 2000. 140f. Dissertação (Mestrado em Antropologia) - Departamento de Antropologia, Universidade Federal do Paraná, Curitiba. Disponível em: &lt;<a href="http://acervodigital.ufpr.br/bitstream/handle/1884/43673/D%20%20JOAO%20VALENTIN%20WAWZYNIAK">http://acervodigital.ufpr.br/bitstream/handle/1884/43673/D%20%20JOAO%20VALENTIN%20WAWZYNIAK</a>&gt; pdf?sequence=1&isAllowed=y. Acesso em: 30 abr. 2021.

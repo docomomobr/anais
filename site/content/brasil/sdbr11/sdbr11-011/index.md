@@ -60,8 +60,8 @@ palavras-chave:
 - AMARAL, Aracy. Arte para que? São Paulo: Studio Nobel, 2003.
 - ARTIGAS, João B. Vilanova. Caminhos da arquitetura. São Paulo: Livraria Editora Ciências Humanas, 1981.
 - BRITO, Ronaldo. Neoconcretismo - Vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac & Naify, 1999.
-- CINTRÃO, Rejane/ NASCIMENTO, Ana Paula. Grupo Ruptura: revisitando a exposição inaugural - Arte concreta paulista. São Paulo: Cosac & Naify, 2002. GALEAZZI, Ítalo. Mies van der Rohe no Brasil. Projeto para o Consulado dos Estados Unidos em São Paulo, 1957-1962. São Paulo: Vitruvius, 2005. http://www.vitruvius.com.br/arquitextos/arq056/arq056_03.asp
-- LUCCAS, Luís H. H. “Da integração das artes ao desenho integral: interfaces da arquitetura no Brasil moderno”. São Paulo: Arquitextos 160-02, set. 2013. http://www.vitruvius.com.br/revistas/read/arquitextos/14.160/4877 MAMMÌ, Lorenzo. “Coleção Adolpho Leirner”. In: O que resta: arte e crítica de arte. São Paulo: Companhia das Letras, 2012.
+- CINTRÃO, Rejane/ NASCIMENTO, Ana Paula. Grupo Ruptura: revisitando a exposição inaugural - Arte concreta paulista. São Paulo: Cosac & Naify, 2002. GALEAZZI, Ítalo. Mies van der Rohe no Brasil. Projeto para o Consulado dos Estados Unidos em São Paulo, 1957-1962. São Paulo: Vitruvius, 2005. &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq056/arq056_03.asp">http://www.vitruvius.com.br/arquitextos/arq056/arq056_03.asp</a>&gt;
+- LUCCAS, Luís H. H. “Da integração das artes ao desenho integral: interfaces da arquitetura no Brasil moderno”. São Paulo: Arquitextos 160-02, set. 2013. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/14.160/4877">http://www.vitruvius.com.br/revistas/read/arquitextos/14.160/4877</a>&gt; MAMMÌ, Lorenzo. “Coleção Adolpho Leirner”. In: O que resta: arte e crítica de arte. São Paulo: Companhia das Letras, 2012.
 - RITO, Lucia. Catálogo: “Joaquim Tenreiro: moderno ontem, hoje e sempre”. Rio de Janeiro: Rio Design Center, 1991.
 - SEGAWA, Hugo. Oswaldo Arthur Bratke. São Paulo: Pro Editores Associados, 1997.
 - XAVIER, Alberto. Depoimento de uma geração. São Paulo: Cosac & Naify, 2002.

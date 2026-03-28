@@ -33,7 +33,7 @@ authors:
     affiliation: "UFBA"
     orcid: "0000-0002-1459-2460"
 doi: "10.5281/zenodo.19079991"
-zenodo_pdf_url: "https://zenodo.org/records/19079992/files/sdbr02-001.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285499/files/sdbr02-001.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Docomomo — Brasil: novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico] / organizadores: José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa. Teresina: EDUFPI, 2019. 244 p. ISBN 978-85-509-0555-6. Disponível também em: https://repositorio.ufba.br/handle/ri/30972"
 autores:

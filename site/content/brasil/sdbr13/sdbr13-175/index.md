@@ -59,7 +59,7 @@ palavras-chave:
 - BENEVOLO, Leonardo. Historia da Arquitetura Moderna. São Paulo, Perspectiva, 1998
 - BOTEY, Josep Ma. Oscar Niemeyer. Barcelona: Gustavo Gili, 1996
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1999 CHRIST-JANER, Albert & FOLEY, Mary Mix. Modern Church Architecture. New York-Toronto- London: Mc Graw-Hill, 1959
-- COMAS, Carlos Eduardo Dias. O encanto da contradição. Conjunto da Pampulha, de Oscar Niemeyer. Arquitextos, São Paulo, 01.004, Vitruvius, set 2000 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.004/985&gt;.
+- COMAS, Carlos Eduardo Dias. O encanto da contradição. Conjunto da Pampulha, de Oscar Niemeyer. Arquitextos, São Paulo, 01.004, Vitruvius, set 2000 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.004/985">http://www.vitruvius.com.br/revistas/read/arquitextos/01.004/985</a>&gt;
 - COSTA, Lúcio. Lúcio Costa, Registro de uma Vivência. São Paulo: Empresa das Artes, 1995
 - FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997
 - GIEDION, Sigfried. Espaço, Tempo e Arquitetura. O desenvolvimento de uma nova tradição. São Paulo: Martins Fontes, 2004

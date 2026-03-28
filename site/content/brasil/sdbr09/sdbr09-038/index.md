@@ -61,12 +61,12 @@ palavras-chave:
 
 - ARGAN, Giulio Carlo. Arquitetura e arte não figurativa. Em: Projeto e Destino. São Paulo: Editora Ática, 2004, pág. 137.
 - AYMONINO, Carlo. El significado de las ciudades. Madrid: H. Blume Ediciones, 1981.
-- BRITO, Ronaldo. Apresentação oral no seminário Brasília: Imagem e imaginário, realizado no Instituo Moreira Salles, Rio de Janeiro, em 25 de maio de 2010, com a participação de Paulo Mendes da Rocha e mediação de Ana Luiza Nobre. A gravação pode ser escutada em: http://ims.uol.com.br/Radio/D378
+- BRITO, Ronaldo. Apresentação oral no seminário Brasília: Imagem e imaginário, realizado no Instituo Moreira Salles, Rio de Janeiro, em 25 de maio de 2010, com a participação de Paulo Mendes da Rocha e mediação de Ana Luiza Nobre. A gravação pode ser escutada em: &lt;<a href="http://ims.uol.com.br/Radio/D378">http://ims.uol.com.br/Radio/D378</a>&gt;
 - BRITO, Ronaldo. Neoconcretismo: vértice e ruptura do projeto construtivo brasileiro. São Paulo: Cosac & Naify Edições, 1999.
-- CABRAL, Cláudia Piantá Costa. Arquitetura moderna e escultura figurativa: a representação naturalista no espaço moderno. Arquitextos, São Paulo, 10.117, Vitruvius,fev2010.  Disponível em : http://www.vitruvius.com.br/revistas/read/ arquitextos/10.117/3376&gt;.
+- CABRAL, Cláudia Piantá Costa. Arquitetura moderna e escultura figurativa: a representação naturalista no espaço moderno. Arquitextos, São Paulo, 10.117, Vitruvius,fev2010. Disponível em : &lt;<a href="http://www.vitruvius.com.br/revistas/read/">http://www.vitruvius.com.br/revistas/read/</a>&gt; arquitextos/10.117/3376&gt;.
 - COCCHIARALE, Fernando. Brasília e o construtivismo: um encontro adiado. Exposição realizada no Centro Cultural Banco do Brasil, Brasília, 2010.
 - COMAS, Carlos Eduardo Dias. Precisões brasileiras: sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lúcio Costa, Oscar Niemeyer, MMMRoberto, Affonso Reidy, Jorge Moreira e cia, 1936-1945. Universidade de Paris, Saint Dennis, Tese de doutorado, 2002.
-- COSTA, Lúcio. A crise da arte contemporânea (1952).  Em: Lúcio Costa: Sobre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.
+- COSTA, Lúcio. A crise da arte contemporânea (1952). Em: Lúcio Costa: Sobre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.
 - COSTA, Lúcio. Desencontro (1953). Em: COSTA, Lúcio. Lúcio Costa: Registro de uma vivência. São Paulo: Empresa das Artes, 1995.
 - COSTA, Lúcio. Considerações sobre arte contemporânea (1952). Em: Lúcio Costa: Sobre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.
 - DI CAVALCANTI. Realismo e abstracionismo. Boletim SATMA: Sul América Terrestres, Marítimos e Acidentes, Rio de Janeiro, n.23, p.47, 1949.

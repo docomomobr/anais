@@ -71,7 +71,7 @@ palavras-chave:
 - ROGERS, Ernesto Natan. “I CIAM al museu”. In Casabella 232, outubro/1959. p.02-03.
 - ROSSETTI, Eduardo Pierrotti. Arquitetura em transe. Lucio Costa, Oscar Niemeyer, Vilanova Artigas e Lina Bo Bardi: nexos da arquitetura brasileira pós-Brasília (1960-85). São Paulo: FAU-USP, 2007. Tese de Doutorado.
 - ROSSETTI, Eduardo Pierrotti. Tensão moderno/ popular em Lina Bo Bardi: nexos de arquitetura. Arquitextos 032, Texto Especial 165. São Paulo, Portal Vitruvius, jan. 2003 &lt;www.vitruvius.com.br/arquitextos/arq000/esp165.asp&gt;. Acesso em julho de 2008
-- SEGAWA, Hugo. Arquitetura no Brasil 1900-1999. São Paulo, Edusp, 1998 Sinfonia da Alvorada. Tom Jobim e Vinícius de Moraes, 1960. &lt;http://letras.terra.com.br/vinicius-de- moraes/87259/ acesso: junho/2009.
+- SEGAWA, Hugo. Arquitetura no Brasil 1900-1999. São Paulo, Edusp, 1998 Sinfonia da Alvorada. Tom Jobim e Vinícius de Moraes, 1960. &lt;<a href="http://letras.terra.com.br/vinicius-de-">http://letras.terra.com.br/vinicius-de-</a>&gt; moraes/87259/ acesso: junho/2009.
 - STEVENS, Garry. O círculo privilegiado: fundamentos sociais da distinção arquitetônica. Brasília: EDUnB, 2003.
 - TAFURI, Manfredo. Teoria e história da Arquitectura. Lisboa: Editorial Presença. 1988.
 - WERNECK, Humberto. Juscelino Kubitschek: o tocador de sonhos. São Paulo/Brasília: Fund. Odebretch/Fund. Banco do Brasil, 2002.

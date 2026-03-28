@@ -75,4 +75,4 @@ palavras-chave:
 - VIDOTTO, Marco. Alison + Peter Smithson. Barcelona: Gustavo Gili, 1997.
 - XAVIER, Alberto, LEMOS, Carlos e CORONA, Eduardo. Arquitetura Moderna Paulistana. São Paulo, Pini, 1983.
 - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973. Porto Alegre: Tese de Doutoramento, PROPAR/UFRGS, 2005.
-- Web http://movingcities.org/movingmemos/colonial-modern-book-review (agosto 6, 2013) http://www.google.com.br/search?q=aldo+van+eyck (agosto 6, 2013) http://www.google.com.br/search?q=atelier+5+halen (agosto 6, 2013)
+- Web &lt;<a href="http://movingcities.org/movingmemos/colonial-modern-book-review">http://movingcities.org/movingmemos/colonial-modern-book-review</a>&gt; (agosto 6, 2013) &lt;<a href="http://www.google.com.br/search?q=aldo+van+eyck">http://www.google.com.br/search?q=aldo+van+eyck</a>&gt; (agosto 6, 2013) &lt;<a href="http://www.google.com.br/search?q=atelier+5+halen">http://www.google.com.br/search?q=atelier+5+halen</a>&gt; (agosto 6, 2013)

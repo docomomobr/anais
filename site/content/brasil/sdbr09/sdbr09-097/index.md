@@ -61,14 +61,14 @@ palavras-chave:
 - COSTA, Lucio. Registro de uma vivência. São Paulo: Empresadas Artes, 1995.
 - DARCY. Da idéia ao traço do professor Niemeyer. Brasília: UnB, n.3, nov. 2009.
 - FERRAZ, Marcelo. Lina Bo Bardi. São Paulo: Instituto Lina Bo e P. M. Bardi, 1996.
-- FOLHA DE SÃO PAULO. Do baú de Niemeyer. Disponível em: &lt;http://www1.folha.uol.com.br/fsp/ilustrad/fq2411200907.htm&gt;. Acesso em: 24. jan. 2010.
+- FOLHA DE SÃO PAULO. Do baú de Niemeyer. Disponível em: &lt;<a href="http://www1.folha.uol.com.br/fsp/ilustrad/fq2411200907.htm">http://www1.folha.uol.com.br/fsp/ilustrad/fq2411200907.htm</a>&gt; Acesso em: 24. jan. 2010.
 - MAHFUZ, Edson. O clássico, o poético e o erótico: método, contexto e programa na obra de Oscar Niemeyer. In. GUERRA, Abílio (org.). Textos fundamentais sobre história da arquitetura moderna brasileira. Vol.2. São Paulo: RG, 2010.
 - MÓDULO. Praça Maior da Universidade de Brasília. Rio de Janeiro: Módulo, n.28, jun., 1962.
 - MÓDULO. Praça Maior da Universidade de Brasília. Rio de Janeiro: Módulo, n.32, mar., 1963.
 - PAPADAKI, Stamo. The work of Oscar Niemeyer. Nova York: Reinhold, 1950.
 - PEREIRA, Miguel. Arquitetura: cultura, formação, prática e política profissional. São Paulo: Pini, 2005.
 - RIBEIRO, Darcy. UnB: invenção e descaminho. Rio de janeiro: Avenir, 1978.
-- SCHLEE, Andrey Rosenthal. A praça do maquis. MDC - Revista de Arquitetura e Urbanismo. Disponível em: &lt;http://mdc.arq.br/2009/02/04/a-praca-do-maquis&gt;. Acesso em: 4.fev.2009.
+- SCHLEE, Andrey Rosenthal. A praça do maquis. MDC - Revista de Arquitetura e Urbanismo. Disponível em: &lt;<a href="http://mdc.arq.br/2009/02/04/a-praca-do-maquis">http://mdc.arq.br/2009/02/04/a-praca-do-maquis</a>&gt; Acesso em: 4.fev.2009.
 - SCHLEE, Andrey Rosenthal. O pitoresco nas regras da cidade moderna. Lucio Costa e o plano da cidade universitária de Brasília. Brasília: inédito, 2010.
 - SCHLEE, Andrey Rosenthal. The campus of the University of Brasília. Brasília: inédito, 2011.
 - SCHLEE, Andrey Rosenthal. Um registro necessário. Brasília: Ceplan-UnB, 2006.

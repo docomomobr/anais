@@ -57,10 +57,10 @@ palavras-chave:
 - BENÉVOLO, Leonardo, História da arquitetura moderna. São Paulo: Perspectiva, 1976.
 - COLQUHOUN, Alan. La arquitectura moderna. Una historia desapasionada. Barcelona: Gustavo Gili, 2005.
 - COSTA, Lúcio. Sobre Arquitetura. 2 ed. Porto Alegre: UniRitter Ed., 2007. Ernest Hans Gombrich, 1980. V. Josep Maria Montaner, 2002.
-- FERNANDES, Fernanda. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. Disponível em http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf. Acesso em 22 jun. 2009, 19:33:00.
+- FERNANDES, Fernanda. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. Disponível em &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf</a>&gt; Acesso em 22 jun. 2009, 19:33:00.
 - FOCILLON, Henri. Vida das formas. Rio de Janeiro: Zahar Editores S.A, 1983.
 - GOMBRICH, Ernest Hans. El sentido del orden. Barcelona: Gustavo Gili, 1980.
-- KLINTOWITZ, Jacob. Candido Portinari: retrato do Brasil. Disponível em &lt; http://www.jornaldepoesia.jor.br/ag48portinari.htm&gt;. Acesso em 20 jun. 2009, 17:45:00.
+- KLINTOWITZ, Jacob. Candido Portinari: retrato do Brasil. Disponível em &lt;<a href="http://www.jornaldepoesia.jor.br/ag48portinari.htm">http://www.jornaldepoesia.jor.br/ag48portinari.htm</a>&gt; Acesso em 20 jun. 2009, 17:45:00.
 - MONTANER, Josep Maria. As formas do século XX. São Paulo: Gustavo Gili, 2002.
 - ORTEGA Y GASSET, Jose. A desumanização da arte. São Paulo: Cortez, 2008
 - PEDROSA, Mario. Dos murais de Portinari aos espaços de Brasília.. São Paulo: Perspectiva, 1981.

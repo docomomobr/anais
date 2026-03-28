@@ -58,7 +58,7 @@ palavras-chave:
 - COELHO, Jânerson Figueira. A arquitetura de Edgar do Valle: conexões norte-americanas e prática em Porto Alegre. 2017. 226f. Dissertação (Mestrado em Arquitetura). Uniritter/Mackenzie, Porto Alegre, 2017.
 - COHEN, Jean-Louis. Mies Van der Rohe, Madri: Akal, 1994.
 - COHEN, Jean-Louis. O futuro da arquitetura desde 1889 – Uma história mundial, São Paulo: Cosacnaify, 2013.
-- COLOMBO, Luciana Fornari. O projeto de teatro de Ludwig Mies van der Rohe. Arquitextos, São Paulo, ano 16, n. 185.03, Vitruvius, out. 2015 &lt;http://goo.gl/3pq9JI&gt; Acesso em: 19 jun. 2016, às 13h16min.
+- COLOMBO, Luciana Fornari. O projeto de teatro de Ludwig Mies van der Rohe. Arquitextos, São Paulo, ano 16, n. 185.03, Vitruvius, out. 2015 &lt;<a href="http://goo.gl/3pq9JI">http://goo.gl/3pq9JI</a>&gt; Acesso em: 19 jun. 2016, às 13h16min.
 - COMAS, Carlos Eduardo; MARQUES, Sergio Moacir. A segunda idade do vidro: transparência e sombra na arquitetura moderna do Cone Sul Americano – 1930/1970. Porto Alegre: UniRitter, 2007.
 - FERNÁNDEZ, Roberto. El laboratorio americano. Arquitectura, geocultura y regionalismo. Madrid: Biblioteca Nueva, 1998
 - LIERNUR, Jorge Francisco. Trazas de futuro – episodios de la cultura arquitectónica de la modernidad en América Latina. Santa Fé: Universidad Nacional del Litoral, 2008

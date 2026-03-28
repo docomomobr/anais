@@ -68,7 +68,7 @@ palavras-chave:
 ## Referências
 
 - BAPTISTA. Anna Paola Pacheco. O eterno ao moderno: arte sacra católica no Brasil, anos 1940-50. 2002. 340 f. Tese (Doutorado). PPG História Social, Universidade Federal do Rio de Janeiro, 2002.
-- BOUDON, Philippe. Pessac de Le Corbusier. Paris: Dunod, 1969. Espaços. Santuário Basílica da Piedade – Padroeira de Minas, 2023. Disponível em: https://santuarionossasenhoradapiedade.arquidiocesebh.org.br. Acesso em: 24 mai. 2023.
+- BOUDON, Philippe. Pessac de Le Corbusier. Paris: Dunod, 1969. Espaços. Santuário Basílica da Piedade – Padroeira de Minas, 2023. Disponível em: &lt;<a href="https://santuarionossasenhoradapiedade.arquidiocesebh.org.br">https://santuarionossasenhoradapiedade.arquidiocesebh.org.br</a>&gt; Acesso em: 24 mai. 2023.
 - FROTA, Lelia Coelho. Alcides Rocha Miranda: caminho de um arquiteto. Rio de Janeiro. Editora UFRJ, 1993.
 - JOFFILY, Frei Rosário. [Correspondência]. Destinatário: Alcides Rocha Miranda, 03 de jul. 1985. Arquivo Áquila Rocha Miranda.
 - JOFFILY, Frei Rosário. [Correspondência]. Destinatário: IPHAN, 17 de jun. 1955.
@@ -83,4 +83,4 @@ palavras-chave:
 - PUHL, Liege Sieben. Alcides da Rocha Miranda-Projetos e obras (1934-1997). 2010. 219 f. Dissertação (Mestrado em Arquitetura) – PROPAR, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2010.
 - PIC, Claire. Les dominicains de Toulouse au Brésil (1881-1952): de la mission à l'apostolat intellectuel. 2014. 332 f. Tese (Doutorado) - Université Toulouse-le-Mirail, Toulouse, 2014.
 - TAMBASCO, José Carlos Vargens. A Serra e o Santuário. Nossa Senhora da Piedade de Caeté. Uma herança setecentista das minas de ouro. Belo Horizonte: Terra Editora Gráfica, 2010.
-- Arquidiocese de Belo Horizonte. Santuário Basílica da Piedade – Padroeira de Minas, 2023. Disponível em: https://santuarionossasenhoradapiedade.arquidiocesebh.org.br. Acessado em 24 mai. 2023.
+- Arquidiocese de Belo Horizonte. Santuário Basílica da Piedade – Padroeira de Minas, 2023. Disponível em: &lt;<a href="https://santuarionossasenhoradapiedade.arquidiocesebh.org.br">https://santuarionossasenhoradapiedade.arquidiocesebh.org.br</a>&gt; Acessado em 24 mai. 2023.

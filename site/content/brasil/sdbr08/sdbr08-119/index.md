@@ -53,7 +53,7 @@ palavras-chave:
 - Barthes, Roland. O rumor da língua. São Paulo: Ed. Brasiliense, 1988.
 - Bauman, Zygmunt. Comunidade. Rio de Janeiro, Ed. Jorge Zahar, 2001.
 - Becker, Howard. Uma teoria da ação coletiva. Rio de Janeiro: Zahar, 1977.
-- Becker, Howard. Pergunta aos senhores do mundo. Acesso em 20/07/2007, 22:32 http://www.abtu.org.br/arquivos pergunta_senhores_mundo.asp
+- Becker, Howard. Pergunta aos senhores do mundo. Acesso em 20/07/2007, 22:32 &lt;<a href="http://www.abtu.org.br/arquivos">http://www.abtu.org.br/arquivos</a>&gt; pergunta_senhores_mundo.asp
 - Certeau, Michel de. A invenção do cotidiano. Petrópolis, RJ: Vozes, 1994.
 - Foucault, Michel. O que é um autor? Lisboa: Ed. Vega, 1992.
 - Janot, Luiz Fernando. O Campus da UFRJ. Relatório de pesquisa, 2003.

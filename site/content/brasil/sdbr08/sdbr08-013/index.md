@@ -71,7 +71,7 @@ palavras-chave:
 - KLEIHUES, Josef Paul e LAMPUGNANI; Vittorio Magnano (1984). Modelle für eine Stadt. Schriftenreihe zur Internationalen Bauausstellung Berlin. Die Neubaugebiete. Dokumente. Projekte. Volume 1. Berlim: Siedler Verlag.
 - LAMPUGNANI, Vittorio Magnano (2003). From large housing estates on the outskirts to rebuilding the inner city – urban development debates in Germany 1960-1980. Em:
 - KLEIHUES, Josef Paul; KAHLFELDT, Paul; LEPIK, Andres; SCHÄTZE, Andreas. Josef Paul Kleihues. The art of Urban Architecture. Berlim: Nicolaische Verlagsbuchhandlung.
-- LAMPUGNANI, Vittorio Magnano. Die Stadt der nebeneinander liegenden Unterschiede. Berlin zwischen Rekonstruktion und Neuerfindung. NSL Network City and Landscape: Disp-online. Site de Internet: http://www.nsl.ethz.ch/index.php/en/content/view/full/825/
+- LAMPUGNANI, Vittorio Magnano. Die Stadt der nebeneinander liegenden Unterschiede. Berlin zwischen Rekonstruktion und Neuerfindung. NSL Network City and Landscape: Disp-online. Site de Internet: &lt;<a href="http://www.nsl.ethz.ch/index.php/en/content/view/full/825/">http://www.nsl.ethz.ch/index.php/en/content/view/full/825/</a>&gt;
 - LANE, Barbara Miller (1968). Architecture and Politics in Germany, 1918-1945. Cambridge, Massachussets: Harvard University Press.
 - LEHMAN, Stefen; BECKERATH, Verena von; HEIDE, Tim; NÄHTER, Joachim; SCOTT-BROWN, Denise; VENTURI, Robert; OTTO, Frei; KIESSLER, Uwe; MÜLLER, Cornelia; ALBERS, Bernd; BRENNER, Klaus Theo; HILMER, Heinz; GREGOTTI, Vittorio; HAUS, Andreas; VAN
 - BERKEL, Ben; BODENSCHATZ, Harald; MIRALES, Enric; BRUIJN, Pi de; HADID, Zaha;
@@ -98,5 +98,5 @@ palavras-chave:
 - SUMMERSON, John (1963). Heavenly Mansions and other essays on architecture. New York: Norton. Wiederaufbau Hansaviertel – Sonderveröffentlichung zur Interbau Berlin 57. Volumes 1,2,3, e 4. Darmstadt: Verlag Das Beispiel, 1957.
 - ZOHLEN, Gerwin (2002). Auf der Suche nach der verlorenen Stadt. Berliner Architektur am Ende des 20. Jahrhunderts. Berlim: Nicolaische Verlagsbuchhandlung.
 - REVISTAS E NÚMEROS MONOGRÁFICOS
-- Revista Baumeister, número 4, abril de 1957. Revista Baumeister, número 5, maio de 1957. Revista Baumeister, número 8, agosto de 1957. Revista Bauwelt, caderno 12/1955. Revista L'Architecture d'Aujourd'hui 75, dezembro de 1957 http://www.berliner-hansaviertel.de www.stadtentwicklungberlin.de www.diestadtvonmorgen.de www.tu-cottbus.de www.galinsky.com www.germany.info www.users.rwth-aachen.de www.pohl-projekt.de
+- Revista Baumeister, número 4, abril de 1957. Revista Baumeister, número 5, maio de 1957. Revista Baumeister, número 8, agosto de 1957. Revista Bauwelt, caderno 12/1955. Revista L'Architecture d'Aujourd'hui 75, dezembro de 1957 &lt;<a href="http://www.berliner-hansaviertel.de">http://www.berliner-hansaviertel.de</a>&gt; www.stadtentwicklungberlin.de www.diestadtvonmorgen.de www.tu-cottbus.de www.galinsky.com www.germany.info www.users.rwth-aachen.de www.pohl-projekt.de
 - IBA Archiv (Arquivo da IBA em Berlim) Kreuzberg Museum für Stadtentwiclung und Sozialgeschichte Adalbertstraße 95A - 10999 Berlin

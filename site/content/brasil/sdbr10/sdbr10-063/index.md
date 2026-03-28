@@ -56,20 +56,20 @@ palavras-chave:
 
 ## Referências
 
-- BANHAM, Reyner. 1955 December: The New Brutalism by Reyner Banham. Londres: The Architectural Review. Disponível em: http://www.architectural-review.com. Acesso em maio de 2013.
+- BANHAM, Reyner. 1955 December: The New Brutalism by Reyner Banham. Londres: The Architectural Review. Disponível em: &lt;<a href="http://www.architectural-review.com">http://www.architectural-review.com</a>&gt; Acesso em maio de 2013.
 - BASTOS, M. A. J. ; ZEIN, R. V. Brasil: Arquiteturas após 1950. 1. ed. São Paulo: Editora Perspectiva, 2010. v. 01. 429p
 - BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetura brasileira. 1ª. ed. São Paulo: Editora Perspectiva, 2003. v. 1. 277p
 - DOURADO, Luiz. Entrevista concedida à Ana Carolina Bierrenbach e Juliana Nery em 25/07/2013.
 - FONTES, Antonio. Breve histórico dos campi da UFBA. Salvador: Dissertação de Mestrado apresentada ao PPGAU/UFBA, 2010.
-- FUÃO, F. Fernando. Brutalismo: a última trincheira do movimento moderno. São Paulo: Arquitextos 007.09, 2000. Disponível em: http://www.vitruvius.com.br Acesso em maio de 2013.
+- FUÃO, F. Fernando. Brutalismo: a última trincheira do movimento moderno. São Paulo: Arquitextos 007.09, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em maio de 2013.
 - JENCKS, Charles. Movimentos Modernos em Arquitetura. Lisboa: Edições 70, 1985.
 - LINS, Eugênio de Ávila Lins (Coord.) Guia de Arquitetura e Paisagem de Salvador e Baía de Todos os Santos. Sevilha: Consejería de Obras Publicas y Vivienda, Dirección General de Rehabilitación y Arquitectura, 2012.
-- PREMESU. Relatório de Atividades do Período 1974/1978. Brasília: MEC/DAU/ Coordenadoria de Desenvolvimento das Instalações do Ensino Superior, 1979. Disponível em: http://dominiopublico.mec.gov.br/download/texto/me001757.pdf. Acesso em agosto de 2013.
+- PREMESU. Relatório de Atividades do Período 1974/1978. Brasília: MEC/DAU/ Coordenadoria de Desenvolvimento das Instalações do Ensino Superior, 1979. Disponível em: &lt;<a href="http://dominiopublico.mec.gov.br/download/texto/me001757.pdf">http://dominiopublico.mec.gov.br/download/texto/me001757.pdf</a>&gt; Acesso em agosto de 2013.
 - RODRIGUES, Luiz Augusto. A modernidade (im)possível. A modernidade (im)possível. In: IV Seminário História da Cidade e do Urbanismo, 1997, Rio de Janeiro. Anais do IV Seminário História da cidade e do urbanismo. Rio de Janeiro: UFRJ/PROURB, 1996. v. 2. p. 180-196.
 - SANVITTO, M. L. A. As Questões Compositivas e o Ideário do Brutalismo Paulista. Porto Alegre:
-- ARQTEXTO (UFRGS), v. 1, p. 98-107, 2002. Disponível em: http://www.ufrgs.br Acesso em maio de 2013.
-- SPADONI, Francisco. Dependência e Resistência, transição na arquitetura brasileira nos anos de 1970-1980. São Paulo: Arquitextos 120.00, nov. 2008. Disponível em: http://www.vitruvius.com.br Acesso em maio de 2013.
+- ARQTEXTO (UFRGS), v. 1, p. 98-107, 2002. Disponível em: &lt;<a href="http://www.ufrgs.br">http://www.ufrgs.br</a>&gt; Acesso em maio de 2013.
+- SPADONI, Francisco. Dependência e Resistência, transição na arquitetura brasileira nos anos de 1970-1980. São Paulo: Arquitextos 120.00, nov. 2008. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em maio de 2013.
 - VASCONCELOS, Isamara Martins. A Federalização do ensino superior no Brasil. Brasília: dissertação de mestrado em Sociologia UNB, 2007.
-- ZEIN, R. V. “Brutalismo, Escola Paulista: entre o ser e o não ser”. Porto Alegre: ARQTEXTO (UFRGS), v.1, 6-31, 2002. Disponível em: http://www.vitruvius.com.br. Acesso em maio de 2013.
-- ZEIN, R. V. Breve introdução à Arquitetura da Escola Paulista Brutalista. São Paulo: Arquitextos 069.01, 2006. Disponível em: http://www.vitruvius.com.br. Acesso em maio de 2013.
-- ZEIN, R. V. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Arquitextos 084.00, 2007. Disponível em: http://www.vitruvius.com.br. Acesso em maio de 2013.
+- ZEIN, R. V. “Brutalismo, Escola Paulista: entre o ser e o não ser”. Porto Alegre: ARQTEXTO (UFRGS), v.1, 6-31, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em maio de 2013.
+- ZEIN, R. V. Breve introdução à Arquitetura da Escola Paulista Brutalista. São Paulo: Arquitextos 069.01, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em maio de 2013.
+- ZEIN, R. V. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Arquitextos 084.00, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em maio de 2013.

@@ -63,7 +63,7 @@ palavras-chave:
 ## Referências
 
 - APARICIO, JESÚS MARIA. El muro, concepto esencial en el proyecto arquitetónico: la materialización de la idea y la idealización de la materia. Madrid, Cp67, 2000.
-- BAHIMA, CARLOS FERNANDO SILVA. De placa e grelha: transformações dominoicas em terra brasileira. Orientador Carlos Eduardo Dias Comas. Tese de Doutorado. Porto Alegre, PROPAR/UFRGS, 2015. brasilarquitetura.com. Disponível em: &lt;http://brasilarquitetura.com/#&gt;. Acesso em: 09 jun. 2019.
+- BAHIMA, CARLOS FERNANDO SILVA. De placa e grelha: transformações dominoicas em terra brasileira. Orientador Carlos Eduardo Dias Comas. Tese de Doutorado. Porto Alegre, PROPAR/UFRGS, 2015. brasilarquitetura.com. Disponível em: &lt;<a href="http://brasilarquitetura.com/#">http://brasilarquitetura.com/#</a>&gt; Acesso em: 09 jun. 2019.
 - CAVALCANTI, LAURO. Quando o Brasil era Moderno: Guia de Arquitetura 1928 – 1960. Rio de Janeiro, Aeroplano, 2001. Cidadela da Liberdade: Lina Bo Bardi e o SESC Pompeia, André Vainer e Marcelo Ferraz (orgs.). São Paulo: Edições Sesc São Paulo, 2016.
 - COMAS, CARLOS EDUARDO DIAS. Arquitetura moderna estilo Corbu, Pavilhão brasileiro. In: AU, São Paulo, nº 26, 1989.
 - COMAS, CARLOS EDUARDO DIAS. O encanto da contradição Conjunto da Pampulha, de Oscar Niemeyer. In: ARQTEXTOS, São Paulo, 004.06 ano 01, set., 2000.

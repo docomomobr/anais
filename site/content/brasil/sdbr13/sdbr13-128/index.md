@@ -46,7 +46,7 @@ authors:
     familyname: "Bezerra"
     orcid: "0000-0001-6553-460X"
 doi: "10.5281/zenodo.19077719"
-zenodo_pdf_url: "https://zenodo.org/records/19077720/files/sdbr13-128.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285651/files/sdbr13-128.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -63,7 +63,7 @@ palavras-chave:
 ## Referências
 
 - ALMEIDA, M. F. de. Revista Acrópole publica residências modernas: análise da revista Acrópole e sua publicação de residências unifamiliares modernas entre os anos de 1952 a 1971. Dissertação (Mestrado em Arquitetura e Urbanismo) – Departamento de Arquitetura e Urbanismo, Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos (SP), 2008.
-- ARANGO, Alfonso et al. Publicidad en la revista Proa durante los años cincuenta. Estudio gráfico e inventariado. DEARQ 17. Diciembre de 2015. Bogotá, pp. 86-103. Disponível em: &lt;http://dearq.uniandes.edu.co&gt; Acesso em: 10 jun. 2019
+- ARANGO, Alfonso et al. Publicidad en la revista Proa durante los años cincuenta. Estudio gráfico e inventariado. DEARQ 17. Diciembre de 2015. Bogotá, pp. 86-103. Disponível em: &lt;<a href="http://dearq.uniandes.edu.co">http://dearq.uniandes.edu.co</a>&gt; Acesso em: 10 jun. 2019
 - BEDOLINI, Alessandra Castelo Branco. Banco Hipotecário Lar Brasileiro: análise das realizações no Estado de São Paulo 1941-1965. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2014.
 - CARDINAL, Silvia Arango. Ciudad y arquitectura: Seis generaciones que construyeron la América Latina moderna. México: Fondo de Cultura Económica/Consejo Nacional para la Cultura y las Artes, 2012.
 - DEAMBROSIS, Federico. ¿Qué hacer con los yanquis? Distintas recepciones de las experiencias y de los modelos estadounidenses en el medio arquitectónico argentino. Los casos de Nuestra Arquitectura y de Nv nueva visión: 1951-1957. In: ACTAS Preliminares de Pamplona. La arquitectura norteamericana, motor y espejo de la arquitectura española en el arranque de la modernidad (1940-1965).

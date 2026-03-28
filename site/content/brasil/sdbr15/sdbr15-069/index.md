@@ -81,7 +81,7 @@ palavras-chave:
 - ROSSETTO, Rossella; SANTANA, Danielle C. D. Movimentos sociais e a preservação do patrimônio cultural na cidade de São Paulo: o movimento Belas Artes e a criação da ZEPEC- APC (Áreas de proteção cultural). In: Arqui Memória, V, 2017, Salvador. (Anais) Salvador: UFBA, 2017.
 - RUSKIN, John. A Lâmpada da memória. Tradução: Maria L. B. Pinheiro. 2 ed. Cotia-SP: Ateliê Editorial, 2008.
 - SÃO PAULO (Município). Lei nº. 16.050, de 31 de julho de 2014 - Aprova a Política de Desenvolvimento Urbano e o Plano Diretor Estratégico do Município de São Paulo e revoga a Lei nº 13.430/2002.
-- SMITH, Laurajane. Desafiando o Discurso Autorizado de Patrimônio. CVTempoespaço. v. 21, n. 2, p.140, 2021. Disponível em: http://www.ivt.coppe.ufrj.br/caderno/index.php/caderno/article/view/1957 Acesso em: 10 ago. 2021.
+- SMITH, Laurajane. Desafiando o Discurso Autorizado de Patrimônio. CVTempoespaço. v. 21, n. 2, p.140, 2021. Disponível em: &lt;<a href="http://www.ivt.coppe.ufrj.br/caderno/index.php/caderno/article/view/1957">http://www.ivt.coppe.ufrj.br/caderno/index.php/caderno/article/view/1957</a>&gt; Acesso em: 10 ago. 2021.
 - UNESCO - Organização das Nações Unidas para a Educação, a Ciência e a Cultura. Recomendação Paris Paisagens e Sítios. Paris: 1962.
 - UNESCO - Organização das Nações Unidas para a Educação, a Ciência e a Cultura. Recomendação Paris de Obras Públicas ou Privadas. Paris: 1968.
 - UNESCO - Organização das Nações Unidas para a Educação, a Ciência e a Cultura. Recomendação Paris - Proteção do Patrimônio Mundial, Cultural e Natural. Paris: 1972.

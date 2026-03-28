@@ -57,21 +57,21 @@ palavras-chave:
 ## Referências
 
 - AMARAL, Izabel. Um olhar sobre a obra de Acácio Gil Borsoi. Natal, 2004. Dissertação de Mestrado apresentada ao Programa de Pós graduação em Arquitetura e Urbanismo da UFRN.
-- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Vitruvius, 2001. Disponível em &lt; http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp &gt;. Acessado em 16 de junho de 2009.
+- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Vitruvius, 2001. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp">http://www.vitruvius.com.br/arquitextos/arq012/arq012_03.asp</a>&gt; &gt;. Acessado em 16 de junho de 2009.
 - BARROS, Souza. A década de 20 em Pernambuco. Rio de Janeiro: Gráfica Editora Acadêmica Ltda., 1972. 318 p.
 - BAUMAN, Zygmunt. O mal estar da pós-modernidade. Rio de Janeiro: Jorge Zahar Editor, 1998.
 - CABRAL, Renata Campello. Mario Russo. Recife: Editora da UFPE, 2006.
 - CLARK, Lígia. Uma experiência de integração. Brasil-Arquitetura Contemporânea, n.8, Rio de Janeiro, 1956.
-- COMAS, Carlos Eduardo. Lucio Costa e a revolução na arquitetura brasileira 30/39 De lenda(s e) Le Corbusier. Vitruvius, 2002. Disponível em &lt; http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp &gt;. Acessado em 16 de junho de 2009.
+- COMAS, Carlos Eduardo. Lucio Costa e a revolução na arquitetura brasileira 30/39 De lenda(s e) Le Corbusier. Vitruvius, 2002. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp">http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp</a>&gt; &gt;. Acessado em 16 de junho de 2009.
 - FERNANDES, Fernanda. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. In Anais do 6º Seminário Docomomo Brasil, Niterói, 16 a 19 de novembro de 2005.
 - GABRIEL, Marcos Faccioli. A Síntese das Artes na Cidade Nova – Meyer Schapiro. Novos Estudos CEBRAP, nº 70, São Paulo, novembro de 2004, pp. 155 -175.
 - GORESTEIN, Saulo, LUBAMBO, Vinícius. Ensaio Poético e Fotográfico: Esculturas em Edifícios do Recife. Recife: Flamar Editora, 1998.
 - HOLANDA, A. Roteiro para construir no Nordeste: arquitetura como lugar ameno nos trópicos ensolarados. Recife, MDU / UFPE, 1976.
-- Lei 7.427 de 19 de outubro de 1961. Disponível em &lt;http://www.legiscidade.com.br/lei/07427/&gt; Acessado em 13 de maio de 2009.
-- Lei nº 14.239 de 17 de dezembro de 1980. Disponível em &lt;http://www.legiscidade.com.br/lei/14239/&gt; Acessado em 13 de maio de 2009.
-- Lei Nº 15.592 de 10 de Janeiro de 1992. Disponível em &lt;http://www.legiscidade.com.br/lei/15592/&gt;. Acessado em 13 de maio de 2009.
+- Lei 7.427 de 19 de outubro de 1961. Disponível em &lt;<a href="http://www.legiscidade.com.br/lei/07427/">http://www.legiscidade.com.br/lei/07427/</a>&gt; Acessado em 13 de maio de 2009.
+- Lei nº 14.239 de 17 de dezembro de 1980. Disponível em &lt;<a href="http://www.legiscidade.com.br/lei/14239/">http://www.legiscidade.com.br/lei/14239/</a>&gt; Acessado em 13 de maio de 2009.
+- Lei Nº 15.592 de 10 de Janeiro de 1992. Disponível em &lt;<a href="http://www.legiscidade.com.br/lei/15592/">http://www.legiscidade.com.br/lei/15592/</a>&gt; Acessado em 13 de maio de 2009.
 - MARQUES, Sonia; NASLAVSKY, Guilah. Eu vi o modernismo nascer... e ele começou no Recife. In: MOREIRA, Fernando Diniz (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. P. 81 a 105.
 - Mário Pedrosa Dentro e Fora da Bienal. In: Dos Murais de Portinari aos Espaços de Brasília. São Paulo: Editora Perspectiva, 1981.
 - REZENDE, Antônio Paulo Moraes. (Des) encantos modernos: Histórias da Cidade do Recife na Década de Vinte. Tese de doutorado defendida na Faculdade de Filosofia, Letras e de Ciências Humanas da Universidade de São Paulo. São Paulo, 1992.
 - SILVA, Ana Elizabete Marques da; MONTENEGRO, Antonio Carlos Duarte. RESTAURAÇÃO DO MURAL CERÂMICO BATALHA DOS GUARARAPES LOCALIZADO NO CENTRO HISTÓRICO DA CIDADE DO RECIFE. In: ARC • Revista Brasileira de Arqueometria Restauração Conservação, Edição Especial, Nº 1, MARÇO 2006, AERPA Editora.
-- VAINSENCHER, Semira Adler. AEROPORTO INTERNACIONAL DOS GUARARAPES/GILBERTO FREYRE. Recife: 2004. Disponível em: http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?pu blicationCode=16&pageCode=285&textCode=2270&date=currentDate
+- VAINSENCHER, Semira Adler. AEROPORTO INTERNACIONAL DOS GUARARAPES/GILBERTO FREYRE. Recife: 2004. Disponível em: &lt;<a href="http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?pu">http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?pu</a>&gt; blicationCode=16&pageCode=285&textCode=2270&date=currentDate

@@ -56,7 +56,7 @@ authors:
     familyname: "Silveira"
     orcid: "0000-0002-9723-7746"
 doi: "10.5281/zenodo.19069736"
-zenodo_pdf_url: "https://zenodo.org/records/19069737/files/sdbr15-053.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285714/files/sdbr15-053.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -71,7 +71,7 @@ palavras-chave:
 
 ## Referências
 
-- ALONSO, Daniel Villalobos; BARREIRO, Sara Pérez; SALA, Javier Rey de. Arquitectura de cine. Relaciones entre Espacio Fílmico y Espacio Arquitectónico: cine, mitos y literatura. In: Arquitectura de cine: fotogramas 010. [s.l.]: Grupo de Investigación Reconocido de Arquitectura y Cine, 2016, p. 13–36. Disponível em: &lt;https://dialnet.unirioja.es/servlet/articulo?codigo=6366745&gt;. Acesso em: 22 abr. 2022.
+- ALONSO, Daniel Villalobos; BARREIRO, Sara Pérez; SALA, Javier Rey de. Arquitectura de cine. Relaciones entre Espacio Fílmico y Espacio Arquitectónico: cine, mitos y literatura. In: Arquitectura de cine: fotogramas 010. [s.l.]: Grupo de Investigación Reconocido de Arquitectura y Cine, 2016, p. 13–36. Disponível em: &lt;<a href="https://dialnet.unirioja.es/servlet/articulo?codigo=6366745">https://dialnet.unirioja.es/servlet/articulo?codigo=6366745</a>&gt; Acesso em: 22 abr. 2022.
 - CALDAS, Pedro Henrique; SANTOS, Yolanda Lhullier dos. Guarany - o grande teatro de Pelotas. Pelotas: Semeador, 1994.
 - CARVALHAES, A. C. Curso Básico de História do Cinema. Porto Alegre: Assembleia Legislativa do Estado: Clube de Cinema de Porto Alegre, 1975.
 - CERQUEIRA, Fábio Vergara. Atenas do Sul: Recepção e (Re)Significação do Legado Clássico na Iconografia Urbana de Pelotas (1860-1930). In: Almanaque do Bicentenário de Pelotas. v.2: Arte e Cultura. Santa Maria: Gráfica e Editora Pallotti, 2014.
@@ -81,7 +81,7 @@ palavras-chave:
 - GOMES, Paulo Emílio Sales. Cinema, Trajetória no Subdesenvolvimento. São Paulo: Paz e Terra, 1979.
 - GÓMEZ, Andrés Ávila. Las salas de cine diseñadas por las figuras de las vanguardias europeas : aproximación a los orígenes de una tipología arquitectónica moderna. Revista de Arquitectura (Bogotá), v. 15, n. 1, p. 84– 101, 2013.
 - GONSALES, Célia Helena Castro; BRAGA, Natália Toralles dos Santos; SILVEIRA, Aline Montagna da. As diferentes temporalidades do Cine Capitólio. Pelotas/RS. Historiæ, v. 13, n. 2, p. 31–46, 2022.
-- MARTINS, Roberto Duarte. A ocupaçao do espaço na fronteira Brasil-Uruguay: A construção da cidade de Jaguarão. [s.l.]: Universitat Politècnica de Catalunya, 2002. Disponível em: &lt;https://upcommons.upc.edu/handle/2117/93390&gt;. Acesso em: 25 maio 2022.
+- MARTINS, Roberto Duarte. A ocupaçao do espaço na fronteira Brasil-Uruguay: A construção da cidade de Jaguarão. [s.l.]: Universitat Politècnica de Catalunya, 2002. Disponível em: &lt;<a href="https://upcommons.upc.edu/handle/2117/93390">https://upcommons.upc.edu/handle/2117/93390</a>&gt; Acesso em: 25 maio 2022.
 - MICHELON, Francisca. A cidade como cenário do moderno: representações do progresso nas ruas de Pelotas (1913-1930). Biblos, v. 16, p. 125–143, 2004.
 - MOURA, Rosa Maria Garcia Rolim; SCHLEE, Andrey Rosenthal. 100 Imagens da Arquitetura Pelotense. Pelotas: PalIotti, 1998.
 - MUNARIM, Ulisses. Arquitetura dos cinemas: um estudo da modernidade em Santa Catarina. Dissertação (Mestrado), Universidade Federal de Santa Catarina, UFSC/PGAU-CIDADE, Florianópolis, 2009.
@@ -92,8 +92,8 @@ palavras-chave:
 - SCHLEE, Andrey Rosenthal. O Ecletismo na Arquitetura Pelotense até as Décadas de 30 e 40. Dissertação (Mestrado), Universidade Federal do Rio Grande do Sul. Departamento de Arquitetura. Programa de Pesquisa e Pós- Graduação em Arquitetura, 1993.
 - SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Editora da Universidade de São Paulo, 2018.
 - SHOCKLEY, Jay. Regent Theater (now First Corinthian Baptist Church). Landmarks Preservation Commission. Designation List 257. LP-1841. Historic Preservation Grants from LPC, 1994.
-- SILVEIRA NETO, Olavo Amaro da. Cinemas de rua em Porto Alegre: do Recreio Ideal (1908) ao Açores (1974). 2001. Disponível em: &lt;https://lume.ufrgs.br/handle/10183/1830&gt;. Acesso em: 25 maio 2022.
-- SOARES, Paulo Roberto Rodrigues. Modernidade Urbana e Dominação da Natureza: o Saneamento de Pelotas nas Primeiras Décadas do Século XX. História em Revista, v. 7, n. 7, 2001. Disponível em: &lt;https://periodicos.ufpel.edu.br/ojs2/index.php/HistRev/article/view/11889&gt;. Acesso em: 25 maio 2022.
+- SILVEIRA NETO, Olavo Amaro da. Cinemas de rua em Porto Alegre: do Recreio Ideal (1908) ao Açores (1974). 2001. Disponível em: &lt;<a href="https://lume.ufrgs.br/handle/10183/1830">https://lume.ufrgs.br/handle/10183/1830</a>&gt; Acesso em: 25 maio 2022.
+- SOARES, Paulo Roberto Rodrigues. Modernidade Urbana e Dominação da Natureza: o Saneamento de Pelotas nas Primeiras Décadas do Século XX. História em Revista, v. 7, n. 7, 2001. Disponível em: &lt;<a href="https://periodicos.ufpel.edu.br/ojs2/index.php/HistRev/article/view/11889">https://periodicos.ufpel.edu.br/ojs2/index.php/HistRev/article/view/11889</a>&gt; Acesso em: 25 maio 2022.
 - SOUZA, Carlos Roberto de. Os Pioneiros do Cinema Brasileiro: Raízes do cinema brasileiro. Alceu, v. 8, n. 15, p. 20–37, 2007.
 - WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.
 - ZANELLA, Cristiano. The end: cinemas de calçada em Porto Alegre (1990-2005). Porto Alegre: Ideias a Granel, 2006.

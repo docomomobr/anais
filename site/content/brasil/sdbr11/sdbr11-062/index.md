@@ -67,4 +67,4 @@ palavras-chave:
 - NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim. Tese de Doutorado. São Paulo: Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2004.
 - PALLASMAA, Juhani. Os olhos da pele: a arquitetura e os sentidos. Porto Alegre: Bookman, 2011.
 - ROSEMBERG, André (coord.). Pernambuco 5 décadas de arte. Recife: Quadro Publicidade e Design Ltda. 2003.
-- ZABALBEASCOA, Anatxu. La arquitectura de hoy no es para la gente. Entrevista: Juhani Pallasmaa. Disponível em: http://elpais.com/diario/2006/08/12/babelia/1155337575_850215.html. Acesso em: 27 fev. 2016.
+- ZABALBEASCOA, Anatxu. La arquitectura de hoy no es para la gente. Entrevista: Juhani Pallasmaa. Disponível em: &lt;<a href="http://elpais.com/diario/2006/08/12/babelia/1155337575_850215.html">http://elpais.com/diario/2006/08/12/babelia/1155337575_850215.html</a>&gt; Acesso em: 27 fev. 2016.

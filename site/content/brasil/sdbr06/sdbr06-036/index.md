@@ -58,7 +58,7 @@ palavras-chave:
 - CURY, Maria Zilda Ferreira. Acervos: Gênese de uma nova Crítica. In: MIRANDA, Wander Melo (Org.). A Trama do Arquivo. Belo Horizonte: Editora UFMG; Centros de Estudos Literários da Faculdades de Letras da UFMG, 1995.
 - FONSECA, M.C.L. (1997). O Patrimônio em Processo: a trajetória da política federal de preservação no Brasil. Rio de Janeiro; UFRJ: IPHAN.
 - FRANCO, L. F. (2004). O Estado como obra de arte?. In NOBRE, A. L.; KAMITA, J. M.; CONDURU, R. (OR) (2004). Lucio Costa: Um modo de ser moderno. Rio de Janeiro. p.190-213
-- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano. São Paulo: Vitruvius, 2001. Disponível em: &lt; http://www.vitruvius.com.br/arquitextos/arq000/esp044.asp &gt;. Acesso em 25 mai. 2005. 18:10:25.
+- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp044.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp044.asp</a>&gt; &gt;. Acesso em 25 mai. 2005. 18:10:25.
 - Jornal ACR edita- Suzy de Mello. A pesquisa n a escola – um depoimento
 - MARTINS, C. A. F. (1987). Arquitetura no Brasil: Elementos para uma investigação sobre a constituição do discurso moderno no Brasil; A obra de Lucio Costa 1924/1952. 1987. Dissertação (mestrado), Universidade de São Paulo, São Paulo.
 - MINC, SPHAN, Fundação Nacional Pró-Memória (1986). Rodrigo e seus tempos. Rio de Janeiro; Fundação Nacional Pró-Memória.

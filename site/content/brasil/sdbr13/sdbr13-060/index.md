@@ -69,7 +69,7 @@ palavras-chave:
 - INGOLD, Tim. The apropriation of nture: essas on juman ecology and social relations. Manchester: Manchester University Press, 1986
 - IZAR, Gabriela. Espacialidade e Constituição do Sujeito: estudo de três catedrais. Dissertação de Mestrado, Universidade de Brasília, 2003.
 - MACEDO, Danilo Matoso. Da matéria à invenção. As obras de Oscar Niemeyer em Minas Gerais, 1938-1955. Brasília: Câmara dos Deputados, 2008.
-- MAGALHÃES, Carlos. Entrevista ao Correio Braziliense. Disponível em: https://www.correiobraziliense.com.br/app/noticia/cidades/2009/12/23/interna_cidadesdf,162570/arquit eto-relembra-a-saga-da-construcao-da-catedral.shtml Acesso em 03/06/2019.
+- MAGALHÃES, Carlos. Entrevista ao Correio Braziliense. Disponível em: &lt;<a href="https://www.correiobraziliense.com.br/app/noticia/cidades/2009/12/23/interna_cidadesdf,162570/arquit">https://www.correiobraziliense.com.br/app/noticia/cidades/2009/12/23/interna_cidadesdf,162570/arquit</a>&gt; eto-relembra-a-saga-da-construcao-da-catedral.shtml Acesso em 03/06/2019.
 - MÜLLER, F. O templo cristão na modernidade: permanências simbólicas & conquistas figurativas. Dissertação de Mestrado (Mestrado em Arquitetura) – Universidade Federal do Rio Grande do Sul: Porto Alegre, 2006. McGINN, W. “What is technology”. In Research in Philosophy and Technology n.1, 179-97, 1978
 - NIEMEYER, Oscar. A forma na arquitetura. Rio de Janeiro: Avenir, 1978
 - NIEMEYER, Oscar. Problemas de Arquitetura. Método de trabalho. In: Módulo n. 58, 1980, pp. 86-89

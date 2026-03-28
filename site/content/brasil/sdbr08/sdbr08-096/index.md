@@ -62,7 +62,7 @@ palavras-chave:
 - Cairo, Egito : Faculty of Fine Arts/Helwan University, 2008. v. CD-ROM.
 - COMAS, Carlos Eduardo. Um Museu em Porto Alegre. In: Aplauso: cultura em revista. Ano 10, n. 92, 2008. p. 30.
 - DE CERTEAU, Michel. A Invenção do Cotidiano. Artes de Fazer. (Título original: L’Invention du Quotidien - 1. Arts de Faire. Paris: Gallimard, 1990). Tradução: Ephraim Ferreira Alves. Nova edição, estabelecida e apresentada por Luce Giard. Petrópolis, RJ: Vozes, 1994
-- FAINSTEIN, Susan & JUDD, Dennis (eds.). The Tourist City. New Haven / London: Yale University Press, 1999. FIC. A Fundação. Porto Alegre: FIC, s.d. Disponível em: &lt; http://www.iberecamargo.org.br/content/fundacao/default.asp &gt; Acesso em 20 mai. 2009, 03:42:27.
+- FAINSTEIN, Susan & JUDD, Dennis (eds.). The Tourist City. New Haven / London: Yale University Press, 1999. FIC. A Fundação. Porto Alegre: FIC, s.d. Disponível em: &lt;<a href="http://www.iberecamargo.org.br/content/fundacao/default.asp">http://www.iberecamargo.org.br/content/fundacao/default.asp</a>&gt; &gt; Acesso em 20 mai. 2009, 03:42:27.
 - FIGUEIRA, Jorge. Álvaro Siza. Modern Redux. São Paulo: Editora Cosac Naify, 2008.
 - FISCHMANN, Daniel Pitta. O Projeto de Museus no Movimento Moderno: Principais Estratégias nas Décadas 1930-60. Dissertação de Mestrado, PROPAR/UFRGS. Porto Alegre: 2003
 - FLORIDA, Richard. The Rise of the Creative Class: And How It’s Transforming Work, Leisure, Community and Everyday Life. Cambridge (USA): Basic Books. 2004.

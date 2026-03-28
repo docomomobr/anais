@@ -67,10 +67,10 @@ palavras-chave:
 - BACHELARD. Gaston. A poética do espaço. 2ª edição. São Paulo: Martins Fontes, 2008.
 - BAPTISTA, A. V. S. Inventário Arquitetônico - Importância e desdobramentos na FIOCRUZ. In: IV Congresso Internacional na 'Recuperação, Manutenção e Restauração de Edifícios', 2015, Rio de Janeiro. Anais do IV Congresso Internacional na, 2015.
 - BRASIL. Ministério da Educação e Cultura. Documentos nº 3: Cartas Patrimoniais. Brasília, DF: MEC/IPHAN, 1995.
-- BRASIL. Lei Federal Nº 9.605, de 12 de fevereiro de 1998. Disponível em:&lt; https://www.planalto.gov.br/ccivil_03/leis/l9605.htm&gt;. Acesso em: 24 abr. 2023.
+- BRASIL. Lei Federal Nº 9.605, de 12 de fevereiro de 1998. Disponível em: &lt;<a href="https://www.planalto.gov.br/ccivil_03/leis/l9605.htm">https://www.planalto.gov.br/ccivil_03/leis/l9605.htm</a>&gt; Acesso em: 24 abr. 2023.
 - CHOAY, Françoise. A alegoria do patrimônio. Tradução de Luciano Vieira Machado. 3ª edição. São Paulo: Estação Liberdade - UNESP, 2006.
 - HARDT, J. G.; OLIVEIRA, T. D. O Inventário Arquitetônico como Ferramenta de Preservação Patrimonial. XXVII Jornada de Pesquisa, Salão do Conhecimento UNIJUÍ. Universidade Regional do Noroeste do Estado do Rio Grande do Sul, Rio Grande do Sul, 2022.
-- INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL – IPHAN. Patrimônio cultural. Disponível em: http://portal.iphan.gov.br. Acesso em: 09 maio 2023.
+- INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL – IPHAN. Patrimônio cultural. Disponível em: &lt;<a href="http://portal.iphan.gov.br">http://portal.iphan.gov.br</a>&gt; Acesso em: 09 maio 2023.
 - JACQUES, Paola B. Elogio aos errantes. Salvador: EDUFBA, 2014.
 - LE CORBUSIER. Carta de Atenas. Tradução de Rebeca Scherer. São Paulo: HUCITEC/edusp, s/d.
 - LIMA, Evelyn Furquim Werneck; MALEQUE, Miria Roseira (Org.). Espaço e Cidade: conceitos e leituras. Rio de Janeiro, 7Letras, 2004.
@@ -78,7 +78,7 @@ palavras-chave:
 - NORA, Pierre. Entre memória e história: a problemática dos lugares. Projeto História. São Paulo: PUC-SP, 1993.
 - OLIVEIRA, T. D., MUSSI, A. Q., ENGERROF, F. Z. A Preservação do Patrimônio Arquitetônico e suas Relações com o Planejamento e Desenvolvimento Urbano. Revista Missioneira, Santo Ângelo, v. 22, n. 1, p. 23-34, 2020.
 - PASSOS, Eduardo; KASTRUP, Virgínia; ESCOSSIA, Liliana da (Org). Pistas do método da cartografia: pesquisa- intervenção e produção de subjetividade. Porto Alegre, Sulina, 2015.
-- RODRIGUES, Beatriz. Caminhar, coletar, públicas. Rio Grande do Norte, 2020. Disponível em:&lt; https://projetoinventario.com/oficina-caminhar-coletar-publicar/&gt;. Acesso em: 17 mai. 2023.
+- RODRIGUES, Beatriz. Caminhar, coletar, públicas. Rio Grande do Norte, 2020. Disponível em: &lt;<a href="https://projetoinventario.com/oficina-caminhar-coletar-publicar/">https://projetoinventario.com/oficina-caminhar-coletar-publicar/</a>&gt; Acesso em: 17 mai. 2023.
 - SILVA, Ricardo L. Elogios à inutilidade: a incorporação do Trapeiro como possibilidade de apropriação e leitura da Cidade e sua alteridade urbana.2017. Tese (Doutorado) – Programa de Pós-graduação da Faculdade de Arquitetura da Universidade Presbiteriana Mackenzie, São Paulo, 2017.
-- SILVA, Ricardo L. Caminhar / Inventariar #01 - Convite aos Muros. Banca Tatuí. São Paulo, 2019. Disponível em:&lt; https://www.bancatatui.com.br/produtos/caminhar-inventariar-01-convite-aos-muros/&gt;. Acesso em: 17 mai. 2023.
-- TRANSLAURB. Jane’s Walk Porto Alegre. Porto Alegre, 2023. Disponível em:&lt; https://translaburb.cc/6-Caminhadas- da-Jane-Jacobs-Porto-Alegre&gt;. Disponível em: 17 mai. 2023.
+- SILVA, Ricardo L. Caminhar / Inventariar #01 - Convite aos Muros. Banca Tatuí. São Paulo, 2019. Disponível em: &lt;<a href="https://www.bancatatui.com.br/produtos/caminhar-inventariar-01-convite-aos-muros/">https://www.bancatatui.com.br/produtos/caminhar-inventariar-01-convite-aos-muros/</a>&gt; Acesso em: 17 mai. 2023.
+- TRANSLAURB. Jane’s Walk Porto Alegre. Porto Alegre, 2023. Disponível em: &lt;<a href="https://translaburb.cc/6-Caminhadas-">https://translaburb.cc/6-Caminhadas-</a>&gt; da-Jane-Jacobs-Porto-Alegre&gt;. Disponível em: 17 mai. 2023.

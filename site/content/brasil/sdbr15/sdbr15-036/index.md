@@ -64,11 +64,11 @@ palavras-chave:
 ## Referências
 
 - ANJOS. Kaianara L.; LIMA, Maria Luisa N. Registros da dimensão simbólica e patrimonial na área central de Juazeiro do Norte/CE. Revista de Ciência e Tecnologia. Dossiê de Documentação do Patrimônio Cultural.
-- DIÁRIO DO NORDESTE. Imóvel histórico deve ser reconstruído em Juazeiro do Norte. Disponível em &lt;https://diariodonordeste.verdesmares.com.br/regiao/imovel-historico-deve-ser-reconstruido-em- juazeiro-do-norte-1.2098649&gt;. Acesso em 23 de junho de 2023.
+- DIÁRIO DO NORDESTE. Imóvel histórico deve ser reconstruído em Juazeiro do Norte. Disponível em &lt;<a href="https://diariodonordeste.verdesmares.com.br/regiao/imovel-historico-deve-ser-reconstruido-em-">https://diariodonordeste.verdesmares.com.br/regiao/imovel-historico-deve-ser-reconstruido-em-</a>&gt; juazeiro-do-norte-1.2098649&gt;. Acesso em 23 de junho de 2023.
 - GOVERNO DO ESTADO DO CEARÁ. Prefeitura Municipal de Juazeiro do Norte. Plano Diretor de Desenvolvimento Urbano de Juazeiro do Norte: Termo de Referência - Roteiro da Fé. Juazeiro do Norte, 2000.
 - INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. População no último censo. IBGE, Censo Demográfico 2010.
 - PEDROSA, Mario. Arquitetura: Ensaios críticos: Mário Pedrosa. São Paulo: Cosac Naify, 2015.
-- PREFEITURA DE JUAZEIRO DO NORTE. O município. Juazeiro do Norte, 2023. Disponível em &lt; https://juazeirodonorte.ce.gov.br/omunicipio.php&gt;. Acesso em 22 de junho de 2023.
+- PREFEITURA DE JUAZEIRO DO NORTE. O município. Juazeiro do Norte, 2023. Disponível em &lt;<a href="https://juazeirodonorte.ce.gov.br/omunicipio.php">https://juazeirodonorte.ce.gov.br/omunicipio.php</a>&gt; Acesso em 22 de junho de 2023.
 - RIBEIRO, Hévila R.C.; MAPURUNGA, Carolina M.B. Tem modernismo na terra do Padre Cícero?. Belo Horizonte: ICOMOS Brasil, 2019.
 - SILVEIRA, Plínio R.G.; GOES, Gérsica V. Acessibilidade e caminhabilidade no roteiro da fé em Juazeiro do Norte-CE. Fortaleza: ENEAC Fortaleza, 2018.
 - WALKER, Daniel. História da independência de Juazeiro do Norte. Juazeiro do Norte: HB Editora, 2010.

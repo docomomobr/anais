@@ -63,12 +63,12 @@ palavras-chave:
 - Framptom, Keneth, “História Crítica de la Arquitectura Moderna”. Barcelona: Editora Gustavo Gili, 1996.
 - Irygoyen, Adriana. “Wright e Artigas. Duas Viagens”. São Paulo: Ateliê Editorial, 2002.
 - Lara, Fernando Luiz Camargo. “Popular Modernism : an analysis of the acceptance of modern architecture in 1950´s Brazil”. Ph.D. (dissertação). Ann Arbor. University of Michigan, 2001.
-- Alves, Jaqueline Fernández. "A Insustentável Leveza da Modernidade". São Paulo: Vitruvius, 2005. Disponível em http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp
-- Lemos, Carlos Alberto Cerqueira. "O Modernismo Arquitetônico de São Paulo". São Paulo: Vitruvius, 2005. Disponível em http://www.vitruvius.com.br/arquitextos/arq000/esp279.asp
+- Alves, Jaqueline Fernández. "A Insustentável Leveza da Modernidade". São Paulo: Vitruvius, 2005. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp</a>&gt;
+- Lemos, Carlos Alberto Cerqueira. "O Modernismo Arquitetônico de São Paulo". São Paulo: Vitruvius, 2005. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp279.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp279.asp</a>&gt;
 - Machado, Lúcio Gomes. “Rino Levi e a Renovação da Arquitetura Brasileira”. Tese de Doutoramento. São Paulo : FAU/USP, 1992.
 - Mindlin, Henrique. “Arquitetura Moderna no Brasil”. São Paulo: Aeroplano, 1999.
 - Montaner, Joseph Maria. “Después del Movimiento Moderno. Arquitectura de la segunda mitad del siglo XX” . Barcelona:Editora Gustavo Gili, 1993.
-- Nunes, Luiz Antonio de Paula e Ramos, Dawerson da Paixão. "A proposta modernista de um edifício em Santos. Hélio Duarte e o Conjunto Indaiá". São Paulo: Vitruvius, 2002. Disponível em: http://www.vitruvius.com.br/arquitextos/arq031/arq031_02.asp
+- Nunes, Luiz Antonio de Paula e Ramos, Dawerson da Paixão. "A proposta modernista de um edifício em Santos. Hélio Duarte e o Conjunto Indaiá". São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq031/arq031_02.asp">http://www.vitruvius.com.br/arquitextos/arq031/arq031_02.asp</a>&gt;
 - Oliveira, José Eduardo. "Arquitetura Moderna Santista". Santos: Bares e Enseadas, 2007.
 - Segawa, Hugo. “Arquiteturas no Brasil 1900-1990”. São Paulo: Editora da Universidade de São Paulo, 1997.
 - Suzuki, Juliana. “Idealizações de Modernidade. Edifícios Verticais em Londrina, 1949-1969”. Tese de Doutoramento. São Paulo: FAU/USP, 2007.

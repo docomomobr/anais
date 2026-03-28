@@ -52,7 +52,7 @@ palavras-chave:
 
 ## Referências
 
-- BOCCARA, Ernesto G.; CARVALHO, Agda R. de. Ballet Triádico da Bauhaus: pesquisa, experimentações e execução. Reflexões e registros do percurso de uma reconstituição. Centro Universitário SENAC, São Paulo. Iara: Revista de Moda, Cultura e Arte. ISSN 1983-7836. Disponível em: http://www1.sp.senac.br/hotsites/blogs/revistaiara/index.php/ballet-triadico-da-bauhaus-pesquisa- experimentacoes-e-execucao-reflexoes-e-registros-percurso-de-uma-reconstituicao/ Acesso em: 02/02/2016. Vídeo disponível em: https://vimeo.com/12403472. Acesso em 30/03/2016.
+- BOCCARA, Ernesto G.; CARVALHO, Agda R. de. Ballet Triádico da Bauhaus: pesquisa, experimentações e execução. Reflexões e registros do percurso de uma reconstituição. Centro Universitário SENAC, São Paulo. Iara: Revista de Moda, Cultura e Arte. ISSN 1983-7836. Disponível em: &lt;<a href="http://www1.sp.senac.br/hotsites/blogs/revistaiara/index.php/ballet-triadico-da-bauhaus-pesquisa-">http://www1.sp.senac.br/hotsites/blogs/revistaiara/index.php/ballet-triadico-da-bauhaus-pesquisa-</a>&gt; experimentacoes-e-execucao-reflexoes-e-registros-percurso-de-uma-reconstituicao/ Acesso em: 02/02/2016. Vídeo disponível em: &lt;<a href="https://vimeo.com/12403472">https://vimeo.com/12403472</a>&gt; Acesso em 30/03/2016.
 - BRITTO, Fabiana Dultra. Temporalidade em dança: parâmetro para uma história contemporânea. Belo Horizonte: Edição do Autor, 2008.
 - CANTON, Katia. Do Moderno ao Contemporâneo. In: Coleção temas da arte contemporânea. São Paulo: Editora WMF Martins Fontes, 2009.
 - CANTON, Katia. Narrativas Enviesadas. In: Coleção temas da arte contemporânea. São Paulo: Editora WMF Martins Fontes, 2009.

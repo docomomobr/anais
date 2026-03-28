@@ -60,8 +60,8 @@ palavras-chave:
 ## Referências
 
 - ANDERSON, Standford. Eladio Dieste, Innovation in Structural Art. New York: Princeton Architectural Press, 2004.
-- ARAÚJO, Cláudio. Um Depoimento. Arqtexto/UFRGS, Porto Alegre, nº 0, 2000. Disponível em: &lt;https://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_0/0_Entrevista.pdf&gt;. Acesso em 10 jun. 2017.
-- BARROS, Joaquim A. O. Cascas em alvenaria cerâmica armada, uma forma pré- fabricada de se construir. Disponível em: https://repositorium.sdum.uminho.pt/bitstream/1822/4935/1/Barros_RNE_1_2005.pdf Acesso em 03 jun.2017.
+- ARAÚJO, Cláudio. Um Depoimento. Arqtexto/UFRGS, Porto Alegre, nº 0, 2000. Disponível em: &lt;<a href="https://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_0/0_Entrevista.pdf">https://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_0/0_Entrevista.pdf</a>&gt; Acesso em 10 jun. 2017.
+- BARROS, Joaquim A. O. Cascas em alvenaria cerâmica armada, uma forma pré- fabricada de se construir. Disponível em: &lt;<a href="https://repositorium.sdum.uminho.pt/bitstream/1822/4935/1/Barros_RNE_1_2005.pdf">https://repositorium.sdum.uminho.pt/bitstream/1822/4935/1/Barros_RNE_1_2005.pdf</a>&gt; Acesso em 03 jun.2017.
 - BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Arquiteturas Após 1950. São Paulo: Perspectiva, 2011.
 - BOHRER, Glênio Vianna; CANEZ, Anna Paula; COMAS, Carlos Eduardo. Arquiteturas cisplatinas: Roman Fresnedo Siri e Eladio Dieste em Porto Alegre. Porto Alegre: UniRitter, 2004.
 - BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Manual 1: Breve História do Sistema de Ceasas no Brasil. Brasília, 2008.
@@ -69,7 +69,7 @@ palavras-chave:
 - BRASIL. Secretaria de Planejamento da Presidência da República. Secretaria de Articulação com os Estados e Municípios. O Que É Preciso Saber Sobre Rodoviárias e Terminais de Carga. Rio de Janeiro, 1982.
 - DIESTE, Eladio. La conciencia de la forma. In: TORRECILLAS, A. J. Eladio Dieste 1943-
 - FITZ, Leonardo. A obra de Eladio Dieste. 2015. 265 f. Dissertação (Mestrado em Arquitetura) – Programa de Pós-graduação em Arquitetura, Universidade Federal do Rio Grande do Sul.
-- GROMPONE, Juan. Eladio Dieste: el Maestro de la Ingeniería. Montevidéu, 2011. Disponível em: &lt;http://www.grompone.org/ineditos/ciencia_y_tecnologia/Dieste.pdf.&gt;. Acesso em 17 de out.2018.
+- GROMPONE, Juan. Eladio Dieste: el Maestro de la Ingeniería. Montevidéu, 2011. Disponível em: &lt;<a href="http://www.grompone.org/ineditos/ciencia_y_tecnologia/Dieste.pdf">http://www.grompone.org/ineditos/ciencia_y_tecnologia/Dieste.pdf</a>&gt; Acesso em 17 de out.2018.
 - LAY, Alfredo Carlos Alvarez. Estructura Laminar de Cerámica Armada em la Arquitectura de Rio Grande do Sul/Brasil, em la Década de 1970-1980. 2005. Tese (Doutorado em Arquitetura), Universidade da Coruña, Espanha.
 - MOURÃO, Ivens Roberto de Araújo. Diretrizes de Engenharia e Arquitetura para Equipamentos de Comercialização de Produtos Hortícolas no Atacado. Brasília: Mourão, 2007.
 - NUDELMAN, Jorge. Eladio Dieste (1917-2000). In: ARANA, Mariano; GARABELLI, Lorenzo;

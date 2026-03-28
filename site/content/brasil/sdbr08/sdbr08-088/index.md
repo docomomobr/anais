@@ -48,7 +48,7 @@ palavras-chave:
 ## Referências
 
 - AMORIM, Luiz. Obituário Arquitetônico: Pernambuco Modernista. Recife: UFPe, 2007.
-- AMORIM, Luiz. Escola do Recife: três paradigmas do objeto arquitetônico e seus paradoxos. São Paulo: Vitruvius, 2001 Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp096.asp
+- AMORIM, Luiz. Escola do Recife: três paradigmas do objeto arquitetônico e seus paradoxos. São Paulo: Vitruvius, 2001 Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp096.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp096.asp</a>&gt;
 - BALTAR, Antônio Bezerra. Diretrizes de um Plano regional para o Recife. Recife: Escola de Belas Artes, 1951.
 - BARAVELLI, José Eduardo. O cooperativismo uruguaio na habitação social de São Paulo : das cooperativas FUCVAM à Associação de Moradia Unidos de Vila Nova Cachoeirinha. Mestrado FAU USP, São Paulo: FAU USP 2006.
 - BORSOI, Acácio Gil. Arquitetura como manifesto. Recife: 2006.

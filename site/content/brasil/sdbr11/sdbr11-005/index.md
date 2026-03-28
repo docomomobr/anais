@@ -57,12 +57,12 @@ palavras-chave:
 
 ## Referências
 
-- BIOGRAFIA de Walter Peterhans. Disponível em: http://thebiography.us/en/peterhans-walter. Acesso em: 18 mar. 2016.
+- BIOGRAFIA de Walter Peterhans. Disponível em: &lt;<a href="http://thebiography.us/en/peterhans-walter">http://thebiography.us/en/peterhans-walter</a>&gt; Acesso em: 18 mar. 2016.
 - DIAS, Benício Whatley. São Bom Jesus dos Martírios. In: CASA E JARDIM Rio de Janeiro, 1969. p.22 a 26.
 - ENTREVISTA com Erich Joachim Hess / org. Bettina Zellner Grieco. Rio de Janeiro: Iphan/DAF/Copedoc, 2013.
 - FERREZ, Gilberto. A fotografia no Brasil e um dos seus mais dedicados servidores: Marc Ferrez (1843 - 1923). In: REVISTA DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL, Rio de Janeiro: SPHAN. 1998. no 10. p. 169 a 304.
 - FONSECA, Brenda Coelho e CERQUEIRA, Telma Soares. Mapeamento preliminar das atividades dos fotógrafos no Iphan (1937-1987). In: ENTREVISTA com Erich Joachim Hess. Org. Bettina Zellner Grieco. Rio de Janeiro, Iphan, 2013, p.9 a 38.
-- GUIMARAENS, Cêça. Benício Whatley Dias, um fotógrafo no Recife moderno. São Paulo: Vitruvius, novembro de 2015. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/16.186/5836. Acesso em: 16 mar. 2016.
+- GUIMARAENS, Cêça. Benício Whatley Dias, um fotógrafo no Recife moderno. São Paulo: Vitruvius, novembro de 2015. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/16.186/5836">http://www.vitruvius.com.br/revistas/read/arquitextos/16.186/5836</a>&gt; Acesso em: 16 mar. 2016.
 - INVENTÁRIO, Pernambuco. Casa à rua da Aurora, 197. Arquivo Central do Iphan, Rio de Janeiro.
 - INVENTÁRIO e OBRAS, Igreja do Bom Jesus dos Martírios, Recife, PE, 1934 a 1976. Arquivo Central do Iphan, Rio de Janeiro.
 - INVENTÁRIO e TOMBAMENTO, Pernambuco. Igreja Nossa Senhora do Paraíso, 1946. Arquivo Central do Iphan, Rio de Janeiro.

@@ -26,7 +26,7 @@ authors:
     familyname: "Conduru"
     orcid: "0000-0003-0197-0300"
 doi: "10.5281/zenodo.19110689"
-zenodo_pdf_url: "https://zenodo.org/records/19110692/files/sdbr05-061.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285512/files/sdbr05-061.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Anais do 5º Seminário Docomomo Brasil [arquivo de computador] / comissão organizadora: Hugo Segawa... [et al.]. São Carlos: SAP-EESC-USP, 2003. 1 CD-ROM. \"Arquitetura e Urbanismo modernos: projeto e preservação\". ISBN 85-85205-43-1"
 autores:

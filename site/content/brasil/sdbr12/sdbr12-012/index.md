@@ -58,7 +58,7 @@ palavras-chave:
 - FREIRE, Adriana L. de Almeida. Os sentidos da difusão da arquitetura moderna brasileira (1945‐1970). Projeto de pesquisa (Doutorado) – Programa de Pós‐Graduação em Arquitetura e Urbanismo da Escola de Engenharia de São Carlos, Universidade de São Paulo. São Carlos, 2011.
 - FREITAS, P.S.R.; SAMPAIO, R.C. (coord). Sinopse do diagnóstico sócio-econômico do Triângulo Mineiro e Alto Paranaíba (1940-1980). Uberlândia: UFU, 1985.
 - GUERRA, M. E. (1998). As Praças Modernas de João Jorge Coury no Triângulo Mineiro. São Carlos, Dissertação (Mestrado), EESC - USP.
-- GUERRA, Maria Eliza A. Vilas Operadoras de Furnas nas Bacias dos Rios Grande e Paranaíba – da concepção à atualidade. Tese (Doutorado) IG/UFU, Uberlândia,  2008.
+- GUERRA, Maria Eliza A. Vilas Operadoras de Furnas nas Bacias dos Rios Grande e Paranaíba – da concepção à atualidade. Tese (Doutorado) IG/UFU, Uberlândia, 2008.
 - GUIMARAENS, D.; CAVALCANTI, L. Arquitetura kitsch: suburbana e rural. Rio de Janeiro: Paz & Terra,. 1982.
 - LARA, Fernando Luiz. The rise of popular modernist architecture in Brasil. Gainesville: University Press of Florida, 2008.
 - LIMA, Sandra Cristina Fagundes de. Uberlândia Ilustrada, 1935 a 1961: a revista e seu editor. História e Perspectiva (36 - 37): 209 – 246, jan. Dez. 2007.
@@ -70,7 +70,7 @@ palavras-chave:
 - MINDLIN, H. (1956). Arquitetura moderna no Brasil; prefácio de S. Giedion; organizador da edição brasileira. Lauro Cavalcanti; tradução de Paulo Pedreira. 2.ed. Rio de Janeiro : Aeroplano Editora/IPHAN. 2000. Título original em inglês: Modern architecture in Brasil. New York : Reinhold.
 - MIRANDA. Ana Paula Tavares. Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: indícios para a construção de uma cultura arquitetônica (1945 – 1975). 2014. 247p. Dissertação (mestrado) – Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos.
 - MIRANDA, Ana Paula Tavares; CAPPELLO, Maria Beatriz Camargo. Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba: a Atuação Dos Grandes Escritórios. Horizonte Científico (Uberlândia), v. 1, p. 1-30, 2009.
-- MIRANDA, Ana Paula Tavares; CAPPELLO, Maria Beatriz Camargo. A Obra de Raphael Hardy Filho em Araxá-MG: As Instalações Industriais da Fertisa. In: 9º Seminário Docomomo Brasil.  Brasília, 2011.
+- MIRANDA, Ana Paula Tavares; CAPPELLO, Maria Beatriz Camargo. A Obra de Raphael Hardy Filho em Araxá-MG: As Instalações Industriais da Fertisa. In: 9º Seminário Docomomo Brasil. Brasília, 2011.
 - MIRANDA, Ana Paula Tavares. Arquitetura Moderna no Triângulo Mineiro e Alto Paranaíba e Produção Nacional pós 1950. In: Seminário Internacional Brasil - Argentina - México. A circulação das ideias na América Latina: o moderno na arquitetura e urbanismo. Uberlândia: UFU, 2012.
 - NABUT, João Alberto. O ecletismo em Uberaba – uma trajetória de imigrantes, de João Alberto Nabut. Disponibilizado por: Arquivo Público de Uberaba. s/d.
 - RODRIGUES, Orlanda. Uberlândia Impressa: a década de 1960 nas páginas de jornal. Dissertação de Mestrado, Uberlândia. Universidade Federal de Uberlândia, 2008.

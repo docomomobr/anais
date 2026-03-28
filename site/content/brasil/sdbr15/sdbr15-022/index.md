@@ -66,7 +66,7 @@ palavras-chave:
 - Bases y Programa del Concurso de Anteproyectos para la Construccion del edifício de la Biblioteca Nacional. Buenos Aires: junho de 1961. Boletín de la Sociedad Central de Arquitectos. Buenos Aires: 1962.
 - BULLRICH, Francisco. Arquitetura Latinoamericana 1930/1970. Barcelona: Gustavo Gili, 1969. Concurso de Anteproyectos para la construccion del edificio de la Biblioteca Nacional. Publicación de la Sociedad Central de Arquitectos. Buenos Aires: n.48, 1963.
 - LIERNUR, Francisco. Arquitectura en la Argentina del siglo XX – La construción de la modernidad. Buenos Aires: Fondo Nacional de las artes, 2001.
-- MOSQUERA, Sandra M. De Escuela de Arquitectura a Facultad. Entramando facultad, arquitectura, diseño, artes, poesia y contexto de la década. Buenos Aires: 2018. Disponível em: http://dar.fadu.uba.ar/files/decada40.pdf
+- MOSQUERA, Sandra M. De Escuela de Arquitectura a Facultad. Entramando facultad, arquitectura, diseño, artes, poesia y contexto de la década. Buenos Aires: 2018. Disponível em: &lt;<a href="http://dar.fadu.uba.ar/files/decada40.pdf">http://dar.fadu.uba.ar/files/decada40.pdf</a>&gt;
 - ROMERO, Luis Alberto. Breve Historia Contemporanea de la Argentina: 1916-1991. Buenos Aires: Fondo de Cultura Econômica, 2003.
 - SCHERE, Rolando. Concursos 1825 – 2006. Buenos Aires: Sociedad Central de Arquitectos. 2008.
 - SOUZA, Luiz Eduardo Simões de. Alicerçando o Subdesenvolvimento: História e Política Econômica na Argentina, 1943- 1983. Revista de Economia Política e História Econômica. nº12. São Paulo, junho de 2008.

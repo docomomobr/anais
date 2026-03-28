@@ -56,13 +56,13 @@ palavras-chave:
 - ANELLI, Renato, GUERRA, Abílio, KON, Nelson. Rino Levi. São Paulo, Romano Guerra, 2001.
 - ARTIGAS, Rosa (org.). Paulo Mendes da Rocha. São Paulo, Cosac Naify, 2000.
 - GIMENEZ, Luis Espallargas. Autenticidade e Rudimento. Paulo Mendes da Rocha e as intervenções em
-edifícios existentes. Disponível em &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp001.asp&gt; Acesso
+edifícios existentes. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp001.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp001.asp</a>&gt; Acesso
 em 14 ago. 2007, 13:45.
 - GUATELLI, Igor. Edifício Fiesp–Ciesp–Sesi. De landmark a container? Disponível em
-&lt;http://www.vitruvius.com.br/arquitextos/arq079/arq079_03.asp&gt; Acesso em 15 ago. 2007, 14:40.
+ &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq079/arq079_03.asp">http://www.vitruvius.com.br/arquitextos/arq079/arq079_03.asp</a>&gt; Acesso em 15 ago. 2007, 14:40.
 - PIÑÓN, Helio. Paulo Mendes da Rocha. Romano Guerra Editora. São Paulo 2002.
 - SOLOT, Denise Chini. Paulo Mendes da Rocha. Estrutura: o êxito da forma. Viana & Mosley, Rio de
 Janeiro, 2004.
 - SPIRO, Annette. Paulo Mendes da Rocha. Bauten und Projekte. Niggli, Zurique, 2002.
 - THOMAZ, Dalva. Paulo Mendes da Rocha: entre as águas e as pedras de Veneza (entrevista).
-Disponível em &lt;http://www.centrocultural.sp.gov.br/linha/dart/revista7/arquitetura.htm&gt; Acesso em 12 ago. 2007, 10:55.
+Disponível em &lt;<a href="http://www.centrocultural.sp.gov.br/linha/dart/revista7/arquitetura.htm">http://www.centrocultural.sp.gov.br/linha/dart/revista7/arquitetura.htm</a>&gt; Acesso em 12 ago. 2007, 10:55.

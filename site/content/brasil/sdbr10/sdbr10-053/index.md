@@ -65,12 +65,12 @@ palavras-chave:
 - FRAMPTON, Kenneth. História crítica da arquitetura moderna. – 1. Ed. – São Paulo: Ed. Martins Fontes, 2003.
 - LUCCAS, Luís Henrique Haas. Arquitetura moderna brasileira em Porto Alegre: sob o mito do “gênio artístico nacional”. Porto Alegre: PROPAR/ UFRGS (Tese de Doutorado em Arquitetura), 2004.
 - LUCCAS, Luís Henrique Haas. O sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50. São Paulo: Pós – Revista do
-- Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível em http://www.revistasusp.sibi.usp.br/pdf/posfau/n27/04.pdf, acessado em agosto de 2013.
-- LUCCAS, Luís Henrique Haas. Quando o efêmero se perpetua: um pavilhão em Porto Alegre no começo dos anos sessenta. Arquitextos n. 135.07, 07/2011. Disponível em http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001, acessado em agosto de 2013.
+- Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível em &lt;<a href="http://www.revistasusp.sibi.usp.br/pdf/posfau/n27/04.pdf">http://www.revistasusp.sibi.usp.br/pdf/posfau/n27/04.pdf</a>&gt; acessado em agosto de 2013.
+- LUCCAS, Luís Henrique Haas. Quando o efêmero se perpetua: um pavilhão em Porto Alegre no começo dos anos sessenta. Arquitextos n. 135.07, 07/2011. Disponível em &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001">http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001</a>&gt; acessado em agosto de 2013.
 - SOUZA, Celia Ferraz de ; MULLER, Doris Maria. Porto Alegre e sua evolução urbana. Porto Alegre: Editora da UFRGS, 2007.
 - WEIMER, Günter. A arquitetura. Síntese rio-grandense. 2. ed. Ed. Universidade/UFRGS, 1998.
 - XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo, Pini, 1987.
-- LUCCAS, Luís Henrique Haas. Quando o efêmero se perpetua: um pavilhão em Porto Alegre no começo dos anos sessenta. Arquitextos n. 135.07, 07/2011. Disponível em http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001, acessado em agosto de 2013.
+- LUCCAS, Luís Henrique Haas. Quando o efêmero se perpetua: um pavilhão em Porto Alegre no começo dos anos sessenta. Arquitextos n. 135.07, 07/2011. Disponível em &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001">http://vitruvius.com.br/revistas/read/arquitextos/12.135/4001</a>&gt; acessado em agosto de 2013.
 - SOUZA, Celia Ferraz de ; MULLER, Doris Maria. Porto Alegre e sua evolução urbana. Porto Alegre: Editora da UFRGS, 2007, p. 102-106.
 - COMAS, Carlos Eduardo (org.). Lucio Costa e as Missões: um museu em São Miguel. Porto Alegre: PORPAR/UFGRS: a IPHAN/12 SR, 2009. Revista 2G n. 54. João Vilanova Artigas. Barcelona: Gustavo Gili, 2010.
 - BOESIGER, Willy. Le Corbusier. Complete Works vol. 1. Bassel, Boston, Berlim : Birkhauser Publishers, 2006 (ed. orig. 1929), pág. 31. Idem, pág. 97.

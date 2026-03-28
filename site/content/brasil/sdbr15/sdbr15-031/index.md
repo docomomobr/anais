@@ -67,13 +67,13 @@ palavras-chave:
 
 ## Referências
 
-- GOYTÍA, Noemí. La estrutura histórica del entorno. In: MOISSET, Inés et al. Marina Waisman. Reinventar la critica. Buenos Aires: Inés Moisset de Espagnes, 2018, p. 14-31 (livro digital). Disponível em: https://undiaunaarquitecta.wordpress.com/publicaciones/. Acesso em: 23 Mai. 2023.
+- GOYTÍA, Noemí. La estrutura histórica del entorno. In: MOISSET, Inés et al. Marina Waisman. Reinventar la critica. Buenos Aires: Inés Moisset de Espagnes, 2018, p. 14-31 (livro digital). Disponível em: &lt;<a href="https://undiaunaarquitecta.wordpress.com/publicaciones/">https://undiaunaarquitecta.wordpress.com/publicaciones/</a>&gt; Acesso em: 23 Mai. 2023.
 - GUTIÉRREZ, Ramon; PATERLINI, Olga (org). IIDEHA. Historia de la Arquitectura em la Argentina. Reflexiones de médio siglo. 1957-2007. Buenos Aires: CEDODAL, 2007.
 - KUHN, Thomas S. A estrutura das revoluções científicas. São Paulo: Editora Perspectiva, 1978.
 - OSSANI, Tais de Carvalho. Elementos historiográficos estruturantes: o sujeito que posiciona e os balizadores numéricos que movimentam sete narrativas da história da arquitetura. (Tese de Doutorado). Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie. São Paulo, 2022.
 - WAISMAN, Marina (ed.). Revista Summarios, nº 115, Buenos Aires, julho 1987.
 - WAISMAN, Marina. La estrutura histórica del entorno. Buenos Aires: Ediciones Nueva Visión, 1985.
 - WAISMAN, Marina. El Interior de la Historia. Historiografía arquitectonica para uso de latino-americanos. Bogotá: Escala, 1990.
-- ZEIN, Ruth Verde. O vazio significativo do cânon. V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: &lt;http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt&gt;. Acesso em: 16 Mai. 2023.
+- ZEIN, Ruth Verde. O vazio significativo do cânon. V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: &lt;<a href="http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt">http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt</a>&gt; Acesso em: 16 Mai. 2023.
 - ZEIN, Ruth Verde (org). Revisões historiográficas: Arquitetura Moderna no Brasil. Rio de Janeiro: Riobooks, 2022.
 - ZEIN, Ruth Verde. No se trata del canon, sino de cómo se usa. DEARQ, Bogotá, n. 36, 2023, p.36-45.

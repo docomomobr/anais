@@ -65,7 +65,7 @@ palavras-chave:
 - LE CORBUSIER. Precisões: sobre um estado presente da arquitetura e do urbanismo. São Paulo: Cosac & Naify, 2004 .
 - MONDRIAN, Piet. Neoplasticismo na pintura e na arquitetura. São Paulo: Cosac Naify, 2008.
 - PEREIRA, Miguel. Da ópera wagneriana à estética cinematográfica: aproximações possíveis.
-- ALCEU, Rio de Janeiro, v.9, n.17, p. 21-46, jul/dez 2008. Disponível em: &lt;http://publique.rdc.puc- rio.br/revistaalceu/cgi/cgilua.exe/sys/start.htm?infoid=315&sid=29&gt;. Acesso em 26 ago. 2008, 14:37:13.
+- ALCEU, Rio de Janeiro, v.9, n.17, p. 21-46, jul/dez 2008. Disponível em: &lt;<a href="http://publique.rdc.puc-">http://publique.rdc.puc-</a>&gt; rio.br/revistaalceu/cgi/cgilua.exe/sys/start.htm?infoid=315&sid=29&gt;. Acesso em 26 ago. 2008, 14:37:13.
 - QUILICI, Vieri. Ciudad rusa y ciudad soviética. Barcelona: Gustavo Gili, 1978.
 - RAVETTI, Graciela. De Moscou a ... Marte. In: A cidade imaginária. São Paulo: Perspectiva, 2005. p.45-68.
 - WHYTE, Iain Boyd (Ed.). The Crystal Chain Letters: Architectural Fantasies by Bruno Taut and his circle. Cambidge, Mass., MIT Press, 1985.

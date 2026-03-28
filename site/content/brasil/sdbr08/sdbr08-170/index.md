@@ -59,12 +59,12 @@ palavras-chave:
 - XAVIER, Alberto. Depoimento de uma geração: arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003. p.318-322.
 - CAMPOFIORITO, Quirino. As artes plásticas na arquitetura moderna brasileira. In: XAVIER, Alberto. Depoimento de uma geração: arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003. p.322-326.
 - DURAND, Jean-Pierre. La représentation du projet. Paris: Éditions de la Villette, 2003.
-- FERNANDES, Fernandes. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. In: 6º SEMINÁRIO DOCOMOMO BRASIL, 2005, Niterói. Disponível em: &lt;http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf&gt;. Acesso em: 13 jun. 2009.
+- FERNANDES, Fernandes. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. In: 6º SEMINÁRIO DOCOMOMO BRASIL, 2005, Niterói. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf</a>&gt; Acesso em: 13 jun. 2009.
 - FRAMPTON, Keneth. Adolf Loos e a crise da cultura, 1896-1931. In:
 - FRAMPTON, Keneth. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997. p.103-109.
 - KATO, Gisele. Muito além dos jardins. Bravo! n.136, p.33-40, dez. 2008.
-- MELO, Chico Homem. Niemeyer gráfico. Vitruvius, Arquitextos 6, texto especial n. 27, nov. 2000. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp027.asp&gt;. Acesso em: 13 jun. 2009.
-- MELO, Magda M. síntese das artes na arquitetura de Oscar Niemeyer. Semina: Ciências Sociais e Humanas, Londrina, v. 24, p.121-130, set. 2003. Disponível em: &lt;http://www.uel.br/proppg/portal/pages/arquivos/pesquisa/semina/pdf/semina_24_1_21_44.pdf&gt;. Acesso em: 13 jun. 2009.
+- MELO, Chico Homem. Niemeyer gráfico. Vitruvius, Arquitextos 6, texto especial n. 27, nov. 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp027.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp027.asp</a>&gt; Acesso em: 13 jun. 2009.
+- MELO, Magda M. síntese das artes na arquitetura de Oscar Niemeyer. Semina: Ciências Sociais e Humanas, Londrina, v. 24, p.121-130, set. 2003. Disponível em: &lt;<a href="http://www.uel.br/proppg/portal/pages/arquivos/pesquisa/semina/pdf/semina_24_1_21_44.pdf">http://www.uel.br/proppg/portal/pages/arquivos/pesquisa/semina/pdf/semina_24_1_21_44.pdf</a>&gt; Acesso em: 13 jun. 2009.
 - ROSA, Rafael Brener. Arquitetura, a síntese das artes. 2005. Dissertação (Mestrado em Arquitetura) – Programa de Pós-Graduação em Arquitetura, UFRGS, Porto Alegre, 2005.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2002.
 - TOSTRUP, Elisabeth. Architecture and rhetoric: text and design in architectural competitions, Oslo 1939-1997. London: Andreas Papadakis Publisher, 1999.

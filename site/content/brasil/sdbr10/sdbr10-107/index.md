@@ -63,8 +63,8 @@ palavras-chave:
 - MOREIRA, Bento Odilon. [nov. 2010] Entrevista concedida a Eline Caixeta. Goiânia, 2010. (arquivo impresso)
 - PROJETO, Revista. “Transportes urbanos: a arquitetura e a crítica”. Revista Projeto, dez. 1986, nº 94, São Paulo, p. 77 a 85.
 - TEIXEIRA, Luís Fernando. [dez. 2012] Entrevista concedida a Bruno Portilho e Eline Caixeta. Goiânia: 2012. (arquivo impresso)
-- VAZ, Maria Diva A. C.; ZÁRATE, Maria Heloisa V. A experiência moderna no cerrado goiano. In: Aquitexto, n°67, 2006. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp
+- VAZ, Maria Diva A. C.; ZÁRATE, Maria Heloisa V. A experiência moderna no cerrado goiano. In: Aquitexto, n°67, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp</a>&gt;
 - Zein, Ruth V. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70 (1) In: Aquitexto, n°76, 2006.
-- VAZ, Maria Diva A. C.; ZÁRATE, Maria Heloisa V. A experiência moderna no cerrado goiano. In: Aquitexto, n°67, 2006. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp
-- Zein, Ruth V. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70 (1) In: Aquitexto, n°76, 2006. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318
-- Zein, Ruth V. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado) In: Aquitexto, n°84, 2007. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243
+- VAZ, Maria Diva A. C.; ZÁRATE, Maria Heloisa V. A experiência moderna no cerrado goiano. In: Aquitexto, n°67, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp</a>&gt;
+- Zein, Ruth V. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70 (1) In: Aquitexto, n°76, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318">http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318</a>&gt;
+- Zein, Ruth V. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado) In: Aquitexto, n°84, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt;

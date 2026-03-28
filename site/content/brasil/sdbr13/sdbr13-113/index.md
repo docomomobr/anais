@@ -55,12 +55,12 @@ palavras-chave:
 ## Referências
 
 - BARKI, J.; KÓS, J.; VILAS BOAS, N. . O edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira.
-- Arquitextos, São Paulo, ano 06, n. 069.02, Vitruvius, fev. 2006 Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376 Acesso em 14 mar. 2019.
+- Arquitextos, São Paulo, ano 06, n. 069.02, Vitruvius, fev. 2006 Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376">http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376</a>&gt; Acesso em 14 mar. 2019.
 - SEGAWA, H. Arquiteturas no Brasil – 1900-1990. 2ªed. EdUSP. São Paulo, 2002.
 - CARDOSO, D. L. Documentação fotográfica de bens culturais utilizando luz visível: um guia básico. 2016. Monografia (Bacharelado em Conservação-Restauração de Bens Culturais Móveis) – Escola de Belas Artes, Universidade Federal de Minas Gerais, Belo Horizonte, 2016.
 - CURY, I. (org.) - Cartas Patrimoniais. 3 ed, IPHAN, Brasília, 2004.
 - LEMOS, C. A. C. Azulejos decorados na modernidade arquitetônica brasileira. In: Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, 1984. p. 166 a
 - MELLO, E. U. C. O panorama do patrimônio azulejar brasileiro visto através do seu inventário: do século XX ao século XXI. 2015, 2 v.,1077 fls. Dissertação (Mestrado em Artes) – Programa de Pós Graduação da Escola de Belas Artes da Universidade Federal de Minas Gerais, Belo Horizonte, 2015.
-- MELLO, E. U. C. Museu Udo Knoff de azulejaria e cerâmica: entre o som e o silêncio das coleções. In: XIII ENECULT - Encontro de Estudos Multidisciplinares em Cultura. Salvador, 2017. Disponível em http://www.cult.ufba.br/enecult/programacaoxiv/apresentacao-em-grupos-de-trabalho-nos-14-eixos- tematicos/anais/. Acesso em 14 mar. 2019.
+- MELLO, E. U. C. Museu Udo Knoff de azulejaria e cerâmica: entre o som e o silêncio das coleções. In: XIII ENECULT - Encontro de Estudos Multidisciplinares em Cultura. Salvador, 2017. Disponível em &lt;<a href="http://www.cult.ufba.br/enecult/programacaoxiv/apresentacao-em-grupos-de-trabalho-nos-14-eixos-">http://www.cult.ufba.br/enecult/programacaoxiv/apresentacao-em-grupos-de-trabalho-nos-14-eixos-</a>&gt; tematicos/anais/. Acesso em 14 mar. 2019.
 - MORAIS, F.. Azulejaria Contemporânea no Brasil. São Paulo: Editoração Publicações e Comunicações, v.1, 1988.
 - MORAIS, F.. Azulejaria Contemporânea no Brasil. São Paulo: Editoração Publicações e Comunicações, v.2,1990.

@@ -68,19 +68,19 @@ palavras-chave:
 ## Referências
 
 - ADAMI, João Spadari. História de Caxias do Sul. Caxias do Sul: Editora São Paulo, 1966. IV Tomo.
-- ADIB, Carlos Arlindo. 2007. Imagens Cine Theatro Central, de Caxias do Sul. Disponível em: &lt;http://www.carlosadib.com.br/ciners_fatos.html &gt;. Acesso em: 18 de outubro de 2010.
+- ADIB, Carlos Arlindo. 2007. Imagens Cine Theatro Central, de Caxias do Sul. Disponível em: &lt;<a href="http://www.carlosadib.com.br/ciners_fatos.html">http://www.carlosadib.com.br/ciners_fatos.html</a>&gt; &gt;. Acesso em: 18 de outubro de 2010.
 - ARGAN, Giulio Carlo. “Tipología” In: Summario, Nº 79. Buenos Aires: Ed. Summa, 1984.
 - ARQUIVO HISTÓRICO MUNICIPAL JOÃO SPADARI ADAMI. Imagens Cine Teatro Ópera e Cine Guarany. Caxias do Sul, 2010.
 - BRANDALISE, Ernesto A. Paróquia Santa Teresa - Cem Anos de Fé e História (1884 - 1984). Caxias do Sul: Editora da UCS (EDUCS), 1985.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - BRUGALLI, Ana Paola. Art Déco e as manifestações na arquitetura de Porto Alegre. Porto Alegre: UFRGS – PROPAR, 2004. (Dissertação de Mestrado)
 - CINQUANTENARIO della colonizzazione italiana nel Rio Grande Del Sud. Porto Alegre: Livraria do Globo, 1925.
-- DACANAL, José Hildebrando. A Imigração e a História do Rio Grande do Sul. EST Publicações Online. Disponível em: &lt;http://www.esteditora.com.br/textos/imigracao.htm&gt;. Acesso em: 25 de setembro de 2010.
+- DACANAL, José Hildebrando. A Imigração e a História do Rio Grande do Sul. EST Publicações Online. Disponível em: &lt;<a href="http://www.esteditora.com.br/textos/imigracao.htm">http://www.esteditora.com.br/textos/imigracao.htm</a>&gt; Acesso em: 25 de setembro de 2010.
 - FILIPPON, Maria Isabel. A Casa do Imigrante Italiano: A Linguagem do Espaço de Habitar. Caxias do Sul: UCS, 2007.
 - LE CORBUSIER. Os três estabelecimentos humanos. São Paulo : Editora Perspectiva, 1976
 - MAHFUZ, Edson da Cunha. Ensaio sobre a Razão Compositiva; uma investigação sobre a natureza das relações entre as partes e o todo na composição arquitetônica / Edson da Cunha Mahfuz. Viçosa: UFV, Impr. Univ.; Belo Horizonte: AP Cultural, 1995.
 - MACHADO, Maria Abel; HERÉDIA, Vania Beatriz Merlotti.Câmara de Indústria, Comércio e Serviços de Caxias do Sul: Cem Anos de História. Caxias do Sul: Maneco, 2001.
-- MARCASSA, Luciana. Do ócio ao lazer: uma (re) significação dos usos do tempo livre na cidade de São Paulo (1888-1935). Disponível em: &lt;http://www.professores.unirg.edu.br/rlira/artigos/pdf/lazer%20e%20%F3cio.pdf&gt;. Acesso em: 20 de dezembro de 2010.
+- MARCASSA, Luciana. Do ócio ao lazer: uma (re) significação dos usos do tempo livre na cidade de São Paulo (1888-1935). Disponível em: &lt;<a href="http://www.professores.unirg.edu.br/rlira/artigos/pdf/lazer%20e%20%F3cio.pdf">http://www.professores.unirg.edu.br/rlira/artigos/pdf/lazer%20e%20%F3cio.pdf</a>&gt; Acesso em: 20 de dezembro de 2010.
 - NETTO, José Teixeira C. Moderno pós-moderno. Porto Alegre: L&PM, 1986.
 - PESQUISA ARQUITETURA MODERNA NA SERRA GAÚCHA. Acervo e Tratamento dos Dados. Caxias do Sul: UCS, 2008 (Material instrucional do grupo de pesquisa)
 - SARTORI, Roberta. Edifícios Institucionais modernos na Serra Gaúcha: bancos, clubes, cinemas, correios e escolas. Caxias do Sul: UCS, 2010.

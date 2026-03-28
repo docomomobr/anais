@@ -49,10 +49,10 @@ palavras-chave:
 
 ## Referências
 
-- ATIQUE, Fernando. Ensinando a morar: o Edifício Esther e os embates pela habitação vertical em São Paulo (1930-1962). Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online), [s. l.], n. 2, p. 38, 2005. Disponível em: https://doi.org/10.11606/issn.1984-4506.v0i2p38-55
-- DAHER, Luiz Carlos. O edifício Esther e a estética do modernismo | Por Luiz Carlos Daher - Revista PROJETO. [S. l.], [s. d.]. Disponível em: https://revistaprojeto.com.br/acervo/o-edificio-esther-e-a-estetica-do- modernismo-por-luiz-carlos-daher/. Acesso at: 15 Apr. 2021.
+- ATIQUE, Fernando. Ensinando a morar: o Edifício Esther e os embates pela habitação vertical em São Paulo (1930-1962). Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online), [s. l.], n. 2, p. 38, 2005. Disponível em: &lt;<a href="https://doi.org/10.11606/issn.1984-4506.v0i2p38-55">https://doi.org/10.11606/issn.1984-4506.v0i2p38-55</a>&gt;
+- DAHER, Luiz Carlos. O edifício Esther e a estética do modernismo | Por Luiz Carlos Daher - Revista PROJETO. [S. l.], [s. d.]. Disponível em: &lt;<a href="https://revistaprojeto.com.br/acervo/o-edificio-esther-e-a-estetica-do-">https://revistaprojeto.com.br/acervo/o-edificio-esther-e-a-estetica-do-</a>&gt; modernismo-por-luiz-carlos-daher/. Acesso at: 15 Apr. 2021.
 - FIALHO, Roberto Novello. Edifícios de escritórios na cidade de São Paulo Tese apresentada à FAUUSP para obtenção do título de doutor Área de concentração: Projeto de Arquitetura. [S. l.: s. n.], 2007. Disponível em: www.teses.usp.br. Acesso at: 15 Apr. 2021.
-- GALESI, René; CAMPOS, Candido Malta. Edifício Louveira: arquitetura moderna e qualidade urbana. Docomomo, [s. l.], Disponível em: http://docomomo.org.br/wp-content/uploads/2016/01/134R.pdf. Acesso at: 20 Jun. 2021.
+- GALESI, René; CAMPOS, Candido Malta. Edifício Louveira: arquitetura moderna e qualidade urbana. Docomomo, [s. l.], Disponível em: &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/134R.pdf">http://docomomo.org.br/wp-content/uploads/2016/01/134R.pdf</a>&gt; Acesso at: 20 Jun. 2021.
 - PINHEIRO, Maria Lúcia Bressan. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e
-- REVISTA ACRÓPOLE. Edifício Ester. [S. l.], [s. d.]. Disponível em: http://www.acropole.fau.usp.br/edicao/1. Acesso at: 15 Apr. 2021.
+- REVISTA ACRÓPOLE. Edifício Ester. [S. l.], [s. d.]. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/1">http://www.acropole.fau.usp.br/edicao/1</a>&gt; Acesso at: 15 Apr. 2021.
 - TURCHI, Tiago Pacheco. Artigas e o Ed. Louveira: Edifícios residenciais e a verticalização de São Paulo na obra de Vilanova Artigas. 2015. Brasília, 2015. 2021

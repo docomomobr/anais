@@ -70,10 +70,10 @@ palavras-chave:
 - AMORIM, Cláudia Naves; FLORES, Alice Leite. Edifícios residenciais das superquadras do Plano Piloto, Brasília: aspectos de preservação e conforto ambiental. Encontro Nacional sobre conforto no ambiente Construído, v. 8, p. 37-46, 2005.
 - BENEVOLO, Leonardo. História da Arquitetura Moderna. 2ª reimpressão da 5ª edição. São Paulo: Editora Perspectiva, 2016.
 - BENEVOLO, Leonardo. A cidade Moderna. In: História da Cidade. 1ª reimpressão da 6ª Edição. São Paulo: Editora Perspectiva, 2017, p. 615 – 656.
-- BRASIL. Constituição (1988). Disponível em: &lt;http://www25.senado.leg.br/web/atividade/legislacao&gt;. Acesso em: 20 de abril de 2021.
+- BRASIL. Constituição (1988). Disponível em: &lt;<a href="http://www25.senado.leg.br/web/atividade/legislacao">http://www25.senado.leg.br/web/atividade/legislacao</a>&gt; Acesso em: 20 de abril de 2021.
 - BRASIL. IPHAN COMUNICA o tombamento definitivo dos bens representativos do conjunto da obra do arquiteto Oscar Niemeyer. Diário Oficial da União: seção 3, Brasília, DF, n. 74, p. 104, 22 abr. 2021.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. 1ª edição. São Paulo: Editora Perspectiva, 2010.
-- CAMPOS, Bruno Pedro Alves de. Palácio do Exército: Conjunto Arquitetônico de Oscar Niemeyer para o Quartel General do Exército em Brasília - 1968-73. 2020. 213 f., il. Dissertação (Mestrado em Arquitetura e Urbanismo) — Brasília: Universidade de Brasília, 2020. CAU/DF. 8º Selo – SQS 203, Bloco C. 2020. Disponível em: &lt;https://caudf.gov.br/8o-selo-sqs-203- bloco-c/&gt;. Acesso em: 25 de fev. de 2021.
+- CAMPOS, Bruno Pedro Alves de. Palácio do Exército: Conjunto Arquitetônico de Oscar Niemeyer para o Quartel General do Exército em Brasília - 1968-73. 2020. 213 f., il. Dissertação (Mestrado em Arquitetura e Urbanismo) — Brasília: Universidade de Brasília, 2020. CAU/DF. 8º Selo – SQS 203, Bloco C. 2020. Disponível em: &lt;<a href="https://caudf.gov.br/8o-selo-sqs-203-">https://caudf.gov.br/8o-selo-sqs-203-</a>&gt; bloco-c/&gt;. Acesso em: 25 de fev. de 2021.
 - CHOAY, Françoise. O urbanismo: utopias e realidades, uma antologia. 2ª reimpressão da 7ª edição. São Paulo: Editora Perspectiva, 2018.
 - COSTA, Lucio. Relatório do Plano Piloto de Brasília [1957]. In: Relatório do Plano Piloto de Brasília. Brasília: GDF, 1991.
 - DE OLIVEIRA, Adriana Freire; BAUER, Caroline. Cobogós, textile-block ou módulo? Experimentações
@@ -84,7 +84,7 @@ palavras-chave:
 - FICHER, Sylvia et al. Uma análise dos blocos residenciais das superquadras do Plano Piloto de Brasília. Brasília: Universidade de Brasília, 2003.
 - HOWARD, Ebenezer. The Garden City. Art, Architecture and Engineering Library, 1898.
 - LIMA, Carlos Henrique de. Modernidades brasileiras: a obra de Milton Ramos. Dissertação de Mestrado. Faculdade de Arquitetura e Urbanismo, Universidade de Brasília. 2008.
-- LIMA, Carlos Henrique de. Os blocos de superquadra: Um tipo da modernidade. MDC Revista de Arquitetura, 2009. Disponível em: &lt;https://mdc.arq.br/2009/06/02/os-blocos-de-superquadra- um-tipo-da-modernidade/&gt;. Acesso em: 8 de abril de 2021.
+- LIMA, Carlos Henrique de. Os blocos de superquadra: Um tipo da modernidade. MDC Revista de Arquitetura, 2009. Disponível em: &lt;<a href="https://mdc.arq.br/2009/06/02/os-blocos-de-superquadra-">https://mdc.arq.br/2009/06/02/os-blocos-de-superquadra-</a>&gt; um-tipo-da-modernidade/&gt;. Acesso em: 8 de abril de 2021.
 - LIMA, Carlos Henrique. Produção em massa e índice espacial: A pré-fabricação na arquitetura de Milton Ramos. IV Seminário Docomomo Sul. 2013.
 - LIMA, Jayme Wesley de. Tem que tombar?: patrimônio moderno e forma alternativa de conservação. Tese de Doutorado. Brasília. PPG-FAU/UnB. 2017.
 - LIRA, Flaviana Barreto; GIANNECCHINI, Ana Clara. O desafio da conservação dos blocos residenciais do Plano Piloto de Brasília – DF: uma resposta interinstitucional ao caso da unidade de vizinhança constituída pelas SQS 107, 108, 307 e 308. II Encontro da Associação Nacional de Pesquisa e Pós- graduação em Arquitetura e Urbanismo. 2012.

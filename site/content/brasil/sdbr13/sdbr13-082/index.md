@@ -78,4 +78,4 @@ palavras-chave:
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp- Editora da Universidade de São Paulo, 2010.
 - SILVA, José Borzacchiello da. Formação socioterritorial urbana. In: DANTAS, Eustógio Wanderley Correia; SILVA, José Borzacchiello da; COSTA, Maria Clélia Lustosa. De cidade à metrópole: (trans)formações urbanas em Fortaleza. Fortaleza: Edições UFC, 2009, p. 87-142.
 - VAZ, Lillian Fessler. Modernidade e moradia. Rio de Janeiro: 7 Letras, 2002.
-- WAISMAN, Marina. O Interior da história: historiografia arquitetônica para uso de latino- americanos. São Paulo: Perspectiva, 2013. Sites: http://www.piratininga.com.br/desenhos_centralfortaleza.html
+- WAISMAN, Marina. O Interior da história: historiografia arquitetônica para uso de latino- americanos. São Paulo: Perspectiva, 2013. Sites: &lt;<a href="http://www.piratininga.com.br/desenhos_centralfortaleza.html">http://www.piratininga.com.br/desenhos_centralfortaleza.html</a>&gt;

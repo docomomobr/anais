@@ -62,7 +62,7 @@ palavras-chave:
 
 ## Referências
 
-- ALBA, Camila. Do céu ao rés-do-chão: ensaio sobre arquitetura, tipo e cidade na contemporaneidade. Trabalho de conclusão de curso. Florianópolis, DAU UFSC, 2021 &lt;https://bit.ly/3CMD2oG
+- ALBA, Camila. Do céu ao rés-do-chão: ensaio sobre arquitetura, tipo e cidade na contemporaneidade. Trabalho de conclusão de curso. Florianópolis, DAU UFSC, 2021 &lt;<a href="https://bit.ly/3CMD2oG">https://bit.ly/3CMD2oG</a>&gt;
 - ARGAN, Giulio Carlo. Sobre o conceito de tipologia arquitetônica. In: ARGAN, Giulio Carlo. Projeto e destino. São Paulo: Editora Ática, 2004 [1957], p. 65-70.
 - BALLENT, Anahi. Acosta en la ciudad: del City Block a Figueroa Alcorta. Buenos Aires: Anales del Instituto de Arte Americano e Investigaciones Estéticas Mario J. Buschiazzo, 1987
 - BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.
@@ -73,7 +73,7 @@ palavras-chave:
 - CUNHA JR., Jaime. Edifício Metrópole: um diálogo entre arquitetura moderna e cidade. Dissertação (mestrado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo da USP. São Paulo, 2007.
 - FELDMAN, Sarah. Avanços e limites na historiografia da legislação urbanística no Brasil. Revista Brasileira de Estudos Urbanos e Regionais nº 4, Maio 2001
 - FERRISS, Hugh. Power in Buildings. New York: Columbia University Press, 1953
-- GUERRA, Abilio. Quadra aberta: Uma tipologia urbana rara em São Paulo. Projetos, São Paulo, n. 11.124, Vitruvius, abr. 2011 &lt;https://vitruvius.com.br/index.php/revistas/read/projetos/11.124/3819&gt;.
+- GUERRA, Abilio. Quadra aberta: Uma tipologia urbana rara em São Paulo. Projetos, São Paulo, n. 11.124, Vitruvius, abr. 2011 &lt;<a href="https://vitruvius.com.br/index.php/revistas/read/projetos/11.124/3819">https://vitruvius.com.br/index.php/revistas/read/projetos/11.124/3819</a>&gt;
 - HILBERSEIMER, Ludwig. La arquitectura de la gran ciudad. Barcelona: Gustavo Gili, 1999.
 - MONEO, Rafael. On typology. Cambridge: The MIT Press, Oppositions, 1978, nº 13. p. 22-43.
 - MONEO, Rafael. Paradigmas fin de siglo: Los noventa, entre la fragmentación y la compacidad. Revista Arquitectura Viva, n.66, Barcelona, 1999.

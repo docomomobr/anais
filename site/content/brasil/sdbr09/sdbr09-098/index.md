@@ -58,9 +58,9 @@ palavras-chave:
 
 ## Referências
 
-- ANELLI, Renato.  Gosto moderno: o design da exposição e a exposição do design. Arquitexto. Porto Alegre: PROPAR/UFRGS, no 14, p. 92-109. Disponível em &lt;http://www.ufrgs.br/propar/&gt;. Acessado em março de 2010.
-- COMAS, Carlos E. Lina 3x2, Arquitexto . Porto Alegre: PROPAR/UFRGS no.14, p.146-189. Disponível em http://www.ufrgs.br/propar/, acessado em março de 2010.
-- KIEFER, Fábio. Arquitetura de museus, Arquitexto, Porto Alegre, PROPAR/UFRGS, no1, p. 12-25. Disponível em &lt;http://www.ufrgs.br/propar/, acessado em fevereiro de 2011.
+- ANELLI, Renato. Gosto moderno: o design da exposição e a exposição do design. Arquitexto. Porto Alegre: PROPAR/UFRGS, no 14, p. 92-109. Disponível em &lt;<a href="http://www.ufrgs.br/propar/">http://www.ufrgs.br/propar/</a>&gt; Acessado em março de 2010.
+- COMAS, Carlos E. Lina 3x2, Arquitexto . Porto Alegre: PROPAR/UFRGS no.14, p.146-189. Disponível em &lt;<a href="http://www.ufrgs.br/propar/">http://www.ufrgs.br/propar/</a>&gt; acessado em março de 2010.
+- KIEFER, Fábio. Arquitetura de museus, Arquitexto, Porto Alegre, PROPAR/UFRGS, no1, p. 12-25. Disponível em &lt;<a href="http://www.ufrgs.br/propar/">http://www.ufrgs.br/propar/</a>&gt; acessado em fevereiro de 2011.
 - MALRAUX, André. Le Musée Imaginaire. [Paris]: Gallimard, imp. 2008. Publicação original :1947.
 - PEREIRA, Juliano. Lina Bo Bardi. Bahia. 1958-1964, Uberlândia, EDUFU, 2008.
 - RUBINO, Silvana; GRINOVER, Marina (orgs). Lina por escrito. Textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.

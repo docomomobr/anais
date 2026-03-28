@@ -75,4 +75,4 @@ palavras-chave:
 - MASCARÓ. J. L. MASCARÓ, L R. Incidência das variáveis projetivas e de construção no consumo energético dos edifícios. Sagra, Porto Alegre, 1992.
 - MINDLIN, H. Arquitetura moderna no Brasil. 2ª edição, Aeroplano, Rio de Janeiro, 2000.
 - PARO. M. Reflexões sobre habitação coletiva moderna no Brasil através das experiências de Lucio Costa e Vilanova Artigas. Dissertação (Mestrado em Urbanismo) – Programa de Pós- Graduação em Urbanismo da Faculdade de Arquitetura e Urbanismo, Universidade do Rio de Janeiro, PROURB/FAU, Rio de Janeiro, 2015.
-- VITRUVIUS. Lucio Costa, Registro de uma vivência. 2018. Disponível em: http://www.vitruvius.com.br/jornal/news/read/2940. Acesso em: 09 fev. 2019
+- VITRUVIUS. Lucio Costa, Registro de uma vivência. 2018. Disponível em: &lt;<a href="http://www.vitruvius.com.br/jornal/news/read/2940">http://www.vitruvius.com.br/jornal/news/read/2940</a>&gt; Acesso em: 09 fev. 2019

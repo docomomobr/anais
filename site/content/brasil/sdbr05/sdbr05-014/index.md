@@ -63,4 +63,4 @@ palavras-chave:
 
 - CARPINTÉRO, Marisa Varanda Teixeira. A construção de um sonho. Os engenheiros-arquitetos e a formulação da política habitacional no Brasil. (São Paulo 1917-1940). Campinas: Editora da UNICAMP, 1997. Instituto de Planejamento Urbano de Florianópolis. Valorização do Casario Histórico de Florianópolis: Manual de Recuperação. Florianópolis: IPUF, 1993.
 - PORTO, Daniela. Vila Operária: o resgate de uma identidade. Trabalho final de graduação em arquitetura e urbanismo. ARQ / CTC / UFSC. Dezembro de 1998.
-- REIS FILHO, Nestor Goulart. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 1976. WEB SITES http://www.pcc.usp.br/Pesquisa/cortico/cris www.iphan.gov.br
+- REIS FILHO, Nestor Goulart. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 1976. WEB SITES &lt;<a href="http://www.pcc.usp.br/Pesquisa/cortico/cris">http://www.pcc.usp.br/Pesquisa/cortico/cris</a>&gt; www.iphan.gov.br

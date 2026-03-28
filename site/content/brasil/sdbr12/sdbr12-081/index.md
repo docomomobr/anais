@@ -72,16 +72,16 @@ palavras-chave:
 - COSTA, Lúcio. Registro de uma vivência. Rio de Janeiro: Empresa das Artes, 1995.
 - FABRIS, Annateresa (org.). Ecletismo na Arquitetura Brasileira. São Paulo: Nobel , 1987.
 - FARAH, Ana Paula. Restauro arquitetônico: a formação do arquiteto-urbanista no Brasil para preservação do patrimônio edificado: o caso das escolas do Estado de São Paulo. Tese (Doutorado), São Paulo: FAU USP, 2012. 
-Disponível em http://www.teses.usp.br/teses/disponiveis/16/16133/tde-15062012-152121/pt-br.php. 
+Disponível em &lt;<a href="http://www.teses.usp.br/teses/disponiveis/16/16133/tde-15062012-152121/pt-br.php">http://www.teses.usp.br/teses/disponiveis/16/16133/tde-15062012-152121/pt-br.php</a>&gt; 
 Acesso em 13/05/2016.
-- FARAH, Ana Paula. Restauro arquitetônico: o cerne é a formação. Oculum Ensaios Revista de Arquitetura e Urbanismo, vol. 10, no. 2, Campinas,, 2013. Disponível em http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/2145. Acesso em 13/05/2016.
+- FARAH, Ana Paula. Restauro arquitetônico: o cerne é a formação. Oculum Ensaios Revista de Arquitetura e Urbanismo, vol. 10, no. 2, Campinas,, 2013. Disponível em &lt;<a href="http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/2145">http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/2145</a>&gt; Acesso em 13/05/2016.
 - MACARRÓN, Ana. Conservación del Patrimonio Cultural. Criterios y normativas. Madrid: Síntesis, 2008.
-- MARTINS, Carlos. Arquitetura e Estado no Brasil. Elementos para a constituição do discurso moderno no Brasil. A obra de Lúcio Costa 1924-1952. Dissertação  (Mestrado em História Social). São Paulo: FFLCH USP. 1987.
+- MARTINS, Carlos. Arquitetura e Estado no Brasil. Elementos para a constituição do discurso moderno no Brasil. A obra de Lúcio Costa 1924-1952. Dissertação (Mestrado em História Social). São Paulo: FFLCH USP. 1987.
 - MAYUMI, Lia. Taipa, canela preta e concreto: estudo sobre o restauro de casas bandeiristas. São Paulo: Romano Guerra Editora, 2008. pp.148-155.
 - PESSOA, José. (org). Lúcio Costa. Documentos de trabalho. Rio de Janeiro: IPHAN, 2004.
 - REIS FILHOS, Nestor Goulart. 100 anos de ensino de arquitetura e urbanismo em São Paulo. Catálogo de exposição. São Paulo: Museu da Casa Brasileira, 1996.
 - RUSKIN, John. A lâmpada da memória. São Paulo: Ateliê Editorial, 2006.
 - SUZUKI, Marcelo. Lina e Lucio. 2010. Tese (Doutorado em Teoria e História da Arquitetura e do Urbanismo) - Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2010. 
-Disponível em: http://www.teses.usp.br/teses/disponiveis/18/18142/tde-05012011-151425/pt-br.php 
+Disponível em: &lt;<a href="http://www.teses.usp.br/teses/disponiveis/18/18142/tde-05012011-151425/pt-br.php">http://www.teses.usp.br/teses/disponiveis/18/18142/tde-05012011-151425/pt-br.php</a>&gt; 
 . Acesso em: 2017-10-06.
-- The Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance, Burwood/Australia,  2013. Disponível em http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-Adopted-31.10.2013.pdf. Acesso em 15/05/2017.
+- The Burra Charter: The Australia ICOMOS Charter for Places of Cultural Significance, Burwood/Australia, 2013. Disponível em &lt;<a href="http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-Adopted-31.10.2013.pdf">http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-Adopted-31.10.2013.pdf</a>&gt; Acesso em 15/05/2017.

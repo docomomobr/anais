@@ -56,10 +56,10 @@ palavras-chave:
 
 ## Referências
 
-- BARRIOS, C. “Can Patios Make Cities? Urban Traces of TPA in Brazil and Venezuela”. ZARCH: Journal of Interdisciplinary Studies in Architecture and Urbanism. Zaragoza: No. 1, 2013, 70–81. http://dialnet.unirioja.es/servlet/articulo?codigo=4953898.
+- BARRIOS, C. “Can Patios Make Cities? Urban Traces of TPA in Brazil and Venezuela”. ZARCH: Journal of Interdisciplinary Studies in Architecture and Urbanism. Zaragoza: No. 1, 2013, 70–81. &lt;<a href="http://dialnet.unirioja.es/servlet/articulo?codigo=4953898">http://dialnet.unirioja.es/servlet/articulo?codigo=4953898</a>&gt;
 - BENDER, H. Interpretações sobre o espaço aberto na cidade da arquitetura moderna: José Luis Sert, Antonio Bonet Castellana e os planos para Chimbote (1948) e Barrio Sur (1956). In: SEMINÁRIO DE
 - HISTÓRIA DA CIDADE E DO URBANISMO, 14., 2016, São Carlos, SP. Anais do XIV Seminário de História da Cidade e do Urbanismo. São Carlos, 2016.
-- BOTTURA, Roberto. Josep Lluís Sert, arquiteto vinculado às artes. Seu raciocínio integrador através de oito textos e uma entrevista. Resenhas Online, São Paulo, ano 10, n. 115.03, Vitruvius, jul. 2011 &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/10.115/3966&gt;.
+- BOTTURA, Roberto. Josep Lluís Sert, arquiteto vinculado às artes. Seu raciocínio integrador através de oito textos e uma entrevista. Resenhas Online, São Paulo, ano 10, n. 115.03, Vitruvius, jul. 2011 &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/10.115/3966">http://www.vitruvius.com.br/revistas/read/resenhasonline/10.115/3966</a>&gt;
 - BRINO, A. C. Superquadra Residencial e Arquitetura Moderna Brasileira. 2005. Dissertação (Mestrado em Arquitetura) – Programa de Pós-Graduação em Arquitetura, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, 2005.
 - CABRAL, C. P. C. História de um lugar moderno: Clorindo Testa e o centro cívico de Santa Rosa, La Pampa. Pós, Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP , v. 20, n. 34, p. 110-125, 2013.
 - COMAS, Carlos Eduardo Dias. Cidade funcional, cidade figurativa: dois paradigmas em confronto, in Oculum – Revista Universitária de Arquitetura, Urbanismo e Cultura, vol. 4, p. 68, 1993.

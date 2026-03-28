@@ -54,10 +54,10 @@ palavras-chave:
 - Bakema, Jaap et al. “Doorn Manifesto”. In Architecture Culture 1943-1968: A Documentary Anthology, editado por Joan Ockman e Edward Eigen, 183. Nova York: Columbia Books of Architecture; Rizzoli, 1993.
 - Banham, Reyner. “The New Brutalism”. Architectural Review 118 (dez. 1955): 354-361. Barone, Ana Cláudia Castilho. Team 10: Arquitetura como Crítica. São Paulo: Annablume;
 - Frampton, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.
-- Fuão, Fernando Freitas. “Brutalismo, a Última Trincheira do Moderno”. Artigo apresentado no 3º http://www.docomomo.org.br/ seminario%203%20pdfs/subtema_A1F/Fernando_fuao.pdf. Hall, Peter. Cidades do Amanhã: Uma História Intelectual do Planejamento e do Projeto Urbanos no Século XX. 1. ed. amp. São Paulo: Perspectiva, 2009.
+- Fuão, Fernando Freitas. “Brutalismo, a Última Trincheira do Moderno”. Artigo apresentado no 3º &lt;<a href="http://www.docomomo.org.br/">http://www.docomomo.org.br/</a>&gt; seminario%203%20pdfs/subtema_A1F/Fernando_fuao.pdf. Hall, Peter. Cidades do Amanhã: Uma História Intelectual do Planejamento e do Projeto Urbanos no Século XX. 1. ed. amp. São Paulo: Perspectiva, 2009.
 - Heuvel, Dirk van den. “Robin Hood 2001: Kolonisering van het moderne / Robin Hood 2001: The Colonisation of the Modern”. OASE 51 (1999): 96-103. Heuvel, Dirk van den e Max Risselada (ed.). Alison and Peter Smithson: From the House of the Future to a House of Today. Roterdã: 010 Publishers, 2004.
 - Heuvel, Dirk van den. “Alison and Peter Smithson – A Brutalist Story: Involving the House, the City and the Everyday (Plus a Couple of Other Things)”. PhD diss., Technische Universiteit Delft, 2013.
 - Hitchcock, Henry-Russel. Architecture: Nineteenth and Twentieth Centuries. 4. ed. Middlesex: Penguin, 1977.
 - Jencks, Charles. The Language of Post-Modern Architecture. Nova Iorque: Rizzoli, 1977.
-- McGuirk, Justin. "Unreal Estate". Domus (2012). Acessado em 7 ago. 2012. http://www.domusweb.it/en/architecture/2012/07/30/unreal-estate.html.
+- McGuirk, Justin. "Unreal Estate". Domus (2012). Acessado em 7 ago. 2012. &lt;<a href="http://www.domusweb.it/en/architecture/2012/07/30/unreal-estate.html">http://www.domusweb.it/en/architecture/2012/07/30/unreal-estate.html</a>&gt;
 - Stewart, Graham. Robin Hood Gardens Re-visions. London: Twentieth Century Society, 2010.

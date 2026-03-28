@@ -48,12 +48,12 @@ palavras-chave:
 ## Referências
 
 - ANITELLI, Felipe. [Re]produção?: repercussões de características do desenho do edifício de apartamentos paulistano em projetos empreendidos no Brasil. 2015. Tese de doutorado. São Carlos: IAU-USP, 2015.
-- ANITELLI, Felipe. Palacete dos Artistas: reabilitação de edifício histórico e redefinição do habitar doméstico. Arquitextos, São Paulo, ano 21, n. 241.02, Vitruvius, junho 2020. Disponível em: https://vitruvius.com.br/revistas/read/arquitextos/21.241/7775. Acesso em: 12 maio 2021.
+- ANITELLI, Felipe. Palacete dos Artistas: reabilitação de edifício histórico e redefinição do habitar doméstico. Arquitextos, São Paulo, ano 21, n. 241.02, Vitruvius, junho 2020. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/21.241/7775">https://vitruvius.com.br/revistas/read/arquitextos/21.241/7775</a>&gt; Acesso em: 12 maio 2021.
 - BRANCO, Ilda Helena Diniz Castello. Arquitetura no centro da cidade: edifícios de uso coletivo, São Paulo, 1930-1950. Dissertação de mestrado. São Paulo: FAU-USP, 1988.
 - BEDOLINI, Alessandra. Banco Hipotecário Lar Brasileiro S.A.: análise das realizações no estado de São Paulo, 1941-1965. Dissertação de mestrado. São Paulo: FAU-USP, 2014.
 - BLOCH, Janaina Aliano. O direito à moradia: um estudo dos movimentos de luta pela moradia no centro de São Paulo. Dissertação de mestrado. São Paulo: FFLCH-USP, 2007.
 - COLVERO, Adriana de Almeida. A requalificação do centro antigo da cidade de São Paulo: políticas públicas, planejamento participativo e gestão, no período de 2001-2004. Tese de doutorado. Campinas: Instituto de Geociências – UNICAMP, 2010.
-- COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO. Centro de São Paulo ganha primeiro edifício reformado pelo programa Minha Casa Minha Vida Entidades. São Paulo: COHAB, 2018. Disponível em: http://cohab.sp.gov.br/noticia.aspx?id=3394. Acesso em: 26 abril 2021.
+- COMPANHIA METROPOLITANA DE HABITAÇÃO DE SÃO PAULO. Centro de São Paulo ganha primeiro edifício reformado pelo programa Minha Casa Minha Vida Entidades. São Paulo: COHAB, 2018. Disponível em: &lt;<a href="http://cohab.sp.gov.br/noticia.aspx?id=3394">http://cohab.sp.gov.br/noticia.aspx?id=3394</a>&gt; Acesso em: 26 abril 2021.
 - COSTA, Sabrina Studart Fontenele. Relações entre o traçado urbano e os edifícios modernos no centro de São Paulo: arquitetura e cidade, 1938-1960. Tese de doutorado. São Paulo: FAU-USP, 2010.
 - DEVECCHI, Alejandra Maria. Reformar não é construir. A reabilitação de edifícios verticais: novas formas de morar em São Paulo no século XXI. Tese de doutorado. São Paulo: FAU-USP, 2010.
 - GATTI, Simone Ferreira. Entre a permanência e o deslocamento. ZEIS 3 como instrumento para a manutenção da população de baixa renda em áreas centrais. O caso da ZEIS 3 C 016 (Sé) inserida no perímetro do Projeto Nova Luz. Tese de doutorado. São Paulo: FAU-USP, 2015.
@@ -61,7 +61,7 @@ palavras-chave:
 - LE CORBUSIER. Urbanismo. São Paulo: Martins Fontes: 2009.
 - MENDONÇA, Denise Xavier de. Arquitetura metropolitana, São Paulo, década de 50, análise de 4 edifícios: Copan, Sede do Jornal O Estado de São Paulo, Itália, Conjunto Nacional. Dissertação de mestrado. São Carlos: EESC-USP, 1999.
 - MOTISUKE, Daniela. Reabilitação de áreas centrais: antagonismos e ambiguidades do programa paulistano Ação Centro. Dissertação de mestrado. São Paulo: FAU-USP, 2008.
-- NASCIMENTO, Douglas. Edifício Nicolau Schiesser. Minha Cidade, São Paulo, ano 14, n. 164.06, Vitruvius, março 2014. Disponível em: https://vitruvius.com.br/revistas/read/minhacidade/14.164/5105. Acesso em: 14 maio 2021.
+- NASCIMENTO, Douglas. Edifício Nicolau Schiesser. Minha Cidade, São Paulo, ano 14, n. 164.06, Vitruvius, março 2014. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/minhacidade/14.164/5105">https://vitruvius.com.br/revistas/read/minhacidade/14.164/5105</a>&gt; Acesso em: 14 maio 2021.
 - NEUHOLD, Roberta dos Reis. Os movimentos de moradia e sem-teto e as ocupações de imóveis ociosos: a luta por políticas públicas habitacionais na área central da cidade de São Paulo. Dissertação de mestrado. São Paulo: FFLCH-USP, 2009.
 - RAPPL, Katrin. Avaliações ex ante e a qualidade do habitar no Brasil do século XXI: uma possibilidade crítica. Tese de doutorado. São Paulo: FAU-USP, 2019.
 - ROSSETTO, Adelcke. Depoimento. Entrevistador: Felipe Anitelli. São Paulo: Integra Desenvolvimento Urbano, 2016.

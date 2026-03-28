@@ -56,15 +56,15 @@ palavras-chave:
 
 ## Referências
 
-- BRANDI, C. Teoria da Restauração. Cotia: Ateliê editorial, 2004, 264 p. Carta de Burra. Disponível em: http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Burra%201980.pdf Acesso em 10 de junho de 2019. Carta de Veneza. Disponível em: http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Veneza%201964.pdf Acesso em 24 de março de 2019.
+- BRANDI, C. Teoria da Restauração. Cotia: Ateliê editorial, 2004, 264 p. Carta de Burra. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Burra%201980.pdf">http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Burra%201980.pdf</a>&gt; Acesso em 10 de junho de 2019. Carta de Veneza. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Veneza%201964.pdf">http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Veneza%201964.pdf</a>&gt; Acesso em 24 de março de 2019.
 - CESCHI, C. Teoria e storia del restauro. Roma: Mario Bulzoni Editore, 1970, 225 p.
 - COMAS, C. (org.) Lucio Costa e as Missões: um museu em São Miguel. Porto Alegre: o PROPAR/UFRGS: IPHAN 12 SR, 2007, 104 p.
 - COSTA, L. Lucio Costa: Registro de uma Vivência. São Paulo: Empresa das Artes, 1995, 612 p.
 - CUSTÓDIO, L. A. B. A Redução de São Miguel Arcanjo: contribuição ao estudo da tipologia missioneira. Dissertação de Mestrado. Porto Alegre: PROPUR, 2002.
-- KÜHL, B. M. Notas sobre a Carta de Veneza. In: Anais do Museu Paulista: História e Cultura Material, vol. 18, número 2. São Paulo: Jul/Dez 2010. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142010000200008#100b Acesso em 24 de março de 2019.
+- KÜHL, B. M. Notas sobre a Carta de Veneza. In: Anais do Museu Paulista: História e Cultura Material, vol. 18, número 2. São Paulo: Jul/Dez 2010. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142010000200008#100b">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142010000200008#100b</a>&gt; Acesso em 24 de março de 2019.
 - LUZ, M. Lucio Costa no Sul: o Museu das Missões. In: PEIXOTO, M; LIMA, R. (org.) Cadernos de Arquitetura Ritter dos Reis. V. 2. Out. 2000. Porto Alegre: Faculdades Integradas Ritter dos Reis: 2000, p. 25-41.
 - MAYERHOFER, L. Reconstituição do Povo de São Miguel das Missões. Tese de concurso para aprimoramento da cadeira de arquitetura analítica da Faculdade Nacional de Arquitetura. Rio de Janeiro, 1947, 130 p.
 - PESSOA, J (org.). Lucio Costa: Documentos de Trabalho. Rio de Janeiro: IPHAN, 2004, 328 p.
 - PRUDON, T. Preservation on Modern Architecture. Hoboken: John Wiley & Sons, 2008. São Miguel das Missões. Dossiê com relatórios técnicos. São Miguel das Missões: IPHAN, 2017.
 - STELLO, V. F. Sítio Arqueológico de São Miguel Arcanjo: avaliação conceitual das intervenções 1925-1927 e 1938-1940. Dissertação de Mestrado. Porto Alegre: NORIE, 2005.
-- Tecnologia com respeito à tradição. In: Jornal da Reconstrução. São Luiz do Paraitinga: ano 1, número 7, junho de 2010. Disponível em: http://www.saoluizdoparaitinga.sp.gov.br/site/
+- Tecnologia com respeito à tradição. In: Jornal da Reconstrução. São Luiz do Paraitinga: ano 1, número 7, junho de 2010. Disponível em: &lt;<a href="http://www.saoluizdoparaitinga.sp.gov.br/site/">http://www.saoluizdoparaitinga.sp.gov.br/site/</a>&gt;

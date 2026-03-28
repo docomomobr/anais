@@ -50,11 +50,11 @@ palavras-chave:
 
 ## Referências
 
-- BELLINTANI, Guilherme. A demolição das escolas de Lelé em Salvador. O poder público e a incúria da falta de manutenção. Drops, São Paulo, ano 15, n. 093.04, Vitruvius, jun. 2015 &lt;http://www.vitruvius.com.br/revistas/read/drops/15.093/5576&gt;.
+- BELLINTANI, Guilherme. A demolição das escolas de Lelé em Salvador. O poder público e a incúria da falta de manutenção. Drops, São Paulo, ano 15, n. 093.04, Vitruvius, jun. 2015 &lt;<a href="http://www.vitruvius.com.br/revistas/read/drops/15.093/5576">http://www.vitruvius.com.br/revistas/read/drops/15.093/5576</a>&gt;
 - CAMPOS, Marcio. Sistema e Adaptação: as passarelas projetadas por Lelé para Salvador. In: RISSELADA, Max;
 - LATORRACA, Giancarlo (Org.). A Arquitetura de Lelé: fábrica e invenção. São Paulo: Imprensa Oficial do Estado de São Paulo: Museu da Casa Brasileira, 2010, p. 73-93.
 - CORDIVIOLA, Chango; OLMOS, Susana. Entrevista a Lelé. : L`Architecture d`aujourd`hui. Vol 396, p.54-61. Paris, Julho-Agosto 2013.
-- EKERMAN, Sergio K. Um quebra-cabeça chamado Lelé. In: Arquitextos, São Paulo, 06.064, Vitruvius, set 2005. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423&gt; Acesso em: 2013- 11-06
+- EKERMAN, Sergio K. Um quebra-cabeça chamado Lelé. In: Arquitextos, São Paulo, 06.064, Vitruvius, set 2005. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423">http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423</a>&gt; Acesso em: 2013- 11-06
 - LIMA, João Filgueiras. Arquitetura: uma experiência na área de saúde. São Paulo: Romano Guerra Editora,
 - MANGIERI, Lúcio Sérgio Garcia. Avaliação dos Sistemas de Escadaria e Rampas Drenantes Implantadas Em Assentamentos Espontâneos na Cidade do Salvador – Bahia. Dissertação de mestrado apresentada à Escola Politécnica da Universidade Federal da Bahia. Salvador, 2012
 - RISÉRIO, Antônio. Um mestre da precisão e da delicadeza estética e social. In:RISSELADA, Max; LATORRACA, Giancarlo (Org.). A Arquitetura de Lelé: fábrica e invenção. São Paulo: Imprensa Oficial do Estado de São Paulo: Museu da Casa Brasileira, 2010, p. 31-46.

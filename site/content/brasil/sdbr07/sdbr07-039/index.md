@@ -63,5 +63,5 @@ palavras-chave:
 - Instituto Lina Bo e P. M. Bardi e Fundação Vilanova Artigas. Vilanova Artigas – Arquitetos Brasileiros / Brazilian Architects. São Paulo: Instituto Lina Bo e P. M. Bardi e Fundação Vilanova Artigas, 1997.
 - PISANI, Maria Augusta Justi. Acervo Pessoal, 2006.
 - Plano Diretor do Município de Jaú, in: www.jau.sp.gov.br, acessado em 22/03/07.
-- Secretaria da Cultura do Estado do Paraná. Livro Tombo Histórico. Antiga Estação Rodoviária. Inscrição do Tomo 52-II, processo número 53/74, 08/12/1974, Londrina, 1974. In: http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=128, acessado em 09/03/2007.
+- Secretaria da Cultura do Estado do Paraná. Livro Tombo Histórico. Antiga Estação Rodoviária. Inscrição do Tomo 52-II, processo número 53/74, 08/12/1974, Londrina, 1974. In: &lt;<a href="http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=128">http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=128</a>&gt; acessado em 09/03/2007.
 - VASCONCELOS, Augusto Carlos e CARRIERI Jr, Renato. A escola brasileira do concreto armado. São Paulo: Axis Mundi, 2006.

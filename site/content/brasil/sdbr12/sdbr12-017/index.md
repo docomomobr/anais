@@ -60,7 +60,7 @@ palavras-chave:
 - LATOUR, Bruno e YANEVA, Albena. “Give me a gun and I will make all buildings move“: an Ant’s view of architecture. In Geiser, Reto (ed.), Explorations in Architecture: Teaching, Design, Research. Basel: Birkhäuser, 2008, pp. 80-89.
 - MINDLIN, Henrique E. Arquitetura Moderna no Brasil. 2. ed. Rio de Janeiro: Aeroplano Editora/IPHAN, 2000.
 - ROSSI, Aldo. The architecture of the City. In JENCKS, Charles e KROPF, Karl, eds. Theories and manifestoes of contemporary architecture. Chichester: Academy Editions, 1997, pp. 36-39.
-- SALVADOR. Lei n° 3.903/88. Institui normas relativas à execução de obras do Município do Salvador, alterando as Leis nºs 2.403/72 e 3.077/79 e dá outras providências. Diário Oficial do Município, Salvador, BA, 25 de julho de 1988. Disponível em &lt;http://www.sucom.ba.gov.br/category/legislacoes/leis/&gt;. Acesso em: 15 fev 2010.
+- SALVADOR. Lei n° 3.903/88. Institui normas relativas à execução de obras do Município do Salvador, alterando as Leis nºs 2.403/72 e 3.077/79 e dá outras providências. Diário Oficial do Município, Salvador, BA, 25 de julho de 1988. Disponível em &lt;<a href="http://www.sucom.ba.gov.br/category/legislacoes/leis/">http://www.sucom.ba.gov.br/category/legislacoes/leis/</a>&gt; Acesso em: 15 fev 2010.
 - SAMPAIO, Antonio Heliodório Lima. Formas urbanas: cidade real & cidade ideal contribuição ao estudo urbanístico de Salvador. Salvador: Quarteto Editora / PPG/AU, Faculdade de Arquitetura da UFBa, 1999.
 - SEDHAM. Cadernos da Cidade: Uso e Ocupação do Solo em Salvador. Salvador: ano 1, vol. 1, Secretaria Municipal de Desenvolvimento urbano e Meio Ambiente, 2009.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900 – 1990. 3. ed. São Paulo: Editora da Universidade de São Paulo, 2010.

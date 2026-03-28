@@ -83,7 +83,7 @@ palavras-chave:
 - MENEGAES, J. F.; BACKES, F. A. A. L.; ROCHA, K. M.; BALZAN, K. M. Práticas de Paisagismo em Espaços de Convivência Social em Comunidades Rurais e em Centro de Educação Ambiental. In: Revista Monografias Ambientais - REMOA v. 15, n.1, jan-abr. 2016, p.381-392 Revista do Centro de Ciências Naturais e Exatas - UFSM, Santa Maria e-ISSN 22361308 - DOI:10.5902/2236130800000.
 - ROCHA, H. F. M. O lugar das práticas comunitárias emergentes: caminhos de coexistência socioecológica em projetos urbanos. (Tese de Doutorado). PPGAU/UFBA: Salvador, 2017.
 - ROCHA, H.F.M. Urbanismo e Ambientalismo: da separação à coexistência socioecológica. In: Anais... XVII ENANPUR: Natal, 2019.
-- TAVARES, S. C. C. de H. S. da M. Agência de Informação EMBRAPA. Disponível em: &lt;http://www.agencia.cnptia.embrapa.br/Agencia22/AG01/arvore/AG01_96_24112005115224.html&gt; Acesso em nov. de 2018.
+- TAVARES, S. C. C. de H. S. da M. Agência de Informação EMBRAPA. Disponível em: &lt;<a href="http://www.agencia.cnptia.embrapa.br/Agencia22/AG01/arvore/AG01_96_24112005115224.html">http://www.agencia.cnptia.embrapa.br/Agencia22/AG01/arvore/AG01_96_24112005115224.html</a>&gt; Acesso em nov. de 2018.
 - TUAN, Yi Fu. Topofilia: um estudo da percepção, atitudes e valores do meio ambiente. São Paulo: Difel-Difusão Editorial,1980.
 - TUAN, Yi Fu. Espaço e Lugar: a perspectiva da experiência. 1ª ed. São Paulo: DIFEL 1983.
 - TODD, John; TODD, Nancy. From Eco-cities to Living Machines: precepts for ecological design. Berkeley: North Atlantic Books, 1993.

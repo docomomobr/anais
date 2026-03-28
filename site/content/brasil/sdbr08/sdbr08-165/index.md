@@ -74,7 +74,7 @@ palavras-chave:
 - THOMAZ, Dalva. Um olhar sobre Vilanova Artigas e sua contribuição à arquitetura brasileira. Dissertação (Mestrado). São Paulo: FAUUSP, 1997.
 - VASCONCELOS, Augusto Carlos de. Concreto no Brasil: recordes, realizações, história. São Paulo: Copiare, 1985.
 - VERONESI, Giulia. Affonso Eduardo Reidy. In Rapporto Brasile. Zodiac, Milão, n. 6, p. 69-83, maio 1960.
-- Sítio do Illinois Institute of Chicago. http:// http://masterplan.iit.edu/crown.html
+- Sítio do Illinois Institute of Chicago. http:// &lt;<a href="http://masterplan.iit.edu/crown.html">http://masterplan.iit.edu/crown.html</a>&gt;
 - Luis Sadaki Hossaka, entrevista a Ana Clara Giannecchini, São Paulo, 06/01/2009.
 - Marcelo Suzuki - entrevista a Juliana Santiago, São Paulo, 26.02.2008.
 - Roberto Rochlitz – entrevista a Ana Clara Giannecchini, São Paulo, 12.07.2007.

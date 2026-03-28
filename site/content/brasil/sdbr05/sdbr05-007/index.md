@@ -43,7 +43,7 @@ authors:
   - givenname: "Pricylla Amorim"
     familyname: "Girão"
 doi: "10.5281/zenodo.19072113"
-zenodo_pdf_url: "https://zenodo.org/records/19072114/files/sdbr05-007.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285503/files/sdbr05-007.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Anais do 5º Seminário Docomomo Brasil [arquivo de computador] / comissão organizadora: Hugo Segawa... [et al.]. São Carlos: SAP-EESC-USP, 2003. 1 CD-ROM. \"Arquitetura e Urbanismo modernos: projeto e preservação\". ISBN 85-85205-43-1"
 autores:

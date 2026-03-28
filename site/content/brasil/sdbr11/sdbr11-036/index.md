@@ -68,18 +68,18 @@ palavras-chave:
 
 ## Referências
 
-- BOADAS, J. La funcion cultural de los archivos. Bergara: Eusko Jaurlaritza, 1991. Disponível em: &lt;http://eah-­‐ahe.org/pdf/ikerlanak3.pdf&gt;. Acesso em: jan. 2016.
+- BOADAS, J. La funcion cultural de los archivos. Bergara: Eusko Jaurlaritza, 1991. Disponível em: &lt;<a href="http://eah-­‐ahe.org/pdf/ikerlanak3.pdf">http://eah-­‐ahe.org/pdf/ikerlanak3.pdf</a>&gt; Acesso em: jan. 2016.
 - ALVES, N. Cultura e cotidiano escolar. In: REVISTA BRASILEIRA DE
-- EDUCAÇÃO, n. 23, maio-­‐ago, 2003, p. 62-­‐74. Rio de Janeiro: Associação Nacional de Pós-­‐Graduação e Pesquisa em Educação. Disponível em: &lt;http://www.redalyc.org/articulo.oa?id=27502305&gt;. BORTOLLI
+- EDUCAÇÃO, n. 23, maio-­‐ago, 2003, p. 62-­‐74. Rio de Janeiro: Associação Nacional de Pós-­‐Graduação e Pesquisa em Educação. Disponível em: &lt;<a href="http://www.redalyc.org/articulo.oa?id=27502305">http://www.redalyc.org/articulo.oa?id=27502305</a>&gt; BORTOLLI
 - JR, O. O Conjunto Nacional de David Libeskind marco urbano e patrimônio resiliente. In: COLÓQUIO IBERO-­‐AMERICANO PAISAGEM
 - CULTURAL, PATRIMÔNIO E PROJETO-­‐DESAFIOS E
-- PERSPECTIVAS, 3., 2014, Belo Horizonte. Anais... Belo Horizonte: Universidade Federal de Minas Gerais, 2014, p. 17-­‐19. Disponível em: &lt;http://www.forumpatrimonio.com.br/paisagem2014/artigos/pdf/250.pdf&gt;.
+- PERSPECTIVAS, 3., 2014, Belo Horizonte. Anais... Belo Horizonte: Universidade Federal de Minas Gerais, 2014, p. 17-­‐19. Disponível em: &lt;<a href="http://www.forumpatrimonio.com.br/paisagem2014/artigos/pdf/250.pdf">http://www.forumpatrimonio.com.br/paisagem2014/artigos/pdf/250.pdf</a>&gt;
 - BRASIL, L. T. A obra de David Libeskind – ensaio sobre as residências unifamiliares. São Paulo: Romano Guerra Editora/ Edusp, 2007.
-- BRASIL, L. David Libeskind e o Conjunto Nacional: Reflexão Crítica sobre a Nova Condição Metropolitana. In: 8º 2009, Rio de Janeiro. Anais... Disponível em: &lt;http://www.docomomo.org.br/seminario%208%20pdfs/089.pdf&gt;.
+- BRASIL, L. David Libeskind e o Conjunto Nacional: Reflexão Crítica sobre a Nova Condição Metropolitana. In: 8º 2009, Rio de Janeiro. Anais... Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/089.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/089.pdf</a>&gt;
 - DECCA, E. S. de. Memória e Cidadania. In: DEPARTAMENTO DO PATRIMÔNIO HISTÓRICO DE SÃO
 - PAULO. O direito à memória: patrimônio histórico e cidadania. São Paulo: DPH/
 - SMC, 1992. p. 129-­‐136.
-- GALZERANI, M. C. B. Práticas de ensino em projeto de educação patrimonial: a produção de saberes educacionais. In: PRO-­‐POSIÇÕES [online], v. 24, n. 1, 2013, p.93-­‐107. Disponível em: &lt;http://www.scielo.br/pdf/pp/v24n1/v24n1a07.pdf&gt;.
+- GALZERANI, M. C. B. Práticas de ensino em projeto de educação patrimonial: a produção de saberes educacionais. In: PRO-­‐POSIÇÕES [online], v. 24, n. 1, 2013, p.93-­‐107. Disponível em: &lt;<a href="http://www.scielo.br/pdf/pp/v24n1/v24n1a07.pdf">http://www.scielo.br/pdf/pp/v24n1/v24n1a07.pdf</a>&gt;
 - IACOCCA, A. Conjunto Nacional: a conquista da Paulista. São Paulo: lacocca, 2004.
 - MARQUES, E. de A.;
 - MIGUEZ, S. R. O acervo de documentos e projetos de arquitetura da FAUUSP preservação, difusão e perspectivas. In: RESUMOS DO SEMINÁRIO IBERO-­‐AMERICANO ARQUITETURA E
@@ -96,5 +96,5 @@ palavras-chave:
 - LUNARDELLI, R. S. A.;
 - VIGNOLI, R. G. (org.). Arquivologia: saberes docentes e discentes. Londrina: Eduel, 2013, p. 159-­‐185.
 - ULIANA, D. E. A biblioteca da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. In: REVISTA ELETRÔNICA
-- USJT, 2013, p. 9-­‐26. Disponível em: &lt;http://www.usjt.br/arq.urb/numero-­‐ 09/03-­‐dina-­‐elisabete.pdf&gt;. Acessado em: jan. 2016.
+- USJT, 2013, p. 9-­‐26. Disponível em: &lt;<a href="http://www.usjt.br/arq.urb/numero-­‐">http://www.usjt.br/arq.urb/numero-­‐</a>&gt; 09/03-­‐dina-­‐elisabete.pdf&gt;. Acessado em: jan. 2016.
 - VIEGAS, F. F. Conjunto Nacional: A construção do Espigão Central. Dissertação (Mestrado). São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo –

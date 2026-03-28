@@ -53,13 +53,13 @@ palavras-chave:
 ## Referências
 
 - AHI, Mehruss Jon; KARAOGHLANIAN, Armen. The Architecture of Cinematic Spaces: by Interiors. 1. ed. Chicago, EUA: Intellect Books, 2020. 92 p.
-- BOSCOV, Isabela. Jura que você nunca viu... "Encontros e Desencontros"?. Veja, 18 set. 2019. Disponível em: https://veja.abril.com.br/blog/isabela-boscov/encontros-e-desencontros-2/. Acesso em: 6 abr. 2021.
-- COLUMBUS. Direção: Kogonada. Roteiro: Kogonada. [S. l.]: Nonetheless Productions, Depth of Field, Superlative Films, 2017. L., Pam. Columbus, Indiana. Cruzn For Sights, 11 jul. 2016. Disponível em: https://cruznforsights.com/?s=Columbus. Acesso em: 26 jun. 2021.
-- LEAHEY, Ryan. Columbus movie spotlights Indiana city‘s "modernism with a soul". Dezeen, 1 set. 2017. Disponível em: https://www.dezeen.com/2017/09/01/columbus-movie-spotlights-indiana-city-modernism- kogonada/. Acesso em: 26 jun. 2021.
+- BOSCOV, Isabela. Jura que você nunca viu... "Encontros e Desencontros"?. Veja, 18 set. 2019. Disponível em: &lt;<a href="https://veja.abril.com.br/blog/isabela-boscov/encontros-e-desencontros-2/">https://veja.abril.com.br/blog/isabela-boscov/encontros-e-desencontros-2/</a>&gt; Acesso em: 6 abr. 2021.
+- COLUMBUS. Direção: Kogonada. Roteiro: Kogonada. [S. l.]: Nonetheless Productions, Depth of Field, Superlative Films, 2017. L., Pam. Columbus, Indiana. Cruzn For Sights, 11 jul. 2016. Disponível em: &lt;<a href="https://cruznforsights.com/?s=Columbus">https://cruznforsights.com/?s=Columbus</a>&gt; Acesso em: 26 jun. 2021.
+- LEAHEY, Ryan. Columbus movie spotlights Indiana city‘s "modernism with a soul". Dezeen, 1 set. 2017. Disponível em: &lt;<a href="https://www.dezeen.com/2017/09/01/columbus-movie-spotlights-indiana-city-modernism-">https://www.dezeen.com/2017/09/01/columbus-movie-spotlights-indiana-city-modernism-</a>&gt; kogonada/. Acesso em: 26 jun. 2021.
 - MERKEL, Jayne. Eero Saarinen. Londres: Phaidon Press, 2005. ISBN 153-154.
 - MODERNISM IN BARTHOLOMEW COUNTY, INDIANA, FROM 1942. National Register of Historic Places Registration Form, United States Department of the Interior, National Park Service, p. 1-77, 25 jun. 2013.
 - PELKONEN, Eeva-Liisa; ALBRECHT, Donald. EERO SAARINEN: SHAPING THE FUTURE. New Haven, CT: Yale University Press, 2006.
-- QURESHI, Bilal. The Quiet Radicalism of Columbus. Film Quarterly, California, ano 2018, v. 71, n. 3, p. 77-80, 1 mar. 2018. DOI https://doi.org/10.1525/fq.2018.71.3.77. Disponível em: https://online.ucpress.edu/fq/article-abstract/71/3/77/29279/ElsewhereThe-Quiet-Radicalism-of- Columbus. Acesso em: 10 ago. 2020.
+- QURESHI, Bilal. The Quiet Radicalism of Columbus. Film Quarterly, California, ano 2018, v. 71, n. 3, p. 77-80, 1 mar. 2018. DOI &lt;<a href="https://doi.org/10.1525/fq.2018.71.3.77">https://doi.org/10.1525/fq.2018.71.3.77</a>&gt; Disponível em: &lt;<a href="https://online.ucpress.edu/fq/article-abstract/71/3/77/29279/ElsewhereThe-Quiet-Radicalism-of-">https://online.ucpress.edu/fq/article-abstract/71/3/77/29279/ElsewhereThe-Quiet-Radicalism-of-</a>&gt; Columbus. Acesso em: 10 ago. 2020.
 - SERRAINO, Pierluigi. Eero Saarinen: 1910-1961: a Structural Expressionist. Los Angeles, CA: Taschen America, 2005. 96 p.
 - TRUFFAUT, François. Hitchcock / Truffaut : entrevistas. 1. ed. São Paulo: Companhia das Letras, 2004.
-- WESTAWAY, George. COLUMBUS: HEALING THROUGH ARCHITECTURE. Obscur, 3 ago. 2020. Disponível em: http://obscurmagazine.co.uk/columbus-healing-through-architecture/. Acesso em: 26 jun. 2021.
+- WESTAWAY, George. COLUMBUS: HEALING THROUGH ARCHITECTURE. Obscur, 3 ago. 2020. Disponível em: &lt;<a href="http://obscurmagazine.co.uk/columbus-healing-through-architecture/">http://obscurmagazine.co.uk/columbus-healing-through-architecture/</a>&gt; Acesso em: 26 jun. 2021.

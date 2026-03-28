@@ -42,7 +42,7 @@ authors:
     familyname: "Santos"
     orcid: "0000-0003-3696-762X"
 doi: "10.5281/zenodo.19073225"
-zenodo_pdf_url: "https://zenodo.org/records/19073226/files/sdbr08-127.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285552/files/sdbr08-127.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
@@ -66,17 +66,17 @@ palavras-chave:
 - CERETO, Marcos Paulo.”Estádios Brasileiros de Futebol, uma Reflexão Modernista?”. In: 5 Seminario Docomomo, 2003, São Carlos.
 - CERETO, Marcos Paulo. “Arquitetura das Massas : O caso dos Estádios Brasileiros.”. Porto Alegre,2004.
 - CIRNE, Raul de Lagos. Arquiteto autor do Projeto do Estádio Governador Tavares Silva. Entrevista sobre as sua biografia, e partido arquitetônico do Estádio Albertão. 24/05/2009. em Teresina,2009.
-- CORBIOLI, Nanci. “Arquitetura esportiva. ‘Quem pensaria em fazer um estádio sozinho?’” Arcoweb, 2000.Disponível em : http://www.arcoweb.com.br/tecnologia/arquitetura-esportiva-quem- pensaria-28-02-2001.html. Acesso em 19 de maio 2009.
+- CORBIOLI, Nanci. “Arquitetura esportiva. ‘Quem pensaria em fazer um estádio sozinho?’” Arcoweb, 2000.Disponível em : &lt;<a href="http://www.arcoweb.com.br/tecnologia/arquitetura-esportiva-quem-">http://www.arcoweb.com.br/tecnologia/arquitetura-esportiva-quem-</a>&gt; pensaria-28-02-2001.html. Acesso em 19 de maio 2009.
 - DIAS, Cid de Castro. Engenheiro fiscal da FAGEP, e Secretário de Obras do Estado do Piauí, durante 1971-1975. Entrevista com o engenheiro sobre histórico do estádio Albertão. 22/05/2009, em Teresina–PI.
 - DIAS, Cid de Castro. Piauí Projetos Estruturantes. Alínea Publicações Editoras, Teresina. 2006.
 - FARIAS, Rafaela Mourão de; PEREIRA, Karllen Costa. “Bola prá frente!”. Janeiro de 2005, Teresina- PI. Trabalho de Conclusão de Curso. Comunicação Social - habilitação em jornalismo. UESPI. (Universidade Estadual do Piauí).
 - FILHO, Numeriano Sá. Funcionário do Estadio responsável pela Administração. Entrevista sobre o histórico e situação atual da estrutura do estádio, e funcionamento das atividades no prédio. 19/05/2009. Teresina- PI.
 - FILHO, Severino Gomes de Oliveira. Jornalista Esportivo da Radio Pioneira. Entrevista sobre o Estádio Albertão no contexto sócio-político na cidade de Teresina-PI. 23/05/2009. Teresina- PI
-- LOIOLA, Thais. “CREA-PI recomenda a interdição do Estádio Albertão”. CREA-PI. 29/01/2008. Disponível em: http://www.crea-pi.org.br/noticia.php?id=214. Acesso em 16 de maio 2009. Teresina-PI.
+- LOIOLA, Thais. “CREA-PI recomenda a interdição do Estádio Albertão”. CREA-PI. 29/01/2008. Disponível em: &lt;<a href="http://www.crea-pi.org.br/noticia.php?id=214">http://www.crea-pi.org.br/noticia.php?id=214</a>&gt; Acesso em 16 de maio 2009. Teresina-PI.
 - MATOS, J. Miguel de. “A tragédia do Albertão. Depois do sorriso a lágrima...”. Jornal O Estado. Teresina-PI. 29 de agosto 1973. p.6.
 - MIDLIN, Henrique E. , Arquitetura Moderna no Brasil. Ed. Aeroplano. Rio de Janeiro. 2ª edição.2000.
-- PINCEL, Paulo. “100% recuperada a estrutura do estádio Albertão”. Portal Gterra, 28/01/2009. Disponível em: http://www.gterra.com.br/esporte/100-recuperada--a-estrutura-do-estadio-albertao- 8829.html. Acesso em 16 de maio de 2009.
+- PINCEL, Paulo. “100% recuperada a estrutura do estádio Albertão”. Portal Gterra, 28/01/2009. Disponível em: &lt;<a href="http://www.gterra.com.br/esporte/100-recuperada--a-estrutura-do-estadio-albertao-">http://www.gterra.com.br/esporte/100-recuperada--a-estrutura-do-estadio-albertao-</a>&gt; 8829.html. Acesso em 16 de maio de 2009.
 - RIBEIRO, Luiz Carlos. “Brasil: futebol e identidade nacional.” IN: IV Encontro Deporte y Ciencias Sociales, Buenos Aires. Nov. 2002. Disponível em: www.efdeportes.com/efd56/futebol.htm . Acesso em 19 de maio de 2009.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990.Editora da Universidade de São Paulo,São Paulo.2002.
 - SILVA, Wagner Luiz da. “Futebol – Apoteose nacionalista – A pátria de chuteiras ( do surgimento até 1970 ). In: Avesso do Avesso . Revista de Educação e cultura da Faculdade Fundação Educacional Araçatuba. SP, v. 4, novembro de 2006. p. 110-127.
-- ZEIN, Ruth Verde. “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Vitruvius, maio. 2007. Disponível: http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp. Acesso em 20 de novembro 2008.
+- ZEIN, Ruth Verde. “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Vitruvius, maio. 2007. Disponível: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp">http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp</a>&gt; Acesso em 20 de novembro 2008.

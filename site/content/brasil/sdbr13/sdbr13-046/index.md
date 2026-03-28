@@ -66,7 +66,7 @@ palavras-chave:
 - CAVALCANTI, Lauro; GUIMARAENS, Dinah. Arquitetura Kitsch: suburbana e rural. Rio de Janeiro: Mec/Funarte, 1979.
 - COSTA, Lucio. Brasília: cidade que inventei. Brasília: s/e, 1991.
 - COTRIM, Márcio. Crônica da cidade amada. Brasília: Thesaurus, 1985.
-- FRENTE INTEGRALISTA BRASILEIRA. Disponível em: &lt;http://www.integralismo.org.br/?cont=908&tx=20&gt; (acessado em 26/2/2019).
+- FRENTE INTEGRALISTA BRASILEIRA. Disponível em: &lt;<a href="http://www.integralismo.org.br/?cont=908&tx=20">http://www.integralismo.org.br/?cont=908&tx=20</a>&gt; (acessado em 26/2/2019).
 - KATINSKY, Julio. XAVIER, Alberto. Brasília: antologia crítica. São Paulo: Cosac Naify, 2012.
 - KUBITSCHEK, Juscelino. A Marcha do Amanhecer. São Paulo: Bestseller, 1962.
 - KUBITSCHEK, Juscelino. Cinquenta anos em Cinco. Rio de Janeiro: Bloch, 1978.

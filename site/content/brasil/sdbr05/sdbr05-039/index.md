@@ -43,7 +43,7 @@ authors:
     familyname: "Leal Júnior"
     orcid: "0009-0006-4517-1980"
 doi: "10.5281/zenodo.19072235"
-zenodo_pdf_url: "https://zenodo.org/records/19072236/files/sdbr05-039.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285506/files/sdbr05-039.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Anais do 5º Seminário Docomomo Brasil [arquivo de computador] / comissão organizadora: Hugo Segawa... [et al.]. São Carlos: SAP-EESC-USP, 2003. 1 CD-ROM. \"Arquitetura e Urbanismo modernos: projeto e preservação\". ISBN 85-85205-43-1"
 autores:

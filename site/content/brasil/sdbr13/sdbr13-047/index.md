@@ -82,14 +82,14 @@ palavras-chave:
 - ORICO, Osvaldo. Brasil, capital Brasília. Rio de Janeiro: Serviço gráfico do IBGE, 1960.
 - PENNA, J O Meira. El Brasil construye uma nueva capital. Montevideo: Instituto de Cultura Uruguayo-Brasileiño, 1857.
 - PREFEITURA DO DISTRITO FEDERAL. Brasília, ano X. Brasília: Gráfica Lady, 1968.
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 1. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-1d.pdf&gt; (acessado em 7/1/2019)
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v.2. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-2d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 4. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-4d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 6. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-6d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 41. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-41d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 42. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-42d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 43. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-43d.pdf&gt; (acessado em 7/1/2019).
-- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 10. Disponível on-line: &lt;http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-10d.pdf&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 1. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-1d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-1d.pdf</a>&gt; (acessado em 7/1/2019)
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v.2. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-2d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-2d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 4. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-4d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-4d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 6. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-6d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-6d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 41. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-41d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-41d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 42. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-42d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-42d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1960 v. 43. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-43d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-43d.pdf</a>&gt; (acessado em 7/1/2019).
+- REVISTA BRASÍLIA. Brasília: Novacap/Bloch, 1957 v. 10. Disponível on-line: &lt;<a href="http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-10d.pdf">http://www.arpdf.df.gov.br/wp-content/uploads/2018/07/NOV-D-4-2-Z-0001-10d.pdf</a>&gt; (acessado em 7/1/2019).
 - SCHEIER, Peter. Brasília vive! Rio de Janeiro: Livraria Kosmos, 1960.
 - SCHWARCZ, Lilia; STARLING, Heloisa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2017.
 - SILVEIRA, Peixoto da. A Nova Capital: Por que, para onde e como mudar a capital federal. Rio de Janeiro: Pongetti, 1959.
@@ -103,4 +103,4 @@ palavras-chave:
 - SCHAUM, D. et al. Schaum’s outline of theory and problems. 5th ed. New York: Schaum Publishing, 1956. 204 p.
 - SILVA, R. N.; OLIVEIRA, R. Os limites pedagógicos do paradigma da qualidade total na educação. In:
 - CONGRESSO DE INICIAÇÃO CIENTÍFICA DA UFPE, 4., 1996, Recife. Anais eletrônicos... Recife:
-- UFPE, 1996. Disponível em: &lt;http://www. propesq. ufpe.br/anais/anais/educ/ce04.htm&gt;. Acesso em: 21 jan. 1997.
+- UFPE, 1996. Disponível em: &lt;<a href="http://www">http://www</a>&gt; propesq. ufpe.br/anais/anais/educ/ce04.htm&gt;. Acesso em: 21 jan. 1997.

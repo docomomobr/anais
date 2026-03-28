@@ -62,11 +62,11 @@ palavras-chave:
 
 - ABREU FILHO, Silvio B. Porto Alegre como cidade ideal: planos e projetos urbanos para Porto Alegre. 2006. 357 f. Tese (Doutorado) – UFRGS, PROPAR, Porto Alegre, 2006.
 - ALMEIDA, Maria Soares de; Renato Holmer (org.). Modernização e verticalização da área central de Porto Alegre. Porto Alegre: Marcavisual, 2016.
-- CAIXETA, Eline Maria M. P.; ROMUALDO, Elana da Silva. Habitação coletiva e a construção do espaço habitado: o caso do Setor Central de Goiânia (1950-1960). Palmas: Revista Amazônia Moderna, v.1, n.2, p.54-71, out-mar 2018. Disponível em &lt;https://sistemas.uft.edu.br/periodicos/&gt;. Acesso em setembro de 2018.
+- CAIXETA, Eline Maria M. P.; ROMUALDO, Elana da Silva. Habitação coletiva e a construção do espaço habitado: o caso do Setor Central de Goiânia (1950-1960). Palmas: Revista Amazônia Moderna, v.1, n.2, p.54-71, out-mar 2018. Disponível em &lt;<a href="https://sistemas.uft.edu.br/periodicos/">https://sistemas.uft.edu.br/periodicos/</a>&gt; Acesso em setembro de 2018.
 - CARNEIRO, Luiz Carlos; PENNA, Rejane. Porto Alegre – de Aldeia a Metrópole. Porto Alegre: Marsiaj Oliveira e Officina da História, 1992.
 - COMAS, Carlos Eduardo; PIÑON, Helio. Inventário da Arquitetura Moderna em Porto Alegre - 1945/65. Porto Alegre: Marcavisual, 2013.
 - DREBES, Fernanda Jung. O Edifício da apartamentos e a Arquitetura Moderna Brasileira. Dissertação de mestrado. Porto Alegre. PROPAR – UFRGS, 2004.
-- IBGE. Instituto Brasileiro de Geografia e Estatística. Censo 2010. Disponível em: &lt;https://censo2010.ibge.gov.br/sinopse/index.php?dados=6&uf=00&gt;. Acesso em: 10 mai. 2018.
+- IBGE. Instituto Brasileiro de Geografia e Estatística. Censo 2010. Disponível em: &lt;<a href="https://censo2010.ibge.gov.br/sinopse/index.php?dados=6&uf=00">https://censo2010.ibge.gov.br/sinopse/index.php?dados=6&uf=00</a>&gt; Acesso em: 10 mai. 2018.
 - LIMA, Raquel Rodrigues. Edifícios de apartamentos: um tempo de modernidade no espaço privado: estudo da radial Independência/24 de outubro - Porto Alegre - nos anos 50. Tese (Doutorado em História) - PUCRS, Instituto de Filosofia e Ciências Humanas. Porto Alegre, 2005.
 - LUCCAS, Luís Henrique Haas. Arquitetura Moderna em Porto Alegre sob o mito do “gênio artístico nacional”. Tese de Doutorado em Arquitetura. Porto Alegre: PROPAR/UFRGS, 2004.
 - LUCCAS, Luís Henrique Haas; FIORE, Renato Holmer (org.). Modernização e verticalização da área central de Porto Alegre. Porto Alegre: Marcavisual, 2016.
@@ -78,4 +78,4 @@ palavras-chave:
 - DORNELLES, Beatriz (Org.). Porto Alegre em destaque: história e cultura. 1ª ed. Porto Alegre: EDIPUCRS, 2004.
 - MOREIRA, Lizandra Machado. O edifício de apartamentos em Porto Alegre: um paralelo entre o moderno e o contemporâneo. Dissertação de mestrado. Porto Alegre. PPGAU - Uniritter/Macknzie,2019.
 - RIBEIRO, Demétrio. Arquitetura no período 45-60. In: MIZOGUCHI, Ivan; XAVIER, Alberto. Arquitetura moderna em Porto Alegre. Editora Pini. São Paulo, 1987.
-- TRAMONTANO, Marcelo. Habitações, metrópoles e modos de vida. Por uma reflexão sobre o espaço doméstico contemporâneo. 3° Prêmio Jovens Arquitetos, categoria "Ensaio Crítico". São Paulo: Instituto dos Arquitetos do Brasil / Museu da Casa Brasileira, 1997. Disponível em: &lt;http://www.nomads.usp.br/site/livraria/livraria.html&gt; Acesso em setembro de 2018.
+- TRAMONTANO, Marcelo. Habitações, metrópoles e modos de vida. Por uma reflexão sobre o espaço doméstico contemporâneo. 3° Prêmio Jovens Arquitetos, categoria "Ensaio Crítico". São Paulo: Instituto dos Arquitetos do Brasil / Museu da Casa Brasileira, 1997. Disponível em: &lt;<a href="http://www.nomads.usp.br/site/livraria/livraria.html">http://www.nomads.usp.br/site/livraria/livraria.html</a>&gt; Acesso em setembro de 2018.

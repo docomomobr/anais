@@ -51,7 +51,7 @@ palavras-chave:
 - AMORIM, L. M. do E. Delfim Amorim. Construtor de uma linguagem – síntese. AU Documento, São Paulo, n.24, p. 94-97, 1989.
 - BARATA, Mário. Azulejos no Brasil: Séculos XVII, XVIII, e XIX. Tese apresentada à Escola Nacional de Belas Artes em 1955 para o concurso de professor catedrático de História da Arte da Universidade do Brasil. Rio de Janeiro: Jornal do Comércio, 1955.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.
-- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf&gt;. Acesso em: 12 mar. 2009.
+- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;<a href="http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf">http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf</a>&gt; Acesso em: 12 mar. 2009.
 - CAVALCANTI, Armando de Holanda. Parque histórico Nacional dos Guararapes: Projeto Físico. 2. ed. Recife: Pró Memória, 1975.
 - COSTA, Lúcio. Documentação Necessária. Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, v 1, p.31- 39, 1937.
 - DOCOMOMO BRASIL. 8º, 2009, Rio de Janeiro. Anais. Rio de Janeiro: 2009.
@@ -60,9 +60,9 @@ palavras-chave:
 - MELO, Vital M. T. Pessoa de. Tramas. São Paulo: Prêmio, 1989.
 - MORAIS, Frederico. Azulejaria Contemporânea no Brasil. São Paulo: Editoração Publicações e Comunicações Ltda, 1988.
 - MORAIS, Frederico. Azulejaria Contemporânea no Brasil – Volume II. São Paulo: Editoração Publicações e Comunicações Ltda, 1990.
-- NASLAVSKY, Guilah. Arquitetura Moderna em Pernambuco entre 1945-1970: Uma Produção com Identidade Regional? In: 5º SEMINÁRIO DOCOMOMO BRASIL ARQUITETURA E URBANISMO MODERNOS, 2003, São Carlos. Anais Eletrônico... São Carlos: EESC, 2003. Disponível em: &lt;http://www.docomomo.org.br/seminario%206%20pdfs/Ghilah%20Naslavsky.pdf&gt;. Acesso em: 20 mai. 2008.
-- NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil e Delfim Fernandes Amorim . 2004.  Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2004.
-- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius. São Paulo, ano 8, ago. 2007. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp&gt;. Acesso em: 04 abr. 2009.
+- NASLAVSKY, Guilah. Arquitetura Moderna em Pernambuco entre 1945-1970: Uma Produção com Identidade Regional? In: 5º SEMINÁRIO DOCOMOMO BRASIL ARQUITETURA E URBANISMO MODERNOS, 2003, São Carlos. Anais Eletrônico... São Carlos: EESC, 2003. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Ghilah%20Naslavsky.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Ghilah%20Naslavsky.pdf</a>&gt; Acesso em: 20 mai. 2008.
+- NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil e Delfim Fernandes Amorim . 2004. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2004.
+- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius. São Paulo, ano 8, ago. 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp</a>&gt; Acesso em: 04 abr. 2009.
 - RACHED, Mary da Silva. O Azulejo na Arquitetura: Um estudo sobre o azulejar de Delfim Amorim. 2010. Trabalho final de graduação (TCC) – Universidade Católica de Pernambuco. Recife, 2010.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.
 - SIMÕES, J. M. dos Santos. Azulejaria no Brasil. REVISTA DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Rio de Janeiro, n. 14, p.09-18, 1959.
@@ -70,5 +70,5 @@ palavras-chave:
 - SILVA, Geraldo Gomes da et alii. Marcos da Arquitetura Moderna em Pernambuco. In: SEGAWA, Hugo (ed.) Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, p. 19-27, 1988.
 - SILVA, Geraldo Gomes da et alii. Armando de Holanda. AU Documento, São Paulo; nº 69, p.68-71, dez.96/jan.97.
 - SILVA, Geraldo Gomes da et alii. Delfim Amorim. AU Documento, São Paulo; nº 57, p.71-79, dez.94/jan.95.
-- SILVEIRA, Marcele Cristiane da. O Azulejo na Modernidade Arquitetônica 1930 – 1960.  2008. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2008.
+- SILVEIRA, Marcele Cristiane da. O Azulejo na Modernidade Arquitetônica 1930 – 1960. 2008. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2008.
 - WANDERLEY, Ingrid Moura. Azulejo na arquitetura brasileira: os painéis de Athos Bulcão. 2006. Dissertação (Mestrado) – Escola de Engenharia de São Carlos da Universidade de São Paulo. São Carlos, 2006.

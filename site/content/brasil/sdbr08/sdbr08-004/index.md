@@ -50,20 +50,20 @@ palavras-chave:
 
 - BARATA, Mário. A arquitetura como plástica e a importância atual da síntese das artes.(1956). In:
 - XAVIER, Alberto (org.) Depoimento de uma geração. Arquitetura moderna brasileira. São Paulo: Cosac & Naify, 2003, 408p., pp. 318-322.
-- BIOGRAFIA de Marianne Peretti. &lt;Disponível em http://www.netsaber.com.br/biografias/ver_biografia_c_2344.html&gt; Acesso em 12 abr. 2009.
+- BIOGRAFIA de Marianne Peretti. &lt;Disponível em &lt;<a href="http://www.netsaber.com.br/biografias/ver_biografia_c_2344.html">http://www.netsaber.com.br/biografias/ver_biografia_c_2344.html</a>&gt; Acesso em 12 abr. 2009.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CAVALCANTI, Lauro. (org.) Quando o Brasil era moderno: guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.468 p.
-- CAVANI, Júlio. Gente de Olinda. Marianne Peretti.&lt; Disponível em http://olindaurgente.blogspot.com/2008/01/gente-de-olinda-marianne-peretti.html&gt; Acesso em 12 abr. 2009.
+- CAVANI, Júlio. Gente de Olinda. Marianne Peretti.&lt; Disponível em &lt;<a href="http://olindaurgente.blogspot.com/2008/01/gente-de-olinda-marianne-peretti.html">http://olindaurgente.blogspot.com/2008/01/gente-de-olinda-marianne-peretti.html</a>&gt; Acesso em 12 abr. 2009.
 - COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995.
 - COSTA, Lúcio. O arquiteto e a sociedade contemporânea (1952).In: COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995, pp.268-275.
 - Curtas metragens Vitrais (PE, 1999, 15 min), de Cecília Araújo. Um caleidoscópio de imagens, cores e vitrais de Heinrich Moser e Mariane Peretti.
-- FERNANDES, Fernanda. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf
-- FONTENELLE, Paula. As cores mágicas da luz. &lt; Disponível em http://www.continentemulticultural.com.br/index.&gt; Acesso em 31 de maio de 2009.
-- Giedion,S., Leger,F., Sert, J.L. Nine Points on Monumentality. N.York, 1943. In: GIEDION, Siegfried Giedion Arquitectura y Comunidad. Buenos Aires. Ediciones Nueva Visión, 1963, p.51-53. http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf acessado em 31 de maio de 2009.
-- Palácio da Justiça. http://www.tjpe.jus.br/judiciario/.../historia.shtml acessado em 31 de maio de 2009. http://www.memorialpernambuco.com.br/memorial/paginas/recife_leonardo/4historia_recife_recifeassi mseja.htm acessado em 31 de maio de 2009
+- FERNANDES, Fernanda. Arquitetura no Brasil no segundo pós-guerra – a síntese das artes. &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Fernanda%20Fernandes.pdf</a>&gt;
+- FONTENELLE, Paula. As cores mágicas da luz. &lt; Disponível em &lt;<a href="http://www.continentemulticultural.com.br/index">http://www.continentemulticultural.com.br/index</a>&gt; Acesso em 31 de maio de 2009.
+- Giedion,S., Leger,F., Sert, J.L. Nine Points on Monumentality. N.York, 1943. In: GIEDION, Siegfried Giedion Arquitectura y Comunidad. Buenos Aires. Ediciones Nueva Visión, 1963, p.51-53. &lt;<a href="http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf">http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf</a>&gt; acessado em 31 de maio de 2009.
+- Palácio da Justiça. &lt;<a href="http://www.tjpe.jus.br/judiciario/.../historia.shtml">http://www.tjpe.jus.br/judiciario/.../historia.shtml</a>&gt; acessado em 31 de maio de 2009. &lt;<a href="http://www.memorialpernambuco.com.br/memorial/paginas/recife_leonardo/4historia_recife_recifeassi">http://www.memorialpernambuco.com.br/memorial/paginas/recife_leonardo/4historia_recife_recifeassi</a>&gt; mseja.htm acessado em 31 de maio de 2009
 - HOLANDA, Frederico. De vidro e concreto: relações espaço interno x espaço externo na arquitetura de Oscar Niemeyer. Brasília, 2007, mimeo s/ref.
-- MARIANNE Peretti. Cronologia dos trabalhos. &lt;Disponível em http://www.marianneperetti.com.br/ &gt; Acesso em 12 abr. 2009.
-- Marianne Peretti e a arte dos vitrais. Disponível em &lt;http://videolog.uol.com.br/video.php?id=424581. Acesso em 31 maio. 2009. Publicado dia 01 de abril de 2009 às 12:45.
+- MARIANNE Peretti. Cronologia dos trabalhos. &lt;Disponível em &lt;<a href="http://www.marianneperetti.com.br/">http://www.marianneperetti.com.br/</a>&gt; &gt; Acesso em 12 abr. 2009.
+- Marianne Peretti e a arte dos vitrais. Disponível em &lt;<a href="http://videolog.uol.com.br/video.php?id=424581">http://videolog.uol.com.br/video.php?id=424581</a>&gt; Acesso em 31 maio. 2009. Publicado dia 01 de abril de 2009 às 12:45.
 - PERETTI, Marianne. Entrevista concedida a Sonia Marques e Guilah Naslavsky. Recife, 2009.
 - SERT, J.L., LÉGER, F., GIEDION, S.. Nine Points on Monumentality. In: OCKMAN, Joan, Architecture Culture 1943-1968. A Documentary Anthology. New York: Columbia Books of Architecture/ Rizzoli, 1993.pp.29-30.
 - PEDROSA, Mario. A arquitetura moderna no Brasil. (1953). In: AMARAL, Aracy A.. (org.). Mário Pedrosa. Dos Murais de Portinari aos Espaços de Brasília. São Paulo: Editora Perspectiva S./ A.,1981.416p. , p.255-264.

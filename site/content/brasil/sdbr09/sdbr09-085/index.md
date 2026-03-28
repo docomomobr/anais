@@ -69,7 +69,7 @@ palavras-chave:
 - Landerset, Jacques Filipe Corte-Real. Projecto de Construção de uma moradia para residência do Director dos Serviços de Saúde, em Luanda, Lisboa, 28 de Fevereiro de 1947 (Trab. 93, AHU, MU, DGOP, DSUH, Cx 25) Arquivo Histórico Ultramarino
 - Mendes, A. Sousa; Naya, Júlio. Projectos-tipo de Habitações para Operários - Centro Social de Sussundenga, Moçambique, 17 de Maio de 1962 (Trab. 666; AHU, MU,
 - DGOP, DSUH) Arquivo Histórico Ultramarino
-- Milheiro, Ana Vaz; Dias, Eduardo Costa, “Arquitectura em Bissau e os Gabinetes de Urbanização Colonial (1944-1974)” , in arq.urb, Revista eletrônica de Arquitetura e Urbanismo, n.2, 2009, p. 80-114 (http://www.usjt.br/arq.urb/numero_02/artigo_ana.pdf)
+- Milheiro, Ana Vaz; Dias, Eduardo Costa, “Arquitectura em Bissau e os Gabinetes de Urbanização Colonial (1944-1974)” , in arq.urb, Revista eletrônica de Arquitetura e Urbanismo, n.2, 2009, p. 80-114 ( &lt;<a href="http://www.usjt.br/arq.urb/numero_02/artigo_ana.pdf">http://www.usjt.br/arq.urb/numero_02/artigo_ana.pdf</a>&gt;
 - Milheiro, Ana Vaz. “Nos Tópicos sem Le Corbusier”, in revista Nu, “Sul”, nº 36, Março 2011, p. 34-39
 - Neves Mário José Garcez Ventim. Ante projecto de Casas Económicas para a cidade de Bissau, processo s/n, Bissau, 29 Julho 1946. Cx. 65. Arquivo Histórico Ultramarino
 - Oliveira, Mário de. Projecto de Moradia, 1950 (Trab. 257, AHU, MU, DGOP, DSUH, Cx 17) Arquivo Histórico Ultramarino

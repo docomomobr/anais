@@ -76,7 +76,7 @@ palavras-chave:
 - AL ASSAL, Marianna Ramos Boghosian. Arquitetura, identidade Nacional e projetos políticos na ditadura varguista: As Escolas Práticas da Agricultura do Estado de São Paulo. São Paulo: Universidade de São Paulo, 2009. [Dissertação de Mestrado]
 - IANNI, Octavio. Estado e planejamento econômico no Brasil. São Paulo: Civilização Brasileira, 1986.
 - SAO PAULO (Estado). Governo do Estado. Plano de ação 1959 – 1963: administração estadual e desenvolvimento econômico-social. São Paulo: Imprensa Oficial, 1959a.
-- SAO PAULO (Estado).  Secretária de Estado dos Negócios da Agricultura. Fundo de Expansão Agropecuário. São Paulo: Imprensa Oficial, 1959b.
+- SAO PAULO (Estado). Secretária de Estado dos Negócios da Agricultura. Fundo de Expansão Agropecuário. São Paulo: Imprensa Oficial, 1959b.
 - ALVES, André Augusto de Almeida. Arquitetura escolar paulista 1959 – 1962: o PAGE, o IPESP e os arquitetos modernos paulistas. São Paulo: Universidade de São Paulo, 2007. [Tese de Doutorado]
 - BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros; SIMONI, Lucia Noemia. A arquitetura moderna produzida a partir do plano de ação do governo Carvalho Pinto-Page - (1959/1963). Revista Arq.Urb., São Paulo, Universidade São Judas Tadeu, v. 14, p. 157-170, 2015.
 - TOLENTINO, Célia Aparecida Ferreira. O Farmer contra o Jeca: o projeto de revisão agrária do Governo Carvalho Pinto. Marília: Cultura Acadêmica, 2011.

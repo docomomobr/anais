@@ -65,7 +65,7 @@ palavras-chave:
 - COLQUHOUN Alan. Modern Architecture. New York: Oxford University Press, 2002
 - CURTIS, Willian. J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2010.
 - DAL CO, Francesco; TAFURI, Manfredo. Modern Architecture. New York: Harry N. Abrams, Inc. Publishers, 1979 (Translated from the Italian by Robert Erich Wolf). [Architettura Contemporanea. Electra Editrice, 1976.
-- FISHER, Sylvia. Censura e autocensura: arquitetura brasileira durante a ditadura militar. (2014) Portal Vitruvius: http://www.vitruvius.com.br/revistas/read/drops/14.080/5192 (último acesso em: 10/06/2019)
+- FISHER, Sylvia. Censura e autocensura: arquitetura brasileira durante a ditadura militar. (2014) Portal Vitruvius: &lt;<a href="http://www.vitruvius.com.br/revistas/read/drops/14.080/5192">http://www.vitruvius.com.br/revistas/read/drops/14.080/5192</a>&gt; (último acesso em: 10/06/2019)
 - FOUCAULT, Michel. A ordem do discurso. São Paulo: Edições Loyola, 2014 (Trad.: Laura Fraga de Almeida Sampaio)
 - FOUCAULT, Michel. Genealogia e poder. In: FOUCUALT, Michel. Microfísica do poder. Rio de Janeiro: Graal, 1979 (Trad.: Roberto Machado)
 - FOUCAULT, Michel. Nietzsche, a genealogia e a história. In: FOUCUALT, Michel. Microfísica do poder. Rio de Janeiro: Graal, 1979 (Trad.: Roberto Machado)

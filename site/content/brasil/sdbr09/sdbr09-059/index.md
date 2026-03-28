@@ -57,7 +57,7 @@ autores:
 
 ## Referências
 
-- AAVV. “Información: La Feria de América”, Nueva Visión  Nº 6, (Buenos Aires: Editorial Nueva Visión, 1955)
+- AAVV. “Información: La Feria de América”, Nueva Visión Nº 6, (Buenos Aires: Editorial Nueva Visión, 1955)
 - Ballent, Anahí. Las huellas de la política. Vivienda, ciudad y peronismo en Buenos Aires, 1943-1955, (Buenos Aires: UNQ-Prometeo, 2005).
 - Ballent, Anahí. “Nuestra Arquitectura” en: Diccionario de Arquitectura en la Argentina, (dirs). F. Liernur y F. Aliata (Buenos Aires: Clarín, tomo i/n, 2004), 201-205
 - Cirvini, Silvia. Nosotros los arquitectos. Campo disciplinar y profesión en la Argentina Moderna. (Mendoza: Zeta, 2004).

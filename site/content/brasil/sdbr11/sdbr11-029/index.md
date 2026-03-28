@@ -55,11 +55,11 @@ palavras-chave:
 
 - BARBOSA, Neusa; OLIVEIRA, Cláudio. Matarazzo consegue evitar tombamento para pagar dívida. Folha de São Paulo, São Paulo, 20 ago. 1986. Folha Cidades, p. 15.
 - BERGERON, Louis. L’impact de la modernisation économique et le patrimoine industriel. In: Identification and Documentation of Modern Heritage. UNESCO World Heritage Centre, 2003.
-- CORREIA, Telma de Barros. Ornato e despojamento no mundo fabril. Anais do Museu Paulista, [S.l.], v. 19, n. 1, p. 11-80 , jun. 2011. ISSN 1982-0267. Disponível em: &lt;http://www.revistas.usp.br/anaismp/article/view/5542/7072&gt;. Acesso em Jun. 2014
+- CORREIA, Telma de Barros. Ornato e despojamento no mundo fabril. Anais do Museu Paulista, [S.l.], v. 19, n. 1, p. 11-80 , jun. 2011. ISSN 1982-0267. Disponível em: &lt;<a href="http://www.revistas.usp.br/anaismp/article/view/5542/7072">http://www.revistas.usp.br/anaismp/article/view/5542/7072</a>&gt; Acesso em Jun. 2014
 - KÜHL, Beatriz Mugayar. Preservação do Patrimônio Arquitetônico da Industrialização: Problema Teóricos de Restauro. São Paulo: Ateliê Editorial, 2008.
 - LIMA, Jorge da Cunha. Matarazzo: 100 anos. São Paulo: CL-A Comunicações, 1982.
 - MARCOVITCH, Jacques. Pioneiros e Empreendedores: A Saga do Desenvolvimento no Brasil, v.1, 2ª ed. rev. São Paulo: Editora da Universidade de São Paulo: Editora Saraiva, 2006.
 - SÃO PAULO (Estado). Resolução n°14, de 5 de junho de 1986. Autoriza o tombamento dos edifícios que especifica. Diário Oficial do Estado, 6 de junho de 1986, p. 22.
-- ZANCHETI, S; HIDAKA, L. A declaração de significância de exemplares da arquitetura moderna. Texto para discussão n. 57. Olinda: Centro de Estudos Avançados da Conservação Integrada, 2014. Disponível em: http://www.ct.ceci-br.org/ceci/br/publicacoes/59-textos-para-discussao/666-texto-para-discussao-v-57.html. Consulta em Janeiro de 2016.
+- ZANCHETI, S; HIDAKA, L. A declaração de significância de exemplares da arquitetura moderna. Texto para discussão n. 57. Olinda: Centro de Estudos Avançados da Conservação Integrada, 2014. Disponível em: &lt;<a href="http://www.ct.ceci-br.org/ceci/br/publicacoes/59-textos-para-discussao/666-texto-para-discussao-v-57.html">http://www.ct.ceci-br.org/ceci/br/publicacoes/59-textos-para-discussao/666-texto-para-discussao-v-57.html</a>&gt; Consulta em Janeiro de 2016.
 - PROCESSO CONDEPHAAT 24.622/86.
 - PROCESSO CONDEPHAAT 24.263/85.

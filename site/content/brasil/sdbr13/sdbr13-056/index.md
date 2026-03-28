@@ -71,4 +71,4 @@ palavras-chave:
 - HALBWACHS, M. A Memória Coletiva. São Paulo: Vértice, 1990.
 - HARVEY, D. Condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1998.
 - JEUDY, H-P. Espelho das cidades. Rio de Janeiro: Casa da Palavra, 2005.
-- WITTMANN, A. Arquitetura - Projetos de Hans Broos - Rio do Sul/SC. 2018. Disponível em: &lt;https://angelinawittmann.blogspot.com.br/2018/02/arquitetura-projetos-de-hans-broos-rio.html&gt;. Acessado em 26/02/2018.
+- WITTMANN, A. Arquitetura - Projetos de Hans Broos - Rio do Sul/SC. 2018. Disponível em: &lt;<a href="https://angelinawittmann.blogspot.com.br/2018/02/arquitetura-projetos-de-hans-broos-rio.html">https://angelinawittmann.blogspot.com.br/2018/02/arquitetura-projetos-de-hans-broos-rio.html</a>&gt; Acessado em 26/02/2018.

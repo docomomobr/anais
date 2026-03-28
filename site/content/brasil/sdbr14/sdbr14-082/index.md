@@ -57,7 +57,7 @@ palavras-chave:
 
 - ARTIGAS, João Batista Vilanova. A função social do arquiteto. In: ARTIGAS, Rosa; LIRA, José Tavares Correia de (org.). Caminhos da arquitetura. São Paulo: Cosac & Naify, 2004. p. 186-195.
 - ARTIGAS, João Batista Vilanova. Sobre escolas. Revista Acrópole. São Paulo, ano 32, n. 377, p. 10-13, 1970.
-- Bosi, Alfredo. “Economia e humanismo”. Revista Estudos Avançados. São Paulo, v. 26, n. 75, jul. 2012. Disponível em: &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103- 40142012000200017&lng=pt&nrm=iso&tlng=pt&gt;. Acesso em: 26/06/2021.
+- Bosi, Alfredo. “Economia e humanismo”. Revista Estudos Avançados. São Paulo, v. 26, n. 75, jul. 2012. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-</a>&gt; 40142012000200017&lng=pt&nrm=iso&tlng=pt&gt;. Acesso em: 26/06/2021.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva S.A., 1981.
 - BUFFA, Ester; Pinto, Gelson A. Arquitetura e Educação: organização do espaço e propostas dos grupos escolares paulistas, 1863/1971. São Carlos: EdUFSCar, 2002.
 - USP, 2015, mimeo. DIDI-HUBERMAN, Georges. O evitamento do vazio: Crença ou Tautologia. In: O Que Vemos, O Que Nos Olha. Tradução de Paulo Neves. São Paulo: Editora 34, 2010. p. 37-48.

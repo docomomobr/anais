@@ -59,7 +59,7 @@ palavras-chave:
 - BARNARD, Timothy; HIST, Peter ed.. South American Cinema. A critical biography 1915 – 1994. Austin: University of Texas Press, 1998.
 - BILHARINHO, Guido. Cem Anos de Cinema Brasileiro. Uberaba: Instituto Triangulino de Cultura, 1997.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1981.
-- FERRARESI, Carla Miucci. Vera Cruz: a Herança de um Sonho. Disponível em: &lt;http://www.mnemocine.com.br/cinema/historiatextos/carla3Vcruz.htm&gt;. Acesso em 15 ago. 2003, 15:23:12
+- FERRARESI, Carla Miucci. Vera Cruz: a Herança de um Sonho. Disponível em: &lt;<a href="http://www.mnemocine.com.br/cinema/historiatextos/carla3Vcruz.htm">http://www.mnemocine.com.br/cinema/historiatextos/carla3Vcruz.htm</a>&gt; Acesso em 15 ago. 2003, 15:23:12
 - GALVAO, Maria Rita. Burguesia e cinema: o caso Vera Cruz. Rio de Janeiro: Civilização Brasileira, 1981.
 - GEDULD, Harry M.. Authors on Film. Bloomington and London: Indiana University Press, 1972.
 - MARTINELLI, Sérgio. Vera Cruz: Imagens e historias do cinema brasileiro. Sao Paulo: @ books editora, 2003.

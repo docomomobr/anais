@@ -53,7 +53,7 @@ palavras-chave:
 
 ## Referências
 
-- CHAGAS, Maurício de Almeida. "Salvador, 1958 -1967: o Edifício Urpia, o Teatro Castro Alves e Lina Bo Bardi". São Paulo: Vitruvius, 2008. Disponível em http://www.vitruvius.com.br/arquitextos/arq100/arq100_01.asp. Acesso em 25 mar. 2009, 17:30:23. CONSTRUTORA NORBERTO ODEBRECHT S. A. Teatro Castro Alves. Salvador: Construtora Norberto Odebrecht, 1958.
+- CHAGAS, Maurício de Almeida. "Salvador, 1958 -1967: o Edifício Urpia, o Teatro Castro Alves e Lina Bo Bardi". São Paulo: Vitruvius, 2008. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq100/arq100_01.asp">http://www.vitruvius.com.br/arquitextos/arq100/arq100_01.asp</a>&gt; Acesso em 25 mar. 2009, 17:30:23. CONSTRUTORA NORBERTO ODEBRECHT S. A. Teatro Castro Alves. Salvador: Construtora Norberto Odebrecht, 1958.
 - FRAMPTON, Kenneth. Historia crítica de la arquitectura moderna. Barcelona: Gustavo Gili, 1993.
 - HENKET, Hubert-Jan. "From Image to essence Lessons from modernity". DOCOMOMO Journal, n. 14, p. 38, november, 1995.
 - HITCHCOCK, Henry-Russel. Die Architektur des 19. und 20. Jahrhunderts. München: Aries, 1994. KIRKEGAARD ASSOCIATES. Teatro Castro Alves Acoustic Report (relatório não publicado). Chicago, Illinois, 2008.

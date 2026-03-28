@@ -59,7 +59,7 @@ palavras-chave:
 - BOTELHO, Gustavo Schlindwein; AMORIM, Patricia. O Estilo Tipográfico Internacional nas capas da revista Módulo (1955-1965). 7th Information Design International Conference, 2015. Brasília.
 - DEVALLE, Verónica. Hacia la síntesis de las artes. El proyecto cultural y artístico de la revista Nueva Visión. Anclajes, n. 13, 2009.
 - HIESINGER, Kathryn B. Design Since 1945. Philadelphia: Philadelphia Museum of Art, 1984.
-- LARS MULLER. A5/06 HfG Ulm: Concise History of the Ulm School of Design. 2014. Disponível em &lt;http://www.lars- mueller-publishers.com/en/hfg-ulm&gt;. Acesso em março de 2016.
+- LARS MULLER. A5/06 HfG Ulm: Concise History of the Ulm School of Design. 2014. Disponível em &lt;<a href="http://www.lars-">http://www.lars-</a>&gt; mueller-publishers.com/en/hfg-ulm&gt;. Acesso em março de 2016.
 - MELO, Chico Homem.; RAMOS, Elaine. Linha do tempo do design gráfico no Brasil. São Paulo: Cosac Naify, 2011.
 - MOSQUERA, Carlos Méndez. Diseño gráfico argentino en el siglo XX. Buenos Aires: Ediciones Infinito, 2015.
 - NOBRE, Ana Luiza de Souza. Fios Cortantes: Projeto e produto, arquitetura e design no Rio de Janeiro (1950- 70). 2008. (Tese de Doutorado). Departamento de História, PUC-Rio, Rio de Janeiro.

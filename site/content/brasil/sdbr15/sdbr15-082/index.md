@@ -62,6 +62,6 @@ palavras-chave:
 ## Referências
 
 - BEHNE, Adolf. La construcción funcional moderna.1923. Edição e prefácio de José Ángel Sans Esquide. Tradução de Josep Giner i Olcina. Barcelona: Colegio de Ar-quitectos de Cataluña y Ediciones Serbal, 1994.
-- IMBRONITO, Maria Isabel; BARRETO, Marcos Mari (2020). Adolf Behne e a construção do Movimento Moderno – Parte 2. Arq.Urb, n.28, mai-ago 2020, p. 70–90. https://doi.org/10.37916/arq.urb.v28i.405
-- IMBRONITO, M. I. (2022). Adolf Behne e a construção do Movimento Moderno – Parte 3. Arq.Urb, n.34, mai- ago 2022, p.167-179. Disponível em: https://doi.org/10.37916/arq.urb.vi34.585
-- IMBRONITO, M. I., BARRETO, M. M. Adolf Behne e a construção do Moderno – Parte 1. Arq.Urb, (24), jan-abr 2019, p.167–179. https://doi.org/10.37916/arq.urb.vi24.64 Pesquisa conduzida com apoio do Instituto Anima.
+- IMBRONITO, Maria Isabel; BARRETO, Marcos Mari (2020). Adolf Behne e a construção do Movimento Moderno – Parte 2. Arq.Urb, n.28, mai-ago 2020, p. 70–90. &lt;<a href="https://doi.org/10.37916/arq.urb.v28i.405">https://doi.org/10.37916/arq.urb.v28i.405</a>&gt;
+- IMBRONITO, M. I. (2022). Adolf Behne e a construção do Movimento Moderno – Parte 3. Arq.Urb, n.34, mai- ago 2022, p.167-179. Disponível em: &lt;<a href="https://doi.org/10.37916/arq.urb.vi34.585">https://doi.org/10.37916/arq.urb.vi34.585</a>&gt;
+- IMBRONITO, M. I., BARRETO, M. M. Adolf Behne e a construção do Moderno – Parte 1. Arq.Urb, (24), jan-abr 2019, p.167–179. &lt;<a href="https://doi.org/10.37916/arq.urb.vi24.64">https://doi.org/10.37916/arq.urb.vi24.64</a>&gt; Pesquisa conduzida com apoio do Instituto Anima.

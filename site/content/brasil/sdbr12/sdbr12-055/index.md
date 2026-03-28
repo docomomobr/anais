@@ -62,7 +62,7 @@ palavras-chave:
 - GONÇALVES, Cristiane Souza. Experimentações em Diamantina. Um estudo sobre a atuação do SPHAN no conjunto urbano tombado 1838-1967. Tese de Doutorado– FAUUSP, São Paulo: 2010.
 - GUIMARAES, Cêça de. Lucio Costa: um certo arquiteto em incerto e secular roteiro. Rio de Janeiro: Relume Dumara, 1996.
 - Habitat. São Paulo, n.20, março.1955.
-- Instituto do Patrimônio Histórico e Artístico Nacional. Bens tombados de Diamantina.  Brasília, IPHAN, 2003. 84 p.
+- Instituto do Patrimônio Histórico e Artístico Nacional. Bens tombados de Diamantina. Brasília, IPHAN, 2003. 84 p.
 - KESSEL, Carlos. Arquitetura Neocolonial no Brasil: entre o pastiche e a modernidade. Rio de Janeiro: Jauá, 2008.
 - KUBITSCHEK, Juscelino. Correspondência a Augusto, 09/03/1941, Palace Hotel Poços de Caldas, In. MEMORIAL JK, 016/A.C.
 - KUBITSCHEK, Juscelino. O discurso de Diamantina. Rio de Janeiro, RJ: [s.n.], 1956.

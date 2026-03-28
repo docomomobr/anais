@@ -54,7 +54,7 @@ palavras-chave:
 ## Referências
 
 - CABRAL, N. ​A Universidade de São Paulo:​ modelos e projetos. São Paulo: Edusp, 2019.
-- CENTRO DE PRESERVAÇÃO CULTURAL. ​Carta patrimonial para a Universidade de São Paulo. 2017. Disponível em &lt;https://bit.ly/2EZUKI6&gt;. Acesso em junho de 2019.
+- CENTRO DE PRESERVAÇÃO CULTURAL. ​Carta patrimonial para a Universidade de São Paulo. 2017. Disponível em &lt;<a href="https://bit.ly/2EZUKI6">https://bit.ly/2EZUKI6</a>&gt; Acesso em junho de 2019.
 - GONÇALVES, J. ​A retórica da perda: ​discurso nacionalista e patrimônio cultural no Brasil. Rio de Janeiro: Editora da UFRJ, 2004.
 - GONÇALVES, J.; GUIMARÃES, R.; BITTAR, N (orgs.). ​A alma das coisas.​ Patrimônios, materialidade e ressonância. Rio de Janeiro: Mauad, 2013.
 - JUNQUEIRA, M. O Setor das Humanas como patrimônio arquitetônico e a história da arquitetura paulista. In: LIRA, J. (org.). ​Patrimônio construído da USP: ​preservação, gestão e memória. São Paulo: Edusp, 2014.
@@ -66,7 +66,7 @@ palavras-chave:
 - MAGNANI, J. Cidade Universitária: patrimônio e identidade. In: LANNA, A. ​Cidades universitárias: patrimônio urbanístico e arquitetônico da USP. São Paulo: Edusp: 2004.
 - MENESES, U. O museu na cidade ✕ a cidade no museu. Para uma abordagem histórica dos museus de cidade. ​Revista brasileira de História.​ São Paulo, v. 5, n. 8/9, p. 197–205, set. 1985/abr. 1985.
 - MENESES, U. A História, Cativa da Memória? Para um Mapeamento da Memória no Campo das Ciências Sociais. ​Revista do Instituto de Estudos Brasileiros,​ n. 34, p. 9–23, 31 dez. 1992.
-- MENESES, U. O campo do patrimônio cultural: uma revisão de premissas. In: ​Anais do I Fórum Nacional do Patrimônio Cultural.​ Ouro Preto: IPHAN, 2009. Disponível em: &lt;http://portal.iphan.gov.br/uploads/ckfinder/arquivos/MENESES_Ulpiano_O-campo-do-patrimonio-cult ural---uma-revisaode -premissas.pdf&gt;. Acesso em: março de 2019
+- MENESES, U. O campo do patrimônio cultural: uma revisão de premissas. In: ​Anais do I Fórum Nacional do Patrimônio Cultural.​ Ouro Preto: IPHAN, 2009. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/ckfinder/arquivos/MENESES_Ulpiano_O-campo-do-patrimonio-cult">http://portal.iphan.gov.br/uploads/ckfinder/arquivos/MENESES_Ulpiano_O-campo-do-patrimonio-cult</a>&gt; ural---uma-revisaode -premissas.pdf&gt;. Acesso em: março de 2019
 - MENESES, U. Repovoar o patrimônio ambiental urbano. ​Observatório Itaú Cultural,​ n. 22, mai.–nov./2017.
 - NASCIMENTO, F.; BOTAS, N.; Habitação estudantil e conjuntos residenciais na USP: o CRUSP da pré-fabricação à preservação. In: LIRA, J. (org.). ​Patrimônio construído da USP: ​preservação, gestão e memória. São Paulo: Edusp, 2014.
 - TOJI, S. O patrimônio cultural brasileiro e a antropologia enquanto fazer técnico: a expressão de um Estado contraditório e os dilemas no "uso da diversidade”. ​Revista CPC,​ n. 12, p. 55-76, 1 out. 2011.

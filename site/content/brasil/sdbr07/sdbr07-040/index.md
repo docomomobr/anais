@@ -58,8 +58,8 @@ palavras-chave:
 - CAVALCANTI, Lauro. Sérgio Bernardes – herói de uma tragédia moderna. Rio de Janeiro: Relume/Dumara, 2004. (Perfis do Rio).
 - GRUNOW, Evelise. SERAPIÃO, Fernando. Fernando Chacel. Projeto Design, São Paulo, n.305, p.6-8, junho, 2005.
 - MONTANER, Josep Maria. Depois do movimento moderno: arquitetura da segunda metade do século XX. Barcelona: Gustavo Gili, 2001.
-- NOBRE, Ana Maria. Sérgio Bernardes: a subversão do possível. São Paulo: Vitruvius, 2002. Disponível em: &lt; http://www.vitruvius.com.br/ac/ac009/ac009_2.asp &gt; Acesso em 14 jul. 2007, 10:22:00.
+- NOBRE, Ana Maria. Sérgio Bernardes: a subversão do possível. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/ac/ac009/ac009_2.asp">http://www.vitruvius.com.br/ac/ac009/ac009_2.asp</a>&gt; &gt; Acesso em 14 jul. 2007, 10:22:00.
 - PARENTE, Francisco Josênio C. O Ceará dos coronéis (1945 a 1986). In: Sousa, Simone de (Org.). Uma nova história do Ceará. Fortaleza: Edições Demócrito Rocha, 2000.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 2a ed. São Paulo: Edusp, 2002.
 - SEGRE, Roberto. Sérgio Bernardes (1919-2002): entre o regionalismo e o high tech. São Paulo: Vitruvius, 2002. Disponível em:
-- &lt; http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp &gt; Acesso em 14 jul. 2007, 11:07:00.
+-  &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp">http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp</a>&gt; &gt; Acesso em 14 jul. 2007, 11:07:00.

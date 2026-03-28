@@ -69,7 +69,7 @@ palavras-chave:
 - Anais IX Congresso Brasileiro de Arquitetos. Instituto de Arquitetos do Brasil – Departamento São Paulo. 1976.
 - Anais X Congresso Brasileiro de Arquitetos – Arquitetura Brasileira Após Brasília, Brasília. Volume II. 1979.
 - BASTOS, M. A. J.; ZEIN, R. V. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2011. 429p.
-- BORGES, V. Reputação, mercado e território: o caso dos arquitetos. Sociologia, Problemas e Práticas [Online], 74 | 2014, posto online no dia 06 fevereiro 2014, consultado no dia 12 julho 2018. URL: http://journals.openedition.org/spp/1457.
+- BORGES, V. Reputação, mercado e território: o caso dos arquitetos. Sociologia, Problemas e Práticas [Online], 74 | 2014, posto online no dia 06 fevereiro 2014, consultado no dia 12 julho 2018. URL: &lt;<a href="http://journals.openedition.org/spp/1457">http://journals.openedition.org/spp/1457</a>&gt;
 - CERASOLI, J. F. A formação do campo conceitual de estudos sobre a cidade: (im)possibilidades de uma abordagem biográfica In: Urbanistas e Urbanismo no Brasil: entre trajetórias e biografias [org.] FARIA, R. de; CERASOLI, J.; LIRA, F. São Paulo: Alameda, 2014. 308p.
 - DEDECCA, P. G. Redes e Instituição: considerações historiográficas a partir da atuação do IAB. In: Simpósio Arquitetura e Escrita: aproximações historiográficas. Caderno de Resumos. FAUUSP: 2018.
 - GUTIERREZ, E. J. B. A Associação Brasileira de Ensino de Arquitetura e os seus primeiros tempos (1973-1985). In: MONTEIRO, A. M. R. G. et al. A construção de um novo olhar sobre o ensino de arquitetura e urbanismo no Brasil: os 40 anos da Associação Brasileira de Ensino de Arquitetura e Urbanismo. Brasília: ABEA, 2013. 168p.

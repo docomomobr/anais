@@ -76,7 +76,7 @@ palavras-chave:
 - DEPARTAMENTO de Estradas e Rodagem. Estudo de segurança de pedestres no Eixo Rodoviário. Distrito Federal, 2006.
 - HALL, Peter. Cidades do amanhã. Editora Perspectiva S.A. 4º edição. São Paulo, 2016.
 - LUIS, Sérgio Duarte da Silva, A construção de Brasília. p-14. Goiânia, 1997. UFG. Universidade Federal de Goiás.
-- MOHIRTA, Ana Laura. Natural Lighting and Psychological Barriers in Underground Space. Faculdade de Arquitectura da Oxford Brookes University. Oxford. 2002. Disponível em &lt; http://www.jornaldainstalacao.com.br/img/artigos/Lumiere_161.pdf&gt;
+- MOHIRTA, Ana Laura. Natural Lighting and Psychological Barriers in Underground Space. Faculdade de Arquitectura da Oxford Brookes University. Oxford. 2002. Disponível em &lt;<a href="http://www.jornaldainstalacao.com.br/img/artigos/Lumiere_161.pdf">http://www.jornaldainstalacao.com.br/img/artigos/Lumiere_161.pdf</a>&gt;
 - OLIVEIRA, Maria Manuel. Na intervenção de Brasília: modelar o chão. Brasília: Universidade de Brasília, 2014
 - RODRIGUES, Andressa Novaes. Debaixo das Asas: intervenções artísticas nas passagens subterrâneas de Brasília. Dissertação de Mestrado. Universidade de Brasília. Faculdade de Comunicação. Publicidade e propaganda. Brasília, 2014.
 - YLINEN, Jaakko. Spatial Planning in Subsurface Architecture. Technical Research Centre of Finland, Geotechnical Laboratory. Egito. 2016.

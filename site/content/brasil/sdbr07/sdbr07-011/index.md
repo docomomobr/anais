@@ -75,7 +75,7 @@ palavras-chave:
 - MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora,
 - NAME, Daniela. Poucos vestígios do autor. Prédio na Gamboa projetado pelo arquiteto foi deturpado. O Globo, Rio de Janeiro, 14 de julho de 2002.
 - PATIJN, Wytze; OVERMEIRE, Katrien. Restoration of the Kiefhoek in Rotterdam (J.J.P. Oud, 1925-30). In: I International Conference DOCOMOMO, 1990, Eidhoven. Conference Proceedings... Eidhoven: DOCOMOMO, 1991, p.282-286.
-- PREFEITURA DA CIDADE DO RIO DE JANEIRO. Decreto nº 26.712 de 11 de julho de 2006. Determina o tombamento provisório dos bens que menciona. Disponível em: &lt;http://doweb.rio.rj.gov.br/sdcgi-bin/om_isapi.dll?&softpage=_infomain&infobase=12072006.nfo&gt; Acesso em 12 dez. 2006.
+- PREFEITURA DA CIDADE DO RIO DE JANEIRO. Decreto nº 26.712 de 11 de julho de 2006. Determina o tombamento provisório dos bens que menciona. Disponível em: &lt;<a href="http://doweb.rio.rj.gov.br/sdcgi-bin/om_isapi.dll?&softpage=_infomain&infobase=12072006.nfo">http://doweb.rio.rj.gov.br/sdcgi-bin/om_isapi.dll?&softpage=_infomain&infobase=12072006.nfo</a>&gt; Acesso em 12 dez. 2006.
 - SAMPAIO, Maria Ruth (org.). A promoção privada de habitação econômica e a arquitetura moderna, 1930-1964. São Carlos: RiMa, 2002.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900 / 1990. São Paulo: Editora da Universidade de São Paulo, 2002.
 - SILVA, Helga Santos da. Arquitetura moderna para habitação popular: a apropriação dos espaços no Conjunto Residencial Mendes de Moraes. 2006. Dissertação (Mestrado em Arquitetura), Faculdade de Arquitetura e Urbanismo, Universidade Federal do Rio de Janeiro, Rio de Janeiro.

@@ -53,7 +53,7 @@ palavras-chave:
 
 - ABREU. José Guilherme. Arte pública e lugares de memória. Revista da Faculdade de Letras CIÊNCIAS E TÉCNICAS DO PATRIMÓNIO. Porto, 2005 I Série vol. IV, pp. 215-234.
 - ARISTÓTELES. Poética. São Paulo: Nova Cultural, 1996.
-- BRASIL. Lei nº 11.904, de 14/01/1998. Institui o Estatuto de Museus e dá outras providências. Disponível em: &lt; http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm&gt;. Acesso em 05/10/2017.
+- BRASIL. Lei nº 11.904, de 14/01/1998. Institui o Estatuto de Museus e dá outras providências. Disponível em: &lt;<a href="http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm">http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11904.htm</a>&gt; Acesso em 05/10/2017.
 - CORREIO BRAZILIENSE. Museu da Cidade reabre mudado. Brasília, 07/09/86, p. 09.
 - COSTA, Lucio. Relatório do Plano Piloto de Brasília. 1957. In: Governo do Distrito Federal. Relatório do Plano Piloto de Brasília. Brasília: GDF, p. 18-34, 1991.
 - IPHAN. Patrimônio no DF: bens tombados. Brasília: Superintendência do Instituto do Patrimônio Histórico e Artístico Nacional no Distrito Federal, 2009.
@@ -64,7 +64,7 @@ palavras-chave:
 - PRESIDÊNCIA DA REPÚBLICA. Coordenação de Relações Públicas. Catálogo do Palácio da Alvorada. Brasília. Brasília, circa 2006.
 - QUEIROZ, Rita de Cássia Ribeiro de. A informação escrita: do manuscrito ao texto virtual. In: VI CINFORM - Encontro Nacional de Ciência da Informação, 2005, Salvador.
 - RICOEUR, Paul. Tempo e narrativa 3. O tempo narrado. São Paulo: WMF Martins Fontes, 1997.
-- Site da Presidência da República. Palácios e Residências Oficiais. Disponível em: &lt;  http://www2.planalto.gov.br/presidencia/palacios-e-residencias-oficiais/palacio-da-alvorada/galeria-de-imagens/palacio-da-alvorada-12.jpg/view&gt; Acesso em 05/10/2017.
+- Site da Presidência da República. Palácios e Residências Oficiais. Disponível em: &lt;<a href="http://www2.planalto.gov.br/presidencia/palacios-e-residencias-oficiais/palacio-da-alvorada/galeria-de-imagens/palacio-da-alvorada-12.jpg/view">http://www2.planalto.gov.br/presidencia/palacios-e-residencias-oficiais/palacio-da-alvorada/galeria-de-imagens/palacio-da-alvorada-12.jpg/view</a>&gt; Acesso em 05/10/2017.
 - ÚLTIMA HORA. Na hora H José Mauro, a frase do Alvorada. Rio de Janeiro, 16/03/1960.
 - ÚLTIMA HORA. Niemeyer responde às críticas sobre arquitetura de Brasília, Moacir Werneck de Castro. Rio de Janeiro, 11/03/1960.
 - REVISTA BRASÍLIA, v.2. n 17, maio, 1958.

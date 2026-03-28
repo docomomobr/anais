@@ -43,7 +43,7 @@ authors:
     familyname: "Vidal"
     orcid: "0000-0001-5014-1301"
 doi: "10.5281/zenodo.19073934"
-zenodo_pdf_url: "https://zenodo.org/records/19073935/files/sdbr09-117.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285582/files/sdbr09-117.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:

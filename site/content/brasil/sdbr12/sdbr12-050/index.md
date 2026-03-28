@@ -60,7 +60,7 @@ palavras-chave:
 - SALMONI, Anita, DEBENEDETTI, Emma. Arquitetura Italiana em São Paulo. São Paulo: Perspectiva, 2007.193 p.
 - SCHWARTZMAN. Simon. et al; Tempos de Capanema. São Paulo: Paz e Terra. 2000. 403 p.
 - SILVA, Joana. Mello de Carvalho.
-- CASTRO, Ana Claudia Veiga. Inventar o Passado, construir o Futuro: São Paulo entre nacionalismos e cosmopolitismos nas primeiras décadas do século 20. Pós. Revista do Programa de Pós-Graduação da FAUUSP, São Paulo, v.21, n. 36, p. 24-56, 2012. DOI: http://dx.doi.org/10.1590/S0101-33002007000300009.
+- CASTRO, Ana Claudia Veiga. Inventar o Passado, construir o Futuro: São Paulo entre nacionalismos e cosmopolitismos nas primeiras décadas do século 20. Pós. Revista do Programa de Pós-Graduação da FAUUSP, São Paulo, v.21, n. 36, p. 24-56, 2012. DOI: &lt;<a href="http://dx.doi.org/10.1590/S0101-33002007000300009">http://dx.doi.org/10.1590/S0101-33002007000300009</a>&gt;
 - A arte e o Fascismo, Correio Paulistano, São Paulo, p.7, 19 jun. 1938.
 - CERQUIGLINI, O. A cidade Universitária de Roma. Correio Paulistano, São Paulo, 21 abr. 1936, p.7.
 - MOURÃO, Abner. Uma reportagem na Itália: A cidade do Cinema. Correio Paulistano, São Paulo, 31 dez. 1938, p.3.

@@ -53,8 +53,8 @@ palavras-chave:
 
 ## Referências
 
-- ANELLI, Renato. O Museu de Arte de São Paulo, o museu transparente e a dessacralização da arte. Arquitextos, São Paulo, set., 2009. Disponível em: http://www.vitruvius.com.br/.../arq112_01.asp. Acesso em 03/01/2010
-- ALMEIDA, Eneida de et al. Território de contato : Ladeira da Misericórdia, Salvador, Bahia. Revista AU, São Paulo: Pini, nº 171, 2008, jun. Disponível em http://www.revistaau.com.br/arquitetura- urbanismo/171/artigo91995-4.asp. Acesso em 28/05/2013.
+- ANELLI, Renato. O Museu de Arte de São Paulo, o museu transparente e a dessacralização da arte. Arquitextos, São Paulo, set., 2009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/.../arq112_01.asp">http://www.vitruvius.com.br/.../arq112_01.asp</a>&gt; Acesso em 03/01/2010
+- ALMEIDA, Eneida de et al. Território de contato : Ladeira da Misericórdia, Salvador, Bahia. Revista AU, São Paulo: Pini, nº 171, 2008, jun. Disponível em &lt;<a href="http://www.revistaau.com.br/arquitetura-">http://www.revistaau.com.br/arquitetura-</a>&gt; urbanismo/171/artigo91995-4.asp. Acesso em 28/05/2013.
 - BARDI, Lina Bo. Ladeira da Misericórdia. In: Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro: IPHAN, nº. 23, 1994.
 - BARDI, Lina Bo. Critério proposto para a restauração do “Solar do Unhão”, 1962, Arquivo da 7ª SR
 - IPHAN, Salvador, BA. (documento datilografado)
@@ -64,13 +64,13 @@ palavras-chave:
 - CONGRESSO INTERNACIONAL DE ARQUITETURA MODERNA (CIAM). Carta de Atenas. 4º Congresso Internacional de Arquitetura Moderna, nov., 1933.
 - CONSELHO INTERNACIONAL DE MONUMENTOS E SÍTIOS (ICOMOS). Carta de Veneza. 2º Congresso Internacional de Arquitesto e técncios de Monumentos Históricos, , mai, 1964.
 - FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.
-- FUÃO, Fernando Freitas. Brutalismo a última trincheira do movimento moderno. Arquitextos: Vitruvius, ano 01, dez 2000. Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/ 01.007/949. Acesso em 28/05/2013.
-- KÜHL, Beatriz Mugayar. História e Ética na Conservação e na Restauração de Monumentos Históricos. Revista CPC USP, São Paulo, v.1, n.1, p. 16-40, nov. 2005/ abr. 2006. Disponível em http://www.usp.br/cpc/v1/php/wf07_revista_capa.php?id_revista=2. Acesso em 23/01/2010.
+- FUÃO, Fernando Freitas. Brutalismo a última trincheira do movimento moderno. Arquitextos: Vitruvius, ano 01, dez 2000. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/">http://www.vitruvius.com.br/revistas/read/arquitextos/</a>&gt; 01.007/949. Acesso em 28/05/2013.
+- KÜHL, Beatriz Mugayar. História e Ética na Conservação e na Restauração de Monumentos Históricos. Revista CPC USP, São Paulo, v.1, n.1, p. 16-40, nov. 2005/ abr. 2006. Disponível em &lt;<a href="http://www.usp.br/cpc/v1/php/wf07_revista_capa.php?id_revista=2">http://www.usp.br/cpc/v1/php/wf07_revista_capa.php?id_revista=2</a>&gt; Acesso em 23/01/2010.
 - LEAL, Claudia Feierabend Baeta. (org.) As missões da Unesco no Brasil: Michel Parent. Rio de Janeiro: Flama Ramos/IPHAN, 2008. NAÇÕES UNIDAS. Recomendação de Nova Delhi. 9º Sessão da Conferência Geral das Nações Unidas, nov, 1956.
 - PEREIRA, Juliano. Lina Bo Bardi. Bahia, 1958-1964. Uberlândia: EDUFU, 2007.
-- REBELLO, Yopanan C. P. et al. Invenção: popula e erudito. Revista AU, São Paulo: Pini, nº 141, 2005, dez. Disponível em http://www.revistaau.com.br/arquitetura-urbanismo/141/invencao-popular-e-erudito-22272- 1.asp. Acesso em 28/05/2013.
+- REBELLO, Yopanan C. P. et al. Invenção: popula e erudito. Revista AU, São Paulo: Pini, nº 141, 2005, dez. Disponível em &lt;<a href="http://www.revistaau.com.br/arquitetura-urbanismo/141/invencao-popular-e-erudito-22272-">http://www.revistaau.com.br/arquitetura-urbanismo/141/invencao-popular-e-erudito-22272-</a>&gt; 1.asp. Acesso em 28/05/2013.
 - REVISTA CARAMELO. FAUUSP. Caramelo, São Paulo, FAUUSP, nº 6, 1993. Especial Lina Bo Bardi.
 - RUBINO, Silvana; GRINOVER, Marina. Lina por escrito: textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009. SANT’ANNA, Márcia. Da cidade–monumento à cidade-documento. A trajetória da norma de preservação de áreas urbanas no Brasil (1937-1990). Dissertação (Mestrado). Faculdade de Arquitetura, Universidade Federal da Bahia, Salvador, 1995
 - SERT, José Luis. Can our cities survive?. Londres: Oxford University Press, 1944.
 - SOCIEDADE DAS NAÇÕES. Carta de Atenas. Escritório Internacional dos Museus, 1ª Conferência Internacional para Conservação dos Monumentos Históricos, out., 1931.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos: Vitruvius, ano 07, mai 2007. Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243. Acesso em 28/05/2013.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos: Vitruvius, ano 07, mai 2007. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; Acesso em 28/05/2013.

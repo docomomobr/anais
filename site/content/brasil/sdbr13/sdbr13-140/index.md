@@ -45,7 +45,7 @@ authors:
     familyname: "Amaral"
     orcid: "0000-0002-6827-3502"
 doi: "10.5281/zenodo.19077761"
-zenodo_pdf_url: "https://zenodo.org/records/19077762/files/sdbr13-140.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285652/files/sdbr13-140.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -74,7 +74,7 @@ palavras-chave:
 - ILLINOIS Institute Dismantles Canopy. The New York Times, New York, 12 set. 1985.
 - LIBRARY improvements underway. INTERCOM, Illinois Institute of Technology, Chicago, 19 dez. 1984.
 - NETSCH, W. Oral History of Walter Netsch. Interviewed by Betty J. Blum, compiled under the auspices of the Chicago Architects Oral History Project, the Enrest R. Graham Study Center for Architectural Drawings. Chicago: The Art Institute of Chicago, 1997. 474 p.
-- SALVO, S. A intervenção na arquitetura contemporânea como tema emergente do restauro. Revista Pós, São Paulo, n. 23, jun. 2008. Disponível em: &lt;http://www.revistas.usp.br/posfau/article/view/43564/47186&gt;. Acesso em: 12 mai. 2019.
+- SALVO, S. A intervenção na arquitetura contemporânea como tema emergente do restauro. Revista Pós, São Paulo, n. 23, jun. 2008. Disponível em: &lt;<a href="http://www.revistas.usp.br/posfau/article/view/43564/47186">http://www.revistas.usp.br/posfau/article/view/43564/47186</a>&gt; Acesso em: 12 mai. 2019.
 - SCHULZE, F. Illinois Institute of Technology: the campus guide: an architecture tour. New York: Princeton Architectural Press, 2005. 111 p.
 - WATKIN, D. A History of Western Architecture. 6. ed. London: Laurence King Publishing, 2015. 736 p.
 - WHAT happened to the library. Technology News, Illinois Institute of Technology, Chicago, 16 set. 1985.

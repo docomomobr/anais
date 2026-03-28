@@ -68,7 +68,7 @@ palavras-chave:
 - Costa, Lucio Lúcio Costa: Sobre Arquitetura. Alberto Xavier, org. Porto Alegre: Editora UniRitter.
 - Costa, Lucio “A arquitetura dos Jesuitas no Brasil” in Arquitetura Religiosa. Textos Escolhidos da Revista do Instituto do Patrimônio Histórico e Artístico Nacional. São Paulo: MC/FAUUSP/IPHAN, p.91.
 - Espagne, Michel Les transferts culturals franco-allemands. Paris: PUF, 1999.
-- Falbel, Anat. "Arquitetos imigrantes no Brasil uma questão historiográfica". Anais 6 DOCOMOMO arquitetura e urbanismo. Niteroi, Universidade Federal Fluminense, p. 1-20. http://www.docomomo.org.br/seminario%206%20pdfs/Anat%20Falbel.pdf
+- Falbel, Anat. "Arquitetos imigrantes no Brasil uma questão historiográfica". Anais 6 DOCOMOMO arquitetura e urbanismo. Niteroi, Universidade Federal Fluminense, p. 1-20. &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Anat%20Falbel.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Anat%20Falbel.pdf</a>&gt;
 - Falbel, Anat. "Immigrant Architects in Brazil. A Historiographical Issue". DOCOMOMO Journal, Paris, v. 34, p. 58-65.
 - Focillon, Henri. The life of forms. Nova York: Zone Books, 1992.
 - Focillon, Henri The Art of the West I Romanesque Art. London: Phaidon Press, 1963
@@ -85,7 +85,7 @@ palavras-chave:
 - Kubler, George The Shape of Time. New Haven: Yale University Press, 2008.
 - Kubler, George. "Architectural Historians before the Fact", in The Architectural Historian in America, Elisabeth Blair MacDougall, edit. Washington: University Press of New England, 1990, p. 191-197.
 - Landauer, Carl. "'Mimesis' and Erich Auerbach's Self-Mythologizing" in German Studies Review, vol.11, n.1 (fev., 1988).
-- Leal, Ernesto Castro. A idéia de Confederação Luso-Brasileira nas primeiras décadas do século XX. In http://lagosdarepublica.wikidot.com/a-ideia-de-confederacao-luso-brasileira-nas-primeiras-decada.
+- Leal, Ernesto Castro. A idéia de Confederação Luso-Brasileira nas primeiras décadas do século XX. In &lt;<a href="http://lagosdarepublica.wikidot.com/a-ideia-de-confederacao-luso-brasileira-nas-primeiras-decada">http://lagosdarepublica.wikidot.com/a-ideia-de-confederacao-luso-brasileira-nas-primeiras-decada</a>&gt;
 - Levi, Albert William. "Kunstgeschichte als Geistesgeschichte: The lesson of Panofsky" in Journal of Aesthetic Education, vol.20, n.4, 1986, p. 70-83.
 - Ligtelijn, Vincent, Ed. Aldo van Eyck works. Basel: Birkhäuser Publishers, 1999.
 - McLemore, S. Dale. "Simmel's 'Stranger'; A Critique of the Concept", in The Pacific Sociological Review, 13, 2, 1970, p. 86-94.

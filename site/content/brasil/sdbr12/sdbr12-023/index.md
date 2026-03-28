@@ -54,9 +54,9 @@ palavras-chave:
 ## Referências
 
 - CAMARGO, Mônica Junqueira de Princípios de Arquitetura Moderna na obra de Oswaldo Arthur Bratke. 2000. 187 f. Tese (Doutorado  em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2000.
-- CHASSIM, José. Não se chocam o belo e o funcional. Casa e Jardim, São Paulo,  n.52, p.36-40, maio 1959.
+- CHASSIM, José. Não se chocam o belo e o funcional. Casa e Jardim, São Paulo, n.52, p.36-40, maio 1959.
 - COHEN, Jean-Louis. The Future of Architecture since 1889. London: Phaidon, 2012
-- COLQUHOUN, Alan Modern Architecture.  Oxford: Oxford University Press, 200??
+- COLQUHOUN, Alan Modern Architecture. Oxford: Oxford University Press, 200??
 - CONSELHO C e J.: more bem na casa feita para você. Casa e Jardim, São Paulo, n.41, p.8-9, mar./abr.1958a., ambientes de estar e jantar integrados através de móveis vazados.
 - CONSELHO C e J. Casa e Jardim, São Paulo, n.42, p.5-6, maio1958b., Edificio de apartamentos duplex em terreno de 5,10x40m.
 - CONSELHO C e J.: more bem na casa feita para você. Casa e Jardim, São Paulo, n.43, p.9-10 e 12, jun.1958c., Dormitório de casal com closed (sic).

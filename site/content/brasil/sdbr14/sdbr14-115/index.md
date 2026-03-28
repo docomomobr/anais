@@ -62,11 +62,11 @@ palavras-chave:
 - CESTARO, Lucas Ricardo. A atuação de Lebret e da SAGMACS no Brasil (1947 – 1964). Ideias, Planos e contribuições. 2015. 377 f. Tese (Doutorado). Instituto de Arquitetura e Urbanismo da Universidade de São Paulo, São Carlos.
 - COSTA, Sabrina Studart Fontenele. Relações entre o traçado urbano e os edifícios modernos no centro de São Paulo. Arquitetura e Cidade (1938/1960). 2010. 274 f. Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo. de 2021
 - CUNHA, Cláudia Dos Reis. O Patrimônio Cultural da Cidade de Sorocaba: análise de uma trajetória. 2005. 177 f. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo.
-- GHIRALDINI, Milton C. Urbanismo em Sorocaba. Revista Acrópole. São Paulo, Ano 26, n. 312, p. 44-50. nov. 1964. Disponível em: &lt;http://www.acropole.fau.usp.br/edicao/312/49&gt;. Acesso em: 17 de mai. 2021.
+- GHIRALDINI, Milton C. Urbanismo em Sorocaba. Revista Acrópole. São Paulo, Ano 26, n. 312, p. 44-50. nov. 1964. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/312/49">http://www.acropole.fau.usp.br/edicao/312/49</a>&gt; Acesso em: 17 de mai. 2021.
 - MATTOS, Thiago Pedrosa. Modernização Urbana em Sorocaba (1914-1921). 2017. 146 f. Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Engenharia Civil, Arquitetura e Urbanismo, Campinas.
 - MESTRE, João Luís Bengla. A arquitetura moderna em Sorocaba: décadas de 50, 60 e 70. 2014. 200 f. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo.
-- MOSTEIRO de Santa Clara: um Rico Patrimônio de 200 anos. Diário de Sorocaba, Sorocaba, 20 de ago. 2011. Disponível em: &lt;http://www.diariodesorocaba.com.br/noticia/219706&gt;. Acesso em: 17 de mai. 2021.
+- MOSTEIRO de Santa Clara: um Rico Patrimônio de 200 anos. Diário de Sorocaba, Sorocaba, 20 de ago. 2011. Disponível em: &lt;<a href="http://www.diariodesorocaba.com.br/noticia/219706">http://www.diariodesorocaba.com.br/noticia/219706</a>&gt; Acesso em: 17 de mai. 2021.
 - SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 2014.
 - TEIXEIRA, Luiz Eduardo Fontoura [et al.]. Itinerário das galerias e marquises modernas de Florianópolis: arquitetura produzindo novas relações urbanas. In: SEMINARIO INTERNACIONAL DE INVESTIGACIÓN EN
 - URBANISMO. "VII SEMINARIO INTERNACIONAL DE INVESTIGACIÓN EN URBANISMO, BARCELONA-
-- MONTEVIDEO, JUNIO 2015". Barcelona: DUOT, 2015. Disponível em: &lt; https://upcommons.upc.edu/handle/2117/81333&gt;. Acesso em: 17 de mai. 2021. de 2021
+- MONTEVIDEO, JUNIO 2015". Barcelona: DUOT, 2015. Disponível em: &lt;<a href="https://upcommons.upc.edu/handle/2117/81333">https://upcommons.upc.edu/handle/2117/81333</a>&gt; Acesso em: 17 de mai. 2021. de 2021

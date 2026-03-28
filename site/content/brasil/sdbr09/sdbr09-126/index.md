@@ -77,5 +77,5 @@ palavras-chave:
 - ZEIN, Ruth Verde. (2010). Artigas Pop-Cult. Considerações sobre a cabana primitiva, a casa pátio e quatro colunas de madeira. Seminário Docomomo Brasil, 2010.
 - ZEIN, Ruth Verde. (2001). O lugar da crítica: ensaios oportunos de arquitetura. Porto Alegre: Centro Universitário Ritter dos Reis.
 - ZEIN, Ruth Verde. (2009). Habitat, Lina Bo Bardi y la Crítica de Arquitectura no alineada. Summa + Buenos Aires, v. 101, p. 32-41.
-- Arquitetura Brutalista. http://www.arquiteturabrutalista.com.br/fichas- tecnicas/DW%201956-19/1956-19-fichatecnica.htm; acesso em setembro de 2010.
+- Arquitetura Brutalista. &lt;<a href="http://www.arquiteturabrutalista.com.br/fichas-">http://www.arquiteturabrutalista.com.br/fichas-</a>&gt; tecnicas/DW%201956-19/1956-19-fichatecnica.htm; acesso em setembro de 2010.
 - VILLAC, Maria Isabel. (2002). La construción de la mirada. Naturaleza, Ciudad y Discurso en la Arquitectura de Paulo Archias Mendes da Rocha. Tese de Doutorado, Cataluña.

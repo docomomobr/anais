@@ -58,7 +58,7 @@ palavras-chave:
 - BENÉVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Ed. Perspectiva, 2001.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Ed. Perspectiva, 2002.
 - CALVANTI, Lauro. Quando o Brasil era Moderno. Guia de arquitetura 1928-1960. Ed. Aeroplano. Rio de Janeiro, 2001.
-- LUCCAS, Luís Henrique Haas. Arquitetura moderna e brasileira: o constructo de Lucio Costa como sustentação. Arquitextos. [S.l.]: Vitruvius, Ano 06, Set de 2005. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437&gt;. Acesso em: 16 de jan. 2011.
+- LUCCAS, Luís Henrique Haas. Arquitetura moderna e brasileira: o constructo de Lucio Costa como sustentação. Arquitextos. [S.l.]: Vitruvius, Ano 06, Set de 2005. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437">http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437</a>&gt; Acesso em: 16 de jan. 2011.
 - MELO, Alcília Afonso de Albuquerque; FEITOSA, Ana Rosa Negreiros. Documentos de Arquitetura Moderna no Piauí. Teresina: Gráfica Halley, 2010. 310 p.: il.
 - MELO, Alcília Afonso de Albuquerque. Arquitetura em Teresina: 150 anos - da origem à contemporaneidade. Teresina: Halley, 2002.
 - NASCIMENTO, Francisco Alcides do Nascimento. A Cidade Sob o Fogo. Modernização e violência policial em Teresina (1937-1945) Teresina. Fundação Monsenhor Chaves, 2002.

@@ -73,13 +73,13 @@ palavras-chave:
 - CAMPOS, P. E. F. de. Industrialização da Construção e Argamassa Armada: perspectivas de desenvolvimento. Boletim Técnico da Escola Politécnica da USP, Departamento de Engenharia de Construção Civil, Universidade de São Paulo, São Paulo, 1991.
 - CAMPOS, P. Argamassa Armada, Vol. 1: produção industrializada, aplicação e processo de fabricação com telas soldadas. São Paulo: IBTS, 1994.
 - CAMPOS, P. Da argamassa armada ao microconcreto de alto desempenho: perspectivas de desenvolvimento para a pré-fabricação leve. Tese (Doutorado em Arquitetura e Urbanismo). Universidade de São Paulo, São Paulo, 2002.
-- CANTALICE II, A. de S. C. Descomplicando a tectônica: três arquitetos e uma abordagem. Tese de Doutorado. Universidade Federal de Pernambuco, Recife, 2015. Carta de Veneza. Disponível em: http://portal.iphan.gov.br/uploads/ cfinder/arquivos/ Carta%20de% 20Veneza%201964.pdf.
+- CANTALICE II, A. de S. C. Descomplicando a tectônica: três arquitetos e uma abordagem. Tese de Doutorado. Universidade Federal de Pernambuco, Recife, 2015. Carta de Veneza. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/">http://portal.iphan.gov.br/uploads/</a>&gt; cfinder/arquivos/ Carta%20de% 20Veneza%201964.pdf.
 - CERÁVOLO, A. L. Arquitetura, restauração e poética brutalista: Ladeira da Misericórdia (1987-9), Salvador-BA. In: DOCOMOMO, 10., 2013, Curitiba. Anais, Curitiba, 2013.
 - CHAGAS, M. de A.; SAMPAIO, A. H. L. Modernismo e tradição: Lina Bo Bardi na Bahia. 2002. 244 p. Dissertação (Mestrado) – Universidade Federal da Bahia, Faculdade de Arquitetura, 2002.
 - DO VALE, M. H. C. João Filgueiras Lima (Lelé): Arquitetura Pública e Urbanismo em Salvador (1979-81 e 1986-88). Dissertação (Mestrado em Arquitetura e Urbanismo). Universidade de São Paulo, São Paulo, 2016.
 - DO VALE, M. Programa urbano, projeto e fabricação: a obra de João Filgueiras Lima (Lelé) em Salvador. In: XVII Encontro Nacional da Associação Nacional de Pós-Graduação e Pesquisa em Planejamento Urbano e Regional, 2017, São Paulo. Anais... São Paulo: ANPUR, 2017.
 - EKERMAN, S. K. L’Oeuvre Multiforme de Lelé/Lelé ́s Multifaceted Work. LArchitecture d’Aujourd Hui, v. 396, p. 64–71, 2013.
-- EKERMAN, S. Um quebra-cabeça chamado Lelé. Arquitextos, São Paulo, ano 06, n. 064.03, Vitruvius, set. 2005 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423&gt;.
+- EKERMAN, S. Um quebra-cabeça chamado Lelé. Arquitextos, São Paulo, ano 06, n. 064.03, Vitruvius, set. 2005 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423">http://www.vitruvius.com.br/revistas/read/arquitextos/06.064/423</a>&gt;
 - EKERMAN, S. K. Tecnologia e transformação/pré-fabricação para reestruturação de bairros populares e assistência técnica à autoconstrução. 2018. 333 f. Tese (Doutorado) – Universidade Federal da Bahia, Faculdade de Arquitetura, 2018.
 - FERRAZ, M. C. Lina Bo Bardi. 2.ed. São Paulo, SP: Instituto Lina Bo e P. M. Bardi, 1996. 334 p.
 - FERRO, S. A História da Arquitetura Vista do Canteiro: Três aulas de Sergio Ferro. São Paulo:

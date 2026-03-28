@@ -61,5 +61,5 @@ palavras-chave:
 - SIQUEIRA, Mariana. “Novo Mineirão”. AU 229 (abr. 2013): 48-55.
 - ZEIN, Ruth Verde, Arquitetura Brasileira, Escola Paulista e as Casas de Paulo Mendes da Rocha, Dissertação de Mestrado pelo Propar – UFRGS, 2000.
 - ZEIN, Ruth Verde, Arquitetura da Escola Paulista Brutalista, 1953-1973, Tese de Doutoramento pelo Propar – UFRGS, 2005.
-- ZEIN, Ruth Verde, “A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70”. Arquitextos, São Paulo, 07. 076, Vitruvius, sep 2006. http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318.
-- ZEIN, Ruth Verde, “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)”. Arquitextos, São Paulo, 07. 084, Vitruvius, may 2007. http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243.
+- ZEIN, Ruth Verde, “A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70”. Arquitextos, São Paulo, 07. 076, Vitruvius, sep 2006. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318">http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318</a>&gt;
+- ZEIN, Ruth Verde, “Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado)”. Arquitextos, São Paulo, 07. 084, Vitruvius, may 2007. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt;

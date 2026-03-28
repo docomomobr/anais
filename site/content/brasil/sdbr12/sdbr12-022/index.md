@@ -52,7 +52,7 @@ palavras-chave:
 
 - —Andrade, Manuel Correia de. Secretaria da Fazenda: Um Século de História. Recife: Secretaria da Fazenda de Pernambuco, 1991.
 - —Cavalcanti, Lauro. Dezoito Graus • Rio Moderno, Uma História do Palácio Capanema. Rio de Janeiro: Língua Geral, 2014.
-- —Bezerra Baltar, Antonio. Depoimento • @http://www.cecieducacao.net.br/acervobaltar/entrevistas
+- —Bezerra Baltar, Antonio. Depoimento • @ &lt;<a href="http://www.cecieducacao.net.br/acervobaltar/entrevistas">http://www.cecieducacao.net.br/acervobaltar/entrevistas</a>&gt;
 - —Coutinho, Evaldo. O Espaço da Arquitetura. Recife: Universidade Federal de Pernambuco, 1970.
 - —Costa, Lucio. Lucio Costa: Registro de uma Vivência. São Paulo: Empresa das Artes, 1995.
 - —Diniz, Fernando Moreira (Org.). Arquitetura Moderna no Norte e Nordeste do Brasil: Universalidade e Diversidade. Recife: Fasa, 2007.

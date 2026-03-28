@@ -68,12 +68,12 @@ palavras-chave:
 - BORIANI, Maurizio. Un paradosso per il restauro: gli edifici del Movimento Moderno. In: GUARISCO, G. (org). A-letheia - L´architettura moderna, conoscenza, tutela, conservazione. n.4. Florença: Alinea, 1994. p. 90-92.
 - BORSI, Franco. Il restauro del moderno: problemi e interrogativi. In: GUARISCO, G. (org). A-letheia - L´architettura moderna, conoscenza, tutela, conservazione. n.4. Florença: Alinea, 1994. p. 6-11.
 - BRENDLE, B; BRENDLE, K. The restoration of Le Corbusier Doppelhaus in Weibenhofsiedlung, Stuttgart. In: III CIRMRE – CONGRESSO INTERNACIONAL NA RECUPERAÇÃO, MANUTENÇÃO E RESTAURAÇÃO DE EDIFÍCIOS, 2010, Rio de Janeiro. Anais ... Rio de Janeiro, 2010. s/p.
-- CANZIANI, Andrea.  La reconstruzione del quartiere de Kiefhoel de J.j.oud a Rotterdam. La copia, la materia e l´immagine. In: BORIANI, Maurizio. La sfida del moderno. L´Architettura del XX secolo tra conservazione e innovazione. Milão: Editora Unicopli, 2003. p.101-114.
+- CANZIANI, Andrea. La reconstruzione del quartiere de Kiefhoel de J.j.oud a Rotterdam. La copia, la materia e l´immagine. In: BORIANI, Maurizio. La sfida del moderno. L´Architettura del XX secolo tra conservazione e innovazione. Milão: Editora Unicopli, 2003. p.101-114.
 - CAPOMOLLA, Rinaldo. Il palazzo dele Poste di Adalberto Libera a Roma. Questioni generali e aspetti operativi nel restauro del moderno. In: BORIANI, Maurizio. La sfida del moderno. L´Architettura del XX secolo tra conservazione e innovazione. Milão: Editora Unicopli, 2003. p.179-190.
 - CARBONARA, Giovanni. Avvicinamento al restauro. Nápoles: Liguori, 1997.
 - CARBONARA, Giovanni. L´immagine oltre la fotografia. Ananke, Milão, n.53, p. 146-148, jan.2008.
 - CARBONARA, Giovanni. Il restauro del moderno come problema di metodo. In: Parametro, n.266, ano XXXVI, out./nov. 2006. p.21-25.
-- CARBONARA, Giovanni.  Alcuni temi di restauro per il nuovo secolo. In: CARBONARA, G. (org.) Trattato di restauro architettonico. Turim: UTET, 2007-2008. p.1-47.
+- CARBONARA, Giovanni. Alcuni temi di restauro per il nuovo secolo. In: CARBONARA, G. (org.) Trattato di restauro architettonico. Turim: UTET, 2007-2008. p.1-47.
 - CARRERA, Marianna. Una nota sull´influenza della fotografia nel restauro dell´architettura moderna. Ananke, Milão, n.53, p. 134-140, jan.2008.
 - CARUGHI, Ugo. Entrevista concedida a Ana Carolina Bierrenbach. Nápoles, 24 jan. 2017.
 - CARUGHI, Ugo. Il contemporaneo nell´idea di tutela. In: CARUGHI, Ugo (org). La tutela dell´architettura contemporanea. Turim: Umberto Allemandi, 2012.
@@ -81,7 +81,7 @@ palavras-chave:
 - CASCIATO, M. Modern Architecture is durable: using change to preserve. In: van den Heuvel, et all. (org). THE CHALLENGE OF CHANGE. DEALING WITH THE LEGACY OF THE MODERN MOVEMENT, 10, Delft. Anais…, Delft, IOS Press, 2008, p. xiii-xiv.
 - CASCIATO, Maristella. Cambiare per conservare. In: PALAZZOTTO, Emanuele (org). CONVEGNO INTERNAZIONALE: IL RESTAURO DEL MODERNO IN ITALIA E IN EUROPA, 11-12, 2007, Palermo. Anais... Palermo, FRANCOANGELI, 2007. p.39-42.
 - CASCIATO, Maristella. I confine del moderno, un confronto aperto fra limiti e limite. In: CASCIATO, M; MORANTI, S; PORETTI, S. (Org.) ARCHITETTURA MODERNA IN ITALIA. DOCUMENTAZIONE E CONSERVAZIONE, 1999, Roma. Anais... Roma: EDILSTAMPA, 1999. p.27-36.
-- CASIELLO, Stella; Pane, Andrea; Russo, Valentina. Modernist boroughs: conservation of historical values and urban desing. In: CRISAN, Radica et all. (org). WORKSHOP CONSERVATION/REGENERATION – THE MODERNIST NEIGHBOURHOOD, 2011, Bucareste.  Anais… Bucareste, 2011. p.231-249.
+- CASIELLO, Stella; Pane, Andrea; Russo, Valentina. Modernist boroughs: conservation of historical values and urban desing. In: CRISAN, Radica et all. (org). WORKSHOP CONSERVATION/REGENERATION – THE MODERNIST NEIGHBOURHOOD, 2011, Bucareste. Anais… Bucareste, 2011. p.231-249.
 - CASSIANI, Alberto. Moderno, troppo Moderno. Restauro o conservazione di un passato (troppo) prossimo. In: BORIANI, Maurizio. (org) La sfida del moderno. L´Architettura del XX secolo tra conservazione e innovazione. Milão: Editora Unicopli, 2003. p.19-32.
 - CIUCCI, Giorgio. Il restauro del Moderno. Confronti – il restauro del moderno. Nápoles, n.1, p.10-21, 2012. Entrevista concedida a Stefanno Gizzi.
 - CORNOLDI, Adriano.Restauri non conservativi. La ricerca delle regole. In: FERLENGA, A; VASSALLO, E; SCHELLINO, F. Antico e Nuovo: Architetture e architettura. Veneza, Il Poligrafo, 2004. p. 261-284.
@@ -106,7 +106,7 @@ palavras-chave:
 - MARCONI, Paolo. Materia e significato. La questione del restauro architettonico. Bari/Roma: Editori Laterza, 1999.
 - MARINO, Bianca. Il restauro dopo e durante i “Moderni”: um “autentico” valore di novità. Confronti – il restauro del moderno. Nápoles, n.1, p.110-118, 2012. DOI: 10.4481/conf033
 - MARINO, Bianca. La caverna delle idee. Notazione sull´autentico tra antico e nuovo nel restauro del Novecento. In: FERLENGA, A; VASSALLO, E; SCHELLINO, F. Antico e Nuovo: Architetture e architettura. Veneza, Il Poligrafo, 2004. p. 443-458.
-- MARKHAL, James. In Stuttgart, renovation of a 1927 Bauhaus Project. New York Times, 17/05/1984. Disponível em: &lt;http://www.nytimes.com/1984/05/17/garden/in-stuttgart-renovation-of-a-1927-bauhaus-project.html&gt; . Acesso em jun. 2017.
+- MARKHAL, James. In Stuttgart, renovation of a 1927 Bauhaus Project. New York Times, 17/05/1984. Disponível em: &lt;<a href="http://www.nytimes.com/1984/05/17/garden/in-stuttgart-renovation-of-a-1927-bauhaus-project.html">http://www.nytimes.com/1984/05/17/garden/in-stuttgart-renovation-of-a-1927-bauhaus-project.html</a>&gt; . Acesso em jun. 2017.
 - MORABITO, Giovanni. Specifità del restauro del moderno: strumenti e metodi di intervento. In: GIMMA, Maria Giuseppina (org). Il restauro dell´architettura moderna. Viterbo: Editora BetaGamma, 1993. p.145-153.
 - PICONE, Renata. Il Moderno ala “prova del tempo”. Restauro e deperibilità delle architetture italiana del XX secolo. Confronti – il restauro del moderno. Nápoles, n.1, p.52-60, 2012. DOI: 10.4481/conf025
 - PORETTI, Sergio. Il modo di construire: un filo di continuità nell´architettura italiana del Novecento. In: CASCIATO, M; MORANTI, S; PORETTI, S. (Org.) ARCHITETTURA MODERNA IN ITALIA. DOCUMENTAZIONE E CONSERVAZIONE, 1999, Roma. Anais... Roma: EDILSTAMPA, 1999, p.121-128.
@@ -125,4 +125,4 @@ palavras-chave:
 - TORSELLO, Paolo. La dialettica restauro/progetto. Ananke, Milão, n.19, p. 29-33, set. 1997.
 - VITTORINI, Rosalia. Note sulla tutela e la conservazione dell´architettura italiana del XX secolo.
 - PICONE, Renata. Il Moderno ala “prova del tempo”. Restauro e deperibilità della architettura del XX secolo. Confronti – il restauro del moderno. Nápoles, n.1, p.62-70, 2012. DOI: 10.4481/conf026
-- VITTORINI, Rosalia. Conversazione con Rosalia Vittorini, presidente di DOCOMOMO Italia Onlus. Entrevista concedida a Francesca Rosa. Hevelius´webzine, ago. 2013. Disponível em: &lt; http://www.hevelius.it/webzine/leggi.php?codice=427&gt;. Acesso em: 02 jan. 2017.
+- VITTORINI, Rosalia. Conversazione con Rosalia Vittorini, presidente di DOCOMOMO Italia Onlus. Entrevista concedida a Francesca Rosa. Hevelius´webzine, ago. 2013. Disponível em: &lt;<a href="http://www.hevelius.it/webzine/leggi.php?codice=427">http://www.hevelius.it/webzine/leggi.php?codice=427</a>&gt; Acesso em: 02 jan. 2017.

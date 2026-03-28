@@ -79,8 +79,8 @@ palavras-chave:
 - MONKEN, Luis César, Apud. MONAN, Maira. Destaques de Arquitetura. In Revista ADEMI, ano X, n. 101, abr. 1983, p. 14
 - MINDLIN, Henrique. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora, 1999.
 - PORTO, Severiano Mário. A longa trajetória, da efervescência cultural do Rio a Manaus. In Re- vista Projeto 83, São Paulo: Projeto Editores Associados, janeiro de 1986, p. 46.
-- PORTO, Severiano Mário Vieira de Magalhães. Arquitetura e regionalismo. In: Encontro Regional de Tropicologia, 2, 1985, Recife. Anais... Recife: Massangana, 1989. p. 43-54. Disponível no endere- ço http://www.tropicologia.org.br/conferencia/1985arquitetura_regionalismo.html Acesso em: 09 out. 2003.
-- SABBAG, Haifa. Severiano Porto e a arquitetura regional, Editoria AC – Arquitetura.Crítica, n. 12, set. 2003 &lt;http://www.vitruvius.com.br/ac/ac012/ac012.asp&gt;; Acesso em: 09 out. 2003.
+- PORTO, Severiano Mário Vieira de Magalhães. Arquitetura e regionalismo. In: Encontro Regional de Tropicologia, 2, 1985, Recife. Anais... Recife: Massangana, 1989. p. 43-54. Disponível no endere- ço &lt;<a href="http://www.tropicologia.org.br/conferencia/1985arquitetura_regionalismo.html">http://www.tropicologia.org.br/conferencia/1985arquitetura_regionalismo.html</a>&gt; Acesso em: 09 out. 2003.
+- SABBAG, Haifa. Severiano Porto e a arquitetura regional, Editoria AC – Arquitetura.Crítica, n. 12, set. 2003 &lt;<a href="http://www.vitruvius.com.br/ac/ac012/ac012.asp">http://www.vitruvius.com.br/ac/ac012/ac012.asp</a>&gt; Acesso em: 09 out. 2003.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1999. 224p.
 - XAVIER, Alberto (org). Arquitetura moderna brasileira : depoimento de uma geração. Editora Pini, São Paulo, 1987.
 - XAVIER, Alberto. Arquitetura moderna paulistana. Editora Pini, São Paulo, 1983.

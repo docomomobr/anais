@@ -56,7 +56,7 @@ palavras-chave:
 - COSTA, J. G. Dias. “Actualismo”. Revista da Semana. 07 de dez. de 1929. Fundo FC/CEDAE.
 - GERSON, Brasil. De Theatro e Arquitetura. Diário da Noite. São Paulo. s/d. Fundo FC/CEDAE.
 - JEANNERET, Charles-Edouard [LE CORBUSIER]; OZENFANT, Amadeé. Depois do cubismo. São Paulo: Cosac Naify, 2005, p.43.
-- LE CORBUSIER.  Por uma arquitetura. São Paulo: Perspectiva, 2013, p.7.
+- LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 2013, p.7.
 - URBANO. O Futuro do Palácio. VI-Modernismo. Diário Nacional. São Paulo. 08 de fev. de 1928. Fundo FC/CEDAE
 - SCHWARZ, Roberto. Que horas são?: ensaios. São Paulo: Companhia das Letras, 1987, p. 108.
 - WARCHAVCHIK, Gregori. Acerca da Arquitetura Moderna. In: XAVIER, Alberto (org.). Arquitetura Moderna Brasileira: Depoimento de uma Geração. São Paulo: ABEA/FVA/PINI, 1987.

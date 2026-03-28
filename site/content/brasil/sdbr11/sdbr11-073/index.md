@@ -42,7 +42,7 @@ authors:
     familyname: "Soares"
     orcid: "0000-0002-4182-7528"
 doi: "10.5281/zenodo.19074677"
-zenodo_pdf_url: "https://zenodo.org/records/19074678/files/sdbr11-073.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285612/files/sdbr11-073.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
@@ -65,7 +65,7 @@ palavras-chave:
 - COLOMINA, Beatriz; BUCKLEY, Craig. Clip Stamp Fold. The Radical Architecture of little magazines 196X to 197X. Barcelona: Actar, 2010. (tradução nossa)
 - CROMPTON, Dennis. Interview with Dennis Crompton - Archigram. Clip Stamp Fold. COLOMINA, B.;BUCKLEY, C., et al. Barcelona: Actar 2005. (tradução nossa)
 - DEDECCA, P. G. Aproximações, diferenciações e embates entre a produção do Rio de Janeiro e de São Paulo Síntese e paradoxo das Artes, 2009. Rio de Janeiro.
-- FRAMPTON, Keneth. Corbu, Constructed. Architect Magazine, 2008. Disponível em: &lt; http://www.architectmagazine.com/design/corbu-construed_o&gt;. Acesso em março de 2016. (tradução nossa)
+- FRAMPTON, Keneth. Corbu, Constructed. Architect Magazine, 2008. Disponível em: &lt;<a href="http://www.architectmagazine.com/design/corbu-construed_o">http://www.architectmagazine.com/design/corbu-construed_o</a>&gt; Acesso em março de 2016. (tradução nossa)
 - FRANCISCATO, Carlos Eduardo. A fabricação do presente: como o jornalismo reformulou a experiência do tempo nas sociedades ocidentais. São Cristóvão: Editora UFS, 2005.
 - GIRBAL-BLACHA, Noemí; QUATTROCCHI-WOISSON, Diana. Cuando opinar es actuar: Revistas argentinas del siglo XX. Buenos Aires: Academia Nacional de la Historia, 1999.
 - LAAK, Dirk van. Planung. Geschichte und Gegenwart des Vorgriffs auf die Zukunft. Geschichte und Gesellschaft 34 (3), 2008, p. 305-326.
@@ -79,4 +79,4 @@ palavras-chave:
 - TINEM, Nelci. As revistas de arquitetura como documentos pré-canônicos. I Encontro Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo, 2010. Rio de Janeiro.
 - TORRENT, Horacio. Presentación. In: TORRENT, H. (Ed.). Revistas de arquitectura: Representaciones urbanas y paradigmas disciplinares. Santiago de Chile: T6 Ediciones, 2011. (tradução nossa)
 - WAISMAN, Marina. O Interior da História: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.
-- ZEIN, Ruth Verde. Da Crítica Alheia à teoria própria. Arquitextos, n. 151.04, 2012.Disponível em: &lt; http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608 &gt;. Acesso em março de 2016.
+- ZEIN, Ruth Verde. Da Crítica Alheia à teoria própria. Arquitextos, n. 151.04, 2012.Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608">http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608</a>&gt; &gt;. Acesso em março de 2016.

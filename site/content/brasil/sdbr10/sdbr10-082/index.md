@@ -58,7 +58,7 @@ palavras-chave:
 
 - Anderson, Stanford. “Peter Behrens and a new architecture for the twentieth century.” Cambridge; Mass.:
 - MIT Press, 2000. 429p. Bötticher, Carl G.W. “The Principles of the Hellenic and Germanic Way of Building – with regard to their application to our present way of building”. In: HERMANN, W. (Org.). In What Style Should we Build? The German Debate on Architectural Style. USA: The Getty Center Publication Programs, 1992. p.147 – 167.
-- Collins, Peter. Tectonics. “Journal of Architectural Education” (1947- 1974), Vol. 15, No. 1 (Spring, 1960), pp. 31-33 Published by: Blackwell Publishing on behalf of the Association of Collegiate Schools of Architecture, Inc. Stable URL: http://www.jstor.org/stable/1424135 Accessed: 28/08/2008 15:37.
+- Collins, Peter. Tectonics. “Journal of Architectural Education” (1947- 1974), Vol. 15, No. 1 (Spring, 1960), pp. 31-33 Published by: Blackwell Publishing on behalf of the Association of Collegiate Schools of Architecture, Inc. Stable URL: &lt;<a href="http://www.jstor.org/stable/1424135">http://www.jstor.org/stable/1424135</a>&gt; Accessed: 28/08/2008 15:37.
 - Conduru, Roberto. “Tectônica Tropical”. In: Arquitetura Moderna Brasileir .
 - ANDREOLI, Elisabetta; FORTY, Adrien.. Londres: Phaidon, 2004. 239p. Fernandes, Irene Rodrigues. “Atividades Produtivas na Paraíba”. João Pessoa: Ed. Universitária / UFPB, 1999. 106p. (Coleção História Temática da Paraíba; v.2).
 - Frampton, K. “Studies in tectonic culture”. 2ed. Massachusetts: Mit Press, 1995. 421p.

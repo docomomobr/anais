@@ -60,8 +60,8 @@ palavras-chave:
 - MESQUITA, Ruy Ribeiro de. Plano de Expansão da Cidade de São Luís. São Luís: 1958.
 - PECHMAN, Robert; RIBEIRO, Luis Cezar de Queiroz (Org). Cidade, Povo e Nação: gênese do urbanismo moderno. Rio de Janeiro: Civilização Brasileira, 1996.
 - PESSÔA, José Simões de Belmont (Org.). Lucio Costa: documentos de trabalho. Rio de Janeiro: Iphan, 1999.
-- PFLUEGER, Grete Soares. Arquitetos Peregrinos e Modernidades em São Luís e Alcântara - MA. Revista Jatobá, Goiânia, v. 2, e. 66347, p. 1-17, 24 nov. 2020. Disponível em: https://www.revistas.ufg.br/revjat/article/view/66347/35759. Acesso em: 20 dez. 2020.
+- PFLUEGER, Grete Soares. Arquitetos Peregrinos e Modernidades em São Luís e Alcântara - MA. Revista Jatobá, Goiânia, v. 2, e. 66347, p. 1-17, 24 nov. 2020. Disponível em: &lt;<a href="https://www.revistas.ufg.br/revjat/article/view/66347/35759">https://www.revistas.ufg.br/revjat/article/view/66347/35759</a>&gt; Acesso em: 20 dez. 2020.
 - SÁ NETO, Oton Gonçalves de. Arquitetura e Urbanismo pós 1950: episódios do processo de urbanização modernista em são luís. 132 f. Monografia (Graduação) - Curso de Curso de Arquitetura e Urbanismo, Universidade Estadual do Maranhão, São Luís, 2019.
-- SOMEKH, Nadia; CAMPOS, Candido Malta. Desenvolvimento Local e Projetos Urbanos. Arquitextos, São Paulo, ano 05, nº. 059.01, abr. 2005, Vitruvius. Disponível em: https://vitruvius.com.br/revistas/read/arquitextos/05.059/470. Acesso em: 30 maio 2021.
+- SOMEKH, Nadia; CAMPOS, Candido Malta. Desenvolvimento Local e Projetos Urbanos. Arquitextos, São Paulo, ano 05, nº. 059.01, abr. 2005, Vitruvius. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/05.059/470">https://vitruvius.com.br/revistas/read/arquitextos/05.059/470</a>&gt; Acesso em: 30 maio 2021.
 - ZEIN, Ruth Verde. Quando documentar não é o suficiente: obras, datas, reflexões e construções teóricas. In:
 - ZEIN, Ruth Verde. Leituras Críticas. São Paulo: Romano Guerra Editora, 2018. Cap. 5. p. 104-113. (Pensamento na América Latina; 5).

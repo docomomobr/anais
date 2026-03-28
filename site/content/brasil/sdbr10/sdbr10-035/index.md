@@ -65,21 +65,21 @@ palavras-chave:
 - ALMEIDA, A. A. Intervenção em patrimônio arquitetônico moderno: um estudo de três casas paulistas. 2013. 246f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2013.
 - BASTOS, M. A; ZEIN, R. V. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2011.
 - BANHAM, R. The new brutalism: ethic or aesthetic?Londres: Architectural Press, 1966.
-- BOMENY, H. O Brasil de JK - educação e desenvolvimento: o debate nos anos 1950. Disponível em: http://cpdoc.fgv.br/producao/dossies/JK/artigos/Educacao/Anos1950, acesso em: 22/07/13.
+- BOMENY, H. O Brasil de JK - educação e desenvolvimento: o debate nos anos 1950. Disponível em: &lt;<a href="http://cpdoc.fgv.br/producao/dossies/JK/artigos/Educacao/Anos1950">http://cpdoc.fgv.br/producao/dossies/JK/artigos/Educacao/Anos1950</a>&gt; acesso em: 22/07/13.
 - CHING, F. Dicionário visual de arquitetura. São Paulo: Martins Fontes, 1999.
 - CURTIS, W. J. R. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008.
 - FERREIRA, F. C. Procedimento de avaliação de conforto ambiental e eficiência energética aplicado a um caso típico da Rede Estadual de Escolas Públicas de Minas Gerais. 2006. 251f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade Federal de Minas Gerais, Belo Horizonte, 2006.
 - FGV. Fundação Getúlio Vargas. Centro de Documentação e História Contemporânea do Brasil. Dicionário Histórico-Biográfico Brasileiro 1930-1983. Rio de Janeiro: Forense Universitária/FGV/CPDOC/FINEP, 1984.
 - FRAMPTON, K. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.
-- FUÃO, F. F. Brutalismo - a última trincheira do movimento moderno. In: Arquitextos – Vitruvius, ano 1, dez. 2000, disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949, acesso em: 16/07/13.
+- FUÃO, F. F. Brutalismo - a última trincheira do movimento moderno. In: Arquitextos – Vitruvius, ano 1, dez. 2000, disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949">http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949</a>&gt; acesso em: 16/07/13.
 - GOLDEMBERG, J. O repensar da educação no Brasil. Estudos Avançados, São Paulo, v. 17, n. 18, mai./ago. 1993, p. 65-137.
 - HATJE, G. (Ed.).Encyclopaedia of Modern Architecture. Londres: Thames and Hudson, 1963.
 - JENCKS, C. Modern Movements in Architecture. Londres: Penguin, 1973.
-- MINAS GERAIS. Decreto 5458, de 15 de julho de 1958. Institui a campanha de reparo e restauração dos prédios escolares do estado. Belo Horizonte: Diário do Executivo de Minas Gerais, 16 jul. 1968. Disponível em: http://hera.almg.gov.br, acesso em: 26/05/13.
-- MINAS GERAIS. Lei n° 4817, de 11 de junho de 1968. Dispõe sobre a construção, ampliação, reparo e conservação dos prédios escolares do Estado e dá outras providências. Belo Horizonte: Diário do Executivo de Minas Gerais, 12 jun. 1968. Disponível em: http://hera.almg.gov.br, acesso em: 26/05/13.
-- MINAS GERAIS. Secretaria de Estado de Transportes e Obras Públicas de Minas Gerais. Acervo Setop. Disponível em: http://www.acervosetop.mg.gov.br/setop/, acesso em: 30/08/12.
+- MINAS GERAIS. Decreto 5458, de 15 de julho de 1958. Institui a campanha de reparo e restauração dos prédios escolares do estado. Belo Horizonte: Diário do Executivo de Minas Gerais, 16 jul. 1968. Disponível em: &lt;<a href="http://hera.almg.gov.br">http://hera.almg.gov.br</a>&gt; acesso em: 26/05/13.
+- MINAS GERAIS. Lei n° 4817, de 11 de junho de 1968. Dispõe sobre a construção, ampliação, reparo e conservação dos prédios escolares do Estado e dá outras providências. Belo Horizonte: Diário do Executivo de Minas Gerais, 12 jun. 1968. Disponível em: &lt;<a href="http://hera.almg.gov.br">http://hera.almg.gov.br</a>&gt; acesso em: 26/05/13.
+- MINAS GERAIS. Secretaria de Estado de Transportes e Obras Públicas de Minas Gerais. Acervo Setop. Disponível em: &lt;<a href="http://www.acervosetop.mg.gov.br/setop/">http://www.acervosetop.mg.gov.br/setop/</a>&gt; acesso em: 30/08/12.
 - PEVSNER, N., FLEMING, J., HONOUR, H., Dicionário Enciclopédico de Arquitetura. Tradução, revisão e ampliação de Carlos Kronauer/FAU/UFRJ. Rio de Janeiro: Artenova, 1977.
 - TAVARES, M. C. Ruy Ohtake: arquitetura residencial dos anos 1960-1970. 2005. 162f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
-- THEODORO, J. A construção da cidadania e da escola nas décadas de 1950 e 1960. Disponível em: http://www.historia.fflch.usp.br/sites/historia.fflch.usp.br, acesso em: 22/07/13.
+- THEODORO, J. A construção da cidadania e da escola nas décadas de 1950 e 1960. Disponível em: &lt;<a href="http://www.historia.fflch.usp.br/sites/historia.fflch.usp.br">http://www.historia.fflch.usp.br/sites/historia.fflch.usp.br</a>&gt; acesso em: 22/07/13.
 - ZEIN, R. V. A Arquitetura da Escola Paulista Brutalista 1953-1973. 2005. 358f. Tese (Doutorado em Arquitetura e Urbanismo) – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
-- ZEIN, R. Arquitetura Paulista Brutalista 1953-1973. Disponível em: http://www.arquiteturabrutalista.com.br/index1port.htm, acesso em 20/04/13.
+- ZEIN, R. Arquitetura Paulista Brutalista 1953-1973. Disponível em: &lt;<a href="http://www.arquiteturabrutalista.com.br/index1port.htm">http://www.arquiteturabrutalista.com.br/index1port.htm</a>&gt; acesso em 20/04/13.

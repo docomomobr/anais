@@ -69,4 +69,4 @@ palavras-chave:
 - WOHLHAGE, Konrad; DE RUIJTER, Michel; PERRAULT, Dominique; HEMPRICH, Norbert; TOPHOF, Julia;
 - NOEBEL, Walter; SPIEKERMANN, Erik; WILSON, Peter; MACKAY, David; LANGHOF, Cristoph; VON
 - GERKAN, Meinhard; SAUERBRUCH, Matthias; HÄMER, Hardt-Waltherr; KALTENBRUNNER, Robert; e
-- POSENER, Julius. Berlin, Berlin – Architektur für ein neues Jahrhundert. Berlin: Nishen, 1995. Interbau Berlin 1957. Amtlicher Katalog der Internationalen Bauausstellung. Berlin, 1957. Site de Internet: http://www.berliner-hansaviertel.de/
+- POSENER, Julius. Berlin, Berlin – Architektur für ein neues Jahrhundert. Berlin: Nishen, 1995. Interbau Berlin 1957. Amtlicher Katalog der Internationalen Bauausstellung. Berlin, 1957. Site de Internet: &lt;<a href="http://www.berliner-hansaviertel.de/">http://www.berliner-hansaviertel.de/</a>&gt;

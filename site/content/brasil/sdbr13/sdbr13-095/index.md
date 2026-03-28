@@ -65,14 +65,14 @@ palavras-chave:
 - AMORIM, Luis Manuel do Eirado. Obituário arquitetônico. Pernambuco Modernista. Recife: UFPE, 2007.
 - ANDRADE JUNIOR, Nivaldo Vieira de; ANDRADE, Maria Rosa de Carvalho; FREIRE, Raquel Neimann da Cunha. O IPHAN e os desafios da preservação do patrimônio moderno: a aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos. In: 8º de Janeiro, 2009.
 - ARGAN, Giulio Carlo. El Arte Moderno. Del Iluminismo a los movimientos contemporáneos. Madrid: Ediciones Akal, 1991.
-- AZEVEDO, Paulo Ormindo de. IPAC-BA: Inventário de Proteção do Acervo Cultural da Bahia. Disponível em: &lt; http://www.arqpop.arq.ufba.br/node/175&gt;. Acesso em: 04.07.2017.
+- AZEVEDO, Paulo Ormindo de. IPAC-BA: Inventário de Proteção do Acervo Cultural da Bahia. Disponível em: &lt;<a href="http://www.arqpop.arq.ufba.br/node/175">http://www.arqpop.arq.ufba.br/node/175</a>&gt; Acesso em: 04.07.2017.
 - AZEVEDO, Paulo Ormindo de. Por um inventário do patrimônio cultural brasileiro. In: REVISTA DO
-- PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Rio de Janeiro, n o.22, 1987. Disponível em: &lt;http://portal. iphan.gov.br/uploads/publicacao/RevPat22_m.pdf&gt; Acesso em: 31.05.2017.
+- PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Rio de Janeiro, n o.22, 1987. Disponível em: &lt;<a href="http://portal">http://portal</a>&gt; iphan.gov.br/uploads/publicacao/RevPat22_m.pdf&gt; Acesso em: 31.05.2017.
 - BLOCH, Marc. A Terra e Seus Homens. Agricultura e vida rural nos séculos XVII e XVIII. São Paulo: EDUSC, 2001.
 - BOITO, Camillo. Os Restauradores. Kühl, Paulo Mugayar (tradução); Kühl, Beatriz Mugayar (tradução e apresentação). 3. ed. São Paulo: Ateliê Editorial, 2008.
 - BONDUKI, Nabil; KOURY, Ana Paula (org). Os pioneiros da habitação social no Brasil. V.2. Inventário da produção pública no Brasil entre 1930 e 1964. São Paulo: Edições Sesc, 2014.
 - BRANDI, Cesare. Teoria da Restauração. Kühl, Beatriz Mugayar (trad.); Carbonara, Giovanni (apres.). São Paulo: Ateliê Editorial, 2004.
-- BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Disponível em: &lt;http://www.jusbrasil.com.br/topicos/10647933/artigo-216-da-constituicao-federal-de-1988&gt;. Acesso em: 30.07.2014.
+- BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Disponível em: &lt;<a href="http://www.jusbrasil.com.br/topicos/10647933/artigo-216-da-constituicao-federal-de-1988">http://www.jusbrasil.com.br/topicos/10647933/artigo-216-da-constituicao-federal-de-1988</a>&gt; Acesso em: 30.07.2014.
 - CARTA DE ATENAS (1931). In: CURY, Isabelle (org.). Cartas Patrimoniais. 3.ed. Rio de Janeiro:
 - IPHAN, 2004. 408p.
 - CARTA DE BURRA (1980). In: CURY, Isabelle (org.). Cartas Patrimoniais. 3.ed. Rio de Janeiro:
@@ -85,26 +85,26 @@ palavras-chave:
 - SERRA, João B. (tradução e notas). Disponível em: &lt;www.cidadeimaginaria.org/pc/ChastelInventaire.pdf&gt;. Acesso em: 16.05.2017.
 - CHOAY, Francoise. A alegoria do patrimônio. São Paulo: UNESP, 2001.
 - DE CERTEAU, Michel. A Escrita da História. Maria de Lourdes Menezes (trad.). Rio de Janeiro: Forense Universitária, 1982.
-- DECLARAÇÃO DE AMSTERDÃ (1975). In: CURY, Isabelle (org.). Cartas Patrimoniais. 3.ed. Rio de Janeiro: IPHAN, 2004. 408p. EINDHOVEN-SEOUL STATEMENT (2014). Disponível em: https://www.docomomo.com/eindhoven. Acesso em: 30.07.2015.
+- DECLARAÇÃO DE AMSTERDÃ (1975). In: CURY, Isabelle (org.). Cartas Patrimoniais. 3.ed. Rio de Janeiro: IPHAN, 2004. 408p. EINDHOVEN-SEOUL STATEMENT (2014). Disponível em: &lt;<a href="https://www.docomomo.com/eindhoven">https://www.docomomo.com/eindhoven</a>&gt; Acesso em: 30.07.2015.
 - GINZBURG, Carlo. Mitos, Emblemas e Sinais: morfologia e história. São Paulo: Companhia das Letras, 1989.
 - GIOVANONNI, Gustavo. Textos Escolhidos. Kühl, Beatriz Mugayar (organização). São Paulo: Ateliê Editorial, 2013.
 - GOMES, Marco Aurélio A. de Filgueiras; CORRÊA, Elyane Lins (org.). Reconceituações contemporâneas do patrimônio. Salvador: EDUFBA, 2011.
-- INVENTÁRIO. In: Michaelis Dicionário Brasileiro da Língua Portuguesa. Disponível em: http://michaelis.uol.com.br. Acesso em: 23.07.2014.
+- INVENTÁRIO. In: Michaelis Dicionário Brasileiro da Língua Portuguesa. Disponível em: &lt;<a href="http://michaelis.uol.com.br">http://michaelis.uol.com.br</a>&gt; Acesso em: 23.07.2014.
 - LEITE, Denivaldo Pereira; SANTOS, Ademir Pereira dos. Inventário de Arquitetura Industrial: exemplares industriais em Sto.
 - André, São Bernardo do Campo e São Caetano do Sul (1947- 1970). In: VI Colóquio Latino-americano sobre Recuperação e Preservação do Patrimônio Industrial - TICCIH/ SESC/ BELAS ARTES/ IPHAN. São Paulo, 2012.
 - MCDONALD, Susan et al (org.). Conservation of Modern Architecture. Shaftesbury: Donhead, 2007.
 - MIRANDA, Marcos Paulo de Souza. O inventário como instrumento constitucional de proteção ao patrimônio cultural brasileiro. Jus Navigandi, Teresina, ano 13, n. 1754, 20 abr. 2008.
-- MOTTA, Lia; REZENDE, Maria Beatriz. Inventário. Dicionário do Patrimônio Cultural. Disponível em: http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/64/inventario. Acesso em: 09.10.2017. MUÑOZ-VIÑAS, Salvador. Teoria contemporânea de la Restauración. Madrid: Editorial Síntesis, 2010.
+- MOTTA, Lia; REZENDE, Maria Beatriz. Inventário. Dicionário do Patrimônio Cultural. Disponível em: &lt;<a href="http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/64/inventario">http://portal.iphan.gov.br/dicionarioPatrimonioCultural/detalhes/64/inventario</a>&gt; Acesso em: 09.10.2017. MUÑOZ-VIÑAS, Salvador. Teoria contemporânea de la Restauración. Madrid: Editorial Síntesis, 2010.
 - OLENDER, Marcos. Uma “medicina doce do patrimônio”. O inventário como instrumento de proteção do patrimônio cultural – limites e problematizações.
-- Arquitextos, São Paulo, ano 11, n. 124.00, Vitruvius, set. 2010. Disponível em: &lt;http://www.vitruvius.com.br/ revistas/read/arquitextos/11.124/3546&gt;. Acesso em: 29.07.2014.
+- Arquitextos, São Paulo, ano 11, n. 124.00, Vitruvius, set. 2010. Disponível em: &lt;<a href="http://www.vitruvius.com.br/">http://www.vitruvius.com.br/</a>&gt; revistas/read/arquitextos/11.124/3546&gt;. Acesso em: 29.07.2014.
 - PELLEGRINI, Ana Carolina Santos. Quando o projeto é patrimônio. In: 7º Seminário DOCOMOMO Brasil, 2007, Porto Alegre. Anais do 7º seminário DOCOMOMO Brasil. Porto Alegre, 2007.
-- PORTAL DOCOMOMO BRASIL. Disponível em: &lt;http://docomomo.org.br/&gt;. Acessos entre 2014 e 2018.
-- PORTAL DOCOMOMO INTERNACIONAL. Disponível em: &lt;http://www.docomomo.com&gt;. Acessos entre 2014 E 2018.
-- PORTAL ICOMOS - International Council of Monuments and Sites. Disponível em: &lt;https://www.icomos.org/fr/&gt;. Acessos entre 2017 e 2018.
-- PORTAL IPHAN. Instituto do Patrimônio Histórico e Artístico Nacional. Disponível em: http://portal.iphan.gov.br/. Acessos entre 2014 e 2018.
+- PORTAL DOCOMOMO BRASIL. Disponível em: &lt;<a href="http://docomomo.org.br/">http://docomomo.org.br/</a>&gt; Acessos entre 2014 e 2018.
+- PORTAL DOCOMOMO INTERNACIONAL. Disponível em: &lt;<a href="http://www.docomomo.com">http://www.docomomo.com</a>&gt; Acessos entre 2014 E 2018.
+- PORTAL ICOMOS - International Council of Monuments and Sites. Disponível em: &lt;<a href="https://www.icomos.org/fr/">https://www.icomos.org/fr/</a>&gt; Acessos entre 2017 e 2018.
+- PORTAL IPHAN. Instituto do Patrimônio Histórico e Artístico Nacional. Disponível em: &lt;<a href="http://portal.iphan.gov.br/">http://portal.iphan.gov.br/</a>&gt; Acessos entre 2014 e 2018.
 - PRUDON, Theodore. Great expectations: Woolworth Building (Cass Gilbert) and Lever House (SOM). In: CUNNINGHAM, Allen (Ed.). Modern movement heritage. London: E&FN Spon, 1998. p. 88-95.
 - PRUDON, Theodore. Preservation of Modern Architecture. New York: John Wiley, 2008.
-- REVISTA DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Rio de Janeiro, n o.22, 1987. Disponível em: &lt; http://portal. iphan.gov.br/uploads/publicacao/RevPat22_m.pdf&gt; Acesso em: 31.05.2017.
+- REVISTA DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL. Rio de Janeiro, n o.22, 1987. Disponível em: &lt;<a href="http://portal">http://portal</a>&gt; iphan.gov.br/uploads/publicacao/RevPat22_m.pdf&gt; Acesso em: 31.05.2017.
 - RIEGL, Alois. O culto moderno dos monumentos: a sua essência e a sua origem. DAVIDSOHN, Werner R. (tradução). São Paulo: Perspectiva, 2014.
 - RUSKIN, John. A lâmpada da memória. PINHEIRO, Maria Lúcia Bressan (tradução e apresentação). São Paulo: Ateliê Editorial, 2008.
 - SANTOS, Erika D. A. NASLAVSKI, Guilah. O edifício como documento: o caso do inventário dos edifícios da DVOP. In: 2º Seminário Ibero-Americano Arquitetura e Documentação, 2011, Belo Horizonte. Anais do 2º Seminário Ibero-Americano Arquitetura e Documentação. Belo Horizonte:

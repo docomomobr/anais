@@ -43,7 +43,7 @@ authors:
     familyname: "Costa"
     orcid: "0000-0002-1200-1719"
 doi: "10.5281/zenodo.19077559"
-zenodo_pdf_url: "https://zenodo.org/records/19077560/files/sdbr13-083.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285638/files/sdbr13-083.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -58,9 +58,9 @@ palavras-chave:
 ## Referências
 
 - AFONSO, A. Arquitetura brutalista no Piauí nos anos de 1970.
-- Arquitextos, São Paulo, ano 15, n. 174.02, Vitruvius, 2014. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367&gt;. Acesso em: 23 mar. 2019.
+- Arquitextos, São Paulo, ano 15, n. 174.02, Vitruvius, 2014. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367">http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367</a>&gt; Acesso em: 23 mar. 2019.
 - AFONSO, A; NEGREIROS, A. Documentos da arquitetura moderna no Piauí. Teresina: Halley, 2010.
-- AFRÂNIO, C. B. In: ENCICLOPÉDIA Itaú Cultural de Arte e Culturas Brasileiras. São Paulo: Itaú Cultural, 2017. Disponível em: &lt;http://enciclopedia.itaucultural.org.br/pessoa10797/afranio-castelo-branco&gt;. Acesso em: 6 mar. 2019.
+- AFRÂNIO, C. B. In: ENCICLOPÉDIA Itaú Cultural de Arte e Culturas Brasileiras. São Paulo: Itaú Cultural, 2017. Disponível em: &lt;<a href="http://enciclopedia.itaucultural.org.br/pessoa10797/afranio-castelo-branco">http://enciclopedia.itaucultural.org.br/pessoa10797/afranio-castelo-branco</a>&gt; Acesso em: 6 mar. 2019.
 - BRAZ e SILVA, A. M. N. Entre rios: a modernização e o crescimento urbano de Teresina (1889-1940). 2011. 403f. Tese (Doutorado)-Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Federal da Bahia, Salvador, 2011.
 - BRUAND, Y. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1999.
 - CAVALCANTI, L. Moderno e Brasileiro: A história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Zahar, 2006.
@@ -68,18 +68,18 @@ palavras-chave:
 - FERNANDES, F. A Síntese das Artes e a Moderna Arquitetura Brasileira dos anos 1950. Cadernos de Pós-Graduação: Revista do Programa de Pós-Graduação em Arquitetura da
 - UNICAMP. Campinas, v. 8, p. 71-78, 2006.
 - FRAMPTON, K. História Critica da Arquitetura Moderna. 2. ed. São Paulo: Martins Fontes, 2000.
-- GOMES, G. Arquitetura de Ferro. Au: Pini, São Paulo, jun. 2000. Disponível em: &lt;http://au17.pini.com.br/arquitetura-urbanismo/90/arquitetura-do-ferro1&gt;. Acesso em: 20 mar. 2019.
+- GOMES, G. Arquitetura de Ferro. Au: Pini, São Paulo, jun. 2000. Disponível em: &lt;<a href="http://au17.pini.com.br/arquitetura-urbanismo/90/arquitetura-do-ferro1">http://au17.pini.com.br/arquitetura-urbanismo/90/arquitetura-do-ferro1</a>&gt; Acesso em: 20 mar. 2019.
 - GOODWIN, P. L. Brazil builds: architecture new and old, 1652-1942. New York: MoMA, 1944.
-- GONSALES, C. H. C. Síntese das artes. Sentidos e implicações na obra arquitetônica. Arquitextos, São Paulo, ano 12, n. 144.06, Vitruvius, maio 2012. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351&gt;. Acesso em: 22 mar. 2019.
+- GONSALES, C. H. C. Síntese das artes. Sentidos e implicações na obra arquitetônica. Arquitextos, São Paulo, ano 12, n. 144.06, Vitruvius, maio 2012. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351">http://www.vitruvius.com.br/revistas/read/arquitextos/12.144/4351</a>&gt; Acesso em: 22 mar. 2019.
 - GUIMARÃES, F. Simbolismo, modernismo e vanguarda. 1. ed. Rio de Janeiro: Imprensa Nacional. 1982.
 - LIRA, A.V.B. Difusão da arquitetura moderna: A obra do arquiteto Antônio Luiz Dutra de Araújo em Teresina. 2016. 247 f. Dissertação (Mestrado)–Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, 2018.
-- LUCCAS, L. H. H. Da integração das artes ao desenho integral: interfaces da arquitetura no Brasil moderno. Arquitextos, São Paulo, ano 14, n. 160.02, Vitruvius, set. 2013. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/1416&gt;. Acesso em: 20 mar. 2019.
+- LUCCAS, L. H. H. Da integração das artes ao desenho integral: interfaces da arquitetura no Brasil moderno. Arquitextos, São Paulo, ano 14, n. 160.02, Vitruvius, set. 2013. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/1416">http://www.vitruvius.com.br/revistas/read/arquitextos/1416</a>&gt; Acesso em: 20 mar. 2019.
 - MELO, A. A. A. Arquitetura em Teresina: 150 anos - da origem à contemporaneidade. Teresina: Halley, 2002.
 - MICHELI, M. As vanguardas artísticas. 2. ed. São Paulo: Wmf Martins Fontes. 2004.
-- SAMPAIO, P. Invisíveis até deixar de existir. Oito Meia, Teresina, 15 jan. 2019. Disponível em: &lt;https://www.oitomeia.com.br/estilo-de-vida/2019/01/15/invisiveis-ate-deixar-de-existir&gt;. Acesso em: 12 mar. 2019.
+- SAMPAIO, P. Invisíveis até deixar de existir. Oito Meia, Teresina, 15 jan. 2019. Disponível em: &lt;<a href="https://www.oitomeia.com.br/estilo-de-vida/2019/01/15/invisiveis-ate-deixar-de-existir">https://www.oitomeia.com.br/estilo-de-vida/2019/01/15/invisiveis-ate-deixar-de-existir</a>&gt; Acesso em: 12 mar. 2019.
 - MINISTERIO DE EDUCACIÓN y Salud Pública. La Arquitectura de Hoy, Buenos Aires, a.
-- 1. n. 9-10, set./out. 1947, p. 13-19. Morre... Notícias UFPI, Teresina, 26 jun. 2017. Disponível em: &lt;https://www.ufpi.br/ultimas- noticias-ufpi/morre-o-artista-plastico-afranio-castelo-branco&gt;. Acesso em: 23 mar. 2017.
-- PIMENTEL, I. Sintepi denuncia... Cidade Verde, Teresina, 17 jan. 2019. Disponível em: &lt;https://cidadeverde.com/noticias/291167/sintepi-denuncia-que-obra-de-afranio-castelo- branco-esta-sendo-destruida-na-cepisa&gt;. Acesso em: 12 fev. 2019.
-- SENA, F. Y. Morre Afrânio Castelo Branco...Cidade Verde, Teresina, 26 jun. 2017. Disponível em: &lt;https://cidadeverde.com/noticias/250590/morre-afranio-castelo-branco-um-dos-maiores- artistas-plasticos-do-brasil&gt;. Acesso em: 23 mar. 2019.
+- 1. n. 9-10, set./out. 1947, p. 13-19. Morre... Notícias UFPI, Teresina, 26 jun. 2017. Disponível em: &lt;<a href="https://www.ufpi.br/ultimas-">https://www.ufpi.br/ultimas-</a>&gt; noticias-ufpi/morre-o-artista-plastico-afranio-castelo-branco&gt;. Acesso em: 23 mar. 2017.
+- PIMENTEL, I. Sintepi denuncia... Cidade Verde, Teresina, 17 jan. 2019. Disponível em: &lt;<a href="https://cidadeverde.com/noticias/291167/sintepi-denuncia-que-obra-de-afranio-castelo-">https://cidadeverde.com/noticias/291167/sintepi-denuncia-que-obra-de-afranio-castelo-</a>&gt; branco-esta-sendo-destruida-na-cepisa&gt;. Acesso em: 12 fev. 2019.
+- SENA, F. Y. Morre Afrânio Castelo Branco...Cidade Verde, Teresina, 26 jun. 2017. Disponível em: &lt;<a href="https://cidadeverde.com/noticias/250590/morre-afranio-castelo-branco-um-dos-maiores-">https://cidadeverde.com/noticias/250590/morre-afranio-castelo-branco-um-dos-maiores-</a>&gt; artistas-plasticos-do-brasil&gt;. Acesso em: 23 mar. 2019.
 - SILVA, J. S. A Arquitetura Modernista em Teresina (PI) e os projetos do arquiteto mineiro Antônio Luiz. In: 1º Seminário Docomomo Norte/Nordeste, 2006, Recife. Anais... Recife: UFPE, 2006. p. 26-43.
 - TELES, G. M. Vanguarda europeia & modernismo brasileiro. 1. ed. São Paulo: José Olympio. 2012

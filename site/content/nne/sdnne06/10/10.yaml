@@ -1,0 +1,49 @@
+id: '10'
+type: paper-conference
+title: Análise da adequação bioclimática de residências modernas em Teresina-PI
+container-title: 6º Seminário Docomomo Norte/Nordeste, Teresina, 2016
+event-title: 6º Seminário Docomomo Norte/Nordeste, Teresina, 2016
+issued:
+  date-parts:
+  - - 2016
+language: pt-BR
+author:
+- family: Alencar
+  given: Rafael
+- family: Costa
+  given: Débora
+  ORCID: https://orcid.org/0000-0001-7617-4945
+- family: Silveira
+  given: Ana Lucia Ribeiro Camillo da
+  ORCID: https://orcid.org/0000-0003-2324-3964
+event-place: Teresina, PI
+publisher-place: Teresina, PI
+DOI: 10.5281/zenodo.19295025
+ISBN: 978-85-7463-919-2
+URL: https://anais.docomomobrasil.com/nne/sdnne06/10/
+abstract: 'O movimento moderno na arquitetura brasileira inicia-se nas primeiras décadas
+  do século XX, trazendo novas prioridades e critérios de planejamento, sobretudo
+  na importância dada ao clima. Esse fator trouxe novas formas de projetar, condicionando
+  a volumetria, o uso dos materiais, disposição de aberturas, entre outros, às características
+  do clima local. Estas estratégias foram um pouco deixadas de lado com o uso de recursos
+  artificiais para climatização e somente após o episódio da crise energética de 2001,
+  a eficiência energética estabeleceu-se como meta no Brasil, com a publicação de
+  leis e regulamentos visando um menor impacto das construções sobre o consumo de
+  energia. Este artigo tem como objetivo analisar a adequação bioclimática de duas
+  residências modernas localizadas em Teresina-PI: a casa Hildemar Santos e a casa
+  Djalma da Costa e Silva, ambas projetadas na década de 1970, pelo arquiteto Antônio
+  Luiz Araújo. Teresina apresenta clima tropical quente sub-úmido e pertence à zona
+  bioclimática 07 segundo o programa ZBBR, evidenciando-se assim a importância do
+  uso de soluções bioclimáticas específicas para essa região. A partir da análise
+  dos projetos originais, bem como visitas a tais residências, foram realizados estudos
+  acerca da ventilação natural, assim como da insolação nas fachadas e do desempenho
+  dos elementos de proteção solar, utilizando-se o software SOLAR, desenvolvido pelo
+  LabEEE. Analisaram-se também as recomendações de projeto constantes na NBR 15220
+  e 15575. Entre os principais elementos arquitetônicos encontrados nestas residências
+  citamos a correta forma e orientação, as aberturas dispostas a permitirem a ventilação
+  cruzada, uso de espelho d’água, aberturas para saída de ar quente, entre outros.
+  Estas soluções adotadas demonstram preocupação com a adequação climática das residências
+  ao clima de Teresina, apesar da pouca importância dada na época à questão ambiental,
+  mas que devem continuar a serem utilizadas em projetos na região por se mostrarem
+  bastantes adequadas ao clima local.'
+keyword: arquitetura moderna; estratégias bioclimáticas; arquitetura residencial

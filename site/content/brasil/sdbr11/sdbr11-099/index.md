@@ -63,13 +63,13 @@ palavras-chave:
 - ARCANJO JÚNIOR, Loque. Os sons de uma nação imaginada: as identidades musicais de Heitor Villa-Lobos.
 - 2013. 221 f. Tese (Doutorado) - Curso de Programa de Pós-graduação em História, Faculdade de Filosofia e Ciências Humanas, Universidade Federal de Minas Gerais, Belo Horizonte, 2013.
 - BISPO, Alba Nélida de Mendonça. Dos processos de valoração do patrimônio moderno às práticas de conservação em Brasília: o caso do restauro do Palácio do Planalto. 2014. 190 f. Dissertação (Mestrado em Preservação do Patrimônio Cultural) - Iphan, Rio de Janeiro, 2014.
-- CAMPOFIORITO, Ítalo. Brasília revisitada. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n. Especial, p. 171-176, 1990. Disponível em: &lt;http://docvirt.com/docreader.net/DocReader.aspx?bib=reviphan&pagfis=8331&pesq=. Acesso em: 03 abr. 2016.
+- CAMPOFIORITO, Ítalo. Brasília revisitada. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n. Especial, p. 171-176, 1990. Disponível em: &lt;<a href="http://docvirt.com/docreader.net/DocReader.aspx?bib=reviphan&pagfis=8331&pesq=">http://docvirt.com/docreader.net/DocReader.aspx?bib=reviphan&pagfis=8331&pesq=</a>&gt; Acesso em: 03 abr. 2016.
 - CARPEAUX, Otto Maria. O Livro de Ouro da História da Música: Da Idade Média ao século XX. Rio de Janeiro: Ediouro, 2009.
 - CAVALCANTI, Lauro. Moderno e brasileiro: a história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar Ed., 2006.
 - CAVALCANTI, Lauro. Quando o Brasil era Moderno: Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.
 - CHEDIAK, Almir. Bossa nova: Songbook. 2. ed. Rio de Janeiro: Lumiar Editora, 1990.
 - CHUVA, Márcia Regina Romeiro. Arquitetos da memória: sociogênese das práticas de preservação do patrimônio cultural no Brasil. Rio de Janeiro: UFRJ, 2009. 480p.
-- CONTIER, Arnaldo Daraya. Mário de Andrade e a Música Brasileira. Revista Música, [S.l.], v. 5, n. 1, p. 33-47, maio 1994. ISSN 2238-7625. Disponível em: &lt;http://www.revistas.usp.br/revistamusica/article/view/55070/58712&gt;. Acesso em: 30 jan. 2016.
+- CONTIER, Arnaldo Daraya. Mário de Andrade e a Música Brasileira. Revista Música, [S.l.], v. 5, n. 1, p. 33-47, maio 1994. ISSN 2238-7625. Disponível em: &lt;<a href="http://www.revistas.usp.br/revistamusica/article/view/55070/58712">http://www.revistas.usp.br/revistamusica/article/view/55070/58712</a>&gt; Acesso em: 30 jan. 2016.
 - LEITÃO, Francisco (org.). Brasília 1960-2010: passado, presente e futuro. Brasília: Secretaria de Estado de Desenvolvimento Urbano e Meio Ambiente, 2009.
 - FERREIRA, Marcílio Mendes; GOROVITZ, Matheus. A invenção da superquadra: o conceito de Unidade de Vizinhança em Brasília. Brasília: Iphan, 2007. 528 p.
 - FONSECA, Maria Cecília Londres. O Patrimônio em processo: trajetória política federal de preservação no Brasil. 2ª ed. rev. ampl. Rio de Janeiro: Editora UFRJ; MinC-IPHAN, 2005.
@@ -81,7 +81,7 @@ palavras-chave:
 - BRASIL. Portaria nº.314, de 08 de outubro de 1992. Para efeito de proteção do Conjunto Urbanístico de Brasília. Diário Oficial da República Federativa do Brasil, Ministério da Cultura/IPHAN, Brasília, DF, 08 out. 1992. Processo nº.1305-T-90 – Tombamento do Conjunto Urbanístico de Brasília. Disponível em meio digital no Arquivo da Superintendência do IPHAN no Distrito Federal.
 - RIBEIRO, Sandra Bernardes. Brasília: Memória, Cidadania e Gestão do Patrimônio Cultural. São Paulo: Annablume, 2005.
 - SANDRONI, Carlos. Notas sobre Mário de Andrade e a Missão de Pesquisas Folclóricas de 1938. Revista do Patrimônio Histórico e Artístico Nacional, Brasília, v. 28, p. 60-73, 1999.
-- SEVERINO, Francisco. Da Poeira à Eletricidade: Música. Brasília: Instituto Terceiro Setor, 2012. 342 p. SESC-SP. Secretaria Municipal de Cultura de São Paulo. Acervo sonoro e iconográfico da Missão de Pesquisas Folclóricas. 2006. Disponível em: &lt;http://ww2.sescsp.org.br/sesc/hotsites/missao/index.html&gt;. Acesso em: 03 abr. 2016.
+- SEVERINO, Francisco. Da Poeira à Eletricidade: Música. Brasília: Instituto Terceiro Setor, 2012. 342 p. SESC-SP. Secretaria Municipal de Cultura de São Paulo. Acervo sonoro e iconográfico da Missão de Pesquisas Folclóricas. 2006. Disponível em: &lt;<a href="http://ww2.sescsp.org.br/sesc/hotsites/missao/index.html">http://ww2.sescsp.org.br/sesc/hotsites/missao/index.html</a>&gt; Acesso em: 03 abr. 2016.
 - TAVARES, Jeferson. Projetos para Brasília: 1927-1957. Brasília, DF, Iphan, 2014.
 - TRAVASSOS, Elisabeth. Mário e o folclore. Revista do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n. 30, p. 90-109, 2002.
 - WISNIK, José Miguel. O Coro dos Contrários: A Música em torno da Semana de 22. São Paulo: Duas Cidades, 1977.

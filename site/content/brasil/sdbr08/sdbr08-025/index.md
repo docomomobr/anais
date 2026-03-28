@@ -43,7 +43,7 @@ authors:
     familyname: "Castriota"
     orcid: "0000-0002-9159-1787"
 doi: "10.5281/zenodo.19072843"
-zenodo_pdf_url: "https://zenodo.org/records/19072844/files/sdbr08-025.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285540/files/sdbr08-025.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
@@ -62,12 +62,12 @@ palavras-chave:
 - CARDOSO, Maria Francisca T. C. Aspectos geográficos da cidade de Cataguases. Separata de: Revista Brasileira de Geografia, Rio de Janeiro, v.17, n. 4, p.423-48, out./dez. 1955.
 - INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL – IPHAN. Cataguases – documentação histórica. Belo Horizonte: 13ª Coordenação Regional. (3 pastas – documentos diversos)
 - INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL – IPHAN. Processo 1.342- T-94. Tombamento Cataguases. Belo Horizonte: 13ª Coordenação Regional. 3 volumes.
-- MIRANDA, Selma Melo. Arquitetura. In: MIRANDA, Selma Melo; et. al. Cataguases: um olhar sobre a modernidade. Cataguases: Instituto Francisca de Souza Peixoto, 1994. Disponível em: &lt;http://www.chica.org.br/cataguases/modernismo/index.htm&gt;. Acesso em: 01 set. 2008.
+- MIRANDA, Selma Melo. Arquitetura. In: MIRANDA, Selma Melo; et. al. Cataguases: um olhar sobre a modernidade. Cataguases: Instituto Francisca de Souza Peixoto, 1994. Disponível em: &lt;<a href="http://www.chica.org.br/cataguases/modernismo/index.htm">http://www.chica.org.br/cataguases/modernismo/index.htm</a>&gt; Acesso em: 01 set. 2008.
 - MUNICÍPIO DE CATAGUASES. Lei 3546/2006 – Institui o Plano Diretor Participativo de Cataguases. Jornal Cataguases: Cataguases, 15 out. 2006.
 - MUNICÍPIO DE CATAGUASES PODER EXECUTIVO. Mensagem de veto encaminhado à Câmara Municipal nº 008/2006.
 - Cataguases, Jornal Cataguases: 26 nov. 2008.
 - NUNES, Cristina Pereira. Cataguases – parecer de vistoria, informe histórico, pesquisa histórica e texto. Belo Horizonte: Instituto Estadual do Patrimônio Histórico e Artístico de Minas Gerais – IEPHA-MG.s.d. (documentos não publicados)
 - PREFEITURA MUNICIPAL DE CATAGUASES. Memória e Patrimônio Cultural. Belo Horizonte:
 - UFMG, 1988. 3 vol.
-- SANTOS, Cecília Rodrigues dos; LAGE, Claudia Freire. Cataguases: patrimônio da modernidade. Arquitextos 056, jan. 2005. Texto especial 273. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp&gt; Acesso em: 13 ago. 2008
+- SANTOS, Cecília Rodrigues dos; LAGE, Claudia Freire. Cataguases: patrimônio da modernidade. Arquitextos 056, jan. 2005. Texto especial 273. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp</a>&gt; Acesso em: 13 ago. 2008
 - ESCOLA DE ARQUITETURA DA UNIVERSIDADE FEDERAL DE MINAS GERAIS. Plano diretor participativo do município de Cataguases (MG). Leitura da realidade municipal. Belo Horizonte: 2006. (relatório impresso)

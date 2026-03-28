@@ -66,7 +66,7 @@ palavras-chave:
 - Kamita, J.M. "Arquitetura Moderna e Neoconcretismo: uma experiência da geometria na arte". In: Madeira, A. (Org.). Itinerâncias, percursos e representações da pós-modernidade. Brasília: Editora da UnB, 2003.
 - Mondrian, P. Neoplasticismo na pintura e na arquitetura: Piet Mondrian. Org. Carlos Ferreira Martins. Trad. João Carlos Pimentel. São Paulo: Cosac & Naify, 2008.
 - Montaner, Josep Maria. Depois do movimento moderno – arquitetura da segunda metade do século XX. Trad. Maria Beatriz da Costa Mattos. Barcelona, Gustavo Gili, 2001.
-- Negri, A. “A constituição do comum” (2005). Disponível em: http://philosopherdesk.blogspot.com.br/2011/07/antonio-negri-constituição-do-comum.html. Acesso em junho de 2013.
+- Negri, A. “A constituição do comum” (2005). Disponível em: &lt;<a href="http://philosopherdesk.blogspot.com.br/2011/07/antonio-negri-constituição-do-comum.html">http://philosopherdesk.blogspot.com.br/2011/07/antonio-negri-constituição-do-comum.html</a>&gt; Acesso em junho de 2013.
 - Oiticica, H. “Esquema geral da nova objetividade” (1967). In: p.154-168. Ferreira, G. et Cotrim, C. (org.). Escritos de Artistas: anos 60/70. Trad. Pedro Sussekind. Rio de Janeiro: Jorge Zahar Ed., 2006.
 - Ratto, G. Antitratado de cenografia – variações sobre o mesmo tema. São Paulo: Editora
 - SENAC São Paulo, 1999. Scalbert, I. “Parellel of Art and Life”. Daidalos, n.75, “The Everyday”, 2000.

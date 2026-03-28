@@ -1,0 +1,41 @@
+---
+title: "Uma reflexão sobre Acessibilidade na obra de Oscar Niemeyer"
+subtitle: "a Cidade Administrativa Tancredo Neves"
+date: 2016-08-10
+slug: 54
+type: artigo
+document_type: resumo
+weight: 10
+event_title: "6º Seminário Docomomo Norte/Nordeste, Teresina, 2016"
+event_location: "Teresina, PI"
+event_date: "2016-08-10"
+event_isbn: "978-85-7463-919-2"
+event_publisher: "UFPI"
+event_slug: sdnne06
+ambito: nne
+ambito_nome: "Norte/Nordeste"
+event_name: "Seminário Docomomo Norte/Nordeste"
+event_edition: 6
+event_city: "Teresina"
+event_year: 2016
+locale: "pt-BR"
+abstract: |
+  Este artigo tem como principal objetivo realizar uma discussão reflexiva acerca da acessibilidade nas edificações, embasando-se em abordagens atuais sobre o tema e especialmente no estudo de caso da Cidade Administrativa Presidente Tancredo Neves, projetada por Oscar Niemeyer em 2004 e inaugurada em 2010 para sede oficial do governo na capital mineira, segundo uma busca por continuidade dos critérios projetuais modernos, mesmo que na contemporaneidade. Esta discussão nasce da necessidade de reiterar a importância de projetar espaços acessíveis, não simplesmente por obrigação legal, mas pela responsabilidade social do arquiteto perante à sociedade. Diante do cenário arquitetônico nacional, escolheu-se a Cidade Administrativa Tancredo Neves como objeto de análise por uma série de motivos: a construção e projeto deste complexo arquitetônico são posteriores a data de obrigatoriedade da acessibilidade; pela sua grande relevância no cenário arquitetônico nacional e especialmente por ser um projeto do escritório do emblemático arquiteto brasileiro Oscar Niemeyer; reconhecido pela repetição do elemento arquitetônico mais representativo do espaço acessível: a rampa. Diante de uma análise baseada especialmente em plantas e imagens, apontou-se com base neste estudo de caso o quão ainda deve ser feito e discutido sobre acessibilidade de edificações e espaços urbanos no Brasil, para que possa-se enfim desfrutar de um espaço acessível a todos.
+keywords:
+  - "acessibilidade"
+  - "Oscar Niemeyer"
+  - "Cidade Administrativa Tancredo Neves"
+authors:
+  - givenname: "C. A. B."
+    familyname: "Martins"
+  - givenname: "A. C. M."
+    familyname: "Moreira"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Martins, C. A. B."
+  - "Moreira, A. C. M."
+palavras-chave:
+  - "acessibilidade"
+  - "Oscar Niemeyer"
+  - "Cidade Administrativa Tancredo Neves"
+---

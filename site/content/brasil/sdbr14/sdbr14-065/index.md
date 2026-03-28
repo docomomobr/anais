@@ -65,7 +65,7 @@ palavras-chave:
 - HUYSSEN, Andreas. Culturas do passado-presente: modernismos, artes visuais, políticas da memória. Rio de Janeiro: Contraponto, 2014.
 - LEFEBVRE, Henri. O direito à cidade. São Paulo: Centauro. 2001.
 - PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. São Paulo: Martins Fontes, 1981.
-- PACHECO, Joel. “Ponte Hercílio Luz uma ligação de amor”. Documentário. Florianópolis, 2021. (Disponível em: https://www.youtube.com/watch?v=vIaf6WyPROo).
+- PACHECO, Joel. “Ponte Hercílio Luz uma ligação de amor”. Documentário. Florianópolis, 2021. (Disponível em: &lt;<a href="https://www.youtube.com/watch?v=vIaf6WyPROo">https://www.youtube.com/watch?v=vIaf6WyPROo</a>&gt;
 - REIS FILHO, Nestor Goulart. Imagens de vilas e cidades do Brasil Colonial: recursos para a renovação do ensino de História e Geografia do Brasil. R. bras. Est. pedag., Brasília, v. 81, n. 198, p. 366-379, 2000.
 - RIOS, Hellen Martins. “Preserve” ou “deixe ruir”? processos de patrimonialização da Ponte Hercílio Luz. Dissertação de Mestrado (Mestrado em História), UFSC, Florianópolis, 2016.
 - TEIXEIRA, L. E. F. Arquitetura e cidade: a modernidade (possível) em Florianópolis, Santa Catarina - 1930-1960. Tese (Doutorado) - USP, Programa de Pós-Graduação em Arquitetura e Urbanismo, São Paulo, 2009.

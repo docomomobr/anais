@@ -53,7 +53,7 @@ palavras-chave:
 - ANITELLI, F. [Re]produção?: repercussões de características do desenho do edifício de apartamentos paulistano em projetos empreendidos no Brasil. Tese de doutorado. São Carlos: IAU-USP, 2015.
 - BAUMAN, Zygmunt. Danos colaterais: desigualdades sociais numa era global. Rio de Janeiro: Zahar, 2013.
 - CALDEIRA, Teresa Pires do Rio. Enclaves fortificados: a nova segregação urbana. Novos
-- Estudos, n. 47, março 1997. São Paulo: Centro Brasileiro de Análise e Planejamento (CEBRAP). Disponível em: http://www.novosestudos.com.br/v1/files/uploads/contents/81/20080626_enclaves_fortificados.pdf. Acesso em: 13 Agosto 2013.
+- Estudos, n. 47, março 1997. São Paulo: Centro Brasileiro de Análise e Planejamento (CEBRAP). Disponível em: &lt;<a href="http://www.novosestudos.com.br/v1/files/uploads/contents/81/20080626_enclaves_fortificados.pdf">http://www.novosestudos.com.br/v1/files/uploads/contents/81/20080626_enclaves_fortificados.pdf</a>&gt; Acesso em: 13 Agosto 2013.
 - CORONA, Eduardo; LEMOS, Carlos; XAVIER, Alberto. Arquitetura moderna paulistana. São Paulo: Pini, 1983.
 - LE CORBUSIER. A carta de Atenas. São Paulo: HUCITEC/EDUSP, 1989.
 - LE CORBUSIER. Precisões de um estado presente da arquitetura e do urbanismo. São Paulo: Cosac & Naify, 2004.

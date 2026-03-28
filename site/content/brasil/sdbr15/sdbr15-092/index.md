@@ -66,17 +66,17 @@ palavras-chave:
 
 ## Referências
 
-- BONFIM, M. Almanaque. Um olhar sobre São Miguel Paulista–manifestações culturais, ontem e hoje. Fundação Tide Setúbal e Cpdoc São Miguel Paulista. São Paulo, 2008. Disponível em: https://fundacaotidesetubal.org.br/midia/publicacao_246.pdf , acessado em 15/05/2023.
+- BONFIM, M. Almanaque. Um olhar sobre São Miguel Paulista–manifestações culturais, ontem e hoje. Fundação Tide Setúbal e Cpdoc São Miguel Paulista. São Paulo, 2008. Disponível em: &lt;<a href="https://fundacaotidesetubal.org.br/midia/publicacao_246.pdf">https://fundacaotidesetubal.org.br/midia/publicacao_246.pdf</a>&gt; , acessado em 15/05/2023.
 - BROSS, J.C. Compreendendo o edifício de saúde. Volume 2. São Paulo: ATHENEU, 2013. p-70.
 - CARVALHO, F. DE A.; MACIEL, M. D. Influência de uma indústria química tecnológica no desenvolvimento de uma comunidade/bairro e na opção de estudantes da região pelo curso de Química. Indagatio Didactica, v. 8, n. 1, p. 357-367, 5 jul. 2016.
 - COMAS, Carlos Eduardo Dias. Ruminações recentes: reforma/reciclagem/restauro. arq. urb, n. 35, p. 50-56, 2022.
 - COSTA, Renato Gama-Rosa. Arquitetura hospitalar em São Paulo. História de saúde: São Paulo. Instituições e patrimônio histórico e arquitetônico (1808-1958). Barueri: Minha Editora, 2011. p.25-63.
-- FOLHA DE SÃO PAULO. 1970: População de São Miguel Paulista quase quadruplica em 10 anos. São Paulo, 2020. Disponível em: https://www1.folha.uol.com.br/banco-de- dados/2020/11/1970-populacao-de-sao-miguel-paulista-quase-quadruplica-em-10-anos.shtml , acessado em 11/04/23.
-- FUNDAÇÃO TIDE SETÚBAL: Quem foi Tide Setúbal. Disponível em: https://fundacaotidesetubal.org.br/quem-foi-tide-setubal/ , acesso em 08/04/2023
+- FOLHA DE SÃO PAULO. 1970: População de São Miguel Paulista quase quadruplica em 10 anos. São Paulo, 2020. Disponível em: &lt;<a href="https://www1.folha.uol.com.br/banco-de-">https://www1.folha.uol.com.br/banco-de-</a>&gt; dados/2020/11/1970-populacao-de-sao-miguel-paulista-quase-quadruplica-em-10-anos.shtml , acessado em 11/04/23.
+- FUNDAÇÃO TIDE SETÚBAL: Quem foi Tide Setúbal. Disponível em: &lt;<a href="https://fundacaotidesetubal.org.br/quem-foi-tide-setubal/">https://fundacaotidesetubal.org.br/quem-foi-tide-setubal/</a>&gt; , acesso em 08/04/2023
 - MONTEIRO, Flávia de Azevedo. O Patrimônio Arquitetônico da Saúde: Discussões sobre a arquitetura hospitalar brasileira do século XIX . 2014. 219p. Dissertação (Mestrado em Artes), Centro de Artes, Universidade Federal do Espírito Santo, 2014.
 - PREFEITURA DO MUNICÍPIO DE SÃO PAULO.EDITAL DE CHAMAMENTO PÚBLICO CH N° 005/2022/SGM-SEDP PROCESSO SEI Nº 6110.2022/0004845-0 – São Paulo: 2022. Disponível em:
 - PMI Hospitais | Secretaria de Governo Municipal | Prefeitura da Cidade de São Paulo, acessado em 14/04/2023.
-- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Hospital Municipal Tide Setubal – São Paulo: 2020. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/unid ades_da_ahm/index.php?p=298463 , acessado em 06/06/2023.
-- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Hospital Municipal Tide Setubal completa 45 anos – São Paulo: 2013. Disponível em:https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/ noticias/?p=160292 , acessado em 06/06/2023.
-- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Parcerias Público Privadas – PPP na Saúde–São Paulo: 2011. Disponível em : https://ppp.prefeitura.sp.gov.br/ppp_saude.htm, acessado em 11/04/2023
+- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Hospital Municipal Tide Setubal – São Paulo: 2020. Disponível em: &lt;<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/unid">https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/unid</a>&gt; ades_da_ahm/index.php?p=298463 , acessado em 06/06/2023.
+- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Hospital Municipal Tide Setubal completa 45 anos – São Paulo: 2013. Disponível em: &lt;<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/">https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/autarquia_hospitalar_municipal/</a>&gt; noticias/?p=160292 , acessado em 06/06/2023.
+- PREFEITURA DO MUNICÍPIO DE SÃO PAULO. Parcerias Público Privadas – PPP na Saúde–São Paulo: 2011. Disponível em : &lt;<a href="https://ppp.prefeitura.sp.gov.br/ppp_saude.htm">https://ppp.prefeitura.sp.gov.br/ppp_saude.htm</a>&gt; acessado em 11/04/2023
 - SANGLARD, Gisele; COSTA, Renato da Gama-Rosa. Memória, História e Patrimônio Cultural da Saúde: uma história possível. In: PORTO, Ângela et al. História da saúde no Rio de Janeiro: instituições e patrimônio arquitetônico. Rio de Janeiro: Ed. FIOCRUZ; 2008. p.22

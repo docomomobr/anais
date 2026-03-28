@@ -52,4 +52,4 @@ palavras-chave:
 - PREFEITURA DA CIDADE DO RIO DE JANEIRO. Guia da Arquitetura Moderna no Rio de Janeiro. Rio de Janeiro: Editora Casa da Palavra, 2000.
 - RIBEIRO, Rafael Winter. Paisagem Cultural e Patrimônio. Rio de Janeiro: IPHAN, 2007.
 - SCHLEE, Mônica Bahia e ALBERNAZ, Maria Paula. Proteção das Encostas pela Legislação Municipal: uma avaliação da situação atual na cidade do Rio de Janeiro. XIII Encontro da ANPUR – Associação Nacional de Pós-Graduação e Pesquisa em Planejamento Urbano e Regional, Santa Catarina, 2009.
-- UNESCO, United Nations Educational, Scientific and Cultural Organization, Operational Guidelines for the Implementation of the World Heritage Convention. Paris: World Heritage Centre, 2008. Disponível em &lt; http://whc.unesco.org/en/guidelines/ &gt; Acesso em 20 jun. 2009.
+- UNESCO, United Nations Educational, Scientific and Cultural Organization, Operational Guidelines for the Implementation of the World Heritage Convention. Paris: World Heritage Centre, 2008. Disponível em &lt;<a href="http://whc.unesco.org/en/guidelines/">http://whc.unesco.org/en/guidelines/</a>&gt; &gt; Acesso em 20 jun. 2009.

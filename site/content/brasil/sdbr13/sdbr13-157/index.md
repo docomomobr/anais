@@ -53,12 +53,12 @@ palavras-chave:
 
 ## Referências
 
-- LOEWEN Andrea Buchidid; AZEVEDO, Ricardo Marques de. Roma e as capitais: o mito e o plano http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/viewFile/386/366 (09.06.2019)
+- LOEWEN Andrea Buchidid; AZEVEDO, Ricardo Marques de. Roma e as capitais: o mito e o plano &lt;<a href="http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/viewFile/386/366">http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/viewFile/386/366</a>&gt; (09.06.2019)
 - ANDRADE, Thalita Cristina di Masironi. Patologias em patrimônio histórico: o caso do Palácio da Justiça do Paraná em Curitiba. Curitiba: Monografia de Especialização em Patologia das Construções, UTFPR, 2017. Brèsil in L’Architecture D’Aujourd´hui, N° 42-43, outubro, 1952.
 - CAROLLO, Braulio. Alfred Agache em Curitiba e sua visão de urbanismo. Porto Alegre: Dissertação de Mestrado, PROPAR UFRGS/PUCPR, 2002.
 - COHEN, Jean-Louis. Apresentação in SEGRE, Roberto. Ministério da Educação e Saúde – ícone urbano da modernidade brasileira (1935-1945). São Paulo: Romano Guerra, 2013.
-- COMAS. Carlos Eduardo Dias. A máquina para recordar Ministério da Educação no Rio de Janeiro, 1936/45. http://www.vitruvius.com.br/revistas/read/arquitextos/01.005/967, 2000.
-- COMAS, Carlos Eduardo Dias. Lucio Costa e a revolução na arquitetura brasileira 30/39 De lendas e Le Corbusier. http://www.vitruvius.com.br/revistas/read/arquitextos/02.022/798, 2002.
+- COMAS. Carlos Eduardo Dias. A máquina para recordar Ministério da Educação no Rio de Janeiro, 1936/45. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.005/967">http://www.vitruvius.com.br/revistas/read/arquitextos/01.005/967</a>&gt; 2000.
+- COMAS, Carlos Eduardo Dias. Lucio Costa e a revolução na arquitetura brasileira 30/39 De lendas e Le Corbusier. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.022/798">http://www.vitruvius.com.br/revistas/read/arquitextos/02.022/798</a>&gt; 2002.
 - DUARTE, Thereza Christina Costa; OLIVEIRA, Tadeu de Souza. Nanotecnologia empregada no restauro de fachadas tombadas com superfícies de porcelana – estudo de caso: Palácio da Justiça do Paraná. Curitiba: Trabalho Científico, 2016.
 - GOODWIN, Philip L. Brazil builds: architecture new and old, 1652-1942. New York: MoMA, 1943.
 - GNOATO, Salvador. Arquitetura do Movimento Moderno em Curitiba. Curitiba: Travessa dos Editores: 2009.

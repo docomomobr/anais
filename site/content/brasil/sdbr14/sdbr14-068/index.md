@@ -62,7 +62,7 @@ palavras-chave:
 - DIÓGENES, Beatriz; CARTAXO, Joaquim; MONTENEGRO, Aída. Elementos de Análise Arquitetônica: o Hotel Esplanada em Fortaleza. Curso de Especialização em Arquitetura e Urbanismo, Fortaleza, 1983. (mimeo).
 - DIÓGENES, B. H. N.; PAIVA, R. A. caminhos da arquitetura moderna em Fortaleza: a contribuição do arquiteto José Armando Farias. In: anais do 4º Docomomo NO_NE. Fortaleza, 2014
 - DIÓGENES, B. H. N.; PAIVA, R. A. Vida e morte do Hotel Esplanada em Fortaleza. In: Arq.urb nº 18 | janeiro
-- PAIVA, R. A. Os impactos da “urbanização turística” no litoral de Fortaleza: fragmentação e diferenciação socioespacial. 2014. Disponível em: https://www.anptur.org.br/anais/anais/v.10/Anais/ DTP4/131.pdf. Acesso em: 12 jun. 2021.
+- PAIVA, R. A. Os impactos da “urbanização turística” no litoral de Fortaleza: fragmentação e diferenciação socioespacial. 2014. Disponível em: &lt;<a href="https://www.anptur.org.br/anais/anais/v.10/Anais/">https://www.anptur.org.br/anais/anais/v.10/Anais/</a>&gt; DTP4/131.pdf. Acesso em: 12 jun. 2021.
 - PEREIRA, Alexandre Queiroz, COSTA, Maria Clélia; SILVA, Regina Balbino. A orla da cidade: praia, espaço público e lazer em Fortaleza [livro eletrônico] (Coleção de Estudos da Pós-Graduação). Imprensa Universitária, Fortaleza, 2020.
 - ROCHA JÚNIOR. Antônio Martins da. O turismo globalizado e as transformações urbanas do litoral de Fortaleza: arquitetura e estetização na Praia de Iracema. 2000. Dissertação (Mestrado em Desenvolvimento e Meio Ambiente) Universidade Federal do Ceará, Fortaleza, 2000.
 - CAVALCANTE, Márcia

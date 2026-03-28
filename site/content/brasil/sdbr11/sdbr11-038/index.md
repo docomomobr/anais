@@ -65,7 +65,7 @@ palavras-chave:
 - CARDOZO, Joaquim. Sobre o problema do ser e do estruturalismo arquitetônico. In: D. M. MACEDO; F. J. A. SOBREIRA (org.). Forma estática – forma estética: ensaios de Joaquim Cardozo sobre Arquitetura e Engenharia. Brasília: Câmara dos Deputados, Edições Câmara, 2009d. p. 153‐159.
 - DECKKER, Zilah. Q. Brazil Built: the architecture of the modern movement in Brazil. London: Spon Press, 2001.
 - MACEDO, Danilo Matoso. Da matéria à invenção: as obras de Oscar Niemeyer em Minas Gerais, 1938‐1955. Série Arte e cultura. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2008.
-- MACEDO, Danilo M.; SILVA, Elcio. Ordens tectônicas no Palácio do Congresso Nacional. Vitruvius – Arquitextos, n. 131.00. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3829, 2011&gt; . Acesso em: 8 ago. 2013.
+- MACEDO, Danilo M.; SILVA, Elcio. Ordens tectônicas no Palácio do Congresso Nacional. Vitruvius – Arquitextos, n. 131.00. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3829">http://www.vitruvius.com.br/revistas/read/arquitextos/11.131/3829</a>&gt; 2011&gt; . Acesso em: 8 ago. 2013.
 - MARQUES, S.; NASLAVSKY, G. Eu vi o modernismo nascer... e ele começou no Recife. In: F. D. MOREIRA (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. Recife: FASA, 2007. p. 81‐ 105.
 - MORALES DE LOS RIOS FILHO, Adolfo. Teoria e filosofia da arquitetura. Rio de Janeiro: A Noite; Borsoi, 1955.
 - NIEMEYER, Oscar. Depoimento. Módulo, v. 2, n. 9, p. 2‐6, 1958.

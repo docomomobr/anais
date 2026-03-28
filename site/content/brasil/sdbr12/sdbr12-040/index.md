@@ -61,11 +61,11 @@ palavras-chave:
 - BORDA, Luis Eduardo – O Nexo da Forma. Oscar Niemeyer: da Arte Moderna ao Debate Contemporâneo. Tese de Doutorado. ECA/USP, 2003.
 - BRUAND, Yves – Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1991.
 - CURTIS, William et alii – Le Corbusier, Architect of the Century. Balding and Mansell UK Limited. Great Britain, 1987.
-- D’AQUINO, A.  - Max Bill, o Inteligente Iconoclasta. Entrevista de Max Bill a Fálvio D’Aquino. In: Revista Hbitat, nº12, jul-set. 1953.
+- D’AQUINO, A. - Max Bill, o Inteligente Iconoclasta. Entrevista de Max Bill a Fálvio D’Aquino. In: Revista Hbitat, nº12, jul-set. 1953.
 - FRAMPTON, Kenneth – Historia Crítica da La Arquitectura Moderna. Barcelona: Gustavo Gili, 1991.
 - KRAUSS, Rosalind – Caminhos da Escultura Moderna. São Paulo: Martins Fontes, 2001.
 - MACEDO, Danilo Matoso – Da Matéria à Invenção: as obras de Oscar Niemeyer em Minas Gerais – 1938-1955. Brasília: Editora da Câmara dos Deputados, 2008.
-- MONTANER, J. M. - As Formas do Século XX.  Barcelona: Gustavo Gili, 2002
+- MONTANER, J. M. - As Formas do Século XX. Barcelona: Gustavo Gili, 2002
 - NOBRE, A. L.; WISNICK, G.; MILHEIRO, A. V. - Coletivo. 36 projetos de Arquitetura Paulista Contemporânea. Ao Paulo: Cosac Naify, 2006.
 - PETIT, Jean – Niemeyer. Poète d”Architecture. Lugano: Fidia Edizioni d’Arte, 1995.
 - QUEIROZ, Rodrigo – Oscar Niemeyer e Le Corbusier: Encontros. Tese de Doutorado. Orient.: Lucio G. Machado. São Paulo: FAU/USP, 2007.

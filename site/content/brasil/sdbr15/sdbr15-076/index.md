@@ -59,7 +59,7 @@ authors:
   - givenname: "Giovanna"
     familyname: "Numeriano"
 doi: "10.5281/zenodo.19069830"
-zenodo_pdf_url: "https://zenodo.org/records/19069831/files/sdbr15-076.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285715/files/sdbr15-076.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:

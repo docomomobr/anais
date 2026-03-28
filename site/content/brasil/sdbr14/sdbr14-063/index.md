@@ -40,7 +40,7 @@ authors:
     familyname: "Santos"
     orcid: "0000-0002-0794-267X"
 doi: "10.5281/zenodo.19078133"
-zenodo_pdf_url: "https://zenodo.org/records/19078134/files/sdbr14-063.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285674/files/sdbr14-063.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
@@ -58,15 +58,15 @@ palavras-chave:
 
 - BIDOU-ZACHARIASEN, Catherine. De volta à cidade: Dos processos de gentrificação às políticas de “revitalização” dos centros urbanos. São Paulo: Annablume, 2006. “Introdução”, p. 21-57.
 - BONDUKI, Nabil. Intervenções urbanas na recuperação de centros históricos. Brasília: Iphan/Monumenta, 2010.
-- BRASIL. Instituto do Patrimônio Histórico e Artístico Nacional. Superintendência no Distrito Federal. Parecer Técnico n.º 26/2019. Brasília: Iphan-DF, 11.abr.2019a. Disponível em: https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN 7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RWfyWsbztH91KC_QG- RWN9WTWxRWUa2zEy2GTFPKJehTklQeA2_j1brbwTKDDhHJ8J62e4n2Qp-ZNdqR2M1T3C.
-- BRASIL. Parecer Técnico n.º 32/2019. Brasília: Iphan-DF, 05.dez.2019b. Disponível em: https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN 7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q3bnsFp- sZgZ0bPEi8wSCEHSowQvrPFqv1hU0aIOZFpXCiHqKUrDcFMFMr69wzWIH3uPZABqH8cOQoua8Fwy_a.
+- BRASIL. Instituto do Patrimônio Histórico e Artístico Nacional. Superintendência no Distrito Federal. Parecer Técnico n.º 26/2019. Brasília: Iphan-DF, 11.abr.2019a. Disponível em: &lt;<a href="https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN">https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN</a>&gt; 7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RWfyWsbztH91KC_QG- RWN9WTWxRWUa2zEy2GTFPKJehTklQeA2_j1brbwTKDDhHJ8J62e4n2Qp-ZNdqR2M1T3C.
+- BRASIL. Parecer Técnico n.º 32/2019. Brasília: Iphan-DF, 05.dez.2019b. Disponível em: &lt;<a href="https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN">https://sei.iphan.gov.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN</a>&gt; 7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q3bnsFp- sZgZ0bPEi8wSCEHSowQvrPFqv1hU0aIOZFpXCiHqKUrDcFMFMr69wzWIH3uPZABqH8cOQoua8Fwy_a.
 - CAMARGO, Laura Ribeiro de Toledo. Paisagem e imaginário: configurações da avenida W3 Sul em Brasília.
-- CAMPOFIORITO, Ítalo. “Brasília revisitada”. In: Revista Eletrônica do Iphan. Disponível em http://www.labjor.unicamp.br/patrimonio/materia.php?id=101. Acesso em 14/05/2021.
+- CAMPOFIORITO, Ítalo. “Brasília revisitada”. In: Revista Eletrônica do Iphan. Disponível em &lt;<a href="http://www.labjor.unicamp.br/patrimonio/materia.php?id=101">http://www.labjor.unicamp.br/patrimonio/materia.php?id=101</a>&gt; Acesso em 14/05/2021.
 - COSTA, Lucio. “Brasília revisitada 1985-87” (anexo do Decreto nº 10.829). In: DISTRITO FEDERAL. Diário Oficial do Distrito Federal, Brasília, 14.out.1987.
 - COSTA, Maria Elisa; LIMA, Adeildo Viegas de. Brasília 57-85: do plano-piloto ao Plano Piloto. Brasília: TERRACAP, 1985.
 - DISTRITO FEDERAL. Secretaria de Desenvolvimento Urbano e Habitação. Processo nº 00390-00007096/2020-
-- DISTRITO FEDERAL. Proposta de Projeto de Lei Complementar: Programa de Revitalização do Setor Comercial Sul, denominado “Viva Centro!”. Brasília, DF: SEDUH/DF, 2020b. Disponível em: http://www.seduh.df.gov.br/wp- conteudo/uploads/2020/05/Minuta-PLC-Viva-Centro_-Audiencia-Publica.pdf . Acesso em 16/06/2021.
+- DISTRITO FEDERAL. Proposta de Projeto de Lei Complementar: Programa de Revitalização do Setor Comercial Sul, denominado “Viva Centro!”. Brasília, DF: SEDUH/DF, 2020b. Disponível em: &lt;<a href="http://www.seduh.df.gov.br/wp-">http://www.seduh.df.gov.br/wp-</a>&gt; conteudo/uploads/2020/05/Minuta-PLC-Viva-Centro_-Audiencia-Publica.pdf . Acesso em 16/06/2021.
 - HOLANDA, Frederico de. 10 mandamentos da arquitetura. 2.ed. Brasília: FRBH, 2015.
-- HOLANDA, Frederico de. Na contramão do apartaide. Oculum Ensaios (PUCCAMP), v.6, p.04-16, 2006. Disponível em https://www.fredericodeholanda.com.br/textos/holanda_2007_na_contramao_do_apartaide.pdf, acesso em 03/05/2021.
+- HOLANDA, Frederico de. Na contramão do apartaide. Oculum Ensaios (PUCCAMP), v.6, p.04-16, 2006. Disponível em &lt;<a href="https://www.fredericodeholanda.com.br/textos/holanda_2007_na_contramao_do_apartaide.pdf">https://www.fredericodeholanda.com.br/textos/holanda_2007_na_contramao_do_apartaide.pdf</a>&gt; acesso em 03/05/2021.
 - HOLANDA, Frederico de. Via W-3, Brasília: Nossa futura Broadway? In: PATRIMÔNIO em transformação: Atualidades e permanências na preservação de bens culturais em Brasília. Brasília: Iphan, 2017. p.78-89.
-- UNESCO. Recomendação sobre paisagem urbana histórica. Disponível em https://unescoportugal.mne.gov.pt/images/cultura/recomendacao_sobre_a_paisagem_historica_urbana_ unesco_2011.pdf , acesso em 07/05/2021.
+- UNESCO. Recomendação sobre paisagem urbana histórica. Disponível em &lt;<a href="https://unescoportugal.mne.gov.pt/images/cultura/recomendacao_sobre_a_paisagem_historica_urbana_">https://unescoportugal.mne.gov.pt/images/cultura/recomendacao_sobre_a_paisagem_historica_urbana_</a>&gt; unesco_2011.pdf , acesso em 07/05/2021.

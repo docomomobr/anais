@@ -57,7 +57,7 @@ palavras-chave:
 - BALTAR, P.; LEONE, E.T. A mulher na recuperação recente do mercado de trabalho brasileiro. In: Revista Brasileira de Estudos Populacionais. São Paulo, 2008.
 - BARDI, Lina Bo. Tempos de grossura: o design no impasse. São Paulo: Instituto Lina Bo e P.M. Bardi, 1994.
 - BIERRENBACH, Ana Carolina de Souza. Lina Bo Bardi: tempo, história e restauro. São Paulo, 2007. Disponível em: &lt;www.revistas.usp.br/cpc/article/download/15595/17169&gt;. Acesso em: 28 jan. 2015.
-- BITTAR, William. Universidade Federal do Rio de Janeiro, Faculdade de Arquitetura e Urbanismo. História. Rio de Janeiro, s/ . Disponível em: &lt;http://nova.fau.ufrj.br/index.asp?n1=1&n2=23&gt;. Acesso em: 29 jan. 2015.
+- BITTAR, William. Universidade Federal do Rio de Janeiro, Faculdade de Arquitetura e Urbanismo. História. Rio de Janeiro, s/ . Disponível em: &lt;<a href="http://nova.fau.ufrj.br/index.asp?n1=1&n2=23">http://nova.fau.ufrj.br/index.asp?n1=1&n2=23</a>&gt; Acesso em: 29 jan. 2015.
 - BORSOI, Roberta. Roberta Borsoi: depoimento da filha de Janete Costa [12 abr. 2013]. Entrevistadora: Andréa Gáti. Recife, PE, 2013.
 - CHADWICK, Whitney; CORURTIVRON, Isabelle de. Significant Others – Creativity & Intimate Partnership. London: Thames and Hudson, 1993.
 - COSTA, Geraldo Ferreira da. Geraldo Ferreira da Costa: depoimento do irmão de Janete Costa [mar. 2014]. Entrevistadora: Andréa Gáti. Recife, PE, 2014.
@@ -68,17 +68,17 @@ palavras-chave:
 - COSTA, Janete. Janete Costa, a arquiteta dos interiores brasileiros. São Paulo: Revista Design & Interiores, set. 1991.
 - COSTA, Janete. Conferência Janete Costa, realizado em 1973. In: Anais... Seminário de Tropicologia. Recife: Editora Universitaria UFPE, 1979.
 - COSTA, Janete. Conferência Roberto Burle Marx, realizado em 1985. In: Anais... Seminário de Tropicologia. Recife: Massangana, 1992.
-- FERRAZ, Marcos. Cem anos de Lina Bo Bardi, arquiteta-antropóloga. Revista carta Capital dez 2014. Disponível em: http://www.cartacapital.com.br/blogs/outras-palavras/cem-anos-de-lina-bo-bardi-arquiteta-antropologa- 5797.html. Acesso em: 31 jan. 2016.
+- FERRAZ, Marcos. Cem anos de Lina Bo Bardi, arquiteta-antropóloga. Revista carta Capital dez 2014. Disponível em: &lt;<a href="http://www.cartacapital.com.br/blogs/outras-palavras/cem-anos-de-lina-bo-bardi-arquiteta-antropologa-">http://www.cartacapital.com.br/blogs/outras-palavras/cem-anos-de-lina-bo-bardi-arquiteta-antropologa-</a>&gt; 5797.html. Acesso em: 31 jan. 2016.
 - GÁTI, Andréa. Arte e Artesanato na Arquitetura de Interiores Moderna de Janete Costa. Recife, 2014. Dissertação (Arquitetura e Urbanismo) - UFPE.
-- GUIMARAENS, Cêça; COUTO, Sylvia C. Musas do patrimônio moderno e contemporâneo. In: 8º DOCOMOMO Brasil, 2009. Rio de Janeiro. Trabalhos completos. 8º DOCOMOMO Brasil. Rio de Janeiro: FAU UFRJ, 2009. p. 1- 14.Disponível em: &lt;http://www.docomomo.org.br/seminario%208%20pdfs/131.pdf&gt;. Acesso em: 25 fev. 2013.
+- GUIMARAENS, Cêça; COUTO, Sylvia C. Musas do patrimônio moderno e contemporâneo. In: 8º DOCOMOMO Brasil, 2009. Rio de Janeiro. Trabalhos completos. 8º DOCOMOMO Brasil. Rio de Janeiro: FAU UFRJ, 2009. p. 1- 14.Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/131.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/131.pdf</a>&gt; Acesso em: 25 fev. 2013.
 - LIMA, Ana Gabriela Godinho. Revendo a história da arquitetura: uma perspectiva feminista. São Paulo, 2004 Tese (Educação) – Mackenzie.
 - MARQUES, Sonia; LARA, Fernando. QUID NOVI? Dilemas do ensino de arquitetura no século 21. Austin: Nhamericapress, 2015. McKELLAR, Susie; SPARKE, Penny. Interior design and identity. Manchester: Manchester University Press, 2004.
 - MOREIRA, Fernando; GÁTI, Andréa. Inventário Janete Costa: a construção da memória. In: 3º Seminário Ibero- americano Arquitetura e Documentação. Belo Horizonte: UFMG, nov. 2013.
 - OLIVEIRA, Olívia de (2006), Sutis Substâncias da arquitetura de Lina Bo Bardi. São Paulo: Romano Guerra, 2006.
 - PEREIRA, Juliano Aparecido. A ação cultural de Lina Bo Bardi na Bahia e no Nordeste, 1958-1964. Uberlândia: Edufu, 2007.
-- RUBINO, Silvana. Silvana Rubino: palestra [1 nov. 2014] Arquitetura e a questão de gênero: a mulher na arquitetura e na cidade. Sindicato dos Arquitetos de São Paulo, SP, 2014. Disponível em: https://www.youtube.com/watch?v=za4Bvx4J2mA. Acesso em: 15 fev. 2016.
+- RUBINO, Silvana. Silvana Rubino: palestra [1 nov. 2014] Arquitetura e a questão de gênero: a mulher na arquitetura e na cidade. Sindicato dos Arquitetos de São Paulo, SP, 2014. Disponível em: &lt;<a href="https://www.youtube.com/watch?v=za4Bvx4J2mA">https://www.youtube.com/watch?v=za4Bvx4J2mA</a>&gt; Acesso em: 15 fev. 2016.
 - RUBINO, Silvana; GRINOVER, Marina. Lina por escrito – textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.
 - SANTOS, Mário. Mário Santos: depoimento do filho de Janete Costa [7 jan. 2014]. Entrevistadora: Andréa Gáti. Recife, PE, 2014.
 - SPARKE, Penny. As long as its pink: the sexual politics of taste. London: Pandora, 1995.
 - SPARKE, Penny. The modern interior. London: Reaktion Books, 2008.
-- UFPE. Curso forma arquitetos há 45 anos – Nov. 2004. Disponível em: https://www.ufpe.br/agencia/index.php?option=com_content&view=article&id=10440:&catid=5&Itemid=78. Acesso em: 21 out. 2015.
+- UFPE. Curso forma arquitetos há 45 anos – Nov. 2004. Disponível em: &lt;<a href="https://www.ufpe.br/agencia/index.php?option=com_content&view=article&id=10440:&catid=5&Itemid=78">https://www.ufpe.br/agencia/index.php?option=com_content&view=article&id=10440:&catid=5&Itemid=78</a>&gt; Acesso em: 21 out. 2015.

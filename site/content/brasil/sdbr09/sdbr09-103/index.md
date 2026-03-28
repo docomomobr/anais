@@ -64,11 +64,11 @@ palavras-chave:
 - CASTRIOTA, Leonardo Barci (org.). Arquitetura da Modernidade. Belo Horizonte: Editora da UFMG, 1998.
 - CASTRIOTA, Leonardo Barci (org.) Saberes articulados: Aristides Salgado dos Santos. Belo Horizonte: IEDS, 2008.
 - FUAO, Fernando Freitas. Brutalismo, a última trincheira do movimento moderno
-- ARQUITEXTOS, 007, novembro 2000. Texto especial 036. São Paulo. Portal Vitruvius.  (http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp)
+- ARQUITEXTOS, 007, novembro 2000. Texto especial 036. São Paulo. Portal Vitruvius. ( &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp036.asp</a>&gt;
 - HABERMAS, Jürgen. Modernidade versus pós-modernidade. in: ARTE EM REVISTA, ano 5, n° 7, agosto de 1983, CEAC - Centro de Estudos de Arte Contemporânea: São Paulo.
 - HABERMAS, Jürgen. Arquitetura moderna e pós-moderna. in: Novos Estudos CEBRAP, n° 18, setembro de 1987.
 - KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel –. Editora da Universidade de São Paulo, 1990.
-- PREFEITURA MUNICIPAL DE DIVINOPOLIS, Divinópolis: hoje e amanhã. Divinópolis,    1986.
-- SANTOS, Aristides Salgado dos. “A Escola de Arquitetura da UFMG na década de 1960”.  In: Cleo Alves Pinto de Oliveira; Marina Wainer Machado. (Org.). Uma Escola moderna: 75 anos da EA-UFMG. Belo Horizonte: Editora da UFMG / IBDS, 2008. (no prelo)
+- PREFEITURA MUNICIPAL DE DIVINOPOLIS, Divinópolis: hoje e amanhã. Divinópolis, 1986.
+- SANTOS, Aristides Salgado dos. “A Escola de Arquitetura da UFMG na década de 1960”. In: Cleo Alves Pinto de Oliveira; Marina Wainer Machado. (Org.). Uma Escola moderna: 75 anos da EA-UFMG. Belo Horizonte: Editora da UFMG / IBDS, 2008. (no prelo)
 - ZEIN, Ruth Verde. Un Compás, Tres Tiempos y Una Pausa, Debates y Ausencia en la Identidad de la Arquitectura Brasileña y Contemporánea. In: Maria Dolores Muñoz R.; Rodrigo Garcia A.. (Org.). Investigación en Arquitectura y Urbanismo. 1a ed.
 - Concepción, Chile: Facultad de Arquitectura, Construcción y Diseño / Universidad del Bío-Bío, 2007.

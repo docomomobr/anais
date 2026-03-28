@@ -58,7 +58,7 @@ palavras-chave:
 - BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetura brasileira: discurso, prática e pensamento. São Paulo: Perspectiva, 2003.
 - BAXANDALL, Michael. Padrões de intenção: a explicação histórica dos quadros. São Paulo: Cia. das Letras, 2008.
 - BERMAN, Marshall. Tudo que é sólido desmancha no ar – a aventura da modernidade. São Paulo: Editora Schwarcz, 1986.
-- BRASIL. Instituto Brasileiro de Geografia e Estatística. Dados históricos dos censos. Brasília, 2009. Disponível em: ‹http://www.ibge.gov.br/home/estatistica/populacao/censohistorico/default.shtm›. Acesso em 20 de maio de 2009.
+- BRASIL. Instituto Brasileiro de Geografia e Estatística. Dados históricos dos censos. Brasília, 2009. Disponível em: ‹ &lt;<a href="http://www.ibge.gov.br/home/estatistica/populacao/censohistorico/default.shtm›">http://www.ibge.gov.br/home/estatistica/populacao/censohistorico/default.shtm›</a>&gt; Acesso em 20 de maio de 2009.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CAMARGO, Cândido Procópio Ferreira de et al. São Paulo 1975. Crescimento e pobreza. São Paulo: Loyola, 1976.
 - CAMARGO, Mônica Junqueira de. Fábio Penteado: Arquitetura de integração. AU 105, São Paulo, dezembro 2002.
@@ -81,7 +81,7 @@ palavras-chave:
 - PIGNATARI, Décio. Semiótica da arte e da arquitetura. 3. ed., São Paulo: Ateliê, 2004. SÃO PAULO: signos e personagens. Revista da Biblioteca Mário de Andrade, v.54, 1996.
 - SANTOS, Milton. A urbanização brasileira. 3. ed., São Paulo: Hucitec, 1996.
 - SANTOS, Milton. O espaço do cidadão. 7. ed., São Paulo: Edusp, 2007.
-- SÃO PAULO (Município). Secretaria Municipal de Planejamento. Histórico demográfico. São Paulo, 2009. Disponível em : ‹http://sempla.prefeitura.sp.gov.br/historico/›. Acesso em 20 de maio de 2009.
+- SÃO PAULO (Município). Secretaria Municipal de Planejamento. Histórico demográfico. São Paulo, 2009. Disponível em : ‹ &lt;<a href="http://sempla.prefeitura.sp.gov.br/historico/›">http://sempla.prefeitura.sp.gov.br/historico/›</a>&gt; Acesso em 20 de maio de 2009.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp.
 - SIMÕES JUNIOR, José Geraldo; MIRANDA, Wander de Melo. Anhangabaú: história e urbanismo. São Paulo: Imprensa Oficial, 2005.
 - TOLEDO, Benedito Lima de. São Paulo: três cidades em um século. 3. ed., São Paulo: Cosac

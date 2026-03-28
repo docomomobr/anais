@@ -59,7 +59,7 @@ palavras-chave:
 - ANDRADE, Margarida Julia Farias de Salles. A Verticalização e a Origem do Movimento Moderno em Fortaleza. In: DOCOMOMO Brasil, 3. Anais... A permanência do moderno, São Paulo, 1999.
 - CARSALADE, Flavio de Lemos. A preservação do patrimônio como construção cultural. Arquitextos, São Paulo, ano 12, n. 139.03, 2011. &lt;Http: www.vitruvius.com.br/revistas/read/arquitextos/12.139/4166&gt;
 - CASTRO, José Liberal de. Ceará, sua arquitetura e seus arquitetos. In: CADERNOS BRASILEIROS- Panorama da Arquitetura Cearense. São Paulo: Projeto, 1982.
-- COSTA, Maria Clélia Lustosa. PEQUENO, Renato.  Fortaleza: transformações na ordem urbana. Rio de Janeiro: Letra Capital: Observatório das metrópoles, 2015.
+- COSTA, Maria Clélia Lustosa. PEQUENO, Renato. Fortaleza: transformações na ordem urbana. Rio de Janeiro: Letra Capital: Observatório das metrópoles, 2015.
 - DIOGENES, Beatriz H. N.; PAIVA, Ricardo A. Caminhos da Arquitetura Moderna em Fortaleza: a contribuição do professor arquiteto José Neudson Braga. In: 4o DOCOMOMO NO-NE, 2012, Natal, RN.
 - DIOGENES, Beatriz H. Nogueira. Dinâmicas urbanas recentes da área metropolitana de Fortaleza. Tese (Doutorado Interinstitucional em Arquitetura e Urbanismo). FAUUSP, São Paulo, 2012.
 - FISCHER, Sylvia; ACAYABA, Marlene. Arquitetura Moderna Brasileira. São Paulo: Projeto, 1982.
@@ -68,6 +68,6 @@ palavras-chave:
 - GOVERNO DO ESTADO DO CEARÁ. Plano de governo do Estado do Ceará – PLAGEC. São Paulo: ASPLAN – LWM, 1971.
 - JUCÁ NETO, C. R.; GONÇALVES, A.; BRASIL, A. Arquitetura Moderna Campus do Benfica – Universidade Federal do Ceará. Fortaleza. Edições UFC, 2014.
 - PAIVA, Ricardo Alexandre. A metrópole híbrida. O papel do turismo no processo de urbanização da região metropolitana de Fortaleza. Tese (Doutorado Interinstitucional em Arquitetura e Urbanismo). FAUUSP, São Paulo, 2011.
-- PAIVA, Ricardo Alexandre. Ricardo Alexandre. Cidade e arquitetura em transe. O Centro de Eventos do Ceará. Arquitextos, São Paulo, ano 14, n. 164.04, Vitruvius, jan. 2014 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/14.164/5032&gt;.
+- PAIVA, Ricardo Alexandre. Ricardo Alexandre. Cidade e arquitetura em transe. O Centro de Eventos do Ceará. Arquitextos, São Paulo, ano 14, n. 164.04, Vitruvius, jan. 2014 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/14.164/5032">http://www.vitruvius.com.br/revistas/read/arquitextos/14.164/5032</a>&gt;
 - SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. 2005. Dissertação – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2005.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.

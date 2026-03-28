@@ -45,14 +45,14 @@ palavras-chave:
 
 ## Referências
 
-- AQUINO, Flávio de. “Max Bill critica a nossa moderna arquitetura”. Manchete nº 60, Rio de Janeiro, 13 jun. 1953, p. 38-39. Acessível em http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp
+- AQUINO, Flávio de. “Max Bill critica a nossa moderna arquitetura”. Manchete nº 60, Rio de Janeiro, 13 jun. 1953, p. 38-39. Acessível em &lt;<a href="http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp">http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp</a>&gt;
 - BRITO, Ronaldo, “Neoconcretismo: Vértice e Ruptura do Projeto Construtivo Brasileiro, Rio de Janeiro, FUNARTE, 1985.
 - BUSQUETS, Joan. Cities X Lines. Cambridge, Nicolodi Editore, Catálogo de exposição Harvard Gradueted School of Design, 2006.
 - BUZZAR, Miguel A. “João Batista Vilanova Artigas: Elementos para a compreensão de um caminho para a arquitetura moderna brasileira”, São Paulo, FAU USP, Dissertação de Mestrado, 1996.
 - COLQUHOUN, Alan, “Modern Architecture”, Oxford History University Press, 2002.
 - CORATO, Aline Coelho Sanches, “Arte e architettura: l’esperienza degli italiani in Brasile dopo la seconda guerra mondiale”, Milano, Dottorato in Composizione Architettonica, Politecnico, texto digital de debate interno, 2008.
 - COSTA, Lúcio, “Lúcio Costa: Registro de uma Vivência”, São Paulo, Empresa das Artes, 1995.
-- COSTA, Lúcio, “Lúcio Costa defende a nossa arquitetura moderna: Oportunidade Perdida”, Manchete n. 63, Rio de Janeiro, 4 de julho 1953, p. 49. Acessível em http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp
+- COSTA, Lúcio, “Lúcio Costa defende a nossa arquitetura moderna: Oportunidade Perdida”, Manchete n. 63, Rio de Janeiro, 4 de julho 1953, p. 49. Acessível em &lt;<a href="http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp">http://vitruvius.com.br/documento/hojeontem/hojeontem_03.asp</a>&gt;
 - FERNANDA, Fernandes, “Arquitetura no Brasil no Segundo pós-Guerra: a síntese das artes”, in «Anais do VI Seminário DOCOMOMO Brasil», Niterói- RJ, Universidade Federal Fluminense, 2005
 - FRAMPTON, Kenneth, “História Crítica da Arquitetura Moderna, São Paulo, Martins Fontes, 1987 (1ª. ed.1980).
 - GORELIK, Adrián, “Das vanguardas a Brasília, Cultura Urbana e Arquitetura na América Latina”, Belo Horizonte, Editora UFMG, 2005.

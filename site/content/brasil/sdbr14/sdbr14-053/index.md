@@ -39,7 +39,7 @@ authors:
     familyname: "Lira"
     orcid: "0000-0003-2259-4885"
 doi: "10.5281/zenodo.19078099"
-zenodo_pdf_url: "https://zenodo.org/records/19078100/files/sdbr14-053.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285673/files/sdbr14-053.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
@@ -58,7 +58,7 @@ palavras-chave:
 - BONDUKI, Nabil. Saiba quais serão os impactos da pandemia no futuro das cidades. Caderno Ilustríssima. São Paulo, Folha de S.Paulo, 24 abr. 2021.
 - BRASIL. Companhia Imobiliária de Brasília (TERRACAP). Brasília 57-85: do plano piloto ao Plano Piloto. Brasília: TERRACAP, 1985.
 - BRASIL. IPHAN. Plano Piloto 50 anos: cartilha de preservação Brasília_ Reimpressão _ Brasília, DF, 2009. 103 p.
-- BRASIL. IPHAN. Portaria nº 314, de 8 de outubro de 1992. Diário Oficial [da] República Federativa do Brasil, Brasília-DF, ano 130, n. 195, 9 out. 1992. Seção 1, p. 14302. Disponível em: &lt;http://portal.iphan.gov.br/uploads/legislacao/Portaria_n_314_de_8_de_outubro_de_1992.pdf&gt;. Acesso em: 5 de maio 2021.
+- BRASIL. IPHAN. Portaria nº 314, de 8 de outubro de 1992. Diário Oficial [da] República Federativa do Brasil, Brasília-DF, ano 130, n. 195, 9 out. 1992. Seção 1, p. 14302. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/legislacao/Portaria_n_314_de_8_de_outubro_de_1992.pdf">http://portal.iphan.gov.br/uploads/legislacao/Portaria_n_314_de_8_de_outubro_de_1992.pdf</a>&gt; Acesso em: 5 de maio 2021.
 - BRASIL. IPHAN. Conjunto Urbanístico de Brasília. Complementação e detalhamento da Portaria Iphan nº 314/1992. Documento Técnico. Brasília, 2016a.
 - BRASIL. IPHAN. Portaria nº 166, de 11 de maio de 2016. Estabelece a complementação e o detalhamento da Portaria nº 314/1992 e dá outras providências. Diário Oficial da União, Brasília-DF, ano 153, n. 91, 13 maio
 - BRASIL. IPHAN. Brasília, cidade que inventei: relatório do Plano Piloto de Brasília. Brasília: IPHAN, 2014.
@@ -67,7 +67,7 @@ palavras-chave:
 - CORBUSIER, Le. A carta de Atenas. Tradução de Rebeca Scherer. 1 ed. São Paulo: HUCITEC, EDUSP, 1993.
 - COSTA, Lucio. Brasília revisitada 1985-87. In: DISTRITO FEDERAL. Decreto nº 10.829, de 14 de outubro de
 - COSTA, Lucio. Diretrizes para a Preservação da Integridade do Plano Piloto. Em: XAVIER, Alberto e KATINSKY, Julio (orgs). Brasília - antologia crítica. São Paulo: Cosac Naify, 2012. p. 292-293.
-- DAUFENBACH, Karine. O capítulo brasileiro. Bruno Zevi e a narrativa por uma arquitetura orgânica. Arquitextos, São Paulo, ano 19, n. 228.00, Vitruvius, maio 2019 &lt;https://vitruvius.com.br/revistas/read/arquitextos/19.228/7390&gt;.
+- DAUFENBACH, Karine. O capítulo brasileiro. Bruno Zevi e a narrativa por uma arquitetura orgânica. Arquitextos, São Paulo, ano 19, n. 228.00, Vitruvius, maio 2019 &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/19.228/7390">https://vitruvius.com.br/revistas/read/arquitextos/19.228/7390</a>&gt;
 - FRAMPTON, Kenneth. Storia dell’architettura moderna. Tradução de Silvia Milesi. 4 ed. Bologna: Zanichelli editore S.p.A, 2008.
 - GORELIK, Adrián. Brasília, o museu da vanguarda, 1950 e 1960. São Paulo, 2005. Em: GORELIK, Adrian. Das vanguardas a Brasília: cultura urbana e arquitetura na América Latina. Belo Horizonte: Editora UFMG, 2005.
 - GOROVITZ, Matheus. Brasília, uma questão de escala. São Paulo, Projeto, 1985.

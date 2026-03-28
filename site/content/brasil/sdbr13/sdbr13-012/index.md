@@ -68,8 +68,8 @@ palavras-chave:
 - DELPHIM, Carlos Fernando de Moura. O patrimônio Natural no Brasil. Rio de Janeiro: IPHAN, 21 de julho de 2005.
 - DEPAM. Relatório de uma gestão 2006-2010. Brasília, 2011. datil.
 - DIAS, Karina. Entre visão e invisão: paisagem: por uma experiência da paisagem no cotidiano. Brasília: Universidade de Brasília, 2010.
-- FRANCISCO, Manoel João. Exaltação da Santa Cruz. Setembro de 2018. Disponível em &lt;http://www.cnbb.org.br/exaltacao-da-santa-cruz-2/&gt;. Acesso em maio de 2019.
-- G1 DISTRITO FEDERAL. Por que isso é assim? Taguaparque guarda réplica da tenda da primeira missa realizada em Brasília. 26 de abril de 2019. Disponível em &lt;https://g1.globo.com/df/distrito-federal/noticia/2019/04/26/por-que-isso-e-assim-taguaparque-guarda-replica-da-tenda-da-primeira-missa-realizada-em-brasilia.ghtml&gt;.
+- FRANCISCO, Manoel João. Exaltação da Santa Cruz. Setembro de 2018. Disponível em &lt;<a href="http://www.cnbb.org.br/exaltacao-da-santa-cruz-2/">http://www.cnbb.org.br/exaltacao-da-santa-cruz-2/</a>&gt; Acesso em maio de 2019.
+- G1 DISTRITO FEDERAL. Por que isso é assim? Taguaparque guarda réplica da tenda da primeira missa realizada em Brasília. 26 de abril de 2019. Disponível em &lt;<a href="https://g1.globo.com/df/distrito-federal/noticia/2019/04/26/por-que-isso-e-assim-taguaparque-guarda-replica-da-tenda-da-primeira-missa-realizada-em-brasilia.ghtml">https://g1.globo.com/df/distrito-federal/noticia/2019/04/26/por-que-isso-e-assim-taguaparque-guarda-replica-da-tenda-da-primeira-missa-realizada-em-brasilia.ghtml</a>&gt;
 - KUBITSCHEK, Juscelino. Por que construí Brasília. Brasília: Senado Federal, Conselho Editorial, 2000.
 - LIMA, Solange Terezinha de. Geografia e literatura: alguns pontos sobre a percepção da paisagem. GEOSUL jan de 2000: 7-33.
 - LISPECTOR, Clarice. Pra não esquecer. Rio de Janeiro. Editora Rocco, 1999.
@@ -79,7 +79,7 @@ palavras-chave:
 - PESAVENTO, Sandra Jatahy. Cidade, espaço e tempo: reflexões sobre a memória e o patrimônio urbano. Cadernos do LEPAARQ, Pelotas, v. 2, n. 4, 2005.
 - RANQUEAT JÚNIOR, Cesar Alberto. Laicidade à brasileira: um estudo sobre a controvérsia em torno da presença de símbolos religiosos em espaços públicos. Tese (Doutorado em Antropologia Social). Porto Alegre: UFRSG PPGAS, 2012.
 - REVISTA BRASÍLIA. Número Especial da Primeira Missa. Companhia Urbanizadora da Nova Capital do Brasil, NOVACAP. Ano I, n. 5. maio de 1957.
-- REVISTA GPS/Lifetime. Muito além do horizonte: GPS desvenda a Praça do Cruzeiro, ícone da capital. Agosto de 2018. Disponível em &lt;https://gpslifetime.com.br/conteudo/variedades/artigos/8/muito-alem-do-horizonte-gps- desvenda-a-praca-do-cruzeiro-icone-da-capital?page=263&gt;. Acesso maio de 2019.
+- REVISTA GPS/Lifetime. Muito além do horizonte: GPS desvenda a Praça do Cruzeiro, ícone da capital. Agosto de 2018. Disponível em &lt;<a href="https://gpslifetime.com.br/conteudo/variedades/artigos/8/muito-alem-do-horizonte-gps-">https://gpslifetime.com.br/conteudo/variedades/artigos/8/muito-alem-do-horizonte-gps-</a>&gt; desvenda-a-praca-do-cruzeiro-icone-da-capital?page=263&gt;. Acesso maio de 2019.
 - REVISTA MANCHETE, Rio de Janeiro, Edição 0302, Ano 1958.
 - RIBEIRO, Rafael Winter. Paisagem cultural e patrimônio. Rio de Janeiro: IPHAN/COPEDOC, 2007.
 - RODRIGUES, Maria da Assunção Pereira. Ressignificação histórico-social da praça na cidade média brasileira: análise das praças de formosa de Goiás. Tese (Doutorado em Arquitetura e Urbanismo). Brasília: FAU UnB, 2016.

@@ -64,16 +64,16 @@ palavras-chave:
 - BERGDOLL, Barry. Prefazione. In: LEJEUNE, Jean-François; SABATINO, Michelangelo. Nord/Sud. L’architettura moderna e il Mediterraneo. Milano: List Lab, 2016, p. 9-17.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CAVALCANTI, Lauro (org.). Quando o Brasil era moderno: guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.
-- COMAS, Carlos Eduardo. Arquitetura moderna, estilo campestre. Hotel Parque São Clemente. Arquitextos 123.00. Ago. 2010. Disponível em https://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513. Acesso em abril 2012.
+- COMAS, Carlos Eduardo. Arquitetura moderna, estilo campestre. Hotel Parque São Clemente. Arquitextos 123.00. Ago. 2010. Disponível em &lt;<a href="https://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513">https://www.vitruvius.com.br/revistas/read/arquitextos/11.123/3513</a>&gt; Acesso em abril 2012.
 - COMAS, Carlos Eduardo. Precisões brasileiras sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-1945. Tese para obter o grau de doutor pela Universidade de Paris 8. Paris: 2002.
 - COMAS, Carlos Eduardo. Moderna (1930 a 1960). In: MONTEZUMA, Roberto (org.). Arquitetura Brasil 500 anos. Recife: Universidade Federal de Pernambuco, 2002, v. 1, p. 185-237.
 - COMAS, Carlos Eduardo. Protótipo e monumento, um ministério, o ministério. Projeto, 1987, n. 102.
-- COSTA, Lucio. O risco moderno. [Entrevista concedida a] Mário César Carvalho, Rio de Janeiro:10/07/1995. Folha de São Paulo, 23/07/1995. Disponível em : http://www1.folha.uol.com.br/fsp/especial/mais/historia/230795.htm. Acesso em junho2018.
-- GIARDINA, Andrea. O mito fascista da romanidade. Estudos Avançados. São Paulo, v. 22, n. 62, p. 55-76, abril de 2008. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103- 40142008000100005&lng=en&nrm=iso. Acesso: setembro 2016.
+- COSTA, Lucio. O risco moderno. [Entrevista concedida a] Mário César Carvalho, Rio de Janeiro:10/07/1995. Folha de São Paulo, 23/07/1995. Disponível em : &lt;<a href="http://www1.folha.uol.com.br/fsp/especial/mais/historia/230795.htm">http://www1.folha.uol.com.br/fsp/especial/mais/historia/230795.htm</a>&gt; Acesso em junho2018.
+- GIARDINA, Andrea. O mito fascista da romanidade. Estudos Avançados. São Paulo, v. 22, n. 62, p. 55-76, abril de 2008. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-</a>&gt; 40142008000100005&lng=en&nrm=iso. Acesso: setembro 2016.
 - GIOVANNONI, Gustavo. Il momento attuale dell’architettura. Principii di estetica pratica. In: Architetture di pensiero e pensieri sull’architettura. Roma: Apollon MCMXLV [1945].
 - LEONÍDIO, Otávio. Carradas de razões: Lucio Costa e a arquitetura moderna brasileira. Rio de Janeiro/São Paulo: Ed. PUC Rio/Loyola, 2007.
 - LESSA, Carlos. Nação e nacionalismo a partir da experiência brasileira. Estudos Avançados. Abr. 2008, vol. 22, n. 62, p. 237-256.
 - LIRA, José. Warchavchik: fraturas da vanguarda. São Paulo: Cosac Naify, 2011.
 - MOTA, Carlos Guilherme. Ideologia da cultura brasileira: 1933-1974. Pontos de partida para uma revisão histórica. São Paulo: Ática, 1978.
 - PUPPI, Suely de Oliveira Figueirêdo. Lina Bo Bardi. Uma formação. Tese de doutorado. Porto Alegre: Propar- Ufrgs, outubro de 2020.
-- SILVA, Maria do Carmo Couto da. "Representações do índio na arte brasileira do século XIX". Revista de História da Arte e Arqueologia, n. 8, jul-dez 2007, p. 63-71 http://www.unicamp.br/chaa/rhaa/downloads/Revista%208%20-%20artigo%205.pdf, acessado em 10/06/2013.
+- SILVA, Maria do Carmo Couto da. "Representações do índio na arte brasileira do século XIX". Revista de História da Arte e Arqueologia, n. 8, jul-dez 2007, p. 63-71 &lt;<a href="http://www.unicamp.br/chaa/rhaa/downloads/Revista%208%20-%20artigo%205.pdf">http://www.unicamp.br/chaa/rhaa/downloads/Revista%208%20-%20artigo%205.pdf</a>&gt; acessado em 10/06/2013.

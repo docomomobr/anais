@@ -56,7 +56,7 @@ palavras-chave:
 - XAVIER, Alberto (Org.). Depoimento de uma geração: arquitetura moderna brasileira. 2. ed. São Paulo: Cosac & Naify, 2003. P. 318 – 322.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. 2. ed. São Paulo: Perspectiva, 1991. 398 p.
 - CORBACHO, Raul Moreno. La Plaza cubierta de La ciudade universitária de Caracas. (1953). La síntesis de las artes como paradigma de lo perceptible em el arte de vanguardia. Tese de doutorado. Universidade Politecnica de Cataluña. 2001
-- DUARTE, Ticiano. O grande Navarro. Tribuna do Norte. 14/05/2008. Disponível em http://tribunadonorte.com.br/noticia.php?id=75427 Acesso em: 15.04.2008
+- DUARTE, Ticiano. O grande Navarro. Tribuna do Norte. 14/05/2008. Disponível em &lt;<a href="http://tribunadonorte.com.br/noticia.php?id=75427">http://tribunadonorte.com.br/noticia.php?id=75427</a>&gt; Acesso em: 15.04.2008
 - FERNANDES, Fernanda S. A síntese das artes e a moderna arquitetura brasileira dos anos 1950. 16f. 2005. Disponível em: &lt;www.iar.unicamp.br/dap/vanguarda/artigos_pdf/fernanda_fernandes. pdf&gt; Acesso em 27 set. 2007
 - GONDIM, Djanira Oiticica et AL. Delfim Amorim: arquiteto. 2. Ed. Recife: IAB-PE. 1991
 - MELO, Magda M. Síntese das artes na arquitetura de Oscar Niemeyer. Disponível em: &lt;www2.uel.br/proppg/semina/pdf/semina_24_1_21_44.pdf.&gt; Acesso em: 10. nov. 2007. Newton-navarro-artista-potiguar-que-virou-ponte. Disponível em: &lt;http:// www.overmundo.com.br/overblog/&gt;. Acesso em 15.04. 2008

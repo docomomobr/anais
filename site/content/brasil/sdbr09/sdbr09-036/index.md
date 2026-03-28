@@ -53,20 +53,20 @@ palavras-chave:
 
 ## Referências
 
-- BONDUKI, Nabil  Origens da habitação social no Brasil. São Paulo: Estação liberdade, 1998.
+- BONDUKI, Nabil Origens da habitação social no Brasil. São Paulo: Estação liberdade, 1998.
 - BUFFA, E. e PINTO, G. A. Arquitetura e educação: organização do espaço e propostas pedagógicas dos grupos escolares paulistas, 1893/1971. São Carlos: EdUFSCar, 2002.
-- CAVALCANTI, Lauro  Moderno e Brasileiro. Rio de Janeiro: Jorge Zahar Editor, 2006.
-- COSTA, Lúcio.  Documentação necessária. Revista do Patrimônio Histórico e Artístico Nacional, Rio de janeiro, 1937, pp.31 a 39.
-- FREYRE, Gilberto.  Sugestões para o estudo da arte brasileira em relação com a de Portugal e a das colônias Revista do Patrimônio Histórico e Artístico Nacional, Rio de janeiro, 1937,pp 41 a 44.
-- FURTADO, Celso  A pré-revolução Brasileira. Rio de Janeiro: Fundo de Cultura, 1962.
-- GUERRA, Abilio (org.)  Textos fundamentais sobre história da arquitetura moderna brasileira (parte 1 e 2). São Paulo: Romano Guerra, 2010.
-- LIRA, José  Arquitetura, historiografia e história operativa nos anos de 1960. In: VIII Seminário DOCOMOMO Anais em Cd-rom, Rio de Janeiro, 2009.
-- MARTINS, Carlos Alberto Ferreira  Arquitetura e Estado no Brasil: elementos para uma investigação sobre a constituição do discurso sobre o moderno no Brasil, a obra de Lúcio Costa 1924- 1952. Dissertação de mestrado. São Paulo: FFLCH-USP, 1987.
+- CAVALCANTI, Lauro Moderno e Brasileiro. Rio de Janeiro: Jorge Zahar Editor, 2006.
+- COSTA, Lúcio. Documentação necessária. Revista do Patrimônio Histórico e Artístico Nacional, Rio de janeiro, 1937, pp.31 a 39.
+- FREYRE, Gilberto. Sugestões para o estudo da arte brasileira em relação com a de Portugal e a das colônias Revista do Patrimônio Histórico e Artístico Nacional, Rio de janeiro, 1937,pp 41 a 44.
+- FURTADO, Celso A pré-revolução Brasileira. Rio de Janeiro: Fundo de Cultura, 1962.
+- GUERRA, Abilio (org.) Textos fundamentais sobre história da arquitetura moderna brasileira (parte 1 e 2). São Paulo: Romano Guerra, 2010.
+- LIRA, José Arquitetura, historiografia e história operativa nos anos de 1960. In: VIII Seminário DOCOMOMO Anais em Cd-rom, Rio de Janeiro, 2009.
+- MARTINS, Carlos Alberto Ferreira Arquitetura e Estado no Brasil: elementos para uma investigação sobre a constituição do discurso sobre o moderno no Brasil, a obra de Lúcio Costa 1924- 1952. Dissertação de mestrado. São Paulo: FFLCH-USP, 1987.
 - MARTINS, Carlos Alberto Ferreira. Construir a escola, construir a cidade, construir o cidadão. V Seminário de História da Cidade e do Urbanismo, Campinas, 1998.
-- MINDLIN, Henrique  Arquitetura Moderna no Brasil. Rio de Janeiro, Aeroplano, 1999. 1ª. Ed. 1956.
-- MOTA, Lourenço Dantas (org.)  Introdução ao Brasil, um banquete no trópico. São Paulo: Senac, 4 ed. 2004.
-- NOGUEIRA, Marco Aurélio  Positividades e Negatividades da herança ibérica: Oliveira Vianna e Sérgio Buarque de Holanda. DVD 427, 50 min IN LAHUERTA  Milton Intérpretes do Brasil no século XX. TV Cultura, Espaço cultural CPFL, 2000.
-- NOVAIS, Fernando A.  Aproximações: ensaios de história e historiografia. São Paulo: Cossac Naify, 2005.
-- NOVAIS, Fernando A. e REGO, Rubem M. Leão Caio Prado Júnior: o sentido da colonização e a revolução brasileira. DVD 494, 50 min IN LAHUERTA  Milton Intérpretes do Brasil no século XX. TV Cultura, Espaço cultural CPFL, 2000.
+- MINDLIN, Henrique Arquitetura Moderna no Brasil. Rio de Janeiro, Aeroplano, 1999. 1ª. Ed. 1956.
+- MOTA, Lourenço Dantas (org.) Introdução ao Brasil, um banquete no trópico. São Paulo: Senac, 4 ed. 2004.
+- NOGUEIRA, Marco Aurélio Positividades e Negatividades da herança ibérica: Oliveira Vianna e Sérgio Buarque de Holanda. DVD 427, 50 min IN LAHUERTA Milton Intérpretes do Brasil no século XX. TV Cultura, Espaço cultural CPFL, 2000.
+- NOVAIS, Fernando A. Aproximações: ensaios de história e historiografia. São Paulo: Cossac Naify, 2005.
+- NOVAIS, Fernando A. e REGO, Rubem M. Leão Caio Prado Júnior: o sentido da colonização e a revolução brasileira. DVD 494, 50 min IN LAHUERTA Milton Intérpretes do Brasil no século XX. TV Cultura, Espaço cultural CPFL, 2000.
 - PESSOA, José, VASCONCELLOS, Eduardo, REIS, Elisabete, LOBO, Maria (org.) Moderno e Nacional. Niterói: EdUFF, 2006.
-- PRADO JÚNIOR, Caio  Formação do Brasil Contemporâneo. São Paulo: Brasiliense, 9 reimpressão da 23 ed. 2006. 1ª. Ed. 1942.
+- PRADO JÚNIOR, Caio Formação do Brasil Contemporâneo. São Paulo: Brasiliense, 9 reimpressão da 23 ed. 2006. 1ª. Ed. 1942.

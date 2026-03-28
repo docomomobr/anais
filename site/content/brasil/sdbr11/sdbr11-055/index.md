@@ -55,7 +55,7 @@ palavras-chave:
 - BOURDIEU, P. La miseria del mundo. Akal/Fondo de Cultura Económica da Argentina: Madrid, 1999.
 - BRUNNER, José J.. Modernidad. In: ALTAMIRANO, Carlos. Términos críticos de sociologia de la cultura. Buenos Aires: Paidos Iberica, 2002.
 - CHAVES, Celma. Arquitectura en Belém entre 1930 - 1960: Modernización com Lenguajes Cambiantes. 2004. 287 f. Tese (Doutorado) - Curso de Arquitetura, Universitat Politècnica de Catalunya. Barcelona, 2004.
-- CHAVES, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. Revista Risco: revista de pesquisa em arquitetura e urbanismo, São Paulo, n. 4, p.145-163, fev. 2008. Disponível em: &lt;http://www.iau.usp.br/revista_risco/Risco8-pdf/02_art10_risco8.pdf&gt;. Acesso em: 2 fev. 2016.
+- CHAVES, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. Revista Risco: revista de pesquisa em arquitetura e urbanismo, São Paulo, n. 4, p.145-163, fev. 2008. Disponível em: &lt;<a href="http://www.iau.usp.br/revista_risco/Risco8-pdf/02_art10_risco8.pdf">http://www.iau.usp.br/revista_risco/Risco8-pdf/02_art10_risco8.pdf</a>&gt; Acesso em: 2 fev. 2016.
 - CHAVES, Celma; MACHADO, Izabelle. Moradias Modernistas em Belém (PA): Documentando um novo modo de vida. In: SEMINÁRIO IBERO-AMERICANO ARQUITETURA E DOCUMENTAÇÃO, 3., 2013, Belo Horizonte. Artigo. Belo Horizonte: Editora, 2013. p. 1– 14.
 - CHAVES, Celma; DIAS, Rebeca. La Modernización Constructiva en Belém, Pará, Brasil, en las Primeras Décadas del Siglo XX. In: IX CONGRESO NACIONAL Y I CONGRESO INTERNACIONAL HISPANOAMERICANO DE HISTORIA
 - DE LA CONSTRUCCIÓN, 9., 2015, Segóvia. Actas del IX Congreso Nacional y I Congreso Internacional Hispanoamericano de Historia de La Construccion. Segóvia: Inst. Juan de Herrera, 2015. v. 3, p. 1 - 11.
@@ -68,6 +68,6 @@ palavras-chave:
 - MARQUES, Sonia M. B.; NASLAVSKY, Guilah. Recepção x difusão: reflexões para a preservação do patrimônio recente. In: SEMINÁRIO DOCOMOMO BRASIL, 9., 2011, Brasília. Artigo. Recife: Edufpe, 2011. p. 1 - 11.
 - MÜLLER, Luis. Modernidades de Provincia: Estado y Arquitectura em La Ciudad de Santa Fe, 1935-1943. Santa Fe: UNL, 2011. 246 p. NORBERG-SCHULZ, Christian. Los Principios de La Arquitectura Moderna.Barcelona: Reverté, 2005. 283 p.
 - SANTOS, Erika Diniz Araújo dos. Recepção e dispersão da arquitetura moderna em João Pessoa, 1970-
-- 1985. 2014. 301 f. Dissertação (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2014. Disponível em: &lt;http://www.repositorio.ufpe.br/handle/123456789/13163&gt;. Acesso em: 28 jan. 2016.
+- 1985. 2014. 301 f. Dissertação (Mestrado) - Curso de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2014. Disponível em: &lt;<a href="http://www.repositorio.ufpe.br/handle/123456789/13163">http://www.repositorio.ufpe.br/handle/123456789/13163</a>&gt; Acesso em: 28 jan. 2016.
 - SEGAWA, Hugo. Arquiteturas no Brasil. 1900-1999. São Paulo: EDUSP, 1999.
 - WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.

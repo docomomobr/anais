@@ -70,16 +70,16 @@ palavras-chave:
 - AERONÁUTICA veta projeto de Niemeyer. Correio da Manhã. Rio de Janeiro, 14 de set. de 1966, p.5.
 - BRASIL. Decreto nº 16.983, de 22 de Julho de 1925. Approva o regulamento para os Serviços Civis de Navegação Aerea. Diário Oficial da União: Seção 1, Rio de Janeiro, 1925, p. 16934.
 - BRASIL. Decreto nº 20.914, de 6 de janeiro de 1932. Regula a execução dos serviços aeronáuticos civís. Diário Oficial da União: Seção 1, Rio de Janeiro, 1932, p. 1765.
-- CONPRESP tomba imóveis da Subprefeitura da Sé e Aeroporto de Congonhas. São Paulo, 14 fev. 2012. Disponível em: https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/conpresp/noticias/?p=10119. Acesso em 25 de mai. de 2023.
-- CONSTRAN INTERNACIONAL. Aeroporto Internacional de Guarulhos. s. d. Fotografia. Disponível em: https://constran.com.br/contratos/aeroporto-internacional-de-guarulhos/ Acesso em 24 mai. 2023
+- CONPRESP tomba imóveis da Subprefeitura da Sé e Aeroporto de Congonhas. São Paulo, 14 fev. 2012. Disponível em: &lt;<a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/conpresp/noticias/?p=10119">https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/conpresp/noticias/?p=10119</a>&gt; Acesso em 25 de mai. de 2023.
+- CONSTRAN INTERNACIONAL. Aeroporto Internacional de Guarulhos. s. d. Fotografia. Disponível em: &lt;<a href="https://constran.com.br/contratos/aeroporto-internacional-de-guarulhos/">https://constran.com.br/contratos/aeroporto-internacional-de-guarulhos/</a>&gt; Acesso em 24 mai. 2023
 - EQUIPE TÉCNICA. Aeroporto Internacional de Cumbica. Módulo Brasil Arquitetura. Rio de Janeiro, v. 84, n. 1.467.P.209/73. p. 66-71, mar. de 1985.
-- HABERKORN, Werner. Vista parcial do Aeroporto de Congonhas. São Paulo, SP. Fotografia. Disponível em http://acervo.mp.usp.br/IconografiaV2.aspx#. Acesso em 21/06/2023.
+- HABERKORN, Werner. Vista parcial do Aeroporto de Congonhas. São Paulo, SP. Fotografia. Disponível em &lt;<a href="http://acervo.mp.usp.br/IconografiaV2.aspx#">http://acervo.mp.usp.br/IconografiaV2.aspx#</a>&gt; Acesso em 21/06/2023.
 - LE CORBUSIER. Por uma Arquitetura. São Paulo: Perspectiva, 1998.
 - LE CORBUSIER. Aircraft. Londres: Trefoil, 1987.
 - MELO, Letícia Bandeira de. Aeroporto de Congonhas, terminal de passageiros: histórias da construção. São Paulo: Prêmio, 2006. O Aeroporto de Congonhas. Revista Acrópole. São Paulo, v. 133, n. 11193, p.5-9, maio de 1949.
 - REDAÇÃO. Brasília Renasce. Módulo Brasil Arquitetura. Rio de Janeiro, v. 89/90, n.1.467.P.209/73, abr. de 1986, p.120-121.
 - SANTOS, R. R. Aeroportos: do campo de aviação à área terminal. São Paulo: Contar, 1985.
-- SÃO PAULO. Decreto n° 66.663, de 14 de abril de 2022. Dispõe sobre a efetivação da extinção do Departamento Aeroviário do Estado de São Paulo – DAESP [...]. São Paulo, SP: Secretaria de Governo, 2022. Disponível em: https://www.al.sp.gov.br/repositorio/legislacao/decreto/2022/decreto-66663- 14.04.2022.html. Acesso em 24 de mai. De 2023.
+- SÃO PAULO. Decreto n° 66.663, de 14 de abril de 2022. Dispõe sobre a efetivação da extinção do Departamento Aeroviário do Estado de São Paulo – DAESP [...]. São Paulo, SP: Secretaria de Governo, 2022. Disponível em: &lt;<a href="https://www.al.sp.gov.br/repositorio/legislacao/decreto/2022/decreto-66663-">https://www.al.sp.gov.br/repositorio/legislacao/decreto/2022/decreto-66663-</a>&gt; 14.04.2022.html. Acesso em 24 de mai. De 2023.
 - SARUÊ, R. I. E. O aeroporto de Congonhas e a cidade de São Paulo. 2004. Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2004.
 - SEGAWA, H. Arquiteturas no Brasil: 1900 - 1990. São Paulo: Editora da Universidade de São Paulo, 2002.
 - SILVA, Hélio. É preciso fazer… Correio Paulistano. n. 23519. p. 4. 5 de abr. de 1929.

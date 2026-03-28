@@ -42,7 +42,7 @@ authors:
     familyname: "Marques"
     orcid: "0000-0003-1204-6842"
 doi: "10.5281/zenodo.19074470"
-zenodo_pdf_url: "https://zenodo.org/records/19074471/files/sdbr11-006.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285601/files/sdbr11-006.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
@@ -57,7 +57,7 @@ palavras-chave:
 ## Referências
 
 - BAKER, G. H.. Le Corbusier. Uma análise da forma. São Paulo: Editorial Martins Fontes, 1994.
-- CABRAL, C. P. C.. Modern Architecture and Figurative Sculpture in Latin America. In: Conference of the Society of Architectural Historians, 67, 2014, Austin. Anais eletrônicos... Austin: SAH, 2014. Disponível em: &lt;https://sah.conference-services.net/reports/template/onetextabstract.xml?xsl=template/onete xtabstract.xsl&conferenceID=3674&abstractID=764606&gt;. Acesso em: 10 set. 2014.
+- CABRAL, C. P. C.. Modern Architecture and Figurative Sculpture in Latin America. In: Conference of the Society of Architectural Historians, 67, 2014, Austin. Anais eletrônicos... Austin: SAH, 2014. Disponível em: &lt;<a href="https://sah.conference-services.net/reports/template/onetextabstract.xml?xsl=template/onete">https://sah.conference-services.net/reports/template/onetextabstract.xml?xsl=template/onete</a>&gt; xtabstract.xsl&conferenceID=3674&abstractID=764606&gt;. Acesso em: 10 set. 2014.
 - DAMAZ, P. Art in Latin American Architecture. Texas: Editora Reinhold, 1963. 231 p.
 - VON MOOS, S.. Título original do texto: Art, Spectacle, and Permanence. Notes on Le Corbusier and the Synthesis of the Arts. DO.CO.MO.MO. Journal 42: Art and Architecture.. Barcelona: DO.CO.MO.MO. Internacional, 2010. 136 p.
 - FORSYTHE, W. Objetos Coreográficos: Ensaio. Nova Iorque, 2011. Disponível em:&lt;williamforsythe.de /essay.html&gt;. Acesso em: 05 maio 2015.

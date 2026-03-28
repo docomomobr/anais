@@ -54,7 +54,7 @@ palavras-chave:
 ## Referências
 
 - BASTLUND,K. José LLuis Sert.Zurich.1967.pp.50-53.1967. Catálogo de la exposición ”Sert Arquitecto en Nueva York. Barcelona: Museu D’Art Contemporani.1997 Cidade dos Motores .Progressive Architecture. Septiembre de 1946.
-- FIGUEIRA, Archibaldo. Casas da FNM têm aumento de 1 mil por cento.Disponível em http://www.anovademocracia.com.br/index.php/Casas da FNM tem aumento de 1 mil por cento.html. Acesso em 12 de dezembro de 2008, 16: 45: 30.
+- FIGUEIRA, Archibaldo. Casas da FNM têm aumento de 1 mil por cento.Disponível em &lt;<a href="http://www.anovademocracia.com.br/index.php/Casas">http://www.anovademocracia.com.br/index.php/Casas</a>&gt; da FNM tem aumento de 1 mil por cento.html. Acesso em 12 de dezembro de 2008, 16: 45: 30.
 - FREIXA, Jaume. Josep LL. Sert. Barcelona: Gustavo Gili.4ª. Edición.1995.
 - Cole.1ª.edicion.2005.
 - Diseno.Vol.08.Barcelona:

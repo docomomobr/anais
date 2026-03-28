@@ -55,13 +55,13 @@ palavras-chave:
 ## Referências
 
 - BENCOSTTA, Marcus Levy . A escrita da arquitetura escolar na historiografia da educação brasileira (1999- 2018). REVISTA BRASILEIRA DE HISTÓRIA DA EDUCAÇÃO, v. 19, p. e064, 2019.
-- BUFFA, Ester. Grupos escolares paulistas: organização do espaço e propostas pedagógicas (1893-1971). Jornal Internacional de Estudos em Educação Matemática, v.8(1), p. 128-154, 2015. Disponível em: https://revista.pgsskroton.com/index.php/jieem/article/view/278. Acesso em: 03 de maio de 2021.
+- BUFFA, Ester. Grupos escolares paulistas: organização do espaço e propostas pedagógicas (1893-1971). Jornal Internacional de Estudos em Educação Matemática, v.8(1), p. 128-154, 2015. Disponível em: &lt;<a href="https://revista.pgsskroton.com/index.php/jieem/article/view/278">https://revista.pgsskroton.com/index.php/jieem/article/view/278</a>&gt; Acesso em: 03 de maio de 2021.
 - BUZZAR, Miguel A. CORDIDO, Maria T. R. L. de Barros.
 - SIMONI, Lucia N. A arquitetura moderna produzida a partir do plano de ação do governo Carvalho Pinto Page – (1959/1963). Revista Arq Urb, n.14, USJT. 2015. p. 157-170.
-- BUZZAR, M. A.; CORDIDO, M. T. R. L. B. Plano de Ação (PAGE), e a arquitetura moderna. Oculum Ensaios, v. 17, e204127, 2020. https://doi.org/10.24220/2318-0919v17e2020a4127
+- BUZZAR, M. A.; CORDIDO, M. T. R. L. B. Plano de Ação (PAGE), e a arquitetura moderna. Oculum Ensaios, v. 17, e204127, 2020. &lt;<a href="https://doi.org/10.24220/2318-0919v17e2020a4127">https://doi.org/10.24220/2318-0919v17e2020a4127</a>&gt;
 - CARERI, Francesco. Caminhar e parar. São Paulo: GG Brasil, 2017.
 - COSTA, Korina Aparecida Teixeira Ferreira da. Arquitetura e gênero nas transições do espaço escolar: estudo de caso da Escola Navio (1950–1970). 2016. 164 fs. Dissertação (Mestrado em Educação) - Universidade do Oeste Paulista, Presidente Prudente, SP .
-- DEBORD, Guy. Teoria da Deriva. In Revista Internacional Situacionista. No. 2, dezembro 1958. Disponível em: https://teoriadoespacourbano.files.wordpress.com/2013/03/guy-debord-teoria-da-deriva.pdf. Acesso em: 03 de maio de 2021.
+- DEBORD, Guy. Teoria da Deriva. In Revista Internacional Situacionista. No. 2, dezembro 1958. Disponível em: &lt;<a href="https://teoriadoespacourbano.files.wordpress.com/2013/03/guy-debord-teoria-da-deriva.pdf">https://teoriadoespacourbano.files.wordpress.com/2013/03/guy-debord-teoria-da-deriva.pdf</a>&gt; Acesso em: 03 de maio de 2021.
 - DELEUZE, Gilles; GUATTARI, Félix. Rizoma. Mil Platôs - Capitalismo e Esquizofrenia. 5. ed. Rio de Janeiro: Editora 34, 1995. cap. 1, p. 10-36. v.
 - GUATTARI, Félix. Caosmose: um novo paradigma estético. São Paulo: Ed. 34, 1992.
 - HIRAO, Hélio; PASQUINI, Cristiana A; RIBEIRO, Eliana Nunes. Arquitetura Escolar Moderna Paulista, Apropriação Sócioespacial, Uso e Preservação: O projeto de João Clodomiro de Abreu para Presidente Prudente, SP. In: Tópos V.4, N° 1, p. 131-145, 2010.

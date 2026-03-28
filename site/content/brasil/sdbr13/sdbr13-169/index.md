@@ -78,8 +78,8 @@ palavras-chave:
 - HOLANDA, Frederico de. Arquitetura & urbanidade, FRBH, 2003.
 - KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel, SP; 1ª edição, 1990.
 - LAPROVITERA, Enio. L´Architcte et le people à Recife (Brésil).1959-2209. École des Hautes Études en Sciences Sociales, Paris 2009.
-- LEE, Rachel; SIDDIQI, Anooradha, 2018. A Woman’s Situation: Transnational Mobility and Gendered Practice. In: CFP: EAHN, Talin, 2018. https://www.academia.edu/33845580/CFP_EAHN_Tallinn_2018_A_Woman_s_Situation_Tra nsnational_Mobility_and_Gendered_Practice
-- LIMA, Ana Gabriela Godinho. Arquitetas e arquiteturas na América Latina do século XX. São Paulo :Altamira Editorial, 2014. Disponível em :https://femininoeplural.files.wordpress.com/2014/03/arquitetasalxx_final.pdf
+- LEE, Rachel; SIDDIQI, Anooradha, 2018. A Woman’s Situation: Transnational Mobility and Gendered Practice. In: CFP: EAHN, Talin, 2018. &lt;<a href="https://www.academia.edu/33845580/CFP_EAHN_Tallinn_2018_A_Woman_s_Situation_Tra">https://www.academia.edu/33845580/CFP_EAHN_Tallinn_2018_A_Woman_s_Situation_Tra</a>&gt; nsnational_Mobility_and_Gendered_Practice
+- LIMA, Ana Gabriela Godinho. Arquitetas e arquiteturas na América Latina do século XX. São Paulo :Altamira Editorial, 2014. Disponível em : &lt;<a href="https://femininoeplural.files.wordpress.com/2014/03/arquitetasalxx_final.pdf">https://femininoeplural.files.wordpress.com/2014/03/arquitetasalxx_final.pdf</a>&gt;
 - MARQUES, Sônia. Maestro sem Orquestra: um estudo da ideologia do arquiteto no Brasil 1820-
 - MESQUITA, Liana; MOTA, Neide. Cidades do Nordeste do Pote á Rua. Recife Cepe, 2017.
 - MOTA, Neide et al. Métodos Construtivos Tradicionais do Nordeste. Recife: SUDENE, 1978, mimeo.

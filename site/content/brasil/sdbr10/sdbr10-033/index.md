@@ -51,7 +51,7 @@ palavras-chave:
 
 - BANHAM, Reyner. Brutalismo en Arquitectura, Etica ou Estética? .Barcelona: Gustavo Gili, 1966.
 - BASTOS, Maria Alice Junqueira & ZEIN, Ruth Verde. Brasil: Arquiteturas Após 1950. São Paulo: Perspectiva, 2010.
-- CÂMARA MUNICIPAL DE LONDRINA. Disponível em: &lt;http://www1.cml.pr.gov.br/cml/site/historia.xhtml&gt;. Acesso em 08/08/2013.
+- CÂMARA MUNICIPAL DE LONDRINA. Disponível em: &lt;<a href="http://www1.cml.pr.gov.br/cml/site/historia.xhtml">http://www1.cml.pr.gov.br/cml/site/historia.xhtml</a>&gt; Acesso em 08/08/2013.
 - CASTELNOU, Antonio. Arquitetura Londrinense: Expressões de Intenção Pioneira. Londrina: A. Castelnou, 2002.
 - ESTADO DO PARANÁ, O. Sede Própria dos Dentistas: Norte. Curitiba, 21/06/1975.
 - IAPAR. Ciência, Tecnologia e Inovação na Agricultura do Paraná. Londrina: IAPAR, 2010.
@@ -59,4 +59,4 @@ palavras-chave:
 - SUZUKI, Juliana Harumi. Artigas e Cascaldi: Arquitetura em Londrina. São Paulo: Ateliê, 2003.
 - SUZUKI, Juliana Harumi. . Idealizações de Modernidade: Arquitetura dos Edifícios Verticais em Londrina 1949-1969. Londrina: Kahn, 2011.
 - ZEIN, Ruth Verde. As tendências e as discussões do pós-Brasília. In: Projeto nº 53, julho 1983, p.75-85.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, São Paulo, 07.084, Vitruvius, maio, 2007. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243&gt;. Acesso em 08/08/2013.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, São Paulo, 07.084, Vitruvius, maio, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; Acesso em 08/08/2013.

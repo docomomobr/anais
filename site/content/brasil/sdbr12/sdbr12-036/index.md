@@ -81,14 +81,14 @@ FAAP / Cosac Naify, 2002.
 - MARTINS, Estevão Chaves de Rezende. Relações Internacionais: cultura e poder. Brasília: Instituto brasileiro de relações internacionais, 2002.
 - MESQUITA, António Pedro. Salazar na história política do seu tempo. Lisboa: Caminho, 2007.
 - MILHEIRO, Ana Vaz. A Construção do Brasil – Relações com a Cultura Arquitectónica Portuguesa. Porto: FAUP Publicações, 2005.
-- MILHEIRO, Ana Vaz. As coisas não o que parecem que são. Lisboa: Dafne Editora, 2007. Disponível em: http://www.dafne.com.pt/pdf_upload/Opusculo_15.pdf. Acesso em: 04/04/2014.
+- MILHEIRO, Ana Vaz. As coisas não o que parecem que são. Lisboa: Dafne Editora, 2007. Disponível em: &lt;<a href="http://www.dafne.com.pt/pdf_upload/Opusculo_15.pdf">http://www.dafne.com.pt/pdf_upload/Opusculo_15.pdf</a>&gt; Acesso em: 04/04/2014.
 - MORGHENHAU, Hans J. A política entre as nações. São Paulo: FUNAG, 2003.
 - MOSCA João. Salazar e a Política Económica do Estado Novo. Revista Lusíada. História, Série II, Número 4, pp. 339-364. Lisboa: Universidade Lusíada, 2007.
-- RAMOS, Tânia Beisi; MATOS, Madalena Cunha. Recepção da Arquitectura Moderna Brasileira em Portugal: registos e uma leitura. Disponível em: http://www. Recepo_da_Arquitectura_Moderna_Brasileira_em_Portugal_registos_e_uma_leitura. Acesso em 03/04/2014.
+- RAMOS, Tânia Beisi; MATOS, Madalena Cunha. Recepção da Arquitectura Moderna Brasileira em Portugal: registos e uma leitura. Disponível em: &lt;<a href="http://www">http://www</a>&gt; Recepo_da_Arquitectura_Moderna_Brasileira_em_Portugal_registos_e_uma_leitura. Acesso em 03/04/2014.
 - RÉMOND, René. O século XX. São Paulo: Editora Cultrix, 1974.
 - RICOEUR, P., Teoria da Interpretação, Lisboa, Edições 70,1999.
 - RODRIGUES, José Manuel. Teoria e Crítica de Arquitectura: Século XX. Lisboa: Caleidoscópio, 2010.
-- RODRIGUES, Maria Tereza. Eduardo Lourenço, hermeneuta do imaginário português. Filósofa licenciada pela Universidade de Coimbra, s/d, 16 páginas. Disponível em: http://www.eduardolourenco.com/6_oradores/oradores_PDF/Maria_Teresa_Rodrigues.pdf. Acesso em: 02/04/2014.
+- RODRIGUES, Maria Tereza. Eduardo Lourenço, hermeneuta do imaginário português. Filósofa licenciada pela Universidade de Coimbra, s/d, 16 páginas. Disponível em: &lt;<a href="http://www.eduardolourenco.com/6_oradores/oradores_PDF/Maria_Teresa_Rodrigues.pdf">http://www.eduardolourenco.com/6_oradores/oradores_PDF/Maria_Teresa_Rodrigues.pdf</a>&gt; Acesso em: 02/04/2014.
 - ROSAS, Fernando. O Estado Novo nos Anos Trinta, 1928-1938. Lisboa: Editorial Estampa, 1996.
 - ROSAS, Fernando. O salazarismo e o homem novo: ensaio sobre o Estado Novo e a questão do totalitarismo. Análise Social, vol. XXXV (157), p. 1031-1054, 2001.
 - SCHIAVON, Carmem G. Burgert. Estado Novo e Relações Luso-Brasileiras (1937-1945). Porto Alegre: PUC/RS, 2007.

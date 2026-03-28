@@ -65,7 +65,7 @@ palavras-chave:
 - Alvarez, Cícero. Palácio da Justiça de Porto Alegre (dissertação de mestrado, orientação de Carlos Eduardo Comas). Porto Alegre: PROPAR-UFRGS, 2008.
 - Comas, Carlos Eduardo. "Protótipo e monumento: um ministério, o Ministério" em Projeto nº 102. São Paulo, , 1987: p. 136-149.
 - Pereira, Cláudio Calovi. "Primórdios da arquitetura moderna em Porto Alegre. A presença dos arquitetos do Rio de Janeiro" in Cadernos de Arquitetura Ritter dos Reis nº 2. Porto Alegre: FAU-Ritter dos Reis, 2000, p. 47-72.
-- Pereira, Cláudio Calovi. Transparência e permeabilidade: diálogos entre tradição e modernidade nos pisos térreos dos Irmãos Roberto no centro do Rio de Janeiro (1936-1952). In: Cadernos de arquitetura Ritter dos Reis, Vol. 5. Porto Alegre:  UniRitter, 2007, p. 93-113.
+- Pereira, Cláudio Calovi. Transparência e permeabilidade: diálogos entre tradição e modernidade nos pisos térreos dos Irmãos Roberto no centro do Rio de Janeiro (1936-1952). In: Cadernos de arquitetura Ritter dos Reis, Vol. 5. Porto Alegre: UniRitter, 2007, p. 93-113.
 - Pereira, Cláudio Calovi; Diefenbach, Samantha Sonza; Calovi, Ricardo. "Arquitetura e imagem metropolitana nas praças centrais de Porto Alegre na República Velha." Anais do X Seminário de História da Cidade e do Urbanismo. Recife, UFPE, 2008.
 - Pereira, Cláudio Calovi; Szekut, Alessandra R. "Arte e arquitetura moderna na obra de Luis Fernando Corona" in Anais do 9º Seminário Docomomo Brasil. Rio de Janeiro: FAU-UFRJ, 2009.
 - Silva, Marcos Miethicki. O Hospital de Clínicas de Porto Alegre (dissertação de mestrado, orientação de Cláudio Calovi Pereira). Porto Alegre: PROPAR-UFRGS, 2006.

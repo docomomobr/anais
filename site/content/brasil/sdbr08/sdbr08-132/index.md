@@ -62,8 +62,8 @@ palavras-chave:
 - BRANDI, Cesare. Teoria da restauração. Cotia: Ateliê Editorial, 2004.
 - CARBONARA, Giovanni. Avvicinamento al restauro : teoria, história, monumenti. Nápoles : Liguori Editore, 1997.
 - CASIELLO, Stella (org). La cultura del restauro. Veneza: Marsílio, 2005.
-- COMAS, Carlos Eduardo; SANTOS, Cecília Rodrigues dos; ZEIN, Ruth. Autoridades, emendas, paradoxos e peculiaridades da preservação do patrimônio moderno. Salvador: UFBA, Anais do 2º Seminário Docomomo N-NE, 2008. Disponível em: http://www.docomomobahia.org/Comas_Santos_Zein.pdf Acesso em 21 de junho de 2009.
-- CONDEPHAAT, RES. SC 01/92, Disponível em: http://www.prefeitura.sp.gov.br/cidade/upload/b6743_RES.%20SC%20N%2001%20- %20Parque%20Ibirapuera.pdf Acesso em 22 de junho de 2009.
+- COMAS, Carlos Eduardo; SANTOS, Cecília Rodrigues dos; ZEIN, Ruth. Autoridades, emendas, paradoxos e peculiaridades da preservação do patrimônio moderno. Salvador: UFBA, Anais do 2º Seminário Docomomo N-NE, 2008. Disponível em: &lt;<a href="http://www.docomomobahia.org/Comas_Santos_Zein.pdf">http://www.docomomobahia.org/Comas_Santos_Zein.pdf</a>&gt; Acesso em 21 de junho de 2009.
+- CONDEPHAAT, RES. SC 01/92, Disponível em: &lt;<a href="http://www.prefeitura.sp.gov.br/cidade/upload/b6743_RES.%20SC%20N%2001%20-">http://www.prefeitura.sp.gov.br/cidade/upload/b6743_RES.%20SC%20N%2001%20-</a>&gt; %20Parque%20Ibirapuera.pdf Acesso em 22 de junho de 2009.
 - CHOAY, Françoise. A alegoria do patrimônio. São Paulo: Editora UNESP, 2001.
 - CHOAY, Françoise. (org). La Conference d’Athènes sur la conservation artistique et historique des monuments (1931). Paris: Les Éditions de L’Imprimieur, 2002.
 - COHEN, Jean- Louis. Le Corbusier: la planète comme chantier. Paris: Editions Zoe, 2005.
@@ -76,14 +76,14 @@ palavras-chave:
 - MONNIER, Gérard. Le Corbusier. Les unités d'habitation en France. Paris: Belin-Herscher, 2002.
 - NIEMEYER, Oscar. Explicação Necessária. In: SCHARLACH, Cecília (org). Oscar Niemeyer: a marquise e o projeto original do Parque Ibirapuera. São Paulo: Imprensa Oficial, 2006.
 - OLIVEIRA, Fabiano Lemes de. O Parque do Ibirapuera: Projetos, Modernidades e Modernismos. In: 5º Seminário DOCOMOMO BRASIL, 2003, São Carlos-SP. Anais do 5º Seminário DOCOMOMO BRASIL. São Carlos, 2003.
-- OUROUSSOFF, Nicolai. A French church carries the legacy of Le Corbusier In: NY TIMES, culture section. Disponível em: http://www.iht.com/articles/2006/07/31/news/corb.php?page=3 Acesso em 21 de junho de 2009.
-- OTAKAR FISCHER, Jan. Le Corbusier, by design. In: NY TIMES, culture section. Disponível em: http://www.iht.com/articles/2005/05/11/features/corbu.php?page=3 Acesso em 21 de junho de 2009. Parametro. Número 266, Ano XXXVI, Outubro/Novembro 2006. Bolonha: Faenza Editrice, 2006.
+- OUROUSSOFF, Nicolai. A French church carries the legacy of Le Corbusier In: NY TIMES, culture section. Disponível em: &lt;<a href="http://www.iht.com/articles/2006/07/31/news/corb.php?page=3">http://www.iht.com/articles/2006/07/31/news/corb.php?page=3</a>&gt; Acesso em 21 de junho de 2009.
+- OTAKAR FISCHER, Jan. Le Corbusier, by design. In: NY TIMES, culture section. Disponível em: &lt;<a href="http://www.iht.com/articles/2005/05/11/features/corbu.php?page=3">http://www.iht.com/articles/2005/05/11/features/corbu.php?page=3</a>&gt; Acesso em 21 de junho de 2009. Parametro. Número 266, Ano XXXVI, Outubro/Novembro 2006. Bolonha: Faenza Editrice, 2006.
 - POUVREAU, Benoît. Un politique en architecture. Paris: Le Moniteur, 2004.
 - RIEGL, Alois. The modern cult of monuments. In: OPPOSITIONS 25. Nova Iorque: Rizzoli, 1982.
 - RUSKIN, John. Le sette lampade dell’architettura. Milano: Jaca Book, 2007.
-- SANTOS, Cecília Rodrigues dos. Teatro do Parque Ibirapuera: em nome de quem? São Paulo: Portal Vitruvius, 2003. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp Acesso 15 de junho de 2009.
+- SANTOS, Cecília Rodrigues dos. Teatro do Parque Ibirapuera: em nome de quem? São Paulo: Portal Vitruvius, 2003. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp</a>&gt; Acesso 15 de junho de 2009.
 - SCHARLACH, Cecília (org). Oscar Niemeyer: a marquise e o projeto original do Parque Ibirapuera. São Paulo: Imprensa Oficial, 2006.
-- SERAPIÃO, Fernando. À espera do último ato. In: ProjetoDesign, 309, nov. 2005. Disponível em: http://www.arcoweb.com.br/artigos/fernando-serapiao-as-diferentes-16-12-2005.html Acesso em 22 de junho de 2009.
+- SERAPIÃO, Fernando. À espera do último ato. In: ProjetoDesign, 309, nov. 2005. Disponível em: &lt;<a href="http://www.arcoweb.com.br/artigos/fernando-serapiao-as-diferentes-16-12-2005.html">http://www.arcoweb.com.br/artigos/fernando-serapiao-as-diferentes-16-12-2005.html</a>&gt; Acesso em 22 de junho de 2009.
 - SILVA, Elvan. Uma introdução ao projeto arquitetônico. Porto Alegre: Editora da Universidade, 1991.
 - SOLEIL, Christian. Le Corbusier: De la Chaux-de-Fonds a Firminy. St-Étienne: Actes Graphiques, 2007.
 - SUMMERSON, Sir John. Heavenly mansions. Nova Iorque: W.W. Norton & Company, 1998. VIOLLET-LE-DUC, Eugène Emmanuel. Restauração. Cotia: Artes e Ofícios, 2000.

@@ -69,5 +69,5 @@ palavras-chave:
 - SCHWARTZ, A. R. D. Design de superfície: por uma visão projetual geométrica e tridimensional. Dissertação (Mestrado em Desenho Industrial) – Universidade Estadual Paulista, 2008.
 - TINEM, Nelci. Desafios da Preservação da arquitetura moderna: o caso da Paraíba. Revista do PPG-AU/UFBA. Salvador, 2010.
 - TINEM, Nelci. COTRIM, Márcio. Urdidura da modernidade. Arquitetura Moderna na Paraíba I. João Pessoa: Editora Universitária PPGAU/UFPB, 2014.
-- TEATRO Municipal Severino Cabral. Disponível em &lt; http://teatroseverinocabral.art.br/&gt;. Acesso em 22 março 2016.
+- TEATRO Municipal Severino Cabral. Disponível em &lt;<a href="http://teatroseverinocabral.art.br/">http://teatroseverinocabral.art.br/</a>&gt; Acesso em 22 março 2016.
 - FREIRE, Adriana Leal de Almeida. Modernização e modernidade: uma leitura sobre a arquitetura moderna de Campina Grande (1940-1970). Dissertação (Mestrado - Programa de Pós-Graduação em Arquitetura e Urbanismo). Escola de Engenharia de São Carlos da Universidade de São Paulo, 2010.

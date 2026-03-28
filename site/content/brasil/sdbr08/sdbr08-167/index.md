@@ -46,27 +46,27 @@ palavras-chave:
 
 ## Referências
 
-- BENTO, Antonio. Obras de arte em Brasília. Diário Carioca, Rio de Janeiro, 8 fev. 1958. Disponível em: http://www.portinari.org.br. Acesso em 20/05/2009
+- BENTO, Antonio. Obras de arte em Brasília. Diário Carioca, Rio de Janeiro, 8 fev. 1958. Disponível em: &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 20/05/2009
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva. 1991.
 - BULCÃO, Athos. Depoimento. Rio de Janeiro, 1983. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 17/06/2009. Fornecido pelo Projeto Portinari.
 - BULCÃO, Athos. Depoimento - Programa de História Oral. Brasília, Arquivo Público do Distrito Federal, 1988.
 - CAMPOFIORITO, Quirino. Depoimento. Projeto Portinari, Niterói, 1982. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 19/06/2009. Fornecido pelo Projeto Portinari.
-- CESCHIATTI, Alfredo. Depoimento. Rio de Janeiro, 1983. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 19/06/2009. Fornecido pelo Projeto Portinari. CORREIO DA MANHÃ. Nem mosaico nem mural de Portinari. Rio de Janeiro, 11 mar. 1958. Disponível em http://www.portinari.org Acesso em 23/04/2009.
+- CESCHIATTI, Alfredo. Depoimento. Rio de Janeiro, 1983. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 19/06/2009. Fornecido pelo Projeto Portinari. CORREIO DA MANHÃ. Nem mosaico nem mural de Portinari. Rio de Janeiro, 11 mar. 1958. Disponível em &lt;<a href="http://www.portinari.org">http://www.portinari.org</a>&gt; Acesso em 23/04/2009.
 - DACOSTA, Milton. BRASÍLIA precisa de gente nova e Portinari é pintor acadêmico: afirma Dacosta. Jornal do Brasil, Rio de Janeiro, 28 jan. 1958. Disponível em www.portinari.org.br. Acesso em 18/05/2009.
 - GOUGON, Henrique. Mosaico de Portinari para Palácio Alvorada. Disponível em www.mosaicosdobrasil.tripod.com. Acesso em 10/03/2009.
-- GOUGON, Henrique. Um Portinari para Brasília. Correio Braziliense. Caderno Pensar. Brasília, 15/03/2006. J. J. & J. Niemeyer projeta santuário. Correio da Manhã, Rio de Janeiro, RJ, 6 nov. 1957. Disponível em http://www.portinari.org.br/ppsite/ppacervo/vejamais.asp. Acesso em 15/05/2009.
-- MAURÍCIO, Jayme. Oscar Niemeyer vai aos Estados Unidos. Correio da Manhã, Rio de Janeiro, RJ, 20 fev. 1957. Itinerário das Artes Plásticas. Disponível em http://www.portinari.org.br. Acesso em 15/05/2009.
+- GOUGON, Henrique. Um Portinari para Brasília. Correio Braziliense. Caderno Pensar. Brasília, 15/03/2006. J. J. & J. Niemeyer projeta santuário. Correio da Manhã, Rio de Janeiro, RJ, 6 nov. 1957. Disponível em &lt;<a href="http://www.portinari.org.br/ppsite/ppacervo/vejamais.asp">http://www.portinari.org.br/ppsite/ppacervo/vejamais.asp</a>&gt; Acesso em 15/05/2009.
+- MAURÍCIO, Jayme. Oscar Niemeyer vai aos Estados Unidos. Correio da Manhã, Rio de Janeiro, RJ, 20 fev. 1957. Itinerário das Artes Plásticas. Disponível em &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 15/05/2009.
 - MORAES, José. Depoimento. São Paulo, 1983. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 19/06/2009. Fornecido pelo Projeto Portinari.
 - MOSAICISTI, Gruppo. [Carta] 1957 set. 2, Ravena, ITA [para] Renzo Biasion, Bolonha, ITA. [italiano]. Disponível em www.portinari.org.br Acesso em 15/05/2009.
-- NIEMEYER, Oscar. [Carta, 1958 fev.], Rio de Janeiro, RJ [para] Israel Pinheiro; Companhia Urbanizadora da Nova Capital do Brasil, [Rio de Janeiro, RJ]. Fonte: http://www.portinari.org.br. Acesso em 20/05/2009
+- NIEMEYER, Oscar. [Carta, 1958 fev.], Rio de Janeiro, RJ [para] Israel Pinheiro; Companhia Urbanizadora da Nova Capital do Brasil, [Rio de Janeiro, RJ]. Fonte: &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 20/05/2009
 - NIEMEYER, Oscar. Depoimento. Rio de Janeiro, 1984. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 17/06/2009. Fornecido pelo Projeto Portinari.
 - ORICO, Osvaldo. Brasil, capital Brasília. 3a ed. Rio de Janeiro: Distribuidora Record Editora, 1961.
-- PINHEIRO, Israel; Companhia Urbanizadora da Nova Capital do Brasil. [Carta] 1960 fev. 4, Brasília, DF [para] Candido Portinari, Rio de Janeiro, RJ. Disponível em http://www.portinari.org.br. Acesso em 20/05/2009
-- PORTINARI, Candido. [Carta] 1960 fev. 13, Rio de Janeiro, RJ [para] Israel Pinheiro, Brasília, D.F Disponível em http://www.portinari.org.br. Acesso em 20/05/2009
-- PORTINARI, Candido. [Carta] 1960 fev. 16, Rio de Janeiro, RJ [para] Israel Pinheiro, Brasília, DF Disponível em http://www.portinari.org.br. Acesso em 20/05/2009
+- PINHEIRO, Israel; Companhia Urbanizadora da Nova Capital do Brasil. [Carta] 1960 fev. 4, Brasília, DF [para] Candido Portinari, Rio de Janeiro, RJ. Disponível em &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 20/05/2009
+- PORTINARI, Candido. [Carta] 1960 fev. 13, Rio de Janeiro, RJ [para] Israel Pinheiro, Brasília, D.F Disponível em &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 20/05/2009
+- PORTINARI, Candido. [Carta] 1960 fev. 16, Rio de Janeiro, RJ [para] Israel Pinheiro, Brasília, DF Disponível em &lt;<a href="http://www.portinari.org.br">http://www.portinari.org.br</a>&gt; Acesso em 20/05/2009
 - PORTINARI, Maria. Depoimento. Rio de Janeiro, 1982. [mensagem pessoal]. Mensagem recebida por &lt;lu_scotta@yahoo.com.br&gt; em 19/06/2009. Fornecido pelo Projeto Portinari.
 - PORTINARI, Maria. Entrevista ao Projeto Portinari. Rio de Janeiro, Projeto Portinari, 1982. Mensagem recebida por: &lt;lu_scotta@yahoo.com.br&gt; em 17/06/2009.
-- PRIMI, Lilian. Niemeyer veta painel de Portinari realizado em 57. Estado de São Paulo, 19 de setembro de 2006. Disponível em http://gougon2.tripod.com/id72.html 20/03/2009 PROJETO PORTINARI. Cronobiografia. Disponível em &lt;http://www.portinari.org.br/ppsite/ppacervo/cronobio.htm&gt; Acesso em 14/05/2009.
+- PRIMI, Lilian. Niemeyer veta painel de Portinari realizado em 57. Estado de São Paulo, 19 de setembro de 2006. Disponível em &lt;<a href="http://gougon2.tripod.com/id72.html">http://gougon2.tripod.com/id72.html</a>&gt; 20/03/2009 PROJETO PORTINARI. Cronobiografia. Disponível em &lt;<a href="http://www.portinari.org.br/ppsite/ppacervo/cronobio.htm">http://www.portinari.org.br/ppsite/ppacervo/cronobio.htm</a>&gt; Acesso em 14/05/2009.
 - QUELEM, Naiobe. Secretaria quer construir painel de Portinari. Correio Braziliense, 30 de junho de 2003.
 - Revista Módulo no 1. Rio de Janeiro. Março de 1955.
 - Revista Módulo no 6. Rio de Janeiro. Dezembro de 1956.

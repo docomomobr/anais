@@ -50,10 +50,10 @@ palavras-chave:
 
 ## Referências
 
-- AVELAR, Sylvia Maria Marteleto. "Benjamin e a aura". Revista EXAGIUM, vol. I, abril 2008. Consultado em : http://revistaexagium.com/1/savelar.pdf
+- AVELAR, Sylvia Maria Marteleto. "Benjamin e a aura". Revista EXAGIUM, vol. I, abril 2008. Consultado em : &lt;<a href="http://revistaexagium.com/1/savelar.pdf">http://revistaexagium.com/1/savelar.pdf</a>&gt;
 - BABELON, Jean-­‐Pierre e CHASTEL, André La notion de patrimoine. Paris, Liana Levi, 1994.
 - BAUMAN, Zygmunt. Modernidade Líquida. Rio de Janeiro, Zahar, 2001.
-- BENJAMIN, Walter. A obra de arte na era de sua reprodutibilidade técnica. Texto publicado em 1955, consultado em: http://www.mariosantiago.net/Textos%20em%20PDF/A%20obra%20de%20arte%20na%20era%20da%20sua% 20reprodutibilidade%20t%C3%A9cnica.pdf.
+- BENJAMIN, Walter. A obra de arte na era de sua reprodutibilidade técnica. Texto publicado em 1955, consultado em: &lt;<a href="http://www.mariosantiago.net/Textos%20em%20PDF/A%20obra%20de%20arte%20na%20era%20da%20sua%">http://www.mariosantiago.net/Textos%20em%20PDF/A%20obra%20de%20arte%20na%20era%20da%20sua%</a>&gt; 20reprodutibilidade%20t%C3%A9cnica.pdf.
 - CARRILHO, Marcos. O lastimável estado da Casa Modernista transcorridos mais de vinte anos de seu tombamento. In: www.vitruvius.com.br/arquitextos/arq062/arq062_02.asp -­‐ 30k -­‐
 - CASTRO, Sonia Rabelo. O Estado na Preservação de Bens Culturais. Rio de Janeiro, Renovar, 1991.
 - CHOAY, Françoise. "Patrimoine et mondialisation". Texte de conférence, Université Cadi Ayad, Marrakech, 2004. Consultado em: www.ambafrance-­‐ma.org/cjb/Textes_
@@ -63,11 +63,11 @@ palavras-chave:
 - HOLANDA, Chico Buarque. A casa do Oscar. In: rodrigobarba.com/blog/tag/chico-­‐buarque/
 - JOKILEHTO, Jukka Ilmari. A History of Architectural Conservation. Oxford, Butterworth-­‐Heinemann, 1999.
 - JOKILEHTO, Jukka Ilmari. "História e Ética na Conservação e na Restauração de Monumentos Históricos". Revista CPC, 2005, v. 1., n. 1. (www.usp/cpc/v1)
-- JOKILEHTO, Jukka Ilmari. "O problema da reprodução de obras arquitetônicas". Resenha do livro: HERNÁNDEZ, Ascensión Martínez. La clonación arquitectónica. Madrid: Ediciones Siruela, 2007. p. ISBN: 978-­‐84-­‐9841-­‐ 069-­‐3. Revista CPC -­‐ n. . Consultado em : http://www.usp.br/cpc/v1/php/wf07_revista_interna.php?id_revista=11&id_conteudo=13&tipo=8
+- JOKILEHTO, Jukka Ilmari. "O problema da reprodução de obras arquitetônicas". Resenha do livro: HERNÁNDEZ, Ascensión Martínez. La clonación arquitectónica. Madrid: Ediciones Siruela, 2007. p. ISBN: 978-­‐84-­‐9841-­‐ 069-­‐3. Revista CPC -­‐ n. . Consultado em : &lt;<a href="http://www.usp.br/cpc/v1/php/wf07_revista_interna.php?id_revista=11&id_conteudo=13&tipo=8">http://www.usp.br/cpc/v1/php/wf07_revista_interna.php?id_revista=11&id_conteudo=13&tipo=8</a>&gt;
 - HERNÁNDEZ, Ascensión Martínez. Preservação do Patrimônio Arquitetônico da Industrialização. São Paulo, Ateliê Editorial, 2009. LE
 - CORBUSIER. Quande les cathédrales étaiet blanches. Paris, Denoel/Gonthier, 1983.
 - CORBUSIER. La Charte d´Athènes. Paris, Minuit, 1957.
-- PELLEGRINI, Ana Carolina S. "Bolonha, Barcelona, Firminy: quando o projeto é patrimônio". Consultado em : http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/08_ACP_firminy_300409.pdf.
+- PELLEGRINI, Ana Carolina S. "Bolonha, Barcelona, Firminy: quando o projeto é patrimônio". Consultado em : &lt;<a href="http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/08_ACP_firminy_300409.pdf">http://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_12/08_ACP_firminy_300409.pdf</a>&gt;
 - PESSOA, José (org.). Lúcio Costa: Documentos de Trabalho. Rio de Janeiro, IPHAN, 1999. QUATREMÈRE DE
 - QUINCY, Antoine Chrysostome. Considérations morales sur la destination des ouvrages de l’art. Crapelet,1815. Consultado em: file:///C:/Users/HPW7/Downloads/Consid%C3%A9rations_morales_sur_la_destination_des_ouvrages_de_l%E 2%80%99art.pdf
 - RICCEUR, Paul. La mémoire, l´histoire, l´oubli. Paris, Seuil, 2000.

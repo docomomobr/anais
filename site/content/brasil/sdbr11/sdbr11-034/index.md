@@ -56,10 +56,10 @@ palavras-chave:
 - ARAÚJO, Cláudio Luís Gomes; MARQUES, Moacyr Moojen. Entrevista. Depoimento ao autor. Gravação digital. Edifício FAM, 21 jun. 2010.
 - ARAÚJO, Cláudio Luís Gomes; MARQUES, Moacyr Moojen. Entrevista. Depoimento ao autor. Gravação digital. Edifício FAM, 12 out. 2011.
 - ARAÚJO, Cláudio Luís Gomes; MARQUES, Moacyr Moojen. Relatório de viagem a São Paulo encaminhado ao diretor Werner Grundig. Cópia datilografada. Porto Alegre, 05 mar. 1967.
-- BRAGA. Marcos da Costa. ABDI: história concisa. Agitrop, Revista Brasileira de Design, Ensaios. Ano III, n. 26, 2010. Disponível em: &lt;http://www.agitprop.com. br/index.cfm?pag=ensaios_det&id=67&titulo=ensaios&gt;. Acesso em 17 dez. 2011, às 18h 24min.
+- BRAGA. Marcos da Costa. ABDI: história concisa. Agitrop, Revista Brasileira de Design, Ensaios. Ano III, n. 26, 2010. Disponível em: &lt;<a href="http://www.agitprop.com">http://www.agitprop.com</a>&gt; br/index.cfm?pag=ensaios_det&id=67&titulo=ensaios&gt;. Acesso em 17 dez. 2011, às 18h 24min.
 - CURTIS, Maria do Carmo. Manlio Gobbi, um pioneiro do mobiliário no Rio Grande do Sul. Desenhando o Futuro. Anais do 1° Congresso Nacional do Design, 2011.
 - DALAROSA. Janaína Carla. Restauração do complexo da reitoria da UFRGS. Anais do VII Seminário Anais do VII
-- DOCOMOMO Brasil, O Moderno já Passado | O Passado no Moderno – reciclagem, requalificação, rearquitetura, 2007. Disponível em: &lt;http://www.docomomo. org.br/seminario%207%20pdfs/027.pdf&gt; Acesso em 19 ago. 2008, às 12h 43min.
+- DOCOMOMO Brasil, O Moderno já Passado | O Passado no Moderno – reciclagem, requalificação, rearquitetura, 2007. Disponível em: &lt;<a href="http://www.docomomo">http://www.docomomo</a>&gt; org.br/seminario%207%20pdfs/027.pdf&gt; Acesso em 19 ago. 2008, às 12h 43min.
 - DENIS, Rafael Cardoso. Uma introdução à história do design. São Paulo: Edgard Blücher, 2000.
 - ESTATUTOS Sociais da Associação Brasileira de Desenho Industrial. In: Desenho Industrial: aspectos sociais, históricos, culturais e econômicos. São Paulo: Fórum Roberto Simonsen/FIESP/ABDI, 1964.
 - FONTOURA, Ivens. Uma visão do design moveleiro latino-americano. Bento Gonçalves: Salão Design Movelsul, 2006.

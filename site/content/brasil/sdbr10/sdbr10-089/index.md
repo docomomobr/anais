@@ -61,6 +61,6 @@ palavras-chave:
 - Judt, Tony. Pós-guerra. Uma História da Europa desde 1945. São Paulo: Ed. Objetiva, 2008.
 - Krauss, Rosalind. A escultura no campo ampliado. Gávea – Revista de História da Arte e Arquitetura. Rio de Janeiro: Curso de Especialização em História da Arte e Arquitetura no Brasil, PUC-Rio, n. 1, p. 87-93, [s. d.]. Mindlin, Henrique. Arquitetura Moderna no Brasil. [1956]. Rio de Janeiro, Aeroplano, 1999
 - Mindlin, Henrique. Prumadas de circulações em edifícios altos. Tese apresentada para a Docência Livre da Cadeira de Grandes Composições de Arquitetura. Faculdade Nacional de Arquitetura, Rio de Janeiro, 1962.
-- Nobre, Ana Luiza Profissão: Arquiteto in: http://www.revistaau.com.br/arquitetura- urbanismo/90/profissao-arquiteto-24330-1.asp Pereira, Marcel Cadaval. Henrique Ephin Mindlin: o caminho de uma expressão. Dissertação de mestrado.PROARQ/FAU/UFRJ, 2005.
-- Segre, Roberto. A massa falida da arquitetura carioca A descaracterização do Jornal do Brasil de Henrique Mindlin in: http://www.vitruvius.com.br/revistas/read/drops/09.026/1787
+- Nobre, Ana Luiza Profissão: Arquiteto in: &lt;<a href="http://www.revistaau.com.br/arquitetura-">http://www.revistaau.com.br/arquitetura-</a>&gt; urbanismo/90/profissao-arquiteto-24330-1.asp Pereira, Marcel Cadaval. Henrique Ephin Mindlin: o caminho de uma expressão. Dissertação de mestrado.PROARQ/FAU/UFRJ, 2005.
+- Segre, Roberto. A massa falida da arquitetura carioca A descaracterização do Jornal do Brasil de Henrique Mindlin in: &lt;<a href="http://www.vitruvius.com.br/revistas/read/drops/09.026/1787">http://www.vitruvius.com.br/revistas/read/drops/09.026/1787</a>&gt;
 - Yoshida, Celia Ballario et al. Henrique Ephim Mindlin. O homem e o arquiteto. São Paulo: Instituto Roberto Simonsen, 1975.

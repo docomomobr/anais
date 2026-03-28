@@ -41,7 +41,7 @@ authors:
   - givenname: "Simone Borges Camargo de"
     familyname: "Oliveira"
 doi: "10.5281/zenodo.19077236"
-zenodo_pdf_url: "https://zenodo.org/records/19077237/files/sdbr12-080.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285626/files/sdbr12-080.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
@@ -55,35 +55,35 @@ palavras-chave:
 
 ## Referências
 
-- ARQUIVO DIGITAL DA BIBLIOTECA NACIONAL. Disponível em: &lt; http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart451497/cart451497.jpg &gt;. Acesso em: 17 jul. 2016.
+- ARQUIVO DIGITAL DA BIBLIOTECA NACIONAL. Disponível em: &lt;<a href="http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart451497/cart451497.jpg">http://objdigital.bn.br/objdigital2/acervo_digital/div_cartografia/cart451497/cart451497.jpg</a>&gt; &gt;. Acesso em: 17 jul. 2016.
 - ARRAIS, Cristiano et al. O século XX em Goiás: o advento da modernização. Goiânia: Cânone Editorial, 2016.
-- BARCELOS, Carlos. Expoderiva 2011. Disponível em: &lt; http://www.blogdobraulio.com/2011/06/ &gt;. Acesso em: 19 jun. 2017.
-- CARLO, Altillierme. Expoderiva 2013. Disponível em: &lt; www.blogdobraulio.com &gt;.  Acesso em: 15 out. 2015.
+- BARCELOS, Carlos. Expoderiva 2011. Disponível em: &lt;<a href="http://www.blogdobraulio.com/2011/06/">http://www.blogdobraulio.com/2011/06/</a>&gt; &gt;. Acesso em: 19 jun. 2017.
+- CARLO, Altillierme. Expoderiva 2013. Disponível em: &lt; www.blogdobraulio.com &gt;. Acesso em: 15 out. 2015.
 - CARVALHO, Vanusa Machado. Expoderiva 2013. Disponível em: &lt;www.blogdobraulio.com&gt;. Acesso em: 15 out. 2015.
 - CASTRIOTA, Leonardo Baci. Patrimônio cultural: conceitos, políticas, instrumentos. São Paulo: Annablume, 2009.
 - COLLIER, John. Antropologia visual: a fotografia como método de pesquisa. Tradução: Iara Ferraz e Solange Martins Couceiro. São Paulo: Edusp, 1973.
 - DAHER, Tania. Goiânia: uma utopia européia no Brasil. Goiânia: Instituto Centro-Brasileiro de Cultura, 2003.
 - DEBORD, Guy-Ernest. Introdução a uma crítica da geografia urbana. In: JACQUES, Paola Berenstein (Org.). Apologia da deriva: escritos situacionistas sobre a cidade. Rio de Janeiro: Casa da Palavra, 2003.
 - DINIZ, Anamaria. O itinerário pioneiro do urbanista Attilio Corrêa Lima. 2015. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo de Brasília, UnB, Brasília, 2015.
-- FEITOZA, Taíssa. Expoderiva 2011. Disponível em: &lt; http://www.blogdobraulio.com/2011/06/expo-deriva-taissa-feitoza.html &gt; Acesso em:  12 maio 2017.
+- FEITOZA, Taíssa. Expoderiva 2011. Disponível em: &lt;<a href="http://www.blogdobraulio.com/2011/06/expo-deriva-taissa-feitoza.html">http://www.blogdobraulio.com/2011/06/expo-deriva-taissa-feitoza.html</a>&gt; &gt; Acesso em: 12 maio 2017.
 - FERREIRA, Aurélio Buarque de Holanda. Dicionário Aurélio da Língua Portuguesa. Curitiba: Positivo, 2010.
-- FERREIRA, Bráulio Vinícius. Deriva do Bem. Disponível em: &lt;www.derivadobem.com.br&gt;. Acesso em:  12 maio 2017.
-- FERREIRA, Bráulio Vinícius. Deriva Fotográfica do Bem: cidade, encontro, memória e fotografia. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquiteturismo/08.085/5084&gt;. Acesso em:  12 maio 2017.
-- FRANÇA, Isadora Carvalho Vilela. Expoderiva 2016. Disponível em: &lt;   http://www.blogdobraulio.com/2016/06/expoderiva-2016-caminho-do-sol-isadora.html
+- FERREIRA, Bráulio Vinícius. Deriva do Bem. Disponível em: &lt;www.derivadobem.com.br&gt;. Acesso em: 12 maio 2017.
+- FERREIRA, Bráulio Vinícius. Deriva Fotográfica do Bem: cidade, encontro, memória e fotografia. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquiteturismo/08.085/5084">http://www.vitruvius.com.br/revistas/read/arquiteturismo/08.085/5084</a>&gt; Acesso em: 12 maio 2017.
+- FRANÇA, Isadora Carvalho Vilela. Expoderiva 2016. Disponível em: &lt;<a href="http://www.blogdobraulio.com/2016/06/expoderiva-2016-caminho-do-sol-isadora.html">http://www.blogdobraulio.com/2016/06/expoderiva-2016-caminho-do-sol-isadora.html</a>&gt;
 - HALBWACHS, Maurice. A memória coletiva. São Paulo: Centauro, 1993.
-- HORTA, Maria de Lourdes Parreira; GRUNBERG, Evelina; MONTEIRO, Adriane Queiroz. Guia básico de educação patrimonial. Brasília: IPHAN: Museu Imperial, 1999. Disponível em: &lt; http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf.pdf&gt; Acesso em: 12 jul. 2017.
-- IBGE – Instituto Brasileiro de Geografia e Estatística. Goiânia, Goiás, infográficos: fotos. Disponível em: &lt; http://www.cidades.ibge.gov.br/painel/fotos.php?lang=&codmun=520870&search=||infogr%E1ficos:-fotos &gt; Acesso em: 20 out. 2016.
+- HORTA, Maria de Lourdes Parreira; GRUNBERG, Evelina; MONTEIRO, Adriane Queiroz. Guia básico de educação patrimonial. Brasília: IPHAN: Museu Imperial, 1999. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf.pdf">http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf.pdf</a>&gt; Acesso em: 12 jul. 2017.
+- IBGE – Instituto Brasileiro de Geografia e Estatística. Goiânia, Goiás, infográficos: fotos. Disponível em: &lt;<a href="http://www.cidades.ibge.gov.br/painel/fotos.php?lang=&codmun=520870&search=||infogr%E1ficos:-fotos">http://www.cidades.ibge.gov.br/painel/fotos.php?lang=&codmun=520870&search=||infogr%E1ficos:-fotos</a>&gt; &gt; Acesso em: 20 out. 2016.
 - JACQUES, Paola Berenstein. Apologia da deriva: escritos situacionistas sobre a cidade/Internacional Situacionista. Rio de Janeiro: Casa da Palavra, 2003.
 - JEUDY, Henri Pierre; JACQUES, Paola Berenstein Jacques. Corpos e cenários urbanos: territórios urbanos e políticas culturais. Tradução: Rejane Janowitzer; revisão técnica: Lílian Fessler Vaz. Salvador: EDUFBA; PPG-AU/FAUFBA, 2006.
 - KOSSOY, Boris. Fotografia e memória: reconstituição por meio da fotografia. In: SAMAIN, Etienne (Org.). O fotográfico. 2. ed. São Paulo: Hucitec, 2005.
 - MACHADO, Nathália. Expoderiva 2013. Disponível em: &lt;www.blogdobraulio.com &gt;. Acesso em: 15 out. 2015.
 - MELLO, Márcia Metran. Moderno e modernismo: a arquitetura dos dois primeiros fluxos desenvolvimentistas de Goiânia (1933 a 1950 /1950 a 1964). 1996. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1996.
-- MORAES, Carla Gisele Macedo S. M.  Imagens, fios da memória.  In: IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional. Superintendência do Iphan na Paraíba. Educação patrimonial: educação, memórias e identidades. Org.: Átila Bezerra Tolentino. João Pessoa: Iphan, 2013. p. 78-89.
-- NORA, Pierre. Entre memória e história: a problemática dos lugares. Tradução: Yara Aun Khoury. PROJETO HISTÓRIA: Revista do Programa de Estudos Pós-Graduados em História do Departamento de História da PUC-SP, São Paulo:  PUC, n. 10, 1981.
+- MORAES, Carla Gisele Macedo S. M. Imagens, fios da memória. In: IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional. Superintendência do Iphan na Paraíba. Educação patrimonial: educação, memórias e identidades. Org.: Átila Bezerra Tolentino. João Pessoa: Iphan, 2013. p. 78-89.
+- NORA, Pierre. Entre memória e história: a problemática dos lugares. Tradução: Yara Aun Khoury. PROJETO HISTÓRIA: Revista do Programa de Estudos Pós-Graduados em História do Departamento de História da PUC-SP, São Paulo: PUC, n. 10, 1981.
 - OLIVEIRA, Simone Borges Camargo de. Eurico Calixto de Godoi na formação da arquitetura moderna em Goiânia: reflexão e esboço para catalogação. 2016. Dissertação (Mestrado) – Faculdade de Artes Visuais da Universidade Federal de Goiás, Goiânia, 2016.
 - OLIVEIRA, Simone Borges Camargo de. identidade patrimonial: arquitetura residencial em Goiânia de 1933 a 1950: do ecletismo ao modernismo. In: SIMPÓSIO CIENTÌFICO ICOMUS BRASIL, 2017, Belo Horizonte. Anais... Belo Horizonte, 2017.
-- PEREIRA, Lucas Macedo. Expoderiva 2011. Disponível em: &lt; http://www.blogdobraulio.com/2011/07/expo-deriva-lucas-macedo-pereira.html &gt;. Acesso em: 19 jun. 2017.
-- PINHEIRO, Samara. Expoderiva 2012. Disponível em: &lt; http://www.blogdobraulio.com/2012/08/expoderiva-2012-samara-pinheiro.html &gt;. Acesso em: 19 jun. 2017.
+- PEREIRA, Lucas Macedo. Expoderiva 2011. Disponível em: &lt;<a href="http://www.blogdobraulio.com/2011/07/expo-deriva-lucas-macedo-pereira.html">http://www.blogdobraulio.com/2011/07/expo-deriva-lucas-macedo-pereira.html</a>&gt; &gt;. Acesso em: 19 jun. 2017.
+- PINHEIRO, Samara. Expoderiva 2012. Disponível em: &lt;<a href="http://www.blogdobraulio.com/2012/08/expoderiva-2012-samara-pinheiro.html">http://www.blogdobraulio.com/2012/08/expoderiva-2012-samara-pinheiro.html</a>&gt; &gt;. Acesso em: 19 jun. 2017.
 - RICOEUR, Paul. Entre mémoire et histoire.
-- Projet, Paris, n. 248, 1996, p. 8. In: SILVA, Helenice Rodrigues da. Rememoração/comemoração: as utilizações sociais da memória. Revista Brasileira de História, v. 22, n. 44, 2002.  Disponível em: &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882002000200008&gt;. Acesso em: 2 jul. 2017.
-- SOARES, Fernando Custódio; SUZUKI, Júlio Cesar. Fotografia e história oral: imagem e memória na pesquisa com comunidades tradicionais. In: ENCONTRO DE GRUPOS DE PESQUISA: AGRICULTURA, DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES SOCIOESPACIAIS, 5, nov. 2009. Anais.... Disponível em: &lt; http://w3.ufsm.br/gpet/engrup/vengrup/anais/7/Fernando%20e%20Julio%20-%20USP_2.pdf &gt;. Acesso em: 1º jul. 2017.
+- Projet, Paris, n. 248, 1996, p. 8. In: SILVA, Helenice Rodrigues da. Rememoração/comemoração: as utilizações sociais da memória. Revista Brasileira de História, v. 22, n. 44, 2002. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882002000200008">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882002000200008</a>&gt; Acesso em: 2 jul. 2017.
+- SOARES, Fernando Custódio; SUZUKI, Júlio Cesar. Fotografia e história oral: imagem e memória na pesquisa com comunidades tradicionais. In: ENCONTRO DE GRUPOS DE PESQUISA: AGRICULTURA, DESENVOLVIMENTO REGIONAL E TRANSFORMAÇÕES SOCIOESPACIAIS, 5, nov. 2009. Anais.... Disponível em: &lt;<a href="http://w3.ufsm.br/gpet/engrup/vengrup/anais/7/Fernando%20e%20Julio%20-%20USP_2.pdf">http://w3.ufsm.br/gpet/engrup/vengrup/anais/7/Fernando%20e%20Julio%20-%20USP_2.pdf</a>&gt; &gt;. Acesso em: 1º jul. 2017.

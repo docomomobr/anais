@@ -69,8 +69,8 @@ palavras-chave:
 - COSTA, Lucio. A arte e a educação. In: CONGRESSO INTERNACIONAL EXTRAORDINÁRIO DE
 - CRÍTICOS DE ARTE, 1959, Brasília, São Paulo e Rio de Janeiro. Anais... Brasília, São Paulo e Rio de Janeiro: 1959. mimeo, transcrição por Mário Pedrosa.
 - FACCIOLI GABRIEL, Marcos. SCHAPIRO, Meyer. A síntese das artes na cidade nova. Novos Estudos
-- CEBRAP,n.70,p.155-175,nov.2004.Disponível em: http://www.cebrap.org/imagens/Arquivos/a_sintese_das- artes.pdf Acesso em: mai 2009
-- MADEIRA, Angélica; MORI, Cecília. Nota de Pesquisa 1: a itinerância dos artistas. In: CONGRESSO INTERNACIONAL EXTRAORDINÁRIO DE CRÍTICOS DE ARTE. Disponível em: http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf. Acesso em: mai. 2009.
+- CEBRAP,n.70,p.155-175,nov.2004.Disponível em: &lt;<a href="http://www.cebrap.org/imagens/Arquivos/a_sintese_das-">http://www.cebrap.org/imagens/Arquivos/a_sintese_das-</a>&gt; artes.pdf Acesso em: mai 2009
+- MADEIRA, Angélica; MORI, Cecília. Nota de Pesquisa 1: a itinerância dos artistas. In: CONGRESSO INTERNACIONAL EXTRAORDINÁRIO DE CRÍTICOS DE ARTE. Disponível em: &lt;<a href="http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf">http://www.unb.br/ics/sol/itinerancias/grupo/angelica/criticosarte.pdf</a>&gt; Acesso em: mai. 2009.
 - PEVSNER, Nikolaus. O Renascimento da Arte Industrial e a formação do artista na atualidade. In:
 - PEVSNER, Nikolaus. Academias de Arte: passado e presente. São Paulo: Companhia das Letras, 2004.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1997.

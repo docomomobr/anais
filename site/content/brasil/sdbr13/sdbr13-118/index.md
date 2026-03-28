@@ -70,14 +70,14 @@ palavras-chave:
 - FITZ, Leonardo. Artigo: A obra de Eladio Dieste. Porto Alegre, 2015
 - FRAMPTON, Kenneth. História Critica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.
 - FRAMPTON, Kenneth. The Case For The Tectonic as Commemorative Form. In Technology, Place & Architecture: the Jerusalem Seminar in Architecture, Edited by K.Frampton, with Arthur Spector and Lyang Reed Rosman. Jerusalem, New York: Rizzoli, 1998.
-- GNOG, Gustavo. A Catenária, Gaudí e confusões de Nomenclatura. 2017. Disponível em https://naotrivial.wordpress.com/2017/03/29/a-catenaria-gaudi-e-confusoes-de-nomenclatu ra/. Acesso em: 28/06/2018.
+- GNOG, Gustavo. A Catenária, Gaudí e confusões de Nomenclatura. 2017. Disponível em &lt;<a href="https://naotrivial.wordpress.com/2017/03/29/a-catenaria-gaudi-e-confusoes-de-nomenclatu">https://naotrivial.wordpress.com/2017/03/29/a-catenaria-gaudi-e-confusoes-de-nomenclatu</a>&gt; ra/. Acesso em: 28/06/2018.
 - HÜBSCH, Heinrich. In What Style Should we Build?. 1.ed. 1828. In HERRMANN, Wolfgang (org). The German Debate on Architectural Style. Santa Monica CA: Getty Center, 1992
-- LINO, Sulamita Fonseca. A obra de Eladio Dieste: Flexibilidade e autonomia na produção arquitetônica. In Vitruvius, Arquitextos, 2008 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/08.096/142&gt; acesso em: 10/03/2018
+- LINO, Sulamita Fonseca. A obra de Eladio Dieste: Flexibilidade e autonomia na produção arquitetônica. In Vitruvius, Arquitextos, 2008 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/08.096/142">http://www.vitruvius.com.br/revistas/read/arquitextos/08.096/142</a>&gt; acesso em: 10/03/2018
 - MARGENAT, Juan Pedro. Tiempos Modernos: Arquitectura uruguaya afín a las vanguardias 1940-1970. Montevideo: Mastergraf, 2013.
-- MARQUES, Jéssica. Cerâmica armada, a técnica de Eladio Dieste. &lt; http://www.iarq.com.br/ceramica-armada/ &gt; acesso em: 30/05/2018
+- MARQUES, Jéssica. Cerâmica armada, a técnica de Eladio Dieste. &lt;<a href="http://www.iarq.com.br/ceramica-armada/">http://www.iarq.com.br/ceramica-armada/</a>&gt; &gt; acesso em: 30/05/2018
 - MOREIRA, Fernando (ORG). Arquitetura moderna no Norte e Nordeste do Brasil: universidade e diversidade. Recife-PE, 2007.
 - ROMÁN, Cláudio Escandell. Dissertação de mestrado: Eladio Dieste e a cerâmica armada. Brasília, 2012.
-- ROCHA, Lauro. Uruguai. Acervo de fotos, 2009. &lt; https://www.lrfoto.com.br/dieste-uruguai&gt; Acesso em: 20/05/2018
-- SEGRE, Roberto. Dieste, Eladio. Enciclopédia Latino-americana, 2000 &lt;http://latinoamericana.wiki.br/verbetes/d/dieste-eladio&gt; acesso em: 20/04/2018
+- ROCHA, Lauro. Uruguai. Acervo de fotos, 2009. &lt;<a href="https://www.lrfoto.com.br/dieste-uruguai">https://www.lrfoto.com.br/dieste-uruguai</a>&gt; Acesso em: 20/05/2018
+- SEGRE, Roberto. Dieste, Eladio. Enciclopédia Latino-americana, 2000 &lt;<a href="http://latinoamericana.wiki.br/verbetes/d/dieste-eladio">http://latinoamericana.wiki.br/verbetes/d/dieste-eladio</a>&gt; acesso em: 20/04/2018
 - VALMAGGIA, Ariel. Entrevista. Pesquisa PIBIC, Recife, 2018.
 - VALMAGGIA, Ariel. Palestra: A técnica da cerâmica armada. IAB.PE, 2017.

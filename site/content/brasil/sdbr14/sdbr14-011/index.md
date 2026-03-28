@@ -64,8 +64,8 @@ palavras-chave:
 - BARDI, Lina Bo. Projeto III. Escola de Desenho Industria e Artesanato e Museu de Arte Popular. Salvador. 1963.
 - BARDI, Lina Bo. Tempos de Grossura: o Design no Impasse. São Paulo: Instituto Lina Bo e P. M. Bardi, 1994.
 - BENEVIDES, Maria Victoria. O governo Kubitschek: desenvolvimento econômico e estabilidade política, 1956-1961. Rio de Janeiro: Paz e Terra, 1979.
-- CADERNOS DO NORDESTE. Em Defesa do Nordeste. Out. 2000b. Disponível em: &lt; http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm&gt;. Acesso em: 2 jul. 2014.
-- CADERNOS DO NORDESTE. GTDN, uma semente plantada pela sociedade. Out. 2000a. Disponível em: &lt; http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm&gt;. Acesso em: 2 jul. 2014.
+- CADERNOS DO NORDESTE. Em Defesa do Nordeste. Out. 2000b. Disponível em: &lt;<a href="http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm">http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm</a>&gt; Acesso em: 2 jul. 2014.
+- CADERNOS DO NORDESTE. GTDN, uma semente plantada pela sociedade. Out. 2000a. Disponível em: &lt;<a href="http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm">http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm</a>&gt; Acesso em: 2 jul. 2014.
 - CARONE, Edgard. A República Liberal II – evolução política (1945-1964). São Paulo: Difel, 1985.
 - CHAGAS, Maurício de Almeida. Modernismo e tradição: Lina Bo Bardi na Bahia. 2002. 244 f. Dissertação (Programa de Pós-Graduação em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo da Universidade Federal da Bahia, Salvador, 2002.
 - FAUSTO, Boris. História do Brasil. São Paulo: Edusp, 1994.

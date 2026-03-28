@@ -59,7 +59,7 @@ palavras-chave:
 - BENJAMIN, Walter. The Arcades Project. Cambridge MA: Harvard University Press, 1999.
 - BROOS, Hans. Escolha da profissão de arquiteto. Texto da Palestra no dia 03/11/1994. São Paulo.
 - BROOS, Hans. O homem e a cidade: Reflexos mútuos. Texto da Palestra no dia 16/06/1989. São Paulo.
-- BURKE, Peter. (org.). A escrita da história: novas perspectivas. São Paulo: Ed. da Unesp, 1992. Dados estatísticos de Blumenau. Disponíveis em: http://www.blumenau.sc.gov.br/downloads/seplan/relatorio_pmb_censo_2010.pdf
+- BURKE, Peter. (org.). A escrita da história: novas perspectivas. São Paulo: Ed. da Unesp, 1992. Dados estatísticos de Blumenau. Disponíveis em: &lt;<a href="http://www.blumenau.sc.gov.br/downloads/seplan/relatorio_pmb_censo_2010.pdf">http://www.blumenau.sc.gov.br/downloads/seplan/relatorio_pmb_censo_2010.pdf</a>&gt;
 - GEERTZ, Clifford. A Interpretação das culturas. Rio de Janeiro: Editora Guanabara Koogan, 1989.
 - KOOLHAAS, Rem. Delirious NewYork: a retroactive manifesto for Manhattan. New York: The Monacelli Press, 1994.
 - PIMENTA, Margareth de Castro Afeche (coord.). Mestres Artífices. Santa Catarina. Cadernos de Memórias. Brasília: Iphan, 2012.

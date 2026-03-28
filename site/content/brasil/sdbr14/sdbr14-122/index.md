@@ -52,15 +52,15 @@ palavras-chave:
 
 ## Referências
 
-- BARATTO, R. Edifício tombado de 22 pavimentos desaba após incêndio no centro de São Paulo. Disponível em: &lt;https://www.archdaily.com.br/br/893568/edificio-de-22-pavimentos-desaba-apos-incendio-no-centro-de-sao-paulo&gt; Acesso em: 06/05/2019.
+- BARATTO, R. Edifício tombado de 22 pavimentos desaba após incêndio no centro de São Paulo. Disponível em: &lt;<a href="https://www.archdaily.com.br/br/893568/edificio-de-22-pavimentos-desaba-apos-incendio-no-centro-de-sao-paulo">https://www.archdaily.com.br/br/893568/edificio-de-22-pavimentos-desaba-apos-incendio-no-centro-de-sao-paulo</a>&gt; Acesso em: 06/05/2019.
 - CARERI, Francesco. Walkscapes: o caminhar como prática estética. São Paulo: Editora GG, 2013.
 - CERTEAU, Michel de. A invenção do cotidiano. 1. Artes do fazer. Petrópolis: Vozes, 1994.
 - DEBORD, G. Teoria da Deriva. In Revista Internacional Situacionista. No. 2, dezembro 1958.
 - DELEUZE, G. e GUATTARI, F. Rizoma. Mil Platôs. Volume 1. Rio de Janeiro: Ed. 34, 1995.
 - DELEUZE, Gilles. Espinosa, filosofia prática. Ed. Escuta, São Paulo, 2002.
-- Edifício sede. Acrópole. no 27. São Paulo. edição 323. nov. 1965. Disponível em:&lt;http://www.acropole.fau.usp.br/edicao/323&gt; Acessado em: 03/01/2020. Pg. 34-37.
+- Edifício sede. Acrópole. no 27. São Paulo. edição 323. nov. 1965. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/323">http://www.acropole.fau.usp.br/edicao/323</a>&gt; Acessado em: 03/01/2020. Pg. 34-37.
 - ESPINOZA, Benedictus de. Ética. Trad. Tomaz Tadeu. Belo Horizonte: Autêntica Editora, 2007 [1677].
-- Entrevistas com moradores da ocupação do Largo do Paissandu. Minidocumentário. Canal Purpura. São Paulo. 2018. Disponível em: &lt;https://www.youtube.com/watch?v=FjRB2EqLBFM&gt; Acessado em 17/05/2021.
+- Entrevistas com moradores da ocupação do Largo do Paissandu. Minidocumentário. Canal Purpura. São Paulo. 2018. Disponível em: &lt;<a href="https://www.youtube.com/watch?v=FjRB2EqLBFM">https://www.youtube.com/watch?v=FjRB2EqLBFM</a>&gt; Acessado em 17/05/2021.
 - FELDMAN, Sarah. Patrimônio cultural e a dimensão metropolitana. Cymbalista, Renato; Feldman, Sarah; Kühl, Beatriz (orgs.). Patrimônio cultural: memória e intervenções urbanas. São Paulo: Fapesp/ Annablume, 2017.
 - FURTADO, Janaína; ZANELLA, Andréia Vieira. Graffiti e cidade: sentidos da intervenção urbana e o processo de constituição dos sujeitos. In: Revista Malestar e Subjetividade – Fortaleza – Vol. IX – Nº 4 – p. 1279-1302 – dez/2009.
 - GUATTARI, Félix; ROLNIK, Suely. I, II e III Micropolítica: cartografias do desejo. 12. ed. etrópolis, RJ: Editora Vozes, 2013. p. 21 – 150.
@@ -73,7 +73,7 @@ palavras-chave:
 - SMITH, C. Art as Diagnose: Assessing Social and Political Transformation through Public Art in Cairo, Egypt, Social & Cultural Geography, 2015. Pg. 22-42.
 - NORA, Pierre. Entre memória e história: a problemática dos lugares. Projeto História. Revista do Programa de Estudos Pós-Graduados em História e do Departamento de História da PUC-SP, n. 10. São Paulo, dez.-1993.
 - Incêndio Do Wilton Paes (Sp) Confirma Descaso Em Relação A Política Habitacional No Brasil. Cau-sc. Florianópolis, 2, maio, 2018. Disponível Em: &lt;Https://Www.Causc.Gov.Br/Noticias/Incendio-Do-Wilton-Paes-Sp-Confirma-Descaso-Em-Relacao-Politica-Habitacional-No-Brasil/&gt; Acessado Em 17/05/2021.
-- SOUZA, F. de. São Paulo, 2015. BBC News Brasil. Energia de semáforo, briga por banheiro e esconde-esconde em cofre: a vida em prédio que desabou em SP. São Paulo. Maio. 2018. Disponível em: &lt;https://www.bbc.com/portuguese/brasil-43983807&gt;. Acesso em: 09/02/2020.
-- PETRINI, E. São Paulo, 2014. Fotos do prédio ocupado em sp antes do desabamento. São Paulo. maio. 2018. Disponível em: https://www.vice.com/pt_br/article/a3y5kg/desabamento-sp-predio-fotos-antigas Acessado em: 09/02/2020.
-- Polícia contabiliza 9 vítimas de desabamento de edifício em SP: quatro foram identificadas. BBC News Brasil. São Paulo. maio. 2018. Disponível em: &lt;https://www.bbc.com/portuguese/brasil-43963449&gt; Acesso em: 09/02/2020.
-- Hoje completam 2 anos do desabamento do edifício Wilton Paes de Almeida, em São Paulo. Revista Brasil. No AR. São Paulo. maio. 2020. Disponível em: &lt;https://radios.ebc.com.br/revista-brasil/2020/05/hoje-completam-2-anos-do-desabamento-do-edificio-wilton-paes-de-almeida-em&gt; Acessado em: 10/05/2020.
+- SOUZA, F. de. São Paulo, 2015. BBC News Brasil. Energia de semáforo, briga por banheiro e esconde-esconde em cofre: a vida em prédio que desabou em SP. São Paulo. Maio. 2018. Disponível em: &lt;<a href="https://www.bbc.com/portuguese/brasil-43983807">https://www.bbc.com/portuguese/brasil-43983807</a>&gt; Acesso em: 09/02/2020.
+- PETRINI, E. São Paulo, 2014. Fotos do prédio ocupado em sp antes do desabamento. São Paulo. maio. 2018. Disponível em: &lt;<a href="https://www.vice.com/pt_br/article/a3y5kg/desabamento-sp-predio-fotos-antigas">https://www.vice.com/pt_br/article/a3y5kg/desabamento-sp-predio-fotos-antigas</a>&gt; Acessado em: 09/02/2020.
+- Polícia contabiliza 9 vítimas de desabamento de edifício em SP: quatro foram identificadas. BBC News Brasil. São Paulo. maio. 2018. Disponível em: &lt;<a href="https://www.bbc.com/portuguese/brasil-43963449">https://www.bbc.com/portuguese/brasil-43963449</a>&gt; Acesso em: 09/02/2020.
+- Hoje completam 2 anos do desabamento do edifício Wilton Paes de Almeida, em São Paulo. Revista Brasil. No AR. São Paulo. maio. 2020. Disponível em: &lt;<a href="https://radios.ebc.com.br/revista-brasil/2020/05/hoje-completam-2-anos-do-desabamento-do-edificio-wilton-paes-de-almeida-em">https://radios.ebc.com.br/revista-brasil/2020/05/hoje-completam-2-anos-do-desabamento-do-edificio-wilton-paes-de-almeida-em</a>&gt; Acessado em: 10/05/2020.

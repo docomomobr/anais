@@ -50,15 +50,15 @@ palavras-chave:
 
 - BASTOS, Maria Alice Junqueira. Pós Brasília: rumos da arquitetura brasileira: discurso prática e pensamento. São Paulo: Perspectiva, 2007. 277p.
 - BRANDÃO, Carlos Antônio Leite. Modernidade quae será tamen. Cadernos de Arquitetura e Urbanismo. Editora PUC Minas: Belo Horizonte, v.12, n.13, p. 201-215, dez.2005.
-- GUERRA, Abílio. A moderna morada paulista. Resenhas online, Vitruvius, 001.16, ano 01, jan.2002. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3263&gt;. Acessado em: 18 ago. 2012.
+- GUERRA, Abílio. A moderna morada paulista. Resenhas online, Vitruvius, 001.16, ano 01, jan.2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3263">http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3263</a>&gt; Acessado em: 18 ago. 2012.
 - HERTZBERGER, HERMAN. Lições de arquitetura. 2ªed. São Paulo: Martins Fontes, 1999. 272p.
 - IRIGOYEN DE TOUCEDA, Adriana Marta. Da Califórnia a São Paulo: referências norte americanas na casa moderna paulista 1945 – 1960. 2005. 383p. Tese (Doutorado – área de concentração: Estruturas Ambientais Urbanas). FAU, Universidade de São Paulo, São Paulo, 2005.
-- MAHFUZ, Edson da Cunha. Reflexões sobre a construção da forma pertinente. Arquitextos, Vitruvius, 045.02, ano 04, fev. 2004. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/04.045/606&gt;. Acessado em: 02 ago. 2014.
-- MINEROPAR, Serviço Geológico do Paraná. Glossário de termos geológicos. Curitiba. Disponível em: &lt;http://www.mineropar.pr.gov.br/modules/glossario/conteudo.php?conteudo=C&gt; . Acessado em: 08 julh. 2013.
-- MIRANDA, Ana Paula Tavares. Arquitetura brutalista e estratégia de transportes no Triângulo Mineiro: estações ferroviárias da Mogiana e terminal rodoviário Presidente Castelo Branco. In: 10º Seminário Docomomo Brasil, 2013, Curitiba. Disponível em: http://www.docomomo.org.br/seminario%2010%20pdfs/OBR_23.pdf. Acessado em 20 set. 2013.
+- MAHFUZ, Edson da Cunha. Reflexões sobre a construção da forma pertinente. Arquitextos, Vitruvius, 045.02, ano 04, fev. 2004. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/04.045/606">http://www.vitruvius.com.br/revistas/read/arquitextos/04.045/606</a>&gt; Acessado em: 02 ago. 2014.
+- MINEROPAR, Serviço Geológico do Paraná. Glossário de termos geológicos. Curitiba. Disponível em: &lt;<a href="http://www.mineropar.pr.gov.br/modules/glossario/conteudo.php?conteudo=C">http://www.mineropar.pr.gov.br/modules/glossario/conteudo.php?conteudo=C</a>&gt; . Acessado em: 08 julh. 2013.
+- MIRANDA, Ana Paula Tavares. Arquitetura brutalista e estratégia de transportes no Triângulo Mineiro: estações ferroviárias da Mogiana e terminal rodoviário Presidente Castelo Branco. In: 10º Seminário Docomomo Brasil, 2013, Curitiba. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%2010%20pdfs/OBR_23.pdf">http://www.docomomo.org.br/seminario%2010%20pdfs/OBR_23.pdf</a>&gt; Acessado em 20 set. 2013.
 - MONTANER, Josep Maria. Arquitetura e crítica na América Latina. São Paulo: Romano Guerra, 2014. 212p.
 - SEGAWA, Hugo. Oswaldo Arthur Bratke: A arte de bem projetar e construir. São Paulo: PW Editores, 2012. 2ª ed. 408 p.
 - SERAPIÃO, Fernando. Rodolpho Ortemblad Filho: graduado na primeira turma de arquitetos do Mackenzie, pertence à geração pioneira de arquitetos modernos.
-- PROJETODESIGN, São Paulo, edição 344, out. 2008. Disponível em: &lt;http://www.arcoweb.com.br/index.php?option=com_content&view=article&id3661:r...&gt;. Acessado em: 21/04/2013.
+- PROJETODESIGN, São Paulo, edição 344, out. 2008. Disponível em: &lt;<a href="http://www.arcoweb.com.br/index.php?option=com_content&view=article&id3661:r">http://www.arcoweb.com.br/index.php?option=com_content&view=article&id3661:r</a>&gt; Acessado em: 21/04/2013.
 - TRAMONTANO, Marcelo. Habitação Contemporânea: Riscos preliminares. São Carlos: EESC-USP, 1995.
 - WISNIK, Guilherme. Modernidade Congênita. In: ANDREOLI, Elisabetta; FORTY, Adrian. Arquitetura Moderna Brasileira. 1ª ed. New York: Phaidon, 2004. Cap.1.p.20-55. 240p.

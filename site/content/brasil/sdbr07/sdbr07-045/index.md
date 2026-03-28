@@ -60,6 +60,6 @@ palavras-chave:
 - REIS, José. Agenciamento da área fronteira à Igreja de N. S. da Glória do Outeiro. Módulo n. 28, Rio de Janeiro, p. 25-28, junho, 1962.
 - REIS, José. Proposta para ampliação do Hipódromo da Gávea. Módulo n. 58, Rio de Janeiro, p. 82- 85, abril, 1980.
 - REIS, José. Documentário sobre Rodrigo Melo Franco de Andrade e da fase inicial do SPHAN. Rio de Janeiro, 1984. Revista do SPHAN n. 16, Rio de Janeiro, 1968.
-- ROCHA, Ricardo. De museus e ruínas: os liames entre o novo e o antigo. São Paulo: Vitruvius, 2001. Disponível em: &lt; http://www.vitruvius.com.br/arquitextos/arq008/arq008_02.asp &gt; Acesso em 17 mai. 2007, 15:09.
-- ROCHA, Ricardo. O Pavilhão Lúcio Costa: uma proposta. São Paulo: Vitruvius, 2001. Disponível em: &lt;http://www.vitruvius.com.br/minhacidade/mc010/mc010.asp&gt;. Acesso em 17 mai. 2007. Rodrigo e o SPHAN. Rio de Janeiro: MinC/Pró-Memória, 1987.
+- ROCHA, Ricardo. De museus e ruínas: os liames entre o novo e o antigo. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq008/arq008_02.asp">http://www.vitruvius.com.br/arquitextos/arq008/arq008_02.asp</a>&gt; &gt; Acesso em 17 mai. 2007, 15:09.
+- ROCHA, Ricardo. O Pavilhão Lúcio Costa: uma proposta. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/minhacidade/mc010/mc010.asp">http://www.vitruvius.com.br/minhacidade/mc010/mc010.asp</a>&gt; Acesso em 17 mai. 2007. Rodrigo e o SPHAN. Rio de Janeiro: MinC/Pró-Memória, 1987.
 - Rodrigo e seus tempos. Rio de Janeiro: MinC/Pró-Memória, 1986.

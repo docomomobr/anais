@@ -74,7 +74,7 @@ palavras-chave:
 - MENDES, Manuel; PORTAS, Nuno. Arquitetura Portuguesa Contemporânea  - Anos sessenta / anos oitenta. Porto: Edit. Fundação de Serralves, 1991.
 - MILHEIRO, Ana Vaz. “As coisas não são o que parecem que são”. Opúsculo 15 — Pequenas Construções Literárias sobre Arquitectura. Porto: Dafne Editora, Novembro 2008.
 - MILHEIRO, Ana Vaz. “Castro Rodrigues, o arquitecto do Lobito”, em JA – Jornal Arquitectos, n.234, Janeiro/Abril 2009, p. 13-15.
-- “O Pintor Burle Marx e os seus jardins”. Arquitectura, n.52, p. 22-23, Fevereiro/Março 1954. Piñón, Helio.“Teoria y Practica do Proyecto”. Barcelona:  edicions UPC, ETSAB 2006.
+- “O Pintor Burle Marx e os seus jardins”. Arquitectura, n.52, p. 22-23, Fevereiro/Março 1954. Piñón, Helio.“Teoria y Practica do Proyecto”. Barcelona: edicions UPC, ETSAB 2006.
 - PORTAS, Nuno. “Habitação Social – Proposta para a Metodologia da sua arquitetura”. Porto: FAUP Publicações, 1 ed., 2005.
 - PORTAS, Nuno. “A Evolução da arquitetura Moderna em Portugal”, em Bruno Zevi, História da arquitetura Moderna. Lisboa, Ed. Arcadia, 1977.
 - RODRIGUES, Francisco Castro. “A Arquitectura Moderna Brasileira”, Palestra proferida pelo Senhor Arquitecto Francisco Castro Rodrigues, no dia 13 de Junho de 1961, integrada na Jornada Luso-Brasileira levada a efeito de colaboração com o Núcleo de Estudos Angolano-Brasileiros, na Cidade do Lobito [texto policopiado]

@@ -34,7 +34,7 @@ authors:
     familyname: "Silva Neto"
     orcid: "0000-0001-7232-8556"
 doi: "10.5281/zenodo.19073474"
-zenodo_pdf_url: "https://zenodo.org/records/19073475/files/sdbr08-183.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285572/files/sdbr08-183.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
@@ -63,7 +63,7 @@ palavras-chave:
 - LIMA, Elani de Souza. “Inventário Arquitetônico de Goiânia: Residência do arquiteto”. Trabalho apresentado na disciplina Teoria e História da Arquitetura VI da Faculdade de Arquitetura e Urbanismo da UCG. Goiânia, 1984. NDD-UCG, Trabalho 489, Caixa Arquivo 56.
 - MANSO, Celina Fernandes. “Goiânia, Uma concepção urbana, moderna e contemporânea.” Goiânia: Edição do Autor, 2001.
 - METRAN, Márcia. “Moderno e Modernismo”. São Paulo, 1996. Dissertação (Mestrado arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo.
-- PREFEITURA MUNICIPAL DE PONTE NOVA. “A cidade”. Ponte Nova, 2006. Disponível em: http://www.pontenova.mg.gov.br/home/index/paginas/cidade.asp. Acesso em 01 jun. 2009, 21:30.
+- PREFEITURA MUNICIPAL DE PONTE NOVA. “A cidade”. Ponte Nova, 2006. Disponível em: &lt;<a href="http://www.pontenova.mg.gov.br/home/index/paginas/cidade.asp">http://www.pontenova.mg.gov.br/home/index/paginas/cidade.asp</a>&gt; Acesso em 01 jun. 2009, 21:30.
 - RODRIGUES, Valéria. “Inventário Arquitetônico: Residência Antônio Lúcio”. Trabalho apresentado na disciplina Teoria e História da Arquitetura VI da Faculdade de Arquitetura e Urbanismo da UCG. Goiânia, 1986. NDD-UCG, Trabalho 508, Caixa Arquivo 58.
 - SABINO, Oscar. “Goiânia documentada”. São Paulo: Edigraf, 1958.
 - VAZ, Maria Diva; ZÁRATE, Maria Heloisa. “Estudos - Arte e tecnologia V31, N11". Goiânia: Editora da UCG, 2004.

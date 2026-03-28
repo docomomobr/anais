@@ -52,5 +52,5 @@ palavras-chave:
 - MARQUES, Eliana de Azevedo; CASSARES, Norma Cianflone. O acervo Vilanova Artigas no Serviço de Biblioteca e Informação da Faculdade de Arquitetura e Urbanismo da Universidade de S. Paulo. Conservação. In: Vilanova Artigas, arquitecto: a cidade é uma casa. A casa é uma cidade. São Paulo: Casa da Cerca, 2000 / 2001. p. 85-88.
 - MARQUES, Eliana de Azevedo. Núcleos, laboratórios de pesquisa e serviços de apoio da FAUUSP. Pós: revista do Programa de Pós – Graduação em Arquitetura e Urbanismo da FAUUSP. São Paulo, n. 20, p. 225-238, dez. 2006.
 - MIGUEZ, Stella Regina. A Musealização do Acervo da Biblioteca FAUUSP: o Projeto Cultural e de Comunicação. São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, dez. 2010. (Pesquisa em Pós-Doutorado).
-- TESSITORE, Viviane. Como Implantar Centros de Documentação - Projeto Como Fazer no. 9.  São Paulo. Arquivo do Estado e Imprensa Oficial, 2003.
+- TESSITORE, Viviane. Como Implantar Centros de Documentação - Projeto Como Fazer no. 9. São Paulo. Arquivo do Estado e Imprensa Oficial, 2003.
 - UNIVERSIDADE DE SÃO PAULO. Catálogo de desenhos de arquitetura da Biblioteca da FAUUSP. São Paulo: FAUUSP, 1988. 179 p.

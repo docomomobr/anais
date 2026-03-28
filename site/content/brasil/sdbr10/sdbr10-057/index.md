@@ -52,13 +52,13 @@ palavras-chave:
 
 ## Referências
 
-- Ackerman, James S. “Introduction: The Conventions and Rhetoric of Architecture Drawing.” 8-36 http://www.andrew.cmu.edu/course/48-125/IDM2/READINGS_files/ackerman.pdf
+- Ackerman, James S. “Introduction: The Conventions and Rhetoric of Architecture Drawing.” 8-36 &lt;<a href="http://www.andrew.cmu.edu/course/48-125/IDM2/READINGS_files/ackerman.pdf">http://www.andrew.cmu.edu/course/48-125/IDM2/READINGS_files/ackerman.pdf</a>&gt;
 - Banham, Reyner. The New Brutalism: Ethic or Aesthetic? New York: Reinhold Publishing Corporation, 1966.
 - Banham, Reyner. “The New Brutalism.” The Architecture Review 118. December 1955, 358-361.
 - Candela, Hilario. "On Building a Firm." In At Spillis Candela and Partners, 6-9. New York: Edizioni Press, 2001.
 - Estorino, Julio. Interview with Hilario Candela. Luis J. Botifoll Oral History Project of the Cuban Heritage Collection, University of Miami Libraries. University of Miami. Miami. 15 Nov 2010.
 - Frampton, Kenneth. “Postscriptum: The Tectonic Trajectory 1903-1994.” In Studies in Tectonic Culture: The Poetics of Construction in Nineteenth and Twentieth Century Architecture, edited by John Cava, 335-376. Cambridge: The MIT Press, 1995.
-- Gumport, Patricia J. et al. “The United States Country Report: Trends in Higher Education from Massification to Post-Massification.” Standford University / University of Pennsylvania,1997. http://www.citizing.org/data/projects/highered/Trends%20in%20HE%20from%20Mass%20to%20P ost-Mass.pdf
+- Gumport, Patricia J. et al. “The United States Country Report: Trends in Higher Education from Massification to Post-Massification.” Standford University / University of Pennsylvania,1997. &lt;<a href="http://www.citizing.org/data/projects/highered/Trends%20in%20HE%20from%20Mass%20to%20P">http://www.citizing.org/data/projects/highered/Trends%20in%20HE%20from%20Mass%20to%20P</a>&gt; ost-Mass.pdf
 - Kitnick, Alex. “Introduction.” MIT / October 136. Spring 2011, 3-6.
 - May, Kyle (ed.). Brutalism. New York: Clog, 2013.
 - Miami-Dade College Archives
@@ -69,4 +69,4 @@ palavras-chave:
 - Smith Jr., Herbert L. “Building Types Study 381 – Campus Planning: Design as tool for Identity and Continuity.” Architecture Record (March 1968): 149,154-157.
 - Thompson, Elizabeth K. “Building Types Study 377 – Community Colleges: Architecture for Identity.” Architecture Record (November 1967): 155,162-165.
 - Under Construction: Twenty-Five Years of Miami-Dade Community College 1960-1985 Tulsa: Lion & Thorne Publishing, 1988.
-- Vazquez, Jose. “A Concrete Presence: The Architecture of Miami-Dade College 1960-1970.” Accessed May 17, 2013. http://www.aconcretepresence.com/
+- Vazquez, Jose. “A Concrete Presence: The Architecture of Miami-Dade College 1960-1970.” Accessed May 17, 2013. &lt;<a href="http://www.aconcretepresence.com/">http://www.aconcretepresence.com/</a>&gt;

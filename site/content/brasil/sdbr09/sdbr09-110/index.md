@@ -72,7 +72,7 @@ palavras-chave:
 - FUJIOKA, Paulo Y. Princípios da Arquitetura Organicista de Frank Lloyd Wright e suas influências na Arquitetura Moderna Paulistana. Tese de Doutorado. São Paulo: Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, 2003, p. 160- 167 e p. 181-246.
 - IRIGOYEN DE TOUCEDA, Adriana. Frank Lloyd Wright e o Brasil. Dissertação de Mestrado. São Carlos-SP: Programa de Pós-Graduação em Arquitetura e Urbanismo da Escola de Engenharia de São Carlos da USP, 2000.
 - McCARTER, Robert. “The Sacred Space of Worship.” In Frank Lloyd Wright. Londres: Phaidon Press, 1997, p. 290-302.
-- MÜLLER, Fábio. “For the Worship of God and the Service of Man. Wright e o Templo Cristão.” Arquitextos, São Paulo, 03.033, Vitruvius Fev. 2003 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/03.33/709&gt;.
-- NEDELYKOV, Nina e MOREIRA, Pedro. “Caminhos da Arquitetura Moderna no Brasil: a presença de Frank Lloyd Wright.” Arquitextos, São Paulo, 018.03, Vitruvius nov 2001 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/02.18/029&gt;.
+- MÜLLER, Fábio. “For the Worship of God and the Service of Man. Wright e o Templo Cristão.” Arquitextos, São Paulo, 03.033, Vitruvius Fev. 2003 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/03.33/709">http://www.vitruvius.com.br/revistas/read/arquitextos/03.33/709</a>&gt;
+- NEDELYKOV, Nina e MOREIRA, Pedro. “Caminhos da Arquitetura Moderna no Brasil: a presença de Frank Lloyd Wright.” Arquitextos, São Paulo, 018.03, Vitruvius nov 2001 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.18/029">http://www.vitruvius.com.br/revistas/read/arquitextos/02.18/029</a>&gt;
 - PFEIFFER, Bruce Brooks. Frank Lloyd Wright. Munique: Benedikt Taschen, 2000.
 - SIRY, Joseph M. Unity Temple – Frank Lloyd Wright and Architecture for Liberal Religion. Nova York e Cambridge: Cambridge University Press, 1996.

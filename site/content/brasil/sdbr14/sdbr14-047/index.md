@@ -52,7 +52,7 @@ palavras-chave:
 - CARVALHO, Guilherme Paiva. Identidade, cultura e música em Brasília. Ciências Sociais Unisinos. São Leopoldo, Vol. 51, N. 1. jan/abr de 2015: 10-18.
 - CORBUSIER, LE. Carta de Atenas. Trad. Rebeca Scherer. São Paulo: HUCITEC/EDUSP, s/d.
 - HOLSTON, James. A cidade modernista: uma crítica a Brasília e sua utopia . São Paulo: Companhia das Letras, 1993.
-- IPHAN. Portaria Nº 166, DE 11 de maio de 2016. 2016. &lt;http://portal.iphan.gov.br/&gt;.
+- IPHAN. Portaria Nº 166, DE 11 de maio de 2016. 2016. &lt;<a href="http://portal.iphan.gov.br/">http://portal.iphan.gov.br/</a>&gt;
 - LEITÃO, Francisco. [org.]. BRASÍLIA 1960 -2010.
 - Passado, Presente e Futuro. Secretaria de Estado de Desenvolviemtno Urbano e Meio Ambiente. Brasília, 2009.
 - MATHIEU, Marcia Regina de Andrade. Brasília, é uma cidade só? O impacto das medidas preservacionistas do Plano Piloto na expansão dos espaços urbanos da área metropolitana de Brasília. Territórios e Sociedade. As múltiplas faces da Brasília Metropolitana. Brasília: Universidade de Brasília, 2019. 197-209.
@@ -60,5 +60,5 @@ palavras-chave:
 - PAVIANI, Aldo. Área Metropolitana de Brasíla a Integrar: o desafio do desemprego e da descentralização de atividades. Território e sociedade: As múltiplas faces da Brasília metropolitana. Brasília: Universidade de Brasília, 2019. 47-58.
 - RAMA, Angel. A Cidade das Letras. São Paulo: Brasiliense, 1985.
 - ROSSETI, Eduardo Pierrotti. Espaços públicos de Brasília: uso, apropriação, valorização e transformação. SALVADOR: Arquimemória 5: Sobre preservação do patrimônio edificado. UFBA, 2018.
-- SEDUH. http://www.seduh.df.gov.br/politica-habitacional-2/. Acesso e maio de 2021.
-- SUERTEGARAY, Paloma. Um Eixão inteiro para o lazer. Jornal Correio Braziliense (2020). Disponível em: https://www.correiobraziliense.com.br/app/noticia/cidades/2020/07/11/. Acesso em maio de 2021. 2021
+- SEDUH. &lt;<a href="http://www.seduh.df.gov.br/politica-habitacional-2/">http://www.seduh.df.gov.br/politica-habitacional-2/</a>&gt; Acesso e maio de 2021.
+- SUERTEGARAY, Paloma. Um Eixão inteiro para o lazer. Jornal Correio Braziliense (2020). Disponível em: &lt;<a href="https://www.correiobraziliense.com.br/app/noticia/cidades/2020/07/11/">https://www.correiobraziliense.com.br/app/noticia/cidades/2020/07/11/</a>&gt; Acesso em maio de 2021. 2021

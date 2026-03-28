@@ -60,7 +60,7 @@ palavras-chave:
 - DUARTE, R. Marx e a Natureza em o Capital. São Paulo: Edições Loyola, 1986, 108p.
 - GERALDES, E. A. S. Paisagem, identidade e memória: Vila Picinguaba, 2001. Dissertação (Mestrado em Geografia Humana) – Faculdade de Filosofia, Letras e Ciencias Humanas, Universidade de São Paulo, São Paulo.
 - GERALDES, E. Patrimônio ambiental urbano: atualizando conceito para um turismo urbano possível. (s/d)
-- INTERNATIONAL COUNCIL OF MINUMENTS AND SITE-ICOMOS, Cartas e documentos, Disponível em &lt;http://www.international.icomos.org&gt;, acesso em 20 de janeiro de 2011.
+- INTERNATIONAL COUNCIL OF MINUMENTS AND SITE-ICOMOS, Cartas e documentos, Disponível em &lt;<a href="http://www.international.icomos.org">http://www.international.icomos.org</a>&gt; acesso em 20 de janeiro de 2011.
 - IPHAN. Cartas Patrimoniais. (www.iphan.gov.br) IPHAN. Recomendação Paris Paisagens e Sítios, 1962. IPHAN. Carta de Veneza, 1964.
 - IPHAN. Recomendação Paris – Proteção do Patrimônio Mundial, Cultural e Natural, 1972. IPHAN. Declaração de Estocolmo, 1972. IPHAN. Manifesto e Declaração de Amsterdã, 1975. IPHAN. Carta de Burra, 1980. IPHAN. Carta do Rio, 1992. IPHAN. Recomendação Europa, 1995.
 - MARX, K. O Capital. Da edição francesa de G.D., Publicada na ocasião sob os auspícios e orientação do próprio Karl Marx. Biblioteca de Autores Célebres. São Paulo: Edições e Publicações Brasil Editora S.A., 1962, 280p.
@@ -68,4 +68,4 @@ palavras-chave:
 - VARINE-BOHAM, H. A experiência internacional: notas de aula. São Paulo: FAU/USP, 1974
 - SANTOS, M. A natureza do espaço. São Paulo: Edusp
 - YAZIGI, E. Patrimônio ambiental urbano: refazendo um conceito para o planejamento urbano. Texto apresentado no Simpósio de Geografia Urbana da Universidade de São Paulo, outubro de 2001, São Paulo.
-- Sites consultados: hhttp://www.icomos.org; http://www.iucn.org http://www.iphan.gov.br http://www.unep-wcmc.org http://www.whc.unesco.org
+- Sites consultados: h &lt;<a href="http://www.icomos.org">http://www.icomos.org</a>&gt; &lt;<a href="http://www.iucn.org">http://www.iucn.org</a>&gt; &lt;<a href="http://www.iphan.gov.br">http://www.iphan.gov.br</a>&gt; &lt;<a href="http://www.unep-wcmc.org">http://www.unep-wcmc.org</a>&gt; &lt;<a href="http://www.whc.unesco.org">http://www.whc.unesco.org</a>&gt;

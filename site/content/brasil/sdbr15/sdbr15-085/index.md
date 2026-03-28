@@ -91,6 +91,6 @@ palavras-chave:
 - ROZMARIN, Miri. Power, Freedom, and Individuality: Foucault and Sexual Difference. Human Studies, v. 28, n. 1, p. 1-14, 2005. [Sem título]. Correio Braziliense, Brasília, n. 4985, 30 ago. 1976. Caderno 1, p. 16.
 - SEPULTAMENTO em Brasília. Correio Braziliense, Brasília, n. 4978, 23 ago. 1976. Caderno 1, p. 1.
 - SIMMEL, Georg. O indivíduo e a liberdade. In: SOUZA, Jessé; ÖELZE, Berthold (Orgs.). Simmel e a modernidade. Brasília: Editora da UnB, 1998. p. 109-117.
-- SIMON, Chan. The intersection of Politics and Architecture. Rethinking The Future - RTF, [20--]. Disponível em: https://www.re-thinkingthefuture.com/architectural-community/a9382-the-intersection-of-politics- and-architecture. Acesso em: 25 jun. 2023.
+- SIMON, Chan. The intersection of Politics and Architecture. Rethinking The Future - RTF, [20--]. Disponível em: &lt;<a href="https://www.re-thinkingthefuture.com/architectural-community/a9382-the-intersection-of-politics-">https://www.re-thinkingthefuture.com/architectural-community/a9382-the-intersection-of-politics-</a>&gt; and-architecture. Acesso em: 25 jun. 2023.
 - TÚMULOS de Ana Lídia e JK foram os mais visitados. Correio Braziliense, Brasília, n. 5050, 3 nov. 1976. Caderno 1, p. 1.
 - VANDERSTRAETEN, Raf. Modes of individualisation at cemeteries. Sociological Research Online, v. 14, n. 4, 2009.

@@ -58,7 +58,7 @@ palavras-chave:
 - BRASIL. Revista do Patrimônio Histórico e Artístico Nacional. Rio de Janeiro, v.1, 1937.
 - BENEVOLO, Leonardo. História da arquitetura moderna. São Paulo: Perspectiva, 2004.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 2005.
-- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf&gt;. Acesso em: 12 mar. 2009.
+- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;<a href="http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf">http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf</a>&gt; Acesso em: 12 mar. 2009.
 - CAVALCANTI, Sylvia Tigre de Hollanda; CRUZ, Antonio Menezes e; REINÉS, Tuca. O azulejo na arquitetura civil de Pernambuco: Século XIX. São Paulo: Metalivros, 2002.
 - COSTA, Lúcio. Razões da nova arquitetura, 1934. In: COSTA, Lúcio. Registro de uma vivência. São Paulo: Empresa das Artes, 1995. p.108-116.
 - DOCOMOMO BRASIL. 8º, 2009, Rio de Janeiro. Anais. Rio de Janeiro: 2009.
@@ -67,15 +67,15 @@ palavras-chave:
 - MONDRIAN, Piet. Neoplasticismo na pintura e na arquitetura. São Paulo: Cosac Naify, 2008.
 - MORAIS, Frederico. Azulejaria Contemporânea no Brasil. São Paulo: Editoração Publicações e Comunicações Ltda, 1988.
 - MORAIS, Frederico. Azulejaria Contemporânea no Brasil – Volume II. São Paulo: Editoração Publicações e Comunicações Ltda, 1990.
-- MUSEU NACIONAL DO AZULEJO (Portugal). Cronologia do Azulejo em Portugal. Disponível em: &lt;http://mnazulejo.imc-ip.pt/Data/Documents/Cronologia%20do%20Azulejo%20em%20Portugal.pdf&gt;. Acesso em: 11 jan. 2010.
+- MUSEU NACIONAL DO AZULEJO (Portugal). Cronologia do Azulejo em Portugal. Disponível em: &lt;<a href="http://mnazulejo.imc-ip.pt/Data/Documents/Cronologia%20do%20Azulejo%20em%20Portugal.pdf">http://mnazulejo.imc-ip.pt/Data/Documents/Cronologia%20do%20Azulejo%20em%20Portugal.pdf</a>&gt; Acesso em: 11 jan. 2010.
 - NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil e Delfim Fernandes Amorim . 2004. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2004.
 - PEDROSA, Mario. A arquitetura moderna no Brasil. (1953). In: AMARAL, Aracy A.. (org.). Mário Pedrosa. Dos Murais de Portinari aos Espaços de Brasília. São Paulo: Perspectiva, p.255-264, 1981.
-- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius. São Paulo, ano 8, ago. 2007. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp&gt;. Acesso em: 04 abr. 2009.
+- PINTO JUNIOR, Rafael Alves. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Vitruvius. São Paulo, ano 8, ago. 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp433.asp</a>&gt; Acesso em: 04 abr. 2009.
 - PORTUGAL, Comissão Nacional para as Comemorações dos Descobrimentos Portugueses. O Azulejo em Portugal no Século XX. Lisboa: Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, 2000.
 - RACHED, Mary da Silva. O Azulejo na Arquitetura: Um estudo sobre o azulejar de Delfim Amorim. 2010. Trabalho final de graduação (TCC) – Universidade Católica de Pernambuco. Recife, 2010.
 - SANTOS, Cecília Rodrigues dos. Le Corbusier e o Brasil. São Paulo: Projeto, 1987.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998.
-- SEGRE, Roberto; BARKI, José; KÓS, José; VILAS BOAS, Naylor. O Edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira. Vitruvius. São Paulo, ano 6, fev. 2006. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp&gt;. Acesso em: 25 abr. 2009.
+- SEGRE, Roberto; BARKI, José; KÓS, José; VILAS BOAS, Naylor. O Edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira. Vitruvius. São Paulo, ano 6, fev. 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp">http://www.vitruvius.com.br/arquitextos/arq069/arq069_02.asp</a>&gt; Acesso em: 25 abr. 2009.
 - SILVA, Geraldo Gomes da et alli. DELFIM Amorim Arquiteto. Recife: Instituto dos Arquitetos do Brasil/Departamento Pernambuco (IAB-PE), 1981.
 - SILVA, Geraldo Gomes da et alli. Marcos da Arquitetura Moderna em Pernambuco. In: SEGAWA, Hugo (ed.) Arquiteturas no Brasil/Anos 80. São Paulo: Projeto, p. 19-27, 1988.
 - SILVEIRA, Marcele Cristiane da. O Azulejo na Modernidade Arquitetônica 1930 – 1960. 2008. Dissertação (Mestrado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2008.

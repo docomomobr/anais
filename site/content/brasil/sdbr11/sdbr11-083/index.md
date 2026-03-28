@@ -40,7 +40,7 @@ authors:
     familyname: "Lara"
     orcid: "0000-0001-7743-6441"
 doi: "10.5281/zenodo.19074709"
-zenodo_pdf_url: "https://zenodo.org/records/19074710/files/sdbr11-083.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285613/files/sdbr11-083.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
@@ -63,7 +63,7 @@ palavras-chave:
 - CANIZARO, Vicent B. (ed.) Architectural Regionalism Collected Writtings on Place, Identity, Modernity and Tradition. New York: Princeton Architectural Press, 2007.
 - COMAS, Carlos Eduardo. Latin American in Construction 1955-1980, The Poetics on Development: Notes on Two Brazilian Schools. NY: MOMA, 2015. Pp.40-67.
 - EGGENER, Keith (2002) Placing resistance: A critique of Critical Regionalism in: Architectural Regionalism Collected Writings on Place, Identity, Modernity and Tradition. In: CANIZARO, Vicent B. (ed.) New York: Princeton Architectural Press, 2007. pp.395-407.
-- GASPAR, Lúcia. Gilberto Freyre. http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=272&Itemid=1
+- GASPAR, Lúcia. Gilberto Freyre. &lt;<a href="http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=272&Itemid=1">http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=272&Itemid=1</a>&gt;
 - FICHER, Sylvia; ACAYABA, Marlene Milan. Arquitetura moderna brasileira. São Paulo: Projeto Editores Associados Ltda. 1982.
 - GOODWIN, Philip L. Brazil Builds. Architecture. New and Old. 1652-1942. New York, MoMA, 1943.
 - HERNÁNDEZ, Fernando. Dynamic Identities and the Construction of Transcultural Architectures. In: BORDEN, Iain; HERNANDEZ, Fernando; MILLINGTON, Mark. (orgs.) Transcultural Architecture in Latin America London: The Bartlett School, UCL, 2001.

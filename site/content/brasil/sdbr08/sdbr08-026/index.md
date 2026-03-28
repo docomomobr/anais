@@ -46,18 +46,18 @@ palavras-chave:
 
 ## Referências
 
-- ACAYABA, Marlene. Sobre Residência Elza Berquó. São Paulo: Vitruvius, Disponível em: &lt;http://marleneacayaba.com/2008/12/quinta-e-ltima-casa-de-vilanova-artigas.html&gt;. Acesso em: 26 de abril de 2009.
-- ARRUDA, Ângelo Marcos. A popularização dos elementos da casa moderna em campo grande, Mato Grosso do Sul. São Paulo: São Paulo: Vitruvius, 2004. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp228.asp&gt;. Acesso em: 22 de agosto de 2008.
+- ACAYABA, Marlene. Sobre Residência Elza Berquó. São Paulo: Vitruvius, Disponível em: &lt;<a href="http://marleneacayaba.com/2008/12/quinta-e-ltima-casa-de-vilanova-artigas.html">http://marleneacayaba.com/2008/12/quinta-e-ltima-casa-de-vilanova-artigas.html</a>&gt; Acesso em: 26 de abril de 2009.
+- ARRUDA, Ângelo Marcos. A popularização dos elementos da casa moderna em campo grande, Mato Grosso do Sul. São Paulo: São Paulo: Vitruvius, 2004. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp228.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp228.asp</a>&gt; Acesso em: 22 de agosto de 2008.
 - ARRAIS, Heitor do Nascimento; BESSA , Suzete Almeida de. Ficha de inventário: Casa Anapolino de Faria. Orientadores: Chistiane paiva e Marcos Carvalho. UEG/ Faculdade de Arquitetura e Urbanismo/ disciplina de técnicas retrospectivas na Arquitetura e Urbanismo: Anápolis, 2008.
 - ALBA, Fernández. A metropoli vacia. Barcelona: Antropos, 1990.
 - FISCHER, Sylvia; ACAYABA, Marlene Milan. Arquitetura moderna brasileira. São Paulo: Projeto Editores, 1982.
-- MAHFUZ, Edson Cunha. O sentido da arquitetura moderna brasileira. São Paulo: Vitruvius, 2002. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq020/arq020_01.asp&gt;. Acesso em: 28 de fevereiro de 2009. NORBERG-SCHULZ, Christian. Los principios de la arquitetura moderna sobre la nueva tradición de siglo xx. Barcelona: Editorial Reverte, 2005.
+- MAHFUZ, Edson Cunha. O sentido da arquitetura moderna brasileira. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq020/arq020_01.asp">http://www.vitruvius.com.br/arquitextos/arq020/arq020_01.asp</a>&gt; Acesso em: 28 de fevereiro de 2009. NORBERG-SCHULZ, Christian. Los principios de la arquitetura moderna sobre la nueva tradición de siglo xx. Barcelona: Editorial Reverte, 2005.
 - SEGAWA, Hugo. Arquiteturas no Brasil. 1900-1990. São Paulo: Edusp, 1998.
 - SUZUKI, Juliana. Artigas e cascasldi: arquitetura em londrina. São Paulo: ed. Ateliê, 2003.
 - VAZ, Maria Diva Araújo Coelho; ZÁRATE, Maria Heloisa Veloso e . A experiência moderna no cerrado
-- &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp&gt;. Acesso em: 22 de agosto de 2008.
+-  &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp341.asp</a>&gt; Acesso em: 22 de agosto de 2008.
 - XAVIER, Alberto, BRITO Et all. Arquitetura moderna no rio de janeiro. Rio de Janeiro: Rioarte, 1991.
-- ZEIN, Ruth Verde. Breve introdução à arquitetura da escola paulista brutalista. São Paulo: Vitruvius, 2006. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq069/arq069_01.asp&gt;. Acesso em: 29 de março de 2009.
+- ZEIN, Ruth Verde. Breve introdução à arquitetura da escola paulista brutalista. São Paulo: Vitruvius, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq069/arq069_01.asp">http://www.vitruvius.com.br/arquitextos/arq069/arq069_01.asp</a>&gt; Acesso em: 29 de março de 2009.
 - ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso
-- &lt;http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp&gt;. Acesso em: 29 de março de 2009.
-- &lt;http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201967-103/1967-103fichatecnica.htm&gt;. Acesso em: 26 de abril de 2009.
+-  &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp">http://www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp</a>&gt; Acesso em: 29 de março de 2009.
+-  &lt;<a href="http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201967-103/1967-103fichatecnica.htm">http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201967-103/1967-103fichatecnica.htm</a>&gt; Acesso em: 26 de abril de 2009.

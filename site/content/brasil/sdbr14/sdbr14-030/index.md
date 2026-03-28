@@ -50,11 +50,11 @@ palavras-chave:
 
 ## Referências
 
-- ANDRADE, Oswald. Manifesto Antropófago. In: Revista de Antropofagia. Ano I, n. I, maio de 1928. Fac- símile disponível em: https://cdn.culturagenial.com/arquivos/manifesto-antropofago.pdf . Consultado em: 12 maio 2021.
+- ANDRADE, Oswald. Manifesto Antropófago. In: Revista de Antropofagia. Ano I, n. I, maio de 1928. Fac- símile disponível em: &lt;<a href="https://cdn.culturagenial.com/arquivos/manifesto-antropofago.pdf">https://cdn.culturagenial.com/arquivos/manifesto-antropofago.pdf</a>&gt; . Consultado em: 12 maio 2021.
 - COSTA, Lúcio. Relatório do Plano Piloto de Brasília. CODEPLAN, DePHA. Brasília: GDF, 1991.
 - COUTINHO, Luciano. Educação Arquitetônica da Humanidade. Brasília: Tanto Mar Editores, 2021.
 - FICHER Sylvia; ACAYABA, Marlene M. Arquitetura Moderna brasileira. São Paulo. 1982. Projeto.
-- FREITAS, Conceição. O edifício que canta foi abandonado. Correio Braziliense, Brasília, 08, março de 2015. Disponível em: https://bancariosdf.com.br/portal/o-edificio-que-canta-foi-abandonado/. Acesso em: 12, maio 2021.
+- FREITAS, Conceição. O edifício que canta foi abandonado. Correio Braziliense, Brasília, 08, março de 2015. Disponível em: &lt;<a href="https://bancariosdf.com.br/portal/o-edificio-que-canta-foi-abandonado/">https://bancariosdf.com.br/portal/o-edificio-que-canta-foi-abandonado/</a>&gt; Acesso em: 12, maio 2021.
 - HARVEY, David. The Right to the City. In: New Left Review 53, 2003.
 - KIM, Lina; WESELY, Michael. Arquivo Brasília. São Paulo: Cosac Naify, 2010.
 - LEVI, Rino. A architectura e a esthetica das cidades: Uma carta de um estudante brasileiro em Roma. In: Ocupação Rino Levi / organização Itaú Cultural. - São Paulo: Itaú Cultural, 2020.
@@ -62,5 +62,5 @@ palavras-chave:
 - LIMA, Jayme W. Tem que tombar? Patrimônio moderno e forma alternativa de conservação. Tese de Doutorado. FAU UnB, 2017.
 - LIRA, Flaviana Barreto, 2015. Por uma Agenda de Discussões sobre a Conservação Da Arquitetura Moderna. In: A Conservação do Patrimônio no Brasil: Teoria e Prática. 1º Seminário da Rede de Conservação_BR. Olinda: CECI, 2015.
 - MATOSO, Danilo. et. al. Brasília: roteiro de arquitetura, caderno de notas. 3ª ed. – Rio de Janeiro, RJ: Docomomo Brasil, 2020.
-- VILELA JUNIOR, A. J. Industrialização na Construção e Brutalismo na Obra de João Filgueiras Lima, Lelé. In: 1955-75. Curitiba, 2013. Disponível em: https://docomomo.org.br/wp- content/uploads/2016/08/ST_03.pdf. Acesso em: 12 maio 2021.
+- VILELA JUNIOR, A. J. Industrialização na Construção e Brutalismo na Obra de João Filgueiras Lima, Lelé. In: 1955-75. Curitiba, 2013. Disponível em: &lt;<a href="https://docomomo.org.br/wp-">https://docomomo.org.br/wp-</a>&gt; content/uploads/2016/08/ST_03.pdf. Acesso em: 12 maio 2021.
 - WARCHAVCHIK, Gregori. Manifesto: Acerca da Arquitetura Moderna. In: Alberto Xavier (org.), Arquitetura Moderna Brasileira: Depoimento de uma Geração, ABEA/FVA/PINI, São Paulo, 1987.

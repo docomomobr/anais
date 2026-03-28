@@ -53,7 +53,7 @@ palavras-chave:
 ## Referências
 
 - AMORIM, Diego. Comércios serão vetados. Correio Braziliense, Brasília, p. 37, jun.2008.
-- AMORIM, Diego. Pousadas, saunas e casas de massagem serão fechadas. Disponível em: &lt; http://www.pmdf.df.gov.br/Default.asp?pag=noticia&txtCodigo=314&gt; Acesso em 22/07/2008, 15:30.
+- AMORIM, Diego. Pousadas, saunas e casas de massagem serão fechadas. Disponível em: &lt;<a href="http://www.pmdf.df.gov.br/Default.asp?pag=noticia&txtCodigo=314">http://www.pmdf.df.gov.br/Default.asp?pag=noticia&txtCodigo=314</a>&gt; Acesso em 22/07/2008, 15:30.
 - COSTA, Maria Elisa. LIMA. Adeildo Viegas. Brasília 57-85. Do Plano Piloto ao Plano Piloto. Brasília:TERRACAP/GDF,1985.
 - BRANDÃO, Vera Bonna. Espaço Urbano x Apropriação Social: um estudo dos espaços públicos abertos de Taguatinga. Dissertação (Mestrado em Arquitetura e Urbanismo). Brasília:Universidade de Brasília, 2003.
 - BRANDÃO, Vera Bonna. Setor de Habitações Individuais Geminadas Sul e NorteMorfologia. Trabalho do curso de Mestrado (Mestrado em Arquitetura e Urbanismo) Brasília: Universidade de Brasília, 2001.

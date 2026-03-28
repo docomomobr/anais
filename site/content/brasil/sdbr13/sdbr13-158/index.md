@@ -58,7 +58,7 @@ palavras-chave:
 - ARANTES, P. F. Arquitetura Nova - Sérgio Ferro, Flávio Império e Rodrigo Lefévre - de Artigas aos mutirões. São Paulo: Editora 34, 2002.
 - ARTIGAS, V. Caminhos da Arquitetura. São Paulo: LECH, 1981, 1 ed. Fundação Vilanova Artigas/ Nobel, 1981;
 - ARTIGAS, R.; LIRA, J. T. C. de (orgs.). Os Caminhos da Arquitetura Moderna/ Vilanova Artigas. 4.ed. São Paulo: Cosac Naify, 2004.
-- AUGUSTO, W. F. C.; GUADANHIM, S. J.. Os "pequenos" conjuntos Cecap derivados de Guarulhos e Jundiaí: uma análise. Ambiente Construído. vol.16, n.3. Porto Alegre, jul/set 2016. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167. Acesso em: 13 dez 2017.
+- AUGUSTO, W. F. C.; GUADANHIM, S. J.. Os "pequenos" conjuntos Cecap derivados de Guarulhos e Jundiaí: uma análise. Ambiente Construído. vol.16, n.3. Porto Alegre, jul/set 2016. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167</a>&gt; Acesso em: 13 dez 2017.
 - CERÁVOLO, F. A Pré-Fabricação em Concreto Armado Aplicada a Conjuntos Habitacionais no Brasil: O caso do “Conjunto Habitacional Zezinho Magalhães Prado”. Dissertação (Mestrado). Escola de Engenharia, Universidade de São Paulo, São Paulo, 2007.
 - COTRIM, M. Vilanova Artigas - Casas paulistas 1967-1981. São Paulo: Romano Guerra, 2017.
 - DIAS, M. A. S. Propostas para “uma nova maneira de viver”: Vilanova Artigas e a ação habitacional da CECAP (1967-1973). Revista Risco. USP, 2016. Disponível em: file:///C:/Users/4081/Downloads/121401-226366-1-SM.pdf. Acesso em: 13 mar 2018.
@@ -66,4 +66,4 @@ palavras-chave:
 - KOURY, A. P. Arquitetura construtiva: proposições para a produção material da arquitetura contemporânea no Brasil. Tese (Doutorado em Estruturas Ambientais Urbanas). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2005.
 - LE CORBUSIER. Quand les Cathédrales Etaient Blanches. Gonthier, s/d.
 - MOTTA, F. Desenho e emancipação. Correio Braziliense. Caderno Cultural. Brasília, 16 de dez, 1967.
-- WAGNER, K. "Dear Internet: Stop Placing Blame for Gentrification on an Architectural Style". ArchDaily 26, abr 2018. Disponível em: &lt;https://www.archdaily.com/893364/dear-internet-stop- placing-blame-for-gentrification-on-an-architectural-style/&gt; ISSN 0719-8884. Acesso em: 20 mai 2018.
+- WAGNER, K. "Dear Internet: Stop Placing Blame for Gentrification on an Architectural Style". ArchDaily 26, abr 2018. Disponível em: &lt;<a href="https://www.archdaily.com/893364/dear-internet-stop-">https://www.archdaily.com/893364/dear-internet-stop-</a>&gt; placing-blame-for-gentrification-on-an-architectural-style/&gt; ISSN 0719-8884. Acesso em: 20 mai 2018.

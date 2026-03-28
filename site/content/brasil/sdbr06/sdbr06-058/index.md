@@ -60,7 +60,7 @@ palavras-chave:
 - Técnica – Ed. da Associação dos Estudantes do Instituto Superior Técnico, nº 287, Dezembro 1958.
 - ALMEIDA, Pedro Vieira e FERNANDES, José Manuel. História da Arte em Portugal. A arquitectura moderna. Vol. 14. Lisboa: Alfa, 1986.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil, Versão original L’Architecture Contemporaine au Brésil (1971), São Paulo: Editora Perspectiva, 1981.
-- CALDEIRA, Vasco. Idéias de Arquitetura. A Arquitetura nas Bienais de São Paulo. Hunter Douglas do Brasil Ltda. Disponível em: http://www.luxalon.com.br/htmls/213lux.html Acesso em 17 mar. 2005.
+- CALDEIRA, Vasco. Idéias de Arquitetura. A Arquitetura nas Bienais de São Paulo. Hunter Douglas do Brasil Ltda. Disponível em: &lt;<a href="http://www.luxalon.com.br/htmls/213lux.html">http://www.luxalon.com.br/htmls/213lux.html</a>&gt; Acesso em 17 mar. 2005.
 - CAVACANTI, Lauro. Quando o Brasil era Moderno. Guia da Arquitetura 1928 – 1960. Rio de Janeiro: Aeroplano Editora, 2001.
 - COSTA, Lúcio. Lúcio Costa. Registro de uma Vivência. (1ª Edição). São Paulo: Empresa das Artes, 1995. (Edição consultada: 2ª Edição de 1997).
 - DUARTE, Carlos. Tendências da Arquitectura Portuguesa, Lisboa: Trama,1989.

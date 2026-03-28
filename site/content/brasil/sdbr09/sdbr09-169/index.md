@@ -67,11 +67,11 @@ palavras-chave:
 - GIEDION, Siegfried. (1944). The need for Monumentality . In: Zucker, Paul (org.). New architecture and city planning: a symposium. New York : Philosophical Library, p. 549-568
 - GIEDION, Siegfried. (1951). A decade of new architecture. Zürich, Girsberger.
 - GIEDION, Siegfried. (1952). Le Brésil et l'architeture contemporaine. L’Architecture d’aujourd’hui, Ano 23º (42/3):3, août. Número especial
-- GIEDION, Siegfried. (1963). Architecture in the 1960’s: Hopes and fear.  Zodiac (11):24-35, fev.
-- GOODWIN, P. L.  (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.
+- GIEDION, Siegfried. (1963). Architecture in the 1960’s: Hopes and fear. Zodiac (11):24-35, fev.
+- GOODWIN, P. L. (1943). Brazil Builds – Architecture New and Old 1652 - 1942. New York, The Museum of Modern Art.
 - JANNIERE; Helene. (2002). Politiques editoriales et architecture de nouvelles revues en France et en Italie (1923-1939). Paris, Arguments.
 - JAUSS, Hans Robert.(1978). Pour une esthétique de la réception; traduit de l'allemand par Claude Maillard ; préf. de Jean Starobinski.Paris : Gallimard, 1978. 305 p. ; 22 cm.
-- KLEIN Richard e LOUGUET, Philippe., org. (2002). La réception de l’architecture. Cahier thématiques. Architecture Histoire/Conception. Editions de l’ècole dárchitecture de Lille. L’ARCHITECTURE d’Aujourd’hui. (1947). Brésil. Ano18º,  nº 13/14 set.  nº especial L’ARCHITECTURE d’Aujourd’hui. (1952). Brésil. Ano 23º,  nº 42/43 mar.  nº especial L’ARCHITECTURE d’Aujourd’hui. (1960). Brésil Brasília Atualités. Ano 31º,  nº 90, jun/jul.  nº especial
+- KLEIN Richard e LOUGUET, Philippe., org. (2002). La réception de l’architecture. Cahier thématiques. Architecture Histoire/Conception. Editions de l’ècole dárchitecture de Lille. L’ARCHITECTURE d’Aujourd’hui. (1947). Brésil. Ano18º, nº 13/14 set. nº especial L’ARCHITECTURE d’Aujourd’hui. (1952). Brésil. Ano 23º, nº 42/43 mar. nº especial L’ARCHITECTURE d’Aujourd’hui. (1960). Brésil Brasília Atualités. Ano 31º, nº 90, jun/jul. nº especial
 - MARTINS, C. A. F. (1988). Arquitetura e Estado no Brasil: Elementos para uma investigação sobre a Constituição do Discurso Modernista no Brasil; a obra de Lúcio Costa. São Paulo. Dissertação (Mestrado) - FFLCH-USP
 - MINDLIN, H. (2000). Arquitetura moderna no Brasil; prefácio de S. Giedion ; organizador da edição brasileira Lauro Cavalcanti ; tradução de Paulo Pedreira. 2.ed. Rio de Janeiro : Aeroplano Editora/IPHAN. Título original em inglês: Modern architecture in Brasil. New York : Reinhold, 1956
 - MIRANDA, C. L. (1998). A crítica nas revistas de arquitetura nos anos 50: a expressão plástica e a síntese das artes. Dissertação (Mestrado) EESC-USP.
@@ -84,5 +84,5 @@ palavras-chave:
 - TINEM, Nelci. (2002).	O alvo do olhar estrangeiro : o Brasil na historiografia da arquitetura moderna. João Pessoa : Manufatura,
 - THE STUDIO. (1943). Brazil. Outubro.
 - VAGO, Pierre. (1950). Chronique. 1930-1950. L’Architecture d’Aujourd’Hui, Ano 21º, nº 33, p. V, dez.
-- ZILBERMAN, R. (1989). Estética da recepção e história da literatura. São Paulo,  Ática.
+- ZILBERMAN, R. (1989). Estética da recepção e história da literatura. São Paulo, Ática.
 - ZUCCONI, Guido. (1981). Le riviste tecniche della costruzione: una bibliografia ragionata. Inghilterra. Rassegna (5): 78-89, janeiro.

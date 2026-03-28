@@ -1,0 +1,19 @@
+---
+title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
+subtitle: "a Arquitetura e Urbanismo Modernos e os acervos"
+date: 2022-08-23
+type: evento
+slug: sdsp08
+ambito: se
+ambito_nome: "Sudeste"
+event_isbn: "978-65-86810-58-5"
+event_publisher: "Núcleo Docomomo São Paulo / IAU-USP, UNIP"
+editors: "Miguel Antonio Buzzar, Mônica Junqueira de Camargo, Maisa Fonseca de Almeida, Fernando Atique, Jasmine Luiza Souza Silva"
+description: |
+  8° Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al.. São Carlos: IAU-USP, 2022. Disponível originalmente em: www.nucleodocomomosp.com.br/cópia-8-seminário. ISBN: 978-65-86810-58-5.
+cover: "sdsp08.png"
+volume_pdf: "sdsp08_anais.pdf"
+article_count: 40
+event_state: "SP"
+event_state_name: "São Paulo"
+---

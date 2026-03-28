@@ -60,7 +60,7 @@ palavras-chave:
 - ANELLI, Renato Luiz Sobral;
 - SANCHES, Aline Coelho. A flexibilidade da planta livre moderna para novos usos: transformando o Grande Hotel de São Carlos em Paço Municipal. In: 6º DOCOMOMO Brasil: Moderno e Nacional. Niterói, 2005, Niterói. 6º DOCOMOMO Brasil: Moderno e Nacional. Niterói, 2005.
 - FINKELSTEIN, Cristiane Wainberg. Flexibilidade na arquitetura residencial: um estudo sobre o conceito e sua aplicação. 2009. f. Dissertação (Mestrado) – Universidade Federal do Rio Grande do Sul, Faculdade de Arquitetura, Porto Alegre, 2009.
-- FRACALOSSI, Igor. Clássicos da Arquitetura: Palácio da Abolição / Sérgio Bernardes. ArchDaily Brasil, 2013. Disponível em: http://www.archdaily.com.br/148709/classicos-­‐da-­‐arquitetura-­‐palacio-­‐da-­‐ abolicao-­‐sergio-­‐bernardes. Acesso em: maio 2015.
+- FRACALOSSI, Igor. Clássicos da Arquitetura: Palácio da Abolição / Sérgio Bernardes. ArchDaily Brasil, 2013. Disponível em: &lt;<a href="http://www.archdaily.com.br/148709/classicos-­‐da-­‐arquitetura-­‐palacio-­‐da-­‐">http://www.archdaily.com.br/148709/classicos-­‐da-­‐arquitetura-­‐palacio-­‐da-­‐</a>&gt; abolicao-­‐sergio-­‐bernardes. Acesso em: maio 2015.
 - GABRIELE, Maria Cecília Filgueiras Lima.; SAMPAIO
 - NETO, Paulo Costa. Um Palácio Destronado... In: 7º DOCOMOMO Brasil: O Moderno já Passado
 - GRAEFF, Edgar de Albuquerque. Edifício [Cadernos Brasileiros de Arquitetura, v. 7]. São Paulo: Projeto, 1979.

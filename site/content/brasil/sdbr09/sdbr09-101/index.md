@@ -58,7 +58,7 @@ palavras-chave:
 ## Referências
 
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 2003.
-- CAVALCANTI, Lauro. Quando o Brasil era Moderno: guia de arquitetura  (1928 – 1960). Rio de Janeiro: Aeroplano, 2001.
+- CAVALCANTI, Lauro. Quando o Brasil era Moderno: guia de arquitetura (1928 – 1960). Rio de Janeiro: Aeroplano, 2001.
 - CHOI, Keum Joa. Além do arco-íris: a imigração coreana no Brasil. São Paulo, FFLCH/ USP, 1991 (Dissertação de mestrado).
 - CYTRYNOWICZ, Roney. Cotidiano, imigração e preconceito: a comunidade judaica nos anos 1930 e 1940. In: GRINBERG, Keila (org.) Os Judeus no Brasil: Inquisição, Imigração e Identidade. Rio de Janeiro: Civilização Brasileira, 2005.
 - CYTRYNOWICZ, Roney. Instituições de assistência social e imigração judaica. In: História, Ciências, Saúde – Manguinhos, v. 12, n. 1, p. 169-84, jan. / abr., 2005.

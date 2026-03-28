@@ -41,7 +41,7 @@ palavras-chave:
 
 ## Referências
 
-- BITTAR, W. “A Formação da arquitetura moderna no Brasil (1920-1940)”. In: Anais do 6º Seminário DOCOMOMO Brasil. Niterói, 16 a 19 de novembro de 2005. &lt;http://www.docomomo.org.br/seminario%206%20pdfs/William%20Bittar.pdf&gt; acesso em 20 de maio de 2008, 18:43
+- BITTAR, W. “A Formação da arquitetura moderna no Brasil (1920-1940)”. In: Anais do 6º Seminário DOCOMOMO Brasil. Niterói, 16 a 19 de novembro de 2005. &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/William%20Bittar.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/William%20Bittar.pdf</a>&gt; acesso em 20 de maio de 2008, 18:43
 - COSTA, L. “Lúcio Costa: Registro de uma vivência”. São Paulo: Empresa das Artes. 1995. LE CORBUSIER. “Por Uma Arquitetura”. São Paulo: Perspectiva. 194
 - COSTA, L. “Precisões sobre um estado presente da arquitetura e do urbanismo”. São Paulo: Cosac Naify. 2004
 - LEÃO, C. “Colégio Pedro II”. In: REVISTA DA DIRECTORIA DE ENGENHARIA, v. 4, n. 4, julho de 1937.

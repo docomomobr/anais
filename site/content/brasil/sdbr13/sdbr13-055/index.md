@@ -65,11 +65,11 @@ palavras-chave:
 - BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2015.
 - COMAS, Carlos Eduardo Dias; PIÑON, Hélio. Inventário da arquitetura moderna em Porto Alegre – 1945/65. Porto Alegre: Marcavisual, 2013.
 - COMAS, Carlos Eduardo Dias e ADRIÁ, Miquel. La casa latino-americana moderna – 20 paradigmas de mediados de siglo XX. Gustavo Gili: Barcelona, 2003. CORONA-MARTÍNEZ, Alfonso. Ensaio sobre o projeto. Brasília: Editora UNB: 2000.
-- GUERRA, Abilio e RIBEIRO, Alessandro José Castroviejo. Casas brasileiras do século XX. Portal Vitruvius - Arqtextos, julho/2006. Disponível em &lt;http://www.vitruvius.com.br /revistas/read/arquitextos/07.074/335&gt;. Acesso em 05 março 2019.
+- GUERRA, Abilio e RIBEIRO, Alessandro José Castroviejo. Casas brasileiras do século XX. Portal Vitruvius - Arqtextos, julho/2006. Disponível em &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; /revistas/read/arquitextos/07.074/335&gt;. Acesso em 05 março 2019.
 - LAMPRECHT, Barbara Mac. Neutra – Complete Works. China: Taschen, 2015.
 - LEÃO, Sílvia Lopes Carneiro; SANVITTO, Maria Luíza Adams. Opacidade e transparência nas residências do Brutalismo Paulista. In COMAS, Carlos Eduardo; MARQUES, Sergio (orgs.). A Segunda Idade do Vidro – Transparência e Sombra na Arquitetura Moderna do Cone Sul Americano – 1930/1970. Porto Alegre: Ed. UniRitter, 2007.
 - LUCCAS, Luís Henrique Haas. A escola carioca e a arquitetura moderna em Porto Alegre. Portal Vitruvius, Texto Especial 370 – junho 2006.
-- LUCCAS, Luís Henrique Haas. "O sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50." Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível am &lt;http://www.revistas.usp.br/posfau/article/view/43680&gt;. Acesso em 05 março 2019.
+- LUCCAS, Luís Henrique Haas. "O sul por testemunha: declínio da hegemonia corbusiano-carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50." Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, v. 27, p. 46-65, 2010. Disponível am &lt;<a href="http://www.revistas.usp.br/posfau/article/view/43680">http://www.revistas.usp.br/posfau/article/view/43680</a>&gt; Acesso em 05 março 2019.
 - LUZ, Maturino. De Millan ao FAM: a casa vira apartamento. Revista Arquitetura. São Leopoldo: Unisinos, 2001.
 - MARQUES, Sergio. Fayet, Araújo & Moojen: arquitetura moderna brasileira no sul - 1950 / 1970. Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2012.
 - MOORE, Charles; ALLEN, Gerald; LYNDON, Donlyn. La casa: forma y diseño. Barcelona: GG, 1977.

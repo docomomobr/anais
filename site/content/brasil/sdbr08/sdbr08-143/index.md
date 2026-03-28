@@ -58,15 +58,15 @@ palavras-chave:
 - AB’SÁBER, Aziz Nacib. Os Domínios de Natureza no Brasil: potencialidades paisagísticas. São Paulo: Ateliê Editorial, 2003.
 - ABREU, Maurício de A. Evolução Urbana do Rio de Janeiro. Rio de Janeiro: IPLANRIO/Zahar, 1987.
 - Atlas das Unidades de Conservação da Natureza do Estado do Rio de Janeiro. São Paulo: Metalivros, 2001.
-- BURLE MARX, Roberto; MELLO BARRETO, Henrique Lahmeyer de; CARVALHO, José Cândido de Mello. Grupo Biológico das Lagoas Litorâneas. In: Revista Municipal de Engenharia. Distrito Federal: Prefeitura, Jan.-Mar./1949. Vol XVI, n°14, p.14. Disponível em: &lt;http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/9.htm&gt; Acesso em 19 Jul. 2007.
+- BURLE MARX, Roberto; MELLO BARRETO, Henrique Lahmeyer de; CARVALHO, José Cândido de Mello. Grupo Biológico das Lagoas Litorâneas. In: Revista Municipal de Engenharia. Distrito Federal: Prefeitura, Jan.-Mar./1949. Vol XVI, n°14, p.14. Disponível em: &lt;<a href="http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/9.htm">http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/9.htm</a>&gt; Acesso em 19 Jul. 2007.
 - CAMPOS CURADO, Mirian M. de. Paisagismo Contemporâneo: Fernando Chacel e o Conceito de Ecogênese. Rio de Janeiro: UFRJ, 2007. 117 p. Dissertação (Mestrado) – Programa de Pós-
 - Graduação em Urbanismo, Faculdade de Arquitetura e Urbanismo, Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2006.
 - CARVALHO HOSKEN S.A. Engenharia e Construções. Parque da Gleba E. Rio de Janeiro: A Entidade, 1992.
 - CARR, Stephen; FRANCIS, Mark; RIVLIN, Leanne G. & STONE, Andrew M. Public Space. New York: Cambridge University Press, pp. 343-368.
 - CERQUEIRA, R. Biogeografia das Restingas. In: ESTEVES, F. A. e LACERDA, L. D. (eds.) Ecologia de Restingas e Lagoas Costeiras. Rio de Janeiro: Macaé: NUPEM/ UFRJ, 2000.
-- CHACEL, Fernando M. A Paisagem em que vivemos. In: Revista Problemas Brasileiros n° 339 Mai/Jun. 2000. Disponível em: &lt;http://www.sescsp.org.br/sesc/revistas_sesc/pb/artigo.cfm?Edicao_Id=81&breadcrumb=1&Artig o_ID=824&IDCategoria=997&reftype=1&gt; Acesso em 04 Dez. 2006.
+- CHACEL, Fernando M. A Paisagem em que vivemos. In: Revista Problemas Brasileiros n° 339 Mai/Jun. 2000. Disponível em: &lt;<a href="http://www.sescsp.org.br/sesc/revistas_sesc/pb/artigo.cfm?Edicao_Id=81&breadcrumb=1&Artig">http://www.sescsp.org.br/sesc/revistas_sesc/pb/artigo.cfm?Edicao_Id=81&breadcrumb=1&Artig</a>&gt; o_ID=824&IDCategoria=997&reftype=1&gt; Acesso em 04 Dez. 2006.
 - CHACEL, Fernando M. Entrevista. São Paulo: 2005. Projeto Design, São Paulo, n°305, jun. 2005. Entrevista concedida a Evelise Grunow e Fernando Serapião.
-- CHACEL, Fernando M. Fernando Chacel e a consciência ecológica e ambiental. Rio de Janeiro, 2004. Entrevista concedida a Antônio Agenor de Melo Barbosa. Disponível em: &lt;http://www.vitruvius.com.br/entrevista/chacel/chacel_7.asp&gt; Acesso em: 12 dez. 2004.
+- CHACEL, Fernando M. Fernando Chacel e a consciência ecológica e ambiental. Rio de Janeiro, 2004. Entrevista concedida a Antônio Agenor de Melo Barbosa. Disponível em: &lt;<a href="http://www.vitruvius.com.br/entrevista/chacel/chacel_7.asp">http://www.vitruvius.com.br/entrevista/chacel/chacel_7.asp</a>&gt; Acesso em: 12 dez. 2004.
 - CHACEL, Fernando M. Paisagismo e Ecogênese. Rio de Janeiro: Fraiha, 2001.
 - COSTA, Lúcia Maria S. A. Parques Públicos Contemporâneos no Rio de Janeiro: a contribuição de Fernando Chacel. In: SCHICCHI, Maria Cristina et al. Urbanismo: Dossiê São Paulo – Rio de Janeiro. 1 ed. Campinas: PUC-CAMPINAS/PROURB, 2003. pp.275-285.
 - COSTA, Lúcio. Plano-Pilôto para a Urbanização da Baixada Compreendida entre a Barra da Tijuca, o Pontal de Sernambetiba e Jacarepaguá. Rio de Janeiro: Estado da Guanabara, 1969.
@@ -75,10 +75,10 @@ palavras-chave:
 - LANA, Ricardo. Arquitetos do Jardim: Roberto Burle Marx e Henrique Lahmeyer de Mello Barreto. In: SOUZA, Eneida Maria de. Modernidades Tardias. Belo Horizonte: Ed. UFMG, 1998.
 - LEENHARDT, Jacques (org.). Nos Jardins de Burle Marx. São Paulo: Editora Perspectiva, 2000.
 - McHARG, Ian L. Design with Nature. Garden City, N.Y.: Natural History Press, 1969.
-- NOBRE, Ana Luiza. Um Parque sobre o Mar. Portal Vitruvius, 2000. Disponível em: &lt;http://www.vitruvius.com.br/ac/ac001/ac001_1.asp&gt; Acesso em 12 jul. 2007.
+- NOBRE, Ana Luiza. Um Parque sobre o Mar. Portal Vitruvius, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/ac/ac001/ac001_1.asp">http://www.vitruvius.com.br/ac/ac001/ac001_1.asp</a>&gt; Acesso em 12 jul. 2007.
 - PORTO, Daniele R. O Barreiro de Araxá: projetos para uma estância hidromineral em Minas Gerais. São Carlos: USP, 2005. 325 p. Dissertação (Mestrado) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Escola de Engenharia de São Carlos, Universidade de São Paulo, 2005.
 - RIO DE JANEIRO (RJ). Secretaria Municipal de Meio Ambiente. Manguezais do Rio de Janeiro. Rio de Janeiro: a Secretaria, 2000.
 - SANTOS, Junius F. S. Restauração Ecológica associada ao Social no Contexto Urbano: o projeto Mutirão Reflorestamento. In: KAGEYAMA, Paulo Y. et al. Restauração Ecológica de Ecossistemas Naturais. Botucatu: FEPAF, 2003. pp. 239-263.
-- SCALISE, Walnyce. Parques Urbanos – Evolução, Projeto, Funções e Usos. Revista Assentamentos Humanos, Marília, v.4, n°1, p.17-24, 2002. Disponível em: &lt;http://www.unimar.br/fea/assent_humano4/parques.htm&gt; Acesso em 20 Nov. 2004.
+- SCALISE, Walnyce. Parques Urbanos – Evolução, Projeto, Funções e Usos. Revista Assentamentos Humanos, Marília, v.4, n°1, p.17-24, 2002. Disponível em: &lt;<a href="http://www.unimar.br/fea/assent_humano4/parques.htm">http://www.unimar.br/fea/assent_humano4/parques.htm</a>&gt; Acesso em 20 Nov. 2004.
 - TABACOW, José (org.). Roberto Burle Marx: Arte e Paisagem (conferências escolhidas). – 2 ed. rev. e ampl. – São Paulo: Studio Nobel, 2004.
 - TERRA, Carlos G. O Jardim no Brasil no Século XIX: Glaziou revisitado. Rio de Janeiro: EBA/UFRJ, 1996.

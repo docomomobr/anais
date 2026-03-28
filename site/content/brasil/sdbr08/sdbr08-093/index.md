@@ -47,7 +47,7 @@ palavras-chave:
 ## Referências
 
 - ADAMS, William Howard. Roberto Burle Marx the Unnatural Art of the Garden. Museum of Modern Art New York, 1991.
-- BARBOSA, Antônio Agenor. Entrevista com Fernando Chacel. São Paulo: Vitruvius, 2004. Disponível em: http://www.vitruvius.com.br/entrevista/chacel/chacel.asp
+- BARBOSA, Antônio Agenor. Entrevista com Fernando Chacel. São Paulo: Vitruvius, 2004. Disponível em: &lt;<a href="http://www.vitruvius.com.br/entrevista/chacel/chacel.asp">http://www.vitruvius.com.br/entrevista/chacel/chacel.asp</a>&gt;
 - BARDI, Pietro Maria. The Tropical gardens of Burle-Marx, New York: Reinhold Publishing Corporation, 1964.
 - BARDI, Pietro Maria. Pietro Maria. “Burle Marx”. In XAVIER, Alberto (org) Depoimento de uma geração - Arquitetura Moderna brasileira. São Paulo: Cosac & Naify, 2003.
 - CALS, Soraia. Roberto Burle Marx. Uma Fotobiografia. Rio de Janeiro: S. Cals, 1995.
@@ -58,8 +58,8 @@ palavras-chave:
 - FROTA, Lélia Coelho. HOLANDA, Gastão. LEENHARDT, Jacques.
 - KRUGER, Bernd. Roberto Burle Marx: uma poética da modernidade. Grupo Itaminas/Secretaria de Estado da Cultura de Minas Gerais, 1989.
 - GIEDION, Siegfried. “Prefácio”. In Arquitetura Moderna no Brasil, Rio de Janeiro: Aeroplano, 1999.
-- GUERRA NETO, Abílio S. Lucio Costa, Gregori Warchavchik e Roberto Burle Marx: síntese entre arquitetura e natureza tropical. São Paulo: Vitruvius, 2002. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp
-- GUERRA NETO, Abílio S. Entrevista com José Tabacow. São Paulo: Vitruvius, 2006. Disponível em: http://www.vitruvius.com.br/entrevista/tabacow/tabacow.asp
+- GUERRA NETO, Abílio S. Lucio Costa, Gregori Warchavchik e Roberto Burle Marx: síntese entre arquitetura e natureza tropical. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp</a>&gt;
+- GUERRA NETO, Abílio S. Entrevista com José Tabacow. São Paulo: Vitruvius, 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/entrevista/tabacow/tabacow.asp">http://www.vitruvius.com.br/entrevista/tabacow/tabacow.asp</a>&gt;
 - JELLICOE, Geoffrey & Susan. The Landscape of Man. London: Thames & Hudson, 1987.
 - LEENHARDT, Jacques (org.) Nos jardins de Burle Marx. São Paulo: Editora Perspectiva, 1996.
 - LE CORBUSIER. Precisões: sobre um estado presente da arquitetura e do urbanismo. Cosac & Naify, 2004.
@@ -68,8 +68,8 @@ palavras-chave:
 - MERLEAU-PONTY, Maurice. A Natureza. São Paulo: Martins Fontes, 2006.
 - MOTTA , Flávio L. Roberto Burle Marx e a nova visão da paisagem. São Paulo: Nobel, 1983.
 - OLIVEIRA, Ana Rosa. Hacia la Extravasaria: La Naturaleza y el Jardín de Roberto Burle Marx. Tese de doutorado, Escuela de Arquitectura de Barcelona.
-- OLIVEIRA, Ana Rosa. . Roberto Burle Marx. Entrevista. São Paulo: Vitruvius, 1992. Disponível em: http://www.vitruvius.com.br/entrevista/burlemarx/burlemarx.asp
-- OLIVEIRA, Ana Rosa. . Fernando Tábora. Entrevista. São Paulo: Vitruvius, 1997. Disponível em: http://www.vitruvius.com.br/entrevista/tabora/tabora.asp
+- OLIVEIRA, Ana Rosa. . Roberto Burle Marx. Entrevista. São Paulo: Vitruvius, 1992. Disponível em: &lt;<a href="http://www.vitruvius.com.br/entrevista/burlemarx/burlemarx.asp">http://www.vitruvius.com.br/entrevista/burlemarx/burlemarx.asp</a>&gt;
+- OLIVEIRA, Ana Rosa. . Fernando Tábora. Entrevista. São Paulo: Vitruvius, 1997. Disponível em: &lt;<a href="http://www.vitruvius.com.br/entrevista/tabora/tabora.asp">http://www.vitruvius.com.br/entrevista/tabora/tabora.asp</a>&gt;
 - OZENFANT, Amedée e JEANNERET, Charles Edouard. Depois do Cubismo: Ozenfant e Jeanneret. São Paulo: Cosac Naify, 2005.
 - PEDROSA, Mario. Dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, Coleção Debates n.170, 1981.
 - REGO, José Lins do. “O homem e a paisagem” In: XAVIER, Alberto (org) Depoimento de uma geração - Arquitetura Moderna brasileira. São Paulo: Cosac & Naify, 2003.
@@ -78,5 +78,5 @@ palavras-chave:
 - SEGAWA, Hugo. Ao amor do público: jardins no Brasil. São Paulo: Studio Nobel, 1996.
 - SIQUEIRA, Vera Beatriz. Burle Marx. Paisagens Transversas. São Paulo: Cosac & Naify, Coleção Espaços de Arte Brasileira, 2001.
 - Revista Folha. Sociedade dos Amigos de Roberto Burle Marx.
-- Revista Municipal de Engenharia. Especial Burle Marx. Rio de Janeiro, dezembro 1999 Disponível em: http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/sumario.htm
+- Revista Municipal de Engenharia. Especial Burle Marx. Rio de Janeiro, dezembro 1999 Disponível em: &lt;<a href="http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/sumario.htm">http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/sumario.htm</a>&gt;
 - TREITLER, Sérgio. Um passeio pelos jardins de Burle Marx no Rio de Janeiro. Florianópolis: Jornal da Paisagem, 2007. Disponível em: www.jornaldapaisagem.unisul.br

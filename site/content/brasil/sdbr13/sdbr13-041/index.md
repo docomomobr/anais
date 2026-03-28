@@ -52,7 +52,7 @@ authors:
     familyname: "Amorim"
     orcid: "0000-0001-6769-1983"
 doi: "10.5281/zenodo.19077425"
-zenodo_pdf_url: "https://zenodo.org/records/19077426/files/sdbr13-041.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285630/files/sdbr13-041.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -87,13 +87,13 @@ palavras-chave:
 - GUIMARÃES, M. E. Uma análise para retrofit da envoltória tombada visando a eficiência energética do Aeroporto Santos Dumont – Rio de Janeiro. 2017. 143f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de Brasília, Brasília, 2017.
 - IPHAN – Instituto do Patrimônio Histórico e Artístico Nacional. Palácio da Justiça: Inventário de Bens Arquitetônicos. 2013.
 - KNOP, S. Comportamento termoenergético de edificação histórica com novo uso na cidade de Pelotas: o caso do casarão 02 – Secretaria Municipal da Cultura. 2012. 142f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Faculdade de Arquitetura e Urbanismo, Universidade Federal de Pelotas, Pelotas, 2012.
-- LABEEE – Laboratório de Eficiência Energética em Edificações. WebPrescritivo. Disponível em: &lt;http://www.labeee.ufsc.br/sites/default/files/webprescritivo/index.html&gt;. Acesso em: 20 jul. 2018.
+- LABEEE – Laboratório de Eficiência Energética em Edificações. WebPrescritivo. Disponível em: &lt;<a href="http://www.labeee.ufsc.br/sites/default/files/webprescritivo/index.html">http://www.labeee.ufsc.br/sites/default/files/webprescritivo/index.html</a>&gt; Acesso em: 20 jul. 2018.
 - MENDONÇA, A. M. Caracterização do estoque de edificações históricas de uso institucional ou público localizadas em Florianópolis com relação ao consumo de eletricidade. 2014. 220 f. Dissertação (Mestrado em Engenharia Civil) – Universidade Federal de Santa Catarina, Florianópolis, SC, 2014.
 - MORAES, C. S. Análise de medidas para eficientização e uso racional da energia elétrica em condicionadores de ar. 2013. 175 f. Dissertação (Mestrado em Engenharia de Edificações e Ambiental) – Faculdade de Arquitetura, Engenharia e Tecnologia, Universidade Federal do Mato Grosso, Cuiabá, 2013.
 - MOREIRA, A. L. A. A estrutura do Palácio da Justiça em Brasília: aspectos históricos, científicos e tecnológicos de projeto, execução, intervenções e proposta de estratégias para manutenção. Dissertação (Mestrado em Estruturas e Construção Civil) – Departamento de Engenharia Civil e Ambiental, Universidade de Brasília, Brasília, DF, 164p, 2007.
 - NOORA, K. Comparative analysis of PV shading devices for energy performance and daylight. 2012. 114 f. Master of Science in sustainable architecture - Faculty of architecture and fine art, Norwegian University of Science and technology, Oslo, Noruega, 2012.
 - PETIT, J. Niemeyer. Poeta da arquitetura. Lugano: Fidia Edizioni d’Arte, 1995.
-- PROJETEEE – Projetando Edificações Energeticamente Eficientes. Dados climáticos – Estratégias bioclimáticas. Disponível em: http://projeteee.mma.gov.br. Acesso: 05 nov. 2018.
+- PROJETEEE – Projetando Edificações Energeticamente Eficientes. Dados climáticos – Estratégias bioclimáticas. Disponível em: &lt;<a href="http://projeteee.mma.gov.br">http://projeteee.mma.gov.br</a>&gt; Acesso: 05 nov. 2018.
 - ROMÉRO, M. N.; REIS, L. B. Eficiência energética em edifícios. Barueri: Manole, 2012.
 - SOUZA, E. P. Economia de energia em ar condicionado no Brasil: eficiência e economicidade. 2010. 116 f. Dissertação (Mestrado em Engenharia de Energia) – Universidade Federal de Itajubá, Itajubá, 2010.
 - VIEIRA, M. L.; GOES, G. V. Projeto de Intervenção no Patrimônio Edificado: Uma Análise do Manual de Elaboração de Projetos/Programa Monumenta. In: III Encontro da Associação Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo arquitetura, cidade e projeto: uma construção coletiva. Anais... São Paulo, 2014.

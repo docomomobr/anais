@@ -69,7 +69,7 @@ palavras-chave:
 
 ## Referências
 
-- ABU-RAYASH, Azzam; DINCER, Ibrahim. Development of an integrated sustainability model for resilient cities featuring energy, environmental, social, governance and pandemic domains. Sustainable Cities And Society, [S.L.], v. 92, p. 104439, maio 2023. Elsevier BV. http://dx.doi.org/10.1016/j.scs.2023.104439.
+- ABU-RAYASH, Azzam; DINCER, Ibrahim. Development of an integrated sustainability model for resilient cities featuring energy, environmental, social, governance and pandemic domains. Sustainable Cities And Society, [S.L.], v. 92, p. 104439, maio 2023. Elsevier BV. &lt;<a href="http://dx.doi.org/10.1016/j.scs.2023.104439">http://dx.doi.org/10.1016/j.scs.2023.104439</a>&gt;
 - AGENDA 21. Brasília: Senado Federal. Subsecretaria de Edições Técnicas, 1996.
 - BONFATO, Antônio. C.; VIEIRA, Jorge de M. O orgânico e o geométrico na prática urbana (1920-1960). In: Revista Brasileira de Estudos Urbanos e Regionais. V. 5, n° 2, novembro de 2003.
 - BONFATO, Antonio C. Macedo Vieira: ressonâncias do modelo cidade-jardim. Editora Senac São Paulo, 2019.
@@ -80,5 +80,5 @@ palavras-chave:
 - SITTE, C. A construção de cidades segundo princípios artísticos. São Paula: Ática, 1992.
 - SPIRN, Anne. W. O Jardim de Granito: a natureza no desenho da cidade. São Paulo: EDUSP, 1995.
 - Swyngedouw, Erik. "Capital’s natures: A critique of (urban) political ecology." In Turning up the heat, pp. 37-55. Manchester University Press, 2023.
-- ULLAH, Zaib; NAEEM, Muddasar; CORONATO, Antonio; RIBINO, Patrizia; PIETRO, Giuseppe de. Blockchain Applications in Sustainable Smart Cities. Sustainable Cities And Society, [S.L.], v. 97, p. 104697, out. 2023. Elsevier BV. http://dx.doi.org/10.1016/j.scs.2023.104697.
+- ULLAH, Zaib; NAEEM, Muddasar; CORONATO, Antonio; RIBINO, Patrizia; PIETRO, Giuseppe de. Blockchain Applications in Sustainable Smart Cities. Sustainable Cities And Society, [S.L.], v. 97, p. 104697, out. 2023. Elsevier BV. &lt;<a href="http://dx.doi.org/10.1016/j.scs.2023.104697">http://dx.doi.org/10.1016/j.scs.2023.104697</a>&gt;
 - UNWIN, Raimond. La practica del urbanismo. Una introducctión al arte de proyectar ciudades y barrios. Barcelona: GG, 1984.

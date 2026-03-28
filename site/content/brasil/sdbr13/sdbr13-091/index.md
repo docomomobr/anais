@@ -55,7 +55,7 @@ palavras-chave:
 
 ## Referências
 
-- BRASIL ARQUITETURA. Brasil Arquitetura, 2014. Complexo Cultural do Sítio de São Miguel Arcanjo. Disponível em: &lt;http://brasilarquitetura.com/#&gt;. Acesso em: 14 mar. 2019
+- BRASIL ARQUITETURA. Brasil Arquitetura, 2014. Complexo Cultural do Sítio de São Miguel Arcanjo. Disponível em: &lt;<a href="http://brasilarquitetura.com/#">http://brasilarquitetura.com/#</a>&gt; Acesso em: 14 mar. 2019
 - CARBONARA, G. Avvicinamento al restauro. Nápoles: Liguori, 1997.
 - CARSALADE, F. L. A preservação do patrimônio como construção cultural. Arquitextos, São Paulo, ano 12, n. 139.03, Vitruvius, dez. 2011 &lt;http:// www.vitruvius.com.br/ revistas/read/arquitex- tos/12.139/4166&gt; Acesso em 10 de junho de 2017.
 - CARSALADE. F. L. A Pedra e o Tempo: arquitetura como patrimônio cultural. Belo Horizonte: Ed.
@@ -84,7 +84,7 @@ palavras-chave:
 - PELLEGRINI, A. C. Quando o projeto é patrimônio: a modernidade póstuma em questão. 2011. 276 f. Tese (Doutorado em Teoria, História e Crítica da Arquitetura) - Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2011.
 - PINHEIRO, José Feliciano Fernandes, Visconde de São Leopoldo. Anais da Província de São Pedro. Porto Alegre: Mercado Aberto, 1982.
 - RIEGL, A. O Culto Moderno dos Monumentos: a sua essência a sua origem. Tradução Werner Rothschild Davidsohn, Anat Falbel. São Paulo: Perspectiva, 2014.
-- ROCHA, Ricardo. O pavilhão Lucio Costa. Uma proposta. Minha Cidade, São Paulo, ano 01, n. 006.01, Vitruvius, jan. 2001 &lt;http://www.vitruvius.com.br/revistas/read/minhacidade/01.006/2099&gt;
+- ROCHA, Ricardo. O pavilhão Lucio Costa. Uma proposta. Minha Cidade, São Paulo, ano 01, n. 006.01, Vitruvius, jan. 2001 &lt;<a href="http://www.vitruvius.com.br/revistas/read/minhacidade/01.006/2099">http://www.vitruvius.com.br/revistas/read/minhacidade/01.006/2099</a>&gt;
 - ROSSI, A. A arquitetura da cidade. São Paulo: Martins Fontes, 1998.
 - STELLO, Vladimir Fernando. Sítio arqueológico de São Miguel Arcanjo: avaliação conceitual das intervenções 1925-1927 e 1938-1940. Dissertação de mestrado, Programa de Pós-Graduação em Engenharia Civil da Universidade Federal do Rio Grande do Sul, 2005.
 - SUMMERSON, J. Heavenly mansions. Nova Iorque: W.W. Nor- ton & Company, 1998.

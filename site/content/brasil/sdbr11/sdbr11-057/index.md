@@ -52,14 +52,14 @@ palavras-chave:
 
 ## Referências
 
-- ARTS & ARCHITECTURE. About A&A. Disponível em: http://www.artsandarchitecture.com/about.html, acesso em: 11/01/16.
+- ARTS & ARCHITECTURE. About A&A. Disponível em: &lt;<a href="http://www.artsandarchitecture.com/about.html">http://www.artsandarchitecture.com/about.html</a>&gt; acesso em: 11/01/16.
 - CURTIS, W. Arquitetura Moderna desde 1900. 3ª Ed. Porto Alegre: Bookman, 2008.
 - ESTUDOS Para Casas de Campo em Campos do Jordão. In: Acrópole, n. 72, 73, 75, abr., mai., jun. 1944.
-- FORTE, F. O Arquiteto Fernando Forte Analisa a Carreira e a Obra de Oswaldo Bratke. In: Arquitetura e Urbanismo, n. 204, mar. 2011. Disponível em: http://www.au.pini.com.br, acesso em: 15/04/13.
+- FORTE, F. O Arquiteto Fernando Forte Analisa a Carreira e a Obra de Oswaldo Bratke. In: Arquitetura e Urbanismo, n. 204, mar. 2011. Disponível em: &lt;<a href="http://www.au.pini.com.br">http://www.au.pini.com.br</a>&gt; acesso em: 15/04/13.
 - HORMAIN, D. O Relacionamento Brasil-EUA e a Arquitetura Moderna: Experiências Compartilhadas, 1939-
 - 1959. 2012. 271f. Tese (Doutorado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2012.
 - IRIGOYEN, A. Wright e Artigas: Duas Viagens. São Paulo: Atelier Cultural, 2002.
-- PINHEIRO, M. L. B. Rumo ao Moderno: Uma Historiografia da Arquitetura Moderna em São Paulo até 1945. In: Disponível em: http://www.docomomo.org.br, acesso em: 31/01/16.
+- PINHEIRO, M. L. B. Rumo ao Moderno: Uma Historiografia da Arquitetura Moderna em São Paulo até 1945. In: Disponível em: &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; acesso em: 31/01/16.
 - SEGAWA, H; DOURADO, G. M. Oswaldo Arthur Bratke. São Paulo: ProEditores, 1997.
-- SERAPIÃO, F. Esquecido Pelos Historiadores: Outra Montanha Mágica. In: Projeto Design, n. 340, jun. 2008. Disponível em: http://www.arcoweb.com.br, acesso em: 15/04/13.
+- SERAPIÃO, F. Esquecido Pelos Historiadores: Outra Montanha Mágica. In: Projeto Design, n. 340, jun. 2008. Disponível em: &lt;<a href="http://www.arcoweb.com.br">http://www.arcoweb.com.br</a>&gt; acesso em: 15/04/13.
 - SMITH, E. A. T. Case Study Houses: 1945-1966 – O Ímpeto Californiano. 2ª Ed. Colônia: Taschen, 2010.

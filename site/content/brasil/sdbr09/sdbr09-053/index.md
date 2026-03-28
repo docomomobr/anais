@@ -53,7 +53,7 @@ palavras-chave:
 
 ## Referências
 
-- GOLHAGEN, Sarah Williams. Something to Talk about: Modernism, Discourse, Style. Journal of the Society of Architectural Historians, Vol. 64, No. 2 (Jun., 2005), pp.144- 167. University of California Press on behalf of the Society of Architectural Historians disponível em http://www.jstor.org/stable/25068142 . Acesso em 24/03/2011.
+- GOLHAGEN, Sarah Williams. Something to Talk about: Modernism, Discourse, Style. Journal of the Society of Architectural Historians, Vol. 64, No. 2 (Jun., 2005), pp.144- 167. University of California Press on behalf of the Society of Architectural Historians disponível em &lt;<a href="http://www.jstor.org/stable/25068142">http://www.jstor.org/stable/25068142</a>&gt; . Acesso em 24/03/2011.
 - WAISMAN, Marina. El interior de La historia. Historiografia arquitectónica para uso de Latinoamericanos. Bogotá: Escala, 1990.
 - ZEIN, Ruth Verde. A arquitetura da Escola Paulista Brutalista 1953-1973. Tese de doutorado apresentada ao PROPAR-UFRGS. Porto Alegre, 2005.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos (on-line) 084.00, ano 07, mai 2007. Disponível em http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243, acesso em 04/05/2011.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos (on-line) 084.00, ano 07, mai 2007. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; acesso em 04/05/2011.

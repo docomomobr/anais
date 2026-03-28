@@ -84,13 +84,13 @@ palavras-chave:
 - MANNHEIM, Karl. Educação e planejamento. In: FORACCHI, Marialice M. (org.). Karl Mannheim: sociologia. São Paulo: Ática, 1982, p. 152-200.
 - MANNHEIM, Karl. O Homem e a sociedade. Rio de Janeiro: Zahar, 1962.
 - MANNHEIM, Karl. Ideologia e utopia. Rio de Janeiro: Zahar, 1968.
-- MARINI, Ruy Mauro. A Crise do desenvolvimentismo. Lavrapalavra, 2020. Disponível em: https://lavrapalavra.com/2020/11/20/a-crise-do-desenvolvimentismo/. Acesso em 10, jun., 2023.
+- MARINI, Ruy Mauro. A Crise do desenvolvimentismo. Lavrapalavra, 2020. Disponível em: &lt;<a href="https://lavrapalavra.com/2020/11/20/a-crise-do-desenvolvimentismo/">https://lavrapalavra.com/2020/11/20/a-crise-do-desenvolvimentismo/</a>&gt; Acesso em 10, jun., 2023.
 - MARX, Karl. O Capital: crítica da economia política: livro I: o processo de produção do capital. São Paulo: Boitempo, 2013.
 - MARX, Karl. Crítica da filosofia do direito de Hegel. São Paulo: Boitempo, 2019.
 - MOURA, Clóvis. A Sociologia posta em questão. São Paulo: Editora Ciências Humanas, 1978.
 - OKADA, Vinícius. Arquitetura e Trabalho — a contribuição teórica de Rodrigo Lefèvre e Sérgio Ferro para uma práxis de novo tipo. In: ENCONTRO DA ASSOCIAÇÃO NACIONAL DE PESQUISA E PÓS-GRADUAÇÃO EM
 - ARQUITETURA E URBANISMO, 7, 2022, São Carlos-SP. Anais (4v.). Rio de Janeiro: ANPARQ, 2022, v. 3, p. 349-
-- PAIVA, Vanilda Pereira. Sobre a influência de Mannheim na pedagogia de Paulo Freire. Revista Síntese (v.5, n. 14), 1978. Disponível em: https://www.faje.edu.br/periodicos/index.php/Sintese/article/view/2343. Acesso em 23, fev., 2023.
+- PAIVA, Vanilda Pereira. Sobre a influência de Mannheim na pedagogia de Paulo Freire. Revista Síntese (v.5, n. 14), 1978. Disponível em: &lt;<a href="https://www.faje.edu.br/periodicos/index.php/Sintese/article/view/2343">https://www.faje.edu.br/periodicos/index.php/Sintese/article/view/2343</a>&gt; Acesso em 23, fev., 2023.
 - PCB, Partido Comunista Brasileiro. Declaração sobre a política do PCB (março de 1958). In: CARONE, Edgard (org.). O PCB (1943-1964). Volume II. São Paulo: Difel, 1982.
 - PRADO, Fernando Correa. A ideologia do desenvolvimento e a controvérsia da dependência no Brasil contemporâneo. Marília: Editora Lutas Anticapital, 2020.
 - SACCONI, Davide. Arquitetura como práxis: apontamentos sobre o legado da Arquitetura Nova. Revista arq.urb, n. 29, 2020, p. 31-40.

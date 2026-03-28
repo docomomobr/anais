@@ -51,7 +51,7 @@ palavras-chave:
 - CARDOSO, Mario. Entrevista com Fernando Távora. Revista Arquitectura, Lisboa, n.123, p.150-154, setembro 1971.
 - COSTA, Lucio. Registro de uma Vivência. 2.ed. São Paulo, Empresa das Artes, 1995.
 - COSTA, Lucio. Sobre Arquitetura. Porto Alegre: Centro dos Universitários de Arquitetura, 1962, p.113.
-- DAL CONTE, Francesco. Fernando Távora: alcuni progetti sul costruito. Disponível em: &lt;http://icar.poliba.it/storiacontemporanea/seminari/delconte/delconte09.htm#Torre.&gt; Acesso em 18 mai. 2005, 12:20:00.
+- DAL CONTE, Francesco. Fernando Távora: alcuni progetti sul costruito. Disponível em: &lt;<a href="http://icar.poliba.it/storiacontemporanea/seminari/delconte/delconte09.htm#Torre">http://icar.poliba.it/storiacontemporanea/seminari/delconte/delconte09.htm#Torre</a>&gt; Acesso em 18 mai. 2005, 12:20:00.
 - TELLES, Sofia S. Lucio Costa: Monumentalidade e Intimismo. Revista Novos Estudos, São Paulo: Cebrap, n. 25, p.75-94, outubro de 1989.
 - TRIGUEIROS, Luiz. (Ed.) Fernando Távora. Lisboa: Blau, 1993.
 - WINSIK, Guilherme. Lucio Costa. São Paulo: Cosac & Naify, 2001.

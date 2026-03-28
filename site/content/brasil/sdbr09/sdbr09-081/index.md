@@ -59,14 +59,14 @@ palavras-chave:
 
 ## Referências
 
-- AVERMAETE, Tom. “Stem and Web: A different Way of Analysing, Understanding and Conceiving the City in the Work of Candilis Josic Woods.” In: Sociology, Production and the City. http://www.team10online.org/. [acesso em 17/12/2010].
+- AVERMAETE, Tom. “Stem and Web: A different Way of Analysing, Understanding and Conceiving the City in the Work of Candilis Josic Woods.” In: Sociology, Production and the City. &lt;<a href="http://www.team10online.org/">http://www.team10online.org/</a>&gt; [acesso em 17/12/2010].
 - BERNINI, Luciano. Planejamento Físico de Campi Universitários e sua aplicação prática. S.l: s.e., s.d.
 - BLAKE, Peter. Form follows fiasco. Why modern architecture hasn't worked. Boston/Toronto: Little, Brown and Company, 1977. 169p.
 - BOESIGER, W. Le Corbusier: oeuvre complete. v.1 1910-1929 v.2 1929-1934 v.3 1934-1938 v.4 1938-1946 v.5 1946-1952 v.6 1952-1957 v.7 1957-1965. Basel/Boston/Berlim: Birkhäuser, 1999 (1a edição: 1970).
 - BRAGA, Milton Liebentritt de Almeida. Infra-estrutura e projeto urbano. Tese de doutoramento. São Paulo: Universidade de São Paulo, 2006.
 - CARTER, Peter. Mies van der Rohe at work. London-New York: Phaidon, 1999. 192p. (1a ed 1974).
 - HABRAKEN, N. J. El diseno de soportes. Barcelona: 1979. 210p.
-- HABRAKEN, N. “Open Architecture”. In: http://www.habraken.com/html/open_building.htm [acesso em 17/12/2010].
+- HABRAKEN, N. “Open Architecture”. In: &lt;<a href="http://www.habraken.com/html/open_building.htm">http://www.habraken.com/html/open_building.htm</a>&gt; [acesso em 17/12/2010].
 - HERTZBERGER, Herman. Lições de arquitetura. 2.ed. São Paulo: Martins Fontes, 1999. 272p.
 - JOEDICKE, Jurgen. Candilis-Josic-Woods una decada de arquitectura y urbanismo. Barcelona: c1968. 226p.
 - KOOLHAAS, Rem. Delirious New York: a retroactive manifesto for Manhattan. New York: Monacelli Press, 1994. 317 p.
@@ -75,7 +75,7 @@ palavras-chave:
 - LE CORBUSIER; MARTINS, Carlos A. Ferreira. Precisões: sobre um estado presente da arquitetura e do urbanismo. São Paulo: Cosac & Naify, 2004. 295p.
 - LEVENE, Richard C.; MÁRQUEZ CECILIA, Fernando. Oma Rem Koolhaas , 1996-2006 [I]: delirio y mas = delirious and more. Madrid: Croquis, 2006. 463 p. (El Croquis ;131/132)
 - LOPES, Sebastião de Oliveira. Proposta de coordenação modular e sistema construtivo para um modelo universitario-UFMG. Belo Horizonte: 198-? 210p.
-- MALARD, Maria Lúcia. Memorial [concurso para o cargo de professor titular].  Belo Horizonte, Universidade Federal de Minas Gerais, 1995. 148p.
+- MALARD, Maria Lúcia. Memorial [concurso para o cargo de professor titular]. Belo Horizonte, Universidade Federal de Minas Gerais, 1995. 148p.
 - MONTANER, Josep Maria. Despues del movimiento moderno : arquitectura de la segunda mitad del siglo XX. Barcelona: Gustavo Gili, 1993. 271p.
 - MONTEIRO, Patrício Dutra; BRANDÃO, Carlos Antônio Leite. Recuperando o modernismo : a produção arquitetônica de Eduardo Mendes Guimarães Junior. 2004. 226f.
 - PORTAS, Nuno. A cidade como arquitectura: apontamentos de metodo e critica. Lisboa: Livros Horizonte, 2007 (fac-símile da 1a edição de 1969). 212p.

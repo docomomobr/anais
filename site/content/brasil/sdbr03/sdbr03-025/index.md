@@ -57,7 +57,7 @@ autores:
 - SOUZA, Marcos de. "Sutis pegadas do bicho arquiteto". AU-Arquitetura e Urbanismo. Editora Pini, São Paulo, agosto/setembro 1998, nº79, p.63-69
 - TELLES, Sophia da Silva. "Museu Brasileiro da Escultura". AU-Arquitetura e Urbanismo. Editora Pini, São Paulo, outubro/novembro 1990, nº129, p.121.
 - ZEIN, Ruth Verde. "Brazilian Sculpture Museum". Tostem View Metropolitan Landscape Magazine. Toquio, maio 1996, nº59, p.14
-- ZEIN, Ruth Verde. "Fiel a si mesmo". [in] http://www.iaz.com/iaz/extra/mendes/
+- ZEIN, Ruth Verde. "Fiel a si mesmo". [in] &lt;<a href="http://www.iaz.com/iaz/extra/mendes/">http://www.iaz.com/iaz/extra/mendes/</a>&gt;
 - ZEIN, Ruth Verde. "La ultima obra de Mendes da Rocha: Centro Cultural FIESP en São Paulo". Arquine. Editora Arquine, Mexico, verano 1999, nº 8, p.5
 - ZEIN, Ruth Verde. "Otras arquitecturas de Brasil". Revista 2G. Gustavo Gili, Barcelona, 1998/IV, nº8, p.14-23
 - ZEIN, Ruth Verde. "Nueva Pinacoteca". Revista 2G. Gustavo Gili, Barcelona, 1998/IV, nº8, p.62-69

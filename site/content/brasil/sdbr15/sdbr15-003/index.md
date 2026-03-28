@@ -72,8 +72,8 @@ palavras-chave:
 - ACRÓPOLE. São Paulo, n. 324, dez. 1965.
 - ARRUDA, Maria Arminda do Nascimento. Metrópole e Cultura: São Paulo no meio século XX. Bauru: Edusc, 2001.
 - BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros; SIMONI, Lucia Noemia. A arquitetura moderna produzida a partir do plano de ação do governo Carvalho Pinto - PAGE (1959-1963). Revista Arq.Urb, n. 14, p. 157-170, 2015.
-- BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros. Plano de ação (PAGE) e a arquitetura moderna | Action plan (PAGE) and modern architecture. Oculum Ensaios, n. 17, p. 1-18, 2020. https://doi.org/10.24220/2318-0919v17e2020a4127
-- CAMARGO, Mônica Junqueira de. Inventário dos bens culturais relativos ao Plano de Ação do Governo Carvalho Pinto (1959-1963). Revista CPC, São Paulo, n. 21 especial, 1 semestre 2016. Disponível em: &lt;http://www.revistas.usp.br/cpc/article/view/111965&gt;. Acesso em: 23 mar. 2023.
+- BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros. Plano de ação (PAGE) e a arquitetura moderna | Action plan (PAGE) and modern architecture. Oculum Ensaios, n. 17, p. 1-18, 2020. &lt;<a href="https://doi.org/10.24220/2318-0919v17e2020a4127">https://doi.org/10.24220/2318-0919v17e2020a4127</a>&gt;
+- CAMARGO, Mônica Junqueira de. Inventário dos bens culturais relativos ao Plano de Ação do Governo Carvalho Pinto (1959-1963). Revista CPC, São Paulo, n. 21 especial, 1 semestre 2016. Disponível em: &lt;<a href="http://www.revistas.usp.br/cpc/article/view/111965">http://www.revistas.usp.br/cpc/article/view/111965</a>&gt; Acesso em: 23 mar. 2023.
 - FOLHA DA MANHÃ. São Paulo, n. 10.807, 17 jul. 1959.
 - GORELIK, Adrián. O moderno em debate: cidade, modernidade e modernização. In.: MIRANDA, Wander Melo (org.). Narrativas da Modernidade. Belo Horizonte: Autêntica, 1999.
 - LIMA, Caroline Niitsu de; BUZZAR, Miguel Antonio. O Patrimônio Arquitetônico Moderno do PAGE e as modificações sofridas ao longo do tempo: os casos da Casa de Lavoura de São Carlos e do Hospital do Servidor de Sorocaba. In.: 6° Seminário Ibero-americano Arquitetura e Documentação. Belo Horizonte, 2019.

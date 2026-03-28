@@ -67,12 +67,12 @@ palavras-chave:
 - Desapropriado Quinta do Calhau. O Imparcial. São Luís: 03 de janeiro de 1980. p. 01.
 - Famílias ficam ao desabrigo. O Imparcial. São Luís: 20 de Julho de 1979. p. 01
 - Fecury Volta a São Luís. O Imparcial. São Luís: 04 de Fevereiro de 1979. p. 01.
-- Fecury promete moradias condignas a palafitados. O Imparcial. São Luís: 23 de Março de 1979.  p. 07.
-- Fecury diz que vai mudar São Luís. O Imparcial. São Luís: 27 de Março de 1979.  p. 07.
+- Fecury promete moradias condignas a palafitados. O Imparcial. São Luís: 23 de Março de 1979. p. 07.
+- Fecury diz que vai mudar São Luís. O Imparcial. São Luís: 27 de Março de 1979. p. 07.
 - Jaime Lerner visita a São Luís. O Imparcial. São Luís: 16 de junho de 1979. p. 02.
 - Lançado PROMORAR em São Luís – Pobres terão casas mais condignas. O Imparcial. São Luís: 13 de Julho de 1979.
 - Lucio Costa sobrevoa S. Luis. O Imparcial. São Luís: 25 de maio de 1979. p. 05.
-- Mauro Fecury não admite invasão e manda derrubar armações. O Imparcial. São Luís: 21 de Abril de 1979.  p. 07.
+- Mauro Fecury não admite invasão e manda derrubar armações. O Imparcial. São Luís: 21 de Abril de 1979. p. 07.
 - Meta do Projeto Carajás ter 20 siderúrgicas. O Imparcial. São Luís: 05 de Janeiro de 1980. p. 05.
 - Moradores do Goiabal contra remanejamento. O Imparcial. São Luís: 05 de setembro de 1979, p. 03.
 - Plano de Governo debate os problemas de São Luís. O Imparcial. São Luís: 15 de Fevereiro de 1979. p. 05.
@@ -97,5 +97,5 @@ palavras-chave:
 - SÃO LUÍS. Prefeitura Municipal. Lei Delegada nº 2.527 de 24 de junho de 1981. Dispõe Sobre o Zoneamento, Parcelamento, Uso e Ocupação do Solo Urbano de São Luís. São Luís: 1981.
 - SANTOS, Rafael Barcellos. O Projeto como patrimônio não construído: o Teatro do Museu de Arte Moderna do Rio de Janeiro. Porto Alegre: Zouk, 2013.
 - Fontes Eletrônicas
-- COSTA, Lúcio. Novo Polo Urbano São Luis. (1979). In: INSTITUTO ANTÔNIO CARLOS JOBIM. Acervo digital Lucio Costa. (Internet) Disponível em «http://www.jobim.org/lucio/» (Consultado em 05/04/2012).
-- INSTITUTO ANTÔNIO CARLOS JOBIM. Acervo digital Lucio Costa. (Internet) Disponível em «http://www.jobim.org/lucio/». Acesso em: 05 de abril de 2012.
+- COSTA, Lúcio. Novo Polo Urbano São Luis. (1979). In: INSTITUTO ANTÔNIO CARLOS JOBIM. Acervo digital Lucio Costa. (Internet) Disponível em « &lt;<a href="http://www.jobim.org/lucio/»">http://www.jobim.org/lucio/»</a>&gt; (Consultado em 05/04/2012).
+- INSTITUTO ANTÔNIO CARLOS JOBIM. Acervo digital Lucio Costa. (Internet) Disponível em « &lt;<a href="http://www.jobim.org/lucio/»">http://www.jobim.org/lucio/»</a>&gt; Acesso em: 05 de abril de 2012.

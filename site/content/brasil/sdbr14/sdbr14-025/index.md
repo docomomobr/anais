@@ -59,13 +59,13 @@ palavras-chave:
 
 ## Referências
 
-- ArPDF. Arquivo Público do Distrito Federal. GDF, 2018. http://www.arquivopublico.df.gov.br/lucidio- guimaraes-albuquerque/ consultado em 17/05/2021.
-- ALBUQUERQUE, J. P. C. Relatório anual da Comissão de Localização da Nova Capital Federal. Rio de Janeiro: Biblioteca do Senado Federal, 1955. http://www.museuvirtualbrasilia.org.br/PT/personalidades.php?ator=marechal, consultado em 11/06/2021.
+- ArPDF. Arquivo Público do Distrito Federal. GDF, 2018. &lt;<a href="http://www.arquivopublico.df.gov.br/lucidio-">http://www.arquivopublico.df.gov.br/lucidio-</a>&gt; guimaraes-albuquerque/ consultado em 17/05/2021.
+- ALBUQUERQUE, J. P. C. Relatório anual da Comissão de Localização da Nova Capital Federal. Rio de Janeiro: Biblioteca do Senado Federal, 1955. &lt;<a href="http://www.museuvirtualbrasilia.org.br/PT/personalidades.php?ator=marechal">http://www.museuvirtualbrasilia.org.br/PT/personalidades.php?ator=marechal</a>&gt; consultado em 11/06/2021.
 - ALBUQUERQUE, L. G. Introdução ao urbanismo regional: sistema de abastecimento de Brasília. Rio de Janeiro: Conselho Coordenador do Abastecimento da Novacap, 1960.
 - BENEVOLO, L. A História da Cidade. São Paulo: Perspectiva, 2011.
 - BERTRAN, P. História da Terra e do Homem no Planalto Central. Brasília: Editora Universidade de Brasília, 2011.
 - BRITO, J. De Plano Piloto a Metrópole: A Mancha Urbana de Brasília. Brasília: Universidade de Brasília, 2009
-- CAVALCANTI, F. R. Origens do Paranoá. O Lago de Glaziou. Disponível em http://doc.brazilia.jor.br/Historia/Lago-Paranoa-proposto-por-Glaziou.shtml, consultado em 11/06/2021
+- CAVALCANTI, F. R. Origens do Paranoá. O Lago de Glaziou. Disponível em &lt;<a href="http://doc.brazilia.jor.br/Historia/Lago-Paranoa-proposto-por-Glaziou.shtml">http://doc.brazilia.jor.br/Historia/Lago-Paranoa-proposto-por-Glaziou.shtml</a>&gt; consultado em 11/06/2021
 - CIAM. Carta de Atenas. Assembléia do CIAM – Congresso Internacional de Arquitetura Moderna. Atenas. 1933.
 - CIDADE, L. C. F. Ideologia, produção do espaço e apropriação da socionatureza no Lago Paranoá. In: PAVIAN I, A. (Org.). Brasília 50 anos: da capital a metrópole. Brasília: Universidade de Brasília, 2010. pp. 195-224.
 - CONSERVA, C. Águas Urbanas: Expansão do Território e Drenagem na Serrinha do Paranoá. Brasília: Autografia, 2020.
@@ -76,12 +76,12 @@ palavras-chave:
 - ECHEVERRIA, R. (2007). Avaliação de Impactos Ambientais nos Tributários do Lago Paranoá em Brasília DF. Brasília: Dissertação de Mestrado em Geociências UnB.
 - FEDERAL, D. (2004). Distrito Federal, o Berço das Águas. Brasília: SEMARH-DF.
 - FONSECA. (2001). Olhares sobre o Lago Paranoá. Brasília: GDF SEMARH.
-- GLAZIOU, A. Relatório de Glaziou. In: Relatório da Segunda Comissão de Estudos Nova Capital da União. Relatório Parcial por L. Cruls. Rio de Janeiro: Carlos Schmidt , 1896. Disponível em http://doc.brazilia.jor.br/HistDocs/Relatorios/1896-missao-Cruls-Glaziou-lago-Paranoa.shtml (consultado em 10/05/2021)
+- GLAZIOU, A. Relatório de Glaziou. In: Relatório da Segunda Comissão de Estudos Nova Capital da União. Relatório Parcial por L. Cruls. Rio de Janeiro: Carlos Schmidt , 1896. Disponível em &lt;<a href="http://doc.brazilia.jor.br/HistDocs/Relatorios/1896-missao-Cruls-Glaziou-lago-Paranoa.shtml">http://doc.brazilia.jor.br/HistDocs/Relatorios/1896-missao-Cruls-Glaziou-lago-Paranoa.shtml</a>&gt; (consultado em 10/05/2021)
 - GONTIJO JUNIOR, W. (2015). Águas em Brasília: Ainda não Somos Modernos.
 - GONZALES, S., FRANCISCONI, J., & PAVIANI, A. (2013). Planejamento e Urbanismo na atualidade brasileira: objeto, teoria e prática. Rio de Janeiro: Livre Expressão.
 - GORSKI, M. C. B. Rios e cidades: ruptura e reconciliação. Dissertação de Mestrado, FAU-Mackenzie, 2008.
 - IBGE. A localização da nova capital da República. Rio de Janeiro: IBGE. 1948.
-- IPHAN. O Plano Piloto de Brasília e as suas Escalas. IPHAN. 2014. Disponível em http://portal.iphan.gov.br/pagina/detalhes/1643/ Consultado em 10/05/2021.
+- IPHAN. O Plano Piloto de Brasília e as suas Escalas. IPHAN. 2014. Disponível em &lt;<a href="http://portal.iphan.gov.br/pagina/detalhes/1643/">http://portal.iphan.gov.br/pagina/detalhes/1643/</a>&gt; Consultado em 10/05/2021.
 - LEITÃO, F. (org.) Brasília 1960-2010 passado, presente e futuro. 2009.
 - LUZ, Clemente. Invenção da cidade: (Brasília). Record. Brasília. 1982.
 - MOTA, S. Urbanização e meio ambiente. 4ª Edição. Rio de Janeiro: Expressão Gráfica, 2003.
@@ -89,9 +89,9 @@ palavras-chave:
 - NIEMEYER, O. Edital para o Concurso Nacional do Plano Piloto da Nova Capital do Brasil. Comissão de Planejamento da Construção e da Mudança da Capital Federal. Departamento de Urbanismo e Arquitetura. Rio de Janeiro. 1956.
 - NOVACAP. Revista Brasília nº 11. Brasília, 1957.
 - OLIVEIRA, A. I. O Depoimento de um Técnico. Revista Brasília Ano 1 nº 1. NOVACAP. 1957.
-- OLIVEIRA, Giovanna Ortiz de. Lucio Costa. [Entrevista cedida a] Ana Rosa de Oliveira. Entrevista, São Paulo, ano 6, n. 023.03, jul. 2005. Disponível em: &lt;Disponível em: https://bit.ly/3iwGCbf &gt;. Acesso em: 17 maio 2021.
+- OLIVEIRA, Giovanna Ortiz de. Lucio Costa. [Entrevista cedida a] Ana Rosa de Oliveira. Entrevista, São Paulo, ano 6, n. 023.03, jul. 2005. Disponível em: &lt;Disponível em: &lt;<a href="https://bit.ly/3iwGCbf">https://bit.ly/3iwGCbf</a>&gt; &gt;. Acesso em: 17 maio 2021.
 - OLIVEIRA, M. M. Construída na linha do horizonte: Brasília, o Plano Piloto e a manipulação do chão. Superintendência do IPHAN no Distrito Federal.Patrimônio em transformação : atualidades e permanências na preservação de bens culturais em Brasília. Brasília-DF, 2016.
-- ONU. Nações Unidas. Agenda 2030: entenda o que é o desenvolvimento sustentável. 2021. Disponível em https://news.un.org/pt/story/2015/10/1527661-agenda-2030-entenda-o-que-e-o-desenvolvimento- sustentavel
+- ONU. Nações Unidas. Agenda 2030: entenda o que é o desenvolvimento sustentável. 2021. Disponível em &lt;<a href="https://news.un.org/pt/story/2015/10/1527661-agenda-2030-entenda-o-que-e-o-desenvolvimento-">https://news.un.org/pt/story/2015/10/1527661-agenda-2030-entenda-o-que-e-o-desenvolvimento-</a>&gt; sustentavel
 - PPCUB. Plano de Preservação do Conjunto Urbanístico de Brasília. Secretaria de Estado de Gestao do Território e Habitação. SEGETH. Brasília. 2010.
 - PENNA, T. V. C. Rios Urbanos e Paisagem: Do convívio à negação em Cachoeiro do Itapemirim – ES. Vitória. Dissertação de mestrado. Universidade Federal do Espírito Santo. 2017.
 - RIBEIRO, Gustavo Lins. O capital da esperança: a experiência dos trabalhadores na construção de Brasília. Brasília: Editora UnB, 2008

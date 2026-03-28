@@ -55,7 +55,7 @@ palavras-chave:
 - AMORIM, L. et al Delfim Amorim – arquiteto. Recife: Instituto de Arquitetos do Brasil – Departamento de Pernambuco, 1981
 - AMORIM, L. Delfim Amorim - construtor de uma linguagem síntese. Revista AU. São Paulo, no 24, p. 94-97, 1989.
 - AMORIM, L. The Sectors´ Paradigm: a study of the spatial and functional nature of modernist housing in Northeast Brazil. London: University College London, 1999 (Tese de Doutorado).
-- AMORIM, L. Modernismo recifense:. Uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos, São Paulo, ano 01, n. 012.03, Vitruvius, maio 2001 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889&gt;.
+- AMORIM, L. Modernismo recifense:. Uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos, São Paulo, ano 01, n. 012.03, Vitruvius, maio 2001 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889">http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889</a>&gt;
 - AMORIM, L. Uma escola regional? AU – Arquitetura e Urbanismo, São Paulo, v. 94, p. 66-69, 2001
 - AMORIM, L.. Espaço-tipo: de aα a dδ. In: Anais do VI Projetar: o projeto como instrumento para a materialização da arquitetura: ensino, pesquisa e prática. Salvador: Faculdade de Arquitetura da Universidade Federal da Bahia, Programa de Pós-Graduação em Arquitetura, 2013. v. 1. p. s/n.
 - AMORIM, L.. O Barão assinalado: a maestria compositiva de Amorim e Maia Neto. In: Anais do 5° docomomo N/NE. Fortaleza: UFC, 2014. v. 1. p. s/n.
@@ -65,7 +65,7 @@ palavras-chave:
 - BARBOSA, C. Organização dos Arquitectos Modernos: ODAM do Porto 1947-1952. Porto: Ed. ASA, 1972.
 - BASTOS, M.A. Renato Anelli enfoca a arquitetura contemporânea no Brasil. Resenhas Online, São Paulo, ano 10, n. 110.01, Vitruvius, fev. 2011.
 - CHERMAYEFF, S.; ALEXANDER, C. Community and Privacy: toward a new architecture of humanism. New York: Doubleday & Company, Inc, 1963.
-- DOCOMOMO_BR. Guia da Arquitetura Moderna no Recife. Recife: docomomo_br, 2016 (https://issuu.com/fernandoalmeida18/docs/momotur_ok_). Consulta em 08/06/2017
+- DOCOMOMO_BR. Guia da Arquitetura Moderna no Recife. Recife: docomomo_br, 2016 ( &lt;<a href="https://issuu.com/fernandoalmeida18/docs/momotur_ok_">https://issuu.com/fernandoalmeida18/docs/momotur_ok_</a>&gt; Consulta em 08/06/2017
 - GOODWIN, P. Brazil Builds: architecture new and old. New York: The Museum of Modern Art, 1943.
 - HILLIER, B. Space is the machine. Cambridge: Cambridge University Press, 1996.
 - IAB-PE Premiação Anual do IAB-PE 69. Recife: Instituto de Arquitetos do Brasil – Departamento de Pernambuco, 1969.
@@ -78,9 +78,9 @@ palavras-chave:
 - PREFEITURA DA CIDADE DO RECIFE, Lei nº 14.511 de 17 de janeiro de 1983.
 - ROCHA, E. (Org) Guia do Recife Arquitetura e Paisagismo; organização Edileusa da Rocha.. 1ªed.Recife: Ed. dos autores, 2004.
 - SEGAWA, H. Arquiteturas no Brasil‬:
-- SEGAWA, H. Um vade-mécum da Arquitetura no Brasil no século 20 : Arquiteturas no Brasil 1900-1990. In: mdc, https://mdc.arq.br/2011/04/07/um-vade-mecum-da-arquitetura-no-brasil-no-seculo-20-. Consulta em 08/06/2017.
-- STEADMAN, P. How day-lighting constrains access. In Proceedings Fourth International Space Syntax Symposium, Ed. J. Hanson, University College London, Londres, 05.01-05.18, 2003 (http://www .spacesyntax.net/symposia-archive/SSS4/fullpapers/05Steadmanpaper.pdf).
+- SEGAWA, H. Um vade-mécum da Arquitetura no Brasil no século 20 : Arquiteturas no Brasil 1900-1990. In: mdc, &lt;<a href="https://mdc.arq.br/2011/04/07/um-vade-mecum-da-arquitetura-no-brasil-no-seculo-20-">https://mdc.arq.br/2011/04/07/um-vade-mecum-da-arquitetura-no-brasil-no-seculo-20-</a>&gt; Consulta em 08/06/2017.
+- STEADMAN, P. How day-lighting constrains access. In Proceedings Fourth International Space Syntax Symposium, Ed. J. Hanson, University College London, Londres, 05.01-05.18, 2003 ( &lt;<a href="http://www">http://www</a>&gt; .spacesyntax.net/symposia-archive/SSS4/fullpapers/05Steadmanpaper.pdf).
 - SILVA, G. G. Marcos da arquitetura moderna em Pernambuco, In: Arquiteturas no Brasil/Anos 80 Ed. H. Segawa. São Paulo, Projeto, 19-27, 1988.
 - SILVA, G. G. Delfim Amorim, um modernista português no Recife. Revista AU, v. 57, p. 71-79, 1995.
 - SHPUZA, E. Light, views and Money: average perimeter distance and its relation to floor plate geometry. In Proceedings Fourth International Space Syntax Symposium, Ed. J.
-- Hanson, University College London, Londres, 41.01-41.10, 2003 (http://www.spacesyntax.net/symposia-archive/SSS4/fullpapers/41Shpuzapaper.pdf).
+- Hanson, University College London, Londres, 41.01-41.10, 2003 ( &lt;<a href="http://www.spacesyntax.net/symposia-archive/SSS4/fullpapers/41Shpuzapaper.pdf">http://www.spacesyntax.net/symposia-archive/SSS4/fullpapers/41Shpuzapaper.pdf</a>&gt;

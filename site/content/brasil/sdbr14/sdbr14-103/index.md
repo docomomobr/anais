@@ -61,7 +61,7 @@ palavras-chave:
 - BUZZAR, Miguel Antonio. Rodrigo Brotero Lefèbvre e a vanguarda da arquitetura no Brasil. São Paulo: Edições Sesc São Paulo, 2019. 312 p. il.: fotografias, plantas, croquis.
 - CORIAT, Benjamin. O Processo de Trabalho de Tipo “Canteiro” e Sua Racionalização: Observações sobre algumas tendências da pesquisa atual. Trad. Jorge Hajime Oseki revisado por João Sette Whitaker Ferreira. Université Paris VII. Paris: [s.n.], 1983.
 - FERRO, Sergio. A história da arquitetura vista do canteiro: três aulas de Sérgio Ferro. São Paulo: GFAU, 2010. 120 p.
-- FERRO, Sergio. Notas sobre “O vício da virtude”. São Paulo: Novos estudos, CEBRAP, n. 76, p. 229-234, nov. 2006. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000300012. Acesso em: nov. 2019.
+- FERRO, Sergio. Notas sobre “O vício da virtude”. São Paulo: Novos estudos, CEBRAP, n. 76, p. 229-234, nov. 2006. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000300012">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000300012</a>&gt; Acesso em: nov. 2019.
 - FERRO, Sergio. Arquitetura e trabalho livre. São Paulo: Cosac Naify, 2006. 456 p.
 - FERRO, Sergio. O Canteiro e o desenho. São Paulo: Projeto, 1979.
 - FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.
@@ -69,5 +69,5 @@ palavras-chave:
 - MARX, Karl. O capital: crítica da economia política. Livro I/Karl Marx; tradução de Reginaldo Sant’Anna. 19. ed. Rio de Janeiro: Civilização Brasileira 2002. p. 373-571.
 - OLIVEIRA, Francisco de. Crítica à razão dualista/O ornitorrinco. São Paulo: Boitempo, 2003.
 - OLIVEIRA, Francisco de. O vício da virtude: Autoconstrução e acumulação capitalista no Brasil. São Paulo: Novos Estudos,
-- CEBRAP, n. 74, p. 67-85, mar. 2006. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000100005. Acesso em: nov. 2019.
-- SILVA, Thiago Leibante. Trabalho, construção civil e informalidade: um estudo sobre trabalhadores de pequenas obras. Tese – Universidade Federal do Paraná, setor de Ciências Humanas, Programa de Pós- Graduação em Sociologia. Curitiba: 2018. Disponível em: https://acervodigital.ufpr.br/handle/1884/58528. Acesso em: dez. 2019.
+- CEBRAP, n. 74, p. 67-85, mar. 2006. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000100005">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-33002006000100005</a>&gt; Acesso em: nov. 2019.
+- SILVA, Thiago Leibante. Trabalho, construção civil e informalidade: um estudo sobre trabalhadores de pequenas obras. Tese – Universidade Federal do Paraná, setor de Ciências Humanas, Programa de Pós- Graduação em Sociologia. Curitiba: 2018. Disponível em: &lt;<a href="https://acervodigital.ufpr.br/handle/1884/58528">https://acervodigital.ufpr.br/handle/1884/58528</a>&gt; Acesso em: dez. 2019.

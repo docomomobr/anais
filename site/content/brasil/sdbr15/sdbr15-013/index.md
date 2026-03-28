@@ -79,5 +79,5 @@ palavras-chave:
 - RIBEIRO, Gilberto; ALBERNAZ, Kleris. Depoimento [04 fev. 2020]. Entrevistadores: Hugo Segawa e Juliana Suzuki. Rio de Janeiro, 2020.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. 3 ed. São Paulo: Edusp, 2014.
 - SILVA, Clóvis Ilgenfritz da; PINTO, Ignez D'Avila. Arquitetura gaúcha: sede administrativa da Cotrijuí. Projeto, São Paulo, n. 50, p. 72-73, abr. 1983.
-- SUZUKI, Juliana H. Tijolo com tijolo num desenho lógico: as CEASA e os pavilhões de Dieste e Montañez no Brasil. In: DOCOMOMO BRASIL, 13, 2019, Salvador. Anais... Disponível em&lt; https://docomomobrasil.com/wp-content/uploads/2020/04/110841.pdf&gt;. Acesso em 30 ago. 2022.
+- SUZUKI, Juliana H. Tijolo com tijolo num desenho lógico: as CEASA e os pavilhões de Dieste e Montañez no Brasil. In: DOCOMOMO BRASIL, 13, 2019, Salvador. Anais... Disponível em &lt;<a href="https://docomomobrasil.com/wp-content/uploads/2020/04/110841.pdf">https://docomomobrasil.com/wp-content/uploads/2020/04/110841.pdf</a>&gt; Acesso em 30 ago. 2022.
 - TORRECILLAS, A. J. Eladio Dieste 1943-1996. Sevilla: Dirección General de Arquitectura y Vivienda de la Consejería de Obras Públicas y Transportes de la Junta de Andalucía, 1997.

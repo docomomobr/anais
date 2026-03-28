@@ -51,5 +51,5 @@ palavras-chave:
 - KOOLHAAS, Rem. Delirious New York. Monacelli, 1994.
 - PAPADAKI, Stamo. Oscar Niemeyer: Works in Progress. Nova Iorque: Reinhold, 1956.
 - LE CORBUSIER. Oeuvres complètes 1929-34. [1, 2]
-- PAPADAKI, Stamo. Oscar Niemeyer: Works in Progress. Nova Iorque: Reinhold, 1956. [3] http://sinistudio.blogspot.com/feeds/posts/default [4] www.sampaonline.com.br/postais/masp2005jan09.jpg [5] http://artintelligence.net/review/?p=529 [6]
-- ITO, Toyo. Sendai Mediatheque. Barcelona: Actar, 2003. [7] http://seattlest.com/2009/03/09/rem_koolhaas_approved_this_document.php [8]
+- PAPADAKI, Stamo. Oscar Niemeyer: Works in Progress. Nova Iorque: Reinhold, 1956. [3] &lt;<a href="http://sinistudio.blogspot.com/feeds/posts/default">http://sinistudio.blogspot.com/feeds/posts/default</a>&gt; [4] www.sampaonline.com.br/postais/masp2005jan09.jpg [5] &lt;<a href="http://artintelligence.net/review/?p=529">http://artintelligence.net/review/?p=529</a>&gt; [6]
+- ITO, Toyo. Sendai Mediatheque. Barcelona: Actar, 2003. [7] &lt;<a href="http://seattlest.com/2009/03/09/rem_koolhaas_approved_this_document.php">http://seattlest.com/2009/03/09/rem_koolhaas_approved_this_document.php</a>&gt; [8]

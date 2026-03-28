@@ -54,12 +54,12 @@ palavras-chave:
 
 - ARANTES, Otília Beatriz Fiori. O revolucionário tranquilo. Folha de São Paulo, 24 fev; 2002.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva S. A. (4° ed.), 2003.
-- CASA DE LUCIO COSTA. Disponível em: http://www.jobim.org/lucio/handle/123456789/198. Acesso em: jun 2017
+- CASA DE LUCIO COSTA. Disponível em: &lt;<a href="http://www.jobim.org/lucio/handle/123456789/198">http://www.jobim.org/lucio/handle/123456789/198</a>&gt; Acesso em: jun 2017
 - CONDURU, Roberto. Entre histórias e mitos. Uma revisão do neocolonial. Resenhas Online, São Paulo, ano 08, n. 093.01, Vitruvius, set. 2009.
-- COSTA, Lucio. Arquitetura/ Lucio Costa.  (5º ed). Rio de Janeiro: José Olympio, 2010.
+- COSTA, Lucio. Arquitetura/ Lucio Costa. (5º ed). Rio de Janeiro: José Olympio, 2010.
 - COSTA, Lucio. Lúcio Costa. Registro de uma Vivência. (1ª ed). São Paulo: Empresa das Artes, 1995.
 - COSTA, Maria Elisa. (Org.). Com a palavra, Lucio Costa. Rio de Janeiro: Aeroplano, 2000.
-- FREYRE, Gilberto de Mello.  Casa grande e senzala. Rio de Janeiro: José Olympio, 1989.
+- FREYRE, Gilberto de Mello. Casa grande e senzala. Rio de Janeiro: José Olympio, 1989.
 - GUERRA, Abílio da Silva Neto. Lucio Costa - modernidade e tradição. Montagem discursiva da Arquitetura Moderna Brasileira. 2002. Tese (Doutorado em História). Universidade Estadual de Campinas, Campinas, 2002.
 - GUERRA, Abílio (Org). Textos fundamentais: sobre a história da arquitetura brasileira_parte 1. São Paulo: Romano Guerra, 2010.
 - LEONÍDIO, Otávio. Carradas de razões: Lucio Costa e a arquitetura moderna brasileira (1924 – 1951). Rio de Janeiro, 2007.
@@ -67,7 +67,7 @@ palavras-chave:
 - MILHEIRO, Ana Vaz. A construção do Brasil: relações com a cultura arquitetctónica portuguesa. São Paulo, 2005. (1° ed)
 - NOBRE, Ana Luiza. (Org. 2010) Lucio Costa – Encontros. Rio de Janeiro: Beco do Azougue.
 - PESSÔA, José. (Org.). Lucio Costa: Documentos de trabalho. Rio de Janeiro: Instituto do Patrimônio Histórico e Artístico Nacional, 1999. v. 1. 328.
-- PESSÔA, J.  COSTA, M. E. Bloquinhos de Portugal. A arquitetura Portuguesa no Traço de Lucio Costa. (Org.), Rio de Janeiro, Funarte, 2013.
+- PESSÔA, J. COSTA, M. E. Bloquinhos de Portugal. A arquitetura Portuguesa no Traço de Lucio Costa. (Org.), Rio de Janeiro, Funarte, 2013.
 - TELLES, Sophia S. Lucio Costa: monumentalidade e intimismo. Novos Estudos n° 25, CEBRAP, São Paulo, 1989.
 - WISNIK, Guilherme (org.) O Risco. Lucio Costa e a utopia moderna. Bang Bang filmes RJ: 2003.
 - WISNIK, Guilherme. Plástica e anonimato: modernidade e tradição em Lucio. 2007

@@ -84,6 +84,6 @@ palavras-chave:
 - SANTOS, Carlos Nelson Ferreira dos. “Preservar não é tombar, renovar não é por tudo abaixo”. Projeto, nº 86. São Paulo, abr. 1986, p. 60-61.
 - SANTOS, Milton. Espaço e método. São Paulo: Nobel, 1985. SEDREPAHC. Secretaria Extraordinária de Promoção, Defesa, Desenvolvimento e Revitalização do Patrimônio e da Memória Histórico Cultural da Cidade do Rio de Janeiro. Disponível em &lt;www.rio.rj.gov.br/sedrepahc &gt; Acesso em 28 out. 2008.
 - VEREADOR luta pela Cobal do Humaitá. Rio, A Cidade Partida. Disponível em: &lt;www.consciencia.net/opiniao/rio-barreto/administracao01.html&gt; Acesso em 15 jul. 2008.
-- VILELA, Pierre Santos. Distribuição de hortifrutis no Brasil: uma nova oportunidade para os produtores rurais. FAEMG: Belo Horizonte, 2006. Disponível em: http://www.faemg.org.br
+- VILELA, Pierre Santos. Distribuição de hortifrutis no Brasil: uma nova oportunidade para os produtores rurais. FAEMG: Belo Horizonte, 2006. Disponível em: &lt;<a href="http://www.faemg.org.br">http://www.faemg.org.br</a>&gt;
 - XAVIER, Alberto, BRITTO, A. e NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro, São Paulo: Pini, Fundação Vilanova Artigas; Rio de Janeiro: Rio Arte, 1991.
 - ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Vitruvius nº084, mai. 2007. Disponível em: &lt;www.vitruvius.com.br/arquitextos/arq084/arq084_00.asp&gt; Acesso em 15 nov. 2008.

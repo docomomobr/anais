@@ -69,10 +69,10 @@ palavras-chave:
 ## Referências
 
 - AMORIM, L., LOUREIRO, C. The Space of architecture and a new conservation agenda. City & Time, v.2, p.1/1 -10, 2007. Disponível em: www.ct.ceci-br.org. Acesso em: 02 Nov. 2009.
-- AMORIM, Luiz; LOUREIRO, Claudia. Por uma arquitetura social: A influência de Richard Neutra em prédios escolares no Brasil. Vitruvius. São Paulo. Janeiro, 2002. Disponível em: http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp. Acesso em 20 de setembro de 2010.
+- AMORIM, Luiz; LOUREIRO, Claudia. Por uma arquitetura social: A influência de Richard Neutra em prédios escolares no Brasil. Vitruvius. São Paulo. Janeiro, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp">http://www.vitruvius.com.br/arquitextos/arq020/arq020_03.asp</a>&gt; Acesso em 20 de setembro de 2010.
 - BRANDI, Cesare. Teoria da Restauração. 2ed. São Paulo: Ateliê Editorial, 2005
 - CAPLE, Chris. Conservation Skills: Judgement, Method and Decision Making. New York: Routledge, 2000.
-- CUNHA, Marcus Vinícius da. John Dewey e o pensamento educacional brasileiro: a centralidade da noção de movimento. Revista Brasileira de Educação. Nº 17, Mai/jun/jul/ago. 2001. Disponível em: http://www.anped.org.br/rbe/rbedigital/rbde17/ rbde17_08_marcus_vinicius_da_cunha.pdf. Acesso em 14 de dezembro de 2010.
+- CUNHA, Marcus Vinícius da. John Dewey e o pensamento educacional brasileiro: a centralidade da noção de movimento. Revista Brasileira de Educação. Nº 17, Mai/jun/jul/ago. 2001. Disponível em: &lt;<a href="http://www.anped.org.br/rbe/rbedigital/rbde17/">http://www.anped.org.br/rbe/rbedigital/rbde17/</a>&gt; rbde17_08_marcus_vinicius_da_cunha.pdf. Acesso em 14 de dezembro de 2010.
 - FREITAS, Cândida. O Parque 13 de Maio na Modernização do Recife. Dissertação de mestrado. Recife: Mestrado em Desenvolvimento Urbano, 2006.
 - GUILLET, Anne-Laure. Docomomo International: Modernity as Heritage. IN: MACDONALD, Susan. NORMANDIN, Kyle. KINDRED, Bob. (org) Conservation of Modern Architecture. Shaftesbury: Donhead, 2007. p. 151-156.
 - HARCHAMBOIS, Monica; CABRAL, Marina Campello. O pós-intervenção: monitoramento e controle. CECI. Olinda, 2009.

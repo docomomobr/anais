@@ -63,17 +63,17 @@ palavras-chave:
 
 ## Referências
 
-- ABI. O Brasil perde o humanista Niemeyer. Rio de Janeiro: 2013-ABI, 2012. Disponível em http://www.abi.org.br/o-brasil-perde-o-humanista-niemeyer/ . Último acesso em 26/05/2023.
+- ABI. O Brasil perde o humanista Niemeyer. Rio de Janeiro: 2013-ABI, 2012. Disponível em &lt;<a href="http://www.abi.org.br/o-brasil-perde-o-humanista-niemeyer/">http://www.abi.org.br/o-brasil-perde-o-humanista-niemeyer/</a>&gt; . Último acesso em 26/05/2023.
 - ANASTASIA, Carla Maria Junho. De Drummond a Rodrigues: venturas e desventuras dos brasileiros no governo JK. Em Anos JK : margens da modernidade, organizador Wander Melo Miranda. São Paulo : Imprensa Oficial ; Rio de Janeiro : Casa de Lucio Costa, 2002.
-- BLIKSTEIN, Izidoro. Dictionnaire de linguistique. São Paulo: Cultrix, 2006DEDECCA, Paula Gorenstein. Sociabilidade, crítica e posição: o meio arquitetônico, as revistas especializadas e o debate do moderno em São Paulo (1945-1965). São Paulo: PUC-RIO, 2016. Disponível em: https://www.maxwell.vrac.puc- rio.br/32491/32491.PDF . Último acesso em 26/05/2023.
+- BLIKSTEIN, Izidoro. Dictionnaire de linguistique. São Paulo: Cultrix, 2006DEDECCA, Paula Gorenstein. Sociabilidade, crítica e posição: o meio arquitetônico, as revistas especializadas e o debate do moderno em São Paulo (1945-1965). São Paulo: PUC-RIO, 2016. Disponível em: &lt;<a href="https://www.maxwell.vrac.puc-">https://www.maxwell.vrac.puc-</a>&gt; rio.br/32491/32491.PDF . Último acesso em 26/05/2023.
 - EDITORIAL. Revista Módulo, ano 3, número 7, p. 20 a 27. Rio de Janeiro: Módulo, 1957.
 - HOBSBAWM, Eric. Tempos fraturados : cultura e sociedade no século XX. São Paulo: Companhia das Letras, 2013.
-- IPHAN, et. al. Relatório do Plano Piloto de Brasília. Brasília: IPHAN, 2018. Disponível em http://portal.iphan.gov.br/uploads/publicacao/lucio_costa_miolo_2018_reimpressao_.pdf . Último acesso em 26/05/2023.
-- LUANDE, Francisco. O projeto para o Plano-piloto e o pensamento de Lúcio Costa. Arquitextos. 2000–2023 Vitruvius: Arquitextos, 2007. Disponível em https://vitruvius.com.br/revistas/read/arquitextos/08.087/223 . Último acesso em: 26/05/2023.
+- IPHAN, et. al. Relatório do Plano Piloto de Brasília. Brasília: IPHAN, 2018. Disponível em &lt;<a href="http://portal.iphan.gov.br/uploads/publicacao/lucio_costa_miolo_2018_reimpressao_.pdf">http://portal.iphan.gov.br/uploads/publicacao/lucio_costa_miolo_2018_reimpressao_.pdf</a>&gt; . Último acesso em 26/05/2023.
+- LUANDE, Francisco. O projeto para o Plano-piloto e o pensamento de Lúcio Costa. Arquitextos. 2000–2023 Vitruvius: Arquitextos, 2007. Disponível em &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/08.087/223">https://vitruvius.com.br/revistas/read/arquitextos/08.087/223</a>&gt; . Último acesso em: 26/05/2023.
 - MENDES, José Guilherme. Revista Módulo, ano 2, número 6, p. 08 a 27. Rio de Janeiro: Módulo, 1956.
 - MINDLIN, Henrique. Arquitetura Moderna no Brasil. (Lauro Cavalcanti, org.). Rio de Janeiro: Aeroplano, 2000.
-- NOVACAP. Revista Brasília [n.1]. Arquivo Público do Distrito Federal. Brasília: Novacap, 1957. https://www.arpdf.df.gov.br/revista-brasilia/ .
+- NOVACAP. Revista Brasília [n.1]. Arquivo Público do Distrito Federal. Brasília: Novacap, 1957. &lt;<a href="https://www.arpdf.df.gov.br/revista-brasilia/">https://www.arpdf.df.gov.br/revista-brasilia/</a>&gt; .
 - OLIVEIRA, Lúcia Lippi. Tempos de JK : a construção do futuro e a preservação do passado. Em Anos JK : margens da modernidade, organizador Wander Melo Miranda. São Paulo : Imprensa Oficial ; Rio de Janeiro : Casa de Lucio Costa, 2002.
 - PATTO SÁ, Rodrigo. Em Guarda Contra o Perigo Vermelho: O Anticomunismo no Brasil (1917-1964). São Paulo: Faculdade de Filosofia, Letras e Ciências Humanas da USP, 2000.
 - PATTO SÁ, Rodrigo. Uma outra face dos anos JK: mobilizações de direita. Em Anos JK : margens da modernidade, organizador Wander Melo Miranda. São Paulo : Imprensa Oficial ; Rio de Janeiro : Casa de Lucio Costa, 2002.
-- ROSSETTI, Eduardo Pierrotti. 1964-85 - Arquitetura brasileira em transe. Vitruvius: Arquitextos, 2014. Disponível em https://vitruvius.com.br/revistas/read/arquitextos/14.167/5183 . Último acesso em: 26/05/2023.
+- ROSSETTI, Eduardo Pierrotti. 1964-85 - Arquitetura brasileira em transe. Vitruvius: Arquitextos, 2014. Disponível em &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/14.167/5183">https://vitruvius.com.br/revistas/read/arquitextos/14.167/5183</a>&gt; . Último acesso em: 26/05/2023.

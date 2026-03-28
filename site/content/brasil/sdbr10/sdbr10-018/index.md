@@ -39,7 +39,7 @@ authors:
     familyname: "Leão"
     orcid: "0000-0001-9109-8127"
 doi: "10.5281/zenodo.19074108"
-zenodo_pdf_url: "https://zenodo.org/records/19074109/files/sdbr10-018.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285594/files/sdbr10-018.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
@@ -66,7 +66,7 @@ palavras-chave:
 - FAGGIN, Carlos. Carlos Millan: o traço que permanece. AU, v. 10, n. 54, São Paulo, p. 97-104, jun./jul., 1994.
 - FAGGIN, Carlos. O ateliê na formação do arquiteto: uma análise crítica o documento apresentado por Carlos Millan na FAUUSP, em 1962. Sinopses: Memória, São Paulo, p. 130-132, 1993.
 - FICHER, Sylvia; ACAYABA, Marlene Milan. Arquitetura moderna brasileira. São Paulo: Projeto, 1982.
-- FUÃO, Fernando Freitas. Brutalismo: a última trincheira do movimento moderno, dez. 2000. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949 (13/04/2013).
+- FUÃO, Fernando Freitas. Brutalismo: a última trincheira do movimento moderno, dez. 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949">http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949</a>&gt; (13/04/2013).
 - HITCHCOCK, Henry-Russel. Frank Lloyd Wright: obras 1887-1941. Barcelona: Gustavo Gili, 1982.
 - MATERA, Sergio. Carlos Millan, um estudo sobre a produção em arquitetura. São Paulo: USP, 2005. Dissertação (Mestrado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2005.
 - MILLAN, Carlos Barjas. Residência no alto de Pinheiros. Acrópole, São Paulo, v. 23, n. 276, p. 420-423, nov. 1961.
@@ -76,5 +76,5 @@ palavras-chave:
 - XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura moderna Paulistana, São Paulo: Pini, 1983.
 - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Porto Alegre: UFRGS, 2005. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, 2005.
 - ZEIN, Ruth Verde. Brutalismo, escola paulista: entre o ser e o não ser. Arqtexto, Porto Alegre, n. 2, p. 32-57, 1º sem. 2002.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou de como um rótulo superficial é, por isso mesmo, adequado), mai. 2007. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243 (12/04/2013).
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou de como um rótulo superficial é, por isso mesmo, adequado), mai. 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; (12/04/2013).
 - ZEIN, Ruth Verde. Resenha bibliográfica do novo brutalismo: ética e estética. Porto Alegre, PROPAR -UFRGS, 2000. Digitado.

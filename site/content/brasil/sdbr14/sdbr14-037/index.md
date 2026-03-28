@@ -67,4 +67,4 @@ palavras-chave:
 - PEREIRA, Sandra Marques. Pressupostos ideológicos da casa actual: o espaço como veículo do ldeário moderno. CIDADES, Comunidades e Territórios, n. 8, p. 77-93, 2004.
 - REIS FILHO, Nestor Goulart. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 1970.
 - RYBCZYNSKI, Witold. La casa: historia de una ideia. 1.ª ed. Buenos Aires: Emecé Editores, 1991.
-- TRAMONTANO, Marcelo. Habitações, metrópoles e modos de vida. Por uma reflexão sobre o espaço doméstico contemporâneo. 3.º Prêmio Jovens Arquitetos, categoria "Ensaio Crítico". São Paulo: Instituto dos Arquitetos do Brasil/Museu da Casa Brasileira, 1997. Disponível em: &lt;http://www.nomads.usp.br/site/livraria/livraria.html&gt;. Acesso em: 18 fev. 2019.
+- TRAMONTANO, Marcelo. Habitações, metrópoles e modos de vida. Por uma reflexão sobre o espaço doméstico contemporâneo. 3.º Prêmio Jovens Arquitetos, categoria "Ensaio Crítico". São Paulo: Instituto dos Arquitetos do Brasil/Museu da Casa Brasileira, 1997. Disponível em: &lt;<a href="http://www.nomads.usp.br/site/livraria/livraria.html">http://www.nomads.usp.br/site/livraria/livraria.html</a>&gt; Acesso em: 18 fev. 2019.

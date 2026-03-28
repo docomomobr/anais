@@ -66,5 +66,5 @@ palavras-chave:
 - ARGAN, Giulio Carlo. Projeto e destino. São Paulo: Ática, 2001.
 - BENJAMIN, Walter. “A obra de arte na época de sua reprodutibilidade técnica” in Obras escolhidas: volume 1 - Magia e técnica, arte e política: ensaios sobre literatura e história da cultura. São Paulo: Brasiliense, 1994
 - DI PASQUALE; Salvatore. L’ arte del costruire. Tra conoscenza e scienza. Venezia: Marsilio ed. 2003
-- FERRO, Sérgio.  Arquitetura e trabalho livre. São Paulo: Cosac Naify, 2006
+- FERRO, Sérgio. Arquitetura e trabalho livre. São Paulo: Cosac Naify, 2006
 - MONEO, Rafael. La solitudine degli edifici e altri scritti. vol 1 e 2. Torino: Umberto Allemandi Editora, 2004

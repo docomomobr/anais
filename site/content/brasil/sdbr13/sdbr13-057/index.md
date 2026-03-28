@@ -54,7 +54,7 @@ authors:
     familyname: "Piccinato Junior"
     orcid: "0000-0001-5153-0931"
 doi: "10.5281/zenodo.19077485"
-zenodo_pdf_url: "https://zenodo.org/records/19077486/files/sdbr13-057.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285634/files/sdbr13-057.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -75,22 +75,22 @@ palavras-chave:
 
 - CONDE, Luiz Paulo Fernandez; ALMADA, Mauro. Panorama do Art Déco na arquitetura e no urbanismo do Rio de Janeiro. In: CZAJKOWSKI, Jorge (Org.). CENTRO DE ARQUITETURA E
 - URBANISMO (RIO DE JANEIRO, RJ). Guiada arquitetura Art Déco no Rio de Janeiro. Rio de Janeiro: Casa da Palavra, 2000. p. 5 – 20.
-- CORREIA, Telma de Barros. Art déco e indústria: Brasil, décadas de 1930 e 1940. An. mus. paul., São Paulo, v. 16, n. 2, p. 47-104, Dec. 2008. Disponível em: &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101- 47142008000200003&lng=en&nrm=iso&gt;. Acesso em: 23 mai. 2019.
+- CORREIA, Telma de Barros. Art déco e indústria: Brasil, décadas de 1930 e 1940. An. mus. paul., São Paulo, v. 16, n. 2, p. 47-104, Dec. 2008. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-</a>&gt; 47142008000200003&lng=en&nrm=iso&gt;. Acesso em: 23 mai. 2019.
 - CORREIA, Telma de Barros. O art déco na arquitetura brasileira. Revista UFG, v. 12, n. 8, 2010.
 - DINIZ, Pedro Henrique Carretta; ALMEIDA, Caliane Christie Oliveira de. Cenário déco e comércio local: a expressividade do Arte Déco e o impasse da publicidade em edificações históricas no centro comercial de Passo Fundo-RS. In: XI Mostra de Iniciação Científica e Extensão Comunitária e X Mostra de Pesquisa de Pós-Graduação IMED 2017. Passo Fundo. Anais... Passo Fundo: IMED, 2017.
 - FERRETTO, Diogo. Passo Fundo: estruturação urbana de uma cidade média gaúcha. Dissertação (Mestrado em Arquitetura e Urbanismo). Universidade de São Paulo, Planejamento Urbano e Regional. São Paulo, 2012.
-- FROTA, José Artur D’Aló; CAIXETA, Eline Maria Moura Pereira. Arquiteturas efêmeras: dois 2009. Disponível em: http://docomomo.org.br/wp-content/uploads/2016/01/053-1.pdf. Acesso em: 16 dez. 2018.
+- FROTA, José Artur D’Aló; CAIXETA, Eline Maria Moura Pereira. Arquiteturas efêmeras: dois 2009. Disponível em: &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/053-1.pdf">http://docomomo.org.br/wp-content/uploads/2016/01/053-1.pdf</a>&gt; Acesso em: 16 dez. 2018.
 - GOSCH, L. R. M. Passo Fundo, de Saturnino de Brito ao Mercosul – projetos e imagens urbanas. (Dissertação). Rio de Janeiro: FAU/UFRJ, 2000.
-- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Panorama de Passo Fundo. Disponível em https://cidades.ibge.gov.br/brasil/rs/passo-fundo/panorama. Acesso em 10 ago. 2018.
+- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Panorama de Passo Fundo. Disponível em &lt;<a href="https://cidades.ibge.gov.br/brasil/rs/passo-fundo/panorama">https://cidades.ibge.gov.br/brasil/rs/passo-fundo/panorama</a>&gt; Acesso em 10 ago. 2018.
 - KRAMER, Mara; WAIHRICH, Lorena Postal. Arquitetura Urbana de Passo Fundo: 1865-1965. Passo Fundo: Berthier, 2007. 128 p.
 - KÜMMEL, Márcia Barroso. Estudo sobre o art déco em Santa Maria/RS: o caso da avenida Rio Branco e seu patrimônio edificado. 2013. Dissertação (Mestrado em Patrimônio Cultural – Área de Concentração: Arquitetura e Patrimônio Material) – Universidade Federal de Santa Maria, Santa Maria, RS, 2013.
 - LECH, Osvandré; CZAMANSKI, Deoclides; CZAMANSKI, Ronaldo. Passo Fundo: memória e fotografia. 2. ed. Passo Fundo: Pe. Berthier, 1999.
 - MACHADO, Ironita P.; MIRANDA; Fernando B. Severo de. Passo Fundo: presentes da memória. Rio de Janeiro: MM Comunicação, 2005.
 - MALLGRAVE, Harry Francis. Modern Architectural Theory. A Historical Survey, 1673-1968. Cambridge: Cambridge University Press, 2005.
-- PASSO FUNDO. Decreto nº 134, 2013. Regulamenta o artigo 2º da lei nº 2997, 06 de janeiro de 1995, instituindo o livro tombo e dá outras providências. Passo Fundo, RS. Disponível em: https://leismunicipais.com.br/a/rs/p/passo-fundo/decreto/2013/13/134/decreto-n-134-2013- regulamenta-o-artigo-2-da-lei-n-2997-06-de-janeiro-de-1995-instituindo-o-livro-tombo-e-da-outras- providencias. Acesso em: 11 jul. 2018.
+- PASSO FUNDO. Decreto nº 134, 2013. Regulamenta o artigo 2º da lei nº 2997, 06 de janeiro de 1995, instituindo o livro tombo e dá outras providências. Passo Fundo, RS. Disponível em: &lt;<a href="https://leismunicipais.com.br/a/rs/p/passo-fundo/decreto/2013/13/134/decreto-n-134-2013-">https://leismunicipais.com.br/a/rs/p/passo-fundo/decreto/2013/13/134/decreto-n-134-2013-</a>&gt; regulamenta-o-artigo-2-da-lei-n-2997-06-de-janeiro-de-1995-instituindo-o-livro-tombo-e-da-outras- providencias. Acesso em: 11 jul. 2018.
 - PASSO FUNDO. Lei nº 2997, 06 de janeiro de 1995. Dispõe sobre a proteção do patrimônio histórico- cultural, paisagístico e natural do município de passo fundo e dá outras providências. Passo Fudo,
 - RS. Disponível em: file:///C:/Users/letic/OneDrive/Documentos/Mestrado/ABNT%20NBR%206023.2018%20- %20Referências%20-%20Elaboração.pdf. Acesso em: 11 jul. 2018.
-- PINHEIRO, Maria Lúcia Bressan. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista, São Paulo, v. 16, n. 1, jun. 2008. Disponível em: http://www.scielo.br/scielo.php?pid=S0101-47142008000100004&script=sci_abstract&tlng=pt. Acesso em: 13 mai. 2018.
+- PINHEIRO, Maria Lúcia Bressan. Arquitetura residencial verticalizada em São Paulo nas décadas de 1930 e 1940. Anais do Museu Paulista, São Paulo, v. 16, n. 1, jun. 2008. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?pid=S0101-47142008000100004&script=sci_abstract&tlng=pt">http://www.scielo.br/scielo.php?pid=S0101-47142008000100004&script=sci_abstract&tlng=pt</a>&gt; Acesso em: 13 mai. 2018.
 - PISSETI, Rodrigo Fernandes; SOUZA, Carla Farias. Art Déco e Art Nouveau: confluências. Revista Imagem, Caxias do Sul. v.1, n.1, Jun./Dez. 2011, p. 17-24.
 - REIS, Márcio Vinicius. O art déco na Obra Getuliana.
 - SALVADOR, Sabrina Carnin. As edificações art déco na paisagem urbana: um estudo de caso em Criciúma – SC. 2012. 138 p. Dissertação (Mestrado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade Federal de Santa Catarina, Florianópolis, SC, 2012.

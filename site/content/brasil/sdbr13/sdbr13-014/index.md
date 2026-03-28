@@ -72,14 +72,14 @@ palavras-chave:
 - COMISSÃO do IV Centenário. Relatório. Centro Cultural e Expositivo do Ibirapuera − Exposição de Motivos. 1954. Arquivo Histórico Wanda Svevo/Fundação Bienal de São Paulo.
 - CORONA, Eduardo. A tragédia do Ibirapuera. AD arquitetura e decoração, nº7, set.-out. 1954.
 - CRÔNICAS. Habitat nº8, jul.–set.,1952. CRÔNICAS: Ibirapuera. Habitat nº.17, jul.–ago.,1954.
-- CURI, FERNANDA ARAUJO. Burle Marx e o Parque Ibirapuera: quatro décadas de descompasso (1953 - 1993). An. mus. paul., Set 2017, vol.25, no.3, p.103-138. ISSN 0101-4714. DIsponível em: http://www.scielo.br/pdf/anaismp/v25n3/1982-0267-anaismp-25-03-103.pdf
+- CURI, FERNANDA ARAUJO. Burle Marx e o Parque Ibirapuera: quatro décadas de descompasso (1953 - 1993). An. mus. paul., Set 2017, vol.25, no.3, p.103-138. ISSN 0101-4714. DIsponível em: &lt;<a href="http://www.scielo.br/pdf/anaismp/v25n3/1982-0267-anaismp-25-03-103.pdf">http://www.scielo.br/pdf/anaismp/v25n3/1982-0267-anaismp-25-03-103.pdf</a>&gt;
 - CURI, Fernanda Araujo.
 - DEDECCA, Paula Gorenstein. Sociabilidade, crítica e posição: o meio arquitetônico, as revistas especializadas e o debate do moderno em São Paulo (1945-1965). (Dissertação de mestrado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2012.
 - ESTÁ acéfala a Comissão do IV Centenário. O Estado de S. Paulo, 29/12/1955.
 - EXPOSIÇÃO do IV Centenário. Acrópole, Ano 16, n.185, 1954, pp.210-218.
 - GONÇALVES, Simone Neiva Loures. Museus projetados por Oscar Niemeyer de 1951 a 2006: o programa como coadjuvante. Tese (Doutorado) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2010.
 - JUNQUEIRA, Monica. A presença brasileira na historiografia da arquitetura do século XX. In Desígnio Ns. 11/12, São Paulo, mar.2011, pp. 73-88.
-- MARINS, Paulo César Garcez. O Parque Ibirapuera e a construção da identidade paulista. Anais do Museu Paulista − história e cultura material, São Paulo, v. 67, p. 936, 1999. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47141999000100002&lng=en&nrm=iso.
+- MARINS, Paulo César Garcez. O Parque Ibirapuera e a construção da identidade paulista. Anais do Museu Paulista − história e cultura material, São Paulo, v. 67, p. 936, 1999. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47141999000100002&lng=en&nrm=iso">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47141999000100002&lng=en&nrm=iso</a>&gt;
 - MARTINS, Ibiapaba. Ibirapuera: orgulho e vergonha de São Paulo. Última Hora, 30/12/1955.
 - MARTINS, Luis. O destino do Ibirapuera. O Estado de S. Paulo, 09/09/1955.
 - MINDLIN, Henrique E. Modern architecture in Brazil. New York: Reinhold Publishing Corporation, 1956.

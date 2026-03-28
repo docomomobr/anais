@@ -82,8 +82,8 @@ palavras-chave:
 - PAPADAKI, Stamo. Oscar Niemeyer: Works in progress. New York: Reinhold, 1956.
 - PAPADAKI, Stamo. The work of Oscar Niemeyer. New York: Reinhold, 1950.
 - ROSSETTI. Eduardo Pierrotti. Arquiteturas de Brasília. Brasília: ITS, 2012.
-- ROSSETTI. Eduardo Pierrotti. “Brasília, 1959: a cidade em obras e o Congresso Internacional Extraordinário dos Críticos de Arte” in Portal Vitruvius (agosto/2009) http://www.vitruvius.com.br/revistas/read/arquitextos/10.111/34
-- ROSSETTI. Eduardo Pierrotti. “Pavilhão Serpentine 2013: Impressões e provocações de uma arquitetura efêmera” in Portal Vitruvius (dezembro/2013) http://www.vitruvius.com.br/revistas/read/arquitextos/14.163/4988
+- ROSSETTI. Eduardo Pierrotti. “Brasília, 1959: a cidade em obras e o Congresso Internacional Extraordinário dos Críticos de Arte” in Portal Vitruvius (agosto/2009) &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/10.111/34">http://www.vitruvius.com.br/revistas/read/arquitextos/10.111/34</a>&gt;
+- ROSSETTI. Eduardo Pierrotti. “Pavilhão Serpentine 2013: Impressões e provocações de uma arquitetura efêmera” in Portal Vitruvius (dezembro/2013) &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/14.163/4988">http://www.vitruvius.com.br/revistas/read/arquitextos/14.163/4988</a>&gt;
 - ROSSETTI, Eduardo Pierrotti. Arquitetura em transe. Lucio Costa, Oscar Niemeyer, Vilanova Artigas e Lina Bo Bardi: nexos da arquitetura brasileira pós-Brasília [1960-85]. São Paulo: FAU-USP, Tese de Doutorado, 2007.
 - STEVENS, Garry. O Círculo privilegiado. Brasília, Ed. UnB, 2003.
 - TAFURI, Manfredo. Teorias e história da Arquitectura. Lisboa: Editorial Presença, 1988. 2ª ed.

@@ -73,18 +73,18 @@ palavras-chave:
 - CARVALHO, Claudia Rodrigues De. Conservação preventiva de edifícios e sítios históricos: pesquisa e prática. Revista CPC, n. 18, p. 141, 2014.
 - CARVALHO, Cláudia Rodrigues De. Preservação da Arquitetura Moderna: edifícios de escritórios no Rio de Janeiro construídos entre 1930 -1960. 2005. Tese de doutorado – São Paulo, 2005.
 - COELHO, Carla Maria Teixeira. Habitação coletiva moderna no Rio de Janeiro: considerações sobre sua preservação. Revista CPC, v. 22, p. 15–40, 2017.
-- CONPRESP. Resolução No19/2012 - Tombamento do Conjunto de Edifícios Modernos. . [S.l: s.n.]. Disponível em: &lt;https://www.prefeitura.sp.gov.br/cidade/upload/1912res_1374185859.pdf&gt;. Acesso em: 23 jun. 2023. , 2012
+- CONPRESP. Resolução No19/2012 - Tombamento do Conjunto de Edifícios Modernos. . [S.l: s.n.]. Disponível em: &lt;<a href="https://www.prefeitura.sp.gov.br/cidade/upload/1912res_1374185859.pdf">https://www.prefeitura.sp.gov.br/cidade/upload/1912res_1374185859.pdf</a>&gt; Acesso em: 23 jun. 2023. , 2012
 - MARCHETTO, Kátia Fernanda. Habitar o patrimônio Moderno. 2017. Dissertação de Mestrado – Universidade Federal do Rio Grande do Sul, Porto Alegre, 2017.
 - FRENCH, Hilary. Os mais importantes conjuntos habitacionais do século XX. Porto Alegre: Bookman, 2009.
 - MACDONALD, Susan. 20th Century Heritage: recognition, protection and practical challenges.
-- ICOMOS World Report 2002-2003 on monuments and sites in danger, 2002. Disponível em: &lt;https://www.icomos.org/risk/2002/20th2002.htm#&gt;.
+- ICOMOS World Report 2002-2003 on monuments and sites in danger, 2002. Disponível em: &lt;<a href="https://www.icomos.org/risk/2002/20th2002.htm#">https://www.icomos.org/risk/2002/20th2002.htm#</a>&gt;
 - MACDONALD, Susan. 20th-Century Heritage: Recognition, Protection and Practical Challenges.
 - ICOMOS World Report 2002-2003 on monuments and sites in danger. [S.l: s.n.], 2003. p. 223–229.
 - MACDONALD, Susan. Modern matters. Principles and practices in conserving recent architecture. Shaftesbury: Donhead Publishing, 1996.
 - MACDONALD, Susan; NORMANDIN, Kyle C.; KINDRED, Bob. Conservation of Modern Architecture. [S.l.]: Routledge, 2007.
 - MOREIRA, Fernando Diniz. Os desafios postos pela conservação da arquitetura moderna. Revista
 - CPC, v. 0, n. 11, 1 abr. 2011.
-- NASCIMENTO, Flávia Brito Do. A restauração do conjunto residencial do Pedregulho: trajetória da arquitetura moderna e desafio contemporâneo. Revista CPC, v. 22, p. 138–175, 2017. Disponível em: &lt;http://dx.doi.org/10.11606/issn.1980-4466.v0iesp22p138-175&gt;.
+- NASCIMENTO, Flávia Brito Do. A restauração do conjunto residencial do Pedregulho: trajetória da arquitetura moderna e desafio contemporâneo. Revista CPC, v. 22, p. 138–175, 2017. Disponível em: &lt;<a href="http://dx.doi.org/10.11606/issn.1980-4466.v0iesp22p138-175">http://dx.doi.org/10.11606/issn.1980-4466.v0iesp22p138-175</a>&gt;
 - PRUDON, Theodore H. M. Preservation of Modern Architecture. [S.l.]: Wiley Press, 2008.
 - SENA, Luciana. Copan luta para escapar do “inferno”. Jornal Folha de São Paulo, 25 jun. 1995.
 - XAVIER, Alberto; LEMOS, Carlos A. C.; CORONA, Eduardo. Arquitetura moderna paulistana. São Paulo: Romano Guerra, 2017.

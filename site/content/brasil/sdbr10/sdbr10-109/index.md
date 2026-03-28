@@ -55,4 +55,4 @@ palavras-chave:
 - XAVIER, Alberto [et al.]. Arquitetura moderna paulistana. São Paulo, Pini, 1983.
 - XAVIER, Alberto/ MIZOGUCHI, Ivan. Arquitetura Moderna em Porto Alegre. São Paulo, Pini, 1987.
 - ZEIN, Ruth Verde. Arquitetura da escola paulista brutalista (1953-1973). Porto Alegre, PROPAR-UFRGS (Tese de Doutorado em Arquitetura), 2005.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Vitruvius, 2006. http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Vitruvius, 2006. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt;

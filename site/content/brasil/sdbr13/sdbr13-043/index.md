@@ -47,7 +47,7 @@ authors:
     familyname: "Lima"
     orcid: "0000-0003-4200-1805"
 doi: "10.5281/zenodo.19077431"
-zenodo_pdf_url: "https://zenodo.org/records/19077432/files/sdbr13-043.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285633/files/sdbr13-043.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -68,14 +68,14 @@ palavras-chave:
 - BARDI, Lina Bo. Arquitetura e natureza ou natureza e arquitetura (manuscrito da Conferência realizada na II Semana de Arquitetura na Casa da França), 27 set. 1958. Instituto Lina Bo e P. M. Bardi. Documento digitalizado.
 - BARRETO, Demis I. S. [et. al.]. A arquitetura popular no Brasil. Rio de Janeiro: Bom Texto, 2010.
 - BIERRENBACH, Ana Carolina de Souza. Entre adultos e crianças: considerações sobre o processo criativo de Lina Bo Bardi. Pós – Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v. 15, n. 24, p. 44-61, dez. 2008.
-- BIERRENBACH, Ana Carolina de Souza. Lina Bo Bardi: abstração e mimese. Parc: pesquisa em arquitetura e construção, Campinas, v.1, n. 1, p. 1-23, 2006. Disponível em: &lt;https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8634525/2446&gt;. Acesso em: 13 mar. 2019.
+- BIERRENBACH, Ana Carolina de Souza. Lina Bo Bardi: abstração e mimese. Parc: pesquisa em arquitetura e construção, Campinas, v.1, n. 1, p. 1-23, 2006. Disponível em: &lt;<a href="https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8634525/2446">https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8634525/2446</a>&gt; Acesso em: 13 mar. 2019.
 - COSTA, Maria Elizabeth de Andrade. Cultura popular. In: REZENDE, Maria Beatriz; GRIECO, Bettina; TEIXEIRA, Luciano; THOMPSON, Analucia (Orgs.). Dicionário IPHAN de Patrimônio Cultural. Rio de Janeiro, Brasília: IPHAN/DAF/Copedoc, 2015.
 - GELMINI, Gianluca. Frank Lloyd Wright. São Paulo: Folha de São Paulo, 2011.
 - GURGEL, Ana Paula Campos. Diálogos entre Lina Bo Bardi e Julienne Hanson: a produção arquitetônica residencial modernista brasileira sob a ótica da sintaxe espacial.
 - Dearq, Bogotá, n. 23, p. 36-45, jan. 2018.Universidad de Los Andes. Disponível em: &lt;http://dx.doi.org/10.18389/dearq23.2018.03&gt;.Acesso em: 13 mar. 2019. HABITAT: revista das artes no Brasil. São Paulo: Habitat, n. 1, out./dez., 1950.
 - HITCHCOCK, Henry-Russel. Frank Lloyd Wright: obras 1887-1941. Barcelona: Gustavo Gili, 1978.
 - KOSTOF, Spiro. The architect. Oxford University Press, 1977.
-- LIMA, Zeuler. Lina Bo Bardi: em busca de uma arquitetura pobre. AU. São Paulo, n. 249, dez. 2014. Disponível em: &lt;http://au17.pini.com.br/arquitetura-urbanismo/249/artigo334011-1.aspx&gt;. Acesso em: 16 mar. 2019. Lina Bo Bardi: obra construída. 2G. Barcelona: Gustavo Gili, v. 2, n. 23-24, 2002.
+- LIMA, Zeuler. Lina Bo Bardi: em busca de uma arquitetura pobre. AU. São Paulo, n. 249, dez. 2014. Disponível em: &lt;<a href="http://au17.pini.com.br/arquitetura-urbanismo/249/artigo334011-1.aspx">http://au17.pini.com.br/arquitetura-urbanismo/249/artigo334011-1.aspx</a>&gt; Acesso em: 16 mar. 2019. Lina Bo Bardi: obra construída. 2G. Barcelona: Gustavo Gili, v. 2, n. 23-24, 2002.
 - LINA Bo Bardi. São Paulo: Instituto Lina Bo e P. M. Bardi, 1996.
 - MADDEX, Diane. Wright-sized houses. London: Thames & Hudson, 2005.
 - MATHEY, Kosta. Identidades culturais - sustentabilidade social - coesão social. In: Nycolass, Renee [et al.]. Construindo Comunidades para as Cidades do Futuro. Report of the 54th IFHP World Congress 2010. Porto Alegre:2010, p. 45-56.
@@ -83,10 +83,10 @@ palavras-chave:
 - OLIVEIRA, Olivia; KON, Nelson (fotografias). Lina Bo Bardi: obra construída. São Paulo: Gustavo Gili, 2014.
 - OLIVEIRA, Olivia de. Lina Bo Bardi: sutis substâncias da arquitetura. São Paulo: Romano Guerra; Gustavo Gili, 2006.
 - OLIVER, Paul. Dwellings. London: Phaidon Press Limited, 2003.
-- PEREA, Silvia. Sincretismo y discontinuidad en la casa Chame Chame. In: 50 ANOS de Lina Bo Bardi na encruzilhada da Bahia e do Nordeste. Salvador: Docomomo Bahia, 2009, p. 1-12. Disponível em: &lt;http://www.docomomobahia.org/linabobardi_50/20.pdf&gt;. Acesso em: 30 abr. 2019.
+- PEREA, Silvia. Sincretismo y discontinuidad en la casa Chame Chame. In: 50 ANOS de Lina Bo Bardi na encruzilhada da Bahia e do Nordeste. Salvador: Docomomo Bahia, 2009, p. 1-12. Disponível em: &lt;<a href="http://www.docomomobahia.org/linabobardi_50/20.pdf">http://www.docomomobahia.org/linabobardi_50/20.pdf</a>&gt; Acesso em: 30 abr. 2019.
 - PEREIRA, Maíra Teixeira. As casas de Lina Bo Bardi e os sentidos de habitat. Brasília: UNB,
 - FAU, 2014. Tese (Doutorado em Arquitetura) – Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, Brasília, 2014.
-- PEREIRA, Maíra Teixeira; SCHLEE, Andrey Rosenthal. Reconstruindo lugares: a ação de Lina em Salvador. In: 50 ANOS de Lina Bo Bardi na encruzilhada da Bahia e do Nordeste. Salvador: Docomomo Bahia, 2009, p. 1-11. Disponível em: &lt;http://www.docomomobahia.org/linabobardi_50/13.pdf&gt;. Acesso em: 13 mar. 2019.
+- PEREIRA, Maíra Teixeira; SCHLEE, Andrey Rosenthal. Reconstruindo lugares: a ação de Lina em Salvador. In: 50 ANOS de Lina Bo Bardi na encruzilhada da Bahia e do Nordeste. Salvador: Docomomo Bahia, 2009, p. 1-11. Disponível em: &lt;<a href="http://www.docomomobahia.org/linabobardi_50/13.pdf">http://www.docomomobahia.org/linabobardi_50/13.pdf</a>&gt; Acesso em: 13 mar. 2019.
 - PFEIFFER, Bruce Brooks. Frank Lloyd Wright: 1867-1959. Köln: Taschen, 2006.
 - PFEIFFER, Bruce Brooks. Frank Lloyd Wright. Köln: Taschen, 1993.
 - RAPOPORT, Amos. Vivenda y Cultura. Barcelona: Editorial Gustavo Gilli S. A. 1972.
@@ -97,5 +97,5 @@ palavras-chave:
 - TAGLIARI, Ana. Frank Lloyd Wright: princípio espaço e forma na arquitetura residencial. São Paulo: Annablume, 2011.
 - ZEVI, Bruno. Frank Lloyd Wright. Bologna: Zanichelli, 1979.
 - ZOLLINGER, Carla. Lina Bo Bardi. 1951: Casa de Vidro, 1964: “Niente Vetri” (Pavilhão e recinto: o desenvolvimento de dois tipos).
-- Arquitextos, São Paulo, v. 07, n. 082.06, Vitruvius, mar. 2007 Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/07.082/265&gt; . Acesso em: 13 mar. 2019.
-- ZOLLINGER, Carla. Lina Bo Bardi, a residência do administrador do Unhão: o pavilhão e o recinto. Cadernos Ppg-AU/FAUFBA, Bahia, v. 6, p.89-104, 2007. Número especial. Disponível em: &lt;https://portalseer.ufba.br/index.php/ppgau/article/view/2638/1860&gt;. Acesso em: 13 mar. 2019.
+- Arquitextos, São Paulo, v. 07, n. 082.06, Vitruvius, mar. 2007 Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.082/265">http://www.vitruvius.com.br/revistas/read/arquitextos/07.082/265</a>&gt; . Acesso em: 13 mar. 2019.
+- ZOLLINGER, Carla. Lina Bo Bardi, a residência do administrador do Unhão: o pavilhão e o recinto. Cadernos Ppg-AU/FAUFBA, Bahia, v. 6, p.89-104, 2007. Número especial. Disponível em: &lt;<a href="https://portalseer.ufba.br/index.php/ppgau/article/view/2638/1860">https://portalseer.ufba.br/index.php/ppgau/article/view/2638/1860</a>&gt; Acesso em: 13 mar. 2019.

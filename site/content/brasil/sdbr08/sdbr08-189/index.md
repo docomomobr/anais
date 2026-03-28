@@ -38,7 +38,7 @@ authors:
     affiliation: "UNIDERP"
     orcid: "0000-0002-7288-5173"
 doi: "10.5281/zenodo.19073499"
-zenodo_pdf_url: "https://zenodo.org/records/19073500/files/sdbr08-189.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285575/files/sdbr08-189.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:

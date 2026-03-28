@@ -41,10 +41,10 @@ autores:
 
 - BARCELOS, Giovani da Silva. Cidade Imaginária e Cidade Real: um estudo urbanístico sobre Porto Velho a partir do Plano de Ação Imediata de 1972. / Giovani da Silva Barcelos. Porto Velho, Rondônia, 2015.
 - CATANHEDE, Antônio. Achegas para a história de Porto Velho. Manaus: Seção de Artes Gráficas da Escola Técnica de Manaus, 1950.
-- CRUZ, Oswaldo Gonçalves. Considerações geraes sobre as condições sanitárias do Rio Madeira. Rio de Janeiro: Papelaria Americana, 1910. Disponível em https://bit.ly/2TbolIS. Acessado em: 20 jun 2021.
+- CRUZ, Oswaldo Gonçalves. Considerações geraes sobre as condições sanitárias do Rio Madeira. Rio de Janeiro: Papelaria Americana, 1910. Disponível em &lt;<a href="https://bit.ly/2TbolIS">https://bit.ly/2TbolIS</a>&gt; Acessado em: 20 jun 2021.
 - FONSECA, Dante Ribeiro da.; TEIXEIRA, Marco Antônio Domingues. História Regional. 3ª. ed. Porto Velho: Rondoniana, 2001
-- GORAYEB, Anísio. Do fundo do baú: primeiro conjunto habitacional do Brasil em Porto Velho. Gente de Opinião, Porto Velho, 2019. Disponível em https://bit.ly/3dmV05b. Acesso em: 25 junho 2021.
-- LEE, Cathy. The homestead act. Ashburn: Roy Rosenzweig Center for History and New Media, 2013. Disponível em https://bit.ly/2SuatJg. Acesso em: 21 jun 2021.
+- GORAYEB, Anísio. Do fundo do baú: primeiro conjunto habitacional do Brasil em Porto Velho. Gente de Opinião, Porto Velho, 2019. Disponível em &lt;<a href="https://bit.ly/3dmV05b">https://bit.ly/3dmV05b</a>&gt; Acesso em: 25 junho 2021.
+- LEE, Cathy. The homestead act. Ashburn: Roy Rosenzweig Center for History and New Media, 2013. Disponível em &lt;<a href="https://bit.ly/2SuatJg">https://bit.ly/2SuatJg</a>&gt; Acesso em: 21 jun 2021.
 - MOURA, Rosa Maria Garcia Rolim de. Protomodernismo em Pelotas. Pelotas: Ed. Universitária/UFPel, 2005.
 - NASCIMENTO, Cláudia Pinheiro. Cenário da produção espacial urbana de Porto Velho. Dissertação de Pós- Graduação Stricto Sensu (Mestrado em Geografia) – Fundação Universidade Federal de Rondônia (UNIR). Orientador: Profº Dr. Carlos Santos. Porto Velho: Universidade Federal de Rondônia, 2009.
 - OLIVEIRA, Ovídio Amélio de. História, desenvolvimento e colonização do Estado de Rondônia. Porto Velho: Dinâmica Editora e Distribuidora Ltda, 2001

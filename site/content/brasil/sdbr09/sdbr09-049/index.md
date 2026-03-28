@@ -61,4 +61,4 @@ palavras-chave:
 - O Sol Informativo do Clube de Regatas JAÓ, Goiânia. O Sol, nº 1, nov. 1962.
 - O Sol Informativo do Clube de Regatas JAÓ, Goiânia. O Sol, nº 24, ago. 1967.
 - RIBEIRO, Maria Eliana Jubé. Goiânia: os planos, a cidade e o sistema de áreas verdes. Goiânia: Ed. da UCG, 2004.
-- SEGRE, Roberto. Sérgio Bernardes (1919-2002). Entre el regionalismo y el high tech (editorial). Arquitextos, São Paulo, 03.026, Vitruvius, jul 2002. &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/764&gt;.
+- SEGRE, Roberto. Sérgio Bernardes (1919-2002). Entre el regionalismo y el high tech (editorial). Arquitextos, São Paulo, 03.026, Vitruvius, jul 2002. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/764">http://www.vitruvius.com.br/revistas/read/arquitextos/03.026/764</a>&gt;

@@ -57,13 +57,13 @@ palavras-chave:
 ## Referências
 
 - Alves, Railda; Brasileiro, Maria do Carmo; Brito, Suerde. “Interdisciplinaridade: um conceito em construção.” Episteme, 19: 139-148, 2004.
-- Campomori, Mauricio. “A transdisciplinaridade e o ensino de projeto de arquitetura”. Arquitextos, Maio 2004. http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/588/.
+- Campomori, Mauricio. “A transdisciplinaridade e o ensino de projeto de arquitetura”. Arquitextos, Maio 2004. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/588/">http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/588/</a>&gt;
 - Cabral, Cláudia Costa. “Sobre unidades e conceitos: perspectivas históricas e perspectivas teóricas no trabalho de crítica em arquitetura”. In II Seminário Arquitetura e Conceito, Belo Horizonte: UFMG, 2005.
 - Fazenda, Ivani. Interdisciplinaridade: História, teoria e pesquisa. Campinas: Papirus, 1994.
 - Gusdorf, Georges. “Past, present and future in interdisciplinary research future.” Revue Internationale de Sciences Sociales, 29: 627-648, 1977.
 - Graham, Dan. El arte con relación a la arquitectura. La arquitectura con relación al arte. Barcelona: Gustavo Gili, 2009.
 - Japiassú, Hilton. Interdisciplinaridade e patologia do saber. Rio de Janeiro: Imago, 1976.
-- Minayo, Maria Cecília de Souza. “Interdisciplinaridade: funcionalidade ou utopia?” Saúde e Sociedade, 3:42-64, 1994. Pérez Carreño, Francisca. “El formalismo y el desarrollo de la historia del arte”. In  Historia de las ideas estéticas y de las teorías artísticas contemporáneas, v. II, org. Valeriano Bozal,  189.  Madrid: visor, 1996.
-- Pombo, Olga. “Epistemologia da interdisciplinaridade”. Revista do Centro de Educação e Letras, 10: 9-40, 2008. _.“Interdisciplinaridade e integração dos saberes”.  Liinc em Revista, Março 2005. http://www.ibict.br/liinc/ Solà-Morales, Ignasi. “Prácticas teóricas, prácticas históricas, prácticas arquitectónicas.”, In Inscripciones, Barcelona: Gustavo Gili, 2003.
+- Minayo, Maria Cecília de Souza. “Interdisciplinaridade: funcionalidade ou utopia?” Saúde e Sociedade, 3:42-64, 1994. Pérez Carreño, Francisca. “El formalismo y el desarrollo de la historia del arte”. In Historia de las ideas estéticas y de las teorías artísticas contemporáneas, v. II, org. Valeriano Bozal, 189. Madrid: visor, 1996.
+- Pombo, Olga. “Epistemologia da interdisciplinaridade”. Revista do Centro de Educação e Letras, 10: 9-40, 2008. _.“Interdisciplinaridade e integração dos saberes”. Liinc em Revista, Março 2005. &lt;<a href="http://www.ibict.br/liinc/">http://www.ibict.br/liinc/</a>&gt; Solà-Morales, Ignasi. “Prácticas teóricas, prácticas históricas, prácticas arquitectónicas.”, In Inscripciones, Barcelona: Gustavo Gili, 2003.
 - Sinaceur, Mohammed Allal. “What is interdisciplinarity?. Revue Internationale de Sciences Sociales, 29: 571-579, 1977.
 - Vidler, Anthony. “Los territorios de la historia de la arquitectura” In Inscripciones, Barcelona: Gustavo Gili, 2003.

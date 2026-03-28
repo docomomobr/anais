@@ -66,12 +66,12 @@ palavras-chave:
 - FUCKS, A. M. S; FRANÇA, M.N.; PINHEIRO, M.S.F. Guia para normalização de publicações técnico-científicas. Uberlândia: EDUFU, 2013.
 - GOODWIN, PhilipL. SMITH, G. E. Kider. Brasil Builds: architecture new and old 1652-1942. New York: The Museum of Modern Art, 1943.
 - GOUVEIA, S. M. Milani. A fotografia de arquitetura de Peter Scheier em três publicações. In: 8º Seminário
-- DOCOMOMO Brasil, 2008, Rio de Janeiro. Anais eletrônicos... Rio de Janeiro: 2008, DOCOMOMO Brasil, Trabalhos. Disponível em: &lt;http://www.docomomo.org.br/seminario%208%20pdfs/015.pdf&gt;. Acesso em: 18 março 2015.
+- DOCOMOMO Brasil, 2008, Rio de Janeiro. Anais eletrônicos... Rio de Janeiro: 2008, DOCOMOMO Brasil, Trabalhos. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/015.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/015.pdf</a>&gt; Acesso em: 18 março 2015.
 - KOSSOY, Boris. Os tempos da Fotografia: O Efêmero e o Perpétuo. São Paulo: Ateliê Editorial, 2007.
-- MENDÉZ, Patrícia. A fotografia na arquitetura moderna. Disponível em: &lt;http://vitruvius.com.br/revistas/read/arquitextos/08.086/229&gt;. Acesso em: 18 março 2015.
+- MENDÉZ, Patrícia. A fotografia na arquitetura moderna. Disponível em: &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/08.086/229">http://vitruvius.com.br/revistas/read/arquitextos/08.086/229</a>&gt; Acesso em: 18 março 2015.
 - PEIXOTO, J. A.; VIEIRA, A. G. S. Araguari e sua história. Goiânia: Kelps, 2013.
 - VIEIRA, Henrique. Brasília: Um olhar de Geraldo Vieira. Disponível em: &lt;http://henriquevieira.com.br/2009/04/29/brasilia-um-olhar-de-geraldo-vieira/&gt;Acesso em: 05 março 2016.
-- VIEIRA, Henrique. Brasília: Um olhar de Geraldo Vieira II. Disponível em:&lt;http://henriquevieira.com.br/2009/05/04/brasilia-um-olhar-de-geraldo-vieira-ii/&gt; Acesso em: 05 março 2016.
-- VIEIRA, Leila. A construção de Brasília sobre o olhar de Geraldo Vieira. Disponível em: &lt;http://leilavieira.wordpress.com/2009/06/23/a-construcao-de-brasilia-sob-o-olhar-de geraldo-vieira/&gt;. Acesso em: 05 março 2016.
-- VIEIRA, Leila. Geraldo Vieira na capa da Photo Magazine. Disponível em: &lt;https://leilavieira.wordpress.com/2010/04/19/geraldo-vieira-na-capa-da-photo-magazine/&gt; Acesso em: 05 março 2016.
-- VIEIRA, Leila. O acervo fotográfico de Geraldo Vieira. Disponível em: &lt; https://leilavieira.wordpress.com/2010/01/21/o-acervo-fotografico-de-geraldo-vieira/Acesso em: 05 março 2016.
+- VIEIRA, Henrique. Brasília: Um olhar de Geraldo Vieira II. Disponível em: &lt;<a href="http://henriquevieira.com.br/2009/05/04/brasilia-um-olhar-de-geraldo-vieira-ii/">http://henriquevieira.com.br/2009/05/04/brasilia-um-olhar-de-geraldo-vieira-ii/</a>&gt; Acesso em: 05 março 2016.
+- VIEIRA, Leila. A construção de Brasília sobre o olhar de Geraldo Vieira. Disponível em: &lt;<a href="http://leilavieira.wordpress.com/2009/06/23/a-construcao-de-brasilia-sob-o-olhar-de">http://leilavieira.wordpress.com/2009/06/23/a-construcao-de-brasilia-sob-o-olhar-de</a>&gt; geraldo-vieira/&gt;. Acesso em: 05 março 2016.
+- VIEIRA, Leila. Geraldo Vieira na capa da Photo Magazine. Disponível em: &lt;<a href="https://leilavieira.wordpress.com/2010/04/19/geraldo-vieira-na-capa-da-photo-magazine/">https://leilavieira.wordpress.com/2010/04/19/geraldo-vieira-na-capa-da-photo-magazine/</a>&gt; Acesso em: 05 março 2016.
+- VIEIRA, Leila. O acervo fotográfico de Geraldo Vieira. Disponível em: &lt;<a href="https://leilavieira.wordpress.com/2010/01/21/o-acervo-fotografico-de-geraldo-vieira/Acesso">https://leilavieira.wordpress.com/2010/01/21/o-acervo-fotografico-de-geraldo-vieira/Acesso</a>&gt; em: 05 março 2016.

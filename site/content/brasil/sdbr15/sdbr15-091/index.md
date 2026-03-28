@@ -50,7 +50,7 @@ authors:
     familyname: "Nascimento"
     orcid: "0000-0002-1447-4915"
 doi: "10.5281/zenodo.19069913"
-zenodo_pdf_url: "https://zenodo.org/records/19069914/files/sdbr15-091.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285722/files/sdbr15-091.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -71,9 +71,9 @@ palavras-chave:
 - MEDEIROS, A.D.. A obra de Severiano Mário Porto na cidade de Boa Vista: um olhar com enfoque bioclimático (dissertação). Brasília: PPGFAU/UnB, 2020 (orientador Claudia Naves David Amorim).
 - MIRANDA, C.S.; MARQUES DE CARVALHO, R.; TUTYIA, D.R.. Uma Formação em curso: esboços da graduação em Arquitetura e Urbanismo. Belém: UFPA, 2015
 - NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. Redesenho como método investigativo em Arquitetura: estudo de caso sobre a Catedral Cristo Redentor, Boa Vista/RR.. In MELO, A.A.A.; LOPES, J.A.V. (orgs) Ecos da Modernidade do Norte e do Nordeste Brasileiro. Campina Grande/PB: DOCOMOMO BR, 2022, p. 51-65.
-- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; FIOROTTI, D.R.. O papel dos documentos na pesquisa sobre arquitetura e urbanismo em Roraima: estratégias para preservação. In: Seminário de Patrimônio Cultural: o Patrimônio Cultural como ofício da História, 4., 2022, Goiás. Anais [...]. Goiás: ANPUH-BR, 2023. p. 609-622. http://www.gtpatrimonioanpuh.com.br
-- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; FREITAS, P.R.C.; LINS, J.W.R.. Brasil e Cuba: impressões e didática de uma arquiteta entre dois países. Revista de Ciência e Tecnologia, UFRR, v. 9 (2023): (Publicação Contínua) Disponível em http://revista.ufrr.br/rct/article/view/7299
-- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; ROCHA, R.S.; MELO, N.B.N.. Arquitetura Moderna em Roraima: obras de Severiano Mário Porto. Revista Amazônia Moderna, v 2 n 2, 2019. https://sistemas.uft.edu.br/periodicos/index.php/amazoniamoderna/article/ view/8513
+- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; FIOROTTI, D.R.. O papel dos documentos na pesquisa sobre arquitetura e urbanismo em Roraima: estratégias para preservação. In: Seminário de Patrimônio Cultural: o Patrimônio Cultural como ofício da História, 4., 2022, Goiás. Anais [...]. Goiás: ANPUH-BR, 2023. p. 609-622. &lt;<a href="http://www.gtpatrimonioanpuh.com.br">http://www.gtpatrimonioanpuh.com.br</a>&gt;
+- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; FREITAS, P.R.C.; LINS, J.W.R.. Brasil e Cuba: impressões e didática de uma arquiteta entre dois países. Revista de Ciência e Tecnologia, UFRR, v. 9 (2023): (Publicação Contínua) Disponível em &lt;<a href="http://revista.ufrr.br/rct/article/view/7299">http://revista.ufrr.br/rct/article/view/7299</a>&gt;
+- NASCIMENTO, C.H.C.; EVANGELISTA, F.A.. ; ROCHA, R.S.; MELO, N.B.N.. Arquitetura Moderna em Roraima: obras de Severiano Mário Porto. Revista Amazônia Moderna, v 2 n 2, 2019. &lt;<a href="https://sistemas.uft.edu.br/periodicos/index.php/amazoniamoderna/article/">https://sistemas.uft.edu.br/periodicos/index.php/amazoniamoderna/article/</a>&gt; view/8513
 - NORA, P.. Entre memória e história: a problemática dos lugares. Traduzido por Yara Aun Khoury. In: Projeto História, São Paulo, n.10, dez. 1993.
 - PAVANI, J., MATTIONI, V. Memórias de um fotógrafo topógrafo: a história de Luiz Mário Severo Ávila e a construção da BR-174. São José dos Campos/SP: Mogiana, 2020.
 - POLLAK, M.. Memória, Esquecimento, Silêncio. Revista Estudos Históricos, Rio de Janeiro, vol. 2, n. 3, p. 3- 15, 1989.
@@ -85,4 +85,4 @@ palavras-chave:
 - VÁZQUEZ RAMOS, F.G.. Conceitos gerais para compreender o redesenho como prática de pesquisa histórica em arquitetura. Encontro da Associação Nacional de Pesquisa e Pós- Graduação em Arquitetura e Urbanismo, Porto Alegre, p. 1-14, 25 jul. 2016.
 - VERAS, A.T.R.. A produção do espaço urbano de Boa Vista – Roraima. Tese (Geografia Humana). GEOUSP: espaço e tempo. São Paulo: Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, 234 f.
 - WAISMAN, M.. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo/SP: Perspectiva, 2013.
-- ZEIN, R.V.. Quando documentar não é suficiente: obras, datas, reflexões e construções teóricas. ArchDaily Brasil, 02 Dez 2012. Acessado 2 Mar 2022. https://www.archdaily.com.br/br/01-84215/quando- documentar-nao-e-suficiente-obras-datas-reflexoes-e-construcoes-teoricas-slash-ruth-verde-zein
+- ZEIN, R.V.. Quando documentar não é suficiente: obras, datas, reflexões e construções teóricas. ArchDaily Brasil, 02 Dez 2012. Acessado 2 Mar 2022. &lt;<a href="https://www.archdaily.com.br/br/01-84215/quando-">https://www.archdaily.com.br/br/01-84215/quando-</a>&gt; documentar-nao-e-suficiente-obras-datas-reflexoes-e-construcoes-teoricas-slash-ruth-verde-zein

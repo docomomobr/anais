@@ -86,4 +86,4 @@ palavras-chave:
 - PI. In: DOCOMOMO BRASIL, 8., 2009, Rio de Janeiro. Anais do 8o DOCOMOMO Brasil. Rio de Janeiro: Docomomo, 2009.
 - STEIN, C. Greening modernism. Docomomo, [s. l.], v. 44, n. 1, p. 8–15, 2011.
 - TOMLOW, J. Building physics and its performance in modern movement architecture. Docomomo, [s. l.], v. 44, n. 1, p. 24–31, 2011.
-- UNRIC (CENTRO REGIONAL DE INFORMAÇÕES DAS NAÇÕES UNIDAS PARA A EUROPA). Guida sobre desenvolvimento sustentável: 17 objetivos para transformar o nosso mundo. Online, 2016. Disponível em: https://www.instituto- camoes.pt/images/ods_2edicao_web_pages.pdf. Acesso em: 05 mai. 2021.
+- UNRIC (CENTRO REGIONAL DE INFORMAÇÕES DAS NAÇÕES UNIDAS PARA A EUROPA). Guida sobre desenvolvimento sustentável: 17 objetivos para transformar o nosso mundo. Online, 2016. Disponível em: &lt;<a href="https://www.instituto-">https://www.instituto-</a>&gt; camoes.pt/images/ods_2edicao_web_pages.pdf. Acesso em: 05 mai. 2021.

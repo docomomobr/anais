@@ -1,0 +1,28 @@
+{
+  "id": "sdsul06",
+  "type": "book",
+  "title": "6º Seminário Docomomo Sul, Porto Alegre, 2019",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/sul/sdsul06/",
+  "editor": [
+    {
+      "family": "Comas",
+      "given": "Carlos Eduardo"
+    },
+    {
+      "family": "Peixoto",
+      "given": "Marta"
+    }
+  ],
+  "event-place": "Porto Alegre, RS",
+  "publisher-place": "Porto Alegre, RS",
+  "publisher": "Núcleo Docomomo RS / Marcavisual",
+  "ISBN": "978-85-61965-77-8"
+}

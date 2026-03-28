@@ -65,7 +65,7 @@ palavras-chave:
 
 - AMORIM, Luiz. “The sector's paradigm: a study of the spatial and functional nature of modernist housing in Northeast, Brazil”. London: The Bartlett School of Graduate Studies, University London, 1999.
 - AMORIM, Luiz. Flexibilidade espacial: entre o princípio e o mito In: Cidades: urbanismo, patrimônio e sociedade ed.Recife: Livro Rápido / Programa de Pós-Graduação em Desenvolvimento Urbano, 2008, p. 297-326.
-- AMORIM, Luiz, LOUREIRO, Claudia. “The space of architecture and a new conservation agenda”. City & Time 2 (3): 1, 2007. Disponível em: &lt;http://www.ct.ceci-br.org&gt; Acesso em 21 de jun. 2009, 17:40:30.
+- AMORIM, Luiz, LOUREIRO, Claudia. “The space of architecture and a new conservation agenda”. City & Time 2 (3): 1, 2007. Disponível em: &lt;<a href="http://www.ct.ceci-br.org">http://www.ct.ceci-br.org</a>&gt; Acesso em 21 de jun. 2009, 17:40:30.
 - AMORIM, Luiz, LOUREIRO, Cláudia, NASCIMENTO, Cristiano. “Preserving Space: towards a new architectural conservation Agenda”. In: 6th International Space Syntax Symposium. Istambul, 2007.
 - BENEDIKT, Michael. “To take hold of space: isovists and isovists fields”. Environment and Planning B, 6: 47-65, 1979.
 - CABRAL, Renata. “Mario Russo: um arquiteto racionalista italiano em Recife”. Recife: Editora Universitária da UFPE, 2006.

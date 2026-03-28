@@ -49,7 +49,7 @@ palavras-chave:
 ## Referências
 
 - ALMEIDA, Guilherme Essvein de. Guia de Arquitetura Moderna em Porto Alegre / Guilherme Essvein de Almeida, Joao Gallo de Almeida, Marcos Bueno. Porto Alegre: EDIPUCRS, 2010.
-- LUCCAS, Luis Henrique Haas. PETROLINI, Marcos Amado. Vedações de tijolos aparentes, estruturas de concreto: o caso do Centro Municipal de Cultura de Porto Alegre. IV Seminário Docomomo Sul, Porto Alegre: março 2013. Disponível em http://www.docomomo.org.br/ivdocomomosul/pdfs/30%20Marcos%20Petroli- Luis%20Henrique%20Luccas.pdf. Acesso em: 06 agosto 2013.
+- LUCCAS, Luis Henrique Haas. PETROLINI, Marcos Amado. Vedações de tijolos aparentes, estruturas de concreto: o caso do Centro Municipal de Cultura de Porto Alegre. IV Seminário Docomomo Sul, Porto Alegre: março 2013. Disponível em &lt;<a href="http://www.docomomo.org.br/ivdocomomosul/pdfs/30%20Marcos%20Petroli-">http://www.docomomo.org.br/ivdocomomosul/pdfs/30%20Marcos%20Petroli-</a>&gt; Luis%20Henrique%20Luccas.pdf. Acesso em: 06 agosto 2013.
 - LUCCAS, Luis Henrique Haas. O sul por testemunha: declínio da hegemonia corbusiano- carioca e ascensão da dissidência paulista na arquitetura brasileira anos 50 Alegre. Pós. Rev Programa Pós-Graduação em Arquitetura e Urbanismo – FAUUSP, São Paulo: v. 17, n. 27, junho 2010. Disponível em revistas.usp.br/posfau/article/download/43680/47302. Acesso em: 06 agosto 2013.
 - MARQUES, Sérgio Moacir. Fayet, Araújo & Moojen: arquitetura moderna brasileira no sul - 1950 / 1970. Porto Alegre: PROPAR-UFRGS, 2012 (Tese de doutorado).
 - MONTANER, Josep Maria. Depois do movimento moderno. Arquitetura da segunda metade do século XX. Barcelona: Gustavo Gili, 2001.

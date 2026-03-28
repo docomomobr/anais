@@ -66,7 +66,7 @@ palavras-chave:
 - NIEMEYER, Oscar. Minha arquitetura: 1937-2004. Rio de Janeiro, Ed. Revan, 2004. Palácio Itamaraty Brasília: Brasília, Rio de Janeiro. São Paulo: Banco Safra, 2002.
 - RIBEIRO, Guilherme Luiz Leite. Os bastidores da diplomacia: o bife de zinco e outras histórias. Rio de Janeiro: Nova Fronteira, 2007.
 - ROSSETTI, Eduardo Pierrotti. Arquitetura em transe. Lucio Costa, Oscar Niemeyer, Vilanova Artigas e Lina Bo Bardi: nexos da arquitetura brasileira pós-Brasília (1960-85). São Paulo: FAU-USP, 2007. Tese de Doutorado.
-- ROSSETTI, Eduardo Pierrotti. Palácio do Itamaraty: questões de história, projeto e documentação (1959-70); março/2009. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65
+- ROSSETTI, Eduardo Pierrotti. Palácio do Itamaraty: questões de história, projeto e documentação (1959-70); março/2009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65">http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65</a>&gt;
 - RYKWERT, Joseph. A sedução do lugar. São Paulo: Martins Fontes, 2004.
 - SANTOS JÚNIOR, Evaristo C.R.. A Estrutura do Palácio do Itamaraty: aspectos históricos, científicos e tecnológicos de projeto, execução, intervenções e recomendações de manutenção. Brasília: FAU-UnB, 2004. Dissertação de Mestrado.
 - SEGAWA, Hugo. Arquitetura no Brasil 1900-1999. São Paulo, Edusp, 1998

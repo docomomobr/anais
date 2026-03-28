@@ -45,9 +45,9 @@ autores:
 
 - AFONSO, Alcília. Tectônica da modernidade: desafios para a preservação da arquitetura moderna no nordeste brasileiro. Belo Horizonte: 2º simpósio científico do ICOMOS Brasil.2018.
 - AFONSO, Alcília. La consolidación de la arquitectura moderna en Recife en los años 50.Barcelona: tese doutoral apresentada para o departamento de projetos arquitetônicos da ETSAB/ UPC. 2006.
-- AMARAL, Isabel. Quase tudo que você queria saber sobre tectônica, mas que tinha vergonha de perguntar. http://www.revistas.usp.br/posfau/article/viewFile/43644/47266. Janeiro 2009.
+- AMARAL, Isabel. Quase tudo que você queria saber sobre tectônica, mas que tinha vergonha de perguntar. &lt;<a href="http://www.revistas.usp.br/posfau/article/viewFile/43644/47266">http://www.revistas.usp.br/posfau/article/viewFile/43644/47266</a>&gt; Janeiro 2009.
 - BAUER, E., Kraus, E., Antunes, G.R, Patologias mais correntes nas fachadas de edifícios em Brasília. Proc. 3º. Congresso Português de Argamassas de Construção - APFAC, Lisboa, Portugal. 2010.
-- CARTA DE BURRA. 1980. Cartas patrimoniais. IPHAN. Em rede http://portal.iphan.gov.br/pagina/detalhes/226. Acesso em março de 2018.
+- CARTA DE BURRA. 1980. Cartas patrimoniais. IPHAN. Em rede &lt;<a href="http://portal.iphan.gov.br/pagina/detalhes/226">http://portal.iphan.gov.br/pagina/detalhes/226</a>&gt; Acesso em março de 2018.
 - CUNHA et al. Acidentes estruturais na construção civil. Volumes 1 e 2. São Paulo: editora Pini. 1998.
 - FRAMPTON, Kenneth. Rappel à l’Ordre : The Case for the Tectonic. Architectural Design , Londres, v. 60, n. 3-4, p. 1925, 1990.
 - GASPAR, P. Vida útil das construções: Desenvolvimento de uma metodologia para a estimativa da durabilidade de elementos da construção. Aplicação a rebocos de 175 edifícios correntes. Dissertação de Doutorado, Instituto Superior Técnico, Universidade Técnica de Lisboa, Lisboa, 2009.

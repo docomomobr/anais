@@ -54,7 +54,7 @@ authors:
     familyname: "Portugal"
     orcid: "0000-0002-3239-832X"
 doi: "10.5281/zenodo.19073984"
-zenodo_pdf_url: "https://zenodo.org/records/19073985/files/sdbr09-131.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285586/files/sdbr09-131.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:
@@ -74,14 +74,14 @@ palavras-chave:
 ## Referências
 
 - AMARAL, A. A. Artes plásticas na semana de 22; subsídios para uma história da renovação das artes no Brasil. 2. ed. São Paulo: Perspectiva, 1972.
-- BRASIL, IPHAN. Guia dos Bens Móveis e Imóveis Inscritos no Livro de Tombo do Instituto do Patrimônio Histórico e Artístico Nacional 1938-2009. Disponível em http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=1356, Acessado em 22.mar.2010.
+- BRASIL, IPHAN. Guia dos Bens Móveis e Imóveis Inscritos no Livro de Tombo do Instituto do Patrimônio Histórico e Artístico Nacional 1938-2009. Disponível em &lt;<a href="http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=1356">http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=1356</a>&gt; Acessado em 22.mar.2010.
 - BRASIL, DER, MG. Mapa Rodoviário do Estado de Minas Gerais. Secretaria Estadual de Transportes, Governo do Estado de Minas Gerais 1964.
 - BRASIL, MG. Decreto-Lei nº 336, de 1º de janeiro de 1949 a 31 de dezembro de 1953. Estabelece a divisão administrativa e judiciária do estado. Diário do Executivo de Minas Gerais, 28dez.1948, Pág. 1 Col. 5 Microfilme 91, 195
 - BRUAND, Y. Arquitetura Contemporânea do Brasil. São Paulo: Perspectiva, 1991. Cataguases - arquitetura modernista: guia do patrimônio cultural/ organizado por Paulo Henrique Alonso. Cataguases: Instituto de Estudos do Desenvolvimento Sustentável, 2009
 - GOETHE, J. W. Fausto. Trad. Silvio Meira. Rio de Janeiro: Agir, 1968.
 - HARVEY, D. Espaços urbanos na “Aldeia Global”: Reflexões sobre a condição urbana no capitalismo no final do século XX. Cad.arquit.urban., Belo Horizonte, nº4, p. 171-189, maio de 1996.
 - JACOB, R. Minas Gerais no XX século. Rio de Janeiro: Gomes Irmao & Co., 1911.
-- LARA, F. A insustentável leveza da modernidade. In: Arquitextos 057, fev. 2005, Portal Vitruvius. http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp, acessado em 22.mar. 2010.
+- LARA, F. A insustentável leveza da modernidade. In: Arquitextos 057, fev. 2005, Portal Vitruvius. &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp273.asp</a>&gt; acessado em 22.mar. 2010.
 - PANIAGO, M. C. T. Viçosa – mudanças socioculturais – evolução histórica e tendências. Viçosa: Imprensa Universitária, 1991. Pequena mostra de Arquitetura Moderna: João pessoa e Campina Grande nos caminhos do mo_mo.tur [do] 3o. Seminário DOCOMOMO Norte Nordeste/Fabiano Rocha ... [et al.]. (org.)
 - PANIAGO, M. João pessoa: Editora Universitária/UFPB, 2010.
 - SEGAWA, H. Arquiteturas no Brasil : 1900-1990 / Hugo Segawa. São Paulo : EDUSP, 2002, 2. ed., 1. reimpr.

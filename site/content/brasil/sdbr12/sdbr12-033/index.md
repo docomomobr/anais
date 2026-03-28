@@ -55,8 +55,8 @@ palavras-chave:
 
 ## Referências
 
-- ALVES, Tais de Moraes. Madeira na Arquitetura Moderna Brasileira. Trabalho Final de Graduação. Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2014. Disponível em: http://issuu.com/taisdemoraes/docs/madeira_na_arquitetura_moderna_bras
-- CORREIA Telma de Barros. O modernismo e o núcleo fabril: o anteprojeto de Lúcio Costa para Monlevade. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da USP, São Paulo, n. 14, 2003. Disponível em: http://www.revistas.usp.br/posfau/article/view/43359. Acesso: agosto, 2015.
+- ALVES, Tais de Moraes. Madeira na Arquitetura Moderna Brasileira. Trabalho Final de Graduação. Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2014. Disponível em: &lt;<a href="http://issuu.com/taisdemoraes/docs/madeira_na_arquitetura_moderna_bras">http://issuu.com/taisdemoraes/docs/madeira_na_arquitetura_moderna_bras</a>&gt;
+- CORREIA Telma de Barros. O modernismo e o núcleo fabril: o anteprojeto de Lúcio Costa para Monlevade. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da USP, São Paulo, n. 14, 2003. Disponível em: &lt;<a href="http://www.revistas.usp.br/posfau/article/view/43359">http://www.revistas.usp.br/posfau/article/view/43359</a>&gt; Acesso: agosto, 2015.
 - COSTA, Ana Elísia da. O gosto pelo Suti: Confluências entre as casas-pátio de Daniele Calabi e Rino Levi. (Tese de doutorado). Universidade Federal do Rio Grande do Sul, Faculdade de Arquitetura – PROPAR, Porto Alegre, 2011.
 - COSTA, Lucio. Anteprojeto para a Villa de Monlevade. Memorial Descriptivo. Revista da Directoria de Engenharia, Rio de Janeiro, v. 3, n. 3, maio 1936
 - COSTA, Lucio. Documentação Necessária. Revista do IPHAN, nº 01, 1937.
@@ -64,8 +64,8 @@ palavras-chave:
 - COTRIM, Marcio. Vilanova Artigas. Casas Paulistas. São Paulo: Romano Guerra Editora, 2017.
 - GOODWIN, Philip. Brazil Builds. Architecture new and old 1652-1942. New York, MoMA, 1943.
 - HECK, Márcia. Casas Modernas Cariocas 1930-1965. Dissertação (Mestrado em Arquitetura)- Programa de Pesquisa e Pós-Graduação em Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
-- LIMA, Fábio José Martins. Cidade Operária de Monlevade: Novos Conceitos de Morar. Anais do III Seminário DOCOMOMO Brasil. São Paulo, 1999. Disponível em: http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Fabio_lima.pdf. Acesso: agosto, 2015.
-- LUCCAS, Luís Henrique Haas. Extroversão e sensualidade: dois ingredientes próprios da escola carioca. Vitruvius, São Paulo, ago. 2006. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/ arq000/esp378.asp&gt;. Acesso em: out. 2007.
+- LIMA, Fábio José Martins. Cidade Operária de Monlevade: Novos Conceitos de Morar. Anais do III Seminário DOCOMOMO Brasil. São Paulo, 1999. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Fabio_lima.pdf">http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A1F/Fabio_lima.pdf</a>&gt; Acesso: agosto, 2015.
+- LUCCAS, Luís Henrique Haas. Extroversão e sensualidade: dois ingredientes próprios da escola carioca. Vitruvius, São Paulo, ago. 2006. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/">http://www.vitruvius.com.br/arquitextos/</a>&gt; arq000/esp378.asp&gt;. Acesso em: out. 2007.
 - MINDLIN, Henrique. Arquitetura moderna no Brasil. Aeroplano, Iphan, Ministério da Cultura, Rio de Janeiro; 2ª edição, 2000.
 - MONTEZUMA, Roberto (org.). Arquitetura Brasil 500 anos. Recife, UFPE, 2002.
 - PAPADAKI, Stamo. Oscar Niemeyer. New York, 1951.

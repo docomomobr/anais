@@ -55,7 +55,7 @@ palavras-chave:
 - CALDAS, João Vieira, 1997. Porfírio Pardal Monteiro: Arquitecto, Lisboa: Associação dos Arquitectos Portugueses.
 - CARAPINHA, Aurora, 1994. “Jardins da Fundação Calouste Gulbenkian”, Architécti, 25, p. 40.
 - CARAPINHA, Aurora (ed.), 2006. Fundação Calouste Gulbenkian: O Jardim, Lisboa: Fundação Calouste Gulbenkian.
-- CARTA DE ATENAS, 1933. &lt;http://www.iphan.gov.br/legislac/ cartaspatrimoniais/atenas-33.htm&gt;.
+- CARTA DE ATENAS, 1933. &lt;<a href="http://www.iphan.gov.br/legislac/">http://www.iphan.gov.br/legislac/</a>&gt; cartaspatrimoniais/atenas-33.htm&gt;.
 - DUARTE, Carlos, 1969. “A Sede e Museu da Fundação Calouste Gulbenkian em Lisboa”, Arquitectura, 111, pp. 211-212.
 - Duarte, Carlos – “A arquitectura Modernista” in Tendências da Arquitectura Portuguesa – pp.10-13. Catálogo Lisboa: Secretaria de Estado da Cultura, 1986.
 - DUARTE, Carlos, 1990. “Hotel Ritz: Onde a Arte Veio Enriquecer o Produto Turístico”, Hotéis de Portugal, 22-23, pp. 27-33.

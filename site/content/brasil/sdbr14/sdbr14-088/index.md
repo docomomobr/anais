@@ -49,11 +49,11 @@ palavras-chave:
 ## Referências
 
 - ANTUNES, Lia Pereira Saraiva Gil. Questões de gênero em Arquitetura: História(s), espaço(s) e experiências profissionais e arquitetônicas. Empresa Forma Efémeras, Portugal. 2016.
-- BRANT, Julia. Gênero e acesso à profissão: as mulheres na arquitetura. 2019. ArchDaily Brasil. Disponível em: &lt;https://www.archdaily.com.br/br/923054/genero-e-acesso-a-profissao-as-mulheres-na-arquitetura&gt;. Acesso em: 20 de julho de 2020.
+- BRANT, Julia. Gênero e acesso à profissão: as mulheres na arquitetura. 2019. ArchDaily Brasil. Disponível em: &lt;<a href="https://www.archdaily.com.br/br/923054/genero-e-acesso-a-profissao-as-mulheres-na-arquitetura">https://www.archdaily.com.br/br/923054/genero-e-acesso-a-profissao-as-mulheres-na-arquitetura</a>&gt; Acesso em: 20 de julho de 2020.
 - CHADWICK, Whitney; COURTIVRON, Isabelle. Significant Others – Creativity and Intimate Partnership. Londres, 1993.
 - FONTES, Marina Lima de. Mulheres invisíveis: a produção feminina brasileira na arquitetura impressa no século XX por uma perspectiva feminista. Dissertação de Mestrado do Programa de Pós Graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília. Brasília: Universidade de Brasília, 2016.
 - GATÍ, Andréa. Esposas: atuações em Arquitetura, Interiores e Design. Sessão temática: arquitetura, gênero e sexualidade. Porto Alegre, 2016.
-- LATERZA, Ana; MORENO, Júlio. Inédito: visão completa sobre a presença da mulher na Arquitetura e Urbanismo. Cresce a participação feminina no setor, mas mulheres ainda têm baixa representatividade nas entidades profissionais. 2019. CAU/BR. Disponível em: &lt;https://www.caubr.gov.br/inedito-visao- completa-sobre-a-presenca-da-mulher-na-arquitetura-e-urbanismo/&gt;. Acesso em: 20 julho 2020.
+- LATERZA, Ana; MORENO, Júlio. Inédito: visão completa sobre a presença da mulher na Arquitetura e Urbanismo. Cresce a participação feminina no setor, mas mulheres ainda têm baixa representatividade nas entidades profissionais. 2019. CAU/BR. Disponível em: &lt;<a href="https://www.caubr.gov.br/inedito-visao-">https://www.caubr.gov.br/inedito-visao-</a>&gt; completa-sobre-a-presenca-da-mulher-na-arquitetura-e-urbanismo/&gt;. Acesso em: 20 julho 2020.
 - LIMA, Ana Gabriela Godinho. Arquitetas e arquiteturas na América Latina do Século XX. 1. ed. São Paulo: Altamira Editorial, 2014.
 - MONTEIRO, Paulo. Mulheres Invisíveis. Princípios para uma reconstrução do discurso em arquitetura. Portugal, 2015.
 - SÁ, Flávia Carvalho de. Profissão: arquiteta. Formação profissional, mercado de trabalho e projeto arquitetônico na perspectiva das relações de gênero. São Paulo: FAUUSP, 2010.
@@ -61,5 +61,5 @@ palavras-chave:
 - SERAPIÃO, Fernando; WISNIK, Guilherme. Exposição Infinito Vão. 90 anos de arquitetura. São Paulo, 2021.
 - SILVA, Fernanda Araújo Félix da. Onde estão as mulheres arquitetas maceioenses? Um levantamento sobre a produção arquitetônica feminina em Maceió, desde a década de 50 até os dias atuais. Maceió, 2018.
 - WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo, 2013.
-- ZEIN, Ruth. Verde. O vazio significativo do cânon. In: V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt Acesso: 04 Mai 2021.
+- ZEIN, Ruth. Verde. O vazio significativo do cânon. In: V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: &lt;<a href="http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt">http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt</a>&gt; Acesso: 04 Mai 2021.
 - ZEIN, Ruth Verde. In: GUERRA, Abílio; LARA, Fernando Luiz; SANTOS, Silvana Romano (Org.). Leituras Críticas. São Paulo: Romano Guerra Editora, 2018.

@@ -64,7 +64,7 @@ palavras-chave:
 - ALMEIDA, Pedro e FERNANDES, José. História da Arte em Portugal. A arquitectura moderna. Vol. 14. Lisboa: Alfa, 1986.
 - ALMEIDA, Pedro, TOUSSAINT, Michel e FERNANDES, José. Raul Lino, 3 depoimentos em 1993. Lisboa: Edições Cotovia, 1993.
 - AMARAL, Francisco Keil. Uma Iniciativa Necessária. Lisboa: Arquitectura, ano XX, 2ª série, nº 14, Abril de 1947.
-- COMAS, Carlos. Lúcio Costa e a Revolução na Arquitetura Moderna Brasileira, 1930-1939. De lenda(s e) Le Corbusier. São Paulo: Vitruvius, 2002. Disponível em: http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp
+- COMAS, Carlos. Lúcio Costa e a Revolução na Arquitetura Moderna Brasileira, 1930-1939. De lenda(s e) Le Corbusier. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp">http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp</a>&gt;
 - COSTA, Lúcio. Carta dirigida a Carlos Ramos datada de 10/03/1962. Espólio Carlos Ramos.
 - COSTA, Lúcio. Lúcio Costa. Registro de uma Vivência. (1ª Edição). São Paulo: Empresa das Artes, 1995. (Edição consultada: 2ª Edição 1997).
 - COUTINHO, Bárbara. Carlos Ramos (1897-1969): Obra, pensamento e acção. A procura do compromisso entre o Modernismo e a Tradição. Dissertação de Mestrado, 2 Volumes. Lisboa:

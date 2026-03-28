@@ -52,11 +52,11 @@ palavras-chave:
 
 ## Referências
 
-- AMÂNCIO, Thiago. Mortes: Urbanista criou planos de SP e Belo Horizonte. Folha de São Paulo, 21 de março de 2017. Disponível em https://www1.folha.uol.com.br. Acesso em 05 de jun. de 2019.
+- AMÂNCIO, Thiago. Mortes: Urbanista criou planos de SP e Belo Horizonte. Folha de São Paulo, 21 de março de 2017. Disponível em &lt;<a href="https://www1.folha.uol.com.br">https://www1.folha.uol.com.br</a>&gt; Acesso em 05 de jun. de 2019.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 2002. 4ª edição.
 - BRAGA, Aline Moraes Costa. (Im)possíveis Brasílias: Os projetos apresentados no concurso do plano piloto da nova capital federal. São Paulo: Alameda, 2011.
 - BRAGA, Milton. O concurso de Brasília: sete projetos para uma capital. São Paulo: Cosac Naify, Imprensa Oficial do Estado, Museu da Casa Brasileira, 2010.
-- COSTA, Gilberto. Censo populacional de 1959 revela quem eram os candangos que construíram Brasília. Agência Brasil, 21 de abr. de 2010. Disponível em: http://memoria.ebc.com.br. Acesso em 06 de jun. de 2019.
+- COSTA, Gilberto. Censo populacional de 1959 revela quem eram os candangos que construíram Brasília. Agência Brasil, 21 de abr. de 2010. Disponível em: &lt;<a href="http://memoria.ebc.com.br">http://memoria.ebc.com.br</a>&gt; Acesso em 06 de jun. de 2019.
 - COSTA, Lúcio. A situação do ensino na Belas Artes. In: Registro de uma vivência. São Paulo: Empresa das artes, 1995.
 - FICHER, Sylvia. Ensino e profissão: o curso de engenheiro-arquiteto na Escola Politécnica de São Paulo. Tese de doutorado. São Paulo: Faculdade de Filosofia e Ciências Humanas da Universidade de São Paulo. 1989.
 - GUEDES Sobrinho, Joaquim Manoel. Considerações sobre planejamento urbano, a propósito do Plano de Ação Imediata de Porto Velho. Tese de Doutorado – Faculdade de Arquitetura da Universidade de São Paulo, 1972.
@@ -67,7 +67,7 @@ palavras-chave:
 - LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 1988.
 - LOOS, Adolf. Ornamento y delito: y otros escritos. Barcelona: Gustavo Gilli, 1972.
 - MUMFORD, Lewis. Planned society: yestardey, today, tomorow. New York: Prentice-hall, 1937.
-- PINHEIRO, Maria Lúcia Bressan. Lúcio Costa e a Escola Nacional de Belas Artes. 6º Seminário DOCOMOMO. Niterói, 2005. Disponível em: http://docomomo.org.br/wp- content/uploads/2016/01/Maria-Lucia-Bressan-Pinheiro.pdf. Acesso em 09 de abril de 2019.
+- PINHEIRO, Maria Lúcia Bressan. Lúcio Costa e a Escola Nacional de Belas Artes. 6º Seminário DOCOMOMO. Niterói, 2005. Disponível em: &lt;<a href="http://docomomo.org.br/wp-">http://docomomo.org.br/wp-</a>&gt; content/uploads/2016/01/Maria-Lucia-Bressan-Pinheiro.pdf. Acesso em 09 de abril de 2019.
 - QUINTANILHA, Rogério Penna. As cidades que criamos: A arquitetura de cidades novas a partir da experiência da Caraíba de Joaquim Guedes. Tese de doutorado. Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo, 2016.
 - SOSA, Marisol Rodríguez; SEGRE, Roberto. Do coração da cidade – a Otterlo (1951-59): discussões transgressoras de ruptura, a semente das novas direções pós-CIAM. In: Docomomo Brasil, 2009, Rio de Janeiro. Anais do 8º seminário Docomomo Brasil, 2009.
 - STAM. Serviço Técnico de Auxílio aos Municípios. Memorial de projeto. Concurso nacional - O plano piloto da nova capital do Brasil. s/ed, 1957.

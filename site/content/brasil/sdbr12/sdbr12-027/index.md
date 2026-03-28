@@ -54,13 +54,13 @@ palavras-chave:
 - DEDECCA, P. G. Aproximações, diferenciações e embates entre a produção do Rio de Janeiro e de São Paulo nas revistas de arquitetura (1945-1960). VIII Seminário Docomomo Brasil - Cidade Moderna e Contemporânea: Síntese e paradoxo das Artes, 2009. Rio de Janeiro
 - GUTIERREZ, Ramón; MENDEZ, Patricia. Las revistas de arquitectura en latinoamerica: perfiles de su historia y apuntes para su futuro. Bitácora Arquitectura. Ciudad de México 2009.
 - HABITAT. EDITORIAL. Habitat. São Paulo. 1 1950.
-- L'ARCHITECTURE D'AUJOURD'HUI. Projeto Rue des Hautes Formes. Módulo., n. 54, p. 56,  1979.
-- MAHFUZ, Edson. O Sentido da Arquitetura Moderna Brasileira. Arquitextos, n. 020.01,  2002.Disponível em: &lt; http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/811 &gt;
-- MAHFUZ, Edson. Do minimalismo e da dispersão como método projetual. In: MAHFUZ, E. (Ed.). Tipo, Projeto e Método, Construção Disciplinar. Porto Alegre: Marca Visual, 2011.   (Coleção Arquitetura Urbana Brasileira).
-- SEGAWA, Hugo; CREMA, Adriana; GAVA, Maristela. Revistas de arquitetura, urbanismo, paisagismo e design: a divergência de perspectivas. Arquitextos, n. 057.10,  2005.
-- STUCHI, Fabiana Terenzi. Revista Habitat: um olhar moderno sobre os anos 50 em São Paulo. 2007.  Dissertação
+- L'ARCHITECTURE D'AUJOURD'HUI. Projeto Rue des Hautes Formes. Módulo., n. 54, p. 56, 1979.
+- MAHFUZ, Edson. O Sentido da Arquitetura Moderna Brasileira. Arquitextos, n. 020.01, 2002.Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/811">http://www.vitruvius.com.br/revistas/read/arquitextos/02.020/811</a>&gt; &gt;
+- MAHFUZ, Edson. Do minimalismo e da dispersão como método projetual. In: MAHFUZ, E. (Ed.). Tipo, Projeto e Método, Construção Disciplinar. Porto Alegre: Marca Visual, 2011. (Coleção Arquitetura Urbana Brasileira).
+- SEGAWA, Hugo; CREMA, Adriana; GAVA, Maristela. Revistas de arquitetura, urbanismo, paisagismo e design: a divergência de perspectivas. Arquitextos, n. 057.10, 2005.
+- STUCHI, Fabiana Terenzi. Revista Habitat: um olhar moderno sobre os anos 50 em São Paulo. 2007. Dissertação
 - FAUUSP, USP, São Paulo
 - TINEM, Nelci. As revistas de arquitetura como documentos pré-canônicos. I Encontro Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo, 2010. Rio de Janeiro.
 - TORRENT, Horacio. Presentación. In: TORRENT, H. (Ed.). Revistas de arquitectura: Representaciones urbanas y paradigmas disciplinares. Santiago de Chile: T6 Ediciones, 2011.
-- WAISMAN, Marina. O Interior da História: historiografia arquitetônica para uso de latino-americanos.  São Paulo: Perspectiva, 2013.
-- ZEIN, Ruth Verde. Da Crítica Alheia à teoria própria. Arquitextos, n. 151.04,  2012.Disponível em: &lt; http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608 &gt;.
+- WAISMAN, Marina. O Interior da História: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.
+- ZEIN, Ruth Verde. Da Crítica Alheia à teoria própria. Arquitextos, n. 151.04, 2012.Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608">http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608</a>&gt; &gt;.

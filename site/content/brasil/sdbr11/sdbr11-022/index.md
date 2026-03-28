@@ -60,9 +60,9 @@ palavras-chave:
 - BAUZENTRUM. Bauen mit Glas und Beton. E-BAU 2/2015. www.glasmalerei.de
 - BONELLI, Renato. Architettura e restauro. Venezia: Neri Pozza Editore, 1959
 - BRANDI, C. Teoria da Restauração. Cotia: Ateliê Editorial, 2004.
-- DOCOMOMO INTERNATIONAL. BRNO Erklärung zur Diskussion um die Meisterhaussiedlung in Dessau 7. Juni 2008 – docomomo Deutschland e.V. Disponivel em http://www.docomomo.de/index.php?option=com_content&view=article&id=115:meisterhaussiedlung-in- dessau-brno-erklaerung&catid=45:publikationen&Itemid=59 Acessado em 31/03/2016.
-- DIE MEISTERHÄUSER DESSAU. 1933 bis Heute. Disponível em http://www.meisterhaeuser.de/de/geschichte_1933_bis_heute.html. Acessado em 26/03/2016.
-- FIORETTI, D. ; MARQUEZ, J. G. Präzision der Unschärfe – Wie die Meisterhäuser Gropius und Moholy-Nagy neu entstehen sollen. Interview von Ingolf Kern mit Donatella Fioretti und Josè Gutierrez Marquez für die Stiftung Bauhaus Dessau. 2014. Disponível em: http://www.bauhaus-dessau.de/index.php?die-natur-des-erinnerns Acessado em 28/03/2016.
+- DOCOMOMO INTERNATIONAL. BRNO Erklärung zur Diskussion um die Meisterhaussiedlung in Dessau 7. Juni 2008 – docomomo Deutschland e.V. Disponivel em &lt;<a href="http://www.docomomo.de/index.php?option=com_content&view=article&id=115:meisterhaussiedlung-in-">http://www.docomomo.de/index.php?option=com_content&view=article&id=115:meisterhaussiedlung-in-</a>&gt; dessau-brno-erklaerung&catid=45:publikationen&Itemid=59 Acessado em 31/03/2016.
+- DIE MEISTERHÄUSER DESSAU. 1933 bis Heute. Disponível em &lt;<a href="http://www.meisterhaeuser.de/de/geschichte_1933_bis_heute.html">http://www.meisterhaeuser.de/de/geschichte_1933_bis_heute.html</a>&gt; Acessado em 26/03/2016.
+- FIORETTI, D. ; MARQUEZ, J. G. Präzision der Unschärfe – Wie die Meisterhäuser Gropius und Moholy-Nagy neu entstehen sollen. Interview von Ingolf Kern mit Donatella Fioretti und Josè Gutierrez Marquez für die Stiftung Bauhaus Dessau. 2014. Disponível em: &lt;<a href="http://www.bauhaus-dessau.de/index.php?die-natur-des-erinnerns">http://www.bauhaus-dessau.de/index.php?die-natur-des-erinnerns</a>&gt; Acessado em 28/03/2016.
 - GROPIUS, W. Not Gothic but Modern for our colleges [1947]. In: Arquitetura não é arqueologia aplicada. Bauhaus. Nova Arquitetura. São Paulo: Editora Perspectiva. 1994.
 - HOLLWICH, M. ; WEISBACH, R. (Eds.) Umbauhaus. Aktualisierung der Moderne. Berlin: Edition Bauhaus, 2005.
 - KOWA, G. Städtebauliche Reparatur der Gesamtanlage der Meisterhäuser in Dessau. Bauwelt 23. 2008
@@ -70,8 +70,8 @@ palavras-chave:
 - LUPFER, G. ; SIGEL, P. Gropius. 1883-1969. Propagandist der neuen Form. Köln: Taschen, 2006.
 - MARKGRAF, M. Rekonstruktion? Das Gropius-Haus in Dessau. Vortrag anlässlich des Symposiums «Nachdenken über Denkmalpflege» (Teil 6): «Denkmale nach unserem Bild? Zur Theorie und Kritik von Rekonstruktion», Bauhaus Dessau. kunsttexte.de, Nr. 3, 2007.
 - MEURS, P. ; VAN THOOR, M. (eds). Sanatorium Zonnestraal. The history and restoration of a modern monument. Rotterdam: NAi Publishers, Rotterdam Zonnestraal Estate bv MIT, TU Delft, 2010.
-- MRASS, M. Die Diskussion zur Restaurierung der Meisterhäuser in Dessau. Idee oder Substanz? Monumente. Magazin für Denkmalkultur in Deutschland. Oktober 2012. Disponível em http://www.monumente- online.de/de/ausgaben/2012/5/idee-oder-substanz.php#.VvNKY_krLIV Acessado em 23/03/2016.
-- MUSEUM OF CONTEMPORARY ART CHICAGO. Hiroshi Sugimoto: Architecture. Chicago: 2003. Disponível em http://www.e-flux.com/announcements/hiroshi-sugimoto-architecture/ Acessado em 17/03/2016.
+- MRASS, M. Die Diskussion zur Restaurierung der Meisterhäuser in Dessau. Idee oder Substanz? Monumente. Magazin für Denkmalkultur in Deutschland. Oktober 2012. Disponível em &lt;<a href="http://www.monumente-">http://www.monumente-</a>&gt; online.de/de/ausgaben/2012/5/idee-oder-substanz.php#.VvNKY_krLIV Acessado em 23/03/2016.
+- MUSEUM OF CONTEMPORARY ART CHICAGO. Hiroshi Sugimoto: Architecture. Chicago: 2003. Disponível em &lt;<a href="http://www.e-flux.com/announcements/hiroshi-sugimoto-architecture/">http://www.e-flux.com/announcements/hiroshi-sugimoto-architecture/</a>&gt; Acessado em 17/03/2016.
 - SALVO, S. A intervenção na arquitetura contemporânea como tema emergente do restauro. In: Revista Pós, São Paulo: FAUUSP, n.23, São Paulo, 2008.
 - SALVO, S. Restauro e "restauros" das obras arquitetônicas do século 20: intervenções em arranha-céus em confronto. Revista CPC, São Paulo, n.4, p.139-157, maio/out. 2007.
 - SALVO, S. A restauração do arranha-céu Pirelli: A resposta italiana a uma questão internacional. In: Revista Pós, São Paulo: FAUUSP, n. 19, 2006.

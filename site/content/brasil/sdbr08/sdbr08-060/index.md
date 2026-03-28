@@ -74,7 +74,7 @@ palavras-chave:
 - ZEIN, Ruth Verde. O Lugar da Crítica. Ensaios Oportunos de Arquitetura. Porto Alegre: Centro Universitário Ritter dos Reis, 2001. ARTIGOS E ENTREVISTAS PUBLICADAS Apresentação da obra. “Este Edifício Vai Centralizar a Administração da Petrobrás”. A Construção em São Paulo, n. 1250, jan. 1972, p. 6-12.
 - BARBOZA, Ana Karla et all. Proposta de Preservação da Arquitetura Moderna em Curitiba. 5º Seminário Docomomo Brasil, São Carlos, 2003.
 - FERRO, Sérgio. Reflexões sobre o Brutalismo Caboclo. Entrevista concedida a Marlene Acayaba. Projeto, n. 86, abr 1986, pp. 68-70.
-- GNOATO, Salvador. Vanguarda Paranaense. Entrevista concedida a Haifa Y. Sabbag. AU n. 151, outubro 2006. PETROBRÁS. A construção do edifício sede da Petrobrás. Espaço Conhecer. Disponível em http://www2.petrobras.com.br/espacoconhecer/APetrobras/edise .asp. Acesso em 01/05/2009.
+- GNOATO, Salvador. Vanguarda Paranaense. Entrevista concedida a Haifa Y. Sabbag. AU n. 151, outubro 2006. PETROBRÁS. A construção do edifício sede da Petrobrás. Espaço Conhecer. Disponível em &lt;<a href="http://www2.petrobras.com.br/espacoconhecer/APetrobras/edise">http://www2.petrobras.com.br/espacoconhecer/APetrobras/edise</a>&gt; .asp. Acesso em 01/05/2009.
 - ZEIN, Ruth Verde. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, julho 1986, p. 28-30.
 - ZEIN, Ruth Verde. O Futuro do Passado, ou As Tendências Atuais. Projeto n. 104, out 1987, p. 87 –114.
 - FONTE IMAGENS: Fig 1. Arquivo Luiz Forte Netto, apud.

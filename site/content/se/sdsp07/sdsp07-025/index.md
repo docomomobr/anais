@@ -1,0 +1,82 @@
+---
+title: "Arquitetura Moderna de hospitais em São Paulo"
+subtitle: "análise comparativa de projetos, do Hospital Albert Einstein ao Hospital São Camilo Pompeia"
+title_en: "Modern Architecture from São Paulo"
+subtitle_en: "A Comparative Analysis of Projects, from Hospital Albert Einstein to Hospital São Camilo Pompeia"
+title_es: "Arquitectura moderna de hospitalares em São Paulo"
+subtitle_es: "análisis comparativo de proyectos, del Hospital Albert Einstein al Hospital São Camilo Pompeia"
+date: 2020-11-09
+slug: sdsp07-025
+type: artigo
+weight: 10
+section_title: "Eixo 1 — Identificação"
+section_seq: 57
+event_title: "7º Seminário Docomomo São Paulo, São Paulo, 2020"
+event_date: "2020-11-09"
+event_isbn: "978-65-00-11912-1"
+event_publisher: "Núcleo Docomomo São Paulo / PGAUR-USJT"
+event_slug: sdsp07
+ambito: se
+ambito_nome: "Sudeste"
+event_name: "Seminário Docomomo São Paulo"
+event_edition: 7
+event_city: "São Paulo"
+event_year: 2020
+locale: "pt-BR"
+pages: "315-326"
+pdf_file: "sdsp07-025.pdf"
+abstract: |
+  Embora o conceito atual de hospital tenha surgido no Iluminismo (século XVIII), centros de tratamentos dos doentes e ensino das práticas médicas já existiram na Antiguidade Romana e na Idade Média. A ideia de hospital, bem como o de arquitetura hospitalar, evoluíram conjuntamente com a medicina, especialmente a partir do século XIX, com as descobertas e inovações científicas e tecnológicas e, principalmente, através da especialização. Tais avanços repercutiram na construção dos primeiros hospitais de grande porte, resposta às demandas criadas pela expansão populacional nas cidades, resultado da Revolução Industrial, e da evolução no transporte dos doentes e feridos, tornando-se um equipamento essencialmente urbano. A partir da segunda metade do século XX, a ideia de hospital puramente como centro científico passam a ser contestadas por defensores de uma visão mais humanizada da medicina, com a incorporação de novas questões, dentre elas o conceito de sustentabilidade, desenvolvido e aplicado a partir dos anos 80. Arquitetos se destacam durante esse período, entre eles Rino Levi e Siegbert Zanettini. Este artigo apresenta, portanto, uma análise comparativa de casos entre os projetos do Hospital Albert Einstein, de Rino Levi e o Hospital São Camilo Pompeia, de Zanettini.
+keywords:
+  - "Hospitais"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
+abstract_en: |
+  Although the current concept of hospital appeared in the Enlightenment (18th century), centers for treating patients and teaching medical practices already existed in Roman Antiquity and the Middle Ages. The concept of hospital, as well as that of hospital architecture, evolved together with Medicine, particularly from the 19th century onwards, with scientific and technological discoveries and innovations and, mainly, through specialization. Such advances had repercussions on the construction of the first large hospitals, in response to the demands created by the population expansion in the cities, the result of the Industrial Revolution, and the evolution in the transportation of the sick and wounded, becoming an essentially urban equipment. From the second half of the Twentieth Century, the widespread concept of a hospital purely as a scientific center is challenged by advocates of a more humanized view of medicine, with the incorporation of new issues, including the concept of sustainability, developed and applied from the 1980s. Architects stood out during this period, among them Rino Levi and Siegbert Zanettini. This article therefore presents a comparative analysis between the projects of Hospital Albert Einstein, designed by Rino Levi and the Hospital São Camilo Pompeia, designed by Zanettini.
+keywords_en:
+  - "Hospitals"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
+abstract_es: |
+  Aunque el concepto actual de hospital apareció en la Ilustración (siglo XVIII), en la Antigüedad romana y la Edad Media ya existían centros de tratamiento de pacientes y enseñanza de prácticas médicas. El concepto de hospital, así como el de arquitectura hospitalaria, evolucionó junto con la medicina, especialmente a partir del siglo XIX, con descubrimientos e innovaciones científicas y tecnológicas y, principalmente, a través de la especialización. Tales avances repercutieron en la construcción de los primeros grandes hospitales, en respuesta a las demandas creadas por la expansión poblacional de las ciudades, fruto de la Revolución Industrial, y de la evolución en el transporte de enfermos y heridos, convirtiéndose, los hospitales, en un equipamiento esencialmente urbano. Desde la segunda mitad del siglo XX, el movimiento moderno marca la arquitectura brasileña y la idea de un hospital meramente como centro científico es cuestionada por los defensores de una visión más humanizada de la medicina, con la incorporación de nuevos temas, incluido el concepto de sostenibilidad, desarrollado y aplicado desde la década de 1980. En este período destacan arquitectos como Rino Levi y Siegbert Zanettini. Por tanto, este artículo presenta un análisis comparativo entre los proyectos del Hospital São Camilo Pompeia, de Zanettini, y el Hospital Albert Einstein, de Rino Levi.
+keywords_es:
+  - "Hospitales"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
+authors:
+  - givenname: "Ana Lídia Galhiardi"
+    familyname: "Marvulle"
+    orcid: "0000-0003-2194-9189"
+  - givenname: "Paulo Yassuhide"
+    familyname: "Fujioka"
+    orcid: "0000-0003-2113-6778"
+doi: "10.5281/zenodo.19289713"
+zenodo_pdf_url: "https://zenodo.org/records/19289714/files/sdsp07-025.pdf"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+ficha_catalografica: "7º Seminário Docomomo São Paulo: anais: a difusão da Arquitetura Moderna, 1930-1980 [recurso eletrônico] / organização: Fernando Guillermo Vázquez Ramos et al. São Paulo: PGAUR-USJT, 2020. 566 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-00-11912-1"
+autores:
+  - "Marvulle, Ana Lídia Galhiardi"
+  - "Fujioka, Paulo Yassuhide"
+palavras-chave:
+  - "Hospitais"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
+---
+
+## Referências
+
+- ALMEIDA, Franciely Daiane Massarenti de. Arquitetura e procedimentos de projeto nos prédios hospitalares do escritório Rino Levi Arquitetos Associados 1944-1965. Dissertação (mestrado em Arquitetura e Urbanismo) - Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Estadual de maringá, Maringá, 2016.
+- ARGAN, Giulio Carlo. Arte moderna. São Paulo: Companhia das Letras, 1992.
+- COSTEIRA, Elza Maria Alves. Arquitetura hospitalar: história, evolução e novas visões. Revista Sustinere, [S.l.], v. 2, n. 2, p. 57-64, dez. 2014. Disponível em: &lt;<a href="https://www.e-publicacoes.uerj.br/index.php/sustinere/article/view/14127">https://www.e-publicacoes.uerj.br/index.php/sustinere/article/view/14127</a>&gt; Acesso em: 30 maio 2020.
+- FUJIOKA, Paulo Yassuhide; SEVERINO, Vinicius Galbieri. Siegbert Zanettini. In: 6º SEMINÁRIO
+- DOCOMONO SÃO PAULO, São Carlos: IAU/USP, 2018. Disponível no site: &lt;<a href="https://1456d5c4-2f46-4ea6-810f-9baa06ae7551.filesusr.com/ugd/e5628e_8140bf5dd134496fb261f7133bb">https://1456d5c4-2f46-4ea6-810f-9baa06ae7551.filesusr.com/ugd/e5628e_8140bf5dd134496fb261f7133bb</a>&gt; 15e22.pdf&gt;. Acesso em: 15 set 2020
+- MACHRY, Hermínia Silva. O impacto dos avanços da tecnologia nas transformações arquitetônicas dos edifícios hospitalares. Dissertação (Mestrado em Tecnologia da Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2010.
+- MEDEIROS, Maria Amélia Lopes. Da Colônia ao Shopping: um estudo da evolução tipológica da arquitetura hospitalar em Natal. Dissertação (Mestrado em Arquitetura e Urbanismo) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Norte, Natal, 2005.
+- MELENDRES, Carolina Nunes. O homem e o espaço hospitalar: o Edifício Manoel Tabacow Hidal Hospital Albert Einstein (1958). Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo, 2011.
+- MINDLIN, Henrique E. Arquitetura moderna no Brasil.Rio de Janeiro: Aeroplano Editora, 1999.
+- PIZZOLATO, Pier Paulo Bertuzzi. O espaço arquitetônico como elemento terapêutico: a função da ambiência na recuperação e na qualidade de vida do paciente internado.Tese (Doutorado em Arquitetura e Urbanismo) – Departamento de Habitat da Faculdade de Arquitetura e Urbanismo, Universidade Estadual de São Paulo, São Paulo, 2014.
+- RIBEIRO, Herval Pina. O Hospital: história e crise. São Paulo: Cortez, 1993.
+- XAVIER, Alberto; LEMOS, Carlos; CORONA, Eduardo. Arquitetura moderna paulistana. São Paulo: PINI, 1983.
+- ZANETTINI, S. Hospital São Camilo. Revista AU. Sem ano de publicação. Arquivo digital de acervo do próprio escritório. Acesso em: junho/2019
+- ZANETTINI, S. [a]. Hospital São Camilo Pompeia. Revista HealthARQ. v. 29. 28/01/2019. Arquivo digital de acervo do próprio escritório.
+- ZANETTINI, S. [b]. Hospital São Camilo Pompeia – Bloco V: visão do escritório de arquitetura. In: 5º Fórum INFRA – Hospitais e Clínicas, 23/04/2019. Arquivo digital de acervo do próprio escritório.

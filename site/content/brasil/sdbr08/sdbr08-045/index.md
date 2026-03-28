@@ -58,5 +58,5 @@ palavras-chave:
 - COMAS, Carlos Eduardo Dias. Precisões brasileiras. Sobre um estado passado da arquitetura e urbanismo modernos. Tese de doutoramento. Paris: Universidade de Paris VIII-Vincennes – Saint Denis. 2002.
 - KAMITA, João Massao. Vilanova Artigas. São Paulo: Cosac & Naif, 2000.
 - PEDROSA, Mario [in] AMARAL, Aracy (org), Mario Pedrosa: Mundo, Homem Arte em Crise. São Paulo: Editora Perspectiva, 1975.
-- ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973”. Porto Alegre: Tese de Doutoramento apresentada do UFRGS-PORPAR, 2005. Disponível em: http://www.lume.ufrgs.br/handle/10183/5452
+- ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista 1953-1973”. Porto Alegre: Tese de Doutoramento apresentada do UFRGS-PORPAR, 2005. Disponível em: &lt;<a href="http://www.lume.ufrgs.br/handle/10183/5452">http://www.lume.ufrgs.br/handle/10183/5452</a>&gt;
 - ZEIN, Ruth Verde. O Lugar da Critica. Ensaios Oportunos de Arquitetura. Porto Alegre. Ed.Uniritter, 2000.

@@ -62,12 +62,12 @@ palavras-chave:
 - CABRAL, Cláudia Piantá Costa. Anatomia da rua elevada: o projeto da circulação coletiva como investigação formal e programática na cidade moderna. In: PROJETAR, 4., 2009, São Paulo. São Paulo: Alter Market, 2009. p. 1-23
 - CHAGAS, Bruno Bezerra; FERREIRA E CASTRO, Protásio; CARVALHO, Maurício Luciano;
 - SCHLEGEL, Monika. Análise da satisfação pós-ocupação: condomínio mirante da Taquara. In:
-- ENVIRONMENTAL AND HEALTH WORLD CONGRESS, Santos, 2006. Disponível em: http://copec.eu/congresses/ehwc2006/proc/EHWC.pdf. Acesso em: 19 jul. 2018.
+- ENVIRONMENTAL AND HEALTH WORLD CONGRESS, Santos, 2006. Disponível em: &lt;<a href="http://copec.eu/congresses/ehwc2006/proc/EHWC.pdf">http://copec.eu/congresses/ehwc2006/proc/EHWC.pdf</a>&gt; Acesso em: 19 jul. 2018.
 - COMAS, Carlos Eduardo Dias. O espaço da Arbitrariedade. Projeto, n. 91, set. 1986, p. 127-130.
 - COMAS, Carlos Eduardo Dias. Arquitetura Brasileira: Anos 80 – Um fio de Esperança. AU, n. 28, fev./mar. 1990, p. 91-97.
 - Conjunto Habitacional Inocoop-Cafundá. Projeto, São Paulo, n. 32, ago. 1981, p. 63-72.
 - Conjunto Habitacional Cafundá. Projeto, São Paulo, n. 33, set. 1981, p. 48-52.
-- LABHAB. Conjunto Cafundá. s.d. Disponível em: http://labhabufrj.weebly.com/conjunto- cafundaacute.html. Acesso em: 25 abr. 2017
+- LABHAB. Conjunto Cafundá. s.d. Disponível em: &lt;<a href="http://labhabufrj.weebly.com/conjunto-">http://labhabufrj.weebly.com/conjunto-</a>&gt; cafundaacute.html. Acesso em: 25 abr. 2017
 - MAGALHÃES, Sérgio. Favelas e a Crise do Urbanismo Modernista. In: FREIRE, Américo; OLIVEIRA, Lúcia Lippi. Novas memórias do urbanismo carioca. Rio de Janeiro: Editora Fundação Getúlio Vargas, 2008. p. 187-233.
 - NOGUEIRA, Mauro Neves. Novas gerações à procura de espaços. Projeto, São Paulo, n. 98, abr. 1987, p. 87-89. Os anos 70. Tendências. Habitação Coletiva. Projeto, São Paulo, n. 42, ago. 1982, p. 138-142.
 - PANERAI, Philippe; DEPAULE, Jean-Charles; DEMORGÓN, Marcelle; VEYRENCHE, Michel. Elements d´Analyse Urbaine. Tradução consultada: Elementos de Analisis Urbano. Madrid: Instituto de Estúdios de Administracion Local, 1983.

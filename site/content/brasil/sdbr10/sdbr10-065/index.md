@@ -56,7 +56,7 @@ palavras-chave:
 - BRENNAND, Francisco. Cultura Brasileira: Historicidade e Mito. In: Seminário e Tropicologia. Recife: Revista Pernambucana de Desenvolvimento, v. 4, n.1, 1977.
 - BRENNAND, Francisco. Francisco Brennand: depoimento [abr. 2013/mai.2013]. Entrevistadora: Andréa Gáti. Recife, PE, 2013. 2 cassete sonoro (120 min.)
 - CARRAZONE, Érica. Brennand e a Casa da Cultura. Suplemento Cultural D.O PE, Recife, ano 10, p. 9, jan. 1997.
-- GASPAR, Lúcia. Casa da Cultura (Recife, PE). Fundação Joaquim Nabuco, Recife. Disponível em: &lt;http://basilio.fundaj.gov.br/pesquisaescolar/&gt;. Acesso em: 31 jul. 2013.
+- GASPAR, Lúcia. Casa da Cultura (Recife, PE). Fundação Joaquim Nabuco, Recife. Disponível em: &lt;<a href="http://basilio.fundaj.gov.br/pesquisaescolar/">http://basilio.fundaj.gov.br/pesquisaescolar/</a>&gt; Acesso em: 31 jul. 2013.
 - LAZZARESCHI, Vivian. Documentação Casa de Cultura de Pernambuco [mensagem pessoal]. Mensagem recebida por &lt;pesquisa@institutobardi.com.br&gt; em 20 jun.2013.
 - LEAL, César. Como surgiu a idéia da Casa da Cultura. Recife, PE. Governo do Estado de Pernambuco, ano1, mar.1983.(Patrimônio Cultural de Pernambuco).
 - MARTINS JÚNIOR, Jorge. Jorge Martins Júnior: depoimento [jul. 2013]. Entrevistadora: Andréa Gáti. Recife, PE, 2013. 1 cassete sonoro (60 min.)
@@ -65,4 +65,4 @@ palavras-chave:
 - PEREIRA, Juliano Aparecido. A ação cultural de Lina Bo Bardi na Bahia e no Nordeste:1958- 1964. Uberlândia: Edufu, 2007. ⏐
 - RUBINO, Silvana; GRIMOVER, Marina. Lina por escrito. São Paulo: Cosac Naify, 2009.
 - THIESEN, Beatriz Valladão. Arqueologia industrial ou arqueologia da industrialização? Mais que uma questão de abrangência. Disponível em Revista Eletrônica do Iphan;&lt;www.labjor.unicamp.br/patrimonio/materia.php?id=161&gt;. Acesso em: 31 jul. 2013.
-- SCHULKA, Jordana Paula. Introdução ao Artesanato. SC: UNISUL, 2009. &lt;http://issuu.com/jordana_schulka/docs/origens_do_artesanato&gt;. Acesso em 9 ago. 2013.
+- SCHULKA, Jordana Paula. Introdução ao Artesanato. SC: UNISUL, 2009. &lt;<a href="http://issuu.com/jordana_schulka/docs/origens_do_artesanato">http://issuu.com/jordana_schulka/docs/origens_do_artesanato</a>&gt; Acesso em 9 ago. 2013.

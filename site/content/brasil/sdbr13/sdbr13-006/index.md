@@ -47,7 +47,7 @@ authors:
     familyname: "Rego"
     orcid: "0000-0003-1822-2907"
 doi: "10.5281/zenodo.19077296"
-zenodo_pdf_url: "https://zenodo.org/records/19077297/files/sdbr13-006.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285629/files/sdbr13-006.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -68,8 +68,8 @@ palavras-chave:
 - CAVALCANTI, L. Le Corbusier, o Estado Novo e a formação da arquitetura moderna brasileira. In: Guerra, A. (org.). Textos fundamentais sobre história da arquitetura moderna brasileira. São Paulo: Romano Guerra, 2010.
 - COHEN, J-L. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac Naify, 2013.
 - COMAS, C. E. D. Uma certa arquitetura moderna brasileira: experiência a reconhecer. In: Guerra, A. (org.). Textos fundamentais sobre história da arquitetura moderna brasileira. Parte 1. São Paulo: Romano Guerra, 2010.
-- COSTA, L. Documentação Necessária. Revista do Patrimônio Histórico e Artístico Nacional, n° 01, Rio de Janeiro: Ministério da Educação e Saúde, 1937, p. 31-39. Disponível em: &lt;http://portal.iphan.gov.br/uploads/publicacao/RevPat01_m.pdf&gt;. Acesso em: 22 set. 2018.
-- D'ELBOUX, R. M. M. Uma promenade nos trópicos: os barões do café sob as palmeiras-imperiais, entre o Rio de Janeiro e São Paulo. Anais do Museu Paulista, São Paulo, v. 14, n. 2, p. 193-250, 2006. Disponível em: &lt;http://www.revistas.usp.br/anaismp/article/view/5422/6952&gt;. Acesso em: 22 set. 2018.
+- COSTA, L. Documentação Necessária. Revista do Patrimônio Histórico e Artístico Nacional, n° 01, Rio de Janeiro: Ministério da Educação e Saúde, 1937, p. 31-39. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/publicacao/RevPat01_m.pdf">http://portal.iphan.gov.br/uploads/publicacao/RevPat01_m.pdf</a>&gt; Acesso em: 22 set. 2018.
+- D'ELBOUX, R. M. M. Uma promenade nos trópicos: os barões do café sob as palmeiras-imperiais, entre o Rio de Janeiro e São Paulo. Anais do Museu Paulista, São Paulo, v. 14, n. 2, p. 193-250, 2006. Disponível em: &lt;<a href="http://www.revistas.usp.br/anaismp/article/view/5422/6952">http://www.revistas.usp.br/anaismp/article/view/5422/6952</a>&gt; Acesso em: 22 set. 2018.
 - FICHER, S.; ACAYABA, M. M. Arquitetura moderna brasileira. São Paulo: Projeto, 1982.
 - FRAMPTON, K. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 2003.
 - FRASER, V. Cannibalizing Le Corbusier – The MES Gardens of Roberto Burle Marx. JSAH - Journal of the Society of Architectural Historians, v. 59, n. 2, pp.180-193, jun., 2000. Disponível em: &lt;www.jstor.org/stable/991589&gt;. Acesso em: 20 set. 2018.
@@ -79,16 +79,16 @@ palavras-chave:
 - GOMES, A. C. (org.). Olhando para dentro: 1930-1964. Rio de Janeiro: Objetiva, 2013.
 - GUERRA, A. Lúcio Costa, Gregori Warchavchik e Roberto Burle Marx: Síntese entre arquitetura e natureza tropical. In: Guerra, A. (org.). Textos fundamentais sobre história da arquitetura moderna brasileira. Parte 2. São Paulo: Romano Guerra, 2010.
 - HULSMEYER, A. F.; SILVA, R. H.; PURIFICAÇÃO, C. S.; BARRETO, M. I. L.; RODRIGUES, R. A paisagem urbana como herança cultural: a praça Santos Dumont, Umuarama, Estado do Paraná, Brasil. Acta Scientiarum.
-- Technology, Maringá, v. 33, n. 2, p. 113-121, 2011. Disponível em: &lt;http://periodicos.uem.br/ojs/index.php/ ActaSciTechnol/article/view/7741&gt;. Acesso em: 09 jun. 2018.
+- Technology, Maringá, v. 33, n. 2, p. 113-121, 2011. Disponível em: &lt;<a href="http://periodicos.uem.br/ojs/index.php/">http://periodicos.uem.br/ojs/index.php/</a>&gt; ActaSciTechnol/article/view/7741&gt;. Acesso em: 09 jun. 2018.
 - JEANNERET C. E.; OZENFANT, A. Acerca del purismo: Escritos 1918-1926. Madrid: El Croquis, 1994.
 - LARA, F. L. Excepcionalidade do modernismo brasileiro. São Paulo: Romano Guerra; Austin: Nhamerica, 2018.
 - MARTINS, C. A. F. Identidade nacional e estado no projeto modernista. Modernidade, estado e tradição. In: GUERRA, A. (org.). Textos fundamentais sobre história da arquitetura moderna brasileira. Parte 1. São Paulo: Romano Guerra, 2010.
 - MINDLIN, H. E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora/IPHAN, 2000.
-- REGO, R. L. Importing planning ideas, mirroring progress: the hinterland and the metropolis in mid- twentieth-century Brazil. Planning Perspectives, v. 27, n. 4, p. 625-634, 2012a. Disponível em: &lt;https://www.tandfonline.com/eprint/nge3Qx8Y NByfQ7uK v4Yj/full&gt;. Acesso em: 09 jun. 2018.
+- REGO, R. L. Importing planning ideas, mirroring progress: the hinterland and the metropolis in mid- twentieth-century Brazil. Planning Perspectives, v. 27, n. 4, p. 625-634, 2012a. Disponível em: &lt;<a href="https://www.tandfonline.com/eprint/nge3Qx8Y">https://www.tandfonline.com/eprint/nge3Qx8Y</a>&gt; NByfQ7uK v4Yj/full&gt;. Acesso em: 09 jun. 2018.
 - REGO, R. Modernidade no interior: o norte do Paraná, os engenheiros, arquitetos e urbanistas forâneos e a construção da imagem regional. In: Seminário de História da Cidade e do Urbanismo, 15 a 19 de outubro de 2012b, Porto Alegre. Anais... Porto Alegre: UFRGS, 2012b.
 - REZENDE, V. L. F. M. Urbanismo na Era Vargas: a transformação das cidades brasileiras. Niterói: Intertexto/ Editora da UFF, 2012.
 - ROBBA, F.; MACEDO, S. S. Praças brasileiras/Public squares in Brazil. São Paulo: EDUSP, 2010.
 - SEGAWA, H. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 2002.
 - SUZUKI, J. Cascaldi e Artigas. Arquitetura em Londrina. São Paulo: Ateliê Editorial, 2003.
 - ZEIN, R. V. A Arquitetura da Escola Paulista Brutalista 1953 – 1973. Tese (Doutorado em Teoria História e Crítica da Arquitetura) - Universidade Federal do Rio Grande do Sul, São Paulo e Porto Alegre, 2005a.
-- ZEIN, R. A década ausente. Reconhecimento necessário da arquitetura brasileira do brutalismo &lt;http://docomomo.org.br/course/6-seminario-docomomo-brasil-niteroi/&gt;. Acesso em: 05/12/2018.
+- ZEIN, R. A década ausente. Reconhecimento necessário da arquitetura brasileira do brutalismo &lt;<a href="http://docomomo.org.br/course/6-seminario-docomomo-brasil-niteroi/">http://docomomo.org.br/course/6-seminario-docomomo-brasil-niteroi/</a>&gt; Acesso em: 05/12/2018.

@@ -54,19 +54,19 @@ palavras-chave:
 
 ## Referências
 
-- CASTRIOTA, Leonardo Barci. Intervenções sobre o patrimônio urbano: modelos e perspectivas. In: Anais X Encontro Nacional da ANPUR, 2003, Belo Horizonte. Disponível em: &lt;http://www.forumpatrimonio. com.br/material/pdfs/d23192f049e13a93838d.pdf&gt; Acesso em: 14 fev. 2013.
+- CASTRIOTA, Leonardo Barci. Intervenções sobre o patrimônio urbano: modelos e perspectivas. In: Anais X Encontro Nacional da ANPUR, 2003, Belo Horizonte. Disponível em: &lt;<a href="http://www.forumpatrimonio">http://www.forumpatrimonio</a>&gt; com.br/material/pdfs/d23192f049e13a93838d.pdf&gt; Acesso em: 14 fev. 2013.
 - CASTRIOTA, Leonardo Barci. Patrimônio cultural; conceitos, políticas e instrumentos. São Paulo: Annablume, 2009.
 - CHOAY, Françoise. A alegoria do patrimônio. São Paulo: UNESP, 2001.
 - COLQUHOUN, Alan. Modernidade e tradição clássica; ensaios sobre arquitetura. São Paulo: Cosac Naify, 2004.
-- CUNHA, Cláudia dos Reis; KODAIRA, Karina Terumi. O legado moderno na cidade contemporânea: restauração e uso. In: Anais 8º seminário DOCOMOMO Brasil, Rio de Janeiro, setembro de 2009. Disponível em: &lt;http://www.docomomo.org.br/seminario%208%20pdfs/147 .pdf&gt;. Acesso em: 22 jan 2013.
+- CUNHA, Cláudia dos Reis; KODAIRA, Karina Terumi. O legado moderno na cidade contemporânea: restauração e uso. In: Anais 8º seminário DOCOMOMO Brasil, Rio de Janeiro, setembro de 2009. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/147">http://www.docomomo.org.br/seminario%208%20pdfs/147</a>&gt; .pdf&gt;. Acesso em: 22 jan 2013.
 - CURTIS, William. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 2008.
 - CURY, Isabelle. Cartas Patrimoniais 3ª ed. Rio de Janeiro: IPHAN, 2004.
 - FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. 2ª ed, São Paulo, Martins Fontes, 2008.
 - GRACIA, Francisco de. Construir en lo construído. La arquitetura como modificación. Madrid: Nerea, 1992.
-- Apostila 'Sistema Integrado de Conhecimento e Gestão - SICG'. Disponível em: &lt;http://www.iepro.org.br/wordpress/wp-content/uploads/2015/01/anexo_II_sistema_integrado_de_ bconhecimento_e_gestao_sicg.pdf&gt; Acesso em 07 de junho de 2017.
-- LIRA, Flaviana Barreto. Por uma agenda de discussões sobre a conservação da arquitetura moderna. In: Anais 1º Seminário da Rede Conservação BR, 2012. Disponível em: &lt;http://www.ceci-br.org/ceci/en/informacao/acervo-para-download/category/12-artigos.html&gt; Acesso em: 28 maio 2013.
+- Apostila 'Sistema Integrado de Conhecimento e Gestão - SICG'. Disponível em: &lt;<a href="http://www.iepro.org.br/wordpress/wp-content/uploads/2015/01/anexo_II_sistema_integrado_de_">http://www.iepro.org.br/wordpress/wp-content/uploads/2015/01/anexo_II_sistema_integrado_de_</a>&gt; bconhecimento_e_gestao_sicg.pdf&gt; Acesso em 07 de junho de 2017.
+- LIRA, Flaviana Barreto. Por uma agenda de discussões sobre a conservação da arquitetura moderna. In: Anais 1º Seminário da Rede Conservação BR, 2012. Disponível em: &lt;<a href="http://www.ceci-br.org/ceci/en/informacao/acervo-para-download/category/12-artigos.html">http://www.ceci-br.org/ceci/en/informacao/acervo-para-download/category/12-artigos.html</a>&gt; Acesso em: 28 maio 2013.
 - MONTANER, Josep Maria. Depois do movimento moderno; arquitetura da segunda metade do século XX. Barcelona: Gustavo Gili, 2001.
 - MONTANER, Josep Maria. A modernidade superada: ensaios sobre arquitetura contemporânea. Barcelona: Gustavo Gili, 2013. Edição revisada e ampliada.
 - SALVO, Simona. A intervenção na arquitetura contemporânea como tema emergente do restauro. In: Revista do Programa de Pós-graduação em Arquitetura e Urbanismo da FAUUSP, n.19, 2008, p 198-210.
-- SICG. Disponível em: &lt; http://sicg.iphan.gov.br/sicg/relatorio/bem/visualizar/347&gt; Acesso em 07 de junho de 2017.
+- SICG. Disponível em: &lt;<a href="http://sicg.iphan.gov.br/sicg/relatorio/bem/visualizar/347">http://sicg.iphan.gov.br/sicg/relatorio/bem/visualizar/347</a>&gt; Acesso em 07 de junho de 2017.
 - SILVA, Renato Alves. O desafio da preservação do patrimônio arquitetônico modernista no Rio de Janeiro. 189 páginas. Dissertação (Mestrado profissional em Arquitetura) – Instituto do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, 2012.

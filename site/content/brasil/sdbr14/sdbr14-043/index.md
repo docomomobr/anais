@@ -58,7 +58,7 @@ palavras-chave:
 
 - BARCESSAT, Maria et al. Arquitetura de Belém de 40 a 80. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo) – Universidade Federal do Pará, Belém, 1993.
 - CARDOSO, Andréia L. A valoração como patrimônio cultural do “Raio que o parta”: expressão do modernismo popular, em Belém/PA. Dissertação (Mestrado). Instituto do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, 2012.
-- CARVALHO, Ronaldo Marques de; MIRANDA, Cybelle Salvador. Dos mosaicos às curvas: a estética modernista na Arquitetura residencial de Belém. In: Arquitextos. 2008. Disponível em: &lt;http://vitruvius.es/revistas/read/arquitextos/10.112/25&gt;. Acesso em: 15 out. 2012.
+- CARVALHO, Ronaldo Marques de; MIRANDA, Cybelle Salvador. Dos mosaicos às curvas: a estética modernista na Arquitetura residencial de Belém. In: Arquitextos. 2008. Disponível em: &lt;<a href="http://vitruvius.es/revistas/read/arquitextos/10.112/25">http://vitruvius.es/revistas/read/arquitextos/10.112/25</a>&gt; Acesso em: 15 out. 2012.
 - LARA, Fernando. Modernismo de fachada? Considerações sobre a apropriação popular da estética modernista. In: Anais do VII Seminário de História da Cidade e do Urbanismo. Salvador: UFBa, 2002.
 - LARA, Fernando. Modernismo Popular: elogio ou imitação? In: Cadernos de Arquitetura e Urbanismo, Belo Horizonte, v.12, n.13, p.171-184, dez. 2005.
 - MELLO JUNIOR, Donato. Arquitetura e açaí de Belém. 1966. 4 f. Discurso para formandos da 1ª turma de Arquitetos da Universidade do Pará (Curso de Adaptação Profissional de Arquitetura). Universidade do Pará, Belém, 1966. de 2021
@@ -66,4 +66,4 @@ palavras-chave:
 - RODRIGUES, Rodrigo L. As variações do morar moderno e a assimilação da arquitetura moderna em residências de Belém entre 1940 e 1970. 2019. Dissertação (Mestrado em Arquitetura e Urbanismo) – Programa de Pós-graduação em Arquitetura e Urbanismo, Universidade Federal do Pará, Belém, 2019.
 - SANTOS, Ivana. Raio-que-o-parta – Um fragmento entre cultura e sociedade. Monografia (Especialização) – Núcleo de Altos Estudos Amazônicos, Universidade Federal do Pará, Belém, 1995.
 - VIDAL, Celma. La ciudad del nuevo ecletismo (1930-1950). In: La arquitectura em Belém, 1930-1970: Uma modernización dispersa com lenguajes cambiantes. Tese (Doutorado) - Escola Técnica Superior de Arquitetura, Universidade Politécnica da Catalunha, Barcelona, p. 114-190, 2004.
-- VIDAL, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. In: Revista Risco. Disponível em: &lt;http://www.revistas.usp.br/risco/article/view/44757&gt;. Acesso em: 28 mai. 2014. de 2021
+- VIDAL, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. In: Revista Risco. Disponível em: &lt;<a href="http://www.revistas.usp.br/risco/article/view/44757">http://www.revistas.usp.br/risco/article/view/44757</a>&gt; Acesso em: 28 mai. 2014. de 2021

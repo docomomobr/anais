@@ -79,7 +79,7 @@ palavras-chave:
 - COSTA, L. Sobre Arquitetura. 1962. In: XAVIER, Alberto (org.). Depoimento de uma geração. São Paulo: Cosac & Naify, 2003.
 - ESPÍRITO SANTO (Estado). Arquitetura/ Patrimônio Cultural do Espírito Santo. Secretaria de Estado da Cultura. Conselho Estadual de Cultura – Vitória: SECULT, 2009.
 - FERRAZ, A. R. F. As pioneiras escolas modernas do SENAI e seus idealizadores. Anais do 5º Seminário
-- DOCOMOMO Brasil, São Carlos, SP, 2003. http://docomomo.org.br/wp-content/uploads/2016/01/026R.pdf
+- DOCOMOMO Brasil, São Carlos, SP, 2003. &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/026R.pdf">http://docomomo.org.br/wp-content/uploads/2016/01/026R.pdf</a>&gt;
 - FERREIRA, A.; MELLO; M. G. de (Orgs.). Arquitetura Escolar paulista: Estruturas Pré-fabricadas. São Paulo: editora FDE, 2006.
 - GOODWIN, P. L. Brazil Builds. [s.l.] The Museum of Modern Art, 1943.
 - GORELIK, A. Das vanguardas a Brasília: cultura urbana e arquitetura na américa latina. Belo horizonte: UFMG, 2005.

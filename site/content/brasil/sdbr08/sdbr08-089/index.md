@@ -52,21 +52,21 @@ palavras-chave:
 
 ## Referências
 
-- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos 012. 03. Periódico mensal de texto de arquitetura, maio 2001.&lt; http://www.vitruvius.com.br/arquitextos&gt; Acessado em: 28 de maio de 2009.
+- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos 012. 03. Periódico mensal de texto de arquitetura, maio 2001. &lt;<a href="http://www.vitruvius.com.br/arquitextos">http://www.vitruvius.com.br/arquitextos</a>&gt; Acessado em: 28 de maio de 2009.
 - AMORIM, Luiz Manuel do Eirado. Obituário Arquitetônico: Pernambuco Modernista. Recife, Gráfica Santa Marta, 2007.
 - ALMEIDA, Adriana Leal de. Arquitetura Moderna Residencial de Campina Grande: Registros e Especulações (1960-1969). Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa, 2007.
-- CAMARGO, Monica Junqueira de. Residências modernas: Patrimônio ameaçado. Porto Alegre: 7º DOCOMOMO. Brasil., 2007. &lt; http://www.docomomo.org.br&gt;. Acessado em 28 de maio de 2009.
+- CAMARGO, Monica Junqueira de. Residências modernas: Patrimônio ameaçado. Porto Alegre: 7º DOCOMOMO. Brasil., 2007. &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Acessado em 28 de maio de 2009.
 - CAVALCANTI, Pautília Costa Alves. Arquitetura Moderna Na Orla Marítima: A Produção Residencial nas Praias de JP. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa. 2008.
 - CHAVES, Carolina. João Pessoa: verticalização, progresso e modernidade 1958 – 1975. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa. 2008.
 - COMAS, Carlos Eduardo Dias COMAS, Carlos Eduardo. Arquitetura Moderna 1930 a 1960. In: Roberto Montezuma. (Org.). Arquitetura Brasil 500 anos. Recife, UFPE, 2002. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Enciclopédia dos municípios brasileiros: v 4. Rio de Janeiro, 1960.
 - LARA, Fernando. Popular Modernism: an analysis of the acceptance of modern architecture in 1950s Brazil. Tese (Doutorado) - University of Michigan, Michigan. 2001.
 - LARA, Fernando. “Modernismo Popular: elogio ou imitação?”. Cadernos de Arquitetura e Urbanismo. Vol. 12 nº 13. BH, 2005.
-- MARQUES, Sonia & NASLAVSKY Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo 3º DOCOMOMO Brasil, 1999. &lt; http://www.docomomo.org.br&gt;. Acessado em 28 de maio de 2009.
+- MARQUES, Sonia & NASLAVSKY Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo 3º DOCOMOMO Brasil, 1999. &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Acessado em 28 de maio de 2009.
 - PINÕN, Helio. Paulo Mendes da Rocha. São Paulo: Edicions UPC, 1998.
 - ROCHA, Mércia Pereira. Manifestações da Arquitetura Moderna em João Pessoa. Trabalho Final de Graduação (Graduação em Arquitetura e Urbanismo)-Universidade Federal da Paraíba, João Pessoa, 1987.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900 – 1990. São Paulo: Editora da Universidade de São Paulo, 2002.
 - SILVA, Izabel do Amaral e. Um olhar sobre a obra de Acácio Gil Bórsoi: obras e projetos residenciais 1953 – 1970. Dissertação (Mestrado em Arquitetura e Urbanismo) PPGAU/UFRN, Natal, 2004.
-- TAVARES, Lia, TAVARES, Marieta & TINEM, Nelci. Arquitetura Moderna em João Pessoa. A memória moderna e local de um movimento Internacional. Niterói, VI Docomomo Brasil, 2005. &lt; http://www.docomomo.org.br&gt;. Acessado em 28 de maio de 2009.
+- TAVARES, Lia, TAVARES, Marieta & TINEM, Nelci. Arquitetura Moderna em João Pessoa. A memória moderna e local de um movimento Internacional. Niterói, VI Docomomo Brasil, 2005. &lt;<a href="http://www.docomomo.org.br">http://www.docomomo.org.br</a>&gt; Acessado em 28 de maio de 2009.
 - TEIXEIRA, Fúlvio. Difusão da Arquitetura Moderna na cidade de João Pessoa (1956-1974). Dissertação (Mestrado em Arquitetura e Urbanismo) - EESC/USP, São Carlos, 2006.
 - TINEM, Nelci. O alvo do olhar estrangeiro. Brasil na historiografia da arquitetura moderna. João Pessoa; Editora Universitária, 2006.
 - TRAJANO FILHO, Francisco Sales. Do rio ao mar: uma leitura da cidade de João Pessoa entre duas margens. In TINEM, Nelci, (org.). Fronteiras Marcos e Sinais. Leituras das ruas de João Pessoa. João Pessoa; Editora Universitária/Prefeitura Municipal de João Pessoa, 2006.

@@ -77,12 +77,12 @@ palavras-chave:
 - CHIQUITO, Elisângela de A. A Comissão Interestadual da Bacia Paraná-Uruguai: do planejamento de vale aos polos de desenvolvimento. São Paulo: Alameda, 2017.
 - CORDOVIL, Fabíola C. S.; FARIA, Rodrigo S. A dimensão territorial no planejamento do Paraná: planos e instituições nas décadas de 1960 e 1970. In: Seminário de investigação, ensino e difusão do Laboratório Colaborativo: dinâmicas urbanas, património, artes, VIII, 2022, Mértola, Portugal. Anais. Portugal: Instituto Universitário de Lisboa, v. 1. p. 31-44.
 - FABRINI, João E.; DIAS, Edson dos S. (orgs.). Dinâmica territorial e ambiental em espaço de fronteira. Cascavel-PR: Edunioeste, 2012.
-- FERNANDES, Luiz. Concecendo a Itaipu Binacional. In: Blog Boa Viagem, 2021. Disponível em:&lt;https://boaviagem.org/usina-de-itaipu/&gt;. Acesso maio 2023.
-- FRAZÃO, Dilva. Paulo Mendes da Rocha: arquiteto brasileiro. In: ebiografia. Disponível em:&lt;https://www.ebiografia.com/paulo_mendes_da_rocha/&gt;. Acesso maio 2023.
+- FERNANDES, Luiz. Concecendo a Itaipu Binacional. In: Blog Boa Viagem, 2021. Disponível em: &lt;<a href="https://boaviagem.org/usina-de-itaipu/">https://boaviagem.org/usina-de-itaipu/</a>&gt; Acesso maio 2023.
+- FRAZÃO, Dilva. Paulo Mendes da Rocha: arquiteto brasileiro. In: ebiografia. Disponível em: &lt;<a href="https://www.ebiografia.com/paulo_mendes_da_rocha/">https://www.ebiografia.com/paulo_mendes_da_rocha/</a>&gt; Acesso maio 2023.
 - FREITAS, Eduardo. A polêmica sobre a Usina de Itaipu. In: Mundo Educação, s.d. [on line]
 - GARDIN, Cleonice. A Comissão Interestadual da Bacia Paraná-Uruguai no planejamento regional brasileiro (1951-1972). Dourados, MS: Editora da UFGR, 2009.
 - INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (IPARDES). PROEI: Projeto técnico econômico dos Eixos Industriais do Paraná. Curitiba, 1975.
-- ITAIPU BINACIONAL. Nossa história. Disponível em:&lt;https://www.itaipu.gov.br/nossahistoria&gt;. Acesso maio 2023.
+- ITAIPU BINACIONAL. Nossa história. Disponível em: &lt;<a href="https://www.itaipu.gov.br/nossahistoria">https://www.itaipu.gov.br/nossahistoria</a>&gt; Acesso maio 2023.
 - IZEPÃO, Rosalina Lima. O planejamento governamental no Paraná: economia, estado e política econômica. Maringá: Eduem, 2013.
 - LIMA, Ivone Teresinha Carletto de. Itaipu: as faces de um mega projeto de desenvolvimento (1930-1984). Niterói (Tese doutorado) – Universidade federal Fluminense/Universidade Estadual do Oeste do Paraná, 2004.
 - LOPES, Sérgio (2002). O território do Iguaçu no contexto da “Marcha para Oeste”. Cascavel, PR: Edunioeste, 2002. (Coleção Thésis).
@@ -97,6 +97,6 @@ palavras-chave:
 - SOARES, Karen A. Solek. CORDOVIL, Fabíola C. de Souza. As cidades da faixa de fronteira paranaense: gênese e ressignificação até meados do século XX. In: XX Enanpur. Belém-PA, 2023.
 - SOARES, Karen A. Solek. CORDOVIL, Fabíola C. de Souza. A presença das redes de infraestrutura em áreas de irregularidade urbana: elementos da fluidez de capital. In: 3o SIALAT - Seminário Internacional América Latina. Belém-PA, 2021. p.843-862.
 - TRINTIN, Jaime G. A nova economia paranaense: 1970-2000. Maringá-PR: Eduem, 2006.
-- TRIPAVISOR. Imagem do prédio de controle da Usina de Itapu. Disponível em:&lt;https://www.tripadvisor.com.br/LocationPhotoDirectLink-g303444-d318113-i301511579-Itaipu_Dam- Foz_do_Iguacu_State_of_Parana.html&gt;. Acesso maior 2023
+- TRIPAVISOR. Imagem do prédio de controle da Usina de Itapu. Disponível em: &lt;<a href="https://www.tripadvisor.com.br/LocationPhotoDirectLink-g303444-d318113-i301511579-Itaipu_Dam-">https://www.tripadvisor.com.br/LocationPhotoDirectLink-g303444-d318113-i301511579-Itaipu_Dam-</a>&gt; Foz_do_Iguacu_State_of_Parana.html&gt;. Acesso maior 2023
 - UNIVERSIDADE FEDERAL DO PARANÁ (UFPR). Planos Regionais Industriais: Leste, Norte e Oeste do Paraná (PRI). Curitiba, 1975.
 - ZUGAIB, Eliana. A hidrovia Paraguai-Paraná. Brasília: Funag, 2006.

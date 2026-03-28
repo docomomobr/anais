@@ -57,17 +57,17 @@ palavras-chave:
 
 ## Referências
 
-- ANGELIS NETO, G de e ANGELIS, B.L.D. de Plantas ornamentais: do paisagismo a outras aplicações.  Rev. Bras. Hortc. Ornam. , Campinas, v.5, n.1, p.12-19,  1999.
+- ANGELIS NETO, G de e ANGELIS, B.L.D. de Plantas ornamentais: do paisagismo a outras aplicações. Rev. Bras. Hortc. Ornam. , Campinas, v.5, n.1, p.12-19, 1999.
 - CUNHA, E.G. da; FRANDOLOSO, M.A.L; MASCARÓ, J.J.(Org.). Elementos de arquitetura de climatização natural. Passo Fundo : UPF, 2003, 145p.
 - DIEHL, Astor Antônio. Memória Fotográfica de Passo Fundo. Passo Fundo: UPF Editora, 1997.
 - DOURADO, Guilherme D (Org.). Visões de Paisagem. São Paulo: Associação Brasileira de Arquitetos Paisagistas, 1997.
 - FERRARA, Lucrecia D’Alessio. Os significados urbanos. São Paulo: Edusp, 2000.
 - GRAHN, P. The importance of green urban áreas for people’swell-being. European Regional Planning n. 56, 1994, pp. 89-112.
-- HARDAT, L. P.A.  Áreas verdes como meio de recuperação de áreas degradadas urbanas. In: SIMPÓSIO SUL-AMERICANO E SIMPÓSIO NACIONAL RECUPERAÇÃO DE ÁREAS DEGRADADAS, 1994, Curitiba.  Anais...  Curitiba: FUPEF, 1994.  p.173-184.
+- HARDAT, L. P.A. Áreas verdes como meio de recuperação de áreas degradadas urbanas. In: SIMPÓSIO SUL-AMERICANO E SIMPÓSIO NACIONAL RECUPERAÇÃO DE ÁREAS DEGRADADAS, 1994, Curitiba. Anais... Curitiba: FUPEF, 1994. p.173-184.
 - KATO, Akinori. Plazas of Southern Europe. Tokio: Process Architecture, 1993.
-- LORENZI, H. Árvores brasileiras.  Nova Odessa: Ed. Plantarum, 1992.  352p.
+- LORENZI, H. Árvores brasileiras. Nova Odessa: Ed. Plantarum, 1992. 352p.
 - LYNCH, Kevin. A imagem da cidade. São Paulo: Martins Fontes, 1999.
-- MARENZI, Rosemeri Carvalho.  A influência da Vegetação nas Preferências Paisagísticas no Município da Penha. In: CONGRESSO NACIONAL DE BOTÂNICA, 50, Blumenau/SC, 1999. Programa e Resumos. Blumenau: Soc. Bot. Br., 1999. Pág. 150.
+- MARENZI, Rosemeri Carvalho. A influência da Vegetação nas Preferências Paisagísticas no Município da Penha. In: CONGRESSO NACIONAL DE BOTÂNICA, 50, Blumenau/SC, 1999. Programa e Resumos. Blumenau: Soc. Bot. Br., 1999. Pág. 150.
 - MELLO,E.; CAÑELAS, K. Conceitos de paisagismo. In apostila de aula. Curso de Arquitetura e Urbanismo. Universidade de Passo Fundo. Passo Fundo,2000.
 - MILANO, M.S. O planejamento e o replanejamento da arborização de ruas. In: ENCONTRO NACIONAL DE ARBORIZAÇÃO URBANA,2, 1987, Maringá. Anais... Maringá: PMM,1987. p.01-08.
 - ROCHA, Emerson A. e AGRA, Maria de F. Cactaceae Medicinais da Paraíba, Brasil. In: CONGRESSO NACIONAL DE BOTÂNICA, 49, Salvador/BA, l998. Resumos. Salvador: Soc. Bot. Br., 1998. p. 285

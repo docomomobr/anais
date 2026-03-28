@@ -66,13 +66,13 @@ palavras-chave:
 - BONDUKI, N. Origens da habitação social no Brasil: Arquitetura moderna, lei do inquilinato e difusão da casa própria. 4. ed. São Paulo: Estação Liberdade, 2004.
 - BRUAND, Y. Arquitetura contemporânea no Brasil. Tradução Ana M. Goldberger. 3. ed. São Paulo: Perspectiva, 1997.
 - CORREIA, T. de B. Arquitetura e ambiente: a noção de adaptabilidade ao meio no discurso modernista. Pós-, São Paulo, v. 16, nº 25, p. 134-150, 2009.
-- COSTA, Alcilia Afonso de Albuquerque. Arquitetura do sol: Soluções climáticas produzidas em Recife nos anos 50. Arquitextos, São Paulo, ano 13, n. 147.00, Vitruvius, ago. 2012 Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/13.147/4466&gt;. Acesso em: 5 jun. 2019.
+- COSTA, Alcilia Afonso de Albuquerque. Arquitetura do sol: Soluções climáticas produzidas em Recife nos anos 50. Arquitextos, São Paulo, ano 13, n. 147.00, Vitruvius, ago. 2012 Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/13.147/4466">http://www.vitruvius.com.br/revistas/read/arquitextos/13.147/4466</a>&gt; Acesso em: 5 jun. 2019.
 - COSTA, A. A. de A. Arquitetura e Documentação: A pesquisa sobre modernidade arquitetônica em Teresina. In: FEITOSA, A. R. S. N.; COSTA, A. A. de A. Documentos de arquitetura moderna no Piauí. Teresina: Halley, 2010. 307 p., il.
 - COSTA, A. A. de A.; DANTAS, D. A. L. Reabilitação do antigo edifício do IAPC para habitação de interesse social no centro histórico de Teresina. In: FEITOSA, A. R. S. N.; COSTA, A. A. de A. Documentos de arquitetura moderna no Piauí. Teresina: Halley, 2010. 307 p., il.
 - DANIEL, L. S. Arquitetura moderna institucional em Teresina: Reflexos de um arquiteto migrante.
 - 2014. 207 f. Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade Presbiteriana Mackenzie, São Paulo. 2014.
 - FAÇANHA, A. C. A evolução urbana de Teresina: agentes, processos e formas espaciais da cidade. 1998. 157 f. Dissertação (Mestrado em Geografia) - Universidade Federal de Pernambuco. Recife, 1998.
-- KOURY,A. P.; BONDUKI, N.; MANOEL, S. K. Análise tipológica da produção de habitação econômica São Carlos: EESC, 2003. Disponível em: &lt; http://docomomo.org.br/course/5-seminario- docomomo-brasil-sao-carlos/ &gt;. Acesso em: 21 mar. 2019.
+- KOURY,A. P.; BONDUKI, N.; MANOEL, S. K. Análise tipológica da produção de habitação econômica São Carlos: EESC, 2003. Disponível em: &lt;<a href="http://docomomo.org.br/course/5-seminario-">http://docomomo.org.br/course/5-seminario-</a>&gt; docomomo-brasil-sao-carlos/ &gt;. Acesso em: 21 mar. 2019.
 - MOREIRA, A. C. Teresina e as moradias da região central da cidade (1852-1952). 2016. 371 f. Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade de São Paulo, São Carlos. 2016.
 - SILVA FILHO, O. P. da. Carnaúba, pedra e barro na Capitania de São José do Piauhy. Belo Horizonte: Ed. do autor, 2007.
 - VASCONCELOS, Paulo Eduardo Silva da. Habitação social em São Luís do Maranhão: um estudo sobre a produção de habitação dos Institutos de Previdência e do Banco Nacional da Habitação.

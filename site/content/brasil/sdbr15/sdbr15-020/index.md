@@ -71,7 +71,7 @@ palavras-chave:
 - FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997.
 - GEHL, J. Cidade para pessoas. São Paulo: Perspectiva, 2013.
 - GIEDION, S., LÉGER, F. and SERT, J.L., 1943. Nine points on monumentality. Architecture culture, 1968, pp.27-30.
-- GOMES DE SÁ. C. A Construção Da Paisagem Sobre O Setor Cultural De Brasília: Confrontos Entre O Monumental, O Bucólico E A Capital Contemporânea. In: IV ENANPARQ, 2016, Porto Alegre. Anais eletrônicos [...] PROPAR / UFRGS, 2016. Disponível em: https://www.anparq.org.br/enanparq-
+- GOMES DE SÁ. C. A Construção Da Paisagem Sobre O Setor Cultural De Brasília: Confrontos Entre O Monumental, O Bucólico E A Capital Contemporânea. In: IV ENANPARQ, 2016, Porto Alegre. Anais eletrônicos [...] PROPAR / UFRGS, 2016. Disponível em: &lt;<a href="https://www.anparq.org.br/enanparq-">https://www.anparq.org.br/enanparq-</a>&gt;
 - IV.php. Acesso: 18/06/2023.
 - HARDOY, J. E. Two new capital cities: Brasília and Islamabad. Ekistics, vol. 18, p. 320 - 325, 1964.
 - LASSANCE, G.; SABOIA, L.; PESCATORI, C.; CAPILLÉ, C. Cidade Pós-Compacta. Rio de Janeiro: RioBooks, 2022.
@@ -80,5 +80,5 @@ palavras-chave:
 - MOHR, R. A. The People in the City of the Nation: Re-viewing Islamabad’s Fifth Function. Cambridge: MIT, 2009
 - RIEGL, Alois. El culto moderno a los monumentos. Madrid: Visor, 1987.
 - SABOIA, L. Repensar paisagens planejadas, reconhecer margens: Brasília e a questão do vazio. In:
-- III Congresso de la Asociación Iberoamericana de História Urbana, 2022, Madrid. Anais eletrônicos [...] Madri: AIHU, 2022, p. 03 - 14. Disponível em: https://eventos.ucm.es/_files/_event/_68253/ _editorFiles/file/Mesa%2056%20-%20III%20AIHU.pdf. Acesso: 18/06/2023.
+- III Congresso de la Asociación Iberoamericana de História Urbana, 2022, Madrid. Anais eletrônicos [...] Madri: AIHU, 2022, p. 03 - 14. Disponível em: &lt;<a href="https://eventos.ucm.es/_files/_event/_68253/">https://eventos.ucm.es/_files/_event/_68253/</a>&gt; _editorFiles/file/Mesa%2056%20-%20III%20AIHU.pdf. Acesso: 18/06/2023.
 - TAVARES, J. C. (2014). Projetos para Brasília: 1927-1957. Brasília: Iphan.

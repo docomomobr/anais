@@ -53,8 +53,8 @@ palavras-chave:
 
 ## Referências
 
-- ANDRADE, Carlos Fernando de S. L. Os projetos para a Esplanada de Santo Antônio, em três décadas da Revista Municipal de Engenharia, da Prefeitura do Distrito Federal. Anais Docomomo: 2016, &lt;http://docomomo.org.br/wpcontent/ uploads/2016/01/157.pdf&gt;. Acesso em: 01 Nov. 2017.
-- ANDRADE Jr, Nivaldo Vieira de. Arquitetura Moderna e Preexistência Edificada: intervenções sobre o patrimônio arquitetônico de Salvador a partir dos anos 1950. Anais Docomomo: 2016, &lt;http://docomomo.org.br/wpcontent/uploads/2016/01/Nivaldo-Vieira-de-Andrade-Junior.pdf&gt;. Acesso em: 01 Nov. 2017.
+- ANDRADE, Carlos Fernando de S. L. Os projetos para a Esplanada de Santo Antônio, em três décadas da Revista Municipal de Engenharia, da Prefeitura do Distrito Federal. Anais Docomomo: 2016, &lt;<a href="http://docomomo.org.br/wpcontent/">http://docomomo.org.br/wpcontent/</a>&gt; uploads/2016/01/157.pdf&gt;. Acesso em: 01 Nov. 2017.
+- ANDRADE Jr, Nivaldo Vieira de. Arquitetura Moderna e Preexistência Edificada: intervenções sobre o patrimônio arquitetônico de Salvador a partir dos anos 1950. Anais Docomomo: 2016, &lt;<a href="http://docomomo.org.br/wpcontent/uploads/2016/01/Nivaldo-Vieira-de-Andrade-Junior.pdf">http://docomomo.org.br/wpcontent/uploads/2016/01/Nivaldo-Vieira-de-Andrade-Junior.pdf</a>&gt; Acesso em: 01 Nov. 2017.
 - AYMONINO, Carlo. La vivienda racional: ponencias de los congresos CIAM 1929‐1930. Barcelona: Gustavo Gili S.A., 1973.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 2008.
 - CHOAY. Françoise. O urbanismo: utopias e realidades, uma antologia. São Paulo: Perspectiva, 2007.
@@ -81,12 +81,12 @@ palavras-chave:
 - PINHEIRO, Eloísa Petti. O desenho da cidade: formas urbanas modernas e seus reflexos no Brasil – 1920‐1960. In: GOMES, Marco Aurélio A. F. (org.). Cadernos PPG‐AU/FA UFBA. Vol. 1, n. (2003). Salvador: FAUFBA: Edufba, 2003.
 - PANERAI, Philippe; CASTEX, Jean; DEPAULE, Jean C.; SAMUELS, Ivor. Urban forms: the death and life of the urban block. EUA: Architectural Press, 2004.
 - PEVSNER, Nikolaus. Os pioneiros do desenho moderno: de Willian Morris a Walter Gropius. São Paulo: Martins Fontes, 2002.
-- PINHEIRO, Maria Lucia Bressan. Rumo ao Moderno: Uma Historiografia da Arquitetura Moderna em São Paulo até 1945. Anais Docomomo: 2016. &lt;http://docomomo.org.br/wp- content/uploads/2016/01/Maria_bressan.pdf&gt;. Acesso em: 01 Nov. 2017.
+- PINHEIRO, Maria Lucia Bressan. Rumo ao Moderno: Uma Historiografia da Arquitetura Moderna em São Paulo até 1945. Anais Docomomo: 2016. &lt;<a href="http://docomomo.org.br/wp-">http://docomomo.org.br/wp-</a>&gt; content/uploads/2016/01/Maria_bressan.pdf&gt;. Acesso em: 01 Nov. 2017.
 - REIS FILHO, Nestor Goulart. Quadro da arquitetura no Brasil. São Paulo: Perspectiva, 2006.
 - ROWE, Colin; KOETTER, Fred. Collage City. Cambridge: The MIT Press, 1984.
 - SANTOS, Paulo. Quatro séculos de arquitetura. Rio de Janeiro: Fundação Educacional Rosemar Pimentel,1977.
-- SEGRE, Roberto. Rio de Janeiro, século 21. Atualidade do Plano Agache (1927-1930). Resenhas Online, São Paulo, ano 09, n. 099.01, Vitruvius, mar. 2010 &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline&gt;. Acesso em: 30 Jan. 2018.
-- SEGRE, Roberto. Le Corbusier en Río de Janeiro (1936). Los proyectos del Ministerio de Educación y Salud: Santa Luzia y Castelo. Barcelona: Universitat Politècnica de Catalunya, 2002. &lt; https://upcommons.upc.edu/handle/2099/2573&gt;. Acesso em: 24 Jan. 2018.
+- SEGRE, Roberto. Rio de Janeiro, século 21. Atualidade do Plano Agache (1927-1930). Resenhas Online, São Paulo, ano 09, n. 099.01, Vitruvius, mar. 2010 &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline">http://www.vitruvius.com.br/revistas/read/resenhasonline</a>&gt; Acesso em: 30 Jan. 2018.
+- SEGRE, Roberto. Le Corbusier en Río de Janeiro (1936). Los proyectos del Ministerio de Educación y Salud: Santa Luzia y Castelo. Barcelona: Universitat Politècnica de Catalunya, 2002. &lt;<a href="https://upcommons.upc.edu/handle/2099/2573">https://upcommons.upc.edu/handle/2099/2573</a>&gt; Acesso em: 24 Jan. 2018.
 - SERT, Josep Lluís. Can our cities survive? An ABC of urban problems, their analysis, their solutions. Londres: Humphrey M. Iford: Oxford University Press, 1942.
 - TINEM, Nelci. O alvo do olhar estrangeiro. O Brasil na historiografia da arquitetura moderna. João Pessoa: Editora Universitária, 2006.
 - TOURNIKIOTIS, Panayotis. The Historiography of Modern Architecture. Londres: The MIT Press, 1999.

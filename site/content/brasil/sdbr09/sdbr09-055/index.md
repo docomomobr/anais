@@ -63,8 +63,8 @@ palavras-chave:
 - Carta de Veneza. Carta Internacional sobre conservação e restauração dos monumentos e sítios, Veneza, 1964. In Cartas Patrimoniais, p. 91-95.
 - CARBONARA, Giovanni. Il Restauro del Moderno. In:
 - CARBONARA, Giovanni. (org). Trattato di Restauro Architettonico. Vol. I. Torino: UTET, 2004, p.77-84
-- CARRILHO, Marcos. Restauração de Obras Modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Vitruvius, Novembro de 2000. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp&gt;. Acesso em 12/04/2008
-- CARRILHO, Marcos. A Restauração da Casa da Rua Santa Cruz. Vitruvius, dezembro de 2000. Disponível em: &lt;http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp&gt;. Acesso em 12/04/2008
+- CARRILHO, Marcos. Restauração de Obras Modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. Vitruvius, Novembro de 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp</a>&gt; Acesso em 12/04/2008
+- CARRILHO, Marcos. A Restauração da Casa da Rua Santa Cruz. Vitruvius, dezembro de 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp">http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp</a>&gt; Acesso em 12/04/2008
 - FARIAS, Agnaldo Aricê. A Arquitetura Eclipsada: Notas sobre História e Arquitetura a Propósito da Obra de Gregori Warchavchik, Introdutor da Arquitetura Moderna no Brasil. Campinas: UNICAMP – IFCH, 1990 (Dissertação de Mestrado)
 - FERRAZ, Geraldo. Warchavchik e a introdução da nova arquitetura no Brasil – 1925-1940. São Paulo: Museu de Arte de São Paulo, 1965
 - FONSECA, Maria Cecília Londres, O Patrimônio em Processo – Trajetória da Política Federal de Preservação no Brasil. Rio de Janeiro: UFRJ/ IPHAN, 2005

@@ -57,7 +57,7 @@ palavras-chave:
 - AGAMBEN, Giorgio. Signatura rerum: Sobre el método. Barcelona: Anagrama, 2010.
 - COHEN, Jean-Louis. Le Corbusier 1887 - 1995. El lirismo de la arquitectura en la era mecánica,. Madrid: Taschen, 2014. a.
 - COHEN, Jean-Louis. Le Corbusier Le Grand. London: Phaidon, 2014. b.
-- COLOMINA, Beatriz. Le Corbusier and Photography. The MIT Press, [s. l.], v. 4, p. 6–23, 1987. Disponível em: &lt;http://www.jstor.org/stable/3171032&gt;
+- COLOMINA, Beatriz. Le Corbusier and Photography. The MIT Press, [s. l.], v. 4, p. 6–23, 1987. Disponível em: &lt;<a href="http://www.jstor.org/stable/3171032">http://www.jstor.org/stable/3171032</a>&gt;
 - COLOMINA, Beatriz. Privacy and Publicity. Modern Architecture as Mass Media. London: The MIT Press, 1996.
 - CORBUSIER, Le. L’Atelier de la recherche patiente. Paris: Vincent & Fréal, 1960.
 - CORREAL, Dario Germán. El Proyecto de Arquitectura como Forma de Produción de Conocimiento: Hacia la Investigación Proyectual. Revista de Arquitectura - Universidad Catolica de Colombia, [s. l.], v. 9, p. 48–58, 2007.

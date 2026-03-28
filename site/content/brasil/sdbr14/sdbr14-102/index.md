@@ -63,7 +63,7 @@ palavras-chave:
 - GEERTZ, Clifford.O Saber Local. Do ponto de vista dos nativos: a natureza do entendimento antropológico. In. O saber local. () p. 60-74 Novos ensaios em Antropologia Interpretativa. Petrópolis, Vozes, 2013;
 - GOVONI, Ilário. Os cem anos da campelinha de Lourdes/ Ilário Govoni- 1ª Ed. – Belém-PA: Marques Editora, 2018. Arquitetura Moderna e Internacional: conexões brutalistas 1955-75. Curitiba. 15-18. Out. 2013-PUC/PR
 - GORELIK, Adrián. O moderno em debate: cidade, modernidade, modernização. In: MIRANDA, Wander Melo (Ed.). Narrativas da modernidade. Belo Horizonte: Autêntica, 1999.
-- IGREJA EVANGÉLICA LUTERANA DO BRASIL (IELB). 50 anos da IELB no Norte do Brasil e da CEL Cristo Salvador em Belém, PA. Disponível em: https://www.ielb.org.br/organizacao/visualizar/6622/politica-de- privacidade&r=1&r=1&r=1&r=1- .Acesso: 04/06/2021.
+- IGREJA EVANGÉLICA LUTERANA DO BRASIL (IELB). 50 anos da IELB no Norte do Brasil e da CEL Cristo Salvador em Belém, PA. Disponível em: &lt;<a href="https://www.ielb.org.br/organizacao/visualizar/6622/politica-de-">https://www.ielb.org.br/organizacao/visualizar/6622/politica-de-</a>&gt; privacidade&r=1&r=1&r=1&r=1- .Acesso: 04/06/2021.
 - KOCH, Wilfried. Estilos de Arquitetura II. Tradução: Maria do Carmo Cary. São Paulo: Martins Fontes, 1982.
 - LAPLANTINE, François. Aprender Antropologia. São Paulo: Brasiliense, 2003;
 - MEIRA FILHO, Augusto. O Bi-Secular Palácio de Landi. 3ª ed., Belém, Grafisa, 1976.

@@ -86,5 +86,5 @@ palavras-chave:
 - RAMOS, Milton. In: Memória do Arquiteto de Brasília - Milton Ramos. Produção do Instituto de Arquitetos do Brasil - Departamento do Distrito Federal. Brasília: IAB-DF, 1996.
 - DVD (ca. 80min).
 - ROSSETTI, Eduardo Pierrotti; RAMOS, Graça; fotografia, SELIGMAN, Graça. Palácio Itamaraty: A arquitetura da diplomacia. Brasília, 2017, ITS
-- ROSSETTI, Eduardo Pierrotti. Palácio do Itamaraty: questões de história, projeto e documentação (1959-70). Arquitextos, São Paulo, ano 09, n. 106.02, Vitruvius, mar. 2009 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65&gt;.
+- ROSSETTI, Eduardo Pierrotti. Palácio do Itamaraty: questões de história, projeto e documentação (1959-70). Arquitextos, São Paulo, ano 09, n. 106.02, Vitruvius, mar. 2009 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65">http://www.vitruvius.com.br/revistas/read/arquitextos/09.106/65</a>&gt;
 - SILVA, Elcio. Os palácios originais de Brasília. Brasília: Câmara dos Deputados, Edições Câmara, 2014. 408p.

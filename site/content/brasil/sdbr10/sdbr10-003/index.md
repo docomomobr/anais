@@ -42,7 +42,7 @@ authors:
     familyname: "Medrano"
     orcid: "0000-0003-4524-6090"
 doi: "10.5281/zenodo.19074056"
-zenodo_pdf_url: "https://zenodo.org/records/19074057/files/sdbr10-003.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285591/files/sdbr10-003.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
@@ -65,12 +65,12 @@ palavras-chave:
 - FRAGELLI, Marcello. Quarenta anos de prancheta. São Paulo: Romano Guerra, 2010.
 - JACKSON, MARIE D., ET AL. Material and Elastic Properties of Al-Tobermorite in Ancient Roman Seawater Concrete. Journal of the American Ceramic Society. Vol.:10.1111/jace.12407/ 28.
 - HOLGATE, A. The arct of Structural Engineering: The work of Jorg Schlaich and his team. Sttutgart: Axel Menges, 1997.
-- HOLZER, Christin E; GARLOCK, Maria E. M;PREVOST, jean H. Structural optimization of Felix candela’s chapel Lomas de Cuernavaca. Former Undergraduate, Dept. of Civil and Environmental Engineering, Princeton University. Disponível em &lt;http://www.princeton.edu/~dynaflow/pub_conf_pdf_files/StructuralOptimizationCandelaChapel.p&gt; acesso em 20.junh.2013.
+- HOLZER, Christin E; GARLOCK, Maria E. M;PREVOST, jean H. Structural optimization of Felix candela’s chapel Lomas de Cuernavaca. Former Undergraduate, Dept. of Civil and Environmental Engineering, Princeton University. Disponível em &lt;<a href="http://www.princeton.edu/~dynaflow/pub_conf_pdf_files/StructuralOptimizationCandelaChapel.p">http://www.princeton.edu/~dynaflow/pub_conf_pdf_files/StructuralOptimizationCandelaChapel.p</a>&gt; acesso em 20.junh.2013.
 - MEDRANO, R. H.; MEIRELLES, C. R. M. Estruturas Espaciais em Cascas: Estudo de Casos Latino-Americano. In: XXI Conferencia Latinoamericana de Escuelas y Facultades de Arquitectura CLEFA XXI, 2005.
-- PRINCETON UNIVERSITY ART MUSEUM. Felix Candela, engineer, builder, structural artist. 2008 disponível em &lt;http://mcis2.princeton.edu/candela/cuernavaca.html&gt; acesso em 13.junh.2013.
-- PIRITUBANET. Mercado de Pirituba. Disponível em http://www.pirituba.net/almanaque/mercado- de-pirituba acesso em 5.jun.2013.
+- PRINCETON UNIVERSITY ART MUSEUM. Felix Candela, engineer, builder, structural artist. 2008 disponível em &lt;<a href="http://mcis2.princeton.edu/candela/cuernavaca.html">http://mcis2.princeton.edu/candela/cuernavaca.html</a>&gt; acesso em 13.junh.2013.
+- PIRITUBANET. Mercado de Pirituba. Disponível em &lt;<a href="http://www.pirituba.net/almanaque/mercado-">http://www.pirituba.net/almanaque/mercado-</a>&gt; de-pirituba acesso em 5.jun.2013.
 - TORROJA, E. Razón y ser de los tipos estructurales. Madri: Instituto Técnico de la Construccion y del Cemento, 1960.
 - VASCONCELOS, A. C. Estruturas arquitetônicas: apreciação intuitiva das formas estruturais. São Paulo: Nobel, 1991.
 - VASCONCELOS, A. C.; CARRIERI JUNIOR, R. A escola Brasileira do Concreto Armado. São Paulo, AXIS MVNDI, 2005.
-- ZEIN, Ruth Verde. Arquitetura Paulista Brutalista de 1953-1973. Disponível em &lt; http://www.arquiteturabrutalista.com.br/index.htm &gt; acesso em 011.junh.2013 &gt;
-- ZEIN, Ruth Verde. Estação armênia (ponte-pequena): Metrô de São Paulo. Disponível em &lt;http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201968-112/1968-112- fichatecnica.htm&gt; acesso em 20.jul.2013.
+- ZEIN, Ruth Verde. Arquitetura Paulista Brutalista de 1953-1973. Disponível em &lt;<a href="http://www.arquiteturabrutalista.com.br/index.htm">http://www.arquiteturabrutalista.com.br/index.htm</a>&gt; &gt; acesso em 011.junh.2013 &gt;
+- ZEIN, Ruth Verde. Estação armênia (ponte-pequena): Metrô de São Paulo. Disponível em &lt;<a href="http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201968-112/1968-112-">http://www.arquiteturabrutalista.com.br/fichas-tecnicas/DW%201968-112/1968-112-</a>&gt; fichatecnica.htm&gt; acesso em 20.jul.2013.

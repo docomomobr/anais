@@ -66,7 +66,7 @@ palavras-chave:
 - PISANI, D. Paulo Mendes da Rocha: obra Completa. Editora Gustavo Gili. São Paulo, 2013
 - SANVITTO, M.L.A. Brutalismo Paulista: Uma estética justificada por uma ética? In: X Seminário
 - DOCOMOMO BRASIL - Arquitetura Moderna e Internacional: conexões brutalistas. Curitiba:
-- PUCPR, 2013. &lt; http://docomomo.org.br/wp-content/uploads/2016/08/CON_03.pdf &gt;. Acesso em: 10 de junho de 2019
+- PUCPR, 2013. &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/08/CON_03.pdf">http://docomomo.org.br/wp-content/uploads/2016/08/CON_03.pdf</a>&gt; &gt;. Acesso em: 10 de junho de 2019
 - SANVITTO, M.L.A. Brutalismo Paulista: uma análise compositiva de residências paulistanas entre 1957 e 1972. Dissertação de mestrado. Porto Alegre: UFRS, 1994.
 - TOZZI, D. Arquiteto Décio Tozzi: Cadernos Brasileiros de Arquitetura. São Paulo: Projeto, 1980.
 - ZEIN, R.V. A Arquitetura da Escola Paulista Brutalista 1953 - 1973. Tese de doutoramento. São Paulo e Porto Alegre: UFRS - PROPAR, 2005.

@@ -64,4 +64,4 @@ palavras-chave:
 - Frampton, Kenneth. New Brutalism and the Welfare State. In Modern architecture: a critical history. 4th ed. London; New York : Thames & Hudson, 2007. pp.262 Kamita, João Masao. Vilanova Artigas. São Paulo: Cosac& Naify, 2000 p.23 Segawa, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo, EDUSP, 1998.
 - Spadoni, Francisco. A transição do Moderno. Arquitetura Brasileira na década de 1970. Tese de Doutorado FAUUSP, 2004.
 - Wisnick, Guilherme. (ed.) 2G n. 54. João Vilanova Artigas, Barcelona, Gustavo Gili, 2010.
-- Zein, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese de Doutorado, UFRGS, 2005. http://hdl.handle.net/10183/5452 ⏐
+- Zein, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Tese de Doutorado, UFRGS, 2005. &lt;<a href="http://hdl.handle.net/10183/5452">http://hdl.handle.net/10183/5452</a>&gt; ⏐

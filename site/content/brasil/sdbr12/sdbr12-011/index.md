@@ -45,7 +45,7 @@ authors:
     familyname: "Hautequestt Filho"
     orcid: "0000-0001-8869-6118"
 doi: "10.5281/zenodo.19076889"
-zenodo_pdf_url: "https://zenodo.org/records/19076890/files/sdbr12-011.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285616/files/sdbr12-011.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
@@ -60,15 +60,15 @@ palavras-chave:
 
 ## Referências
 
-- AUTOR DESCONHECIDO. Residência Eli de Barros, em Praia de Santa Helena.Disponível em: &lt;http://arquiteturamodernacapixaba.lucianamurta.com/wp-content/uploads/2013/01/roteiro3-pag-61-63.jpg&gt; Acesso em: 17 set. 2016
-- AUTOR DESCONHECIDO. Hospital Evangélico de Vila Velha.Disponível em: &lt;https://capixabadagemabrasil.wordpress.com/about/vila-velha-es-82/&gt; Acesso em: 18 set. 2016
+- AUTOR DESCONHECIDO. Residência Eli de Barros, em Praia de Santa Helena.Disponível em: &lt;<a href="http://arquiteturamodernacapixaba.lucianamurta.com/wp-content/uploads/2013/01/roteiro3-pag-61-63.jpg">http://arquiteturamodernacapixaba.lucianamurta.com/wp-content/uploads/2013/01/roteiro3-pag-61-63.jpg</a>&gt; Acesso em: 17 set. 2016
+- AUTOR DESCONHECIDO. Hospital Evangélico de Vila Velha.Disponível em: &lt;<a href="https://capixabadagemabrasil.wordpress.com/about/vila-velha-es-82/">https://capixabadagemabrasil.wordpress.com/about/vila-velha-es-82/</a>&gt; Acesso em: 18 set. 2016
 - AUTOR DESCONHECIDO. Catetinho, UFES.Disponível em: &lt;https://get.google.com/albumarchive/&gt;Acesso em: 18 set. 2016
 - BEBER, C. E. L. P. Élio de Almeida Vianna e Maria do Carmo Schwab: arquitetos modernistas. Trabalho de Graduação. PG UFES. 1991.
 - BENÉVOLO, L.História da arquitetura moderna. Editora Perspectiva S.A.; 3 ed.; São Paulo, SP: 2001.
-- FRACALOSSI, I. Clássicos da Arquitetura: Capela de Ronchamp. Disponível em: &lt;http://www.archdaily.com.br/br/01-16931/classicos-da-arquitetura-capela-de-ronchamp-le-corbusier&gt; Acesso em: 14 nov. 2016
+- FRACALOSSI, I. Clássicos da Arquitetura: Capela de Ronchamp. Disponível em: &lt;<a href="http://www.archdaily.com.br/br/01-16931/classicos-da-arquitetura-capela-de-ronchamp-le-corbusier">http://www.archdaily.com.br/br/01-16931/classicos-da-arquitetura-capela-de-ronchamp-le-corbusier</a>&gt; Acesso em: 14 nov. 2016
 - KLUG, L. B. Vitória: Sítio Físico e Paisagem. Editora da Universidade Federal do Espírito Santo. 1ª edição, 2009.
-- MENDONÇA, E. M. S. A atuação de Henrique de Novaes no urbanismo da cidade de Vitória.2010. Disponível em: &lt;http://www.anparq.org.br/dvd-enanparq/simposios/34/34-297-1-SP.pdf&gt; Acesso em: 02 set. 2016
-- MENDONÇA, E. M. S. Planos para Vitória (ES) segundo Henrique de Novaes. Disponível em: &lt;https://unuhospedagem.com.br/revista/rbeur/index.php/anais/article/download/1966/1929&gt; Acesso em: 19 set.2016
+- MENDONÇA, E. M. S. A atuação de Henrique de Novaes no urbanismo da cidade de Vitória.2010. Disponível em: &lt;<a href="http://www.anparq.org.br/dvd-enanparq/simposios/34/34-297-1-SP.pdf">http://www.anparq.org.br/dvd-enanparq/simposios/34/34-297-1-SP.pdf</a>&gt; Acesso em: 02 set. 2016
+- MENDONÇA, E. M. S. Planos para Vitória (ES) segundo Henrique de Novaes. Disponível em: &lt;<a href="https://unuhospedagem.com.br/revista/rbeur/index.php/anais/article/download/1966/1929">https://unuhospedagem.com.br/revista/rbeur/index.php/anais/article/download/1966/1929</a>&gt; Acesso em: 19 set.2016
 - MIRANDA, C. L. A arquitetura moderna brasileira: experiência e expectativa de modernização do Espírito Santo.In: 9 Seminário DOCOMOMO Brasil, 2011, Brasília. 9 Seminário docomomo Brasil Interdiciplinaridade, experiência em documentação, preservação do patrimônio recente. Brasilia: UnB-FAU, 2011. v. 1.
 - MIRANDA, C. L. As referências carioca e mineira da arquitetura moderna do Espírito Santo.In: DO.CO.MO.MO, 2010, Uberlândia. Arquitetura e Urbanismo Modernos em Minas Gerais. Novas fornteiras, novos cenários. Uberlândia: Campus Sta Monica. ufu, 2010. v. 2.
 - MIRANDA, C. L. Arquitetura Moderna Capixaba e Identidade.In: VIII Encontro Regional da Anpuh-ES, 2010, Vitória. História Política em debate: linguagens, conceitos, ideologias. Vitória: GM Gráfica e Editora, 2010.

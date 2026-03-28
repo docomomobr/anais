@@ -77,4 +77,4 @@ palavras-chave:
 - PIMENTEL, M. E. M.. Os Meios de Hospedagem e a Introdução do Moderno na Casa Brasileira. In: XXVI Simpósio Nacional de História - Anpuh 50 anos., 2011, São Paulo. XXVI Simpósio Nacional de História, 2011.
 - PIRES, Mário Jorge. Hotéis do século XIX em Sâo Paulo e Rio de Janeiro: Diversidade de Serviços. Turismo em Análise, Sâo Paulo. V. , n. 2, p 55-64, 1991.
 - SILVA, Teresa Madeira da. As artes plásticas na configuração da arquitectura. Três edifícios Síntese e Paradoxo das Artes. Rio de Janeiro, 2009.
-- VARGAS, Heliana Comin. Espaços de consumo e a arquitetura de Morris Lapidus. Arquitextos, São Paulo, ano 19, n. 224.02, Vitruvius, jan. 2019 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/19.224/7274&gt;. ‘
+- VARGAS, Heliana Comin. Espaços de consumo e a arquitetura de Morris Lapidus. Arquitextos, São Paulo, ano 19, n. 224.02, Vitruvius, jan. 2019 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/19.224/7274">http://www.vitruvius.com.br/revistas/read/arquitextos/19.224/7274</a>&gt; ‘

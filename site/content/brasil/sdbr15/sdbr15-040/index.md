@@ -72,17 +72,17 @@ palavras-chave:
 
 ## Referências
 
-- Acervos FAU USP. Disponível em: &lt;https://www.acervos.fau.usp.br/page/inicio&gt;. Acesso em 23 de junho de 2023.
+- Acervos FAU USP. Disponível em: &lt;<a href="https://www.acervos.fau.usp.br/page/inicio">https://www.acervos.fau.usp.br/page/inicio</a>&gt; Acesso em 23 de junho de 2023.
 - ANELLI, R. L. Arquitetura e Cidade na Obra de Rino Levi. São Paulo, FAUUSP, 1995.
 - ANELLI, R. L. S.; GUERRA, Abílio ; KON, N. . Rino Levi - Arquitetura e Cidade. São Paulo: Romano Guerra Editora, 2001.
 - ARANHA, Maria Beatriz de Camargo. A obra de Rino Levi e a trajetória da arquitetura moderna no Brasil.
 - CAMARGO, Mônica Junqueira de. Poéticas da razão e construção: conversa de paulista. 2009. Tese (Livre Docência) – Universidade de São Paulo, São Paulo, 2009. . Acesso em: 14 jun. 2023.
 - CAMARGO, Mônica Junqueira de. O Setor das Humanas como Patrimônio Arquitetônico e a História da Arquitetura Paulista. In: José Tavares Correia de Lira. (Org.). Patrimônio Construído da USP: preservação, gestão e memória. 1ed. São Paulo: Editora da Universidade de São Paulo, 2014, v. 1, p. 200-219.
-- CAMARGO, Mônica Junqueira de. Inventário dos bens culturais relativos ao plano de ação do Governo Carvalho Pinto (1959-1963). Revista CPC, n. 21 especial, p. 164-203, 2016. Disponível em: http://www.revistas.usp.br/cpc/article/view/111965/115884. Acesso em: 16 jun. 2023.
-- CAMARGO, Mônica Junqueira de. Princípios de arquitetura moderna na obra de Oswaldo Arthur Bratke. Tese Doutorado em Arquitetura e Urbanismo- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2000. Disponível em: https://www.teses.usp.br/teses/disponiveis/16/16131/tde-26042022-155340/pt-br.php. Acesso em: 06 jun. 2023.
+- CAMARGO, Mônica Junqueira de. Inventário dos bens culturais relativos ao plano de ação do Governo Carvalho Pinto (1959-1963). Revista CPC, n. 21 especial, p. 164-203, 2016. Disponível em: &lt;<a href="http://www.revistas.usp.br/cpc/article/view/111965/115884">http://www.revistas.usp.br/cpc/article/view/111965/115884</a>&gt; Acesso em: 16 jun. 2023.
+- CAMARGO, Mônica Junqueira de. Princípios de arquitetura moderna na obra de Oswaldo Arthur Bratke. Tese Doutorado em Arquitetura e Urbanismo- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2000. Disponível em: &lt;<a href="https://www.teses.usp.br/teses/disponiveis/16/16131/tde-26042022-155340/pt-br.php">https://www.teses.usp.br/teses/disponiveis/16/16131/tde-26042022-155340/pt-br.php</a>&gt; Acesso em: 06 jun. 2023.
 - CAMARGO, Mônica Junqueira de. Joaquim Guedes. São Paulo: Cosac&Naify, 2000.
-- IURASSEK, Dimitri. Arquivo Arq. Disponível em: &lt;https://arquivo.arq.br/&gt; Acesso em 23 de junho de 2023. Imagine Rio. Disponível em: &lt;imaginerio.org./pt&gt;. Acesso em 23 de junho de 2023.
+- IURASSEK, Dimitri. Arquivo Arq. Disponível em: &lt;<a href="https://arquivo.arq.br/">https://arquivo.arq.br/</a>&gt; Acesso em 23 de junho de 2023. Imagine Rio. Disponível em: &lt;imaginerio.org./pt&gt;. Acesso em 23 de junho de 2023.
 - REIS FILHO, N.G. e BURLE-MARX, R. Rino Levi. Milano : Edizioni di Comunità, 1974.
 - SEGAWA, Hugo Massaki e DOURADO, Guilherme Onofre Mazza. Oswaldo Arthur Bratke: a arte de bem projetar e construir. São Paulo: PW Editores, 2012. Acesso em: 10 jun. 2022.
 - TOLEDO, Benedito Lima de. São Paulo Três Cidades Em Um Século. São Paulo: Cosac&Naify, 2004.
-- UNIFESP. Arquivo do Estado de São Paulo. Instituto Nacional de Pesquisas Espaciais (INPE). Emory university (EUA). Disponível em: &lt;http://www.pauliceia.dpi.inpe.br/portal/home&gt;. Acesso em: 23 de junho de 2023.
+- UNIFESP. Arquivo do Estado de São Paulo. Instituto Nacional de Pesquisas Espaciais (INPE). Emory university (EUA). Disponível em: &lt;<a href="http://www.pauliceia.dpi.inpe.br/portal/home">http://www.pauliceia.dpi.inpe.br/portal/home</a>&gt; Acesso em: 23 de junho de 2023.

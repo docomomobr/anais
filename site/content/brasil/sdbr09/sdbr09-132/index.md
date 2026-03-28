@@ -50,7 +50,7 @@ autores:
 - BRANDARIZ, Gustavo A., La arquitectura escolar de inspiración sarmientina, Buenos Aires, Eudeba-UBA, 1998.
 - DE MASI, Oscar A., "Modelos y regresiones en la arquitectura de los estados fuertes. La excepcionalidad peronista", en Gutiérrez, Ramón (ed.), Jorge Sabaté. Arquitectura para la justicia social, Buenos Aires, Cedodal, 2009.
 - ESPINOZA, Lucía, Arquitectura escolar y Estado moderno. Santa Fe 1900-1943, Colección Polis Científica, nº 6, Santa Fe, UNL, 2005.
-- ESPINOZA, Lucía, "Los únicos privilegiados son los niños. Estado y Arquitectura durante el primer decenio peronista",  Publicación digital del XXX Encuentro de Geohistoria Regional, Instituto de Investigaciones Geohistóricas - CONICET, Resistencia, Chaco, 2010.
+- ESPINOZA, Lucía, "Los únicos privilegiados son los niños. Estado y Arquitectura durante el primer decenio peronista", Publicación digital del XXX Encuentro de Geohistoria Regional, Instituto de Investigaciones Geohistóricas - CONICET, Resistencia, Chaco, 2010.
 - ESPINOZA, LUCÍA, "Plan de edificación escolar Standard para Santa Fe", en Gutiérrez, Ramón (ed.) Sánchez, Lagos y De La Torre. Del Eclectisismo al Estilo Moderno, Buenos Aires, CEDODAL, 2010.
 - MACOR, Darío, La reforma política en la encrucijada. La experiencia demoprogresista en el Estado provincial santafesino, Santa Fe, CEDEHIS-UNL, 1993.
 - MULLER, Luis (coord.); ESPINOZA, Lucía; TARCHINI, María L.; PARERA, Cecilia; ACOSTA, María M., Arquitectura moderna en Santa Fe (1935-1955), Colección Ciencia y Técnica, Santa Fe, UNL, 2008.

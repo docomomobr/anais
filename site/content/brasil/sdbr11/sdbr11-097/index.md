@@ -51,12 +51,12 @@ palavras-chave:
 
 ## Referências
 
-- ANELLI, Renato Luiz Sobral. Da integração à autonomia: arte, arquitetura e cultura no Brasil (1950-1980). 8º http://www.docomomo.org.br/seminario%208%20pdfs/086.pdf
+- ANELLI, Renato Luiz Sobral. Da integração à autonomia: arte, arquitetura e cultura no Brasil (1950-1980). 8º &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/086.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/086.pdf</a>&gt;
 - ANDRADE JÚNIOR, Nivaldo V. de; ANDRADE, Maria R. de C.; FREIRE, Raquel N. da C.. O IPHAN E OS DESAFIOS DA
-- PRESERVAÇÂO DO PATRIMÔNIO MODERNO: A aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos. 8º Seminário DOCOMOMO Brasil. Rio de Janeiro, 2009. Disponível em: http://www.docomomo.org.br/seminario%208%20pdfs/142.pdf
+- PRESERVAÇÂO DO PATRIMÔNIO MODERNO: A aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos. 8º Seminário DOCOMOMO Brasil. Rio de Janeiro, 2009. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%20pdfs/142.pdf">http://www.docomomo.org.br/seminario%208%20pdfs/142.pdf</a>&gt;
 - ANDRADE JÚNIOR, Nivaldo V. Arquitetura moderna na Bahia, 1947-1951: uma história a contrapelo. Tese apresentada ao Programa de Pós-Graduação em Arquitetura e Urbanismo da Universidade Federal da Bahia. Salvador, 2012.
 - BOURDIEU, Pierre. A economia das trocas simbólicas. São Paulo: Perspectiva, 2013.
-- CADERNOS DA CIDADE. Uso e Ocupação do Solo em Salvador. Secretaria Municipal de Desenvolvimento Urbano, Habitação e Meio Ambiente — SEDHAM Coordenadoria Central de Produção de Indicadores Urbano- Ambientais — COPI Salvador—Bahia— Ano I, No 1—Junho de 2009 Volume 1. Disponível em: http://www.sim.salvador.ba.gov.br/caderno/Cadernos_da_Cidade.pdf
+- CADERNOS DA CIDADE. Uso e Ocupação do Solo em Salvador. Secretaria Municipal de Desenvolvimento Urbano, Habitação e Meio Ambiente — SEDHAM Coordenadoria Central de Produção de Indicadores Urbano- Ambientais — COPI Salvador—Bahia— Ano I, No 1—Junho de 2009 Volume 1. Disponível em: &lt;<a href="http://www.sim.salvador.ba.gov.br/caderno/Cadernos_da_Cidade.pdf">http://www.sim.salvador.ba.gov.br/caderno/Cadernos_da_Cidade.pdf</a>&gt;
 - CAYMMI, Stella. Dorival Caymmi: o mar e o tempo. São Paulo: Editora 34, 2014.
 - CRUZ, Luiz Gonzaga. A arte do mural e o muralismo na Bahia. Tese apresentada ao Concurso para Professor Assistente do Departamento de Desenho da Escola de Belas Artes da UFBA, 1973.
 - FALCÃO, Washington (Coord.). A obra de Juarez Paraíso. Salvador: Juarez Paraíso, 2006.

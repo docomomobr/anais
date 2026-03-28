@@ -43,7 +43,7 @@ autores:
 
 ## Referências
 
-- Parque Cecap. 2008, http://www.calangodesign.com/cecap/estrut.html.
+- Parque Cecap. 2008, &lt;<a href="http://www.calangodesign.com/cecap/estrut.html">http://www.calangodesign.com/cecap/estrut.html</a>&gt;
 - Artigas, João Baptista Vilanova, João Baptista Vilanova Artigas, Kenneth Frampton, and Gilherme Wisnik. João Vilanova Artigas. Barcelona: Gustavo Gili, 2010
 - Artigas, João Baptista Vilanova, Instituto Lina Bo e P. M. Bardi, and Fundaçao Vilanova Artigas. Vilanova Artigas :Arquitetos Brasileiros = Brazilian Architects. Sao Paolo: Instituto Lina Bo e P.M. Bardi, 1997. Barba Corsini, F. J., Xavier Monteys, and Pere Fuertes. Mitre :Barcelona 1959-64. Barcelona: Col·legi d'Arquitectes de Catalunya, 1998.
 - Broadbent, G. "Brazil Still Builds: Vilanova Artigas and Affbnso Eduardo Reidy." AA Files 37, (1998): 56.

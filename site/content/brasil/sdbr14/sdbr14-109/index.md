@@ -66,6 +66,6 @@ palavras-chave:
 - LUGARPA S/C Ltda. Luiz Juan Alberto Garcia Pardo. Construções em cerâmica armada. BR PI 8302227, 27 abr. 1983, 04 dez. 1984.
 - MEDERO, Santiago et. al. Luis García Pardo. Montevideo: Instituto de Historia de la Arquitectura; Faculdad de Arquitectura de la Universidad de la Republica, 2012.
 - PREMIADOS os vencedores do concurso de projetos para motéis. Revista Quatro Rodas, São Paulo, ano 5, n.57, p. 15, abr. 1965.
-- SANTOS, Ademir Pereira; REGINO, Aline Nassaralla. Eduardo Kneese de Mello: Cronologia. Disponível em: &lt; https://www.belasartes.br/kneese/?pagina=cronologia&tipo=biografia&ano=1955&gt;. Acesso em: 16 jun. 2021.
+- SANTOS, Ademir Pereira; REGINO, Aline Nassaralla. Eduardo Kneese de Mello: Cronologia. Disponível em: &lt;<a href="https://www.belasartes.br/kneese/?pagina=cronologia&tipo=biografia&ano=1955">https://www.belasartes.br/kneese/?pagina=cronologia&tipo=biografia&ano=1955</a>&gt; Acesso em: 16 jun. 2021.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 2013.
 - VIANA, Rubens Carneiro. Parecer Técnico. Revista Quatro Rodas, São Paulo, ano 6, n.64, p.60-61, nov. 1965.

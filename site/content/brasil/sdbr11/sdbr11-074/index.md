@@ -51,15 +51,15 @@ palavras-chave:
 ## Referências
 
 - AZAMBUJA, Eduardo Bicudo de Castro. A torre de Lucio Costa em Brasília. xvii, 189 f., il. Dissertação (Mestrado em Arquitetura e Urbanismo)—Universidade de Brasília, Brasília, 2012.
-- CORULLON, Martin. A plataforma rodoviária de Brasília: infraestrutura, arquitetura e urbanidade. 2013. Dissertação (Mestrado em Projeto, Espaço e Cultura) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2013. Disponível em: &lt;http://www.teses.usp.br/teses/disponiveis/16/16136/tde- 14082013-142012/&gt;. Acesso em: janeiro 2016.
+- CORULLON, Martin. A plataforma rodoviária de Brasília: infraestrutura, arquitetura e urbanidade. 2013. Dissertação (Mestrado em Projeto, Espaço e Cultura) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2013. Disponível em: &lt;<a href="http://www.teses.usp.br/teses/disponiveis/16/16136/tde-">http://www.teses.usp.br/teses/disponiveis/16/16136/tde-</a>&gt; 14082013-142012/&gt;. Acesso em: janeiro 2016.
 - DERRIDA, Jacques. Khora: ensaio sobre o nome. Tradução de Nícia Adan Bonatti. Campinas: Papirus, 1995.
 - DERRIDA, Jacques. Sur Parole, Instantanés philosophiques. Paris: Éditions de l’Aube, 1999, p.53.
 - DERRIDA, Jacques. Posições. Traduzido por Tomaz Tadeu da Silva. Belo Horizonte: Autêntica, 2001. p.25-26.
 - DERRIDA, Jacques. A palavra acolhimento. Tradução de Fabio Landa. In: Adeus a Emmanuel Levinas. São Paulo: Perspectiva, 2004.
 - DERRIDA, Jacques. Violência e metafísica: ensaio sobre o pensamento de Emmanuel Lévinas. Tradução de Maria Beatriz Marques Nizza da Silva, Pedro Leite Lopes e Pérola de Carvalho. In: A estrutura e a diferença. São Paulo: Perspectiva. 2009.
 - FUÃO, F. Freitas. Jacques Derrida & arquitetura. Rio de Janeiro, 1.ed. 2012. 39 a 105p
-- FUÃO, F. Freitas. A hospitalidade na arquitetura. Porto Alegre. Fonte: http://fernandofuao.blogspot.com.br, 2012a. Acessado em: outubro 2015
-- FUÃO, F. Freitas. As ocupações dos viadutos e as formas do acolhimento na arquitetura. Fonte: http://fernandofuao.blogspot.com.br, 2012b. Acessado em: outubro 2015.
+- FUÃO, F. Freitas. A hospitalidade na arquitetura. Porto Alegre. Fonte: &lt;<a href="http://fernandofuao.blogspot.com.br">http://fernandofuao.blogspot.com.br</a>&gt; 2012a. Acessado em: outubro 2015
+- FUÃO, F. Freitas. As ocupações dos viadutos e as formas do acolhimento na arquitetura. Fonte: &lt;<a href="http://fernandofuao.blogspot.com.br">http://fernandofuao.blogspot.com.br</a>&gt; 2012b. Acessado em: outubro 2015.
 - HAESBAERT, R. O mito da desterritorialização; do "fim dos territórios" à multiterritorialidade. 8. ed. Rio de Janeiro: Bertrand Brasil. v. 1. 2014. 400p.
 - HEIDEGGER, Martin. Identity and Diference. New York: Harper & Row. 1972.
 - HOLANDA, F. 10 mandamentos da arquitetura. 1º edição, Brasília, FRBH, 2013.
@@ -68,4 +68,4 @@ palavras-chave:
 - RODRIGUES, C. Rastros do feminino: sobre ética e política em Jacques Derrida. Rio de Janeiro. 2010. 210p. Tese de Doutorado - Departamento de Teologia Pontifícia Universidade Católica do Rio de Janeiro.
 - SCHÜTZ, A.; LUCKMANN, P. The structures of the Life-world. vol. 1.Evanston: Northwestern University Press. 1973.
 - SIMANKE, R. T. et al. (Eds.) Filosofia da psicanálise : autores, diálogos, problemas. São Carlos: EDUFSCar. 2010.
-- SOLIS, Dirce; FUÃO, F. Freitas. Encontros da filosofia com a arquitetura, mediados pelo pensamento Jacques Derrida. Resenhas Online, São Paulo, ano 14, n. 163.03, Vitruvius, Fonte: http://www.vitruvius.com.br/revistas/read/resenhasonline/. Acessado em: outubro 2015.
+- SOLIS, Dirce; FUÃO, F. Freitas. Encontros da filosofia com a arquitetura, mediados pelo pensamento Jacques Derrida. Resenhas Online, São Paulo, ano 14, n. 163.03, Vitruvius, Fonte: &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/">http://www.vitruvius.com.br/revistas/read/resenhasonline/</a>&gt; Acessado em: outubro 2015.

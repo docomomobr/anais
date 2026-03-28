@@ -56,7 +56,7 @@ palavras-chave:
 - GNOATO, Luis Salvador. CeMoMo Curitiba - Conselho de Estudo do Movimento Moderno na Arquitetura de Curitiba. In: 3º Seminário Docomomo Brasil, São Paulo, de 8 a 11 de dezembro de 1999.
 - GNOATO, Luis Salvador. Arquitetura e Urbanismo de Curitiba: transformações do movimento moderno. Tese (Doutorado em Arquitetura). São Paulo: FAU-USP, 2002.
 - GNOATO, Luis Salvador. Vanguarda Paranaense. Entrevista concedida a Haifa Y. Sabbag. AU n. 151, outubro 2006.
-- GUERRA NETO, Abilio. O brutalismo paulista no contexto paranaense. A arquitetura do escritório Forte Gandolfi. Resenhas Online, São Paulo, 09.106, Vitruvius, out 2010 &lt;http://www.vitruvius.com.br/ revistas/read/resenhasonline/09.106/3792&gt;.
+- GUERRA NETO, Abilio. O brutalismo paulista no contexto paranaense. A arquitetura do escritório Forte Gandolfi. Resenhas Online, São Paulo, 09.106, Vitruvius, out 2010 &lt;<a href="http://www.vitruvius.com.br/">http://www.vitruvius.com.br/</a>&gt; revistas/read/resenhasonline/09.106/3792&gt;.
 - KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel; Edusp, 1990.
 - PACHECO, Paulo C. B. O Risco do Paraná e os Concursos Nacionais de Arquitetura 1962-1981. Dissertação (Mestrado em Arquitetura). Curitiba: PROPAR UFRGS; PUC-PR, 2004.
 - PEREIRA, Gustavo. Christiano Stockler das Neves e a formação do curso de arquitetura no Mackenzie College. Um estudo sobre a disseminação dos métodos da "École des Beaux-Arts de Paris" e das "Fine-Arts Schools" Norte-americanas. Dissertação (mestrado em Arquitetura e Urbanismo). São Paulo: FAU-Mack, 2005.
@@ -66,4 +66,4 @@ palavras-chave:
 - XAVIER, Alberto. Arquitetura Moderna em Curitiba. São Paulo: PINI – Curitiba: FCC, 1985.
 - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista Brutalista: 1953 - 1973. Tese (Doutorado em Arquitetura). Porto Alegre: UFRGS; PROPAR, 2005.
 - ZEIN, Ruth Verde. Arquitetos no Paraná, algumas diferenças nas mesmas estórias. Projeto, n. 89, julho 1986, p. 28-30.
-- ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Arquitextos, São Paulo, 07.076, Vitruvius, set 2006 &lt;http://www.vitruvius.com.br/ revistas/read/ arquitextos/07.076/318&gt;.
+- ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Arquitextos, São Paulo, 07.076, Vitruvius, set 2006 &lt;<a href="http://www.vitruvius.com.br/">http://www.vitruvius.com.br/</a>&gt; revistas/read/ arquitextos/07.076/318&gt;.

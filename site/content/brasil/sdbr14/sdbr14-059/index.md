@@ -68,14 +68,14 @@ palavras-chave:
 - NOVA Estação da Leopoldina. O autor do plano é o engenheiro architecto Robert Russell Prentice (A). Correio da Manhã, Rio de Janeiro, 10 nov. 1926, p. 3.
 - PLANO de remodelação do Rio de Janeiro. Correio da Manhã, Rio de Janeiro, 05 ago. 1927, p. 10.
 - REZENDE, Vera. Planejamento urbano e ideologia: quatro planos para a cidade do Rio de Janeiro. Rio de Janeiro: Civilização Brasileira, 1982.
-- ROBERT Russell Prentice. DSA Architect Biography Report. Disponível em: &lt; http://www.scottisharchitects.org.uk/architect_full.php?id=205251&gt;. Acesso em: 26 jun. 2021.
+- ROBERT Russell Prentice. DSA Architect Biography Report. Disponível em: &lt;<a href="http://www.scottisharchitects.org.uk/architect_full.php?id=205251">http://www.scottisharchitects.org.uk/architect_full.php?id=205251</a>&gt; Acesso em: 26 jun. 2021.
 - SANTOS Paulo F. Quatro séculos de arquitetura. Barra do Piraí, RJ: Fundação Educacional Rosemar Pimentel, 1977.
 - SANTOS, Cecília Rodrigues dos, PEREIRA, Margareth Campos da Silva, PEREIRA, Romão Veriano da Silva,
 - SILVA, Vasco Caldeira da. Le Corbusier e o Brasil. São Paulo: Tessela; Projeto, 1987.
 - SCHWARZ, Roberto. Ao vencedor as batatas. São Paulo: Livraria Duas Cidades, 1977.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1998.
 - SEGAWA, Hugo. As praias desertas continuam esperando por nós dois: o Flamengo e o Hotel Central. In:
-- COLÓQUIO INTERNACIONAL SOBRE COMÉRCIO E CIDADE, 6, 2018, Porto Alegre. Anais... Porto Alegre: Faculdade de Arquitetura, UFRGS, 2018, p. 591-619. Disponível em: &lt; http://www.labcom.fau.usp.br/wp- content/uploads/2020/04/ANAIS_26Julho_yuri2-1.pdf&gt;. Acesso em: 24 jun. 2021.
+- COLÓQUIO INTERNACIONAL SOBRE COMÉRCIO E CIDADE, 6, 2018, Porto Alegre. Anais... Porto Alegre: Faculdade de Arquitetura, UFRGS, 2018, p. 591-619. Disponível em: &lt;<a href="http://www.labcom.fau.usp.br/wp-">http://www.labcom.fau.usp.br/wp-</a>&gt; content/uploads/2020/04/ANAIS_26Julho_yuri2-1.pdf&gt;. Acesso em: 24 jun. 2021.
 - SEGAWA, Hugo. Elisiário Bahiana e a arquitetura art déco. Projeto, São Paulo, n. 67, p. 14-22, set. 1984.
 - SOUZA, Abelardo de. Arquitetura no Brasil: depoimentos. São Paulo: Diadorim, 1978.
 - STORTINI, Carlos R. Dicionário de Borges. Rio de Janeiro: Bertrand Brasil, 1986.

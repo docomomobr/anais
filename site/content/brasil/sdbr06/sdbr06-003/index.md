@@ -70,7 +70,7 @@ palavras-chave:
 - COSTA, Ana Elísia da; CIDADE, Daniela Mendes; MORAES, Erinton Aver. Inventário da arquitetura modernista na Serra Gaúcha. In Revista Agora, Santa Cruz do Sul, v.8, n.1 e 2, p.265-276, 2003.
 - COSTA, Ana Elísia; GUARESI, Sayonara. Sílvio Toigo: um arquiteto modernista em Caxias do Sul? In: Revista Agora, Santa Cruz do Sul, v.8, n.1 e 2, p.183 – 192, 2003.
 - FOLZ, Rosana Rita. Mobiliário na habitação popular. Discussões de alternativas para melhoria da habitabilidade. São Carlos: RiMa, 2003.
-- GONSALES, Célia Helena Castro. Residência e cidade - arquiteto Rino Levi. São Paulo: Vitruvius, 2001. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp050.asp.
+- GONSALES, Célia Helena Castro. Residência e cidade - arquiteto Rino Levi. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp050.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp050.asp</a>&gt;
 - LEMOS, Carlos. História da Casa Brasileira. São Paulo: Contexto, 1996
 - LOURENÇO, Maria Cecília F. Operários da modernidade. São Paulo: Edusp, 1995.
 - MAHFUZ, Edson da Cunha. Ensaio Sobre a Razão Compositiva. Viçosa: UFV; Belo Horizonte: AP Cultural,1995.
@@ -79,5 +79,5 @@ palavras-chave:
 - PAIVA, E. et. al. Caxias do Sul: Plano Diretor. Porto Alegre: Imprensa Oficial do Estado do Rio Grande do Sul, 1953.
 - POZENATO, J. Arquitetura da imigração italiana no Rio Grande do Sul. Porto Alegre : EST /EDUCS, 1983.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1999.
-- SERAPIÃO, Fernando. Paralelos (e transversais) na história da casa paulista. São Paulo: Arcoweb, 2003. Disponível em: http://www.arcoweb.com.br SOLÁ-MORALES, Ignasio. de. Presente y Futuro: Arquitetura en Las Ciudades. In: SOLÁ-MORALES, I. de e COSTA, X.(DIR). Presente y Futuro: Arquitetura en Las Ciudades. Barcelona: Collegi d’Arquitectes de Catalunya, 1996.
+- SERAPIÃO, Fernando. Paralelos (e transversais) na história da casa paulista. São Paulo: Arcoweb, 2003. Disponível em: &lt;<a href="http://www.arcoweb.com.br">http://www.arcoweb.com.br</a>&gt; SOLÁ-MORALES, Ignasio. de. Presente y Futuro: Arquitetura en Las Ciudades. In: SOLÁ-MORALES, I. de e COSTA, X.(DIR). Presente y Futuro: Arquitetura en Las Ciudades. Barcelona: Collegi d’Arquitectes de Catalunya, 1996.
 - VERÍSSIMO, Francisco Salvador; BITTAR, William S. M. 500 Anos da Casa no Brasil. Rio de Janeiro: Ediouro, 1999.

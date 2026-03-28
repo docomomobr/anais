@@ -43,7 +43,7 @@ authors:
   - givenname: "Silvio Belmonte de"
     familyname: "Abreu Filho"
 doi: "10.5281/zenodo.19077567"
-zenodo_pdf_url: "https://zenodo.org/records/19077568/files/sdbr13-085.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285639/files/sdbr13-085.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -69,7 +69,7 @@ palavras-chave:
 - GONÇALVES, Magali N.C.. A Fronteira do Moderno: Holanda Mendonça e a difusão da Arquitetura Moderna Brasileira no Sul. Tese de Doutorado. Programa de Pós-Graduação em Arquitetura. PROPAR/UFRGS. Porto Alegre, 2017.
 - LAMAS, José M. Ressano Garcia. Morfologia urbana e desenho da cidade. Lisboa: Fundação CalousteGulbenkian – Junta Nacional de Investigação Científica e Tecnológica, 1995.
 - LUCCAS, Luís Henrique Haas. Arquitetura moderna brasileira em Porto Alegre: sob o mito do “gênio artístico nacional”. 2004. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2004.
-- MACIEL, Carlos Alberto. Villa Savoye arquitetura e manifesto. In http://www.vitruvius.com.br, Arquitextos 024.07ano 02, maio 2002.
+- MACIEL, Carlos Alberto. Villa Savoye arquitetura e manifesto. In &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Arquitextos 024.07ano 02, maio 2002.
 - PIÑON, Hélio. Forma y Identidad. Revista Summa 73,pg.128, 2009.
 - RECENA,Maria P.;CASTRO OLIVEIRA, Rogério de. Sistemas de Movimentos e composição arquitetônica: do espaço de posições para o espaço de relações. II Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo arquitetura, cidade e projeto: uma construção coletiva. São Paulo,2014.
 - XAVIER, Alberto; MIZOGUCHI, Ivan. Arquitetura moderna em Porto Alegre. São Paulo: Pini, 1987.

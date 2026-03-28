@@ -83,6 +83,6 @@ palavras-chave:
 - FERRO, Sérgio. “Arquitetura Nova” [1967], In: Arquitetura e trabalho livre. São Paulo: Cosac & Naify, 2006
 - PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná, 1957-1980. Porto Alegre, 2010.
 - PACHECO, Paulo Cesar Braga. O Risco do Paraná e os concursos nacionais de Arquitetura 1962-1981. Porto Alegre, 2004. Revista Continental, n.39, março de 2004
-- SEGAWA, Hugo. Disponível em: &lt;(http://www.acropole.fau.usp.br/&gt; Acesso em: 21 Jul.2016.
+- SEGAWA, Hugo. Disponível em: &lt;( &lt;<a href="http://www.acropole.fau.usp.br/">http://www.acropole.fau.usp.br/</a>&gt; Acesso em: 21 Jul.2016.
 - SCHROEDER, Caroline. X Bienal de São Paulo: sob os efeitos da contestação. São Paulo, 2011. SUPERSTUDIO OPERE 1966-78. MAXXI Catalog. Roma, 2016 TECHNIQUES ET ARCHITECTURE, 28° SERIE, N°4, 1967 TECHNIQUES ET ARCHITECTURE, 29° SERIE, N°2, 1968
 - VIANNA, Fabiano Borba. Estudo e evolução do projeto de plantas de apartamentos de Curitiba: 1943‐2004. 2011. Dissertação (Mestrado) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo.

@@ -62,19 +62,19 @@ palavras-chave:
 - BASTOS, M. A. J. Pós-Brasília: Rumos da Arquitetura Brasileira. São Paulo: Ed. Perspectiva/FAPSEP, 2003.
 - CALDAS, R. M. V. Arquitetura Industrial em Recife: uma face da modernidade. Recife, 2010. Dissertação (Mestrado). Universidade Federal de Pernambuco. CAC.
 - CANTALICE II, A. Um Brutalismo Suave: traços da arquitetura em Pernambuco (1965-1980). Dissertação de mestrado. Recife: Programa de Pós-Graduação em Desenvolvimento Urbano da Universidade Federal de Pernambuco – MDU/UFPE, 2009.
-- DA SILVA, M. S. K. Redescobrindo a arquitetura do Archigram. São Paulo: Vitruvius, 2004. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585&gt; Acesso em 06/08/2013.
-- FUNDAÇÃO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO DE PERNAMBUCO. Espaços. Disponível em: &lt;http://www.fundarpe.pe.gov.br/espacos.php&gt; Acesso em 16/07/2013.
-- MARQUES, S.; NASLAVSKY, G. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;http://www.Vitruvius.com.br/ arquitextos 065&gt; Acesso em 07/04/2001.
+- DA SILVA, M. S. K. Redescobrindo a arquitetura do Archigram. São Paulo: Vitruvius, 2004. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585">http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585</a>&gt; Acesso em 06/08/2013.
+- FUNDAÇÃO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO DE PERNAMBUCO. Espaços. Disponível em: &lt;<a href="http://www.fundarpe.pe.gov.br/espacos.php">http://www.fundarpe.pe.gov.br/espacos.php</a>&gt; Acesso em 16/07/2013.
+- MARQUES, S.; NASLAVSKY, G. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.Vitruvius.com.br/">http://www.Vitruvius.com.br/</a>&gt; arquitextos 065&gt; Acesso em 07/04/2001.
 - MARQUES, S.; NASLAVSKY, G. Eu vi o modernismo nascer... e ele começou no Recife. In: Fernando Diniz Moreira. (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1º ed. Recife: FASA, 2007, pp. 81-105.
 - MARQUES, S.; NASLAVSKY, G. Arquitetura Moderna. In: Edileusa da Rocha (Org.). Guia do Recife: Arquitetura e Paisagismo. Recife: Ed. dos Autores, 2004.
 - MARQUES, S. M. da C. arquiteta e ex-aluna de Amorim (entrevista em 04/07/2003 por Guilah Naslavsky)
 - NASLAVSKY, G. Modernidade Arquitetônica no Recife: arte técnica e arquitetura, 1920-1950. São Paulo, 1998. 301p. Dissertação (Mestrado). Faculdade de Arquitetura da Universidade de São Paulo.
 - NASLAVSKY, G.;FREIRE, A.; MORAIS, M. Ir, vir e voltar. Novas conexões. Outros brutalismos. In: X Seminário Docomomo Brasil: conexões brutalistas 1955-75. Anais. Curitiba: PUCPR, 2013.
 - NASLAVSKY, G.;FREIRE, A.; MORAIS, M. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim, (2004), 270p. Tese (Doutorado)- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo (2004).
-- NÓBREGA, M; CÂMARA, C. A Memória das Pedras. São Paulo: Vitruvius, 2011. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/minhacidade/12.135/4065&gt; Acesso em 22/07/2013.
+- NÓBREGA, M; CÂMARA, C. A Memória das Pedras. São Paulo: Vitruvius, 2011. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/minhacidade/12.135/4065">http://www.vitruvius.com.br/revistas/read/minhacidade/12.135/4065</a>&gt; Acesso em 22/07/2013.
 - ROSEMBERG, A. Artes Pláricas-Pernambuco In: Pernambuco 5 décadas de Arte. Coord. André Rosemberg. Recife: Quadro Publicidade e Design Ltda., 2003.
 - SANTANA, G. Os Arquitetos nos Últimos 40 anos: depoimento. [20 de Junho de 2002]. Recife: II Simpósio
-- OBSERVANORDESTE. Fundação Joaquim Nabuco. Disponível em: &lt;http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos-nos- ultimos-40-anos&catid=58&Itemid=414&gt; Acesso em 08/05/2013.
+- OBSERVANORDESTE. Fundação Joaquim Nabuco. Disponível em: &lt;<a href="http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos-nos-">http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos-nos-</a>&gt; ultimos-40-anos&catid=58&Itemid=414&gt; Acesso em 08/05/2013.
 - OBSERVANORDESTE. Geraldo Santana: Notas biográficas para uma auto-apresentação. Recife, Agosto, 2010.
 - OBSERVANORDESTE. Informações biográficas, e sobre Pernambuco e Brasília nas décadas de 60 e 70. 2013. Recife. Entrevista concedida a Mariana Morais, Guilah Naslavsky e a Adriana Freire. Recife, 27 de Junho de 2013.
 - OBSERVANORDESTE. Informações biográficas. 2013. Entrevista concedida Mariana Morais e Guilah Naslavsky. Recife, 08 e 15 de Julho de 2013.

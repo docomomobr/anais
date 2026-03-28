@@ -58,7 +58,7 @@ autores:
 - CAVALCANTI, L.; EL-DADAH, F.: Roberto Burle Marx: a permanencia do instàvel, 100 anos. Río de Janeiro, Rocco, 2009.
 - COELHO FROTA, L.: Burle Marx: paisajismo en Brasil. Sao Paolo, Camara Brasileira do Livro, 1994.
 - COELHO, L.: Roberto Burle Marx. Sabará, Fundaçao Belgo Mineira, 1993.
-- DELPHIM, C. F.: Entrevistas realizadas por la autora a Carlos Fernando Delphim,  paisajista del IPHAN en Río de Janeiro (octubre, noviembre y diciembre de 2008).
+- DELPHIM, C. F.: Entrevistas realizadas por la autora a Carlos Fernando Delphim, paisajista del IPHAN en Río de Janeiro (octubre, noviembre y diciembre de 2008).
 - DIAS, R.: Entrevista realizada por la autora a Roberio Dias, director del Sitio Burle Marx en Río de Janeiro (noviembre de 2008).
 - ELIOVSON, S.: The Gardens of Roberto Burle Marx. London, Thames & Hudson, 1991.
 - FARAH, I.: Roberto Burle Marx e a Arborizaçao da avenida Atlántica. 4º Simposio Internacional sobre ecossistemas florestais, Belo Horizonte, 1996, p. 283-284.
@@ -68,7 +68,7 @@ autores:
 - FREITAS PINHEIRO, A. I.: Praia de Copacabana: um ícone carioca, Río de Janeiro. Artículo inédito, 2000.
 - INEPAC (Instituto Estadual do Patrimonio Cultural): Tombamento del conjunto urbano paisajístico localizado na orla do Copacabana no Rio de Janeiro. Documento no publicado, Río de Janeiro, 1991.
 - IPP (Instituto Pereira Passos): Copacabana. Un paseo en el tiempo (1893-2007). Río de Janeiro, Prefeitura do Rio, 2007.
-- IRIS MONTERO, M.: El paisaje lírico.  Barcelona, Gustavo Gili, 2001.
+- IRIS MONTERO, M.: El paisaje lírico. Barcelona, Gustavo Gili, 2001.
 - KAMP, R.: Burle Marx. Rio de Janeiro, RR Donnelley Moore, 2005.
 - KNIERBEIN, S.: Playas urbanas como espacios públicos: El caso de Río de Janeiro. [en línea] 2006. &lt;www.uni-weimar.de/architektur/raum/publikationen/Playasurbanascomoespspub_sknierbein.pdf.&gt; Acceso en: 27 marzo 2008
 - MAZZA DOURADO, G: Modernidade Verde. Jardines de Burle Marx. São Paulo, Senac, 2009.
@@ -77,7 +77,7 @@ autores:
 - NS (Noronha Santos): Historia de Copacabana. Rio de Janeiro, Archivo Noronha Santos del Instituto del Patrimonio Histórico Artístico y Nacional (IPHAN).
 - OLIVEIRA, A. R.: Tantas vezes paisagem. Rio de Janeiro, FAPERJ / Gráfica digital, 2007.
 - OLIVEIRA, A. R.: Entrevistas realizadas por la autora a Ana Rosa do Oliveira, paisajista del Jardim Botànico de Rio de Janeiro (octubre, noviembre y diciembre de 2008).
-- ONO, H.: Entrevistas realizadas por la autora a Haruyoshi Ono en el Escritòrio  Burle Marx (octubre, noviembre y diciembre de 2008).
+- ONO, H.: Entrevistas realizadas por la autora a Haruyoshi Ono en el Escritòrio Burle Marx (octubre, noviembre y diciembre de 2008).
 - RIZZO, G.: Roberto Burle Marx: Il giardino del novecento. Firenze, Cantini, 1992.
 - SEGRE, R.: Paraísos en la metrópoli: Roberto Burle Marx. Arquitectura Viva. 1994, nº 37, p. 72-74.
 - SIQUEIRA, V. B.: Burle Marx: espaços da arte brasileira. Sao Paulo, Cosac & Naify, 2004.

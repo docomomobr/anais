@@ -65,7 +65,7 @@ autores:
 - LE GOFF, J. “A História Nova”. In: LE GOFF, Jacques. CHARTIER, Roger e REVEL, Jacques (dir.) (1998). A história nova. (1978) (4a edição), São Paulo, Martins Fontes,. (tradução:Eduardo Brandão). (2a tiragem 2001), 1998, pp. 25-64.
 - LEPETIT, B. Por uma nova história urbana. São Paulo: Editora da Universidade de São PauloEDUSP, 2001, pp. 265-300.
 - MARTÍ ARÍS, Carlos. Las formas de la residencia en la ciudad moderna, Barcelona, Ediciones
-- MARTÍNEZ, Wilebaldo, Programa Nacional Fronterizo (el caso de Ciudad Juárez), consultado el 22 de junio del 2009 en http://docentes.uacj.mx/rquinter/cronicas/pronaf.htm
+- MARTÍNEZ, Wilebaldo, Programa Nacional Fronterizo (el caso de Ciudad Juárez), consultado el 22 de junio del 2009 en &lt;<a href="http://docentes.uacj.mx/rquinter/cronicas/pronaf.htm">http://docentes.uacj.mx/rquinter/cronicas/pronaf.htm</a>&gt;
 - NOELLE, Louise. Mario Pani, Una visión moderna de la ciudad, México, CONACULTA, 2000.
 - PERRY, Clarence. (1929). The neighborhood unit, London, Routledge/ Thoemmes Press, 1998.
 - PESAVENTO, S. J. “Muito além do espaço: por uma história cultural do urbano”, em Estudos Históricos, Rio de Janeiro, vol. 8, no 16, 1995, pp. 279-290 [versão obtida em www.cpdoc.fgv.br ].

@@ -62,6 +62,6 @@ palavras-chave:
 - CURTIS, W.J.R. Arquitetura Moderna desde 1900. Porto Alegre: Ed. Bookman, 2008. 3a edição Divisão de Acervo Histórico – Assembléia Legislativa do Estado de São Paulo
 - FRAMPTON, K. História crítica da Arquitetura Moderna. São Paulo: Ed. Martins Fontes, 2003. 1a edição
 - ROGERS, E.N.; SERT, J.L.; TYRWHITT, J. (org.). The Heart of the City: towards the humanization of urban life. Londres: 1952. Revista Acrópole no273, p.305-310 Revista El Croquis no100-101, Miralles 1996-2000, p.142-167 SOLÁ-MORALES, I. Diferencias: topografías de la arquitectura contemporánea. Barcelona: Ed. Gustavo Gili, 1995.
-- &lt;http://www.arcspace.com/architects/miralles/parliament/&gt;. Acesso em: 22 out. 2010.
-- &lt;http://blog.2modern.com/2010/08/the-new-scottish-parliament-edinburgh-by-enric-miralles-benedetta-tagliabue-.html&gt;. Acesso em: 20 out. 2010.
-- &lt;http://www.geoportal.com.br/&gt;. Acesso em: 01 dez. 2010.
+-  &lt;<a href="http://www.arcspace.com/architects/miralles/parliament/">http://www.arcspace.com/architects/miralles/parliament/</a>&gt; Acesso em: 22 out. 2010.
+-  &lt;<a href="http://blog.2modern.com/2010/08/the-new-scottish-parliament-edinburgh-by-enric-miralles-benedetta-tagliabue-.html">http://blog.2modern.com/2010/08/the-new-scottish-parliament-edinburgh-by-enric-miralles-benedetta-tagliabue-.html</a>&gt; Acesso em: 20 out. 2010.
+-  &lt;<a href="http://www.geoportal.com.br/">http://www.geoportal.com.br/</a>&gt; Acesso em: 01 dez. 2010.

@@ -56,7 +56,7 @@ palavras-chave:
 
 - 4º Congresso Brasileiro de Arquitetos, 1954. São Paulo. Anais. São Paulo: Instituto de Arquitetos do Brasil, 1954. 289p
 - AMORIN, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos. ano 01, maio 2001
-Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889
+Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889">http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889</a>&gt;
 - ARTIGAS, J. B. Prova Didática – A função social do arquiteto, (1984), Caminhos da Arquitetura. São Paulo: Cosac Naify, 2004, 234p.
 - BASTOS, M. A. J. ; ZEIN, R. V. Brasil: Arquiteturas após 1950. 1. ed. São Paulo: Editora Perspectiva, 2010. v. 01. 429p.
 - CAVALCANTI, Lauro. Quando o Brasil era moderno: guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.
@@ -69,11 +69,11 @@ Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/01.012/889
 - GRAEFF, Edgar A. Arte e Técnica na formação do arquiteto. São Paulo. Estúdio Nobel, Fundação Vilanova Artigas. 1995
 - LEME, Maria Cristina da Silva; FERNANDES, Ana; GOMES, Marco Aurelio Filgueiras (org.) Urbanismo no Brasil 1895-1965. São Paulo: Studio Nobel/FAU USP/FUPAM, 1999.
 - MONTEIRO, Amanda Rafaelly Casé.Acácio Gil Borsoi: A formação clássica do arquiteto moderno. Arqtextos. ano 17, dez. 2016 
-Disponível em:http://vitruvius.com.br/revistas/read/arquitextos/17.199/6353
+Disponível em: &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/17.199/6353">http://vitruvius.com.br/revistas/read/arquitextos/17.199/6353</a>&gt;
 - PONTUAL, Virgínia. O engenheiro Antonio Bezerra Baltar: Prática urbanística, CEPUR e SAGMACS. R.B. Estudos Urbanos e Regionais, v.13, n.1 / Maio de 2011, pag. 151-169.
 - SCOCUGLIA, Jovanka Baracuhy Cavalcanti Scocuglia; MONTEIRO, Lia Monteiro & MELO, Marieta Dantas Tavares de. Arquitetura Moderna no Nordeste 1960-70: a produção de Borsoi em João Pessoa.Arquitextos. ano 06, set. 2005
-Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/432
+Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/432">http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/432</a>&gt;
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990, São Paulo, Editora da Universidade de São Paulo. 2002.
-- SEGRE, Roberto. Ministério da Educação e Saúde Pública no Rio de Janeiro (1935-1945): um work in progress da Primeira Modernidade Brasileira. Arquitextos, ano 06, fev. 2006 Disponível em:http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376
+- SEGRE, Roberto. Ministério da Educação e Saúde Pública no Rio de Janeiro (1935-1945): um work in progress da Primeira Modernidade Brasileira. Arquitextos, ano 06, fev. 2006 Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376">http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376</a>&gt;
 - SILVA, Wanessa Magalhães da. Práticas Políticas e sociabilidade intelectual na Bahia 1940/1950. Revista Diálogos, Rio de Janeiro, nº4, Outubro de 2010.
 - VIDOTTO, Taiane car. A indissociável relação entre o ensino e a profissão na constituição do arquiteto e urbanista moderno no Estado de São Paulo. Dissertação de mestrado. Universidade Estadual de Campinas, Faculdade de Engenharia, Arquitetura e Urbanismo. 2014

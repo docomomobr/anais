@@ -39,8 +39,8 @@ autores:
 - BECKER, Alfredo Ernesto. Novas tendencias da architectura monumental europea. Acrópole, São Paulo, n.1, p. 34-37, mai. 1938.
 - COLLINS, Peter. Concrete: the vision of a new architecture: a study of Auguste Perret and his precursors. London: Faber and Faber, 1959.
 - COSTA, Lúcio. Sobre Arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.
-- EXPOSITION Internationale des Arts Décoratifs et Industriels Modernes paris 1925: Rapport Général présenté au nom de M. Fernand David, Sénateur, Comissaire Général de l'Exposition, par M. Paul Léon, Membre d  l'Institut,  Directeur  Général  des  Beaux-Arts,  Commissaire  Général  adjoint de l'Exposition. Paris: Librairie Larousse, 1928, v.2.
-- LEMOS, Carlos A. C. Arquitetura Contemporânea. In: ZANINI, Walter (org.). História  geral  da  arte  no  Brasil.  São  Paulo:  Instituto  Walther  Moreira Salles, 1983. V.2, p. 822-865
+- EXPOSITION Internationale des Arts Décoratifs et Industriels Modernes paris 1925: Rapport Général présenté au nom de M. Fernand David, Sénateur, Comissaire Général de l'Exposition, par M. Paul Léon, Membre d l'Institut, Directeur Général des Beaux-Arts, Commissaire Général adjoint de l'Exposition. Paris: Librairie Larousse, 1928, v.2.
+- LEMOS, Carlos A. C. Arquitetura Contemporânea. In: ZANINI, Walter (org.). História geral da arte no Brasil. São Paulo: Instituto Walther Moreira Salles, 1983. V.2, p. 822-865
 - LIMA, Evelyn Furkim Werneck. Avenida Presidente Vargas: uma drástica cirurgia. Rio de Janeiro: Secretaria Municipal de Cultura, Turismo e Esportes/Departamento Geral de Documentação e Informação Cultural, 1990.
 - MARIANO FILHO, José. À margem do problema arquitetônico nacional. Rio de Janeiro: C. Mendes Jr., 1943.
 - PIERMARTIRI, Maria Luísa Valenti. Retrospectiva: Frederico Kirschgässner. Curitiba: Galeria de Arte Banestado, 1989 [folheto- catálogo da exposição].

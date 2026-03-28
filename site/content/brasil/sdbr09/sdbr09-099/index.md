@@ -42,7 +42,7 @@ authors:
     familyname: "Cappello"
     orcid: "0000-0002-0930-5826"
 doi: "10.5281/zenodo.19073870"
-zenodo_pdf_url: "https://zenodo.org/records/19073871/files/sdbr09-099.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285577/files/sdbr09-099.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:

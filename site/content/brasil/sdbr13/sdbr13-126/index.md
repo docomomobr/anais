@@ -63,24 +63,24 @@ palavras-chave:
 
 - ARQUIVO DA EBA. Envelopes 40, 139, 142, 189, 193, 203, 216, 238, 239, 288, 342, 348, 349, 355 e 363.
 - ARQUIVO DA FAUFBA. Alunos reprovados no vestibular (1960 a 1969), caixas 304, 305, 313, 321, 354, 355, 356, 358; Dossiês de alunos, caixas 2, 5 a 7, 9, 13, 14, 16 a 18, 20, 21, 26, 27, 32, 39, 40, 42, 45, 46, 54 a 56, 58, 60 a 62, 67, 72 a 74, 76, 78, 80 a 82, 86, 90, 91, 96, 98 a 100, 102, 103, 105, 107, 110, 114 a 117, 119, 124 e 125; Fichas de alunos, caixas 398 a 404.
-- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2018 a 2020. Disponível em: &lt;http://transparencia.caubr.gov.br/conselheirosfederais/&gt;. Acesso em: 16 dez. 2018.
-- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2015 a 2017. Disponível em: &lt;https://www.caubr.gov.br/segundagestao/&gt;. Acesso em: 16 dez. 2018.
-- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2011 a 2014. Disponível em: &lt;https://www.caubr.gov.br/primeiragestao/&gt;. Acesso em: 16 dez. 2018.
-- CONSELHO DE ARQUITETURA E URBANISMO. Anuário de Arquitetura e Urbanismo, 2018. Disponível em: &lt;http://www.caubr.gov.br/wp-content/uploads/2017/10/anuario-final-0301- web150.pdf&gt;. Acesso em: 16 dez. 2018.
-- CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DA BAHIA. Artigo: História viva. Disponível em: &lt;http://www.creaba.org.br/Artigo/176/Historia-viva.aspx&gt;. Acesso em: 19 mai. 2019.
+- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2018 a 2020. Disponível em: &lt;<a href="http://transparencia.caubr.gov.br/conselheirosfederais/">http://transparencia.caubr.gov.br/conselheirosfederais/</a>&gt; Acesso em: 16 dez. 2018.
+- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2015 a 2017. Disponível em: &lt;<a href="https://www.caubr.gov.br/segundagestao/">https://www.caubr.gov.br/segundagestao/</a>&gt; Acesso em: 16 dez. 2018.
+- CONSELHO DE ARQUITETURA E URBANISMO. Conselhos Federais, gestão 2011 a 2014. Disponível em: &lt;<a href="https://www.caubr.gov.br/primeiragestao/">https://www.caubr.gov.br/primeiragestao/</a>&gt; Acesso em: 16 dez. 2018.
+- CONSELHO DE ARQUITETURA E URBANISMO. Anuário de Arquitetura e Urbanismo, 2018. Disponível em: &lt;<a href="http://www.caubr.gov.br/wp-content/uploads/2017/10/anuario-final-0301-">http://www.caubr.gov.br/wp-content/uploads/2017/10/anuario-final-0301-</a>&gt; web150.pdf&gt;. Acesso em: 16 dez. 2018.
+- CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DA BAHIA. Artigo: História viva. Disponível em: &lt;<a href="http://www.creaba.org.br/Artigo/176/Historia-viva.aspx">http://www.creaba.org.br/Artigo/176/Historia-viva.aspx</a>&gt; Acesso em: 19 mai. 2019.
 - FONSECA, Fernando Luiz da. Apontamentos para a história da Faculdade de Arquitetura da UFBA. Salvador: Faculdade de Arquitetura da Universidade Federal da Bahia, 1984. GRAFT-JOHNSON, Ann.
 - MANLEY, Sandra.
 - GREED, Clara. Why do women leave architecture? University of the West of England, Bristol, 2003 p.1- 55.
-- HISTÓRICO. Faculdade de Arquitetura UFBA, 2019. Disponível em &lt;https://arquitetura.ufba.br/pt-br/historico&gt;. Acesso em: 1 fev. 2019.
+- HISTÓRICO. Faculdade de Arquitetura UFBA, 2019. Disponível em &lt;<a href="https://arquitetura.ufba.br/pt-br/historico">https://arquitetura.ufba.br/pt-br/historico</a>&gt; Acesso em: 1 fev. 2019.
 - LANGE, Alexandra. "Porque a arquitetura tem que ouvir suas mulheres esquecidas". [Necessary Hauntings: Why Architecture Must Listen to its Forgotten Women]. 2013. ArchDaily Brasil. (Trad.
-- Helm, Joanna). Disponível em: &lt;http://www.archdaily.com.br/134611/porque-a- arquitetura-tem-que-ouvir-suas-mulheres-esquecidas&gt;. Acesso em: 14 out. 2018.
+- Helm, Joanna). Disponível em: &lt;<a href="http://www.archdaily.com.br/134611/porque-a-">http://www.archdaily.com.br/134611/porque-a-</a>&gt; arquitetura-tem-que-ouvir-suas-mulheres-esquecidas&gt;. Acesso em: 14 out. 2018.
 - LIMA, Ana Gabriela Godinho. Arquitetas e arquiteturas na América Latina do Século XX. São Paulo: Altamira Editorial, 2014.
 - LIMA, Ana Gabriela Godinho. Revendo a história da arquitetura: uma perspectiva feminista. Tese (Doutorado). Faculdade de Educação. Universidade de São Paulo, 2004.
 - NOVAS. María. Arquitectura y Género: una reflexión teórica. Tese (mestrado). Instituto Universitario de Estudios Feministas y de Género Facultad de Ciencias Humanas y Sociales Universitat Jaume. 2014, p. 80.
 - RUBINO, S.; GRINOVER, M. (Orgs.). Lina por Escrito: Textos escolhidos de Lina Bo Bardi. São Paulo: Cosac Naify, 2009.
 - RUBINO, Silvana Barbosa. Corpos, cadeiras, colares: Charlotte Perriand e Lina Bo Bardi. Cadernos Pagu (34), janeiro-junho de 2010, p. 331-362.
-- RUBINO, Silvana. Memórias de uma moça (nem tão) bem-comportada. Resenhas Online, São Paulo, ano 08, n. 089.01, Vitruvius, mai. 2009. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/08.089/3040&gt;. Acesso em: 20 jun. 2018.
+- RUBINO, Silvana. Memórias de uma moça (nem tão) bem-comportada. Resenhas Online, São Paulo, ano 08, n. 089.01, Vitruvius, mai. 2009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/08.089/3040">http://www.vitruvius.com.br/revistas/read/resenhasonline/08.089/3040</a>&gt; Acesso em: 20 jun. 2018.
 - SÁ, Flávia Carvalho. Profissão: Arquiteta. Formação profissional, mercado de trabalho e projeto arquitetônico nas perspectivas das relações de gênero. Tese (Mestrado) – Faculdade de arquitetura e Urbanismo, Universidade de São Paulo. São Paulo, 2010.
 - SANTANA, Marcos. Homenagem de seu sobrinho, Marcos Santana, à Lycia Conceição Alves (primeira arquiteta da Bahia) em comemoração aos 60 anos do IAB-BA em 2014, cedido ao professor orientador da pesquisa, José Carlos Huapaya Espinoza.
 - TAMAKI, Luciana. Denise Scott Brown pede reconhecimento em Pritzker de 1991. Revista
-- AU, 2013. Disponível em: &lt;http://www.piniweb.com.br//construcao/arquitetura/denise-scott- brown-pedereconhecimento-em-pritzker-de-1991-279975-1.aspx&gt;. Acesso em: 09 abr. 2018.
+- AU, 2013. Disponível em: &lt;<a href="http://www.piniweb.com.br//construcao/arquitetura/denise-scott-">http://www.piniweb.com.br//construcao/arquitetura/denise-scott-</a>&gt; brown-pedereconhecimento-em-pritzker-de-1991-279975-1.aspx&gt;. Acesso em: 09 abr. 2018.

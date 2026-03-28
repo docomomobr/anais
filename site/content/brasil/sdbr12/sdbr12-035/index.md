@@ -70,7 +70,7 @@ palavras-chave:
 - MINDLIN, Henrique. Brazilian architecture, Barroque across the seas.International architecture in the tropics. Brasília: dream or reality?Londres: Lethaby Lectures, 1961.
 - OLIVEIRA, Francisco. Crítica à razão dualista. O ornitorrinco. São Paulo: Boitempo, 2003.
 - ORICO, Osvaldo. Brasil, capital Brasília. Rio de Janeiro: Serviço gráfico do IBGE, 1960.
-- SILVEIRA, Peixoto da.A nova capital: Por que, para onde e como mudar a capital federal.  Rio de Janeiro: Pongetti, 1959.
+- SILVEIRA, Peixoto da.A nova capital: Por que, para onde e como mudar a capital federal. Rio de Janeiro: Pongetti, 1959.
 - PASTORE, José. Brasília: a cidade e o homem. Uma investigação sociológica sobre os processos de migração, adaptação e planejamento urbano. São Paulo: Companhia Editora Nacional, 1969.
 - SCHNEIDER, Wolf. Babylon is everywhere. The city as a man’s fate.Londres: Hodder and Stoughton, 1963.
 - SCHNEIDER, Wolf. De Babilônia a Brasília. Las ciudades y sus hombres. Barcelona/Madrid: Editorial Noguer, 1961.

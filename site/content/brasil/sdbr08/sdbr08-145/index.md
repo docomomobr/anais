@@ -41,8 +41,8 @@ autores:
 - BRANDI, Cesare. Teoria da Restauração Trad. Beatriz Mugayar Kühl. São Paulo: Ateliê Editorial, Coleção Artes & Ofícios, 2004, p. 30.
 - CHARTIER, Roger. A história cultural entre práticas e representações. Trad. Maria Manuela Galhardo, Lisboa: Difel, 1990, pp. 16-17.
 - CUILLER, Francis( Dir.) Fabriquer la ville durable: vers une nouvelle culture urbaine. In: Les débats sur la ville 7. Fabriquer la ville aujourd´hui. Bordeaux: Editions Confluences, 2008.
-- DUBOIS, Marc. Casa das Canoas. Procurando a sensibilidade de morar. Disponível em http: http://www.vitruvius.com.br/arquitextos/arq003/arq003_03.asp. Acesso em 20 mar. 2009.
-- GUERRA, Abílio. Política habitacional e arquitetura. Resenha de Abílio Guerra sobre o livro Affonso Eduardo Ready de Nabil Boduki, Disponível in: http://vitruvius.com.br/resenhas/textos012.asp. Acesso em 25 maio 2009.
+- DUBOIS, Marc. Casa das Canoas. Procurando a sensibilidade de morar. Disponível em http: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq003/arq003_03.asp">http://www.vitruvius.com.br/arquitextos/arq003/arq003_03.asp</a>&gt; Acesso em 20 mar. 2009.
+- GUERRA, Abílio. Política habitacional e arquitetura. Resenha de Abílio Guerra sobre o livro Affonso Eduardo Ready de Nabil Boduki, Disponível in: &lt;<a href="http://vitruvius.com.br/resenhas/textos012.asp">http://vitruvius.com.br/resenhas/textos012.asp</a>&gt; Acesso em 25 maio 2009.
 - GUIMARAENS, Cêça. Paradoxos entrelaçados. As torres para o futuro e a tradição nacional. Rio de Janeiro: UFRJ, 2002.
 - GUIMARAENS, Cêça. (org.). Arquitetura e Movimento Moderno. Rio de Janeiro: FAU/UFRJ, 2006.
 - LEVEBVRE, Henri. La production de l´espace. Paris: Anthropos, 1986, 3a ed.

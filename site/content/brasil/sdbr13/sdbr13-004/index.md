@@ -64,15 +64,15 @@ palavras-chave:
 
 ## Referências
 
-- AURÉLIO, Dicionário. Contexto. Disponível em: &lt;https://dicionariodoaurelio.com/contexto&gt;. Acesso em: 13 de mai de 2019.
+- AURÉLIO, Dicionário. Contexto. Disponível em: &lt;<a href="https://dicionariodoaurelio.com/contexto">https://dicionariodoaurelio.com/contexto</a>&gt; Acesso em: 13 de mai de 2019.
 - BRANDI, Cesare. Teoria da restauração. Ateliê editorial, 2004.
 - DE ANDRADE JUNIOR, Nivaldo Vieira. “Novas” questões na teoria da restauração do patrimônio urbano: identidades culturais, função social e participação dos usuários. PARC Pesquisa em Arquitetura e Construção, v. 4, n. 1, p. 63-79, 2013.
 - FARRELY, Lorraine. Fundamentos de arquitetura. Porto Alegre: Bookman, 2014.
 - FROTA, José Artur D.'Aló; CAIXETA, Eline Maria Moura Pereira. Art e cidades: novas paisagens urbanas no século XXI. Arqtexto. n. 8 (2006), p. 64-73, 2006.
-- FUNDACIÓ MIES VAN DER ROHE. El Pabellón. Disponível em: &lt;https://miesbcn.com/es/el- pabellon/&gt;. Acesso em: 25 fev. 2019.
-- GUGGENHEIM. Disponível em: &lt;https://www.guggenheim.org/arts-curriculum/topic/the-constructors&gt;. Acesso em: 02 maio 2019.
+- FUNDACIÓ MIES VAN DER ROHE. El Pabellón. Disponível em: &lt;<a href="https://miesbcn.com/es/el-">https://miesbcn.com/es/el-</a>&gt; pabellon/&gt;. Acesso em: 25 fev. 2019.
+- GUGGENHEIM. Disponível em: &lt;<a href="https://www.guggenheim.org/arts-curriculum/topic/the-constructors">https://www.guggenheim.org/arts-curriculum/topic/the-constructors</a>&gt; Acesso em: 02 maio 2019.
 - MADDEN, Thomas F. Venice: a new history. Penguin, 2012.
-- NAHAS, Patricia Viceconti. A capacidade de “escutar” o monumento. O limite entre a criatividade projetual do novo e a conservação do antigo na obra de Giovanni Carbonara. Resenhas Online, São Paulo, ano 16, n. 184.06, Vitruvius, abr. 2017 &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/16.184/6510&gt;.
+- NAHAS, Patricia Viceconti. A capacidade de “escutar” o monumento. O limite entre a criatividade projetual do novo e a conservação do antigo na obra de Giovanni Carbonara. Resenhas Online, São Paulo, ano 16, n. 184.06, Vitruvius, abr. 2017 &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/16.184/6510">http://www.vitruvius.com.br/revistas/read/resenhasonline/16.184/6510</a>&gt;
 - PELLEGRINI, Ana Carolina Santos; COMAS, Carlos Eduardo Dias. Bolonha, Barcelona, Firminy: quando o projeto é patrimônio. Arqtexto. n. 12 (2008), p. 204-239, 2008.
 - PELLEGRINI, Ana Carolina Santos. Quando o projeto é patrimônio: a modernidade póstuma em questão. Tese de Doutorado em Teoria, História e Crítica, PROPAR - UFRGS. Orientador: Prof. Dr. Carlos Eduardo Dias Comas, 2011.
 - RIEGL, Alois. O culto moderno dos monumentos: a sua essência e a sua origem. São Paulo: Perspectiva, 2017.

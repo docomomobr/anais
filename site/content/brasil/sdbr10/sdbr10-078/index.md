@@ -61,18 +61,18 @@ palavras-chave:
 - Bastos, Maria Alice Junqueira. Brasil: Arquitetura após 1950 / Maria Alice Junqueira Bastos, Ruth Verde Zein. São Paulo: Perspectiva, 2010.
 - Artigas, Rosa Camargo (org). Paulo Mendes da Rocha. Textos de Paulo Mendes da Rocha e Guilherme Wisnik. São Paulo: Cosac & Naify / Associação Brasil 500 Anos Artes Visuais/ Fundação Bienal, 2000.
 - Banham, Reyner. (org). Paulo Mendes da Rocha. Projetos 1999-2006. São Paulo: Cosac Naify, 2007.
-- Bastos, Maria Alice Junqueira. Paulo Mendes da Rocha. Breve relato de uma mudança. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/10.122/3472. Acesso em 20/09/2010.
+- Bastos, Maria Alice Junqueira. Paulo Mendes da Rocha. Breve relato de uma mudança. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/10.122/3472">http://www.vitruvius.com.br/revistas/read/arquitextos/10.122/3472</a>&gt; Acesso em 20/09/2010.
 - Castroviejo Ribeiro, Alessandro. A vontade de ser. In Revista AU, ano 21, nº 154, São Paulo, janeiro 2007, p. 40-47.
 - Moneo, Rafael. Remarks on 21 works. Londres: Thames & Hudson, 2010.
 - Montaner, J. M. Museus para o século XXI. Barcelona: Gustavo Gilli, 2003.
-- Perrone, Rafael A.C. Passos à frente: algumas observações sobre o MUBE. Vitruvius, 2011. http://www.vitruvius.com.br/revistas/read/arquitextos/12.136/4042.
+- Perrone, Rafael A.C. Passos à frente: algumas observações sobre o MUBE. Vitruvius, 2011. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/12.136/4042">http://www.vitruvius.com.br/revistas/read/arquitextos/12.136/4042</a>&gt;
 - Reis, Antônio Tarcísio. O Guggenheim De Frank Lloyd Wright e a adição de Gwathmey-Siegel. Desempenho e Dinâmica Urbana. Arquitextos, 2001.
 - Telles, S. S. A casa no Atlântico, In revista Au nº60 , junho/julho,1995.pag. 70-81.
 - Telles, S. S. Museu da Escultura, in revista AU nº32, outubro/novembro, 1990, pag.44-51.
 - Villac, M. I. La construcción de la mirada: naturaleza, ciudad y discurso en la arquitectura de Paulo Archias Mendes da Rocha. Tesis Doctoral. Barcelona: UPC/ ETSAB, 2000.
 - Zein, R. V.. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação de mestrado. Porto Alegre: Universidade do Rio Grande do Sul, 2000.
-- Zein, R. V.. Breve introdução à Arquitetura da Escola Paulista Brutalista. Vitruvius, 2006. http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/375. (25/07/2013)
-- Zein, R. V.. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Vitruvius, 2006. http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318. (25/07/2013)
-- Zein, R. V.. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Vitruvius, 2007. http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243. (25/07/2013)
+- Zein, R. V.. Breve introdução à Arquitetura da Escola Paulista Brutalista. Vitruvius, 2006. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/375">http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/375</a>&gt; (25/07/2013)
+- Zein, R. V.. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. Vitruvius, 2006. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318">http://www.vitruvius.com.br/revistas/read/arquitextos/07.076/318</a>&gt; (25/07/2013)
+- Zein, R. V.. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Vitruvius, 2007. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; (25/07/2013)
 - Zein, R. V.. A arquitetura da escola paulista brutalista 1953-1973. Tese de doutorado apresentado ao Programa de Pós-Graduação em Arquitetura e Urbanismo (Propar). 2005
 - Projeto Design n°251 janeiro de 2001 – Publicação Arco Editorial, São Paulo.

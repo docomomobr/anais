@@ -77,7 +77,7 @@ palavras-chave:
 - LEVI, Rino; CESAR, Roberto Cerqueira; FRANCO, Luiz Roberto Carvalho. Sede de Banco e escritórios. Acrópole, n. 334, nov. 1966, pp. 32-37.
 - MEADOWS, Donella H.; MEADOWS, Dennis L.; RANDERS, Jorgen; BEHRENS III, William W. The Limits to Growth. A report for the Club of Rome’s Project on the Predicament of Mankind. New York: Universe Books, 1972.:
 - MINDLIN, Henrique. Modern Architecture in Brazil. New York: Reinhold Publishing Corporation, 1956.
-- MORA, Aín; PEINADO, Guillermo. Las ideas sobre el desarrollo en la historia del pensamiento ambientalista latinoamericano. HALAC – Historia Ambiental, Latinoamericana y Caribeña v. 11, n. 1, 2021. (https://doi.org/10.32991/2237-2717.20v11i1.p253-275).
+- MORA, Aín; PEINADO, Guillermo. Las ideas sobre el desarrollo en la historia del pensamiento ambientalista latinoamericano. HALAC – Historia Ambiental, Latinoamericana y Caribeña v. 11, n. 1, 2021. ( &lt;<a href="https://doi.org/10.32991/2237-2717.20v11i1.p253-275">https://doi.org/10.32991/2237-2717.20v11i1.p253-275</a>&gt;
 - PEIXOTO, Marta. Sistemas de proteção de fachada na Escola Carioca de 1935 a 1955. ARQTEXTO, n. 2, 2002, pp. 122-137.
 - PILON, Jaques; ESTEVES, Jerônimo B. Sede do Banco Lar Brasileiro. Acrópole, n. 304, março de 1964, pp. 40- 41.
 - SEGAWA, Hugo. Arquiteturas no Brasil, 1900-1990. São Paulo: Editora da Universidade de São Paulo, 1998.

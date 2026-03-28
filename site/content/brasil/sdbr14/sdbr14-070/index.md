@@ -54,9 +54,9 @@ palavras-chave:
 
 ## Referências
 
-- BELTRÁN-BELTRÁN, L. C. La arquitectura del Movimiento Moderno como patrimonio cultural. Apuntes, Bogotá, v. 21, n. 2, p. 154-155, Dezembro 2008. Disponivel em: &lt;http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-97632008000200001&gt;.
+- BELTRÁN-BELTRÁN, L. C. La arquitectura del Movimiento Moderno como patrimonio cultural. Apuntes, Bogotá, v. 21, n. 2, p. 154-155, Dezembro 2008. Disponivel em: &lt;<a href="http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-97632008000200001">http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-97632008000200001</a>&gt;
 - BRASIL. LEI Nº 11.904. Institui o Estatuto de Museus e dá outras providências. [S.l.]: [s.n.], 14 de Janeiro de
-- BRASIL. LEI N° 8.313. Institui o Programa Nacional de Apoio à Cultura e dá outras providências. [S.l.]: [s.n.], 23 de dezembro de 1991. Disponivel em: &lt;http://www.planalto.gov.br/ccivil_03/leis/l8313cons.htm&gt;.
+- BRASIL. LEI N° 8.313. Institui o Programa Nacional de Apoio à Cultura e dá outras providências. [S.l.]: [s.n.], 23 de dezembro de 1991. Disponivel em: &lt;<a href="http://www.planalto.gov.br/ccivil_03/leis/l8313cons.htm">http://www.planalto.gov.br/ccivil_03/leis/l8313cons.htm</a>&gt;
 - FERNANDES, M. Museologia roteiros práticos: Planejamento de exposições 2. São Paulo: Edusp - Editora da Universidade de São Paulo, 2001.
 - IBRAM. Plano Museológico - Planejamento Estratégico para os Museus. [S.l.]: [s.n.], 2018.
 - ICOMOS. Criterios de Conservación del Patrimonio Arquitectónico del Siglo XX. Madrid, Espanha: [s.n.], 2011.
@@ -66,6 +66,6 @@ palavras-chave:
 - RIEGL, A. Der Moderne Denkmalkultus: Sein Wesen Und Seine Entstehung. Viena: W. Braumüller, 1903.
 - RODRÍGUEZ ALCALÁ, A. La reconstrucción histórica virtual del patrimonio cultural urbano-arquitectónico. El Hospital de San Juan de Dios de Mérida, Yucatán: caso de estudio. Mérida, Yucatán: Universidad Autónoma de Yucatán, 2005.
 - SEAV, S. E. D. A. V.; INTERNATIONAL FORUM OF VIRTUAL ARCHEOLOGY. Principles of Seville: International Principles of Virtual Archeology.
-- Sevilha, Espanha: Ratified by the 19th ICOMOS General Assembly in New Delhi, December 2017, 2017. Disponivel em: &lt;http://sevilleprinciples.com/&gt;. Acesso em: 09 jun. 2021.
-- VÁZQUEZ RAMOS, F. G. Desafios para a preservação do patrimônio arquitetônico e urbanístico modernos em São Paulo. Arquitextos, 2018. Disponivel em: &lt;https://vitruvius.com.br/revistas/read/arquitextos/19.219/7039&gt;. W3C BRASIL; MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO. Cartilha de Acessibilidade na Web do W3C Brasil – Fascículo I – Introdução. São Paulo: [s.n.], 2013.
-- YONESHIGUE, B.; LYRA, J. C. Incêndio na UFRJ: conheça o acervo histórico de arquitetura que quase foi perdido. Extra, 20 abril 2021. Disponivel em: &lt;https://extra.globo.com/noticias/rio/incendio-na-ufrj- conheca-acervo-historico-de-arquitetura-que-quase-foi-perdido-24984127.html&gt;.
+- Sevilha, Espanha: Ratified by the 19th ICOMOS General Assembly in New Delhi, December 2017, 2017. Disponivel em: &lt;<a href="http://sevilleprinciples.com/">http://sevilleprinciples.com/</a>&gt; Acesso em: 09 jun. 2021.
+- VÁZQUEZ RAMOS, F. G. Desafios para a preservação do patrimônio arquitetônico e urbanístico modernos em São Paulo. Arquitextos, 2018. Disponivel em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/19.219/7039">https://vitruvius.com.br/revistas/read/arquitextos/19.219/7039</a>&gt; W3C BRASIL; MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO. Cartilha de Acessibilidade na Web do W3C Brasil – Fascículo I – Introdução. São Paulo: [s.n.], 2013.
+- YONESHIGUE, B.; LYRA, J. C. Incêndio na UFRJ: conheça o acervo histórico de arquitetura que quase foi perdido. Extra, 20 abril 2021. Disponivel em: &lt;<a href="https://extra.globo.com/noticias/rio/incendio-na-ufrj-">https://extra.globo.com/noticias/rio/incendio-na-ufrj-</a>&gt; conheca-acervo-historico-de-arquitetura-que-quase-foi-perdido-24984127.html&gt;.

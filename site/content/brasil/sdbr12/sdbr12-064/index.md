@@ -55,7 +55,7 @@ palavras-chave:
 - BRANDI, C. Teoria da Restauração. 2ª. ed. Cotia, SP: Artes & Ofícios, 2005.
 - CARBONARA, G. Apresentação. In: BRANDI, C. Teoria da Restauração. Cotia, SP: Ateliê Editorial, 2004. p. 3-18.  10
 - CARROON, J.; CARLSON, B. Old is the new green. Architecture Boston, Boston, v. Fall, 2015.
-- CUNHA, C. D. R. E. Alois Riegl e o Culto Moderno dos Monumentos. Resenhas Online, v. 054.02, jun 2006. Disponivel em: &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/05-54/3138&gt;. Acesso em: 2011 mar. 23.
+- CUNHA, C. D. R. E. Alois Riegl e o Culto Moderno dos Monumentos. Resenhas Online, v. 054.02, jun 2006. Disponivel em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/05-54/3138">http://www.vitruvius.com.br/revistas/read/resenhasonline/05-54/3138</a>&gt; Acesso em: 2011 mar. 23.
 - FABRIS, A. Os Valores do Monumento. In: RIEGL, A. O culto moderno dos monumentos: A sua essência e a sua origem. 1ª. ed. São Paulo: Perspectiva, 2014.
 - FITCH, J. M. Selected Writings on Architecture, Preservation and the Built Environment. New York: W. W. Norton & Company, Inc., 2006.
 - GONSALES, C. H. C. A preservação do patrimônio moderno: Critérios e Valores. 2º Seminário Docomomo N-NE. Anais, Salvador, 04 a 07 jun. 2008.

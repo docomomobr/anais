@@ -56,7 +56,7 @@ palavras-chave:
 - BRAGA, M. O concurso de Brasília. São Paulo: Cosac Naify, 2010.
 - BRASIL. Planejamento urbano e local e o desenvolvimento das faixas pioneiras. Brasília: SERFHAU, 1972.
 - CALLOU, Rayana Nadir Lucena. O sonho de fundação de Paragominas-Pa e o Projeto Nacional- desenvolvimentista na Amazônia: memórias, narrativas e identidades. Dissertação (Programa de Pós- graduação em Linguagens e Saberes na Amazônia). Universidade Federal do Pará. Bragança-Pa, p.101. 2017.
-- CONFEA. Láurea ao Mérito 2018. Confea, Brasília, 2018. Disponível em: &lt;https://confea.org.br/sites/default/files/2019-05/livro_merito_2018.pdf&gt; Acesso em 30 mai. 2021.
+- CONFEA. Láurea ao Mérito 2018. Confea, Brasília, 2018. Disponível em: &lt;<a href="https://confea.org.br/sites/default/files/2019-05/livro_merito_2018.pdf">https://confea.org.br/sites/default/files/2019-05/livro_merito_2018.pdf</a>&gt; Acesso em 30 mai. 2021.
 - COSTA, Aline Moares. (IM)POSSÍVEIS BRASÍLIAS: Os projetos apresentados no concurso do plano piloto da nova capital federal. Dissertação (Mestrado em História da Arte). Universidade Estadual de Campinas. Campinas-SP, p. 603. 2002.
 - COSTA, F. DE A. Mercado e produção de terras na Amazônia: avaliação referida a trajetórias tecnológicas. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas, v. 5, n. 1, p. 25–39, 2010.
 - COSTA, Lucas Felício. Poder, memória e estigmas: pontes entre Ceres e Rialma. Dissertação (Programa de Pós-Graduação em Projeto e Cidade). Goiânia: FAV-UFG, 2016
@@ -77,6 +77,6 @@ palavras-chave:
 - TREVISAN, Ricard. Cidades Novas. Brasília: Editora Universidade de Brasília, 2020.
 - TRINDADE, J. R. B. (Org.) Seis décadas de intervenção estatal na Amazônia: a SPEVEA, auge e crise do ciclo ideológico do desenvolvimento brasileiro. Belém: Paká-Tatu, 2014.
 - VALVERDE, Orlando; DIAS, Catharina Vergolino. A Rodovia Belém-Brasília: Estudo de geografia regional.
-- IBGE, Rio de Janeiro, 1967, Série A, Publicação nº 22. Disponível em: &lt;https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=216178&view=detalhes&gt; Acesso em 30 mai. 2021.
+- IBGE, Rio de Janeiro, 1967, Série A, Publicação nº 22. Disponível em: &lt;<a href="https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=216178&view=detalhes">https://biblioteca.ibge.gov.br/biblioteca-catalogo?id=216178&view=detalhes</a>&gt; Acesso em 30 mai. 2021.
 - REGO, R. L. Comunidades planejadas na Amazônia: o urbanismo rural e a utopia de uma nova civilização. XIV Coloquio Internacional de Geocrítica, p. 2–7, 2016.
 - RUBIN, Débora. Ao perdedor, um lugar na Belém-Brasília. Veja. Especial Brasília 50 anos. São Paulo, p. 90- 91, novembro de 2009.

@@ -75,5 +75,5 @@ palavras-chave:
 - DUARTE, Hélio IN: HABITAT 4, As arquiteturas do Convênio Escolar, 1951, p. 7 - 40.
 - TEIXEIRA, Anísio IN: HABITAT 4, Um pressagio de progresso, 1951, p.2.
 - ALVES JUNIOR, R. Os azulejos de Portinari como elementos visuais da arquitetura modernista no Brasil. Disponível em:
-- &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp433&gt;. Acesso em: 01 abr. 2009, 11:50:00.
-- Mapas e fotos da NASA de 1958 e atual: &lt;http://www.geoportal.com.br/ &gt;. Acesso em: 06 mar. 2009, 00:38:00
+-  &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp433">http://www.vitruvius.com.br/arquitextos/arq000/esp433</a>&gt; Acesso em: 01 abr. 2009, 11:50:00.
+- Mapas e fotos da NASA de 1958 e atual: &lt;<a href="http://www.geoportal.com.br/">http://www.geoportal.com.br/</a>&gt; &gt;. Acesso em: 06 mar. 2009, 00:38:00

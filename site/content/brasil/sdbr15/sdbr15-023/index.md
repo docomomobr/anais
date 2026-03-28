@@ -64,11 +64,11 @@ palavras-chave:
 - BRANT, Vera. Darcy. São Paulo: Paz e Terra, 2002.
 - BRUZZONE et al. (2021). ¿Qué hace la Udelar en Malvín Norte? Memorias de acción en territorio 2020. Unidad de Extensión, Facultad de Ciencias. Montevideo: Udelar, 2021
 - COELHO, Haydée e ROCCA, Pablo. Diálogos latino-americanos: correspondência entre Ángel Rama, Berta e Darcy Ribeiro. São Paulo: Global, 2015.
-- GODOI, Fabrício. Universidade de Brasília e as ruínas da Roma dos trópicos. In: Oculum Ensaios. 19, 1–11. https://doi.org/10.24220/2318-0919v19e2022a5182. Acesso: 11/05/2023.
+- GODOI, Fabrício. Universidade de Brasília e as ruínas da Roma dos trópicos. In: Oculum Ensaios. 19, 1–11. &lt;<a href="https://doi.org/10.24220/2318-0919v19e2022a5182">https://doi.org/10.24220/2318-0919v19e2022a5182</a>&gt; Acesso: 11/05/2023.
 - LAZARTE, Leonardo e CAMARGO, Murilo S. O plano orientador da UnB de 1962 e suas repercussões na universidade brasileira atual. In VILAR, José Luiz e CASTIONI, Remi. (org). Diálogos entre Anísio e Darcy: o projeto da UnB e a universidade brasileira. Brasília: Verbena, 2012.
-- MARKARIAN, Vania et al. 1968: la insurgencia estudiantil. Montevideo: Universidad de la Republica, 2008. Acessível em: http://www.universidad.edu.uy/renderPage/index/pageId/449. Acesso: 14/04/2023.
-- MARKARIAN, Vania (org.). Universidad, investigación y compromiso: documentos del Archivo Maggiolo. Montevideo: Archivo general de EdelaR, 2010. Disponível em: https://udelar.edu.uy/maggiolo/wp- content/uploads/sites/27/2017/05/Maggiolo_2010-06-08-imprenta.pdf. Acesso: 14/04/2023.
-- MENDEZ, Mary. La universidad en la ciudad. In: La Diaria. 10/08/2017. Disponível em: https://udelar.edu.uy/maggiolo/la-universidad-en-la-ciudad-mary-mendez. Acesso: 14/04/2023.
+- MARKARIAN, Vania et al. 1968: la insurgencia estudiantil. Montevideo: Universidad de la Republica, 2008. Acessível em: &lt;<a href="http://www.universidad.edu.uy/renderPage/index/pageId/449">http://www.universidad.edu.uy/renderPage/index/pageId/449</a>&gt; Acesso: 14/04/2023.
+- MARKARIAN, Vania (org.). Universidad, investigación y compromiso: documentos del Archivo Maggiolo. Montevideo: Archivo general de EdelaR, 2010. Disponível em: &lt;<a href="https://udelar.edu.uy/maggiolo/wp-">https://udelar.edu.uy/maggiolo/wp-</a>&gt; content/uploads/sites/27/2017/05/Maggiolo_2010-06-08-imprenta.pdf. Acesso: 14/04/2023.
+- MENDEZ, Mary. La universidad en la ciudad. In: La Diaria. 10/08/2017. Disponível em: &lt;<a href="https://udelar.edu.uy/maggiolo/la-universidad-en-la-ciudad-mary-mendez">https://udelar.edu.uy/maggiolo/la-universidad-en-la-ciudad-mary-mendez</a>&gt; Acesso: 14/04/2023.
 - MENDIBLE ZURITA, Alejandro. Darcy Ribeiro: um ilustre intelectual mineiro y su participación en la renovación universitaria de la UCV. In: Cadernos de História da Educação. v.10,n.1 – jan/jun 2011. Pgs.33-50.
 - NIEMEYER, Oscar. Universidade de Constantine: Universidade dos sonhos. Rio de Janeiro, Revan, 2007.
 - PEREIRA, Fúlvio Teixeira Barros. Exporting progress: os norte-americanos e o planejamento de campus no Brasil. Tese de Doutorado. PPGAU, IAU-USP, jul/2017.
@@ -78,7 +78,7 @@ palavras-chave:
 - RODRIGUES, Luiz Augusto F. Universidade e a fantasia moderna: a falácia de um modelo espacial único. Niterói: EduFF, 2001.
 - SANTOS, Boaventura S. Da ideia de universidade à universidade de ideias. In: Revista Crítica de Ciências Sociais, Coimbra, n.27/28, pg. 11-62, jun. 1989.
 - SANTOS, Boaventura S. A universidade do século XXI: para uma reforma democrática e emancipatória da universidade. São Paulo: Cortez, 2010.
-- UDELAR. Plan de Reestruturación de la Universidad. Montevideo, 1967. Disponível em: https://udelar.edu.uy/maggiolo/category/documentos/. Acesso: 11/05/2023.
-- UNIVERSIDADE DE BRASÍLIA. Plano Orientador da Universidade de Brasília. Brasília: Editora UnB, 1962. Disponível em: https://unb.br/acesso-a-informacao/institucional. Acesso: 10-02-2022.
+- UDELAR. Plan de Reestruturación de la Universidad. Montevideo, 1967. Disponível em: &lt;<a href="https://udelar.edu.uy/maggiolo/category/documentos/">https://udelar.edu.uy/maggiolo/category/documentos/</a>&gt; Acesso: 11/05/2023.
+- UNIVERSIDADE DE BRASÍLIA. Plano Orientador da Universidade de Brasília. Brasília: Editora UnB, 1962. Disponível em: &lt;<a href="https://unb.br/acesso-a-informacao/institucional">https://unb.br/acesso-a-informacao/institucional</a>&gt; Acesso: 10-02-2022.
 - URRUZOLA, Juan. Los territórios universitários y el Plan Maggiolo. In: MARTINEZ, M., JUNG GARIBALDI, M. e
 - PAROLI, P. 50 años del Plan Maggiolo: historia, testimonios y perspectivas atuales. Montevideo: Edur, 2018.

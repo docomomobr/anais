@@ -76,7 +76,7 @@ palavras-chave:
 - Manual de elaboração de projetos de preservação do patrimônio cultural / Elaboração José Hailon Gomide, Patrícia Reis da Silva, Sylvia Maria Nelo Braga. _ Brasília: Ministério da Cultura, Instituto do Programa Monumenta, 2005. 76 p. (Programa Monumenta, cadernos técnicos 1)
 - PESSÔA, José. Cedo ou tarde serão consideradas obras de arte. In: PESSÔA, José; VASCONCELLOS, Eduardo; REIS, Elisabete; LOBO, Maria (Orgs.). Moderno e Nacional. Niterói: Ed. UFF, 2006, pp. 157-168.
 - Revista 50 anos da CEMIG. Editada pela Superintendência de Comunicação Visual e Representação. Maio, 2002.
-- Ribeiro, Maria Fernanda. Cidade de 70 casas está à venda em Minas. 2006. Disponível em: http://www1.folha.uol.com.br/fsp/cotidian/ff2409200610.htm. Acesso em: 22/05/2017.
+- Ribeiro, Maria Fernanda. Cidade de 70 casas está à venda em Minas. 2006. Disponível em: &lt;<a href="http://www1.folha.uol.com.br/fsp/cotidian/ff2409200610.htm">http://www1.folha.uol.com.br/fsp/cotidian/ff2409200610.htm</a>&gt; Acesso em: 22/05/2017.
 - RUBINO, Silvana. O mapa do Brasil passado. Revista do Serviço do Patrimônio Histórico e Artístico Nacional, Rio de Janeiro, n. 24, p. 97-105, 1996.
 - SALVO, Simona. A restauração do arranha-céu pirelli: a resposta italiana a uma questão internacional. Tradução: Beatriz Mugayar Kühl. CICLO DE PALESTRAS SOBRE PRESERVAÇÃO. São Paulo, 2005.
 - Usinas da Cemig: 1952-2005. / Coordenação Paulo Brandi de Barros Cachapuz. – Rio de Janeiro : Centro da Memória da Eletricidade no Brasil, 2006. 304p. : il. color ; 22,5 cm.

@@ -42,7 +42,7 @@ authors:
     familyname: "Sánchez"
     orcid: "0000-0003-0426-8090"
 doi: "10.5281/zenodo.19077230"
-zenodo_pdf_url: "https://zenodo.org/records/19077231/files/sdbr12-078.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285625/files/sdbr12-078.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
@@ -74,5 +74,5 @@ palavras-chave:
 - PRUDON, Theodore. Preservation of modern architecture / Theodore H.M. Prudon. Hoboken, N.J. : Wiley, 2008. 577p.
 - SILVA, Elcio. Os palácios originais de Brasília. Brasília: Câmara dos Deputados, Edições Câmara, 2014. 408p.
 - SILVA, Paula Maciel. Conservar, uma questão de decisão: o julgamento na conservação da arquitetura moderna. 2012. 236 f. Tese (Doutorado em Arquitetura). Universidade Federal de Pernambuco, Recife, PE. 2012.
-- UNITED NATIONS. United Nations Capital Master Plan. New York, United Nations, 2008. Disponível em &lt;http://www.un.org/wcm/content/site/cmp/home/about/pid/22407&gt; Acesso em: 10 set. 2015.
+- UNITED NATIONS. United Nations Capital Master Plan. New York, United Nations, 2008. Disponível em &lt;<a href="http://www.un.org/wcm/content/site/cmp/home/about/pid/22407">http://www.un.org/wcm/content/site/cmp/home/about/pid/22407</a>&gt; Acesso em: 10 set. 2015.
 - VALE, Lawrence. Architecture, power, and national identity. New Haven: Yale University Press, 1992. 338p.

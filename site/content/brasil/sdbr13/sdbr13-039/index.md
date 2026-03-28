@@ -76,7 +76,7 @@ palavras-chave:
 - MARTINS, C. A. F. Construir uma arquitetura, construir um país. In: Brasil 1920-1950: da antropofagia a Brasília. SCHWARTZ, Jorge. São Paulo: Cosac e Naify, MAB - FAAP, 2002.
 - MINDLIN, H. Arquitetura Moderna no Brasil. Rio de Janeiro, Aeroplano, 1999.
 - OLIVEIRA, A. R. Paisagens Particulares: Jardins de Roberto Burle Marx (1940-1970). Rio de Janeiro: Dantes Ed., FAPERJ, 2015.
-- OLIVEIRA, A. R. Bourlemarx ou Burle Marx? Arquitextos, São Paulo, ano 02, n. 013.01, Vitruvius, jun. 2001. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/02.013/876&gt;. Acesso em: 10 jan. 2016.
+- OLIVEIRA, A. R. Bourlemarx ou Burle Marx? Arquitextos, São Paulo, ano 02, n. 013.01, Vitruvius, jun. 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/02.013/876">http://www.vitruvius.com.br/revistas/read/arquitextos/02.013/876</a>&gt; Acesso em: 10 jan. 2016.
 - PEDROSA, M. A arquitetura moderna no Brasil (1953). In: Arquitetura: Ensaios Críticos. WISNIK, Guilherme (org.). São Paulo: Cosac Naify, 2015. p.61-73.
 - POLIZZO, A. P. Paisagem, arquitetura, cidade: uma discussão acerca da produção do espaço moderno. Tese (Doutorado em História) – Departamento de História, Pontifícia Universidade Católica, PUC/RJ, Rio de Janeiro, 2016
 - POLIZZO, A. P. A estética moderna da paisagem: a poética de Roberto Burle Marx. Dissertação (Mestrado em História) – Departamento de História, Pontifícia Universidade Católica, PUC/RJ, Rio de Janeiro, 2010.

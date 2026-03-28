@@ -55,9 +55,9 @@ autores:
 
 - AALTO, Alvar. La Casa de Oscar Niemeyer en las afueras de Río de ]aneiro. En SCHILDT, Góran. Alvar Aalto. De palabra y por escrito. El escorial: El croquis ed. 2000. 198 p.
 - ABALOS, Iñaki, Os rabiscos de Niemeyer, en SEGRE, Roberto. Tributo a Niemeyer, pp. 26-27. Rio de Janeiro: Viana, 2009., 2009. p. 56-61.
-- BOHIGAS, Oriol. Ética y política de la arquitectura, en El Pais. Disponible en http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824125_469043.html. Publicado el 6-12-2012. Consultado el 5-10-2014.
-- CURTIS, William. Constructor de un mundo pasado. En El Pais. Disponible en: http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824749_719681.html. Publicado el 6-12-2012. Consultado el 5-10-2014.
-- FINOTTI, Leonardo, obra fotográfica disponible en: http://leonardofinotti.com. Consultado: 06, 12, 2015.
+- BOHIGAS, Oriol. Ética y política de la arquitectura, en El Pais. Disponible en &lt;<a href="http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824125_469043.html">http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824125_469043.html</a>&gt; Publicado el 6-12-2012. Consultado el 5-10-2014.
+- CURTIS, William. Constructor de un mundo pasado. En El Pais. Disponible en: &lt;<a href="http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824749_719681.html">http://cultura.elpais.com/cultura/2012/12/06/actualidad/1354824749_719681.html</a>&gt; Publicado el 6-12-2012. Consultado el 5-10-2014.
+- FINOTTI, Leonardo, obra fotográfica disponible en: &lt;<a href="http://leonardofinotti.com">http://leonardofinotti.com</a>&gt; Consultado: 06, 12, 2015.
 - FRAMPTON, Kennet. Homenagem a Niemeyer. En SEGRE, Roberto. Tributo a Niemeyer, pp. 26-27. Rio de Janeiro: Viana, 2009., 2009. p. 24,31.
 - LE CORBUSIER, Hacia una arquitectura. Buenos Aires: Poseidón 1964 (primera ed. Paris 1923).
 - LE CORBUSIER. OEuvre Complete, volumen IV, pp. 80-89, en LE CORBUSIER, OEuvre Complete, 1910-1969, Basilea: Birkhäuser Verlag. 1995.

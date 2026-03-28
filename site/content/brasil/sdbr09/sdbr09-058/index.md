@@ -59,11 +59,11 @@ palavras-chave:
 - CARVALHO, A. C. Escola de Enfermagem da Universidade de São Paulo. Resumo Histórico (1942). São Paulo, (S.n.t), 1980, p. 21.
 - FIELL, C.; FIELL, P. 1000 lights: 1878-1959. Köln: Taschen, 2004.
 - FRAMPTON, K. História crítica da arquitetura moderna. São Paulo: Martins Fontes, 1997.
-- FUNDAÇÃO Serviço Especial de Saúde Pública. Pessoal norte-americano que colaborou com o SESP através do IAIA de 1942 A 1960. Disponível em: http://iah.iec.pa.gov.br/iah/fulltext/pc/monografias/iec/evolucaohistorica/partXIV.pdf. Acesso em: 14 jan. 2010.
+- FUNDAÇÃO Serviço Especial de Saúde Pública. Pessoal norte-americano que colaborou com o SESP através do IAIA de 1942 A 1960. Disponível em: &lt;<a href="http://iah.iec.pa.gov.br/iah/fulltext/pc/monografias/iec/evolucaohistorica/partXIV.pdf">http://iah.iec.pa.gov.br/iah/fulltext/pc/monografias/iec/evolucaohistorica/partXIV.pdf</a>&gt; Acesso em: 14 jan. 2010.
 - HINES, T. S. Richard Neutra and the search for Modern Architecture: a biography and history. New York: Oxford University Press,
 - Leet, S.; Neutra, R. J. Richard Neutra's Miller House. New York: Princeton Architectural Press,
 - Mumford, E.; Frampton, K. The CIAM Discourse on Urbanism, 1928-1960. Cambridge: The MIT Press, 2002.
-- MUSEUM of Modern Art. The Collection. Apresenta as obras que constam em seu acervo e uma breve biografia dos autores. Disponível em: &lt;http://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A4596&page_number=1&template_id=1&sort_order=1&gt;.  Acesso em: 14 jan. 2010.
+- MUSEUM of Modern Art. The Collection. Apresenta as obras que constam em seu acervo e uma breve biografia dos autores. Disponível em: &lt;<a href="http://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A4596&page_number=1&template_id=1&sort_order=1">http://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A4596&page_number=1&template_id=1&sort_order=1</a>&gt; Acesso em: 14 jan. 2010.
 - NEUTRA, D.; WESCHLER, L. To Tell the Truth Oral History Transcript. Los Angeles: Oral History Program, University of California, Los Angeles, 1983.
 - SÃO PAULO (Estado). Secretaria de Estado da Cultura. Conselho de Defesa do Patrimônio Histórico, Artístico, Arqueológico e Turístico. Processo nº 52.290/2005. Estudo de tombamento do Quadrilátero da Saúde, memória dos investimentos públicos na área da saúde no bairro de Pinheiros. São Paulo, 2005.
 - SOUZA, A. R.; BAPTISTA, S. S. A adoção do modelo anglo-americano de ensino de enfermagem na capital paulista. Esc. Anna Nery R. Enfermagem, Rio de Janeiro, v. 6, n. 2, p. 211-227 ago. 2002.

@@ -55,5 +55,5 @@ palavras-chave:
 - CASTRO, Newton de. Estrutura, desempenho e perspectivas do transporte ferroviário de carga. Pesquisa e Planejamento Econômico. Brasília, v.32, n.2, p.251-283, ago. 2002.
 - FONSECA, Marcos Valderato da. Brasília e as ligações ferroviárias. Revista Brasília, ano 2, n. 22, out. 1958, pp. 4-5.
 - NIEMEYER, Oscar. Nove sede da Fata Engineering Torino-Itália. Módulo, Rio de Janeiro, n.46, p.44-9, jul./set. 1977.
-- NIEMEYER, Oscar. [Companhia Urbanizadora da Nova Capital - Nova Sede NOVACAP]. Rio,  1976. Fundação Oscar Niemeyer. Coleção Oscar Niemeyer. Disponível em: http://www.niemeyer.org.br/obra/pro405, acesso em 26/07/2017.
-- ZEIN, Ruth Verde. Oscar Niemeyer. Da critica alheia à teoria própria. Arquitextos, ano 13, n. 151-1. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608 . Acesso em 19/07/2017.
+- NIEMEYER, Oscar. [Companhia Urbanizadora da Nova Capital - Nova Sede NOVACAP]. Rio, 1976. Fundação Oscar Niemeyer. Coleção Oscar Niemeyer. Disponível em: &lt;<a href="http://www.niemeyer.org.br/obra/pro405">http://www.niemeyer.org.br/obra/pro405</a>&gt; acesso em 26/07/2017.
+- ZEIN, Ruth Verde. Oscar Niemeyer. Da critica alheia à teoria própria. Arquitextos, ano 13, n. 151-1. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608">http://www.vitruvius.com.br/revistas/read/arquitextos/13.151/4608</a>&gt; . Acesso em 19/07/2017.

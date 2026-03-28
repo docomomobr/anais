@@ -47,7 +47,7 @@ palavras-chave:
 ## Referências
 
 - ARTIGAS, Vilanova. Caminhos da Arquitetura: O desenho. Cosac & Naif, São Paulo, pp. 69-85. 1999.
-- GOROVITZ, Matheus. Os riscos da modernidade. ArcoWEB. Disponível em: http://www.arcoweb.com.br/debate/debate26.asp
+- GOROVITZ, Matheus. Os riscos da modernidade. ArcoWEB. Disponível em: &lt;<a href="http://www.arcoweb.com.br/debate/debate26.asp">http://www.arcoweb.com.br/debate/debate26.asp</a>&gt;
 - HEIDEGGER, Martin. Construir, habitar, pensar in CHOAY, Françoise. O Urbanismo. trad.. São Paulo, Perspectiva, 1979.
 - HEIDEGGER, Martin. A origem da obra de Arte. Edições 70, Lisboa, p.32, outubro, 2005.
 - HEIDEGGER, Martin. Identidade e Diferença. Editora Vozes, São Paulo, 2006.

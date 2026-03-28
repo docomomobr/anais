@@ -36,8 +36,8 @@ autores:
 ## Referências
 
 - BAFFI, Mirthes. O IGEPAC -SP e outros inventários da Divisão de Preservação do DPH: um balanço. Revista do Arquivo Histórico, n. 204, São Paulo: Arquivo Histórico, Municipal, 2006, p.169-191.
-- DOCOMOMO INTERNATONAL - https://docomomo.com/organization/ acesso 19/11/2023
-- DOCOMOMO BRASIL - https://docomomobrasil.com/ acesso 19/11/2023
+- DOCOMOMO INTERNATONAL - &lt;<a href="https://docomomo.com/organization/">https://docomomo.com/organization/</a>&gt; acesso 19/11/2023
+- DOCOMOMO BRASIL - &lt;<a href="https://docomomobrasil.com/">https://docomomobrasil.com/</a>&gt; acesso 19/11/2023
 - PAVAN, Ana Paula e SALERNO, Thaina. Entrevista Mirthes Baffi. Revista do Arquivo Histórico, n. 207, São Paulo: Arquivo Histórico, Municipal, 2021, p.85-110.
 - SÃO PAULO (cidade), Prefeitura Municipal, Secretaria Municipal de Cultura, Departamento do Patrimônio Histórico. Inventário Geral de patrimônio ambiental e cultural: metodologia / Leila Diêgoli, coord. Et ali. São Paulo: Departamento do Patrimônio Histórico, 1986.
 - UNESCO - ttps://www.unesco.org/en/world-heritage, acesso 19/11/2023

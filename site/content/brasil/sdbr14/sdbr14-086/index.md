@@ -58,22 +58,22 @@ palavras-chave:
 - CASTRO, A. C. M. DE. Texto 3. In: FIALHO, V. C. DOS S. (Ed.). . Arquitetura, texto e imagem: a retórica da representação nos concursos de arquitetura. São Paulo: FAUUSP, 2007.
 - FIALHO, V. C. DOS S. Arquitetura, texto e imagem: a retórica da representação nos concursos de arquitetura. Doutorado em Projeto de Arquitetura—São Paulo: Universidade de São Paulo, 19 jun. 2007.
 - GAMA, M. Sai vencedor do concurso da Expo 92. Folha de São Paulo, p. e-10, 29 jan. 1991.
-- GOUVÊA, J. P. José Paulo Gouvêa - Série de Conferências 2019.02. Belo Horizonte, 2019. Disponível em: &lt;https://bit.ly/3w8qfsg&gt;. Acesso em: 18 jun. 2020
-- GRUPOSP. PAVILHÃO DO BRASIL NA EXPO ’92. Disponível em: &lt;https://bit.ly/3crWhHR&gt;. Acesso em: 25 fev. 2021.
+- GOUVÊA, J. P. José Paulo Gouvêa - Série de Conferências 2019.02. Belo Horizonte, 2019. Disponível em: &lt;<a href="https://bit.ly/3w8qfsg">https://bit.ly/3w8qfsg</a>&gt; Acesso em: 18 jun. 2020
+- GRUPOSP. PAVILHÃO DO BRASIL NA EXPO ’92. Disponível em: &lt;<a href="https://bit.ly/3crWhHR">https://bit.ly/3crWhHR</a>&gt; Acesso em: 25 fev. 2021.
 - KIEFER, F. O que há contigo, arquitetura brasileira? Projeto, n. 140, p. 10, 1991.
 - LIMA, J. DA C. Texto 6. In: FIALHO, V. C. DOS S. (Ed.) Arquitetura, texto e imagem: a retórica da representação nos concursos de arquitetura. São Paulo: FAUUSP, 2007.
 - MACADAR, A. M. Uma trajetória brasileira na arquitetura das exposições universais dos anos 1939-1992. Dissertação de mestrado—Porto Alegre: Universidade Federal do Rio Grande do Sul, 2005.
 - MEDEIROS, H. Em torno do concurso. AU Arquitetura e Urbanismo, n. 35, p. 74–75, mar. 1991.
 - MENGOZI, F. Texto 7. In: FIALHO, V. C. DOS S. (Ed.) Arquitetura, texto e imagem: a retórica da representação nos concursos de arquitetura. São Paulo: FAUUSP, 2007.
-- MMBB. Pavilhão em Sevilha. Disponível em: &lt;https://bit.ly/2X4lVuJ&gt;. Acesso em: 26 maio. 2020.
+- MMBB. Pavilhão em Sevilha. Disponível em: &lt;<a href="https://bit.ly/2X4lVuJ">https://bit.ly/2X4lVuJ</a>&gt; Acesso em: 26 maio. 2020.
 - OLIVEIRA, N. C. Atos e Fatos. Projeto, n. 140, p. 18–19, 1991.
-- PARANHOS, P. H. Pavilhão Sevilha, 1992. Disponível em: &lt;https://bit.ly/3ddVc5N&gt;. Acesso em: 14 dez. 2020
+- PARANHOS, P. H. Pavilhão Sevilha, 1992. Disponível em: &lt;<a href="https://bit.ly/3ddVc5N">https://bit.ly/3ddVc5N</a>&gt; Acesso em: 14 dez. 2020
 - REVISTA PROJETO. A polêmica de Sevilha e os premiados no concurso do pavilhão do Brasil. Projeto, n. 139, p. 62–77, 1991.
 - SEGAWA, H. Pavilhão do Brasil em Sevilha: Deu em Vão. Projeto, n. 138, p. 34–39, 1991.
-- SERAPIÃO, F. et al. Concursos de arquitetura: júri e/é crítica?. São Paulo, 2018. Disponível em: &lt;https://bit.ly/3c0CJHc&gt;. Acesso em: 23 maio. 2020
+- SERAPIÃO, F. et al. Concursos de arquitetura: júri e/é crítica?. São Paulo, 2018. Disponível em: &lt;<a href="https://bit.ly/3c0CJHc">https://bit.ly/3c0CJHc</a>&gt; Acesso em: 23 maio. 2020
 - SPADONI, F. Dependência e resistência: transição na arquitetura brasileira nos anos de 1970 e 1980. Arquitextos, n. 102, 2008.
 - TELLES, S. Museu da Escultura. AU Arquitetura e Urbanismo, n. 32, 1990.
-- WISNIK, G. Arquitetura de exceção. São Paulo, 2018. Disponível em: &lt;https://bit.ly/3rwQkhf&gt;. Acesso em: 14 maio. 2020
+- WISNIK, G. Arquitetura de exceção. São Paulo, 2018. Disponível em: &lt;<a href="https://bit.ly/3rwQkhf">https://bit.ly/3rwQkhf</a>&gt; Acesso em: 14 maio. 2020
 - ZEIN, R. V. Arquitetura em exposição: Sevilha 92. Projeto, n. 138, p. 19–33, 1991.
 - ZEIN, R. V. Há que se ir às coisas. In: ZEIN, R. V. (Ed.) Leituras Críticas. São Paulo: Romano Guerra, 2018.
 - ZEIN, R. V.; AMARAL, I. A feira mundial de Osaka de 1970: o pavilhão brasileiro. Arqtexto, n. 16, p. 108–127, 2010.

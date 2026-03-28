@@ -59,11 +59,11 @@ palavras-chave:
 - COMAS, Carlos Eduardo. Nemours-sur-Tietê, ou a modernidade de ontem. Projeto, n. 89, São Paulo, julho 1986, p. 90-93.
 - COMAS, Carlos Eduardo. Niemeyer Inatural. In: SEGRE, Roberto; AZEVEDO, Marlice; COSTA, Renato Gama-Rosa; ANDRADE, Inês El-Jaick (orgs.), Arquitetura+Arte+Cidade. Um debate internacional. Rio de Janeiro: Viana & Mosley, 2010, p. 147-152.
 - COMAS, Carlos Eduardo, Oscar Niemeyer, um arquiteto e quatro fases. AU, n. 226, São Paulo, jan. 2012.
-- ISTOÉ DINHEIRO. O outro lado empresarial de JK.  São Paulo, 11 fev. 2004. Disponível em: &lt;www.istoedinheiro.com.br/noticias/economia/20040211/outro-lado-empresarial/16720.shtml&gt;
+- ISTOÉ DINHEIRO. O outro lado empresarial de JK. São Paulo, 11 fev. 2004. Disponível em: &lt;www.istoedinheiro.com.br/noticias/economia/20040211/outro-lado-empresarial/16720.shtml&gt;
 - NIEMEYER, Oscar. Conjunto Urbanístico de Pena Furada, 1966. Fundação Oscar Niemeyer. Coleção Oscar Niemeyer. Disponível em: &lt;www.niemeyer.org.br&gt;
 - NIEMEYER, Oscar. Quase Memórias: Viagens. Tempos de entusiasmo e revolta 1961-1966. Rio de Janeiro: Civilização Brasileira, 1968.
 - RAMOS, Tania Beisl; MATOS, Madalena Cunha. Campos opostos: trabalhos e viagens de Viana de Lima no Brasil. In: Anais do 2º Seminário Docomomo Norte-Nordeste. Salvador: Docomomo Bahia, 2008.
 - ROWE, Colin; KOETTER, Fred. Collage City. Cambridge, The MIT Press, 1978.
 - ROWE, Colin, Manierismo y arquitectura moderna y otros ensayos, Barcelona: Gustavo Gili, 1999.
-- SOARES, Marisa; NÓBREGA, Tolentino; HENRIQUES, Ana. Portugal tem três projetos de Niemeyer na gaveta. Público. Lisboa, 6 dez. 2012. Disponível em: &lt;https://www.publico.pt/.../portugal-tem-dois-projectos-de-niemeyer-na-gaveta-1576412 &gt;
+- SOARES, Marisa; NÓBREGA, Tolentino; HENRIQUES, Ana. Portugal tem três projetos de Niemeyer na gaveta. Público. Lisboa, 6 dez. 2012. Disponível em: &lt;<a href="https://www.publico.pt/.../portugal-tem-dois-projectos-de-niemeyer-na-gaveta-1576412">https://www.publico.pt/.../portugal-tem-dois-projectos-de-niemeyer-na-gaveta-1576412</a>&gt; &gt;
 - ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: arquiteturas após 1950. São Paulo, Perspectiva, 2010.

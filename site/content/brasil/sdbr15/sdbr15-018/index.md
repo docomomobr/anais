@@ -69,8 +69,8 @@ palavras-chave:
 - HITCHCOCK, Henry-Russell, The Architecture of Bureaucracy and the Architecture of Genius, Architectural Review, n. 101, 1947, p.3-6;
 - MEYER, Hannes. El arquitecto en la lucha de clases y otros escritos. Barcelona: Gustavo Gili, 1972;
 - NUNES, Luiz. Arquitetura em Pernambuco. Revista de Arquitetura, ano 1, n.9, 1935, p.6-9;
-- RAFAEL Aranda, Carme Pigem and Ramon Vilalta receive the 2017 Pritzker Architecture Prize Disponível em: https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta#laureate-page-1351 Acesso em: 15 jun. 2023;
+- RAFAEL Aranda, Carme Pigem and Ramon Vilalta receive the 2017 Pritzker Architecture Prize Disponível em: &lt;<a href="https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta#laureate-page-1351">https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta#laureate-page-1351</a>&gt; Acesso em: 15 jun. 2023;
 - REIDY, Affonso Eduardo, Ante-projecto de um edifício destinado a conter dependências dos Serviços Municipaes. Revista da Diretoria de Engenharia do Distrito Federal, n. 32, ano 1, jul. 1932, p. 2-5;
 - SCHWARTZMAN, Simon (org.). Estado Novo: um auto-retrato. Brasília: CPDOC-FGV; Editora da UnB, 1983;
-- SCRIVANO, Paolo, The Persistent Success of Biography, ABE Journal , 1, 2012. Disponível em: http://journals.openedition.org/abe/308 Acesso em: 15 jun. 2023;
+- SCRIVANO, Paolo, The Persistent Success of Biography, ABE Journal , 1, 2012. Disponível em: &lt;<a href="http://journals.openedition.org/abe/308">http://journals.openedition.org/abe/308</a>&gt; Acesso em: 15 jun. 2023;
 - SILVA, Enéas, Os novos prédios escolares do Districto Federal. Revista da Diretoria de Engenharia do Distrito Federal, n. 16, ano 4, mai. 1935, p. 359-365;

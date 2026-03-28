@@ -56,14 +56,14 @@ palavras-chave:
 
 ## Referências
 
-- ANELLI, Renato. “O incêndio do Teatro Cultura Artística: quando reconstruir é preservar”, In: Vitruvius – Minha Cidade, ano 9, vol. 1, ago. 2008, p. 230. Disponível em: http://www.vitruvius.com.br/minhacidade/mc230/mc230.asp. Acesso em 18 jun. 2009, 13:34.
-- CAMARGO, Monica Junqueira de. “Sobre o projeto de Oscar Niemeyer para o entorno do Teatro no Parque Ibirapuera”, In: Vitruvius – Minha Cidade, ano 5, vol. 8, mar. 2005, p. 125. Disponível em: http://www.vitruvius.com.br/minhacidade/mc125/mc125.asp. Acesso em: 15 jun. 2009, 20:10.
-- CARRILHO, Marcos J. “A restauração da Casa da rua Santa Cruz”, In: Vitruvius – Minha Cidade, ano 1, vol. 5, dez. 2000, p. 009. Disponível em: http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp. Acesso em 18 jun. 2009, 12:56.
-- CARRILHO, Marcos J. “O lastimável estado da Casa Modernista transcorridos mais de vinte anos de seu tombamento”, In: Vitruvius – Arquitextos, n. 062, jul. 2005. Disponível em: http://www.vitruvius.com.br/arquitextos/arq062/arq062_02.asp. Acesso em 18 jun. 2009, 15:07.
+- ANELLI, Renato. “O incêndio do Teatro Cultura Artística: quando reconstruir é preservar”, In: Vitruvius – Minha Cidade, ano 9, vol. 1, ago. 2008, p. 230. Disponível em: &lt;<a href="http://www.vitruvius.com.br/minhacidade/mc230/mc230.asp">http://www.vitruvius.com.br/minhacidade/mc230/mc230.asp</a>&gt; Acesso em 18 jun. 2009, 13:34.
+- CAMARGO, Monica Junqueira de. “Sobre o projeto de Oscar Niemeyer para o entorno do Teatro no Parque Ibirapuera”, In: Vitruvius – Minha Cidade, ano 5, vol. 8, mar. 2005, p. 125. Disponível em: &lt;<a href="http://www.vitruvius.com.br/minhacidade/mc125/mc125.asp">http://www.vitruvius.com.br/minhacidade/mc125/mc125.asp</a>&gt; Acesso em: 15 jun. 2009, 20:10.
+- CARRILHO, Marcos J. “A restauração da Casa da rua Santa Cruz”, In: Vitruvius – Minha Cidade, ano 1, vol. 5, dez. 2000, p. 009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp">http://www.vitruvius.com.br/minhacidade/mc009/mc009.asp</a>&gt; Acesso em 18 jun. 2009, 12:56.
+- CARRILHO, Marcos J. “O lastimável estado da Casa Modernista transcorridos mais de vinte anos de seu tombamento”, In: Vitruvius – Arquitextos, n. 062, jul. 2005. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq062/arq062_02.asp">http://www.vitruvius.com.br/arquitextos/arq062/arq062_02.asp</a>&gt; Acesso em 18 jun. 2009, 15:07.
 - SALVO, Simona, op. cit., pp. 154.
 - KÜHL, Beatriz Mugayar. “Restauração hoje: método, projeto e criatividade”, In: Desígnio – Revista de História da Arquitetura e do Urbanismo. São Paulo: FAUUSP / Annablume, n. 6, nov/2007, pp. 26.
-- CARRILHO, Marcos J. “Teatro Cultura Artística: novo edifício e restauração”, In: Vitruvius – Arquitextos, n. 104, jan. 2009. Disponível em: http://www.vitruvius.com.br/arquitextos/arq104/arq104_01.asp. Acesso em 19 jun. 2009, 12:00.
-- Carta de Veneza – 1964. Disponível em: http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=236. Acesso em 19 jun 2009, 11:15.
+- CARRILHO, Marcos J. “Teatro Cultura Artística: novo edifício e restauração”, In: Vitruvius – Arquitextos, n. 104, jan. 2009. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq104/arq104_01.asp">http://www.vitruvius.com.br/arquitextos/arq104/arq104_01.asp</a>&gt; Acesso em 19 jun. 2009, 12:00.
+- Carta de Veneza – 1964. Disponível em: &lt;<a href="http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=236">http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=236</a>&gt; Acesso em 19 jun 2009, 11:15.
 - CHOAY, A Alegoria do Patrimônio. Tradução Luciano Vieira Machado. São Paulo: Estação Liberdade / Ed. Unesp, 2001.
 - DOGLIONE, Francesco. Nel restauro. Progetti per le architetture del passato. Venezia: Marsilio / IUAV, 2008.
 - KÜHL, Beatriz Mugayar. “Restauração hoje: método, projeto e criatividade”, In: Desígnio – Revista de História da Arquitetura e do Urbanismo. São Paulo: FAUUSP / Annablume, n. 6, nov/2007, pp. 19-34.
@@ -73,4 +73,4 @@ palavras-chave:
 - RIEGL, Alois. Teoria e prassi della conservazione dei monumenti. Antologia di scritti, discorsi, rapporti – 1898-1905. A cura di Sandro Scarrocchia. Bologna: Gedit, 2ª ed., 2003.
 - SALVO, Simona. “Restauro e ‘restauros’ das obras arquitetônicas do século 20: intervenções em arranha- céus em confronto”, In: Revista CPC, São Paulo, n. 4, maio/out. 2007, pp. 139-157.
 - SANT’ANNA, Márcia. Da cidade-monumento à cidade-documento. A Trajetória da Norma de Preservação de Áreas Urbanas no Brasil (1937-1990). Salvador, Dissertação de Mestrado FAU-UFBa, 1995.
-- SANTOS, Cecília Rodrigues dos. “Teatro do Parque Ibirapuera: em nome de quem?”, In: Vitruvius – Arquitextos. Texto Especial 188, jul. 2003. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp. Acesso em: 12 jun. 2009, 23:30.
+- SANTOS, Cecília Rodrigues dos. “Teatro do Parque Ibirapuera: em nome de quem?”, In: Vitruvius – Arquitextos. Texto Especial 188, jul. 2003. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp188.asp</a>&gt; Acesso em: 12 jun. 2009, 23:30.

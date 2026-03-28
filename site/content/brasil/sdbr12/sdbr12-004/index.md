@@ -57,10 +57,10 @@ palavras-chave:
 - BASTOS, Maria Alice Junqueira. Dos Anos 50 aos anos 70: como se completou o projeto moderno na arquitetura brasileira. Tese (Doutorado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2004.
 - BASTOS, Maria Alice Junqueira. Pós Brasília: os rumos da arquitetura brasileira. São Paulo: Perspectiva, 2003.
 - BRAGA, Milton. O concurso de Brasília: sete projetos para uma capital. São Paulo: Cosac Naify, 2010.
-- BRASIL, Luciana Tombi.  A obra de David Libeskind – Ensaio sobre as residências unifamiliares. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2004.
+- BRASIL, Luciana Tombi. A obra de David Libeskind – Ensaio sobre as residências unifamiliares. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2004.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - BUGANZA, Cintia Peres. Estudo da situação pré-metropolitana de Sorocaba: características e perspectivas. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2010.
-- CELLI, Andressa.  Evolução Urbana de Sorocaba. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2012.
+- CELLI, Andressa. Evolução Urbana de Sorocaba. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2012.
 - CRUZEIRO DO SUL. Sorocaba – Uma História Ilustrada 350 anos. Sorocaba: Fundação Ubaldino do Amaral, 2004.
 - CRUZEIRO DO SUL. Jornal Cruzeiro do Sul - 30.000 Edições. Sorocaba: Fundação Ubaldino do Amaral, 2005.
 - DESÍGNIO. Dossiê: História, Historiografia, Historiadores. Desígnio ns. 11/12. São Paulo: Ana Blume, 2011.

@@ -52,11 +52,11 @@ palavras-chave:
 
 ## Referências
 
-- CARRILHO, Marcos José . Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. São Paulo: Vitruvius, 2000. Disponível em: http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp&gt; Acesso em 10 mai 2007, 17:24:25.
+- CARRILHO, Marcos José . Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. São Paulo: Vitruvius, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp</a>&gt; Acesso em 10 mai 2007, 17:24:25.
 - CASTILLA DE PINO, Carlos. La memoria y la piedra. In: Gonzales Moreno-Navarro, C. Castilla del Pino, A. Fernández Alba. Patrimônio: memoria o pesadilla? Memoria 1990-1992. Barcelona: Instituto de Ediciones de la Diputación de Barcelona,1995, p. 9-12.
 - CHOAY, Françoise. A alegoria do patrimônio. São Paulo: Estação Liberdade: Editora Unesp, 2001.
 - COLQUHOUN, Alan. “Novidade” e “valor de época” em Alois Rieg. In: Colquhoun, Alan. Modernidade e tradição clássica: ensaios sobre arquitetura 1980-1987. São Paulo: Cosac &Naify, 2004, p. 201-207.
 - MARTI ARÍS, Carlos. Las variaciones de la identidad: ensayo sobre el tipo en arquitectura. Barcelona: Demacacion de Barcelona del colegio de arquitectos de Cataluña e Ediciones Serbal, 1993.
 - PANTALEÓN, Carlos. Adaptación de estructuras arquitectónicas obsoletas: el concepto de restauración en la dialética del proceso de diseño. Montevideo: Servicio Coordinador de Publicaciones, Universidad de la República, 1997.
-- PARAIZO, Rodrigo Cury. A representacao do patrimônio urbano em hiperdocumentos: um estudo sibre i Palácio Monroe. Dissertação de Mestrado, Prourb, Fau, UFRJ, 2003. Disponível em http://www.nitnet.com.br/~rodcury/dissertacao/1_1-patrimonio.htm. Acesso em 02 de ago. de 2007, 10:20:00.
+- PARAIZO, Rodrigo Cury. A representacao do patrimônio urbano em hiperdocumentos: um estudo sibre i Palácio Monroe. Dissertação de Mestrado, Prourb, Fau, UFRJ, 2003. Disponível em &lt;<a href="http://www.nitnet.com.br/~rodcury/dissertacao/1_1-patrimonio.htm">http://www.nitnet.com.br/~rodcury/dissertacao/1_1-patrimonio.htm</a>&gt; Acesso em 02 de ago. de 2007, 10:20:00.
 - RIEGL, Aloïs. Le culte moderne des monuments: son essence et sa génese. Paris: Éditions du Seuil, 1984.

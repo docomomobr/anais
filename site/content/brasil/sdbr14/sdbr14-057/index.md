@@ -56,7 +56,7 @@ palavras-chave:
 
 ## Referências
 
-- Acervos online: Revista Acrópole digitalizada: http://www.acropole.fau.usp.br/ Livros, teses, dissertações e artigos:
+- Acervos online: Revista Acrópole digitalizada: &lt;<a href="http://www.acropole.fau.usp.br/">http://www.acropole.fau.usp.br/</a>&gt; Livros, teses, dissertações e artigos:
 - ACAYABA, Marlene Milan. Residências em São Paulo (1947-1975). São Paulo: Romano Guerra, 2011.
 - ALMEIDA, Maísa Fonseca de. Revista Acrópole publica residências modernas: análise da revista Acrópole e sua publicação de residências unifamiliares modernas entre os anos de 1952 a 1971. Dissertação (Mestrado em Arquitetura e Urbanismo) – Departamento de Arquitetura e Urbanismo, Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos (SP), 2008.
 - BARTHES, Roland. A Câmara Clara. Lisboa: Edições 70, 1980.
@@ -74,11 +74,11 @@ palavras-chave:
 - LAHUERTA, Juan José. Photography or life: popular Mies. Barcelona: Tenov Books, 2015.
 - MARTINS, Carlos Alberto Ferreira. Arquitetura e Estado no Brasil. Elementos para uma análise da constituição do discurso moderno no Brasil. A obra de Lucio Costa 1924-52. Dissertação (Mestrado em Arquitetura e Urbanismo) – FFLCH Universidade de São Paulo, 1987.
 - MIRANDA, Clara Luiza. A crítica nas revistas de arquitetura nos anos 50: a expressão plástica e a síntese das artes. Dissertação (Mestrado em Arquitetura e Urbanismo) – Departamento de Arquitetura e Urbanismo, Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos (SP), 1998.
-- OLLERTZ, Aline. Morte e vida de uma revista de arquitetura. Resenhas Online, São Paulo, ano 06, n. 071.01, Vitruvius, nov. 2007 http://www.vitruvius.com.br/revistas/read/resenhasonline/06.071/3100 Acesso em: 12 mar. 2020.
+- OLLERTZ, Aline. Morte e vida de uma revista de arquitetura. Resenhas Online, São Paulo, ano 06, n. 071.01, Vitruvius, nov. 2007 &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/06.071/3100">http://www.vitruvius.com.br/revistas/read/resenhasonline/06.071/3100</a>&gt; Acesso em: 12 mar. 2020.
 - PISANI, Daniele. Paulo Mendes da Rocha. Obra completa. Barcelona: Gustavo Gilli, 2013.
 - SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo: Edusp, 1998.
 - SERAPIÃO, Fernando Castelo. Arquitetura revista: a Acrópole e os prédios de apartamentos em São Paulo. 1938-1971. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade Presbiteriana Mackenzie, São Paulo, 2005.
-- SERAPIÃO, Fernando Castelo. Uma saga fotográfico-arquitetônica. Revista Projeto. 2007. In. https://revistaprojeto.com.br/acervo/artigo-uma-saga-fotografico-arquitetonica-01-01-2007/ Acesso em: 27 out. 2020.
+- SERAPIÃO, Fernando Castelo. Uma saga fotográfico-arquitetônica. Revista Projeto. 2007. In. &lt;<a href="https://revistaprojeto.com.br/acervo/artigo-uma-saga-fotografico-arquitetonica-01-01-2007/">https://revistaprojeto.com.br/acervo/artigo-uma-saga-fotografico-arquitetonica-01-01-2007/</a>&gt; Acesso em: 27 out. 2020.
 - SONTAG, Susan. Sobre Fotografia. São Paulo: Companhia das Letras, 2020.
 - UNDERWOOD, David. Oscar Niemeyer e o modernismo de formas livre no Brasil. São Paulo: Cosac Naify, 2010.
 - WISNIK, Guilherme (org). Paulo Mendes da Rocha (1957-1999). São Paulo: Cosac Naify, 2006.

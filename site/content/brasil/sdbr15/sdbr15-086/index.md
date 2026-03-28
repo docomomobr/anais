@@ -83,4 +83,4 @@ palavras-chave:
 - ROWE, Collin. Five Architects. Nova York: MoMA, 1972, p. 5.
 - TORRENT, Horacio. Cristal opaco: la arquitectura latinoamericana como categoria historiografica, em Sudamérica Moderna: objetos, edificios, territories, Hugo Mondragón L, Catalina Mejía M (Orgs.). Santiago de Chile: Ediciones Arq, 2015.
 - WIGLEY, Mark. The translation of Architecture, the Production of Babel. Assemblage, Boston, no. 8, fevereiro 1989. www.theguardian.com/education/2011/jan/11/learning-english-india-dalits-rahman. Acessado em: 17 de agosto de 2023.
-- ZEIN, R. V. O vazio significativo do cânon. V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: &lt;http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt&gt;. Acesso em: 17 Ago. 2023
+- ZEIN, R. V. O vazio significativo do cânon. V!RUS, São Carlos, n. 20, 2020. [online]. Disponível em: &lt;<a href="http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt">http://www.nomads.usp.br/virus/virus20/?sec=4&item=1&lang=pt</a>&gt; Acesso em: 17 Ago. 2023

@@ -58,7 +58,7 @@ palavras-chave:
 - BEGUIN, François. As Máquinas Inglesas do Conforto. Espaço e Debates. São Paulo, n. 34: 39-51, 1991.
 - BENEVOLO, Leonardo. História da Cidade. São Paulo: Ed. Perspectiva, 2009.
 - BRESCIANI, Maria Stella M. Metrópolis: as faces do monstro urbano (as cidades do século XIX). Revista Brasileira de História, São Paulo, v.7, n. 14:199-229, mar/ago 1987. p. 199-129.
-- BRANDÃO, Marcos Antônio. Uma contribuição do debate sobre a formação do empresariado     industrial no Brasil: de lavoratori na Itália a padrone em Ribeirão Preto (1890-1930). 2009. 295p. Tese (doutorado), Faculdade de História, Direito e Serviço Social, Universidade do Estadual Paulista “Júlio de Mesquita Filho” (UNESP). Franca, 2009.
+- BRANDÃO, Marcos Antônio. Uma contribuição do debate sobre a formação do empresariado industrial no Brasil: de lavoratori na Itália a padrone em Ribeirão Preto (1890-1930). 2009. 295p. Tese (doutorado), Faculdade de História, Direito e Serviço Social, Universidade do Estadual Paulista “Júlio de Mesquita Filho” (UNESP). Franca, 2009.
 - BRANDÃO, Marcos Antônio. De trabalhadores na Itália a industriais em Ribeirão Preto –1890-1930. Anais do XVIII Encontro Regional de História–O historiador e seu tempo. ANPUH/SP – UNESP/Assis, 24 a 28 de julho de 2006. Cd-rom.
 - CALDEIRA, Henrique. Economia Cafeeira: Ribeirão Preto a capital do café: estudos sobre os imóveis e negociantes durante a expansão cafeeira no final do século XIX. São Paulo: Edição Independente, 2004.
 - CIONE, Rubem. História de Ribeirão Preto. Ribeirão Preto: Légis Summa, 1996.
@@ -97,6 +97,6 @@ palavras-chave:
 - VALADÃO, Valéria. Imigração e introdução de novos hábitos habitacionais em Ribeirão Preto. In Estudos de História. Revista do Curso de Pós-Graduação em História. Nº 1. Franca: São Paulo, 1994.
 - VAZ, Lilian Fessler. Uma história da habitação coletiva na cidade do Rio de Janeiro – estudo da modernidade através da moradia. Tese (doutorado), Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, Universidade de São Paulo, São Paulo, 1994.
 - VAZ, Lilian Fessler. Modernidade e Moradia: habitação coletiva no Rio de Janeiro séculos XIX e XX. Rio de Janeiro: 7Letras, 2002.
-- VAZ, Lilian Fessler. Dos cortiços às favelas e aos edifícios de apartamentos — a modernização da moradia no Rio de Janeiro. In: Análise Social, Rio de Janeiro, vol. xxix (127), 1994, p. 582-583. Disponível em: http://analisesocial.ics.ul.pt/documentos/1223377187I6iYL2uw3Xe43QN7.pdf. Acessado em: 22/03/2012.
+- VAZ, Lilian Fessler. Dos cortiços às favelas e aos edifícios de apartamentos — a modernização da moradia no Rio de Janeiro. In: Análise Social, Rio de Janeiro, vol. xxix (127), 1994, p. 582-583. Disponível em: &lt;<a href="http://analisesocial.ics.ul.pt/documentos/1223377187I6iYL2uw3Xe43QN7.pdf">http://analisesocial.ics.ul.pt/documentos/1223377187I6iYL2uw3Xe43QN7.pdf</a>&gt; Acessado em: 22/03/2012.
 - VERÍSSIMO, Francisco Salvador; BITTAR, William Seba Mallmann. 500 Anos da Casa no Brasil. Rio de Janeiro: Ediouro, 2ª edição, 1999.
 - WALKER, T. W., BARBOSA, A. S. de. Dos coronéis à metrópole: fios e tramas da sociedade e da política em Ribeirão Preto no século XX. Ribeirão Preto: Palavra Mágica, 2000.

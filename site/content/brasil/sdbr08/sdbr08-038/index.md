@@ -58,10 +58,10 @@ palavras-chave:
 - ADRIÃO NETO. Geografia e História do Piauí para estudantes: da pré-história a atualidade. Teresina, 2002.
 - CARNEIRO, A. R. S.; SILVA, A. F.; MAFRA, F. Restaurando o jardim moderno de Burle Marx: a Praça Farias Neves no Recife – PE. Universidade Federal de Pernambuco, 2007.
 - DIAS, R. A verticalização em Teresina. Cadernos de Teresina, Teresina, ano 15, n. 35, mar. 2003.
-- Estimativas das Populações Residentes, em 1º de Julho de 2008, Segundo os Municípios. Disponível em: &lt;http://www.ibge.gov.br/home/estatistica/populacao/estimativa2008/POP2008_DOU.pdf&gt;. Aceso em: 26 mai. 2009.
+- Estimativas das Populações Residentes, em 1º de Julho de 2008, Segundo os Municípios. Disponível em: &lt;<a href="http://www.ibge.gov.br/home/estatistica/populacao/estimativa2008/POP2008_DOU.pdf">http://www.ibge.gov.br/home/estatistica/populacao/estimativa2008/POP2008_DOU.pdf</a>&gt; Aceso em: 26 mai. 2009.
 - MOTTA, F. L. Roberto Burle Marx e a nova visão da paisagem. 3. ed. São Paulo: Nobel, 1986.
-- NICOLL, M.; LEMLE, M. Estudo alerta para abandono de jardins de Burle Marx. Disponível em: &lt;http://www.faperj.br/boletim_interna.phtml?ob_id=2067&gt;. Aceso em: 18 mai. 2009.
+- NICOLL, M.; LEMLE, M. Estudo alerta para abandono de jardins de Burle Marx. Disponível em: &lt;<a href="http://www.faperj.br/boletim_interna.phtml?ob_id=2067">http://www.faperj.br/boletim_interna.phtml?ob_id=2067</a>&gt; Aceso em: 18 mai. 2009.
 - SIQUEIRA, V. B. Burle Marx. 2. ed. São Paulo: Cosacnaify espaços a arte brasileira, 2004.
-- TEIXEIRA, M. S. A preservação do verde na zona urbana de Teresina-Pi. Disponível em: &lt;http://www.ufpi.br/mestambiente/visualizar.php?pg=2004&pgid=9&parte=exibir_submenu&gt;. Aceso em: 26 mai. 2009.
-- TERESINA. Disponível em: &lt;http://www.culturadopiauí.vilabol.uol.com.br/teresina.htm&gt;. Aceso em: 19 mai. 2009.
+- TEIXEIRA, M. S. A preservação do verde na zona urbana de Teresina-Pi. Disponível em: &lt;<a href="http://www.ufpi.br/mestambiente/visualizar.php?pg=2004&pgid=9&parte=exibir_submenu">http://www.ufpi.br/mestambiente/visualizar.php?pg=2004&pgid=9&parte=exibir_submenu</a>&gt; Aceso em: 26 mai. 2009.
+- TERESINA. Disponível em: &lt;<a href="http://www.culturadopiauí.vilabol.uol.com.br/teresina.htm">http://www.culturadopiauí.vilabol.uol.com.br/teresina.htm</a>&gt; Aceso em: 19 mai. 2009.
 - VIANA, B. A. S. O sentido da cidade: entre a evolução urbana e o processo de verticalização. V. 23, n. 1, 2005.

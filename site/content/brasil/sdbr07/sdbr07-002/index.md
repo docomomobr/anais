@@ -54,13 +54,13 @@ palavras-chave:
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Editora Brasiliense, 1981. p.145- 146.
 - CASTRO, Eliana F; SCHIMMELPFENG, Walter S. Edifício Caramuru – análise de uma edificação na Cidade Baixa. Monografia apresentada à disciplina História II – profa. Ana Beatriz Galvão. Arquivo: Inventário DOCOMOMO-Brasil/Arquivo PPGAU-UFBA.
 - CAVALCANTI, Lauro. Quando o Brasil era moderno. Guia de arquitetura 1928-1960. Rio de Janeiro: Aeroplano Editora, 2001. 314-317.
-- CARVALHO, Tatiany. Obra do AC Hotels também começa este ano, num investimento de R$25,7 milhões. Salvador: Correio da Bahia, 16/08/2007. Disponível em: &lt;http://www.skyscrapercity.com/showthread.php?referrerid=39159&t=499275&gt;
-- Comércio vai ganhar apart hotel residencial de luxo. Salvador: Jornal da Mídia, 06/08/2007. Disponível em: &lt;http://www.jornaldamidia.com.br/noticias/2007/08/06/Bahia/Comercio_vai_ganhar_apart_hotel_r.s &gt; Acesso em 12/08/2007
+- CARVALHO, Tatiany. Obra do AC Hotels também começa este ano, num investimento de R$25,7 milhões. Salvador: Correio da Bahia, 16/08/2007. Disponível em: &lt;<a href="http://www.skyscrapercity.com/showthread.php?referrerid=39159&t=499275">http://www.skyscrapercity.com/showthread.php?referrerid=39159&t=499275</a>&gt;
+- Comércio vai ganhar apart hotel residencial de luxo. Salvador: Jornal da Mídia, 06/08/2007. Disponível em: &lt;<a href="http://www.jornaldamidia.com.br/noticias/2007/08/06/Bahia/Comercio_vai_ganhar_apart_hotel_r.s">http://www.jornaldamidia.com.br/noticias/2007/08/06/Bahia/Comercio_vai_ganhar_apart_hotel_r.s</a>&gt; &gt; Acesso em 12/08/2007
 - Edifice Caramuru a Bahia. L’Architecture d’Aujourd’hui, Paris, n. 42-43, p. 24-26. 1952
-- Empreendimento na Avenida Contorno tem investimentos de 35,6 milhões de reais. Salvador: 06/08/2007. Disponível: &lt;http://www.maxpressnet.com.br/noticia.asp?TIPO=PA&SQINF=277684&gt; Acesso 12/08/2007
+- Empreendimento na Avenida Contorno tem investimentos de 35,6 milhões de reais. Salvador: 06/08/2007. Disponível: &lt;<a href="http://www.maxpressnet.com.br/noticia.asp?TIPO=PA&SQINF=277684">http://www.maxpressnet.com.br/noticia.asp?TIPO=PA&SQINF=277684</a>&gt; Acesso 12/08/2007
 - MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano Editora/IPHAN. 2000. 234-235.
 - SEGRE, Roberto. A perda de um ícone carioca. A demolição de edifício de Paulo Antunes Ribeiro no Rio de Janeiro. São Paulo: Vitruvius 2004. Disponível em: &lt;www.vitruvius.com.br/arquitextos/arq000/esp238asp&gt; Acesso em 15/04/2007
-- &lt;http://www.sidneyquintela.com.br/home.html&gt;
-- PIRES, Maria Helena. Rede portuguesa vai construir hotel no Comércio. Disponível em: &lt;http://www.bnb.gov.br/content/aplicacao/investir_no_nordeste/principal/docs/mailclipping_35.pdf&gt; Acesso em 15/04/2007
+-  &lt;<a href="http://www.sidneyquintela.com.br/home.html">http://www.sidneyquintela.com.br/home.html</a>&gt;
+- PIRES, Maria Helena. Rede portuguesa vai construir hotel no Comércio. Disponível em: &lt;<a href="http://www.bnb.gov.br/content/aplicacao/investir_no_nordeste/principal/docs/mailclipping_35.pdf">http://www.bnb.gov.br/content/aplicacao/investir_no_nordeste/principal/docs/mailclipping_35.pdf</a>&gt; Acesso em 15/04/2007
 - ROSSETTI, Eduardo P. Inventário da arquitetura moderna em Salvador. Arquivo: Inventário DOCOMOMO-Brasil/Arquivo PPGAU-UFBA. 2001
-- &lt;http://www.portotrapiche.com.br&gt; Acesso em 12/08/2007 &lt;www.revitalizarcomercio.com&gt; Acesso em 15/04/2007
+-  &lt;<a href="http://www.portotrapiche.com.br">http://www.portotrapiche.com.br</a>&gt; Acesso em 12/08/2007 &lt;www.revitalizarcomercio.com&gt; Acesso em 15/04/2007

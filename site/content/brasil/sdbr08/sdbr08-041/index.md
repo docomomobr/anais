@@ -55,7 +55,7 @@ palavras-chave:
 - ACERVO Carioca CHRISTIANI & NIELSEN
 - OSTENFELD, Chr. (org). Jernbetoneris danske pioneers (’Danis pioneers renforced concrete’).
 - Copenhagen, Christiani & Nielsen, 1976. Revista CN Post Christiani & Nielsen engenheiros e construtores S.A. 60 anos de engenharia – construção civil e montagem industrial – 1922-1982. Christiani & Nielsen engenheiros e construtores S.A. 50 anos no Brasil.
-- AZEVEDO, Paulo Ormindo de. “Alexander S. Buddeüs: a passagem do cometa pela Bahia”. Arquitextos 081, texto 081_1, janeiro 2007. site: http://www.vitruvius.com.br/arquitextos/arq081/arq081_01 (acessado em 11 mar. 2007).
+- AZEVEDO, Paulo Ormindo de. “Alexander S. Buddeüs: a passagem do cometa pela Bahia”. Arquitextos 081, texto 081_1, janeiro 2007. site: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq081/arq081_01">http://www.vitruvius.com.br/arquitextos/arq081/arq081_01</a>&gt; (acessado em 11 mar. 2007).
 - CONDE, Luiz Paulo; NOGUEIRA, Mauro; ALMADA, Mauro & SOUZA, Eleonora F. “Anônimo, mas fascinante: Protomodernismo em Copacabana”. São Paulo, Arquitetura e Urbanismo, n. 16, fev. / mar. 1988, p. 68-75.
 - COSTA, Lúcio. “Razões da Nova Arquitetura”. Rio de Janeiro, Revista de Engenharia da Diretoria da PDF, vol. III, n. 1, jan. 1936. In: XAVIER, Alberto (org). Lúcio Costa: sobre arquitetura. (1º. Reimpressão em fac símile). Porto Alegre: UniRitter Ed., p.17-41, 2007.
 - COSTA, Lúcio. “Muita Construção, Alguma Arquitetura e um Milagre”. Rio de Janeiro, Correio da Manhã, 15 jun. 1951 In: XAVIER, Alberto (org). Depoimentos de uma Geração – arquitetura moderna brasileira (edição revista e ampliada). São Paulo: Cosac Naify, p.78-97, 2003.

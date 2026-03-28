@@ -58,9 +58,9 @@ palavras-chave:
 
 ## Referências
 
-- BARIANI, Márcio. Marcello Fragelli: arquitetura entre Rio de Janeiro e São Paulo (1). In: Portal Vitruvius, 057-03, Fev 2005. Acesso em 12 Dez 2010, Disponível em http://webcache.googleusercontent.com/search?q=cache:XHc9KoYDAbUJ:www.vitruvius.com.br/revistas/read/arquitextos/05.057/499+lucio+costa+projecta+capitais+nas+cidades+africanas&cd=30&hl=pt-PT&ct=clnk&gl=pt.
+- BARIANI, Márcio. Marcello Fragelli: arquitetura entre Rio de Janeiro e São Paulo (1). In: Portal Vitruvius, 057-03, Fev 2005. Acesso em 12 Dez 2010, Disponível em &lt;<a href="http://webcache.googleusercontent.com/search?q=cache:XHc9KoYDAbUJ:www.vitruvius.com.br/revistas/read/arquitextos/05.057/499+lucio+costa+projecta+capitais+nas+cidades+africanas&cd=30&hl=pt-PT&ct=clnk&gl=pt">http://webcache.googleusercontent.com/search?q=cache:XHc9KoYDAbUJ:www.vitruvius.com.br/revistas/read/arquitextos/05.057/499+lucio+costa+projecta+capitais+nas+cidades+africanas&cd=30&hl=pt-PT&ct=clnk&gl=pt</a>&gt;
 - BORGATTI, S., EVERETT, M. & FREEMAN, L. C. UCINET 5.0 Version 1.00, Natick, Analytic Technologies, 1999.
-- CAMARGO, Mônica. ‘Histórias e Memórias de um arquiteto. A breve trajetória de Carlos Barjas Millan’ in Seminário Docomomo Brasil, data. Acesso em 24 Agosto 2010. Disponível  em http://www.docomomo.org.br/seminario%206%20pdfs/Monica%20Junqueira%20de%20Camargo.pdf.
+- CAMARGO, Mônica. ‘Histórias e Memórias de um arquiteto. A breve trajetória de Carlos Barjas Millan’ in Seminário Docomomo Brasil, data. Acesso em 24 Agosto 2010. Disponível em &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Monica%20Junqueira%20de%20Camargo.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Monica%20Junqueira%20de%20Camargo.pdf</a>&gt;
 - CERÁVOLO, Ana Lúcia. Paulo de Camargo e Almeida: arquitetura total na trajetória de um arquiteto brasileiro. São Carlos, EESC-USP, 2000.
 - FERRAZ, Marcelo (Coord.) Affonso Eduardo Reidy. Editorial Blau, Instituto Lina Bo e P.M. Bardi, Lisboa, 2000.
 - LEVI, Rino. Rino Levi, Arquitetura e Cidade. Abílio Guerra (Coord.) Romano Guerra Editora, São Paulo, 2001.
@@ -71,4 +71,4 @@ palavras-chave:
 - SALVADORE, Waldir. São Paulo em preto & branco: cinema e sociedade nos anos 50 e 60. Annablume, São Paulo, 2005.
 - VARANDA, Marta Pedro. ‘Acção colectiva entre pequenos empresários: uma análise de redes sociais’. In Análise Social, vol. XLII (182), 2007, pp. 207-230.
 - WASSERMAN, S., & FAUST, K. Social Network Analysis: Methods and Applications, Cambridge, Cambridge University Press, 1994.
-- WILMAN, Boruch. Boruch Wilman: vice com orgulho. O engenheiro que quase construiu Brasília. Aventura na História. Acesso em 20 Dez 2010. Disponível em http://historia.abril.com.br/gente/boruch-milman-vice-orgulho-435784.shtml.
+- WILMAN, Boruch. Boruch Wilman: vice com orgulho. O engenheiro que quase construiu Brasília. Aventura na História. Acesso em 20 Dez 2010. Disponível em &lt;<a href="http://historia.abril.com.br/gente/boruch-milman-vice-orgulho-435784.shtml">http://historia.abril.com.br/gente/boruch-milman-vice-orgulho-435784.shtml</a>&gt;

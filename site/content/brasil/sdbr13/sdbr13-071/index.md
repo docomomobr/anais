@@ -59,19 +59,19 @@ autores:
 - BORONAT, Y.; BALDOIRA, C. ​El edificio de apartamentos en altura. Su producción en las décadas del 50 y 60​. Montevideo: Ediciones Universitarias, Comisión Sectorial de Investigación Científica, Universidad de la República. 2008.
 - EISENMAN, P. ​Diez Edificios Canónicos 1950-2000​. Barcelona: Ed. Gustavo Gili, 2011.
 - FOQUÉ, R. ​Building Knowledge in Architecture​. Antwerp: University Press Antwerp, 2010.
-- FRONTINI, P. ​Arquitectura moderna y calidad urbana. La obra de Raúl Sichero en torno al edificio Ciudadela (1958-1962). Tesis de doctorado, Universidad Politécnica de Catalunya. Disponible en http://hdl.handle.net/10803/134598&gt; Acceso Nov. 2014.
+- FRONTINI, P. ​Arquitectura moderna y calidad urbana. La obra de Raúl Sichero en torno al edificio Ciudadela (1958-1962). Tesis de doctorado, Universidad Politécnica de Catalunya. Disponible en &lt;<a href="http://hdl.handle.net/10803/134598">http://hdl.handle.net/10803/134598</a>&gt; Acceso Nov. 2014.
 - FRONTINI, P. ; LOPEZ DE HARO, D. Breve encuentro con Raúl Sichero Bouret (2001) In:
 - GAETA, J. ​Rafael Lorente Escudero​. Monografìas Elarqa, Montevideo: Ed. DosPuntos, 1993.
 - GAETA, J. ​Luis García Pardo​. Monografìas Elarqa, Montevideo: Ed. DosPuntos, 2000.
 - GAETA, J. ​Walter Pintos Risso​. Monografìas Elarqa, Montevideo: Ed. DosPuntos, 2000.
-- GAETA, J. ​Arquitetura e cidade : o caso da Rambla de Pocitos em Montevidéu​. Tesis de doctorado. Universidade Federal do Rio Grande do Sul. 2009. Disponible en &lt;http://hdl.handle.net/10183/17724&gt; Acceso Nov. 2014.
+- GAETA, J. ​Arquitetura e cidade : o caso da Rambla de Pocitos em Montevidéu​. Tesis de doctorado. Universidade Federal do Rio Grande do Sul. 2009. Disponible en &lt;<a href="http://hdl.handle.net/10183/17724">http://hdl.handle.net/10183/17724</a>&gt; Acceso Nov. 2014.
 - GAETA, J. ; FOLLE, E. ​Guía Pocitos, Punta Carretas​. Montevideo: Ed. DosPuntos, 1997.
 - GAGETTI, L. F. ​Caraterização de tipologias arquitetônicas de edifícios residenciais no Bairro de Higienópolis​. São Paulo: Dissertação de Mestrado, Curso de Posgraduação em Arquitetura e Urbanismo, Mackenzie, 2000.
 - HITCHCOCK, H.-R. ​Latin American Architecture since 1945​. New York: Museum of Modern Art, 1955.
-- INSTITUTO DE HISTORIA DE LA ARQUITECTURA, ​Modernos​. Montevideo, Facultad de Arquitectura, Diseño y Urbanismo, Universidad de la República, 2015. Disponible en &lt;https://issuu.com/iha.fadu/docs/modernos-set-2015&gt; Acceso Nov. 2015.
-- KOOLHAAS, R. ​Fundamentals​. Curaduría Biennale di Venezia. Mostra Internazionale di Architettura. Consultado 11/2014 en &lt; http://www.labiennale.org/en/architecture/&gt;
+- INSTITUTO DE HISTORIA DE LA ARQUITECTURA, ​Modernos​. Montevideo, Facultad de Arquitectura, Diseño y Urbanismo, Universidad de la República, 2015. Disponible en &lt;<a href="https://issuu.com/iha.fadu/docs/modernos-set-2015">https://issuu.com/iha.fadu/docs/modernos-set-2015</a>&gt; Acceso Nov. 2015.
+- KOOLHAAS, R. ​Fundamentals​. Curaduría Biennale di Venezia. Mostra Internazionale di Architettura. Consultado 11/2014 en &lt;<a href="http://www.labiennale.org/en/architecture/">http://www.labiennale.org/en/architecture/</a>&gt;
 - MARQUES, S. M. ​Fayet, Araújo & Moojen: arquitetura moderna brasileira no sul - 1950/1970.
-- Tesis de doctorado, Universidade Federal do Rio Grande do Sul. 2012. Disponible en &lt;https://lume.ufrgs.br/handle/10183/65665&gt; Acceso Feb. 2018.
+- Tesis de doctorado, Universidade Federal do Rio Grande do Sul. 2012. Disponible en &lt;<a href="https://lume.ufrgs.br/handle/10183/65665">https://lume.ufrgs.br/handle/10183/65665</a>&gt; Acceso Feb. 2018.
 - MEDEROS, S. ​Luis García Pardo​. Montevideo: Instituto de Historia de la Arquitectura, Facultad de Arquitecutra, Universidad de la República, 2012.
 - PIÑÓN, H. ​Raúl Sichero​. Barcelona: Ed. Universidad Politécnica de Catalunya, 2002.
 - MEDEROS, S. ​Teoría del Proyecto​. Barcelona: Ed. Universidad Politécnica de Catalunya, 2006.

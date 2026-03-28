@@ -43,7 +43,7 @@ authors:
     familyname: "Fagundes"
     orcid: "0009-0009-1190-9424"
 doi: "10.5281/zenodo.19077700"
-zenodo_pdf_url: "https://zenodo.org/records/19077701/files/sdbr13-124.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285648/files/sdbr13-124.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -68,7 +68,7 @@ palavras-chave:
 - DA SILVA, Vivian Ignes Albertoni. Guilhermino Cesar e Sistema do Imperfeito & outros poemas: sujeito e linguagem poética em tempos de caos e massificação. Porto Alegre. UFRGS, 2005.
 - DIOGO, Érica. Recuperação de Imóveis Privados em Centros Históricos – Brasília, DF : Iphan / Programa Monumenta, 2009.
 - HORTA, Maria de Lourdes Parreiras; GRUNBERG, Evelina; MONTEIRO, Adriane. Guia básico de Educação Patrimonial. Brasília: IPHAN, Museu Imperial, 1999.
-- JATOBÁ, Sérgio Ulisses. Grande Hotel Ouro Preto: Um divisor de águas. Vitruvius, 2015. Disponível em: &lt;http://vitruvius.com.br/revistas/read/arquiteturismo/09.100/5633&gt;. Acesso em: 10 Abril 2019.
+- JATOBÁ, Sérgio Ulisses. Grande Hotel Ouro Preto: Um divisor de águas. Vitruvius, 2015. Disponível em: &lt;<a href="http://vitruvius.com.br/revistas/read/arquiteturismo/09.100/5633">http://vitruvius.com.br/revistas/read/arquiteturismo/09.100/5633</a>&gt; Acesso em: 10 Abril 2019.
 - LUCCAS, Luís Henrique Hass; Arquitetura Moderna em Porto Alegre: Uma história recente. Arqtexto. Porto Alegre. N.0 (2000), p.22-30.
 - MEIRA, Ana Lúcia. O Passado no Futuro da Cidade – Políticas Públicas e Participação Popular na Preservação do Patrimônio Cultural de Porto Alegre, Porto Alegre: UFRGS, 2004.
 - SOARES, A.L.R. (Org.). Educação patrimonial: relatos e experiências. Santa Maria: Ed. UFSM, 2003.

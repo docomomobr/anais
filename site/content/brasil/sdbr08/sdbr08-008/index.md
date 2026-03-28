@@ -104,5 +104,5 @@ palavras-chave:
 - SCALDAFERRI, Sante. Os Primórdios da Arte Moderna na Bahia: depoimentos, textos e considerações em torno de José Tertuliano Guimarães e outros artistas. Salvador: Fundação Casa de Jorge Amado; Museu de Arte Moderna da Bahia, 1997.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 2002.
 - SILVA, José Cláudio da. As artes de Carybé. In: FURRER, Bruno (Org.). Carybé. Salvador: Odebrecht, 1989, pp. 140-166.
-- TRINDADE, Simone. Genaro de Carvalho: o artista tapeceiro. Revista Ohun, Salvador, ano 1, nº 1, 2004. Disponível em: http://www.revistaohun.ufba.br/html/genaro_de_carvalho.html.
+- TRINDADE, Simone. Genaro de Carvalho: o artista tapeceiro. Revista Ohun, Salvador, ano 1, nº 1, 2004. Disponível em: &lt;<a href="http://www.revistaohun.ufba.br/html/genaro_de_carvalho.html">http://www.revistaohun.ufba.br/html/genaro_de_carvalho.html</a>&gt;
 - VALLADARES, José. Belas Artes na Bahia de hoje. In: PREFEITURA MUNICIPAL DA CIDADE DO SALVADOR. Cidade do Salvador. São Paulo: Habitat, 1954.

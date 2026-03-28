@@ -84,10 +84,10 @@ palavras-chave:
 - LEENHARDT, J. (org.). Nos jardins de Burle Marx. São Paulo: Perspectva, 1996.
 - MATTELARD, A; NEUVE, É. Introdução aos estudos culturais. São Paulo: Parábola, 2004.
 - NÉRET, Gilles. Henri Matisse: cut-outs. Köln: Benedikt Taschen, 1994.
-- OLIVEIRA, A. Roberto Burle Marx. Vitruvius, São Paulo, n. 2, abr. 2001. Disponível em https://vitruvius.com.br/revistas/read/entrevista/02.006/3346?page=2. Acesso em: 21 jan. 2023.
+- OLIVEIRA, A. Roberto Burle Marx. Vitruvius, São Paulo, n. 2, abr. 2001. Disponível em &lt;<a href="https://vitruvius.com.br/revistas/read/entrevista/02.006/3346?page=2">https://vitruvius.com.br/revistas/read/entrevista/02.006/3346?page=2</a>&gt; Acesso em: 21 jan. 2023.
 - PORTINARI, João Cândido. Projeto Portinari. Disponível em portinari.org.br. Acesso em: 22 jan. 2023.
 - PUPPI, Lionello. A arquitetura de Oscar Niemeyer. Rio de Janeiro: Revan, 1988.
-- ROWELL, Margit. The planar dimension: 1912-1932. from surface to space. New York: Guggenhein Museum, 1979. Disponível em: https://ia800800.us.archive.org/15/items/plana00rowe/plana00rowe.pdf. Acesso em: 21 jan. 2023.
+- ROWELL, Margit. The planar dimension: 1912-1932. from surface to space. New York: Guggenhein Museum, 1979. Disponível em: &lt;<a href="https://ia800800.us.archive.org/15/items/plana00rowe/plana00rowe.pdf">https://ia800800.us.archive.org/15/items/plana00rowe/plana00rowe.pdf</a>&gt; Acesso em: 21 jan. 2023.
 - STANGOS, Nikos (org.). Conceitos da arte moderna. Rio de Janeiro: Jorge Zahar, 2000.
 - TELLES, Sophia. Oscar Niemeyer. técnica e forma. Óculum, Campinas, n. 2, p. x-y, 1992.
 - UNDERWOOD, David. Oscar Niemeyer e o modernismo de formas livres no Brasil. São Paulo: Cosac & Naif, 2010.

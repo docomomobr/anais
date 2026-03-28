@@ -26,7 +26,7 @@ authors:
     familyname: "Lara"
     orcid: "0000-0001-7743-6441"
 doi: "10.5281/zenodo.19110678"
-zenodo_pdf_url: "https://zenodo.org/records/19110679/files/sdbr05-058.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285511/files/sdbr05-058.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Anais do 5º Seminário Docomomo Brasil [arquivo de computador] / comissão organizadora: Hugo Segawa... [et al.]. São Carlos: SAP-EESC-USP, 2003. 1 CD-ROM. \"Arquitetura e Urbanismo modernos: projeto e preservação\". ISBN 85-85205-43-1"
 autores:
@@ -61,7 +61,7 @@ autores:
 - LARA, Fernando. “Designed Memories; the roots of Brazilian modernism”, in Proceedings of the ACSA Conference on Memory and Modernity, Saint Louis, MO: Washignton University, 1998, pp. 117-125.
 - LARA, Fernando. “Espelho de Fora: arquitetura brasileira vista do exterior”, Arquitextos, www.arquitextos.com.br, 2000.
 - LARA, Fernando. Popular Modernism, an analysis of the acceptance of modern architecture in 1950’s Brazil, Ph.D. dissertation, Ann Arbor: The University of Michigan, 2001.
-- LARA, Fernando. “Arquitetura brasileira sob o olhar estrangeiro”, resenha do livro de Nelci Tinem (2002), publicada em Vitruvius, http://www.vitruvius.com.br/resenhas/textos/resenha066.asp, 2003.
+- LARA, Fernando. “Arquitetura brasileira sob o olhar estrangeiro”, resenha do livro de Nelci Tinem (2002), publicada em Vitruvius, &lt;<a href="http://www.vitruvius.com.br/resenhas/textos/resenha066.asp">http://www.vitruvius.com.br/resenhas/textos/resenha066.asp</a>&gt; 2003.
 - NEWMAN, O., "Whose Failure Is Modern Architecture?" in B. Mikellides (ed.) Architecture for People. New York: Holt, Rinehart and Winston, 1980, pp. 45-58.
 - NOVAES, Fernando (org), Historia da Vida Privada no Brasil, vol 1, São Paulo: Cia das Letras, 1997.
 - OCKMAN, Joan. “Towards a Theory of Normative Architecture,” The Architecture of Everyday, New York: Princeton Architectural Press, 1996, pp.122-152.

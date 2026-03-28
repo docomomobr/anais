@@ -54,7 +54,7 @@ authors:
     familyname: "Segawa"
     orcid: "0000-0002-2532-4664"
 doi: "10.5281/zenodo.19069696"
-zenodo_pdf_url: "https://zenodo.org/records/19069697/files/sdbr15-043.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285711/files/sdbr15-043.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -71,7 +71,7 @@ palavras-chave:
 - BAALBAKI, Angela Aiche Kittlaus. Usina Hidrelétrica de Itaipu. Anais do III Congresso Internacional Online de Estudos sobre Cultura, Foz do Iguaçu: Centro Latino-Americano de Estudos em Cultura, v. 3.1, 2021.
 - BRASIL. Tratado de Itaipu. Brasília: Governo do Brasil, 1973.
 - ITAIPU Binacional. Análise das diversas unidades de residências a serem implantadas na área do Centro Executivo da Itaipu Binacional – margem esquerda. Foz do Iguaçu: ITAIPU, s.d.
-- ITAIPU Binacional. Perguntas frequentes. Foz do Iguaçu: Itaipu, 2023. Disponível em: &lt; https://www.itaipu.gov.br/sala-de-imprensa/perguntas-frequentes&gt;. Acesso em: 11 mai. 2023.
+- ITAIPU Binacional. Perguntas frequentes. Foz do Iguaçu: Itaipu, 2023. Disponível em: &lt;<a href="https://www.itaipu.gov.br/sala-de-imprensa/perguntas-frequentes">https://www.itaipu.gov.br/sala-de-imprensa/perguntas-frequentes</a>&gt; Acesso em: 11 mai. 2023.
 - IPEA. Usina Hidrelétrica de Itaipu. Desafios do desenvolvimento. Brasília: Ipea, v. 60, n. abril/maio, p. 82-83, 2010.
 - MAGGI, Leonardo Bauer. Itaipu e a formação do território do capital. Revista NERA. São Paulo: Unesp, v. 1, n. 27, 2015.
 - MEISTER, Rubens. Instruções para os trabalhos práticos da disciplina. Curitiba: UFPR, 1971.

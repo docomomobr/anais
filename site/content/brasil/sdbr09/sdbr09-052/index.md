@@ -59,7 +59,7 @@ palavras-chave:
 - GONZÁLES, Antoni; LACUESTA, Raquel. Barcelona. Guia de Arquitectura. Barcelona: Editorial Gustavo Gili, SA, 2000. 208pp.
 - GRINSPUM, Denise. Museu Lasar Segall. Material Didático 2005. São Paulo: IPHAN, 2005.
 - RICOEUR, Paul. Tiempo y narración. Vol 1. México: Siglo Veintiuno Editores, S.A., 1995. 371pp.
-- SEGALL, Mauricio. Museu Lasar Segall. http://www1.uol.com.br/museulasarsegall/ acessado em fev 2008
+- SEGALL, Mauricio. Museu Lasar Segall. &lt;<a href="http://www1.uol.com.br/museulasarsegall/">http://www1.uol.com.br/museulasarsegall/</a>&gt; acessado em fev 2008
 - SEGALL, Mauricio. 30 anos à frente do Museu Lasar Segall. Textos de Mauricio Segall. São Paulo: Museu Lasar Segall, 2001. 288pp.
 - SEGAWA, Hugo. Arquiteturas no Brasil. 1900-1990. 3ª. Ed. São Paulo: Editora da universidade de São Paulo, 1999. 224pp.
 - MUNTAÑOLA, Josep. Topogénsis. Fundamentos de uma nueva arquitectura. Barcelona: Edicions UPC, 2000. 176pp.

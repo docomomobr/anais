@@ -63,7 +63,7 @@ palavras-chave:
 - DE JONGE, Wessel. Zonnestraal Sanatorium, Hilversum. In Allen Cunningham, ed. Modern Movement Heritage, ed. London: E&FN Spon, 1998, p.149-158.
 - DONZET, André-Jean. Notre-Dame du Raincy. In Monuments historiques, 140, 1985, p. 69-71.
 - GIANNECCHINI, A. C. Técnica e estética no concreto armado: um estudo sobre os edifícios do MASP e da FAUUSP. Dissertação (Mestrado em Arquitetura). Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo, 2009.
-- ICOMOS. 2011. Criterios de Conservación Del Patrimonio Arquitectónico Del Siglo XX. Documento de Madrid. Disponível em: http://www.icomos.org. Acesso em: 10 out. 2011.
+- ICOMOS. 2011. Criterios de Conservación Del Patrimonio Arquitectónico Del Siglo XX. Documento de Madrid. Disponível em: &lt;<a href="http://www.icomos.org">http://www.icomos.org</a>&gt; Acesso em: 10 out. 2011.
 - KUHL, Beatriz Mugayar; RIOTTO, Bianca; STRAUSS, Luiza; OKSMAN, Sílvio; ACAYABA, Marcos; GIBRIN, MARCOS. Edifícios da FAU como bens culturais: Fundamentação teórica para intervenções. Material complementar. Plano Diretor Participativo FAUUSP (2011-2018). São Paulo, 2011.
 - MACDONALD, Susan. 20th century Heritage: Recognition, Protection and Practical Challenges. In ICOMOS World Report 2002-2003 on monuments and sites in danger. Paris:
 - MOREIRA, Fernando Diniz; HOLANDA, Ana Carolina. Arte e estética dos materiais na obra de Vital Pessoa de Melo, 1968-1982. In: 2º SEMINÁRIO DOCOMOMO N-NE, Salvador, 2008.
@@ -73,8 +73,8 @@ palavras-chave:
 - PhD Engenharia. Relatório Técnico nº 136/2010. São Paulo, 2010.
 - Prefeitura da Cidade do Recife. Ficha IEP 02/354/, Edifício da Companhia Energética de Pernambuco – CELPE.
 - PRUDON, Theodore. Preservation of modern architecture. New York: John Wiley, 2008.
-- SALVO, Simona. Restauro e "restauros" das obras arquitetônicas do século 20: intervenções em arranha-céus em confronto. In: Revista CPC, nº 4, 2007. http://www.revistasusp.sibi.usp.br/pdf/cpc/n4/a08n4.pdf
+- SALVO, Simona. Restauro e "restauros" das obras arquitetônicas do século 20: intervenções em arranha-céus em confronto. In: Revista CPC, nº 4, 2007. &lt;<a href="http://www.revistasusp.sibi.usp.br/pdf/cpc/n4/a08n4.pdf">http://www.revistasusp.sibi.usp.br/pdf/cpc/n4/a08n4.pdf</a>&gt;
 - SILVA, Paula Maciel. Conservar: uma questão de decisão. O julgamento da conservação da Arquitetura Moderna. Tese de doutorado. Pós-graduação em Desenvolvimento Urbano. Universidade Federal de Pernambuco, Recife, 2012.
-- UNESCO. 2005. Operational Guidelines for the implementation of the World Heritage Convention. Paris: World Heritage Centre, 2005. Disponível em: &lt; http://whc.unesco.org/archive/opguide05-en.pdf&gt;. Acesso em: 02 dez. de 2010.
-- UNESCO. 2008. Operational Guidelines for the implementation of the World Heritage Convention. Paris: World Heritage Centre, 2008. Disponível em: &lt; http://whc.unesco.org/archive/opguide05-en.pdf&gt;. Acesso em: 02 dez. de 2010.
+- UNESCO. 2005. Operational Guidelines for the implementation of the World Heritage Convention. Paris: World Heritage Centre, 2005. Disponível em: &lt;<a href="http://whc.unesco.org/archive/opguide05-en.pdf">http://whc.unesco.org/archive/opguide05-en.pdf</a>&gt; Acesso em: 02 dez. de 2010.
+- UNESCO. 2008. Operational Guidelines for the implementation of the World Heritage Convention. Paris: World Heritage Centre, 2008. Disponível em: &lt;<a href="http://whc.unesco.org/archive/opguide05-en.pdf">http://whc.unesco.org/archive/opguide05-en.pdf</a>&gt; Acesso em: 02 dez. de 2010.
 - ZANCHETI, Sílvio. A Teoria Contemporânea da Conservação e a Arquitetura Moderna. Recife-PE: I Curso Latino Americano sobre a Conservação da Arquitetura Moderna (MARC/AL), 2009.

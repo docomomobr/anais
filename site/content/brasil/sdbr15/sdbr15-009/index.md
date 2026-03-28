@@ -57,7 +57,7 @@ authors:
   - givenname: "Lohanna Ferreira de"
     familyname: "Souza"
 doi: "10.5281/zenodo.19069554"
-zenodo_pdf_url: "https://zenodo.org/records/19069555/files/sdbr15-009.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285703/files/sdbr15-009.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -82,7 +82,7 @@ palavras-chave:
 - PALLASMAA, Juhani. Habitar. Barcelona: Gustavo Gili, 2017. 124 p. Tradução e revisão técnica de Alexandre Salvaterra
 - PEREIRA, Margareth. Pensar por nebulosas. In: JACQUES, Paola Berenstein; PEREIRA, Margareth da Silva (orgs.). Nebulosas do Pensamento Urbanístico: tomo I – modos de pensar. Salvador: EDUFBA, 2018, p.239-
 - 261. (ISBN: 978-85-232-1697-0).
-- TAVARES, Maria Goretti da Costa. PATRIMÔNIO E CIDADE: uma leitura geográfica da cidade de Belém do pará. Revista Geografar, [S.L.], v. 13, n. 1, p. 162, 21 jul. 2018. Universidade Federal do Paraná. http://dx.doi.org/10.5380/geografar.v13i1.60269.
+- TAVARES, Maria Goretti da Costa. PATRIMÔNIO E CIDADE: uma leitura geográfica da cidade de Belém do pará. Revista Geografar, [S.L.], v. 13, n. 1, p. 162, 21 jul. 2018. Universidade Federal do Paraná. &lt;<a href="http://dx.doi.org/10.5380/geografar.v13i1.60269">http://dx.doi.org/10.5380/geografar.v13i1.60269</a>&gt;
 - TAVARES, Jessica. Os tempos da arquitetura moderna. Permanência, obsolescência e preservação. Duas casas de Camillo Porto em Belém. Dissertação de Mestrado, UFPA/PPGAU, Belém, 2022.
 - WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. São Paulo: Perspectiva, 2013.
-- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;https://vitruvius.com.br/revistas/read/arquitextos/09.098/123&gt;.
+- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/09.098/123">https://vitruvius.com.br/revistas/read/arquitextos/09.098/123</a>&gt;

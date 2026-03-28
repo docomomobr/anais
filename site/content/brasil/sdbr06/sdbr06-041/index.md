@@ -32,7 +32,7 @@ authors:
     familyname: "Machado"
     orcid: "0000-0003-4434-2830"
 doi: "10.5281/zenodo.19072466"
-zenodo_pdf_url: "https://zenodo.org/records/19072467/files/sdbr06-041.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285513/files/sdbr06-041.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "6º Seminário Docomomo Brasil: anais: moderno e nacional, Arquitetura e Urbanismo [recurso eletrônico] / organização: José Pessôa, Eduardo Vasconcellos, Elisabete Reis, Maria Lobo. Niterói: Pós-Graduação em Arquitetura e Urbanismo, UFF, 2005. ISBN 85-99618-01-6"
 autores:

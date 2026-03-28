@@ -53,32 +53,32 @@ palavras-chave:
 
 ## Referências
 
-- ANDRADE Jr., N. et al., Arquitetura brutalista na Bahia: Levantamento e análise crítica. In: X Curitiba. Anais. Disponível em &lt;http://docomomo.org.br/wp-content/uploads/2016/08/OBR_80.pdf&gt; Acesso em: 05 mai. 2018.
+- ANDRADE Jr., N. et al., Arquitetura brutalista na Bahia: Levantamento e análise crítica. In: X Curitiba. Anais. Disponível em &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/08/OBR_80.pdf">http://docomomo.org.br/wp-content/uploads/2016/08/OBR_80.pdf</a>&gt; Acesso em: 05 mai. 2018.
 - ANDRADE, L. C.; PEREIRA, D. A. M.; ROZESTRATEN, A. S. Imagens fotográficas e desejos de cidades modernas: rodoviárias no Arquigrafia. In: Arquiteturas Imaginadas: Representação Gráfica Arquitetónica e “Outras Imagens” Desenho [...] Cidade [...] Moderna. Casal de Cambra: Caleidoscópio, 2016.
 - ANDRADE Jr., N.; SAMPAIO, G.; OTREMBA, G.; ALBAN, P. (orgs.), Diógenes Rebouças: cidade, arquitetura e patrimônio. Salvador: Edufba, 2016.
 - ARANTES, O. Urbanismo em fim de linha e outros estudos sobre o colapso da modernização arquitetônica. São Paulo: Edusp, 1998.
 - ARTIGAS, J. B. V. Caminhos da arquitetura. São Paulo: Cosac Naify, 2004.
 - ARTIGAS, R. (org.) Paulo Mendes da Rocha. São Paulo: Cosac Naify, 2000.
 - ARTIGAS, R. Vilanova Artigas. São Paulo: Terceiro Nome, 2015.
-- BARROS, M. Edifício da antiga rodoviária é demolido para virar centro cultural. Revista Veja São Paulo, São Paulo, 23 abr. 2010. Disponível em &lt; https://vejasp.abril.com.br/cidades/antiga-rodoviaria- centro-cultural/&gt;. Acesso em: 08 jun. 2018.
+- BARROS, M. Edifício da antiga rodoviária é demolido para virar centro cultural. Revista Veja São Paulo, São Paulo, 23 abr. 2010. Disponível em &lt;<a href="https://vejasp.abril.com.br/cidades/antiga-rodoviaria-">https://vejasp.abril.com.br/cidades/antiga-rodoviaria-</a>&gt; centro-cultural/&gt;. Acesso em: 08 jun. 2018.
 - BAROSSI, A. C.; TAKIYA, A. (orgs.), Zé Calazans croquis de uma vida croqui de uma vida: a cidade e a casa a casa e a cidade. São Paulo: FAUUSP, 2011.
 - BASTOS, M. A. J.; ZEIN, R. V. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.
 - BAUDELAIRE, C. Sobre a modernidade: o pintor da vida moderna. São Paulo: Paz e Terra, 1996.
 - BENJAMIN, W. A obra de arte na era de sua reprodutibilidade técnica. Porto Alegre: L&PM, 2017.
 - BRAGA, M. O concurso de Brasília: sete projetos para uma capital. São Paulo: Cosac Naify, 2010.
-- BRANDALISE, V. H. Demolição de rodoviária começa a mudar a Luz. O Estado de S. Paulo, São Paulo, 13 abr. 2010. Disponível em &lt;http://sao-paulo.estadao.com.br/noticias/geral,demolicao-de- rodoviaria-comeca-a-mudar-a-luz,537573&gt;. Acesso em: 22 jul. 2017.
+- BRANDALISE, V. H. Demolição de rodoviária começa a mudar a Luz. O Estado de S. Paulo, São Paulo, 13 abr. 2010. Disponível em &lt;<a href="http://sao-paulo.estadao.com.br/noticias/geral,demolicao-de-">http://sao-paulo.estadao.com.br/noticias/geral,demolicao-de-</a>&gt; rodoviaria-comeca-a-mudar-a-luz,537573&gt;. Acesso em: 22 jul. 2017.
 - BRUAND, Y. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 2002.
 - CORULLON, M. A plataforma rodoviária de Brasília: infraestrutura, arquitetura e urbanidade. Dissertação de Mestrado. São Paulo: FAUUSP, 2013
 - FREITAS, M.; SOUZA, E. G.; ROCHA, P. M.; ARAKAWA, N. Terminal Rodoviário de Cuiabá. Projeto. São Paulo, n.26, p.16-18, 1980.
 - FICHER, S; ACAYABA, M. Arquitetura moderna brasileira. São Paulo: Projeto, 1982.
 - FICHER, S.; SCHLEE, A. R.; FRANÇA, J. Brasília 50 anos: guia de obras de Oscar Niemeyer. Brasília: IAB, 2010.
-- FRACALOSSI, I. Clássicos da Arquitetura: Rodoviária de Fortaleza / Marrocos Aragão. Archdaily Brasil. São Paulo, mar. 2015. Disponível em: &lt;http://www.archdaily.com.br/br/763847/classicos-da- arquitetura-rodoviaria-de-fortaleza-marrocos-aragao&gt; Acesso em: 22 jul. 2017.
-- FRACALOSSI, I. Clássicos da Arquitetura: Rodoviária de Jaú / Vilanova Artigas. Archdaily Brasil. São Paulo, ago. 2013. Disponível em &lt;http://www.archdaily.com.br/br/01-133553/classicos-da-arquitetura- rodoviaria-de-jau-slash-vilanova-artigas&gt; Acesso em&gt; 22 jul. 2017.
+- FRACALOSSI, I. Clássicos da Arquitetura: Rodoviária de Fortaleza / Marrocos Aragão. Archdaily Brasil. São Paulo, mar. 2015. Disponível em: &lt;<a href="http://www.archdaily.com.br/br/763847/classicos-da-">http://www.archdaily.com.br/br/763847/classicos-da-</a>&gt; arquitetura-rodoviaria-de-fortaleza-marrocos-aragao&gt; Acesso em: 22 jul. 2017.
+- FRACALOSSI, I. Clássicos da Arquitetura: Rodoviária de Jaú / Vilanova Artigas. Archdaily Brasil. São Paulo, ago. 2013. Disponível em &lt;<a href="http://www.archdaily.com.br/br/01-133553/classicos-da-arquitetura-">http://www.archdaily.com.br/br/01-133553/classicos-da-arquitetura-</a>&gt; rodoviaria-de-jau-slash-vilanova-artigas&gt; Acesso em&gt; 22 jul. 2017.
 - FRAMPTON, K. História crítica da arquitetura moderna, São Paulo, Martins Fontes, 2000.
 - GIEDION, S. (org.), Architecture you and me: diary of a development. Cambrigde (MA): Harvard Universty Press, 1958.
 - GORELIK, A. Das vanguardas a Brasília: cultura urbana e arquitetura na América Latina. Belo Horizonte: Editora UFMG, 2005.
 - GOUVÊA, J. P.; VALENTIM, F.; FREITAS, A (orgs.), Glauco Campello: caderno de arquitetura. São Paulo: ECidade, 2015.
-- GUERRA, A. A antiga rodoviária da Luz: sobre a autoria do projeto do edifício. Vitruvius, Arquiteturismo, São Paulo, mar. 2015. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/arquiteturismo/10.108/5959&gt;. Acesso em: 22 jul. 2017.
+- GUERRA, A. A antiga rodoviária da Luz: sobre a autoria do projeto do edifício. Vitruvius, Arquiteturismo, São Paulo, mar. 2015. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquiteturismo/10.108/5959">http://www.vitruvius.com.br/revistas/read/arquiteturismo/10.108/5959</a>&gt; Acesso em: 22 jul. 2017.
 - HARVEY, D. A condição pós-moderna: uma pesquisa sobre as origens da mudança cultural. São Paulo: Edições Loyola, 2014.
 - HUERTAS, D. M. Território e circulação: transporte rodoviário de carga no Brasil. Tese de Doutorado, São Paulo: FFLCHUSP, 2013.
 - IWAMIZU, Cesar Shundi. A estação rodoviária de Jaú e a dimensão urbana da arquitetura. Dissertação de Mestrado, São Paulo: FAUUSP, 2008.
@@ -86,13 +86,13 @@ palavras-chave:
 - KATINSKY, J. R. Vilanova Artigas: a invenção de uma arquitetura. São Paulo: Instituto Tomie Ohtake, 2003.
 - KOOLHAAS, R.; MAU, B. Small, medium, large, extra-large: Office for Metropolitan Architecture. New York: Monacelli Press, 1995.
 - LIMA, J. R. C. Os terminais rodoviários de passageiros do interior do Estado de São Paulo: ontem e hoje. Dissertação de Mestrado, São Paulo: FAUUSP, 2004.
-- LIMA, H. C.; LEDER, S. L. O terminal rodoviário e o “roteiro para construir no nordeste”. Vitruvius. Projetos, São Paulo, set. 2011. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/projetos/11.129/4022&gt;. Acesso em: 22 jul. 2017.
+- LIMA, H. C.; LEDER, S. L. O terminal rodoviário e o “roteiro para construir no nordeste”. Vitruvius. Projetos, São Paulo, set. 2011. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/projetos/11.129/4022">http://www.vitruvius.com.br/revistas/read/projetos/11.129/4022</a>&gt; Acesso em: 22 jul. 2017.
 - LE CORBUSIER. Por uma arquitetura. São Paulo: Perspectiva, 2006.
 - LE CORBUSIER. Precisões: sobre um estado presente da arquitetura e do urbanismo. São Paulo: Cosac Naify, 2004.
 - MARICATO, E. Metrópole na periferia do capitalismo: ilegalidade, desigualdade e violência. São Paulo: Hucitec, 1996.
 - MONDENESE Filho, E. Entre linhas e curvas: a teoria e a prática na obra de Zenon Lotufo. Dissertação de Mestrado, São Paulo: FAUUSP, 2008.
 - MUMFORD, E. The CIAM discourse on urbanism 1928-1960. Cambridge-MA: MIT Press, 2002.
-- NASCIMENTO, D. Terminal Rodoviário da Luz. São Paulo Antiga, São Paulo, 6 dez. 2013. Disponível em &lt;http://www.saopauloantiga.com.br/terminal-rodoviario-da-luz&gt;. Acesso em: 22 jul. 2017.
+- NASCIMENTO, D. Terminal Rodoviário da Luz. São Paulo Antiga, São Paulo, 6 dez. 2013. Disponível em &lt;<a href="http://www.saopauloantiga.com.br/terminal-rodoviario-da-luz">http://www.saopauloantiga.com.br/terminal-rodoviario-da-luz</a>&gt; Acesso em: 22 jul. 2017.
 - PASTORE, F.; VILLAVECCHIA, L. Estação rodoviária de Santos. Acrópole. São Paulo, n.341, p.30- 32, jul, 1967
 - PASTORE, F.; VILLAVECCHIA, L. Estação rodoviária de Santos. Acrópole. São Paulo, n.374, p.27-31, jun, 1970.
 - PEREIRA, D. A. M. Estações rodoviárias nas décadas de 1960 e 1970: imaginários de cidade moderna. In: V Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo, 2018, Salvador. Arquitetura e Urbanismo no Brasil atual: crises, impasses e desafios - Anais V Enanparq. Salvador: FAUFBA, 2018. v. 2. p. 3175-3194.
@@ -101,7 +101,7 @@ palavras-chave:
 - PISANI, D. Paulo Mendes da Rocha: obra completa. São Paulo: Gustavo Gili, 2003. REIS; CORBIOLI; ALMEIDA; ARAUJO; RODRIGUES. Chapéu metálico sobre a rodoviária: Terminal Rodoviário Interestadual, Brasília, DF. Projeto Design. São Paulo, n.376, p.74-81, jun., 2011.
 - RESENDE, E. Rodovias e o desenvolvimento do brasil. Brasília: Ministério dos Transportes, 1973
 - ROCHA, P. M. da, CARON, J., KATINSKY, J., OHTAKE, R. Pavilhão de Osaka. 1º Prêmio. Acrópole. São Paulo, n. 361, p. 14-17, mai. 1969
-- ROSSETTI, E. P., Lucio Costa e a Plataforma Rodoviária. Vitruvius. Arquitextos, São Paulo, abr. de 2010. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/10.119/3371&gt; Acesso em: 22 jul. 2017.
+- ROSSETTI, E. P., Lucio Costa e a Plataforma Rodoviária. Vitruvius. Arquitextos, São Paulo, abr. de 2010. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/10.119/3371">http://www.vitruvius.com.br/revistas/read/arquitextos/10.119/3371</a>&gt; Acesso em: 22 jul. 2017.
 - ROZESTRATEN, A. S. Representação do projeto de arquitetura: uma breve revisão crítica. Pós. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP v.16, n.25, p. 252- 270, São Paulo, jun. 2009
 - ROZESTRATEN, A. Representações: Imaginário e Tecnologia. Tese de Livre Docência, São Paulo: FAUUSP, 2017.
 - SANTOS, M. A urbanização brasileira. São Paulo: Edusp, 2013.

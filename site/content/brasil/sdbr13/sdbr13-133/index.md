@@ -65,7 +65,7 @@ autores:
 - ESPINOZA, A. De la beneficencia a la salud pública. Revista de Estudios Cotidianos NESOP, vol. 3, nº1, p.207-236, 2015.
 - GALENO-IBACETA, C. Conexiones y migraciones del sistema de pabellones en hospitales de Chile. Anticipaciones: el Hospital del Salvador de Antofagasta. En: González Servín, María Lilia (coord.), et al. Registro del sistema arquitectónico hospitalario de pabellones en la ciudad de México. México: UNAM, 2019.
 - GONZÁLEZ, I. La evolución de la arquitectura hospitalaria en Chile. Revista de Asistencia Social, tomo 13, nº3-4, septiembre-diciembre 1944, p.346-380.
-- JOHN SIMON GUGGENHEIM MEMORIAL FOUNDATION. Fernando Devilat Rocca. John Simon Guggenheim Memorial Foundation, 2018, Disponible en: &lt;https://bit.ly/2U9FwJ9&gt;. Acceso en 27 de febrero de 2019.
+- JOHN SIMON GUGGENHEIM MEMORIAL FOUNDATION. Fernando Devilat Rocca. John Simon Guggenheim Memorial Foundation, 2018, Disponible en: &lt;<a href="https://bit.ly/2U9FwJ9">https://bit.ly/2U9FwJ9</a>&gt; Acceso en 27 de febrero de 2019.
 - LA CONSTRUCCIÓN de un nuevo hospital se iniciará en breve [entrevista a Alfredo Celedón]. El Mercurio de Antofagasta, p.1, martes 12 de enero de 1960.
 - MARTIN, F.H. (A) The hospital situation in South America. With notes by: W. J. Mayo, Thomas J. Watkins, Francis P. Conigan. The Modern Hospital, vol. XVIII, p.13-18, enero 1922.
 - MARTIN, F.H. (B) South America from asurgeons’s point of view. Introduction by William J. Mayo. New York: Fleming H. Revell Company, 1922.

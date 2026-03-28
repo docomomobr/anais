@@ -58,15 +58,15 @@ palavras-chave:
 - AZARA, P..¿Cultura Mediterráneas? In DC, Barcelona, n. 9-10, 2003.
 - BOCCHI, R. Architettura per L`abitazione. Venezia: Studio Eidos, 1995.
 - BONILLO, J. L. Le dimensione plastiche del mito mediterrâneo di Le Corbusier. In: GRAVAGNUOLO, B. (Edt.). Le Corbusier e L`Antico: Viaggi nel Mediterraneo. Napole: Electra, 1997.
-- BRUNO, F. A Arquitetura Moderna e o Mediterrâneo. In Arte Capital, 2013. Disponível em: http://www.artecapital.net/perspetiva-150-fernando-bruno-a-arquitetura-moderna-e-o-mediterraneo. Acesso em: jan. 2016
+- BRUNO, F. A Arquitetura Moderna e o Mediterrâneo. In Arte Capital, 2013. Disponível em: &lt;<a href="http://www.artecapital.net/perspetiva-150-fernando-bruno-a-arquitetura-moderna-e-o-mediterraneo">http://www.artecapital.net/perspetiva-150-fernando-bruno-a-arquitetura-moderna-e-o-mediterraneo</a>&gt; Acesso em: jan. 2016
 - CALZ, G. Le origini latine dell’abitazione moderne. In Architettura e Arti Decorative, n. I, set. 1923.
 - CAPITEL, A. La arquitectura del patio. Barcelona: Gustavo Gili, 2005.
 - CIUCCI, G. Gli architetti e il fascismo: Archiettura e città 1922-1944. Torino: Giulio Einaudi editore, 1989.
 - COMAS, C. E. D. Precisões brasileiras: sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira & Cia., 1936-45. Tese (Doutorado). Universidade de Paris 8, Paris, 2002.
-- CORNOLDI, A.. L’architettura dei luogui domestici. Milano: Jaca Book, 1994. Niterói: UFF, 2005. Disponível em: &lt;http://www.docomomo.org.br/seminario%206%20pdfs/Telma%20de%20Barros%20Correia.pdf&gt;. Acesso em: jun. 2007
+- CORNOLDI, A.. L’architettura dei luogui domestici. Milano: Jaca Book, 1994. Niterói: UFF, 2005. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Telma%20de%20Barros%20Correia.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Telma%20de%20Barros%20Correia.pdf</a>&gt; Acesso em: jun. 2007
 - COSTA, A. E. O Gosto pelo Sutil. Confluência entre as Casas-Pátio de Daniele Calabi e Rino Levi. Tese (Doutorado em Arquitetura). PROPAR - UFRGS, Porto Alegre, 2011.
-- COSTA, L. Razão da Nova Arquitetura. In Revista da Diretoria de Engenharia da Prefeitura do Distrito Federal, 1934. Disponível em: http://www.jobim.org/lucio/handle/2010.3/836 . Acesso: Jan. 2016.
-- COSTA, L. Considerações sobre arte contemporânea. In Os Cadernos de Cultura, 1952. Disponível em: http://www.jobim.org/lucio/handle/2010.3/4097. Acesso: Jan. 2016.
+- COSTA, L. Razão da Nova Arquitetura. In Revista da Diretoria de Engenharia da Prefeitura do Distrito Federal, 1934. Disponível em: &lt;<a href="http://www.jobim.org/lucio/handle/2010.3/836">http://www.jobim.org/lucio/handle/2010.3/836</a>&gt; . Acesso: Jan. 2016.
+- COSTA, L. Considerações sobre arte contemporânea. In Os Cadernos de Cultura, 1952. Disponível em: &lt;<a href="http://www.jobim.org/lucio/handle/2010.3/4097">http://www.jobim.org/lucio/handle/2010.3/4097</a>&gt; Acesso: Jan. 2016.
 - CRESTI, C. Architettura e Fascismo. Firenze: Vallecchi, 1986.
 - DANESI, S.; PATETTA, L. Il Razionalismo e l’ architettura in Italia durante il fascismo. Veneza: Ed. La Biennale di Venezia, 1976.
 - DIEMER, M. J. O Rompimento da Caixa e suas conseqüências na prática do projeto residencial no século XX. Dissertação (Mestrado em Arquitetura). PROPAR – UFRGS, Porto Alegre, 2006.
@@ -74,7 +74,7 @@ palavras-chave:
 - GRIFFINI, E. Esempi stranieri modernissimi di case economiche. In Domus, Milano, n.3, p.12-15, 1928.
 - HECK, M. Casas Modernas Cariocas 1930-1965. Dissertação (Mestrado em Arquitetura) – PROPAR - UFRGS, Porto Alegre, 2005.
 - LEMOS, C. História da Casa Brasileira. São Paulo: Contexto, 1996.
-- LUCCAS, L. H. H. Arquitetura moderna e brasileira:. O constructo de Lucio Costa como sustentação. In Arquitextos, São Paulo, ano 06, n. 063.07, Vitruvius, set. 2005. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437. Acesso em: Jan. 2016.
+- LUCCAS, L. H. H. Arquitetura moderna e brasileira:. O constructo de Lucio Costa como sustentação. In Arquitextos, São Paulo, ano 06, n. 063.07, Vitruvius, set. 2005. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437">http://www.vitruvius.com.br/revistas/read/arquitextos/06.063/437</a>&gt; Acesso em: Jan. 2016.
 - MARTÍ ARIS, C. Le variazioni dell’identità: il tipo nella architettura. Torino: Città Studio Edizione, 1993.
 - MONEO, R. La solitudine degli edifici e altri scriti. Questioni intorno all’architettura. Torino: Umberto Allemandi & C., 1999.
 - PAGANO, G. Architettura moderna di enti secoli fa. In La Casa Bella, Milano, p. 14-19, nov. 1931.
@@ -84,7 +84,7 @@ palavras-chave:
 - PONTI, G. “Idea per la Casa dell dottor T a San Paolo”, In Revista Dommus, Milão, n. 282, maio de 1953.
 - PONTI, G. La Casa all’italiana. In Domus, Milano, n.12, p.18, 1928.
 - RAVA, C. E.. Spirito Latino II. In Domus, Milano, n. 38, p.24-29, febbraio 1931.
-- RECASENS, G. D. La tradición del patio en la arquitectura moderna. In DPA 13, Barcelona, 1997. Disponível em: &lt;http://www.edicionsupc.es/ftppublic/pdfmostra/AR04801M.pdf&gt;. Acesso em: mar. 2009.
+- RECASENS, G. D. La tradición del patio en la arquitectura moderna. In DPA 13, Barcelona, 1997. Disponível em: &lt;<a href="http://www.edicionsupc.es/ftppublic/pdfmostra/AR04801M.pdf">http://www.edicionsupc.es/ftppublic/pdfmostra/AR04801M.pdf</a>&gt; Acesso em: mar. 2009.
 - ROSSI, A. A Arquitetura da Cidade. São Paulo: Martins Fontes, 1995.
 - RUBERT DE VENTOS, X. Em mediterrâneo como mito cultural. In DC, Barcelona, n. 9-10, 2003.
 - SAGGIO, A. Giuseppe Terragni: Vita e opere. Roma: Editori Laterza, 1995.

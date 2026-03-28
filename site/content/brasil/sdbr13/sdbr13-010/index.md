@@ -68,7 +68,7 @@ palavras-chave:
 - DONDIS, D. A. Sintaxe da linguagem visual. São Paulo: Martins Fontes, 2015.
 - DONNELLY, J. F. Interpreting Historic House Museums. Walnut Creek: AltaMira Press, 2002.
 - DOVEY, K. Home and Homelessness: Introduction. In: ALTMAN, I. A. C. M. W. Home Environments. Human Behavior and Environment: Advances. New York: Plenum Press, 1985.
-- FRACALOSSI, I. archdaily, 2011. Disponivel em: &lt;https://www.archdaily.com.br/br/01- 12802/classicos-da-arquitetura-casa-de-vidro-lina-bo-bardi&gt;. Acesso em: 25 Fevereiro 2019.
+- FRACALOSSI, I. archdaily, 2011. Disponivel em: &lt;<a href="https://www.archdaily.com.br/br/01-">https://www.archdaily.com.br/br/01-</a>&gt; 12802/classicos-da-arquitetura-casa-de-vidro-lina-bo-bardi&gt;. Acesso em: 25 Fevereiro 2019.
 - GAMELEIRA, R. Quando a casa vira museu: Uma abordagem através da sintaxe espacial sobre a transformação da Casa-Museu Medeiros e Almeida. 7 Simpósio de pesquisa PPGAU/PPAPMA - UFRN, Natal, Fevereiro 2019.
 - GORGAS, M. R. D. Reality as illusion, the historic houses. In: PARIS, U. Museum International. Oxford: Blackwell Publishers, 2001. p. 10-15.
 - GUIMARÃES, C. Arquitetura e Museus em Portugal: Entre Reinterpretações e Obra Nova. 1. ed. Porto: FAUP publicações, 2004.
@@ -77,7 +77,7 @@ palavras-chave:
 - HILLIER, B. Space is the machine. London: UCL, 2007.
 - HILLIER, B.; HANSON, J. The Social Logic of Space. Cambridge: Cambridge University Press., 1984.
 - HILLIER, B.; TZORTZI, K. Space Syntax: The Language of Museum Space. In: MACDONALD, S. A Companion to Museum Studies. [S.l.]: Blackwell, 2006. p. 282-301.
-- ICOM. Definição: Museu. icom-portugal, 19 Março 2015. Disponivel em: &lt;http://icom- portugal.org/2015/03/19/definicao-museu/&gt;. Acesso em: 20 junho 2017.
+- ICOM. Definição: Museu. icom-portugal, 19 Março 2015. Disponivel em: &lt;<a href="http://icom-">http://icom-</a>&gt; portugal.org/2015/03/19/definicao-museu/&gt;. Acesso em: 20 junho 2017.
 - ITTELSON, W. H. et al. Homem Ambiental. In:
 - ITTELSON, W. An introduction to Environmental Psychology. (tradução e adaptação de José Q. Pinheiro, exclusivamente para fins didáticos). [S.l.]: [s.n.], 1974.
 - LAWRENCE, R. J. What Makes A House A Home? [S.l.]: Sage Publications, 1987.

@@ -56,17 +56,17 @@ palavras-chave:
 - COUNCIL OF EUROPE COMMITTEE OF MINISTERS. Recommendation No R (91) 13. 1991.
 - DOCOMOMO IBÉRICO. Redacción de la documentación de 256 elementos del catálogo inicial de edificios del Plan Nacional del Patrimonio del Siglo XX. DOCOMOMO Ibérico, 2014.
 - FERNÁNDEZ ISLA, J. M., Colegio Mayor do Brasil. La huella de Niemeyer, El Mundo, 21 de março de 2006.
-- ISIDRO, E. M., ALFONSO, C. J. Apuntes para una adecuada apreciación, necesaria protección y  razonada revitalización del conjunto Universidad Laboral De Cheste (1967-1969) de Fernando Moreno Barberá. Anais X Seminário Docomomo Brasil. Curitiba: PUCPR, 2013.
+- ISIDRO, E. M., ALFONSO, C. J. Apuntes para una adecuada apreciación, necesaria protección y razonada revitalización del conjunto Universidad Laboral De Cheste (1967-1969) de Fernando Moreno Barberá. Anais X Seminário Docomomo Brasil. Curitiba: PUCPR, 2013.
 - MICELI, S. Intelectuais à brasileira. São Paulo: Cia. das Letras, 2001.
 - MINISTERIO DE EDUCACIÓN, CULTURA Y DEPORTE. Plan Nacional de Conservación del Patrimonio Cultural del Siglo XX. Secretaría Genral Técnica, 2015.
 - NORAS, J. Postais de Santarém: manuscritos do arquitecto Siza Vieira. O Ribatejo, 7 ago. 2015.
 - PINO, B. Las relaciones hispano-brasileñas: de la mutua irrelevancia a la asociación estratégica 1945-2005. Salamanca: Ed. Univ. Salamanca, 2007
-- ROCHA, R. A arquitetura moderna diante da esfinge ou a nova monumentalidade – uma análise do Monumento Nacional aos Mortos na Segunda Guerra Mundial, Rio de Janeiro. Anais do Museu Paulista: História e Cultura Material. Vol.15 No. 2, São Paulo, 2007. http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142007000200016&lng=pt&nrm=iso – Acesso em 05/07/2017.
+- ROCHA, R. A arquitetura moderna diante da esfinge ou a nova monumentalidade – uma análise do Monumento Nacional aos Mortos na Segunda Guerra Mundial, Rio de Janeiro. Anais do Museu Paulista: História e Cultura Material. Vol.15 No. 2, São Paulo, 2007. &lt;<a href="http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142007000200016&lng=pt&nrm=iso">http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142007000200016&lng=pt&nrm=iso</a>&gt; – Acesso em 05/07/2017.
 - ROCHA, R. Sob a tumba dos heróis: o Panteão dos Inconfidentes no Museu da Inconfidência em Ouro Preto. Musas: Revista Brasileira de Museus e Museologia. No 4. Rio de Janeiro, Instituto Brasileiro de Museus, 2009.
 - SEGAWA, H. Arquiteturas no Brasil 1900-1990. São Paulo: EdUSP, 1997.
 - U.S. DEPARTMENT OF AGRICULTURE. Food and agricultural exhibits throughout the world. Foreign Agriculture Service No 256, nov. 1973.
 - VÁZQUEZ, A. Las capillas de las Universidades Laborales como recuperación de la modernidad en la arquitectura española del siglo XX. Actas del Congreso Internacional de Arquitectura Religiosa Contemporánea 2-II. Coruña: ETSAUC, 2011.
-- BIBLIOTECA NACIONAL http://memoria.bn.br
-- CÂMARA DOS DEPUTADOS (DF) http://www.camara.gov.br
-- DIÁRIO OFICIAL DA UNIÃO http://portal.imprensanacional.gov.br/
-- ÍNDICE DA ARQUITETURA BRASILEIRA http://143.107.16.155:88/index.htm
+- BIBLIOTECA NACIONAL &lt;<a href="http://memoria.bn.br">http://memoria.bn.br</a>&gt;
+- CÂMARA DOS DEPUTADOS (DF) &lt;<a href="http://www.camara.gov.br">http://www.camara.gov.br</a>&gt;
+- DIÁRIO OFICIAL DA UNIÃO &lt;<a href="http://portal.imprensanacional.gov.br/">http://portal.imprensanacional.gov.br/</a>&gt;
+- ÍNDICE DA ARQUITETURA BRASILEIRA &lt;<a href="http://143.107.16.155:88/index.htm">http://143.107.16.155:88/index.htm</a>&gt;

@@ -58,7 +58,7 @@ palavras-chave:
 - ARNHEIM, Rudolf. Arte e Percepção Visual, uma psicologia da visão criadora: nova versão. São Paulo: Cengage Learning, 2008.
 - BRASIL. Estatuto da cidade: Lei n. 10.257, de 10/jul./01, que estabelece diretrizes da política urbana. Brasília: Câmara dos Deputados/Coord. de Publicações, 2001.
 - DE FUSCO, Renato. A Idéia de Arquitetura. São Paulo: Martins Fontes, 1984.
-- FUNDAÇÃO DE ECONOMIA E ESTATÍSTICA. Dados 2000. Disponível em: http://www.fee.rs.gov.br/sitefee/pt/content/sobreafee/pg_deficit.php. Acesso em: 29 abr. 2008.
+- FUNDAÇÃO DE ECONOMIA E ESTATÍSTICA. Dados 2000. Disponível em: &lt;<a href="http://www.fee.rs.gov.br/sitefee/pt/content/sobreafee/pg_deficit.php">http://www.fee.rs.gov.br/sitefee/pt/content/sobreafee/pg_deficit.php</a>&gt; Acesso em: 29 abr. 2008.
 - FUNDAÇÃO JOÃO PINHEIRO. Déficit habitacional no Brasil 2005. Belo Horizonte, 2006.
 - GUTIERREZ, Ester J. B. (coord.) A inclusão da ociosidade: uma metodologia para inventariar imóveis urbanos ociosos. O caso de Pelotas (RS). (Projeto de Pesquisa). 2006. Faculdade de Arquitetura e Urbanismo. Universidade Federal de Pelotas. Conselho Nacional de Desenvolvimento Científico e Tecnológico.
 - KOHLSDORF, Maria Elaine. A apreensão da forma da cidade. Brasília: UnB, 1996.

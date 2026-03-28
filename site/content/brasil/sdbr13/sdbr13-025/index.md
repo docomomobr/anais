@@ -59,31 +59,31 @@ palavras-chave:
 - CHIORINO, Cristiana (a cura di). Pier Luigi Nervi. Architettura come Sfida. Milano: Silvana Editoriale, 2010, pp. 41-57.
 - ACAYABA, Marlene. Residências em São Paulo 1947-1975, São Paulo: Editora Projeto, 1986.
 - ALMEIDA, Eneida de. O “construir no construído” na produção contemporânea: relações entre teoria e prática. Tese de doutorado, São Paulo: Fauusp 2009.
-- ARGAN, Giulio Carlo. Projeto e Destino. São Paulo: Editora Ática, 2001. Ver Fernanda Jung Drebes, O o Edifício Residencial e a Arquitetura Brasileira (1945/55), Anais do 5 Docomomo Brasil , Arquitetura e Urbanismo Modernos: Projeto e Preservação, São Carlos, out 2003. http://www.docomomo.org.br/indexfutura.htm. Acesso fevereiro 2014.
+- ARGAN, Giulio Carlo. Projeto e Destino. São Paulo: Editora Ática, 2001. Ver Fernanda Jung Drebes, O o Edifício Residencial e a Arquitetura Brasileira (1945/55), Anais do 5 Docomomo Brasil , Arquitetura e Urbanismo Modernos: Projeto e Preservação, São Carlos, out 2003. &lt;<a href="http://www.docomomo.org.br/indexfutura.htm">http://www.docomomo.org.br/indexfutura.htm</a>&gt; Acesso fevereiro 2014.
 - BARDI, Lina BO. [Correspondência], Destinatário: Pier Luigi Nervi. São Paulo, 15 jan. 1951, Carta. Fondo Pier Luigi Nervi; serie Corrispondenza (Centro di Documentazione del MAXXI. Museo Nazionale delle Arti del XXI secolo, Roma).
 - BARDI, Lina BO. Taba Guaianazes, SP. Habitat, 14, pp. 4-10, jan/fev 1954.
 - BARDI, Lina BO. Contribuição propedêutica ao ensino da teoria da arquitetura, São Paulo, ILBPMB, 2002.
 - BARDI, Pietro Maria, Nervi e o concreto, Habitat, 3, pp.16-17, 1951. Cf. LATORRACA, Giancarlo, João Filgueiras Lima, Lelé. São Paulo: Instituto Lina Bo e P.M. Bardi; Lisboa: Blau, 1999, p. 166.
 - ABRAM, Joseph, Pier Luigi Nervi. La resistenza performa, la forma come struttura, in: OLMO, Carlo e
 - CHIORINO, Cristiana (a cura di),Pier Luigi Nervi. Architettura come Sfida, Milano, Silvana Editoriale, 2010, pp. 41-57, p. 53.
-- REBELLO, Yopanan e LEITE, Maria Amelia DAzevedo, Architekton Lelé: o mestre da arte de construir, AU, out. 2008, 175, http://au17.pini.com.br/arquitetura-urbanismo/175/architekton-lele-o-mestre-da-arte-de-construir- 104932-1.aspx, 05 mar. 2019. 59 Estudos feitos a partir de seus passaportes, de posse do Instituto Lina Bo e Pietro Maria Bardi indicam tal dado.
+- REBELLO, Yopanan e LEITE, Maria Amelia DAzevedo, Architekton Lelé: o mestre da arte de construir, AU, out. 2008, 175, &lt;<a href="http://au17.pini.com.br/arquitetura-urbanismo/175/architekton-lele-o-mestre-da-arte-de-construir-">http://au17.pini.com.br/arquitetura-urbanismo/175/architekton-lele-o-mestre-da-arte-de-construir-</a>&gt; 104932-1.aspx, 05 mar. 2019. 59 Estudos feitos a partir de seus passaportes, de posse do Instituto Lina Bo e Pietro Maria Bardi indicam tal dado.
 - REBELLO. [Correspondência], Destinatário: Pier Luigi Nervi, São Paulo, 21 nov. 1952, Carta. Fondo Pier Luigi Nervi, Serie: Corrispondenza (Centro di Documentazione del MAXXI. MAXXI Museo Nazionale delle Arti del XXI secolo, Roma).
 - BATTISTACCI, Rossana. Achillina Bo nella Regia Scuola Superiore di Architettura di Roma. In:
 - CRICONIA, Alessandra (a cura di), Lina Bo Bardi. Un'architettura tra Italia e Brasile. Milano: FrancoAngeli, 2017.
 - CHIORINO, Mario Alberto. La sperimentazione nell'opera di Pier Luigi Nervi. In: OLMO, Carlo e
 - CHIORINO, Cristiana (a cura di). Pier Luigi Nervi. Architettura come Sfida. Milano: Silvana Editoriale, 2010, pp.61-86.
 - CABRAL, Cláudia Costa, Anatomia da Rua Elevada: Casos Latino-Americanos (1946-1974), XIV SAL – Seminário de Arquitetura Latino-Americana, Campinas: UNICAMP, 2011.
-- COMAS, Carlos Eduardo, "Lina 3x2", Arquitexto, Porto Alegre, 14, p. 146-189, 2010. Disponível em: http://www.ufrgs.br/propar. Acesso em: 14 março 2010.
-- COMAS, Carlos Eduardo. Lina Bo Bardi. Risco, n. 20, p. 91-92, 2014. Disponível em: https://www.revistas.usp.br/risco/issue/view/8813. Acesso 14 maio 2015.
+- COMAS, Carlos Eduardo, "Lina 3x2", Arquitexto, Porto Alegre, 14, p. 146-189, 2010. Disponível em: &lt;<a href="http://www.ufrgs.br/propar">http://www.ufrgs.br/propar</a>&gt; Acesso em: 14 março 2010.
+- COMAS, Carlos Eduardo. Lina Bo Bardi. Risco, n. 20, p. 91-92, 2014. Disponível em: &lt;<a href="https://www.revistas.usp.br/risco/issue/view/8813">https://www.revistas.usp.br/risco/issue/view/8813</a>&gt; Acesso 14 maio 2015.
 - CIUCCI, Giorgi. Gli architetti e il fascismo. Architettura e cittá 1922-1944. Torino: Einaudi, 2002.
 - CROCE, Plinio, [Correspondência], Destinatário: Pier Luigi Nervi, 25 nov. 1950, Carta (Fondo Pier Luiggi NERVI, Serie: Corrispondenza, Centro di Documentazione del MAXXI, MAXXI Museo Nazionale delle Arti del XXI secolo).
 - DEL MONACO, Anna Irene, Appunti per possibili linee di ricerca sull'opera di Pier Luigi Nervi. In:
 - CASTELLI, Francesca Romana; DEL MONACO, Anna Irene (a cura di). Pier Luigi Nervi e L'Architettura Strutturale. Roma: Edils Stampa, 2011, p.70-81.
-- DE PIERE, Filippo. Nervi, Pier Luigi. In: Treccani. Disponível em: http://www.treccani.it/enciclopedia/pier-luigi-nervi_(Dizionario-Biografico). Acesso em: 5 dez. 2018. o
-- DREBES, Fernanda Jung. O edifício residencial e a arquitetura brasileira (1945/1955). Anais do 5 Docomomo Brasil , Arquitetura e Urbanismo Modernos: Projeto e Preservação, São Carlos, out 2003. Disponível em : http://www.docomomo.org.br/indexfutura.htm. Acesso fevereiro 2014.
-- FONDAZIONE DALMINE wwwfondazionedalmine.org ( a cura di), Dalmine dalla impresa alla città. Storia de una company town, https://archeologiaindustriale.net/5072_dalmine-dallimpresa-alla-citta- storia-di-una-company-town/, 1 jun 2019.
+- DE PIERE, Filippo. Nervi, Pier Luigi. In: Treccani. Disponível em: &lt;<a href="http://www.treccani.it/enciclopedia/pier-luigi-nervi_(Dizionario-Biografico">http://www.treccani.it/enciclopedia/pier-luigi-nervi_(Dizionario-Biografico</a>&gt; Acesso em: 5 dez. 2018. o
+- DREBES, Fernanda Jung. O edifício residencial e a arquitetura brasileira (1945/1955). Anais do 5 Docomomo Brasil , Arquitetura e Urbanismo Modernos: Projeto e Preservação, São Carlos, out 2003. Disponível em : &lt;<a href="http://www.docomomo.org.br/indexfutura.htm">http://www.docomomo.org.br/indexfutura.htm</a>&gt; Acesso fevereiro 2014.
+- FONDAZIONE DALMINE wwwfondazionedalmine.org ( a cura di), Dalmine dalla impresa alla città. Storia de una company town, &lt;<a href="https://archeologiaindustriale.net/5072_dalmine-dallimpresa-alla-citta-">https://archeologiaindustriale.net/5072_dalmine-dallimpresa-alla-citta-</a>&gt; storia-di-una-company-town/, 1 jun 2019.
 - LINA BO BARDI (1914-2014). Una architetta romana in Brasile: Convegno internazionale di studi presso la Facoltà di Architettura. LAMA Laboratorio Multimediale di Architettura. Roma: 2014,
-- DVD Pal, colore, 12:04':13. Italiano. Disponível em: http://www.lamavideo.net/index.php?cerca=si&videocorrente=NO. Acesso em: 10 set. 2015.
+- DVD Pal, colore, 12:04':13. Italiano. Disponível em: &lt;<a href="http://www.lamavideo.net/index.php?cerca=si&videocorrente=NO">http://www.lamavideo.net/index.php?cerca=si&videocorrente=NO</a>&gt; Acesso em: 10 set. 2015.
 - MARTINIS, Roberta. Stadio comunale Berta. 1930-1932;1950-1951. In: OLMO, Carlo e CHIORINO, Cristiana (a cura di). Pier Luigi Nervi. Architettura come Sfida. Milano: Silvana Editoriale, 2010, p. 142-144.
 - MEMORIAL DESCRITIVO, Edifício Taba Guaianases, acesso 01.0594.01 (ILBPMB Instituto Lina Bo e Pietro Maria Bardi), s/d.
 - MURATORE, Giorgio, Intervento di apertura del Convegno di Studio Pier Luigi Nervi, Roma Università La Sapienza, 1999. In: CASTELLI, Francesca Romana; DEL MONACO, Anna Irene (a cura di), Pier Luigi Nervi e L'Architettura Strutturale. Roma: Edils Stampa, 2011, p. 66-69.
@@ -97,7 +97,7 @@ palavras-chave:
 - NERVI. [Correspondência], Destinatário: Pietro Maria Bardi, Roma, 28 nov. 1956, Carta. Fondo Pier Luigi Nervi, Serie Corrispondenza (Centro di Documentazione del MAXXI. MAXXI Museo Nazionale delle Arti del XXI secolo, Roma).
 - NERVI. Relatório Técnico do eng. Dr. Prof. Nervi, s/d, Edifício Taba Guaianases, acesso 01.0595.01, 01.0595.02 (ILBPMB Instituto Lina Bo e Pietro Maria Bardi, São Paulo).
 - OLMO, Carlo, Nella scia del Pequod. In: OLMO, Carlo; CHIORINO, Cristiana (a cura di), Pier Luigi Nervi. Architettura come Sfida. Milano: Silvana Editoriale, 2010, pp. 29-40.
-- REBELLO, Yopanan Rebello ; LEITE, Maria Amelia DAzevedo. Architekton Lelé: o mestre da arte de construir, AU, 175, out. 2008. Disponível em: &lt;http://au17.pini.com.br/arquitetura- urbanismo/175/architekton-lele-o-mestre-da-arte-de-construir-104932-1.aspx. Acesso em 05 mar. 2019.
+- REBELLO, Yopanan Rebello ; LEITE, Maria Amelia DAzevedo. Architekton Lelé: o mestre da arte de construir, AU, 175, out. 2008. Disponível em: &lt;<a href="http://au17.pini.com.br/arquitetura-">http://au17.pini.com.br/arquitetura-</a>&gt; urbanismo/175/architekton-lele-o-mestre-da-arte-de-construir-104932-1.aspx. Acesso em 05 mar. 2019.
 - SANTOS, Cecília Rodrigues dos, “Assim, nas bordas e por dentro, os ratos foram roendo toda nossa cidade da Bahia”. Projeto, São Paulo, n. 149, pp. 54-55, jan-fev 1992.
 - SOCIEDADE COMERCIAL E CONSTRUTORA [Correspondência], Destinatário: Tullio Stucchi, São Paulo, 28 jun 1951, Carta (ILBPMB Instituto Lina Bo e Pietro Maria Bardi, São Paulo).
 - SANTOS. Orçamento, 13 março 1951. Acesso 01.0143.09 (ILBPMB Instituto Lina Bo e Pietro Maria Bardi, São Paulo).

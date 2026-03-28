@@ -34,7 +34,7 @@ authors:
     affiliation: "PUC-Rio"
     orcid: "0000-0002-6997-2284"
 doi: "10.5281/zenodo.19122154"
-zenodo_pdf_url: "https://zenodo.org/records/19122155/files/sdbr07-030.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285527/files/sdbr07-030.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

@@ -54,10 +54,10 @@ palavras-chave:
 
 ## Referências
 
-- APORTUGAL. Hotel Atlantis Sintra Estoril. Disponível em: http://aportugal.com/hotelatlantissintraestoril/index.htm. Acesso em: 23 mar. 2016.
+- APORTUGAL. Hotel Atlantis Sintra Estoril. Disponível em: &lt;<a href="http://aportugal.com/hotelatlantissintraestoril/index.htm">http://aportugal.com/hotelatlantissintraestoril/index.htm</a>&gt; Acesso em: 23 mar. 2016.
 - CORNELSEN, AYRTON LOLÔ. Entrevista [15 abr. 2015]. Curitiba: Entrevista concedida a Marcia Maria Cavalieri.
-- CORNELSEN, AYRTON LOLÔ. Fundação Ayrton Lolô Cornelsen. Disponível em: http://www.lolocornelsen.com.br/arquitetura.htm. Acesso em: 20 out. 2015a.
+- CORNELSEN, AYRTON LOLÔ. Fundação Ayrton Lolô Cornelsen. Disponível em: &lt;<a href="http://www.lolocornelsen.com.br/arquitetura.htm">http://www.lolocornelsen.com.br/arquitetura.htm</a>&gt; Acesso em: 20 out. 2015a.
 - LINS, Paulo Cesar Zanoncini. Caminhos da arquitetura: trajetória profissional de Ayrton “Lolô” Cornelsen – memória da arquitetura moderna paranaense. Curitiba: Copel, 2004.
-- MONTECHORO. Hotel Montechoro. Disponível em: http://www.hotelmontechoro.pt/galeria.php. Acesso em 24 mar. 2016
-- POKERPT. Crowne Plaza Vila Moura. 2010. Disponível em: http://www.pokerpt.com/noticias/2- actualidade/7123-inauguracao-do-crowne-plaza-vilamoura-a-3-de-junho.html. Acesso em: 23 mar. 2016.
-- RUMBO. Hotel Atlantis Sintra Estoril. Disponível em: http://www.rumbo.pt/hotel/portugal/estremadura/estoril/hotel-atlantis-sintra-estoril.html. Acesso em: 23 mar. 2016.
+- MONTECHORO. Hotel Montechoro. Disponível em: &lt;<a href="http://www.hotelmontechoro.pt/galeria.php">http://www.hotelmontechoro.pt/galeria.php</a>&gt; Acesso em 24 mar. 2016
+- POKERPT. Crowne Plaza Vila Moura. 2010. Disponível em: &lt;<a href="http://www.pokerpt.com/noticias/2-">http://www.pokerpt.com/noticias/2-</a>&gt; actualidade/7123-inauguracao-do-crowne-plaza-vilamoura-a-3-de-junho.html. Acesso em: 23 mar. 2016.
+- RUMBO. Hotel Atlantis Sintra Estoril. Disponível em: &lt;<a href="http://www.rumbo.pt/hotel/portugal/estremadura/estoril/hotel-atlantis-sintra-estoril.html">http://www.rumbo.pt/hotel/portugal/estremadura/estoril/hotel-atlantis-sintra-estoril.html</a>&gt; Acesso em: 23 mar. 2016.

@@ -47,7 +47,7 @@ palavras-chave:
 - COLQUHOUN, Alan. Modernidade e Tradição Clássica: ensaios sobre arquitetura. São Paulo: Cosac & Naify, 2004.
 - COLQUHOUN, Alan. The Beaux-­‐Arts Plan. AD PROFILE 17: THE BEAUX-­‐ARTS, London: Academy Editions, Guest Editor: Robin Middleton, Architectural Design, vol.48, n.11-­‐12, 1978.
 - FOUCAULT, Michel. Des espaces autres. 1967. Conferénce au Cercle d'études architecturales, mars 1967.
-- Architecture, Mouvement, Continuité, n.5, octobre 1984, p.46-­‐49. Disponível em: http://foucault.info/documents/heteroTopia/foucault.heteroTopia.fr.html
+- Architecture, Mouvement, Continuité, n.5, octobre 1984, p.46-­‐49. Disponível em: &lt;<a href="http://foucault.info/documents/heteroTopia/foucault.heteroTopia.fr.html">http://foucault.info/documents/heteroTopia/foucault.heteroTopia.fr.html</a>&gt;
 - FORSYTHE, William. Choreographic Objects. In: William Forsythe and the Practice of Choreography: It Starts From Any Point. Edited By Steven Spier. London, New York: Routledge, 2011.
 - HUCHET, Stéphane Denis Albert René Philippe. Intensões espaciais: a prática exponencial da arte 1900-­‐2000. Belo Horizonte: C/Arte, 2012. LE
 - CORBUSIER. Mensagem aos Estudantes de Arquitetura. São Paulo: Martins Fontes, 2005. p.41-­‐42. Ed. original: Entretien avec les étudiants des écoles d'architecture, 1943. LE CORBUSIER;

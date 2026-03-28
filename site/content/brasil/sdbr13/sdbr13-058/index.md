@@ -62,7 +62,7 @@ palavras-chave:
 
 - BEBER, Claudia Emília Lobato Pedrosa. Élio de Almeida Vianna e Maria do Carmo Schwab: arquitetos modernistas. 1991. 95f. Monografia (Graduação em Arquitetura e Urbanismo) – Universidade Federal do Espírito Santo, Vitória, 1991.
 - BORGO, Ivantir A. UFES: 40 Anos de História. 2. ed. Vitória: UFES, 1995.
-- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano in Arquitextos Vitruvius, ano 01, n.008.8, jan. 2001. Disponível em: &lt; http://www.vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt &gt;. Acesso em 10 mar. 2018.
+- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano in Arquitextos Vitruvius, ano 01, n.008.8, jan. 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt">http://www.vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt</a>&gt; &gt;. Acesso em 10 mar. 2018.
 - INHAN, G; MIRANDA, C; ALBERTO, K.C. Rudolph Atcon e o planejamento do campus da Universidade Federal do Espírito Santo. Oculum Ensaios. Campinas, v.13, n.2, p.237-254, dez. 2006.
 - MATTOS, João Bosco Silva; SILVA, Ana Cristina Lage da. Memória da Arquitetura Capixaba – Catálogo dos Arquitetos: Élio de Almeida Vianna e Maria do Carmo de Novaes Schwab. 1987. 139f. Monografia (Graduação em Arquitetura e Urbanismo) - Universidade Federal do Espírito Santo, Vitória, 1987.
 - MENDONÇA, E. M. S. A atuação de Henrique de Novaes no urbanismo da cidade de Vitória. In:
@@ -74,5 +74,5 @@ palavras-chave:
 - MIRANDA, Clara Luiza. A arquitetura moderna brasileira: experiência e expectativa de modernização do Espírito Santo. In: SEMINÁRIO DOCOMOMO BRASIL, 9., 2011, Brasília. Anais do 9º Seminário Docomomo Brasil: Interdisciplinaridade, experiência em documentação, preservação do patrimônio recente. Brasilia: UnB-FAU, 2011. v.1.
 - MIRANDA, Clara Luiza. As referências carioca e mineira da arquitetura moderna do Espírito Santo. In:
 - SEMINÁRIO DO.CO.MO.MO-MG. 1., 2010, Uberlândia. Anais do I Seminário Docomomo-MG: Arquitetura e Urbanismo Modernos em Minas Gerais: novas fronteiras, novos cenários. Uberlândia: Universidade Federal de Uberlândia, 2010, v. 2.
-- MOREIRA, F. et al. O desafio da conservação dos acervos particulares de arquitetos modernos: o caso do Inventário Janete Costa. Revista CPC, n.20, p.137-158, 29 dez. 2015. Disponível em: &lt;http://www.revistas.usp.br/cpc/article/view/103264&gt;. Acesso em: 12 mar. 2019. MUÑOZ-VIÑAS, Salvador. Contemporary Theory of Conservation. London: Routledge, 2004.
+- MOREIRA, F. et al. O desafio da conservação dos acervos particulares de arquitetos modernos: o caso do Inventário Janete Costa. Revista CPC, n.20, p.137-158, 29 dez. 2015. Disponível em: &lt;<a href="http://www.revistas.usp.br/cpc/article/view/103264">http://www.revistas.usp.br/cpc/article/view/103264</a>&gt; Acesso em: 12 mar. 2019. MUÑOZ-VIÑAS, Salvador. Contemporary Theory of Conservation. London: Routledge, 2004.
 - MURTA, Luciana Mello. Guia da Arquitetura Moderna Capixaba. 2000. 68f. Monografia (Graduação em Arquitetura e Urbanismo). Universidade Federal do Espírito Santo, Vitória, 2000.

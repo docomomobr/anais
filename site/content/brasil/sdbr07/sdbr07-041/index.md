@@ -73,5 +73,5 @@ palavras-chave:
 - SANTOS, Paulo. Quatro séculos de arquitetura. Rio de Janeiro: IAB, 1981.
 - SEABRA DE MELO, Alexandra C. Yes, nós temos arquitetura moderna! Dissertação (Mestrado) – PPGAU/UFRN. Natal, 2004.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: EDUSP, 1997.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Vitruvius, 2007. Disponível em: http://www.vitruvius.com.br/arquitextos/arq084_00.asp&gt; Acesso em 14ago. 2007. 15:40:15.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). São Paulo: Vitruvius, 2007. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq084_00.asp">http://www.vitruvius.com.br/arquitextos/arq084_00.asp</a>&gt; Acesso em 14ago. 2007. 15:40:15.
 - Professor Aldomar Pedrini Mestrando Leonardo Cunha Alunas: Carla Varela e Débora Pinto

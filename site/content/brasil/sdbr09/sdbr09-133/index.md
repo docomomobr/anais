@@ -52,10 +52,10 @@ palavras-chave:
 
 ## Referências
 
-- ALVES, A. A. de A. Arquitetura Moderna, Paulo Mendes da Rocha, Cidade. In http://www.ponto.org/1/artigo3.html
+- ALVES, A. A. de A. Arquitetura Moderna, Paulo Mendes da Rocha, Cidade. In &lt;<a href="http://www.ponto.org/1/artigo3.html">http://www.ponto.org/1/artigo3.html</a>&gt;
 - ARTIGAS, R. Paulo Mendes da Rocha. São Paulo, Cosac & Naify, 2002 (2 ed.)
 - CATÁLOGO, “Arquitetura, Cidade e Território”. 7 Mostra Internacional de Arquitetura da Bienal de Veneza, 2000 LIMA JR., C. B., SOARES, S. C. & BONICENHA, W. Baía de Vitória: aspectos históricos e culturais. Vitória: FCAA,
-- MOTTA, F. Paulo Mendes da Rocha. In http://www.ponto.org/1/artigo0.html acessado em 2011
+- MOTTA, F. Paulo Mendes da Rocha. In &lt;<a href="http://www.ponto.org/1/artigo0.html">http://www.ponto.org/1/artigo0.html</a>&gt; acessado em 2011
 - REVISTA, Imagem Urbana, 1998
 - ROCHA, P. M. Mendes da Rocha. Lisboa: Blau, 1996
 - SERRA, G. G. Pesquisa em Arquitetura e Urbanismo: Guia prático para o trabalho de pesquisadores de pós graduação. São Paulo, Madarim, 2006

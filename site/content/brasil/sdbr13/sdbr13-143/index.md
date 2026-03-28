@@ -100,7 +100,7 @@ palavras-chave:
 - Patrimonio cultural de la región de Murcia: Patrimonio Arquitectónico Moderno en
 - la Región de Murcia: Análisis y puesta en valor, (págs. 23-31). Cartagena Murcia.
 - TORRENT, H. (29 de 03 de 2010). Patrimonio moderno y el desafio de la reconstrucción
-- www.plataformaarquitectura.cl. Obtenido de https://www.plataformaarquitectura.cl/cl/02-
+- www.plataformaarquitectura.cl. Obtenido de &lt;<a href="https://www.plataformaarquitectura.cl/cl/02-">https://www.plataformaarquitectura.cl/cl/02-</a>&gt;
 - 39668/patrimonio-moderno-y-el-desafio-de-la-reconstruccion
 - VALENCIA, M. (2017). Tensiones entre procesos de patrimonialización y modernización
 - neoliberal. El caso de los paisajes culturales. Revista de Urbanismo #37, 3-16.

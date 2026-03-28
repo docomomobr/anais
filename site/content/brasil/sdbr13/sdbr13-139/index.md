@@ -65,6 +65,6 @@ palavras-chave:
 - FERNÁNDEZ COX, Cristián; BROWNE, Enrique; COMAS, Carlos; MARIA, S. Maria;
 - LIERNUR, Francisco; DEWES, Ada; WAISMAN, Marina. Modernidad y postmodernidad en América Latina. Bogotá: Escala, 1991.
 - FONSECA JORGE, Pedro António. 2012. A célula mínima na experiência da habitação de custos controlados. Tese (Doutoramento em Arquitectura) – Faculdade de Arquitectura da Universidade do Porto, Porto.
-- FONSECA JORGE, Pedro António. A dinâmica do espaço na habitação mínima. Arquitextos, São Paulo, ano 14, n. 157.01, Vitruvius, jun. 2013 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/14.157/4804&gt;.
+- FONSECA JORGE, Pedro António. A dinâmica do espaço na habitação mínima. Arquitextos, São Paulo, ano 14, n. 157.01, Vitruvius, jun. 2013 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/14.157/4804">http://www.vitruvius.com.br/revistas/read/arquitextos/14.157/4804</a>&gt;
 - GIEDION, Sigfried. Espaço, Tempo e Arquitetura. São Paulo: Martins Fontes, 2004.
 - KOPP, Anatole. Quando o moderno não era um estilo e sim uma causa. São Paulo: EditoraNobel; 1ª edição, 1990. O. Paz, “El espejo indiscreto”, en El ogro filantrópico. Historia y política: 1971-1978 , México, Joaquín Mortiz, 1979.

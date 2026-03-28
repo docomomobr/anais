@@ -73,7 +73,7 @@ palavras-chave:
 - CHAVES, Carolina. João Pessoa (PB) e Aracaju (SE): sobre processos de modernização e Arquitetura Moderna. Thésis, Rio de Janeiro, v. 2, n. 3, p. 158-179, jan. /out. 2017.
 - CUSTÓDIO, Luiz Antônio Bolcato. Educação Patrimonial: experiências. In: BARRETO, Euder Arrais et. al. Patrimônio Cultural e Educação: artigos e resultados. Goiânia: Marques e Bueno Ltda, 2010, p.23- 36.
 - DROPA, Marcia Maria; OLIVEIRA, Rita de Cassia da Silva; SOUZA, Luiz Fernando de.
-- LARA, Larissa Mongruel Martins. A Educação Patrimonial como Instrumento Efetivo na Preservação do Patrimônio Cultural. In: Anais do X Fórum Internacional de Turismo do Iguassu, 2016, Foz do Iguaçu. Disponível em: &lt;https://www.anaisforumturismoiguassu.com.br/2018/09/anais-2016.html&gt;. Acesso em 03 jun. 2019.
+- LARA, Larissa Mongruel Martins. A Educação Patrimonial como Instrumento Efetivo na Preservação do Patrimônio Cultural. In: Anais do X Fórum Internacional de Turismo do Iguassu, 2016, Foz do Iguaçu. Disponível em: &lt;<a href="https://www.anaisforumturismoiguassu.com.br/2018/09/anais-2016.html">https://www.anaisforumturismoiguassu.com.br/2018/09/anais-2016.html</a>&gt; Acesso em 03 jun. 2019.
 - FILHA, Maria B. M.; OLIVEIRA, Fernanda. R. Novas Práticas de Educação Patrimonial. In: Educação patrimonial: reflexões e práticas. / Átila Bezerra Tolentino (Org.) – João Pessoa: Superintendência do Iphan na Paraíba, 2012.
 - FLORÊNCIO, S.; CLEROT, P.; BEZERRA, J.; RAMASSOTE, R. Educação Patrimonial: histórico, conceitos e processos. Brasília, DF: IPHAN; DAF; COGEDIP; Ceduc, 2014.
 - HEIDTMANN JUNIOR, Douglas E. D; ROSA, Débora. Comunidade Retrô: luz, câmera e valorização do patrimônio cultural de Laguna-SC. Udesc em Ação, v. 8, p. 25, 2014.

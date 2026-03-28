@@ -62,7 +62,7 @@ palavras-chave:
 - AFONSO, Alcilia. O processo de industrialização na década de 1960 e as transformações da paisagem urbana do bairro da prata, em Campina Grande. Barcelona: Seminário internacional de investigação em urbanismo. UPC. 2017.
 - AFONSO, Alcília. Proposta metodológica para pesquisa arquitetônica patrimonial. Belo Horizonte: 3º simpósio científico do ICOMOS Brasil. 2019.
 - AFONSO, A e MENEZES, C. A Influência da escola do recife na arquitetura de Campina Grande 1950-1970. Belo Horizonte: 4º Seminário Ibero americano Arquitetura e Documentação, 2015.
-- ARAÚJO, Adriano e SOUSA, Emmanuel. Memória: Tertuliano Dionísio da Silva. Campina Grande, 04 mai. 2010. Disponível em: &lt; http://www.cgretalhos.blogspot.com/2010/05/memoria-tertuliano- dionisio-da-silva.html&gt;. Acesso em: 22 out. 2018.
+- ARAÚJO, Adriano e SOUSA, Emmanuel. Memória: Tertuliano Dionísio da Silva. Campina Grande, 04 mai. 2010. Disponível em: &lt;<a href="http://www.cgretalhos.blogspot.com/2010/05/memoria-tertuliano-">http://www.cgretalhos.blogspot.com/2010/05/memoria-tertuliano-</a>&gt; dionisio-da-silva.html&gt;. Acesso em: 22 out. 2018.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Ed. Perspectiva,2010.
 - CARVALHO, J. e FREIRE, A. Almeida. Augusto Reynaldo, introdutor e difusor da arquitetura residencial moderna em Campina Grande-PB. João Pessoa: 3° Seminário DOCOMOMO Norte- Nordeste. 2010.
 - MONTANER, Josep. As formas do século XX. Barcelona: Gustavo Gili, 2002. 82 p.

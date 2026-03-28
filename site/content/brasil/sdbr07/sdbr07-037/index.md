@@ -38,7 +38,7 @@ authors:
     familyname: "Vidal"
     orcid: "0000-0001-5014-1301"
 doi: "10.5281/zenodo.19072567"
-zenodo_pdf_url: "https://zenodo.org/records/19072568/files/sdbr07-037.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285528/files/sdbr07-037.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
@@ -57,7 +57,7 @@ palavras-chave:
 - BRITO, Francisco Saturnino Rodrigues de. Saneamento de Paraíba do Norte, in Obras Completas, tomo V. Rio de Janeiro: Imprensa Nacional, 1943.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. 3 ed. São Paulo: Perspectiva, 1997.
 - CAVALCANTI, Lauro. Moderno e brasileiro: A história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar Editor, 2006
-- CAVLCANTI, L. e LAGO, A.C. Ainda moderno? Arquitetura brasileira contemporânea. São Paulo: Vitruvius, 2005. Disponível em:http://www.vitruvius.com.br/arquitextos/arq066/arq066_00.asp Acesso em 29 de abril de 2007.
+- CAVLCANTI, L. e LAGO, A.C. Ainda moderno? Arquitetura brasileira contemporânea. São Paulo: Vitruvius, 2005. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq066/arq066_00.asp">http://www.vitruvius.com.br/arquitextos/arq066/arq066_00.asp</a>&gt; Acesso em 29 de abril de 2007.
 - CHOAY, Françoise. O Urbanismo: utopias e realidades. Uma antologia. 5 ed. São Paulo: Perspectiva, 1998. CINCO anos de governo: reportagem das festas do quinto aniversário do governo Argemiro de Figueiredo e uma síntese das suas impressionantes realizações sociais e econômicas. João Pessoa: Departamento Estadual de Estatística, 1940. COMISSÃO do plano da cidade. A União, 18. maio 1932.
 - COUTINHO, Marco Antonio Farias. Evolução urbana e qualidade de vida: o caso da avenida Epitácio Pessoa. João Pessoa: UFPB, 2004. (Dissertação de Mestrado).
 - CRUZ, João Claudino de Oliveira. Melhoramentos da Capital da Parahyba. Revista do Instituto Histórico e Geográfico Paraibano, Vol. 7, 1932.

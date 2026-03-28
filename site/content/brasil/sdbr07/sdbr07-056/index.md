@@ -57,7 +57,7 @@ palavras-chave:
 - BANHAM, Reyner. Design by Choice. The Architectural Review, Londres, pp. 43-48, julho de 1961.
 - BANHAM, Reyner. A clip-on architecture. Architectural Design, Londres, pp. 534-535, novembro de 1965.
 - BANHAM, Reyner. The Great Gizmo (1965). In: Mary Banham et.al., (eds.), A Critic Writes, Essays by Reyner Banham, Berkeley: University of California Press, 1996, pp. 109-118.
-- CABRAL, Cláudia Piantá Costa. Grupo Archigram: 1961-1974. Uma fábula da técnica. Barcelona: UPC, Tese doutoral, 2001. Disponível em:&lt; http://www.tdx.cesca.es/TDX-0219104-183033/&gt;
+- CABRAL, Cláudia Piantá Costa. Grupo Archigram: 1961-1974. Uma fábula da técnica. Barcelona: UPC, Tese doutoral, 2001. Disponível em: &lt;<a href="http://www.tdx.cesca.es/TDX-0219104-183033/">http://www.tdx.cesca.es/TDX-0219104-183033/</a>&gt;
 - CABRAL, Cláudia Piantá Costa. Plug-in City: em algum lugar do passado, era uma vez um futuro. ARQTexto, Porto Alegre, n. 3-4, pp. 52-65, 2003.
 - COLE, Barbie Campbell; ROGERS, Ruth Elias, (eds.) Richard Rogers+Architects, Architectural Monographs. Londres: Academy Editions, 1985.
 - COOK, Peter. Architecture: action and plan. Londres: Studio Vista, 1967.

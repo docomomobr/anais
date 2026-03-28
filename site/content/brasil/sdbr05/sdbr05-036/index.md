@@ -58,7 +58,7 @@ palavras-chave:
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CASTILHO, Maria Estela e Costa, Eunice R. Ribeiro. Índice de Arquitetura Brasileira 1950-1970. São Paulo: FAU-USP, 1974.
 - CORONA, Eduardo; LEMOS, Carlos; XAVIER, Alberto. Arquitetura moderna paulistana. São Paulo: Pini, 1983.
-- GIMENEZ, Luis Espallargas. “O melhor detalhe é aquele que não se vê.” Disponível em: http://www.vitruvius.com.br. Acesso em 10/11/2002. INSTITUTO P.M. e LINA BO BARDI; FUNDAÇÃO VILANOVA ARTIGAS. Vilanova Artigas. São Paulo: Instituto P.M. e Lina Bo Bardi, 1997.
+- GIMENEZ, Luis Espallargas. “O melhor detalhe é aquele que não se vê.” Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em 10/11/2002. INSTITUTO P.M. e LINA BO BARDI; FUNDAÇÃO VILANOVA ARTIGAS. Vilanova Artigas. São Paulo: Instituto P.M. e Lina Bo Bardi, 1997.
 - KAMITA, João Massao. Vilanova Artigas. São Paulo: Cosac & Naify, 2000.
 - MINDLIN, Henrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.
 - OHTAKE, Ruy. Arquiteto Ruy Ohtake: 15 anos de atividade. Cadernos de arquitetura brasileira n. 1 e 2. São Paulo: Projeto, 1976.
@@ -66,11 +66,11 @@ palavras-chave:
 - PENTEADO, Fabio. Fábio Penteado: Ensaios de Arquitetura. São Paulo: Empresa das Artes, 1998.
 - PEREIRA, Miguel Alves; SAWAYA, Sylvio (org.). Cadernos de Arquitetura. FAUUSP. Pesquisa. Registro do pensamento e da produção dos arquitetos professores da FAUUSP, nos últimos 25 anos. São Paulo: Pini; FUPAM, 2001. 4 v.
 - PIÑÓN, Helio. Paulo Mendes da Rocha. São Paulo: Romano Guerra, 2002.
-- PONTES, Ana Paula. “Sergio Bernardes e Eduardo de Almeida : arquitetura que ensina.” Disponível em: http://www.vitruvius.com.br. Acesso em 10/11/2002.
+- PONTES, Ana Paula. “Sergio Bernardes e Eduardo de Almeida : arquitetura que ensina.” Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em 10/11/2002.
 - ROSALES, Mario Arturo Figueroa. Habitação coletiva em São Paulo. 1928-1972. Tese de Doutorado. Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo. São Paulo, 2002.
 - ROSSI, Aldo. Arquitetura da Cidade. São Paulo: Martins Fontes, 1995.
 - ROSSO, Teodoro. Teoria e Prática da Coordenação Modular. São Paulo: FAUUSP, 1976.
-- SABBAG, Haifa. “Eduardo de Almeida: uma arquitetura na sombra.” Disponível em: http://www.vitruvius.com.br. Acesso em 10/11/2002.
+- SABBAG, Haifa. “Eduardo de Almeida: uma arquitetura na sombra.” Disponível em: &lt;<a href="http://www.vitruvius.com.br">http://www.vitruvius.com.br</a>&gt; Acesso em 10/11/2002.
 - SANOVICZ, Abrahão. Projeto e produção: por uma aproximação metodológica. Tese de Doutorado. Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo. São Paulo, 1972.
 - SANOVICZ, Abrahão. Sistematização Crítica da Obra de Arquitetura para a Obtenção do Título de Livre Docente. Tese de Livre Docência. Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo. São Paulo, 1997.
 - SANVITTO, Maria Luiza Adams. "Brutalismo Paulista: o discurso e a obra." In: Revista Projeto, n.207, pp. 92 – 97, abr 1997.

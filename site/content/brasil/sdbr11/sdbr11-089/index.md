@@ -60,7 +60,7 @@ palavras-chave:
 - HUXTABLE, Ada Louise. The Tall Building Artistically Reconsidered, a history of the skyscraper. Nova York: Pantheon books, 1984.
 - KHAN, P.R., Evolution of Structural Systems for High Rise Buildings in Steel and Concrete. In: Seminar on the Design of Tall Buildings, Nova York, 1973
 - KOROM JR, Joseph. J. The American Skyscraper 1850-1940: A Celebration of Height. Wellesley: Branden Books: 2008.
-- KUBO, Michael. The Concept of Architectural Corporation. Cambridge: MIT, 2014. pp 37-45. Disponível em: https://architecture.mit.edu/sites/architecture.mit.edu/files/attachments/lecture/OfficeUS-Kubo_Concept- Arch-Corp.pdf. Acesso em 10/11/2015.
+- KUBO, Michael. The Concept of Architectural Corporation. Cambridge: MIT, 2014. pp 37-45. Disponível em: &lt;<a href="https://architecture.mit.edu/sites/architecture.mit.edu/files/attachments/lecture/OfficeUS-Kubo_Concept-">https://architecture.mit.edu/sites/architecture.mit.edu/files/attachments/lecture/OfficeUS-Kubo_Concept-</a>&gt; Arch-Corp.pdf. Acesso em 10/11/2015.
 - LEATHERBARROW, David; MOSTAFAVI, Mohsen. Surface Architecture. Cambridge: MIT Press, 2002.
 - MUMFORD, LEWIS. “Buildings as Symbols”. New Yorker. Nova York, 1947.
 - PALERMO, H. Nicolás Sica. Forma y Tectonicidad: Estructura e Prefabricación en la obra de Gordon Bundshaft. (tese de doutorado). Barcelona: UPC, 2012.

@@ -60,8 +60,8 @@ palavras-chave:
 ## Referências
 
 - CASTRIOTA, Leonardo Barci. Tecnologia digital e acessibilidade: a Rede Latinoamericana de Acervo de Arquitetura e Urbanismo (RELARQ). Universidade de La Salle: Sigrad MX, 2007.pp.200-204.
-- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano in Arquitextos Vitruvius ano 01, n. 008.08, 2001, Disponível em &lt;http://vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt&gt; Acesso em 12 abr 2013.
+- GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano in Arquitextos Vitruvius ano 01, n. 008.08, 2001, Disponível em &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt">http://vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt</a>&gt; Acesso em 12 abr 2013.
 - MUÑOZ-VIÑAS, Salvador. Contemporary Theory of Conservation. London: Routledge, 2004.
 - OLIVEIRA, Patrícia, PERES, Clara, GOMES, Camilla, NASLAVSKY, Guilah. Digitalização e Preservação do Patrimônio Iconográfico de Arquitetura O Caso de Recife. Anais Docomomo Norte Nordeste. Natal: UFRN, 2012
 - PEYCERÉ, David. Propositions de tri dans un dossier de projet. La Gazette des archives (Association des archivistes français), n° 190-191, 3e et 4e trimestres 2000, p. 233-246.
-- VIANA, Cláudio Muniz. A organização da informação arquivística em arquivos de arquitetura do Núcleo de Pesquisa e Documentação da Faculdade de Arquitetura e Urbanismo - UFRJ. Revista Eletrônica de Biblioteconomia e Ciência da Informação. Florianópolis, n. esp. 2011 Disponível em: &lt;https://periodicos.ufsc.br/index.php/eb/article/view/1518-2924.2011v16nesp1p23&gt; Acesso em 6 Jan. 2015
+- VIANA, Cláudio Muniz. A organização da informação arquivística em arquivos de arquitetura do Núcleo de Pesquisa e Documentação da Faculdade de Arquitetura e Urbanismo - UFRJ. Revista Eletrônica de Biblioteconomia e Ciência da Informação. Florianópolis, n. esp. 2011 Disponível em: &lt;<a href="https://periodicos.ufsc.br/index.php/eb/article/view/1518-2924.2011v16nesp1p23">https://periodicos.ufsc.br/index.php/eb/article/view/1518-2924.2011v16nesp1p23</a>&gt; Acesso em 6 Jan. 2015

@@ -102,6 +102,6 @@ palavras-chave:
 - PORTINARI, João Cândido et. al. Portinari: coleção do Museu Nacional de Belas Artes. Rio de Janeiro: MNBA, 2014.
 - QUEIROZ, Rodrigo Cristiano. Oscar Niemeyer e Le Corbusier: Encontros. Tese doutoral.
 - FAUUSP, Universidade de São Paulo, 2007.
-- SCHLEE, Andrey Rosenthal. De obeliscos e espetos. MDC, Revista de arquitetura e urbanismo, janeiro de 2009. Disponível em: https://mdc.arq.br/2009/01/28/de-obeliscos-e-espetos/. Acesso em 20 jun. 2018.
+- SCHLEE, Andrey Rosenthal. De obeliscos e espetos. MDC, Revista de arquitetura e urbanismo, janeiro de 2009. Disponível em: &lt;<a href="https://mdc.arq.br/2009/01/28/de-obeliscos-e-espetos/">https://mdc.arq.br/2009/01/28/de-obeliscos-e-espetos/</a>&gt; Acesso em 20 jun. 2018.
 - TORRES, Fidel; VERA, Rodrigo; ARIAS, Luis. América es la casa. Arte mural y espacio público en Chillán. Chillán: Consejo Nacional de la Cultura y las Artes, 2011.
 - TYRWHITT,; SERT, J.L.; ROGERS, E.N. CIAM 8. The Heart of the City: towards humanization of urban life. London: Lund Humphries, 1952.

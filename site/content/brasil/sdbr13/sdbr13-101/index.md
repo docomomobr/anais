@@ -55,7 +55,7 @@ palavras-chave:
 
 ## Referências
 
-- ALLOA, Emmanuel. Entre a transparência e a opacidade – o que a imagem dá a pensar. IN: ALLOA, Emmanuel (Org.). Pensar a imagem. Belo Horizonte, Autêntica, 2015. pp 7-­19. BERNERS-­LEE, Tim. 30 years on, what’s next #ForTheWeb? Worls Wide Web Foundation. March 12, 2019. Disponível em: https://webfoundation.org/2019/03/web-­birthday-­30/. Acesso em: 5 de junho de 2019.
+- ALLOA, Emmanuel. Entre a transparência e a opacidade – o que a imagem dá a pensar. IN: ALLOA, Emmanuel (Org.). Pensar a imagem. Belo Horizonte, Autêntica, 2015. pp 7-­19. BERNERS-­LEE, Tim. 30 years on, what’s next #ForTheWeb? Worls Wide Web Foundation. March 12, 2019. Disponível em: &lt;<a href="https://webfoundation.org/2019/03/web-­birthday-­30/">https://webfoundation.org/2019/03/web-­birthday-­30/</a>&gt; Acesso em: 5 de junho de 2019.
 - BENJAMIN, Walter.
 - BOHRER, Glenio Viana;; CANEZ, Anna Paula;; COMAS, Carlos Eduardo. Aperfeiçoamento tipológico, referência contextual e arquitetura moderna: o Hipódromo do Jockey Club do Rio Grande do Sul, 1951-­
 - DELEUZE, GILLES. Cinema 2: A Imagem Tempo. São Paulo: Brasiliense, 2005. Ed. Original: Cinéma 2: L’image-­temps, 1985. DIDI-­HUBERMAN, George. Devant le temps: histoire de l’art et anachronisme des images. Paris: Les Éditions de Minuit, 2000.
@@ -67,8 +67,8 @@ palavras-chave:
 - KRAUSS, Rosalind. Sculpture in the expanded field. October, Vol. 8. (Spring, 1979), pp. 30-­44. The
 - KRAUSS, Rosalind. Welcome to the cultural revolution. October, Vol. 77. (Summer, 1996), pp. 83-­96. The MIT Press.
 - MAIA, Guilherme Rene. Jockey Club do Rio Grande do Sul: patrimônio moderno e requalificação urbana. Orientador: Carlos Eduardo Dias Comas. 2012. 145f. Dissertação (Mestrado em Arquitetura), Universidade Federal do Rio Grande do Sul, Programa de Pós-­Graduação em Arquitetura, Porto Alegre, 2012.
-- MITCHELL, W. J. T. What Do Pictures “Really” Want? October, Vol. 77. (Summer, 1996), pp. 71-­82. The MIT Press. DOI: 10.2307/778960 https://www.jstor.org/stable/778960 Acessado em: 29-­05-­2019
+- MITCHELL, W. J. T. What Do Pictures “Really” Want? October, Vol. 77. (Summer, 1996), pp. 71-­82. The MIT Press. DOI: 10.2307/778960 &lt;<a href="https://www.jstor.org/stable/778960">https://www.jstor.org/stable/778960</a>&gt; Acessado em: 29-­05-­2019
 - OLIVEIRA, Ana Luiza Valle. Parecer de encaminhamento da instrução de tombamento nacional do Hipódromo do Cristal. Processo nº 1.593-­T-­10 / IPHAN.
 - RECENA, Maria Paula Piazza. Espaço e Memória: geometrias desfocadas. Orientador: Flávio Gonçalves. 2005. 139f. Dissertação (Mestrado em Poéticas Visuais), Universidade Federal do Rio Grande do Sul, Programa de Pós-­Graduação em Artes Visuais, Porto Alegre, 2005.
 - SYNENKO, Joshua. Andreas Huyssen and the genre of historical memory. Historical textures of translation: traditions, traumas, transgressions. Markus Reisenleitner and Susan Ingram (Editors). Mille Tre Verlag,
-- Vienna (Austria), 2012. ISBN 978-­3-­900198-­30-­5. Disponível em: https://www.academia.edu/9999810/Andreas_Huyssen_and_the_Genres_of_Historical_Memory_In_T he_Historical_Textures_of_Translation_Traditions_Traumas_and_Transgressions_Eds._Susan_Ingra m_and_Markus_Reisenleitner_Mille-­_Tre-­Verlag_2012_33-­59 Acesso em: 29/05/2019.
+- Vienna (Austria), 2012. ISBN 978-­3-­900198-­30-­5. Disponível em: &lt;<a href="https://www.academia.edu/9999810/Andreas_Huyssen_and_the_Genres_of_Historical_Memory_In_T">https://www.academia.edu/9999810/Andreas_Huyssen_and_the_Genres_of_Historical_Memory_In_T</a>&gt; he_Historical_Textures_of_Translation_Traditions_Traumas_and_Transgressions_Eds._Susan_Ingra m_and_Markus_Reisenleitner_Mille-­_Tre-­Verlag_2012_33-­59 Acesso em: 29/05/2019.

@@ -64,9 +64,9 @@ palavras-chave:
 - AALTO, Elissa e FLEIG, Karl. Alvar Aalto. Martins Fontes: São Paulo, 2001.
 - ALVES, Ivo Rui Guerra. Viagens às Curvas dos Lagos da Finlândia. Dissertação do Departamento de Arquitetura da Universidade de Coimbra. Julho de 2019.
 - ARÍS, Carlos Martí. Las Variaciones de la Identidad. Ensayo sobre el Tipo em Arquitectura. Fundación Arquia, ETSAB: Barcelona, 2014.
-- BABO, Constança. Álvaro Siza: Visões de Alhambra. In: http://artecapital.net/arq_des-139-alvaro-siza- visoes-da-alhambra. Último acesso: 18 abr 2023
+- BABO, Constança. Álvaro Siza: Visões de Alhambra. In: &lt;<a href="http://artecapital.net/arq_des-139-alvaro-siza-">http://artecapital.net/arq_des-139-alvaro-siza-</a>&gt; visoes-da-alhambra. Último acesso: 18 abr 2023
 - CAPITEL, Antón. La Arquitectura del Patio. Editorial Gustavo Gili: Barcelona, 2005.
 - LOPES, Nelson Filipe Ferreira. O arquétipo do Pátio no Edifício Contemporâneo. Tese de Mestrado em Arquitetura. Orientação de Antonio Sérgio Koch. Universidade Lusófona do Porto. Dezembro de 2018.
 - SIZA Álvaro e MURO, Charles (org.). Ecrits. Ediciones UPC: Barcelona, 1994.
 - PAATERO, Kristiina. Alvar Aalto em sete edifícios. Lisboa: CCB, 1999.
-- Entrevista concedida por Álvaro Siza a Hernan Lascano, em setembro de 2001, ao Jornal El Litoral. In: https://www.ellitoral.com/index.php/diarios/2001/09/01/politica/POLI-03.html. Último acesso em 18 abr 2023.
+- Entrevista concedida por Álvaro Siza a Hernan Lascano, em setembro de 2001, ao Jornal El Litoral. In: &lt;<a href="https://www.ellitoral.com/index.php/diarios/2001/09/01/politica/POLI-03.html">https://www.ellitoral.com/index.php/diarios/2001/09/01/politica/POLI-03.html</a>&gt; Último acesso em 18 abr 2023.

@@ -46,16 +46,16 @@ palavras-chave:
 
 ## Referências
 
-- BRESSAN, Maria Lucia. Dilemas na Preservação da Arquitetura Moderna O Edifício da Faculdade de Arquitetura da USP. Docomomo 5. Disponível em: &gt;&gt;http://docomomo.org.br/wp- content/uploads/2016/01/106R.pdf&lt;&lt;
+- BRESSAN, Maria Lucia. Dilemas na Preservação da Arquitetura Moderna O Edifício da Faculdade de Arquitetura da USP. Docomomo 5. Disponível em: &gt;&gt; &lt;<a href="http://docomomo.org.br/wp-">http://docomomo.org.br/wp-</a>&gt; content/uploads/2016/01/106R.pdf&lt;&lt;
 - CHAVES, Klaus. Três Projetos para uma Universidade do Brasil. Dissertação.
 - COSTA, Lúcio. Lúcio Costa: Registro de uma Vivência. São Paulo: Empresa das Artes, 1995.
 - CZAJKOWSKI, Jorge Paul (org.). Jorge Machado Moreira. Rio de Janeiro: Centro de Arquitetura e Urbanismo do Rio de Janeiro, 1999.
-- ICOMOS. Madrid Document. 2014. Disponível em: &gt;&gt;http://www.icomos- isc20c.org/pdf/MDversionportugese.pdf&lt;&lt; Acesso em: 23/06/2021.
+- ICOMOS. Madrid Document. 2014. Disponível em: &gt;&gt; &lt;<a href="http://www.icomos-">http://www.icomos-</a>&gt; isc20c.org/pdf/MDversionportugese.pdf&lt;&lt; Acesso em: 23/06/2021.
 - ESCRITÓRIO TÉCNICO DA CIDADE UNIVERSITÁRIA DA UNIVERSIDADE DO BRASIL. Anuário 1961: Faculdade Nacional de Arquitetura. Rio de Janeiro, 1961.
 - FEFERMAN, Carlos. A Cidade Linear: representações de um modelo no início do século XX. (Tese). Rio de Janeiro: FAU, UFRJ, 2007.
-- JARDIM, Paulo. Edifício Jorge Machado Moreira e o Movimento Moderno em Chamas. Disponível em: &gt;&gt;http://cadernos.proarq.fau.ufrj.br/public/docs/Proarq31%20ART%2001%20ancora.pdf&lt;&lt; Acesso em 23/06/2021.
+- JARDIM, Paulo. Edifício Jorge Machado Moreira e o Movimento Moderno em Chamas. Disponível em: &gt;&gt; &lt;<a href="http://cadernos.proarq.fau.ufrj.br/public/docs/Proarq31%20ART%2001%20ancora.pdf&lt;&lt;">http://cadernos.proarq.fau.ufrj.br/public/docs/Proarq31%20ART%2001%20ancora.pdf&lt;&lt;</a>&gt; Acesso em 23/06/2021.
 - JARDIM, Paulo (coord.) Et. Ali. Edifício Jorge Machado Moreira: Plano Diretor de Recuperação, Melhorias e Manutenção. Rio de Janeiro: FAU UFRJ, 2011.
-- MACDONALD, Susan. Modern Matters: Breaking the Barriers to Conserving Modern Heritage.Disponível em: &gt;&gt;https://www.getty.edu/conservation/publications_resources/newsletters/pdf/v28n1.pdf&lt;&lt; Acesso em 23/06/2021.
+- MACDONALD, Susan. Modern Matters: Breaking the Barriers to Conserving Modern Heritage.Disponível em: &gt;&gt; &lt;<a href="https://www.getty.edu/conservation/publications_resources/newsletters/pdf/v28n1.pdf&lt;&lt;">https://www.getty.edu/conservation/publications_resources/newsletters/pdf/v28n1.pdf&lt;&lt;</a>&gt; Acesso em 23/06/2021.
 - MACDONALD, Susan. Et al. Conservation of Modern Architecture. Routledge, 2013.
 - PEREIRA, Margareth. Et. al. Le Corbusier e o Brasil. São Paulo: Tessela; Projeto, 1987.
 - PRUDON, Theodore. Preservation of Modern Architecture. Wiley, 2008.

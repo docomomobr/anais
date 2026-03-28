@@ -65,7 +65,7 @@ palavras-chave:
 - CONCOURS du Jockey Club Brésilien. L’architecture d’Aujourd’Hui, Paris, n. 21. nov./ dez. 1948, p. 64-65.
 - DIÁRIO EDUCACIONAL. Congresso Pan-Americano de Estudantes de Arquitetura. Correio da Manhã, Rio de Janeiro, 11 abr. 1956, p. 11.
 - EMPRESAS privadas dão solução para lixo na cidade. Jornal do Brasil, Rio de Janeiro, 24 set. 1972, p. 40.
-- ENTREVISTA com a Arquiteta Lygia Fernandes, maio 2002. Disponível em: &lt;https://marcosocosta.wordpress.com/2010/12/24/entrevista-com-lygia-fernandes/&gt;. Acesso em: 15 maio 2018.
+- ENTREVISTA com a Arquiteta Lygia Fernandes, maio 2002. Disponível em: &lt;<a href="https://marcosocosta.wordpress.com/2010/12/24/entrevista-com-lygia-fernandes/">https://marcosocosta.wordpress.com/2010/12/24/entrevista-com-lygia-fernandes/</a>&gt; Acesso em: 15 maio 2018.
 - FERNANDES, Lygia. Maison de Week-end a Tijuca. L’architecture d’Aujourd’Hui, Paris, n. 42-43, ago. 1952, p. 74.
 - FERNANDES, Lygia. Residência Dr. Paulo Netto. Arquitetura e Engenharia, Belo Horizonte, n. 35, abr./jun. 1955a, p. 12-17.
 - FERNANDES, Lygia. Residência do Dr. José Lyra. Arquitetura e Engenharia, Belo Horizonte, n. 35, abr./jun. 1955b, p. 21-23.

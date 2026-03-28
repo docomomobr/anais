@@ -69,6 +69,6 @@ palavras-chave:
 - SILVA,PAULA. Conservar, uma questão de decisão: Um procedimento para o julgamento na conservação do edifício da arquitetura moderna. Recife: Editora Universitária UFPE, 2012.
 - TAVARES, Arthur. Reflexões sobre a Noção de Tipo Morfológico e o Programa Arquitetônico: Os Casos das Escolas Municipais Estados Unidos e Republica Argentina. 2005. 201f. Tese (Mestrado em Arquitetura)- Universidade Federal do Rio de Janeiro, Rio de Janeiro, 2005.
 - UNESCO. Orientações técnicas para aplicação da conservação do patrimônio mundial. 2008 disponível em: &lt;whc.unesco.org/archive/opguide13-pt.docx&gt; Acessado em: 30 mai. 2014.
-- RUSSELL, R. & WINKWORTH, K. Significance: a Guide to Assessing the Significance of Cultural Heritage Objects and Collections. Heritage Collections Council. Canberra, 2001. Disponível em: &lt;http://www.collectionsaustralia.net/sector_info_item/5&gt;. Acesso em 15 mar. 2014.
+- RUSSELL, R. & WINKWORTH, K. Significance: a Guide to Assessing the Significance of Cultural Heritage Objects and Collections. Heritage Collections Council. Canberra, 2001. Disponível em: &lt;<a href="http://www.collectionsaustralia.net/sector_info_item/5">http://www.collectionsaustralia.net/sector_info_item/5</a>&gt; Acesso em 15 mar. 2014.
 - RUSSELL, R. Metodologia para orientação no julgamento das decisões de conservação de edifícios modernos. In:
 - ZANCHETI, Sílvio Mendes (ORG.). Indicadores de Conservação e Sustentabilidade na Cidade Patrimonial. Olinda:

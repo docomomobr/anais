@@ -70,7 +70,7 @@ palavras-chave:
 - DOCOMOMO Internacional. The Modern Movement in Architecture. Selections from the DOCOMOMO Registers. In: SHARP, Dennis & COOKE, Catherine (ORG). Rotterdam: 010 Publishers Rotterdam, 2000.
 - FRAMPTON, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 2008.
 - GIEDION, Sigfried. Espaço, Tempo e Arquitetura. O Desenvolvimento de uma Nova Tradição. São Paulo: Martins Fontes, 2004.
-- ICOMOS, 1964. Venice Charter. Disponível em http://www.international.icomos.org/e_venice.htm Acessado em 26 de outubro de 2008.
+- ICOMOS, 1964. Venice Charter. Disponível em &lt;<a href="http://www.international.icomos.org/e_venice.htm">http://www.international.icomos.org/e_venice.htm</a>&gt; Acessado em 26 de outubro de 2008.
 - KÜHL, Beatriz Mugayar. Restauração Hoje: Método, Projeto e Criatividade. Desígnio, São Paulo, v.1, n.6, p. 19- 34, setembro. 2006.
 - MACDONALD, Suzan. Reconciling Authenticity and Repair in the Conservation of Modern Architecture. In:
 - MACDONALD, Susan (ORG). Modern Matters. Principles and Practice in Conserving Recent Architecture. Dorset: Donhead Publishing, 1996. P. 87-100.
@@ -79,10 +79,10 @@ palavras-chave:
 - MONTANER, Josep Maria. Depois do Movimento Moderno: Arquitetura da Segunda Metade do Século XX. Lisboa: Gustavo Gili GG, 2001.
 - MOREIRA, Fernando & NASLAVSKY, Guilah. Valores da Arquitetura Moderna. Recife-PE: I Curso Latino Americano sobre a Conservação da Arquitetura Moderna (MARC/AL), 2009. Notas de aula. MUÑOZ-VIÑAS, Salvador. Contemporary Theory of Conservation. Oxford: Elsevier Butterworth-Heinemann. 2005.
 - OVERY, Paul. Light, Air and Openness. Modern Architecture between the Wars. Londres: Thames & Hudson Ltd, 2007
-- PARK, Sharon C. Respecting significance and keeping integrity: approaches to rehabilitation. APT Bulletin, vol.37, n.4, 2006. Association for Preservation Technology International. Disponível em &lt;http://www.jstor.org/pss/40004145 &gt;. Acesso em 18 de setembro de 2008.
+- PARK, Sharon C. Respecting significance and keeping integrity: approaches to rehabilitation. APT Bulletin, vol.37, n.4, 2006. Association for Preservation Technology International. Disponível em &lt;<a href="http://www.jstor.org/pss/40004145">http://www.jstor.org/pss/40004145</a>&gt; &gt;. Acesso em 18 de setembro de 2008.
 - PIRES, Álvaro P. Amostragem e Pesquisa Qualitativa: Ensaio Teórico e Metodológico. In: Vários autores. A Pesquisa qualitativa. Enfoques epistemológicos e metodológicos. Petrópolis: Editora Vozes. 2008. P. 154-211.
 - PRUDON, Theodoree H.M. Preservation of Modern Architecture. New Jersey: John Wiley & Sons, Inc. 2008.
-- UNESCO, WORLD HERITAGE CENTRE. Operational Guidelines for the implementation of the World Heritage Convention. Paris, 2005. Disponível em &lt;http://whc.unesco.org/archive/opguide05-en.pdf&gt; Acesso em 18 de abril de 2009.
-- UNESCO, WORLD HERITAGE CENTRE. Operational Guidelines for the Implementation of the World Heritage Convention. Paris, 2008. Disponível em &lt;http://whc.unesco.org/archive/opguide08-en.pdf&gt;. Acesso em 18 de abril de 2009.
-- UNESCO, WORLD HERITAGE COMMITTEE. Nara Document on Authenticity. Phuket, 1994. Disponível em &lt;http://whc.unesco.org/archive/nara94.htm&gt;. Acesso em 26 de outubro de 2008.
-- UNESCO, WORLD HERITAGE LIST. Disponível em http://whc.unesco.org/en/list/. Acesso em 15 de junho de 2011.
+- UNESCO, WORLD HERITAGE CENTRE. Operational Guidelines for the implementation of the World Heritage Convention. Paris, 2005. Disponível em &lt;<a href="http://whc.unesco.org/archive/opguide05-en.pdf">http://whc.unesco.org/archive/opguide05-en.pdf</a>&gt; Acesso em 18 de abril de 2009.
+- UNESCO, WORLD HERITAGE CENTRE. Operational Guidelines for the Implementation of the World Heritage Convention. Paris, 2008. Disponível em &lt;<a href="http://whc.unesco.org/archive/opguide08-en.pdf">http://whc.unesco.org/archive/opguide08-en.pdf</a>&gt; Acesso em 18 de abril de 2009.
+- UNESCO, WORLD HERITAGE COMMITTEE. Nara Document on Authenticity. Phuket, 1994. Disponível em &lt;<a href="http://whc.unesco.org/archive/nara94.htm">http://whc.unesco.org/archive/nara94.htm</a>&gt; Acesso em 26 de outubro de 2008.
+- UNESCO, WORLD HERITAGE LIST. Disponível em &lt;<a href="http://whc.unesco.org/en/list/">http://whc.unesco.org/en/list/</a>&gt; Acesso em 15 de junho de 2011.

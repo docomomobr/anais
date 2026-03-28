@@ -41,7 +41,7 @@ authors:
     familyname: "Corrêa Oliveira"
     orcid: "0000-0002-7420-4634"
 doi: "10.5281/zenodo.19074605"
-zenodo_pdf_url: "https://zenodo.org/records/19074606/files/sdbr11-048.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285609/files/sdbr11-048.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:

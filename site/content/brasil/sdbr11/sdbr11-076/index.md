@@ -66,4 +66,4 @@ palavras-chave:
 - TRIGUEIRO, Edja B. F. Arquitetura da Universidade Federal do Rio Grande do Norte. In: NEWTON JÚNIOR, Carlos et al. Portal da Memória: Universidade Federal do Rio Grande do Norte: 45 anos de federalização (1960‐ 2005). Brasília: Senado Federal, 2005. p. 45‐72.
 - UFRN ‐ Biblioteca Central: edifício em construção. Natal, RN: 1975. fot.: p&b, 18 x 24cm (Álbum 01).
 - UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE. UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE. Superintendência de Infraestrutura. Reforma e ampliação da Biblioteca Central Zila Mamede. 2008. 1 Prancha: color.
-- UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE. Portal da UFRN. Natal, 2015. Disponível em: &lt;http://www.sistemas.ufrn.br/portal/PT/institucional/localizacao/#.VaxY__le_Sc&gt; Acesso em: 18 jul. 2015.
+- UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE. Portal da UFRN. Natal, 2015. Disponível em: &lt;<a href="http://www.sistemas.ufrn.br/portal/PT/institucional/localizacao/#.VaxY__le_Sc">http://www.sistemas.ufrn.br/portal/PT/institucional/localizacao/#.VaxY__le_Sc</a>&gt; Acesso em: 18 jul. 2015.

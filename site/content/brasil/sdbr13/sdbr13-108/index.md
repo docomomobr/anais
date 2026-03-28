@@ -66,7 +66,7 @@ palavras-chave:
 - AVELAR, K. Histórico do bairro Bom Pastor. Divisão de Patrimônio Cultural: Juiz de Fora, 2017, pp.1- 16.
 - BARBOSA, Yuri Amaral. Espaço, história e cidade: Uma abordagem geográfica do processo urbano de Juiz de Fora na última década do século XIX. Dissertação de Mestrado. UFJF, 2016, 249 f.
 - BATISTA, Caio da Silva. Cotidiano e escravidão urbana na Paróquia de Santo Antônio do Juiz de Fora (MG), 1850-1888. Juiz de Fora: FUNALFA, 2015, 252p.
-- BRAGA, R. D. V.; LIMA, F. J. M. de. Presença da Arquitetura Moderna em Juiz de Fora: Projeto de Residência de Arthur Arcuri para a Rua Brás Bernadino. In: Docomomo, 2016, s/p. Disponível em: &lt;http://docomomo.org.br/wp-content/uploads/2016/01/130R.pdf&gt;. Acesso em 22 mar. 2019.
+- BRAGA, R. D. V.; LIMA, F. J. M. de. Presença da Arquitetura Moderna em Juiz de Fora: Projeto de Residência de Arthur Arcuri para a Rua Brás Bernadino. In: Docomomo, 2016, s/p. Disponível em: &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/130R.pdf">http://docomomo.org.br/wp-content/uploads/2016/01/130R.pdf</a>&gt; Acesso em 22 mar. 2019.
 - DELGADO, Ignácio Godinho. Resenha: A “Europa dos Pobres” – a belle èpoque mineira. Locus, Revista de História: v. 1 n. 1 (1995), p.153-156.
 - DUARTE, A. C. Arquitetura Moderna - Juiz de Fora. Juiz de Fora: Funalfa, 2017, 204p.
 - DUARTE, Felipe Marinho. Desenvolvimento econômico e expansão urbana: Juiz de Fora (1850-1900). Revista discente do Programa de Pós-Graduação em História UFJF. Vol 1, n.1, jan-jun. 2015, pp.58-70.
@@ -76,7 +76,7 @@ palavras-chave:
 - RODRIGUES, A. de S. R. A produção do espaço urbano de Juiz de Fora/MG: Dinâmicas imobiliárias e novas centralidades. Tese de dourado. Belo Horizonte: Universidade Federal de Minas Gerais, 2013, 291p.
 - SANTANA, R.; PUGLIESI, S. Arquitetura Moderna em Juiz de Fora: a contribuição de Arthur Arcuri. Juiz de Fora: FUNALFA, 2002.
 - SANTOS, M. da G. Arquitetura Moderna Brasileira, dos pioneiros a Brasília (1925-1960). In: Revista da Vinci, Curitiba, v. 3, n. 1, 2006, p. 37-56.
-- VIEIRA, Bernardo da Silva. A composição arquitetônica nas residências de Arthur Arcuri. Arquitextos, São Paulo, ano 12, n. 142.06, Vitruvius, mar. 2012. Disponível em:&lt;http://www.vitruvius.com.br/revistas/read/arquitextos/12.142/4270&gt;. Acesso em: 10/06/2019. Fontes
+- VIEIRA, Bernardo da Silva. A composição arquitetônica nas residências de Arthur Arcuri. Arquitextos, São Paulo, ano 12, n. 142.06, Vitruvius, mar. 2012. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/12.142/4270">http://www.vitruvius.com.br/revistas/read/arquitextos/12.142/4270</a>&gt; Acesso em: 10/06/2019. Fontes
 - PERFEITURA DE JUIZ DE FORA. Imóveis em processo de tombamento no bairro Bom Pastor. Divisão de Patrimônio Cultural, 2019.
 - PREFEITURA DE JUIZ DE FORA. Processo de tombamento do Colégio Magister. Processo n°00954 de 2003. Juiz de Fora: PJF/DIPAC.
 - PREFEITURA DE JUIZ DE FORA. Processo de tombamento do Colégio Magister. Processo n°0599 de 2002. Juiz de Fora: PJF/DIPAC.

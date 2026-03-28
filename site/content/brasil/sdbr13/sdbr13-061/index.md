@@ -54,9 +54,9 @@ palavras-chave:
 
 ## Referências
 
-- AUSTRALIA ICOMOS – International Council on Monuments and Sites. Practice Note_Understanding and assessing cultural significance. 2013a. Disponível em: &lt;http://australia.icomos.org/wp-content/uploads/Practice-Note_The-Burra-Charter-and-Archaeological- Practice.pdf&gt;. Acesso em: 15 dez. 2015.
-- AUSTRALIA ICOMOS – International Council on Monuments and Sites. The Burra Charter 1979. 1979. Disponível em: &lt;http://australia.icomos.org/wp-content/uploads/Burra-Charter_1979.pdf&gt;. Acesso em: 15 dez. 2015.
-- AUSTRALIA ICOMOS – International Council on Monuments and Sites. The Burra Charter 2013. 2013b. Disponível em: &lt;http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013- Adopted-31.10.2013.pdf&gt;. Acesso em: 15 dez. 2015.
+- AUSTRALIA ICOMOS – International Council on Monuments and Sites. Practice Note_Understanding and assessing cultural significance. 2013a. Disponível em: &lt;<a href="http://australia.icomos.org/wp-content/uploads/Practice-Note_The-Burra-Charter-and-Archaeological-">http://australia.icomos.org/wp-content/uploads/Practice-Note_The-Burra-Charter-and-Archaeological-</a>&gt; Practice.pdf&gt;. Acesso em: 15 dez. 2015.
+- AUSTRALIA ICOMOS – International Council on Monuments and Sites. The Burra Charter 1979. 1979. Disponível em: &lt;<a href="http://australia.icomos.org/wp-content/uploads/Burra-Charter_1979.pdf">http://australia.icomos.org/wp-content/uploads/Burra-Charter_1979.pdf</a>&gt; Acesso em: 15 dez. 2015.
+- AUSTRALIA ICOMOS – International Council on Monuments and Sites. The Burra Charter 2013. 2013b. Disponível em: &lt;<a href="http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-">http://australia.icomos.org/wp-content/uploads/The-Burra-Charter-2013-</a>&gt; Adopted-31.10.2013.pdf&gt;. Acesso em: 15 dez. 2015.
 - BOULET, Jacques. Aloïs Riegl. Quelle mémoire ? in: RIEGL, Aloïs. Le culte moderne des monuments. Sa nature, son origine. Paris: L’Harmattan, 2003, p. 7-51.
 - BUCKLEY, Kristal; SULLIVAN, Sharon. Issues in Values-Based Management for Indigenous Cultural Heritage in Australia. In: APT Bulletin, v. 45, n. 4, p. 35-42, 2014. Disponível em: &lt;www.jstor.org/stable/43150487&gt;. Acesso em: 15 dez. 2015.
 - CHOAY, Françoise. A alegoria do Patrimônio. Traduzido por Luciano Vieira Machado. São Paulo: Estação Liberdade / UNESP, 2006.
@@ -66,11 +66,11 @@ palavras-chave:
 - CUNNINGHAM, Allen. Introduction. In: Cunningham, Allen (Ed.). Modern Movement Heritage. Londres: E&FN SPON, 1998. p. 1-9.
 - DOCOMOMO – International working party for documentation and conservation of buildings, sites and neighborhoods of the modern movement. The Modern Movement and the World Heritage List. 1997.
 - FABRIS, Annateresa. Os Valores do Monumento. in: RIEGL, Alois. O culto moderno dos monumentos: a sua essência e a sua origem. São Paulo: Perspectiva, 2014. p. 9-21.
-- GCI – Getty Conservation Institute. Assessing the Values of Cultural Heritage: Research Report. Los Angeles: The Getty Conservation Institute, 2002. Disponível em: &lt;http://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/assessing.pdf&gt;. Acesso em: 15 dez. 2015.
-- FABRIS. Economics and Heritage Conservation. Los Angeles: The Getty Conservation Institute, 1999. Disponível em: &lt;http://www.getty.edu/conservation/ publications_resources/pdf_publications/pdf/econrpt.pdf&gt;. Acesso em: 15 dez. 2015.
+- GCI – Getty Conservation Institute. Assessing the Values of Cultural Heritage: Research Report. Los Angeles: The Getty Conservation Institute, 2002. Disponível em: &lt;<a href="http://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/assessing.pdf">http://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/assessing.pdf</a>&gt; Acesso em: 15 dez. 2015.
+- FABRIS. Economics and Heritage Conservation. Los Angeles: The Getty Conservation Institute, 1999. Disponível em: &lt;<a href="http://www.getty.edu/conservation/">http://www.getty.edu/conservation/</a>&gt; publications_resources/pdf_publications/pdf/econrpt.pdf&gt;. Acesso em: 15 dez. 2015.
 - FABRIS. Keeping It Modern. 2017. Disponível em: &lt;www.getty.edu/foundation/ initiatives/current/keeping_it_modern/&gt;. Acesso em: 15 set. 2017.
 - FABRIS. Research on the Values of Heritage (1998–2005). 2005. Disponível em: &lt;www.getty.edu/conservation/our_projects/field_projects/ values/&gt;. Acesso em: 15 dez. 2015.
-- FABRIS. Values and Heritage Conservation: Research Report. Los Angeles: The Getty Conservation Institute, 2000. Disponível em: &lt;http://www.getty.edu/conservation/ publications_resources/pdf_publications/pdf/valuesrpt.pdf&gt;. Acesso em: 15 dez. 2015.
+- FABRIS. Values and Heritage Conservation: Research Report. Los Angeles: The Getty Conservation Institute, 2000. Disponível em: &lt;<a href="http://www.getty.edu/conservation/">http://www.getty.edu/conservation/</a>&gt; publications_resources/pdf_publications/pdf/valuesrpt.pdf&gt;. Acesso em: 15 dez. 2015.
 - HENKET, Hubert-Jan. Préserver une icône du mouvement moderne: le sanatorium de Zonnestraal. In: VANLAETHEM, France; THERRIEN, Marie-Josée (Org.). La sauvegarde de l’architecture moderne. Québec: Presses de l’Université du Québec, 2014, p. 17-24.
 - HENKET, Hubert-Jan. The icon and the ordinary. In: Cunningham, Allen (Ed.). Modern Movement Heritage. Londres: E&FN SPON, 1998. p. 13-17.
 - HEYNEN, Hilde. Transitoriness of modern architecture. In: Cunningham, Allen (Ed.). Modern Movement Heritage. Londres: E&FN SPON, 1998. p. 29-35.

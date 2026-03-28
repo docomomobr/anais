@@ -50,7 +50,7 @@ palavras-chave:
 - RIOARTE; IPLANRIO, Instituto Municipal de Arte e Cultura (Rio de Janeiro, RJ). Corredor cultural: como recuperar, reformar ou construir seu imóvel. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, 1985.
 - BITTENCOURT, Tania. São José dos Campos – Arquitetura Sanatorial. São José dos Campos, SP: TMMBittencourt, 1998.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. 4 ed. São Paulo: Perspectiva, 2003.
-- MAHFUZ, Edson da Cunha. Teoria, História e Crítica e seu papel no ensino de Projeto Arquitetônico. Trabalho apresentado no Vº Encontro de Teoria e História da Arquitetura no Rio Grande do Sul. 2000. Disponível em &lt; http://www.vitruvius.com.br/arquitextos/arq000/esp202.asp&gt;
+- MAHFUZ, Edson da Cunha. Teoria, História e Crítica e seu papel no ensino de Projeto Arquitetônico. Trabalho apresentado no Vº Encontro de Teoria e História da Arquitetura no Rio Grande do Sul. 2000. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp202.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp202.asp</a>&gt;
 - MASCARO, Cristiano (fotografias); BUENO, Alexei; CAVALCANTI, Lauro; TELLES, Augusto da Silva;
 - LAGO, Pedro Corrêa do (coord.). Patrimônio construído: as 100 mais belas edificações do Brasil. São Paulo: Capivara, 2002.
 - CAVALCANTI, Lauro. Quando o Brasil era Moderno: guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001.

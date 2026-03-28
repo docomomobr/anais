@@ -53,7 +53,7 @@ authors:
     familyname: "Farias"
     orcid: "0000-0001-5390-6269"
 doi: "10.5281/zenodo.19069633"
-zenodo_pdf_url: "https://zenodo.org/records/19069634/files/sdbr15-028.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285707/files/sdbr15-028.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -71,14 +71,14 @@ palavras-chave:
 - ALCÂNTARA, Dora de. Azulejos na Cultura Luso-brasileira. Rio de Janeiro: IPHAN, 1997. — Azulejaria em Belém do Pará: inventario — arquitetura civil e religiosa — século XVII ao XX. Brasília, Distrito Federal: IPHAN, 2016.
 - ALVES, Leandro Leão. Athos Bulcão em Brasília — do azulejo, do espaço. In: 9.º SEMINÁRIO DOCOMOMO BRASIL: interdisciplinaridade e experiência em documentação e preservação do patrimônio recente. Brasília: UnB-FAU/Docomomo Brasil, 2011.
 - ALVES, Vitor João Ramos. A arte azulejar de Athos Bulcão como patrimônio cultural de Brasília. Pós-graduação em Arte, Universidade de Brasília, 2018.
-- COSTA, Lúcio. Razões da nova arquitetura. Revista da Diretoria de Engenharia, Brasília, DF, v. III, n. 1, jan. 1936. Disponível em: https://encurtador.com.br/aoJPR.
+- COSTA, Lúcio. Razões da nova arquitetura. Revista da Diretoria de Engenharia, Brasília, DF, v. III, n. 1, jan. 1936. Disponível em: &lt;<a href="https://encurtador.com.br/aoJPR">https://encurtador.com.br/aoJPR</a>&gt;
 - DUARTE, Paulo Sergio. Sentido e Urbanidade. In: CABRAL, Valéria Maria Lopez (Org.). Athos Bulcão. Brasília: Fundação Athos Bulcão, 2008.
 - FARIAS, Taise Costa de. Padrões e cores dos azulejos remanescentes das fachadas históricas da cidade de Barbalha — CE. In: Anais do 7º seminário Ibero-americano Arquitetura e Documentação. Belo Horizonte: online, 2021. Disponível em: https//www.even3.com.br/anais/arqedoc2021/396262-PADROES-E-CORES-DOS-AZULEJOS-REMANESCENTE S-DAS-FACHADAS-HISTORICAS-DA-CIDADE-DE-BARBALHA-CE. Acesso em: 25 jun. 2023
-- FUNDATHOS. Fundação Athos Bulcão. Brasília, Distrito Federal Brasileiro. Disponível em: https://www.fundathos.org.br/. Acesso em: 23 jun. 2023.
+- FUNDATHOS. Fundação Athos Bulcão. Brasília, Distrito Federal Brasileiro. Disponível em: &lt;<a href="https://www.fundathos.org.br/">https://www.fundathos.org.br/</a>&gt; Acesso em: 23 jun. 2023.
 - MATOSINHO, Tonia. Azulejaria e a influência portuguesa nas cidades brasileiras. Lugar Comum–Estudos de mídia, cultura e democracia, n. 46, p. 111 – 118, 2016.
 - MONEZZI, Renata P. C. Azulejos do palácio: suas origens e significações. In: VIEIRA, Antônio; COSTA, Francisco; REMOALDO, Paula (org.). Cidades, criatividade (s) e sustentabilidade (s): Actas das VIII Jornadas de Geografia e Planejamento. Guimarães (Portugal): Umdgeo, 2012. 322 p. ISBN 978-989-97394-1-3.
 - RUBIM, R. Desenhando a superfície. São Paulo: Edições Rosari, 2004.
 - RUTHSCHLLING, E. A. Design de superfície. Porto Alegre: UFRGS, 2008.
 - WANDERLEY, Ingrid Moura. Azulejo na arquitetura brasileira: os painéis de Athos Bulcão 2006. Dissertação (Mestrado em Arquitetura), Universidade de São Paulo, São Paulo, 2006.
 - SILVEIRA, Marcele Cristiane da. O azulejo na modernidade arquitetônica 1930 – 1960. 2008. Dissertação (Mestrado em Projeto de Arquitetura) — Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2008. doi:10.11606/D.16.2008.tde-25032010-154757.
-- YUNES, Gilberto Sarkis. Os Painéis de Azulejos na Arquitetura Brasileira e a Identidade Moderna. Disponível em: https://docomomobrasil.com/wp-content/uploads/2016/01/naocosta4.pdf . Acesso em: 15 maio 2023.
+- YUNES, Gilberto Sarkis. Os Painéis de Azulejos na Arquitetura Brasileira e a Identidade Moderna. Disponível em: &lt;<a href="https://docomomobrasil.com/wp-content/uploads/2016/01/naocosta4.pdf">https://docomomobrasil.com/wp-content/uploads/2016/01/naocosta4.pdf</a>&gt; . Acesso em: 15 maio 2023.

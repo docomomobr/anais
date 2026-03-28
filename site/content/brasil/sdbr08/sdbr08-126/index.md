@@ -59,7 +59,7 @@ palavras-chave:
 - ARANHA, Patrícia. Riqueza de recortes e espaços maltratados. Estado de Minas. Belo Horizonte, 26, jul., 1994.
 - ARAÚJO, Guilherme Maciel. Valores do patrimônio cultural: uma análise do processo de tombamento do conjunto IAPI em Belo Horizonte/MG. Dissertação de mestrado, Universidade Federal de Minas Gerais, Escola de Arquitetura, 2009.
 - ARAÚJO, Guilherme Maciel. ; CASTRIOTA, Leonardo Barci. Um capítulo da preservação em Belo Horizonte: o destino do mercado de Santa Tereza. Revista Fórum Patrimônio: Ambiente Construído e Patrimônio
-- Sustentável. Cadernos de Trabalho. vol 1, no. 1, 2007. Disponível em: http://www.forumpatrimonio.com.br/. Acesso em: dezembro de 2007.
+- Sustentável. Cadernos de Trabalho. vol 1, no. 1, 2007. Disponível em: &lt;<a href="http://www.forumpatrimonio.com.br/">http://www.forumpatrimonio.com.br/</a>&gt; Acesso em: dezembro de 2007.
 - AVRAMI, Erica; MASON, Randall; DE LA TORRE, Marta. Values and heritage conservation: research report. Los Angeles: The Getty Conservation Institute, 2000. BELO HORIZONTE. Ata da reunião ordinária realizada em 22 de agosto de 2007. Diário Oficial do Município, Belo Horizonte, ano XIII, n. 2.940. Disponível em: www.pbh.gov.br/dom/. Acesso em: abril de 2008.
 - AVRAMI, Erica; MASON, Randall; DE LA TORRE, Marta. Ata da reunião ordinária realizada em 23 de maio de 2007. Diário Oficial do Município, Belo Horizonte, ano XIII, n. 2.873. Disponível em: www.pbh.gov.br/dom/. Acesso em: abril de 2008.
 - AVRAMI, Erica; MASON, Randall; DE LA TORRE, Marta. Extrato de contrato. Diário Oficial do Município, Belo Horizonte, ano XIII, n. 2.882. Disponível em: www.pbh.gov.br/dom/. Acesso em: abril de 2008.
@@ -73,7 +73,7 @@ palavras-chave:
 - CAVALCANTI, Lauro Pereira. Modernistas na repartição. 2. ed. rev. Rio de Janeiro: Ed. UFRJ; MINC-IPHAN, 2000.
 - LUZ, Jalmelice. Uma parte das histórias de BH está no IAPI. Estado de Minas. Belo Horizonte, 23 jul 1995. p. 35.
 - MASON, Randall. Assessing Values in Conservation Planning: Methodological Issues and Choices. In: DE LA TORRE, MARTA (ed.). Assessing the Values of Cultural Heritage: Research Report. Los Angeles: The Getty Conservation Institute, 2002.
-- OLIVEIRA, Juscelino Kubitschek de. Relatório dos exercícios de 1940 e 1941, apresentado ao Exmo. Sr. Dr. Benedicto Valladares Ribeiro, pelo prefeito Juscelino Kubitschek de Oliveira. Belo Horizonte: PBH, 1942. 147 p. Disponível em: http://www.relatoriosdosprefeitos.pbh.gov.br/. Acesso em: set de 2007.
+- OLIVEIRA, Juscelino Kubitschek de. Relatório dos exercícios de 1940 e 1941, apresentado ao Exmo. Sr. Dr. Benedicto Valladares Ribeiro, pelo prefeito Juscelino Kubitschek de Oliveira. Belo Horizonte: PBH, 1942. 147 p. Disponível em: &lt;<a href="http://www.relatoriosdosprefeitos.pbh.gov.br/">http://www.relatoriosdosprefeitos.pbh.gov.br/</a>&gt; Acesso em: set de 2007.
 - RESENDE, Elaine. Conjunto de problemas: Construção que chegou a ser apontada como cartão- postal de BH, IAPI faz 58 anos em meio à degradação e insegurança. Estado de Minas. Belo Horizonte, 02 de mar, 2006. Caderno Gerais. p. 19.
 - SCAPOLATEMPORE, Renato. IAPI foi o primeiro conjunto habitacional. Hoje em Dia. Belo Horizonte, 12 de out, 1997. Caderno Minas. p. 11.
 - SOUZA, Renato César José de. A arquitetura em Belo Horizonte nas décadas de 40 e 50: utopia e transgressão. In: CASTRIOTA, Leonardo Barci. A arquitetura da modernidade. Belo Horizonte: Ed.

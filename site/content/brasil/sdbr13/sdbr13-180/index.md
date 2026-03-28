@@ -46,6 +46,6 @@ autores:
 
 - ANDRADE JUNIOR, Nivaldo Vieira de. Arquiteturas modernas na Bahia, 1958-1965: dos arroubos plásticos do concreto à tradição construtiva da pedra, do barro e da madeira. In: 5º Seminário Docomomo Norte/Nordeste, 2014, Fortaleza. Anais do 5º Seminário Docomomo Norte/Nordeste. Fortaleza: Universidade Federal do Ceará, 2014. p. 1-15.
 - INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL (IPHAN). Carta de Washington. 1987.
-- MOREIRA, P da Luz. A Capela do Menino Jesus em Itapetinga, Bahia. Uma grata surpresa. Vitruvius, 2017. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/projetos/17.193/6368&gt;. Acesso em: 10 mar. 2019.
+- MOREIRA, P da Luz. A Capela do Menino Jesus em Itapetinga, Bahia. Uma grata surpresa. Vitruvius, 2017. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/projetos/17.193/6368">http://www.vitruvius.com.br/revistas/read/projetos/17.193/6368</a>&gt; Acesso em: 10 mar. 2019.
 - PREFEITURA MUNICIPAL DE ITAPETINGA. Lei 1.179/2012 – Plano Diretor de Desenvolvimento Municipal de Itapetinga. 2012.
-- ROCHA. G. Capela do Menino Jesus – Itapetinga – BA. Disponível em: &lt;http://www.leniobraga.com.br/esculturas/capela-do-menino-jesus-itapetinga-ba/&gt;. Acesso em: 10 mar. 2019.
+- ROCHA. G. Capela do Menino Jesus – Itapetinga – BA. Disponível em: &lt;<a href="http://www.leniobraga.com.br/esculturas/capela-do-menino-jesus-itapetinga-ba/">http://www.leniobraga.com.br/esculturas/capela-do-menino-jesus-itapetinga-ba/</a>&gt; Acesso em: 10 mar. 2019.

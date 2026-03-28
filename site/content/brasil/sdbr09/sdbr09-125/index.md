@@ -39,7 +39,7 @@ authors:
     familyname: "Machado Junior"
     orcid: "0009-0005-7099-1502"
 doi: "10.5281/zenodo.19073970"
-zenodo_pdf_url: "https://zenodo.org/records/19073971/files/sdbr09-125.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285583/files/sdbr09-125.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:
@@ -55,7 +55,7 @@ palavras-chave:
 - ALCÂNTARA, Dora de. Azulejos na Cultura Luso-Brasileira. Rio de Janeiro:
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981.
 - CAPPELLO, M. B. C. Revistas em revista: síntese das artes e a moderna arquitetura brasileira Conjunto Residencial Pedregulho. In: Seixas, J. e Cerasoli, J.. (Org.). Ufu, ano 30 tropeçando universos (artes, humanidades, ciências).Uberlândia: Edufu, 2008, v. , p. 143-173.
-- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf, acesso em 15/05/2010.
+- CARDOZO, Joaquim. Azulejos na Arquitetura Brasileira. 1948. Disponível em: &lt;<a href="http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf">http://joaquimcardozo.com/paginas/joaquim/poemas/arquitetura/azulejos.pdf</a>&gt; acesso em 15/05/2010.
 - CAVALCANTI, Lauro. Moderno e Brasileiro – A história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar Editor, 2006.
 - CHIARELLI, Tadeu. Arte internacional brasileira. São Paulo: Lemos, 2002.
 - COELHO, Isabel Ruas Pereira. Painéis em mosaico na arquitetura moderna paulista: 1945-1964. São Paulo: USP, 2000. Dissertação (Mestrado). Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.

@@ -71,5 +71,5 @@ palavras-chave:
 - SEGAWA, Hugo; DOURADO, Guilherme Mazza. Mário Pedrosa Urbanista. RISCO - Revista de pesquisa em arquitetura e urbanismo programa de pós-graduação do departamento de arquitetura e urbanismo eesc-usp. São Carlos, n.2, 2003. p.63-6.
 - TURNER, Paul Vernable. Campus: an American Planning Tradition. New York: The Architectural History Foundation; MIT Press Series, 1987.
 - UNIVERSIDADE DE BRASÍLIA. Plano Orientador. Brasília: Editora da UnB, 1962.
-- UNIVERSIDADE DE BRASÍLIA. Centro de Documentação. Pesquisa Histórica. Brasília. Disponível em: http://www.unb.br/cedoc/pesq_historica.htm. Acesso em 30 nov. 2007.
+- UNIVERSIDADE DE BRASÍLIA. Centro de Documentação. Pesquisa Histórica. Brasília. Disponível em: &lt;<a href="http://www.unb.br/cedoc/pesq_historica.htm">http://www.unb.br/cedoc/pesq_historica.htm</a>&gt; Acesso em 30 nov. 2007.
 - UNIVERSIDADE DE SÃO PAULO. Comissão da Cidade Universitária "Armando de Salles Oliveira". Roteiro do Replanejamento da Cidade Universitária "Armando de Salles Oliveira". São Paulo: USP, 1956.

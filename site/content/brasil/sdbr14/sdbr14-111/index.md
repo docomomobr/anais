@@ -60,7 +60,7 @@ palavras-chave:
 - ARTIGAS, Vilanova. Caminhos da Arquitetura. São Paulo: Cosac & Naify, 2004.
 - BANHAM, Reyner, 1960 – Stocktaking of the Impact of Traditions and Technology on Architecture Today. Architectural Review, fev.1960, pp.93-100.
 - BANHAM. Teoria e Projeto na Primeira Era da Máquina. São Paulo: Perspectiva, 1975.
-- BUZZAR, Miguel Antônio; CORDIDO, Maria Tereza Regina Leme de Barros; CAMARGO, Mônica Junqueira de. Os significados da mudança de paradigma arquitetônico advindo com o Plano de Ação do Governo de Estado/SP (PAGE) na Gestão Carvalho Pinto (1959-1963). In: SEMINÁRIO DOCOMOMO BRASIL, 11., 2016, Recife. Disponível em: http://seminario2016.docomomo.org.br/artigos_apresentacao/sessao%207/DOCO_PE_S7_BUZZAR_JUNQ UEIRA_CORDIDO.pdf. Acesso em: 19 maio. 2021.
+- BUZZAR, Miguel Antônio; CORDIDO, Maria Tereza Regina Leme de Barros; CAMARGO, Mônica Junqueira de. Os significados da mudança de paradigma arquitetônico advindo com o Plano de Ação do Governo de Estado/SP (PAGE) na Gestão Carvalho Pinto (1959-1963). In: SEMINÁRIO DOCOMOMO BRASIL, 11., 2016, Recife. Disponível em: &lt;<a href="http://seminario2016.docomomo.org.br/artigos_apresentacao/sessao%207/DOCO_PE_S7_BUZZAR_JUNQ">http://seminario2016.docomomo.org.br/artigos_apresentacao/sessao%207/DOCO_PE_S7_BUZZAR_JUNQ</a>&gt; UEIRA_CORDIDO.pdf. Acesso em: 19 maio. 2021.
 - IWAMIZU, Cesar Shundi. A estação rodoviária de Jaú e a dimensão urbana da arquitetura. São Paulo:
 - FAUUSP, 2008. [Dissertação de mestrado].
 - LE CORBUSIER. Towards a new architecture. New York: Dover Publication.1986. Ed. original 1931.

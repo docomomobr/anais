@@ -59,11 +59,11 @@ palavras-chave:
 
 ## Referências
 
-- ACSERLRAD, Henry. Vulnerabilidade ambiental, processos e relações. In: II ENCONTRO NACIONAL DE PRODUTORES E USUÁRIOS DE INFORMAÇÕES SOCIAIS, ECONÔMICAS E TERRITORIAIS, FIBGE, 2006, Rio de Janeiro. Disponível em: &lt;http://www.fase.org.br/projetos/clientes/noar/noar/UserFiles/17/File /VulnerabilidadeAmbProcRelAcselrad.pdf&gt;. Acesso em: 10 jan. 2011.
+- ACSERLRAD, Henry. Vulnerabilidade ambiental, processos e relações. In: II ENCONTRO NACIONAL DE PRODUTORES E USUÁRIOS DE INFORMAÇÕES SOCIAIS, ECONÔMICAS E TERRITORIAIS, FIBGE, 2006, Rio de Janeiro. Disponível em: &lt;<a href="http://www.fase.org.br/projetos/clientes/noar/noar/UserFiles/17/File">http://www.fase.org.br/projetos/clientes/noar/noar/UserFiles/17/File</a>&gt; /VulnerabilidadeAmbProcRelAcselrad.pdf&gt;. Acesso em: 10 jan. 2011.
 - ACRE, Governo do Estado. Acre em números. SEPLANS, 2006.
 - CARMONA, Matthew; HEATH, Tim; Tanner, O. C.; TIESDELL, Steve. Public Places - Urban Space: The dimensions of the Urban Design. Great Britain: Architectural Press, 2007.
 - CHAUÍ, Marilena. Convite à Filosofia. São Paulo: Editora Ática, 2005.
 - HARVEY, David. A produção capitalista do espaço. São Paulo: Annablume, 2005.
 - MESQUITA, C. Claudemir. As inundações da Bacia Hidrográfica do Rio Acre no Município de Rio Branco: Alternativas de Ocupação. Rio Branco: Seplan/Proeza, 1996.
 - REIS, Vera Lucia; MALDONADO, D. L. R. Monica; AMARAL, F. Emanuel. Caracterização Socioambiental da Bacia Hidrográficas do Estado do Acre. Ministério Público do Estado do Acre, 2009.
-- ROMERO, Marta Adriana B. Urbanismo Sustentável para a reabilitação de áreas degradadas. Construindo um sistema de indicadores de sustentabilidade urbana. Brasília: Universidade de Brasília, dez. 2008. Disponível em: &lt;http://www.unb.br/fau/pesquisa/sustentabilidade/linhas_de_pesquisa/Pesquisa/Pesquisa/universal2006REL%20parte%20I.pdf&gt;. Acesso em: 31 out. 2009.
+- ROMERO, Marta Adriana B. Urbanismo Sustentável para a reabilitação de áreas degradadas. Construindo um sistema de indicadores de sustentabilidade urbana. Brasília: Universidade de Brasília, dez. 2008. Disponível em: &lt;<a href="http://www.unb.br/fau/pesquisa/sustentabilidade/linhas_de_pesquisa/Pesquisa/Pesquisa/universal2006REL%20parte%20I.pdf">http://www.unb.br/fau/pesquisa/sustentabilidade/linhas_de_pesquisa/Pesquisa/Pesquisa/universal2006REL%20parte%20I.pdf</a>&gt; Acesso em: 31 out. 2009.

@@ -90,8 +90,8 @@ palavras-chave:
 - NIEMEYER, Oscar. Minha arquitetura: 1937-2004. Rio de Janeiro: Ed. Revan, 2004.
 - ROSSETTI, Eduardo Pierrotti. Arquitetura em transe. Lucio Costa, Oscar Niemeyer, Lina Bo Bardi e Vilanova Artigas: nexos da arquitetura brasileira pós-Brasília [1960-85]. São Paulo: FAUUSP, 2007. Tese de Doutorado.
 - ROSSETTI, Eduardo Pierrotti. Arquiteturas de Brasília. Brasília: ITS, 2012.
-- ROSSETTI, Eduardo Pierrotti. Brasília, da alegria ao terror. Uso e dinâmica dos espaços de exceção. Minha Cidade, São Paulo, ano 23, n. 270.02, Vitruvius, jan. 2023 &lt;https://vitruvius.com.br/revistas/read/minhacidade/23.270/8707&gt;.
-- ROSSETTI, Eduardo Pierrotti. Brasília, 60 anos. Da lama e caos à paranoia e mitificação. Minha Cidade, São Paulo, ano 21, n. 251.01, Vitruvius, jun. 2021 &lt;https://vitruvius.com.br/revistas/read/minhacidade/21.251/8132&gt;.
+- ROSSETTI, Eduardo Pierrotti. Brasília, da alegria ao terror. Uso e dinâmica dos espaços de exceção. Minha Cidade, São Paulo, ano 23, n. 270.02, Vitruvius, jan. 2023 &lt;<a href="https://vitruvius.com.br/revistas/read/minhacidade/23.270/8707">https://vitruvius.com.br/revistas/read/minhacidade/23.270/8707</a>&gt;
+- ROSSETTI, Eduardo Pierrotti. Brasília, 60 anos. Da lama e caos à paranoia e mitificação. Minha Cidade, São Paulo, ano 21, n. 251.01, Vitruvius, jun. 2021 &lt;<a href="https://vitruvius.com.br/revistas/read/minhacidade/21.251/8132">https://vitruvius.com.br/revistas/read/minhacidade/21.251/8132</a>&gt;
 - SCHLEE, Andrey Rosenthal; FICHER, Sylvia. O arquiteto Oscar Niemeyer in “Oscar Niemeyer = Oscar Niemeyer”. Rio de Janeiro: Produtora Rio de Arte e Cultura Ltda., 2021. p.308-331.
 - SEGAWA, Hugo. Arquitetura no Brasil 1900-1999. São Paulo: Edusp, 1998.
 - STEVENS, Garry. O círculo privilegiado. Fundamentos sociais da distinção arquitetônica. Brasília: EdUnB, 2003.

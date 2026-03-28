@@ -53,16 +53,16 @@ palavras-chave:
 
 ## Referências
 
-- BUENO, André. Incêndio Consome Edifício do Cine Teatro Ouro Verde. Disponível em: &lt;http://www.bonde.com.br/?id_bonde=1-3--575-20120212&gt;.  Acesso em 20 jul. 2012.
-- CARSALADE, Flávio. Itinerário dos órgãos estaduais de preservação do patrimônio histórico: o caso do IEPHA – MG. In: CASTRIOTA, Leonardo (org). Urbanização Brasileira: Redescobertas.  Belo Horizonte: Arte, 2003.
-- COORDENAÇÃO DO PATRIMÔNIO CULTURAL. Cine Teatro Ouro Verde. Disponível em: http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=129. Acesso em 21 jul. 2017.
+- BUENO, André. Incêndio Consome Edifício do Cine Teatro Ouro Verde. Disponível em: &lt;<a href="http://www.bonde.com.br/?id_bonde=1-3--575-20120212">http://www.bonde.com.br/?id_bonde=1-3--575-20120212</a>&gt; Acesso em 20 jul. 2012.
+- CARSALADE, Flávio. Itinerário dos órgãos estaduais de preservação do patrimônio histórico: o caso do IEPHA – MG. In: CASTRIOTA, Leonardo (org). Urbanização Brasileira: Redescobertas. Belo Horizonte: Arte, 2003.
+- COORDENAÇÃO DO PATRIMÔNIO CULTURAL. Cine Teatro Ouro Verde. Disponível em: &lt;<a href="http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=129">http://www.patrimoniocultural.pr.gov.br/modules/conteudo/conteudo.php?conteudo=129</a>&gt; Acesso em 21 jul. 2017.
 - DIA 24, A inauguração do Cine “Ouro Verde”. Folha de Londrina, Londrina, p.1, 21 dez.1952.
 - FRAZÃO, Marcelo. Incêndio Destrói o Teatro Ouro Verde. Jornal de Londrina, Londrina, 13 fev. 2012.
 - GALLO, Haroldo. Arqueologia, Arquitetura e Cidade: a preservação ente a identidade e a autenticidade. In MORI, Victor Hugo; SOUZA, Marise Campos de; BASTOS, Rossano Lopes; GALLO, Haroldo (Org.). Patrimônio: atualizando o debate. São Paulo, Iphan, 2006..
 - MENDONÇA, Dafne Marques de. A legislação, o incentivo e limitação à Nova Arquitetura em Londrina. In: GNOATO, Salvador; MAGALHÃES, Leandro Henrique (org.). Arquitetura Moderna em Cidades de Porte Médio. Londrina: UNIFIL, 2012, p.52-69.
 - SANTIN, WILHAN. Teatro desenhado por Artigas reabre após incêndio. Folha de São Paulo, São Paulo, p. C8, 17 jun. 2017.
-- SEGAWA, Hugo. Artigas e Cascaldi em Londrina. In Projeto, São Paulo: Projeto Ed.,  n° 135, out. 1990.
+- SEGAWA, Hugo. Artigas e Cascaldi em Londrina. In Projeto, São Paulo: Projeto Ed., n° 135, out. 1990.
 - SUZUKI, Juliana Harumi. Artigas e Cascaldi: Arquitetura em Londrina. Cotia: Ateliê, 2003.
 - TAINE, Laís. Ouro Verde: Fogo, Comoção e Obras. Folha de Londrina, Londrina, 15 abr. 2017.
 - THEODORO, Apolo. O Ouro Verde apaga velinhas. Folha de Londrina, Londrina, p.1, Caderno 2, 24 dez. 1992.
-- TRIGUEIROS, Marian. Ouro Verde renasce para Londrina. Disponível em: &lt;http://www.folhadelondrina.com.br/folha-2/ouro-verde-renasce-para-londrina-980797.html&gt;.  Acesso em 20 jun. 2017.
+- TRIGUEIROS, Marian. Ouro Verde renasce para Londrina. Disponível em: &lt;<a href="http://www.folhadelondrina.com.br/folha-2/ouro-verde-renasce-para-londrina-980797.html">http://www.folhadelondrina.com.br/folha-2/ouro-verde-renasce-para-londrina-980797.html</a>&gt; Acesso em 20 jun. 2017.

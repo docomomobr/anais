@@ -55,7 +55,7 @@ palavras-chave:
 - CHAIMOVICH, Felipe. Permanecer moderno: o desafio da contemporaneidade. In: MAGALHÃES, Ana at al. MAM 70: MAM e MAC USP. São Paulo: MAM-SP, 2018.
 - COELHO, Frederico (ORG.). Museu de Arte Moderna Rio de Janeiro. Architecture and Construction. Rio de Janeiro: Cobogó, 2011.
 - COELHO, Frederico. Uma história necessária. In: LOPES, Fernanda. Área Experimental: Lugar, espaço e dimensão do experimental na arte brasileira dos anos 1970. São Paulo: Prestígio editorial, 2013.
-- DELGADO, Lucilia de Almeida Neves. O Governo João Goulart e o golpe de 1964: memória, história e historiografia. Tempo. v. 14, n. 28, pp. 123-143, jun. 2010. Disponível em: https://bityli.com/idIH5. Acesso em: 10 abr. 2021.
+- DELGADO, Lucilia de Almeida Neves. O Governo João Goulart e o golpe de 1964: memória, história e historiografia. Tempo. v. 14, n. 28, pp. 123-143, jun. 2010. Disponível em: &lt;<a href="https://bityli.com/idIH5">https://bityli.com/idIH5</a>&gt; Acesso em: 10 abr. 2021.
 - GOGAN, Jessica. Frederico Morais, os domingos da criação e o museu-liberdade. In: GOGAN, Jessica;
 - MORAIS, Frederico (ORG.). Domingos da Criação: uma coleção poética do experimental em arte e educação. Rio de Janeiro: Instituto Mesa, 2017.
 - GRUNNEBERG, Christoph. The modern art museum. In: BARKER, Emma. Contemporary Cultures of Display. New Haven: Yale University Press, 1999.
@@ -72,5 +72,5 @@ palavras-chave:
 - PEDROSA, Mario. Dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, 1981.
 - PISANI, Daniele. O Trianon do MAM ao MASP. Arquitetura e política em São Paulo (1946-1968). São Paulo: Editora 34, 2019.
 - PORTINHO, Carmen. Por toda minha vida. Rio de Janeiro: EdUERJ, 1999.
-- SARDO, Delfin. Dicionário Crítico de Arte, Imagem, Linguagem e Cultura. Verbete Arte Contemporânea. Fundação Côa Parque, 2008. Disponível em: https://bityli.com/QrJim. Acesso em: 26 jan. 2021.
-- STRECKER, Marión. Parangolé em Opinião 65. s. d. Disponível em: https://bityli.com/SXsm3. Acesso em: 10 abr. 2021.
+- SARDO, Delfin. Dicionário Crítico de Arte, Imagem, Linguagem e Cultura. Verbete Arte Contemporânea. Fundação Côa Parque, 2008. Disponível em: &lt;<a href="https://bityli.com/QrJim">https://bityli.com/QrJim</a>&gt; Acesso em: 26 jan. 2021.
+- STRECKER, Marión. Parangolé em Opinião 65. s. d. Disponível em: &lt;<a href="https://bityli.com/SXsm3">https://bityli.com/SXsm3</a>&gt; Acesso em: 10 abr. 2021.

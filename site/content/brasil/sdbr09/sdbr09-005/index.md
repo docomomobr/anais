@@ -72,5 +72,5 @@ palavras-chave:
 - SANTOS, Paulo. . Quatro Séculos de Arquitetura. Rio de Janeiro: Coleção IAB, 1981. Seminário de Planejamento e Patrimônio Mundial. Paraty: IPHAN, dezembro de 2001.
 - SILVA, Fernando Fernandes da. As Cidades Brasileiras e o Patrimônio Cultural da Humanidade. São Paulo: Peirópolis: Editora da Universidade de São Paulo, 2003.
 - SISSON, Rachel. Marcos Históricos e configurações espaciais: um estudo de caso: os centros do Rio de Janeiro. In Revista Arquitetura. Rio de Janeiro: FAU/ UFRJ,n.4, jul./dez.1986. Sítios Históricos e Conjuntos Urbanos de Monumentos Nacionais: norte, nordeste e centro-oeste. Programa Monumenta. Brasília: Ministério da Cultura, Programa Monumenta, 2005. Cadernos Técnicos 3, v.1. Projeto Inventário de Bens Culturais. Desenvolvimento Territorial dos Caminhos Singulares do Estado do Rio de Janeiro: ouro, café, açúcar e sal. Secretaria de Cultura do Estado do Rio de Janeiro. Rio de Janeiro: INEPAC, 2004.
-- REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. Coelção Debates. São Paulo: Editora Perspectiva, 10ª ed.,  2004
+- REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. Coelção Debates. São Paulo: Editora Perspectiva, 10ª ed., 2004
 - ROSSI, Aldo. A arquitetura da cidade. Tradução: Eduardo Brandão. São Paulo: Marins Fontes, 2001

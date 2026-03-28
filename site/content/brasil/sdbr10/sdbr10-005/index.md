@@ -53,7 +53,7 @@ palavras-chave:
 
 ## Referências
 
-- Amaral, Cláudio Silveira. O ensino do projeto nos cursos de arquitetura. Arquitextos, São Paulo, 09.101, Vitruvius, out 2008. &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/09.101/104&gt;.
+- Amaral, Cláudio Silveira. O ensino do projeto nos cursos de arquitetura. Arquitextos, São Paulo, 09.101, Vitruvius, out 2008. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/09.101/104">http://www.vitruvius.com.br/revistas/read/arquitextos/09.101/104</a>&gt;
 - Andrade, Antonio Luiz Dias de. Um Estado Completo que Pode Jamais ter Existido. São Paulo, Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, Tese de Doutoramento, 1993.
 - Barossi, Antonio Carlos. Ensino de projeto na FAUUSP:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Tese de Doutorado, 2005.
 - Benjamin, Walter. A obra de arte na era da sua reprodutibilidade técnica In: Magia e técnica arte e política: ensaios sobre literatura e historia da cultura. São Paulo: Brasiliense, 1994.
@@ -71,7 +71,7 @@ palavras-chave:
 - Frampton, Kenneth. Historia crítica de la arquitectura moderna. México: Ediciones Gustavo Gili, 1983.
 - Gianecchini, Ana Clara. Técnica e estética no concreto armado: um estudo sobre os edifícios do MASP e da FAUUSP. Dissertação de mestrado. São Paulo: FAUUSP, 2009.
 - Habermas, J. – Arquitetura Moderna e Pós Moderna in Dossier Habermas, Revista Novos Estudos CEBRAP, setembro 1987
-- Jorge, Luís Antônio. Ensino de Projeto e o projeto de ensino. Da arquitetura e do urbanismo na FAU-USP. Drops, São Paulo, 10.030, Vitruvius, jan 2010 &lt;http://www.vitruvius.com.br/revistas/read/drops/10.030/2113&gt;. Kamita, João Massao. “Vilanova Artigas”. Cosac & Naify Edições. Série Espaços da Arte Brasileira. São Paulo, SP. 2000.
+- Jorge, Luís Antônio. Ensino de Projeto e o projeto de ensino. Da arquitetura e do urbanismo na FAU-USP. Drops, São Paulo, 10.030, Vitruvius, jan 2010 &lt;<a href="http://www.vitruvius.com.br/revistas/read/drops/10.030/2113">http://www.vitruvius.com.br/revistas/read/drops/10.030/2113</a>&gt; Kamita, João Massao. “Vilanova Artigas”. Cosac & Naify Edições. Série Espaços da Arte Brasileira. São Paulo, SP. 2000.
 - Kuhl, Beatriz Mugayar. Preservação do Patrimônio Arquitetônico da Industrialização. São Paulo: Atelie Editorial, 2008 Le corbusier. A Carta de Atenas/ [versão Le Corbusier ; traduçào de Rebeca Scherer]. São Paulo: HUCITEC,1989 Le duc, Eugene E. Violet. Restauração. Trad. Beatriz Kuhl. São Paulo: Atelier Editorial, 2000
 - Amaral, Cláudio Silveira. Entretiens sur l’architecture.Paris, Morel et Co., 1863-1872. 2v ; reed. BRUXELAS Loos, Adolf. Ornamento y delito y otros escritos. Barcelona : Editoral Gustavo Gili, 1972.
 - Marins, Paulo César Garcez. “Trajetórias de preservação do patrimônio cultural paulista” IN:
@@ -79,9 +79,9 @@ palavras-chave:
 - Macedo, Danilo M. Da matéria à invenção – as obras de Oscar Niemeyer em Minas Gerias 1938-1955. Brasília. Camara dos Deputados, 2008
 - Melendez, Adilson. Solução humilde, sobrecobertura quer evitar infiltrações na FAU/USP PROJETODESIGN, 348 Fevereiro de 2009.
 - Mindlin, Henrique Ephim.Brazilian architecture. Imprenta London : Royal College, 1961 Muntadas. On Translation: Paper/BP MVDR. Published by ACTAR ,Fundació Mies van der Rohe, España, 2009. OliveirA, Claudia T. de A., PRESTES, Lucinda F., YURGEL, Marlene, SAWAYA, Sylvio B,
-- BORTOLLI JR, Oreste, ROSA, Alexandre M. de A. O restauro do moderno: o caso do edifício Vilanova Artigas da FAUUSP. Anais do 7º Seminário DO.CO.MO.MO Brasil. Porto Alegre, 2007. Disponível em &lt;http://www.docomomo.org.br/seminario%207%20pdfs/069.pdf&gt; acesso em 12/02/2011
+- BORTOLLI JR, Oreste, ROSA, Alexandre M. de A. O restauro do moderno: o caso do edifício Vilanova Artigas da FAUUSP. Anais do 7º Seminário DO.CO.MO.MO Brasil. Porto Alegre, 2007. Disponível em &lt;<a href="http://www.docomomo.org.br/seminario%207%20pdfs/069.pdf">http://www.docomomo.org.br/seminario%207%20pdfs/069.pdf</a>&gt; acesso em 12/02/2011
 - Prudon, Theodore H.M. Preservation of Modern Architecture. New Jersey, John Wiley & Sons, Inc. 2008
-- Restauro e recuperação no edifício Vilanova Artigas, no anexo e no edifício Vila Penteado. 2009. Disponível em &lt;http://www.fau.usp.br/fau/secoes/espacos_fisicos/informativo_06maio.pdf.&gt; acesso em 12/02/2011
+- Restauro e recuperação no edifício Vilanova Artigas, no anexo e no edifício Vila Penteado. 2009. Disponível em &lt;<a href="http://www.fau.usp.br/fau/secoes/espacos_fisicos/informativo_06maio.pdf">http://www.fau.usp.br/fau/secoes/espacos_fisicos/informativo_06maio.pdf</a>&gt; acesso em 12/02/2011
 - Salvo, Simona. Restauro e "restauros" das obras arquitetônicas do século 20: intervenções em arranha-céus em confronto (Tradução: Beatriz Mugayar Kühl) Revista CPC, São Paulo, n.4, p.139-157, maio/out. 2007
 - SALVO, Simona. Arranha-céu Pirelli: crônica de uma restauração, Desígnio, 2006 (2007), n. 6, pp. 69-86.
 - SALVO, Simona. A intervenção na arquitetura contemporânea como tema emergente do restauro. Pós. Revista do programa de pós-graduação em arquitetura e urbanismo da FAUUSP, 2008, n. 23, pp. 199-211.

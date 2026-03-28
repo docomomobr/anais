@@ -70,15 +70,15 @@ palavras-chave:
 - GNOATO, S. RESTAURO E RETROFIT DO PALÁCIO DA JUSTIÇA DO PARANÁ. In: 13° SEMINÁRIO DOCOMOMO
 - BRASIL, 13, 2019, Salvador. Anais [...]. Salvador: Docomomo Brasil, 2019. p. 1-12.
 - ICOMOS - International Council On Monuments And Sites. ICOMOS CHARTER- PRINCIPLES FOR THE
-- ANALYSIS, CONSERVATION AND STRUCTURAL RESTORATION OF ARCHITECTURAL HERITAGE (2003): ratified by the icomos 14th general assembly in victoria falls, zimbabwe, in 2003. Ratified by the ICOMOS 14th General Assembly in Victoria Falls, Zimbabwe, in 2003. 2003. Disponível em: https://www.icomos.org/charters/structures_e.pdf. Acesso em: 13 jun. 2021.
+- ANALYSIS, CONSERVATION AND STRUCTURAL RESTORATION OF ARCHITECTURAL HERITAGE (2003): ratified by the icomos 14th general assembly in victoria falls, zimbabwe, in 2003. Ratified by the ICOMOS 14th General Assembly in Victoria Falls, Zimbabwe, in 2003. 2003. Disponível em: &lt;<a href="https://www.icomos.org/charters/structures_e.pdf">https://www.icomos.org/charters/structures_e.pdf</a>&gt; Acesso em: 13 jun. 2021.
 - JAPIASSÚ, P. MÉTODO PARA AVALIAÇÃO DE RETROFIT ENERGÉTICO EM EDIFICAÇÕES HISTÓRICAS
 - BRASILEIRAS. 2019. 321 f. Tese (Doutorado) - Curso de Pós-Graduação em Arquitetura e Urbanismo, Universidade de Brasilia, Brasilia, 2019. 2021
 - JESUS, V. O.; PINA NETO, R. P. A INTERVENÇÃO NO PALÁCIO GOVERNADOR JOÃO ALVES FILHO: o desaparecimento do edifício moderno da Praça Fausto Cardoso, em Aracaju. In: 13° SEMINARIO
 - DOCOMOMO BRASIL, 13, 2019, Salvador. Anais [...]. Salvador: Docomomo Brasil, 2019. p. 1-19.
 - JORGE L. O. Estratégias de Flexibilidade na arquitetura residencial multifamiliar. 2012. 511 f. Tese (Doutorado) - Curso de Arquitetura Faculdade de Arquitetura da Universidade de São Paulo São Paulo 2012.
-- LARP Laboratório de Arqueologia Romana Provincial. Vídeo – Palestra – "Revisões Sistemáticas" (30/09/2015 – MAE/USP). 2015. Disponível em: &lt;http://www.larp.mae.usp.br/video-palestra-revisoessistematicas/&gt; . Acesso em: 19 jan. 2020.
+- LARP Laboratório de Arqueologia Romana Provincial. Vídeo – Palestra – "Revisões Sistemáticas" (30/09/2015 – MAE/USP). 2015. Disponível em: &lt;<a href="http://www.larp.mae.usp.br/video-palestra-revisoessistematicas/">http://www.larp.mae.usp.br/video-palestra-revisoessistematicas/</a>&gt; . Acesso em: 19 jan. 2020.
 - LIDELÖW, S.; ÖRN, T.; LUCIANI, A.; RIZZO, A. Energy-efficiency measures for heritage buildings: a literature review. Sustainable Cities And Society, [S.L.], v. 45, p. 231-242, fev. 2019.
-- LOPES A. F. O.; SILVA C. F. Building Performance Simulation in Brazil: A systematic review. 2019. Disponível em: &lt;https://www.researchgate.net/publication/336617711_Building_Performance_Simulation_in_Brazil_ A_systematic_review&gt; . Acesso em: 19 jan. 2020.
+- LOPES A. F. O.; SILVA C. F. Building Performance Simulation in Brazil: A systematic review. 2019. Disponível em: &lt;<a href="https://www.researchgate.net/publication/336617711_Building_Performance_Simulation_in_Brazil_">https://www.researchgate.net/publication/336617711_Building_Performance_Simulation_in_Brazil_</a>&gt; A_systematic_review&gt; . Acesso em: 19 jan. 2020.
 - MELLO, B.; ALVAREZ, C.; ROSINHA, R. B. Palácio da Justiça de Porto Alegre: a longa espera pelo fim, 1952- 2006: o projeto de recuperação, restauração e readequação do ícone da arquitetura moderna de Porto Alegre. In: 7° SEMINÁRIO DOCOMOMO BRASIL – PORTO ALEGRE, 7, 2007, Porto Alegre. Anais [...]. Porto Alegre: Docomomo Brasil, 2007. p. 1-24.
 - MELLO, U. A.; ERLING, L. Restauração do Conjunto Residencial Prefeito Mendes de Moraes – Pedregulho. In: 2021
 - MELLO, U. RESTAURAÇÃO DO CONJUNTO RESIDENCIAL PREFEITO MENDES DE MORAES – PEDREGULHO. In: 22.
@@ -102,4 +102,4 @@ palavras-chave:
 - TARALLI, C. H.; CAMPÊLO, M. PATRIMÔNIO MODERNO EM CAMPUS UNIVERSITÁRIO: rearquitetura ou descaracterização? o caso da UFC. In: 7° SEMINÁRIO DOCOMOMO BRASIL – PORTO ALEGRE, 7, 2007, Porto Alegre. Anais [...]. Porto Alegre: Docomomo Brasil, 2007. p. 1-19.
 - TINOCO, J. E. L.; OLIVEIRA, T. R. S. AS TÉCNICAS CONSTRUTIVAS DAS CASAS MODERNISTAS DE AUGUSTO
 - REYNALDO NO RECIFE: projeto de intervenção e restauro. In: 13° SEMINARIO DOCOMOMO BRASIL, 13, 2019, Salvador. Anais [...]. Salvador: Docomomo Brasil, 2019. p. 1-15.
-- WEBB, A. L. Energy retrofits in historic and traditional buildings: a review of problems and methods. Renewable And Sustainable Energy Reviews, [S.L.], v. 77, p. 748-759, set. 2017. Elsevier BV. http://dx.doi.org/10.1016/j.rser.2017.01.145. 2021
+- WEBB, A. L. Energy retrofits in historic and traditional buildings: a review of problems and methods. Renewable And Sustainable Energy Reviews, [S.L.], v. 77, p. 748-759, set. 2017. Elsevier BV. &lt;<a href="http://dx.doi.org/10.1016/j.rser.2017.01.145">http://dx.doi.org/10.1016/j.rser.2017.01.145</a>&gt; 2021

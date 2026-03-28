@@ -60,13 +60,13 @@ palavras-chave:
 
 ## Referências
 
-- GOULART, Ives Clayton. Introdução ao Paisagismo, 2007. Disponível em &lt;http://www.jardineiro.net/br/artigos/introducao_ao_paisagismo.php&gt;. Acesso em julho/2008.
-- GUERRA, Abilio. Lucio Costa, Gregori Warchavchik e Roberto Burle Marx: síntese entre arquitetura e natureza tropical. São Paulo: Vitruvius, 2002. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp.&gt; Acesso em 07 mar. 2008.
+- GOULART, Ives Clayton. Introdução ao Paisagismo, 2007. Disponível em &lt;<a href="http://www.jardineiro.net/br/artigos/introducao_ao_paisagismo.php">http://www.jardineiro.net/br/artigos/introducao_ao_paisagismo.php</a>&gt; Acesso em julho/2008.
+- GUERRA, Abilio. Lucio Costa, Gregori Warchavchik e Roberto Burle Marx: síntese entre arquitetura e natureza tropical. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp150.asp</a>&gt; Acesso em 07 mar. 2008.
 - MACEDO, Silvio Soares. Quadro do Paisagismo no Brasil. São Paulo, 1999. [s.n]. 144 p.
 - MAGNOLI, Miranda M. Espaços livres e urbanização: uma introdução a aspectos da paisagem metropolitana. São Paulo: 1982.
 - MALUF, Carmem Silvia . Espaço, tempo e lugar. Pós.Revista do Programa de Pós Graduação em Arquitetura e Urbanismo da FAU/USP, v. 23, p. 70-83, 2008.
 - MARX, Roberto Burle. O paisagismo na Estrutura Urbana. In: MARX, Roberto Burle. Arte & Paisagem. São Paulo: Studio Nobel, 1998. p. 87-100.
-- OLIVEIRA, Ana Rosa de. A construção formal do jardim em Roberto Burle Marx. São Paulo: Vitruvius, 2000. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp004.asp&gt;. Acesso em: 04 fev. 2009.
-- OLIVEIRA, Ana Rosa de. Bourlemarx ou Burle Marx? São Paulo: Vitruvius, 2001. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq013/arq013_01.asp&gt;. Acesso em: 04 mai. 2009.
-- TANGARI, Vera Regina. Espaços livres públicos como espaços museográficos. In: Seminário Internacional Museografia e Arquitetura de Museus, 2005, Rio de Janeiro. Anais do Seminário Internacional Museografia e Arquitetura de Museus. Rio de Janeiro : ProArq/FAU-UFRJ, 2005. v. 1. p. 49-72. Disponível em: http://www.fau.ufrj.br/...vera%20tangari/museus-2005-mesa%20red- vera%20t%E2ngari-fim.pdf Acesso em 25 fev. 2009.
+- OLIVEIRA, Ana Rosa de. A construção formal do jardim em Roberto Burle Marx. São Paulo: Vitruvius, 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp004.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp004.asp</a>&gt; Acesso em: 04 fev. 2009.
+- OLIVEIRA, Ana Rosa de. Bourlemarx ou Burle Marx? São Paulo: Vitruvius, 2001. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq013/arq013_01.asp">http://www.vitruvius.com.br/arquitextos/arq013/arq013_01.asp</a>&gt; Acesso em: 04 mai. 2009.
+- TANGARI, Vera Regina. Espaços livres públicos como espaços museográficos. In: Seminário Internacional Museografia e Arquitetura de Museus, 2005, Rio de Janeiro. Anais do Seminário Internacional Museografia e Arquitetura de Museus. Rio de Janeiro : ProArq/FAU-UFRJ, 2005. v. 1. p. 49-72. Disponível em: &lt;<a href="http://www.fau.ufrj.br/...vera%20tangari/museus-2005-mesa%20red-">http://www.fau.ufrj.br/...vera%20tangari/museus-2005-mesa%20red-</a>&gt; vera%20t%E2ngari-fim.pdf Acesso em 25 fev. 2009.
 - TANGARI, Vera Regina. Paisagens Urbanas. In: XI CBAU-Congresso Brasileiro de Arborização Urbana, 2001, Brasilia. Anais do XI CBAU-Congresso Brasileiro de Arborização Urbana/SBAU. Brasilia : Sociedade Brasileira de Arborização Urbana, 2001. v. 1. p. 1-1. Disponível em: &lt;http:// www.vitoriadofuturo.org.br/artigos/artigo1.htm&gt; Acesso em 25 fev. 2009.

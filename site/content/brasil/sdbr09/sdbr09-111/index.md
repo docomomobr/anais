@@ -45,7 +45,7 @@ autores:
 
 ## Referências
 
-- ΑΡΙΣΤΟΤΈΛΗΣ. (Aristotélēs). Ποιήτικη (Poiêtikē). Boston: Tufts University, [S. d.]. (Perseus Digital Library). Disponível em: &lt;http://www.perseus.tufts.edu/cgi- bin/ptext?lookup=Aristot.+Poet.&gt;. Acesso em: 29/10/2006 (Aristotle. Aristotle’s Ars Poetica. Editado por R. Kassel. Oxford: Clarendon Press. 1966).
+- ΑΡΙΣΤΟΤΈΛΗΣ. (Aristotélēs). Ποιήτικη (Poiêtikē). Boston: Tufts University, [S. d.]. (Perseus Digital Library). Disponível em: &lt;<a href="http://www.perseus.tufts.edu/cgi-">http://www.perseus.tufts.edu/cgi-</a>&gt; bin/ptext?lookup=Aristot.+Poet.&gt;. Acesso em: 29/10/2006 (Aristotle. Aristotle’s Ars Poetica. Editado por R. Kassel. Oxford: Clarendon Press. 1966).
 - CORONA MARTINEZ, A. Ensaio sobre o projeto. Brasília: Editora UnB, 2000 (Ensayo sobre el proyecto. Librería Técnica, 1991).
 - DUANY, A.; PLATER-ZYBERK, E. e ALMINANA, R. The New Civic Art: Elements of Town Planning. Nova York: Rizzoli, 2003.
 - FRAMPTON, K. Modern Architecture: A Critical History. New York: Oxford University Press, 1980.

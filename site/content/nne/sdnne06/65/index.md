@@ -1,0 +1,43 @@
+---
+title: "Cobogós de Teresina"
+subtitle: "inventário visual na Arquitetura Moderna"
+date: 2016-08-10
+slug: 65
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "Poster Digital"
+section_seq: 1
+event_title: "6º Seminário Docomomo Norte/Nordeste, Teresina, 2016"
+event_location: "Teresina, PI"
+event_date: "2016-08-10"
+event_isbn: "978-85-7463-919-2"
+event_publisher: "UFPI"
+event_slug: sdnne06
+ambito: nne
+ambito_nome: "Norte/Nordeste"
+event_name: "Seminário Docomomo Norte/Nordeste"
+event_edition: 6
+event_city: "Teresina"
+event_year: 2016
+locale: "pt-BR"
+abstract: |
+  O presente resumo tem como objeto de estudo os cobogós utilizados na arquitetura moderna de Teresina. O objetivo geral do trabalho consiste em realizar um levantamento dos padrões visuais, dos materiais construtivos e da aplicação dos cobogós empregados na arquitetura moderna de Teresina. Entre os objetivos específicos listam-se: apontar uma pesquisa histórica e documental sobre o surgimento e desenvolvimento do uso do cobogó na capital piauiense; e propor o resgate da memória local. A justificativa para a apresentação desse trabalho se volta a necessidade de um estudo específico sobre essa solução construtiva/climática, de grande apelo estético, e símbolo da arquitetura moderna nordestina de larga apropriação social. A metodologia de pesquisa baseia-se numa investigação estéticofotográfica, a partir de uma abordagem tipológica, contemplando suas diversas formas presentes na arquitetura moderna residencial e institucional teresinense. O aporte teórico de discussão se baseia nas obras clássicas de Bruand (1981), Holanda (1976), bem como os escritos de Niemeyer (1978), Viera (2013), Afonso (2010), Veríssimo, Afonso (2015); que abordam com maior enfoque a construção da linguagem moderna brasileira, a gênese do elemento cobogó, além da caracterização da arquitetura moderna teresinense e seus condicionantes.
+keywords:
+  - "cobogó"
+  - "arquitetura moderna"
+  - "Teresina"
+authors:
+  - givenname: "V."
+    familyname: "Verissimo"
+  - givenname: "M. L. G."
+    familyname: "Teixeira"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Verissimo, V."
+  - "Teixeira, M. L. G."
+palavras-chave:
+  - "cobogó"
+  - "arquitetura moderna"
+  - "Teresina"
+---

@@ -63,4 +63,4 @@ palavras-chave:
 - SANTOS, M. Espaço e método. São Paulo: Studio Nobel, 1985.
 - SILVA, Ernesto. História de Brasília. Brasília: Linha Gráfica Editora, 1997.
 - TAVARES, Jeferson. Projetos para Brasília e a cultura urbanística nacional. Dissertação (Mestrado em Arquitetura e Urbanismo), Universidade de São Paulo. São Paulo, 2004.
-- VALENTINETTI, Claudio. O cinema e a cidade,  Revista Humanidades Nº 56 - Brasília, Cidade, Pensamento. Brasília:UnB, 2009.
+- VALENTINETTI, Claudio. O cinema e a cidade, Revista Humanidades Nº 56 - Brasília, Cidade, Pensamento. Brasília:UnB, 2009.

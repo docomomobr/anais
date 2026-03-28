@@ -71,5 +71,5 @@ palavras-chave:
 - BERNARDES, S. Vanguarda: prospectiva e busca. Revista Cultura, nº 1. Editora Vozes, jan.-fev. 1970.
 - LEONE, J. C. Tropical Hotel de Manaus. Rio de Janeiro: José Carlos Leone e Associados Consultores Industriais, 1969.
 - MONTANER, J. Maria; MUXí MARTINEZ, Z. Arquitetura e política. Ensaios para mundos alternativos. 1ª, São Paulo, Gustavo Gili, 2014.
-- PAIVA, R. A. Tropical Hotel Santarém, de Arnaldo Furquim Paoliello. Uma “pérola” moderna na Amazônia. Arquitextos, São Paulo, ano 15, n. 175.03, Vitruvius, dez. 2014 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/15.175/5378&gt;.
+- PAIVA, R. A. Tropical Hotel Santarém, de Arnaldo Furquim Paoliello. Uma “pérola” moderna na Amazônia. Arquitextos, São Paulo, ano 15, n. 175.03, Vitruvius, dez. 2014 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/15.175/5378">http://www.vitruvius.com.br/revistas/read/arquitextos/15.175/5378</a>&gt;
 - VIEIRA, M. P. Sergio Bernardes: Arquitetura como Experimentação. Dissertação de Mestrado. Pós-graduação em Arquitetura, Faculdade de Arquitetura e Urbanismo, da Universidade Federal do Rio de Janeiro – UFRJ, Rio de Janeiro, 2006.

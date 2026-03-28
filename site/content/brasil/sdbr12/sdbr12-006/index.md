@@ -53,7 +53,7 @@ palavras-chave:
 ## Referências
 
 - ARTIGAS, João Batista Vilanova. Sobre escolas... São Paulo, Acrópole, n. 377, p. 10-3, set. 1970.
-- Bernardini, Sidney Piochi. Construindo infraestruturas, desenhando territórios: a Secretaria de Agricultura, Comércio e Obras Públicas do governo estadual paulista (1892–1926). In: Encontro da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional, 12., 2007, Belém. Anais... Belém: Anpur, 2007. Disponível em &lt;http://www.ufpa.br/xiienanpur/CD/ARQUIVOS/GT4-315-289-20070107190041.pdf&gt;. Acesso em: 24 jan. 2017.
+- Bernardini, Sidney Piochi. Construindo infraestruturas, desenhando territórios: a Secretaria de Agricultura, Comércio e Obras Públicas do governo estadual paulista (1892–1926). In: Encontro da Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional, 12., 2007, Belém. Anais... Belém: Anpur, 2007. Disponível em &lt;<a href="http://www.ufpa.br/xiienanpur/CD/ARQUIVOS/GT4-315-289-20070107190041.pdf">http://www.ufpa.br/xiienanpur/CD/ARQUIVOS/GT4-315-289-20070107190041.pdf</a>&gt; Acesso em: 24 jan. 2017.
 - CAMPOS, Cristina de. A reorganização do setor de obras públicas em São Paulo: uma análise através da trajetória profissional do engenheiro Paula Souza, 1869–1891. Campinas, Oculum Ensaios, Campinas, v. 12, n. 1, p. 157-171, jan./jun. 2015.
 - FERREIRA, Avany de Francisco; CORRÊA, Maria Elizabeth Peirão; MELLO, Mirela Geiger de. Arquitetura escolar paulista; restauro. São Paulo: FDE, 1998.
 - FERREIRA, Avany de Francisco; MELLO, Mirella Geiger de (org). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: Imprensa Oficial, 2006.

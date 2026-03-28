@@ -32,7 +32,7 @@ authors:
     familyname: "Oliveira"
     orcid: "0000-0001-5842-2415"
 doi: "10.5281/zenodo.19094520"
-zenodo_pdf_url: "https://zenodo.org/records/19094522/files/sdbr14-vp01.mp4"
+zenodo_pdf_url: "https://zenodo.org/records/19285683/files/sdbr14-vp01.mp4"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:

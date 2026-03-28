@@ -67,7 +67,7 @@ palavras-chave:
 - HITCHCOCK, Henry-Russel; JOHNSON, Philip. The international style. New York: Norton, 1996(1932).
 - HOLANDA, Frederico. O espaço de exceção. Brasíli: UnB, 2003
 - JEUDY, Henri-Pierre. O espelho das cidades. Rio de Janeiro: Casa da Palavra, 2005.
-- LARA, Fernando. “A insustentável leveza da modernidade” in Arquitextos 057, ISSN 1809-6298, texto Especial 276 – fevereiro 2005, http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp consultado em 13/08/2007
+- LARA, Fernando. “A insustentável leveza da modernidade” in Arquitextos 057, ISSN 1809-6298, texto Especial 276 – fevereiro 2005, &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp276.asp</a>&gt; consultado em 13/08/2007
 - LEUPEN, Bernard et al. Proyecto y análisis. Barcelona: Gustavo Gili, 1999.
 - MIRANDA, João Maurício. Evolução urbana de Natal em 400 anos – 1599-1999. Natal: Governo do Rio Grande do Norte, Prefeitura de Natal, Coleção Natal 400 anos, v.VII, 1999.
 - MIRANDA, João Maurício. 380 anos de história foto-gráfica da cidade de Natal – 1599-1979. Natal: Editora Universitária,

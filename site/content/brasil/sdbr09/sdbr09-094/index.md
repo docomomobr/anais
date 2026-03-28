@@ -59,8 +59,8 @@ palavras-chave:
 - MALCHER, J. C. da G. Álbum do Pará. Interventor Federal (1937-1939). Belém: H. Rodrigues, 1939.
 - FOLHA DO NORTE. A Praça “Pedro Teixeira” motivos de sua existência e de seu projeto, Belém: janeiro, 1943.
 - BITAR, R. Arte e Transcendência. A obra de Ruy Meira. Belém: Estacon, 1991.
-- CAPPELLO, M. B. C. Síntese das Artes: Arquitetura Moderna no Brasil e sua recepção nas revistas francesas, inglesas e italianas (1945-1960). Simpósio Temático: Páginas da arquitetura moderna brasileira nas revistas especializadas. I Enanparq, Rio de Janeiro: 2010. Disponível em:  www.anparq.org.br/congressos/index.php/ENANPARQ/.../paper/.../372 Acesso em: 24 de fev. de 2011.
-- CHAVES, C.  Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre 1930 e 1960. Revista Risco, São Carlos: EESC/USP, v. 8, p. 145-163, 2009.
+- CAPPELLO, M. B. C. Síntese das Artes: Arquitetura Moderna no Brasil e sua recepção nas revistas francesas, inglesas e italianas (1945-1960). Simpósio Temático: Páginas da arquitetura moderna brasileira nas revistas especializadas. I Enanparq, Rio de Janeiro: 2010. Disponível em: www.anparq.org.br/congressos/index.php/ENANPARQ/.../paper/.../372 Acesso em: 24 de fev. de 2011.
+- CHAVES, C. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre 1930 e 1960. Revista Risco, São Carlos: EESC/USP, v. 8, p. 145-163, 2009.
 - GOVERNO DO ESTADO DO PARÁ. Catálogo do I Salão Oficial de Belas Artes, Belém: 1940.
 - GOVERNO DO ESTADO DO PARÁ. Catálogo do II Salão Oficial de Belas Artes, Belém: 1942.
 - GOVERNO DO ESTADO DO PARÁ. Catálogo do VIII Salão Oficial de Belas Artes, Belém: 1947.

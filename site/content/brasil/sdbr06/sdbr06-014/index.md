@@ -53,7 +53,7 @@ palavras-chave:
 
 - BAHIA, Denise Marques. O sentido de habitar e as formas de morar: a experiência modernista na arquitetura residencial unifamiliar de Belo Horizonte.Núcleo de Pós-Graduação em Arquitetura e Urbanismo da Escola de Arquitetura da UFMG, 1999. (Dissertação de Mestrado).
 - GIDEON, Siegfried. Espacio, tiempo y arquitectura. Madri: Editorial Dossat, 1982, parte VI.
-- Inventário Multimídia da Arquitetura Moderna de Belo Horizonte. Casa do Baile, Prefeitura de Belo Horizonte, 2004. Autores: Eduardo Mascarenhas Santos; Denise Marques Bahia; Marina Valle Noronha; Pedro Cardoso Octaviano de Alvarenga. Colaboração: Tereza Bruzzi. Disponível em &lt;http://www.pbh.gov.br/casadobaile
+- Inventário Multimídia da Arquitetura Moderna de Belo Horizonte. Casa do Baile, Prefeitura de Belo Horizonte, 2004. Autores: Eduardo Mascarenhas Santos; Denise Marques Bahia; Marina Valle Noronha; Pedro Cardoso Octaviano de Alvarenga. Colaboração: Tereza Bruzzi. Disponível em &lt;<a href="http://www.pbh.gov.br/casadobaile">http://www.pbh.gov.br/casadobaile</a>&gt;
 - MAFFESOLLI, Michel. A Contemplação do mundo. Porto Alegre, Artes e Ofícios Ed., 1995.
 - SANTOS, Eduardo Macarenhas, BAHIA Denise Marques et ali. Inventário Multimídia da Arquitetura Moderna de Belo Horizonte: novas formas de representação e manipulação de base dados documentais sobre a arquitetura moderna. Anais do Congresso Iberoamericano de Grafica Digital Sigradi 2004.
 - VASCONCELLOS, Sylvio de. Noções sobre arquitetura. Belo Horizonte, Escola de Arquitetura da UFMG, 1963.

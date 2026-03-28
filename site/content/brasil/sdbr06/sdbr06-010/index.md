@@ -74,7 +74,7 @@ palavras-chave:
 - FERRAZ, Geraldo. Depois de Tudo: memórias. Rio de Janeiro: Paz e Terra; São Paulo: Secretaria Municipal da Cultura, 1983.
 - KOPP, A. Quando o moderno não era um estilo e sim uma causa. São Paulo: Nobel/Edusp, 1990.
 - LEITE, Rui Moreira. Flávio de Carvalho (1899-1973): entre a experiência e a experimentação. São Paulo: USP, 1994.
-- MARQUES, Sônia; NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp065.asp&gt; Acesso em abril de 2003.
+- MARQUES, Sônia; NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp065.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp065.asp</a>&gt; Acesso em abril de 2003.
 - MARTINS, Carlos Alberto Ferreira. Identidade Nacional e Estado no Projeto Modernista. In: Oculum 2. Campinas: FAU-Puccamp, 1992.
 - MATTAR, Denise (Org.). Flávio de Carvalho: 100 anos de um revolucionário romântico. Rio de Janeiro, Centro Cultural Banco do Brasil, 1999.
 - MICELI, Sérgio. Intelectuais à Brasileira. São Paulo: Companhia das Letras, 2001.

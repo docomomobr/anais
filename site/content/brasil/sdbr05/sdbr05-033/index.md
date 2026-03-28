@@ -63,7 +63,7 @@ palavras-chave:
 - COMAS, Carlos Eduardo Dias. El oasis de Niemeyer - una quinta brasileña de los anos cincuenta. Arquine nº 3, primavera 1998.
 - COMAS, C. E. D. Da Atualidade de seu Pensamento. AU Arquitetura e Urbanismo, São Paulo: Pini, no. 38, p.69-74, out./nov. 1991.
 - COMAS, Carlos Eduardo. A legitimidade da diferença. AU Arquitetura e Urbanismo, São Paulo: Pini, n.55 p.49-52, ago./set. 1994.
-- COMAS, Carlos Eduardo Dias. Lucio Costa e a revolução na arquitetura brasileira 30/39: de lenda(s e) Le Corbusier. São Paulo: Vitruvius, 2002. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp&gt; Acesso em 08 jan. 2003, 18:30:00
+- COMAS, Carlos Eduardo Dias. Lucio Costa e a revolução na arquitetura brasileira 30/39: de lenda(s e) Le Corbusier. São Paulo: Vitruvius, 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp">http://www.vitruvius.com.br/arquitextos/arq022/arq022_01.asp</a>&gt; Acesso em 08 jan. 2003, 18:30:00
 - CONDURU, Roberto. Vital Brasil. São Paulo: Cosac & Naify, 2000.
 - COSTA, Lucio. Sobre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962.
 - COSTA, Lucio. Registro de uma Vivência. São Paulo: Empresa das Artes, 1995.

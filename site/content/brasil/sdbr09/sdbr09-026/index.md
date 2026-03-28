@@ -52,7 +52,7 @@ palavras-chave:
 
 ## Referências
 
-- DIÁRIO DE NOTÍCIAS. O Progresso de Santo Ângelo Atestado na Imponência de seus edifícios.  Porto Alegre 10 de Novembro de 1940.
+- DIÁRIO DE NOTÍCIAS. O Progresso de Santo Ângelo Atestado na Imponência de seus edifícios. Porto Alegre 10 de Novembro de 1940.
 - ESCOLA DE ENGENHARIA DE PORTO ALEGRE. Relatório (Extractos). Porto Alegre, 1924
 - MACHADO, Nara Helena Naumann. Modernidade, Arquitetura e Urbanismo: O Centro de Porto Alegre [1928-1945]. Porto Alegre: PUC/RS, 1998. Tese [Doutorado em História do Brasil – Instituto de Filosofia e Ciências Humanas da PUCRS, 1990.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp. 2002.

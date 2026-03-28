@@ -56,18 +56,18 @@ palavras-chave:
 ## Referências
 
 - ANELLI, R.; GUERRA, A.; KON, N. Rino Levi: arquitetura e cidade. São Paulo: Romano Guerra, 2001.
-- ARCHDAILY. FAU-USP promove evento de comemoração ao centenário de Artigas. Disponível em: &lt;http://www.archdaily.com.br/br/774917/fau-usp-promove-evento-de-comemoracao-ao-centenario-de- artigas&gt;. Acessado em: 29 mar. 2016.
+- ARCHDAILY. FAU-USP promove evento de comemoração ao centenário de Artigas. Disponível em: &lt;<a href="http://www.archdaily.com.br/br/774917/fau-usp-promove-evento-de-comemoracao-ao-centenario-de-">http://www.archdaily.com.br/br/774917/fau-usp-promove-evento-de-comemoracao-ao-centenario-de-</a>&gt; artigas&gt;. Acessado em: 29 mar. 2016.
 - BRUAND, Y. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CAMPOS, V. O Art-déco na arquitetura paulistana: uma outra face do moderno. Dissertação (Mestrado) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU-USP). São Paulo: FAU-USP, 1996.
-- FOLHA DE S. PAULO. Gregori Warchavchik. Disponível em: &lt;http://fotografia.folha.uol.com.br/galerias/23225- gregori-warchavchik &gt;. Acessado em: 29 mar. 2016.
+- FOLHA DE S. PAULO. Gregori Warchavchik. Disponível em: &lt;<a href="http://fotografia.folha.uol.com.br/galerias/23225-">http://fotografia.folha.uol.com.br/galerias/23225-</a>&gt; gregori-warchavchik &gt;. Acessado em: 29 mar. 2016.
 - LEMOS, C. Informação NP 58/72-CTET, 1972. In: SÃO PAULO (Estado), SECRETARIA DA CULTURA, ESPORTES E
 - TURISMO. Processo CONDEPHAAT n. 11975/1969: Tombamento do Fórum de Avaré. São Paulo: CONDEPHAAT: SEC, 1969.
 - RODRIGUES, M. Imagens do passado: a instituição do patrimônio em São Paulo 1969-1987. São Paulo: Ed.
-- SECRETARIA DA CULTURA DO ESTADO DE SÃO PAULO. Acervo de imagens do Condephaat. Disponível em: &lt;http://www.cultura.sp.gov.br&gt;. Acessado em: 28 mar. 2016.
-- SEGAWA, H. Vilanova Artigas, o renascer de um mestre. Resenhas Online, São Paulo, ano 01, n. 001.21, Vitruvius, jan. 2002. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3258&gt;. Acessado em: 26 mar. 2016.
+- SECRETARIA DA CULTURA DO ESTADO DE SÃO PAULO. Acervo de imagens do Condephaat. Disponível em: &lt;<a href="http://www.cultura.sp.gov.br">http://www.cultura.sp.gov.br</a>&gt; Acessado em: 28 mar. 2016.
+- SEGAWA, H. Vilanova Artigas, o renascer de um mestre. Resenhas Online, São Paulo, ano 01, n. 001.21, Vitruvius, jan. 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3258">http://www.vitruvius.com.br/revistas/read/resenhasonline/01.001/3258</a>&gt; Acessado em: 26 mar. 2016.
 - SEGAWA, H; DOURADO, G. M. Oswaldo Arthur Bratke. São Paulo: Pro Editores, 1997. VARINE-BOHAN, H. A experiência internacional. Notas de aula 12-8-1974. São Paulo: FAUUSP/Iphan, s.d. e
-- WIKIMEDIA. Guaruja SP Asturias Sobre As Ondas. Disponível em: &lt;https://commons.wikimedia.org/wiki/File:Guaruja.SP.Asturias.SobreAsOndas.Warchavick.jpg&gt;. Acessado em: 29 mar. 2016.
-- WIKIPEDIA. Altino Arantes Building. Disponível em: &lt;https://en.wikipedia.org/wiki/Altino_Arantes_Building&gt;. Acessado em: 29 mar. 2016.
-- WOLFF, S. O moderno como opção estilística. In: 3º SEMINÁRIO NACIONAL DO DOCOMOMO BRASIL, 1999. Anais eletrônicos... São Paulo: DOCOMOMO_BR, 1999. Disponível em: &lt;http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A2F/Silvia_wolff.pdf&gt;. Acessado em: 29 mar. 2016.
+- WIKIMEDIA. Guaruja SP Asturias Sobre As Ondas. Disponível em: &lt;<a href="https://commons.wikimedia.org/wiki/File:Guaruja.SP.Asturias.SobreAsOndas.Warchavick.jpg">https://commons.wikimedia.org/wiki/File:Guaruja.SP.Asturias.SobreAsOndas.Warchavick.jpg</a>&gt; Acessado em: 29 mar. 2016.
+- WIKIPEDIA. Altino Arantes Building. Disponível em: &lt;<a href="https://en.wikipedia.org/wiki/Altino_Arantes_Building">https://en.wikipedia.org/wiki/Altino_Arantes_Building</a>&gt; Acessado em: 29 mar. 2016.
+- WOLFF, S. O moderno como opção estilística. In: 3º SEMINÁRIO NACIONAL DO DOCOMOMO BRASIL, 1999. Anais eletrônicos... São Paulo: DOCOMOMO_BR, 1999. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A2F/Silvia_wolff.pdf">http://www.docomomo.org.br/seminario%203%20pdfs/subtema_A2F/Silvia_wolff.pdf</a>&gt; Acessado em: 29 mar. 2016.
 - WOLFF, S. São Paulo: Escolas para a República. São Paulo: Edusp, 2010.
-- XAVIER, A. Edifício Esther, em São Paulo, de Álvaro Vital Brazil e Adhemar Marinho. Disponível em: &lt;http://au.pini.com.br/arquitetura-urbanismo/236/edificio-esther-301056-1.aspx&gt;. Acessado em: 29 mar. 2016.
+- XAVIER, A. Edifício Esther, em São Paulo, de Álvaro Vital Brazil e Adhemar Marinho. Disponível em: &lt;<a href="http://au.pini.com.br/arquitetura-urbanismo/236/edificio-esther-301056-1.aspx">http://au.pini.com.br/arquitetura-urbanismo/236/edificio-esther-301056-1.aspx</a>&gt; Acessado em: 29 mar. 2016.

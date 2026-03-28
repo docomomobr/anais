@@ -50,13 +50,13 @@ palavras-chave:
 
 - AFONSO, A ; VERÍSSIMO, V. Arquitetura moderna em Teresina. Teresina: Gráfica Cidade Verde, ADUFPI. 2015 .
 - BARTHES, R. A Câmara clara. Rio de Janeiro: Nova Fronteira, 1984.
-- BREIER, Ana Cláudia Böer; SCHLEE, Andrey Rosenthal; PEREIRA, Maíra Teixeira. Fotógrafos perpetuando visões da arquitetura. Arquitextos, São Paulo, ano 11, n. 129.07, Vitruvius, jan. 2016 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/11.129/3500&gt;.
-- BURGI, Sergio. Fotografia e Arquitetura Moderna no Brasil 1940-1962. Marcel Gautherot e Oscar Niemeyer. Instituto Moreira Sales. ARTPROJECT. Google cultural institute, 2012. Disponível em: https://www.google.com/culturalinstitute/exhibit/fotografia-e-arquitetura%C2%A0moderna-no- brasil/gRhrzFos?projectId=art-project. &gt; Acesso em: 26 jan. 2016.
+- BREIER, Ana Cláudia Böer; SCHLEE, Andrey Rosenthal; PEREIRA, Maíra Teixeira. Fotógrafos perpetuando visões da arquitetura. Arquitextos, São Paulo, ano 11, n. 129.07, Vitruvius, jan. 2016 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/11.129/3500">http://www.vitruvius.com.br/revistas/read/arquitextos/11.129/3500</a>&gt;
+- BURGI, Sergio. Fotografia e Arquitetura Moderna no Brasil 1940-1962. Marcel Gautherot e Oscar Niemeyer. Instituto Moreira Sales. ARTPROJECT. Google cultural institute, 2012. Disponível em: &lt;<a href="https://www.google.com/culturalinstitute/exhibit/fotografia-e-arquitetura%C2%A0moderna-no-">https://www.google.com/culturalinstitute/exhibit/fotografia-e-arquitetura%C2%A0moderna-no-</a>&gt; brasil/gRhrzFos?projectId=art-project. &gt; Acesso em: 26 jan. 2016.
 - COSTA, Alcilia Afonso de Albuquerque. Arquitetura brutalista no Piauí nos anos 1970.
-- Arquitextos, São Paulo, ano 15, n. 174.02, Vitruvius, dez. 2014 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367&gt;.
-- COSTA, Eduardo Augusto; GOUVEIA, Sonia Maria Milani. Entrevista Nelson Kon. Uma Fotografia de Arquitetura Brasileira. Entrevista, São Paulo, ano 11, n. 043.02, Vitruvius, ago. 2010 &lt;http://www.vitruvius.com.br/revistas/read/entrevista/11.043/3482&gt;.
+- Arquitextos, São Paulo, ano 15, n. 174.02, Vitruvius, dez. 2014 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367">http://www.vitruvius.com.br/revistas/read/arquitextos/15.174/5367</a>&gt;
+- COSTA, Eduardo Augusto; GOUVEIA, Sonia Maria Milani. Entrevista Nelson Kon. Uma Fotografia de Arquitetura Brasileira. Entrevista, São Paulo, ano 11, n. 043.02, Vitruvius, ago. 2010 &lt;<a href="http://www.vitruvius.com.br/revistas/read/entrevista/11.043/3482">http://www.vitruvius.com.br/revistas/read/entrevista/11.043/3482</a>&gt;
 - COSTA, Helouise; SILVA, Renato Rodrigues. A fotografia moderna no Brasil. São Paulo: Cosac Naify, 2004.
-- FEITOSA, Ana R. S. Negreiros. "Clássicos da Arquitetura: Assembléia Legislativa do Piauí / Acácio Gil Borsoi" 05 Dez 2013. ArchDaily Brasil. Acessado 1 Abr 2016. http://www.archdaily.com.br/159385/classicos-da- arquitetura-assembleia-legislativa-do-piaui-slash-acacio-gil-borsoi
+- FEITOSA, Ana R. S. Negreiros. "Clássicos da Arquitetura: Assembléia Legislativa do Piauí / Acácio Gil Borsoi" 05 Dez 2013. ArchDaily Brasil. Acessado 1 Abr 2016. &lt;<a href="http://www.archdaily.com.br/159385/classicos-da-">http://www.archdaily.com.br/159385/classicos-da-</a>&gt; arquitetura-assembleia-legislativa-do-piaui-slash-acacio-gil-borsoi
 - GASTÓN, C; ROVIRA,T. El proyecto Moderno: Pautas de Investigación. Barcelona: Ediciones UPC, 2007.
 - GUERRA, Fernando. Mundo Perfeito, fotografias de Fernando Guerra. Porto: Faculdade de Arquitectura da Universidade Porto, 2008;
 - KOSSOY, Boris. Fotografia &Historia. São Paulo: Ateliê Editorial. 2001

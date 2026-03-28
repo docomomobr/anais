@@ -49,9 +49,9 @@ palavras-chave:
 
 ## Referências
 
-- COSTA, Lucia. Burle Marx e o Paisagismo no Brasil Contemporâneo. In: Revista Municipal de Engenharia. Prefeitura do Distrito Federal. Edição eletrônica. Disponível em &lt;http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/32.htm&gt; Acesso em 11 de junho de 2009 17:34:23.
-- HAMERMAN, Conrad. Entrevista concedida por Burle Marx. Publicada em The Journal of Decorative and Propaganda Arts, n. 21, de 1995, edição temática dedicada ao Brasil. Disponível em: &lt;http://www.vivercidades.org.br/publique_222/web/cgi/cgilua.exe/sys/start.htm?from%5Finfo%5Findex=21&i nfoid=80&sid=19&gt;Acesso em 11 junho de 2009 00:27:38.
+- COSTA, Lucia. Burle Marx e o Paisagismo no Brasil Contemporâneo. In: Revista Municipal de Engenharia. Prefeitura do Distrito Federal. Edição eletrônica. Disponível em &lt;<a href="http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/32.htm">http://obras.rio.rj.gov.br/rmen/eletronica_burle/eletronica_html/32.htm</a>&gt; Acesso em 11 de junho de 2009 17:34:23.
+- HAMERMAN, Conrad. Entrevista concedida por Burle Marx. Publicada em The Journal of Decorative and Propaganda Arts, n. 21, de 1995, edição temática dedicada ao Brasil. Disponível em: &lt;<a href="http://www.vivercidades.org.br/publique_222/web/cgi/cgilua.exe/sys/start.htm?from%5Finfo%5Findex=21&i">http://www.vivercidades.org.br/publique_222/web/cgi/cgilua.exe/sys/start.htm?from%5Finfo%5Findex=21&i</a>&gt; nfoid=80&sid=19&gt;Acesso em 11 junho de 2009 00:27:38.
 - LEENHARDT, Jacques. (org.). Nos Jardins de Burle Marx. Editora Perspectiva, São Paulo, 2000.
-- MACEDO, Silvio Soares. O paisagismo moderno brasileiro – além de Burle Marx. In: Paisagens em Debate. Revista eletrônica da área Paisagem e Ambiente, FAU / USP, outubro, 2003. Disponível em &lt;http://www.usp.br/fau/depprojeto/gdpa/paisagens/inicio.html&gt; Acesso em 11 de junho de 2009 18:45:30
+- MACEDO, Silvio Soares. O paisagismo moderno brasileiro – além de Burle Marx. In: Paisagens em Debate. Revista eletrônica da área Paisagem e Ambiente, FAU / USP, outubro, 2003. Disponível em &lt;<a href="http://www.usp.br/fau/depprojeto/gdpa/paisagens/inicio.html">http://www.usp.br/fau/depprojeto/gdpa/paisagens/inicio.html</a>&gt; Acesso em 11 de junho de 2009 18:45:30
 - MELLO FILHO, Luis Emygidio de. O moderno jardim da Praia de Botafogo. In: Revista Municipal de Engenharia. Prefeitura do Distrito Federal, julho-setembro, 1954.
 - REIS, Jose de Oliveira. O Rio de Janeiro e seus prefeitos. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, 1977.

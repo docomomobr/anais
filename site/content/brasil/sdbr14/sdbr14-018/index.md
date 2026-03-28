@@ -63,7 +63,7 @@ palavras-chave:
 - FERREIRA, Costa. Carta ao Dr. Mario Machado, 30.10.1924, RJ/RJ. Acervo Geral da Cidade do Rio de Janeiro - AGCRJ – Códice 33.2.45B.
 - FLEMING, L. Roberto Burle Marx: um retrato. Rio de Janeiro: Index, 1996.
 - FLORIANO, Cesar. A Poética da Criação de Roberto Burle Marx – Gênese do jardim moderno no Brasil. Manuscrítica - Revista de Crítica Genética, São Paulo, n. 24, p. 114-120, 2013.
-- LODI, C. V. (ED.). Dossiê de Candidatura do Rio de Janeiro – Paisagens Cariocas entre a Montanha e o Mar IPHAN/PCRJ/Governo do Estado do Rio de Janeiro, 28 mar. 2011. Disponível em: &lt;http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dossi%C3%AA%20portugu%C3%AAs%2028%20mar%C3%A7o %202011%20RJ.pdf&gt;. Acesso em: 26 abr. 2020.
+- LODI, C. V. (ED.). Dossiê de Candidatura do Rio de Janeiro – Paisagens Cariocas entre a Montanha e o Mar IPHAN/PCRJ/Governo do Estado do Rio de Janeiro, 28 mar. 2011. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dossi%C3%AA%20portugu%C3%AAs%2028%20mar%C3%A7o">http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Dossi%C3%AA%20portugu%C3%AAs%2028%20mar%C3%A7o</a>&gt; %202011%20RJ.pdf&gt;. Acesso em: 26 abr. 2020.
 - ONO, Júlio José de Carvalho. Roberto Burle Marx: Um Novo Olhar sobre o Desenho na Paisagem. 2011. Dissertação apresentada PROURB/FAU/UFRJ, Rio de Janeiro, 2011.
 - PEREZ, Julia Rey. Burle Marx. Del Lienzo ao Espaço Público no RJ. Instituto de Estudos sobre América Latina. Universidade de Sevilla, 2014.
 - PINHEIRO, Augusto Ivan et al. Praia de Copacabana: um ícone carioca. Revista do Arquivo Geral da Cidade do Rio de Janeiro, n. 3, p. 57-76, 2009.

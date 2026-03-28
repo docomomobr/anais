@@ -54,7 +54,7 @@ authors:
     familyname: "Garrido"
     orcid: "0000-0002-0667-7958"
 doi: "10.5281/zenodo.19069844"
-zenodo_pdf_url: "https://zenodo.org/records/19069845/files/sdbr15-078.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285718/files/sdbr15-078.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -74,7 +74,7 @@ palavras-chave:
 - DIAZ, Francisco, CARRASCO, Gonzalo, PELIOWSKI, Amarí. (Eds). Vamos p'arriba: La remodelación San Borja y la vivienda vertical en Chile” Santiago:Ediciones ARQ. 2022.
 - MIRANDA Rodríguez, BUCHHOLTZ Galigniana, C., & SALVI Rosende, E. (1970). Remodelación San Borja.
 - PAVEZ, M. PARROCHIA, J.A. (2016) Los primeros planes intercomunales metropolitanos de Chile. V. 1: Los planes para Santiago de Chile 1960-1994. Santiago: Universidad de Chile, Facultad de Arquitectura y Urbanismo, Departamento de Urbanismo.
-- PEREZ DE ARCE, Rodrigo. El jardín de los senderos entrecruzados: La remodelación San Borja y las escuelas de arquitectura. ARQ (Santiago) []. 2016, 92, pp.50-67. ISSN 0717-6996. http://dx.doi.org/10.4067/S0717- 69962016000100007.
+- PEREZ DE ARCE, Rodrigo. El jardín de los senderos entrecruzados: La remodelación San Borja y las escuelas de arquitectura. ARQ (Santiago) []. 2016, 92, pp.50-67. ISSN 0717-6996. &lt;<a href="http://dx.doi.org/10.4067/S0717-">http://dx.doi.org/10.4067/S0717-</a>&gt; 69962016000100007.
 - RAPOSO, A., VALENCIA, M., & RAPOSO, G. Memorias e historia de las realizaciones habitacionales de la Corporación de Mejoramiento Urbano. 1966-1976 Santiago: Universidad Central de Chile. 2005.
 - SCHAPIRA, A., et. Al. ¿Edificación en altura?. Auca: Arquitectura Urbanismo Construcción Arte, (16), 1961 pp. 61–70.
 - SOMEKH , Nadia A Cidade Vertical e o Urbanismo Modernizador. Sao Paulo: Editora Mackenzie, 2014.

@@ -68,7 +68,7 @@ palavras-chave:
 - CARVALHO, Antônio Pedro Alves de. Introdução à Arquitetura Hospitalar. Salvador: Quarteto Editora, 2014.
 - CONGRESSOS INTERNACIONAIS DE ARQUITETURA MODERNA. A Carta de Atenas. São Paulo: Hucitec, 1989.
 - DELSON, Roberta Marx. (1997). Novas vilas para o Brasil Colônia. Brasília, Edições Alva.
-- SILVA, Joel Nolasco Queiroz Cerqueira e. “Rumo à Civilização”: Higiene e Urbanização em Salvador na Primeira República (1906-1924). Disponível em: http://www.uesb.br/anpuhba/artigos/anpuh_II/joel_nolasco_queiroz_cerqueira_e_silva.pdf Acesso em: jun 2018
+- SILVA, Joel Nolasco Queiroz Cerqueira e. “Rumo à Civilização”: Higiene e Urbanização em Salvador na Primeira República (1906-1924). Disponível em: &lt;<a href="http://www.uesb.br/anpuhba/artigos/anpuh_II/joel_nolasco_queiroz_cerqueira_e_silva.pdf">http://www.uesb.br/anpuhba/artigos/anpuh_II/joel_nolasco_queiroz_cerqueira_e_silva.pdf</a>&gt; Acesso em: jun 2018
 - FERNANDES, Afonso. Qualidade dos materiais e componentes da construção. Lisboa: LNEC, 1986
 - GIEDION, Sigfried. La necesidad de una nueva monumentalidad. In: COLEGIO OFICIAL DE
 - APAREJADORES Y ARQUITECTOS TÉCNICOS DE MURCIA. Sigfried Giedion. Textos escogidos. Valença: Artes Gráficas Soler, 1997, p.159-177.

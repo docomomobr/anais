@@ -44,7 +44,7 @@ authors:
     affiliation: "UnB"
     orcid: "0000-0003-0426-8090"
 doi: "10.5281/zenodo.19122148"
-zenodo_pdf_url: "https://zenodo.org/records/19122149/files/sdbr07-020.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285523/files/sdbr07-020.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
@@ -60,8 +60,8 @@ palavras-chave:
 
 - BOTEY, Josep Mª. Oscar Niemeyer: obras y proyectos. Barcelona: Gustavo Gilli, 1997. 255 p.
 - BRASIL. Arte e arquitetura na Câmara dos Deputados - Art and architecture in the Chamber of Deputies. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2005.
-- BRASIL, Poder Legislativo, CON 1988 de 05/10/1988 - Constituição Federal de 1988. Disponível via: &lt;http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=102409&gt; Acesso em 15 ago. 2007.
-- BRASIL, Poder Legislativo, EMC 8 de 14/04/1977 - Emenda Constitucional. Disponível via: &lt;http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=123922&gt; Acesso em 15 ago. 2007.
+- BRASIL, Poder Legislativo, CON 1988 de 05/10/1988 - Constituição Federal de 1988. Disponível via: &lt;<a href="http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=102409">http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=102409</a>&gt; Acesso em 15 ago. 2007.
+- BRASIL, Poder Legislativo, EMC 8 de 14/04/1977 - Emenda Constitucional. Disponível via: &lt;<a href="http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=123922">http://www6.senado.gov.br/sicon/ListaReferencias.action?codigoBase=2&codigoDocumento=123922</a>&gt; Acesso em 15 ago. 2007.
 - BRASÍLIA. Secretaria de Viação e Obras. Brasília 57-85: Do plano-piloto ao plano piloto. Brasília: Companhia Imobiliária de Brasília, 1985. 145 p.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. Tradução de Ana Goldberger. São Paulo: Editora Perspectiva, 2002. 399 p.
 - CÂMARA DOS DEPUTADOS, DETEC – CPROJ – NUARQ – Seção de Gerenciamento e Planejamento dos Espaços Físicos. Caderno Técnico - Acessibilidade viária & estacionamentos: considerações preliminares sobre a situação atual da Câmara dos Deputados. 2007. Não publicado.

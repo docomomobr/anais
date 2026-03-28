@@ -51,13 +51,13 @@ palavras-chave:
 
 ## Referências
 
-- AMORA, A. M. G. Paulo Motta e a arquitetura de saúde em Santa Catarina, 1936/1940: a contribuição do &lt;http://docomomo.org.br/wp-content/uploads/2016/01/129_M10_RM-PauloMottaEaArquitetura- ART_ana_amora.pdf&gt;. Acesso: 03 mar. 2017.
+- AMORA, A. M. G. Paulo Motta e a arquitetura de saúde em Santa Catarina, 1936/1940: a contribuição do &lt;<a href="http://docomomo.org.br/wp-content/uploads/2016/01/129_M10_RM-PauloMottaEaArquitetura-">http://docomomo.org.br/wp-content/uploads/2016/01/129_M10_RM-PauloMottaEaArquitetura-</a>&gt; ART_ana_amora.pdf&gt;. Acesso: 03 mar. 2017.
 - ZEIN, R. V.; BASTOS, A. J. Brasil arquiteturas após 1950. São Paulo: Perspectiva, 2010.
 - BRUAND, Y. Arquitetura contemporânea no Brasil. 4. ed. São Paulo: Perspectiva, 2002.
 - BURY, J. Arquitetura e Arte no Brasil Colonial. Brasília: IPHAN-Monumenta, 2006.
 - DELAZERI, J. J. (Ed.). Álbum fotográfico da história de Erechim. Erechim: Edelbra, 2000
 - DUCATTI NETO, A. O grande Erechim e sua história. Porto Alegre: EST, 1981.
-- GOODWIN, P. L. Brazil builds: architecture new and old, 1652-1942. New York: MoMA, 1943. Disponivel em: &lt;https://www.moma.org/documents/moma_catalogue_2304_300061982.pdf&gt;. Acesso em: 02 fev. 2018.
+- GOODWIN, P. L. Brazil builds: architecture new and old, 1652-1942. New York: MoMA, 1943. Disponivel em: &lt;<a href="https://www.moma.org/documents/moma_catalogue_2304_300061982.pdf">https://www.moma.org/documents/moma_catalogue_2304_300061982.pdf</a>&gt; Acesso em: 02 fev. 2018.
 - FÜNFGELT, K. História da paisagem e evolução urbana da cidade de Erechim - RS. Dissertação (Mestrado) - Programa de Pós-graduação em Geografia, Centro de Filosofia e Ciências Humanas, UFSC. Florianópolis. 2004.
 - MINDLIN, H. E. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.
 - MATTOS, Melissa L. Ecos da modernidade no Alto Uruguai Gaúcho: o caso de Erechim. Tese (doutorado). Programa de Pós Graduação em Arquitetura. Universidade Federal do Rio de Janeiro. Rio de Janeiro. 2020.

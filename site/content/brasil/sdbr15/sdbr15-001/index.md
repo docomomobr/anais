@@ -61,7 +61,7 @@ palavras-chave:
 ## Referências
 
 - AINDA no ambito de acção da Secretaria de Educação e Saúde. Diário de Notícias, Salvador, n.p., 10 nov. 1938.
-- ALECRIM, Laura. Arquitetura profilática: Leprosários Brasileiros (1918-1949), 2012. Dissertação (Mestrado em Desenvolvimento Urbano) – Universidade Federal de Pernambuco, 2012. Disponível em: &lt;https://www.researchgate.net/publication/353295342_Arquitetura_Profilatica_Leprosarios_Brasileiros_1 918-1949&gt;. Acesso em 08 ago. 2022. DOI:10.13140/RG.2.2.34848.30727
+- ALECRIM, Laura. Arquitetura profilática: Leprosários Brasileiros (1918-1949), 2012. Dissertação (Mestrado em Desenvolvimento Urbano) – Universidade Federal de Pernambuco, 2012. Disponível em: &lt;<a href="https://www.researchgate.net/publication/353295342_Arquitetura_Profilatica_Leprosarios_Brasileiros_1">https://www.researchgate.net/publication/353295342_Arquitetura_Profilatica_Leprosarios_Brasileiros_1</a>&gt; 918-1949&gt;. Acesso em 08 ago. 2022. DOI:10.13140/RG.2.2.34848.30727
 - ANDRADE JÚNIOR, Nivaldo. Arquitetura moderna e as Instituições de Saúde na Bahia nas Décadas de 1930 a 1950. In: SOUZA, CMC; BARRETO, MRN (org). História da saúde na Bahia: instituições e patrimônio arquitetônico (1808-1958). Rio de Janeiro: Editora Fiocruz/Barueri; Editora Manole, 2011. p.101-145.
 - ANIVERSARIO do preventorio de Brotas. O Momento, Salvador, p.05, 18 mai. 1948.
 - ARAÚJO, Cesar. O preventorio na luta contra a tuberculose. Rotary Bahiano, Salvador, p.24-28, jul. 1939.
@@ -70,7 +70,7 @@ palavras-chave:
 - BAHIA em 1936 (A). Jornal do Comércio, Rio de Janeiro, p.15, 19 jul. 1936.
 - BRASIL. Ministério da Saúde. Departamento Nacional de Saúde. Divisão de Organização Hospitalar. História e Evolução dos Hospitais. Rio de Janeiro: Departamento Nacional de Saúde, 1965.
 - CASA das mães (A). Diário de Notícias, Salvador, n.p., 08 ago. 1930.
-- CHATEAUBRIAND, Assis. In: Dicionário-Biográfico Brasileiro – Pós-1930. Rio de Janeiro: CPDOC, 2010. Disponível em: https://cpdoc.fgv.br/sites/default/files/verbetes/primeira- republica/CHATEAUBRIAND,%20Assis.pdf. Acesso em jan. 2023.
+- CHATEAUBRIAND, Assis. In: Dicionário-Biográfico Brasileiro – Pós-1930. Rio de Janeiro: CPDOC, 2010. Disponível em: &lt;<a href="https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-">https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-</a>&gt; republica/CHATEAUBRIAND,%20Assis.pdf. Acesso em jan. 2023.
 - CHATEAUBRIAND, Assis. Um sonho russo. O Jornal, Rio de Janeiro, p.02, 05 jan. 1936.
 - COSTA, Renato Gama-Rosa. Apontamentos para a arquitetura hospitalar no Brasil: entre o tradicional e o moderno. História, Ciência, Saúde – Manguinhos, Rio de Janeiro, v. 18, suplemento 1, p.53-66, dez, 2011.
 - COMO os poderes públicos bahianos encaram o problema da assistencia á infancia – As creches, os lactários e o Asylo dos Expostos. O Jornal, Rio de Janeiro, p.01, 14 mar. 1936.
@@ -123,6 +123,6 @@ palavras-chave:
 - SERÁ o centro da rede hospitalar para o isolamento de tuberculosos. Diário de Notícias, Salvador, n.p., 29 dez. 1941.
 - SILVEIRA, José. A campanha antituberculosa na Bahia. Salvador: Companhia e Editora Gráfica da Bahia, 1937.
 - SILVEIRA, José. À sombra de uma sigla ou 40 anos de IBIT. Salvador, [s.n.], 1977.
-- SOUZA, Christiane. Sociedade, política e saúde na Bahia (1930-1950) História: Questões e Debates, Curitiba, n.1, vol.65, jan./jun., 2017, p. 263-284. Disponível em: &lt;https://www.academia.edu/55578800/Sociedade_Pol%C3%ADtica_e_Sa%C3%BAde_Na_Bahia_1930_195 0_&gt; Acesso em 25 jun. 2022.
+- SOUZA, Christiane. Sociedade, política e saúde na Bahia (1930-1950) História: Questões e Debates, Curitiba, n.1, vol.65, jan./jun., 2017, p. 263-284. Disponível em: &lt;<a href="https://www.academia.edu/55578800/Sociedade_Pol%C3%ADtica_e_Sa%C3%BAde_Na_Bahia_1930_195">https://www.academia.edu/55578800/Sociedade_Pol%C3%ADtica_e_Sa%C3%BAde_Na_Bahia_1930_195</a>&gt; 0_&gt; Acesso em 25 jun. 2022.
 - TRAJANO, Francisco. Arquiteturas e Estado no Brasil de Vargas (1930-1945). Registros, Mar del Plata, vol.14, p.71-87, jul.-dez. 2018.
 - UZEDA, Jorge Almeida. O Aguaceiro da Modernidade na Cidade do Salvador (1935-1945). Tese (Faculdade de Filosofia e Ciências Humanas) – Universidade Federal da Bahia, 2006.

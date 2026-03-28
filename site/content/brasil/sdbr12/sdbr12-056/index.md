@@ -56,12 +56,12 @@ palavras-chave:
 
 ## Referências
 
-- CIAM. Carta de Atenas, Atenas: 1933. Disponível em: &lt;&lt; http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Atenas%201933.pdf&gt;&gt;.
+- CIAM. Carta de Atenas, Atenas: 1933. Disponível em: &lt; &lt;<a href="http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Atenas%201933.pdf">http://portal.iphan.gov.br/uploads/ckfinder/arquivos/Carta%20de%20Atenas%201933.pdf</a>&gt;
 - FREYRE, F. O movimento regionalista e tradicionalista e a seu modo também modernista: algumas considerações. In: Ciência & Trópico, Recife, 5(2). P. 175-188, jul/dez. 1977.
 - MOREIRA, F.D. A aventura do urbanismo moderno in Urbanismo no Brasil, LEME, M.C.,(org.) Urbanismo no Brasil, 1895-1965. São Paulo: Nobel/Edusp,1999.
 - MOREIRA, F.D. A transformação do bairro de Santo Antônio no Recife (1938-1949). In: XIV Seminário de História da Cidade e do Urbanismo. Anais, 2016.
 - NASLAVSKY, G. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim. Tese de Doutorado. São Paulo: Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2004.
-- OUTTES, J.  O Recife pregado à cruz das grandes avenidas: Contribuição à história do Urbanismo (1927-1945). Ms. Diss., Recife: MDU/UFPE, 1991
+- OUTTES, J. O Recife pregado à cruz das grandes avenidas: Contribuição à história do Urbanismo (1927-1945). Ms. Diss., Recife: MDU/UFPE, 1991
 - PEREIRA, J. Dilemas e confrontos entre o urbanismo modernista e a conservação urbana na cidade do Recife: o plano de gabaritos de 1965.
 - TFG, UFPE, Recife, 2009.
 - SOLÀ-MORALES RUBIÓ, I. (1987). Do contraste a analogia: novos desdobramentos do conceito de intervenção arquitetônica. In: NESBITT, K. Uma nova agenda para a arquitetura: antologia teórica 1965-1995. São Paulo: Cosac Naify, 2013. 2 ed. p. 254-263.

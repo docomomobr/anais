@@ -71,7 +71,7 @@ palavras-chave:
 - CASAL, A. El automóvil en America Del Sur: orígenes – Argentina, Brasil, Paraguay, Uruguay. Montevideo: Ediciones de la Banda Oriental, 1996.
 - CATAFESTA, M. Habitar a indústria. Dissertação (Mestrado em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo. Porto Alegre: UFRGS, 2012.
 - CATAFESTA, Manuela. Albert Kahn: uma fábrica no Brasil. 2019. 332 fls. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2019.
-- CAVALCANTI, L. e LAGO, A. C. Ainda moderno? Arquitetura brasileira contemporânea. In: Arquitextos, São Paulo, ano 06, n. 066.00, Vitruvius, nov. 2005. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404&gt;. Acesso em 09 nov 2018
+- CAVALCANTI, L. e LAGO, A. C. Ainda moderno? Arquitetura brasileira contemporânea. In: Arquitextos, São Paulo, ano 06, n. 066.00, Vitruvius, nov. 2005. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404">http://www.vitruvius.com.br/revistas/read/arquitextos/06.066/404</a>&gt; Acesso em 09 nov 2018
 - CONDIT, C. W. Review of Design for Industry: The Architecture of Albert Kahn, by Grant Hildebrand. Technology and Culture, v. 16, n. 2, pp. 313–315, 1975.
 - CORREIA, J. C.. Impactos da indústria automobilística nas cidades do estado de São Paulo e sua transformação em função do processo industrial. Tese (Doutorado em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo. São Paulo: USP, 2008.
 - DOWNES, R. Autos over Rails: How US business supplanted the British in Brazil, 1910-28. In: Journal of Latin American Studies, v. 24, n. 3, p. 551-83, 1992.
@@ -99,7 +99,7 @@ palavras-chave:
 - RAPPAPORT, N. Vertical urban factory. New York: Actar Publishers, 2015.
 - RAVARA, P. B. A consolidação de uma prática: do edifício fabril em betão armado nos EUA aos modelos europeus de modernidade. Tese (Doutorado em Arquitetura). Faculdade de Arquitectura da Universidade Técnica de Lisboa. Lisboa: UTL, 2008.
 - SCHEU, J. Design for the workplace: a new factory. Dissertação (Master of Architecture). Massachusetts Institute of Technology: Cambridge, 1979.
-- SEDLAR, F. Engineering Industrial Architecture: The Trussed Concrete Steel Company and Albert Kahn. Visual Culture and Archives, Bentley Historical Library. Disponível em &lt;https://deepblue.lib.umich.edu/bitstream/handle/2027.42/98436/Sedlar_Engineering_Industrial_Archit ecture.pdf?sequence=1&gt; Acesso: 7 abr. 2018
+- SEDLAR, F. Engineering Industrial Architecture: The Trussed Concrete Steel Company and Albert Kahn. Visual Culture and Archives, Bentley Historical Library. Disponível em &lt;<a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/98436/Sedlar_Engineering_Industrial_Archit">https://deepblue.lib.umich.edu/bitstream/handle/2027.42/98436/Sedlar_Engineering_Industrial_Archit</a>&gt; ecture.pdf?sequence=1&gt; Acesso: 7 abr. 2018
 - SEGAWA, H. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 2014.
 - TRUSSED CONCRETE Steel Company. Kahn System Standards: a Hand Book of Practical Calculation And Application of Reinforced Concrete. London: Trussed Concrete Steel Company, 1907.
 - VASCONCELOS, A. C.. O concreto no Brasil: recordes, realizações, história. São Paulo: Copiare, 1985.
@@ -109,4 +109,4 @@ palavras-chave:
 - ZIMMERMAN, C. Albert Kahn in the Second Industrial Revolution. In: AA Files, n. 75, p. 28–44, 2017.
 - ZIMMERMAN, C. Albert Kahn's Territories. In: Office US Agenda. Zurich: Lars Müller Publishers and PRAXIS, p. 117-127, 2014.
 - ZIMMERMAN, C. Photographic Architecture in the Twentieth Century. Minneapolis: University of Minnesota Press, 2014.
-- ZIMMERMAN, C. The Labor of Albert Kahn. Aggregate Architectural History Collaborative. Disponível em: http://www.weaggregate.org/piece/the-labor-of-albert-kahn Acesso em 10 mai 2018.
+- ZIMMERMAN, C. The Labor of Albert Kahn. Aggregate Architectural History Collaborative. Disponível em: &lt;<a href="http://www.weaggregate.org/piece/the-labor-of-albert-kahn">http://www.weaggregate.org/piece/the-labor-of-albert-kahn</a>&gt; Acesso em 10 mai 2018.

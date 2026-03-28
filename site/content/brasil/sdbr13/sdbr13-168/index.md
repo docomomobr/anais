@@ -44,7 +44,7 @@ authors:
     familyname: "Guerra"
     orcid: "0000-0002-2207-572X"
 doi: "10.5281/zenodo.19077853"
-zenodo_pdf_url: "https://zenodo.org/records/19077854/files/sdbr13-168.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285659/files/sdbr13-168.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -62,7 +62,7 @@ palavras-chave:
 - ARANTES, P. F. Arquitetura Nova - Sérgio Ferro, Flávio Império e Rodrigo Lefévre - de Artigas aos mutirões. São Paulo: Editora 34, 2002.
 - ARTIGAS, V. Caminhos da Arquitetura. São Paulo: LECH, 1981, 1 ed. Fundação Vilanova Artigas/ Nobel, 1981;
 - ARTIGAS, R.; LIRA, J. T. C. de (orgs.). Os Caminhos da Arquitetura Moderna/ Vilanova Artigas. 4.ed. São Paulo: Cosac Naify, 2004.
-- AUGUSTO, W. F. C.; GUADANHIM, S. J.. Os "pequenos" conjuntos Cecap derivados de Guarulhos e Jundiaí: uma análise. Ambiente Construído. vol.16, n.3. Porto Alegre, jul/set 2016. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167. Acesso em: 13 dez 2017.
+- AUGUSTO, W. F. C.; GUADANHIM, S. J.. Os "pequenos" conjuntos Cecap derivados de Guarulhos e Jundiaí: uma análise. Ambiente Construído. vol.16, n.3. Porto Alegre, jul/set 2016. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1678-86212016000300167</a>&gt; Acesso em: 13 dez 2017.
 - CERÁVOLO, F. A Pré-Fabricação em Concreto Armado Aplicada a Conjuntos Habitacionais no Brasil: O caso do “Conjunto Habitacional Zezinho Magalhães Prado”. Dissertação (Mestrado). Escola de Engenharia, Universidade de São Paulo, São Paulo, 2007.
 - COTRIM, M. Vilanova Artigas - Casas paulistas 1967-1981. São Paulo: Romano Guerra, 2017.
 - DIAS, M. A. S. Propostas para “uma nova maneira de viver”: Vilanova Artigas e a ação habitacional da
@@ -71,4 +71,4 @@ palavras-chave:
 - KOURY, A. P. Arquitetura construtiva: proposições para a produção material da arquitetura contemporânea no Brasil. Tese (Doutorado em Estruturas Ambientais Urbanas). Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2005.
 - LE CORBUSIER. Quand les Cathédrales Etaient Blanches. Gonthier, s/d.
 - MOTTA, F. Desenho e emancipação. Correio Braziliense. Caderno Cultural. Brasília, 16 de dez, 1967.
-- WAGNER, K. "Dear Internet: Stop Placing Blame for Gentrification on an Architectural Style". ArchDaily 26, abr 2018. Disponível em: &lt;https://www.archdaily.com/893364/dear-internet-stop- placing-blame-for-gentrification-on-an-architectural-style/&gt; ISSN 0719-8884. Acesso em: 20 mai 2018.
+- WAGNER, K. "Dear Internet: Stop Placing Blame for Gentrification on an Architectural Style". ArchDaily 26, abr 2018. Disponível em: &lt;<a href="https://www.archdaily.com/893364/dear-internet-stop-">https://www.archdaily.com/893364/dear-internet-stop-</a>&gt; placing-blame-for-gentrification-on-an-architectural-style/&gt; ISSN 0719-8884. Acesso em: 20 mai 2018.

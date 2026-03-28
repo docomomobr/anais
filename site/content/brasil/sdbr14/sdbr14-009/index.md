@@ -49,20 +49,20 @@ palavras-chave:
 - AFONSO, Alcília e MARQUES, Rômulo. Teresina em aquarelas. Teresina, 2014.
 - AMARAL, Izabel. Um olhar sobre a obra de Acácio Gil Borsoi: obras e projetos residenciais 1953-1970. 2004. 238 f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade Federal do Rio Grande do Norte, Natal.
 - BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2011.
-- BORSOI, Acácio Gil. Arquitetura como Manifesto. 2006. (5m35s). Disponível em: https://www.youtube.com/watch?v=zWC1UQ6aHxk. Acesso em: 08 de outubro de 2019.
+- BORSOI, Acácio Gil. Arquitetura como Manifesto. 2006. (5m35s). Disponível em: &lt;<a href="https://www.youtube.com/watch?v=zWC1UQ6aHxk">https://www.youtube.com/watch?v=zWC1UQ6aHxk</a>&gt; Acesso em: 08 de outubro de 2019.
 - BORSOI, Acácio Gil; DANTAS, N. B. (Org.). Acácio Gil Borsoi: Arquitetura como manifesto. Recife, 2006.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. Ed. Perspectiva, São Paulo. 1991.
 - BURNETT, Frederico Lago. São Luís por um triz: escritos urbanos e regionais. São Luís: EdUEMA, 2012.
 - COSTA, Julia Mendonça ; FURTADO, Livia Antunes ; GOMES, Midrea Gianessi do Valle ; SÁ NETO, Oton Gonçalves. Hospital Dr. Carlos Macieira: um recorte do moderno brutalista de Borsoi em São Luis. III SAMA. Belém, PA. 2018.
-- Entrevista: Arquiteto Acácio Gil Borsoi. URL: http://www.arcoweb.com.br/entrevista/entrevista17.asp. Acesso em 20 de outubro de 2019.
+- Entrevista: Arquiteto Acácio Gil Borsoi. URL: &lt;<a href="http://www.arcoweb.com.br/entrevista/entrevista17.asp">http://www.arcoweb.com.br/entrevista/entrevista17.asp</a>&gt; Acesso em 20 de outubro de 2019.
 - Hospital do IPEM pronto para a sua inauguração. Jornal Estado do Maranhão. São Luís: 12 de maio de 1982.
 - MINDLIN, Henrique E. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.
 - MONTEIRO, Amanda Rafaelly Casé. Monumentalidade e Tradição Clássica: a obra pública de Acácio Gil Borsoi. Dissertação – Mestrado em Desenvolvimento Urbano, Faculdade de Arquitetura e Urbanismo da Universidade Federal de Pernambuco. Recife, 2013.
 - MOTA, Larissa de Miranda Teixeira. Arquitetura Brutalista Institucional em São Luís: Análise dos Edifícios do Centro de Ciências Sociais – UFMA, do Hospital Carlos Macieira, do Ministério da Fazenda, do Estádio do Castelão e do Fórum Desembargador Sarney Costa. 2017. Dissertação (Trabalho de Conclusão de Curso) – Graduação em Arquitetura e Urbanismo, Universidade Estadual do Maranhão, São Luís.
 - NASCIMENTO, Lúcia; PFLUEGER, Grete; COSTA, Alcilia A; CHAVES, C. . A Memória da arquitetura moderna na cidade de São Luis do Maranhão. In: Alcilia Afonso. (Org.). Modernidade no Norte Nordeste Brasileiro : o diálogo entre arquitetura, tectônica e lugar. 1ed.teresina: Editora Gráfica Cidade Verde., 2017, v. 1, p. 67-91.
-- NEVES, Juliana; AROUCHA, Rosa; NEVES, Taciana; OLIVEIRA, Veronice. Plataforma Clio. Acervo Acácio Gil Borsoi. Disponível em: http://www.liber.ufpe.br/acacioborsoi/acervo2.php. Acessado em 20 de outubro de 2019.
+- NEVES, Juliana; AROUCHA, Rosa; NEVES, Taciana; OLIVEIRA, Veronice. Plataforma Clio. Acervo Acácio Gil Borsoi. Disponível em: &lt;<a href="http://www.liber.ufpe.br/acacioborsoi/acervo2.php">http://www.liber.ufpe.br/acacioborsoi/acervo2.php</a>&gt; Acessado em 20 de outubro de 2019.
 - PFLUEGER, Grete; LOPES, Jose Antônio. Arquitetura do século XX. São Luís – Ilha do Maranhão e Alcântara: Guia de Arquitetura e Paisagem. 1 ed. (bilíngue). Sevilla: Dirección General de Arquitectura y Vivienda, 2008.
 - SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1998.
 - SILVA FILHO, Olavo Pereira. Arquitetura luso-brasileira no Maranhão. Brasília: Fontana, 1986.
-- SOUZA, Eduardo. Clássicos da arquitetura: Memorial Maria Aragão/ Oscar Niemeyer. Disponível em https://www.archdaily.com.br/br/798537/classicos-da-arquitetura-memorial-maria-aragao-oscar- niemeyer. 02 de novembro de 2016. Acessado em 24 de novembro de 2019.
+- SOUZA, Eduardo. Clássicos da arquitetura: Memorial Maria Aragão/ Oscar Niemeyer. Disponível em &lt;<a href="https://www.archdaily.com.br/br/798537/classicos-da-arquitetura-memorial-maria-aragao-oscar-">https://www.archdaily.com.br/br/798537/classicos-da-arquitetura-memorial-maria-aragao-oscar-</a>&gt; niemeyer. 02 de novembro de 2016. Acessado em 24 de novembro de 2019.
 - WASINSKI PRADO, Barbara Irene. O Palácio dos Leões e o projeto paisagístico de Roberto Burle Marx. Belo Horizonte, 2014.

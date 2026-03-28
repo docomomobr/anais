@@ -50,7 +50,7 @@ palavras-chave:
 ## Referências
 
 - WASA/Studio A (ed.). The Solomon R. Guggenheim Museum – Peer Review Documentation, Volumes I and II, May 2006.
-- Jerome, Pamela. “Restoring Frank Lloyd Wright’s Solomon R. Guggenheim Museum”   for (Un)Loved Modern: Conservation of Twentieth Century Heritage Conference, Sydney, Australia, 2009.
+- Jerome, Pamela. “Restoring Frank Lloyd Wright’s Solomon R. Guggenheim Museum” for (Un)Loved Modern: Conservation of Twentieth Century Heritage Conference, Sydney, Australia, 2009.
 - Jerome, Pamela. “An Introduction to Authenticity in Preservation,” APT Bulletin 39, No. 2-3 (2008).
 - Ayón, Angel. “Historic Fabric vs. Design Intent: Authenticity and Preservation of Modern Architecture at Frank Lloyd Wright's Guggenheim Museum”, Journal of Architectural Conservation, Volume 15, Issue 3, November 2009.
-- Wasieleski, Rebecca. “Repairing a Concrete Masterpiece”. Concrete Contractor, December, 2007. Posted January 12th, 2011, http://www.forconstructionpros.com/publication/printer.jsp?id=9055, accessed on 19/02/2011.
+- Wasieleski, Rebecca. “Repairing a Concrete Masterpiece”. Concrete Contractor, December, 2007. Posted January 12th, 2011, &lt;<a href="http://www.forconstructionpros.com/publication/printer.jsp?id=9055">http://www.forconstructionpros.com/publication/printer.jsp?id=9055</a>&gt; accessed on 19/02/2011.

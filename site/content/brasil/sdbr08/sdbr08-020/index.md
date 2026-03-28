@@ -56,7 +56,7 @@ palavras-chave:
 - BERENSTEIN, Paola. Elogio aos errantes: breve histórico das errâncias urbanas. Disponível em: &lt;www.vitruvius.com.br&gt;. Acesso em 23 mai 2009.
 - BRUSCKY, Paulo. Recife, Pernambuco, 24 mai. 2008. 1 fita minidv (60 min.). Entrevista concedida.
 - CARLOS, Ana Fani Alessandri. O espaço urbano: novos escritos sobre a cidade. São Paulo: Contexto, 2004.
-- FUNDAÇÃO JOAQUIM NABUCO. Rio Capibaribe, Recife. Recife: FUNDAJ, 2003. Disponível em: &lt;http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC ode=16&pageCode=316&textCode=767&date=currentDate&gt; Acesso em: 28 mai 2009.
+- FUNDAÇÃO JOAQUIM NABUCO. Rio Capibaribe, Recife. Recife: FUNDAJ, 2003. Disponível em: &lt;<a href="http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC">http://www.fundaj.gov.br/notitia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC</a>&gt; ode=16&pageCode=316&textCode=767&date=currentDate&gt; Acesso em: 28 mai 2009.
 - FREIRE, Cristina. Arte conceitual. Rio de Janeiro: Jorge Zahar, 2006a.
 - FREIRE, Cristina. Paulo Bruscky: arte, arquivo e utopia. Recife: Companhia Editora de Pernambuco, 2006b.
 - FREITAS, Sicília Calado. Arte, cidade e sociedade: dimensões da arte pública no contexto urbano. In: Cadernos do PPGAV – UFBA, 1., 2005, Salvador. Salvador: UFBA, 2005
@@ -64,5 +64,5 @@ palavras-chave:
 - JAREMTCHUK, Dária. Anna Bella Geiger: passagens conceituais. São Paulo: Edusp; Belo Horizonte: C/Arte, 2007. 180p
 - MATOS, Lidice. Museu contemporâneo de arte: lugar privilegiado e ambivalente da crítica. 2007. 177 f. Dissertação (Mestrado em Artes) – Instituto de Artes, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2007.
 - PALLAMIN, Vera. Arte Urbana. São Paulo: Anna Blume, 2000.
-- VAINSENCHER, Semira Adler. Praça da Independência. Recife: FUNDAJ. Disponível em: &lt;http://www.fundaj.gov.br/noticia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC ode=16&pageCode=312&textCode=819&date=currentDate&gt; Acesso em 02 jun. 2009.
+- VAINSENCHER, Semira Adler. Praça da Independência. Recife: FUNDAJ. Disponível em: &lt;<a href="http://www.fundaj.gov.br/noticia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC">http://www.fundaj.gov.br/noticia/servlet/newstorm.ns.presentation.NavigationServlet?publicationC</a>&gt; ode=16&pageCode=312&textCode=819&date=currentDate&gt; Acesso em 02 jun. 2009.
 - WOOD, Paul. Arte conceitual. São Paulo: Cosac Naify, 2002.

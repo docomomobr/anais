@@ -70,9 +70,9 @@ palavras-chave:
 - ANDRADE, Ana Luisa; ANJOS, Marcelo França dos; GOLYJEWSKI, Ricardo Lodrigo; PAINELLI, Tatiane Roberta Pereira; ZANINI, Mariani Jaqueline Stival. A ARQUITETURA DE OSCAR NIEMEYER COMO ACUPUNTURA
 - URBANA. Anais do 14º Encontro Científico Cultural Interinstitucional - ISSN 1980-7406 Centro Universitário FAG Cascavel, 2016
 - GIROTO, Ivo Renato; SEGAWA, Hugo Massaki. TERRA DE FORASTEIROS: BRASIL CÁ E LÁ. ARQUITETURA E GLOBALIZAÇÃO NO SÉCULO XXI. V ENANPARQ. Local p. 3963- 3992. 2018. Disponível em: file:///D:/Downloads/TERRA_DE_FORASTEIROS_BRASIL_CA_E_LA_ARQU.pdf acesso em 11 de março de 2023
-- LIMA, Evelyn Furquim Werneck. O Teatro Popular Oscar Niemeyer em Niterói e o Teatro Raul Cortez em Duque de Caxias. Arquitextos VItruvius 205.00 projeto ano 18, jun. 2017. Disponível em: https://vitruvius.com.br/revistas/read/arquitextos/18.205/658. Acesso em 12 de março 2023
+- LIMA, Evelyn Furquim Werneck. O Teatro Popular Oscar Niemeyer em Niterói e o Teatro Raul Cortez em Duque de Caxias. Arquitextos VItruvius 205.00 projeto ano 18, jun. 2017. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/18.205/658">https://vitruvius.com.br/revistas/read/arquitextos/18.205/658</a>&gt; Acesso em 12 de março 2023
 - MAHFUZ, Edson da Cunha. 5 razões para olhar a obra de Oscar Niemeyer com atenção. São Paulo, Revista
-- AU, número 165, 2007, p.76-79. Disponível em: https://www.mahfuz.arq.br/textos&gt; Acesso em: 05 março 2023.
+- AU, número 165, 2007, p.76-79. Disponível em: &lt;<a href="https://www.mahfuz.arq.br/textos">https://www.mahfuz.arq.br/textos</a>&gt; Acesso em: 05 março 2023.
 - NIEMEYER, Oscar Ribeiro de Almeida Filho. Minha arquitetura 1937-2004. Rio de Janeiro, ed. Revan, 2004, p.298
-- ZEIN, Ruth Verde. Oscar Niemeyer. Da crítica alheia à teoria própria. Arquitextos, São Paulo, ano 13, n. 151.04, Vitruvius, dez. 2012 Disponível em: &lt;https://vitruvius.com.br/revistas/read/arquitextos/13.151/4608&gt;. Acesso em: 01 de março 2023
+- ZEIN, Ruth Verde. Oscar Niemeyer. Da crítica alheia à teoria própria. Arquitextos, São Paulo, ano 13, n. 151.04, Vitruvius, dez. 2012 Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/13.151/4608">https://vitruvius.com.br/revistas/read/arquitextos/13.151/4608</a>&gt; Acesso em: 01 de março 2023
 - ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: Arquiteturas após 1950. São Paulo, Perspectiva,

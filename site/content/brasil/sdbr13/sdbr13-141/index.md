@@ -46,7 +46,7 @@ authors:
   - givenname: "Willem Jan"
     familyname: "Quist"
 doi: "10.5281/zenodo.19077763"
-zenodo_pdf_url: "https://zenodo.org/records/19077764/files/sdbr13-141.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285655/files/sdbr13-141.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -84,6 +84,6 @@ palavras-chave:
 - MEURS, P.; STEENHUIS, M. Reuse, redevelopment and design: How the Dutch deal with Heritage. The Netherlands: Nai010 Publishers (in association with the Cultural Heritage Agency of The Netherlands, Ministry of Education, Culture and Science), 2017.
 - RISSELADA, M.; LATORRACA, G. (org.). A Arquitetura de Lelé: Fábrica e Invenção. São Paulo: Imprensa Oficial do Estado de São Paulo - Museu da Casa Brasileira, 2010.
 - SHOKBETON ZWIJNDRECHT HOLLAND. SHOKBETON INFORMATION. October 1971. Shokbeton Archive, Heritage and Architecture -TUDELFT.
-- VAN DE VOORDE, S.; BERTELS, I.; WOUTERS, I. Post-War Building Materials. Brussels: Vrije Universiteit Brussel, 2015. Disponivel em: &lt;http://postwarbuildingmaterials.be&gt; Acesso em: 20 Dec. 2018.
+- VAN DE VOORDE, S.; BERTELS, I.; WOUTERS, I. Post-War Building Materials. Brussels: Vrije Universiteit Brussel, 2015. Disponivel em: &lt;<a href="http://postwarbuildingmaterials.be">http://postwarbuildingmaterials.be</a>&gt; Acesso em: 20 Dec. 2018.
 - SHOKBETON NL. CATALOGUE Schokbeton mini-symposium - Nederland/België 29 februari - 3 maart 2016.
-- ZIJLSTRA, H.; QUIST, W.; SPOORMANS, L. Airey systeembouw: kwaliteiten en kansen. In T. G. Nijland (Ed.), TNO – NVMz studiedag: Historisch beton (pp. 34-52). Delft: TUDelft, 2017. Disponível em: &lt;https://repository.tudelft.nl&gt; Acesso em: 20 Mar.2019.
+- ZIJLSTRA, H.; QUIST, W.; SPOORMANS, L. Airey systeembouw: kwaliteiten en kansen. In T. G. Nijland (Ed.), TNO – NVMz studiedag: Historisch beton (pp. 34-52). Delft: TUDelft, 2017. Disponível em: &lt;<a href="https://repository.tudelft.nl">https://repository.tudelft.nl</a>&gt; Acesso em: 20 Mar.2019.

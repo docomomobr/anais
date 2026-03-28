@@ -42,7 +42,7 @@ authors:
     familyname: "Graciano"
     orcid: "0000-0002-8547-2888"
 doi: "10.5281/zenodo.19077180"
-zenodo_pdf_url: "https://zenodo.org/records/19077181/files/sdbr12-068.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285622/files/sdbr12-068.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
@@ -60,7 +60,7 @@ palavras-chave:
 - DOSSIÊ PROCESSOS DE TOMBAMENTO DE BENS MATERIAIS NA ESFERA MUNICIPAL SECRETARIA MUNICIPAL DE CULTURA, TURISMO, ESPORTE E LAZER- PREFEITURA MUNICIPAL DE PLANURA – MG, 2016.
 - CHACEL, F. M. (2001) Paisagismo e Ecogênese. Rio de Janeiro, Editora Fraiha.
 - FARAH,I., SCHLEE,M., TARDIN, R. (org). (2010). Arquitetura Paisagística Contemporânea no Brasil, São Paulo, Editora Senac.
-- GONÇALVES, Teresa Martins & OESTREICH, Helena Maria. (1985) DOC – FURNAS.  Curso de Princípios Básicos para a Supervisão de Projetos de Aproveitamentos Hidrelétricos. 5º Vol. Superintendência de Engenharia de Geração de Energia. Furnas - Centrais Elétricas S.A. (Documento interno), Rio de Janeiro.
+- GONÇALVES, Teresa Martins & OESTREICH, Helena Maria. (1985) DOC – FURNAS. Curso de Princípios Básicos para a Supervisão de Projetos de Aproveitamentos Hidrelétricos. 5º Vol. Superintendência de Engenharia de Geração de Energia. Furnas - Centrais Elétricas S.A. (Documento interno), Rio de Janeiro.
 - GUERRA, Maria Eliza A. (2008) Vilas Operadoras de Furnas nas Bacias dos rios Grande e Paranaíba – da concepção à atualidade. Tese (Doutorado em Geografia), IG/UFU, Uberlândia.
 - IBGE: www cidades.ibge.gov.br
 - Prefeitura Municipal de Planura: www.planura.mg.gov.br

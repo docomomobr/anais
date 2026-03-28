@@ -76,7 +76,7 @@ palavras-chave:
 - Silva, Geraldo Gomes. “Marcos da arquitetura moderna em Pernambuco.” In: Arquitetura no Brasil. Anos 80, org: Hugo Segawa. São Paulo: Ed. Projeto, 1988.
 - Silva, Geraldo Gomes. “A pré-fabricação e a racionalização na arquitetura moderna em Pernambuco na década de 30 do século passado.” In: Arquitetura Moderna no Norte e Nordeste do Brasil: universalidade e diversidade, org: Fernando Diniz Moreira, 53-64. Recife: FASA, 2007.
 - Tanari, Pascal. “Bloc textile ou parpaing monolithique ? L'Institut de zoologie de Nancy (1933). Jacques André (1904-1985), architecte, et Michel André (1905-1975), ingénieur.” Faces, no.47, Inverno 1999-2000, 72-78.
-- Tinem, Nelci. “Arquitetura Moderna Brasileira: a imagem como texto.” Vitruvius Arquitextos, 072.02, Maio, 2006. http://www.vitruvius.com.br/revistas/read/arquitextos/06.072/352.
+- Tinem, Nelci. “Arquitetura Moderna Brasileira: a imagem como texto.” Vitruvius Arquitextos, 072.02, Maio, 2006. &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/06.072/352">http://www.vitruvius.com.br/revistas/read/arquitextos/06.072/352</a>&gt;
 - Vaz, Rita. Luiz Nunes: Arquitetura Moderna em Pernambuco 1934–1937. Mestrado em Arquitetura. Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo. São Paulo, 1989.
 - Vaz, Rita de Cássia Alves. “Raízes Brasileiras da Arquitetura Moderna.” Arquitetura e Urbanismo, n. 51. dez1993/jan1994. 63-72.
 - Wright, Frank Lloyd. The Natural house. New York: Horizon press, 1954.

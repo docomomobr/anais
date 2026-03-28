@@ -55,8 +55,8 @@ palavras-chave:
 
 - AFONSO, Alcília. VELOSO, Samara. Habitação de interesse social em Teresina: algumas reflexões. Teresina:
 - EDUFPI, 2012. 260 p.
-- AGENDA 2015 – TERESINA. Disponível em: &lt;http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924-160-589-D.pdf&gt;. &gt;. Acesso em: 24 set. 2015, 10:30.
-- ARQUIVO PÚBLICO DO DISTRITO FEDERAL, CODEPLAN, DePHA. Relatório do Plano Piloto de Brasília.GDF,1991. Disponível em: &lt;http://brasiliapoetica.blog.br/site/media/relatorio_plano_piloto_de_brasilia_web2.pdf&gt;. Acesso em: 16 mar. 2016, 08:30.
+- AGENDA 2015 – TERESINA. Disponível em: &lt;<a href="http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924-160-589-D.pdf">http://www.teresina.pi.gov.br/portalpmt/orgao/SEMPLAN/doc/20080924-160-589-D.pdf</a>&gt; &gt;. Acesso em: 24 set. 2015, 10:30.
+- ARQUIVO PÚBLICO DO DISTRITO FEDERAL, CODEPLAN, DePHA. Relatório do Plano Piloto de Brasília.GDF,1991. Disponível em: &lt;<a href="http://brasiliapoetica.blog.br/site/media/relatorio_plano_piloto_de_brasilia_web2.pdf">http://brasiliapoetica.blog.br/site/media/relatorio_plano_piloto_de_brasilia_web2.pdf</a>&gt; Acesso em: 16 mar. 2016, 08:30.
 - AZEVEDO, Sérgio de; e ANDRADE, Luís Aureliano Gama de. Habitação e Poder: da Função da Casa Popular ao Banco Nacional da Habitação. Rio de Janeiro: Zahar, 1982.
 - BENÉVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Ed. Perspectiva, 2001.
 - BOLFE, Ana Sandra; RUBIN, Rossatto Graziela. O desenvolvimento da habitação social no Brasil. REVISTA DO
@@ -65,10 +65,10 @@ palavras-chave:
 - BRAZ, Ângela. O conjunto João Emílio Falcão. Teresina, Universidade Federal do Piauí, 15 mar. 2016. Entrevista a Nayane Costa, Erlayane Ferreira, Gabriela Santos, Laysse Brito, Joaquim Anjos e Thaís Venâncio.
 - CANO, Wilson. Raízes da Concentração Industrial em São Paulo. São Paulo: Difel, 1979.
 - COSTA, S. da S. A trajetória recente da política de habitação social no Brasil. REVISTA DE PESQUISA EM
-- POLÍTICAS PÚBLICAS. Brasília, n. 1, ago. 2014. Disponível em: &lt;http://periodicos.unb.br&gt;. Acesso em: 20 set. 2015, 20:00.
-- DEL RIO, Vicente; GALLO, Haroldo. O legado do urbanismo moderno no Brasil. Paradigma realizado ou projeto inacabado? Arquitextos, São Paulo, ano 01, n. 006.05, Vitruvius, nov. 2000. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.006/958&gt;.
+- POLÍTICAS PÚBLICAS. Brasília, n. 1, ago. 2014. Disponível em: &lt;<a href="http://periodicos.unb.br">http://periodicos.unb.br</a>&gt; Acesso em: 20 set. 2015, 20:00.
+- DEL RIO, Vicente; GALLO, Haroldo. O legado do urbanismo moderno no Brasil. Paradigma realizado ou projeto inacabado? Arquitextos, São Paulo, ano 01, n. 006.05, Vitruvius, nov. 2000. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.006/958">http://www.vitruvius.com.br/revistas/read/arquitextos/01.006/958</a>&gt;
 - DORNELES, Henrique. O surgimento dos enclaves fortificados no Brasil. In: SIMPÓSIO NACIONAL DE
-- GEOGRAFIA URBANA, 13, 2013, Rio de Janeiro. Anais eletrônicos… Rio de Janeiro: UFRJ, 2013. Disponível em: &lt;http://www.simpurb2013.com.br/wp-content/uploads/2013/11/1621_GT01.pdf&gt;. Acesso em: 20 set. 2015, 19:00.
+- GEOGRAFIA URBANA, 13, 2013, Rio de Janeiro. Anais eletrônicos… Rio de Janeiro: UFRJ, 2013. Disponível em: &lt;<a href="http://www.simpurb2013.com.br/wp-content/uploads/2013/11/1621_GT01.pdf">http://www.simpurb2013.com.br/wp-content/uploads/2013/11/1621_GT01.pdf</a>&gt; Acesso em: 20 set. 2015, 19:00.
 - HOLSTON, James. Cidade Modernista - uma crítica de Brasília e sua utopia. São Paulo: Companhia das letras, 1993.
 - LARCHER, José. Diretrizes visando a melhoria de projetos e soluções construtivas na expansão de habitações de interesse social. 2005. 189 f. Dissertação de Mestrado – Programa de Pós-Graduação em Construção Civil, Universidade Federal do Paraná, Curitiba. 2005. Disponível em: &lt;www.prppg.ufpr.br/ppgcc/sites/www.prppg.ufpr.br.ppgcc/.../d0068.pdf&gt;. Acesso em: set. 2015.
 - LEAL ,F. X; VIANA, B. A. da S. Análise do processo de verticalização das zonas sul e sudeste de Teresina - Piauí de 1980 a 2010. Teresina: UFPI, 2009.
@@ -76,12 +76,12 @@ palavras-chave:
 - LE CORBUSIER. Planejamento Urbano. Tradução Lúcio Gomes Machado. 3 ed. São Paulo. Perspectiva, 2004.
 - MARICATO, Ermínia. Na periferia do mundo globalizado: metrópoles brasileiras. In: Brasil, cidades: alternativas para a crise urbana, Petrópolis, RJ: Editora Vozes, 2001. (p. 15- 45).
 - MARICATO, Ermínia. Política Habitacional no Regime Militar. Do milagre brasileiro à crise econômica. Petrópolis: Vozes, 1987.
-- MAYUMI, Lia. A cidade antiga nos CIAM, 1950-1959. In: SEMINÁRIO DOCOMOMO BRASIL, 6, 2005, Niterói. Anais eletrônicos… Niterói: UFRJ, 2005. Disponível em: &lt;http://www.docomomo.org.br/seminario%206%20pdfs/Lia%20Mayumi.pdf&gt;. Acesso em: 20 mar. 2016.
+- MAYUMI, Lia. A cidade antiga nos CIAM, 1950-1959. In: SEMINÁRIO DOCOMOMO BRASIL, 6, 2005, Niterói. Anais eletrônicos… Niterói: UFRJ, 2005. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Lia%20Mayumi.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Lia%20Mayumi.pdf</a>&gt; Acesso em: 20 mar. 2016.
 - MELO, J. C. C. C; BRUNA, C. G. Desenvolvimento urbano e regional de Teresina, Piauí, Brasil e sua importância no atual quadro de influência na Rede Urbana Regional no Brasil. In: CONGRESSO DE GESTÃO E CONSERVAÇÃO
-- DA NATUREZA, 2, 2009, Cidade da Praia. Anais eletrônicos… CIdade da Praia: UniPiaget, 2009. Disponível em: &lt;http://www.apdr.pt/congresso/2009/pdf/Sess%C3%A3o%2037/245A.pdf&gt;. Acesso em: 25 fev 2016.
+- DA NATUREZA, 2, 2009, Cidade da Praia. Anais eletrônicos… CIdade da Praia: UniPiaget, 2009. Disponível em: &lt;<a href="http://www.apdr.pt/congresso/2009/pdf/Sess%C3%A3o%2037/245A.pdf">http://www.apdr.pt/congresso/2009/pdf/Sess%C3%A3o%2037/245A.pdf</a>&gt; Acesso em: 25 fev 2016.
 - NYGAARD, Paul Dieter. Espaço da cidade: segurança urbana e participação popular. Porto Alegre: Livraria do arquiteto, 2010.
 - ROLNIK, Raquel. Cada um no seu lugar! (São Paulo, início da industrialização: geografia do poder). 1981. Dissertação (Mestrado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo. São Paulo: Mimeo, 1981.
-- SEMPLAN - TERESINA. Disponível em: &lt;http://semplan.teresina.pi.gov.br&gt;. Acesso em: 10 fev 2016.
-- SILVA, J. S. O modernismo arquitetônico em Teresina (PI): a contribuição do arquiteto antonio Luiz Dutra. In: SEMINÁRIO DOCOMOMO BRASIL, 6, 2005, Niterói. Anais eletrônicos… Niterói: UFRJ, 2005. Disponível em: &lt;http://www.docomomo.org.br/seminario%206%20pdfs/Joene%20Saibrosa%20da%20Silva.pdf&gt;. Acesso em: 18 fev 2016.
+- SEMPLAN - TERESINA. Disponível em: &lt;<a href="http://semplan.teresina.pi.gov.br">http://semplan.teresina.pi.gov.br</a>&gt; Acesso em: 10 fev 2016.
+- SILVA, J. S. O modernismo arquitetônico em Teresina (PI): a contribuição do arquiteto antonio Luiz Dutra. In: SEMINÁRIO DOCOMOMO BRASIL, 6, 2005, Niterói. Anais eletrônicos… Niterói: UFRJ, 2005. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%206%20pdfs/Joene%20Saibrosa%20da%20Silva.pdf">http://www.docomomo.org.br/seminario%206%20pdfs/Joene%20Saibrosa%20da%20Silva.pdf</a>&gt; Acesso em: 18 fev 2016.
 - SOSA, Marisol Rodríguez.
-- SEGRE, Roberto. Do Coração da cidade – a Otterlo (1951-59): discussões transgressoras de ruptura, a semente das novas direções pós-CIAM. DOCOMOMO Brasil. Rio de Janeiro, 2009. Disponível em: &lt; http://www.docomomo.org.br/seminario%208% 20pdfs /096.pdf&gt; Acesso em: 20 mar. 2016.
+- SEGRE, Roberto. Do Coração da cidade – a Otterlo (1951-59): discussões transgressoras de ruptura, a semente das novas direções pós-CIAM. DOCOMOMO Brasil. Rio de Janeiro, 2009. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%208%">http://www.docomomo.org.br/seminario%208%</a>&gt; 20pdfs /096.pdf&gt; Acesso em: 20 mar. 2016.

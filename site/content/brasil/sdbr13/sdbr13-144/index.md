@@ -73,7 +73,7 @@ palavras-chave:
 - MONTANER, Josep. Depois do movimento moderno: arquitetura da segunda metade do século XX. Barcelona, Gustavo Gili, 271 p. 2007.
 - NESBITT, K. (Org.). Uma nova agenda para a arquitetura. Antologia teórica 1965-1995. Trad. Vera Pereira. Editora Cosac Naify, 2006.
 - PIÑÓN, H. Teoria do projeto. Porto Alegre, Livraria do Arquiteto, 227 p.2006
-- PIÑÓN, H. Proyectar es construir. Em rede: https://helio-pinon.org/escritos_y_conferencias/det- proyectar_es_construir_i58184.Acessado em 10 de março de 2019. Publicado em 2009.
+- PIÑÓN, H. Proyectar es construir. Em rede: &lt;<a href="https://helio-pinon.org/escritos_y_conferencias/det-">https://helio-pinon.org/escritos_y_conferencias/det-</a>&gt; proyectar_es_construir_i58184.Acessado em 10 de março de 2019. Publicado em 2009.
 - REBELLO, Y.C.P. Contribuição ao ensino de estruturas nas escolas de arquitetura. São Paulo:
 - USP, 1993. Dissertação (Mestrado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1993.
 - RIBEIRO, Rosina; NOBREGA, Claudia. Projeto e Patrimônio. Reflexões e aplicações. Rio de Janeiro: Rio Book’s.1ª edição.2016

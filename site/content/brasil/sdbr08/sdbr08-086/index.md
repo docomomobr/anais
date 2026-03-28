@@ -71,4 +71,4 @@ palavras-chave:
 - SUGAI, Maria Inês. As primeiras ações modernizadoras e o processo de urbanização em Florianópolis. Janeiro, 1997.
 - SUGAI, Maria Inês. Segregação silenciosa: investimentos públicos e distribuição sócio-espacial na Área Conurbada de Florianópolis. Tese de Doutorado defendida na Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo. São Paulo, 2002. 2 v.
 - VILLAÇA, Flávio. “Uma contribuição para a história do planejamento urbano no Brasil.” In: DEÁK, Csaba e SCHIFFER, Sueli Ramos (Orgs.). O Processo de Urbanização no Brasil. 1. ed. 1. reimpr. – São Paulo: Editora da Universidade de São Paulo, 2004.
-- VILLAÇA, Flávio. As ilusões do Plano Diretor. Disponível em http://www.flaviovillaca.arq.br. São Paulo, 2005.
+- VILLAÇA, Flávio. As ilusões do Plano Diretor. Disponível em &lt;<a href="http://www.flaviovillaca.arq.br">http://www.flaviovillaca.arq.br</a>&gt; São Paulo, 2005.

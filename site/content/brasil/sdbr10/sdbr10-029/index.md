@@ -55,16 +55,16 @@ palavras-chave:
 
 ## Referências
 
-- Arango, Silvia. «DNIA - Blogs Universidad Nacional.» 28 de Febrero de 2012. http://aplicaciones.virtual.unal.edu.co/blogs/hacolombia/2011/10/26/1-el-modernismotardio/ (último acceso: 30 de Abril de 2013).
+- Arango, Silvia. «DNIA - Blogs Universidad Nacional.» 28 de Febrero de 2012. &lt;<a href="http://aplicaciones.virtual.unal.edu.co/blogs/hacolombia/2011/10/26/1-el-modernismotardio/">http://aplicaciones.virtual.unal.edu.co/blogs/hacolombia/2011/10/26/1-el-modernismotardio/</a>&gt; (último acceso: 30 de Abril de 2013).
 - Arango, Silvia. Historia de la Arquitectura en Colombia. Bogotá: Centro Editorial y Facultad de Artes, Universidad Nacional de Colombia, 1990.
 - Estrada Gil, Ana María, y Juan Camilo Fernández López. 04 casos, Arquitectura Moderna en Medellín . Medellín: Universidad Nacional de Colombia, 2010.
 - Forero Ochoa, Laureano, entrevista de Juan Camilo Puerta Velásquez, David Vélez Santamaría y Pedro Ignacio Torres Arismendi. Conversaciones con Laureano Forero (19 de Julio de 2013).
 - Forero Ochoa, Laureano, entrevista de Pedro Ignacio Torres Arismendi, David Vélez Santamaría y Juan Camilo Puerta Velásquez. Conversaciones con Laureano Forero (1 de Agosto de 2013).
 - Forero, Laureano. Laureano Forero, Arquitecto. Medellín: Panamericana dormas e impresos S.A., 2011.
-- García Ledesma, Cuauhtémoc. «Arquitectura: 2001 a 2010: 2010: La arquitectura mexicana, altamente emocional.» Buscador de Arquitectura. 17 de Junio de 2010. http://noticias.arq.com.mx/Detalles/11204.html#.Ug2ZOtJFWth (último acceso: 23 de Julio de 2013).
+- García Ledesma, Cuauhtémoc. «Arquitectura: 2001 a 2010: 2010: La arquitectura mexicana, altamente emocional.» Buscador de Arquitectura. 17 de Junio de 2010. &lt;<a href="http://noticias.arq.com.mx/Detalles/11204.html#.Ug2ZOtJFWth">http://noticias.arq.com.mx/Detalles/11204.html#.Ug2ZOtJFWth</a>&gt; (último acceso: 23 de Julio de 2013).
 - Hauser, Arnold. Historia Social de la Literatura y del Arte I. Madrid: Guadarrma, 1974.
 - Niño Murcia, Carlos. «Colombia, Cien años en la construcción de un país.» En XVII Bienal Colombiana de Arquitectura, de Sociedad Colombia de Arquitectos, 36-47. Bogotá: Panamericana formas e impresos., 2000.
-- Terrain, Luis. «Metalocus, Simposio Internacional de Arquitectura de Berlín.» 10 de Abril de 2012. http://www.metalocus.es/content/es/blog/brutalismo-arquitectura-deld%C3%ADa-a-d%C3%ADa-poes%C3%ADa-y-teor%C3%ADa) (último acceso: 23 de
+- Terrain, Luis. «Metalocus, Simposio Internacional de Arquitectura de Berlín.» 10 de Abril de 2012. &lt;<a href="http://www.metalocus.es/content/es/blog/brutalismo-arquitectura-deld%C3%ADa-a-d%C3%ADa-poes%C3%ADa-y-teor%C3%ADa">http://www.metalocus.es/content/es/blog/brutalismo-arquitectura-deld%C3%ADa-a-d%C3%ADa-poes%C3%ADa-y-teor%C3%ADa</a>&gt; (último acceso: 23 de
 - Valcarce Labrador, María Teresa. «El Nuevo Brutalismo: una aproximación y una bibliografía.» CUADERNO DE NOTAS , 2006: 131-144.
 - Vélez Ortíz, Maria Cristina, Nathalie Montoya Arango, Diego López Chalarca, y Mauricio Gaviria Restrepo. Arquitectura Moderna en Medellín 1947-1970. Medellín: Universidad Nacional de Colombia, 2010.
 - Vélez White, Mercedes Lucía. Arquitectura contemporánea en Medellín. Medellín: Instituto Tecnológico Metropolitano, 2003.

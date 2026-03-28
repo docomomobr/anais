@@ -70,8 +70,8 @@ projeto. Rio de Janeiro: EVC, 2003, 173p.
 Nerea, 1992.
 - ESPALLARGAS GIMENEZ, Luis. Autenticidade e Rudimento. Paulo Mendes da Rocha e as
 intervenções em edifícios existentes. São Paulo: Vitruvius,2000. Disponível em:
-&lt;http://www.vitruvius.com.br/arquitextos/arq000/esp.001/asp &gt; Acesso em abr. 2007.
-- FRAMPTON, K.  Studies in tectonic culture. 2ed. Massachusetts: Mit Press, 2001, 430p.
+ &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp.001/asp">http://www.vitruvius.com.br/arquitextos/arq000/esp.001/asp</a>&gt; &gt; Acesso em abr. 2007.
+- FRAMPTON, K. Studies in tectonic culture. 2ed. Massachusetts: Mit Press, 2001, 430p.
 - BRUAND, Yves. Rappel à l’ordre:, argumentos em favor da tectônica. in NESBITT, Kate. Uma nova
 agenda para a arquitetura. Tradução Vera Pereira. São Paulo: Cosac Naify, 2006.
 - BRUAND, Yves. Studies in tectonic culture 2ed. Massachusetts: Mit Press, 2001, 430p.

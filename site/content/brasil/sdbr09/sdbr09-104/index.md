@@ -91,4 +91,4 @@ palavras-chave:
 - RSP Arquitetura Consultoria, GDF. BRASÌLIA Preservando o Patrimônio da Humanidade – Informativo do Plano de Preservação do Conjunto Urbanístico de Brasília – PPCUB. Informativo, Brasília: GDF, 2010.
 - Saboia, Luciana. Brasília and the modernist void: the central bus station and the struggle for cultural recognition (Ph.D. thesis). Louvian-la-Neuve: Université Catholique de Louvain, 2009.
 - Sinotti, Marta L. Quem me quer, não me quer: Brasília, metrópole-patrimônio. São Paulo: Annablume, 2005.
-- UNESCO.  Disponível em: &lt; http://whc.unesco.org/fr/criteres &gt;. Acesso em: 10 fev. 2011
+- UNESCO. Disponível em: &lt;<a href="http://whc.unesco.org/fr/criteres">http://whc.unesco.org/fr/criteres</a>&gt; &gt;. Acesso em: 10 fev. 2011

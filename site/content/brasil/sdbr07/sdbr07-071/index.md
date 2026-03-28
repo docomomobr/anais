@@ -44,7 +44,7 @@ authors:
   - givenname: "Fátima"
     familyname: "Mafra"
 doi: "10.5281/zenodo.19072652"
-zenodo_pdf_url: "https://zenodo.org/records/19072653/files/sdbr07-071.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285539/files/sdbr07-071.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
@@ -63,8 +63,8 @@ palavras-chave:
 - AMARAL, Aracy A. (Org.). Dos Murais de Portinari aos Espaços de Brasília. São Paulo: Perspectiva, 1981. ALVES Cleide. Praça do horto será recuperada. Jornal do Commercio, Recife, 06 out. 2001. ANNUARIO de Pernambuco para 1935: Resumo estatistico e descriptivo das actividades pernambucanas em seus varios aspectos. Recife: Officinas do Diario da Manhã, 1935.
 - BARDA, Marisa. Il paradiso perduto di Burle Marx-Burle Marx´s lost paradise. Abitare, Milano, n. 374, p. 131-135, giugno. 1998.
 - BROWN, Jane. El Jardim Moderno. Barcelona: Gustavo Gilli, 2000.
-- CABRERA, Antonio Tejedor. El inventario de jardines de interés patrimonial de Andalucía: Modelos y propuestas de una base de datos. Boletín del Instituto Andaluz del Patrimonio Histórico, Andalucía, n. 27, 1999. Disponível em: &lt;http://www.iaph.junta-andalucia.es/Dossiers&gt;. Acesso em: 12 nov. 2001.
-- CABRERA, Antonio Tejedor. El jardín histórico en Andalucía: reflexiones para una tutela del paisaje patrimonial. Boletín del Instituto Andaluz del Patrimonio Histórico, Andalucía, n. 27, 1999. Disponível em: &lt;http://www.iaph.junta-andalucia.es/Dossiers&gt;. Acesso em: 12 nov. 2001.
+- CABRERA, Antonio Tejedor. El inventario de jardines de interés patrimonial de Andalucía: Modelos y propuestas de una base de datos. Boletín del Instituto Andaluz del Patrimonio Histórico, Andalucía, n. 27, 1999. Disponível em: &lt;<a href="http://www.iaph.junta-andalucia.es/Dossiers">http://www.iaph.junta-andalucia.es/Dossiers</a>&gt; Acesso em: 12 nov. 2001.
+- CABRERA, Antonio Tejedor. El jardín histórico en Andalucía: reflexiones para una tutela del paisaje patrimonial. Boletín del Instituto Andaluz del Patrimonio Histórico, Andalucía, n. 27, 1999. Disponível em: &lt;<a href="http://www.iaph.junta-andalucia.es/Dossiers">http://www.iaph.junta-andalucia.es/Dossiers</a>&gt; Acesso em: 12 nov. 2001.
 - CARDOSO, Sérgio Ney. Aos homens, o paraíso. Entrevista com Roberto Burle Marx. Ecologia e Desenvolvimento, Rio de Janeiro, n. 31, p. 9-12, set. 1993.
 - COSTA, Francisco Augusto Pereira da. Arredores do Recife. 2. ed. Recife: Massangana, 2001.
 - CURY, Isabelle (Org.). Cartas Patrimoniais. 3. ed. Rio de Janeiro: IPHAN, 2004. DIARIO de Pernambuco. Novembro a dezembro de 1957 e janeiro a abril de 1958. DIARIO de Pernambuco. 13/12/1958.

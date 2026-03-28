@@ -45,7 +45,7 @@ authors:
     familyname: "Sánchez"
     orcid: "0000-0003-0426-8090"
 doi: "10.5281/zenodo.19074156"
-zenodo_pdf_url: "https://zenodo.org/records/19074157/files/sdbr10-032.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285600/files/sdbr10-032.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:

@@ -57,28 +57,28 @@ palavras-chave:
 
 - ALBERTI, Leon Battista. De re aedificatoria. On the art of building in ten books. (traduzido por Joseph Rykwert, Neil Leach, and Robert Tavernor). Cambridge, Mass.: MIT Press, 1988.
 - ANTUNES, Bianca; HORTA, Maurício. AU – Arquitetura e Urbanismo, São Paulo, Pini, 2010, n. 197, p. 42-62
-- CASA KG. Disponível em:  http://www.arquitetosassociados.arq.br/?projeto=residencia-kg. Acesso em: 07 jun. 2014
-- CASA ML. Disponível em: https://jacobsenarquitetura.com/en/projects/ml-house/. Acesso em: 07 jun. 2014
-- CASA RCM. Disponível em:  http://www.metroo.com.br/projects/view/4. Acesso em: 07 jun. 2014;
-- CASA RP. Disponível em: http://www.arquitetosassociados.arq.br/?projeto=residencia-rp. Acesso em: 07 jun. 2014
-- CASA SÃO ROQUE. Disponível em: http://www.tacoa.com.br/. Acesso em: 07 jun. 2014
+- CASA KG. Disponível em: &lt;<a href="http://www.arquitetosassociados.arq.br/?projeto=residencia-kg">http://www.arquitetosassociados.arq.br/?projeto=residencia-kg</a>&gt; Acesso em: 07 jun. 2014
+- CASA ML. Disponível em: &lt;<a href="https://jacobsenarquitetura.com/en/projects/ml-house/">https://jacobsenarquitetura.com/en/projects/ml-house/</a>&gt; Acesso em: 07 jun. 2014
+- CASA RCM. Disponível em: &lt;<a href="http://www.metroo.com.br/projects/view/4">http://www.metroo.com.br/projects/view/4</a>&gt; Acesso em: 07 jun. 2014;
+- CASA RP. Disponível em: &lt;<a href="http://www.arquitetosassociados.arq.br/?projeto=residencia-rp">http://www.arquitetosassociados.arq.br/?projeto=residencia-rp</a>&gt; Acesso em: 07 jun. 2014
+- CASA SÃO ROQUE. Disponível em: &lt;<a href="http://www.tacoa.com.br/">http://www.tacoa.com.br/</a>&gt; Acesso em: 07 jun. 2014
 - CAPITEL, Antón. La arquitectura del patio, Barcelona, Gustavo Gili, 2005
 - CORONA MARTINEZ, Alfonso. Ensayo sobre el proyecto. Buenos Aires: CP67, 1991.
 - COLQUHOUN, Alan. Architettura moderna e storia. Roma: Laterza, 1989.
 - COTRIM, Marcio. Vilanova Artigas. Casas Paulistas. São Paulo: Romano Guerra Editora, 2017.
-- COTRIM CUNHA, Marcio; GUERRA, Abilio. Entre o pátio e o átrio. Três percursos na obra de Vilanova Artigas. In Arquitextos, São Paulo, ano 13, n. 150.01, Vitruvius, nov. 2012 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/13.150/4591&gt;.
+- COTRIM CUNHA, Marcio; GUERRA, Abilio. Entre o pátio e o átrio. Três percursos na obra de Vilanova Artigas. In Arquitextos, São Paulo, ano 13, n. 150.01, Vitruvius, nov. 2012 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/13.150/4591">http://www.vitruvius.com.br/revistas/read/arquitextos/13.150/4591</a>&gt;
 - COSTA, Ana Elísia da; COTRIM, Marcio Cunha, O pátio no Brasil. Da casa moderna à contemporânea. In Arquitextos, São Paulo, Vitruvius, ano 16, n. 181.07, jun. 2015
-- COSTA, Ana Elísia da; MENUZZI, Ana Clara; ONGARATTO, Carolina, et. al, Terra e Céu, Pátio e Terraço:  a natureza idealizada em casas contemporâneas brasileiras. In Anais do IV Seminário Internacional da Academia de Escolas de Arquitetura e Urbanismo de Língua Portuguesa. Belo Horizonte: UFMG e AEALUP 2017.
+- COSTA, Ana Elísia da; MENUZZI, Ana Clara; ONGARATTO, Carolina, et. al, Terra e Céu, Pátio e Terraço: a natureza idealizada em casas contemporâneas brasileiras. In Anais do IV Seminário Internacional da Academia de Escolas de Arquitetura e Urbanismo de Língua Portuguesa. Belo Horizonte: UFMG e AEALUP 2017.
 - COSTA, Lucio. Registro de uma vivência. São Paulo: Empresa da Artes, 1995.
-- GUERRA, Abilio; CASTROVIEJO RIBEIRO, Alessandro José. Casas brasileiras do século XX. In Arquitextos.  Ano 07, n. 074.01, São Paulo: Vitruvius, jul. 2006 Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/07.074/335. Acesso em: 10 mai 2017
+- GUERRA, Abilio; CASTROVIEJO RIBEIRO, Alessandro José. Casas brasileiras do século XX. In Arquitextos. Ano 07, n. 074.01, São Paulo: Vitruvius, jul. 2006 Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.074/335">http://www.vitruvius.com.br/revistas/read/arquitextos/07.074/335</a>&gt; Acesso em: 10 mai 2017
 - HECK, Márcia. Casas Modernas Cariocas 1930-1965. Dissertação (Mestrado em Arquitetura). Porto Alegre, PROPAR - UFRGS, 2005.
-- IWAMIZU, César Shundi. Eduardo de Almeida: Reflexões sobre estratégias de projeto e ensino. Tese (Doutorado em Arquitetura e Urbanismo). Universidade de São Paulo, São Paulo, 2015. Disponível em: http://www.teses.usp.br/teses/disponiveis/16/16138/tde-29102015-102522/pt-br.php
+- IWAMIZU, César Shundi. Eduardo de Almeida: Reflexões sobre estratégias de projeto e ensino. Tese (Doutorado em Arquitetura e Urbanismo). Universidade de São Paulo, São Paulo, 2015. Disponível em: &lt;<a href="http://www.teses.usp.br/teses/disponiveis/16/16138/tde-29102015-102522/pt-br.php">http://www.teses.usp.br/teses/disponiveis/16/16138/tde-29102015-102522/pt-br.php</a>&gt;
 - MAHFUZ, Edson da Cunha. Ensaio sobre a razão compositiva. Viçosa: UFV; Belo Horizonte: AP Cultural, 1995.
 - MARTÍ ARÍS, Carlos. Las variaciones de la identidad: ensayo sobre el tipo en la arquitectura, Barcelona, Colegio de Arquitectos de Cataluña, 1993.
 - MONEO, Rafael. “On Tipology”. In: Opositions 13, Cambridge, MIT Press, 1978.
-- PESQUISA CASA CONTEMPORÂNEA BRASILEIRA. Disponível em:  &lt;https://www.ufrgs.br/casacontemporanea/&gt;. Acesso em: 03 jan. 2016.
+- PESQUISA CASA CONTEMPORÂNEA BRASILEIRA. Disponível em: &lt;<a href="https://www.ufrgs.br/casacontemporanea/">https://www.ufrgs.br/casacontemporanea/</a>&gt; Acesso em: 03 jan. 2016.
 - RECASENS, Gonzalo D. La tradición del patio en la arquitectura moderna. In DPA 13, Barcelona, UPC, 1997.
 - ROSSI, Aldo. A Arquitetura da Cidade. São Paulo: Martins Fontes, 1995.
 - ZEIN, Ruth Verde. A Arquitetura da Escola Paulista: 1953-1973. Tese (Doutorado em Arquitetura). Universidade Federal do Rio Grande do Sul, Porto Alegre, 2005.
-- ZEIN, Ruth Verde. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação (Mestrado em Arquitetura). Universidade Federal do Rio Grande do Sul, Porto Alegre, 2000. Disponível em: http://www.lume.ufrgs.br/handle/10183/141857
+- ZEIN, Ruth Verde. Arquitetura brasileira, escola paulista e as casas de Paulo Mendes da Rocha. Dissertação (Mestrado em Arquitetura). Universidade Federal do Rio Grande do Sul, Porto Alegre, 2000. Disponível em: &lt;<a href="http://www.lume.ufrgs.br/handle/10183/141857">http://www.lume.ufrgs.br/handle/10183/141857</a>&gt;
 - ZEIN, Ruth Verde; BASTOS, Maria Alice Junqueira. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010.

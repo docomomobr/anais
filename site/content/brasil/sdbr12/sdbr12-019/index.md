@@ -52,12 +52,12 @@ palavras-chave:
 - AMARAL, Aracy A. Arte Construtiva no Brasil: Coleção Adolpho Leirner. São Paulo:DBA,1998
 - AMARAL, Aracy A. Projeto construtivo brasileiro na arte (1950-1962). Museu de Arte Moderna do Rio de Janeiro, 1977.
 - AMORIM, Luiz Manuel do Eirado et alli. DELFIM Amorim Arquiteto. Recife: Instituto dos Arquitetos do Brasil. Departamento Pernambuco, 2ª edição, 1991.
-- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: Uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos, São Paulo, ano 01, n. 012.03, Vitruvius, maio 2001 &lt; http://www.vitruvius.com.br/revistas /read/arquitextos/01.012/889 &gt; Acessado em 23/05/2015
+- AMORIM, Luiz Manuel do Eirado. Modernismo recifense: Uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos, São Paulo, ano 01, n. 012.03, Vitruvius, maio 2001 &lt;<a href="http://www.vitruvius.com.br/revistas">http://www.vitruvius.com.br/revistas</a>&gt; /read/arquitextos/01.012/889 &gt; Acessado em 23/05/2015
 - AQUINO, Flávio de. Max Bill critica a nossa moderna arquitetura. In: Revista Manchete nº60, Rio de Janeiro, 13 jun.1953.
 - BRILLEMBOURG, Carlos. Latin American Architecture 1929-1960: Contemporary Reflections.New York: The Monacelli Press, 2004.
 - CAPELATO, Maria Helena Rolim. Revista de História FFLCH-USP, n.º 153, Segundo Semestre de 2005, p.259.
 - COSTA, Lucio. A Crise na arte Contemporânea. In: Arte Contemporânea (revista bimestral). Rio de Janeiro. Agosto-Setembro de 1953.p.02-03. Apud FARIAS, Agnaldo. A obra de Athos Bulcão, ponto alto da vertente construtiva. DOCOMOMO, 2009.
-- COSTA, Marcus de Lontra. Sinfonias da Modernidade. Revista Módulo, 1987. Disponível em: &lt;http://www.fundathos.org.br/pdf/Sinfonias%20da%20 modernidade%20-%20Marcus%20de%20Lontra%20Costa%20-%20Revista %20Modulo%20port.pdf&gt; Acessado em 02/02/2015.
+- COSTA, Marcus de Lontra. Sinfonias da Modernidade. Revista Módulo, 1987. Disponível em: &lt;<a href="http://www.fundathos.org.br/pdf/Sinfonias%20da%20">http://www.fundathos.org.br/pdf/Sinfonias%20da%20</a>&gt; modernidade%20-%20Marcus%20de%20Lontra%20Costa%20-%20Revista %20Modulo%20port.pdf&gt; Acessado em 02/02/2015.
 - COUTINHO, Carolina Mapurunga Bezerra. Artes Plásticas integradas à arquitetura na Obra de Petrônio Cunha. 2016.138 f. Dissertação (mestrado). Universidade Federal de Pernambuco. Recife.
 - CUNHA, Petrônio. Varadouros de Olinda: obra gráfica. Olinda: Prefeitura Municipal, 1988.
 - FERRAZ, Geraldo. Reportagem do Recife. São Paulo: Habitat, nº3, 1952.

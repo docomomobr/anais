@@ -49,7 +49,7 @@ authors:
   - givenname: "Thiago Thuler"
     familyname: "Barbeito"
 doi: "10.5281/zenodo.19074048"
-zenodo_pdf_url: "https://zenodo.org/records/19074049/files/sdbr10-001.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285588/files/sdbr10-001.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
@@ -69,4 +69,4 @@ palavras-chave:
 
 - PRUDÊNCIO, Walmor; CONTARINI, Bruno; SCHNEIDER, Jorge = Reforço Estrutural Protendido adotado no Viaduto do Joá - 2das. Jornadas Ibero-Latinoamericanas del Hormigón Pretensado – Buenos Aires, 1991.
 - Prefeitura da Cidade do Rio de Janeiro. “Guia da Arquitetura Moderna no Rio de Janeiro”.Rio de Janeiro: Casa da Palavra, 2000.
-- Site: História do Rio - http://www.historiadorio.com.br/viadutos/joa (07/06/2013)
+- Site: História do Rio - &lt;<a href="http://www.historiadorio.com.br/viadutos/joa">http://www.historiadorio.com.br/viadutos/joa</a>&gt; (07/06/2013)

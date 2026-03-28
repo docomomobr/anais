@@ -56,7 +56,7 @@ authors:
   - givenname: "Carolina Mapurunga Bezerra"
     familyname: "Coutinho"
 doi: "10.5281/zenodo.19069867"
-zenodo_pdf_url: "https://zenodo.org/records/19069868/files/sdbr15-083.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285721/files/sdbr15-083.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
@@ -85,10 +85,10 @@ palavras-chave:
 - ROCHA, E. E. Industrialização no interior do Ceará: experiências em ambientes planejados. 134 f. Dissertação (Mestrado) - Curso de Economia, Universidade Federal do Ceará, Fortaleza, 1988.
 - RODRIGUES, Antônio. Centro de Artes da URCA passa a ocupar antigo prédio do SESI a partir desta semana. Diário do Nordeste. Disponível em: Centro de Artes da URCA passa a ocupar antigo prédio do SESI a partir desta semana
 - Diário Cariri - Diário do Nordeste (diariodonordeste.com.br) 21 de nov de 2017
-- SECITECE. Prédio do SESI adquirido pelo Governo do Estado será novo campus URCA. 2017. Disponível em:https://www.sct.ce.gov.br/2017/11/06/predio-do-sesi-adquirido-pelo-governo-do-estado-sera-novocam pusurca/. Acesso em: 10 mai. 2023.
+- SECITECE. Prédio do SESI adquirido pelo Governo do Estado será novo campus URCA. 2017. Disponível em: &lt;<a href="https://www.sct.ce.gov.br/2017/11/06/predio-do-sesi-adquirido-pelo-governo-do-estado-sera-novocam">https://www.sct.ce.gov.br/2017/11/06/predio-do-sesi-adquirido-pelo-governo-do-estado-sera-novocam</a>&gt; pusurca/. Acesso em: 10 mai. 2023.
 - Sem compra oficializada, alunos e professores do Centro de Artes ocupam prédio do SESI para retomar atividades. Gazeta do Kariri. Disponível em: Sem compra oficializada, estudantes e professores do Centro de Artes ocupam prédio do SESI para retomar atividades (gazetadocariri.com). Acesso em: 10 de mai. 2023.
 - SERVIÇO SOCIAL DA INDÚSTRIA (SESI). Departamento Nacional. O SESI, o trabalhador e a indústria: um resgate histórico / SESI/DN. – Brasília: SESI/DN, 2008.
 - SIQUEIRA, Cristiane de Araújo Alves. Neudson Braga e o Modernismo Arquitetônico em Fortaleza. 2018. 342 f. Dissertação (Mestrado) - Curso de Programa de Pós-graduação em Arquitetura e Urbanismo e Design, Universidade Federal do Ceará, Fortaleza.
 - SILVA, Rebecca Isabelle Herculano. A modernidade e seus impactos no patrimônio cultural edificado e na vida social do Crato - CE: A Praça Siqueira Campos. 2014. 138 f. Dissertação (Mestrado) - Programa de Pós-Graduação em Desenvolvimento Regional Sustentável (PRODER), da Universidade Federal do Ceará – campus Cariri.
-- Verbetes Revolta da Chibata, Guerra do Contestado, Sedição de Juazeiro. Alzira Alves de Abreu (coord.). Dicionário Histórico-Biográfico Brasileiro da Primeira República (1889-1930). Disponível em: http://cpdoc.fgv.br
+- Verbetes Revolta da Chibata, Guerra do Contestado, Sedição de Juazeiro. Alzira Alves de Abreu (coord.). Dicionário Histórico-Biográfico Brasileiro da Primeira República (1889-1930). Disponível em: &lt;<a href="http://cpdoc.fgv.br">http://cpdoc.fgv.br</a>&gt;
 - ZEIN, Ruth Verde. A arquitetura da escola paulista brutalista 1953-1973. Porto Alegre: Doutorado em Arquitetura pela Faculdade de Arquitetura da Universidade Federal do Rio Grande do Sul, 2005.

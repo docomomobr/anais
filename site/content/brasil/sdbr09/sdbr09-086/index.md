@@ -59,4 +59,4 @@ palavras-chave:
 - DIOGENES, Beatriz H. N. & PAIVA, Ricardo A. Arquitetura e Cidade – a Fortaleza dos anos 1950-1970, In: Anuário Arquitetura Cearense 2007. Fortaleza: IAB, Expressão Gráfica, 2007.
 - JUCÁ NETO, Clovis et ali. A Universidade Federal do Ceará (UFC) e a cidade de Fortaleza, In: Anais do 3º SEMINÁRIO DOCOMOMO NORTE NORDESTE, João Pessoa, 2010.
 - SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann (Dissertação). Mestrado em Arquitetura e urbanismo. FAUUSP, São Paulo, 2005.
-- SEGAWA, Hugo. Arquiteturas no Brasil (1900-1990). São Paulo: Edusp -  Editora da Universidade de São Paulo, 1997.
+- SEGAWA, Hugo. Arquiteturas no Brasil (1900-1990). São Paulo: Edusp - Editora da Universidade de São Paulo, 1997.

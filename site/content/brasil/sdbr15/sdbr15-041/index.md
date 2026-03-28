@@ -66,21 +66,21 @@ palavras-chave:
 
 ## Referências
 
-- ANCARA. [S. l.], 2023. Disponível em: http://www.ankara.gov.tr/ilcelerimiz. Acesso em: 11 fev. 2023.
-- BARIS, M. E., Erdogan, E., Dilaver, Z., & Arslan, M. (2010). Greenways and the urban form: City of Ankara, Türkiye. Biotechnology and Biotechnological Equipment, 24(1), 1657–1664. https://doi.org/10.2478/V10133-010-0022-6
-- BATUMAN, Bülent. City profile: Ankara. ResearchGate, [S. l.], p. 1-12, 26 jun. 2012. DOI 10.1016/j.cities.2012.05.016. Disponível em: https://www.researchgate.net/publication/257097149.
+- ANCARA. [S. l.], 2023. Disponível em: &lt;<a href="http://www.ankara.gov.tr/ilcelerimiz">http://www.ankara.gov.tr/ilcelerimiz</a>&gt; Acesso em: 11 fev. 2023.
+- BARIS, M. E., Erdogan, E., Dilaver, Z., & Arslan, M. (2010). Greenways and the urban form: City of Ankara, Türkiye. Biotechnology and Biotechnological Equipment, 24(1), 1657–1664. &lt;<a href="https://doi.org/10.2478/V10133-010-0022-6">https://doi.org/10.2478/V10133-010-0022-6</a>&gt;
+- BATUMAN, Bülent. City profile: Ankara. ResearchGate, [S. l.], p. 1-12, 26 jun. 2012. DOI 10.1016/j.cities.2012.05.016. Disponível em: &lt;<a href="https://www.researchgate.net/publication/257097149">https://www.researchgate.net/publication/257097149</a>&gt;
 - BILSEL, C. (2009). ÿzmir'de Cumhuriyet dönemi planlamasÿ (1923-1965): 20. Yüzyÿl Kentsel Mirasÿ. Ege Mimarlÿk, Ekim, pp. 12-17.
 - CORNER, James. 2014. The Landscape Imagination: Collected Essays of James Corner 1990-2010. Princeton: Princeton University Press.
 - COSTA, Lúcio. Brasília, a cidade que inventei: Relatório do Plano Piloto de Brasília. 1991.
-- CRUZ, L. S. F. (2016). Arquitetura, vazio moderno e o espaço social. Paranoá, 16 (16). https://doi.org/10.18830/issn.1679-0944.n16.2016.04
+- CRUZ, L. S. F. (2016). Arquitetura, vazio moderno e o espaço social. Paranoá, 16 (16). &lt;<a href="https://doi.org/10.18830/issn.1679-0944.n16.2016.04">https://doi.org/10.18830/issn.1679-0944.n16.2016.04</a>&gt;
 - KACAR, D. Ankara, a small town, transformed to a nation’s capital. Journal of Planning History, v. 9, n. 1, p. 43–65, fev. 2010.
 - KEZER, Z. (1999). The Making of a National Capital: Ideology and Socio-spatial Practices in Early Republican Ankara. Estados Unidos: University of California, Berkeley.
-- KORKMAZ, C., & Balaban, O. (2020). Sustainability of urban regeneration in Turkey: Assessing the performance of the North Ankara Urban Regeneration Project. Habitat International, 95. https://doi.org/10.1016/j.habitatint.2019.102081
+- KORKMAZ, C., & Balaban, O. (2020). Sustainability of urban regeneration in Turkey: Assessing the performance of the North Ankara Urban Regeneration Project. Habitat International, 95. &lt;<a href="https://doi.org/10.1016/j.habitatint.2019.102081">https://doi.org/10.1016/j.habitatint.2019.102081</a>&gt;
 - KOÇAK, Feryal Aysin. Social and spatial production of Atatürk Boulevard in Ankara. Unpublished master’s thesis). Graduate School of Social Sciences, Middle East Technical University, Ankara, Turkey, 2008.
 - LASSANCE, Guilherme; SABOIA, Luciana; PESCATORI, Carolina; CAPILLÉ, Cauê. Cidade Pós-Compacta. 1. ed. [S. l.]: Publisher, 2021. ISBN 9786587913612.
 - LASSANCE, GUILHERME ; SABOIA, L.; PESCATORI, CAROLINA; CAPILLE, C. C. Referencial de cidade e ensino: uma revisão necessária. Bitacora Urbano Territorial, v. 33, p. 1, 2022.
 - SABOIA, Luciana; LASSANCE, GUILHERME ; PESCATORI, CAROLINA; CAPILLÉ, CAUÊ. Brasília e a possibilidade de um urbanismo não utópico. OCULUM ENSAIOS, v. 19, p. 1-16, 2022.
-- SABOIA, Luciana; JANNUZI, Victoria. CAPITÓLIOS E CAPITAIS MODERNAS: BRASÍLIA E ANCARA. 14º Seminário Docomomo BR, 29 out. 2021. Disponível em: https://docomomobrasil.com/wp- content/uploads/2021/12/Anais-14%C2%B0-Docomomo-BR-ISBN.pdf. Acesso em: 23 jun. 2023.
+- SABOIA, Luciana; JANNUZI, Victoria. CAPITÓLIOS E CAPITAIS MODERNAS: BRASÍLIA E ANCARA. 14º Seminário Docomomo BR, 29 out. 2021. Disponível em: &lt;<a href="https://docomomobrasil.com/wp-">https://docomomobrasil.com/wp-</a>&gt; content/uploads/2021/12/Anais-14%C2%B0-Docomomo-BR-ISBN.pdf. Acesso em: 23 jun. 2023.
 - TANKUT, G. (1990). Bir Baÿkentin ÿmarÿ, Ancara: ODTÜ Mimarlÿk Fakültesi Yayÿnÿ.
 - TEKELI, E. (1984). “Ankara'nÿn Baÿkentlik Kararÿnÿn Ülkesel Mekan Organizasyonu ve Toplumsal Yapÿya Etkileri Bakÿmÿndan Genel Bir Deÿerlendirilmesi”, Tarih ÿçinde Ankara, Eylül 1981 Seminer Bildirileri, ODTÜ Mim. Fak. Basÿm ÿÿliÿi, Ancara.
 - TANKUT, G., (1993) Reconstruction of a Capital, Key Books, Istanbul,

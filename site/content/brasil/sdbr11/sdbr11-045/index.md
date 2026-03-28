@@ -58,7 +58,7 @@ palavras-chave:
 
 - ANGELIS, Bruno Luiz Domingos de; NETO, Generoso De Angelis. Jardins históricos – introduzindo a questão. In Revista Paisagem Ambiente: ensaios - n. 19 - São Paulo - p. 31 - 48 – 2004.
 - BARTALINI, Vladimir. A HERANÇA DE UMA MODERNIDADE. Pós v.17 n.27. São Paulo, 2010.
-- BELTRÃO, Ana Beatriz Tenório de Souza; CARNEIRO, Ana Rita Sá. Inventário dos Jardins Privados de Burle Marx no Recife. XIX CONIC - III CONITI - VII JOIC CTG. UFPE, 2011. Disponível em: &lt;https://www.ufpe.br/propesq/images/conic/2011/ANAIS.swf&gt;. Acesso em: 19 novembro de 2015.
+- BELTRÃO, Ana Beatriz Tenório de Souza; CARNEIRO, Ana Rita Sá. Inventário dos Jardins Privados de Burle Marx no Recife. XIX CONIC - III CONITI - VII JOIC CTG. UFPE, 2011. Disponível em: &lt;<a href="https://www.ufpe.br/propesq/images/conic/2011/ANAIS.swf">https://www.ufpe.br/propesq/images/conic/2011/ANAIS.swf</a>&gt; Acesso em: 19 novembro de 2015.
 - BRITO JUNIOR, Nestor de Castro; LEAL JUNIOR, Jose Hamilton Lopes; LOPES, Wilza Gomes Reis; MATOS, Karenina Cardoso. Vegetação e sustentabilidade urbana: os jardins de Burle Marx na cidade de Teresina, Piauí. V Encontro Nacional e III Encontro Latino-Americano sobre Edificações e Comunidades Sustentáveis. Recife, 2009.
 - DEPARTAMENTO DE CULTURA DO ESTADO DO MARANHÃO. Palácio dos Leões – Síntese Histórica e Guia Descritivo. São Luís, 1964
 - FLORIANO, César. Roberto Burle Marx: Jardins do Brasil, a sua mais pura tradução. Departamento de Arquitetura Universidade Federal de Santa Catarina in Revista Esboços Nº 15 – UFSC, 2007.

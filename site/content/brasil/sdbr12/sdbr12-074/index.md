@@ -60,11 +60,11 @@ palavras-chave:
 - BIBLIOTECA PÚBLICA BENEDITO LEITE. Acervo de jornais da Biblioteca Pública Benedito Leite. São Luís, 2017.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil., São Paulo: Ed. Perspectiva, 2010.
 - CAVALCANTI, L. A. P. Moderno e Brasileiro: a história de uma nova linguagem na arquitetura (1930 - 1960). Rio de Janeiro: Zahar editora, 2007.
-- FUÃO, Fernando Freitas. Brutalismo. A última trincheira do movimento moderno. Arquitextos, São Paulo, v. 01, n. 007.09, dez. 2000 Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949&gt;. Acesso em: 20 julho 2017.
+- FUÃO, Fernando Freitas. Brutalismo. A última trincheira do movimento moderno. Arquitextos, São Paulo, v. 01, n. 007.09, dez. 2000 Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949">http://www.vitruvius.com.br/revistas/read/arquitextos/01.007/949</a>&gt; Acesso em: 20 julho 2017.
 - MINDLIN, Henrique E. Arquitetura moderna no Brasil. Rio de janeiro. Aeroplano editor.
 - MOREIRA, Fernando Diniz (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1 ed. Recife: FASA, 2007. 392p.
 - NOGUEIRA, Nehemias. Arquivo pessoal, 2017
 - PFLUEGER, Grete; LOPES, Jose Antônio. Arquitetura do século XX. In:______. São Luís – Ilha do Maranhão e Alcântara: Guia de Arquitetura e Paisagem. 1 ed. (bilíngue). Sevilla: Dirección General de Arquitectura y Vivienda, 2008. 448 p. SEEBLA. DVD SEEBLA - planta original, 2017.
 - SEGAWA, Hugo. Arquiteturas no Brasil: 1900-1990. São Paulo: EDUSP, 1999
-- ZEIN, Ruth Verde. Brutalist Connections. 2012. Disponível em: &lt;http://www.archdaily.com.br/87076/brutalist-connections&gt;. Acesso em: 27 junho 2017.
+- ZEIN, Ruth Verde. Brutalist Connections. 2012. Disponível em: &lt;<a href="http://www.archdaily.com.br/87076/brutalist-connections">http://www.archdaily.com.br/87076/brutalist-connections</a>&gt; Acesso em: 27 junho 2017.
 - ZEVI, Bruno. A linguagem moderna da Arquitetura. Lisboa: Dom Quixote, 1984.

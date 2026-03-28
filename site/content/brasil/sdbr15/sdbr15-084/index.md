@@ -67,19 +67,19 @@ palavras-chave:
 
 ## Referências
 
-- CASTRO, Elizabeth Amorim de; SANTOS, Maria da Graça Rodrigues dos. Trajetória da preservação do patrimônio cultural em Curitiba. Um relato de inovações, avanços e simplificações. Políticas de preservação em Curitiba: fundamentos e práticas (parte 2). Arquitextos. São Paulo, ano 22, n. 254.07, Vitruvius, ago. 2021. Disponível em: &lt;https://vitruvius.com.br/revistas/read/arquitextos/22.254/8206&gt;.
+- CASTRO, Elizabeth Amorim de; SANTOS, Maria da Graça Rodrigues dos. Trajetória da preservação do patrimônio cultural em Curitiba. Um relato de inovações, avanços e simplificações. Políticas de preservação em Curitiba: fundamentos e práticas (parte 2). Arquitextos. São Paulo, ano 22, n. 254.07, Vitruvius, ago. 2021. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/22.254/8206">https://vitruvius.com.br/revistas/read/arquitextos/22.254/8206</a>&gt;
 - CASTRO, Elizabeth Amorim de; SANTOS, Maria da Graça Rodrigues dos. A face moderna de Curitiba pelas ações na área central nos anos 1970. p.277-298. In: MELO, Alcilia. Conexões modernas no Brasil [recurso eletrônico]: documentar, conservar, conectar. Campina Grande: EDUFCG, 2022.
 - CURITIBA. Alvará de Construção 17.944 /1963. Curitiba, 1963. Acervo: APMC.
 - CURITIBA. Alvará de Construção 25.112/1957. Curitiba, 1957. Acervo: APMC.
 - CURITIBA. Alvará de Construção 34.375/1963. Curitiba, 1963. Acervo: APMC.
 - CURITIBA. Alvará de Construção 37.992/1965. Curitiba, 1965. Acervo: APMC.
 - CURITIBA. Alvará de Demolição 258.461/2005. Curitiba, 2005. Acervo: SMU.
-- CURITIBA. Lei 15511/2019 – Zoneamento e uso do solo de Curitiba. Disponível em: https://www.curitiba.pr.gov.br.
-- CURITIBA. Lei 2828/1966 – Plano Diretor de Curitiba. Curitiba, 31 jul. 1966. Disponível em: &lt;https://leismunicipais.com.br&gt;.
+- CURITIBA. Lei 15511/2019 – Zoneamento e uso do solo de Curitiba. Disponível em: &lt;<a href="https://www.curitiba.pr.gov.br">https://www.curitiba.pr.gov.br</a>&gt;
+- CURITIBA. Lei 2828/1966 – Plano Diretor de Curitiba. Curitiba, 31 jul. 1966. Disponível em: &lt;<a href="https://leismunicipais.com.br">https://leismunicipais.com.br</a>&gt;
 - CURITIBA. Processo 00-012077/2021. Curitiba, 2021. Acervo: SMU.
 - CURITIBA. Processo 01-049641/2006. Curitiba, 2006. Acervo: SMU.
 - CURITIBA. Processo 01-088041/2008. Curitiba, 2008. Acervo: SMU.
 - CURITIBA. Processo 01-125744/2004. Curitiba, 2004. Acervo: SMU.
-- FERNANDES, José Carlos. Moderno demais para Curitiba. Gazeta do Povo, 22 de julho de 2007. Disponível em: https://www.gazetadopovo.com.br/vida-e-cidadania/moderno-demais-para- curitiba-akc9ace6ctccn13u5hffrsc3y/. Acesso em: 08 jun. 2023.
-- GNOATO, Salvador. et al. Proposta de preservação da arquitetura moderna de Curitiba. In: 5º Seminário DOCOMOMO. Arquitetura e Urbanismo Modernos: Projeto e Preservação. São Carlos, 27 a 30 de outubro de 2003. Disponível em: https://docomomobrasil.com/course/5-seminario- docomomo-brasil-sao-carlos/. Acesso em 20 mai. 2023.
+- FERNANDES, José Carlos. Moderno demais para Curitiba. Gazeta do Povo, 22 de julho de 2007. Disponível em: &lt;<a href="https://www.gazetadopovo.com.br/vida-e-cidadania/moderno-demais-para-">https://www.gazetadopovo.com.br/vida-e-cidadania/moderno-demais-para-</a>&gt; curitiba-akc9ace6ctccn13u5hffrsc3y/. Acesso em: 08 jun. 2023.
+- GNOATO, Salvador. et al. Proposta de preservação da arquitetura moderna de Curitiba. In: 5º Seminário DOCOMOMO. Arquitetura e Urbanismo Modernos: Projeto e Preservação. São Carlos, 27 a 30 de outubro de 2003. Disponível em: &lt;<a href="https://docomomobrasil.com/course/5-seminario-">https://docomomobrasil.com/course/5-seminario-</a>&gt; docomomo-brasil-sao-carlos/. Acesso em 20 mai. 2023.
 - GOMES, Elgson Ribeiro. Escola e Profissão. Curitiba: IERG, 2008

@@ -46,12 +46,12 @@ palavras-chave:
 
 ## Referências
 
-- BENTON, Tim. Le Corbusier and the vernacular plain, http://archivio.archphoto.it/2011/01/25/tim- benton_le-corbusier-and-the-vernacular-plain/ ;
+- BENTON, Tim. Le Corbusier and the vernacular plain, &lt;<a href="http://archivio.archphoto.it/2011/01/25/tim-">http://archivio.archphoto.it/2011/01/25/tim-</a>&gt; benton_le-corbusier-and-the-vernacular-plain/ ;
 - BRUAND, Ives, Arquitetura Contemporânea no Brasil, São Paulo, Ed. Perspectiva, 2002;
 - CARRILHO, Marcos José. Lucio Costa, Patrimônio Histórico e Arquitetura Moderna, Tese de Doutorado,
 - FAUUSP, São Paulo, 2004.
-- COMAS, Carlos Eduardo. Arquitetura Moderna Estilo Campestre: Hotel Parque São Clemente, https://vitruvius.com.br/revistas/read/arquitextos/11.123/3513 consultado em 25/06/2021;
+- COMAS, Carlos Eduardo. Arquitetura Moderna Estilo Campestre: Hotel Parque São Clemente, &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/11.123/3513">https://vitruvius.com.br/revistas/read/arquitextos/11.123/3513</a>&gt; consultado em 25/06/2021;
 - COSTA, Lucio. Registro de uma vivência. São Paulo, Empresa das Artes, 1997;
 - COSTA, Lucio. Sobre Arquitetura, Porto Alegre, Centro dos Estudantes Universitários de Arquitetura, 1962;
-- GUERRA, Abílio e MORI, Victor Hugo. Park Hotel Nova Friburgo, 1944. https://vitruvius.com.br/revistas/read/arquiteturismo/13.145/7333 ; Instituto Antônio Carlos Jobim, Acervo Lucio Costa, http://www.jobim.org/lucio/ ; LEVI STRAUSS, Claude. O homem selvagem, São Paulo, Companhia Editora Nacional, 1976.
+- GUERRA, Abílio e MORI, Victor Hugo. Park Hotel Nova Friburgo, 1944. &lt;<a href="https://vitruvius.com.br/revistas/read/arquiteturismo/13.145/7333">https://vitruvius.com.br/revistas/read/arquiteturismo/13.145/7333</a>&gt; ; Instituto Antônio Carlos Jobim, Acervo Lucio Costa, &lt;<a href="http://www.jobim.org/lucio/">http://www.jobim.org/lucio/</a>&gt; ; LEVI STRAUSS, Claude. O homem selvagem, São Paulo, Companhia Editora Nacional, 1976.
 - PAIM, Gilberto, SOS Park Hotel, Agitprop, nº 1, São Paulo, jan. 2008, o, jan. 2008 www.agitprop.com.br/index.cfm?pag=atualidades_det&id=27&titulo=atualidades ; Revista Arquitetura e Urbanismo, n.38, out-nov, 1991. 14º Seminário Docomomo Brasil | Belém, 27 a 29 de outubro de 2021 20

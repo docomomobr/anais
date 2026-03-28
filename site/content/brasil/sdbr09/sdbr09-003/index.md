@@ -66,7 +66,7 @@ palavras-chave:
 - CASTRO, José Liberal de. Martins Filho, O edificador. In: MENEZES NETO, Paulo Elpídio (Org.). Martins Filho de Corpo Inteiro. Imprensa Universitária. Fortaleza. 2004.
 - DIÓGENES, Beatriz Helena Nogueira. Arquitetura e Estrutura – o uso do concreto armado em Fortaleza. Dissertação de Mestrado. UFC. Fortaleza, 2001.
 - DIÓGENES, Beatriz Helena Nogueira, PAIVA, Ricardo A. Arquitetura e cidade – a Fortaleza dos anos de 1950 e 1960. In. Anuário Arquitetura Cearense. Expressão Gráfica, Fortaleza, 2007.
-- DIÓGENES, B. H. N., JUCÁ NETO, C. R.; FERNANDES, F. R. C.;  NASCIMENTO, J. C. do;  ANDRADE, M. J. F. de S. e DUARTE J., R. O Modernismo Cearense: A Universidade Federal do Ceará e a cidade de Fortaleza.  In: Anais Docomomo N-NE. João Pessoa. 2010
+- DIÓGENES, B. H. N., JUCÁ NETO, C. R.; FERNANDES, F. R. C.; NASCIMENTO, J. C. do; ANDRADE, M. J. F. de S. e DUARTE J., R. O Modernismo Cearense: A Universidade Federal do Ceará e a cidade de Fortaleza. In: Anais Docomomo N-NE. João Pessoa. 2010
 - FONSECA, Maria Cecília Londres. O Patrimônio em Processo: trajetória da política federal de preservação no Brasil. 2ª ed. Rio de Janeiro: Editora UFRJ, MinC-IPHAN, 2005.
 - IPHAN (4ª Superintendência Regional/CE) / UFC (Departamentos de Arquitetura e Urbanismo e História). Inventário da Arquitetura Modernista Cearense – 1ª Etapa. Fortaleza, 2008.
 - LUCENA, Adriana. O IPHAN e a construção do patrimônio moderno brasileiro. Artigo produzido como produto de pesquisa do Programa de Especialização em Patrimônio (PEP). IPHAN/9ª Superintendência Regional/SP, 2005. Supervisora e Orientadora: Flávia Brito do Nascimento.

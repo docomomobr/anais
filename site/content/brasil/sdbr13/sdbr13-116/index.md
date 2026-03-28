@@ -79,7 +79,7 @@ palavras-chave:
 - MACEDO, Danilo Matoso. Da matéria à invenção: as obras de Oscar Niemeyer em Minas Gerais 1938-1955. Brasília: Câmara dos Deputados, coordenação de publicações, 2008.
 - MENDONÇA, Fabíola Moulin. Arte e Arquitetura: um diálogo possível: um estudo de caso do Museu de Arte da Pampulha. Dissertação de Mestrado. Faculdade de Arquitetura e Urbanismo da USP, São Paulo, 2013.
 - OLIVEIRA, Carolina Sinhorelli. Situação crítica: proposições de Frederico Morais nos anos 1960/70, AEDOS, n. 13, vol. 5, ago./dez. 2013.
-- RIBEIRO, Marília Andrès. Da exposição Nova Objetividade Brasileira ao evento Do Corpo à Terra, MODOS: Revista de História da Arte, Campinas, v. 1, n. 3, pp.136-148, set. 2017. Disponível em: ˂http://www.publionline. iar.unicamp.br/index.php/mod/article/view/870˃.
+- RIBEIRO, Marília Andrès. Da exposição Nova Objetividade Brasileira ao evento Do Corpo à Terra, MODOS: Revista de História da Arte, Campinas, v. 1, n. 3, pp.136-148, set. 2017. Disponível em: ˂ &lt;<a href="http://www.publionline">http://www.publionline</a>&gt; iar.unicamp.br/index.php/mod/article/view/870˃.
 - RIBEIRO. Neovanguardas: Belo Horizonte anos 60. Belo Horizonte: C/Arte, 1997.
 - RIBEIRO. Entrevista com Frederico de Morais: ‘A arte não pertence a ninguém’. Rev.
 - UFMG, Belo Horizonte, v.20, n.1, 2013, pp 336/351.
@@ -90,7 +90,7 @@ palavras-chave:
 - MORAIS, Frederico. Manifesto Do Corpo à Terra. In: TRISTÃO, M. Da Semana de Vanguarda (I), Estado de Minas, Belo Horizonte, 28 abr. 1970b, p. 5.
 - MORAIS, Frederico. Panorama das Artes Plásticas: séc. XIX-XX. São Paulo: Instituto Cultural Itaú, 1991.
 - SEGRE, Roberto et. all. (orgs.). Arquitetura + arte + cidade: um debate internacional. Rio de Janeiro: Viana & Mosley, 2010.
-- VIVAS, Rodrigo. A vanguarda passou por BH: o mito da irradiação ou ressonância, VIS: Revista do Programa de Pós-graduação em Arte da UnB. Disponível em: &lt;https://rodrigovivas.files.wordpress.com/2016/11/vivas_rodrigo_a_vanguarda_passou_por_ bh.pdf&gt;
-- VIVAS, Rodrigo. Arte e vanguardas na cidade moderna, Revista Arquivo Público Mineiro, v.1, 2013 pp. 117-129. Disponível em: &lt;http://www.siaapm.cultura.mg.gov.br/acervo/rapm_pdf/2013A10.pdf&gt;
-- VIVAS, Rodrigo. Os salões nacionais de arte de Belo Horizonte, Anais do 23° Encontro da ANPAP: ecossistemas artísticos, 2014. pp. 1578/1591 . Disponível em: &lt;http://www.anpap.org.br/anais/2014/ANAIS/simposios/simposio01/Ana%20Luiza%20Teixeir a%20Neves;%20Rodrigo%20Vivas.pdf &gt;
+- VIVAS, Rodrigo. A vanguarda passou por BH: o mito da irradiação ou ressonância, VIS: Revista do Programa de Pós-graduação em Arte da UnB. Disponível em: &lt;<a href="https://rodrigovivas.files.wordpress.com/2016/11/vivas_rodrigo_a_vanguarda_passou_por_">https://rodrigovivas.files.wordpress.com/2016/11/vivas_rodrigo_a_vanguarda_passou_por_</a>&gt; bh.pdf&gt;
+- VIVAS, Rodrigo. Arte e vanguardas na cidade moderna, Revista Arquivo Público Mineiro, v.1, 2013 pp. 117-129. Disponível em: &lt;<a href="http://www.siaapm.cultura.mg.gov.br/acervo/rapm_pdf/2013A10.pdf">http://www.siaapm.cultura.mg.gov.br/acervo/rapm_pdf/2013A10.pdf</a>&gt;
+- VIVAS, Rodrigo. Os salões nacionais de arte de Belo Horizonte, Anais do 23° Encontro da ANPAP: ecossistemas artísticos, 2014. pp. 1578/1591 . Disponível em: &lt;<a href="http://www.anpap.org.br/anais/2014/ANAIS/simposios/simposio01/Ana%20Luiza%20Teixeir">http://www.anpap.org.br/anais/2014/ANAIS/simposios/simposio01/Ana%20Luiza%20Teixeir</a>&gt; a%20Neves;%20Rodrigo%20Vivas.pdf &gt;
 - VIVAS, Rodrigo. Por uma história da arte em Belo Horizonte. Belo Horizonte: C/Arte, 2012.

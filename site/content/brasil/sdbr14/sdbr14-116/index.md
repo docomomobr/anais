@@ -52,16 +52,16 @@ palavras-chave:
 
 ## Referências
 
-- ACROPOLE. Ginásio coberto, 1958. Acrópole, São Paulo, Ano 29, n. 342, p. 16-20, ago. 1967. Disponível em: http://www.acropole.fau.usp.br/edicao/342. Acesso em: 20 mar. 2021.
-- ACROPOLE. Nova sede do Clube Atlético Paulistano. Acrópole, São Paulo, Ano 20, n. 231, p. 95-97, jan. 1958. Disponível em: http://www.acropole.fau.usp.br/edicao/231. Acesso em: 20 mar. 2021.
+- ACROPOLE. Ginásio coberto, 1958. Acrópole, São Paulo, Ano 29, n. 342, p. 16-20, ago. 1967. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/342">http://www.acropole.fau.usp.br/edicao/342</a>&gt; Acesso em: 20 mar. 2021.
+- ACROPOLE. Nova sede do Clube Atlético Paulistano. Acrópole, São Paulo, Ano 20, n. 231, p. 95-97, jan. 1958. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/231">http://www.acropole.fau.usp.br/edicao/231</a>&gt; Acesso em: 20 mar. 2021.
 - BANHAM, Reyner. El Brutalismo en arquitectura. Barcelona, ES: Gustavo Gili, 1967.
 - BRANDÃO, Ignácio de Loyola. Club Athletico Paulistano: corpo e alma de um clube centenário. São Paulo: DBA Artes Gráficas, 2000.
-- CORDEIRO, Suzann. Reflexões sobre a ‘autoria do lugar’. Arquitextos, São Paulo, ano 16, n. 187.06, Vitruvius, jan. 2016. Disponível em: https://vitruvius.com.br/revistas/read/arquitextos/16.187/5896 . Acesso em: 20 mar. 2021.
-- MUSEU DE ARTE MODERNA. Catálogo Geral da VI Bienal de São Paulo. São Paulo: Massao Ohno, 1961. Disponível em: https://issuu.com/bienal/docs/namee9c394. Acesso em: 20 mar. 2021.
-- D'ELBOUX, Roseli Maria Martins. Os primeiros anos da Cia. City em São Paulo (1911-1915): a revisão de uma lacuna. Revista Brasileira de Estudos Urbanos e Regionais, Rio de Janeiro, v. 22, online, jan.-dez. 2020. Disponível em: https://rbeur.anpur.org.br/rbeur/article/view/6194. Acesso em: 20 mar. 2021.
+- CORDEIRO, Suzann. Reflexões sobre a ‘autoria do lugar’. Arquitextos, São Paulo, ano 16, n. 187.06, Vitruvius, jan. 2016. Disponível em: &lt;<a href="https://vitruvius.com.br/revistas/read/arquitextos/16.187/5896">https://vitruvius.com.br/revistas/read/arquitextos/16.187/5896</a>&gt; . Acesso em: 20 mar. 2021.
+- MUSEU DE ARTE MODERNA. Catálogo Geral da VI Bienal de São Paulo. São Paulo: Massao Ohno, 1961. Disponível em: &lt;<a href="https://issuu.com/bienal/docs/namee9c394">https://issuu.com/bienal/docs/namee9c394</a>&gt; Acesso em: 20 mar. 2021.
+- D'ELBOUX, Roseli Maria Martins. Os primeiros anos da Cia. City em São Paulo (1911-1915): a revisão de uma lacuna. Revista Brasileira de Estudos Urbanos e Regionais, Rio de Janeiro, v. 22, online, jan.-dez. 2020. Disponível em: &lt;<a href="https://rbeur.anpur.org.br/rbeur/article/view/6194">https://rbeur.anpur.org.br/rbeur/article/view/6194</a>&gt; Acesso em: 20 mar. 2021.
 - HERTZBERGER, Herman. Lições de arquitetura. São Paulo: Martins Fontes, 2006.
 - LIGTELIJN, Vincent (Ed.). Aldo van Eyck. Works. Basel, Boston, Berlin: Birkhäuser, 1999.
-- MENDES DA ROCHA, Paulo. Depoimento. Acrópole, São Paulo, Ano 29, n. 342, p. 15, ago. 1967. Disponível em: http://www.acropole.fau.usp.br/edicao/342. Acesso em: 20 mar. 2021.
+- MENDES DA ROCHA, Paulo. Depoimento. Acrópole, São Paulo, Ano 29, n. 342, p. 15, ago. 1967. Disponível em: &lt;<a href="http://www.acropole.fau.usp.br/edicao/342">http://www.acropole.fau.usp.br/edicao/342</a>&gt; Acesso em: 20 mar. 2021.
 - MONTANER, Josep Maria; VILLAC, Maria Isabel. Mendes da Rocha. Lisboa: Blau, 1996. O PAULISTANO. Especial semana Paulo Mendes da Rocha. O Paulistano. São Paulo, n. 345, p. 34-35, nov. 2017.
 - MONTANER, Josep Maria; VILLAC, Maria Isabel. Dia 26 de outubro inauguração oficial. O Paulistano. São Paulo, S/N, p. 6, dez. 1961.
 - MONTANER, Josep Maria; VILLAC, Maria Isabel. O que os sócios devem saber. O Paulistano. São Paulo, S/N, p. 2, abr. 1960.

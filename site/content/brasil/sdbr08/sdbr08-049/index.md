@@ -74,5 +74,5 @@ palavras-chave:
 - SERT, Jose Luis. Can our cities survive?: an ABC of urban problems, their analysis, their solutions. Cambridge; London: Harvard University Press: Humphrey Milford, Oxford University Press, 1942.
 - SICA, Paolo. Historia del urbanismo: siglo XX. Madrid: Instituto de Estudios de Administración Local, 1981.
 - TAFURI, Manfredo. Projecto e Utopia. Lisboa: Presença, 1985.
-- TOPOLCANSKA, Maria. Consistency of serial city: Batovany (Slovakia) designed by architects of Bata Co. DC. Revista de Crítica Arquitectónica, Barcelona, n. 13 – 14, 2005. Disponível em: &lt;http://upcommons.upc.edu/revistes/handle/2099/2383&gt;
+- TOPOLCANSKA, Maria. Consistency of serial city: Batovany (Slovakia) designed by architects of Bata Co. DC. Revista de Crítica Arquitectónica, Barcelona, n. 13 – 14, 2005. Disponível em: &lt;<a href="http://upcommons.upc.edu/revistes/handle/2099/2383">http://upcommons.upc.edu/revistes/handle/2099/2383</a>&gt;
 - VICENTINI, Yara. História e cidade na Amazônia brasileira: a utopia urbana de Henry Ford, 1930. In: RIBEIRO, L. C.; PECHMAN, R. (Org.). Cidade, povo e nação: gênese do urbanismo moderno. Rio de Janeiro: Civilização Brasileira, 1996. p. 411- 441.

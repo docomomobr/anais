@@ -54,7 +54,7 @@ palavras-chave:
 - AMARAL, Aracy. Arte para que? a preocupação social na arte brasileira 1930-1970: subsídios a para uma história social da arte no Brasil 2 ed. São Paulo: Nobel, 1987.
 - ANASTÁCIO, Silvia. O jogo das imagens do universo da criação de Elizabeth Bishop. São Paulo: Annablume, 2009.
 - BARRENTO, João. Limiares sobre Walter Benjamin. Florianópolis: UFSC, 2013.
-- BARRENTO, João. Walter Benjamin: limiar, fronteira e método. In: Olho d’água, São José do Rio Preto, v. 4, n. 2, jul./dez. 2012, p. 41-51. Disponível em &lt;http://www.olhodagua.ibilce.unesp.br/index.php/Olhodagua/article/viewFile/146/168&gt;. Acesso em 22 fev. 2019. a
+- BARRENTO, João. Walter Benjamin: limiar, fronteira e método. In: Olho d’água, São José do Rio Preto, v. 4, n. 2, jul./dez. 2012, p. 41-51. Disponível em &lt;<a href="http://www.olhodagua.ibilce.unesp.br/index.php/Olhodagua/article/viewFile/146/168">http://www.olhodagua.ibilce.unesp.br/index.php/Olhodagua/article/viewFile/146/168</a>&gt; Acesso em 22 fev. 2019. a
 - BENEVOLO, Leonardo. História da arquitetura moderna 3 ed. São Paulo: Perspectiva, 1998. a
 - BENJAMIN, Walter. Magia e técnica, arte e política: ensaios sobre literatura e história da cultura 3 ed. Tradução Sérgio Paulo Rouanet. São Paulo: Brasiliense, 1987.
 - BENJAMIN, Walter. Passagens de Walter Benjamin. Tradução Irene Aron e Cleonice Mourão. Belo Horizonte: Editora UFMG: São Paulo: Imprensa Oficial do Estado, 2007.
@@ -69,7 +69,7 @@ palavras-chave:
 - GONÇALVES, Osvaldo Correa. Arquiteturas de Sérgio Bernardes. In: Habitat, n. 7, abr./jun. 1952, p. 11-17.
 - HABITATION aux environs de Petropolis. In: L’Architecture d’Aujourd’Hui, n. 42-43, ago. 1952, p. 70-71.
 - JAUSS, Hans Robert. A história da literatura como provocação à teoria literária. São Paulo: Ática, 1994.
-- LORDELLO, Eliane. Paisagens epistolares. A paisagem na correspondência de Elizabeth Bishop. In: o Arquitextos, São Paulo, ano 15, n 178.04, 2015. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/15.178/5497&gt;. Acesso em 13 mar. 2019.
+- LORDELLO, Eliane. Paisagens epistolares. A paisagem na correspondência de Elizabeth Bishop. In: o Arquitextos, São Paulo, ano 15, n 178.04, 2015. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/15.178/5497">http://www.vitruvius.com.br/revistas/read/arquitextos/15.178/5497</a>&gt; Acesso em 13 mar. 2019.
 - MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, 1999.
 - MIRANDA, Clara Luiza. A crítica nas revistas de arquitetura nos anos 50: a expressão plástica e a síntese das artes. São Carlos: EESC/USP, 1998 [dissertação de mestrado] a
 - MONTANER, Josep Maria. Arquitectura y crítica 2 ed. Barcelona: Gustavo Gili, 2000.
@@ -78,9 +78,9 @@ palavras-chave:
 - RESIDENCIA de Carlota Macedo Soares – Petrópolis – Estado do Rio. In: Brasil Arquitetura Contemporânea, 1954, p. 14-16.
 - RESIDENCIA em Petrópolis. Arquiteto Sergio Bernardes. In: AD Arquitetura e Decoração, n. 9, jan./fev. 1955.
 - RESIDENCIA na Fazenda Samambaia – Petropolis. In: Arquitetura e Engenharia, n. 29, nov./dez. 1954, p.
-- SHEERBART, Paul. Glass Architecture. In: SHEERBART, Paul; TAUT, Bruno. Glass Architecture and Alpine Architecture. New York: Praeger, 1972. Disponível em: &lt;https://hts3.files.wordpress.com/2010/12/scheerbart-glass-architecture.pdf&gt;. Acesso em 18 jan. 2019.
+- SHEERBART, Paul. Glass Architecture. In: SHEERBART, Paul; TAUT, Bruno. Glass Architecture and Alpine Architecture. New York: Praeger, 1972. Disponível em: &lt;<a href="https://hts3.files.wordpress.com/2010/12/scheerbart-glass-architecture.pdf">https://hts3.files.wordpress.com/2010/12/scheerbart-glass-architecture.pdf</a>&gt; Acesso em 18 jan. 2019.
 - STUCCHI, Fabiana Terenzi. Revista Habitat: um olhar moderno sobre os anos 50 em São Paulo. São Paulo: FAU/USP, 2006. [dissertação de mestrado]
 - THREE houses by Sergio Bernardes. In: The Architectural Review, n. 687, mar. 1954, p. 162-167.
 - TINEM, Nelci. O alvo do olhar estrangeiro: o Brasil na historiografia da arquitetura moderna 2a ed. João Pessoa: Editora Universitária UFPB, 2006.
 - VIEIRA, Miriam. Dimensões da écfrase: a presença da pintura e da arquitetura em romances de artista. Belo Horizonte: UFMG, 2016. [tese de doutorado]
-- YURGEL, Caio. Apaguem os rastros: Walter Benjamin, arquitetura, história e literatura. In: Terra roxa e outras terras – Revista de Estudos Literários, Londrina, vol. 24, dez. 2012, p. 140-150. Disponível em &lt;http://www.uel.br/pos/letras/terraroxa/g_pdf/vol24/TRvol24l.pdf&gt; Acesso em 13 mar. 2019.
+- YURGEL, Caio. Apaguem os rastros: Walter Benjamin, arquitetura, história e literatura. In: Terra roxa e outras terras – Revista de Estudos Literários, Londrina, vol. 24, dez. 2012, p. 140-150. Disponível em &lt;<a href="http://www.uel.br/pos/letras/terraroxa/g_pdf/vol24/TRvol24l.pdf">http://www.uel.br/pos/letras/terraroxa/g_pdf/vol24/TRvol24l.pdf</a>&gt; Acesso em 13 mar. 2019.

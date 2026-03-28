@@ -63,8 +63,8 @@ palavras-chave:
 - BARDI, Lina Bo. Tempos de Grossura: O design no impasse. São Paulo: Institulo Lina Bo e P. M. Bardi, 1994.
 - BENEVIDES, Maria Victoria. O governo Kubitschek: desenvolvimento econômico e estabilidade política, 1956- 1961. Rio de Janeiro: Paz e Terra, 1979.
 - BOTTURA, Roberto de Almeida. Redescobrindo o Brasil: Lina Bo Bardi e a ponte conceitual entre patrimônio cultural popular, desenho industrial e identidade nacional. In: III Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo, 2014, São Paulo. III ENANPARQ. São Paulo, 2014.
-- CADERNOS DO NORDESTE.Em Defesa do Nordeste. Out. 2000b. Disponível em: &lt; http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm&gt;. Acesso em: 2 jul. 2014a.
-- CADERNOS DO NORDESTE.GTDN, uma semente plantada pela sociedade. Out. 2000a. Disponível em: &lt; http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm&gt;. Acesso em: 2 jul. 2014b.
+- CADERNOS DO NORDESTE.Em Defesa do Nordeste. Out. 2000b. Disponível em: &lt;<a href="http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm">http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_1.htm</a>&gt; Acesso em: 2 jul. 2014a.
+- CADERNOS DO NORDESTE.GTDN, uma semente plantada pela sociedade. Out. 2000a. Disponível em: &lt;<a href="http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm">http://www2.uol.com.br/JC/cadernosdonordeste/ne2710_3.htm</a>&gt; Acesso em: 2 jul. 2014b.
 - CHAGAS, Maurício de Almeida. Modernismo e tradição: Lina Bo Bardi na Bahia. 2002. 244 f. Dissertação (Programa de Pós-Graduação em Arquitetura e Urbanismo). Faculdade de Arquitetura e Urbanismo da Universidade Federal da Bahia, Salvador, 2002.
 - DIAS, Maria Regina Álvares Correia. O ensino do design: a interdisciplinaridade na disciplina de projeto em
 - LIMA, Zeuler de Almeida. Lina Bo Bardi: Entre Margens e Centros. ARQTEXTO (UFRGS), v. 14, p. 110-144, 2009.

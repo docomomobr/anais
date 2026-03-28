@@ -55,10 +55,10 @@ palavras-chave:
 
 - BRAUNFELS, Wolfgang. Arquitectura Monacal en Occidente. Barcelona: Barral Ed., 1974.
 - BOLOGNA, Francisco: depoimentos (abr. e jun. 2003). Entrevistador: as autoras. Rio de Janeiro. 4 fitas cassete (240 min.) CONCÍLIO VATICANO. Documentos do Concilio Ecumênico Vaticano II. São Paulo: Paulus, 2001.
-- DREXEL UNIVERSITY, Philadelphia, PA. Desenvolvido por Drexel University. Apresenta estudos sobre arquitetura religiosa, fotografias e informações gerais sobre a universidade. Disponível em &lt;http://www.drexel.edu/&gt; Acesso em 4 jun. 2003.
+- DREXEL UNIVERSITY, Philadelphia, PA. Desenvolvido por Drexel University. Apresenta estudos sobre arquitetura religiosa, fotografias e informações gerais sobre a universidade. Disponível em &lt;<a href="http://www.drexel.edu/">http://www.drexel.edu/</a>&gt; Acesso em 4 jun. 2003.
 - ELIADE, Mircea. O Sagrado e o Profano: a essência das religiões. São Paulo: Martins Fontes, 1995. LE CORBUSIER. Por uma Arquitetura. São Paulo: Ed. Perspectiva / EDUSP, 1973.
-- MACEDO, Oigres. Francisco Bolonha: ofício da modernidade. 2003. Dissertação (Mestrado em Arquitetura). Escola de Engenharia de São Carlos. Universidade de São Paulo. MOSTEIRO DE SÃO BENTO DE SÃO PAULO. Desenvolvido por Mosteiro de São Bento de São Paulo. Apresenta histórico, fotografias e informações sobre o mosteiro. Disponível em &lt;http://www.mosteiro.org.br/menu.htm&gt; Acesso em 4 jun. 2003.
-- MOSTEIRO DE SÃO BENTO DO RIO DE JANEIRO. Desenvolvido por Mosteiro de São Bento do Rio de Janeiro. Apresenta histórico, fotografias e informações sobre o mosteiro. Disponível em &lt;http://www.osb.org.br/&gt; Acesso em 4 jun. 2003.
+- MACEDO, Oigres. Francisco Bolonha: ofício da modernidade. 2003. Dissertação (Mestrado em Arquitetura). Escola de Engenharia de São Carlos. Universidade de São Paulo. MOSTEIRO DE SÃO BENTO DE SÃO PAULO. Desenvolvido por Mosteiro de São Bento de São Paulo. Apresenta histórico, fotografias e informações sobre o mosteiro. Disponível em &lt;<a href="http://www.mosteiro.org.br/menu.htm">http://www.mosteiro.org.br/menu.htm</a>&gt; Acesso em 4 jun. 2003.
+- MOSTEIRO DE SÃO BENTO DO RIO DE JANEIRO. Desenvolvido por Mosteiro de São Bento do Rio de Janeiro. Apresenta histórico, fotografias e informações sobre o mosteiro. Disponível em &lt;<a href="http://www.osb.org.br/">http://www.osb.org.br/</a>&gt; Acesso em 4 jun. 2003.
 - NISHIMURA, Eshin. Unsui: A Diary of Zen Monastic Life. Honolulu: University of Hawaii Press, 1990.
 - ORFANATODOM SILVÉRIO. Habitat, São Paulo, n. 52, jan-fev 1959.
 - SARTORE, Domenico e TRIACCA, Achille M. (org.) Dicionário de Liturgia. São Paulo: Edições Paulinas, 1992.

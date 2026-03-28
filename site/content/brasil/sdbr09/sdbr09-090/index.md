@@ -82,7 +82,7 @@ palavras-chave:
 - LEMOS, Carlos A.C.. Arquitetura Contemporânea. In: ZANINE, Walter (Org.). História Geral da Arte no Brasil. São Paulo: Instituto Walter Moreira Sales, 1983.
 - LEMOS, Carlos A.C.. Arquitetura Brasileira. São Paulo: Melhoramentos/EDUSP. 1979.
 - MARQUES, Sonia. Maestro sem Orquestra: um estudo da ideologia do arquiteto no Brasil 1820-1950. Recife, 1983. Dissertação (Mestrado), PIMIS. Universidade Federal de Pernambuco.
-- MARQUES, Sonia & NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;. http://vitruvius.com.br/revistas/read/arquitextos/01.011/903&gt; Acesso em 28/02/2011.
+- MARQUES, Sonia & NASLAVSKY, Guilah. Estilo ou causa? Como, quando e onde? Os conceitos e limites da historiografia nacional sobre o Movimento Moderno. São Paulo: Vitruvius, 2001. Disponível em: &lt;. &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/01.011/903">http://vitruvius.com.br/revistas/read/arquitextos/01.011/903</a>&gt; Acesso em 28/02/2011.
 - MARQUES, Sonia & NASLAVSKY, Guilah. Eu vi o modernismo nascer.e ele começou no Recife. In: MOREIRA, Fernando Diniz (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1. ed. Recife: FASA, 2007.
 - MARQUES, Sonia & NASLAVSKY, Guilah. La Reception du Modernism à Recife. In: 7th DOCOMOMO International Conference. Paris: set/2002;
 - MARQUES, Sonia & NASLAVSKY, Guilah. Arquitetura Moderna. In: ROCHA, Edileusa (Org.). Guia do Recife: Arquitetura e Paisagismo. Recife: Edição dos autores, 2004.

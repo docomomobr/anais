@@ -77,7 +77,7 @@ palavras-chave:
 - CHAVES, Celma. Modernização, inventividade e mimetismo na arquitetura residencial em Belém entre as décadas de 1930 e 1960. Revista Risco, São Carlos, pp.145-163, 2009.
 - COMAS, Carlos E. D. Teoria acadêmica, arquitetura moderna, corolário brasileiro. In: Textos fundamentais sobre história da arquitetura moderna brasileira – parte 2. São Paulo: Romano Guerra, 2010.
 - CZAJKONWSKI, Jorge. A arquitetura racionalista e a tradição brasileira. In: Textos fundamentais sobre história da arquitetura moderna brasileira – parte 2. São Paulo: Romano Guerra, 2010.
-- DERENJI, Jussara da S. Modernismo na Amazônia: Belém do Pará, 1950/70.  Disponível em: &lt;www.vitruvius.com.br&gt;. Acesso em: dezembro de 2010.
+- DERENJI, Jussara da S. Modernismo na Amazônia: Belém do Pará, 1950/70. Disponível em: &lt;www.vitruvius.com.br&gt;. Acesso em: dezembro de 2010.
 - OLIVEIRA, Manoel. Tuna: Sua Vida e Glória. B elém: Tuna Luso Brasileira, 2003.
 - PENTEADO, Antônio Rocha. Belém do Pará: Estudo de Geografia Urbana. Belém: Editora da UFPa, 1968.
 - TINEM, Nelci. O Alvo do Olhar Estrangeiro. O Brasil na Historiografia da Arquitetura Moderna. João Pessoa: Editora Universitária, 2006.

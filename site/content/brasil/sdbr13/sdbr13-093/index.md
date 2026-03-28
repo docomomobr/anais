@@ -47,7 +47,7 @@ authors:
     familyname: "Di Masironi Andrade"
     orcid: "0000-0002-0493-2257"
 doi: "10.5281/zenodo.19077602"
-zenodo_pdf_url: "https://zenodo.org/records/19077603/files/sdbr13-093.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285642/files/sdbr13-093.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -69,4 +69,4 @@ palavras-chave:
 - CASTRO, Elizabeth Amorim de. Edifícios públicos de Curitiba: ecletismo e modernismo na arquitetura oficial. Curitiba: Edição do autor, 2011.
 - DE VENEZA, Carta. Carta Internacional sobre a Conservação e o Restauro de Monumentos e Sítios. In: II Congresso Internacional de arquitectos e técnicos dos monumentos históricos. ICOMOS. Veneza. 1964.
 - GNOATO, Luís Salvador Petrucci. Arquitetura do movimento moderno em Curitiba. Curitiba: Travessa dos Editores, 2009.
-- SOBE ARQUITETURA; TRIBUNAL DE JUSTIÇA DO PARANÁ. Projeto de Restauro e Ampliação: Palácio da Justiça: Centro Cívico de Curitiba: Memorial Justificativo: Caderno de Encargos: Planejamento da Obra: PCMAT. Curitiba, PR, 2014. 98p. Disponível em: &lt; https://www.tjpr.jus.br/documents/18319/4555528/Caderno+de+encargos+RESTAURO+Palacio+da+J ustiça+out+2014.pdf &gt;. Acesso em 12 jun. 2017.
+- SOBE ARQUITETURA; TRIBUNAL DE JUSTIÇA DO PARANÁ. Projeto de Restauro e Ampliação: Palácio da Justiça: Centro Cívico de Curitiba: Memorial Justificativo: Caderno de Encargos: Planejamento da Obra: PCMAT. Curitiba, PR, 2014. 98p. Disponível em: &lt;<a href="https://www.tjpr.jus.br/documents/18319/4555528/Caderno+de+encargos+RESTAURO+Palacio+da+J">https://www.tjpr.jus.br/documents/18319/4555528/Caderno+de+encargos+RESTAURO+Palacio+da+J</a>&gt; ustiça+out+2014.pdf &gt;. Acesso em 12 jun. 2017.

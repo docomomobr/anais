@@ -1,0 +1,42 @@
+---
+title: "A (não) permanência das obras de Severiano Mário Porto"
+subtitle: "análise da reforma do edifício sede do TRE-AM"
+date: 2016-08-10
+slug: 1
+type: artigo
+document_type: resumo
+weight: 10
+event_title: "6º Seminário Docomomo Norte/Nordeste, Teresina, 2016"
+event_location: "Teresina, PI"
+event_date: "2016-08-10"
+event_isbn: "978-85-7463-919-2"
+event_publisher: "UFPI"
+event_slug: sdnne06
+ambito: nne
+ambito_nome: "Norte/Nordeste"
+event_name: "Seminário Docomomo Norte/Nordeste"
+event_edition: 6
+event_city: "Teresina"
+event_year: 2016
+locale: "pt-BR"
+abstract: |
+  A produção do arquiteto Severiano Mário Porto não segue características específicas de uma única escola brasileira, assumindo diferentes narrativas que oscilam entre vertentes da escola carioca, do brutalismo paulista, e até mesmo da arquitetura vernacular, entretanto, sempre foi reconhecida pelo expressivo caráter regionalista, com narrativas que revelam a constate preocupação com a tectônica necessária à Amazônia Brasileira. Recentemente, o edifício Sede do Tribunal Regional Eleitoral do Amazonas (TRE-AM), obra representativa do Brutalismo de Porto, passou por reformas que alteraram elementos que caracterizavam-na como tal, com o uso de novos materiais de revestimento como pastilhas cerâmicas e painéis de alumínio composto. Quais seriam os fatores motivadores para a adoção dos novos materiais da reforma? Seriam meramente fruto de uma tentativa de adaptar um edifício modernista regional à um padrão de estética arquitetônica contemporânea - internacional ou nacional? Os materiais utilizados no projeto original do edifício justificavam-se a partir do contexto da indústria incipiente da época, seguindo a linha moderna-regional preconizada por Porto na Amazônia, com o uso do concreto armado e da madeira. A transposição de elementos da escola paulista ao contexto de Manaus é identificado ainda na preferência pelo monobloco, que abriga todas as atividades, com vãos livres, e predominância de cheios sobre vazios. Desse modo, o presente artigo busca o questionamento de como a estética do edifício é alterada com o abandono do repertório original do arquiteto de adaptação do moderno ao contexto regional, a fim de compreender o impacto dessa desfiguração na identidade do edifício.
+keywords:
+  - "Severiano Porto"
+  - "reforma"
+  - "desfiguração"
+authors:
+  - givenname: "Daniel Lins Falcone"
+    familyname: "Pontes"
+  - givenname: "Roger Pamponet da"
+    familyname: "Fonseca"
+    orcid: "0000-0003-1427-0119"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Pontes, Daniel Lins Falcone"
+  - "Fonseca, Roger Pamponet da"
+palavras-chave:
+  - "Severiano Porto"
+  - "reforma"
+  - "desfiguração"
+---

@@ -66,8 +66,8 @@ palavras-chave:
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CALDAS, Renata Maria Vieira. Arquitetura Industrial em Recife: uma face da modernidade. Recife, 2010. Dissertação (Mestrado). Universidade Federal de Pernambuco. CAC.
 - CANTALICE II, Aristóteles. Um Brutalismo Suave: traços da arquitetura em Pernambuco (1965- 1980). Dissertação de mestrado. Recife: Programa de Pós-Graduação em Desenvolvimento Urbano da Universidade Federal de Pernambuco – MDU/UFPE, 2009.
-- CAMPELLO, Glauco. Nota Biográfica. Disponível em: &lt;http://www.glaucocampello.com.br/artigo/115,43&gt; Acesso em 25/01/2013.
-- DA SILVA, Marcos Solon Kretli. Redescobrindo a arquitetura do Archigram. São Paulo: Vitruvius, 2004. Disponível em: &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585&gt; Acesso em 06/08/2013.
+- CAMPELLO, Glauco. Nota Biográfica. Disponível em: &lt;<a href="http://www.glaucocampello.com.br/artigo/115,43">http://www.glaucocampello.com.br/artigo/115,43</a>&gt; Acesso em 25/01/2013.
+- DA SILVA, Marcos Solon Kretli. Redescobrindo a arquitetura do Archigram. São Paulo: Vitruvius, 2004. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585">http://www.vitruvius.com.br/revistas/read/arquitextos/04.048/585</a>&gt; Acesso em 06/08/2013.
 - LIMA, Daniele Abreu e. Armando Holanda. Recife, 1997. Trabalho de Graduação, Curso de Arquitetura e Urbanismo da Universidade Federal de Pernambuco. mimeo.
 - MARQUES, Sonia & NASLAVSKY, Guilah. Eu vi o modernismo nascer...e ele começou no Recife. In: Fernando Diniz Moreira. (Org.). Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. 1º ed. Recife: FASA, 2007, pp. 81-105.
 - MARQUES, Sonia & NASLAVSKY, Guilah. Arquitetura Moderna. In: Edileusa da Rocha (Org.). Guia do Recife: Arquitetura e Paisagismo. Recife: Ed. dos Autores, 2004.
@@ -75,10 +75,10 @@ palavras-chave:
 - NASLAVSKY, Guilah. Arquitetura moderna em Pernambuco, 1951-1972: as contribuições de Acácio Gil Borsoi e Delfim Fernandes Amorim, (2004), 270p. Tese (Doutorado)- Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo (2004).
 - ROSEMBERG, André. Artes Pláricas-Pernambuco In: Pernambuco 5 décadas de Arte. Coord. André Rosemberg. Recife: Quadro Publicidade e Design Ltda., 2003.
 - SANTANA, G. Os Arquitetos nos Últimos 40 anos: depoimento. [20 de Junho de 2002]. Recife:
-- II Simpósio OBSERVA NORDESTE. Fundação Joaquim Nabuco. Disponível em: &lt;http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos- nos-ultimos-40-anos&catid=58&Itemid=414&gt; Acesso em 08/05/2013.
+- II Simpósio OBSERVA NORDESTE. Fundação Joaquim Nabuco. Disponível em: &lt;<a href="http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos-">http://www.fundaj.gov.br/index.php?option=com_content&view=article&id=514%3Aos-arquitetos-</a>&gt; nos-ultimos-40-anos&catid=58&Itemid=414&gt; Acesso em 08/05/2013.
 - II Simpósio OBSERVA NORDESTE. Geraldo Santana: Notas biográficas para uma auto-apresentação. Recife, Agosto, 2010.
 - II Simpósio OBSERVA NORDESTE. Informações biográficas, e sobre Pernambuco e Brasília nas décadas de 60 e 70.
 - SANTANA, G. Informações biográficas. 2013. Entrevista concedida a autora e Guilah Naslavsky. Recife, 08 e 15 de Julho de 2013.
 - SILVA, Geraldo Gomes da. Armando Holanda: Arquiteto dos Alegres Trópicos. Arquitetura e Urbanismo. nº 69. dez.96 /jan. 97. pp.65-71.
 - SOUZA, Diego Beja Inglez de. Reconstruindo Cajueiro Seco: Arquitetura, Política Social e Cultura Popular e Pernambuco (1960-1964). São Paulo, 2008. 276p. Dissertação (Mestrado). Faculdade de Arquitetura da Universidade de São Paulo.
-- VELOSO, Fernando A.; VILLELA, André; GIAMBIAGI, Fabio. Determinantes do "milagre" econômico brasileiro (1968-1973): uma análise empírica. Disponível em: &lt;http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-71402008000200006&gt; Acesso em 19/07/2013.
+- VELOSO, Fernando A.; VILLELA, André; GIAMBIAGI, Fabio. Determinantes do "milagre" econômico brasileiro (1968-1973): uma análise empírica. Disponível em: &lt;<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-71402008000200006">http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0034-71402008000200006</a>&gt; Acesso em 19/07/2013.

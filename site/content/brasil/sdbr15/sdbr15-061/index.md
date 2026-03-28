@@ -77,14 +77,14 @@ palavras-chave:
 - COSTA, Lucio. Registro de uma vivência. São Paulo: Empresa das Artes, 1995.
 - COSTA, Lucio. 1969. Plano-Piloto para a urbanização da baixada compreendida entre a Barra da Tijuca, o Pontal de Sernambetiba e Jacarepaguá. Rio de Janeiro: Agência Jornalística Image LTDA, 1969.
 - DANTZIG, George e SAATY, Thomas. Compact City: A Plan for a Liveable Urban Environment. Nova York: W. H. Freeman, 1973. ECTP. The charter of European planning, 2013.
-- ECTP. New charter of Athens, 1998. FIRJAN/SENAI. Mapeamento da indústria criativa no Brasil. Fev. 2019. Disponível em: &lt;http: https://www.firjan.com.br/EconomiaCriativa/downloads/MapeamentoIndustriaCriativa.pdf&gt;.
+- ECTP. New charter of Athens, 1998. FIRJAN/SENAI. Mapeamento da indústria criativa no Brasil. Fev. 2019. Disponível em: &lt;http: &lt;<a href="https://www.firjan.com.br/EconomiaCriativa/downloads/MapeamentoIndustriaCriativa.pdf">https://www.firjan.com.br/EconomiaCriativa/downloads/MapeamentoIndustriaCriativa.pdf</a>&gt;
 - GEHL, Jan. Cidade para pessoas/Jan Gehl; tradução Anita di Marco. 3 ed. São Paulo: Perspectiva, 2015. Governo do Rio de Janeiro. Modelar a metrópole. Plano Estratégico de Desenvolvimento Urbano Integrado da Região Metropolitana do Rio de Janeiro 2018.
 - HOLSTON, James. A cidade modernista: uma crítica de Brasília e sua utopia. São Paulo: Companhia das Letras, 1993.
-- IPHAN. Carta de Atenas de novembro de 1933, Assembleia CIAM. Disponível em: &lt;http://www.iphan.gov.br&gt;.
+- IPHAN. Carta de Atenas de novembro de 1933, Assembleia CIAM. Disponível em: &lt;<a href="http://www.iphan.gov.br">http://www.iphan.gov.br</a>&gt;
 - JACOBS, Jane. Morte e vida de grandes cidades. 2. ed. São Paulo: Martins Fontes, 2003. Primeira edição
 - KANASHIRO Milena. Da antiga à nova Carta de Atenas: em busca de um paradigma espacial de sustentabilidade. Desenvolvimento e Meio Ambiente, n. 9, p. 33-37, jan./jun. 2004. Curitiba: Editora
 - KOOLHAAS, Rem et. al. Great Leap Forward: Harvard Design School Project on the City 1. Colônia: Taschen, 2001.
-- LARSON, Kent. Planning the future after COVID-19. MIT Media Lab, 2020. Disponível em: &lt;https://youtu.be/3V42smsrDnQ&gt;
+- LARSON, Kent. Planning the future after COVID-19. MIT Media Lab, 2020. Disponível em: &lt;<a href="https://youtu.be/3V42smsrDnQ">https://youtu.be/3V42smsrDnQ</a>&gt;
 - LE CORBUSIER. Urbanismo. 2. ed. São Paulo: Martins Fontes, 2000.
 - MELIA, Steven, PARKHURST, Graham e BARTON, Hugh. The paradox of intensification. Transport Policy. Bristol: The University of the West of England, 2011.
 - NUNES-FERREIRA, Carlos. Barra da Tijuca: o presente do futuro. Rio de Janeiro: E-papers, 2014.
@@ -92,4 +92,4 @@ palavras-chave:
 - REIS, Ana. Cidades criativas. Tese (Doutorado). FAU-USP, 2011.
 - REIS, Nestor Goulart. Brasil: estudos sobre dispersão urbana. São Paulo: FAU-USP, 2007.
 - SENNETT, Richard. Construir e habitar: ética para uma cidade aberta/Richard Sennett; tradução de Clóvis Marques – 1ª ed. – Rio de Janeiro: Record, 2018.
-- TACHIEVA, Galina. Sprawl Repair Manual. Washington DC: Island Press, 2010. W Imóveis: index Brasília e Distrito Federal – Relatório de mercado de dezembro de 2017. Disponível em: &lt;http://produto.imovelweb.com.br/2018/index/index-df-relatorio-2017-12.pdf&gt;
+- TACHIEVA, Galina. Sprawl Repair Manual. Washington DC: Island Press, 2010. W Imóveis: index Brasília e Distrito Federal – Relatório de mercado de dezembro de 2017. Disponível em: &lt;<a href="http://produto.imovelweb.com.br/2018/index/index-df-relatorio-2017-12.pdf">http://produto.imovelweb.com.br/2018/index/index-df-relatorio-2017-12.pdf</a>&gt;

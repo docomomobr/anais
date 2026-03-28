@@ -53,7 +53,7 @@ palavras-chave:
 
 - COSTA, H.S. O monumento de Christo como obra de arte e obra de engenharia. O Cruzeiro, Rio de Janeiro, p.12-13, 1929.
 - COSTA, H.S. Resistencia e material. O Cruzeiro, Rio de Janeiro, p.20, 1931.
-- COSTA, H. S. Christo Redemptor – discurso pronunciado pelo engenheiro Heitor da Silva Costa no Rotary Club.  Technica e Arte. Revista de Engenharia e Architectura, Rio de Janeiro, n.5, p.7-11, fevereiro de 1929.
+- COSTA, H. S. Christo Redemptor – discurso pronunciado pelo engenheiro Heitor da Silva Costa no Rotary Club. Technica e Arte. Revista de Engenharia e Architectura, Rio de Janeiro, n.5, p.7-11, fevereiro de 1929.
 - FONTES, Lilian; NORONHA, Maria Izabel. Redentor: de braços abertos. Rio de Janeiro: Réptil Editora, 2012.
 - REIS, F. S. Carta aberta ao Monsenhor Luis Gonzaga do Carmo e aos engenheiros Pedro Fernandes Vianna e Heitor da Silva Costa. Technica e Arte. Revista de Engenharia e Architectura, Rio de Janeiro, n.5, p.13-16, fevereiro de Janeiro, p.27, 1931.
 - RIBEIRO, R.C.C; DALTO,D.P.S. Verificação da presença de protetivo nas tesselas de esteatito no Monumento do Cristo Redentor em 2016. Rio de Janeiro: Centro de Tecnologia Mineral do Ministério da Ciência, Tecnologia, Inovações e Comunicações;outubro de 2016. RRM-0067-00-16.

@@ -52,7 +52,7 @@ palavras-chave:
 - AMORIM, Luiz Manuel do Eirado. Obituário arquitetônico. Pernambuco modernista. Recife: Editora UFPE, 2007.
 - CALDEIRA, Teresa. Cidade de Muros: Crime, segregação e cidadania em São Paulo. São Paulo: Edsup – Editora da Universidade de São Paulo. 2000.
 - E. Direção: Alexandre Wahrhaftig, Helena Ungaretti, Miguel Antunes Ramos. Produção: Gustavo Rosa de Moura e Juliana Donato. Documentário, 2012.
-- REZENDE, Eliana. arquitetura do medo e a vigilância consentida. In: Portal Vermelho, 2015. Disponível em: &lt; http://www.vermelho.org.br/noticia/270701-374&gt;. Acesso em: 20 dez. 2015.
+- REZENDE, Eliana. arquitetura do medo e a vigilância consentida. In: Portal Vermelho, 2015. Disponível em: &lt;<a href="http://www.vermelho.org.br/noticia/270701-374">http://www.vermelho.org.br/noticia/270701-374</a>&gt; Acesso em: 20 dez. 2015.
 - LA ZONA. Direção: Rodrigo Plá. Produção: Alvaro Longoria. Intérpretes: Daniel Giménez Cacho; Daniel Tovar; Alan Chávez; Carlos Bardem e outros. Roteiro: Laura Santullo e Rodrigo Plá. Música: Delabel Editions.
 - Mexico: Memento Films, c2007. 1 DVD (97 min), widescreen, color. Produzido por Morena Films, Buenaventura, Fondo de Inversión y Estímulos al Cine (FIDECINE).
 - LEITÃO, Lúcia. Quando o ambiente é hostil - uma leitura urbanística da violência à luz de Sobrados e Mucambos e outros ensaios gilbertianos. Recife: Ed. Universitária da UFPE, lançado em Portugal e no Brasil em 2009.

@@ -52,7 +52,7 @@ palavras-chave:
 - ATIQUE, F. Memória Moderna – a trajetória do Edifício Esther. Editora Rima, São Carlos, 2003
 - CONDE, Luis Paulo F. Análise das intervenções arquitetônicas que tem definido espaços significativos e permanentes já apropriados pela população e que não estão relacionados nem classificados como exemplos didáticos, FAU-UFRJ , Rio de Janeiro: 1990.
 - COSTA, Apartamentos duplex: Modernidade, Usos e Conservação. S. Rev. CPC, São Paulo, n.22 especial, abr. 2017, p.115-137.
-- ELEB, Monique e DEBARRE, Anne.  L’Invention de l’habitation moderne. Paris 1880-1914. Milão: ed. A.A.M./Hazan, 1995.
+- ELEB, Monique e DEBARRE, Anne. L’Invention de l’habitation moderne. Paris 1880-1914. Milão: ed. A.A.M./Hazan, 1995.
 - FRAMPTON, Kenneth. História crítica da arquitetura moderna. São Paulo: Ed. Martins Fontes, 1997.
 - GASPAR, Tatiana de S. 100 anos do apartamento carioca. Dissertação de mestrado apresentada ao PPGAU da Universidade Federal Fluminense, 2013.
 - GOODWIN, Philip. Brazil Builds. New York: Ed. MOMA, 1943.
@@ -67,4 +67,4 @@ palavras-chave:
 - PANERAI, Philippe et.alli Elementos de analisis urbanos. Madrid: IEAL, 1983.
 - VILLA, Simone Barbosa. Apartamento Metropolitano. Habitações e modos de vida na cidade de São Paulo. Dissertação de Mestrado apresentada à FAU USP, 2002.
 - VILLAÇA, Flávio. O Espaço intra-urbano no Brasil. Ed. Studio Nobel, 2ª edição, 2001.
-- XAVIER, Alberto, BRITTO, Alfredo, NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro.  Rio de Janeiro: Rioarte/Fundação Vilanovas Artigas, Ed. Pini, 1991.
+- XAVIER, Alberto, BRITTO, Alfredo, NOBRE, Ana Luiza. Arquitetura Moderna no Rio de Janeiro. Rio de Janeiro: Rioarte/Fundação Vilanovas Artigas, Ed. Pini, 1991.

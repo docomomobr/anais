@@ -66,7 +66,7 @@ palavras-chave:
 - BRUAND, Yves. A Arquitetura Contemporânea no Brasil, São Paulo, Perspectiva, 1981. BRUSCHI A. La memoria del progetto. Per un archivio dell'architettura moderna a Roma. Roma: Gengami, 2007.
 - CAVALCANTI, Lauro. Casas para o povo: arquitetura moderna e habitações econômicas. Dissertação (Mestrado) - Ppgas/UFRJ, Rio de Janeiro, 1987.
 - CAPOMOLA, R; VITTORINI, R. (org.) l’Architettura INA-Casa (1949-1963). Aspetti e problemi di conservazione e recupero. Roma: Ed. Gangemi, 2003.
-- CRIMSON, Architetural Historians. De Lijnbaan. Cultuurhistorische verkenning van het Lijnbaan ensemble. Rotterdam: CRIMSON Architetural Historians, december 2004. Disponível em: &lt; http://www.crimsonweb.org/projecten/lijnbaan/ lijnbaan.pdf &gt; Acesso em 13 mai. 2007, 16:07:30.
+- CRIMSON, Architetural Historians. De Lijnbaan. Cultuurhistorische verkenning van het Lijnbaan ensemble. Rotterdam: CRIMSON Architetural Historians, december 2004. Disponível em: &lt;<a href="http://www.crimsonweb.org/projecten/lijnbaan/">http://www.crimsonweb.org/projecten/lijnbaan/</a>&gt; lijnbaan.pdf &gt; Acesso em 13 mai. 2007, 16:07:30.
 - FARAH, Marta. Estado, Previdência Social e Habitação, Dissertação de Mestrado apresentada à
 - FFCHLUSP, São Paulo, 1983, mimeo.
 - FAYET, Carlos M. Vila do IAPI: Patrimônio Cultural da Cidade, Porto Alegre: Prefeitura Municipal de Porto Alegre, 1994.
@@ -92,10 +92,10 @@ palavras-chave:
 - ________________ NASCIMENTO, Flavia Brito do. Entre a estética e o hábito: o Departamento de Habitação Popular (Rio de Janeiro, 1946-1960). Dissertação (Mestrado) - EESC-USP, São Carlos, 2004.
 - PORETTI, Sergio (org). L’INA Casa: Il cantiere e la costruzione. Roma: Departamiento De Ingegnaria Civile – Universitá di Roma Tor Vergata, 2002.
 - PORTO, Rubens. O Problema das Casas Operárias e os Institutos e Caixas de Pensões, Rio de Janeiro:
-- PROVOOST, Michelle; VANSTIPHOUT, Wouter. The New Town. Rotterdam: The New Town, Thursday 16 November 2006. Disponível em: &lt; http://www.thenewtown.nl/article.php?id_article=101&gt; Acesso em 13 mai. 2007, 13:15:30
-- PROVOOST, Michelle. The Happy Hoogvlite. Rotterdam: The New Town, Wednesday 23 June 2004. Disponível em: &lt; http://www.thenewtown.nl/article.php?id_article=15&gt; Acesso em 13 mai. 2007, 14:15:30
-- VANSTIPHOUT, Wouter. How to survive the twentieth century #1. Rotterdam: The New Town, Thursday 2 March 2006. Disponível em: &lt; http://www.thenewtown.nl/article.php?id_article=70 &gt; Acesso em 13 mai. 2007, 13:29:30
-- VANSTIPHOUT, Wouter The Saddest City in the World.Tehran and the legacy of an American dream of modern town planning. Rotterdam: The New Town, Thursday 2 March 2006. Disponível em: &lt; http://www.thenewtown.nl/article.php?id_article=70 &gt; Acesso em 13 mai. 2007, 13:37:30
+- PROVOOST, Michelle; VANSTIPHOUT, Wouter. The New Town. Rotterdam: The New Town, Thursday 16 November 2006. Disponível em: &lt;<a href="http://www.thenewtown.nl/article.php?id_article=101">http://www.thenewtown.nl/article.php?id_article=101</a>&gt; Acesso em 13 mai. 2007, 13:15:30
+- PROVOOST, Michelle. The Happy Hoogvlite. Rotterdam: The New Town, Wednesday 23 June 2004. Disponível em: &lt;<a href="http://www.thenewtown.nl/article.php?id_article=15">http://www.thenewtown.nl/article.php?id_article=15</a>&gt; Acesso em 13 mai. 2007, 14:15:30
+- VANSTIPHOUT, Wouter. How to survive the twentieth century #1. Rotterdam: The New Town, Thursday 2 March 2006. Disponível em: &lt;<a href="http://www.thenewtown.nl/article.php?id_article=70">http://www.thenewtown.nl/article.php?id_article=70</a>&gt; &gt; Acesso em 13 mai. 2007, 13:29:30
+- VANSTIPHOUT, Wouter The Saddest City in the World.Tehran and the legacy of an American dream of modern town planning. Rotterdam: The New Town, Thursday 2 March 2006. Disponível em: &lt;<a href="http://www.thenewtown.nl/article.php?id_article=70">http://www.thenewtown.nl/article.php?id_article=70</a>&gt; &gt; Acesso em 13 mai. 2007, 13:37:30
 - VARGAS, Getúlio. A nova política do Brasil, Vol.1 a 9, Rio de Janeiro: José Olympio Ed., 1938.
 - VARGAS, Getúlio. A Nova Política do Brasil, Vol 10, Rio de Janeiro: José Olympio Ed., 1945.
 - XAVIER, Alberto. Arquitetura Moderna Brasileira. Depoimento de uma Geração, São Paulo: ABEA/FVA/PINI, 1987.

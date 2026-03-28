@@ -49,7 +49,7 @@ authors:
     familyname: "Pina Neto"
     orcid: "0000-0001-6480-8357"
 doi: "10.5281/zenodo.19077857"
-zenodo_pdf_url: "https://zenodo.org/records/19077858/files/sdbr13-170.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285664/files/sdbr13-170.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
@@ -72,7 +72,7 @@ palavras-chave:
 - BIERRENBACH, Ana Carolina. Debates recentes sobre o restauro da arquitetura moderna na Itália. Thésis, Rio de Janeiro, v. 2, n. 3, p. 137-157, jan./out. 2017.
 - DINIZ, Dora Neura Leal. Aracaju: A construção da Imagem da Cidade. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2009.
 - KÜHL, Beatriz Mugayar. Preservação do Patrimônio Arquitetônico da Industrialização: Problemas Teóricos de Restauro. Cotia: Ateliê Editorial, 2008.
-- LIBÓRIO, Ana; GÂNDARA, Júnior. Memorial Descritivo Arquitetura: projeto de reforma da fachada da Assembleia Legislativa do Estado de Sergipe. Aracaju: Libório Gândara Ateliê de Arquitetura, 2018. Disponível em: &lt; https://al.se.leg.br/contratos-e-licitacoes-editais-2/&gt;. Acesso em 30 jul. 2019.
+- LIBÓRIO, Ana; GÂNDARA, Júnior. Memorial Descritivo Arquitetura: projeto de reforma da fachada da Assembleia Legislativa do Estado de Sergipe. Aracaju: Libório Gândara Ateliê de Arquitetura, 2018. Disponível em: &lt;<a href="https://al.se.leg.br/contratos-e-licitacoes-editais-2/">https://al.se.leg.br/contratos-e-licitacoes-editais-2/</a>&gt; Acesso em 30 jul. 2019.
 - NOGUEIRA, Adriana Dantas. Patrimônio Arquitetônico e História Urbana: Ensaios sobre o patrimônio arquitetônico de Sergipe e sobre a estruturação sócio espacial de Aracaju. São Cristóvão: Editora UFS; Aracaju: Fundação Oviedo Teixeira, 2006.
-- TV ALESE. 30 anos do prédio da ALESE. Youtube, 15 mar. 2017. Disponível em: &lt; https://www.youtube.com/watch?v=Uy7D2eAz6pc&gt;. Acesso em: 15 jul. 2019.
+- TV ALESE. 30 anos do prédio da ALESE. Youtube, 15 mar. 2017. Disponível em: &lt;<a href="https://www.youtube.com/watch?v=Uy7D2eAz6pc">https://www.youtube.com/watch?v=Uy7D2eAz6pc</a>&gt; Acesso em: 15 jul. 2019.
 - SANTOS, Isabella Aragão Melo. Arquitetura Moderna na Aracaju dos anos 1940 e 1970. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Salvador, Bahia, 2012.

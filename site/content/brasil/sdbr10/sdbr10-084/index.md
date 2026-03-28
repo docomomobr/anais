@@ -71,4 +71,4 @@ palavras-chave:
 - YUNES. Gilberto Sarkis. Ícones modernos nos clubes sociais de Florianópolis. In: II Encontro dos Pesquisadores do Modernismo em Arquitetura e Urbanismo em Santa Catarina, 2008. Florianópolis, SC. Anais ... Florianópolis: UFSC, 2008.
 - ZEIN Ruth Verde. Arquitetura da escola paulista brutalista, 1953-1973. Porto Alegre, Propar UFRGS, 2005. Tese (Doutorado em Arquitetura e Urbanismo). Universidade Federal do Rio Grande do Sul.
 - ZEIN, Ruth Verde. Brutalismo, escola paulista: entre o ser e o não ser. Arqtexto, Porto Alegre: PROPAR, 2002.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos Vitruvius 084, maio 2007. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243&gt;. Acesso em: 22 maio 2013.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos Vitruvius 084, maio 2007. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt; Acesso em: 22 maio 2013.

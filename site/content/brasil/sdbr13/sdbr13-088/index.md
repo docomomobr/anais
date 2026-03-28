@@ -74,15 +74,15 @@ palavras-chave:
 - FISHER, Silvia, ACAYABA, Marlene. Arquitetura Moderna Brasileira. São Paulo, SP. 1982.
 - GONDIM, Linda. O Dragão do Mar e a Fortaleza pós-moderna: cultura, patrimônio e imagem da cidade. São Paulo, SP. Annablume, 2007.
 - GONSALES, Célia Helena Castro. A preservação do patrimônio moderno: Critérios e valores. In:
-- SEMINÁRIO DOCOMOMO N-NE, 2., 2008, Salvador. Anais do 2o Docomomo N-NE. Salvador: Faculdade de Arquitetura da Universidade Federal da Bahia, 2008. p. 2 - 15. Disponível em: &lt;http://www.docomomobahia.org/AF_Celia Gonsalves.pdf&gt;. Acesso em: 29 out. 2017.
+- SEMINÁRIO DOCOMOMO N-NE, 2., 2008, Salvador. Anais do 2o Docomomo N-NE. Salvador: Faculdade de Arquitetura da Universidade Federal da Bahia, 2008. p. 2 - 15. Disponível em: &lt;<a href="http://www.docomomobahia.org/AF_Celia">http://www.docomomobahia.org/AF_Celia</a>&gt; Gonsalves.pdf&gt;. Acesso em: 29 out. 2017.
 - JUCÁ NETO, Clovis R. et al. A universidade e a cidade: por uma história da arquitetura moderna 2009.
 - LARA, Fernando Luiz. Reinventando a América / Reinventando la America. In: Braga, Ribeiro, Lima. (Org.). FJAL. 1ed. Fortaleza: Expressão Gráfica, 2011, v. 1, p. 34-47.
 - OLIVEIRA, M.M. A Documentação como Ferramenta de Preservação da Memória. Brasília, DF:
 - IPHAN / Programa Monumenta, 2008.144 p. : il. ; 28 cm. – (Cadernos Técnicos ; 7).
 - PAIVA, Ricardo Alexandre ; DIOGENES, B. H.Caminhos da arquitetura moderna em Fortaleza: a contribuição do professor arquiteto José Liberal de Castro. In: anais do 9o Seminário Docomomo Brasil. Brasília, 2011.
 - PAIVA, Ricardo Alexandre ; DIOGENES, B. H. ; CARDOSO, Daniel R. . Ressuscitando a Arquitetura Moderna em Fortaleza: memória e modelagem digital. In: 7° PROJETAR - Originalidade, criatividade e inovação no projeto contemporâneo: ensino, pesquisa e prática. Natal:
-- PAIVA, Ricardo Alexandre; DIOGENES, B. H. . Dinâmica imobiliária e preservação da arquitetura moderna em Fortaleza: o passado, o presente e o futuro em questão. Arquitextos (São Paulo), v. 19, p. 19.223/7243, 2018. Disponível em: http://www.vitruvius.com.br/revistas/read/arquitextos/19.223/7243 Acesso em: 01 jun. 2019.
-- PAIVA, Ricardo Alexandre; DIOGENES, B. H. . Dinâmica imobiliária e preservação da arquitetura moderna em Fortaleza: O passado, o presente e o futuro em questão. Disponível em: http://wvyw.vitruvius.com.br/revistas/read/arquitextos/19.223/7243 Acesso em: 18 fev. 2019.
+- PAIVA, Ricardo Alexandre; DIOGENES, B. H. . Dinâmica imobiliária e preservação da arquitetura moderna em Fortaleza: o passado, o presente e o futuro em questão. Arquitextos (São Paulo), v. 19, p. 19.223/7243, 2018. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/19.223/7243">http://www.vitruvius.com.br/revistas/read/arquitextos/19.223/7243</a>&gt; Acesso em: 01 jun. 2019.
+- PAIVA, Ricardo Alexandre; DIOGENES, B. H. . Dinâmica imobiliária e preservação da arquitetura moderna em Fortaleza: O passado, o presente e o futuro em questão. Disponível em: &lt;<a href="http://wvyw.vitruvius.com.br/revistas/read/arquitextos/19.223/7243">http://wvyw.vitruvius.com.br/revistas/read/arquitextos/19.223/7243</a>&gt; Acesso em: 18 fev. 2019.
 - SAMPAIO NETO, Paulo Costa. Ressonâncias e inflexões do modernismo arquitetônico no Ceará: a contribuição de Gerhard Bormann. Paulo Costa Sampaio Neto. - São Paulo, 2012. Tese (doutorado) – FAUUSP.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Editora da Universidade de São Paulo, 2002.
 - TOLENTINO, M. M. A. A utilização do HBIM na documentação, na gestão e na preservação do Patrimônio Arquitetônico. In: SIGraDi, XX Congress of the Iberoamerican Society of Digital Graphics, Buenos Aires, 2016.

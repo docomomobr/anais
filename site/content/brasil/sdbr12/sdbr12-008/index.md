@@ -55,7 +55,7 @@ palavras-chave:
 - BENEVOLO, Leonardo. História da arquitetura moderna. São Paulo: Perspectiva, 4ª ed., 2006.
 - BERRIEL, Andréa (org.); SUZUKI, Juliana (org.). Memória do arquiteto: pioneiros da arquitetura e do urbanismo no Paraná. Curitiba: Instituto de Arquitetos do Paraná – IAB-PR: Universidade Federal do Paraná – UFPR, 2012.
 - BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 5ª ed., 2010.
-- CHICHINELLI, Gilese. Fachadas de alumínio exigem detalhamento preciso dos sistemas envolvidos e instalação correta dos painéis de ACM. AU – Arquitetura e Urbanismo, n. 207, São Paulo, Jun. 2011. Disponível em: &lt;http://www.au.pini.com.br/arquitetura-urbanismo/207/artigo219643-2.aspx&gt;. Acesso: em 15 jan. 2017.
+- CHICHINELLI, Gilese. Fachadas de alumínio exigem detalhamento preciso dos sistemas envolvidos e instalação correta dos painéis de ACM. AU – Arquitetura e Urbanismo, n. 207, São Paulo, Jun. 2011. Disponível em: &lt;<a href="http://www.au.pini.com.br/arquitetura-urbanismo/207/artigo219643-2.aspx">http://www.au.pini.com.br/arquitetura-urbanismo/207/artigo219643-2.aspx</a>&gt; Acesso: em 15 jan. 2017.
 - COLQHOUN, Alan. Modernidade e tradição clássica: ensaios sobre arquitetura 1980-1987. São Paulo: Cosac Naify, 1989, 2004.
 - COHEN, Jean-Louis. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac Naify, 2012, 2013.
 - CURTIS, William. Arquitetura moderna desde 1900. Porto Alegre: Bookman, 3ª ed., 2008.
@@ -71,11 +71,11 @@ palavras-chave:
 - GREGOTTI, Vittorio. Território da arquitetura. São Paulo: Perspectiva, 1972, 2ª ed., 1994.
 - LYNCH, Kevin. A imagem da cidade. São Paulo: Martins Fontes, 1997.
 - MACEDO, Rafael Valdomiro Greca de. Curitiba, luz dos pinhais. Curitiba: Solar do Rosário, 2016.
-- NOGUEIRA, Daliane. Um ícone da arquitetura modernista na orla paranaense. Jornal Gazeta do Povo, Curitiba, Jan. 2017. Disponível em: &lt; http://www.gazetadopovo.com.br/haus/arquitetura/um-icone-da-arquitetura-modernista-na-orla-paranaense/&gt;. Acesso: em 15 jan. 2017.
+- NOGUEIRA, Daliane. Um ícone da arquitetura modernista na orla paranaense. Jornal Gazeta do Povo, Curitiba, Jan. 2017. Disponível em: &lt;<a href="http://www.gazetadopovo.com.br/haus/arquitetura/um-icone-da-arquitetura-modernista-na-orla-paranaense/">http://www.gazetadopovo.com.br/haus/arquitetura/um-icone-da-arquitetura-modernista-na-orla-paranaense/</a>&gt; Acesso: em 15 jan. 2017.
 - PACHECO, Paulo César Braga. O risco do Paraná e os concursos nacionais de arquitetura: 1962-1981. Orientador Carlos Eduardo Dias Comas. Dissertação de Mestrado. Porto Alegre: Faculdade de Arquitetura da UFRGS, PROPAR, 2004.
 - PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980. Orientador Claudio Calovi Pereira. Tese de Doutorado. Porto Alegre: Faculdade de Arquitetura da UFRGS, PROPAR, 2010.
 - ROSSI, Aldo. La arquitectura de la ciudad. Barcelona: Gustavo Gili, 1978, 2015.
 - SEGAWA, Hugo. Arquiteturas no Brasil 1900-1990. São Paulo: Edusp, 1998, 3ª ed., 2010.
-- SENKOVSKI, Antonio. Morre aos 91, Elgson Ribeiro, ícone da arquitetura moderna. Jornal Gazeta do Povo, Curitiba, Mar. 2014. Disponível em: &lt; http://www.gazetadopovo.com.br/caderno-g/morre-aos-91-anos-elgson-ribeiro-icone-da-arquitetura-moderna-25d0kz37qe5fi5kums45b0tam&gt;. Acesso: em 15 jan. 2017.
+- SENKOVSKI, Antonio. Morre aos 91, Elgson Ribeiro, ícone da arquitetura moderna. Jornal Gazeta do Povo, Curitiba, Mar. 2014. Disponível em: &lt;<a href="http://www.gazetadopovo.com.br/caderno-g/morre-aos-91-anos-elgson-ribeiro-icone-da-arquitetura-moderna-25d0kz37qe5fi5kums45b0tam">http://www.gazetadopovo.com.br/caderno-g/morre-aos-91-anos-elgson-ribeiro-icone-da-arquitetura-moderna-25d0kz37qe5fi5kums45b0tam</a>&gt; Acesso: em 15 jan. 2017.
 - WAISMAN, Marina. O interior da história: historiografia arquitetônica para uso de latino-americanos. Sâo Paulo: Perspectiva, 2011, 2013.
 - XAVIER, Alberto. Depoimento de uma geração – arquitetura moderna brasileira. São Paulo: Cosac Naify, 1987, 2003.

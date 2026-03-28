@@ -70,4 +70,4 @@ palavras-chave:
 - LOOS, Adolf. Ornamento e crime. Lisboa: Edições cotovia, 2004.
 - MACIEL, Maria Esther. As ironias da ordem. Coleções, inventários e enciclopédias ficcionais. Belo Horizonte: Editora UFMG, 2009.
 - PAIM, Gilberto. A beleza sob suspeita: o ornamento em Ruskin, Lloyd Wright, Loos, Le Corbusier e outros. Rio de Janeiro: Jorge Zahar Editor, 2000.
-- PUPPI, Marcelo. Léonce Reynaud e a concepção teórica do ecletismo no Rio de Janeiro. 19&20, Rio de Janeiro, v. III, n. 2, abr. 2008. Disponível em: &lt;http://www.dezenovevinte.net/arte%20decorativa/ad_mpuppi_reynauld.htm&gt;.
+- PUPPI, Marcelo. Léonce Reynaud e a concepção teórica do ecletismo no Rio de Janeiro. 19&20, Rio de Janeiro, v. III, n. 2, abr. 2008. Disponível em: &lt;<a href="http://www.dezenovevinte.net/arte%20decorativa/ad_mpuppi_reynauld.htm">http://www.dezenovevinte.net/arte%20decorativa/ad_mpuppi_reynauld.htm</a>&gt;

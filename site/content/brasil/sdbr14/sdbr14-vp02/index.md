@@ -34,7 +34,7 @@ authors:
     familyname: "Cabral"
     orcid: "0000-0002-6997-2284"
 doi: "10.5281/zenodo.19094546"
-zenodo_pdf_url: "https://zenodo.org/records/19094547/files/sdbr14-vp02.mp4"
+zenodo_pdf_url: "https://zenodo.org/records/19285686/files/sdbr14-vp02.mp4"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:

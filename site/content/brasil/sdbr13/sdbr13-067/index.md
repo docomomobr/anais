@@ -77,5 +77,5 @@ palavras-chave:
 - CEAGESP. Arquivos do Departamento de Engenharia e Manutenção (DEMAN), pesquisa realizada em novembro de 2018.
 - DEL NERO, João Antonio. Entrevista por telefone, concedida ao autor em 23 de maio de 2019. Resoluções do Conpresp consultadas: RESOLUÇÃO Nº 05/CONPRESP/2009 RESOLUÇÃO Nº 36/CONPRESP/2017 RESOLUÇÃO Nº 40/CONPRESP/2017
 - RESOLUÇÃO Nº 11/CONPRESP/2018
-- FOLHA DE S. PAULO, 30 de outubro de 2017: "Conselho veta ideia de tombamento e Anhembi fica 'livre' para privatização". Disponível em: https://www1.folha.uol.com.br/cotidiano/2017/10/1931488-conselho-municipal-veta-tombamento-do-complexo-do-anhembi-em-sp.shtml
+- FOLHA DE S. PAULO, 30 de outubro de 2017: "Conselho veta ideia de tombamento e Anhembi fica 'livre' para privatização". Disponível em: &lt;<a href="https://www1.folha.uol.com.br/cotidiano/2017/10/1931488-conselho-municipal-veta-tombamento-do-complexo-do-anhembi-em-sp.shtml">https://www1.folha.uol.com.br/cotidiano/2017/10/1931488-conselho-municipal-veta-tombamento-do-complexo-do-anhembi-em-sp.shtml</a>&gt;
 - ACRÓPOLE nº 387, agosto de 1971. A CONSTRUÇÃO EM SÃO PAULO nº 1253, fevereiro de 1972. PROJETO nº 12, maio de 1979.

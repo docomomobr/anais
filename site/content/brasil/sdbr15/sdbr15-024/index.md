@@ -64,9 +64,9 @@ palavras-chave:
 ## Referências
 
 - ACRÓPOLE. “Residência de verão”. São Paulo, n. 208, fev. 1956, p. 137-139.
-- ARTS Primitifs et Modernes Brésiliens. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileira. São Paulo: Itaú Cultural, 2023. Disponível em: http://enciclopedia.itaucultural.org.br/evento559992/arts-primitifs-et- modernes-bresiliens. Acesso em: 04 de junho de 2023. Verbete da Enciclopédia. ISBN: 978-85-7979-060-7
+- ARTS Primitifs et Modernes Brésiliens. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileira. São Paulo: Itaú Cultural, 2023. Disponível em: &lt;<a href="http://enciclopedia.itaucultural.org.br/evento559992/arts-primitifs-et-">http://enciclopedia.itaucultural.org.br/evento559992/arts-primitifs-et-</a>&gt; modernes-bresiliens. Acesso em: 04 de junho de 2023. Verbete da Enciclopédia. ISBN: 978-85-7979-060-7
 - CAVALCANTI, Lauro (org.). Quando o Brasil era moderno: guia de arquitetura, 1928-1960. Rio de Janeiro: Aeroplano, 2001. Pp. 240-245.
-- GONSALES, Célia Helena. “Síntese das artes: sentido, implicações e abrangência”. In: DOCOMOMO Brasil, 2016. Disponível em: &lt;chrome- extension://efaidnbmnnnibpcajpcglclefindmkaj/https://docomomobrasil.com/wp- content/uploads/2016/01/177.pdf &gt;. Acesso em: 11 de agosto de 2023.
+- GONSALES, Célia Helena. “Síntese das artes: sentido, implicações e abrangência”. In: DOCOMOMO Brasil, 2016. Disponível em: &lt;chrome- extension://efaidnbmnnnibpcajpcglclefindmkaj/ &lt;<a href="https://docomomobrasil.com/wp-">https://docomomobrasil.com/wp-</a>&gt; content/uploads/2016/01/177.pdf &gt;. Acesso em: 11 de agosto de 2023.
 - HAAS, Yanara C. Instituto Moreira Salles – Rio de Janeiro. Projeto de conservação dos elementos pétreos naturais. Rio de Janeiro: maio/2023.
 - HABITAT. “Uma casa no Rio de Janeiro”. São Paulo, n.6, março de 1952.
 - HERBST, H. “A presença de Olavo Redig de Campos nos salões das bienais e sua recepção nas revistas de arquitetura na década de 1950”. In: III Encontro da Associação Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo. São Paulo, 2014.
@@ -77,4 +77,4 @@ palavras-chave:
 - MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano, Iphan, Ministério da Cultura, 2000. REVISTA RIO. Edição 151, janeiro de 1952.
 - REVISTA SOMBRA. “O Réveillon de ano novo: Com o sr. Walther Moreira Salles”. Ano 1952, ano XII, edição 0117, jan.-fev. de 1952, pp 34-41.
 - REVISTA CRUZEIRO. “Telas famosas para o Museu de Arte”, RJ, O Cruzeiro, 1952, edição 0015.
-- WISNIK, G. Casa Walther Moreira Salles: quadro a quadro. 06 de maio de 2011. Disponível em: &lt;https://blogdoims.com.br/casa-walther-moreira-salles-por-guilherme-wisnik&gt;. Acesso em: 05 de junho de 2023.
+- WISNIK, G. Casa Walther Moreira Salles: quadro a quadro. 06 de maio de 2011. Disponível em: &lt;<a href="https://blogdoims.com.br/casa-walther-moreira-salles-por-guilherme-wisnik">https://blogdoims.com.br/casa-walther-moreira-salles-por-guilherme-wisnik</a>&gt; Acesso em: 05 de junho de 2023.

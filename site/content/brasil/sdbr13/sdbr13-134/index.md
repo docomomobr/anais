@@ -73,7 +73,7 @@ palavras-chave:
 - INFORMES de la Construcción. Diversas Obras de Maricarmen Sanchez de Ramírez en Venezuela. Caracas: Informes de la Construcción, no 327, Jan / Fev, 1981.
 - LIMA, Ana Gabriela Godinho; ATIQUE, Andraci Maria. Casas casadas: o emprego dos tijolos e a ideia de Moderno nas casas de Joaquim e Liliana Guedes. IV Seminário Docomomo Sul - Pedra, barro e metal: Norma e Licença na Arquitetura Moderna do Cone Sul Americano 1930/70. Universidade Federal do Rio Grande do Sul, Porto Alegre. 2013.
 - LIERNUR, Jorge Francisco. Amérique Latine Architecture 1965- 1990. Milan/ Paris: Electa/ Editions du Moniteur, 1990 / 1991.
-- MOASSAB, Andreia. Patrimônio arquitetônico no século 21: para além da preservação uníssona e do fetiche do objeto. Arquitextos, São Paulo, ano 17, n. 198.07, Vitruvius, nov. 2016. Disponível em &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/17.198/6307&gt;. Acessado em 09 de Junho de 2019.
+- MOASSAB, Andreia. Patrimônio arquitetônico no século 21: para além da preservação uníssona e do fetiche do objeto. Arquitextos, São Paulo, ano 17, n. 198.07, Vitruvius, nov. 2016. Disponível em &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/17.198/6307">http://www.vitruvius.com.br/revistas/read/arquitextos/17.198/6307</a>&gt; Acessado em 09 de Junho de 2019.
 - PEIXOTO, Marta Silveira. A sala bem temperada. Interior Moderno e Sensibilidade Eclética. Tese de doutorado PROPAR/UFRGS. 2006 PROA no. 347, fevereiro de 1986.
 - ROCA, Miguel Angel (ed.). The Architecture of Latin America. London: Academy Editions, 1995.
 - ROCHA-PEIXOTO, Gustavo. A América Latina existe. A exposição Latin America in Construction: architecture 1955-1980 no Museum of Modern Art de Nova Iorque: uma resenha. Resenhas Online, São Paulo, ano 14, n. 162.03, Vitruvius, jun. 2015.
@@ -82,5 +82,5 @@ palavras-chave:
 - SEGRE, Roberto (relator). América Latina en Su Arquitectura”. México D.F., Siglo XXI editores + UNESCO, 1978.
 - SILVA, Maria Angélica da. Arquitetura Moderna, a Atitude Alagoana. (1950-64). Maceió: Instituto de Arquitetos do Brasil, Maceió, 1991. SUMMA, no. 131, dezembro de 1978.
 - WAISMAN, Marina. El Interior de la Historia: Historiografia para Uso de Latinoamericanos. Bogota: Escala, 1990.
-- WOMEN IN ARCHITECTURE 1975-1995. Disponível em &lt;https://womeninarchitecture1975.wordpress.com/&gt;. Acessado em 09 de Junho de 2019
+- WOMEN IN ARCHITECTURE 1975-1995. Disponível em &lt;<a href="https://womeninarchitecture1975.wordpress.com/">https://womeninarchitecture1975.wordpress.com/</a>&gt; Acessado em 09 de Junho de 2019
 - WRIGHT, Gweldolyn. On the Fringe of the Profession: Women in American History. In: Kostof, Spiro. The Architect: Chapters on the History of the Profession. Berkeley: University of California Press, 1977

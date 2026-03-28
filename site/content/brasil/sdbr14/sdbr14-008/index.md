@@ -59,7 +59,7 @@ palavras-chave:
 - CALABUIG, Debora; GOMEZ, Raúl; RAMOS, Ana. “The Strategies of Mat-building”. The Architecture Review. London, 2013. Disponível em: &lt;www.architectural-review.com/essays/the-strategies-of-mat-building&gt;. Acesso em 29 de maio de 2021.
 - COLEGIADO DOS CURSOS DE ARQUITETURA E URBANISMO DA UFMG. Projeto Pedagógico do Curso de Arquitetura e Urbanismo da UFMG. Turno Diurno. Versão 2011/1. Abril de 2012, Belo Horizonte. instituição com o trabalho de Contier (2013). A equipe da FAU também destacou que havia diferenças entre o arquivo de CAD e as informações adquiridas nos livros pesquisados.
 - CONTIER, Felipe de Araujo. O edifício da FAUUSP e os materiais do brutalismo. In: SEMINÁRIO DOCOMOMO
-- BRASIL, X, 2013, Curitiba. Anais eletrônicos. Disponível em: &lt;http://producao.usp.br/bitstream/handle/BDPI/43424/OBR_37&gt;. Acesso em 20 de fevereiro de 2021.
+- BRASIL, X, 2013, Curitiba. Anais eletrônicos. Disponível em: &lt;<a href="http://producao.usp.br/bitstream/handle/BDPI/43424/OBR_37">http://producao.usp.br/bitstream/handle/BDPI/43424/OBR_37</a>&gt; Acesso em 20 de fevereiro de 2021.
 - IWAMIZU, Cesar Shundi. A estação rodoviária de Jaú e a dimensão urbana da arquitetura. 2008. 414 f. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, São Paulo, 2008.
 - MACIEL, Carlos Alberto Batista (Org.). Desenvolvimento Tipológico: Le Corbusier. Belo Horizonte: Nhamerica Platform. 2018. 196 p.
 - MACIEL, Carlos Alberto Batista (Org.). Desenvolvimento Tipológico: Oscar Niemeyer. Belo Horizonte: Nhamerica Platform. 2019. 169 p.

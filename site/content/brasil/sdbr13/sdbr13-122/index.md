@@ -61,7 +61,7 @@ palavras-chave:
 - FERREIRA, Aurélio B. de H. Novo Dicionário da Língua Portuguesa. Rio de Janeiro: Nova Fronteira, 1986
 - GOODWIN, Philip. Brazil builds. Architecture new and old. 1652-1942. Nova York: MOMA, 1943.
 - HINES, Thomas S. Richard Neutra and the search for Moderrn architecture: a biography and history. New York: Oxford University Press, 1982.
-- LIRA, José T. Correia de. From mild climate’s architecture to ‘third world’ planning: Richard Neutra in Latin America. Anais 14th International Planning History Society Conference, Istanbul, Turkey "Urban Transformation: Controversies, Contrasts and Challenges", 2010. Disponível em http://www.iphs2010.com/abs/ID457.pdf , acesso em 06/05/2012.
+- LIRA, José T. Correia de. From mild climate’s architecture to ‘third world’ planning: Richard Neutra in Latin America. Anais 14th International Planning History Society Conference, Istanbul, Turkey "Urban Transformation: Controversies, Contrasts and Challenges", 2010. Disponível em &lt;<a href="http://www.iphs2010.com/abs/ID457.pdf">http://www.iphs2010.com/abs/ID457.pdf</a>&gt; , acesso em 06/05/2012.
 - NEUTRA, R. Arquitetura social em países de clima quente. / Architecture of social concern in regions of mild climate. São Paulo: Gerth Todtmann, 1948.
 - NEUTRA, R. Life and shape. New York: Appleton; Century; Crofts, 1962.
 - NEUTRA, R. Architectura funcional. Revista de Engenharia do Mackenzie, São Paulo, n. 67, p. 132-133, out. 1937. (Tradução Igor Sresnewski e Jacob Ruchti. Resumo do texto “New Building Art in California”, publicado em “Califórnia Arts & Architecture”.)

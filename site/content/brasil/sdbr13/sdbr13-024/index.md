@@ -66,4 +66,4 @@ palavras-chave:
 - LE GOFF, Jacques. História e memória. Campinas: Ed. Unicamp, 1994.
 - MOTTA, Lia. SPHAN em Ouro Preto: uma história de conceitos e critérios. IN: Revista do Patrimônio Histórico e Artístico Nacional, nº22, Rio de Janeiro, 1987, p. 108-122.
 - PEDROSA, M. A Arquitetura Moderna no Brasil. In: AMARAL, A. Dos Murais de Portinari aos Espaços de Brasília. São Paulo: Perspectiva, 1981.
-- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;http://vitruvius.com.br/revistas/read/arquitextos/09.098/123&gt;
+- ZEIN, Ruth Verde; DI MARCO, Anita Regina. Paradoxos do valor artístico e a definição de critérios de preservação na arquitetura, inclusive moderna. Arquitextos, São Paulo, ano 09, n. 098.00, Vitruvius, jul. 2008 &lt;<a href="http://vitruvius.com.br/revistas/read/arquitextos/09.098/123">http://vitruvius.com.br/revistas/read/arquitextos/09.098/123</a>&gt;

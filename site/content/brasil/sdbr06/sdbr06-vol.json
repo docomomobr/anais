@@ -1,0 +1,36 @@
+{
+  "id": "sdbr06",
+  "type": "book",
+  "title": "6º Seminário Docomomo Brasil, Niterói, 2005",
+  "issued": {
+    "date-parts": [
+      [
+        2005
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr06/",
+  "editor": [
+    {
+      "family": "Pessôa",
+      "given": "José"
+    },
+    {
+      "family": "Vasconcellos",
+      "given": "Eduardo"
+    },
+    {
+      "family": "Reis",
+      "given": "Elisabete"
+    },
+    {
+      "family": "Lobo",
+      "given": "Maria"
+    }
+  ],
+  "event-place": "Niterói",
+  "publisher-place": "Niterói",
+  "publisher": "UFF",
+  "ISBN": "85-99618-01-6"
+}

@@ -58,13 +58,13 @@ palavras-chave:
 
 ## Referências
 
-- ABREU FILHO, S.B. Urbanismo às margens: revendo a “Contribuição ao Estudo de Urbanização de Porto Alegre”. In: SEMINÁRIO DE HISTÓRIA DA CIDADE E DO URBANISMO, 1990. Anais eletrônicos do Seminário da Cidade e do Urbanismo. v. 11 n. 1 (2010); Disponível em: &lt;http://unuhospedagem.com.br/revista/rbeur/index.php/shcu/article/view/1265/1239&gt;. Acesso em: 17 mar. 2016.
+- ABREU FILHO, S.B. Urbanismo às margens: revendo a “Contribuição ao Estudo de Urbanização de Porto Alegre”. In: SEMINÁRIO DE HISTÓRIA DA CIDADE E DO URBANISMO, 1990. Anais eletrônicos do Seminário da Cidade e do Urbanismo. v. 11 n. 1 (2010); Disponível em: &lt;<a href="http://unuhospedagem.com.br/revista/rbeur/index.php/shcu/article/view/1265/1239">http://unuhospedagem.com.br/revista/rbeur/index.php/shcu/article/view/1265/1239</a>&gt; Acesso em: 17 mar. 2016.
 - CHOAY, F. A Regra e o Modelo: Sobre a Teoria da Arquitetura e do Urbanismo. São Paulo: Editora Perspectiva,
 - CHOAY, F. O Urbanismo. São Paulo: Editora Perspectiva, 1979. 350p.
 - COLQHOUN, A. Modernidad y tradición clásica. São Paulo: Cosac & Naify, 2004. 253 p.
 - CURTIS, W. Le Corbusier: ideas and forms. London: Phaidon, 1986. 240 p.
 - MONTEYS, X. La gran máquina: la ciudad en Le Corbusier. Barcelona: Ediciones del Serbal, 1996. 317 p.
-- CASTRO, L. G. R.; BEM, J. P. de; GIANSANTE, A. E. Recuperação urbana na cidade de São Paulo: uma abordagem projetual para novas áreas residenciais em antigas áreas destinadas a indústrias. In: XI Seminario de Arquitectura Latinoamericana, 2005. Disponível em: &lt;http://www.rafaellopezrangel.com/Reflexiones%20sobre%20la%20arquitectura%20y%20el%20urbanismo%2 0latinoamericanos/Design/archivos%20texto/T2C01.pdf&gt;. Acesso em: 17 mar. 2016.
+- CASTRO, L. G. R.; BEM, J. P. de; GIANSANTE, A. E. Recuperação urbana na cidade de São Paulo: uma abordagem projetual para novas áreas residenciais em antigas áreas destinadas a indústrias. In: XI Seminario de Arquitectura Latinoamericana, 2005. Disponível em: &lt;<a href="http://www.rafaellopezrangel.com/Reflexiones%20sobre%20la%20arquitectura%20y%20el%20urbanismo%2">http://www.rafaellopezrangel.com/Reflexiones%20sobre%20la%20arquitectura%20y%20el%20urbanismo%2</a>&gt; 0latinoamericanos/Design/archivos%20texto/T2C01.pdf&gt;. Acesso em: 17 mar. 2016.
 - CUNHA, R. O planejamento contradito: A Brasília personagem do tempo e espaço. In: O Pioneiro século 21, Brasília, DF, ano 12, n. 14, p. 64-67, abril 2013.
 - MATOSO, D. Reforma dos blocos de apartamentos funcionais da Câmara dos Deputados, superquadra norte 302, blocos F e G, Brasília, DF. In: PELLEGRINI, A. C. e VASCONCELOS, J.C. (orgs.) Bloco (7), arquiteturas de morar. Novo Hamburgo: Universidade Feevale, 2011.
 - PAIVA, E.; FAYET, C. M. Urbanização da Praia de Belas em Porto Alegre, R. G. S. Revista Habitat, Porto Alegre, v. 32, 1956.

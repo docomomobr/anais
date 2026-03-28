@@ -64,14 +64,14 @@ palavras-chave:
 - LABANCA, Gabriel Costa. Dos anos dourados às Edições de Ouro: a Tecnoprint e o livro de bolso no Brasil (1939-1970). Dissertação (mestrado) – UERJ. Rio de Janeiro, 2009.
 - LEONÍDIO, Otavio. Carradas de razões: Lucio Costa e a arquitetura moderna brasileira (1924-1951). Rio de Janeiro: Ed. PUC-Rio; São Paulo: Loyola, 2007.
 - LIRA, José Tavares Correia de. Warchavchik: fraturas da vanguarda. São Paulo: Cosac Naify, 2011.
-- MAIA, Tota. O novo uso ajuda a preservar um bem? Disponível em: &lt; https://modulacao.wordpress.com/2015/11/19/o-novo-uso-ajuda-a-preservar-um-bem-por-tota-maia/&gt;. Acesso em: 05 jul. 2017.
+- MAIA, Tota. O novo uso ajuda a preservar um bem? Disponível em: &lt;<a href="https://modulacao.wordpress.com/2015/11/19/o-novo-uso-ajuda-a-preservar-um-bem-por-tota-maia/">https://modulacao.wordpress.com/2015/11/19/o-novo-uso-ajuda-a-preservar-um-bem-por-tota-maia/</a>&gt; Acesso em: 05 jul. 2017.
 - MARTINS, Carlos A. Ferreira. Arquitetura e Estado no Brasil: elementos para uma investigação sobre a constituição do discurso moderno no Brasil; a obra de Lucio Costa 1924/1952. Dissertação (mestrado) – FFLCH-USP, São Paulo, 1987.
 - MARTINS, Carlos A. “Há algo de irracional...”. Notas sobre a historiografia da arquitetura brasileira. In: GUERRA, Abilio (org.). Textos fundamentais sobre a arquitetura moderna brasileira, v.2, São Paulo: Romano Guerra 2010, p.131-168.
 - MINDLIN, Henrique. Arquitetura moderna no Brasil. Rio de Janeiro: Aeroplano/IPHAN/ Ministério da Cultura, 2000.
 - MINDLIN, Henrique. Modern Architecture in Brazil. Rio de Janeiro / Amsterdam: Colibris Editora, 1956.
-- MORI, Renata Bacheschi. Centro Técnico da Aeronáutica: do concurso de anteprojetos aos edifícios esquecidos de Niemeyer. Trabalho Final de Graduação – FAU/USP. São Paulo, 2013. Disponível em: &lt;https://issuu.com/renatabmori/docs/issuu&gt;. Acesso em: 01 jul. 2017.
-- MOTA, Lila Ribeiro. O aeroporto Santos Dumont como símbolo de modernidade no Brasil nos anos 1950. In: 1º Colóquio Internacional de História Cultural da Cidade. Porto Alegre, 2015, p.485-494. Disponível em: &lt;http://www.ufrgs.br/gthistoriaculturalrs/33CDLilaMota.pdf&gt;. Acesso em: 03 jul. 2017.
-- OBRA do berço. Histórico. Disponível em: &lt;http://www.aobradobercorj.org.br/index.php?pg=institucional.php&hash=I07T11O4O42&gt;. Acesso em 27 jun. 2017.
+- MORI, Renata Bacheschi. Centro Técnico da Aeronáutica: do concurso de anteprojetos aos edifícios esquecidos de Niemeyer. Trabalho Final de Graduação – FAU/USP. São Paulo, 2013. Disponível em: &lt;<a href="https://issuu.com/renatabmori/docs/issuu">https://issuu.com/renatabmori/docs/issuu</a>&gt; Acesso em: 01 jul. 2017.
+- MOTA, Lila Ribeiro. O aeroporto Santos Dumont como símbolo de modernidade no Brasil nos anos 1950. In: 1º Colóquio Internacional de História Cultural da Cidade. Porto Alegre, 2015, p.485-494. Disponível em: &lt;<a href="http://www.ufrgs.br/gthistoriaculturalrs/33CDLilaMota.pdf">http://www.ufrgs.br/gthistoriaculturalrs/33CDLilaMota.pdf</a>&gt; Acesso em: 03 jul. 2017.
+- OBRA do berço. Histórico. Disponível em: &lt;<a href="http://www.aobradobercorj.org.br/index.php?pg=institucional.php&hash=I07T11O4O42">http://www.aobradobercorj.org.br/index.php?pg=institucional.php&hash=I07T11O4O42</a>&gt; Acesso em 27 jun. 2017.
 - SAMPAIO NETO, Paulo Costa. Residências em Fortaleza, 1950-1979: contribuições dos arquitetos Liberal de Castro, Neudson Braga e Gerhard Bormann. Dissertação (mestrado) – FAU/USP. São Paulo, 2005.
 - SANTOS, Ademir Pereira dos. Arquitetura industrial: São José dos Campos. São José dos Campos: A. P. Santos, 2006.
 - SILVA: Maria Angélica. Arquitetura moderna: a atitude alagoana. Maceió: SERGASA, 1991.

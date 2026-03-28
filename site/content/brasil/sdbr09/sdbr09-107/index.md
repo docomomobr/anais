@@ -65,4 +65,4 @@ palavras-chave:
 - LURÇAT, André. Formes, composition et lois d’harmonie : elements d’une science de l’esthétique architecturale. Paris: Vincent Fréal, 1953. V.4. 524p.
 - ROWE, Colin. The Mathematics of the ideal villa and other essays. Cambridge: The MIT Press, 1976.
 - VITRUVIUS. The ten books on architecture. Trad. Morris Morgan. New York: Dover Publications.
-- WOLF, José. “Um mestre ainda aprendiz”. In: http://www.revistaau.com.br/arquitetura-urbanismo/84/artigo24214-1.asp, acesso em 21 mai. 2010.
+- WOLF, José. “Um mestre ainda aprendiz”. In: &lt;<a href="http://www.revistaau.com.br/arquitetura-urbanismo/84/artigo24214-1.asp">http://www.revistaau.com.br/arquitetura-urbanismo/84/artigo24214-1.asp</a>&gt; acesso em 21 mai. 2010.

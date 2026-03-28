@@ -59,7 +59,7 @@ palavras-chave:
 - BARBOSA, Luciano César Bezerra. Ícones urbanos na cidade de Natal: arquitetura e desenvolvimento urbano na cidade do sol e mar. Tese de Doutorado. PPGAU/UFRN, 2014.
 - CONSALEZ, Lorenzo; BERTAZZONI, Luigi. Maquetes: a representação do espaço no projeto arquitetônico. Trad. Daniela Maissa. São Paulo: Gustavo Gili , 2014.
 - DANTAS, George Alexandre Ferreira, DO NASCIMENTO, José Clewton e VIEIRA-DE-ARAÚJO, Natália Miranda. O cavalo de batalha moderno: [R]existências, debates e possibilidades em torno do caso do Hotel Internacional Reis Magos. In: Revista CPC, São Paulo, n.22, p.37-69, jul./dez. 2016.
-- HORTA, Maria de Lourdes P.; GRUNBERG Evelina; MONTEIRO, Adriana Q. Guia Básico da Educação Patrimonial. Museu Imperial / DEPROM - IPHAN – MINC, 1999. Disponível em: &lt;http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf&gt;. Acesso em: 21 fev. 2019.
+- HORTA, Maria de Lourdes P.; GRUNBERG Evelina; MONTEIRO, Adriana Q. Guia Básico da Educação Patrimonial. Museu Imperial / DEPROM - IPHAN – MINC, 1999. Disponível em: &lt;<a href="http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf">http://portal.iphan.gov.br/uploads/temp/guia_educacao_patrimonial.pdf</a>&gt; Acesso em: 21 fev. 2019.
 - NACCA, Regina Mazzocato. Maquetes & Miniaturas: técnicas de montagem passo-a-passo. São Paulo: Giz Editorial, 2006.
 - NASCIMENTO, José Clewton do; OLIVEIRA, Emanuelle Albuquerque de. A (in) sustentável adaptação do poema: considerações sobre a proposta – não concretizada – de adequação do estádio Machadão ao padrão Fifa / copa 2014. Anais do 5° Seminário Docomomo N/NE, 2014.
 - OTONDO, Catherine; GRINOVER, Marina. Maquetes de papel: Paulo Mendes da Rocha. São Paulo: Cosac Naify, 2007.
@@ -67,4 +67,4 @@ palavras-chave:
 - PINA, Silvia A. Mikami; BORGES FILHO, Francisco; MARANGONI, Renata França. Maquetes e modelos como estímulo à criatividade no projeto arquitetônico. In O processo de projeto em arquitetura, 132-109. São Paulo: Oficina de textos, 2011.
 - ROCHA, Paulo Mendes da. Maquetes de papel: Paulo Mendes da Rocha. São Paulo: Cosac Naify, 2007.
 - SOUZA, Maria Eduarda Araújo. Cinemaiseis: anteprojeto de reuso da Assen em espaço de integração entre cinema e outras artes. TCC (Graduação em Arquitetura e Urbanismo). Natal, UFRN, 2017.
-- VIEIRA, Rosinaldo. Arquitetura com sinônimo de experiência (Entrevista). In: Podium – Arquitetura & Construção, ano IV, n° 240, 26 de agosto de 2003. Entrevista com o arquiteto Moacyr Gomes. 2014. Disponível em: http://www.vitruvius.com.br/revistas/read/entrevista/14.054/4757
+- VIEIRA, Rosinaldo. Arquitetura com sinônimo de experiência (Entrevista). In: Podium – Arquitetura & Construção, ano IV, n° 240, 26 de agosto de 2003. Entrevista com o arquiteto Moacyr Gomes. 2014. Disponível em: &lt;<a href="http://www.vitruvius.com.br/revistas/read/entrevista/14.054/4757">http://www.vitruvius.com.br/revistas/read/entrevista/14.054/4757</a>&gt;

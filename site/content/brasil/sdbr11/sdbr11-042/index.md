@@ -57,5 +57,5 @@ palavras-chave:
 - BIERRENBACH, Ana Carolina; NERY, Juliana Cardoso. O que é que a Bahia tem? 2013. Artigo – X
 - PUCPR, Curitiba, outubro de 2013.
 - CARIA, Luciano Fernandes. Os Caminhos e descaminhos da UFBA. 2006. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura – Universidade Federal da Bahia, Salvador, 2006.
-- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, São Paulo, 07.084, Vitruvius, may 2007 &lt;http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243&gt;.
+- ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado). Arquitextos, São Paulo, 07.084, Vitruvius, may 2007 &lt;<a href="http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243">http://www.vitruvius.com.br/revistas/read/arquitextos/07.084/243</a>&gt;
 - ALBERTO, Klaus Chaves. Interfaces Brutalistas: megaestruturas universitárias”. 2013. Artigo - X Seminário Docomomo Brasil, Arquitetura moderna e internacional: conexões brutalistas 1955-75 – PUCPR, Curitiba, outubro de 2013.

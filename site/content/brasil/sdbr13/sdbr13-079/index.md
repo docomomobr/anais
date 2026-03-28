@@ -67,5 +67,5 @@ palavras-chave:
 - COSTA, Sabrina Studart Fontenele. Relações entre o tratado urbano e os edifícios modernos no Centro de São Paulo. São Paulo: Universidade de São Paulo, 2010. 274f. Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2010.
 - LOBATO, Maurílio Lima. Considerações sobre o espaço público e edifícios modernos de uso misto no centro de São Paulo. São Paulo: Universidade de São Paulo, 2009. 134f. Dissertação (Mestrado em Arquitetura e Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2009.
 - LORES, Raul Justes. São Paulo nas alturas: a revolução modernista da arquitetura e do mercado imobiliário nos anos 1650 e 1960. 3ª reimpressão. São Paulo: Três estrelas, 2017.
-- SEGAWA, Hugo. A Acrópole eletrônica. São Paulo, 2014. &lt;http://www.acropole.fau.usp.br&gt;. Acesso em: 29 jan. 2019.
+- SEGAWA, Hugo. A Acrópole eletrônica. São Paulo, 2014. &lt;<a href="http://www.acropole.fau.usp.br">http://www.acropole.fau.usp.br</a>&gt; Acesso em: 29 jan. 2019.
 - SOMEKH, Nadia. A cidade vertical e o urbanismo modernizador. 2ª edição. São Paulo: Editora Mackenzie e Romano Guerra Editora, 2014.

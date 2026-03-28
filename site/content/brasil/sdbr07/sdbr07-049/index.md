@@ -39,7 +39,7 @@ authors:
   - givenname: "Anita Regina"
     familyname: "Di Marco"
 doi: "10.5281/zenodo.19072611"
-zenodo_pdf_url: "https://zenodo.org/records/19072612/files/sdbr07-049.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285534/files/sdbr07-049.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
@@ -67,4 +67,4 @@ palavras-chave:
 - MEDEIROS, Manuel Francisco da Silva de. Dicionário técnico poliglota; : português-espanhol- francês-italiano- inglês-alemão. Ciências puras e aplicadas, medicina e farmácia, engenharia e arquitectura, ciências militares, transportes e telecomunicações, indústria e comércio. Lisboa : Gomes & Rodrigues, 1949.
 - PEVSNER, Nikolaus. Dicionario enciclopedico de arquitetura. Rio de Janeiro : Artenova, 1977
 - SAUSSURE, Ferdinand de. Curso de linguistica geral. São Paulo : Cultrix, 1993
-- TODOROV, Tzvetan. Dicionário enciclopédico das ciências da linguagem. São Paulo: Editora Perspectiva, 1977 Sites consultados: Cartas Patrimoniais: http://portal.iphan.gov.br/portal/montarPaginaSecao.do?id=12372&sigla=Legislacao&retorno= paginaLegislacao
+- TODOROV, Tzvetan. Dicionário enciclopédico das ciências da linguagem. São Paulo: Editora Perspectiva, 1977 Sites consultados: Cartas Patrimoniais: &lt;<a href="http://portal.iphan.gov.br/portal/montarPaginaSecao.do?id=12372&sigla=Legislacao&retorno=">http://portal.iphan.gov.br/portal/montarPaginaSecao.do?id=12372&sigla=Legislacao&retorno=</a>&gt; paginaLegislacao

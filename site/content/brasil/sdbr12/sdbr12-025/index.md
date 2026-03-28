@@ -67,9 +67,9 @@ palavras-chave:
 - MACIEL, C. A.; MALARD, M. L. (organizadores). Territórios da Universidade: permanências e transformações. Belo Horizonte: Editora UFMG, 2012.
 - MELO, A. C. S. “Yes, nós temos arquitetura moderna! Reconstituição e Análise da Arquitetura Residencial Moderna em Natal nas décadas de 50 e 60”. Dissertação de Mestrado. Natal: PPGAU. UFRN, 2004.
 - NEWTON JÚNIOR, C.; TRIGUEIRO, E. B. F.; YAMAMOTO, O. H.; CORREIA DE MELO, P. T. Portal da memória: Universidade Federal do Rio Grande do Norte: 50 anos (1950 – 2008), Brasília: Senado Federal, 2008.
-- PRONTO projeto da Praça Cívica: campus da UFRN. Diário de Natal, Natal, 19 jul. 1972. Disponível em: http://memoria.bn.br/. Acesso em 03/07/2017.
-- RESTAURANTE e Praça serão concluídos ainda esse ano. Diário de Natal, Natal, 14 jun. 1972. Disponível em: http://memoria.bn.br/. Acesso em 03/07/2017.
-- SCHLEE, A. R. [et al.].  Registro arquitetônico da Universidade de Brasília. Brasília: Editora Universidade de Brasília, 2014.
+- PRONTO projeto da Praça Cívica: campus da UFRN. Diário de Natal, Natal, 19 jul. 1972. Disponível em: &lt;<a href="http://memoria.bn.br/">http://memoria.bn.br/</a>&gt; Acesso em 03/07/2017.
+- RESTAURANTE e Praça serão concluídos ainda esse ano. Diário de Natal, Natal, 14 jun. 1972. Disponível em: &lt;<a href="http://memoria.bn.br/">http://memoria.bn.br/</a>&gt; Acesso em 03/07/2017.
+- SCHLEE, A. R. [et al.]. Registro arquitetônico da Universidade de Brasília. Brasília: Editora Universidade de Brasília, 2014.
 - TRIGUEIRO, E. B. F. Arquitetura da Universidade Federal do Rio Grande do Norte. In: Portal da memória: Universidade Federal do Rio Grande do Norte: 50 anos (1958 – 2008), Brasília: Senado Federal, 2005, p. 46-72.
 - TRIGUEIRO, E.; CAPPI, F.; NASCIMENTO, M. Modernismo potiguar: vida, reprodução e quase morte. In: 3º DOCOMOMO Norte-Nordeste: Morte e vida severinas: Das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil, 2010.
-- ZEIN, R. V. Arquitetura Paulista Brutalista: 1953 – 1973. Disponível em: http://www.arquiteturabrutalista.com.br/, acesso em: 2016-09-01.
+- ZEIN, R. V. Arquitetura Paulista Brutalista: 1953 – 1973. Disponível em: &lt;<a href="http://www.arquiteturabrutalista.com.br/">http://www.arquiteturabrutalista.com.br/</a>&gt; acesso em: 2016-09-01.

@@ -55,7 +55,7 @@ palavras-chave:
 
 - Benjamin, Walter. “A obra de arte na era de sua reprodutibilidade técnica : primeira versão.” In Magia e técnica, arte e política: ensaios sobre literatura e história da cultura, traduzido por Sérgio Paulo Rouanet, 255. 7th ed. Obras Escolhidas 1. São Paulo: Brasiliense, 1994. Bill et al., Max. “Report on Brazil.” Architectural Review, Outubro 1954.
 - Bill, Max. “Max Bill : o inteligente iconoclasta.” Habitat, Setembro 1953.
-- Bill, Max. “O arquiteto, a arquitetura, a sociedade.” Habitat, Fevereiro 1954. Brasil. Decreto n. 23.569, de 11 de dezembro de 1933, 1933. https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/D23569.htm.
+- Bill, Max. “O arquiteto, a arquitetura, a sociedade.” Habitat, Fevereiro 1954. Brasil. Decreto n. 23.569, de 11 de dezembro de 1933, 1933. &lt;<a href="https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/D23569.htm">https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/D23569.htm</a>&gt;
 - Brito, Ronaldo. Neoconcretismo : vértice e ruptura do projeto construtivo brasileiro. 2nd ed. São Paulo: Cosac Naify, 1999.
 - Campello, Glauco de Oliveira. O brilho da simplicidade: dois estudos sobre arquitetura religiosa no Brasil colonial. Rio de Janeiro: Casa da Palavra, 2001.
 - Cardozo, Joaquim. “Um tipo de casa rural do Distrito Federal e Estado do Rio.” Revista do Serviço do Patrimônio Histórico, 1943.
@@ -86,7 +86,7 @@ palavras-chave:
 - Rickey, George. O construtivismo : origens e evolução. Traduzido por Regina Barros Carvalho. São Paulo: Cosac Naify, 2002.
 - Riegl, Aloïs. “The modern cult of monuments : its character and its origin.” In Oppositions Reader, traduzido por Kurt W. Forster e Diane Ghirardo, 621-651. New York: Princeton Architectural Press, 1998.
 - Santos, Paulo Ferreira. Quatro séculos d e arquitetura. Barra do Piraí, RJ: Fundação Educacional Rosemar Pimentel, 1977.
-- Schlee, Andrey Rosenthal. “A praça do maquis.” MDC - Revista de Arquitetura e Urbanismo, Fevereiro 4, 2009. http://mdc.arq.br/2009/02/04/a-praca-do-maquis/. Segawa, Hugo. Arquiteturas no Brasil, 1900-1990. 2nd ed. São Paulo: Edusp, 1999.
+- Schlee, Andrey Rosenthal. “A praça do maquis.” MDC - Revista de Arquitetura e Urbanismo, Fevereiro 4, 2009. &lt;<a href="http://mdc.arq.br/2009/02/04/a-praca-do-maquis/">http://mdc.arq.br/2009/02/04/a-praca-do-maquis/</a>&gt; Segawa, Hugo. Arquiteturas no Brasil, 1900-1990. 2nd ed. São Paulo: Edusp, 1999.
 - Schlee, Andrey Rosenthal. “Histórias das histórias das arquiteturas do Brasil.” Cadernos de Arquitetura Ritter dos Reis, 2001.
 - Stevens, Garry. O círculo privilegiado : fundamentos sociais da distinção arquitetônica. Traduzido por Lenise Garcia Barbosa. 3rd ed. Arquitetura e Urbanismo 8. Brasília: Unb, 2003.
 - Summerson, John. Heavenly mansions and other essays on architecture. New York/London: W. W. Norton, 1963.

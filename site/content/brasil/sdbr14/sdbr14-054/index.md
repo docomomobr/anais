@@ -64,17 +64,17 @@ palavras-chave:
 - COHEN, J. L. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac & Naify, 2013. 594 p.
 - CURTIS, W. J. R. Arquitetura moderna desde 1900. 3ª ed. Porto Alegre: Bookman, 2008. 736p.
 - FRAMPTON, K. História crítica da arquitetura moderna. 1ª ed. São Paulo: Martins Fontes, 1997. 470 p.
-- GENERAL SERVICES ADMINISTRATION, U. S. A timeline of Architecture and Government. Historic Building Stewardship. Disponível em: &lt; https://www.gsa.gov/real-estate/historic-preservation/historic-building- stewardship/architecture-and-government/ a-timeline-of-architecture-and-government&gt;. Acesso em: set. 2019.
+- GENERAL SERVICES ADMINISTRATION, U. S. A timeline of Architecture and Government. Historic Building Stewardship. Disponível em: &lt;<a href="https://www.gsa.gov/real-estate/historic-preservation/historic-building-">https://www.gsa.gov/real-estate/historic-preservation/historic-building-</a>&gt; stewardship/architecture-and-government/ a-timeline-of-architecture-and-government&gt;. Acesso em: set. 2019.
 - GENERAL SERVICES ADMINISTRATION, U. S. Architecture of the great society: assessing the GSA portfolio of buildings constructed during the 1960s and 1970s.
 - Washington, DC, 2000. 47p. 26 UNITED STATES OF AMERICA. Promoting Beautiful Federal Civic Architecture. Washington, DC. 2020, p.5.
-- GENERAL SERVICES ADMINISTRATION, U. S. Federal Modernism. Disponível em: &lt;https://www.gsa.gov/real- estate/historic-preservation/historic-building-stewardship/architecture-and-government/federal-modernis m&gt;. Acesso em: set. 2019.
-- GENERAL SERVICES ADMINISTRATION, U. S. Modernism Renewed – Celebrezze Film. 2016. (31m02s). Disponível em: &lt;https://www.youtube.com/watch?v=bQmlwv_SGFQ&gt;. Acesso em: set. de 2019.
+- GENERAL SERVICES ADMINISTRATION, U. S. Federal Modernism. Disponível em: &lt;<a href="https://www.gsa.gov/real-">https://www.gsa.gov/real-</a>&gt; estate/historic-preservation/historic-building-stewardship/architecture-and-government/federal-modernis m&gt;. Acesso em: set. 2019.
+- GENERAL SERVICES ADMINISTRATION, U. S. Modernism Renewed – Celebrezze Film. 2016. (31m02s). Disponível em: &lt;<a href="https://www.youtube.com/watch?v=bQmlwv_SGFQ">https://www.youtube.com/watch?v=bQmlwv_SGFQ</a>&gt; Acesso em: set. de 2019.
 - GENERAL SERVICES ADMINISTRATION, U. S. United States Mission to the United Nations. New York: GSA.
 - GREENHOUSE, C. J. The paradox of relevance: ethnography and citizenship in the United States. Pennsylvania: University of Pennsylvania Press, 2011. 320p.
 - GROUP, A+T R. Why Density? Debunking the myth of the cubic watermelon. Álava: A+T, 2015. 256p.
 - KOLLER, E. J. Listed, obliterated, or status unknown: an analysis of the 50-year rule, 1966-2010. 2011. 99p. Dissertation (Master of science in community and regional planning) - The University of Texas at Austin, Austin, 2011.
 - MAHFUZ. E. C. Tradição e invenção (uma dialética fundamental). AU – Arquitetura e Urbanismo, São Paulo, ano III, n.12, pp. 70-74, jun/jul. 1987.
-- MONEO, R. On Typology. Oppositions, Cambridge, n.13, pp. 23-45, summer 1978. PIEDMONT-PALLADINO, S. Federal Modern: assessing and preserving a legacy. Blueprints. v. XXVI, no.1, p. 6- 9, 2007-08. Disponível em: &lt;https://www.nbm.org/wp-content/uploads/2016/02/Blueprints-Winter-2007- 08_FINAL.pdf&gt;. Acesso em: out. 2019.
+- MONEO, R. On Typology. Oppositions, Cambridge, n.13, pp. 23-45, summer 1978. PIEDMONT-PALLADINO, S. Federal Modern: assessing and preserving a legacy. Blueprints. v. XXVI, no.1, p. 6- 9, 2007-08. Disponível em: &lt;<a href="https://www.nbm.org/wp-content/uploads/2016/02/Blueprints-Winter-2007-">https://www.nbm.org/wp-content/uploads/2016/02/Blueprints-Winter-2007-</a>&gt; 08_FINAL.pdf&gt;. Acesso em: out. 2019.
 - ROBINSON, J. H.; FOELL, J. H. Growth, efficiency and modernism. 1ª ed. Washington, D.C.: U.S. General Services Administration, 2003. 120 p.
 - SCULLY JR. V. Arquitetura moderna: a arquitetura da democracia. 1ª ed. São Paulo: Cosac & Naify. 2002. 168p.
 - UNITED STATES OF AMERICA. Guiding Principles for Federal Architecture. Washington, DC. 1962.

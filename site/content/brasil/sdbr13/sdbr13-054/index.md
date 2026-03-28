@@ -64,7 +64,7 @@ palavras-chave:
 - CHAVES, Carolina Marques. Construindo uma cidade moderna: entre a casa e o edifício de apartamentos. In: MOURA FILHA, Maria Berthilde; COTRIM, Marcio; CAVALCANTI FILHO, Ivan (orgs.). Entre o rio e o mar: arquitetura residencial na cidade de João Pessoa. João Pessoa: Editora Universitária da UFPB, 2016.
 - CORRÊA, Roberto Lobato. O espaço urbano. São Paulo: Ática, 2005.
 - JOÃO PESSOA. Lei nº 1.347, de 27 de abril de 1971. Institui o código de obras do município de João Pessoa. In: Código de obras. Secretária de Planejamento, Prefeitura Municipal de João Pessoa, João Pessoa, 2001.
-- LARA, Fernando. A exclusão do espaço doméstico. In: Portal Fórum, 02 mai. 2013. Disponível em: &lt;http://www.revistaforum.com.br/2013/05/02/a-exclusao-no-espaco-domestico/&gt;. Acesso em: 13 mar. 2019.
+- LARA, Fernando. A exclusão do espaço doméstico. In: Portal Fórum, 02 mai. 2013. Disponível em: &lt;<a href="http://www.revistaforum.com.br/2013/05/02/a-exclusao-no-espaco-domestico/">http://www.revistaforum.com.br/2013/05/02/a-exclusao-no-espaco-domestico/</a>&gt; Acesso em: 13 mar. 2019.
 - LEITÃO, Deusdedit. Ruas de Tambaú. João Pessoa: DPG Secretaria de Educação e Cultura, 1998.
 - LEITÃO, Lúcia. Quando o ambiente é hostil: uma leitura urbanística de Sobrados e Mucambos e outros ensaios gilbertianos. 2ª edição. Recife: Editora Universitária da UFPE, 2014.
 - LEMOS, Carlos Alberto Cerqueira. Cozinhas, etc.: Um estudo sobre as zonas de serviço da casa paulista. 2.ed.São Paulo: Editora Perspectiva, 1978.

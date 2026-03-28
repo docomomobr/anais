@@ -60,7 +60,7 @@ palavras-chave:
 - BERNARDES, Denis; SILVA, Aline de Figueirôa; LORETTO, Rosane Piccolo; CASTRO, Augusto. Arquitetura oficial de Alagoas: um registro documental, 1934-1940. In: Anais do Seminário LatinoAmericano: Arquitetura e Documentação. Belo Horizonte: UFMG, 2008. (CD-ROM).
 - BICCA, Briane E. P.; BICCA, Paulo R. S (Org.). Arquitetura na formação do Brasil. Brasília: UNESCO: IPHAN, 2008.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 2008.
-- CAMISASSA, Maria Marta dos Santos. A Produção Intelectual Brasileira nos Seminários Nacionais do DOCOMOMO (1995-2001) e a Preservação dos Exemplares da Arquitetura Moderna Brasileira. 2003. Disponível em: &lt;http://www.docomomo.org.br/seminario%205%20pdfs/seminario5mesatematica03.pdf&gt;. Acesso em: 20 mai. 2008.
+- CAMISASSA, Maria Marta dos Santos. A Produção Intelectual Brasileira nos Seminários Nacionais do DOCOMOMO (1995-2001) e a Preservação dos Exemplares da Arquitetura Moderna Brasileira. 2003. Disponível em: &lt;<a href="http://www.docomomo.org.br/seminario%205%20pdfs/seminario5mesatematica03.pdf">http://www.docomomo.org.br/seminario%205%20pdfs/seminario5mesatematica03.pdf</a>&gt; Acesso em: 20 mai. 2008.
 - CASTRIOTA, Leonardo Barci; PASSOS, Luiz Mauro do Carmo. O “Estilo Moderno”: Arquitetura em Belo Horizonte nos anos 30 e 40. In: CASTRIOTA, Leonardo Barci (Org.). Arquitetura da Modernidade. Belo Horizonte: UFMG, 1998.
 - CONDE, Luiz Paulo. Anônimo, mas fascinante: Protomodernismo em Copacabana. AU, p. 68-75, n. 16, 1988.
 - CORONA, Eduardo; LEMOS, Carlos A. C. Dicionário da Arquitetura Brasileira. São Paulo: Edart, 1972.

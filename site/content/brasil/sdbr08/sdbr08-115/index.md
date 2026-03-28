@@ -46,16 +46,16 @@ palavras-chave:
 ## Referências
 
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. 2 ed. São Paulo: Editora Perspectiva, 1991.
-- “Cadastro de Bens Imóveis com Valor Individual”. Divisão de Cadastro e pesquisa, Departamento Geral de Patrimônio Cultural, Secretaria Municipal das Culturas Prefeitura da Cidade do Rio de Janeiro. Rio de Janeiro, 2003. Disponível em &lt;http://www.rio.rj.gov.br/sedrepahc/apac/anexos/bens_tomb_ipanema/rua_barao_torre_42.p df&gt; Acesso em 15 de maio de 2009.
+- “Cadastro de Bens Imóveis com Valor Individual”. Divisão de Cadastro e pesquisa, Departamento Geral de Patrimônio Cultural, Secretaria Municipal das Culturas Prefeitura da Cidade do Rio de Janeiro. Rio de Janeiro, 2003. Disponível em &lt;<a href="http://www.rio.rj.gov.br/sedrepahc/apac/anexos/bens_tomb_ipanema/rua_barao_torre_42.p">http://www.rio.rj.gov.br/sedrepahc/apac/anexos/bens_tomb_ipanema/rua_barao_torre_42.p</a>&gt; df&gt; Acesso em 15 de maio de 2009.
 - CAVALCANTI, Lauro (Org). “Quando o Brasil era moderno: Guia de Arquitetura 1928-1960”. Rio de Janeiro: Aeroplano, 2001.
 - CZAJKOWSKI, Jorge (Org). “Guia da arquitetura moderna no Rio de Janeiro”. Centro de Arquitetura e Urbanismo do Rio de Janeiro. Rio de Janeiro: Casa da Palavra; Prefeitura do Rio de Janeiro, 2000.
-- “Enciclopédia Itaú Cultural de Artes Visuais”. Disponível em &lt;http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/Enc_Artistas/artistas_imp.cfm? cd_verbete=3621&imp=N&cd_idioma=28555&gt; Acesso em: 20 de maio de 2009.
+- “Enciclopédia Itaú Cultural de Artes Visuais”. Disponível em &lt;<a href="http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/Enc_Artistas/artistas_imp.cfm?">http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/Enc_Artistas/artistas_imp.cfm?</a>&gt; cd_verbete=3621&imp=N&cd_idioma=28555&gt; Acesso em: 20 de maio de 2009.
 - LE CORBUSIER. Por uma arquitetura. 6. ed. Coleção Estudos. São Paulo: Perspectiva, 2004.
 - LODI, Cristina (Coord. Geral). “Guia do Patrimônio Cultural Carioca: Bens Tombados 2008”. 4.ed. Rio de Janeiro: Secretaria Extraordinária do Patrimônio Cultural, 2008.
 - NASCIMENTO, Dilene Raimundo do; COSTA, Renato da Gama-Rosa; PESSOA, Alexandre;
-- MELLO, Estefânia Neiva de. “O Sanatório de Curicica. Uma obra pouco conhecida de Sérgio Bernardes”. Seção Arquitextos. 2002. Disponível em : &lt;http://www.vitruvius.com.br/ac/ac009/ac009_2.asp&gt; Acesso em: 20 de maio de 2009.
-- NOBRE, Ana Luiza. “Sergio Bernardes: a subversão do possível”. Seção Arquitextos. 2002. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq026/arq026_02.asp&gt; Acesso em: 20 de maio de 2009.
+- MELLO, Estefânia Neiva de. “O Sanatório de Curicica. Uma obra pouco conhecida de Sérgio Bernardes”. Seção Arquitextos. 2002. Disponível em : &lt;<a href="http://www.vitruvius.com.br/ac/ac009/ac009_2.asp">http://www.vitruvius.com.br/ac/ac009/ac009_2.asp</a>&gt; Acesso em: 20 de maio de 2009.
+- NOBRE, Ana Luiza. “Sergio Bernardes: a subversão do possível”. Seção Arquitextos. 2002. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq026/arq026_02.asp">http://www.vitruvius.com.br/arquitextos/arq026/arq026_02.asp</a>&gt; Acesso em: 20 de maio de 2009.
 - PAPADAKI, Stamo. “The Work of Oscar Niemeyer”. New York: Reinhold Publishing Corporation, 1950.
 - PAPADAKI, Stamo. “Oscar Niemeyer: Works in Progress”. New York: Reinhold Publishing Corporation, 1956.
 - PONTES, Ana Paula. “Individualismo de massa: a habitação coletiva na obra de Sergio Bernardes”. Monografia de Especialização em História da Arte e Arquitetura no Brasil. Rio de Janeiro: Pontifícia Universidade Católica do Rio de Janeiro, 2002.
-- SEGRE, Roberto. “Sergio Bernardes (1919-2002). Entre o regionalismo e o high tech”. Seção Arquitextos. 2002. Disponível em : &lt;http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp&gt; Acesso em: 20 de maio de 2009.
+- SEGRE, Roberto. “Sergio Bernardes (1919-2002). Entre o regionalismo e o high tech”. Seção Arquitextos. 2002. Disponível em : &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp">http://www.vitruvius.com.br/arquitextos/arq026/arq026_00.asp</a>&gt; Acesso em: 20 de maio de 2009.

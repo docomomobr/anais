@@ -50,7 +50,7 @@ palavras-chave:
 
 ## Referências
 
-- MELENDO, José Manuel Almodóvar, “Da janela horizontal ao brise-soleil de Le Corbusier: análise ambiental da solução proposta para o Ministério da Educação de Rio de Janeiro”. São Paulo: Vitruvius, 2004. Disponível em http://www.vitruvius.com.br/arquitextos/arq051/arq051_02asp.
+- MELENDO, José Manuel Almodóvar, “Da janela horizontal ao brise-soleil de Le Corbusier: análise ambiental da solução proposta para o Ministério da Educação de Rio de Janeiro”. São Paulo: Vitruvius, 2004. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq051/arq051_02asp">http://www.vitruvius.com.br/arquitextos/arq051/arq051_02asp</a>&gt;
 - BOESIGER, Willy (Edit.). “Le Corbusier. Oeuvre Complète 1938-46”. Zurich: Girsberger, 1946.
 - CAVALCANTI, Lauro. “Moderno e Brasileiro. A história de uma nova linguagem na arquitetura (1930-1960)”. Rio de Janeiro: Jorge Zahar Editor, 2006.
 - CORBELLA, Oscar; YANNAS, Simos. “Em busca de uma arquitetura sustentável para os trópicos. Conforto ambiental”. Rio de Janeiro: Editora Revan, 2003.

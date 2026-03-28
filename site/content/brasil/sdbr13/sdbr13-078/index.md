@@ -78,7 +78,7 @@ palavras-chave:
 - ARGAN, G. Casas, eles também precisam. Habitat, São Paulo, n. 14, p. 28, jan. /fev. 1954.
 - ARGAN, G. Contribuição propedêutica ao ensino da teoria da arquitetura. São Paulo: Instituto Lina Bo Bardi, 2002 [1957].
 - ARGAN, G. Palestra. São Paulo: FAU-Brás Cubas, 1995.
-- BIERRENBACH, A. C. S. Como um lagarto sobre as pedras ao sol: as arquiteturas de Lina Bo Bardi e Antoni Gaudí. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq044/arq044_03.asp&gt;. Acesso em: fev. de 2007.
+- BIERRENBACH, A. C. S. Como um lagarto sobre as pedras ao sol: as arquiteturas de Lina Bo Bardi e Antoni Gaudí. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq044/arq044_03.asp">http://www.vitruvius.com.br/arquitextos/arq044/arq044_03.asp</a>&gt; Acesso em: fev. de 2007.
 - BIERRENBACH, A. El caracol y el lagarto: abstracción y mímesis en la arquitectura de Lina Bo Bardi. Barcelona: Tese de doutorado, ETSAB-UPC, 2006.
 - CAMPELLO, M.F.M.B. Lina Bo Bardi: as moradas da alma. Dissertação apresentada ao Programa de Pós-Graduação em Arquitetura e Planejamento da Escola de Engenharia de São Carlos - Universidade de São Paulo. São Carlos, 1997.
 - CORRÊA, M.R; SILVA, C.M.F. A sociedade de consumo: a figura do bricoleur em diálogo com objetos e narradores. In: Monteiro, R. H. ; Rocha, C. (Orgs.). Anais do V Seminário Nacional de Pesquisa em Arte e Cultura Visual. Goiânia: UFG, FAV, 2012.
@@ -86,4 +86,4 @@ palavras-chave:
 - MONTANER. J.M. A modernidade superada: arquitetura arte e pensamento do século XX. Barcelona: Gustavo Gili, 2001.
 - PEREIRA, M.T. As casas de Lina e os sentidos de habitat. Tese de doutorado, UnB, Brasília, 2014.
 - WAISMAN, M. La estructura histórica del entorno. Buenos Aires Nueva Visión, 1977.
-- ZOLLINGER, C. B. Lina Bo Bardi. 1951: Casa de Vidro, 1964: “Niente Vetri” (Pavilhão e recinto: o desenvolvimento de dois tipos). Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq000/esp408.asp&gt;. Acesso em: maio de 2006. 
+- ZOLLINGER, C. B. Lina Bo Bardi. 1951: Casa de Vidro, 1964: “Niente Vetri” (Pavilhão e recinto: o desenvolvimento de dois tipos). Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp408.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp408.asp</a>&gt; Acesso em: maio de 2006. 

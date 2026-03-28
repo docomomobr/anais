@@ -64,7 +64,7 @@ palavras-chave:
 
 - ALBERTO, Klaus Chaves. Três projetos para uma cidade universitária do Brasil. Rio de Janeiro: PROURB-FAU-UFRJ, 2003. Dissertação (mestrado) - Programa de Pós Graduação em Urbanismo, UFRJ.
 - ASSIM É A UNIVERSIDADE DE BRASÍLIA. Brasília: Senado Federal, 1969.
-- BRASIL. Edital para o Concurso Nacional do Plano Piloto da Nova Capital do Brasil. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 30 set. 1956. Disponível em http://www.infobrasilia.com.br/documentos.htm. Acesso em 10 dez. 2005.
+- BRASIL. Edital para o Concurso Nacional do Plano Piloto da Nova Capital do Brasil. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 30 set. 1956. Disponível em &lt;<a href="http://www.infobrasilia.com.br/documentos.htm">http://www.infobrasilia.com.br/documentos.htm</a>&gt; Acesso em 10 dez. 2005.
 - CABRAL, Neyde A. Joppert. A Universidade de São Paulo : Modelos e Projetos. São Paulo:
 - USP, 2004. TESE (doutorado). Universidade de São Paulo, Estruturas Ambientais Urbanas.
 - CASTOR, Ricardo Silveira. Considerações sobre a dimensão estética da obra de Oscar Niemeyer. Brasília: Programa de Pós Graduação da Faculdade de Arquitetura e Urbanismo, 2004. Dissertação (mestrado)

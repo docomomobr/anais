@@ -62,14 +62,14 @@ palavras-chave:
 ## Referências
 
 - BRUM, V.; FAGUNDES, C.; MOSSMANN, L. PREVI 1: O Projeto de Esguerra, Sáenz, Samper e Urdaneta. Pelotas: FAUrb/UFPel, 2016.
-- CARRASCO PÉREZ, G. (1988). La vivienda económica en Le Corbusier. Revista INVI, 3(4), 12-44. Disponível em http://www.revistainvi.uchile.cl/index.php/INVI/article/viewArticle/81/580. Acesso em jun. 2019.
+- CARRASCO PÉREZ, G. (1988). La vivienda económica en Le Corbusier. Revista INVI, 3(4), 12-44. Disponível em &lt;<a href="http://www.revistainvi.uchile.cl/index.php/INVI/article/viewArticle/81/580">http://www.revistainvi.uchile.cl/index.php/INVI/article/viewArticle/81/580</a>&gt; Acesso em jun. 2019.
 - COLQUHOUN, A. La arquitectura moderna: una historia desapasionada. Barcelona: Gustavo Gili, 2005.
 - FRAMPTON, K. Historia crítica de la arquitectura moderna. Barcelona: Gustavo Gili, 1993.
-- GERMÁN SAMPER ARQUITECTO. Disponível em:https://www.germansamper.com. Acesso em: 11 mar. 2019.
+- GERMÁN SAMPER ARQUITECTO. Disponível em: &lt;<a href="https://www.germansamper.com">https://www.germansamper.com</a>&gt; Acesso em: 11 mar. 2019.
 - GIEDION S. The heart of the city: a summing-up. In. TYRWYITT J., SERT J. L., ROGERS E. N. (ed). The heart of the city: toward the humanization of urban life. London: Lund Humphries, 1952, p. 159- 163.
-- HLADKYI, D. Z. O DESENHO NAS CASA JAOUL: relações entre arte e técnica em Le Corbusier. In: enanparq, Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo, IV, 2016, Porto Alegre. Anais (online) [...] Porto Alegre, UFRGS, 2016. Disponível em: https://www.lume.ufrgs.br/handle/10183/181415. Acesso em 11 mar. 2019.
+- HLADKYI, D. Z. O DESENHO NAS CASA JAOUL: relações entre arte e técnica em Le Corbusier. In: enanparq, Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e Urbanismo, IV, 2016, Porto Alegre. Anais (online) [...] Porto Alegre, UFRGS, 2016. Disponível em: &lt;<a href="https://www.lume.ufrgs.br/handle/10183/181415">https://www.lume.ufrgs.br/handle/10183/181415</a>&gt; Acesso em 11 mar. 2019.
 - MONTANER, J. M. Después del movimento moderno: arquitectura de la segunda mitad del siglo XX. Barcelona: Gustavo Gili, 1993.
 - MUMFORD, E. P. The CIAM Discourse on Urbanism, 1928-1960. Cambridge: The MIT Press,
-- O’BYRNE OROZCO, M. C., DAZA, R. The Pilot Plan seen by Germán Samper (entrevista). In O’BYRNE OROZCO, M. C. , et. al. (coord.). Le Corbusier en Bogotá: 1947-1951. Precisiones en torno al plan diretor. Vol. 2. Bogotá : Universidad de los Andes, Facultad de Arquitectura y Diseño, Departamento de Arquitectura, Ediciones Uniandes : Pontificia Universidad Javeriana, Facultad de Arquitectura y Diseño, 2010. Disponível em https://www.lecorbusierenbogota.com/downloads/vol2/part_three.pdf. Acesso em 6 jun. 2019.
+- O’BYRNE OROZCO, M. C., DAZA, R. The Pilot Plan seen by Germán Samper (entrevista). In O’BYRNE OROZCO, M. C. , et. al. (coord.). Le Corbusier en Bogotá: 1947-1951. Precisiones en torno al plan diretor. Vol. 2. Bogotá : Universidad de los Andes, Facultad de Arquitectura y Diseño, Departamento de Arquitectura, Ediciones Uniandes : Pontificia Universidad Javeriana, Facultad de Arquitectura y Diseño, 2010. Disponível em &lt;<a href="https://www.lecorbusierenbogota.com/downloads/vol2/part_three.pdf">https://www.lecorbusierenbogota.com/downloads/vol2/part_three.pdf</a>&gt; Acesso em 6 jun. 2019.
 - O’BYRNE OROZCO, M. C.; ÁNGEL SAMPER, M. I. Casa + casa + casa = ¿ciudad? Germán Samper: una investigación en vivienda. Bogotá: Universidad de los Andes, Facultad de Arquitectura y Diseño, Departamento de Arquitectura, Ediciones Uniandes, 2012.
 - SAMPER, G. La evolución de la vivenda. Bogotá: Escala, 2003.

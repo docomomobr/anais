@@ -59,5 +59,5 @@ palavras-chave:
 - BENEVOLO, Leonardo. Progettazione della città moderna. Roma: Gius. Laterza & Figli Spa, 1977.
 - COMAS, Carlos Eduardo. “Arquitetura Brasileira nos anos 80: um fio de esperança”. Revista AU, fev./mar. 1990, p.91-97.
 - GIMENEZ, Luís Espallargas. “Pós-modernismo, arquitetura e tropicália”. Revista Projeto, n.74, abr. 1985, p.87-93.
-- GUERRA, Abílio; RIBEIRO, Alessandro Castroviejo. “Casas brasileiras do século XX”. Arquitextos, n.074.01, Portal Vitruvius. Disponível em: &lt;http://www.vitruvius.com.br/arquitextos/arq074/arq074_01.asp&gt;. Acesso em: 9 set. 2007.
+- GUERRA, Abílio; RIBEIRO, Alessandro Castroviejo. “Casas brasileiras do século XX”. Arquitextos, n.074.01, Portal Vitruvius. Disponível em: &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq074/arq074_01.asp">http://www.vitruvius.com.br/arquitextos/arq074/arq074_01.asp</a>&gt; Acesso em: 9 set. 2007.
 - TYRWHITT, J; SERT, J.L.; ROGERS, E.N. (Eds). The Heart of the city : towards the humanisation of urban life. CIAM (8è: 1951: Hoddesdon). Liechtenstein: Kraus Reprint, 1979.

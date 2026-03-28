@@ -48,7 +48,7 @@ palavras-chave:
 ## Referências
 
 - AMORA, Ana Albano. O nacional e o moderno: a arquitetura e saúde no Estado Novo nas cidades catarinenses. Tese (Doutorado) – Programa de Pós-Graduação em Planejamento Urbano e Regional. Instituto de Pesquisa e Planejamento Urbano. Universidade Federal do Rio de Janeiro. Rio de Janeiro: 2006. 340 f.
-- ANDRADE, Mario. Arquitetura Colonial. São Paulo: Vitruvius, [s.d.]. Disponível em: &lt; http://www.vitruvius.com.br/documento/documento.asp&gt;. Acesso em 7 mar. 2005.
+- ANDRADE, Mario. Arquitetura Colonial. São Paulo: Vitruvius, [s.d.]. Disponível em: &lt;<a href="http://www.vitruvius.com.br/documento/documento.asp">http://www.vitruvius.com.br/documento/documento.asp</a>&gt; Acesso em 7 mar. 2005.
 - ARGAN, Giulio Carlo. Clássico e anticlássico : o Renascimento de Brunelleschi a Bruegel. São Paulo: Companhia das Letras, 1999.
 - BOURDIEU, Pierre. O poder simbólico. Rio de Janeiro: Bertrand Brasil/ Lisboa: Difel, 2004.
 - BRAGA, Theodoro. “Por uma arte brasileira”. Acrópole, São Paulo: nº 20/21, dez, 1939/jan, 1940, p. 25-26.

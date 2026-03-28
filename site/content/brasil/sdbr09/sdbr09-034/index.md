@@ -58,7 +58,7 @@ palavras-chave:
 - BENJAMIN, W. Obras Escolhidas, V. I, Magia e técnica, arte e política, São Paulo: Brasiliense, 1985.
 - BOLONHA, F. Affonso Eduardo Reidy In. XAVIER, A. Depoimento de Uma Geração - Arquitetura Moderna Brasileira. São Paulo: Ed. Pini, 1987. p. 343-47
 - BORDIEU, P. A Economia das trocas Simbólicas. São Paulo: Perspectiva, 1982.
-- BRANDÃO, C. A. Linguagem e arquitetura: o problema do conceito. Revista Interpretar a Arquitetura. Universidade Federal de Minas Gerais. Disponível em: http://www.arquitetura.ufmg.br/ia/conceitorevcaca.html. (Acesso em: 10 out. 2005).
+- BRANDÃO, C. A. Linguagem e arquitetura: o problema do conceito. Revista Interpretar a Arquitetura. Universidade Federal de Minas Gerais. Disponível em: &lt;<a href="http://www.arquitetura.ufmg.br/ia/conceitorevcaca.html">http://www.arquitetura.ufmg.br/ia/conceitorevcaca.html</a>&gt; (Acesso em: 10 out. 2005).
 - COMAS, C. E. D. Uma certa Arquitetura Moderna Brasileira: experiência a re- conhecer. Arquitetura Revista: Rio de Janeiro, ed. 5, 1987. p. 22-8
 - CRISPOLDI, E. Como estudar a arte contemporânea. Lisboa: Estampa, 2004.
 - FRAMPTON, K. História crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997
@@ -71,7 +71,7 @@ palavras-chave:
 - SCHWAB, M. C. N. Considerações sobre Arquitetura e Ecologia. Vitória: Vitória, 1997
 - SEGAWA, H. (org.). Arquiteturas no Brasil/anos 80. São Paulo: Projeto, 1988
 - SEGAWA, H. Arquiteturas no Brasil: 1900-1990. São Paulo: Edusp, 1999.
-- SEGRE, R; BARKI, J. Niemeyer jovem: o amor à linha reta. Disponível em: http://www.arcoweb.com.br/artigos/roberto-segre-e-jose-barki-niemeyer-jovem-05-01- 2009.html . (Acesso em 14 fev. 2011)
+- SEGRE, R; BARKI, J. Niemeyer jovem: o amor à linha reta. Disponível em: &lt;<a href="http://www.arcoweb.com.br/artigos/roberto-segre-e-jose-barki-niemeyer-jovem-05-01-">http://www.arcoweb.com.br/artigos/roberto-segre-e-jose-barki-niemeyer-jovem-05-01-</a>&gt; 2009.html . (Acesso em 14 fev. 2011)
 - SOUSA, A.. Nossa Arquitetura. Habitat. São Paulo. n. 2, 1951
 - TAFURI, M. Projeto e utopia, Arquitetura e desenvolvimento do Capitalismo. Lisboa: Presença. 1985
 - VIANNA, E. A.. Do saber do arquiteto. Texto de palestra ministrada na Ufes. Vitória, 1979

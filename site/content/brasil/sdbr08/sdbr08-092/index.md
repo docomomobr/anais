@@ -37,7 +37,7 @@ authors:
     familyname: "Trujillo"
     orcid: "0000-0002-7070-0227"
 doi: "10.5281/zenodo.19073097"
-zenodo_pdf_url: "https://zenodo.org/records/19073098/files/sdbr08-092.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285547/files/sdbr08-092.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
@@ -52,8 +52,8 @@ palavras-chave:
 ## Referências
 
 - ALMEIDA, Suzete de. Escritório.In REVISTA AU, n. 21. Ed. Pini, 1989.
-- ARRUDA, A.M.V. Rubens Gil de Camillo, 1934-2000: o arquiteto dos projetos em concreto aparente. In Arquitextos – Portal Vitrúvius, 2000. Disponível em http://www.vitruvius.com.br/arquitextos/arq000/esp005.asp, acessado em 10/05/2009. Às 18:00h
+- ARRUDA, A.M.V. Rubens Gil de Camillo, 1934-2000: o arquiteto dos projetos em concreto aparente. In Arquitextos – Portal Vitrúvius, 2000. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq000/esp005.asp">http://www.vitruvius.com.br/arquitextos/arq000/esp005.asp</a>&gt; acessado em 10/05/2009. Às 18:00h
 - ARRUDA, A.M.V. Pioneiros da Arquitetura e da Construção em Campo Grande. Ângelo Marcos Campo Grande-MS: UNIDERP, 2002.
 - BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981.
 - CAMILLO, Rubens Gil de. Conforto Matogrossense in REVISTA DESIGN INTERIORES, n. 34, ano VI, s/d.
-- ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. In Arquitextos – Portal Vitruvius, 2006. Disponível em http://www.vitruvius.com.br/arquitextos/arq076/arq076_02.asp. Acessado em 01/06/2009 às 14:30h.
+- ZEIN, Ruth Verde. A década ausente. É preciso reconhecer a arquitetura brasileira dos anos 1960-70. In Arquitextos – Portal Vitruvius, 2006. Disponível em &lt;<a href="http://www.vitruvius.com.br/arquitextos/arq076/arq076_02.asp">http://www.vitruvius.com.br/arquitextos/arq076/arq076_02.asp</a>&gt; Acessado em 01/06/2009 às 14:30h.
