@@ -2,5 +2,9 @@
 <article class="page-content">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  {{ if .GitInfo }}
+  {{ $meses := dict "01" "janeiro" "02" "fevereiro" "03" "março" "04" "abril" "05" "maio" "06" "junho" "07" "julho" "08" "agosto" "09" "setembro" "10" "outubro" "11" "novembro" "12" "dezembro" }}
+  <p class="lastmod">Atualizado pela última vez em {{ .Lastmod.Format "2" }} de {{ index $meses (.Lastmod.Format "01") }} de {{ .Lastmod.Format "2006" }}.</p>
+  {{ end }}
 </article>
 {{ end }}

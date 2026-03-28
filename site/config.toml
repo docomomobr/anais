@@ -2,6 +2,7 @@ baseURL = "https://anais.docomomobrasil.com/"
 languageCode = "pt-BR"
 title = "Anais Docomomo Brasil"
 titleCaseStyle = "none"
+enableGitInfo = true
 
 [taxonomies]
   autores = "autores"
