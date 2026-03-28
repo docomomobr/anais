@@ -4,13 +4,11 @@ Repositório de metadados, scripts e site estático dos anais dos seminários [D
 
 ## Acervo
 
-O acervo reúne os anais dos **15 Seminários Nacionais** Docomomo Brasil, realizados entre 1995 e 2023, totalizando cerca de **1.400 artigos** de mais de **1.700 autores**.
-
-Os seminários regionais (Norte/Nordeste, Sudeste e Sul) serão incorporados em etapa seguinte.
+O acervo reúne os anais de **45 seminários** Docomomo Brasil — 15 nacionais e 30 regionais (Norte/Nordeste, Sudeste e Sul) — realizados entre 1995 e 2024, totalizando cerca de **2.700 artigos** de mais de **2.400 autores**.
 
 ## Arquitetura de publicação
 
-Os **artigos em PDF** estão depositados no [Zenodo](https://zenodo.org), repositório acadêmico mantido pelo CERN. Cada artigo recebe um DOI individual.
+Os **artigos em PDF** estão depositados no [Zenodo](https://zenodo.org), repositório acadêmico mantido pelo CERN.
 
 O **site de consulta** é gerado estaticamente com [Hugo](https://gohugo.io) e hospedado no [GitHub Pages](https://pages.github.com). Não depende de banco de dados em tempo real nem de manutenção contínua.
 
@@ -24,8 +22,8 @@ anais/
 ├── scripts/               # Scripts de processamento, validação e publicação
 ├── dict/                  # Módulo de normalização e resolução de entidades (nomes, siglas)
 ├── docs/                  # Documentação técnica (pipelines, regras de dados)
-├── nacionais/             # YAMLs consolidados dos seminários nacionais
-├── regionais/             # YAMLs dos seminários regionais (em preparação)
+├── nacionais/             # Fontes e PDFs dos seminários nacionais (sdbr01-15)
+├── regionais/             # Fontes e PDFs dos seminários regionais (N/NE, SE, Sul)
 ├── site/                  # Site Hugo (templates, CSS, config)
 │   ├── config.toml
 │   ├── layouts/
