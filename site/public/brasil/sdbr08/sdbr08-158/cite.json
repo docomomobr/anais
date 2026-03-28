@@ -1,0 +1,21 @@
+{
+  "id": "sdbr08-158",
+  "type": "paper-conference",
+  "title": "El nuevo sector 22@ de Barcelona: una crítica constructiva",
+  "container-title": "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009",
+  "event-title": "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009",
+  "event-place": "Rio de Janeiro",
+  "publisher-place": "Rio de Janeiro",
+  "issued": { "date-parts": [[2009, 10, 11]] },
+  "DOI": "10.5281/zenodo.19073365",
+  "ISBN": "978-85-88027-11-4",
+  "page": "1-18",
+  "URL": "https://zenodo.org/records/19073366/files/sdbr08-158.pdf",
+  "language": "es",
+  "author": [
+    { "family": "Pla", "given": "Arcadi" },
+    { "family": "Puig", "given": "Ramón Mª", "ORCID": "https://orcid.org/0000-0002-8018-2232" },
+    { "family": "García", "given": "Pedro" },
+    { "family": "Terradas", "given": "Robert", "ORCID": "https://orcid.org/0000-0002-3901-4827" }
+  ]
+}

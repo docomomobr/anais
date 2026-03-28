@@ -16,7 +16,7 @@
 <p class="meta">{{ len .Pages }} {{ if eq .Data.Plural "autores" }}autores{{ else }}termos{{ end }}</p>
 
 <ul class="taxonomy-list">
-  {{ range .Pages }}
+  {{ range .Pages.ByTitle }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     <span class="meta">({{ len .Pages }})</span>

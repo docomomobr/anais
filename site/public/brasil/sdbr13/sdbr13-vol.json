@@ -1,0 +1,24 @@
+{
+  "id": "sdbr13",
+  "type": "book",
+  "title": "13º Seminário Docomomo Brasil, Salvador, 2019",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr13/",
+  "editor": [
+    {
+      "family": "Espinoza",
+      "given": "José Carlos Huapaya"
+    }
+  ],
+  "event-place": "Salvador",
+  "publisher-place": "Salvador",
+  "publisher": "Instituto de Arquitetos do Brasil, Departamento da Bahia",
+  "ISBN": "978-85-66843-06-4"
+}

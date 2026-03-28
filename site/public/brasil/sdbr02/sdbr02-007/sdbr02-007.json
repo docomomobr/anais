@@ -1,0 +1,28 @@
+{
+  "id": "sdbr02-007",
+  "type": "paper-conference",
+  "title": "Arquitetura moderna em São José dos Campos",
+  "container-title": "2º Seminário Docomomo Brasil, Salvador, 1997",
+  "event-title": "2º Seminário Docomomo Brasil, Salvador, 1997",
+  "issued": {
+    "date-parts": [
+      [
+        1997
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "author": [
+    {
+      "family": "Penedo",
+      "given": "Alexandre",
+      "ORCID": "https://orcid.org/0000-0003-1708-7475"
+    }
+  ],
+  "event-place": "Salvador",
+  "publisher-place": "Salvador",
+  "DOI": "10.5281/zenodo.19070327",
+  "ISBN": "978-85-509-0555-6",
+  "page": "64-74",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr02/sdbr02-007/"
+}

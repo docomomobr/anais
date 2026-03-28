@@ -1,0 +1,18 @@
+{
+  "id": "sdsp08-009",
+  "type": "paper-conference",
+  "title": "Portal digital para difusão dos acervos da FAUUSP",
+  "container-title": "8º Seminário Docomomo São Paulo, São Carlos, 2022",
+  "event-title": "8º Seminário Docomomo São Paulo, São Carlos, 2022",
+  "issued": { "date-parts": [[2022, 8, 23]] },
+  "ISBN": "978-65-86810-58-5",
+  "page": "121-135",
+  "language": "pt-BR",
+  "abstract": "O artigo tem por objetivo apresentar o portal de difusão dos acervos da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. Desenvolvido com a plataforma Omeka S, a partir do qual se pode fazer o compartilhamento e a colaboração na organização dos dados e das informações organizadas e estruturadas. Como parte da discussão, apresenta o histórico do acervo e discute a importância dos arquivos e coleções de Design e Arquitetura. Apresenta também um tópico especial de metadados, especificamente o Dublin Core, padrão adotado pela FAUUSP. Os resultados são discutidos e as perspectivas para a continuidade da plataforma também são comentadas.",
+  "keyword": "Plataforma digital, Acervos, FAUUSP",
+  "author": [
+    { "family": "Brito", "given": "Gisele Ferreira de", "ORCID": "https://orcid.org/0000-0002-3721-8068" },
+    { "family": "Costa", "given": "Eduardo Augusto", "ORCID": "https://orcid.org/0000-0002-7909-0496" },
+    { "family": "Velloso", "given": "Leandro Manuel Reis", "ORCID": "https://orcid.org/0000-0003-4883-7208" }
+  ]
+}

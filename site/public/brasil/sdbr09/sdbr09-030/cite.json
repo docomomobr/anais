@@ -1,0 +1,23 @@
+{
+  "id": "sdbr09-030",
+  "type": "paper-conference",
+  "title": "Articulaciones entre enseñanza, investigación y extensión para el conocimiento y registro de la arquitectura moderna: una experiencia en la Universidad Nacional de Tucumán, Argentina",
+  "container-title": "9º Seminário Docomomo Brasil, Brasília, 2011",
+  "event-title": "9º Seminário Docomomo Brasil, Brasília, 2011",
+  "event-place": "Brasília",
+  "publisher-place": "Brasília",
+  "issued": { "date-parts": [[2011, 10, 10]] },
+  "DOI": "10.5281/zenodo.19073645",
+  "ISBN": "978-85-60762-04-0",
+  "page": "1-23",
+  "URL": "https://zenodo.org/records/19073646/files/sdbr09-030.pdf",
+  "language": "es",
+  "author": [
+    { "family": "Koch", "given": "Olga Paterlini de" },
+    { "family": "Villavicencio", "given": "Susana", "ORCID": "https://orcid.org/0000-0003-3664-7941" },
+    { "family": "Rush", "given": "Virginia", "ORCID": "https://orcid.org/0000-0001-8176-0471" },
+    { "family": "Cuezzo", "given": "Laura" },
+    { "family": "Bruna", "given": "Luis", "ORCID": "https://orcid.org/0000-0002-9137-7844" },
+    { "family": "Neme Araújo", "given": "Gabriela" }
+  ]
+}

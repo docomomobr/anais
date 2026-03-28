@@ -1,0 +1,40 @@
+{
+  "id": "sdnne01",
+  "type": "book",
+  "title": "1º Seminário Docomomo Norte/Nordeste, Recife, 2006",
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/nne/sdnne01/",
+  "editor": [
+    {
+      "family": "Câmara",
+      "given": "Andréa"
+    },
+    {
+      "family": "Moreira",
+      "given": "Fernando Diniz"
+    },
+    {
+      "family": "Naslavsky",
+      "given": "Guilah"
+    },
+    {
+      "family": "Leite",
+      "given": "Isabella"
+    },
+    {
+      "family": "Maciel",
+      "given": "Paula"
+    }
+  ],
+  "event-place": "Recife, PE",
+  "publisher-place": "Recife, PE",
+  "publisher": "DEA-UNICAP / MDU-UFPE / CECI",
+  "ISBN": "978-85-98747-02-6"
+}

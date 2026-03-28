@@ -1,0 +1,28 @@
+{
+  "id": "sdbr14",
+  "type": "book",
+  "title": "14º Seminário Docomomo Brasil, Belém, 2021",
+  "issued": {
+    "date-parts": [
+      [
+        2021
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr14/",
+  "editor": [
+    {
+      "family": "Chaves",
+      "given": "Celma"
+    },
+    {
+      "family": "Miranda",
+      "given": "Cybelle Salvador"
+    }
+  ],
+  "event-place": "Belém",
+  "publisher-place": "Belém",
+  "publisher": "Universidade Federal do Pará, FAU, PPGAU",
+  "ISBN": "978-65-00-40027-4"
+}

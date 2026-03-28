@@ -1,0 +1,23 @@
+id: sdsul02-030
+type: paper-conference
+title: "Tecnologia das construções em cascas"
+container-title: "2º Seminário Docomomo Sul, Porto Alegre, 2008"
+event-title: "2º Seminário Docomomo Sul, Porto Alegre, 2008"
+event-place: "Porto Alegre, RS"
+publisher-place: "Porto Alegre, RS"
+issued:
+  date-parts:
+    - [2008, 8, 25]
+ISBN: "978-85-60188-09-3"
+language: pt-BR
+abstract: "Esta pesquisa avalia a evolução do processo de construção das cascas em concreto armado através de uma análise comparativa de projetos onde a forma da casca foi o elemento determinante na concepção arquitetônica, construídos entre 1950 e 1960, com projetos onde a modelagem em elementos finitos determinou a forma, construídos entre 1970 e 1980. A pesquisa foi realizada em conjunto com a análise de projetos de arquitetos renomados como Píer Luigi Nervi, Felix Candela em comparação com a tecnologia utilizada na arquitetura paulista por arquitetos como Miguel Juliano e Jorge Wilhem no projeto do Palácio das Convenções do Anhembi. Cada um à sua maneira procurou soluções arquitetônicas onde a estrutura tem um papel preponderante, e se valeram essencialmente das estruturas espaciais em cascas. Apesar das construções em cascas de concreto serem consideradas marcos arquitetônico deixaram de ser construídas ao longo do tempo devido a fatores que vão desde o custo de construção com formas e escoramentos até o custo de manutenção das grandes superfícies com impermeabilização e conseqüentemente com corrosão da armadura. A pesquisa conclui que as construções em cascas sofrerão um novo impulso, a partir da evolução da tecnologia do concreto com o desenvolvimento do micro-concreto estrutural menos poroso que os concretos utilizados no período de 50 a 70, e da evolução dos programas por elemento finitos que permitirá modelagens das cascas em diferentes formas."
+keyword: "coberturas em casca; estruturas em cascas; cascas de concreto armado"
+author:
+  - family: "Meirelles"
+    given: "Célia Regina Moretti"
+    ORCID: "https://orcid.org/0000-0002-4477-3895"
+  - family: "Medrano"
+    given: "Ricardo Hernán"
+  - family: "Dinis"
+    given: "Henrique"
+    ORCID: "https://orcid.org/0000-0003-3683-5707"

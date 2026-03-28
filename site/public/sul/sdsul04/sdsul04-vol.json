@@ -1,0 +1,32 @@
+{
+  "id": "sdsul04",
+  "type": "book",
+  "title": "4º Seminário Docomomo Sul, Porto Alegre, 2013",
+  "issued": {
+    "date-parts": [
+      [
+        2013
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/sul/sdsul04/",
+  "editor": [
+    {
+      "family": "Comas",
+      "given": "Carlos Eduardo"
+    },
+    {
+      "family": "Cabral",
+      "given": "Claudia Costa"
+    },
+    {
+      "family": "Cattani",
+      "given": "Airton"
+    }
+  ],
+  "event-place": "Porto Alegre, RS",
+  "publisher-place": "Porto Alegre, RS",
+  "publisher": "Núcleo Docomomo RS / PROPAR-UFRGS",
+  "ISBN": "978-85-60188-13-0"
+}

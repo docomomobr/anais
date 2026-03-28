@@ -1,0 +1,17 @@
+id: sdbr01
+type: book
+title: 1º Seminário Docomomo Brasil, Salvador, 1995
+issued:
+  date-parts:
+  - - 1995
+language: pt-BR
+URL: https://anais.docomomobrasil.com/brasil/sdbr01/
+editor:
+- family: Espinoza
+  given: José Carlos Huapaya
+- family: Moura
+  given: Alexandre Pajeú
+event-place: Salvador
+publisher-place: Salvador
+publisher: UFBA
+ISBN: 978-85-66843-07-1

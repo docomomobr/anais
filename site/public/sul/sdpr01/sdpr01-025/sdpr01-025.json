@@ -1,0 +1,30 @@
+{
+  "id": "sdpr01-025",
+  "type": "paper-conference",
+  "title": "Vilanova Artigas: a casa Bettega e o desenho",
+  "container-title": "1º Seminário Docomomo Paraná, Curitiba, 2006",
+  "event-title": "1º Seminário Docomomo Paraná, Curitiba, 2006",
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "author": [
+    {
+      "family": "Alonso",
+      "given": "Carlos Egídio"
+    },
+    {
+      "family": "Oliveira",
+      "given": "Giceli Portela Cunico de",
+      "ORCID": "https://orcid.org/0000-0002-3292-203X"
+    }
+  ],
+  "event-place": "Curitiba, PR",
+  "publisher-place": "Curitiba, PR",
+  "DOI": "10.5281/zenodo.19292731",
+  "URL": "https://anais.docomomobrasil.com/sul/sdpr01/sdpr01-025/"
+}

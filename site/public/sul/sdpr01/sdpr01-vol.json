@@ -1,0 +1,23 @@
+{
+  "id": "sdpr01",
+  "type": "book",
+  "title": "1º Seminário Docomomo Paraná, Curitiba, 2006",
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/sul/sdpr01/",
+  "editor": [
+    {
+      "family": "Gnoato",
+      "given": "Salvador"
+    }
+  ],
+  "event-place": "Curitiba, PR",
+  "publisher-place": "Curitiba, PR",
+  "publisher": "Núcleo Docomomo Paraná"
+}

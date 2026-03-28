@@ -1,0 +1,18 @@
+{
+  "id": "sdnne09-023",
+  "type": "paper-conference",
+  "title": "Obituário digital da Arquitetura Moderna em Fortaleza: a residência José Macedo (⁕1957 - †2000) de Acácio Gil Borsoi",
+  "container-title": "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022",
+  "event-title": "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022",
+  "event-place": "São Luís, MA",
+  "publisher-place": "São Luís, MA",
+  "issued": { "date-parts": [[2022, 12, 9]] },
+  "ISBN": "978-65-00-56400-6",
+  "language": "pt-BR",
+  "abstract": "O objetivo deste trabalho é discutir o processo de modelagem digital da Residência José Macedo (⁕1957 - †2000), de autoria do arquiteto Acacio Gil Borsoi por meio da tecnologia HBIM (Historic Building Information), com o intuído de compor o Obituário Digital da Arquitetura Moderna em Fortaleza. Trata-se de um esforço de ressuscitar a memória do arquiteto e da obra que já foi demolida no ano 2000, entendendo que o redesenho e a documentação digital possuem potencial de resgatar o valor dessas residências modernas em Fortaleza e no Nordeste em um contexto de voraz e predatória dinâmica imobiliária. A metodologia se sustenta na definição de pressupostos teóricos e práticos, bem como a sistematização de fontes para viabilizar a modelagem. A relevância do trabalho se refere ainda à produção de conhecimento no campo da historiografia da arquitetura moderna e a possibilidade de se valer da parametrização do edifício como subsídios para práticas de ensino, pesquisa e extensão.",
+  "keyword": "arquitetura moderna, HBIM, modelagem digital, patrimônio moderno, Acácio Gil Borsoi",
+  "author": [
+    { "family": "Paiva", "given": "Ricardo Alexandre", "ORCID": "https://orcid.org/0000-0002-0332-097X" },
+    { "family": "Teixeira", "given": "Maria Vitoria Vasconcelos" }
+  ]
+}

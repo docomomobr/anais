@@ -1,0 +1,32 @@
+{
+  "id": "sdsul01",
+  "type": "book",
+  "title": "1º Seminário Docomomo Sul, Porto Alegre, 2006",
+  "issued": {
+    "date-parts": [
+      [
+        2006
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/sul/sdsul01/",
+  "editor": [
+    {
+      "family": "Comas",
+      "given": "Carlos Eduardo"
+    },
+    {
+      "family": "Mahfuz",
+      "given": "Edson"
+    },
+    {
+      "family": "Cattani",
+      "given": "Airton"
+    }
+  ],
+  "event-place": "Porto Alegre, RS",
+  "publisher-place": "Porto Alegre, RS",
+  "publisher": "Núcleo Docomomo RS / PROPAR-UFRGS",
+  "ISBN": "85-60188-00-2"
+}

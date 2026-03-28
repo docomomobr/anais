@@ -1,0 +1,22 @@
+{
+  "id": "sdbr15-051",
+  "type": "paper-conference",
+  "title": "Estudo comparativo da configuração espacial das capitais brasileiras com intervenções modernistas em escala urbana",
+  "container-title": "15º Seminário Docomomo Brasil, São Carlos, 2023",
+  "event-title": "15º Seminário Docomomo Brasil, São Carlos, 2023",
+  "event-place": "São Carlos, SP",
+  "publisher-place": "São Carlos, SP",
+  "issued": { "date-parts": [[2023, 10, 17]] },
+  "DOI": "10.5281/zenodo.19069728",
+  "ISBN": "978-65-272-0196-0",
+  "page": "1-13",
+  "URL": "https://zenodo.org/records/19069729/files/sdbr15-051.pdf",
+  "language": "pt-BR",
+  "abstract": "Este estudo comparativo analisa a configuração espacial das capitais brasileiras, com foco nas intervenções modernas em escala urbana. O objetivo é compreender as características das cidades planejadas a partir do ideário moderno e aquelas que passaram por intervenções higienistas, sanitaristas e modernistas, em contraste com aquelas que apresentam uma implantação anterior a estes períodos do urbanismo brasileiro. A pesquisa utiliza dados do OpenStreetMaps (OSM) e a linguagem de programação Python, com base na biblioteca OSMNx, para calcular a extensão e a conectividade das malhas viárias das capitais. Discutimos teoricamente as críticas pós-modernas à cidade modernista, enfatizadas nos estudos considerados hoje clássicos do urbanismo, sobre a relação entre forma construída, lugar e experiência humana. O estudo contribui para a compreensão dos reflexos do modernismo nas cidades brasileiras, além de buscar mensurar pontos relevantes de discussões empíricas que formam a bibliografia básica da área.",
+  "keyword": "Intervenções modernas, Configuração espacial, Capitais brasileiras",
+  "author": [
+    { "family": "Calvetti", "given": "Fernando dos Santos", "ORCID": "https://orcid.org/0000-0002-1063-4491" },
+    { "family": "Silva", "given": "Sofia Bueno" },
+    { "family": "Pilati", "given": "João Vitor Bittencourt", "ORCID": "https://orcid.org/0009-0008-4772-8986" }
+  ]
+}

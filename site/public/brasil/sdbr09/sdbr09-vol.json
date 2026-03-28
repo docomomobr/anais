@@ -1,0 +1,36 @@
+{
+  "id": "sdbr09",
+  "type": "book",
+  "title": "9º Seminário Docomomo Brasil, Brasília, 2011",
+  "issued": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr09/",
+  "editor": [
+    {
+      "family": "Schlee",
+      "given": "Andrey Rosenthal"
+    },
+    {
+      "family": "Macedo",
+      "given": "Danilo Matoso"
+    },
+    {
+      "family": "Silva",
+      "given": "Elcio Gomes da"
+    },
+    {
+      "family": "Ficher",
+      "given": "Sylvia"
+    }
+  ],
+  "event-place": "Brasília",
+  "publisher-place": "Brasília",
+  "publisher": "PPG-FAU-UnB",
+  "ISBN": "978-85-60762-04-0"
+}

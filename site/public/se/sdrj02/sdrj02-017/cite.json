@@ -1,0 +1,15 @@
+{
+  "id": "sdrj02-017",
+  "type": "paper-conference",
+  "title": "O morar carioca moderno",
+  "container-title": "2º Encontro Docomomo Rio, Rio de Janeiro, 2012",
+  "event-title": "2º Encontro Docomomo Rio, Rio de Janeiro, 2012",
+  "issued": { "date-parts": [[2012, 9, 26]] },
+  "ISBN": "978-85-88341-55-5",
+  "language": "pt-BR",
+  "author": [
+    { "family": "Torquato", "given": "Artur" },
+    { "family": "Farias", "given": "Rayane", "ORCID": "https://orcid.org/0000-0001-6500-1096" },
+    { "family": "Pires", "given": "Richard" }
+  ]
+}

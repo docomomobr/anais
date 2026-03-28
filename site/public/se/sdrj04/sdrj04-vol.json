@@ -1,0 +1,30 @@
+{
+  "id": "sdrj04",
+  "type": "book",
+  "title": "4º Seminário Docomomo Rio, Rio de Janeiro, 2017",
+  "issued": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "URL": "https://anais.docomomobrasil.com/se/sdrj04/",
+  "editor": [
+    {
+      "family": "Borde",
+      "given": "Andréa de Lacerda Pessôa"
+    },
+    {
+      "family": "Salomon",
+      "given": "Maria Helena Röhe"
+    },
+    {
+      "family": "Costa",
+      "given": "Renato da Gama-Rosa"
+    }
+  ],
+  "publisher": "Núcleo Docomomo Rio",
+  "ISBN": "978-85-88027-42-8"
+}

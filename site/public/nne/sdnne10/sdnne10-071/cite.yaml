@@ -1,0 +1,24 @@
+id: sdnne10-071
+type: paper-conference
+title: "Rememória da arquitetura através da renderização de imagens estáticas: o caso da Residência Recife (1971) de Severiano Mário Porto"
+container-title: "10º Seminário Docomomo Norte/Nordeste, Campina Grande, 2024"
+event-title: "10º Seminário Docomomo Norte/Nordeste, Campina Grande, 2024"
+event-place: "Campina Grande, PB"
+publisher-place: "Campina Grande, PB"
+issued:
+  date-parts:
+    - [2024, 11, 11]
+ISBN: "978-65-272-1054-2"
+language: pt-BR
+abstract: "As Tecnologias de Informação e Comunicação (TICs) tornaram-se poderosas ferramentas no auxílio da preservação e difusão do patrimônio arquitetônico. Hoje em dia, existem diversas técnicas utilizadas para essa tarefa. Este artigo apresenta a utilização da renderização para a preservação digital e promoção de bens arquitetônicos. Como objeto de estudo, será feita a reconstrução digital da Residência Recife (1971) do Severiano Mario Porto, este projeto marca a consolidação do arquiteto na cidade de Manaus e divulgação de seus trabalhos para o mundo. Como metodologia, serão utilizados os princípios da Carta de Londres (2009), que são: Implementação, Objetivos e Métodos, Fontes de Investigação, Documentação, Sustentabilidade e Acesso. Estes princípios darão à modelagem 3D e à renderização o rigor científico. Então será feita: a coleta de dados, fotografias e projetos. Como fonte confiável para isso, serão utilizadas as pesquisas recentes realizadas pelo Núcleo Arquitetura Moderna na Amazônia (NAMA) e pelo Projeto de Pesquisa Casas Brasileiras do Século XX da FAU-UFRJ. Em sequência, será feita a modelagem 3D da residência, onde será utilizado o programa da Autodesk ®, o 3ds Max ©, versão 2024; e a iluminação e renderização das cenas selecionadas, será utilizado o motor de render da Chaos Group ®, o Corona Renderer ©; dessa forma, é possível alcançar o realismo nas imagens renderizadas da Residência Recife; Como resultado, espera-se apresentar o uso de renders para geração de imagens estáticas como uma outra forma de utilização de TICs no campo da preservação, e contribuir para a difusão de uma obra moderna da Região Norte, que não existe mais, e incentivar futuras pesquisas."
+keyword: "patrimônio digital; tecnologias de informação e comunicação; reconstrução digital"
+author:
+  - family: "Torres"
+    given: "Lúcio Tiago Maurilo"
+    ORCID: "https://orcid.org/0009-0004-5025-5623"
+  - family: "Cereto"
+    given: "Marcos Paulo"
+    ORCID: "https://orcid.org/0000-0002-2320-5741"
+  - family: "Ruschival"
+    given: "Claudete Barbosa"
+    ORCID: "https://orcid.org/0000-0001-5686-3209"

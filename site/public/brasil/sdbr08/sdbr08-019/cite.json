@@ -1,0 +1,21 @@
+{
+  "id": "sdbr08-019",
+  "type": "paper-conference",
+  "title": "A forma segue o leite: a arquitetura das usinas de pasteurização do Recife",
+  "container-title": "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009",
+  "event-title": "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009",
+  "event-place": "Rio de Janeiro",
+  "publisher-place": "Rio de Janeiro",
+  "issued": { "date-parts": [[2009, 10, 11]] },
+  "DOI": "10.5281/zenodo.19072827",
+  "ISBN": "978-85-88027-11-4",
+  "page": "1-17",
+  "URL": "https://zenodo.org/records/19072828/files/sdbr08-019.pdf",
+  "language": "pt-BR",
+  "abstract": "A Usina Higienizadora do Leite do Recife foi o primeiro edifício projetado pelo arquiteto Luiz Nunes ao chegar a Pernambuco, em 1934. A Usina, como também o Instituto de Zootecnia, abrigado no mesmo edifício, fazia parte de um conjunto de ações do governo do interventor Carlos de Lima Cavalcanti para a modernização do Estado de Pernambuco e a implantação de unidades públicas de produção e distribuição de alimentos. A usina estava integrada à política traçada para o setor da pecuária leiteira, composta por ações de identificação das bacias regionais e de plano de produção por meio de sistema que garantisse a higiene do transporte do leite, sua pasteurização, a produção de seus derivados (manteiga e queijo) e a conservação e posterior distribuição da produção. Um projeto do arquiteto Heitor Maia Filho precedeu à proposta consagrada de Nunes, mas foi preterido por razões ainda não conhecidas. A proposta de Maia Filho, atendia ao mesmo programa de exigências, mas seguia distintos princípios formais e espaciais. Sua planta, compacta e compartimentada, era mais distributiva e anelada (contendo circuitos entre ambientes), enquanto que a solução proposta por Nunes, apesar do número de anéis, era baseada no isolamento das distintas linhas de produção e das diferentes categorias de trabalhadores. O caso das usinas de higienização do Recife refere-se ao período de introdução e consolidação de princípios projetivos arquitetônicos modernistas, cuja relação entre a função, a configuração espacial e a expressão formal estava sendo redefinida.",
+  "keyword": "espaço, função, Luis Nunes, arquitetura moderna",
+  "author": [
+    { "family": "Alecrim", "given": "Laura Nobre", "ORCID": "https://orcid.org/0000-0003-1204-5954" },
+    { "family": "Amorim", "given": "Luiz Manuel do Eirado", "ORCID": "https://orcid.org/0000-0003-0393-6106" }
+  ]
+}
