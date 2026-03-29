@@ -8,83 +8,13 @@
     "abstract": 0,
     "abstract_en": 0,
     "abstract_es": 0,
-    "keywords": 34,
+    "keywords": 35,
     "keywords_en": 0,
     "keywords_es": 0,
     "references_": 26
   },
   "auto_fixed": [],
   "issues": [
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 34,
-      "detail": "Ref muito longa (574 chars), possível concatenação: \"The image of Brasilia acterize what he defines as modernism of underde- velopmen...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 35,
-      "detail": "Ref muito longa (636 chars), possível concatenação: \"The last of the great successful Brazilian movies, for its incapacity of alone b...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 40,
-      "detail": "Ref muito longa (691 chars), possível concatenação: \"Brazilian modern architecture. This architectural scen- tions, which for Berman ...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 46,
-      "detail": "Ref muito longa (561 chars), possível concatenação: \"Brazilian capital. On one hand, using cinema, the most representative medium of ...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 51,
-      "detail": "Ref muito longa (964 chars), possível concatenação: \"Castro from be murdered by the bandits, who rob his statue. In the sequence Agne...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 58,
-      "detail": "Ref muito longa (747 chars), possível concatenação: \"Brasilia, the hero is involved in weapon smuggling once weapons were in the lorr...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
-    {
-      "check": "A11",
-      "article_id": "idc06-017",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 59,
-      "detail": "Ref muito longa (2563 chars), possível concatenação: \"It is possible to clearly identify easily with the Freddy the German films here ...\"",
-      "suggestion": "Verificar e separar se necessário"
-    },
     {
       "check": "A11",
       "article_id": "idc06-025",
@@ -97,19 +27,6 @@
     }
   ],
   "category_b_candidates": [
-    {
-      "article_id": "idc06-017",
-      "checks_flagged": [
-        "A11",
-        "A11",
-        "A11",
-        "A11",
-        "A11",
-        "A11",
-        "A11"
-      ],
-      "reason": "Ref muito longa (574 chars), possível concatenação: \"The image of Brasilia acterize what he defines as modernism of underde- velopmen...\""
-    },
     {
       "article_id": "idc06-025",
       "checks_flagged": [
