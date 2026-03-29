@@ -65,6 +65,9 @@ Para corrigir metadados publicados:
 Community: API exige **UUID** (não slug) — usar `_resolve_community_id()`.
 Editors: NÃO incluir ORCID dos editors (spam de notificações). ORCID só nos creators.
 
+**Dataset do projeto** (`.zenodo.json`): **NÃO usar a API InvenioRDM**. Usar `.zenodo.json` + GitHub release.
+Procedimento completo: [`docs/zenodo_dataset.md`](docs/zenodo_dataset.md).
+
 ---
 
 ## Estrutura do Projeto
