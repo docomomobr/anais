@@ -200,6 +200,30 @@ Após upload de cada seminário, verificar 2-3 registros manualmente:
 | sdsul08 | 51 | 51 | 0 | 51 |
 | **Total** | **1311** | **1268** | **43** | **~1268** |
 
+### 1.7. Dataset Zenodo (`.zenodo.json` + GitHub release)
+
+O **dataset do projeto** (metadados do acervo completo) é gerenciado de forma diferente dos artigos individuais. Usa a integração GitHub→Zenodo, **não** a API diretamente.
+
+**Fluxo para atualizar o dataset:**
+
+1. Editar `.zenodo.json` na raiz do repo (números, description, etc.)
+2. Commit e push
+3. Criar uma release no GitHub:
+   ```bash
+   GH_TOKEN=$(git remote get-url origin | grep -o 'ghp_[^@]*') \
+     gh release create vX.Y --title "vX.Y — descrição" --notes "changelog"
+   ```
+4. O Zenodo detecta a release automaticamente e publica nova versão do dataset
+
+**NÃO fazer manualmente via API** (POST /versions + PUT /draft + publish). O formato do `.zenodo.json` usa a API legacy do Zenodo (campos `name`, `affiliation`, `relation`), que é diferente do formato InvenioRDM usado pelo `upload_zenodo.py` (campos `person_or_org`, `relation_type`). Tentar converter entre formatos causa erros de validação.
+
+**Quando atualizar:**
+- Ao adicionar novo seminário/âmbito (atualizar totais na description)
+- Ao mudar editorial, licença ou metadados do projeto
+- Versionamento: v1.0 → v1.1 (novo seminário), v2.0 (mudança estrutural)
+
+**Record do dataset:** https://zenodo.org/records/19297561 (concept DOI: a verificar)
+
 ---
 
 ## Fase 2 — Gerar site Hugo
