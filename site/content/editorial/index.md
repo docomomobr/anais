@@ -19,6 +19,8 @@ Muitos seminários já estavam disponibilizados na internet — inclusive na pá
 
 Até aqui, todos os organizadores consultados foram solícitos em atender prontamente a nossa solicitação, enviando os arquivos originais. Esse esforço de busca foi empreendido juntamente a Juliana Nery (Norte / Nordeste) e a Suely Puppi (Paraná).
 
+Incluímos também os anais da 6ª Conferência Internacional do DOCOMOMO (*The Modern City Facing the Future*), realizada em Brasília em setembro de 2000 e organizada pela UnB e pela UFBA. Os *proceedings*, editados por Anna Beatriz Galvão, Alejandra H. Muñoz, Hugo Segawa, Mirthes Baffi e Marina B. Donelli, reúnem 53 artigos de autores de 19 países.
+
 Para ler, traduzir e organizar a massa de dados, e para fazer a publicação, trabalhamos com a ferramenta Claude Code. Graças a esse recurso, foi possível pesquisar e organizar a publicação dos anais de acordo com os mais atuais padrões de dados e metadados vigentes. Partimos de uma primeira extração de dados feita pela empresa Acesso Acadêmico, que contratamos em 2025 para disponibilizar os arquivos em OJS — *Open Journal System*. Esse sistema, voltado para o fluxo de periódicos, revelou-se problemático para publicar anais, o que ao fim e ao cabo era um adaptação. Cogitamos então a migração para sistemas como dSpace. Por fim, optamos por uma filosofia de armazenagem e publicação, acreditamos, mais robusta que simplesmente dispor os arquivos num servidor pago que poderia ser desativado por alguma inadimplência acidental. Os dados foram distribuídos em plataformas estáveis e resilientes conforme descrevemos abaixo.
 
 ## Arquitetura de publicação
@@ -31,7 +33,7 @@ Essa separação é intencional. O PDF — objeto primário da publicação acad
 
 ## Acervo
 
-O acervo reúne os anais de **45 seminários** Docomomo Brasil — nacionais e regionais — realizados entre 1995 e 2025, totalizando **2.714 artigos** de **2.461 autores**.
+O acervo reúne os anais de **46 seminários** — nacionais, regionais e internacional — realizados entre 1995 e 2025, totalizando **2.767 artigos** de **2.514 autores**.
 
 | Âmbito | Seminários | Artigos | Período |
 |--------|-----------|---------|---------|
@@ -42,6 +44,7 @@ O acervo reúne os anais de **45 seminários** Docomomo Brasil — nacionais e r
 | Paraná | 2 | 45 | 2012–2015 |
 | Rio de Janeiro | 3 | 42 | 2013–2017 |
 | Minas Gerais | 1 | 26 | 2010 |
+| Internacional | 1 | 53 | 2000 |
 
 ## Metadados
 
