@@ -161,6 +161,8 @@ def find_file(article):
         base = os.path.join(PDF_BASE, 'regionais', 'sul', slug)
     elif slug.startswith(('sdsp', 'sdrj', 'sdmg')):
         base = os.path.join(PDF_BASE, 'regionais', 'se', slug)
+    elif slug.startswith('idc'):
+        base = os.path.join(PDF_BASE, 'internacional', slug)
     else:
         base = PDF_BASE
     # Try pdfs/ first, then videos/
@@ -670,6 +672,8 @@ def find_volume_pdf(seminar_slug):
         base = os.path.join(PDF_BASE, 'regionais', 'sul', slug)
     elif slug.startswith(('sdsp', 'sdrj', 'sdmg')):
         base = os.path.join(PDF_BASE, 'regionais', 'se', slug)
+    elif slug.startswith('idc'):
+        base = os.path.join(PDF_BASE, 'internacional', slug)
     else:
         base = PDF_BASE
     for subdir in ['pdfs', '.', '..']:

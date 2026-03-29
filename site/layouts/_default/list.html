@@ -139,7 +139,7 @@
       {{ with .Params.article_count }}<p class="meta"><strong>{{ . }} artigos</strong></p>{{ end }}
       {{ with .Params.volume_pdf }}
       <div class="volume-pdf">
-        <a href="#" class="volume-pdf-btn">{{ with $.Params.volume_pdf_label }}{{ . }}{{ else }}PDF da edição completa{{ end }}</a>
+        <a href="{{ . }}" class="volume-pdf-btn">{{ with $.Params.volume_pdf_label }}{{ . }}{{ else }}PDF da edição completa{{ end }}</a>
       </div>
       {{ end }}
       <div class="export-links">

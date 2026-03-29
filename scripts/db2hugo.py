@@ -33,6 +33,7 @@ COVER_DIRS = {
     'sdsp': ['site/static/img/capas', 'regionais/se/capas'],
     'sdsul': ['site/static/img/capas', 'regionais/sul/capas'],
     'sdpr': ['site/static/img/capas', 'regionais/sul/capas'],
+    'idc': ['site/static/img/capas', 'internacional/capas'],
 }
 
 AMBITO_MAP = {
@@ -43,6 +44,7 @@ AMBITO_MAP = {
     'sdsp': ('se', 'Sudeste'),
     'sdsul': ('sul', 'Sul'),
     'sdpr': ('sul', 'Sul'),
+    'idc': ('internacional', 'Internacional'),
 }
 
 

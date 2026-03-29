@@ -1,0 +1,840 @@
+# idc06 — Revisão completa: metadados + splits
+# PDF: internacional/2000-proceedings-6th-idc-brasilia-r-ocr2.pdf (358 p)
+# pdf_start/pdf_end: página no viewer do PDF (impresso = pdf - 1)
+# Abrir o PDF ao lado e conferir cada entrada.
+---
+
+# === Opening Session ===
+
+- id: idc06-001
+  pdf_start: 8
+  pdf_end: 12
+  title: "Conference and Proceedings"
+  author:
+    - {family: "Holanda", given: "Frederico", affiliation: "UnB", ORCID: "0000-0002-3592-2246", country: "BR"}
+
+- id: idc06-002
+  pdf_start: 13
+  pdf_end: 16
+  title: "Opening Session"
+  author:
+    - {family: "Henket", given: "Hubert-Jan", affiliation: "DOCOMOMO International", country: "NL"}
+
+# === Opening Lecture ===
+
+- id: idc06-003
+  pdf_start: 17
+  pdf_end: 24
+  title: "The Symbolic City"
+  author:
+    - {family: "Kurokawa", given: "Kisho", country: "JP"}
+  keyword: ["Metabolism", "Recycle", "Ecology", "Symbiosis", "Information"]
+
+# === Main Theme Lectures ===
+
+- id: idc06-004
+  pdf_start: 25
+  pdf_end: 25
+  title: "Main Theme Report"
+  author:
+    - {family: "Henket", given: "Hubert-Jan", affiliation: "DOCOMOMO International", country: "NL"}
+
+- id: idc06-005
+  pdf_start: 26
+  pdf_end: 32
+  title: "Modern Movement and Urban History"
+  author:
+    - {family: "Cohen", given: "Jean-Louis", ORCID: "0000-0002-8420-3598", country: "FR"}
+  references_: # 3 refs
+    - "Cohen, Jean-Louis and André Lortie. (1992). Des fortifs au périf, Paris, les seuils de la ville. Paris: Pavillon de l'Arsenal/Picard."
+    - "Cohen, Jean-Louis and Hartmut Frank, eds. (1989). Les relations franco-allemandes 1940-1950 et leurs effets sur l'architecture et la forme urbaine. Paris: École d'Architecture Paris-Villemin and Ha..."
+    - "Cohen, Jean-Louis. (1995). Scenes of the World to Come; European Architecture and the American Challenge. Paris: Flammarion/Canadian Centre for Architecture."
+
+- id: idc06-006
+  pdf_start: 33
+  pdf_end: 33
+  title: "Le Corbusier and Latin America"
+  subtitle: "Urban Thinking/Urban Projects"
+  author:
+    - {family: "Pérez-Oyarzún", given: "Fernando", country: "CL"}
+  keyword: ["Le Corbusier", "Latin America", "urban thinking", "urban projects"]
+
+- id: idc06-007
+  pdf_start: 34
+  pdf_end: 40
+  title: "A Third World Modern Urbanism"
+  author:
+    - {family: "Santos", given: "Milton", country: "BR"}
+  keyword: ["globalization", "third world", "urbanism", "citizenship"]
+
+# === Main Theme Session ===
+
+- id: idc06-008
+  pdf_start: 41
+  pdf_end: 41
+  title: "Latin-American Cities"
+  author:
+    - {family: "Arango", given: "Silvia", ORCID: "0009-0001-7314-4043", country: "CO"}
+  keyword: ["Latin America", "cities", "history", "urbanism", "modernity", "fragmentation"]
+
+- id: idc06-009
+  pdf_start: 42
+  pdf_end: 42
+  title: "French Modern Cities"
+  author:
+    - {family: "Panerai", given: "Philippe", country: "FR"}
+  keyword: ["France", "conventional urban development", "rebuilding after war", "rationalism", "Grands Ensembles", "new directions"]
+
+- id: idc06-010
+  pdf_start: 43
+  pdf_end: 48
+  title: "Rome, the city of the future in the lessons of history"
+  subtitle: "typological models and strategies of intervention"
+  author:
+    - {family: "Conforto", given: "Maria Letizia", country: "IT"}
+  keyword: ["Italian", "history", "restoration"]
+
+- id: idc06-011
+  pdf_start: 49
+  pdf_end: 54
+  title: "Paradoxes in the conservation of newness"
+  subtitle: "the invention of an antipodean \"civic domain\""
+  author:
+    - {family: "Lewi", given: "Hannah", country: "AU"}
+
+- id: idc06-012
+  pdf_start: 55
+  pdf_end: 60
+  title: "The conception of Abuja — the new capital city of Nigeria — as synthesis of planning principles from Europe, America and Japan"
+  author:
+    - {family: "Lafrenz", given: "Jürgen", country: "DE"}
+  keyword: ["Abuja", "Capital City", "international planning principles"]
+  references_: # 14 refs
+    - "Abumere, S.I. (1981). The people's choice: resettlement preferences of displaced persons from Nigeria's new Federal Capital Territory. In Ekistics 291, 5, 476-480."
+    - "Adeniyi, A.I. (1985). Geography of the New Nigerian Capital - Abuja. Polytechnic, Ibadan."
+    - "Federal Capital Development Authority (1986a). Abuja. The making of a new capital for Nigeria. Abuja."
+    - "Federal Capital Development Authority (1986b). General landscape concept. Final Report Phase 1. Abuja."
+    - "Federal Capital Development Authority & Doxiadis Associates (1983). Regional development plan for the Federal Capital Territory. Lagos."
+    - "Hesse, R. (2000). Zielsetzung und Realisierung der neuen Hauptstadt Abuja, Nigeria. Thesis Universität Hamburg."
+    - "International Planning Associates (1978). Site evaluation and site selection. Report N. 2. Lagos."
+    - "International Planning Associates (1979). The masterplan for Abuja, the New Federal Capital of Nigeria. Lagos."
+    - "International Planning Associates (1983). The Federal Capital Territory. General land use plans and landscape guidelines. Final Report. Lagos."
+    - "Moore, J. (1984). The political history of Nigeria's new capital. In The Journal of Modern African Studies 22, 5, 167-175."
+    - "Okonkwo, T.O. (1991). Development control activities in Abuja: problems and prospects. Dissertation University of Ibadan."
+    - "Todd, T.A. (1980). Nigeria plans its New Capital. In Urban Design International 1, 5, 12-17."
+    - "Vagale, L.R. (1976). The form and structure of new capital cities. Nigerian Institute of Town Planning. Ibadan."
+    - "Vale, L.J. (1992). Architecture, power, and national identity. New Haven/London: Yale University Press."
+
+# === Brasilia Session ===
+
+- id: idc06-013
+  pdf_start: 61
+  pdf_end: 69
+  title: "City and Citizenship"
+  subtitle: "a contribution to the study of the modern city considered a work of art — Chandigarh and Brasilia"
+  author:
+    - {family: "Gorovitz", given: "Matheus", country: "BR"}
+  references_: # 20 refs
+    - "Argan, G.C. (1989). Botticelli. Genève: Skira."
+    - "Costa, L. (1962). Sobre arquitetura. Porto Alegre: CEUA."
+    - "Costa, L. (1991). Relatório. Brasília, cidade que inventei. Brasília: Ed. GDF."
+    - "Edict of Chandigarh. ANQ - Architecture & natura quarterly, Amsterdam: Architectura & Natura."
+    - "Jauss, H.R. (1978). Pour une esthétique de la réception. Paris: Gallimard."
+    - "Ferry, L. (1990). Homo Aestheticus. Paris: Grasset."
+    - "Ferry, L. (1998). Le Sens du Beau. Paris: Cercle d'Art."
+    - "Ferry, L. (1996). L'homme Dieu. Paris: Grasset."
+    - "Frampton, K. (1997). Le Corbusier. Paris: Hazan."
+    - "Gorovitz, M. (1985). Brasília, uma questão de escala. São Paulo: Projeto."
+    - "Gorovitz, M. (1991). \"Unidade de vizinhança marca o modo de vida brasiliense\". Revista da Codeplan, Brasília, nº 1, pp 45-52."
+    - "Kant, E. (1990). Observations sur le sentiment du beau et du sublime. Paris: Flammarion."
+    - "Le Corbusier (1951). Conférence de presse. Paris: Fundação Le Corbusier."
+    - "Le Corbusier (1953). Oeuvre complète. Zurique: Girsberger."
+    - "Le Corbusier (1980). Urbanisme. Paris: Arthaud."
+    - "Le Corbusier (1995). Vers une architecture. Paris: Flammarion."
+    - "Lukacs, G. (1967). Estética. México: Grijalbo."
+    - "Souriau, E. (1990). Vocabulaire d'esthétique. Paris: PUF."
+    - "Schiller, F. (1997). Du Sublime. Arles: Sulliver."
+    - "Wind, E. (1988). 'Art et anarchie'. Art et anarchie. Paris: Gallimard."
+
+- id: idc06-014
+  pdf_start: 70
+  pdf_end: 73
+  title: "Living with Brasilia"
+  subtitle: "a resident's perspective of the confrontation between heroic vision and social reality"
+  author:
+    - {family: "Bauer", given: "Rosane", country: "BR"}
+  keyword: ["City", "citizenship", "aesthetics", "urbanism", "art"]
+  references_: # 1 refs
+    - "Epstein, David (1973). Brasilia, Plan and Reality. A Study of Planned and Spontaneous Urban Development. Los Angeles: University of California Press."
+
+- id: idc06-015
+  pdf_start: 74
+  pdf_end: 77
+  title: "What do we really know about Brasilia? Misleading and prejudice in canonical books"
+  author:
+    - {family: "Zein", given: "Ruth Verde", ORCID: "0000-0003-0923-4914", country: "BR"}
+    - {family: "Lima", given: "Ana Gabriela Godinho", ORCID: "0000-0003-2529-0596", country: "BR"}
+  keyword: ["Brasilia", "modernist city", "production of space", "appropriation"]
+
+- id: idc06-016
+  pdf_start: 78
+  pdf_end: 83
+  title: "A legal system for urbanism"
+  subtitle: "the Modern Movement's unseen face"
+  author:
+    - {family: "Feldman", given: "Sarah", country: "BR"}
+  keyword: ["legislation", "urbanism", "Modern Movement", "Brasilia"]
+  references_: # 20 refs
+    - "AYMONINO, Carlo (1973) La Vivienda Racional. Barcelona: Gustavo Gili."
+    - "CIAM (1933). \"The Town Planning Charter\". In SERT (1942)."
+    - "CIAM (1954) Le Carta de Atenas. Buenos Aires."
+    - "FELDMAN, Sarah (1999) Avanços e Limites na Historiografia da Legislação Urbanística no Brasil. Anais do VIII Encontro Nacional da ANPUR. PROPUR/UFRGS."
+    - "FELDMAN, Sarah (1993) O Zoneamento Ocupa o Lugar do Plano: São Paulo, 1947-1961 in Anais do V Encontro Nacional da ANPUR."
+    - "FELDMAN, Sarah and CHIQUITO, Elisângela (1998) Legislação Urbanística e Cidades Pioneiras: 1930."
+    - "GIEDION, Siegfried (1929) \"Los Congresos Internacionales de Arquitectura Moderna\". In AYMONINO, Carlo (1973)."
+    - "GIEDION, Siegfried (1941) A Decade of New Architecture. Zürich: Edition Girsberger."
+    - "GOLD, John R. (1997). The Experience of Modernism. Modern Architects and the Future City. London: E & FN SPON."
+    - "GROPIUS, Walter (1929) \"Las Fundamentas Sociológicas de la Vivienda Mínima (para la población obrera de la ciudad)\". in AYMONINO, Carlo (1973)."
+    - "GROPIUS, Walter (1930) \"Construcción baja, media o alta?\" in AYMONINO, Carlo (1973)."
+    - "LE CORBUSIER, y JEANNERET, Pierre (1929) Análisis de los Elementos Fundamentales en el Problema de la Vivienda Mínima, in AYMONINO, Carlo (1973)."
+    - "LE CORBUSIER (1930) \"La parcelación del suelo en las ciudades\" in AYMONINO, Carlo (1973)."
+    - "LE CORBUSIER (1937) 5° Congrès de Paris. Logis et Loisirs. Rapport 1°. Solutions de Principe. Paris: Henri Jouille, maître imprimeur."
+    - "LE CORBUSIER (1941) A Carta de Atenas. São Paulo: EDUSP/Hucitec, 1993."
+    - "O'DONNELL, Guilherme (1998) A Irradiação de la ley na América Latina. Novos Estudos CEBRAP. São Paulo n° 51. Julho, pp.57-61."
+    - "SCHMIDT, Hans (1929) \"Ordenanzas Edificatorias y Vivienda Mínima\", in AYMONINO, Carlo (1973)."
+    - "SCHMIDT, Hans (1930) La Unión Soviética y la Nueva Arquitectura. In LISSITZKY 1929. La Reconstrucción de la Arquitectura en la URSS. Barcelona: Editorial Gustavo Gili, 1970."
+    - "SERT, José Luis (1937) 5° Congrès de Paris. Logis et Loisirs. Rapport n° 2. Cas d'Application: Villes. Paris: Henri Jouille, maître imprimeur."
+    - "SERT, José Luis (1942) Can Our Cities Survive? An ABC of Urban Problems, Their Analysis, Their Solutions. Cambridge: The Harvard University Press."
+
+- id: idc06-017
+  pdf_start: 84
+  pdf_end: 88
+  title: "Architectural and social modernity"
+  subtitle: "the image of Brasilia in two European movies"
+  author:
+    - {family: "Campos", given: "Márcio", ORCID: "0000-0001-7409-3228", country: "BR"}
+  references_: # 6 refs
+    - "Berman, Marshall (1982). All That Is Solid Melts Into Air: The Experience Of Modernity. New York: Simon and Schuster."
+    - "Carvalho, Olavo de (1999). O Elogio da Compaixão. In Bravo 19, Ano II, pp. 34-38, São Paulo: Abril."
+    - "Holston, James (1993). A Cidade Modernista Uma Crítica de Brasília e sua Utopia. São Paulo: Companhia das Letras."
+    - "Central do Brasil (1998). Dir. Walter Salles."
+    - "L'Homme de Rio (1963). Dir. Philippe de Broca."
+    - "Weit ist der Weg (1960). Dir. Wolfgang Schleif."
+
+- id: idc06-018
+  pdf_start: 89
+  pdf_end: 96
+  title: "Brasilia reproduced as backdrop"
+  author:
+    - {family: "Bald", given: "Sunil", country: "US"}
+  keyword: ["Brasília", "Movies", "Modern Urbanism", "Aesthetics of Reception"]
+  references_: # 9 refs
+    - "Appadurai, A. (1997). Modernity at Large: Cultural Dimensions of Globalization. Minneapolis: University of Minnesota Press."
+    - "Bald, S. (2000). \"Challenging the Nation-State at the Carmen Miranda Museum,\" in Rice, C. ed. Double Frames. Sydney: University of New South Wales."
+    - "Bataille, G. (1971). Oeuvres Completes. Paris: Gallimard."
+    - "Bryan, R. (1996). \"Reviving the Look of the Future,\" The New York Times Magazine, 24 March 1996. New York."
+    - "Costa, L. (1957). \"Plano Piloto do Brasília,\" Módulo, no. 18. Rio de Janeiro."
+    - "DaMatta, R. (1990). Carnavais, Malandros, e Heróis, 5th ed. Rio de Janeiro: Ed. Guanabara."
+    - "Lispector, C. (1989). The Foreign Legion. Minneapolis: University of Minnesota Press."
+    - "Niemeyer, O. (1959). \"Form and Function in Architecture,\" Módulo, no. 21. Rio de Janeiro."
+    - "Tafuri, M. (1979). Architecture and Utopia. Cambridge: MIT Press."
+
+# === History & Theory Session ===
+
+- id: idc06-019
+  pdf_start: 97
+  pdf_end: 97
+  title: "Buildings building the city"
+  subtitle: "São Paulo in the Fifties"
+  author:
+    - {family: "Martins", given: "Carlos Alberto Ferreira", ORCID: "0000-0003-4321-2057", country: "BR"}
+
+- id: idc06-020
+  pdf_start: 98
+  pdf_end: 113
+  title: "Ancient and modern cities in the work of Constantine Doxiadis"
+  author:
+    - {family: "Tournikiotis", given: "Panayotis", country: "GR"}
+  keyword: ["Doxiadis", "Constantinos", "Greece (ancient)", "Islamabad"]
+
+- id: idc06-021
+  pdf_start: 114
+  pdf_end: 124
+  title: "Brazil in Modern Architectural Handbooks"
+  author:
+    - {family: "Tinem", given: "Nelci", ORCID: "0000-0003-3202-0906", country: "BR"}
+    - {family: "Borges", given: "Lucia", ORCID: "0000-0001-8978-4048", country: "BR"}
+  keyword: ["Brazilian modern architecture", "modern architectural handbooks", "modern architecture historiography"]
+  references_: # 32 refs
+    - "'Office Building in Brazil' (1943). Architectural Forum 02, 02: 37-44"
+    - "'Brazil' (1947). Architectural Forum 05, 11: 65-117"
+    - "'Brazil' (1944). Architectural Review 567, 03: 58-82"
+    - "ARGAN, G. C. (1954). 'Architettura Moderna in Brasile'. Comunità 24, 04"
+    - "ARGAN, G. C. (1971). L'Arte Moderna 1770-1970. Firenze, Sansoni"
+    - "BENÉVOLO, L. (1960). Storia dell'Architettura Moderna. Bari, Laterza"
+    - "BILL, M. (1954a). 'Lettere al direttore'. Casabella 201, 05"
+    - "BILL, M. (1954b). 'Report on Brazil'. Architectural Review 116, 10: 234/250"
+    - "BONTA, J. P. (1977). Sistemas de Significación en Arquitectura. Barcelona, Gili"
+    - "COSTA, L. (1979). 'Estrutura'. Pampulha, 01"
+    - "COSTA, L. (1962). 'Lúcio Costa por ele mesmo'. Jornal do Brasil"
+    - "FRAMPTON, K. (1980). Modern Architecture: a critical History. London, Thames and Hudson"
+    - "GIEDION, S. (1951). A Decade of Contemporary Architecture. Zurich, Girsberger"
+    - "GIEDION, S. (1941). Space, Time and Architecture. Cambridge, Mass, Harvard University"
+    - "GOODWIN, P. (1943). Brazil Builds. Architecture new and old 1652-1942. New York, Museum of Modern Art"
+    - "HITCHCOCK, H. R. (1948). Architecture Nineteenth and Twentieth Centuries. London, Penguin Books"
+    - "HITCHCOCK, H. R. (1955). Latin American Architecture since 1945. New York, The Museum of Modern Art"
+    - "'especial' 'Brazil' (1947). L'Architecture d'Aujourd'hui 13/14, 09"
+    - "'especial' 'Brazil' (1952). L'Architecture d'Aujourd'hui 42/43"
+    - "'Reidy et le musée d'art moderne' (1960). L'Architecture d'Aujourd'hui 90, 06"
+    - "MINDLIN, H. (1956). Modern Architecture in Brazil. Rio, Amsterdam, Colibris"
+    - "PEVSNER, N. (1936). An outline of European Architecture. London, John Murray"
+    - "PEVSNER, N. (1957). An outline of European Architecture. London, John Murray, 6ª edition"
+    - "ROGERS, E. (1954a). 'Pretexti per una critica non formalista'. Casabella 200, 02: 1-3"
+    - "ROGERS, E. (1954b). 'Polemica per una polemica'. Casabella 201, 05"
+    - "SARTORIS, A. (1931). Gli elementi dell'architettura funzionale. Milan, Ulrico Hoepli"
+    - "TAFURI, M. & DAL CO, F. (1976). Architettura Contemporanea. Venezia, Electa Editrice"
+    - "TAFURI, M. (1984). 'El proyecto histórico'. La esfera y el labirinto. Barcelona, Gili"
+    - "VEYNE, P. (1982). Como se escreve a história. Foucault revoluciona a história. Brasília, UnB"
+    - "ZEVI, B. (1950). Storia dell'Architettura Moderna. Torino, Giulio Einaudi"
+    - "ZEVI, B. (1954). 'La moda lecorbuseriana in Brasile'. Cronache di Architettura 1954/1955. Bari, Laterza, 1971"
+    - "ZEVI, B. (1973). Storia dell'Architettura Moderna. Torino, Giulio Einaudi"
+
+- id: idc06-022
+  pdf_start: 125
+  pdf_end: 129
+  title: "Matrix of Man"
+  author:
+    - {family: "Heynen", given: "Hilde", ORCID: "0000-0002-3920-4890", country: "BE"}
+
+- id: idc06-023
+  pdf_start: 130
+  pdf_end: 138
+  title: "About the teaching of theory and history of Modern Architecture"
+  subtitle: "for the dissemination of new notions and conceptions"
+  author:
+    - {family: "Magnavita", given: "Pasqualino Romano", ORCID: "0000-0002-9571-5775", country: "BR"}
+  references_: # 19 refs
+    - "Benjamin, Andrew. (1989). Deconstruction. N.Y.: Rizzoli."
+    - "Deleuze, Gilles; Guattari, Felix. (1996). Mil Platôs. Rio de Janeiro: Ed.34, vol.1."
+    - "Deleuze, Gilles. (1998). Diferença e Repetição. São Paulo: Graal."
+    - "Foucault, Michel. (1987). Arqueologia do Saber. Rio de Janeiro: Forense Universitário."
+    - "Grau, Cristina. (1995). Borges y la arquitectura. Madrid: Cátedra."
+    - "Heisenberg, Werner. (1995). Física e Filosofia. Brasília: ed. UnB."
+    - "Jameson, Fredric. (1985). Il Post Moderno o La Logica del Tardo Capitalismo. Milan: Garzanti."
+    - "Jencks, Charles. (1989). Arquitectura Internacional — Últimas tendências. Barcelona: Gili."
+    - "Lissitzky, Christine. (1990). El Constructivismo Ruso. Madrid: Alianza Forma."
+    - "Mandelbrot, Benoit. (1983). The Fractal Geometry of Nature. N.Y.: Freeman."
+    - "Moyer, Eiler de Costa. (1995). The work of Antonio Sant'Elia. Yale: Yale University."
+    - "Puppi, Marcelo. (1998). Por uma História não moderna da Arquitetura Brasileira. Campinas: Pontes."
+    - "Rossi, Aldo. (1980). L'architettura della città. Padua: Ed. Marsilio. 2a. ed."
+    - "Tafuri, Manfredo. (1972). La Sfera e il Labirinto. Turin: Einaudi."
+    - "Venturi, Robert. (1977). Complejidad y Contradiccion en la arquitectura. Barcelona: Gili."
+    - "Venturi, Robert; Scott Brown, Denise; Izenour, Steven. (1995). Learning from Las Vegas. Cambridge: MIT Press."
+    - "Virilio, Paul. (1969). O espaço crítico (\"The critical space\"). Rio de Janeiro: ed. 34."
+    - "Virilio, Paul. (1995). A arte do Motor. São Paulo: Ed. Lorentini."
+    - "Zevi, Bruno. (1961). Architecture in nuce. Madrid: Aguilar."
+
+# === Housing Session ===
+
+- id: idc06-024
+  pdf_start: 139
+  pdf_end: 140
+  title: "Housing Session Report"
+  author:
+    - {family: "Glendinning", given: "Miles", ORCID: "0000-0001-5512-5597", country: "GB"}
+
+- id: idc06-025
+  pdf_start: 141
+  pdf_end: 148
+  title: "Fifty years after the INA-Casa"
+  author:
+    - {family: "Di Biagi", given: "Paola", country: "IT"}
+  references_: # 11 refs
+    - "L. Beretta Anguissola (edited by), I 14 anni del piano Ina-Casa, Staderini, Roma 1963."
+    - "Piano incremento occupazione operaia. Case per lavoratori, 1 Suggerimenti, norme e schemi per la elaborazione e presentazione dei progetti, Roma 1949."
+    - "Piano incremento occupazione operaia. Case per lavoratori, 2 Suggerimenti, esempi e norme per la progettazione urbanistica, Roma 1950."
+    - "G. Astengo, \"Nuovi quartieri in Italia\", Urbanistica, 1951, n.7."
+    - "P. Di Biagi (edited by), La grande ricostruzione. Il piano Ina-Casa e l'Italia degli anni '50, Donzelli, Roma 2001."
+    - "J. Le Goff, \"Monumento/Documento\" Enciclopedia Einaudi vol. 5, Einaudi, Torino 1978."
+    - "M. Guillaume, La politique du patrimoine, Galilée, Paris 1980."
+    - "A. Bourdin, \"Sur quoi fonder les politiques du patrimoine urbain?\", Les Annales de la Recherche Urbaine, 1996, n. 72."
+    - "F. Choay, L'allégorie du patrimoine, Editions du Seuil, Paris 1992."
+    - "Les Annales de la Recherche Urbaine, 1996, n. 72, Patrimoine et modernité."
+    - "O. Söderström, Les métamorphoses du patrimoine. Formes de conservation du construit et urbanité, Tesi di dottorato, Università di Losanna, 1992."
+
+- id: idc06-026
+  pdf_start: 149
+  pdf_end: 149
+  title: "Modern City as a tool of russification"
+  subtitle: "Estonian experience"
+  author:
+    - {family: "Kalm", given: "Mart", country: "EE"}
+  keyword: ["Housing", "russification", "colonisation", "immigration", "culture conflicts"]
+
+- id: idc06-027
+  pdf_start: 150
+  pdf_end: 150
+  title: "The heritage of Grands Ensembles"
+  author:
+    - {family: "Panerai", given: "Philippe", country: "FR"}
+  keyword: ["France", "Grands Ensembles"]
+
+- id: idc06-028
+  pdf_start: 151
+  pdf_end: 161
+  title: "A la recherche de la maison moderniste perdue"
+  author:
+    - {family: "Marques", given: "Sonia", country: "BR"}
+    - {family: "Trigueiro", given: "Edja", ORCID: "0000-0003-2847-5326", country: "BR"}
+  keyword: ["Modernist house", "Change and continuity", "Space configuration"]
+  references_: # 26 refs
+    - "Amorim, L.M.E. (1999). ‘The sectors’ paradigm: a study of the spatial function and nature of modernist housing in Northeast Brazil’. Doctoral thesis, University College"
+    - "Hanson, J. (1992). ‘Tradition and Experimentation in"
+    - "Housing and Neighbourhood Design’ in Proceedings of Prospects on Housing Policy and Technology Devel- opment for the 21st Century, Korea, pp.139-186."
+    - "Hanson, J. (1998). Decoding homes and houses. Cam- bridge University Press."
+    - "Hillier, B. & Hanson, J. (1984) The social logic of space."
+    - "Cambridge University Press."
+    - "Holanda, F. (1999). ‘Sintaxe de uma casa-átrio moderna’, paper presented at DOCOMOMO, Sao Paulo, mimeo."
+    - "Loureiro, C e Marques, S. (1999). ‘Morar novo, cenário antigo’, paper presented at ANPUR, Porto Alegre, mimeo."
+    - "Marques, S. (1994). ‘Arquitetura Brasileira. uma pós/ modernidade mais do que contraditória”, paper pre- sented at ANPOCS, Caxambu, mimeo."
+    - "Teles, V.M.M. (1999). “O grau de satisfação e as mudanças ocorridas no condomínio Leonardo da Vinci”,"
+    - "Specialisation Final Work, Natal, UFRN"
+    - "From the public space From the exterior trough all doors through the front door"
+    - "D - Dining room"
+    - "V -Visitor’s room"
+    - "T - social Terrace"
+    - "B — Master bed"
+    - "RUA ADAUTO CÂMARA"
+    - "RUA DO MOTOR"
+    - "RUA HENRY KOSTER Source: Galvão, V. C. et al. (2000)"
+    - "“Levantamento histórico das edificações”, Coursework, UFRN."
+    - "RUA OLIVEIRA GALVAO (2) Source: Dantas, U. C. (2000)"
+    - "“Arquitetura modernista: um exemplar em Natal”."
+    - "RUA JUNDIAÍ Source: Rodrigues, A. (1999)"
+    - "“Platibanda azul”, Coursework, UFRN"
+    - "RUA PINTO MARTINS"
+    - "AV. SILVIO PEDROSA Source: Guedes, A. A. et al. (1999)"
+
+- id: idc06-029
+  pdf_start: 162
+  pdf_end: 166
+  title: "Creating historic modern cities, by learning from modern historic cities"
+  author:
+    - {family: "Meurs", given: "Paul", country: "NL"}
+
+# === Public Space Session ===
+
+- id: idc06-030
+  pdf_start: 167
+  pdf_end: 174
+  title: "SOS Berlin Alexander Platz"
+  subtitle: "the razing of DDR Modernism"
+  author:
+    - {family: "Cavalcanti-Brendle", given: "Maria de Betania", country: "BR"}
+  keyword: ["politics", "symbolism", "cultural heritage", "urban destruction", "reconstruction"]
+  references_: # 38 refs
+    - "Demokratischen Republik. VEB Verlag fir Bauwesen"
+    - "Baumeister, Nicollete & Bodenschatz, Harald & Ginter,"
+    - "Angelika (1995) Das ehemalige Staatsratgebaude auf"
+    - "Senatsverwaltung fiir Bauen, Wohnen und Verkerhr. der Spreeinsel. In: Eine Zukunft fir das Ehemalige"
+    - "Bezirksamt Mitte von Berlin. (1997) Der Alexanderplatz"
+    - "Staatsratsgebáude! Berlin: Architektenkammer Berlin und die Alexanderstrasse. Berlin. and the Deutscher Werkbund Berlin."
+    - "Senatsverwaltung fir Stadtentwicklung Berlin (2000)"
+    - "Beyme, Klaus & Durth, Werner & Gutschow, Niels &"
+    - "Letter to the Author with the Report: Planungsgebiet"
+    - "Nerdinger, Winfrid & Topfstedt (1992) Neue Stadte aus"
+    - "Alexanderplatz. Bebauungsplan | -B4a. Ziele, Inhalte der"
+    - "Ruinen. Deutscher Stadtebau der Nachkriegszeit. Prestel-"
+    - "Verlag. Múnchen. Planung, das Bebauungsplanverfahren und seine geplante Umsetzung. Berlin."
+    - "Bodenschatz, Harald (1994) Baudenkmal in Gefahr."
+    - "Topfstedt, Thomas (1988) Stadtbau in der DDR. 1955-"
+    - "Berliner Zeitung. 17.June. Berlin. 1971. VEB E.A. Seemann Verlag. Leipzig."
+    - "Cavalcanti, Maria de Betânia Uchôa (1994) Urban"
+    - "Tscheschner, Dorothea (1994) Der Alexanderplatz. Seine"
+    - "Reconstruction and Autocratic Régimes: the Case of"
+    - "Entwicklung nach 1945. In: Alexanderplatz. Stadte-"
+    - "Bucharest. PhD Thesis at Oxford Brookes University. baulicher Ideenwettbewerb. Ernst & Sohn. Berlin."
+    - "Tscheschner, Dorothea (1993) Der Ideenwettbewerb zur"
+    - "Cavalcanti, Maria de Betânia Uchôa (1997) Urban sozialistischen Umgestaltung des Zentrums der"
+    - "Reconstruction and Autocratic Regimes: Ceausescu’s"
+    - "Hauptstadt der Deutschen Demokratischen Republik,"
+    - "Bucharest in its Historic Context. Planning Perspectives,"
+    - "Berlin. In: Hauptstadt Berlin - Wohin mit der Mitte. n.12, pp.71-109. E.& FN Spon. London."
+    - "Akademie Verlag. Berlin."
+    - "Cavalcanti, Maria de Betânia Uchôa & Brendle, Klaus"
+    - "Verein Entwicklungsgemeinschaft Alexanderplatz (1994) (1998) Transformações Urbanas e Arquitetônicas na"
+    - "Alexanderplatz. Stadtebaulicher Ideenwettbewerb. Ernst"
+    - "Alemanha Reunificada. Conference Proceedings of the & Sohn. Berlin. V Seminário História da Cidade e do Urbanismo. PUC-"
+    - "Volk, Waltraud (1971) Berlin Hauptstadt der DDR."
+    - "Historische Strassen und Plátze heute. Verlag fir"
+    - "Deutscher Bundestag. Baukomission des Altestenrates"
+    - "Bauwesen. Berlin. (1994) Lettert o Dr. Harald Bodenschatz. In: Eine Zukunft fir das Ehemalige Staatsratsgebaude ! Berlin: Weiss, Patrick (1994) Notes on the Competition Proce-"
+    - "Architektenkammer Berlin and the Deutscher Werkbund dure. In: Alexanderplatz. Stadtebaulicher Ideen-"
+    - "Berlin. wettbewerb. Ernst & Sohn. Berlin. 172"
+
+- id: idc06-031
+  pdf_start: 175
+  pdf_end: 179
+  title: "Airport as city square"
+  subtitle: "Toronto, Edmonton and Winnipeg Airports, 1964"
+  author:
+    - {family: "Flaman", given: "Bernard", country: "CA"}
+  keyword: ["politics", "symbolism", "cultural heritage", "urban destruction", "reconstruction"]
+
+- id: idc06-032
+  pdf_start: 180
+  pdf_end: 180
+  title: "In Search of the Sublime Villanueva and the Central University Campus in Caracas"
+  author:
+    - {family: "Lasala", given: "Silvia Hernández de", country: "VE"}
+
+- id: idc06-033
+  pdf_start: 181
+  pdf_end: 183
+  title: "Clone city"
+  subtitle: "Modernism, Landscape and the crisis of the European conurbation"
+  author:
+    - {family: "Glendinning", given: "Miles", ORCID: "0000-0001-5512-5597", country: "GB"}
+  references_: # 7 refs
+    - "Italian Clone City equivalent: Luca Molinari and Mirko Zardini, Archis, July 1999, p.42"
+    - "M Glendinning and D Page, Clone City: Crisis and Renewal in Contemporary Scottish Architecture, 1999"
+    - "Geddes: M Glendinning et al, A History of Scottish Architecture, 1996, Chapter 7"
+    - "P Abercrombie and R H Matthew, The Clyde Valley Regional Plan 1946, 1949"
+    - "F Mears, A Regional Survey and Plan for Central and South East Scotland, 1948"
+    - "Walter Stephen, 'The Republic of Patrick Geddes'/'Patrick Geddes and the City as Organic Unity', Edinburgh Architecture Research, 1994 and 1995; 'History, Biology and City Design', Architectural He..."
+    - "P R Gittner, Grieve on Geddes, 1990."
+
+- id: idc06-034
+  pdf_start: 184
+  pdf_end: 186
+  title: "Rethinking the core of the city"
+  subtitle: "beyond functionalism in the Hiroshima Peace Center by Kenzo Tange"
+  author:
+    - {family: "Watanabe", given: "Kenji", country: "JP"}
+    - {family: "Yamana", given: "Yoshiyuki", country: "JP"}
+  references_: # 11 refs
+    - "Edited by MARS Group (1951), CIAM8 Documents:"
+    - "Report of the Hoddesdon Conference, London"
+    - "Edited by Tyrwhitt, J. et al (1952), The Heart of the City: towards the humanization of urban life, London, Lund"
+    - "Tange, K.(10.1951), Youroppa-no-Kyoshu (European"
+    - "Homesickness), Tokyo, Kokusai-kenchiku"
+    - "Mayekawa, K. Tange, K et al (12 1951), Oubeishakai- kindaikenchiku-no-choryu-CIAM-to-Youroppakenchiku"
+    - "(Modern Movement in Western countries-CIAM and"
+    - "European Architecture), Tokyo, Kokusai-kenchiku"
+    - "Tange, K. (1.1955), Hiroshima Plan 1946-1953, To- kyo, Sinkenchiku"
+    - "Tange, K. (1966), 1946-1958 Genjitsu-to-Sozo (Real- ity and Creation), Tokyo, Bijyutsushuppansha"
+    - "Edited by Bettinotti, M. (1996), Kenzo Tange 1946- 1996, Architecture and Urban Design, Milano, Electa"
+
+- id: idc06-035
+  pdf_start: 187
+  pdf_end: 192
+  title: "Public Spaces by Burle Marx"
+  author:
+    - {family: "Mazza Dourado", given: "Guilherme", country: "BR"}
+  keyword: ["Kenzo Tange", "Hiroshima Peace Centre", "CIAM", "modern movement in Japan", "Core", "Urbanism"]
+
+- id: idc06-036
+  pdf_start: 193
+  pdf_end: 200
+  title: "The \"Ville Verte\""
+  subtitle: "Rethinking City Landscape"
+  author:
+    - {family: "Panzini", given: "Franco", country: "IT"}
+  keyword: ["Landscape", "Le Corbusier", "Public parks", "Open Space", "Urban environment"]
+
+# === Urban Conservation Session ===
+
+- id: idc06-037
+  pdf_start: 201
+  pdf_end: 201
+  title: "Urban Conservation Session Report"
+  author:
+    - {family: "Meurs", given: "Paul", country: "NL"}
+
+- id: idc06-038
+  pdf_start: 202
+  pdf_end: 207
+  title: "The Modern Movement City Planning in the Russian Provinces"
+  author:
+    - {family: "Molema", given: "Jan", country: "NL"}
+    - {family: "Nevzgodine", given: "Ivan V.", country: "RU"}
+  keyword: ["Rehabilitation", "Constructivism", "Siberia"]
+
+- id: idc06-039
+  pdf_start: 208
+  pdf_end: 215
+  title: "Contextualism & Rupture"
+  subtitle: "Modernism in the Post-War Reconstruction of Lübeck"
+  author:
+    - {family: "Brendle", given: "Klaus", country: "DE"}
+  keyword: ["Rehabilitation", "Constructivism", "Siberia", "Netherlands"]
+  references_: # 17 refs
+    - "Alberts, Klaus & Höhns, Ulrich (Eds.) (1994) Architektur in Schleswig-Holstein seit 1945. Junius Verlag. Hamburg."
+    - "Amt für Denkmalpflege der Hansestadt Lübeck (Ed.) Lübeck. Altstadt Weltkulturerbe. Charles Coleman Verlag. Lübeck."
+    - "Andresen, Hans-Günther (1989) Bauen in Backstein. Schleswig-Holsteinische Heimatschutz-Architektur zwischen Tradition und Reform. Westholsteinische Verlagsanstalt Boyens & Co. Heide in Holstein."
+    - "Becker, Martin & Mehlhorn, Dieter-J. Siedlungen der zwanziger Jahre in Schleswig-Holstein. Westholsteinische Verlagsanstalt Boyens & Co. Heide."
+    - "Beyme, Klaus et al. (1992) Neue Städte aus Ruinen. Deutscher Städtebau der Nachkriegszeit. Prestel-Verlag. München."
+    - "Brix, Michael (Ed.) (1975) Lübeck. Die Altstadt als Denkmal. Heinz Moos Verlag. München."
+    - "Drieschner, Axel (2000) Zum 100. Geburtstag von Paul Baumgarten. Bauwelt N.18."
+    - "Durth, Werner & Gutschow, Niels (Eds.) (1987) Architektur und Städtebau der Fünfziger Jahre. Schriftenreihe des Deutschen Nationalkomitees für Denkmalschutz, N.33. Bonn."
+    - "Durth, Werner & Gutschow, Niels (Eds.) (1990) Architektur und Städtebau der Fünfziger Jahre. Ergebnisse der Fachtagung in Hannover 1990. N.41. Bonn."
+    - "Lange, Ralf (1994) Hamburg — Wiederaufbau und Neuplanung 1943-1963. Hans Köster Verlagsbuchhandlung KG. Königstein im Taunus."
+    - "Latzel, Sabine (2000) Architekten-Idee: Haerder weg, Parkhaus weg. Lübecker Nachrichten N.56."
+    - "Lübecker Nachrichten (Ed.) Lübeck aus der Luft gesehen. Farbbildmappe der Lübecker Nachrichten."
+    - "Mai, Kurt (1999) Bauen in Lübeck. Städtische Hochbauten und Kunst am Bau 1949-1969. Verlag Schmidt-Römhild. Lübeck."
+    - "Meyer, G. (Ed.) (1986) Lübeck 1945. Verlag Schmidt-Römhild. Lübeck."
+    - "Pieper, Hans (1946) Lübeck. Städtebauliche Studien zum Wiederaufbau einer historischen deutschen Stadt. BR.Sachse Verlag. Hamburg."
+    - "Senat und Bürgerschaft der Hansestadt Lübeck (Eds.) (1955) Lübeck zehn Jahre danach. Lübeck."
+    - "Senat der Hansestadt Lübeck (Ed.) (1995) Lübecker Markt. Städtebaulicher Ideenwettbewerb mit Realisierungsteil. N.61. Lübeck."
+
+- id: idc06-040
+  pdf_start: 216
+  pdf_end: 223
+  title: "Large scale interventions in Boston's Back Bay (1950-present)"
+  subtitle: "a self-correcting Modernist Urbanism"
+  author:
+    - {family: "Fixler", given: "David", country: "US"}
+    - {family: "Lipstadt", given: "Hélène", country: "US"}
+  keyword: ["post-war reconstruction", "Lübeck", "contextualism", "old & new built forms", "Modernism in historic centres"]
+  references_: # 5 refs
+    - "Interviews with Henry Cobb of Pei, Cobb, Freed and Partners, March 16, 2000 and Robert Sturgis, May 23, 2000."
+    - "Lynch, Kevin (1959). The Image of the City. Cambridge: MIT Press."
+    - "Interview with Anida Casutto, March 16, 2000."
+    - "Moneo, Raphael (1989). 'Concerning the Hancock Tower'. Harvard Architecture Review 7. Cambridge."
+    - "Interview with Henry Cobb, op.cit."
+
+- id: idc06-041
+  pdf_start: 224
+  pdf_end: 230
+  title: "Brussels skyscrapers"
+  subtitle: "problems of identity. Destroying in the name of protection"
+  author:
+    - {family: "Moutury", given: "Sarah", country: "BE"}
+  keyword: ["Skyscraper", "Brussels", "urban policy", "heritage preservation"]
+  references_: # 10 refs
+    - "Hatier. under way in some circles. Witness several punctual * Bekaert, G., Strauven F. (1970). La construction en attempts to reclaim the city in its most unwelcoming"
+    - "Belgique 1945-1970. Brussels: CNC. quarters. For example, open-air parties and film * Bekaert, G. (1996). Architecture contemporaine en projections were recently put on in the gardens of"
+    - "Belgique. Brussels: Racine. the Cité Administrative de |’Etat and along the North- * Demey T. (1990-1992). Bruxelles. Chronique d'une"
+    - "South Junction viaduct. As part of the opening cer- capitale en chantier. Brussels: Paul Legrain, 2 vol. emonies for Brussels 2,000 (Cultural Capital of * Lacour M. et al. (1987). Morphologie urbai..."
+    - "Europe), words were displayed at night on the fa- Bruxelles. Brussels: CERAA. * La Fonderie & le Foyer Bruxellois (octobre 1997). 3000 cades of Brussels skyscrapers in huge letters made"
+    - "Foyers Bruxellois, dossier nº 2 of Cahiers de la Fonderie. up of lit-up or occluded windows. Passersby were * Plissart M.F, Peeters, B. (1998). Bruxelles, horizon given a playful opportunity to red..."
+    - "Brussels: Marc Lacour. * Exhibition Catal. (1982). Pierres et rues. Bruxelles: croissance urbaine 1780-1980. Brussels: F Poot * Exhibition Catal. (1999). The Century of the Office. 1900-2000. Bruss..."
+    - "Preparatory document adopted by the Government on 04.02.1999. (The Municipal Development Plan is re- ferred to as PCD in the text.) * Articles by François Robert in Le Soir newspaper: 07.10.1998: ‘..."
+    - "Westbury’, p. 20. 22.10.1998: ‘De Donnéa décapite la tour du Lotto. “Ce qui est petit est beau”. Le nouveau credo urbanistique de la Ville vient de faire sa premiére victime’, p. 21. 16.03.1999: ‘P..."
+    - "La tour du Lotto rabotée de 12 étages’. 09.04.1999: ‘C’est dans le PCD... D'autres tours à raboter, dans le Pentagone?’, p. 21. 28.10.1999: ‘Un milliard pour un nouvel hôtel, des bureaux et un “Hea..."
+
+# === Register Session ===
+
+- id: idc06-042
+  pdf_start: 231
+  pdf_end: 236
+  title: "Coming of age"
+  subtitle: "Scottish new towns in the 21st Century"
+  author:
+    - {family: "Witham", given: "David", country: "GB"}
+  keyword: ["new towns", "regional context", "history and significance of Cumbernauld", "dilemmas of conservation and planning for change", "new towns as exemplars for future development"]
+  references_: # 8 refs
+    - "Architectural Design; May 1963, pp 206-225."
+    - "Abercrombie, Sir Patrick & Matthew, Robert M (1949)"
+    - "The Clyde Valley regional plan, Edinburgh."
+    - "Adam Smith Institute (1988) Livingston plc, | presume?,"
+    - "The Planning Exchange (1997) The new towns record:"
+    - "London. 1956-1996, Glasgow."
+    - "Banham, Reyner (1976) Megastructure, London. 8 David Whitham, October 2000"
+    - "City of Glasgow Corporation (1947) First and second planning reports, 2\"! edition, Glasgow."
+
+- id: idc06-043
+  pdf_start: 237
+  pdf_end: 248
+  title: "The social housing in the 1920's"
+  subtitle: "the garden city concept"
+  author:
+    - {family: "Basyn", given: "Jean-Marc", country: "BE"}
+    - {family: "Verpoest", given: "Luc", country: "BE"}
+  keyword: ["social housing", "garden-city", "large scale high rise ensembles", "urban concept", "analysis and conservation policy"]
+
+- id: idc06-044
+  pdf_start: 249
+  pdf_end: 254
+  title: "X-ray the city! Ernest Fooks, modern planner in the new world"
+  author:
+    - {family: "Townsend", given: "Catherine", ORCID: "0000-0002-3679-1233", country: "AU"}
+  references_: # 36 refs
+    - "(1945). Housing in victorial. Architecture (April-June):"
+    - "Australia between 1930 and 1960: their experience ppl 80-185. and contribution to Australian architecture”. An Aus-"
+    - "(1950). Neighbourtlood Shopping Centres. Newiands tralian Postgraduate Award from the Commonwealth"
+    - "Estate, Coburg’. Australian Housing Bulletin. No 20."
+    - "Government of Australia funds her thesis."
+    - "(April): pp359-361."
+    - "Barron, Stephanie. (1997). European Artists in Exile: A"
+    - "Reading between the lines. Exiles and E~migrés. The"
+    - "Hkjht of European Artists ftorn Hiffer. New York- Hany N. Abrams."
+    - "Boyd, Robin. (1947). Victorian Modern: one hundred and eleven years of modern architecture in Victoria,"
+    - "Australia. Melbourne: Architectural StudenW Society of the Royal Victorian Institute of Architects."
+    - "Boyd, Robin. (1960). The Australian Ugliness. Melbourne: FW. Cheshire."
+    - "Broorne, Richard. (1987). Coburg. Between two creeks. Melbourne: Lothian Publishing Company"
+    - "Curtis, William. (1996). Modern Architecture since 1900. 3d ed. London: Phaidon,"
+    - "Fooks, Emest. (1946). X-Ray the City! The Density Dia- gram: Basis for Urban Planning. Melbourne: Ruskin Press."
+    - "Fuchs, Ernst. (1942) The Democratic CR)(. The"
+    - "Austraflan Quarterly. Vol XIV. No. 1. (March): pp81-85."
+    - "Goad, Philip. (2000 forthcoming). Sanctioning Modemism: Architecture in Australia 1930-1970\". Fibro"
+    - "House to opera House: conserving architecture at rnid-century. Sydney: Museum of Sydney."
+    - "Historic Buildings Branch, Office of Housing and Con- struction, Department of Planning and Housing. (1991)"
+    - "Newiands Estate Shopping Centre Corner Murray Road and Efizabeth Street Coburg. Photographic Record"
+    - "Housing Commission of Victoria. (1938-1939 to"
+    - "1949-1950). First Annual Report - Tweitth Annual Re- port."
+    - "Hubbard, Timothy. (1990). City of Coburg Heritage"
+    - "Conservation and Streetscape Study."
+    - "Mees, Paul. (2000). A Very Public Solution. Transport in the Dispersed City. Melbourne: Melbourne University"
+    - "National Trust. Newlands Estate Shopping Centre File"
+    - "B6211 including Raworth, Bryce Newiands Estate Shop- ping Centre: Classification Report (c 1991)."
+    - "Sandercock, Leonie. (1990). Property, Politics and Ur- ban Planning. a History of Australian City Planning"
+    - "1890-19w. 2nd ed. London: Transaction Publishers."
+    - "State Library of Victoria, Australia. Frank Heath Picture"
+    - "Collection LTAD20."
+    - "State Library of Victoria, Australia. 8. & J. Johnson Col- lection MS 13214"
+    - "Willis, Julie. (1997) Women in Architecture in Victoria"
+    - "1905-1955: their education and professional life. PhD thesis, University of Melbourne, Australia."
+    - "Marieke Kuipers sation and rebuilding obligation. In 1946 the ASRO"
+
+- id: idc06-045
+  pdf_start: 255
+  pdf_end: 268
+  title: "Modern shops and modern shapes"
+  subtitle: "registration versus regeneration"
+  author:
+    - {family: "Kuipers", given: "Marieke", country: "NL"}
+  keyword: ["documenting and developing early shopping centres", "Lijnbaan", "Rotterdam"]
+
+# === Technology Session ===
+
+- id: idc06-046
+  pdf_start: 269
+  pdf_end: 273
+  title: "Power Architecture in Modern New Zealand"
+  author:
+    - {family: "Leach", given: "Andrew Stuart", country: "NZ"}
+  keyword: ["Electrification", "New Zealand", "F. H. Newman", "Power Station"]
+
+- id: idc06-047
+  pdf_start: 274
+  pdf_end: 283
+  title: "Essential war material, modernist harbinger"
+  subtitle: "unseasoned hardwood and its implications for the Post-war Australian city"
+  author:
+    - {family: "Goad", given: "Philip", ORCID: "0000-0002-8315-4325", country: "AU"}
+    - {family: "Willis", given: "Julie", ORCID: "0000-0002-1605-2791", country: "AU"}
+  keyword: ["Electrification", "New Zealand", "F. H. Newman", "Power Station"]
+  references_: # 9 refs
+    - "Martin, J. E. (1998). People, Politics and Power Stations:"
+    - "Electric Power Generation in New Zealand 1880-1998, 2\" ed. Wellington: Bridget Williams Books and the Elec- tricity Corporation of New Zealand."
+    - "Newman, F. (1959). “Architecture in Hydro Design,”"
+    - "Journal of the New Zealand Institute of Architects 26 (3): 71-81."
+    - "Newman, F. (1952b). “Beauty in Engineering,” Design"
+    - "Review 4(4): 88-89."
+    - "Newman, F. (1952a). Social Factors in Architecture and"
+    - "Their Implications for New Zealand. Wellington: Wright and Carmen."
+    - "Newman, F. (c1956). Unpublished Exhibition Notes, Hy- droelectric Design Office, Ministry of Works Exhibition."
+
+- id: idc06-048
+  pdf_start: 284
+  pdf_end: 289
+  title: "Brazilian Modern Architecture"
+  subtitle: "climatic adaptation principles"
+  author:
+    - {family: "Klüppel", given: "Griselda Pinheiro", country: "BR"}
+  keyword: ["modern architecture", "building technology", "tropical environmental design", "solar control"]
+  references_: # 10 refs
+    - "Adolpho, Diva. (1997). Aplicação no cultural Issa — Iandinha. Rio de Janeiro, IPHAN."
+    - "Bonduki, Nabil, Portinho, Carmen. (2000). Alfonso Eduardo Reidy. Editorial Blau e Instituto Lina e P. M. Bardi."
+    - "Bruand, Yves. (1997). Arquitetura contemporânea no Brasil. 3ª edição, São Paulo: Editora Perspectiva S.A."
+    - "Costa, Lúcio. (1995). Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes/UNB."
+    - "Givoni, B. (1981). Man, Climate and Architecture. Applied Science Publishers Ltd, London. 2ª edição."
+    - "Goodwin, Philip L. (1943). Brazil Builds: Architecture New and Old 1652-1942. New York: MOMA."
+    - "Hitchcock, Henry-Russell. (1994). Die Architecten des 19. und 20. Jarhunderts. München: Aries Verlag."
+    - "Mindlin, Henrique E. (1956). Modern Architecture in Brazil. Rio de Janeiro/Amsterdam: Colibris Editora Ltda."
+    - "Paredes, Alexandre. (1997). Arquitetura Moderna em São José dos Campos. São Paulo."
+    - "Segawa, H. e Dourado, G. M. (1997). Oswaldo Arthur Bratke. São Paulo: ProEditores."
+
+- id: idc06-049
+  pdf_start: 290
+  pdf_end: 306
+  title: "Transitions in modernist factory planning in São Paulo 1945-1955"
+  subtitle: "the influence of British and North-American design ideas"
+  author:
+    - {family: "Gunn", given: "Phillip", country: "BR"}
+  keyword: ["factory", "architecture", "fordism", "Brazil", "industry"]
+  references_: # 13 refs
+    - "Ackel, Luís Gonzaga Monteiro. \"Attílio Correa Lima: um urbanista brasileiro 1930-1943\", São Paulo, dissertação de mestrado, Univ. de Mackenzie, 1996."
+    - "Buchanan, Colin. \"Traffic in Towns\", Harmondsworth, Penguin, 1963."
+    - "Crawford, Margaret. \"Building the Workingman's Paradise — The Design of American Company Towns\", London, Verso Books, 1996."
+    - "Geurst, Jeroen e Futagawa, Yukio. \"J.A. Brinkman and L.C. Van der Vlugt — Van Nelle Factory, Rotterdam, The Netherlands 1925-31\", Tokyo, ADA Edita, 1994."
+    - "Gramsci, Antonio. \"Selections from the prison notebooks\", London, Lawrence & Wishart, 1971."
+    - "Gunn, Philip. \"Lima Nova: Geografia Industrial Emergente\", São Paulo, 1992."
+    - "Lopes, Alberto Costa. \"A Aventura da Cidade Industrial de Tony Garnier em Volta Redonda\", Rio de Janeiro, Masters Dissertation, UFRG, 1993."
+    - "Penedo, Alexandre. \"Arquitectura Moderna São José dos Campos\", São José dos Campos, 1997."
+    - "Reid, Kenneth (Ed.). \"Industrial Buildings — The Architectural Record of a Decade\", N.York, FW.Dodge, 1951."
+    - "Sharp, Denis & Futagawa, Yukio. \"Walter Gropius: Bauhaus, Dessau, Germany, 1925-26; Fagus factory, Alfeld-an-der-Leine, Germany 1911-25\", Tokyo, ADA Edita, 1994."
+    - "Sloan Jr., Alfred P. \"My Years with General Motors\", New York, 1963."
+    - "Unwin, R. (1909). \"Town Planning in Practice\", T. Fisher Unwin, London, 2nd ed. 1911."
+    - "Xavier, Alberto; Lemos, Carlos & Corona, Eduardo. \"Arquitetura Moderna Paulistana\", São Paulo, Ed. Pini, 1983."
+
+# === Main Theme Closing Lectures ===
+
+- id: idc06-050
+  pdf_start: 307
+  pdf_end: 312
+  title: "Revisiting Chandigarh"
+  subtitle: "the question of preservation and intervention in the Sector 17 Central Chowk"
+  author:
+    - {family: "Sagar", given: "Jagdish", country: "IN"}
+  keyword: ["Le Corbusier", "Chandigarh", "City Centre", "preservation", "intervention"]
+  references_: # 7 refs
+    - "Ravi Kalia, Chandigarh: The Making of an Indian City, Oxford University Press, Delhi 1987."
+    - "Jaspreetkahlur (ed.), Celebrating Chandigarh, Mapin, 2002, p. 194."
+    - "Chandigarh Tribune, August 31, 2001."
+    - "Charles Correa in Celebrating Chandigarh, p. 196."
+    - "Sun-Aseya Improvement and Clearance Act, 1956."
+    - "Madhu Sarin, Urban Planning in the Third World: The Chandigarh Experience, Mansell Publishing, London 1982."
+    - "Rajnindran et al., Chandigarh Lifescape: Brief Social History of a Planned City, Chandigarh Perspectives, 1999."
+
+- id: idc06-051
+  pdf_start: 313
+  pdf_end: 318
+  title: "Brasilia facing the future"
+  author:
+    - {family: "Zimbres", given: "Paulo", country: "BR"}
+
+- id: idc06-052
+  pdf_start: 319
+  pdf_end: 319
+  title: "Perspectives"
+  author:
+    - {family: "Sobreira", given: "Cláudia", ORCID: "0000-0002-7420-1644", country: "BR"}
+  keyword: ["Brasília", "urban sprawl", "future trends", "urban configuration", "world heritage"]
+
+- id: idc06-053
+  pdf_start: 320
+  pdf_end: 326
+  title: "The Modern City facing the future"
+  author:
+    - {family: "Cunningham", given: "Allen", country: "GB"}
+  keyword: ["Urban", "Form", "Process", "Future"]
+
+# === 7th International DOCOMOMO Conference ===
+
+- id: idc06-054
+  pdf_start: 327
+  pdf_end: 330
+  title: "The Reception of Modern Architecture"
+  author:
+    - {family: "Chevallier", given: "Fabienne", country: "FR"}
+  keyword: ["DOCOMOMO International Conference", "Reception Theory"]
+  references_: # 7 refs
+    - "Barré-Despont, A., ed. (1996), Dictionnaire international are among her fields of research. Her last book, L’ des arts appliqués et du design, Paris, Ed.du Regard. ceuvre d’ Eliel Saarinen en Finla..."
+    - "Bayer H., Gropius W. and al., preface by A. Barr (1938; I’ architecture nationale de 1898 à 1909, is a contri- second printing 1952; third printing 1959), Bauhaus bution to the History of the idea ..."
+    - "Bourdeix P (1919), ‘Uurbanisme’, La Construction Moderne, 1º mars 1919, Paris : 34-35."
+    - "Bourdeix, P (1920), ‘ Une conférence interalliée de Town Planning ‘, La Construction Moderne, 15 février 1920, Paris : 153-155."
+    - "Chevallier, F (2000), ‘ Finland through French Eyes:"
+    - "Alvar Aalto’s Pavilion at the Paris International Exhibi- tion of 1937 ‘. Decorative Arts, the Bard Graduate Cen- ter for Studies in the Decorative Arts, vol.VIl, number 1 (Fall-Winter 1999-2000), ..."
+    - "Cohen, J.-L. (1992), Le Corbusier and the mystique of 329"
