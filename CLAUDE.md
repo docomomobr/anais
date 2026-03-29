@@ -10,7 +10,7 @@ Fontes das seções/eixos temáticos: [`docs/fontes_secoes.md`](docs/fontes_seco
 
 ## Seminários revisados — NÃO ALTERAR
 
-45 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-09).
+46 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-09, idc06).
 **NÃO modificar seus dados** sem pedido explícito do usuário.
 Tabela completa: [`docs/seminarios_revisados.md`](docs/seminarios_revisados.md)
 
@@ -75,6 +75,7 @@ Procedimento completo: [`docs/zenodo_dataset.md`](docs/zenodo_dataset.md).
 ```
 anais/
 ├── nacionais/           # Seminários nacionais (sdbr01-sdbr15)
+├── internacional/       # Conferências internacionais (idc06)
 ├── regionais/
 │   ├── nne/             # Norte/Nordeste (sdnne01-10)
 │   ├── se/              # Sudeste (sdmg01, sdrj02-04, sdsp03-09)
@@ -140,12 +141,14 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 - [x] **3 Rio** (sdrj02-04): 42 artigos revisados
 - [x] **10 N/NE** (sdnne01-10): 545 artigos revisados
 - [x] **5 Sudeste SP** (sdsp03, sdsp05-09): 289 artigos revisados
+- [x] **1 Internacional** (idc06): 53 artigos revisados
 
 ### Produção (pipeline_producao.md)
 
 - [x] Site Hugo: deploy em `anais.docomomobrasil.com` (GitHub Pages)
 - [x] Zenodo: nacionais publicados (community `docomomobr`, CC-BY-4.0)
-- [ ] Zenodo: regionais pendentes
+- [x] Zenodo: regionais publicados
+- [x] Zenodo: idc06 publicado (53 artigos + volume completo)
 - [ ] DOIs via ABEC/Crossref (DOI por edição)
 - [ ] Migração OJS → Hugo + redirects
 

@@ -567,3 +567,15 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - **db2hugo.py**: exporta title_en, subtitle_en, abstract_en, keywords_en, abstract_es, keywords_es
 - **Template Hugo**: abstract/keywords EN e ES exibidos; keywords são links para taxonomia `palavras-chave`
 - **Control chars**: removido U+0002 de sdbr08-166.abstract, U+0083 de sdsp03-016.abstract_en
+
+### 2026-03-29 — idc06: 6th International DOCOMOMO Conference
+
+- **idc06**: 53 artigos da 6ª Conferência Internacional DOCOMOMO (Brasília, 2000). Primeiro seminário internacional no acervo.
+- **Re-split do PDF**: proceedings completo (358p) re-splitado com páginas corrigidas por revisão humana. idc06-052 removido (absorvido pelo 051).
+- **Referências**: 409 refs extraídas (imagens + plumber), 0 problemas no check_references.
+- **Zenodo**: 53 artigos publicados com DOI na community docomomobr + volume completo (record 19316491).
+- **Site Hugo**: âmbito "Internacional" adicionado. Menu com link "int". Capa na home.
+- **Scripts**: db2hugo.py e upload_zenodo.py atualizados com mapeamento `idc` → `internacional/`.
+- **Template**: botão "PDF da edição completa" agora aponta para URL (Zenodo) em vez de href="#".
+- **Dataset Zenodo**: v1.1 via GitHub release. Documentado em `docs/zenodo_dataset.md`.
+- **Totais**: 46 seminários, 2.767 artigos, 2.514 autores.
