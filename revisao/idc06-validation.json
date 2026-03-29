@@ -11,28 +11,9 @@
     "keywords": 35,
     "keywords_en": 0,
     "keywords_es": 0,
-    "references_": 26
+    "references_": 24
   },
   "auto_fixed": [],
-  "issues": [
-    {
-      "check": "A11",
-      "article_id": "idc06-025",
-      "field": "references_",
-      "severity": "warning",
-      "auto_fixable": false,
-      "ref_index": 0,
-      "detail": "Ref muito longa (1011 chars), possível concatenação: \"Ina-Casa, Staderini, Roma 1963. borhoods produced by the Ina-Casa Plan, are they...\"",
-      "suggestion": "Verificar e separar se necessário"
-    }
-  ],
-  "category_b_candidates": [
-    {
-      "article_id": "idc06-025",
-      "checks_flagged": [
-        "A11"
-      ],
-      "reason": "Ref muito longa (1011 chars), possível concatenação: \"Ina-Casa, Staderini, Roma 1963. borhoods produced by the Ina-Casa Plan, are they...\""
-    }
-  ]
+  "issues": [],
+  "category_b_candidates": []
 }
