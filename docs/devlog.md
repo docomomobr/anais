@@ -601,3 +601,8 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - **idc06 revisão fechada**: rev-status.md criado, seminarios_revisados.md atualizado
 - **Deploy**: taxonomias EN/ES, abas CSS, robots.txt, capitalização — tudo pushado e deployado
 - **Nota de divulgação**: `docs/nota_divulgacao_2026-03-29.md` + release WhatsApp
+
+### 2026-03-30 — Zenodo: verificação e correção sdbr07
+
+- **sdbr07 record IDs trocados**: 69 record IDs re-mapeados (renumeração PROPAR desalinhou IDs com records). 7 artigos (070-076) com PDFs renomeados no Zenodo via nova versão (fix_zenodo_metadata.py + build_record_payload).
+- **Verificação completa**: 2559 artigos verificados contra API Zenodo. 0 mismatches fora do sdbr07.
