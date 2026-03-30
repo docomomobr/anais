@@ -37,7 +37,7 @@ authors:
     familyname: "Machado"
     orcid: "0000-0003-0243-7946"
 doi: "10.5281/zenodo.19110735"
-zenodo_pdf_url: "https://zenodo.org/records/19110736/files/sdbr07-003.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072560/files/sdbr07-003.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

@@ -40,7 +40,7 @@ authors:
   - givenname: "Paulo César"
     familyname: "Xavier Pereira"
 doi: "10.5281/zenodo.19072591"
-zenodo_pdf_url: "https://zenodo.org/records/19072592/files/sdbr07-004.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19285528/files/sdbr07-004.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

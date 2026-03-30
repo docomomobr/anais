@@ -35,7 +35,7 @@ authors:
     familyname: "Suzuki"
     orcid: "0000-0003-4226-6280"
 doi: "10.5281/zenodo.19072760"
-zenodo_pdf_url: "https://zenodo.org/records/19072761/files/sdbr07-036.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072679/files/sdbr07-036.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

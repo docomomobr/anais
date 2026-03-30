@@ -38,7 +38,7 @@ authors:
     familyname: "Nascimento"
     orcid: "0000-0002-6889-7614"
 doi: "10.5281/zenodo.19072752"
-zenodo_pdf_url: "https://zenodo.org/records/19072753/files/sdbr07-021.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072621/files/sdbr07-021.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

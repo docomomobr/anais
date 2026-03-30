@@ -40,7 +40,7 @@ authors:
     familyname: "Nobre"
     orcid: "0000-0003-4089-9252"
 doi: "10.5281/zenodo.19072606"
-zenodo_pdf_url: "https://zenodo.org/records/19072607/files/sdbr07-041.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072693/files/sdbr07-041.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

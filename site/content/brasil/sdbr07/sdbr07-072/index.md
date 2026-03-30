@@ -20,7 +20,7 @@ event_edition: 7
 event_city: "Porto Alegre"
 event_year: 2007
 locale: "pt-BR"
-pdf_file: "sdbr07-072.pdf"
+pdf_file: "sdbr07-023.pdf"
 abstract: |
   Durante o segundo semestre letivo de 2002 foi criada e ofertada pela primeira vez no Curso de Arquitetura e Urbanismo da Universidade de Brasília a disciplina Projeto de Arquitetura e Urbanismo VIII, com a seguinte ementa: o domínio das teorias, práticas projetuais e soluções tecnológicas para a preservação, conservação, restauração, reconstrução, reabilitação e reutilização de edificações, conjuntos arquitetônicos e cidades. Com enfoque especial para as questões relacionadas com a preservação do patrimônio arquitetônico moderno, particularmente da cidade de Brasília. Provavelmente, considerando as experiências nacionais, deve ser a única disciplina de projeto (intervenção no pré-existente) que atua diretamente com o patrimônio arquitetônico e urbanístico de Brasília e discute, prioritariamente, a preservação do moderno. Ao longo dos últimos anos, foram desenvolvidos projetos de intervenção em onze monumentos, entre os quais destacamos três: Brasília Palace Hotel, a residência de Oscar Niemeyer no Park Way e o Instituto Central de Ciências da UnB.
 abstract_en: |
@@ -36,7 +36,7 @@ authors:
     familyname: "Ferreira"
     orcid: "0000-0003-1628-3466"
 doi: "10.5281/zenodo.19072630"
-zenodo_pdf_url: "https://zenodo.org/records/19072631/files/sdbr07-072.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072631/files/sdbr07-023.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

@@ -20,7 +20,7 @@ event_edition: 7
 event_city: "Porto Alegre"
 event_year: 2007
 locale: "pt-BR"
-pdf_file: "sdbr07-075.pdf"
+pdf_file: "sdbr07-062.pdf"
 abstract: |
   O reconhecimento do valor histórico serve como parâmetro para a preservação das obras arquitetônicas, como justificativa para “reciclar”, “re-qualificar” e “re-arquiteturar” uma determinada área urbana ou edifício. Esse ensaio verifica a possibilidade de interferir em obras ou espaços urbanos que não se caracterizam, necessariamente, apenas pela dimensão histórica, porém, se caracterizam, também, pela dimensão artística. Mas o que é e como é uma obra de arte? – Segundo Heiddeger: O que a arte seja, tem de apreender-se a partir da obra. O que seja a obra, só o podemos experimentar a partir da essência da arte. A observação de Heidegger implica na idéia de que o valor artístico da obra está na própria obra, ou seja, em sua composição plástica. Uma obra bela é uma obra qualificada esteticamente. A análise do projeto de re-construção da área das antigas Torres Gêmeas do complexo do World Trade Center servirá de estudo de caso da questão. A identidade da obra se impôs no imaginário das pessoas, não apenas como símbolo nova-iorquino, mas também, pelo valor artístico das torres intrínseco à própria obra. Surge então a seguinte questão: Como o nova desenho poderá resgatar a identidade perdida com a queda das torres? Inicialmente é tratado o significado de identidade e diferença na recepção e apreciação da obra. A identidade nasce da relação sujeito/obra, ou seja, o modo de apropriação da obra, e que implica na percepção da diferença e do distanciamento entre as partes. O distanciamento pode se caracterizar a partir do entendimento do que seja o moderno já passado e o passado no moderno. O desenho do novo complexo do WTC pode ser entendido não apenas como uma possibilidade de re- qualificar um espaço urbano devastado, mas como a possibilidade de resgatar ou instituir uma nova identidade, que nasce do entendimento entre um passado recente – as Torres Gêmeas e o novo desenho – a Torre da liberdade.
 keywords:
@@ -32,7 +32,7 @@ authors:
     familyname: "Garcia"
     orcid: "0000-0001-7585-3516"
 doi: "10.5281/zenodo.19072762"
-zenodo_pdf_url: "https://zenodo.org/records/19072763/files/sdbr07-075.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072763/files/sdbr07-062.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

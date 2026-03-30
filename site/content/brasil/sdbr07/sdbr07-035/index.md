@@ -37,7 +37,7 @@ authors:
     familyname: "Eskinazi"
     orcid: "0000-0003-3083-6426"
 doi: "10.5281/zenodo.19072559"
-zenodo_pdf_url: "https://zenodo.org/records/19072560/files/sdbr07-035.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072677/files/sdbr07-035.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:

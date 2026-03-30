@@ -38,7 +38,7 @@ authors:
     familyname: "Guimaraens"
     orcid: "0000-0003-1889-7883"
 doi: "10.5281/zenodo.19072676"
-zenodo_pdf_url: "https://zenodo.org/records/19072677/files/sdbr07-014.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19072598/files/sdbr07-014.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
