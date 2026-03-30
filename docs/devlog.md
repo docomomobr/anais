@@ -595,3 +595,9 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - **Keywords limpeza**: 7 keywords_en com texto absurdamente longo removidos (abstracts no campo de keywords). 13 artigos com PT/ES em keywords_en corrigidos (7 esvaziados, 2 substituídos por EN correto, 3 movidos para keywords_es, 1 fragmentos de título removidos)
 - **Capitalização**: 9 "Obra/Obras" → "obra/obras" (substantivo comum)
 - **Seções**: numeração corrigida em 16 seminários (IDs do banco → sequencial). 29 títulos redundantes limpos. section_label removido de 13 seminários sem numeração na fonte original
+
+### 2026-03-30 — Fechamento idc06 + deploy final
+
+- **idc06 revisão fechada**: rev-status.md criado, seminarios_revisados.md atualizado
+- **Deploy**: taxonomias EN/ES, abas CSS, robots.txt, capitalização — tudo pushado e deployado
+- **Nota de divulgação**: `docs/nota_divulgacao_2026-03-29.md` + release WhatsApp
