@@ -6,7 +6,7 @@ slug: sdnne09-035
 type: artigo
 weight: 10
 section_title: "Artigos Completos — Paisagem"
-section_seq: 8
+section_seq: 2
 section_label: "eixo temático"
 event_title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
 event_location: "São Luís, MA"

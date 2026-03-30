@@ -14212,10 +14212,10 @@ INSERT INTO sections VALUES(3,'sdnne05','Eixo B — Análise crítica de projeto
 INSERT INTO sections VALUES(4,'sdnne05','Eixo C — A vigência do Modernismo na Contemporaneidade',NULL,3,0);
 INSERT INTO sections VALUES(5,'sdnne07','Artigos Completos',NULL,4,1);
 INSERT INTO sections VALUES(6,'sdnne08','Artigos Completos',NULL,5,1);
-INSERT INTO sections VALUES(7,'sdnne09','Artigos Completos — Documentação',NULL,6,0);
-INSERT INTO sections VALUES(9,'sdnne09','Artigos Completos — Paisagem',NULL,8,0);
-INSERT INTO sections VALUES(11,'sdnne09','Artigos Completos — Conservação',NULL,10,0);
-INSERT INTO sections VALUES(13,'sdnne09','Artigos Completos — Cultura',NULL,12,0);
+INSERT INTO sections VALUES(7,'sdnne09','Artigos Completos — Documentação',NULL,1,0);
+INSERT INTO sections VALUES(9,'sdnne09','Artigos Completos — Paisagem',NULL,2,0);
+INSERT INTO sections VALUES(11,'sdnne09','Artigos Completos — Conservação',NULL,3,0);
+INSERT INTO sections VALUES(13,'sdnne09','Artigos Completos — Cultura',NULL,4,0);
 INSERT INTO sections VALUES(15,'sdsul01','Sessão 1 Mesa 1 — Projetos Urbanos, Pavilhões e Equipamentos',NULL,14,0);
 INSERT INTO sections VALUES(16,'sdsul01','Sessão 1 Mesa 2 — Escritórios, Apartamentos e Esquadrias',NULL,15,0);
 INSERT INTO sections VALUES(17,'sdsul01','Sessão 2 Mesa 1 — Casas, Notas e Balanços',NULL,16,0);
@@ -14288,7 +14288,7 @@ INSERT INTO sections VALUES(86,'sdnne10','Artigos Completos — Documentação d
 INSERT INTO sections VALUES(87,'sdnne10','Resumos Expandidos — Documentação do Moderno',NULL,1,0);
 INSERT INTO sections VALUES(88,'sdnne10','Artigos Completos — Conservação do Moderno',NULL,2,0);
 INSERT INTO sections VALUES(89,'sdnne10','Resumos Expandidos — Conservação do Moderno',NULL,3,0);
-INSERT INTO sections VALUES(90,'sdnne09','Resumos Expandidos — Documentação, conservação, paisagem, cultura',NULL,14,0);
+INSERT INTO sections VALUES(90,'sdnne09','Resumos Expandidos — Documentação, conservação, paisagem, cultura',NULL,5,0);
 INSERT INTO sections VALUES(91,'sdrj02','Artigos','ART-sdrj02',0,1);
 INSERT INTO sections VALUES(92,'sdrj02','Pôsteres','POST-sdrj02',1,0);
 INSERT INTO sections VALUES(93,'sdrj03','Geral','GER-sdrj03',0,1);

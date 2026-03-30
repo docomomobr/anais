@@ -8,7 +8,7 @@ slug: sdnne09-026
 type: artigo
 weight: 10
 section_title: "Artigos Completos — Documentação"
-section_seq: 6
+section_seq: 1
 section_label: "eixo temático"
 event_title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
 event_location: "São Luís, MA"

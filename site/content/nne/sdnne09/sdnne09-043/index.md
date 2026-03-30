@@ -8,7 +8,7 @@ slug: sdnne09-043
 type: artigo
 weight: 10
 section_title: "Artigos Completos — Conservação"
-section_seq: 10
+section_seq: 3
 section_label: "eixo temático"
 event_title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
 event_location: "São Luís, MA"

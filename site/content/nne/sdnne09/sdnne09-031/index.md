@@ -6,7 +6,7 @@ slug: sdnne09-031
 type: artigo
 weight: 10
 section_title: "Resumos Expandidos — Documentação, conservação, paisagem, cultura"
-section_seq: 14
+section_seq: 5
 section_label: "eixo temático"
 event_title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
 event_location: "São Luís, MA"
