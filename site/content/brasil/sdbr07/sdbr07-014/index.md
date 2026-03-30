@@ -47,6 +47,10 @@ palavras-chave:
   - "galerias de arte"
   - "modernismo"
   - "arquitetura de museus"
+keywords:
+  - "art galleries"
+  - "modernism"
+  - "museum architecture"
 ---
 
 ## Referências

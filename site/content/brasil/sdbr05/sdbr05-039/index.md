@@ -54,6 +54,10 @@ palavras-chave:
   - "moderno"
   - "arquitetura"
   - "proteção"
+keywords:
+  - "modern"
+  - "architecture"
+  - "protection"
 ---
 
 ## Referências

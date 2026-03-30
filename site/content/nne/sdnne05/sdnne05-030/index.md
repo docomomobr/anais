@@ -53,6 +53,11 @@ palavras-chave:
   - "Lelé"
   - "arquitetura moderna"
   - "produção em série"
+keywords:
+  - "prefabrication"
+  - "Lelé"
+  - "modern architecture"
+  - "serial production"
 ---
 
 ## Referências

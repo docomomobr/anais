@@ -48,6 +48,10 @@ palavras-chave:
   - "síntese das artes"
   - "paisagem"
   - "Waldemar Cordeiro"
+keywords:
+  - "synthesis of the arts"
+  - "landscape"
+  - "Waldemar Cordeiro"
 ---
 
 ## Referências

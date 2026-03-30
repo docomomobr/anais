@@ -48,6 +48,10 @@ palavras-chave:
   - "Clorindo Testa"
   - "Centro Cívico"
   - "concreto armado"
+keywords:
+  - "Clorindo Testa"
+  - "Civic Center"
+  - "reinforced concrete"
 ---
 
 ## Referências

@@ -61,6 +61,14 @@ palavras-chave:
   - "Patrimônio Modernista"
   - "Cartografias Urbanas"
   - "Prática Espacial"
+keywords:
+  - "Modernist Heritage"
+  - "Urban Cartography"
+  - "Spatial Practice"
+palabras-clave:
+  - "Patrimonio Modernista"
+  - "Cartografía urbana"
+  - "Práctica espacial"
 ---
 
 ## Referências

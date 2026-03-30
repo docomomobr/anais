@@ -50,6 +50,9 @@ autores:
 palavras-chave:
   - "Habitação em São Paulo"
   - "Madeira na construção"
+keywords:
+  - "Housing in São Paulo"
+  - "Wood in buidings"
 ---
 
 ## Referências

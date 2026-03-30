@@ -63,6 +63,11 @@ palavras-chave:
   - "Difusão"
   - "Acervo arquitetônico"
   - "Portal eletrônico"
+keywords:
+  - "David Libeskind"
+  - "Diffusion"
+  - "Architectural collection"
+  - "Web Portal"
 ---
 
 ## Referências

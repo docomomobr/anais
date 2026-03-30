@@ -57,6 +57,10 @@ palavras-chave:
   - "coberturas em casca"
   - "estruturas em cascas"
   - "cascas de concreto armado"
+keywords:
+  - "shells roofs"
+  - "shell structure"
+  - "reinforced concrete shell"
 ---
 
 ## Referências

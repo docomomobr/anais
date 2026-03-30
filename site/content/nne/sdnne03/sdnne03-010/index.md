@@ -45,6 +45,10 @@ palavras-chave:
   - "Preservação"
   - "História"
   - "Arquitetura Moderna"
+keywords:
+  - "Preservation"
+  - "History"
+  - "Modern Architecture"
 ---
 
 ## Referências

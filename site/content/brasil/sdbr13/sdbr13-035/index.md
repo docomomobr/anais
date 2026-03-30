@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "História de São Paulo"
   - "Ditadura Militar"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "São Paulo History"
+  - "Military Dictatorship"
 ---
 
 ## Referências

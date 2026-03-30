@@ -56,6 +56,11 @@ palavras-chave:
   - "Pernambuco"
   - "tectônica"
   - "arquitetura moderna"
+keywords:
+  - "Reginaldo Esteves"
+  - "Pernambuco"
+  - "tectonic"
+  - "modern architecture"
 ---
 
 ## Referências

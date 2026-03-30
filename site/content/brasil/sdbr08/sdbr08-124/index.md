@@ -47,6 +47,10 @@ palavras-chave:
   - "Engenharia"
   - "Urbanismo Moderno"
   - "Cidade Moderna"
+keywords:
+  - "Engineering"
+  - "Modern Urbanism"
+  - "Modern Town"
 ---
 
 ## Referências

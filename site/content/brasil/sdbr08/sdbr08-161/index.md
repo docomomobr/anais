@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Desenho Arquitetônico"
   - "Construção"
+keywords:
+  - "Building"
+  - "Modern Architecture"
+  - "Architectural Drawing"
 ---
 
 ## Referências

@@ -51,6 +51,9 @@ autores:
 palavras-chave:
   - "Arte moderna"
   - "relação arte-arquitetura-cidade"
+keywords:
+  - "Modern art"
+  - "art-architecture-city relationship"
 ---
 
 ## Referências

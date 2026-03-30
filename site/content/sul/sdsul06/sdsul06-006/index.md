@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura moderna em Porto Alegre"
   - "estrutura independente"
   - "potencial de renovação dos edifícios residenciais"
+keywords:
+  - "Modern architecture in Porto Alegre"
+  - "independent structure"
+  - "potential for renovation of residential buildings"
 ---
 
 ## Referências

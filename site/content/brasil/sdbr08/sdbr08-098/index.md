@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "artista moderno"
   - "artista colonial, historiografia de arte modernista"
+keywords:
+  - "modern artist"
+  - "colonial artist, modernist history of art"
 ---
 
 ## Referências

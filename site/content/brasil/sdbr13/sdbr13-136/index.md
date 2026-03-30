@@ -53,6 +53,10 @@ palavras-chave:
   - "Expressões da modernidade"
   - "Arquitetura art déco"
   - "Historiografia"
+keywords:
+  - "Expressions of modernity"
+  - "Art deco architecture"
+  - "Historiography"
 ---
 
 ## Referências

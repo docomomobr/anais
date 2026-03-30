@@ -46,6 +46,10 @@ palavras-chave:
   - "Tipologias"
   - "Estruturas Espaciais"
   - "Brasília"
+keywords:
+  - "Typologies"
+  - "Space Structures"
+  - "Brasília"
 ---
 
 ## Referências

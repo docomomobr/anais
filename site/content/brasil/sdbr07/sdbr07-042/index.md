@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio em Risco"
   - "Arquitetura Pública"
+keywords:
+  - "Modern Architecture"
+  - "Public Architecture"
+  - "Patrimony at Risk"
 ---
 
 ## Referências

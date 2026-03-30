@@ -53,6 +53,10 @@ palavras-chave:
   - "brises"
   - "arquitetura moderna"
   - "Fortaleza"
+keywords:
+  - "brises"
+  - "modern architecture"
+  - "Fortaleza"
 ---
 
 ## Referências

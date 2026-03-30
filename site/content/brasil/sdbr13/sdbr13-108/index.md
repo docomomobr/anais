@@ -57,6 +57,12 @@ palavras-chave:
   - "Patrimônio Cultural"
   - "residências"
   - "Bom Pastor"
+keywords:
+  - "Modernism"
+  - "Juiz de Fora"
+  - "Cultural Heritage"
+  - "Residences"
+  - "Bom Pastor"
 ---
 
 ## Referências

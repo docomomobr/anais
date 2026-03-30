@@ -45,6 +45,10 @@ palavras-chave:
   - "parede portante"
   - "Lina Bo Bardi"
   - "Sesc Pompéia"
+keywords:
+  - "bearing wall"
+  - "Lina Bo Bardi"
+  - "Sesc Pompéia"
 ---
 
 ## Referências

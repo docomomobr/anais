@@ -53,6 +53,10 @@ palavras-chave:
   - "Modernismo"
   - "Brutalismo"
   - "Arte"
+keywords:
+  - "Modernism"
+  - "Brutalism"
+  - "Art"
 ---
 
 ## Referências

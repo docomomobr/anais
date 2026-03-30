@@ -45,6 +45,9 @@ palavras-chave:
   - "Petrônio Cunha"
   - "Integração artística"
   - "Arquitetura"
+keywords:
+  - "Petrônio Cunha"
+  - "Art Integration: Architecture"
 ---
 
 ## Referências

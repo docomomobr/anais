@@ -49,6 +49,10 @@ palavras-chave:
   - "Brasília"
   - "Mário Pedrosa"
   - "Lucio Costa"
+keywords:
+  - "Brasilia"
+  - "Mário Pedrosa"
+  - "Lucio Costa"
 ---
 
 ## Referências

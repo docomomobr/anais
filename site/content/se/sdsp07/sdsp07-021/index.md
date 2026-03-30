@@ -63,6 +63,14 @@ palavras-chave:
   - "Universidade"
   - "Habitação"
   - "Inventariação"
+keywords:
+  - "University"
+  - "Housing"
+  - "Heritage surveying"
+palabras-clave:
+  - "Universidad"
+  - "Vivienda"
+  - "Inventario"
 ---
 
 ## Referências

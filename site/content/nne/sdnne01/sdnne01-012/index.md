@@ -79,6 +79,13 @@ palavras-chave:
   - "projeto museográfico"
   - "cultura popular, cultura moderna"
   - "Salvador, São Paulo"
+keywords:
+  - "Lina Bo Bardi"
+  - "museum graphic project"
+  - "popular culture"
+  - "modern culture"
+  - "Salvador"
+  - "São Paulo"
 ---
 
 ## Referências

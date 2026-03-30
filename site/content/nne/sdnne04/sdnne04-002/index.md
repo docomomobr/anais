@@ -48,6 +48,10 @@ palavras-chave:
   - "Integração arte arquitetura"
   - "arte moderna nordestina"
   - "história da arte moderna"
+keywords:
+  - "Integrating art architecture"
+  - "modern art"
+  - "modern Brazilian art history"
 ---
 
 ## Referências

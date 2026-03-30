@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquiteturas públicas"
   - "Desconstrução"
   - "Alteridade"
+keywords:
+  - "Public architectures"
+  - "Deconstruction"
+  - "otherness"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Centro Administrativo do Estado do Rio Grande do Sul"
   - "concreto armado"
   - "significado na paisagem"
+keywords:
+  - "Administrative Centre of the State of Rio Grande do Sul"
+  - "reinforced concrete"
+  - "meaning in the townscape"
 ---
 
 ## Referências

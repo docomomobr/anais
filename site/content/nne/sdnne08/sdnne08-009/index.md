@@ -63,6 +63,16 @@ palavras-chave:
   - "Natureza"
   - "Ambiente"
   - "Espaços de trabalho"
+keywords:
+  - "Biophilia"
+  - "Nature"
+  - "Environment"
+  - "Workspaces"
+palabras-clave:
+  - "Biofilia"
+  - "Naturaleza"
+  - "Ambiente"
+  - "Espacios de trabajo"
 ---
 
 ## Referências

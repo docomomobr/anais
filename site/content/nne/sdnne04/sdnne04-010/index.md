@@ -57,6 +57,10 @@ palavras-chave:
   - "Arquitetura moderna (RN)"
   - "Moacyr Gomes"
   - "Análise da forma"
+keywords:
+  - "Modern Architecture (RN)"
+  - "Moacyr Gomes"
+  - "Analysis of the form"
 ---
 
 ## Referências

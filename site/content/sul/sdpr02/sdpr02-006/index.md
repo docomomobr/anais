@@ -65,6 +65,11 @@ palavras-chave:
   - "Preservação"
   - "Acácio Gil Borsoi"
   - "Teresina-PI"
+keywords:
+  - "Modern Architecture"
+  - "Preservation"
+  - "Acácio Gil Borsoi"
+  - "Teresina-PI"
 ---
 
 ## Referências

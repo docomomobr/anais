@@ -66,6 +66,14 @@ palavras-chave:
   - "Art Déco"
   - "Escolas no Rio Grande do Sul"
   - "Arquitetura no Estado Novo"
+keywords:
+  - "Art Déco"
+  - "Schools in Rio Grande do Sul"
+  - "Architecture in the Estado Novo"
+palabras-clave:
+  - "Art Déco"
+  - "Escuelas en Rio Grande do Sul"
+  - "Arquitectura en Estado Novo"
 ---
 
 ## Referências

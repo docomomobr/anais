@@ -50,6 +50,10 @@ palavras-chave:
   - "Universidade de Brasília"
   - "ensino de arquitetura"
   - "educação de arquitetos"
+keywords:
+  - "University of Brasilia"
+  - "architecture teaching"
+  - "architect education"
 ---
 
 ## Referências

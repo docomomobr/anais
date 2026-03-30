@@ -44,6 +44,10 @@ palavras-chave:
   - "Difusão"
   - "Modernismo"
   - "Gultzgoff"
+keywords:
+  - "Diffusion"
+  - "Modernism"
+  - "Gultzgoff"
 ---
 
 ## Referências

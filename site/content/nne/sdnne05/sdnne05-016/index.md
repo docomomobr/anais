@@ -52,6 +52,11 @@ palavras-chave:
   - "Patrimônio recente"
   - "Projetos arquitetônicos"
   - "Memória"
+keywords:
+  - "Modern architecture Northeast of Brazil"
+  - "Recent heritage"
+  - "Architectural designs"
+  - "Memory"
 ---
 
 ## Referências

@@ -58,6 +58,14 @@ palavras-chave:
   - "arquitetura funerária moderna"
   - "Oscar Niemeyer"
   - "Memorial JK"
+keywords:
+  - "modern funeral architecture"
+  - "Oscar Niemeyer"
+  - "JK Memorial"
+palabras-clave:
+  - "arquitectura funeraria moderna"
+  - "Óscar Niemeyer"
+  - "Memorial JK"
 ---
 
 ## Referências

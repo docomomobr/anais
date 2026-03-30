@@ -47,6 +47,10 @@ palavras-chave:
   - "revitalização"
   - "decadência"
   - "normas urbanísticas"
+keywords:
+  - "regeneration"
+  - "decay"
+  - "urban standards"
 ---
 
 ## Referências

@@ -60,6 +60,16 @@ palavras-chave:
   - "Relação entre arte e arquitetura"
   - "Complexidade"
   - "Ecos"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Relation between art and architecture"
+  - "Complexity"
+  - "Echoes"
+palabras-clave:
+  - "Arquitectura Moderna Brasileña"
+  - "Relación entre arte y arquitectura"
+  - "Complejidad"
+  - "Ecos"
 ---
 
 ## Referências

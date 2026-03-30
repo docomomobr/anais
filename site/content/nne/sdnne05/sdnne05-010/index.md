@@ -61,6 +61,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Renovação Urbana"
   - "Macapá-AP"
+keywords:
+  - "Cultural Heritage"
+  - "Modern architecture"
+  - "Urban Renewal"
+  - "Macapa-AP"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Pena Furada"
   - "urbanismo moderno"
+keywords:
+  - "Oscar Niemeyer"
+  - "Pena Furada"
+  - "modern urbanism"
 ---
 
 ## Referências

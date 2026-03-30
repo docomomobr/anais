@@ -58,6 +58,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "desenvolvimento"
   - "projeto"
+keywords:
+  - "modern architecture"
+  - "development"
+  - "project"
 ---
 
 ## Referências

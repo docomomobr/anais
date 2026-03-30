@@ -55,6 +55,10 @@ palavras-chave:
   - "Verticalização"
   - "Panorama morfológico"
   - "Natal-RN"
+keywords:
+  - "Modernism"
+  - "Verticalization"
+  - "Natal, RN"
 ---
 
 ## Referências

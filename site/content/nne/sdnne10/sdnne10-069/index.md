@@ -59,6 +59,14 @@ palavras-chave:
   - "Zélia Maia Nobre"
   - "mulheres na arquitetura"
   - "projeto como patrimônio"
+keywords:
+  - "Zelia Maia Nobre"
+  - "women in architecture"
+  - "project as heritage"
+palabras-clave:
+  - "Zélia Maia Nobre"
+  - "mujeres en arquitectura"
+  - "proyecto como patrimonio"
 ---
 
 ## Referências

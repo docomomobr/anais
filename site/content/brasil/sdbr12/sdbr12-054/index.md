@@ -41,6 +41,8 @@ autores:
   - "Pignaton, Clara Bonna"
 palavras-chave:
   - "forma, expressão, racionalidade"
+keywords:
+  - "form, racionality, expression"
 ---
 
 ## Referências

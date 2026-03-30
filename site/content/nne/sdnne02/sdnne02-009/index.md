@@ -77,6 +77,10 @@ palavras-chave:
   - "Estética Moderna"
   - "Arquitetura Moderna"
   - "residências em Belém"
+keywords:
+  - "Modern Aesthetic"
+  - "Modern Architecture"
+  - "Houses in Belém"
 ---
 
 ## Referências

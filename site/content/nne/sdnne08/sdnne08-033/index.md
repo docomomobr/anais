@@ -62,6 +62,16 @@ palavras-chave:
   - "preservação de conjuntos urbanos"
   - "protomodernismo"
   - "arquitetura moderna"
+keywords:
+  - "Cultural built heritage"
+  - "preservation of urban complexes"
+  - "protomodernism"
+  - "modern architecture"
+palabras-clave:
+  - "Patrimonio cultural construido"
+  - "preservación de conjuntos urbanos"
+  - "protomodernismo"
+  - "arquitectura moderna"
 ---
 
 ## Referências

@@ -50,6 +50,11 @@ palavras-chave:
   - "Anos 1970"
   - "Arquitetura Moderna"
   - "Casa moderna"
+keywords:
+  - "Vilanova Artigas"
+  - "1970s"
+  - "Modern Architecture"
+  - "Modern House"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "ensino de projeto"
   - "arquitetônico"
   - "Le Corbusier"
+keywords:
+  - "Le Corbusier"
+  - "Architectural drawings"
+  - "architectural project teaching"
 ---
 
 ## Referências

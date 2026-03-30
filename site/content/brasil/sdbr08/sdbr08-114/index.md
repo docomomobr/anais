@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura moderna: restauro"
   - "arquitetura moderna: preservação"
   - "arquitetura moderna: novos usos"
+keywords:
+  - "Modern architecture: restoration"
+  - "Modern architecture: preservation"
+  - "Modern architecture: new uses"
 ---
 
 ## Referências

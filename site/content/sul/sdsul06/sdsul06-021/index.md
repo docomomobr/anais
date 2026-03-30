@@ -50,6 +50,11 @@ palavras-chave:
   - "Niemeyer"
   - "Lucio Costa"
   - "Arquitetura Moderna Brasileira"
+keywords:
+  - "Topography"
+  - "Niemeyer"
+  - "Lucio Costa"
+  - "Modern Brazilian Architecture"
 ---
 
 ## Referências

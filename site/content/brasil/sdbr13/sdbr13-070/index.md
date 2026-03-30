@@ -68,6 +68,11 @@ palavras-chave:
   - "Patrimônio Moderno"
   - "Arquitetura"
   - "Hospitalar"
+keywords:
+  - "Health’s Cultural Heritage"
+  - "Inventory"
+  - "Modern Heritage"
+  - "Hospital Architecture"
 ---
 
 ## Referências

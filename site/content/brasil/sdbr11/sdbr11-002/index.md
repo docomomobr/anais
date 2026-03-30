@@ -51,6 +51,10 @@ palavras-chave:
   - "Mobiliário"
   - "Modernismo"
   - "Metal"
+keywords:
+  - "Furniture"
+  - "Modernism"
+  - "Metal"
 ---
 
 ## Referências

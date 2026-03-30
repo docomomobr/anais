@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Alcides Rocha Miranda"
   - "concreto aparente"
+keywords:
+  - "Alcides Rocha Miranda"
+  - "apparent concrete"
 ---
 
 ## Referências

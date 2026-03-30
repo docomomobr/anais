@@ -52,6 +52,10 @@ palavras-chave:
   - "Brutalismo"
   - "Arquitetura Carioca Anos 1960"
   - "Edison Musa (1934-)"
+keywords:
+  - "Brutalism"
+  - "Rio de Janeiro Architecture 1960’s"
+  - "Edison Musa (1934-)"
 ---
 
 ## Referências

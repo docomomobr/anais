@@ -40,6 +40,8 @@ autores:
   - "Anelli, Renato Luiz Sobral"
 palavras-chave:
   - "Nova Monumentalidade Integração das Artes Artes Aplicadas"
+keywords:
+  - "New Monumentality Integration of Arts Applied Arts"
 ---
 
 ## Referências

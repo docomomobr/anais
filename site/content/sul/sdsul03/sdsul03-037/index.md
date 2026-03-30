@@ -48,6 +48,10 @@ palavras-chave:
   - "alojamento universitário"
   - "madeira"
   - "pré-fabricação"
+keywords:
+  - "university housing"
+  - "timber"
+  - "pre-fabrication"
 ---
 
 ## Referências

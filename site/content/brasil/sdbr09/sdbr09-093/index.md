@@ -61,6 +61,13 @@ palavras-chave:
   - "Pernambuco"
   - "Paraíba"
   - "Conservação"
+keywords:
+  - "reception"
+  - "diffusion"
+  - "modern architecture"
+  - "Pernambuco"
+  - "Paraíba"
+  - "conservation"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "arqueologia industrial"
   - "arquitetura moderna"
   - "fábricas em Curitiba"
+keywords:
+  - "industrial archeology"
+  - "modern architecture"
+  - "factories in Curitiba"
 ---
 
 ## Referências

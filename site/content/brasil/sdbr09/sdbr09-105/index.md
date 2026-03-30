@@ -45,6 +45,8 @@ autores:
   - "Cappello, Maria Beatriz Camargo"
 palavras-chave:
   - "Arquitetura; Moderno; Fertisa; Raphael Hardy Filho"
+keywords:
+  - "Architecture; Modern; Fertisa; Raphael Hardy Filho"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura"
   - "Cinema"
   - "Vanguardas"
+keywords:
+  - "Architecture"
+  - "Cinema"
+  - "Avant-Garde"
 ---
 
 ## Referências

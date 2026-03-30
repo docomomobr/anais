@@ -55,6 +55,12 @@ palavras-chave:
   - "Eladio Dieste"
   - "Eugénio Montañez"
   - "CEASA"
+keywords:
+  - "reinforced brick"
+  - "Latin American architecture"
+  - "Eladio Dieste"
+  - "Eugénio Montañez"
+  - "CEASA"
 ---
 
 ## Referências

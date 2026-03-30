@@ -60,6 +60,14 @@ palavras-chave:
   - "Cerâmica Armada"
   - "Dieste y Montañez"
   - "Milagre econômico"
+keywords:
+  - "Reinforced ceramics"
+  - "Dieste y Montañez"
+  - "Economic miracle"
+palabras-clave:
+  - "Cerámica armada"
+  - "Dieste y Montañez"
+  - "Milagro económico"
 ---
 
 ## Referências

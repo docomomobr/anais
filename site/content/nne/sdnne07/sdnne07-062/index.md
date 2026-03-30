@@ -68,6 +68,16 @@ palavras-chave:
   - "Roraima"
   - "Arquitetos pioneiros"
   - "Década de 1980-1990"
+keywords:
+  - "Modern architecture"
+  - "Roraima"
+  - "Pioneer Architects"
+  - "The 1980-1990"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Roraima"
+  - "Arquitectos pioneros"
+  - "Década de 1980-1990"
 ---
 
 ## Referências

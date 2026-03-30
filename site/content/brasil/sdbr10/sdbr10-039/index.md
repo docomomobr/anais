@@ -48,6 +48,10 @@ palavras-chave:
   - "Brutalismo"
   - "ética"
   - "estética"
+keywords:
+  - "Brutalism"
+  - "aesthetics"
+  - "ethics"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Hospital geral"
   - "Arquitetura hospitalar"
   - "Divisão de Organização Hospitalar"
+keywords:
+  - "General hospital"
+  - "Hospital architecture"
+  - "Division of Hospital Organization"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Paisagismo"
   - "Modernismo"
   - "Historiografia"
+keywords:
+  - "Landscape architecture"
+  - "Modernism"
+  - "Historiography"
 ---
 
 ## Referências

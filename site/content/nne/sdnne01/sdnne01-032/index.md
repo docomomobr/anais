@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura residencial"
   - "arquitetura moderna"
   - "Fortaleza"
+keywords:
+  - "Residential architecture"
+  - "modern architecture"
+  - "Fortaleza"
 ---
 
 ## Referências

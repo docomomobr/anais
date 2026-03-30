@@ -53,6 +53,12 @@ palavras-chave:
   - "Hélio Duarte"
   - "Escola Nova"
   - "Patrimônio Histórico"
+keywords:
+  - "School’s Architecture"
+  - "Ramos de Azevedo"
+  - "Hélio Duarte"
+  - "“New School”"
+  - "Historical Heritage"
 ---
 
 ## Referências

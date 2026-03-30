@@ -54,6 +54,10 @@ palavras-chave:
   - "Institutos de Aposentadorias e Pensões"
   - "habitação Moderna em Natal"
   - "ideário modernista"
+keywords:
+  - "Institutos de Aposentadorias e Pensões"
+  - "modern housing in Natal"
+  - "modernist ideas"
 ---
 
 ## Referências

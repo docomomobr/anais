@@ -52,6 +52,10 @@ palavras-chave:
   - "Urbanismo Moderno"
   - "Minas Gerais"
   - "Documentação"
+keywords:
+  - "Town Planning"
+  - "Minas Gerais"
+  - "Documentation"
 ---
 
 ## Referências

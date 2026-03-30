@@ -48,6 +48,10 @@ palavras-chave:
   - "teatro"
   - "renovação"
   - "forma"
+keywords:
+  - "theater"
+  - "refurbishment"
+  - "form"
 ---
 
 ## Referências

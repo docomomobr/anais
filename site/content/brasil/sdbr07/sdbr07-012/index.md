@@ -56,6 +56,11 @@ palavras-chave:
   - "moderno"
   - "popular"
   - "museu"
+keywords:
+  - "Restauration"
+  - "modern"
+  - "popular"
+  - "museum"
 ---
 
 ## Referências

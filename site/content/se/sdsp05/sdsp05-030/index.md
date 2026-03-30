@@ -48,6 +48,10 @@ palavras-chave:
   - "fotografia"
   - "arquitetura moderna"
   - "pranchas-contato"
+keywords:
+  - "photography"
+  - "modern architeture"
+  - "contact-sheets"
 ---
 
 ## Referências

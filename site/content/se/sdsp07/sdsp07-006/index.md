@@ -68,6 +68,14 @@ palavras-chave:
   - "Circulação das ideias"
   - "Metodologia de projeto"
   - "Arquitetura curitibana"
+keywords:
+  - "Architecture diffusion"
+  - "Design methodology"
+  - "Curitiba architecture"
+palabras-clave:
+  - "Circulación de ideas"
+  - "Metodología de proyecto"
+  - "Arquitectura curitibana"
 ---
 
 ## Referências

@@ -50,6 +50,11 @@ palavras-chave:
   - "abstração geométrica"
   - "Concretismo"
   - "Neoconcretismo"
+keywords:
+  - "constructive art"
+  - "geometrical abstraction"
+  - "Concretism"
+  - "Neo-concretism"
 ---
 
 ## Referências

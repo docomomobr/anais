@@ -48,6 +48,10 @@ palavras-chave:
   - "concreto"
   - "engenharia"
   - "Baumgart"
+keywords:
+  - "concrete"
+  - "engineering"
+  - "Baumgart"
 ---
 
 ## Referências

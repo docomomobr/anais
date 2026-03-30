@@ -55,6 +55,14 @@ palavras-chave:
   - "patrimônio"
   - "salvaguarda"
   - "diretrizes"
+keywords:
+  - "heritage"
+  - "Safeguard"
+  - "guidelines"
+palabras-clave:
+  - "patrimonio"
+  - "salvaguardia"
+  - "lineamientos"
 ---
 
 ## Referências

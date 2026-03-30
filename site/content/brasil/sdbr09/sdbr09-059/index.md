@@ -52,6 +52,18 @@ ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinarida
 autores:
   - "Raffa, Cecilia"
   - "Marchionni, Franco"
+keywords:
+  - "ephemeral architecture"
+  - "modernism"
+  - "stages"
+  - "halls"
+  - "Peronism"
+palabras-clave:
+  - "arquitetura efêmera"
+  - "modernismo"
+  - "estádios"
+  - "salões"
+  - "peronismo"
 ---
 
 ## Referências

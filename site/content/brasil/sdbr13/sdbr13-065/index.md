@@ -49,6 +49,10 @@ palavras-chave:
   - "imaginário do modernismo brasileiro"
   - "arquitetura modernista"
   - "brasileira"
+keywords:
+  - "bus terminal station"
+  - "brazilian modernism imaginary"
+  - "brazilian modernist architecture"
 ---
 
 ## Referências

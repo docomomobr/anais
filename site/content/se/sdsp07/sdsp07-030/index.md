@@ -64,6 +64,14 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Patrimônio cultural edificado"
   - "Conservação arquitetônica"
+keywords:
+  - "Brazilian modern architecture"
+  - "Edified cultural heritage"
+  - "Architectonic conservation"
+palabras-clave:
+  - "Arquitectura brasileña moderna"
+  - "Patrimonio cultural construido"
+  - "Conservación arquitectónica"
 ---
 
 ## Referências

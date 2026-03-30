@@ -63,6 +63,16 @@ palavras-chave:
   - "arquitetura moderna"
   - "flexibilidade"
   - "novos usos"
+keywords:
+  - "Center of Exporters of Ceará"
+  - "modern architecture"
+  - "flexibility"
+  - "new uses"
+palabras-clave:
+  - "Centro de Exportadores de Ceará"
+  - "arquitectura moderna"
+  - "flexibilidad"
+  - "nuevos usos"
 ---
 
 ## Referências

@@ -65,6 +65,10 @@ palavras-chave:
   - "Movimento Moderno"
   - "Restauro"
   - "Projeto Arquitetônico"
+keywords:
+  - "Modern Movement"
+  - "Restoration"
+  - "Architectural project"
 ---
 
 ## Referências

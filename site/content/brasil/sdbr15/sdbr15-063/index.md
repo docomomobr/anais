@@ -55,6 +55,14 @@ palavras-chave:
   - "Team X"
   - "Interconexão"
   - "Comunidade"
+keywords:
+  - "Team X"
+  - "Interconnection"
+  - "Community"
+palabras-clave:
+  - "Team X"
+  - "Interconexión"
+  - "Comunidad"
 ---
 
 ## Referências

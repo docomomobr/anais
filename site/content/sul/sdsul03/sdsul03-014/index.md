@@ -49,6 +49,10 @@ palavras-chave:
   - "Proteção solar"
   - "Muxarabi"
   - "Brise-soleil"
+keywords:
+  - "Shading devices"
+  - "Muxarabi"
+  - "Brise-soleil"
 ---
 
 ## Referências

@@ -28,8 +28,6 @@ keywords:
   - "arquitetura moderna; residência Casado d’Azevedo; Holanda Mendonça; promenade architeturale; arquitetura alveolar"
 abstract_en: |
   The present paper discusses preservation and the documental value of modern architecture, stressing the importance of past architectural production as material for academic reflection. To this end, it looks at the Casado d’Azevedo house, built in Porto Alegre by 1950: an example of interventions without criteria, which disfigure the modern architectural heritage. This house is a testimony of the propagation of the Corbusian lineage which reached the distant Gaucho capital through the exemplary influence of the Carioca School on the rest of the country in that moment. The work looks at some promising residential arrangements developed in Brazilian modern architecture in the 1940s, but which had already been abandoned by the early 1950s. Those houses presented compositions of volumes and shades and spatial continuity between the different storeys, which resulted from the disposition of the vertical circulation and of spatial arrangements. The beginnings of that Brazilian experience were to be found in two houses designed by Niemeyer in 1942: the Chico Peixoto house, in Cataguazes, and his house by the Rodrigo de Freitas lagoon. The latter, especially, had as its most literal model the Villa Savoye, in which Le Corbusier had brought together, in a pioneering way, the concepts of an “alveolar architecture” and of the promenade architecturale, created by himself in the 1920s.
-keywords_en:
-  - "modern architecture; Casado d’Azevedo house; Holanda Mendonça; promenade architecturale; alveolar architecture"
 authors:
   - givenname: "Luís Henrique Haas"
     familyname: "Luccas"

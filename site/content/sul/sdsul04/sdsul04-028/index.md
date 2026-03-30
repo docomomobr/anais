@@ -43,6 +43,10 @@ autores:
   - "Cortés, Macarena"
   - "D'Alençon, Luz María Vergara"
   - "Gomes, Anita Puig"
+palabras-clave:
+  - "Turismo"
+  - "Arquitectura moderna"
+  - "Infraestructura Hotelera"
 ---
 
 ## Referências

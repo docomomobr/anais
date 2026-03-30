@@ -46,6 +46,10 @@ palavras-chave:
   - "Horacio Baliero"
   - "Cemitério Parque de Mar del Plata"
   - "Arquitetura Moderna"
+keywords:
+  - "Horacio Baliero"
+  - "Cemetery Park of Mar del Plata"
+  - "Modern Architecture"
 ---
 
 ## Referências

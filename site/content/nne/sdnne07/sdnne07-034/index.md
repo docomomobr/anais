@@ -60,6 +60,14 @@ palavras-chave:
   - "Arquitetura moderna no Ceará"
   - "Roberto Castelo"
   - "Teoria do arquitetura"
+keywords:
+  - "Modern Architecture in Ceará"
+  - "Roberto Castelo"
+  - "Theory of Architecture"
+palabras-clave:
+  - "Arquitectura moderna en Ceará"
+  - "Roberto Castelo"
+  - "Teoria de arquitectura"
 ---
 
 ## Referências

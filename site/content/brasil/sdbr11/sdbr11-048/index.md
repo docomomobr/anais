@@ -50,6 +50,11 @@ palavras-chave:
   - "Palacio de La Luz"
   - "Uruguai"
   - "UTE"
+keywords:
+  - "Fresnedo Siri"
+  - "Palacio de La Luz"
+  - "Uruguay"
+  - "UTE"
 ---
 
 ## Referências

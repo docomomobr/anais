@@ -65,6 +65,14 @@ palavras-chave:
   - "arquitetura moderna santista"
   - "inventário"
   - "patrimonio cultural"
+keywords:
+  - "modern Santista architecture"
+  - "inventory"
+  - "cultural heritage"
+palabras-clave:
+  - "arquitectura santista moderna"
+  - "inventario"
+  - "patrimonio cultural"
 ---
 
 ## Referências

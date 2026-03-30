@@ -54,6 +54,11 @@ palavras-chave:
   - "Casa Douglas"
   - "Richard Meier"
   - "Arquitetura dos anos 1960-75"
+keywords:
+  - "Modern single-family house"
+  - "Douglas House"
+  - "Richard Meier"
+  - "Architecture of the years 1960-75"
 ---
 
 ## Referências

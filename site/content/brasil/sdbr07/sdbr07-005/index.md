@@ -43,6 +43,9 @@ autores:
 palavras-chave:
   - "projeto"
   - "patrimônio"
+keywords:
+  - "project"
+  - "heritage"
 ---
 
 ## Referências

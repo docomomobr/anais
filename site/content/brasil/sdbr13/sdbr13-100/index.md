@@ -59,6 +59,12 @@ palavras-chave:
   - "arquitetura e diplomacia"
   - ", embaixadas"
   - "Olavo Redig de Campos"
+keywords:
+  - "documentation"
+  - "modern architecture"
+  - "architecture and diplomacy"
+  - "embassies"
+  - "Olavo Redig, de Campos"
 ---
 
 ## Referências

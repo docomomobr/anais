@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Modernidade Urbana"
   - "Fortaleza"
+keywords:
+  - "Urban Modernity"
+  - "Fortaleza"
 ---
 
 ## Referências

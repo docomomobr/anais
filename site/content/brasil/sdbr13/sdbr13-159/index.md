@@ -55,6 +55,13 @@ palavras-chave:
   - "Síntese das Artes"
   - "Nova"
   - "Monumentalidade"
+keywords:
+  - "Interlocution Brazil and Europe"
+  - "CIAM"
+  - "Modern Architecture"
+  - "Synthesis of the Arts"
+  - "New"
+  - "Monumentality"
 ---
 
 ## Referências

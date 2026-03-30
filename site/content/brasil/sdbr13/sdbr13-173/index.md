@@ -35,9 +35,6 @@ keywords_en:
   - "school"
   - "reinforced concrete"
   - "Brazil"
-  - "Concreto Armado no Brasil: invenção"
-  - "história"
-  - "revisões"
 authors:
   - givenname: "Maria Luiza Macedo Xavier de"
     familyname: "Freitas"
@@ -53,6 +50,11 @@ palavras-chave:
   - "escola"
   - "concreto armado"
   - "Brasil"
+keywords:
+  - "history"
+  - "school"
+  - "reinforced concrete"
+  - "Brazil"
 ---
 
 ## Referências

@@ -66,6 +66,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "Teresina"
   - "Anísio Medeiros"
+keywords:
+  - "modern architecture"
+  - "Teresina"
+  - "Anísio Medeiros"
 ---
 
 ## Referências

@@ -56,6 +56,14 @@ palavras-chave:
   - "Territórios universitários"
   - "Arquitetura universitária"
   - "História das universidades"
+keywords:
+  - "University territories"
+  - "University architecture"
+  - "History of universities"
+palabras-clave:
+  - "Territorios universitarios"
+  - "Arquitectura universitaria"
+  - "Historia de las universidades"
 ---
 
 ## Referências

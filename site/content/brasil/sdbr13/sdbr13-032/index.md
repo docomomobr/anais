@@ -55,6 +55,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Ceará"
   - "Juazeiro do Norte"
+keywords:
+  - "Architectural historical heritage"
+  - "Modern architecture"
+  - "Ceará"
+  - "Juazeiro do Norte"
 ---
 
 ## Referências

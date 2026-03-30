@@ -48,6 +48,10 @@ palavras-chave:
   - "historiografia"
   - "conceito"
   - "Movimento Moderno"
+keywords:
+  - "historiography"
+  - "concept"
+  - "Modern Movement"
 ---
 
 ## Referências

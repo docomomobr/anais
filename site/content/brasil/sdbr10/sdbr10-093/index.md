@@ -49,6 +49,10 @@ palavras-chave:
   - "Brutalismo"
   - "Arquitetura Bancária"
   - "J.D.Debiagi"
+keywords:
+  - "Brutalism"
+  - "Banking Architecture"
+  - "J.D.Debiagi"
 ---
 
 ## Referências

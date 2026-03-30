@@ -59,6 +59,14 @@ palavras-chave:
   - "Roraima"
   - "Arquitetura na Amazônia"
   - "Pesquisa documental"
+keywords:
+  - "Roraima"
+  - "Architecture in the Amazon"
+  - "Documentary research"
+palabras-clave:
+  - "Roraima"
+  - "Arquitectura en la Amazonía"
+  - "Investigación documental"
 ---
 
 ## Referências

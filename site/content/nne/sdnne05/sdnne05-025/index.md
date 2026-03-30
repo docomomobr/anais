@@ -54,6 +54,10 @@ palavras-chave:
   - "Acessibilidade"
   - "Patrimônio moderno em Fortaleza"
   - "Interferências"
+keywords:
+  - "Accessibility"
+  - "Modern Heritage in Fortaleza"
+  - "Interferences"
 ---
 
 ## Referências

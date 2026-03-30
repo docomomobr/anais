@@ -69,6 +69,18 @@ palavras-chave:
   - "patrimônio"
   - "turismo"
   - "arquitetura hoteleira"
+keywords:
+  - "Protomodern architecture"
+  - "Lord Hotel"
+  - "heritage"
+  - "tourism"
+  - "architecture hotelier"
+palabras-clave:
+  - "Arquitectura protomoderna"
+  - "Lord Hotel"
+  - "patrimonio"
+  - "turismo"
+  - "arquitectura hotelera"
 ---
 
 ## Referências

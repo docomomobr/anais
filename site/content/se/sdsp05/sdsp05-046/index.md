@@ -55,6 +55,12 @@ palavras-chave:
   - "Tratamento do Chão"
   - "Monumentalidade"
   - "Iluminação Natural"
+keywords:
+  - "Brutalism"
+  - "Essence"
+  - "Ground Plane"
+  - "Monumentality"
+  - "Natural Light"
 ---
 
 ## Referências

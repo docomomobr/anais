@@ -51,6 +51,10 @@ palavras-chave:
   - "concreto"
   - "linguagem"
   - "gramática"
+keywords:
+  - "Niemeyer"
+  - "grammar"
+  - "language"
 ---
 
 ## Referências

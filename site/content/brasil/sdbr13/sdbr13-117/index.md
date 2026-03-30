@@ -55,6 +55,12 @@ palavras-chave:
   - "cotidiano"
   - "imagens"
   - "escritos"
+keywords:
+  - "City"
+  - "technics"
+  - "daily life"
+  - "images"
+  - "writing"
 ---
 
 ## Referências

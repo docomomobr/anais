@@ -49,6 +49,11 @@ palavras-chave:
   - "Restauro e Retrofit"
   - "Centro Cívico"
   - "Curitiba"
+keywords:
+  - "Sergio Rodrigues"
+  - "Restoration and Retrofit"
+  - "Cívic Center"
+  - "Cuiritiba"
 ---
 
 ## Referências

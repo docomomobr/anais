@@ -54,6 +54,14 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Sistema financeiro da habitação"
   - "Conjuntos habitacionais"
+keywords:
+  - "Modern Brazilian architecture"
+  - "Housing financial system"
+  - "Housing estates"
+palabras-clave:
+  - "Arquitectura brasileña moderna"
+  - "Sistema de vivenda financeira"
+  - "Viviendas"
 ---
 
 ## Referências

@@ -62,6 +62,14 @@ palavras-chave:
   - "Concurso"
   - "Exposição"
   - "Acervo"
+keywords:
+  - "Contest"
+  - "Exhibition"
+  - "Archive"
+palabras-clave:
+  - "Concurso"
+  - "Exposición"
+  - "Archivo"
 ---
 
 ## Referências

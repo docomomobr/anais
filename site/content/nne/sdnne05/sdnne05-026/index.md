@@ -50,6 +50,10 @@ palavras-chave:
   - "Paisagem amazônica"
   - "Desenvolvimento regional"
   - "Projeto modernista"
+keywords:
+  - "Amazon landscape"
+  - "Regional development"
+  - "Modernist project"
 ---
 
 ## Referências

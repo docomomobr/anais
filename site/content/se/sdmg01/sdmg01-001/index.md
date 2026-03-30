@@ -50,6 +50,10 @@ palavras-chave:
   - "Brutalismo"
   - "Triângulo Mineiro"
   - "Wagner Schroden"
+keywords:
+  - "Brutalism"
+  - "Minas Triangle"
+  - "Wagner Schroden"
 ---
 
 ## Referências

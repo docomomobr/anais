@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "São Paulo"
   - "Ipesp"
+keywords:
+  - "modernarchitecture"
+  - "São Paulo"
+  - "Ipesp"
 ---
 
 ## Referências

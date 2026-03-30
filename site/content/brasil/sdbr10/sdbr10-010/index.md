@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Brasileira"
   - "São Paulo"
   - "Brutalismo"
+keywords:
+  - "Brazilian architecture"
+  - "São Paulo"
+  - "Brutalism"
 ---
 
 ## Referências

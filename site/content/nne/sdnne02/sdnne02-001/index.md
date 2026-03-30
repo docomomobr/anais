@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura moderna Recife"
   - "escola regional"
   - "identidade local"
+keywords:
+  - "Recife modern architecture"
+  - "regional school"
+  - "local identity"
 ---
 
 ## Referências

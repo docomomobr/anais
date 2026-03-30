@@ -55,6 +55,10 @@ palavras-chave:
   - "modernidade"
   - "modernização"
   - "verticalização"
+keywords:
+  - "modernity"
+  - "modernization"
+  - "verticalization"
 ---
 
 ## Referências

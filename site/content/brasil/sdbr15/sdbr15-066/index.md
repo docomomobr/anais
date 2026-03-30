@@ -60,6 +60,14 @@ palavras-chave:
   - "Projeto Urbanístico"
   - "Urbanismo Moderno"
   - "Bairro Presidente Roosevelt"
+keywords:
+  - "Urbanistic Project"
+  - "Modern Urbanism"
+  - "Presidente Roosevelt Neighborhood"
+palabras-clave:
+  - "Proyecto Urbanístico"
+  - "Urbanismo Moderno"
+  - "Barrio Presidente Roosevelt"
 ---
 
 ## Referências

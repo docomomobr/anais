@@ -62,6 +62,14 @@ palavras-chave:
   - "Lucio Costa"
   - "Cidade Universitária do Brasil"
   - "Brasilidade"
+keywords:
+  - "Lucio Costa"
+  - "University City of Brazil"
+  - "Brazilianness"
+palabras-clave:
+  - "Lucio Costa"
+  - "Ciudad Universitaria de Brasil"
+  - "Brasilidad"
 ---
 
 ## Referências

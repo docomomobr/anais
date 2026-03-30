@@ -62,6 +62,16 @@ palavras-chave:
   - "Patrimônio cultural"
   - "Arquitetura ferroviária"
   - "Sertões do Ceará"
+keywords:
+  - "Modern architecture"
+  - "Cultural heritage"
+  - "Railway architecture"
+  - "Backlands of Ceará"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Patrimonio cultural"
+  - "Arquitectura ferroviaria"
+  - "Sertões do Ceará"
 ---
 
 ## Referências

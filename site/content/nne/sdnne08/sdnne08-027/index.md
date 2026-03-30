@@ -59,6 +59,16 @@ palavras-chave:
   - "Lucio Costa"
   - "Plano Piloto"
   - "arquitetura cemiterial"
+keywords:
+  - "Modern architecture"
+  - "Lucio Costa"
+  - "Pilot Plan"
+  - "tomb architecture"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Lucio Costa"
+  - "Plano Piloto"
+  - "arquitectura cementerial"
 ---
 
 ## Referências

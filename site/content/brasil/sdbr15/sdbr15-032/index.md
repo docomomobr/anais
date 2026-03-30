@@ -58,6 +58,14 @@ palavras-chave:
   - "Plataformas"
   - "arquitetura moderna"
   - "projeto arquitetônico"
+keywords:
+  - "Platform"
+  - "modern architecture"
+  - "architectural design"
+palabras-clave:
+  - "Plataforma"
+  - "arquitectura moderna"
+  - "proyecto arquitectónico"
 ---
 
 ## Referências

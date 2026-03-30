@@ -45,6 +45,10 @@ palavras-chave:
   - "Pavilhões de exposição"
   - "Expo´92 – Sevilha"
   - "Arquitetura Latino Americana"
+keywords:
+  - "Exhibition Pavilions"
+  - "Expo´92 - Sevilla"
+  - "Latin American Architecture"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Sobrados"
   - "Conjunto"
   - "Flexibilidade"
+keywords:
+  - "Townhouses"
+  - "Ensemble"
+  - "Flexibility"
+palabras-clave:
+  - "Sobrados"
+  - "Conjunto"
+  - "Flexibilidad"
 ---
 
 ## Referências

@@ -57,6 +57,14 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Cândido Portinari"
   - "Roberto Burle Marx"
+keywords:
+  - "Oscar Niemeyer"
+  - "Cândido Portinari"
+  - "Roberto Burle Marx"
+palabras-clave:
+  - "Oscar Niemeyer"
+  - "Cândido Portinari"
+  - "Roberto Burle Marx"
 ---
 
 ## Referências

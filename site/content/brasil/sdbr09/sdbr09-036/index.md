@@ -48,6 +48,10 @@ palavras-chave:
   - "historiografia da arquitetura"
   - "arquitetura moderna brasileira"
   - "industrialização e planejamento da arquitetura"
+keywords:
+  - "historiography of architecture"
+  - "Brazilian modern architecture"
+  - "planning and industrialization of architecture"
 ---
 
 ## Referências

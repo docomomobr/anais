@@ -46,6 +46,10 @@ palavras-chave:
   - "patrimônio arquitetônico moderno"
   - "patrimônio cultural"
   - "política e arquitetura"
+keywords:
+  - "modern architecture heritage"
+  - "cultural heritage"
+  - "politics and architecture"
 ---
 
 ## Referências

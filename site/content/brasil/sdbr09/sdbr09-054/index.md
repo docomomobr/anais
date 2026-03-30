@@ -58,6 +58,11 @@ palavras-chave:
   - "patrimônio recente"
   - "Pelotas"
   - "valor"
+keywords:
+  - "Urban planning"
+  - "recent heritage"
+  - "Pelotas"
+  - "value"
 ---
 
 ## Referências

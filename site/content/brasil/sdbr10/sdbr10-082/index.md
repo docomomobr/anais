@@ -52,6 +52,10 @@ palavras-chave:
   - "nexos tectônicos brutalistas"
   - "Arquitetura Moderna"
   - "Hotel Tambaú"
+keywords:
+  - "tectonic brutalist nexus"
+  - "Modern Architecture"
+  - "Hotel Tambaú"
 ---
 
 ## Referências

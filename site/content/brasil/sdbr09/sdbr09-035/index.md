@@ -51,6 +51,10 @@ palavras-chave:
   - "Higienópolis"
   - "Origens"
   - "Arquitetura Moderna"
+keywords:
+  - "Higienópolis"
+  - "Origens"
+  - "Modern Architecture"
 ---
 
 ## Referências

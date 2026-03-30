@@ -68,6 +68,12 @@ palavras-chave:
   - "Conservação da arquitetura moderna"
   - "Ginásios Desportivos"
   - "materiais"
+keywords:
+  - "Conservation of modern architecture"
+  - "sports arenas"
+  - "materials"
+  - "project"
+  - "rehabilitation"
 ---
 
 ## Referências

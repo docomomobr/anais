@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Residência"
   - "Ceará"
+keywords:
+  - "Modern Architecture"
+  - "Residence"
+  - "Ceará"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Residencia"
+  - "Ceará"
 ---
 
 ## Referências

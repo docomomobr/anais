@@ -64,6 +64,16 @@ palavras-chave:
   - "Modernismo"
   - "Contemporâneo"
   - "Joseísa Furtado"
+keywords:
+  - "Palmas"
+  - "Modernism"
+  - "Contemporary"
+  - "Joseísa Furtado"
+palabras-clave:
+  - "Palmas"
+  - "Modernismo"
+  - "Contemporáneo"
+  - "Joseísa Furtado"
 ---
 
 ## Referências

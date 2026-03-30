@@ -46,6 +46,10 @@ palavras-chave:
   - "Frank Svensson"
   - "Sudene"
   - "Ideologia"
+keywords:
+  - "Frank Svensson"
+  - "Sudene"
+  - "Ideology"
 ---
 
 ## Referências

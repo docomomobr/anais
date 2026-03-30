@@ -47,6 +47,10 @@ palavras-chave:
   - "pensamento moderno"
   - "política de preservação"
   - "Largo do Coimbra"
+keywords:
+  - "modern thought"
+  - "preservation policies"
+  - "Largo do Coimbra"
 ---
 
 ## Referências

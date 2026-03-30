@@ -47,6 +47,10 @@ palavras-chave:
   - "conjuntos residenciais"
   - "arquitetura moderna"
   - "preservação"
+keywords:
+  - "housing blocks"
+  - "modern architecture"
+  - "preservation"
 ---
 
 ## Referências

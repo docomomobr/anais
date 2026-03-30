@@ -46,6 +46,10 @@ palavras-chave:
   - "Paulo Mendes da Rocha"
   - "Ginásio do Clube Atlético Paulistano"
   - "laje plana"
+keywords:
+  - "Paulo Mendes"
+  - "Ginásio Clube atlético Paulistano"
+  - "flat roof"
 ---
 
 ## Referências

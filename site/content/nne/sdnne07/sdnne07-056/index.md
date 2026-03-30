@@ -67,6 +67,18 @@ palavras-chave:
   - "Gerhard Bormann"
   - "Conjunto Residencial Passo da Pátria"
   - "Arquitetura moderna – Ceará"
+keywords:
+  - "Collective Housing"
+  - "Neudson Braga"
+  - "Gerhard Bormann"
+  - "Residential Complex Passo da Pátria"
+  - "Modern architecture - Ceará"
+palabras-clave:
+  - "Vivienda colectiva"
+  - "Neudson Braga"
+  - "Gerhard Bormann"
+  - "Conjunto Residencial Paso de la Patria"
+  - "Arquitectura moderna - Ceará"
 ---
 
 ## Referências

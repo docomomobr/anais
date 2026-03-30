@@ -64,6 +64,14 @@ palavras-chave:
   - "Azulejos"
   - "Athos Bulcão"
   - "Crato"
+keywords:
+  - "Ceramic tiles"
+  - "Athos Bulcão"
+  - "Crato"
+palabras-clave:
+  - "Baldosas"
+  - "Athos Bulcão"
+  - "Crato"
 ---
 
 ## Referências

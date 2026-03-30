@@ -50,6 +50,10 @@ palavras-chave:
   - "composição"
   - "edifício de apartamentos"
   - "geometria"
+keywords:
+  - "composition"
+  - "apartment building"
+  - "geometry"
 ---
 
 ## Referências

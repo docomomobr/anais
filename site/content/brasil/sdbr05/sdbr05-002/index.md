@@ -50,6 +50,11 @@ palavras-chave:
   - "Universidade"
   - "Brasília"
   - "Modernismo"
+keywords:
+  - "Student lodging"
+  - "University"
+  - "Brasilia"
+  - "Modernism"
 ---
 
 ## Referências

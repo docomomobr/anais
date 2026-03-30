@@ -104,6 +104,11 @@ palavras-chave:
   - "Materiais"
   - "Arte"
   - "Recife"
+keywords:
+  - "Modern Architecture"
+  - "Materials"
+  - "Art"
+  - "Recife"
 ---
 
 ## Referências

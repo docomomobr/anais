@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "Rio de Janeiro"
   - "historiografia da arquitetura"
+keywords:
+  - "skyscraper"
+  - "Modern Architecture – Rio de Janeiro"
+  - "Historiography of Architecture"
 ---
 
 ## Referências

@@ -67,6 +67,11 @@ palavras-chave:
   - "Acervo"
   - "Conservação"
   - "Preservação"
+keywords:
+  - "Armando de Holanda"
+  - "Collection"
+  - "Conservation"
+  - "Preservation"
 ---
 
 ## Referências

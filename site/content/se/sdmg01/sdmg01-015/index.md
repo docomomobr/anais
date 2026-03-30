@@ -43,6 +43,10 @@ palavras-chave:
   - "Sylvio de Vasconcellos"
   - "Detalhes de arquitetura"
   - "Sistemas construtivos"
+keywords:
+  - "Sylvio de Vasconcellos"
+  - "Architectural details"
+  - "Building systems"
 ---
 
 ## Referências

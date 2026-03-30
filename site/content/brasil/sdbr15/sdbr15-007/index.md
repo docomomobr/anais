@@ -63,6 +63,14 @@ palavras-chave:
   - "Modernização Arquitetônica"
   - "Estado Novo"
   - "Arquitetura Mato-grossense"
+keywords:
+  - "Architectural Modernization"
+  - "Estado Novo"
+  - "Mato Grosso Architecture"
+palabras-clave:
+  - "Modernización arquitectónica"
+  - "Estado Novo"
+  - "Arquitectura de Mato Grosso"
 ---
 
 ## Referências

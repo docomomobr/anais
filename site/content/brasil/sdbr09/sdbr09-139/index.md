@@ -47,6 +47,18 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:
   - "Maluenda, Ana Esteban"
+keywords:
+  - "Brazil"
+  - "Spain"
+  - "Modern Architecture"
+  - "spreading"
+  - "periodicals"
+palabras-clave:
+  - "Brasil"
+  - "Espanha"
+  - "arquitetura moderna"
+  - "difusão"
+  - "publicações periódicas"
 ---
 
 ## Referências

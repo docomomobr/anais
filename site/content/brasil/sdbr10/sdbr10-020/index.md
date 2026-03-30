@@ -49,6 +49,10 @@ palavras-chave:
   - "megaestruturas"
   - "Brutalismo"
   - "campus universitário"
+keywords:
+  - "megaestructures"
+  - "Brutalism"
+  - "universitary campus"
 ---
 
 ## Referências

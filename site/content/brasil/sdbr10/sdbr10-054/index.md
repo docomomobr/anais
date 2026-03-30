@@ -48,6 +48,10 @@ palavras-chave:
   - "Rizoma"
   - "Homo Ludens"
   - "Máquina de guerra"
+keywords:
+  - "Rhizome"
+  - "Homo Ludens"
+  - "War Machine"
 ---
 
 ## Referências

@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "João Pessoa"
   - "Jornal A União"
+keywords:
+  - "Modern Architecture"
+  - "João Pessoa"
+  - "A União Journal"
 ---
 
 ## Referências

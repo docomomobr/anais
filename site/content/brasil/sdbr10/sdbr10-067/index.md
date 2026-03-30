@@ -51,6 +51,10 @@ palavras-chave:
   - "Acácio Gil Borsoi"
   - "tradição clássica"
   - "nova monumentalidade"
+keywords:
+  - "Acácio Gil Borsoi"
+  - "Classical Tradition"
+  - "New Monumentality"
 ---
 
 ## Referências

@@ -48,6 +48,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna"
   - "janelas"
+keywords:
+  - "modern architecture"
+  - "windows"
 ---
 
 ## Referências

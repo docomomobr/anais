@@ -58,6 +58,14 @@ palavras-chave:
   - "Residências"
   - "Pernambuco"
   - "Brasil"
+keywords:
+  - "Residences"
+  - "Pernambuco"
+  - "Brazil"
+palabras-clave:
+  - "Residencias"
+  - "Pernambuco"
+  - "Brasil"
 ---
 
 ## Referências

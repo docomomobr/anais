@@ -64,6 +64,16 @@ palavras-chave:
   - "Turismo"
   - "Infraestrutura"
   - "Aeroporto"
+keywords:
+  - "Modern architecture"
+  - "Tourism"
+  - "Infrastructure"
+  - "Airport"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Turismo"
+  - "Infraestructuras"
+  - "Aeropuerto"
 ---
 
 ## Referências

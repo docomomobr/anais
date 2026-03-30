@@ -53,6 +53,11 @@ palavras-chave:
   - "Tarsila do Amaral"
   - "Pintura de Paisagem"
   - "Minas Gerais"
+keywords:
+  - "Architecture and art"
+  - "Tarsila do Amaral"
+  - "Landscape Painting"
+  - "Minas Gerais"
 ---
 
 ## Referências

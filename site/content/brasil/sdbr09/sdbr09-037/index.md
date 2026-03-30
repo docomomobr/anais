@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura contemporânea"
   - "acervos de projetos"
   - "arquitetura de concursos"
+keywords:
+  - "contemporany architecture"
+  - "projects collection"
+  - "architecture of contests"
 ---
 
 ## Referências

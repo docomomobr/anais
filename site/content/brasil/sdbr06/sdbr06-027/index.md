@@ -41,6 +41,8 @@ autores:
   - "Andrade, Inês El-Jaick"
 palavras-chave:
   - "patrimônio cultural- identidade nacional - jardim histórico"
+keywords:
+  - "cultural heritage - national identity - historical garden"
 ---
 
 ## Referências

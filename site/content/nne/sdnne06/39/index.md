@@ -44,6 +44,10 @@ palavras-chave:
   - "Severiano Porto"
   - "processo de projeto"
   - "Aldeia SOS do Amazonas"
+keywords:
+  - "Severiano Porto"
+  - "design solution"
+  - "Children's Village Amazonas"
 ---
 
 ## Referências

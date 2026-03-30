@@ -44,6 +44,10 @@ palavras-chave:
   - "desenvolvimento tecnológico"
   - "indústria siderúrgica"
   - "construção civil"
+keywords:
+  - "technological development"
+  - "steel industry"
+  - "civil construction"
 ---
 
 ## Referências

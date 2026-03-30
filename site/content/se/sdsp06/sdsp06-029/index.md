@@ -48,6 +48,10 @@ palavras-chave:
   - "Monumental"
   - "Urbanismo moderno"
   - "Parque urbano"
+keywords:
+  - "Monumental"
+  - "Urban modernism"
+  - "Urban park"
 ---
 
 ## Referências

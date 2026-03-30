@@ -65,6 +65,17 @@ palavras-chave:
   - "Modelos Organizacionais da Produção Arquitetônica"
   - ", Arquitetura Moderna em Bogotá"
   - "Processos na Produção de Edificações"
+keywords:
+  - "Architecture firms"
+  - "Organizational models in architectural practices"
+  - "Bogotá modernist"
+  - "architecture"
+  - "Production process of buildings"
+palabras-clave:
+  - "Firmas de arquitectura"
+  - "Modelos organizativos de producción arquitectónica"
+  - "Arquitectura moderna en Bogotá"
+  - "Procesos de producción edificatoria"
 ---
 
 ## Referências

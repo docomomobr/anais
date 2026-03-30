@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Belém"
   - "Modernização"
+keywords:
+  - "Modern Architecture"
+  - "Belém"
+  - "Modernization"
 ---
 
 ## Referências

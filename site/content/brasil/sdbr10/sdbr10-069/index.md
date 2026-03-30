@@ -48,6 +48,10 @@ palavras-chave:
   - "Cidade universitária moderna"
   - "Habitação universitária"
   - "Experimentação brutalista"
+keywords:
+  - "Modern university cities"
+  - "University housing"
+  - "Brutalist exploration"
 ---
 
 ## Referências

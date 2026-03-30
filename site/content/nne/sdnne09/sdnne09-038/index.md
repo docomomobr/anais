@@ -57,6 +57,12 @@ palavras-chave:
   - "Cine São Luiz"
   - "valor de antiguidade"
   - "obsolescência"
+keywords:
+  - "Twentieth-century architecture"
+  - "modern architecture"
+  - "Cine São Luiz"
+  - "age value"
+  - "obsolescence"
 ---
 
 ## Referências

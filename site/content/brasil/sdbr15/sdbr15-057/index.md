@@ -67,6 +67,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura Popular"
   - "Uberlândia/MG"
+keywords:
+  - "Modern Architecture"
+  - "Popular Architecture"
+  - "Uberlândia/MG"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Arquitectura Popular"
+  - "Uberlândia/MG"
 ---
 
 ## Referências

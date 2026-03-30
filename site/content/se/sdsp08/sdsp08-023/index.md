@@ -60,6 +60,14 @@ palavras-chave:
   - "Restauro"
   - "Fachadas"
   - "MASP"
+keywords:
+  - "Restoration"
+  - "Facades"
+  - "MASP"
+palabras-clave:
+  - "Restauración"
+  - "Fachadas"
+  - "MASP"
 ---
 
 ## Referências

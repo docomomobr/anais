@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitectura moderna brasileira"
   - "Arquitectura moderna em Angola"
   - "Arquitectura moderna portuguesa"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Modern Architecture in Angola"
+  - "Portuguese Modern Architecture"
 ---
 
 ## Referências

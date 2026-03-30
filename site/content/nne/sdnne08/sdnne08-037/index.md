@@ -60,6 +60,14 @@ palavras-chave:
   - "Revista Projeto"
   - "revistas de arquitetura"
   - "arquitetura brasileira"
+keywords:
+  - "Projeto magazine"
+  - "Architecture magazines"
+  - "Brazilian architecture"
+palabras-clave:
+  - "Revista Projeto"
+  - "Revistas de arquitectura"
+  - "Arquitectura brasileña"
 ---
 
 ## Referências

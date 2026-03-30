@@ -48,6 +48,10 @@ palavras-chave:
   - "Cuba"
   - "Utopia"
   - "Ciudad Universitaria"
+keywords:
+  - "Cuba"
+  - "Utopia"
+  - "Ciudad Universitaria"
 ---
 
 ## Referências

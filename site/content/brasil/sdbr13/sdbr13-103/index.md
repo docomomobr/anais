@@ -49,6 +49,10 @@ palavras-chave:
   - "​patrimônio universitário"
   - "patrimonialização"
   - "Universidade de São Paulo"
+keywords:
+  - "university heritage"
+  - "heritage making"
+  - "University of São Paulo"
 ---
 
 ## Referências

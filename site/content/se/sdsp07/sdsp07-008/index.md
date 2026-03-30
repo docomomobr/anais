@@ -61,6 +61,14 @@ palavras-chave:
   - "Escola Paulista"
   - "Brutalismo"
   - "Concreto"
+keywords:
+  - "Paulist school"
+  - "Brutalism"
+  - "Concrete"
+palabras-clave:
+  - "Escuela Paulista"
+  - "Brutalismo"
+  - "Hormigón"
 ---
 
 ## Referências

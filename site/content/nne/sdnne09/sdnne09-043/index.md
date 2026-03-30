@@ -61,6 +61,11 @@ palavras-chave:
   - "centro cultural"
   - "modernismo"
   - "Juazeiro do Norte"
+keywords:
+  - "Banco do Nordeste"
+  - "cultural center"
+  - "modernism"
+  - "Juazeiro do Norte"
 ---
 
 ## Referências

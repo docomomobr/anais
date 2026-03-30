@@ -49,6 +49,10 @@ palavras-chave:
   - "Primeira República (Brasil)"
   - "vitrais"
   - "cultura visual"
+keywords:
+  - "First Republic (Brazil)"
+  - "stained glasses"
+  - "visual culture"
 ---
 
 ## Referências

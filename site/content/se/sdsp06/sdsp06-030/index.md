@@ -48,6 +48,10 @@ palavras-chave:
   - "História da Arquitetura em São Paulo"
   - "Clubes"
   - "Fábio Penteado"
+keywords:
+  - "History of Architecture in São Paulo"
+  - "Clubs"
+  - "Fábio Penteado"
 ---
 
 ## Referências

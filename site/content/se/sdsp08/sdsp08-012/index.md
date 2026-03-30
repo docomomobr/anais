@@ -62,6 +62,14 @@ palavras-chave:
   - "Acervos"
   - "Biblioteca"
   - "Difusão"
+keywords:
+  - "Collections"
+  - "Library"
+  - "Dissemination"
+palabras-clave:
+  - "Colecciones"
+  - "Biblioteca"
+  - "Difusión"
 ---
 
 ## Referências

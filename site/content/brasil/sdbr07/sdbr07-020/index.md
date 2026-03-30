@@ -53,6 +53,10 @@ palavras-chave:
   - "Praça dos Três Poderes"
   - "Oscar Niemeyer"
   - "Edifícios Anexos"
+keywords:
+  - "Three Powers Square"
+  - "Oscar Niemeyer"
+  - "Annex Buildings"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "pilotis"
   - "arquitetura moderna brasileira"
   - "arquitetura contemporânea brasileira"
+keywords:
+  - "pilotis"
+  - "modern Brazilian architecture"
+  - "contemporary Brazilian architetcture"
 ---
 
 ## Referências

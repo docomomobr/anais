@@ -49,6 +49,10 @@ palavras-chave:
   - "mobiliário"
   - "Lina Bo Bardi"
   - "Giancarlo Palanti"
+keywords:
+  - "furniture"
+  - "Lina Bo Bardi"
+  - "Giancarlo Palanti"
 ---
 
 ## Referências

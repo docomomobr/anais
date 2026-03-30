@@ -46,6 +46,10 @@ palavras-chave:
   - "História"
   - "Moderno"
   - "Religião"
+keywords:
+  - "History"
+  - "Modern"
+  - "Religion"
 ---
 
 ## Referências

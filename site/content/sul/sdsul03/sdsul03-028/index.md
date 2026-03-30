@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "arquitetura"
   - "construção de madeira"
+keywords:
+  - "architecture"
+  - "balloon frame"
 ---
 
 ## Referências

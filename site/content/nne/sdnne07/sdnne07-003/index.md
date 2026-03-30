@@ -66,6 +66,16 @@ palavras-chave:
   - "GrupoQuatro"
   - "arquitetura institucional"
   - "arquitetura moderna brasileira"
+keywords:
+  - "Palmas-Tocantins"
+  - "GrupoQuatro"
+  - "institutional architecture"
+  - "modern Brazilian architecture"
+palabras-clave:
+  - "Palmas-Tocantins"
+  - "GrupoQuatro"
+  - "arquitectura institucional"
+  - "arquitectura moderna brasileña"
 ---
 
 ## Referências

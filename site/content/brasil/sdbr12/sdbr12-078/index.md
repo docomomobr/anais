@@ -52,6 +52,10 @@ palavras-chave:
   - "Preservação"
   - "Arquitetura"
   - "Palácio do Congresso Nacional"
+keywords:
+  - "Preservation"
+  - "Architecture"
+  - "Palace of Congress"
 ---
 
 ## Referências

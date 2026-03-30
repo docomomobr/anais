@@ -55,6 +55,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "Fortaleza"
   - "Roberto Castelo"
+keywords:
+  - "Modern architecture"
+  - "Fortaleza"
+  - "Brazil"
+  - "Roberto Castelo"
 ---
 
 ## Referências

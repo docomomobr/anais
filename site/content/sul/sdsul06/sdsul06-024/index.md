@@ -46,6 +46,10 @@ palavras-chave:
   - "Casa Ocampo"
   - "Alejandro Bustillo"
   - "vanguarda"
+keywords:
+  - "Casa Ocampo"
+  - "Alejandro Bustillo"
+  - "vanguard"
 ---
 
 ## Referências

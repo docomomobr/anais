@@ -42,6 +42,8 @@ autores:
   - "Costa, Angélica Irene da"
 palavras-chave:
   - "Arquitetura brasileira. Educação. Arquitetura moderna brasileira"
+keywords:
+  - "Brazilian architecture. Education. Brazilian modern architecture"
 ---
 
 ## Referências

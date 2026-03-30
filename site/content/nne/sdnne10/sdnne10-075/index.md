@@ -53,6 +53,14 @@ palavras-chave:
   - "Salvador"
   - "história da cidade"
   - "história da arquitetura do século XX em Salvador"
+keywords:
+  - "Salvador"
+  - "History of the city"
+  - "History of 20th century architecture in Salvador"
+palabras-clave:
+  - "Salvador"
+  - "historia de la ciudad"
+  - "historia de la arquitectura del siglo XX en Salvador"
 ---
 
 ## Referências

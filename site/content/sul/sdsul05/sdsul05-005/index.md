@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Arquitetura Moderna Brasileira"
   - "Flexibilidade"
+keywords:
+  - "Modern Architecture"
+  - "Modern Architecture in Brazil"
+  - "Flexibility"
 ---
 
 ## Referências

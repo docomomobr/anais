@@ -62,6 +62,14 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna"
   - "São Luís, Braga Diniz"
+keywords:
+  - "Modern Architecture"
+  - "São Luís"
+  - "Braga Diniz"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "São Luís"
+  - "Braga Diniz"
 ---
 
 ## Referências

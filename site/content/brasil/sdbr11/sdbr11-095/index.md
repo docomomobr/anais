@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "Hans"
   - "Scharoun"
+keywords:
+  - "Hans"
+  - "Scharoun"
 ---
 
 ## Referências

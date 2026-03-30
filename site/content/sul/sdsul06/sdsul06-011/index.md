@@ -52,6 +52,12 @@ palavras-chave:
   - "Hospital de Veneza"
   - "Embaixada da França em Brasília"
   - "Yellow Peripherical Distinction"
+keywords:
+  - "Guillermo Jullian de la Fuente"
+  - "Le Corbusier"
+  - "Venice Hospital"
+  - "Embassy of France in Brasilia"
+  - "Yellow Peripherical Distinction"
 ---
 
 ## Referências

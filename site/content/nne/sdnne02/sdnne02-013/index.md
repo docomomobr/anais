@@ -81,6 +81,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Edifício-Alto"
   - "Recife"
+keywords:
+  - "Modern Architecture"
+  - "High-rise building"
+  - "Recife"
 ---
 
 ## Referências

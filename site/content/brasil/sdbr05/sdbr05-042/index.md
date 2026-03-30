@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "salvador"
   - "Diógenes Rebouças"
+keywords:
+  - "Modern architecture"
+  - "Salvador"
+  - "Diógenes Rebouças"
 ---
 
 ## Referências

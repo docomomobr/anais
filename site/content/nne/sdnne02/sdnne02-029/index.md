@@ -63,6 +63,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "preservação do patrimônio"
   - "teoria e critica de arquitetura"
+keywords:
+  - "modern architecture"
+  - "heritage conservation"
+  - "architecture theory and critique"
 ---
 
 ## Referências

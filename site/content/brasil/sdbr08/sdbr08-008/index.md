@@ -57,6 +57,10 @@ palavras-chave:
   - "Arte Moderna"
   - "Arquitetura Moderna"
   - "Salvador"
+keywords:
+  - "Modern Art"
+  - "Modern Architecture"
+  - "Salvador"
 ---
 
 ## Referências

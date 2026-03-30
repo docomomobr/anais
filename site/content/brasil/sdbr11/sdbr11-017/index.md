@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna – Recife"
   - "Azulejo"
   - "Delfim Amorim – Edifícios"
+keywords:
+  - "Modern Architecture – Recife"
+  - "Tile"
+  - "Delfim Amorim – Buildings"
 ---
 
 ## Referências

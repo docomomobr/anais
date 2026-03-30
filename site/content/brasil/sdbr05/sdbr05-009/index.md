@@ -47,6 +47,10 @@ palavras-chave:
   - "Cidade Universitária"
   - "Santa Maria"
   - "Modernismo"
+keywords:
+  - "University City"
+  - "Santa Maria"
+  - "Modernism"
 ---
 
 ## Referências

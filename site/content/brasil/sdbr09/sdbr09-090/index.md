@@ -58,6 +58,12 @@ palavras-chave:
   - "documentação"
   - "Pernambuco"
   - "Nordeste Brasileiro"
+keywords:
+  - "Modern Architecture"
+  - "documentation"
+  - "criteria"
+  - "Pernambuco"
+  - "Northeast Brazil"
 ---
 
 ## Referências

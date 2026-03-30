@@ -45,6 +45,10 @@ palavras-chave:
   - "Nervi"
   - "hangar"
   - "pré-fabricado"
+keywords:
+  - "Nervi"
+  - "hangar"
+  - "prefabricated"
 ---
 
 ## Referências

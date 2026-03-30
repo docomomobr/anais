@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "inventário"
   - "projeto arquitetônico residencial"
+keywords:
+  - "Modern Architecture"
+  - "Inventory"
+  - "Architecture house plan"
 ---
 
 ## Referências

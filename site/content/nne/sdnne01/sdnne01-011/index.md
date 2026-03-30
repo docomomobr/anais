@@ -49,6 +49,10 @@ palavras-chave:
   - "BIENAIS"
   - "MODERNIDADE"
   - "DIVERSIDADE"
+keywords:
+  - "BIENNIALS"
+  - "MODERNITY"
+  - "DIVERSITY"
 ---
 
 ## Referências

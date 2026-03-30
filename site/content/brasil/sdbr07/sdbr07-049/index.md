@@ -48,6 +48,9 @@ palavras-chave:
   - "Preservação"
   - "restauro"
   - "rearquitetura"
+keywords:
+  - "Preservation"
+  - "restoration, rehabilitation"
 ---
 
 ## Referências

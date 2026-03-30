@@ -61,6 +61,14 @@ palavras-chave:
   - "Preservação"
   - "Deriva"
   - "Cartografia"
+keywords:
+  - "Preservation"
+  - "Derive"
+  - "Cartography"
+palabras-clave:
+  - "Preservación"
+  - "Deriva"
+  - "Cartografía"
 ---
 
 ## Referências

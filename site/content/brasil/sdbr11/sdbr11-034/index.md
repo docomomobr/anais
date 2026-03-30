@@ -47,6 +47,10 @@ palavras-chave:
   - "Design"
   - "Arquitetura Moderna brasileira no sul"
   - "Cláudio Araújo"
+keywords:
+  - "Design of industrial products"
+  - "Brazilian Modern architecture in the south"
+  - "Claudio Araujo"
 ---
 
 ## Referências

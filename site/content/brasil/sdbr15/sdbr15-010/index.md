@@ -57,6 +57,14 @@ palavras-chave:
   - "Madureira"
   - "Patrimônio"
   - "infraestrutura"
+keywords:
+  - "Madureira"
+  - "Heritage"
+  - "Infrastructure"
+palabras-clave:
+  - "Madureira"
+  - "patrimonio"
+  - "infraestructura"
 ---
 
 ## Referências

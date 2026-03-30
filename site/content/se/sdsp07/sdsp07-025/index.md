@@ -62,6 +62,14 @@ palavras-chave:
   - "Hospitais"
   - "Rino Levi"
   - "Siegbert Zanettini"
+keywords:
+  - "Hospitals"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
+palabras-clave:
+  - "Hospitales"
+  - "Rino Levi"
+  - "Siegbert Zanettini"
 ---
 
 ## Referências

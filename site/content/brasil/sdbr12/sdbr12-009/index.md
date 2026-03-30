@@ -40,6 +40,8 @@ autores:
   - "Chini, Vanessa Schnabel Fragoso"
 palavras-chave:
   - "Brasília, Eixão, apropriação, jogos semânticos"
+keywords:
+  - "Brasília, Eixão, appropriation, semantics game"
 ---
 
 ## Referências

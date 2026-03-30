@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura e documentação"
   - "Arquitetura moderna no RS"
   - "Arquiteto Emil Bered"
+keywords:
+  - "Architecture and documentation"
+  - "modern architecture in RS"
+  - "Architect Emil Bered"
 ---
 
 ## Referências

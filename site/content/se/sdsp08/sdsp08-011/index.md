@@ -55,6 +55,14 @@ palavras-chave:
   - "Historiografia"
   - "Documentação"
   - "Arquitetura Moderna"
+keywords:
+  - "Historiography"
+  - "Documentation"
+  - "Modern architecture"
+palabras-clave:
+  - "Historiografía"
+  - "Documentación"
+  - "Arquitectura moderna"
 ---
 
 ## Referências

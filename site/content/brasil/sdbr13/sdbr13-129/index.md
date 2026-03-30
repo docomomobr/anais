@@ -47,6 +47,10 @@ palavras-chave:
   - "Tectônica"
   - "Arquitetura Moderna"
   - "Tribunal de Justiça"
+keywords:
+  - "Tectonics"
+  - "Modern Architecture"
+  - "Court of Justice"
 ---
 
 ## Referências

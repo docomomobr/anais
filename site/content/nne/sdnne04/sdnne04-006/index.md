@@ -61,6 +61,10 @@ palavras-chave:
   - "Modernismo em Natal"
   - "Modernismo Erudito"
   - "Modernismo Popular"
+keywords:
+  - "Modernism in Natal"
+  - "Vanguard Modernism"
+  - "Popular Modernism"
 ---
 
 ## Referências

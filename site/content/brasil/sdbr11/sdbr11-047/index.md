@@ -47,6 +47,10 @@ palavras-chave:
   - "Galerias modernas"
   - "arquitetura moderna"
   - "metrópole e preservação"
+keywords:
+  - "Arcades"
+  - "modern architecture"
+  - "metropolis and preservation"
 ---
 
 ## Referências

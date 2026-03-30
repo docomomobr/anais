@@ -57,6 +57,14 @@ palavras-chave:
   - "Itália"
   - "Brasil"
   - "Tradição"
+keywords:
+  - "Italy"
+  - "Brazil"
+  - "Tradition"
+palabras-clave:
+  - "Italia"
+  - "Brasil"
+  - "Tradición"
 ---
 
 ## Referências

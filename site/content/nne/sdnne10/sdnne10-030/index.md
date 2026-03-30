@@ -60,6 +60,14 @@ palavras-chave:
   - "Movimento Moderno"
   - "Lins Arquitetos Associados"
   - "Arquitetura Contemporânea"
+keywords:
+  - "Modern Movement"
+  - "Lins Arquitetos Associados"
+  - "Contemporary Architecture"
+palabras-clave:
+  - "Movimiento Moderno"
+  - "Lins Arquitetos Associados"
+  - "Arquitectura Contemporánea"
 ---
 
 ## Referências

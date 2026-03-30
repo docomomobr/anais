@@ -49,6 +49,10 @@ palavras-chave:
   - "edifício escolar"
   - "patrimônio cultural"
   - "critérios de valoração"
+keywords:
+  - "school building"
+  - "cultural heritage"
+  - "valuation"
 ---
 
 ## Referências

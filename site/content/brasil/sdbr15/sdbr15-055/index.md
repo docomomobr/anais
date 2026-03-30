@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Nova"
   - "Desenvolvimento"
   - "Vanguarda"
+keywords:
+  - "Arquitetura Nova"
+  - "Development"
+  - "Avant-garde"
+palabras-clave:
+  - "Arquitetura Nova"
+  - "Desarrollo"
+  - "Vanguardia"
 ---
 
 ## Referências

@@ -63,6 +63,11 @@ palavras-chave:
   - "Coleção"
   - "Documento"
   - "Memória"
+keywords:
+  - "Modern Architecture"
+  - "Collection"
+  - "Document"
+  - "Memory"
 ---
 
 ## Referências

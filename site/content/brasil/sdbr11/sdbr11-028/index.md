@@ -56,6 +56,13 @@ palavras-chave:
   - "Função Social da Propriedade"
   - "Estatuto da Cidade"
   - "Plano Diretor de Natal"
+keywords:
+  - "Reis Magos International Hotel"
+  - "Social function of property"
+  - "City’s Statute"
+  - "Urban Master Plan"
+  - "Right to build"
+  - "transfer"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Preservação patrimônio moderno"
   - "Tombamento e perímetro de proteção"
   - "Incentivos fiscais"
+keywords:
+  - "Preservation of Modern Heritage"
+  - "Listing and Protection Perimeter"
+  - "Tax incentives"
+palabras-clave:
+  - "Preservación del patrimonio moderno"
+  - "Declaración de patrimonio y perímetro de protecció"
+  - "Incentivos fiscales"
 ---
 
 ## Referências

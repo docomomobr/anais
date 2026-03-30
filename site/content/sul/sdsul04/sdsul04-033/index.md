@@ -44,6 +44,10 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Ambientação Interna"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Interior Ambiance"
+  - "Internal settings"
 ---
 
 ## Referências

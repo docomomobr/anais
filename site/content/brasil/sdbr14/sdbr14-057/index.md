@@ -52,6 +52,11 @@ palavras-chave:
   - "Fotografia de arquitetura"
   - "arquitetura em São Paulo"
   - "Revista Acrópole"
+keywords:
+  - "José Moscardi"
+  - "Architectural photography"
+  - "architecture in São Paulo"
+  - "Acropolis Magazine"
 ---
 
 ## Referências

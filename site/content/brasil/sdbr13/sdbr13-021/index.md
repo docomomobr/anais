@@ -52,6 +52,11 @@ palavras-chave:
   - "Arquitetura de Saúde"
   - "Racionalização"
   - "Sanatório de Curicica"
+keywords:
+  - "Modern Architecture"
+  - "Health Architecture"
+  - "Rationalization"
+  - "Sanatorium of Curicica"
 ---
 
 ## Referências

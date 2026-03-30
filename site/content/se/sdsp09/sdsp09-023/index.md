@@ -60,6 +60,14 @@ palavras-chave:
   - "Paisagem"
   - "Patrimônio ambiental urbano"
   - "IGEPAC-SP"
+keywords:
+  - "Landscape"
+  - "Urban environmental heritage"
+  - "IGEPAC-SP"
+palabras-clave:
+  - "Paisaje"
+  - "Patrimonio ambiental urbano"
+  - "IGEPAC-SP"
 ---
 
 ## Referências

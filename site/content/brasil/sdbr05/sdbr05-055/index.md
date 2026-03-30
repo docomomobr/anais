@@ -50,6 +50,10 @@ palavras-chave:
   - "Bauhaus"
   - "São Paulo"
   - "arquitetura moderna paulista"
+keywords:
+  - "Bauhaus"
+  - "São Paulo"
+  - "São Paulo modern architecture"
 ---
 
 ## Referências

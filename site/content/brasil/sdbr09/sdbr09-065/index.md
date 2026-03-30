@@ -51,6 +51,10 @@ palavras-chave:
   - "Rio de Janeiro"
   - "Cemitério"
   - "Patrimônio Cultural"
+keywords:
+  - "Architecture cemetery, Modern Architecture, Rio de Janeiro"
+  - "Cemetery"
+  - "Cultural Heritage"
 ---
 
 ## Referências

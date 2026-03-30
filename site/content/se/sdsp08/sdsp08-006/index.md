@@ -61,6 +61,14 @@ palavras-chave:
   - "Patrimônio"
   - "Acervo de Arquitetura e Urbanismo"
   - "Profissão"
+keywords:
+  - "Heritage"
+  - "Architecture and Urbanism Collection"
+  - "Profession"
+palabras-clave:
+  - "Patrimonio"
+  - "Acervo de Arquitectura y Urbanismo"
+  - "Profesión"
 ---
 
 ## Referências

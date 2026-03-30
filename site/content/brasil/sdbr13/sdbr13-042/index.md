@@ -55,6 +55,13 @@ palavras-chave:
   - "Casa da Música"
   - "Cidade das Artes"
   - "Movimento Moderno"
+keywords:
+  - "Rem Koolhaas"
+  - "Christian de Portzamparc"
+  - "Casa da Música"
+  - "Cidade das Artes"
+  - "Modern"
+  - "Movement"
 ---
 
 ## Referências

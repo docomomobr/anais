@@ -56,6 +56,12 @@ palavras-chave:
   - "casa ordinária"
   - "usos da memória"
   - "Goiânia"
+keywords:
+  - "modern city"
+  - "erudite house"
+  - "ordinary house"
+  - "uses of memory"
+  - "Goiânia"
 ---
 
 ## Referências

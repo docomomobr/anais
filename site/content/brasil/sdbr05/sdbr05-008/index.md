@@ -54,6 +54,11 @@ palavras-chave:
   - "verticalização"
   - "imigrantes"
   - "São Paulo"
+keywords:
+  - "modern architecture"
+  - "tall buildings"
+  - "immigrants"
+  - "Sao Paulo"
 ---
 
 ## Referências

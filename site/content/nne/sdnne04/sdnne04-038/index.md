@@ -58,6 +58,10 @@ palavras-chave:
   - "jardim histórico"
   - "Burle Marx"
   - "conservação"
+keywords:
+  - "historic garden"
+  - "Burle Marx"
+  - "conservation"
 ---
 
 ## Referências

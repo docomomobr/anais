@@ -48,4 +48,8 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Brutalismo"
   - "Artigas"
+keywords:
+  - "Modern Architecture"
+  - "Brutalism"
+  - "Artigas"
 ---

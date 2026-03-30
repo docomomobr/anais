@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Arquitetura Moderna Brasileira no Sul"
   - "Arquitetura Moderna em Porto Alegre"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Brazilian Modern Architecture in South"
+  - "Modern Architecture in Porto Alegre"
 ---
 
 ## Referências

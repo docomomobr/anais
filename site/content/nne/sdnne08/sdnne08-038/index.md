@@ -69,6 +69,16 @@ palavras-chave:
   - "Salvador"
   - "Hélio Duarte"
   - "Intervenções"
+keywords:
+  - "Modern architecture"
+  - "Salvador"
+  - "Hélio Duarte"
+  - "Interventions"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Salvador"
+  - "Hélio Duarte"
+  - "Intervenciones"
 ---
 
 ## Referências

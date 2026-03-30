@@ -48,6 +48,9 @@ autores:
 palavras-chave:
   - "Lucio Costa"
   - "Arquitetura Moderna e materialidade"
+keywords:
+  - "Lucio Costa"
+  - "Materiality and Modern Architecture"
 ---
 
 ## Referências

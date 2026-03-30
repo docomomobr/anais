@@ -50,6 +50,11 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Casa de Vidro"
   - "Giuseppe Pagano"
+keywords:
+  - "Architecture"
+  - "Lina Bo Bardi"
+  - "Glass House"
+  - "Giuseppe Pagano"
 ---
 
 ## Referências

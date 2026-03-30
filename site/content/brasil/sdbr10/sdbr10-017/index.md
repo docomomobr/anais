@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Brutalismo"
   - "Plano de Ação do Governo Carvalho Pinto"
+keywords:
+  - "Modern Architecture"
+  - "Brutalism"
+  - "Carvalho Pinto Administration Action Plan (PAGE)"
 ---
 
 ## Referências

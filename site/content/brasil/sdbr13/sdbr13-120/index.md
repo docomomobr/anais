@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Conservação"
   - "Significância"
+keywords:
+  - "Modern architecture"
+  - "Building conservation"
+  - "Significance"
 ---
 
 ## Referências

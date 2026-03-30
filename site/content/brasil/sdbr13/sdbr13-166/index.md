@@ -52,4 +52,10 @@ palavras-chave:
   - "Transformação"
   - "Plano de Gestão"
   - "TU Delft"
+keywords:
+  - "Modernism"
+  - "Conservation"
+  - "Transformation"
+  - "Management Plan"
+  - "TU Delft"
 ---

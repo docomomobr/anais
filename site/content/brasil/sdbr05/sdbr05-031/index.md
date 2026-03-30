@@ -47,6 +47,10 @@ palavras-chave:
   - "Museu Oscar Niemeyer"
   - "NovoMuseu"
   - "lugar moderno"
+keywords:
+  - "Oscar Niemeyer Museum"
+  - "NovoMuseu"
+  - "modern place"
 ---
 
 ## Referências

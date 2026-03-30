@@ -58,6 +58,14 @@ palavras-chave:
   - "Luiz Nunes"
   - "Arquitetura Moderna"
   - "Recife"
+keywords:
+  - "Luiz Nunes"
+  - "Modern Architecture"
+  - "Recife"
+palabras-clave:
+  - "Luiz Nunes"
+  - "Arquitectura moderna"
+  - "Recife"
 ---
 
 ## Referências

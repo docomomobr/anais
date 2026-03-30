@@ -53,6 +53,12 @@ palavras-chave:
   - "Bahia"
   - "Diógenes Rebouças"
   - "Escola-Parque"
+keywords:
+  - "Anísio Teixeira"
+  - "Bahia"
+  - "Diógenes Rebouças"
+  - "Escola-Parque"
+  - "Modern Architecture"
 ---
 
 ## Referências

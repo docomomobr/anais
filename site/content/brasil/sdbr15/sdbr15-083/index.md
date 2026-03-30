@@ -68,6 +68,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio"
   - "Abandono"
+keywords:
+  - "Modernism"
+  - "Patrimony"
+  - "Arts"
+palabras-clave:
+  - "Modernismo"
+  - "Património"
+  - "Artes"
 ---
 
 ## Referências

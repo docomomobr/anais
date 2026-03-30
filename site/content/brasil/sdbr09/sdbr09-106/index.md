@@ -53,6 +53,11 @@ palavras-chave:
   - "Identidade"
   - "Rheingantz"
   - "Valoração Econômica"
+keywords:
+  - "Heritage"
+  - "Identity"
+  - "Rheingantz"
+  - "Economic Value"
 ---
 
 ## Referências

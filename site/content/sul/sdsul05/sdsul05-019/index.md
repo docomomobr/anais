@@ -45,6 +45,10 @@ palavras-chave:
   - "indústria moderna brasileira"
   - "patrimônio moderno"
   - "preservação"
+keywords:
+  - "brazilian modern industry"
+  - "modern heritage"
+  - "preservation"
 ---
 
 ## Referências

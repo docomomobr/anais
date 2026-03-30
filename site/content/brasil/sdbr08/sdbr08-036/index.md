@@ -41,6 +41,8 @@ autores:
   - "Silveira, Ana Lucia Ribeiro Camillo da"
 palavras-chave:
   - "Arquitetura moderna; adequação bioclimática"
+keywords:
+  - "Modern Architecture; bioclimatic adequacy"
 ---
 
 ## Referências

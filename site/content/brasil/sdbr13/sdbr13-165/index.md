@@ -57,6 +57,10 @@ palavras-chave:
   - "Projeto de irrigação de Morada Nova"
   - "planejamento rural"
   - "arquitetura e cultura"
+keywords:
+  - "Morada Nova irrigation project"
+  - "rural planning"
+  - "architecture and culture"
 ---
 
 ## Referências

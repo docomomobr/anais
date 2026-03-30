@@ -56,6 +56,11 @@ palavras-chave:
   - "Belém"
   - "preservação"
   - "valores artísticos e históricos"
+keywords:
+  - "Modern architecture"
+  - "Belém"
+  - "preservation"
+  - "artistic and historical values"
 ---
 
 ## Referências

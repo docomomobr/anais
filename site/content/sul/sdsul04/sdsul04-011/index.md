@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "estrutura tipo Dom-ino"
   - "casas da arquitetura moderna"
+keywords:
+  - "Dom-ino type structure"
+  - "houses of modern architecture"
 ---
 
 ## Referências

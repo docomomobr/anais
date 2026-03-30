@@ -61,6 +61,11 @@ palavras-chave:
   - "Memória"
   - "Proteção"
   - "Preservação"
+keywords:
+  - "Northeastern Modern Architecture"
+  - "Memory"
+  - "Protection"
+  - "Preservation"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Integração das artes"
   - "Arquitetura moderna"
   - "Baianidade"
+keywords:
+  - "Integration of the arts"
+  - "Modern architecture"
+  - "Baianidade"
 ---
 
 ## Referências

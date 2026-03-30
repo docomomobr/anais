@@ -66,6 +66,16 @@ palavras-chave:
   - "Clubes"
   - "Importância Histórica"
   - "Resgate das Características Arquitetônicas"
+keywords:
+  - "Modern Architecture"
+  - "Clubs"
+  - "Historical Importance"
+  - "Redemption of Architectural Features"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Clubes"
+  - "Importancia Histórica"
+  - "Rescate de las características arquitectónicas"
 ---
 
 ## Referências

@@ -53,6 +53,10 @@ palavras-chave:
   - "Antonio Virzi"
   - "Arquitetura"
   - "Rio de Janeiro"
+keywords:
+  - "Antonio Virzi"
+  - "Architecture"
+  - "Rio de Janeiro"
 ---
 
 ## Referências

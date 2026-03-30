@@ -56,6 +56,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "análise projetual"
   - "arquitetura campinense"
+keywords:
+  - "modern architecture"
+  - "projetual analysis"
+  - "Campina Grande architecture"
 ---
 
 ## Referências

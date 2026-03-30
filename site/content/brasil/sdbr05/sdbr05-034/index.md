@@ -50,6 +50,11 @@ palavras-chave:
   - "preservação"
   - "museu"
   - "museografia"
+keywords:
+  - "modern architecture"
+  - "museum"
+  - "museography"
+  - "preservation"
 ---
 
 ## Referências

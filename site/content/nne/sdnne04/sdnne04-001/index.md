@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna nordestina"
   - "projetos arquitetônicos"
   - "arquitetura bioclimática"
+keywords:
+  - "Northeastern modern architecture"
+  - "architectural design"
+  - "bioclimatic architecture"
 ---
 
 ## Referências

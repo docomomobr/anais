@@ -56,6 +56,10 @@ palavras-chave:
   - "Crato"
   - "SESI"
   - "Arquitetura moderna"
+keywords:
+  - "Crato"
+  - "SESI"
+  - "Modern architecture"
 ---
 
 ## Referências

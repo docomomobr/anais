@@ -63,6 +63,14 @@ palavras-chave:
   - "Auditório"
   - "Ravello"
   - "Niemeyer"
+keywords:
+  - "Auditorium"
+  - "Ravello"
+  - "Niemeyer"
+palabras-clave:
+  - "Auditorio"
+  - "Ravello"
+  - "Niemeyer"
 ---
 
 ## Referências

@@ -67,6 +67,10 @@ palavras-chave:
   - "Yoshiakira Katsuki"
   - "Itapetinga"
   - "Modulor"
+keywords:
+  - "Yoshiakira Katsuki"
+  - "Itapetinga"
+  - "Modulor"
 ---
 
 ## Referências

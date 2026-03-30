@@ -51,6 +51,10 @@ palavras-chave:
   - "recepção"
   - "Brasil"
   - "Portugal"
+keywords:
+  - "reception"
+  - "Brazil"
+  - "Portugal"
 ---
 
 ## Referências

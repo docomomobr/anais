@@ -45,4 +45,7 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Brasil"
   - "Revistas europeias"
+keywords:
+  - "Modern architecture"
+  - "Brazil"
 ---

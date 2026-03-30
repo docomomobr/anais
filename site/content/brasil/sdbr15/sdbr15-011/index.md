@@ -63,6 +63,14 @@ palavras-chave:
   - "Usina Itaipu"
   - "Integração regional"
   - "Eixo Industrial Oeste do Paraná"
+keywords:
+  - "Itaipu Power Plant"
+  - "Regional Integration"
+  - "Western Paraná Industrial Axis"
+palabras-clave:
+  - "Usina de Itaipu"
+  - "Integración Regional"
+  - "Eje Industrial Paraná Oeste"
 ---
 
 ## Referências

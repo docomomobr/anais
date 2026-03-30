@@ -47,6 +47,10 @@ palavras-chave:
   - "Habitação coletiva"
   - "Habitação moderna"
   - "Cidade moderna"
+keywords:
+  - "Collective housing"
+  - "Modern housing"
+  - "Modern city"
 ---
 
 ## Referências

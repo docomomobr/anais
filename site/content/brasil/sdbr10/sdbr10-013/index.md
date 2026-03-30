@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura contemporânea"
   - "Arquitetura e cidade"
   - "Arquitetura no Brasil"
+keywords:
+  - "Contemporary Architecture"
+  - "Architecture and city"
+  - "Architecture in Brazil"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Contemporânea no Brasil"
   - "historiografia da arquitetura moderna"
   - "arquitetura moderna brasileira"
+keywords:
+  - "Contemporary Architecture in Brazil"
+  - "modern architecture historiography"
+  - "Brazil’s modern architecture"
 ---
 
 ## Referências

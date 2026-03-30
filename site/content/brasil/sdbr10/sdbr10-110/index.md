@@ -47,6 +47,10 @@ palavras-chave:
   - "Campinas"
   - "Arquiteto Gilberto Pascoal"
   - "Escola Paulista"
+keywords:
+  - "Campinas"
+  - "Architect Gilberto Pascoal"
+  - "Escola Paulista"
 ---
 
 ## Referências

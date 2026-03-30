@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "restauro"
   - "intervenção"
+keywords:
+  - "restoration"
+  - "intervention"
 ---
 
 ## Referências

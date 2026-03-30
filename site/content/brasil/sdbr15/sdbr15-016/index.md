@@ -65,6 +65,14 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Arquitetas"
   - "São Paulo"
+keywords:
+  - "Modern Brazilian architecture"
+  - "Women architects"
+  - "São Paulo"
+palabras-clave:
+  - "Arquitectura moderna brasileña"
+  - "Arquitectas"
+  - "São Paulo"
 ---
 
 ## Referências

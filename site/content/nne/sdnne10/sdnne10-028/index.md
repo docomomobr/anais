@@ -69,6 +69,17 @@ palavras-chave:
   - "patrimônio moderno"
   - "análise formal"
   - "documentação"
+keywords:
+  - "architectural patrimony"
+  - "modern patrimony"
+  - "formal analysis"
+  - "documentation"
+  - "Club Campinense"
+palabras-clave:
+  - "patrimonio arquitectónico"
+  - "patrimonio moderno"
+  - "análisis formal"
+  - "documentación"
 ---
 
 ## Referências

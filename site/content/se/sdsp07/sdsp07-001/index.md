@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Campinas"
   - "Modernização"
+keywords:
+  - "Modern architecture"
+  - "Campinas"
+  - "Modernization"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Campinas"
+  - "Modernización"
 ---
 
 ## Referências

@@ -56,6 +56,10 @@ palavras-chave:
   - "fotografia"
   - "Oscar Niemeyer"
   - "Lina Bo Bardi"
+keywords:
+  - "photograph"
+  - "Oscar Niemeyer"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

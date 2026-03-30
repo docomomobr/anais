@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Neocolonial"
   - "Tradição"
   - "Outras modernidades"
+keywords:
+  - "Neocolonial Architecture"
+  - "Tradition"
+  - "Other Modernity"
+palabras-clave:
+  - "Arquitectura Neocolonial"
+  - "Tradición"
+  - "Otras Modernidades"
 ---
 
 ## Referências

@@ -77,6 +77,10 @@ palavras-chave:
   - "arquitetura moderna brasileira"
   - "Acácio Gil Borsoi"
   - "Fortaleza"
+keywords:
+  - "Modern architecture"
+  - "Acacio Gil Borsoi"
+  - "Fortaleza-Brazil"
 ---
 
 ## Referências

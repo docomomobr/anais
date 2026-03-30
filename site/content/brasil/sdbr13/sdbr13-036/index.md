@@ -55,6 +55,12 @@ palavras-chave:
   - "arquitetura moderna"
   - "valoração"
   - "Laboratório da, Febre Amarela"
+keywords:
+  - "Cultural heritage"
+  - "preservation"
+  - "modern architecture"
+  - "valuation"
+  - "value-center politics"
 ---
 
 ## Referências

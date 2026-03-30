@@ -57,6 +57,16 @@ palavras-chave:
   - "Arquitetura Bancária"
   - "Fortaleza"
   - "Banco do Nordeste"
+keywords:
+  - "Modern Architecture"
+  - "Banking Architecture"
+  - "Fortaleza"
+  - "Banco do Nordeste"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Arquitectura Bancaria"
+  - "Fortaleza"
+  - "Banco do Nordeste"
 ---
 
 ## Referências

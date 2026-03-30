@@ -58,6 +58,12 @@ palavras-chave:
   - "Brasília"
   - "Mario Fontenelle"
   - "Marcel Gautherot"
+keywords:
+  - "Modern architecture"
+  - "Photography and architecture"
+  - "Brasília"
+  - "Mario Fontenelle"
+  - "Marcel Gautherot"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Brutalismo"
   - "Arquitetura Moderna"
+keywords:
+  - "Oscar Niemeyer"
+  - "Brutalism"
+  - "Modern Architecture"
 ---
 
 ## Referências

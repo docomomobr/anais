@@ -51,6 +51,10 @@ palavras-chave:
   - "Brutalismo"
   - "Porto Alegre"
   - "Patrimônio"
+keywords:
+  - "Brutalism"
+  - "Porto Alegre"
+  - "Equity"
 ---
 
 ## Referências

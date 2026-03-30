@@ -60,6 +60,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Plano de Ação"
   - "Arquitetura Moderna no litoral paulista"
+keywords:
+  - "Modern Architecture"
+  - "Action Plan"
+  - "Modern Architecture on the coast of São Paulo"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Plan de Acción"
+  - "Arquitectura Moderna en la costa de São Paulo"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Expansão Urbana"
   - "Modernidade"
   - "Porto"
+keywords:
+  - "Urban Expansion"
+  - "Modernity"
+  - "Port"
+palabras-clave:
+  - "Expansión Urbana"
+  - "Modernidad"
+  - "Puerto"
 ---
 
 ## Referências

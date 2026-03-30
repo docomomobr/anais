@@ -49,6 +49,10 @@ palavras-chave:
   - "habitus"
   - "conservação"
   - "arquitetura moderna"
+keywords:
+  - "habitus"
+  - "conservation"
+  - "modern architecture"
 ---
 
 ## Referências

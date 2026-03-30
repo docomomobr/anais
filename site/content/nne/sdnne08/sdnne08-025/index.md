@@ -69,6 +69,18 @@ palavras-chave:
   - "hotéis"
   - "Belas-Artes"
   - "modernização"
+keywords:
+  - "Giacomo Palumbo"
+  - "Recife"
+  - "hotel"
+  - "Beaux-Arts"
+  - "modernization"
+palabras-clave:
+  - "Giacomo Palumbo"
+  - "Recife"
+  - "hoteles"
+  - "Bellas Artes"
+  - "modernización"
 ---
 
 ## Referências

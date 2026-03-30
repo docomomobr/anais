@@ -63,6 +63,14 @@ palavras-chave:
   - "Modernismo"
   - "Interior paulista"
   - "Inventário de arquitetura"
+keywords:
+  - "Modernism"
+  - "Interior of São Paulo"
+  - "Architectural survey"
+palabras-clave:
+  - "Modernismo"
+  - "Campo de São Paulo"
+  - "Inventario de arquitectura"
 ---
 
 ## Referências

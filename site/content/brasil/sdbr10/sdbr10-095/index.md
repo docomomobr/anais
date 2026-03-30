@@ -53,6 +53,10 @@ palavras-chave:
   - "Fórum Uberlândia"
   - "Arquitetura Brutalista"
   - "Arquitetura Moderna em Minas Gerais"
+keywords:
+  - "Uberlândia Courthouse"
+  - "Brutalist Architecture"
+  - "Modern Architecture in Minas Gerais"
 ---
 
 ## Referências

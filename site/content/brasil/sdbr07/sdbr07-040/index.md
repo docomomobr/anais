@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura do Movimento Moderno"
   - "Sérgio Bernardes"
   - "Palácio da Abolição"
+keywords:
+  - "Modern Moviment Architecture"
+  - "Sérgio Bernardes"
+  - "Palácio da Abolição"
 ---
 
 ## Referências

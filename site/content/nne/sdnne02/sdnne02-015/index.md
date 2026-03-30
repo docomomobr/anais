@@ -75,6 +75,10 @@ palavras-chave:
   - "Arquitetura"
   - "2ª Guerra Mundial"
   - "Base Aérea de Natal"
+keywords:
+  - "Architecture"
+  - "World War 2"
+  - "Natal Air Base"
 ---
 
 ## Referências

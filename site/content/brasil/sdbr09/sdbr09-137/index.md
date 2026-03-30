@@ -58,6 +58,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "edifícios escolares"
   - "educação"
+keywords:
+  - "modern architecture"
+  - "school buildings"
+  - "education"
 ---
 
 ## Referências

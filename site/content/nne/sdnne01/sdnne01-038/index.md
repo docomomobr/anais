@@ -49,6 +49,11 @@ palavras-chave:
   - "Arquitetura Modernista"
   - "São Luís"
   - "Cleon Furtado"
+keywords:
+  - "Residential Architecture"
+  - "Modernist Architecture"
+  - "São Luís"
+  - "Cleon Furtado"
 ---
 
 ## Referências

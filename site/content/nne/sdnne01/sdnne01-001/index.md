@@ -59,6 +59,10 @@ palavras-chave:
   - "Museus"
   - "Movimento Moderno"
   - "Brasil"
+keywords:
+  - "Museums"
+  - "Modern Movement"
+  - "Brazil"
 ---
 
 ## Referências

@@ -54,6 +54,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna"
   - "arquitetos cariocas"
+keywords:
+  - "modern architecture"
+  - "architects of Rio de Janeiro"
 ---
 
 ## Referências

@@ -54,6 +54,10 @@ palavras-chave:
   - "Palavras-chave: Movimento Moderno"
   - "Brutalismo"
   - "ELETROSUL"
+keywords:
+  - "Modern Movement"
+  - "Brutalism"
+  - "ELETROSUL"
 ---
 
 ## Referências

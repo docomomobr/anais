@@ -42,6 +42,8 @@ autores:
   - "Castriota, Leonardo Barci"
 palavras-chave:
   - "Arquitetura acervos preservação"
+keywords:
+  - "architecture archive preservation"
 ---
 
 ## Referências

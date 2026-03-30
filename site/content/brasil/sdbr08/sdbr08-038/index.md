@@ -50,6 +50,10 @@ palavras-chave:
   - "paisagismo"
   - "modernidade"
   - "Teresina"
+keywords:
+  - "landscape"
+  - "modern movement"
+  - "Teresina"
 ---
 
 ## Referências

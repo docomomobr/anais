@@ -48,6 +48,10 @@ palavras-chave:
   - "campus universitário"
   - "arquitetura moderna"
   - "projeto"
+keywords:
+  - "university campus"
+  - "modern architecture"
+  - "design"
 ---
 
 ## Referências

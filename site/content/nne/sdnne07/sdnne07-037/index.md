@@ -64,6 +64,14 @@ palavras-chave:
   - "Arquitetura moderna (CE)"
   - "Preservação"
   - "Flexibilidade"
+keywords:
+  - "Modern Architecture (CE)"
+  - "Preservation"
+  - "Flexibility"
+palabras-clave:
+  - "Arquitectura Moderna (CE)"
+  - "Preservación"
+  - "Flexibilidad"
 ---
 
 ## Referências

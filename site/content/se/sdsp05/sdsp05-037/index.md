@@ -48,6 +48,10 @@ palavras-chave:
   - "Adolf Franz Heep"
   - "Arquitetura Moderna no Brasil"
   - "Arquitetura Moderna em São Paulo"
+keywords:
+  - "Adolf Franz Heep"
+  - "Modern Architecture in Brazil"
+  - "Modern Architecture in São Paulo"
 ---
 
 ## Referências

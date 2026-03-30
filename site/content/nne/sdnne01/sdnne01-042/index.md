@@ -43,6 +43,10 @@ autores:
   - "Dantas, George Alexandre Ferreira"
 palavras-chave:
   - "questões historiográficas – cidade colonial – arquitetura modernista brasileira"
+keywords:
+  - "Issues on historiography"
+  - "colonial town"
+  - "Brazilian modernist architecture"
 ---
 
 ## Referências

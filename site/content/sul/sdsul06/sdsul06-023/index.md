@@ -48,6 +48,10 @@ palavras-chave:
   - "Llao Llao"
   - "Alejandro Bustillo"
   - "Jean-Michel Frank"
+keywords:
+  - "Llao Llao"
+  - "Alejandro Bustillo"
+  - "Jean-Michel Frank"
 ---
 
 ## Referências

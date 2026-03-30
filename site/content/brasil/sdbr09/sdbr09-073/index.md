@@ -58,6 +58,12 @@ palavras-chave:
   - "Bloco cimento"
   - "Módulo"
   - "Envelope"
+keywords:
+  - "Cobogó"
+  - "Textile-block"
+  - "Cement block"
+  - "Module"
+  - "Envelope"
 ---
 
 ## Referências

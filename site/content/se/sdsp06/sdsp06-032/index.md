@@ -49,6 +49,10 @@ palavras-chave:
   - "Rino Levi"
   - "Cinelândia"
   - "Sociabilidade"
+keywords:
+  - "Rino Levi"
+  - "Cinelandia"
+  - "Sociability"
 ---
 
 ## Referências

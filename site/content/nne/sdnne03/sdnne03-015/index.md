@@ -50,6 +50,12 @@ palavras-chave:
   - "graduação"
   - "arquitetura contemporânea"
   - "regionalismo"
+keywords:
+  - "modern architecture"
+  - "Belém"
+  - "graduation"
+  - "contemporary architecture"
+  - "regionalism"
 ---
 
 ## Referências

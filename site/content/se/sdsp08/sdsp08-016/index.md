@@ -58,6 +58,14 @@ palavras-chave:
   - "Patrimônio Cultural"
   - "Conservação Histórica"
   - "Arquitetura – conservação e restauro"
+keywords:
+  - "Cultural Heritage"
+  - "Historical Conservation"
+  - "Architecture – conservation and restoration"
+palabras-clave:
+  - "Patrimonio cultural"
+  - "Conservación Histórica"
+  - "Arquitectura – conservación y restauración"
 ---
 
 ## Referências

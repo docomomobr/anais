@@ -52,6 +52,14 @@ palavras-chave:
   - "arquitectura escolar"
   - "Brutalismo"
   - "trama"
+keywords:
+  - "school architecture"
+  - "Brutalism"
+  - "grid"
+palabras-clave:
+  - "arquitectura escolar"
+  - "Brutalismo"
+  - "trama"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Verticalização"
   - "Campina Grande (PB)"
+keywords:
+  - "Modern Architecture"
+  - "Vertical Integration"
+  - "Campina Grande (PB)"
 ---
 
 ## Referências

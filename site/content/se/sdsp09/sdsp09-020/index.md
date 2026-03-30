@@ -55,6 +55,14 @@ palavras-chave:
   - "patrimônio rodoviário"
   - "terminal de ônibus urbano"
   - "tipologia arquitetônica"
+keywords:
+  - "road heritage"
+  - "urban bus terminal"
+  - "architectural typology"
+palabras-clave:
+  - "patrimonio vial"
+  - "tipología arquitectónica"
+  - "terminal de autobuses urbanos"
 ---
 
 ## Referências

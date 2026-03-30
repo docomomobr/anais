@@ -48,6 +48,10 @@ palavras-chave:
   - "documentar"
   - "arquitetura moderna"
   - "Rino Levi"
+keywords:
+  - "document"
+  - "modern architecture"
+  - "Rino Levi"
 ---
 
 ## Referências

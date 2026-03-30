@@ -53,6 +53,10 @@ palavras-chave:
   - "sociedade"
   - "modernização"
   - "laboratório experimental"
+keywords:
+  - "society"
+  - "modernization"
+  - "experimental laboratory"
 ---
 
 ## Referências

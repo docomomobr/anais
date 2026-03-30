@@ -47,6 +47,10 @@ palavras-chave:
   - "Valor cultural"
   - "Preservação"
   - "Tombamento"
+keywords:
+  - "Cultural value"
+  - "Preservation"
+  - "Heritage listing"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "Igreja Vila Madalena"
   - "Guedes"
   - "Brutalismo Paulista"
+keywords:
+  - "Vila Madalena Church"
+  - "Guedes"
+  - "Brutalism Paulista"
 ---
 
 ## Referências

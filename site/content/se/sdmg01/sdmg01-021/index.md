@@ -43,6 +43,10 @@ palavras-chave:
   - "síntese das artes"
   - "arquitetura moderna brasileira"
   - "mural dentro da modernidade"
+keywords:
+  - "Synthesis of the arts"
+  - "Modern Brazilian Architecture"
+  - "Mural within Modrnity"
 ---
 
 ## Referências

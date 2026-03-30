@@ -66,6 +66,12 @@ palavras-chave:
   - "arquitetura moderna"
   - "edifício tombado"
   - "Brasília"
+keywords:
+  - "energy retrofit"
+  - "energy performance"
+  - "modern architecture"
+  - "heritage building"
+  - "Brasília"
 ---
 
 ## Referências

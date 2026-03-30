@@ -53,4 +53,10 @@ palavras-chave:
   - "Mário de Andrade"
   - "São Paulo"
   - "Arquitetura Moderna"
+keywords:
+  - "Antonio Garcia Moya"
+  - "Semana de Arte Moderna"
+  - "Mário de Andrade"
+  - "São Paulo"
+  - "Arquitetura Moderna"
 ---

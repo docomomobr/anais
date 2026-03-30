@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura paulistana"
   - "Moradia de classe média"
+keywords:
+  - "Modern architecture"
+  - "São Paulo architecture"
+  - "Middle class house"
 ---
 
 ## Referências

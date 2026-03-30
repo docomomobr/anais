@@ -46,6 +46,10 @@ palavras-chave:
   - "Preservação"
   - "Arquitetura moderna"
   - "edifícios residenciais"
+keywords:
+  - "Conservation"
+  - "Modern Architecture"
+  - "residential buildings"
 ---
 
 ## Referências

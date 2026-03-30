@@ -58,6 +58,14 @@ palavras-chave:
   - "Gregori Warchavchik"
   - "Casa Modernista"
   - "Historiografia"
+keywords:
+  - "Gregori Warchavchik"
+  - "Modernist House"
+  - "Historiography"
+palabras-clave:
+  - "Gregori Warchavchik"
+  - "Casa Modernista"
+  - "Historiografía"
 ---
 
 ## Referências

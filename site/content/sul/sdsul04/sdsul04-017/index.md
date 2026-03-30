@@ -45,6 +45,9 @@ palavras-chave:
   - "Lelé"
   - "pré-fabricação"
   - "arquitetura moderna"
+keywords:
+  - "Lelé"
+  - "pre-fabrication"
 ---
 
 ## Referências

@@ -56,6 +56,14 @@ palavras-chave:
   - "Habitação"
   - "Modernismo"
   - "Massas"
+keywords:
+  - "Housing"
+  - "Modernism"
+  - "Mass"
+palabras-clave:
+  - "Vivienda"
+  - "Modernismo"
+  - "Massas"
 ---
 
 ## Referências

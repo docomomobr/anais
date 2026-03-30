@@ -44,6 +44,10 @@ palavras-chave:
   - "campus universitário"
   - "urbanismo racionalista"
   - "racionalismo na arquitetura"
+keywords:
+  - "university campus"
+  - "rational urbanism"
+  - "rationalism on architecture"
 ---
 
 ## Referências

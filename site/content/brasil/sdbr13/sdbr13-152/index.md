@@ -47,6 +47,10 @@ palavras-chave:
   - "modernidade"
   - "narrativa"
   - "subjetividade"
+keywords:
+  - "modernity"
+  - "narrative"
+  - "subjectivity"
 ---
 
 ## Referências

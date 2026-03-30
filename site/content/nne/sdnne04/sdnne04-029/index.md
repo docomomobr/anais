@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna (PB)"
   - "Régis Cavalcanti"
   - "Tambauzinho"
+keywords:
+  - "Modern Architecture (PB)"
+  - "Régis Cavalcanti"
+  - "Tambauzinho"
 ---
 
 ## Referências

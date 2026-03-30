@@ -41,6 +41,8 @@ autores:
   - "Aldrigue, Maryá de Sousa"
 palavras-chave:
   - "Arquitetura moderna. Arquitetura residencial. Anos 1970. Sintaxe espacial"
+keywords:
+  - "Modern architecture. Residential architecture. 1970s. Space syntax"
 ---
 
 ## Referências

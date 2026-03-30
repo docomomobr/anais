@@ -46,6 +46,10 @@ palavras-chave:
   - "Descontinuidade"
   - "Requalificação"
   - "Reflexões"
+keywords:
+  - "uncontinuous"
+  - "restructure"
+  - "reflection"
 ---
 
 ## Referências

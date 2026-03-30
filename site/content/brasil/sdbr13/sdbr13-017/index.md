@@ -63,6 +63,11 @@ palavras-chave:
   - "Patrimônio moderno"
   - "Museologia"
   - "Artes plásticas"
+keywords:
+  - "History of Brasilia"
+  - "Modern Heritage"
+  - "Museology"
+  - "Visual Arts"
 ---
 
 ## Referências

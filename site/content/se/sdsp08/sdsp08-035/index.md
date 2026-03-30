@@ -59,6 +59,14 @@ palavras-chave:
   - "Bienal de Arquitetura"
   - "Arquivo Histórico"
   - "História da Arquitetura"
+keywords:
+  - "Architecture Biennial"
+  - "Historical Archive"
+  - "Architecture History"
+palabras-clave:
+  - "Bienal de Arquitectura"
+  - "Arquivo Histórico"
+  - "História de Arquitectura"
 ---
 
 ## Referências

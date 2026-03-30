@@ -48,6 +48,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "rampas"
   - "arquitetura moderna brasileira"
+keywords:
+  - "Vilanova Artigas"
+  - "ramps"
+  - "brazilian modern architecture"
 ---
 
 ## Referências

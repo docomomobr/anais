@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura Moderna em Porto Alegre"
   - "Román Fresnedo Siri"
   - "Edifício Esplanada"
+keywords:
+  - "Modern Architecture in Porto Alegre"
+  - "Román Fresnedo Siri"
+  - "Esplanada building"
 ---
 
 ## Referências

@@ -74,6 +74,18 @@ palavras-chave:
   - "Niemeyer"
   - "habitação coletiva"
   - "patrimônio moderno"
+keywords:
+  - "Brasília"
+  - "SQS 108"
+  - "Niemeyer"
+  - "apartment blocks"
+  - "modern heritage"
+palabras-clave:
+  - "Brasília"
+  - "SQS 108"
+  - "Niemeyer"
+  - "vivienda colectiva"
+  - "patrimonio moderno"
 ---
 
 ## Referências

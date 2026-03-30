@@ -56,6 +56,10 @@ palavras-chave:
   - "Ensino e formação profissional"
   - "Intervenção e Restauração arquitetônica"
   - "Atribuições profissionais"
+palabras-clave:
+  - "Enseñanza y formación profesional"
+  - "Intervención y Restauro"
+  - "Atribuciones profesionales"
 ---
 
 ## Referências

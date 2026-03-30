@@ -49,6 +49,10 @@ palavras-chave:
   - "requalificação"
   - "rearquitetura"
   - "edifício universitário"
+keywords:
+  - "requalification"
+  - "rearchitecture"
+  - "university building"
 ---
 
 ## Referências

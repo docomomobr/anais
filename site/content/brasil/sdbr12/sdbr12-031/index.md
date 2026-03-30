@@ -52,6 +52,10 @@ palavras-chave:
   - "Laboratórios experimentais"
   - "Vilanova Artigas"
   - "Modernização"
+keywords:
+  - "Experimental laboratories"
+  - "Vilanova Artigas"
+  - "Modernization"
 ---
 
 ## Referências

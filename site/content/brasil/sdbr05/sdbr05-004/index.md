@@ -50,6 +50,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "urbanismo - Brasil"
   - "mobiliário - Brasil"
+keywords:
+  - "Giancarlo Palanti"
+  - "modern architecture"
+  - "urbanism – Brazil"
+  - "furniture – Brazil"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura escolar"
   - "Equipamento público"
   - "Espaço urbano"
+keywords:
+  - "School architecture"
+  - "Public equipment"
+  - "Urban space"
 ---
 
 ## Referências

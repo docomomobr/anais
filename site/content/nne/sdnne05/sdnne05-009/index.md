@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Maquetes"
   - "Patrimônio Histórico"
+keywords:
+  - "Modern Architecture"
+  - "Sketchup"
+  - "Historic Heritage"
 ---
 
 ## Referências

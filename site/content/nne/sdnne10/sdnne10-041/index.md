@@ -62,6 +62,16 @@ palavras-chave:
   - "Patrimônio"
   - "Ginásio Poliesportivo"
   - "Patologia e Conservação"
+keywords:
+  - "Heritage"
+  - "Multi-sport Gym"
+  - "Pathology"
+  - "Conservation"
+palabras-clave:
+  - "Patrimonio"
+  - "Polideportivo"
+  - "Patología"
+  - "Conservación"
 ---
 
 ## Referências

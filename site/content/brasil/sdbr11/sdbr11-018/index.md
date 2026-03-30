@@ -51,6 +51,10 @@ palavras-chave:
   - "patrimônio moderno"
   - "patrimônio universitário"
   - "Universidade Federal do Rio de Janeiro"
+keywords:
+  - "modern heritage"
+  - "academic heritage"
+  - "Federal University of Rio de Janeiro"
 ---
 
 ## Referências

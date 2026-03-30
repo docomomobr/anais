@@ -55,6 +55,10 @@ palavras-chave:
   - "identidade nacional Keywords: roots"
   - "modernity"
   - "national identity"
+keywords:
+  - "roots"
+  - "modernity"
+  - "national identity"
 ---
 
 ## Referências

@@ -45,6 +45,8 @@ autores:
   - "Vidal, Wylnna Carlos Lima"
 palavras-chave:
   - "Ideário moderno – Requalificação – Mercado Central de João Pessoa – PB"
+keywords:
+  - "Modern architecture Ideals – Requalification – Central Market of João Pessoa-PB"
 ---
 
 ## Referências

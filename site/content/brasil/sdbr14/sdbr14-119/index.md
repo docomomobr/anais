@@ -56,6 +56,10 @@ palavras-chave:
   - "Documentação"
   - "Arquitetura Moderna"
   - "Laser Scanner"
+keywords:
+  - "Documentation"
+  - "Modern Architecture"
+  - "Laser Scanner"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Habitação coletiva"
   - "Parque Cecap"
   - "Mirante da Taquara"
+keywords:
+  - "Collective housing"
+  - "Cecap Park"
+  - "Mirante da Taquara"
 ---
 
 ## Referências

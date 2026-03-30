@@ -52,6 +52,10 @@ palavras-chave:
   - "Fábricas"
   - "Pré-fabricados"
   - "Constructa"
+keywords:
+  - "Factories"
+  - "Prefabricated"
+  - "Constructa"
 ---
 
 ## Referências

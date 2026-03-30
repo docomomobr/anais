@@ -43,6 +43,10 @@ ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e co
 autores:
   - "Rivero Peña, Héctor"
   - "Sosa, Marisol Rodríguez"
+palabras-clave:
+  - "Urbanismo Moderno Mexicano"
+  - "Programa Nacional Fronterizo"
+  - "Ciudades fronterizas"
 ---
 
 ## Referências

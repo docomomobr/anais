@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "América Latina"
   - "Pedra"
+keywords:
+  - "Modern architecture"
+  - "Latin America"
+  - "Stone"
 ---
 
 ## Referências

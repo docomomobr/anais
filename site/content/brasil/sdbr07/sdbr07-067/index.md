@@ -58,6 +58,10 @@ palavras-chave:
   - "Arquitetura Brasileira Contemporânea"
   - "Key Words: Modern Architecture"
   - "Contemporary Brazilian Architecture"
+keywords:
+  - "Modern Architecture"
+  - "Affonso Eduardo Reidy"
+  - "Contemporary Brazilian Architecture"
 ---
 
 ## Referências

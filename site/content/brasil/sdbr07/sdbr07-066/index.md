@@ -51,6 +51,10 @@ palavras-chave:
   - "equipamentos públicos"
   - "arquitetura moderna"
   - "plano de desenvolvimento"
+keywords:
+  - "Public equipments"
+  - "Development plan"
+  - "Modern Architecture"
 ---
 
 ## Referências

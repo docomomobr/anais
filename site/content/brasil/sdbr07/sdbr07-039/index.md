@@ -51,6 +51,10 @@ palavras-chave:
   - "Terminal Rodoviário"
   - "Vilanova Artigas"
   - "Reabilitação de edifícios"
+keywords:
+  - "Bus Station"
+  - "Vilanova Artigas"
+  - "Building reinstatement"
 ---
 
 ## Referências

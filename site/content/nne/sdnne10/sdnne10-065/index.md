@@ -67,6 +67,16 @@ palavras-chave:
   - "vernacular"
   - "moderno"
   - "Amazônia"
+keywords:
+  - "Institutional architecture"
+  - "Vernacular"
+  - "Modern"
+  - "Amazon"
+palabras-clave:
+  - "arquitectura institucional"
+  - "Vernáculo"
+  - "Moderno"
+  - "amazonas"
 ---
 
 ## Referências

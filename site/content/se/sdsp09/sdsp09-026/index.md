@@ -52,6 +52,14 @@ palavras-chave:
   - "patrimônio moderno no Estado do Rio de Janeiro"
   - "Governo Leonel Brizola"
   - "Tombamento"
+keywords:
+  - "modern heritage in Rio de Janeiro State"
+  - "Leonel Brizola Government"
+  - "Landmarking"
+palabras-clave:
+  - "patrimonio moderno en el Estado de Rio de Janeiro"
+  - "Gobierno Leonel Brizola"
+  - "inscripción"
 ---
 
 ## Referências

@@ -71,6 +71,18 @@ palavras-chave:
   - "Dimensão espacial externa"
   - "Cidade"
   - "Modernidade"
+keywords:
+  - "Built heritage"
+  - "Modern heritage"
+  - "External spatial dimension"
+  - "City"
+  - "Modernity"
+palabras-clave:
+  - "Patrimonio construido"
+  - "Patrimonio moderno"
+  - "Dimensión espacial exterior"
+  - "Ciudad"
+  - "Modernidad"
 ---
 
 ## Referências

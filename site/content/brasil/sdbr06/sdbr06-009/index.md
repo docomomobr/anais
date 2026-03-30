@@ -48,6 +48,9 @@ autores:
 palavras-chave:
   - "Arquitetura"
   - "Moderna"
+keywords:
+  - "Architecture"
+  - "Modern"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura moderna brasileira no sul"
   - "Estilo Internacional"
   - "Arquitetura meridional Sul Americana"
+keywords:
+  - "Brazilian modern architecture in the south"
+  - "International Style"
+  - "southern architecture from South American"
 ---
 
 ## Referências

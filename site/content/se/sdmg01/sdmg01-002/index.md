@@ -45,6 +45,10 @@ palavras-chave:
   - "modernidade"
   - "paradigma"
   - "inspiração"
+keywords:
+  - "modernity"
+  - "paradigm"
+  - "inspiration"
 ---
 
 ## Referências

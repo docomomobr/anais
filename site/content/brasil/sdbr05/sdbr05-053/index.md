@@ -56,6 +56,13 @@ palavras-chave:
   - "Arquitetura"
   - "Brasil 1945-1964"
   - "cidades"
+keywords:
+  - "Lina Bo Bardi"
+  - "MASP"
+  - "Solar do Unhão"
+  - "Architecture"
+  - "Brazil 1945-1964"
+  - "Cities"
 ---
 
 ## Referências

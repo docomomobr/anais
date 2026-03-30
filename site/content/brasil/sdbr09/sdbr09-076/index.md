@@ -51,6 +51,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Santa Catarina"
   - "Paulo Motta"
+keywords:
+  - "Health's Cultural Heritage"
+  - "Modern Architecture"
+  - "Santa Catarina"
+  - "Paulo Motta"
 ---
 
 ## Referências

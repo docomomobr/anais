@@ -48,6 +48,10 @@ palavras-chave:
   - "Brasília"
   - "1959"
   - "Congresso Internacional Extraordinário dos Críticos de Arte"
+keywords:
+  - "Brasília"
+  - "1959"
+  - "Congresso Internacional Extraordinário dos Críticos de Arte"
 ---
 
 ## Referências

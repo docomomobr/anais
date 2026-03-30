@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Paulista"
   - "Paulo Mendes da Rocha"
   - "Projeto"
+keywords:
+  - "Paulista Architecture"
+  - "Paulo Mendes da Rocha"
+  - "Project"
 ---
 
 ## Referências

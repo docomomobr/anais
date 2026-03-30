@@ -59,6 +59,10 @@ palavras-chave:
   - "Arquitetura modesta"
   - "Arquitetura Moderna"
   - "Rio de Janeiro"
+keywords:
+  - "Modern Architecture"
+  - "Rio de Janeiro City"
+  - "Conservation"
 ---
 
 ## Referências

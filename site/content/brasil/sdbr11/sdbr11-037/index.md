@@ -55,6 +55,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Concreto Armado"
   - "Emílio Baumgart"
+keywords:
+  - "Structure"
+  - "Modern Architecture"
+  - "Reinforced Concrete"
+  - "Emílio Baumgart"
 ---
 
 ## Referências

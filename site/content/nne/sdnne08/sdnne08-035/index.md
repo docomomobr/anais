@@ -64,6 +64,18 @@ palavras-chave:
   - "Mobilidade Urbana"
   - "Automóvel"
   - "Pedestre"
+keywords:
+  - "Palmas"
+  - "Urban Planning"
+  - "Urban Mobility"
+  - "Automobile"
+  - "Pedestrian"
+palabras-clave:
+  - "Palmas"
+  - "Urbanismo"
+  - "Movilidad Urbana"
+  - "Automóvil"
+  - "Peatón"
 ---
 
 ## Referências

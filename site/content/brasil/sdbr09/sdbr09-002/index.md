@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "autonomia disciplinar da arquitetura"
   - "transformações formais"
+keywords:
+  - "disciplinary autonomy of architecture"
+  - "formal transformation"
 ---
 
 ## Referências

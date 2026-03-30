@@ -69,6 +69,14 @@ palavras-chave:
   - "Lei de Assistência Técnica"
   - "Habitação"
   - "Patrimônio Moderno"
+keywords:
+  - "Technical Assistance Law"
+  - "Housing"
+  - "Modern Heritage"
+palabras-clave:
+  - "Ley de Asistencia Técnica"
+  - "vivienda"
+  - "Patrimonio moderno"
 ---
 
 ## Referências

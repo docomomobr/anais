@@ -50,6 +50,10 @@ palavras-chave:
   - "Muro estrutural"
   - "Estrutura independente"
   - "Escola Brutalista Paulista"
+keywords:
+  - "Structural wall"
+  - "Independent structure"
+  - "São Paulo Brutalist School"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura moderna brasileira"
   - "revistas"
   - "Brasil: Arquitetura Contemporânea"
+keywords:
+  - "brazilian modern architecture"
+  - "magazines"
+  - "Brasil: Arquitetura Contemporânea"
 ---
 
 ## Referências

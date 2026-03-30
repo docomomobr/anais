@@ -47,6 +47,9 @@ autores:
 palavras-chave:
   - "Christiani & Nielsen"
   - "Arte e Técnica"
+keywords:
+  - "Christiani & Nielsen"
+  - "Art and Technique"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Escultura"
   - "Argamassa armada"
   - "Conservação"
+keywords:
+  - "Sculpture"
+  - "Armed mortar"
+  - "Conservation"
 ---
 
 ## Referências

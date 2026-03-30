@@ -47,6 +47,10 @@ palavras-chave:
   - "Oswaldo Arthur Bratke"
   - "Campos do Jordão"
   - "Jardim do Embaixador"
+keywords:
+  - "Oswaldo Arthur Bratke"
+  - "Campos do Jordão"
+  - "Jardim do Embaixador"
 ---
 
 ## Referências

@@ -60,6 +60,16 @@ palavras-chave:
   - "Campus do Pici"
   - "Universidade Federal do Ceará"
   - "Modernismo"
+keywords:
+  - "University City"
+  - "Campus do Pici"
+  - "Federal University of Ceará"
+  - "Modernism"
+palabras-clave:
+  - "Ciudad Universitaria"
+  - "Campus do Pici"
+  - "Universidad Federal de Ceará"
+  - "Modernismo"
 ---
 
 ## Referências

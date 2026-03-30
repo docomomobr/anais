@@ -49,6 +49,10 @@ palavras-chave:
   - "Brutalismo"
   - "Concreto Bruto"
   - "Escola Paulista"
+keywords:
+  - "Brutalism"
+  - "Raw concrete"
+  - "Paulista School"
 ---
 
 ## Referências

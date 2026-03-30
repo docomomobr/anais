@@ -53,6 +53,14 @@ palavras-chave:
   - "Arquitectura"
   - "España"
   - "Brutalismo"
+keywords:
+  - "Architecture"
+  - "Spain"
+  - "Brutalism"
+palabras-clave:
+  - "Arquitectura"
+  - "España"
+  - "Brutalismo"
 ---
 
 ## Referências

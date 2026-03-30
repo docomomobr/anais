@@ -46,6 +46,10 @@ palavras-chave:
   - "Biblioteca Nacional"
   - "Clorindo Testa"
   - "concurso"
+keywords:
+  - "National Library"
+  - "Clorindo Testa"
+  - "contest"
 ---
 
 ## Referências

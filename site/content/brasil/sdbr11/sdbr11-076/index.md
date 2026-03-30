@@ -53,6 +53,10 @@ palavras-chave:
   - "Modernismo"
   - "Intervenção"
   - "BCZM"
+keywords:
+  - "Modern Movement"
+  - "Intervention"
+  - "BCZM"
 ---
 
 ## Referências

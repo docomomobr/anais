@@ -45,6 +45,10 @@ autores:
 palavras-chave:
   - "Arquitetura brutalista, arquitetura do pós-guerra"
   - "arquitetura de Pernambuco"
+keywords:
+  - "Brutalist architecture"
+  - "Post-War Architecture"
+  - "Pernambuco architecture"
 ---
 
 ## Referências

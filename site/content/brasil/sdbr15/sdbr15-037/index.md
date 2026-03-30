@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Revisão Historiográfica"
   - "Pedregulho"
+keywords:
+  - "Modern Architecture"
+  - "Historiographic Review"
+  - "Pedregulho"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Revista Historiográfica"
+  - "Pedregulho"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Paulo Mendes da Rocha"
   - "Desenhos"
   - "Processos projetuais"
+keywords:
+  - "Paulo Mendes da Rocha"
+  - "Drawings"
+  - "Design Process"
 ---
 
 ## Referências

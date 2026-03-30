@@ -51,6 +51,10 @@ palavras-chave:
   - "modernismo"
   - "patrimônio cultural"
   - "IAPI"
+keywords:
+  - "modernism"
+  - "cultural heritage"
+  - "IAPI"
 ---
 
 ## Referências

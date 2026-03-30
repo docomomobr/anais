@@ -52,6 +52,10 @@ palavras-chave:
   - "Brasília"
   - "Paisagem Cultural"
   - "Praça do Cruzeiro"
+keywords:
+  - "Brasilia"
+  - "Cultural Landscape"
+  - "Cruise Square"
 ---
 
 ## Referências

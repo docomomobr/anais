@@ -57,6 +57,16 @@ palavras-chave:
   - "ética"
   - "René Combeau"
   - "Luis Ladrón de Guevara"
+keywords:
+  - "aesthetics"
+  - "ethics"
+  - "René Combeau"
+  - "Luis Ladrón de Guevara"
+palabras-clave:
+  - "Estética"
+  - "Ética"
+  - "René Combeau"
+  - "Luis Ladrón de Guevara"
 ---
 
 ## Referências

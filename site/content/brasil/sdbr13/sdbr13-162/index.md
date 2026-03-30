@@ -47,6 +47,10 @@ palavras-chave:
   - "Concurso Delta do Jacuí"
   - "Urbanismo Moderno no Sul"
   - "Concurso de Brasília"
+keywords:
+  - "Competition of the Jacuí Delta"
+  - "Modern Urbanism in the South"
+  - "Brasilia Competition"
 ---
 
 ## Referências

@@ -57,6 +57,10 @@ palavras-chave:
   - "patrimônio moderno"
   - "conservação preventiva"
   - "Pavilhão da Febre Amarela"
+keywords:
+  - "modern heritage"
+  - "preventive conservation"
+  - "Yellow Fever Pavilion"
 ---
 
 ## Referências

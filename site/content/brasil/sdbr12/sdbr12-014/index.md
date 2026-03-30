@@ -48,6 +48,10 @@ palavras-chave:
   - "Brasília"
   - "revistas especializadas"
   - "América do Sul"
+palabras-clave:
+  - "Brasilia"
+  - "revistas especializadas"
+  - "Sudamérica"
 ---
 
 ## Referências

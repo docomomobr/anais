@@ -51,6 +51,12 @@ palavras-chave:
   - "Zoneamento"
   - "Parkways"
   - "Ribeirão Preto"
+keywords:
+  - "Urban Planning"
+  - "Zoning"
+  - "Parkways"
+  - "Ribeirão Preto"
+  - "José de Oliveira Reis"
 ---
 
 ## Referências

@@ -65,6 +65,10 @@ palavras-chave:
   - "Modernidade brasileira"
   - "Publicações internacionais de"
   - "arquitetura"
+keywords:
+  - "School projects"
+  - "Brazilian modernity"
+  - "International architectural publications"
 ---
 
 ## Referências

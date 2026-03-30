@@ -62,6 +62,14 @@ palavras-chave:
   - "Forma moderna"
   - "Planta livre"
   - "Brise-soleil"
+keywords:
+  - "Modern form"
+  - "Free plan"
+  - "Brise-soleil"
+palabras-clave:
+  - "Forma moderna"
+  - "Planta Libre"
+  - "Brise-soleil"
 ---
 
 ## Referências

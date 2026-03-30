@@ -49,6 +49,10 @@ palavras-chave:
   - "Edifício Vanguardia"
   - "Punta Del Este"
   - "Julio Aranda"
+keywords:
+  - "Vanguardia Building"
+  - "Punta Del Este"
+  - "Julio Aranda"
 ---
 
 ## Referências

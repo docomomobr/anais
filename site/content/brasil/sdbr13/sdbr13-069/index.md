@@ -61,6 +61,12 @@ palavras-chave:
   - "Arquitetura Moderna – Brasil"
   - "Arquitetura Contemporânea"
   - "– Brasil"
+keywords:
+  - "Tile"
+  - "Web"
+  - "Façade"
+  - "Modern Architecture – Brazil"
+  - "Contemporary Architecture – Brazil"
 ---
 
 ## Referências

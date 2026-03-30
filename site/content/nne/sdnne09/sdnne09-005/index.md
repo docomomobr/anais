@@ -53,6 +53,10 @@ palavras-chave:
   - "pesquisa histórica"
   - "fontes iconográficas"
   - "modernização"
+keywords:
+  - "historical research"
+  - "iconographic sources"
+  - "modernization"
 ---
 
 ## Referências

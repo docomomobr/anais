@@ -50,6 +50,10 @@ palavras-chave:
   - "Estruturas metálicas"
   - "Palácio do Congresso Nacional"
   - "Edifícios Ministeriais de"
+keywords:
+  - "Steel structures"
+  - "Palace of Congress"
+  - "Ministries in Brasilia"
 ---
 
 ## Referências

@@ -72,6 +72,10 @@ autores:
 palavras-chave:
   - "Desempenho térmico"
   - "Arquitetura Moderna"
+keywords:
+  - "Thermal performance"
+  - "Modern architecture"
+  - "Climate"
 ---
 
 ## Referências

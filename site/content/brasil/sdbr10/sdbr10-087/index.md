@@ -55,6 +55,10 @@ palavras-chave:
   - "Borsoi"
   - "Joaquim Guedes"
   - "Alvar Aalto"
+keywords:
+  - "Borsoi"
+  - "Joaquim Guedes"
+  - "Alvar Aalto"
 ---
 
 ## Referências

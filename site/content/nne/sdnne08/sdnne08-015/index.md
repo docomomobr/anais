@@ -55,6 +55,14 @@ palavras-chave:
   - "Centro Administrativo da Bahia"
   - "Arquitetura e Urbanismo"
   - "Brutalismo"
+keywords:
+  - "Administration Center of Bahia"
+  - "Architecture and Urbanism"
+  - "Brutalism"
+palabras-clave:
+  - "Centro Administrativo de Bahia"
+  - "Arquitectura y Urbanismo"
+  - "Brutalismo"
 ---
 
 ## Referências

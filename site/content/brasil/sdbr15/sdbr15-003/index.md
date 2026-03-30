@@ -64,6 +64,14 @@ palavras-chave:
   - "Plano de Ação"
   - "PAGE"
   - "Arquitetura Moderna Brasileira"
+keywords:
+  - "Plano de Ação"
+  - "PAGE"
+  - "Brazilian Modern Architecture"
+palabras-clave:
+  - "Plano de Ação"
+  - "PAGE"
+  - "Arquitectura Moderna Brasileña"
 ---
 
 ## Referências

@@ -59,6 +59,12 @@ palavras-chave:
   - "pavilhões"
   - "uso"
   - "revistas de arquitetura"
+keywords:
+  - "Ibirapuera"
+  - "park"
+  - "pavilions"
+  - "use"
+  - "architectural journals"
 ---
 
 ## Referências

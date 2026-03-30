@@ -58,6 +58,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Intervenção"
   - "Ensino de Projeto Arquitetônico"
+keywords:
+  - "Modern Architecture"
+  - "Intervention"
+  - "Architectural Design Teaching"
 ---
 
 ## Referências

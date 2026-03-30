@@ -60,6 +60,13 @@ palavras-chave:
   - "Educação"
   - "Patrimônio"
   - "Museologia. (tirar uma palavra)"
+keywords:
+  - "UFRGS"
+  - "History"
+  - "Documentation"
+  - "Education"
+  - "Heritage"
+  - "Museology"
 ---
 
 ## Referências

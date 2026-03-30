@@ -59,6 +59,10 @@ palavras-chave:
   - "era vargas"
   - "antiga Receita Federal de Cuiabá"
   - "obras oficiais"
+keywords:
+  - "era vargas"
+  - "antiga Receita Federal de Cuiabá"
+  - "obras oficiais"
 ---
 
 ## Referências

@@ -61,6 +61,13 @@ palavras-chave:
   - "Casa Olga Baeta"
   - "Case Study Houses"
   - "Eames House"
+keywords:
+  - "Modern Architeture"
+  - "João Batista Vilanova Artigas"
+  - "Elza Berquó House"
+  - "Olga Baeta House"
+  - "Case Study Houses"
+  - "Eames House"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Representação"
   - "Formação"
+keywords:
+  - "Modern Architectural"
+  - "Representation"
+  - "Formation"
 ---
 
 ## Referências

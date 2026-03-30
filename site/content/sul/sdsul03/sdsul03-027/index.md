@@ -44,6 +44,10 @@ ficha_catalografica: "3º Seminário Docomomo Sul: anais: madeira: primitivismo 
 autores:
   - "Mondragón, Hugo"
   - "Téllez, Andrés"
+palabras-clave:
+  - "Racionalismo Arquitectónico"
+  - "Industria"
+  - "Artesanía"
 ---
 
 ## Referências

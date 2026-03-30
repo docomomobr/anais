@@ -59,6 +59,14 @@ palavras-chave:
   - "patrimônio cultural"
   - "preservação"
   - "Colégio Doze de Outubro"
+keywords:
+  - "cultural heritage"
+  - "preservation"
+  - "Colégio Doze de Outubro"
+palabras-clave:
+  - "patrimonio cultural"
+  - "preservación"
+  - "Colegio Doce de Octubre"
 ---
 
 ## Referências

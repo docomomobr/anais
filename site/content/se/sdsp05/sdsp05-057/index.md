@@ -55,6 +55,12 @@ palavras-chave:
   - "Obsolescência"
   - "Reocupação"
   - "Bottom-up Urbanismo"
+keywords:
+  - "São Paulo Downtown"
+  - "Building Vacancy"
+  - "Obsolescence"
+  - "Reoccupation"
+  - "Bottom-up Urbanism"
 ---
 
 ## Referências

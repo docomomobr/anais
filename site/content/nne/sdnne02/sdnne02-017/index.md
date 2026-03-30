@@ -68,6 +68,10 @@ palavras-chave:
   - "Urbanismo Moderno"
   - "Plano Diretor de Fortaleza"
   - "Hélio Modesto"
+keywords:
+  - "Modernist Urbanism"
+  - "Fortaleza’s Director Plan"
+  - "Hélio Modesto"
 ---
 
 ## Referências

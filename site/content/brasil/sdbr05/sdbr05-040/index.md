@@ -51,6 +51,10 @@ palavras-chave:
   - "Paquetá"
   - "habitação popular"
   - "DHP"
+keywords:
+  - "Paquetá"
+  - "social housing"
+  - "DHP"
 ---
 
 ## Referências

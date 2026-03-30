@@ -57,6 +57,10 @@ palavras-chave:
   - "Habitação"
   - "Modernização"
   - "Verticalidade"
+keywords:
+  - "Housing"
+  - "Modernization"
+  - "Verticality"
 ---
 
 ## Referências

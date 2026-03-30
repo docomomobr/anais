@@ -63,6 +63,14 @@ palavras-chave:
   - "Teatro Paiol"
   - "Rua XV de Novembro"
   - "Desenho urbano"
+keywords:
+  - "Paiol theater"
+  - "XV de Novembro Street"
+  - "Urban design"
+palabras-clave:
+  - "Teatro Paiol"
+  - "Calle XV de Novembro"
+  - "Diseño urbano"
 ---
 
 ## Referências

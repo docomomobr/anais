@@ -44,6 +44,8 @@ autores:
   - "Campos, Candido Malta"
 palavras-chave:
   - "Edifício Louveira; Arquitetura Moderna; Vilanova Artigas; São Paulo; Verticalização"
+keywords:
+  - "Louveira Building; Modern Architecture; Vilanova Artigas; São Paulo; Verticalization"
 ---
 
 ## Referências

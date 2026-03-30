@@ -52,6 +52,14 @@ palavras-chave:
   - "Casa do arquiteto"
   - "Lineu Borges de Macedo"
   - "Representações"
+keywords:
+  - "Architect’s house"
+  - "Lineu Borges de Macedo"
+  - "Representations"
+palabras-clave:
+  - "Casa del arquitecto"
+  - "Lineu Borges de Macedo"
+  - "Representaciones"
 ---
 
 ## Referências

@@ -67,6 +67,16 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Roraima"
   - "Paisagismo Roraimense"
+keywords:
+  - "Parque Anauá"
+  - "Modern Architecture"
+  - "Roraima"
+  - "Landscaping of Roraima"
+palabras-clave:
+  - "Parque Anauá"
+  - "Arquitectura moderna"
+  - "Roraima"
+  - "Paisajismo Roraimense"
 ---
 
 ## Referências

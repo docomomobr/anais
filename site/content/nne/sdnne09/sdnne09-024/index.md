@@ -62,6 +62,12 @@ palavras-chave:
   - "historiografia"
   - "literatura"
   - "Brasília"
+keywords:
+  - "modern architecture"
+  - "story"
+  - "historiography"
+  - "literature"
+  - "Brasilia"
 ---
 
 ## Referências

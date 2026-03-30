@@ -45,6 +45,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "arquitetura moderna"
   - "preservação"
+keywords:
+  - "Vilanova Artigas"
+  - "modern architecture"
+  - "preservation"
 ---
 
 ## Referências

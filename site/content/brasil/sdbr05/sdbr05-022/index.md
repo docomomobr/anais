@@ -51,6 +51,10 @@ palavras-chave:
   - "identidade regional"
   - "arquitetura moderna pernambucana"
   - "arquitetura moderna brasileira"
+keywords:
+  - "(regional identity"
+  - "modern architecture in Pernambuco"
+  - "modern brazilian architecture)"
 ---
 
 ## Referências

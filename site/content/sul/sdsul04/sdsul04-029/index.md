@@ -45,6 +45,10 @@ autores:
 palavras-chave:
   - "edifícios de apartamentos modernos"
   - "arquitetura moderna em Porto Alegre"
+keywords:
+  - "modern apartment buildings"
+  - "modern architecture in Porto Alegre"
+  - "modern architecture"
 ---
 
 ## Referências

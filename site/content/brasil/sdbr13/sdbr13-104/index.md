@@ -56,6 +56,11 @@ palavras-chave:
   - "Santa Rosa/RS"
   - "Acervo Edificado"
   - "História da Arquitetura"
+keywords:
+  - "Modern Movement"
+  - "Santa Rosa/RS"
+  - "Building Collection"
+  - "History of Architecture"
 ---
 
 ## Referências

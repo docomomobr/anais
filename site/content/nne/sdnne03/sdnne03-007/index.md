@@ -49,6 +49,10 @@ palavras-chave:
   - "Legislação"
   - "Preservação"
   - "Arquitetura Moderna"
+keywords:
+  - "Legislation"
+  - "Preservation"
+  - "Modern Architecture"
 ---
 
 ## Referências

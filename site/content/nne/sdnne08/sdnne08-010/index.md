@@ -72,6 +72,16 @@ palavras-chave:
   - "Bahia"
   - "Universidade Federal da Bahia"
   - "Arquitetas"
+keywords:
+  - "Modern Architecture"
+  - "Bahia"
+  - "Universidade Federal da Bahia"
+  - "Women Architects"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Bahía"
+  - "Universidade Federal da Bahia"
+  - "Arquitectas"
 ---
 
 ## Referências

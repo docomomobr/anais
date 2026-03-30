@@ -32,7 +32,6 @@ abstract_en: |
   We discuss the problems arising from the attempt to develop and implement a Joint Plan for the Preservation of Urban Brasilia so detached from a Territorial and Urban Development Plan of the Metropolitan Area of Brasilia. As well as the dilemmas of historic preservation initiatives in the field of asset and in the field of planning and management of the metropolitan region of Brasília. In light of this discussion it is proposed that the inseparability of the construction and implementation of these two instruments in view of the effectiveness of both, considering its absence so far as challenging that enhances the rescue of the innovative aspects of the origin of capital.
 keywords_en:
   - "Brasília"
-  - "plans for the preservation of urban Brasília and plans of territorial and urban development of the metropolitan region of Brasília"
 authors:
   - givenname: "Benny"
     familyname: "Schvasberg"
@@ -46,6 +45,8 @@ palavras-chave:
   - "Brasília"
   - "planos de preservação do conjunto urbanístico"
   - "planos de desenvolvimento territorial e urbano da área metropolitana de Brasília"
+keywords:
+  - "Brasília"
 ---
 
 ## Referências

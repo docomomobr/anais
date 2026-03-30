@@ -54,6 +54,12 @@ palavras-chave:
   - "espaço"
   - "natureza"
   - "humanista"
+keywords:
+  - "Mies van der Rohe"
+  - "Roman Guardini"
+  - "space"
+  - "nature"
+  - "humanista"
 ---
 
 ## Referências

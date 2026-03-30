@@ -57,6 +57,11 @@ palavras-chave:
   - "modernismo"
   - "revitalização"
   - "resgate arquitetônico"
+keywords:
+  - "social housing"
+  - "residential architecture"
+  - "modernism"
+  - "urban revitalization"
 ---
 
 ## Referências

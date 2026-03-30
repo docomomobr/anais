@@ -51,6 +51,11 @@ palavras-chave:
   - "Pier Luigi Nervi"
   - "Pietro Maria Bardi"
   - "arquitetura moderna"
+keywords:
+  - "Lina Bo Bardi"
+  - "Pier Luigi Nervi"
+  - "Pietro Maria Bardi"
+  - "modern architecture"
 ---
 
 ## Referências

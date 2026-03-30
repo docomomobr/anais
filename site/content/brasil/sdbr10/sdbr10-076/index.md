@@ -48,4 +48,8 @@ palavras-chave:
   - "Análise de obra"
   - "Vilanova Artigas"
   - "Construção"
+keywords:
+  - "Analysis of works"
+  - "João Batista Vilanova Artigas"
+  - "Construction"
 ---

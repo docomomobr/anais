@@ -53,6 +53,9 @@ palavras-chave:
   - "habitação popular e moderno"
   - "Key words: architectural"
   - "low income housing and modern"
+keywords:
+  - "architectural"
+  - "low income housing and modern"
 ---
 
 ## Referências

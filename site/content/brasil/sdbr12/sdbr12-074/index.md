@@ -51,6 +51,10 @@ palavras-chave:
   - "modernidades"
   - "arquitetura brutalista"
   - "preservação"
+keywords:
+  - "modernities"
+  - "brutalist architecture"
+  - "preservation"
 ---
 
 ## Referências

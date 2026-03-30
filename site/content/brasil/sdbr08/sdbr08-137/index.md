@@ -48,6 +48,10 @@ palavras-chave:
   - "arte-arquitetura"
   - "síntese das artes"
   - "arquitetura moderna"
+keywords:
+  - "art-architecture"
+  - "synthesis of the arts"
+  - "modern architecture"
 ---
 
 ## Referências

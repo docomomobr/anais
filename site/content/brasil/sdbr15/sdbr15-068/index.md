@@ -63,6 +63,14 @@ palavras-chave:
   - "Análise de obras"
   - "Domesticidade"
   - "Interiores"
+keywords:
+  - "Close readings"
+  - "Domesticity"
+  - "Interior design"
+palabras-clave:
+  - "Análisis de obras"
+  - "Domesticidad"
+  - "Interiorismo"
 ---
 
 ## Referências

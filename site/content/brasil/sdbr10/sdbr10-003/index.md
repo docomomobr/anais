@@ -52,6 +52,10 @@ palavras-chave:
   - "Cascas"
   - "Concreto"
   - "Manutenção"
+keywords:
+  - "shells"
+  - "Concrete"
+  - "Maintenance"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Racionalismo Estrutural"
   - "Dimensão Imaginária"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Structural Rationalism"
+  - "Imaginary Dimension"
 ---
 
 ## Referências

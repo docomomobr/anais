@@ -55,6 +55,12 @@ palavras-chave:
   - "historiografia"
   - "museu"
   - "política pública"
+keywords:
+  - "archive"
+  - "collection"
+  - "historiography"
+  - "museum"
+  - "public policy"
 ---
 
 ## Referências

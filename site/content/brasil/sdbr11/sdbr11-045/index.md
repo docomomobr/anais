@@ -51,6 +51,10 @@ palavras-chave:
   - "Palácio dos Leões"
   - "Roberto Burle Marx"
   - "Jardins históricos"
+keywords:
+  - "Palace of the Lions"
+  - "Roberto Burle Marx"
+  - "Historic gardens"
 ---
 
 ## Referências

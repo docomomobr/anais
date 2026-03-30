@@ -47,6 +47,10 @@ palavras-chave:
   - "Clorindo Testa"
   - "Centro Cívico de Santa Rosa"
   - "renovação urbana"
+keywords:
+  - "Clorindo Testa"
+  - "Santa Rosa Civic Center"
+  - "urban renewal"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura cemiterial"
   - "Cemitério"
   - "Campo da Esperança"
+keywords:
+  - "Cemetery architecture"
+  - "Cemetery"
+  - "Campo da Esperança"
+palabras-clave:
+  - "Arquitectura del cementerio"
+  - "Cementerio"
+  - "Campo da Esperança"
 ---
 
 ## Referências

@@ -63,6 +63,9 @@ autores:
 palavras-chave:
   - "Renovação Urbana"
   - "Arquitetura Moderna"
+keywords:
+  - "Urban Renewal"
+  - "Modern Architecture"
 ---
 
 ## Referências

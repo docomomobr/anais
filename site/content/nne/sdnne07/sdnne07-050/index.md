@@ -63,6 +63,18 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio Moderno"
   - "Sustentabilidade"
+keywords:
+  - "Severiano Mário Porto"
+  - "UFAM"
+  - "Modern Architecture"
+  - "Modern Heritage"
+  - "Sustainability"
+palabras-clave:
+  - "Severiano Mário Porto"
+  - "UFAM"
+  - "Arquitectura Moderna"
+  - "Patrimonio Moderno"
+  - "Sustentabilidad"
 ---
 
 ## Referências

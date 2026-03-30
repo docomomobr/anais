@@ -74,6 +74,18 @@ palavras-chave:
   - "inspeção predial"
   - "retrofit"
   - "preservação"
+keywords:
+  - "Durability"
+  - "GUT Matrix"
+  - "Building inspection"
+  - "Retrofit"
+  - "Preservation"
+palabras-clave:
+  - "durabilidad"
+  - "Matriz GUT"
+  - "inspección edilicia"
+  - "rehabilitación"
+  - "preservación"
 ---
 
 ## Referências

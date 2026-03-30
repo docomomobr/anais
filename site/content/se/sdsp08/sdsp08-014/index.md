@@ -55,6 +55,14 @@ palavras-chave:
   - "Acervos"
   - "Ensino de arquitetura"
   - "Arquitetura Moderna"
+keywords:
+  - "Collections"
+  - "Architecture teaching"
+  - "Modern architecture"
+palabras-clave:
+  - "Colecciones"
+  - "Enseñanza de la arquitectura"
+  - "Arquitectura moderna"
 ---
 
 ## Referências

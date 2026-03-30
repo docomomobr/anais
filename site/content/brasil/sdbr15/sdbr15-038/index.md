@@ -65,6 +65,14 @@ palavras-chave:
   - "Sustentabilidade Urbana"
   - "Projeto Urbano"
   - "Planejamento Ambiental"
+keywords:
+  - "Urban Sustainability"
+  - "Urban Design"
+  - "Environmental Planning"
+palabras-clave:
+  - "Sostenibilidad Urbana"
+  - "Proyecto Urbano"
+  - "Planificación Ambiental"
 ---
 
 ## Referências

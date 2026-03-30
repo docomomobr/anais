@@ -75,6 +75,10 @@ palavras-chave:
   - "Arquitetura Paranaense"
   - "Habitação Social"
   - "Vila Nossa Senhora da Luz dos Pinhais"
+keywords:
+  - "Architecture in Parana"
+  - "Housing"
+  - "Vila Nossa Senhora da Luz dos Pinhais"
 ---
 
 ## Referências

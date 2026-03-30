@@ -48,6 +48,10 @@ palavras-chave:
   - "sedes administrativas das estatais"
   - "“Grupo do Paraná”"
   - "Brutalismo"
+keywords:
+  - "state-owned companies' headquarters"
+  - "“Paraná Team”"
+  - "Brutalism"
 ---
 
 ## Referências

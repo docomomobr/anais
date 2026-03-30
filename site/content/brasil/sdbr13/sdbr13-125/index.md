@@ -58,6 +58,12 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Lelé"
   - "Tecnologia"
+keywords:
+  - "Prefabrication"
+  - "Historic Center of Salvador"
+  - "Lina Bo Bardi"
+  - "Lelé"
+  - "Technology"
 ---
 
 ## Referências

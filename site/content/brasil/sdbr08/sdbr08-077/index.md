@@ -47,6 +47,10 @@ palavras-chave:
   - "síntese das artes"
   - "arquitetura moderna"
   - "artes plásticas"
+keywords:
+  - "Synthesis of the Arts"
+  - "modern Architecture"
+  - "Arts"
 ---
 
 ## Referências

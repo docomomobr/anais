@@ -51,6 +51,11 @@ palavras-chave:
   - "urbanismo e paisagismo modernos"
   - "escritórios de arquitetura"
   - "preservação"
+keywords:
+  - "modern architecture"
+  - "urbanism and landscape design"
+  - "architecture offices"
+  - "presevation"
 ---
 
 ## Referências

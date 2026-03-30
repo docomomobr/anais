@@ -54,6 +54,12 @@ palavras-chave:
   - "Burle Marx"
   - "arquitetura paisagística moderna"
   - "obras públicas"
+keywords:
+  - "SURSAN"
+  - "Copacabana"
+  - "Burle Marx"
+  - "Modern Landscape Architecture"
+  - "public works"
 ---
 
 ## Referências

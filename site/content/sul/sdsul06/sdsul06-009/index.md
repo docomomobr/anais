@@ -56,6 +56,12 @@ palavras-chave:
   - "Julio Vilamajó"
   - "reciclagem"
   - "ampliação"
+keywords:
+  - "Modern uruguayan architecture"
+  - "Facultad de Ingeniería"
+  - "Julio Vilamajó"
+  - "recycle"
+  - "ampliation"
 ---
 
 ## Referências

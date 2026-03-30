@@ -48,6 +48,18 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
   - "Bullaro, Luca"
+keywords:
+  - "Tropical modern"
+  - "art-architecture-landscape integration"
+  - "holistic architecture"
+  - "Niemeyer"
+  - "Burle Marx"
+palabras-clave:
+  - "Moderno tropical"
+  - "integración arte-arquitectura-paisaje"
+  - "arquitectura holística"
+  - "Niemeyer"
+  - "Burle Marx"
 ---
 
 ## Referências

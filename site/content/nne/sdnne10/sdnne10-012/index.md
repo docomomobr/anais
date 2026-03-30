@@ -68,6 +68,18 @@ palavras-chave:
   - "Solução Projetual"
   - "Amazônia"
   - "Residência"
+keywords:
+  - "Modern Architecture"
+  - "Architectural Project"
+  - "Project Solution"
+  - "Amazon"
+  - "Residence"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Proyecto arquitectónico"
+  - "Solución Proyectual"
+  - "Amazonía"
+  - "Residencia"
 ---
 
 ## Referências

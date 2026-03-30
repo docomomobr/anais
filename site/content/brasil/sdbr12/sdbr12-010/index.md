@@ -44,6 +44,10 @@ autores:
 palavras-chave:
   - "arquitetura moderna"
   - "Oswaldo Bratke, Pierre Koenig"
+keywords:
+  - "modern architecture"
+  - "Oswaldo Bratke"
+  - "Pierre Koenig"
 ---
 
 ## Referências

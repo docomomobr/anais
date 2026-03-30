@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Morar Vertical"
   - "Apartamento"
+keywords:
+  - "Modern Architecture"
+  - "Living Vertical"
+  - "Apartment"
 ---
 
 ## Referências

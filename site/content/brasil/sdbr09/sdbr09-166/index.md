@@ -51,6 +51,11 @@ palavras-chave:
   - "Pietro Bardi"
   - "Arquitetura Moderna"
   - "Arquitetura Italiana"
+keywords:
+  - "Lina Bo Bardi"
+  - "Pietro Bardi"
+  - "Modern Arquitecture"
+  - "Italian Arquitecture"
 ---
 
 ## Referências

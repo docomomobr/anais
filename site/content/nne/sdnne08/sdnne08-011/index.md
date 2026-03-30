@@ -37,7 +37,6 @@ keywords_en:
   - "Modern architecture"
   - "project analysis"
   - "Zélia Maia Nobre, Maceió-AL"
-  - "documentation. UM BRASIL MODERNÍSSIMO O Modernismo destaca-se dentre os movimentos mais importantes que interferiram globalmente na transformação da paisagem construída. Através das suas ideias, buscou-se expressar intenções nunca antes imaginadas junto ao otimismo de uma nova era"
 abstract_es: |
   La arquitecta de Pernambuco Zélia Maia Nobre dejó su huella en la ciudad de Maceió como símbolo del deseo de cambio. Responsable de la creación del primer curso de arquitectura y urbanismo en el estado, sus edificios de línea recta modernizaron el espacio físico de la ciudad. Así, este artículo investiga sus cuatro primeras residencias inscritas en el archivo documental municipal proyectado en la década de 1950 en Maceió. A pesar de su vasta producción local, su desempeño profesional es desconocido en la historiografía nacional. Se analizarán las estrategias de diseño de las casas, en cuanto a composición y espacialidad, a la luz de otras obras del arquitecto y otras producidas en el mismo período por pernambucanos de la corriente modernista, por la influencia que tuvieron en la formación de Zélia. ; además de registrar la situación actual de los edificios. Se tomará como base documentación primaria, imágenes, rediseños y modelado tridimensional. Las cuatro casas: Residencia Humberto Antônio de Omena, Residencia Edésio Cavalcanti de Mello, Residencia Davi de Albuquerque Melo y Residencia Benedito Moreira, que pertenecen a un universo extenso y desconocido de los proyectos del arquitecto, comparten la misma expresión observada en sus pocas obras publicadas. Con ello se espera ampliar los estudios sobre la obra de Zélia, intensificando la relevancia de su producción como representante de la expresión modernista de Alagoas.
 keywords_es:
@@ -67,6 +66,16 @@ palavras-chave:
   - "Zélia Maia Nobre"
   - "Maceió"
   - "documentação"
+keywords:
+  - "Modern architecture"
+  - "project analysis"
+  - "Zélia Maia Nobre, Maceió-AL"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "análisis de proyectos"
+  - "Zélia Maia Nobre"
+  - "Maceió"
+  - "documentación"
 ---
 
 ## Referências

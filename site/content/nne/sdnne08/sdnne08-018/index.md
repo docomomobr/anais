@@ -60,6 +60,16 @@ palavras-chave:
   - "personagem"
   - "critérios projetuais"
   - "Nordeste brasileiro"
+keywords:
+  - "modernity"
+  - "character"
+  - "design criteria"
+  - "Brazilian Northeast"
+palabras-clave:
+  - "modernidad"
+  - "personaje"
+  - "criterios de diseño"
+  - "Nordeste brasileño"
 ---
 
 ## Referências

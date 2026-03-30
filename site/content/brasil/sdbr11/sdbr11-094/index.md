@@ -50,6 +50,11 @@ palavras-chave:
   - "Cartões-postais e arquitetura"
   - "Iconografia de arquitetura"
   - "Fotografia e arquitetura"
+keywords:
+  - "Deltiology"
+  - "Postcards and architecture"
+  - "Iconography of architecture"
+  - "Photography and architecture"
 ---
 
 ## Referências

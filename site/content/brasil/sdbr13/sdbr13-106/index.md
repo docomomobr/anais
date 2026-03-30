@@ -63,6 +63,13 @@ palavras-chave:
   - "Patrimônio Cultural"
   - "História Urbana"
   - "Rio de Janeiro"
+keywords:
+  - "Modern Architecture"
+  - "Hospital Architecture"
+  - "Cultural Heritage"
+  - "Urban History"
+  - "Rio de"
+  - "Janeiro"
 ---
 
 ## Referências

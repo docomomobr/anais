@@ -44,6 +44,8 @@ autores:
   - "Barboza, Leila Maria da Silva"
 palavras-chave:
   - "Arte Pública – Urbanismo – Urbanidade"
+keywords:
+  - "Public Art – Urbanism – Urbanity"
 ---
 
 ## Referências

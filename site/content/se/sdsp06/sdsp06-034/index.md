@@ -48,6 +48,10 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Paulo Mendes da Rocha"
   - "Museu"
+keywords:
+  - "Oscar Niemeyer"
+  - "Paulo Mendes da Rocha"
+  - "Museum"
 ---
 
 ## Referências

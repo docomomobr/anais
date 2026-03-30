@@ -53,6 +53,10 @@ palavras-chave:
   - "Síntese das artes"
   - "Cultura Regional"
   - "Patrimônio"
+keywords:
+  - "Synthesis of the arts"
+  - "Regional Culture"
+  - "Heritage"
 ---
 
 ## Referências

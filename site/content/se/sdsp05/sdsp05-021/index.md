@@ -49,6 +49,10 @@ palavras-chave:
   - "identidade educacional"
   - "ensino"
   - "FAU-Mack"
+keywords:
+  - "educational identity"
+  - "teaching"
+  - "FAU-Mack"
 ---
 
 ## Referências

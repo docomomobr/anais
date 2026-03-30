@@ -54,6 +54,10 @@ palavras-chave:
   - "jardim moderno"
   - "jardim histórico"
   - "restauração"
+keywords:
+  - "modern garden"
+  - "historical garden"
+  - "restoration"
 ---
 
 ## Referências

@@ -55,6 +55,11 @@ palavras-chave:
   - "edifícios residenciais"
   - "escola carioca"
   - "arquitetura moderna"
+keywords:
+  - "Facades"
+  - "residential buildings"
+  - "Rio de Janeiro school"
+  - "modern architecture"
 ---
 
 ## Referências

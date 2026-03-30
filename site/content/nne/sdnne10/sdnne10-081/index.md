@@ -71,6 +71,18 @@ palavras-chave:
   - "belém"
   - "documentação"
   - "chb"
+keywords:
+  - "modern architecture"
+  - "guide"
+  - "belém"
+  - "documentation"
+  - "chb"
+palabras-clave:
+  - "arquitectura moderna"
+  - "guía"
+  - "Belém"
+  - "documentación"
+  - "chb"
 ---
 
 ## Referências

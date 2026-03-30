@@ -51,6 +51,10 @@ palavras-chave:
   - "Cardozo"
   - "Niemeyer"
   - "Estruturas"
+keywords:
+  - "Cardozo"
+  - "Niemeyer"
+  - "Structure"
 ---
 
 ## Referências

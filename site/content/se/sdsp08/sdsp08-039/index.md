@@ -55,6 +55,14 @@ palavras-chave:
   - "Historiografia"
   - "Arquitetura paulista"
   - "Acervos de arquitetura"
+keywords:
+  - "Historiography"
+  - "São Paulo architecture"
+  - "Architectural collections"
+palabras-clave:
+  - "Historiografía"
+  - "Arquitectura paulista"
+  - "Colecciones arquitectónicas"
 ---
 
 ## Referências

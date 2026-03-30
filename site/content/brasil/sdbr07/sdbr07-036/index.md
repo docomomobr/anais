@@ -43,6 +43,9 @@ autores:
 palavras-chave:
   - "Lúcio Costa"
   - "Outeiro da Glória"
+keywords:
+  - "Lúcio Costa"
+  - "Outeiro da Glória"
 ---
 
 ## Referências

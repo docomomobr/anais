@@ -56,6 +56,10 @@ palavras-chave:
   - "Arquitetura moderna (PB)"
   - "Registro"
   - "Preservação"
+keywords:
+  - "Modern Architecture (PB)"
+  - "Register"
+  - "Preservation"
 ---
 
 ## Referências

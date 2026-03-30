@@ -53,6 +53,12 @@ palavras-chave:
   - "forma arquitectónica"
   - "Arica"
   - "Chile"
+keywords:
+  - "modern architecture"
+  - "socio-economic development"
+  - "architectural form"
+  - "Arica"
+  - "Chile"
 ---
 
 ## Referências

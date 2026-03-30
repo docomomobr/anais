@@ -68,6 +68,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Tectônica"
   - "Patrimônio Moderno"
+keywords:
+  - "Modern Architecture"
+  - "Tectonic"
+  - "Modern Heritage"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Tectónica"
+  - "Patrimonio Moderno"
 ---
 
 ## Referências

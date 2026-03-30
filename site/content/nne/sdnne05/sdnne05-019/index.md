@@ -53,6 +53,11 @@ palavras-chave:
   - "Bahia"
   - "Diógenes Rebouças"
   - "Lina Bo Bardi"
+keywords:
+  - "modern architecture"
+  - "Bahia"
+  - "Diógenes Rebouças"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

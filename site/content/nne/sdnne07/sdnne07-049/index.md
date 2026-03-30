@@ -79,6 +79,16 @@ palavras-chave:
   - "Espaço Público"
   - "Paisagismo"
   - "Boa Vista"
+keywords:
+  - "Urban Plan"
+  - "Public Space"
+  - "Landscaping"
+  - "Boa Vista"
+palabras-clave:
+  - "Plan Urbanístico"
+  - "Espacio Público"
+  - "Paisajismo"
+  - "Buena Vista"
 ---
 
 ## Referências

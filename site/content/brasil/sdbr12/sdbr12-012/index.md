@@ -47,6 +47,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Triângulo Mineiro e Alto Paranaíba"
   - "Imaginário Moderno"
+keywords:
+  - "brasilian modern architecture"
+  - "brazilian modern architecture spread"
+  - "preservation"
+  - "Triângulo Mineiro e Alto Paranaíba"
 ---
 
 ## Referências

@@ -58,6 +58,14 @@ palavras-chave:
   - "Acervos iconográficos"
   - "Edifício São Luiz"
   - "Marcello Fragelli"
+keywords:
+  - "Iconographic collections"
+  - "São Luiz Building"
+  - "Marcello Fragelli"
+palabras-clave:
+  - "Acervos iconográficos"
+  - "Edificio São Luiz"
+  - "Marcello Fragelli"
 ---
 
 ## Referências

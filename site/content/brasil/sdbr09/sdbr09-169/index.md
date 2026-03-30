@@ -52,6 +52,12 @@ palavras-chave:
   - "arquitetura moderna"
   - "revistas de arquitetura"
   - "Brasil"
+keywords:
+  - "reception"
+  - "diffusion"
+  - "modern architecture"
+  - "magazine architecture"
+  - "Brazil"
 ---
 
 ## Referências

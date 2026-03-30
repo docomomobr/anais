@@ -59,6 +59,11 @@ palavras-chave:
   - "Preservação"
   - "Arquitetura Moderna"
   - "Modernismo no Rio Grande do Sul"
+keywords:
+  - "Architectural heritage"
+  - "Preservation"
+  - "Modern Architecture"
+  - "Modernism in RS"
 ---
 
 ## Referências

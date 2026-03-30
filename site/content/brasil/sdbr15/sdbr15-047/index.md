@@ -68,6 +68,15 @@ palavras-chave:
   - "Arquiteto e"
   - "Urbanista Clovis Ilgenfritz da Silva"
   - "Habitação Social"
+keywords:
+  - "theory of Architecture and Urbanism"
+  - "Gaúcha modern architecture"
+  - "Architect and"
+  - "Urbanist Clovis Ilgenfritz da Silva"
+  - "Social Housing"
+palabras-clave:
+  - "y Urbanista Clovis Ilgenfritz da Silva"
+  - "Vivienda Económica"
 ---
 
 ## Referências

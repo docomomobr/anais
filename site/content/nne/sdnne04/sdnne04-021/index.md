@@ -55,6 +55,11 @@ palavras-chave:
   - "Construção"
   - "Tradição"
   - "Modernismo"
+keywords:
+  - "Modern Architecture (CE)"
+  - "Construction"
+  - "Tradition"
+  - "Modernism"
 ---
 
 ## Referências

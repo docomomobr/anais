@@ -60,6 +60,12 @@ palavras-chave:
   - "Espaço habitado"
   - "Rural x Urbano"
   - "Afetividade"
+keywords:
+  - "Architecture of the people"
+  - "Alagoas"
+  - "Inhabited space"
+  - "Rural x Urban"
+  - "Affectivity"
 ---
 
 ## Referências

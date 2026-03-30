@@ -51,6 +51,10 @@ palavras-chave:
   - "Deriva"
   - "Educação Patrimonial"
   - "Modernidade"
+keywords:
+  - "Deriva"
+  - "Heritage Education"
+  - "Modernity"
 ---
 
 ## Referências

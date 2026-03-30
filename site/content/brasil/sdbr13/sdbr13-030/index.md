@@ -48,6 +48,10 @@ palavras-chave:
   - "pilotis"
   - "Parque Guinle"
   - "Edifício Louveira"
+keywords:
+  - "pilotis"
+  - "Parque Guinle"
+  - "Edifício Louveira"
 ---
 
 ## Referências

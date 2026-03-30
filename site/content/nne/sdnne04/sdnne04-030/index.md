@@ -56,6 +56,10 @@ palavras-chave:
   - "Modernismo"
   - "Miguel Caddah"
   - "Arquitetura educacional"
+keywords:
+  - "Modernism"
+  - "Miguel Caddah"
+  - "educational Architecture"
 ---
 
 ## Referências

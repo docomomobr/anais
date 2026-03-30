@@ -44,6 +44,10 @@ palavras-chave:
   - "residências"
   - "modernismo"
   - "anos 1970"
+keywords:
+  - "residences"
+  - "modern experience"
+  - "the 1970s"
 ---
 
 ## Referências

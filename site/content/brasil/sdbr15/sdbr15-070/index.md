@@ -59,6 +59,14 @@ palavras-chave:
   - "Curitiba"
   - "Urbanismo"
   - "Renovação Urbana"
+keywords:
+  - "Curitiba"
+  - "Urbanism"
+  - "Urban Renewal"
+palabras-clave:
+  - "Curitiba"
+  - "Urbanismo"
+  - "Renovación urbana"
 ---
 
 ## Referências

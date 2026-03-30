@@ -54,6 +54,12 @@ palavras-chave:
   - "preservação"
   - "documentação"
   - "acervo arquitetônico"
+keywords:
+  - "modern architecture"
+  - "modern heritage"
+  - "preservation"
+  - "documentation"
+  - "architectural collection"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "arquitetura moderna em Curitiba"
   - "casas modernas"
+keywords:
+  - "Modern Architecture"
+  - "modern architecture in Curitiba"
+  - "modern homes"
 ---
 
 ## Referências

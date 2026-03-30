@@ -56,6 +56,12 @@ palavras-chave:
   - "Sustentabilidade"
   - "Planejamento Urbano"
   - "Brasília"
+keywords:
+  - "Preservation"
+  - "Heritage"
+  - "Sustainability"
+  - "Urban Planning"
+  - "Brasilia"
 ---
 
 ## Referências

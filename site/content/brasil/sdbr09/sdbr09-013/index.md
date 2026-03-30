@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Esportiva"
   - "Porto Alegre"
   - "Patrimônio Moderno"
+keywords:
+  - "Sports Architecture"
+  - "Porto Alegre"
+  - "Modern Heritage"
 ---
 
 ## Referências

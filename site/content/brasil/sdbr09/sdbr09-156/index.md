@@ -52,4 +52,8 @@ palavras-chave:
   - "Capacitação"
   - "Conservação"
   - "Arquitetura Moderna"
+keywords:
+  - "Brutalist architecture"
+  - "Post-War Architecture"
+  - "Pernambuco architecture"
 ---

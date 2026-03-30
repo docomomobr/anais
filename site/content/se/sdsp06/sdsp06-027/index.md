@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Ensino de Arquitetura e Urbanismo"
   - "FAUS"
+keywords:
+  - "Modern Architecture"
+  - "Architecture and Urban Planning Education"
+  - "FAUS"
 ---
 
 ## Referências

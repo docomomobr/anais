@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Residencial Moderna"
   - "Sérgio Bernardes"
   - "Análise Gráfica"
+keywords:
+  - "Residential Modern Architecture"
+  - "Sergio Bernardes"
+  - "Graphical Analysis"
 ---
 
 ## Referências

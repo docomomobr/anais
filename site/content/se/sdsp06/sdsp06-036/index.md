@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura bancária"
   - "Escola paulista de arquitetura"
   - "Siegbert Zanettini"
+keywords:
+  - "Bank architecture"
+  - "Architecture paulista school"
+  - "Siegbert Zanettini"
 ---
 
 ## Referências

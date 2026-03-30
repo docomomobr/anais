@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura de madeira"
   - "Brasil moderno"
   - "tectônica"
+keywords:
+  - "wooden architecture"
+  - "modern Brazil"
+  - "tectonics"
 ---
 
 ## Referências

@@ -56,6 +56,11 @@ palavras-chave:
   - "sistematicidade"
   - "concreto"
   - "Affonso Reidy"
+keywords:
+  - "Project"
+  - "way of projecting"
+  - "concrete"
+  - "Affonso Reidy"
 ---
 
 ## Referências

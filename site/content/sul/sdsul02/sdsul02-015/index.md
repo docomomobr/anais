@@ -48,6 +48,10 @@ palavras-chave:
   - "Concreto armado"
   - "Arquitectura moderna na África Portuguesa"
   - "Arquitectura moderna no Brasil"
+keywords:
+  - "Reinforced concrete"
+  - "Modern Architecture in Portuguese Africa"
+  - "Modern Architecture in Brazil"
 ---
 
 ## Referências

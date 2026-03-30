@@ -48,6 +48,10 @@ palavras-chave:
   - "Centro Cultural da Cidade de São Paulo"
   - "Gestão"
   - "Conservação"
+keywords:
+  - "São Paulo Cultural Center"
+  - "Building management"
+  - "Conservation Management"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura em Manaus"
   - "Severiano Porto"
+keywords:
+  - "Modern Architecture"
+  - "Architecture in Manaus"
+  - "Severiano Porto"
 ---
 
 ## Referências

@@ -58,6 +58,11 @@ palavras-chave:
   - "Revista Acrópole"
   - "Revista"
   - "PROA"
+keywords:
+  - "Apartment building"
+  - "Magazine Nuestra Arquitectura"
+  - "Magazine Acrópole"
+  - "Magazine PROA"
 ---
 
 ## Referências

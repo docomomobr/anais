@@ -48,6 +48,10 @@ palavras-chave:
   - "Cinema"
   - "literatura"
   - "arquitetura"
+keywords:
+  - "Cinema"
+  - "literature"
+  - "architecture"
 ---
 
 ## Referências

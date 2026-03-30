@@ -54,6 +54,10 @@ palavras-chave:
   - "Modernidade"
   - "Praia da Avenida (Maceió)"
   - "Preservação"
+keywords:
+  - "Modernity"
+  - "Praia da Avenida Beach (Maceió)"
+  - "Preservation"
 ---
 
 ## Referências

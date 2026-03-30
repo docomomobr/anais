@@ -52,6 +52,10 @@ palavras-chave:
   - "calçada portuguesa"
   - "Copacabana"
   - "Burle Marx"
+keywords:
+  - "Portuguese sidewalk"
+  - "Copacabana"
+  - "Burle Marx"
 ---
 
 ## Referências

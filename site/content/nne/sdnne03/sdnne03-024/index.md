@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "João Pessoa"
   - "Habitar Moderno"
+keywords:
+  - "Modern Architecture"
+  - "João Pessoa"
+  - "Modern Living"
 ---
 
 ## Referências

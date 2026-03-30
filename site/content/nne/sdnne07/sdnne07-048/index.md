@@ -62,6 +62,14 @@ palavras-chave:
   - "Severiano Porto"
   - "redesenho"
   - "regionalismo"
+keywords:
+  - "Severiano Porto"
+  - "Redesign"
+  - "Regionalism"
+palabras-clave:
+  - "Severiano Porto"
+  - "Rediseño"
+  - "Regionalismo"
 ---
 
 ## Referências

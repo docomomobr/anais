@@ -64,6 +64,18 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Discurso moderno"
   - "Edifícios públicos"
+keywords:
+  - "School architecture"
+  - "Active education"
+  - "Modern architecture"
+  - "Modern discourse"
+  - "Public buildings"
+palabras-clave:
+  - "Arquitectura escolar"
+  - "Educación activa"
+  - "Arquitectura moderna"
+  - "Discurso moderno"
+  - "Edificios públicos"
 ---
 
 ## Referências

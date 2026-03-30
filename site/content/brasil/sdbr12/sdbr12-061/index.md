@@ -51,6 +51,10 @@ palavras-chave:
   - "Moradia Moderna"
   - "Edifício Diederichsen"
   - "Ribeirão Preto"
+keywords:
+  - "Modern Housing"
+  - "Diederichsen Building"
+  - "Ribeirão Preto"
 ---
 
 ## Referências

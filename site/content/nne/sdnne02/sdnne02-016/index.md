@@ -45,6 +45,10 @@ palavras-chave:
   - "Preservação"
   - "elementos urbanos"
   - "arquitetura moderna"
+keywords:
+  - "Preservation"
+  - "Urban elements"
+  - "modern architecture"
 ---
 
 ## Referências

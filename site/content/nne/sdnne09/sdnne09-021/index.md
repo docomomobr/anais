@@ -60,6 +60,11 @@ palavras-chave:
   - "Mulheres arquitetas"
   - "Nélia Romero"
   - "Arquitetura cearense"
+keywords:
+  - "women architects"
+  - "Nélia Romero"
+  - "Ceará architecture"
+  - "modernism"
 ---
 
 ## Referências

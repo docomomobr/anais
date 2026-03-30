@@ -49,6 +49,11 @@ palavras-chave:
   - "superpovoamento"
   - "oportunidades"
   - "rural-urbano"
+keywords:
+  - "migrations"
+  - "urbanization growth"
+  - "opportunities"
+  - "rural-urban"
 ---
 
 ## Referências

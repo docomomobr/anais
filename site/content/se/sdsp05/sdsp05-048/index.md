@@ -47,6 +47,10 @@ palavras-chave:
   - "Zolko"
   - "Produção"
   - "Moderna"
+keywords:
+  - "Zolko"
+  - "Production"
+  - "Modern"
 ---
 
 ## Referências

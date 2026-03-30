@@ -51,4 +51,9 @@ palavras-chave:
   - "historiografia"
   - "critica"
   - "ensino de historia"
+keywords:
+  - "architecture"
+  - "historiography"
+  - "criticism"
+  - "history teaching"
 ---

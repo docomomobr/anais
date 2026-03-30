@@ -51,6 +51,10 @@ palavras-chave:
   - "Campi Universitário"
   - "Arquitetura paulista"
   - "São Paulo"
+keywords:
+  - "University Building"
+  - "Paulista architecture school"
+  - "São Paulo"
 ---
 
 ## Referências

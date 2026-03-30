@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Oswaldo Arthur Bratke"
   - "Campos do Jordão"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Oswaldo Arthur Bratke"
+  - "Campos do Jordão"
 ---
 
 ## Referências

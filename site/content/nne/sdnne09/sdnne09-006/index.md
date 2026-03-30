@@ -53,6 +53,11 @@ palavras-chave:
   - "Salvador"
   - "Bina Fonyat"
   - "contextos"
+keywords:
+  - "modern architecture"
+  - "Salvador"
+  - "Bina Fonyat"
+  - "contexts"
 ---
 
 ## Referências

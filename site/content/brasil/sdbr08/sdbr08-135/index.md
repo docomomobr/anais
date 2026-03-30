@@ -48,6 +48,10 @@ palavras-chave:
   - "habitações econômicas"
   - "cidade moderna"
   - "arquitetura moderna"
+keywords:
+  - "economic housing"
+  - "modern city"
+  - "modern architecture"
 ---
 
 ## Referências

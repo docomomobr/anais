@@ -55,6 +55,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Salvador"
   - "Centro histórico"
+keywords:
+  - "Lina Bo Bardi"
+  - "Salvador"
+  - "Historic Center"
 ---
 
 ## Referências

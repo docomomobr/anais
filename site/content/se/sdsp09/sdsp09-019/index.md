@@ -59,6 +59,14 @@ palavras-chave:
   - "Lauro da Costa Lima"
   - "Edifício Marahú"
   - "São Vicente, SP"
+keywords:
+  - "Lauro da Costa Lima"
+  - "Marahú Building"
+  - "São Vicente, SP"
+palabras-clave:
+  - "Lauro da Costa Lima"
+  - "Edificio Marahú"
+  - "São Vicente, SP"
 ---
 
 ## Referências

@@ -90,6 +90,10 @@ palavras-chave:
   - "Conservação"
   - "projeto"
   - "Arquitetura Moderna"
+keywords:
+  - "Architectural conservation"
+  - "project"
+  - "Modern Architecture"
 ---
 
 ## Referências

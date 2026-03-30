@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna em Natal"
   - "João Maurício Fernandes de Miranda"
+keywords:
+  - "Modern architecture in Natal"
+  - "João Maurício Fernandes de Miranda"
 ---
 
 ## Referências

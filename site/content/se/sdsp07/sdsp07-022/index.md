@@ -62,6 +62,14 @@ palavras-chave:
   - "Carvalho Pinto"
   - "Infraestrutura"
   - "Planejamento Estatal"
+keywords:
+  - "Carvalho Pinto"
+  - "Infrastructure"
+  - "State Planning"
+palabras-clave:
+  - "Carvalho Pinto"
+  - "Infraestructura"
+  - "Planificación estatal"
 ---
 
 ## Referências

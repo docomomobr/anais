@@ -56,6 +56,15 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquivo Público"
   - "Aracaju"
+keywords:
+  - "modern architecture"
+  - "modern architecture in Brazil"
+  - "Aracaju"
+  - "public archive"
+palabras-clave:
+  - "arquitectura moderna"
+  - "archivo público"
+  - "Aracaju"
 ---
 
 ## Referências

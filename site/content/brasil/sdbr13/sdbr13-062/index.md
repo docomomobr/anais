@@ -52,6 +52,11 @@ palavras-chave:
   - "reconstrução"
   - "restauração"
   - "patrimônio"
+keywords:
+  - "Missões Museum"
+  - "reconstruction"
+  - "restoration"
+  - "heritage"
 ---
 
 ## Referências

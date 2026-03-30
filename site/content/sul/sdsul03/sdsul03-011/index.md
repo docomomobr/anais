@@ -54,6 +54,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "estruturas de madeira"
   - "centro esportivos"
+keywords:
+  - "modern architecture"
+  - "wood structures"
+  - "center sporting"
 ---
 
 ## Referências

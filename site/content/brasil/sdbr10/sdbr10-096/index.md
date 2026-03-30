@@ -42,6 +42,14 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
   - "Saavedra, Verónica Esparza"
+keywords:
+  - "United Nations Building for Santiago de Chile"
+  - "Emilio Duhart"
+  - "Cepal"
+palabras-clave:
+  - "Edificio de las Naciones Unidas para Santiago de Chile"
+  - "Emilio Duhart"
+  - "Cepal"
 ---
 
 ## Referências

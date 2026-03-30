@@ -48,6 +48,10 @@ palavras-chave:
   - "Tombamento"
   - "preservação"
   - "Penedo"
+keywords:
+  - "Listed modern buildings"
+  - "preservation"
+  - "Penedo"
 ---
 
 ## Referências

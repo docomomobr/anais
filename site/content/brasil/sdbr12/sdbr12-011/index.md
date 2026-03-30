@@ -56,6 +56,10 @@ palavras-chave:
   - "arquitetura modernista"
   - "arquitetura capixaba"
   - "obra modernista"
+keywords:
+  - "Modernist architecture"
+  - "Capixaba architecture"
+  - "Modernist work"
 ---
 
 ## Referências

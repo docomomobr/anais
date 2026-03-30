@@ -44,6 +44,10 @@ palavras-chave:
   - "Conservação"
   - "Arquitetura Moderna"
   - "Sede da Chesf em Salvador"
+keywords:
+  - "Conservation"
+  - "Modern Architecture"
+  - "Chesf’s building in Salvador"
 ---
 
 ## Referências

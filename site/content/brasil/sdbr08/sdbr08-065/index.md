@@ -42,6 +42,9 @@ autores:
 palavras-chave:
   - "Conjunto habitacional da Várzea do Carmo"
   - "Espacialidade urbana contemporânea"
+keywords:
+  - "Housing Estate Várzea do Carmo"
+  - "Contemporary urban space"
 ---
 
 ## Referências

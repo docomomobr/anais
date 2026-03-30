@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Documentação"
   - "Patrimônio"
+keywords:
+  - "Modern Architecture"
+  - "Documentacion"
+  - "Inheritance"
 ---
 
 ## Referências

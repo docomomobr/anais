@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura popular"
   - "Participação popular"
   - "Erradicação do analfabetismo"
+keywords:
+  - "Popular architecture"
+  - "Participatory process"
+  - "Eradication of illiteracy"
 ---
 
 ## Referências

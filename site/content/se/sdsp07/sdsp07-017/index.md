@@ -65,6 +65,14 @@ palavras-chave:
   - "Difusão da arquitetura moderna brasileira"
   - "Casas modernas"
   - "Preservação"
+keywords:
+  - "Diffusion of Brazilian modern architecture"
+  - "Modern houses"
+  - "Preservation"
+palabras-clave:
+  - "Difusión de la arquitectura moderna brasileña"
+  - "Casas modernas"
+  - "Preservación"
 ---
 
 ## Referências

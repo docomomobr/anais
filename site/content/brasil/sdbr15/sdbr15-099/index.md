@@ -65,6 +65,14 @@ palavras-chave:
   - "SENAI Ary Torres"
   - "Escola Industrial de Santo"
   - "Amaro"
+keywords:
+  - "Modern school architecture"
+  - "SENAI Ary Torres"
+  - "Santo Amaro Industrial School"
+palabras-clave:
+  - "Arquitectura escolar moderna"
+  - "SENAI Ary Torres"
+  - "Escuela Industrial Santo Amaro"
 ---
 
 ## Referências

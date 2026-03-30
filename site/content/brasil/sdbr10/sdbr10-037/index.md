@@ -56,6 +56,10 @@ palavras-chave:
   - "Módulo"
   - "Combinações"
   - "Sistemas"
+keywords:
+  - "Module"
+  - "Combinations"
+  - "Systems"
 ---
 
 ## Referências

@@ -64,6 +64,13 @@ palavras-chave:
   - "Ernani Henrique Jr."
   - "Antônio Claudio Massa"
   - "Projetos Residenciais"
+keywords:
+  - "Contemporary Architecture"
+  - "João Pessoa-PB"
+  - "Modern Architecture"
+  - "Ernani Henrique Jr."
+  - "Antônio Claudio Massa"
+  - "Residential Projects"
 ---
 
 ## Referências

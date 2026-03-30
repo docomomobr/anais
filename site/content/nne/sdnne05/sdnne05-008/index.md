@@ -58,6 +58,11 @@ palavras-chave:
   - "Recepção"
   - "Arquitetura moderna brasileira"
   - "Historiografia"
+keywords:
+  - "diffusion"
+  - "Reception"
+  - "Brazilian modern architecture"
+  - "Historiography"
 ---
 
 ## Referências

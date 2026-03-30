@@ -64,6 +64,14 @@ palavras-chave:
   - "Análise de projeto de arquitetura"
   - "projeto bioclimático"
   - "Amazônia brasileira"
+keywords:
+  - "Architectural project analysis"
+  - "Bioclimatic design"
+  - "Brazilian Amazon"
+palabras-clave:
+  - "Análisis de proyecto de arquitectura"
+  - "proyecto bioclimático"
+  - "Amazonía"
 ---
 
 ## Referências

@@ -61,6 +61,14 @@ palavras-chave:
   - "Análise gráfica"
   - "Joaquim Guedes"
   - "Arquitetura moderna paulista"
+keywords:
+  - "Graphical analysis"
+  - "Joaquim Guedes"
+  - "Modern São Paulo architecture"
+palabras-clave:
+  - "Análisis gráfico"
+  - "Joaquim Guedes"
+  - "Arquitectura moderna de São Paulo"
 ---
 
 ## Referências

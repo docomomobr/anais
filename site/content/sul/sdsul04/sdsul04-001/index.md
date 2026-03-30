@@ -81,6 +81,12 @@ palavras-chave:
   - "casa"
   - "sistemas construtivos"
   - "materiais"
+keywords:
+  - "João Lelé Filgueiras Lima"
+  - "residential architecture"
+  - "home"
+  - "building systems"
+  - "materials"
 ---
 
 ## Referências

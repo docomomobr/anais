@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura de interiores"
   - "Liliana e Joaquim Guedes"
   - "gênero"
+keywords:
+  - "Interior design"
+  - "Liliana and Joaquim Guedes"
+  - "Gender"
 ---
 
 ## Referências

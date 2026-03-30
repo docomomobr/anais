@@ -47,6 +47,10 @@ palavras-chave:
   - "patrimônio moderno"
   - "preservação"
   - "valoração"
+keywords:
+  - "modern heritage"
+  - "preservation"
+  - "evaluation"
 ---
 
 ## Referências

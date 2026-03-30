@@ -47,6 +47,10 @@ palavras-chave:
   - "Habitação Social"
   - "Alison e Peter Smithson"
   - "Robin Hood Gardens"
+keywords:
+  - "Social Housing"
+  - "Alison and Peter Smithson"
+  - "Robin Hood Gardens"
 ---
 
 ## Referências

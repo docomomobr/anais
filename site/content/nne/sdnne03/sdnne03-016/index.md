@@ -50,6 +50,10 @@ palavras-chave:
   - "Tectônica"
   - "Estrutura"
   - "Arquitetura Moderna"
+keywords:
+  - "Tectonics"
+  - "Structure"
+  - "Modern Architecture"
 ---
 
 ## Referências

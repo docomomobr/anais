@@ -47,6 +47,10 @@ palavras-chave:
   - "Concreto Armado"
   - "Engenharia"
   - "Estrutura"
+keywords:
+  - "Reinforced Concrete"
+  - "Engineering"
+  - "Structure"
 ---
 
 ## Referências

@@ -74,6 +74,16 @@ palavras-chave:
   - "profissionais precursores"
   - "formas de morar"
   - "Fortaleza"
+keywords:
+  - "Interior Architecture"
+  - "forerunner professionals"
+  - "ways of living"
+  - "Fortaleza"
+palabras-clave:
+  - "Arquitectura de interiores"
+  - "profesionales precursores"
+  - "formas de vivir"
+  - "Fortaleza"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Joaquim Guedes"
   - "Casas unifamiliares"
+keywords:
+  - "Modern Architecture"
+  - "Joaquim Guedes"
+  - "Single-family houses"
 ---
 
 ## Referências

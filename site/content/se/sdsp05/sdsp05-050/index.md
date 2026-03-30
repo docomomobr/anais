@@ -52,6 +52,10 @@ palavras-chave:
   - "arquitetura moderna paulista"
   - "casa unifamiliar"
   - "Abóbada"
+keywords:
+  - "São Paulo modern architecture"
+  - "single family home"
+  - "vault"
 ---
 
 ## Referências

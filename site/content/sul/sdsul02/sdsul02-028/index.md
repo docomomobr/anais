@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura no Sul"
+keywords:
+  - "Modern Architecture"
+  - "South Architecture"
 ---
 
 ## Referências

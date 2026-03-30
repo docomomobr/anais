@@ -47,6 +47,10 @@ palavras-chave:
   - "marquises"
   - "arquitetura moderna"
   - "elemento arquitetônico"
+keywords:
+  - "slob-overhangs"
+  - "modern architecture"
+  - "architectural elements"
 ---
 
 ## Referências

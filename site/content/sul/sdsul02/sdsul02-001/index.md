@@ -47,6 +47,10 @@ palavras-chave:
   - "Ponte Internacional Mauá"
   - "Rudolf Ahrons"
   - "concreto armado"
+keywords:
+  - "Maua International Bridge"
+  - "Rudolf Ahrons"
+  - "Reinforced Concrete"
 ---
 
 ## Referências

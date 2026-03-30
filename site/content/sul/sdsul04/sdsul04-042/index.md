@@ -47,6 +47,10 @@ palavras-chave:
   - "Casa Lota de Macedo Soares"
   - "Arquiteto Sérgio Bernardes"
   - "Materialidade híbrida no moderno"
+keywords:
+  - "Lota de Macedo Soares House"
+  - "Architect Sérgio Bernardes"
+  - "Hybrid materiality in modern architecture"
 ---
 
 ## Referências

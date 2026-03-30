@@ -31,10 +31,6 @@ keywords:
   - "concreto armado"
 abstract_en: |
   The article deals with the analysis of a set of architectural residences by architect Pedro Paulo Melo Saraiva held in the cities of Florianópolis and São Paulo in the period between 1954 and 1968, using as reference designs published in the Acropolis magazine and the personal collection of the architect. This work is being prepared as part of research for doctoral thesis proposal to be presented in the Ph.D. program in Architectural Projects, Line 1: "La forma moderna" made in ETSAB/UPC (Escuela Técnica Superior de Arquitectura de Barcelona de la Universidad Politécnica de Cataluña). In a first step we try to identify the work of the architect, the multiple influences experienced in architectural culture of São Paulo in the period of its formation, considering a change of paradigm of modern historiography that was established only in the original Le Corbusier influences. The analysis of these projects seeks to unveil the solutions and resources proposed in these projects, considering its formal structure and tectonics represented by the use of reinforced concrete structures, in its constructive and technological aspect, drawing a parallel between other works of the same architect. The focus of the work is architectural, enhancing affirmations and reflections on the graphic aspects of the project that visually explain the proposal. The contributions in historical context regarding influences in architecture Saraiva suffered in the context of São Paulo and in the modernization of Florianópolis go to support the work done, seeking to identify the project materials that the architect had to design their works. Thus it seeks to document and analyze these projects, considering the importance of this heritage as well as resume these modern language features that were used and deserve to be studied so that they can be taken up in contemporary times.
-keywords_en:
-  - "arquitetura moderna"
-  - "saraiva"
-  - "concreto armado"
 authors:
   - givenname: "Alexandre dos"
     familyname: "Santos"

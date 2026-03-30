@@ -62,6 +62,14 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Quartel General do Exército"
   - "Brasília"
+keywords:
+  - "Oscar Niemeyer"
+  - "Army Headquarters"
+  - "Brasília"
+palabras-clave:
+  - "Oscar Niemeyer"
+  - "Cuartel General del Ejército"
+  - "Brasília"
 ---
 
 ## Referências

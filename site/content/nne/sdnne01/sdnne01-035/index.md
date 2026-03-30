@@ -47,6 +47,10 @@ palavras-chave:
   - "Paisagem"
   - "Planos Urbanísticos"
   - "Higienismo"
+keywords:
+  - "Landscape"
+  - "Urban Plans"
+  - "Hygienics"
 ---
 
 ## Referências

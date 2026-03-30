@@ -69,6 +69,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "habitação multi-familiar"
   - "edf. João Pessoa e Caricé"
+keywords:
+  - "Modern architecture"
+  - "multi-familiar habitation"
+  - "João Pessoa and Caricé buildings"
 ---
 
 ## Referências

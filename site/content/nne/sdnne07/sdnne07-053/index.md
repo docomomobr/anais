@@ -67,6 +67,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Parque Anauá"
   - "Otacílio Teixeira da Lima Neto"
+keywords:
+  - "Modern Architecture"
+  - "Roraima"
+  - "Otacílio Teixeira da Lima Neto"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Roraima"
+  - "Otacílio Teixeira da Lima Neto"
 ---
 
 ## Referências

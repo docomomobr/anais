@@ -56,6 +56,11 @@ palavras-chave:
   - "habitat"
   - "formas perdidas"
   - "modernidade"
+keywords:
+  - "Lina Bo Bardi"
+  - "habitat"
+  - "lost forms"
+  - "modernity"
 ---
 
 ## Referências

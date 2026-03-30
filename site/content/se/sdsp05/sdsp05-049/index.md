@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Ecletismo"
   - "Preservação do Patrimônio Cultural"
+keywords:
+  - "Modern architecture"
+  - "Eclecticism"
+  - "Cultural Heritage Preservation"
 ---
 
 ## Referências

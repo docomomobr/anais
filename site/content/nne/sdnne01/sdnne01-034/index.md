@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Modernista"
   - "Teresina"
   - "arquiteto Antonio Luiz"
+keywords:
+  - "Modern architecture"
+  - "Teresina"
+  - "architect Antonio Luiz"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "arquitectura colonial portuguesa"
   - "arquitectura popular africana"
   - "arquitectura"
+keywords:
+  - "Portuguese colonial architecture"
+  - "African architecture"
+  - "Modern architecture"
 ---
 
 ## Referências

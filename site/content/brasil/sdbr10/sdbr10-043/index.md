@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna no Paraná"
   - "Arquitetura Brutalista"
   - "Forte e Gandolfi"
+keywords:
+  - "Modern Architecture in Paraná"
+  - "Brutalist Architecture"
+  - "Forte and Gandolfi"
 ---
 
 ## Referências

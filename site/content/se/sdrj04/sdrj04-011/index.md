@@ -64,6 +64,10 @@ palavras-chave:
   - "Patrimônio moderno"
   - "Pavilhão Arthur Neiva"
   - "Plano de conservação preventiva"
+keywords:
+  - "Modern heritage"
+  - "Arthur Neiva Pavilion"
+  - "Preventive Conservation Plan"
 ---
 
 ## Referências

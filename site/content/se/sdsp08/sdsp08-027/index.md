@@ -62,6 +62,13 @@ palavras-chave:
   - "Cia. City"
   - "Acervos"
   - "Preservação"
+keywords:
+  - "Cia City"
+  - "Collections Preservation"
+palabras-clave:
+  - "Cia. City"
+  - "Colecciones"
+  - "Preservación"
 ---
 
 ## Referências

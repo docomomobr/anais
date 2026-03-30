@@ -68,6 +68,14 @@ palavras-chave:
   - "Burle Marx"
   - "Jardins"
   - "Patrimônio"
+keywords:
+  - "Burle Marx"
+  - "Gardens"
+  - "Heritage"
+palabras-clave:
+  - "Burle Marx"
+  - "Jardines"
+  - "Patrimonio"
 ---
 
 ## Referências

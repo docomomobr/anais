@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio Moderno"
   - "Manifestações Patológicas em Concreto"
+keywords:
+  - "Modern Architecture"
+  - "Modern Heritage"
+  - "Pathologies in concrete buildings"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Património Moderno"
+  - "Manifestaciones patológicas en el hormigón"
 ---
 
 ## Referências

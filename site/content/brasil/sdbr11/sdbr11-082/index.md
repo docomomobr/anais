@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura"
   - "Morte"
   - "Cinema"
+keywords:
+  - "Architecture"
+  - "Death"
+  - "Cinema"
 ---
 
 ## Referências

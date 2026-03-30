@@ -47,6 +47,10 @@ palavras-chave:
   - "Rodoferroviária"
   - "Brasília"
   - "Oscar Niemeyer"
+keywords:
+  - "Rodoferroviária"
+  - "Brasília"
+  - "Oscar Niemeyer"
 ---
 
 ## Referências

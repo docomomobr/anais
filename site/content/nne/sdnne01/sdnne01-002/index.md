@@ -45,6 +45,10 @@ palavras-chave:
   - "Mario Russo"
   - "Arquitetura Moderna"
   - "tradição"
+keywords:
+  - "Mario Russo"
+  - "Modern Architecture"
+  - "Tradition"
 ---
 
 ## Referências

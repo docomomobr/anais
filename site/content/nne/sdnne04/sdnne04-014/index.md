@@ -58,6 +58,10 @@ palavras-chave:
   - "Arquitetura modernista (AL)"
   - "Preservação"
   - "Inventário"
+keywords:
+  - "Modernist Architecture (AL)"
+  - "Preservation"
+  - "Inventory"
 ---
 
 ## Referências

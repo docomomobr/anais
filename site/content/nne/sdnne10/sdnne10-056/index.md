@@ -71,6 +71,18 @@ palavras-chave:
   - "arte integrada"
   - "arquitetura moderna em Minas Gerais"
   - "Oscar Niemeyer"
+keywords:
+  - "inventory of cultural assets"
+  - "modern visual art"
+  - "integrated art"
+  - "modern architecture in Minas Gerais"
+  - "Oscar Niemeyer"
+palabras-clave:
+  - "inventario de bienes culturales"
+  - "arte visual moderno"
+  - "arte integrado"
+  - "arquitectura moderna en Minas Gerais"
+  - "Óscar Niemeyer"
 ---
 
 ## Referências

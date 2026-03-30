@@ -59,6 +59,14 @@ palavras-chave:
   - "Espaço"
   - "Teoria"
   - "Arquitetura Moderna"
+keywords:
+  - "Space"
+  - "Theory"
+  - "Modern Architecture"
+palabras-clave:
+  - "Espacio"
+  - "Teoría"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

@@ -57,6 +57,10 @@ palavras-chave:
   - "Publicações sobre arquitetura moderna"
   - "Antologia crítica"
   - "Pesquisa em arquitetura e urbanismo"
+keywords:
+  - "Modern architecture publication"
+  - "critical anthology"
+  - "research in architecture and urbanism"
 ---
 
 ## Referências

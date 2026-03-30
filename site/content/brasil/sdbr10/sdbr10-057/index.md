@@ -48,6 +48,10 @@ palavras-chave:
   - "New Brutalism"
   - "community college"
   - "college campus social spaces"
+keywords:
+  - "New Brutalism"
+  - "community college"
+  - "college campus social spaces"
 ---
 
 ## Referências

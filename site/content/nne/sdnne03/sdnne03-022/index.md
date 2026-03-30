@@ -47,6 +47,10 @@ palavras-chave:
   - "nova monumentalidade"
   - "tectônica"
   - "Acácio Gil Borsoi"
+keywords:
+  - "new monumentality"
+  - "tectonics"
+  - "Acácio Gil Borsoi"
 ---
 
 ## Referências

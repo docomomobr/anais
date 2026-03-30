@@ -51,6 +51,11 @@ palavras-chave:
   - "Sorocaba"
   - "modernismo"
   - "arquitetura paulista"
+keywords:
+  - "Brutalist architecture"
+  - "Sorocaba"
+  - "modernism"
+  - "architecture of São Paulo"
 ---
 
 ## Referências

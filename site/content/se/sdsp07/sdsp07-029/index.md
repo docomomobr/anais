@@ -54,6 +54,14 @@ palavras-chave:
   - "Reintegração"
   - "Arquitetura Moderna"
   - "Artigas"
+keywords:
+  - "Reintegration"
+  - "Modern Architecture"
+  - "Artigas"
+palabras-clave:
+  - "Reintegración"
+  - "Arquitectura Moderna"
+  - "Artigas"
 ---
 
 ## Referências

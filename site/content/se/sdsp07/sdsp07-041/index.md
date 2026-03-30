@@ -62,6 +62,14 @@ palavras-chave:
   - "Moderna"
   - "Cobertura"
   - "Praça"
+keywords:
+  - "Modern"
+  - "Roof"
+  - "Square"
+palabras-clave:
+  - "Moderno"
+  - "Techo"
+  - "Plaza"
 ---
 
 ## Referências

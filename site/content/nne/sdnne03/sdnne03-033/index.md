@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Art Déco"
   - "João Pessoa"
   - "Advento da Modernidade"
+keywords:
+  - "Architecture Art Déco"
+  - "João Pessoa"
+  - "Advent of Modernity"
 ---
 
 ## Referências

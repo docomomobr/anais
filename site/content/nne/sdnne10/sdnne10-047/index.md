@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Moderna Universitária"
   - "Modernismo na Bahia"
   - "Patrimônio Moderno da UFBA"
+keywords:
+  - "university modern architecture"
+  - "modernism in Bahia"
+  - "UFBA's Modern Heritage"
+palabras-clave:
+  - "Arquitectura Moderna Universitaria"
+  - "Modernismo en Bahía"
+  - "Patrimonio Moderno de la UFBA"
 ---
 
 ## Referências

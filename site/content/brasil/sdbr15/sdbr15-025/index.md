@@ -63,6 +63,14 @@ palavras-chave:
   - "Brasília"
   - "Arquitetura moderna"
   - "Significância"
+keywords:
+  - "Brasilia"
+  - "Modern architecture"
+  - "Significance"
+palabras-clave:
+  - "Brasilia"
+  - "Modernismo"
+  - "Herencia"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "Augusto Reynaldo"
   - "Campina Grande"
   - "Difusão da arquitetura moderna"
+keywords:
+  - "Augusto Reynaldo"
+  - "Campina Grande"
+  - "Diffusion of modern architecture"
 ---
 
 ## Referências

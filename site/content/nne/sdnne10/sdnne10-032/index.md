@@ -60,6 +60,16 @@ palavras-chave:
   - "Renato Azevedo"
   - "Campina Grande"
   - "PDLI"
+keywords:
+  - "Documentation"
+  - "Renato Azevedo"
+  - "Campina Grande"
+  - "PDLI"
+palabras-clave:
+  - "Documentación"
+  - "Renato Azevedo"
+  - "Campina Grande"
+  - "PDLI"
 ---
 
 ## Referências

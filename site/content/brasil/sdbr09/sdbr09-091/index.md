@@ -55,6 +55,12 @@ palavras-chave:
   - "Adolf Franz Heep"
   - "Habitação coletiva"
   - "Edifícios verticais"
+keywords:
+  - "Modern architecture"
+  - "São Paulo"
+  - "Adolf Franz Heep"
+  - "Collective housing"
+  - "Vertical building"
 ---
 
 ## Referências

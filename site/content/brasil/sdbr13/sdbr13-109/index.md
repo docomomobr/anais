@@ -56,6 +56,11 @@ palavras-chave:
   - "cidade moderna"
   - "transformação"
   - "paisagem histórica urbana"
+keywords:
+  - "preservation"
+  - "modern city"
+  - "transformation"
+  - "historical urban landscape"
 ---
 
 ## Referências

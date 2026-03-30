@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura"
   - "modernismo"
   - "Brasil"
+keywords:
+  - "architecture"
+  - "modernism"
+  - "Brazil"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "(arquitetura moderna"
   - "Brasil"
   - "Bienal de São Paulo)"
+keywords:
+  - "modern architecture"
+  - "Brazil"
+  - "São Paulo Biennial"
 ---
 
 ## Referências

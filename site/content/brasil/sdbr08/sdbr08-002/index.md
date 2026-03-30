@@ -41,6 +41,8 @@ autores:
   - "Almeida, Adriana Leal de"
 palavras-chave:
   - "síntese das artes. Campina Grande. Murais modernos"
+keywords:
+  - "synthesis of the arts. Campina Grande. Modern murals"
 ---
 
 ## Referências

@@ -51,6 +51,14 @@ palavras-chave:
   - "Junta de Adelanto de Arica"
   - "Arquitectura moderna"
   - "Chile"
+keywords:
+  - "Advancement Board of Arica"
+  - "Modern Architecture"
+  - "Chile"
+palabras-clave:
+  - "Junta de Adelanto de Arica"
+  - "Arquitectura moderna"
+  - "Chile"
 ---
 
 ## Referências

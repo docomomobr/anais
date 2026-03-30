@@ -63,6 +63,14 @@ palavras-chave:
   - "Intervenções modernas"
   - "Configuração espacial"
   - "Capitais brasileiras"
+keywords:
+  - "Modern Interventions"
+  - "Spatial Configuration"
+  - "Brazilian Capital Cities"
+palabras-clave:
+  - "Intervenciones modernas"
+  - "Configuración espacial"
+  - "Capitales brasileñas"
 ---
 
 ## Referências

@@ -59,6 +59,13 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Arquitetura Moderna"
   - "Patrimônio Urbano e Arquitetônico"
+keywords:
+  - "Liberdade Square"
+  - "Niemeyer Building"
+  - "Oscar Niemeyer"
+  - "Modern Architecture"
+  - "Urban and"
+  - "Architectural Heritage"
 ---
 
 ## Referências

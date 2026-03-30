@@ -51,6 +51,10 @@ palavras-chave:
   - "Fotografia"
   - "Geraldo Vieira"
   - "Brasília"
+keywords:
+  - "Photography"
+  - "Geraldo Vieira"
+  - "Brasília"
 ---
 
 ## Referências

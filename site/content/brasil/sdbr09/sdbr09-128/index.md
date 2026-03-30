@@ -57,6 +57,12 @@ palavras-chave:
   - "Palácios"
   - "Luis Fernando Corona"
   - "Carlos Fayet"
+keywords:
+  - "Modern architecture"
+  - "Porto Alegre"
+  - "Palaces"
+  - "Luis Fernando Corona"
+  - "Carlos Fayet"
 ---
 
 ## Referências

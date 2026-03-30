@@ -70,6 +70,16 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Urbanismo Moderno"
   - "Gênero"
+keywords:
+  - "North/Northeast Docomomo"
+  - "Modern Architecture"
+  - "Modern Urbanism"
+  - "Genre"
+palabras-clave:
+  - "Docomomo Norte/Noreste"
+  - "Arquitectura Moderna"
+  - "Urbanismo Moderno"
+  - "Género"
 ---
 
 ## Referências

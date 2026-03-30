@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna Paulistana"
   - "Residência"
   - "Modos de morar"
+keywords:
+  - "São Paulo’s Modern Architecture"
+  - "House"
+  - "Ways of living"
 ---
 
 ## Referências

@@ -49,6 +49,11 @@ palavras-chave:
   - "Brutalismo"
   - "estrutura aparente"
   - "Arquitetura Brasileira"
+keywords:
+  - "Brutalism"
+  - "naked structure"
+  - "Brazilian architecture"
+  - "Considerações sobre a tectônica brutalista"
 ---
 
 ## Referências

@@ -66,6 +66,18 @@ palavras-chave:
   - "valor"
   - "DOCOMOMO"
   - "princípios teóricos"
+keywords:
+  - "conservation"
+  - "historiography"
+  - "value"
+  - "DOCOMOMO"
+  - "theoretical principles"
+palabras-clave:
+  - "conservación"
+  - "historiografia"
+  - "Valor"
+  - "DOCOMOMO"
+  - "principios teóricos"
 ---
 
 ## Referências

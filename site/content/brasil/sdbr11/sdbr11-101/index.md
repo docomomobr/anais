@@ -46,6 +46,10 @@ palavras-chave:
   - "Preservação da arquitetura do Movimento Moderno"
   - "Restauração da arquitetura do Movimento Moderno"
   - "Documentação da arquitetura do Movimento Moderno"
+keywords:
+  - "Conservation of the architectural heritage of the Modern Movement"
+  - "Documentation of the architectural heritage of the Modern Movement"
+  - "Restauration of the architectural heritage of the Modern Movement"
 ---
 
 ## Referências

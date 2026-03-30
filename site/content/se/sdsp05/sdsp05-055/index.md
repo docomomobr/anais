@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "Alcides Rocha Miranda"
   - "Arquitetura da Universidade de São Paulo"
+keywords:
+  - "Alcides Rocha Miranda"
+  - "Architecture of the University of São Paulo"
 ---
 
 ## Referências

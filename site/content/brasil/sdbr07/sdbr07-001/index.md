@@ -43,6 +43,8 @@ autores:
   - "Donato, Lila"
 palavras-chave:
   - "Brasília;Praça dos Três Poderes;Lucio Costa"
+keywords:
+  - "Brasília;Três Poderes Square;Lucio Costa"
 ---
 
 ## Referências

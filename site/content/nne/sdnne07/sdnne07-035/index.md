@@ -64,6 +64,16 @@ palavras-chave:
   - "Novo Polo Urbano"
   - "Lúcio Costa"
   - "São Luís"
+keywords:
+  - "Modern Urbanism"
+  - "Novo Polo Urbano"
+  - "Lúcio Costa"
+  - "São Luís"
+palabras-clave:
+  - "Urbanismo moderno"
+  - "Novo Polo Urbano"
+  - "Lúcio Costa"
+  - "São Luís"
 ---
 
 ## Referências

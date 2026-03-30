@@ -58,6 +58,11 @@ palavras-chave:
   - "documentação"
   - "Fortaleza"
   - "José Armando Farias"
+keywords:
+  - "modern architecture"
+  - "documentation"
+  - "Fortaleza"
+  - "José Armando Farias"
 ---
 
 ## Referências

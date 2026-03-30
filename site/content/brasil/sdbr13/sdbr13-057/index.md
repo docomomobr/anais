@@ -69,6 +69,12 @@ palavras-chave:
   - "Mudanças de uso"
   - "Crescimento"
   - "socioespacial"
+keywords:
+  - "Art Déco"
+  - "Passo Fundo/RS-Brasil"
+  - "Impacts"
+  - "Use change"
+  - "Socio-spatial growth"
 ---
 
 ## Referências

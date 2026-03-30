@@ -58,6 +58,11 @@ palavras-chave:
   - "reuso"
   - "arquitetura universitária"
   - "arquitetura moderna na Bahia"
+keywords:
+  - "intervention"
+  - "reuse"
+  - "University architecture"
+  - "modern architecture in Bahia"
 ---
 
 ## Referências

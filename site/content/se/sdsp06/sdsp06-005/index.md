@@ -58,6 +58,10 @@ palavras-chave:
   - "Educação"
   - "Plano de Ação"
   - "Richard Neutra"
+keywords:
+  - "Education"
+  - "Action Plan"
+  - "Richard Neutra"
 ---
 
 ## Referências

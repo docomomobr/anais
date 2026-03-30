@@ -41,6 +41,8 @@ autores:
   - "Silva, Joene Saibrosa da"
 palavras-chave:
   - "História da arquitetura. Arquitetura Modernista. Arquiteto Antonio Luiz"
+keywords:
+  - "History of the architecture. Modernist architecture. Architect Antonio Luiz"
 ---
 
 ## Referências

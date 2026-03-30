@@ -59,6 +59,13 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Cartografia"
   - "Conservação do Patrimônio"
+keywords:
+  - "Modern Architecture"
+  - "Cartography"
+  - "Heritage Conservation"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Cartografía, Conservación del Patrimonio"
 ---
 
 ## Referências

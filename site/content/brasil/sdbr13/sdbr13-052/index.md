@@ -58,6 +58,11 @@ palavras-chave:
   - "urbanismo moderno"
   - "conservação"
   - "plano diretor"
+keywords:
+  - "University campus"
+  - "modern urbanism"
+  - "conservation"
+  - "masterplan"
 ---
 
 ## Referências

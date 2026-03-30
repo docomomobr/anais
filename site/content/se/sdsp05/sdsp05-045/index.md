@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Preservação e requalificação de edifícios históricos"
+keywords:
+  - "Modern Brazilian Architecture"
+  - "preservation and rehabilitation of historical buildings"
 ---
 
 ## Referências

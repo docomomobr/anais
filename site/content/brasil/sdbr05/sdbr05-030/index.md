@@ -52,6 +52,12 @@ palavras-chave:
   - "museu"
   - "arte moderna"
   - "cultura popular"
+keywords:
+  - "Lina Bo Bardi"
+  - "Salvador"
+  - "museum"
+  - "modern art"
+  - "popular culture"
 ---
 
 ## Referências

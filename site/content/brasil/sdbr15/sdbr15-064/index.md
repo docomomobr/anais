@@ -64,6 +64,14 @@ palavras-chave:
   - "Revista Acrópole"
   - "Arquitetura Moderna"
   - "Tradicionalista"
+keywords:
+  - "Acrópole Magazine"
+  - "Modern Architecture"
+  - "Traditionalist"
+palabras-clave:
+  - "Revista Acrópole"
+  - "Arquitectura Moderna"
+  - "Tradicionalista"
 ---
 
 ## Referências

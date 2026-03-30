@@ -52,6 +52,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Arquitetura da Demolição"
   - "Memória"
+keywords:
+  - "Cultural Heritage"
+  - "Modern Architecture"
+  - "Architecture of Demolition"
+  - "Memory"
 ---
 
 ## Referências

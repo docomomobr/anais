@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "brutalismo"
   - "requalificação"
+keywords:
+  - "modern architecture"
+  - "brutalism"
+  - "requalification"
 ---
 
 ## Referências

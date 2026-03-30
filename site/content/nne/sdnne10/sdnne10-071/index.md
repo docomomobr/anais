@@ -64,6 +64,14 @@ palavras-chave:
   - "patrimônio digital"
   - "tecnologias de informação e comunicação"
   - "reconstrução digital"
+keywords:
+  - "Digital heritage"
+  - "Information and communication technologies"
+  - "Digital reconstruction"
+palabras-clave:
+  - "patrimonio digital"
+  - "reconstrucción digital"
+  - "tecnologías de la información y comunicación"
 ---
 
 ## Referências

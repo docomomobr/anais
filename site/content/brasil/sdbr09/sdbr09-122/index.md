@@ -67,6 +67,11 @@ palavras-chave:
   - "preservação"
   - "salvaguarda"
   - "caráter e integridade"
+keywords:
+  - "Houses modernist urban landscape"
+  - "preservation"
+  - "protection"
+  - "character and integrity"
 ---
 
 ## Referências

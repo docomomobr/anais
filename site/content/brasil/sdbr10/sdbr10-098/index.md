@@ -48,6 +48,10 @@ palavras-chave:
   - "Torre de Rádio e Televisão"
   - "Lucio Costa"
   - "Brasília"
+keywords:
+  - "Tower of Radio and Television"
+  - "Lucio Costa"
+  - "Brasilia"
 ---
 
 ## Referências

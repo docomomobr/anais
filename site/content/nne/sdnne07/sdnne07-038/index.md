@@ -71,6 +71,18 @@ palavras-chave:
   - "cinematografia"
   - "documentação"
   - "arquitetura moderna"
+keywords:
+  - "Documentary"
+  - "Geraldino Duda"
+  - "cinematography"
+  - "documentation"
+  - "modern architecture"
+palabras-clave:
+  - "Documental"
+  - "Generaldino Duda"
+  - "la cinematografía"
+  - "documentación"
+  - "arquitectura moderna"
 ---
 
 ## Referências

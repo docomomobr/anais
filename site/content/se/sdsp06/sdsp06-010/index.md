@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Centro Histórico de São Paulo"
   - "Habitação"
+keywords:
+  - "Modern architecture"
+  - "Historic Center of São Paulo"
+  - "Housing"
 ---
 
 ## Referências

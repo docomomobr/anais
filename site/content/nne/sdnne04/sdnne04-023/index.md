@@ -57,6 +57,11 @@ palavras-chave:
   - "expansão"
   - "desenho urbano"
   - "Lucio Costa"
+keywords:
+  - "urban planning"
+  - "expansion"
+  - "urban design"
+  - "Lucio Costa"
 ---
 
 ## Referências

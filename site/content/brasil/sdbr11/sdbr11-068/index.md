@@ -48,6 +48,11 @@ palavras-chave:
   - "Pintura moderna"
   - "Escultura moderna"
   - "Expressionismo"
+keywords:
+  - "Modern art in Brazil"
+  - "Modern painting"
+  - "Modern sculpture"
+  - "Expressionism"
 ---
 
 ## Referências

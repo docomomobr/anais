@@ -46,6 +46,10 @@ palavras-chave:
   - "mosaico moderno brasileiro"
   - "painéis"
   - "arte e arquitetura"
+keywords:
+  - "modern Brazilian mosaic"
+  - "art and architecture"
+  - "pannels"
 ---
 
 ## Referências

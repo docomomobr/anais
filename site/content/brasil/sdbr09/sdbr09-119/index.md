@@ -55,6 +55,10 @@ palavras-chave:
   - "Marina da Glória"
   - "patrimônio Século XX"
   - "Amaro Machado"
+keywords:
+  - "Palavras-Chave: Modern Architecture"
+  - "Parque do Flamengo, Glória Marina, Twentieth Century heritage"
+  - "Amaro Machado"
 ---
 
 ## Referências

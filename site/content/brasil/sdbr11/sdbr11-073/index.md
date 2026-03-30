@@ -53,6 +53,11 @@ palavras-chave:
   - "historiografia da arquitetura moderna"
   - "Módulo"
   - "Summa"
+keywords:
+  - "Architecture magazines"
+  - "historiography of modern architecture"
+  - "Módulo"
+  - "Summa"
 ---
 
 ## Referências

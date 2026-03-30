@@ -52,6 +52,11 @@ palavras-chave:
   - "Requalificação"
   - "Preexistência"
   - "Porto Alegre"
+keywords:
+  - "Guaspari Building"
+  - "Requalification"
+  - "Pre-existence"
+  - "Porto Alegre"
 ---
 
 ## Referências

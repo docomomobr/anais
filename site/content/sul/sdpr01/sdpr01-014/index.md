@@ -56,6 +56,12 @@ palavras-chave:
   - "Curitiba"
   - "Social"
   - "Política Habitacional"
+keywords:
+  - "Habitation"
+  - "Modern"
+  - "Curitiba"
+  - "Social"
+  - "Residential Building Policy"
 ---
 
 ## Referências

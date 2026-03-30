@@ -59,6 +59,14 @@ palavras-chave:
   - "Hans Broos"
   - "Arquitetura Moderna"
   - "Brutalismo"
+keywords:
+  - "Hans Broos"
+  - "Modern Architecture"
+  - "Brutalism"
+palabras-clave:
+  - "Hans Broos"
+  - "Arquitectura Moderna"
+  - "Brutalismo"
 ---
 
 ## Referências

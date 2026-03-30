@@ -53,6 +53,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "cultura vernacular"
   - "patrimônio"
+keywords:
+  - "Modern architecture"
+  - "vernacular culture"
+  - "patrimony"
 ---
 
 ## Referências

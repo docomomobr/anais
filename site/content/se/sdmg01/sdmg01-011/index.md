@@ -46,6 +46,10 @@ palavras-chave:
   - "campus universitário"
   - "movimento moderno"
   - "áreas verdes públicas urbanas"
+keywords:
+  - "university campus"
+  - "modern movement"
+  - "urban public green areas"
 ---
 
 ## Referências

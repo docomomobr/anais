@@ -53,6 +53,10 @@ palavras-chave:
   - "Instituto Vital Brazil"
   - "Patrimônio Moderno da Saúde"
   - "Reuso Adaptativo"
+keywords:
+  - "Vital Brazil Institute"
+  - "Modern Health Heritage"
+  - "Adaptive Reuse"
 ---
 
 ## Referências

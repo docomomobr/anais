@@ -62,6 +62,14 @@ palavras-chave:
   - "Feminismo"
   - "Modernismo"
   - "Cinema"
+keywords:
+  - "Feminism"
+  - "Modernism"
+  - "Movie"
+palabras-clave:
+  - "Feminismo"
+  - "Modernismo"
+  - "Cine"
 ---
 
 ## Referências

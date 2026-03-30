@@ -48,6 +48,10 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "arquitetura teatral"
   - "história da arquitetura"
+keywords:
+  - "Oscar Niemeyer"
+  - "Theatre Architecture"
+  - "History of Architecture"
 ---
 
 ## Referências

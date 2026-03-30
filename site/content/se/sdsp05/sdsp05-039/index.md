@@ -52,6 +52,10 @@ palavras-chave:
   - "José Carlos de Figueiredo Ferraz"
   - "Arquitetura brutalista"
   - "Arquitetura Pavilhonar"
+keywords:
+  - "José Carlos de Figueiredo Ferraz"
+  - "Architecture brutalist"
+  - "Architecture pavilion"
 ---
 
 ## Referências

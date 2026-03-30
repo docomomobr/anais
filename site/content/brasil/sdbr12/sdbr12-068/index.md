@@ -52,6 +52,10 @@ palavras-chave:
   - "Fernando Chacel"
   - "Paisagismo moderno"
   - "vilas operadoras"
+keywords:
+  - "Fernando Chacel"
+  - "Modern landscaping"
+  - "Operative towns"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Modernismo brasileiro"
   - "Brazil Builds"
+keywords:
+  - "Brazil"
+  - "Brazilian Modern Architecture"
+  - "Brazilian Modernism"
+  - "Brazil Builds"
 ---
 
 ## Referências

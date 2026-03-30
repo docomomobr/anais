@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Intervenção"
   - "Arquitetura (Paraíba)"
+keywords:
+  - "Modern Architecture"
+  - "Intervention"
+  - "Architecture (Paraíba)"
 ---
 
 ## Referências

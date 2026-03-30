@@ -68,6 +68,14 @@ palavras-chave:
   - "Arquitetura Paulista Moderna"
   - "Cartografia"
   - "Extensão Universitária"
+keywords:
+  - "Modern Paulista Architecture"
+  - "Cartography"
+  - "University Extension"
+palabras-clave:
+  - "Arquitectura Paulista Moderna"
+  - "Cartografía"
+  - "Extensión Universitaria"
 ---
 
 ## Referências

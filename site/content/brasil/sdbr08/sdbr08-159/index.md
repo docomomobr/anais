@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "edifício moderno"
   - "cidade pré-moderna"
+keywords:
+  - "modern building"
+  - "pre-modern city"
 ---
 
 ## Referências

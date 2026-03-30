@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "requalificação de edifícios"
   - "conforto ambiental"
+keywords:
+  - "modern architecture"
+  - "building rehabilitation"
+  - "environmental comfort"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "edifícios comerciais e de serviços"
   - "história"
   - "Salvador"
+keywords:
+  - "modern architecture"
+  - "comercial and services buildings, history"
+  - "Salvador"
 ---
 
 ## Referências

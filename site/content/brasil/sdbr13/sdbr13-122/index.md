@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "análise de projeto"
   - "Richard Neutra"
+keywords:
+  - "modern architecture"
+  - "design analysis"
+  - "Richard Neutra"
 ---
 
 ## Referências

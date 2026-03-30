@@ -51,6 +51,11 @@ palavras-chave:
   - "residências"
   - "intervenção"
   - "renovação"
+keywords:
+  - "Modern architecture"
+  - "residences"
+  - "intervention"
+  - "renovation"
 ---
 
 ## Referências

@@ -64,6 +64,16 @@ palavras-chave:
   - "Memória Cultural"
   - "Documentação de Arquitetura"
   - "Amazônia"
+keywords:
+  - "Hospital architecture"
+  - "Cultural Memory"
+  - "Architecture Documentation"
+  - "Amazon"
+palabras-clave:
+  - "Arquitectura hospitalaria"
+  - "Memoria Cultural"
+  - "Documentación de Arquitectura"
+  - "Amazonía"
 ---
 
 ## Referências

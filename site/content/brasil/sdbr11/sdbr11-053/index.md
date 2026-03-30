@@ -62,6 +62,12 @@ palavras-chave:
   - "Hotel"
   - "Sérgio Bernardes"
   - "Tropical Hotel Manaus"
+keywords:
+  - "Modern Architecture"
+  - "Tourism"
+  - "Hotel"
+  - "Sérgio Bernardes"
+  - "Tropical Hotel Manaus"
 ---
 
 ## Referências

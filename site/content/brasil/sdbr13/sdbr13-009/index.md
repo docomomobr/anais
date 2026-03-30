@@ -57,6 +57,12 @@ palavras-chave:
   - "SASP"
   - "ABEA"
   - "arquiteto e urbanista"
+keywords:
+  - "Brazilian Institute of Architects/São Paulo"
+  - "Trade Union of Architects of São Paulo"
+  - "Brazilian"
+  - "Association of Architectural Schools"
+  - "architect and urban planner"
 ---
 
 ## Referências

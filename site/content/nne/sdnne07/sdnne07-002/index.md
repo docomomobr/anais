@@ -67,6 +67,16 @@ palavras-chave:
   - "arquitetura moderna cuiabana"
   - "patrimônio cultural urbano de Cuiabá"
   - "produção gráfica independente"
+keywords:
+  - "Heritage education"
+  - "modern architecture of Cuiabá"
+  - "urban cultural heritage of Cuiabá"
+  - "Independent graphic production"
+palabras-clave:
+  - "Educación patrimonial"
+  - "arquitectura moderna cuiabana"
+  - "patrimonio cultural urbano de Cuiabá"
+  - "producción gráfica independiente"
 ---
 
 ## Referências

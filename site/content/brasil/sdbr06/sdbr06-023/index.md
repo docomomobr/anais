@@ -48,6 +48,10 @@ palavras-chave:
   - "Urbanismo"
   - "Projeto Nacional"
   - "Rio de Janeiro"
+keywords:
+  - "Urbanism"
+  - "Rio de Janeiro"
+  - "Nation-Building"
 ---
 
 ## Referências

@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "Brutalismo"
   - "Centro Evangélico de Porto Alegre"
+keywords:
+  - "Brutalism"
+  - "Centro Evangélico de Porto Alegre"
 ---
 
 ## Referências

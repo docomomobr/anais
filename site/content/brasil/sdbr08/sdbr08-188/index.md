@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "formação da cidade"
   - "residências populares"
+keywords:
+  - "city formation"
+  - "popular houses"
 ---
 
 ## Referências

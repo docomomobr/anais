@@ -47,6 +47,10 @@ palavras-chave:
   - "Plano Diretor"
   - "população"
   - "crescimento desordenado"
+keywords:
+  - "Master Plan"
+  - "population"
+  - "disorderly growth"
 ---
 
 ## Referências

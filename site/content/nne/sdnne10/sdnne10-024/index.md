@@ -65,6 +65,18 @@ palavras-chave:
   - "Metodologia participativa"
   - "Patrimônio moderno"
   - "Democratização da arquitetura"
+keywords:
+  - "Constructive rationalization"
+  - "Lelé"
+  - "Participatory methodology"
+  - "Modern heritage"
+  - "Democratization of architecture"
+palabras-clave:
+  - "Racionalización constructiva"
+  - "Lelé"
+  - "Metodología participativa"
+  - "Patrimonio moderno"
+  - "Democratización de la arquitectura"
 ---
 
 ## Referências

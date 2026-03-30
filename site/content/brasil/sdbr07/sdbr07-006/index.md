@@ -49,6 +49,10 @@ palavras-chave:
   - "arquitetura"
   - "movimento moderno"
   - "documentação"
+keywords:
+  - "photography"
+  - "architecture"
+  - "modern movement documentation"
 ---
 
 ## Referências

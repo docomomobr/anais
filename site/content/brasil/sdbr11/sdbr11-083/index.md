@@ -50,6 +50,10 @@ palavras-chave:
   - "Regionalismo"
   - "Arquitetura"
   - "Nordeste brasileiro"
+keywords:
+  - "Regionalism"
+  - "Architecture"
+  - "Brazilian Northeast"
 ---
 
 ## Referências

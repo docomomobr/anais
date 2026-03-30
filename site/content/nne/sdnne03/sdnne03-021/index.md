@@ -48,6 +48,10 @@ palavras-chave:
   - "Património escolar"
   - "Arquitectura angolana"
   - "Moderno colonial"
+keywords:
+  - "Heritage Educational Buildings"
+  - "Architecture in Angola"
+  - "Modern colonial"
 ---
 
 ## Referências

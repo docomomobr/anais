@@ -51,6 +51,10 @@ palavras-chave:
   - "Ponta do Calabouço"
   - "Estação de Hidroaviões"
   - "Fortuna"
+keywords:
+  - "Ponta do Calabouço"
+  - "Seaplane Station"
+  - "Fortuna"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "teorias do restauro"
   - "arquitetura moderna"
   - "restauro Weissenhof"
+keywords:
+  - "theories of restoration"
+  - "modern architecture"
+  - "Weissenhof Restoration"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "Mario de Andrade"
   - "Arquitetura Moderna Paulistana"
   - "Crianças"
+keywords:
+  - "Mario de Andrade"
+  - "Paulistana Modern Architecture"
+  - "Children"
 ---
 
 ## Referências

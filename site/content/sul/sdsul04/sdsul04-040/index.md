@@ -43,6 +43,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna em Porto Alegre"
   - "arquitetura para o veículo"
+keywords:
+  - "modern architecture in Porto Alegre"
+  - "architecture for the vehicle"
 ---
 
 ## Referências

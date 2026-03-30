@@ -50,6 +50,11 @@ palavras-chave:
   - "Azulejo semi-industrial, arte, patrimônio moderno"
   - "Acervo documental"
   - "preservação"
+keywords:
+  - "art"
+  - "modern heritage"
+  - "documental collection"
+  - "preservation"
 ---
 
 ## Referências

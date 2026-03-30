@@ -40,6 +40,8 @@ autores:
   - "Recena, Maria Paula Piazza"
 palavras-chave:
   - "Espaço"
+keywords:
+  - "Space"
 ---
 
 ## Referências

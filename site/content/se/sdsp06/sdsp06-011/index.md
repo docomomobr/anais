@@ -52,6 +52,10 @@ palavras-chave:
   - "Habitação de interesse social"
   - "Movimento Moderno"
   - "Teoria"
+keywords:
+  - "Social Interest Housing"
+  - "Modern movement"
+  - "Theory"
 ---
 
 ## Referências

@@ -55,6 +55,14 @@ palavras-chave:
   - "Marsella"
   - "estructura"
   - "habitar"
+keywords:
+  - "Marseille"
+  - "structure"
+  - "living"
+palabras-clave:
+  - "Marsella"
+  - "estructura"
+  - "habitar"
 ---
 
 ## Referências

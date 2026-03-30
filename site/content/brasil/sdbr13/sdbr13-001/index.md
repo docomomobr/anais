@@ -55,6 +55,12 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Brasília"
   - "cultura brasileira"
+keywords:
+  - "Darcy Ribeiro"
+  - "modernist architecture"
+  - "Oscar Niemeyer"
+  - "Brasília"
+  - "brazilian culture"
 ---
 
 ## Referências

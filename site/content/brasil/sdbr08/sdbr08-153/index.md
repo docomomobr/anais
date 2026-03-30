@@ -51,6 +51,10 @@ palavras-chave:
   - "Lucio Costa"
   - "arquitetura"
   - "arte"
+keywords:
+  - "Lucio Costa"
+  - "architecture"
+  - "art"
 ---
 
 ## Referências

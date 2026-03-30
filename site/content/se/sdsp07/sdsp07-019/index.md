@@ -63,6 +63,14 @@ palavras-chave:
   - "Carvalho Pinto"
   - "Edifícios públicos"
   - "Arquitetura Moderna Paulista"
+keywords:
+  - "Carvalho Pinto"
+  - "Public buildings"
+  - "Paulista Modern Architecture"
+palabras-clave:
+  - "Carvalho Pinto"
+  - "Edificios públicos"
+  - "Arquitectura Moderna Paulista"
 ---
 
 ## Referências

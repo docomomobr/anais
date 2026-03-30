@@ -44,6 +44,8 @@ autores:
   - "Bassani, Jorge"
 palavras-chave:
   - "Arte e cidade / Cidade moderna /Cidade contemporânea"
+keywords:
+  - "Art and city / Modern city / Contemporary city"
 ---
 
 ## Referências

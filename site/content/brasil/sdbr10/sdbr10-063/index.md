@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura na Bahia"
   - "campus universitário"
   - "Brutalismos"
+keywords:
+  - "Architecture in Bahia"
+  - "University Campus"
+  - "Brutalisms"
 ---
 
 ## Referências

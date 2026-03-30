@@ -48,6 +48,13 @@ autores:
 palavras-chave:
   - "concreto armado"
   - "expressão plástica"
+keywords:
+  - "2 reinforced concrete"
+  - "através da exploração de texturas"
+  - "relevos"
+  - "opacidades"
+  - "brilhos"
+  - "rugosidades"
 ---
 
 ## Referências

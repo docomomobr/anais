@@ -54,6 +54,11 @@ palavras-chave:
   - "campus universitário"
   - "arquitetura moderna"
   - "preservação"
+keywords:
+  - "Federal University of Santa Maria"
+  - "university campus"
+  - "modern architecture"
+  - "preservation"
 ---
 
 ## Referências

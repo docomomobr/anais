@@ -57,6 +57,15 @@ palavras-chave:
   - "residencias"
   - "Centro de Manaus"
   - "Análise"
+keywords:
+  - "Severiano Porto"
+  - "Residences"
+  - "Center of Manaus"
+  - "Analysis"
+palabras-clave:
+  - "Fonte Arial 10"
+  - "separadas por ponto e virgula"
+  - "três a cinco palavras"
 ---
 
 ## Referências

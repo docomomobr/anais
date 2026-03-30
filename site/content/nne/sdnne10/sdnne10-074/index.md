@@ -65,6 +65,14 @@ palavras-chave:
   - "patrimônio moderno"
   - "leonardo stuckert"
   - "edificação corporativa"
+keywords:
+  - "modern heritage"
+  - "leonardo stuckert"
+  - "corporate building"
+palabras-clave:
+  - "patrimonio moderno"
+  - "leonardo stuckert"
+  - "edificación corporativa"
 ---
 
 ## Referências

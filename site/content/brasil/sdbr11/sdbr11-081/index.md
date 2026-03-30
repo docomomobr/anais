@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Casa de Amorim"
   - "Recife"
+keywords:
+  - "Modern Architecture"
+  - "Amorim’s House"
+  - "Recife"
 ---
 
 ## Referências

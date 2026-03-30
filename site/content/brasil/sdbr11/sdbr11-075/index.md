@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna de Teresina"
   - "Memória"
   - "Cidade"
+keywords:
+  - "Modern architecture Teresina"
+  - "Memory"
+  - "City"
 ---
 
 ## Referências

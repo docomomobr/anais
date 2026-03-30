@@ -48,6 +48,10 @@ palavras-chave:
   - "nordeste brasileiro"
   - "arquitetura moderna"
   - "historiografia"
+keywords:
+  - "Brazilian northeast"
+  - "modern architecture"
+  - "historiography"
 ---
 
 ## Referências

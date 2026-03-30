@@ -58,6 +58,14 @@ palavras-chave:
   - "Arte funerária"
   - "Arquitetura Moderna"
   - "Mausoléu"
+keywords:
+  - "Funerary art"
+  - "Modern architecture"
+  - "Mausoleum"
+palabras-clave:
+  - "Arte funeraria"
+  - "Arquitectura moderna"
+  - "Mausoleo"
 ---
 
 ## Referências

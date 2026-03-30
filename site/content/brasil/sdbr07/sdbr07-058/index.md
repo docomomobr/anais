@@ -57,6 +57,10 @@ palavras-chave:
   - "Arquitetura"
   - "Educação"
   - "Cidade Universitária"
+keywords:
+  - "Architecture"
+  - "Education"
+  - "University Cities"
 ---
 
 ## Referências

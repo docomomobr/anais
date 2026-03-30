@@ -61,6 +61,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio arquitetônico"
   - "Arquitetura na Amazônia"
+keywords:
+  - "Modern architecture"
+  - "Architectural heritage"
+  - "Architecture in Amazonia"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Patrimonio arquitectónico"
+  - "Arquitectura en la Amazonia"
 ---
 
 ## Referências

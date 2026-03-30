@@ -72,6 +72,10 @@ palavras-chave:
   - "arquitetura"
   - "modernidade"
   - "Recife"
+keywords:
+  - "architecture"
+  - "modernity"
+  - "Recife"
 ---
 
 ## Referências

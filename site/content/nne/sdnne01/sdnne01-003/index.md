@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Nova"
   - "artes plásticas"
   - "cultura popular"
+keywords:
+  - "New Architecture"
+  - "plastic arts"
+  - "popular culture"
 ---
 
 ## Referências

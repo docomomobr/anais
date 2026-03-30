@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Olavo Redig de Campos"
   - "Instituto Moreira Salles"
+keywords:
+  - "Modern Architecture"
+  - "Olavo Redig de Campos"
+  - "Instituto Moreira Salles"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Olavo Redig de Campos"
+  - "Instituto Moreira Salles"
 ---
 
 ## Referências

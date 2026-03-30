@@ -46,6 +46,10 @@ palavras-chave:
   - "arte pública"
   - "arte no metrô"
   - "interdisciplinaridade"
+keywords:
+  - "public-art"
+  - "subway art"
+  - "interdisciplinary"
 ---
 
 ## Referências

@@ -53,6 +53,14 @@ palavras-chave:
   - "Hernani do Val Penteado"
   - "Neocolonial"
   - "Arquitetura moderna"
+keywords:
+  - "Hernani do Val Penteado"
+  - "Neocolonial"
+  - "Modern Architecture"
+palabras-clave:
+  - "Hernani do Val Penteado"
+  - "Neocolonial"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

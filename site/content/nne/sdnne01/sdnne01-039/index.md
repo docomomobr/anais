@@ -48,6 +48,10 @@ palavras-chave:
   - "política habitacional"
   - "forma de financiamento"
   - "arquitetura"
+keywords:
+  - "housing policy"
+  - "housing finance"
+  - "architecture"
 ---
 
 ## Referências

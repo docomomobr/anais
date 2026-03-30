@@ -53,6 +53,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "Madeira"
   - "Amazônia"
+keywords:
+  - "Severiano Porto"
+  - "modern architecture"
+  - "wood"
+  - "Amazon"
 ---
 
 ## Referências

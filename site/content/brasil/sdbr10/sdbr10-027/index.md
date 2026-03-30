@@ -53,6 +53,10 @@ palavras-chave:
   - "Justaposição e texturas de materiais"
   - "Brutalismo"
   - "Arquitetura de Pernambuco"
+keywords:
+  - "Juxtapositions and textures"
+  - "Brutalism"
+  - "Architecture of Pernambuco"
 ---
 
 ## Referências

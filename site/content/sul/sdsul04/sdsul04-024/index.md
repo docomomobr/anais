@@ -39,6 +39,8 @@ autores:
   - "Fitz, Leonardo"
 palavras-chave:
   - "Eladio Dieste, Atlántida, Durazno"
+keywords:
+  - "Eladio Dieste, Atlántida, Durazno"
 ---
 
 ## Referências

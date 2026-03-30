@@ -65,6 +65,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Verticalização urbana"
   - "Torres"
+keywords:
+  - "Modern architecture"
+  - "Urban renewal"
+  - "Towers"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Verticalización urbana"
+  - "Torres"
 ---
 
 ## Referências

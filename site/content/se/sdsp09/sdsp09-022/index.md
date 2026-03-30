@@ -64,6 +64,14 @@ palavras-chave:
   - "restauração"
   - "conservação"
   - "intervenção"
+keywords:
+  - "restoration"
+  - "conservation"
+  - "intervention"
+palabras-clave:
+  - "restauración"
+  - "conservación"
+  - "intervención"
 ---
 
 ## Referências

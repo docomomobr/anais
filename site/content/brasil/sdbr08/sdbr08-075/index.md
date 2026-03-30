@@ -48,6 +48,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna em Porto Alegre"
   - "Hospital de Clínicas de Porto Alegre, Palácio da Justiça de Porto Alegre"
+keywords:
+  - "modern architecture in Porto Alegre"
+  - "Hospital de Clínicas de Porto Alegre, Palácio da Justiça de Porto Alegre"
 ---
 
 ## Referências

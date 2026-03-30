@@ -55,6 +55,14 @@ palavras-chave:
   - "Lucio Costa"
   - "Brasília Revisitada"
   - "Urbanismo"
+keywords:
+  - "Lucio Costa"
+  - "Brasília Revisitada"
+  - "Urbanism"
+palabras-clave:
+  - "Lucio Costa"
+  - "Brasília Revisitada"
+  - "Urbanismo"
 ---
 
 ## Referências

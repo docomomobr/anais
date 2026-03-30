@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura"
   - "Lucio Costa"
   - "viagens a Portugal"
+keywords:
+  - "architecture"
+  - "Lucio Costa"
+  - "travel to Portugal"
 ---
 
 ## Referências

@@ -56,6 +56,10 @@ palavras-chave:
   - "Severiano Porto"
   - "Arquitetura amazônica"
   - "Brutalismo regional"
+keywords:
+  - "Severiano Porto"
+  - "Amazon architecture"
+  - "Regional brutalism"
 ---
 
 ## Referências

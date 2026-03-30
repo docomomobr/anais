@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "Brasília"
   - "GT-Brasília"
+keywords:
+  - "Brasília"
+  - "GT-Brasília"
 ---
 
 ## Referências

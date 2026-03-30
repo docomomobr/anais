@@ -49,6 +49,10 @@ palavras-chave:
   - "Burle Marx"
   - "paisagismo"
   - "arquitetura moderna"
+keywords:
+  - "Burle Marx"
+  - "landscape design"
+  - "modern architecture"
 ---
 
 ## Referências

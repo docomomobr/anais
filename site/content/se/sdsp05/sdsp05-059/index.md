@@ -52,6 +52,10 @@ palavras-chave:
   - "Patrimônio"
   - "Intervenção"
   - "Arquitetura"
+keywords:
+  - "Cultural Heritage"
+  - "Intervention"
+  - "Architecture"
 ---
 
 ## Referências

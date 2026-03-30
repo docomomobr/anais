@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Intervenção em edifício moderno"
   - "Mercado Central de João Pessoa – Pb"
+keywords:
+  - "Modern Architecture"
+  - "work in modern building"
+  - "the Central Market in João Pessoa - Pb"
 ---
 
 ## Referências

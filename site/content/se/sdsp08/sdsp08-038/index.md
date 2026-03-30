@@ -52,6 +52,14 @@ palavras-chave:
   - "Acervo"
   - "Concurso"
   - "Biblioteca Nacional"
+keywords:
+  - "Collection"
+  - "Contest"
+  - "National Library"
+palabras-clave:
+  - "Colecciones"
+  - "Concurso"
+  - "Biblioteca Nacional"
 ---
 
 ## Referências

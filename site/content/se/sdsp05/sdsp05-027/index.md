@@ -47,6 +47,10 @@ palavras-chave:
   - "Informe"
   - "Lina Bo Bardi"
   - "Pré-artesanato"
+keywords:
+  - "Formless"
+  - "Lina Bo Bardi"
+  - "Pre-craftwork"
 ---
 
 ## Referências

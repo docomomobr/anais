@@ -47,6 +47,10 @@ palavras-chave:
   - "Brasília"
   - "preservação"
   - "arquitetura moderna"
+keywords:
+  - "Brasília"
+  - "heritage"
+  - "modern architecture"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Hestnes Ferreira"
   - "Louis Kahn"
   - "Conexões Brutalistas"
+keywords:
+  - "Hestnes Ferreira"
+  - "Louis Kahn"
+  - "Brutalist Connections"
 ---
 
 ## Referências

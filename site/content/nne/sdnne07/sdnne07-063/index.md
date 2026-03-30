@@ -57,6 +57,16 @@ palavras-chave:
   - "Amazônia"
   - "Milton Monte"
   - "Camilo Porto de Oliveira"
+keywords:
+  - "Modern Architecture"
+  - "Amazon"
+  - "Milton Monte"
+  - "Camilo Porto de Oliveira"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Amazonas"
+  - "Milton Monte"
+  - "Camilo Porto de Oliveira"
 ---
 
 ## Referências

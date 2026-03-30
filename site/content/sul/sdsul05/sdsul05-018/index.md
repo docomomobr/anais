@@ -47,6 +47,10 @@ palavras-chave:
   - "Eduardo de Almeida"
   - "Arquitetura Moderna"
   - "Arquitetura Contemporânea"
+keywords:
+  - "Eduardo de Almeida"
+  - "Modern Architecture"
+  - "Contemporary architecture"
 ---
 
 ## Referências

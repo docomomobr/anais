@@ -49,6 +49,11 @@ palavras-chave:
   - "Instituto Central de Artes"
   - "Arte total"
   - "Ensino de arquitetura"
+keywords:
+  - "Alcides Rocha Miranda"
+  - "Arts Central Institute"
+  - "Total art"
+  - "Architectural education"
 ---
 
 ## Referências

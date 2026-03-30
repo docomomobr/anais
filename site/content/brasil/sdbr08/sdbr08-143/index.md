@@ -50,6 +50,11 @@ palavras-chave:
   - "Fernando Chacel"
   - "ecogênese"
   - "Rio de Janeiro"
+keywords:
+  - "Landscape"
+  - "Fernando Chacel"
+  - "ecogenesis"
+  - "Rio de Janeiro"
 ---
 
 ## Referências

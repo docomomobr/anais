@@ -50,6 +50,9 @@ palavras-chave:
   - "Valores"
   - "Patrimônio Cultural"
   - "Sanatorium Zonnestraal"
+keywords:
+  - "Value"
+  - "Cultural Heritage"
 ---
 
 ## Referências

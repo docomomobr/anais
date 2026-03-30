@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "Plano de Ação"
   - "DOP"
+keywords:
+  - "modern architecture"
+  - "Action Plan"
+  - "DOP"
 ---
 
 ## Referências

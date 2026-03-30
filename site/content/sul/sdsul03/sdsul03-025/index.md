@@ -48,6 +48,10 @@ palavras-chave:
   - "Palácio da Alvorada"
   - "Coluna"
   - "Madeira"
+keywords:
+  - "Alvorada Palace"
+  - "Column"
+  - "Wood"
 ---
 
 ## Referências

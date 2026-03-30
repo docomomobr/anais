@@ -48,6 +48,10 @@ palavras-chave:
   - "Oswaldo Arthur Bratke"
   - "Lúcio Costa"
   - "William Wilson Wurster"
+keywords:
+  - "Oswaldo Arthur Bratke"
+  - "Lúcio Costa"
+  - "William Wilson Wurster"
 ---
 
 ## Referências

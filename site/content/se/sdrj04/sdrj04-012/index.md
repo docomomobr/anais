@@ -53,6 +53,10 @@ palavras-chave:
   - "Preservação"
   - "Arquitetura Moderna"
   - "Cidade Universitária"
+keywords:
+  - "Preservation"
+  - "Modern architecture"
+  - "University campus"
 ---
 
 ## Referências

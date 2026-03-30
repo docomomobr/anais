@@ -54,6 +54,13 @@ palavras-chave:
   - "moderna"
   - "Curitiba"
   - "patrimônio edificado"
+keywords:
+  - "preservation"
+  - "modern"
+  - "architecture"
+  - "Curitiba"
+  - "buildings"
+  - "protection"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "Oswaldo Bratke"
   - "Arquitetura Moderna Brasileira"
   - "Bairros-jardins"
+keywords:
+  - "Oswaldo Bratke"
+  - "Modern Brazilian Architecture"
+  - "Garden suburbs"
 ---
 
 ## Referências

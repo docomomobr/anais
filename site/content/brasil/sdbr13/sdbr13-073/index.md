@@ -56,6 +56,11 @@ palavras-chave:
   - "paisagismo"
   - "modernismo"
   - "Fortaleza"
+keywords:
+  - "Ferreira Square"
+  - "landscape architecture"
+  - "modernism"
+  - "Fortaleza"
 ---
 
 ## Referências

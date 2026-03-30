@@ -63,6 +63,14 @@ palavras-chave:
   - "Movimento Moderno"
   - "Mobilidade Urbana"
   - "Escala de Vizinhança"
+keywords:
+  - "Modern Movement"
+  - "Urban mobility"
+  - "Neighborhood Scale"
+palabras-clave:
+  - "Movimiento Moderno"
+  - "Mobilidad urbana"
+  - "Escala de Barrio"
 ---
 
 ## Referências

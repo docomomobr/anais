@@ -52,6 +52,10 @@ palavras-chave:
   - "Patrimônio Cultural"
   - "Arquitetura Moderna"
   - "Renovação Urbana"
+keywords:
+  - "Cultural Heritage"
+  - "Modern Architecture"
+  - "Urban Renewal"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "revistas"
   - "Pampulha"
   - "Niemeyer"
+keywords:
+  - "magazines"
+  - "Pampulha"
+  - "Niemeyer"
 ---
 
 ## Referências

@@ -74,6 +74,14 @@ palavras-chave:
   - "arquitetura moderna"
   - "arquitetura da saúde"
   - "século XX"
+keywords:
+  - "modern architecture"
+  - "health architecture"
+  - "twentieth century"
+palabras-clave:
+  - "arquitectura moderna"
+  - "arquitectura de la salud"
+  - "siglo XX"
 ---
 
 ## Referências

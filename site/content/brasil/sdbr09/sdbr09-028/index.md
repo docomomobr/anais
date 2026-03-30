@@ -50,6 +50,18 @@ ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinarida
 autores:
   - "Raffa, Cecilia"
   - "Cirvini, Silvia"
+keywords:
+  - "Modern Movement"
+  - "architects"
+  - "career"
+  - "XX Century"
+  - "Architectural Heritage"
+palabras-clave:
+  - "Movimento Moderno"
+  - "arquitetos"
+  - "carreira"
+  - "Século XX"
+  - "Patrimônio Arquitetônico"
 ---
 
 ## Referências

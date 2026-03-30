@@ -60,6 +60,14 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "movimento moderno"
   - "cultura popular"
+keywords:
+  - "Lina Bo Bardi"
+  - "modern movement"
+  - "popular culture"
+palabras-clave:
+  - "Lina Bo Bardi"
+  - "movimento moderno"
+  - "cultura popular"
 ---
 
 ## Referências

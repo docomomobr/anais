@@ -47,6 +47,10 @@ palavras-chave:
   - "Autenticidade"
   - "UNESCO"
   - "Lista do Patrimônio Mundial"
+keywords:
+  - "Authenticity"
+  - "UNESCO"
+  - "World Heritage List"
 ---
 
 ## Referências

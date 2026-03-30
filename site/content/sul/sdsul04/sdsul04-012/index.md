@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "pré-fabricação"
   - "Milton Ramos"
+keywords:
+  - "modern architecture"
+  - "prefabrication"
+  - "Milton Ramos"
 ---
 
 ## Referências

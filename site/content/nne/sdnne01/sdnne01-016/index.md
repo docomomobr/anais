@@ -53,6 +53,10 @@ palavras-chave:
   - "residências modernas"
   - "Aracaju"
   - "arquitetura nordestina"
+keywords:
+  - "modern residence"
+  - "Aracaju"
+  - "architecture of northeast"
 ---
 
 ## Referências

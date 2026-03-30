@@ -48,6 +48,10 @@ palavras-chave:
   - "Centro de Convenções de Pernambuco"
   - "Centro de Exposições"
   - "Teatro Guararapes"
+keywords:
+  - "Pernambuco       Convention      Centre"
+  - "Exhibition    Centre"
+  - "Guararapes       Theatre"
 ---
 
 ## Referências

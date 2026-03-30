@@ -63,6 +63,14 @@ palavras-chave:
   - "Patrimônio arquitetônico moderno"
   - "Brutalismo"
   - "Preservação"
+keywords:
+  - "Modern architectural heritage"
+  - "Brutalism"
+  - "Conservation"
+palabras-clave:
+  - "Patrimonio arquitectónico moderno"
+  - "Brutalismo"
+  - "Preservación"
 ---
 
 ## Referências

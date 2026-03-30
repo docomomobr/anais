@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Rino Levi"
   - "estrutura"
+keywords:
+  - "Rino Levi"
+  - "structure"
 ---
 
 ## Referências

@@ -71,6 +71,10 @@ palavras-chave:
   - "legado e influência"
   - "função social da arquitetura"
   - "obras modernas do PAGE"
+keywords:
+  - "legacy and influences"
+  - "architecture social function"
+  - "modern works of PAGE"
 ---
 
 ## Referências

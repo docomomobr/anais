@@ -56,6 +56,10 @@ palavras-chave:
   - "Prédios escolares"
   - "Padrão CARPE"
   - "Zona da Mata mineira"
+keywords:
+  - "School builds"
+  - "CARPE Standard"
+  - "Zona da Mata mineira"
 ---
 
 ## Referências

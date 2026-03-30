@@ -48,6 +48,10 @@ palavras-chave:
   - "Prédio do MEC"
   - "Implantação do MEC"
   - "Palácio Capanema"
+keywords:
+  - "MEC Building"
+  - "MEC Deployment área"
+  - "Capanema Palace"
 ---
 
 ## Referências

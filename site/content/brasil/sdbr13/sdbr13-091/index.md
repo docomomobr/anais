@@ -51,6 +51,10 @@ palavras-chave:
   - "patrimônio"
   - "São Miguel das Missões"
   - "intervenção"
+keywords:
+  - "preexistence"
+  - "heritage"
+  - "São Miguel das Missões"
 ---
 
 ## Referências

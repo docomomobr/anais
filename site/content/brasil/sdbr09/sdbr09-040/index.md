@@ -56,6 +56,10 @@ palavras-chave:
   - "Patrimônio Cultural"
   - "Mídia Digital"
   - "Residências Modernas"
+keywords:
+  - "Cultural Heritage"
+  - "Hypermedia"
+  - "Modern Residences"
 ---
 
 ## Referências

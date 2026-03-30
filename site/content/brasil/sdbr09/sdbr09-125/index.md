@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Muralismo"
   - "Azulejo"
+keywords:
+  - "Modern Architecture"
+  - "Mural Painting"
+  - "Tile"
 ---
 
 ## Referências

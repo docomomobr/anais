@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "Arquitetura moderna Recife"
   - "modernidade arquitetônica nordestina"
+keywords:
+  - "Modern architecture Recife"
+  - "modernity architectural northeastern"
 ---
 
 ## Referências

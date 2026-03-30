@@ -67,6 +67,14 @@ palavras-chave:
   - "reabilitação"
   - "habitação social"
   - "ATHIS"
+keywords:
+  - "retrofit"
+  - "social housing"
+  - "ATHIS"
+palabras-clave:
+  - "modernización"
+  - "vivienda social"
+  - "ATHIS"
 ---
 
 ## Referências

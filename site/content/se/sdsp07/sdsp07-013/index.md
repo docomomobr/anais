@@ -62,6 +62,14 @@ palavras-chave:
   - "Estrutura em Madeira"
   - "Modernidade"
   - "Arquitetura Vernacular"
+keywords:
+  - "Wood Structure"
+  - "Modernity"
+  - "Vernacular Architecture"
+palabras-clave:
+  - "Estructura de madera"
+  - "Modernidad"
+  - "Arquitectura vernácula"
 ---
 
 ## Referências

@@ -55,6 +55,12 @@ palavras-chave:
   - "Brasília"
   - "Niemeyer"
   - "Palácio"
+keywords:
+  - "Intervention"
+  - "Restoration"
+  - "Brasilia"
+  - "Niemeyer"
+  - "Palace"
 ---
 
 ## Referências

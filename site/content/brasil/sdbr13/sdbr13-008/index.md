@@ -58,6 +58,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "historiografia da"
   - "arquitetura"
+keywords:
+  - "Itamaraty Palace"
+  - "Oscar Niemeyer"
+  - "modern architecture"
+  - "historiography of architecture"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Retórica da perda"
   - "Arquitetura moderna"
   - "Patrimônio cultural"
+keywords:
+  - "Rhetoric of loss"
+  - "Modernist Architecture"
+  - "Cultural Heritage"
 ---
 
 ## Referências

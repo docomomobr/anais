@@ -44,4 +44,6 @@ autores:
   - "Puig, Ramón Mª"
   - "García, Pedro"
   - "Terradas, Robert"
+palabras-clave:
+  - "Renovación y transformación urbana"
 ---

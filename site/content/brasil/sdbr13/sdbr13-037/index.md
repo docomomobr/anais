@@ -61,6 +61,14 @@ palavras-chave:
   - "estado de conservação"
   - "VANT"
   - "Congresso Nacional"
+keywords:
+  - "marble cladding systems"
+  - "rock"
+  - "high-rise building"
+  - "state of conservation"
+  - "UAV"
+  - "Brazilian"
+  - "Palace of Congress"
 ---
 
 ## Referências

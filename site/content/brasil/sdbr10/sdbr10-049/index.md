@@ -41,6 +41,14 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
   - "Burriel Bielza, Luis"
+keywords:
+  - "Le Corbusier"
+  - "Poetry"
+  - "Saint-Pierre of Firminy"
+palabras-clave:
+  - "Le Corbusier"
+  - "Poesía"
+  - "Saint-Pierre de Firminy"
 ---
 
 ## Referências

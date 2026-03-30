@@ -53,6 +53,10 @@ palavras-chave:
   - "Lygia Fernandes"
   - "Movimento Moderno"
   - "Brasil"
+keywords:
+  - "Lygia Fernandes"
+  - "Modern Movement"
+  - "Brazil"
 ---
 
 ## Referências

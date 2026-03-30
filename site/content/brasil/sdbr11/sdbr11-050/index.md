@@ -53,6 +53,12 @@ palavras-chave:
   - "Praia de Belas"
   - "Porto Alegre"
   - "Le Corbusier"
+keywords:
+  - "Superquadras"
+  - "Urban Plan"
+  - "Praia de Belas"
+  - "Porto Alegre"
+  - "Le Corbusier"
 ---
 
 ## Referências

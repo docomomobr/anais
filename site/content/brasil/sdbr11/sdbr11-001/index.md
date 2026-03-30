@@ -57,6 +57,12 @@ palavras-chave:
   - "Estamparia"
   - "Larmod"
   - "Brasil"
+keywords:
+  - "Textile"
+  - "Interiors"
+  - "Prints"
+  - "Larmod"
+  - "Brazil"
 ---
 
 ## Referências

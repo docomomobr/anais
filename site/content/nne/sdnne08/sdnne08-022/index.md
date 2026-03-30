@@ -71,6 +71,14 @@ palavras-chave:
   - "Delfim Amorim"
   - "Igreja Católica"
   - "Seminário Regional do Nordeste"
+keywords:
+  - "Modern Architecture"
+  - "Pernambuco"
+  - "Delfim Amorim"
+  - "Catholic Church"
+  - "Regional Seminar of the Northeast"
+palabras-clave:
+  - "Arquitectura Moderna, Pernambuco, Delfim Amorim, Iglesia Católica, Seminario Regional del Noreste"
 ---
 
 ## Referências

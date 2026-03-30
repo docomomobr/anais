@@ -57,6 +57,10 @@ palavras-chave:
   - "escola paulista de arquitetura"
   - "arquitetura escolar"
   - "Presidente Prudente"
+keywords:
+  - "“São Paulo School of Architecture”"
+  - "school architecture"
+  - "Presidente Prudente"
 ---
 
 ## Referências

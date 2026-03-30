@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura"
   - "Modernização"
   - "Campina Grande (PB)"
+keywords:
+  - "Architecture"
+  - "Modernization"
+  - "Campina Grande (PB)"
 ---
 
 ## Referências

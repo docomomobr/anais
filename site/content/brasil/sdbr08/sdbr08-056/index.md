@@ -43,6 +43,8 @@ palavras-chave:
   - "arquitectura"
   - "paisaje"
   - "ideas projectuales"
+palabras-clave:
+  - "arquitectura; paisaje; ideas projectuales"
 ---
 
 ## Referências

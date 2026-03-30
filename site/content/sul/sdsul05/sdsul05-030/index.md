@@ -51,6 +51,10 @@ palavras-chave:
   - "Museu Oscar Niemeyer"
   - "Oscar Niemeyer"
   - "Projeto de arquitetura"
+keywords:
+  - "Oscar Niemeyer"
+  - "Oscar Niemeyer Museum"
+  - "architecture Design"
 ---
 
 ## Referências

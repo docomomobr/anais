@@ -46,6 +46,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "cinema"
   - "preservação"
+keywords:
+  - "Modern architecture"
+  - "movies theatre"
+  - "preservation"
 ---
 
 ## Referências

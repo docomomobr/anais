@@ -48,6 +48,9 @@ autores:
 palavras-chave:
   - "Arquitetura Industrial"
   - "Arquitetura Moderna e Detalhe"
+keywords:
+  - "modern architecture"
+  - "industrial architecture and detail"
 ---
 
 ## Referências

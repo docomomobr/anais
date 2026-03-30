@@ -49,4 +49,8 @@ palavras-chave:
   - "Julio Vilamajó"
   - "primitivismo"
   - "madeira"
+keywords:
+  - "Julio Vilamajó"
+  - "primitivism"
+  - "timber"
 ---

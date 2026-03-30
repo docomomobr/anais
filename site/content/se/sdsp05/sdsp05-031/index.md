@@ -53,6 +53,10 @@ palavras-chave:
   - "Oswaldo Arthur Bratke"
   - "Américo Capua"
   - "Jayme Fonseca Rodrigues"
+keywords:
+  - "Oswaldo Arthur Bratke"
+  - "Américo Capua"
+  - "Jayme Fonseca Rodrigues"
 ---
 
 ## Referências

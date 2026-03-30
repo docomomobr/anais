@@ -70,6 +70,10 @@ palavras-chave:
   - "Modernismo"
   - "Legislação"
   - "Alexandre Maçães"
+keywords:
+  - "Modernism"
+  - "Legislation"
+  - "Alexandre Maçães"
 ---
 
 ## Referências

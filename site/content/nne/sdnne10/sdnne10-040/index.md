@@ -59,6 +59,16 @@ palavras-chave:
   - "Arquiteto Modernista"
   - "Campina Grande"
   - "Trajetória Profissional"
+keywords:
+  - "Geraldino Duda"
+  - "Modernist Architect"
+  - "Campina Grande"
+  - "Professional trajectory"
+palabras-clave:
+  - "Geraldino Duda"
+  - "Arquitecto modernista"
+  - "Campina Grande"
+  - "Trayectoria profesional"
 ---
 
 ## Referências

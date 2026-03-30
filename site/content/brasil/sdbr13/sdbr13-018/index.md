@@ -68,6 +68,11 @@ palavras-chave:
   - "Documentação de Arquitetura"
   - "Acervos de"
   - "Arquitetura"
+keywords:
+  - "Hans Broos"
+  - "Modern Architecture"
+  - "Architecture Documentation"
+  - "Architecture Collections"
 ---
 
 ## Referências

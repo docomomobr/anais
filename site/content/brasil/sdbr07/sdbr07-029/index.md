@@ -53,6 +53,9 @@ autores:
 palavras-chave:
   - "Vivienda Moderna"
   - "Santiago"
+palabras-clave:
+  - "Vivienda Moderna"
+  - "Santiago"
 ---
 
 ## Referências

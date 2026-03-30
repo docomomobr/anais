@@ -55,6 +55,11 @@ palavras-chave:
   - "Residências unifamiliares"
   - "Arquitetura Eclética"
   - "Arquitetura Moderna"
+keywords:
+  - "Eduardo Kneese de Mello"
+  - "Single-family residences"
+  - "Eclectic Architecture"
+  - "Modern Architecture"
 ---
 
 ## Referências

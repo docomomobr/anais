@@ -59,6 +59,14 @@ palavras-chave:
   - "Jorge Caron"
   - "Acervos de arquitetura"
   - "Acervo digital"
+keywords:
+  - "Jorge Caron"
+  - "Architecture collections"
+  - "Digital collection"
+palabras-clave:
+  - "Jorge Caron"
+  - "Colecciones de arquitectura"
+  - "Colección digital"
 ---
 
 ## Referências

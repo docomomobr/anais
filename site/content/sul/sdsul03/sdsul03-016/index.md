@@ -48,4 +48,8 @@ palavras-chave:
   - "Arquitetura de Lucio Costa"
   - "Museu das Missões"
   - "matéria e modernidade"
+keywords:
+  - "Lucio Costa architecture"
+  - "the Missions Museum"
+  - "substance and modernity"
 ---

@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura modernista"
   - "Arquitetura Regional"
   - "Cleon Furtado"
+keywords:
+  - "Modernist Architecture"
+  - "Regional Architecture"
+  - "Cleon Furtado"
+palabras-clave:
+  - "Arquitectura Modernista"
+  - "Arquitectura Regional"
+  - "Cleon Furtado"
 ---
 
 ## Referências

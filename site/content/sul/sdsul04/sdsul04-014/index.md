@@ -51,6 +51,10 @@ palavras-chave:
   - "primitivismo"
   - "Monlevade"
   - "Austral"
+keywords:
+  - "Primitivism"
+  - "Monlevade"
+  - "Austral"
 ---
 
 ## Referências

@@ -53,6 +53,12 @@ palavras-chave:
   - "Obra Aberta"
   - "Baukasten"
   - "João Filgueiras Lima"
+keywords:
+  - "Docomomo"
+  - "Umberto Eco"
+  - "Open Work"
+  - "Baukasten"
+  - "João Filgueiras Lima"
 ---
 
 ## Referências

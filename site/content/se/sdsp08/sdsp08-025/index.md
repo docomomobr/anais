@@ -58,6 +58,14 @@ palavras-chave:
   - "Edifício moderno"
   - "Escritório MMM Roberto"
   - "Grelha de apoios"
+keywords:
+  - "Modern Building"
+  - "MMM Roberto"
+  - "the Grid’s supports"
+palabras-clave:
+  - "Edificio moderno"
+  - "MMM Roberto"
+  - "Retícula de apoyos"
 ---
 
 ## Referências

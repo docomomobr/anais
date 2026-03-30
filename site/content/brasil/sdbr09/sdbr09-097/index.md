@@ -53,6 +53,12 @@ palavras-chave:
   - "Praça Maior"
   - "Oscar Niemeyer"
   - "Lucio Costa"
+keywords:
+  - "Brasília"
+  - "University of Brasilia"
+  - "Main Square"
+  - "Oscar Niemeyer"
+  - "Lucio Costa"
 ---
 
 ## Referências

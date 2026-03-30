@@ -48,6 +48,10 @@ palavras-chave:
   - "Preservação"
   - "clubes sociais"
   - "João Pessoa"
+keywords:
+  - "Preservation"
+  - "social clubs"
+  - "João Pessoa"
 ---
 
 ## Referências

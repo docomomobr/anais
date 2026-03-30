@@ -52,6 +52,11 @@ palavras-chave:
   - "modernismo"
   - "arquitetura brasileira"
   - "arquitetura soviética"
+keywords:
+  - "​ collective housing"
+  - "modernism"
+  - "brazilian architecture"
+  - "soviet architecture"
 ---
 
 ## Referências

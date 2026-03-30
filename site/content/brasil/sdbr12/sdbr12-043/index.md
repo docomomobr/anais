@@ -52,6 +52,8 @@ palavras-chave:
   - "Paulo Mendes da Rocha em Maringá"
   - "BANESPA"
   - "Arquitetura Bancária"
+keywords:
+  - "Paulo Mendes da Rocha, Maringá, BANESPA, banking architecture"
 ---
 
 ## Referências

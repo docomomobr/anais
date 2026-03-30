@@ -57,6 +57,12 @@ palavras-chave:
   - "Arquitetura"
   - "Mulheres"
   - "Salvador"
+keywords:
+  - "Historiography"
+  - "Modernism"
+  - "Architecture"
+  - "Women"
+  - "Salvador"
 ---
 
 ## Referências

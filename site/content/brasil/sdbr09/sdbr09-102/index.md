@@ -53,6 +53,12 @@ palavras-chave:
   - "artesanal"
   - "inventário"
   - "desenho vetorial"
+keywords:
+  - "grille"
+  - "ornamental"
+  - "craft"
+  - "inventory"
+  - "vector drawing"
 ---
 
 ## Referências

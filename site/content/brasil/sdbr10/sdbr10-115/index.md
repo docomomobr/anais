@@ -43,6 +43,9 @@ autores:
 palavras-chave:
   - "Lina Bo Bardi"
   - "Brutalismo"
+keywords:
+  - "Lina Bo Bardi"
+  - "Brutalism"
 ---
 
 ## Referências

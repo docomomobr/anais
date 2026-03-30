@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "projetos residenciais"
   - "metodologia"
+keywords:
+  - "modern architecture"
+  - "residential projects"
+  - "methodology"
 ---
 
 ## Referências

@@ -56,6 +56,11 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Concreto armado"
   - "Patrimônio"
+keywords:
+  - "Modern architecture"
+  - "Vilanova Artigas"
+  - "Reinforced concrete"
+  - "Heritage"
 ---
 
 ## Referências

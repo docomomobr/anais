@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Edifício Gemini"
   - "Eduardo de Almeida"
+keywords:
+  - "Modern architecture"
+  - "Gemini Buildings"
+  - "Eduardo de Almeida"
 ---
 
 ## Referências

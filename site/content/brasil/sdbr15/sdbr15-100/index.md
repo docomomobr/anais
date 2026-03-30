@@ -64,6 +64,16 @@ palavras-chave:
   - "Hospital de Isolamento de Salvador"
   - "Hospital de Mont"
   - "Serrat. Hospital Couto Maia"
+keywords:
+  - "Quarantine architecture"
+  - "Salvador Quarantine Hospital"
+  - "Mont Serrat Hospital"
+  - "Hospital Couto Maia"
+palabras-clave:
+  - "Arquitectura de aislamiento"
+  - "Hospital de Cuarentena Salvador"
+  - "Hospital Mont"
+  - "Serrat. Hospital Couto Maia"
 ---
 
 ## Referências

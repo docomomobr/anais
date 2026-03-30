@@ -41,6 +41,12 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
   - "García, Eunice del Carmen García"
+keywords:
+  - "modern architecture"
+  - "collective social house"
+palabras-clave:
+  - "arquitectura moderna"
+  - "vivienda social colectiva"
 ---
 
 ## Referências

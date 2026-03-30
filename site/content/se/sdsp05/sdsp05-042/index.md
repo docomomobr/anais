@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Docente"
   - "Escolas"
   - "Sustentabilidade"
+keywords:
+  - "Educational Architecture"
+  - "Schools"
+  - "Sustainability"
 ---
 
 ## Referências

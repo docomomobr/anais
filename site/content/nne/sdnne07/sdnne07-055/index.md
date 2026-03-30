@@ -63,6 +63,18 @@ palavras-chave:
   - "materialidade"
   - "arquitetura moderna"
   - "arquitetura residencial"
+keywords:
+  - "tectonics"
+  - "construction"
+  - "materiality"
+  - "modern architecture"
+  - "residential architecture"
+palabras-clave:
+  - "tectónica"
+  - "construcción"
+  - "materialidad"
+  - "arquitectura moderna"
+  - "arquitectura residencial"
 ---
 
 ## Referências

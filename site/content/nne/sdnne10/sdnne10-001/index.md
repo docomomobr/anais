@@ -64,6 +64,16 @@ palavras-chave:
   - "engenheiros"
   - "profissionais licenciados"
   - "classe média"
+keywords:
+  - "modern vocabulary"
+  - "engineers"
+  - "licensed professionals"
+  - "middle class"
+palabras-clave:
+  - "vocabulario moderno"
+  - "ingenieros"
+  - "profesionales licenciados"
+  - "clase media"
 ---
 
 ## Referências

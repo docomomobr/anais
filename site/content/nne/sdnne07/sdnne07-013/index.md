@@ -65,6 +65,16 @@ palavras-chave:
   - "Pernambuco"
   - "SUDENE"
   - "brutalismo"
+keywords:
+  - "Frank Svensson"
+  - "Pernambuco"
+  - "SUDENE"
+  - "brutalism"
+palabras-clave:
+  - "Frank Svensson"
+  - "Pernambuco"
+  - "SUDENE"
+  - "brutalismo"
 ---
 
 ## Referências

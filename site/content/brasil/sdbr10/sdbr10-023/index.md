@@ -48,6 +48,10 @@ palavras-chave:
   - "Portugal"
   - "crítica"
   - "ética"
+keywords:
+  - "Portugal"
+  - "critique"
+  - "ethics"
 ---
 
 ## Referências

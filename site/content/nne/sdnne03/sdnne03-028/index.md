@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "disseminação"
   - "residências paraibanas"
+keywords:
+  - "Modern Architecture"
+  - "dissemination"
+  - "residences Paraíba"
 ---
 
 ## Referências

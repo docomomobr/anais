@@ -62,6 +62,16 @@ palavras-chave:
   - "Conservação da arquitetura moderna"
   - "restauro da arquitetura moderna"
   - "Casas Modernistas"
+keywords:
+  - "Recife"
+  - "Modern Architecture Conservation"
+  - "Modern Architecture Restoration"
+  - "Modernist Houses"
+palabras-clave:
+  - "Recife"
+  - "Conservación de la Arquitectura Moderna"
+  - "Restauración de la Arquitectura Moderna"
+  - "Casas Modernistas"
 ---
 
 ## Referências

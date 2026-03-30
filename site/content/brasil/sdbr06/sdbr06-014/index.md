@@ -47,6 +47,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna"
   - "Patrimônio Cultural Moderno - Preservação"
+keywords:
+  - "Modern Architecture"
+  - "Modern Cultural Heritage - Preservation"
 ---
 
 ## Referências

@@ -61,6 +61,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura Universitária"
   - "Arquitetura Baiana"
+keywords:
+  - "Modern Architecture"
+  - "University Architecture"
+  - "Bahia’s architecture"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Arquitectura Universitaria"
+  - "Arquitectura Baiana"
 ---
 
 ## Referências

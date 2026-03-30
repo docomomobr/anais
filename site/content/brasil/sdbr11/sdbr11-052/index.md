@@ -53,6 +53,12 @@ palavras-chave:
   - "Prática profissional"
   - "Paisagismo"
   - "Design Industrial"
+keywords:
+  - "Parque Anhembi"
+  - "Modern Architecture"
+  - "Professional practice"
+  - "Landscape gardening project"
+  - "Industrial Design"
 ---
 
 ## Referências

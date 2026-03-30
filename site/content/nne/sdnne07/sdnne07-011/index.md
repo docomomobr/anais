@@ -59,6 +59,14 @@ palavras-chave:
   - "arquitetura moderna"
   - "Nearco Araújo"
   - "Fortaleza-Ce"
+keywords:
+  - "modern architecture"
+  - "Nearco Araújo"
+  - "Fortaleza-Ce (Brasil)"
+palabras-clave:
+  - "arquitectura moderna"
+  - "Nearco Araújo"
+  - "Fortaleza-Ce (Brasil)"
 ---
 
 ## Referências

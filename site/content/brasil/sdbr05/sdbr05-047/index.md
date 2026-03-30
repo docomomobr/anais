@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "preservação do patrimônio"
   - "modernismo"
+keywords:
+  - "modern architecture"
+  - "heritage preservation"
+  - "modernism"
 ---
 
 ## Referências

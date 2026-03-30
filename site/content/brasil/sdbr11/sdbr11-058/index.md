@@ -45,6 +45,10 @@ palavras-chave:
   - "poética da economia"
   - "experimentalismo"
   - "vertente brasileira"
+keywords:
+  - "poética da economia"
+  - "experimentalism"
+  - "modern Brazilian architecture in 1960s"
 ---
 
 ## Referências

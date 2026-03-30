@@ -51,6 +51,12 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Capela da Pampulha"
   - "Catedral de Brasília"
+keywords:
+  - "modernity"
+  - "temples"
+  - "Oscar Niemeyer"
+  - "Pampulha Chapel"
+  - "Brasilia Cathedral"
 ---
 
 ## Referências

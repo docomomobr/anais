@@ -67,6 +67,11 @@ palavras-chave:
   - "Digitalização"
   - "Patrimônio"
   - "Recife"
+keywords:
+  - "Documentation"
+  - "Scanning"
+  - "Heritage"
+  - "Recife"
 ---
 
 ## Referências

@@ -60,6 +60,10 @@ autores:
   - "Rojas Vega, Edward"
   - "Lobos Contreras, Jorge"
   - "Paula, Luciana Correa de"
+palabras-clave:
+  - "Arquitectura Moderna en madera"
+  - "Patrimonio arquitectónico y urbano"
+  - "Arquitectura del Sur de Chile"
 ---
 
 ## Referências

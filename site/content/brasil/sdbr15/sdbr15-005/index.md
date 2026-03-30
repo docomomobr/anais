@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Brasília"
   - "Ditadura Militar Brasileira"
+keywords:
+  - "Modern Architecture"
+  - "Brasília"
+  - "Brazilian Military Dictatorship"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Brasília"
+  - "Dictadura Militar Brasileña"
 ---
 
 ## Referências

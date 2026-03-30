@@ -53,6 +53,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Sintaxe Espacial"
   - "Residências"
+keywords:
+  - "Wandenkolk Tinoco"
+  - "Modern Architecture"
+  - "Space syntax"
+  - "Residences"
 ---
 
 ## Referências

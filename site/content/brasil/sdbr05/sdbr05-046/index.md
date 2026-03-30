@@ -65,6 +65,14 @@ palavras-chave:
   - "conservação"
   - "Luiz Nunes"
   - "Le Corbusier"
+keywords:
+  - "modern architecture"
+  - "modern architecture in Brazil"
+  - "modern architecture in Pernambuco"
+  - "restoration"
+  - "conservation"
+  - "Luiz Nunes"
+  - "Le Corbusier"
 ---
 
 ## Referências

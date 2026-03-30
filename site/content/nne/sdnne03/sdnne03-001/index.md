@@ -45,6 +45,10 @@ palavras-chave:
   - "recomendações internacionais"
   - "arquitetura moderna"
   - "conservação"
+keywords:
+  - "international recommendations"
+  - "modern architecture"
+  - "conservation"
 ---
 
 ## Referências

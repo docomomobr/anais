@@ -55,6 +55,10 @@ palavras-chave:
   - "natureza"
   - "arquitetura moderna brasileira"
   - "arquitetura moderna latino americana"
+keywords:
+  - "Oscar Niemeyer"
+  - "Juan O’Gorman"
+  - "nature"
 ---
 
 ## Referências

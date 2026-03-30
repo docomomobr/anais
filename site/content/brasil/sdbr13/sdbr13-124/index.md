@@ -53,6 +53,10 @@ palavras-chave:
   - "arquitetura modernista"
   - "educação patrimonial"
   - "preservação"
+keywords:
+  - "modern architecture"
+  - "heritage education"
+  - "preservation"
 ---
 
 ## Referências

@@ -53,6 +53,11 @@ palavras-chave:
   - "Arquitetura"
   - "Élio de Almeida Viana"
   - "Ideias pedagógicas de Anísio Teixeira"
+keywords:
+  - "Language"
+  - "Architecture"
+  - "Élio de Almeida Viana"
+  - "Anísio Teixeira teaching ideas"
 ---
 
 ## Referências

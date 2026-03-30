@@ -77,6 +77,10 @@ palavras-chave:
   - "Clube Paineiras do Morumby"
   - "Projeto de arquitetura modernista"
   - "Restauro crítico conservativo"
+keywords:
+  - "Clube Paineiras do Morumby"
+  - "Modernist architecture design"
+  - "Critical conservative restoration"
 ---
 
 ## Referências

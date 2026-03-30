@@ -63,6 +63,13 @@ autores:
 palavras-chave:
   - "Aeroporto de Congonhas"
   - "Aeroporto Internacional de São Paulo/Guarulhos"
+keywords:
+  - "Congonhas Airport"
+  - "São Paulo/Guarulhos International Airport"
+  - "Airport architecture"
+palabras-clave:
+  - "Aeropuerto de Congonhas"
+  - "Aeropuerto Internacional de São Paulo/Guarulhos"
 ---
 
 ## Referências

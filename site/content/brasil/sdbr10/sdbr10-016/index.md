@@ -49,6 +49,10 @@ palavras-chave:
   - "concreto armado"
   - "cultura técnica"
   - "consolidação"
+keywords:
+  - "reinforced concrete"
+  - "technical culture"
+  - "foundations"
 ---
 
 ## Referências

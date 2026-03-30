@@ -44,6 +44,10 @@ palavras-chave:
   - "Sergio Bernardes"
   - "Brasília"
   - "experimentalismo"
+keywords:
+  - "Sergio Bernardes"
+  - "Brasilia"
+  - "experimentalism"
 ---
 
 ## Referências

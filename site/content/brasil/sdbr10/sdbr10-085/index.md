@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna"
   - "Ambientação de Interiores"
+keywords:
+  - "Modern Architecture"
+  - "Interior design"
 ---
 
 ## Referências

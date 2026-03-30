@@ -56,6 +56,11 @@ palavras-chave:
   - "Documentação"
   - "Maria do Carmo Schwab"
   - "Espírito Santo"
+keywords:
+  - "Modern Architecture"
+  - "Documentation"
+  - "Maria do Carmo Schwab"
+  - "Espírito Santo"
 ---
 
 ## Referências

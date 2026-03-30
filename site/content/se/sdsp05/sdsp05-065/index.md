@@ -52,6 +52,10 @@ palavras-chave:
   - "Casa de Vidro"
   - "Conservação e gestão de bem cultural"
   - "Lina Bo Bardi"
+keywords:
+  - "Glass House"
+  - "Conservation and management of cultural heritage"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Brutalismo"
   - "arte"
   - "vivenciado"
+keywords:
+  - "Brutalism"
+  - "art"
+  - "lived experience"
 ---
 
 ## Referências

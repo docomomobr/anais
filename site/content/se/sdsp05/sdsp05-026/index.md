@@ -50,6 +50,11 @@ palavras-chave:
   - "arquitetura paulista"
   - "Ipesp"
   - "Plano de Ação"
+keywords:
+  - "School architecture"
+  - "Architecture of Sao Paulo"
+  - "Ipesp"
+  - "Plano de Ação"
 ---
 
 ## Referências

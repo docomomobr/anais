@@ -46,6 +46,10 @@ palavras-chave:
   - "Jacques Pilon"
   - "verticalização"
   - "centro de São Paulo"
+keywords:
+  - "Jacques Pilon"
+  - "verticalization"
+  - "São Paulo Downtown"
 ---
 
 ## Referências

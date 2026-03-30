@@ -58,6 +58,11 @@ palavras-chave:
   - "Eladio Dieste"
   - "Pernambuco"
   - "cerâmica armada"
+keywords:
+  - "Ariel Valmagia"
+  - "Eladio Dieste"
+  - "Pernambuco"
+  - "Reinforced brick masonry"
 ---
 
 ## Referências

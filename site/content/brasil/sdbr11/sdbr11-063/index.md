@@ -40,6 +40,8 @@ autores:
   - "Casarin, Rafael Farina"
 palavras-chave:
   - "Paisagismo"
+keywords:
+  - "Landscape"
 ---
 
 ## Referências

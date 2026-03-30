@@ -55,6 +55,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Bibliografia especializada"
   - "Catálogo de obras"
+keywords:
+  - "Vilanova Artigas"
+  - "Specialized bibliography"
+  - "Catalog of oeuvres"
 ---
 
 ## Referências

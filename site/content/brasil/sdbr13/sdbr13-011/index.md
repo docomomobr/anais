@@ -60,6 +60,12 @@ palavras-chave:
   - "Parque Guinle"
   - "Edifício"
   - "Nova Cintra"
+keywords:
+  - "Modern architecture"
+  - "bioclimatic evaluation"
+  - "Lucio Costa"
+  - "Guinle Park"
+  - "Nova Cintra Building"
 ---
 
 ## Referências

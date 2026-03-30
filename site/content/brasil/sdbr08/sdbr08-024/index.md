@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "conservação integrada"
   - "participação popular"
+keywords:
+  - "integrated conservation"
+  - "popular participation"
 ---
 
 ## Referências

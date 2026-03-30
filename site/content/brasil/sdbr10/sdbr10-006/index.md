@@ -49,6 +49,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Novo Brutalismo"
   - "Arquitetura Moderna"
+keywords:
+  - "Vilanova Artigas"
+  - "New Brutalism"
+  - "Modern Architecture"
 ---
 
 ## Referências

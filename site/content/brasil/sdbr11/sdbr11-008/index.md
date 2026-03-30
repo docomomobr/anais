@@ -51,6 +51,10 @@ palavras-chave:
   - "concursos"
   - "revistas"
   - "arquitetura moderna brasileira"
+keywords:
+  - "competitions"
+  - "magazines"
+  - "brazilian modern architecture"
 ---
 
 ## Referências

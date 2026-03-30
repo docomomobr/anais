@@ -64,6 +64,18 @@ palavras-chave:
   - "Década de 1970"
   - "Planos de desenvolvimento para a Amazônia"
   - "Laboratório de Investigações Conceituais (LIC)"
+keywords:
+  - "Sergio Bernardes"
+  - "Caracarai/Roraima"
+  - "Decade of 1970"
+  - "Development plans for the Amazon"
+  - "Laboratory of Conceptual Investigations (LIC)"
+palabras-clave:
+  - "Sergio Bernardes"
+  - "Caracarai/Roraima"
+  - "Década de 1970"
+  - "Planes de desarrollo para la Amazonía"
+  - "Laboratorio de Investigaciones Conceptuales (LIC)"
 ---
 
 ## Referências

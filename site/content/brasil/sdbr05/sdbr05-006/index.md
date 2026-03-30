@@ -50,6 +50,11 @@ palavras-chave:
   - "restauração"
   - "história"
   - "Movimento Moderno"
+keywords:
+  - "architectural heritage"
+  - "restoration"
+  - "history"
+  - "Modern Movement"
 ---
 
 ## Referências

@@ -42,6 +42,9 @@ autores:
 palavras-chave:
   - "Jardins de Burle Marx"
   - "Projeto Paisagístico Modernista"
+keywords:
+  - "Burle Marx's Gardens"
+  - "Modernist Landscape Project"
 ---
 
 ## Referências

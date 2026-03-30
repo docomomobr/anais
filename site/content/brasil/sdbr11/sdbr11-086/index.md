@@ -52,6 +52,12 @@ palavras-chave:
   - "Sol"
   - "Espaço"
   - "Verde"
+keywords:
+  - "João Filgueiras Lima"
+  - "Modernism"
+  - "Sun"
+  - "Space"
+  - "Green"
 ---
 
 ## Referências

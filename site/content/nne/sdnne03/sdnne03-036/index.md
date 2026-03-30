@@ -59,6 +59,10 @@ palavras-chave:
   - "Art Déco"
   - "História"
   - "Pernambuco"
+keywords:
+  - "Art Deco"
+  - "History"
+  - "Pernambuco"
 ---
 
 ## Referências

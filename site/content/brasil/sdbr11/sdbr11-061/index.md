@@ -54,6 +54,12 @@ palavras-chave:
   - "Reuso"
   - "de"
   - "Interior"
+keywords:
+  - "Modern"
+  - "Architecture"
+  - "Re-­‐use"
+  - "Interior"
+  - "Design"
 ---
 
 ## Referências

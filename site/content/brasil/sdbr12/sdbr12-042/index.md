@@ -48,6 +48,10 @@ palavras-chave:
   - "edifícios de apartamentos"
   - "Fortaleza"
   - "habitações multifamiliares"
+keywords:
+  - "apartment buildings"
+  - "Fortaleza"
+  - "multifamily housing"
 ---
 
 ## Referências

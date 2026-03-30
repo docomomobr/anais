@@ -54,6 +54,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Preservação"
   - "Patrimônio Cultural"
+keywords:
+  - "Restoration"
+  - "Modern Architecture"
+  - "Conservation"
+  - "Cultural Heritage"
 ---
 
 ## Referências

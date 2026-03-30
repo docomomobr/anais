@@ -57,6 +57,14 @@ palavras-chave:
   - "modos de morar"
   - "habitação"
   - "Movimento Moderno"
+keywords:
+  - "Ways of living"
+  - "Housing"
+  - "Modern Movement"
+palabras-clave:
+  - "Modos de vivir"
+  - "Vivienda"
+  - "Modernismo"
 ---
 
 ## Referências

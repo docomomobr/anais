@@ -63,6 +63,14 @@ palavras-chave:
   - "Crítica de arquitetura"
   - "Historiografia"
   - "América Latina"
+keywords:
+  - "Architecture criticism"
+  - "Historiography"
+  - "Latin America"
+palabras-clave:
+  - "Crítica de arquitectura"
+  - "Historiografía"
+  - "América Latina"
 ---
 
 ## Referências

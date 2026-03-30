@@ -58,6 +58,12 @@ palavras-chave:
   - "Viana de Lima"
   - "Ilha da Madeira"
   - "arquitetura moderna"
+keywords:
+  - "Hotel Casino"
+  - "Oscar Niemeyer"
+  - "Viana de Lima"
+  - "Madeira Island"
+  - "modern architecture"
 ---
 
 ## Referências

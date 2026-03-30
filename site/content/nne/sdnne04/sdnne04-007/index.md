@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Belém"
   - "Intervenção"
+keywords:
+  - "Modern Architecture"
+  - "Belém"
+  - "Intervention"
 ---
 
 ## Referências

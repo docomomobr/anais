@@ -48,6 +48,10 @@ palavras-chave:
   - "Cidades Novas"
   - "Núcleo do Pilar"
   - "Cidades de Companhia"
+keywords:
+  - "New Cities"
+  - "Núcleo do Pilar"
+  - "Company Towns"
 ---
 
 ## Referências

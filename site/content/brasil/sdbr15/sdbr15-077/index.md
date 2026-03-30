@@ -60,6 +60,14 @@ palavras-chave:
   - "Patrimônio Histórico e Artístico Nacional"
   - "IPHAN"
   - "Governo Federal"
+keywords:
+  - "National Historical and Artistic Heritage"
+  - "IPHAN"
+  - "Federal Government"
+palabras-clave:
+  - "Patrimonio Histórico y Artístico Nacional"
+  - "IPHAN"
+  - "Gobierno Federal"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "cobertura"
   - "Arquitetura Moderna"
   - "diretrizes urbanísticas"
+keywords:
+  - "rooftop"
+  - "modern architecture"
+  - "urban guidelines"
 ---
 
 ## Referências

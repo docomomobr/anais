@@ -52,6 +52,8 @@ autores:
   - "Oliveira, Aquiles Alberto Ramos de Pina"
 palavras-chave:
   - "Modernização. Arquitetura Moderna. Natal"
+keywords:
+  - "Modernization. Modern Architecture. Natal"
 ---
 
 ## Referências

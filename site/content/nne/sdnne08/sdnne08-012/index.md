@@ -60,6 +60,16 @@ palavras-chave:
   - "documentação"
   - "Arquitetura Moderna"
   - "projetos arquitetônicos"
+keywords:
+  - "architecture history"
+  - "documentation"
+  - "modern architecture"
+  - "architecturaldesigns"
+palabras-clave:
+  - "historia de la arquitectura"
+  - "documentación"
+  - "arquitectura moderna"
+  - "proyectos arquitectónicos"
 ---
 
 ## Referências

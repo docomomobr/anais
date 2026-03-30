@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "estratégias bioclimáticas"
   - "arquitetura residencial"
+keywords:
+  - "modern architecture"
+  - "bioclimatic solutions"
+  - "residential architecture"
 ---
 
 ## Referências

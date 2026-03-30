@@ -63,6 +63,14 @@ palavras-chave:
   - "Patrimônio moderno"
   - "Arquitetura Curitiba"
   - "Preservação e demolição"
+keywords:
+  - "Modern heritage"
+  - "Curitiba Architecture"
+  - "Preservation and demolition"
+palabras-clave:
+  - "Patrimonio moderno"
+  - "Arquitectura Curitíba"
+  - "Conservación y demolición"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Concursos de Arquitetura"
   - "Arquitetura Moderna (CE)"
   - "Arquitetura Contemporânea (CE)"
+keywords:
+  - "Architecture Contest"
+  - "Modern Architecture (CE)"
+  - "Contemporary Architecture (CE)"
+palabras-clave:
+  - "Concursos de Arquitectura"
+  - "Arquitectura Moderna (CE)"
+  - "Arquitectura Contemporánea (CE)"
 ---
 
 ## Referências

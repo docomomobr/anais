@@ -57,6 +57,12 @@ palavras-chave:
   - "Brutalismo"
   - "Morumbi"
   - "Canindé"
+keywords:
+  - "Vilanova Artigas"
+  - "Stadiums"
+  - "Brutalism"
+  - "Morumbi"
+  - "Canindé"
 ---
 
 ## Referências

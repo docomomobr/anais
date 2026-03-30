@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna na Bahia"
   - "Campus Universitário"
   - "UFBA"
+keywords:
+  - "Modern Architecture in Bahia"
+  - "University Campus"
+  - "UFBA"
 ---
 
 ## Referências

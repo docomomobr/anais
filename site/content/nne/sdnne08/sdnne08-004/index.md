@@ -57,6 +57,14 @@ palavras-chave:
   - "Escolas Industriais"
   - "Arquitetura escolar"
   - "Historiografia"
+keywords:
+  - "Industrial Schools"
+  - "School architecture"
+  - "Historiography"
+palabras-clave:
+  - "Escuelas industriales"
+  - "Arquitectura escolar"
+  - "Historiografía"
 ---
 
 ## Referências

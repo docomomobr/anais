@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "ornamento"
   - "Ari Marangon"
+keywords:
+  - "modern architecture"
+  - "ornament"
+  - "Ari Marangon"
 ---
 
 ## Referências

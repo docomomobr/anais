@@ -47,6 +47,10 @@ palavras-chave:
   - "museu"
   - "Guggenheim"
   - "arquitetura moderna"
+keywords:
+  - "museum"
+  - "Guggenheim"
+  - "modern                architecture"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Universidade de Brasília"
   - "Pichações"
+keywords:
+  - "Apparent concrete"
+  - "Modern Architecture"
+  - "University of Brasilia"
+  - "Graffiti"
 ---
 
 ## Referências

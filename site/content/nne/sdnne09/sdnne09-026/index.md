@@ -58,6 +58,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "arquitetura moderna no Ceará"
   - "Nícia Paes Bormann"
+keywords:
+  - "modern architecture"
+  - "modern architecture in Ceará"
+  - "Nícia Paes Bormann"
 ---
 
 ## Referências

@@ -53,6 +53,10 @@ palavras-chave:
   - "Movimento Moderno"
   - "Juiz de Fora"
   - "Urbanismo"
+keywords:
+  - "Modern Movement"
+  - "Juiz de Fora"
+  - "Urban Planning"
 ---
 
 ## Referências

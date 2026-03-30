@@ -48,6 +48,10 @@ palavras-chave:
   - "Peter Scheier"
   - "fotografia"
   - "arquitetura moderna"
+keywords:
+  - "Peter Scheier"
+  - "photography"
+  - "modern architecture"
 ---
 
 ## Referências

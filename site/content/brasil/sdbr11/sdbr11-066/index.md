@@ -46,6 +46,10 @@ palavras-chave:
   - "Lelé"
   - "Pré-fabricação"
   - "Favelas"
+keywords:
+  - "Lelé"
+  - "Prefabrication"
+  - "Favelas"
 ---
 
 ## Referências

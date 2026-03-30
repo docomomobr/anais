@@ -46,6 +46,16 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
   - "Galeno Ibaceta, Claudio Andrés"
+keywords:
+  - "hospital architecture"
+  - "Sociedad Constructora"
+palabras-clave:
+  - "Norte de Chile"
+  - "arquitectura hospitalaria"
+  - "Sociedad Constructora de Establecimientos"
+  - "Hospitalarios"
+  - "Servicio Nacional de Salud"
+  - "arquitectura moderna"
 ---
 
 ## Referências

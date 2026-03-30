@@ -52,6 +52,10 @@ palavras-chave:
   - "Recife"
   - "verticalização"
   - "patrimônio histórico"
+keywords:
+  - "Recife"
+  - "verticalization"
+  - "heritage"
 ---
 
 ## Referências

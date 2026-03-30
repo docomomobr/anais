@@ -62,6 +62,16 @@ palavras-chave:
   - "arquitetura moderna"
   - "Belém"
   - "documentação"
+keywords:
+  - "Atlas"
+  - "Modern architecture"
+  - "Belém"
+  - "Documentation"
+palabras-clave:
+  - "atlas"
+  - "arquitectura moderna"
+  - "Belém"
+  - "documentación"
 ---
 
 ## Referências

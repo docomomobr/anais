@@ -68,6 +68,11 @@ palavras-chave:
   - "Viçosa"
   - "Zona da Mata mineira"
   - "inventário"
+keywords:
+  - "Modern Architecture"
+  - "Viçosa"
+  - "Zona da Mata of Minas Gerais"
+  - "inventory"
 ---
 
 ## Referências

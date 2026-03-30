@@ -55,4 +55,8 @@ palavras-chave:
   - "Plano de Ação"
   - "Equipamentos Públicos"
   - "Arquitetura Moderna"
+keywords:
+  - "Plano de Ação"
+  - "Public equipment"
+  - "Modern architecture"
 ---

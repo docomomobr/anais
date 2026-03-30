@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura"
   - "Moderna"
   - "(CE)"
+keywords:
+  - "Modern"
+  - "Architecture"
+  - "(CE)"
 ---
 
 ## Referências

@@ -39,6 +39,10 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "3º Seminário Docomomo Sul: anais: madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani, Sérgio Marques. Porto Alegre: PROPAR-UFRGS, 2010. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-3o-seminario-docomomo-sul/. ISBN 978-85-60188-11-6"
 autores:
   - "Deambrosis, Federico"
+palabras-clave:
+  - "madera"
+  - "pabellón"
+  - "Janello"
 ---
 
 ## Referências

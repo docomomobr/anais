@@ -50,6 +50,11 @@ palavras-chave:
   - "Belém"
   - "arquitetura contemporânea"
   - "regionalismo"
+keywords:
+  - "Modern architecture"
+  - "Belém"
+  - "architecture contemporary"
+  - "regionalism"
 ---
 
 ## Referências

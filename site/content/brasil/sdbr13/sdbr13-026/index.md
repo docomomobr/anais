@@ -58,6 +58,12 @@ palavras-chave:
   - "Igreja"
   - "moralidade"
   - "SPHAN"
+keywords:
+  - "Lucio Costa"
+  - "Carlos Drummond de Andrade"
+  - "Church"
+  - "morality"
+  - "SPHAN"
 ---
 
 ## Referências

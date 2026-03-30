@@ -30,8 +30,9 @@ keywords:
   - "cobertura tradicional"
 abstract_en: |
   El tejado fue largamente utilizado en la arquitectura brasilera mismo en plena vigencia de la arquitectura moderna que tenía en el uso de volúmenes prismáticos una de sus estrategias compositivas fundamentales. La arquitectura moderna residencial presentó en este país un rico repertorio de soluciones de uso de esta cubierta que se relacionan directamente con los partidos adoptados: partidos compactos, de proporciones cuadráticas, con tejados con inclinación elevada y compositivamente expresivos; partidos compactos con proporciones rectangulares o aditivos descompuestos en cuerpos estrechos y alargados, posibilitando tejados con baja inclinación que, con el plano de cubierta bien acentuado, enfatizaban más la geometría de sus bases.  El artículo tiene el objetivo de, a partir de una exposición panorámica de obras del periodo moderno, realizar una reflexión sobre el uso del tejado - elemento esencialmente tradicional – en la casa moderna brasilera, identificando la incorporación y la transformación de ese legado colonial.
-keywords_en:
-  - "tejado en la casa moderna, casa moderna brasileira"
+keywords_es:
+  - "tejado en la casa moderna"
+  - "casa moderna brasileira"
   - "cubierta tradicional"
 authors:
   - givenname: "Ana Elísia da"
@@ -51,6 +52,10 @@ palavras-chave:
   - "telhado na casa moderna"
   - "casa moderna brasileira"
   - "cobertura tradicional"
+palabras-clave:
+  - "tejado en la casa moderna"
+  - "casa moderna brasileira"
+  - "cubierta tradicional"
 ---
 
 ## Referências

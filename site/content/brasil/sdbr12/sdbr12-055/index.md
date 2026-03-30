@@ -47,6 +47,10 @@ palavras-chave:
   - "Diamantina"
   - "Lucio Costa"
   - "Juscelino Kubitschek"
+keywords:
+  - "Diamantina"
+  - "Lucio Costa"
+  - "Juscelino Kubitschek"
 ---
 
 ## Referências

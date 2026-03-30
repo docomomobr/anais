@@ -55,6 +55,12 @@ palavras-chave:
   - "preservação"
   - "segregação socioespacial"
   - "desigualdade espacial"
+keywords:
+  - "Brasília"
+  - "urban heritage"
+  - "preservation"
+  - "sociospatial segregation"
+  - "spatial inequality"
 ---
 
 ## Referências

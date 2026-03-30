@@ -65,6 +65,16 @@ palavras-chave:
   - "projeto de arquitetura"
   - "escola paulista"
   - "Palmas-Tocantins"
+keywords:
+  - "Ruy Ohtake"
+  - "architecture project"
+  - "paulista school"
+  - "Palmas-Tocantins"
+palabras-clave:
+  - "Ruy Ohtake"
+  - "proyecto de arquitectura"
+  - "escuela paulista"
+  - "Palmas-Tocantins"
 ---
 
 ## Referências

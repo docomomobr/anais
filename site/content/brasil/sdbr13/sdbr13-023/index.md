@@ -47,6 +47,8 @@ palavras-chave:
   - "arquitetura moderna"
   - "racionalismo italiano"
   - "trocas culturais"
+keywords:
+  - "Italian rationalism"
 ---
 
 ## Referências

@@ -41,6 +41,8 @@ autores:
   - "Rocha, Ricardo de Souza"
 palavras-chave:
   - "arquitetura moderna brasileira; patrimônio"
+keywords:
+  - "Brazilian modern architecture; patrimony"
 ---
 
 ## Referências

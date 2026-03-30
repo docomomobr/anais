@@ -43,6 +43,8 @@ autores:
   - "Velasques, Ana Beatriz Araujo"
 palavras-chave:
   - "Palmas – urbanismo modernista – urbanismo pós-modernista"
+keywords:
+  - "Palmas – modern urbanism – post-modern urbanism"
 ---
 
 ## Referências

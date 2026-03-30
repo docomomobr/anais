@@ -53,6 +53,12 @@ palavras-chave:
   - "história da arquitetura"
   - "edifícios"
   - "mercado imobiliário"
+keywords:
+  - "Oscar Niemeyer"
+  - "São Paulo"
+  - "history of architecture"
+  - "buildings"
+  - "real estate market"
 ---
 
 ## Referências

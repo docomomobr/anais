@@ -47,6 +47,10 @@ palavras-chave:
   - "Estrutura"
   - "Arquitetura"
   - "Técnica construtiva"
+keywords:
+  - "structure"
+  - "Architecture"
+  - "Constructive technique"
 ---
 
 ## Referências

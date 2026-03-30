@@ -57,6 +57,10 @@ palavras-chave:
   - "cultura arquitetônica"
   - "espaço urbano"
   - "imaginário urbano"
+keywords:
+  - "architectural culture"
+  - "urban space"
+  - "urban imaginary"
 ---
 
 ## Referências

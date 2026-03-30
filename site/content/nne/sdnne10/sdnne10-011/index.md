@@ -60,6 +60,14 @@ palavras-chave:
   - "cobogós"
   - "tectônica text-tile"
   - "documentação"
+keywords:
+  - "cobogós"
+  - "text-tile tectonic"
+  - "documentation"
+palabras-clave:
+  - "cobogós"
+  - "tectónica text-tile"
+  - "documentación"
 ---
 
 ## Referências

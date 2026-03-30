@@ -51,6 +51,10 @@ palavras-chave:
   - "Estádio"
   - "Arquitetura Moderna"
   - "Teresina"
+keywords:
+  - "Stadium"
+  - "Modern architecture"
+  - "Teresina"
 ---
 
 ## Referências

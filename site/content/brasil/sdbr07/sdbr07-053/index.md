@@ -41,6 +41,8 @@ autores:
   - "Alves, André Augusto de Almeida"
 palavras-chave:
   - "arquitetura escolar;arquitetura moderna;São Paulo"
+keywords:
+  - "school building;modern architecture;São Paulo"
 ---
 
 ## Referências

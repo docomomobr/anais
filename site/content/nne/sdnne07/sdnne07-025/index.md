@@ -64,6 +64,16 @@ palavras-chave:
   - "Projeto Arquitetônico"
   - "Patrimônio"
   - "Preservação"
+keywords:
+  - "Modern Architecture"
+  - "Architectural project"
+  - "Patrimony"
+  - "Preservation"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Proyecto arquitectónico"
+  - "Patrimonio"
+  - "Preservación"
 ---
 
 ## Referências

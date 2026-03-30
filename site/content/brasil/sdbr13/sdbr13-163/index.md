@@ -52,6 +52,11 @@ palavras-chave:
   - "Embaixada da França"
   - "Le Corbusier no"
   - "Brasil"
+keywords:
+  - "Modern Architecture in Brazil"
+  - "Brasília"
+  - "French Embassy"
+  - "Le Corbusier in Brazil"
 ---
 
 ## Referências

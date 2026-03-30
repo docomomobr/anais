@@ -46,6 +46,10 @@ palavras-chave:
   - "Modernidade"
   - "Arquitetura Moderna paulista"
   - "Arquitetura Religiosa"
+keywords:
+  - "Modernity"
+  - "Modern Architecture in São Paulo"
+  - "Religious Architecture"
 ---
 
 ## Referências

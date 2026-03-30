@@ -57,6 +57,14 @@ palavras-chave:
   - "Paisagem Cultural"
   - "Centro"
   - "Boa Vista"
+keywords:
+  - "Paisagem Cultural"
+  - "Centro"
+  - "Boa Vista"
+palabras-clave:
+  - "Paisaje Cultural"
+  - "Centro"
+  - "Boa Vista"
 ---
 
 ## Referências

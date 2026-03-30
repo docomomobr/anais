@@ -58,6 +58,8 @@ palavras-chave:
   - "preservação"
   - "arquitetura moderna"
   - "vila dos operadores de Jaguara"
+keywords:
+  - "preservation, modern architecture, village of the operators Jaguara"
 ---
 
 ## Referências

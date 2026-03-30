@@ -46,6 +46,10 @@ palavras-chave:
   - "Aeroporto Santos Dumont"
   - "Periódicos"
   - "Arquitetura moderna"
+keywords:
+  - "Santos Dumont Airport"
+  - "Periodics"
+  - "Modern architecture"
 ---
 
 ## Referências

@@ -69,6 +69,14 @@ palavras-chave:
   - "Desenho urbano"
   - "Estratégias projetuais"
   - "Cidades capitais"
+keywords:
+  - "Urban design"
+  - "Project strategies"
+  - "Capital cities"
+palabras-clave:
+  - "Diseño urbano"
+  - "Estrategias de proyecto"
+  - "Ciudades capitales"
 ---
 
 ## Referências

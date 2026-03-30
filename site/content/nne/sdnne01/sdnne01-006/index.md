@@ -73,6 +73,10 @@ palavras-chave:
   - "Arquitetura"
   - "Amazônia"
   - "projeto"
+keywords:
+  - "Architecture"
+  - "Amazonia"
+  - "project"
 ---
 
 ## Referências

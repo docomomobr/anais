@@ -48,6 +48,10 @@ palavras-chave:
   - "Carlos Barjas Millan"
   - "Casas unifamiliares"
   - "Brutalismo Paulista"
+keywords:
+  - "Carlos Barjas Millan"
+  - "One-family houses"
+  - "“Brutalismo Paulista” movement"
 ---
 
 ## Referências

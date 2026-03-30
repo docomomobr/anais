@@ -41,6 +41,8 @@ autores:
   - "Neves, Leticia de Oliveira"
 palavras-chave:
   - "Região amazônica. Arquitetura regional"
+keywords:
+  - "Amazonian region. Regional architecture"
 ---
 
 ## Referências

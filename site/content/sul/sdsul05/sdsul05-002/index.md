@@ -42,6 +42,9 @@ autores:
 palavras-chave:
   - "rearquitetura"
   - "concreto aparente"
+keywords:
+  - "rehabilitation"
+  - "exposed concrete"
 ---
 
 ## Referências

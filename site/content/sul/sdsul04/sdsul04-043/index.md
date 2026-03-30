@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura Paulista"
   - "Restaurante Vertical Fasano"
   - "Telésforo Cristófani"
+keywords:
+  - "Paulista Architecture"
+  - "Restaurante Vertical Fasano"
+  - "Telésforo Cristófani"
 ---
 
 ## Referências

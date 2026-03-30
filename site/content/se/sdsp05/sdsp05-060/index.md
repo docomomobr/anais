@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Ambientação de interiores"
   - "Reforma de interiores"
+keywords:
+  - "Modern Architecture"
+  - "Interior design"
+  - "Internal Renovation"
 ---
 
 ## Referências

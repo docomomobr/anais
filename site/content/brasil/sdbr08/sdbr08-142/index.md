@@ -48,6 +48,10 @@ palavras-chave:
   - "Burle Marx"
   - "Arte Pública"
   - "Paisagismo"
+keywords:
+  - "Burle Marx"
+  - "Public Art"
+  - "Landscape"
 ---
 
 ## Referências

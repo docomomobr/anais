@@ -58,6 +58,11 @@ palavras-chave:
   - "Patrimônio edificado"
   - "Pesquisa histórica"
   - "Hotel Internacional Reis Magos"
+keywords:
+  - "Preservation"
+  - "Built heritage"
+  - "Historical research"
+  - "Hotel Internacional Reis Magos"
 ---
 
 ## Referências

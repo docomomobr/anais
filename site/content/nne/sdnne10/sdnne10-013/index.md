@@ -60,6 +60,14 @@ palavras-chave:
   - "Patrimônio moderno"
   - "Azulejaria moderna"
   - "Valorização imobiliária"
+keywords:
+  - "Modern heritage"
+  - "Modern tiles"
+  - "Real estate valuation"
+palabras-clave:
+  - "Patrimonio moderno"
+  - "Azulejos modernos"
+  - "Valoración de inmuebles"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Análise projetual"
   - "Resgate histórico"
+keywords:
+  - "Modern architecture"
+  - "Projetual analysis"
+  - "Historical rescue"
 ---
 
 ## Referências

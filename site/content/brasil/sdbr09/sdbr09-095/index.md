@@ -54,6 +54,12 @@ palavras-chave:
   - "Lucio Costa"
   - "Praça"
   - "Automóvel"
+keywords:
+  - "Campus"
+  - "UnB"
+  - "Lúcio Costa"
+  - "Square"
+  - "Car"
 ---
 
 ## Referências

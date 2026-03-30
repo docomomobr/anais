@@ -59,6 +59,12 @@ palavras-chave:
   - "Modernismo"
   - "Centro cívico"
   - "Curitiba"
+keywords:
+  - "Restoration"
+  - "Palace of Justice"
+  - "Modernism"
+  - "Civic Centre"
+  - "Curitiba"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "ensino"
   - "produção acadêmica"
   - "modernismo"
+keywords:
+  - "education"
+  - "academic production"
+  - "modernism"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Casa de Vidro"
   - "Casa Valéria Cirell"
+keywords:
+  - "Lina Bo Bardi"
+  - "Casa de Vidro"
+  - "Casa Valéria Cirell"
 ---
 
 ## Referências

@@ -56,6 +56,12 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna"
   - "ICEIA"
+keywords:
+  - "Modern Architecture"
+  - "ICEIA"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "ICEIA"
 ---
 
 ## Referências

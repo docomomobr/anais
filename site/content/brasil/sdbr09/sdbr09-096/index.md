@@ -58,6 +58,13 @@ palavras-chave:
   - "Projeto de Arquitetura"
   - "Desenho"
   - "Obra e Educação. Eixo: Documentação do patrimônio recente"
+keywords:
+  - "Architecture Project"
+  - "Building"
+  - "Construction"
+  - "Design"
+  - "Documentation"
+  - "Education"
 ---
 
 ## Referências

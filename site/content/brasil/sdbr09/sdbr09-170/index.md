@@ -50,6 +50,11 @@ palavras-chave:
   - "História da arquitetura"
   - "Historicismo"
   - "Modernidade"
+keywords:
+  - "Archimedes Memória"
+  - "History of Architecture"
+  - "Historicism"
+  - "Modernity"
 ---
 
 ## Referências

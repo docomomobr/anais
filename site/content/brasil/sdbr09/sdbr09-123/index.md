@@ -51,6 +51,11 @@ palavras-chave:
   - "autonomia disciplinar"
   - "arquitetura moderna"
   - "preservação"
+keywords:
+  - "interdisciplinarity"
+  - "disciplinary autonomy"
+  - "modern architecture"
+  - "preservation"
 ---
 
 ## Referências

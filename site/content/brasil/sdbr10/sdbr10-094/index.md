@@ -47,6 +47,10 @@ palavras-chave:
   - "IRB"
   - "ABL"
   - "Arquitetura moderna no Rio de Janeiro"
+keywords:
+  - "IRB"
+  - "ABL"
+  - "Modern architecture in Rio de Janeiro"
 ---
 
 ## Referências

@@ -55,6 +55,10 @@ palavras-chave:
   - "Arquitetura Moderna Cearense"
   - "Construção"
   - "Arquiteto Paulo Cardoso"
+keywords:
+  - "Modern architecture of Ceará"
+  - "Construction"
+  - "Architect Paulo Cardoso"
 ---
 
 ## Referências

@@ -52,6 +52,11 @@ palavras-chave:
   - "ordem do discurso"
   - "genealogia"
   - "hegemonia"
+keywords:
+  - "Historiography of modern architecture"
+  - "order of discourse"
+  - "genealogy"
+  - "hegemony"
 ---
 
 ## Referências

@@ -57,6 +57,14 @@ palavras-chave:
   - "Conservação"
   - "Arquitetura Moderna"
   - "Flexibilidade"
+keywords:
+  - "Conservation"
+  - "Modern architecture"
+  - "Flexibility"
+palabras-clave:
+  - "Conservación"
+  - "Arquitectura moderna"
+  - "Flexibilidad"
 ---
 
 ## Referências

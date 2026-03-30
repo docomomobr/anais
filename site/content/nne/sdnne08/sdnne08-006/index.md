@@ -51,6 +51,13 @@ palavras-chave:
   - "Aracaju"
   - "Verticalização"
   - "Modernismo"
+keywords:
+  - "Aracaju"
+  - "Verticalization, Modernism"
+palabras-clave:
+  - "Aracaju"
+  - "Verticalización"
+  - "Modernismo"
 ---
 
 ## Referências

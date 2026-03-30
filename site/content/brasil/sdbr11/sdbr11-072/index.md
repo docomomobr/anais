@@ -51,6 +51,11 @@ palavras-chave:
   - "Módulo"
   - "Summa"
   - "Tomás Maldonado"
+keywords:
+  - "Ulm School of Design"
+  - "Módulo"
+  - "Summa"
+  - "Tomás Maldonado"
 ---
 
 ## Referências

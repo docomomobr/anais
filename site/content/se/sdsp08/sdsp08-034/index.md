@@ -58,6 +58,14 @@ palavras-chave:
   - "Expo98"
   - "Gare do Oriente"
   - "Parque das Nações"
+keywords:
+  - "Expo98"
+  - "Gare do Oriente"
+  - "Parque das Nações"
+palabras-clave:
+  - "Expo98"
+  - "Gare do Oriente"
+  - "Parque de Las Naciones"
 ---
 
 ## Referências

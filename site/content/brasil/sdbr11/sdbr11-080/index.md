@@ -53,6 +53,11 @@ palavras-chave:
   - "Design de superfície"
   - "Patrimônio moderno"
   - "Geraldino Duda"
+keywords:
+  - "Modern architecture"
+  - "Surface design"
+  - "modern heritage"
+  - "Geraldino Duda"
 ---
 
 ## Referências

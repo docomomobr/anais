@@ -52,6 +52,10 @@ palavras-chave:
   - "Desenvolvimento Urbano e Regional"
   - "Sustentabilidade"
   - "Arquitetura e Urbanismo"
+palabras-clave:
+  - "Desarrollo urbano y regional"
+  - "Sustentabilidad"
+  - "Arquitectura y Urbanismo"
 ---
 
 ## Referências

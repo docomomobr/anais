@@ -43,4 +43,8 @@ palavras-chave:
   - "Breuer"
   - "Binuclear"
   - "ASE"
+keywords:
+  - "Breuer"
+  - "Binuclear"
+  - "SSA"
 ---

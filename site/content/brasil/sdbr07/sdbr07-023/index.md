@@ -47,6 +47,10 @@ palavras-chave:
   - "Tectônica"
   - "Reciclagem"
   - "Arquitetura Moderna"
+keywords:
+  - "Tectonics"
+  - "Recycling"
+  - "Modern Architecture"
 ---
 
 ## Referências

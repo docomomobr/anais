@@ -54,6 +54,9 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "proposta de tombamento"
   - "Fortaleza/Ceará"
+keywords:
+  - "Modern architecture"
+  - "Fortaleza/Ceará"
 ---
 
 ## Referências

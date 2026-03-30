@@ -48,6 +48,10 @@ palavras-chave:
   - "Hélio Duarte"
   - "SENAI"
   - "Arquitetura Escolar"
+keywords:
+  - "Hélio Duarte"
+  - "SENAI"
+  - "School Architecture"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "Albert Kahn"
   - "São Paulo"
   - "Arquitetura moderna industrial"
+keywords:
+  - "Ford Motor Co. plant"
+  - "Albert Kahn"
+  - "São Paulo"
+  - "Modern industrial architecture"
 ---
 
 ## Referências

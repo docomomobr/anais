@@ -62,6 +62,14 @@ palavras-chave:
   - "Habitação coletiva"
   - "Patrimônio"
   - "Conservação"
+keywords:
+  - "Collective housing"
+  - "Heritage"
+  - "Conservation"
+palabras-clave:
+  - "Vivienda colectiva"
+  - "Patrimonio"
+  - "Conservación"
 ---
 
 ## Referências

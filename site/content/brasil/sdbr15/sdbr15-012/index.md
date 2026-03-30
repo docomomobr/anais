@@ -63,6 +63,14 @@ palavras-chave:
   - "Arquitetura e Urbanismo Moderno"
   - "Cidade Verde"
   - "Patrimônio Cultural"
+keywords:
+  - "Keywords: Architecture and Modern Urbanism"
+  - "Green City"
+  - "Cultural Heritage"
+palabras-clave:
+  - "Arquitectura y Urbanismo Moderno"
+  - "Ciudad Verde"
+  - "Patrimonio Cultural"
 ---
 
 ## Referências

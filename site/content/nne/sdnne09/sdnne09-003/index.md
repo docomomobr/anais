@@ -63,6 +63,12 @@ palavras-chave:
   - "período moderno-janarista"
   - "adaptabilidade"
   - "soluções projetuais e bioclimáticas"
+keywords:
+  - "japanese architecture"
+  - "amapaense´s amazon"
+  - "janarist-modernist period"
+  - "adaptability"
+  - "design and bioclimatic solutions"
 ---
 
 ## Referências

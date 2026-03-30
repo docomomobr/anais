@@ -52,6 +52,11 @@ palavras-chave:
   - "arquitetura teatral"
   - "arquitetura paulista"
   - "Escola Paulista"
+keywords:
+  - "Fábio Penteado"
+  - "theatrical architecture"
+  - "architecture of Sao Paulo"
+  - "Sao Paulo School"
 ---
 
 ## Referências

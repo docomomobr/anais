@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Brutalismo"
   - "Caixa Econômica Federal"
+keywords:
+  - "Modern Architecture"
+  - "Brutalism"
+  - "Caixa Econômica Federal"
 ---
 
 ## Referências

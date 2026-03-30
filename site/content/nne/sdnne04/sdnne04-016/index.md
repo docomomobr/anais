@@ -52,6 +52,11 @@ palavras-chave:
   - "cultura técnica"
   - "concreto armado"
   - "Recife e Salvador"
+keywords:
+  - "Christiani & Nielsen"
+  - "technology culture"
+  - "reinforced concrete"
+  - "Recife and Salvador"
 ---
 
 ## Referências

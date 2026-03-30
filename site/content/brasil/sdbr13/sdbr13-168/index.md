@@ -55,6 +55,10 @@ palavras-chave:
   - "Edifício habitacional híbrido"
   - "Edifício de uso misto"
   - "América Latina"
+keywords:
+  - "Hybrid buildings"
+  - "Mixed-use Buildings"
+  - "Latin America"
 ---
 
 ## Referências

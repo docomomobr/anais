@@ -56,6 +56,14 @@ palavras-chave:
   - "Equipes técnicas"
   - "Burocracia"
   - "Funcionalismo"
+keywords:
+  - "Technical teams"
+  - "Bureaucracy"
+  - "Functionalism"
+palabras-clave:
+  - "Equipos técnicos"
+  - "Burocracia"
+  - "Funcionalismo"
 ---
 
 ## Referências

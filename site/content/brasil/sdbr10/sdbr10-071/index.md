@@ -47,6 +47,10 @@ palavras-chave:
   - "João Batista Vilanova Artigas"
   - "Arquitetura Moderna Brasileira"
   - "Brutalismo"
+keywords:
+  - "Batista Vilanova Artigas"
+  - "Brasilian Modern Architecture"
+  - "Brutalism"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "David Léo Bondar"
   - "Rio Grande do Sul"
   - "documentação"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "David Léo Bondar"
+  - "Rio Grande do Sul"
+  - "documentación"
 ---
 
 ## Referências

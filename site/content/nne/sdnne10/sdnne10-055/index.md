@@ -69,6 +69,17 @@ palavras-chave:
   - "Intervenção"
   - "Conservação"
   - "Sérgio Bernardes"
+keywords:
+  - "Modern architecture"
+  - "Furniture"
+  - "Intervention"
+  - "Conservation"
+  - "Sergio Bernardes"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Muebles"
+  - "Intervención"
+  - "Conservación Sergio Bernardes"
 ---
 
 ## Referências

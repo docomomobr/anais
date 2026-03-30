@@ -50,6 +50,11 @@ palavras-chave:
   - "Casa Modernista"
   - "Preservação"
   - "Historiografia"
+keywords:
+  - "Gregori Warchavchik"
+  - "Modernist house"
+  - "Preservation"
+  - "Historiography"
 ---
 
 ## Referências

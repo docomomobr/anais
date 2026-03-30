@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "modernidade"
   - "síntese e integração"
+keywords:
+  - "modernity"
+  - "synthesis and integration"
 ---
 
 ## Referências

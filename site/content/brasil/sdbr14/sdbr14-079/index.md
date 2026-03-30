@@ -55,6 +55,12 @@ palavras-chave:
   - "Brasília"
   - "identidade nacional"
   - "canteiro de obra"
+keywords:
+  - "Modern architecture"
+  - "modernism"
+  - "Brasília"
+  - "nationhood"
+  - "building sites"
 ---
 
 ## Referências

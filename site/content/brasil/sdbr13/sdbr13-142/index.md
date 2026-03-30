@@ -65,6 +65,12 @@ palavras-chave:
   - "Espaços livres"
   - "Apropriação"
   - "Lugar"
+keywords:
+  - "Landscaping"
+  - "Design"
+  - "Free Space"
+  - "Ownership"
+  - "Place"
 ---
 
 ## Referências

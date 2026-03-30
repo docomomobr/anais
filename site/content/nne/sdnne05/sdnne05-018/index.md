@@ -55,6 +55,10 @@ palavras-chave:
   - "Estádios modernistas"
   - "Machadão"
   - "Moacyr Gomes"
+keywords:
+  - "Modernist stadiums"
+  - "Machadão"
+  - "Moacyr Gomes"
 ---
 
 ## Referências

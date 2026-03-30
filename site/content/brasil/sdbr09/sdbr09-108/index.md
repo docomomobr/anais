@@ -53,6 +53,12 @@ palavras-chave:
   - "Rede social"
   - "Conexões"
   - "Percursos profissionais"
+keywords:
+  - "Pilot Plan"
+  - "Multidisciplinary teams"
+  - "Social network"
+  - "Connections"
+  - "Professionals routes"
 ---
 
 ## Referências

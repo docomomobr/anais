@@ -54,6 +54,12 @@ palavras-chave:
   - "Aracaju"
   - "arquitetura sergipana"
   - "Nordeste"
+keywords:
+  - "modern architecture"
+  - "residence"
+  - "Aracaju"
+  - "architecture from Sergipe"
+  - "Brazilian Northeast"
 ---
 
 ## Referências

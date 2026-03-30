@@ -44,6 +44,10 @@ palavras-chave:
   - "Paisagem cultural"
   - "arquitetura moderna"
   - "legislação"
+keywords:
+  - "cultural landscape"
+  - "modern architecture"
+  - "legislation"
 ---
 
 ## Referências

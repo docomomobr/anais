@@ -50,6 +50,10 @@ palavras-chave:
   - "Rino Levi"
   - "móveis-divisórias"
   - "fluidez espacial"
+keywords:
+  - "Rino Levi"
+  - "mobile-divisions"
+  - "spatial fluidity"
 ---
 
 ## Referências

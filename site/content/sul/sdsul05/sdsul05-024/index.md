@@ -44,6 +44,10 @@ palavras-chave:
   - "Construções modernas"
   - "América do Sul"
   - "Arquitetura"
+keywords:
+  - "Modern Buildings"
+  - "South America"
+  - "Architecture"
 ---
 
 ## Referências

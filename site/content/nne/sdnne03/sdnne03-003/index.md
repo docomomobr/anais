@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Arquitetura do Movimento Moderno"
   - "Preservação da Arquitetura"
+keywords:
+  - "Modern Movement Architecture"
+  - "Modern Movement Architecture Conservation"
 ---
 
 ## Referências

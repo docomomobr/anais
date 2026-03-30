@@ -53,6 +53,12 @@ palavras-chave:
   - "patrimônio"
   - "funionalidade"
   - "restauro"
+keywords:
+  - "Oscar Niemeyer"
+  - "healthcare architecture"
+  - "patrimony"
+  - "functionality"
+  - "restoration"
 ---
 
 ## Referências

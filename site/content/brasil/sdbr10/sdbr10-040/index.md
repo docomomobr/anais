@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "modernismo curitibano"
   - "relevos artísticos de concreto"
+keywords:
+  - "Brutalist Architecture"
+  - "Curitiba modernism"
+  - "artistic reliefs concrete"
 ---
 
 ## Referências

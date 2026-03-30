@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "Preservação"
   - "Camillo Porto de Oliveira"
+keywords:
+  - "Preservation"
+  - "Camillo Porto de Oliveira"
 ---
 
 ## Referências

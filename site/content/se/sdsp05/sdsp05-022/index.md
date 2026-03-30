@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Escola Paulista"
   - "Projeto de residências"
+keywords:
+  - "Modern Brazilian Architecture"
+  - "Escola Paulista"
+  - "House design"
 ---
 
 ## Referências

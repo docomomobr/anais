@@ -55,6 +55,12 @@ palavras-chave:
   - "Mapa Arquitetos"
   - "Sede do CREA-Paraíba"
   - "Concursos de Arquitetura"
+keywords:
+  - "Contemporary Architecture"
+  - "Modern Architecture"
+  - "Mapa Architects"
+  - "CREA-Paraíba"
+  - "Architecture Competitions"
 ---
 
 ## Referências

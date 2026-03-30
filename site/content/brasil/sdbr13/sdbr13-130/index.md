@@ -59,6 +59,10 @@ palavras-chave:
   - "Art déco"
   - "Correios"
   - "arquitetura postal"
+keywords:
+  - "Art déco"
+  - "Correios"
+  - "postal architecture"
 ---
 
 ## Referências

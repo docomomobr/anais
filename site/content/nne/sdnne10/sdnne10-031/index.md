@@ -55,6 +55,14 @@ palavras-chave:
   - "modernismo"
   - "igrejas católicas"
   - "arquitetura teresinense"
+keywords:
+  - "modernism"
+  - "catholic churches"
+  - "teresina architecture"
+palabras-clave:
+  - "modernismo"
+  - "iglesias católicas"
+  - "arquitectura teresina"
 ---
 
 ## Referências

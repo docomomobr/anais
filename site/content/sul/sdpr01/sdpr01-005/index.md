@@ -47,6 +47,11 @@ palavras-chave:
   - "art déco"
   - "história"
   - "patrimônio arquitetônico"
+keywords:
+  - "modernism"
+  - "art déco"
+  - "history"
+  - "architectural heritage"
 ---
 
 ## Referências

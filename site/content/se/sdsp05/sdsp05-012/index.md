@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura genero"
   - "arquitetura industrial"
   - "arquitetura imigracao"
+keywords:
+  - "architecture and gender"
+  - "industrial architecture"
+  - "architecture and immigration"
 ---
 
 ## Referências

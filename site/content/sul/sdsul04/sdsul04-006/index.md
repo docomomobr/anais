@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura industrial"
   - "tijolos aparentes"
   - "MAESA-Eberle"
+keywords:
+  - "industrial architecture"
+  - "brick"
+  - "MAESA-Eberle"
 ---
 
 ## Referências

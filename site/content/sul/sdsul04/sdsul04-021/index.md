@@ -47,6 +47,10 @@ palavras-chave:
   - "Casa em Jean Mermoz"
   - "Escola de Valparaíso"
   - "processo construtivo"
+keywords:
+  - "House on Jean Mermoz"
+  - "Valparaiso School"
+  - "building process"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Identidade"
   - "Modernizador"
   - "Agente privado"
+keywords:
+  - "Identity"
+  - "Modernizer"
+  - "Private agent"
 ---
 
 ## Referências

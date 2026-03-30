@@ -46,6 +46,10 @@ palavras-chave:
   - "arquitetura moderna (PB)"
   - "residências"
   - "pré-fabricação"
+keywords:
+  - "modern architecture"
+  - "houses"
+  - "prefabrication"
 ---
 
 ## Referências

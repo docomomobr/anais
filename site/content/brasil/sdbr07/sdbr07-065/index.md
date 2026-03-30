@@ -49,6 +49,10 @@ palavras-chave:
   - "centro histórico"
   - "requalifcação"
   - "residência"
+keywords:
+  - "historical downtown area"
+  - "requalification"
+  - "residence"
 ---
 
 ## Referências

@@ -57,6 +57,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "casas binucleares"
   - "João Pessoa"
+keywords:
+  - "modern architecture"
+  - "binuclear houses"
+  - "João Pessoa"
 ---
 
 ## Referências

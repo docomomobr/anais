@@ -41,4 +41,6 @@ autores:
   - "Galbinski, José"
 palavras-chave:
   - "Função social;Plano Diretor;Propriedade;Conceito"
+keywords:
+  - "Social function;Master Plan;Property;Concept"
 ---

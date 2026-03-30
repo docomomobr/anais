@@ -47,6 +47,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Francisco Brennand"
   - "Casa de Cultura de Pernambuco"
+keywords:
+  - "Lina Bo Bardi"
+  - "Francisco Brennand"
+  - "Casa de Cultura de Pernambuco"
 ---
 
 ## Referências

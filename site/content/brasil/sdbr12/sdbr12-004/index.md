@@ -48,6 +48,10 @@ palavras-chave:
   - "História da Arquitetura"
   - "Arquitetura Moderna"
   - "Sorocaba (SP)"
+keywords:
+  - "History of Architecture"
+  - "Modern Architecture"
+  - "Sorocaba (SP)"
 ---
 
 ## Referências

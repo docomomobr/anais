@@ -59,6 +59,13 @@ palavras-chave:
   - "Art-déco"
   - "Paisagem urbana"
   - "Historiografia"
+keywords:
+  - "Art-deco"
+  - "Urban landscape, Historiography"
+palabras-clave:
+  - "Art-deco"
+  - "Paisaje urbano"
+  - "Historiografía"
 ---
 
 ## Referências

@@ -45,6 +45,10 @@ palavras-chave:
   - "patrimônio moderno"
   - "Pedregulho"
   - "habitação moderna"
+keywords:
+  - "modern heritage"
+  - "Gravel"
+  - "modern housing"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "modernismo"
   - "memórias  crepusculares"
   - "campo  expandido"
+keywords:
+  - "Image"
+  - "modernism"
+  - "twilight  memories"
+  - "expanded  field"
 ---
 
 ## Referências

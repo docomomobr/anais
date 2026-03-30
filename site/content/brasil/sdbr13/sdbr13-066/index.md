@@ -51,6 +51,11 @@ palavras-chave:
   - "Obelisco do Ibirapuera"
   - "Restauro"
   - "da Arquitetura Moderna"
+keywords:
+  - "Monument for Constitutionalist Soldiers of 1935"
+  - "Ibirapuera Obelisk"
+  - "Restorations of"
+  - "modernist architecture"
 ---
 
 ## Referências

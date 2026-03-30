@@ -53,6 +53,11 @@ palavras-chave:
   - "metodologia"
   - "preservação"
   - "patrimônio"
+keywords:
+  - "inventories"
+  - "methodology"
+  - "preservation"
+  - "patrimony buildings"
 ---
 
 ## Referências

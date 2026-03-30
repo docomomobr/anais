@@ -49,4 +49,8 @@ palavras-chave:
   - "Casa em Jean Mermoz"
   - "Brutalismo interior"
   - "Arquitetura Moderna Chilena"
+keywords:
+  - "House on Jean Mermoz"
+  - "Interior Brutalism"
+  - "Chilean Modern Architecture"
 ---

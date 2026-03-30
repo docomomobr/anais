@@ -48,6 +48,9 @@ palavras-chave:
   - "Joaquim Guedes"
   - "Brasília"
   - "Cidades Novas"
+keywords:
+  - "Brasília"
+  - "New Towns"
 ---
 
 ## Referências

@@ -55,6 +55,12 @@ palavras-chave:
   - "casa brasileira"
   - "projeto"
   - "Porto Alegre"
+keywords:
+  - "modern architecture"
+  - "residence"
+  - "brazilian house"
+  - "architecture design"
+  - "Porto Alegre"
 ---
 
 ## Referências

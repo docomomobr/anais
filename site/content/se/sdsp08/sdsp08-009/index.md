@@ -60,6 +60,14 @@ palavras-chave:
   - "Plataforma digital"
   - "Acervos"
   - "FAUUSP"
+keywords:
+  - "Digital platform"
+  - "Collections"
+  - "FAUUSP"
+palabras-clave:
+  - "Plataforma digital"
+  - "Colecciones"
+  - "FAUUSP"
 ---
 
 ## Referências

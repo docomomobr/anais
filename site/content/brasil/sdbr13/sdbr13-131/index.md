@@ -66,6 +66,11 @@ palavras-chave:
   - "Educação Patrimonial"
   - "Arquitetura Moderna"
   - "Hotel Palace"
+keywords:
+  - "Documentary"
+  - "Heritage Education"
+  - "Modern Architecture"
+  - "Hotel Palace"
 ---
 
 ## Referências

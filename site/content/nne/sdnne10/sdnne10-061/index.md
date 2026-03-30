@@ -60,6 +60,14 @@ palavras-chave:
   - "Arquitetura da saúde no Amapá"
   - "Oswaldo Bratke na Amazônia"
   - "Arquitetura Moderna no Amapá"
+keywords:
+  - "Health architecture in Amapá"
+  - "Oswaldo Bratke in Amazonia"
+  - "Modern architecture in Amapá"
+palabras-clave:
+  - "Arquitectura sanitaria en Amapá"
+  - "Oswaldo Bratke en el Amazonas"
+  - "Arquitectura Moderna en Amapá"
 ---
 
 ## Referências

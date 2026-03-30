@@ -69,6 +69,14 @@ palavras-chave:
   - "Historiografia"
   - "Preservação"
   - "Patrimônio moderno"
+keywords:
+  - "Historiography"
+  - "Preservation"
+  - "Modern heritage"
+palabras-clave:
+  - "Belém"
+  - "Preservación"
+  - "Patrimonio Moderno"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "Modernidade e Tradição"
   - "Casas Modernas"
   - "Escola Carioca"
+keywords:
+  - "Modernity e Tradition"
+  - "Modern Houses"
+  - "Cariocan School"
 ---
 
 ## Referências

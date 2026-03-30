@@ -56,6 +56,11 @@ palavras-chave:
   - "arquitetura em madeira"
   - "Brasília"
   - "Catetinho"
+keywords:
+  - "preservation of modern heritage"
+  - "timber architecture"
+  - "Brasilia"
+  - "Catetinho"
 ---
 
 ## Referências

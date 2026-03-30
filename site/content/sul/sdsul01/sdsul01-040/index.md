@@ -60,6 +60,10 @@ palavras-chave:
   - "Modernismo"
   - "Santa Maria"
   - "edifícios administrativos"
+keywords:
+  - "Modernism"
+  - "Santa Maria"
+  - "administrative building"
 ---
 
 ## Referências

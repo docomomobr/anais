@@ -48,6 +48,12 @@ palavras-chave:
   - "Concreto Armado"
   - "MASP"
   - "FAUUSP"
+keywords:
+  - "Concreto Armado"
+  - "MASP"
+  - "FAUUSP / Reinforced Concrete"
+  - "MASP"
+  - "FAUUSP"
 ---
 
 ## Referências

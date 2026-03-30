@@ -64,6 +64,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Manifestações Patológicas"
   - "Pacometria"
+keywords:
+  - "Modern Architecture"
+  - "Pathological Manifestations"
+  - "Pacometry"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Manifestaciones Patológicas"
+  - "Paquimetría"
 ---
 
 ## Referências

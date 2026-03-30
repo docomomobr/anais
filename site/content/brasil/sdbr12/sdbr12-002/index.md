@@ -52,6 +52,10 @@ palavras-chave:
   - "Mies van der Rohe no Brasil"
   - "Consulado dos Estados Unidos em São Paulo"
   - "período pós-Brasília"
+keywords:
+  - "Mies van der Rohe in Brazil"
+  - "US Consulate in São Paulo"
+  - "period after Brasilia"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "patrimônio"
   - "tombamentos"
+keywords:
+  - "modern architecture"
+  - "heritage"
+  - "preservation"
 ---
 
 ## Referências

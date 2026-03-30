@@ -49,6 +49,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "patrimônio Key words: Lucio Costa"
   - "patrimony"
+keywords:
+  - "Lucio Costa"
+  - "Lina Bo Bardi"
+  - "patrimony"
 ---
 
 ## Referências

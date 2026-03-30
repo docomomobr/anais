@@ -80,6 +80,19 @@ palavras-chave:
   - "Zona Típica"
   - "Procesos de patrimonialización"
   - "Valores Patrimoniales"
+keywords:
+  - "Neighborhood Units"
+  - "Modern Heritage"
+  - "Typical Zone"
+  - "Patrimonialization Processes"
+  - "Heritage Values"
+palabras-clave:
+  - "Unidades Vecinales"
+  - "Patrimonio Moderno"
+  - "Zona Típica"
+  - "Procesos de"
+  - "patrimonialización"
+  - "Valores Patrimoniales"
 ---
 
 ## Referências

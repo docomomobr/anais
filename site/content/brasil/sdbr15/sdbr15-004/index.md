@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura brasileira"
   - "Mural"
   - "Reverberação"
+keywords:
+  - "Brazilian Architecture"
+  - "Mural"
+  - "Reverberation"
+palabras-clave:
+  - "Arquitectura brasileña"
+  - "Mural"
+  - "Reverberación"
 ---
 
 ## Referências

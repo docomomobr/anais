@@ -60,6 +60,16 @@ palavras-chave:
   - "interiores"
   - "pernambuco"
   - "gênero"
+keywords:
+  - "furniture"
+  - "interiors"
+  - "pernambuco"
+  - "Gender"
+palabras-clave:
+  - "mobiliário"
+  - "interiores"
+  - "pernambuco"
+  - "género"
 ---
 
 ## Referências

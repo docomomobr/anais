@@ -51,6 +51,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Celso Furtado"
   - "Escola de Desenho Industrial e Artesanato"
+keywords:
+  - "Lina Bo Bardi"
+  - "Celso Furtado"
+  - "School of Industrial Design and Crafts"
 ---
 
 ## Referências

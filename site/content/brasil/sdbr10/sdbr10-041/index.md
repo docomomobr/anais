@@ -49,6 +49,10 @@ palavras-chave:
   - "Brutalism"
   - "Distant readings"
   - "Mid-20th century modern architecture"
+keywords:
+  - "Brutalism"
+  - "Distant readings"
+  - "Mid-20th century modern architecture"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Historiografia"
   - "Difusão"
+keywords:
+  - "Brazilian modern architecture"
+  - "Historiography"
+  - "Diffusion"
 ---
 
 ## Referências

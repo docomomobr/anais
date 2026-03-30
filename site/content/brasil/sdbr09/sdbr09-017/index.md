@@ -57,6 +57,12 @@ palavras-chave:
   - "fotografia"
   - "Brasil"
   - "Moçambique"
+keywords:
+  - "Modern architecture"
+  - "history"
+  - "photography"
+  - "Brazil"
+  - "Mozambique"
 ---
 
 ## Referências

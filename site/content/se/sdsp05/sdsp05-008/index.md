@@ -53,6 +53,12 @@ palavras-chave:
   - "Feminismo"
   - "Antropofagia"
   - "Tropicália"
+keywords:
+  - "Lina Bo Bardi"
+  - "Gender studies"
+  - "Feminism"
+  - "Anthropophagy"
+  - "Tropicália"
 ---
 
 ## Referências

@@ -51,6 +51,12 @@ autores:
 palavras-chave:
   - "Brutalismo"
   - "Identidad"
+keywords:
+  - "Brutalism"
+  - "Identity"
+palabras-clave:
+  - "Brutalismo"
+  - "Identidad"
 ---
 
 ## Referências

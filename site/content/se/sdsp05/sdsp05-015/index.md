@@ -46,6 +46,10 @@ palavras-chave:
   - "Móvel fixo"
   - "Casa Tomie Ohtake"
   - "Arquitetura moderna paulista"
+keywords:
+  - "Fixed furniture"
+  - "Tomie Ohtake’s house"
+  - "Paulista modern archtecture"
 ---
 
 ## Referências

@@ -80,6 +80,19 @@ palavras-chave:
   - "Transformación urbana"
   - "Josep Lluis Sert"
   - "Barcelona"
+keywords:
+  - "Modern Movement"
+  - "Josep Lluis Sert"
+  - "Barcelona"
+  - "Restoration"
+  - "Urban Rehabilitation"
+palabras-clave:
+  - "Movimiento Moderno"
+  - "Transformación urbana"
+  - "Josep Lluis Sert"
+  - "Barcelona"
+  - "Restauración del patrimonio"
+  - "moderno"
 ---
 
 ## Referências

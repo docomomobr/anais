@@ -56,6 +56,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Vernacular"
   - "Maranhão"
+keywords:
+  - "Modern Architecture"
+  - "Vernacular"
+  - "Maranhão"
 ---
 
 ## Referências

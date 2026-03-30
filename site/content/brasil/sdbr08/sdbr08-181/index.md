@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna – São Paulo, SP, Brasil"
   - "Candia, Salvador"
   - "Gasperini, Gian Carlo"
+keywords:
+  - "Modern Architecture – São Paulo, SP, Brazil"
+  - "Candia, Salvador"
+  - "Gasperini, Gian Carlo"
 ---
 
 ## Referências

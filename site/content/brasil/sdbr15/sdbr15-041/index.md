@@ -62,6 +62,14 @@ palavras-chave:
   - "Paisagem"
   - "Cidades capitais"
   - "Ancara"
+keywords:
+  - "Landscape"
+  - "Capital cities"
+  - "Ankara"
+palabras-clave:
+  - "Paisaje"
+  - "Ciudades capitales"
+  - "Ankara"
 ---
 
 ## Referências

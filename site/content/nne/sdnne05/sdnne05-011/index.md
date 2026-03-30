@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "Arquitetura moderna nordestina"
   - "Revistas especializadas"
+keywords:
+  - "Modern Architecture"
+  - "Northeast Modern Architecture"
+  - "Specialized magazines"
 ---
 
 ## Referências

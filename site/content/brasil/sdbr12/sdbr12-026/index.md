@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "edifício de apartamentos duplex, apartamentos de luxo"
   - "Praia do Flamengo"
+keywords:
+  - "Duplex apartment building, luxury apartments"
+  - "Flamengo Beach"
 ---
 
 ## Referências

@@ -63,6 +63,16 @@ palavras-chave:
   - "modernidade"
   - "Belém"
   - "Amazônia"
+keywords:
+  - "Vilas"
+  - "Modernity"
+  - "Belém"
+  - "Amazon"
+palabras-clave:
+  - "Vilas"
+  - "Modernidad"
+  - "Belém"
+  - "Amazonia"
 ---
 
 ## Referências

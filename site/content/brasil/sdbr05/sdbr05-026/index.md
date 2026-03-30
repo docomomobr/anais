@@ -52,6 +52,11 @@ palavras-chave:
   - "arquitetura e urbanismo moderno"
   - "centro histórico"
   - "patrimônio cultural"
+keywords:
+  - "Brasília"
+  - "modern architecture and city’s planning"
+  - "historical center"
+  - "cultural heritage"
 ---
 
 ## Referências

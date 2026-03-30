@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Uberaba"
   - "Triângulo Mineiro"
+keywords:
+  - "Modern Architecture"
+  - "Uberaba"
+  - "Mineiro Triangle"
 ---
 
 ## Referências

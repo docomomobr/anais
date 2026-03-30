@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura moderna (PB)"
   - "Difusão"
   - "Jornais"
+keywords:
+  - "Modern Architecture (PB)"
+  - "Diffusion"
+  - "Journals"
 ---
 
 ## Referências

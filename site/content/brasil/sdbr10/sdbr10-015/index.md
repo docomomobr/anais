@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "Fortaleza"
   - "Fausto Nilo e Delberg Ponde de Leon"
+keywords:
+  - "brutalism architecture"
+  - "Fortaleza"
+  - "Fausto Nilo e Delberg Ponde de Leon"
 ---
 
 ## Referências

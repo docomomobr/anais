@@ -51,6 +51,10 @@ palavras-chave:
   - "Brutalismo"
   - "Centro Municipal de Cultura"
   - "tijolo aparente"
+keywords:
+  - "Brutalism"
+  - "Municipal Cultural Centre"
+  - "Apparent Brick"
 ---
 
 ## Referências

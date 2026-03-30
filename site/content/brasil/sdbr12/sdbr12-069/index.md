@@ -51,6 +51,10 @@ palavras-chave:
   - "Allegro Piano Bar"
   - "Grande Hotel de Ouro Preto"
   - "Horto dos Contos"
+keywords:
+  - "Allegro Piano Bar"
+  - "Grande Hotel de Ouro Preto"
+  - "Horto dos Contos"
 ---
 
 ## Referências

@@ -48,6 +48,11 @@ palavras-chave:
   - "Modernismo"
   - "Modernismo italiano"
   - "Pensamento moderno"
+keywords:
+  - "Lina Bo Bardi"
+  - "Modernism"
+  - "Italian modernism"
+  - "Modern thought"
 ---
 
 ## Referências

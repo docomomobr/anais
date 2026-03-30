@@ -47,6 +47,10 @@ palavras-chave:
   - "Habitação Social"
   - "Espaços de transição"
   - "Jardim Ângela"
+keywords:
+  - "Social housing"
+  - "Transition zones"
+  - "Jardim Ângela"
 ---
 
 ## Referências

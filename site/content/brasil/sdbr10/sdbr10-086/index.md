@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "Acácio Gil Borsoi"
   - "Teresina-Piauí"
+keywords:
+  - "brutalis architecture"
+  - "Acácio Gil Borsoi"
+  - "Teresina-Piauí"
 ---
 
 ## Referências

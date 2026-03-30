@@ -52,6 +52,10 @@ palavras-chave:
   - "concreto pré-moldado"
   - "Arquitetura Brutalista"
   - "universidade de brasília"
+keywords:
+  - "precast concrete"
+  - "Brutalist Architecture"
+  - "university of brasilia"
 ---
 
 ## Referências

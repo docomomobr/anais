@@ -49,6 +49,10 @@ palavras-chave:
   - "Francisco Bologna"
   - "Arquitetura Moderna"
   - "Mosteiro"
+keywords:
+  - "Francisco Bologna"
+  - "Modern Architecture"
+  - "Monastery"
 ---
 
 ## Referências

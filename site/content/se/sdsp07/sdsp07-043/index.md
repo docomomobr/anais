@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Conpresp"
   - "Patrimônio cultural"
+keywords:
+  - "Modern Architecture"
+  - "Conpresp"
+  - "Cultural heritage"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Conpresp"
+  - "Patrimonio cultural"
 ---
 
 ## Referências

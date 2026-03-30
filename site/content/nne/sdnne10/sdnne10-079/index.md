@@ -56,6 +56,14 @@ palavras-chave:
   - "art déco"
   - "movimento progressista"
   - "arquitetura moderna"
+keywords:
+  - "art déco"
+  - "progressive movement"
+  - "modern architecture"
+palabras-clave:
+  - "art déco"
+  - "movimiento progresista"
+  - "arquitectura moderna"
 ---
 
 ## Referências

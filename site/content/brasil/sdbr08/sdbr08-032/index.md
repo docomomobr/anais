@@ -29,9 +29,9 @@ keywords:
   - "Rio de Janeiro"
   - "Conservação"
 keywords_en:
-  - "Arquitetura Moderna"
-  - "Rio de Janeiro"
-  - "Conservação"
+  - "Modern Architecture"
+  - "Rio de Janeiro City"
+  - "Conservation"
 authors:
   - givenname: "Claudio Antonio Santos Lima"
     familyname: "Carlos"
@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Rio de Janeiro"
   - "Conservação"
+keywords:
+  - "Modern Architecture"
+  - "Rio de Janeiro City"
+  - "Conservation"
 ---
 
 ## Referências

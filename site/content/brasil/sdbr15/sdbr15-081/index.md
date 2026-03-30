@@ -59,6 +59,14 @@ palavras-chave:
   - "Natureza"
   - "Ambientalismo"
   - "Rino Levi"
+keywords:
+  - "Nature"
+  - "Environmentalism"
+  - "Rino Levi"
+palabras-clave:
+  - "Naturaleza"
+  - "Ambientalismo"
+  - "Rino Levi"
 ---
 
 ## Referências

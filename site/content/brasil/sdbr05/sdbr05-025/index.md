@@ -49,6 +49,10 @@ palavras-chave:
   - "IV Centenário"
   - "casa bandeirista"
   - "identidade paulista"
+keywords:
+  - "Luiz Saia"
+  - "IV Centennial of São Paulo"
+  - "regional identity"
 ---
 
 ## Referências

@@ -63,6 +63,14 @@ palavras-chave:
   - "PAGE"
   - "Secretaria da Agricultura"
   - "Arquitetura Paulista"
+keywords:
+  - "PAGE"
+  - "Secretariat of Agriculture"
+  - "São Paulo Architecture"
+palabras-clave:
+  - "PAGE"
+  - "Secretaría de Agricultura"
+  - "Arquitectura Paulista"
 ---
 
 ## Referências

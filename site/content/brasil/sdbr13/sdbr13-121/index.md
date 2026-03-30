@@ -53,6 +53,10 @@ palavras-chave:
   - "Flávio de Carvalho"
   - "Jornalismo Cultural"
   - "Imprensa Brasileira"
+keywords:
+  - "Flávio de Carvalho"
+  - "Cultural Journalism"
+  - "Brazilian Journalism"
 ---
 
 ## Referências

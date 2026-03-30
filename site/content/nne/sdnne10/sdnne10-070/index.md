@@ -63,6 +63,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Desastre socioambiental"
   - "Patrimônio edificado"
+keywords:
+  - "Modern architecture"
+  - "Socio Environmental disaster"
+  - "Built heritage"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Desastre socioambiental"
+  - "Patrimonio edificado"
 ---
 
 ## Referências

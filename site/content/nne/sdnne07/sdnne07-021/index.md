@@ -72,6 +72,16 @@ palavras-chave:
   - "desempenho térmico"
   - "edifícios verticais"
   - "Fortaleza"
+keywords:
+  - "Modernist architecture"
+  - "Thermal performance"
+  - "Vertical buildings"
+  - "Fortaleza"
+palabras-clave:
+  - "Arquitectura modernista"
+  - "comportamiento térmico"
+  - "edificios verticales"
+  - "Fortaleza"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "Hospital de Clínicas Porto Alegre"
   - "Jorge Machado Moreira"
   - "intervenção em preexistência"
+keywords:
+  - "Hospital de Clínicas Porto Alegre"
+  - "Jorge Machado Moreira"
+  - "intervención en preexistencia"
 ---
 
 ## Referências

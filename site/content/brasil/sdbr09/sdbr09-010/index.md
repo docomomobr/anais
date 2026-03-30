@@ -53,4 +53,12 @@ palavras-chave:
   - "Arquitetura moderna"
   - "obras públicas"
   - "Catálogo"
+keywords:
+  - "Modern architecture"
+  - "public works"
+  - "Catalog"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "obra pública"
+  - "catálogo"
 ---

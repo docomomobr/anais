@@ -52,6 +52,14 @@ palavras-chave:
   - "Arquitetura moderna em Curitiba"
   - "Casa do Arquiteto"
   - "Maria Nadir de Carvalho"
+keywords:
+  - "Modern architecture in Curitiba"
+  - "Architect’s house"
+  - "Maria Nadir de Carvalho"
+palabras-clave:
+  - "Arquitectura moderna en Curitiba"
+  - "Casa del Arquitecto"
+  - "Maria Nadir de Carvalho"
 ---
 
 ## Referências

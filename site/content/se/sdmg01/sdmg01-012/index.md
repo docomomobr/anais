@@ -36,6 +36,9 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Portes, Raquel von Randow"
   - "Azevedo, Marlice Nazareth Soares de"
+keywords:
+  - "Modern Movement"
+  - "Cultural Patrimony and Juiz de Fora"
 ---
 
 ## Referências

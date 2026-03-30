@@ -58,6 +58,12 @@ palavras-chave:
   - "Fortaleza"
   - "Preservação"
   - "Memória"
+keywords:
+  - "Acácio Gil Borsoi"
+  - "Modern Architecture"
+  - "Fortaleza"
+  - "Preservation"
+  - "Memory"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "Brutalismo"
   - "Assis Reis"
   - "Arquitetura"
+keywords:
+  - "Brutalism"
+  - "Assis Reis"
+  - "Architecture"
 ---
 
 ## Referências

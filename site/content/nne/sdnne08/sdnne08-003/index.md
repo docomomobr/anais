@@ -69,6 +69,18 @@ palavras-chave:
   - "patrimônio industrial"
   - "construção"
   - "modernidade"
+keywords:
+  - "city"
+  - "architecture"
+  - "industrial heritage"
+  - "construction"
+  - "modernity"
+palabras-clave:
+  - "ciudad"
+  - "arquitectura"
+  - "patrimonio industrial"
+  - "construcción"
+  - "modernidad"
 ---
 
 ## Referências

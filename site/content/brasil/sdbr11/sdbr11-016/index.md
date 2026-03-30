@@ -51,6 +51,10 @@ palavras-chave:
   - "Síntese das Artes"
   - "Arquitetura Moderna"
   - "Fortaleza"
+keywords:
+  - "Synthesis of Arts"
+  - "Modern Architecture"
+  - "Fortaleza (Ceará-Brazil)"
 ---
 
 ## Referências

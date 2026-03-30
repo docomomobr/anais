@@ -47,6 +47,10 @@ palavras-chave:
   - "Affonso Eduardo Reidy"
   - "Brutalismo"
   - "São Paulo"
+keywords:
+  - "Affonso Eduardo Reidy"
+  - "Brutalism"
+  - "São Paulo"
 ---
 
 ## Referências

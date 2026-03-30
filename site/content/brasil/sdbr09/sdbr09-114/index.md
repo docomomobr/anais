@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Redesenho"
   - "Espaço Urbano"
+keywords:
+  - "Modern Architecture"
+  - "Redraw"
+  - "Urban Space"
 ---
 
 ## Referências

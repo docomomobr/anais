@@ -60,6 +60,11 @@ palavras-chave:
   - "Reconstrução"
   - "Pavilhão Alemão"
   - "Campanário de Veneza"
+keywords:
+  - "Urban Anasthylosis"
+  - "Reconstruction"
+  - "German Pavilion"
+  - "Campanile in Venice"
 ---
 
 ## Referências

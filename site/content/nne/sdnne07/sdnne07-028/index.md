@@ -70,6 +70,16 @@ palavras-chave:
   - "Patrimônio Arquitetônico"
   - "Preservação"
   - "Materialidade, Superfície Pétrea"
+keywords:
+  - "Modern Architecture"
+  - "Architectural Patrimony"
+  - "Preservation"
+  - "Materiality, Stone Surface"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Patrimonio Arquitectónico"
+  - "Conservación"
+  - "Materialidad, Superficie pétrea"
 ---
 
 ## Referências

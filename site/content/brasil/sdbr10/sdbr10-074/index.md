@@ -49,6 +49,10 @@ palavras-chave:
   - "Patrimônio cultural"
   - "restauração"
   - "arquiteto Lina Bo Bardi"
+keywords:
+  - "cultural heritage"
+  - "restoration"
+  - "architect Lina Bo Bardi"
 ---
 
 ## Referências

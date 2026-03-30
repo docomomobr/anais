@@ -53,4 +53,9 @@ palavras-chave:
   - "brutalismo"
   - "arquitetura paulista"
   - "identidade cultural"
+keywords:
+  - "Brazilian architecture"
+  - "brutalism"
+  - "Paulista architecture"
+  - "cultural identity"
 ---

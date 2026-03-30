@@ -47,6 +47,10 @@ palavras-chave:
   - "Centro Histórico"
   - "Decadência"
   - "Requalificação"
+keywords:
+  - "Historical Centre"
+  - "Decay"
+  - "Rehabilitation"
 ---
 
 ## Referências

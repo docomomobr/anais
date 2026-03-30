@@ -55,6 +55,10 @@ palavras-chave:
   - "Praias"
   - "Arquitetura Moderna"
   - "Transformações urbanas"
+keywords:
+  - "Beaches"
+  - "Modern Architecture"
+  - "Urban transformations"
 ---
 
 ## Referências

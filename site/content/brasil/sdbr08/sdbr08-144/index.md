@@ -30,7 +30,9 @@ keywords:
 abstract_en: |
   This article is about the survey of the urbanísticos projects elaborated after the destruction of the Mount of Santo Antônio, in the Center of the city of Rio de Janeiro. These projects had been published during three decades, of intercalated form, being that of the three what more determines the road structure of the esplanade it is the Affonso Eduardo Reidy’s modernist proposal, even so in constructive terms, the reality, decades later, have been completely different. This article searchs to understand reasons of so great alterations, concluding to deal with proposal that could have done feseable when Rio de Janeiro was capital of the Brazilian Republic, but loses consistency in the period where the city loses this condition.
 keywords_en:
-  - "Esplanada – Urbanismo – Reidy"
+  - "Esplanade"
+  - "Urbanism"
+  - "Reidy"
 authors:
   - givenname: "Carlos Fernando de Souza Leão"
     familyname: "Andrade"
@@ -43,6 +45,10 @@ autores:
 palavras-chave:
   - "Esplanada"
   - "Urbanismo"
+  - "Reidy"
+keywords:
+  - "Esplanade"
+  - "Urbanism"
   - "Reidy"
 ---
 

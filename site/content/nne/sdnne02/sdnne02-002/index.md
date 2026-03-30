@@ -85,6 +85,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "arquitetura em Recife"
   - "projetos modernos"
+keywords:
+  - "modern architecture"
+  - "architecture in Recife"
+  - "modern designs"
 ---
 
 ## Referências

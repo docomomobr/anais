@@ -50,6 +50,11 @@ palavras-chave:
   - "planejamento urbano"
   - "desenho urbano"
   - "mosaico morfológico"
+keywords:
+  - "Brasilia"
+  - "urban planning"
+  - "urban design"
+  - "morphological mosaic"
 ---
 
 ## Referências

@@ -69,6 +69,12 @@ palavras-chave:
   - "Goiânia"
   - "Cidade e Memória"
   - "Documentação e Preservação"
+keywords:
+  - "History of Architecture and City"
+  - "Modern Architecture"
+  - "Goiânia"
+  - "City and Memory"
+  - "Documentation and Preservation"
 ---
 
 ## Referências

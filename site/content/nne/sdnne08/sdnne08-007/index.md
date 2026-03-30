@@ -60,6 +60,16 @@ palavras-chave:
   - "cidade nova"
   - "urbanismo moderno"
   - "projeto urbano"
+keywords:
+  - "Palmas"
+  - "new city"
+  - "modern urbanism"
+  - "urban project"
+palabras-clave:
+  - "Palmas"
+  - "ciudad nueva"
+  - "urbanismo moderno"
+  - "proyecto urbano"
 ---
 
 ## Referências

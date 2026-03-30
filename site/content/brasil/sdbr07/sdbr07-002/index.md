@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna em Salvador"
   - "reciclagem arquitetônica"
+keywords:
+  - "modern architecture in Salvador"
+  - "architectural recycling"
 ---
 
 ## Referências

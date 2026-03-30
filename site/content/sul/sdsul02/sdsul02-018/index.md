@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "concessionárias"
   - "Caxias do Sul"
+keywords:
+  - "Modern Architecture"
+  - "car dealerships"
+  - "Caxias do Sul"
 ---
 
 ## Referências

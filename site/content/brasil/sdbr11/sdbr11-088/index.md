@@ -48,6 +48,11 @@ palavras-chave:
   - "Modernismo"
   - "Ecletismo"
   - "Questionário"
+keywords:
+  - "Architecture"
+  - "Modernism"
+  - "Eclecticism"
+  - "Quiz"
 ---
 
 ## Referências

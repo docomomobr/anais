@@ -68,6 +68,18 @@ palavras-chave:
   - "habitação social"
   - "arquitetura moderna"
   - "São Luís"
+keywords:
+  - "IAPs"
+  - "Casa Popular Foundation"
+  - "social habitation"
+  - "modern architecture"
+  - "São Luís"
+palabras-clave:
+  - "IAPs"
+  - "Fundación de Casa Popular"
+  - "habitación social"
+  - "arquitectura moderna"
+  - "São Luís"
 ---
 
 ## Referências

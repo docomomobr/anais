@@ -64,6 +64,18 @@ palavras-chave:
   - "patrimônio moderno"
   - "patrimônio inteligente"
   - "preservação patrimonial"
+keywords:
+  - "documentation"
+  - "heritage"
+  - "modern heritage"
+  - "intelligent heritage"
+  - "heritage preservation"
+palabras-clave:
+  - "documentación"
+  - "patrimonio"
+  - "patrimonio moderno"
+  - "patrimonio inteligente"
+  - "conservación del patrimonio"
 ---
 
 ## Referências

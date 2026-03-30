@@ -47,6 +47,9 @@ palavras-chave:
   - "Plano urbanístico, Paulo Mendes da Rocha, Arquitetura brasileira"
   - "cidade/natureza"
   - "memória"
+keywords:
+  - "Urban Plan, Paulo Mendes da Rocha, Brazilian Architecture"
+  - "nature/city, memory"
 ---
 
 ## Referências

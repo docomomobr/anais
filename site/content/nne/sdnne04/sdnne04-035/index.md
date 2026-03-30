@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Arquitetura Contemporânea"
   - "Arquitetura e lugar"
+keywords:
+  - "Modern Architecture"
+  - "Contemporary Architecture"
+  - "Architecture and place"
 ---
 
 ## Referências

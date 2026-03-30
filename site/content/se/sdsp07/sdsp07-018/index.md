@@ -66,6 +66,14 @@ palavras-chave:
   - "APEA"
   - "Tênis Clube"
   - "Arquitetura Moderna"
+keywords:
+  - "APEA"
+  - "Tênis Clube"
+  - "Modern Architecture"
+palabras-clave:
+  - "APEA"
+  - "Tênis Clube"
+  - "Arquitetura Moderna"
 ---
 
 ## Referências

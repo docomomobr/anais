@@ -54,6 +54,10 @@ palavras-chave:
   - "modernidade"
   - "regionalismo critico"
   - "rearquitetura"
+keywords:
+  - "modernity"
+  - "critical regionalism"
+  - "re-archicteturing"
 ---
 
 ## Referências

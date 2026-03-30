@@ -49,6 +49,10 @@ palavras-chave:
   - "documento"
   - "patrimônio moderno"
   - "casa moderna"
+keywords:
+  - "Aracaju"
+  - "document"
+  - "modern heritage"
 ---
 
 ## Referências

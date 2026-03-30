@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "Projetos Hospitalares"
   - "Rino Levi"
+keywords:
+  - "Modern Brazilian Architecture"
+  - "Hospital Projects"
+  - "Rino Levi"
 ---
 
 ## Referências

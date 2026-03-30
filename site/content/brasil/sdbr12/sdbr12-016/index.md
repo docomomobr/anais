@@ -48,6 +48,10 @@ palavras-chave:
   - "Preservação"
   - "Modernismo"
   - "Pernambuco"
+keywords:
+  - "Preservation"
+  - "Modernism"
+  - "Pernambuco"
 ---
 
 ## Referências

@@ -58,6 +58,11 @@ palavras-chave:
   - "Casa unifamiliar"
   - "Lina Bo Bardi"
   - "Casa do Chame-Chame"
+keywords:
+  - "Modern Architecture"
+  - "Single-family house"
+  - "Lina Bo Bardi"
+  - "Chame-Chame House"
 ---
 
 ## Referências

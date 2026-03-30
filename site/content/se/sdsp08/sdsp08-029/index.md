@@ -54,6 +54,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Levantamentos digitais"
   - "Ribeirão Preto"
+keywords:
+  - "Modern Architecture"
+  - "Digital surveys"
+  - "Ribeirão Preto"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Levantamientos digitales"
+  - "Ribeirão Preto"
 ---
 
 ## Referências

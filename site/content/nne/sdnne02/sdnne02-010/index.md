@@ -78,6 +78,10 @@ palavras-chave:
   - "crítica de arte"
   - "obra de arte"
   - "Movimento Moderno"
+keywords:
+  - "critical analysis of art"
+  - "work of art"
+  - "Modern Movement"
 ---
 
 ## Referências

@@ -58,6 +58,14 @@ palavras-chave:
   - "Arquitetura Paulista"
   - "Museu do Café"
   - "Inspirações"
+keywords:
+  - "Paulista Architecture"
+  - "Coffee Museum"
+  - "Inspirations"
+palabras-clave:
+  - "Arquitectura Paulista"
+  - "Museo del Café"
+  - "Inspiraciones"
 ---
 
 ## Referências

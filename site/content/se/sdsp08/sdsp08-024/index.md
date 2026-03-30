@@ -59,6 +59,14 @@ palavras-chave:
   - "Conservação"
   - "Espaço"
   - "Pavilhão Ciccillo Matarazzo"
+keywords:
+  - "Ciccillo Matarazzo Pavilion"
+  - "Conservation"
+  - "Space"
+palabras-clave:
+  - "Conservación"
+  - "Espacio"
+  - "Pabellón Ciccillo Matarazzo"
 ---
 
 ## Referências

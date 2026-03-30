@@ -48,6 +48,10 @@ palavras-chave:
   - "Le Carré Bleu"
   - "historiografia"
   - "periódicos de arquitetura"
+keywords:
+  - "Le Carré Bleu"
+  - "historiography"
+  - "architectural periodicals"
 ---
 
 ## Referências

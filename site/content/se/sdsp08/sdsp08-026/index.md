@@ -59,6 +59,14 @@ palavras-chave:
   - "Modernização"
   - "Cidade"
   - "Londrina"
+keywords:
+  - "Modernization"
+  - "City"
+  - "Londrina"
+palabras-clave:
+  - "Modernización"
+  - "Ciudad"
+  - "Londrina"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "Robert Mallet-Stevens"
   - "Vila Manoel Dias"
   - "brasileiros e vanguarda moderna"
+keywords:
+  - "Robert Mallet-Stevens"
+  - "Vila Manoel Dias"
+  - "brasilians and modern"
 ---
 
 ## Referências

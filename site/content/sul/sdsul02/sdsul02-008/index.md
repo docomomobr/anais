@@ -47,6 +47,10 @@ palavras-chave:
   - "brise-soleils ou grelhas de concreto"
   - "Arquitetura Moderna"
   - "flexibilidade"
+keywords:
+  - "brise-soleils"
+  - "modern architecture"
+  - "flexibility"
 ---
 
 ## Referências

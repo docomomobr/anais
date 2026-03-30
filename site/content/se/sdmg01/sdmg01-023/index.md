@@ -27,10 +27,6 @@ keywords:
   - "cidade empresa"
 abstract_en: |
   The initial study refers to Cachoeira Dourada, located on Triângulo Mineiro, a city established to support a Hydropower Plant that, in turn, was created to assist in the expansion of the state of Goiás and the creation of Brasília. For the creation of the plant, waterfalls and a large area of native forest were flooded, also a town called Feijoada. Until the first half of the nineteenth century Caiapós Indians lived there. The city had its highest rate housing due to the coming of immigrants during the period of construction of the hydropower. With the end of the work and with the mechanization of the work in the field, there was a decrease in the number of inhabitants. The most important avenue in Cachoeira Dourada is the Avenida da Praia what is located on the edge of the lake. There’s an important tourist point used for leisure activities and sports.
-keywords_en:
-  - "urbanismo moderno"
-  - "cidade operadora"
-  - "cidade empresa"
 authors:
   - givenname: "Larissa Oliveira"
     familyname: "Gonçalves"

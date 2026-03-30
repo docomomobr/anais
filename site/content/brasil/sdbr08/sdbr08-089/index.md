@@ -47,6 +47,10 @@ palavras-chave:
   - "patrimônio"
   - "residência unifamiliar"
   - "arquitetura moderna"
+keywords:
+  - "property"
+  - "single residence"
+  - "modern architecture"
 ---
 
 ## Referências

@@ -54,6 +54,12 @@ palavras-chave:
   - "Gestão do Patrimônio Cultural"
   - "Preservação"
   - "Reabilitação"
+keywords:
+  - "Modern Architecture"
+  - "Bauru"
+  - "Patrimony Cultural Management"
+  - "Preservation"
+  - "Rehabilitation"
 ---
 
 ## Referências

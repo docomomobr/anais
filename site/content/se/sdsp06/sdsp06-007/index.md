@@ -53,6 +53,10 @@ palavras-chave:
   - "Diapositivo"
   - "História da Arquitetura Brasileira"
   - "Acervo"
+keywords:
+  - "Organization slide"
+  - "Brazilian Architecture History"
+  - "Collection"
 ---
 
 ## Referências

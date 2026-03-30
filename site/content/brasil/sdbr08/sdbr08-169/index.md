@@ -47,6 +47,10 @@ palavras-chave:
   - "conservação da arquitetura moderna"
   - "materiais"
   - "tombamento"
+keywords:
+  - "conservation of modern architecture"
+  - "materials"
+  - "listing"
 ---
 
 ## Referências

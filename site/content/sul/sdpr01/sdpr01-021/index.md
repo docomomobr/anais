@@ -56,6 +56,12 @@ palavras-chave:
   - "Gestão Urbana"
   - "Centro Cívico"
   - "Curitiba"
+keywords:
+  - "Modernism"
+  - "Power"
+  - "Urban Management"
+  - "Centro Cívico"
+  - "Curitiba"
 ---
 
 ## Referências

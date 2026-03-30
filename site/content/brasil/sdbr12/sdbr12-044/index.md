@@ -49,6 +49,10 @@ palavras-chave:
   - "Niemeyer"
   - "trajetória"
   - "pós-Brasília"
+keywords:
+  - "Niemeyer"
+  - "trajectory"
+  - "post-Brasilia"
 ---
 
 ## Referências

@@ -47,6 +47,12 @@ palavras-chave:
   - "edifício vertical"
   - "arquitetura moderna"
   - "apartamentos kitchenettes"
+keywords:
+  - "incorporation"
+  - "real estate"
+  - "skyscrapers"
+  - "modern architecture"
+  - "studio\napartment"
 ---
 
 ## Referências

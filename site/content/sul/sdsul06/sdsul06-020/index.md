@@ -53,6 +53,10 @@ palavras-chave:
   - "arquitetura moderna paulista"
   - "arquitetura industrial"
   - "Gregório Zolko"
+keywords:
+  - "São Paulo’s modern architecture"
+  - "industrial architecture"
+  - "Gregório Zolko"
 ---
 
 ## Referências

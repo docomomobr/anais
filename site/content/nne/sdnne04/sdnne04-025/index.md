@@ -52,6 +52,11 @@ palavras-chave:
   - "arquitetura modernista"
   - "financiamento habitacional"
   - "história da moradia"
+keywords:
+  - "modernist architecture (Natal)"
+  - "housing mortgaging"
+  - "history of housing"
+  - "Natal/RN"
 ---
 
 ## Referências

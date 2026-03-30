@@ -50,6 +50,11 @@ palavras-chave:
   - "tectônica"
   - "patologias das construções"
   - "conservação"
+keywords:
+  - "modern architecture"
+  - "tectonics"
+  - "construction pathologies"
+  - "conservation"
 ---
 
 ## Referências

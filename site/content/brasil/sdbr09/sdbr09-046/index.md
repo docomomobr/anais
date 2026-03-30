@@ -53,6 +53,8 @@ palavras-chave:
   - "Geografia Urbana"
   - "Interdisciplinaridade"
   - "Estrutura Celular"
+keywords:
+  - "Architecture of Commerce – Urban Geography– Interdisciplinary Approach – Cellular Structure"
 ---
 
 ## Referências

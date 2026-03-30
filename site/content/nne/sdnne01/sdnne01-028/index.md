@@ -53,6 +53,10 @@ palavras-chave:
   - "paisagismo moderno"
   - "concepção estética"
   - "função recreativa"
+keywords:
+  - "modern landscape design"
+  - "aesthetic concept"
+  - "recreation function"
 ---
 
 ## Referências

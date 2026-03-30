@@ -47,6 +47,10 @@ palavras-chave:
   - "edifício"
   - "moderno"
   - "concreto armado"
+keywords:
+  - "building"
+  - "modern"
+  - "steel concrete"
 ---
 
 ## Referências

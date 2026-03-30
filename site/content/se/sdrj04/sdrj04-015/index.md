@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "Jorge Machado Moreira"
   - "restauração"
+keywords:
+  - "modern architecture"
+  - "Jorge Machado Moreira"
+  - "restoration"
 ---
 
 ## Referências

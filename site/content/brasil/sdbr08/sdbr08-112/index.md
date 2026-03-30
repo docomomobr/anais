@@ -47,6 +47,9 @@ autores:
 palavras-chave:
   - "arquitetura"
   - "cinema e moderno"
+keywords:
+  - "architecture"
+  - "cinema and modern"
 ---
 
 ## Referências

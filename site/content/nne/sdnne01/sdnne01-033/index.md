@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Espaço público"
   - "Ecletismo"
+keywords:
+  - "Modern Brazilian architecture"
+  - "Public space"
+  - "Eclecticism"
 ---
 
 ## Referências

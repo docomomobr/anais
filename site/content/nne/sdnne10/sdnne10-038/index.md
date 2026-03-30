@@ -64,6 +64,16 @@ palavras-chave:
   - "Conforto térmico"
   - "Arquitetura moderna"
   - "Edifícios multifamiliares"
+keywords:
+  - "Breeze blocks"
+  - "Thermal comfort"
+  - "Modern architecture"
+  - "Multifamily buildings"
+palabras-clave:
+  - "Elementos huecos"
+  - "Comodidad térmica"
+  - "Arquitectura moderna"
+  - "Edificios multifamiliares"
 ---
 
 ## Referências

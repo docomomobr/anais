@@ -53,6 +53,11 @@ palavras-chave:
   - "Arquitetura Hospitalar"
   - "Instituto de Puericultura e Pediatria Martagão Gesteira (IPPMG)"
   - "Síntese das artes"
+keywords:
+  - "Hospitalar Architecture"
+  - "Childcare Institute Martagão Gesteira"
+  - "Arts Synthesis"
+  - "Jorge Machado Moreira"
 ---
 
 ## Referências

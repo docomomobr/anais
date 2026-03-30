@@ -43,6 +43,10 @@ palavras-chave:
   - "Casa das Canoas"
   - "Arquitetura Moderna Brasileira"
   - "Racionalismo Estrutural"
+keywords:
+  - "Casa das Canoas"
+  - "Brazilian Modern Architecture"
+  - "Structural Rationalism"
 ---
 
 ## Referências

@@ -62,6 +62,10 @@ palavras-chave:
   - "Paulo Mendes da Rocha"
   - "Habitações coletivas"
   - "Habitação vertical"
+keywords:
+  - "Paulo Mendes da Rocha"
+  - "Collective housing"
+  - "Vertical housing"
 ---
 
 ## Referências

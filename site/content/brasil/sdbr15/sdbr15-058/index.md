@@ -72,6 +72,14 @@ palavras-chave:
   - "Palácio da Abolição"
   - "Arquitetura moderna"
   - "Simbolismo"
+keywords:
+  - "Palacio da Abolição"
+  - "Modern Architecture"
+  - "Symbolism"
+palabras-clave:
+  - "Palacio de la Abolición"
+  - "Arquitectura moderna"
+  - "Simbolismo"
 ---
 
 ## Referências

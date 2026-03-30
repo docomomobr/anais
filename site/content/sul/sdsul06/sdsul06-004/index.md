@@ -54,6 +54,12 @@ palavras-chave:
   - "Edifício Christofell"
   - "Elementos de proteção de fachada"
   - "Cobogós"
+keywords:
+  - "Brazilian Modern Architecture"
+  - "Emil Bered Architect"
+  - "Christofell Building"
+  - "Façade protection elements"
+  - "Cobogós"
 ---
 
 ## Referências

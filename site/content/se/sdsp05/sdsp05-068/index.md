@@ -51,6 +51,10 @@ palavras-chave:
   - "Galerias modernas"
   - "Conservação"
   - "Patrimônio cultural"
+keywords:
+  - "Modern galleries"
+  - "Conservation"
+  - "Cultural heritage"
 ---
 
 ## Referências

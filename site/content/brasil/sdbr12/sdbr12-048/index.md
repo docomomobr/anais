@@ -48,6 +48,10 @@ palavras-chave:
   - "Pré-fabricação"
   - "Arquitetura social"
   - "Industrialização da construção"
+keywords:
+  - "Prefabrication"
+  - "Social architecture"
+  - "building industrialization"
 ---
 
 ## Referências

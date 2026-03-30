@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna (BA)"
   - "Preservação"
   - "Documentação"
+keywords:
+  - "Modern Architecture from Bahia"
+  - "Preservation"
+  - "Documentation"
 ---
 
 ## Referências

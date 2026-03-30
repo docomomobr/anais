@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura moderna (RN)"
   - "Preservação"
   - "Obituário"
+keywords:
+  - "Modern Architecture (RN)"
+  - "Preservation"
+  - "Obtuary"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Habitação social"
   - "Rio de Janeiro"
   - "Morfologia urbana"
+keywords:
+  - "Social habitation"
+  - "Rio de Janeiro"
+  - "Urban morphology"
+palabras-clave:
+  - "Habitación social"
+  - "Rio de Janeiro"
+  - "Morfología urbana"
 ---
 
 ## Referências

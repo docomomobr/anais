@@ -53,6 +53,12 @@ palavras-chave:
   - "Coleções"
   - "Recife"
   - "Benício Whatley Dias"
+keywords:
+  - "Modernism"
+  - "Recife"
+  - "Photography"
+  - "Collections"
+  - "Benício Whatley Dias"
 ---
 
 ## Referências

@@ -55,6 +55,12 @@ palavras-chave:
   - "Affonso Eduardo Reidy"
   - "Pedregulho"
   - "Restauração"
+keywords:
+  - "Modern Architecture"
+  - "Rio de Janeiro"
+  - "Affonso Eduardo Reidy"
+  - "Pedregulho"
+  - "Restoration"
 ---
 
 ## Referências

@@ -51,6 +51,11 @@ palavras-chave:
   - "massa"
   - "Fábio Penteado"
   - "Escola Paulista"
+keywords:
+  - "Crowd"
+  - "mass"
+  - "Fábio Penteado"
+  - "Paulista School"
 ---
 
 ## Referências

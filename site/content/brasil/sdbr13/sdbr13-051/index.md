@@ -51,6 +51,9 @@ palavras-chave:
   - "história"
   - "morfologia urbana"
   - "edifício hospitalar"
+keywords:
+  - "History"
+  - "urban morphology"
 ---
 
 ## Referências

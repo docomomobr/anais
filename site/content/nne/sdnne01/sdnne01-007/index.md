@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Campina Grande"
   - "Paraíba"
+keywords:
+  - "Modern Architecture"
+  - "Campina Grande"
+  - "Paraíba"
 ---
 
 ## Referências

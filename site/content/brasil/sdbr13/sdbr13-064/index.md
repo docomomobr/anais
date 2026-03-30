@@ -59,6 +59,12 @@ palavras-chave:
   - "Arquitetura"
   - "Capela Brennand"
   - "Paulo Mendes da Rocha"
+keywords:
+  - "Natural Light"
+  - "Phenomenology"
+  - "Architecture"
+  - "Brennand Chapel"
+  - "Paulo Mendes da Rocha"
 ---
 
 ## Referências

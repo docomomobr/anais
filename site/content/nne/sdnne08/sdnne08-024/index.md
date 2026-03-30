@@ -64,6 +64,16 @@ palavras-chave:
   - "Frank Svensson"
   - "Brutalismo"
   - "Conservação"
+keywords:
+  - "Modern Architecture"
+  - "Frank Svensson"
+  - "Brutalism"
+  - "Conservation"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Frank Svensson"
+  - "Brutalismo"
+  - "Conservación"
 ---
 
 ## Referências

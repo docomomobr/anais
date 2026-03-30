@@ -57,6 +57,14 @@ palavras-chave:
   - "Aalto"
   - "Siza"
   - "Cidade"
+keywords:
+  - "Aalto"
+  - "Siza"
+  - "City"
+palabras-clave:
+  - "Aalto"
+  - "Siza"
+  - "Ciudad"
 ---
 
 ## Referências

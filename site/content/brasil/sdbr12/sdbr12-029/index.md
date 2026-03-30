@@ -48,6 +48,10 @@ palavras-chave:
   - "Primeira Estação Rodoviária"
   - "Legado moderno"
   - "Salvador"
+keywords:
+  - "First Bus Station"
+  - "Modern heritage"
+  - "Salvador"
 ---
 
 ## Referências

@@ -60,6 +60,14 @@ palavras-chave:
   - "realidade virtual"
   - "documentação da arquitetura moderna"
   - "Delfim Amorim"
+keywords:
+  - "virtual reality"
+  - "documentation of modern architecture"
+  - "Delfim Amorim"
+palabras-clave:
+  - "realidad virtual"
+  - "documentación de la arquitectura moderna"
+  - "Delfim Amorim"
 ---
 
 ## Referências

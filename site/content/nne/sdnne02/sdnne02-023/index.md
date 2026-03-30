@@ -76,6 +76,10 @@ palavras-chave:
   - "arquitetura moderna em Natal"
   - "apropriação local"
   - "revitalização urbana"
+keywords:
+  - "modern architecture in Natal"
+  - "local appropriative"
+  - "urban revitalization"
 ---
 
 ## Referências

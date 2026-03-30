@@ -44,6 +44,10 @@ palavras-chave:
   - "Brutalismo"
   - "Sergio Bernardes"
   - "Arquitetura Moderna"
+keywords:
+  - "Brutalism"
+  - "Sergio Bernardes"
+  - "Modern Architecture"
 ---
 
 ## Referências

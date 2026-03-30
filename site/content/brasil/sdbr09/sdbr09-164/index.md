@@ -47,6 +47,10 @@ palavras-chave:
   - "Geometria urbana"
   - "micro clima"
   - "Brasília"
+keywords:
+  - "urban geometry"
+  - "microclimate"
+  - "Brasilia"
 ---
 
 ## Referências

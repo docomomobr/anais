@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Campus Universitário"
   - "Procedimento de projeto"
+keywords:
+  - "Modern Architecture"
+  - "University Campus"
+  - "Building Design Procedures"
 ---
 
 ## Referências

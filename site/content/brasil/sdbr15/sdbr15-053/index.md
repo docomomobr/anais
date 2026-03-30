@@ -67,6 +67,14 @@ palavras-chave:
   - "Cinema"
   - "Arquitetura"
   - "Pelotas"
+keywords:
+  - "Cinema"
+  - "Architecture"
+  - "Pelotas"
+palabras-clave:
+  - "Cine"
+  - "Arquitectura"
+  - "Pelotas"
 ---
 
 ## Referências

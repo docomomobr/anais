@@ -65,6 +65,12 @@ palavras-chave:
   - "projeto"
   - "arquitetônico"
   - "modelagem tridimensional"
+keywords:
+  - "Villa Church"
+  - "Le Corbusier"
+  - "intervention on preexisting architecture"
+  - "architectural design"
+  - "3D modelling"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "cultura mediterrânea"
   - "arquitetura moderna"
   - "casa moderna"
+keywords:
+  - "mediterranean culture"
+  - "modern architecture"
+  - "modern house"
 ---
 
 ## Referências

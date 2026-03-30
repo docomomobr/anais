@@ -60,6 +60,12 @@ palavras-chave:
   - "Patrimônio"
   - "Mundial"
   - "Rio de Janeiro"
+keywords:
+  - "Cultural Landscape"
+  - "Copacabana waterfront"
+  - "Roberto Burle Marx"
+  - "World Heritage"
+  - "Rio de Janeiro"
 ---
 
 ## Referências

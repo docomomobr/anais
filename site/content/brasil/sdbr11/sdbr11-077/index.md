@@ -49,6 +49,10 @@ palavras-chave:
   - "Parques Urbanos"
   - "Modernidade"
   - "Sustentabilidade"
+keywords:
+  - "Urban Parks"
+  - "Modern"
+  - "Sustainability"
 ---
 
 ## Referências

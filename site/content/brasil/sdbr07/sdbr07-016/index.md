@@ -45,6 +45,10 @@ palavras-chave:
   - "Chandigarh"
   - "tipologia habitacional"
   - "transformação"
+keywords:
+  - "Chandigarh"
+  - "residence typology"
+  - "transformation"
 ---
 
 ## Referências

@@ -50,6 +50,8 @@ palavras-chave:
   - "Revista Acrópole"
   - "IV Centenário de São Paulo"
   - "IV Congresso Brasileiro de Arquitetos"
+keywords:
+  - "Acropole Magazine. IV Centenary of Sao Paulo. IV Brazilian Architects Congress"
 ---
 
 ## Referências

@@ -61,6 +61,11 @@ palavras-chave:
   - "Frank Lloyd Wright"
   - "influência da arquitetura orgânica"
   - "projetos de igrejas"
+keywords:
+  - "Modern Brazilian Architecture"
+  - "Frank Lloyd Wright"
+  - "influence of organic architecture"
+  - "church design"
 ---
 
 ## Referências

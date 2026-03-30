@@ -62,6 +62,12 @@ palavras-chave:
   - "Habitação social"
   - "Política pública habitacional"
   - "Arquitetura moderna"
+keywords:
+  - "CAP/IAP"
+  - "IAPI"
+  - "Social housing"
+  - "Public housing policy"
+  - "Modern architecture"
 ---
 
 ## Referências

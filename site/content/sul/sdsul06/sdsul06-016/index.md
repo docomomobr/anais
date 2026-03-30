@@ -50,6 +50,11 @@ palavras-chave:
   - "sistema construtivo"
   - "concreto"
   - "pré-moldado"
+keywords:
+  - "structure"
+  - "building system"
+  - "concrete"
+  - "precast"
 ---
 
 ## Referências

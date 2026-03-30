@@ -46,6 +46,10 @@ palavras-chave:
   - "história do urbanismo"
   - "morfologia"
   - "Conjunto Habitacional Itararé"
+keywords:
+  - "history of urbanism"
+  - "morphology"
+  - "Housing Development Itararé"
 ---
 
 ## Referências

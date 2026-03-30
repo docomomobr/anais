@@ -52,6 +52,11 @@ palavras-chave:
   - "up-cycling intervention"
   - "Lina Bo Bardi"
   - "modern heritage"
+keywords:
+  - "Adaptive reuse"
+  - "up-cycling intervention"
+  - "Lina Bo Bardi"
+  - "modern heritage"
 ---
 
 ## Referências

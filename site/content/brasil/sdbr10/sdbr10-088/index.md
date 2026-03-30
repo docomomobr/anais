@@ -47,6 +47,10 @@ palavras-chave:
   - "Arnaldo Martino"
   - "Residência/Casa"
   - "Arquitetura Paulista 1960-70"
+keywords:
+  - "Arnaldo Martino"
+  - "Homes"
+  - "Architecture Paulista 1960-70"
 ---
 
 ## Referências

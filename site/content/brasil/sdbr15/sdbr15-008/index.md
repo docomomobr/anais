@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura Moderna Paulistana"
   - "Verticalização"
   - "Bairros de São Paulo"
+keywords:
+  - "São Paulo City Modern Architecture"
+  - "Verticalization"
+  - "São Paulo neighborhoods"
+palabras-clave:
+  - "Arquitectura Moderna de São Paulo"
+  - "Verticalización"
+  - "Barrios de São Paulo"
 ---
 
 ## Referências

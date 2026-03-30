@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arranha-céu"
   - "Fachada"
+keywords:
+  - "Modern Architecture"
+  - "Skyscraper"
+  - "Facade"
 ---
 
 ## Referências

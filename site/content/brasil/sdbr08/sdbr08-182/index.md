@@ -55,6 +55,11 @@ palavras-chave:
   - "Congresso Nacional"
   - "arquitetura"
   - "documentação"
+keywords:
+  - "Brasília"
+  - "Congress"
+  - "architecture"
+  - "documentation"
 ---
 
 ## Referências

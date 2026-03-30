@@ -47,6 +47,10 @@ palavras-chave:
   - "Brutalismo"
   - "“poética da economia”"
   - "anos 1960-1970"
+keywords:
+  - "Brutalism"
+  - "\"poética da economia\""
+  - "1960-1970’s years"
 ---
 
 ## Referências

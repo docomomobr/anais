@@ -53,6 +53,11 @@ palavras-chave:
   - "edifício alto"
   - "verticalização"
   - "Diógenes Rebouças"
+keywords:
+  - "modern architecture and urbanism in Bahia"
+  - "tall building"
+  - "verticalization"
+  - "Diógenes Rebouças"
 ---
 
 ## Referências

@@ -56,6 +56,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Cultura"
   - "Moradia"
+keywords:
+  - "Modern Architecture"
+  - "Culture"
+  - "Housing"
 ---
 
 ## Referências

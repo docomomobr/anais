@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Nova"
   - "Canteiro de obras"
   - "Tecnologia"
+keywords:
+  - "New Architecture"
+  - "Construction site"
+  - "Technology"
 ---
 
 ## Referências

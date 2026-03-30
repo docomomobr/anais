@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Severiano Porto"
   - "Amazônia"
+keywords:
+  - "Modern Architecture"
+  - "Severiano Porto"
+  - "Amazônia"
 ---
 
 ## Referências

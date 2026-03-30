@@ -53,6 +53,12 @@ palavras-chave:
   - "Autenticidade"
   - "Integridade"
   - "Atributos"
+keywords:
+  - "Conservation"
+  - "Modern architecture"
+  - "Authenticity"
+  - "Integrity"
+  - "Atributes"
 ---
 
 ## Referências

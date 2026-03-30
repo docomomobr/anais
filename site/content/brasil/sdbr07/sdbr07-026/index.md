@@ -41,6 +41,8 @@ autores:
   - "Andrade, Inês El-Jaick"
 palavras-chave:
   - "uso compatível- preservação - teoria"
+keywords:
+  - "compatible use - preservation - teory"
 ---
 
 ## Referências

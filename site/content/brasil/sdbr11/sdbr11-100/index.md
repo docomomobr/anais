@@ -48,6 +48,10 @@ palavras-chave:
   - "Dança"
   - "Modernidade"
   - "Historicidade"
+keywords:
+  - "Dance"
+  - "Modernity"
+  - "Historicity"
 ---
 
 ## Referências

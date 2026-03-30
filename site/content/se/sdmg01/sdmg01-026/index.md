@@ -33,6 +33,10 @@ zenodo_pdf_url: "https://zenodo.org/records/19286483/files/sdmg01-026.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Lustoza, Regina Esteves"
+keywords:
+  - "industrial cities"
+  - "urbanism"
+  - "average cities"
 ---
 
 ## Referências

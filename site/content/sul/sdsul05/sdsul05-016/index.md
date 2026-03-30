@@ -47,6 +47,10 @@ palavras-chave:
   - "concreto"
   - "pré-moldado"
   - "industrialização"
+keywords:
+  - "concrete"
+  - "precast"
+  - "industrialization"
 ---
 
 ## Referências

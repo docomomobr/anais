@@ -49,6 +49,10 @@ palavras-chave:
   - "Bauhaus"
   - "corpo útil"
   - "cidade moderna"
+keywords:
+  - "Bauhaus"
+  - "useful body"
+  - "modern city"
 ---
 
 ## Referências

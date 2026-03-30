@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura"
   - "Sociabilidade"
   - "Cidade"
+keywords:
+  - "Architecture"
+  - "Sociability"
+  - "City"
 ---
 
 ## Referências

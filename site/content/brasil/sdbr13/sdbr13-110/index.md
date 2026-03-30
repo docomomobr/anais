@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura Escolar"
   - "CONESCAL"
+keywords:
+  - "Modern Architecture"
+  - "Schools Buildings"
+  - "CONESCAL"
 ---
 
 ## Referências

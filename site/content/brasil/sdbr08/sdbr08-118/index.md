@@ -51,6 +51,9 @@ autores:
 palavras-chave:
   - "Lina Bo Bardi"
   - "Gisela Magalhães e Janete Costa"
+keywords:
+  - "Lina Bo Bardi"
+  - "Gisela Magalhães and Janete Costa"
 ---
 
 ## Referências

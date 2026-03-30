@@ -53,6 +53,12 @@ palavras-chave:
   - "Edifício Santa Cruz"
   - "Carlos Alberto de Holanda Mendonça"
   - "Jayme Luna dos Santos"
+keywords:
+  - "modern architecture"
+  - "Porto Alegre"
+  - "Santa Cruz building"
+  - "Carlos Alberto de Holanda Mendonça"
+  - "Jayme Luna dos Santos"
 ---
 
 ## Referências

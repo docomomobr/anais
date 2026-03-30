@@ -66,6 +66,14 @@ palavras-chave:
   - "Casa moderna"
   - "Investigação projetual"
   - "Inventário"
+keywords:
+  - "Modern house"
+  - "Project research"
+  - "Inventory"
+palabras-clave:
+  - "Casa moderna"
+  - "Investigación de proyectos"
+  - "Inventario"
 ---
 
 ## Referências

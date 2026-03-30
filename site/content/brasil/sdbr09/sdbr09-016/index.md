@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Portugal"
   - "Fernando Távora"
+keywords:
+  - "Modern Architecture"
+  - "Portugal"
+  - "Fernando Távora"
 ---
 
 ## Referências

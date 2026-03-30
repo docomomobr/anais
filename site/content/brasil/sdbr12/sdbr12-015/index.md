@@ -57,6 +57,12 @@ palavras-chave:
   - "percepção"
   - "passagens pedestres"
   - "Brasília"
+keywords:
+  - "lighting"
+  - "Underground spaces"
+  - "perception"
+  - "Pedestrian walkways"
+  - "Brasília"
 ---
 
 ## Referências

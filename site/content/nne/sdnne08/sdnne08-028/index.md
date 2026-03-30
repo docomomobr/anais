@@ -66,6 +66,17 @@ palavras-chave:
   - "Espaço Doméstico"
   - "Habitação Popular"
   - "Brasil"
+keywords:
+  - "History of architecture and the city"
+  - "Domestic space"
+  - "Modern Architecture"
+  - "Social Housing"
+palabras-clave:
+  - "Historia de la arquitectura y la ciudad"
+  - "Arquitectura Moderna"
+  - "Espacio doméstico"
+  - "Vivienda Social"
+  - "Brasil"
 ---
 
 ## Referências

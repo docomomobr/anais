@@ -56,6 +56,13 @@ palavras-chave:
   - "Inspeção"
   - "Imóveis Patrimoniais"
   - "Manutenção"
+keywords:
+  - "Inspection"
+  - "Real Estate"
+  - "Maintenance"
+palabras-clave:
+  - "Inspección"
+  - "Inmuebles Patrimoniales, Mantenimiento"
 ---
 
 ## Referências

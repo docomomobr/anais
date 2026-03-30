@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura e urbanismo modernos"
   - "Campus"
   - "Configuração espacial"
+keywords:
+  - "Modern architecture and urban planning"
+  - "Campus"
+  - "Spacial configuration"
 ---
 
 ## Referências

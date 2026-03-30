@@ -64,6 +64,14 @@ palavras-chave:
   - "Acervo FAUUSP"
   - "Verticalização"
   - "São Paulo"
+keywords:
+  - "FAUUSP Collection"
+  - "Verticalization"
+  - "São Paulo"
+palabras-clave:
+  - "Colección FAUUSP"
+  - "Verticalización"
+  - "São Paulo"
 ---
 
 ## Referências

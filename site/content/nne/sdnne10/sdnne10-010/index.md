@@ -72,6 +72,18 @@ palavras-chave:
   - "Verticalização"
   - "Edifício vertical de uso misto"
   - "Tectônica"
+keywords:
+  - "Modern Architecture"
+  - "Modern Heritage"
+  - "Verticalization"
+  - "Mixed-Use Vertical Building"
+  - "Tectonics"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Patrimonio Moderno"
+  - "Verticalización"
+  - "Edificio Vertical de Uso Mixto"
+  - "Tectónica"
 ---
 
 ## Referências

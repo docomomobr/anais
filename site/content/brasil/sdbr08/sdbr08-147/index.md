@@ -57,6 +57,10 @@ palavras-chave:
   - "Preservação do Patrimônio Edificado"
   - "Inventário do Patrimônio Cultural"
   - "Bahia"
+keywords:
+  - "Built Heritage Preservation"
+  - "Cultural Heritage Inventory"
+  - "Bahia"
 ---
 
 ## Referências

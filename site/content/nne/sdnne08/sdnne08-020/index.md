@@ -69,6 +69,18 @@ palavras-chave:
   - "arquitetura brasileira"
   - "modernismo"
   - "arquitetura moderna piauiense"
+keywords:
+  - "modern architecture"
+  - "architectural design"
+  - "Brazilian architecture"
+  - "modernism"
+  - "Piauí modern architecture"
+palabras-clave:
+  - "arquitectura moderna"
+  - "diseño arquitectonico"
+  - "Arquitectura brasileña"
+  - "modernismo"
+  - "Arquitectura moderna de Piauí"
 ---
 
 ## Referências

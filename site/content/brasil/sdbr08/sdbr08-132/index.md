@@ -48,6 +48,10 @@ palavras-chave:
   - "projeto"
   - "patrimônio"
   - "obra póstuma"
+keywords:
+  - "design"
+  - "heritage"
+  - "posthumous work"
 ---
 
 ## Referências

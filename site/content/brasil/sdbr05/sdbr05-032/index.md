@@ -53,6 +53,13 @@ palavras-chave:
   - "Brasília"
   - "modernidade"
   - "preservação"
+keywords:
+  - "Modern architecture"
+  - "patrimony"
+  - "urban patrimony degradation"
+  - "urbanistic proposal"
+  - "urban design"
+  - "Brasilia´s architecture"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "conforto ambiental"
   - "brutalismo"
   - "Armando de Holanda"
+keywords:
+  - "environmental comfort system"
+  - "brutalism"
+  - "Armando de Holanda"
 ---
 
 ## Referências

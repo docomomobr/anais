@@ -52,6 +52,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "conjuntos residenciais"
   - "Irmãos Roberto"
+keywords:
+  - "modern architecture"
+  - "housing blocks"
+  - "Irmãos Roberto"
 ---
 
 ## Referências

@@ -54,6 +54,12 @@ palavras-chave:
   - "moderno"
   - "Mies van der Rohe"
   - "Porto Alegre"
+keywords:
+  - "Congress Hall"
+  - "Project"
+  - "modern"
+  - "Mies van der Rohe"
+  - "Porto Alegre"
 ---
 
 ## Referências

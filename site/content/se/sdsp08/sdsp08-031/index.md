@@ -66,6 +66,14 @@ palavras-chave:
   - "Documentação"
   - "Banco de Dados"
   - "Preservação do Centro Histórico de São Paulo"
+keywords:
+  - "Documentation"
+  - "Database"
+  - "Preservation of the Historic Center of São Paulo"
+palabras-clave:
+  - "Documentación"
+  - "Banco de Datos"
+  - "Preservación del Centro Histórico de São Paulo"
 ---
 
 ## Referências

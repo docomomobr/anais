@@ -62,6 +62,16 @@ palavras-chave:
   - "produção residencial"
   - "panorama"
   - "Natal-RN"
+keywords:
+  - "modern architecture"
+  - "residential production"
+  - "panorama"
+  - "Natal-RN – Brazil"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "producción residencial"
+  - "Panorama"
+  - "Natal-RN"
 ---
 
 ## Referências

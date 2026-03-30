@@ -50,6 +50,10 @@ palavras-chave:
   - "Le Corbusier"
   - "Rio de Janeiro"
   - "avião"
+keywords:
+  - "Le Corbusier"
+  - "Rio de Janeiro"
+  - "airplane"
 ---
 
 ## Referências

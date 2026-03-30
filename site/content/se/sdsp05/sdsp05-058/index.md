@@ -48,6 +48,10 @@ palavras-chave:
   - "Casa da Criança"
   - "Vilanova Artigas"
   - "Patrimônio arquitetônico moderno"
+keywords:
+  - "Casa da Criança"
+  - "Vilanova Artigas"
+  - "Modern Architectural Heritage"
 ---
 
 ## Referências

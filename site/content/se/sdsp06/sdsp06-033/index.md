@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Patrimônio histórico"
   - "Teatro Paulo Eiró"
+keywords:
+  - "Modern architecture"
+  - "Historical patrimony"
+  - "Paulo Eiró Theater"
 ---
 
 ## Referências

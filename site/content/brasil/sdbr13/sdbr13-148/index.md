@@ -55,6 +55,13 @@ palavras-chave:
   - "Museu da Cidade, de Brasília"
   - "abstração"
   - "figuração"
+keywords:
+  - "Niemeyer"
+  - "House for Oswald de Andrade"
+  - "Monument to Rui Barbosa"
+  - "Museum of the City, of Brasília"
+  - "abstraction"
+  - "figuration"
 ---
 
 ## Referências

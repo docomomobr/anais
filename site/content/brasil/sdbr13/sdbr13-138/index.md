@@ -52,6 +52,11 @@ palavras-chave:
   - "Athos Bulcão"
   - "Fernand Léger"
   - "Síntese das Artes"
+keywords:
+  - "João Filgueiras Lima Lelé"
+  - "Athos Bulcão"
+  - "Fernand Léger"
+  - "Synthesis of the Arts"
 ---
 
 ## Referências

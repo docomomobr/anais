@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna mexicana"
   - "influência corbusiana"
   - "Novo Brutalismo"
+keywords:
+  - "Mexican modern architecture"
+  - "Corbusian influence"
+  - "New Brutalism"
 ---
 
 ## Referências

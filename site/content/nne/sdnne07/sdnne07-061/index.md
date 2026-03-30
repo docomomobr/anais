@@ -41,9 +41,6 @@ keywords_en:
   - "materiality"
 abstract_es: |
   El articulo a ser presentado abordará la relación existente entre arquitectura y estructura durante la producción de obras modernas, utilizando como objeto de estudio, dos estadios de futbol proyectados por el arquitecto Raul de Lagos Cirne: el Estadio Gobernador Alberto Tavares Silva (1970-1973), conocido como “Albertão” construído en Teresina, capital de Piauí; y el Estadio Ernani Sátyro (1973-1975), popularmente llamado de “Amigão”, construído en la ciudad de Campina Grande, agreste de la provincia de Paraíba. Las obras analizadas se caracterizan por el diálogo entre concepciones arquitectónicas y estructural, en las cuales observase que Cirne procuró unir creatividad y tecnología, denotando una fuerte influencia de la obra del ingeniero y arquitecto estructural de renombre en el panorama internacional- Pier Luigi Nervi- que utilizó en los años 50, en Italia, principalmente la técnica del hormigón armado, estando siempre atento a relación estructura/ forma. La materialidad del hormigón armado fue adoptada en los dos estadios, en soluciones arquitectónicas que utilizaran de la forma estructural para concebir la forma moderna. Las principales etapas del proceso constructivo, que según RIPPER (1998) son: concepción y proyecto; selección y empleo de los materiales; ejecución; utilización; manutención y otras- serán analizadas, se apoyando en un referencial teórico basado en discusiones a cerca de la arquitectura moderna, tectónica, concepción estructural, materialidad.
-keywords_es:
-  - "concepción arquitectónica, concepción estructural, tectônica, arquitectura moderna, materialidad. ABSTRACT The article to be presented will discuss the relationship between architecture and structure during the production of modern works, using as object of study, two football stadiums designed by the architect Raul de Lagos Cirne, the Governador Alberto Tavares Silva Stadium (1970-1973) , known as \"Albertão\" built in Teresina, capital of Piauí"
-  - "and the Stadium Ernani Sátyro (1973-1975), popularly called \"Amigão\", built in the city of Campina Grande, Paraíba. The works to be analyzed are characterized by"
 authors:
   - givenname: "Alcília Afonso de Albuquerque e"
     familyname: "Melo"
@@ -61,6 +58,12 @@ palavras-chave:
   - "tectônica"
   - "arquitetura moderna"
   - "materialidade"
+keywords:
+  - "architectural design"
+  - "structural design"
+  - "tectonics"
+  - "modern architecture"
+  - "materiality"
 ---
 
 ## Referências

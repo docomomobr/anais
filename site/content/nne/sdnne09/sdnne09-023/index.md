@@ -60,6 +60,12 @@ palavras-chave:
   - "modelagem digital"
   - "patrimônio moderno"
   - "Acácio Gil Borsoi"
+keywords:
+  - "modern architecture"
+  - "HBIM"
+  - "digital modeling"
+  - "modern heritage"
+  - "Acácio Gil Borsoi"
 ---
 
 ## Referências

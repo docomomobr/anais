@@ -53,6 +53,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "Hotel da Bahia (Brasil)"
   - "Hotel Ritz (Portugal)"
+keywords:
+  - "tourism"
+  - "modern architecture"
+  - "Hotel da Bahia (Brazil)"
+  - "Hotel Ritz (Portugal)"
 ---
 
 ## Referências

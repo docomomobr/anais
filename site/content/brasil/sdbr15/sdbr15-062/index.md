@@ -66,6 +66,14 @@ palavras-chave:
   - "Othon Palace Hotel"
   - "Philipp Lohbauer"
   - "Arranha-céu"
+keywords:
+  - "Othon Palace Hotel"
+  - "Philipp Lohbauer"
+  - "Skyscraper"
+palabras-clave:
+  - "Othon Palace Hotel"
+  - "Philipp Lohbauer"
+  - "Rascacielos"
 ---
 
 ## Referências

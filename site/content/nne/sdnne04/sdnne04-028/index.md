@@ -51,6 +51,11 @@ palavras-chave:
   - "Lugar"
   - "Re-Arquitetura"
   - "Arquitetura Uruguaia"
+keywords:
+  - "Reactive Architecture"
+  - "Place"
+  - "Re-Architecture"
+  - "Uruguay Architecture"
 ---
 
 ## Referências

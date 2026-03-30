@@ -45,6 +45,10 @@ palavras-chave:
   - "arquitetura moderna brasileira"
   - "transformações na estrutura tipo Dom-ino"
   - "nova abstração formal"
+keywords:
+  - "Brazilian modern architecture"
+  - "changes in the Dom-ino type structure"
+  - "new formal abstraction"
 ---
 
 ## Referências

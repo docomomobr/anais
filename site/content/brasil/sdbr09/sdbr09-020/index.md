@@ -62,6 +62,12 @@ palavras-chave:
   - "Clubes"
   - "Cinemas"
   - "Serra Gaúcha"
+keywords:
+  - "Modern Architecture"
+  - "Leisure Buildings"
+  - "Cinemas"
+  - "Clubhouses"
+  - "Southern Brazil"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "Bahia"
   - "Terminais rodoviários"
+keywords:
+  - "Brutalist Architecture"
+  - "Bahia"
+  - "Bus stations"
 ---
 
 ## Referências

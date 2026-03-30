@@ -66,6 +66,14 @@ palavras-chave:
   - "Verticalização"
   - "Edifício de apartamentos"
   - "Arte Déco"
+keywords:
+  - "Verticalization"
+  - "Apartment building"
+  - "Art Deco"
+palabras-clave:
+  - "Verticalización"
+  - "Edificio de apartamentos"
+  - "Art Déco"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "conjuntos habitacionais"
   - "preservação de sítios residências"
+keywords:
+  - "modern architecture"
+  - "public housing"
+  - "preservation of residential sites"
 ---
 
 ## Referências

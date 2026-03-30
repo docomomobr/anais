@@ -45,6 +45,10 @@ palavras-chave:
   - "Brutalist Urbanism"
   - "Venezuela"
   - "Ciudad Guayana"
+keywords:
+  - "Brutalist Urbanism"
+  - "Venezuela"
+  - "Ciudad Guayana"
 ---
 
 ## Referências

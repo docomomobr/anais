@@ -47,6 +47,9 @@ autores:
 palavras-chave:
   - "racionalização de formas"
   - "pré-fabricação da construção"
+keywords:
+  - "molds rationalization"
+  - "prefabrication construction"
 ---
 
 ## Referências

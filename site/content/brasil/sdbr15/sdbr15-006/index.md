@@ -66,6 +66,13 @@ palavras-chave:
   - "Laboratório de Inves gações Conceituais (LIC)"
   - "Sergio"
   - "Wladimir Bernardes"
+keywords:
+  - "Bernardes"
+palabras-clave:
+  - "Arquitectura Amazónica"
+  - "Laboratório de Inves gações Conceituais (LIC)"
+  - "Sergio"
+  - "Wladimir Bernardes"
 ---
 
 ## Referências

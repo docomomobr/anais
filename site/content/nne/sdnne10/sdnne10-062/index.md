@@ -71,6 +71,18 @@ palavras-chave:
   - "arquitetura (proto)moderna"
   - "Fortaleza"
   - "Ceará"
+keywords:
+  - "Heritage"
+  - "Conservation"
+  - "(Proto)modern architecture"
+  - "Fortaleza"
+  - "Ceará"
+palabras-clave:
+  - "patrimônio"
+  - "conservación"
+  - "arquitectura (proto)moderna"
+  - "Fortaleza"
+  - "Ceará"
 ---
 
 ## Referências

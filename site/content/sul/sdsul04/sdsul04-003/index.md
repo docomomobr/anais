@@ -42,6 +42,10 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "4º Seminário Docomomo Sul: anais: pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Claudia Costa Cabral, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2013. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-4o-seminario-docomomo-sul/. ISBN 978-85-60188-13-4"
 autores:
   - "Peláez, Alfredo"
+palabras-clave:
+  - "ladrillo"
+  - "lugar"
+  - "redibujo"
 ---
 
 ## Referências

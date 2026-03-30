@@ -65,6 +65,18 @@ palavras-chave:
   - "formas de habitar"
   - "tradição"
   - "universalidade"
+keywords:
+  - "High-rise building"
+  - "modernization"
+  - "ways of living"
+  - "tradition"
+  - "universality"
+palabras-clave:
+  - "Verticalidad"
+  - "modernización"
+  - "formas de habitar"
+  - "tradición"
+  - "universalidad"
 ---
 
 ## Referências

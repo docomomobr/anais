@@ -52,6 +52,12 @@ palavras-chave:
   - "Racionalização construtiva"
   - "Padronização"
   - "CARPE"
+keywords:
+  - "Modern architecture"
+  - "Public school architecture"
+  - "Constructive rationalization"
+  - "Standardization"
+  - "CARPE"
 ---
 
 ## Referências

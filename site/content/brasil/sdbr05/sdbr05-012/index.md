@@ -27,8 +27,6 @@ keywords:
   - "arquitetura moderna; arquitetura escolar; SENAI; Hélio de Queiroz Duarte; Ernest Robert de Carvalho Mange; Roberto José Goulart Tibau"
 abstract_en: |
   The modern architecture settled in Brazil after II Word War, centered towards the modernism in the cities of Rio de Janeiro and São Paulo, claimed for itself the ideal of modernization in Brazil and contributed to a national identity. In the school issue, modern architecture was outstanding in the State of São Paulo as part of a system, the three “S” phenomena. So, this work points up modern pioneer school in the SENAI system and its respective creators. In the same direction with SESC-SENAC, these SENAI schools were conceived as pedagogical instruments for the professional teaching, providing a daring feature to the image of theses education services. Three SENAI schools are presented as examples: João Martins Coube in Bauru, by Roberto José Goulart Tibau, Anchieta in Vila Mariana e Têxtil Central in Brás, both in São Paulo, by Hélio de Queiroz Duarte and Ernest Robert de Carvalho Mange. SENAI is presented here in its main pedagogic features, which were inserted in the 50´s. The aims achieved by the new architecture left marks that still endure in buildings in which the art of teaching was closely connected to the art of projecting. These buildings are remarkable cultural identities in the Brazilian historic patrimony and based on necessary principles in our days.
-keywords_en:
-  - "modern architecture; school architecture; SENAI; Hélio de Queiroz Duarte; Ernest Robert de Carvalho Mange; Roberto José Goulart Tibau"
 authors:
   - givenname: "Artemis Rodrigues Fontana"
     familyname: "Ferraz"

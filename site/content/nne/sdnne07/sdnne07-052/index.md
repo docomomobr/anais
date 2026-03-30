@@ -61,6 +61,14 @@ palavras-chave:
   - "Paulo Antunes Ribeiro"
   - "Arquitetura Moderna em Salvador"
   - "intervenções em Arquitetura Moderna"
+keywords:
+  - "Paulo Antunes Ribeiro"
+  - "Modern Architecture in Salvador"
+  - "interventions in Modern Architecture"
+palabras-clave:
+  - "Paulo Antunes Ribeiro"
+  - "Arquitectura Moderna en Salvador"
+  - "intervenciones en Arquitectura Moderna"
 ---
 
 ## Referências

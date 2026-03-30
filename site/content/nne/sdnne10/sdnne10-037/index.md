@@ -58,6 +58,14 @@ palavras-chave:
   - "Inteligência artificial generativa"
   - "Arquitetura Moderna na Amazônia"
   - "Conservação arquitetônica"
+keywords:
+  - "Generative Artificial Intelligence"
+  - "Modern Amazonian Architecture"
+  - "Architectural Conservation"
+palabras-clave:
+  - "Inteligencia Artificial Generativa"
+  - "Arquitectura Moderna en la Amazonía"
+  - "Conservación Arquitectónica"
 ---
 
 ## Referências

@@ -58,6 +58,14 @@ palavras-chave:
   - "Arquitetura"
   - "Moderna"
   - "Deambular"
+keywords:
+  - "Architecture"
+  - "Modern"
+  - "Walkability"
+palabras-clave:
+  - "Arquitectura"
+  - "Moderno"
+  - "Deambular"
 ---
 
 ## Referências

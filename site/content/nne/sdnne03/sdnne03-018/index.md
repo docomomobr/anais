@@ -45,6 +45,10 @@ palavras-chave:
   - "preservação"
   - "Campina Grande"
   - "Patrimônio Moderno"
+keywords:
+  - "preservation"
+  - "Campina Grande"
+  - "Modern heritage"
 ---
 
 ## Referências

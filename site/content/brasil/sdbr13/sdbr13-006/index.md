@@ -59,6 +59,13 @@ palavras-chave:
   - "circulação de ideias"
   - "metodologia de projeto"
   - "paisagismo modernista"
+keywords:
+  - "architectural design"
+  - "Brazilian modernist architecture"
+  - "diffusion of ideas"
+  - "design"
+  - "methodology"
+  - "modernist landscaping"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Grupo Arquitetura Nova"
   - "poética da economia"
   - "arquitetura contemporânea"
+keywords:
+  - "Arquitetura Nova Group"
+  - "economics factors"
+  - "contemporary architecture"
 ---
 
 ## Referências

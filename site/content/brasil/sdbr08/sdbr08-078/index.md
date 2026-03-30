@@ -48,6 +48,10 @@ palavras-chave:
   - "Multidão"
   - "Praça"
   - "Arte"
+keywords:
+  - "Multitude"
+  - "Plaza"
+  - "Art"
 ---
 
 ## Referências

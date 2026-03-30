@@ -59,6 +59,14 @@ palavras-chave:
   - "Preservação da arquitetura moderna"
   - "Função"
   - "Hangar de Santa Cruz"
+keywords:
+  - "Modern architecture conservation"
+  - "Function"
+  - "Hangar de Santa Cruz"
+palabras-clave:
+  - "Conservación de la arquitectura moderna"
+  - "Función"
+  - "Hangar de Santa Cruz"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "abstração"
   - "cobogó"
   - "fachadas modernas"
+keywords:
+  - "abstraction"
+  - "cobogó"
+  - "modern facade"
 ---
 
 ## Referências

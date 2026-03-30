@@ -56,6 +56,10 @@ palavras-chave:
   - "modernismo"
   - "habitação unifamiliar"
   - "Caxias do Sul"
+keywords:
+  - "modernism"
+  - "one-family house"
+  - "Caxias do Sul"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Reidy"
   - "preservação"
   - "luz natural"
+keywords:
+  - "Reidy"
+  - "preservation"
+  - "natural light"
 ---
 
 ## Referências

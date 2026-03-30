@@ -64,6 +64,15 @@ palavras-chave:
   - "Rubens Meister"
   - "Itaipu Binacional"
   - "Foz do Iguaçu/PR"
+keywords:
+  - "Rubens Meister"
+  - "Itaipu Binational"
+  - "Foz do Iguaçu"
+  - "Paraná"
+palabras-clave:
+  - "Rubens Meister"
+  - "Itaipu Binacional"
+  - "Foz do Iguaçu-PR"
 ---
 
 ## Referências

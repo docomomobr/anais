@@ -51,6 +51,10 @@ palavras-chave:
   - "vanguarda artística e arquitetônica"
   - "arquitetura moderna"
   - "ensino de arquitetura"
+keywords:
+  - "artistic and architectural avant-garde"
+  - "modern architecture"
+  - "architectural teaching"
 ---
 
 ## Referências

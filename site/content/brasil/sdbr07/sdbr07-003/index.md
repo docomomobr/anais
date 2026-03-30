@@ -45,6 +45,8 @@ autores:
   - "Machado, Andréa Soler"
 palavras-chave:
   - "Praça;cidade;transformação"
+keywords:
+  - "Square;City;Transformation"
 ---
 
 ## Referências

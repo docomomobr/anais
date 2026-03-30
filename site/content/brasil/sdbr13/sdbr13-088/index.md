@@ -61,6 +61,11 @@ palavras-chave:
   - "Fortaleza"
   - "Modernismo Cearense"
   - "Documentação Digital"
+keywords:
+  - "Benício Diogenes Building"
+  - "Fortaleza"
+  - "Modernism of Ceará"
+  - "Digital Documentation"
 ---
 
 ## Referências

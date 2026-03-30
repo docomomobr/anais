@@ -42,6 +42,8 @@ autores:
   - "Almeida, Caliane Christie Oliveira de"
 palavras-chave:
   - "Institutos de Aposentadoria e Pensões. Habitação. Arquitetura Moderna"
+keywords:
+  - "Retirement and Pension Institutes. Housing. Modern architecture"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura"
   - "Concreto"
   - "Marlio Raposo Dantas"
+keywords:
+  - "Architecture"
+  - "Concrete"
+  - "Marlio Raposo Dantas"
 ---
 
 ## Referências

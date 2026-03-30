@@ -56,6 +56,14 @@ palavras-chave:
   - "Era Vargas"
   - "Políticas estatais"
   - "Arquitetura moderna"
+keywords:
+  - "Vargas Administration"
+  - "State Policies"
+  - "Modern Architecture"
+palabras-clave:
+  - "Administración Vargas"
+  - "Políticas públicas"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

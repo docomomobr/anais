@@ -55,6 +55,14 @@ palavras-chave:
   - "Morfologia Urbana"
   - "Transformações Espaciais"
   - "Ocupação do Território"
+keywords:
+  - "Urban Morphology"
+  - "Spatial Transformations"
+  - "Occupation of the Territory"
+palabras-clave:
+  - "Morfología Urbana"
+  - "Transformaciones Espaciales"
+  - "Ocupación del territorio"
 ---
 
 ## Referências

@@ -59,6 +59,11 @@ palavras-chave:
   - "Brasília"
   - "Turismo"
   - "Brasília Palace Hotel"
+keywords:
+  - "Modern Architecture"
+  - "Brasília"
+  - "Tourism"
+  - "Brasília Palace Hotel"
 ---
 
 ## Referências

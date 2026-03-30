@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura Brutalista"
   - "Arquitetura Paranaense"
+keywords:
+  - "Modern Architecture"
+  - "Brutalist Architecture"
+  - "Architecture in Paraná"
 ---
 
 ## Referências

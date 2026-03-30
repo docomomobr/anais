@@ -48,6 +48,11 @@ palavras-chave:
   - "Modernismo"
   - "Patrimônio"
   - "Ayrton Lolô Cornelsen"
+keywords:
+  - "Paraná architecture"
+  - "Modernism"
+  - "Patrimony"
+  - "Ayrton Lolô Cornelsen"
 ---
 
 ## Referências

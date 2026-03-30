@@ -54,6 +54,10 @@ palavras-chave:
   - "restauração"
   - "jardim moderno"
   - "Praça Faria Neves"
+keywords:
+  - "restoration"
+  - "modern garden"
+  - "Faria Neves Square"
 ---
 
 ## Referências

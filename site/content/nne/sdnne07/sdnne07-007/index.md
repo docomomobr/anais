@@ -52,4 +52,9 @@ palavras-chave:
   - "Maceió"
   - "modernismo"
   - "Walter de Azevedo Cunha"
+keywords:
+  - "Cultural Significance"
+  - "Maceió"
+  - "modernism"
+  - "Walter de Azevedo Cunha"
 ---

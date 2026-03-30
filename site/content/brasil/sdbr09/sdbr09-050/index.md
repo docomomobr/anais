@@ -49,6 +49,10 @@ palavras-chave:
   - "patrimônio ambiental urbano"
   - "patrimônio cultural"
   - "patrimônio natural"
+keywords:
+  - "urban ambient patrimony"
+  - "cultural patrimony"
+  - "natural patrimony"
 ---
 
 ## Referências

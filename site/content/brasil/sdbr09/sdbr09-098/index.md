@@ -53,6 +53,12 @@ palavras-chave:
   - "Museu Imaginário"
   - "Museu"
   - "Masp"
+keywords:
+  - "André Malraux"
+  - "Lina Bo Bardi"
+  - "Imaginary Museum"
+  - "Museum"
+  - "MASP"
 ---
 
 ## Referências

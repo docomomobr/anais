@@ -70,6 +70,16 @@ palavras-chave:
   - "Conservação"
   - "Delfim Amorim"
   - "Estruturas de Concreto"
+keywords:
+  - "Modern Pernambuco Architecture"
+  - "Conservation"
+  - "Delfim Amorim"
+  - "Concrete Structures"
+palabras-clave:
+  - "Arquitectura moderna de Pernambuco"
+  - "Conservación"
+  - "Delfim Amorim"
+  - "Estructuras de"
 ---
 
 ## Referências

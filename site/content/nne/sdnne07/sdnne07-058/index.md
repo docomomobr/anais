@@ -63,6 +63,16 @@ palavras-chave:
   - "GRUPOQUATRO"
   - "Arquitetura e Urbanismo"
   - "morfologia urbana"
+keywords:
+  - "Palmas"
+  - "GRUPOQUATRO"
+  - "Architecture and Urban Planning"
+  - "urban morphology"
+palabras-clave:
+  - "Palmas"
+  - "GRUPOQUATRO"
+  - "Arquitectura y Urbanismo"
+  - "morfología urbana"
 ---
 
 ## Referências

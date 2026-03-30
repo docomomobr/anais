@@ -52,6 +52,10 @@ palavras-chave:
   - "Centro de convenções do Ceará"
   - "Arquitetura moderna"
   - "Neudson Braga"
+keywords:
+  - "Ceará convention center"
+  - "Modern architecture"
+  - "Neudson Braga"
 ---
 
 ## Referências

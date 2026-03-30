@@ -58,6 +58,14 @@ palavras-chave:
   - "Jorge Machado Moreira"
   - "Le Corbusier"
   - "Modernismo"
+keywords:
+  - "Jorge Machado Moreira"
+  - "Le Corbusier"
+  - "Modernism"
+palabras-clave:
+  - "Jorge Machado Moreira"
+  - "Le Corbusier"
+  - "Modernismo"
 ---
 
 ## Referências

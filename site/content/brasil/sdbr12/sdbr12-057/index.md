@@ -29,7 +29,7 @@ keywords:
   - "Luiz Affonso d'Escragnolle Filho"
 abstract_en: |
   El artículo analiza el proyecto para la Casa del Brasil en Madrid (1959-1962), en general asignado al arquitecto brasileño Luiz Affonso d'Escragnolle Filho (1924-2004). A pesar de algunos premios y elogios, como un comentario del ganador del Pritzker del año 1992, el arquitecto portugués Alvaro Siza, Luiz Affonso d'Escragnolle Filho no aparece en ninguno de los manuales sobre la arquitectura moderna brasileña, ni siquiera, en las obras que revisan su historia desde un punto de vista crítico, ampliando su comprensión más allá de las contribuciones de los nombres más conocidos, como los arquitectos Oscar Niemeyer (1907-2012) y Lucio Costa (1902-1998). Así, entre las líneas de las historias de las arquitecturas pretendidamente "oficiales" o "canónicas", y a menudo sólo parciales y sectarias, detrás de sus textos y capítulos, es posible descubrir omisiones y revelaciones que terminan por ofrecer una versión diferente, quizás más compleja, al proponer a sí misma como algo incompleto.
-keywords_en:
+keywords_es:
   - "arquitectura moderna brasileña"
   - "Casa del Brasil en Madrid"
   - "Luiz Affonso Escragnolle Filho"
@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna brasileira"
   - "Casa do Brasil em Madri"
   - "Luiz Affonso d'Escragnolle Filho"
+palabras-clave:
+  - "arquitectura moderna brasileña"
+  - "Casa del Brasil en Madrid"
+  - "Luiz Affonso Escragnolle Filho"
 ---
 
 ## Referências

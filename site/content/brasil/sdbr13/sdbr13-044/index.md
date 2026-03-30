@@ -58,6 +58,13 @@ palavras-chave:
   - "Museu de Belas Artes"
   - "de Caracas"
   - "Sesc Pompeia"
+keywords:
+  - "Modern Architecture"
+  - "Carlos Raúl Villanueva"
+  - "Lina Bo Bardi"
+  - "Museum of Fine Arts of"
+  - "Caracas"
+  - "Sesc Pompeia"
 ---
 
 ## Referências

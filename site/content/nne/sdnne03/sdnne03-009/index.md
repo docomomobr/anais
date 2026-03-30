@@ -50,6 +50,10 @@ palavras-chave:
   - "Patrimônio Moderno"
   - "Preservação Urbana"
   - "Limites Da Preservação"
+keywords:
+  - "Modern Heritage"
+  - "Urban Preservation"
+  - "Limits Of The Preservation"
 ---
 
 ## Referências

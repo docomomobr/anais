@@ -55,6 +55,11 @@ palavras-chave:
   - "Augusto Reynaldo"
   - "restauro"
   - "arquitetura moderna"
+keywords:
+  - "modernist houses"
+  - "Augusto Reynaldo"
+  - "restoration"
+  - "modern architecture"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "FUMEST"
   - "Infraestrutura turística"
   - "Arquitetura moderna paulista"
+keywords:
+  - "FUMEST"
+  - "Tourism infrastructure"
+  - "Paulista modern architecture"
+palabras-clave:
+  - "FUMEST"
+  - "Infraestructura turistica"
+  - "Arquitectura moderna paulista"
 ---
 
 ## Referências

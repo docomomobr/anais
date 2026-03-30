@@ -51,6 +51,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Elementos de Composição"
   - "Elementos de arquitetura"
+keywords:
+  - "Vilanova Artigas"
+  - "Elements of Composition"
+  - "Elements of architecture"
 ---
 
 ## Referências

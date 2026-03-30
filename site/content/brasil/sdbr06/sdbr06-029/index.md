@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "Mies van der Rohe"
   - "Brasil"
+keywords:
+  - "Mies van der Rohe"
+  - "Brazil"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Urbanismo moderno"
   - "Paisagem"
+keywords:
+  - "Oscar Niemeyer"
+  - "Modern urbanism"
+  - "Landscape"
 ---
 
 ## Referências

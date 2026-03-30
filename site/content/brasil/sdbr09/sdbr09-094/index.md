@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Belém"
   - "abstracionismo"
+keywords:
+  - "Modern Architecture"
+  - "Belém"
+  - "abstraction"
 ---
 
 ## Referências

@@ -43,6 +43,9 @@ autores:
 palavras-chave:
   - "superquadra"
   - "unidade vizinhança e cidade moderna"
+keywords:
+  - "superblock"
+  - "neighbourhood unit and modern city"
 ---
 
 ## Referências

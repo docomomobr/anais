@@ -60,6 +60,10 @@ palavras-chave:
   - "Casa Mariante e Casa Butantã"
   - "Paulo Mendes da Rocha"
   - "MMBB"
+keywords:
+  - "Mariante House and Butantã House"
+  - "Paulo Mendes da Rocha"
+  - "MMBB"
 ---
 
 ## Referências

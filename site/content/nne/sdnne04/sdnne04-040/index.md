@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Arquitetura moderna (RN)"
   - "História"
+keywords:
+  - "Modern Architecture (RN)"
+  - "History"
 ---
 
 ## Referências

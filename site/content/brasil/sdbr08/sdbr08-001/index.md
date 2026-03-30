@@ -50,6 +50,10 @@ palavras-chave:
   - "síntese das artes"
   - "integração das artes"
   - "arquitetura moderna brasileira"
+keywords:
+  - "synthesis of the arts"
+  - "integration of the arts"
+  - "modern brazilian architecture"
 ---
 
 ## Referências

@@ -65,6 +65,14 @@ palavras-chave:
   - "Arquitetura Bancária"
   - "Arquitetura Moderna"
   - "Arquitetura em Maringá"
+keywords:
+  - "Banking architecture"
+  - "Banestado"
+  - "Architecture in Maringá"
+palabras-clave:
+  - "Banking architecture"
+  - "Banestado"
+  - "Architecture in Maringá"
 ---
 
 ## Referências

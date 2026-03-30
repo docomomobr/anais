@@ -50,6 +50,11 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Rio de Janeiro"
   - "Carnaval"
+keywords:
+  - "Modern Architecture"
+  - "Oscar Niemeyer"
+  - "Rio de Janeiro"
+  - "Carnival"
 ---
 
 ## Referências

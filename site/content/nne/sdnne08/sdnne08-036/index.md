@@ -69,6 +69,18 @@ palavras-chave:
   - "Delfim Amorim"
   - "Casa de Amorim"
   - "Fenomenologia"
+keywords:
+  - "Modern architecture"
+  - "Modern Pernambuco Architecture"
+  - "Delfim Amorim"
+  - "Amorim House"
+  - "Phenomenology"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Arquitectura moderna de Pernambuco"
+  - "Delfim Amorim"
+  - "Casa de Amorim"
+  - "Fenomenología"
 ---
 
 ## Referências

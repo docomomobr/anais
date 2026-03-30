@@ -48,6 +48,10 @@ palavras-chave:
   - "Urbanismo Moderno"
   - "Impactos"
   - "Habitação"
+keywords:
+  - "Modern urbanism"
+  - "Impacts"
+  - "Housing"
 ---
 
 ## Referências

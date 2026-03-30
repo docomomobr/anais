@@ -46,6 +46,10 @@ palavras-chave:
   - "centro histórico"
   - "documentação"
   - "requalificação"
+keywords:
+  - "historical downtown areas"
+  - "documentation"
+  - "requalification"
 ---
 
 ## Referências

@@ -67,6 +67,10 @@ palavras-chave:
   - "urbanismo modernista"
   - "Pilar"
   - "cidades mineradoras"
+keywords:
+  - "Pilar"
+  - "Modernist urbanism"
+  - "Mining cities"
 ---
 
 ## Referências

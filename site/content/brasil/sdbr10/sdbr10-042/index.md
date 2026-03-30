@@ -45,6 +45,10 @@ palavras-chave:
   - "Humberto José Serpa"
   - "arquitetura moderna mineira"
   - "Brutalismo brasileiro"
+keywords:
+  - "Humberto José Serpa"
+  - "Modern Architecture in Minas Gerais"
+  - "Brazilian New Brutalism"
 ---
 
 ## Referências

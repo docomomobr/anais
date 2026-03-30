@@ -61,6 +61,17 @@ palavras-chave:
   - "artesanato"
   - "migrações, Nordeste"
   - "alteridade"
+keywords:
+  - "gender"
+  - "crafts"
+  - "migrations, Northeast"
+  - "otherness"
+palabras-clave:
+  - "género"
+  - "artesanía"
+  - "migraciones"
+  - "Nordeste"
+  - "alteridad"
 ---
 
 ## Referências

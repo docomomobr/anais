@@ -56,6 +56,14 @@ palavras-chave:
   - "Arquitectura moderna"
   - "Preservación"
   - "Proyecto urbano"
+keywords:
+  - "Modern architecture"
+  - "Preservation"
+  - "Urban design"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Preservación"
+  - "Proyecto urbano"
 ---
 
 ## Referências

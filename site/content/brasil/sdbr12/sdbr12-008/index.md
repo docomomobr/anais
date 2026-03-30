@@ -47,6 +47,10 @@ palavras-chave:
   - "Adolf Franz Heep"
   - "Elgson Ribeiro Gomes"
   - "Complexo Edifício MAPI"
+keywords:
+  - "Adolf Franz Heep"
+  - "Elgson Ribeiro Gomes"
+  - "MAPI Building Complex"
 ---
 
 ## Referências

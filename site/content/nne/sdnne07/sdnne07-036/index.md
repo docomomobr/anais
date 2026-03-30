@@ -36,13 +36,8 @@ abstract_es: |
   El punto principal que originó la ciudad de Boa Vista está situado en el banco del Río Blanco, y en su actual stand del stand: el centro comercial, predominante vegetal mas, algunos edificios y la herencia histórica en la forma de la herencia heredada. De la génesis de la ayuda humanitaria hasta el final del siglo XXI, el uso y la estancia de la región del suelo se consideraba por el puerto para pequeños buques, los resorts y el comercio, creando una conexión con la expansión de la red urbana. En el 2004, los municipios de la ciudad de Nueva York construyeron un nuevo look con la oferta de servicios y productos que no existían antes. Este trabajo para describir el comportamiento del proceso del Orla Taumanan. Para este propósito se aplicará un documento y un documento bibliográfico. Se considera que el Orla Taumanan modificó el uso del espacio pero se administró para conservar aspectos de interés, principalmente por la relación cultural con los otros elementos de los alrededores. La creación del Orla Taumanan (re) utilizado el elemento primario: water, crea un nuevo contexto de mirar en este cut de la ciudad, pero disregarded su función principal que es conservarla para las presentaciones y futuras generaciones.
 keywords_es:
   - "Reutilización, Orla Taumanan, Boa Vista"
-  - "ABSTRACT The main point that originated the city of Boa Vista is on the bank of the Rio Branco, and in its current landscape composition stand out: the commercial center, predominantly vegetal mass, some buildings and the historical heritage in the form of built heritage"
-  - "From the genesis of human intervention until the end of the twentieth century, the use and occupation of the region's soil was characterized by a port for small boats, seaside resorts and commerce, creating a connection with the expansion of the urban network"
-  - "The municipal government undertook several works in order to modernize the region, so in 2004 the Orla Taumanan monument was inaugurated, giving a new look with the offer of services and products that did not exist before"
   - "This work aims to describe the evolutionary process of the Orla Taumanan landscape"
   - "For this purpose a documentary and bibliographic study will be applied"
-  - "It is noticed that the Orla Taumanan modified the use of the space, but managed to preserve attractive aspects, mainly by the cultural relation with the other elements of the surroundings"
-  - "The creation of the Orla Taumanan (re) used the main element: water, creating a new context of looking at this cut of the city, but disregarded its main function which is to preserve it for the present and future generations"
 authors:
   - givenname: "Jefferson Eduardo da Silva"
     familyname: "Morales"
@@ -67,6 +62,14 @@ palavras-chave:
   - "Reutilização"
   - "Orla Taumanan"
   - "Boa Vista"
+keywords:
+  - "Reuse"
+  - "Orla Taumanan"
+  - "Boa Vista"
+palabras-clave:
+  - "Reutilización, Orla Taumanan, Boa Vista"
+  - "This work aims to describe the evolutionary process of the Orla Taumanan landscape"
+  - "For this purpose a documentary and bibliographic study will be applied"
 ---
 
 ## Referências

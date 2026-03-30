@@ -68,6 +68,18 @@ palavras-chave:
   - "Métodos construtivos"
   - "Patrimônio imaterial"
   - "Pré-fabricação"
+keywords:
+  - "Industrial architecture"
+  - "Lelé"
+  - "Construction methods"
+  - "Intangible heritage"
+  - "Pre-fabrication"
+palabras-clave:
+  - "Arquitectura industrial"
+  - "Lelé"
+  - "Métodos de construcción"
+  - "Patrimonio inmaterial"
+  - "Prefabricación"
 ---
 
 ## Referências

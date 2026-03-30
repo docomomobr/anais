@@ -52,6 +52,10 @@ palavras-chave:
   - "Análise gráfica"
   - "Estratégias projetuais"
   - "Arquitetura moderna"
+keywords:
+  - "Graphical analysis"
+  - "Design strategies"
+  - "Modern architecture"
 ---
 
 ## Referências

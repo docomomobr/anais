@@ -63,6 +63,16 @@ palavras-chave:
   - "Modernosa"
   - "Arquitetura Popular"
   - "Seridó potiguar"
+keywords:
+  - "Modernities"
+  - "Modernosa"
+  - "Popular Architecture"
+  - "Seridó Potiguar"
+palabras-clave:
+  - "Modernidades"
+  - "Modernosa"
+  - "Arquitectura Popular"
+  - "Seridó potiguar"
 ---
 
 ## Referências

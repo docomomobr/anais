@@ -54,6 +54,12 @@ palavras-chave:
   - "Ensino"
   - "Documentação"
   - "Preservação"
+keywords:
+  - "Modern      Architecture"
+  - "Goiânia"
+  - "Teaching"
+  - "Documentation"
+  - "Preservation"
 ---
 
 ## Referências

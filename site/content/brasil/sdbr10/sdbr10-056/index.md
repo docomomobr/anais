@@ -53,6 +53,10 @@ palavras-chave:
   - "Brutalismo"
   - "fórum"
   - "prédio público"
+keywords:
+  - "Brutalism"
+  - "forum"
+  - "public building"
 ---
 
 ## Referências

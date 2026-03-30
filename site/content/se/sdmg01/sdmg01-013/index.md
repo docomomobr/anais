@@ -46,6 +46,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "mentalidade nacional"
   - "identidade nacional"
+keywords:
+  - "modern architecture"
+  - "national mentality"
+  - "national identity"
 ---
 
 ## Referências

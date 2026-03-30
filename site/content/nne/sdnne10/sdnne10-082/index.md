@@ -60,6 +60,16 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Salvador"
   - "Revistas especializadas"
+keywords:
+  - "Eclectic architecture"
+  - "Modern architecture"
+  - "Salvador"
+  - "Specialized magazines"
+palabras-clave:
+  - "Arquitectura ecléctica"
+  - "Arquitectura moderna"
+  - "Salvador"
+  - "Revistas especializadas"
 ---
 
 ## Referências

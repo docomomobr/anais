@@ -72,6 +72,18 @@ palavras-chave:
   - "restauração"
   - "pintura mural"
   - "painel cerâmico"
+keywords:
+  - "modernism"
+  - "conservation"
+  - "restoration"
+  - "wall-painting"
+  - "ceramic panel"
+palabras-clave:
+  - "modernismo"
+  - "conservación"
+  - "restauración"
+  - "mural"
+  - "panel cerámico"
 ---
 
 ## Referências

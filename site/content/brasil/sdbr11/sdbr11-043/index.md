@@ -50,6 +50,11 @@ palavras-chave:
   - "Casa Lota"
   - "Pavilhão CSN"
   - "Movimento moderno"
+keywords:
+  - "Sergio Bernardes"
+  - "The Lota House"
+  - "CSN Pavilion"
+  - "Modern Movement"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "mínimo"
   - "produção habitacional"
   - "modernismo"
+keywords:
+  - "minimum"
+  - "housing production"
+  - "modernism"
 ---
 
 ## Referências

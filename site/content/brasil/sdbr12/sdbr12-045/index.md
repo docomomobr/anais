@@ -44,6 +44,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna – Pernambuco"
   - "Azulejo"
+keywords:
+  - "Modern Architecture – Pernambuco"
+  - "Tile"
 ---
 
 ## Referências

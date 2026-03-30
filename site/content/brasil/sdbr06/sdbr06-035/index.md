@@ -41,6 +41,8 @@ autores:
   - "Daufenbach, Karine"
 palavras-chave:
   - "arquitetura industrial"
+keywords:
+  - "industrial architecture"
 ---
 
 ## Referências

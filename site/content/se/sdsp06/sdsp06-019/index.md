@@ -47,6 +47,10 @@ palavras-chave:
   - "Concretismo"
   - "Novo realismo"
   - "Surrealismo"
+keywords:
+  - "Concretism"
+  - "New realism"
+  - "Surrealism"
 ---
 
 ## Referências

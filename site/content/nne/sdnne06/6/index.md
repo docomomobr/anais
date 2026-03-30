@@ -43,4 +43,8 @@ palavras-chave:
   - "arquitetura tropical"
   - "estruturalismo"
   - "indústria"
+keywords:
+  - "tropical architecture"
+  - "structuralism"
+  - "industry"
 ---

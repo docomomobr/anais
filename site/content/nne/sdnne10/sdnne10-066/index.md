@@ -68,6 +68,16 @@ palavras-chave:
   - "planejamento urbano"
   - "plano urbanístico"
   - "fronteira"
+keywords:
+  - "Developmentalism"
+  - "Urban planning"
+  - "Urban plan"
+  - "Border"
+palabras-clave:
+  - "desarrollismo"
+  - "planificación urbana"
+  - "plano urbano"
+  - "frontera"
 ---
 
 ## Referências

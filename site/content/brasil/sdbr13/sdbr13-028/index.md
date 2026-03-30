@@ -56,6 +56,11 @@ palavras-chave:
   - "arquitetura de concurso"
   - "Curitiba"
   - "circulação de ideias"
+keywords:
+  - "megastructure"
+  - "design competition"
+  - "Curitiba"
+  - "diffusion of architecture ideas"
 ---
 
 ## Referências

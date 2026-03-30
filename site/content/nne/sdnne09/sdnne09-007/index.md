@@ -54,6 +54,11 @@ palavras-chave:
   - "Centro Cívico de Santa Rosa"
   - "Banco de Londres"
   - "Biblioteca Nacional"
+keywords:
+  - "Clorindo Testa"
+  - "Centro Cívico de Santa Rosa"
+  - "Banco de Londres"
+  - "Biblioteca Nacional"
 ---
 
 ## Referências

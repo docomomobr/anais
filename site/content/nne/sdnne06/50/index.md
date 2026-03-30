@@ -42,6 +42,10 @@ palavras-chave:
   - "Belém"
   - "arquitetura moderna"
   - "trajetórias"
+keywords:
+  - "Belém"
+  - "modern architecture"
+  - "trajectories"
 ---
 
 ## Referências

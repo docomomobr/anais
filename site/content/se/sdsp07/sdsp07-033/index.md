@@ -62,6 +62,14 @@ palavras-chave:
   - "Brutalismo paulista"
   - "Edifícios comerciais"
   - "Estabelecimentos comerciais de mobiliário"
+keywords:
+  - "Paulista brutalism"
+  - "Commercial buildings"
+  - "Furniture stores"
+palabras-clave:
+  - "Brutalismo paulista"
+  - "Edificio comercial"
+  - "Establecimientos comerciales de mobiliário"
 ---
 
 ## Referências

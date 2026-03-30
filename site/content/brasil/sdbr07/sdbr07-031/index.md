@@ -48,6 +48,10 @@ palavras-chave:
   - "inserção"
   - "aço"
   - "revitalização"
+keywords:
+  - "insertion"
+  - "steel"
+  - "revitalization"
 ---
 
 ## Referências

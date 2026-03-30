@@ -67,6 +67,18 @@ palavras-chave:
   - "documentação"
   - "inventário"
   - "python"
+keywords:
+  - "Crato"
+  - "Modern Heritage"
+  - "Documentation"
+  - "Inventory"
+  - "Python"
+palabras-clave:
+  - "crato"
+  - "patrimonio moderno"
+  - "documentación"
+  - "inventario"
+  - "python"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "linguagem moderna arquitetura residencial"
   - "Casa e Jardim anos 1950"
   - "arquitetura classe média"
+keywords:
+  - "modern language residential architecture"
+  - "Casa e Jardim 1950s"
+  - "middle class architecture"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "forma ética"
   - "Artigas e Koolhaas"
   - "arquitetura moderna e contemporânea"
+keywords:
+  - "ethical form"
+  - "Artigas and Koolhaas"
+  - "modern and contemporary architecture"
 ---
 
 ## Referências

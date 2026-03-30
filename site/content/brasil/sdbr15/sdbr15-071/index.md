@@ -63,6 +63,14 @@ palavras-chave:
   - "Arquitetura Moderna brasileira"
   - "Patrimônio arquitetônico"
   - "Documentação"
+keywords:
+  - "Brazilian Modern Architectur"
+  - "Architectural Heritage"
+  - "Documentation"
+palabras-clave:
+  - "Arquitectura Moderna Brasileña"
+  - "Patrimonio arquitectónico"
+  - "Documentación"
 ---
 
 ## Referências

@@ -64,6 +64,15 @@ palavras-chave:
   - "pós-modernismo"
   - "Habermas"
   - "arquitetura"
+keywords:
+  - "Modernism"
+  - "post-modernism"
+  - "Habermas"
+  - "architecture"
+palabras-clave:
+  - "Modernismo"
+  - "Posmodernismo"
+  - "Arquitectura"
 ---
 
 ## Referências

@@ -54,6 +54,11 @@ palavras-chave:
   - "Le Corbusier-Saugnier"
   - "Por uma Arquitetura"
   - "modernidade"
+keywords:
+  - "Le Corbusier"
+  - "Le Corbusier-Saugnier"
+  - "Toward an Architecture"
+  - "modernity"
 ---
 
 ## Referências

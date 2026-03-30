@@ -44,6 +44,8 @@ autores:
   - "Eskinazi, Mara Oliveira"
 palavras-chave:
   - "arquitetura moderna – habitação social – exposições"
+keywords:
+  - "modern architecture – social dwelling - exhibitions"
 ---
 
 ## Referências

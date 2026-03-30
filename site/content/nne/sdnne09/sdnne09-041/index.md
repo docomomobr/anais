@@ -57,6 +57,11 @@ palavras-chave:
   - "cine teatro"
   - "requalificação"
   - "Barbalha"
+keywords:
+  - "heritage"
+  - "cine theater"
+  - "requalification"
+  - "Barbalha"
 ---
 
 ## Referências

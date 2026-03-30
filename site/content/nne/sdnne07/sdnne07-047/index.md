@@ -74,6 +74,18 @@ palavras-chave:
   - "Preservação"
   - "Conservação"
   - "Geraldino Duda"
+keywords:
+  - "Modern Architecture"
+  - "Modern Heritage"
+  - "Preservation"
+  - "Conservation"
+  - "Geraldino Duda"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Patrimonio Moderno"
+  - "Preservación"
+  - "Conservación"
+  - "Geraldino Duda"
 ---
 
 ## Referências

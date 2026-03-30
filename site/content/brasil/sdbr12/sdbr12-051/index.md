@@ -50,6 +50,10 @@ palavras-chave:
   - "Revista A CASA"
   - "renovação da arquitetura brasileira"
   - "história da arquitetura moderna"
+keywords:
+  - "Magazine “A CASA”"
+  - "renewal of brazilian architecture"
+  - "history of modern architecture"
 ---
 
 ## Referências

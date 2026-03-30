@@ -47,6 +47,10 @@ palavras-chave:
   - "concreto"
   - "Ministério"
   - "estrutura"
+keywords:
+  - "concrete"
+  - "Ministry"
+  - "structure"
 ---
 
 ## Referências

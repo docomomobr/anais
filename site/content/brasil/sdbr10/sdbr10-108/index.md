@@ -46,6 +46,10 @@ palavras-chave:
   - "Brutalismo"
   - "concreto aparente"
   - "estádios"
+keywords:
+  - "Brutalism"
+  - "bare concrete"
+  - "stadia"
 ---
 
 ## Referências

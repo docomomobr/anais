@@ -69,6 +69,14 @@ palavras-chave:
   - "Patrimônio Moderno Industrial"
   - "Soluções climáticas"
   - "Preservação"
+keywords:
+  - "Industrial Modern Heritage"
+  - "Climate solutions"
+  - "Preservation"
+palabras-clave:
+  - "Patrimonio Moderno Industrial"
+  - "Soluciones climáticas"
+  - "Preservación"
 ---
 
 ## Referências

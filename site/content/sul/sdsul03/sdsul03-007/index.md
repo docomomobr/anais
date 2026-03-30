@@ -49,6 +49,10 @@ palavras-chave:
   - "Brasília"
   - "Arquitetura de Madeira"
   - "Modernismo Candango"
+keywords:
+  - "Brasilia"
+  - "Wood Architecture"
+  - "Candango Modernism"
 ---
 
 ## Referências

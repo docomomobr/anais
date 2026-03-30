@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Paulista"
   - "Metodologia de Projeto"
   - "Sublime"
+keywords:
+  - "Architecture of São Paulo"
+  - "Design Methodology"
+  - "Sublime"
 ---
 
 ## Referências

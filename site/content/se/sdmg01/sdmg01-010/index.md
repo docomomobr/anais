@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura"
   - "modernismo"
   - "Passos (MG)"
+keywords:
+  - "Architecture"
+  - "modernism"
+  - "Passos (MG)"
 ---
 
 ## Referências

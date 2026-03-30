@@ -50,6 +50,10 @@ palavras-chave:
   - "mulheres modernas"
   - "arquitetura modernas"
   - "arquitetura em São Luís-MA"
+keywords:
+  - "modern women"
+  - "modern architecture"
+  - "architecture in São Luís-MA"
 ---
 
 ## Referências

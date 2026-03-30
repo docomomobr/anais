@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Significância"
   - "Eficiência energética"
+keywords:
+  - "Modern Architecture"
+  - "Significance"
+  - "Energy efficiency"
 ---
 
 ## Referências

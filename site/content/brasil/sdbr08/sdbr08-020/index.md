@@ -47,6 +47,10 @@ palavras-chave:
   - "Recife"
   - "intervenções urbanas"
   - "Paulo Bruscky"
+keywords:
+  - "Recife"
+  - "artistic interventions"
+  - "Paulo Bruscky"
 ---
 
 ## Referências

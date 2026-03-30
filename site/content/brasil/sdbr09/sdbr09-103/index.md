@@ -54,6 +54,12 @@ palavras-chave:
   - "Documentação"
   - "Brutalismo"
   - "residências"
+keywords:
+  - "Modern Architecture"
+  - "Minas Gerais"
+  - "Documentation"
+  - "Brutalism"
+  - "homes"
 ---
 
 ## Referências

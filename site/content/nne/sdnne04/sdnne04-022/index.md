@@ -55,6 +55,12 @@ palavras-chave:
   - "Brasília"
   - "Arquitetura moderna"
   - "Mário Pedrosa"
+keywords:
+  - "Abstract Art"
+  - "Art Criticism"
+  - "Brasília"
+  - "Modern Architecture"
+  - "Mário Pedrosa"
 ---
 
 ## Referências

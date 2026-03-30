@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Esportiva"
   - "Projetos"
   - "Arquitetura Moderna"
+keywords:
+  - "Sports Architecture"
+  - "Projects"
+  - "Modern Architecture"
 ---
 
 ## Referências

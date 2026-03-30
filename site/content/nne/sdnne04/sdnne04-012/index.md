@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura moderna piauiense"
   - "modernidade arquitetônica"
   - "projetos"
+keywords:
+  - "modern architecture of Piauí"
+  - "modern architectural"
+  - "architectural projects"
 ---
 
 ## Referências

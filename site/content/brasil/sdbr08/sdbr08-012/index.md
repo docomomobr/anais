@@ -60,6 +60,10 @@ palavras-chave:
   - "Conforto ambiental"
   - "casas de Lucio Costa"
   - "Arquitetura Moderna"
+keywords:
+  - "Environmental comfort"
+  - "Lucio Costa’s houses"
+  - "Modern Architecture"
 ---
 
 ## Referências

@@ -69,6 +69,16 @@ palavras-chave:
   - "sensibilização"
   - "preservação patrimonial"
   - "memória"
+keywords:
+  - "historical heritage"
+  - "awareness"
+  - "heritage preservation"
+  - "memory"
+palabras-clave:
+  - "patrimonio histórico"
+  - "concienciación"
+  - "preservación del patrimônio"
+  - "memoria"
 ---
 
 ## Referências

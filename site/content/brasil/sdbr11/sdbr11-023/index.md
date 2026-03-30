@@ -62,6 +62,12 @@ palavras-chave:
   - "Reuso"
   - "Preservação"
   - "Debate"
+keywords:
+  - "Hotel Internacional Reis Magos"
+  - "Listing"
+  - "Reutilization"
+  - "Preservation"
+  - "Debate"
 ---
 
 ## Referências

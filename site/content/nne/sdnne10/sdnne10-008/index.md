@@ -59,6 +59,14 @@ palavras-chave:
   - "Conservação"
   - "Patrimônio"
   - "Arquitetura Moderna"
+keywords:
+  - "Conservation"
+  - "Heritage"
+  - "Modern Architecture"
+palabras-clave:
+  - "Conservación"
+  - "Patrimonio"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

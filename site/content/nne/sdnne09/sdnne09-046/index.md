@@ -58,6 +58,12 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "Casa do Morumbi"
   - "Casa Valéria Cirell"
+keywords:
+  - "Tectonic analysis"
+  - "Brazil’s architecture"
+  - "Lina Bo Bardi"
+  - "Morumbi’s House"
+  - "Valéria Cirelli’s house"
 ---
 
 ## Referências

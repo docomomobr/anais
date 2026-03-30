@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura"
   - "Educação"
   - "Urbano"
+keywords:
+  - "Architecture"
+  - "Education"
+  - "Urban"
 ---
 
 ## Referências

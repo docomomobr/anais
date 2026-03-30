@@ -48,6 +48,10 @@ palavras-chave:
   - "Revistas italianas especializadas"
   - "Arquitetura e urbanismo modernos"
   - "Brasil"
+keywords:
+  - "Specialized Italian magazines"
+  - "Modern architecture and urbanism"
+  - "Brazil"
 ---
 
 ## Referências

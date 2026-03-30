@@ -49,6 +49,10 @@ palavras-chave:
   - "Concrete Construction"
   - "Miami"
   - "Ethnic Identity"
+keywords:
+  - "Concrete Construction"
+  - "Miami"
+  - "Ethnic Identity"
 ---
 
 ## Referências

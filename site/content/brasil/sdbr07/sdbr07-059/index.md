@@ -47,6 +47,10 @@ autores:
   - "Peixoto, Marta Silveira"
 palavras-chave:
   - "Arquitetura moderna brasileira-edifícios residenciais Edifícios reciclados"
+keywords:
+  - "Modern Brazilian architecture"
+  - "residential buildings"
+  - "recycled buildings"
 ---
 
 ## Referências

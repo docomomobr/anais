@@ -62,6 +62,11 @@ palavras-chave:
   - "arte mural"
   - "modernismo"
   - "concreto policromado"
+keywords:
+  - "restoration"
+  - "mural art"
+  - "modernism"
+  - "polychrome concrete"
 ---
 
 ## Referências

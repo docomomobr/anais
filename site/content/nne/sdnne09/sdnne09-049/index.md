@@ -50,6 +50,10 @@ palavras-chave:
   - "lina bo"
   - "salvador"
   - "encruzilhada"
+keywords:
+  - "lina bo"
+  - "salvador"
+  - "crossroad"
 ---
 
 ## Referências

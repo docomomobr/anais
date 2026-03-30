@@ -44,6 +44,10 @@ palavras-chave:
   - "Julio Vilamajó"
   - "modernismo na América Latina"
   - "casa-museu"
+keywords:
+  - "Julio Vilamajó"
+  - "modernism in Latin America"
+  - "museum-house"
 ---
 
 ## Referências

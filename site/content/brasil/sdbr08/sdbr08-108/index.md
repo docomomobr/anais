@@ -50,6 +50,10 @@ palavras-chave:
   - "Recife"
   - "modernidade"
   - "pós-utopia"
+keywords:
+  - "Recife"
+  - "modernity"
+  - "post-utopia"
 ---
 
 ## Referências

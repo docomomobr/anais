@@ -49,6 +49,11 @@ palavras-chave:
   - "cidade histórica"
   - "racionalidade técnica"
   - "modernização"
+keywords:
+  - "Modern Architecture"
+  - "historical city"
+  - "technical rationality"
+  - "modernization"
 ---
 
 ## Referências

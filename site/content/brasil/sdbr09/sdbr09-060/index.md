@@ -53,4 +53,10 @@ palavras-chave:
   - "Brasília"
   - "Lucio Costa"
   - "Planejamento Urbano"
+keywords:
+  - "Urban Scale"
+  - "Modernism"
+  - "Brasília"
+  - "Lucio Costa"
+  - "Urban Planning"
 ---

@@ -50,6 +50,14 @@ palavras-chave:
   - "Preservação"
   - "Arquitetura Industrial"
   - "Porto de Santos"
+keywords:
+  - "Preservation"
+  - "Industrial Architecture"
+  - "Port of Santos"
+palabras-clave:
+  - "Preservación"
+  - "Arquitectura Industrial"
+  - "Puerto de Santos"
 ---
 
 ## Referências

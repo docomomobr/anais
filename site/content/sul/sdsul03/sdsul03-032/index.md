@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Mata-borrão"
   - "Pavilhão efêmero"
+keywords:
+  - "Modern architecture"
+  - "Mata-borrão"
+  - "ephemeral pavilion"
 ---
 
 ## Referências

@@ -60,6 +60,16 @@ palavras-chave:
   - "Wandenkolk Tinoco"
   - "Residências Modernas"
   - "Pernambuco"
+keywords:
+  - "Modern architecture"
+  - "Wandenkolk Tinoco"
+  - "Modern Residences"
+  - "Pernambuco"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Wandenkolk Tinoco"
+  - "Residencias Modernas"
+  - "Pernambuco"
 ---
 
 ## Referências

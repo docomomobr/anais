@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "casa moderna brasileira"
   - "projetos uni-residenciais"
+keywords:
+  - "modern architecture"
+  - "modern brarzilian house"
+  - "uni-residential projects"
 ---
 
 ## Referências

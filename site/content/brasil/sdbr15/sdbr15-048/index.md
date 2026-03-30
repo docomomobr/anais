@@ -58,6 +58,14 @@ palavras-chave:
   - "Movimento moderno"
   - "Arquitetura brasileira"
   - "Estética"
+keywords:
+  - "Modern movement"
+  - "Brazilian architecture"
+  - "Aesthetics"
+palabras-clave:
+  - "Movimiento moderno"
+  - "Arquitectura brasileña"
+  - "Estética"
 ---
 
 ## Referências

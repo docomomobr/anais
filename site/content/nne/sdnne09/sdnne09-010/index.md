@@ -58,6 +58,10 @@ palavras-chave:
   - "Modernismo"
   - "Institutos federais"
   - "IFMT"
+keywords:
+  - "Modernism"
+  - "Federal Institutes"
+  - "IFMT"
 ---
 
 ## Referências

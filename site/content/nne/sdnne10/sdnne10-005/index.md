@@ -63,6 +63,14 @@ palavras-chave:
   - "Athos Bulcão"
   - "murais azulejares"
   - "arquitetura moderna"
+keywords:
+  - "Athos Bulcão"
+  - "tiled murals"
+  - "modern architecture"
+palabras-clave:
+  - "Athos Bulcão"
+  - "murales de azulejos"
+  - "arquitectura moderna"
 ---
 
 ## Referências

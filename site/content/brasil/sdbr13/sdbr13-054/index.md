@@ -51,6 +51,11 @@ palavras-chave:
   - "apartamento"
   - "orla"
   - "João Pessoa (cidade)"
+keywords:
+  - "maid's room"
+  - "apartment"
+  - "waterfront"
+  - "Joao Pessoa (city)"
 ---
 
 ## Referências

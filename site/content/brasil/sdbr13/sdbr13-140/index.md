@@ -57,6 +57,12 @@ palavras-chave:
   - "Instituto de Tecnologia"
   - "de Illinois"
   - "Marquise"
+keywords:
+  - "Mies van der Rohe"
+  - "Walter Netsch"
+  - "Paul V. Galvin Library"
+  - "Illinois Institute of Technology"
+  - "Canopy"
 ---
 
 ## Referências

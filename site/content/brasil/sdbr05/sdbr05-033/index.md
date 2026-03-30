@@ -48,6 +48,11 @@ palavras-chave:
   - "Casas Modernas Cariocas"
   - "Residências"
   - "Rio de Janeiro"
+keywords:
+  - "Modern Houses"
+  - "Carioca"
+  - "Residences"
+  - "Rio de Janeiro"
 ---
 
 ## Referências

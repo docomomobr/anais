@@ -48,6 +48,8 @@ palavras-chave:
   - "Goiânia"
   - "Cidade moderna"
   - "Urbanismo moderno"
+keywords:
+  - "Goiânia, Modern city, Modern urbanism"
 ---
 
 ## Referências

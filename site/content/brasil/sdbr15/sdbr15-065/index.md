@@ -60,6 +60,14 @@ palavras-chave:
   - "Inventário"
   - "Caminhadas Urbanas"
   - "Reconhecimento Histórico"
+keywords:
+  - "Inventory"
+  - "Urban Walks"
+  - "Historical Recognition"
+palabras-clave:
+  - "Inventario"
+  - "Paseos Urbanos"
+  - "Reconocimiento Histórico"
 ---
 
 ## Referências

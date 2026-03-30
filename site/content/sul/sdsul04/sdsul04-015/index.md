@@ -54,6 +54,10 @@ palavras-chave:
   - "Palácio do Congresso Nacional"
   - "Oscar Niemeyer"
   - "Fachadas de Vidro"
+keywords:
+  - "Brazilian Palace of Congress"
+  - "Oscar Niemeyer"
+  - "Glass Façades"
 ---
 
 ## Referências

@@ -61,6 +61,16 @@ palavras-chave:
   - "neoplasticismo"
   - "paisagem"
   - "modernismo"
+keywords:
+  - "abstraction"
+  - "neoplasticism"
+  - "landscape"
+  - "modernism"
+palabras-clave:
+  - "abstracción"
+  - "neoplasticismo"
+  - "paisaje"
+  - "modernismo"
 ---
 
 ## Referências

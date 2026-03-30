@@ -65,6 +65,16 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Cinema"
   - "Pernambuco"
+keywords:
+  - "Wandenkolk Tinoco"
+  - "Modern Architecture"
+  - "Cinema"
+  - "Pernambuco"
+palabras-clave:
+  - "Wandenkolk Tinoco"
+  - "Arquitectura Moderna"
+  - "Cine"
+  - "Pernambuco"
 ---
 
 ## Referências

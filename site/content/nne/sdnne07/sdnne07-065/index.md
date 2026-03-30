@@ -67,6 +67,16 @@ palavras-chave:
   - "Estratégias Bioclimáticas"
   - "Campus UFAM"
   - "Amazônia"
+keywords:
+  - "Severiano Mário Porto"
+  - "Bioclimatic Strategies"
+  - "Campus UFAM"
+  - "Amazonia"
+palabras-clave:
+  - "Severiano Mário Porto"
+  - "Estrategias Bioclimáticas"
+  - "Campus UFAM"
+  - "Amazonia"
 ---
 
 ## Referências

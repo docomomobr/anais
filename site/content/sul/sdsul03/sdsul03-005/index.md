@@ -49,6 +49,10 @@ palavras-chave:
   - "arquitetura"
   - "moderna"
   - "madeira"
+keywords:
+  - "architecture"
+  - "modern"
+  - "wood"
 ---
 
 ## Referências

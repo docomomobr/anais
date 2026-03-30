@@ -48,6 +48,10 @@ palavras-chave:
   - "trajectórias"
   - "urbanismo moderno"
   - "Portugal"
+keywords:
+  - "routes"
+  - "modern urbanism"
+  - "Portugal"
 ---
 
 ## Referências

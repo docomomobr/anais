@@ -52,6 +52,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Madeira"
   - "Preservação"
+keywords:
+  - "Brasília"
+  - "Modern Architecture"
+  - "Wood"
+  - "Preservation"
 ---
 
 ## Referências

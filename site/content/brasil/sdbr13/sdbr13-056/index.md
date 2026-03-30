@@ -58,6 +58,12 @@ palavras-chave:
   - "Extensão"
   - "Hans Broos"
   - "IFSC"
+keywords:
+  - "Heritage Research"
+  - "Teaching"
+  - "Extension"
+  - "Hans Broos"
+  - "IFSC"
 ---
 
 ## Referências

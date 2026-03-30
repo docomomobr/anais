@@ -28,8 +28,6 @@ keywords:
   - "restauro"
   - "patrimônio"
   - "concurso"
-keywords_en:
-  - "RESTAURO – PATRIMÔNIO – CONCURSO"
 authors:
   - givenname: "Paulo Julio Valentino"
     familyname: "Bruna"

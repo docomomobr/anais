@@ -49,6 +49,10 @@ palavras-chave:
   - "Centro Histórico de São Paulo"
   - "Arquitetura Moderna"
   - "Cidade Tradicional"
+keywords:
+  - "Modern Buildings"
+  - "São Paulo’s Historical Center"
+  - "Modern Architecture and Traditional City"
 ---
 
 ## Referências

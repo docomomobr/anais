@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Preservação"
   - "Docomomo"
+keywords:
+  - "Modern Architecture"
+  - "Preservation"
+  - "Docomomo"
 ---
 
 ## Referências

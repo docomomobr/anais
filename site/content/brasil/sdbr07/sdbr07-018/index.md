@@ -55,6 +55,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "mudanças urbanas"
   - "conservação do patrimônio"
+keywords:
+  - "modern architecture"
+  - "urban change"
+  - "built heritage conservation"
 ---
 
 ## Referências

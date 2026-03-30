@@ -51,6 +51,11 @@ palavras-chave:
   - "Habitação Coletiva"
   - "Habitação Social"
   - "Conjuntos Habitacionais"
+keywords:
+  - "Modern Architecture"
+  - "Collective Housing"
+  - "Social Housing"
+  - "Housing Projects"
 ---
 
 ## Referências

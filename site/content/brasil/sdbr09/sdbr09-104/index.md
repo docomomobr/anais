@@ -58,6 +58,12 @@ palavras-chave:
   - "Identidade Cultural"
   - "Discurso"
   - "Narrativa"
+keywords:
+  - "Brasília"
+  - "Heritage"
+  - "Cultural Identity"
+  - "Discourse"
+  - "Narrative"
 ---
 
 ## Referências

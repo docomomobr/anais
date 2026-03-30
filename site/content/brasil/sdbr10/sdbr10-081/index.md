@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura Paranaense"
   - "Arquitetura em Curitiba"
+keywords:
+  - "Modern Architecture"
+  - "Architecture in Paraná"
+  - "Architecture in Curitiba"
 ---
 
 ## Referências

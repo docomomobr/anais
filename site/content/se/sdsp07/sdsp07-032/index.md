@@ -62,6 +62,14 @@ palavras-chave:
   - "Éolo Maia"
   - "Modernismo"
   - "Pós-moderno"
+keywords:
+  - "Éolo Maia"
+  - "Modernism"
+  - "Postmodern"
+palabras-clave:
+  - "Éolo Maia"
+  - "Modernismo"
+  - "Posmoderno"
 ---
 
 ## Referências

@@ -56,6 +56,10 @@ palavras-chave:
   - "Cidade Universitária"
   - "patrimônio moderno"
   - "renovação"
+keywords:
+  - "University City"
+  - "modern heritage"
+  - "renovation"
 ---
 
 ## Referências

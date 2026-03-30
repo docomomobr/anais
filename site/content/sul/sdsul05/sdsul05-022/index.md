@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Moderna Bancária"
   - "Porto Alegre"
   - "Anos Setenta"
+keywords:
+  - "Modern Architecture Bank"
+  - "Porto Alegre"
+  - "Seventy years"
 ---
 
 ## Referências

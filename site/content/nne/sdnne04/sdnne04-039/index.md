@@ -93,6 +93,10 @@ autores:
 palavras-chave:
   - "Catedral Metropolitana de Natal"
   - "Capela Ecumênica do Campus da UFRN"
+keywords:
+  - "Metropolitan Cathedral of Natal"
+  - "Chapel Ecumenical Campus UFRN"
+  - "Modern Movement"
 ---
 
 ## Referências

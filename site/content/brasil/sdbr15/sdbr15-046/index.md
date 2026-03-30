@@ -63,6 +63,14 @@ palavras-chave:
   - "Modernismo"
   - "Habitação"
   - "Usina hidrelétrica"
+keywords:
+  - "Modernism"
+  - "Habitation"
+  - "Hydroelectric power station"
+palabras-clave:
+  - "Modernismo"
+  - "Habitación"
+  - "Central hidroeléctrica"
 ---
 
 ## Referências

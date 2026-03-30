@@ -50,6 +50,9 @@ autores:
 palavras-chave:
   - "Arquitetura Moderna Passo Fundo"
   - "Interdisciplinaridade"
+keywords:
+  - "Modern Architecture in Passo Fundo"
+  - "Interdisciplinary"
 ---
 
 ## Referências

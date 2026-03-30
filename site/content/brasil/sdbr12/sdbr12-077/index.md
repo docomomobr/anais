@@ -49,6 +49,10 @@ palavras-chave:
   - "Ouro Verde"
   - "Vilanova Artigas"
   - "Patrimônio Moderno"
+keywords:
+  - "Ouro Verde"
+  - "Vilanova Artigas"
+  - "Modern Heritage"
 ---
 
 ## Referências

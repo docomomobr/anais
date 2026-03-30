@@ -54,6 +54,12 @@ palavras-chave:
   - "Projeto social"
   - "Ginásio do Clube Atlético Paulistano"
   - "Paulo Mendes da Rocha"
+keywords:
+  - "Technique"
+  - "Art"
+  - "social project"
+  - "Ginásio do Clube Atlético Paulistano"
+  - "Paulo Mendes da Rocha"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "Banco do Estado da Guanabara"
   - "Edifício avenida Central"
   - "Edifício-sede Jornal do Brasil"
+keywords:
+  - "Banco do Estado da Guanabara"
+  - "Avenida Central Building"
+  - "Jornal do Brasil' headquarters"
 ---
 
 ## Referências

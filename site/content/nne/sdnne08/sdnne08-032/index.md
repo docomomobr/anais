@@ -73,6 +73,16 @@ palavras-chave:
   - "Integração das artes na arquitetura"
   - "Painéis artísticos em edificações"
   - "Recife"
+keywords:
+  - "Athos Bulcão"
+  - "Integration of the arts in architecture"
+  - "Artistic panels in buildings"
+  - "Recife"
+palabras-clave:
+  - "Athos Bulcão"
+  - "Integración de las artes en la arquitectura"
+  - "Paneles artísticos en edificios"
+  - "Recife"
 ---
 
 ## Referências

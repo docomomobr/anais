@@ -52,6 +52,11 @@ palavras-chave:
   - "fotografia"
   - "João Alberto Fonseca da Silva"
   - "Porto Alegre"
+keywords:
+  - "modern architecture"
+  - "photography"
+  - "João Alberto Fonseca da Silva"
+  - "Porto Alegre"
 ---
 
 ## Referências

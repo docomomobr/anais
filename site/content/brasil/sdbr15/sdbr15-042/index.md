@@ -80,6 +80,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Análise Arquitetônica"
   - "Juazeiro do Norte"
+keywords:
+  - "Modern Architecture"
+  - "Architectural Analysis"
+  - "Juazeiro do Norte"
+palabras-clave:
+  - "Architectura moderna"
+  - "Análisis arquitectónico"
+  - "Juazeiro do Norte"
 ---
 
 ## Referências

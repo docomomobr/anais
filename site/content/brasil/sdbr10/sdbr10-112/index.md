@@ -49,6 +49,10 @@ palavras-chave:
   - "Claude Parent Arquiteto"
   - "Arquitetura Moderna na França"
   - "Brutalismo Francês"
+keywords:
+  - "Claude Parent Architect"
+  - "Modern Arquitecture in France"
+  - "French Brutalism"
 ---
 
 ## Referências

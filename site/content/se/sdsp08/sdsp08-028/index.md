@@ -55,6 +55,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Intervenção"
   - "Conservação"
+keywords:
+  - "Modern architecture"
+  - "Intervention"
+  - "Conservation"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Intervención"
+  - "Conservación"
 ---
 
 ## Referências

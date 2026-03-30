@@ -52,6 +52,14 @@ autores:
   - "Salomao, Eugenia María Azevedo"
   - "Garibay, Luis Alberto Torres"
   - "Pardo, Carlos Alberto Hiriart"
+keywords:
+  - "Bellas Artes Palace"
+  - "Mexico"
+  - "20th century architecture preservation"
+palabras-clave:
+  - "Bellas Artes"
+  - "México"
+  - "preservação arquitetura século XX"
 ---
 
 ## Referências

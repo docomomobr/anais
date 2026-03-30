@@ -53,6 +53,10 @@ palavras-chave:
   - "Brutalismo"
   - "Angola"
   - "Bairro Prenda"
+keywords:
+  - "Brutalism"
+  - "Angola"
+  - "Prenda Neighbourhood"
 ---
 
 ## Referências

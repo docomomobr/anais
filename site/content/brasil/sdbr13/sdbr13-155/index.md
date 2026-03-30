@@ -46,6 +46,10 @@ palavras-chave:
   - "modernismo"
   - "brasilidade"
   - "história da arquitetura moderna"
+keywords:
+  - "modernism"
+  - "“brasility”"
+  - "modern architecture history"
 ---
 
 ## Referências

@@ -54,6 +54,14 @@ palavras-chave:
   - "Pavilhão Brasil"
   - "Estande Cafés du Brésil"
   - "Mallet-Stevens"
+keywords:
+  - "Pavilion Brazil"
+  - "Stands Cafés du Brésil"
+  - "Mallet-Stevens"
+palabras-clave:
+  - "Pabellón de Brasil"
+  - "Stand Cafés du Brésil"
+  - "Mallet-Stevens"
 ---
 
 ## Referências

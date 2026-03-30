@@ -52,6 +52,10 @@ palavras-chave:
   - "arquiteto João Jorge Coury"
   - "arquitetura moderna no Triângulo Mineiro"
   - "análise espacial"
+keywords:
+  - "João Jorge Coury architect"
+  - "Modern architecture in the Triângulo Mineiro"
+  - "spatial analysis"
 ---
 
 ## Referências

@@ -54,4 +54,12 @@ palavras-chave:
   - "Hormigón in situ"
   - "complejo educativo"
   - "Valencia"
+keywords:
+  - "Concrete in situ"
+  - "Educational complex"
+  - "Valencia (Spain)"
+palabras-clave:
+  - "Hormigón in situ"
+  - "complejo educativo"
+  - "Valencia"
 ---

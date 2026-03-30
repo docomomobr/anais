@@ -44,6 +44,10 @@ palavras-chave:
   - "Brutalismo"
   - "museu"
   - "re-uso"
+keywords:
+  - "Brutalism"
+  - "museum"
+  - "re-use"
 ---
 
 ## Referências

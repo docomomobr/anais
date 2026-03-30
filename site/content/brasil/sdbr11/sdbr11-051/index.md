@@ -51,6 +51,10 @@ palavras-chave:
   - "Micronarrativa"
   - "Cultura Local"
   - "Hans Broos"
+keywords:
+  - "Micronarrative"
+  - "Local Culture"
+  - "Hans Broos"
 ---
 
 ## Referências

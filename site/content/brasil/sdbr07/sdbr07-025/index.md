@@ -50,6 +50,10 @@ palavras-chave:
   - "igreja da Glória"
   - "Lucio Costa"
   - "IPHAN"
+keywords:
+  - "Glória Church"
+  - "Lucio Costa"
+  - "IPHAN"
 ---
 
 ## Referências

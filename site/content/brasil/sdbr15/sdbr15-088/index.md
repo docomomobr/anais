@@ -56,6 +56,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Urbanismo"
   - "Cidades Universitárias"
+keywords:
+  - "Modern Architecture"
+  - "Urbanism"
+  - "University Campuses"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Urbanismo"
+  - "Ciudades Universitarias"
 ---
 
 ## Referências

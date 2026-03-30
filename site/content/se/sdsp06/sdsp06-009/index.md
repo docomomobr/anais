@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Procedimento projetual"
   - "Forma"
+keywords:
+  - "Modern Architecture"
+  - "Design Procedures"
+  - "Form"
 ---
 
 ## Referências

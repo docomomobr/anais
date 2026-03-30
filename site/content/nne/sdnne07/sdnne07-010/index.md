@@ -61,6 +61,16 @@ palavras-chave:
   - "arquitetura moderna"
   - "arquitetura residencial"
   - "materialidade"
+keywords:
+  - "hydraulic tile"
+  - "modern architecture"
+  - "residential architecture"
+  - "materiality"
+palabras-clave:
+  - "ladrillo hidráulico"
+  - "arquitectura moderna"
+  - "arquitectura residencial"
+  - "materialidad"
 ---
 
 ## Referências

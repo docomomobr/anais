@@ -59,6 +59,14 @@ palavras-chave:
   - "arquitetura moderna em São Luís e Belém"
   - "residências modernistas"
   - "Alcyr Meira e Cléon Furtado"
+keywords:
+  - "modern architecture in São Luís and Belém"
+  - "modernist residences"
+  - "Alcyr Meira and Cléon Furtado"
+palabras-clave:
+  - "arquitectura moderna en São Luís y Belém"
+  - "residencias modernistas"
+  - "Alcyr Meira y Cléon Furtado"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Vilanova Artigas"
   - "Preservação do Patrimônio Moderno"
+keywords:
+  - "Modern Architecture"
+  - "Vilanova Artigas"
+  - "Modern Heritage Preservation"
 ---
 
 ## Referências

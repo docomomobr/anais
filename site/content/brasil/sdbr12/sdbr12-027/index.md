@@ -43,6 +43,8 @@ autores:
 palavras-chave:
   - "Módulo"
   - "revistas de arquitetura, Oscar Niemeyer"
+keywords:
+  - "Módulo, architecture magazines, Oscar Niemeyer"
 ---
 
 ## Referências

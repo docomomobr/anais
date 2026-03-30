@@ -55,6 +55,13 @@ palavras-chave:
   - "Brutalismo"
   - "Arquitetura Rio Preto"
   - "Arquitetura moderna"
+keywords:
+  - "Brutalism"
+  - "Rio Preto Architecture"
+  - "Modern Architecture"
+palabras-clave:
+  - "Brutalismo"
+  - "Arquitectura de Río Preto Arquitectura moderna"
 ---
 
 ## Referências

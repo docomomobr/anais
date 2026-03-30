@@ -62,6 +62,10 @@ palavras-chave:
   - "Modernismo"
   - "Ecletismo"
   - "Transição"
+keywords:
+  - "Modernism"
+  - "Eclecticism"
+  - "Transition"
 ---
 
 ## Referências

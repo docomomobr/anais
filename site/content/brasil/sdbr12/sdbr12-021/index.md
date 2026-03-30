@@ -51,6 +51,9 @@ palavras-chave:
   - "Ceilândia"
   - "História oral"
   - "Patrimônio"
+keywords:
+  - "Ceilândia"
+  - "Oral history, Patrimony"
 ---
 
 ## Referências

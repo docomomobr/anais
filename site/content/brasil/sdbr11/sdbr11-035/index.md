@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Pernambuco"
   - "Geraldo Santana"
+keywords:
+  - "Modern architecture"
+  - "Pernambuco"
+  - "Geraldo Santana"
 ---
 
 ## Referências

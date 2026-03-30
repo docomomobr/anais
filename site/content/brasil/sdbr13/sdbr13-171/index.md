@@ -55,6 +55,12 @@ palavras-chave:
   - "Exposições"
   - "internacionais"
   - "modernidade pragmática"
+keywords:
+  - "International Sample Fair – Rio de Janeiro"
+  - "Rio de Janeiro – Town Planning"
+  - "Art Déco"
+  - "International Exhibitions"
+  - "Modern architecture"
 ---
 
 ## Referências

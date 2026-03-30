@@ -45,6 +45,9 @@ palavras-chave:
   - "Escola carioca"
   - "Escola Paulista"
   - "arquitetura moderna brasileira"
+keywords:
+  - "Carioca School"
+  - "Paulista School"
 ---
 
 ## Referências

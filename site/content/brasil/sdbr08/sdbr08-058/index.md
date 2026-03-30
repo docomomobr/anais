@@ -64,6 +64,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Ceará"
   - "Universidade"
+keywords:
+  - "Modern Architecture"
+  - "Ceará"
+  - "University"
 ---
 
 ## Referências

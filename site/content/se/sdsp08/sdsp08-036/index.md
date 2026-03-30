@@ -55,6 +55,14 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Arquitetura Moderna"
   - "Fontes documentais"
+keywords:
+  - "Oscar Niemeyer"
+  - "Modern architecture"
+  - "Documentary sources"
+palabras-clave:
+  - "Oscar Niemeyer"
+  - "Arquitectura moderna"
+  - "Fuentes documentales"
 ---
 
 ## Referências

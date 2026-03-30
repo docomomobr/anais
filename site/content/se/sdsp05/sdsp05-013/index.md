@@ -44,6 +44,12 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "5º Seminário Docomomo São Paulo: anais: Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão [recurso eletrônico] / organização: Audrey Migliani Anticoli, Fernanda Critelli, Silvia Raquel Chiarelli, Tais Ossani. São Paulo: Alter Market, 2017. 1170 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-85-88157-16-3"
 autores:
   - "Téllez, Andrés"
+keywords:
+  - "Architecture Photography"
+  - "Brutalism"
+  - "Aesthetics"
+palabras-clave:
+  - "Fotografía de arquitectura; Brutalismo; Estética"
 ---
 
 ## Referências

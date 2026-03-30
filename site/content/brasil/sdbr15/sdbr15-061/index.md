@@ -70,6 +70,14 @@ palavras-chave:
   - "urbanismo moderno"
   - "cidade compacta"
   - "plano piloto"
+keywords:
+  - "modern urbanism"
+  - "compact city"
+  - "urban planning"
+palabras-clave:
+  - "urbanismo moderno"
+  - "ciudad compacta"
+  - "plano piloto"
 ---
 
 ## Referências

@@ -72,6 +72,18 @@ palavras-chave:
   - "conservação"
   - "função"
   - "anamnese"
+keywords:
+  - "architectural patrimony"
+  - "modern patrimony"
+  - "conservation"
+  - "function"
+  - "anamnese"
+palabras-clave:
+  - "patrimonio arquitectónico"
+  - "patrimonio moderno"
+  - "conservación"
+  - "función"
+  - "anamnesio"
 ---
 
 ## Referências

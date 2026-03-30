@@ -45,6 +45,9 @@ autores:
   - "Zuffo, Élida Regina de Moraes"
 palavras-chave:
   - "arquitetura vertical de Aracaju, arquitetura moderna"
+keywords:
+  - "vertical architecture of Aracaju"
+  - "modern architecture"
 ---
 
 ## Referências

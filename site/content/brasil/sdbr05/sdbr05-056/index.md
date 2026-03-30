@@ -50,6 +50,10 @@ palavras-chave:
   - "Cinema e Arquitetura"
   - "Arquitetura Moderna"
   - "Cinema Brasileiro"
+keywords:
+  - "Movies and Architecture"
+  - "Modern Architecture"
+  - "Brazil Movies"
 ---
 
 ## Referências

@@ -59,6 +59,10 @@ palavras-chave:
   - "Arquitetura moderna (PE)"
   - "Preservação"
   - "Obituário"
+keywords:
+  - "Modern Architecture (PE)"
+  - "Preservation"
+  - "Obituary"
 ---
 
 ## Referências

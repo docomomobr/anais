@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Camillo Porto"
   - "Residências modernas"
+keywords:
+  - "Modern Arquitecture"
+  - "Camillo Porto"
+  - "Modern houses"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Camillo Porto"
+  - "Residencias modernas"
 ---
 
 ## Referências

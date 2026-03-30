@@ -58,6 +58,14 @@ palavras-chave:
   - "Arquitetura Paulista"
   - "Arquitetura Contemporânea no Brasil"
   - "Historiografia da Arquitetura no Brasil"
+keywords:
+  - "São Paulo’s Architecture"
+  - "Contemporary Architecture in Brazil"
+  - "Historiography of Architecture in Brazil"
+palabras-clave:
+  - "Arquitectura Paulista"
+  - "Arquitectura Contemporánea en Brasil"
+  - "Historiografía de la Arquitectura en Brasil"
 ---
 
 ## Referências

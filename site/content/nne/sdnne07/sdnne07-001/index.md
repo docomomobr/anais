@@ -65,6 +65,14 @@ palavras-chave:
   - "Escola Carioca"
   - "Cuiabá"
   - "Modernismo"
+keywords:
+  - "Carioca School"
+  - "Cuiabá"
+  - "Modernism"
+palabras-clave:
+  - "Escuela Carioca"
+  - "Cuiabá"
+  - "Modernismo"
 ---
 
 ## Referências

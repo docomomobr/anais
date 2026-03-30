@@ -48,6 +48,10 @@ palavras-chave:
   - "arte concreta"
   - "brutalismo"
   - "síntese das artes"
+keywords:
+  - "concrete art"
+  - "brutalism"
+  - "synthesis of arts"
 ---
 
 ## Referências

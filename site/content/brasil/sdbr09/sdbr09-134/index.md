@@ -51,6 +51,11 @@ palavras-chave:
   - "MASP"
   - "Museu de Arte"
   - "Arquitetura Moderna"
+keywords:
+  - "Pietro Maria Bardi"
+  - "MASP"
+  - "Art Museum"
+  - "Modern Architecture"
 ---
 
 ## Referências

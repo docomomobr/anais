@@ -61,6 +61,14 @@ palavras-chave:
   - "Arquiteto Abrão Assad"
   - "Arquitetura moderna em Curitiba"
   - "Arquitetura moderna em madeira"
+keywords:
+  - "Architect Abrão Assad"
+  - "Modern architecture in Curitiba"
+  - "Modern architecture in wood"
+palabras-clave:
+  - "Arquitecto Abrão Assad"
+  - "Arquitectura moderna en Curitiba"
+  - "Arquitectura moderna en madera"
 ---
 
 ## Referências

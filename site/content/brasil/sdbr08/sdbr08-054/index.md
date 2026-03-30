@@ -52,6 +52,10 @@ palavras-chave:
   - "geometria KEYWORDS: modern architecture"
   - "neoconcretismo"
   - "geometry"
+keywords:
+  - "modern architecture"
+  - "neoconcretismo"
+  - "geometry"
 ---
 
 ## Referências

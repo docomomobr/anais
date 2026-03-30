@@ -68,6 +68,18 @@ palavras-chave:
   - "racionalização da construção"
   - "curtain wall"
   - "arquitetura moderna piauiense"
+keywords:
+  - "modern architecture"
+  - "industrialization"
+  - "construction rationalization"
+  - "curtain wall"
+  - "Piauí modern\narchitecture"
+palabras-clave:
+  - "arquitectura moderna"
+  - "industrialización"
+  - "racionalización de la construcción"
+  - "curtain wall"
+  - "arquitectura moderna en Piauí"
 ---
 
 ## Referências

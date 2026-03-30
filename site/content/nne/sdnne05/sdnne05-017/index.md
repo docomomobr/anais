@@ -52,6 +52,11 @@ palavras-chave:
   - "João Pessoa"
   - "Parques modernos"
   - "Roberto Burle Marx"
+keywords:
+  - "State Park of Cabo Branco"
+  - "João Pessoa"
+  - "Modern parks"
+  - "Roberto Burle Marx"
 ---
 
 ## Referências

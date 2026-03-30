@@ -46,6 +46,10 @@ palavras-chave:
   - "Bernard Rudofsky"
   - "Arquitetura Moderna"
   - "Brazil Builds"
+keywords:
+  - "Bernard Rudofsky"
+  - "Modern Architecture"
+  - "Brazil Builds"
 ---
 
 ## Referências

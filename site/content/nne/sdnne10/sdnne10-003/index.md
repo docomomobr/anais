@@ -73,6 +73,18 @@ palavras-chave:
   - "Documentação"
   - "Conservação"
   - "Preservação"
+keywords:
+  - "Modern Architecture"
+  - "Architectural Heritage"
+  - "Documentation"
+  - "Conservation"
+  - "Preservation"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Patrimonio arquitectónico"
+  - "Documentación"
+  - "Conservación"
+  - "Preservación"
 ---
 
 ## Referências

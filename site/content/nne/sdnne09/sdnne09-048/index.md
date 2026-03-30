@@ -56,6 +56,12 @@ palavras-chave:
   - "Sarney"
   - "setor imobiliário"
   - "segregação"
+keywords:
+  - "modernization"
+  - "urbanization"
+  - "Sarney"
+  - "real estate"
+  - "segregation"
 ---
 
 ## Referências

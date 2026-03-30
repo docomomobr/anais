@@ -54,6 +54,10 @@ palavras-chave:
   - "Artigas"
   - "Escola Paulista"
   - "Arquitetura Escolar"
+keywords:
+  - "Artigas"
+  - "Paulista School"
+  - "Educational Architecture"
 ---
 
 ## Referências

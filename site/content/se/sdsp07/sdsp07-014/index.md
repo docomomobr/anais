@@ -58,6 +58,14 @@ palavras-chave:
   - "Art Déco"
   - "Arquitetura de exposição"
   - "stands"
+keywords:
+  - "Art Déco"
+  - "Architectural Exposition"
+  - "stands"
+palabras-clave:
+  - "Art Deco"
+  - "Exposición arquitectónica"
+  - "stands"
 ---
 
 ## Referências

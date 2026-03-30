@@ -48,6 +48,10 @@ palavras-chave:
   - "São Paulo"
   - "clássico modernizado"
   - "acervo moderno/colonial"
+keywords:
+  - "São Paulo"
+  - "modernized classicism"
+  - "colonial and modern art"
 ---
 
 ## Referências

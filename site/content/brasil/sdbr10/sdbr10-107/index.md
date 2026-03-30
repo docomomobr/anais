@@ -52,6 +52,10 @@ palavras-chave:
   - "Brutalismo"
   - "Goiânia"
   - "história da arquitetura e da cidade"
+keywords:
+  - "Brutalism"
+  - "Goiânia"
+  - "history of architecture and the city"
 ---
 
 ## Referências

@@ -48,6 +48,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Lina Bo Bardi"
   - "Janete Costa"
+keywords:
+  - "Gender"
+  - "Modern Architecture"
+  - "Lina Bo Bardi"
+  - "Janete Costa"
 ---
 
 ## Referências

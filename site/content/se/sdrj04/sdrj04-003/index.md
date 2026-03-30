@@ -48,6 +48,10 @@ palavras-chave:
   - "Habitação social"
   - "Perspectiva de Gênero"
   - "Carmen Portinho"
+palabras-clave:
+  - "Vivienda social"
+  - "Perspectiva de Género"
+  - "Carmen Portinho"
 ---
 
 ## Referências

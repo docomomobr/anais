@@ -45,6 +45,10 @@ autores:
 palavras-chave:
   - "Flávio de Carvalho"
   - "arquitetura moderna, homem moderno"
+keywords:
+  - "Flávio de Carvalho"
+  - "modern architecture"
+  - "modern man"
 ---
 
 ## Referências

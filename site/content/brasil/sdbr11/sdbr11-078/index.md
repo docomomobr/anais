@@ -46,6 +46,10 @@ palavras-chave:
   - "Elementos"
   - "Princípios"
   - "Composição"
+keywords:
+  - "Elements"
+  - "Principles"
+  - "Composition"
 ---
 
 ## Referências

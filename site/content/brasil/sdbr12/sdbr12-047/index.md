@@ -51,6 +51,10 @@ palavras-chave:
   - "Joel Ramalho Júnior"
   - "Leonardo Oba"
   - "Guilherme Zamoner"
+keywords:
+  - "Joel Ramalho Júnior"
+  - "Leonardo Oba"
+  - "Guilherme Zamoner"
 ---
 
 ## Referências

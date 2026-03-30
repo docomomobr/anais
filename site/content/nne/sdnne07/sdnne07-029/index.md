@@ -57,6 +57,12 @@ autores:
 palavras-chave:
   - "Arquitetura brutalista"
   - "Estratégias bioclimáticas"
+keywords:
+  - "Brutalist architecture"
+  - "Bioclimatic strategies"
+palabras-clave:
+  - "Arquitectura Brutalista"
+  - "Estrategias bioclimáticas"
 ---
 
 ## Referências

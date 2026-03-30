@@ -51,6 +51,10 @@ palavras-chave:
   - "Brutalismo"
   - "Arquitetura: igrejas"
   - "Porto Alegre"
+keywords:
+  - "Brutalism"
+  - "Church architecture"
+  - "Porto Alegre"
 ---
 
 ## Referências

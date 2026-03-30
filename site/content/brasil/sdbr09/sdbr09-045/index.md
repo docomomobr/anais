@@ -57,6 +57,11 @@ palavras-chave:
   - "Santos"
   - "Concreto"
   - "Teatro"
+keywords:
+  - "Modern Architecture"
+  - "Santos"
+  - "Concrete"
+  - "Theatre"
 ---
 
 ## Referências

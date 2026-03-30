@@ -45,6 +45,10 @@ autores:
 palavras-chave:
   - "Brutalismo"
   - "Mendes da Rocha e Lina Bo Bardi"
+keywords:
+  - "Brutalism"
+  - "Mendes da Rocha"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

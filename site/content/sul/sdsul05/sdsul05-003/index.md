@@ -56,6 +56,10 @@ palavras-chave:
   - "Casa Curutchet"
   - "Le Corbusier"
   - "América Latina"
+keywords:
+  - "Curutchet house"
+  - "Le Corbusier"
+  - "Latin America"
 ---
 
 ## Referências

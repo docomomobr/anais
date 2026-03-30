@@ -50,6 +50,10 @@ palavras-chave:
   - "Residência moderna"
   - "Arquitetura paulista"
   - "Casa em abóbada"
+keywords:
+  - "Modern house"
+  - "Paulista architecture"
+  - "Vault house"
 ---
 
 ## Referências

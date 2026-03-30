@@ -53,6 +53,14 @@ palavras-chave:
   - "Fontes documentais"
   - "Escola de arquitetura"
   - "Transformar e conservar"
+keywords:
+  - "Documentary sources"
+  - "School of architecture"
+  - "Change and conservation"
+palabras-clave:
+  - "Fuentes documentales"
+  - "Escuela de arquitectura"
+  - "Transformar y conservar"
 ---
 
 ## Referências

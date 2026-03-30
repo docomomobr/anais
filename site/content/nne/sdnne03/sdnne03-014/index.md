@@ -54,6 +54,10 @@ palavras-chave:
   - "Burle Marx"
   - "Jardins Privados"
   - "Conservação"
+keywords:
+  - "Burle Marx"
+  - "Private Gardens"
+  - "Conservation"
 ---
 
 ## Referências

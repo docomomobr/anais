@@ -50,6 +50,10 @@ palavras-chave:
   - "memória urbana"
   - "patrimônio"
   - "invenção"
+keywords:
+  - "urban memory"
+  - "heritage"
+  - "invention"
 ---
 
 ## Referências

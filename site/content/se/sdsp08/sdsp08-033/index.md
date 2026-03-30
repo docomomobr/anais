@@ -57,6 +57,14 @@ palavras-chave:
   - "Design brasileiro"
   - "Móvel Moderno"
   - "Catalogação"
+keywords:
+  - "Brazilian design"
+  - "Mid-century furniture"
+  - "Design collection"
+palabras-clave:
+  - "Diseño brasileño"
+  - "Muebles modernos"
+  - "Colección de diseño"
 ---
 
 ## Referências

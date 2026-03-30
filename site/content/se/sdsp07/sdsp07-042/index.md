@@ -66,6 +66,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Moradia"
   - "Brutalismo"
+keywords:
+  - "Modern architecture"
+  - "Home"
+  - "Brutalism"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Hogar"
+  - "Brutalismo"
 ---
 
 ## Referências

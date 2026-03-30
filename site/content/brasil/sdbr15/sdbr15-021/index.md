@@ -67,6 +67,14 @@ palavras-chave:
   - "Estação Rodoviária"
   - "Crato"
   - "Arquitetura Moderna"
+keywords:
+  - "Bus Station"
+  - "Crato"
+  - "Modern Architecture"
+palabras-clave:
+  - "Estación de Autobuses"
+  - "Crato"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

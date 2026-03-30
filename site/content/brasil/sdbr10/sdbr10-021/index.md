@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "Modernidade piauiense"
   - "Arquitetura piauiense"
+keywords:
+  - "Brutalist Architecture"
+  - "Modernity Piauí"
+  - "Piauí architecture"
 ---
 
 ## Referências

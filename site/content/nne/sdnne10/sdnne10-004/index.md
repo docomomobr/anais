@@ -66,4 +66,14 @@ palavras-chave:
   - "ferramenta de análise projetual"
   - "ambiente térmico"
   - "ambiente luminoso"
+keywords:
+  - "Architectural project analysis"
+  - "project analysis tool"
+  - "thermal environment"
+  - "luminous environment"
+palabras-clave:
+  - "Análisis de proyectos de arquitectura"
+  - "herramienta de análisis de proyectos"
+  - "ambiente térmico"
+  - "ambiente luminoso"
 ---

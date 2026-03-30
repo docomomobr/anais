@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Edifício escolar"
   - "PAGE"
+keywords:
+  - "Modern architecture"
+  - "School building"
+  - "PAGE"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Edificio escolar"
+  - "PAGE"
 ---
 
 ## Referências

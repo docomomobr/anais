@@ -51,6 +51,11 @@ palavras-chave:
   - "América Latina"
   - "revisão historiográfica"
   - "arquitetura"
+keywords:
+  - "Architect women"
+  - "Latin America"
+  - "historiography revision"
+  - "architecture"
 ---
 
 ## Referências

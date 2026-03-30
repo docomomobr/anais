@@ -48,6 +48,10 @@ palavras-chave:
   - "intervenção"
   - "patrimônio"
   - "arquitetura moderna (PE)"
+keywords:
+  - "intervention"
+  - "heritage"
+  - "modern architecture (PE)"
 ---
 
 ## Referências

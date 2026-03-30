@@ -58,6 +58,14 @@ palavras-chave:
   - "Tipo"
   - "Embasamento-torre"
   - "Legislação urbanística"
+keywords:
+  - "Type"
+  - "Base-tower"
+  - "Urban legislation"
+palabras-clave:
+  - "Tipo"
+  - "torre basamento"
+  - "Legislación urbana"
 ---
 
 ## Referências

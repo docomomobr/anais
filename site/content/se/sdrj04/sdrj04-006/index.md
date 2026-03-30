@@ -51,6 +51,10 @@ palavras-chave:
   - "Modernismo"
   - "protomodernismo"
   - "psiquiatria"
+palabras-clave:
+  - "Modernismo"
+  - "Protomodernismo"
+  - "Psiquiatría"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Triângulo Mineiro"
   - "Transportes"
+keywords:
+  - "Modern Architecture"
+  - "Triângulo Mineiro"
+  - "Transport"
 ---
 
 ## Referências

@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Casas unifamiliares"
   - "João Pessoa"
+keywords:
+  - "Modern Architecture"
+  - "single-family homes"
+  - "Joao Pessoa"
 ---
 
 ## Referências

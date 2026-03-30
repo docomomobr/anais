@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "regionalismo"
   - "identidade"
+keywords:
+  - "modern architecture"
+  - "regionalism"
+  - "identity"
 ---
 
 ## Referências

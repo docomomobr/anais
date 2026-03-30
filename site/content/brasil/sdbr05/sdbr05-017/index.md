@@ -47,6 +47,10 @@ palavras-chave:
   - "Lina Bo Bardi"
   - "moderno"
   - "popular"
+keywords:
+  - "Lina Bo Bardi"
+  - "modern"
+  - "popular"
 ---
 
 ## Referências

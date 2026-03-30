@@ -52,6 +52,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "São Paulo"
   - "Comissão de Gestão de Imóveis Ipesp"
+keywords:
+  - "Modern Architecture"
+  - "São Paulo State"
+  - "Brazil"
+  - "Comissão de Gestão de Imóveis Ipesp"
 ---
 
 ## Referências

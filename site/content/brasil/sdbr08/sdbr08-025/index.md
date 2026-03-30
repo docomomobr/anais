@@ -52,6 +52,10 @@ palavras-chave:
   - "modernismo"
   - "Cataguases"
   - "preservação"
+keywords:
+  - "modernism"
+  - "Cataguases"
+  - "preservation"
 ---
 
 ## Referências

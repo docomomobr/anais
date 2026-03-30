@@ -23,10 +23,6 @@ event_year: 2009
 locale: "es"
 pages: "1-21"
 pdf_file: "sdbr08-048.pdf"
-keywords_en:
-  - "Caracas"
-  - "ciudad moderna"
-  - "museo"
 abstract_es: |
   Dentro de la ambiciosa agenda desarrollista de la Caracas de los 50 se pondrá de manifiesto un doble propósito expositivo para alcanzar visibilidad universal: transformarse en contenedor museal de una colección de "piezas de autor" de la arquitectura moderna nacional e internacional, al tiempo que aspirará al museo como gesto arquitectónico para caracterizar a la emergente metrópoli. Desde esa vocación escénica de la ciudad moderna se analiza el proyecto del Museo de Arte Moderno diseñado por el arquitecto Oscar Niemeyer en 1955. Una visión del museo como objeto-manifiesto del arte y de la arquitectura de vanguardia que va a estar directamente unido a los procesos de re-estructuración económica y espacial de la urbe. Paralelamente en 1956, el Estado contrata al paisajista Roberto Burle-Marx y su equipo de arquitectos asociados para la realización de los jardines de la Exposición Internacional de Caracas para 1960. Iniciativa expositiva que buscará exaltar el valor de la ciudad como monumento al buscar dotarla de imponentes infraestructuras para la celebración de una gran exposición urbana –con el fin de mostrar el progreso técnico y cultural alcanzado por el gobierno militar– en la museificación de la ciudad. Pero estas intenciones quedarán inconclusas, condición inacabada que refleja en la urbe esa vocación ensayística en la implantación del modelo universalista: esos "borradores de la ciudad" que sugiere Marina Waisman para describir a las modernas ciudades latinoamericanas y su "arquitectura descentrada". Y es enfatizando en la condición utópica del proyecto moderno caraqueño que el análisis se centra en dos operaciones que no llegan a materializarse. Experiencias éstas que van a suponer las fuertes influencias del lenguaje internacional de la arquitectura moderna brasileña, desde donde se recoge, de forma muy representativa, la voluntad política de monumentalizar el poder estatal y corporativo desde el arte del establishment de la "alta cultura".
 keywords_es:
@@ -42,6 +38,10 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e contemporânea: síntese e paradoxo das artes [recurso eletrônico] / organização: Roberto Segre et al. Rio de Janeiro: Docomomo-RJ; Prourb-UFRJ, 2009. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Rio de Janeiro. ISBN 978-85-88027-11-4"
 autores:
   - "Nogueira, Carola Barrios"
+palabras-clave:
+  - "Caracas"
+  - "ciudad moderna"
+  - "museo"
 ---
 
 ## Referências

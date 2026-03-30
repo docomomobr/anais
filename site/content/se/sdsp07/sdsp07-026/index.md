@@ -62,6 +62,14 @@ palavras-chave:
   - "Escola Paulista"
   - "Joaquim Guedes"
   - "Historiografia Brasileira"
+keywords:
+  - "Paulista School"
+  - "Joaquim Guedes"
+  - "Brazilian Historiography"
+palabras-clave:
+  - "Escola Paulista"
+  - "Joaquim Guedes"
+  - "Historiografía brasileña"
 ---
 
 ## Referências

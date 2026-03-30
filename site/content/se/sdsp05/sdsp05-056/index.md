@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Arquitetura moderna"
   - "História da arquitetura paulista"
+keywords:
+  - "Modern architecture"
+  - "Paulista Architecture history"
 ---
 
 ## Referências

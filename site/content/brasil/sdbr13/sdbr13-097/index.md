@@ -56,6 +56,11 @@ palavras-chave:
   - "apartamento"
   - "Louveira"
   - "São Paulo"
+keywords:
+  - "Vilanova Artigas"
+  - "apartament"
+  - "Louveira"
+  - "São Paulo"
 ---
 
 ## Referências

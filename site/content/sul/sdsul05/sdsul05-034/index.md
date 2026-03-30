@@ -39,6 +39,10 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "5º Seminário Docomomo Sul: anais: o moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre: Marcavisual, 2016. Disponível em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul/. ISBN 978-85-61965-40-2"
 autores:
   - "Puppi, Suely de Oliveira Figueirêdo"
+keywords:
+  - "Lina Bo Bardi"
+  - "House of Benin"
+  - "House of Bahia in Benin"
 ---
 
 ## Referências

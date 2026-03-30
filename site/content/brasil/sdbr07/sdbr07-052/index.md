@@ -51,6 +51,10 @@ palavras-chave:
   - "Urbanismo Moderno"
   - "Gladosch e Moreira"
   - "Porto Alegre"
+keywords:
+  - "Modern Urbanism"
+  - "Gladosch and Moreira"
+  - "Porto Alegre"
 ---
 
 ## Referências

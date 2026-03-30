@@ -45,6 +45,10 @@ palavras-chave:
   - "Alexander Buddeüs"
   - "Modern Architecture in Brazil"
   - "City of Salvador-Bahia"
+keywords:
+  - "Alexander Buddeüs"
+  - "Modern Architecture in Brazil"
+  - "City of Salvador-Bahia"
 ---
 
 ## Referências

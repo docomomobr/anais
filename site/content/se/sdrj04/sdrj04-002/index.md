@@ -47,6 +47,10 @@ palavras-chave:
   - "apartamento"
   - "habitação coletiva"
   - "Rio de Janeiro"
+keywords:
+  - "apartment"
+  - "collective housing"
+  - "Rio de Janeiro"
 ---
 
 ## Referências

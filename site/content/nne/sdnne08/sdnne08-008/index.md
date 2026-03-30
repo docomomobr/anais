@@ -76,6 +76,18 @@ palavras-chave:
   - "segregação socioespacial"
   - "Luzimangues"
   - "Palmas"
+keywords:
+  - "urban density"
+  - "constructive typology"
+  - "socio-spatial segregation"
+  - "Luzimangues"
+  - "Palmas"
+palabras-clave:
+  - "densidad urbana"
+  - "tipología constructiva"
+  - "segregación socioespacial"
+  - "Luzimangues"
+  - "Palmas"
 ---
 
 ## Referências

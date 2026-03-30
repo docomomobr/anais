@@ -54,6 +54,10 @@ palavras-chave:
   - "Arquitetura de Aeroportos"
   - "Arquitetura Moderna"
   - "Arquitetura Holandesa"
+keywords:
+  - "Airport Architecture"
+  - "Modern Architecture"
+  - "Dutch Architecture"
 ---
 
 ## Referências

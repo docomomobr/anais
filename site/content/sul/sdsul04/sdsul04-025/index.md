@@ -45,6 +45,10 @@ palavras-chave:
   - "rearquitetura"
   - "patrimônio cultural"
   - "arquitetura moderna brasileira"
+keywords:
+  - "re-architecture"
+  - "cultural heritage"
+  - "Brazilian modern architecture"
 ---
 
 ## Referências

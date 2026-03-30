@@ -62,6 +62,15 @@ palavras-chave:
   - "Banco Nacional da Habitação"
   - "Cooperativas habitacionais"
   - "uruguaias"
+keywords:
+  - "Modern Architecture"
+  - "National Housing Bank"
+  - "Uruguayan housing cooperatives"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Banco Nacional de la Vivienda"
+  - "Cooperativas de vivienda"
+  - "uruguayas"
 ---
 
 ## Referências

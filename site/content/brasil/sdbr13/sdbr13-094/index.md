@@ -55,6 +55,12 @@ palavras-chave:
   - "história"
   - "cotidiano"
   - "moderno"
+keywords:
+  - "carnival"
+  - "city"
+  - "history"
+  - "everyday life"
+  - "modern"
 ---
 
 ## Referências

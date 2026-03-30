@@ -53,6 +53,11 @@ palavras-chave:
   - "Interdisciplinaridade"
   - "Habitação Coletiva"
   - "Projeto Moderno"
+keywords:
+  - "Modern Architecture"
+  - "Collective Housing"
+  - "Portuguese speaking territories"
+  - "Modern Projects"
 ---
 
 ## Referências

@@ -56,6 +56,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "preservação arquitetônica"
   - "inventário"
+keywords:
+  - "modern architecture"
+  - "architectural conservation"
+  - "inventory"
 ---
 
 ## Referências

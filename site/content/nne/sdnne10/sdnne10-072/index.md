@@ -58,6 +58,14 @@ palavras-chave:
   - "Patrimônio arquitetônico"
   - "Modernidade"
   - "Documentação"
+keywords:
+  - "Architectural heritage"
+  - "Modernity"
+  - "Documentation"
+palabras-clave:
+  - "Patrimonio arquitectónico"
+  - "Modernidad"
+  - "Documentación"
 ---
 
 ## Referências

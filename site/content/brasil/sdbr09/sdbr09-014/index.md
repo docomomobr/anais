@@ -54,6 +54,11 @@ palavras-chave:
   - "Forma Plástica"
   - "Implantação Urbana"
   - "Monumentalidade"
+keywords:
+  - "Legislative Building"
+  - "Plastic Form"
+  - "Urban Implantation"
+  - "Monumentality"
 ---
 
 ## Referências

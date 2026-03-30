@@ -64,6 +64,14 @@ palavras-chave:
   - "análise tectônica"
   - "arquitetura moderna residencial"
   - "Geraldino Duda"
+keywords:
+  - "Tectonic analysis"
+  - "Modern residential architecture"
+  - "Geraldino Duda"
+palabras-clave:
+  - "análisis tectónico"
+  - "arquitectura moderna residencial"
+  - "Geraldino Duda"
 ---
 
 ## Referências

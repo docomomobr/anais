@@ -54,6 +54,14 @@ palavras-chave:
   - "Márlio Raposo Dantas"
   - "Arquitetura Moderna"
   - "Arquitetura Santista"
+keywords:
+  - "Márlio Raposo Dantas"
+  - "Modern architecture"
+  - "Santos Architecture"
+palabras-clave:
+  - "Márlio Raposo Dantas"
+  - "Arquitectura moderna"
+  - "Arquitectura Santista"
 ---
 
 ## Referências

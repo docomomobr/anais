@@ -53,6 +53,10 @@ palavras-chave:
   - "arquitetura moderna brasileira"
   - "Portugal"
   - "revista Arquitectura"
+keywords:
+  - "brazilian modern architecture"
+  - "Portugal"
+  - "Arquitectura magazine"
 ---
 
 ## Referências

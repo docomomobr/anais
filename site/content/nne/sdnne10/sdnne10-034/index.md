@@ -64,6 +64,16 @@ palavras-chave:
   - "Documentação"
   - "Fotografia"
   - "Maceió/AL"
+keywords:
+  - "Modern Architecture"
+  - "Documentation"
+  - "Photography"
+  - "Maceió/AL"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Documentación"
+  - "Fotografía"
+  - "Maceió/AL"
 ---
 
 ## Referências

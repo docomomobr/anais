@@ -56,6 +56,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Edifício"
   - "Conservação"
+keywords:
+  - "Modern architecture"
+  - "Building"
+  - "Conservation"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Edificio"
+  - "Conservación"
 ---
 
 ## Referências

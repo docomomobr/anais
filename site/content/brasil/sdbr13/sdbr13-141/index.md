@@ -58,6 +58,12 @@ palavras-chave:
   - "Pré-fabricação"
   - "Lelé"
   - "Schokbeton"
+keywords:
+  - "Modernism"
+  - "Conservation"
+  - "Prefabrication"
+  - "Lelé"
+  - "Schokbeton"
 ---
 
 ## Referências

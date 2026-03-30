@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura em Madeira"
   - "Patrimônio Cultural"
   - "Cidade Moderna"
+keywords:
+  - "wooden Architecture"
+  - "Cultural Heritage"
+  - "modern city"
 ---
 
 ## Referências

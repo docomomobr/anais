@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Arquitetura esportiva"
   - "Estádios"
+keywords:
+  - "Modern Architecture"
+  - "Sports Architecture"
+  - "Stadiums"
 ---
 
 ## Referências

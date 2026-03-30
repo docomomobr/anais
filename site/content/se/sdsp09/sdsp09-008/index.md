@@ -55,6 +55,14 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Arquitetura moderna"
   - "Arte-educação"
+keywords:
+  - "Oscar Niemeyer"
+  - "Modern Architecture"
+  - "Art-Education"
+palabras-clave:
+  - "Oscar Niemeyer"
+  - "Arquitectura Moderna"
+  - "Educación artística"
 ---
 
 ## Referências

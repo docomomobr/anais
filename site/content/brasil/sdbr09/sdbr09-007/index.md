@@ -52,6 +52,10 @@ palavras-chave:
   - "Patrimônio Urbano"
   - "Praça"
   - "Espaço Público"
+keywords:
+  - "Urban Patrimony"
+  - "Square"
+  - "Public Space"
 ---
 
 ## Referências

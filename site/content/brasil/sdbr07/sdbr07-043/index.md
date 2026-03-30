@@ -50,6 +50,11 @@ palavras-chave:
   - "Revitalização"
   - "Franz Heep"
   - "Miguel Juliano e Silva"
+keywords:
+  - "Modern architecture"
+  - "Revitalization"
+  - "Franz Heep"
+  - "Miguel Juliano e Silva"
 ---
 
 ## Referências

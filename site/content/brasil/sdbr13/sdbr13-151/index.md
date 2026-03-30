@@ -49,6 +49,11 @@ palavras-chave:
   - "projeto"
   - "teoria"
   - "prática"
+keywords:
+  - "continuity"
+  - "project"
+  - "theory"
+  - "practice"
 ---
 
 ## Referências

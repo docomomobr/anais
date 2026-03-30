@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "significância cultural"
   - "análise tipológica"
+keywords:
+  - "modern architecture"
+  - "cultural significance"
+  - "typological analysis"
 ---
 
 ## Referências

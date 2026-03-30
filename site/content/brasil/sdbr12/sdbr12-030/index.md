@@ -47,6 +47,10 @@ palavras-chave:
   - "Brasília"
   - "Narrativa"
   - "Patrimônio"
+keywords:
+  - "Brasilia"
+  - "Narrative"
+  - "Patrimony"
 ---
 
 ## Referências

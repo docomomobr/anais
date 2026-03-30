@@ -63,6 +63,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Conservação da Arquitetura Moderna"
   - "Plano de Conservação"
+keywords:
+  - "Modern Architecture"
+  - "Conservation of Modern Architecture"
+  - "Conservation Plan"
 ---
 
 ## Referências

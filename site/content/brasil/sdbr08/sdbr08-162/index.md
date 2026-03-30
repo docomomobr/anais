@@ -48,6 +48,10 @@ palavras-chave:
   - "Art Déco"
   - "Caruaru"
   - "patrimônio"
+keywords:
+  - "Art Deco"
+  - "Caruaru"
+  - "heritage"
 ---
 
 ## Referências

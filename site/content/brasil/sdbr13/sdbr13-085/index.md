@@ -54,6 +54,11 @@ palavras-chave:
   - "arquitetura moderna"
   - "matriz corbusiana"
   - "escola carioca"
+keywords:
+  - "Holanda Mendonça"
+  - "modern architecture"
+  - "corbusian matrices"
+  - "escola carioca"
 ---
 
 ## Referências

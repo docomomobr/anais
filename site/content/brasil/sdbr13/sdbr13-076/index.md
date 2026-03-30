@@ -53,6 +53,12 @@ palavras-chave:
   - "modernidade"
   - "arquitetura residencial"
   - "João Pessoa Mário Di Lascio"
+keywords:
+  - "Tradition"
+  - "modernity"
+  - "residential architecture"
+  - "João Pessoa"
+  - "Mário Di Lascio"
 ---
 
 ## Referências

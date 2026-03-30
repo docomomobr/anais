@@ -55,6 +55,14 @@ palavras-chave:
   - "Pesquisa documental"
   - "Historiografia da arquitetura"
   - "Arquivo Público e Histórico de Ribeirão Preto (APHRP)"
+keywords:
+  - "Documentary research"
+  - "Historiography of architecture"
+  - "Public and Historical Archive of Ribeirão Preto (APHRP)"
+palabras-clave:
+  - "Investigación documental"
+  - "Historiografía de la arquitectura"
+  - "Archivo Público e Histórico de Ribeirão Preto (APHRP)"
 ---
 
 ## Referências

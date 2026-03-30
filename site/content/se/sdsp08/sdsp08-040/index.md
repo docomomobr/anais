@@ -59,6 +59,14 @@ palavras-chave:
   - "Estratégia projetual"
   - "Curitiba"
   - "Metodologia de projeto"
+keywords:
+  - "Design strategy"
+  - "Curitiba"
+  - "Design methodology"
+palabras-clave:
+  - "Estrategia proyectual"
+  - "Curitiba"
+  - "Metodología de proyecto"
 ---
 
 ## Referências

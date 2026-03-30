@@ -58,6 +58,14 @@ palavras-chave:
   - "Patrimônio Arquitetônico"
   - "Arquitetura Pragmática"
   - "Intervenção no Patrimônio Construído"
+keywords:
+  - "Architectural Heritage"
+  - "Pragmatic Architecture"
+  - "Intervention in Built Heritage"
+palabras-clave:
+  - "Patrimonio Arquitectónico"
+  - "Arquitectura Pragmática"
+  - "Intervención en el Patrimonio Construido"
 ---
 
 ## Referências

@@ -68,6 +68,10 @@ palavras-chave:
   - "intervenção urbana"
   - "arquitetura moderna"
   - "Lina Bo Bardi"
+keywords:
+  - "urban intervention"
+  - "modern architecture"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

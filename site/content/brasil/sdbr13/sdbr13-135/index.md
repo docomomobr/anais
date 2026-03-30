@@ -54,6 +54,12 @@ palavras-chave:
   - "Juscelino Kubitschek"
   - "modernização"
   - "política"
+keywords:
+  - "architecture"
+  - "Pampulha Landscape and Architectural Complex"
+  - "Juscelino Kubitschek"
+  - "modernization"
+  - "politics"
 ---
 
 ## Referências

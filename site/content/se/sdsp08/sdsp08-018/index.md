@@ -54,6 +54,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "brutalismo"
   - "acervos"
+keywords:
+  - "Modern architecture"
+  - "Brutalism"
+  - "Collections"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Brutalismo"
+  - "Colecciones"
 ---
 
 ## Referências

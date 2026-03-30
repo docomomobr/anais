@@ -50,6 +50,10 @@ palavras-chave:
   - "Lelé"
   - "shed"
   - "arquitetura moderna"
+keywords:
+  - "Lelé"
+  - "shed"
+  - "Modern Architecture"
 ---
 
 ## Referências

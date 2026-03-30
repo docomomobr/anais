@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "regionalismo"
   - "Belém"
+keywords:
+  - "modern architecture"
+  - "regionalism"
+  - "Belém"
 ---
 
 ## Referências

@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "edifícios de apartamentos paulistanos"
   - "arquitetura moderna paulistana"
+palabras-clave:
+  - "edificios de pisos paulistanos"
+  - "arquitectura moderna paulistana"
 ---
 
 ## Referências

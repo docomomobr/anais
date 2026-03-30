@@ -59,6 +59,10 @@ palavras-chave:
   - "Arquitetura modernista"
   - "entorno arquitetônico"
   - "paisagem urbana"
+keywords:
+  - "Modernist Architecture"
+  - "Architectural Surroundings"
+  - "Urban Ambience"
 ---
 
 ## Referências

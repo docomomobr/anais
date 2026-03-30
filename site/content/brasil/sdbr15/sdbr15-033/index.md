@@ -59,6 +59,14 @@ palavras-chave:
   - "Modernismo"
   - "História da arte moderna"
   - "Modernismo no Brasil"
+keywords:
+  - "Modernism"
+  - "History of modern art"
+  - "Modernism in Brazil"
+palabras-clave:
+  - "Modernismo"
+  - "Historia del arte moderno"
+  - "Modernismo en Brasil"
 ---
 
 ## Referências

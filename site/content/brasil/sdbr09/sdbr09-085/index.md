@@ -51,6 +51,11 @@ palavras-chave:
   - "Arquitectura Moderna Africana"
   - "Gabinete de Urbanização Colonial"
   - "Habitação Unifamiliar"
+keywords:
+  - "Portuguese Colonial Architecture"
+  - "African Modern Architecture"
+  - "Urban Colonial Office"
+  - "Single-family Housing"
 ---
 
 ## Referências

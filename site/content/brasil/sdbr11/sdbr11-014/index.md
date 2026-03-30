@@ -54,6 +54,12 @@ palavras-chave:
   - "Baianidade"
   - "Integração das artes"
   - "Regionalismo"
+keywords:
+  - "Arts integration"
+  - "Bahia"
+  - "Baianidade"
+  - "Modern architecture"
+  - "Regionalism"
 ---
 
 ## Referências

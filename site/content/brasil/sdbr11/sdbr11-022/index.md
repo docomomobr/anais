@@ -52,6 +52,11 @@ palavras-chave:
   - "Residência dos Mestres da Bauhaus-Dessau"
   - "Cesare Brandi"
   - "Teoria da Restauração"
+keywords:
+  - "Intervention in the Modern Heritage"
+  - "“Evocative”reconstruction"
+  - "Master’s Houses Bauhaus"
+  - "Cesare Brandi"
 ---
 
 ## Referências

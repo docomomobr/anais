@@ -50,6 +50,10 @@ palavras-chave:
   - "Urbanismo"
   - "modernismo"
   - "Oscar Niemeyer"
+keywords:
+  - "Urbanism"
+  - "modernism"
+  - "Oscar Niemeyer"
 ---
 
 ## Referências

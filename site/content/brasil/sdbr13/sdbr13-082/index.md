@@ -53,6 +53,10 @@ palavras-chave:
   - "edifício habitacional"
   - "Centro de Fortaleza"
   - "protomodernismo"
+keywords:
+  - "housing building"
+  - "downtown Fortaleza City"
+  - "protomodern style"
 ---
 
 ## Referências

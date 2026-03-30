@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura moderna mexicana"
   - "habitação social"
   - "conjuntos residenciais"
+keywords:
+  - "mexican modern architecture"
+  - "social housing"
+  - "housing blocks"
 ---
 
 ## Referências

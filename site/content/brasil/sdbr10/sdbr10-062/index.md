@@ -47,6 +47,10 @@ palavras-chave:
   - "bibliotecas modernas"
   - "José Galbinski"
   - "Arquitetura Moderna Brasileira"
+keywords:
+  - "modern libraries"
+  - "José Galbinski"
+  - "Brazilian Modern Architecture"
 ---
 
 ## Referências

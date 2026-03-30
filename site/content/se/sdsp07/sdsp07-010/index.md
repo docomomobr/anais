@@ -61,6 +61,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Unidade de vizinhança"
   - "Cidade Universitária"
+keywords:
+  - "Modern architecture"
+  - "Neighborhood unit"
+  - "University campus"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Unidad de vecindario"
+  - "Ciudad Universitaria"
 ---
 
 ## Referências

@@ -45,4 +45,7 @@ autores:
 palavras-chave:
   - "arquitetura moderna"
   - "ambientação"
+keywords:
+  - "modern architecture"
+  - "ambiance"
 ---

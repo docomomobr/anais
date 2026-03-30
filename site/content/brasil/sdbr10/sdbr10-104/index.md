@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "João Pessoa"
   - "Régis Cavalcanti"
+keywords:
+  - "Modern Architecture"
+  - "João Pessoa"
+  - "Régis Cavalcanti"
 ---
 
 ## Referências

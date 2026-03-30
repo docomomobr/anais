@@ -63,6 +63,14 @@ palavras-chave:
   - "Patrimônio cultural"
   - "Políticas públicas"
   - "Participação"
+keywords:
+  - "Cultural heritage"
+  - "Public policies"
+  - "Participation"
+palabras-clave:
+  - "Patrimonio cultural"
+  - "Políticas públicas"
+  - "Participación"
 ---
 
 ## Referências

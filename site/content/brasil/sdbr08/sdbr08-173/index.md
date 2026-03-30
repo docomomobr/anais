@@ -48,6 +48,10 @@ palavras-chave:
   - ", Rio de Janeiro"
   - "verticalidade residencial"
   - "Firmino Saldanha"
+keywords:
+  - "Rio de Janeiro"
+  - "residential verticality"
+  - "Firmino Saldanha"
 ---
 
 ## Referências

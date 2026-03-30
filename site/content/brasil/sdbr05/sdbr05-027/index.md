@@ -49,6 +49,11 @@ palavras-chave:
   - "obras públicas"
   - "centro cívico"
   - "core"
+keywords:
+  - "modern architecture"
+  - "public buildings"
+  - "civic center"
+  - "core"
 ---
 
 ## Referências

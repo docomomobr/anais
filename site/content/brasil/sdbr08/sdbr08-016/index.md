@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Teoria da Arquitetura"
   - "Lina Bo Bardi"
+keywords:
+  - "Modern Architecture"
+  - "Theory of Architecture"
+  - "Lina Bo Bardi"
 ---
 
 ## Referências

@@ -68,6 +68,18 @@ palavras-chave:
   - "bratke"
   - "amazônia"
   - "vila amazonas"
+keywords:
+  - "Green areas"
+  - "Garden spaces"
+  - "Bratke"
+  - "Amazônia"
+  - "Vila Amazonas"
+palabras-clave:
+  - "áreas verdes"
+  - "espacios de jardín"
+  - "bratke"
+  - "amazônia"
+  - "vila amazonas"
 ---
 
 ## Referências

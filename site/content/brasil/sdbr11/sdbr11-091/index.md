@@ -53,6 +53,10 @@ palavras-chave:
   - "Armando de holanda"
   - "Athos bulcão"
   - "Modernidade"
+keywords:
+  - "Armando de holanda"
+  - "Athos bulcão"
+  - "Modernity"
 ---
 
 ## Referências

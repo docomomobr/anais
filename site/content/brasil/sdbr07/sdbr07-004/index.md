@@ -50,6 +50,10 @@ palavras-chave:
   - "renovação"
   - "centralidade"
   - "hospitalidade"
+keywords:
+  - "renewal"
+  - "centrality"
+  - "hospitality"
 ---
 
 ## Referências

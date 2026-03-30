@@ -49,4 +49,8 @@ palavras-chave:
   - "Art Déco"
   - "Modernismo em Salvador"
   - "“Edifício A Tarde”"
+keywords:
+  - "Art Déco"
+  - "Modernism in Salvador"
+  - "“Edifício A Tarde”"
 ---

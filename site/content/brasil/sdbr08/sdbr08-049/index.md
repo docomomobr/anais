@@ -48,6 +48,10 @@ palavras-chave:
   - "arquitetura e urbanismo modernos"
   - "cidade industrial"
   - "organização do trabalho e relações sociais"
+keywords:
+  - "Modernist Architecture and City-Planning"
+  - "industrial cities"
+  - "work organization and social relations"
 ---
 
 ## Referências

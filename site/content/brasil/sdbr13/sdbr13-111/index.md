@@ -55,6 +55,11 @@ palavras-chave:
   - "Habitação social"
   - "IAPC"
   - "Teresina"
+keywords:
+  - "Housing estate"
+  - "social housing"
+  - "IAPC"
+  - "Teresina"
 ---
 
 ## Referências

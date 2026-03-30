@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Irmãos Roberto"
   - "Esquadrias de Madeira"
+keywords:
+  - "The Roberto Brothers"
+  - "Wooden frames"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "preservação"
   - "Arquitetura Moderna"
   - "Brutalismo"
+keywords:
+  - "preservation"
+  - "Modern Architecture"
+  - "Brutalism"
 ---
 
 ## Referências

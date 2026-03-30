@@ -54,6 +54,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "conjuntos habitacionais"
   - "habitação de interesse social"
+keywords:
+  - "modern architecture"
+  - "housing estates"
+  - "social interest habitation"
 ---
 
 ## Referências

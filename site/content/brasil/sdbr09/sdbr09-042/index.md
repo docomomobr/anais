@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Escola Carioca"
   - "Instituto de Educação"
+keywords:
+  - "Modern Architecture"
+  - "Escola Carioca"
+  - "Institute of Education"
 ---
 
 ## Referências

@@ -49,6 +49,10 @@ palavras-chave:
   - "preservação"
   - "moderno"
   - "Curitiba"
+keywords:
+  - "preservation"
+  - "modernism"
+  - "Curitiba"
 ---
 
 ## Referências

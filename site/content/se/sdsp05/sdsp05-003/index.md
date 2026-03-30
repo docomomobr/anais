@@ -51,6 +51,10 @@ palavras-chave:
   - "Eduardo Kneese de Mello"
   - "Habitacao Coletiva"
   - "Arquitetura Moderna"
+keywords:
+  - "Eduardo Kneese de Mello"
+  - "Collective Housing"
+  - "Modern Architecture"
 ---
 
 ## Referências

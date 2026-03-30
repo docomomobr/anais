@@ -59,6 +59,14 @@ palavras-chave:
   - "Brícola"
   - "Mappin"
   - "SESC"
+keywords:
+  - "Bricola"
+  - "Mappin"
+  - "SESC"
+palabras-clave:
+  - "Brícola"
+  - "Mappin"
+  - "SESC"
 ---
 
 ## Referências

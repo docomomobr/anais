@@ -48,6 +48,10 @@ palavras-chave:
   - "Modernismo"
   - "Warchavchik"
   - "Sintaxe"
+keywords:
+  - "Modernism"
+  - "Warchavchik"
+  - "Syntax"
 ---
 
 ## Referências

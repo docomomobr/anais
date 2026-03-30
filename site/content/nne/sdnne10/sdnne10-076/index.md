@@ -63,6 +63,18 @@ palavras-chave:
   - "Identidade negra"
   - "Patrimônio e Memória"
   - "Movimento negro"
+keywords:
+  - "Ecomuseums"
+  - "Afro diasporic epistemicide"
+  - "Black identity"
+  - "Heritage and Memory"
+  - "Black movement"
+palabras-clave:
+  - "Ecomuseos"
+  - "Epistemicidio afrodiaspórico"
+  - "Identidad negra"
+  - "Patrimonio y Memoria"
+  - "Movimiento negro"
 ---
 
 ## Referências

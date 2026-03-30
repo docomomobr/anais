@@ -48,6 +48,10 @@ palavras-chave:
   - "habitação de interesse social"
   - "projetos modernos"
   - "preservação de conjuntos habitacionais modernos"
+keywords:
+  - "social housing"
+  - "modern designs"
+  - "preservation of modern housing"
 ---
 
 ## Referências

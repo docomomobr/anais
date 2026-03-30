@@ -62,6 +62,11 @@ palavras-chave:
   - "laser scanner"
   - "VANT"
   - "preservação"
+keywords:
+  - "Smart Heritage"
+  - "Laser Scanner"
+  - "UAV"
+  - "Preservation"
 ---
 
 ## Referências

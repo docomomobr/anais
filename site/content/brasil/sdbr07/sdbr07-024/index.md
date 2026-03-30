@@ -50,6 +50,10 @@ palavras-chave:
   - "Requalificação"
   - "Floresta Nacional de Ipanema"
   - "Paulo Mendes da Rocha"
+keywords:
+  - "National Forest of Ipanema"
+  - "another qualification"
+  - "Paulo Mendes da Rocha"
 ---
 
 ## Referências

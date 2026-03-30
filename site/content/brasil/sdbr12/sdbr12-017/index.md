@@ -48,6 +48,10 @@ palavras-chave:
   - "Salvador"
   - "habitação"
   - "tipologia"
+palabras-clave:
+  - "Salvador"
+  - "habitación"
+  - "tipología"
 ---
 
 ## Referências

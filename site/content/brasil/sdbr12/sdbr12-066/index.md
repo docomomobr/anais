@@ -48,6 +48,10 @@ palavras-chave:
   - "tombamento"
   - "arquitetura moderna"
   - "conjuntos residenciais"
+keywords:
+  - "heritage"
+  - "housing developments"
+  - "modern achitecture"
 ---
 
 ## Referências

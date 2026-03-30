@@ -48,6 +48,10 @@ palavras-chave:
   - "Ergon"
   - "Parergon"
   - "Simbiose"
+keywords:
+  - "Ergon"
+  - "Parergon"
+  - "Symbiosis"
 ---
 
 ## Referências

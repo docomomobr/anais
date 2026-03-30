@@ -61,6 +61,18 @@ palavras-chave:
   - "Experimentação"
   - "Registro"
   - "Propagação"
+keywords:
+  - "Modern architecture"
+  - "Cinema"
+  - "Experimentation"
+  - "Documentation"
+  - "Propagation"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Cinema"
+  - "Experimentación"
+  - "Registro"
+  - "Propagación"
 ---
 
 ## Referências

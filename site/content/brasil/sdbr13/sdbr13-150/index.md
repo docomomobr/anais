@@ -50,6 +50,11 @@ palavras-chave:
   - "Ouro Preto"
   - "Hotel"
   - "viagem"
+keywords:
+  - "Niemeyer"
+  - "Ouro Preto"
+  - "Hotel"
+  - "travel"
 ---
 
 ## Referências

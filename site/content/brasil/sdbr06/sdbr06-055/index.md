@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura"
   - "modernismo"
   - "edifícios residenciais"
+keywords:
+  - "architecture"
+  - "modernism"
+  - "residential buildings"
 ---
 
 ## Referências

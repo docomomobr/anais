@@ -51,6 +51,10 @@ palavras-chave:
   - "infraestrutura como patrimônio"
   - "centros de"
   - "abastecimento"
+keywords:
+  - "infrastructure architecture"
+  - "infrastructure as heritage"
+  - "warehouses and markets"
 ---
 
 ## Referências

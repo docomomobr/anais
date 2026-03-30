@@ -44,6 +44,10 @@ palavras-chave:
   - "Fotografia"
   - "Arquitetura moderna"
   - "Arquitetura Piauiense"
+keywords:
+  - "Photography"
+  - "Modern architecture"
+  - "Piauiense architecture"
 ---
 
 ## Referências

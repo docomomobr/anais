@@ -49,6 +49,10 @@ palavras-chave:
   - "Warchavchik"
   - "Arquitetura Modernista"
   - "Marília"
+keywords:
+  - "Warchavchik"
+  - "Modernist Architeture"
+  - "Marília"
 ---
 
 ## Referências

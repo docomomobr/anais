@@ -65,6 +65,12 @@ palavras-chave:
   - "requalificação"
   - "conforto ambiental"
   - "eficiência energética"
+keywords:
+  - "architectural heritage"
+  - "modernism"
+  - "requalification"
+  - "environmental comfort"
+  - "energy efficiency"
 ---
 
 ## Referências

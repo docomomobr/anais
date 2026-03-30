@@ -59,6 +59,14 @@ palavras-chave:
   - "Gregório Zolko"
   - "Mies van der Rohe"
   - "Arquitetura moderna"
+keywords:
+  - "Gregório Zolko"
+  - "Mies van der Rohe"
+  - "Modern Architecture"
+palabras-clave:
+  - "Gregório Zolko"
+  - "Mies van der Rohe"
+  - "Arquitectura Moderna"
 ---
 
 ## Referências

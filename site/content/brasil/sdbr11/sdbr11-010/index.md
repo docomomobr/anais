@@ -49,6 +49,11 @@ palavras-chave:
   - "Dominicanos"
   - "Modernismo"
   - "Síntese das Artes"
+keywords:
+  - "Religious Architecture"
+  - "Dominicans"
+  - "Modernism"
+  - "Synthesis of Arts"
 ---
 
 ## Referências

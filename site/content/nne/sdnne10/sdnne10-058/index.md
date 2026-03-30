@@ -61,6 +61,16 @@ palavras-chave:
   - "patrimônio moderno"
   - "documentação"
   - "aspirações modernizadoras"
+keywords:
+  - "Crato"
+  - "Modern heritage"
+  - "Documentation"
+  - "Modernizing aspirations"
+palabras-clave:
+  - "crato"
+  - "patrimonio moderno"
+  - "documentación"
+  - "aspiraciones de modernización"
 ---
 
 ## Referências

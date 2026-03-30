@@ -53,6 +53,10 @@ palavras-chave:
   - "Século XX"
   - "Bangalô"
   - "Modernismo"
+keywords:
+  - "Century XX"
+  - "Bungalow"
+  - "Modernism"
 ---
 
 ## Referências

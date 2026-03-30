@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Ensino de Arquitetura"
   - "Arquitetura Brasileira"
+keywords:
+  - "Modern Architecture"
+  - "Architecture Teaching"
+  - "Brazilian Architecture"
 ---
 
 ## Referências

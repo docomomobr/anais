@@ -48,6 +48,10 @@ palavras-chave:
   - "Sesc Pompeia"
   - "Arquitetura Extemporânea"
   - "Patrimônio Projetado"
+keywords:
+  - "Sesc Pompeia"
+  - "Extemporaneous Architecture"
+  - "Designed Heritage"
 ---
 
 ## Referências

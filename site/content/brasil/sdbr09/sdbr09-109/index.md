@@ -53,6 +53,12 @@ palavras-chave:
   - "Brasília"
   - "José de Souza Reis"
   - "Anísio Teixeira"
+keywords:
+  - "Modern Architecture"
+  - "Educational Architecture"
+  - "Brasília"
+  - "José de Souza Reis"
+  - "Anísio Teixeira"
 ---
 
 ## Referências

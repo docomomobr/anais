@@ -54,6 +54,10 @@ palavras-chave:
   - "Intervenção"
   - "Patrimônio"
   - "Arquitetura Moderna"
+keywords:
+  - "Intervention"
+  - "Patrimony"
+  - "Modern Architecture"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "modernidade"
   - "regionalismo"
   - "madeira"
+keywords:
+  - "modern architecture"
+  - "regionalism"
+  - "timber construction"
 ---
 
 ## Referências

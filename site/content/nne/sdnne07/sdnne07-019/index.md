@@ -65,6 +65,16 @@ palavras-chave:
   - "apropriação"
   - "arquitetura moderna"
   - "Belém"
+keywords:
+  - "Modernity"
+  - "appropriation"
+  - "modern architecture"
+  - "Belém"
+palabras-clave:
+  - "Modernidad"
+  - "apropiación"
+  - "arquitectura moderna"
+  - "Belém"
 ---
 
 ## Referências

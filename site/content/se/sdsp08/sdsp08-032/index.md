@@ -59,6 +59,14 @@ palavras-chave:
   - "Patrimônio"
   - "Deriva"
   - "Cartografia"
+keywords:
+  - "Patrimony"
+  - "Driftage"
+  - "Cartography"
+palabras-clave:
+  - "Patrimonio"
+  - "Deriva"
+  - "Cartografía"
 ---
 
 ## Referências

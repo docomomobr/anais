@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitectura moderna brasileira"
   - "Arquitectura moderna portuguesa"
   - "Tradição popular"
+keywords:
+  - "Brazilian modern architecture"
+  - "Portuguese modern architecture"
+  - "Popular tradition"
 ---
 
 ## Referências

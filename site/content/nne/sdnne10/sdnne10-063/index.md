@@ -61,6 +61,16 @@ palavras-chave:
   - "uso"
   - "projeto"
   - "salvaguarda"
+keywords:
+  - "Industrial heritage"
+  - "Use"
+  - "Project"
+  - "Safeguard"
+palabras-clave:
+  - "patrimonio industrial"
+  - "usar"
+  - "proyecto"
+  - "salvaguardia"
 ---
 
 ## Referências

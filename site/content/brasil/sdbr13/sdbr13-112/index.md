@@ -56,6 +56,10 @@ palavras-chave:
   - "Mulheres"
   - "Arquitetas"
   - "Brasília"
+keywords:
+  - "Women"
+  - "Female Architects"
+  - "Brasília"
 ---
 
 ## Referências

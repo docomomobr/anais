@@ -49,6 +49,10 @@ palavras-chave:
   - "casas-museus"
   - "análise sintática do espaço"
   - "morfologia do espaço"
+keywords:
+  - "historic houses museums"
+  - "space syntax"
+  - "space morphology"
 ---
 
 ## Referências

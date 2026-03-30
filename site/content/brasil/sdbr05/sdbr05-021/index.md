@@ -45,6 +45,10 @@ autores:
 palavras-chave:
   - "arquitetura moderna brasileira, arquitetura moderna pernambucana"
   - "arquitetura e identidade regional"
+keywords:
+  - "brazilian modern architecture"
+  - "modern architecture in Pernambouc"
+  - "regional identity"
 ---
 
 ## Referências

@@ -45,6 +45,10 @@ palavras-chave:
   - "casas da arquitetura moderna"
   - "brutalismo"
   - "arquitetura moderna em porto alegre"
+keywords:
+  - "modern architecture houses"
+  - "brutalismo"
+  - "modern architecture in Porto Alegre"
 ---
 
 ## Referências

@@ -57,6 +57,16 @@ palavras-chave:
   - "Projetos arquitetônicos"
   - "Metodologia projetual"
   - "Patrimônio arquitetônico moderno"
+keywords:
+  - "Modernity"
+  - "Architectural projects"
+  - "Design methodology"
+  - "Modern architectural heritage"
+palabras-clave:
+  - "Modernidad"
+  - "Proyectos arquitectónicos"
+  - "Metodología proyectual"
+  - "Patrimonio"
 ---
 
 ## Referências

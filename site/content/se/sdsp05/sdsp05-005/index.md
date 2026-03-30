@@ -48,6 +48,10 @@ palavras-chave:
   - "Daniele Calabi"
   - "Casa-pátio"
   - "Tipologia"
+keywords:
+  - "Daniele Calabi"
+  - "Courtyard"
+  - "Typology"
 ---
 
 ## Referências

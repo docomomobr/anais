@@ -51,6 +51,10 @@ palavras-chave:
   - "Diógenes Rebouças"
   - "Bahia"
   - "Arquitetura Moderna"
+keywords:
+  - "Diógenes Rebouças"
+  - "Bahia"
+  - "Modern Architecture"
 ---
 
 ## Referências

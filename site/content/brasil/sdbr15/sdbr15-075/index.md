@@ -59,6 +59,14 @@ palavras-chave:
   - "Desenvolvimentismo"
   - "Planejamento Urbano"
   - "Oeste Paulista"
+keywords:
+  - "Developmentalism"
+  - "Urban planning"
+  - "Oeste Paulista"
+palabras-clave:
+  - "Desarrollismo"
+  - "Planificación urbana"
+  - "Oeste Paulista"
 ---
 
 ## Referências

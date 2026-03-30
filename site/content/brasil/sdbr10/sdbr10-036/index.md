@@ -48,6 +48,10 @@ palavras-chave:
   - "Paulo Mendes da Rocha"
   - "Construção"
   - "Matéria"
+keywords:
+  - "Paulo Mendes da Rocha"
+  - "Construction"
+  - "Matter"
 ---
 
 ## Referências

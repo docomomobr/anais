@@ -51,6 +51,10 @@ palavras-chave:
   - "pátio"
   - "casas modernas"
   - "tipologia"
+keywords:
+  - "courtyard"
+  - "modern houses"
+  - "tipology"
 ---
 
 ## Referências

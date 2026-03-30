@@ -29,10 +29,6 @@ keywords:
   - "Arquitetura Moderna"
 abstract_en: |
   This article seeks to understand the chromatic options of Oscar Niemeyer throughout his extensive career. The methodology consists of analyzing the chromatism of his works and comparing it to the chromatic options of other modern architects and artists. The results are commented on the analysis of selected works. Since white tonality is very much present in his production, the analysis first approaches his work from a certain fascination of modern architects with white. He also hypothesized that his option for white also derives from references linked to the particular strand of abstract sculpture. He notes, however, that it is only after the 1950s that Niemeyer makes a deliberate choice for white. Before that, its architecture is polychromic. The article analyzes the references of this initial polychromy of its production, Niemeyer's approach to Brutalism from the 60s and also the chromatic unfolding of its architecture from the 90s. It concludes with the observation that, despite the singularity and the strong authorial character of his production, his chromatic references can be found in certain paths of Art and Architecture of the twentieth century.
-keywords_en:
-  - "Oscar Niemeyer"
-  - "cor"
-  - "Arquitetura Moderna"
 authors:
   - givenname: "Luis Eduardo dos Santos"
     familyname: "Borda"

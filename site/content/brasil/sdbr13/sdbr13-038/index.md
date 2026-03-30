@@ -58,6 +58,12 @@ palavras-chave:
   - "moderna brasileira"
   - "herança de Lucio Costa"
   - "Brasil Arquitetura"
+keywords:
+  - "Conception of architectural intervention"
+  - "foundations of modern Brazilian"
+  - "architecture"
+  - "the heritage of Lucio Costa"
+  - "Brasil Arquitetura"
 ---
 
 ## Referências

@@ -52,6 +52,10 @@ palavras-chave:
   - "Patrimônio"
   - "Arquitetura Moderna"
   - "Florianópolis"
+keywords:
+  - "Heritage"
+  - "Modern architecture"
+  - "Florianópolis"
 ---
 
 ## Referências

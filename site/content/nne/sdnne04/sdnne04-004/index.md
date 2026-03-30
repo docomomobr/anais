@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna (BA)"
   - "Hotel Paulo Afonso"
   - "Diógenes Rebouças"
+keywords:
+  - "Modern architecture (BA)"
+  - "Hotel Paulo Afonso"
+  - "Diógenes Rebouças"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Lucio Costa"
   - "catálogo raisonné"
+keywords:
+  - "Modern Architecture"
+  - "Lucio Costa"
+  - "catalog raisonné"
 ---
 
 ## Referências

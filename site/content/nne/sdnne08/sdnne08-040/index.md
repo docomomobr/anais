@@ -63,6 +63,16 @@ palavras-chave:
   - "Patrimônio arquitetônico industrial"
   - "Modernidade"
   - "Tectônica"
+keywords:
+  - "Inventory"
+  - "Industrial architectural heritage"
+  - "Modernity"
+  - "Tectonics"
+palabras-clave:
+  - "Inventario"
+  - "Patrimonio arquitectónico industrial"
+  - "Modernidad"
+  - "Tectónica"
 ---
 
 ## Referências

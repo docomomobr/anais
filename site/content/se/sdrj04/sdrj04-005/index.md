@@ -49,6 +49,10 @@ palavras-chave:
   - "fotografia"
   - "identidade"
   - "arquitetura brasileira"
+keywords:
+  - "photography"
+  - "identity"
+  - "Brazilian architecture"
 ---
 
 ## Referências

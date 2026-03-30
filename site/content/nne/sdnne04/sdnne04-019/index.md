@@ -49,6 +49,10 @@ palavras-chave:
   - "urbanismo moderno brasileiro"
   - "O coração da cidade"
   - "Team X"
+keywords:
+  - "Brazilian modern urbanism"
+  - "The heart of the city"
+  - "Team X"
 ---
 
 ## Referências

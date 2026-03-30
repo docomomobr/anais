@@ -49,6 +49,10 @@ palavras-chave:
   - "Praças de Cultura"
   - "Patrimônio Modernista"
   - "Palácio dos Esportes"
+keywords:
+  - "Culture Squares"
+  - "Modernist Heritage"
+  - "Palácio dos Esportes"
 ---
 
 ## Referências

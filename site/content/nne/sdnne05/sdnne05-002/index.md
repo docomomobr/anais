@@ -59,6 +59,10 @@ palavras-chave:
   - "Arquitetura Moderna (CE)"
   - "Fortaleza"
   - "Neudson Braga"
+keywords:
+  - "Modern Architecture (CE)"
+  - "Fortaleza"
+  - "Neudson Braga"
 ---
 
 ## Referências

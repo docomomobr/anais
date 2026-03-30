@@ -42,6 +42,9 @@ autores:
   - "Pereira, Marizo Vitor"
 palavras-chave:
   - "arquitetura moderna em Natal, brutalismo potiguar"
+keywords:
+  - "modern architecture in Natal"
+  - "Potiguar brutalism"
 ---
 
 ## Referências

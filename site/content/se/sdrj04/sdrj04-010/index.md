@@ -59,6 +59,10 @@ palavras-chave:
   - "Patrimônio Moderno da Saúde"
   - "Albergue da Boa Vontade"
   - "Instituto Vital Brazil"
+keywords:
+  - "Modern Heritage of Health"
+  - "Albergue da Boa Vontade"
+  - "Instituto Vital Brazil"
 ---
 
 ## Referências

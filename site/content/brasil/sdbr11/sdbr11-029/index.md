@@ -48,6 +48,10 @@ palavras-chave:
   - "Dificuldade de reconhecimento"
   - "Patrimônio industrial do século XX"
   - "Indústrias Reunidas Francisco Matarazzo"
+keywords:
+  - "Difficulty of recognition"
+  - "Industrial heritage of twentieth century"
+  - "Indústrias Reunidas Francisco Matarazzo"
 ---
 
 ## Referências

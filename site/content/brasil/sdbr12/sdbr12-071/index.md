@@ -47,6 +47,10 @@ palavras-chave:
   - "Hotel Internacional dos Reis Magos"
   - "Preservação do Patrimônio"
   - "Arquitetura Moderna"
+keywords:
+  - "Reis Magos Internacional Hotel"
+  - "Heritage Preservation"
+  - "Modern Architecture"
 ---
 
 ## Referências

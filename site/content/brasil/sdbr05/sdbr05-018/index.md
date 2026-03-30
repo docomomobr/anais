@@ -47,6 +47,10 @@ palavras-chave:
   - "Ibirapuera"
   - "arquitetura moderna"
   - "paisagismo modernista"
+keywords:
+  - "Ibirapuera"
+  - "modern architecture"
+  - "modern landscape architecture"
 ---
 
 ## Referências

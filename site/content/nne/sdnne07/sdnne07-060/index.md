@@ -69,6 +69,18 @@ palavras-chave:
   - "Arte e Arquitetura"
   - "Lina Bo Bardi"
   - "Hélio Oiticica"
+keywords:
+  - "Architectural Culture"
+  - "Artistic Culture"
+  - "Art and Architecture"
+  - "Lina Bo Bardi"
+  - "Hélio Oiticica"
+palabras-clave:
+  - "Cultura Arquitectónica"
+  - "Cultura Artística"
+  - "Arte y Arquitectura"
+  - "Lina Bo Bardi"
+  - "Hélio Oiticica"
 ---
 
 ## Referências

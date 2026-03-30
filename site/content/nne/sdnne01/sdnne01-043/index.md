@@ -48,6 +48,10 @@ palavras-chave:
   - "Planejamento Urbano"
   - "Urbanização Modernista"
   - "Segregação Social"
+keywords:
+  - "Urban Planning"
+  - "Modern Urbanization"
+  - "Social Segregation"
 ---
 
 ## Referências

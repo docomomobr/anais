@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Cívica"
   - "Arquitetura Paulista"
   - "‘Coração da cidade’"
+keywords:
+  - "Civic Architecture"
+  - "Paulista Architecture"
+  - "‘Heart of the city’"
 ---
 
 ## Referências

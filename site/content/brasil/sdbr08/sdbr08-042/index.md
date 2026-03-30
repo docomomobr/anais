@@ -48,6 +48,10 @@ palavras-chave:
   - "modernidade"
   - "movimento moderno"
   - "arquitetura"
+keywords:
+  - "modernity"
+  - "modern movement"
+  - "architecture"
 ---
 
 ## Referências

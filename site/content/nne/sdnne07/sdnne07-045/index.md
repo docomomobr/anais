@@ -65,6 +65,16 @@ palavras-chave:
   - "arquitetura moderna"
   - "adequação bioclimática"
   - "Borsoi"
+keywords:
+  - "Brutalism"
+  - "modern architecture"
+  - "bioclimatic suitability"
+  - "Borsoi"
+palabras-clave:
+  - "Brutalismo"
+  - "arquitectura moderna"
+  - "adecuación bioclimática"
+  - "Borsoi"
 ---
 
 ## Referências

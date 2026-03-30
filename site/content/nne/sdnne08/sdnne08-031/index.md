@@ -72,6 +72,18 @@ palavras-chave:
   - "cidade moderna"
   - "espaço público"
   - "apropriação espacial infanto juvenil"
+keywords:
+  - "Urban appropriation"
+  - "modern and contemporary project"
+  - "modern city"
+  - "public space"
+  - "child-youth spatial appropriation"
+palabras-clave:
+  - "Apropiación urbana"
+  - "diseño moderno y contemporáneo"
+  - "ciudad moderna"
+  - "lugar público"
+  - "apropiación espacial infantil y juvenil"
 ---
 
 ## Referências

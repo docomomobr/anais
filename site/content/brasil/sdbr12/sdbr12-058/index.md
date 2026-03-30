@@ -48,6 +48,10 @@ palavras-chave:
   - "edifício-ponte"
   - "Jaime Lerner"
   - "Bienal de Paris"
+keywords:
+  - "bridge-building"
+  - "Jaime Lerner"
+  - "Paris Biennale"
 ---
 
 ## Referências

@@ -54,6 +54,12 @@ palavras-chave:
   - "Oscar Niemeyer"
   - "Catedral de Brasília"
   - "Forma"
+keywords:
+  - "Form"
+  - "design"
+  - "technique"
+  - "Oscar Niemeyer"
+  - "Brasilia’s Cathedral of Brasilia"
 ---
 
 ## Referências

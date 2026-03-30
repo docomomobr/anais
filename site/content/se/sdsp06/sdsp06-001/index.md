@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Escolar"
   - "Métodos Pedagógicos"
   - "Movimento Moderno"
+keywords:
+  - "School Architecture"
+  - "Pedagogical Methods"
+  - "Modern Motion"
 ---
 
 ## Referências

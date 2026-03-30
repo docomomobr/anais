@@ -50,6 +50,10 @@ palavras-chave:
   - "concreto armado"
   - "Conservação da Arquitetura Moderna"
   - "Arquitetura Moderna Brasileira"
+keywords:
+  - "Concrete"
+  - "Conservation of Modern Architecture"
+  - "Modern Brazilian Architecture"
 ---
 
 ## Referências

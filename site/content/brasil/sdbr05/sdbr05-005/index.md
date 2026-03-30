@@ -46,6 +46,10 @@ palavras-chave:
   - "Águas de Lindóia"
   - "plano diretor"
   - "Luís Saia"
+keywords:
+  - "Águas de Lindóia"
+  - "director plan"
+  - "Luís Saia"
 ---
 
 ## Referências

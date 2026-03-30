@@ -50,6 +50,10 @@ palavras-chave:
   - "Arte"
   - "Projeto"
   - "Representação"
+keywords:
+  - "Art"
+  - "Design"
+  - "Representation"
 ---
 
 ## Referências

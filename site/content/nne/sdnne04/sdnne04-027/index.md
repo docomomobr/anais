@@ -59,6 +59,11 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Projetos Arquitetônicos"
   - "História da Arquitetura Brasileira"
+keywords:
+  - "Modern Architecture"
+  - "Architectural Design"
+  - "History of Brazilian Architecture"
+  - "Piauí’s"
 ---
 
 ## Referências

@@ -45,6 +45,9 @@ autores:
 palavras-chave:
   - "Brutalismo"
   - "concreto aparente"
+keywords:
+  - "Brutalism"
+  - "apparent concrete"
 ---
 
 ## Referências

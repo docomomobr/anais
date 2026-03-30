@@ -57,6 +57,12 @@ palavras-chave:
   - "nordeste"
   - "cânon"
   - "panoramas"
+keywords:
+  - "modern architecture"
+  - "historiography"
+  - "Northeast"
+  - "canon"
+  - "panoramas"
 ---
 
 ## Referências

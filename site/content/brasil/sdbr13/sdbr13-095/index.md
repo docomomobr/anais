@@ -52,6 +52,10 @@ palavras-chave:
   - "Inventários"
   - "Arquitetura Moderna"
   - "Historiografia"
+keywords:
+  - "Inventory"
+  - "Modern Architecture"
+  - "Historiography"
 ---
 
 ## Referências

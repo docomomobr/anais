@@ -53,6 +53,12 @@ palavras-chave:
   - "conservação dos materiais"
   - "arquitetura brasileira"
   - "concreto aparente"
+keywords:
+  - "modern architecture"
+  - "preservation"
+  - "material conservation"
+  - "Brazilian architecture"
+  - "exposed concrete"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "Difusão"
   - "Recepção"
   - "Arquitetura Moderna Brasileira"
+keywords:
+  - "Diffusion"
+  - "Reception"
+  - "Brazilian Modern Architecture"
 ---
 
 ## Referências

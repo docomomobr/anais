@@ -55,6 +55,10 @@ palavras-chave:
   - "Arquitetura Brutalista"
   - "Arquitetura Moderna"
   - "Ceará/Brasil"
+keywords:
+  - "Brutalist Architecture"
+  - "Modern Architecture"
+  - "Ceará/Brasil"
 ---
 
 ## Referências

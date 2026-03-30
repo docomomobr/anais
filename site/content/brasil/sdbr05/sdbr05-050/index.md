@@ -47,6 +47,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "morte"
   - "arquitetura funerária"
+keywords:
+  - "modern architecture"
+  - "death"
+  - "funerary architecture"
 ---
 
 ## Referências

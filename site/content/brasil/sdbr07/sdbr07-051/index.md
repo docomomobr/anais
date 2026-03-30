@@ -40,6 +40,8 @@ autores:
   - "Leão, Sílvia Lopes Carneiro"
 palavras-chave:
   - "Casa Curutchet;Modernidade;Contextualização"
+keywords:
+  - "Curutchet House;Modernity;Contextualization"
 ---
 
 ## Referências

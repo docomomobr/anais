@@ -51,6 +51,11 @@ palavras-chave:
   - "preservação do patrimônio"
   - "polinucleamento"
   - "desigualdade socioespacial"
+keywords:
+  - "Brasília"
+  - "urban heritage conservation"
+  - "multiple settlements"
+  - "spatial inequality"
 ---
 
 ## Referências

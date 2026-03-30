@@ -55,6 +55,12 @@ palavras-chave:
   - "Realismo Socialista"
   - "curso de arquitetura"
   - "Instituto de Belas Artes (Porto Alegre)"
+keywords:
+  - "Timber"
+  - "Modern Architecture"
+  - "Socialist Realism"
+  - "course of architecture"
+  - "Fine Arts Institute (Porto Alegre)"
 ---
 
 ## Referências

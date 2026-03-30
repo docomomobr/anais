@@ -69,6 +69,16 @@ palavras-chave:
   - "transformações urbanas"
   - "dinâmica imobiliária"
   - "preservação patrimonial"
+keywords:
+  - "modern architecture"
+  - "urban transformations"
+  - "property market dynamics"
+  - "heritage preservation"
+palabras-clave:
+  - "arquitectura moderna"
+  - "transformaciones urbanas"
+  - "dinámica inmobiliaria"
+  - "preservación patrimonial"
 ---
 
 ## Referências

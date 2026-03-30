@@ -65,6 +65,10 @@ palavras-chave:
   - "arquitetura"
   - "modernidade"
   - "Teresina"
+keywords:
+  - "architecture"
+  - "modernity"
+  - "Teresina"
 ---
 
 ## Referências

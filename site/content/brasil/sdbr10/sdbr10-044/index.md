@@ -48,6 +48,10 @@ palavras-chave:
   - "Figuração"
   - "Brutalismo"
   - "Arquitetura Moderna"
+keywords:
+  - "Figuration"
+  - "Brutalism"
+  - "Modern Architecture"
 ---
 
 ## Referências

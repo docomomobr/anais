@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Edifício Escolar"
   - "Ceará"
+keywords:
+  - "Modern Architecture"
+  - "School Building"
+  - "Ceará"
 ---
 
 ## Referências

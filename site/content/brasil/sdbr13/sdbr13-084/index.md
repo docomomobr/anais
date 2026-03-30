@@ -52,6 +52,10 @@ palavras-chave:
   - "Modernidade"
   - "Arquitetura"
   - "Wolfgang Ludwig Rau"
+keywords:
+  - "Modernity"
+  - "Architecture"
+  - "Wolfgang Ludwig Rau"
 ---
 
 ## Referências

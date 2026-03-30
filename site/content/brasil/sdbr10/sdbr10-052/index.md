@@ -54,4 +54,12 @@ palavras-chave:
   - "abstracción"
   - "sacralidad"
   - "tramas proyectuales"
+keywords:
+  - "abstraction"
+  - "sacredness"
+  - "projective frames"
+palabras-clave:
+  - "abstracción"
+  - "sacralidad"
+  - "tramas proyectuales"
 ---

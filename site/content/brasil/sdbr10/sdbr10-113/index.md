@@ -57,6 +57,14 @@ palavras-chave:
   - "Arquitectura moderna"
   - "Brutalismo"
   - "Ecuador"
+keywords:
+  - "Modern Architecture"
+  - "Brutalism"
+  - "Ecuador"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Brutalismo"
+  - "Ecuador"
 ---
 
 ## Referências

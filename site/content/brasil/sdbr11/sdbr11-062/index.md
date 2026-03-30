@@ -52,6 +52,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Integração"
   - "Pernambuco"
+keywords:
+  - "Modern art"
+  - "Modern architecture"
+  - "Integration"
+  - "Pernambuco"
 ---
 
 ## Referências

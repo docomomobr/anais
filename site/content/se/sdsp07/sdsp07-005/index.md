@@ -57,6 +57,14 @@ palavras-chave:
   - "Preservação da arquitetura moderna"
   - "Centro Histórico de São Paulo"
   - "Edifício Barão de Iguape"
+keywords:
+  - "preservation of modern architecture"
+  - "Historic Centre of São Paulo"
+  - "building Barão de Iguape"
+palabras-clave:
+  - "Preservación de la arquitectura moderna"
+  - "Centro Histórico de São Paulo"
+  - "Edificio Barão de Iguape"
 ---
 
 ## Referências

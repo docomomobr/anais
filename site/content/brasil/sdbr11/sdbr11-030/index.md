@@ -50,6 +50,10 @@ palavras-chave:
   - "Condephaat"
   - "Arquitetura moderna"
   - "Patrimônio Cultural"
+keywords:
+  - "Condephaat"
+  - "Modern architecture"
+  - "Cultural heritage"
 ---
 
 ## Referências

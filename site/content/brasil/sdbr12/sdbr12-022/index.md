@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura Moderna em Pernambuco"
   - "Poesia e Arquitetura"
   - "Joaquim Cardozo"
+keywords:
+  - "Modern Architecture in Pernambuco"
+  - "Poetry and Architecture"
+  - "Joaquim Cardozo"
 ---
 
 ## Referências

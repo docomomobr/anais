@@ -47,6 +47,10 @@ palavras-chave:
   - "Construtora Medaglia"
   - "Noroeste-RS"
   - "Arquitetura Santo Ângelo-RS"
+keywords:
+  - "Construction Company Medaglia"
+  - "Northwest-RS"
+  - "Architecture in Santo Angelo-RS"
 ---
 
 ## Referências

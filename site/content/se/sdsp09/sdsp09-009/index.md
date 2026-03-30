@@ -64,6 +64,14 @@ palavras-chave:
   - "arquitetura moderna"
   - "Sorocaba"
   - "arquitetura paulista"
+keywords:
+  - "Modern Architecture"
+  - "Sorocaba"
+  - "Paulista Architecture"
+palabras-clave:
+  - "arquitectura moderna"
+  - "Sorocaba"
+  - "Arquitectura paulista"
 ---
 
 ## Referências

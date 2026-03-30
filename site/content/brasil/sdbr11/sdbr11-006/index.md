@@ -51,6 +51,11 @@ palavras-chave:
   - "Casa mario lorieto"
   - "Instalação artística"
   - "Passeio arquitetônico"
+keywords:
+  - "La roche house"
+  - "Mario lorieto house"
+  - "Artistic installation"
+  - "Architectural pathway"
 ---
 
 ## Referências

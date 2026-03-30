@@ -58,6 +58,14 @@ palavras-chave:
   - "Japão"
   - "Arquitetura"
   - "Modernismo"
+keywords:
+  - "Japan"
+  - "Architecture"
+  - "Modernism"
+palabras-clave:
+  - "Japón"
+  - "Arquitectura"
+  - "Modernismo"
 ---
 
 ## Referências

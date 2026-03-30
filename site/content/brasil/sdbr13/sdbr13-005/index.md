@@ -53,6 +53,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "patrimônio edificado"
   - "conservação"
+keywords:
+  - "modern architecture"
+  - "built heritage"
+  - "conservation"
 ---
 
 ## Referências

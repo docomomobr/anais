@@ -51,6 +51,10 @@ palavras-chave:
   - "Luiz Nunes"
   - "arquitetura moderna"
   - "patrimônio cultural"
+keywords:
+  - "Luiz Nunes"
+  - "modern architecture"
+  - "cultural heritage"
 ---
 
 ## Referências

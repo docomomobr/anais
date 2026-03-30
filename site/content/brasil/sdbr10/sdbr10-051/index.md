@@ -46,6 +46,10 @@ palavras-chave:
   - "Arquitetura Moderna Brasileira"
   - "arquitetura paulista brutalista"
   - "estrutura tipo Dom-ino"
+keywords:
+  - "Brazilian modern architecture"
+  - "São Paulo’s Brutalism architecture"
+  - "Dom-ino type structure"
 ---
 
 ## Referências

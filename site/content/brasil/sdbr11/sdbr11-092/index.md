@@ -53,6 +53,11 @@ palavras-chave:
   - "Imaginário urbano"
   - "Utopia"
   - "Distopia"
+keywords:
+  - "Literature"
+  - "Modernity.Urban Imaginary"
+  - "Utopia"
+  - "Distopia"
 ---
 
 ## Referências

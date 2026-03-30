@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura paulista"
   - "Arquitetura Contemporânea no Brasil"
   - "Historiografia da arquitetura moderna brasileira"
+keywords:
+  - "Sao Paulo’s architecture"
+  - "Contemporary Architecture in Brazil"
+  - "Brazil’s modern architecture historiography"
 ---
 
 ## Referências

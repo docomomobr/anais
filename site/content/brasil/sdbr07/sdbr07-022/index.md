@@ -52,6 +52,10 @@ palavras-chave:
   - "Palmas"
   - "configuração urbana"
   - "guetos urbanos"
+keywords:
+  - "Palmas"
+  - "urban configuration"
+  - "urban ghettos"
 ---
 
 ## Referências

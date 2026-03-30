@@ -55,6 +55,10 @@ palavras-chave:
   - "Acervos de arquitetura"
   - "acacio gil borsoi"
   - "documentação de arquitetura moderna"
+keywords:
+  - "Architectural collections"
+  - "Acacio Gil Borsoi"
+  - "modern architecture archives"
 ---
 
 ## Referências

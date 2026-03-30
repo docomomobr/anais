@@ -45,6 +45,10 @@ palavras-chave:
   - "Arquitetura Moderna no Paraná"
   - "História da Arquitetura"
   - "Philipp Lohbauer"
+keywords:
+  - "Modern Architecture in Paraná"
+  - "History of Architecture"
+  - "Philipp Lohbauer"
 ---
 
 ## Referências

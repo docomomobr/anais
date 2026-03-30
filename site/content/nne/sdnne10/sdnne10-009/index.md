@@ -62,6 +62,16 @@ palavras-chave:
   - "Arquitetura e lugar"
   - "Bioclimatismo"
   - "Amazônia"
+keywords:
+  - "Adapted Modern"
+  - "Architecture and place"
+  - "Bioclimatism"
+  - "Amazon"
+palabras-clave:
+  - "Moderno adaptado"
+  - "Arquitectura y lugar"
+  - "Bioclimatismo"
+  - "Amazonia"
 ---
 
 ## Referências

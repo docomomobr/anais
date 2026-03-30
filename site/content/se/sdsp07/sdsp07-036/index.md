@@ -64,6 +64,14 @@ palavras-chave:
   - "Casa de Vidro"
   - "Residência Oscar Americano"
   - "Conjunto Parque CECAP"
+keywords:
+  - "Casa de Vidro"
+  - "Residência Oscar Americano"
+  - "Parque CECAP complex"
+palabras-clave:
+  - "Casa de Vidro"
+  - "Residência Oscar Americano"
+  - "Parque CECAP complejo"
 ---
 
 ## Referências

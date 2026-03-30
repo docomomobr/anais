@@ -52,6 +52,11 @@ palavras-chave:
   - "Brises"
   - "conforto térmico"
   - "conforto visual"
+keywords:
+  - "Technology Institutes"
+  - "construction technique"
+  - "brise-soleils"
+  - "thermal comfort"
 ---
 
 ## Referências

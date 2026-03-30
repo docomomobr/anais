@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura de madeira"
   - "pavilhão de exposições"
   - "arquitetura moderna"
+keywords:
+  - "architecture using wood"
+  - "expositions pavilion"
+  - "modern architecture"
 ---
 
 ## Referências

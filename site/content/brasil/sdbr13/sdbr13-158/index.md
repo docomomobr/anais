@@ -51,6 +51,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Habitação social"
   - "CECAP"
+keywords:
+  - "Vilanova Artigas"
+  - "Social housing"
+  - "CECAP"
 ---
 
 ## Referências

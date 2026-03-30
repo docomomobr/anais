@@ -66,6 +66,16 @@ palavras-chave:
   - "Modelagem paramétrica"
   - "Prototipagem"
   - "Argamassa armada"
+keywords:
+  - "Digital manufacturing"
+  - "Parametric modeling"
+  - "Prototyping"
+  - "Ferrocement"
+palabras-clave:
+  - "Fabricación digital"
+  - "Modelado paramétrico"
+  - "Creación de prototipos"
+  - "Mortero"
 ---
 
 ## Referências

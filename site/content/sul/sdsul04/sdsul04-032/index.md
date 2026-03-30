@@ -47,6 +47,10 @@ palavras-chave:
   - "casa moderna"
   - "cobertura em catenária"
   - "casa de campo"
+keywords:
+  - "modern house"
+  - "catenary roof"
+  - "country home"
 ---
 
 ## Referências

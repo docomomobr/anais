@@ -70,6 +70,18 @@ palavras-chave:
   - "símbolo fúnebre"
   - "tipologia fúnebre"
   - "Belém-PA"
+keywords:
+  - "deposits"
+  - "architectural style"
+  - "funeral symbol"
+  - "funeral typology"
+  - "Belém-PA"
+palabras-clave:
+  - "depósitos"
+  - "estilo arquitectónico"
+  - "símbolo funerario"
+  - "tipología funeraria"
+  - "Belém-PA"
 ---
 
 ## Referências

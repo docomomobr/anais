@@ -65,6 +65,16 @@ palavras-chave:
   - "Salvador"
   - "Sindicato dos Engenheiros da Bahia"
   - "revista Técnica"
+keywords:
+  - "Modern Architecture"
+  - "Salvador"
+  - "Sindicato dos Engenheiros da Bahia"
+  - "Técnica magazine"
+palabras-clave:
+  - "Arquitectura Moderna"
+  - "Salvador"
+  - "Sindicato dos Engenheiros da Bahia"
+  - "revista Técnica"
 ---
 
 ## Referências

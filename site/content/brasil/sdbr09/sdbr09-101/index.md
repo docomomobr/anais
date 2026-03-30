@@ -52,6 +52,12 @@ palavras-chave:
   - "Bom Retiro"
   - "São Paulo"
   - "Construtores estrangeiros"
+keywords:
+  - "Modern Architecture"
+  - "Jewish Immigration"
+  - "Bom Retiro"
+  - "Sao Paulo"
+  - "Foreign Constructors/ Builders"
 ---
 
 ## Referências

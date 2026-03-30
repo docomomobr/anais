@@ -57,6 +57,14 @@ palavras-chave:
   - "Arquitetura religiosa"
   - "Funcionalismo"
   - "Poética arquitetônica"
+keywords:
+  - "Religious architecture"
+  - "Functionalism"
+  - "Architectural poetics"
+palabras-clave:
+  - "Arquitectura religiosa"
+  - "Funcionalismo"
+  - "Poética arquitectónica"
 ---
 
 ## Referências

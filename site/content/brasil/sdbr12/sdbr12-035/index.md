@@ -52,6 +52,10 @@ palavras-chave:
   - "Historiografia da arquitetura"
   - "Arquitetura moderna no Brasil"
   - "Brasília"
+keywords:
+  - "Architecture historiography"
+  - "Modern architecture in Brazil"
+  - "Brasília"
 ---
 
 ## Referências

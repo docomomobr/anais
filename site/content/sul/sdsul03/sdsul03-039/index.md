@@ -46,6 +46,9 @@ autores:
 palavras-chave:
   - "Casa de Madeira"
   - "Residencia Unifamiliar"
+keywords:
+  - "Wooden House"
+  - "Single Family Residence"
 ---
 
 ## Referências

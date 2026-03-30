@@ -80,6 +80,16 @@ palavras-chave:
   - "linguagens arquitetônicas"
   - "Ecletismo"
   - "Amazônia"
+keywords:
+  - "compositional elements"
+  - "architectural languages"
+  - "Eclecticism"
+  - "Amazon"
+palabras-clave:
+  - "elementos compositivos"
+  - "lenguajes arquitectónicos"
+  - "Eclecticismo"
+  - "Amazonia"
 ---
 
 ## Referências

@@ -54,6 +54,10 @@ palavras-chave:
   - "Ivan Brito"
   - "Arquitetura Modernista Fortaleza"
   - "Benfica"
+keywords:
+  - "Ivan Brito"
+  - "Modern Architecture, Fortaleza"
+  - "Benfica"
 ---
 
 ## Referências

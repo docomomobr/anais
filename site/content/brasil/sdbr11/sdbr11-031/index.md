@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura Escolar"
   - "Escola Nova"
   - "Arquitetura moderna"
+keywords:
+  - "School Architecture"
+  - "New School"
+  - "Modern Architecture"
 ---
 
 ## Referências

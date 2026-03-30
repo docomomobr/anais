@@ -59,6 +59,14 @@ palavras-chave:
   - "Arquitetura escolar do PAGE"
   - "EE Philomena Cardoso de Oliveira"
   - "Arquitetura moderna na baixada santista"
+keywords:
+  - "The PAGE school architecture"
+  - "EE Philomena Cardoso de Oliveira"
+  - "Modern architecture in “baixada santista”"
+palabras-clave:
+  - "La arquitectura escolar del PAGE"
+  - "EE Fhilomena Cardoso de Oliveira"
+  - "La Arquitectura moderna en “baixada santista”"
 ---
 
 ## Referências

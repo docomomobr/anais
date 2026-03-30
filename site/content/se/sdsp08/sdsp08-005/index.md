@@ -59,6 +59,14 @@ palavras-chave:
   - "Plano de Ação"
   - "Arquitetura Moderna"
   - "Universidade de São Paulo"
+keywords:
+  - "Action Plan"
+  - "Modern Architecture"
+  - "University of São Paulo"
+palabras-clave:
+  - "Plan de Actuación"
+  - "Arquitectura Moderna"
+  - "Universidad de São Paulo"
 ---
 
 ## Referências

@@ -51,6 +51,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "centro administrativo"
   - "Teresina"
+keywords:
+  - "modern architecture"
+  - "administrative center"
+  - "Teresina"
 ---
 
 ## Referências

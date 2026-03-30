@@ -49,6 +49,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "habitação"
   - "Jacob Bakema"
+keywords:
+  - "Modern Architecture"
+  - "dwelling"
+  - "Jacob Bakema"
 ---
 
 ## Referências

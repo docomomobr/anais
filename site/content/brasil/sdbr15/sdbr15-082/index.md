@@ -57,6 +57,15 @@ palavras-chave:
   - "Funcionalismo alemão"
   - "Arquitetura racionalista"
   - "História da arquitetura moderna"
+keywords:
+  - "German functionalism"
+  - "Rationalist Architecture"
+  - "Modern Architecture History"
+palabras-clave:
+  - "Funcionalismo alemán"
+  - "Arquitectura racionalista"
+  - "Historia de la arquitectura"
+  - "moderna"
 ---
 
 ## Referências

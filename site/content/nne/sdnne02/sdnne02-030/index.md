@@ -92,6 +92,10 @@ palavras-chave:
   - "Portugal"
   - "patrimônio"
   - "modernidade"
+keywords:
+  - "Portugal"
+  - "heritage"
+  - "modernity"
 ---
 
 ## Referências

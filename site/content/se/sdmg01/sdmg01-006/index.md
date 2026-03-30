@@ -47,6 +47,10 @@ zenodo_pdf_url: "https://zenodo.org/records/19286391/files/sdmg01-006.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Alberto, Klaus Chaves"
+keywords:
+  - "Urban Planning"
+  - "Juiz de Fora"
+  - "Francisco Baptista de Oliveira"
 ---
 
 ## Referências

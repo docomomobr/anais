@@ -57,6 +57,11 @@ palavras-chave:
   - "função"
   - "Luis Nunes"
   - "arquitetura moderna"
+keywords:
+  - "space"
+  - "function"
+  - "Luis Nunes"
+  - "modern architecture"
 ---
 
 ## Referências

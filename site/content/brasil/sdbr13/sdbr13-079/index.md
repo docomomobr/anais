@@ -58,6 +58,12 @@ palavras-chave:
   - "edifício de uso misto"
   - "verticalização"
   - "arquitetura moderna"
+keywords:
+  - "São Paulo"
+  - "typology"
+  - "mixed-use building"
+  - "verticalization"
+  - "modern architecture"
 ---
 
 ## Referências

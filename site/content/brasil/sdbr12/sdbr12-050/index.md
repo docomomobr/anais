@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Fascismo"
   - "jornais"
+keywords:
+  - "Modern Architecture"
+  - "Fascism"
+  - "newspapers"
 ---
 
 ## Referências

@@ -59,6 +59,14 @@ palavras-chave:
   - "Clorindo Testa"
   - "Concurso"
   - "Arquitetura Moderna Argentina"
+keywords:
+  - "Clorindo Testa"
+  - "Contest"
+  - "Argentine Modern Architecture"
+palabras-clave:
+  - "Clorindo Testa"
+  - "Concurso"
+  - "Arquitetura Moderna Argentina"
 ---
 
 ## Referências

@@ -55,6 +55,12 @@ palavras-chave:
   - "arquitetura moderna no Brasil"
   - ", Juscelino Kubitschek"
   - "Lucio Costa e Oscar Niemeyer"
+keywords:
+  - "Brasilia"
+  - "History and historiography of architecture"
+  - "modern architecture in Brazil"
+  - "Juscelino, Kubitschek"
+  - "Lucio Costa and Oscar Niemeyer"
 ---
 
 ## Referências

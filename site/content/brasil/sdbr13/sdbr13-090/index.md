@@ -57,6 +57,12 @@ palavras-chave:
   - "Germán Samper"
   - "agrupações de habitação"
   - "redes alternas"
+keywords:
+  - "social housing in Colombia"
+  - "Germán Samper"
+  - "groupings of dwellings"
+  - "alternate"
+  - "networks"
 ---
 
 ## Referências

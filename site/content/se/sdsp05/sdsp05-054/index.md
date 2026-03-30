@@ -52,6 +52,10 @@ palavras-chave:
   - "Arquitetura paulista"
   - "Rino Levi"
   - "Intervenção no patrimônio"
+keywords:
+  - "Brazilian architecture"
+  - "Rino Levi"
+  - "Patrimony intervention"
 ---
 
 ## Referências

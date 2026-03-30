@@ -50,6 +50,10 @@ palavras-chave:
   - "arquitetura moderna"
   - "projetos arquitetônicos"
   - "patrimônio moderno"
+keywords:
+  - "modern architecture"
+  - "architectural projects"
+  - "modern heritage"
 ---
 
 ## Referências

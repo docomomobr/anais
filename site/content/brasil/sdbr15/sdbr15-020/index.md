@@ -60,6 +60,14 @@ palavras-chave:
   - "Monumentalidade"
   - "Capitais modernas"
   - "Estratégias projetuais"
+keywords:
+  - "Monumentality"
+  - "Modern capitals"
+  - "Project strategies"
+palabras-clave:
+  - "Monumentalidad"
+  - "Capitales modernas"
+  - "Estrategias de proyecto"
 ---
 
 ## Referências

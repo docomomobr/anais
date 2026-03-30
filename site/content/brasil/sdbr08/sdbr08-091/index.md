@@ -52,6 +52,10 @@ palavras-chave:
   - "retrofit"
   - "edifício tombado"
   - "edifício modernista"
+keywords:
+  - "retrofit"
+  - "building legally protected"
+  - "modernist building"
 ---
 
 ## Referências

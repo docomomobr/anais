@@ -65,6 +65,12 @@ palavras-chave:
   - "embaixadas do Brasil no exterior"
   - "Instituto Moreira Salles"
   - "historiografia"
+keywords:
+  - "Olavo Redig de Campos"
+  - "modern architectures"
+  - "Brazilian embassies abroad"
+  - "Instituto, Moreira Salles"
+  - "history of architecture"
 ---
 
 ## Referências

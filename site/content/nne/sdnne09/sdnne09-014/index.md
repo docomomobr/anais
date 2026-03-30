@@ -60,6 +60,12 @@ palavras-chave:
   - "Acácio Gil Borsoi"
   - "conforto térmico"
   - "Fortaleza"
+keywords:
+  - "natural lighting"
+  - "modern architecture"
+  - "Acácio Gil Borsoi"
+  - "thermal comfort"
+  - "Fortaleza"
 ---
 
 ## Referências

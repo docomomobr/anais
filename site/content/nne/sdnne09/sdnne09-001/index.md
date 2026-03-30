@@ -56,6 +56,11 @@ palavras-chave:
   - "tendências de crescimento"
   - "espaço urbano"
   - "cidade moderna"
+keywords:
+  - "urban planning"
+  - "growth trends"
+  - "urban space"
+  - "modern city"
 ---
 
 ## Referências

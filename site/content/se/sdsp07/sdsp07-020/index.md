@@ -66,6 +66,14 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Plano de Ação"
   - "Arquitetura Orgânica"
+keywords:
+  - "Modern Architecture"
+  - "Action Plan"
+  - "Organic Architecture"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Plan de Actuación"
+  - "Arquitectura Orgánica"
 ---
 
 ## Referências

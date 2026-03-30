@@ -51,6 +51,10 @@ palavras-chave:
   - "Habitação de Interesse Social"
   - "Arquitetura Moderna"
   - "Brasil"
+keywords:
+  - "Social Interest Housing"
+  - "Modern architecture"
+  - "Brazil"
 ---
 
 ## Referências

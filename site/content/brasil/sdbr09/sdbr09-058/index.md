@@ -50,6 +50,11 @@ palavras-chave:
   - "Patrimônio"
   - "Preservação"
   - "Documentação"
+keywords:
+  - "Modern Architecture"
+  - "Heritage"
+  - "Preservation"
+  - "Documentation"
 ---
 
 ## Referências

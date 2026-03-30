@@ -52,6 +52,10 @@ palavras-chave:
   - "habitação coletiva"
   - "habitação social"
   - "conjunto habitacional"
+keywords:
+  - "collective housing"
+  - "social housing"
+  - "housing complex"
 ---
 
 ## Referências

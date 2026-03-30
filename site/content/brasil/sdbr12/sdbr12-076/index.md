@@ -50,6 +50,10 @@ palavras-chave:
   - "Edifício João Goulart"
   - "arquitetura moderna"
   - "ruína"
+keywords:
+  - "João Goulart Building"
+  - "modern architecture"
+  - "ruine"
 ---
 
 ## Referências

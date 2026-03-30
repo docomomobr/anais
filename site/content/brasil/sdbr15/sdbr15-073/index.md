@@ -72,6 +72,15 @@ palavras-chave:
   - "Jogos Abertos do Interior"
   - "Equipamentos"
   - "esportivos modernos"
+keywords:
+  - "Counter-hegemonic narrative"
+  - "Interior Open Games"
+  - "Modern sports courts"
+palabras-clave:
+  - "Narrativa contrahegemónica"
+  - "Juegos abiertos de interior"
+  - "Equipamiento deportivo"
+  - "moderno"
 ---
 
 ## Referências

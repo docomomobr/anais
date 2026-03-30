@@ -58,6 +58,10 @@ palavras-chave:
   - "Gregori Warchavchik"
   - "Siegfried Giedion"
   - "CIAM"
+keywords:
+  - "Gregori Warchavchik"
+  - "Siegfried Giedion"
+  - "CIAM"
 ---
 
 ## Referências

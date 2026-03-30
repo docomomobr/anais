@@ -50,6 +50,10 @@ palavras-chave:
   - "Movimento Moderno"
   - "Arquitetura paulista e italiana"
   - "Habitação"
+keywords:
+  - "Modern Movement"
+  - "Paulista and Italian Architecture"
+  - "Housing"
 ---
 
 ## Referências

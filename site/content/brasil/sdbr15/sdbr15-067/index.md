@@ -67,6 +67,16 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Habitação social"
   - "Conjunto 23 de Enero"
+keywords:
+  - "Modern icon"
+  - "Modern Architecture"
+  - "Social housing"
+  - "23 de Enero housing complex"
+palabras-clave:
+  - "Icono moderno"
+  - "Arquitectura moderna"
+  - "Vivienda social"
+  - "Conjunto 23 de Enero"
 ---
 
 ## Referências

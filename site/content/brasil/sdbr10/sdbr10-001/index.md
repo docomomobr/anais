@@ -63,6 +63,11 @@ palavras-chave:
   - "Rio de Janeiro"
   - "Elevado do Joá"
   - "Recuperação"
+keywords:
+  - "Modern Architecture"
+  - "Rio de Janeiro"
+  - "Elevado do Joá"
+  - "Repair"
 ---
 
 ## Referências

@@ -58,6 +58,14 @@ palavras-chave:
   - "Cultura construtiva"
   - "Arquitetura vernacular"
   - "Colonização do Amazonas"
+keywords:
+  - "Constructive culture"
+  - "Vernacular architecture"
+  - "Amazon Colonization"
+palabras-clave:
+  - "Cultura constructiva"
+  - "Arquitectura vernácula"
+  - "Colonización del Amazonas"
 ---
 
 ## Referências

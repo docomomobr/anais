@@ -63,6 +63,13 @@ palavras-chave:
   - "Preservação da arquitetura Moderna"
   - "Patrimônio Urbano e"
   - "Arquitetônico"
+keywords:
+  - "Constructor Palace João Alves Filho"
+  - "Fausto Cardoso Square"
+  - "Restoration of Modern"
+  - "Movement Architecture"
+  - "Preservation of Modern Architecture"
+  - "Urban and Architectural Heritage"
 ---
 
 ## Referências

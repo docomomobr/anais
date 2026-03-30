@@ -63,6 +63,14 @@ palavras-chave:
   - "Arquitetura moderna brasileira"
   - "Banco do Brasil"
   - "Banco do Estado da Paraíba"
+keywords:
+  - "Brazilian modern architecture"
+  - "Banco do Brasil"
+  - "Banco do Estado da Paraíba"
+palabras-clave:
+  - "Arquitectura moderna brasileña"
+  - "Banco do Brasil"
+  - "Banco do Estado de Paraíba"
 ---
 
 ## Referências

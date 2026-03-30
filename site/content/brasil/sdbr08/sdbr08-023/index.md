@@ -58,6 +58,10 @@ palavras-chave:
   - "conservação"
   - "espaço"
   - "restauração"
+keywords:
+  - "conservation"
+  - "space"
+  - "restoration"
 ---
 
 ## Referências

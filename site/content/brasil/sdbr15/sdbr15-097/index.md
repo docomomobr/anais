@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura"
   - "Contemporânea"
   - "Amazônia"
+keywords:
+  - "Architecture"
+  - "Contemporary"
+  - "Amazon"
+palabras-clave:
+  - "Arquitectura"
+  - "Contemporánea"
+  - "Amazonia"
 ---
 
 ## Referências

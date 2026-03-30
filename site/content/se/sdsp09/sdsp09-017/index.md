@@ -52,6 +52,14 @@ palavras-chave:
   - "Arquitetura"
   - "Roberto Capello"
   - "SULACAP"
+keywords:
+  - "Architecture"
+  - "Roberto Capello"
+  - "SULACAP"
+palabras-clave:
+  - "Arquitectura"
+  - "Roberto Capello"
+  - "SULACAP"
 ---
 
 ## Referências

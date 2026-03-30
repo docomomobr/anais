@@ -50,6 +50,10 @@ palavras-chave:
   - "Arquitetura Moderna em Maringá"
   - "Jaime Lerner em Maringá"
   - "Edifícios públicos em Maringá"
+keywords:
+  - "Modern Architecture in Maringa"
+  - "Jaime Lerner in Maringa"
+  - "public buildings in Maringa"
 ---
 
 ## Referências

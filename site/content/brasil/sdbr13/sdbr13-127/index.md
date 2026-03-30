@@ -52,6 +52,10 @@ palavras-chave:
   - "Educação Patrimonial"
   - "Maquete de Papel"
   - "Arquitetura Moderna"
+keywords:
+  - "Patrimonial Education"
+  - "Paper Model"
+  - "Modern Architecture"
 ---
 
 ## Referências

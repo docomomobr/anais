@@ -52,6 +52,10 @@ palavras-chave:
   - "modernidade"
   - "Luanda"
   - "Maputo"
+keywords:
+  - "modernity"
+  - "Luanda"
+  - "Maputo"
 ---
 
 ## Referências

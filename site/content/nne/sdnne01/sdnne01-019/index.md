@@ -44,6 +44,10 @@ palavras-chave:
   - "Arquitetura Moderna"
   - "Sérgio Bernardes"
   - "João Pessoa"
+keywords:
+  - "Modern Architecture"
+  - "Sérgio Bernardes"
+  - "João Pessoa"
 ---
 
 ## Referências

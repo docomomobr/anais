@@ -68,6 +68,16 @@ palavras-chave:
   - "tombamento"
   - "significação cultural"
   - "modernismo"
+keywords:
+  - "preservation"
+  - "heritage listing"
+  - "cultural meaning"
+  - "modernism"
+palabras-clave:
+  - "preservación"
+  - "protección del patrimonio"
+  - "significados culturales"
+  - "modernismo"
 ---
 
 ## Referências

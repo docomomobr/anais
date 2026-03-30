@@ -54,6 +54,10 @@ palavras-chave:
   - "paisagem"
   - "preservação"
   - "arquitetura modernista"
+keywords:
+  - "Landscape"
+  - "preservation"
+  - "modernist architecture"
 ---
 
 ## Referências

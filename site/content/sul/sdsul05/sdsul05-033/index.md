@@ -44,6 +44,10 @@ palavras-chave:
   - "tijolo"
   - "Solano Benítez"
   - "Paraguai"
+keywords:
+  - "brick"
+  - "Solano Benítez"
+  - "Paraguay"
 ---
 
 ## Referências

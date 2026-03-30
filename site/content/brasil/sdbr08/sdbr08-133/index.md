@@ -54,6 +54,10 @@ palavras-chave:
   - "escultura Key words: Synthesis of the arts"
   - "modern architecture"
   - "sculpture"
+keywords:
+  - "Synthesis of the arts"
+  - "modern architecture"
+  - "sculpture"
 ---
 
 ## Referências

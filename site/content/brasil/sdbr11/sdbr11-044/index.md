@@ -49,6 +49,11 @@ palavras-chave:
   - "Maceió"
   - "Praças"
   - "Sandoval Cajú"
+keywords:
+  - "Modern Movement"
+  - "Maceió"
+  - "Squares"
+  - "Sandoval Cajú"
 ---
 
 ## Referências

@@ -50,6 +50,10 @@ palavras-chave:
   - "Teresina"
   - "patrimônio"
   - "documentação arquitetônica"
+keywords:
+  - "Teresina"
+  - "heritage"
+  - "architectural documentation"
 ---
 
 ## Referências

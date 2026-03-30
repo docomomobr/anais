@@ -48,6 +48,10 @@ palavras-chave:
   - "documentação"
   - "critica"
   - "brutalismo"
+keywords:
+  - "documentation"
+  - "critic"
+  - "brutalism"
 ---
 
 ## Referências

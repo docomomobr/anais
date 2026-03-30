@@ -39,6 +39,10 @@ ficha_catalografica: "8º Seminário Docomomo Brasil: anais: cidade moderna e co
 autores:
   - "Persia, María Inés"
   - "Monfort, María Cristina"
+palabras-clave:
+  - "paisaje"
+  - "fachada"
+  - "preservación"
 ---
 
 ## Referências

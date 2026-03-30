@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "Arquitetura moderna paulista"
   - "Telésforo Cristófani"
+keywords:
+  - "Paulista modern architecture"
+  - "Telésforo Cristófani"
 ---
 
 ## Referências

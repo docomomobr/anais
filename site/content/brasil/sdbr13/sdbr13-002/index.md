@@ -51,6 +51,10 @@ palavras-chave:
   - "Narrativa"
   - "Diagrama"
   - "Arquitetura"
+keywords:
+  - "Narrative"
+  - "Diagram"
+  - "Architecture"
 ---
 
 ## Referências

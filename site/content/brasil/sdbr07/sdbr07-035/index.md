@@ -46,6 +46,10 @@ palavras-chave:
   - "Interbau"
   - "Exposição"
   - "Movimento Moderno"
+keywords:
+  - "Interbau"
+  - "exhibition"
+  - "Modern Movement"
 ---
 
 ## Referências

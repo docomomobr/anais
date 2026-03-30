@@ -51,6 +51,11 @@ palavras-chave:
   - "intervenções em preexistências"
   - "reciclagem"
   - "reuso"
+keywords:
+  - "Museu de Arte do Rio"
+  - "pre-existing interventions"
+  - "recycling"
+  - "reuse"
 ---
 
 ## Referências

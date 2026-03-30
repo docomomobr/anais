@@ -46,6 +46,10 @@ palavras-chave:
   - "arte e arquitetura"
   - "arquitetura moderna paranaense"
   - "arquitetura moderna brasileira"
+keywords:
+  - "Art and Architecture"
+  - "Modern Arquitecture in Paraná"
+  - "Modern Architecture in Brazil"
 ---
 
 ## Referências

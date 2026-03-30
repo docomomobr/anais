@@ -59,6 +59,16 @@ palavras-chave:
   - "Porto Nacional-TO"
   - "Movimento Moderno"
   - "Habitação"
+keywords:
+  - "Zenon Lotufo"
+  - "Porto Nacional-TO"
+  - "Modern Movement"
+  - "Housing"
+palabras-clave:
+  - "Zenon Lotufo"
+  - "Porto Nacional-TO"
+  - "Movimiento moderno"
+  - "Alojamiento"
 ---
 
 ## Referências

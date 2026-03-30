@@ -67,6 +67,16 @@ palavras-chave:
   - "armando de carvalho"
   - "universidade federal da paraíba"
   - "arquitetura e urbanismo"
+keywords:
+  - "modern architecture"
+  - "armando de carvalho"
+  - "federal university of paraíba"
+  - "architecture and urbanism"
+palabras-clave:
+  - "arquitectura moderna"
+  - "armando de carvalho"
+  - "universidad federal de paraíba"
+  - "arquitectura y urbanismo"
 ---
 
 ## Referências

@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Fortaleza"
   - "edifícios institucionais"
+keywords:
+  - "Modern architecture"
+  - "Fortaleza"
+  - "institutional buildings"
 ---
 
 ## Referências

@@ -56,6 +56,11 @@ palavras-chave:
   - "arquitetura colonial"
   - "patrimônio colonial"
   - "São João del-rei"
+keywords:
+  - "Modern architecture"
+  - "colonial architecture"
+  - "colonial heritage"
+  - "São João del-rei"
 ---
 
 ## Referências

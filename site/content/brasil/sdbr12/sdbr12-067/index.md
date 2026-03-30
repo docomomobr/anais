@@ -50,6 +50,10 @@ palavras-chave:
   - "patrimônio"
   - "arquitetura modernista"
   - "inventários"
+keywords:
+  - "heritage"
+  - "modernist architecture"
+  - "inventories"
 ---
 
 ## Referências

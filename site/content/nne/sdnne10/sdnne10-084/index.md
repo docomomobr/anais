@@ -59,6 +59,14 @@ palavras-chave:
   - "Vila Amazonas"
   - "Oswaldo Arthur Bratke na Amazônia"
   - "Arquitetura Moderna no Amapá"
+keywords:
+  - "Vila Amazonas"
+  - "Oswaldo Arthur Bratke in the Amazon"
+  - "Modern Architecture in Amapá"
+palabras-clave:
+  - "Vila Amazonas"
+  - "Oswaldo Arthur Bratke en el Amazonas"
+  - "Arquitectura Moderna en Amapá"
 ---
 
 ## Referências

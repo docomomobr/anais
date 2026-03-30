@@ -42,6 +42,9 @@ autores:
 palavras-chave:
   - "Conservação"
   - "Arquitetura Moderna"
+keywords:
+  - "Conservation"
+  - "Modern Architecture"
 ---
 
 ## Referências

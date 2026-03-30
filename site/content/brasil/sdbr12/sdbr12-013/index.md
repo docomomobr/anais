@@ -52,6 +52,10 @@ palavras-chave:
   - "Urbanismo modernista"
   - "Lúcio Costa"
   - "Novo Polo Urbano de São Luís"
+keywords:
+  - "Modernist urbanism"
+  - "Lúcio Costa"
+  - "Novo Polo Urbano de São Luís"
 ---
 
 ## Referências

@@ -54,6 +54,10 @@ palavras-chave:
   - "Memorial Padre Cícero"
   - "conservação"
   - "movimento moderno"
+keywords:
+  - "Padre Cícero Memorial"
+  - "conservation"
+  - "modern movement"
 ---
 
 ## Referências

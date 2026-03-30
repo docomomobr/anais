@@ -55,6 +55,11 @@ palavras-chave:
   - "Belém"
   - "Clubes recreativos e esportivos"
   - "Preservação"
+keywords:
+  - "Modern architecture"
+  - "Belém"
+  - "Recreational and sportive clubs"
+  - "Preservation"
 ---
 
 ## Referências

@@ -54,6 +54,12 @@ palavras-chave:
   - "pós-guerra"
   - "construtivismo"
   - "Brasília"
+keywords:
+  - "mismatch"
+  - "modern city"
+  - "post-war"
+  - "constructivism"
+  - "Brasília"
 ---
 
 ## Referências

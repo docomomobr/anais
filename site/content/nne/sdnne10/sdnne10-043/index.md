@@ -63,6 +63,14 @@ palavras-chave:
   - "Arquitetura moderna"
   - "patrimônio cultural"
   - "Igreja"
+keywords:
+  - "Modern architecture"
+  - "cultural heritage"
+  - "Church"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "patrimonio cultural"
+  - "Iglesia"
 ---
 
 ## Referências

@@ -47,6 +47,10 @@ palavras-chave:
   - "patrimônio moderno"
   - "autenticidade"
   - "memória"
+keywords:
+  - "modern heritage"
+  - "authenticity"
+  - "memory"
 ---
 
 ## Referências

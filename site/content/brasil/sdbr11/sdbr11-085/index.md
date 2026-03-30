@@ -49,6 +49,10 @@ palavras-chave:
   - "Residências modernas"
   - "Residências paulistanas"
   - "Moradia da classe média"
+keywords:
+  - "Modern houses"
+  - "Houses of São Paulo City"
+  - "Middle-class house"
 ---
 
 ## Referências

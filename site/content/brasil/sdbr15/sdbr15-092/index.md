@@ -62,6 +62,14 @@ palavras-chave:
   - "Arquitetura Hospitalar"
   - "Reforma"
   - "Patrimônio Arquitetônico"
+keywords:
+  - "Hospital Architecture"
+  - "Renovation"
+  - "Architectural Heritage"
+palabras-clave:
+  - "Arquitectura hospitalaria"
+  - "Renovación"
+  - "Patrimonio arquitectónico"
 ---
 
 ## Referências

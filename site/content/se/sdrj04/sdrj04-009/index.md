@@ -47,6 +47,10 @@ palavras-chave:
   - "Arquitetura moderna"
   - "gestão de riscos"
   - "mudanças climáticas"
+keywords:
+  - "modern architecture"
+  - "risk management"
+  - "climate change"
 ---
 
 ## Referências

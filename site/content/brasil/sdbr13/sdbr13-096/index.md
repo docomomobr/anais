@@ -52,6 +52,11 @@ palavras-chave:
   - "quarteirão urbano"
   - "habitar moderno"
   - "cidade e natureza"
+keywords:
+  - "Open spaces and buildings"
+  - "urban block"
+  - "inhabit modern"
+  - "city and nature"
 ---
 
 ## Referências

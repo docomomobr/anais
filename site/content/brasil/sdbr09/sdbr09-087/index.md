@@ -44,6 +44,10 @@ palavras-chave:
   - "Documentation"
   - "Guggenheim Museum"
   - "High and Over"
+keywords:
+  - "Documentation"
+  - "Guggenheim Museum"
+  - "High and Over"
 ---
 
 ## Referências

@@ -44,6 +44,10 @@ palavras-chave:
   - "IPHAN"
   - "Ecletismo"
   - "Arquitetura Moderna"
+keywords:
+  - "IPHAN"
+  - "Eclecticism"
+  - "Modern Architecture"
 ---
 
 ## Referências

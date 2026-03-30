@@ -64,6 +64,12 @@ palavras-chave:
   - "edifício colonial"
   - "centro histórico"
   - "preservação"
+keywords:
+  - "modernism"
+  - "style"
+  - "edifício colonial"
+  - "historic center"
+  - "preservation"
 ---
 
 ## Referências

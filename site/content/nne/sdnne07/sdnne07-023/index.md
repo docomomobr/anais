@@ -70,6 +70,16 @@ palavras-chave:
   - "Camilo Porto"
   - "Arquitetura Moderna"
   - "Documentação"
+keywords:
+  - "Belém"
+  - "Camilo Porto"
+  - "Modern Architecture"
+  - "Documentation"
+palabras-clave:
+  - "Belém"
+  - "Camilo Porto"
+  - "Arquitectura Moderna"
+  - "Documentación"
 ---
 
 ## Referências

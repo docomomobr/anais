@@ -61,6 +61,16 @@ palavras-chave:
   - "arquitetura moderna"
   - "residências"
   - "Fortaleza"
+keywords:
+  - "Arialdo Pinho"
+  - "modern architecture"
+  - "residences"
+  - "Fortaleza-Ce"
+palabras-clave:
+  - "Arialdo Pinho"
+  - "arquitectura moderna"
+  - "residencias"
+  - "Fortaleza-Ce"
 ---
 
 ## Referências

@@ -53,6 +53,10 @@ palavras-chave:
   - "Arquitetura proto-modernista"
   - "Arquiteto Georges Munier"
   - "História Urbana"
+keywords:
+  - "Proto-modernist architecture"
+  - "Architect Georges Munier"
+  - "Urban History"
 ---
 
 ## Referências

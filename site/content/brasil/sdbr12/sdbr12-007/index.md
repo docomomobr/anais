@@ -48,6 +48,10 @@ palavras-chave:
   - "composição"
   - "configuração espacial"
   - "geometria"
+keywords:
+  - "composition"
+  - "space configuration"
+  - "geometry"
 ---
 
 ## Referências

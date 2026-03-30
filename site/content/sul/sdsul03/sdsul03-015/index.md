@@ -58,6 +58,10 @@ palavras-chave:
   - "construções em madeira"
   - "arquitetura moderna"
   - "sítios históricos"
+keywords:
+  - "timber construction"
+  - "modern architecture"
+  - "historic sites"
 ---
 
 ## Referências

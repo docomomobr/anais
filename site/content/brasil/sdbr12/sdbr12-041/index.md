@@ -48,6 +48,10 @@ palavras-chave:
   - "Arquitetura Modernista"
   - "Valores"
   - "São Luís"
+keywords:
+  - "Modernist Architecture"
+  - "values"
+  - "São Luis"
 ---
 
 ## Referências

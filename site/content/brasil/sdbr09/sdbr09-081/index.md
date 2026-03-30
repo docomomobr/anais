@@ -54,6 +54,12 @@ palavras-chave:
   - "Crescimento"
   - "Transformação"
   - "Preservação"
+keywords:
+  - "Modern Architecture"
+  - "'Sistema Básico'"
+  - "Growth"
+  - "Change"
+  - "Preservation"
 ---
 
 ## Referências

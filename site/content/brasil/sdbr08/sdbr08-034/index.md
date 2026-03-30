@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura escolar"
   - "Edifício do Ministério da Educação e Saúde"
   - "Modernidade"
+keywords:
+  - "School Architecture"
+  - "Education and Health Ministry building"
+  - "Modernity"
 ---
 
 ## Referências

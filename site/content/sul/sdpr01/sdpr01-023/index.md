@@ -47,6 +47,11 @@ palavras-chave:
   - "paisagem urbana"
   - "modernismo"
   - "preservação cultural"
+keywords:
+  - "architecture"
+  - "urban landscape"
+  - "modernism"
+  - "cultural preservation"
 ---
 
 ## Referências

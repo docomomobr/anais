@@ -60,6 +60,14 @@ palavras-chave:
   - "Enéas Botelho"
   - "Arquitetura moderna"
   - "Fortaleza"
+keywords:
+  - "Enéas Botelho"
+  - "Modern architecture"
+  - "Fortaleza-Ceará (Brazil)"
+palabras-clave:
+  - "Enéas Botelho"
+  - "Arquitectura moderna"
+  - "Fortaleza-Ceará (Brasil)"
 ---
 
 ## Referências

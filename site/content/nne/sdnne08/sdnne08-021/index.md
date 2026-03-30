@@ -66,6 +66,14 @@ palavras-chave:
   - "Modernismo em Maceió"
   - "Memória urbana"
   - "Transformação da paisagem"
+keywords:
+  - "Modernism in Maceió"
+  - "Urban memory"
+  - "Landscape transformation"
+palabras-clave:
+  - "Modernismo en Maceió"
+  - "Memoria urbana"
+  - "Transformación del paisaje"
 ---
 
 ## Referências

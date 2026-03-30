@@ -63,6 +63,14 @@ palavras-chave:
   - "arquitetura moderna santista"
   - "patrimônio cultural"
   - "preservação"
+keywords:
+  - "Modern Architecture in Santos"
+  - "Cultural Heritage"
+  - "Preservation"
+palabras-clave:
+  - "Arquitectura Moderna en Santos"
+  - "Patrimonio Cultural"
+  - "Preservación"
 ---
 
 ## Referências

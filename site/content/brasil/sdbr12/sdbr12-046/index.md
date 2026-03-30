@@ -49,6 +49,9 @@ autores:
 palavras-chave:
   - "arquitetura moderna"
   - "mercado imobiliário, Fortaleza"
+keywords:
+  - "modern architecture, real estate market"
+  - "Fortaleza-Ceará (Brazil)"
 ---
 
 ## Referências

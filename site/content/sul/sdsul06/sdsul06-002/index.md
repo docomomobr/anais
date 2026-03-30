@@ -49,6 +49,11 @@ palavras-chave:
   - "Campo Grande"
   - "Arquitetura Moderna"
   - "Arquitetura de Interiores"
+keywords:
+  - "Vilanova Artigas"
+  - "Campo Grande"
+  - "Modern architecture"
+  - "Interior Architecture"
 ---
 
 ## Referências

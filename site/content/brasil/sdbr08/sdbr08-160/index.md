@@ -54,6 +54,10 @@ palavras-chave:
   - "mudança de uso"
   - "conservação de edificação de passado recente"
   - "pós-ocupação"
+keywords:
+  - "change of use"
+  - "recent past building conservation"
+  - "post-occupation"
 ---
 
 ## Referências

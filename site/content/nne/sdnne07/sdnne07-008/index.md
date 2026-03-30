@@ -78,6 +78,16 @@ palavras-chave:
   - "Camilo Porto de Oliveira"
   - "Alcyr Meira"
   - "Belém"
+keywords:
+  - "Modern architecture"
+  - "Camilo Porto de Oliveira"
+  - "Alcyr Meira"
+  - "Belém"
+palabras-clave:
+  - "Arquitectura moderna"
+  - "Camilo Porto de Oliveira"
+  - "Alcyr Meira"
+  - "Belém"
 ---
 
 ## Referências

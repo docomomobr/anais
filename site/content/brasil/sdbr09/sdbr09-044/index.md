@@ -50,6 +50,10 @@ palavras-chave:
   - "documentação"
   - "arquitetura moderna"
   - "arquitetura piauiense"
+keywords:
+  - "documentation"
+  - "modern architecture"
+  - "architecture Piauí"
 ---
 
 ## Referências

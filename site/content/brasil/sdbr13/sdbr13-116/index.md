@@ -63,6 +63,12 @@ palavras-chave:
   - "exposições de arte"
   - "arte guerrilha"
   - "Belo Horizonte"
+keywords:
+  - "Modern Architecture"
+  - "contemporary art"
+  - "art exhibitions"
+  - "guerrilla art"
+  - "Belo Horizonte"
 ---
 
 ## Referências

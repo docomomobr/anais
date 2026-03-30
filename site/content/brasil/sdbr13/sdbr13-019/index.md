@@ -55,6 +55,11 @@ palavras-chave:
   - "forma-estrutura"
   - "atectônica"
   - "experiência empática"
+keywords:
+  - "Brasília Cathedral"
+  - "structure-form"
+  - "atectonic"
+  - "empathetic experience"
 ---
 
 ## Referências

@@ -63,6 +63,10 @@ palavras-chave:
   - "Le Corbusier em São Paulo"
   - "Biblioteca Paulo Prado"
   - "Gregori Warchavchik"
+keywords:
+  - "Le Corbusier in São Paulo"
+  - "Paulo Prado personal library"
+  - "Gregori Warchavchik"
 ---
 
 ## Referências

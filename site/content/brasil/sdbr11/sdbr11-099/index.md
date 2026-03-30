@@ -54,6 +54,12 @@ palavras-chave:
   - "Música"
   - "Patrimônio"
   - "Brasília"
+keywords:
+  - "Modernism"
+  - "Urbanism"
+  - "Music"
+  - "Heritage"
+  - "Brasília"
 ---
 
 ## Referências

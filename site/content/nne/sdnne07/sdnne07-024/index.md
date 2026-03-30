@@ -66,6 +66,18 @@ palavras-chave:
   - "Nícia Paes Bormann"
   - "Gênero"
   - "Feminismo"
+keywords:
+  - "Modern Architecture"
+  - "Trajectory"
+  - "Nícia Paes Bormann"
+  - "Gender"
+  - "Feminism"
+palabras-clave:
+  - "Modern Architecture"
+  - "Trajectory"
+  - "Nance Paes Bormann"
+  - "Genre"
+  - "Feminism"
 ---
 
 ## Referências

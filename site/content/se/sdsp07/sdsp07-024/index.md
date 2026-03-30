@@ -54,6 +54,14 @@ palavras-chave:
   - "Art Déco"
   - "Obra Getuliana"
   - "Revista do Serviço Público"
+keywords:
+  - "Art Déco"
+  - "Obra Getuliana"
+  - "Journal of Public Service"
+palabras-clave:
+  - "Art Déco"
+  - "Obra Getuliana"
+  - "Revista do Serviço Público"
 ---
 
 ## Referências

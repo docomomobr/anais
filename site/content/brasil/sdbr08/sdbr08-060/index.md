@@ -51,6 +51,10 @@ palavras-chave:
   - "Concursos de Arquitetura"
   - "Arquitetura Moderna em Curitiba"
   - "Planejamento Urbano em Curitiba"
+keywords:
+  - "Architecture Contests"
+  - "Modern Architecture in Curitiba"
+  - "Urban Planning in Curitiba"
 ---
 
 ## Referências

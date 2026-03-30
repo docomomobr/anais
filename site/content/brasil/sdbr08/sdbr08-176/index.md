@@ -51,6 +51,10 @@ palavras-chave:
   - "COBAL"
   - "arquitetura brutalista"
   - "tombamento"
+keywords:
+  - "COBAL"
+  - "brutalist architecture"
+  - "preservation"
 ---
 
 ## Referências

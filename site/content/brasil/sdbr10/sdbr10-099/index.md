@@ -45,6 +45,10 @@ palavras-chave:
   - "Escola"
   - "Paulista"
   - "Brutalista"
+keywords:
+  - "São Paulo"
+  - "Brutalist"
+  - "Architecture"
 ---
 
 ## Referências

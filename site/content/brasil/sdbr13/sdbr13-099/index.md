@@ -56,6 +56,11 @@ palavras-chave:
   - "Arquitetura moderna"
   - "Tipologia"
   - "Cidade Tradicional"
+keywords:
+  - "Apartment      building"
+  - "Modern       architecture"
+  - "Typology"
+  - "Traditional   City"
 ---
 
 ## Referências

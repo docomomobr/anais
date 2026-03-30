@@ -60,6 +60,14 @@ palavras-chave:
   - "Arquitetura moderna no Recife"
   - "Regionalismo arquitetônico"
   - "Preservação do Patrimônio Arquitetônico de Pernambuco"
+keywords:
+  - "Modern architecture in Recife"
+  - "Architectural regionalism"
+  - "Preservation of Architectural Heritage in Pernambuco"
+palabras-clave:
+  - "Arquitectura moderna en Recife"
+  - "Regionalismo arquitectónico"
+  - "Preservación del Patrimonio Arquitectónico de Pernambuco"
 ---
 
 ## Referências

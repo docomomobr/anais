@@ -52,6 +52,10 @@ palavras-chave:
   - "Modernidade"
   - "Arquitetura moderna"
   - "Desenvolvimentismo"
+keywords:
+  - "Modernity"
+  - "Modern Architecture"
+  - "Developmentalism"
 ---
 
 ## Referências

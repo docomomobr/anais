@@ -68,6 +68,18 @@ palavras-chave:
   - "Giacomo Palumbo"
   - "modernização"
   - "Recife"
+keywords:
+  - "modern architecture"
+  - "art deco"
+  - "Giacomo Palumbo"
+  - "modernization"
+  - "Recife"
+palabras-clave:
+  - "arquitectura moderna"
+  - "art déco"
+  - "Giacomo Palumbo"
+  - "modernización"
+  - "Recife"
 ---
 
 ## Referências

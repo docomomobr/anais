@@ -54,6 +54,11 @@ palavras-chave:
   - "patrimônio cultural"
   - "políticas de preservação"
   - "poder"
+keywords:
+  - "Brasilia"
+  - "cultural heritage"
+  - "preservation policies"
+  - "power"
 ---
 
 ## Referências

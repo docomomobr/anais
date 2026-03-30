@@ -55,6 +55,12 @@ palavras-chave:
   - "arquitetura moderna"
   - "Alcyr Meira"
   - "brutalismo"
+keywords:
+  - "UFRN´s campus"
+  - "modern architecture"
+  - "Alcyr Meira"
+  - "brutalism"
+  - "Keywords: UFRN´s campus"
 ---
 
 ## Referências

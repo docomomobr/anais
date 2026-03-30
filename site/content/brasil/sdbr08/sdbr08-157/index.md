@@ -51,6 +51,10 @@ palavras-chave:
   - "Arquitetura moderna no RS"
   - "Arquitetura moderna no Uruguai"
   - "Román Fresnedo Siri"
+keywords:
+  - "Modern Architecture in Rio Grande do Sul"
+  - "Modern Architecture in Uruguay"
+  - "Román Fresnedo Siri"
 ---
 
 ## Referências

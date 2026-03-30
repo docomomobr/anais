@@ -54,6 +54,9 @@ autores:
 palavras-chave:
   - "Memória"
   - "Casa Nordschild"
+keywords:
+  - "Memory"
+  - "Nordschild House"
 ---
 
 ## Referências

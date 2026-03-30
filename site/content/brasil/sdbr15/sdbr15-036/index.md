@@ -59,6 +59,14 @@ palavras-chave:
   - "Patrimônio moderno"
   - "Roteiro da Fé"
   - "Juazeiro do Norte"
+keywords:
+  - "Modern heritage"
+  - "Roteiro da Fé"
+  - "Juazeiro do Norte"
+palabras-clave:
+  - "Patrimonio moderno"
+  - "Roteiro da Fé"
+  - "Juazeiro do Norte"
 ---
 
 ## Referências

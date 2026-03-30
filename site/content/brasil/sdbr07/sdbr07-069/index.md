@@ -47,6 +47,10 @@ palavras-chave:
   - "análise de desempenho"
   - "cobertura concreto armado"
   - "restauro"
+keywords:
+  - "performance analysis"
+  - "reinforced concrete grid roof"
+  - "restoration"
 ---
 
 ## Referências

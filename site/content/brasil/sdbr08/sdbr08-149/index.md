@@ -50,6 +50,10 @@ palavras-chave:
   - "Habitação de Interesse Social"
   - "Reabilitação"
   - "Protomodernismo"
+keywords:
+  - "Housing of Social Interest"
+  - "Rehabilitation"
+  - "“Protomodernismo”"
 ---
 
 ## Referências

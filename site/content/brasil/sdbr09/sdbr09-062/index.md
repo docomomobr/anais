@@ -54,6 +54,10 @@ palavras-chave:
   - "Amazônia"
   - "Patrimônio"
   - "Paisagem ribeirinha"
+keywords:
+  - "Amazon"
+  - "Heritage"
+  - "Riverine landscape"
 ---
 
 ## Referências

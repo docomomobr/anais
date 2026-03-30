@@ -48,6 +48,10 @@ palavras-chave:
   - "Circulação de Ideias"
   - "Arquitetura Moderna"
   - "Norte do Paraná"
+keywords:
+  - "Architecture diffusion"
+  - "Modern architecture"
+  - "Northern Paraná"
 ---
 
 ## Referências

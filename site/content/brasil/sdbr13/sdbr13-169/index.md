@@ -57,6 +57,11 @@ palavras-chave:
   - "arquitetura vernacular"
   - "Escola de Belas Artes de Pernambuco"
   - ", regionalismo"
+keywords:
+  - "migrations"
+  - "gender"
+  - "vernacular architecture"
+  - "Escola de Belas Artes de Pernambuco"
 ---
 
 ## Referências

@@ -46,6 +46,10 @@ palavras-chave:
   - "Vilanova Artigas"
   - "Arquitetura Moderna Brasileira"
   - "Tradição Clássica"
+keywords:
+  - "Vilanova Artigas"
+  - "Modern Brazilian architecture"
+  - "Classical tradition"
 ---
 
 ## Referências
