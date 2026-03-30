@@ -2,7 +2,7 @@
 {{ if eq .Data.Plural "autores" -}}
 <meta name="description" content="Índice de autores dos anais dos seminários Docomomo Brasil. {{ len .Pages }} autores.">
 {{ else -}}
-<meta name="description" content="Índice de palavras-chave dos anais dos seminários Docomomo Brasil. {{ len .Pages }} termos.">
+<meta name="description" content="Índice de {{ .Title | lower }} dos anais dos seminários Docomomo Brasil. {{ len .Pages }} termos.">
 {{ end -}}
 {{ end }}
 
@@ -13,6 +13,15 @@
 </nav>
 
 <h1>{{ .Title }}</h1>
+
+{{ if or (eq .Data.Plural "palavras-chave") (eq .Data.Plural "keywords") (eq .Data.Plural "palabras-clave") }}
+<nav class="keyword-tabs">
+  <a href="{{ "palavras-chave/" | relURL }}" class="{{ if eq .Data.Plural "palavras-chave" }}active{{ end }}">português</a>
+  <a href="{{ "keywords/" | relURL }}" class="{{ if eq .Data.Plural "keywords" }}active{{ end }}">english</a>
+  <a href="{{ "palabras-clave/" | relURL }}" class="{{ if eq .Data.Plural "palabras-clave" }}active{{ end }}">español</a>
+</nav>
+{{ end }}
+
 <p class="meta">{{ len .Pages }} {{ if eq .Data.Plural "autores" }}autores{{ else }}termos{{ end }}</p>
 
 <ul class="taxonomy-list">

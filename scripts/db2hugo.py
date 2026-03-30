@@ -346,6 +346,14 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append('palavras-chave:')
         for kw in keywords:
             lines.append(f'  - "{yaml_escape(kw)}"')
+    if keywords_en:
+        lines.append('keywords:')
+        for kw in keywords_en:
+            lines.append(f'  - "{yaml_escape(kw)}"')
+    if keywords_es:
+        lines.append('palabras-clave:')
+        for kw in keywords_es:
+            lines.append(f'  - "{yaml_escape(kw)}"')
 
     lines.append('---')
 

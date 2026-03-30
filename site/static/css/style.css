@@ -405,6 +405,29 @@ h2 { font-size: 1.35rem; margin: 1.5rem 0 0.5rem; color: var(--gray-700); }
 .abstract h2 { font-size: 1.05rem; text-transform: lowercase; font-weight: 700; letter-spacing: 0.02em; color: var(--green); margin-bottom: 0.4rem; }
 .abstract p { text-align: justify; hyphens: auto; font-size: var(--font-sm); line-height: 1.55; color: var(--gray-700); }
 
+/* Keyword language tabs */
+.keyword-tabs {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0.5rem 0 1rem;
+}
+.keyword-tabs a {
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-transform: lowercase;
+  text-decoration: none;
+  color: var(--gray-400);
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid transparent;
+}
+.keyword-tabs a:hover {
+  color: var(--green);
+}
+.keyword-tabs a.active {
+  color: var(--green);
+  border-bottom: 2px solid var(--green-light);
+}
+
 /* Keywords */
 .keywords-section { margin-bottom: 1.25rem; }
 .keywords-section h2 { font-size: 1.05rem; text-transform: lowercase; font-weight: 700; letter-spacing: 0.02em; color: var(--green); margin-bottom: 0.4rem; }

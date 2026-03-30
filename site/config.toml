@@ -7,6 +7,8 @@ enableGitInfo = true
 [taxonomies]
   autores = "autores"
   "palavras-chave" = "palavras-chave"
+  keywords = "keywords"
+  "palabras-clave" = "palabras-clave"
 
 [sitemap]
   changefreq = "monthly"
