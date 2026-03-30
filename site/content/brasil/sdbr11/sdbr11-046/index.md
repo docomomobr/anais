@@ -1,6 +1,6 @@
 ---
 title: "Modernidade Paulistana"
-subtitle: "a Obra do paisagista Roberto Coelho Cardozo"
+subtitle: "a obra do paisagista Roberto Coelho Cardozo"
 date: 2016-01-01
 slug: sdbr11-046
 type: artigo

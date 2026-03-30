@@ -1,6 +1,6 @@
 ---
 title: "Brutalismo Amazônico"
-subtitle: "a Obra de Severiano Mário Porto"
+subtitle: "a obra de Severiano Mário Porto"
 date: 2013-10-15
 slug: sdbr10-032
 type: artigo

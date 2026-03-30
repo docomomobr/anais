@@ -1,5 +1,5 @@
 ---
-title: "O Recife moderno na Obra fotográfica de Benício Whatley Dias"
+title: "O Recife moderno na obra fotográfica de Benício Whatley Dias"
 date: 2016-01-01
 slug: sdbr11-005
 type: artigo

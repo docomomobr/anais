@@ -1,5 +1,5 @@
 ---
-title: "A Obra de Hugo Marques no Centro Histórico de Campina Grande, PB. 1957-1963"
+title: "A obra de Hugo Marques no Centro Histórico de Campina Grande, PB. 1957-1963"
 date: 2016-01-01
 slug: sdbr11-071
 type: artigo

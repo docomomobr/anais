@@ -1,5 +1,5 @@
 ---
-title: "Desenho concreto, Obra abstrata"
+title: "Desenho concreto, obra abstrata"
 subtitle: "a simplicidade e seus desvios na Arquitetura Moderna Brasileira"
 date: 2009-10-11
 slug: sdbr08-161

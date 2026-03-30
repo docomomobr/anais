@@ -1,5 +1,5 @@
 ---
-title: "Intenções fotográficas na compreensão da Obra Brutalista Piauiense"
+title: "Intenções fotográficas na compreensão da obra Brutalista Piauiense"
 date: 2016-01-01
 slug: sdbr11-067
 type: artigo

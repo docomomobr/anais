@@ -1,6 +1,6 @@
 ---
 title: "Estudos para o projeto de Restauração dos jardins do Palácio dos Leões"
-subtitle: "uma Obra de Roberto Burle Marx – espécies vegetais e objetos de arte"
+subtitle: "uma obra de Roberto Burle Marx – espécies vegetais e objetos de arte"
 date: 2016-01-01
 slug: sdbr11-045
 type: artigo

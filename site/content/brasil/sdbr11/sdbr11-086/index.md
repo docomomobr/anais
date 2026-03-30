@@ -1,6 +1,6 @@
 ---
 title: "Sol, espaço e Verde"
-subtitle: "alguns temas Modernistas na Obra de João Filgueiras Lima, o Lelé"
+subtitle: "alguns temas Modernistas na obra de João Filgueiras Lima, o Lelé"
 date: 2016-01-01
 slug: sdbr11-086
 type: artigo

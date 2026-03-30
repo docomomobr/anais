@@ -1,5 +1,5 @@
 ---
-title: "Influências modernas nas Obras arquitetônicas de duas gerações"
+title: "Influências modernas nas obras arquitetônicas de duas gerações"
 subtitle: "as Residências de Mario e João Graziosi"
 date: 2016-01-01
 slug: sdbr11-085
