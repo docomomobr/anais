@@ -164,4 +164,6 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 
 - Devlog (registro cronológico): [`docs/devlog.md`](docs/devlog.md)
 - Seminários revisados (tabela + status): [`docs/seminarios_revisados.md`](docs/seminarios_revisados.md)
+- Fontes das seções por seminário: [`docs/fontes_secoes.md`](docs/fontes_secoes.md)
+- Dataset Zenodo (procedimento de atualização): [`docs/zenodo_dataset.md`](docs/zenodo_dataset.md)
 - OJS (arquivado): [`docs/archive/ojs_reference.md`](docs/archive/ojs_reference.md)

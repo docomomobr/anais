@@ -579,3 +579,11 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - **Template**: botão "PDF da edição completa" agora aponta para URL (Zenodo) em vez de href="#".
 - **Dataset Zenodo**: v1.1 via GitHub release. Documentado em `docs/zenodo_dataset.md`.
 - **Totais**: 46 seminários, 2.767 artigos, 2.514 autores.
+
+### 2026-03-30 — Seções: numeração e redundâncias
+
+- **Numeração de seções**: 16 seminários corrigidos (IDs do banco usados como seq → numeração sequencial)
+- **Títulos redundantes**: 29 prefixos removidos ("Mesa 1 — descrição" → "descrição")
+- **section_label removido**: 13 seminários onde a fonte original não numera (sdbr03, sdbr07, sdbr08, sdbr09, sdbr11, sdnne03, sdsp03, sdsp05, sdsul02, sdsul04, sdsul06, sdsul07, sdsul08)
+- **Nota de divulgação**: `docs/nota_divulgacao_2026-03-29.md` + release WhatsApp
+- **Mosaico de capas**: `docs/mosaico_docomomo_brasil.png` (2000x1200) para WordPress
