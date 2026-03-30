@@ -5,8 +5,9 @@ date: 2006-08-22
 slug: sdsul01-022
 type: artigo
 weight: 10
-section_title: "Sessão 1 Mesa 2 — Escritórios, Apartamentos e Esquadrias"
-section_seq: 15
+section_title: "Escritórios, Apartamentos e Esquadrias"
+section_seq: 2
+section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"
 event_date: "2006-08-22"

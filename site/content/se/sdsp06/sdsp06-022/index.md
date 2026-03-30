@@ -5,8 +5,9 @@ date: 2018-09-24
 slug: sdsp06-022
 type: artigo
 weight: 10
-section_title: "Mesa 5 — Modos de morar: entre modos de habitar e modos de construir"
-section_seq: 52
+section_title: "Modos de morar: entre modos de habitar e modos de construir"
+section_seq: 5
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

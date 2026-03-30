@@ -5,7 +5,7 @@ slug: sdsul01-047
 type: artigo
 weight: 10
 section_title: "Painel 1 — Quando o Moderno é Patrimônio"
-section_seq: 18
+section_seq: 5
 section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"

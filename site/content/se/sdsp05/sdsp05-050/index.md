@@ -7,7 +7,7 @@ slug: sdsp05-050
 type: artigo
 weight: 10
 section_title: "Reconhecimento"
-section_seq: 45
+section_seq: 1
 section_label: "eixo"
 event_title: "5º Seminário Docomomo São Paulo, São Paulo, 2017"
 event_date: "2017-10-16"

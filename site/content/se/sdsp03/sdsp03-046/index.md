@@ -6,7 +6,7 @@ slug: sdsp03-046
 type: artigo
 weight: 10
 section_title: "Painéis — Centralidade e verticalização"
-section_seq: 35
+section_seq: 1
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

@@ -5,8 +5,9 @@ date: 2006-05-08
 slug: sdnne01-027
 type: artigo
 weight: 10
-section_title: "Mesa 6 — A difusão da arquitetura moderna"
+section_title: "A difusão da arquitetura moderna"
 section_seq: 6
+section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 event_location: "Recife, PE"
 event_date: "2006-05-08"

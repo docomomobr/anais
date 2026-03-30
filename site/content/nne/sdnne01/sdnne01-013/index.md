@@ -5,8 +5,9 @@ date: 2006-05-08
 slug: sdnne01-013
 type: artigo
 weight: 10
-section_title: "Mesa 1 — O papel das individualidades"
+section_title: "O papel das individualidades"
 section_seq: 1
+section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 event_location: "Recife, PE"
 event_date: "2006-05-08"

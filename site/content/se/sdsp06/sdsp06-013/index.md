@@ -4,8 +4,9 @@ date: 2018-09-24
 slug: sdsp06-013
 type: artigo
 weight: 10
-section_title: "Mesa 3 — Modos de morar: habitações coletivas"
-section_seq: 50
+section_title: "Modos de morar: habitações coletivas"
+section_seq: 3
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

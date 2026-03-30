@@ -6,7 +6,7 @@ slug: sdsp03-004
 type: artigo
 weight: 10
 section_title: "Comunicações Orais — Paisagem e ambiente urbano"
-section_seq: 37
+section_seq: 3
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

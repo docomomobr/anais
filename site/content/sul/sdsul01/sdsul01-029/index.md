@@ -4,8 +4,9 @@ date: 2006-08-22
 slug: sdsul01-029
 type: artigo
 weight: 10
-section_title: "Sessão 2 Mesa 1 — Casas, Notas e Balanços"
-section_seq: 16
+section_title: "Casas, Notas e Balanços"
+section_seq: 3
+section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"
 event_date: "2006-08-22"

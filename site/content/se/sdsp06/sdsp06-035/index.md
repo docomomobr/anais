@@ -7,8 +7,9 @@ date: 2018-09-24
 slug: sdsp06-035
 type: artigo
 weight: 10
-section_title: "Mesa 8 — Modos de usar a cidade: espaços culturais"
-section_seq: 55
+section_title: "Modos de usar a cidade: espaços culturais"
+section_seq: 8
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

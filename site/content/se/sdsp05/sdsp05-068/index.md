@@ -8,7 +8,7 @@ slug: sdsp05-068
 type: artigo
 weight: 10
 section_title: "Gestão"
-section_seq: 47
+section_seq: 3
 section_label: "eixo"
 event_title: "5º Seminário Docomomo São Paulo, São Paulo, 2017"
 event_date: "2017-10-16"

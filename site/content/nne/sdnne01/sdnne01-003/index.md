@@ -5,8 +5,9 @@ date: 2006-05-08
 slug: sdnne01-003
 type: artigo
 weight: 10
-section_title: "Mesa 4 — O universo popular na arquitetura moderna"
+section_title: "O universo popular na arquitetura moderna"
 section_seq: 4
+section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 event_location: "Recife, PE"
 event_date: "2006-05-08"

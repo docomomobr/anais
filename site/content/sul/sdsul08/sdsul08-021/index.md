@@ -6,7 +6,7 @@ slug: sdsul08-021
 type: artigo
 weight: 10
 section_title: "Artigos — Viação & Obras Públicas"
-section_seq: 30
+section_seq: 2
 section_label: "eixo"
 event_title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
 event_location: "Porto Alegre, RS"

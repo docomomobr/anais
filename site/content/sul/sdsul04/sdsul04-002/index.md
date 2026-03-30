@@ -6,7 +6,7 @@ slug: sdsul04-002
 type: artigo
 weight: 10
 section_title: "Sessão de comunicação 4"
-section_seq: 23
+section_seq: 2
 event_title: "4º Seminário Docomomo Sul, Porto Alegre, 2013"
 event_location: "Porto Alegre, RS"
 event_date: "2013-03-25"

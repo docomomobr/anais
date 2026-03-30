@@ -7,8 +7,9 @@ date: 2018-09-24
 slug: sdsp06-036
 type: artigo
 weight: 10
-section_title: "Mesa 9 — Modos de trabalhar: entre edifícios e modos de trabalho modernos"
-section_seq: 56
+section_title: "Modos de trabalhar: entre edifícios e modos de trabalho modernos"
+section_seq: 9
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

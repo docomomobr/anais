@@ -6,7 +6,7 @@ slug: sdsp03-036
 type: artigo
 weight: 10
 section_title: "Painéis — Projetos de conservação e restauro"
-section_seq: 40
+section_seq: 6
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

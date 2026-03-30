@@ -5,7 +5,7 @@ slug: sdrj04-017
 type: artigo
 weight: 10
 section_title: "Workshop"
-section_seq: 65
+section_seq: 3
 section_label: "eixo"
 event_title: "4º Seminário Docomomo Rio, Rio de Janeiro, 2017"
 event_date: "2017-10-31"

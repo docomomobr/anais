@@ -6,7 +6,7 @@ slug: sdbr06-046
 type: artigo
 weight: 10
 section_title: "A construção da história"
-section_seq: 3
+section_seq: 4
 section_label: "sessão"
 event_title: "6º Seminário Docomomo Brasil, Niterói, 2005"
 event_location: "Niterói"

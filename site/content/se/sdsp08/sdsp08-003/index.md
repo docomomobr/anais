@@ -5,7 +5,7 @@ slug: sdsp08-003
 type: artigo
 weight: 10
 section_title: "Homenageados"
-section_seq: 60
+section_seq: 1
 section_label: "eixo temático"
 event_title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
 event_date: "2022-08-23"

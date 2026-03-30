@@ -6,7 +6,7 @@ slug: sdsul08-033
 type: artigo
 weight: 10
 section_title: "Artigos — Artesanato & Indústria"
-section_seq: 31
+section_seq: 3
 section_label: "eixo"
 event_title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
 event_location: "Porto Alegre, RS"

@@ -5,7 +5,7 @@ slug: sdsul08-051
 type: artigo
 weight: 10
 section_title: "Artigos — Força & Luz"
-section_seq: 34
+section_seq: 6
 section_label: "eixo"
 event_title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
 event_location: "Porto Alegre, RS"

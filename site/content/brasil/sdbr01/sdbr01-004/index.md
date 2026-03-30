@@ -6,7 +6,7 @@ slug: sdbr01-004
 type: artigo
 weight: 10
 section_title: "Parte 02"
-section_seq: 67
+section_seq: 2
 event_title: "1º Seminário Docomomo Brasil, Salvador, 1995"
 event_location: "Salvador"
 event_date: "1995-01-01"

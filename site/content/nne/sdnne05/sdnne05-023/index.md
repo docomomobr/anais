@@ -7,8 +7,9 @@ date: 2014-11-11
 slug: sdnne05-023
 type: artigo
 weight: 10
-section_title: "Eixo B — Análise crítica de projeto de arquitetura moderna e de intervenções no patrimônio modernista (teoria e prática)"
+section_title: "Análise crítica de projeto de arquitetura moderna e de intervenções no patrimônio modernista (teoria e prática)"
 section_seq: 2
+section_label: "eixo"
 event_title: "5º Seminário Docomomo Norte/Nordeste, Fortaleza, 2014"
 event_location: "Fortaleza, CE"
 event_date: "2014-11-11"

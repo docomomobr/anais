@@ -6,7 +6,7 @@ slug: sdsp03-013
 type: artigo
 weight: 10
 section_title: "Comunicações Orais — Da habitação mínima aos bairros-jardim"
-section_seq: 42
+section_seq: 8
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

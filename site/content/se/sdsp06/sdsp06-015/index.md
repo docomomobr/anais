@@ -5,8 +5,9 @@ date: 2018-09-24
 slug: sdsp06-015
 type: artigo
 weight: 10
-section_title: "Mesa 4 — Modos de morar: habitações unifamiliares"
-section_seq: 51
+section_title: "Modos de morar: habitações unifamiliares"
+section_seq: 4
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

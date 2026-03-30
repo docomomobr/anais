@@ -5,8 +5,9 @@ date: 2006-05-08
 slug: sdnne01-006
 type: artigo
 weight: 10
-section_title: "Mesa 7 — O morar moderno no Norte e Nordeste II"
+section_title: "O morar moderno no Norte e Nordeste II"
 section_seq: 7
+section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 event_location: "Recife, PE"
 event_date: "2006-05-08"

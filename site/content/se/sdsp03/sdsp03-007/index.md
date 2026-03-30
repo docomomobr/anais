@@ -5,7 +5,7 @@ slug: sdsp03-007
 type: artigo
 weight: 10
 section_title: "Painéis — Paisagem e ambiente urbano"
-section_seq: 39
+section_seq: 5
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

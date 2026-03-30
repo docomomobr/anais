@@ -5,8 +5,9 @@ date: 2006-08-22
 slug: sdsul01-003
 type: artigo
 weight: 10
-section_title: "Sessão 1 Mesa 1 — Projetos Urbanos, Pavilhões e Equipamentos"
-section_seq: 14
+section_title: "Projetos Urbanos, Pavilhões e Equipamentos"
+section_seq: 1
+section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"
 event_date: "2006-08-22"

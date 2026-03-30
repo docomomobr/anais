@@ -9,8 +9,9 @@ date: 2020-11-09
 slug: sdsp07-006
 type: artigo
 weight: 10
-section_title: "Eixo 1 — Identificação"
-section_seq: 57
+section_title: "Identificação"
+section_seq: 1
+section_label: "eixo"
 event_title: "7º Seminário Docomomo São Paulo, São Paulo, 2020"
 event_date: "2020-11-09"
 event_isbn: "978-65-00-11912-1"

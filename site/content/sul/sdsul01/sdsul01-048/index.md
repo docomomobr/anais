@@ -5,7 +5,7 @@ slug: sdsul01-048
 type: artigo
 weight: 10
 section_title: "Painel 2 — A Terceira Idade do Vidro"
-section_seq: 19
+section_seq: 6
 section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"

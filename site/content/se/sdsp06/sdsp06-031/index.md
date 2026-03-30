@@ -7,8 +7,9 @@ date: 2018-09-24
 slug: sdsp06-031
 type: artigo
 weight: 10
-section_title: "Mesa 7 — Modos de usar a cidade: espaços da coletividade"
-section_seq: 54
+section_title: "Modos de usar a cidade: espaços da coletividade"
+section_seq: 7
+section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"

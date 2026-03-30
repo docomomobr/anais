@@ -4,8 +4,9 @@ date: 2006-05-08
 slug: sdnne01-030
 type: artigo
 weight: 10
-section_title: "Mesa 5 — A construção das cidades e da paisagem moderna"
+section_title: "A construção das cidades e da paisagem moderna"
 section_seq: 5
+section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 event_location: "Recife, PE"
 event_date: "2006-05-08"

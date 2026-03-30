@@ -6,7 +6,7 @@ slug: sdsp03-037
 type: artigo
 weight: 10
 section_title: "Comunicações Orais — Projetos de conservação e restauro"
-section_seq: 44
+section_seq: 10
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

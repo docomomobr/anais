@@ -5,8 +5,9 @@ date: 2017-10-31
 slug: sdrj04-003
 type: artigo
 weight: 10
-section_title: "Eixo 1 — O risco moderno no Rio"
-section_seq: 63
+section_title: "O risco moderno no Rio"
+section_seq: 1
+section_label: "eixo"
 event_title: "4º Seminário Docomomo Rio, Rio de Janeiro, 2017"
 event_date: "2017-10-31"
 event_isbn: "978-85-88027-42-8"

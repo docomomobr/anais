@@ -5,8 +5,9 @@ date: 2006-08-22
 slug: sdsul01-042
 type: artigo
 weight: 10
-section_title: "Sessão 2 Mesa 2 — Difusão e Perspectivas"
-section_seq: 17
+section_title: "Difusão e Perspectivas"
+section_seq: 4
+section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 event_location: "Porto Alegre, RS"
 event_date: "2006-08-22"

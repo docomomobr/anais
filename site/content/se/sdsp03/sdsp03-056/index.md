@@ -6,7 +6,7 @@ slug: sdsp03-056
 type: artigo
 weight: 10
 section_title: "Painéis — Da habitação mínima aos bairros-jardim"
-section_seq: 38
+section_seq: 4
 section_label: "sessão"
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 event_date: "2005-08-17"

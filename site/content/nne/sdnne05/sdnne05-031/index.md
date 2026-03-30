@@ -7,8 +7,9 @@ date: 2014-11-11
 slug: sdnne05-031
 type: artigo
 weight: 10
-section_title: "Eixo C — A vigência do Modernismo na Contemporaneidade"
+section_title: "A vigência do Modernismo na Contemporaneidade"
 section_seq: 3
+section_label: "eixo"
 event_title: "5º Seminário Docomomo Norte/Nordeste, Fortaleza, 2014"
 event_location: "Fortaleza, CE"
 event_date: "2014-11-11"
