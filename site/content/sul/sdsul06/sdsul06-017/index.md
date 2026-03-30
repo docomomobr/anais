@@ -6,7 +6,6 @@ type: artigo
 weight: 10
 section_title: "Equipamento"
 section_seq: 3
-section_label: "subtema"
 event_title: "6º Seminário Docomomo Sul, Porto Alegre, 2019"
 event_location: "Porto Alegre, RS"
 event_date: "2019-11-07"

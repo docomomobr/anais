@@ -7,7 +7,6 @@ document_type: mesa
 weight: 0
 section_title: "A formação do Arquiteto e o patrimônio recente"
 section_seq: 12
-section_label: "mesa"
 event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
 event_location: "Brasília"
 event_date: "2011-10-10"

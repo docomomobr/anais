@@ -6,7 +6,6 @@ type: artigo
 weight: 10
 section_title: "Artigos — Climatização & Sustentabilidade"
 section_seq: 4
-section_label: "eixo"
 event_title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
 event_location: "Porto Alegre, RS"
 event_date: "2025-03-24"

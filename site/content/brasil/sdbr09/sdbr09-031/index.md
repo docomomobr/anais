@@ -7,7 +7,6 @@ type: artigo
 weight: 10
 section_title: "Valoração da Arquitetura do séc. XX"
 section_seq: 9
-section_label: "mesa"
 event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
 event_location: "Brasília"
 event_date: "2011-10-10"

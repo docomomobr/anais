@@ -7,7 +7,6 @@ type: artigo
 weight: 10
 section_title: "Arquitetura e Estado"
 section_seq: 3
-section_label: "sessão"
 event_title: "11º Seminário Docomomo Brasil, Recife, 2016"
 event_location: "Recife"
 event_date: "2016-01-01"

@@ -7,7 +7,6 @@ type: artigo
 weight: 10
 section_title: "Experiências internacionais"
 section_seq: 6
-section_label: "sessão"
 event_title: "3º Seminário Docomomo Brasil, São Paulo, 1999"
 event_location: "São Paulo"
 event_date: "1999-01-01"

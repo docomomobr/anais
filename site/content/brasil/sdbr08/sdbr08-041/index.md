@@ -9,7 +9,6 @@ type: artigo
 weight: 10
 section_title: "O Movimento Moderno e os novos desafios ecológicos e técnicos"
 section_seq: 3
-section_label: "sessão temática"
 event_title: "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009"
 event_location: "Rio de Janeiro"
 event_date: "2009-10-11"

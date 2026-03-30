@@ -7,7 +7,6 @@ type: artigo
 weight: 10
 section_title: "Paisagem, Transporte e Mercado"
 section_seq: 7
-section_label: "mesa"
 event_title: "7º Seminário Docomomo Brasil, Porto Alegre, 2007"
 event_location: "Porto Alegre"
 event_date: "2007-10-09"

@@ -8,7 +8,6 @@ document_type: mesa
 weight: 0
 section_title: "Patrimônio recente: alguns estudos de caso"
 section_seq: 8
-section_label: "mesa"
 event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
 event_location: "Brasília"
 event_date: "2011-10-10"
