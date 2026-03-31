@@ -13,7 +13,7 @@ editors: "Marta Peixoto"
 description: |
   7° Seminário Docomomo Sul: anais: O moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II [recurso eletrônico] / organização: Marta Peixoto. Porto Alegre, RS: Marcavisual, 2022. Disponível originalmente em: www.ufrgs.br/propar/publicacoes.htm. ISBN: 978-65-89263-60-9.
 cover: "sdsul07.png"
-volume_pdf: "sdsul07_anais.pdf"
+volume_pdf: "https://zenodo.org/records/19354564/files/sdsul07_anais.pdf"
 article_count: 46
 event_state: "RS"
 event_state_name: "Rio Grande do Sul"

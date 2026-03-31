@@ -6,6 +6,53 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
+### 2026-03-31 — sdbr16 pipeline de tratamento (16º Seminário, Porto Alegre 2025)
+
+**Aquisição e organização:**
+- 177 artigos em docx (`fontes/artigos/`), 12 resumo-only (sem docx, apenas no caderno de resumos)
+- Numeração 001–189 com 12 lacunas (19, 38, 42, 54, 72, 82, 85, 105, 117, 172, 173, 179)
+- Caderno de resumos: `fontes/caderno-resumos/Docomomo_Brasil_04.pdf` (362 páginas)
+- Volume completo: `fontes/01_ANAIS_DOCO_R01.pdf`
+- Programação definitiva: `fontes/programaçao_definitiva.pdf` (29 páginas, tabelas)
+- 3 arquivos com soft-hyphen no nome corrigidos (146, 169, 186)
+- Artigo 170 docx corrompido (XML malformado) — metadados extraídos direto do XML
+
+**Extração de metadados:**
+- Títulos e autores: python-docx para 177 docx + caderno para 12 resumo-only
+- Abstracts: docx (173) + caderno de resumos (14 complementados) + 1 fornecido pelo usuário (008)
+- Keywords: docx (166) + caderno (3) + docx espanhol keywords_es (5)
+- Referências: 177/177 artigos (100%), 1516 refs, 0.3% problemas
+  - Fontes: seção REFERÊNCIAS (139), Word endnotes XML (25), NOTAS inline (12), manual (1)
+  - Padrão: REFERÊNCIAS → extrai direto; NOTAS-only → filtra refs bibliográficas
+- 34 textos de mesa (intros dos coordenadores) extraídos do caderno, inseridos como document_type='mesa'
+
+**Sessões (38 sessões):**
+- Mapeamento artigo→sessão via programação definitiva (177/189 pareados automaticamente)
+- 10 artigos atribuídos manualmente, 2 sessões sem artigos pareados (INOVAÇÃO, ITÁLIA)
+- Coordenadores extraídos do volume (linhas 139-225)
+
+**Normalização:**
+- Capitalização: normalizar_maiusculas.py (176 artigos)
+- Referências: clean_references.py (6 splits, 21 backfills, 5 URLs juntadas)
+- Validação: validate_metadata.py (8 auto-fixes, 42 issues para revisão)
+- Títulos: 30 com espaços excessivos limpos, nomes próprios capitalizados
+
+**Cobertura final:**
+| Campo | Valor |
+|-------|-------|
+| Total | 189 artigos + 34 mesas = 223 |
+| Abstracts | 183/189 (97%) — 6 resumo-only genuinamente sem |
+| Keywords (any) | 176/189 (93%) — 10 resumo-only + 3 sem no docx |
+| Referências | 177/177 (100%), 1516 refs |
+| Sessões | 38, mapeamento ~95% via programação definitiva |
+| Autores | 256 vínculos artigo-autor |
+
+**Pendências:**
+- PDFs individuais não gerados ainda (artigos em docx apenas)
+- 2 sessões sem artigos pareados (INOVAÇÃO E DESENVOLVIMENTO, ITÁLIA FRANÇA E BAHIA)
+- Revisão humana do mapeamento sessão-artigo (HTML de revisão pendente)
+- Zenodo upload pendente (depende dos PDFs)
+
 ### 2026-03-28 — sdsp09 revisão completa + metadados ES sdsp07/08/09 + ORCID global
 
 **sdsp09** (27 artigos, 52 autores, 1 seção "Artigos Completos"):

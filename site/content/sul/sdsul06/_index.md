@@ -13,7 +13,7 @@ editors: "Carlos Eduardo Comas, Marta Peixoto"
 description: |
   6° Seminário Docomomo Sul: anais: O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I [recurso eletrônico] / organização: Carlos Eduardo Comas, Marta Peixoto. Porto Alegre, RS: Marcavisual, 2019. Disponível originalmente em: www.ufrgs.br/propar/publicacoes.htm. ISBN: 978-85-61965-77-8.
 cover: "sdsul06.png"
-volume_pdf: "sdsul06_anais.pdf"
+volume_pdf: "https://zenodo.org/records/19354629/files/sdsul06_anais.pdf"
 article_count: 24
 event_state: "RS"
 event_state_name: "Rio Grande do Sul"

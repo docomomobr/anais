@@ -1,0 +1,703 @@
+{
+  "slug": "sdbr16",
+  "date": "2026-03-31",
+  "total_articles": 177,
+  "profile": {
+    "total": 177,
+    "locale_es": 0,
+    "abstract": 167,
+    "abstract_en": 1,
+    "abstract_es": 6,
+    "keywords": 164,
+    "keywords_en": 0,
+    "keywords_es": 7,
+    "references_": 52
+  },
+  "auto_fixed": [
+    {
+      "check": "A26",
+      "article_id": "sdbr16-012",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract parece estar em espanhol (37 marcadores ES vs 2 PT) — mover para abstract_es",
+      "suggestion": "Mover abstract → abstract_es, setar abstract = NULL"
+    },
+    {
+      "check": "A25",
+      "article_id": "sdbr16-013",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract: keywords coladas no final (pos 1958)",
+      "suggestion": "Cortar no marcador de keywords"
+    },
+    {
+      "check": "A26",
+      "article_id": "sdbr16-083",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract parece estar em espanhol (29 marcadores ES vs 5 PT) — mover para abstract_es",
+      "suggestion": "Mover abstract → abstract_es, setar abstract = NULL"
+    },
+    {
+      "check": "A26",
+      "article_id": "sdbr16-106",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract parece estar em espanhol (18 marcadores ES vs 2 PT) — mover para abstract_es",
+      "suggestion": "Mover abstract → abstract_es, setar abstract = NULL"
+    },
+    {
+      "check": "A22",
+      "article_id": "sdbr16-145",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "1 entrada(s) não-referência: [7] \"Arquiteto e urbanista, sócio do SIAA arquitetos, formado pel...\"",
+      "suggestion": "Remover entradas de body text/legendas"
+    },
+    {
+      "check": "A26",
+      "article_id": "sdbr16-171",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract parece estar em espanhol (20 marcadores ES vs 2 PT) — mover para abstract_es",
+      "suggestion": "Mover abstract → abstract_es, setar abstract = NULL"
+    },
+    {
+      "check": "A15",
+      "article_id": "sdbr16-189",
+      "field": "locale",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "Abstract detectado como espanhol (conf=0.58) mas locale=pt-BR",
+      "suggestion": "Corrigir locale para \"es\""
+    },
+    {
+      "check": "A26",
+      "article_id": "sdbr16-189",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": true,
+      "detail": "abstract parece estar em espanhol (33 marcadores ES vs 4 PT) — mover para abstract_es",
+      "suggestion": "Mover abstract → abstract_es, setar abstract = NULL"
+    }
+  ],
+  "issues": [
+    {
+      "check": "A11",
+      "article_id": "sdbr16-012",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (645 chars), possível concatenação: \"Parodi Rebella, Aníbal. Entre el suelo y el cielo. La casa del arquitecto Julio ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-012",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (698 chars), possível concatenação: \"BIOGRAFIA Aníbal Parodi Rebella es Arquitecto (Udelar-Uruguay) y Doctor en Teeor...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-026",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 10,
+      "detail": "Ref muito longa (707 chars), possível concatenação: \"BIOGRAFIA Juliana Sicuro Corrêa é professora adjunta da FAU UFRJ desde 2025 e le...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr16-037",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...o, portanto, tem os seguintes objetivos:\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-039",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 5,
+      "detail": "Ref muito longa (837 chars), possível concatenação: \"BIOGRAFIA Priscila Santos é doutoranda em Urbanismo no PROURB-UFRJ (2025), mestr...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-043",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 8,
+      "detail": "Ref muito longa (769 chars), possível concatenação: \"WAISMAN, M. “La obra de Testa: Propuesta para uma lectura”. SUMMA, Buenos Aires,...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdbr16-050",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 11,
+      "detail": "Possível não-referência: \"Marta Bogéa é Professora Titular do Departamento de Projeto da Faculdade de Arqu...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdbr16-051",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "Possível não-referência: \"Grete Pflueger , arquiteta , Bolsista CNPQ de produtividade ,doutora em Urbanism...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-057",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (704 chars), possível concatenação: \"Allan, John. Revaluing Modern Architecture: Changing Conservation Culture. Londr...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-057",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 1,
+      "detail": "Ref muito longa (711 chars), possível concatenação: \"Caixeta, Eline Maria Mora Pereira, José Artur D’Aló Frota, Rosane Badan, Christi...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-061",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "Ref muito longa (632 chars), possível concatenação: \"BIOGRAFIA Silvia Ferreira Santos Wolff é docente e pesquisadora da Universidade ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdbr16-065",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "Possível não-referência: \"Grete Pflueger , arquiteta , Bolsista CNPQ de produtividade ,doutora em Urbanism...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-071",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "Ref muito longa (589 chars), possível concatenação: \"Jenifer Godoy Daltrozo é arquiteta e urbanista (2015), mestre em Engenharia Civi...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-071",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 17,
+      "detail": "Ref muito longa (597 chars), possível concatenação: \"Betina Tschiedel Martau é arquiteta e urbanista (FAU-UFRGS), Betina Tschiedel Ma...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A12",
+      "article_id": "sdbr16-071",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "Possível não-referência: \"Jenifer Godoy Daltrozo é arquiteta e urbanista (2015), mestre em Engenharia Civi...\"",
+      "suggestion": "Verificar e remover se não for referência bibliográfica"
+    },
+    {
+      "check": "A04",
+      "article_id": "sdbr16-083",
+      "field": "abstract_es",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "keywords_es presente mas abstract_es faltando",
+      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-100",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (706 chars), possível concatenação: \"BIOGRAFIA AUTORES Augusto Ruschel é arquiteto formado pela Universidade Federal ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-101",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 25,
+      "detail": "Ref muito longa (576 chars), possível concatenação: \"Rafael Manhães (Rio de Janeiro, 1996) é arquiteto e pesquisador radicado em Lisb...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-110",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 8,
+      "detail": "Ref muito longa (754 chars), possível concatenação: \"Ana Esteban Maluenda es catedrática y profesora de la Universidad Politécnica de...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-110",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (642 chars), possível concatenação: \"Nicolás Mariné es Doctor Arquitecto, profesor del Departamento de Composición de...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-113",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (578 chars), possível concatenação: \"Fernandes, Gabriel; Barbosa, João Pedro ; Carvalho, Beatriz. Entre gritos de “ca...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-126",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 13,
+      "detail": "Ref muito longa (814 chars), possível concatenação: \"Salvador Gnoato:Arquiteto e Urbanista pela UFPR (1977); Mestre e Doutor pela FAU...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-127",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 8,
+      "detail": "Ref muito longa (703 chars), possível concatenação: \"Daniel J. Mellado Paz possui mestrado em Arquitetura e Urbanismo pelo Programa d...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-132",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 15,
+      "detail": "Ref muito longa (626 chars), possível concatenação: \"Ítalo Tavares de Araújo Farias é arquiteto e urbanista, mestre em Arquitetura e ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-137",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Ref muito longa (694 chars), possível concatenação: \"BIOGRAFIA Luiz Eduardo Sarmento é arquiteto e urbanista, mestre pela FAU-UnB, es...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A19",
+      "article_id": "sdbr16-138",
+      "field": "abstract",
+      "severity": "warning",
+      "auto_fixable": false,
+      "detail": "abstract: possível truncamento (termina com \"...horro com muitos donos morre de fome...”\")",
+      "suggestion": "Re-extrair do fontes/ via fix_validation_issues.py"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-139",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 12,
+      "detail": "Ref muito longa (536 chars), possível concatenação: \"Florencia Amado Silvero Arquitecta, y Magíster en Historia y Crítica de la Arqui...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-145",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 5,
+      "detail": "Ref muito longa (604 chars), possível concatenação: \"Arquiteta e urbanista pela Escola da Cidade (2013), onde atualmente é professora...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-145",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 7,
+      "detail": "Ref muito longa (558 chars), possível concatenação: \"Arquiteto e urbanista, sócio do SIAA arquitetos, formado pela Faculdade de Arqui...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-151",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 20,
+      "detail": "Ref muito longa (501 chars), possível concatenação: \"Lívia Koeche é Arquiteta, Mestre em Poéticas Visuais (PPGAV/UFRGS) e doutoranda ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-162",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 16,
+      "detail": "Ref muito longa (722 chars), possível concatenação: \"Márcia Lopes de Mello, Ph.D., possui formação multidisciplinar em Arquitetura pe...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-163",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 14,
+      "detail": "Ref muito longa (666 chars), possível concatenação: \"Arquiteto, pesquisador e professor. Doutorando pela Faculdade de Arquitetura e U...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-166",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 2,
+      "detail": "Ref muito longa (508 chars), possível concatenação: \"Derntl, Maria Fernanda. “Brasília, capital ou metrópole? O planejamento do Distr...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-166",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 8,
+      "detail": "Ref muito longa (725 chars), possível concatenação: \"BIOGRAFIA Mestranda no Programa de Pós-Graduação da Faculdade de Arquitetura e U...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-167",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 6,
+      "detail": "Ref muito longa (695 chars), possível concatenação: \"BIOGRAFIA. Gustavo Pires de Andrade Neto é arquiteto, professor na UDESC e presi...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-171",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (657 chars), possível concatenação: \"ArchDaily. “Palacio Pereira / Cecilia Puga + Paula Velasco + Alberto Moletto”, A...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-171",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 3,
+      "detail": "Ref muito longa (589 chars), possível concatenação: \"BIOGRAFIA: Fernando Diez (Buenos Aires, 1953) Arquitecto, editor, crítico y prof...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-174",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 18,
+      "detail": "Ref muito longa (621 chars), possível concatenação: \"BIO Jacopo Benedetti is an architect and Assistant Professor at the College of A...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-175",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 0,
+      "detail": "Ref muito longa (868 chars), possível concatenação: \"Andrade, Maria Margarida de. Introdução à Metodologia do Trabalho Científico. 11...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-175",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 4,
+      "detail": "Ref muito longa (535 chars), possível concatenação: \"Nóbrega, Isabel Cristina. \"A ARTE DA CONSERVAÇÃO-RESTAURAÇÃO DOS BENS MÓVEIS E I...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-175",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 9,
+      "detail": "Ref muito longa (640 chars), possível concatenação: \"BIOGRAFIA Michel Martins de Camargo Formado em Design de Produto pelo Instituto ...\"",
+      "suggestion": "Verificar e separar se necessário"
+    },
+    {
+      "check": "A11",
+      "article_id": "sdbr16-187",
+      "field": "references_",
+      "severity": "warning",
+      "auto_fixable": false,
+      "ref_index": 10,
+      "detail": "Ref muito longa (507 chars), possível concatenação: \"Dely Bentes é doutora (2021) e mestre (2006) em Arquitetura pelo Programa de Pós...\"",
+      "suggestion": "Verificar e separar se necessário"
+    }
+  ],
+  "category_b_candidates": [
+    {
+      "article_id": "sdbr16-012",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (645 chars), possível concatenação: \"Parodi Rebella, Aníbal. Entre el suelo y el cielo. La casa del arquitecto Julio ...\""
+    },
+    {
+      "article_id": "sdbr16-026",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (707 chars), possível concatenação: \"BIOGRAFIA Juliana Sicuro Corrêa é professora adjunta da FAU UFRJ desde 2025 e le...\""
+    },
+    {
+      "article_id": "sdbr16-039",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (837 chars), possível concatenação: \"BIOGRAFIA Priscila Santos é doutoranda em Urbanismo no PROURB-UFRJ (2025), mestr...\""
+    },
+    {
+      "article_id": "sdbr16-043",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (769 chars), possível concatenação: \"WAISMAN, M. “La obra de Testa: Propuesta para uma lectura”. SUMMA, Buenos Aires,...\""
+    },
+    {
+      "article_id": "sdbr16-057",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (704 chars), possível concatenação: \"Allan, John. Revaluing Modern Architecture: Changing Conservation Culture. Londr...\""
+    },
+    {
+      "article_id": "sdbr16-061",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (632 chars), possível concatenação: \"BIOGRAFIA Silvia Ferreira Santos Wolff é docente e pesquisadora da Universidade ...\""
+    },
+    {
+      "article_id": "sdbr16-071",
+      "checks_flagged": [
+        "A11",
+        "A11",
+        "A12"
+      ],
+      "reason": "Ref muito longa (589 chars), possível concatenação: \"Jenifer Godoy Daltrozo é arquiteta e urbanista (2015), mestre em Engenharia Civi...\""
+    },
+    {
+      "article_id": "sdbr16-100",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (706 chars), possível concatenação: \"BIOGRAFIA AUTORES Augusto Ruschel é arquiteto formado pela Universidade Federal ...\""
+    },
+    {
+      "article_id": "sdbr16-101",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (576 chars), possível concatenação: \"Rafael Manhães (Rio de Janeiro, 1996) é arquiteto e pesquisador radicado em Lisb...\""
+    },
+    {
+      "article_id": "sdbr16-110",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (754 chars), possível concatenação: \"Ana Esteban Maluenda es catedrática y profesora de la Universidad Politécnica de...\""
+    },
+    {
+      "article_id": "sdbr16-113",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (578 chars), possível concatenação: \"Fernandes, Gabriel; Barbosa, João Pedro ; Carvalho, Beatriz. Entre gritos de “ca...\""
+    },
+    {
+      "article_id": "sdbr16-126",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (814 chars), possível concatenação: \"Salvador Gnoato:Arquiteto e Urbanista pela UFPR (1977); Mestre e Doutor pela FAU...\""
+    },
+    {
+      "article_id": "sdbr16-127",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (703 chars), possível concatenação: \"Daniel J. Mellado Paz possui mestrado em Arquitetura e Urbanismo pelo Programa d...\""
+    },
+    {
+      "article_id": "sdbr16-132",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (626 chars), possível concatenação: \"Ítalo Tavares de Araújo Farias é arquiteto e urbanista, mestre em Arquitetura e ...\""
+    },
+    {
+      "article_id": "sdbr16-137",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (694 chars), possível concatenação: \"BIOGRAFIA Luiz Eduardo Sarmento é arquiteto e urbanista, mestre pela FAU-UnB, es...\""
+    },
+    {
+      "article_id": "sdbr16-139",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (536 chars), possível concatenação: \"Florencia Amado Silvero Arquitecta, y Magíster en Historia y Crítica de la Arqui...\""
+    },
+    {
+      "article_id": "sdbr16-145",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (604 chars), possível concatenação: \"Arquiteta e urbanista pela Escola da Cidade (2013), onde atualmente é professora...\""
+    },
+    {
+      "article_id": "sdbr16-151",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (501 chars), possível concatenação: \"Lívia Koeche é Arquiteta, Mestre em Poéticas Visuais (PPGAV/UFRGS) e doutoranda ...\""
+    },
+    {
+      "article_id": "sdbr16-162",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (722 chars), possível concatenação: \"Márcia Lopes de Mello, Ph.D., possui formação multidisciplinar em Arquitetura pe...\""
+    },
+    {
+      "article_id": "sdbr16-163",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (666 chars), possível concatenação: \"Arquiteto, pesquisador e professor. Doutorando pela Faculdade de Arquitetura e U...\""
+    },
+    {
+      "article_id": "sdbr16-166",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (508 chars), possível concatenação: \"Derntl, Maria Fernanda. “Brasília, capital ou metrópole? O planejamento do Distr...\""
+    },
+    {
+      "article_id": "sdbr16-167",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (695 chars), possível concatenação: \"BIOGRAFIA. Gustavo Pires de Andrade Neto é arquiteto, professor na UDESC e presi...\""
+    },
+    {
+      "article_id": "sdbr16-171",
+      "checks_flagged": [
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (657 chars), possível concatenação: \"ArchDaily. “Palacio Pereira / Cecilia Puga + Paula Velasco + Alberto Moletto”, A...\""
+    },
+    {
+      "article_id": "sdbr16-174",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (621 chars), possível concatenação: \"BIO Jacopo Benedetti is an architect and Assistant Professor at the College of A...\""
+    },
+    {
+      "article_id": "sdbr16-175",
+      "checks_flagged": [
+        "A11",
+        "A11",
+        "A11"
+      ],
+      "reason": "Ref muito longa (868 chars), possível concatenação: \"Andrade, Maria Margarida de. Introdução à Metodologia do Trabalho Científico. 11...\""
+    },
+    {
+      "article_id": "sdbr16-187",
+      "checks_flagged": [
+        "A11"
+      ],
+      "reason": "Ref muito longa (507 chars), possível concatenação: \"Dely Bentes é doutora (2021) e mestre (2006) em Arquitetura pelo Programa de Pós...\""
+    }
+  ]
+}
