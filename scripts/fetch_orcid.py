@@ -756,25 +756,26 @@ def phase_search(resume=False, recheck_days=None, slug=None):
             entry['db_affiliation'] = db_affil
 
             # === Fase A: Tentar OpenAlex primeiro ===
-            time.sleep(OPENALEX_DELAY)
             fullname = f'{gn} {fn}'.strip()
-            oa_orcid, oa_detail = openalex_find_orcid(fullname, gn, fn, db_affil)
-            if oa_orcid and (aid, oa_orcid) not in exclusions:
-                entry['orcid'] = oa_orcid
-                entry['orcid_name'] = oa_detail.get('display_name', '')
-                entry['orgs'] = oa_detail.get('orgs', [])
-                entry['source'] = oa_detail.get('source', 'openalex')
-                entry['works_count'] = oa_detail.get('works_count', 0)
-                results['confirmed'].append(entry)
-                print(f'✓ OA {oa_orcid} ({oa_detail.get("display_name", "")})')
-                mark_checked(aid)
-                checked_count += 1
-                # Salvar periodicamente
-                if (i + 1) % 10 == 0:
-                    conn.commit()
-                    with open(RESULTS_PATH, 'w') as f:
-                        json.dump(results, f, ensure_ascii=False, indent=2)
-                continue
+            if not os.environ.get('SKIP_OPENALEX'):
+                time.sleep(OPENALEX_DELAY)
+                oa_orcid, oa_detail = openalex_find_orcid(fullname, gn, fn, db_affil)
+                if oa_orcid and (aid, oa_orcid) not in exclusions:
+                    entry['orcid'] = oa_orcid
+                    entry['orcid_name'] = oa_detail.get('display_name', '')
+                    entry['orgs'] = oa_detail.get('orgs', [])
+                    entry['source'] = oa_detail.get('source', 'openalex')
+                    entry['works_count'] = oa_detail.get('works_count', 0)
+                    results['confirmed'].append(entry)
+                    print(f'✓ OA {oa_orcid} ({oa_detail.get("display_name", "")})')
+                    mark_checked(aid)
+                    checked_count += 1
+                    # Salvar periodicamente
+                    if (i + 1) % 10 == 0:
+                        conn.commit()
+                        with open(RESULTS_PATH, 'w') as f:
+                            json.dump(results, f, ensure_ascii=False, indent=2)
+                    continue
 
             # === Fase B: Fallback Crossref ===
             time.sleep(CROSSREF_DELAY)

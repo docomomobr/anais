@@ -131,21 +131,40 @@ def longer_name(name1, name2):
     return name1
 
 
-def confidence(gn_short, gn_long):
+def confidence(gn_short, gn_long, familyname=''):
     """Retorna confiança do merge (alta/baixa).
 
-    Baixa: givenname curto tem ≤1 palavra real (ex: "Ana", "Carlos")
-    — risco de falso positivo com sobrenomes comuns.
+    Baixa: givenname curto tem ≤1 palavra real E sobrenome é ultra-comum
+    — risco de falso positivo.
 
-    Exceção: se o nome curto é sufixo do longo (ex: "Salvador" é a
-    última parte de "Luís Salvador"), é alta confiança — pessoa usando
-    o segundo nome.
+    Se o primeiro nome (não inicial) do curto casa com o do longo, é alta
+    confiança — exceto para sobrenomes ultra-comuns com nomes comuns.
     """
     short_parts = normalize_name(gn_short).split()
     long_parts = normalize_name(gn_long).split()
     # Filtrar iniciais (1 char)
     real_parts = [p for p in short_parts if len(p) > 1]
+
     if len(real_parts) <= 1:
+        # Sobrenomes ultra-comuns: risco alto de falso positivo
+        COMMON_SURNAMES = {
+            'silva', 'santos', 'oliveira', 'souza', 'sousa', 'lima',
+            'pereira', 'costa', 'rodrigues', 'almeida', 'nascimento',
+            'ferreira', 'araujo', 'araújo', 'carvalho', 'gomes',
+            'martins', 'ribeiro', 'rocha', 'barros', 'dias',
+            'mendes', 'vasconcellos', 'vieira',
+        }
+        fn_norm = normalize_name(familyname)
+        if fn_norm in COMMON_SURNAMES:
+            return 'baixa'
+
+        # Primeiro nome real do curto deve ser >= 3 chars e casar com o longo
+        if real_parts:
+            first_short = real_parts[0]
+            first_long = long_parts[0] if long_parts else ''
+            if len(first_short) >= 3 and first_short == first_long:
+                return 'alta'
+
         return 'baixa'
     return 'alta'
 
@@ -708,7 +727,7 @@ def phase2_merge(cur, dry_run=False):
 
         # Checar confiança
         shorter_gn = remove_gn if len(normalize_name(remove_gn)) <= len(normalize_name(keep_gn)) else keep_gn
-        conf = confidence(shorter_gn, keep_gn if shorter_gn == remove_gn else remove_gn)
+        conf = confidence(shorter_gn, keep_gn if shorter_gn == remove_gn else remove_gn, familyname=keep_fn)
 
         if conf == 'baixa':
             skip_low += 1
@@ -767,7 +786,7 @@ def phase3_report(cur):
 
         shorter_gn = gn2 if len(normalize_name(gn2)) <= len(normalize_name(gn1)) else gn1
         longer_gn_val = gn1 if shorter_gn == gn2 else gn2
-        conf = confidence(shorter_gn, longer_gn_val)
+        conf = confidence(shorter_gn, longer_gn_val, familyname=fn1)
 
         if conf != 'baixa':
             continue
