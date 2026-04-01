@@ -5,35 +5,16 @@
   "profile": {
     "total": 270,
     "locale_es": 10,
-    "abstract": 265,
+    "abstract": 264,
     "abstract_en": 1,
-    "abstract_es": 11,
+    "abstract_es": 12,
     "keywords": 261,
     "keywords_en": 0,
     "keywords_es": 12,
     "references_": 267
   },
-  "auto_fixed": [
-    {
-      "check": "A31",
-      "article_id": "sdbr16-083",
-      "field": "abstract",
-      "severity": "warning",
-      "auto_fixable": true,
-      "detail": "locale=es, abstract contém ES (56 ES vs 24 PT) — mover para abstract_es",
-      "suggestion": "Mover abstract → abstract_es"
-    }
-  ],
+  "auto_fixed": [],
   "issues": [
-    {
-      "check": "A04",
-      "article_id": "sdbr16-083",
-      "field": "abstract_es",
-      "severity": "warning",
-      "auto_fixable": false,
-      "detail": "keywords_es presente mas abstract_es faltando",
-      "suggestion": "Extrair abstract_es do fontes/ ou do PDF"
-    },
     {
       "check": "A19",
       "article_id": "sdbr16-138",

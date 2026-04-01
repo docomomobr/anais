@@ -37,7 +37,9 @@
 - ✅ 1.6 — Cobertura OK, description gerada
 - ✅ 1.7 — Autores: ALL CAPS normalizados (201+227+39), 79 merges, 2 Hispanic fixados
 - ✅ 1.8 — Dedup: 4 LLM merges, 55 distintos, 2 incertos
-- ⏳ 1.9 — ORCID em andamento
+- ✅ 1.9 — ORCID: 209 buscados, 56 aplicados. 283/403 (70.2%)
+- ✅ 1.10 — Revisao LLM final: 4 agentes, validate limpo
+- ✅ 2.0 — HTML gerado (320 artigos, 39 secoes), commit bb704e868
 
 ### Log de correcoes automaticas
 | Artigo | Campo | Antes | Depois | Causa |

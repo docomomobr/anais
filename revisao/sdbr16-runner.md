@@ -49,13 +49,7 @@ Referência: [pipeline_revisao.md](../docs/pipeline_revisao.md)
 
 ## Fase 2 — HTML de revisão + checkpoint
 
-- [ ] **2.0** Validação final + HTML + commit
-  ```
-  python3 scripts/validate_metadata.py --slug sdbr16 --fix
-  python3 scripts/gerar_revisao_html.py sdbr16
-  sqlite3 anais.db .dump > anais.sql
-  git add anais.sql revisao/sdbr16-* && git commit -m "sdbr16 revisão automática (Fases 0-2)"
-  ```
+- [x] **2.0** Validate (2 issues residuais: A04+A19 falsos positivos), HTML gerado (320 artigos, 39 secoes), commit bb704e868
 
 → Próximo: [pipeline de revisão humana](../docs/pipeline_revisao_humana.md)
 
