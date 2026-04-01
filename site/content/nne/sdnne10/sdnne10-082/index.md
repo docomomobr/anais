@@ -43,8 +43,8 @@ keywords_es:
   - "Salvador"
   - "Revistas especializadas"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
   - givenname: "Mirén Arantza Soares"
     familyname: "Campos"
@@ -53,7 +53,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19295602/files/sdnne10-082.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Norte/Nordeste: anais: Conservar já, Documentar sempre! [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo. Campina Grande: UFCG, UNIFACISA, 2024. Disponível em: www.even3.com.br/anais/xdocomomonne2024. ISBN 978-65-272-1054-2. DOI: 10.29327/9786527210542"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Campos, Mirén Arantza Soares"
 palavras-chave:
   - "Arquitetura eclética"

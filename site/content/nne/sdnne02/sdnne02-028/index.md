@@ -49,7 +49,7 @@ authors:
     familyname: "Feitosa"
     affiliation: "UEMA"
     orcid: "0009-0000-9120-1841"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     affiliation: "UEMA"
     orcid: "0000-0002-9376-8689"
@@ -59,7 +59,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "2º Seminário Docomomo Norte/Nordeste: anais: desafios da preservação: referências da arquitetura e do urbanismo modernos no Norte e Nordeste [recurso eletrônico]. Salvador: Núcleo Docomomo BA.SE; UFBA, 2008."
 autores:
   - "Feitosa, Rodrigo Miranda"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Renovação Urbana"
   - "Arquitetura Moderna"

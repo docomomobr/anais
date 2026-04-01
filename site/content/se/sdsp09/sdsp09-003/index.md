@@ -7,6 +7,7 @@ slug: sdsp09-003
 type: artigo
 weight: 10
 event_title: "9º Seminário Docomomo São Paulo, Santos, 2024"
+event_location: "Santos, SP"
 event_date: "2024-09-26"
 event_isbn: "978-65-01-21986-8"
 event_publisher: "Núcleo Docomomo São Paulo / UNISANTA"
@@ -42,7 +43,7 @@ authors:
   - givenname: "Miguel Antônio"
     familyname: "Buzzar"
     orcid: "0000-0001-6251-0338"
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
   - givenname: "Fernanda Millan"
@@ -54,7 +55,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo São Paulo: anais: preservar e valorizar o patrimônio arquitetônico moderno: o papel das instituições públicas e agentes privados [recurso eletrônico] / organização: Jaqueline Fernández Alves et al. Santos: UNISANTA; Núcleo Docomomo São Paulo, 2024. 409 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-01-21986-8"
 autores:
   - "Buzzar, Miguel Antônio"
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
   - "Fachi, Fernanda Millan"
 palavras-chave:
   - "Arquitetura Moderna"

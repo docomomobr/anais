@@ -45,8 +45,8 @@ keywords_es:
   - "Sindicato dos Engenheiros da Bahia"
   - "revista Técnica"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     affiliation: "PPGAU-UFBA"
     orcid: "0000-0001-6776-8821"
   - givenname: "Thiscianne Moraes"
@@ -58,7 +58,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19294421/files/sdnne07-059.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Pessoa, Thiscianne Moraes"
 palavras-chave:
   - "Arquitetura Moderna"

@@ -10,7 +10,7 @@ event_location: "Curitiba, PR"
 event_publisher: "Núcleo Docomomo Paraná"
 editors: "Salvador Gnoato"
 description: |
-  1º Seminário Docomomo Paraná: Constituição da Arquitetura Moderna no Paraná. 17 a 19 de agosto de 2006. Curitiba, PR: Núcleo Docomomo Paraná, 2006.
+  1° Seminário Docomomo Paraná: anais: Constituição da Arquitetura Moderna no Paraná [recurso eletrônico] / organização: Salvador Gnoato. Curitiba, PR: Núcleo Docomomo Paraná, 2006.
 cover: "sdpr01.png"
 article_count: 26
 event_state: "PR"

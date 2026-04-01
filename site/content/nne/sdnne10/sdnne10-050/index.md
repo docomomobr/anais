@@ -45,7 +45,7 @@ keywords_es:
 authors:
   - givenname: "Larissa Lopes da Mata"
     familyname: "Machado"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19295446"
@@ -54,7 +54,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Norte/Nordeste: anais: Conservar já, Documentar sempre! [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo. Campina Grande: UFCG, UNIFACISA, 2024. Disponível em: www.even3.com.br/anais/xdocomomonne2024. ISBN 978-65-272-1054-2. DOI: 10.29327/9786527210542"
 autores:
   - "Machado, Larissa Lopes da Mata"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Expansão Urbana"
   - "Modernidade"

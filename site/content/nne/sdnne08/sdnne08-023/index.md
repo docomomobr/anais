@@ -47,7 +47,7 @@ keywords_es:
   - "curtain wall"
   - "arquitectura moderna en Piauí"
 authors:
-  - givenname: "Fernanda"
+  - givenname: "Fernanda Cavalheiro"
     familyname: "Marafon"
     affiliation: "FAUUSP"
     orcid: "0000-0002-4838-8978"
@@ -60,7 +60,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19294577/files/sdnne08-023.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Norte/Nordeste: anais: transferências culturais, historiografia, intervenções e cidade moderna [recurso eletrônico] / organização: Marianna Cardoso. Palmas: AMA, NAMA, UFT, CEULP, 2021. ISBN 978-65-00-71382-4"
 autores:
-  - "Marafon, Fernanda"
+  - "Marafon, Fernanda Cavalheiro"
   - "Montenegro Filho, Roberto Alves de Lima"
 palavras-chave:
   - "arquitetura moderna"

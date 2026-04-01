@@ -11,7 +11,7 @@ event_isbn: "978-65-00-40027-4"
 event_publisher: "Universidade Federal do Pará, FAU, PPGAU"
 editors: "Celma Chaves, Cybelle Salvador Miranda"
 description: |
-  14° Seminário Docomomo Brasil: anais: O Modernismo em movimento: usos, reusos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Salvador Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN: 978-65-00-40027-4.
+  14° Seminário Docomomo Brasil: anais: O Modernismo em movimento: usos, reusos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / organização: Celma Chaves, Cybelle Salvador Miranda. Belém: Universidade Federal do Pará, FAU, PPGAU, 2021. ISBN: 978-65-00-40027-4.
 cover: "sdbr14.png"
 article_count: 133
 event_state: "PA"

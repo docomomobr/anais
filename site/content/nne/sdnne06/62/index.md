@@ -30,7 +30,7 @@ keywords:
 authors:
   - givenname: "Rodrigo José de Oliveira"
     familyname: "Silva"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19296053"
@@ -38,7 +38,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19296054/files/sdnne06-062.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Silva, Rodrigo José de Oliveira"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "arquitetura moderna"
   - "brutalismo"

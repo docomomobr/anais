@@ -10,6 +10,7 @@ slug: sdsp09-004
 type: artigo
 weight: 10
 event_title: "9º Seminário Docomomo São Paulo, Santos, 2024"
+event_location: "Santos, SP"
 event_date: "2024-09-26"
 event_isbn: "978-65-01-21986-8"
 event_publisher: "Núcleo Docomomo São Paulo / UNISANTA"

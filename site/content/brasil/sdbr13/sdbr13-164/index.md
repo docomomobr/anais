@@ -36,8 +36,8 @@ keywords_en:
   - "Modern Movement"
   - "Brazil"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
   - givenname: "Clara Demettino Castro"
     familyname: "Vasconcelos"
@@ -47,7 +47,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077841/files/sdbr13-164.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Vasconcelos, Clara Demettino Castro"
 palavras-chave:
   - "Lygia Fernandes"

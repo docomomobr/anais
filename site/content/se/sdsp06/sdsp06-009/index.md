@@ -9,6 +9,7 @@ section_title: "Modos de analisar a cidade: registro e análise projetual e patr
 section_seq: 2
 section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
+event_location: "São Carlos, SP"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"
 event_publisher: "Núcleo Docomomo São Paulo / IAU-USP"

@@ -39,14 +39,15 @@ keywords_es:
   - "difusão"
   - "publicações periódicas"
 authors:
-  - givenname: "Ana Esteban"
-    familyname: "Maluenda"
+  - givenname: "Ana"
+    familyname: "Esteban Maluenda"
+    orcid: "0000-0002-7786-9252"
 doi: "10.5281/zenodo.19074014"
 zenodo_pdf_url: "https://zenodo.org/records/19074015/files/sdbr09-139.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Brasil: anais: interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher. Brasília: UnB-FAU, 2011. 1 DVD (4 ¾ pol.). Produção do Núcleo Docomomo Brasília. ISBN 978-85-60762-04-0"
 autores:
-  - "Maluenda, Ana Esteban"
+  - "Esteban Maluenda, Ana"
 keywords:
   - "Brazil"
   - "Spain"

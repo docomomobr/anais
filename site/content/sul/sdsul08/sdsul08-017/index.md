@@ -25,8 +25,8 @@ pdf_file: "sdsul08-017.pdf"
 abstract: |
   O presente artigo centra-se no estudo da revista Técnica (1940-1959), principal veículo especializado na Bahia à época, vinculado ao Sindicato de Engenheiros da Bahia e à Escola Politécnica da então Universidade da Bahia. Interessa-nos analisar o conteúdo da revista identificando temas voltados para urbanismo e, dessa forma, entender quais eram as problemáticas enfrentadas e as inquietações diante do crescimento e expansão da capital baiana. Apesar de que a revista tem, como o próprio nome indica, uma ênfase maior em temas voltados para as diversas engenharias (em especial, civil e mecânica), nota-se que, aos poucos, vão surgir artigos que mostram, por um lado, um interesse por visibilizar a atuação desses profissionais no campo do urbanismo e, pelo outro, a pouca atuação de arquitetos nesse tipo de questões. O que se percebe é que o conteúdo voltado para a temática urbana pode ser organizado em dois grupos bem definidos; o primeiro esteve voltado para os desafios por conectar o próprio Estado baiano, entendido como política governamental; já o segundo grupo de artigos centrou-se nos desafios por modernizar a cidade de Salvador diante dos processos de expansão urbana intensificada nessas décadas. Esse cenário evidencia não só as diversas problemáticas enfrentadas por esses profissionais, mas, também, o desejo por enfrentá-las a partir de um viés técnico e racional, levando em consideração as eventuais limitações, aspectos históricos e estéticos.
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
   - givenname: "Mirén Arantza Soares"
     familyname: "Campos"
@@ -38,7 +38,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19292422/files/sdsul08-017.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Sul: anais: infraestrutura / superestrutura, cone sul global [recurso eletrônico] / organização: Sergio M. Marques, Carlos Eduardo Comas, Silvia Leão, Daniel Pitta, Monica L. Bohrer. Porto Alegre: Marcavisual, 2025. Disponível em: www.ufrgs.br/propar/. ISBN 978-85-61965-82-2"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Campos, Mirén Arantza Soares"
   - "Ahmad, Hiba"
 ---

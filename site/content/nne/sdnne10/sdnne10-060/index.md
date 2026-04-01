@@ -48,7 +48,7 @@ authors:
   - givenname: "Thaís Trovão dos Santos"
     familyname: "Zenkner"
     orcid: "0009-0005-7375-5601"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19295500"
@@ -58,7 +58,7 @@ ficha_catalografica: "10º Seminário Docomomo Norte/Nordeste: anais: Conservar 
 autores:
   - "Machado, Larissa Lopes da Mata"
   - "Zenkner, Thaís Trovão dos Santos"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Movimento Moderno"
   - "Mobilidade Urbana"

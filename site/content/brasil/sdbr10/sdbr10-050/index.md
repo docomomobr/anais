@@ -36,8 +36,8 @@ keywords_en:
   - "Assis Reis"
   - "Architecture"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
   - givenname: "Márcia Silva dos"
     familyname: "Reis"
@@ -46,7 +46,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19074217/files/sdbr10-050.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "10º Seminário Docomomo Brasil: anais: arquitetura moderna e internacional: conexões brutalistas 1955-75 [recurso eletrônico]. Porto Alegre: Docomomo Brasil; PROPAR-UFRGS, 2013. ISBN 978-85-60188-14-7"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Reis, Márcia Silva dos"
 palavras-chave:
   - "Brutalismo"

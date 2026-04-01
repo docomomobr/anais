@@ -49,7 +49,7 @@ authors:
   - givenname: "Fernanda Millan"
     familyname: "Fachi"
     orcid: "0000-0003-4203-5335"
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
 doi: "10.5281/zenodo.19069771"
@@ -59,7 +59,7 @@ ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urba
 autores:
   - "Buzzar, Miguel Antônio"
   - "Fachi, Fernanda Millan"
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
 palavras-chave:
   - "Revista Acrópole"
   - "Arquitetura Moderna"

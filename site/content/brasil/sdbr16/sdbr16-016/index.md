@@ -1,0 +1,66 @@
+---
+title: "Privacidad expuesta. Las casas funcionalistas de Juan O'Gorman en México"
+date: 2025-12-01
+slug: sdbr16-016
+type: artigo
+weight: 10
+section_title: "Excursos"
+section_seq: 25
+section_label: "sessão"
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_location: "Porto Alegre"
+event_date: "2025-12-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Marcavisual Editora"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+pdf_file: "sdbr16-016.pdf"
+abstract: |
+  En distintas ciudades del mundo, casas que alguna vez fueron espacios privados, de creación artística o de vida cotidiana se han transformado en museos públicos. Esta transición, en apariencia simple, encierra preguntas profundas sobre cómo entendemos el patrimonio moderno, qué valor le damos a la arquitectura doméstica, y cómo un inmueble pensado para ser habitado puede reinterpretarse como objeto de identidad. En México, caso emblemático de un conjunto de casas modernas convertidas en museo es el de las diseñadas por el arquitecto Juan O’Gorman (1905-1982) en Altavista, al sur de la Ciudad de México. Se trata de tres construcciones contiguas, entre ellas la célebre Casa Estudio Diego Rivera y Frida Kahlo, terminada en 1932. El conjunto incluye la conocida como Casa O’Gorman,* proyectada en 1929, considerada una de las primeras obras funcionalistas mexicanas y precedente inmediato de las viviendas para los artistas. Las casas para Diego Rivera (1886-1957) y Frida Kahlo (1907-1954), después de pertenecer, ser habitadas y transformadas por las dos hijas de Diego Rivera —Guadalupe y Ruth Rivera Marín— fueron compradas por el Instituto Nacional de Bellas Artes y Literatura (INBAL)** en 1981, abriendo al público por primera vez en 1986, coincidiendo con el centenario del nacimiento de Rivera. Las tres casas han sido restauradas de forma integral por Víctor Jiménez, arquitecto e historiador. Las de los artistas entre 1995 y 1996. La Casa O’Gorman entre 2012 y 2013. El actual museo se ha consolidado como la pieza clave para comprender la arquitectura moderna mexicana en su etapa funcionalista. * Registrada al momento de su construcción como Casa para el Sr. Cecil Crawford O’Gorman, padre del arquitecto, quien nunca la habitaría. ** Antes Instituto Nacional de Bellas Artes (INBA), a partir de 2015 INBAL, nombre oficial actual que se citará en este texto. Nathália Bichinho C. Oliveira e Pablo Muñoz Este trabalho aborda o processo de revalorização da casa de Román Fresnedo Siri e seu contexto sociocultural em Punta Ballena, Uruguai, projetada em 1938. Trata-se da casa de veraneio do arquiteto, uma obra singular do Movimento Moderno, que une arquitetura e paisagem, e está associada a uma figura central no desenvolvimento da arquitetura, do design e da arte uruguaios do século XX. No âmbito de um projeto maior que propõe uma reflexão sobre a possível reutilização da casa Fresnedo em Punta Ballena, explorando seu potencial como museu e centro de interpretação. A ativação do local é proposta a partir de múltiplos ângulos relacionados à sua atividade artística. Para o Docomomo Brasil, propomos refletir sobre como uma casa em um balneário foi o campo de testes para arquiteturas marcantes na cidade de Montevidéu, como o prédio da Faculdade de Arquitetura, Design e Urbanismo da Universidad de la Republica (Udelar). A casa é um documento não apenas por fora, mas também por seu design de interiores e pela vida cultural que a cerca. A restauração desta casa representa uma oportunidade de praticar formas alternativas de trabalhar com o patrimônio arquitetônico moderno, visto que se trata de um bem de grande valor histórico e cultural na costa de Maldonado, anterior às casas do arquiteto catalão Antoni Bonet e agora localizada muito próxima a áreas naturais protegidas. O desafio não é apenas preservar ou musealizar a arquitetura, mas sim elaborar estratégias de gestão patrimonial que permitam imaginar novos usos, em coordenação entre os setores público e privado, do design e das artes integradas à arquitetura, que em muitos períodos foi a visão arquitetônica, artística e de design que prevaleceu para o arquiteto Fresnedo Siri.
+keywords:
+  - "FUNCIONALISMO"
+  - "JUAN O’GORMAN"
+  - "MÉXICO"
+abstract_es: |
+  En distintas ciudades del mundo, casas que alguna vez fueron espacios privados, de creación artística o de vida cotidiana se han transformado en museos públicos. Esta transición, en apariencia simple, encierra preguntas profundas sobre cómo entendemos el patrimonio moderno, qué valor le damos a la arquitectura doméstica, y cómo un inmueble pensado para ser habitado puede reinterpretarse como objeto de identidad. En México, caso emblemático de un conjunto de casas modernas convertidas en museo es el de las diseñadas por el arquitecto Juan O’Gorman (1905-1982) en Altavista, al sur de la Ciudad de México. Se trata de tres construcciones contiguas, entre ellas la célebre Casa Estudio Diego Rivera y Frida Kahlo, terminada en 1932. El conjunto incluye la conocida como Casa O’Gorman, proyectada en 1929, considerada una de las primeras obras funcionalistas mexicanas y precedente inmediato de las viviendas para los artistas. Las casas para Diego Rivera (1886-1957) y Frida Kahlo (1907-1954), después de pertenecer, ser habitadas y transformadas por las dos hijas de Diego Rivera —Guadalupe y Ruth Rivera Marín— fueron compradas por el Instituto Nacional de Bellas Artes y Literatura (INBAL) en 1981, abriendo al público por primera vez en 1986, coincidiendo con el centenario del nacimiento de Rivera. Las tres casas han sido restauradas de forma integral por Víctor Jiménez, arquitecto e historiador. Las de los artistas entre 1995 y 1996. La Casa O'Gorman entre 2012 y 2013. El actual museo se ha consolidado como la pieza clave para comprender la arquitectura moderna mexicana en su etapa funcionalista.
+keywords_es:
+  - "FUNCIONALISMO"
+  - "JUAN O’GORMAN"
+  - "MÉXICO"
+authors:
+  - givenname: "Vanessa"
+    familyname: "Nagel Vega"
+    affiliation: "Facultad de Arquitectura / UNAM"
+    orcid: "0000-0002-7971-4000"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Nagel Vega, Vanessa"
+palavras-chave:
+  - "FUNCIONALISMO"
+  - "JUAN O’GORMAN"
+  - "MÉXICO"
+palabras-clave:
+  - "FUNCIONALISMO"
+  - "JUAN O’GORMAN"
+  - "MÉXICO"
+---
+
+## Referências
+
+- BORN, Esther. The New Architecture in Mexico. Nueva York: The Architectural Record / William Morrow & Company, 1937.
+- BURIAN, Edward R. “La arquitectura de Juan O’Gorman. Dicotomía y deriva.” En Modernidad y arquitectura en México, editado por Edward R. Burian, 132-142. España: Gustavo Gili, 1998.
+- GUZMÁN URBIOLA, Xavier. “La primera casa funcionalista levantada en México por Juan O’Gorman.” En Casa O’Gorman 1929, 12-21. México: Conaculta / INBA / RM, 2014.
+- JIMÉNEZ, Víctor. Juan O’Gorman. Vida y obra. México: Universidad Nacional Autónoma de México, 2004.
+- JIMÉNEZ, Víctor. “La Casa de Juan O’Gorman de 1929.” En Casa O’Gorman 1929, 34-57. México: Conaculta / INBA / RM, 2014. “Juan O’Gorman.” Arquitectura México, nº 100 (abril – julio 1968): 48-50.
+- LÓPEZ URIBE, Cristina. “Las firmas de las primeras casas funcionalistas de Juan O’Gorman.” Bitácora Arquitectura, nº 30 (marzo – julio 2015): 132-137.
+- LÓPEZ URIBE, Cristina. “Palmas y Altavista. La historia de las casas más revolucionarias y radicales de México.” En Hábitat O’Gorman, Rivera, Kahlo. Historia de la Casa Estudio, 40-59. México: Secretaría de Cultura / INBAL, 2024.
+- NAGEL VEGA, Vanessa. México Exporta. La arquitectura moderna en las revistas europeas y norteamericanas (1950-1970). Tesis doctoral. España: Universidad Politécnica de Madrid, 2016.
+- NOELLE, Louise. “Las casas de Juan O’Gorman: principio y fin.” Summa+, nº 182 (2020): 108-115. O’Gorman, Juan. “El desarrollo de la arquitectura en México durante los últimos treinta años.” Arquitectura México, nº 100 (abril – julio 1968): 51-55. O’Gorman, Juan. Autobiografía. México: UNAM / DGE Equilibrista, 2007. “Retreat into Fantasy.” Architectural Design 40, nº 2 (febrero 1970): 64.
+- SÁNCHEZ FOGARTY, Federico. “Juan O’Gorman.” Tolteca, nº 22 (marzo 1932): 328-330.
+- TIBOL, Raquel. “Juan O’Gorman en varios tiempos.” Calli, nº 28 (julio – agosto 1967): 7-10.

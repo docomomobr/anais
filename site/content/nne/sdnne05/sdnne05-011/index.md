@@ -36,8 +36,8 @@ keywords_en:
   - "Northeast Modern Architecture"
   - "Specialized magazines"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     affiliation: "FAUFBA"
     orcid: "0000-0001-6776-8821"
 doi: "10.5281/zenodo.19293921"
@@ -45,7 +45,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19293922/files/sdnne05-011.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "5º Seminário Docomomo Norte/Nordeste: anais: projeto, obra, uso e memória — a intervenção no patrimônio arquitetônico modernista [recurso eletrônico]. Fortaleza: Núcleo Docomomo Ceará; UFC, 2014."
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
 palavras-chave:
   - "arquitetura moderna"
   - "Arquitetura moderna nordestina"

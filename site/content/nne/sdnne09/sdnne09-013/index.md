@@ -41,7 +41,7 @@ authors:
     familyname: "Rocha"
     affiliation: "UEMA"
     orcid: "0000-0003-2167-1973"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     affiliation: "UEMA"
     orcid: "0000-0002-9376-8689"
@@ -51,7 +51,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Norte/Nordeste: anais: arquitetura, paisagem e cultura — ecos da modernidade [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes. São Luís: UNDB, 2022. ISBN 978-65-00-56400-6"
 autores:
   - "Rocha, Filipe Santos"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Arquitetura Moderna"
   - "Vernacular"

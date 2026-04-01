@@ -9,6 +9,7 @@ weight: 10
 section_title: "Gestão"
 section_seq: 3
 event_title: "5º Seminário Docomomo São Paulo, São Paulo, 2017"
+event_location: "São Paulo, SP"
 event_date: "2017-10-16"
 event_isbn: "978-85-88157-16-3"
 event_publisher: "Núcleo Docomomo São Paulo / Editora Altermarket"

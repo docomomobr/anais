@@ -10,7 +10,7 @@ event_location: "Brasília, DF"
 event_publisher: "Universidade de Brasília; Universidade Federal da Bahia"
 editors: "Anna Beatriz A. Galvão, Alejandra H. Muñoz, Hugo Segawa, Mirthes Baffi, Marina B. Donelli"
 description: |
-  Conference Proceedings: Sixth International DOCOMOMO Conference: The Modern City Facing the Future / editors: Anna Beatriz Galvão, coord.; Alejandra H. Muñoz; Hugo Segawa; Mirthes Baffi; Marina B. Donelli. Brasília, Brazil, September 19-22, 2000. Salvador: EDUFBA, [2002]. 358 p. il. 53 articles.
+  6° International DOCOMOMO Conference: anais: The Modern City Facing the Future [recurso eletrônico] / organização: Anna Beatriz A. Galvão et al.. Brasília, DF: Universidade de Brasília; Universidade Federal da Bahia, 2000.
 cover: "idc06.png"
 volume_pdf: "https://zenodo.org/records/19316491/files/2000-proceedings-6th-idc-brasilia-r-ocr2.pdf"
 article_count: 53

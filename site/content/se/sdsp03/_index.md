@@ -8,7 +8,7 @@ ambito: se
 ambito_nome: "Sudeste"
 event_publisher: "Núcleo Docomomo São Paulo / Universidade Presbiteriana Mackenzie"
 description: |
-  3° Seminário Docomomo São Paulo: anais: permanência e transitoriedade do Movimento Modernista paulista [recurso eletrônico]. São Paulo: Universidade Presbiteriana Mackenzie, 2005.
+  3° Seminário Docomomo São Paulo: anais: permanência e transitoriedade do Movimento Modernista paulista [recurso eletrônico]. Núcleo Docomomo São Paulo / Universidade Presbiteriana Mackenzie, 2005.
 cover: "sdsp03.png"
 article_count: 74
 event_state: "SP"

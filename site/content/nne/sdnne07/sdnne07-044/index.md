@@ -50,7 +50,7 @@ authors:
   - givenname: "Victor Martins"
     familyname: "Lago"
     orcid: "0000-0002-4788-1437"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19294319"
@@ -60,7 +60,7 @@ ficha_catalografica: "7º Seminário Docomomo Norte/Nordeste: anais: tradição 
 autores:
   - "Ferreira, Ingrid Mendes"
   - "Lago, Victor Martins"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Arquitetura Moderna"
   - "Clubes"

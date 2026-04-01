@@ -11,7 +11,7 @@ event_isbn: "978-85-61965-40-2"
 event_publisher: "Núcleo Docomomo RS / PROPAR-UFRGS"
 editors: "Ana Carolina Pellegrini, Carlos Eduardo Comas"
 description: |
-  5° Seminário Docomomo Sul: anais: O moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre, RS: Marcavisual, 2016. Disponível originalmente em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul. ISBN: 978-85-61965-40-2.
+  5° Seminário Docomomo Sul: anais: O moderno no contemporâneo: herança e prática [recurso eletrônico] / organização: Ana Carolina Pellegrini, Carlos Eduardo Comas. Porto Alegre, RS: Núcleo Docomomo RS / PROPAR-UFRGS, 2016. ISBN: 978-85-61965-40-2. Disponível originalmente em: www.ufrgs.br/propar/anais-do-5o-seminario-docomomo-sul. ISBN: 978-85-61965-40-2.
 cover: "sdsul05.png"
 article_count: 37
 event_state: "RS"

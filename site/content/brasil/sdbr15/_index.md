@@ -11,7 +11,7 @@ event_isbn: "978-65-272-0196-0"
 event_publisher: "IAU e FAU — Universidade de São Paulo"
 editors: "Ivo Renato Giroto"
 description: |
-  Anais do XV Seminário Docomomo Brasil: Arquitetura e urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico]. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. ISBN: 978-65-272-0196-0. DOI: 10.29327/1344945. Disponível originalmente em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023.
+  15° Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. ISBN: 978-65-272-0196-0. DOI: 10.29327/1344945. Disponível originalmente em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023.
 cover: "sdbr15.png"
 volume_pdf: "https://zenodo.org/records/19070724/files/sdbr15_anais.pdf"
 article_count: 101

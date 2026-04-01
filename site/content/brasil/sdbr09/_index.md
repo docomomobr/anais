@@ -11,7 +11,7 @@ event_isbn: "978-85-60762-04-0"
 event_publisher: "PPG-FAU-UnB"
 editors: "Andrey Rosenthal Schlee, Danilo Matoso Macedo, Elcio Gomes da Silva, Sylvia Ficher"
 description: |
-  9° Seminário Docomomo Brasil: anais: Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee et al.. Brasília: UnB-FAU; Núcleo Docomomo Brasília, 2011. ISBN: 978-85-60762-04-0.
+  9° Seminário Docomomo Brasil: anais: Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente [recurso eletrônico] / organização: Andrey Rosenthal Schlee et al.. Brasília: PPG-FAU-UnB, 2011. ISBN: 978-85-60762-04-0.
 cover: "sdbr09.png"
 article_count: 170
 event_state: "DF"

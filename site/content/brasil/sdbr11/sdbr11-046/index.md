@@ -35,15 +35,15 @@ keywords_en:
   - "Modernism"
   - "Historiography"
 authors:
-  - givenname: "Gabriela Tie"
-    familyname: "Nagoya Tamari"
+  - givenname: "Gabriela Tie Nagoya"
+    familyname: "Tamari"
     orcid: "0000-0003-1864-2979"
 doi: "10.5281/zenodo.19074601"
 zenodo_pdf_url: "https://zenodo.org/records/19074602/files/sdbr11-046.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
-  - "Nagoya Tamari, Gabriela Tie"
+  - "Tamari, Gabriela Tie Nagoya"
 palavras-chave:
   - "Paisagismo"
   - "Modernismo"

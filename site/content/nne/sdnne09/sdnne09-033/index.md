@@ -33,7 +33,7 @@ authors:
     familyname: "Silva"
     affiliation: "UEMA"
     orcid: "0009-0004-4924-1427"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19294972"
@@ -42,7 +42,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "9º Seminário Docomomo Norte/Nordeste: anais: arquitetura, paisagem e cultura — ecos da modernidade [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes. São Luís: UNDB, 2022. ISBN 978-65-00-56400-6"
 autores:
   - "Silva, Hilquias de Castro Feitosa da"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Arquitetura moderna"
   - "feminina"

@@ -10,7 +10,7 @@ event_isbn: "978-85-88341-55-5"
 event_publisher: "UFRJ/FAU/PROARQ"
 editors: "Cêça Guimaraens, Luiz Felipe Machado, Ana Albano Amora, Inês El-Jaick"
 description: |
-  2° Encontro Docomomo Rio: anais: Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense [recurso eletrônico] / organização: Cêça Guimaraens et al.. Rio de Janeiro: UFRJ/FAU/PROARQ, 2012. ISBN: 978-85-88341-55-5.
+  2° Encontro Docomomo Rio: anais: Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense [recurso eletrônico] / organização: Cêça Guimaraens et al.. UFRJ/FAU/PROARQ, 2012. ISBN: 978-85-88341-55-5.
 cover: "sdrj02.png"
 article_count: 19
 event_state: "RJ"

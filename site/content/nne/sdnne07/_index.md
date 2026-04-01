@@ -10,7 +10,7 @@ event_location: "Manaus, AM"
 event_isbn: "978-85-526-0057-2"
 event_publisher: "UFAM / EDUA"
 description: |
-  7° Seminário Docomomo Norte/Nordeste: anais: Tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus, AM: EDUA, 2018. Disponível originalmente em: 7docomomomanaus.weebly.com/artigos.html. ISBN: 978-85-526-0057-2.
+  7° Seminário Docomomo Norte/Nordeste: anais: Tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus, AM: UFAM / EDUA, 2018. ISBN: 978-85-526-0057-2. Disponível originalmente em: 7docomomomanaus.weebly.com/artigos.html. ISBN: 978-85-526-0057-2.
 cover: "sdnne07.png"
 article_count: 65
 event_state: "AM"

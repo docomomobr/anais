@@ -39,7 +39,7 @@ abstract: |
   valorosos nos centros urbanos brasileiros; ou, em outras palavras, com o que poderia ser o Passeio
   Cultural Marrocos.
 authors:
-  - givenname: "José Alberto"
+  - givenname: "José Alberto de Oliveira"
     familyname: "Grechoniak"
     orcid: "0000-0002-4927-5078"
   - givenname: "Márcia"
@@ -50,7 +50,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19292162/files/sdsul07-016.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Sul: anais: o moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II [recurso eletrônico] / organização: Marta Peixoto. Porto Alegre: Marcavisual, 2022. 500 p. Disponível em: www.ufrgs.br/propar/publicacoes.htm. ISBN 978-65-89263-60-9"
 autores:
-  - "Grechoniak, José Alberto"
+  - "Grechoniak, José Alberto de Oliveira"
   - "Heck, Márcia"
 ---
 

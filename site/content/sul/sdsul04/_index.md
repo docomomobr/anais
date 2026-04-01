@@ -11,7 +11,7 @@ event_isbn: "978-85-60188-13-0"
 event_publisher: "Núcleo Docomomo RS / PROPAR-UFRGS"
 editors: "Carlos Eduardo Comas, Claudia Costa Cabral, Airton Cattani"
 description: |
-  4° Seminário Docomomo Sul: anais: Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Claudia Costa Cabral, Airton Cattani. Porto Alegre, RS: PROPAR-UFRGS, 2013. Disponível originalmente em: www.ufrgs.br/propar/anais-do-4o-seminario-docomomo-sul. ISBN: 978-85-60188-13-4.
+  4° Seminário Docomomo Sul: anais: Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970 [recurso eletrônico] / organização: Carlos Eduardo Comas, Claudia Costa Cabral, Airton Cattani. Porto Alegre, RS: Núcleo Docomomo RS / PROPAR-UFRGS, 2013. ISBN: 978-85-60188-13-0. Disponível originalmente em: www.ufrgs.br/propar/anais-do-4o-seminario-docomomo-sul. ISBN: 978-85-60188-13-4.
 cover: "sdsul04.png"
 article_count: 46
 event_state: "RS"

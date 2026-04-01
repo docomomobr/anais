@@ -31,7 +31,7 @@ keywords:
 authors:
   - givenname: "Bianca Tereza Lins Rabelo"
     familyname: "Barbosa"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19296182"
@@ -39,7 +39,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19296183/files/sdnne06-099.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Barbosa, Bianca Tereza Lins Rabelo"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "arquitetura moderna"
   - "reabilitação arquitetônica"

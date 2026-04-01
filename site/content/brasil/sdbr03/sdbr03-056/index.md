@@ -25,14 +25,14 @@ pdf_file: "sdbr03-056.pdf"
 abstract: |
   O Projeto de Restauração e Revitalização do Palácio Gustavo Capanema que vem sendo desenvolvido no Setor Técnico da Administração do PGC / IPHAN procura além de promover a restauração e conservação do bem tombado, inclusive de todo o acervo de obras de arte e mobiliário original, modernizar sua infra-estrutura, otimizar a ocupação dos espaços, potencializar a vocação cultural do prédio e normatizar sua utilização e manutenção.
 authors:
-  - givenname: "Paulo Eduardo"
-    familyname: "Vidal Leite Ribeiro"
+  - givenname: "Paulo Eduardo Vidal Leite"
+    familyname: "Ribeiro"
 doi: "10.5281/zenodo.19070699"
 zenodo_pdf_url: "https://zenodo.org/records/19070700/files/sdbr03-056.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "3º Seminário Docomomo Brasil: anais: a permanência do moderno [recurso eletrônico]. São Carlos: EESC-USP, 1999. ISBN 85-85205-56-3"
 autores:
-  - "Vidal Leite Ribeiro, Paulo Eduardo"
+  - "Ribeiro, Paulo Eduardo Vidal Leite"
 ---
 
 ## Referências

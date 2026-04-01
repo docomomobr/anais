@@ -35,15 +35,15 @@ keywords_es:
   - "revistas especializadas"
   - "Sudamérica"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
 doi: "10.5281/zenodo.19076895"
 zenodo_pdf_url: "https://zenodo.org/records/19076896/files/sdbr12-014.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
 palavras-chave:
   - "Brasília"
   - "revistas especializadas"

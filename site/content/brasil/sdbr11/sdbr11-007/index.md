@@ -35,15 +35,15 @@ keywords_en:
   - "Modern architecture and urbanism"
   - "Brazil"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
 doi: "10.5281/zenodo.19074474"
 zenodo_pdf_url: "https://zenodo.org/records/19074475/files/sdbr11-007.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "11º Seminário Docomomo Brasil: anais: o campo ampliado do movimento moderno [recurso eletrônico] / organização: Luiz Amorim. Recife: Docomomo Brasil; Editora UFPE, 2016. ISBN 978-85-415-0803-2"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
 palavras-chave:
   - "Revistas italianas especializadas"
   - "Arquitetura e urbanismo modernos"

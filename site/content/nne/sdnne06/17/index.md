@@ -26,8 +26,8 @@ keywords:
   - "arquitetura moderna"
   - "revistas especializadas"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
   - givenname: "Caroline"
     familyname: "Liu"
@@ -36,7 +36,7 @@ doi: "10.5281/zenodo.19295722"
 zenodo_pdf_url: "https://zenodo.org/records/19295723/files/sdnne06-017.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Liu, Caroline"
 palavras-chave:
   - "arquitetura nordestina"

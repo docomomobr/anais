@@ -1,0 +1,36 @@
+---
+title: "Arquitetura sob ameaça: demolições e resistências na salvaguarda do Patrimônio Moderno"
+date: 2025-12-01
+slug: sdbr16-m13
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "Arquitetura sob ameaça: demolições e resistências na salvaguarda do Patrimônio Moderno"
+section_seq: 12
+section_label: "sessão"
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_location: "Porto Alegre"
+event_date: "2025-12-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Marcavisual Editora"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+abstract: |
+  O patrimônio da arquitetura moderna encontra-se hoje em uma encruzilhada crítica. Ao mesmo tempo em que cresce o reconhecimento institucional e acadêmico de seu valor histórico, artístico e cultural, multiplicam-se os casos de descaracterização, abandono e demolição de edifícios e conjuntos significativos, motivados por interesses imobiliários, negligência pública ou visões limitadas de progresso urbano. Esta sessão propõe um espaço de reflexão e debate sobre os conflitos contemporâneos em torno da permanência — ou demolição — do patrimônio moderno, com ênfase nas ações de resistência promovidas por comunidades, coletivos de arquitetos, movimentos sociais, pesquisadores e instituições. O objetivo é reunir experiências e análises que problematizem os processos de apagamento de obras modernas — demolidas parcial ou integralmente, ou ainda ameaçadas — e, em contrapartida, se concentrem em estratégias de enfrentamento e de reinvenção crítica da noção de preservação. A sessão tem como objetivo receber trabalhos que reflitam sobre estudos de caso de diferentes regiões, ampliando a compreensão dos fatores políticos, econômicos, culturais e afetivos que incidem sobre o destino de bens modernos. É de especial interesse observar como determinadas iniciativas, mesmo quando não exitosas do ponto de vista jurídico-institucional, produzem contranarrativas e ativam redes de memória e pertencimento que desafiam a lógica do esquecimento. Pretende-se também abrir espaço para abordagens que explorem o papel das tecnologias digitais, das linguagens visuais e dos dispositivos narrativos na construção de novos repertórios de sensibilização e mobilização social em defesa do patrimônio. A sessão enseja fomentar o cruzamento entre investigações acadêmicas, práticas de ativismo urbano e experiências pedagógicas, reconhecendo o valor político da memória e da escuta coletiva na constituição de um campo ampliado da preservação. No contexto do 16º DOCOMOMO Brasil, esta sessão convida à reflexão sobre os modos como o patrimônio moderno é atravessado por disputas que revelam camadas de desigualdade e silenciamento. Afinal, o que se demole quando se derruba um edifício moderno? Quais vozes são desconsideradas? E quais formas de resistência emergem como contrafluxo à lógica do apagamento? Ao reunir pesquisas e práticas que se debruçam sobre esses embates, a sessão visa mapear perdas e ameaças, e destacar os modos de agir e imaginar coletivamente outras possibilidades de permanência, cuidado e reapropriação crítica do legado moderno. Assim, a proposta se insere em uma perspectiva de preservação expandida, comprometida com a complexidade dos vínculos afetivos, políticos e urbanos que sustentam a arquitetura moderna no presente.
+authors:
+  - givenname: "Maísa Fonseca de"
+    familyname: "Almeida"
+    orcid: "0000-0001-8824-1738"
+  - givenname: "Bárbara Guazzelli"
+    familyname: "Gonçalves"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Almeida, Maísa Fonseca de"
+  - "Gonçalves, Bárbara Guazzelli"
+---

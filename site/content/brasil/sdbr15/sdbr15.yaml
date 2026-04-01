@@ -34,6 +34,7 @@
     ORCID: https://orcid.org/0000-0002-0678-1659
   - family: Campos
     given: Bruno Pedro Alves de
+    ORCID: https://orcid.org/0009-0009-5940-170X
   event-place: São Carlos, SP
   publisher-place: São Carlos, SP
   DOI: 10.5281/zenodo.19069474
@@ -54,7 +55,7 @@
     given: Fernanda Millan
     ORCID: https://orcid.org/0000-0003-4203-5335
   - family: Silva
-    given: Jasmine Luiza Souza
+    given: Jasmine Luiza Souza Silva
     ORCID: https://orcid.org/0000-0001-6156-4086
   - family: Buzzar
     given: Miguel Antônio
@@ -1411,7 +1412,7 @@
     given: Fernanda Millan
     ORCID: https://orcid.org/0000-0003-4203-5335
   - family: Silva
-    given: Jasmine Luiza Souza
+    given: Jasmine Luiza Souza Silva
     ORCID: https://orcid.org/0000-0001-6156-4086
   event-place: São Carlos, SP
   publisher-place: São Carlos, SP
@@ -1475,11 +1476,11 @@
     - - 2023
   language: pt-BR
   author:
-  - family: Espinoza
-    given: José Carlos Huapaya
+  - family: Huapaya Espinoza
+    given: José Carlos
     ORCID: https://orcid.org/0000-0001-6776-8821
   - family: Santos
-    given: Ruan Carlos Marques
+    given: Ruan Carlos Marques dos
     ORCID: https://orcid.org/0009-0003-0745-6553
   event-place: São Carlos, SP
   publisher-place: São Carlos, SP
@@ -1609,8 +1610,8 @@
   - family: Almeida
     given: Maísa Fonseca de
     ORCID: https://orcid.org/0000-0001-8824-1738
-  - family: Guazzelli
-    given: Bárbara Gonçalves
+  - family: Gonçalves
+    given: Bárbara Guazzelli
   - family: Lucatelli
     given: Luis Gustavo
     ORCID: https://orcid.org/0000-0002-4827-3097
@@ -2141,7 +2142,7 @@
   language: pt-BR
   author:
   - family: Silva
-    given: Jasmine Luiza Souza
+    given: Jasmine Luiza Souza Silva
     ORCID: https://orcid.org/0000-0001-6156-4086
   - family: Buzzar
     given: Miguel Antônio

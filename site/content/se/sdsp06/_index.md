@@ -11,7 +11,7 @@ event_isbn: "978-85-66624-25-0"
 event_publisher: "Núcleo Docomomo São Paulo / IAU-USP"
 editors: "Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka"
 description: |
-  6° Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. Disponível originalmente em: www.nucleodocomomosp.com.br/6-seminario. ISBN: 978-85-66624-25-0.
+  6° Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos, SP: Núcleo Docomomo São Paulo / IAU-USP, 2018. ISBN: 978-85-66624-25-0. Disponível originalmente em: www.nucleodocomomosp.com.br/6-seminario. ISBN: 978-85-66624-25-0.
 cover: "sdsp06.png"
 volume_pdf: "https://zenodo.org/records/19354386/files/sdsp06_anais.pdf"
 article_count: 37

@@ -33,7 +33,7 @@ authors:
   - givenname: "Verônica"
     familyname: "Freitas"
     orcid: "0000-0002-1560-614X"
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
   - givenname: "Miguel Antônio"
@@ -45,7 +45,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
   - "Freitas, Verônica"
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
   - "Buzzar, Miguel Antônio"
 palavras-chave:
   - "Arquitetura moderna"

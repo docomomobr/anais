@@ -27,7 +27,7 @@ abstract: |
   Este artigo tem como objetivo comunicar a pesquisa e catalogação sistemática de edifícios residenciais na área de Pocitos em Montevidéu, construída nas décadas de 1950 e 1960. É uma das concentrações deste tipo de edifícios com a mais alta qualidade de projeto de cidade, reconhecida cedo por críticos nacionais e internacionais, realizada por um número relativamente pequeno de arquitetos, como Raúl Sichero, Luis Garcia Pardo, Francisco Villegas Berro, Guillermo Jones Odriozola ou Walter Pintos Risso, entre outros. Tal produção, de filiação claramente moderna, caracteriza-se pela síntese funcional no modo de compreender as demandas programáticas, a rigorosa linguagem abstrata utilizada para o desenvolvimento dos projetos, e pelo uso adequado das tecnologias disponíveis, em especial o uso do concreto armado, chegando em alguns casos a soluções de espírito de vanguarda. Não são exemplos isolados, mas um conjunto coerente de obras, que expressa uma clara sensibilidade urbana, que contribui para a qualidade da cidade em cada uma das suas materializações. O texto descreve os aspectos metodológicos da catalogação realizada e oferece uma caracterização dos aspectos edilícios e urbanos mais importantes do conjunto de estudos de caso, contextualizando-os com outros grupos semelhantes na região.
 authors:
   - givenname: "Alfredo"
-    familyname: "Peláez"
+    familyname: "Peláez Iglesias"
     orcid: "0009-0006-5115-890X"
   - givenname: "Francesco"
     familyname: "Comerci"
@@ -42,7 +42,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077528/files/sdbr13-071.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "13º Seminário Docomomo Brasil: anais: arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza. Salvador: Instituto de Arquitetos do Brasil, Departamento da Bahia, 2019. ISBN 978-85-66843-06-4"
 autores:
-  - "Peláez, Alfredo"
+  - "Peláez Iglesias, Alfredo"
   - "Comerci, Francesco"
   - "Gastambide, Santiago"
   - "Cardoso, Andrés"

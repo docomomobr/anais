@@ -11,7 +11,7 @@ event_isbn: "978-85-63014-05-4"
 event_publisher: "UFRN"
 editors: "George Alexandre Ferreira Dantas, Rubenilson Brazão Teixeira"
 description: |
-  4º Seminário Docomomo Norte/Nordeste: Arquitetura em cidades "sempre novas": modernismo, projeto e patrimônio. 29 de maio a 01 de junho de 2012. Natal, RN: UFRN, 2012. 1 CD-ROM. ISBN 978-85-63014-05-4.
+  4° Seminário Docomomo Norte/Nordeste: anais: Arquitetura em cidades "sempre novas": modernismo, projeto e patrimônio [recurso eletrônico] / organização: George Alexandre Ferreira Dantas, Rubenilson Brazão Teixeira. Natal, RN: UFRN, 2012. ISBN: 978-85-63014-05-4.
 cover: "sdnne04.png"
 article_count: 45
 event_state: "RN"

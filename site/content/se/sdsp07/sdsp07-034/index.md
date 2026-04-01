@@ -12,6 +12,7 @@ section_title: "Ensaios"
 section_seq: 3
 section_label: "eixo"
 event_title: "7º Seminário Docomomo São Paulo, São Paulo, 2020"
+event_location: "São Paulo, SP"
 event_date: "2020-11-09"
 event_isbn: "978-65-00-11912-1"
 event_publisher: "Núcleo Docomomo São Paulo / PGAUR-USJT"

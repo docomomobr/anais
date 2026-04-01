@@ -11,7 +11,7 @@ event_isbn: "978-85-61965-82-2"
 event_publisher: "Núcleo Docomomo RS / Marcavisual"
 editors: "Sergio M. Marques, Carlos Eduardo Comas, Silvia Leão, Daniel Pitta, Monica L. Bohrer"
 description: |
-  8° Seminário Docomomo Sul: anais: Infraestrutura / Superestrutura, Cone Sul Global [recurso eletrônico] / organização: Sergio M. Marques et al.. Porto Alegre, RS: Marcavisual, 2025. Disponível originalmente em: https://lume.ufrgs.br/handle/10183/297845. ISBN: 978-85-61965-82-2.
+  8° Seminário Docomomo Sul: anais: Infraestrutura / Superestrutura, Cone Sul Global [recurso eletrônico] / organização: Sergio M. Marques et al.. Porto Alegre, RS: Núcleo Docomomo RS / Marcavisual, 2025. ISBN: 978-85-61965-82-2. Disponível originalmente em: https://lume.ufrgs.br/handle/10183/297845. ISBN: 978-85-61965-82-2.
 cover: "sdsul08.png"
 volume_pdf: "https://zenodo.org/records/19354651/files/sdsul08_anais.pdf"
 article_count: 51

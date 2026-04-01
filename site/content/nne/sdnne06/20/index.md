@@ -27,7 +27,7 @@ keywords:
 abstract_en: |
   The modern residential architecture has established itself in the historic center and suburbs of São Luis by the work of the architect Cleon Furtado. Unlike the first modern buildings that come with Federal Institutions such as INSS, Correios and Sulacap, Cleon’s residences changed the language of the historic center with its geometric shapes where were only predominated on the Portuguese colonial architecture. Born in Maranhão in 1929, Furtado studied architecture at Mackenzie of São Paulo between 1950 and 1955, and was influenced by Escola Paulista in the work of Rino Levi and Warchavichick, and for Niemeyer and Lúcio Costa’s Escola Carioca. Cleon Furtado innovated and dared, disseminating modern architecture in São Luís through his numerous projects of modernist residences, motivated by the ideas of the German architect Mies van der Rohe and his maxim “less is more”, which removed the excess and valued the pure form. The house of Cleon, in Av. Beira Mar where he still lives at 80 years old, has the Villa Savoye project as an influence, within the principles of the “Letter of Athens", with a clear reference to a residence in concrete built on the outskirts of Paris with unusual geometric shape of a parallelepiped square base on pilotis. This pattern of geometric shapes can be seen on Cleon’s works scattered in different neighborhoods of the city: along of Avenida Beira – Mar, in Apicum, in Rua do Norte, João Paulo and among many other locations. In these works, the five points of the new architecture: the pilotis, the roof gardens, the free ground plan, the fenêtre on longue and the free façade were used properly, bringing to the island the new language of modern, adding sophistication to the colonial city. This research aimed to catalog Furtado’s works, rescuing the importance of these residences, documenting in photographs and details, as they constitute a collection of fundamental importance for modern architecture of 20th century in São Luis of Maranhão.
 authors:
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
   - givenname: "Manoel"
@@ -37,7 +37,7 @@ doi: "10.5281/zenodo.19295756"
 zenodo_pdf_url: "https://zenodo.org/records/19295757/files/sdnne06-020.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
   - "Moniz, Manoel"
 palavras-chave:
   - "arquitetura moderna"

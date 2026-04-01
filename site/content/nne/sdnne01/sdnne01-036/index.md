@@ -38,7 +38,7 @@ authors:
     familyname: "Oliveira"
     affiliation: "UEMA"
     orcid: "0000-0002-2782-9332"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     affiliation: "UEMA"
     orcid: "0000-0002-9376-8689"
@@ -48,7 +48,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "1º Seminário Docomomo Norte/Nordeste: anais: Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade [recurso eletrônico] / comissão organizadora: Andréa Câmara... [et al.]. Recife: DEA-UNICAP; MDU-UFPE; CECI, 2006. 1 CD-ROM. 813 p. ISBN 978-85-98747-02-6"
 autores:
   - "Oliveira, Etianne Alves Souza de"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Século XX"
   - "Bangalô"

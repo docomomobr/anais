@@ -33,7 +33,7 @@ keywords_en:
   - "urban configuration"
   - "urban ghettos"
 authors:
-  - givenname: "Frederico de"
+  - givenname: "Frederico Rosa Borges de"
     familyname: "Holanda"
     affiliation: "UnB"
     orcid: "0000-0002-3592-2246"
@@ -46,7 +46,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19285524/files/sdbr07-022.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Brasil: anais: o moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2007. ISBN 978-85-60188-06-2"
 autores:
-  - "Holanda, Frederico de"
+  - "Holanda, Frederico Rosa Borges de"
   - "Vasconcellos, Rodrigo Botelho de Hollanda"
 palavras-chave:
   - "Palmas"

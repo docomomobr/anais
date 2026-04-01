@@ -10,6 +10,7 @@ slug: sdsp08-030
 type: artigo
 weight: 10
 event_title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
+event_location: "São Carlos, SP"
 event_date: "2022-08-23"
 event_isbn: "978-65-86810-58-5"
 event_publisher: "Núcleo Docomomo São Paulo / IAU-USP, UNIP"
@@ -42,7 +43,7 @@ keywords_es:
   - "Moderno"
   - "Deambular"
 authors:
-  - givenname: "Isabela Ignacio de"
+  - givenname: "Isabela Ignácio de"
     familyname: "Moura"
     orcid: "0000-0001-9149-0954"
   - givenname: "Karina Scussiato"
@@ -52,7 +53,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19290028/files/sdsp08-030.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5"
 autores:
-  - "Moura, Isabela Ignacio de"
+  - "Moura, Isabela Ignácio de"
   - "Pimentel, Karina Scussiato"
 palavras-chave:
   - "Arquitetura"

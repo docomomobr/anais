@@ -46,7 +46,7 @@ authors:
   - givenname: "Fernanda Millan"
     familyname: "Fachi"
     orcid: "0000-0003-4203-5335"
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
   - givenname: "Miguel Antônio"
@@ -58,7 +58,7 @@ license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "15º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade [recurso eletrônico] / organização: Ivo Renato Giroto et al. São Carlos, SP: IAU e FAU — Universidade de São Paulo, 2023. Disponível em: www.even3.com.br/anais/xv-seminario-docomomo-brasil-2023. ISBN 978-65-272-0196-0. DOI: 10.29327/1344945"
 autores:
   - "Fachi, Fernanda Millan"
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
   - "Buzzar, Miguel Antônio"
 palavras-chave:
   - "Plano de Ação"

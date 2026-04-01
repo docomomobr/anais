@@ -21,9 +21,10 @@ keywords:
   - "Change and continuity"
   - "Space configuration"
 authors:
-  - givenname: "Sonia"
+  - givenname: "Sônia Maria de Barros"
     familyname: "Marques"
-  - givenname: "Edja"
+    orcid: "0000-0003-0481-0118"
+  - givenname: "Edja Bezerra Faria"
     familyname: "Trigueiro"
     orcid: "0000-0003-2847-5326"
 doi: "10.5281/zenodo.19316690"
@@ -31,8 +32,8 @@ zenodo_pdf_url: "https://zenodo.org/records/19316691/files/idc06-028.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Conference Proceedings: Sixth International DOCOMOMO Conference: The Modern City Facing the Future [print] / editors: Anna Beatriz Galvão, coord.; Alejandra H. Muñoz; Hugo Segawa; Mirthes Baffi; Marina B. Donelli. Brasília, Brazil, September 19-22, 2000. Salvador: EDUFBA, [2002]. 358 p. il. 53 articles."
 autores:
-  - "Marques, Sonia"
-  - "Trigueiro, Edja"
+  - "Marques, Sônia Maria de Barros"
+  - "Trigueiro, Edja Bezerra Faria"
 palavras-chave:
   - "Modernist house"
   - "Change and continuity"

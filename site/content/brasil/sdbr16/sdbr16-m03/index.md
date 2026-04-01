@@ -1,0 +1,37 @@
+---
+title: "A casa moderna como museu de si mesma"
+date: 2025-12-01
+slug: sdbr16-m03
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "A casa moderna como museu de si mesma"
+section_seq: 2
+section_label: "sessão"
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_location: "Porto Alegre"
+event_date: "2025-12-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Marcavisual Editora"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+abstract: |
+  A Arquitetura Moderna, num sentido amplo, teve seu período mais produtivo entre os anos 15 e 60 do século XX e suas obras mais emblemáticas são hoje consideradas patrimônio histórico. Como tal, devem ser preservadas como testemunho de um período fundamental, em que houve profunda revisão na concepção estrutural, espacial e formal dos edifícios. A casa unifamiliar foi tema recorrente naquele período, como meio de experimentação e divulgação do ideário moderno. Sua produção inicia-se na Europa e dissemina-se para o restante do mundo. No Brasil, houve uma produção importante de casas unifamiliares modernas, principalmente a partir dos anos 30, com a ascensão da chamada Escola Carioca, e nos anos 50, quando começa a crescer a chamada Escola Paulista, com apogeu nos anos 60 e 70. À margem dos principais centros, portanto para além das escolas canônicas que costumam polarizar o debate da arquitetura moderna brasileira, mas também influenciadas por elas, há produções significativas que têm merecido atenção num panorama mais recente. Hoje, faz-se necessário preservar as casas unifamiliares emblemáticas daquele período, representantes de uma parte significativa do modernismo brasileiro. Segundo Brandi, “a restauração constitui o momento metodológico do reconhecimento da obra de arte, na sua consistência física e na sua dúplice polaridade estética e histórica, com vistas à transmissão para o futuro”1. Para Pellegrini, “merecem ser preservados o edifício que é uma obra de arte, produto de uma mente criativa distinta e excepcional, e o edifício que não é criação distinta nesse sentido, mas que possui de forma pronunciada as virtudes e características da escola de arquitetura que o produziu”. Há duas formas de preservação que representam boas práticas no que diz respeito à casa unifamiliar: na casa-museu o edifício é restaurado e seu principal acervo é o mobiliário original; na casa-galeria-de-arte o principal acervo são obras de arte, pertencentes ou não ao proprietário original. Em ambos os casos, são casas que resistiram ao tempo e se converteram em museus de si próprias, abertas ao público. Uma terceira situação possível, eventualmente mais difícil de ser identificada, compreende casas que seguem sendo habitadas, preservando sua materialidade e espacialidade originais, móveis e outros objetos, como “cápsulas do tempo”, potenciais casas-museu em futuro próximo. A fim de propor um debate sobre a vigência do moderno e das boas práticas para sua preservação, são esperados, na presente sessão, trabalhos que apresentem novas abordagens a respeito de obras canônicas, mas também pesquisas que busquem expandir o campo através de obras menos conhecidas, oriundas de manifestações diversas da arquitetura moderna no território do sul global e no amplo período abarcado pelo evento. A sessão tem foco no patrimônio moderno edificado, mas também pode contemplar casas modernas objetos de projetos de ampliações, expansões, anexos, medidas de proteção, restauros e expografias.
+authors:
+  - givenname: "Sílvia Lopes Carneiro"
+    familyname: "Leão"
+    orcid: "0000-0001-9109-8127"
+  - givenname: "Daniel Pitta"
+    familyname: "Fischmann"
+    orcid: "0009-0002-8082-4853"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Leão, Sílvia Lopes Carneiro"
+  - "Fischmann, Daniel Pitta"
+---

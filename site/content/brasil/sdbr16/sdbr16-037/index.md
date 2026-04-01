@@ -1,0 +1,34 @@
+---
+title: "O petróleo é nosso — REFAP, TEDUT, FAMP e EA"
+date: 2025-12-01
+slug: sdbr16-037
+type: artigo
+document_type: resumo
+weight: 10
+section_title: "A Petrobrás é nossa"
+section_seq: 4
+section_label: "sessão"
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_location: "Porto Alegre"
+event_date: "2025-12-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Marcavisual Editora"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+pdf_file: "sdbr16-037.pdf"
+abstract: |
+  A campanha “O Petróleo é nosso”, evidenciava a face progressista da Petrobras, desde os governos Getúlio Vargas (1951/1954) até João Goulart (1961/1964), passando pelo empenho do governador Leonel de Moura Brizola (1959/1963) em trazer a Refinaria Alberto Pasqualini para o Estado. Na carona do espírito desenvolvimentista e da independência energética, a Petrobras enxergava na construção de suas instalações a oportunidade de constituir uma imagem de modernidade signatária da identidade nacional almejada. O Engenheiro José Carlos Wellausen, funcionário da Petrobras, foi encarregado de selecionar os arquitetos para a realização dos projetos que traziam em seu bojo a vocação de obras representativas da Arquitetura Moderna na região. Conjuntamente com o IAB/RS, escolheram Carlos M. Fayet (1930/2009), Cláudio L. G. Araújo (1931/2016), Moacyr Moojen Marques (1930/2017) que por sua vez convidaram Miguel Alves Pereira (1932/2014). O plano diretor, partiu de premissas determinadas pela equipe: aproveitamento dos valores da paisagem local e organização geral das edificações de forma a constituir espaços urbanos inseridos nesta paisagem e relacionados entre si. A estratégia do projeto urbanístico preservou a topografia natural e a mata nativa, localizando nas partes mais altas os edifícios, em quatro conjuntos, de forma a estabelecer relações urbanísticas. A arquitetura dos pavilhões associou-se formalmente à ideia de abstração a partir de certo repertório formal e tipológico, onde tectônico e materialidade foram fios condutores, criando sistema arquitetônico - através do desenho apurado de pilares, vigas e vigas-calhas, pré-moldados e coberturas, painéis de fechamento lateral, panos de alumínio, fibrocimento, fórmica, elementos vazados, tijolos à vista e caixilharia de vidro - como um “lego”, montado a partir da tipologia dominante. Dotados de diversos graus de intermediação entre construção e paisagem, sistema tipológico e construtivo, inovação tecnológica e pioneirismo ambiental, a REFAP e TEDUT são uma das melhores experiências formais da Arquitetura e Urbanismos Modernos Brasileiro no Sul.
+authors:
+  - givenname: "Sérgio Moacir"
+    familyname: "Marques"
+    orcid: "0000-0003-0355-7923"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Marques, Sérgio Moacir"
+---

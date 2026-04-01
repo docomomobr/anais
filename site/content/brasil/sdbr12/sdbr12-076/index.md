@@ -34,7 +34,7 @@ keywords_en:
   - "modern architecture"
   - "ruine"
 authors:
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
   - givenname: "Victória Batista"
@@ -44,7 +44,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19077221/files/sdbr12-076.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "12º Seminário Docomomo Brasil: anais: Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade [recurso eletrônico] / organização: Maria Beatriz Camargo Cappello e Maria Marta Camisassa. Uberlândia: EDUFU, 2017. ISBN 978-85-64554-03-0"
 autores:
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
   - "Pereira, Victória Batista"
 palavras-chave:
   - "Edifício João Goulart"

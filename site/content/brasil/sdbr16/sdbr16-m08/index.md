@@ -1,0 +1,36 @@
+---
+title: "Arquitetura como personagem. O poder narrativo do espaço construído no cinema"
+date: 2025-12-01
+slug: sdbr16-m08
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "Arquitetura como personagem. O poder narrativo do espaço construído no cinema"
+section_seq: 7
+section_label: "sessão"
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_location: "Porto Alegre"
+event_date: "2025-12-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Marcavisual Editora"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+abstract: |
+  Esta sessão propõe uma reflexão sobre como a arquitetura transcende sua função de cenário no cinema para se tornar um elemento narrativo fundamental, uma espécie de “personagem silencioso” que comunica emoções, conflitos e identidades. Fugindo da máxima de que o espaço arquitetônico pode ou não influenciar uma cena, sendo meramente pano de fundo, mas sim um agente ativo na construção de significados, buscamos artigos que explorem essa relação complexa entre arquitetura e narrativa fílmica. Tomando como exemplo emblemático “A Single Man” (2009), onde a arquitetura moderna californiana (Schaffer House, 1949) não apenas ambienta, mas define psicologicamente o personagem principal - sua transparência, frieza e linhas precisas dialogam diretamente com a personalidade do protagonista e sua situação emocional -, propomos uma análise aprofundada de como o cinema utiliza o espaço construído como extensão da psique humana. Da mesma forma, obras como “Blade Runner” (1982), “Metrópolis” (1927), “São Paulo Sociedade Anônima” (1965) e “Laranja Mecânica” (1971) demonstram como a arquitetura pode assumir papéis narrativos diversos, desde espelho de distopias sociais até catalisador de tensões psicológicas. No contexto brasileiro, essa relação se mostra particularmente rica e significativa. Produções como “Ainda Estou Aqui” (2024) transformam a arquitetura em metáfora poderosa - a casa em construção como representação de sonhos que se desfazem junto com o projeto assim que o protagonista é assassinado. Já em “Aquarius” (2016), o edifício é um marco no debate da especulação imobiliária, se tornando um divisor de águas entre a preserva­ção de memória ou a ruptura para o mercado imobiliário. “Carandiru” (2003) transforma as grades e as paredes em reflexos da violência sistemática de homens que são empilhados como animais e sobrevivem em situações desumanas. “Que horas ela volta?” (2015) liderou o debate sobre o quarto de empregada e o elitismo promovido dentro da sociedade brasileira burguesa e a demanda arquitetônica, sustentando hábitos coloniais velados até os dias de hoje. O icônico Copan, presente em inúmeras produções brasileiras, como em “Bom dia Verônica” (2020) se torna um cenário de refúgio e flerta com o passado de foragidos, assim como outros marcos da arquitetura moderna brasileira que frequentam nossas novelas e filmes, deixam de ser simples locações para se tornarem símbolos da brasilidade, da urbanidade e das complexas relações sociais que definem nosso imaginário coletivo. Esta sessão pretende reunir análises que explorem como a arquitetura moderna, em suas diversas manifestações, é apropriada pelo cinema para: • Construir atmosferas e estados psicológicos; • Representar ideologias e contextos sociais; • Servir como metáfora visual para conflitos narrativos; • Preservar e ressignificar o patrimônio arquitetônico no imaginário cultural. Convidamos pesquisadores a submeterem trabalhos que, através de estudos de caso específicos ou abordagens teóricas mais amplas, contribuam para esta discussão sobre como o espaço construído fala - muitas vezes mais eloquente que os próprios diálogos - nas narrativas cinematográficas, especialmente no que diz respeito à arquitetura moderna e sua relação com a identidade brasileira.
+authors:
+  - givenname: "Ana Carolina Buim Azevedo"
+    familyname: "Marques"
+    orcid: "0000-0003-1568-7231"
+  - givenname: "Rafael"
+    familyname: "d'Andrea"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Marques, Ana Carolina Buim Azevedo"
+  - "d'Andrea, Rafael"
+---

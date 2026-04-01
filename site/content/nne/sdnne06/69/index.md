@@ -30,7 +30,7 @@ keywords:
 abstract_en: |
   This Scientific Initiation research performed a study about urban ideas inserted in a plan elaborated by the architect named Wit Olaf Prochinik, for the city of São Luís – Maranhão. In 1977, in the management of Haroldo Tavares, the mayor at the time, the goal was to rescue this initiative of urban planning, resulting in the city first main plan and faced issues such as road infrastructure organization, land use policy, proposing city development hypothesis, including historical architectural heritage appreciation of São Luís. The theoretical background understands the economic context of Maranhão through the autors Burnett (2012), and the scenario of urban planning , in 1970, in Brazil, authors such as Castells (2013), Choay (1979), Arantes and Maricato (2013) understanding these ideas, exercised strong influences in São Luís planning. We proceed furthermore, an analysis of the work and the urban ideas of the architect Wit Olaf Prochinik and his propositions for São Luís, basing on contemporaneity. Finally, the research faces the proposed ideas made by the mayor and the architect in 1977 with the urban planning guide lines in the XXI century in São Luís. Towards the proposed challenges by current master plan review.
 authors:
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
   - givenname: "Lara Serra Pinto de"
@@ -40,7 +40,7 @@ doi: "10.5281/zenodo.19296069"
 zenodo_pdf_url: "https://zenodo.org/records/19296070/files/sdnne06-069.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
   - "Alencar, Lara Serra Pinto de"
 palavras-chave:
   - "urbanismo moderno"

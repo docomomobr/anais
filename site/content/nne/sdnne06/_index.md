@@ -11,7 +11,7 @@ event_isbn: "978-85-7463-919-2"
 event_publisher: "UFPI"
 editors: "Alcília Afonso"
 description: |
-  AFONSO, Alcília (org.). Anais do 6º Seminário Docomomo Norte/Nordeste: Arquitetura — tectônica e lugar. Teresina: EDUFPI, 2016. 200 p. ISBN 978-85-7463-919-2. 109 trabalhos: 66 artigos completos (recebidos por email) e 43 resumos publicados no caderno de resumos. Seminário realizado em Teresina de 10 a 13 de agosto de 2016.
+  6° Seminário Docomomo Norte/Nordeste: anais: Arquitetura — tectônica e lugar [recurso eletrônico] / organização: Alcília Afonso. Teresina, PI: UFPI, 2016. ISBN: 978-85-7463-919-2.
 cover: "sdnne06.png"
 volume_pdf: "https://zenodo.org/records/19354641/files/6docomomoNNE_caderno_de_resumos.pdf"
 volume_pdf_label: "Caderno de resumos (200 p., ISBN 978-85-7463-919-2)"

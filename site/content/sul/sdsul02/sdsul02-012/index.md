@@ -22,8 +22,8 @@ event_year: 2008
 locale: "pt-BR"
 pdf_file: "sdsul02-012.pdf"
 authors:
-  - givenname: "Maribel Aliaga"
-    familyname: "Fuentes"
+  - givenname: "Maribel"
+    familyname: "Aliaga Fuentes"
     affiliation: "PROPAR-UFRGS"
     orcid: "0000-0001-8244-8412"
 doi: "10.5281/zenodo.19290866"
@@ -31,7 +31,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19290867/files/sdsul02-012.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "2º Seminário Docomomo Sul: anais: concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70 [recurso eletrônico] / organização: Carlos Eduardo Comas, Edson Mahfuz, Airton Cattani. Porto Alegre: PROPAR-UFRGS, 2008. 1 CD-ROM. Disponível em: www.ufrgs.br/propar/anais-do-2o-seminario-docomomo-sul/. ISBN 978-85-60188-09-3"
 autores:
-  - "Fuentes, Maribel Aliaga"
+  - "Aliaga Fuentes, Maribel"
 ---
 
 ## Referências

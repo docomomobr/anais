@@ -32,14 +32,15 @@ keywords:
   - "João Filgueiras, Lima"
   - "Eduardo Negri"
 authors:
-  - givenname: "Luiz Eduardo Sarmento"
-    familyname: "Araujo"
+  - givenname: "Luiz Eduardo"
+    familyname: "Sarmento"
+    orcid: "0000-0002-9077-5007"
 doi: "10.5281/zenodo.19078022"
 zenodo_pdf_url: "https://zenodo.org/records/19078023/files/sdbr14-030.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
-  - "Araujo, Luiz Eduardo Sarmento"
+  - "Sarmento, Luiz Eduardo"
 palavras-chave:
   - "Arquitetura Moderna de Brasília"
   - "Conservação do Patrimônio Moderno"

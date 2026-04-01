@@ -18,15 +18,15 @@ locale: "en"
 pages: "83-87"
 pdf_file: "idc06-017.pdf"
 authors:
-  - givenname: "Márcio"
+  - givenname: "Márcio Correia"
     familyname: "Campos"
-    orcid: "0000-0001-7409-3228"
+    orcid: "0000-0003-1038-5023"
 doi: "10.5281/zenodo.19316615"
 zenodo_pdf_url: "https://zenodo.org/records/19316616/files/idc06-017.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Conference Proceedings: Sixth International DOCOMOMO Conference: The Modern City Facing the Future [print] / editors: Anna Beatriz Galvão, coord.; Alejandra H. Muñoz; Hugo Segawa; Mirthes Baffi; Marina B. Donelli. Brasília, Brazil, September 19-22, 2000. Salvador: EDUFBA, [2002]. 358 p. il. 53 articles."
 autores:
-  - "Campos, Márcio"
+  - "Campos, Márcio Correia"
 ---
 
 ## Referências

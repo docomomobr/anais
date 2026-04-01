@@ -7,6 +7,7 @@ weight: 10
 event_title: "2º Seminário Docomomo Paraná, Londrina, 2012"
 event_location: "Londrina, PR"
 event_date: "2012-10-01"
+event_isbn: "978-85-61986-40-7"
 event_publisher: "UniFil / Núcleo Docomomo Paraná"
 event_slug: sdpr02
 ambito: sul

@@ -25,10 +25,10 @@ pdf_file: "sdsul08-018.pdf"
 abstract: |
   A presente comunicação é resultado da pesquisa intitulada “Ícones modernos malditos: do apogeu ao ocaso”, desenvolvida na Faculdade de Arquitetura da Universidade Federal da Bahia. O estudo tem por objetivo revisitar obras paradigmáticas entendidas como emblemáticas pela historiografia do movimento moderno; porém, hoje consideradas como estigmatizadas. Neste trabalho em específico, propomos discutir um dos casos mais simbólicos da América Latina: as transformações e impactos ocorridos ao longo da década de 1950 na cidade de Caracas (Venezuela). Tomamos partido, para isso, do levantamento e análise do conteúdo publicado em revistas nacionais e internacionais, além de bibliografias especializadas sobre a história urbana venezuelana, com ênfase nesse recorte temporal. Este período coincide com o governo militar de Marcos Pérez Jiménez (1952-1958), caracterizado, de um lado, pelo boom econômico resultado da exploração de jazidas de petróleo que possibilitaram uma série de intervenções e reformas urbanas sem precedentes e, por outro lado, intensos processos de migração e consolidação da chamada cidade popular; as grandes obras públicas refletem não só a transformação da paisagem existente, mas, também, a busca pela criação de uma cidade e sociedade idealizada.
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     orcid: "0000-0001-6776-8821"
-  - givenname: "Ruan Carlos Marques"
+  - givenname: "Ruan Carlos Marques dos"
     familyname: "Santos"
     orcid: "0009-0003-0745-6553"
 doi: "10.5281/zenodo.19292425"
@@ -36,8 +36,8 @@ zenodo_pdf_url: "https://zenodo.org/records/19292426/files/sdsul08-018.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo Sul: anais: infraestrutura / superestrutura, cone sul global [recurso eletrônico] / organização: Sergio M. Marques, Carlos Eduardo Comas, Silvia Leão, Daniel Pitta, Monica L. Bohrer. Porto Alegre: Marcavisual, 2025. Disponível em: www.ufrgs.br/propar/. ISBN 978-85-61965-82-2"
 autores:
-  - "Espinoza, José Carlos Huapaya"
-  - "Santos, Ruan Carlos Marques"
+  - "Huapaya Espinoza, José Carlos"
+  - "Santos, Ruan Carlos Marques dos"
 ---
 
 ## Referências

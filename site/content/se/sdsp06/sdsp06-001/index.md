@@ -9,6 +9,7 @@ section_title: "Modos de usar a cidade: espaços educacionais"
 section_seq: 1
 section_label: "mesa"
 event_title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
+event_location: "São Carlos, SP"
 event_date: "2018-09-24"
 event_isbn: "978-85-66624-25-0"
 event_publisher: "Núcleo Docomomo São Paulo / IAU-USP"
@@ -35,7 +36,7 @@ keywords_en:
   - "Pedagogical Methods"
   - "Modern Motion"
 authors:
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
 doi: "10.5281/zenodo.19289356"
@@ -43,7 +44,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19289357/files/sdsp06-001.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "6º Seminário Docomomo São Paulo: anais: a Arquitetura Moderna paulista e a questão social [recurso eletrônico] / organização: Miguel Antonio Buzzar, Fernando Guillermo Vázquez Ramos, Paulo Yasuhide Fujioka. São Carlos: IAU-USP, 2018. 609 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-85-66624-25-0"
 autores:
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
 palavras-chave:
   - "Arquitetura Escolar"
   - "Métodos Pedagógicos"

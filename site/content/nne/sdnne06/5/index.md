@@ -28,7 +28,7 @@ authors:
   - givenname: "Lúcia Moreira do"
     familyname: "Nascimento"
     orcid: "0000-0001-8250-0719"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19295976"
@@ -36,7 +36,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19295977/files/sdnne06-005.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Nascimento, Lúcia Moreira do"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "produção arquitetônica"
   - "arquitetura moderna"

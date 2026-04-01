@@ -10,7 +10,7 @@ event_location: "São Paulo"
 event_isbn: "85-85205-56-3"
 event_publisher: "FAU-USP"
 description: |
-  3° Seminário Docomomo Brasil: anais: A permanência do moderno [recurso eletrônico]. São Carlos: EESC-USP, 1999. ISBN: 85-85205-56-3.
+  3° Seminário Docomomo Brasil: anais: A permanência do moderno [recurso eletrônico]. São Paulo: FAU-USP, 1999. ISBN: 85-85205-56-3.
 cover: "sdbr03.png"
 article_count: 58
 event_state: "SP"

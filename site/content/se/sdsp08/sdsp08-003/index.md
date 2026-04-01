@@ -8,6 +8,7 @@ section_title: "Homenageados"
 section_seq: 1
 section_label: "eixo temático"
 event_title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
+event_location: "São Carlos, SP"
 event_date: "2022-08-23"
 event_isbn: "978-65-86810-58-5"
 event_publisher: "Núcleo Docomomo São Paulo / IAU-USP, UNIP"
@@ -22,7 +23,7 @@ locale: "pt-BR"
 pages: "31-42"
 pdf_file: "sdsp08-003.pdf"
 authors:
-  - givenname: "Jasmine Luiza Souza"
+  - givenname: "Jasmine Luiza Souza Silva"
     familyname: "Silva"
     orcid: "0000-0001-6156-4086"
 doi: "10.5281/zenodo.19289842"
@@ -30,7 +31,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19289843/files/sdsp08-003.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "8º Seminário Docomomo São Paulo: anais: a Arquitetura e Urbanismo Modernos e os acervos [recurso eletrônico] / organização: Miguel Antonio Buzzar et al. São Carlos: IAU-USP, 2022. 610 p. Disponível em: www.nucleodocomomosp.com.br. ISBN 978-65-86810-58-5"
 autores:
-  - "Silva, Jasmine Luiza Souza"
+  - "Silva, Jasmine Luiza Souza Silva"
 ---
 
 ## Referências

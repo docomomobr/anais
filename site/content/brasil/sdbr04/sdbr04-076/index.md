@@ -29,11 +29,11 @@ abstract: |
   O Projeto de Restauração e Revitalização do Palácio Gustavo Capanema desenvolvido no Setor Técnico da Administração do PGC / IPHAN procurou além de promover a restauração e conservação do bem tombado, inclusive de todo o acervo de obras de arte e mobiliário original, modernizar sua infra-estrutura, otimizar a ocupação dos espaços e potencializar a vocação cultural do prédio.
   Foram restaurados os espaços originalmente projetados para uso público — Salão de Conferências com capacidade de 400 lugares, reversível para apresentações de música de câmara e projeções de cinema e Salão de Exposições — e adaptados para serem abertos ao público alguns espaços originalmente pouco acessíveis ao visitante comum. Neste caso se enquadra o 2º pavimento, antigo gabinete do Ministro de Estado, que possui como atrativos o Hall Nobre onde está localizado um grande afresco de Cândido Portinari — Jogos Infantis —, o Salão Portinari com suas paredes revestidas com os belos afrescos representando os Ciclos Econômicos e, ainda, uma exposição denominada "1937-1945 A Construção do Moderno".
 authors:
-  - givenname: "Paulo Eduardo"
-    familyname: "Vidal Leite Ribeiro"
+  - givenname: "Paulo Eduardo Vidal Leite"
+    familyname: "Ribeiro"
     affiliation: "MinC"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "4º Seminário Docomomo Brasil: anais: a Arquitetura moderna brasileira e os processos regionais de industrialização [recurso eletrônico] / organização: Maria Marta Camisassa. Viçosa: UFV, 2001."
 autores:
-  - "Vidal Leite Ribeiro, Paulo Eduardo"
+  - "Ribeiro, Paulo Eduardo Vidal Leite"
 ---

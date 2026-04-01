@@ -11,7 +11,7 @@ event_isbn: "978-85-88157-16-3"
 event_publisher: "Núcleo Docomomo São Paulo / Editora Altermarket"
 editors: "Audrey Migliani Anticoli, Fernanda Critelli, Silvia Raquel Chiarelli, Tais Ossani"
 description: |
-  5° Seminário Docomomo São Paulo: anais: Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão [recurso eletrônico] / organização: Audrey Migliani Anticoli et al.. São Paulo: Alter Market, 2017. Disponível originalmente em: www.nucleodocomomosp.com.br/5-seminario. ISBN: 978-85-88157-16-3.
+  5° Seminário Docomomo São Paulo: anais: Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão [recurso eletrônico] / organização: Audrey Migliani Anticoli et al.. São Paulo, SP: Núcleo Docomomo São Paulo / Editora Altermarket, 2017. ISBN: 978-85-88157-16-3. Disponível originalmente em: www.nucleodocomomosp.com.br/5-seminario. ISBN: 978-85-88157-16-3.
 cover: "sdsp05.png"
 volume_pdf: "https://zenodo.org/records/19354377/files/sdsp05_anais.pdf"
 article_count: 68

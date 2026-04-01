@@ -11,7 +11,7 @@ event_isbn: "978-85-509-0555-6"
 event_publisher: "UFBA"
 editors: "José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa"
 description: |
-  2° Seminário Docomomo Brasil: anais: Novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa. Teresina: EDUFPI, 1997. ISBN: 978-85-509-0555-6.
+  2° Seminário Docomomo Brasil: anais: Novas formulações no campo da Arquitetura e Urbanismo [recurso eletrônico] / organização: José Carlos Huapaya Espinoza, Rômulo Marques, Thiscianne Pessoa. Salvador: UFBA, 1997. ISBN: 978-85-509-0555-6.
 cover: "sdbr02.png"
 volume_pdf: "https://zenodo.org/records/19070718/files/sdbr02_anais.pdf"
 article_count: 24

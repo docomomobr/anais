@@ -39,6 +39,7 @@ authors:
     orcid: "0000-0002-0678-1659"
   - givenname: "Bruno Pedro Alves de"
     familyname: "Campos"
+    orcid: "0009-0009-5940-170X"
 doi: "10.5281/zenodo.19292151"
 zenodo_pdf_url: "https://zenodo.org/records/19292152/files/sdsul07-015.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -22,8 +22,8 @@ event_year: 1995
 locale: "pt-BR"
 pdf_file: "sdbr01-001.pdf"
 authors:
-  - givenname: "José Carlos Huapaya"
-    familyname: "Espinoza"
+  - givenname: "José Carlos"
+    familyname: "Huapaya Espinoza"
     affiliation: "UFBA"
     orcid: "0000-0001-6776-8821"
   - givenname: "Caio Anderson da Silva de"
@@ -34,7 +34,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19079959/files/sdbr01-001.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil [recurso eletrônico]: Docomomo Brasil / organizadores: José Carlos Huapaya Espinoza, Alexandre Pajeú Moura. Salvador, BA: Instituto de Arquitetos do Brasil, Departamento da Bahia; PPGAU-UFBA, 2020. 98 p. il. Edição comemorativa 25 anos de Docomomo Brasil. ISBN 978-85-66843-07-1. Disponível também em: https://repositorio.ufba.br/handle/ri/31446"
 autores:
-  - "Espinoza, José Carlos Huapaya"
+  - "Huapaya Espinoza, José Carlos"
   - "Almeida, Caio Anderson da Silva de"
 ---
 

@@ -41,7 +41,7 @@ keywords_es:
   - "residencias modernistas"
   - "Alcyr Meira y Cléon Furtado"
 authors:
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
   - givenname: "Livia"
@@ -53,7 +53,7 @@ zenodo_pdf_url: "https://zenodo.org/records/19294194/files/sdnne07-022.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "7º Seminário Docomomo Norte/Nordeste: anais: tradição nativa, universalidade e conservação [recurso eletrônico]. Manaus: EDUA, 2018. Disponível em: 7docomomomanaus.weebly.com/artigos.html. ISBN 978-85-526-0057-2"
 autores:
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
   - "Furtado, Livia"
 palavras-chave:
   - "arquitetura moderna em São Luís e Belém"

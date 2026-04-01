@@ -11,7 +11,7 @@ event_isbn: "978-65-00-56400-6"
 event_publisher: "UNDB"
 editors: "Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes"
 description: |
-  9° Seminário Docomomo Norte/Nordeste: anais: Arquitetura, paisagem e cultura — Ecos da modernidade [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes. São Luís, MA: UNDB, 2022. Disponível originalmente em: docomomobrasil.com/course/9-seminario-docomomo-n-ne-sao-luis-2022. ISBN: 978-65-00-56400-6.
+  9° Seminário Docomomo Norte/Nordeste: anais: Arquitetura, paisagem e cultura — Ecos da modernidade [recurso eletrônico] / organização: Alcília Afonso de Albuquerque e Melo, José Antonio Viana Lopes. São Luís, MA: UNDB, 2022. ISBN: 978-65-00-56400-6. Disponível originalmente em: docomomobrasil.com/course/9-seminario-docomomo-n-ne-sao-luis-2022. ISBN: 978-65-00-56400-6.
 cover: "sdnne09.png"
 article_count: 50
 event_state: "MA"

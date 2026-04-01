@@ -48,7 +48,7 @@ authors:
   - givenname: "Hermes da"
     familyname: "Fonseca Neto"
     orcid: "0000-0002-5140-2232"
-  - givenname: "Grete Soares"
+  - givenname: "Grete Soares -"
     familyname: "Pflueger"
     orcid: "0000-0002-9376-8689"
 doi: "10.5281/zenodo.19295246"
@@ -58,7 +58,7 @@ ficha_catalografica: "10º Seminário Docomomo Norte/Nordeste: anais: Conservar 
 autores:
   - "Silva, Hilquias de Castro Feitosa da"
   - "Fonseca Neto, Hermes da"
-  - "Pflueger, Grete Soares"
+  - "Pflueger, Grete Soares -"
 palavras-chave:
   - "Arquitetura Moderna"
   - "São Luís, Braga Diniz"
