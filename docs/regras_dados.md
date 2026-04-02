@@ -321,3 +321,31 @@ NOMES_PROPRIOS = {'niemeyer', 'brasília', 'pedregulho', ...}  # Capitalizar
 | Artigo Sul | `sdsul{NN}-{NNN}` | sdsul03-001 |
 | Artigo Rio | `sdrj{NN}-{NNN}` | sdrj04-001 |
 | Seminário | `sdbr{NN}` / `sdnne{NN}` / etc. | sdbr12, sdnne07 |
+| Mesa | `sdbr{NN}-m{NN}` | sdbr16-m01 |
+
+## Seções (sessões / eixos temáticos)
+
+### Campos na tabela `sections`
+
+| Campo | Descrição |
+|-------|-----------|
+| `title` | Título da seção |
+| `seq` | Ordem de exibição (0-based). Deve seguir a ordem do volume de anais publicado |
+| `abbrev` | Abreviatura (opcional, para URLs curtas) |
+| `hide_title` | Se 1, seção existe no banco mas não é exibida no site (seções genéricas como "Artigos") |
+
+### Campo `section_label` na tabela `seminars`
+
+O campo `section_label` do seminário define o prefixo exibido antes do título de cada seção no site Hugo. O `db2hugo.py` emite `section_label` e `section_seq` no frontmatter de cada artigo; o template Hugo renderiza como `"{label} {seq} — {título}"`.
+
+| Valor de `section_label` | Resultado no site | Quando usar |
+|--------------------------|-------------------|-------------|
+| `"eixo temático"` | "Eixo Temático 1 — Título" | Seminários com eixos temáticos numerados na fonte original |
+| `"sessão"` | "Sessão 1 — Título" | Seminários com sessões numeradas na fonte original |
+| `"mesa"` | "Mesa 1 — Título" | Seminários organizados por mesas |
+| `"parte"` | "Parte 1 — Título" | Divisões genéricas numeradas |
+| `""` (vazio) | Só o título, sem prefixo nem número | Seminários cuja fonte original não numera as seções |
+
+**Regra:** O `section_label` deve refletir a fonte original (volume de anais, programação, caderno de resumos). Se a fonte não numera as seções, o campo fica vazio — não inventar numeração.
+
+**Referência por seminário:** `docs/fontes_secoes.md` documenta a fonte e o label de cada seminário.
