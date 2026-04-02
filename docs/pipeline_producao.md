@@ -259,43 +259,39 @@ Verificar:
 
 ## Fase 3 — Deploy
 
-### 3.1. Configurar GitHub Actions
+### 3.1. GitHub Actions — deploy automático
 
-Criar `.github/workflows/hugo.yml`:
+O deploy é automático via `.github/workflows/deploy.yml`. A cada push na branch `main`, o workflow:
 
-```yaml
-name: Deploy Hugo site
-on:
-  push:
-    branches: [gh-pages]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-      - run: hugo --minify
-        working-directory: site
-      - run: npx pagefind --site site/public
-      - uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site/public
-          cname: anais.docomomobrasil.com
-```
+1. Reconstrói o banco a partir de `anais.sql`
+2. **Limpa** todo o conteúdo Hugo gerado (`site/content/brasil/`, `site/content/sul/` etc.)
+3. **Gera** conteúdo apenas para os seminários listados na variável `SEMINARS`
+4. Build Hugo + Pagefind
+5. Deploy para GitHub Pages
 
-### 3.2. Deploy
+**TRAVA DE PUBLICAÇÃO:** O workflow contém uma lista explícita de seminários autorizados para publicação (`env: SEMINARS`). Mesmo que `site/content/` de um seminário não autorizado seja commitado no repo, ele será **apagado** antes do build. Isso impede publicação acidental.
+
+### 3.2. Publicar um novo seminário no site
+
+Para publicar um seminário que completou a revisão:
+
+1. Editar `.github/workflows/deploy.yml`
+2. Adicionar o slug na variável `SEMINARS` (ex: `sdbr16`)
+3. Commit e push — o deploy inclui o novo seminário automaticamente
 
 ```bash
-# Gerar conteúdo e buildar
-python3 scripts/db2hugo.py --all --outdir site/content
-cd site && hugo
-
-# Commit do conteúdo gerado na branch gh-pages
-# (ou push para main se o workflow monitora main)
+# Exemplo: publicar sdbr16
+# Editar .github/workflows/deploy.yml, adicionar sdbr16 à lista SEMINARS
+git add .github/workflows/deploy.yml
+git commit -m "deploy: publicar sdbr16 no site"
+git push
 ```
+
+**NÃO** usar `db2hugo.py --all` + commit de `site/content/` como forma de publicar. A geração de conteúdo acontece no workflow, não localmente.
+
+### 3.3. Atualizar seminários já publicados
+
+Alterações no banco (títulos, abstracts, refs, autores) são automaticamente refletidas no próximo deploy — basta fazer push de `anais.sql`. O workflow regenera o conteúdo Hugo a partir do banco.
 
 ### 3.3. Configurar DNS
 
