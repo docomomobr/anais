@@ -27,8 +27,22 @@ jobs:
         run: pip install pyyaml
 
       - name: Generate Hugo content from database
+        env:
+          # Seminários autorizados para publicação no site.
+          # Para adicionar um novo seminário, inclua o slug aqui.
+          SEMINARS: >-
+            sdbr01 sdbr02 sdbr03 sdbr04 sdbr05 sdbr06 sdbr07 sdbr08 sdbr09
+            sdbr10 sdbr11 sdbr12 sdbr13 sdbr14 sdbr15
+            sdsul01 sdsul02 sdsul03 sdsul04 sdsul05 sdsul06 sdsul07 sdsul08
+            sdpr01 sdpr02 sdmg01
+            sdrj02 sdrj03 sdrj04
+            sdnne01 sdnne02 sdnne03 sdnne04 sdnne05 sdnne06 sdnne07 sdnne08 sdnne09 sdnne10
+            sdsp03 sdsp05 sdsp06 sdsp07 sdsp08 sdsp09
+            idc06
         run: |
-          for s in sdbr01 sdbr02 sdbr03 sdbr04 sdbr05 sdbr06 sdbr07 sdbr08 sdbr09 sdbr10 sdbr11 sdbr12 sdbr13 sdbr14 sdbr15; do
+          # Limpar conteúdo pré-existente (evita publicar seminários não autorizados)
+          rm -rf site/content/brasil/ site/content/sul/ site/content/se/ site/content/nne/ site/content/internacional/
+          for s in $SEMINARS; do
             python3 scripts/db2hugo.py --seminar $s --outdir site/content
           done
 
