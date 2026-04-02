@@ -5947,5 +5947,8 @@ INSERT INTO "dict_names" VALUES('pahor','nome','Pahor','autores');
 INSERT INTO "dict_names" VALUES('polakowski','nome','Polakowski','autores');
 INSERT INTO "dict_names" VALUES('tamiris','nome','Tamiris','autores');
 INSERT INTO "dict_names" VALUES('tomas','nome','Tomas','autores');
+INSERT INTO "dict_names" VALUES('annabia','nome','Annabia','autores');
+INSERT INTO "dict_names" VALUES('merli','nome','Merli','autores');
+INSERT INTO "dict_names" VALUES('sperandio','nome','Sperandio','autores');
 CREATE INDEX idx_dict_category ON dict_names(category);
 COMMIT;
