@@ -17534,7 +17534,7 @@ INSERT INTO "sections" VALUES(354,'sdbr16','Arquitetura Moderna hospitalar: proj
 INSERT INTO "sections" VALUES(355,'sdbr16','Arquitetura para a sociedade a partir do Estado',NULL,10,0);
 INSERT INTO "sections" VALUES(356,'sdbr16','Arquitetura residencial e escolar, empresa conjugal',NULL,11,0);
 INSERT INTO "sections" VALUES(357,'sdbr16','Arquitetura sob ameaça: demolições e resistências na salvaguarda do Patrimônio Moderno',NULL,12,0);
-INSERT INTO "sections" VALUES(358,'sdbr16','Arquitetura, Urbanismo, e a diversidade da experiência moderna Brasil',NULL,13,0);
+INSERT INTO "sections" VALUES(358,'sdbr16','Arquitetura, Urbanismo e a diversidade da experiência moderna no Brasil',NULL,13,0);
 INSERT INTO "sections" VALUES(359,'sdbr16','As origens tropicais da Arquitetura Moderna',NULL,14,0);
 INSERT INTO "sections" VALUES(360,'sdbr16','Bilateralidades',NULL,15,0);
 INSERT INTO "sections" VALUES(361,'sdbr16','Cidades universitárias como estruturas urbanas, 1930-1970',NULL,16,0);
@@ -17559,7 +17559,7 @@ INSERT INTO "sections" VALUES(380,'sdbr16','Viagens e Arquitetura',NULL,35,0);
 INSERT INTO "sections" VALUES(381,'sdbr16','Monumentalidades americanas',NULL,99,0);
 INSERT INTO "sections" VALUES(382,'sdbr16','Itália, França e Bahia',NULL,99,0);
 INSERT INTO "sections" VALUES(383,'sdbr16','O Moderno a partir e por meio do Contemporâneo: o agora e o porvir',NULL,99,0);
-INSERT INTO "sections" VALUES(384,'sdbr16','Depois dos pilotis: uma estratégia projetual em 100 anos de Arquitetura Brasileira',NULL,99,0);
+INSERT INTO "sections" VALUES(384,'sdbr16','Depois dos pilotis: uma estratégia projetual em 100 anos de Arquitetura brasileira',NULL,99,0);
 CREATE TABLE seminars (
     slug TEXT PRIMARY KEY,
     title TEXT NOT NULL,
