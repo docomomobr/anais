@@ -6,9 +6,9 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
-### 2026-04-06 — sdbr16 produção Zenodo + deploy
+### 2026-04-06 — sdbr16 produção Zenodo + deploy + afiliações
 
-**Zenodo (273 artigos):**
+**Zenodo (274 artigos):**
 - upload_zenodo.py --seminar sdbr16 --community docomomobr
 - Bug corrigido: IPv6 SYN-SENT no upload_zenodo.py (mesmo fix de IPv4 do fetch_orcid.py)
 - 273 artigos publicados, 0 erros, todos na community docomomobr
@@ -26,8 +26,18 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - Typo corrigido: m09 "tranformação" → "transformação"
 - 3 artigos corrigidos no Zenodo (fix_zenodo_metadata.py): 003, 020, 053
 
+**Afiliações (complemento):**
+- 34 afiliações extraídas dos docx (python-docx) + normalizadas para sigla
+- 41 propagadas de outros artigos do mesmo autor dentro do sdbr16
+- 9 revertidas (fonte era de outro seminário — só usar fontes do próprio sdbr16)
+- sdbr16-037 reclassificado: resumo → artigo (tinha PDF de 3.7 MB)
+- Restam 53 sem afiliação (maioria mesas/resumos sem docx)
+
 **Deploy:**
 - sdbr16 adicionado à lista SEMINARS no workflow deploy.yml
+- Editorial atualizado: 47 seminários, 3.100 artigos, 2.714 autores
+- Capa sdbr16.png adicionada a site/static/img/capas/
+- Release v1.2 criada → dataset Zenodo atualizado automaticamente
 
 ### 2026-04-05 — sdbr16 revisão completa (references, abstracts, rev.md, afiliações, títulos, ORCIDs)
 
