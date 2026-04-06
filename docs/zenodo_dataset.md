@@ -99,3 +99,4 @@ O Zenodo detecta a release automaticamente e publica nova versão do dataset com
 |--------|------|---------|
 | v1.0 | 2026-03-28 | 45 seminários, 2.714 artigos, 2.461 autores |
 | v1.1 | 2026-03-29 | +idc06 (53 artigos) → 46 seminários, 2.767 artigos, 2.514 autores |
+| v1.2 | 2026-04-06 | +sdbr16 (333 artigos) → 47 seminários, 3.100 artigos, 2.714 autores |
