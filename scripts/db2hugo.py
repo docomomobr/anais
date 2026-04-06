@@ -265,6 +265,8 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         if article['section_seq'] and article['section_seq'] < 90 and label and not title_starts_with_label:
             lines.append(f'section_label: "{yaml_escape(label)}"')
     lines.append(f'event_title: "{yaml_escape(seminar["title"])}"')
+    if seminar['subtitle']:
+        lines.append(f'event_subtitle: "{yaml_escape(seminar["subtitle"])}"')
     if seminar['location']:
         lines.append(f'event_location: "{yaml_escape(seminar["location"])}"')
     lines.append(f'event_date: "{seminar["date_published"]}"')
