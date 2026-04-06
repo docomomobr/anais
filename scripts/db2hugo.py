@@ -795,7 +795,9 @@ def write_event_index(outdir, seminar, articles, ambito_slug, ambito_nome):
     lines.append(f'title: "{yaml_escape(seminar["title"])}"')
     if seminar['subtitle']:
         lines.append(f'subtitle: "{yaml_escape(seminar["subtitle"])}"')
-    lines.append(f'date: {seminar["date_published"]}')
+    # Use event year for date (not date_published, which may differ for post-event publications)
+    event_year = seminar['year'] or seminar['date_published'][:4]
+    lines.append(f'date: {event_year}-01-01')
     lines.append(f'type: evento')
     lines.append(f'slug: {slug}')
     lines.append(f'ambito: {ambito_slug}')
