@@ -10,7 +10,7 @@ Fontes das seções/eixos temáticos: [`docs/fontes_secoes.md`](docs/fontes_seco
 
 ## Seminários revisados — NÃO ALTERAR
 
-46 seminários revisados (sdbr01-15, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-09, idc06).
+47 seminários revisados (sdbr01-16, sdsul01-08, sdpr01-02, sdmg01, sdrj02-04, sdnne01-10, sdsp03, sdsp05-09, idc06).
 **NÃO modificar seus dados** sem pedido explícito do usuário.
 Tabela completa: [`docs/seminarios_revisados.md`](docs/seminarios_revisados.md)
 
@@ -134,7 +134,7 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 
 ### Revisão de metadados (pipeline_revisao.md)
 
-- [x] **15 nacionais** (sdbr01-15): 1438 artigos revisados
+- [x] **16 nacionais** (sdbr01-16): 1771 artigos revisados
 - [x] **8 Sul** (sdsul01-08): 326 artigos revisados
 - [x] **2 Paraná** (sdpr01-02): 45 artigos revisados
 - [x] **1 Minas** (sdmg01): 26 artigos revisados

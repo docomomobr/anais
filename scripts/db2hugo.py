@@ -172,7 +172,7 @@ def fetch_articles(db, slug):
         FROM articles a
         LEFT JOIN sections s ON s.id = a.section_id
         WHERE a.seminar_slug = ?
-        ORDER BY a.id
+        ORDER BY CASE WHEN a.id LIKE '%-m%' THEN 0 ELSE 1 END, a.id
     """, (slug,)).fetchall()
 
 
@@ -215,10 +215,11 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
     article_dir = os.path.join(outdir, ambito_slug, seminar['slug'], article_id)
     os.makedirs(article_dir, exist_ok=True)
 
+    is_conferencia = article['document_type'] == 'conferencia'
     doi = article['doi']
     record_id = article['zenodo_record_id'] or doi_to_record_id(doi)
     pdf_url = ''
-    if record_id and article['file']:
+    if record_id and article['file'] and not is_conferencia:
         pdf_url = f"https://zenodo.org/records/{record_id}/files/{article['file']}"
 
     keywords = parse_json_field(article['keywords'])
@@ -285,8 +286,15 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
         lines.append(f'locale: "{article["locale"]}"')
     if article['pages']:
         lines.append(f'pages: "{article["pages"]}"')
-    if article['file']:
+    if article['file'] and not is_conferencia:
         lines.append(f'pdf_file: "{article["file"]}"')
+
+    # YouTube embed for conferências
+    if is_conferencia and article['file'] and 'youtube.com' in article['file']:
+        yt_match = re.search(r'[?&]v=([^&]+)', article['file'])
+        if yt_match:
+            lines.append(f'youtube_id: "{yt_match.group(1)}"')
+            lines.append(f'youtube_url: "{article["file"]}"')
 
     # Abstract
     if article['abstract']:
@@ -357,9 +365,14 @@ def write_article_page(outdir, article, authors, seminar, ambito_slug, ambito_no
 
     lines.append('---')
 
-    # Body: references
+    # Body: YouTube embed or references
     body_parts = []
-    if references:
+    if is_conferencia and article['file'] and 'youtube.com' in article['file']:
+        yt_match = re.search(r'[?&]v=([^&]+)', article['file'])
+        if yt_match:
+            yt_id = yt_match.group(1)
+            body_parts.append(f'{{{{< youtube {yt_id} >}}}}')
+    elif references:
         body_parts.append('## Referências\n')
         for ref in references:
             safe_ref = _linkify_urls(ref)

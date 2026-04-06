@@ -1,17 +1,17 @@
 {
   "slug": "sdbr16",
-  "date": "2026-04-01",
-  "total_articles": 270,
+  "date": "2026-04-04",
+  "total_articles": 273,
   "profile": {
-    "total": 270,
-    "locale_es": 10,
-    "abstract": 264,
+    "total": 273,
+    "locale_es": 11,
+    "abstract": 260,
     "abstract_en": 1,
-    "abstract_es": 12,
-    "keywords": 261,
+    "abstract_es": 11,
+    "keywords": 254,
     "keywords_en": 0,
-    "keywords_es": 12,
-    "references_": 267
+    "keywords_es": 11,
+    "references_": 262
   },
   "auto_fixed": [],
   "issues": [

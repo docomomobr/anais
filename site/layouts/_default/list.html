@@ -41,9 +41,22 @@
 <meta property="og:site_name" content="{{ .Site.Title }}">
 
 {{/* Twitter Cards */}}
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}">
 {{ with .Params.description -}}
 <meta name="twitter:description" content="{{ . | plainify | truncate 200 }}">
+{{ end -}}
+{{ with .Params.cover -}}
+<meta name="twitter:image" content="{{ printf "%s/%s/%s" $.Params.ambito $.Params.slug . | absURL }}">
+{{ end -}}
+{{ with .Params.cover -}}
+<meta property="og:image" content="{{ printf "%s/%s/%s" $.Params.ambito $.Params.slug . | absURL }}">
+{{ end -}}
+{{ with .Params.event_isbn -}}
+<meta property="og:isbn" content="{{ . }}">
+{{ end -}}
+{{ with .Params.event_location -}}
+<meta property="og:locale" content="pt_BR">
 {{ end -}}
 {{ end }}
 {{ end }}

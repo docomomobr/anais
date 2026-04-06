@@ -6,52 +6,134 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
+### 2026-04-05 — sdbr16 revisão completa (references, abstracts, rev.md, afiliações, títulos, ORCIDs)
+
+**Referências (pipeline temporário `revisao/sdbr16-references-pipeline.md`):**
+- clean_references + sweep_refs + backfills executados
+- 10 artigos reclassificados como endnotes-only (R11) → NULL
+- 7 artigos com refs truncadas/fragmentadas reconstruídas do plumber/docx
+- 1 sweep over-removal corrigido (sdbr16-181: 7 web refs restauradas)
+- Estado final: 263 artigos com refs (2461 refs, avg ~9.4/artigo)
+
+**Abstracts (pipeline temporário `revisao/sdbr16-abstract-pipeline.md`):**
+- 3 abstracts truncados (IDML) corrigidos: 042, 172, 173
+- sdbr16-m25: abstract removido (era de outro artigo — Zalszupin)
+- sdbr16-106: abstract_es cortado (ES+PT colados, 3910→1949c)
+- sdbr16-139: abstract_es removido (contaminação do sdbr16-006 via IDML)
+- sdbr16-174, 229, 193: abstract→NULL (locale=en, abstract_en mantido)
+
+**Revisão humana (`revisao/sdbr16-rev.md` — 22 itens):**
+- Títulos corrigidos: m05 (nossa↓), 038 (edifícios-sedes), 041 (split), 282 (título trocado)
+- Refs: 088 (3→5), 012 (4 split), 017 (11→13), 168 (5→13), 007 (reextraídas, 15)
+- Refs R11: 010, 049 (NULL — endnotes only), 139 (NULL — contaminação)
+- Refs: 223 (3→9 do docx)
+- Abstracts: 197 (junk removido), 233 (refs coladas removidas), 143 (link removido)
+- sdbr16-172: abstract limpo + movido para seção 369
+
+**Afiliações (normalização):**
+- 242 variantes → 120 siglas normalizadas (formato UNIDADE-UNIVERSIDADE)
+- 73 afiliações com bio removida (mestrando, doutorando, professor, etc.)
+- Padrão: FAU-USP, PROPAR-UFRGS, PROURB-FAU-UFRJ, etc.
+
+**Títulos/subtítulos (separação):**
+- 182 separações aplicadas (`: `, `. `, ` — `, semânticas)
+- Subtítulos: primeira letra minúscula (exceto nome próprio/sigla)
+
+**Conferências preparatórias (10 entradas):**
+- Seção "Conferências Preparatórias" (seq=-1, antes das mesas)
+- 7 com YouTube embed, 3 presenciais sem vídeo
+- Links verificados contra títulos no YouTube (todos corretos)
+- Dedup: Fernando Lara (→3356), Nivaldo Andrade Jr. (→1351), Paulo Vidal (→3737 Ribeiro)
+- ORCIDs: Zaída Muxí, Fernando Lara, Nivaldo Andrade, Kathrin Rosenfield
+
+**ORCIDs (busca geral sdbr16):**
+- fetch_orcid.py --search --slug sdbr16 (OpenAlex + ORCID API + Crossref)
+- Bug corrigido: IPv6 travava conexões (forçado IPv4), URL encoding de acentos
+- 18 confirmados automaticamente + 23 revisados + 13 verificados = 300/418 (72%)
+- 1 falso positivo removido: Marcelo Ferraz (homônimo UFG, não o arquiteto)
+- 1 falso positivo removido: Fabiano Maciel (homônimo, cineasta sem ORCID)
+
+**Dedup autores:**
+- dedup_authors.py: 3 merges (1 variante + 2 cross-familyname)
+- Manuais: Fernando Lara, Nivaldo Andrade Jr., Paulo Vidal Leite Ribeiro
+
+**Hugo:**
+- Open Graph / Twitter Cards adicionados às páginas de seminário (list.html)
+- section_label=NULL para sdbr16 (mesas não numeradas)
+- db2hugo.py + gerar_revisao_html.py: ordenação mesa-first (CASE WHEN id LIKE '%-m%')
+- db2hugo.py: suporte a YouTube embed para conferências (document_type='conferencia')
+
+**Cobertura final sdbr16:**
+| Campo | Valor |
+|-------|-------|
+| Total | 333 (270 artigos + 15 resumos + 35 mesas + 10 conferências + 3 sem texto) |
+| Abstracts | 309/323 (96%) |
+| Keywords | 297/323 (92%) |
+| Referências | 263/288 não-mesa (91%) |
+| ORCIDs | 300/418 autores (72%) |
+| Sessões | 40 (39 mesas + 1 conferências preparatórias) |
+
 ### 2026-03-31 — sdbr16 pipeline de tratamento (16º Seminário, Porto Alegre 2025)
 
 **Aquisição e organização:**
-- 177 artigos em docx (`fontes/artigos/`), 12 resumo-only (sem docx, apenas no caderno de resumos)
-- Numeração 001–189 com 12 lacunas (19, 38, 42, 54, 72, 82, 85, 105, 117, 172, 173, 179)
+- 2 lotes de docx: PRONTOS (177) + RECEBIDOS (31) = 272 docx, 271 PDFs
+- Numeração final 001–285 com lacunas (IDs não usados: 037=resumo, 19 sem texto)
 - Caderno de resumos: `fontes/caderno-resumos/Docomomo_Brasil_04.pdf` (362 páginas)
 - Volume completo: `fontes/01_ANAIS_DOCO_R01.pdf`
-- Programação definitiva: `fontes/programaçao_definitiva.pdf` (29 páginas, tabelas)
+- Programação definitiva: `fontes/programaçao_definitiva.pdf` (29 páginas, 285 entradas)
 - 3 arquivos com soft-hyphen no nome corrigidos (146, 169, 186)
 - Artigo 170 docx corrompido (XML malformado) — metadados extraídos direto do XML
+- Artigo 084: título no docx difere da programação (autor mudou título)
 
 **Extração de metadados:**
-- Títulos e autores: python-docx para 177 docx + caderno para 12 resumo-only
-- Abstracts: docx (173) + caderno de resumos (14 complementados) + 1 fornecido pelo usuário (008)
-- Keywords: docx (166) + caderno (3) + docx espanhol keywords_es (5)
-- Referências: 177/177 artigos (100%), 1516 refs, 0.3% problemas
-  - Fontes: seção REFERÊNCIAS (139), Word endnotes XML (25), NOTAS inline (12), manual (1)
-  - Padrão: REFERÊNCIAS → extrai direto; NOTAS-only → filtra refs bibliográficas
-- 34 textos de mesa (intros dos coordenadores) extraídos do caderno, inseridos como document_type='mesa'
+- Títulos e autores: python-docx para 272 docx + caderno para resumo-only
+- Abstracts: docx + caderno de resumos (14 complementados) + 1 fornecido pelo usuário (008)
+- 4 artigos sem abstract, 21 sem keywords, 5 sem referências
+- Keywords: docx (249) + caderno + docx espanhol keywords_es (7 locale=es)
+- Referências: 265/270 artigos, 2130 refs, 0.3% problemas
+  - Fontes: seção REFERÊNCIAS, Word endnotes XML, NOTAS inline
+- 35 textos de mesa (intros dos coordenadores) extraídos do caderno
+- 15 resumos (artigos da programação sem texto completo)
 
-**Sessões (38 sessões):**
-- Mapeamento artigo→sessão via programação definitiva (177/189 pareados automaticamente)
-- 10 artigos atribuídos manualmente, 2 sessões sem artigos pareados (INOVAÇÃO, ITÁLIA)
-- Coordenadores extraídos do volume (linhas 139-225)
+**Sessões (39 sessões):**
+- 270/270 artigos atribuídos a sessões
+- Fontes: programação definitiva (match por título+autor), caderno de resumos (fallback)
+- 3 sessões duplicadas unificadas (PILOTIS, TRANSFORMAÇÃO, ESPAÇOS DO ÓCIO)
+- 1 encoding fix (POSSÏVEIS → POSSÍVEIS)
+- Coordenadores extraídos do volume
 
 **Normalização:**
-- Capitalização: normalizar_maiusculas.py (176 artigos)
-- Referências: clean_references.py (6 splits, 21 backfills, 5 URLs juntadas)
-- Validação: validate_metadata.py (8 auto-fixes, 42 issues para revisão)
-- Títulos: 30 com espaços excessivos limpos, nomes próprios capitalizados
+- Travessões: 6 títulos (` - ` → ` — `)
+- Capitalização: normalizar_maiusculas.py (3 artigos) + revisão LLM (70+ correções)
+  - Nomes próprios, sobrenomes, siglas, instituições, topônimos, publicações
+  - Regressões corrigidas (Global South, Pahlavi)
+- Referências: clean_references.py (0 mudanças — refs já limpas)
+- Validação: validate_metadata.py (85 issues/report, 0 auto-fixes)
+- Revisão HTML gerada: `revisao/revisao-sdbr16.html`
+
+**Verificação cruzada:**
+- Programação (285) = DB artigos (270) + resumos (15) = 285
+- Arquivos (271 docx) = DB artigos (270) + 1 resumo com docx (037)
+- 3 artigos na programação sem texto nem resumo (Cotrim, Borges, Blanco Vencio) → registrados como resumos
 
 **Cobertura final:**
 | Campo | Valor |
 |-------|-------|
-| Total | 189 artigos + 34 mesas = 223 |
-| Abstracts | 183/189 (97%) — 6 resumo-only genuinamente sem |
-| Keywords (any) | 176/189 (93%) — 10 resumo-only + 3 sem no docx |
-| Referências | 177/177 (100%), 1516 refs |
-| Sessões | 38, mapeamento ~95% via programação definitiva |
-| Autores | 256 vínculos artigo-autor |
+| Total | 270 artigos + 15 resumos + 35 mesas = 320 |
+| Abstracts | 266/270 (98%) — 4 genuinamente sem |
+| Keywords (any) | 249/270 (92%) — 21 sem no docx |
+| Referências | 265/270 (98%), 2130 refs — 5 sem referências |
+| Sessões | 39, 100% artigos atribuídos |
+| Autores únicos | 446 |
+| Locales | pt-BR: 263, es: 7 |
+| ISBN | 978-65-993024-6-6 |
+
+**Metadados EN:** N/A (organização não exigiu abstract/title em inglês)
 
 **Pendências:**
-- PDFs individuais não gerados ainda (artigos em docx apenas)
-- 2 sessões sem artigos pareados (INOVAÇÃO E DESENVOLVIMENTO, ITÁLIA FRANÇA E BAHIA)
-- Revisão humana do mapeamento sessão-artigo (HTML de revisão pendente)
+- PDFs individuais não gerados (artigos em docx apenas)
 - Zenodo upload pendente (depende dos PDFs)
+- NÃO publicar no site até comando explícito do usuário
 
 ### 2026-03-28 — sdsp09 revisão completa + metadados ES sdsp07/08/09 + ORCID global
 

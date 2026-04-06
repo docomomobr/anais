@@ -197,7 +197,9 @@ if __name__ == '__main__':
             FROM articles a
             LEFT JOIN sections s ON a.section_id = s.id
             WHERE a.seminar_slug=?
-            ORDER BY s.seq, s.id, a.id
+            ORDER BY s.seq, s.id,
+                     CASE WHEN a.id LIKE '%-m%' THEN 0 ELSE 1 END,
+                     a.id
         ''', (slug,)).fetchall()
 
         # Filter articles if --articles was given
@@ -510,7 +512,7 @@ if __name__ == '__main__':
                     FROM article_author aa JOIN authors au ON aa.author_id = au.id
                     WHERE aa.article_id = ? ORDER BY aa.seq
                 ''', (art['id'],)).fetchall()
-                authors_str = '; '.join(f'{a["givenname"]} {a["familyname"]}' for a in authors)
+                authors_str = '; '.join(f'{a["givenname"] or ""} {a["familyname"] or ""}'.strip() for a in authors)
                 # PDF indicator
                 pdf_cls = 'pdf-yes' if art['file'] else 'pdf-no'
                 pdf_icon = '&#x25CF;' if art['file'] else '&#x25CB;'
@@ -532,7 +534,12 @@ if __name__ == '__main__':
 
             for art in sec_articles:
                 # Divider with ID and PDF badge
-                if art['file']:
+                is_conferencia = art['document_type'] == 'conferencia'
+                if is_conferencia and art['file'] and 'youtube.com' in art['file']:
+                    pdf_badge = f'<span class="pdf-badge yes">YouTube</span>'
+                elif is_conferencia:
+                    pdf_badge = '<span class="pdf-badge no">presencial</span>'
+                elif art['file']:
                     pdf_badge = f'<span class="pdf-badge yes">PDF {e(art["file"])}</span>'
                 else:
                     pdf_badge = '<span class="pdf-badge no">sem PDF</span>'
@@ -570,7 +577,7 @@ if __name__ == '__main__':
 
                 lines.append('<div class="authors">')
                 for au in authors:
-                    name = f'{au["givenname"]} {au["familyname"]}'
+                    name = f'{au["givenname"] or ""} {au["familyname"] or ""}'.strip()
                     parts = [e(name)]
                     if au['affiliation']:
                         parts.append(f'<span class="affil">({e(au["affiliation"])})</span>')
@@ -579,12 +586,20 @@ if __name__ == '__main__':
                     lines.append(f'  <span class="author">{" ".join(parts)}</span>')
                 lines.append('</div>')
 
+                # YouTube embed for conferências
+                if is_conferencia and art['file'] and 'youtube.com' in art['file']:
+                    import re as _re
+                    yt_match = _re.search(r'[?&]v=([^&]+)', art['file'])
+                    if yt_match:
+                        yt_id = yt_match.group(1)
+                        lines.append(f'<div style="margin:10px 0"><iframe width="560" height="315" src="https://www.youtube.com/embed/{yt_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>')
+
                 # Meta bar: section · file · pages · locale
                 meta_parts = []
                 sec_display = strip_section_suffix(art['section_title'])
                 if sec_display:
                     meta_parts.append(f'<span class="section-tag">{e(sec_display)}</span>')
-                if art['file']:
+                if art['file'] and not is_conferencia:
                     meta_parts.append(f'<span class="file">{e(art["file"])}</span>')
                 if art['pages_count']:
                     meta_parts.append(f'{art["pages_count"]} p.')
