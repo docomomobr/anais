@@ -31,6 +31,7 @@
 {{ with .Params.zenodo_pdf_url -}}
 <meta name="citation_pdf_url" content="{{ . }}">
 {{ end -}}
+<meta name="citation_fulltext_html_url" content="{{ .Permalink }}">
 {{ with .Params.abstract -}}
 <meta name="citation_abstract" content="{{ . | plainify | truncate 500 }}">
 {{ end -}}
