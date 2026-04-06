@@ -6,6 +6,29 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
+### 2026-04-06 — sdbr16 produção Zenodo + deploy
+
+**Zenodo (273 artigos):**
+- upload_zenodo.py --seminar sdbr16 --community docomomobr
+- Bug corrigido: IPv6 SYN-SENT no upload_zenodo.py (mesmo fix de IPv4 do fetch_orcid.py)
+- 273 artigos publicados, 0 erros, todos na community docomomobr
+- 60 skips (35 mesas + 15 resumos + 10 conferências sem PDF)
+
+**Volume completo (373 MB):**
+- Upload via curl (API InvenioRDM: draft → file upload → commit → publish)
+- DOI: 10.5281/zenodo.19435087 | URL: https://zenodo.org/records/19435087
+- Checksum verificado: md5:01b39764fac82e50fe07303bc75d3a61
+- Submetido e aceito na community docomomobr
+
+**Títulos/subtítulos (complemento):**
+- 11 splits adicionais: 003, 020, 037, 042, 053, 085, 184, 201, 218, 238, 253
+- 2 mesas corrigidas: m01 (split), m06 (split)
+- Typo corrigido: m09 "tranformação" → "transformação"
+- 3 artigos corrigidos no Zenodo (fix_zenodo_metadata.py): 003, 020, 053
+
+**Deploy:**
+- sdbr16 adicionado à lista SEMINARS no workflow deploy.yml
+
 ### 2026-04-05 — sdbr16 revisão completa (references, abstracts, rev.md, afiliações, títulos, ORCIDs)
 
 **Referências (pipeline temporário `revisao/sdbr16-references-pipeline.md`):**

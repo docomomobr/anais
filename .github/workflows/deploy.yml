@@ -32,7 +32,7 @@ jobs:
           # Para adicionar um novo seminário, inclua o slug aqui.
           SEMINARS: >-
             sdbr01 sdbr02 sdbr03 sdbr04 sdbr05 sdbr06 sdbr07 sdbr08 sdbr09
-            sdbr10 sdbr11 sdbr12 sdbr13 sdbr14 sdbr15
+            sdbr10 sdbr11 sdbr12 sdbr13 sdbr14 sdbr15 sdbr16
             sdsul01 sdsul02 sdsul03 sdsul04 sdsul05 sdsul06 sdsul07 sdsul08
             sdpr01 sdpr02 sdmg01
             sdrj02 sdrj03 sdrj04
