@@ -33,6 +33,15 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 - sdbr16-037 reclassificado: resumo → artigo (tinha PDF de 3.7 MB)
 - Restam 53 sem afiliação (maioria mesas/resumos sem docx)
 
+**Organizadores:**
+- Ordem ajustada a pedido da organização: Marta Peixoto antes de Ana Carolina Pellegrini
+- Ficha catalográfica (PDF) regenerada com nova ordem, formato ABNT (12,5×7,5 cm, Courier)
+- description do seminário atualizada com nomes completos na nova ordem
+
+**Hugo:**
+- Fix: página do evento usa `year` (ano do evento) em vez de `date_published` (ano da publicação)
+- Afeta sdbr16 (evento 2025, publicação 2026)
+
 **Deploy:**
 - sdbr16 adicionado à lista SEMINARS no workflow deploy.yml
 - Editorial atualizado: 47 seminários, 3.100 artigos, 2.714 autores
