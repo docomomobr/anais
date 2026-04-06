@@ -48,7 +48,7 @@
     {{ end -}}
     "isPartOf": {
       "@type": "Event",
-      "name": "{{ .Params.event_title }}"
+      "name": "{{ .Params.event_title }}{{ with .Params.event_subtitle }}: {{ . }}{{ end }}"
       {{ with .Params.event_city -}}
       ,"location": { "@type": "Place", "name": "{{ . }}" }
       {{ end -}}

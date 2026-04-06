@@ -18,7 +18,7 @@
 {{ end -}}
 {{ end -}}
 <meta name="citation_publication_date" content="{{ dateFormat "2006/01/02" .Date }}">
-<meta name="citation_conference_title" content="{{ with .Params.event_subtitle }}{{ . }}{{ else }}{{ .Params.event_title }}{{ end }}">
+<meta name="citation_conference_title" content="{{ .Params.event_title }}{{ with .Params.event_subtitle }}: {{ . }}{{ end }}">
 {{ with .Params.event_publisher -}}
 <meta name="citation_publisher" content="{{ . }}">
 {{ end -}}
