@@ -436,7 +436,10 @@ def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''
     year = seminar['date_published'][:4] if seminar['date_published'] else ''
     date_full = seminar['date_published'] or ''
     location = seminar['location'] or ''
-    event_title = seminar['title'] or ''
+    event_title_full = seminar['title'] or ''
+    event_theme = seminar['subtitle'] or event_title_full  # tema do evento (fallback: nome)
+    cite = parse_event_title(event_title_full)
+    event_title = f"{cite['event_edition']}º {cite['event_name']}" if cite else event_title_full
     isbn = seminar['isbn'] or ''
     publisher = seminar['publisher'] or ''
     pages = article['pages'] or ''
@@ -455,7 +458,7 @@ def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''
     bib_lines = [f'@inproceedings{{{bib_key},']
     bib_lines.append(f'  title     = {{{_bibtex_escape(full_title)}}},')
     bib_lines.append(f'  author    = {{{bib_authors}}},')
-    bib_lines.append(f'  booktitle = {{{_bibtex_escape(event_title)}}},')
+    bib_lines.append(f'  booktitle = {{{_bibtex_escape(event_theme)}}},')
     bib_lines.append(f'  year      = {{{year}}},')
     if location:
         bib_lines.append(f'  address   = {{{location}}},')
@@ -479,7 +482,8 @@ def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''
     for au in authors:
         ris_lines.append(f"AU  - {au['familyname']}, {au['givenname']}")
     ris_lines.append(f'TI  - {full_title}')
-    ris_lines.append(f'T2  - {event_title}')
+    ris_lines.append(f'T2  - {event_theme}')
+    ris_lines.append(f'C3  - {event_title}')
     ris_lines.append(f'PY  - {year}')
     ris_lines.append(f'DA  - {date_full.replace("-", "/")}')
     if location:
@@ -510,7 +514,7 @@ def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''
         'id': slug,
         'type': 'paper-conference',
         'title': full_title,
-        'container-title': event_title,
+        'container-title': event_theme,
         'event-title': event_title,
         'issued': {'date-parts': [[int(year)]]} if year else {},
         'language': locale,
@@ -543,7 +547,7 @@ def write_citation_files(outdir, slug, article, authors, seminar, ambito_slug=''
         'id': slug,
         'type': 'paper-conference',
         'title': full_title,
-        'container-title': event_title,
+        'container-title': event_theme,
         'event-title': event_title,
         'issued': {'date-parts': [[int(year)]]} if year else {},
         'language': locale,
@@ -576,7 +580,10 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
     slug = seminar['slug']
     event_dir = os.path.join(outdir, ambito_slug, slug)
 
-    event_title = seminar['title'] or ''
+    event_title_full = seminar['title'] or ''
+    event_theme = seminar['subtitle'] or event_title_full
+    cite = parse_event_title(event_title_full)
+    event_title = f"{cite['event_edition']}º {cite['event_name']}" if cite else event_title_full
     year = seminar['date_published'][:4] if seminar['date_published'] else ''
     date_full = seminar['date_published'] or ''
     location = seminar['location'] or ''
@@ -602,7 +609,7 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
         entry = [f'@inproceedings{{{bib_key},']
         entry.append(f'  title     = {{{_bibtex_escape(full_title)}}},')
         entry.append(f'  author    = {{{bib_authors}}},')
-        entry.append(f'  booktitle = {{{_bibtex_escape(event_title)}}},')
+        entry.append(f'  booktitle = {{{_bibtex_escape(event_theme)}}},')
         entry.append(f'  year      = {{{year}}},')
         if location:
             entry.append(f'  address   = {{{location}}},')
@@ -621,7 +628,8 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
         for au in authors:
             ris.append(f"AU  - {au['familyname']}, {au['givenname']}")
         ris.append(f'TI  - {full_title}')
-        ris.append(f'T2  - {event_title}')
+        ris.append(f'T2  - {event_theme}')
+        ris.append(f'C3  - {event_title}')
         ris.append(f'PY  - {year}')
         ris.append(f'DA  - {date_full.replace("-", "/")}')
         if location:
@@ -647,7 +655,7 @@ def write_seminar_citations(outdir, seminar, articles_data, ambito_slug):
             'id': art_id,
             'type': 'paper-conference',
             'title': full_title,
-            'container-title': event_title,
+            'container-title': event_theme,
             'event-title': event_title,
             'issued': {'date-parts': [[int(year)]]} if year else {},
             'language': locale,
