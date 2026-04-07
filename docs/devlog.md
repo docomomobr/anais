@@ -6,6 +6,12 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
+### 2026-04-07 — fix: ano de publicação no "como citar" (ABNT)
+
+- Template `site/layouts/artigo/single.html`: citação ABNT usava `event_year` (ano do evento) nas duas posições — corrigido para usar `date_published` (ano de publicação) na linha "Cidade: Editora, ano."
+- Afeta sdbr16 (evento 2025, publicação 2026) — único seminário com anos distintos.
+- BibTeX/RIS/CSL-JSON já estavam corretos (usavam `date_published`).
+
 ### 2026-04-06 — sdbr16 artigos faltantes + correções seção Zenodo (sessão 2)
 
 **Artigos faltantes (relatório: `revisao/sdbr16-artigos-faltantes.md`):**
