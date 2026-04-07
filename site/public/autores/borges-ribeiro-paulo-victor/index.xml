@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Borges Ribeiro, Paulo Victor on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/borges-ribeiro-paulo-victor/</link>
+    <link>http://localhost:1313/autores/borges-ribeiro-paulo-victor/</link>
     <description>Recent content in Borges Ribeiro, Paulo Victor on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/borges-ribeiro-paulo-victor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/borges-ribeiro-paulo-victor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O discurso urbano de Mendes da Rocha em três concursos de projeto</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-253/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-253/</guid>
+      <description></description>
+    </item>
     <item>
       <title>O lugar dos concursos na propaganda da Arquitetura Moderna Brasileira</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-008/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-008/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-008/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-008/</guid>
       <description>Referências BRAGA, M. O concurso de Brasília: Sete projetos para uma capital. Cosac Naify, São Paulo; 1ª edição,2010. 288p COMAS, C. Feira Mundial de Nova York de 1939: O Pavilhão Brasileiro. Arqtexto 16, Porto Alegre, CHUPIN, J. ; CUCUZZELLA, C.; HELAL, B. (Editores). Architecture Competitions and the production of culture, quality and knowledge. Potential Books, Montreal, 2015. DEDECCA, P.G. Aproximações, diferenciações e embates entre a produção do Rio de Janeiro e de São Paulo nas revistas de arquitetura (1945-1960).</description>
     </item>
   </channel>

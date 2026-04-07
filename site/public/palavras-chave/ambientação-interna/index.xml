@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ambientação Interna on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/ambienta%C3%A7%C3%A3o-interna/</link>
+    <link>http://localhost:1313/palavras-chave/ambienta%C3%A7%C3%A3o-interna/</link>
     <description>Recent content in Ambientação Interna on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/ambienta%C3%A7%C3%A3o-interna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/ambienta%C3%A7%C3%A3o-interna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vidro feito de metal</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-033/</link>
+      <link>http://localhost:1313/sul/sdsul04/sdsul04-033/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-033/</guid>
+      <guid>http://localhost:1313/sul/sdsul04/sdsul04-033/</guid>
       <description>Referências Lina Bo Bardi. &amp;ldquo;Residência no Morumbi&amp;rdquo;. Revista Habitat, nº10, p. 31-40. Mindlin, Henrique E. &amp;ldquo;Modern Architecture in Brazil&amp;rdquo;. Colibris, 1957. </description>
     </item>
   </channel>

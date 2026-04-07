@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angola on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/angola/</link>
+    <link>http://localhost:1313/palavras-chave/angola/</link>
     <description>Recent content in Angola on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/angola/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/angola/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uma experiência &#34;Brutalista&#34; nos Trópicos</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-072/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-072/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-072/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-072/</guid>
       <description>Referências Amaral, Ilídio do. Luanda (Estudo de Geografia Urbana). Lisboa: Memórias da Junta de Investigações do Ultramar, n.º 53, 1968 Banham, Reyner. The New Brutalism - Ethic or Aesthetic?. Germany: Reinhold Publishing Corporation New York, 1966 Fiúza, Filipa. Um Projecto Inglês - a influência da arquitectura anglo-saxónica nas Torres de Alfragide. Dissertação de Mestrado em Arquitectura. Lisboa: ISCTE-IUL, 2010 Kultermann, Udo. Nuevos Caminos de la Arquitectura Africana. Barcelona: Editorial Blume, 1969 Landon, Royston.</description>
     </item>
   </channel>

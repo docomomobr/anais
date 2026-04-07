@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sociedade on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/sociedade/</link>
+    <link>http://localhost:1313/palavras-chave/sociedade/</link>
     <description>Recent content in sociedade on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/sociedade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/sociedade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O projeto arquitetônico como laboratório experimental na Arquitetura Paulista</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-029/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-029/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-029/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-029/</guid>
       <description>Referências ALVES, André Augusto de Almeida. Arquitetura e sociedade em São Paulo 1956-1968: projetos de Brasil moderno. Orientadora Maria Lucia Caira Gitahy. Dissertação de mestrado. São Paulo, FAU USP, 2003. ARTIGAS, João Batista Vilanova. Aos formandos da FAU USP. In ARTIGAS, Rosa; LIRA, José Tavares Correia de (org.). Caminhos da ar- quitetura. São Paulo, Cosac Naify, 2004. ARTIGAS, João Batista Vilanova. Arquitetura e construção. In AR- TIGAS, Rosa; LIRA, José Tavares Correia de (org.</description>
     </item>
   </channel>

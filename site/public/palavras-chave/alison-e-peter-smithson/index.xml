@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alison e Peter Smithson on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/alison-e-peter-smithson/</link>
+    <link>http://localhost:1313/palavras-chave/alison-e-peter-smithson/</link>
     <description>Recent content in Alison e Peter Smithson on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/alison-e-peter-smithson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/alison-e-peter-smithson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O projeto como instrumento reflexivo e especulativo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-210/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-210/</guid>
+      <description>Referências Banham, Reyner. The New Brutalism: ethic or aesthetic? New York: Reinhold Publishing Corporation, 1966. Cohen, Jean-Louis. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac &amp;amp; Naify, 2013. Craig, Gordon A. “Berlin, the Hauptstadt. Back Where It Belongs”. Foreign Affairs, v. 77, n. 4 (julho/agosto 1998): 161-170. Crosby, Philip M. “Holey urbanisms: Team 10 as an antecedent to landscape urbanism or where is the urbanism of landscape urbanism?</description>
+    </item>
     <item>
       <title>Arquitetura Brutalista e habitação social</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-059/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-059/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-059/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-059/</guid>
       <description>Referências Bakema, Jaap et al. “Doorn Manifesto”. In Architecture Culture 1943-1968: A Documentary Anthology, editado por Joan Ockman e Edward Eigen, 183. Nova York: Columbia Books of Architecture; Rizzoli, 1993. Banham, Reyner. “The New Brutalism”. Architectural Review 118 (dez. 1955): 354-361. Barone, Ana Cláudia Castilho. Team 10: Arquitetura como Crítica. São Paulo: Annablume; Frampton, Kenneth. História Crítica da Arquitetura Moderna. São Paulo: Martins Fontes, 1997. Fuão, Fernando Freitas. “Brutalismo, a Última Trincheira do Moderno”.</description>
     </item>
   </channel>

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florenzano, Luciana da Silva on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/florenzano-luciana-da-silva/</link>
+    <link>http://localhost:1313/autores/florenzano-luciana-da-silva/</link>
     <description>Recent content in Florenzano, Luciana da Silva on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/florenzano-luciana-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/florenzano-luciana-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lugar e linguagem</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-257/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-257/</guid>
+      <description>Referências Mark Wigley. Bem-vindo ao Vácuo. Entrevista com Joaquim Moreno. In: Jornal dos Arquitectos, publicação trimestral da ordem dos arquitetos. Portugal, 2010. Edição: 239, Ser Critico. BIELSCHOWSKY, Bernardo Brasil. A modernidade na área central de Blumenau (1950-1970). In: V Encontro dos Pesquisadores do Modernismo em Arquitetura e Urbanismo de Santa Catarina, Brusque/SC, 2017. Lima, André; Grad, Guilherme; Serraglio, João. Hans Broos: memória de uma arquitetura. São Paulo: Ed. do Autor, 2018.</description>
+    </item>
     <item>
       <title>Arquitetura moderna na sede campestre da Tuna Luso Brasileira em Belém do Pará</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-078/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-078/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-078/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-078/</guid>
       <description>Referências BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Editora Perspectiva, 2001. p. 711-719. BRITO, Eugênio Leitão de. História do Grêmio Literário e Recreativo Português. Belém: Grêmio Literário e Recreativo Português, 1994. BRITO, Eugênio Leitão de. Os Portugueses no Grão Pará. Belém: Conselho da Comunidade Luso-Brasileira do Pará, 2000. CAVALCANTE, Lauro. Moderno e Brasileiro. A história de uma nova linguagem na arquitetura (1930-60). Rio de Janeiro: Jorge Zahar, 2006. CHAVES, Celma.</description>
     </item>
   </channel>

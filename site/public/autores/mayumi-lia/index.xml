@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mayumi, Lia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/mayumi-lia/</link>
+    <link>http://localhost:1313/autores/mayumi-lia/</link>
     <description>Recent content in Mayumi, Lia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/mayumi-lia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/mayumi-lia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A cidade antiga nos CIAM 1950-59</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-038/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-038/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-038/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-038/</guid>
       <description>Referências ARQUITECTURA. UIA 1996. Arquitectura. Revista del Colegio Oficial de Arquitectos de Madrid. Madrid,1996. BANHAM, Reyner. El brutalismo em arquitectuara: ética o estética. Barcelona, Gustavo Gili, 1966. BENEVOLO, Leonardo; LONGO, Tommaso Guina; MELOGRAMI, Carlo. La proyectación de la ciudad moderna. Barcelona, Gustvao Gili, 1978. BOESIGER, W &amp;amp; GIRSBERGER, H.. Le Corbusier 1910-1965. Barcelona, Gustavo Gili, 1971. CENTRE GEORGES POMPIDOU. Le Corbusier: une encyclopédie. Paris, Centre Georges Pompidou, 1987. CESCHI, Carlo. Teoria e Storia del Restauro.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rossi, Bruno Ceccato on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/rossi-bruno-ceccato/</link>
+    <link>http://localhost:1313/autores/rossi-bruno-ceccato/</link>
     <description>Recent content in Rossi, Bruno Ceccato on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/rossi-bruno-ceccato/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/rossi-bruno-ceccato/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setor Residencial de Estudantes da USP</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-010/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-010/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-010/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-010/</guid>
       <description>Referências AMARAL, Keil. Cidades Universitárias, Realizações Contemporâneas. Arquitectura. Porto, n. 55-56, p. 6-13, 1956. ANELLI, Renato et al (orgs.). Rino Levi: Arquitetura e cidade. São Paulo: Romano Guerra Editora, 2a edição, 2019. ANELLI, Renato Luiz Sobral. Arquitetura e Cidade na obra de Rino Levi. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1995. ARANHA. Maria Beatriz de Camargo. A obra de Rino Levi e a trajetória da Arquitetura Moderna no Brasil.</description>
     </item>
   </channel>

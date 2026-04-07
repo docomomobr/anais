@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Estrutura Celular on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/estrutura-celular/</link>
+    <link>http://localhost:1313/palavras-chave/estrutura-celular/</link>
     <description>Recent content in Estrutura Celular on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/estrutura-celular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/estrutura-celular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O desenho da cidade</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-046/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-046/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-046/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-046/</guid>
       <description>Referências BEAUJEU-GARNIER, Jacqueline &amp;amp; DELOBEZ, Annie. Geography of Marketing. Tradução: S.H.Beaver. Longman: Londres e Nova York, 1979. BORTOLI, Fábio. O Shopping Center em Porto Alegre. Estudos Tipológicos e Morfologia Urbana. Dissertação de mestrado, PROPAR/UFRGS, 2006. CASTELLO, Iára Regina &amp;amp; CASTELLO, Lineu. Um Estudo de Centralidade Intra- urbana em Porto Alegre para a Reavaliação do Plano Diretor. Porto Alegre: UFRGS/Proplan, 1978. RATCLIFFE, John. An Introduction to Town and Country Planning. Londres: Hutchinson Educational, 1974.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquitetura Amazônica on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-amaz%C3%B4nica/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-amaz%C3%B4nica/</link>
     <description>Recent content in Arquitetura Amazônica on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-amaz%C3%B4nica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-amaz%C3%B4nica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Os modernistas em Roraima, Sergio Bernardes e Caracaraí</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-006/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-006/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-006/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-006/</guid>
       <description>Referências AUGÉ, M.. Não-Lugares: introdução a uma antropologia da supermodernidade. Campinas/SP: Papirus, 1994 (Coleção Travessia do Século). BECKER, B.. Amazônia: Geopolí ca na virada do III Milênio. Rio de Janeiro: Garamond, 2006. BERNARDES K.; CAVALCANTI, L. (orgs). Sergio Bernardes. Rio de Janeiro: Ar viva Editora, 2010. CAVALCANTI, L.. Sergio Bernardes: Herói de uma tragédia moderna. Rio de Janeiro: Relume Dumará/Prefeitura da Cidade do Rio de Janeiro, 2004. FJP. Plano de Desenvolvimento Urbano de Caracaraí/RR.</description>
     </item>
     <item>
       <title>Brutalismo Amazônico</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-032/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-032/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-032/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-032/</guid>
       <description>Referências Bastos, Maria Alice Junqueira; Zein, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010. Campos, Elizabete Rodrigues de. A Arquitetura Brasileira de Severiano Mário Porto. Texto Especial No. 209, São Paulo, dezembro 2003. Costa, Graciete Guerra da. Manaus: um estudo de seu patrimônio arquitetônico e urbano / Dissertação de Mestrado – Brasília: UnB, 2006. Ficher, Sylvia; Acayaba, Marlene Milan. Arquitetura moderna brasileira. São Paulo: Projeto, 1982. Ferro, Sérgio. Reflexões sobre o brutalismo caboclo.</description>
     </item>
   </channel>

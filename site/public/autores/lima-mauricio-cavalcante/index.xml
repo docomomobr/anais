@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lima, Mauricio Cavalcante on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/lima-mauricio-cavalcante/</link>
+    <link>http://localhost:1313/autores/lima-mauricio-cavalcante/</link>
     <description>Recent content in Lima, Mauricio Cavalcante on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/lima-mauricio-cavalcante/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/lima-mauricio-cavalcante/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Amazônia na FAU-USP</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-235/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-235/</guid>
+      <description>Referências Georges Didi-Huberman, Diante do tempo: história da arte e anacronismo das imagens (TMinas Gerais: Editora UFMG, 2015). Naine Terena, “A máquina de registrar memórias: o lugar de existir” em Paiter Suruí, gente de verdade. Um projeto do coletivo Lakapoy. São Paulo: IMS, 2025, p. 249-253. Thyago Nogueira, “Arquivo, acervo, álbum: arte como diplomacia” em Paiter Suruí, gente de verdade. Um projeto do coletivo Lakapoy. São Paulo: IMS, 2025, p. 237-240.</description>
+    </item>
     <item>
       <title>O lugar da adequação em Severiano Porto</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/39/</link>
+      <link>http://localhost:1313/nne/sdnne06/39/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/39/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/39/</guid>
       <description>Referências DÓREA, Célia. Anísio Teixeira e a Arquitetura Escolar: planejando escolas, construindo sonhos. 2003 - Tese (Doutorado em Educação) – Pontifícia Universidade Católica de São Paulo. EBOLI, Terezinha. Uma Experiência de Educação Integral . Centro Educacional Carneiro Ribeiro. Bahia: Editora do MEC, 1969. LANDAU, Royston. Notes on the Concept of an Architectural Position. AA Files. Londres, n. 1, 1987. LEE, Kyung Mi. Severiano Mário Porto: A Produção do Espaço na Amazônia.</description>
     </item>
   </channel>

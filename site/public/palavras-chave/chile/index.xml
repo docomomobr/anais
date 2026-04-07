@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chile on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/chile/</link>
+    <link>http://localhost:1313/palavras-chave/chile/</link>
     <description>Recent content in Chile on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/chile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/chile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Radicalmente modernas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-153/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-153/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-153/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-153/</guid>
       <description>Referências BANHAM, R. Megaestructuras: Futuro urbano del pasado reciente. Barcelona: G. Gili, 2001. CACh. Colegio de Arquitectos de Chile. IV Convención Nacional del Colegio de Arquitectos de Chile: Arica 29 de abril-4 de mayo de 1967. Santiago: El Colegio, 1967. p.9 COLQUHOUN, A. Arquitectura Moderna y Cambio Histórico : Ensayos 1962-1976. Barcelona: G. Gili, 1978. DOXIADIS, C. Arquitectura en transición. Barcelona: Ediciones Ariel, SA, 1964. 224 p. FRAMPTON, K. Seven Points for the New Millennium.</description>
     </item>
     <item>
       <title>Arica, La Junta de Adelanto y las convergencias del Brutalismo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-038/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-038/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-038/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-038/</guid>
       <description>Referências Aguirre, Max. Los terremotos aceleradores de modernidad. In: VV.AA. Docomomo: trayectorias de la ciudad moderna, IV Seminario Nacional Docomomo Chile. Concepción: Universidad de Concepción, 2012. Altikes, Pablo. Junta de Adelanto de Arica. Ciudad y proyectos, 1958-1976. En: VV.AA., Docomomo: Trayectorias de la ciudad moderna, IV Seminario Nacional Docomomo Chile. Concepción: Universidad de Concepción, 2012. Ardua labor en Arica. En Viaje, 343, mayo 1962. Carolis, Pablo de; Pellegrin, Raúl. Terminal de buses de Arica.</description>
     </item>
   </channel>

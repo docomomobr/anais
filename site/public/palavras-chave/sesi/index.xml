@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SESI on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/sesi/</link>
+    <link>http://localhost:1313/palavras-chave/sesi/</link>
     <description>Recent content in SESI on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/sesi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/sesi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O sertão também é moderno</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-022/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-022/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-022/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-022/</guid>
       <description>Referências AB ARQUITETURA. Centro de atividades – Crato (CE). Arquitetura Brasileira – Esporte e lazer, Rio de Janeiro, nº 11, p. 48-53, 1979. ANDRADE, M.; LEÃO, M. T.; RODRIGUES P. A. Tramas históricas das arquiteturas modernas no nordeste brasileiro: indícios quantitativos. In: ZEIN, Ruth Verde (org.). Revisões historiográficas: arquitetura moderna no brasil. Rio de Janeiro: Rio Books, 2021. p. 112-134. ARAÚJO, I. M. de. Os novos espaços produtivos: relações sociais e vida econômica no cariri cearense.</description>
     </item>
   </channel>

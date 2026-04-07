@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UFBA on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/ufba/</link>
+    <link>http://localhost:1313/palavras-chave/ufba/</link>
     <description>Recent content in UFBA on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/ufba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/ufba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expressões da arquitetura do concreto armado na Bahia</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-042/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-042/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-042/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-042/</guid>
       <description>Referências FONTES, Antonio. Breve histórico dos campi da UFBA. Salvador: Dissertação de Mestrado apresentada ao PPGAU/UFBA, 2010. BIERRENBACH, Ana Carolina; NERY, Juliana Cardoso. O que é que a Bahia tem? 2013. Artigo – X PUCPR, Curitiba, outubro de 2013. CARIA, Luciano Fernandes. Os Caminhos e descaminhos da UFBA. 2006. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura – Universidade Federal da Bahia, Salvador, 2006. ZEIN, Ruth Verde. Brutalismo, sobre sua definição (ou, de como um rótulo superficial é, por isso mesmo, adequado).</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nudel, Marcelo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/nudel-marcelo/</link>
+    <link>http://localhost:1313/autores/nudel-marcelo/</link>
     <description>Recent content in Nudel, Marcelo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/nudel-marcelo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/nudel-marcelo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centro Empresarial Itaúsa – Conceição</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-046/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-046/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-046/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-046/</guid>
       <description>Referências ANELLI, Renato. “Rino Levi, arquitetura e cidade”. São Paulo: Romano Guerra, 2001. EVANS, John Martin. “Passive and low energy architecture education for change in South America”. In: Proceeding of the PLEA 2001 conference, Florianópolis, BOESIGER, Willy. “Le Corbusier”. Barcelona, Gustavo Gili, 1976. BRADBURY, Malcolm e MCFARLANE, James: “Modernismo, guia geral”. São Paulo, Companhia das Letras, 1999. BRE – Building Research Establishment – “BREEAM 2002 for Offices”. In: ECD Energy and Environment, London, September 2001, University Press.</description>
     </item>
   </channel>

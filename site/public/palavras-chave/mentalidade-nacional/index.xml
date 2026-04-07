@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mentalidade nacional on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/mentalidade-nacional/</link>
+    <link>http://localhost:1313/palavras-chave/mentalidade-nacional/</link>
     <description>Recent content in mentalidade nacional on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/mentalidade-nacional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/mentalidade-nacional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Grande Hotel de Ouro Preto e a construção da identidade nacional</title>
-      <link>https://anais.docomomobrasil.com/se/sdmg01/sdmg01-013/</link>
+      <link>http://localhost:1313/se/sdmg01/sdmg01-013/</link>
       <pubDate>Tue, 20 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdmg01/sdmg01-013/</guid>
+      <guid>http://localhost:1313/se/sdmg01/sdmg01-013/</guid>
       <description>Referências ANDRADE, Antonio L. D. de. O Nariz Torcido de Lucio Costa. Sinopses, São Paulo, nº 18, pp.517, dez. 1992. ANDRADE, Mário de. A Enciclopédia Brasileira. São Paulo, Giordano/Loyola/EDUSP, 1993. ARGAN, Giulio Carlo. Arte Moderna - 1770-1970. São Paulo, Cia. das Letras, 1993. ÁVILA, Affonso (coord. e org.). O Modernismo. São Paulo, Perspectiva, 1975. BARATA, Mario. Arquitetura, Tradição e Realidade Brasileira. Anais IV Congresso Brasileiro de Arquitetos, São Paulo. IAB, pp.</description>
     </item>
   </channel>

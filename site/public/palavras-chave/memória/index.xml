@@ -2,115 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memória on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/mem%C3%B3ria/</link>
+    <link>http://localhost:1313/palavras-chave/mem%C3%B3ria/</link>
     <description>Recent content in Memória on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/mem%C3%B3ria/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/mem%C3%B3ria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura Moderna no presente amplo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-226/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-226/</guid>
+      <description>Referências GUMBRECHT, H.U. Depois de 1945: latência como origem do presente (São Paulo, UNESP, 2015a GUMBRECHT, H.U Nosso Presente Amplo: o tempo e a cultura contemporânea. São Paulo, UNESP, 2015b. HUYSSEN, A. Seduzidos pela memória. Rio de Janeiro, Aeroplano, 2000. NOBRE, A.L.S., KAMITA, J. M. (org.) Arquitetura Atlântica: deslocamentos entre Brasil e Portugal. São Paulo/Romano Guerra, Rio de Janeiro/Editora PUC-Rio, 2010 </description>
+    </item>
+    <item>
+      <title>Processos de ressignificação cultural no Centro de São Paulo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-135/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-135/</guid>
+      <description>Referências ACERVO DE PROJETOS DA BIBLIOTECA FAU-USP. ACERVO DA FUNDAÇÃO DE ENERGIA E SANEAMENTO. ACERVO DA FUNDAÇÃO TELEFÔNICA. AMBIÊNCIA ARQUITETURA E RESTAURO. &amp;lt;http://www.ambiencia.arq.br&amp;gt; ARQUIVO GERAL DE PROCESSOS DA PREFEITURA MUNICIPAL DE SÃO PAULO. ARQUIVO HISTÓRICO MUNICIPAL DE SÃO PAULO (AHMSP). BUENO, Beatriz Piccolotto Siqueira. O Escritório Técnico Ramos de Azevedo, Severo &amp;amp; Villares: longevidade, pluralidade e modernidade (1886-1965). Revista CPC, n. 19, jun. 2015. GEOSAMPA. &amp;lt;https://geosampa.prefeitura.sp.gov.br&amp;gt; Acesso em: 2025. METRO ARQUITETOS.</description>
+    </item>
     <item>
       <title>As casas contam histórias</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-014/</link>
+      <link>http://localhost:1313/se/sdsp09/sdsp09-014/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-014/</guid>
+      <guid>http://localhost:1313/se/sdsp09/sdsp09-014/</guid>
       <description>Referências BICCA, Briane Elisabeth Panitz; BICCA, Paulo Renato Silveira (orgs.) Arquitetura na Formação do Brasil. Brasília: UNESCO, Instituto do Patrimônio Histórico e Artístico Nacional, 2008. BLAY, Eva. E não tenho onde morar. Nobel Editora, São Paulo, 1982. FEBVRE, Lucien. Combats pour l’histoire. In: LE GOFF, Jacques. História e Memória: Tradução Bernardo Leitão. 5.ed. – Campinas, SP: Editora da Unicamp, 2003. NASCIMENTO, Flávia Brito do e SCIFONI, Simone. Lugares de memória: trabalho, cotidiano e moradia.</description>
     </item>
     <item>
       <title>Edifício Wilton Paes de Almeida</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-122/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-122/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-122/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-122/</guid>
       <description>Referências BARATTO, R. Edifício tombado de 22 pavimentos desaba após incêndio no centro de São Paulo. Disponível em: &amp;lt;https://www.archdaily.com.br/br/893568/edificio-de-22-pavimentos-desaba-apos-incendio-no-centro-de-sao-paulo&amp;gt; Acesso em: 06/05/2019. CARERI, Francesco. Walkscapes: o caminhar como prática estética. São Paulo: Editora GG, 2013. CERTEAU, Michel de. A invenção do cotidiano. 1. Artes do fazer. Petrópolis: Vozes, 1994. DEBORD, G. Teoria da Deriva. In Revista Internacional Situacionista. No. 2, dezembro 1958. DELEUZE, G. e GUATTARI, F. Rizoma. Mil Platôs. Volume 1.</description>
     </item>
     <item>
       <title>Arquitetura da demolição, a nova memória do moderno</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-010/</link>
+      <link>http://localhost:1313/sul/sdsul06/sdsul06-010/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-010/</guid>
+      <guid>http://localhost:1313/sul/sdsul06/sdsul06-010/</guid>
       <description>Referências ARANTES, Antonio A. O patrimônio cultural e seus usos: a dimensão urbana. Habitus. Goiânia, v. 4, n.1, p. 425-435, jan./jun. 2006. BAUMAN, Zygmunt. Tempos Líquidos. Ed. Zahar, Rio de Janeiro, 2007. BISELLI, M. Teoria e prática do partido arquitetônico. Vitruvius, São Paulo, n. 12.134, jul. 2011. Disponível em &amp;lt;http://vitruvius.com.br/revistas/read/arquitextos/12.134/3974&amp;gt; Acesso em: 03 out 2013 BONAMETTI, João Henrique. Paisagem urbana, bases conceituais e históricas. Terra e cultura, ano XX, nº38, p.</description>
     </item>
     <item>
       <title>Pela valorização da obra residencial modernista de Acácio Gil Borsoi em Fortaleza</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-003/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-003/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-003/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-003/</guid>
       <description>Referências AMARAL, I. F. ​Um olhar sobre a obra de Acácio Gil Borsoi: obras e projetos residenciais 1953-1970​. 2004. 238 p. Dissertação (Mestrado) - Programa de Pós-Graduação em Arquitetura e Urbanismo, UFRN, Natal, 2004. ANUÁRIO DO CEARÁ 2018-2019. ​Índice de Desenvolvimento Humano Bairros Fortaleza (2010)​. Disponível em: &amp;lt;http://www.anuariodoceara.com.br/indice-bairros-fortaleza/&amp;gt; Acesso em: 16 fev. 2019. CASA Cor investe R$ 2 mi e deve gerar 600 empregos diretos. ​Diário do Nordeste​. Fortaleza, 17 maio 2018.</description>
     </item>
     <item>
       <title>Cine Rex</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/93/</link>
+      <link>http://localhost:1313/nne/sdnne06/93/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/93/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/93/</guid>
       <description></description>
     </item>
     <item>
       <title>Inventário do Patrimônio Arquitetônico Teresinense</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-075/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-075/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-075/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-075/</guid>
       <description>Referências AFONSO, Alcilia e MARQUES, Rômulo. Teresina em Aquarelas. Teresina: EDUFPI, Gráfica Cidade Verde. 2014. AFONSO, Alcilia e MORAES, Michele. Arquitetura piauiense. Teresina: EDUFPI, Gráfica Aliança.2009. AFONSO, Alcilia e NEGREIROS, Ana Rosa. Documentos da Arquitetura Moderna em Teresina. Teresina: EDUFPI, Gráfica Halley, 2010. AFONSO, Alcilia e VERÍSSIMO, Víctor. Guia de Arquitetura Moderna em Teresina. Teresina: EDUFPI, Gráfica Cidade Verde. 2015. AFONSO, Alcília. A trajetória da pesquisa sobre modernidade arquitetônica na UFPI: depoimento.</description>
     </item>
     <item>
       <title>A Modernidade preservada na Arquitetura de Antônio Luiz Dutra de Araújo</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-003/</link>
+      <link>http://localhost:1313/nne/sdnne05/sdnne05-003/</link>
       <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-003/</guid>
+      <guid>http://localhost:1313/nne/sdnne05/sdnne05-003/</guid>
       <description>Referências AFONSO, Alcília. Antônio Luiz. Arquiteto. Teresina: Halley, 2012. AFONSO, Alcília. Documentação da arquitetura: Teresina, 160 anos. Teresina: EDUFPI, 2013. Editora Gráfica Aliança. Timon. Maranhão. ALBOLEA, Textos Arthur. O Milagre Econômico foi tão ruim assim? Super Interessante, São Paulo. Mar. 2011. ANDRADE, Artur Sampaio. Arquitetura Residencial Modernista: A Influencias da Escola Carioca nos Projetos de Anísio Medeiros em Teresina. V.1, Dissertação de Mestrado em Arquitetura e Urbanismo, UNB/FAU, Brasília, 2005. ANDRADE, Paulo Bonavides Paes.</description>
     </item>
     <item>
       <title>Raul de Lagos Cirne</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-016/</link>
+      <link>http://localhost:1313/nne/sdnne05/sdnne05-016/</link>
       <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-016/</guid>
+      <guid>http://localhost:1313/nne/sdnne05/sdnne05-016/</guid>
       <description>Referências AFONSO, A &amp;amp; NEGREIROS, A. Documentos da arquitetura moderna em Teresina. Teresina: Gráfica Halley, Edufpi. 2012. CARSALADE, Flávio e LEMOS, Celina (org). Escola de arquitetura da UFMG: lembranças de um passado, visão de um futuro. Belo Horizonte: EA/ UFMG. 2010. CAVALCANTI, Lauro. Quando o Brasil era moderno. Guia de Arquitetura.1928-1960. Rio de Janeiro: Editora Aeroplano. 2001 CIRNE, Raul de Lagos. Entrevista concedida à autora. 11/ 11/ 2013. Belo Horizonte. 2013.</description>
     </item>
     <item>
       <title>Lugares em suspensão na cidade</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-070/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-070/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-070/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-070/</guid>
       <description>Referências BACHELARD, Gaston. La poétique de l’espace. Paris : PUF, 1974. BENJAMIN, Walter. A obra de arte na era de sua reprodutibilidade técnica (1936). In : Obras escolhidas I. Editora Brasiliense, São Paulo, 1996. BIRMAN, Joel. Memória, arquivo e inconsciente: da história à genealogia. Curso Livre ministrado no Polo de Pensamento Contemporâneo, Rio de Janeiro, julho 2008. CHAUÍ, Marilena. Cultura e democracia: o discurso competente e outras falas. São Paulo: Cortez, 2007.</description>
     </item>
     <item>
       <title>Plano Urbanístico da Baía de Vitória, por Paulo Mendes da Rocha</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-133/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-133/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-133/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-133/</guid>
       <description>Referências ALVES, A. A. de A. Arquitetura Moderna, Paulo Mendes da Rocha, Cidade. In &amp;lt;http://www.ponto.org/1/artigo3.html&amp;gt; ARTIGAS, R. Paulo Mendes da Rocha. São Paulo, Cosac &amp;amp; Naify, 2002 (2 ed.) CATÁLOGO, “Arquitetura, Cidade e Território”. 7 Mostra Internacional de Arquitetura da Bienal de Veneza, 2000 LIMA JR., C. B., SOARES, S. C. &amp;amp; BONICENHA, W. Baía de Vitória: aspectos históricos e culturais. Vitória: FCAA, MOTTA, F. Paulo Mendes da Rocha. In &amp;lt;http://www.</description>
     </item>
     <item>
       <title>Recuperação de acervos de arquitetura em Manguinhos</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-029/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-029/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-029/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-029/</guid>
       <description>Referências ACAYABA, M. M; Ficher, Sylvia. Arquitetura Moderna Brasileira. São Paulo: Projetos Editores Associados, 1982. ALLAN, John. The conservation of modern buildings. In: MILLS, Edward D (Ed.). Building maintenance and preservation: a guide for design and management. 2ed rev. Oxford: Edward Mills, 1994, p.140-180. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 2002. CHERRY, Martin. Listing twentieht-century buildings: the present situation. In: MACDONALD, Susan (org.). Modern matters. Principles &amp;amp; practice in conserving recent architecture.</description>
     </item>
     <item>
       <title>A preservação do patrimônio moderno</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne02/sdnne02-007/</link>
+      <link>http://localhost:1313/nne/sdnne02/sdnne02-007/</link>
       <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne02/sdnne02-007/</guid>
+      <guid>http://localhost:1313/nne/sdnne02/sdnne02-007/</guid>
       <description>Referências BRANDI, Cesare. Teoria da restauração. Cotia, SP: Ateliê Editorial, 2004. CARRILHO, Marcos José . Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. São Paulo: Vitruvius, 2000. Disponível em: &amp;lt;http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp&amp;gt; Acesso em 10 mai 2007, 17:24:25. CASTILLA DE PINO, Carlos. La memoria y la piedra. In: Moreno-Navarro, Gonzales; Castilla del Pino, Carlos; Fernández Alba, A. Patrimônio: memoria o pesadilla? Memoria 1990-1992. Barcelona: Instituto de Ediciones de la Diputación de Barcelona,1995, p.</description>
     </item>
     <item>
       <title>In Memoriam</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-010/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-010/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-010/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-010/</guid>
       <description>Referências CAVALCANTI, Lauro. Quando o Brasil era Moderno - Guia de Arquitetura 1928-1960. Rio de Janeiro : Aeroplano, 2001. COUTINHO, Sylvia Ribeiro. Residência Nordschild - Contribuição de Gregori Warchavchick para Arquitetura Moderna no Brasil. Monografia de Especialização em História da Arte e Arquitetura no Brasil. PUC/RJ, 1998 e COUTINHO, Sylvia Ribeiro. Memória e Esquecimento: Casa Nordschild e a Formação da Arquitetura Moderna no Brasil. Dissertação de Mestrado em História Social da Cultura.</description>
     </item>
     <item>
       <title>Reflexão sobre rearquiteturas e obras modernas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-015/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-015/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-015/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-015/</guid>
       <description>Referências CARRILHO, Marcos José . Restauração de obras modernas e a Casa da Rua Santa Cruz de Gregori Warchavchik. São Paulo: Vitruvius, 2000. Disponível em: &amp;lt;http://www.vitruvius.com.br/arquitextos/arq000/esp030.asp&amp;gt; Acesso em 10 mai 2007, 17:24:25. CASTILLA DE PINO, Carlos. La memoria y la piedra. In: Gonzales Moreno-Navarro, C. Castilla del Pino, A. Fernández Alba. Patrimônio: memoria o pesadilla? Memoria 1990-1992. Barcelona: Instituto de Ediciones de la Diputación de Barcelona,1995, p. 9-12. CHOAY, Françoise. A alegoria do patrimônio.</description>
     </item>
     <item>
       <title>Arquitetura moderna em São José dos Campos</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-059/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-059/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-059/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-059/</guid>
       <description>Referências RIOARTE; IPLANRIO, Instituto Municipal de Arte e Cultura (Rio de Janeiro, RJ). Corredor cultural: como recuperar, reformar ou construir seu imóvel. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, 1985. BITTENCOURT, Tania. São José dos Campos – Arquitetura Sanatorial. São José dos Campos, SP: TMMBittencourt, 1998. BRUAND, Yves. Arquitetura Contemporânea no Brasil. 4 ed. São Paulo: Perspectiva, 2003. MAHFUZ, Edson da Cunha. Teoria, História e Crítica e seu papel no ensino de Projeto Arquitetônico.</description>
     </item>
   </channel>

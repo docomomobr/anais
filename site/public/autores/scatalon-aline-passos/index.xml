@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scatalon, Aline Passos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/scatalon-aline-passos/</link>
+    <link>http://localhost:1313/autores/scatalon-aline-passos/</link>
     <description>Recent content in Scatalon, Aline Passos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/scatalon-aline-passos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/scatalon-aline-passos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patrimônio e requalificação na Biblioteca Mário de Andrade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-286/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-286/</guid>
+      <description>Referências ACRÓPOLE. São Paulo será o maior centro bibliotecário do continente. Acrópole, São Paulo, ano III, n. 34, p. 352-353, fev. 1941. ACRÓPOLE. Biblioteca Municipal de S. Paulo. Acrópole, São Paulo, ano VI, n. 68, p. 207-214, dez. 1943. AMORIM, Laís Silva; RUFIONI, Manoela Rossinetti. Biblioteca Mário de Andrade: um patrimônio para a cidade. Revista Restauro, v. 2, n. 4, 2018. CAMPOS, Vitor José Baptista. O art-déco na arquitetura paulistana: uma outra face do moderno.</description>
+    </item>
     <item>
       <title>A Artene e o artesanato popular brasileiro</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-011/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-011/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-011/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-011/</guid>
       <description>Referências ALVES, André Augusto de Almeida. Um projeto para o Brasil: arquitetura e política na trajetória de Lina Bo Bardi no Brasil, 1946 - 1977. Risco: Revista de Pesquisa em Arquitetura e Urbanismo (on line), 2014. ANELLI, R. L. S. Lina Bo Bardi and her relationship to Brazil? Economic and Social Development Policy. Lina Bo Bardi 100. Brazil&amp;rsquo;s Alternative Path to Modernism. 1ed. Berlim: Hatje Cantz, 2014, v. 1, p. 155-169.</description>
     </item>
     <item>
       <title>Habitação e cidade</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-035/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-035/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-035/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-035/</guid>
       <description>Referências AGUIRRE ROJAS, Carlos Antonio. Uma história dos Annales (1921-2001). Tradução de Jurandir Malerba. Maringá: Eduem, 2004, 183p. ALVES, André Augusto de Almeida. Arquitetura escolar paulista 1959 - 1962 o PAGE, o IPESP e os arquitetos modernos paulistas. Tese (doutorado em arquitetura e urbanismo) – Universidade de São Paulo, São Paulo, 2008. ALVES, André Augusto de Almeida. Arquitetura moderna e tradição construtiva: a difusão da modernidade às cidades do interior paulista através das obras iniciais promovidas pelo Ipesp com projetos de arquitetos modernos paulistas, ARANTES, Pedro Fiori.</description>
     </item>
   </channel>

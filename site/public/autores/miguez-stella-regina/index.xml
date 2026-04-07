@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguez, Stella Regina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/miguez-stella-regina/</link>
+    <link>http://localhost:1313/autores/miguez-stella-regina/</link>
     <description>Recent content in Miguez, Stella Regina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/miguez-stella-regina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/miguez-stella-regina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O acervo de projetos da FAUUSP</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-051/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-051/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-051/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-051/</guid>
       <description>Referências CARDINAL, Louis (org.) A Guide to the archival care of architectural records 19th-20th Centuries. Paris, International Council on Archives - ICA, 2000. MARQUES, Eliana de Azevedo; CASSARES, Norma Cianflone. O acervo Vilanova Artigas no Serviço de Biblioteca e Informação da Faculdade de Arquitetura e Urbanismo da Universidade de S. Paulo. Conservação. In: Vilanova Artigas, arquitecto: a cidade é uma casa. A casa é uma cidade. São Paulo: Casa da Cerca, 2000 / 2001.</description>
     </item>
   </channel>

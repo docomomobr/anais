@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nogueira Batista, Marcia Aguiar on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/nogueira-batista-marcia-aguiar/</link>
+    <link>http://localhost:1313/autores/nogueira-batista-marcia-aguiar/</link>
     <description>Recent content in Nogueira Batista, Marcia Aguiar on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/nogueira-batista-marcia-aguiar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/nogueira-batista-marcia-aguiar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Candidatura do Rio de Janeiro a patrimônio mundial</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-027/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-027/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-027/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-027/</guid>
       <description>Referências CAVALCANTI, Lauro. Quando o Brasil era moderno, Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano Editora, 2001. CURY, Isabelle (org). Cartas Patrimoniais. Rio de Janeiro: IPHAN, Edições do Patrimônio, 2000. DELPHIM, Carlos Fernando de Moura. Manual de Intervenções em Jardins Históricos. Brasília: GUIMARÃES, Cêça (org). Arquitetura e Movimento Moderno. Rio de Janeiro: Coleção Proarq. FAU-UFRJ, 2006. LEENHARDT, Jacques (org). Nos Jardins de Burle Marx. São Paulo: Editora Perspectiva, 2000. PREFEITURA DA CIDADE DO RIO DE JANEIRO.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neoconcretismo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/neoconcretismo/</link>
+    <link>http://localhost:1313/palavras-chave/neoconcretismo/</link>
     <description>Recent content in Neoconcretismo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/neoconcretismo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/neoconcretismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brasil pós-Guerra, vertente construtiva e estética industrial</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-011/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-011/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-011/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-011/</guid>
       <description>Referências AMARAL, Aracy. “As posições dos anos 50. Entrevista de Vilanova Artigas a Aracy Amaral”. [in] Projeto nº 109, São Paulo: abril de 1988. AMARAL, Aracy (Org.). Arte Construtiva no Brasil: Coleção Adolpho Leirner. São Paulo: Cia. Melhoramentos/ DBA Artes Gráficas, 1998. AMARAL, Aracy. Arte para que? São Paulo: Studio Nobel, 2003. ARTIGAS, João B. Vilanova. Caminhos da arquitetura. São Paulo: Livraria Editora Ciências Humanas, 1981. BRITO, Ronaldo. Neoconcretismo - Vértice e ruptura do projeto construtivo brasileiro.</description>
     </item>
     <item>
       <title>Arquitetura Moderna e Neoconcretismo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-054/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-054/</guid>
       <description>Referências BRITO, Ronaldo. Experiência Crítica. São Paulo: Cosac &amp;amp; Naify, 2005 . BRITO, Ronaldo. “Espaço em ato”. In.- Richard Serra. Rio de Janeiro: Centro de Arte Hélio Oiticica, 1997. COCCHIARALE, F., GEIGER, A.B. (org.) Abstracionismo Geométrico e Informal: a vanguarda brasileira nos anos cinqüenta. Rio de Janeiro: FUNARTE, 1987. HUSSERL, E. L’Origine de la Geometrie. Paris : Presses Universitaires de France, 1999. LE CORBUSIER. Precisões sobre um estado presente da Arquitetura e do Urbanismo.</description>
     </item>
   </channel>

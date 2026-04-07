@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>desenvolvimentismo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/desenvolvimentismo/</link>
+    <link>http://localhost:1313/palavras-chave/desenvolvimentismo/</link>
     <description>Recent content in desenvolvimentismo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/desenvolvimentismo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/desenvolvimentismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niemeyer e o desenvolvimentismo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-033/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-033/</guid>
+      <description>Referências Garcia, Glaucia. “Duchen: O triste fim da fábrica projetada por Oscar Niemeyer.” São Paulo Antiga, 4 de novembro de 2010. Acesso em 18 de agosto de 2025. &amp;lt;https://saopauloantiga.com.br/biscoitos-duchen-historia-e-demolicao/&amp;gt; Penedo, Alexandre. Arquitetura Moderna em São José dos Campos. São José dos Campos: edição do autor, 1997. Figueiredo, Rolando Piccolo. A arquitetura de Oscar Niemeyer e do Escritório Fernando de Britto para o Centro Técnico de Aeronáutica: 1946–1958. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo e de Design, Universidade de São Paulo, 2025.</description>
+    </item>
     <item>
       <title>Projetando cidades na Amazônia</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-066/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-066/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-066/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-066/</guid>
       <description>Referências Barbosa, Reinaldo Imbrósio. Ocupação humana em Roraima: do histórico colonial ao início do assentamento dirigido. Revista Boletim 9 (1): Museu Emilio Goeldi, Belém, p. 123-144. 1993. Barros, José D’Assunção. Fontes históricas: introdução aos seus usos historiográficos. Petrópolis, RJ: Barros, Nilson Cortez Crocia de. Roraima: Paisagens e Tempo na Amazônia Setentrional: estudo de ocupação pioneira na América do Sul. Recife: Editora Universitária – UFPE. 1995. BRASIL, Decreto-Lei nº 411, de 08 de janeiro de 1969.</description>
     </item>
     <item>
       <title>Origem e desdobramentos do desenvolvimentismo no Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-075/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-075/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-075/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-075/</guid>
       <description>Referências ALMANDOZ, Arturo. Despegues sin madurez. Urbanización, industrialización y desarrollo en la Latinoamérica del siglo XX. In: Revista Eure, Vol. XXXIV, n.º 102, pp. 61-76, Santiago de Chile, 2008. CASTELLS, Manuel; VELEZ, P. La urbanización dependiente en América Latina In: CASTELLS, Manuel (org.). Imperialismo y urbanizacion en America Latina. Barcelona, Gustavo Gili, 1971. pp. 1-26. CHIQUITO, Elisangela de Almeida. A comissão Interestadual da bacia Paraná-Uruguai: Do planejamento de vale aos polos de desenvolvimento.</description>
     </item>
     <item>
       <title>Paisagem do abandono</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-105/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-105/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-105/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-105/</guid>
       <description>Referências ANDREOLI, Elisabetta; FORTY, Adrian (Orgs.). Arquitetura moderna brasileira. Londres: Phaidon Press, 2004. BANHAM, Reyner. A Concrete Atlantis. U.S. Industrial Building and European Modern Architecture (1900-1925). Cambridge/London: The MIT Press, 1986. BANHAM, Reyner. Teoria e Projeto na Primeira Era da Máquina. São Paulo: Perspectiva, 1975 (1960). BRITTO, Alfredo. Pedregulho: O sonho pioneiro da habitação popular no Brasil. Rio de Janeiro: Edições de Janeiro, 2015. CABRAL, Cláudia Piantá Costa. De volta ao futuro: revendo as megaestruturas.</description>
     </item>
   </channel>

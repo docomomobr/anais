@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquitetura Moderna na Amazônia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-moderna-na-amaz%C3%B4nia/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-moderna-na-amaz%C3%B4nia/</link>
     <description>Recent content in Arquitetura Moderna na Amazônia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-moderna-na-amaz%C3%B4nia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-moderna-na-amaz%C3%B4nia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explorando a aplicação de Stable Diffusion na modernização e preservação da arquitetura amazônica</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-037/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-037/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-037/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-037/</guid>
       <description>Referências Imagens [de] generativas: o ensino de artes visuais e design gráfico face à inteligência artificial. SCIAS-Educação, Comunicação e Tecnologia, v. 5, n. 2, p. 124-141, 2023. BRÍGITTE, Giovanna Tomczinski Novellini. PROJETO, PADRÕES E TECNOLOGIA: da linguagem de Alexander à programação e inteligência artificial. PIXO-Revista de Arquitetura, Cidade e Contemporaneidade, v. 5, n. 17, 2021. CERETO, Marcos et al. II Seminário de Arquitetura Moderna na Amazônia. II Seminário de Arquitetura Moderna na Amazônia-II SAMA, 2019.</description>
     </item>
   </channel>

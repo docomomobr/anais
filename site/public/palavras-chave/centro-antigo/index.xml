@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>centro antigo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/centro-antigo/</link>
+    <link>http://localhost:1313/palavras-chave/centro-antigo/</link>
     <description>Recent content in centro antigo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/centro-antigo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 15:54:08 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/centro-antigo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Turismo cultural e revitalização de centro antigo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-063/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-063/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-063/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-063/</guid>
       <description>Referências AVIGHI, C. M. Turismo, Globalização e Cultura. In: LAGE, B.H.G.; MILONE, P.C.(org). Turismo: teoria e prática - São Paulo: Atlas, 2000, p.102. BARRETTO, M. Turismo e legado cultural: As possibilidades do planejamento. Campinas, SP: Papirus, 2000. – (Coleção Turismo). CASCUDO, L. da C. História da cidade do Natal. 2 ed. Rio de Janeiro: Civilização Brasileira; Brasília: INL; Natal: UFRN, 1980. ELALI, G. A. Imagem Sócio-ambiental de Áreas Urbanas: um estudo na Ribeira, Natal, RN- Brasil.</description>
     </item>
   </channel>

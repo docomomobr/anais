@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>new towns on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/new-towns/</link>
+    <link>http://localhost:1313/palavras-chave/new-towns/</link>
     <description>Recent content in new towns on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/new-towns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/new-towns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planos de Urbanismo para as estâncias hidrominerais de Cipó e Itaparica no cenário urbanístico da Bahia dos anos 30</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-030/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-030/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-030/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-030/</guid>
       <description>Referências BRITTO, Antônio Carlos Nogueira. A Medicina Baiana nas Brumas do Passado: Séculos XIX e XX – aspectos inéditos. Salvador: Contexto e Arte Editorial, 2002. COMMISSÃO DO PLANO DA CIDADE DO SALVADOR. “Semana de Urbanismo” 20 a 27 de outubro de 1935. Conferências. Salvador: Cia. Editora e Graphica da Bahia, 1935. CHOAY, Françoise. O Urbanismo. São Paulo: Perspectiva, 1997. FRANCO, Amanda Cristina. Entre o Racional e o Pitoresco: o Plano Diretor de Luís Saia para Águas de Lindóia.</description>
+    </item>
+    <item>
+      <title>Coming of age</title>
+      <link>http://localhost:1313/internacional/idc06/idc06-042/</link>
+      <pubDate>Tue, 19 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/internacional/idc06/idc06-042/</guid>
+      <description>Referências Abercrombie, Sir Patrick &amp;amp; Matthew, Robert M (1949) The Clyde Valley regional plan, Edinburgh. Adam Smith Institute (1988) Livingston plc, I presume?, London. Banham, Reyner (1976) Megastructure, London. City of Glasgow Corporation (1947) First and second planning reports, 2nd edition, Glasgow. Cowling, David (1997) An essay for today; the Scottish new towns 1947 to 1997, Edinburgh. Cumbernauld New Town Development Corporation (1962) Cumbernauld New Town Planning Proposals - Second Revision, Cumbernauld.</description>
     </item>
   </channel>
 </rss>

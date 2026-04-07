@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conservação preventiva on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/conserva%C3%A7%C3%A3o-preventiva/</link>
+    <link>http://localhost:1313/palavras-chave/conserva%C3%A7%C3%A3o-preventiva/</link>
     <description>Recent content in conservação preventiva on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/conserva%C3%A7%C3%A3o-preventiva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/conserva%C3%A7%C3%A3o-preventiva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planos de conservação e manutenção para o Patrimônio Arquitetônico hospitalar moderno</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-064/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-064/</guid>
+      <description>Referências Amora, Ana; Costa, Renato (Orgs.). A Modernidade na arquitetura hospitalar: contribuições para sua historiografia. Rio de Janeiro: Editora PROARQ, 2019. Coelho, Carla; Carvalho, Claudia (Orgs.). Conservação Preventiva de Edifícios Históricos: Princípios e Práticas. Rio de Janeiro: Mórula/FAPERJ, 2025. Costeira, Elza. Olhar o Passado para Construir o Futuro: Desafios da Preservação da Moderna Arquitetura Hospitalar. Tese (Doutorado em Arquitetura). PROARQ/UFRJ: 2018. Fiorani, Donatela. “Conservation vs Innovation? Should we (still) Teach Restoration in Architecture?</description>
+    </item>
     <item>
       <title>Preservação da Arquitetura Moderna na Fundação Oswaldo Cruz</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-013/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-013/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-013/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-013/</guid>
       <description>Referências AGUIAR, Barbara Cortizo; CARCERERI, Maria Luísa G. Arquitetura moderna e sua preservação: estudos para o plano de conservação preventiva do Pavilhão Arthur Neiva. Rio de Janeiro: In-Fólio, 2017. BENCHIMOL, Jaime L. Manguinhos do sonha à vida: A ciência na Belle Époque. Rio de Janeiro: Casa de Oswaldo Cruz/Fiocruz, 1990. BENCHIMOL, Jaime L. Febre amarela: a doença e a vacina, uma história inacabada. Rio de Janeiro: Editora Fiocruz, 2001. BRUAND, Yves.</description>
     </item>
   </channel>

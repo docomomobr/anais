@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eduardo de Almeida on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/eduardo-de-almeida/</link>
+    <link>http://localhost:1313/palavras-chave/eduardo-de-almeida/</link>
     <description>Recent content in Eduardo de Almeida on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/eduardo-de-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/eduardo-de-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eduardo de Almeida</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-145/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-145/</guid>
+      <description>Referências ARMSTRONG, Ann R. E. Architectural Archives/Archiving Architecture: The Digital ERA. Art Documentation: Journal of the Art Libraries Society of North America, v. 25, n. 2, p. 12-17, out. 2006 FIGUEIREDO, Alessandra, SILVA, Helena Ayoub e IWAMIZU, Cesar Shundi. Eduardo de Almeida: Arquiteto. São Paulo: BEI, 2022. IWAMIZU, Cesar Shundi. Eduardo de Almeida: reflexões sobre estratégias de projeto e ensino. 2015. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2015.</description>
+    </item>
     <item>
       <title>Edifício Gemini</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-021/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-021/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-021/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-021/</guid>
       <description>Referências ALMEIDA, Eduardo de. Habitação: consumo, produto, projeto. FAU-USP, 1972. Tese de doutorado. APARICIO GUISADO, Jesús Maria. El muro: concepto esencial en el proyec- to arquitetónico: la materialización de la idea y la idealización de la materia. Madrid: Cp67, 2000. ARMESTO, Antonio. El aula sincrônica: Um ensaio sobre el análisis em ar- quitectura. Universitat Politécnica de Catalunya. Departamento de proyectos Arquitectónicos, 1993. Tese de doutorado. GUERRA, Abilio (org). Eduardo de Almeida.</description>
     </item>
     <item>
       <title>A materialidade na arquitetura de Eduardo de Almeida</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-018/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-018/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-018/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-018/</guid>
       <description>Referências Luis Espallargas Gimenez, &amp;ldquo;O melhor detalhe é aquele que não se vê&amp;rdquo;, in &amp;ldquo;Eduardo de Almeida: arquiteto brasileiro contemporâneo&amp;rdquo; 1a. ed; Abílio Guerra, Nelson Kon, Isabel Imbronito (orgs); São Paulo: Romano Guerra. Abilio Guerra, &amp;ldquo;Eduardo de Almeida: arquiteto brasileiro contemporâneo&amp;rdquo;. 1ª Ed. São Paulo, Romano Guerra Editora, 2006. Maria Isabel Imbronito, &amp;ldquo;Procedimento de Projeto com Base em Retículas: estudo de casas de Eduardo de Almeida&amp;rdquo;. Tese (Doutorado), USP, 2008. Maria Isabel Imbronito, “Três edifícios de habitação da Formaespaço: Modulares, Gemini e Protótipo”.</description>
     </item>
     <item>
       <title>Três edifícios de habitação para a Formaespaço</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-036/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-036/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-036/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-036/</guid>
       <description>Referências ACAYABA, Marlene Milan. Residências em São Paulo 1947-1975. São Paulo: Projeto, 1985. ALMEIDA, Eduardo. Habitação: consumo, produto, projeto. Tese de Doutorado. Faculdade de Arquitetura e Urbanismo. Universidade de São Paulo. São Paulo, 1972. ARTIGAS, Rosa (org.). Paulo Mendes da Rocha. São Paulo: Cosac &amp;amp; Naify, 2000. ARTIGAS, João Batista Vilanova. Os caminhos da arquitetura. São Paulo: FVA; Pini, 1984. BNH. BNH Documenta. Rio de Janeiro: S.N., 1974. BRUAND, Yves. Arquitetura contemporânea no Brasil.</description>
     </item>
   </channel>

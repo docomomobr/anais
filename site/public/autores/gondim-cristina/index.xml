@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gondim, Cristina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/gondim-cristina/</link>
+    <link>http://localhost:1313/autores/gondim-cristina/</link>
     <description>Recent content in Gondim, Cristina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/gondim-cristina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/gondim-cristina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O projeto como instrumento reflexivo e especulativo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-210/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-210/</guid>
+      <description>Referências Banham, Reyner. The New Brutalism: ethic or aesthetic? New York: Reinhold Publishing Corporation, 1966. Cohen, Jean-Louis. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac &amp;amp; Naify, 2013. Craig, Gordon A. “Berlin, the Hauptstadt. Back Where It Belongs”. Foreign Affairs, v. 77, n. 4 (julho/agosto 1998): 161-170. Crosby, Philip M. “Holey urbanisms: Team 10 as an antecedent to landscape urbanism or where is the urbanism of landscape urbanism?</description>
+    </item>
     <item>
       <title>Memphis S.A.</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-034/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-034/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-034/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-034/</guid>
       <description>Referências ANDERSON, Stanford. (n.d.). Eladio Dieste: Um construtor com princípios éticos e morais. Retrieved August 11, 2021, from &amp;lt;https://livrozilla.com/doc/1443641/&amp;gt; eladio-dieste&amp;ndash;um-construtor-com-princ%C3%ADpios-%C3%A9ticos-e ARAÚJO, Cláudio L. Gomes. (2000). Um depoimento. Arqtexto (UFRGS), zero, 116–123. &amp;lt;https://www.ufrgs.br/propar/publicacoes/ARQtextos/PDFs_revista_0/0_Entrevista&amp;gt; BASTOS, Maria Alice Junqueira, &amp;amp; ZEIN, Ruh Verde. (2010). Brasil: Arquiteturas após 1950. Arquitetura, Cidade, Paisagem e Território: Percursos e Prospectivas. I ENANPARQ – Encontro Nacional da Associação Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo, Rio de Janeiro.</description>
     </item>
     <item>
       <title>Paralelismos e relações entre teorias revisionistas pós CIAMs e manifestações da Arquitetura Moderna Brasileira</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-046/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-046/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-046/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-046/</guid>
       <description>Referências BANHAM, Reyner. Megaestructure. Urban Future of Recent Past. Thames and Hudson, Londres, 1976. BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquitetura após 1950. 1. ed. São Paulo: Perspectiva, 2010. BRUNA, Paulo. Depoimento por videoconferência. Entrevistadora: Cristina Gondim [Arquivo digital de áudio e vídeo], 2021. CASTOR, Ricardo Silveira. Arquitetura Moderna em Mato Grosso: diálogos, contrastes e conflitos. Tese (Doutorado em História e Fundamentos da Arquitetura e Urbanismo). SEGAWA, Hugo (Orient.</description>
     </item>
     <item>
       <title>Guillermo Jullian de la Fuente</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-011/</link>
+      <link>http://localhost:1313/sul/sdsul06/sdsul06-011/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-011/</guid>
+      <guid>http://localhost:1313/sul/sdsul06/sdsul06-011/</guid>
       <description>Referências ALLARD, Pablo. Guillermo Jullian de la Fuente and Mat-building. In: RISSELADA, Max; VAN DEN HEUVEL, Dirk; DE WAAL, Gijs. Team 10 - Keeping the Language of Modern Architecture Alive, Delft: TU Delft, 2006. ALLARD, Pablo. Bridge over Venice. Speculations on Cross-fertilization of Ideas between Team 10 and Le Corbusier (after a Conversation with Guillermo Jullian de la Fuente). In: SARKIS, Hashim. Le Corbusier’s Venice Hospital and the Mat Building Revival.</description>
     </item>
   </channel>

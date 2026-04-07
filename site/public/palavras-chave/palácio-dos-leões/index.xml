@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palácio dos Leões on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-dos-le%C3%B5es/</link>
+    <link>http://localhost:1313/palavras-chave/pal%C3%A1cio-dos-le%C3%B5es/</link>
     <description>Recent content in Palácio dos Leões on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-dos-le%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/pal%C3%A1cio-dos-le%C3%B5es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estudos para o projeto de Restauração dos jardins do Palácio dos Leões</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-045/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-045/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-045/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-045/</guid>
       <description>Referências ANGELIS, Bruno Luiz Domingos de; NETO, Generoso De Angelis. Jardins históricos – introduzindo a questão. In Revista Paisagem Ambiente: ensaios - n. 19 - São Paulo - p. 31 - 48 – 2004. BARTALINI, Vladimir. A HERANÇA DE UMA MODERNIDADE. Pós v.17 n.27. São Paulo, 2010. BELTRÃO, Ana Beatriz Tenório de Souza; CARNEIRO, Ana Rita Sá. Inventário dos Jardins Privados de Burle Marx no Recife. XIX CONIC - III CONITI - VII JOIC CTG.</description>
     </item>
   </channel>

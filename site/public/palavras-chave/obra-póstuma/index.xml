@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>obra póstuma on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/obra-p%C3%B3stuma/</link>
+    <link>http://localhost:1313/palavras-chave/obra-p%C3%B3stuma/</link>
     <description>Recent content in obra póstuma on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/obra-p%C3%B3stuma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/obra-p%C3%B3stuma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De volta para o futuro</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-132/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-132/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-132/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-132/</guid>
       <description>Referências ARAUJO, Emanoel. Oscar Niemeyer: a sinuosidade do concreto sobre o parque verde. In: SCHARLACH, Cecília (org). Oscar Niemeyer: a marquise e o projeto original do Parque Ibirapuera. São Paulo: Imprensa Oficial, 2006. Architecture Interruptus. Wexner Center for the Arts. The Ohio State University. New York: D.A.P. Distributed Art Publishers, 2007. AUGÉ, Marc. Rovine e macerie: il senso del tempo. Turim: Bollati Boringhieri, 2006. BOESIGER, Willy. (Ed.) Le Corbusier et don atelier rue de Sèvres 35.</description>
     </item>
   </channel>

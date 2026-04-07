@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arquitetura pública on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-p%C3%BAblica/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-p%C3%BAblica/</link>
     <description>Recent content in arquitetura pública on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-p%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-p%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carlos Lemos e a moderna Arquitetura de unidades sanitárias</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-067/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-067/</guid>
+      <description>Referências Carlos Lemos, Arquitetura Brasileira (São Paulo: Edições Melhoramentos/EDUSP, 1979), 141. Yves Bruand, Arquitetura Contemporânea no Brasil (São Paulo: Perspectiva, 1981), 271. Hugo Segawa, Arquiteturas no Brasil 1900–1990 (São Paulo: EDUSP, 1998). Carlos Lemos, “Nova Orientação nos Projetos de Prédios para Unidades Sanitárias,” Arquivos de Higiene e Saúde Pública, nºs 75–92 (1958–59): 22–31. Jarbas Karman, “Planejamento de Unidades Sanitárias,” Arquivos de Higiene e Saúde Pública, nº 92 (1962): 104–31. Michael Baxandall, Padrões de Intenção: A Explicação Histórica dos Quadros, traduzido por Vera Maria Pereira (São Paulo: Companhia das Letras, 2006).</description>
+    </item>
     <item>
       <title>Federal Modernism</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-054/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-054/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-054/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-054/</guid>
       <description>Referências CHUPIN, J. P.; CUCUZZELLA, C.; HELAL, B. Architecture competitions and the production of culture, quality and knowledge: an international inquiry. Montreal: Potential Architecture Books, 2015. 404p. COHEN, J. L. O futuro da arquitetura desde 1889: uma história mundial. São Paulo: Cosac &amp;amp; Naify, 2013. 594 p. CURTIS, W. J. R. Arquitetura moderna desde 1900. 3ª ed. Porto Alegre: Bookman, 2008. 736p. FRAMPTON, K. História crítica da arquitetura moderna. 1ª ed.</description>
     </item>
     <item>
       <title>A arquitetura pública modernista</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/57/</link>
+      <link>http://localhost:1313/nne/sdnne06/57/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/57/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/57/</guid>
       <description>Referências BENÉVOLO, Leonardo. História da Arquitetura Moderna. 5. ed. São Paulo: Perspecti- va, 2014. AFONSO, Alcilia. Antonio Luiz: arquiteto. Teresina - PI: Halley, 2012. AFONSO, Alcilia; VERISSIMO, Victor. Arquitetura Moderna em Teresina: guia. Teresi- na. PI. Ed. EDUFPI, 2015. JONNES, Denna. Tudo sobre arquitetura. Rio de Janeiro: Sextante, 2014. FRAMPTON, Kenneth. Historia critica da arquitetura moderna. 4ed. Sao Paulo-SP: Martins Fontes, 2015. </description>
     </item>
     <item>
       <title>Patrimônio modernista em risco</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-042/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-042/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-042/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-042/</guid>
       <description>Referências AEVEDO, Marlice Nazareth Soares. A Renovação dos Centros Urbanos para Uso Habitacional Um Estudo de Caso: A Cidade de Niterói; tese de mestrado. Rio de Janeiro, COPPE – UFRJ, M. Sc., Engenharia de Produção, Rio de Janeiro, 1980. AEVEDO, Marlice Nazareth Soares. Niterói Urbano- a construção do espaço da cidade, in Cidade Múltipla: temas da história de Niterói, organizadores, Ismênia Lima Martins, Paulo Knauss; Niterói, RJ: Niterói Livros, 1997. BRAZIL, Álvaro Vital.</description>
     </item>
   </channel>

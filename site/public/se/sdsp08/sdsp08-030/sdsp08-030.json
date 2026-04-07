@@ -15,7 +15,7 @@
   "author": [
     {
       "family": "Moura",
-      "given": "Isabela Ignacio de",
+      "given": "Isabela Ignácio de",
       "ORCID": "https://orcid.org/0000-0001-9149-0954"
     },
     {
@@ -23,6 +23,8 @@
       "given": "Karina Scussiato"
     }
   ],
+  "event-place": "São Carlos, SP",
+  "publisher-place": "São Carlos, SP",
   "DOI": "10.5281/zenodo.19290027",
   "ISBN": "978-65-86810-58-5",
   "page": "443-457",

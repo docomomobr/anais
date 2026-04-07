@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acervo documental on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/acervo-documental/</link>
+    <link>http://localhost:1313/palavras-chave/acervo-documental/</link>
     <description>Recent content in Acervo documental on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/acervo-documental/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/acervo-documental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azulejos da Arquitetura Moderna Brasileira</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-113/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-113/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-113/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-113/</guid>
       <description>Referências BARKI, J.; KÓS, J.; VILAS BOAS, N. . O edifício do Ministério da Educação e Saúde (1936-1945): museu “vivo” da arte moderna brasileira. Arquitextos, São Paulo, ano 06, n. 069.02, Vitruvius, fev. 2006 Disponível em &amp;lt;http://www.vitruvius.com.br/revistas/read/arquitextos/06.069/376&amp;gt; Acesso em 14 mar. 2019. SEGAWA, H. Arquiteturas no Brasil – 1900-1990. 2ªed. EdUSP. São Paulo, 2002. CARDOSO, D. L. Documentação fotográfica de bens culturais utilizando luz visível: um guia básico. 2016. Monografia (Bacharelado em Conservação-Restauração de Bens Culturais Móveis) – Escola de Belas Artes, Universidade Federal de Minas Gerais, Belo Horizonte, 2016.</description>
     </item>
   </channel>

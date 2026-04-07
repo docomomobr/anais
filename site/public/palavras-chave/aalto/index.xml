@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aalto on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/aalto/</link>
+    <link>http://localhost:1313/palavras-chave/aalto/</link>
     <description>Recent content in Aalto on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/aalto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/aalto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alvar e Álvaro</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-054/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-054/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-054/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-054/</guid>
       <description>Referências AALTO, Elissa e FLEIG, Karl. Alvar Aalto. Martins Fontes: São Paulo, 2001. ALVES, Ivo Rui Guerra. Viagens às Curvas dos Lagos da Finlândia. Dissertação do Departamento de Arquitetura da Universidade de Coimbra. Julho de 2019. ARÍS, Carlos Martí. Las Variaciones de la Identidad. Ensayo sobre el Tipo em Arquitectura. Fundación Arquia, ETSAB: Barcelona, 2014. BABO, Constança. Álvaro Siza: Visões de Alhambra. In: &amp;lt;http://artecapital.net/arq_des-139-alvaro-siza-&amp;gt; visoes-da-alhambra. Último acesso: 18 abr 2023 CAPITEL, Antón.</description>
     </item>
   </channel>

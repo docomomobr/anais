@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viana, Vitor Vasconcelos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/viana-vitor-vasconcelos/</link>
+    <link>http://localhost:1313/autores/viana-vitor-vasconcelos/</link>
     <description>Recent content in Viana, Vitor Vasconcelos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/viana-vitor-vasconcelos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/viana-vitor-vasconcelos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nícia Bormann e o contexto da introdução da Arquitetura Moderna em Fortaleza</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-088/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-088/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-088/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-088/</guid>
       <description>Referências AMORIM, Luiz. Obituário Arquitetônico: Pernambuco Modernista. Recife: UFPE, 2007. 212 p. CAVALCANTE, Márcia Gadelha. Os Edifícios de apartamento em Fortaleza (1935-1986): Dos conceitos universais aos exemplos singulares. 2015. 193 f. Tese (Doutorado) - Curso de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2015. COX, Cristian Fernandez. Modernidade Apropriada, Revisada e Reencantada. Revista Projeto, São Paulo, v. 146, p.123-127, 1991. DORE, C., MURPHY, M.(2012) . Integration of Historic Building Information Modeling and 3D GIS for Recording and Managing Cultural Heritage Sites.</description>
     </item>
     <item>
       <title>A &#39;Modernidade apropriada&#39; em Lúcio Costa e Severiano Porto</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-015/</link>
+      <link>http://localhost:1313/nne/sdnne07/sdnne07-015/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-015/</guid>
+      <guid>http://localhost:1313/nne/sdnne07/sdnne07-015/</guid>
       <description></description>
     </item>
   </channel>

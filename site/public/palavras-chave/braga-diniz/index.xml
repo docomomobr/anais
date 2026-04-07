@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Braga Diniz on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/braga-diniz/</link>
+    <link>http://localhost:1313/palavras-chave/braga-diniz/</link>
     <description>Recent content in Braga Diniz on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/braga-diniz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:10:46 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/braga-diniz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna do século XX em São Luís</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-031/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-031/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-031/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-031/</guid>
       <description>Referências BENÉVOLO, Leonardo. História da Arquitetura Moderna. Ed. Perspectiva. São Paulo, 1976; BITTAR, William. Formação da arquitetura moderna no Brasil (1920-1940). Docomomo, Rio de Janeiro, 2016. PFLUEGER, Grete S.; MONIZ, Manoel; FARIAS, Luísa Pflueger de. AS CASAS MODERNISTAS DE CLEON FURTADO EM SÂO LUIS. Docomomo Norte/Nordeste, Teresina, 10 Ago 2016. PFLUEGER, Grete S.; NASCIMENT, Lúcia. A memória da arquitetura moderna na cidade de São Luís no Maranhão (Brasil) no período de 1930 a 1960.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cardoso, Ceila Rosana Carneiro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/cardoso-ceila-rosana-carneiro/</link>
+    <link>http://localhost:1313/autores/cardoso-ceila-rosana-carneiro/</link>
     <description>Recent content in Cardoso, Ceila Rosana Carneiro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/cardoso-ceila-rosana-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/cardoso-ceila-rosana-carneiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prefabricação em arquitetura</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-141/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-141/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-141/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-141/</guid>
       <description>Referências CARDOSO, C. Os fazeres como artifício: sobre a Arquitetura e a Indústria. 2014, 323p. Tese (Doutorado). Salvador: PPGAU-FAUFBA, 2014. CARDOSO, C.; GUIMARÃES, A. In(+)tangible heritage: the schools of João Filgueiras Lima, Lelé. In Adaptive reuse: The Modern Movement towards the future. DOCOMOMO 14th INTERNATIONAL CONFERENCE. Lisboa: Docomomo International, Casa de Arquitetura, 2016 p. 948-953. CARDOSO, C.; MINHO, J.. The schools of João Filgueiras Lima, Lelé: design as a social technology and reuse of derelict spaces.</description>
     </item>
     <item>
       <title>As escolas de João Filgueiras Lima em Salvador</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/21/</link>
+      <link>http://localhost:1313/nne/sdnne06/21/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/21/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/21/</guid>
       <description></description>
     </item>
   </channel>

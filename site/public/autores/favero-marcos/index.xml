@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Favero, Marcos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/favero-marcos/</link>
+    <link>http://localhost:1313/autores/favero-marcos/</link>
     <description>Recent content in Favero, Marcos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/favero-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/favero-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silêncio eloquente</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-228/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-228/</guid>
+      <description>Referências Pierre von Meiss, Elements of Architecture: From Form to Place + Tectonics (Lausanne: EPFL Press, 2013), 93. Solà-Morales, Ignasi de. Diffrences. Topohraphies of Contemporary Architecture. Cambridge: Massachusetts Institute of Technology, 1997. Louis Kahn, “Silence and Light”, em Between Silence and Light: Spirit in the Architecture of Louis I. Kahn, Louis Kahn e John Lobell (Boston: Shambala, 2008), p. 20. Juhani Pallasmaa, “Light, Silence, and Spirituality in Architecture and Art”, em Transcending Architecture: Contemporary Views on Sacred Space, ed.</description>
+    </item>
     <item>
       <title>Catedral de Brasília</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-019/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-019/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-019/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-019/</guid>
       <description>Referências BASTOS, M. A. J.; ZEIN, R. V. Brasil: Arquiteturas após 1950. São Paulo: Perspectiva, 2015 .429 p. BRANDÃO, C. A. L. Linguagem e Arquitetura: O problema do conceito. Revista Interpretar, Belo Horizonte, v.1, n°1, novembro, 2000. CARDOZO, J. A construção de Brasília. In: MACEDO, D. M.; SOBREIRA, F. J. A. (Org.). Forma Estática-Forma Estética: ensaios de Joaquim Cardozo sobre arquitetura e engenharia. Brasília: Câmara dos Deputados, 2009. BRANDÃO, C. Forma Estática-Forma Estética.</description>
     </item>
   </channel>

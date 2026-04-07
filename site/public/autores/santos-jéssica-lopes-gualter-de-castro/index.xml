@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santos, Jéssica Lopes Gualter de Castro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/santos-j%C3%A9ssica-lopes-gualter-de-castro/</link>
+    <link>http://localhost:1313/autores/santos-j%C3%A9ssica-lopes-gualter-de-castro/</link>
     <description>Recent content in Santos, Jéssica Lopes Gualter de Castro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/santos-j%C3%A9ssica-lopes-gualter-de-castro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/santos-j%C3%A9ssica-lopes-gualter-de-castro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Influências modernas na Arquitetura residencial em Teresina — PI</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne02/sdnne02-018/</link>
+      <link>http://localhost:1313/nne/sdnne02/sdnne02-018/</link>
       <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne02/sdnne02-018/</guid>
+      <guid>http://localhost:1313/nne/sdnne02/sdnne02-018/</guid>
       <description>Referências AFONSO, Alcília. La consolidación de la arquitectura moderna en Recife en los años 50.Barcelona: tese doutoral apresentada para o departamento de projetos arquitetônicos da ETSAB/ UPC, 2006. AFONSO, Alcília. Arquitetura em Teresina: 150 anos; da origem à contemporaneidade. Teresina: Halley, 2002 ANDRADE, Artur. Arquitetura residencial modernista: A influência da escola carioca nos projetos de Anísio Medeiros em Teresina.Brasília:dissertação apresentada ao programa de PósGraduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília, 2005.</description>
     </item>
   </channel>

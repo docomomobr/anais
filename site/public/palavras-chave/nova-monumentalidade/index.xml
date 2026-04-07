@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nova monumentalidade on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/nova-monumentalidade/</link>
+    <link>http://localhost:1313/palavras-chave/nova-monumentalidade/</link>
     <description>Recent content in nova monumentalidade on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/nova-monumentalidade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/nova-monumentalidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plataformas</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-076/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-076/</guid>
+      <description>Referências Camillo Sitte, A construção das cidades segundo seus princípios artísticos (São Paulo: Ática, 1992) Christian Topalov, Stella Bresciani e Laurent Coudroy de Lille e Hélène Rivière d’Arc, A aventura das palavras da cidade: ao longo dos tempos, das línguas e das sociedades, (São Paulo: Romano Guerra, 2014) Kenneth Frampton, Megaform as Urban Landscape (Ann Arbor: University of Michigan, A. Alfred Taubman College of Architecture + Urban Planning, 1999), 15. Pedro Gonçalo Jerónimo de Jesus Caiado, Das partes e do todo: Le Corbusier e a ideia de composição (Dissertação de Mestrado em Arquitetura, Universidade de Coimbra, 2017) Le Corbusier, Por uma arquitetura, (São Paulo: Perspectiva, 2014) 22, 144.</description>
+    </item>
     <item>
       <title>Tradição clássica, monumentalidade e tectônica</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-067/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-067/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-067/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-067/</guid>
       <description>Referências BORSOI, A. Acácio Gil Borsoi: arquitetura como manifesto. Recife: 2006. COMAS, Carlos Eduardo. Protótipo e monumento, um ministério, o ministério. Projeto, São Paulo, n. 102, p.145, ago.1987. DIÓGENES, Beatriz. A centralidade da aldeota como expressão da dinâmica intra-urbana de Fortaleza. São Paulo: Dissertação de mestrado da FAUUSP, 2005. GRINBERG, Piedade. Antonio Borsoi: desenhista, artesão e decorador. Rio de Janeiro: PUC/RJ, 1986. MATOSO, Danilo e SILVA, Elcio. Classicismo, Coordenação Modular e Habitação.</description>
     </item>
     <item>
       <title>Monumentalidade e tectônica no Fórum de Teresina de Acácio Gil Borsoi</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-022/</link>
+      <link>http://localhost:1313/nne/sdnne03/sdnne03-022/</link>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-022/</guid>
+      <guid>http://localhost:1313/nne/sdnne03/sdnne03-022/</guid>
       <description>Referências ARGAN, Gulio Carlo. História da arte italiana: Da Antigüidade a Duccio – v. 1. São Paulo: Cosac &amp;amp; Naify, 2003, p. 69. BORSOI, Eduardo.S/Titulo. Revista: Mercado do Imóvel/ano, 2009, pg 52 e 53. BORSOI, Marco Antonio (Org.); DANTAS, N. B. (Org.). Acácio Gil Borsoi: arquitetura como manifesto. Recife: 2006. v. 1000. 90 p. BORSOI, Marco Antonio. Disponível em: &amp;lt;http://arqpb.blogspot.com/2009/11/o-legado-de-acacio-&amp;gt; gil-borsoi.html, acesso em 02/02/2010. CANTALICE, Aristóteles. Um Brutalismo suave: Traços da arquitetura em Pernambuco (1965- 1980).</description>
     </item>
   </channel>

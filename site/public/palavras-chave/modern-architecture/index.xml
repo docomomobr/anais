@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>modern architecture on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/modern-architecture/</link>
+    <link>http://localhost:1313/palavras-chave/modern-architecture/</link>
     <description>Recent content in modern architecture on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/modern-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/modern-architecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna e escultura figurativa</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-133/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-133/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-133/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-133/</guid>
       <description>Referências ARGAN, Giulio Carlo. “Arquitetura e arte não figurativa” (1958). In: Projeto e destino. São Paulo: Ática, 2001, p. 137-148. ARNHEIM, Rudolf. El pensamiento visual, Buenos Aires: Eudeba, 1971. ÁLVAREZ, Fernando. “No dejar solas a las sombras. BILL, Max. “Monumento al preso político desconocido”. DPA, n. 17, Barcelona: UPC, 2001, p. 40- 45. BONTA, Juan Pablo, Anatomía de la interpretación en arquitectura, Barcelona: Gustavo Gili, 1975. CALATRAVA, Juan; HERNÁNDEZ LEÓN, Juan Miguel; QUETGLAS, Josep; MOUCHET, Eric; JUÁREZ, Antonio; Le Corbusier y la síntesis de las artes: El poema del ángulo recto.</description>
+    </item>
+    <item>
+      <title>Brazilian Modern Architecture</title>
+      <link>http://localhost:1313/internacional/idc06/idc06-048/</link>
+      <pubDate>Tue, 19 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/internacional/idc06/idc06-048/</guid>
+      <description>Referências Adolpho, Diva. (1997). Aplicação no cultural Issa — Iandinha. Rio de Janeiro, IPHAN. Bonduki, Nabil, Portinho, Carmen. (2000). Alfonso Eduardo Reidy. Editorial Blau e Instituto Lina e P. M. Bardi. Bruand, Yves. (1997). Arquitetura contemporânea no Brasil. 3ª edição, São Paulo: Editora Perspectiva S.A. Costa, Lúcio. (1995). Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes/UNB. Givoni, B. (1981). Man, Climate and Architecture. Applied Science Publishers Ltd, London.</description>
     </item>
   </channel>
 </rss>

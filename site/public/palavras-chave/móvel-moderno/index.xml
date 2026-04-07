@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Móvel Moderno on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/m%C3%B3vel-moderno/</link>
+    <link>http://localhost:1313/palavras-chave/m%C3%B3vel-moderno/</link>
     <description>Recent content in Móvel Moderno on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/m%C3%B3vel-moderno/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/m%C3%B3vel-moderno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Os interiores domésticos do Studio D&#39;Arte Palma</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-188/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-188/</guid>
+      <description>Referências Bardi, P.M. “L’antico e noi”. Stile, n. 3 (1941): 57-58. Bo, L. e Pagani, C. “L’antico nella casa d’oggi”. Grazia, s/n. (1941): 26-27. Campos, Sérgio. Lina Bo Bardi: o mobiliário dos tempos pioneiros 1947 - 1958. São Paulo, Edição de Sérgio Campos/Artemobília Publicações, 2022. Carboncini, A. “Lina Bo Bardi Designer”. In Lina Bo Bardi Giancarlo Palanti Studio D’Arte Palma, 1948-1951 edited by Nilufar Gallery, 10-21. London: Push, 2018. Chen, Aric.</description>
+    </item>
     <item>
       <title>O papel da galeria de design na preservação do móvel moderno brasileiro</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-033/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-033/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-033/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-033/</guid>
       <description>Referências BITTENCOURT, José N. Receita para a refeição cotidiana dos museus. Revista do Patrimônio Histórico e Artístico Nacional, n. 31, p. 149-163, Brasília, DF: MINC/IPHAN, 2005. CAMARGO-MORO, Fernanda de. Museu: aquisição-documentação. São Paulo: Livraria Eça, 1986. CÂNDIDO, Maria Inez. Documentação museológica. In: Caderno de diretrizes museológicas I. Belo Horizonte: Secretaria de Estado da Cultura/ Superintendência de Museus, 2006. 2ª Edição. 31-90. Disponível em: &amp;lt;https://tinyurl.com/pd3rht5xf&amp;gt; Acesso em: 30 de maio. 2022. MELO, Alexandre Penedo Barbosa de.</description>
     </item>
   </channel>

@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atique, Fernando on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/atique-fernando/</link>
+    <link>http://localhost:1313/autores/atique-fernando/</link>
     <description>Recent content in Atique, Fernando on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/atique-fernando/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/atique-fernando/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A turma de 1930 do Mackenzie</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-031/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-031/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-031/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-031/</guid>
       <description>Referências ALMANAK Laemmert &amp;lt;http://memoria.bn.br/DocReader/do-&amp;gt; creader.aspx?bib=313394&amp;amp;pasta=ano%20191&amp;amp;pesq=fortunato%20 capua&amp;gt;. AMARAL, Tarsila do. De Joseph Monier a Le Corbusier. 22.7.1936. In AMARAL, Aracy (org.) Tarsila cronista. São Paulo, Edusp, 2001, p. 85-87. ARAVECCHIA BOTAS, Nilce. Edifícios dignos da importantíssima classe. In SEGAWA, Hugo. Jayme C. Fonseca Rodrigues arquiteto. São Paulo, Bei, 2016, p. 196-207. Architectura e construcções, dez. 1930, São Paulo, p. 23-25. ATIQUE, Fernando. Sutis dimensões de um Ateliê Paulistano: as narrativas e representações de Christiano Stockler das Neves sobre o trabalho de um arquiteto.</description>
     </item>
     <item>
       <title>Fé moderna</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-054/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-054/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-054/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-054/</guid>
       <description>Referências ACAYABA, Marlene Millan. Residências em São Paulo 1947-1975. São Paulo, Projeto, 1986. ARGAN, Giulio Carlo. História da arte como história da cidade. 4 ed. São Paulo, Martins Fontes, 1998. ATIQUE, Fernando. &amp;ldquo;Memória de um Projeto Moderno: a idealização e a trajetória do Edifício Esther&amp;rdquo;, Dissertação de Mestrado, EESC-USP, São Carlos, 2002. BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo, Perspectiva, 1976. BRUAND, Yves. Arquitetura Contemporânea no Brasil, São Paulo, Perspectiva, 1981.</description>
     </item>
     <item>
       <title>Edifício Esther</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-049/</link>
+      <link>http://localhost:1313/brasil/sdbr03/sdbr03-049/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-049/</guid>
+      <guid>http://localhost:1313/brasil/sdbr03/sdbr03-049/</guid>
       <description>Referências BRAZIL, Álvaro Vital (1986). Álvaro Vital Brazil: 50 anos de Arquitetura. São Paulo: Nobel CASTELLO-BRANCO, Ilda Helena Diniz (1989). Arquitetura no Centro da Cidade. São Paulo, edifícios de uso coletivo: 1930-1945. São Paulo: FAU-USP. Dissertação de mestrado. CORBUSIER, Le (1986). A Carta de Atenas. 1ª reimpressão. São Paulo: HUCITEC-EDUSP. NOGUEIRA, Paulo de Almeida (1955). Minha Vida: diário de 1893 a 1951. São Paulo: Editado por Paulo Nogueira Neto e José Bonifácio Coutinho Nogueira.</description>
+    </item>
+    <item>
+      <title>AMÉRICA(S) em trânsito</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-m06/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-m06/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

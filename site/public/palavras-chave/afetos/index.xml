@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>afetos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/afetos/</link>
+    <link>http://localhost:1313/palavras-chave/afetos/</link>
     <description>Recent content in afetos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/afetos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/afetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edifício Wilton Paes de Almeida</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-122/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-122/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-122/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-122/</guid>
       <description>Referências BARATTO, R. Edifício tombado de 22 pavimentos desaba após incêndio no centro de São Paulo. Disponível em: &amp;lt;https://www.archdaily.com.br/br/893568/edificio-de-22-pavimentos-desaba-apos-incendio-no-centro-de-sao-paulo&amp;gt; Acesso em: 06/05/2019. CARERI, Francesco. Walkscapes: o caminhar como prática estética. São Paulo: Editora GG, 2013. CERTEAU, Michel de. A invenção do cotidiano. 1. Artes do fazer. Petrópolis: Vozes, 1994. DEBORD, G. Teoria da Deriva. In Revista Internacional Situacionista. No. 2, dezembro 1958. DELEUZE, G. e GUATTARI, F. Rizoma. Mil Platôs. Volume 1.</description>
     </item>
     <item>
       <title>Entre movimentos e afetos</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-081/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-081/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-081/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-081/</guid>
       <description>Referências BARDI, Lina Bo; FERRAZ, Marcelo. Lina Bo Bardi. São Paulo, Instituto Lina B. P.M. Bardi; Imprensa Oficial do Estado de São Paulo, 2008, p. CÁRDENAS, A. S. MASP: estrutura proporção forma. São Paulo: Editora da Cidade, Escola da Cidade, 2015 CARERI, Francesco. Caminhar e parar. Tradução de Aurora Fornoni Bernardini. São Paulo: Gustavo Gili, 2017 DEBORD, Guy. A sociedade do espetáculo: comentários sobre a sociedade do espetáculo. Rio de Janeiro: Contraponto editora, 1997.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castro, Brenda Lais de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/castro-brenda-lais-de/</link>
+    <link>http://localhost:1313/autores/castro-brenda-lais-de/</link>
     <description>Recent content in Castro, Brenda Lais de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/castro-brenda-lais-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/castro-brenda-lais-de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A renovação urbana e a preservação urbana</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-070/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-070/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-070/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-070/</guid>
       <description>Referências ASCHER, François. Metropolização e transformação dos centros das cidades. In MEYER, Regina Maria Prosperi (coordenação). Os centros das metrópoles: reflexões e propostas para a cidade democrática do século XXI. São Paulo: Ed. Terceiro Nome; Associação Viva o Centro; Imprensa Oficial do Estado, 2001, p. 59-67. BARTHES, Roland. Mitologias. São Paulo: Difel, 1982. BLASCOVI, Keila de Matos. Reabilitação Urbana: o fenômeno da centralidade e o uso funcional de edifícios não utilizados ou subutilizados nos centros urbanas - o caso de Curitiba.</description>
     </item>
   </channel>

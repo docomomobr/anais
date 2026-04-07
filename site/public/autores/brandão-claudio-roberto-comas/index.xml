@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brandão, Claudio Roberto Comas on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/brand%C3%A3o-claudio-roberto-comas/</link>
+    <link>http://localhost:1313/autores/brand%C3%A3o-claudio-roberto-comas/</link>
     <description>Recent content in Brandão, Claudio Roberto Comas on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/brand%C3%A3o-claudio-roberto-comas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/brand%C3%A3o-claudio-roberto-comas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entre Rio e Brasília</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-207/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-207/</guid>
+      <description>Referências Alves, Dario. Construção da nova sede para o MRE. Pagamento de honorários ao Senhor Henrique Mindlin. Rio de Janeiro, 8 de out. 1954. Arquivo Histórico do MRE, Brasília. Alves, Dario. Informação para o Ministro Décio de Moura, Presidente da Comissão Executiva da Construção do Novo Edifício do Ministério das Relações Exteriores. Rio de Janeiro, 7 de mai. 1954. Arquivo Histórico do MRE, Brasília. Brandão, Claudio Comas. Com quantos arcos se faz um palácio?</description>
+    </item>
     <item>
       <title>O Teatro da República</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-008/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-008/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-008/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-008/</guid>
       <description>Referências ARISTÓTELES. Poética. Pref. Maria Helena da Rocha Pereira. Trad. Ana Maria Valente. 3. ed. Lisboa: Fundação Calouste Gulbenkian, 2008. BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981. CAMPELO, Glauco. Depoimento - Programa de História Oral. Arquivo Público do Distrito Federal. Brasília. 1989. COSTA, Lúcio. 1995. Lúcio Costa: Registro de uma vivência. São Paulo: Empresa das Artes, 1995. CUNHA, Ari. In: MENDES, Manuel. O cerrado de casaca. Brasília: Thesaurus, 1995.</description>
+    </item>
+    <item>
+      <title>Arquitetura Moderna e estratificação</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-m09/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-m09/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

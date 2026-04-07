@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palácio da Alvorada on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-da-alvorada/</link>
+    <link>http://localhost:1313/palavras-chave/pal%C3%A1cio-da-alvorada/</link>
     <description>Recent content in Palácio da Alvorada on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-da-alvorada/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/pal%C3%A1cio-da-alvorada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A madeira como molde</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-025/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-025/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-025/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-025/</guid>
       <description>Referências Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1999. COMAS, Carlos Eduardo. Brasília quadragenária: a paixão de uma monumentalidade moderna. In: IX Seminário História da Cidade e do Urbanismo, 2006, São Paulo. IX Seminário História da Cidade e do Urbanismo. São Paulo: USP, 2006. IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional. Palácio da Alvorada: inventário de bens arquitetônicos. Brasília: IPHAN, 2008. COMAS, Carlos Eduardo. Brasília quadragenária: a paixão de uma monumentalidade moderna.</description>
     </item>
   </channel>

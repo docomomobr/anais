@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planejamento Estatal on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/planejamento-estatal/</link>
+    <link>http://localhost:1313/palavras-chave/planejamento-estatal/</link>
     <description>Recent content in Planejamento Estatal on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/planejamento-estatal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/planejamento-estatal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estado moderno e produção do espaço pelo Plano de Ação do Estado de São Paulo (1959–1963)</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-022/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-022/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-022/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-022/</guid>
       <description>Referências ALVES, André Augusto de Almeida. Arquitetura escolar paulista 1959 – 1962: o PAGE, o IPESP e os arquitetos modernos paulistas. Tese (Doutorado em Arquitetura e Urbanismo) – Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2008. BANHAM, Reyner. A Concrete Atlantis: U.S. Industrial Building and European Modern Architecture, 1900 – 1925. Cambridge: MIT Press. 1986. BARROS, José Roberto Mendonça de. A experiência regional de planejamento. In: MINDLIN, B.</description>
     </item>
   </channel>

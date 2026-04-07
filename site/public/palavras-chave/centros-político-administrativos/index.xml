@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>centros político-administrativos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/centros-pol%C3%ADtico-administrativos/</link>
+    <link>http://localhost:1313/palavras-chave/centros-pol%C3%ADtico-administrativos/</link>
     <description>Recent content in centros político-administrativos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/centros-pol%C3%ADtico-administrativos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/centros-pol%C3%ADtico-administrativos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centros administrativos como tipologia urbana moderna</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/25/</link>
+      <link>http://localhost:1313/nne/sdnne06/25/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/25/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/25/</guid>
       <description>Referências ANDRADE, Demétrio; BRUNO, Artur; FARIAS, Aírton de. Os pecados capitais do Cambeba. Fortaleza: Editora Expressão Gráfica, 2002. ANDRADE, Carlos Roberto Monteiro de. Ressonâncias do tipo cidade-jardim no urbanismo de cidades novas no Brasil. In: VI Seminário de História da Cidade e do Urbanismo: Cinco séculos de cidade no Brasil. Anais. Natal, 2000. ANDRADE, Maria Rosa de Carvalho; ANDRADE JR., Nivaldo Vieira de; FREIRE, Raquel Neimann da Cunha. O IPHAN e os desafios da preservação do patrimônio moderno: A aplicação na Bahia do Inventário Nacional da Arquitetura, Urbanismo e Paisagismo Modernos.</description>
     </item>
   </channel>

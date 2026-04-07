@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geraldo, Rodrigo Henrique on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/geraldo-rodrigo-henrique/</link>
+    <link>http://localhost:1313/autores/geraldo-rodrigo-henrique/</link>
     <description>Recent content in Geraldo, Rodrigo Henrique on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/geraldo-rodrigo-henrique/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/geraldo-rodrigo-henrique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O edifício do SENAI de Sorocaba</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-015/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-015/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-015/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-015/</guid>
       <description>Referências ACRÓPOLE. Escola SENAI de Sorocaba. São Paulo: Acrópole, n.314, 1965. CASTRO, Ana Claudia Veiga de; SILVA, Joana Mello de Carvalho e; COSTA, Eduardo Augusto. Arquivos, memórias da cidade, historiografias da arquitetura e do urbanismo. São Paulo: LESSA, Juliane Bellot Rolemberg. O ensino na prancheta: da arquitetura escolar à docência de arquitetura e urbanismo, o legado de Hélio Duarte. Dissertação (Mestrado em História e Fundamentos da Arquitetura e do Urbanismo) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2017.</description>
     </item>
   </channel>

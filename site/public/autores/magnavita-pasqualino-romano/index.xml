@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magnavita, Pasqualino Romano on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/magnavita-pasqualino-romano/</link>
+    <link>http://localhost:1313/autores/magnavita-pasqualino-romano/</link>
     <description>Recent content in Magnavita, Pasqualino Romano on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/magnavita-pasqualino-romano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/magnavita-pasqualino-romano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Legado teórico de Lúcio Costa</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-122/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-122/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-122/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-122/</guid>
       <description>Referências CEUA, Alberto Xavier (org) Lúcio Costa: Sobre arquitetura, Porto Alegre, 1962. COSTA, Lúcio – Registro de uma vivência, Brasília, ed. UnB, 1995, DELEUZE, Gilles - Diferença e Repetição, Rio de janeiro, Editora Graal, 1988. DELEUZE, Gilles., GUATTARI, Félix - Mil Platôs, capitalismo e esquizofrenia, Rio de janeiro, 1º vol. ed. 34, 1997 DELEUZE, Gilles. O que é a Filosofia? Rio de janeiro, ed. 34, 2000. FOUCAULT, Michel - As Palavras e as Coisas, uma arqueologia das ciências humanas, São Paulo, ed.</description>
     </item>
     <item>
       <title>&#34;Estilo funcional&#34;</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-044/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-044/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-044/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-044/</guid>
       <description>Referências AZEVEDO, Paulo O. Crise e Modernização- Arquitetura dos anos 30 em Salvador in Arquitetura no Brasil anos 80, São Paulo, ed. Projeto, 1988. CAVALCANTI, Lauro. Quando o Brasil era moderno –Guia de arquitetura 1928-1960, Rio de Janeiro, ed. Aeroplano, 2001. DELEUZE, Gilles- GUATARRI, Félix. O que é a Filosofia? São Paulo, ed. 34, 2000. DELEUZE, Gilles; GUATARRI, Félix. Mil Platôs – Capitalismo e esquizofrenia, Rio de Janeiro, ed. 34, 1996.</description>
+    </item>
+    <item>
+      <title>About the teaching of theory and history of Modern Architecture</title>
+      <link>http://localhost:1313/internacional/idc06/idc06-023/</link>
+      <pubDate>Tue, 19 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/internacional/idc06/idc06-023/</guid>
+      <description>Referências Benjamin, Andrew. (1989). Deconstruction. N.Y.: Rizzoli. Deleuze, Gilles; Guattari, Felix. (1996). Mil Platôs. Rio de Janeiro: Ed.34, vol.1. Deleuze, Gilles. (1998). Diferença e Repetição. São Paulo: Graal. Foucault, Michel. (1987). Arqueologia do Saber. Rio de Janeiro: Forense Universitário. Grau, Cristina. (1995). Borges y la arquitectura. Madrid: Cátedra. Heisenberg, Werner. (1995). Física e Filosofia. Brasília: ed. UnB. Jameson, Fredric. (1985). Il Post Moderno o La Logica del Tardo Capitalismo. Milan: Garzanti.</description>
     </item>
   </channel>
 </rss>

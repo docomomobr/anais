@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milani, Guilherme Biondo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/milani-guilherme-biondo/</link>
+    <link>http://localhost:1313/autores/milani-guilherme-biondo/</link>
     <description>Recent content in Milani, Guilherme Biondo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/milani-guilherme-biondo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/milani-guilherme-biondo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do pretendido ao protendido</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-287/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-287/</guid>
+      <description>Referências COLQUHOUN, Alan. Modernidade e Tradição Clássica: ensaios sobre arquitetura. São Paulo: Cosac &amp;amp; Naify, 2004. COMAS, Carlos E. D. Mercado Central de Porto Alegre. &amp;ldquo;DPA: Documents de Projectes d&amp;rsquo;Arquitectura&amp;rdquo;, núm. 15, 2001. p. 32-37. LUCCAS, L. H. H., Arquitetura moderna brasileira em Porto Alegre: sob o mito do &amp;ldquo;gênio artístico nacional&amp;rdquo;. (Tese de Doutorado) Porto Alegre: UFRGS, PROPAR, 2004. MAGLIA, Viviane Villas Boas. Refinaria Alberto Pasqualini: aplicação dos paradigmas modernistas à tipologia industrial no Rio Grande do Sul (mestrado) Porto Alegre: UFRGS, 2001.</description>
+    </item>
     <item>
       <title>Pré-moldagem como sistema</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-031/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-031/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-031/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-031/</guid>
       <description>Referências ARAÚJO, Claudio L. G.; FROTA, José A. D’Aló; FUÃO, F.; LEÃO S.. Cláudio Araujo: um depoimento, Arqtexto. Porto Alegre. N.0, 2000. p.116-123. FAYET, Carlos M.. Carlos Maximiliano Fayet, Cláudio Luiz Araújo, Luiz Isidoro Boeira, Sandra Mara Boeira: Tramontina/Forjasul, Carlos Barbosa, RS. PROJETO, ed. 142, jun. 1991 MARQUES, Sergio M. Adeus Capitán. Cláudio Araújo (1931-2016). Drops, São Paulo, ano 17, n. 107.09, Vitruvius, ago. 2016 disponível em: &amp;lt;https://vitruvius&amp;gt; com.br/revistas/read/drops/17.107/6180 acesso em 31 mai.</description>
     </item>
   </channel>

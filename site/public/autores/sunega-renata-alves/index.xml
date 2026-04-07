@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunega, Renata Alves on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/sunega-renata-alves/</link>
+    <link>http://localhost:1313/autores/sunega-renata-alves/</link>
     <description>Recent content in Sunega, Renata Alves on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/sunega-renata-alves/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/sunega-renata-alves/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habitar moderno</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-005/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-005/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-005/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-005/</guid>
       <description>Referências BOAVENTURA, Maria Eugênia [org.]. 22 por 22: A Semana de Arte Moderna vista por seus contemporâneos. São Paulo: Editora da Universidade de São Paulo. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1981 FARIAS, Agnaldo Ariclê. Arquitetura Eclipsada: notas sobre história e arquitetura a propósito da obra de Gregori Warchavchik, introdutor da arquitetura moderna no Brasil. Dissertação de mestrado. Campinas: Unicamp, 1990. FERRAZ, Geraldo, Warchavchik e a introdução da nova arquitetura no Brasil: 1925 a 1940, São Paulo: Museu da Arte de São Paulo, 1965.</description>
     </item>
   </channel>

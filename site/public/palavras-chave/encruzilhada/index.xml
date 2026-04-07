@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>encruzilhada on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/encruzilhada/</link>
+    <link>http://localhost:1313/palavras-chave/encruzilhada/</link>
     <description>Recent content in encruzilhada on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/encruzilhada/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/encruzilhada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Recôncavo e o Reconvexo</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-049/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-049/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-049/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-049/</guid>
       <description>Referências BARDI, Lina Bo. Contribuição propedêutica ao ensino da teoria da arquitetura. São Paulo: Instituto Lina Bo e P.M. Bardi, 2002. BIERRENBACH, Ana Carolina. El caracol y el lagarto: abstracción y mímesis en la arquitectura de Lina Bo Bardi. Tese de Doutorado. Barcelona, Espanha: ETSAB-UPC, 2006. GRINOVER, Marina. Uma ideia de arquitetura: escritos de Lina Bo Bardi. São Paulo: Annablume, 2018. LIMA, Zeuler. Lina Bo Bardi: o que eu queria era ter história.</description>
     </item>
   </channel>

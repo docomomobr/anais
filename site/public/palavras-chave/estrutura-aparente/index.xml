@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>estrutura aparente on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/estrutura-aparente/</link>
+    <link>http://localhost:1313/palavras-chave/estrutura-aparente/</link>
     <description>Recent content in estrutura aparente on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/estrutura-aparente/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/estrutura-aparente/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Considerações sobre a tectônica Brutalista</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-045/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-045/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-045/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-045/</guid>
       <description>Referências Banham, Reyner. “The New Brutalism”, Londres, The Architectural Press, 1966. Bastos, Maria Alice Junqueira; Zein, Ruth Verde. “Brasil: arquiteturas após 1950”, São Paulo Perspectiva, 2010. Bonduki, Nabil (edit.). “Affonso Eduardo Reidy”, São Paulo, Instituto Lina Bo e P. M. Bardi, 2000. Clement, Alexander. “Brutalismo Post-War British Architecture”, Londres, The Crowood Press, 2011. Ferraz, Marcelo (edit.). “Vilanova Artigas”, São Paulo, Instituto Lina Bo e P. M. Bardi, 1997. Frampton, Kenneth. “Le Corbusier”, Nova Iorque, Thames &amp;amp; Hudson, 2001.</description>
     </item>
   </channel>

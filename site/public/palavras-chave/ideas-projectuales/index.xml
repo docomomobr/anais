@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ideas projectuales on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/ideas-projectuales/</link>
+    <link>http://localhost:1313/palavras-chave/ideas-projectuales/</link>
     <description>Recent content in ideas projectuales on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/ideas-projectuales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/ideas-projectuales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aproximaciones</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-056/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-056/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-056/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-056/</guid>
       <description>Referências AALTO, Alvar, “La trucha y el torrente de montaña”, Arquitectura, n° 291, Madrid, 1992. CAPITEL, Antón, Alvar Aalto, proyecto y método, Madrid, Akal, 1999. _, “Forma ilusoria e inspiración figurativa en la arquitectura de Alvar Aalto”, Arquitectura, Madrid, n°291, 1992. CASTANHEIRA, Carlos, GARCÍA, Purificación y RUBIÑO, Ignacio, Portugal 90’s: arquitecturas, Sevilla, Demarcación en Sevilla del Colegio Oficial de Arquitectos de Andalucia Occidental, 1991. CURTIS, William y SIZA, Álvaro, Álvaro Siza Obras y proyectos, Madrid, Sociedad Electa España y Centro Gallego de Arte Contemporáneo, 1995.</description>
     </item>
   </channel>

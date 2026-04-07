@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquitetura social on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-social/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-social/</link>
     <description>Recent content in Arquitetura social on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-social/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Arquitetura social de Gilioli</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-258/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-258/</guid>
+      <description>Referências Artigas, Vilanova. Sobre escolas in “Caminhos da arquitetura.” Cosac &amp;amp; Naify, p. 87 – 98, 1999. Camargo, Mônica. “Artigas e a Escola Paulista.” arq.urb usjt, v. n 14, p. 135–155, 2015. Gilioli, Ubyrajara. “Construções escolares.” Projeto, n 7, 1978. &amp;lt;https://revistaprojeto.com.br/acervo/construcoes-escolares-por-ubyrajara-gilioli/&amp;gt; Acesso em 12 jan. 2021. Gilioli, Ubyrajara. “Arquitetura e Lugar.” Tese de Doutorado, Universidade de São Paulo, 1994. SILVA, Jasmine. “A Escola Paulista e a função social da arquitetura: projetos escolares entre 1959 e 1975” Dissertação de Mestrado Universidade de São Paulo, 2022.</description>
+    </item>
     <item>
       <title>“A sensibilidade do real”</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-048/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-048/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-048/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-048/</guid>
       <description>Referências Amorim, Luiz Obituário Arquitetônico: Pernambuco Modernista Recife: Funcultura/UFPE, 2007. Arantes, Pedro Arquitetura Nova: Sérgio Ferro, Flávio Império e Rodrigo Lefevre, de Artigas aos mutirões São Paulo: Ed. 34, 2002. Arantes, Pedro e Wisnik, Guilherme in Forty, Adrian e Andreoli, Elisabetta (orgs.) Arquitetura Moderna Brasileira, Londres, Phaidon, 2004. Baptista, Luís Santiago ‘Arquitetura ou revolução: Um atlas da arquitectura social’ in Arquitectura Social - Três olhares críticos, Centro Cultural de Belém, Lisboa, 2014.</description>
     </item>
   </channel>

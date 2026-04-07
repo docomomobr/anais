@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Llao Llao on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/llao-llao/</link>
+    <link>http://localhost:1313/palavras-chave/llao-llao/</link>
     <description>Recent content in Llao Llao on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/llao-llao/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/llao-llao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Llao Llao</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-023/</link>
+      <link>http://localhost:1313/sul/sdsul06/sdsul06-023/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-023/</guid>
+      <guid>http://localhost:1313/sul/sdsul06/sdsul06-023/</guid>
       <description>Referências LEVISMAN, Martha. Bustillo en Patagonia. Buenos Aires: Martha Levisman Editor, 2010. LIERNUR, Jorge Francisco. Trazas de futuro. Episodios de la cultura arquitectónica de la modernidad en América Latina. Santa Fe: Universidad Nacional del Litoral, 2008. LIERNUR, Jorge Francisco; PSCHEPIURCA, Pablo. La red austral. Obras y proyectos de Le Corbusier y sus discípulos en la Argentina (1924-1965). Bernal: Universidad Nacional de Quilmes; Buenos Aires: Prometeo Libros, 2008. MERWOOD-SALISBURY, Joanna. “On Luxury”.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Congresso Nacional on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/congresso-nacional/</link>
+    <link>http://localhost:1313/palavras-chave/congresso-nacional/</link>
     <description>Recent content in Congresso Nacional on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/congresso-nacional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/congresso-nacional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Método de análise do estado de Conservação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-037/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-037/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-037/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-037/</guid>
       <description>Referências AIRES-BARROS, L. Alteração e alterabilidade de rochas. Instituto Nacional de Investigação Cientifica, Lisboa: Universidade Técnica de Lisboa, 1991. 384 p. AMERICAN SOCIETY FOR TESTING AND MATERIALS – ASTM. ASTM E2270 – Standard Practice for Periodic Inspection of Building. Facades for Unsafe Conditions. Estados Unidos. 2014. 6 p. AMERICAN SOCIETY OF CIVIL ENGINEERS. ASCE standard ASCE/SEI 30-14 – Guideline for Condition Assessment of the Building Envelope. Virginia: [s.n.], 2014. 36 p.</description>
     </item>
     <item>
       <title>Arquitetura monumental de Brasília</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-182/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-182/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-182/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-182/</guid>
       <description>Referências ABNT - Associação Brasileira de Normas Técnicas. NBR 13531 - Elaboração de projetos de edificações – Atividades Técnicas. Rio de Janeiro, 1995. 10p. BRASIL. Ministério da Cultura. Instituto do Programa Monumenta. Manual de elaboração de Projetos de Preservação do Patrimônio Cultural. Brasília: Ministério da Cultura, Instituto do Programa Monumenta, 2005. 76p. BRUAND, Yves. Arquitetura Contemporânea no Brasil. Tradução de Ana Goldberger. São Paulo: Editora Perspectiva, 1981. 399p. ESTEVES, Nauro Jorge.</description>
     </item>
   </channel>

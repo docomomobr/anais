@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polizzo, Ana Paula on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/polizzo-ana-paula/</link>
+    <link>http://localhost:1313/autores/polizzo-ana-paula/</link>
     <description>Recent content in Polizzo, Ana Paula on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/polizzo-ana-paula/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/polizzo-ana-paula/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MAM e o Paraíso em três escalas</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-100/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-100/</guid>
+      <description>Referências Czajkowski, Jorge. “A Arquitetura Racionalista e a Tradição Brasileira”. Em Textos Fundamentais sobre a Arquitetura Moderna Brasileira, ed. Abílio Guerra, 33-46. São Paulo: Romano Guerra, 2010. Pereira, Margareth. “A Arquitetura Brasileira e o Mito.” Revista Gávea 8 (1996): 3-21. Pereira, Margareth. “Corpos Escritos: Paisagem, Memória e Monumento: Visões da Identidade Carioca.” Arte&amp;amp;Ensaios 7 (2000): 98-113. Pereira, Margareth. “A Utopia e a História. Brasília: entre a Certeza da Forma e a Dúvida da Imagem”.</description>
+    </item>
     <item>
       <title>Burle Marx e as narrativas construídas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-039/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-039/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-039/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-039/</guid>
       <description>Referências ADAMS, W. H. Roberto Burle Marx the Unnatural Art of the Garden. Museum of Modern Art New York, 1991. ALVAREZ, A. D. El jardín en la arquitectura del siglo XX. Naturaleza artificial en la cultura moderna. Barcelona, Reverté, 2007. ANDREOLI, E.; FORTY, A. Arquitetura moderna brasileira. London: Phaidon, 2004. BARTALINI, V. A paisagem em arquitetura e urbanismo: remontar às nascentes como opção metodológica. Paisagem e Ambiente (FAUUSP), v. 32, p.</description>
     </item>
     <item>
       <title>O jardim como ordenamento da natureza e a poética de Burle Marx</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-093/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-093/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-093/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-093/</guid>
       <description>Referências ADAMS, William Howard. Roberto Burle Marx the Unnatural Art of the Garden. Museum of Modern Art New York, 1991. BARBOSA, Antônio Agenor. Entrevista com Fernando Chacel. São Paulo: Vitruvius, 2004. Disponível em: &amp;lt;http://www.vitruvius.com.br/entrevista/chacel/chacel.asp&amp;gt; BARDI, Pietro Maria. The Tropical gardens of Burle-Marx, New York: Reinhold Publishing Corporation, 1964. BARDI, Pietro Maria. Pietro Maria. “Burle Marx”. In XAVIER, Alberto (org) Depoimento de uma geração - Arquitetura Moderna brasileira. São Paulo: Cosac &amp;amp; Naify, 2003.</description>
     </item>
   </channel>

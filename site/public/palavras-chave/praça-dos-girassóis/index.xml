@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praça dos Girassóis on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/pra%C3%A7a-dos-girass%C3%B3is/</link>
+    <link>http://localhost:1313/palavras-chave/pra%C3%A7a-dos-girass%C3%B3is/</link>
     <description>Recent content in Praça dos Girassóis on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/pra%C3%A7a-dos-girass%C3%B3is/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/pra%C3%A7a-dos-girass%C3%B3is/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transferências modernistas e o conjunto edificado da Praça dos Girassóis em Palmas</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/51/</link>
+      <link>http://localhost:1313/nne/sdnne06/51/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/51/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/51/</guid>
       <description>Referências BASTOS, Maria Alice Junqueira. Pós-Brasilia. Rumos da arquitetura brasileira. Estudos, volume 190. São Paulo, FAPESP, Perspectiva, 2007. CARVALHO, José Murilo. Formação das almas. O imaginário da república no Brasil. Companhia das Letras. 1990. LOPES, Pedro. Depoimento concedido a Patrícia Orfila Barros dos Reis. Palmas: 10 de junho de 2009. MONTANER, Josep M.; A modernidade superada: ensaios sobre arquitetura contemporânea. Editora G. Gili, São Paulo, 2012. MONTEZUMA, Roberto (organizador). Arquitetura Brasil 500 anos: o espaço integrador.</description>
     </item>
   </channel>

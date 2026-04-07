@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reis, Elisabete Rodrigues dos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/reis-elisabete-rodrigues-dos/</link>
+    <link>http://localhost:1313/autores/reis-elisabete-rodrigues-dos/</link>
     <description>Recent content in Reis, Elisabete Rodrigues dos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/reis-elisabete-rodrigues-dos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/reis-elisabete-rodrigues-dos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-041/</link>
+      <link>http://localhost:1313/brasil/sdbr03/sdbr03-041/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-041/</guid>
+      <guid>http://localhost:1313/brasil/sdbr03/sdbr03-041/</guid>
       <description>Referências ALVIM, Sandra P. de Faria. O estudo da forma: o caso barroco. Rio de Janeiro: UFRJ - Escola de Comunicação, 1981. Dissertação de Mestrado ARGAN, Giullio C. Arte moderna. São Paulo: Companhia das Letras, 1992. BARDI, Pietro Maria Lembrança de Le Corbusier, Atenas, Itália, Brasil. São Paulo: Nobel, 1984. BENÉVOLO, Leonardo. História da arquitetura moderna. São Paulo: Perspectiva, 1989. BOESIGER, Willy. Le Corbusier. Barcelona: Gustavo Gilli, 1972. BORISSAVLIÊVITCH, M. Les théories de l’architecture.</description>
     </item>
   </channel>

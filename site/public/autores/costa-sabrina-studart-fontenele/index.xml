@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Costa, Sabrina Studart Fontenele on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/costa-sabrina-studart-fontenele/</link>
+    <link>http://localhost:1313/autores/costa-sabrina-studart-fontenele/</link>
     <description>Recent content in Costa, Sabrina Studart Fontenele on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/costa-sabrina-studart-fontenele/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/costa-sabrina-studart-fontenele/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acervo do Instituto de Arquitetos do Brasil – Departamento São Paulo (IAB-SP)</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-006/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-006/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-006/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-006/</guid>
       <description>Referências CERÁVOLO, Ana Lúcia. Interpretações do patrimônio: arquitetura e urbanismo moderno na constituição de uma cultura de intervenção no Brasil, anos 1930-60. Tese de Doutorado, Escola de Engenharia de São Carlos - Departamento de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2010. CHOAY, Françoise. A alegoria do patrimônio. Tradução de Luciano Vieira Machado. São Paulo: Ed. UNESP/Estação Liberdade, 2001 [1992]. COSTA, Eduardo. A ética do arquivo. Palestrante: Eduardo Costa; Mediação de Sabrina Fontenele.</description>
     </item>
     <item>
       <title>Metrópole</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-068/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-068/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-068/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-068/</guid>
       <description>Referências Arruda, Maria Arminda do Nascimento. Metrópole e cultura. São Paulo no meio do século XX. São Paulo, Editora da Universidade do Sagrado Coração, 2001. CARVALHO, Claudia Suely Rodrigues de. Preservação da arqui- tetura moderna: edifícios de escritórios no Rio de Janeiro construídos entre 1930-1960. 2006. Tese doutorado. São Paulo, FAU USP, 2006. 1167 COSTA, Sabrina Studart Fontenele. Edifícios modernos e traçado urbano no Centro de São Paulo. São Paulo, Editora Annablume, 2015.</description>
     </item>
     <item>
       <title>Galerias modernas no centro de São Paulo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-047/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-047/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-047/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-047/</guid>
       <description>Referências ALEIXO, Cynthia Augusta Poleto. Edifícios e galerias comerciais: arquitetura e comércio na cidade de São Paulo, anos 50 e 60. (dissertação de mestrado). São Carlos, Escola de Engenharia de São Carlos, 2005. COSTA, Sabrina Studart Fontenele. Relações entre o traçado urbano e os edifícios modernos no centro de São Paulo. Arquitetura e Cidade (1938/1960). São Paulo, Faculdade de Arquitetura e Urbanismo, 2010. (tese de doutorado). COSTA, Sabrina Studart Fontenele. Edifícios modernos e traçado urbano no Centro de São Paulo.</description>
+    </item>
+    <item>
+      <title>Ensino do moderno na Arquitetura como proposta para o século XXI</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-m22/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-m22/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

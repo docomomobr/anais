@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elementos de arquitetura on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/elementos-de-arquitetura/</link>
+    <link>http://localhost:1313/palavras-chave/elementos-de-arquitetura/</link>
     <description>Recent content in Elementos de arquitetura on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/elementos-de-arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/elementos-de-arquitetura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como vai Antônio!</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-016/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-016/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-016/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-016/</guid>
       <description>Referências ARTIGAS, João B. Vilanova. Caderno dos riscos originais. Projeto do edifício da FAUUSP na cidade Universitária. São Paulo: FAUUSP, 1998. ARTIGAS, João B. . A Função social do arquiteto. São Paulo: Fundação Vilanova Artigas/ Nobel, 1989. COTRIM, Marcio. Vilanova Artigas. Casas Paulistas. São Paulo: Romano Guerra, 2017. FERRAZ, Marcelo Carvalho (org.). Vilanova Artigas. Lisboa: Blau, 1997. MIGUEL, Jorge Marão Carnielo. A casa. Londrina: Eduel; São Paulo: Impren- sa Oficial do Estado de São Paulo, 2003.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modernidade Urbana on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/modernidade-urbana/</link>
+    <link>http://localhost:1313/palavras-chave/modernidade-urbana/</link>
     <description>Recent content in Modernidade Urbana on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/modernidade-urbana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/modernidade-urbana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distinção, conforto e higiene</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-014/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-014/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-014/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-014/</guid>
       <description>Referências BERMAN, Marshall. Tudo o que é Sólido, Desmancha no Ar. 12ª Edição. São Paulo, Cia das Letras, 1995. CASTRO, Liberal de. Cartografia Urbana Fortalezense na Colônia e no Império e Outros Comentários. In: A Administração Lúcio Alcântara. Fortaleza, Prefeitura Municipal de Fortaleza, 1982. CASTRO, Liberal de. Arquitetura Eclética no Ceará. In: FABRIS, Annateresa (org). Ecletismo na Arquitetura Brasileira. São Paulo, Nobel / Edusp, 1987. DIÓGENES, Beatriz Helena Nogueira. Aldeota, um Bairro em Mutação.</description>
     </item>
   </channel>

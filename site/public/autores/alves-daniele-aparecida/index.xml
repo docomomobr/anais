@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alves, Daniele Aparecida on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/alves-daniele-aparecida/</link>
+    <link>http://localhost:1313/autores/alves-daniele-aparecida/</link>
     <description>Recent content in Alves, Daniele Aparecida on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/alves-daniele-aparecida/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/alves-daniele-aparecida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lina e Bratke</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-015/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-015/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-015/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-015/</guid>
       <description>Referências ACAYABA, Marlene. Residências em São Paulo, 1947-1975. São Paulo: Bi- blioteca Eucatex de Cultura Brasileira, 1986. BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010. BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspec- tiva, 1999. DALL’ALBA, Anderson. Formas modernas em jardins pitorescos: correlações entre as casas de Bratke e a (sub)urbanização do bairro Paineiras do Mo- rumbi. Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP, São Paulo, v.</description>
     </item>
   </channel>

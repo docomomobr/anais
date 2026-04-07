@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rural-urbano on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/rural-urbano/</link>
+    <link>http://localhost:1313/palavras-chave/rural-urbano/</link>
     <description>Recent content in rural-urbano on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/rural-urbano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/rural-urbano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrações heterogêneas, superpovoamento e busca de oportunidades imediatas se contrapõem à conservação do patrimônio arquitetônico de Brasília e reorientam o planejamento urbano no Distrito Federal</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-025/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-025/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-025/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-025/</guid>
       <description>Referências ANJOS, R. S. A. dos. Estruturas básicas da dinâmica territorial no DF. In PAVIANI, A. e GOUVÊA, L. A. de C. (Orgs.) Brasília: controvérsias ambientais. Brasília: Editora UnB, 2003, 316 pp. NUNES, B. F.. Brasília: a construção do cotidiano. Brasília. Paralelo 15, 1997. MITSCHERLICH, Alexander. A cidade do futuro. Rio de Janeiro: Tempo Brasileiro, 1972. PAVIANI, A. et alii (Orgs.). Brasília 50 anos: da capital a metrópole. Brasília, Editora UnB, 2010.</description>
     </item>
   </channel>

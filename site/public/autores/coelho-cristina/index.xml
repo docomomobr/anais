@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coelho, Cristina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/coelho-cristina/</link>
+    <link>http://localhost:1313/autores/coelho-cristina/</link>
     <description>Recent content in Coelho, Cristina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/coelho-cristina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/coelho-cristina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Riscos e aprendizados do moderno universitário</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-017/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-017/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-017/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-017/</guid>
       <description></description>
     </item>
   </channel>

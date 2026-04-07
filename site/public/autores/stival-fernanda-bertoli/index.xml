@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stival, Fernanda Bertoli on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/stival-fernanda-bertoli/</link>
+    <link>http://localhost:1313/autores/stival-fernanda-bertoli/</link>
     <description>Recent content in Stival, Fernanda Bertoli on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/stival-fernanda-bertoli/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/stival-fernanda-bertoli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna e sua expressão cromática</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-010/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-010/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-010/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-010/</guid>
       <description>Referências BERRIEL, Andrea; SUZUKI, Juliana. Memória do Arquiteto: Pioneiros da Arquitetura e do Urbanismo no Paraná. 2. ed. Curitiba: Editora UFPR, 2012. BRAGA, Gisele Pinna. Inventário digital da Arquitetura Moderna de Curitiba: A casa do arquiteto 1962-1985. In: 5o Seminário Ibero-Americano, Arquitetura E Documentação. Belo Horizonte, 2017. GNOATO, Luís Salvador. Arquitetura do movimento moderno em Curitiba. 1. ed. Curitiba: Travessa dos Editores, 2009. PACHECO, Paulo Cesar Braga. A Arquitetura do Grupo do Paraná 1957-1980.</description>
     </item>
   </channel>

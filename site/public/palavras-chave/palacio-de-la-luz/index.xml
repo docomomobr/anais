@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palacio de La Luz on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/palacio-de-la-luz/</link>
+    <link>http://localhost:1313/palavras-chave/palacio-de-la-luz/</link>
     <description>Recent content in Palacio de La Luz on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/palacio-de-la-luz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/palacio-de-la-luz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Urbanismo e artes visuais no palácio de La Luz de Román Fresnedo Siri</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-048/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-048/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-048/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-048/</guid>
       <description>Referências ARTICARDI, Juan. “Propuestas urbanas de Fresnedo Siri&amp;quot;. Tesina del Programa de Doctorado de la Universidad Politécnica de Madrid, 2004 (inédito). CABRAL, Cláudia Piantá Costa. Arquitetura moderna e escultura figurativa: a representação naturalista no espaço moderno. 8º Seminário DOCOMOMO Brasil. Rio de Janeiro, setembro, 2009. DE BETOLAZA, Alberto E. &amp;ldquo;La representación moderna de las instituciones hacia 1940: el aporte de Román Fresnedo Siri&amp;rdquo;. Tesina del Programa de Doctorado de la Universidad Politécnica de Madrid, 2004 (inédito).</description>
     </item>
   </channel>

@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamita, João Masao on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/kamita-jo%C3%A3o-masao/</link>
+    <link>http://localhost:1313/autores/kamita-jo%C3%A3o-masao/</link>
     <description>Recent content in Kamita, João Masao on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/kamita-jo%C3%A3o-masao/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/kamita-jo%C3%A3o-masao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura Moderna no presente amplo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-226/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-226/</guid>
+      <description>Referências GUMBRECHT, H.U. Depois de 1945: latência como origem do presente (São Paulo, UNESP, 2015a GUMBRECHT, H.U Nosso Presente Amplo: o tempo e a cultura contemporânea. São Paulo, UNESP, 2015b. HUYSSEN, A. Seduzidos pela memória. Rio de Janeiro, Aeroplano, 2000. NOBRE, A.L.S., KAMITA, J. M. (org.) Arquitetura Atlântica: deslocamentos entre Brasil e Portugal. São Paulo/Romano Guerra, Rio de Janeiro/Editora PUC-Rio, 2010 </description>
+    </item>
     <item>
       <title>Affonso Eduardo Reidy e o Brutalismo Paulista</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-033/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-033/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-033/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-033/</guid>
       <description>Referências BASTOS, Maria Alice Junqueira., ZEIN, Ruth Verde. Brasil: arquite- turas após 1950. São Paulo, Perspectiva, 2011. BONDUKI, Nabil (org.). Affonso Eduardo Reidy. Lisboa/São Paulo, Blau/Instituto Lina Bo e P.M. BARDI, 2000. FRANCK, K.; GIDEON, S. Affonso Eduardo Reidy: bauten und pro- jekte. Stuttgart, Hatje, 1960. KAMITA, João Masao. Affonso Eduardo Reidy. AU - Arquitetura e Urbanismo, n. 47, São Paulo, abr./mai. 1993. KAMITA, João Masao. Vilanova Artigas. São Paulo, Cosac Naify, 2000.</description>
     </item>
     <item>
       <title>Arquitetura Moderna e Neoconcretismo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-054/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-054/</guid>
       <description>Referências BRITO, Ronaldo. Experiência Crítica. São Paulo: Cosac &amp;amp; Naify, 2005 . BRITO, Ronaldo. “Espaço em ato”. In.- Richard Serra. Rio de Janeiro: Centro de Arte Hélio Oiticica, 1997. COCCHIARALE, F., GEIGER, A.B. (org.) Abstracionismo Geométrico e Informal: a vanguarda brasileira nos anos cinqüenta. Rio de Janeiro: FUNARTE, 1987. HUSSERL, E. L’Origine de la Geometrie. Paris : Presses Universitaires de France, 1999. LE CORBUSIER. Precisões sobre um estado presente da Arquitetura e do Urbanismo.</description>
     </item>
     <item>
       <title>A construção do Teatro do Museu de Arte Moderna do Rio de Janeiro, 50 anos depois</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-068/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-068/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-068/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-068/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geraldo Santana on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/geraldo-santana/</link>
+    <link>http://localhost:1313/palavras-chave/geraldo-santana/</link>
     <description>Recent content in Geraldo Santana on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/geraldo-santana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/geraldo-santana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pernambuco pós-1964</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-035/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-035/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-035/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-035/</guid>
       <description>Referências AMORIM, L. Arquitetura-Pernambuco In: Pernambuco 5 décadas de Arte. Coord. André Rosemberg. Recife: Quadro Publicidade e Design Ltda., 2003. 224p. pp.59-125. AMORIM, L. Todos Juntos para o Céu In: Pernambuco 5 décadas de Arte. Coord. André Rosemberg. Recife: Quadro Publicidade e Design Ltda., 2003. BASTOS, M. A. J. Pós-Brasília: Rumos da Arquitetura Brasileira. São Paulo: Ed. Perspectiva/FAPSEP, 2003. CALDAS, R. M. V. Arquitetura Industrial em Recife: uma face da modernidade.</description>
     </item>
   </channel>

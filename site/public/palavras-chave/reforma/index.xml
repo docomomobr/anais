@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reforma on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/reforma/</link>
+    <link>http://localhost:1313/palavras-chave/reforma/</link>
     <description>Recent content in reforma on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/reforma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/reforma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoro e dissonância</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-181/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-181/</guid>
+      <description>Referências ArchDaily. Clássicos da Arquitetura: Centro Técnico de Aeronáutica / Oscar Niemeyer. Acesso em 19 de setembro de 2025. &amp;lt;https://www.archdaily.com.br/br/995594/classicos-da-arquitetura-centro-tecnico-de-aeronautica-oscar-niemeyer&amp;gt; ArchEyes. From Casa Baldo by Oscar Niemeyer to Itaúna House by Siqueira+Azul. 10 de janeiro de 2025. Acesso em 19 de setembro de 2025. &amp;lt;https://archeyes.com/from-casa-baldo-by-oscar-niemeyer-to-itauna-house-by-siqueiraazul/&amp;gt; Arquivo.arq. Centro Técnico de Aeronáutica. Acesso em 19 de setembro de 2025. &amp;lt;https://arquivo.arq.br/projetos/centro-tecnico-de-aeronautica&amp;gt; Casa Vogue. Adriana Varejão abre sua casa projetada por Oscar Niemeyer. 12 de novembro de 2021.</description>
+    </item>
+    <item>
+      <title>Reivindicando o inabitado</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-277/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-277/</guid>
+      <description>Referências ARQUITECTOS DUJOVNE-HIRSCH. Silos De Dorrego, 1993. &amp;lt;https://www.dujovne-hirsch.com/silos-de-dorrego/&amp;gt; ATELIERS JEAN NOUVEL. Gasometer A, 2001. &amp;lt;https://www.jeannouvel.com/en/projects/gazometre/&amp;gt; CATAFESTA, Manuela. Habitar a indústria. Dissertação de mestrado, UFRGS, 2012. CIERI, José Luis. Silos de Dorrego. Infobae, Março de 2024. COMAS, Carlos Eduardo Dias. Ecos fabriles. Arquitectura Viva, no. 48 (1994): 26–28. COMAS, Carlos Eduardo; BENEDETTI, Jacopo. Tanque de Arte, Xangai. In: VIII Seminário Docomomo Sul. Porto Alegre: UFRGS, 2025. COOP HIMMELB(L)AU. Apartment Building Gasometer B, 2001.</description>
+    </item>
     <item>
       <title>Hospital Tide Setúbal</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-092/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-092/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-092/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-092/</guid>
       <description>Referências BONFIM, M. Almanaque. Um olhar sobre São Miguel Paulista–manifestações culturais, ontem e hoje. Fundação Tide Setúbal e Cpdoc São Miguel Paulista. São Paulo, 2008. Disponível em: &amp;lt;https://fundacaotidesetubal.org.br/midia/publicacao_246.pdf&amp;gt; , acessado em 15/05/2023. BROSS, J.C. Compreendendo o edifício de saúde. Volume 2. São Paulo: ATHENEU, 2013. p-70. CARVALHO, F. DE A.; MACIEL, M. D. Influência de uma indústria química tecnológica no desenvolvimento de uma comunidade/bairro e na opção de estudantes da região pelo curso de Química.</description>
     </item>
     <item>
       <title>A (não) permanência das obras de Severiano Mário Porto</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/1/</link>
+      <link>http://localhost:1313/nne/sdnne06/1/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/1/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/1/</guid>
       <description></description>
     </item>
   </channel>

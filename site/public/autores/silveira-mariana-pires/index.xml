@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silveira, Mariana Pires on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/silveira-mariana-pires/</link>
+    <link>http://localhost:1313/autores/silveira-mariana-pires/</link>
     <description>Recent content in Silveira, Mariana Pires on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/silveira-mariana-pires/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/silveira-mariana-pires/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O estudo do Pavilhão Reitor Martins Filho como memória da Arquitetura Moderna em Fortaleza</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-094/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-094/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-094/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-094/</guid>
       <description>Referências ANELLI, Renato Luiz Sobral; SANCHES, Aline Coelho. A flexibilidade da planta livre moderna para novos usos: transformando o Grande Hotel de São Carlos em Paço Municipal. In: 6º DOCOMOMO Brasil: Moderno e Nacional. Niterói, 2005, Niterói. 6º DOCOMOMO Brasil: Moderno e Nacional. Niterói, 2005. BRAGA, Bruno Melo. Flexibilidade e Permanência: os edifícios públicos modernos de Fortaleza. 2017. 157 f. Dissertação (Mestrado) - Curso de Programa de Graduação em Arquitetura e Urbanismo + Design, Universidade Federal do Ceará, Fortaleza, 2017.</description>
     </item>
   </channel>

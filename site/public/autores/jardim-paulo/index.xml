@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jardim, Paulo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/jardim-paulo/</link>
+    <link>http://localhost:1313/autores/jardim-paulo/</link>
     <description>Recent content in Jardim, Paulo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/jardim-paulo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/jardim-paulo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edifício Jorge Machado Moreira</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-015/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-015/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-015/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-015/</guid>
       <description>Referências Roberto Conduru: Razão ao cubo. In Czajkowski, Jorge, org.: Jorge Machado Moreira. Centro de Arquitetura e Urbanismo da PCRJ, Rio de Janeiro, 1999. </description>
     </item>
   </channel>

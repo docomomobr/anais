@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zona Típica on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/zona-t%C3%ADpica/</link>
+    <link>http://localhost:1313/palavras-chave/zona-t%C3%ADpica/</link>
     <description>Recent content in Zona Típica on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/zona-t%C3%ADpica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/zona-t%C3%ADpica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Patrimonio frágil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-143/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-143/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-143/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-143/</guid>
       <description>Referências CChC. (2017). Hacia una gestión sustentable del patrimonio arquitectonico en Chile. págs. GERTOSIO, R. (2019). &amp;ldquo;Las Unidades Vecinales Patrimoniales&amp;rdquo;. Tesis para obtener el grado de Magíster en Hábitat Residencial. Universidad de Chile. Santiago. GOMEZ, C. (2014). El origen de los procesos de patrimonialización: la efectividad como punto de partida. Revista de investigación (EARI), 66-80. JENKS, C. (1981). El lenguaje de la arquitectura post-moderna. Gustavo Gili. LA TERCERA (25 de 02 de 2018).</description>
     </item>
   </channel>

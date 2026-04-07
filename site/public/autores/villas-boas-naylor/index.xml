@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Villas Boas, Naylor on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/villas-boas-naylor/</link>
+    <link>http://localhost:1313/autores/villas-boas-naylor/</link>
     <description>Recent content in Villas Boas, Naylor on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/villas-boas-naylor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/villas-boas-naylor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implantação e permeabilidade das casas de Lúcio Costa</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-014/</link>
+      <link>http://localhost:1313/se/sdrj02/sdrj02-014/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-014/</guid>
+      <guid>http://localhost:1313/se/sdrj02/sdrj02-014/</guid>
       <description></description>
     </item>
     <item>
       <title>Residência Frey Johnsson</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-013/</link>
+      <link>http://localhost:1313/se/sdrj02/sdrj02-013/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-013/</guid>
+      <guid>http://localhost:1313/se/sdrj02/sdrj02-013/</guid>
       <description></description>
     </item>
   </channel>

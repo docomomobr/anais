@@ -2,80 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cinema on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/cinema/</link>
+    <link>http://localhost:1313/palavras-chave/cinema/</link>
     <description>Recent content in Cinema on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/cinema/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/cinema/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura, cinema e cultura nos filmes A Compadecida e Bacurau</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-176/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-176/</guid>
+      <description>Referências Bardi, Lina Bo. &amp;ldquo;Planejamento ambiental: ‘desenho’ no impasse.&amp;rdquo; Em Lina Bo Bardi: Obra construída, editado por Olivia de Oliveira. São Paulo: GG, 2018. Name, Leo. &amp;ldquo;Apontamentos sobre a relação entre cinema e cidade.&amp;rdquo; Arquitextos, ano 04, n. 037.02, Vitruvius, junho 2003. &amp;lt;https://vitruvius.com.br/revistas/read/arquitextos/04.037/676&amp;gt; Oliveira, Olivia de. Lina Bo Bardi: Obra construída. 3ª ed. São Paulo: GG, 2018. Rodrigues, Ana Bárbara Machado, Teixeira, Marina Lages Gonçalves, e Castral, Paulo César. &amp;ldquo;Bacurau: entre permanências e rupturas de representações do Nordeste.</description>
+    </item>
+    <item>
+      <title>É de tirar o fôlego! Arquitetura Moderna Brasileira em O Homem do Rio</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-048/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-048/</guid>
+      <description>Referências Bruand, Yves. Arquitetura Contemporânea no Brasil. 2ª ed. São Paulo: Perspectiva, 1991. Charney, Leo; Schwartz, Vanessa R. (Org.). O cinema e a invenção da vida moderna. Tradução de Regina Thompson. 2ª ed. Rev. São Paulo: Cosac &amp;amp; Naify, 2004. (Coleção cinema, teatro e modernidade). Eisenstein, Sergei. A forma do filme. Tradução de Tereza Ottoni. Rio de Janeiro: Jorge Zahar Ed. 2002. Holmes, Nethan. “Highways through the void: chase sequences and the built environment”.</description>
+    </item>
+    <item>
+      <title>O drama do espaço moderno</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-055/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-055/</guid>
+      <description>Referências Augé, Marc. Não Lugares: Introdução a uma Antropologia da Supermodernidade. Campinas: Papirus, 1994 Bollas, Christopher. The Evocative Object World. Londres: Routledge, 2009. Bollas, Christopher. “Architecture and the Unconscious.” International Forum of Psychoanalysis 9, nº 1-2 (2000): 29–38. Debord, Guy. A Sociedade do Espetáculo. Rio de Janeiro: Contraponto, 1997. Debord, Guy. “Teoria da Deriva.” Internationale Situationniste (1958). Transcrição Fernando Araújo. Disponível em: &amp;lt;https://www.marxists.org/portugues/debord/1958/12/90.htm?utm_source&amp;gt; Acesso 13 de setembro de 2025. Huskinson, Lucy.</description>
+    </item>
     <item>
       <title>O cinema como ferramenta de experimentação, registro e propagação das vanguardas modernas</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-054/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-054/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-054/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-054/</guid>
       <description>Referências ALENCAR, M. M. DE. Imagens da Metrópole no Cinema Brasileiro. São Paulo: Pontíficia Universidade Católica de São Paulo (PUC/SP), 2008. AUFDERHEIDE, P. Documentary film: a very short introduction. New York: Oxford University Press, 2007. BERNARDET, J.-C. O que é cinema? 11. ed. São Paulo (SP): Brasiliense, 1991. BORDWELL, D.; THOMPSON, K. Film art: an introduction. 8. ed. Boston: McGraw Hill, 2008. BORGES-ANDRADE, J. E. Em busca do conceito de linha de pesquisa.</description>
     </item>
     <item>
       <title>O cinema no mundo moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-053/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-053/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-053/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-053/</guid>
       <description>Referências ALONSO, Daniel Villalobos; BARREIRO, Sara Pérez; SALA, Javier Rey de. Arquitectura de cine. Relaciones entre Espacio Fílmico y Espacio Arquitectónico: cine, mitos y literatura. In: Arquitectura de cine: fotogramas 010. [s.l.]: Grupo de Investigación Reconocido de Arquitectura y Cine, 2016, p. 13–36. Disponível em: &amp;lt;https://dialnet.unirioja.es/servlet/articulo?codigo=6366745&amp;gt; Acesso em: 22 abr. 2022. CALDAS, Pedro Henrique; SANTOS, Yolanda Lhullier dos. Guarany - o grande teatro de Pelotas. Pelotas: Semeador, 1994. CARVALHAES, A. C.</description>
     </item>
     <item>
       <title>Columbus, um filme sobre o amor pela Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-013/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-013/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-013/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-013/</guid>
       <description>Referências AHI, Mehruss Jon; KARAOGHLANIAN, Armen. The Architecture of Cinematic Spaces: by Interiors. 1. ed. Chicago, EUA: Intellect Books, 2020. 92 p. BOSCOV, Isabela. Jura que você nunca viu&amp;hellip; &amp;ldquo;Encontros e Desencontros&amp;rdquo;?. Veja, 18 set. 2019. Disponível em: &amp;lt;https://veja.abril.com.br/blog/isabela-boscov/encontros-e-desencontros-2/&amp;gt; Acesso em: 6 abr. 2021. COLUMBUS. Direção: Kogonada. Roteiro: Kogonada. [S. l.]: Nonetheless Productions, Depth of Field, Superlative Films, 2017. L., Pam. Columbus, Indiana. Cruzn For Sights, 11 jul. 2016. Disponível em: &amp;lt;https://cruznforsights.</description>
     </item>
     <item>
       <title>Sobre o filme Lotte am Bauhaus</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-038/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-038/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-038/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-038/</guid>
       <description>Referências BARBA, José Juan. &amp;ldquo;Lotte am Bauhaus&amp;rdquo;, a film about women in the Bauhaus. Metalocus, 28 mar. 2019. Disponível em: &amp;lt;https://www.metalocus.es/en/news/lotte-am-bauhaus-a-film-about-women-bauhaus&amp;gt; Acesso em: 17 set. 2020. CAMARGO, Mônica Junqueira. O Passado como Presente Histórico. Pós. Revista do Programa de Pós-Graduação FAUUSP. v. 17, n. 28, p. 272-274, dez. 2010. COSTA, Claudia. Professores da USP analisam os 100 anos da Bauhaus. Jornal da USP, 11 abr. 2019. Disponível em: &amp;lt;https://jornal.usp.br/cultura/professores-da-usp-analisam-os-100-anos-da-bauhaus/&amp;gt; Acesso em: 24 set.</description>
     </item>
     <item>
       <title>Cinema e Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-026/</link>
+      <link>http://localhost:1313/nne/sdnne07/sdnne07-026/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-026/</guid>
+      <guid>http://localhost:1313/nne/sdnne07/sdnne07-026/</guid>
       <description>Referências AMORIM, Luiz Manuel do Eirado. Modernismo recifense: uma escola de arquitetura, três paradigmas e alguns paradoxos. Arquitextos. São Paulo, 2001. Vitruvius, v. 12, 2001. Disponível em: &amp;lt;http://www.vitruvius.com.br/revistas/read/arquitextos/&amp;gt; 01.012/889&amp;gt; Acesso em 19. jul. de 2018. BORSOI, Acácio Gil. Arquitetura como manifesto. Autor, 2006. BRENDLE, Betânia. Wandenkolk Walter Tinoco. Brutalismo e delicadeza. Drops. São Paulo, ano 17, n. 109.03, Vitruvius, 2016. Disponível em: &amp;lt;http:// www.vitruvius.com.br/revistas/read/drops/17.109/6218&amp;gt; Acesso em 19. jul. de 2018. BRUAND, Y.</description>
     </item>
     <item>
       <title>Cataguases e suas modernidades</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-001/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-001/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-001/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-001/</guid>
       <description>Referências Amaral, Aracy Abreu. Blaise Cendrars no Brasil e os modernistas. São Paulo: Editora 34, 1997. ANDRADE, Mário de. Cataguazes. In: Diário Nacional, São Paulo, ano 5, n. 1.510, 10 jul. 1932. Disponível em: &amp;lt;http://bndigital.bn.br/hemeroteca-digital/&amp;gt; Acesso em: jun.2016. ANDRADE, Mário de. O movimento modernista. In: O Estado de S. Paulo, fev. 1942. Disponível em: &amp;lt;http://www.estadao.com.br&amp;gt; Acesso em: jul. 2012. ANDRADE, Mário de. Mário de. Cartas a Manuel Bandeira. São Paulo: Ediouro, 2009.</description>
     </item>
     <item>
       <title>Cine Rex</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/64/</link>
+      <link>http://localhost:1313/nne/sdnne06/64/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/64/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/64/</guid>
       <description></description>
     </item>
     <item>
       <title>Do pó vieste e ao pó retornarás</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-082/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-082/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-082/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-082/</guid>
       <description>Referências AMORIM, Luiz Manuel do Eirado. Obituário arquitetônico. Pernambuco modernista. Recife: Editora UFPE, 2007. CALDEIRA, Teresa. Cidade de Muros: Crime, segregação e cidadania em São Paulo. São Paulo: Edsup – Editora da Universidade de São Paulo. 2000. E. Direção: Alexandre Wahrhaftig, Helena Ungaretti, Miguel Antunes Ramos. Produção: Gustavo Rosa de Moura e Juliana Donato. Documentário, 2012. REZENDE, Eliana. arquitetura do medo e a vigilância consentida. In: Portal Vermelho, 2015. Disponível em: &amp;lt;http://www.</description>
     </item>
     <item>
       <title>A cidade cinematográfica e a síntese das artes no imaginário das vanguardas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-082/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-082/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-082/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-082/</guid>
       <description>Referências ALBRECHT, Donald. Designing Dreams: Modern Architecture in the movies. New York, Harper and Row: The Museum of Modern Art, 1987. COLQUHOUN, Alan. La arquitectura moderna: Una historia desapasionada. Barcelona: Editorial Gustavo Gili S.A. 2005. EISNER, Lotte H. A tela demoníaca: As influências de Max Reinhard e do expressionismo. 2ª Ed. Rio de Janeiro: Editora Paz e Terra, 2002. FAGIOLO, Marcello. La catedral de cristal: la arquitectura del expresionismo y la &amp;ldquo;tradición&amp;quot;exoterica.</description>
     </item>
     <item>
       <title>A Modernidade das salas de cinema do Recife</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-028/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-028/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-028/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-028/</guid>
       <description>Referências ANDRADE, Paulo R., Câmara, Andrea. Protomodernismo ou uma outra cultura da modernidade. in AU- Arquitetura e Urbanismo nº 51, pag 73-77, dez93/jan94 ANELLI, R., GUERRA, A., KON, N. Rino Levi. Arquitetura e cidade. São Paulo: Romano Guerra Editora, 2001 CAVALCANTI, Paulo. O Caso eu Conto como o Caso foi: A luta Clandestina.(memórias políticas) Recife: Guararapes, 1985. CAVALCANTI, Paulo. O Caso eu Conto como o Caso foi: da coluna Prestes a queda de Arraes.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desenvolvimento regional on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/desenvolvimento-regional/</link>
+    <link>http://localhost:1313/palavras-chave/desenvolvimento-regional/</link>
     <description>Recent content in Desenvolvimento regional on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/desenvolvimento-regional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/desenvolvimento-regional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A contribuição do projeto modernista na Amazônia</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-026/</link>
+      <link>http://localhost:1313/nne/sdnne05/sdnne05-026/</link>
       <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-026/</guid>
+      <guid>http://localhost:1313/nne/sdnne05/sdnne05-026/</guid>
       <description>Referências AB’SÁBER, A. Amazônia: do discurso à práxis. São Paulo: Edusp. 2004. BECKER, B. A Urbe Amazônida. Rio de Janeiro: Garamond, 2013. BENÉVOLO, L. História da Cidade. São Paulo: Ed. Perspectiva, 2007. BESSE, J.M. Ver a terra. São Paulo: Perspectiva, 2006. CAPEL, H. La morfologia de las ciudades: sociedad, cultura y paisaje urbano. Barcelona: Ediciones Del Serbal, 2002. COSGROVE, D.; JACKSON, Peter. Novos rumos da geografia cultural. In: CORRÊA, R.L.; ROSENDHAL, Z.</description>
     </item>
   </channel>

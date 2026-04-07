@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliveira, Ana Rosa de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/oliveira-ana-rosa-de/</link>
+    <link>http://localhost:1313/autores/oliveira-ana-rosa-de/</link>
     <description>Recent content in Oliveira, Ana Rosa de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/oliveira-ana-rosa-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/oliveira-ana-rosa-de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A conservação de obras modernas</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-011/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-011/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-011/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-011/</guid>
       <description>Referências ADAMS, W. H. Roberto Burle Marx. The unnatural art of garden. Nova Iorque, MOMA, 1991. ANELLI, Renato. “Arquitetura e cidade na obra de Rino Levi.” Tese de Doutorado, FAU / USP, São Paulo, 1995. ANELLI, Renato. Rino Levi, Arquitetura e cidade. São Paulo, Romano Guerra, 2001. MOTTA, Flávio L. Roberto Burle Marx e a nova visão da paisagem. São Paulo, Nobel, 1983. REIS FILHO,Nestor Goulart. Rino Levi. Milão, Edizioni di Comunitá, 1974.</description>
     </item>
   </channel>

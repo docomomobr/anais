@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Val, Marília Aldegheri do on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/val-mar%C3%ADlia-aldegheri-do/</link>
+    <link>http://localhost:1313/autores/val-mar%C3%ADlia-aldegheri-do/</link>
     <description>Recent content in Val, Marília Aldegheri do on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/val-mar%C3%ADlia-aldegheri-do/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/val-mar%C3%ADlia-aldegheri-do/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crítica de Arquitetura no Brasil</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-060/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-060/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-060/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-060/</guid>
       <description>Referências Aa.Vv. Rediscutindo o modernismo: universalidade e diversidade do movimento moderno em arquitetura e urbanismo no Brasil. [org. de Luiz Antonio Fernandes Cardoso e Olivia Fernandes de Oliveira]. Salvador: Mestrado em Arquitetura e Urbanismo / UFBA, 1977. Aa.Vv. Textos de arquitectura de la modernidad; [org. por Pere Hereu; Josep María Montaner; Jordi Oliveras]. Madrid: Nerea, 1994. ARANTES Otília B. F. Mário Pedrosa: itinerário crítico, São Paulo: Página Aberta, 1991. ARGAN, G.</description>
     </item>
   </channel>

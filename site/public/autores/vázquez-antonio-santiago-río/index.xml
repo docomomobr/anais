@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vázquez, Antonio Santiago Río on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/v%C3%A1zquez-antonio-santiago-r%C3%ADo/</link>
+    <link>http://localhost:1313/autores/v%C3%A1zquez-antonio-santiago-r%C3%ADo/</link>
     <description>Recent content in Vázquez, Antonio Santiago Río on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/v%C3%A1zquez-antonio-santiago-r%C3%ADo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/v%C3%A1zquez-antonio-santiago-r%C3%ADo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Las Escuelas de Arquitectura de La Coruña</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-011/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-011/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-011/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-011/</guid>
       <description>Referências Alonso Pereira, José Ramón. Metáfora y mito: tránsito entre modernidad y contemporaneidad en la arquitectura de Galicia. En: Alonso Pereira, José Ramón (coord.). Modernidad y contemporaneidad en la arquitectura de Galicia. A Coruña: Grupo de Investigación en Historia de la Arquitectura. Universidade da Coruña, 2012. Alonso Pereira, José Ramón. Notas para una historia de la Escuela. En: Río Vázquez, Antonio S. (coord.). Documentos da Escola Técnica Superior de Arquitectura da Coruña.</description>
     </item>
   </channel>

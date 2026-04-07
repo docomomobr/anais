@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palácio da Justiça on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-da-justi%C3%A7a/</link>
+    <link>http://localhost:1313/palavras-chave/pal%C3%A1cio-da-justi%C3%A7a/</link>
     <description>Recent content in Palácio da Justiça on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/pal%C3%A1cio-da-justi%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 15:54:08 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/pal%C3%A1cio-da-justi%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Restauro do Palácio da Justiça do Paraná em Curitiba</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-093/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-093/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-093/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-093/</guid>
       <description>Referências ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: Projeto de estruturas de concreto – Procedimento. Rio de Janeiro, 2014. BACOCCINI, Luiz Augusto Souza Netto. Percursos da arquitetura: arquitetura em Curitiba: 1721- 1962. Curitiba: InVerso, 2011. BRANDI, Cesare. Teoria da restauração. 3. ed. Cotia: Ateliê Editorial, 2004. 261 p. ISBN 8574802255. CASTRO, Elizabeth Amorim de. Edifícios públicos de Curitiba: ecletismo e modernismo na arquitetura oficial. Curitiba: Edição do autor, 2011. DE VENEZA, Carta.</description>
     </item>
     <item>
       <title>Palácio da Justiça de Porto Alegre: a longa espera pelo fim, 1952-2006</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-009/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-009/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-009/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-009/</guid>
       <description>Referências ADUFRGS – Associação dos Docentes da Universidade Federal do Rio Grande do Sul. Universidade e repressão: Os expurgos na UFRGS. Porto Alegre: L&amp;amp;PM, 1979. AXT, Gunter e DE LA TORRE, Márcia (org.). Histórias de Vida – Representações do Judiciário. Vol. III. Porto Alegre : Tribunal de Justiça do Estado do Rio Grande do Sul, Memorial do Judiciário do Rio Grande do Sul, 2003. BAHIMA, Carlos Fernando Silva. Edifício moderno brasileiro : a urbanização dos cinco pontos de Le Corbusier 1936-57.</description>
     </item>
   </channel>

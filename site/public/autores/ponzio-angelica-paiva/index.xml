@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ponzio, Angelica Paiva on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/ponzio-angelica-paiva/</link>
+    <link>http://localhost:1313/autores/ponzio-angelica-paiva/</link>
     <description>Recent content in Ponzio, Angelica Paiva on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/ponzio-angelica-paiva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/ponzio-angelica-paiva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do Mediterrâneo às Américas</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-284/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-284/</guid>
+      <description>Referências Comas, Carlos Eduardo. “Lúcio Costa e a revolução na arquitetura brasileira 30/39, e a(s) lenda(s) de Le Corbusier.” Arquitextos, São Paulo, ano 2, n. 022.01, mar. 2002. Irace, Fulvio. “La Villa Planchart a Caracas.” In Gio Ponti, La Villa Planchart a Caracas, editado por A. Greco, 45. Rome: Kappa, 2008. Kamita, João Masao. “A Casa Moderna Brasileira”. Em Arquitetura moderna brasileira, editado por Elisabetta Andreoli e Adrian Forty, 140–169. Londres: Phaidon, 2004.</description>
+    </item>
     <item>
       <title>A Casa Edgar Duvivier e seus interiores</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-010/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-010/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-010/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-010/</guid>
       <description>Referências BENJAMIN, Walter. The Arcades Project. Harvard University Press, 1999. BRANDÃO, Helena. A varanda na Cidade Maravilhosa - Uma questão de identidade cultural ou de regulamentação. Vitruvius, ano 13, ago. 2012. COLOMINA, B. Privacy and Publicity: Modern Architecture as Mass Media. MIT Press, 1996. COMAS, Carlos Eduardo Dias. Brazil Builds e a bossa barroca: notas sobre a singularização da arquitetura moderna brasileira, 2005. COSTA, Lucio. Registro de uma vivência. São Paulo: Editora 34, 3a edição, 2018.</description>
     </item>
     <item>
       <title>Cultura disciplinar e arquivos de arquitetura</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-032/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-032/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-032/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-032/</guid>
       <description>Referências Fischer, Sylvia. Os Arquitetos da Poli: Ensino e Profissão em São Paulo. Ediusp: São Paulo, 2005, p.212. Gravina, Pedro. CAT GP 008 BIS DSC00516, Epistolário Ponti. “Mazzucchelli, A.M. George Howe e William Lescaze Architetti americani”. Domus n.89, 1935, p. 14 -17. Olivieri, L.C. Uma nazione balza in testa all´architettura moderna. Domus n.229, 1948, p.2-3. Ponti, Gio.”Sequenze di paesaggi architettonici”. Domus, n. 270, 1952, p.6. Ponti, Gio. “Illusività della architettura”. Domus, n.</description>
     </item>
   </channel>

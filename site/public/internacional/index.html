@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seminários Docomomo Internacional — Anais Docomomo Brasil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <link rel="canonical" href="http://localhost:1313/internacional/">
+  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="http://localhost:1313/img/og-default.png">
+  <meta name="twitter:image" content="http://localhost:1313/img/og-default.png">
+  
+
+
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="container header-top">
+      <a href="https://docomomobrasil.com" class="site-logo-link">
+        <img src="/img/logo-docomomo-brasil.png" alt="Docomomo Brasil" class="site-logo">
+      </a>
+    </div>
+    <div class="container header-bottom">
+      <a href="/" class="site-title">anais</a>
+      <div class="search-bar" id="search" role="search"></div>
+    </div>
+    <nav class="site-nav" aria-label="Navegação principal">
+      <div class="container">
+        <div class="nav-seminarios">
+          <a href="/brasil/">brasil</a>
+          <a href="/se/">sudeste</a>
+          <a href="/nne/">norte/nordeste</a>
+          <a href="/sul/">sul</a>
+          <a href="/internacional/">int</a>
+        </div>
+        <div class="nav-indices">
+          <a href="/autores/">autores</a>
+          <a href="/palavras-chave/">palavras-chave</a>
+          <a href="/editorial/">editorial</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main-content" class="container">
+    
+<nav class="breadcrumb">
+  <a href="/">início</a>
+  
+    
+  
+  &rsaquo; <span>seminários docomomo internacional</span>
+</nav>
+
+
+  
+  <h1 class="ambito-title">Seminários Docomomo Internacional</h1>
+
+  <div class="sort-toggle">
+    <button class="sort-btn active" data-sort="date">cronológico</button>
+    <button class="sort-btn" data-sort="state">por estado</button>
+  </div>
+
+  <div class="event-list" id="event-list">
+  
+    <a href="/internacional/idc06/" class="event-card" data-date="2000" data-state="" data-state-name="">
+      
+      <img src="/internacional/idc06/idc06.png" alt="" class="event-cover">
+      
+      <div class="event-card-info">
+        <h2>6th International DOCOMOMO Conference</h2>
+        <p class="event-subtitle">The Modern City Facing the Future</p>
+        <span class="location">Brasília, DF</span>
+        <span class="count">53 artigos</span>
+      </div>
+    </a>
+  
+  </div>
+
+  <script>
+  (function() {
+    var list = document.getElementById('event-list');
+    var btns = document.querySelectorAll('.sort-btn');
+    btns.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        btns.forEach(function(b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+        sortEvents(btn.dataset.sort);
+      });
+    });
+    function sortEvents(mode) {
+      
+      list.querySelectorAll('.state-heading').forEach(function(h) { h.remove(); });
+      var cards = Array.from(list.querySelectorAll('.event-card'));
+      if (mode === 'date') {
+        cards.sort(function(a, b) { return b.dataset.date.localeCompare(a.dataset.date); });
+        cards.forEach(function(c) { list.appendChild(c); });
+      } else {
+        cards.sort(function(a, b) {
+          var sa = a.dataset.stateName || 'ZZZ', sb = b.dataset.stateName || 'ZZZ';
+          if (sa !== sb) return sa.localeCompare(sb);
+          return b.dataset.date.localeCompare(a.dataset.date);
+        });
+        var current = '';
+        cards.forEach(function(c) {
+          var st = c.dataset.stateName || '';
+          if (st && st !== current) {
+            current = st;
+            var h = document.createElement('h2');
+            h.className = 'state-heading section-heading';
+            h.textContent = st;
+            list.appendChild(h);
+          }
+          list.appendChild(c);
+        });
+      }
+    }
+  })();
+  </script>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p><strong>docomomo brasil</strong></p>
+      <p>Conteúdo licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a></p>
+    </div>
+  </footer>
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    new PagefindUI({ element: "#search", showSubResults: true, translations: { placeholder: "Buscar artigos..." } });
+  </script>
+  <script>
+  document.addEventListener('click', function(e) {
+    var btn = e.target.closest('.doi-copy');
+    if (!btn) return;
+    navigator.clipboard.writeText(btn.dataset.doi).then(function() {
+      btn.classList.add('copied');
+      btn.title = 'Copiado!';
+      setTimeout(function() { btn.classList.remove('copied'); btn.title = 'Copiar DOI'; }, 2000);
+    });
+  });
+  </script>
+  
+  <script data-goatcounter="https://anais-docomomo.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

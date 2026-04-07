@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge Caron on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/jorge-caron/</link>
+    <link>http://localhost:1313/palavras-chave/jorge-caron/</link>
     <description>Recent content in Jorge Caron on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/jorge-caron/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/jorge-caron/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jorge Caron</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-010/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-010/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-010/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-010/</guid>
       <description>Referências ANNA, J. S; CAMPOS, S. O; CALMON, M. A. M. Diferenças e semelhanças entre arquivos e bibliotecas: o profissional da informação em evidência. 2015. BEIGUELMAN, Giselle. Reinventar a memória é preciso. In: BEIGUELMAN, Giselle; MAGALHÃES, Ana Gonçalves. Futuros possíveis: arte, museus e arquivos digitais. São Paulo: Editora Peirópolis ltda., 2014. p. 12-33. BRITO, G. F. de, E. A. COSTA, e L. M. R. VELLOSO. Digital Platform for Dissemination of the FAUUSP Architecture and Design Collections.</description>
     </item>
     <item>
       <title>Um estudo sobre o mestre Artigas e o aprendiz Jorge Caron</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-002/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-002/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-002/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-002/</guid>
       <description>Referências ARTIGAS, J. B. Vilanova Artigas: arquitetos brasileiros. Instituto Lina Bo e P.M. Bardi, Fundação Vilanova Artigas, São Paulo, 1997. ARTIGAS, J. B. Vilanova, 1915-1985. Caminhos da arquitetura; [organização José Tavares Correia de Lira, e Rosa Artigas], Cosac e Naif, São Paulo, 2004. ARANTES, Pedro Fiori. Arquitetura Nova: Sergio ferro, Flávio Imprério e Rodrigo Lefévre, de Artigas aos multirões. São paulo: Ed. 34, 2002. ARTIGAS, João Batista Vilanova. Contribuição para o Ensino e Arquitetura UIA/UNESCO.</description>
     </item>
   </channel>

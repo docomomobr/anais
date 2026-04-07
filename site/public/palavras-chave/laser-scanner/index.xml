@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>laser scanner on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/laser-scanner/</link>
+    <link>http://localhost:1313/palavras-chave/laser-scanner/</link>
     <description>Recent content in laser scanner on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/laser-scanner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/laser-scanner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Patrimônio inteligente e documentação da Protomodernidade</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-042/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-042/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-042/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-042/</guid>
       <description>Referências AFONSO, Alcília. Pátio ferroviário da Estação Nova de Campina Grande- PB - degradar ou consumir? proteger ou usar? In: III Congresso Nacional para Salvaguarda do Patrimônio Cultural, 11., 2021, São Paulo. Anais&amp;hellip; São Paulo: Universidade Federal de São Paulo, 2021, p. 975-971. AFONSO, A; PEREIRA, I.; SIMÕES, M. O uso da ferramenta digital laser scanner para a documentação do patrimônio moderno: Bloco CM. UFCG. 1977. RCT – Revista Ciência e Tecnologia RCT V.</description>
     </item>
     <item>
       <title>Uso da tecnologia laser scanning na documentação de Patrimônio Histórico da Universidade Federal de Campina Grande-PB</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-119/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-119/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-119/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-119/</guid>
       <description>Referências AFONSO, Alcília. La consolidación de la arquitectura moderna en Recife en los años 50. Barcelona: tese doutoral apresentada para o departamento de projetos arquitetônicos da ETSAB/ UPC, 2006. AFONSO, Alcilia e MENEZES, Camilla. A Influência da escola do recife na arquitetura de Campina Grande 1950-1970. Belo Horizonte: 4º Seminário Ibero americano Arquitetura e Documentação, 2015. ARAÚJO, ARAÚJO, Adolfo. Cadastro 3d no Brasil a partir de varredura a laser (laser scannig).</description>
     </item>
   </channel>

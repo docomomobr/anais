@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puppi, Marcelo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/puppi-marcelo/</link>
+    <link>http://localhost:1313/autores/puppi-marcelo/</link>
     <description>Recent content in Puppi, Marcelo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/puppi-marcelo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/puppi-marcelo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aprendendo com a Arquitetura Moderna</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-114/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-114/</guid>
+      <description>Referências COMAS, Carlos Eduardo. &amp;ldquo;Moderna (1930 a 1960)&amp;rdquo;. Em: Arquitetura Brasil 500 anos, ed. R. Montezuma. Recife: Universidade Federal de Pernambuco, 2002. ZEIN, Ruth Verde. &amp;ldquo;Brutalismo, sobre sua definição&amp;rdquo;. Arquitextos, nº 084.00, maio 2007. ARTIGAS, João Batista Vilanova. Caminhos da Arquitetura, eds. José Tavares Correia de Lira e Rosa Artigas. São Paulo: Cosac Naify, 2004. COMAS, Carlos Eduardo. &amp;ldquo;Paulo Mendes da Rocha: o prumo dos 90&amp;rdquo;. AU: Arquitetura e Urbanismo, nº 97, ago/set 2001: 102-109.</description>
+    </item>
     <item>
       <title>Do imaginário do século XIX ao imaginário da Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-021/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-021/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-021/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-021/</guid>
       <description>Referências Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981. Castoriadis, Cornelius. L’Institution Imaginaire de la Société. Paris: Seuil, 1975. Comas, Carlos Eduardo. “O encanto da contradição: Conjunto da Pampulha, de Oscar Niemeyer”. Arquitextos, texto especial 011, setembro 2000. &amp;lt;http://www.vitruvius.com.br/revistas/read/arquitextos/01.004/985&amp;gt; (Junho 30, 2016). Comas, Carlos Eduardo. “O oásis de Niemeyer: uma vila brasileira dos anos 50”. RUA: Revista de Arquitetura e Urbanismo, v. 1, n. 7, julho/dezembro 1999, 30-37. Comas, Carlos Eduardo.</description>
     </item>
   </channel>

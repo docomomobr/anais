@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arquitetos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetos/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetos/</link>
     <description>Recent content in arquitetos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetos imigrantes no Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-005/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-005/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-005/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-005/</guid>
       <description>Referências Adorno, Theodor W. Minima Moralia. Meditazioni della Vita Offesa. Torino: Giulio Einaudi editore, 1979. AlSayyad, Nezar Hybrid Urbanism. On the Identity Discourse and the Built Environment. Westport: Praeger Publishers, 2001. Andrade, Mario de O Movimento Modernista, in Aspectos da Literatura Brasileira. Belo Horizonte: Editora Itatiaia 2002. Anelli, Renato; Gerra, Abílio; Kon, Nelson Rino Levi. Arquitetura e Cidade. São Paulo: Romano Guerra Editora, 2001. Barbosa, Marcelo C. A Obra de Adolf Franz Heep no Brasil.</description>
     </item>
   </channel>

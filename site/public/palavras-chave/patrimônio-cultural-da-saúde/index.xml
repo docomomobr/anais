@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrimônio Cultural da Saúde on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/patrim%C3%B4nio-cultural-da-sa%C3%BAde/</link>
+    <link>http://localhost:1313/palavras-chave/patrim%C3%B4nio-cultural-da-sa%C3%BAde/</link>
     <description>Recent content in Patrimônio Cultural da Saúde on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/patrim%C3%B4nio-cultural-da-sa%C3%BAde/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/patrim%C3%B4nio-cultural-da-sa%C3%BAde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Arquitetura Moderna de saúde em Salvador</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-074/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-074/</guid>
+      <description>Referências Bierrenbach, Ana Carolina de Souza. “Os Traços das Arquiteturas Modernas de Saúde em Salvador.” Cadernos de Arquitetura e Urbanismo 24, no. 34 (1º sem. 2017): 1–48. Carvalho, Antônio Pedro Alves de. Introdução à Arquitetura Hospitalar. Salvador: Quarteto Editora, 2014. Costa, Renato da Gama-Rosa, e Gisele Sanglard. “Patrimônio Cultural da Saúde: Uma História Possível?” In Anais do XIII Encontro de História ANPUH-Rio – Identidades. Rio de Janeiro: ANPUH, Seção Rio de Janeiro, 2008.</description>
+    </item>
     <item>
       <title>Do reconhecimento à salvaguarda do Patrimônio Cultural da saúde em Caruaru-PE</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-070/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-070/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-070/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-070/</guid>
       <description>Referências AMORIM, Luiz; LOUREIRO, Claudia. O Espaço da arquitetura como objeto da conservação e restauro. In:XVIII Congresso Brasileiro de Arquitetos. Goiânia: Instituto dos Arquitetos do Brasil. 2006. BARBALHO, Nelson. Caruaru de vila a cidade. 1. ed. Recife: Editora Cepe, 1980. BRASILEIRO, Carolina. Arquitetura antituberculose em Pernambuco: um estudo analítico dos dispensários de tuberculose de Recife (1950-1960) como instrumentos de profilaxia da peste branca. Dissertação de Mestrado. Universidade Federal de Pernambuco, 2012.</description>
     </item>
     <item>
       <title>Paulo Motta e a arquitetura de saúde em Santa Catarina, 1936/1940</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-076/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-076/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-076/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-076/</guid>
       <description>Referências AMORA, Ana Albano. O nacional e o moderno: a arquitetura e saúde no Estado Novo nas cidades catarinenses. Tese (Doutorado) – Programa de Pós-Graduação em Planejamento Urbano e Regional. IPPUR. UFRJ. Rio de Janeiro: 2006. AMORA, Ana Albano. A história e a documentação das cidades hospitais no Brasil, 1918/1945: o caso da Colônia Santa Teresa em Santa Catarina. Seminário Latino-americano Arquitetura e Documentação. Escola de Arquitetura da UFMG, Belo Horizonte, 2008 a.</description>
     </item>
   </channel>

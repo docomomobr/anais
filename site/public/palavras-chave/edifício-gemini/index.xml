@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edifício Gemini on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcio-gemini/</link>
+    <link>http://localhost:1313/palavras-chave/edif%C3%ADcio-gemini/</link>
     <description>Recent content in Edifício Gemini on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcio-gemini/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/edif%C3%ADcio-gemini/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edifício Gemini</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-021/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-021/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-021/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-021/</guid>
       <description>Referências ALMEIDA, Eduardo de. Habitação: consumo, produto, projeto. FAU-USP, 1972. Tese de doutorado. APARICIO GUISADO, Jesús Maria. El muro: concepto esencial en el proyec- to arquitetónico: la materialización de la idea y la idealización de la materia. Madrid: Cp67, 2000. ARMESTO, Antonio. El aula sincrônica: Um ensaio sobre el análisis em ar- quitectura. Universitat Politécnica de Catalunya. Departamento de proyectos Arquitectónicos, 1993. Tese de doutorado. GUERRA, Abilio (org). Eduardo de Almeida.</description>
     </item>
   </channel>

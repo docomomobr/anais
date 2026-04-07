@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trindade, João Victor de Alcântara on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/trindade-jo%C3%A3o-victor-de-alc%C3%A2ntara/</link>
+    <link>http://localhost:1313/autores/trindade-jo%C3%A3o-victor-de-alc%C3%A2ntara/</link>
     <description>Recent content in Trindade, João Victor de Alcântara on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/trindade-jo%C3%A3o-victor-de-alc%C3%A2ntara/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/trindade-jo%C3%A3o-victor-de-alc%C3%A2ntara/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vilas modernas em Belém-PA</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-085/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-085/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-085/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-085/</guid>
       <description>Referências ARGAN, G. C. Sobre a tipologia em arquitetura. In: NESBITT, K.(Org.). Uma nova agenda para a arquitetura: antologia teórica (1965-1995). São Paulo: Cosac Naify, 2006 [1963], p. 268-273. BLAY, Eva Alterman. Eu não tenho onde morar: vilas operárias na cidade de São Paulo. São Paulo: Nobel, 1985. CARVALHO, Bárbara Moraes de. Arquitetura Pública Moderna: uma caracterização sobre tipologia e lugar na cidade de Belém. Mestrado em Arquitetura e Urbanismo, Universidade Federal do Pará, Instituto de Tecnologia, Programa de Pós-graduação em Arquitetura e Urbanismo, Belém 2013.</description>
     </item>
     <item>
       <title>O edifício Piedade do Engenheiro Judah Levy em Belém</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-020/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-020/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-020/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-020/</guid>
       <description>Referências BOURDIEU, Pierre. A Distinção. São Paulo: Zouk, 2007. BRANT, Juliano. A construção social do campo da arquitetura moderna em Belo Horizonte. Dissertação (mestrado) – Programa de Pós-Graduação em Arquitetura e Urbanismo, Escola de Arquitetura e Urbanismo, Universidade de Federal de Minas Gerais, Belo Horizonte, 151 f., 2012. CHAVES, CELMA. Arquitetura, modernização e política entre 1930 e 1945 na cidade de Belém. Arquitextos: São Paulo, março. Disponível em: www.vitruvius.com.br, 2008. Acesso em: 24/09/2022 CHAVES, Celma.</description>
     </item>
   </channel>

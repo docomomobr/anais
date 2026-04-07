@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franco, Felipe Henrique on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/franco-felipe-henrique/</link>
+    <link>http://localhost:1313/autores/franco-felipe-henrique/</link>
     <description>Recent content in Franco, Felipe Henrique on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/franco-felipe-henrique/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/franco-felipe-henrique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estado, símbolo, nação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-048/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-048/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-048/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-048/</guid>
       <description>Referências AGREST, Diana.; GANDELSONAS, Mario. Semiótica e arquitetura. Em: NESBITT, K. (Ed.). Uma nova agenda para a arquitetura antologia teórica (1965-1995). 2. ed. São Paulo: Cosac Naify, 2008; BRASIL. Ministério da Cultura. A carta de Pero Vaz de Caminha. Brasilia: MEC, [s.d]; BROADBENT, Geoffrey. Um guia pessoal descomplicado da teoria dos signos na arquitetura. Em: NESBITT, K. (Ed.). Uma nova agenda para a arquitetura antologia teórica (1965-1995). 2. ed. São Paulo: Cosac Naify, 2008; CAVALCANTI, Lauro.</description>
+    </item>
+    <item>
+      <title>Arquitetura, Urbanismo, e a diversidade da experiência moderna Brasil</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-m14/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-m14/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

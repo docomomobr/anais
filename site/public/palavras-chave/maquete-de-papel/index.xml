@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maquete de Papel on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/maquete-de-papel/</link>
+    <link>http://localhost:1313/palavras-chave/maquete-de-papel/</link>
     <description>Recent content in Maquete de Papel on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/maquete-de-papel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/maquete-de-papel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oficinas de maquetes de papel como instrumento de valoriz(ação) na Educação Patrimonial</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-127/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-127/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-127/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-127/</guid>
       <description>Referências BARBOSA, Luciano César Bezerra. Ícones urbanos na cidade de Natal: arquitetura e desenvolvimento urbano na cidade do sol e mar. Tese de Doutorado. PPGAU/UFRN, 2014. CONSALEZ, Lorenzo; BERTAZZONI, Luigi. Maquetes: a representação do espaço no projeto arquitetônico. Trad. Daniela Maissa. São Paulo: Gustavo Gili , 2014. DANTAS, George Alexandre Ferreira, DO NASCIMENTO, José Clewton e VIEIRA-DE-ARAÚJO, Natália Miranda. O cavalo de batalha moderno: [R]existências, debates e possibilidades em torno do caso do Hotel Internacional Reis Magos.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contexto on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/contexto/</link>
+    <link>http://localhost:1313/palavras-chave/contexto/</link>
     <description>Recent content in contexto on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/contexto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/contexto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ensaio</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-044/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-044/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-044/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-044/</guid>
       <description>Referências ABREU FILHO, Silvio Belmonte. Porto Alegre como cidade ideal: planos e projetos urbanos para Porto Alegre. Tese. (Programa de Pesquisa e Pós-Graduação em Arquitetura) - Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul. Porto Alegre, 2006. ABREU FILHO, Silvio Belmonte. Vertigem das Alturas. In: FIORE, Renato Holmer (Org.) Modernização e Verticalização da Área Central de Porto Alegre. Porto Alegre: Marcavisual, 2016. COMAS, Carlos Eduardo. Porto Alegre: O Arranha-Céu no Pêndulo da Expansão.</description>
     </item>
   </channel>

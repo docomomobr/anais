@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pereira, Cristiano Zluhan on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/pereira-cristiano-zluhan/</link>
+    <link>http://localhost:1313/autores/pereira-cristiano-zluhan/</link>
     <description>Recent content in Pereira, Cristiano Zluhan on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/pereira-cristiano-zluhan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/pereira-cristiano-zluhan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Modernidade em madeira</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-004/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-004/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-004/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-004/</guid>
       <description></description>
     </item>
   </channel>

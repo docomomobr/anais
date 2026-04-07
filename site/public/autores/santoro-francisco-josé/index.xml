@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santoro, Francisco José on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/santoro-francisco-jos%C3%A9/</link>
+    <link>http://localhost:1313/autores/santoro-francisco-jos%C3%A9/</link>
     <description>Recent content in Santoro, Francisco José on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/santoro-francisco-jos%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/santoro-francisco-jos%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura moderna em Araraquara</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-004/</link>
+      <link>http://localhost:1313/brasil/sdbr03/sdbr03-004/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-004/</guid>
+      <guid>http://localhost:1313/brasil/sdbr03/sdbr03-004/</guid>
       <description></description>
     </item>
   </channel>

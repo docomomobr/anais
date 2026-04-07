@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ribeiro, Fernanda de Azevedo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/ribeiro-fernanda-de-azevedo/</link>
+    <link>http://localhost:1313/autores/ribeiro-fernanda-de-azevedo/</link>
     <description>Recent content in Ribeiro, Fernanda de Azevedo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/ribeiro-fernanda-de-azevedo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/ribeiro-fernanda-de-azevedo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A arquitetura e o urbanismo modernos no Distrito Federal</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-063/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-063/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-063/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-063/</guid>
       <description>Referências AMOEDO FILHO, Farme do. O desmonte do Morro de Santo Antônio. Revista do Clube de Engenharia, Rio de Janeiro, n. 261, jan./maio 1958. ALMEIDA, P. Camargo. Projeto de remembramento do Centro do Distrito Federal, Revista Municipal de Engenharia, Rio de Janeiro, n. 3, p. 263-281, maio 1939. BRITO, Hélio Alves de. Obras da Avenida Presidente Vargas. Revista Municipal de Engenharia, Rio de Janeiro, n. 3/4, p. 100 -111, jul./out. 1944.</description>
     </item>
   </channel>

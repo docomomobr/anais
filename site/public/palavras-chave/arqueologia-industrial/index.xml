@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arqueologia industrial on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arqueologia-industrial/</link>
+    <link>http://localhost:1313/palavras-chave/arqueologia-industrial/</link>
     <description>Recent content in arqueologia industrial on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arqueologia-industrial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arqueologia-industrial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arqueologia industrial moderna</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-149/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-149/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-149/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-149/</guid>
       <description>Referências ARANHA, M. B. C. A obra de Rino Levi e a trajetória da Arquitetura Moderna no Brasil. Tese de doutoramento. São Paulo: FAU USP, 2008. BRUNA, P. J.V. Arquitetura, industrialização e desenvolvimento. São Paulo: Perspectiva, 1976. CASTRO, C. Permanências, transformações e Simultaneidades em Arquitetura. Dissertação de Mestrado. Curitiba, PROPAR UFRGS, 2003. CORREIA, T. B. A indústria moderna no cenário clássico. Risco, São Carlos, v. 8, p. 69-101, 2009. CURTIS, W.</description>
     </item>
   </channel>

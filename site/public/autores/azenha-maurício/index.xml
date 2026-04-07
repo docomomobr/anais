@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azenha, Maurício on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/azenha-maur%C3%ADcio/</link>
+    <link>http://localhost:1313/autores/azenha-maur%C3%ADcio/</link>
     <description>Recent content in Azenha, Maurício on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/azenha-maur%C3%ADcio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/azenha-maur%C3%ADcio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna na praia</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-015/</link>
+      <link>http://localhost:1313/se/sdsp09/sdsp09-015/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-015/</guid>
+      <guid>http://localhost:1313/se/sdsp09/sdsp09-015/</guid>
       <description>Referências BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1997. DIAS, Maurício Azenha. Arquitetura Moderna na Praia - As Residências na Praia de Pernambuco, Guarujá. São Paulo: Editora Mackenzie, 2009. SEGAWA, Hugo. Arquitetura no Brasil 1900-1990. São Paulo, EDUSP, 1999. SEGAWA, Hugo e DOURADO, Guilherme Massa. Oswaldo Arthur Bratke. São Paulo, ProEditores, 1997. </description>
     </item>
   </channel>

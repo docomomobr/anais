@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Campello, Maria de Fátima on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/campello-maria-de-f%C3%A1tima/</link>
+    <link>http://localhost:1313/autores/campello-maria-de-f%C3%A1tima/</link>
     <description>Recent content in Campello, Maria de Fátima on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/campello-maria-de-f%C3%A1tima/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/campello-maria-de-f%C3%A1tima/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lina Bo Bardi</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr02/sdbr02-006/</link>
+      <link>http://localhost:1313/brasil/sdbr02/sdbr02-006/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr02/sdbr02-006/</guid>
+      <guid>http://localhost:1313/brasil/sdbr02/sdbr02-006/</guid>
       <description>Referências CAMPELLO, Maria de Fátima de Mello Barreto (1997). Lina Bo Bardi: as moradas da alma. São Carlos. Dissertação (Mestrado) — EESC-USP, Depto de Arquitetura e Planejamento. HABITAT (1952±). Arquitetura e jardinagem. São Paulo, n. 6, p. 71, s/d, s/mês. </description>
     </item>
   </channel>

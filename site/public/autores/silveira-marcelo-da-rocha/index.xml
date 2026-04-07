@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silveira, Marcelo da Rocha on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/silveira-marcelo-da-rocha/</link>
+    <link>http://localhost:1313/autores/silveira-marcelo-da-rocha/</link>
     <description>Recent content in Silveira, Marcelo da Rocha on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/silveira-marcelo-da-rocha/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/silveira-marcelo-da-rocha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>As casas populares e a formação do subúrbio carioca</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-188/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-188/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-188/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-188/</guid>
       <description>Referências ABREU, Maurício de Almeida. “A evolução urbana do Rio de Janeiro”. 4º ed. Rio de Janeiro: IPP, 2006. 155 p. ANDRATTA, Verana. “Cidades quadradas, paraísos circulares: os planos urbanísticos do Rio de Janeiro no século XIX”. Rio de Janeiro: Mauad X, 2006. 212 p. BENCHIMOL, Jaime Larry. “Pereira Passos: um Haussman tropical: a renovação urbana da cidade do Rio de Janeiro no início do século XX”. Rio de Janeiro, Biblioteca Carioca, 1990.</description>
     </item>
   </channel>

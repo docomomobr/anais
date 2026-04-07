@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>megaestrutura on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/megaestrutura/</link>
-    <description>Recent content in megaestrutura on Anais Docomomo Brasil</description>
+    <title>Megaestrutura on Anais Docomomo Brasil</title>
+    <link>http://localhost:1313/palavras-chave/megaestrutura/</link>
+    <description>Recent content in Megaestrutura on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/megaestrutura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/megaestrutura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heranças conceituais das megaestruturas aplicadas em concursos</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-205/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-205/</guid>
+      <description>Referências . Reyner Banham, Megastructure: Urban futures of the recent past. (New York: Thames and Hudson Press, 1976). GONÇALVES, Ricardo Felipe. Utopias, Ficções e Realidades na Metrópole Pós-industrial. Dissertação. Orientador: Francisco Spadoni (Mestrado ‒ FAU-USP, 2014). . Reyner Banham, Megastructure: Urban futures of the recent past. (New York: Thames and Hudson Press, 1976), p. 164. . Johan Huizinga, Homo Ludens: A Study of the Play-Element in Culture. (Londres: Routledge &amp;amp; Kegan Paul, 1949).</description>
+    </item>
     <item>
       <title>O Modernismo ao extremo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-028/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-028/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-028/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-028/</guid>
       <description>Referências BASTOS, M. A. J. Dos anos 50 aos anos 70: Como se completou o projeto moderno na arquitetura brasileira. Tese de doutorado. São Paulo: Faculdade de Arquitetura e Urbanismo de São Paulo, 2004. BASTOS, M. A. J.; ZEIN, R. V. Brasil: arquiteturas após 1950. São Paulo: Perspectiva, 2010. BANHAM, R. Megaestructuras: futuro urbano del pasado reciente. Barcelona: Editorial Gustavo Gili, 1978. COHEN, J. L. O futuro da arquitetura desde 1889: uma história mundial.</description>
     </item>
   </channel>

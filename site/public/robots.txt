@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /*.bib
+Disallow: /*.ris
+Disallow: /*.json
+Disallow: /*.yaml
 
 Sitemap: https://anais.docomomobrasil.com/sitemap.xml

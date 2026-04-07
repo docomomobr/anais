@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>análise de projeto on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/an%C3%A1lise-de-projeto/</link>
+    <link>http://localhost:1313/palavras-chave/an%C3%A1lise-de-projeto/</link>
     <description>Recent content in análise de projeto on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/an%C3%A1lise-de-projeto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/an%C3%A1lise-de-projeto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diálogos entre arquitetos — Richard Neutra e o Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-122/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-122/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-122/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-122/</guid>
       <description>Referências AMARAL, Aracy A. Arte e meio artístico: entre a feijoada e o X-burger (1961-1981). São Paulo: Nobel, 1983. AMORIM, Luiz; LOUREIRO, Claudia. Por uma arquitetura social: a influência de Richard Neutra em prédios escolares no Brasil. Arquitextos, n. 020.03, jan. 2002. Disponível em: &amp;lt;www.vitruvius.com.br&amp;gt;. Acesso em: 15 out. 2003. ATTIQUE, F. Arquitetando a “Boa Vizinhança:”- a sociedade urbana do Brasil e a recepção do mundo norte-americano 1876 – 1945”. 2007.</description>
     </item>
   </channel>

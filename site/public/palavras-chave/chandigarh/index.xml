@@ -2,18 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chandigarh on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/chandigarh/</link>
+    <link>http://localhost:1313/palavras-chave/chandigarh/</link>
     <description>Recent content in Chandigarh on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/chandigarh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/chandigarh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura Moderna, fotografia e cidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-232/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-232/</guid>
+      <description>Referências Bharne, Vinayak. “Le Corbusier’s Ruin: The Changing Face of Chandigarh’s Capitol.” Journal of Architectural Education 64, no. 2 (2011): 99–112. Brasília 57-85: do Plano-Piloto ao Plano Piloto. Brasília: Terracap, 1985. Chalana, M.; Sprague, T. S. “Beyond Le Corbusier and the modernist city: reframing Chandigarh’s ‘World Heritage’ legacy.” Planning Perspectives 28, no. 2 (2013): 199–222. Costa, Lúcio. “Relatório do Plano Piloto de Brasília”. Brasília: Novacap, 1957. Didi-Huberman, Georges. “Diante da Imagem”.</description>
+    </item>
+    <item>
+      <title>O Capitólio descoroado</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-221/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-221/</guid>
+      <description>Referências Apud Kalia, Ravi. Chandigarh: In Search of an Identity. Carbondale: Southern Illinois University Press, 1987. Prakash, Vikramaditya. Preserving Chandigarh&amp;rsquo;s Capitol Complex: The Question of the Unbuilt Museum of Knowledge. Em Utopie et Réalité de L´Urbanisme, ed. Kornelia Imesch. Gollion: Infolio, 2015. Le Corbusier, Modulor 2 - 1955 (LET THE USER SPEAK NEXT). Traduzido por Peter de Francia e Anna Bostock. Massachusetts: The MIT Press, 1958. Constant, Caroline.The Modern Architectural Landscape.</description>
+    </item>
     <item>
       <title>Transformações tipológicas das habitações das quadras 21 e 22 de Chandigarh, Índia</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-016/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-016/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-016/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-016/</guid>
       <description>Referências BAHGA, Sarbjit; BAHGA, Surinder. Le Corbusier and Pierre Jeanneret – Footprints on the Sands of Indian Architecture. Nova Delhi, India: Galgotia Publishing Company, 2000. BOESIGER, W.; GIRSBERGER, H. Le Corbusier 1910-65. Barcelona: Editorial Gustavo Gili, S. A., 1971. Celebration Chandigarh 50 Years of the Idea. Conference organized by Chandigarh Administration through Chandigarh Perspectives. Ahmedabad, India: Mapin Publishing Pvt. Ltd., 2002. COHEN, Jean-Louis. Le Corbusier. Colônia, Alemanha: Taschen GmbH, 2004. CORREA, Charles.</description>
+    </item>
+    <item>
+      <title>Revisiting Chandigarh</title>
+      <link>http://localhost:1313/internacional/idc06/idc06-050/</link>
+      <pubDate>Tue, 19 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/internacional/idc06/idc06-050/</guid>
+      <description>Referências Ravi Kalia, Chandigarh: The Making of an Indian City, Oxford University Press, Delhi 1987. Jaspreetkahlur (ed.), Celebrating Chandigarh, Mapin, 2002, p. 194. Chandigarh Tribune, August 31, 2001. Charles Correa in Celebrating Chandigarh, p. 196. Sun-Aseya Improvement and Clearance Act, 1956. Madhu Sarin, Urban Planning in the Third World: The Chandigarh Experience, Mansell Publishing, London 1982. Rajnindran et al., Chandigarh Lifescape: Brief Social History of a Planned City, Chandigarh Perspectives, 1999.</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paschoal, Lígia Gimenes on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/paschoal-l%C3%ADgia-gimenes/</link>
+    <link>http://localhost:1313/autores/paschoal-l%C3%ADgia-gimenes/</link>
     <description>Recent content in Paschoal, Lígia Gimenes on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/paschoal-l%C3%ADgia-gimenes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/paschoal-l%C3%ADgia-gimenes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Práticas emancipatórias no CEDEC</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-255/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-255/</guid>
+      <description>Referências Cássia Schroder Buitoni, “Mayumi Watanabe Souza Lima: a construção do espaço para a educação” (Dissertação de mestrado, Universidade de São Paulo. 2009), 70. Paul Singer, Um governo de esquerda para todos: Luiza Erundina na Prefeitura de São Paulo. (Editora Brasiliense, 1996), 239. Paulo Freire, Pedagogia do oprimido. (Paz e Terra, 2020), 96. </description>
+    </item>
     <item>
       <title>Produção escrita como registro projetual</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-042/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-042/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-042/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-042/</guid>
       <description>Referências BUITONI, Cássia Schroeder. Mayumi Watanabe Souza Lima: a construção do espaço para a educação. Dissertação (Mestrado em Arquitetura e Urbanismo) – USP, São Paulo, 2009 CEDEC/EMURB. EMEIS: programa arquitetônico. Caderno 3. São Paulo, EMURB, 1990a CEDEC/EMURB. Casa da Cultura: Programa Arquitetura Preliminar. São Paulo, EMURB, 1990b CEDEC/EMURB. Apresentação, Objetivos, Tecnologia. Caderno 1. São Paulo, EMURB, 1991 CEDEC/EMURB. Espaços Educacionais: EMEI e EMPG. Caderno 3. São Paulo, EMURB, 1992 LIMA, Mayumi Watanabe de Souza.</description>
     </item>
   </channel>

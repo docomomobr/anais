@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diamantina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/diamantina/</link>
+    <link>http://localhost:1313/palavras-chave/diamantina/</link>
     <description>Recent content in Diamantina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/diamantina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/diamantina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Origens do percurso moderno em Diamantina</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-055/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-055/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-055/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-055/</guid>
       <description>Referências BRANDÃO, Carlos Antônio Leite. A Política na Arquitetura de Niemeyer em Diamantina e Brasília. In: MIRANDA, 2002. BRANDÃO, Carlos Antônio Leite. Arquitetura residencial no barroco mineiro. Revista AP, n.5, p.26-30, 1996. BRUAND, Yves, Arquitetura Contemporânea no Brasil, São Paulo: Editora Perspectiva S.A., 1997. COSTA, Lucio. A alma dos nossos lares, A Noite, Rio de Janeiro, 19 mar. 1924. COSTA, Lucio. Considerações sobre o nosso gosto e estilo. A Noite, Rio de Janeiro, 18 jun.</description>
     </item>
   </channel>

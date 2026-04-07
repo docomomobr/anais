@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquitetura Reativa on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-reativa/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-reativa/</link>
     <description>Recent content in Arquitetura Reativa on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-reativa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-reativa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura reativa</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne04/sdnne04-028/</link>
+      <link>http://localhost:1313/nne/sdnne04/sdnne04-028/</link>
       <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne04/sdnne04-028/</guid>
+      <guid>http://localhost:1313/nne/sdnne04/sdnne04-028/</guid>
       <description>Referências ÁBALLOS, Iñaki; HERREROS, Juan. Reciclando Madrid. Barcelona: Editora Actar, 2000. AMENDOLA, Giandomenico. La Ciudad Postmoderna. España: Colección: Intersecciones, Arte y Arquitectura. Celeste Ediciones, 1998. ARANA, Mariano; GARABELLI, Lorenzo. Arquitetura renovadora en Montevideo: 1915-1940. Montevideo: Fundación de Cultura Universitaria, 1991. BACHELAR, Gaston. A poética do espaço. Rio de Janeiro: Coleção Quid. Ed. Eldorado 1976. BOISSIÈRE, Olivier. Jean Nouvel. São Paulo: Mratins Fontes, 1998. BORJA, Jordi y CASTELLS, Manuel. Local y global (La gestión de las ciudades en la era de la información.</description>
     </item>
   </channel>

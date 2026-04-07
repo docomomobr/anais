@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arte Pública on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arte-p%C3%BAblica/</link>
-    <description>Recent content in Arte Pública on Anais Docomomo Brasil</description>
+    <title>arte pública on Anais Docomomo Brasil</title>
+    <link>http://localhost:1313/palavras-chave/arte-p%C3%BAblica/</link>
+    <description>Recent content in arte pública on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arte-p%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arte-p%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outdoors de concreto</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-244/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-244/</guid>
+      <description>Referências Castro, Cleusa de. 2013. Ornamento sem delito: a plasticidade das superfícies de concreto armado na arquitetura brutalista curitibana. X Seminário Docomomo Brasil. Curitiba. Coordenação do Patrimônio Cultural do Paraná (CPC/PR). Lista das Obras Tombadas de Poty Lazzarotto. 2023. Curitiba: Secretaria de Estado da Cultura do Paraná. PDF. Disponível em: &amp;lt;https://www.patrimoniocultural.pr.gov.br/sites/patrimonio-cultural/arquivos_restritos/files/documento/2023-04/lista_das_obras_tombadas_de_poty_lazzaratto_4.pdf&amp;gt; Acesso em: 4 set. 2025. Gonçalves, Josilena M. Z. 2006. Integração das artes no Paraná - 1950-1970: a conquista do espaço público.</description>
+    </item>
     <item>
       <title>A obra de Athos Bulcão</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-017/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-017/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-017/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-017/</guid>
       <description>Referências CORBUSIER, Le. A arquitetura e as Belas-Artes, In: Revista do Patrimônio Histórico e Artístico Nacional. Rio de Janeiro: ISPHAN, 1984, no. 19. COSTA, Lucio. A crise da arte contemporânea, In: Arquitetura Contemporânea (revista bimensal). Rio de Janeiro, agosto-setembro 1953. LÉGER, Fernand. Cor no mundo, In: Funções da pintura. São Paulo: Nobel, 1989. LÉGER, Fernand. . A arquitetura moderna e a cor ou A criação de um novo espaço vital, In: Funções da pintura.</description>
     </item>
     <item>
       <title>Passeio de Copacabana</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-142/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-142/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-142/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-142/</guid>
       <description>Referências ADAMS, William Howard: Roberto Burle Marx. The Unnatural art of the Garden.Nueva York.The Museun of Modern Art.1991. ASHTON, Dore: Á Rebours, la rebelión informalista (1939, 1968). Madrid. Museo Centro de Arte Reina Sofía, 1999. BUCHLOH, Benjamin : “Vandalismous von oben. Richard Serras Tilted Arc in New York”. In: GRASSIKAMP, Walter: Unerwünschhte Monumente, Moderne Kunst in Stadtraun. Munich, 1989 BURLE MARX, Roberto: Arte e Paisagem (conferências escolhidas), São Paulo, ed.Nobel, , 1987, DUROZOI, Gérard: Diccionario de Arte del siglo XX, Madrid, Akal, 1997, FLORIANO, Cesar: Campo de Produccíon Paisagísta de Roberto Burle Marx: El Jardín como Arte Pública.</description>
     </item>
     <item>
       <title>Percepções em arquitetura e arte e o imaginário cotidiano do uso das estações do Metrô de São Paulo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-141/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-141/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-141/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-141/</guid>
       <description>Referências Anos de Metrô. Tempos Metropolitanos. São Paulo: Editora Terceiro Nome, 1998 AUGÉ, Marc. Não-Lugares. São Paulo: Papirus Editora, 2005 BONOMI, Maria. Arte pública: sistema expressivo / anterioridade. São Paulo: Tese de doutorado, 1999. BONOMI, Maria. Gravura Peregrina. São Paulo: Pinacoteca do Estado,2008 FRAGELLI, Marcelo e DIANON, D. D. O Metrô de São Paulo. São Paulo: Companhia Editora Nacional, 1975 FREIRE, Cristina. Além dos Mapas. São Paulo: Annablume Editora, 1961 GOMIDES SANTOS, R.</description>
     </item>
   </channel>

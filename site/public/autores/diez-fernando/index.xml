@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diez, Fernando on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/diez-fernando/</link>
+    <link>http://localhost:1313/autores/diez-fernando/</link>
     <description>Recent content in Diez, Fernando on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/diez-fernando/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/diez-fernando/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palacio, ruina, ministerio</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-171/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-171/</guid>
+      <description>Referências ArchDaily. &amp;ldquo;Palacio Pereira / Cecilia Puga + Paula Velasco + Alberto Moletto&amp;rdquo;, Acesso em 27 Outubro 2025. &amp;lt;https://www.archdaily.cl/cl/955432/recuperacion-palacio-pereira-cecilia-puga-plus-paula-velasco-plus-alberto-moletto&amp;gt; Consejo de Monumentos Nacionales de Chile. &amp;lt;https://www.monumentos.gob.cl/monumentos/monumentos-historicos/palacio-pereira&amp;gt; Acesso em 7 de novembro 2025. Ministerio de las Culturas. Palacio Pereira. &amp;lt;https://www.patrimoniocultural.gob.cl/multimedia/palacio-pereira&amp;gt; Acesso em 7 de novembro 2025. Puga, Cecilia. &amp;ldquo;Palacio y Ruina: Patrimonio Renacido&amp;rdquo;, Summa+ Nº187, Buenos Aires: Donn, Septembro 2021, pp.28-47. Puga, Cecilia. &amp;ldquo;Fuerza de Contacto&amp;rdquo;, Casa en Bahía Azul, Los Vilos, Chile, Summa+ Nº124, Buenos Aires: Donn, Septembro 2012, pp.</description>
+    </item>
     <item>
       <title>El Palacio de Congresos, un tipo del siglo XX</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-060/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-060/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-060/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-060/</guid>
       <description>Referências Cohen, Jean-Louis, Le Corbusier, Taschen, Köln, 2004, p.49 Comas, Carlos Eduardo, “Prototipo e Monumento, um ministério, o ministério”, revista Projeto 102, São Paulo, Agosto 1987, pp.137-149 Koolhaas, Rem. Delirio de Nueva York”, G.Gili, Barcelona, 2004 (1978) pp.281 y 279: “… la ONU llevará a un punto crítico la largamente esperada crisis de Nueva York, gracias a la cual la ciudad encontrará los modos y los medios de resolver su punto muerto urbanístico…”, decía Le Corbusier en 1947.</description>
     </item>
     <item>
       <title>Transparencia e inhabitabilidad</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-047/</link>
+      <link>http://localhost:1313/sul/sdsul01/sdsul01-047/</link>
       <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-047/</guid>
+      <guid>http://localhost:1313/sul/sdsul01/sdsul01-047/</guid>
       <description>Referências LOMBARDI, Roberto. Extractos de una conversación con Mariano Oks. Summa+80, Buenos Aires, jun. 2006, p. 182. HAMPTON, Jorge. La buña y el ladrillón. Summa+80, Buenos Aires, jun. 2006, p. 185. LOMBARDI, Roberto. La casa inhabitable (un mito moderno). Summa+80, Buenos Aires, jun. 2006, p. 186. </description>
     </item>
   </channel>

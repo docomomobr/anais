@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lima, Ana Laura Godinho on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/lima-ana-laura-godinho/</link>
+    <link>http://localhost:1313/autores/lima-ana-laura-godinho/</link>
     <description>Recent content in Lima, Ana Laura Godinho on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/lima-ana-laura-godinho/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/lima-ana-laura-godinho/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna para uma escola higiênica</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-031/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-031/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-031/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-031/</guid>
       <description>Referências CLARK, Oscar. O Século da Creança. Rio de Janeiro, 1937. GONDRA, José Gonçalves. Medicina, Higiene e Educação Escolar. In LOPES et all. (orgs.) 500 Anos de Educação No Brasil. 2ª. ed. Belo Horizonte: Autêntica, 2000. GUELLI, Oscar Augusto. Espírito são em corpo são. In Revista do Professor. ano XII, n. 19, p. 29. MELLO, B. Vieira de. Hygiene Escolar e Pedagógica. São Paulo: Casa Vanorden, 1917. PEIXOTO, Afrânio. Noções de higiene.</description>
     </item>
     <item>
       <title>Modernas escolas na cidade de São Paulo. Marcos históricos na paisagem urbana</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-049/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-049/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-049/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-049/</guid>
       <description>Referências LIMA, Ana Gabriela Godinho. “Two Moments of School Architecture in São Paulo: Ramos de Azevedo and his Republican Pioneering Schools / Hélio duarte and the Educational Agreement”. In: Paedagogica Historica: International Journal of the History of Education – Special Issue: School and Modernity: Knowledge, Institutions and Practices, Vol. XLI, Numbers 1 e 2, February 2005. Routledge: Taylor and Francis Group. LIMA, Ana Laura Godinho. “O Espectro da Irregularidade Ronda o Aluno: um Estudo da Literatura Pedagógica e da Legislação sobre a Criança-Problema”.</description>
     </item>
   </channel>

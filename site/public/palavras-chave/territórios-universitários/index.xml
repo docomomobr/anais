@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Territórios universitários on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/territ%C3%B3rios-universit%C3%A1rios/</link>
+    <link>http://localhost:1313/palavras-chave/territ%C3%B3rios-universit%C3%A1rios/</link>
     <description>Recent content in Territórios universitários on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/territ%C3%B3rios-universit%C3%A1rios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/territ%C3%B3rios-universit%C3%A1rios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oscar Niemeyer e Darcy Ribeiro</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-108/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-108/</guid>
+      <description>Referências Castilho, Fausto. O conceito de universidade no projeto da Unicamp. Campinas: Edunicamp, 2008. Godoi, Fabrício RS. Darcy Ribeiro e a arquitetura. Tese de Doutorado. IAU-USP, 2024. Mauricio, Lúcia V (org). Darcy Ribeiro: Educação como prioridade. Rio de Janeiro, Global, 2018. Rodrigues, Luiz AF. Universidade e a fantasia moderna: a falácia de um modelo espacial único. Niterói: EduFF, 2001. Universidade de Brasília. Plano Orientador da Universidade de Brasília. Brasília: Editora UnB, 1962.</description>
+    </item>
     <item>
       <title>Realizações de Darcy Ribeiro e arquitetos em universidades internacionais</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-023/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-023/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-023/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-023/</guid>
       <description>Referências ALENCAR, Heron. A universidade: por que fazer? In: NIEMEYER, O. Universidade de Constantine: Universidade dos Sonhos. Rio de Janeiro: Revan, 2007 BRANT, Vera. Darcy. São Paulo: Paz e Terra, 2002. BRUZZONE et al. (2021). ¿Qué hace la Udelar en Malvín Norte? Memorias de acción en territorio 2020. Unidad de Extensión, Facultad de Ciencias. Montevideo: Udelar, 2021 COELHO, Haydée e ROCCA, Pablo. Diálogos latino-americanos: correspondência entre Ángel Rama, Berta e Darcy Ribeiro.</description>
     </item>
   </channel>

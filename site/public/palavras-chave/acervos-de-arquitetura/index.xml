@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acervos de arquitetura on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/acervos-de-arquitetura/</link>
+    <link>http://localhost:1313/palavras-chave/acervos-de-arquitetura/</link>
     <description>Recent content in Acervos de arquitetura on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/acervos-de-arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/acervos-de-arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Amazônia na FAU-USP</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-235/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-235/</guid>
+      <description>Referências Georges Didi-Huberman, Diante do tempo: história da arte e anacronismo das imagens (TMinas Gerais: Editora UFMG, 2015). Naine Terena, “A máquina de registrar memórias: o lugar de existir” em Paiter Suruí, gente de verdade. Um projeto do coletivo Lakapoy. São Paulo: IMS, 2025, p. 249-253. Thyago Nogueira, “Arquivo, acervo, álbum: arte como diplomacia” em Paiter Suruí, gente de verdade. Um projeto do coletivo Lakapoy. São Paulo: IMS, 2025, p. 237-240.</description>
+    </item>
     <item>
       <title>Jorge Caron</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-010/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-010/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-010/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-010/</guid>
       <description>Referências ANNA, J. S; CAMPOS, S. O; CALMON, M. A. M. Diferenças e semelhanças entre arquivos e bibliotecas: o profissional da informação em evidência. 2015. BEIGUELMAN, Giselle. Reinventar a memória é preciso. In: BEIGUELMAN, Giselle; MAGALHÃES, Ana Gonçalves. Futuros possíveis: arte, museus e arquivos digitais. São Paulo: Editora Peirópolis ltda., 2014. p. 12-33. BRITO, G. F. de, E. A. COSTA, e L. M. R. VELLOSO. Digital Platform for Dissemination of the FAUUSP Architecture and Design Collections.</description>
     </item>
     <item>
       <title>Narrativas da modernidade</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-039/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-039/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-039/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-039/</guid>
       <description>Referências ARANTES, Pedro Fiori. Arquitetura nova: Sérgio Ferro, Flávio Império e Rodrigo Lefévre, de Artigas aos mutirões. São Paulo, Editora 34, 2011. BANHAM, Reyner. Teoria e Projeto na Primeira Era da Máquina. São Paulo: Perspectiva, 2006. BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Perspectiva, 1976. BLOCH, Marc. Apologia da história, ou, O ofício de historiador. Rio de Janeiro, Jorge Zahar, 2002. BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981.</description>
     </item>
     <item>
       <title>Inventário Acácio Gil Borsoi</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-073/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-073/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-073/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-073/</guid>
       <description>Referências CASTRIOTA, Leonardo Barci. Tecnologia digital e acessibilidade: a Rede Latinoamericana de Acervo de Arquitetura e Urbanismo (RELARQ). Universidade de La Salle: Sigrad MX, 2007.pp.200-204. GUTIÉRREZ, Ramón. Os arquivos de arquitetura no contexto latino-americano in Arquitextos Vitruvius ano 01, n. 008.08, 2001, Disponível em &amp;lt;http://vitruvius.com.br/revistas/read/arquitextos/01.008/933/pt&amp;gt; Acesso em 12 abr 2013. MUÑOZ-VIÑAS, Salvador. Contemporary Theory of Conservation. London: Routledge, 2004. OLIVEIRA, Patrícia, PERES, Clara, GOMES, Camilla, NASLAVSKY, Guilah. Digitalização e Preservação do Patrimônio Iconográfico de Arquitetura O Caso de Recife.</description>
     </item>
   </channel>

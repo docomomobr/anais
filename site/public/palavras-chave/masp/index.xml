@@ -2,52 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MASP on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/masp/</link>
+    <link>http://localhost:1313/palavras-chave/masp/</link>
     <description>Recent content in MASP on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/masp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/masp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edifício Guilherme Guinle</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-198/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-198/</guid>
+      <description>Referências Silva, Joana Mello de Carvalho e. O arquiteto e a produção da cidade: a experiência de Jacques Pilon em perspectiva (1930–1960). Tese (Doutorado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, 2010, p.89. Franco, Tiago Semene. A trajetória de Jacques Pilon no centro de São Paulo: análise das obras de 1940 a 1947. Dissertação (Mestrado em Arquitetura e Urbanismo), Universidade Presbiteriana Mackenzie, 2009, p. 105.</description>
+    </item>
+    <item>
+      <title>Silêncio eloquente</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-228/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-228/</guid>
+      <description>Referências Pierre von Meiss, Elements of Architecture: From Form to Place + Tectonics (Lausanne: EPFL Press, 2013), 93. Solà-Morales, Ignasi de. Diffrences. Topohraphies of Contemporary Architecture. Cambridge: Massachusetts Institute of Technology, 1997. Louis Kahn, “Silence and Light”, em Between Silence and Light: Spirit in the Architecture of Louis I. Kahn, Louis Kahn e John Lobell (Boston: Shambala, 2008), p. 20. Juhani Pallasmaa, “Light, Silence, and Spirituality in Architecture and Art”, em Transcending Architecture: Contemporary Views on Sacred Space, ed.</description>
+    </item>
     <item>
       <title>MASP</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-023/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-023/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-023/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-023/</guid>
       <description>Referências ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1969. BOITO, Camillo. Os restauradores. São Paulo: Ateliê Editorial, 2002. BRANDI, Cesare. Teoria da restauração. Cotia, SP: Ateliê Editorial, 2004. CURY, Isabelle (org.). Cartas patrimoniais. Rio de Janeiro: Iphan, 2000. RIEGL, Aloïs. O culto moderno dos monumentos: sua essência e sua gênese. Goiânia: Ed. da UCG, 2006. FERRAZ, Marcelo Carvalho (org.). Lina Bo Bardi. São Paulo: Empresa das Artes, 1993.</description>
     </item>
     <item>
       <title>A experiência do Museu de Arte de São Paulo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-140/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-140/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-140/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-140/</guid>
       <description>Referências AMARAL, Aracy (org) (1977) Projeto Construtivo Brasileiro na Arte. Rio de Janeiro MAMRJ, São Paulo Pinacoteca do Estado. ANELLI, Renato (2001) Interlocuções com a arquitetura italiana na constituição da arquitetura moderna em São Paulo. Livre docência.São Carlos, Escola de Engenharia de São Carlos. Universidade de São Paulo. ARGAN, Giulio Carlo (1983) Storia dell’ arte come storia della città. Roma, Editori Riuniti. BARDI, P.M.(1956) The Arts in Brasil – A new museum at São Paulo.</description>
     </item>
     <item>
       <title>Lina Bo Bardi é o Museu Imaginário de André Malraux</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-098/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-098/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-098/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-098/</guid>
       <description>Referências ANELLI, Renato. Gosto moderno: o design da exposição e a exposição do design. Arquitexto. Porto Alegre: PROPAR/UFRGS, no 14, p. 92-109. Disponível em &amp;lt;http://www.ufrgs.br/propar/&amp;gt; Acessado em março de 2010. COMAS, Carlos E. Lina 3x2, Arquitexto . Porto Alegre: PROPAR/UFRGS no.14, p.146-189. Disponível em &amp;lt;http://www.ufrgs.br/propar/&amp;gt; acessado em março de 2010. KIEFER, Fábio. Arquitetura de museus, Arquitexto, Porto Alegre, PROPAR/UFRGS, no1, p. 12-25. Disponível em &amp;lt;http://www.ufrgs.br/propar/&amp;gt; acessado em fevereiro de 2011. MALRAUX, André.</description>
     </item>
     <item>
       <title>MASP - museu laboratório</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-134/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-134/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-134/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-134/</guid>
       <description>Referências ANELLI, Renato. Interlocução com a arquitetura italiana na constituição da arquitetura moderna em São Paulo. São Carlos: EESC - USP, 2001. (Trabalho de Livre-Docência). ARGAN, Giulio C. Renovation of museums in Italy. Museum, vol. V, n° 3. Paris: Unesco, 1952. pp. 156. BARDI, Pietro M. Musées hors des limites. Habitat, n. 4. São Paulo, 1951, p. 50. BARDI, Pietro M. L&amp;rsquo; Expérience didactique du Museu de Arte de São Paulo.</description>
     </item>
     <item>
       <title>Técnica e estética</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-165/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-165/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-165/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-165/</guid>
       <description>Referências AIDAR, José Luiz, CYTRYNOWICZ, Roney e ZUQUIM, Judith. (pesquisa, iconografia e redação). Escola Politécnica 100 anos. Rio de Janeiro: Expressão e Cultura, 1993. ALFIERI, Bruno. Ricerca Brutalista. In Rapporto Brasile. Zodiac, Milão, n. 6, p. 97-107, mai. 1960. ARTIGAS, João Batista Vilanova. Caminhos da Arquitetura. São Paulo: EVA/PINI, 2ª edição, 1986. p. 24. apud THOMAZ, 1997, p. 272. ARTIGAS, Vilanova. Entrevista extraída do videoteipe com Vilanova Artigas, gravada em outubro de 1984, apud MIGUEL, Jorge Marão Carnielo.</description>
     </item>
     <item>
       <title>Uma arquiteta, duas capitais, dois projetos de museu</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-053/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-053/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-053/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-053/</guid>
       <description>Referências Anelli, Renato. “Reforma põe em risco projeto original do MASP” O Estado de São Paulo. Sábado, 20 de junho de 1998. Argan, Giulio Carlo. Arte moderna. São Paulo, Companhia das Letras, 1992. Bardi, Pietro Maria. História do MASP. São Paulo, Instituto Quadrante, 1992 Bruand, Yves. Arquitetura contemporânea no Brasil. São Paulo, Editora Perspectiva, 1981. Frúgoli Júnior, Heitor. Centralidade em São Paulo: trajetórias, conflitos e negociações na metrópole. São Paulo: Cortez: Editora da Universidade de São Paulo, 2000.</description>
     </item>
   </channel>

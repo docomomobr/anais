@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>croqui on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/croqui/</link>
+    <link>http://localhost:1313/palavras-chave/croqui/</link>
     <description>Recent content in croqui on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/croqui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/croqui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conjunto Arquitetônico da Pampulha</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-089/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-089/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-089/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-089/</guid>
       <description>Referências BRUAND, Yves. Arquitetura contemporânea no Brasil. 5ª edição, São Paulo, Perspectiva, 2010 CANEZ, Ana Paula. FLÓRIO, Wilson. BRINO, Alex Carvalho. Oscar Niemeyer: possíveis novos olhares. Sociedade de Educação Ritter dos Reis. Porto Alegre, 2016. COHEN, Jean-Louis. O futuro da arquitetura desde 1889. São Paulo: CosacNaify, 2013 FRAMPTON, Kenneth. História Crítica Da Arquitetura Moderna. São Paulo: Martins Fontes, 1997. MINDLIN, Henrique. Arquitetura moderna no Brasil. 2ª edição, Rio de Janeiro, Aeroplano, Iphan, Ministério da Cultura, 2000.</description>
     </item>
   </channel>

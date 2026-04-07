@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>canteiro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/canteiro/</link>
+    <link>http://localhost:1313/palavras-chave/canteiro/</link>
     <description>Recent content in canteiro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/canteiro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/canteiro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna e a limitação de modernização na mão de obra da construção civil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-103/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-103/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-103/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-103/</guid>
       <description>Referências ARANTES, Pedro Fiori. Arquitetura Nova: Sérgio Ferro, Flávio Império e Rodrigo Lefèvre, de Artigas aos mutirões. São Paulo: Editora 34, 2002. BUZZAR, Miguel Antonio. João Batista Vilanova Artigas: Elementos para uma compreensão de um caminho da arquitetura brasileira, 1938-1967. São Paulo: Senac Editora Unesp, 2014. BUZZAR, Miguel Antonio. Rodrigo Brotero Lefèbvre e a vanguarda da arquitetura no Brasil. São Paulo: Edições Sesc São Paulo, 2019. 312 p. il.: fotografias, plantas, croquis.</description>
     </item>
   </channel>

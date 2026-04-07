@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>produção acadêmica on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/produ%C3%A7%C3%A3o-acad%C3%AAmica/</link>
+    <link>http://localhost:1313/palavras-chave/produ%C3%A7%C3%A3o-acad%C3%AAmica/</link>
     <description>Recent content in produção acadêmica on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/produ%C3%A7%C3%A3o-acad%C3%AAmica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/produ%C3%A7%C3%A3o-acad%C3%AAmica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setenta e cinco anos da primeira escola de arquitetura do Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-011/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-011/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-011/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-011/</guid>
       <description>Referências BITTENCOURT, Maria das Mercês Vasques (org). Encontro regional de professores de Teoria da Arquitetura. Belo Horizonte: Departamento de Análise Crítica e Histórica da Arquitetura da Escola de Arquitetura, 1990. CASTRIOTA, Leonardo Barci (org.). Arquitetura da Modernidade. Belo Horizonte: Editora UFMG, 1998. CASTRO, José. Pelo Reconhecimento Official da Escola de Architectura. Belo Horizonte: Estado de Minas, 16/01/1934. DIÁRIO OFICIAL. Edital de Citação. Justiça Militar - auditoria da 4ª R.M. de 24/06/66.</description>
     </item>
   </channel>

@@ -2,59 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cidade Universitária on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/cidade-universit%C3%A1ria/</link>
+    <link>http://localhost:1313/palavras-chave/cidade-universit%C3%A1ria/</link>
     <description>Recent content in Cidade Universitária on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/cidade-universit%C3%A1ria/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/cidade-universit%C3%A1ria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O patrimônio da saúde na Cidade Universitária da Universidade do Brasil</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-063/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-063/</guid>
+      <description>Referências CORDEIRO, Patrícia Cavalcante. A Cidade Universitária da Universidade Federal do Rio de Janeiro: preservação da arquitetura moderna. 2015. Dissertação (Mestrado) – Universidade de São Paulo, São Paulo, 2015. COSTA, R. D. G.-R. Patrimônio moderno da saúde e os desafios para a sua valorização: o exemplo do Rio de Janeiro. In: 8º Seminário Docomomo Brasil, 2009, Rio de Janeiro. Anais eletrônicos. Rio de Janeiro: PROURB, 2009 CZAJKOWSKI, Jorge Paul: org. Jorge Machado Moreira.</description>
+    </item>
+    <item>
+      <title>O projeto moderno</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-109/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-109/</guid>
+      <description>Referências Carlos Redins, Escola de Medicina da Universidade Federal do Espírito Santo - 50 Anos de História (Edufes, 2011). Gabriella Inhan et al. “Rudolph Atcon e o Planejamento do Campus da Universidade Federal do Espírito Santo”, Oculum Ensaios, v. 13, n. 2 (2016): 240. Célia Gonsales. “Brasília, por Rino Levi”, ARQTEXTO, n. 2 (2002): 5. </description>
+    </item>
     <item>
       <title>Setor Residencial de Estudantes da USP</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-010/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-010/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-010/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-010/</guid>
       <description>Referências AMARAL, Keil. Cidades Universitárias, Realizações Contemporâneas. Arquitectura. Porto, n. 55-56, p. 6-13, 1956. ANELLI, Renato et al (orgs.). Rino Levi: Arquitetura e cidade. São Paulo: Romano Guerra Editora, 2a edição, 2019. ANELLI, Renato Luiz Sobral. Arquitetura e Cidade na obra de Rino Levi. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 1995. ARANHA. Maria Beatriz de Camargo. A obra de Rino Levi e a trajetória da Arquitetura Moderna no Brasil.</description>
     </item>
     <item>
       <title>Histórico do planejamento físico do campus do Pici</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-042/</link>
+      <link>http://localhost:1313/nne/sdnne07/sdnne07-042/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-042/</guid>
+      <guid>http://localhost:1313/nne/sdnne07/sdnne07-042/</guid>
       <description>Referências BENEVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Perspectiva, CAMPELO, Magda. Campus no Nordeste: Reforma Universitária de 1968. Doutorado (Tese em Arquitetura e Urbanismo) - Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo, São Paulo, 2012. CAMPELO, Magda. Leitura e análise das interferências físicas na arquitetura dos edifícios para educação superior: o caso da UFC. Dissertação (Mestrado em Arquitetura e Urbanismo) - Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo, São Paulo, 2005.</description>
     </item>
     <item>
       <title>Preservação da Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-012/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-012/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-012/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-012/</guid>
       <description>Referências ALBERTO, Klaus Chaves. Três projetos para uma cidade universitária do Brasil. Dissertação. PROURB-FAU-UFRJ. Rio de Janeiro, 2003. BARBOSA, Luiz Hildebrando Horta. Ainda a localização da Cidade Universitária. In: Revista do Serviço Público. Ano VIII, Vol. III, Nº3. Setembro de 1945. BRANDI, Cesare. Teoria da Restauração. Trad. Beatriz M. Kühl. São Paulo: Ateliê Editorial, 2004. CARBONARA, Giovanni.Teoria e metodi del restauro. Il restauro del moderno. In: CARBONARA, G. (Org.) Trattato di restauro architettonico.</description>
     </item>
     <item>
       <title>A perda de um ícone do Movimento Moderno carioca</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-024/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-024/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-024/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-024/</guid>
       <description>Referências ABREU, Mauricio de A., Evolução Urbana do Rio de Janeiro. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, Secretaria Municipal de Urbanismo, Iplanrio, 1997. BENÉVOLO, Leonardo, Historia de la arquitectura moderna. Volume II, Madri: Editorial Taurus, 1963. CALVINO, Italo, Le Cittá Invisibili. Turín: Einaudi, 1972. CONDURU, Roberto, “Razão ao cubo”, em Jorge Czajkowski (Edit.), Jorge Machado Moreira. Rio de Janeiro: Centro de Arquitetura e Urbanismo, Secretaria Municipal de Urbanismo, Prefeitura da Cidade do Rio de Janeiro, 1999, pp.</description>
     </item>
     <item>
       <title>Expansão no Campus João Pessoa da Universidade Federal da Paraíba</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-039/</link>
+      <link>http://localhost:1313/nne/sdnne03/sdnne03-039/</link>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-039/</guid>
+      <guid>http://localhost:1313/nne/sdnne03/sdnne03-039/</guid>
       <description>Referências AMORIM, Luiz. Obituário arquitetônico: Pernambuco modernista. Recife, 2007. BRUAND, Y. Arquitetura contemporânea no Brasil. 4 ed. Tradução: Ana Maria Goldberger. São Paulo: Perspectiva, 2003. Centenario del natalício de Carlos Raúl Villanuevas. Ciudad Universitaria de Caracas, su máxima obra. Disponível em: &amp;lt;http://www.centenariovillanueva.web.ve/CUC/Portal_CUC.htm&amp;gt; Acesso em 04 jan. 2010, 15:15. COSTA, Lúcio. Lúcio Costa: Registro de uma vivência. 2 ed. São Paulo: Empresa das Artes, 1997. CURTIS, William J. R. Arquitetura moderna desde 1900.</description>
     </item>
     <item>
       <title>Inconstantes cidades inversitárias</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-058/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-058/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-058/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-058/</guid>
       <description>Referências ALBERTO, Klaus Chaves. Três projetos para uma cidade universitária do Brasil. Rio de Janeiro: PROURB-FAU-UFRJ, 2003. Dissertação (mestrado) - Programa de Pós Graduação em Urbanismo, UFRJ. ASSIM É A UNIVERSIDADE DE BRASÍLIA. Brasília: Senado Federal, 1969. BRASIL. Edital para o Concurso Nacional do Plano Piloto da Nova Capital do Brasil. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 30 set. 1956. Disponível em &amp;lt;http://www.infobrasilia.com.br/documentos.htm&amp;gt; Acesso em 10 dez.</description>
     </item>
     <item>
       <title>Reproduzindo modelos</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-009/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-009/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-009/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-009/</guid>
       <description>Referências BARICHELLO, Eugenia Mariano da Rocha (org.).UFSM 1960-1995. Santa Maria: Pallotti, 1995. BOESIGER, W; GIRSBERGER, H. Le Corbusier 1910-65. Barcelona: Gustavo Gili, 1071. CARDOSO, Edmundo (coord.). USM: a nova universidade. Santa Maria: Associação Santamariense Pró Ensino Superior, 1962. COSTA, Lúcio. Universidade do Brasil. Sobre arquitetura. Porto Alegre: Centro dos Estudantes Universitários de Arquitetura, 1962. COMAS, Carlos Eduardo. Arquitetura urbana. Cidade funcional, cidade figurativa. Óculum. Revista universitária de arquitetura, urbanismo e cultura, Campinas, n.</description>
     </item>
   </channel>

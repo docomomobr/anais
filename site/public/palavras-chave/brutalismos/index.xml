@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brutalismos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/brutalismos/</link>
+    <link>http://localhost:1313/palavras-chave/brutalismos/</link>
     <description>Recent content in Brutalismos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/brutalismos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/brutalismos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O que é que a Bahia tem?</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-063/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-063/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-063/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-063/</guid>
       <description>Referências BANHAM, Reyner. 1955 December: The New Brutalism by Reyner Banham. Londres: The Architectural Review. Disponível em: &amp;lt;http://www.architectural-review.com&amp;gt; Acesso em maio de 2013. BASTOS, M. A. J. ; ZEIN, R. V. Brasil: Arquiteturas após 1950. 1. ed. São Paulo: Editora Perspectiva, 2010. v. 01. 429p BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetura brasileira. 1ª. ed. São Paulo: Editora Perspectiva, 2003. v. 1. 277p DOURADO, Luiz. Entrevista concedida à Ana Carolina Bierrenbach e Juliana Nery em 25/07/2013.</description>
     </item>
   </channel>

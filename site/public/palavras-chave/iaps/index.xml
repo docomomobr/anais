@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IAPs on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/iaps/</link>
+    <link>http://localhost:1313/palavras-chave/iaps/</link>
     <description>Recent content in IAPs on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/iaps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/iaps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O projeto moderno de cidade</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-057/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-057/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-057/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-057/</guid>
       <description>Referências ALMEIDA, Carliane Christie Oliveira de. Habitação Social no Nordeste: A atuação das CAPs e dos IAPs (1930-1964), 2012. Tese (Doutorado em arquitectura e Urbanismo), Instituto de Arquitetura e Urbanismo de São Carlos da Universidade de Fundação da Casa Popular ao Banco Nacional Habitação. Rio de Janeiro: Centro Edelstein de Pesquisas Sociais, 2011. BENÉVOLO, Leonardo. História da Arquitetura moderna. 4ª ed. São Paulo: BRANCO, João Pedro. Programa Habitacional. Habitação, Colecção Informação Técnica Arquitectura n.</description>
     </item>
     <item>
       <title>Arquitetura Moderna e habitação social</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-008/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-008/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-008/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-008/</guid>
       <description>Referências BONDUKI, Nabil: Origens da habitação social no Brasil: Arquitetura Moderna, Lei do Inquilinato e Difusão da Casa Própria. São Paulo, Estação Liberdade, 1998. FARAH, Marta Ferreira Santos: “Estado, Previdência Social e Habitação”. Dissertação de Mestrado, FFLCH / USP, São Paulo, 1983. MELLO, Eduardo Kneese de. Projeto de um Prédio de Apartamentos na Rua Japurá, São Paulo, I.A.P.I. /Delegacia, 194?. THOMAZ, Dalva. “As razões de ontem, hoje e sempre”. In AU Arquitetura e Urbanismo, n.</description>
     </item>
     <item>
       <title>Estado atual dos edifícios construídos pelos IAPs em São Paulo</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-013/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-013/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-013/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-013/</guid>
       <description></description>
     </item>
   </channel>

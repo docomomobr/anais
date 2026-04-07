@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teixeira, Pedro Guimarães on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/teixeira-pedro-guimar%C3%A3es/</link>
+    <link>http://localhost:1313/autores/teixeira-pedro-guimar%C3%A3es/</link>
     <description>Recent content in Teixeira, Pedro Guimarães on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/teixeira-pedro-guimar%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/teixeira-pedro-guimar%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burle Marx no Pedregulho</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-215/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-215/</guid>
+      <description>Referências Segawa, Arquiteturas no Brasil, 118. Nascimento, Blocos de memória, 393. Barata, Mário. “A arquitetura como plástica e a importância da síntese das artes”. Brasil Arquitetura Contemporânea, 1956. Reidy, Affonso; Portinho, Carmen, “Conjunto Residencial Pedregulho” em Affonso Eduardo Reidy. Editado por Nabil Bonduki, 84. Lisboa, Editora Blau, 2000. Ferraz, Geraldo, “Affonso Eduardo Reidy”, Habitat, abril, 1956, 52. Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981. Jean, Yvonne. “O Arquiteto Reidy, a Habitação Popular e a Bienal”, Correio da Manhã, 23 de setembro, 1951, 12.</description>
+    </item>
     <item>
       <title>O conjunto paisagístico do Instituto de Puericultura da UFRJ</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-030/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-030/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-030/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-030/</guid>
       <description>Referências AMORA, Ana Maria Gadelha Albano; SANTOS, Rafael Barcellos; DUARTE, Yrvin Gomes. Hospital Souza Aguiar: por uma nova monumentalidade da “escola carioca” nos anos de 1960 na área histórica central do Rio de Janeiro. In: 13° SEMINÁRIO DOCOMOMO, Salvador, 2019. Anais. Disponível em: &amp;lt;https://docomomobrasil.com/wp-content/uploads/2020/04/110938.pdf&amp;gt; Acesso em: 17 abr. 2023. ALVES COSTEIRA, Elza Matias. O Hospital Sul América e o projeto moderno na arquitetura de saúde. Instituto de Pesquisas Hospitalares Arquiteto Jarbas Karman.</description>
     </item>
     <item>
       <title>O uso de jornais como fontes para a história da arquitetura</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp09/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-vp09/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp09/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-vp09/</guid>
       <description></description>
     </item>
   </channel>

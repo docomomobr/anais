@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brito, Marília on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/brito-mar%C3%ADlia/</link>
+    <link>http://localhost:1313/autores/brito-mar%C3%ADlia/</link>
     <description>Recent content in Brito, Marília on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/brito-mar%C3%ADlia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/brito-mar%C3%ADlia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Escola Alberto Torres</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne04/sdnne04-024/</link>
+      <link>http://localhost:1313/nne/sdnne04/sdnne04-024/</link>
       <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne04/sdnne04-024/</guid>
+      <guid>http://localhost:1313/nne/sdnne04/sdnne04-024/</guid>
       <description>Referências BALTAR, Antonio B. Episódio Pioneira da Arquitetura Moderna em Pernambuco. In Revista da Escola de Belas Artes de Pernambuco, Recife, a.1, n.1, p.13-18, 1957. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Pesrpectiva, 1981, p.7780. ENGLISH HERITAGE. Conservation principles: policies and guidance for the sustainable management of the historic enviroment. London: English Heritage, 2008. LARKHAM, Peter. Conservation and the city. London: Routledge, 1996. MARINHO, Geraldo. Luiz Nunes: vanguarda na periferia.</description>
     </item>
   </channel>

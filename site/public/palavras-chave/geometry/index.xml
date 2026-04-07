@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geometry on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/geometry/</link>
+    <link>http://localhost:1313/palavras-chave/geometry/</link>
     <description>Recent content in geometry on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/geometry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/geometry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna e Neoconcretismo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-054/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-054/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-054/</guid>
       <description>Referências BRITO, Ronaldo. Experiência Crítica. São Paulo: Cosac &amp;amp; Naify, 2005 . BRITO, Ronaldo. “Espaço em ato”. In.- Richard Serra. Rio de Janeiro: Centro de Arte Hélio Oiticica, 1997. COCCHIARALE, F., GEIGER, A.B. (org.) Abstracionismo Geométrico e Informal: a vanguarda brasileira nos anos cinqüenta. Rio de Janeiro: FUNARTE, 1987. HUSSERL, E. L’Origine de la Geometrie. Paris : Presses Universitaires de France, 1999. LE CORBUSIER. Precisões sobre um estado presente da Arquitetura e do Urbanismo.</description>
     </item>
   </channel>

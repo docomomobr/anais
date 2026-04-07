@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Londrina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/londrina/</link>
+    <link>http://localhost:1313/palavras-chave/londrina/</link>
     <description>Recent content in Londrina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/londrina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/londrina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura e cidade no processo de modernização</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-026/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-026/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-026/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-026/</guid>
       <description>Referências ANDERSON, Perry. Modernidade e Revolução. In.: MONTES, Maria Lúcia (trad.). Novos Estudos CEBRAP. São Paulo, N. 14, fev. 1986, p. 2-15. ARRUDA, Maria Arminda do Nascimento. Metrópole e Cultura: São Paulo no meio século XX. Bauru: Edusc, 2001. BUZZAR, Miguel Antonio. João Batista Vilanova Artigas: elementos para a compreensão de um caminho da arquitetura brasileira, 1938-1967. São Paulo: Editora Unesp; Editora Senac São Paulo, 2014. CASTELNOU, Antonio. Arquitetura Londrinense: expressões de intenção pioneira.</description>
     </item>
   </channel>

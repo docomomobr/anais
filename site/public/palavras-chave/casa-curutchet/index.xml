@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casa Curutchet on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/casa-curutchet/</link>
+    <link>http://localhost:1313/palavras-chave/casa-curutchet/</link>
     <description>Recent content in Casa Curutchet on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/casa-curutchet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/casa-curutchet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“O homem ao lado”</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-047/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-047/</guid>
+      <description>Referências Azpiau, Gustavo. “Los cinco puntos de Le Corbusier reconsiderados.” 47 Al Fondo 7, n. 10 (nov. 2003):16–19. Baker, Geoffrey. Le Corbusier: análisis de la forma. Barcelona: Gustavo Gili, 1985. Boesiger, W. e Girsberger, H. Le Corbusier 1910–65. Barcelona: Gustavo Gili, 2001. Braodbent, Geoffrey. “La casa Curutchet: algunas reflexiones.” 47 Al Fondo 8, n. 11, (jul. 2004): 6-13. “Casa Curutchet.” Casas Internacional, n. 46 (dez.1996). Buenos Aires: CP 67: 6–11. Casoy, Daniel.</description>
+    </item>
     <item>
       <title>Casa Curutchet</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-003/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-003/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-003/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-003/</guid>
       <description>Referências Amouroux, Dominique. 2011. La Villa Savoye. Paris: Éditions du patrimoine. Arrese, Álvaro. 2013. &amp;ldquo;La Síntesis del Objecto&amp;rdquo;. In Documentos 47 AF 3, editado por Pablo Remes Lenocov, 60-65. La Plata: Universidad Nacional de La Plata. Azpiazu, Gustavo A. 2013. &amp;ldquo;Los Cinco Puntos de Le Corbusier reconsiderados. Casa para el doctor Pedro Curutchet. Proyecto de Le Corbusier La Plata 1949-1953.&amp;rdquo; In Documentos 47 AF 3, editado por Pablo Remes Lenocov, 12-17.</description>
     </item>
   </channel>

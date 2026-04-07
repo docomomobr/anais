@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coluna on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/coluna/</link>
+    <link>http://localhost:1313/palavras-chave/coluna/</link>
     <description>Recent content in Coluna on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/coluna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/coluna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Situações pontuais sob teto plano</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-044/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-044/</guid>
+      <description>Referências Bahima, Carlos Fernando. “Colunas metálicas sob cobertura plana: regra e exceção na casa Hélio Dourado”. Em Anais do IV Seminário DOCOMOMO Sul, Porto Alegre, PROPAR/UFRGS, 2013. Comas, Carlos Eduardo Dias; PIÑON, Hélio. Inventário da arquitetura moderna em Porto Alegre – 1945/65. Porto Alegre: Marcavisual, 2013. Fischmann, Daniel Pitta. Modernas e Gaúchas: residências unifamiliares em Porto Alegre 1949-1970. Tese de doutorado – Programa de Pós-graduação em Arquitetura (PROPAR) / UFRGS. Porto Alegre, 2023.</description>
+    </item>
     <item>
       <title>A madeira como molde</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-025/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-025/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-025/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-025/</guid>
       <description>Referências Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1999. COMAS, Carlos Eduardo. Brasília quadragenária: a paixão de uma monumentalidade moderna. In: IX Seminário História da Cidade e do Urbanismo, 2006, São Paulo. IX Seminário História da Cidade e do Urbanismo. São Paulo: USP, 2006. IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional. Palácio da Alvorada: inventário de bens arquitetônicos. Brasília: IPHAN, 2008. COMAS, Carlos Eduardo. Brasília quadragenária: a paixão de uma monumentalidade moderna.</description>
     </item>
   </channel>

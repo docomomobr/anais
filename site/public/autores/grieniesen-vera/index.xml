@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grieniesen, Vera on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/grieniesen-vera/</link>
+    <link>http://localhost:1313/autores/grieniesen-vera/</link>
     <description>Recent content in Grieniesen, Vera on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/grieniesen-vera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/grieniesen-vera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duas obras em Porto Alegre</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-080/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-080/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-080/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-080/</guid>
       <description>Referências Artigas, João Villanova. Revista Acrópole. Dezembro 1969. Ano XXXI. Número 368. Editora Max Gruenwald &amp;amp; Cia. Impressão: Impressora Ipsis S.A. Blaser, Werner. Patios: 5000 años de evolución desde la antigüedad hasta nuestros dias. Barcelona: G.Gili, 1999. Heuvel, Dirk van den. Risselada, Max. Alison and Peter Smithson – From the House of the Future to a House of Today. Rotterdam: 010 Publishers, 2004. Le Corbusier. Por uma arquitetura. São Paulo: Perspectiva, 2011.</description>
     </item>
   </channel>

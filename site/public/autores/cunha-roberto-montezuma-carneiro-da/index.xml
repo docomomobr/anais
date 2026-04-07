@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cunha, Roberto Montezuma Carneiro da on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/cunha-roberto-montezuma-carneiro-da/</link>
+    <link>http://localhost:1313/autores/cunha-roberto-montezuma-carneiro-da/</link>
     <description>Recent content in Cunha, Roberto Montezuma Carneiro da on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/cunha-roberto-montezuma-carneiro-da/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/cunha-roberto-montezuma-carneiro-da/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O campus da UFPE</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-052/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-052/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-052/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-052/</guid>
       <description>Referências ALFARO, C.G.,ed. Form and pedagogy: the design of the university city in Latin America. Cambridge: Applied Research + Design Publishing, 2015. ANDRADE, M.C. A constituição do Recife metrópole regional. PDCR documentos. Recife: PCR/SEPLAN, novembro de 1990. CABRAL, R.C. Mario Russo: um arquiteto italiano racionalista no Recife. Recife: Editora da UFPE, 2006. CASTRO, J. A cidade do Recife: ensaio de geografia urbana. Rio de Janeiro: CEB, 1951. MELO, M.L. Metropolização e Subdesenvolvimento: o caso do Recife.</description>
     </item>
   </channel>

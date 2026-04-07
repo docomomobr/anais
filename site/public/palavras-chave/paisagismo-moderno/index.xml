@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paisagismo moderno on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/paisagismo-moderno/</link>
+    <link>http://localhost:1313/palavras-chave/paisagismo-moderno/</link>
     <description>Recent content in paisagismo moderno on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/paisagismo-moderno/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/paisagismo-moderno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redescobrindo Burle Marx</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-167/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-167/</guid>
+      <description>Referências Casarin, Rafael Farina. Roberto Burle Marx: relações entre arte e paisagismo. Dissertação de Mestrado, Universidade Federal do Rio Grande do Sul, 2018. Diehl, Joyce. “Roberto Félix Veronese.” In Grandes Nomes da Arquitetura Catarinense – Arquitetura Moderna, organizado por Letícia Wilson, 101–112. Florianópolis: Editora Santa, 2022. Fagundes, Thayse. Arquitetura Moderna: Obras de Veronese em Santa Catarina. Trabalho de Conclusão de Curso, Universidade da Região de Joinville – UNIVILLE, 2012. Jornal O Estado.</description>
+    </item>
     <item>
       <title>Fernando Chacel e a preservação da paisagem construída</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-068/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-068/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-068/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-068/</guid>
       <description>Referências DOSSIÊ DE TOMBAMENTO PRAÇA DA VILA DE FURNAS SECRETARIA MUNICIPAL DE CULTURA, TURISMO, ESPORTE E LAZER- PREFEITURA MUNICIPAL DE PLANURA – MG, 2015. DOSSIÊ PROCESSOS DE TOMBAMENTO DE BENS MATERIAIS NA ESFERA MUNICIPAL SECRETARIA MUNICIPAL DE CULTURA, TURISMO, ESPORTE E LAZER- PREFEITURA MUNICIPAL DE PLANURA – MG, 2016. CHACEL, F. M. (2001) Paisagismo e Ecogênese. Rio de Janeiro, Editora Fraiha. FARAH,I., SCHLEE,M., TARDIN, R. (org). (2010). Arquitetura Paisagística Contemporânea no Brasil, São Paulo, Editora Senac.</description>
     </item>
     <item>
       <title>Os prenúncios do Paisagismo Moderno</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-028/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-028/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-028/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-028/</guid>
       <description>Referências ARRUDA, Juliana Bandeira de. Os canais na paisagem do Recife: Por um sistema azul. Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo) – Departamento de Arquitetura e Urbanismo, Universidade Federal de Pernambuco, Recife, 2005. BARROS, Souza. A Década de 20 em Pernambuco: uma interpretação. 2. ed. Recife: Fundação de Cultura da Cidade do Recife, 1985. CORREIA, Telma de B. Pedra: plano e cotidiano operário no sertão. Campinas: Papirus, 1998.</description>
     </item>
   </channel>

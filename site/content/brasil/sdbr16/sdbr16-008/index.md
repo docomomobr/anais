@@ -1,0 +1,50 @@
+---
+title: "Fascistas, comunistas, racistas, misóginos etc. e daí?"
+date: 2026-01-01
+slug: sdbr16-008
+type: artigo
+weight: 10
+section_title: "A Arquitetura Moderna nos tempos da cólera"
+section_seq: 1
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_subtitle: "O Futuro do Passado: Arquitetura Moderna Viva e Urbana"
+event_location: "Porto Alegre"
+event_date: "2026-01-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Docomomo Brasil"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+pdf_file: "sdbr16-008.pdf"
+abstract: |
+  O cadinho intelectual dos movimentos de vanguarda, no início do século 20, trouxe à tona um discurso correlacionando ética e estética ou, em outros termos, estabelecendo associações entre propostas artísticas e engajamentos políticos. No que concerne à arquitetura moderna, tais discursos prosseguiram, sobretudo face à emergência de movimentos autoritários (estalinismo, fascismo e nazismo). Eles atravessaram a guerra fria, lembremos por exemplo o célebre artigo de Vilanova Artigas, intitulado Le Corbusier e o imperialismo, de 1951 publicado em Fundamentos, Revista de Cultura Moderna do Partido Comunista.
+  
+  Nos anos 60, vários críticos decretaram a falência da arquitetura moderna; Jencks chegou mesmo a assinar um oportunista atestado de óbito, tendo como causa mortis a implosão do conjunto Pruitt Igoe (1972). No meio estadunidense, onde a arquitetura moderna recebeu a classificação de "estilo internacional" elas acompanharam a emergência do movimento pós-moderno. As reações logo se fizeram ouvir: Kopp (1988) lamentando a causa que virara estilo, Tzonis e Lefaivre, e posteriormente Frampton, encampando um movimento regionalista, "cultura raiz", como postura politicamente correta e progressista. Avaliando o farto material produzido sobre o assunto, importuna o uso da noção de estilo totalmente distante de sua origem teórica do século XIX, como fizeram Philip Johnson e Thomas Wolfe (1981) atribuindo à Bauhaus a responsabilidade de "nosso caos". Porém o mais importante refere-se à base heurística dos discursos. Ou seja, existe realmente a possibilidade de estabelecer um vínculo entre um produto estético e uma ética política, independentemente do contexto de produção, recepção e de apropriação?
+  
+  Alguns estudiosos, como por exemplo Nobre (2017), ponderam sobre a questão ao analisar residências projetadas por Paulo Mendes da Rocha outrora consideradas um gesto transgressivo à tradicional família burguesa. No entanto, ao mesmo tempo, surge uma nova sensibilidade woke que questiona diretamente as posições éticas e políticas dos arquitetos. É o caso de novas publicações tais como a premiada obra de Paulo Tavares intitulada Lucio Costa era racista? (2022) e das anteriores Um Corbusier de François Chaslin e Le Corbusier un Fascisme Français de Xavier de Jarcy, ambas de 2015, ano em que o Centro Pompidou dedicou uma retrospectiva da obra do arquiteto franco- suíço, por ocasião do cinquentenário de sua morte Em que medida o fascismo de Le Corbusier é visível nas decisões projetuais da Cidade Frugès, conjunto habitacional na cidade de Pessac, periferia de Bordeaux(1924-27)? Por que esta, cem anos depois de construída, esteticamente tão contemporânea que, segundo um visitante em 2023, "poderia ter sido construída hoje", segue degradada, malgrado ser patrimônio, enquanto novos bairros são construídos nas proximidades seguindo um "estilo" neomodernista vulgar e com construção precária, materiais e execução?
+  
+  Talvez a melhor maneira de compreender os escritos recentes seja situá-los como produtos de uma nova geração de arquitetos historiadores, uma posição no campo profissional, iniciada no plano internacional por Frampton, Norbert Schultz, Colomina, Cohen. Os arquitetos se tornaram historiadores, por uma combinação de motivos aparentemente individuais, como a frustração muitas vezes ressentida, já na formação, face às expectativas de um ideal de sucesso profissional baseado na prática de projeto Expectativas rapidamente contrariadas pela pressão do mercado, cada vez mais competitivo e, em muitos casos, saturado, posto que concentrado nas mãos de grandes escritórios. Nesta nova carreira profissional a legitimidade é conquistada pelo sucesso de vendas dos livros dos arquitetos-historiadores entre os próprios arquitetos. (Otero-Pailos. 2010). Mas se os arquitetos historiadores pioneiros do modernismo exaltavam as obras de exceção, criticavam a banalização e exigiam um retorno às origens, o que pretendem os atuais?
+  
+  Nosso ponto é que as melhores respostas concernentes à produção escrita mais recente se encontraria numa análise da evolução do campo profissional, o que, como sugere Sarfatti-Larsons, seguindo Bourdieu incluiria os segmentos profissionais organizados, os centros de formação estabelecidos, (...) teria que ser expandido para incluir outros produtores de discurso e de artefatos, outros especialistas e atores, incluindo, por último, mas não menos importantes, os clientes. (...
+keywords:
+  - "ideologia política"
+  - "ética profissional"
+authors:
+  - givenname: "Sônia Maria de Barros"
+    familyname: "Marques"
+    affiliation: "UFPE/UFRN"
+    orcid: "0000-0003-0481-0118"
+doi: "10.5281/zenodo.19434036"
+zenodo_pdf_url: "https://zenodo.org/records/19434187/files/sdbr16-008.pdf"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Marques, Sônia Maria de Barros"
+palavras-chave:
+  - "ideologia política"
+  - "ética profissional"
+---

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teoria da Arquitetura on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/teoria-da-arquitetura/</link>
+    <link>http://localhost:1313/palavras-chave/teoria-da-arquitetura/</link>
     <description>Recent content in Teoria da Arquitetura on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/teoria-da-arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/teoria-da-arquitetura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentação e história nas edições da EAUFMG, 1924-1975</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-149/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-149/</guid>
+      <description>Referências Ávila, Cristina, Eliana Mourão Bernis, Maria do Carmo Andrade Gomes, Maria Inez Cândido, Silvana Cançado Trindade, e Luís Augusto de Lima. Anibal Mattos e seu tempo. Prefeitura de BH, Secretaria Municipal de Cultura, 1991. Escola de Arquitetura da UFMG. História. [s.d.]. Acessado 23 de agosto de 2022. &amp;lt;https://sites.arq.ufmg.br/ea/sobre-a-ea/historia/&amp;gt; Escola de Arquitetura UFMG, org. 1930-1970. [Serviço Gráfico da Escola de Arquitetura, Universidade Federal de Minas Gerais], 1970. Faria, José Geraldo. Relatório do diretor 1960-1961.</description>
+    </item>
     <item>
       <title>A teoria perdida</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-016/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-016/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-016/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-016/</guid>
       <description>Referências BO BARDI, Lina. Contribuição propedêutica ao ensino da Teoria da Arquitetura. Tese apresentada ao Concurso da Cadeira de Teoria da Arquitetura na Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo. São Paulo: Instituto Lina Bo e P. M. Bardi, 2002. Edição fac-símile do original de 1957. COMAS, Carlos Eduardo Dias. Teoria académica, arquitectura moderna, corolario brasileño. In: Anales del Instituto de Arte Iberoamericano, Buenos Aires, 1988, v. 26.</description>
     </item>
   </channel>

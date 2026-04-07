@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ideologia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/ideologia/</link>
+    <link>http://localhost:1313/palavras-chave/ideologia/</link>
     <description>Recent content in Ideologia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/ideologia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/ideologia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frank Algot Eugen Svensson</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-017/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-017/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-017/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-017/</guid>
       <description>Referências ARGAN, Giulio Carlo. História da arte como história da cidade. São Paulo: Martins Fontes, 1992. ARTIGAS, Vilanova. Caminhos da arquitetura. São Paulo: Cosac &amp;amp; Naify, 1999. BIENAL DE SÃO PAULO, 6, 1961, São Paulo. São Paulo: Museu de Arte Moderna (catálogo geral). COSTA, Lúcio. Obras completas. Belo Horizonte: Edições Escola de Arquitetura, 1961. COUTINHO, Evaldo. O espaço da arquitetura. São Paulo: Perspectiva, 1977. DOMINGUES, Marcos. Entrevista a Geraldo Gomes da Silva.</description>
     </item>
     <item>
       <title>O IAPI de Belo Horizonte</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-034/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-034/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-034/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-034/</guid>
       <description>Referências ÁVILA, Cristina. Guinard, as gerações pós-Guinard e a consolidação da modernidade. In: Um século de história das artes plásticas em belo Horizonte. Belo Horizonte: C/ ARTE, 1997. Bello Horizonte: bilhete postal Coleção Otávio Dias Filho. Belo Horizonte: Centro de estudos históricos e Culturais Fundação João Pinheiro, 1997. BENEVOLO, Leonardo. História da arquitetura moderna. São Paulo: Editora Perspectiva, 1989. BOMENY, Helena Baisquet. Guardiães da Razão: modernistas mineiros. Rio de Janeiro: Edições Tempo Brasileiro, 1994.</description>
     </item>
   </channel>

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Corrêa, Juliana Sicuro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/corr%C3%AAa-juliana-sicuro/</link>
+    <link>http://localhost:1313/autores/corr%C3%AAa-juliana-sicuro/</link>
     <description>Recent content in Corrêa, Juliana Sicuro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/corr%C3%AAa-juliana-sicuro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/corr%C3%AAa-juliana-sicuro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O espaço extra na habitação coletiva moderna e contemporânea</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-026/</guid>
+      <description>Referências BRITTO, Alfredo. Pedregulho: o sonho pioneiro da habitação popular no Brasil. Rio de Janeiro: Edições de Janeiro, 2015. ESKINAZI, Mara Oliveira; PENTER, Pedro Engel. “A Fachada e Grelha: Edifícios Bristol e Júlio Barros Barreto”. Do_co.mo,mo_br. Revista #6, dezembro, 2021. Págs 46-58. FERREIRA DOS SANTOS, Carlos Nelson e VOGEL, Arno. Quando a rua vira casa: A apropriação de espaços de uso coletivo em um centro de bairro. Rio de Janeiro: Finep, 1981.</description>
+    </item>
     <item>
       <title>Park Hotel, a urgência de uma ação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-030/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-030/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-030/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-030/</guid>
       <description>Referências BRITTO, Alfredo et alii. Arquitetura moderna no Rio de Janeiro. São Paulo: PINI/Fundação Vilanova Artigas; Rio de Janeiro: RIOARTE, 1991. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Ed. Perspectiva, 1981. CAVALCANTI, Lauro (org.). Quando o Brasil era moderno. Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001. COMAS, Carlos Eduardo Dias. &amp;ldquo;Uma certa arquitetura moderna brasileira: experiência a reconhecer&amp;rdquo; IN: Arquitetura Revista n° 5, Rio de Janeiro, 1987. CHOAY, Françoise.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teixeira, Nícolas Rezende on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/teixeira-n%C3%ADcolas-rezende/</link>
+    <link>http://localhost:1313/autores/teixeira-n%C3%ADcolas-rezende/</link>
     <description>Recent content in Teixeira, Nícolas Rezende on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/teixeira-n%C3%ADcolas-rezende/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/teixeira-n%C3%ADcolas-rezende/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marina, a cidade de Niemeyer no sertão mineiro</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-049/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-049/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-049/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-049/</guid>
       <description>Referências ARTIGAS, Rosa (Org.). Paulo Mendes da Rocha: projetos 1957 -1999. São Paulo, Cosac Naify, 2000. BAKER, Geoffrey. Le Corbusier: uma análise da forma. São Paulo: Martins Fontes, 1998. BARROS, Luiz Antonio Recamán de. Oscar Niemeyer: forma arquitetônica e cidade no Brasil moderno. Tese de Doutorado, São Paulo, FFLCHUSP, 2002. BOESIGER, W.; GIRSBERGER, H. Le Corbusier 1910-65. Barcelona: Editorial Gustavo Gili, S. A., 1971. BORDA, Luis Eduardo. O Nexo da Forma – Oscar Niemeyer: da Arte Moderna ao debate contemporâneo.</description>
     </item>
   </channel>

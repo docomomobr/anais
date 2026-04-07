@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>habitação moderna on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/habita%C3%A7%C3%A3o-moderna/</link>
+    <link>http://localhost:1313/palavras-chave/habita%C3%A7%C3%A3o-moderna/</link>
     <description>Recent content in habitação moderna on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/habita%C3%A7%C3%A3o-moderna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/habita%C3%A7%C3%A3o-moderna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O espaço moderno e a quadra tradicional</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-030/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-030/</guid>
+      <description>Referências BAHIMA, Carlos Fernando Silva. Edifício moderno brasileiro: A urbanização dos cinco pontos de Le Corbusier 1936-5, Dissertação de mestrado, UFRGS, Porto Alegre, 2002. BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: Arquiteturas após 1950. 1º ed. - São Paulo: Editora Perspectiva, 2015. COMAS, Carlos Eduardo Dias. Cidade funcional, cidade figurativa: dois paradigmas em confronto, in Oculum – Revista Universitária de Arquitetura, Urbanismo e Cultura, Vol. 4, Pág. 68, 1993. COSTA, L.</description>
+    </item>
+    <item>
+      <title>Transposições da habitação moderna no Rio de Janeiro</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-029/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-029/</guid>
+      <description>Referências AGACHE, Alfred. (1930) Cidade do Rio de Janeiro: Extensão, Remodelação, Embelezamento (Foyer Brézilien: Paris) BONDUKI, N. (Org.) Affonso Eduardo Reidy. Editorial Blau, Lisboa, Portugal. 2000 DOMHARDT, Konstanze. The Heart of the City: Die Stadt in den transatlantischen Debatten der CIAM, 1933-1951. GTA Verlag, LE CORBUSIER. Le Corbusier: Œuvre complète, 1938–1946. Vol. 4. Zürich: Les Éditions d’Architecture, 1946. MILJUTIN, Nikolai A. Sozgorod Berlin: DOM Publishers, 2009. Facsimile edition. FEFERMAN, C. “The City Center in Early Modern Planning.</description>
+    </item>
     <item>
       <title>Vizinhança e freguesia na cidade moderna brasileira</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-041/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-041/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-041/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-041/</guid>
       <description>Referências ARTIGAS, Rosa (org.). Paulo Mendes da Rocha. São Paulo, Cosac Naify/Associação Brasil 500 Anos Artes Visuais/Fundação Bienal de São Paulo, 2000. AZEVEDO, Sérgio de; ANDRADE, Luis Aureliano Gama de. Habi- tação e poder, da Fundação da Casa Popular ao Banco Nacional de Habitação. Rio de Janeiro, Zahar Editores, 1981. BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquite- turas após 1950. São Paulo, Perspectiva, 2010. COSTA, Lúcio. Lúcio Costa: registro de uma vivência.</description>
     </item>
     <item>
       <title>Habitar o Patrimônio Moderno</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-017/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-017/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-017/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-017/</guid>
       <description>Referências Bibliográficas: Bonduki, Nabil. &amp;ldquo;Affonso Eduardo Reidy&amp;rdquo;. São Paulo: Instituto Lina Bo e P. M. Bardi, 2000. Britto, Alfredo.&amp;ldquo;Pedregulho: o sonho pioneiro da habitação social no Brasil&amp;rdquo;. Rio de Janeiro: Edições de Janeiro, 2015. Cavalcanti, Lauro. &amp;ldquo;Moderno e Brasileiro: A história de uma nova linguagem na arquitetura (1930 60)&amp;rdquo;. Rio de Janeiro: Jorge Zahar Ed., 2006. Choay, Françoise. &amp;ldquo;A Alegoria do Patrimônio&amp;rdquo;. São Paulo: Estação Liberdade/ UNESP, 2006. —. O patrimônio em questão: antologia para um combate.</description>
     </item>
   </channel>

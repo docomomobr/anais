@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bienal de São Paulo) on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/bienal-de-s%C3%A3o-paulo/</link>
+    <link>http://localhost:1313/palavras-chave/bienal-de-s%C3%A3o-paulo/</link>
     <description>Recent content in Bienal de São Paulo) on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/bienal-de-s%C3%A3o-paulo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/bienal-de-s%C3%A3o-paulo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pelos salões das Bienais e pelas ruas do Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-023/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-023/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-023/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-023/</guid>
       <description>Referências AMARAL, Aracy Abreu. Arte para quê?: a preocupação social na arte brasileira. 1930-1970. São Paulo: Nobel, 1984. AMARAL, Aracy Abreu. Projeto construtivo na arte: 1950-1962. Rio de Janeiro: MAM, São Paulo: Pinacoteca do Estado, 1977. AMARANTE, Leonor. As bienais. São Paulo: Projeto, 1989. ANELLI, Renato. Arquitetura e cidade na obra de Rino Levi. São Paulo: FAU / USP, 1995 (tese de Doutorado). BAKER, Geoffrey. Le Corbusier: uma análise da forma.</description>
     </item>
   </channel>

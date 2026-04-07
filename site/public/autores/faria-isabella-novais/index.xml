@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faria, Isabella Novais on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/faria-isabella-novais/</link>
+    <link>http://localhost:1313/autores/faria-isabella-novais/</link>
     <description>Recent content in Faria, Isabella Novais on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/faria-isabella-novais/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/faria-isabella-novais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura, cinema e sociedade</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-032/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-032/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-032/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-032/</guid>
       <description>Referências ANELLI, R. L. S. Arquitetura de cinemas na cidade de São Paulo. 1990. Dis- sertação (Mestrado)-Universidade Estadual de Campinas, São Paulo, 1990. AZEVEDO, Aroldo de. A rede urbana paulista. In: São Paulo. Terra e Povo. São Paulo: Editora Globo, 1966, pág. 65-75. CAMPACCI, Claudio. A História dos Primeiros 120 Anos do Cinema. 1. ed. [S.I.: s.n.], 2014. CONRADO, Bruno Campos; PRADO, Carina Regina Pestana. O crescimento do cinema na cidade de São Paulo: Salas de Centro x Salas de Bairro.</description>
     </item>
   </channel>

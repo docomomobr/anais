@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parque do Ibirapuera on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/parque-do-ibirapuera/</link>
+    <link>http://localhost:1313/palavras-chave/parque-do-ibirapuera/</link>
     <description>Recent content in Parque do Ibirapuera on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/parque-do-ibirapuera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/parque-do-ibirapuera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A imagem do Parque do Ibirapuera contida na revista Módulo, 1955</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-230/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-230/</guid>
+      <description>Referências Simona Salvo, “Restauro e &amp;ldquo;restauros&amp;rdquo; das obras arquitetônicas do século 20: intervenções em arranha-céus em confronto”, Revista CPC, n° 4 (maio/out. 2007): 139-157. Tradução: Beatriz Mugayar Kühl, e Silvio Oksman, Contradições na preservação da arquitetura moderna (Tese, Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2017). Beatriz Colomina, “Architectureproduction” em This is Not Architecture, ed. Kester Rattenbury (New York: Routledge, 2005), 207-221. Paula Gorenstein Dedecca, Sociabilidade, crítica e posição (Dissetação, Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2012), 84.</description>
+    </item>
     <item>
       <title>O projeto modernista do Parque do Ibirapuera</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-069/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-069/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-069/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-069/</guid>
       <description>Referências ARNALDO, Mondari. Niemeyer. São Paulo, Editions Alphabet, 1975. ESCOBAR, Miriam. Esculturas no espaço público de São Paulo. São Paulo, CPA / Vega, 1999. ITAÚ, Instituto Cultural. Cadernos da cidade de São Paulo: Parque do Ibirapuera. São Paulo, Instituto Itaú Cultural, 1997. KLIASS, Rosa Grena. Parques Urbanos de São Paulo. São Paulo, Pini. 1993. LEENHARDT, Jacques. Nos jardins de Burle Marx. São Paulo, Perspectiva, 1996. MACEDO, Silvio Soares. Quadro do Paisagismo no Brasil.</description>
     </item>
   </channel>

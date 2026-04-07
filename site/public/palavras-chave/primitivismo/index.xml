@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>primitivismo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/primitivismo/</link>
+    <link>http://localhost:1313/palavras-chave/primitivismo/</link>
     <description>Recent content in primitivismo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/primitivismo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/primitivismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devorando “taperinhas” e “máquinas de morar” nos anos 1920</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-177/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-177/</guid>
+      <description>Referências AMARAL, Aracy. Artes plásticas na Semana de 22. São Paulo: Editora 34, 1992. ANDRADE, Mário de. Arquitetura Colonial. Arte em Revista. São Paulo: Kairós, Agosto de 1980, Ano 2, n. 4. p. 12-14. ANDRADE, O. A casa e a língua I. Como um construtor se destrói. Correio Paulistano, 8 de fevereiro de 1929, p. 2 ANDRADE, O. A casa e a língua II. Tabalogia paulistana. Correio Paulistano, 10 de fevereiro de 1929, p.</description>
+    </item>
     <item>
       <title>Usos do primitivismo</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-014/</link>
+      <link>http://localhost:1313/sul/sdsul04/sdsul04-014/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-014/</guid>
+      <guid>http://localhost:1313/sul/sdsul04/sdsul04-014/</guid>
       <description>Referências Kurasawa, Fuyuki. &amp;ldquo;A requiem for the &amp;lsquo;primitive&amp;rsquo;.&amp;rdquo; History of the Human Sciences, v.15, n.3 (2002). Perry, Gill. &amp;ldquo;Primitivism and the modern&amp;rdquo;. In: Charles Harrison; Francis Frascina; Gill Perry: Primitivism, Cubism, abstraction: The early twentieth century. New Haven and London: Yale University Press, 1993. Gombrich, Ernst. &amp;ldquo;O primitivo e seu valor na arte&amp;rdquo; [1979]. In: Richard Woodfield (org.), Gombrich Essencial. Textos selecionados sobre arte e cultura. Porto Alegre: Bookman, 2012. Rubin, William (ed.</description>
     </item>
     <item>
       <title>Arquitetura com arquiteto</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-021/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-021/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-021/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-021/</guid>
       <description></description>
     </item>
   </channel>

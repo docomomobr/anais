@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caira Gitahy, Maria Lúcia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/caira-gitahy-maria-l%C3%BAcia/</link>
+    <link>http://localhost:1313/autores/caira-gitahy-maria-l%C3%BAcia/</link>
     <description>Recent content in Caira Gitahy, Maria Lúcia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/caira-gitahy-maria-l%C3%BAcia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/caira-gitahy-maria-l%C3%BAcia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A produção de prédios públicos pelo IPESP 1957-1963</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-069/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-069/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-069/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-069/</guid>
       <description>Referências Segawa, Hugo. &amp;ldquo;Arquiteturas escolares&amp;rdquo;. Projeto n. 87, mai 1986, pp. 64-5. Valentin, Fabio Rago. Casas para o ensino: as escolas de Vilanova Artigas. 2003. Dissertação (Mestrado em Estruturas Ambientais Urbanas) – São Paulo: FAUUSP, 2003. Wisnik, Guilherme. O programa escolar e a formação da “escola paulista”. In: Fereira, Avany de Francisco; Mello, Mirella Geiger de (org). Arquitetura escolar paulista: anos 1950 e 1960. São Paulo: Imprensa Oficial, 2006, pp. 59-66.</description>
     </item>
     <item>
       <title>O Instituto de Pesquisas Tecnológicas de São Paulo e a moderna construção em concreto</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-046/</link>
+      <link>http://localhost:1313/brasil/sdbr04/sdbr04-046/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-046/</guid>
+      <guid>http://localhost:1313/brasil/sdbr04/sdbr04-046/</guid>
       <description></description>
     </item>
   </channel>

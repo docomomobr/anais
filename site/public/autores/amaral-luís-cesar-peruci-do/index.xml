@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amaral, Luís Cesar Peruci do on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/amaral-lu%C3%ADs-cesar-peruci-do/</link>
+    <link>http://localhost:1313/autores/amaral-lu%C3%ADs-cesar-peruci-do/</link>
     <description>Recent content in Amaral, Luís Cesar Peruci do on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/amaral-lu%C3%ADs-cesar-peruci-do/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/amaral-lu%C3%ADs-cesar-peruci-do/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Os inventários como instrumentos de preservação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-005/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-005/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-005/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-005/</guid>
       <description>Referências BERNARDES, Lusia Maria Cavalcanti. Evolução da Paisagem Urbana do Rio de Janeiro até o início do século XX. In Aspectos da Geografia Carioca. Rio de Janeiro: CNG-IBGE, 1962. BRENNA, Giovanna Rosso del. Rio – Guia para uma história urbana: Rio Eclético. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, 198-. BURKE, Peter. Uma História Social do Conhecimento: de Gutenberg a Diderot. Tradução Plínio Dentzien. Rio de Janeiro: Jorge Zahar.</description>
     </item>
   </channel>

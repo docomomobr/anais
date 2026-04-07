@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edifícios comerciais on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcios-comerciais/</link>
+    <link>http://localhost:1313/palavras-chave/edif%C3%ADcios-comerciais/</link>
     <description>Recent content in Edifícios comerciais on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcios-comerciais/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/edif%C3%ADcios-comerciais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reiterações e proposições da Arquitetura Paulista</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-033/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-033/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-033/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-033/</guid>
       <description>Referências ALEIXO, Cynthia Augusta Poleto. Edifícios e galerias comerciais: arquitetura e comércio na cidade de São Paulo, anos 50 e 60. Dissertação (Mestrado; área: Tecnologia do Ambiente Construído). Escola de Engenharia de São Carlos / USP, 2005. COSTA, Sabrina Studart Fontenele. Relações entre o traçado urbano e os edifícios modernos no centro de São Paulo. Tese (Doutorado; área: História e Fundamentos da Arquitetura e do Urbanismo). FAUUSP, São Paulo, 2010. MÉDICI, Ademir Roberto.</description>
     </item>
   </channel>

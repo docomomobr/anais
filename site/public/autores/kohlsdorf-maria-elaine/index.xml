@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kohlsdorf, Maria Elaine on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/kohlsdorf-maria-elaine/</link>
+    <link>http://localhost:1313/autores/kohlsdorf-maria-elaine/</link>
     <description>Recent content in Kohlsdorf, Maria Elaine on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/kohlsdorf-maria-elaine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/kohlsdorf-maria-elaine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>As três faces modernistas de Brasília</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr02/sdbr02-021/</link>
+      <link>http://localhost:1313/brasil/sdbr02/sdbr02-021/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr02/sdbr02-021/</guid>
+      <guid>http://localhost:1313/brasil/sdbr02/sdbr02-021/</guid>
       <description>Referências CHOAY, Françoise. O Urbanismo. São Paulo: Ed. Perspectiva, 1980. CHOAY, Françoise. The Modern City: Planning in the 19th Century. New York: Braziller, 1969. COSTA, Lúcio. Lúcio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995. COSTA, Lúcio. Relatório do Plano Piloto de Brasília. Brasília: GDF/ArPDF/CODEPLAN/DePHA, 1991. GOROWITZ, Matheus. Brasília, uma Questão de Escala. São Paulo: Ed. Projeto. GT Brasília: Dossier Brasília / UNESCO. Brasília: SPHAN/Pró-Memória/UnB/GDF, 1987. KOHLSDORF, Gunter.</description>
     </item>
   </channel>

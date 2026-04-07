@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cabral, Giovanna on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/cabral-giovanna/</link>
+    <link>http://localhost:1313/autores/cabral-giovanna/</link>
     <description>Recent content in Cabral, Giovanna on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/cabral-giovanna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/cabral-giovanna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Preservação e divulgação do &#34;Arquivo&#34; de Marcos Konder Netto</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp11/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-vp11/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp11/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-vp11/</guid>
       <description></description>
     </item>
   </channel>

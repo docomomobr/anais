@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sato, Vitor Berge on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/sato-vitor-berge/</link>
+    <link>http://localhost:1313/autores/sato-vitor-berge/</link>
     <description>Recent content in Sato, Vitor Berge on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/sato-vitor-berge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/sato-vitor-berge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A organização do fundo do arquiteto Joaquim Guedes</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-178/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-178/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-178/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-178/</guid>
       <description>Referências AMARAL JÚNIOR, Carlos Costa: O desenho da arquitetura e o caráter da cidade: dez casas de Joaquim Guedes. São Paulo, 2003. BELLOTTO, Heloísa L. Arquivos permanentes: tratamento documental. Rio de Janeiro: Editora FGV, 2007. CAMARGO, Mônica Junqueira de. Joaquim Guedes: espaços da arte brasileira. São Paulo: Cosac &amp;amp; Naify, 2000. CAMARGO, Ana Maria de Almeida et al. Dicionário de terminologia arquivística. 3.ed. São Paulo: ARQ-SP, 2012. GUEDES SOBRINHO, Joaquim Manoel.</description>
     </item>
   </channel>

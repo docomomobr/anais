@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Torres, Fernanda Freitas Costa de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/torres-fernanda-freitas-costa-de/</link>
+    <link>http://localhost:1313/autores/torres-fernanda-freitas-costa-de/</link>
     <description>Recent content in Torres, Fernanda Freitas Costa de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/torres-fernanda-freitas-costa-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/torres-fernanda-freitas-costa-de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zalszupin e a Cadeira del Rey</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-175/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-175/</guid>
+      <description>Referências Andrade, Maria Margarida de. Introdução à Metodologia do Trabalho Científico. 11ª ed. São Paulo: Atlas, 2019. Brasil. Constituição da República Federativa do Brasil. Brasília, DF, 1988. &amp;lt;https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm&amp;gt; Brasil. Decreto-Lei nº 25, de 30 de novembro de 1937. &amp;lt;https://www.planalto.gov.br/ccivil_03/decreto-lei/del0025.htm&amp;gt; Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN). Intervenções em bens culturais móveis e integrados à arquitetura: manual para elaboração de projetos. Coordenado por Ana Claudia Magalhães. Brasília, DF: IPHAN, 2019. Instituto Federal de Educação, Ciência e Tecnologia de Brasília e Instituto do Patrimônio Histórico e Artístico Nacional.</description>
+    </item>
     <item>
       <title>Oficina-escola de restauro de mobiliário moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-084/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-084/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-084/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-084/</guid>
       <description>Referências COSTA JÚNIOR, J. A. Arquitetos – designers: O mobiliário moderno da Universidade de Brasília. Dissertação (Mestrado) Universidade de Brasília, Brasília, 2014. HORTA, Maria de Lourdes Parreiras; GRUNBERG, Evelina; MONTEIRO, Adriane Queiroz. Basic Guide to Heritage Education. Brasília: National Historical and Artistic Heritage Institute / Imperial Museum, 1999 GONÇALVES, José Reginaldo Santos. 2002. The Rhetoric of Loss: the discourses of cultural heritage in Brazil. Rio de Janeiro: Editora UFRJ. SANTOS, Maria Cecília Loschiavo dos.</description>
     </item>
   </channel>

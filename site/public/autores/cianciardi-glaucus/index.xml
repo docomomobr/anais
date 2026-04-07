@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cianciardi, Glaucus on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/cianciardi-glaucus/</link>
+    <link>http://localhost:1313/autores/cianciardi-glaucus/</link>
     <description>Recent content in Cianciardi, Glaucus on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/cianciardi-glaucus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/cianciardi-glaucus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A busca pela aclimatação regional na Arquitetura Moderna paulista</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-024/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-024/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-024/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-024/</guid>
       <description>Referências CAMARGO, Mônica Junqueira de. Oswaldo Bratke: uma trajetória de arquitetura moderna.1995. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade Mackenzie, São Paulo, 1995. 271 p. CAMPOS, Candido Malta. Os rumos da cidade: urbanismo e modernização em São Paulo. São Paulo: SENAC, 2002. 660 p. CAVALCANTI, Lauro. Quando o Brasil era moderno: guia de arquitetura: 1928-1960. Rio de Janeiro: Aeroplano, 2001. 468 p. FERRAZ, Geraldo. Warchavchik e a introdução da nova arquitetura no Brasil: 1925 a 1940.</description>
     </item>
   </channel>

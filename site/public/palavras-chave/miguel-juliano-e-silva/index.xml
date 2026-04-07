@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Juliano e Silva on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/miguel-juliano-e-silva/</link>
+    <link>http://localhost:1313/palavras-chave/miguel-juliano-e-silva/</link>
     <description>Recent content in Miguel Juliano e Silva on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/miguel-juliano-e-silva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 15:54:08 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/miguel-juliano-e-silva/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estudo de caso</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-043/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-043/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-043/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-043/</guid>
       <description>Referências BARBOSA, Marcelo Consiglio. A Obra de Adolf Franz Heep no Brasil. Dissertação (Mestrado em Arquitetura e Urbanismo) – Universidade de São Paulo, São Paulo, 2002. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Editora Perspectiva, 1991. CAMPOS, Cândido Malta. Os Rumos da Cidade: Urbanismo e Modernização em São Paulo. São Paulo: Ed. SENAC São Paulo, 2002. CHOAY, Françoise. A alegoria do Patrimônio. São Paulo: Estação Liberdade: Ed. Unesp, 2001. CURY, Isabelle (org.</description>
     </item>
   </channel>

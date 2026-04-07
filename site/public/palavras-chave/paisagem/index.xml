@@ -2,80 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paisagem on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/paisagem/</link>
+    <link>http://localhost:1313/palavras-chave/paisagem/</link>
     <description>Recent content in Paisagem on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/paisagem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/paisagem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura Moderna, fotografia e cidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-232/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-232/</guid>
+      <description>Referências Bharne, Vinayak. “Le Corbusier’s Ruin: The Changing Face of Chandigarh’s Capitol.” Journal of Architectural Education 64, no. 2 (2011): 99–112. Brasília 57-85: do Plano-Piloto ao Plano Piloto. Brasília: Terracap, 1985. Chalana, M.; Sprague, T. S. “Beyond Le Corbusier and the modernist city: reframing Chandigarh’s ‘World Heritage’ legacy.” Planning Perspectives 28, no. 2 (2013): 199–222. Costa, Lúcio. “Relatório do Plano Piloto de Brasília”. Brasília: Novacap, 1957. Didi-Huberman, Georges. “Diante da Imagem”.</description>
+    </item>
+    <item>
+      <title>Forma-paisagem e chão</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-124/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-124/</guid>
+      <description>Referências Frampton, Kenneth. Introdução ao Estudo da Cultura Tectónica. Ordem dos Arquitetos (Portugal), 1998. Frampton, Kenneth; Cava, John (ed.). Studies in Tectonic Culture: The Poetics of Construction in Nineteenth and Twentieth Century Architecture. MIT Press, 1995. Frampton, Kenneth; Mitrasinovic, Miodrag (ed.). Architecture and the Public World. London: Bloomsbury Publishing, 2024. Porto, Jadson (org.). Amapá: oitenta anos de novas acionalidades e dinâmicas territoriais (1943-2023). Maringá, PR: Uniedusul, 2023. Roger, Alain. Breve tratado del paisaje.</description>
+    </item>
+    <item>
+      <title>O Capitólio descoroado</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-221/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-221/</guid>
+      <description>Referências Apud Kalia, Ravi. Chandigarh: In Search of an Identity. Carbondale: Southern Illinois University Press, 1987. Prakash, Vikramaditya. Preserving Chandigarh&amp;rsquo;s Capitol Complex: The Question of the Unbuilt Museum of Knowledge. Em Utopie et Réalité de L´Urbanisme, ed. Kornelia Imesch. Gollion: Infolio, 2015. Le Corbusier, Modulor 2 - 1955 (LET THE USER SPEAK NEXT). Traduzido por Peter de Francia e Anna Bostock. Massachusetts: The MIT Press, 1958. Constant, Caroline.The Modern Architectural Landscape.</description>
+    </item>
     <item>
       <title>A Casa da Floresta de Muna Hauache</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-007/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-007/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-007/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-007/</guid>
       <description>Referências MOREIRA, Susanna. Casa da Floresta/Arena Arquitetura. Archdaily, 2022. &amp;lt;https://www.archdaily.com.br/br/962047/casa-da-floresta-&amp;gt; arena-arquitetura. Acesso em: 16 abr. 2023. ARNHEIM, Rudolf; WATTERSON, Joseph; ZUCKER, Wolfgang M. Inside and Outside in Architecture: A Symposium. The Journal of Aesthetics and Art Criticism, Nova &amp;lt;https://www.jstor.org/stable/428879?readnow=1&amp;amp;seq=1#page_scan_tab_contents&amp;gt; Acesso em: 20 abr. 2023. FOCILLON, Henri. The Life of Forms in Art. 1 ed. Nova Iorque: Zone Books, 1992. CRUZ, Talita. Neoplasticismo: Descubra o Movimento Artístico que Inspirou a &amp;lt;https://www.vivadecora.com.br/pro/neoplasticismo/&amp;gt; Acesso em: 16 abr.</description>
     </item>
     <item>
       <title>O tombamento dos imóveis do bairro de Higienópolis, 1992–2014</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-023/</link>
+      <link>http://localhost:1313/se/sdsp09/sdsp09-023/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-023/</guid>
+      <guid>http://localhost:1313/se/sdsp09/sdsp09-023/</guid>
       <description>Referências FENELON, Déa Ribeiro. Minuta nº 1, que solicita a abertura de processo de tombamento do Bairro de Higienópolis. 27 ago. 1992. In: SÃO PAULO (cidade). Processo Administrativo 16- 008-812-92*01. São Paulo: Conpresp, 1992, p. 70. MACHADO, Lucio Gomes. Arquitetura do Século XX no Bairro de Higienópolis: Identificação, Tombamento e Proteção Urbanística. In: SEMINÁRIO DOCOMOMO BRASIL. 6., 2005, Niterói. Anais do 6º Seminário Docomomo Brasil: Arquitetura e Urbanismo. Moderno e Nacional.</description>
     </item>
     <item>
       <title>Narrar paisagens em cidades capitais planejadas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-041/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-041/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-041/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-041/</guid>
       <description>Referências ANCARA. [S. l.], 2023. Disponível em: &amp;lt;http://www.ankara.gov.tr/ilcelerimiz&amp;gt; Acesso em: 11 fev. 2023. BARIS, M. E., Erdogan, E., Dilaver, Z., &amp;amp; Arslan, M. (2010). Greenways and the urban form: City of Ankara, Türkiye. Biotechnology and Biotechnological Equipment, 24(1), 1657–1664. &amp;lt;https://doi.org/10.2478/V10133-010-0022-6&amp;gt; BATUMAN, Bülent. City profile: Ankara. ResearchGate, [S. l.], p. 1-12, 26 jun. 2012. DOI 10.1016/j.cities.2012.05.016. Disponível em: &amp;lt;https://www.researchgate.net/publication/257097149&amp;gt; BILSEL, C. (2009). ÿzmir&amp;rsquo;de Cumhuriyet dönemi planlamasÿ (1923-1965): 20. Yüzyÿl Kentsel Mirasÿ. Ege Mimarlÿk, Ekim, pp.</description>
     </item>
     <item>
       <title>Cidade e natureza</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-025/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-025/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-025/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-025/</guid>
       <description>Referências ArPDF. Arquivo Público do Distrito Federal. GDF, 2018. &amp;lt;http://www.arquivopublico.df.gov.br/lucidio-&amp;gt; guimaraes-albuquerque/ consultado em 17/05/2021. ALBUQUERQUE, J. P. C. Relatório anual da Comissão de Localização da Nova Capital Federal. Rio de Janeiro: Biblioteca do Senado Federal, 1955. &amp;lt;http://www.museuvirtualbrasilia.org.br/PT/personalidades.php?ator=marechal&amp;gt; consultado em 11/06/2021. ALBUQUERQUE, L. G. Introdução ao urbanismo regional: sistema de abastecimento de Brasília. Rio de Janeiro: Conselho Coordenador do Abastecimento da Novacap, 1960. BENEVOLO, L. A História da Cidade. São Paulo: Perspectiva, 2011.</description>
     </item>
     <item>
       <title>Faces de uma mesma paisagem</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-053/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-053/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-053/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-053/</guid>
       <description>Referências BONDUKI, Nabil. Saiba quais serão os impactos da pandemia no futuro das cidades. Caderno Ilustríssima. São Paulo, Folha de S.Paulo, 24 abr. 2021. BRASIL. Companhia Imobiliária de Brasília (TERRACAP). Brasília 57-85: do plano piloto ao Plano Piloto. Brasília: TERRACAP, 1985. BRASIL. IPHAN. Plano Piloto 50 anos: cartilha de preservação Brasília_ Reimpressão _ Brasília, DF, 2009. 103 p. BRASIL. IPHAN. Portaria nº 314, de 8 de outubro de 1992. Diário Oficial [da] República Federativa do Brasil, Brasília-DF, ano 130, n.</description>
     </item>
     <item>
       <title>Niemeyer no Guarujá</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-020/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-020/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-020/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-020/</guid>
       <description>Referências BACON, Edmund. Design of Cities. New York, Penguin Books, 1980. CABRAL, Claudia Costa. Niemeyer y la costa lusitana: estudio para el Algarve, 1965. In Arquitectura importada y exportada en Es- paña y Portugal (1925-1975). Pamplona, T6 Ediciones, 2016, p. 13-20. COMAS, Carlos Eduardo. Niemeyer Inatural. In: SEGRE, Roberto; AZEVEDO, Marlice; COSTA, Renato Gama-Rosa; ANDRADE, Inês El- -Jaick (orgs.), Arquitetura+Arte+Cidade. Um debate internacional. Rio de Janeiro, Viana &amp;amp; Mosley, 2010, p.</description>
     </item>
     <item>
       <title>Paisagem moderna, paisagem histórica?</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-041/</link>
+      <link>http://localhost:1313/nne/sdnne03/sdnne03-041/</link>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-041/</guid>
+      <guid>http://localhost:1313/nne/sdnne03/sdnne03-041/</guid>
       <description>Referências AMORIM, Luiz. Obituário arquitetônico: Pernambuco modernista. Recife: UFPE, 2007. COMAS, Carlos Eduardo Dias. Rio, Pernambuco, Rio Grande e Minas: contextualismo e heteromorfismo no espaço público moderno brasileiro. In: MOREIRA, Fernando Diniz (org.). Arquitetura moderna no Norte e Nordeste do Brasil: universidade e diversidade. Recife: FASA, 2007. COMAS, Carlos Eduardo Dias. Suites Brasileiras: notas sobre o passado presente em Le Corbusier/Lucio Costa/Oscar Niemeyer. In: COMAS, Carlos Eduardo Dias; PEIXOTO, Marta: MARQUES, Sergio M.</description>
     </item>
     <item>
       <title>A paisagem através da Arquitetura</title>
-      <link>https://anais.docomomobrasil.com/se/sdmg01/sdmg01-014/</link>
+      <link>http://localhost:1313/se/sdmg01/sdmg01-014/</link>
       <pubDate>Tue, 20 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdmg01/sdmg01-014/</guid>
+      <guid>http://localhost:1313/se/sdmg01/sdmg01-014/</guid>
       <description>Referências CALDEIRA, Júnia M. Praça: território de sociabilidade - Uma leitura do processo de restauração da Praça da Liberdade de Belo Horizonte. (Dissertação de Mestrado). Campinas: Universidade Estadual de Campinas, 1998. CAVALCANTI, Lauro. Casa das Canoas: un dialogue non-mimétique avec le paysage. L’Architecture D’Aujourdhui, núm.373, p.54-63, nov-déc, 2007. CERTEAU, Michel de. A invenção do cotidiano: 1. Artes de fazer. Petrópolis: Vozes, 2008. ESTADO DE MINAS. BH 100 anos: Nossa história. Belo Horizonte: Estado de Minas, 1996.</description>
     </item>
     <item>
       <title>Modernidade no Jardim</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-151/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-151/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-151/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-151/</guid>
       <description>Referências BARDI, Pietro Maria. The tropical gardens of Burle-Marx. Rio de Janeiro / Amsterdam: Colibris, 1964, p. 10. CORDEIRO, Waldemar. A arte polimatérica. Folha da Manhã. São Paulo, 20 ago. 1950, 5º cad., p. 7 e ?. CORDEIRO, Waldemar. Arquitetura e arte. AD – Arquitetura e Decoração, São Paulo, n. 22, s.p., mar.-abr. 1957. CORDEIRO, Waldemar. O problema da expressão plástica. Folha da Manhã. São Paulo, 04 jan. 1950, p. 6.</description>
     </item>
     <item>
       <title>A preservação da paisagem e a busca da cidade ideal</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-035/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-035/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-035/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-035/</guid>
       <description>Referências CARLOS, Ana Fani Alessandri. A (re)produção do espaço urbano. São Paulo: EDUSP, 1994. 270p. CASCUDO, Luís da Câmara. História da Cidade do Natal. Rio de Janeiro: Civilização Brasileira; Natal: Universidade Federal do Rio Grande do Norte, 1980. 470 p. DANTAS, Ana Caroline de Carvalho Lopes. Sanitarismo e planejamento urbano: a trajetória das propostas urbanísticas para Natal entre 1935 e 1969. 243 f. Dissertação (Mestrado) – Universidade Federal do Rio Grande do Norte.</description>
     </item>
   </channel>

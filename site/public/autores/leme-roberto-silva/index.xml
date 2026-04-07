@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leme, Roberto Silva on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/leme-roberto-silva/</link>
+    <link>http://localhost:1313/autores/leme-roberto-silva/</link>
     <description>Recent content in Leme, Roberto Silva on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/leme-roberto-silva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/leme-roberto-silva/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura moderna em Campinas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-053/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-053/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-053/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-053/</guid>
       <description>Referências W. BOESIGER / H. GIRSBERGER “Le Corbusier 1910-1965”. Barcelona: Editorial Gustavo Gili S.A., 1971. BADARÓ, Ricardo de Souza Campos. “Campinas: o despertar da modernidade”. Campinas: Unicamp, 1996. BRUA ND, Yves. “Arquitetura contemporânea no Brasil”. São Paulo: Perspectiva, 2002. DEZAN, Waldir Vilalva. “A implantação de uma modernidade: verticalização no centro de Campinas”. Campinas: dissertação de mestrado. Unicamp, 2007. FRAMPTON, Kenneth. “Arquitetura Moderna”. São Paulo: Martins Fontes, 1997. LAMAS, José M. Ressano Garcia.</description>
     </item>
   </channel>

@@ -2,45 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acervos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/acervos/</link>
+    <link>http://localhost:1313/palavras-chave/acervos/</link>
     <description>Recent content in Acervos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/acervos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/acervos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cachorro com muitos donos</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-138/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-138/</guid>
+      <description>Referências PEIXOTO, Priscila Alves. Diálogos cruzados: historiografia da arquitetura: os arquivos em foco. Rio de Janeiro: Enanparq8, 2024. PESSOA, José (org.). Lucio Costa: documentos de trabalho. Rio de Janeiro: Iphan, 2004. p. 68. MACEDO, Danilo Matoso et al. Por uma política nacional de arquivos de arquitetura e urbanismo. Ouro Preto: Seminário Nacional de Patrimônio, 2022. </description>
+    </item>
+    <item>
+      <title>Eduardo de Almeida</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-145/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-145/</guid>
+      <description>Referências ARMSTRONG, Ann R. E. Architectural Archives/Archiving Architecture: The Digital ERA. Art Documentation: Journal of the Art Libraries Society of North America, v. 25, n. 2, p. 12-17, out. 2006 FIGUEIREDO, Alessandra, SILVA, Helena Ayoub e IWAMIZU, Cesar Shundi. Eduardo de Almeida: Arquiteto. São Paulo: BEI, 2022. IWAMIZU, Cesar Shundi. Eduardo de Almeida: reflexões sobre estratégias de projeto e ensino. 2015. Tese (Doutorado em Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2015.</description>
+    </item>
+    <item>
+      <title>Prática a dois na Arquitetura Moderna paulista</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-081/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-081/</guid>
+      <description>Referências ACAYABA, Marlene Milan. Residências Paulistas 1947-1975. São Paulo, Projeto, 1987. BARON, Cristina Maria Perissinotto; FIORIN, Evandro (org.). 100 anos Presidente Prudente: Arquitetura e Urbanismo. Bauru SP: Canal 6, 2017. SANVITTO, Maria Luiza Adams. Brutalismo Paulista: Uma Análise Compositiva de Residências Paulistanas entre 1957 e 1972. Orientador: Edson da Cunha Mahfuz. Dissertação (Mestrado). Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 1994. ESTÚDIO SALA. Casa dos Pessegueiros.</description>
+    </item>
     <item>
       <title>A modernidade em dois atos</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-018/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-018/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-018/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-018/</guid>
       <description>Referências BERNARDI, C.K.P.B.; ALMEIDA, M. F. de. Reconhecimento do patrimônio moderno em Araraquara in ARQUITETURA MODERNA EM ARARAQUARA, RIBEIRÃO PRETO E SÃO CARLOS [livro eletrônico]: Oficinas de reconhecimento 7º Seminário Docomomo SP. 1. ed. São Carlos: 2020. v. 1. 159p. BRANDÃO, I. de L.; TELAROLLI R. Addio Bel Campanile: A saga dos Lupo. Global. São Paulo. 1998. DONATO, I. Z. Movimento moderno, planejamento urbano e poder local em Araraquara/SP: O processo de elaboração e implementação do Primeiro Plano Diretor -1950 a 1982.</description>
     </item>
     <item>
       <title>Cia. City</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-027/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-027/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-027/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-027/</guid>
       <description>Referências BACELLI, Roney. Jardim América. São Paulo: Departamento do Patrimônio Histórico, 1982. D&amp;rsquo;ELBOUX, Roseli Maria Martins. Joseph-Antoine Bouvard no Brasil. Os melhoramentos de São Paulo e a criação da Companhia City: ações interligadas. 2015. Tese (Doutorado em Planejamento Urbano e Regional) - Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2015. doi:10.11606/T.16.2016.tde-27012016-111315. Acesso em: 05 maio 2022. DOCOMOMO - BRASIL, 2º Seminário, 1997, Salvador-BA. Novas formulações no campo da arquitetura e urbanismo.</description>
     </item>
     <item>
       <title>Jacques Pilon e Giancarlo Palanti</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-012/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-012/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-012/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-012/</guid>
       <description>Referências ALMEIDA, Moracy Amaral e. Pilon, Heep, Korngold e Palanti: edifícios de escritórios (1930- 1960). 2015. Dissertação (Mestrado em Projeto de Arquitetura) – Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2015. CASTRO, Ana Cláudia Veiga de et al. (orgs.). Arquivos, memórias da cidade, historiografias da arquitetura e do urbanismo. São Paulo: FAUUSP, 2021. (Coleção Caramelo). Disponível em: &amp;lt;http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/723&amp;gt; Acesso em: 09 jun. 2022. FRANCO, Tiago Seneme. Arquitetura tradicionalista nos edifícios de escritório de Jacques Pilon.</description>
     </item>
     <item>
       <title>O acervo da FAUUSP e a formação estudantil. O trabalho com as coleções de Oswaldo Arthur Bratke e Rino Levi</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-014/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-014/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-014/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-014/</guid>
       <description>Referências ANELLI, Renato. Rino Levi/ Arquitetura e Cidade. São Paulo: Romano Guerra, 2001. ARANHA, Maria Beatriz de Camargo. A obra de Rino Levi e a trajetória da arquitetura moderna no Brasil. 2008. Tese Doutorado na Faculdade de Arquitetura e Urbanismo - Universidade de São Paulo. 2008. Disponível em: &amp;lt;https://www.teses.usp.br/teses/disponiveis/16/16133/tde-29032010-153615/publico/Tese.pdf&amp;gt; Acesso 12 de jun. de 2022 BRITO, Gisele Ferreira; COSTA, Eduardo; VELLOSO, Leonardo; Digital Platform for dissemination of the FAUUSP architecture and design collections.</description>
     </item>
     <item>
       <title>Portal digital para difusão dos acervos da FAUUSP</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-009/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-009/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-009/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-009/</guid>
       <description>Referências AVRAMI, Erica (ed.) Preservation and the New Data Landscape. New York: Columbia Books on Architecture and the City, 2019. BEIGUELMANN, Giselle; MAGALHÃES, Ana Gonçalves (orgs.). Futuros possíveis: arte, museus e arquivos digitais. São Paulo: Peirópolis: Edusp, 2014. BRITO, Gisele Ferreira de; MARQUES, Eliana de Azevedo; TRINDADE, Cristiano Morais da. A Biblioteca da FAUUSP e sua coleção iconográfica. In: LIRA, José Tavares Correia de (coord.); GONÇALVES, Felipe; FIAMMENGHI, João; PRÓSPERO, Victor.</description>
     </item>
   </channel>

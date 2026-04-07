@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martins, Elizabete Rodrigues de Campos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/martins-elizabete-rodrigues-de-campos/</link>
+    <link>http://localhost:1313/autores/martins-elizabete-rodrigues-de-campos/</link>
     <description>Recent content in Martins, Elizabete Rodrigues de Campos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/martins-elizabete-rodrigues-de-campos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/martins-elizabete-rodrigues-de-campos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acervos de arquitetos cariocas</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-003/</link>
+      <link>http://localhost:1313/se/sdrj02/sdrj02-003/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-003/</guid>
+      <guid>http://localhost:1313/se/sdrj02/sdrj02-003/</guid>
       <description>Referências BONDUKI, Nabil. Affonso Eduardo Reidy. São Paulo: Instituto Lina Bo &amp;amp; P.M. Bardi, 2000. CZAJKOWSKI, Jorge. Rio de Jorge Machado Moreira. Rio de Janeiro: Centro de Arquitetura e Urbanismo do Janeiro, 1999. ESTEVÃO, Sílvia Ninita de Moura; FONSECA, Vitor Manoel Marques da; PAES, Marilena Leite. Norma Brasileira de Descrição Arquivística — NOBRADE. Rio de Janeiro: Conarq, 2006. LE GOFF, Jacques. Histoire et mémoire. Paris: Éditions Gallimard, 1988. MARTINS, Elizabete Rodrigues de Campos.</description>
     </item>
   </channel>

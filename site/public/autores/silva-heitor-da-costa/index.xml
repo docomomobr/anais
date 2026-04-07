@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silva, Heitor da Costa on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/silva-heitor-da-costa/</link>
+    <link>http://localhost:1313/autores/silva-heitor-da-costa/</link>
     <description>Recent content in Silva, Heitor da Costa on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/silva-heitor-da-costa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/silva-heitor-da-costa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Controle de radiação solar, Jockey Club do Rio Grande do Sul</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-018/</link>
+      <link>http://localhost:1313/sul/sdsul01/sdsul01-018/</link>
       <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-018/</guid>
+      <guid>http://localhost:1313/sul/sdsul01/sdsul01-018/</guid>
       <description>Referências OLGYAY, V., OLGYAY A. SOLAR CONTROL AND SHADING DEVICES. Princeton University Press, Princeton, New Jersey, USA. OLGYAY ARCHITECTURAL REGIONALISM. Princeton University Press, Princeton, New Jersey, USA. SILVA, H. C. WINDOW DESIGN FOR THERMAL COMFORT IN LOW COST BUILDINGS IN SOUTHERN BRAZIL. Tese de doutoramento, Architectural Association, School of Architecture. Londres, UK. XAVIER, A., MIZOGUCHI I. ARQUITETURA MODERNA EM PORTO ALEGRE. FAURGS/PINI, Editora Pini Ltda., São Paulo, SP – Brasil. </description>
     </item>
   </channel>

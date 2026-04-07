@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nudelman, Jorge on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/nudelman-jorge/</link>
+    <link>http://localhost:1313/autores/nudelman-jorge/</link>
     <description>Recent content in Nudelman, Jorge on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/nudelman-jorge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/nudelman-jorge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Hogar Estudiantil Universitario de Carlos Clémot y Justino Serralta</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-046/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-046/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-046/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-046/</guid>
       <description>Referências Artucio, Leopoldo. Montevideo y la arquitectura moderna. Montevideo: Nuestra Tierra, 1971. Boesiger, Willi. Le Corbusier. Œuvre Complète. 1946-1952. Zurich: Editions Girsberger, 1953. Boesiger, Willi. Le Corbusier. Œuvre Complète. 1952-1957. Zurich: Editions Girsberger, 1957. Del Real, Patricio; Gyger, Helen (ed.). Latin American Modern Architectures: Ambiguous Territories. New York / London: Routledge, 2012. Le Corbusier. Précisions sur un état présent de l&amp;rsquo;architecture et de l&amp;rsquo;urbanisme. Paris: G. Crès, 1930. Le Corbusier. Modulor 2.</description>
     </item>
   </channel>

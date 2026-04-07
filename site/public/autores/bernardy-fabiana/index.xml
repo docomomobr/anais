@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bernardy, Fabiana on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/bernardy-fabiana/</link>
+    <link>http://localhost:1313/autores/bernardy-fabiana/</link>
     <description>Recent content in Bernardy, Fabiana on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/bernardy-fabiana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/bernardy-fabiana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apagamento e permanência</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-086/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-086/</guid>
+      <description>Referências BARBIERO, João Paulo Silveira. “Residência César Dorfman.” In O moderno e reformado: Debatendo o projeto do B. 1920–2019. Parte II. Anais do VII Seminário Docomomo Sul, Porto Alegre, 2022. CAMARGO, Mônica Junqueira. “Residências modernas: Patrimônio ameaçado.” In O moderno já passado FISCHMAN, Daniel Pitta. Modernas e gaúchas: Residências unifamiliares em Porto Alegre, 1949–1970. Tese de Doutorado em Arquitetura, Programa de Pesquisa e Pós-Graduação em Arquitetura (PROPAR), Universidade Federal do Rio Grande do Sul, Porto Alegre, 2023.</description>
+    </item>
     <item>
       <title>Porto Alegre e a enchente de 1936</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-011/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-011/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-011/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-011/</guid>
       <description>Referências CORREIO DO POVO (1936a). &amp;ldquo;A cidade soffre[sic], mais uma vez, a invasão desoladora das aguas[sic]! Numerosos bairros de Porto Alegre foram invadidos pela enchurrada, havendo centenas de familias[sic] abandonado suas casas - o Menino Deus e a ilhota attingidos[sic] pela maior inundação dos ultimos[sic] tempos.&amp;rdquo; Porto Alegre: 03 out. 1936, ano XLII, n. 233. CORREIO DO POVO (1936b). &amp;ldquo;Os nossos bairros e as enchentes&amp;rdquo;. Porto Alegre: 7 out. 1936, ano XLII, n.</description>
     </item>
   </channel>

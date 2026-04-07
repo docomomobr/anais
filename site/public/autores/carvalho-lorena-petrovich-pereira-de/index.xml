@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carvalho, Lorena Petrovich Pereira de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/carvalho-lorena-petrovich-pereira-de/</link>
+    <link>http://localhost:1313/autores/carvalho-lorena-petrovich-pereira-de/</link>
     <description>Recent content in Carvalho, Lorena Petrovich Pereira de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/carvalho-lorena-petrovich-pereira-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/carvalho-lorena-petrovich-pereira-de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desejos e realidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-211/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-211/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Um estudo de edifícios modernos na cidade de Floriano, Piauí. 1950-1980</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/82/</link>
+      <link>http://localhost:1313/nne/sdnne06/82/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/82/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/82/</guid>
       <description></description>
     </item>
   </channel>

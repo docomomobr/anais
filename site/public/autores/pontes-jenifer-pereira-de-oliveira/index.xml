@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pontes, Jenifer Pereira de Oliveira on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/pontes-jenifer-pereira-de-oliveira/</link>
+    <link>http://localhost:1313/autores/pontes-jenifer-pereira-de-oliveira/</link>
     <description>Recent content in Pontes, Jenifer Pereira de Oliveira on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/pontes-jenifer-pereira-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/pontes-jenifer-pereira-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura Moderna para uma escola higiênica</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-031/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-031/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-031/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-031/</guid>
       <description>Referências CLARK, Oscar. O Século da Creança. Rio de Janeiro, 1937. GONDRA, José Gonçalves. Medicina, Higiene e Educação Escolar. In LOPES et all. (orgs.) 500 Anos de Educação No Brasil. 2ª. ed. Belo Horizonte: Autêntica, 2000. GUELLI, Oscar Augusto. Espírito são em corpo são. In Revista do Professor. ano XII, n. 19, p. 29. MELLO, B. Vieira de. Hygiene Escolar e Pedagógica. São Paulo: Casa Vanorden, 1917. PEIXOTO, Afrânio. Noções de higiene.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hotel Esplanada on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/hotel-esplanada/</link>
+    <link>http://localhost:1313/palavras-chave/hotel-esplanada/</link>
     <description>Recent content in Hotel Esplanada on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/hotel-esplanada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/hotel-esplanada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vida e morte do Hotel Esplanada em Fortaleza</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/55/</link>
+      <link>http://localhost:1313/nne/sdnne06/55/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/55/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/55/</guid>
       <description>Referências AMORIM, Luiz Manuel do Eirado. Obituário arquitetônico. Pernambuco modernista. Recife: Editora UFPE, 2007. ARAUJO, C.P.. Arquitetura hoteleira: meio, fim ou imagem?. In: Heliana Comin Vargas; Ricardo Alexandre Paiva. (Org.). Turismo, arquitetura e cidade. 1ed.Barueri: Manole, 2016, v. , p. 389-420. CAVALCANTE, Márcia Gadelha. Os edifícios de apartamentos em Fortaleza (1935- 1986): dos conceitos universais aos exemplos singulares. Tese (Doutorado em Arquitetura e Urbanismo). Universidade Presbiteriana Mackenzie, São Paulo, 2015. DIÓGENES, Beatriz; CARTAXO, Joaquim; MONTENEGRO, Aída.</description>
     </item>
   </channel>

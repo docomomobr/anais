@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>especulação imobiliária on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/especula%C3%A7%C3%A3o-imobili%C3%A1ria/</link>
+    <link>http://localhost:1313/palavras-chave/especula%C3%A7%C3%A3o-imobili%C3%A1ria/</link>
     <description>Recent content in especulação imobiliária on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/especula%C3%A7%C3%A3o-imobili%C3%A1ria/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/especula%C3%A7%C3%A3o-imobili%C3%A1ria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apagamento e permanência</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-086/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-086/</guid>
+      <description>Referências BARBIERO, João Paulo Silveira. “Residência César Dorfman.” In O moderno e reformado: Debatendo o projeto do B. 1920–2019. Parte II. Anais do VII Seminário Docomomo Sul, Porto Alegre, 2022. CAMARGO, Mônica Junqueira. “Residências modernas: Patrimônio ameaçado.” In O moderno já passado FISCHMAN, Daniel Pitta. Modernas e gaúchas: Residências unifamiliares em Porto Alegre, 1949–1970. Tese de Doutorado em Arquitetura, Programa de Pesquisa e Pós-Graduação em Arquitetura (PROPAR), Universidade Federal do Rio Grande do Sul, Porto Alegre, 2023.</description>
+    </item>
+    <item>
+      <title>Boom imobiliário e as casas modernas na orla de João Pessoa</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-091/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-091/</guid>
+      <description>Referências Araújo, Ricardo Ferreira de. “Arquitetura residencial em João Pessoa-PB a experiência moderna nos anos 1970”. Dissertação (Mestrado) - UFRN, Natal, 2010. Costa, Pautilia. “Arquitetura Moderna Residencial nas Praias de João Pessoa”. Monografia (Trabalho de Conclusão de Graduação). UFPB, João Pessoa, 2008. Costa, Roberta Xavier da. “Casas modernas na orla marítima de João Pessoa 1960 a 1974”. Dissertação (Mestrado) - UFRN, Natal, 2011. Costa, Surama Batista Vieira da. “Rotinizando o moderno: arquitetura residencial para a classe média em João Pessoa nos anos 1960”.</description>
+    </item>
     <item>
       <title>Destruição e descaracterização da Arquitetura Moderna em São José dos Campos</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-026/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-026/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-026/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-026/</guid>
       <description>Referências CHOAY, Françoise. Alegoria do Patrimônio. São Paulo, Editora Unesp, 2001. COMPHAC. Atas de Reunião. Disponível em: &amp;lt;http://www.fccr.org.br&amp;gt; Acesso em 10/04/2005. IPHAN. Cartas patrimoniais. Cadernos de Documentos nº 03 (1995). Brasília: Minc/Iphan. PENEDO, Alexandre. Arquitetura Moderna em São José dos Campos. São José dos Campos, 1997. TOLEDO, Benedito Lima. “Dar Futuro ao Passado”. Jornal Estado de São Paulo, São Paulo, 30/07/2001. </description>
     </item>
   </channel>

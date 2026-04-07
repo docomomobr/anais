@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neutro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/neutro/</link>
+    <link>http://localhost:1313/palavras-chave/neutro/</link>
     <description>Recent content in Neutro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/neutro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/neutro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A marquise do Parque Ibirapuera e a materialização do conceito do entre</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-027/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-027/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-027/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-027/</guid>
       <description>Referências BERLIM, Isaiah. Estudos sobre a Humanidade - Uma Antologia de Ensaios (The Proper study of Mankind – An Anthology of Essays). São Paulo: Companhia das Letras, 2002. DERRIDA, Jacques. Gramatologia (De la Gramatologie). São Paulo: Perspectiva, 1973. DERRIDA, Jacques. Khôra. Paris: Éditions Galillée, 1993. DERRIDA, Jacques. Margens da filosofia (Marges de la philosophie). Campinas: Papirus, 1991. DERRIDA, Jacques, BERGSTEIN, Lena. Enlouquecer o Subjétil (Forcener le Subjectile). São Paulo: UNESP, 1998.</description>
     </item>
   </channel>

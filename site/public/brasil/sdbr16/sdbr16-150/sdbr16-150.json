@@ -1,0 +1,29 @@
+{
+  "id": "sdbr16-150",
+  "type": "paper-conference",
+  "title": "Revista Acrópole: visualização de dados e historiografia",
+  "container-title": "O Futuro do Passado: Arquitetura Moderna Viva e Urbana",
+  "event-title": "16º Seminário Docomomo Brasil",
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "language": "pt-BR",
+  "author": [
+    {
+      "family": "Turchi",
+      "given": "Thiago Pacheco",
+      "ORCID": "https://orcid.org/0000-0002-6712-3318"
+    }
+  ],
+  "event-place": "Porto Alegre",
+  "publisher-place": "Porto Alegre",
+  "DOI": "10.5281/zenodo.19434427",
+  "ISBN": "978-65-993024-6-6",
+  "URL": "https://anais.docomomobrasil.com/brasil/sdbr16/sdbr16-150/",
+  "abstract": "A revista Acrópole é uma fonte consolidada na historiografia brasileira. Esta pesquisa se insere no campo da arquitetura e das Humanidades Digitais, construindo uma estratégia metodológica para coletar, organizar, visualizar e analisar conteúdos de publicações especializadas. A revista Acrópole, publicação mensal que circulou entre 1938 e 1971, foi objeto de estudo tanto por sua importância na formação do campo quanto pelo volume de dados em suas 23.000 páginas. Sua digitalização em 2014 pela FAUUSP contribuiu para a escolha como objeto de pesquisa tecnológica. Como recorte, a pesquisa definiu o Recorte Corona — 24 edições selecionadas — permitindo indexação minuciosa. Assim, é possível somar as formas habituais de leitura com um sistema tecnológico digital integrado. Construiu-se uma plataforma que integra um banco de dados relacional com uma interface gráfica dinâmica de análise do conteúdo: os dashboards. Estes dashboards não são vistas estáticas, mas uma ferramenta analítica central. Esta ferramenta permite identificar padrões, correlações e anomalias que poderiam permanecer ocultas. Os 17 dashboards interativos consolidados em quatro eixos temáticos são: 1) Revista Acrópole; 2) Obras; 3) Pessoas e 4) Publicações conexas. Cada dashboard funciona como instrumento de pesquisa. Visualizações georreferenciadas revelam a concentração espacial de obras no eixo São Paulo/Rio. Gráficos de rede expõem constelações colaborativas. Análises temporais demonstram a predominância do uso residencial (50%) e picos de obras institucionais nos anos 1960 (construção de Brasília). A interatividade desses dashboards é outra contribuição do uso de tecnologias para pesquisas em historiografia da arquitetura. Os dashboards abrem caminhos para pesquisas específicas. A plataforma serve como modelo replicável. Com estas abordagens, a revista Acrópole confirma seu valor como fonte primária e se revela como plataforma para explorar dimensões não textuais da produção arquitetônica.",
+  "keyword": "Revista Acrópole, Humanidades Digitais, Visualização de Dados"
+}

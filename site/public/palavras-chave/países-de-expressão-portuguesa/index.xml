@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Países de Expressão Portuguesa on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/pa%C3%ADses-de-express%C3%A3o-portuguesa/</link>
+    <link>http://localhost:1313/palavras-chave/pa%C3%ADses-de-express%C3%A3o-portuguesa/</link>
     <description>Recent content in Países de Expressão Portuguesa on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/pa%C3%ADses-de-express%C3%A3o-portuguesa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/pa%C3%ADses-de-express%C3%A3o-portuguesa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A casa transoceânica</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-063/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-063/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-063/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-063/</guid>
       <description>Referências ALBUQUERQUE, António Manuel da Silva e Souza. Arquitectura Moderna em Moçambique, inquérito à produção arquitectónica em Moçambique nos últimos vinte e cinco anos do império colonial português 1949-1974, Coimbra Prova Final, Departamento de Arquitectura FCTUC, 1998 BONDUKI, Nabil, “Origens da Habitação Social no Brasil. arquitetura Moderna, lei do Inquilato e Difusão da casa Própria”, 4ª edição, São Paulo, Estação Liberdade, 2004. COSTA, Lúcio. “Registo de uma Vivência”, Fundação Banco do Brasil.</description>
     </item>
   </channel>

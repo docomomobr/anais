@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faúndez, María de la Paz on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/fa%C3%BAndez-mar%C3%ADa-de-la-paz/</link>
+    <link>http://localhost:1313/autores/fa%C3%BAndez-mar%C3%ADa-de-la-paz/</link>
     <description>Recent content in Faúndez, María de la Paz on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/fa%C3%BAndez-mar%C3%ADa-de-la-paz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/fa%C3%BAndez-mar%C3%ADa-de-la-paz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El sistema de la arquitectura moderna y la imagen de una ciudad</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-039/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-039/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-039/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-039/</guid>
       <description>Referências BENTON, Tim. Le Corbusier y la promenade architectural. Revista Arquitectura, Madrid n.264-265, p.38-47, ene-abr 1987. COMAS, Carlos Eduardo. Pintura abstracta, escultura transparente, arquitectura moderna,construcción porosa: notas sobre el tráfico entre las artes visuales en el siglo XX. In: VII Forum Brasilia de Artes Visuales Etapa B. Arte y Arquitectura, Balance y nuevas direcciones. Editora UnB, Brasília, 2010. p. 17-32 HITCHCOCK, Henry-Russel, JOHNSON, Philip. El estilo internacional. Colegio de Aparejadores de Murcia.</description>
     </item>
   </channel>

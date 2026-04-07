@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliveira, Camille Vieira Ribeiro de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/oliveira-camille-vieira-ribeiro-de/</link>
+    <link>http://localhost:1313/autores/oliveira-camille-vieira-ribeiro-de/</link>
     <description>Recent content in Oliveira, Camille Vieira Ribeiro de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/oliveira-camille-vieira-ribeiro-de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/oliveira-camille-vieira-ribeiro-de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O papel das fotografias na cobertura do Congresso Internacional Extraordinário de 1959</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp08/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-vp08/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp08/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-vp08/</guid>
       <description></description>
     </item>
   </channel>

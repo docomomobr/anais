@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>São Paulo Centro on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/s%C3%A3o-paulo-centro/</link>
+    <link>http://localhost:1313/palavras-chave/s%C3%A3o-paulo-centro/</link>
     <description>Recent content in São Paulo Centro on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/s%C3%A3o-paulo-centro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/s%C3%A3o-paulo-centro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potentials for Surgical Urbanism</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-057/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-057/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-057/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-057/</guid>
       <description>Referências ANDREOLI, Elisabetta; FORTY, Adrian. Brazil&amp;rsquo;s Modern Architecture. London, Phaidon, 2004. ASKAN, Esra. Reading the Generic City: Retroactive Manifestos for Global Cities of the Twenty-first Century. Perspecta Yale Architectural Journal, n. 41, 2008, p. 144-152. AWAN, Nishat; SCHNEIDER, Tatjana; TILL, Jeremy. Spatial Agency: Other Ways of Doing Architecture. Abingdon, Routledge, 2011. CAVALCANTI, Lauro. When Brazil Was Modern: Guide to Architecture, 1928-1960. New York, Princeton Architectural Press, 2003. SOLA-MORALES, Ignasi de. Terrain Vague: Interstices At the Edge of the Pale.</description>
     </item>
   </channel>

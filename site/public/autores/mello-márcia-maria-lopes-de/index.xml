@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mello, Márcia Maria Lopes de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/mello-m%C3%A1rcia-maria-lopes-de/</link>
+    <link>http://localhost:1313/autores/mello-m%C3%A1rcia-maria-lopes-de/</link>
     <description>Recent content in Mello, Márcia Maria Lopes de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/mello-m%C3%A1rcia-maria-lopes-de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/mello-m%C3%A1rcia-maria-lopes-de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infraestrutura moderna em Miami Beach</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-162/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-162/</guid>
+      <description>Referências Cohen, Lizabeth. A Consumer’s Republic: The Politics of Mass Consumption in Postwar America. Nova York: Knopf, 2003. Cook, John W. “Morris Lapidus: Architecture as Intentional Nonsense.” Trabalho departamental, Department of History of Art, Yale University, New Haven, [1970?]. Cook, J. W., e Heinrich Klotz. Conversations with Architects: Philip Johnson, Kevin Roche, Paul Rudolph, Bertrand Goldberg, Morris Lapidus, Louis Kahn, Charles Moore, Robert Venturi &amp;amp; Denise Scott Brown. 2ª ed. Nova York: Praeger, 1973.</description>
+    </item>
     <item>
       <title>Miami-Dade Junior College North and South Campuses</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-057/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-057/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-057/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-057/</guid>
       <description>Referências Ackerman, James S. “Introduction: The Conventions and Rhetoric of Architecture Drawing.” 8-36 &amp;lt;http://www.andrew.cmu.edu/course/48-125/IDM2/READINGS_files/ackerman.pdf&amp;gt; Banham, Reyner. The New Brutalism: Ethic or Aesthetic? New York: Reinhold Publishing Corporation, 1966. Banham, Reyner. “The New Brutalism.” The Architecture Review 118. December 1955, 358-361. Candela, Hilario. &amp;ldquo;On Building a Firm.&amp;rdquo; In At Spillis Candela and Partners, 6-9. New York: Edizioni Press, 2001. Estorino, Julio. Interview with Hilario Candela. Luis J. Botifoll Oral History Project of the Cuban Heritage Collection, University of Miami Libraries.</description>
     </item>
   </channel>

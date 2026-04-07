@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dias, Isadora Ruiz on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/dias-isadora-ruiz/</link>
+    <link>http://localhost:1313/autores/dias-isadora-ruiz/</link>
     <description>Recent content in Dias, Isadora Ruiz on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/dias-isadora-ruiz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/dias-isadora-ruiz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A presença carioca na arquitetura moderna paranaense</title>
-      <link>https://anais.docomomobrasil.com/sul/sdpr01/sdpr01-016/</link>
+      <link>http://localhost:1313/sul/sdpr01/sdpr01-016/</link>
       <pubDate>Thu, 17 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdpr01/sdpr01-016/</guid>
+      <guid>http://localhost:1313/sul/sdpr01/sdpr01-016/</guid>
       <description>Referências BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981. CASA de LUCIO COSTA, disponível em &amp;lt;http://www.casadeluciocosta.org/&amp;gt; &amp;gt; acessada em 21 de abril de 2006. COMAS, Carlos Eduardo. Arquitetura Moderna, estilo Corbu, Pavilão Brasileiro. AU 26. São Paulo, 1989. COMAS, Carlos Eduardo. Protótipo, Monumento, um Ministério, o Ministério. Projeto 102. São Paulo, 1987. COSTA, Lucio. Lucio Costa: registro de uma vivência. São Paulo: Empresa das Artes, 1995. FRAMPTON, Kenneth. História crítica da arquitetura moderna.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conjunto Habitacional Itararé on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/conjunto-habitacional-itarar%C3%A9/</link>
+    <link>http://localhost:1313/palavras-chave/conjunto-habitacional-itarar%C3%A9/</link>
     <description>Recent content in Conjunto Habitacional Itararé on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/conjunto-habitacional-itarar%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/conjunto-habitacional-itarar%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conjunto Itararé</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/33/</link>
+      <link>http://localhost:1313/nne/sdnne06/33/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/33/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/33/</guid>
       <description>Referências AFONSO, Alcília. As políticas públicas estaduais de habitação de interesse social em Teresina: A atuação da ADH. Porto Alegre: Congresso Internacional Sustentabilidade e Habitação de Interesse Social. 2010. AFONSO, Alcília. Habitação de interesse social em Teresina: algumas reflexões. Recife: Anais do 19º. Congresso Brasileiro de arquitetura. 2010. AFONSO, A. (Orient.); TAVARES, I. Itararé: a república dos desvalidos? - Estudo Arquitetônico sobre o conjunto habitacional Dirceu Arcoverde 1 e 2. Teresina, 2011.</description>
     </item>
   </channel>

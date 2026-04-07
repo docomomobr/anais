@@ -134,7 +134,7 @@ Regras completas em [`docs/regras_dados.md`](docs/regras_dados.md).
 
 ### Revisão de metadados (pipeline_revisao.md)
 
-- [x] **16 nacionais** (sdbr01-16): 1774 artigos revisados
+- [x] **16 nacionais** (sdbr01-16): 1778 artigos revisados
 - [x] **8 Sul** (sdsul01-08): 326 artigos revisados
 - [x] **2 Paraná** (sdpr01-02): 45 artigos revisados
 - [x] **1 Minas** (sdmg01): 26 artigos revisados

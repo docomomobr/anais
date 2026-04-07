@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edifícios religiosos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcios-religiosos/</link>
+    <link>http://localhost:1313/palavras-chave/edif%C3%ADcios-religiosos/</link>
     <description>Recent content in Edifícios religiosos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/edif%C3%ADcios-religiosos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/edif%C3%ADcios-religiosos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abadia Santa Maria, Hans Broos</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-038/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-038/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-038/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-038/</guid>
       <description>Referências BASTOS, Maria Alice Junqueira. Pós-Brasília: rumos da arquitetura brasileira. São Paulo: Perspectiva, 2003. BANHAM, Reyner. El Brutalismo en Arquitectura: Ética ou Estética? Barcelona: Ed. Gustavo Gili, 1966. MONTANER, Josep Maria. Depois do Movimento Moderno: arquitetura da segunda metade do século XX. Barcelona: Ed. Gustavo Gili, 2001. NORBERG-SCHULZ, Christian. El Significado en la arquitectura occidental. Vol. 6. Buenos Aires: Summa, 1979. ZEIN, Ruth Verde. O lugar da crítica: ensaios oportunos de arquitetura.</description>
     </item>
   </channel>

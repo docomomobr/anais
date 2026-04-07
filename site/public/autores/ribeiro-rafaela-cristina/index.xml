@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ribeiro, Rafaela Cristina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/ribeiro-rafaela-cristina/</link>
+    <link>http://localhost:1313/autores/ribeiro-rafaela-cristina/</link>
     <description>Recent content in Ribeiro, Rafaela Cristina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/ribeiro-rafaela-cristina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/ribeiro-rafaela-cristina/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Destruição e descaracterização da Arquitetura Moderna em São José dos Campos</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-026/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-026/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-026/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-026/</guid>
       <description>Referências CHOAY, Françoise. Alegoria do Patrimônio. São Paulo, Editora Unesp, 2001. COMPHAC. Atas de Reunião. Disponível em: &amp;lt;http://www.fccr.org.br&amp;gt; Acesso em 10/04/2005. IPHAN. Cartas patrimoniais. Cadernos de Documentos nº 03 (1995). Brasília: Minc/Iphan. PENEDO, Alexandre. Arquitetura Moderna em São José dos Campos. São José dos Campos, 1997. TOLEDO, Benedito Lima. “Dar Futuro ao Passado”. Jornal Estado de São Paulo, São Paulo, 30/07/2001. </description>
     </item>
   </channel>

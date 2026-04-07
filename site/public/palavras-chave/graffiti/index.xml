@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graffiti on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/graffiti/</link>
+    <link>http://localhost:1313/palavras-chave/graffiti/</link>
     <description>Recent content in graffiti on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/graffiti/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/graffiti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A abordagem do programa social na Arte Moderna e o exemplo contemporâneo da arte popular nas diversas formas de apropriação do graffiti</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-064/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-064/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-064/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-064/</guid>
       <description>Referências AMARAL, Aracy A. “Arte Pra quê?A preocupação social na arte brasileira, 1930-1970: subsídio para uma história social na arte do Brasil”. São Paulo: Nobel, 1987. ARANTES, Otília B. Fiori.“O lugar da arquitetura depois dos modernos”. São Paulo: Nobel/EDUSP, 1993. ARTIGAS, João Batista Vilanova. “Caminhos da arquitetura”. São Paulo: Fundação Vilanova Artigas/Pini, 1986, 2ª. Ed.. Apud MORAES, Eduardo Jardim de. “A Brasilidade modernista. Sua dimensão filosófica”. Rio de Janeiro: Graal, 1978.</description>
     </item>
   </channel>

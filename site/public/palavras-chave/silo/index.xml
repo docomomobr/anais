@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>silo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/silo/</link>
+    <link>http://localhost:1313/palavras-chave/silo/</link>
     <description>Recent content in silo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/silo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/silo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Um silo de Artigas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-111/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-111/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-111/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-111/</guid>
       <description>Referências ARTIGAS, Rosa. Vilanova Artigas. São Paulo: Terceiro Nome, 2015 ARTIGAS, Vilanova. Caminhos da Arquitetura. São Paulo: Cosac &amp;amp; Naify, 2004. BANHAM, Reyner, 1960 – Stocktaking of the Impact of Traditions and Technology on Architecture Today. Architectural Review, fev.1960, pp.93-100. BANHAM. Teoria e Projeto na Primeira Era da Máquina. São Paulo: Perspectiva, 1975. BUZZAR, Miguel Antônio; CORDIDO, Maria Tereza Regina Leme de Barros; CAMARGO, Mônica Junqueira de. Os significados da mudança de paradigma arquitetônico advindo com o Plano de Ação do Governo de Estado/SP (PAGE) na Gestão Carvalho Pinto (1959-1963).</description>
     </item>
   </channel>

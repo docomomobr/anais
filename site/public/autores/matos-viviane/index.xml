@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matos, Viviane on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/matos-viviane/</link>
+    <link>http://localhost:1313/autores/matos-viviane/</link>
     <description>Recent content in Matos, Viviane on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/matos-viviane/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/matos-viviane/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Irmãos Roberto e as fachadas dos edifícios residenciais</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj03/sdrj03-004/</link>
+      <link>http://localhost:1313/se/sdrj03/sdrj03-004/</link>
       <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj03/sdrj03-004/</guid>
+      <guid>http://localhost:1313/se/sdrj03/sdrj03-004/</guid>
       <description></description>
     </item>
   </channel>

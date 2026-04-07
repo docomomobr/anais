@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ceruti, Luiza Loivos de Azevedo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/ceruti-luiza-loivos-de-azevedo/</link>
+    <link>http://localhost:1313/autores/ceruti-luiza-loivos-de-azevedo/</link>
     <description>Recent content in Ceruti, Luiza Loivos de Azevedo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/ceruti-luiza-loivos-de-azevedo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/ceruti-luiza-loivos-de-azevedo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dentro do bloco</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-276/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-276/</guid>
+      <description>Referências Elefante, Carl. “The Greenest Building Is… One That Is Already Built”, Forum Journal: The Journal of the National Trust for Historic Preservation 21, nº 4 (2007): 26-27. Ficher, Sylvia et al. Os blocos residenciais das superquadras do Plano Piloto de Brasília. Em Brasília 1960 2010: passado, presente e futuro, organizado por Francisco Leitão, 255-269. Brasília: Seduma, 2009. Costa, Lúcio “Brasília Revisitada”, Diário Oficial do DF 201 (1987). Pacheco, Marília, Superquadra: pensamento e prática urbanística (Dissertação de Mestrado, Universidade de Brasília, 2007).</description>
+    </item>
     <item>
       <title>O bloco como patrimônio</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-025/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-025/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-025/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-025/</guid>
       <description>Referências AMORIM, Cláudia Naves; FLORES, Alice Leite. Edifícios residenciais das superquadras do Plano Piloto, Brasília: aspectos de preservação e conforto ambiental. Encontro Nacional sobre conforto no ambiente Construído, v. 8, p. 37-46, 2005. BENEVOLO, Leonardo. História da Arquitetura Moderna. 2ª reimpressão da 5ª edição. São Paulo: Editora Perspectiva, 2016. BENEVOLO, Leonardo. A cidade Moderna. In: História da Cidade. 1ª reimpressão da 6ª Edição. São Paulo: Editora Perspectiva, 2017, p. 615 – 656.</description>
     </item>
   </channel>

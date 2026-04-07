@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acervo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/acervo/</link>
+    <link>http://localhost:1313/palavras-chave/acervo/</link>
     <description>Recent content in Acervo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/acervo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/acervo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapeando a arquitetura de Brasília</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-143/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-143/</guid>
+      <description>Referências Alves, Samara Neta. “A construtora Rabello e a pré-fabricação na implantação de Brasília: 1960-1970.” Tese de Doutorado, Programa de Pós-Graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília – PPG-FAU/UnB, 2024. Brandão, Claudio Roberto Comas. “Com quantos arcos se faz um palácio? Arquitetura do Itamaraty em processo.” Tese de Doutorado, Programa de Pós-Graduação em Arquitetura, Faculdade de Arquitetura e Urbanismo da Universidade Federal do Rio de Janeiro, 2023.</description>
+    </item>
+    <item>
+      <title>Política de acervo e coleção iconográfica da FAU-USP</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-147/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-147/</guid>
+      <description>Referências BRITO, Gisele Ferreira de. Acervo iconográfico da FAUUSP: desafios e perspectivas. Arquivos, Memórias da Cidade, Historiografias da Arquitetura e do Urbanismo, 2021. CAMARGO, Ana Maria; GOULART, Silvana. Cada coisa em seu lugar: Arquivos, Bibliotecas e Museus. In: Centros de memória: uma proposta de definição. São Paulo: Edições SESC São Paulo, 2015. p. 17-32. CASTRIOTA, Leonardo Barci. Arquitetura e Documentação: Novas perspectivas para a história da arquitetura. 1. ed. São Paulo: AnnaBlume, 2011.</description>
+    </item>
     <item>
       <title>A pesquisa historiográfica como propulsora da discussão sobre a importância dos acervos de concursos públicos de anteprojetos</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-038/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-038/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-038/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-038/</guid>
       <description>Referências BALLENT, A. Para una crítica: Concurso Nacional de Anteproyectos – La Biblioteca Nacional. Revista Materiales. Buenos Aires: n.1, 1982. Bases y Programa del Concurso de Anteproyectos para la Construccion del edifício de la Biblioteca Nacional. Buenos Aires: junho de 1961. Boletín de la Sociedad Central de Arquitectos. Buenos Aires: n. 44, 1962. Concurso de Anteproyectos para la construcción del edificio de la Biblioteca Nacional. Publicación de la Sociedad Central de Arquitectos.</description>
     </item>
     <item>
       <title>Concurso como prática</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-037/</link>
+      <link>http://localhost:1313/se/sdsp08/sdsp08-037/</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp08/sdsp08-037/</guid>
+      <guid>http://localhost:1313/se/sdsp08/sdsp08-037/</guid>
       <description>Referências FILHO, Raimundo Nonato Veloso. Arquitetos Paulistas e os Concursos Nacionais de Arquitetura: 1990 a 2010. Tese (Doutorado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo, Universidade de Brasília, Brasília, 2014. FLYNN, Maria Helena de Moraes Barros. Concursos de Arquitetura no Brasil 1850-2000: sua contribuição ao desenvolvimento da arquitetura. Tese (Doutorado em Arquitetura e Urbanismo), Faculdade de Arquitetura e Urbanismo, Universidade de São Paulo, São Paulo, 2001. JANUÁRIO, Isabella Caroline.</description>
     </item>
     <item>
       <title>Acervo Eduardo Kneese de Mello</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-007/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-007/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-007/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-007/</guid>
       <description>Referências BARTHES, Roland. A câmara clara: nota sobre a fotografia.Tradução Júlio Castañon Guimarães. – [ed. Especial] – Rio de Janeiro: Nova Fronteira, 2015. CAMARGO, Luana Rodrigues de. Eduardo Kneese de Mello e Portugal: O estudo da Arquitetura Mourisca e as influências na Arquitetura Brasileira. 2006. 11f. Artigo para Programa de Iniciação Científica em Arquitetura e Ur- banismo do Centro Universitário Belas Artes de São Paulo. MELLO, Eduardo Kneese de. Joãosinho o Oficibói.</description>
     </item>
     <item>
       <title>A importância da técnica em conservação para a preservação de documentos iconográficos de Arquitetura</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-001/</link>
+      <link>http://localhost:1313/nne/sdnne05/sdnne05-001/</link>
       <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne05/sdnne05-001/</guid>
+      <guid>http://localhost:1313/nne/sdnne05/sdnne05-001/</guid>
       <description>Referências ALVARES, Lílian. Conservação de acervos documentais em papel: breve introdução. Disponível em &amp;lt;http://www.alvarestech.com/lillian/Conservacao/Aula3.pdf&amp;gt; Acesso em: junho de 2014. OLIVEIRA, Patrícia. Ataíde Solon de; SILVA, Clarissa Carvalho e; PINTO, Fernanda Hebster; MELO, Maria Cecília Oliveira; NASLAVSKY, Guilah. Condições de Armazenamento do Patrimônio Iconográfico de Arquitetura em Recife: análise do arquivo da 1ª coordenadoria regional da DIRCON. In: Encontro Internacional Sobre Preservação do Patrimônio Edificado Arquimemória 4, 2013, Bahia. Anais. Bahia: UFBA, 2013.</description>
     </item>
   </channel>

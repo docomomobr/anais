@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cultura vernacular on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/cultura-vernacular/</link>
+    <link>http://localhost:1313/palavras-chave/cultura-vernacular/</link>
     <description>Recent content in cultura vernacular on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/cultura-vernacular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/cultura-vernacular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lina, o sublime e o efêmero</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-022/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-022/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-022/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-022/</guid>
       <description>Referências BARDI, Lina Bo. Contribuição propedêutica ao ensaio da teoria da arquitetura. São Paulo: Instituto Lina Bo Bardi, 2002. BARDI, Lina Bo. Lina Bo Bardi. São Paulo: Empresa das Artes, 1993. COSTA, Lúcio. A alma dos nossos lares. In: Jornal A Noite. Rio de Janeiro, 19 de março de 1924. Citado em SILVA, Maria Angélica, As formas e as palavras na obra de Lúcio Costa, (dissertação de mestrado), Rio de Janeiro: Pontifícia Universidade Católica, 1991, p.</description>
     </item>
   </channel>

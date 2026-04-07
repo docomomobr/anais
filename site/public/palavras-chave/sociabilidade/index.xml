@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sociabilidade on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/sociabilidade/</link>
+    <link>http://localhost:1313/palavras-chave/sociabilidade/</link>
     <description>Recent content in Sociabilidade on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/sociabilidade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/sociabilidade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A casa do povo brasileiro</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-031/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-031/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-031/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-031/</guid>
       <description>Referências ANDRADE, Oswald. Manifesto antropófago, 1928. ARANTES, Otília B. Fiori. “Uma estratégia fatal”. In: ARANTES, O.; VANIER, C.; MARICATO, E. A cidade do pensamento único: desmanchando consen- sos, Petrópolis, RJ: Vozes, 2009. CACCIARI, M.; DAL CO, F.; TAFURI, M. “La crisis de la utopía: Le Corbusier en Argel”. In: De la vanguardia a la metrópoli – Crítica radical a la arquitectu- ra, trad. cast., Barcelona: Gustavo Gili, 1972. BAUMAN, Zygmunt. Modernidade líquida, Rio de Janeiro: Zahar, 2001.</description>
     </item>
     <item>
       <title>Arquitetura, cinema e sociedade</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-032/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-032/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-032/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-032/</guid>
       <description>Referências ANELLI, R. L. S. Arquitetura de cinemas na cidade de São Paulo. 1990. Dis- sertação (Mestrado)-Universidade Estadual de Campinas, São Paulo, 1990. AZEVEDO, Aroldo de. A rede urbana paulista. In: São Paulo. Terra e Povo. São Paulo: Editora Globo, 1966, pág. 65-75. CAMPACCI, Claudio. A História dos Primeiros 120 Anos do Cinema. 1. ed. [S.I.: s.n.], 2014. CONRADO, Bruno Campos; PRADO, Carina Regina Pestana. O crescimento do cinema na cidade de São Paulo: Salas de Centro x Salas de Bairro.</description>
     </item>
   </channel>

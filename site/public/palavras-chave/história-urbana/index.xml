@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>História Urbana on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/hist%C3%B3ria-urbana/</link>
+    <link>http://localhost:1313/palavras-chave/hist%C3%B3ria-urbana/</link>
     <description>Recent content in História Urbana on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/hist%C3%B3ria-urbana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/hist%C3%B3ria-urbana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A contribuição historiográfica e os limites gerenciais do Arquivo Público da Cidade de Aracaju</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-140/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-140/</guid>
+      <description>Referências Boletim Do Arquivo Da Universidade de Coimbra, extra 1, 37–51, 2023. &amp;lt;https://doi.org/10.14195/2182-7974_extra2023_1_2&amp;gt; ARAÚJO, Rozana R. As relações entre as transformações econômicas e o ritmo da produção do espaço urbano. Estudo de caso: Aracaju. 2011. 266 p. Tese (Doutorado em Arquitetura e Urbanismo) – PROPUR, Universidade Federal do Rio Grande do Sul, Porto Alegre. SANTOS, Isabela. Arquitetura Moderna na Aracaju dos anos 40 a 70: Bairros Centrais. 2011. 200 f. Dissertação (Mestrado em Arquitetura e Urbanismo) – FAUUFBA, Universidade Federal da Bahia, Salvador.</description>
+    </item>
     <item>
       <title>Hospital Souza Aguiar</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-106/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-106/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-106/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-106/</guid>
       <description>Referências AGACHE, A. Cidade do Rio de Janeiro: Extensão – Remodelação – Embelezamento. Paris: Foyer Brésilien, 1926-1930. AMORA, A. M. G. A.; SOUZA, E. B. IPPMG: obra exemplar, síntese das artes, de Jorge Machado Moreira. In: Recife: XI Seminário Docomomo. Anais&amp;hellip; Recife: UFPE, 2016. Disponível em: &amp;lt;http://seminario2016.docomomo.org.br&amp;gt; ARCHITECTURAL REVIEW. In search of a new monumentality. Londres: EMAP Ed., set. 1948. BARCELLOS SANTOS, R. A fuga da cidade para o parque: três projetos de Affonso Reidy para a atual área do Corredor Cultural no centro do Rio de Janeiro.</description>
     </item>
     <item>
       <title>Avenida Conselheiro Nébias</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-007/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-007/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-007/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-007/</guid>
       <description>Referências ANDRADE, Carlos Roberto Monteiro. A peste e o plano: o urbanismo sanitarista do engenheiro Saturnino de Brito. 1992. Dissertação (mestrado) – FAU USP, São Paulo. ANDRADE, Carlos Roberto Monteiro. O plano de Saturnino de Brito para Santos e a construção da cidade moderna no Brasil. In: Espaço e Debates, São Paulo: NERU, n. 34, p. 55-63, 1991. ANDRADE, Wilma Therezinha Fernandes de. O discurso do progresso: a evolução urbana de Santos, 1870-1930.</description>
     </item>
     <item>
       <title>Grande Hotel de Natal</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-018/</link>
+      <link>http://localhost:1313/nne/sdnne01/sdnne01-018/</link>
       <pubDate>Mon, 08 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne01/sdnne01-018/</guid>
+      <guid>http://localhost:1313/nne/sdnne01/sdnne01-018/</guid>
       <description>Referências A REPÚBLICA. Natal, 2 de julho de 1935. BENTES, Maria Dulce P. Sobrinha e VELOSO, Maísa. Do grande hotel aos palaces &amp;amp; resorts: os empreendimentos hoteleiros na transformação da estrutura e da paisagem urbanas de Natal/RN (1940-2000). VIII Seminário de História e Urbanismo. Salvador: FAUFBA/ UFBA, 2002. CD-ROM. DANTAS, Ana Caroline C. L. et al. A paisagem criada pelo saneamento: propostas arquitetônicas par a Natal dos anos 30. (XVII Congresso Brasileiro de Arquitetos).</description>
     </item>
   </channel>

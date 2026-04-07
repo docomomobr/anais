@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reis, Márcia Silva dos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/reis-m%C3%A1rcia-silva-dos/</link>
+    <link>http://localhost:1313/autores/reis-m%C3%A1rcia-silva-dos/</link>
     <description>Recent content in Reis, Márcia Silva dos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/reis-m%C3%A1rcia-silva-dos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/reis-m%C3%A1rcia-silva-dos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Os edifícios-sedes da Petrobrás em Salvador</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-038/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-038/</guid>
+      <description>Referências Barone, Ana Cláudia. Team 10, arquitetura como crítica. São Paulo: Annablume, 2002. Bastos, Maria Alice Junqueira. Arquitetura Contemporânea Brasileira após Brasília. Dissertação de Mestrado, FAUUSP, 1999. Bruand, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1999. Ceniquel, Mário. A Prática Arquitetônica como Forma de Elaboração de Uma Crítica Arquitetônica. Dissertação de Mestrado, FAU USP, 1990. Correio da Manhã, Sede da PETROBRÁS, 1965. Gandolfi, José Maria. Acervo do Arquiteto: pranchas originais do projeto da Fase II/ concurso PETROBRÁS.</description>
+    </item>
     <item>
       <title>A casa e seus setores na Arquitetura Moderna Brasileira</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-137/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-137/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-137/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-137/</guid>
       <description>Referências AMORIM, Luiz Manuel do Eirado. The Sectors’ Paradigm: a study of the spatial and functional nature of modernist housing in Northeast Brazil. Tese de Doutorado, 1999. ANDRADE, Nivaldo Vieira. Arquitetura moderna na Bahia, 1947-1951: uma história a contrapelo. Salvador / Nivaldo Vieira de Andrade Junior, 2012. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981. BRUNA, Paulo: Os primeiros arquitetos modernos, habitação social no Brasil, Ed. USP. São Paulo, 2010.</description>
     </item>
     <item>
       <title>Influência Brutalista na obra do arquiteto Assis Reis</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-050/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-050/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-050/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-050/</guid>
       <description>Referências Acayaba, M. Brutalismo caboclo, as residências paulistas. Projeto, São Paulo, n. 73, p. 46-48, mar. 1985. . Reflexões sobre o brutalismo caboclo. Projeto, São Paulo, n. 86, p. 68-70, abr. 1986. Anelli, R. L. S. Architettura contemporanea: Brasile. Milão: 24 Ore Motta Cultura, 2008. AAR - Arquivo Assis Reis. Banham, R. The New Brutalism.The Architectural Review, Londres, dez. 1955, v.118, n.708, p. 354-361. . El brutalismo enarquitectura ¿ética o estética?</description>
     </item>
     <item>
       <title>Conservação da Arquitetura Moderna</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-037/</link>
+      <link>http://localhost:1313/nne/sdnne03/sdnne03-037/</link>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-037/</guid>
+      <guid>http://localhost:1313/nne/sdnne03/sdnne03-037/</guid>
       <description>Referências RUSSO, Mario (1956). Cidade Universitária do Recife. Acrópole, n.213, jun. p. 351. AMORIM, Luiz. Obituário Arquitetônico: Pernambuco modernista. Recife, 2007 AMORIM, L., BRASILEIRO, C., LUDERMIR, R, Da conservação do espaço da arquitetura: o caso do Instituto de Antibióticos. In: 8º Seminário DOCOMOMO Brasil, 2009, Rio de Janeiro. Anais do 8º Seminário DOCOMOMO Brasil. Rio de Janeiro: DOCOMOMO-RIO, 2009. AMORIM, L., LOUREIRO, C., 2005, On the Spatial Dimension of Modern Architecture as an Object of Conservation, Proceedings, International Seminar on the Management of the Shared Mediterranean Heritage.</description>
     </item>
   </channel>

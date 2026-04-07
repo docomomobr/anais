@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hangar on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/hangar/</link>
+    <link>http://localhost:1313/palavras-chave/hangar/</link>
     <description>Recent content in hangar on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/hangar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/hangar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hangar para o Aeroporto Nacional de Buenos Aires</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-028/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-028/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-028/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-028/</guid>
       <description>Referências ALLEMANDI, Umberto. La concezione strutturale: Ingegnaria e architettura in Italia negli anni cinquanta e sessanta. Torino. ARGAN, Giulio Carlo. Pier Luigi Nervi. Buenos Aires, 1992. BIANCHINO, Gloria. COSTI, Dario. Cantieri Nervi: La costruzione di una identitá. Parma, 2012. CASTELLI, Francesca Romana; MONACO, Anna Irene Del. Pier Luigi Nervi e l&amp;rsquo;architettura strutturale. Roma, 2011. CHAMALES, Christopher John. Works of Pier Luigi Nervi. Chicago, 1988. GIOVANNARDI, Fausto. I Sombrillas di Amancio Williams.</description>
     </item>
   </channel>

@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Campus on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/campus/</link>
+    <link>http://localhost:1313/palavras-chave/campus/</link>
     <description>Recent content in Campus on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/campus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/campus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camadas e significados na patrimonialização do campus Butantã da Universidade de São Paulo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-113/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-113/</guid>
+      <description>Referências Contier, Felipe; Regino, Aline. “Crusp e FAU: experiências de construção na Cidade Universitária de São Paulo.” Em Atas do 4º Congresso Internacional da Construção Luso-Brasileira, 997–1007. Guimarães: Universidade do Minho, 2023. Fernandes, Gabriel. “Lacunas e destaques na patrimonialização da arquitetura moderna na Universidade de São Paulo: O caso dos edifícios tombados em 2018 pelo Conselho Municipal de Preservação de São Paulo”. Em Anais do 13º Seminário do Docomomo BR. Salvador: UFBA, 2019.</description>
+    </item>
     <item>
       <title>UNICAMP</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-019/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-019/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-019/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-019/</guid>
       <description>Referências ALMEIDA, Jaime Gonçalves de. Campus do Milagre: contribuição à análise de propostas arquitetônicas aos campi universitários implan- tados na década de 1970, tendo em vista a autonomia da instituição e a organização espacial. Orientador Simos Yannas. Dissertação de mestrado. Brasília, UnB, 1983. ATCON, Rudolph Philippi. Manual sobre o planejamento integral do campus universitário. Florianópolis, Editora UFSC, 1970. ATCON, Rudolph Philippi. Rumo à reformulação estrutural da universidade brasi- leira. Rio de Janeiro, MEC/Diretoria do Ensino Superior, 1966.</description>
     </item>
     <item>
       <title>A praça, os pedestres e os automóveis</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-095/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-095/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-095/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-095/</guid>
       <description>Referências ALBERTO, Klaus Chaves. Três projetos para uma cidade universitária do Brasil. 2003. Dissertação (Mestrado em Urbanismo) – Programa de Pós-graduação em Urbanismo, Universidade Federal do Rio de Janeiro, 2003. ALBERTO, Klaus Chaves. A pré-fabricação e outros temas projetuais para campi universitários na década de 1960: o caso da UnB. Risco, São Carlos, n. 10, p.80-90, 2º. Sem, 2009. CABRAL, Neyde A. Joppert. A Universidade de São Paulo: Modelos e Projetos.</description>
     </item>
     <item>
       <title>O campus da Praia Vermelha da Universidade Federal Fluminense</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-171/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-171/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-171/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-171/</guid>
       <description>Referências ALBERTO, Klaus Chaves, - Formalizando o Ensino Superior na Década de 1960:a cidade da UnB e seu projeto urbanistico trabalho de Doutorado do Programa de Pós-Graduação em Urbanismo da UFRJ. R.J., 2008. AZEVEDO, Marlice Nazareth Soares de Azevedo, Apoio Acadêmico, MELLO, Estefânia Neiva, BENEDICTO, Danielle Barros e LEAL JUNIOR, Sílvio Roberto. A presença dos princípios do Urbanismo Modernista nos projetos dos Campi. Um estudo de caso, IV Seminário DOCOMOMO BRASIL, Viçosa/MG, 2001 BARROS, Evandro Vieira de – coordenador – Escola de Engenharia da UFF: meio século de historia (1952/2002), UFF/Escola de Engenharia, 2002.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Levisman, Martha on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/levisman-martha/</link>
+    <link>http://localhost:1313/autores/levisman-martha/</link>
     <description>Recent content in Levisman, Martha on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/levisman-martha/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/levisman-martha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;Cristalplano&#34; un pabellón de Antonio Bonet</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-009/</link>
+      <link>http://localhost:1313/sul/sdsul01/sdsul01-009/</link>
       <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-009/</guid>
+      <guid>http://localhost:1313/sul/sdsul01/sdsul01-009/</guid>
       <description></description>
     </item>
   </channel>

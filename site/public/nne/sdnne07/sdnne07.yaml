@@ -492,7 +492,7 @@
   language: pt-BR
   author:
   - family: Pflueger
-    given: Grete Soares
+    given: Grete Soares -
     ORCID: https://orcid.org/0000-0002-9376-8689
   - family: Furtado
     given: Livia
@@ -692,7 +692,7 @@
     given: Ágatha
     ORCID: https://orcid.org/0000-0002-1362-5240
   - family: Pflueger
-    given: Grete Soares
+    given: Grete Soares -
     ORCID: https://orcid.org/0000-0002-9376-8689
   - family: Mota
     given: Larissa de Miranda Teixeira
@@ -985,7 +985,7 @@
     given: Victor Martins
     ORCID: https://orcid.org/0000-0002-4788-1437
   - family: Pflueger
-    given: Grete Soares
+    given: Grete Soares -
     ORCID: https://orcid.org/0000-0002-9376-8689
   event-place: Manaus, AM
   publisher-place: Manaus, AM
@@ -1315,8 +1315,8 @@
     - - 2018
   language: pt-BR
   author:
-  - family: Espinoza
-    given: José Carlos Huapaya
+  - family: Huapaya Espinoza
+    given: José Carlos
     ORCID: https://orcid.org/0000-0001-6776-8821
   - family: Pessoa
     given: Thiscianne Moraes

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Izaga, Fabiana Geneoso on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/de-izaga-fabiana-geneoso/</link>
+    <link>http://localhost:1313/autores/de-izaga-fabiana-geneoso/</link>
     <description>Recent content in De Izaga, Fabiana Geneoso on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/de-izaga-fabiana-geneoso/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/de-izaga-fabiana-geneoso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Os Irmãos Roberto</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-030/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-030/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-030/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-030/</guid>
       <description>Referências ABREU, Mauricio de. A Evolução Urbana do Rio de Janeiro. Rio de Janeiro: Iplanrio / Zahar, 1997. BRITO, Alfredo. M.M. Roberto. In: Revista Arquitetura e Urbanismo no 52. São Paulo: Editora Pini, 1994. COSTA, Lúcio. Sobre Arquitetura-1o volume. Porto Alegre: Centro dos Estudantes Universitários, 1962. DECKKER, Zilah Quezado. Brazil Built. The Architecture of the Modern Movement in Brazil. London: Spon Press, 2001. KAMITA, João Masao. Experiência Construtiva e Ética Construtiva.</description>
     </item>
   </channel>

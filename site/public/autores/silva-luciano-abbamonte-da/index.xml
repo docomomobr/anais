@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silva, Luciano Abbamonte da on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/silva-luciano-abbamonte-da/</link>
+    <link>http://localhost:1313/autores/silva-luciano-abbamonte-da/</link>
     <description>Recent content in Silva, Luciano Abbamonte da on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/silva-luciano-abbamonte-da/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/silva-luciano-abbamonte-da/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do projeto ao concreto</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-053/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-053/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-053/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-053/</guid>
       <description>Referências BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo. Perspectiva, 2010. LA CORTE, C. Estádios brasileiros de futebol: uma análise de de- sempenho técnico, funcional e de gestão. Orientador João Roberto Leme Simões. Tese de doutorado. São Paulo, FAU USP, 2007. FÉDÉRATION INTERNATIONALE DE FOOTBALL ASSOCIATION. FIFA. Football Stadiums. Technical Recommendations and Require- ments. Zurique, FIFA, 2011. LÉVI-STRAUSS, Claude. Tristes trópicos. São Paulo. Cia das Le- tras, 1996. MEDRANO, Leandro; RECAMÁN, Luiz.</description>
     </item>
     <item>
       <title>Cine Rex</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/64/</link>
+      <link>http://localhost:1313/nne/sdnne06/64/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/64/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/64/</guid>
       <description></description>
     </item>
     <item>
       <title>Instituto Nacional de Previdência Social (INPS)</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/70/</link>
+      <link>http://localhost:1313/nne/sdnne06/70/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/70/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/70/</guid>
       <description></description>
     </item>
   </channel>

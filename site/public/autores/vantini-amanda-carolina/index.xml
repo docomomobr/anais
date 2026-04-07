@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vantini, Amanda Carolina on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/vantini-amanda-carolina/</link>
+    <link>http://localhost:1313/autores/vantini-amanda-carolina/</link>
     <description>Recent content in Vantini, Amanda Carolina on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/vantini-amanda-carolina/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/vantini-amanda-carolina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prática a dois na Arquitetura Moderna paulista</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-081/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-081/</guid>
+      <description>Referências ACAYABA, Marlene Milan. Residências Paulistas 1947-1975. São Paulo, Projeto, 1987. BARON, Cristina Maria Perissinotto; FIORIN, Evandro (org.). 100 anos Presidente Prudente: Arquitetura e Urbanismo. Bauru SP: Canal 6, 2017. SANVITTO, Maria Luiza Adams. Brutalismo Paulista: Uma Análise Compositiva de Residências Paulistanas entre 1957 e 1972. Orientador: Edson da Cunha Mahfuz. Dissertação (Mestrado). Faculdade de Arquitetura, Universidade Federal do Rio Grande do Sul, Porto Alegre, 1994. ESTÚDIO SALA. Casa dos Pessegueiros.</description>
+    </item>
     <item>
       <title>Arquitetura Moderna no interior paulista</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-024/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-024/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-024/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-024/</guid>
       <description>Referências ALMEIDA, Natalia Santos de. BRUTALISMO NO INTERIOR PAULISTA: momento histórico e as obras da região metropolitana de Sorocaba. In: SEMINÁRIO DOCOMOMO BRASIL, 13., Salvador, 2019. BUZZAR, Miguel Antonio. Rodrigo Lefèvre e a vanguarda da arquitetura no Brasil. São Paulo, 2019. BUZZAR, Miguel Antonio; CORDIDO, Maria Tereza Regina Leme de Barros. DIFUSÃO DA ARQUITETURA MODERNA BRASILEIRA – O CASO DO PLANO DE AÇÃO DO GOVERNO DO ESTADO DE SÃO PAULO (1959-1963).</description>
     </item>
   </channel>

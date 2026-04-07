@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abla, Marcela Marques on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/abla-marcela-marques/</link>
+    <link>http://localhost:1313/autores/abla-marcela-marques/</link>
     <description>Recent content in Abla, Marcela Marques on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/abla-marcela-marques/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/abla-marcela-marques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contribuição à questão do gênero na habitação e no Urbanismo modernos no Rio de Janeiro</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-003/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-003/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-003/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-003/</guid>
       <description>Referências Bonduki, Nabil (org.). Affonso Eduardo Reidy. Série Arquitetos Brasileiros. Lisboa / São Paulo: Instituto Lina Bo e P.M. Bardi, 2000. Bonduki, Nabil (org.). Os pioneiros da habitação social: cem anos de política pública no Brasil. Volume Bonduki, Nabil (org.). Os pioneiros da habitação social: inventário da produção pública no Brasil entre 1930 e 1964. Volume 2. Editora Unesp: Edições Sesc. São Paulo, 2014. Bonduki, Nabil (org.). Os pioneiros da habitação social: onze propostas de morar para o Brasil moderno.</description>
     </item>
   </channel>

@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gomes, Ítalo Monteiro de Oliveira Mariano on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/gomes-%C3%ADtalo-monteiro-de-oliveira-mariano/</link>
+    <link>http://localhost:1313/autores/gomes-%C3%ADtalo-monteiro-de-oliveira-mariano/</link>
     <description>Recent content in Gomes, Ítalo Monteiro de Oliveira Mariano on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/gomes-%C3%ADtalo-monteiro-de-oliveira-mariano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/gomes-%C3%ADtalo-monteiro-de-oliveira-mariano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O projeto enquanto história para o ensino prático da Arquitetura Moderna</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-159/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-159/</guid>
+      <description>Referências Costa, Lúcio. “A situação do ensino das Belas-Artes”. Em Depoimento de uma geração: arquitetura moderna brasileira, organizado por Alberto Xavier, 57-58. São Paulo: CosacNaify, 2003. Heller, Agnes. Um teoria da história. Rio de Janeiro, Brasil: Civilização brasileira, 1993. Gumbrecht, Hans Ulrich. Nosso amplo presente: o templo e a cultura contemporânea. São Paulo, Brasil: Editora Unesp, 2015. Hooks, Bell. Ensinando a transgredir. A educação como prática da liberdade. São Paulo, Brasil: Martins Fontes, 2017.</description>
+    </item>
     <item>
       <title>Entre o caminhar e as lentes</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-034/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-034/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-034/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-034/</guid>
       <description>Referências ANDRADE JUNIOR, N. V. Arquitetura Moderna na Bahia, 1947-1951: Uma história a contrapelo. 2012. Tese (Doutorado em Arquitetura) - Faculdade de Arquitetura, Universidade Federal da Bahia, [S.l.], 2012. CIAVATTA, M. O mundo do trabalho em imagens: a fotografia como fonte histórica (Rio de Janeiro, 1900-1930). Rio de Janeiro: DP&amp;amp;A, 2002. CASSELLA, T. A. Imagens-memória: narrativas fotográficas da arquitetura moderna de Maceió. 2021. 210 p. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo, Universidade Federal de Alagoas, Maceió, 2021.</description>
     </item>
     <item>
       <title>Modernosidades</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-052/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-052/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-052/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-052/</guid>
       <description>Referências Lara, F. L. A insustentável leveza da modernidade. Arquitextos, fev. 2005. Disponivel em: &amp;lt;https://vitruvius.com.br/revistas/read/arquitextos/05.057/500&amp;gt; Acesso em: 07 jul. 2024. Morais, I. R. D. Desvendando a cidade: Caicó em sua dinâmica espacial. Natal: Editora da UFRN, 1999. Oliveira, L. N. D. Arcaicó, modo de amar: proposta de boas práticas para o casario antigo caicoense. Natal: Dissertação (Mestrado) – Universidade Federal do Rio Grande do Norte, 2020. Segawa, H. A. Arquiteturas no Brasil.</description>
     </item>
   </channel>

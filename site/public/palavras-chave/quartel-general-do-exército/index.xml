@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quartel General do Exército on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/quartel-general-do-ex%C3%A9rcito/</link>
+    <link>http://localhost:1313/palavras-chave/quartel-general-do-ex%C3%A9rcito/</link>
     <description>Recent content in Quartel General do Exército on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/quartel-general-do-ex%C3%A9rcito/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/quartel-general-do-ex%C3%A9rcito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Quartel General do Exército</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-002/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-002/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-002/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-002/</guid>
       <description>Referências ARANTES, Otília B. F.. O lugar da arquitetura depois dos modernos. São Paulo: EDUSP/Studio Nobel, 1993. ARANTES, Otília B. F.. Urbanismo em fim de linha. São Paulo: EDUSP, 1998. ARGAN, Giulio Carlo. Projeto e destino. São Paulo: Ed. Ática, 2002. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Ed. Perspectiva, 1981. CAMPOS, Bruno Pedro Alves de. O Palácio do Exército: Conjunto arquitetônico de Oscar Niemeyer para o quartel general do Exército em Brasília.</description>
     </item>
   </channel>

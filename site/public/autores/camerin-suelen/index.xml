@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Camerin, Suelen on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/camerin-suelen/</link>
+    <link>http://localhost:1313/autores/camerin-suelen/</link>
     <description>Recent content in Camerin, Suelen on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/camerin-suelen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/camerin-suelen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMERICAnodelsud</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-041/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-041/</guid>
+      <description>Referências ALMADA, Adriana. “Paulo Mendes da Rocha, Paraguay, y la arquitectura como cuestión política.” El Nacional, Assunção, maio. 2021. Disponível em: &amp;lt;https://elnacional.com.py/cultura/paulo-mendes-da-rocha-paraguay-arquitectura-como-cuestion-politica-n11047&amp;gt; Acesso em: 20 de nov. 2025. AMERICANO del Sud en el Museo del Ladrillo. Arquimaster, Buenos Aires, set. 2013. Disponível em: &amp;lt;https://www.arquimaster.com.ar/empresas/nota_americano_del_sud.htm&amp;gt; Acesso em: 18 de set. 2025. AMERICANO del Sud ya es una realidad. ARQ Clarín, Buenos Aires, set. 2013. Disponível em: &amp;lt;https://www.clarin.com/arq/arquitectura/Americano-Sud-realidad_0_SkReSFNsw7e.html&amp;gt; Acesso em: 18 de set.</description>
+    </item>
     <item>
       <title>A fortuna de Radić em Vilches</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-040/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-040/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-040/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-040/</guid>
       <description>Referências A+U, Tóquio, n. 611, 2021. BESTIÁRIO. Smiljan Radic. Produção: COAM, Colegio oficial de Arquitectos de Madrid, 2016. Disponível em: &amp;lt;https://vimeo.com/192321812&amp;gt; Acesso em: 18 de fev. 2021. BENJAMIN, Walter. O anjo da história. Belo Horizonte: Autêntica Editora, 2019. CAMERIN, Suelen. A estranha arquitetura da América Latina: Benítez, Bucci e Radic, 1994-2014. (Doutorado em Arquitetura) – Universidade Federal do Rio Grande do Sul. Porto Alegre, 2022. CRISPIANI, Alejandro G. El juego de los contrarios.</description>
     </item>
     <item>
       <title>Além do tijolo em Solano Benítez</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-033/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-033/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-033/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-033/</guid>
       <description>Referências Benítez, Solano. Solano Benítez, Asunción, Paraguay 25º 16&amp;rsquo; S. In: Hoidn, Barbara (ed.). Center 16: Latitudes. Architecture in the Americas, Volume 1. Austin: Center for American Architecture and Design. The University of Texas at Austin, 2012, p. 44-57. Camerin, Suelen. O tijolo em Solano Benítez. (Mestrado em Arquitetura) - Universidade Federal do Rio Grande do Sul. Programa de Pesquisa e Pós-Graduação em Arquitetura, 2016. Comas, Carlos Eduardo Dias. “The Poetics of Development: Notes on Two Brazilian Schools”.</description>
+    </item>
+    <item>
+      <title>Arquitetura residencial e escolar, empresa conjugal</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-m12/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-m12/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

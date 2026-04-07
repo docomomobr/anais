@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theisen, Anye on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/theisen-anye/</link>
+    <link>http://localhost:1313/autores/theisen-anye/</link>
     <description>Recent content in Theisen, Anye on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/theisen-anye/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/theisen-anye/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tensões de axialidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-007/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-007/</guid>
+      <description>Referências Al Assal, Marianna Ramos Boghosian. “Arquitetura, Identidade Nacional e Projetos Políticos na Ditadura Varguista. As escolas práticas de agricultura do Estado de São Paulo.” Dissertação, FAUUSP, 2009. Benton, Charlotte, Tim Benton, e Ghislaine Wood. Art Déco 1910-1939. V&amp;amp;A Publications, 2003. Boris, Fausto. História Do Brasil. 12o ed. Edusp, 2006. Castriota, Leonardo Barci, e Luiz Mauro do Carmo Passos. “O ‘estilo moderno’: Arquitetura em Belo Horizonte nos anos 30 e 40.</description>
+    </item>
     <item>
       <title>O refúgio das águas</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-006/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-006/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-006/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-006/</guid>
       <description>Referências BENEVOLO, L. História da cidade. São Paulo: Perspectiva, 2015. CANOAS (RS). Decreto-lei n 21. Cria a &amp;ldquo;Vila Popular Mauá&amp;rdquo; e regula a permuta de lotes urbanos e suburbanos das áreas atingidas pelas enchentes do Rio Gravataí. Diário Oficial do Município de Canoas. 15 out. 1942. GESSINGER, R. P. O texto e o contexto: do projeto à construção da paisagem da Vila Assunção. Dissertação (Mestrado em Planejamento Urbano e Regional)—Porto Alegre: Fac.</description>
     </item>
   </channel>

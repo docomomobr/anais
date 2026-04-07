@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conceito on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/conceito/</link>
-    <description>Recent content in conceito on Anais Docomomo Brasil</description>
+    <title>Conceito on Anais Docomomo Brasil</title>
+    <link>http://localhost:1313/palavras-chave/conceito/</link>
+    <description>Recent content in Conceito on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/conceito/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/conceito/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A poética espaço-tempo nos projetos de concursos de Roberto Loeb</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-224/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-224/</guid>
+      <description>Referências Chupin, J-P. Judgement by design: Towards a model for studying and improving the competition process in architecture and urban design. Scandinavian Journal of Management, 27, 2011, 173—184. Chupin, J-P., Cucuzzella, C., &amp;amp; Helal, B. Architecture Competitions and the Production of Culture, Quality and Knowledge: An International Inquiry. Potential Architecture Books Inc, 2015. Johnson, P. Whence &amp;amp; Whither: The Processional Element in Architecture. Perspecta, v. 9/10, 1965, p. 167-178. Hildebrand, A.</description>
+    </item>
     <item>
       <title>Nikolaus Pevsner</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-095/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-095/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-095/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-095/</guid>
       <description>Referências BANHAM, Reyner. Theory and design in the first machine age. London: Architectural Press; New York: Praeger,1960. trad. it. Architettura della prima età della macchina. Bologna: Calderini, 1970. BEHNE, Adolf. Der moderne Zweckbau. München: Drei Masken Verlag, 1926. BUENO, Guilherme. GUILIO CARLO ARGAN, CLEMENT GREENBERG. A teoria para a arte moderna como projeto. Dissertação de mestrado. Rio de Janeiro: EBA/URFJ, 2001. BUENO, Guilherme. Henry-Russell Hitchcock e o conceito de Estilo Internacional.</description>
     </item>
   </channel>

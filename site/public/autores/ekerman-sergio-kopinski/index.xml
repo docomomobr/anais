@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ekerman, Sergio Kopinski on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/ekerman-sergio-kopinski/</link>
+    <link>http://localhost:1313/autores/ekerman-sergio-kopinski/</link>
     <description>Recent content in Ekerman, Sergio Kopinski on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/ekerman-sergio-kopinski/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/ekerman-sergio-kopinski/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recuperação do módulo Iansã</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-088/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-088/</guid>
+      <description>Referências Bellintani, Guilherme. A demolição das escolas de Lelé em Salvador. O poder público e a incúria da falta de manutenção. Drops, São Paulo, ano 15, n. 093.04, Vitruvius, jun. 2015 &amp;lt;https://vitruvius.com.br/revistas/read/drops/15.093/5576&amp;gt; &amp;ldquo;Prefeitura inicia demolição e reconstrução de escola na Fazenda Grande I&amp;rdquo;. Correio 24 horas, Acesso em 14 de novembro de 2025. &amp;lt;https://www.correio24horas.com.br/salvador/prefeitura-inicia-demolicao-e-reconstrucao-de-escola-na-fazenda-grande-i-0619&amp;gt; Cardoso, Ceila. Factory of Architecture and Industrial Heritage: A discussion on the adaptive reuse of prefabricated school buildings by João Filgueiras Lima (known as Lelé) in Bahia.</description>
+    </item>
     <item>
       <title>O Centro Histórico de Salvador como laboratório</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-125/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-125/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-125/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-125/</guid>
       <description>Referências ALBINATI, M.L.; KÖPP, J.B. Políticas culturais de Salvador na gestão de Mário Kertész (1986 a 1989) – versão preliminar. 2005, Salvador. Texto apresentado no I Encontro de Estudos Multidisciplinares em Cultura, realizado em Salvador, Bahia, em 14 e 15 de abril de 2005. ANDRADE JÚNIOR, N. V. Arquitetura Moderna e Preexistência Edificada: Intervenções sobre o patrimônio arquitetônico de Salvador a partir dos anos 1950. BIERRENBACH, A. C. de S. Os restauros de Lina Bo Bardi e as reinterpretações da história.</description>
     </item>
     <item>
       <title>Pré-fabricação e transformação de áreas de urbanização informal</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-066/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-066/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-066/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-066/</guid>
       <description>Referências BELLINTANI, Guilherme. A demolição das escolas de Lelé em Salvador. O poder público e a incúria da falta de manutenção. Drops, São Paulo, ano 15, n. 093.04, Vitruvius, jun. 2015 &amp;lt;http://www.vitruvius.com.br/revistas/read/drops/15.093/5576&amp;gt; CAMPOS, Marcio. Sistema e Adaptação: as passarelas projetadas por Lelé para Salvador. In: RISSELADA, Max; LATORRACA, Giancarlo (Org.). A Arquitetura de Lelé: fábrica e invenção. São Paulo: Imprensa Oficial do Estado de São Paulo: Museu da Casa Brasileira, 2010, p.</description>
     </item>
   </channel>

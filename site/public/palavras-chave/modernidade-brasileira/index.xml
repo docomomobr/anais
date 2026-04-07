@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modernidade brasileira on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/modernidade-brasileira/</link>
-    <description>Recent content in Modernidade brasileira on Anais Docomomo Brasil</description>
+    <title>Modernidade Brasileira on Anais Docomomo Brasil</title>
+    <link>http://localhost:1313/palavras-chave/modernidade-brasileira/</link>
+    <description>Recent content in Modernidade Brasileira on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/modernidade-brasileira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/modernidade-brasileira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>É de tirar o fôlego! Arquitetura Moderna Brasileira em O Homem do Rio</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-048/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-048/</guid>
+      <description>Referências Bruand, Yves. Arquitetura Contemporânea no Brasil. 2ª ed. São Paulo: Perspectiva, 1991. Charney, Leo; Schwartz, Vanessa R. (Org.). O cinema e a invenção da vida moderna. Tradução de Regina Thompson. 2ª ed. Rev. São Paulo: Cosac &amp;amp; Naify, 2004. (Coleção cinema, teatro e modernidade). Eisenstein, Sergei. A forma do filme. Tradução de Tereza Ottoni. Rio de Janeiro: Jorge Zahar Ed. 2002. Holmes, Nethan. “Highways through the void: chase sequences and the built environment”.</description>
+    </item>
+    <item>
+      <title>Fios e memória</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-142/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-142/</guid>
+      <description>Referências ALMADA, Alice. A arquitetura através do encontro: conversas entre Edmar de Almeida e Lina Bo Bardi. Trabalho de Conclusão de Curso, Escola de Arquitetura, UFMG, 2023. ALMEIDA, Ivete Batista da Silva, e Chistofer Lima MENDONÇA. “O Processo de Tombamento da Paróquia Divino Espírito Santo do Cerrado, projetada por Lina Bo Bardi.” Revista Relicário 1, nº 2 (julho/dezembro 2014). ISSN 2352-8276. ANDRADE, Francisco de Carvalho Dias de, et al. Uma poética da técnica: a produção da arquitetura vernacular no Brasil.</description>
+    </item>
     <item>
       <title>Projeto de um país moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-098/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-098/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-098/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-098/</guid>
       <description>Referências ABREU, I. R. N. Convênio Escolar: Utopia Construída Convênio Escolar: Utopia Construída. [s.l.] Universidade de São Paulo, 2007. AMARAL, A. Arte para quê? A preocupação social na arte brasileira 1930 - 1970. São Paulo: Studio Nobel, 2003. AZEVEDO, M. N. S. de; SERRANO, Cinthia L. Patrimônio Modernista em Risco. O caso do Colégio Estadual Raul Vidal de Álvaro Vital Brazil. Uma questão de gestão pública ou de formação e/ou prática do arquiteto contemporâneo?</description>
     </item>
   </channel>

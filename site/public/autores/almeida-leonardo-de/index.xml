@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Almeida, Leonardo de on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/almeida-leonardo-de/</link>
+    <link>http://localhost:1313/autores/almeida-leonardo-de/</link>
     <description>Recent content in Almeida, Leonardo de on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/almeida-leonardo-de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/almeida-leonardo-de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ROVSA/Campina Grande, Paraíba</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/100/</link>
+      <link>http://localhost:1313/nne/sdnne06/100/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/100/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/100/</guid>
       <description></description>
     </item>
     <item>
       <title>A restauração do Refeitório Central da Fundação Oswaldo Cruz</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-048/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-048/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-048/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-048/</guid>
       <description>Referências BENCHIMOL, J. (Coord.). Febre Amarela. A doença e a vacina, uma história inacabada. Rio de Janeiro: Editora FIOCRUZ, 2001. BRUANT, Yves. Arquitetura Contemporânea no Brasil. São Paulo: PINI: Fundação Vilanova Artigas; Rio de Janeiro – RIOARTE, 1991. COSTA, Renato da Gama-Rosa; Oliveira, Benedito Tadeu; Pessoa, Alexandre José de Souza. Arquitetos de Manguinhos: resgate de uma história não registrada. In: IV Encontro Regional Sudeste de História Oral, 2001, Rio de Janeiro.</description>
     </item>
   </channel>

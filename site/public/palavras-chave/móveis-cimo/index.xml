@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Móveis Cimo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/m%C3%B3veis-cimo/</link>
+    <link>http://localhost:1313/palavras-chave/m%C3%B3veis-cimo/</link>
     <description>Recent content in Móveis Cimo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/m%C3%B3veis-cimo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/m%C3%B3veis-cimo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Móveis Cimo S.A.</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-080/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-080/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-080/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-080/</guid>
       <description>Referências ARRUDA, Glória Lucia Rodriguez Correia de. O Design na Indústria Moveleira Brasileira e seus Aspectos Sustentáveis: estudo de caso no polo moveleiro de Arapongas – PR. Dissertação de Mestrado. Universidade Estadual Paulista Júlio de Mesquita Filho: Programa de Pós-Graduação em Design, Bauru, 2009. BONSIEPE, Gui. Design, Cultura e Sociedade. São Paulo: Editora Bluscher, 2011. 273p. CLARO, Mauro. Prefácio. In: Mobiliário no Brasil: Origens da Produção e da Industrialização. São Paulo: Editora Senac São Paulo, 2013.</description>
     </item>
   </channel>

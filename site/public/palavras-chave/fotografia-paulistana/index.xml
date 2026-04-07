@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fotografia paulistana on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/fotografia-paulistana/</link>
+    <link>http://localhost:1313/palavras-chave/fotografia-paulistana/</link>
     <description>Recent content in fotografia paulistana on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/fotografia-paulistana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/fotografia-paulistana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Imagens da Modernidade Paulistana</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-009/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-009/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-009/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-009/</guid>
       <description>Referências BRUAND, Yves. Arquitetura contemporânea no Brasil. São Paulo: Perspectiva, 1981. CAVALCANTE, Lauro (org.). Quando o Brasil era moderno: Guia de arquitetura. 1928-1960. Rio de Janeiro: Aeroplano, 2001. CAMPOS, Candido Malta. Os Rumos da cidade: Urbanismo e modernização em São Paulo. São Paulo: Editora Senac São Paulo, 2002. COLQUHOUN, Alan. Modernidade e tradição clássica-Ensaios sobre arquitetura. São Paulo: Cosac &amp;amp; Naify, 2004. FAUSTO, Boris. História concisa do Brasil. São Paulo: Imprensa Oficial do Estado, 2002.</description>
     </item>
   </channel>

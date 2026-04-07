@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hahn, Eduardo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/hahn-eduardo/</link>
+    <link>http://localhost:1313/autores/hahn-eduardo/</link>
     <description>Recent content in Hahn, Eduardo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/hahn-eduardo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/hahn-eduardo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentação, Arquitetura Moderna e reforma</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-017/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-017/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-017/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-017/</guid>
       <description>Referências ARAGÃO, Thaís; KANAAN, Helena; BANDEIRA, Michele. (Org.). 70 Anos da Gráfica da UFRGS: entre memórias e artes da impressão. Porto Alegre: Gráfica da UFRGS, 2018. 252 p. BERNINI, Ismael Maynard. Análise Tipológica e Diplomática de Plantas do Projeto Arquitetônico da FABICO. 2018. 64 f. Monografia (Especialização) - Curso de Biblioteconomia e Comunicação, Ciências da Informação, Universidade Federal do Rio Grande do Sul, Porto Alegre, 2018. PORTO ALEGRE. Setor de Patrimônio Histórico.</description>
     </item>
   </channel>

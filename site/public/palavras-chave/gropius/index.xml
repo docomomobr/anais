@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gropius on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/gropius/</link>
+    <link>http://localhost:1313/palavras-chave/gropius/</link>
     <description>Recent content in Gropius on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/gropius/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/gropius/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A visão estrangeira sobre a arquitetura brasileira nos anos 1950</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-007/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-007/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-007/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-007/</guid>
       <description>Referências AMARANTE, Leonor. As Bienais de São Paulo, 1951-1987. São Paulo: Projeto, 1989. ARGAN, Giulio Carlo. Arte Moderna. São Paulo: Companhia das Letras, 1993. ARQUITETURA E ENGENHARIA, Belo Horizonte, n. 28, nov./dez., 1953. ARTIGAS, João B. Vilanova. Caminhos da Arquitetura. São Paulo: Livraria Editora Ciências Humanas, 1981. BILL, Max. Beleza provinda da função e beleza como função. HABITAT – Revista de Artes no Brasil, São Paulo, n. 02, p. 61-64, jan.</description>
     </item>
   </channel>

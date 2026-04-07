@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tourinho, Andréa de Oliveira on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/tourinho-andr%C3%A9a-de-oliveira/</link>
+    <link>http://localhost:1313/autores/tourinho-andr%C3%A9a-de-oliveira/</link>
     <description>Recent content in Tourinho, Andréa de Oliveira on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/tourinho-andr%C3%A9a-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/tourinho-andr%C3%A9a-de-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arquitetura Nova além do cânone</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-262/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-262/</guid>
+      <description>Referências ARANTES, Pedro Fiori. Arquitetura Nova: Sérgio Ferro, Flávio Império e Rodrigo Lefèvre, de Artigas aos mutirões. São Paulo: Editora 34, 2002. BUIM, Ana Carolina. Entrevista por Carlos Henrique Heck. Junho de 2025. BUIM, Ana Carolina. Rodrigo Lefèvre e o acampamento de obra: uma utopia. 2022. Dissertação (Mestrado em Arquitetura e Urbanismo) – Faculdade de Arquitetura e Urbanismo da Universidade São Judas Tadeu, São Paulo, 2022. BUZZAR, Miguel Antonio. Rodrigo Brotero Lefèvre e a vanguarda da arquitetura no Brasil.</description>
+    </item>
     <item>
       <title>O tombamento dos imóveis do bairro de Higienópolis, 1992–2014</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-023/</link>
+      <link>http://localhost:1313/se/sdsp09/sdsp09-023/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-023/</guid>
+      <guid>http://localhost:1313/se/sdsp09/sdsp09-023/</guid>
       <description>Referências FENELON, Déa Ribeiro. Minuta nº 1, que solicita a abertura de processo de tombamento do Bairro de Higienópolis. 27 ago. 1992. In: SÃO PAULO (cidade). Processo Administrativo 16- 008-812-92*01. São Paulo: Conpresp, 1992, p. 70. MACHADO, Lucio Gomes. Arquitetura do Século XX no Bairro de Higienópolis: Identificação, Tombamento e Proteção Urbanística. In: SEMINÁRIO DOCOMOMO BRASIL. 6., 2005, Niterói. Anais do 6º Seminário Docomomo Brasil: Arquitetura e Urbanismo. Moderno e Nacional.</description>
     </item>
     <item>
       <title>Do tombamento ao “destombamento”</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-043/</link>
+      <link>http://localhost:1313/se/sdsp07/sdsp07-043/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp07/sdsp07-043/</guid>
+      <guid>http://localhost:1313/se/sdsp07/sdsp07-043/</guid>
       <description>Referências CLUBE PINHEIROS. Ata da 692ª reunião extraordinária do conselho deliberativo . São Paulo: Clube Pinheiros, 17 dez. 2018. PDD. Plano Diretor de Desenvolvimento do Esporte Clube Pinheiros. Disponível em: &amp;lt;https://www.ecp.org.br/wp-content/uploads/2018/03/Af_PDDPinheirosFinalLow.pdf&amp;gt; . Acesso em: 05 set. 2020. SÃO PAULO (cidade). 2018a. Ata da 672ª Reunião Ordinária do CONPRESP, de 04 de junho de 2018. Disponível em: &amp;lt;https://www.prefeitura.sp.gov.br/cidade/upload/ata672040618pdf_1529592644.pdf&amp;gt; . Acesso em: 05 set. 2020. SÃO PAULO (cidade). 2018b. Ata da 667ª Reunião Ordinária do CONPRESP, de 19 de março de 2018.</description>
     </item>
     <item>
       <title>Como vai Antônio!</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-016/</link>
+      <link>http://localhost:1313/se/sdsp06/sdsp06-016/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp06/sdsp06-016/</guid>
+      <guid>http://localhost:1313/se/sdsp06/sdsp06-016/</guid>
       <description>Referências ARTIGAS, João B. Vilanova. Caderno dos riscos originais. Projeto do edifício da FAUUSP na cidade Universitária. São Paulo: FAUUSP, 1998. ARTIGAS, João B. . A Função social do arquiteto. São Paulo: Fundação Vilanova Artigas/ Nobel, 1989. COTRIM, Marcio. Vilanova Artigas. Casas Paulistas. São Paulo: Romano Guerra, 2017. FERRAZ, Marcelo Carvalho (org.). Vilanova Artigas. Lisboa: Blau, 1997. MIGUEL, Jorge Marão Carnielo. A casa. Londrina: Eduel; São Paulo: Impren- sa Oficial do Estado de São Paulo, 2003.</description>
     </item>
   </channel>

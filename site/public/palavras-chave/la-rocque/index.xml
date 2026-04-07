@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Rocque on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/la-rocque/</link>
+    <link>http://localhost:1313/palavras-chave/la-rocque/</link>
     <description>Recent content in La Rocque on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/la-rocque/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/la-rocque/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Rocque revisita a tradição</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-071/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-071/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-071/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-071/</guid>
       <description>Referências ARGAN, Giulio Carlo. História da Arte como História da Cidade. 5 ed. São Paulo: Martins Fontes, 2005. CHAVES, CELMA; MIRANDA, Cybelle Salvador. A Permanência do moderno e as referências brutalistas em obras dos primeiros arquitetos formados na UFPA. In: II Seminário de Arquitetura moderna na Amazônia, 2018, BELEM. Anais do III SAMA, 2017. v.1.p.1 – 15. COLQUHOUN, Alan. Tipología y Método de Diseño. In: JENCKS &amp;amp; BAIRD, El Significado en Arquitectura.</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galbinski, José on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/galbinski-jos%C3%A9/</link>
+    <link>http://localhost:1313/autores/galbinski-jos%C3%A9/</link>
     <description>Recent content in Galbinski, José on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/galbinski-jos%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/galbinski-jos%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A função social da propriedade &amp; o Plano Diretor</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-160/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-160/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-160/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-160/</guid>
       <description></description>
     </item>
     <item>
       <title>Paradigmas do Urbanismo Moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-161/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-161/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-161/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-161/</guid>
       <description></description>
     </item>
   </channel>

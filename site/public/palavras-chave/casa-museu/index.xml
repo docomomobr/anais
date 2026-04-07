@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>casa-museu on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/casa-museu/</link>
+    <link>http://localhost:1313/palavras-chave/casa-museu/</link>
     <description>Recent content in casa-museu on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/casa-museu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/casa-museu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heranças na arquitetura de Vilamajó</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-009/</link>
+      <link>http://localhost:1313/sul/sdsul05/sdsul05-009/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul05/sdsul05-009/</guid>
+      <guid>http://localhost:1313/sul/sdsul05/sdsul05-009/</guid>
       <description>Referências Carmona, Liliana e María Julia Gómez, Montevideo: processo planificador y crecimientos, 2 vol., Montevidéu, IHA / Farq – UdelaR, 2002. Loustau, César, Vida y obra de Julio Vilamajó, Montevidéu, Dos Puntos, 1994. Lucchini, Aurelio. Julio Vilamajó, su arquitectura. Montevideo, UdelaR / Farq / IHA, 1970. Parodi Rebella, Aníbal. “Entre el cielo y el suelo. Casa Vilamajó, Julio Vilamajó”. In Puertas adentro, interioridad y espacio domestico en el siglo XX, cap.</description>
     </item>
   </channel>

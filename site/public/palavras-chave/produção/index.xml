@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Produção on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/produ%C3%A7%C3%A3o/</link>
+    <link>http://localhost:1313/palavras-chave/produ%C3%A7%C3%A3o/</link>
     <description>Recent content in Produção on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/produ%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/produ%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A produção arquitetônica de Gregório Zolko (1956–1970)</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-048/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-048/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-048/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-048/</guid>
       <description>Referências ANDREOLI, Elisabetta; FORTY, Adrian. Arquitetura moderna bra- sileira. London, Phaidon, 2004. ALMEIDA, Maria Fonseca de. Revista Acrópole publica residên- cias modernas: análise da revista Acrópole e sua publicação de resi- dências unifamiliares modernas entre os anos de 1952 a 1971. Disser- tação de mestrado. São Carlos, IAU USP, 2008. BASTOS, Maria Alice Junqueira; ZEIN, Ruth Verde. Brasil: arquite- turas após 1950. São Paulo, Perspectiva, 2010. CARDOZO, Roberto Coelho; ZOLKO, Gregório.</description>
     </item>
   </channel>

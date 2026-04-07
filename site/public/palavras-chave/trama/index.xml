@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trama on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/trama/</link>
+    <link>http://localhost:1313/palavras-chave/trama/</link>
     <description>Recent content in Trama on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/trama/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/trama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do tapete ao painel</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-248/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-248/</guid>
+      <description>Referências AMARAL, A., Arquitectura_Neocolonial, São Paulo: Memorial / Fondo de Cultura Económica, 1994. Bressan Pinheiro, M. L., Repercussão Do Ideário Neocolonial Na Atuação Preservacionista de Mário de Andrade e Lucio Costa, Registros. Revista De Investigación Histórica, vol. 16, no. 2, pp. 68–87, accessed July 28, 2022, from &amp;lt;https://revistasfaud.mdp.edu.ar/registros/article/view/477/323&amp;gt; July 2020. HOBSBAWM, E. R. T., The Invention of Tradition, Cambridge: Cambridge University Press, 1983. Houaiss, A., Villar, M. de S. and Franco, F.</description>
+    </item>
     <item>
       <title>O azulejo na arquitetura moderna e contemporânea</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-069/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-069/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-069/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-069/</guid>
       <description>Referências AGUIAR, Bárbara Cortizo De. O Patrimônio Azulejar na Arquitetura Religiosa de Pernambuco. In: ARQUIMEMÓRIA 3: SOBRE PRESERVAÇÃO DO PATRIMÔNIO EDIFICADO 2008, Salvador. Anais&amp;hellip; Salvador ALCÂNTARA, Dora De. Azulejo, Documento de Nossa Cultura. In: DIAS, Maria Cristina Lodi (Ed.). Patrimônio Azulejar Brasileiro: aspectos históricos e de conservação. Brasília: Ministério da Cultura, 2001. p. 27–73. AMARAL, Izabel Fraga Do. Quase tudo que você queria saber sobre tectônica, mas tinha vergonha de perguntar.</description>
     </item>
     <item>
       <title>La escuela que crece</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-077/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-077/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-077/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-077/</guid>
       <description>Referências Atria, Manuel, José antonio Gómez, Francisco Lira, and Gustavo Munizaga. “Colegio Saint George”. En Auca n°19: 64–69, 1970. Banham, Reyner. El Brutalismo En Arquitectura. ¿Ética o Estética? Barcelona: Gustavo Gili, 1967. Bastos, María Alice Junqueira, and Verde Zein, Ruth. “Brutalismo: Uma nova sensibilidade superficial e plástica”. En Brasil: Arquiteturas Após 1950, 75–84. Sao Paulo: Perspectiva, 2010. - - - - “La Arquitectura Escolar Nuestra Realidad Nacional. Nuevos Conceptos Sobre Educación.</description>
     </item>
   </channel>

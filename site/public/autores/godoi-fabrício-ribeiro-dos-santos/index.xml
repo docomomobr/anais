@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Godoi, Fabrício Ribeiro dos Santos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/godoi-fabr%C3%ADcio-ribeiro-dos-santos/</link>
+    <link>http://localhost:1313/autores/godoi-fabr%C3%ADcio-ribeiro-dos-santos/</link>
     <description>Recent content in Godoi, Fabrício Ribeiro dos Santos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/godoi-fabr%C3%ADcio-ribeiro-dos-santos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/godoi-fabr%C3%ADcio-ribeiro-dos-santos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oscar Niemeyer e Darcy Ribeiro</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-108/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-108/</guid>
+      <description>Referências Castilho, Fausto. O conceito de universidade no projeto da Unicamp. Campinas: Edunicamp, 2008. Godoi, Fabrício RS. Darcy Ribeiro e a arquitetura. Tese de Doutorado. IAU-USP, 2024. Mauricio, Lúcia V (org). Darcy Ribeiro: Educação como prioridade. Rio de Janeiro, Global, 2018. Rodrigues, Luiz AF. Universidade e a fantasia moderna: a falácia de um modelo espacial único. Niterói: EduFF, 2001. Universidade de Brasília. Plano Orientador da Universidade de Brasília. Brasília: Editora UnB, 1962.</description>
+    </item>
     <item>
       <title>Cultura e patrimônio no Rio de Brizola e Darcy Ribeiro</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-026/</link>
+      <link>http://localhost:1313/se/sdsp09/sdsp09-026/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp09/sdsp09-026/</guid>
+      <guid>http://localhost:1313/se/sdsp09/sdsp09-026/</guid>
       <description>Referências CAMPELLO, G. “A nova biblioteca estadual: um centro vivo de informações”. In Revista do Brasil, 1986. Pgs. 68-71. CAMPOFIORITO, Ítalo. “Patrimônio Cultural: “Onde a cultura existe, dar voz a ela”’. In: Revista do Brasil, ed. Especial. 1986. Pgs. 8-9. Lei Ordinária Estadual do Estado do Rio de Janeiro nº 10.264 de 28 de dezembro de 2023, sancionada pelo Governador Cláudio Castro. COSTA, Marcus de Lontra. “As artes plásticas fazem a festa dos anos 80”.</description>
     </item>
     <item>
       <title>Realizações de Darcy Ribeiro e arquitetos em universidades internacionais</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-023/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-023/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-023/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-023/</guid>
       <description>Referências ALENCAR, Heron. A universidade: por que fazer? In: NIEMEYER, O. Universidade de Constantine: Universidade dos Sonhos. Rio de Janeiro: Revan, 2007 BRANT, Vera. Darcy. São Paulo: Paz e Terra, 2002. BRUZZONE et al. (2021). ¿Qué hace la Udelar en Malvín Norte? Memorias de acción en territorio 2020. Unidad de Extensión, Facultad de Ciencias. Montevideo: Udelar, 2021 COELHO, Haydée e ROCCA, Pablo. Diálogos latino-americanos: correspondência entre Ángel Rama, Berta e Darcy Ribeiro.</description>
     </item>
     <item>
       <title>Darcy Ribeiro e a arquitetura</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-001/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-001/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-001/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-001/</guid>
       <description>Referências ALBERTO, Klaus Chaves. Formalizando o ensino superior na década de 1960: a cidade universitária da UnB e seu projeto urbanístico. Tese de doutorado. Rio de Janeiro, Prourb-UFRJ, 2008. ALIAGA FUENTES, M. C. Os primeiros mestrandos da FAU-UNB: de um passado que não se construiu. Tese de Doutorado. Brasília, PPGAU-FAUUnB, 2017. ALMEIDA, J. G. Universidade de Brasília: ideia, diáspora e individuação. Brasília: Editora UnB, 2017. BALLESTRIN, L. América Latina e o Giro Decolonial in Revista Brasileira de Ciência Política, n.</description>
     </item>
   </channel>

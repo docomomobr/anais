@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muller, Luis on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/muller-luis/</link>
+    <link>http://localhost:1313/autores/muller-luis/</link>
     <description>Recent content in Muller, Luis on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/muller-luis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/muller-luis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lo suave y lo áspero</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-027/</link>
+      <link>http://localhost:1313/sul/sdsul04/sdsul04-027/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-027/</guid>
+      <guid>http://localhost:1313/sul/sdsul04/sdsul04-027/</guid>
       <description>Referências Wladimiro Acosta 1900-1967. Homenaje organizado por la Cátedra Wladimiro Acosta y el Centro de Estudiantes de Arquitectura, Diseño Industrial y Gráfico de la Facultad de Arquitectura y Urbanismo de la Universidad de Buenos Aires. Buenos Aires, Facultad de Arquitectura y Urbanismo, 1987. ACOSTA Wladimiro. Vivienda y ciudad. Buenos Aires: Aresti (1ªed.), 1936. ACOSTA Wladimiro. Vivienda y Clima. Bs. As.: Nueva Visión, 1984. ADAGIO Noemí (Ed.). Antología de la biblioteca de la arquitectura moderna.</description>
     </item>
     <item>
       <title>Arquitectura moderna en la obra pública</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-010/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-010/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-010/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-010/</guid>
       <description></description>
     </item>
   </channel>

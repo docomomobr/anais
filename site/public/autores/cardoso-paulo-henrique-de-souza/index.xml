@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cardoso, Paulo Henrique de Souza on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/cardoso-paulo-henrique-de-souza/</link>
+    <link>http://localhost:1313/autores/cardoso-paulo-henrique-de-souza/</link>
     <description>Recent content in Cardoso, Paulo Henrique de Souza on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/cardoso-paulo-henrique-de-souza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/cardoso-paulo-henrique-de-souza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Habitar em capitais modernas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp04/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-vp04/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-vp04/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-vp04/</guid>
       <description></description>
     </item>
   </channel>

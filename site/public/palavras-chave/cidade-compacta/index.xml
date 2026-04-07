@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cidade compacta on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/cidade-compacta/</link>
+    <link>http://localhost:1313/palavras-chave/cidade-compacta/</link>
     <description>Recent content in cidade compacta on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/cidade-compacta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/cidade-compacta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Urbanismo Moderno e a cidade saudável em tempos de pandemia</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-061/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-061/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-061/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-061/</guid>
       <description>Referências COSTA, Lucio. Registro de uma vivência. São Paulo: Empresa das Artes, 1995. COSTA, Lucio. 1969. Plano-Piloto para a urbanização da baixada compreendida entre a Barra da Tijuca, o Pontal de Sernambetiba e Jacarepaguá. Rio de Janeiro: Agência Jornalística Image LTDA, 1969. DANTZIG, George e SAATY, Thomas. Compact City: A Plan for a Liveable Urban Environment. Nova York: W. H. Freeman, 1973. ECTP. The charter of European planning, 2013. ECTP. New charter of Athens, 1998.</description>
     </item>
   </channel>

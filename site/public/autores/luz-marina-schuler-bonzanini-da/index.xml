@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luz, Marina Schuler Bonzanini da on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/luz-marina-schuler-bonzanini-da/</link>
+    <link>http://localhost:1313/autores/luz-marina-schuler-bonzanini-da/</link>
     <description>Recent content in Luz, Marina Schuler Bonzanini da on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/luz-marina-schuler-bonzanini-da/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/luz-marina-schuler-bonzanini-da/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoro e dissonância</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-181/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-181/</guid>
+      <description>Referências ArchDaily. Clássicos da Arquitetura: Centro Técnico de Aeronáutica / Oscar Niemeyer. Acesso em 19 de setembro de 2025. &amp;lt;https://www.archdaily.com.br/br/995594/classicos-da-arquitetura-centro-tecnico-de-aeronautica-oscar-niemeyer&amp;gt; ArchEyes. From Casa Baldo by Oscar Niemeyer to Itaúna House by Siqueira+Azul. 10 de janeiro de 2025. Acesso em 19 de setembro de 2025. &amp;lt;https://archeyes.com/from-casa-baldo-by-oscar-niemeyer-to-itauna-house-by-siqueiraazul/&amp;gt; Arquivo.arq. Centro Técnico de Aeronáutica. Acesso em 19 de setembro de 2025. &amp;lt;https://arquivo.arq.br/projetos/centro-tecnico-de-aeronautica&amp;gt; Casa Vogue. Adriana Varejão abre sua casa projetada por Oscar Niemeyer. 12 de novembro de 2021.</description>
+    </item>
     <item>
       <title>Várzea do Gravataí</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-036/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-036/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-036/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-036/</guid>
       <description>Referências FARIA, Luiz Arthur Ubatuba de. “Urbanização da Várzea do Gravataí”. Boletim da Sociedade de Engenharia do Rio Grande do Sul. Porto Alegre, N. 15, pp. 51-95. GOVERNO DO RIO GRANDE DO SUL. Cidade Industrial de Pôrto Alegre. Porto Alegre: Imprensa Oficial, 1961. MARQUES, Sergio Moacir. Fayet, Araújo &amp;amp; Moojen : arquitetura moderna brasileira no sul - 1950 / 1970 Tese de Doutorado – UFRGS. Porto Alegre, 2012. MIRANDA, Adriana Eckert.</description>
     </item>
     <item>
       <title>Reformas modernas</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-014/</link>
+      <link>http://localhost:1313/sul/sdsul07/sdsul07-014/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul07/sdsul07-014/</guid>
+      <guid>http://localhost:1313/sul/sdsul07/sdsul07-014/</guid>
       <description>Referências BRANDI, Cesare. Teoria da Restauração. Cotia-SP: Ateliê Editorial, 2004. COMAS, Carlos Eduardo. Ruminações Recentes: Reforma/ Reciclagem/ Restauro. In: Summa+, Buenos Aires, n. 115, p. 56-61, jun.2011 COMAS, C. E. D; PEIXOTO, M; MARQUES, S. M. (Orgs). O Moderno já Passado, O Passado no Moderno: Reciclagem, Requalificação, Rearquitetura. Cadernos de Arquitetura Ritter dos Reis no 06. Porto Alegre: Ed. Uniritter, 2009. PELLEGRINI, Ana Carolina. O Patrimônio Projetado. In: IV ENANPARQ, 2016, Porto Alegre.</description>
     </item>
   </channel>

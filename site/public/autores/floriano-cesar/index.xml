@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Floriano, Cesar on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/floriano-cesar/</link>
+    <link>http://localhost:1313/autores/floriano-cesar/</link>
     <description>Recent content in Floriano, Cesar on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/floriano-cesar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/floriano-cesar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fontes e acervos de Roberto Burle Marx</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-001/</link>
+      <link>http://localhost:1313/se/sdrj02/sdrj02-001/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj02/sdrj02-001/</guid>
+      <guid>http://localhost:1313/se/sdrj02/sdrj02-001/</guid>
       <description>Referências BOURDIEU, Pierre. La distinción, critério y bases del gusto. Madrid: Taurus, 1998. FLEMING, Laurence. Roberto Burle Marx: um retrato. Rio de Janeiro: Ed. Índex, 1996. SÁ CARNEIRO, Ana Rita; MAFRA, Fátima; FIGUEIRÔA, Aline. Os jardins de Burle Marx no Recife. Laboratório da paisagem, Recife, 2009. DOURADO, Guilherme Mazza. Modernidade verde: jardins de Burle Marx. São Paulo: Edusp, 2009. LANNA, Ricardo Samuel de. Roberto Burle Marx. Henrique Lahmeyer de Mello Barreto.</description>
     </item>
     <item>
       <title>Passeio de Copacabana</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-142/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-142/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-142/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-142/</guid>
       <description>Referências ADAMS, William Howard: Roberto Burle Marx. The Unnatural art of the Garden.Nueva York.The Museun of Modern Art.1991. ASHTON, Dore: Á Rebours, la rebelión informalista (1939, 1968). Madrid. Museo Centro de Arte Reina Sofía, 1999. BUCHLOH, Benjamin : “Vandalismous von oben. Richard Serras Tilted Arc in New York”. In: GRASSIKAMP, Walter: Unerwünschhte Monumente, Moderne Kunst in Stadtraun. Munich, 1989 BURLE MARX, Roberto: Arte e Paisagem (conferências escolhidas), São Paulo, ed.Nobel, , 1987, DUROZOI, Gérard: Diccionario de Arte del siglo XX, Madrid, Akal, 1997, FLORIANO, Cesar: Campo de Produccíon Paisagísta de Roberto Burle Marx: El Jardín como Arte Pública.</description>
     </item>
   </channel>

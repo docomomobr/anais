@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castral, Paulo César on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/castral-paulo-c%C3%A9sar/</link>
+    <link>http://localhost:1313/autores/castral-paulo-c%C3%A9sar/</link>
     <description>Recent content in Castral, Paulo César on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/castral-paulo-c%C3%A9sar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/castral-paulo-c%C3%A9sar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Espaço como projeto social</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-056/</link>
+      <link>http://localhost:1313/brasil/sdbr04/sdbr04-056/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-056/</guid>
+      <guid>http://localhost:1313/brasil/sdbr04/sdbr04-056/</guid>
       <description></description>
     </item>
   </channel>

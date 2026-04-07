@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santos, Priscila Gonçalves on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/santos-priscila-gon%C3%A7alves/</link>
+    <link>http://localhost:1313/autores/santos-priscila-gon%C3%A7alves/</link>
     <description>Recent content in Santos, Priscila Gonçalves on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/santos-priscila-gon%C3%A7alves/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/santos-priscila-gon%C3%A7alves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intercâmbios continentais</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-039/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-039/</guid>
+      <description>Referências Kliass, Rosa. O livro da Rosa: vivência e paisagens. Organizado por Maria Cecilia Barbieri Gorki e Lucia Maria Sá Antunes Costa. Romano Guerra Editora, 2019. Kliass, Rosa. Rosa Kliass: desenhando paisagens, moldando uma profissão. Texto de Ruth Verde Zein. Editora Senac, 2006. McHarg, Ian. Design with nature. John Wiley &amp;amp; Sons, Inc, 1992. Nery, Jussana. “Design with Nature: resenha”. RUA: Revista de Urbanismo e Arquitetura 9 (2009): 118–20. Walker, Peter, and Simo, Melanie.</description>
+    </item>
     <item>
       <title>Sobre os limites da preservação do Patrimônio Moderno</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-009/</link>
+      <link>http://localhost:1313/nne/sdnne03/sdnne03-009/</link>
       <pubDate>Sun, 16 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne03/sdnne03-009/</guid>
+      <guid>http://localhost:1313/nne/sdnne03/sdnne03-009/</guid>
       <description>Referências BARROS NETO, N. Perícia confirma descaso. A Tarde. Salvador, 07/12/2007. Disponível em: &amp;lt;http://www.atarde.com.br/esporte/noticia.jsf?id=813631&amp;gt; &amp;gt; Acesso em: 02/02/2010. BIERRENBACH, A. C. de S. Reflexões sobre a reciclagem da arquitetura moderna em Salvador – o Edifício Caramuru e a Cidade Baixa. In: SEMINÁRIO DOCOMOMO, 7. 2007, Porto Alegre. Disponível em: &amp;lt;http://www.docomomo.org.br/seminario%207%20pdfs/002.pdf&amp;gt; Acesso em: 18/02/2010 BIERRENBACH, A. C. de S.; GALVÃO, A. B. A. Pedido de Tombamento do Edifício Caramuru. Blog Licuri. Salvador, 23/02/2008.</description>
     </item>
   </channel>

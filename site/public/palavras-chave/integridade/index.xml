@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Integridade on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/integridade/</link>
+    <link>http://localhost:1313/palavras-chave/integridade/</link>
     <description>Recent content in Integridade on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/integridade/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/integridade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atributos da Arquitetura Moderna e a ação da Conservação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-024/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-024/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-024/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-024/</guid>
       <description>Referências ALLAN, John. Points of Balance. Patterns of Practice in the Conservation of Modern Architecture. In: MACDONALD, Susan; NORMANDIN, Kyle; KINDRED, Bob (ORG). Conservation of Modern Architecture. Dorset: Donhead Publishing, 2007. P. 13-46. BENÉVOLO, Leonardo. História da Arquitetura Moderna. São Paulo: Perspectiva, 1976 BARDIN, Laurence. Análise de Conteúdo. Lisboa: Edições 70, 2008. BRANDI, Cesare. Teoria del Restauro. Torino: Einaudi, 1963. COLQUHOUN, Alan. Modern Architecture. Oxford: Oxford University Press, 2002. Connor, S.</description>
     </item>
   </channel>

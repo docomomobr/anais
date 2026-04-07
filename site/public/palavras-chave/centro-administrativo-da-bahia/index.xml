@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centro Administrativo da Bahia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/centro-administrativo-da-bahia/</link>
+    <link>http://localhost:1313/palavras-chave/centro-administrativo-da-bahia/</link>
     <description>Recent content in Centro Administrativo da Bahia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/centro-administrativo-da-bahia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/centro-administrativo-da-bahia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lelé no CAB</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-127/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-127/</guid>
+      <description>Referências Banham, Reyner. Megaestructuras: futuro urbano del pasado reciente. 2ed. Barcelona: Ed. Gustavo Gili. 2001. Cordiviola, Alberto Rafael. Bahia; tempo, cidade, arquitetura. Tese. Doutorado em Arquitetura e Urbanismo – PPGAU-UFBA. Salvador, 2005. Latorraca, Giancarlo. João Filgueiras Lima Lelé. Lisboa/ São Paulo: Editorial Blau/ Instituto Lina Bo e P.M. Bardi, 2000. Lima, João Filgueiras. O Que é Ser Arquiteto. Memórias Profissionais de Lelé (João Filgueiras Lima). Em depoimento a Cynara Menezes. Rio de Janeiro: Record, 2004.</description>
+    </item>
     <item>
       <title>Centro Administrativo da Bahia</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne08/sdnne08-015/</link>
+      <link>http://localhost:1313/nne/sdnne08/sdnne08-015/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne08/sdnne08-015/</guid>
+      <guid>http://localhost:1313/nne/sdnne08/sdnne08-015/</guid>
       <description>Referências ANOS que mudaram a Bahia. Salvador: Empresa Gráfica da Bahia, [19&amp;ndash;]. 142p. ALMEIDA, Narceu. Bahia – como construir o futuro sem destruir o passado. Revista Manchete, Rio de Janeiro, ed. 1193, p. 76-77, 01 mar. 1975. ANDRADE JUNIOR, Nivaldo. et al. Arquitetura Brutalista na Bahia: Levantamento e análise crítica. In: X SEMINÁRIO DOCOMOMO BRASIL, 2013. Anais do X DOCOMOMO-BRASIL – arquitetura moderna e internacional: conexões brutalistas, 1955-1975. Curitiba: PUC-PR, 15 a 18 out.</description>
     </item>
   </channel>

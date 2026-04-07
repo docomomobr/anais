@@ -33,11 +33,11 @@ Essa separação é intencional. O PDF — objeto primário da publicação acad
 
 ## Acervo
 
-O acervo reúne os anais de **47 seminários** — nacionais, regionais e internacional — realizados entre 1995 e 2025, totalizando **3.100 artigos** de **2.714 autores**.
+O acervo reúne os anais de **47 seminários** — nacionais, regionais e internacional — realizados entre 1995 e 2025, totalizando **3.104 artigos** de **2.713 autores**.
 
 | Âmbito | Seminários | Artigos | Período |
 |--------|-----------|---------|---------|
-| Nacional | 16 | 1.774 | 1995–2025 |
+| Nacional | 16 | 1.778 | 1995–2025 |
 | Norte/Nordeste | 10 | 545 | 2006–2025 |
 | Sul | 8 | 326 | 2008–2022 |
 | São Paulo | 6 | 289 | 2007–2024 |

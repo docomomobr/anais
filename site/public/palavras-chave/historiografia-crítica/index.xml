@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Historiografia crítica on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/historiografia-cr%C3%ADtica/</link>
-    <description>Recent content in Historiografia crítica on Anais Docomomo Brasil</description>
+    <title>historiografia crítica on Anais Docomomo Brasil</title>
+    <link>http://localhost:1313/palavras-chave/historiografia-cr%C3%ADtica/</link>
+    <description>Recent content in historiografia crítica on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/historiografia-cr%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/historiografia-cr%C3%ADtica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modernidade e autoria na Paraíba (1930–1980)</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-096/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-096/</guid>
+      <description>Referências Afonso, Alcília, Ivanilson Pereira, e Thiago Thamay, orgs. Documentos da arquitetura moderna na Paraíba. João Pessoa: Edição dos Autores, 2025. Afonso, Alcília. “Instituto de Educação.” In Documentos da arquitetura moderna na Paraíba, organizado por Alcília Afonso, Ivanilson Pereira e Thiago Thamay, 62-63. João Pessoa: Ed. dos Autores, 2025. Bambury, Jill. “Life Stories – Life Building: Investigations at the Interface of Architecture and Biography.” In Architecture: Material and Imagined, Proceedings of the 85th ACSA Annual Meeting, Boston, 592–596.</description>
+    </item>
     <item>
       <title>Do Coração da cidade a Otterlo (1951-59)</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-179/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-179/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-179/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-179/</guid>
       <description>Referências BENEVOLO, Leonardo. Storia dell’architettura moderna. Bari: Laterza, 1960. CARDENAS, Eliana. Problemas de teoría de la arquitectura. México: Universidad de Guanajuato, Facultad de Arquitectura, 1998. CIUCCI, Giorgio.“Il Mito Movimento Moderno e le vicende dei CIAM”. In: Casabella 463/464, 1980, pp. 28-35. COHEN, Jean-Louis. “The Modern Movement and Urban History”. In: Proceedings Sixth International DOCOMOMO Conference. Bahia: EDUFBA, 2000, pp. 25-30. COSTA, Lucio. “Razões da nova arquitetura”. In: COSTA, Lucio. Lucio Costa: Registro de uma vivência.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Residencia Multifamiliar on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/residencia-multifamiliar/</link>
+    <link>http://localhost:1313/palavras-chave/residencia-multifamiliar/</link>
     <description>Recent content in Residencia Multifamiliar on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/residencia-multifamiliar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/palavras-chave/residencia-multifamiliar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resultado das lições aprendidas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-073/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-073/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-073/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-073/</guid>
       <description>Referências ACCIOLY, Vera Mamede. Planejamento, planos diretores e expansão urbana: Fortaleza 1960-1992. Tese de doutorado na UFBA, Salvador, 2008. ACCIOLY, Vera Mamede, ANDRADE, Margarida, DUARTE JR, Romeu, FREIRE, Livia, JUCA NETO, Clovis e MARIZ, Pedro. Planejando a Cidade de Fortaleza. In: Fortaleza 2040. Edições IPLANFORT, Serie Fortaleza 2040, N²1, Ano 1, 2014. ANDRADE, Margarida. A verticalização e a origem do Movimento Moderno em Fortaleza. In: Anais do 3º ANDRADE, Margarida, DUARTE JR, Romeu, JUCA NETO, Clovis.</description>
     </item>
   </channel>

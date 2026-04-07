@@ -2,52 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arquitetura Moderna no Brasil on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-moderna-no-brasil/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-moderna-no-brasil/</link>
     <description>Recent content in Arquitetura Moderna no Brasil on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-moderna-no-brasil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-moderna-no-brasil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figueira Soares e a Arquitetura Moderna Gaúcha</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-282/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-282/</guid>
+      <description>Referências Benedetto Barras, Bertha Chnaidermann Leitchic, Mme Chnaidermann, Flávio Amilcar Regis, Edgar Sontello e Mortinho Braga. “7 CIAM Bergamo 1949 Documents”, gta/ETHZ. “Compte-rendu de la seance de la sous-commission A”, gta/ETHZ. A grille foi um sistema de visualização de projetos, pensado pelo grupo francês, e que permitia a análise comparativa dos trabalhos. Ver: Eric Mumford, The CIAM Discourse on Urbanism (Cambridge: MIT, 2002), 180-181. Giedion para Niemeyer, 08 out. 1958, gta/ETHZ.</description>
+    </item>
+    <item>
+      <title>O depoimento de Oscar Niemeyer</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-120/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-120/</guid>
+      <description>Referências Braga, Milton. O concurso de Brasília. São Paulo: Cosac Naify, 2010. Bruna, Paulo. “A obra de Oscar Niemeyer em São Paulo”. Em Quatro Ensaios Sobre Oscar Niemeyer, editado por Paulo Bruna e Ingrid Quintana Guerreiro. Cotia-SP: Ateliê Editorial, 2017, 15-121. Leal, Daniela Viana. “Oscar Niemeyer e o mercado imobiliário de São Paulo na década de 1950” (Dissertação de Mestrado, UNICAMP, 2003). Niemeyer, Oscar. As curvas do tempo - Memórias. Rio de Janeiro: Revan, 2000.</description>
+    </item>
     <item>
       <title>Memória de Brasília</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-046/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-046/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-046/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-046/</guid>
       <description>Referências AMADO, Jorge. O cavaleiro da esperança: vida de Luis Carlos Prestes. São Paulo: Companhia das Letras, 2011. ARAÚJO, Bernardo Carvalho (supervisão). Catálogo de depoimentos orais. Brasília: Governo do Distrito Federal, 1994. BARNEY, Elvira. Mulheres pioneiras de Brasília. Brasília: Thesaurus, 2001. BEÚ, Edson. Expresso Brasília. A história contada pelos candangos. Brasília: Editora da UnB, 2012. CAVALCANTI, Lauro; GUIMARAENS, Dinah. Arquitetura Kitsch: suburbana e rural. Rio de Janeiro: Mec/Funarte, 1979. COSTA, Lucio.</description>
     </item>
     <item>
       <title>Moisés Gicovate, Osvaldo Orico e Peixoto da Silveira</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-047/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-047/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-047/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-047/</guid>
       <description>Referências (Sem autor) Nova Capital do Brasil: Brasília. São Paulo: Zenit, 1960. BRAGA, Milton. O Concurso de Brasília. São Paulo: Cosac Naify, 2010. BRAZILIAN GOVERNMENT TRADE BUREAU. Brasília: the world’s newest capital. New York, s/d. COLEÇÃO BRASÍLIA. Antecedentes Históricos (1549-1896). Volume I. Rio de Janeiro: SDPR, 1960. COLEÇÃO BRASÍLIA. Antecedentes Históricos (1897-1945). Volume II. Rio de Janeiro: SDPR, 1960. COLEÇÃO BRASÍLIA. Antecedentes Históricos (1945-1956). Volume III. Rio de Janeiro: SDPR, 1960.</description>
     </item>
     <item>
       <title>O último Le Corbusier no Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-163/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-163/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-163/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-163/</guid>
       <description>Referências BARDI, Pietro Maria. Lembrança de Le Corbusier: Atenas, Itália, Brasil. São Paulo: Nobel, 1983. CHIARELLI, Silvia Raquel. Le Corbusier: Embaixada da França, Brasília. Tese (Doutorado em Arquitetura e Urbanismo), Universidade Presbiteriana Mackenzie, São Paulo (Brasil), 2017. COMAS, Carlos Eduardo Dias. Precisões brasileiras sobre um estado passado da arquitetura e urbanismo modernos a partir dos projetos e obras de Lúcio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira &amp;amp; Cia.</description>
     </item>
     <item>
       <title>Interpretando a historiografia da Arquitetura Moderna Brasileira</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-035/</link>
+      <link>http://localhost:1313/brasil/sdbr12/sdbr12-035/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr12/sdbr12-035/</guid>
+      <guid>http://localhost:1313/brasil/sdbr12/sdbr12-035/</guid>
       <description>Referências BACON, Edmond. D’Athènes a Brasilia. Paris: Editora Lausanne, 1967. BACON, Edmond. Design of cities.Londres: Thames and Hudson, 1967. EVENSON, Norma. Two Brasilian capitals.Architecture and urbanismo in Rio de Janeiro and Brasília.New Haven and Londres: Yele University Press, 1973. EPSTEIN, David. Brasília, plan and reality. Los Angeles: University of California Press, 1973. FREYRE, Gilberto. Brasis, Brasil, Brasília. Lisboa: Edição Livros do Brasil, 1960. GICOVATE, Moises. Brasília: uma realização em marcha. São Paulo: Melhoramentos, 1959.</description>
     </item>
     <item>
       <title>Adolf Franz Heep</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-037/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-037/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-037/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-037/</guid>
       <description>Referências ACAYABA, Marlene Milan. Branco &amp;amp; Preto. Uma história de design brasileiro nos anos 50. São Paulo, Instituto Lina Bo e P.M. Bardi, 1994. ANDRADE, Mario de. Brazil Builds. In ARTE em Revista. Arquitetu- ra nova, n. 4, São Paulo, ago. 1980, p. 25-26. ANELLI, Renato; GUERRA, Abílio; KON, Nelson. Rino Levi. Arquite- tura e cidade. São Paulo, Romano Guerra Editora, 2001. ARGAN, Giulio Carlo. Projeto e destino. São Paulo, Ática, 2000.</description>
     </item>
     <item>
       <title>Edifício do Pavilhão de Óbitos do Recife</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-046/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-046/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-046/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-046/</guid>
       <description>Referências CARDOZO, Joaquim. Dois episódios da arquitetura moderna brasileira. In ‘Arquitetura Revista’, nº 2, v. 2. Rio de Janeiro: Faculdade de Arquitetura e Urbanismo da UFRJ, 1985. BALTAR, Antonio Bezerra. Episódio Pioneiro da Arquitetura Moderna em Pernambuco. In ‘Arquitetura’ Revista do IAB, nº 13, 1963. GOODWIN, Philip L. Brazil Builds –Architecture New and Old 1652-1942. New York: The Museum of Modern Art, 1943. ALCÂNTARA, Antonio Pedro de. Luis Nunes – uma arquitetura a serviço da sociedade.</description>
     </item>
   </channel>

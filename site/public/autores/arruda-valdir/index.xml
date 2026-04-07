@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arruda, Valdir on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/arruda-valdir/</link>
+    <link>http://localhost:1313/autores/arruda-valdir/</link>
     <description>Recent content in Arruda, Valdir on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/arruda-valdir/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/arruda-valdir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tradição e contradições na arquitetura religiosa brasileira dos anos 1950</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-062/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-062/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-062/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-062/</guid>
       <description>Referências ACRÓPOLE. Igreja de São Pancrácio. 1951, São Paulo, n.159. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 1981. DEBIÉ, Franck; VÉROT, Pierre. Urbanisme et Art Sacré: Une aventure du XXe. Siècle. Paris: Criterion, 1991. COSTA, Eunice R. Ribeiro; CASTILHO, Maria Stella de. (coords.). Índice de Arquitetura Brasileira 1950/70. São Paulo: Universidade / Faculdade de Arquitetura e Urbanismo, 1994. HABITAT. Afrescos de Pennacchi. 1953. São Paulo, n. 13. MERCIER, Georges.</description>
     </item>
   </channel>

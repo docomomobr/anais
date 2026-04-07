@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marques, Sonia on Anais Docomomo Brasil</title>
-    <link>http://localhost:1313/autores/marques-sonia/</link>
+    <link>https://anais.docomomobrasil.com/autores/marques-sonia/</link>
     <description>Recent content in Marques, Sonia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 29 May 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/autores/marques-sonia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 12:10:06 -0300</lastBuildDate>
+    <atom:link href="https://anais.docomomobrasil.com/autores/marques-sonia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clube Líbano brasileiro em Recife</title>
-      <link>http://localhost:1313/nne/sdnne04/sdnne04-042/</link>
-      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nne/sdnne04/sdnne04-042/</guid>
-      <description>Referências AMORIM, Luiz. Obituário Arquitetônico: Pernambuco Modernista. Recife, 2007. 212p. MARQUES, Sonia; NASLAVSKY, Guilah. Eu vi o modernismo nascer&amp;hellip; e ele começou no Recife. In: MOREIRA, Fernando Diniz (Org.) Arquitetura moderna no Norte e Nordeste do Brasil: universalidade e diversidade. Recife: FASA, 2007. 392 p. MOREIRA, Fernando Diniz; FREIRE, A. C. M.. O Edifício-quintal de Wandenkolk Tinoco: Reflexões sobre a moradia em altura nos anos 1970. In: II Seminario Docomomo No-Ne, 2008, Salvador.</description>
+      <title>Fascistas, comunistas, racistas, misóginos etc. e daí?</title>
+      <link>https://anais.docomomobrasil.com/brasil/sdbr16/sdbr16-008/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://anais.docomomobrasil.com/brasil/sdbr16/sdbr16-008/</guid>
+      <description>Referências Artigas, Vilanova. “Le Corbusier e o Imperialismo” Fundamentos. Revista de Cultura Moderna do Partido Comunista. </description>
+    </item>
+    <item>
+      <title>A la recherche de la maison moderniste perdue</title>
+      <link>https://anais.docomomobrasil.com/internacional/idc06/idc06-028/</link>
+      <pubDate>Tue, 19 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>https://anais.docomomobrasil.com/internacional/idc06/idc06-028/</guid>
+      <description>Referências Amorim, L.M.E. (1999). &amp;lsquo;The sectors&amp;rsquo; paradigm: a study of the spatial function and nature of modernist housing in Northeast Brazil&amp;rsquo;. Doctoral thesis, University College London. Hanson, J. (1992). &amp;lsquo;Tradition and Experimentation in Housing and Neighbourhood Design&amp;rsquo; in Proceedings of Prospects on Housing Policy and Technology Development for the 21st Century, Korea, pp.139-186. Hanson, J. (1998). Decoding homes and houses. Cambridge University Press. Hillier, B. &amp;amp; Hanson, J. (1984) The social logic of space.</description>
     </item>
   </channel>
 </rss>

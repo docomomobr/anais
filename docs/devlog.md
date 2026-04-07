@@ -6,6 +6,29 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 ## Devlog
 
+### 2026-04-06 — sdbr16 artigos faltantes + correções seção Zenodo (sessão 2)
+
+**Artigos faltantes (relatório: `revisao/sdbr16-artigos-faltantes.md`):**
+- Cruzamento TOC volume × banco de dados: 11 artigos na TOC sem entrada no banco
+- 4 inseridos como resumo (com abstract do caderno IDML): sdbr16-289 a 292
+  - 289: Casa das Canoas (Pessoa) — sessão A casa moderna como museu de si mesma
+  - 290: Reenquadrando Lina Bo Bardi (Pereira) — sessão O olhar direcionado
+  - 291: Azulejos autorais (Cunha Mello) — sessão Painéis artísticos
+  - 292: CBC-Bouwcentrum (Ramos) — sessão Inovação e desenvolvimento
+- 6 sem resumo no caderno → seção D do relatório (não inseridos)
+- 1 artigo no banco mas não na TOC: sdbr16-093
+- 3 divergências de título entre banco e TOC: 105, 207, 219
+- Total sdbr16: 337 artigos (antes 333)
+
+**Correções pontuais:**
+- sdbr16-282: referências corrigidas (3 mal separadas → 41 endnotes do docx)
+- sdbr16-282: título corrigido no Zenodo (fix_zenodo_metadata.py)
+- Pessoa familyname: PESSOA → Pessoa
+
+**Zenodo fix (68 artigos):**
+- 73 seções corrigidas na sessão anterior não estavam atualizadas no Zenodo (meeting.session)
+- fix_zenodo_metadata.py rodado para 68 artigos com zenodo_record_id
+
 ### 2026-04-06 — sdbr16 produção Zenodo + deploy + afiliações
 
 **Zenodo (274 artigos):**

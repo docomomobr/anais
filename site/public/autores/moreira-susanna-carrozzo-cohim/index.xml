@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moreira, Susanna Carrozzo Cohim on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/moreira-susanna-carrozzo-cohim/</link>
+    <link>http://localhost:1313/autores/moreira-susanna-carrozzo-cohim/</link>
     <description>Recent content in Moreira, Susanna Carrozzo Cohim on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/moreira-susanna-carrozzo-cohim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/moreira-susanna-carrozzo-cohim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Murais de Volpi</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-251/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-251/</guid>
+      <description>Referências Claro, Mauro. “Recuperação e Restauro da Capela Cristo Operário: Uma Obrigação.” Minha Cidade, Vitruvius, Julho 2001. Acessado em 13 de setembro, 2025. &amp;lt;https://vitruvius.com.br/revistas/read/minhacidade/01.012/2084&amp;gt; Claro, Mário e Szmerecsanyi, Maria Irene. “Arte Moderna, Trabalho e Resgate Humanístico do Cotidiano na Capela do Cristo Operário: São Paulo, 1951-1967.” Pós Revista do Programa de Pós-Graduação em Arquitetura e Urbanismo da FAUUSP n. 4 (Abril 1995): 139-49. &amp;lt;https://doi.org/10.11606/issn.2317-2762.v0i5p139-149&amp;gt; “Debate Sobre Capela (Brasília) e Afrescos (Volpi).</description>
+    </item>
     <item>
       <title>Modernidade em Campina Grande</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/71/</link>
+      <link>http://localhost:1313/nne/sdnne06/71/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/71/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/71/</guid>
       <description></description>
     </item>
     <item>
       <title>Perdas, danos ou ganho?</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne06/106/</link>
+      <link>http://localhost:1313/nne/sdnne06/106/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne06/106/</guid>
+      <guid>http://localhost:1313/nne/sdnne06/106/</guid>
       <description>Referências ANDRADE JUNIOR, Nivaldo Vieira de. Diógenes rebouças e o EPUCS: planejamento urbano e arquitetura na Bahia, 1947-1950. URBANA, V.5, nº6, mar. 2013 - Dossiê: Urbanistas e Urbanismo- CIEC/UNICAMP. Disponível em: &amp;lt;http://periodicos.sbu.unicamp.br/ojs/index.php/urbana/article/download/8635086/pdf&amp;gt; ANDRADE JUNIOR, Nivaldo Vieira de; e LEA, João Legal. Arquitetura Moderna e Reciclagem do Patrimônio Edificado: a contribuição baiana de Diógenes Rebouças. 2007. Disponível em: &amp;lt;http://www.docomomo.org.br/seminario%207%20pdfs/074.pdf&amp;gt; BIERRENBACH, Ana Carolina; NERY, Juliana Cardoso. O que é que a Bahia tem?</description>
     </item>
   </channel>

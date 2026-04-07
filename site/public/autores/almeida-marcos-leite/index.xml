@@ -2,38 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Almeida, Marcos Leite on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/almeida-marcos-leite/</link>
+    <link>http://localhost:1313/autores/almeida-marcos-leite/</link>
     <description>Recent content in Almeida, Marcos Leite on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/almeida-marcos-leite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/almeida-marcos-leite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niemeyer americano</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-042/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-042/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Niemeyer</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-010/</link>
+      <link>http://localhost:1313/sul/sdsul08/sdsul08-010/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul08/sdsul08-010/</guid>
+      <guid>http://localhost:1313/sul/sdsul08/sdsul08-010/</guid>
       <description>Referências COMAS, Carlos Eduardo Dias. Precisões Brasileiras Sobre um Passado da Arquitetura e Urbanismo Modernos a partir dos projetos e obras de Lucio Costa, Oscar Niemeyer, MMM Roberto, Affonso Reidy, Jorge Moreira &amp;amp; cia., 1936–45. Tese de doutorado. Paris: Université de Paris VIII, 2002. Description de l&amp;rsquo;Egypte: ou, Recueil des observations et des recherches qui ont été faites en Egypte pendant l&amp;rsquo;expédition de l&amp;rsquo;armée française. Paris: Commission des sciences et arts d&amp;rsquo;Egypte, 1809.</description>
     </item>
     <item>
       <title>Niemeyer reconsiderado</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-021/</link>
+      <link>http://localhost:1313/sul/sdsul06/sdsul06-021/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-021/</guid>
+      <guid>http://localhost:1313/sul/sdsul06/sdsul06-021/</guid>
       <description>Referências ARENDT, Hannah. The Human Condition. Chicago: University of Chicago, 1998. BARKI, Jose. A invenção de Brasília: O risco de Lucio Costa. Risco (São Carlos), v. 2, p. 4-23, 2005. Belo Horizonte (MG). Prefeitura. Arquivo Público da Cidade de Belo Horizonte. A Pampulha no acervo fazendário do arquivo público da cidade de Belo Horizonte: 1936-1947: catálogo de fontes. Belo Horizonte: ACAP-BH / APCBH, 2005. BOERSCHMANN, Ernst. Chinesische architektur - von Ernst Boerschmann.</description>
     </item>
     <item>
       <title>Lucio Costa</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-153/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-153/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-153/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-153/</guid>
       <description>Referências AMARAL, Aracy A. (Org.). Mario Pedrosa: dos murais de Portinari aos espaços de Brasília. São Paulo: Perspectiva, 1981. (Coleção Debates 170) BARBOSA, Rui. Desenho: um revolucionador de idéias [120 anos do discurso brasileiro]. Santa Maria: sDHDs, 2004. COMAS, Carlos Eduardo Dias; ALMEIDA, Marcos. Brasília quadragenária: a paixão de uma monumentalidade nova. In: SEMINÁRIO DE HISTÓRIA DA CIDADE E DO URBANISMO, 9, 2006, São Paulo. Anais do IX Seminário de História da Cidade e do Urbanismo.</description>
     </item>
     <item>
       <title>O tombo da Praça?</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-042/</link>
+      <link>http://localhost:1313/brasil/sdbr03/sdbr03-042/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr03/sdbr03-042/</guid>
+      <guid>http://localhost:1313/brasil/sdbr03/sdbr03-042/</guid>
       <description>Referências BOTEY,Josep.Ma. Oscar Niemeyer. Gustavo Gili, Barcelona, 1995. BRUAND, Yves -Arquitetura Contemporânea no Brasil. São Paulo Perspectiva 1981. COMAS, Carlos Eduardo &amp;amp; TURKIENICZ, Benamy- Brasília; Histórico y Análisis. en Ciudades de America&amp;quot;, FAPA, Santiago, 92. COMAS, Carlos Eduardo- Arquitetura urbana: Cidade Funcional &amp;amp; Figurativa. Oculum 4, Campinas. COMAS, Carlos Eduardo. O jovem Niemeyer: a legitimidade da diferença. AU 55. COMAS, Carlos Eduardo. Protótipo, Monumento, um Ministério, o Ministério.Projeto 102, São Paulo.</description>
     </item>
   </channel>

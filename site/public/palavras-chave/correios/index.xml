@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Correios on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/correios/</link>
+    <link>http://localhost:1313/palavras-chave/correios/</link>
     <description>Recent content in Correios on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/correios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/correios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modernismo em Cuiabá</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-130/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-130/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-130/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-130/</guid>
       <description>Referências ALENCASTRO, Aníbal. Aníbal Alencastro: depoimento. 08 ago de 2017. Entrevistadores: ARAUJO, E. B.; BATTISTETTI, L. T.; GASPAR, S. O.; TAPAJÓS, V. F. S. Cuiabá: Residência Alencastro, 2017. ARAUJO, E. B.; BATTISTETTI, L. T.; GASPAR, S. O.; TAPAJÓS, V. F. S. A Antiga Sede dos Correios e Telégrafos Em Cuiabá. 2017. 45 f. Relatório Acadêmico (Disciplina de Arquitetura Brasileira I) - Curso de Arquitetura e Urbanismo, Departamento de Arquitetura e Urbanismo - DAU, Universidade Federal de Mato Grosso, Cuiabá, 2017 BRUAND, Yves.</description>
     </item>
   </channel>

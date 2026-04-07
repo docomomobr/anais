@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuja, Juan Pablo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/tuja-juan-pablo/</link>
+    <link>http://localhost:1313/autores/tuja-juan-pablo/</link>
     <description>Recent content in Tuja, Juan Pablo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/tuja-juan-pablo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/tuja-juan-pablo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legado futuro</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-028/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-028/</guid>
+      <description>Referências Alemán, Laura. Bajo clave: notas sobre el espacio doméstico. Buenos Aires: Nobuko, 2008. Ayón, Angel, Uta Pottgiesser y Nathaniel Richards. Reglazing Modernism. Intervention strategies for 20th-century icons. Basel: Birkhäuser, 2019. Comerci, Francesco, Alfredo Peláez, Juan Pablo Tuja, Santiago Gastambide, Sergio Barreto, Andrés Cardoso y Maximiliano García. Pocitos moderno: Un catálogo de edificios residenciales en altura en los años 50 y 60 en el área de Pocitos en Montevideo. Montevideo: Universidad de la República, 2019.</description>
+    </item>
     <item>
       <title>Pocitos moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-071/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-071/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-071/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-071/</guid>
       <description>Referências AA.VV. ​La Aldea Feliz. Episodios de la Modernización en Uruguay. ​Biennale di Venezia. Mostra Internazionale di Architettura. Montevideo: Facultad de Arquitectura, Universidad de la República. Ministerio de Educación y Cultura, 2014. ÁBALOS, I. ​La buena vida​, Barcelona: Ed. Gustavo Gili, 2000. ALEMÁN, L. ​Bajo Clave. Notas sobre el espacio doméstico​. Buenos Aires: Nobuko, 2008. BERDOLL, B.; COMAS, C. E.; LIERNUR, J. F.; DEL REAL, P. ​Latin America in Construction: Architecture 1955-1980​.</description>
     </item>
     <item>
       <title>De naturaleza moderna</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-023/</link>
+      <link>http://localhost:1313/sul/sdsul04/sdsul04-023/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-023/</guid>
+      <guid>http://localhost:1313/sul/sdsul04/sdsul04-023/</guid>
       <description>Referências Alemán, Laura “bajoclave, notas sobre el espacio doméstico”. Nobuko Año: 2006. Apolo, Juan Carlos. “Talleres trazos y señales” Facultad de Arquitectura de Montevideo, Uruguay. Año: 2006. Arana, Mariano y Garabelli Lorenzo. “Cronología de la Arquitectura Moderna” .Año: 1981. Arana, Mariano, Garabelli Lorenzo y José Luis Livni. “La vivienda protagonista de la arquitectura nacional”. Artículo publicado en Revista del Centro de Estudiantes de Arquitectura N°34. Facultad de arquitectura de Montevideo. Año: 1973.</description>
     </item>
   </channel>

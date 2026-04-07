@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fehr, Lucas on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/fehr-lucas/</link>
+    <link>http://localhost:1313/autores/fehr-lucas/</link>
     <description>Recent content in Fehr, Lucas on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/fehr-lucas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/fehr-lucas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O espaço não construído nos projetos modernos em São Paulo</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-032/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-032/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-032/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-032/</guid>
       <description>Referências ACRÓPOLE. São Paulo, n.181, p.435-492, mai. 1953. ACRÓPOLE. São Paulo, n.262, p.270-272, Ago. 1960. ARQUITETURA E DECORAÇÃO. São Paulo, n.13, p.5-6, set./out. 1955. ARQUITETURA E ENGENHARIA. São Paulo, n.29, p. 56-60, jan./fev. 1954. BAUER, L.F.”A arquitetura das escolas do Senai:três novas construções”. Habitat. São Paulo, n.12, p. 19, set. 1953. EDIFÍCIO 5ª. AVENIDA. Acrópole. São Paulo, n.255, p.88-91, jan. 1960. EDIFÍCIO NAÇÕES UNIDAS. Arquitetura e Decoração. São Paulo, n.1, p.</description>
     </item>
   </channel>

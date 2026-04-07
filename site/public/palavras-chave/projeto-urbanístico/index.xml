@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projeto Urbanístico on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/projeto-urban%C3%ADstico/</link>
+    <link>http://localhost:1313/palavras-chave/projeto-urban%C3%ADstico/</link>
     <description>Recent content in Projeto Urbanístico on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/projeto-urban%C3%ADstico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/projeto-urban%C3%ADstico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bairro Roosevelt em Uberlândia/MG</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-066/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-066/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-066/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-066/</guid>
       <description>Referências BORGES, Heraldo. Atlas Morfológico de São Paulo: Padrões e lógicas da gênese e transformação. (Anais). XIISIIU Seminário Internacional de Investigação em Urbanismo, São Paulo,2020. CHOAY, Françoise. O reino do urbano e a morte da cidade. São Paulo. Projeto História, 1999. GUERRA, M.E.A. As “praças modernas “de João Jorge Coury no Triângulo Mineiro.1998. Dissertação (Mestrado em Arquitetura e Urbanismo), EESC/USP, São Carlos, 1998. GUERRA, M.E.A. Metodologia para caracterização e análise intraurbana.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pontes, Ana Paula on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/pontes-ana-paula/</link>
+    <link>http://localhost:1313/autores/pontes-ana-paula/</link>
     <description>Recent content in Pontes, Ana Paula on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/pontes-ana-paula/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/pontes-ana-paula/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vilanova Artigas e a tradição clássica</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-011/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-011/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-011/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-011/</guid>
       <description>Referências ALBUQUERQUE, Roberto Portugal; CRUZ, José Armênio de Bri- to. Anistia: uma homenagem a três professores. In GFAU. Anistia na FAUUSP: a reintegração dos professores cassados pelo AI-5. São Pau- lo, GFAU USP, 1998. ARGAN, Giulio Carlo. História da arte italiana: da antiguidade a Duccio - vol. 1. São Paulo, Cosac Naify, 2003. ARTIGAS, Vilanova. A função social do arquiteto. São Paulo, No- bel, 1989. ARTIGAS, Vilanova. Caminhos da arquitetura moderna.</description>
     </item>
   </channel>

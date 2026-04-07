@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berriel, Andrea on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/berriel-andrea/</link>
+    <link>http://localhost:1313/autores/berriel-andrea/</link>
     <description>Recent content in Berriel, Andrea on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/berriel-andrea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/berriel-andrea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Madeira como material de projeto no Brasil moderno</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-003/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-003/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-003/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-003/</guid>
       <description>Referências Berriel, Andrea. Arquitetura de Madeira: reflexões e diretrizes de projeto para concepção de sistemas e elementos construtivos. Tese (Doutorado em Engenharia Florestal), Universidade Federal do Paraná: Curitiba, 2009. Berriel, Andrea. Madeira e Morada: A Habitação de Madeira como Opção para o Século XXl. Curitiba: Dissertação (Mestrado em Arquitetura e Urbanismo) - PUC-PR em convênio com UFRGS, Curitiba, 2002. Bittencourt, Rosa Maria. Concepção Arquitetônica da Habitação em Madeira. Tese (Doutorado em Engenharia da Construção Civil e Urbana) - Escola Politécnica, Universidade de São Paulo, São Paulo, 1995.</description>
     </item>
   </channel>

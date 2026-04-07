@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mosaico morfológico on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/mosaico-morfol%C3%B3gico/</link>
+    <link>http://localhost:1313/palavras-chave/mosaico-morfol%C3%B3gico/</link>
     <description>Recent content in mosaico morfológico on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/mosaico-morfol%C3%B3gico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/mosaico-morfol%C3%B3gico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brasília da Carta de Atenas à cidade de muros</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-020/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-020/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-020/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-020/</guid>
       <description>Referências CODEPLAN. Pesquisa domiciliar transporte. Brasília: CODEPLAN, 1991. COSTA, Lucio. Brasília Revisitada. Diário Oficial do Distrito Federal nº.194. Brasília, 1987. COSTA, Lucio. Lucio Costa: registro de uma vivência. São Paulo: Ed. Empresa das Artes, 1995. GOROVITZ, Matheus. Brasília - Sobre a Unidade de Vizinhança. In: Frederico de Holanda &amp;amp; Maria E Kohls- dorf (ed.). Anais - 4. Seminário sobre Desenho Urbano no Brasil, Faculdade de Arquitetura e Urbanismo, Brasília, 1995, pp.</description>
     </item>
   </channel>

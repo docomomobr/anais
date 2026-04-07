@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lago, Victor Martins on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/lago-victor-martins/</link>
+    <link>http://localhost:1313/autores/lago-victor-martins/</link>
     <description>Recent content in Lago, Victor Martins on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/lago-victor-martins/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 08:54:17 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/lago-victor-martins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clubes modernos de São Luís</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-044/</link>
+      <link>http://localhost:1313/nne/sdnne07/sdnne07-044/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne07/sdnne07-044/</guid>
+      <guid>http://localhost:1313/nne/sdnne07/sdnne07-044/</guid>
       <description>Referências BARCELOS, Hortenezia Karolyny de Sousa. Parque Urbano Rio Anil: estudo preliminar de parque urbano em área de preservação permanente nas áreas remanescentes dos antigos clubes esportivos Lítero e Jaguarema. / Hortenezia Karolyny de Sousa Barcelos - São Luís, 2018. BRUAND, Yves. Arquitetura contemporânea no Brasil/ Yves Bruand; [tradução Ana M. Goldberger]. – 5. Ed. São Paulo: Perspectiva , 2010. CAMARGO, L. A. R.; SILVA, M. R. OS CLUBES SOCIAIS E RECREATIVOS E O PROCESSO CIVILIZATÓRIO BRASILEIRO: UMA RELAÇÃO DE HÁBITOS E COSTUMES.</description>
     </item>
   </channel>

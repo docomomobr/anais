@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mascaró, Lucia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/mascar%C3%B3-lucia/</link>
+    <link>http://localhost:1313/autores/mascar%C3%B3-lucia/</link>
     <description>Recent content in Mascaró, Lucia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/mascar%C3%B3-lucia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/mascar%C3%B3-lucia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luz e sombras nos espaços abertos urbanos do subtrópico úmido</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-045/</link>
+      <link>http://localhost:1313/sul/sdsul01/sdsul01-045/</link>
       <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-045/</guid>
+      <guid>http://localhost:1313/sul/sdsul01/sdsul01-045/</guid>
       <description>Referências DE FUSCO, R. Historia de la arquitectura contemporanea. V.2. Madrid, Blume ,1981. BANHAM, R. La arquitectura del entorno bien climatizado. Buenos Aires, Infinito, 1975. CORONA MARTINEZ, A. Notas sobre la dimensión constructiva en el aprendizage de projeto. In: Anais do III Encontro Nacional sobre Ensino de Projeto Arquitetônico. Porto Alegre, PROPAR – TANIZAQUI, J. Um acalorado elogio a las sombras. 5ª ed. Madrid: Siruela, 1997 TURQUETS, O. Barcelona: Turquets, 1994.</description>
     </item>
   </channel>

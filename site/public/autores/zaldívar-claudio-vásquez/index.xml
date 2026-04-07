@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zaldívar, Claudio Vásquez on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/zald%C3%ADvar-claudio-v%C3%A1squez/</link>
+    <link>http://localhost:1313/autores/zald%C3%ADvar-claudio-v%C3%A1squez/</link>
     <description>Recent content in Zaldívar, Claudio Vásquez on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/zald%C3%ADvar-claudio-v%C3%A1squez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:15:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/zald%C3%ADvar-claudio-v%C3%A1squez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reseña del desarrollo de la arquitectura vidriada en Chile entre 1937 y 1970</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-034/</link>
+      <link>http://localhost:1313/sul/sdsul01/sdsul01-034/</link>
       <pubDate>Tue, 22 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul01/sdsul01-034/</guid>
+      <guid>http://localhost:1313/sul/sdsul01/sdsul01-034/</guid>
       <description>Referências Nuevas industrias establecidas: La fábrica de vidrio plano. Industria, Santiago de Chile, 1938, p. 24. GOBIERNO DE CHILE. Chile y sus riquezas. Santiago: Atenas; Ministerio de Relaciones Exteriores, 1936. AA. VV. Ciento cincuenta años de enseñanza de la arquitectura en la Universidad de Chile. 1849-1999. Santiago: Facultad de Arquitectura y Urbanismo, Universidad de Chile, 1999. GEBHARD, Enrique. Urbanismo y habitación. Arquitectura, Santiago de Chile, n. 2, oct. 1935. Maestranza Central de Aviación.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonio Virzi on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/antonio-virzi/</link>
+    <link>http://localhost:1313/palavras-chave/antonio-virzi/</link>
     <description>Recent content in Antonio Virzi on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/antonio-virzi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/antonio-virzi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitetura em risco</title>
-      <link>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-004/</link>
+      <link>http://localhost:1313/se/sdrj04/sdrj04-004/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdrj04/sdrj04-004/</guid>
+      <guid>http://localhost:1313/se/sdrj04/sdrj04-004/</guid>
       <description>Referências ABREU, Mauricio de Almeida. Evolução Urbana do Rio de Janeiro. Rio de Janeiro: Instituto Pereira Passos, 2006. ANDRADE, Carlos Drummond de. Adeus, Elixir de Nogueira. Site da Associação Médica de Barbacena. Disponível em: &amp;lt;http://www.associacaomedicabarbacena&amp;gt; com.br/jornalmarco/elixir.htm&amp;gt;. Acesso em : 08 set. 2017. ARESTIZÁBAL, Irma. Aspectos do Art Nouveau no Rio de Janeiro. In: Revista Vida das Artes, ano I, nº 1. Rio de Janeiro: junho de 1975. ARESTIZÁBAL, Irma e GRINBERG, Piedade Epstein.</description>
     </item>
   </channel>

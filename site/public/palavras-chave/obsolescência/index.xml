@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsolescência on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/obsolesc%C3%AAncia/</link>
+    <link>http://localhost:1313/palavras-chave/obsolesc%C3%AAncia/</link>
     <description>Recent content in Obsolescência on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/obsolesc%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/obsolesc%C3%AAncia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contra a obsolescência</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-073/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-073/</guid>
+      <description>Referências Abramson, Daniel M. Obsolescence: An Architectural History. Chicago: The University of Chicago Press, 2016. Chile. Oficina de Planificación Nacional (ODEPLAN). Plan de Reconstrucción de las provincias de Coquimbo, Aconcagua, Valparaíso, Santiago y O&amp;rsquo;Higgins, afectados por el sismo del 8 de julio de 1971. ODEPLAN Serie V, no. 3. Santiago de Chile: ODEPLAN, 1971. El Día. El Día. 26 de marzo de 1976. Coquimbo, Chile. Galeno-Ibaceta, Claudio. &amp;ldquo;Los hospitales modernos y la consolidación de las instituciones de salud del Estado Chileno: Los establecimientos de Arica, Iquique y Antofagasta en el desierto costero de Atacama.</description>
+    </item>
     <item>
       <title>Cine São Luiz</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-038/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-038/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-038/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-038/</guid>
       <description>Referências ALENCAR, J. DE S. Cine São Luiz. Diário de Pernambuco, 7 out. 1951. ALLAN, J. Conservation of modern buildings: a practioner’s point of view. Em: Modern Matters. Shaftesbury: Donhead, 1996. p. 123–128. AVRAMI, E.; MASON, R.; TORRE, M. DE LA. Values and Heritage Conservation. Los Angeles: The Getty Conservation Institute, 2000. BRUSCHI, G. et al. Le trasformazioni del tempo. Em: Il restauro del contemporaneo. Esperienza e prospettive. Bolonha: Compositori, 2012.</description>
     </item>
     <item>
       <title>Considerações sobre mudanças de uso e obsolescência</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-083/</link>
+      <link>http://localhost:1313/brasil/sdbr14/sdbr14-083/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr14/sdbr14-083/</guid>
+      <guid>http://localhost:1313/brasil/sdbr14/sdbr14-083/</guid>
       <description>Referências ASSUMPÇÃO, Lia. Obsolescência programada, práticas de consumo e design: uma sondagem sobre bens de consumo. Dissertação (mestrado) – Programa de Pós- Graduação em Arquitetura e Urbanismo, Instituto de Arquitetura e Urbanismo, Universidade de São Paulo. São Paulo, 228 f., 2017. BERMAN, Marshall. Tudo que é sólido desmancha no ar. A aventura da modernidade. Rio de Janeiro: Companhia das Letras, 2007. CALDUCH CERVERA, El declive de la arquitectura moderna: deterioro, obsolescencia, ruina.</description>
     </item>
     <item>
       <title>Potentials for Surgical Urbanism</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-057/</link>
+      <link>http://localhost:1313/se/sdsp05/sdsp05-057/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp05/sdsp05-057/</guid>
+      <guid>http://localhost:1313/se/sdsp05/sdsp05-057/</guid>
       <description>Referências ANDREOLI, Elisabetta; FORTY, Adrian. Brazil&amp;rsquo;s Modern Architecture. London, Phaidon, 2004. ASKAN, Esra. Reading the Generic City: Retroactive Manifestos for Global Cities of the Twenty-first Century. Perspecta Yale Architectural Journal, n. 41, 2008, p. 144-152. AWAN, Nishat; SCHNEIDER, Tatjana; TILL, Jeremy. Spatial Agency: Other Ways of Doing Architecture. Abingdon, Routledge, 2011. CAVALCANTI, Lauro. When Brazil Was Modern: Guide to Architecture, 1928-1960. New York, Princeton Architectural Press, 2003. SOLA-MORALES, Ignasi de. Terrain Vague: Interstices At the Edge of the Pale.</description>
     </item>
   </channel>

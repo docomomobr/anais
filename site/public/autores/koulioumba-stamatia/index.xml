@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Koulioumba, Stamatia on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/koulioumba-stamatia/</link>
+    <link>http://localhost:1313/autores/koulioumba-stamatia/</link>
     <description>Recent content in Koulioumba, Stamatia on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/koulioumba-stamatia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/koulioumba-stamatia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Construtores estrangeiros e a produção arquitetônica moderna no Bom Retiro (1950-1970)</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-101/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-101/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-101/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-101/</guid>
       <description>Referências BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo: Perspectiva, 2003. CAVALCANTI, Lauro. Quando o Brasil era Moderno: guia de arquitetura (1928 – 1960). Rio de Janeiro: Aeroplano, 2001. CHOI, Keum Joa. Além do arco-íris: a imigração coreana no Brasil. São Paulo, FFLCH/ USP, 1991 (Dissertação de mestrado). CYTRYNOWICZ, Roney. Cotidiano, imigração e preconceito: a comunidade judaica nos anos 1930 e 1940. In: GRINBERG, Keila (org.) Os Judeus no Brasil: Inquisição, Imigração e Identidade.</description>
     </item>
   </channel>

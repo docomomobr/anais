@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luz, Martin Gonzalez on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/luz-martin-gonzalez/</link>
+    <link>http://localhost:1313/autores/luz-martin-gonzalez/</link>
     <description>Recent content in Luz, Martin Gonzalez on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/luz-martin-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/luz-martin-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El ladrillo y la estructura en la Arquitectura de Payssé y Lorente</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-034/</link>
+      <link>http://localhost:1313/sul/sdsul04/sdsul04-034/</link>
       <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul04/sdsul04-034/</guid>
+      <guid>http://localhost:1313/sul/sdsul04/sdsul04-034/</guid>
       <description>Referências ARANA, MARIANO; GARABELLI, LORENZO. Arquitectura renovadora en Montevideo 1915-1940. 2ª Ed. Fundación de Cultura Universitaria, Montevideo, 1995. ESTABLE, PERLA. Aproximación a la obra de Mario Payssé Reyes, Revista Elarqa: Generaciones del ladrillo I, Pioneros, nº 15, Ed. Dos Puntos, Montevideo, 1995. MOURELLE, RAFAEL L.; BASCANS, RAMIRO. Uruguay-Panorama de su arquitectura contemporánea. Rev. Summa, nº 27, Buenos Aires, 1970. </description>
     </item>
   </channel>

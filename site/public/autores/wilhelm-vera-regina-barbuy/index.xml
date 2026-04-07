@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wilhelm, Vera Regina Barbuy on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/wilhelm-vera-regina-barbuy/</link>
+    <link>http://localhost:1313/autores/wilhelm-vera-regina-barbuy/</link>
     <description>Recent content in Wilhelm, Vera Regina Barbuy on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/wilhelm-vera-regina-barbuy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/wilhelm-vera-regina-barbuy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A arte mural na Arquitetura Paulistana</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-022/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-022/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-022/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-022/</guid>
       <description>Referências AJZEMBERG, Elza (org.). Operários na Paulista — MAC USP e Artistas Artesãos. MAC USP. São Paulo, 2003. BARDI, Pietro Maria. Fulvio Pennacchi. São Paulo: Raízes Artes Gráficas, 1980. BRILL, Alice. Mário Zanini e seu tempo. São Paulo: Perspectiva, 1984. LOURENÇO, Maria Cecília França. Operários da modernidade. São Paulo: Hucitec, Edusp, 1995. PENNACHI, Valério Antonio. Pennachi Pintura Mural. Metalivros, São Paulo, 2002. ZANINI, Walter. A arte no Brasil nas décadas de 1930-40: o Grupo Santa Helena.</description>
     </item>
   </channel>

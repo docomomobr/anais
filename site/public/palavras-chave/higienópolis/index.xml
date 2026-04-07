@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Higienópolis on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/higien%C3%B3polis/</link>
+    <link>http://localhost:1313/palavras-chave/higien%C3%B3polis/</link>
     <description>Recent content in Higienópolis on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/higien%C3%B3polis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/higien%C3%B3polis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Um percurso em um bairro moderno</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-035/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-035/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-035/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-035/</guid>
       <description>Referências ANDRÉ, Maria Cristina Reis. Catalogação de painéis e murais na cidade de São Paulo. São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 1989. BORTOLLI JR, Oreste. Referências perdidas: arquitetura em São Paulo 1939-1969. Tese de Doutorado. São Paulo: Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo, 2005. FELDMAN, Sarah. A configuração espacial da metrópole. In: CAMPOS, Candido Malta; GAMA, Lúcia Helena; SACCHETTA, Vladimir (orgs.</description>
     </item>
     <item>
       <title>David Libeskind em Higienópolis</title>
-      <link>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-017/</link>
+      <link>http://localhost:1313/se/sdsp03/sdsp03-017/</link>
       <pubDate>Wed, 17 Aug 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/se/sdsp03/sdsp03-017/</guid>
+      <guid>http://localhost:1313/se/sdsp03/sdsp03-017/</guid>
       <description>Referências HOMEM, Maria Cecília Naclério. Higienópolis, grandeza e decadência de um bairro paulistano. São Paulo: Prefeitura do Município de São Paulo, SMC, 1980. p. 59. ii HOMEM, op. cit., p. 63. iii REIS FILHO, Nestor Goulart. Quadro da Arquitetura no Brasil. São Paulo, Perspectiva, 1970. p. 56. iv REIS FILHO, op. cit., p.96 ROSALES, Mario Arturo Figueroa. “Habitação Coletiva em São Paulo: 1928 - 1972”. Tese de Doutorado, São Paulo, 2002.</description>
     </item>
   </channel>

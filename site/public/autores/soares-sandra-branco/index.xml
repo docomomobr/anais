@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soares, Sandra Branco on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/soares-sandra-branco/</link>
+    <link>http://localhost:1313/autores/soares-sandra-branco/</link>
     <description>Recent content in Soares, Sandra Branco on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/soares-sandra-branco/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/soares-sandra-branco/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A implantação do MEC na Esplanada do Castelo</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-049/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-049/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-049/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-049/</guid>
       <description>Referências ABREU, Mauricio de Almeida. A evolução urbana do Rio de Janeiro. Rio de Janeiro, Prefeitura da cidade do Rio de Janeiro/Secretaria Municipal de Urbanismo/Iplanrio, 1997. ANDRADE, Rodrigo Melo Franco de Andrade. Rodrigo e o SPHAN: coletânea de textos sobre o patrimônio cultural. Rio de Janeiro, Ministério da Cultura, Fundação Nacional Pró-Memória, 1987. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Perspectiva, 1999. COSTA, Lucio. LUCIO COSTA: Registro de uma vivência.</description>
     </item>
   </channel>

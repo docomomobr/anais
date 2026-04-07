@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bom Pastor on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/bom-pastor/</link>
+    <link>http://localhost:1313/palavras-chave/bom-pastor/</link>
     <description>Recent content in Bom Pastor on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/bom-pastor/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/bom-pastor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Modernismo na arquitetura residencial de Juiz de Fora (MG)</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-108/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-108/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-108/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-108/</guid>
       <description>Referências ALBERTON, J. O. Influência modernista na arquitetura residencial de Florianópolis. Dissertação de Mestrado. Florianópolis: Universidade Federal de Santa Catarina (UFSC), 2006, 102p. ALMEIDA, F. A. de. Narrativas Preservacionistas da cidade: a trajetória da defesa do patrimônio de Juiz de Fora através de manifestações populares na década de 1980. Dissertação de Mestrado. Juiz de Fora: Universidade Federal de Juiz de Fora, 2012, 237p. AVELAR, K. Histórico do bairro Bom Pastor. Divisão de Patrimônio Cultural: Juiz de Fora, 2017, pp.</description>
     </item>
   </channel>

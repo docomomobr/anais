@@ -1,0 +1,39 @@
+---
+title: "O olhar direcionado"
+subtitle: "reenquadrando a Arquitetura Moderna"
+date: 2026-01-01
+slug: sdbr16-m28
+type: artigo
+document_type: mesa
+weight: 0
+section_title: "O olhar direcionado: reenquadrando a Arquitetura Moderna"
+section_seq: 32
+event_title: "16º Seminário Docomomo Brasil, Porto Alegre, 2025"
+event_subtitle: "O Futuro do Passado: Arquitetura Moderna Viva e Urbana"
+event_location: "Porto Alegre"
+event_date: "2026-01-01"
+event_isbn: "978-65-993024-6-6"
+event_publisher: "Docomomo Brasil"
+event_slug: sdbr16
+ambito: brasil
+ambito_nome: "Brasil"
+event_name: "Seminário Docomomo Brasil"
+event_edition: 16
+event_city: "Porto Alegre"
+event_year: 2025
+locale: "pt-BR"
+abstract: |
+  Desde suas origens, a arquitetura moderna contou com a fotografia como meio privilegiado de legitimação, difusão e projeção internacional. Desde cedo, a fotografia registrou obras construídas, mas também produziu visões, narrativas e símbolos que contribuíram para consolidar uma tradição moderna plural, tanto no Brasil quanto no restante do mundo. Por meio de sua circulação em revistas, exposições e publicações institucionais, a fotografia não apenas documentou, mas também configurou uma forma democrática pela qual a arquitetura moderna foi vista, compreendida e valorizada por diferentes públicos, locais e internacionais. Nesse contexto, a construção de Brasília é um exemplo paradigmático: concebida como emblema do progresso nacional, a cidade foi igualmente pensada como imagem destinada a transcender fronteiras. Fotógrafos como Marcel Gautherot, Peter Scheier, René Burri, Jean Manzon, Hélio de Oliveira, Thomaz Farkas, entre outros, colaboraram com arquitetos e instituições na elaboração de uma visão moderna da cidade, amplamente divulgada por diversos meios especializados internacionais, como L’Architecture d’Aujourd’hui e Domus, além de jornais brasileiros como O Globo e Brasília. Essa operação visual constituiu parte essencial do projeto moderno brasileiro, marcando um ponto de inflexão na forma como a arquitetura moderna passou a ser percebida, representada e legitimada. Com o tempo, no entanto, muitas dessas mesmas imagens também deram origem a leituras críticas, abordando aspectos como habitabilidade, segregação e os limites do urbanismo moderno. Esta sessão propõe explorar o papel da fotografia na construção, documentação, difusão e crítica da arquitetura moderna, entendida em sentido amplo: como patrimônio construído ou não construído, como infraestrutura funcional ou superestrutura simbólica, como produção consagrada ou em potencial. A imagem fotográfica será entendida não apenas como registro visual, mas como ferramenta ativa nos processos de consagração, ressignificação e patrimonialização. Serão especialmente bem-vindas contribuições que abordem estudos de caso entre as décadas de 1920 e 2020, em escala urbana ou arquitetônica, analisando como a fotografia moldou a percepção da modernidade arquitetônica. A sessão valorizará abordagens que considerem as tensões entre promoção e crítica, entre iconografia oficial e visões alternativas, assim como as relações entre imagem, autoria, contexto e teoria arquitetônica. • Temas de interesse incluem, entre outros: • A fotografia como ferramenta de difusão institucional da arquitetura moderna. • Narrativas visuais na construção de identidades urbanas modernas. • A imagem fotográfica como instrumento de crítica da arquitetura moderna. • Representação fotográfica e circulação internacional da arquitetura moderna. • Ensaios fotográficos como fontes para a reinterpretação do patrimônio.
+authors:
+  - givenname: "Ana"
+    familyname: "Esteban Maluenda"
+    affiliation: "UPM"
+    orcid: "0000-0002-7786-9252"
+  - givenname: "Patricia"
+    familyname: "Mendes"
+    orcid: "0000-0001-5840-0523"
+license_url: "https://creativecommons.org/licenses/by/4.0/"
+autores:
+  - "Esteban Maluenda, Ana"
+  - "Mendes, Patricia"
+---

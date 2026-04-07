@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Burdiles Allende, Roberto on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/burdiles-allende-roberto/</link>
+    <link>http://localhost:1313/autores/burdiles-allende-roberto/</link>
     <description>Recent content in Burdiles Allende, Roberto on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/burdiles-allende-roberto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/burdiles-allende-roberto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arquitectura moderna en madera en el sur de Chile</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-038/</link>
+      <link>http://localhost:1313/sul/sdsul03/sdsul03-038/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul03/sdsul03-038/</guid>
+      <guid>http://localhost:1313/sul/sdsul03/sdsul03-038/</guid>
       <description>Referências BOLDRINI, Gustavo; Vivaldi, Renato. “Bitácora del viajero”. Ediciones Altazor. Viña del Mar,Chile,1986. BLAUCPAIN, Jean Pierre. “Los alemanes en Chile: 1816-1945”. Editorial Achett. Santiago de Chile,1987. CARTES S, Iván. “Detalles Constructivos: Viviendas tradicionales de Valdivia”. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1985. CARTES S, Iván. “Detalles Constructivos: Viviendas tradicionales de Contulmo”. Facultad de Arquitectura, Construcción y Diseño Universidad el Bío-Bío, Concepción, Chile. 1987. CARTES S, Iván.</description>
     </item>
   </channel>

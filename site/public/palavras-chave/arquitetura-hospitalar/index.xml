@@ -2,59 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>arquitetura hospitalar on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/arquitetura-hospitalar/</link>
+    <link>http://localhost:1313/palavras-chave/arquitetura-hospitalar/</link>
     <description>Recent content in arquitetura hospitalar on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/arquitetura-hospitalar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/arquitetura-hospitalar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Arquitetura Moderna de saúde em Salvador</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-074/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-074/</guid>
+      <description>Referências Bierrenbach, Ana Carolina de Souza. “Os Traços das Arquiteturas Modernas de Saúde em Salvador.” Cadernos de Arquitetura e Urbanismo 24, no. 34 (1º sem. 2017): 1–48. Carvalho, Antônio Pedro Alves de. Introdução à Arquitetura Hospitalar. Salvador: Quarteto Editora, 2014. Costa, Renato da Gama-Rosa, e Gisele Sanglard. “Patrimônio Cultural da Saúde: Uma História Possível?” In Anais do XIII Encontro de História ANPUH-Rio – Identidades. Rio de Janeiro: ANPUH, Seção Rio de Janeiro, 2008.</description>
+    </item>
+    <item>
+      <title>A preservação oficial da arquitetura hospitalar em São Paulo</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-061/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-061/</guid>
+      <description>Referências Bastos, Tarcísio. “Patrimônio &amp;amp; Políticas culturais: os desafios para preservação da arquitetura hospitalar no Brasil.” Anais do IX Seminário Internacional de Políticas Culturais (maio 2018): 1159-1173. Carvalho, Maria Cristina Wolff de. Ramos de Azevedo. São Paulo: Edusp, 2000. Costa, Renato Gama-Rosa. “Arquitetura hospitalar em São Paulo.” Em História da Saúde em São Paulo: Instituições e Patrimônio Arquitetônico (1808-1958), organizado por Maria Lucia Mott e Gisele Sanglard, 25–61. Barueri: Manole; Fiocruz, 2011.</description>
+    </item>
+    <item>
+      <title>Biofilia em hospitais</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-062/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-062/</guid>
+      <description>Referências ALMEIDA, Teófilo de. “Evolução hospitalar no Brasil: ontem e hoje”. Em Evolução e planejamento hospitalar. Rio de Janeiro: Ministério da Saúde, 1965. ANELLI, Renato; GUERRA, Abilio; KON, Nelson. Rino Levi: Arquitetura e Cidade. São Paulo: Romano Guerra, 2001. COSTEIRA, E. M. A. “Arquitetura hospitalar: história, evolução e novas visões”. Sustinere volume 2, n. 2, 2014. MASCARELLO, Vera Lucia Dutra. “Princípios bioclimáticos e princípios de arquitetura moderna: evidências no edifício hospitalar”.</description>
+    </item>
+    <item>
+      <title>Cartografias modernas do Maranhão</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-065/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-065/</guid>
+      <description>Referências AMORA, Ana Albano. Utopia ao avesso nas cidades muradas da hanseníase: apontamentos para a documentação arquitetônica e urbanística das colônias de leprosos no Brasil. Cadernos de História da Ciência, v. 5, n. 1, p. 23-53, 2009. CÂMARA, Cidinalva Silva. O Começo e o Fim do Mundo: estigmatização e exclusão social de internos da colônia do Bonfim. Dissertação (Mestrado em Educação) - UFMA, São Luís, 2009. COSTA, Renato Gama-Rosa; AMORA, Ana Albano; FILGUEIRAS, Sara Cabral.</description>
+    </item>
+    <item>
+      <title>Do hospício ao campus universitário</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-056/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-056/</guid>
+      <description>Referências Argan, Giulio Carlo. “On The Tipology of Architecture”. Architectural Design, nº 33 (December 1963): 564-565. Facchinetti, Cristiana; Ribeiro, Andrea; Chagas, Daiana Crús; Reis, Cristiane de Sá. “No labirinto das fontes do Hospício Nacional de Alienados”. História, Ciências, Saúde - Manguinhos 17, nº 2 (Dezembro 2010): 733-768. Gomes, Marleide da Mota; Cavalcanti, Maria Tavares. “Hospício Nacional de Alienados e a Neurologia Brasileira no Início do Século XX”. Arquivos de Neuro-Psiquiatria 70, nº 10 (Outubro 2012): 823-825.</description>
+    </item>
+    <item>
+      <title>Hospital da Lagoa</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-069/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-069/</guid>
+      <description>Referências AMORA, Ana Albano. O engenheiro e o hospital moderno: a vanguarda de Vicente Licínio Cardoso para a moderna arquitetura hospitalar no Brasil. III ENAMPARQ- São Paulo, 2014. ANDRADE, Inês El-Jaick de. O Projeto Paisagístico do Pavilhão Arthur Neiva: O Modernismo de Burle Marx. In: AGUIAR, Barbara. CARCERERI, Maria Luisa (orgs). Arquitetura moderna e sua preservação: estudos para o plano de conservação preventiva do Pavilhão Arthur Neiva. In-Fólio, 2017. ARCHITECTURE D´ AUJOURD HUI, vol.</description>
+    </item>
+    <item>
+      <title>Valores modernos, hospital e cidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-066/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-066/</guid>
+      <description>Referências Anelli, Renato, Abilio Guerra, e Nelson Kon. Rino Levi Arquitetura e cidade: escritos e projetos. São Paulo: Romano Guerra, 2019. Carpman, Janet, e Myron Grant. Design That Cares: Planning Health Facilities for Patients and Visitors. 2ª ed. San Francisco: Jossey Bass, 1993. Costeira, Elza Maria Alves, Renato da Gama-Rosa Costa, e Erick Rodrigo da Silva Vicente. Arquitetura hospitalar: modernidade e pioneirismo na obra de Rino Levi. Cadernos de Saúde Pública 40, 2023.</description>
+    </item>
+    <item>
+      <title>Valorização e preservação do Hospital das Clínicas de Pernambuco</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-068/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-068/</guid>
+      <description>Referências Cabral, Renata Campello. Mario Russo: um arquiteto racionalista italiano em Recife. Editora Universitária UFPE, 2006. Cabral, Renata Campello. “O acervo Mario Russo: o relato do retorno ao Brasil, uma descrição e um convite a novas pesquisas”. Estudos Universitários (UFPE), 2011, 39–44. Cantarelli, Rodrigo. Contra a conspiração da ignorância com a maldade: Inspetoria de Monumentos de Pernambuco. Fundação Joaquim Nabuco, Editora Massangana, 2016. Cantarelli, Rodrigo. Historicismo na arquitetura dos subúrbios recifenses, um recorte da coleção ecletismo.</description>
+    </item>
     <item>
       <title>Arquitetura hospitalar de uma company town em transformação</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-015/</link>
+      <link>http://localhost:1313/nne/sdnne10/sdnne10-015/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne10/sdnne10-015/</guid>
+      <guid>http://localhost:1313/nne/sdnne10/sdnne10-015/</guid>
       <description>Referências BARDIN, L. Análise de conteúdo. São Paulo: Edições 70, 2011. 229p. BRASIL. Ministério da Saúde. Serviço Especial de Saúde Pública (SESP). Padrões Mínimos Hospitais, de Oscar Valdetaro, Roberto Nadalutti, Israel B. Correa e Hélio CARVALHO, Antônio. P. A. Normas de Arquitetura de Estabelecimentos Assistenciais de Saúde no Brasil. In: Revista | Magazine14 Especial Centenário, v. 14, p. 23-45, 2017. CONARQ. Conselho Nacional de Arquivos (CONARQ). Recomendações para Digitalização de Documentos Arquivísticos Permanentes.</description>
     </item>
     <item>
       <title>Hospital Tide Setúbal</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-092/</link>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-092/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-092/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-092/</guid>
       <description>Referências BONFIM, M. Almanaque. Um olhar sobre São Miguel Paulista–manifestações culturais, ontem e hoje. Fundação Tide Setúbal e Cpdoc São Miguel Paulista. São Paulo, 2008. Disponível em: &amp;lt;https://fundacaotidesetubal.org.br/midia/publicacao_246.pdf&amp;gt; , acessado em 15/05/2023. BROSS, J.C. Compreendendo o edifício de saúde. Volume 2. São Paulo: ATHENEU, 2013. p-70. CARVALHO, F. DE A.; MACIEL, M. D. Influência de uma indústria química tecnológica no desenvolvimento de uma comunidade/bairro e na opção de estudantes da região pelo curso de Química.</description>
     </item>
     <item>
       <title>O Hospital Lagoa</title>
-      <link>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-014/</link>
+      <link>http://localhost:1313/sul/sdsul06/sdsul06-014/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/sul/sdsul06/sdsul06-014/</guid>
+      <guid>http://localhost:1313/sul/sdsul06/sdsul06-014/</guid>
       <description>Referências AMORA, Ana Albano. O nacional e o moderno: a arquitetura e saúde no Estado Novo nas cidades catarinenses. Tese (Doutorado) – Programa de Pós-Graduação em Planejamento Urbano e Regional. Instituto de Pesquisa e Planejamento Urbano. Universidade Federal do Rio de Janeiro. Rio de Janeiro, 2006. ASTORGA, Jorge. Projeto de Restauração: prática e modernidade. In RIBEIRO, Rosina Trevisan M. e NOBREGA, Claudia C. L. (orgs). Projeto e Patrimônio: Reflexões e Aplicações.</description>
     </item>
     <item>
       <title>Hospital Souza Aguiar</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-106/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-106/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-106/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-106/</guid>
       <description>Referências AGACHE, A. Cidade do Rio de Janeiro: Extensão – Remodelação – Embelezamento. Paris: Foyer Brésilien, 1926-1930. AMORA, A. M. G. A.; SOUZA, E. B. IPPMG: obra exemplar, síntese das artes, de Jorge Machado Moreira. In: Recife: XI Seminário Docomomo. Anais&amp;hellip; Recife: UFPE, 2016. Disponível em: &amp;lt;http://seminario2016.docomomo.org.br&amp;gt; ARCHITECTURAL REVIEW. In search of a new monumentality. Londres: EMAP Ed., set. 1948. BARCELLOS SANTOS, R. A fuga da cidade para o parque: três projetos de Affonso Reidy para a atual área do Corredor Cultural no centro do Rio de Janeiro.</description>
     </item>
     <item>
       <title>&#34;Sistematização! Padronização! Especialização!&#34;</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-020/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-020/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-020/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-020/</guid>
       <description>Referências ALMEIDA, T. Construção e modernização da rêde nacional de hospitais. Rio de Janeiro: DOH/Ministério da Educação e Saúde, 1949. ALMEIDA, T. Evolução hospitalar no Brasil: ontem e hoje. In: Ministério da Saúde. Evolução e planejamento hospitalar (volume 2). Rio de Janeiro, 1944 - Reedição de 1965a, p. 63-135. ALMEIDA, T. A assistência hospitalar e um plano nacional para sua organização no Brasil. In: Ministério da Saúde. Especialização na moderna organização hospitalar (volume 3).</description>
     </item>
     <item>
       <title>IPPMG</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-009/</link>
+      <link>http://localhost:1313/brasil/sdbr11/sdbr11-009/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr11/sdbr11-009/</guid>
+      <guid>http://localhost:1313/brasil/sdbr11/sdbr11-009/</guid>
       <description>Referências ANDRADE, Mario. “Brazil builds”. In: XAVIER, Alberto (org.). Depoimentos de uma geração: arquitetura moderna brasileira. São Paulo: Cosac &amp;amp; Naify, 2003. BARBOZA, Luiz H. de B. H.; MOREIRA, Jorge M. Instituto de Puericultura. Revista do Serviço Público, Rio de Janeiro, DASP – Serviço de Documentação, Separata, maio 1952. BARATA, Mario. “A arquitetura como plástica e a importância atual da síntese das artes”. In: XAVIER, Alberto (org.). Depoimentos de uma geração: arquitetura moderna brasileira.</description>
     </item>
     <item>
       <title>A perda de um ícone do Movimento Moderno carioca</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-024/</link>
+      <link>http://localhost:1313/brasil/sdbr09/sdbr09-024/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr09/sdbr09-024/</guid>
+      <guid>http://localhost:1313/brasil/sdbr09/sdbr09-024/</guid>
       <description>Referências ABREU, Mauricio de A., Evolução Urbana do Rio de Janeiro. Rio de Janeiro: Prefeitura da Cidade do Rio de Janeiro, Secretaria Municipal de Urbanismo, Iplanrio, 1997. BENÉVOLO, Leonardo, Historia de la arquitectura moderna. Volume II, Madri: Editorial Taurus, 1963. CALVINO, Italo, Le Cittá Invisibili. Turín: Einaudi, 1972. CONDURU, Roberto, “Razão ao cubo”, em Jorge Czajkowski (Edit.), Jorge Machado Moreira. Rio de Janeiro: Centro de Arquitetura e Urbanismo, Secretaria Municipal de Urbanismo, Prefeitura da Cidade do Rio de Janeiro, 1999, pp.</description>
     </item>
   </channel>

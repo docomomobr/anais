@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galeazzi, Ítalo on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/galeazzi-%C3%ADtalo/</link>
+    <link>http://localhost:1313/autores/galeazzi-%C3%ADtalo/</link>
     <description>Recent content in Galeazzi, Ítalo on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/galeazzi-%C3%ADtalo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/galeazzi-%C3%ADtalo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mies van der Rohe no Brasil</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-029/</link>
+      <link>http://localhost:1313/brasil/sdbr06/sdbr06-029/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr06/sdbr06-029/</guid>
+      <guid>http://localhost:1313/brasil/sdbr06/sdbr06-029/</guid>
       <description>Referências CARTER, Meter. Mies van der Rohe at work. London: Phaidon, 1999. GUIMARAENS, Ceça de. Lúcio Costa: um certo arquiteto em incerto e secular roteiro. Rio de Janeiro: Relume Dumara, 1996. LAMBERT, Phyllis. Mies in America, Montreal, New York: Canadian Centre for Arquitecture, Whitney Museum of American Art, 2001. MINDLIN, Enrique E. Arquitetura Moderna no Brasil. Rio de Janeiro: Aeroplano Editora, 1999. NEUMEYER, Fritz. Traducido por Jordi Siguán. Mies van der Rohe.</description>
     </item>
   </channel>

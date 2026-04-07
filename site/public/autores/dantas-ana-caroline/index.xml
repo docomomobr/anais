@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dantas, Ana Caroline on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/dantas-ana-caroline/</link>
+    <link>http://localhost:1313/autores/dantas-ana-caroline/</link>
     <description>Recent content in Dantas, Ana Caroline on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/dantas-ana-caroline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/autores/dantas-ana-caroline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Radburn na Natal dos anos 30</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-024/</link>
+      <link>http://localhost:1313/brasil/sdbr04/sdbr04-024/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr04/sdbr04-024/</guid>
+      <guid>http://localhost:1313/brasil/sdbr04/sdbr04-024/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santos, Alexandre dos on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/santos-alexandre-dos/</link>
+    <link>http://localhost:1313/autores/santos-alexandre-dos/</link>
     <description>Recent content in Santos, Alexandre dos on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/santos-alexandre-dos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/santos-alexandre-dos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implantação e materialidade</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-213/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-213/</guid>
+      <description>Referências Castro, Eloah Rocha Monteiro. Jogo de formas híbridas: Arquitetura e modernidade em Florianópolis na década de 50. Florianópolis, 2002. 143 f. Tese (Doutorado) - Universidade Federal de Santa Catarina. Fontes, Roberto. “Residência de Praia”. Acrópole, N.208. (Janeiro 1956): págs.152-153. Piñón, Helio. El Proyecto como (Re) Construcción. Barcelona. Edicions UPC, 2005. Piñón, Helio. Teoría del Proyecto. 1º ed. Barcelona: Edicions UPC, 2006. Rovira, Teresa y Cristina Gastón. El Proyecto Moderno: Pautas de Investigación.</description>
+    </item>
     <item>
       <title>Resgate da obra residencial de Pedro Paulo Melo Saraiva</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-102/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-102/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-102/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-102/</guid>
       <description>Referências Serapião, Fernando. A Revista Acrópole. São Paulo. Revista ProjetoDesign. 312, 2006. Bruand, Yves. Arquitetura Contemporânea no Brasil. 4ºed. São Paulo: Editora Perspectiva, 1981 Rovira, Teresa y Cristina Gastón. El Proyecto Moderno: Pautas de Investigación. 1º ed. Barcelona: Edicions UPC, 2007. Gastón, Cristina Guirao. Mies: El proyecto como revelación del lugar. Barcelona: Fundación Caja de Arquitectos, 2005 Segawa, Hugo. Oswaldo Arthur Bratke. São Paulo: ProEditores,1997 Marques, Sergio. Obiol, Cecilia. Paulo Mendes da Rocha: Entrevista al Premio Pritzker de Arquitectura 2006.</description>
     </item>
   </channel>

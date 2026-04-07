@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Costa, Wallyson on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/costa-wallyson/</link>
+    <link>http://localhost:1313/autores/costa-wallyson/</link>
     <description>Recent content in Costa, Wallyson on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/costa-wallyson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:10:46 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/costa-wallyson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amaro Fiúza</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-028/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-028/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-028/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-028/</guid>
       <description>Referências AFONSO, Alcilia. Notas sobre métodos para a pesquisa arquitetônica patrimonial. Revista Projetar - Projeto e Percepção do Ambiente, v. 4, n. 3, pp. 54-70, dez. 2019. GASTÓN, C; ROVIRA, T. El proyecto Moderno: Pautas de Investigación. Barcelona: Ediciones UPC, 2007.PIÑON, Helio. El sentido de la arquitectura moderna. Barcelona: Ediciones UPC,1997. MENESES, Camila. As residências unifamiliares de Geraldino Duda: Um estudo sobre o morar em Campina Grande nos anos 60. 2017.</description>
     </item>
   </channel>

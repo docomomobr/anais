@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piquet, Marina Peregrino on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/piquet-marina-peregrino/</link>
+    <link>http://localhost:1313/autores/piquet-marina-peregrino/</link>
     <description>Recent content in Piquet, Marina Peregrino on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/piquet-marina-peregrino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 10:18:43 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/piquet-marina-peregrino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Park Hotel, a urgência de uma ação</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-030/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-030/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-030/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-030/</guid>
       <description>Referências BRITTO, Alfredo et alii. Arquitetura moderna no Rio de Janeiro. São Paulo: PINI/Fundação Vilanova Artigas; Rio de Janeiro: RIOARTE, 1991. BRUAND, Yves. Arquitetura Contemporânea no Brasil. São Paulo, Ed. Perspectiva, 1981. CAVALCANTI, Lauro (org.). Quando o Brasil era moderno. Guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001. COMAS, Carlos Eduardo Dias. &amp;ldquo;Uma certa arquitetura moderna brasileira: experiência a reconhecer&amp;rdquo; IN: Arquitetura Revista n° 5, Rio de Janeiro, 1987. CHOAY, Françoise.</description>
     </item>
   </channel>

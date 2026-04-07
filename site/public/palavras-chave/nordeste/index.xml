@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nordeste on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/nordeste/</link>
+    <link>http://localhost:1313/palavras-chave/nordeste/</link>
     <description>Recent content in nordeste on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/nordeste/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/nordeste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O projeto enquanto história para o ensino prático da Arquitetura Moderna</title>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-159/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-159/</guid>
+      <description>Referências Costa, Lúcio. “A situação do ensino das Belas-Artes”. Em Depoimento de uma geração: arquitetura moderna brasileira, organizado por Alberto Xavier, 57-58. São Paulo: CosacNaify, 2003. Heller, Agnes. Um teoria da história. Rio de Janeiro, Brasil: Civilização brasileira, 1993. Gumbrecht, Hans Ulrich. Nosso amplo presente: o templo e a cultura contemporânea. São Paulo, Brasil: Editora Unesp, 2015. Hooks, Bell. Ensinando a transgredir. A educação como prática da liberdade. São Paulo, Brasil: Martins Fontes, 2017.</description>
+    </item>
     <item>
       <title>Nordeste na historiografia da arquitetura brasileira</title>
-      <link>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-017/</link>
+      <link>http://localhost:1313/nne/sdnne09/sdnne09-017/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/nne/sdnne09/sdnne09-017/</guid>
+      <guid>http://localhost:1313/nne/sdnne09/sdnne09-017/</guid>
       <description>Referências BRUAND, Yves. Arquitetura contemporânea no Brasil. 5ª edição, São Paulo, Perspectiva, 2010. NASLAVSKY, Guilah. Nordeste na historiografia da Arquitetura Moderna nacional. In: Anais do 5º Seminário Docomomo Norte/Nordeste. Projeto, Obra, Uso e Memória. A intervenção no patrimônio arquitetônico modernista, 2014. ROCHA-PEIXOTO, Gustavo. Marina Waisman: o interior da história. Resenhas Online, São Paulo, ano 13, n. 145.02, Vitruvius, jan. 2014. [online]. Disponível em: &amp;lt;https://vitruvius.com.br/revistas/read/resenhasonline/13.145/5035&amp;gt; acesso em 07 dez 2021. SEGAWA, Hugo.</description>
     </item>
     <item>
       <title>Registros</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-029/</link>
+      <link>http://localhost:1313/brasil/sdbr05/sdbr05-029/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr05/sdbr05-029/</guid>
+      <guid>http://localhost:1313/brasil/sdbr05/sdbr05-029/</guid>
       <description>Referências LARA, Fernando. Modernismo Popular: Uma análise da recepção da arquitetura moderna no Brasil. São Paulo: trabalho apresentado no III Seminário DOCOMOMO Brasil, 1999. LOUREIRO, Kátia Afonso S. A Trajetória urbana de Aracaju em tempos de interferir. Aracaju: Instituto de Economia e Pesquisa — INEP, 1983. Plano Diretor de Desenvolvimento Urbano de Aracaju. Aracaju: Diário Oficial do Município de Aracaju, 2000. PORTO, Fernando de Figueiredo. Alguns nomes antigos do Aracaju. Aracaju: Gráfica Editora J.</description>
     </item>
   </channel>

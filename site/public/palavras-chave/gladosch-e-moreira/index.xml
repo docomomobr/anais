@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gladosch e Moreira on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/gladosch-e-moreira/</link>
+    <link>http://localhost:1313/palavras-chave/gladosch-e-moreira/</link>
     <description>Recent content in Gladosch e Moreira on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 10:00:55 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/gladosch-e-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 15:54:08 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/gladosch-e-moreira/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A mão e sua impressão</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-052/</link>
+      <link>http://localhost:1313/brasil/sdbr07/sdbr07-052/</link>
       <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr07/sdbr07-052/</guid>
+      <guid>http://localhost:1313/brasil/sdbr07/sdbr07-052/</guid>
       <description>Referências ABREU FILHO, Silvio Belmonte de. A esquina do moderno. Porto Alegre: ARQtexto n.5, 2004, p.82-97. ABREU FILHO, Silvio Belmonte de. Porto Alegre como cidade ideal. Planos e Projetos urbanos para Porto Alegre. Tese de Doutorado. Porto Alegre: PROPAR/UFRGS, 2006. CAIXETA, Eline Maria Moura P. Affonso Eduardo Reidy: “o poeta construtor”. Tese Doutoral. Barcelona: ETSAB – UPC, 2000. CZAJKOWSKI, Jorge (org.). Jorge Machado Moreira. Rio de Janeiro: Prefeitura Municipal do Rio de Janeiro, Centro de Arquitetura e Urbanismo do Rio de Janeiro, 1999.</description>
     </item>
   </channel>

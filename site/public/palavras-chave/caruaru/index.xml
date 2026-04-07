@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caruaru on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/caruaru/</link>
+    <link>http://localhost:1313/palavras-chave/caruaru/</link>
     <description>Recent content in Caruaru on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/caruaru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/caruaru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comunicação, diversão e oração</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-162/</link>
+      <link>http://localhost:1313/brasil/sdbr08/sdbr08-162/</link>
       <pubDate>Sun, 11 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr08/sdbr08-162/</guid>
+      <guid>http://localhost:1313/brasil/sdbr08/sdbr08-162/</guid>
       <description>Referências ALBUM Artistico, Commercial e Industrial do Estado de Pernambuco. Recife: Editado por Manuel Rodriguez Folgueira, 1925. ALBUM Revista de Caruaru. Caruaru, 1937. AMORIM, Luiz. Obituário Arquitetônico: Pernambuco Modernista. Recife: O autor, 2007. AMORIM, Luiz. Arquitetura. In: ROSEMBERG, André (Org.). Pernambuco: 5 décadas de arte, 1950-2000. Recife: Quadro Publicidade e Design, 2003. ANAIS do 5º Seminário Docomomo Brasil. Arquitetura e Urbanismo Modernos: Projeto e Preservação. São Carlos: Universidade de São Paulo, 2003.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bordignon, Gabriel Barros on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/bordignon-gabriel-barros/</link>
+    <link>http://localhost:1313/autores/bordignon-gabriel-barros/</link>
     <description>Recent content in Bordignon, Gabriel Barros on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/bordignon-gabriel-barros/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/bordignon-gabriel-barros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O jornalismo cultural de Flávio de Carvalho</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-121/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-121/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-121/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-121/</guid>
       <description>Referências AMARAL, Araci Abreu. Arte para que?: a preocupação social na arte brasileira, 1930-1970. São Paulo, Nobel, 1984. BARACHINI, Teresinha. Flávio de Carvalho: procissões urbanas. Anais do Congresso Internacional da Associação de Pesquisadores em Crítica Genética, X Edição, 2012. BRAGA, Marcos da Costa. Flávio de Carvalho: Uma contribuição ao campo arquitetônico brasileiro. Revista Intellectus da Universidade Estadual do Rio de Janeiro, Ano 4, vol 2, Rio de Janeiro – RJ, 2005.</description>
     </item>
   </channel>

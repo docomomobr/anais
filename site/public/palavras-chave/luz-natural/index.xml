@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luz Natural on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/palavras-chave/luz-natural/</link>
+    <link>http://localhost:1313/palavras-chave/luz-natural/</link>
     <description>Recent content in Luz Natural on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 28 Mar 2026 16:40:15 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/palavras-chave/luz-natural/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Mar 2026 11:19:01 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/palavras-chave/luz-natural/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luz e dimensão sagrada</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-064/</link>
+      <link>http://localhost:1313/brasil/sdbr13/sdbr13-064/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr13/sdbr13-064/</guid>
+      <guid>http://localhost:1313/brasil/sdbr13/sdbr13-064/</guid>
       <description>Referências BRANDÃO, Lêda. A Invenção da Luz Moderna. São Paulo, 2005. Tese (Doutorado) - Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAUUSP). COMAS, Carlos Eduardo Dias. Paulo Mendes da Rocha: o prumo dos 90. In: AU, São Paulo, nº 97, ago/set. 2001, p. 102-109. BENOÎT, J; GIRAUD, V. From the things themselves: architecture and phenomenology. Kyoto: Kyoto University Press, 2012. HEIDEGGER, M. (1926). Ser e tempo: parte 1.</description>
     </item>
     <item>
       <title>A real preservação do MAM-Rio</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-092/</link>
+      <link>http://localhost:1313/brasil/sdbr10/sdbr10-092/</link>
       <pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr10/sdbr10-092/</guid>
+      <guid>http://localhost:1313/brasil/sdbr10/sdbr10-092/</guid>
       <description>Referências Bonduki, Nabil (Org.) Affonso Eduardo Reidy. Lisboa: Blau/ Instituto Lina Bo P. M. Bardi, 2000. Bruand, Yves. Arquitetura contemporãnea no Brasil. Tradução Ana M. Goldberger. 4ª Edição. São Paulo: Perspectiva, 2008. Cavalcanti, Lauro (Org.). Quando o Brasil era moderno: guia de Arquitetura 1928-1960. Rio de Janeiro: Aeroplano, 2001 Coelho, Frederico (org.). Museu de Arte Moderna: arquitetura e construção. Rio de Janeiro: Cobogó, 2010. Costa, Alvaro Augusto de Carvalho. A arquitetura de museus de arte: MAM-Rio e Coleção Fortabat – Buenos Aires.</description>
     </item>
   </channel>

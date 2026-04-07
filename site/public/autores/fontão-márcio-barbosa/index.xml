@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fontão, Márcio Barbosa on Anais Docomomo Brasil</title>
-    <link>https://anais.docomomobrasil.com/autores/font%C3%A3o-m%C3%A1rcio-barbosa/</link>
+    <link>http://localhost:1313/autores/font%C3%A3o-m%C3%A1rcio-barbosa/</link>
     <description>Recent content in Fontão, Márcio Barbosa on Anais Docomomo Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Mar 2026 14:04:47 -0300</lastBuildDate>
-    <atom:link href="https://anais.docomomobrasil.com/autores/font%C3%A3o-m%C3%A1rcio-barbosa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 10:24:45 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/autores/font%C3%A3o-m%C3%A1rcio-barbosa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plataformas</title>
-      <link>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-032/</link>
+      <link>http://localhost:1313/brasil/sdbr16/sdbr16-076/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/brasil/sdbr16/sdbr16-076/</guid>
+      <description>Referências Camillo Sitte, A construção das cidades segundo seus princípios artísticos (São Paulo: Ática, 1992) Christian Topalov, Stella Bresciani e Laurent Coudroy de Lille e Hélène Rivière d’Arc, A aventura das palavras da cidade: ao longo dos tempos, das línguas e das sociedades, (São Paulo: Romano Guerra, 2014) Kenneth Frampton, Megaform as Urban Landscape (Ann Arbor: University of Michigan, A. Alfred Taubman College of Architecture + Urban Planning, 1999), 15. Pedro Gonçalo Jerónimo de Jesus Caiado, Das partes e do todo: Le Corbusier e a ideia de composição (Dissertação de Mestrado em Arquitetura, Universidade de Coimbra, 2017) Le Corbusier, Por uma arquitetura, (São Paulo: Perspectiva, 2014) 22, 144.</description>
+    </item>
+    <item>
+      <title>Plataformas</title>
+      <link>http://localhost:1313/brasil/sdbr15/sdbr15-032/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://anais.docomomobrasil.com/brasil/sdbr15/sdbr15-032/</guid>
+      <guid>http://localhost:1313/brasil/sdbr15/sdbr15-032/</guid>
       <description>Referências CALAFATE, Caio Carvalho. Entre arquitetura e infraestrutura: desenho do solo como dispositivo de projeto na Plataforma Rodoviária de Brasília. Dissertação de Mestrado – Pontifícia Universidade Católica do Rio de Janeiro. Rio de Janeiro, 2015. COROLLUN, Martin Gonzalo. A plataforma rodoviária de Brasília: infraestrutura, arquitetura e urbanidade. Dissertação de Mestrado – Universidade de São Paulo. São Paulo, 2013. COSTA, Lucio. Relatório do Plano Piloto de Brasília. ArPDF, CODEPLAN, DePHA – Brasília.</description>
     </item>
   </channel>
