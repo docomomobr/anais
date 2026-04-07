@@ -129,7 +129,7 @@
       {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}.
       {{ if .Params.event_name -}}
       In: {{ upper .Params.event_name }}, {{ .Params.event_edition }}., {{ .Params.event_year }}, {{ .Params.event_city }}.
-      Anais [...].
+      <strong>Anais do {{ .Params.event_edition }}º {{ .Params.event_name }}{{ with .Params.event_subtitle }}: {{ . }}{{ end }}</strong>.
       {{ with $.Params.event_publisher }}{{ $.Params.event_city }}: {{ . }}, {{ end }}{{ dateFormat "2006" .Date }}.
       {{- else -}}
       In: {{ upper .Params.event_title }}. {{ dateFormat "2006" .Date }}.
