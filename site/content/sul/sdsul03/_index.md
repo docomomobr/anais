@@ -1,7 +1,7 @@
 ---
 title: "3º Seminário Docomomo Sul, Porto Alegre, 2010"
 subtitle: "Madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970"
-date: 2010-11-08
+date: 2010-01-01
 type: evento
 slug: sdsul03
 ambito: sul

@@ -1,7 +1,7 @@
 ---
 title: "10º Seminário Docomomo Norte/Nordeste, Campina Grande, 2024"
 subtitle: "Conservar já, Documentar sempre!"
-date: 2024-11-11
+date: 2024-01-01
 type: evento
 slug: sdnne10
 ambito: nne

@@ -8,6 +8,7 @@ weight: 10
 section_title: "Projeto e Técnicas Construtivas"
 section_seq: 6
 event_title: "11º Seminário Docomomo Brasil, Recife, 2016"
+event_subtitle: "O campo ampliado do movimento moderno"
 event_location: "Recife"
 event_date: "2016-01-01"
 event_isbn: "978-85-415-0803-2"

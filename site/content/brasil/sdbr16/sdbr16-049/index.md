@@ -34,7 +34,7 @@ authors:
     familyname: "Vieira Soares"
     affiliation: "UFG"
 doi: "10.5281/zenodo.19434139"
-zenodo_pdf_url: "https://zenodo.org/records/19434140/files/sdbr16-049.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446631/files/sdbr16-049.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Vieira Soares, Ana Elisa"

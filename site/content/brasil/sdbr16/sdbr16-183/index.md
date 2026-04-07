@@ -33,7 +33,7 @@ authors:
     affiliation: "FADU-UdelaR"
     orcid: "0009-0006-5115-890X"
 doi: "10.5281/zenodo.19434500"
-zenodo_pdf_url: "https://zenodo.org/records/19434501/files/sdbr16-183.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446669/files/sdbr16-183.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Peláez Iglesias, Alfredo"

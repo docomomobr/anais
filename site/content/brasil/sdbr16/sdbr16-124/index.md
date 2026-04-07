@@ -34,7 +34,7 @@ authors:
     affiliation: "PPG-FAU-UnB"
     orcid: "0000-0002-8374-558X"
 doi: "10.5281/zenodo.19434366"
-zenodo_pdf_url: "https://zenodo.org/records/19434367/files/sdbr16-124.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446659/files/sdbr16-124.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Pires, João Magnus"

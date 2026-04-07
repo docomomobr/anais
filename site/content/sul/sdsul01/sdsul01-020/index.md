@@ -8,6 +8,7 @@ section_title: "Escritórios, Apartamentos e Esquadrias"
 section_seq: 2
 section_label: "sessão"
 event_title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
+event_subtitle: "A segunda idade do vidro: transparência e sombra na arquitetura moderna do cone sul americano 1930/70"
 event_location: "Porto Alegre, RS"
 event_date: "2006-08-22"
 event_isbn: "85-60188-00-2"

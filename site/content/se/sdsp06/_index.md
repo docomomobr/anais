@@ -1,7 +1,7 @@
 ---
 title: "6º Seminário Docomomo São Paulo, São Carlos, 2018"
 subtitle: "a Arquitetura Moderna paulista e a questão social"
-date: 2018-09-24
+date: 2018-01-01
 type: evento
 slug: sdsp06
 ambito: se

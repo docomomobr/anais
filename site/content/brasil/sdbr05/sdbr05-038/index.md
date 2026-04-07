@@ -8,6 +8,7 @@ section_title: "Habitação / Espaços de morar"
 section_seq: 10
 section_label: "sessão"
 event_title: "5º Seminário Docomomo Brasil, São Carlos, 2003"
+event_subtitle: "Arquitetura e Urbanismo modernos: projeto e preservação"
 event_location: "São Carlos"
 event_date: "2003-01-01"
 event_isbn: "85-85205-43-1"

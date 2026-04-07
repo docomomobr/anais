@@ -7,6 +7,7 @@ type: artigo
 weight: 10
 section_title: "Projetos esquecidos"
 event_title: "7º Seminário Docomomo Sul, Porto Alegre, 2022"
+event_subtitle: "O moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II"
 event_location: "Porto Alegre, RS"
 event_date: "2022-11-17"
 event_isbn: "978-65-89263-60-9"

@@ -7,6 +7,7 @@ weight: 10
 section_title: "Sessão 4"
 section_seq: 4
 event_title: "2º Seminário Docomomo Sul, Porto Alegre, 2008"
+event_subtitle: "Concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70"
 event_location: "Porto Alegre, RS"
 event_date: "2008-08-25"
 event_isbn: "978-85-60188-09-3"

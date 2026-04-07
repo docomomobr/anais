@@ -8,6 +8,7 @@ section_title: "As Cidades Assumem o Moderno"
 section_seq: 2
 section_label: "seção temática"
 event_title: "1º Seminário Docomomo Paraná, Curitiba, 2006"
+event_subtitle: "Constituição da Arquitetura Moderna no Paraná"
 event_location: "Curitiba, PR"
 event_date: "2006-08-17"
 event_publisher: "Núcleo Docomomo Paraná"

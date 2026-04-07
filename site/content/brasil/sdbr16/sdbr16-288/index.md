@@ -40,7 +40,7 @@ authors:
     affiliation: "UPM"
     orcid: "0000-0003-2529-0596"
 doi: "10.5281/zenodo.19434751"
-zenodo_pdf_url: "https://zenodo.org/records/19434752/files/sdbr16-288.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446683/files/sdbr16-288.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Merli, Giovanna"

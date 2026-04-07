@@ -40,7 +40,7 @@ authors:
     familyname: "Silva"
     affiliation: "PROURB-FAU-UFRJ"
 doi: "10.5281/zenodo.19434073"
-zenodo_pdf_url: "https://zenodo.org/records/19434074/files/sdbr16-022.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446616/files/sdbr16-022.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Pereira, Clara Braga de Britto"

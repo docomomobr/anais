@@ -9,6 +9,7 @@ section_title: "A preservação e o moderno"
 section_seq: 1
 section_label: "sessão"
 event_title: "6º Seminário Docomomo Brasil, Niterói, 2005"
+event_subtitle: "Moderno e nacional, Arquitetura e Urbanismo"
 event_location: "Niterói"
 event_date: "2005-01-01"
 event_isbn: "85-99618-01-6"

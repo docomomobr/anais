@@ -8,6 +8,7 @@ weight: 10
 section_title: "O legado do Movimento Moderno na teoria, crítica e historiografia"
 section_seq: 2
 event_title: "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009"
+event_subtitle: "Cidade moderna e contemporânea: síntese e paradoxo das artes"
 event_location: "Rio de Janeiro"
 event_date: "2009-10-11"
 event_isbn: "978-85-88027-11-4"

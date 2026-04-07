@@ -8,6 +8,7 @@ weight: 10
 section_title: "Disseminação da Arquitetura Moderna"
 section_seq: 14
 event_title: "9º Seminário Docomomo Brasil, Brasília, 2011"
+event_subtitle: "Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente"
 event_location: "Brasília"
 event_date: "2011-10-10"
 event_isbn: "978-85-60762-04-0"

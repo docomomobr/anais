@@ -34,7 +34,7 @@ authors:
     affiliation: "UFSJ"
     orcid: "0000-0002-1145-8258"
 doi: "10.5281/zenodo.19434302"
-zenodo_pdf_url: "https://zenodo.org/records/19434303/files/sdbr16-099.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446651/files/sdbr16-099.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Arimateia, Karine"

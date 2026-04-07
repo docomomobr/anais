@@ -1,8 +1,9 @@
 id: sdsul06-020
 type: paper-conference
 title: 'Arquitetura industrial na obra de Gregório Zolko: cinco casos de estudo'
-container-title: 6º Seminário Docomomo Sul, Porto Alegre, 2019
-event-title: 6º Seminário Docomomo Sul, Porto Alegre, 2019
+container-title: 'O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte
+  I'
+event-title: 6º Seminário Docomomo Sul
 issued:
   date-parts:
   - - 2019
@@ -10,6 +11,7 @@ language: pt-BR
 author:
 - family: Palermo
   given: Nicolás Sica
+  ORCID: https://orcid.org/0000-0003-0680-7684
 - family: Oliveira
   given: Ricardo José Rossin de
   ORCID: https://orcid.org/0009-0007-5815-866X

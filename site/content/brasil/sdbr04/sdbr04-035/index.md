@@ -9,6 +9,7 @@ section_title: "Novas Práticas Urbanísticas e Desenho Urbano Moderno"
 section_seq: 2
 section_label: "subtema"
 event_title: "4º Seminário Docomomo Brasil, Viçosa, 2001"
+event_subtitle: "A Arquitetura moderna brasileira e os processos regionais de industrialização"
 event_location: "Viçosa"
 event_date: "2001-01-01"
 event_publisher: "UFV"

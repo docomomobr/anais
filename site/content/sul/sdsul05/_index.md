@@ -1,7 +1,7 @@
 ---
 title: "5º Seminário Docomomo Sul, Porto Alegre, 2016"
 subtitle: "O moderno no contemporâneo: herança e prática"
-date: 2016-07-25
+date: 2016-01-01
 type: evento
 slug: sdsul05
 ambito: sul

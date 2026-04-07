@@ -36,7 +36,7 @@ authors:
     affiliation: "FAUeD-USP"
     orcid: "0000-0001-9175-7604"
 doi: "10.5281/zenodo.19434075"
-zenodo_pdf_url: "https://zenodo.org/records/19434076/files/sdbr16-023.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446617/files/sdbr16-023.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Quadros, Ana Luiza Zimmermann de"

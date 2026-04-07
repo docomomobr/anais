@@ -34,7 +34,7 @@ authors:
     affiliation: "CES-UC"
     orcid: "0000-0002-4666-0552"
 doi: "10.5281/zenodo.19434548"
-zenodo_pdf_url: "https://zenodo.org/records/19434549/files/sdbr16-203.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446672/files/sdbr16-203.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Maia, Guilherme Rene"

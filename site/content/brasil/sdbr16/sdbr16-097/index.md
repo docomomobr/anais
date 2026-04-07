@@ -36,7 +36,7 @@ authors:
     familyname: "Cândido"
     affiliation: "UNIMA-Afya"
 doi: "10.5281/zenodo.19434298"
-zenodo_pdf_url: "https://zenodo.org/records/19434299/files/sdbr16-097.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446648/files/sdbr16-097.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Alves, Brenda Abreu Protásio"

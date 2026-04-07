@@ -35,7 +35,7 @@ authors:
     affiliation: "FAU-UnB"
     orcid: "0000-0002-0678-1659"
 doi: "10.5281/zenodo.19434111"
-zenodo_pdf_url: "https://zenodo.org/records/19434112/files/sdbr16-036.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446624/files/sdbr16-036.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Rossetti, Eduardo Pierrotti"

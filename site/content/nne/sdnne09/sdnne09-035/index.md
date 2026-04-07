@@ -9,6 +9,7 @@ section_title: "Artigos Completos — Paisagem"
 section_seq: 2
 section_label: "eixo temático"
 event_title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
+event_subtitle: "Arquitetura, paisagem e cultura — Ecos da modernidade"
 event_location: "São Luís, MA"
 event_date: "2022-12-09"
 event_isbn: "978-65-00-56400-6"

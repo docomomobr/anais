@@ -6,6 +6,7 @@ type: artigo
 document_type: defeituoso
 weight: 10
 event_title: "7º Seminário Docomomo Norte/Nordeste, Manaus, 2018"
+event_subtitle: "Tradição nativa, universalidade e conservação"
 event_location: "Manaus, AM"
 event_date: "2018-08-13"
 event_isbn: "978-85-526-0057-2"

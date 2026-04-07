@@ -34,7 +34,7 @@ authors:
     affiliation: "UFRGS"
     orcid: "0009-0002-8082-4853"
 doi: "10.5281/zenodo.19434125"
-zenodo_pdf_url: "https://zenodo.org/records/19434126/files/sdbr16-044.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446629/files/sdbr16-044.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Fischmann, Daniel Pitta"

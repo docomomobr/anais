@@ -39,7 +39,7 @@ authors:
     familyname: "Costa"
     affiliation: "PROURB-FAU-UFRJ"
 doi: "10.5281/zenodo.19434577"
-zenodo_pdf_url: "https://zenodo.org/records/19434578/files/sdbr16-215.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446674/files/sdbr16-215.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Teixeira, Pedro Guimarães"

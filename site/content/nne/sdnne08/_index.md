@@ -1,7 +1,7 @@
 ---
 title: "8º Seminário Docomomo Norte/Nordeste, Palmas, 2021"
 subtitle: "Transferências culturais, historiografia, intervenções e cidade moderna"
-date: 2021-08-18
+date: 2021-01-01
 type: evento
 slug: sdnne08
 ambito: nne

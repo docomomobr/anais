@@ -33,7 +33,7 @@ authors:
     familyname: "Semin"
     affiliation: "Piratininga Arquitetos"
 doi: "10.5281/zenodo.19434530"
-zenodo_pdf_url: "https://zenodo.org/records/19434531/files/sdbr16-197.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446671/files/sdbr16-197.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Semin, Renata"

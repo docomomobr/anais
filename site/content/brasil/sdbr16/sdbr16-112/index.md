@@ -33,7 +33,7 @@ authors:
     affiliation: "UFRJ"
     orcid: "0000-0003-4606-2488"
 doi: "10.5281/zenodo.19434332"
-zenodo_pdf_url: "https://zenodo.org/records/19434334/files/sdbr16-112.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446656/files/sdbr16-112.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Santos, Leonardo Rodrigues Mesquita"

@@ -7,6 +7,7 @@ slug: sdsp09-023
 type: artigo
 weight: 10
 event_title: "9º Seminário Docomomo São Paulo, Santos, 2024"
+event_subtitle: "Preservar e Valorizar o Patrimônio Arquitetônico Moderno: o papel das instituições públicas e agentes privados"
 event_location: "Santos, SP"
 event_date: "2024-09-26"
 event_isbn: "978-65-01-21986-8"

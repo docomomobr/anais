@@ -1,7 +1,7 @@
 ---
 title: "8º Seminário Docomomo Brasil, Rio de Janeiro, 2009"
 subtitle: "Cidade moderna e contemporânea: síntese e paradoxo das artes"
-date: 2009-10-11
+date: 2009-01-01
 type: evento
 slug: sdbr08
 ambito: brasil

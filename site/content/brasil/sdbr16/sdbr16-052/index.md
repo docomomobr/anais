@@ -33,7 +33,7 @@ authors:
     familyname: "Blas"
     affiliation: "FAU-USP"
 doi: "10.5281/zenodo.19434145"
-zenodo_pdf_url: "https://zenodo.org/records/19434146/files/sdbr16-052.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446633/files/sdbr16-052.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Blas, Rafael"

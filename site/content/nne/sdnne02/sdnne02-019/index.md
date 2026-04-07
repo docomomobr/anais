@@ -6,6 +6,7 @@ slug: sdnne02-019
 type: artigo
 weight: 10
 event_title: "2º Seminário Docomomo Norte/Nordeste, Salvador, 2008"
+event_subtitle: "Desafios da preservação: referências da arquitetura e do urbanismo modernos no Norte e Nordeste"
 event_location: "Salvador, BA"
 event_date: "2008-06-04"
 event_publisher: "Núcleo Docomomo BA.SE / UFBA"

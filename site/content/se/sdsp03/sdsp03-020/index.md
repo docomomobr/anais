@@ -8,6 +8,7 @@ weight: 10
 section_title: "Comunicações Orais — Projetos de conservação e restauro"
 section_seq: 10
 event_title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
+event_subtitle: "permanência e transitoriedade do Movimento Modernista paulista"
 event_date: "2005-08-17"
 event_publisher: "Núcleo Docomomo São Paulo / Universidade Presbiteriana Mackenzie"
 event_slug: sdsp03

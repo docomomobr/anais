@@ -38,7 +38,7 @@ authors:
     affiliation: "UnB"
     orcid: "0000-0003-0426-8090"
 doi: "10.5281/zenodo.19434520"
-zenodo_pdf_url: "https://zenodo.org/records/19434521/files/sdbr16-191.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446670/files/sdbr16-191.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Figueira, Rafaela Heinzelmann"

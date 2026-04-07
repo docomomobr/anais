@@ -8,6 +8,7 @@ weight: 10
 section_title: "Parte 01"
 section_seq: 1
 event_title: "1º Seminário Docomomo Brasil, Salvador, 1995"
+event_subtitle: "Universalidade e diversidade do movimento moderno em Arquitetura e Urbanismo no Brasil"
 event_location: "Salvador"
 event_date: "1995-01-01"
 event_isbn: "978-85-66843-07-1"

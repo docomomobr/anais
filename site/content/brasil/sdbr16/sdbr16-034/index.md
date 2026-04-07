@@ -34,7 +34,7 @@ authors:
     affiliation: "UFPR"
     orcid: "0000-0001-5976-5006"
 doi: "10.5281/zenodo.19434107"
-zenodo_pdf_url: "https://zenodo.org/records/19434108/files/sdbr16-034.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446622/files/sdbr16-034.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Pacheco, Paulo"

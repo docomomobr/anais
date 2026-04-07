@@ -6,6 +6,7 @@ slug: 38
 type: artigo
 weight: 10
 event_title: "6º Seminário Docomomo Norte/Nordeste, Teresina, 2016"
+event_subtitle: "Arquitetura — tectônica e lugar"
 event_location: "Teresina, PI"
 event_date: "2016-08-10"
 event_isbn: "978-85-7463-919-2"

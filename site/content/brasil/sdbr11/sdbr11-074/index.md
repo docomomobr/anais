@@ -6,6 +6,7 @@ slug: sdbr11-074
 type: artigo
 weight: 10
 event_title: "11º Seminário Docomomo Brasil, Recife, 2016"
+event_subtitle: "O campo ampliado do movimento moderno"
 event_location: "Recife"
 event_date: "2016-01-01"
 event_isbn: "978-85-415-0803-2"

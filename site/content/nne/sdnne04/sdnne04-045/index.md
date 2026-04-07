@@ -6,6 +6,7 @@ type: artigo
 weight: 10
 section_title: "A arquitetura moderna como projeto"
 event_title: "4º Seminário Docomomo Norte/Nordeste, Natal, 2012"
+event_subtitle: "Arquitetura em cidades \"sempre novas\": modernismo, projeto e patrimônio"
 event_location: "Natal, RN"
 event_date: "2012-05-29"
 event_isbn: "978-85-63014-05-4"

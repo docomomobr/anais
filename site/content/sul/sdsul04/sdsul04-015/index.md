@@ -7,6 +7,7 @@ weight: 10
 section_title: "Sessão de comunicação 3"
 section_seq: 1
 event_title: "4º Seminário Docomomo Sul, Porto Alegre, 2013"
+event_subtitle: "Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970"
 event_location: "Porto Alegre, RS"
 event_date: "2013-03-25"
 event_isbn: "978-85-60188-13-0"

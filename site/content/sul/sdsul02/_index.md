@@ -1,7 +1,7 @@
 ---
 title: "2º Seminário Docomomo Sul, Porto Alegre, 2008"
 subtitle: "Concreto: plasticidade e industrialização na arquitetura do cone sul americano, 1930/70"
-date: 2008-08-25
+date: 2008-01-01
 type: evento
 slug: sdsul02
 ambito: sul

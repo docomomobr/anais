@@ -9,6 +9,7 @@ section_title: "A Arquitetura Moderna, cultura e natureza"
 section_seq: 1
 section_label: "área temática"
 event_title: "14º Seminário Docomomo Brasil, Belém, 2021"
+event_subtitle: "O Modernismo em movimento: usos, reusos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil"
 event_location: "Belém"
 event_date: "2021-10-27"
 event_isbn: "978-65-00-40027-4"

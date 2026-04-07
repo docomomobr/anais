@@ -38,7 +38,7 @@ authors:
     affiliation: "UFBA"
     orcid: "0000-0002-8476-5339"
 doi: "10.5281/zenodo.19434715"
-zenodo_pdf_url: "https://zenodo.org/records/19434716/files/sdbr16-273.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446681/files/sdbr16-273.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Bierrenbach, Ana Carolina de Souza"

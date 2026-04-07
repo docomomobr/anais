@@ -1,7 +1,7 @@
 ---
 title: "5º Seminário Docomomo Norte/Nordeste, Fortaleza, 2014"
 subtitle: "Projeto, Obra, Uso e Memória — A intervenção no patrimônio arquitetônico modernista"
-date: 2014-11-11
+date: 2014-01-01
 type: evento
 slug: sdnne05
 ambito: nne

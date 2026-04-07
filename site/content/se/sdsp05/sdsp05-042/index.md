@@ -8,6 +8,7 @@ weight: 10
 section_title: "Reconhecimento"
 section_seq: 1
 event_title: "5º Seminário Docomomo São Paulo, São Paulo, 2017"
+event_subtitle: "Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão"
 event_location: "São Paulo, SP"
 event_date: "2017-10-16"
 event_isbn: "978-85-88157-16-3"
@@ -40,6 +41,7 @@ keywords_en:
 authors:
   - givenname: "Nicolás Sica"
     familyname: "Palermo"
+    orcid: "0000-0003-0680-7684"
 doi: "10.5281/zenodo.19289213"
 zenodo_pdf_url: "https://zenodo.org/records/19289214/files/sdsp05-042.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

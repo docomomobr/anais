@@ -8,6 +8,7 @@ weight: 10
 section_title: "Artigos — Agricultura & Pecuária"
 section_seq: 5
 event_title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
+event_subtitle: "Infraestrutura / Superestrutura, Cone Sul Global"
 event_location: "Porto Alegre, RS"
 event_date: "2025-03-24"
 event_isbn: "978-85-61965-82-2"

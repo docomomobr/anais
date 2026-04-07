@@ -1,7 +1,7 @@
 ---
 title: "10º Seminário Docomomo Brasil, Curitiba, 2013"
 subtitle: "Arquitetura moderna e internacional: conexões brutalistas 1955-75"
-date: 2013-10-15
+date: 2013-01-01
 type: evento
 slug: sdbr10
 ambito: brasil

@@ -1,7 +1,7 @@
 ---
 title: "13º Seminário Docomomo Brasil, Salvador, 2019"
 subtitle: "Arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo"
-date: 2019-10-07
+date: 2019-01-01
 type: evento
 slug: sdbr13
 ambito: brasil

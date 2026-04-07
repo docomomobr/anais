@@ -33,7 +33,7 @@ authors:
     familyname: "Rosenbusch"
     affiliation: "PPGAU FAUUSP"
 doi: "10.5281/zenodo.19434340"
-zenodo_pdf_url: "https://zenodo.org/records/19434341/files/sdbr16-115.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446657/files/sdbr16-115.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Rosenbusch, Gregório"

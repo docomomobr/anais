@@ -33,7 +33,7 @@ authors:
     familyname: "Barbiero"
     affiliation: "UFRGS"
 doi: "10.5281/zenodo.19434069"
-zenodo_pdf_url: "https://zenodo.org/records/19434199/files/sdbr16-020.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446615/files/sdbr16-020.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Barbiero, João Paulo Silveira"

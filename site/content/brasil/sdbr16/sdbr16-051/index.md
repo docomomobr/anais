@@ -35,7 +35,7 @@ authors:
     affiliation: "USP"
     orcid: "0009-0000-0039-1724"
 doi: "10.5281/zenodo.19434143"
-zenodo_pdf_url: "https://zenodo.org/records/19434144/files/sdbr16-051.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446632/files/sdbr16-051.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Fontenelle, Romullo Baratto"

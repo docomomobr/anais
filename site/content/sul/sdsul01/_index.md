@@ -1,7 +1,7 @@
 ---
 title: "1º Seminário Docomomo Sul, Porto Alegre, 2006"
 subtitle: "A segunda idade do vidro: transparência e sombra na arquitetura moderna do cone sul americano 1930/70"
-date: 2006-08-22
+date: 2006-01-01
 type: evento
 slug: sdsul01
 ambito: sul

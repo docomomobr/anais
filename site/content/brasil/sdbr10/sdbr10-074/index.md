@@ -9,6 +9,7 @@ section_title: "Lina's"
 section_seq: 23
 section_label: "sessão"
 event_title: "10º Seminário Docomomo Brasil, Curitiba, 2013"
+event_subtitle: "Arquitetura moderna e internacional: conexões brutalistas 1955-75"
 event_location: "Curitiba"
 event_date: "2013-10-15"
 event_isbn: "978-85-60188-14-7"

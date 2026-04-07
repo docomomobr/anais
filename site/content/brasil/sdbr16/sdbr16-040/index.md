@@ -33,7 +33,7 @@ authors:
     affiliation: "UFRJ"
     orcid: "0000-0001-5554-1806"
 doi: "10.5281/zenodo.19434117"
-zenodo_pdf_url: "https://zenodo.org/records/19434118/files/sdbr16-040.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446626/files/sdbr16-040.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Cavalcante, Julia"

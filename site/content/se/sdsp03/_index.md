@@ -1,7 +1,7 @@
 ---
 title: "3º Seminário Docomomo São Paulo, São Paulo, 2005"
 subtitle: "permanência e transitoriedade do Movimento Modernista paulista"
-date: 2005-08-17
+date: 2005-01-01
 type: evento
 slug: sdsp03
 ambito: se

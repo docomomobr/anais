@@ -32,7 +32,7 @@ authors:
     familyname: "Ribeiro"
     affiliation: "PROPAR-UFRGS"
 doi: "10.5281/zenodo.19434137"
-zenodo_pdf_url: "https://zenodo.org/records/19434138/files/sdbr16-048.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446630/files/sdbr16-048.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Ribeiro, Luciano de Topin"

@@ -9,6 +9,7 @@ section_title: "A formação dos futuros profissionais e a preservação do Movi
 section_seq: 4
 section_label: "eixo"
 event_title: "12º Seminário Docomomo Brasil, Uberlândia, 2017"
+event_subtitle: "Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade"
 event_location: "Uberlândia"
 event_date: "2017-11-21"
 event_isbn: "978-85-64554-03-0"

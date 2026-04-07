@@ -40,7 +40,7 @@ authors:
     affiliation: "PROURB-FAU-UFRJ"
     orcid: "0000-0001-8145-8301"
 doi: "10.5281/zenodo.19434083"
-zenodo_pdf_url: "https://zenodo.org/records/19434084/files/sdbr16-025.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446618/files/sdbr16-025.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Leal, Gustavo"

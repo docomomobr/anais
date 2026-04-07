@@ -33,7 +33,7 @@ authors:
     affiliation: "Unicamp"
     orcid: "0000-0002-6940-8341"
 doi: "10.5281/zenodo.19434598"
-zenodo_pdf_url: "https://zenodo.org/records/19434599/files/sdbr16-224.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446678/files/sdbr16-224.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Florio, Wilson"

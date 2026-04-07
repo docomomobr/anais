@@ -34,7 +34,7 @@ authors:
     familyname: "Souza"
     affiliation: "FAUUSP"
 doi: "10.5281/zenodo.19434487"
-zenodo_pdf_url: "https://zenodo.org/records/19434488/files/sdbr16-178.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446667/files/sdbr16-178.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Souza, Guilherme Braz de"

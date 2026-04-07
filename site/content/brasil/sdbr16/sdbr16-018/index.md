@@ -39,7 +39,7 @@ authors:
     familyname: "Brandão"
     affiliation: "DIPC-FMC-PBH"
 doi: "10.5281/zenodo.19434064"
-zenodo_pdf_url: "https://zenodo.org/records/19434197/files/sdbr16-018.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446612/files/sdbr16-018.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Carsalade, Flávio de Lemos"

@@ -42,7 +42,7 @@ authors:
     affiliation: "FAU-USP"
     orcid: "0000-0001-8083-6059"
 doi: "10.5281/zenodo.19434105"
-zenodo_pdf_url: "https://zenodo.org/records/19434106/files/sdbr16-033.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446621/files/sdbr16-033.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Figueiredo, Rolando"

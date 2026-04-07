@@ -10,6 +10,7 @@ slug: sdnne08-011
 type: artigo
 weight: 10
 event_title: "8º Seminário Docomomo Norte/Nordeste, Palmas, 2021"
+event_subtitle: "Transferências culturais, historiografia, intervenções e cidade moderna"
 event_location: "Palmas, TO"
 event_date: "2021-08-18"
 event_isbn: "978-65-00-71382-4"

@@ -33,7 +33,7 @@ authors:
     affiliation: "UFSM-CS"
     orcid: "0009-0002-6191-5426"
 doi: "10.5281/zenodo.19434733"
-zenodo_pdf_url: "https://zenodo.org/records/19434734/files/sdbr16-281.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446682/files/sdbr16-281.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Bido, Isadora Dias"

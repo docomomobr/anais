@@ -34,7 +34,7 @@ authors:
     affiliation: "UFAL"
     orcid: "0000-0002-5643-7450"
 doi: "10.5281/zenodo.19434382"
-zenodo_pdf_url: "https://zenodo.org/records/19434383/files/sdbr16-130.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446660/files/sdbr16-130.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Hecktheuer, Patricia"

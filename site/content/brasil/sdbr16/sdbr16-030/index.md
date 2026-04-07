@@ -37,7 +37,7 @@ authors:
     familyname: "Salvador"
     affiliation: "UFRJ"
 doi: "10.5281/zenodo.19434098"
-zenodo_pdf_url: "https://zenodo.org/records/19434099/files/sdbr16-030.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446620/files/sdbr16-030.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Costa, Jônatas Sousa da"

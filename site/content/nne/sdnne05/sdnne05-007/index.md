@@ -9,6 +9,7 @@ section_title: "História e Historiografia da Arquitetura e do Urbanismo Moderno
 section_seq: 1
 section_label: "eixo"
 event_title: "5º Seminário Docomomo Norte/Nordeste, Fortaleza, 2014"
+event_subtitle: "Projeto, Obra, Uso e Memória — A intervenção no patrimônio arquitetônico modernista"
 event_location: "Fortaleza, CE"
 event_date: "2014-11-11"
 event_publisher: "Núcleo Docomomo Ceará / UFC"

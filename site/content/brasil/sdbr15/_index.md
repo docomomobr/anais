@@ -1,7 +1,7 @@
 ---
 title: "15º Seminário Docomomo Brasil, São Carlos, 2023"
 subtitle: "Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade"
-date: 2023-10-17
+date: 2023-01-01
 type: evento
 slug: sdbr15
 ambito: brasil

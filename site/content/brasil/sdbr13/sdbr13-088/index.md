@@ -8,6 +8,7 @@ section_title: "Inventário e documentação"
 section_seq: 2
 section_label: "eixo"
 event_title: "13º Seminário Docomomo Brasil, Salvador, 2019"
+event_subtitle: "Arquitetura moderna brasileira: 25 anos do Docomomo Brasil: todos os mundos, um só mundo"
 event_location: "Salvador"
 event_date: "2019-10-07"
 event_isbn: "978-85-66843-06-4"

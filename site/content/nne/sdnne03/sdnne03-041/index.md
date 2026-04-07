@@ -5,6 +5,7 @@ slug: sdnne03-041
 type: artigo
 weight: 10
 event_title: "3º Seminário Docomomo Norte/Nordeste, João Pessoa, 2010"
+event_subtitle: "Morte e vida severinas: das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil"
 event_location: "João Pessoa, PB"
 event_date: "2010-05-16"
 event_isbn: "978-85-237-0559-6"

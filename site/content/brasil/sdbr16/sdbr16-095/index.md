@@ -38,7 +38,7 @@ authors:
     affiliation: "UFRJ"
     orcid: "0000-0002-3108-2833"
 doi: "10.5281/zenodo.19434294"
-zenodo_pdf_url: "https://zenodo.org/records/19434295/files/sdbr16-095.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446644/files/sdbr16-095.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Ilg, Thomas"

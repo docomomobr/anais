@@ -8,6 +8,7 @@ weight: 10
 section_title: "Agência e Consideração"
 section_seq: 8
 event_title: "7º Seminário Docomomo Brasil, Porto Alegre, 2007"
+event_subtitle: "O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura"
 event_location: "Porto Alegre"
 event_date: "2007-10-09"
 event_isbn: "978-85-60188-06-2"

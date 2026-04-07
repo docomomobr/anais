@@ -34,7 +34,7 @@ authors:
     affiliation: "PROPAR-UFRGS"
     orcid: "0009-0002-6724-4619"
 doi: "10.5281/zenodo.19434034"
-zenodo_pdf_url: "https://zenodo.org/records/19434186/files/sdbr16-007.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446609/files/sdbr16-007.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Theisen, Anye"

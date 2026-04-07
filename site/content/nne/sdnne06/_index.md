@@ -1,7 +1,7 @@
 ---
 title: "6º Seminário Docomomo Norte/Nordeste, Teresina, 2016"
 subtitle: "Arquitetura — tectônica e lugar"
-date: 2016-08-10
+date: 2016-01-01
 type: evento
 slug: sdnne06
 ambito: nne

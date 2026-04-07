@@ -9,6 +9,7 @@ section_title: "O universo popular na arquitetura moderna"
 section_seq: 4
 section_label: "mesa"
 event_title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
+event_subtitle: "Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade"
 event_location: "Recife, PE"
 event_date: "2006-05-08"
 event_isbn: "978-85-98747-02-6"

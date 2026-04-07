@@ -1,7 +1,7 @@
 ---
 title: "9º Seminário Docomomo Norte/Nordeste, São Luís, 2022"
 subtitle: "Arquitetura, paisagem e cultura — Ecos da modernidade"
-date: 2022-12-09
+date: 2022-01-01
 type: evento
 slug: sdnne09
 ambito: nne

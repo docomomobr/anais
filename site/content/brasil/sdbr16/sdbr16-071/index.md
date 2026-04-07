@@ -38,7 +38,7 @@ authors:
     affiliation: "UFRGS"
     orcid: "0000-0001-6440-8126"
 doi: "10.5281/zenodo.19434237"
-zenodo_pdf_url: "https://zenodo.org/records/19434238/files/sdbr16-071.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446640/files/sdbr16-071.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Daltrozo, Jenifer Godoy"

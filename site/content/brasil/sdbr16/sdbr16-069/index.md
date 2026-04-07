@@ -34,7 +34,7 @@ authors:
     affiliation: "ABDEH"
     orcid: "0000-0002-5635-4989"
 doi: "10.5281/zenodo.19434230"
-zenodo_pdf_url: "https://zenodo.org/records/19434231/files/sdbr16-069.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446639/files/sdbr16-069.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Costeira, Elza Maria Alves"

@@ -12,6 +12,7 @@ section_title: "Artigos Completos — Conservação do Moderno"
 section_seq: 2
 section_label: "eixo"
 event_title: "10º Seminário Docomomo Norte/Nordeste, Campina Grande, 2024"
+event_subtitle: "Conservar já, Documentar sempre!"
 event_location: "Campina Grande, PB"
 event_date: "2024-11-11"
 event_isbn: "978-65-272-1054-2"

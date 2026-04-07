@@ -44,7 +44,7 @@ authors:
     affiliation: "COC-Fiocruz"
     orcid: "0000-0003-0286-0250"
 doi: "10.5281/zenodo.19434228"
-zenodo_pdf_url: "https://zenodo.org/records/19434229/files/sdbr16-068.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446638/files/sdbr16-068.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Hirth, Elisabeth D’abreu"

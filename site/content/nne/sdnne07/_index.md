@@ -1,7 +1,7 @@
 ---
 title: "7º Seminário Docomomo Norte/Nordeste, Manaus, 2018"
 subtitle: "Tradição nativa, universalidade e conservação"
-date: 2018-08-13
+date: 2018-01-01
 type: evento
 slug: sdnne07
 ambito: nne

@@ -1,7 +1,7 @@
 ---
 title: "2º Seminário Docomomo Paraná, Londrina, 2012"
 subtitle: "Arquitetura moderna em cidades de porte médio, 1940-70"
-date: 2012-10-01
+date: 2012-01-01
 type: evento
 slug: sdpr02
 ambito: sul

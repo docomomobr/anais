@@ -39,7 +39,7 @@ authors:
     affiliation: "UFRJ"
     orcid: "0000-0003-1559-2128"
 doi: "10.5281/zenodo.19434304"
-zenodo_pdf_url: "https://zenodo.org/records/19434305/files/sdbr16-100.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446652/files/sdbr16-100.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Ruschel, Augusto"

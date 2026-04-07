@@ -1,7 +1,7 @@
 ---
 title: "6th International DOCOMOMO Conference"
 subtitle: "The Modern City Facing the Future"
-date: 2000-09-19
+date: 2000-01-01
 type: evento
 slug: idc06
 ambito: internacional

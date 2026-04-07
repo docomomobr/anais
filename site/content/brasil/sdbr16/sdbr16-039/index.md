@@ -42,7 +42,7 @@ authors:
     affiliation: "FAU-USP"
     orcid: "0000-0003-1864-2979"
 doi: "10.5281/zenodo.19434115"
-zenodo_pdf_url: "https://zenodo.org/records/19434116/files/sdbr16-039.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446625/files/sdbr16-039.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Santos, Priscila Gonçalves"

@@ -34,7 +34,7 @@ authors:
     familyname: "Tardin"
     affiliation: "PROARQ-FAU-UFRJ"
 doi: "10.5281/zenodo.19434489"
-zenodo_pdf_url: "https://zenodo.org/records/19434490/files/sdbr16-180.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446668/files/sdbr16-180.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Tardin, Tiago"

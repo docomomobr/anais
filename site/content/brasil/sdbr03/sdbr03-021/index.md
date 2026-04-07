@@ -7,6 +7,7 @@ weight: 10
 section_title: "Experiências internacionais"
 section_seq: 6
 event_title: "3º Seminário Docomomo Brasil, São Paulo, 1999"
+event_subtitle: "A permanência do moderno"
 event_location: "São Paulo"
 event_date: "1999-01-01"
 event_isbn: "85-85205-56-3"

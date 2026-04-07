@@ -1,7 +1,7 @@
 ---
 title: "7º Seminário Docomomo Brasil, Porto Alegre, 2007"
 subtitle: "O moderno já passado, o passado no moderno: reciclagem, requalificação, rearquitetura"
-date: 2007-10-09
+date: 2007-01-01
 type: evento
 slug: sdbr07
 ambito: brasil

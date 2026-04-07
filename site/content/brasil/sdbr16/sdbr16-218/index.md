@@ -41,7 +41,7 @@ authors:
     affiliation: "PROURB-FAU-UFRJ"
     orcid: "0009-0009-1950-1386"
 doi: "10.5281/zenodo.19434583"
-zenodo_pdf_url: "https://zenodo.org/records/19434584/files/sdbr16-218.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446675/files/sdbr16-218.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Vereza, Carolina"

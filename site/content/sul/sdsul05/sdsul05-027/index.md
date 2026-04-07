@@ -6,6 +6,7 @@ slug: sdsul05-027
 type: artigo
 weight: 10
 event_title: "5º Seminário Docomomo Sul, Porto Alegre, 2016"
+event_subtitle: "O moderno no contemporâneo: herança e prática"
 event_location: "Porto Alegre, RS"
 event_date: "2016-07-25"
 event_isbn: "978-85-61965-40-2"
@@ -29,6 +30,7 @@ authors:
   - givenname: "Nicolás Sica"
     familyname: "Palermo"
     affiliation: "UFRGS"
+    orcid: "0000-0003-0680-7684"
 doi: "10.5281/zenodo.19291785"
 zenodo_pdf_url: "https://zenodo.org/records/19291786/files/sdsul05-027.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

@@ -36,7 +36,7 @@ authors:
     affiliation: "PROPAR/UFRGS"
     orcid: "0000-0003-3749-5812"
 doi: "10.5281/zenodo.19434148"
-zenodo_pdf_url: "https://zenodo.org/records/19434200/files/sdbr16-053.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446634/files/sdbr16-053.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Cidade, Daniela Mendes"

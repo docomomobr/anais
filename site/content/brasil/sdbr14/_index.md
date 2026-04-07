@@ -1,7 +1,7 @@
 ---
 title: "14º Seminário Docomomo Brasil, Belém, 2021"
 subtitle: "O Modernismo em movimento: usos, reusos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil"
-date: 2021-10-27
+date: 2021-01-01
 type: evento
 slug: sdbr14
 ambito: brasil

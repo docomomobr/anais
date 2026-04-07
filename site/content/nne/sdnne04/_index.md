@@ -1,7 +1,7 @@
 ---
 title: "4º Seminário Docomomo Norte/Nordeste, Natal, 2012"
 subtitle: "Arquitetura em cidades \"sempre novas\": modernismo, projeto e patrimônio"
-date: 2012-05-29
+date: 2012-01-01
 type: evento
 slug: sdnne04
 ambito: nne

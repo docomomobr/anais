@@ -33,7 +33,7 @@ authors:
     familyname: "Carvalho"
     affiliation: "UNIFAP"
 doi: "10.5281/zenodo.19434451"
-zenodo_pdf_url: "https://zenodo.org/records/19434452/files/sdbr16-161.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446664/files/sdbr16-161.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Carvalho, Bianca Moro de"

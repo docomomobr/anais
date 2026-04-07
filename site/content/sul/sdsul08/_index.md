@@ -1,7 +1,7 @@
 ---
 title: "8º Seminário Docomomo Sul, Porto Alegre, 2025"
 subtitle: "Infraestrutura / Superestrutura, Cone Sul Global"
-date: 2025-03-24
+date: 2025-01-01
 type: evento
 slug: sdsul08
 ambito: sul

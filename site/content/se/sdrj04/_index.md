@@ -1,7 +1,7 @@
 ---
 title: "4º Seminário Docomomo Rio, Rio de Janeiro, 2017"
 subtitle: "O moderno no Rio: do risco ao risco"
-date: 2017-10-31
+date: 2017-01-01
 type: evento
 slug: sdrj04
 ambito: se

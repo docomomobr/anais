@@ -1,7 +1,7 @@
 ---
 title: "2º Encontro Docomomo Rio, Rio de Janeiro, 2012"
 subtitle: "Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense"
-date: 2012-09-26
+date: 2012-01-01
 type: evento
 slug: sdrj02
 ambito: se

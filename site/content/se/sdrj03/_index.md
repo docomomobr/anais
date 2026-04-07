@@ -1,7 +1,7 @@
 ---
 title: "3º Encontro Docomomo Rio, Rio de Janeiro, 2014"
 subtitle: "A Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953)"
-date: 2014-09-26
+date: 2014-01-01
 type: evento
 slug: sdrj03
 ambito: se

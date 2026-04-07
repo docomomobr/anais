@@ -6,6 +6,7 @@ slug: sdsul05-013
 type: artigo
 weight: 10
 event_title: "5º Seminário Docomomo Sul, Porto Alegre, 2016"
+event_subtitle: "O moderno no contemporâneo: herança e prática"
 event_location: "Porto Alegre, RS"
 event_date: "2016-07-25"
 event_isbn: "978-85-61965-40-2"

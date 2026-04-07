@@ -33,7 +33,7 @@ authors:
     affiliation: "Mackenzie"
     orcid: "0000-0001-7538-2750"
 doi: "10.5281/zenodo.19434211"
-zenodo_pdf_url: "https://zenodo.org/records/19434212/files/sdbr16-061.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446637/files/sdbr16-061.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Wolff, Silvia Ferreira Santos"

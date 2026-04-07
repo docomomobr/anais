@@ -33,7 +33,7 @@ authors:
     familyname: "Braule"
     affiliation: "FAU-USP"
 doi: "10.5281/zenodo.19434594"
-zenodo_pdf_url: "https://zenodo.org/records/19434595/files/sdbr16-222.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446676/files/sdbr16-222.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Braule, Pedro"

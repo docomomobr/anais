@@ -1,7 +1,7 @@
 ---
 title: "1º Seminário Docomomo Paraná, Curitiba, 2006"
 subtitle: "Constituição da Arquitetura Moderna no Paraná"
-date: 2006-08-17
+date: 2006-01-01
 type: evento
 slug: sdpr01
 ambito: sul

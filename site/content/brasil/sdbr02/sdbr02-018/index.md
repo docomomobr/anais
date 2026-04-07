@@ -6,6 +6,7 @@ slug: sdbr02-018
 type: artigo
 weight: 10
 event_title: "2º Seminário Docomomo Brasil, Salvador, 1997"
+event_subtitle: "Novas formulações no campo da Arquitetura e Urbanismo"
 event_location: "Salvador"
 event_date: "1997-01-01"
 event_isbn: "978-85-509-0555-6"

@@ -37,7 +37,7 @@ authors:
     familyname: "Salgado"
     affiliation: "FAU-USP"
 doi: "10.5281/zenodo.19434620"
-zenodo_pdf_url: "https://zenodo.org/records/19434621/files/sdbr16-235.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446679/files/sdbr16-235.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Lima, Mauricio Cavalcante"

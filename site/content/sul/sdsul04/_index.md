@@ -1,7 +1,7 @@
 ---
 title: "4º Seminário Docomomo Sul, Porto Alegre, 2013"
 subtitle: "Pedra, barro e metal: norma e licença na arquitetura moderna do cone sul americano, 1930-1970"
-date: 2013-03-25
+date: 2013-01-01
 type: evento
 slug: sdsul04
 ambito: sul

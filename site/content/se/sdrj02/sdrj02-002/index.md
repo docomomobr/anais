@@ -5,6 +5,7 @@ slug: sdrj02-002
 type: artigo
 weight: 10
 event_title: "2º Encontro Docomomo Rio, Rio de Janeiro, 2012"
+event_subtitle: "Arquivos de Arquitetura Moderna: fontes e acervos para a preservação do patrimônio fluminense"
 event_date: "2012-09-26"
 event_isbn: "978-85-88341-55-5"
 event_publisher: "UFRJ/FAU/PROARQ"

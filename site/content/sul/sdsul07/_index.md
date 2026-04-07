@@ -1,7 +1,7 @@
 ---
 title: "7º Seminário Docomomo Sul, Porto Alegre, 2022"
 subtitle: "O moderno e reformado: debatendo o projeto do B. 1920-2022. Parte II"
-date: 2022-11-17
+date: 2022-01-01
 type: evento
 slug: sdsul07
 ambito: sul

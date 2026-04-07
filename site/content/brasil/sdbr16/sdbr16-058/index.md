@@ -36,7 +36,7 @@ authors:
     affiliation: "FAU-USP"
     orcid: "0009-0008-2278-9678"
 doi: "10.5281/zenodo.19434161"
-zenodo_pdf_url: "https://zenodo.org/records/19434162/files/sdbr16-058.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446636/files/sdbr16-058.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Nadalutti, Luiza"

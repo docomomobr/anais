@@ -34,7 +34,7 @@ authors:
     affiliation: "FA-UNAM"
     orcid: "0000-0002-7971-4000"
 doi: "10.5281/zenodo.19434055"
-zenodo_pdf_url: "https://zenodo.org/records/19434195/files/sdbr16-016.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446611/files/sdbr16-016.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Nagel Vega, Vanessa"

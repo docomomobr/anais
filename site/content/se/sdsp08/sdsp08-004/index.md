@@ -8,6 +8,7 @@ section_title: "Homenageados"
 section_seq: 1
 section_label: "eixo temático"
 event_title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
+event_subtitle: "a Arquitetura e Urbanismo Modernos e os acervos"
 event_location: "São Carlos, SP"
 event_date: "2022-08-23"
 event_isbn: "978-65-86810-58-5"

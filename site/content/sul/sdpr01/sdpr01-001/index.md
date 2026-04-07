@@ -7,6 +7,7 @@ type: artigo
 weight: 10
 section_title: "Conferência"
 event_title: "1º Seminário Docomomo Paraná, Curitiba, 2006"
+event_subtitle: "Constituição da Arquitetura Moderna no Paraná"
 event_location: "Curitiba, PR"
 event_date: "2006-08-17"
 event_publisher: "Núcleo Docomomo Paraná"

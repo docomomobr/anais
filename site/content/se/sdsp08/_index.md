@@ -1,7 +1,7 @@
 ---
 title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
 subtitle: "a Arquitetura e Urbanismo Modernos e os acervos"
-date: 2022-08-23
+date: 2022-01-01
 type: evento
 slug: sdsp08
 ambito: se

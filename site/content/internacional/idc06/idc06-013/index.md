@@ -8,6 +8,7 @@ weight: 10
 section_title: "Brasilia Session"
 section_seq: 4
 event_title: "6th International DOCOMOMO Conference"
+event_subtitle: "The Modern City Facing the Future"
 event_location: "Brasília, DF"
 event_date: "2000-09-19"
 event_publisher: "Universidade de Brasília; Universidade Federal da Bahia"

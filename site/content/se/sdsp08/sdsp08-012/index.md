@@ -10,6 +10,7 @@ slug: sdsp08-012
 type: artigo
 weight: 10
 event_title: "8º Seminário Docomomo São Paulo, São Carlos, 2022"
+event_subtitle: "a Arquitetura e Urbanismo Modernos e os acervos"
 event_location: "São Carlos, SP"
 event_date: "2022-08-23"
 event_isbn: "978-65-86810-58-5"

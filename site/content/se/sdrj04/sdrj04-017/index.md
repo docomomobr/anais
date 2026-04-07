@@ -8,6 +8,7 @@ section_title: "Workshop"
 section_seq: 3
 section_label: "eixo"
 event_title: "4º Seminário Docomomo Rio, Rio de Janeiro, 2017"
+event_subtitle: "O moderno no Rio: do risco ao risco"
 event_date: "2017-10-31"
 event_isbn: "978-85-88027-42-8"
 event_publisher: "Núcleo Docomomo Rio"

@@ -8,6 +8,7 @@ weight: 10
 section_title: "Pôsteres"
 section_seq: 1
 event_title: "3º Encontro Docomomo Rio, Rio de Janeiro, 2014"
+event_subtitle: "A Arquitetura Moderna Fluminense ao tempo de Milton Roberto (1914 — 1953)"
 event_date: "2014-09-26"
 event_isbn: "978-85-88341-63-0"
 event_publisher: "UFRJ/FAU/PROARQ"

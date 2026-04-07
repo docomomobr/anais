@@ -1,7 +1,7 @@
 ---
 title: "3º Seminário Docomomo Norte/Nordeste, João Pessoa, 2010"
 subtitle: "Morte e vida severinas: das ressurreições e conservações (im)possíveis do patrimônio moderno no Norte e Nordeste do Brasil"
-date: 2010-05-16
+date: 2010-01-01
 type: evento
 slug: sdnne03
 ambito: nne

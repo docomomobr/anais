@@ -1,7 +1,7 @@
 ---
 title: "1º Seminário Docomomo Norte/Nordeste, Recife, 2006"
 subtitle: "Arquitetura e Urbanismo Modernos no Norte e Nordeste do Brasil: universalidade e diversidade"
-date: 2006-05-08
+date: 2006-01-01
 type: evento
 slug: sdnne01
 ambito: nne

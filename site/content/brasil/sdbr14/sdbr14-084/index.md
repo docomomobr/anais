@@ -9,6 +9,7 @@ section_title: "Documentar. Preservar. Conservar. O Patrimônio Moderno e seus u
 section_seq: 2
 section_label: "área temática"
 event_title: "14º Seminário Docomomo Brasil, Belém, 2021"
+event_subtitle: "O Modernismo em movimento: usos, reusos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil"
 event_location: "Belém"
 event_date: "2021-10-27"
 event_isbn: "978-65-00-40027-4"
@@ -36,6 +37,7 @@ authors:
     familyname: "Ferreira"
   - givenname: "Fernanda Freitas Costa de"
     familyname: "Torres"
+    orcid: "0000-0001-6982-855X"
 doi: "10.5281/zenodo.19078189"
 zenodo_pdf_url: "https://zenodo.org/records/19078190/files/sdbr14-084.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"

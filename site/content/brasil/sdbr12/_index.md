@@ -1,7 +1,7 @@
 ---
 title: "12º Seminário Docomomo Brasil, Uberlândia, 2017"
 subtitle: "Arquitetura e Urbanismo do Movimento Moderno: patrimônio cultural brasileiro: difusão, preservação e sociedade"
-date: 2017-11-21
+date: 2017-01-01
 type: evento
 slug: sdbr12
 ambito: brasil

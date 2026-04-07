@@ -33,7 +33,7 @@ authors:
     affiliation: "UFSC"
     orcid: "0000-0003-4121-4251"
 doi: "10.5281/zenodo.19434561"
-zenodo_pdf_url: "https://zenodo.org/records/19434562/files/sdbr16-209.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446673/files/sdbr16-209.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Pires, João Marcos"

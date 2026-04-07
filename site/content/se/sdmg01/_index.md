@@ -1,7 +1,7 @@
 ---
 title: "1º Seminário Docomomo Minas Gerais, Belo Horizonte, 2010"
 subtitle: "Arquitetura e urbanismo modernos em Minas Gerais: novas fronteiras, novos cenários"
-date: 2010-04-20
+date: 2010-01-01
 type: evento
 slug: sdmg01
 ambito: se

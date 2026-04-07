@@ -1,7 +1,7 @@
 ---
 title: "6º Seminário Docomomo Sul, Porto Alegre, 2019"
 subtitle: "O moderno e reformado: debatendo o projeto do B. 1920-2019. Parte I"
-date: 2019-11-07
+date: 2019-01-01
 type: evento
 slug: sdsul06
 ambito: sul

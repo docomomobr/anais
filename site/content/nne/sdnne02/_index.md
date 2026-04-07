@@ -1,7 +1,7 @@
 ---
 title: "2º Seminário Docomomo Norte/Nordeste, Salvador, 2008"
 subtitle: "Desafios da preservação: referências da arquitetura e do urbanismo modernos no Norte e Nordeste"
-date: 2008-06-04
+date: 2008-01-01
 type: evento
 slug: sdnne02
 ambito: nne

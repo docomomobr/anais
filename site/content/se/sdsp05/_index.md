@@ -1,7 +1,7 @@
 ---
 title: "5º Seminário Docomomo São Paulo, São Paulo, 2017"
 subtitle: "Arquiteturas do Patrimônio Moderno Paulista: reconhecimento, intervenção, gestão"
-date: 2017-10-16
+date: 2017-01-01
 type: evento
 slug: sdsp05
 ambito: se

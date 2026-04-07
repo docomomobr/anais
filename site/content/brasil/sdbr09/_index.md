@@ -1,7 +1,7 @@
 ---
 title: "9º Seminário Docomomo Brasil, Brasília, 2011"
 subtitle: "Interdisciplinaridade e experiências de documentação e preservação do patrimônio recente"
-date: 2011-10-10
+date: 2011-01-01
 type: evento
 slug: sdbr09
 ambito: brasil

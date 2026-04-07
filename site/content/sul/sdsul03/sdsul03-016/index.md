@@ -8,6 +8,7 @@ section_title: "Panoramas — Mesa B"
 section_seq: 2
 section_label: "mesa"
 event_title: "3º Seminário Docomomo Sul, Porto Alegre, 2010"
+event_subtitle: "Madeira: primitivismo e inovação na arquitetura moderna do cone sul americano, 1930-1970"
 event_location: "Porto Alegre, RS"
 event_date: "2010-11-08"
 event_isbn: "978-85-60188-11-6"

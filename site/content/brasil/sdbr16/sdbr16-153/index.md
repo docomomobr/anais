@@ -44,7 +44,7 @@ authors:
     affiliation: "UFRJ"
     orcid: "0000-0002-6997-2284"
 doi: "10.5281/zenodo.19434433"
-zenodo_pdf_url: "https://zenodo.org/records/19434434/files/sdbr16-153.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446662/files/sdbr16-153.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Costa, Fernando Araújo"

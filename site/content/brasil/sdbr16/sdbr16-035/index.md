@@ -37,7 +37,7 @@ authors:
     affiliation: "UPM"
     orcid: "0000-0001-9882-2747"
 doi: "10.5281/zenodo.19434109"
-zenodo_pdf_url: "https://zenodo.org/records/19434110/files/sdbr16-035.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446623/files/sdbr16-035.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Oliveira, Luciana Monzillo de"

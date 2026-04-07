@@ -10,6 +10,7 @@ section_title: "Tensões entre público e privado"
 section_seq: 4
 section_label: "eixo"
 event_title: "15º Seminário Docomomo Brasil, São Carlos, 2023"
+event_subtitle: "Arquitetura e Urbanismo e a reconstrução do Estado e da sociedade"
 event_location: "São Carlos, SP"
 event_date: "2023-10-17"
 event_isbn: "978-65-272-0196-0"

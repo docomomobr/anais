@@ -1,7 +1,7 @@
 ---
 title: "7º Seminário Docomomo São Paulo, São Paulo, 2020"
 subtitle: "a difusão da Arquitetura Moderna, 1930-1980"
-date: 2020-11-09
+date: 2020-01-01
 type: evento
 slug: sdsp07
 ambito: se

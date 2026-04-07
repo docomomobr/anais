@@ -34,7 +34,7 @@ authors:
     affiliation: "USP"
     orcid: "0000-0003-2196-8339"
 doi: "10.5281/zenodo.19434322"
-zenodo_pdf_url: "https://zenodo.org/records/19434323/files/sdbr16-108.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446655/files/sdbr16-108.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Godoi, Fabrício Ribeiro dos Santos"

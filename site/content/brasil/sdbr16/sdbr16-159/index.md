@@ -37,7 +37,7 @@ authors:
     affiliation: "UFAL"
     orcid: "0000-0002-7527-7640"
 doi: "10.5281/zenodo.19434447"
-zenodo_pdf_url: "https://zenodo.org/records/19434448/files/sdbr16-159.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/19446663/files/sdbr16-159.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 autores:
   - "Andrade, Manuella Marianna"
