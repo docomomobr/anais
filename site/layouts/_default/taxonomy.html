@@ -3,6 +3,22 @@
 <meta name="description" content="Artigos de {{ .Title }} nos anais dos seminários Docomomo Brasil. {{ len .Pages }} artigo{{ if gt (len .Pages) 1 }}s{{ end }}.">
 {{ else -}}
 <meta name="description" content="Artigos sobre {{ .Title | lower }} nos anais dos seminários Docomomo Brasil. {{ len .Pages }} artigo{{ if gt (len .Pages) 1 }}s{{ end }}.">
+{{/* hreflang cruzado: declara as versões PT/EN/ES como alternativas de idioma quando o mesmo slug existe nas outras taxonomias trilíngues */}}
+{{ $trilingual := slice "palavras-chave" "keywords" "palabras-clave" -}}
+{{ if in $trilingual .Data.Plural -}}
+{{ $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+{{ $map := dict "palavras-chave" "pt-BR" "keywords" "en" "palabras-clave" "es" -}}
+{{ range $tax, $lang := $map -}}
+{{ $url := printf "/%s/%s/" $tax $slug -}}
+{{ with $.Site.GetPage $url -}}
+<link rel="alternate" hreflang="{{ $lang }}" href="{{ .Permalink }}">
+{{ end -}}
+{{ end -}}
+{{ $defaultUrl := printf "/palavras-chave/%s/" $slug -}}
+{{ with $.Site.GetPage $defaultUrl -}}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ end -}}
+{{ end -}}
 {{ end -}}
 {{ end }}
 
