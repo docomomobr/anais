@@ -806,3 +806,45 @@ Registro cronológico das sessões de trabalho. Movido do CLAUDE.md para reduzir
 
 - **sdbr07 record IDs trocados**: 69 record IDs re-mapeados (renumeração PROPAR desalinhou IDs com records). 7 artigos (070-076) com PDFs renomeados no Zenodo via nova versão (fix_zenodo_metadata.py + build_record_payload).
 - **Verificação completa**: 2559 artigos verificados contra API Zenodo. 0 mismatches fora do sdbr07.
+
+### 2026-05-07 — SEO/GSC: diagnóstico de indexação + correções
+
+- **Diagnóstico GSC**: site no ar há ~6 semanas; sitemap submetido em 28/03 e processado (14.869 URLs); 58 indexadas, 13.099 "rastreada não-indexada", 1.328 "detectada não-indexada", 1.155 "cópia, canônica diferente", 510 404, 828 bloqueada por robots.txt (esperado, .bib/.ris/.json/.yaml).
+- **Inspeção de URL**: páginas tecnicamente OK (rastreamento permitido, indexação permitida, canônica reconhecida pelo Google = URL declarada). Não há disputa Zenodo PDF vs Hugo HTML — Google reconhece o HTML como canônico.
+- **Causa raiz**: domínio novo + grande volume + alta similaridade entre páginas + autoridade externa baixa. Sem fix técnico único; é juízo de qualidade do Google.
+- **Correção 1 — JSON-LD**: removido `Event` aninhado de `partials/jsonld.html`. Cada artigo declarava o mesmo Event do seminário, gerando 8 avisos opcionais e sinal espúrio de duplicação (290 páginas com mesmo Event). Mantém `ScholarlyArticle isPartOf Book(Anais)`. COinS, Highwire e DC intocados — Zotero/Mendeley/Scholar continuam funcionando. Commit f1fb32fc6.
+- **Correção 2 — hreflang trilíngue**: `_default/taxonomy.html` emite `<link rel="alternate" hreflang>` cruzado entre `/palavras-chave/`, `/keywords/` e `/palabras-clave/` quando o mesmo slug existe em mais de uma taxonomia (~2.204 slugs). Endereça as 1.155 URLs de "Cópia, canônica diferente". x-default aponta para a versão PT. Commit dc1601caf.
+- **404 (510 URLs)**: todas em taxonomias (`/keywords/`, `/palavras-chave/`, `/palabras-clave/`) — herança de builds anteriores quando dict.db ajustou normalização entre execuções, mudando slugs. Decisão: aceitar; Google esquece em ~6 meses. Não vale mapear 510 redirects.
+- **GSC ações solicitadas**: indexação de sdbr16/ e sdbr16-100; "Validar a correção" em "Rastreada não-indexada"; pode-se acionar agora "Validar a correção" em "Cópia, canônica diferente" porque hreflang está em produção.
+- **Pendências externas (fora do escopo do site)**: submeter ao Google Scholar via [scholar.google.com/inclusion](https://scholar.google.com/intl/pt-BR/scholar/inclusion.html); buscar backlinks independentes (Lattes, Wikipedia, ResearchGate, periódicos). O backlink atual de `docomomobrasil.com` (menu Publicações → Anais) é interno-de-grupo e tem peso reduzido.
+
+#### Baseline para comparação futura (snapshot 2026-05-07, 19:30 BRT)
+
+Última atualização do GSC: 03/05/2026. Sitemap última leitura: 05/05/2026.
+
+| Métrica GSC (Indexação → Páginas) | Valor 2026-05-07 |
+|---|---:|
+| Páginas indexadas | 58 |
+| Rastreada, mas não indexada | 13.099 |
+| Detectada, mas não indexada | 1.328 |
+| Cópia, canônica diferente | 1.155 |
+| Não encontrado (404) | 510 |
+| Bloqueada pelo robots.txt | 828 |
+| **Total conhecidas** | **~16,9 mil** |
+| URLs no sitemap | 14.869 |
+
+Buscas teste 2026-05-07:
+- Google Search `"MAM e o Paraíso em três escalas"` → nada (nem Hugo, nem Zenodo)
+- Google Scholar `"MAM e o Paraíso em três escalas"` → nada
+- Bing/DuckDuckGo `site:anais.docomomobrasil.com` → ~10+ resultados (parcialmente indexado)
+- Bing `"Anais Docomomo Brasil"` → home #1
+
+Commits SEO desta data:
+- `f1fb32fc6` — fix(seo): remove Event aninhado do JSON-LD das páginas de artigo
+- `dc1601caf` — fix(seo): adiciona hreflang cruzado entre taxonomias trilíngues
+
+Re-medir daqui a 2-4 semanas (≈2026-05-21 a 2026-06-07) para avaliar:
+- Se "Páginas indexadas" subiu (efeito da limpeza do JSON-LD + revalidação)
+- Se "Cópia, canônica diferente" caiu (efeito do hreflang)
+- Se artigo aparece em busca por título exato (Search e/ou Scholar)
+- Se Scholar foi submetido formalmente (depende de ação externa)
