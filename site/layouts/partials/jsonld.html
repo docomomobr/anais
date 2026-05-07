@@ -39,21 +39,13 @@
   {{ end -}}
   "isPartOf": {
     "@type": "Book",
-    "name": "Anais do {{ .Params.event_title }}",
+    "name": "Anais do {{ .Params.event_title }}"
     {{ with .Params.event_isbn -}}
-    "isbn": "{{ . }}",
+    ,"isbn": "{{ . }}"
     {{ end -}}
     {{ with .Params.event_publisher -}}
-    "publisher": { "@type": "Organization", "name": "{{ . }}" },
+    ,"publisher": { "@type": "Organization", "name": "{{ . }}" }
     {{ end -}}
-    "isPartOf": {
-      "@type": "Event",
-      "name": "{{ .Params.event_title }}{{ with .Params.event_subtitle }}: {{ . }}{{ end }}"
-      {{ with .Params.event_city -}}
-      ,"location": { "@type": "Place", "name": "{{ . }}" }
-      {{ end -}}
-      ,"startDate": "{{ .Params.event_date }}"
-    }
   }{{ with .Params.event_publisher }},
   "publisher": {
     "@type": "Organization",
