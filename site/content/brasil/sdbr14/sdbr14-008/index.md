@@ -34,13 +34,13 @@ keywords:
 authors:
   - givenname: "Carlos Alberto Batista"
     familyname: "Maciel"
-    orcid: "0000-0002-6528-1099"
+    orcid: "0000-0002-5128-5961"
   - givenname: "Isabella Flach"
     familyname: "Gomes"
   - givenname: "Mário S."
     familyname: "Santos Júnior"
 doi: "10.5281/zenodo.19077916"
-zenodo_pdf_url: "https://zenodo.org/records/19077917/files/sdbr14-008.pdf"
+zenodo_pdf_url: "https://zenodo.org/records/20218149/files/sdbr14-008.pdf"
 license_url: "https://creativecommons.org/licenses/by/4.0/"
 ficha_catalografica: "14º Seminário Docomomo Brasil: anais: o modernismo em movimento: usos, recursos, novas cartografias: presente e futuro do legado da Arquitetura moderna no Brasil [recurso eletrônico] / coordenação: Celma Chaves, Cybelle Miranda. Belém: Universidade Federal do Pará, Faculdade de Arquitetura e Urbanismo, Programa de Pós-Graduação em Arquitetura e Urbanismo, 2021. ISBN 978-65-00-40027-4"
 autores:
