@@ -23,7 +23,8 @@
     {{ range $i, $au := .Params.authors }}
     <span class="author" itemscope itemtype="https://schema.org/Person">
       {{ if $i }}<span class="sep">; </span>{{ end }}
-      <span itemprop="name">{{ $au.givenname }} {{ $au.familyname }}</span>
+      {{ $authorSlug := printf "%s, %s" $au.familyname $au.givenname | urlize }}
+      <a href="{{ printf "/autores/%s/" $authorSlug | relURL }}" itemprop="name" class="author-link">{{ $au.givenname }} {{ $au.familyname }}</a>
       {{ with $au.orcid }}
       <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="orcid-link" title="ORCID: {{ . }}">
         <img src="{{ "img/orcid.svg" | relURL }}" alt="ORCID" class="orcid-icon">
