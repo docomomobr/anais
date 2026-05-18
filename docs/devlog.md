@@ -950,3 +950,46 @@ Buscas-teste manuais no Google.com pelos títulos exatos de artigos:
 **Decisão de plataforma:** mantemos `publicacoes.docomomobrasil.com` no GitHub Pages com meta refresh (sem migração pra Cloudflare/Netlify pra ter 301 HTTP). Trade-off aceito: transferência de autoridade OJS→Hugo será **muito lenta** (12-24 meses), mas evita trabalho de migração.
 
 **Não há mais o que diagnosticar.** Próximas ações são todas humanas/relacionais (backlinks, divulgação, articulação com periódicos), não técnicas.
+
+#### Reformulação 2026-05-18 (mesma sessão): tráfego real revela quadro saudável
+
+GoatCounter foi configurado em 2026-05-07 (endpoint corrigido — antes descartava tudo com erro 400). Primeira semana de dados reais (11/05–18/05) mostra:
+
+**Volume:**
+- **928 visitas / 945 pageviews em 7 dias** ≈ 133 visitas/dia
+- GSC no mesmo período: ~0-2 cliques/dia
+- **Tráfego real é ~70x o que o GSC mostra**
+
+**Top referrers:**
+| Origem | Visitas | % |
+|---|---:|---:|
+| publicacoes.docomomobrasil.com (OJS antigo via redirect) | 487 | **52%** |
+| Direto/desconhecido | 112 | 12% |
+| scholar.google.com | 71 | 8% |
+| docomomobrasil.com (site institucional, menu Publicações) | 29 | 3% |
+| bing.com | 10 | 1% |
+| google.com (Search comum) | 8 | 1% |
+
+**Geo:** 91% Brasil, 2% EUA, 1% Portugal/Chile/Argentina/Equador.
+
+**Inversão do diagnóstico anterior:**
+
+1. **OJS antigo é o canal #1 de aquisição.** Meta refresh "fraco para SEO" está funcionando perfeitamente para usuários. **Quebrar o redirect destruiria 52% do tráfego.**
+2. **Scholar é o #3** — confirma que Scholar tem o conteúdo catalogado e gera tráfego real, mesmo apontando para fontes antigas.
+3. **Google Search direto é 1%** — coerente com GSC. Mas o pipeline indireto Google→OJS antigo→redirect→Hugo está ativo (parte dos 52% "publicacoes").
+4. **O site não está "morto"** — era impressão errada de olhar apenas o GSC.
+
+**Lição prática:** GSC mede apenas um canal (Google Search direto). Para o quadro real de uso, GoatCounter (ou similar) é essencial. Sem ele, conclusões sobre "queda de tráfego" são enganosas.
+
+**Reformulação do plano:**
+- ❌ **NÃO quebrar redirect OJS** — é metade do tráfego de aquisição
+- ❌ **NÃO se preocupar com indexação no Google Search** como métrica principal — é apenas 1% do tráfego real
+- ✅ **Manter setup atual** — está funcionando para usuários
+- ✅ **Backlinks externos** continuam relevantes mas com prioridade revisada — não pra "salvar" o site, pra crescer organicamente
+- ✅ **Métrica primária:** GoatCounter, não GSC. Re-medir mensalmente.
+
+**Próxima re-medição:** ~2026-06-18 (1 mês). Olhar evolução de:
+- Visitas totais (baseline 928/semana)
+- Distribuição de referrers (manter ou superar 487/semana via OJS)
+- Quantidade de visitas via google.com direto (subiu de 8/semana?)
+- URLs mais visitadas (continua sdbr antigos predominantes, ou sdbr16 novo cresce?)
