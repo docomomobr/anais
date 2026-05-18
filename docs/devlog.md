@@ -848,3 +848,67 @@ Re-medir daqui a 2-4 semanas (≈2026-05-21 a 2026-06-07) para avaliar:
 - Se "Cópia, canônica diferente" caiu (efeito do hreflang)
 - Se artigo aparece em busca por título exato (Search e/ou Scholar)
 - Se Scholar foi submetido formalmente (depende de ação externa)
+
+### 2026-05-18 — SEO/GSC: validação falhou, desindexação massiva confirmada
+
+Reavaliação 11 dias após os commits SEO de 2026-05-07. Quadro **piorou**, não melhorou.
+
+**Snapshot 2026-05-18 vs baseline 2026-05-07:**
+
+| Métrica GSC | 2026-05-07 | 2026-05-18 | Δ |
+|---|---:|---:|---|
+| Páginas indexadas | 58 | **1** | -57 |
+| Rastreada, mas não indexada | 13.099 | 13.228 | +129 |
+| Detectada, mas não indexada | 1.328 | 1.252 | -76 |
+| Cópia, canônica diferente | 1.155 | 1.159 | +4 |
+| 404 | 510 | 511 | +1 |
+| Bloqueada pelo robots.txt | 828 | 830 | +2 |
+| Erro de redirecionamento (NOVO) | — | 8 | +8 |
+
+**Achado crítico — gráfico histórico de "Páginas indexadas" revela curva completa:**
+
+- até 24/03: ~0 indexadas
+- 24/03 → 05/04: subida rápida até **~12 mil** indexadas (alinhada com a divulgação iniciada em 30/03)
+- 05/04 → 17/04: platô em ~12 mil
+- 17/04 → 29/04: queda dramática para ~3 mil (coincide com Google Core Update de 17–20/04)
+- 29/04 → hoje: queda contínua até **1 página** indexada (sdsp03-018)
+
+**Status das validações solicitadas em 2026-05-07:**
+- **"Rastreada, mas não indexada"**: status agregado "Falha" desde 09/05. Drill na amostra (1.475 URLs):
+  - 475 falhas (32%) — Google re-rastreou entre 07/05–16/05 e MANTEVE decisão de não-indexar. **92% das falhas são páginas de artigo** (438 de seminários brasil). Apenas 27 taxonomias/autores.
+  - 1.000 pendentes (68%) — Google ainda não voltou a essas URLs após as correções. 71% têm rastreamento em 16/04 (antes das mudanças).
+  - 0 sucessos.
+  - **Interpretação:** as mudanças de JSON-LD não revertem a decisão para artigos. Para taxonomias/autores, quase não há falhas — o hreflang pode estar ajudando. Os pendentes ainda têm chance quando re-rastreados.
+- **"Cópia, canônica diferente"**: validação ainda em curso (status "Iniciado"). Aguardar mais ~7-14 dias.
+
+**Diagnóstico afinado:** o problema é fortemente concentrado nas páginas de **artigo individual**. 92% das falhas vêm delas. Hipótese: Google considera o HTML "metadata wrapper" do PDF Zenodo — sem fulltext único de pesquisa, o valor agregado do HTML é baixo. Adicionar o fulltext (extraído do PDF) é provavelmente a única intervenção que realmente endereça isso.
+
+**Diagnóstico de causa raiz (consolidado, sem mais investigações pendentes):**
+- ✅ Sem penalização manual (Segurança e ações manuais → "Nenhum problema detectado")
+- ✅ Sem problema de segurança
+- ✅ Robots, sitemap, canonical, schema, hreflang — todos tecnicamente OK
+- ❌ Causa: **decisão algorítmica do Google** (não reversível por fix técnico isolado)
+
+**Hipóteses ordenadas para a decisão algorítmica:**
+1. Crawl/index budget esgotado pós-boost inicial da divulgação
+2. Google Core Update de 17–20/04 afetou desproporcionalmente sites novos com alto volume
+3. Avaliação de qualidade: 14k URLs com template idêntico → considerado excesso para autoridade atual
+4. Páginas vistas como "metadata wrapper" do PDF Zenodo (apesar de 874 palavras)
+
+**8 erros de redirecionamento** (notificação GSC de 10/05): URLs `/brasil/sdbrXX` sem barra final. Investigação:
+- Sitemap só contém URLs com barra
+- Redirect 301 funciona corretamente (Location válido, destino 200)
+- Corpo HTML é template padrão nginx
+- Nenhuma referência interna no site para URLs sem barra
+- Conclusão: **falsos positivos**, Google descobriu variantes via origem externa (backlink antigo ou teste do crawler). Não causa nada.
+
+**Decisão para os próximos 7-14 dias:** PARAR mudanças técnicas. Avaliações repetidas em curto prazo prejudicam o julgamento do Google. Aguardar conclusão da validação do hreflang. Depois, partir para intervenções estruturais.
+
+**Plano de ação pós-validação do hreflang (em ordem de impacto):**
+1. **Backlinks externos** (Lattes, Wikipedia, ResearchGate, periódicos como Vitruvius) — sinaliza autoridade
+2. **Submeter formalmente ao Google Scholar** via [scholar.google.com/inclusion](https://scholar.google.com/intl/pt-BR/scholar/inclusion.html)
+3. **Considerar reduzir volume**: consolidar taxonomias trilíngues em 1 (corta ~10k URLs). Densifica o site, melhora qualidade percebida
+4. **Considerar adicionar fulltext extraído do PDF** nas páginas HTML — transforma "wrapper" em conteúdo único de pesquisa
+5. **Implementar OAI-PMH** — destrava BASE, OpenAIRE, CORE (4 agregadores acadêmicos)
+
+**O que NÃO fazer:** pânico, mudanças técnicas grandes essa semana, tentativas de "truques SEO". Daria sinal de "site em construção/instável", piora.
