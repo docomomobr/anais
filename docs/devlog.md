@@ -912,3 +912,41 @@ Reavaliação 11 dias após os commits SEO de 2026-05-07. Quadro **piorou**, nã
 5. **Tempo + uso sustentado** — autoridade não se constrói em meses; meses-a-anos. Comparar com Zenodo/OJS/DSpace: têm 10+ anos de histórico para Google confiar.
 
 **O que NÃO fazer:** pânico, mudanças técnicas grandes essa semana, tentativas de "truques SEO". Daria sinal de "site em construção/instável", piora.
+
+#### Investigação adicional 2026-05-18 (mesma sessão): buscas reais no Google
+
+Buscas-teste manuais no Google.com pelos títulos exatos de artigos:
+
+| Busca | #1 | #2 | #3 | Hugo aparece? |
+|---|---|---|---|---|
+| `anais docomomo brasil sdbr16` | publicacoes (OJS antigo) — "Não inclui sdbr16" | docomomobrasil.com (tag) | Instagram (link p/ anais) | ❌ |
+| `"Aprendendo com os modernos" Maciel Docomomo` | publicacoes (OJS, "Vista de") | publicacoes (OJS, item view) | Escavador | ❌ |
+| `"O sistema básico da UFMG e seus precedentes"` | publicacoes (OJS) — "Citado por 7" | Zenodo PDF | Google Scholar | ❌ |
+| `"Tensões de axialidade: as diretorias regionais da Era Vargas"` (sdbr16-007, exclusivo Hugo) | — | — | — | ❌ (nada apareceu) |
+| `Documentação e história nas edições da EAUFMG, 1924-1975` (sdbr16-149, artigo do dono) | Zenodo PDF | Zotero (grupo) | Lume UFRGS | ❌ |
+
+**Hipóteses testadas e descartadas:**
+
+1. **"OJS antigo está roubando autoridade do Hugo"** — DESCARTADA. Hugo também não aparece para conteúdo **exclusivo** dele (regionais, idc06, sdbr16) que nunca esteve no OJS. Se OJS fosse a causa, esses apareceriam.
+2. **"404 em massa no domínio antigo derrubou o site"** — DESCARTADA. Repo `docomomobr/publicacoes` tem 1.419 redirects ativos (IDs 191–1796), via meta refresh + canonical, todos apontando para a URL correta no Hugo. 404 só pra IDs fora do range que nunca existiram.
+
+**Diagnóstico final consolidado:**
+
+- O problema é **categórico e específico do domínio `anais.docomomobrasil.com`**: o domínio está com autoridade tão baixa que **nem para conteúdo único e novo, ele aparece** nos resultados.
+- Outras fontes do mesmo conteúdo (Zenodo, OJS via redirect, Lume institucional, Zotero) **ganham por terem mais autoridade acumulada**.
+- Quando o PDF Zenodo aparece e o Hugo não (ex.: sdbr16-149), confirma que **não falta indexação do conteúdo** — falta autoridade do **domínio HTML específico**.
+- O setup técnico do Hugo é correto. O OJS redirect funciona. Não há fix técnico restante.
+
+**Causa raiz consolidada:** combinação de
+- Domínio novo (6-8 semanas)
+- Volume súbito (14.860 URLs no sitemap)
+- Ausência de backlinks externos significativos apontando especificamente para URLs do Hugo
+- Possível agravamento pelo Core Update Google de 17–20/04
+
+**Único caminho realista pra reverter:** construir **backlinks externos específicos para URLs do `anais.docomomobrasil.com`** (não para Zenodo, não para OJS antigo). Cada link de outro site apontando para a URL Hugo é evidência de autoridade direta.
+
+**Decisão prática:** quando publicar referências em Lattes, ResearchGate, Academia.edu, citações em artigos, redes sociais, etc., **usar a URL `anais.docomomobrasil.com/...`** em vez do PDF Zenodo. Isso constrói autoridade exatamente onde o domínio precisa.
+
+**Decisão de plataforma:** mantemos `publicacoes.docomomobrasil.com` no GitHub Pages com meta refresh (sem migração pra Cloudflare/Netlify pra ter 301 HTTP). Trade-off aceito: transferência de autoridade OJS→Hugo será **muito lenta** (12-24 meses), mas evita trabalho de migração.
+
+**Não há mais o que diagnosticar.** Próximas ações são todas humanas/relacionais (backlinks, divulgação, articulação com periódicos), não técnicas.
