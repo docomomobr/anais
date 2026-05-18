@@ -881,7 +881,7 @@ Reavaliação 11 dias após os commits SEO de 2026-05-07. Quadro **piorou**, nã
   - **Interpretação:** as mudanças de JSON-LD não revertem a decisão para artigos. Para taxonomias/autores, quase não há falhas — o hreflang pode estar ajudando. Os pendentes ainda têm chance quando re-rastreados.
 - **"Cópia, canônica diferente"**: validação ainda em curso (status "Iniciado"). Aguardar mais ~7-14 dias.
 
-**Diagnóstico afinado:** o problema é fortemente concentrado nas páginas de **artigo individual**. 92% das falhas vêm delas. Hipótese: Google considera o HTML "metadata wrapper" do PDF Zenodo — sem fulltext único de pesquisa, o valor agregado do HTML é baixo. Adicionar o fulltext (extraído do PDF) é provavelmente a única intervenção que realmente endereça isso.
+**Diagnóstico afinado:** o problema é fortemente concentrado nas páginas de **artigo individual**. 92% das falhas vêm delas. **NÃO é falta de fulltext no HTML** — repositórios acadêmicos (Zenodo, OJS, DSpace, RCAAP) não incluem fulltext na página HTML e são bem indexados. A diferença é **autoridade de domínio**: aqueles têm anos de histórico, milhões de DOIs ou ranking institucional; este domínio tem 6-8 semanas. Para artigos individuais, Google é especialmente conservador quando o domínio é novo, porque cada artigo precisa ser julgado pelo próprio mérito (não herda autoridade da home).
 
 **Diagnóstico de causa raiz (consolidado, sem mais investigações pendentes):**
 - ✅ Sem penalização manual (Segurança e ações manuais → "Nenhum problema detectado")
@@ -905,10 +905,10 @@ Reavaliação 11 dias após os commits SEO de 2026-05-07. Quadro **piorou**, nã
 **Decisão para os próximos 7-14 dias:** PARAR mudanças técnicas. Avaliações repetidas em curto prazo prejudicam o julgamento do Google. Aguardar conclusão da validação do hreflang. Depois, partir para intervenções estruturais.
 
 **Plano de ação pós-validação do hreflang (em ordem de impacto):**
-1. **Backlinks externos** (Lattes, Wikipedia, ResearchGate, periódicos como Vitruvius) — sinaliza autoridade
+1. **Backlinks externos** (Lattes, Wikipedia, ResearchGate, periódicos como Vitruvius) — única alavanca real para autoridade de domínio novo
 2. **Submeter formalmente ao Google Scholar** via [scholar.google.com/inclusion](https://scholar.google.com/intl/pt-BR/scholar/inclusion.html)
-3. **Considerar reduzir volume**: consolidar taxonomias trilíngues em 1 (corta ~10k URLs). Densifica o site, melhora qualidade percebida
-4. **Considerar adicionar fulltext extraído do PDF** nas páginas HTML — transforma "wrapper" em conteúdo único de pesquisa
-5. **Implementar OAI-PMH** — destrava BASE, OpenAIRE, CORE (4 agregadores acadêmicos)
+3. **Implementar OAI-PMH** — destrava BASE, OpenAIRE, CORE, LA Referencia (agregadores acadêmicos catalogam, e cada catalogação é um backlink/sinal de autoridade)
+4. **Considerar reduzir volume**: consolidar taxonomias trilíngues em 1 (corta ~10k URLs). Densifica o site, reduz percepção de "site novo com volume artificial"
+5. **Tempo + uso sustentado** — autoridade não se constrói em meses; meses-a-anos. Comparar com Zenodo/OJS/DSpace: têm 10+ anos de histórico para Google confiar.
 
 **O que NÃO fazer:** pânico, mudanças técnicas grandes essa semana, tentativas de "truques SEO". Daria sinal de "site em construção/instável", piora.
