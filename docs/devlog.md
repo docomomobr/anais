@@ -993,3 +993,14 @@ GoatCounter foi configurado em 2026-05-07 (endpoint corrigido — antes descarta
 - Distribuição de referrers (manter ou superar 487/semana via OJS)
 - Quantidade de visitas via google.com direto (subiu de 8/semana?)
 - URLs mais visitadas (continua sdbr antigos predominantes, ou sdbr16 novo cresce?)
+
+#### 2026-05-19 — Segunda rodada de validação GSC solicitada
+
+Após a falha da 1ª rodada (07/05 → 09/05), solicitada nova validação nas 3 categorias do "Sistemas do Google":
+- "Rastreada, mas não indexada" (13.228 páginas) — antes Falha, agora Iniciado
+- "Detectada, mas não indexada" (1.252)
+- "Cópia, canônica diferente" (1.159)
+
+Números absolutos das categorias **não mudaram em 24h**. Aguardar resultado em ~7-21 dias.
+
+Comparar com 1ª rodada: se falhar de novo, confirma decisão algorítmica estável. Se passar, sinaliza que sinais externos (backlinks, tráfego acumulado via OJS) começaram a fazer diferença.
