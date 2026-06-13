@@ -1004,3 +1004,51 @@ Após a falha da 1ª rodada (07/05 → 09/05), solicitada nova validação nas 3
 Números absolutos das categorias **não mudaram em 24h**. Aguardar resultado em ~7-21 dias.
 
 Comparar com 1ª rodada: se falhar de novo, confirma decisão algorítmica estável. Se passar, sinaliza que sinais externos (backlinks, tráfego acumulado via OJS) começaram a fazer diferença.
+
+### 2026-06-12 — SEO/GSC: 3ª medição (36 dias após correções)
+
+**Snapshot 2026-06-12 vs marcos anteriores:**
+
+| Métrica GSC | 2026-05-07 (baseline) | 2026-05-18 | 2026-06-12 | Δ 18/05 → 12/06 |
+|---|---:|---:|---:|---|
+| Páginas indexadas | 58 | 1 | **6** | +5 (oscilou 1-7) |
+| Rastreada, mas não indexada | 13.099 | 13.228 | 14.168 | +940 |
+| Detectada, mas não indexada | 1.328 | 1.252 | 1.211 | -41 |
+| **Cópia, canônica diferente** | 1.155 | 1.159 | **254** | **-905 (-78%)** |
+| 404 | 510 | 511 | 512 | +1 |
+| Robots.txt | 828 | 830 | 830 | 0 |
+| Erro redirecionamento | — | 8 | 8 | 0 |
+
+**Achado #1: hreflang FUNCIONOU.** A correção de 07/05 (`fix(seo): adiciona hreflang cruzado entre taxonomias trilíngues`, commit `dc1601caf`) teve efeito mensurável: -905 páginas em "Cópia, canônica diferente" (-78%). Validação dessa categoria estava "Iniciado" em 19/05; concluiu com sucesso entre 19/05 e 12/06. Confirma que o hreflang convenceu o Google de que as 3 taxonomias trilíngues são alternativas de idioma, não duplicatas.
+
+**Achado #2: as 905 não viraram indexadas.** Saíram de "Cópia" mas entraram em "Rastreada não-indexada" (+940 ≈ -905 da Cópia + ~35 outros). Resolver duplicação foi necessário mas não suficiente. Indexação continua bloqueada pela decisão de qualidade/autoridade do Google.
+
+**Achado #3: 2ª validação de "Rastreada não-indexada" também falhou.** Confirma definitivamente: artigos individuais não vão entrar no índice sem sinais externos novos (backlinks, autoridade, conteúdo).
+
+**Achado #4: queda histórica foi em 24h, em 13/04.** Curva diária do gráfico:
+- 12/04: 12.168 indexadas
+- **13/04: 4.087 indexadas** (-67% em 24h)
+- 20/04: 1.836
+- 27/04: 487
+- 01/05: 58
+- 11/05: 1
+- 22/05 em diante: oscila 1-7
+
+A queda concentrada em um único dia (13/04) é assinatura de **Core Update do Google**, não decisão gradual. Confirma hipótese original.
+
+**Achado #5: indexação estabilizou em 1-7.** Pequena recuperação de 22/05 (1 → 7), oscilando. Parou de cair, mas sem tendência clara de subida. Sem ação externa, deve continuar nesse patamar.
+
+**Conclusão da fase de monitoramento:** as duas correções técnicas de 07/05 foram avaliadas:
+- ✅ hreflang: efetivo (validação passou, -78% em Cópia)
+- ❌ JSON-LD limpo: insuficiente (validação falhou nas duas rodadas)
+
+Não há mais correção técnica plausível no Hugo. O caminho daqui em diante é exclusivamente sinais externos.
+
+**Submissão em andamento:** OpenDOAR (2026-06-12) — aguardar review 2-6 semanas. BASE e CORE pendentes.
+
+**Anomalia detectada nas 6 URLs indexadas (não relacionada ao SEO):** uma das páginas indexadas é `/nne/sdnne06/70/` — formato divergente do padrão `/nne/sdnneXX/sdnneXX-NNN/` usado pelo resto do site. Verificado:
+- `/nne/sdnne06/70/` → 200 OK
+- `/nne/sdnne06/sdnne06-070/` → 404
+- Pasta `site/content/nne/sdnne06/` tem subdiretórios numéricos (`1`, `10`, `70`, `100`...) em vez do padrão `sdnne06-001`, `sdnne06-070`
+
+Origem provável: db2hugo.py do sdnne06 gerou os slugs incorretamente em algum momento. Não causa problema de indexação; é só inconsistência de URL pattern. Item pra limpeza futura, sem urgência.
