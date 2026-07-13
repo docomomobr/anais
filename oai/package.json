@@ -1,0 +1,8 @@
+{
+  "name": "oai-worker-anais-docomomo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test-worker.mjs"
+  }
+}
