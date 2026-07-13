@@ -1052,3 +1052,41 @@ Não há mais correção técnica plausível no Hugo. O caminho daqui em diante 
 - Pasta `site/content/nne/sdnne06/` tem subdiretórios numéricos (`1`, `10`, `70`, `100`...) em vez do padrão `sdnne06-001`, `sdnne06-070`
 
 Origem provável: db2hugo.py do sdnne06 gerou os slugs incorretamente em algum momento. Não causa problema de indexação; é só inconsistência de URL pattern. Item pra limpeza futura, sem urgência.
+
+### 2026-07-13 — SEO/GSC: 4ª medição — salto único em 12/06 (12→110), platô desde então
+
+Medição motivada por consulta do usuário ao Gemini (diagnóstico divergente, "URL bloat"). Fontes: GSC ao vivo (13/07) + export Coverage de 08/07 (`Gráfico.csv` com série diária) — analisados os dados brutos antes de julgar o diagnóstico do Gemini.
+
+| Métrica GSC | 12/06 | 13/07 | Δ |
+|-------------|-------|-------|---|
+| **Páginas indexadas** | **110** (corrigido, ver abaixo) | **110** | 0 |
+| Rastreada, não indexada | 14.168 | 14.203 | +35 |
+| Detectada, não indexada | 1.211 | 1.187 | −24 |
+| Cópia, canônica diferente | ~139 | 139 | estável |
+| Bloqueada robots.txt | — | 832 | intencional (.json/.yaml/.bib/.ris) |
+| 404 | — | 512 | URLs OJS antigas |
+| Erro redirecionamento | 8 | 8 | 0 |
+
+**Achado #1: salto de 12 → 110 indexadas em UM dia (12/06), platô exato de 110 desde então.** Série diária do `Gráfico.csv`: 6 (01-04/06) → 9 (05-07/06) → 12 (08-11/06) → **110 (12/06)** → 110 constante até hoje. Não é tendência de subida — é **um evento discreto de reavaliação**, seguido de um mês congelado. O valor exato e imóvel (110) sugere alocação/cota concedida numa única repassada, não fluxo contínuo.
+
+**Correção da 3ª medição:** registramos "6 indexadas" em 12/06, mas a série consolidada mostra 110 naquele mesmo dia — o painel do GSC exibia dado defasado (~4 dias). O salto aconteceu exatamente no dia da medição.
+
+**Achado #2: os indexados incluem artigos.** Amostra das 110: `sdbr15-045`, `sdbr13-033`, `sdbr10-076`, `sdbr10-002`, `sdsul01-039`, `sdsul06-009`, `sdsul04-026`, 2 keywords (`espaço-habitado`, `san-sebastiano`), anomalia `/nne/sdnne06/43/`. O conteúdo travado (artigo individual) entrou no evento de 12/06.
+
+**Achado #3: causa provável do salto = validação do hreflang.** A validação de "Cópia, canônica diferente" concluiu com sucesso entre 19/05 e 12/06 (cf. 3ª medição). O salto coincide com o fechamento dessa reavaliação. Reforça: **correções técnicas surtem efeito, mas em eventos discretos de re-rating, não gradualmente**.
+
+**Achado #4: impressões ≈ 0-4/dia mesmo com 110 indexadas.** Indexar não está gerando tráfego de busca. Coerente com a lição do GoatCounter (Search direto ≈ 1% do tráfego real). As apostas deste jogo são baixas.
+
+**Confronto com o diagnóstico do Gemini ("URL bloat"), verificado nos dados:**
+- **Composição — Gemini CORRETO:** das 14.203 "rastreada não-indexada", a maioria é aritmeticamente taxonomia (~9k keywords trilíngues + 2.712 autores = ~11,7k; só existem ~2.700 artigos no site). O sitemap de 14.871 URLs é ~80% páginas-lista.
+- **Mecanismo (crawl budget) — Gemini ERRADO:** artigos estão em "Rastreada não-indexada" (visitados e rejeitados), não em "Descoberta não-indexada" (nem visitados, só 1.187). Google gastou budget de sobra; a barreira é decisão de qualidade/autoridade.
+- **Remédios já cobertos:** canonical auto-referente já existe em todas as páginas; 301 vs meta refresh já decidido (limitação GitHub Pages).
+- **Remédio novo (noindex/enxugar sitemap das páginas magras) — plausível, indecidido:** com o platô (não há recuperação em curso a proteger), enxugar o sitemap deixa de ser arriscado; e o Achado #3 mostra que o Google responde a correções em eventos de re-rating. Argumento contra: impressões ≈ 0 tornam o ganho marginal; keywords já têm 2 indexadas; esforço rende mais em backlinks.
+
+**Decisão: manter foco em sinais externos** (backlinks para URLs `anais.docomomobrasil.com`, OAI-PMH — OpenDOAR submetido 12/06, BASE/CORE pendentes). Enxugamento do sitemap/noindex das taxonomias fica como opção aberta para reavaliar se o platô persistir mais 30-60 dias.
+
+**Ressalva de consolidação:** o export de 08/07 e o painel ao vivo de 13/07 são byte-idênticos em todas as 7 categorias — o GSC não consolidou dados novos nesse intervalo; o platô de 110 está confirmado só até 29/06. Re-exportar quando o painel consolidar julho.
+
+**Alavanca identificada (não executada): backlink por artigo no Zenodo.** `upload_zenodo.py` põe em `related_identifiers` apenas a URL da *edição* (`conference_url`); os ~2.700 registros não apontam para a página HTML do próprio artigo. Adicionar o link por registro = 2.700 backlinks de zenodo.org mirando exatamente as URLs de artigo que precisam de autoridade, 100% sob nosso controle. Requer edição de metadados em massa — planejar dry-run antes.
+
+**E-mail GSC de 16/06 ("Dados estruturados: Eventos, 8 problemas") — resolvido, ignorar.** Era eco atrasado do JSON-LD `Event` aninhado removido em 07/05 (commit `f1fb32fc6`, cuja mensagem já citava os 8 avisos). Relatório ao vivo em 13/07: 0 inválidos, restam **2** itens válidos com marcação velha em cache (pico ~900); zeram sozinhos no re-rastreamento. Site atual não emite `Event` algum (verificado: só ScholarlyArticle/Book/Person/Organization). Google Scholar segue coberto pelas 16 tags `citation_*` + Dublin Core nos artigos.
