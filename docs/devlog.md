@@ -1104,3 +1104,16 @@ Decisões técnicas:
 - **Bônus idc06:** os 53 registros tinham `isPartOf` quebrado (`.../idc06/idc06` → 404) por falta de `'idc': 'internacional'` no `SLUG_TO_AMBITO`. Mapa corrigido no `upload_zenodo.py` (payload futuro já sai com backlink de artigo também) e conserto aplicado de carona na operação.
 
 Piloto verificado (sdbr13-146, sdsul06-018, idc06-001): mesmo DOI, creators/files intactos, links corretos. Carga completa em andamento (~2,5h, throttle 0,7s p/ rate limit de 100 req/min). Tally final a registrar.
+
+### 2026-07-13 — Investigação OAI-PMH: adiado. Google Scholar já indexa o site
+
+Investigação sobre implementar OAI-PMH (destravaria BASE, CORE, OpenAIRE, LA Referencia/oasisbr):
+
+**Achados técnicos:**
+- GitHub Pages não serve OAI-PMH (protocolo é query-string; Pages ignora query strings). A spec antiga "Static Repository" depende de gateways extintos.
+- Caminho viável se um dia quisermos: Cloudflare Worker gratuito (~200 linhas) em endereço `*.workers.dev` (zero DNS), lendo catálogo `oai_dc` pré-gerado do anais.db e publicado como estático no site. CORE cadastra por formulário simples com a URL-base OAI; BASE colhe de lá.
+- Verificado no BASE (486M docs): nossos artigos NÃO estão lá, nem via Zenodo (0 hits para títulos nossos; os 4.440 hits de "docomomo" são Docomomo Journal/DOAJ e teses).
+
+**Achado decisivo — Google Scholar JÁ INDEXA o site:** `site:anais.docomomobrasil.com` no Scholar retorna 10+ páginas, artigos de 1999 a 2024, com citações funcionando (ex.: Zein "Paradoxos do valor artístico" citado por 22; Pessôa "Brasília e o tombamento" por 26) e fusão de versões. As 16 tags `citation_*` + Dublin Core dos artigos fizeram o Scholar funcionar sozinho. O principal canal de descoberta acadêmica do público brasileiro está coberto.
+
+**Decisão: OAI-PMH adiado.** Com Scholar funcionando e GoatCounter mostrando tráfego saudável, agregadores internacionais renderiam tráfego modesto para nicho em português — valor real é catalogação institucional de longo prazo, sem urgência. OpenDOAR (feito) não expira. Prioridades mantidas: backlinks Zenodo (em curso), divulgação com URLs do site (Lattes, Vitruvius, Wikipédia/Wikidata), tempo.
