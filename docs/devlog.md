@@ -1090,3 +1090,17 @@ Medição motivada por consulta do usuário ao Gemini (diagnóstico divergente, 
 **Alavanca identificada (não executada): backlink por artigo no Zenodo.** `upload_zenodo.py` põe em `related_identifiers` apenas a URL da *edição* (`conference_url`); os ~2.700 registros não apontam para a página HTML do próprio artigo. Adicionar o link por registro = 2.700 backlinks de zenodo.org mirando exatamente as URLs de artigo que precisam de autoridade, 100% sob nosso controle. Requer edição de metadados em massa — planejar dry-run antes.
 
 **E-mail GSC de 16/06 ("Dados estruturados: Eventos, 8 problemas") — resolvido, ignorar.** Era eco atrasado do JSON-LD `Event` aninhado removido em 07/05 (commit `f1fb32fc6`, cuja mensagem já citava os 8 avisos). Relatório ao vivo em 13/07: 0 inválidos, restam **2** itens válidos com marcação velha em cache (pico ~900); zeram sozinhos no re-rastreamento. Site atual não emite `Event` algum (verificado: só ScholarlyArticle/Book/Person/Organization). Google Scholar segue coberto pelas 16 tags `citation_*` + Dublin Core nos artigos.
+
+### 2026-07-13 — OpenDOAR aprovado + operação backlinks Zenodo
+
+**OpenDOAR: repositório aprovado e listado.** Submissão de 12/06 aceita — registro público em https://opendoar.ac.uk/repository/11331 ("Anais Docomomo Brasil"). Primeiro agregador acadêmico a listar o repositório; é também um backlink de autoridade para o domínio. Pendentes da mesma frente: **BASE e CORE** — ambos dependem de endpoint **OAI-PMH**, que continua sendo o item estrutural a implementar (destravaria também OpenAIRE e LA Referencia).
+
+**Operação backlinks Zenodo (em execução).** Script novo `scripts/add_zenodo_backlinks.py` (commit `03eb6259b`): acrescenta em cada registro publicado o `related_identifier isIdenticalTo` apontando para a página HTML do próprio artigo — antes só havia `isPartOf` para a página da edição. 2.841 registros elegíveis (sdnne06 adiado: ids numéricos no banco → URLs anômalas; corrigir slugs antes e rodar com `--include-sdnne06`).
+
+Decisões técnicas:
+- **Edição in-place** (draft da versão corrente → PUT → publish): sem nova versão, sem novo DOI — diverge do procedimento de nova versão documentado, que geraria 2.907 versões de poluição para uma mudança só de metadados.
+- **Base do payload = registro vivo** (GET → acrescentar → PUT), não reconstrução do banco: diff mínimo, idempotente (re-rodar não duplica).
+- **Armadilha do API legado:** `/api/records` sem `Accept: application/vnd.inveniordm.v1+json` devolve a serialização VELHA; reenviá-la no PUT corrompe o draft (o publish falha na validação — sem danos ao publicado, mas deixa draft sujo para descartar via DELETE `/draft`). Corrigido no script.
+- **Bônus idc06:** os 53 registros tinham `isPartOf` quebrado (`.../idc06/idc06` → 404) por falta de `'idc': 'internacional'` no `SLUG_TO_AMBITO`. Mapa corrigido no `upload_zenodo.py` (payload futuro já sai com backlink de artigo também) e conserto aplicado de carona na operação.
+
+Piloto verificado (sdbr13-146, sdsul06-018, idc06-001): mesmo DOI, creators/files intactos, links corretos. Carga completa em andamento (~2,5h, throttle 0,7s p/ rate limit de 100 req/min). Tally final a registrar.
