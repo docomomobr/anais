@@ -101,6 +101,7 @@ COMMUNITY_ID = 'docomomobr'
 
 # Slug prefix → âmbito path for conference_url
 SLUG_TO_AMBITO = {
+    'idc': 'internacional',
     'sdbr': 'brasil',
     'sdnne': 'nne',
     'sdmg': 'se',
@@ -368,7 +369,14 @@ def build_record_payload(article, authors, seminar_slug, license_id='cc-by-4.0')
                     'scheme': 'url',
                     'relation_type': {'id': 'ispartof'},
                     'resource_type': {'id': 'publication-conferenceproceeding'},
-                }
+                },
+                {
+                    # Backlink para a página HTML do próprio artigo no site
+                    'identifier': f"{conference_url}/{article['id']}/",
+                    'scheme': 'url',
+                    'relation_type': {'id': 'isidenticalto'},
+                    'resource_type': {'id': 'publication-conferencepaper'},
+                },
             ],
         },
         'custom_fields': {
