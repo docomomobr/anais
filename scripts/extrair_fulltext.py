@@ -32,6 +32,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import Counter
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -64,7 +65,10 @@ def _reflow(text):
 
 
 def load_blocks(path):
-    return [json.loads(l) for l in open(path)]
+    blocks = [json.loads(l) for l in open(path)]
+    for blk in blocks:  # pdfplumber emite acentos decompostos (NFD)
+        blk['text'] = unicodedata.normalize('NFC', blk['text'])
+    return blocks
 
 
 def frame_texts(blocks):
@@ -90,10 +94,16 @@ def anotacoes_do_pdf(pdf_path):
         for block in page.get_text('dict')['blocks']:
             for line in block.get('lines', []):
                 spans = [sp for sp in line.get('spans', []) if sp['text'].strip()]
+                ROMANOS = {'i':1,'ii':2,'iii':3,'iv':4,'v':5,'vi':6,'vii':7,
+                           'viii':8,'ix':9,'x':10,'xi':11,'xii':12}
                 for i, sp in enumerate(spans):
-                    if not re.fullmatch(r'\d{1,3}', sp['text'].strip()):
+                    tok = sp['text'].strip()
+                    if re.fullmatch(r'\d{1,3}', tok):
+                        num = int(tok)
+                    elif tok in ROMANOS:
+                        num = ROMANOS[tok]
+                    else:
                         continue
-                    num = int(sp['text'].strip())
                     viz = spans[i + 1] if i == 0 and len(spans) > 1 else (spans[i - 1] if i > 0 else None)
                     if not viz:
                         continue
@@ -149,7 +159,7 @@ def montar(blocks, nota_nums=None, calls=None):
         return True
 
     SECTION_HEADINGS = re.compile(
-        r'^\s*(NOTAS?|REFER[EÊ]NCIAS( BIBLIOGR[AÁ]FICAS)?|BIBLIOGRAFIA)\s*$', re.I)
+        r'^\s*(NOTAS?|REFER[EÊ]NCIAS?( BIBLIOGR[AÁ]FICAS?)?|BIBLIOGRAFIA)\s*$', re.I)
     # seções que não entram no fulltext (a página já as exibe): ao encontrar
     # um heading destes, pula até o próximo heading
     DROP_SECTIONS = re.compile(
@@ -160,9 +170,20 @@ def montar(blocks, nota_nums=None, calls=None):
         if not keep(b):
             continue
         if b['role'] in ('heading', 'subheading'):
-            dropping = bool(DROP_SECTIONS.match(_reflow(b['text'])))
+            t = _reflow(b['text'])
+            if not re.search(r'[A-Za-zÀ-ú]{3}', t):
+                continue  # heading espúrio (pontuação solta) — não muda estado
+            if DROP_SECTIONS.match(t) or SECTION_HEADINGS.match(t):
+                dropping = True   # resumos/keywords/refs/bibliografia: fora
+                continue
             if dropping:
-                continue  # nem o próprio título da seção descartada
+                # só um heading de seção DE VERDADE (caixa-alta) encerra o
+                # descarte; fragmentos em caixa mista dentro da seção
+                # descartada continuam fora
+                if t == t.upper():
+                    dropping = False
+                else:
+                    continue
         elif dropping and b['role'] in ('body', 'small'):
             continue
         text = _reflow(b['text'])
@@ -181,6 +202,8 @@ def montar(blocks, nota_nums=None, calls=None):
                 elif notas and b['page'] == locals().get('ultima_nota_pg'):
                     n0, t0 = notas[-1]
                     notas[-1] = (n0, t0 + ' ' + text)  # continuação da nota
+                elif re.match(r'^(i{1,3}|iv|v|vi{0,3}|ix|x{1,2})\b', text):
+                    notas.append((10**6, text))  # nota(s) romana(s) — sem nº por ora
                 else:
                     corpo.append('> ' + text)  # citação em bloco (fonte menor)
             else:
@@ -190,7 +213,10 @@ def montar(blocks, nota_nums=None, calls=None):
             if b['page'] == 1:
                 continue
             if SECTION_HEADINGS.match(text):
-                continue  # geramos os nossos ("Notas"); refs ficam fora
+                dropping = True   # seção de refs/notas do PDF: corpo não recebe
+                continue
+            if not re.search(r'[A-Za-zÀ-ú]{3}', text):
+                continue  # heading espúrio (pontuação/números soltos)
             corpo.append(('H', text))  # nível decidido depois, pelo conjunto
         elif b['role'] in ('body', 'small'):
             if b['page'] == 1 and b['role'] == 'small':
@@ -218,8 +244,11 @@ def montar(blocks, nota_nums=None, calls=None):
         else:
             fundido.append(par)
 
-    # folha de rosto fora: corpo começa no primeiro heading, se houver
-    primeiro = next((i for i, p in enumerate(fundido) if p.startswith('\n##')), None)
+    # folha de rosto fora: corpo começa no primeiro heading DE SEÇÃO
+    # ('## ', caixa-alta quando há 2 níveis) — não em fragmento '###'
+    primeiro = next((i for i, p in enumerate(fundido) if p.startswith('\n## ')), None)
+    if primeiro is None:
+        primeiro = next((i for i, p in enumerate(fundido) if p.startswith('\n##')), None)
     if primeiro:
         fundido = fundido[primeiro:]
 
