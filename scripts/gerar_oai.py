@@ -48,10 +48,17 @@ def _dc_el(tag, value, lang=None):
 
 
 def _split_keywords(raw):
+    """Keywords no banco: maioria em array JSON, minoria em texto com ';'."""
     if not raw:
         return []
-    seps = ';' if ';' in raw else ','
-    return [k.strip() for k in raw.split(seps) if k.strip()]
+    raw = raw.strip()
+    if raw.startswith('['):
+        try:
+            return [str(k).strip() for k in json.loads(raw) if str(k).strip()]
+        except (json.JSONDecodeError, TypeError):
+            pass
+    sep = ';' if ';' in raw else ','
+    return [k.strip() for k in raw.split(sep) if k.strip()]
 
 
 def _full_title(title, subtitle):
