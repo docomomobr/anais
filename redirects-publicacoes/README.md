@@ -20,16 +20,16 @@ transferindo a autoridade das URLs antigas do OJS para
 ## Deploy (conta Cloudflare tesouraria, a mesma do worker OAI)
 
 1. Painel → Workers & Pages → Create → **Pages** → "Upload assets"
-   (direct upload). Nome sugerido: `publicacoes-redirects`.
+   (direct upload). Projeto: `anais-docomomo-redirects`.
 2. Arrastar TODOS os arquivos desta pasta (o `_worker.js` na raiz ativa
    o modo avançado de Functions automaticamente).
-3. Testar na URL provisória `https://publicacoes-redirects.pages.dev`:
+3. Testar na URL provisória `https://anais-docomomo-redirects.pages.dev`:
    abrir `/anais/article/view/1000` no navegador (deve cair na página
    do artigo no site novo) — ou rodar os curls do teste de aceitação.
 4. Custom domains → Add: `publicacoes.docomomobrasil.com`
    (Cloudflare instrui e valida via CNAME; TLS automático).
 5. No provedor DNS: editar o CNAME de `publicacoes`
-   (de `docomomobr.github.io` para `publicacoes-redirects.pages.dev`).
+   (de `docomomobr.github.io` para `anais-docomomo-redirects.pages.dev`).
 6. Validar no domínio real:
    `curl -sI https://publicacoes.docomomobrasil.com/anais/article/view/1000 | head -3`
    → deve responder `301` com `location:` da página nova.
