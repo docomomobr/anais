@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Gera o arquivo _redirects (Netlify) para publicacoes.docomomobrasil.com.
+"""Gera _redirects (Netlify) e redirects.json (Cloudflare Pages _worker.js)
+para publicacoes.docomomobrasil.com.
 
 Fontes:
   1. Clone do repo docomomobr/publicacoes (meta refresh atual) — autoridade
@@ -106,6 +107,27 @@ def main():
     out = os.path.join(outdir, '_redirects')
     with open(out, 'w') as f:
         f.write('\n'.join(lines) + '\n')
+
+    # redirects.json para o _worker.js (Cloudflare Pages):
+    # exact: rota exata → destino; article: ojs_id → destino (cobre
+    # view/{id}/qualquer-galley e download/{id}/qualquer-coisa)
+    exact, article = {}, {}
+    for ln in lines:
+        if not ln or ln.startswith('#'):
+            continue
+        path, target, _ = ln.rsplit(' ', 2)[0], ln.split(' ')[1], None
+        path, target = ln.split(' ')[0], ln.split(' ')[1]
+        if path.endswith('/*'):
+            import re as _re
+            m = _re.match(r'/anais/article/(?:view|download)/(\d+)/\*$', path)
+            if m:
+                article[m.group(1)] = target
+            continue
+        exact[path] = target
+    jout = os.path.join(outdir, 'redirects.json')
+    with open(jout, 'w') as f:
+        json.dump({'exact': exact, 'article': article}, f, ensure_ascii=False)
+    print(f'{len(exact)} rotas exatas + {len(article)} artigos → {jout}')
 
     print(f'{len(routes)} rotas no clone → {len(lines) - 4} linhas em {out}')
     print(f'artigos no clone: {len(ids_no_clone)} | no mapping canônico: {len(mapping)}')
