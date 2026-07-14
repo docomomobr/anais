@@ -1135,3 +1135,19 @@ Usuário criou a conta Cloudflare (tesouraria) e deployou o worker: **endpoint v
 **Falso positivo documentado:** o ERROR de schema no ListRecords ("QName dc:title does not resolve, line 23") é do validador, não nosso. Reproduzido localmente com lxml: o `oai_dc.xsd` oficial importa o schema DC de `http://dublincore.org/...`, que hoje responde 301→HTTPS; validadores que não seguem redirect ficam com as refs não resolvidas ("line 23" é do próprio xsd). Com o import resolvido localmente, **100/100 fragmentos da página 1 validam com zero erros**. Afeta qualquer repositório oai_dc validado no OVAL.
 
 **Cadastros (em andamento pelo usuário):** BASE (suggest form), CORE (data providers) e OpenAIRE (usa OpenDOAR 11331), com a URL do worker. Confirmar submissões e registrar respostas quando chegarem.
+
+### 2026-07-14 — sdnne07-015 e 032 recuperados: de "defeituoso" a artigos completos
+
+Os 2 registros `defeituoso` do banco (marcados na revisão humana de 26/03: "PDF sem /Root, site original inacessível") foram investigados a fundo:
+
+**Diagnóstico real:** não eram PDFs corrompidos — eram **páginas de erro 404 salvas como .pdf** (3,7 KB, HTML, mesmo arquivo nos dois), baixadas quando o site original falhou. E foram **publicadas no Zenodo** assim (records 19294136/19294247, mesmo md5).
+
+**Recuperação:** o site original (`7docomomomanaus.weebly.com`) voltou ao ar. PDFs verdadeiros localizados e baixados (821/848 KB, válidos). Pipeline seguido: substituição em `pdfs/`, extração via `extrair_fontes_plumber.py` (114/213 blocos), leitura LLM dos plumbers, fallback pdftotext para 1 ref em versalete que o plumber engoliu (GUTIÉRREZ).
+
+**Banco atualizado (2 artigos completos):** subtítulos, títulos EN/ES, abstracts trilíngues, keywords trilíngues, referências (16 + 27, incluindo lista de documentos IPHAN-PE do 032), pages_count (17/31), afiliações (UFC/UFPE), `document_type` → `artigo`. Validação: 0 issues nos 2 artigos; check_references: 978 refs do seminário, 0 problemas.
+
+**ORCID corrigido:** PDF do 032 autodeclara `0000-0002-4756-9822` (perfil "Natalia Miranda Vieira-de-Araújo", nome completo); o banco tinha `0000-0001-9391-2778` (perfil incompleto "Natalia Miranda" — match errado do pipeline). Autoria do 032 repontada para a ficha `Vieira-de-Araújo` (1923), fiel à assinatura no PDF.
+
+**Pendência de entity resolution:** autora tem 2 fichas (1923 "Vieira-de-Araújo": sdnne07-006, sdbr11-023, sdbr12-025 + agora sdnne07-032; 2786 "Vieira": sdbr08-030, sdnne03-017, sdnne04-042), agora com o mesmo ORCID. Fusão via author_variants fica para depois — decidir nome canônico.
+
+**Pendente (aguardando fim da carga de backlinks):** nova versão dos 2 registros Zenodo com os PDFs verdadeiros no lugar das páginas-404.
