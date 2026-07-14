@@ -1125,3 +1125,13 @@ Investigação sobre implementar OAI-PMH (destravaria BASE, CORE, OpenAIRE, LA R
 **Para retomar:** `python3 -u scripts/add_zenodo_backlinks.py --all` — idempotente: registros prontos respondem "backlink já presente" e o processamento segue de onde parou (~4h para o restante, pela latência da API; throttle 0,7s). Se a interrupção deixou 1 draft órfão no registro em curso, o próprio script o reaproveita e publica na retomada.
 
 **Também aguardando (ações do usuário):** deploy do site com `/oai-data/catalog.json` → conta Cloudflare + colar `oai/worker.js` → cadastrar CORE/BASE/OpenAIRE (roteiro em `oai/README.md`).
+
+### 2026-07-14 — OAI-PMH no ar: worker deployado, validado no OVAL, cadastros iniciados
+
+Usuário criou a conta Cloudflare (tesouraria) e deployou o worker: **endpoint vivo em `https://oai-anais.tesouraria-docomomobr.workers.dev/`**. Site re-deployado 2× (catálogo + fix de keywords JSON — campo no banco é array JSON em 2.475 artigos e texto com ';' em 17; split ingênuo saía com colchetes no dc:subject, pego no teste ao vivo).
+
+**Validação OVAL (validador oficial do BASE):** colheita completa aprovada — batch 100, resumption, incremental por dia, ISO 639-1/8601, DC mínimo, 3.104 registros. Dois erros reais corrigidos na hora (worker aceitava só GET → POST implementado; expirationDate no resumptionToken). 
+
+**Falso positivo documentado:** o ERROR de schema no ListRecords ("QName dc:title does not resolve, line 23") é do validador, não nosso. Reproduzido localmente com lxml: o `oai_dc.xsd` oficial importa o schema DC de `http://dublincore.org/...`, que hoje responde 301→HTTPS; validadores que não seguem redirect ficam com as refs não resolvidas ("line 23" é do próprio xsd). Com o import resolvido localmente, **100/100 fragmentos da página 1 validam com zero erros**. Afeta qualquer repositório oai_dc validado no OVAL.
+
+**Cadastros (em andamento pelo usuário):** BASE (suggest form), CORE (data providers) e OpenAIRE (usa OpenDOAR 11331), com a URL do worker. Confirmar submissões e registrar respostas quando chegarem.
