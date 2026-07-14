@@ -16,7 +16,15 @@ const CACHE_TTL = 3600; // 1h — catálogo muda raramente
 export default {
   async fetch(request) {
     const url = new URL(request.url);
-    const p = url.searchParams;
+    // OAI-PMH exige GET e POST (form-encoded)
+    let p;
+    if (request.method === 'POST') {
+      p = new URLSearchParams(await request.text());
+    } else if (request.method === 'GET') {
+      p = url.searchParams;
+    } else {
+      return new Response('Method Not Allowed', { status: 405, headers: { Allow: 'GET, POST' } });
+    }
     const baseURL = url.origin + url.pathname;
     const verb = p.get('verb') || '';
 
@@ -152,7 +160,9 @@ function listItems(catalog, p, baseURL, verb) {
   let resumption = '';
   if (nextOffset < match.length) {
     const next = btoa(JSON.stringify({ ...args, offset: nextOffset }));
-    resumption = `\n    <resumptionToken completeListSize="${match.length}" cursor="${args.offset}">${next}</resumptionToken>`;
+    // Tokens são stateless (não expiram de fato); expirationDate é indicativa
+    const expires = new Date(Date.now() + 86400_000).toISOString().replace(/\.\d+Z$/, 'Z');
+    resumption = `\n    <resumptionToken expirationDate="${expires}" completeListSize="${match.length}" cursor="${args.offset}">${next}</resumptionToken>`;
   } else if (args.offset > 0) {
     resumption = `\n    <resumptionToken completeListSize="${match.length}" cursor="${args.offset}"/>`;
   }
