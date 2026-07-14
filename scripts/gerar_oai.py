@@ -104,7 +104,10 @@ def build_dc_xml(article, authors, seminar):
     x += _dc_el('publisher', seminar['publisher'] or 'Docomomo Brasil')
     x += _dc_el('date', str(seminar['date_published'] or seminar['year']))
     x += _dc_el('type', 'info:eu-repo/semantics/conferenceObject')
-    x += _dc_el('type', article['document_type'] or 'artigo')
+    # 'defeituoso' é marcação interna (PDF corrompido) — não exportar
+    doc_type = article['document_type'] or 'artigo'
+    if doc_type != 'defeituoso':
+        x += _dc_el('type', doc_type)
     x += _dc_el('format', 'application/pdf')
     x += _dc_el('identifier', page_url)
     if article['doi']:
