@@ -30,7 +30,7 @@ import time
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from upload_zenodo import TimeoutSession, _slug_to_ambito
+from upload_zenodo import TimeoutSession, _retry, _slug_to_ambito
 from fix_zenodo_metadata import load_token
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -92,7 +92,7 @@ def add_backlink(session, headers, article_id, seminar_slug, record_id, dry_run=
         return 'skipped'
 
     # 1. GET registro publicado — checagem idempotente
-    r = session.get(f'{ZENODO_URL}/api/records/{record_id}', headers=headers)
+    r = _retry(session.get, f'{ZENODO_URL}/api/records/{record_id}', headers=headers)
     if r.status_code != 200:
         print(f"  ERRO {article_id}: GET record {record_id} → {r.status_code}")
         return 'error'
@@ -111,7 +111,7 @@ def add_backlink(session, headers, article_id, seminar_slug, record_id, dry_run=
         return 'would_add'
 
     # 2. Draft da versão corrente (in-place, sem nova versão)
-    r = session.post(f'{ZENODO_URL}/api/records/{record_id}/draft', headers=headers)
+    r = _retry(session.post, f'{ZENODO_URL}/api/records/{record_id}/draft', headers=headers)
     if r.status_code not in (200, 201):
         print(f"  ERRO {article_id}: criar draft → {r.status_code} {r.text[:200]}")
         return 'error'
@@ -123,7 +123,7 @@ def add_backlink(session, headers, article_id, seminar_slug, record_id, dry_run=
     if not has_backlink(draft['metadata'], url):
         draft['metadata'].setdefault('related_identifiers', []).append(backlink_entry(url))
     body = {k: draft[k] for k in ('metadata', 'custom_fields', 'access') if k in draft}
-    r = session.put(
+    r = _retry(session.put,
         f'{ZENODO_URL}/api/records/{record_id}/draft', headers=headers, json=body
     )
     if r.status_code != 200:
@@ -131,7 +131,7 @@ def add_backlink(session, headers, article_id, seminar_slug, record_id, dry_run=
         return 'error'
 
     # 4. Publish (mesma versão, mesmo DOI)
-    r = session.post(
+    r = _retry(session.post,
         f'{ZENODO_URL}/api/records/{record_id}/draft/actions/publish', headers=headers
     )
     if r.status_code in (200, 202):
@@ -188,10 +188,14 @@ def main():
     session = TimeoutSession(timeout=(15, 120))
     tally = {}
     for i, row in enumerate(rows):
-        result = add_backlink(
-            session, headers, row['id'], row['seminar_slug'],
-            row['zenodo_record_id'], dry_run=args.dry_run,
-        )
+        try:
+            result = add_backlink(
+                session, headers, row['id'], row['seminar_slug'],
+                row['zenodo_record_id'], dry_run=args.dry_run,
+            )
+        except Exception as e:  # rede irrecuperável não derruba a carga
+            print(f"  ERRO {row['id']}: {type(e).__name__}: {e}")
+            result = 'error'
         tally[result] = tally.get(result, 0) + 1
         if not args.dry_run and i < len(rows) - 1:
             time.sleep(THROTTLE)
