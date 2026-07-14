@@ -78,32 +78,62 @@ def frame_texts(blocks):
     return {k for k, pages in seen.items() if len(pages) >= REPEAT_MIN_PAGES}
 
 
-def numeros_das_notas(pdf_path):
-    """Mapa {prefixo_normalizado_da_nota: numero} extraído do PDF: span
-    inicial só-dígitos, menor e com baseline mais alta que o span seguinte."""
+def anotacoes_do_pdf(pdf_path):
+    """Assinatura tipográfica de sobrescrito (dígito menor + baseline
+    elevada) → (defs, calls): definições de nota {chave_do_texto: num}
+    e chamadas no corpo [(num, cauda_do_texto_anterior)]."""
     if not pymupdf or not os.path.isfile(pdf_path):
-        return {}
-    mapa = {}
+        return {}, []
+    defs, calls = {}, []
     doc = pymupdf.open(pdf_path)
     for page in doc:
         for block in page.get_text('dict')['blocks']:
             for line in block.get('lines', []):
                 spans = [sp for sp in line.get('spans', []) if sp['text'].strip()]
-                if len(spans) < 2:
-                    continue
-                s0, s1 = spans[0], spans[1]
-                if (re.fullmatch(r'\d{1,3}', s0['text'].strip())
-                        and s0['size'] < s1['size'] - 0.3
-                        and s0['origin'][1] < s1['origin'][1] - 0.5):
-                    resto = ' '.join(sp['text'] for sp in spans[1:])
-                    chave = _key(resto)
-                    if chave:
-                        mapa.setdefault(chave, int(s0['text'].strip()))
+                for i, sp in enumerate(spans):
+                    if not re.fullmatch(r'\d{1,3}', sp['text'].strip()):
+                        continue
+                    num = int(sp['text'].strip())
+                    viz = spans[i + 1] if i == 0 and len(spans) > 1 else (spans[i - 1] if i > 0 else None)
+                    if not viz:
+                        continue
+                    if not (sp['size'] < viz['size'] - 0.3
+                            and sp['origin'][1] < viz['origin'][1] - 0.5):
+                        continue
+                    if i == 0:  # início de linha = definição da nota
+                        chave = _key(' '.join(x['text'] for x in spans[1:]))
+                        if chave:
+                            defs.setdefault(chave, num)
+                    else:       # meio de linha = chamada no corpo
+                        calls.append((num, spans[i - 1]['text'][-24:]))
     doc.close()
-    return mapa
+    return defs, calls
 
 
-def montar(blocks, nota_nums=None):
+def marcar_chamadas(text, calls):
+    """Troca o dígito colado pela sintaxe pandoc: palavra1 → palavra[^1].
+    Se o dígito sobrescrito nem chegou ao texto (pdfplumber às vezes o
+    descarta), insere o marcador logo após a cauda de contexto."""
+    for num, cauda in calls:
+        cauda = cauda.strip()
+        feito = False
+        for tam in (12, 8, 5):
+            alvo = re.escape(cauda[-tam:]) + str(num) + r'(?=[\s.,;:)\]]|$)'
+            novo, n = re.subn(alvo, cauda[-tam:] + f'[^{num}]', text, count=1)
+            if n:
+                text, feito = novo, True
+                break
+        if not feito:
+            for tam in (16, 12):
+                alvo = re.escape(cauda[-tam:]) + r'(?=[\s.,;:)\]])'
+                novo, n = re.subn(alvo, cauda[-tam:] + f'[^{num}]', text, count=1)
+                if n:
+                    text = novo
+                    break
+    return text
+
+
+def montar(blocks, nota_nums=None, calls=None):
     frames = frame_texts(blocks)
 
     def is_frame(b):
@@ -163,7 +193,7 @@ def montar(blocks, nota_nums=None):
             corpo.append(f'\n{nivel} {text}\n')
         elif b['role'] in ('body', 'small'):
             if b['page'] == 1 and b['role'] == 'small':
-                continue  # afiliaç��es/rosto
+                continue  # afiliações/rosto
             corpo.append(text)
 
     # fundir parágrafos partidos entre blocos/páginas: bloco que não termina
@@ -183,10 +213,16 @@ def montar(blocks, nota_nums=None):
         fundido = fundido[primeiro:]
 
     md = '\n\n'.join(fundido)
+    if calls:
+        md = marcar_chamadas(md, calls)  # uma vez, sobre o texto inteiro
     if notas:
         notas.sort(key=lambda x: x[0])
-        fmt = [f'{n}. {t}' if n < 10**6 else t for n, t in notas]
-        md += '\n\n## Notas\n\n' + '\n\n'.join(fmt)
+        numeradas = [f'[^{n}]: {t}' for n, t in notas if n < 10**6]
+        soltas = [t for n, t in notas if n >= 10**6]
+        if numeradas:
+            md += '\n\n' + '\n\n'.join(numeradas)
+        if soltas:
+            md += '\n\n## Notas\n\n' + '\n\n'.join(soltas)
     return md
 
 
@@ -218,8 +254,8 @@ def main():
     pdf_dir = os.path.join(os.path.dirname(src), 'pdfs')
     for f in files:
         art = f[:-6]
-        nums = numeros_das_notas(os.path.join(pdf_dir, art + '.pdf'))
-        md = montar(load_blocks(os.path.join(src, f)), nums)
+        defs, calls = anotacoes_do_pdf(os.path.join(pdf_dir, art + '.pdf'))
+        md = montar(load_blocks(os.path.join(src, f)), defs, calls)
         out = os.path.join(args.outdir, art + '.md')
         with open(out, 'w') as fh:
             fh.write(md + '\n')
