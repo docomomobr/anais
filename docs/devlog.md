@@ -1153,3 +1153,13 @@ Os 2 registros `defeituoso` do banco (marcados na revisão humana de 26/03: "PDF
 **Pendente (aguardando fim da carga de backlinks):** nova versão dos 2 registros Zenodo com os PDFs verdadeiros no lugar das páginas-404.
 
 **Pausa (madrugada 14/07):** carga de backlinks interrompida em **1.202/2.841** (399 da véspera + 803 desta rodada; **zero erros em toda a operação**; último: `sdbr14-023`). Feitos: idc06, sdbr01–sdbr13 e parte do sdbr14. Retomar com `python3 -u scripts/add_zenodo_backlinks.py --all` (idempotente). Após concluir: (a) nova versão Zenodo de sdnne07-015/032 com os PDFs verdadeiros; (b) cadastro OpenAIRE pendente. **BASE e CORE submetidos em 13/07** — confirmado em 14/07: ao tentar re-submeter, CORE respondeu "this data provider already exist" com aviso de indexação em andamento.
+
+### 2026-07-14 — Plano revisado (diagnóstico claude.ai avaliado) + Frente 301 construída
+
+Usuário trouxe diagnóstico do claude.ai (`fontes/diagnostico-indexacao-anais.md`). Avaliação crítica: converge com o nosso (mesma base GSC, rebaixamento de domínio, sem falha técnica). **Incorporado com amendments**; prioridade mantida para o que já estava em curso.
+
+**Aceito:** (1) Frente 301 — substitui o meta refresh do publicacoes por 301 reais via Netlify (revisita a decisão de maio: o custo caiu, e o evento de 12/06 provou que o Google premia correções em re-ratings; URLs OJS seguem competindo nos resultados). (2) Piloto fulltext HTML em 2 seminários (sdnne10 nato-digital, sdnne02 escaneado) — fulltext não é a CAUSA (mantida a análise de maio), mas é alavanca de qualidade; piloto com gate antes de qualquer lote.
+
+**Rejeitado:** fallback "URL desconhecida → 301 pra home" (soft-404; usamos 404 de cortesia); desdém do diagnóstico por backlinks-Zenodo e agregadores (inverteu a direção dos links — os nossos vêm DE zenodo.org PARA o site; e agregadores servem canal não-Google, cf. lição GoatCounter).
+
+**Frente 301 construída (scripts/gerar_redirects_netlify.py):** `_redirects` com 4.452 regras a partir do clone de docomomobr/publicacoes (1.608 rotas: 1.419 artigos + galley/download splats + 32 issues + institucionais + 153 /revista→revista.docomomobrasil.com) validadas contra docs/ojs_article_mapping.json (2 front matters sdbr02 sem página → edição). Raiz mantida como página-hub (servia 2 periódicos; 301 pra anais sequestraria a revista). Pacote: _redirects + index/404 + README + teste_redirects.sh (14 casos). Falta: decidir onde versionar (proposta: branch órfã `netlify` no repo publicacoes), conta Netlify + CNAME (usuário).
