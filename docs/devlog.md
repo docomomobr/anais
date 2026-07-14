@@ -1151,3 +1151,5 @@ Os 2 registros `defeituoso` do banco (marcados na revisão humana de 26/03: "PDF
 **Pendência de entity resolution:** autora tem 2 fichas (1923 "Vieira-de-Araújo": sdnne07-006, sdbr11-023, sdbr12-025 + agora sdnne07-032; 2786 "Vieira": sdbr08-030, sdnne03-017, sdnne04-042), agora com o mesmo ORCID. Fusão via author_variants fica para depois — decidir nome canônico.
 
 **Pendente (aguardando fim da carga de backlinks):** nova versão dos 2 registros Zenodo com os PDFs verdadeiros no lugar das páginas-404.
+
+**Pausa (madrugada 14/07):** carga de backlinks interrompida em **1.202/2.841** (399 da véspera + 803 desta rodada; **zero erros em toda a operação**; último: `sdbr14-023`). Feitos: idc06, sdbr01–sdbr13 e parte do sdbr14. Retomar com `python3 -u scripts/add_zenodo_backlinks.py --all` (idempotente). Após concluir: (a) nova versão Zenodo de sdnne07-015/032 com os PDFs verdadeiros; (b) cadastros CORE e OpenAIRE pendentes (BASE submetido em 13/07).
