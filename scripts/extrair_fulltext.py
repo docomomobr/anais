@@ -161,6 +161,8 @@ def montar(blocks, nota_nums=None, calls=None):
             continue
         if b['role'] in ('heading', 'subheading'):
             dropping = bool(DROP_SECTIONS.match(_reflow(b['text'])))
+            if dropping:
+                continue  # nem o próprio título da seção descartada
         elif dropping and b['role'] in ('body', 'small'):
             continue
         text = _reflow(b['text'])
@@ -189,12 +191,21 @@ def montar(blocks, nota_nums=None, calls=None):
                 continue
             if SECTION_HEADINGS.match(text):
                 continue  # geramos os nossos ("Notas"); refs ficam fora
-            nivel = '##' if b['role'] == 'heading' else '###'
-            corpo.append(f'\n{nivel} {text}\n')
+            corpo.append(('H', text))  # nível decidido depois, pelo conjunto
         elif b['role'] in ('body', 'small'):
             if b['page'] == 1 and b['role'] == 'small':
                 continue  # afiliações/rosto
             corpo.append(text)
+
+    # hierarquia de títulos pela caixa: se coexistem CAPS e caixa normal,
+    # CAPS = ## (seção) e caixa normal = ### (subseção); senão, tudo ##
+    hs = [t for item in corpo if isinstance(item, tuple) for t in [item[1]]]
+    tem_caps = any(t == t.upper() for t in hs)
+    tem_mistos = any(t != t.upper() for t in hs)
+    dois_niveis = tem_caps and tem_mistos
+    corpo = [f"\n{'###' if dois_niveis and t != t.upper() else '##'} {t}\n"
+             if isinstance(item, tuple) else item
+             for item in corpo for t in [item[1] if isinstance(item, tuple) else None]]
 
     # fundir parágrafos partidos entre blocos/páginas: bloco que não termina
     # em pontuação final + próximo começa com minúscula
