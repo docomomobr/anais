@@ -57,3 +57,6 @@ CLAUDE.md
 DEVLOG.md
 docs/devlog_*.md
 docs/archive/devlog_*.md
+.venv-fulltext/
+revisao/campanha-autores/*.csv
+revisao/campanha-autores/mala-direta*.csv
