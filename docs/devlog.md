@@ -1179,3 +1179,21 @@ Tally final: **1.223 adicionados na última rodada + 1.617 já presentes + 1 fal
 Sequência concluída no mesmo dia: usuário criou o projeto `anais-docomomo-redirects` no CF Pages (upload direto da pasta `redirects-publicacoes/`), 14 testes passaram na URL provisória; custom domain adicionado; **Labasoft trocou o CNAME** (`publicacoes` → `anais-docomomo-redirects.pages.dev`); ativação + TLS em ~20s após a verificação; **bateria de 14 testes de aceitação passou no domínio real** (artigos com galley/download, issues, institucionais, /revista→revista.docomomobrasil.com, hub na raiz, 404 honesto para URL desconhecida).
 
 Efeito: as ~1.600 URLs antigas do OJS respondem agora **HTTP 301 real** (antes: 200 + meta refresh), transferindo autoridade para as URLs novas e eliminando a página intermediária para os usuários (52% do tráfego, cf. GoatCounter). Rollback documentado: reverter o CNAME para `docomomobr.github.io` (GitHub Pages intacto). Expectativa (cf. diagnóstico): desindexação das URLs OJS e transferência em semanas; monitorar no GSC.
+
+### 2026-07-15 — Campanha de e-mail para autores: preparação + dedup por identidade externa
+
+**Decisão: campanha dispara em AGOSTO** (filiações anuais reabertas nesta semana ocupam a cota Brevo de 300/dia do Pilotis; sem previsão confiável de core update do Google que justifique antecipar — e até agosto os 301/backlinks estarão digeridos).
+
+**Mecanismo**: reusar a conta Brevo do Pilotis (API transacional; credencial lida do .env dele, SEM tocar em arquivos nem misturar autores no banco de filiados). Script próprio no repo anais com fila idempotente; ~250/dia de teto para não competir com a filiação.
+
+**E-mails atualizados da base viva**: 484 autores ganharam o e-mail mais recente do cadastro de filiados (match por nome exato normalizado; auditoria em revisao/campanha-autores/). Público real: **923 autores / 918 e-mails únicos** (descoberta: anais.db tinha centenas de placeholders `*@exemplo.com`/`example.com` da importação OJS — excluídos).
+
+**Dedup por identidade externa** (nova evidência: e-mail/ORCID idênticos), usando o merge_authors do pipeline existente:
+- 5 fusões por e-mail/ORCID + nome igual módulo acento (Cerávolo, Pessôa, Magalhães, Araújo, Bogéa)
+- **15 ORCIDs mal atribuídos corrigidos** via API pública (perfil decide o dono; casos de coautores com ORCID trocado — mesmo padrão do match errado da Vieira)
+- 5 fusões de variantes de grafia com canônico por autoridade externa + uso nos anais: **Vilas Boas, Spolon, Thamay Medeiros, Vieira-de-Araújo** (pendência de 14/07 fechada) **e Imbronito** (Scholar/livros confirmam; o typo "Imbrunito" está no próprio perfil ORCID dela)
+- Autores: 2.714 → **2.704**; divisões givenname/familyname normalizadas; grafias preteridas preservadas em author_variants
+
+**Critério de grafia canônica firmado**: uso nos anais é o default; autoridade externa clara (ORCID/Scholar/assinatura recente) vence quando existir; variantes sempre preservadas.
+
+**Falta para agosto**: fila CSV final (dedup por e-mail; caso vincoloarquitetura = 1 envio conjunto p/ 2 pessoas), rascunho do e-mail (revisão do usuário), script de envio com dry-run.
