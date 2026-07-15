@@ -63,7 +63,8 @@
 <p class="meta">{{ len .Pages }} artigo{{ if gt (len .Pages) 1 }}s{{ end }}</p>
 
 <div class="article-list">
-  {{ range .Pages }}
+  {{/* mais recente primeiro; empate (mesma edição) segue a ordem dos anais (weight) */}}
+  {{ range sort (sort .Pages "Weight") "Date" "desc" }}
   <article class="article-item">
     <h3><a href="{{ .RelPermalink }}">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></h3>
     <p class="authors">
