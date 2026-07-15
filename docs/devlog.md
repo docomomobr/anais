@@ -1197,3 +1197,11 @@ Efeito: as ~1.600 URLs antigas do OJS respondem agora **HTTP 301 real** (antes: 
 **Critério de grafia canônica firmado**: uso nos anais é o default; autoridade externa clara (ORCID/Scholar/assinatura recente) vence quando existir; variantes sempre preservadas.
 
 **Falta para agosto**: fila CSV final (dedup por e-mail; caso vincoloarquitetura = 1 envio conjunto p/ 2 pessoas), rascunho do e-mail (revisão do usuário), script de envio com dry-run.
+
+### 2026-07-15 — Auditoria de ORCIDs por área/identidade: 33 errados removidos
+
+Novo `scripts/verificar_orcid_area.py` (motivado pelo caso Maciel, corrigido em sessão anterior): confronta o registro público ORCID (empregos, formação, keywords, obras COM fonte — descartando DOIs Zenodo, que podem ecoar nosso próprio erro via DataCite) com nome e artigos do autor nos anais. Triagem dos 1.524: 784 ok, 402 area_suspeita, 297 sem_dados, 41 críticos.
+
+**Camada LLM sobre os 41 críticos** (dossiês em revisao/orcid-dossies-criticos.md): 8 falsos positivos mantidos (perfis sem nome público, hífens quebrando tokenização, mesmas pessoas com sobrenome composto), **30 claramente errados removidos** (anestesista italiano no lugar de Perrotta-Bosch; enfermagem de Valência; flamencóloga de Sevilha; oncologia; eletrônica do IPN etc.), 3 inverificáveis decididos pelo usuário (removidos). ORCIDs: 1.524 → **1.491**, todos com dono plausível.
+
+**Pendências ORCID**: 402 area_suspeita (2ª rodada LLM), 297 sem_dados (risco baixo), bug do hífen na tokenização do script (3 falsos positivos), possível lixo empurrado via Zenodo→DataCite aos perfis das pessoas erradas (mencionar autoconferência no e-mail da campanha de agosto).
