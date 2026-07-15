@@ -1,0 +1,402 @@
+25;remover;perfil fisioterapia/bioética, incompatível com arquitetura
+31;manter;professor UFRN, bate com PPGAU-UFRN dos anais
+37;dificil;nome exato, mas carreira em computação educacional
+48;manter;UFAL genérico sem obras, nome bate, inverificável
+54;manter;advogado coerente com afiliação OAB declarada nos anais
+57;remover;enfermeiro no Acre, sobrenome divergente (Malveira)
+62;manter;Professor Titular USP, Doctor Arquitecto UPM, obra Lúcio Costa
+65;manter;professora UNIFAP, bate com afiliação dos anais
+69;manter;docente UFBA, bate com FAUFBA
+78;remover;perfil zootecnia/aves, nome cauda divergente (Leal Ribeiro)
+89;remover;eng. civil homônima, nomes do meio divergem, geografia dispersa
+91;manter;professora UFS, geografia Sergipe bate com Aracaju/IFS
+100;dificil;nome comum, única obra é odontologia, evidência fraca
+119;manter;nome distintivo exato, formação UFCG bate
+139;manter;obra sobre arquivos climáticos p/ simulação, Raviolo distintivo
+144;remover;única obra é cartografia escolar, nome comum
+148;manter;nome distintivo exato, UFCG bate
+149;manter;nome distintivo, Federal University of Campina Grande bate
+150;manter;pesquisador de imagem/cinema, paper dos anais é cinema
+158;remover;nomes divergem (Lourdes vs Isabelle Oliveira), obra alheia
+186;manter;nome exato, UEMA bate com São Luís
+191;manter;obra sobre tombamento de terreiro, patrimônio confirma
+194;remover;perfil ensino de história sem Abrahim, nome comum
+200;manter;professora em Manaus, mestrado USP, paper Severiano Porto
+201;remover;perfil bioquímica/reumatologia, nome reordenado comum
+205;manter;professora substituta UFRR, papers sobre Roraima
+207;manter;professora UFRR, bate com DAU-UFRR
+210;remover;perfil saúde PUC-Minas, par já suspeito no dedup
+217;remover;técnica de enfermagem em Sergipe, incompatível
+225;manter;professora UNICAP, bate com afiliação dos anais
+231;manter;professor UFT, obras Lefebvre/Palmas urbanismo
+238;manter;artes visuais UFBA bate com EBA-UFBA
+242;manter;formação toda UFAL, bate com PPGAU-UFAL
+254;remover;sobrenome divergente (Bezerra), obra em música
+296;remover;geólogo do Porto, mineração de lítio
+297;remover;perfil letras/linguagem, nome do meio diverge
+305;remover;perfil letras/contracultura UNESP, sem vínculo com UFMT
+322;manter;Paulo Bruna, Professor Titular FAUUSP
+338;manter;graduação UFCG bate com afiliação dos anais
+339;remover;químico FIOCRUZ-RO, incompatível
+343;remover;perfil letras/aquisição de linguagem, nome comum
+344;manter;Hilquias raro, mestrado UEMA bate com autor UEMA
+346;remover;given names divergem (Maria Marreiros vs Flávia Silveira)
+355;manter;estudante UFRJ, nome bate, sem evidência contrária
+357;remover;professora de matemática, sobrenome divergente
+362;remover;pesquisadora de IA médica EPFL/Hamburgo
+370;remover;Ana CARLA vs Ana CLARA, pessoa diversa UnB
+380;remover;psicologia/Vigotski, nome do meio diverge (Thaler)
+394;manter;professor UFRGS, obra sobre Lelé/pré-moldagem
+395;remover;perfil filosofia, só 'Marcos Silva' genérico
+400;remover;administração pública México; autor é arquiteto uruguaio
+401;manter;doutorando no RS, nome bate, sem evidência contrária
+406;manter;instituição bate (Universidad de Buenos Aires)
+415;manter;nome raríssimo, PhD UFRGS bate com PROPAR
+416;dificil;nome bate mas única obra é gestão de RH
+422;dificil;nome raro bate, mas única obra é agronomia
+428;remover;Lucia H. Mascaro química UFSCar; autora é arquiteta
+453;remover;médica no Pará; autora é historiadora USJT
+463;manter;professor UFOP bate, obras pré-fabricação/térmica
+471;remover;psicóloga clínica; autora é professora FAU-USP
+478;remover;perfil fisioterapia/enfermagem, incompatível
+480;remover;pedagoga UFSM, incompatível com PROPAR
+499;remover;marketing/consumo, incompatível
+504;manter;professora UnB, doutora USP, é a Elane Peixoto FAU-UnB
+505;dificil;chileno, nome parcial, única obra é educação
+516;remover;cardiologista espanhola, incompatível
+517;manter;UNISINOS bate, tema uruguaio plausível no RS
+520;remover;medicina King's College, incompatível
+526;remover;biomédica, incompatível
+528;remover;Ana CARINA vs Ana CRISTINA, marketing
+533;remover;enfermeiro; autor é professor UEM
+539;remover;sobrenome divergente (Hergert), biologia
+551;remover;perfil direito securitário, incompatível
+554;remover;sobrenome divergente (Martins), laticínios
+559;manter;PUC-PR, é o Gnoato arquiteto de Curitiba
+563;remover;sobrenome divergente (Cristina), literatura
+579;manter;nome exato distintivo, Universidade Franciscana plausível
+581;manter;nome exato distintivo, sem evidência contrária
+586;manter;estudante USJT, pesquisa Zolko consistente (5 papers)
+592;remover;nutricionista/endocrinologia UCS, nome comum
+603;remover;genética vegetal EMBRAPA, incompatível
+605;manter;professor UNISINOS, paper de mobiliário/design plausível
+635;remover;antropologia visual, nome sem Binatto
+652;manter;mestranda UFRGS bate com PROPAR-UFRGS
+653;remover;obras nutrição, nome comum
+654;manter;mestranda UFRGS bate
+655;remover;única obra medicina obstétrica
+656;manter;mestrando UFRGS bate
+690;manter;Livre Docente USP, é o Rodrigo Queiroz FAU-USP
+702;manter;professor UNESP genérico, nome bate, benefício da dúvida
+708;remover;ciências sociais Alfenas, nome com Garcia divergente
+713;manter;professor Mackenzie, bate com papers paulistanos
+716;manter;doutoranda SP, nome bate, sem evidência contrária
+724;remover;biologia celular, nome totalmente reordenado
+759;manter;Professora Associada UNIFESP, é a Rufinoni do patrimônio
+767;remover;médico ecocardiografista, nome do meio diverge
+770;manter;historiadora da educação; papers dos anais são sobre escolas
+786;remover;radiologia odontológica, given names divergem
+806;manter;professor Belas Artes SP, obra sobre Kneese de Mello
+814;remover;engenharia florestal INPA, nome sem Pilosio
+828;remover;Ana Ozaki de Oslo é da computação; autora é outra
+829;remover;neurologia/medicina HC-UFMG, incompatível
+830;remover;auditora fiscal RFB, nome médio divergente
+842;remover;direito trabalhista, não a professora de arquitetura USJT
+853;manter;obra sobre urbanistas paulistas confirma
+857;manter;nome exato, USJT compatível com temas
+875;remover;nomes divergentes (Rezende≠Chaves Monti), geografia escolar
+876;remover;biologia Max Planck, incompatível
+882;manter;nome exato, professor Mackenzie plausível
+884;manter;obras memória/patrimônio DOI-Codi confirmam
+913;manter;RS/UFRGS compatível, sem evidência contrária
+928;manter;nome bate, interior SP compatível, inverificável
+943;manter;nome exato, mestranda UEM compatível
+948;manter;UFSM Cachoeira do Sul bate com artigos
+951;remover;letras/literatura inglesa, nome divergente
+959;remover;nome diverso (Maya Fialho Ferraz), engenharia elétrica
+966;remover;homônimo ortodontista, não o arquiteto famoso
+971;remover;filósofo/lógica, nome divergente
+980;remover;nome divergente (Paixão), área diversa
+985;remover;marketing/business schools, incompatível
+996;manter;discente USP São Carlos bate com tema Caron
+1000;manter;engenharia civil/concreto, campo adjacente legítimo
+1029;remover;literatura japonesa Turim, homônima
+1037;manter;obra própria idêntica a artigo dos anais
+1039;remover;Maria Fernanda ≠ Maria Giulia
+1048;remover;comunicação política PUC-Rio, incompatível
+1049;remover;medicina, incompatível
+1050;dificil;historiador Amazônia plausível, mas padrão de erro em série
+1065;remover;engenharia de computação, nome divergente
+1070;remover;medicina/hematologia, incompatível
+1078;manter;Fiocruz + obra Pavilhão Mourisco confirmam
+1093;remover;Ana Carla ≠ Ana Paula
+1096;remover;neurocirurgião Goiânia, incompatível
+1101;manter;nome compatível, trajetória UFPE/USP plausível
+1104;manter;obras vilas operárias/núcleos fabris confirmam
+1108;remover;José Lucas ≠ José Oswaldo
+1121;remover;energia Valência, incompatível
+1136;remover;biogeografia/manguezais, nome divergente
+1141;manter;nome distintivo exato, docente Rio compatível
+1153;remover;história/quadrinhos Florença, homônimo
+1181;remover;genética populacional Bolonha, incompatível
+1187;remover;direito, nome divergente (Xavier≠Dias)
+1196;manter;nome exato completo, professor USP/EESC
+1200;remover;educação MS, nome divergente
+1211;remover;farmácia/saúde, nome divergente (Maly)
+1221;remover;graduanda farmácia, não a professora UdeM
+1223;remover;agrônoma (Sartori), não a Junqueira FAU-USP
+1228;manter;instituição bate (UNIDERP)
+1231;manter;instituição bate (EESC-USP)
+1232;remover;comunicação/semiótica, não o historiador pernambucano
+1248;remover;direito internacional UFU, homônima da professora UFPE
+1253;remover;medicina/anestesia, nome divergente
+1259;manter;professora UFBA, instituição bate
+1265;manter;nome exato distintivo, UniRitter dos anais
+1278;manter;UFF/Iuav, obras de patrimônio confirmam
+1284;remover;ciência da informação/saúde, incompatível
+1291;remover;estudante atual, linha do tempo incompatível com 2003
+1298;remover;física NYU, incompatível
+1301;remover;mercado financeiro, incompatível
+1303;remover;zootecnia, incompatível
+1304;remover;antropologia da religião, incompatível
+1308;manter;professora Unicamp, temas SPHAN/Lina confirmam
+1309;manter;professor UFF urbanismo compatível
+1318;manter;nome compatível, UNISINOS, benefício da dúvida
+1321;dificil;uma obra fotovoltaica, nome comum, evidência insuficiente
+1333;manter;professor titular UFRJ, habitação compatível
+1346;remover;contabilidade UFG, não o professor FAU-USP
+1349;remover;estagiária atual, linha do tempo incompatível com 2005
+1351;manter;professor UFBA, instituição bate
+1360;remover;nome divergente (Calheiros Barros)
+1363;manter;obras CIAM/Parque Guinle confirmam
+1367;remover;patologia veterinária, incompatível
+1387;remover;bibliotecária, nome divergente
+1408;remover;educação/IA Bolívia, incompatível
+1410;remover;estudante atual, linha do tempo incompatível com 2007
+1412;manter;professora UNIFAP, Amapá bate com artigos
+1419;remover;educação/gênero, incompatível
+1435;manter;professora UnB compatível
+1453;remover;enfermagem, incompatível
+1457;remover;matemática IFNMG, não o crítico de arte
+1460;manter;historiadora da arte, obras compatíveis
+1465;manter;UEMA bate + obra centros históricos
+1467;remover;enfermagem Fortaleza, nome divergente
+1476;manter;Bauhaus/Lincoln Institute, formação compatível
+1502;remover;saúde pública, nome divergente
+1508;remover;nome divergente, saúde
+1516;manter;UFFS bate com Alto Uruguai gaúcho
+1521;remover;hospital Portugal, nome divergente
+1526;remover;etnomatemática, nome divergente
+1529;remover;pedagogia, nome divergente (Silva≠Conceição)
+1535;manter;obra história urbana portuária Rio confirma
+1539;manter;historiografia da arte confirma
+1540;manter;UFRGS/UFSM, geografia sul compatível
+1544;manter;nome distintivo bate, professora UFSJ
+1557;manter;obra sobre restauro Viollet-le-Duc confirma
+1565;remover;medicina, nome divergente
+1571;remover;antropologia da religião, nome divergente
+1613;remover;engenharia de polímeros, nome divergente (Ferro)
+1624;dificil;educação inclusiva plausível para tema pedagógico, nome parcial
+1632;manter;nome exato distintivo, professora UPF
+1634;manter;historiador UCS, patrimônio Serra Gaúcha compatível
+1641;manter;nome exato, pesquisador de edifícios de apartamentos
+1646;remover;dermatologia veterinária, sem vínculo com arquitetura
+1650;remover;engenharia de materiais, nome do meio diverge
+1651;manter;doutor pela UPC, obra sobre torres em NY
+1657;manter;historiadora Fiocruz, acervos de Manguinhos coerentes
+1674;manter;professor UFSC, afiliação dos anais bate
+1678;manter;engenheiro em Santos, geografia e função batem
+1685;manter;sobrenome raro, geografia serrana compatível
+1691;manter;obras de paisagem cultural e conservação, Mendoza
+1698;remover;nutricionista, campo totalmente distante
+1701;remover;nome do meio diverge, educação quilombola
+1709;dificil;historiadora UFRGS da ditadura; homônima possível
+1711;remover;geógrafa UECE, nomes muito diferentes
+1715;manter;sobrenome distintivo, perfil magro inverificável
+1766;manter;UNL plausível para autora argentina, perfil magro
+1784;remover;antropólogo USP, nome do meio diverge
+1803;remover;educação/matemática ES, campo distante
+1830;manter;professor UFAM, Brutalismo Amazônico coerente
+1841;manter;historiador de arquitetura uruguaio, obras batem
+1847;remover;universidade peruana, autora é uruguaia, homônima
+1851;manter;mestranda Unesp, tema paulista coerente
+1856;manter;nome exato, UnB bate com o tema
+1863;remover;reabilitação pulmonar, homônima
+1873;remover;enfermeira portuguesa, nome diverge (Graça)
+1883;remover;cirurgia em Cleveland, nome diverge
+1885;manter;USP, perfil magro, nome bate
+1895;remover;cirurgia cardíaca na Itália
+1902;remover;fisioterapia em Ottawa, campo distante
+1905;remover;nome do meio diverge, saúde
+1908;manter;Câmara dos Deputados, especialista em concursos
+1920;manter;obra sobre Luiz Nunes confirma identidade
+1936;remover;nome do meio diverge (Peres vs Oliveira Braga)
+1939;remover;consultório médico em Portugal
+1949;remover;enfermagem/epidemiologia, campo distante
+1964;manter;obra e afiliação batem (Unisinos/UFRGS)
+1972;remover;nomes do meio divergem, filosofia/educação
+1997;remover;investigação agrária em Moçambique
+2000;manter;docente de dança UFPB, artigo é sobre dança
+2008;remover;trabajo social nas Baleares, nome diverge
+2030;remover;geógrafo ES; arquiteto de Maringá é outro
+2040;remover;recensões de história religiosa em Portugal
+2055;manter;professor em Recife, plausível, sem contraevidência
+2081;remover;odontologia, nome do meio diverge
+2086;manter;historiadora cultural, salvaguarda de acervo coerente
+2089;manter;instituição bate (PUC-Rio), engenheira civil
+2105;manter;UnB bate com tema de Brasília
+2136;dificil;enfermagem, mas o paper é patrimônio da saúde
+2138;manter;UFPE, obra de patrimônio urbano paraibano
+2150;remover;literatura hispânica, campo distante
+2155;remover;nomes muito diferentes, atendente de creche
+2159;dificil;doutoranda UERJ plausível, nome do meio diverge
+2160;remover;nome diverge, ensino de matemática
+2163;manter;engenheira civil em Curitiba, restauro coerente
+2171;remover;ensino de matemática, nome diverge
+2184;remover;administração/psicologia RS, nome reordenado
+2194;manter;professor UFBA conhecido da área
+2195;manter;obra sobre Pampulha bate com tema
+2203;dificil;perfil vazio, nome do meio diverge
+2233;remover;letras/literatura, nome do meio diverge
+2236;manter;Mackenzie e Romano Guerra, crítico conhecido
+2239;remover;nome diverge (Nascimento), IFMA
+2245;manter;mestrando UFRJ, tema carioca coerente
+2247;remover;radiologia musculoesquelética, campo distante
+2253;remover;lógica/ciência de dados, campo distante
+2257;dificil;engenheiro mecânico UFCG, coautoria em tectônica plausível
+2258;manter;UFCG bate com afiliação dos anais
+2261;manter;nome bate, perfil magro FGV
+2267;remover;software/administração, campo distante
+2269;manter;obra de conservação de ladrilhos, Belém bate
+2276;manter;coordenação na Positivo, plausível
+2299;remover;geografia UFSM, homônima comum
+2303;remover;nome do meio diverge, licitações públicas
+2306;remover;Libras/linguística, apesar da UFPR
+2317;dificil;obra de xilogravura/artes, homônima possível
+2325;manter;doutoranda UFPA, nome estendido compatível
+2340;remover;ensino de química/física, campo distante
+2347;manter;obra sobre Forma Aberta/PREVI confirma
+2349;remover;fonoaudióloga na Colômbia
+2354;manter;professor UFPA, afiliação bate
+2355;manter;grafia distintiva Vithoria, UFPA bate
+2356;remover;advogado em Sergipe, nome do meio diverge
+2363;remover;estudante FAMETRO; autora é professora UFPA
+2369;remover;médica em Portugal
+2371;remover;nome diverge, saúde no Tocantins
+2375;remover;biologia em Goiás, campo distante
+2390;remover;administração UFU, homônima
+2398;manter;Ogawa distintivo, perfil magro inverificável
+2401;manter;obra sobre Pilar confirma identidade
+2412;dificil;design/infografia no Canadá; possível homônimo
+2424;remover;matemático UFPR, nome do meio diverge
+2427;manter;mestranda UFG, Goiânia bate
+2437;remover;história do autismo, campo distante
+2440;remover;epidemiologia de Chagas
+2447;dificil;saúde do Cariri, mesma região, possível homônima
+2454;manter;graduação Mackenzie, escola de arquitetura
+2463;manter;professora UFRR, nome distintivo, tema plausível
+2471;manter;Monick distintivo, UFC/Cariri coerente
+2477;manter;professor UFPA, plausível
+2484;manter;UDESC, nome exato, tema catarinense
+2506;remover;nome do meio diverge, sociologia/RI
+2514;manter;UFRPE plausível, nome estendido compatível
+2519;remover;genômica do câncer, homônima chilena
+2538;manter;perfil magro UFPA, nome e geografia compatíveis
+2542;manter;estudante UFRR, tema Severiano Porto em Roraima bate
+2544;remover;enfermeira oncológica GO, sobrenomes intermediários divergem
+2545;remover;bibliotecária UFG, sobrenomes divergem (Antonino Alves vs Alves Costa)
+2546;remover;professora geografia escolar SP, sobrenomes divergem (Dantas vs Kissi)
+2574;remover;middle names divergem (Henrique Brandão vs Carlos Coelho), homônimo
+2578;manter;estudante UFCG, artigo sobre Campina Grande — instituição bate
+2587;manter;UFAM no perfil, artigo sobre campus UFAM
+2596;manter;eng. estruturas UFMG, obras patologias de edifícios — adjacente perfeito
+2608;manter;nome exato UFMG, professora conhecida da EA-UFMG
+2610;remover;saúde no Acre (Oropouche), sobrenomes divergem
+2617;remover;zootecnista UNESP bem-estar animal, Silva vs Paranhos
+2624;remover;agrônomo irrigação UFV, homônimo de nome comum
+2627;manter;nome raro idêntico, UFCG, Residência Cavalcanti em CG
+2639;manter;estudante, nome compatível, sem evidência contrária
+2643;manter;bacharel UFCG, artigo Clube Campinense — bate
+2653;remover;fisiologia veterinária no Caribe, incompatível com FAU-UFRJ
+2665;remover;UERJ ensino de ciências/física, não é a Maria Porto FAU-UFRJ
+2675;manter;chefe museus Castro Maya IBRAM, artigo sobre museus Castro Maya
+2686;manter;mestranda UFRJ, artigo FAU-UFRJ — instituição bate
+2693;remover;docente educação Tiradentes-SE, Vieira Santos diverge
+2698;remover;corregedor/agronegócios UFGD, não é o urbanista da UFJF
+2703;remover;Tropia vs Wallace Barros, pessoa diversa
+2705;remover;advogado compliance, nome comuníssimo, área incompatível
+2710;manter;perfil só emprego administrativo, nome compatível, inverificável
+2721;manter;nome raro exato UFRJ, obra sobre patologia de edifícios ecléticos
+2737;manter;professor UFRN, artigo PPGAU-UFRN — bate
+2754;remover;nome diverge (Etianne vs Eliane), obra educação
+2761;manter;perfil vazio, nome bate, Burnett é professor UEMA conhecido
+2762;remover;psicóloga hospitalar MG, incompatível com UNICAP
+2763;remover;oncologista espanhola de próstata, incompatível
+2764;remover;onomástica Unioeste-PR, incompatível com UNICAP-PE
+2765;remover;biólogo FAMERP, incompatível
+2770;manter;docente eng. civil/materiais de construção em Holguín, adjacente plausível
+2808;remover;ecólogo global PhD Reading, não é o historiador EA-UFMG
+2814;remover;agente administrativa, Zhayra vs Junia divergem
+2815;remover;medicina nuclear, sobrenomes divergem
+2821;remover;psicóloga escolar Fortaleza, não é a professora FAUeD-UFU
+2823;manter;perfil vazio, arquiteto guatemalteco USAC conhecido do Docomomo
+2825;remover;químico analítico IFPB, homônimo de nome comum
+2827;remover;psicologia/educación Chile, incompatível com USAC
+2857;remover;perfil vazio e sobrenomes divergem (Sabóia vs Figueira)
+2868;remover;nefrologia EUA, incompatível
+2872;manter;obra sobre territorialidade e moradia, compatível
+2873;manter;obra sobre fôrmas metálicas de Lelé, artigo sobre escolas de Lelé
+2894;remover;obra nutrição infantil, Morais ausente, área diversa
+2920;remover;macroecologia populacional, incompatível com Severiano Porto/FAU-USP
+2965;remover;Ana Cristina vs Ana Rosa, pessoa diversa
+2986;remover;obra teologia bíblica, incompatível
+2993;remover;médica veterinária, Petrovich vs Ramos divergem
+3008;remover;educação decolonial USP, Primo vs Araújo divergem
+3013;remover;medicina/genética, incompatível
+3018;remover;fisioterapeuta paliativista PA, sobrenomes divergem
+3026;manter;docência SP sem obras, nome compatível, inverificável
+3197;remover;imunologia/COVID, incompatível com DARQ-UFRN
+3198;remover;direito ULBRA, incompatível com PPGAU-UFPA
+3203;remover;filosofia antiga, incompatível
+3208;manter;nome completo exato, docência genérica, inverificável
+3220;remover;psicóloga BA, incompatível com MDU-UFPE
+3242;remover;obras oncologia, incompatível
+3243;remover;professora de direito UniCEUB, incompatível
+3254;remover;Nathalie vs Julio, obras cinema/filosofia
+3271;remover;química analítica AL, Cecília vs Célia
+3299;remover;patologia molecular UFMG, incompatível com FAG-PR
+3306;remover;antropólogo Gonçalves, não é o Smolarek de Cascavel
+3307;manter;professora Unioeste, geografia de Cascavel bate, nome raro
+3310;manter;coordenador UniFil Londrina, artigo UniFil — instituição bate
+3317;manter;analista CNPq, nome compatível, sem contradição
+3319;remover;historiadora da educação FURB, Pêgo vs Moraes
+3321;dificil;professor UFRJ com obra barroco/cultura urbana, pode ser o autor UFOP
+3350;manter;nome exato UFF, obra sobre flâneuse na urbe moderna
+3357;manter;Roberto Conduru, historiador de arte/arquitetura conhecido
+3359;remover;obras cardiologia, homônima da professora DA-UFRGS
+3431;remover;médica FMRP-USP, não é a autora Docomomo
+3466;remover;gestão de aviação FGV/ITA, incompatível com PROURB
+3474;manter;mestrando USP, artigo FAUUSP — bate
+3478;remover;história das religiões IFRJ/UERJ, autor é UFPR
+3547;manter;obras sobre Radić, Eyquem e Sesc Pompéia — arquitetura pura
+3557;manter;professora na PB, nome compatível, sem contradição forte
+3559;manter;professora UFPB, pesquisadora de difusão da arquitetura moderna
+3561;remover;obra tuberculose, Pahor vs Nascimento divergem
+3583;dificil;antropóloga com tema afim, Maria vs Morais diverge
+3587;remover;Ana Almagro Esteban de Jaén não é Esteban Maluenda da UPM
+3594;manter;nome raro exato, obra sobre igreja Anchieta/Pateo do Collegio
+3601;remover;coordenador em indústria odontológica, Pianca vs Guedes
+3627;remover;professor de computação/IHC UFRGS, autor é FAU-UnB
+3648;remover;cientista política (Bolsonaro), Pedreira vs Basso
+3671;remover;graduanda nutrição UFPA, autor é DAU-UFV
+3721;remover;eng. química Porto (adsorção), incompatível
+3722;manter;professora no Instituto Santa Marcelina (artes), tema painéis artísticos
+3764;manter;nome exato, formação em Brasília, artigo FAU-UnB
+3788;manter;UnB no perfil, artigo FAU-UnB, ORCID já confirmado ontem
+3793;remover;obra educação escolar UFF, homônima de nome comum
+3810;manter;universitária UEMG, nome completo compatível, sem contradição forte
+3824;manter;obra sobre Rodrigo Lefèvre, artigo sobre Arquitetura Nova
+3831;remover;research manager em Darmstadt, não é a artista ECA-USP
+3832;manter;mestrando USP, artigo FAU-USP — bate
+3850;dificil;deep learning, nome exato raro, artigo 2025 sem afiliação clara
+3869;manter;Kathrin Rosenfield UFRGS, escreve sobre Viena — interdisciplinar legítima
