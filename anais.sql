@@ -11557,7 +11557,7 @@ INSERT INTO "authors" VALUES(30,'Marizo Vitor','Pereira','marizovitor@yahoo.com.
 INSERT INTO "authors" VALUES(31,'Paulo José Lisboa','Nobre','nobre.p@gmail.com','0000-0003-4089-9252','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(36,'Ricardo Alexandre','Paiva','ricardopaiva@ufc.br','0000-0002-0332-097X','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(37,'Rodrigo Miranda','Feitosa','feitosamiranda@gmail.com',NULL,'2026-02-12','2.0');
-INSERT INTO "authors" VALUES(38,'Grete Soares -','Pflueger','grete@elo.com','0000-0002-9376-8689','2026-02-12','pre-2.0');
+INSERT INTO "authors" VALUES(38,'Grete Soares','Pflueger','grete@elo.com','0000-0002-9376-8689','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(39,'Ruth Verde','Zein','rvzein@gmail.com','0000-0003-0923-4914','2026-02-12','pre-2.0');
 INSERT INTO "authors" VALUES(40,'Anita Regina','Di Marco','ardimarco@uol.com.br',NULL,'2026-03-28','3.1');
 INSERT INTO "authors" VALUES(41,'Tânia Beisl','Ramos','taniabeislramos@clix.pt','0000-0002-6102-7288','2026-02-12','pre-2.0');
